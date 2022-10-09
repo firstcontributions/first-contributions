@@ -3114,13 +3114,13 @@
 - [Rahmat Subandi](https://github.com/rahmatsubandi)
 - [Divyansh Kumar](https://github.com/coris01)
 - [Puspakirana] (https://github.com/puspakirana)
-[Abhishek Yadav] (https://github.com/Abhiiydv)
+- [Abhishek Yadav] (https://github.com/Abhiiydv)
 - [Andres Arrieta](https://github.com/lsomacruzl)
 <!-- Just a comment -->
--[Shivangi Tiwari](https://github.com/Shivangi708)
--[Jinyoung](https://github.com/diligejy)
-[Swapnil Ranmale]https://github.com/swapnilranmale2003
-[Arghya Bhattacharya](https://github.com/arghya501)
+- [Shivangi Tiwari](https://github.com/Shivangi708)
+- [Jinyoung](https://github.com/diligejy)
+- [Swapnil Ranmale]https://github.com/swapnilranmale2003
+- [Arghya Bhattacharya](https://github.com/arghya501)
 - [Shobhit Goyal](https://github.com/shobhit9070/)
 - [Aryan Gurung](https://github.com/h3athen)
 - [Neeraj Meena](https://github.com/neeraj542)
@@ -3141,7 +3141,7 @@
 - [Himanshu Mahato](https://github.com/m7-selenophile)
 - [Moti Kumar Yadav](https://github.com/moti9)
 - [Atharv Vani](https://github.com/Atharv-110)
-- [Parag Dewangan (https://github.com/Parag-dwn)]
+- [Parag Dewangan] (https://github.com/Parag-dwn)
 - [Pushkar Yadav](https://github.com/pushkarydv)
 - [Durga Vamsi Krishna](https://github.com/vamsikrishnarh7)
 - [Sarin Sthapit](https://github.com/SarinSthapit)
