@@ -3128,4 +3128,5 @@
 - [Sarin Sthapit](https://github.com/SarinSthapit)
 - [Aditya Sharma](https://github.com/Aditya13s)
 - [Samuele Bella](https://github.com/Novaenn)
+- [Shubharthak Sangharasha](https://github.com/shubharthaksangharsha)
 <!-- prettier-ignore-end -->
