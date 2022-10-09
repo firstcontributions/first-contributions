@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Rupak Sapkota](https://github.com/sprupak07)
 - [Ronaldo Kereh](https://github.com/kereh)
 - [Bikash yadav](https://github.com/bikashydv)
 - [Sowmya S](https://github.com/sowmya-s-26)
@@ -24,8 +25,8 @@
 - [Aditya Jaiswal](https://github.com/adityajaiswal094)
 - [Moinuddin Mulla](https://github.com/moinmulla)
 - [MD. Mamdud Hasan](https://github.com/n8fury)
-- [Sunera Sunilaka] (https://github.com/Sunera-2216)
-- [Chinatomuto nnaji] (https://github.com/chinatomuto)
+- [Sunera Sunilaka](https://github.com/Sunera-2216)
+- [Chinatomuto nnaji](https://github.com/chinatomuto)
 - [Pranit Kumar Singh](https://github.com/pranit9000)
 - [Megan Moulos](https://github.com/meganmoulos/)
 - [Rakshit Gupta](https://github.com/rakshitgupta23)
