@@ -3180,4 +3180,5 @@
 - [Mukund Deepak](https://github.com/mukunddeepak)
 - [Muhammed Jahsid](https://github.com/jahsid)
 - [Silicon Merc](https://github.com/SiliconMerc)
+- [Nishchal128](https://github.com/Nishchal128)
 <!-- prettier-ignore-end -->
