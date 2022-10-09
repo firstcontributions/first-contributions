@@ -3186,4 +3186,5 @@
 - [Shashank K V] (https://github.com/Shashank-K-V)
 - [N N Goswami] (https://github.com/imNilabja)
 - [Ayushi Gautam] (https://github.com/AyushiGautam9)
+- [Alain Seys] (https://github.com/alainseys)
 <!-- prettier-ignore-end -->
