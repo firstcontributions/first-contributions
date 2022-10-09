@@ -91,6 +91,7 @@
 - [Anurag Yadav](https://github.com/poweredbycaffein)
 - [Yvonne Fong](https://github.com/yvnf)
 - [Francesco Di Trapani] (https://github.com/dtfrancesco)
+- [Duong Gia Dat](https://github.com/HenryDat97)
 - [Tarandeep Singh](https://github.com/taran11313)
 - [Riya Sharma](https://github.com/riyasharma18)
 - [Prathik Reddy](https://github.com/Prathik-reddy)
