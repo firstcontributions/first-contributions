@@ -3179,4 +3179,5 @@
 - [Riya Jain] ((https://github.com/Riyajain115)
 - [Mukund Deepak](https://github.com/mukunddeepak)
 - [Muhammed Jahsid](https://github.com/jahsid)
+- [Silicon Merc](https://github.com/SiliconMerc)
 <!-- prettier-ignore-end -->
