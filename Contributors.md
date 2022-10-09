@@ -3137,4 +3137,5 @@
 - [Shubharthak Sangharasha](https://github.com/shubharthaksangharsha)
 - [Tanmay Churi](https://github.com/tanmay-churi?tab=repositories)
 - [cris yi](https://github.com/Crisyix)
+- [Vani Singh](https://github.com/vanisingh-24)
 <!-- prettier-ignore-end -->
