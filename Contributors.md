@@ -64,6 +64,7 @@
 - [vishal dhavale](https://github.com/vishu1893)
 - [Yashvardhan Agnihotri](https://github.com/25011908vardhan)
 - [Priyadarshini Sharma](https://github.com/PriyadarshiniSharma)
+- [luv sharma](https://github.com/luvsharmag)
 - [Alan Flores](https://github.com/AlanF20)
 - [Aaryan Singh](https://github.com/Aaryan376)
 - [SK Luffa](https://github.com/SK-Luffa)
