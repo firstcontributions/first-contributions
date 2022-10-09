@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Wajid Ali Tabassum](https://github.com/wajidalitabassum143)
 -[Saumya Upadhyay](https://github.com/Saumyaup11)
 -[yogesh](https://github.com/yogesh-0911)
 -[paras](https://github.com/paras9192)
