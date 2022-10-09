@@ -103,6 +103,7 @@
 - [shrthk-7](https://github.com/shrthk-7)
 - [Yash Thakur](https://github.com/philomathaf)
 - [Adnan Ahmed](https://github.com/fidato818)
+- [Aman Badone](https://github.com/amanbadone)
 - [Raghav Krishan Kedia](https://github.com/Raghav-Kedia)
 - [WhiteR4ven](https://github.com/WhiteR4ven)
 - [Aviraj Saxena](https://github.com/theavirajsaxena)
