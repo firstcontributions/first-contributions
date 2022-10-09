@@ -3114,4 +3114,5 @@
 - [Atharv Vani](https://github.com/Atharv-110)
 - [Parag Dewangan (https://github.com/Parag-dwn)]
 - [Pushkar Yadav](https://github.com/pushkarydv)
+- [Durga Vamsi Krishna](https://github.com/vamsikrishnarh7)
 <!-- prettier-ignore-end -->
