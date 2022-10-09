@@ -31,6 +31,7 @@
 - [Rajanit](https://github.com/rajanitnavapara8)
 - [Shashi Raj](https://github.com/shashirajraja)
 - [Aditya Jaiswal](https://github.com/adityajaiswal094)
+- [Shehbaz Khan](https://github.com/shehbazk)
 - [Moinuddin Mulla](https://github.com/moinmulla)
 - [MD. Mamdud Hasan](https://github.com/n8fury)
 - [Sunera Sunilaka] (https://github.com/Sunera-2216)
