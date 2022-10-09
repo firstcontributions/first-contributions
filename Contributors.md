@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [B.Langue](https://github.com/blangue) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave gif" style="height: 20px; width: 20px;" />
 - [Wajid Ali Tabassum](https://github.com/wajidalitabassum143)
 -[Saumya Upadhyay](https://github.com/Saumyaup11)
 -[yogesh](https://github.com/yogesh-0911)
