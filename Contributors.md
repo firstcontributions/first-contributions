@@ -21,6 +21,7 @@
 - [Prerit Agrawal](https://github.com/preritagrawal06)
 - [JSTNSNE](https://github.com/JSTNSNE)
 - [Abhijith H](https://github.com/Abhijith-H13)
+- [Harikumar Peddakotla](https://github.com/Harikumar778)
 - [Kunal Kartik](https://github.com/KunalKartik02)
 - [Kunal Kartik](https://github.com/KunalKartik02)
 - [Vijayalaxmi Kadham](https://github.com/KadhamVj23)
