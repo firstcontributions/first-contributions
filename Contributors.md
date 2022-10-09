@@ -21,7 +21,7 @@
 - [JSTNSNE](https://github.com/JSTNSNE)
 - [Kunal Kartik](https://github.com/KunalKartik02)
 - [Kunal Kartik](https://github.com/KunalKartik02)
-- [Vijayalakshmi Kadham](https://github.com/KadhamVj23)
+- [Vijayalaxmi Kadham](https://github.com/KadhamVj23)
 - [Syed Jailani](https://github.com/syedjailani)
 - [AkT-01](https://githhub.com/AkT-01)
 - [Syed Jailani](https://github.com/syedjailani)
