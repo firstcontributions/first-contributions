@@ -10,6 +10,7 @@
 - [Seemant Tripathi](https://github.com/seemanttripathi/)
 - [Laksh Gupta](https://github.com/cyborglaksh)
 - [Darshan Patel](https://github.com/darshan260802)
+- [Karan Meena](https://github.com/karanmeena237)
 - [CSanjana](https://github.com/Sanjana20304)
 - [Karanjot Singh](https://karanjot.vercel.app)
 - [SHUBHAM PATIDAR ](https://www.linkedin.com/in/shubham-patidar-98ba5b148)
@@ -3181,4 +3182,5 @@
 - [Muhammed Jahsid](https://github.com/jahsid)
 - [Silicon Merc](https://github.com/SiliconMerc)
 - [Nishchal128](https://github.com/Nishchal128)
+- [Shashank K V] (https://github.com/Shashank-K-V)
 <!-- prettier-ignore-end -->
