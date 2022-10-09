@@ -3104,4 +3104,5 @@
 - [Arthur Fernades](https://github.com/Ploita)
 - [Himanshu Mahato](https://github.com/m7-selenophile)
 - [Moti Kumar Yadav](https://github.com/moti9)
+- [Atharv Vani](https://github.com/Atharv-110)
 <!-- prettier-ignore-end -->
