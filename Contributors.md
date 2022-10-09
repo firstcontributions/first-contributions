@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Ronaldo Kereh](https://github.com/kereh)
+- [Bikash yadav](https://github.com/bikashydv)
 - [Sowmya S](https://github.com/sowmya-s-26)
 - [JSTNSNE](https://github.com/JSTNSNE)
 - [Syed Jailani](https://github.com/syedjailani)
