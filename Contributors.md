@@ -2998,6 +2998,7 @@
 - [Shanu Mishra](https://github.com/Shanu-02)
 - [Yusuf Adefolahan](https://github.com/sanxy)
 - [Dennis Pater](https://github.com/dpater1986)
+- [Gahan Saraiya](https://github.com/gahan9)
 - [Isaac Martin](https://github.com/issac5693)
 - [Videhi Bavishi](https://github.com/VidehiBavishi)
 - [Ash G](https://github.com/stayyFrostyy)
