@@ -74,7 +74,7 @@ Ge kommando `git status` i projektkatalogen för att se de ändringar du gjort.
 Lägg till dina ändringar genom att använda kommando `git add -A`:
 
 ```
-git add -A
+git add Contributors.md
 ```
 
 Commita dina ändringar genom att använda `git commit`:
