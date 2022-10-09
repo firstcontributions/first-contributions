@@ -895,6 +895,7 @@
 - [Yash Nirmal](https://github.com/yashnirmal)
 - [Sign](https://github.com/S-ign)
 - [Zain Iftikhar](https://github.com/ZainIftikhar7vals)
+- [Crystal Chavez](https://github.com/crystalchavez99)
 - [Navya S Raj](https://github.com/navyasraj02)
 - [Samy Benmahrez](https://github.com/samcodesign)
 - [Sarvesh Rane](https://github.com/sarveshrane2000)
@@ -3150,4 +3151,5 @@
 - [Vani Singh](https://github.com/vanisingh-24)
 - [shiker1996](https://github.com/shiker1996)
 - [Ankur Gupta](https://github.com/Ankurgupta271)
+- [PathuS13](https://github.com/pathuS13)
 <!-- prettier-ignore-end -->
