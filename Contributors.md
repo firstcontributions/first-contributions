@@ -3130,4 +3130,5 @@
 - [Aditya Sharma](https://github.com/Aditya13s)
 - [Samuele Bella](https://github.com/Novaenn)
 - [Shubharthak Sangharasha](https://github.com/shubharthaksangharsha)
+- [Tanmay Churi](https://github.com/tanmay-churi?tab=repositories)
 <!-- prettier-ignore-end -->
