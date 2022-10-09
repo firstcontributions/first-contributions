@@ -58,6 +58,7 @@
 - [Yashvardhan Agnihotri](https://github.com/25011908vardhan)
 - [Priyadarshini Sharma](https://github.com/PriyadarshiniSharma)
 - [Alan Flores](https://github.com/AlanF20)
+- [Aaryan Singh](https://github.com/Aaryan376)
 - [SK Luffa](https://github.com/SK-Luffa)
 - [Arjava Tripathi](https://github.com/ArjavaTripathi)
 - [Amit Roy](https://github.com/amitroy-thedev)
