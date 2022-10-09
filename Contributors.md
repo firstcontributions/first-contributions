@@ -3133,5 +3133,6 @@
 - [Samuele Bella](https://github.com/Novaenn)
 - [Shubharthak Sangharasha](https://github.com/shubharthaksangharsha)
 - [Tanmay Churi](https://github.com/tanmay-churi?tab=repositories)
+- [cris yi](https://github.com/Crisyix)
 - [Mohammed Abdelawal](https://github.com/Mohammed-abdelawal)
 <!-- prettier-ignore-end -->
