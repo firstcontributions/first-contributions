@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+-[paras](https://github.com/paras9192)
 - [Griffin](https://github.com/Midnightific)
 - [Sigit Pramono](https://github.com/SigitPramts)
 - [Anugrah Rachman](https://github.com/kidomega-byte/)
