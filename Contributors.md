@@ -7,6 +7,7 @@
 -[paras](https://github.com/paras9192)
 - [Griffin](https://github.com/Midnightific)
 - [Sigit Pramono](https://github.com/SigitPramts)
+- [Rahul chaurasiya](https://github.com/Rahul-chaurasiya?)
 - [Anugrah Rachman](https://github.com/kidomega-byte/)
 - [Seemant Tripathi](https://github.com/seemanttripathi/)
 - [Laksh Gupta](https://github.com/cyborglaksh)
