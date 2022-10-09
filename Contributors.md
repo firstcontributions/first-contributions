@@ -474,6 +474,7 @@
 - [Jonas Wouters](https://github.com/JonasWouters113)
 - [Steve Murimi](https://github.com/Stevecmd)
 - [Agrima Gupta](https://github.com/sassy-bugs)
+- [Mohit Kumar Suman](https://github.com/mohitkrsuman)
 - [Harry Sion Tarigan](https://github.com/hawryyy30)
 - [Abhay](https://github.com/darkbits018)
 - [Jahnvi ](https://github.com/jahnvi15/)
