@@ -3117,4 +3117,5 @@
 - [Parag Dewangan (https://github.com/Parag-dwn)]
 - [Pushkar Yadav](https://github.com/pushkarydv)
 - [Durga Vamsi Krishna](https://github.com/vamsikrishnarh7)
+- [Sarin Sthapit](https://github.com/SarinSthapit)
 <!-- prettier-ignore-end -->
