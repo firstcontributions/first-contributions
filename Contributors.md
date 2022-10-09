@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
--[yogesh](https://github.com/yogesh-0911)
+- [yogesh](https://github.com/yogesh-0911)
 -[paras](https://github.com/paras9192)
 - [Griffin](https://github.com/Midnightific)
 - [Sigit Pramono](https://github.com/SigitPramts)
