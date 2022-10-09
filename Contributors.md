@@ -67,6 +67,7 @@
 - [Melanga Dissanayake](https://github.com/melanga)
 - [Utsab Kundu](https://github.com/Utsab5)
 - [xhemals](https://github.com/xhemals)
+- [Siddharth Bhardwaj](https://github.com/TheUnofficialGod)
 - [Jesse Gerbrandt](https://github.com/Jgerbrandt)
 - [Utsav Akash Naskar](https://github.com/Utsav1999)
 - [Phibersoft](https://github.com/phibersoft)
