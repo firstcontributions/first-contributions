@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Laksh Gupta](https://github.com/cyborglaksh)
 - [Darshan Patel](https://github.com/darshan260802)
 - [Karanjot Singh](https://karanjot.vercel.app)
 - [Apurv Tiwari](https://github.com/Mahakal0123)
