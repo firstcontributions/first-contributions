@@ -821,6 +821,7 @@
 - [Vincent Surkijn](https://github.com/Vincent-Surkijn)
 - [Shubham Maurya](https://www.youtube.com/c/DebugWithShubham)
 - [TuttiFrutti7](https://github.com/TuttiFrutti7)
+- [Shreya Agarwal](https://github.com/shreya24ag)
 - [mind8hunter](https://www.youtube.com/channel/UCYD48GnJeHDSrEJle-IzG1A)
 - [subhajit chakraborty](https://github.com/chakraborty89subhajit)
 - [Gautam Arora](https://github.com/gautamarora5)
