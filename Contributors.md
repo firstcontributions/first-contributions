@@ -3126,4 +3126,5 @@
 - [Durga Vamsi Krishna](https://github.com/vamsikrishnarh7)
 - [Sarin Sthapit](https://github.com/SarinSthapit)
 - [Aditya Sharma](https://github.com/Aditya13s)
+- [Samuele Bella](https://github.com/Novaenn)
 <!-- prettier-ignore-end -->
