@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Wajid Ali Tabassum](https://github.com/wajidalitabassum143)
 -[Saumya Upadhyay](https://github.com/Saumyaup11)
 -[yogesh](https://github.com/yogesh-0911)
 -[paras](https://github.com/paras9192)
@@ -171,6 +172,7 @@
 - [Akansha Rawat](https://github.com/xx-codificare-xx)
 - [Ali Akkas] (https://github.com/aliakkas006)
 - [raspicorgi](https://github.com/raspicorgi)
+- [riyadhami](https://github.com/riyadhami)
 - [Mubarak CH](https://github.com/ch-mubarak)
 - [LeGrandMAG](https://github.com/LeGrandMAG)
 - [Sabohat](https://github.com/sabohat)
@@ -3184,4 +3186,5 @@
 - [Silicon Merc](https://github.com/SiliconMerc)
 - [Shashank K V] (https://github.com/Shashank-K-V)
 - [N N Goswami] (https://github.com/imNilabja)
+- [Ayushi Gautam] (https://github.com/AyushiGautam9)
 <!-- prettier-ignore-end -->
