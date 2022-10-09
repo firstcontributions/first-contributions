@@ -12,6 +12,7 @@
 - [Alfeu Xerinda](https://githhub.com/Hard-007)
 - [Victor F.](https://github.com/victorfyonemoto)
 - [Sai Rahul](https://github.com/Sai3Rahul)
+- [Aditya Badve](https://github.com/adityab05)
 - [Khushi Saxena](https://github.com/khushi11saxena)
 - [Luis Contreras](https://github.com/luconther)
 - [wubiwen](https://github.com/s1084796293)
