@@ -6,6 +6,7 @@
 - [Griffin](https://github.com/Midnightific)
 - [Sigit Pramono](https://github.com/SigitPramts)
 - [Anugrah Rachman](https://github.com/kidomega-byte/)
+- [Seemant Tripathi](https://github.com/seemanttripathi/)
 - [Laksh Gupta](https://github.com/cyborglaksh)
 - [Darshan Patel](https://github.com/darshan260802)
 - [CSanjana](https://github.com/Sanjana20304)
