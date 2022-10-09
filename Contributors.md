@@ -1,6 +1,6 @@
 # Contributors
-
 <!-- prettier-ignore-start -->
+-[Rohit Yadav](https://www.linkedin.com/in/rohit-yadav-0852481b2/)
 - [Ronaldo Kereh](https://github.com/kereh)
 - [Bikash yadav](https://github.com/bikashydv)
 - [Sowmya S](https://github.com/sowmya-s-26)
