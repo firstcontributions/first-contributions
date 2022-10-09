@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Griffin](https://github.com/Midnightific)
 - [Sigit Pramono](https://github.com/SigitPramts)
 - [Anugrah Rachman](https://github.com/kidomega-byte/)
 - [Laksh Gupta](https://github.com/cyborglaksh)
