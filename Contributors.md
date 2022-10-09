@@ -3166,4 +3166,5 @@
 - [PathuS13](https://github.com/pathuS13)
 - [Jaskirat Kaur](https://github.com/jjass-kaur)
 - [kanz] (https://github.com/arkansendy)
+- [Jijo Johnson](https://github.com/jijonj)
 <!-- prettier-ignore-end -->
