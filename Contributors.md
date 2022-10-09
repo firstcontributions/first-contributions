@@ -58,6 +58,7 @@
 - [Aditya Jaiswal](https://github.com/adityajaiswal094)
 - [Shehbaz Khan](https://github.com/shehbazk)
 - [Moinuddin Mulla](https://github.com/moinmulla)
+- [rusagaib](https://github.com/rusagaib)
 - [MD. Mamdud Hasan](https://github.com/n8fury)
 - [Sunera Sunilaka] (https://github.com/Sunera-2216)
 - [Chinatomuto nnaji] (https://github.com/chinatomuto)
