@@ -74,6 +74,7 @@
 - [Akash Singhal](https://github.com/Akashsinghal1234)
 - [Tanuj Kalonia](https://github.com/Tanuj3662)
 - [Raji Roqeeb](https://github.com/Codebox124) 
+- [Shamith Nakka](https://github.com/iamwatchdogs "Visit My GitHub Profile")
 - [Ken Durlin](https://github.com/kenthehuman/)
 - [Sanath Raj Petkar](https://github.com/kar108)
 - [Rohit Shah](https://github.com/RohitShah1706)
