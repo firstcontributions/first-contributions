@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Darshan Patel](https://github.com/darshan260802)
+- [Karanjot Singh](https://karanjot.vercel.app)
 - [Apurv Tiwari](https://github.com/Mahakal0123)
 - [Rishi Singh](https://github.com/mrsingh-rishi)
 - [Ronaldo Kereh](https://github.com/kereh)
