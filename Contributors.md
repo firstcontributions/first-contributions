@@ -12,6 +12,7 @@
 - [Anugrah Rachman](https://github.com/kidomega-byte/)
 - [Seemant Tripathi](https://github.com/seemanttripathi/)
 - [Laksh Gupta](https://github.com/cyborglaksh)
+- [Nabarun Sarkar](https://github.com/nabaruns)
 - [MLJ] (https://github.com/cryptomlj)
 - [Darshan Patel](https://github.com/darshan260802)
 - [Karan Meena](https://github.com/karanmeena237)
