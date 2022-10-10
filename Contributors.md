@@ -287,7 +287,7 @@
   [ParonPuff](https://github.com/ParonPuff/)
 - [Ahmed](https://github.com/yussa01)
 - [Priyanshu360-cpu](https://github.com/Priyanshu360-cpu)
-- [Rainer Wappler](https://github.com/RamWam)
+- [Ram Wam](https://github.com/RamWam)
 - [Prankush Giri](https://github.com/prankush-tech)
   [Shivank Prajapati](https://github.com/shivank1800)
 - [Ghulam Farid](https://www.github.com/ghulam-farid)
