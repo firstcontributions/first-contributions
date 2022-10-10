@@ -3236,6 +3236,7 @@ anish
 - [Siddharthsinh Bihola](https://github.com/SiddharthBihola)
 - [Rajdeep Sahoo](https://github.com/techrajdeep)
 - [Abhishek Singh](https://github.com/kunwarabhi7)
+- [Miguel Steven Nguyen](https://github.com/Msninmx)
 - [Disha Chowdhury](https://github.com/Disha246)
 - [Nikhil Reddy](https://github.com/n1ght-k1ng)
 - [neo](https://github.com/neocollege)
