@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Ayush Pandit](https://github.com/the-sleepingfox)
 - [Anugrah Rachman](https://github.com/kidomega-byte/)
 - [Laksh Gupta](https://github.com/cyborglaksh)
 - [Darshan Patel](https://github.com/darshan260802)
