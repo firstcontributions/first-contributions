@@ -11,6 +11,7 @@
 - [Rahul chaurasiya](https://github.com/Rahul-chaurasiya?)
 - [Anugrah Rachman](https://github.com/kidomega-byte/)
 - [Seemant Tripathi](https://github.com/seemanttripathi/)
+-[Kartikeya Kushwaha](www.linkedin.com/in/kartikeya-kushwaha-3036731ba)
 - [Laksh Gupta](https://github.com/cyborglaksh)
 - [MLJ] (https://github.com/cryptomlj)
 - [Darshan Patel](https://github.com/darshan260802)
