@@ -1,5 +1,5 @@
 # Contributors
-
+- [Bharat Mishra](https://github.com/BMlookingforaW)
 <!-- prettier-ignore-start -->
 - [Shazia Khatoon]
 - [Prashant Maitra](https://github.com/lovefromCode)
