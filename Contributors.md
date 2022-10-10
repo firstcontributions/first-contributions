@@ -3207,6 +3207,7 @@
 - [Lav Kumar](https://github.com/lavkumargupta)
 - [Ishaan Jain](https://github.com/ishaanjain1898)https://github.com/marianapcorrea
 - [Giacomo Guadagnini](https://github.com/Flipper97)
+- [wmazoni](https://github.com/wmazoni)
 - [Mariana P Correa](https://github.com/marianapcorrea)
 - [Sidhant kaushal](https://github.com/sidhantkaushal)
 - [Marcelo Dantas](https://github.com/MarceloLuisDantas)
