@@ -2,7 +2,7 @@
 - [Abhijeet](https://github.com/Abhithecoder-22)
 - [Aabideen](https://github.com/GurusGeek)
 <!-- prettier-ignore-start -->
-
+- [Gaurav Patil](https://github.com/GauravPatil8778)
 -[Ali El-Shamy](https://github.com/elshali)
 -[Zuzanna Kaźmierczak](https://github.com/Zuza29)
 -[mohd.salahudeen](https://github.com/Salah-XD)
