@@ -1,7 +1,6 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-- [Poonam Parate](https://github.com/HeYPoonam)
 -[Rahul Saha](https://github.com/Rahul10Saha)
 - [Wajid Ali Tabassum](https://github.com/wajidalitabassum143)
 -[Saumya Upadhyay](https://github.com/Saumyaup11)
@@ -2834,6 +2833,7 @@
 - [Ritesh Kumar](https://github.com/Riteshvs)
 - [Mohit Parmar](https://github.com/mohitparmar1)
 - [Namit Dasappanavar](https://github.com/namit343)
+- [Poonam Parate](https://github.com/HeYPoonam)
 - [Jst Vex](https://github.com/JstVex)
 - [Deepank Pushpad](https://github.com/DeepankRx)
 - [Julie Heard](https://github.com/julieheard)
@@ -3230,4 +3230,6 @@
 - [Suraj Singh Rajput](https://github.com/prototype69)
 - [Praveen Kumar Bommali](https://github.com/praveenbommali)
 - [Umesh Chaudhary](https://github.com/umschaudhary)
+- 
+
 <!-- prettier-ignore-end -->
