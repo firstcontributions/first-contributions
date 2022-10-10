@@ -156,6 +156,7 @@
 - [frank john](https://guthub.com/frank2ny)
 - [Nishtha Jethani](https://github.com/NishthaJethani)
 - [Sirio Negri](https://github.com/ziriuz84)
+- [Jessica Rose](https://github.com/21B01A1251)
 - [Debayan Sen](https://github.com/Debayan-Sen)
 - [Aishwarya Mali](https://github.com/aishwarya-mali)
 - [Aryaman Chanana] (https://www.instagram.com/arywcars/)
