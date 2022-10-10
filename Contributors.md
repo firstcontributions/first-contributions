@@ -3211,4 +3211,5 @@
 - [Toni T](https://github.com/velebyte)
 - [Himanshu] (https://github.com/himanshus110)
 - [Mariana Jager] (https://github.com/marianajms)
+- [Tytus Wenger] (https://github.com/Tytus117)
 <!-- prettier-ignore-end -->
