@@ -3121,6 +3121,7 @@ anish
 - [Simply-Sujal](https://github.com/Simply-Sujal)
 - [K Samarth N Kamath](https://github.com/k-samarth)
 - [Ashutosh Bandooni](https://github.com/coldn00dles)
+- [Anish Paudel](https://github.com/rpaudel379)
 - [lallu nallala](https://github.com/lallunallala87)
 - [Subhash Nimmala](https://github.com/subhash1599)
 - [ARUN FRANCIS TELLIS](https://github.com/ArunTellis)
