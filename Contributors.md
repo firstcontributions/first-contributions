@@ -1405,6 +1405,7 @@ anish
 - [Stefano Baccetti](https://github.com/Stefino76)
 - [Babatunde Taiwo](https://github.com/Proac-Tee)
 - [Utkarsh (uttkarrsh)](https://github.com/Uttkarrsh)
+- [Dudo48](https://github.com/dudo48)
 - [Matthew Stevens](https://github.com/ericmatthewstevens)
 - [Kritik](https://github.com/kritikjain9)
 - [Thsa1nt](https://github.com/Thsa1nt)
