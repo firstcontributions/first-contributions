@@ -3191,6 +3191,7 @@
 - [Chandan Sahoo](https://github.com/chandan23sde)
 - [Maged Faiz](https://github.com/maiz27)
 - [Ayush Bajpai](https://github.com/Ayushbajpai19)
+- [Daniel A] (https://github.com/Amesezra)
 - [Mustafa Al-Nomani](https://github.com/tofe54)
 - [Amisha Rani](https://github.com/AmishaRani)
 - [Yamini Thakur](https://github.com/yamini210)
