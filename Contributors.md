@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Rishabh Pratap Singh](https://github.com/iam-Rps)
 - [Poonam Parate](https://github.com/HeYPoonam)
 -[Rahul Saha](https://github.com/Rahul10Saha)
 - [Sadiq Siraj Ebrahim](https://github.com/sadiqebrahim)
