@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-- [Poonam Parate](https://github.com/HeYPoonam)
+
 -[Rahul Saha](https://github.com/Rahul10Saha)
 - [Wajid Ali Tabassum](https://github.com/wajidalitabassum143)
 -[Saumya Upadhyay](https://github.com/Saumyaup11)
@@ -3230,4 +3230,5 @@
 - [Suraj Singh Rajput](https://github.com/prototype69)
 - [Praveen Kumar Bommali](https://github.com/praveenbommali)
 - [Umesh Chaudhary](https://github.com/umschaudhary)
+- [Poonam Parate](https://github.com/HeYPoonam)
 <!-- prettier-ignore-end -->
