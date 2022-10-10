@@ -5,6 +5,7 @@
 - [Muhammed Musaddique](https://github.com/zmusaddique)
 - [Shazia Khatoon]
 - [Shabana Naik](https://github.com/ShabanaNaik)
+- [Saiyam Chawla](https://github.com/Saiyam0710)
 - [Prashant Maitra](https://github.com/lovefromCode)
 - [Sumanth Botlagunta](https://github.com/sumanth-botlagunta)
 - [Rishabh Pratap Singh](https://github.com/iam-Rps)
@@ -29,7 +30,6 @@
 - [Gabriel Joshua](https://github.com/JOSHI-23/)
 - [Ayushi Singh](https://github.com/ayushisingh73448/)
 -[Kartikeya Kushwaha](www.linkedin.com/in/kartikeya-kushwaha-3036731ba)
-- [Stroganov Kirill](https://github.com/kiraplenkin)
 - [Laksh Gupta](https://github.com/cyborglaksh)
 - [Nabarun Sarkar](https://github.com/nabaruns)
 - [MLJ] (https://github.com/cryptomlj)
