@@ -3249,4 +3249,5 @@
 - [Wei](https://github.com/weiwei2012holy)
 - [Saksham Gupta](https://github.com/saksham0103)
 - [Amiq Dian](https://github.com/amiqyolo)
+- [Panmax](https://github.com/Panmax)
 <!-- prettier-ignore-end -->
