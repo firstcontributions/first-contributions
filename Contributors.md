@@ -803,6 +803,7 @@
 - [Abdulhussain Jarif](https://github.com/Abdulhussainjarif)
 - [Srikar D. Palmite](https://github.com/Srikar-D-Palmite)
 - [Suksham_Sharma] (https://github.com/Suksham-sharma)
+- [Ginniped] (https://github.com/ginniped)
 - [Janfred Ramirez] (https://github.com/janramirez)
 - [sanjay gm](https://github.com/gmsanajy/first-contributions.git)
 - [Atharva Gandhe](https://github.com/Chill-caster)
