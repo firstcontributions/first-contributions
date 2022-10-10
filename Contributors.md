@@ -227,6 +227,7 @@ anish
 - [raspicorgi](https://github.com/raspicorgi)
 - [riyadhami](https://github.com/riyadhami)
 - [Mubarak CH](https://github.com/ch-mubarak)
+- [sita sai sudha](https://github.com/sitasaisudha)
 - [LeGrandMAG](https://github.com/LeGrandMAG)
 - [Sabohat](https://github.com/sabohat)
 - [Shagun Maurya](https://github.com/ShagunMaurya17)
