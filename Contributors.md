@@ -51,6 +51,7 @@
 - [Ronaldo Kereh](https://github.com/kereh)
 - [Saurabh Singh](https://github.com/saurabhsingh720)
 - [Anushka Das ](https://github.com/Soumi-igtm)
+- [Musketeer Computing] (https://github.com/musketeer-computing)
 - [Bikash yadav](https://github.com/bikashydv)
 - [Sowmya S](https://github.com/sowmya-s-26)
 - [Prerit Agrawal](https://github.com/preritagrawal06)
