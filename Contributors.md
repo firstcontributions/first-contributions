@@ -3275,4 +3275,5 @@ anish
 - [Utsav Singh 😇](https://github.com/Utsav-Singh-01)
 - [Arnav Singh](https://github.com/arnav-vivian)
 - [Raj patil](https://github.com/rajpatil1743)
+- [Alan Maritn](https://github.com/Alanmartin7007)
 <!-- prettier-ignore-end -->
