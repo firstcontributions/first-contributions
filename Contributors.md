@@ -29,6 +29,7 @@
 - [Gabriel Joshua](https://github.com/JOSHI-23/)
 - [Ayushi Singh](https://github.com/ayushisingh73448/)
 -[Kartikeya Kushwaha](www.linkedin.com/in/kartikeya-kushwaha-3036731ba)
+- [Stroganov Kirill](https://github.com/kiraplenkin)
 - [Laksh Gupta](https://github.com/cyborglaksh)
 - [Nabarun Sarkar](https://github.com/nabaruns)
 - [MLJ] (https://github.com/cryptomlj)
