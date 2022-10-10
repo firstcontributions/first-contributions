@@ -97,6 +97,7 @@
 - [Pranit Kumar Singh](https://github.com/pranit9000)
 - [Megan Moulos](https://github.com/meganmoulos/)
 - [Teju_1212](https://github.com/teju_1212)
+- [Irfan Nurhamid](https://github.com/aneirfan/)
 - [Alex Chen](https://github.com/Infinislayer)
 - [Aaron Geo Binoy](https://github.com/aarongeo1)
 - [Rakshit Gupta](https://github.com/rakshitgupta23)
