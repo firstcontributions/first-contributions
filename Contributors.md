@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Poonam Parate](https://github.com/HeYPoonam)
 -[Rahul Saha](https://github.com/Rahul10Saha)
 - [Wajid Ali Tabassum](https://github.com/wajidalitabassum143)
 -[Saumya Upadhyay](https://github.com/Saumyaup11)
