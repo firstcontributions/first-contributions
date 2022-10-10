@@ -15,6 +15,7 @@
 - [Darshan Patel](https://github.com/darshan260802)
 - [Karan Meena](https://github.com/karanmeena237)
 - [CSanjana](https://github.com/Sanjana20304)
+- [Sebastian Wu](https://github.com/sebswU)
 - [Karanjot Singh](https://karanjot.vercel.app)
 - [SHUBHAM PATIDAR ](https://www.linkedin.com/in/shubham-patidar-98ba5b148)
 - [Apurv Tiwari](https://github.com/Mahakal0123)
