@@ -272,6 +272,7 @@ anish
 - [Tadej](https://github.com/Shrooms420)
 - [Shubham Kondekar](https://github.com/kondekarshubham123)
 - [Annamalai](https://github.com/RaMathuZen)
+- [Nishant_Singh](https://github.com/Nishant-Singh-2004)
 - [Shubham Parmar](https://github.com/ishubhamparmar)
 - [Tannistha Biswas](https://github.com/TannisthaBiswas)
 - [Ayushi Nanavati](https://github.com/Ayyyn)
