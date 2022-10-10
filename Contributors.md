@@ -4,6 +4,7 @@
 -[mohd.salahudeen](https://github.com/Salah-XD)
 - [Muhammed Musaddique](https://github.com/zmusaddique)
 - [Shazia Khatoon]
+- [Shabana Naik](https://github.com/ShabanaNaik)
 - [Prashant Maitra](https://github.com/lovefromCode)
 - [Sumanth Botlagunta](https://github.com/sumanth-botlagunta)
 - [Rishabh Pratap Singh](https://github.com/iam-Rps)
