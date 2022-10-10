@@ -367,6 +367,7 @@ anish
 - [Vandit1920](https://github.iu.edu/vanjain)
 - [Chris Townsend](https://github.com/chris-townsend)
 - [Priyanshi Rai](https://github.com/Priyanshi-Rai)
+- [Manav Patel](https://github.com/manaviyu)
 - [Pradhuman Goswami](https://github.com/goswamiprad)
 - [Pratheeksha R](https://github.com/035pratheeksha)
 - [Someshfengde](https://github.com/someshfengde)
