@@ -1425,6 +1425,7 @@ anish
 - [yousef]
 - [arpita-skeen]
 - [botoko]
+- [Mahmud Abdulazeez](https://github.com/Mahmud1087)
 - [aiyanfaras](https://github.com/Aiyan-Faras)
 - [Eric Salvi](https://github.com/ericsalvi)
 - [AlexJJGreen](https://github.com/AlexJJGreen)
