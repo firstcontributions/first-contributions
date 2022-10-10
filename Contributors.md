@@ -6,7 +6,7 @@
 -[Saumya Upadhyay](https://github.com/Saumyaup11)
 -[yogesh](https://github.com/yogesh-0911)
 -[paras](https://github.com/paras9192)
--[Shivansh Guleria](https://github.com/ShivanshGuleria)
+- [Shivansh Guleria](https://github.com/ShivanshGuleria)
 - [Griffin](https://github.com/Midnightific)
 - [Sigit Pramono](https://github.com/SigitPramts)
 - [Rahul chaurasiya](https://github.com/Rahul-chaurasiya?)
