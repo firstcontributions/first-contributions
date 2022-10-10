@@ -136,12 +136,19 @@ Now open `Contributors.md` file in a text editor, add your name to it. Don't add
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
+If you go to the project directory and execute the command `git status`, you can see files in which changes are made.
 
-Add those changes to the branch you just created using the `git add` command:
+Add those file path to the branch you just created using the `git add` command:
 
 ```
 git add Contributors.md
+```
+
+You can also execute the below given command to add all files:
+
+
+```
+git add *
 ```
 
 Now commit those changes using the `git commit` command:
@@ -150,7 +157,7 @@ Now commit those changes using the `git commit` command:
 git commit -m "Add your-name to Contributors list"
 ```
 
-replacing `your-name` with your name.
+Replace `your-name` with your name.
 
 ## Push changes to GitHub
 
