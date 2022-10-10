@@ -3088,6 +3088,7 @@
 - [Diego Ortiz](https://github.com/aceto82)
 - [Sergey Sereda](https://github.com/SergeySereda0218)
 - [Richard @ DMG](https://github.com/dmg-richard)
+- [J Rogel](https://github.com/rogel)
 - [Thiago Santana](https://github.com/ThiagoSousaSantana)
 - [Tezzish](https://github.com/Tezzish)
 - [Juan Pablo CT](https://github.com/JuanPCT)
