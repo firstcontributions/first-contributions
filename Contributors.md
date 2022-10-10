@@ -3313,5 +3313,6 @@ anish
 -  [Kaio F G Lazaro](https://github.com/kaiofgl)
 -  [Umang Kumar](https://github.com/Umang-Kumar)
 - [Nathalia Araújo](https://github.com/nathaliafab)
+- [🔥Ibrahima Sory Diallo Diallo🔥](https://github.com/sorydi3)
 - [Luciane Fernandes Roque](https://github.com/LucianeFernandesRoque)
 <!-- prettier-ignore-end -->
