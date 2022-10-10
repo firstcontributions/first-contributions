@@ -1461,6 +1461,7 @@ anish
 - [Omiete John-lewis](https://github.com/oj-lewis)
 - [Domenic Sacchetti](https://github.com/dsacch)
 - [Abiyyu Cakra](https://github.com/abiyyu03)
+- [Robert Capra](https://github.com/Robert-Capra)
 - [Julián Gómez](https://github.com/jgompis)
 - [Muhammad Sidiq Hardiansyah](https://github.com/msidiqh991)
 - [Anna Zhark]
