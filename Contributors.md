@@ -65,6 +65,7 @@ anish
 - [Musketeer Computing] (https://github.com/musketeer-computing)
 - [Bikash yadav](https://github.com/bikashydv)
 - [Sowmya S](https://github.com/sowmya-s-26)
+- [Julian Macioce](https://github.com/JMacioce)
 - [Prerit Agrawal](https://github.com/preritagrawal06)
 -[Chiranjit Debnath](https://github.com/tomtanner)
 - [JSTNSNE](https://github.com/JSTNSNE)
