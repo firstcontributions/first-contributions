@@ -3067,6 +3067,7 @@ anish
 - [abdel.h](https://github.com/abdelhousni)
 - [Seneen Khan](https://github.com/seneenkhan)
 - [Harshal](https://github.com/harsh121310)
+- [Jonathan](https://github.com/PrintedPaper)
 - [Ayebakuro Oruwori](https://github.com/AyebakuroOruwori)
 - [Xnuvers007](https://github.com/Xnuvers007)
 - [Elías Sauthier](https://github.com/Goliass)
