@@ -3303,4 +3303,5 @@ anish
 -  [Shibra Amin](https://github.com/ShibraAmin)
 -  [Andre Rafli](https://github.com/Arrafll)
 -  [Kaio F G Lazaro](https://github.com/kaiofgl)
+-  [Umang Kumar](https://github.com/Umang-Kumar)
 <!-- prettier-ignore-end -->
