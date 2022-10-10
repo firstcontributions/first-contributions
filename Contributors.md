@@ -1493,6 +1493,7 @@ anish
 - [Muhammad Sidiq Hardiansyah](https://github.com/msidiqh991)
 - [Anna Zhark]
 - [Arth](https://github.com/probablyarth)
+- [Bonnaire Fils Emmanuel](https://github.com/Teknikp)
 - [Abdessamie Allouane](https://github.com/AbdessamieAllouane)
 - [Dominik Rozwarski](https://github.com/dominikrozwarski)
 - [Harman Ro](https://github.com/HarmanRo)
