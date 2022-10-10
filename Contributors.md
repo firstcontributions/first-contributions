@@ -38,6 +38,7 @@ anish
 -[Franklin Mensah](https://github.com/fiificode)
 - [Rahul chaurasiya](https://github.com/Rahul-chaurasiya?)
 - [Anugrah Rachman](https://github.com/kidomega-byte/)
+- [Ricktho Sarkar](https://github.com/Ricktho1)
 - [KTL](https://github.com/Kyaw08661/)
 - [Amol Goel](https://github.com/deathrangerr/)
 - [Seemant Tripathi](https://github.com/seemanttripathi/)
