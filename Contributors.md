@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Rishabh Pratap Singh](https://github.com/iam-Rps)
 - [Poonam Parate](https://github.com/HeYPoonam)
+- [Giorgio Menini] (https://github.com/Menno00)
 -[Rahul Saha](https://github.com/Rahul10Saha)
 - [Sadiq Siraj Ebrahim](https://github.com/sadiqebrahim)
 - [Wajid Ali Tabassum](https://github.com/wajidalitabassum143)
