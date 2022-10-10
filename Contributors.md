@@ -361,6 +361,7 @@
 - [Vandit1920](https://github.iu.edu/vanjain)
 - [Chris Townsend](https://github.com/chris-townsend)
 - [Priyanshi Rai](https://github.com/Priyanshi-Rai)
+- [Manav Patel](https://github.com/manaviyu)
 - [Pradhuman Goswami](https://github.com/goswamiprad)
 - [Pratheeksha R](https://github.com/035pratheeksha)
 - [Someshfengde](https://github.com/someshfengde)
@@ -3281,6 +3282,6 @@
 - [Alan Maritn](https://github.com/Alanmartin7007)
 - [Viet Vu] (https://github.com/Vietvu00)
 - [Jagannath Dutta](https://github.com/Jagannath-Dutta))
-- [Mayank Verma](https://github.com/Mayank627)
 - [Arjun Sharma](https://github.com/horizoninversion)
+- [Emdadul Haque Rafat](https://github.com/rafat97)
 <!-- prettier-ignore-end -->
