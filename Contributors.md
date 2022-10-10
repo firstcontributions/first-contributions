@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Prashant Maitra](https://github.com/lovefromCode)
 - [Rishabh Pratap Singh](https://github.com/iam-Rps)
 - [Poonam Parate](https://github.com/HeYPoonam)
 - [Giorgio Menini] (https://github.com/Menno00)
