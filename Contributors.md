@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 -[mohd.salahudeen](https://github.com/Salah-XD)
+-[Mohammad Rahi](https://github.com/mohammad-rahi)
 - [Muhammed Musaddique](https://github.com/zmusaddique)
 - [Shazia Khatoon]
 - [Shabana Naik](https://github.com/ShabanaNaik)
