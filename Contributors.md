@@ -6,6 +6,7 @@
 - [Prashant Maitra](https://github.com/lovefromCode)
 - [Rishabh Pratap Singh](https://github.com/iam-Rps)
 - [Poonam Parate](https://github.com/HeYPoonam)
+- [Samy Cachon](https://github.com/samy-c)
 - [Giorgio Menini] (https://github.com/Menno00)
 -[Rahul Saha](https://github.com/Rahul10Saha)
 - [Sadiq Siraj Ebrahim](https://github.com/sadiqebrahim)
