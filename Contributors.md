@@ -112,6 +112,7 @@
 - [vishal dhavale](https://github.com/vishu1893)
 - [Yashvardhan Agnihotri](https://github.com/25011908vardhan)
 - [Priyadarshini Sharma](https://github.com/PriyadarshiniSharma)
+- [Raj Patra](https://github.com/raj-patra)
 - [Alan Flores](https://github.com/AlanF20)
 - [Aaryan Singh](https://github.com/Aaryan376)
 - [Arjava Tripathi](https://github.com/ArjavaTripathi)
