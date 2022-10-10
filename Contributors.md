@@ -74,6 +74,7 @@
 - [wubiwen](https://github.com/s1084796293)
 - [Muhammad Hakim](https://github.com/MuhammadHakim33)
 - [Ruthik Jadhav](https://github.com/Ruthik130201)
+- [Anastasis Xouzafeiris](https://github.com/anksos)
 - [Krishna Rajkumar Dembla](https://github.com/Krytax-24)
 - [Vladimir Cvejanov](https://github.com/VladenCode)
 - [Suman Raj](https://github.com/the-suman)
