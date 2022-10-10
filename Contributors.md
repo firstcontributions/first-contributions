@@ -3253,6 +3253,7 @@ anish
 - [Sarin Sthapit](https://github.com/SarinSthapit)
 - [Aditya Sharma](https://github.com/Aditya13s)
 - [Samuele Bella](https://github.com/Novaenn)
+- [Reese Richardson](https://github.com/reeserich)
 - [Shubharthak Sangharasha](https://github.com/shubharthaksangharsha)
 - [Tanmay Churi](https://github.com/tanmay-churi?tab=repositories)
 - [cris yi](https://github.com/Crisyix)
