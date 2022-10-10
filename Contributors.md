@@ -1,9 +1,9 @@
 # Contributors
 - [Abhijeet](https://github.com/Abhithecoder-22)
 <!-- prettier-ignore-start -->
-
--[mohd.salahudeen](https://github.com/Salah-XD)
--[Mohammad Rahi](https://github.com/mohammad-rahi)
+- [zhackerloopback](https://github.com/zhackerloopback)
+- [mohd.salahudeen](https://github.com/Salah-XD)
+- [Mohammad Rahi](https://github.com/mohammad-rahi)
 - [Muhammed Musaddique](https://github.com/zmusaddique)
 - [Rishi Mathur](https://github.com/skyrunner360)
 - [Shazia Khatoon]
