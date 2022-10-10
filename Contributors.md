@@ -14,6 +14,7 @@
 - [Rahul chaurasiya](https://github.com/Rahul-chaurasiya?)
 - [Anugrah Rachman](https://github.com/kidomega-byte/)
 - [Seemant Tripathi](https://github.com/seemanttripathi/)
+- [Ayushi SIngh](https://github.com/ayushisingh73448/)
 -[Kartikeya Kushwaha](www.linkedin.com/in/kartikeya-kushwaha-3036731ba)
 - [Laksh Gupta](https://github.com/cyborglaksh)
 - [Nabarun Sarkar](https://github.com/nabaruns)
