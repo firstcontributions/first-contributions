@@ -5,6 +5,7 @@
 -[mohd.salahudeen](https://github.com/Salah-XD)
 -[Mohammad Rahi](https://github.com/mohammad-rahi)
 - [Muhammed Musaddique](https://github.com/zmusaddique)
+- [Rishi Mathur](https://github.com/skyrunner360)
 - [Shazia Khatoon]
 - [Shabana Naik](https://github.com/ShabanaNaik)
 - [Prashant Maitra](https://github.com/lovefromCode)
