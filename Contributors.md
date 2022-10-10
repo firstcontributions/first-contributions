@@ -3038,6 +3038,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Rahul Aryan](https://github.com/Rahularyan2211)
 - [Himanshu Mahato](https://github.com/m7-Selenophile)
 - [Buffersolve](https://github.com/Buffersolve)
+- [Amaka Ubaka](https://github.com/amakarivas)
 
 <!-- prettier-ignore-end -->
 
