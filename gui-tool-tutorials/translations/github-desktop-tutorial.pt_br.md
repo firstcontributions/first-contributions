@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -74,7 +74,7 @@ Escreva a mensagem "Add `<your-name>` to Contributors list" no campo *sumary*
 
 Substitua `<your-name>` pelo seu nome.
 
-Clique no botãp que diz `Commit to add-your-name`.
+Clique no botão que diz `Commit to add-your-name`.
 
 <img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-commit1.png" alt="commit suas alterações" />
 
@@ -84,7 +84,7 @@ Na parte inferior, você pode ver que o commit foi criado com sucesso.
 
 ## Faça o push das mudanças no github
 
-Clique em File->Options e depois em sign-in to Github.com. Digite seu username e senha do Github.
+Clique em File -> Options e depois em sign-in to Github.com. Digite seu username e senha do Github.
 
 <img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-sign-in.png" alt="log-in no Github" />
 
@@ -110,7 +110,7 @@ Parabéns! Você acabou de completar o fluxo _fork -> clone -> edit -> PR_ que e
 
 Comemore sua contribuição e compartilhe com seus amigos e seguidores acessando o [web app](https://firstcontributions.github.io#social-share).
 
-Você pode entrar na nossa equipe no Slack caso precise de alguma ajuda ou tenha alguma dúvida. [Entre no Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+Você pode entrar na nossa equipe no Slack caso precise de alguma ajuda ou tenha alguma dúvida. [Entre no Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 
 ### [Material adicional](../additional-material/git_workflow_senarios/additional-material.md)
