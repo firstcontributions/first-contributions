@@ -3047,6 +3047,7 @@ anish
 - [Luan Vu](https://github.com/luanvuhlu)
 - [Matthew Phillips](https://github.com/mattx245)
 - [Deepika Kumari](https://github.com/dips6202)
+- [aranav mahalpure](https://github.com/AranavMahalpure)
 - [Aayan Srivastava](https://github.com/AayanSrivastava)
 - [Lokesh Malviya](https://github.com/Lokesh-malviya)
 - [Abid Hasan Muin](https://github.com/abidmuin)
