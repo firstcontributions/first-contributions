@@ -9,6 +9,7 @@
 - [Ajay Bairwa](https://github.com/bairwa25)
 - [Shazia Khatoon]
 - [Shabana Naik](https://github.com/ShabanaNaik)
+- [Antony Prince](https://github.com/antoprince001)
 - [Prashant Maitra](https://github.com/lovefromCode)
   [WNP](https://github.com/WanNaPhyo)
 - [GmausDev](https://github.com/GmausDev https://www.linkedin.com/in/jorge-quevedo-duran-b51190206/)
