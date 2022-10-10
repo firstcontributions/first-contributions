@@ -3186,6 +3186,7 @@
 - [Aryan Bakshi](https://github.com/aryan-bakshii):
 - [Aman Mittal](https://github.com/amanmitt)
 - [Animesh Dhakal](https://github.com/animeshdhakal)
+- [Harshal Deshattiwar](https://github.com/Harshal-Deshattiwar)
 - [Chandan Sahoo](https://github.com/chandan23sde)
 - [Maged Faiz](https://github.com/maiz27)
 - [Ayush Bajpai](https://github.com/Ayushbajpai19)
