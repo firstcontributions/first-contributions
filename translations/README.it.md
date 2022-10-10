@@ -4,7 +4,7 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# La prima collaborazione
+# La prima contribuzione
 
 È dura. È sempre difficile fare qualcosa per la prima volta. Specialmente quando si sta collaborando, sbagliare ci mette a disagio. Ma l'open source si basa sulla collaborazione e sul lavorare insieme. Pertanto volevamo semplificare il modo in cui i nuovi collaboratori imparano e contribuiscono per la prima volta a progetti open-source.
 
@@ -12,7 +12,7 @@ Leggere articoli e guardare tutorial può essere utile, ma cosa c'è di meglio c
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Se non hai git sul tuo computer, [ installalo ]( https://help.github.com/articles/set-up-git/ ).
+Se non hai git sul tuo computer, [installalo]( https://help.github.com/articles/set-up-git/ ).
 
 ## Forka questa repository
 
@@ -61,7 +61,7 @@ Lo scopo di nominare un branch è descrivere le modifiche che andremo ad effettu
 
 ## Fai le modifiche necessarie e crea un commit
 
-Ora apri il file `Contributors.md` in un editor, inserisci il tuo nome e salva il the file. Se vai nella directory del progetto ed esegui il comando `git status`, vedrai quali sono i cambiamenti. Aggiungi le modifiche al branch appena creato usando il comando `git add`:
+Ora apri il file `Contributors.md` in un editor, inserisci il tuo nome. Non aggiungerlo all'inizio o alla fine del file ma in un qualsiasi punto nel mezzo. Ora salva il file. Se vai nella directory del progetto ed esegui il comando `git status`, vedrai quali sono i cambiamenti. Aggiungi le modifiche al branch appena creato usando il comando `git add`:
 ```
 git add Contributors.md
 ```
@@ -90,7 +90,7 @@ Ora invia la pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Presto avrò incorporato (*merge*) tutti i tuoi cambiamenti nel master branch di questo progetto. Ti arriverà una mail di notifica una volta che le modiche saranno state accettate.
+Presto avrò incorporato (*merge*) tutti i tuoi cambiamenti nel master branch di questo progetto. Ti arriverà una mail di notifica una volta che le modifiche saranno state accettate.
 
 ### [ Prossimi passi ](../additional-material/git_workflow_scenarios/additional-material.md)
 
