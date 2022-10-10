@@ -99,6 +99,7 @@
 - [Prathamesh Sable](https://github.com/prathameshks)
 - [Martarion](https://github.com/Martarion-Code)
 - [Martins Ngene](https://github.com/Martinsngene)
+- [AJ Smith](https://github.com/OfficialAJSmith)
 - [vishal dhavale](https://github.com/vishu1893)
 - [Yashvardhan Agnihotri](https://github.com/25011908vardhan)
 - [Priyadarshini Sharma](https://github.com/PriyadarshiniSharma)
