@@ -1,7 +1,6 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-- [T Vijay Kumar](https://github.com/Vijay-CPP)
 - [Rahul Saha](https://github.com/Rahul10Saha)
 - [Wajid Ali Tabassum](https://github.com/wajidalitabassum143)
 - [Saumya Upadhyay](https://github.com/Saumyaup11)
@@ -1074,6 +1073,7 @@
 - [Utkarsh Ambetkar](https://github.com/UTKARSH552)
 - [TheAwesomeGuy47](https://github.com/theawesomeguy47)
 - [Maneesh Sutar](https://github.com/maneesh29s)
+- [T Vijay Kumar](https://github.com/Vijay-CPP)
 - [Shiva Abhishek](https://github.com/shivaabhishek07)
 - [Triamb Talwar](https://github.com/Triamb-Talwar)
 - [Chris Gorman](https://github.com/cyrii)
