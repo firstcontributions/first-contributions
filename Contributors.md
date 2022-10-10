@@ -3290,4 +3290,5 @@ anish
 - [Raj patil](https://github.com/rajpatil1743)
 - [Alan Maritn](https://github.com/Alanmartin7007)
 - [Jagannath Dutta](https://github.com/Jagannath-Dutta))
+- [Shashank Deshpande] Hacktoberfest-accepted
 <!-- prettier-ignore-end -->
