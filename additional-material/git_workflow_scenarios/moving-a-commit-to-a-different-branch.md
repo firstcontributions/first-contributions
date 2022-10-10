@@ -5,7 +5,7 @@ How can you change that? This is what this tutorial covers.
 ## Moving the latest commits to an existing branch
 To do this, type:
 
-```git reset HEAD~ --soft``` - Undoes the last commit, but leave the changes available.  
+```git reset HEAD~ --soft``` - Undoes the last commit, but leaves the changes available.  
 ```git stash``` - Records the state of the directory.  
 
 ```git checkout name-of-the-correct-branch``` - Switches to another branch.
