@@ -1579,6 +1579,7 @@
 - [Rattanan Runguthai](https://github.com/NoMoneyDev)
 - [Petr Juza](https://github.com/petrjz)
 - [MMarbs2](https://github.com/MMarble2)
+- [Matt Turner](https://github.com/matt-turner-2019)
 - [samadpls](https://github.com/samadpls)
 - [Conner Cook](https://github.com/conner-c)
 - [Terence Chambers](https://github.com/chambers91)
