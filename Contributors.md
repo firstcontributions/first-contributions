@@ -22,6 +22,7 @@
 - [Anugrah Rachman](https://github.com/kidomega-byte/)
 - [KTL](https://github.com/Kyaw08661/)
 - [Seemant Tripathi](https://github.com/seemanttripathi/)
+- [Gabriel Joshua](https://github.com/JOSHI-23/)
 - [Ayushi Singh](https://github.com/ayushisingh73448/)
 -[Kartikeya Kushwaha](www.linkedin.com/in/kartikeya-kushwaha-3036731ba)
 - [Laksh Gupta](https://github.com/cyborglaksh)
