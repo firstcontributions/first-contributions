@@ -3255,5 +3255,5 @@
 - [Panmax](https://github.com/Panmax)
 - [Vishnu](https://github.com/vishnus17)
 - [kunjal](https://github.com/kunjal293)
-- [suman](https://github.com/sum20156)
+- [suman](https://github.com/sum20156/)
 <!-- prettier-ignore-end -->
