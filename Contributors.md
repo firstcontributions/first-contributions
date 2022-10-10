@@ -3196,6 +3196,7 @@
 - [Amisha Rani](https://github.com/AmishaRani)
 - [Yamini Thakur](https://github.com/yamini210)
 - [Sumit Sharma](https://github.com/sumit16sharma)
+- [Jayant Dane](https://github.com/JayantDane123)
 - [Paramhans Singh](https://github.com/Paramhans-Singh)
 - [Anil Poudel](https://github.com/pdlanl)
 - [Anand Kamble](https://github.com/anand-kamble)
