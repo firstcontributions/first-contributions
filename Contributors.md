@@ -5,6 +5,7 @@
 - [Muhammed Musaddique](https://github.com/zmusaddique)
 - [Shazia Khatoon]
 - [Prashant Maitra](https://github.com/lovefromCode)
+- [Sumanth Botlagunta](https://github.com/sumanth-botlagunta)
 - [Rishabh Pratap Singh](https://github.com/iam-Rps)
 - [Poonam Parate](https://github.com/HeYPoonam)
 - [Samy Cachon](https://github.com/samy-c)
