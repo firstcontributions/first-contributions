@@ -32,6 +32,7 @@
 -[Shivansh Guleria](https://github.com/ShivanshGuleria)
 anish
 - [Griffin](https://github.com/Midnightific)
+- [Shishir Shrestha] (https://github.com/theRealPJ24)
 - [Sigit Pramono](https://github.com/SigitPramts)
 -[Franklin Mensah](https://github.com/fiificode)
 - [Rahul chaurasiya](https://github.com/Rahul-chaurasiya?)
