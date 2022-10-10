@@ -1,6 +1,7 @@
 # Contributors
-
+- [Abhijeet](https://github.com/Abhithecoder-22)
 <!-- prettier-ignore-start -->
+
 -[mohd.salahudeen](https://github.com/Salah-XD)
 - [Muhammed Musaddique](https://github.com/zmusaddique)
 - [Shazia Khatoon]
@@ -18,6 +19,7 @@
 -[yogesh](https://github.com/yogesh-0911)
 -[paras](https://github.com/paras9192)
 -[Shivansh Guleria](https://github.com/ShivanshGuleria)
+anish
 - [Griffin](https://github.com/Midnightific)
 - [Sigit Pramono](https://github.com/SigitPramts)
 -[Franklin Mensah](https://github.com/fiificode)
@@ -33,6 +35,7 @@
 - [Laksh Gupta](https://github.com/cyborglaksh)
 - [Nabarun Sarkar](https://github.com/nabaruns)
 - [MLJ] (https://github.com/cryptomlj)
+- [kaycee Nuel](https://github.com/codewithkaycee)
 - [ABL] (https://www.google.com)
 - [Darshan Patel](https://github.com/darshan260802)
 - [Karan Meena](https://github.com/karanmeena237)
@@ -3268,5 +3271,7 @@
 - [kunjal](https://github.com/kunjal293)
 - [Devashish Sarmah](https://github.com/devashishSarmah)
 - [Ragina Phalangae](https://github.com/RaginaPhalangae)
+- [Utsav Singh 😇](https://github.com/Utsav-Singh-01)
 - [Arnav Singh](https://github.com/arnav-vivian)
+- [Raj patil](https://github.com/rajpatil1743)
 <!-- prettier-ignore-end -->
