@@ -199,6 +199,7 @@ anish
 - [Tieran Dysart](https://github.com/whyyy1)
 - [Kevin] (https://github.com/ZaBarudo)
 - [Devansh] (https://github.com/Devansh-Walia)
+- [Joseph Uzuegbu] (https://github.com/josephDev123)
 - [Alon Cohen] (https://github.com/Alon2904)  
 - [Shrey Jaiswal](https://github.com/Shrey2002)
 - [Abhijeet Jadhav] (https://github.com/mrabhijeetjadhav)
