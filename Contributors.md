@@ -32,6 +32,7 @@
 -[Shivansh Guleria](https://github.com/ShivanshGuleria)
 anish
 - [Griffin](https://github.com/Midnightific)
+- [Juan Tellez](https://github.com/jmtellez)
 - [Shishir Shrestha] (https://github.com/theRealPJ24)
 - [Sigit Pramono](https://github.com/SigitPramts)
 -[Franklin Mensah](https://github.com/fiificode)
