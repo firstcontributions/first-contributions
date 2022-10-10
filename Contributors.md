@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Poonam Parate](https://github.com/HeYPoonam)
 -[Rahul Saha](https://github.com/Rahul10Saha)
+- [Sadiq Siraj Ebrahim](https://github.com/sadiqebrahim)
 - [Wajid Ali Tabassum](https://github.com/wajidalitabassum143)
 -[Saumya Upadhyay](https://github.com/Saumyaup11)
 -[yogesh](https://github.com/yogesh-0911)
