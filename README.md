@@ -129,6 +129,8 @@ For example:
 ```
 git switch -c add-alonzo-church
 ```
+You can also use `git checkout -b [name_of_your_new_branch]`
+to create a new branch.
 
 ## Make necessary changes and commit those changes
 
