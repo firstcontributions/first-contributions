@@ -3191,6 +3191,7 @@
 - [Chandan Sahoo](https://github.com/chandan23sde)
 - [Maged Faiz](https://github.com/maiz27)
 - [Ayush Bajpai](https://github.com/Ayushbajpai19)
+- [Amisha Rani](https://github.com/AmishaRani)
 - [Yamini Thakur](https://github.com/yamini210)
 - [Sumit Sharma](https://github.com/sumit16sharma)
 - [Paramhans Singh](https://github.com/Paramhans-Singh)
