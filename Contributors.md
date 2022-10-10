@@ -2831,4 +2831,5 @@ harsh vijay (https://github.com/harshvijay63)
 - [Abedy Gathaba](https://github.com/abedygathaba)
 - [Rellot's Screwdriver](https://github.com/rellotscrewdriver)
 - [Robi Hamdani](https://github.com/robikasep)
+- [Adam](https://github.com/adadispol)
 <!-- prettier-ignore-end -->
