@@ -420,6 +420,7 @@
 - [Milind Shukla](https://github.com/MILINDSHUKLA)
 - [Aditya Agrawal](https://github.com/Cosmorazer)
 - [Anurag Dutt](https://github.com/duttanurag)
+- [lodaogos](https://github.com/lodaogos)
 - [Priyam Gupta](https://github.com/Priyam3955)
 - [Harshwardhan Singh] (https://github.com:harsh-ws)
 - [Michel de Oliveira](https://github.com/michelzaum)
