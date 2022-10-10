@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+-[mohd.salahudeen](https://github.com/Salah-XD)
 - [Muhammed Musaddique](https://github.com/zmusaddique)
 - [Shazia Khatoon]
 - [Prashant Maitra](https://github.com/lovefromCode)
