@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Johan Kreivi](https://github.com/0h4y)
 - [Gaurav Patil](https://github.com/GauravPatil8778)
 - [Ali El-Shamy](https://github.com/elshali)
 - [Zuzanna Kaźmierczak](https://github.com/Zuza29)
