@@ -1461,7 +1461,6 @@ anish
 - [Omiete John-lewis](https://github.com/oj-lewis)
 - [Domenic Sacchetti](https://github.com/dsacch)
 - [Abiyyu Cakra](https://github.com/abiyyu03)
-- [Robert Capra](https://github.com/Robert-Capra)
 - [Julián Gómez](https://github.com/jgompis)
 - [Muhammad Sidiq Hardiansyah](https://github.com/msidiqh991)
 - [Anna Zhark]
@@ -3277,4 +3276,5 @@ anish
 - [Arnav Singh](https://github.com/arnav-vivian)
 - [Raj patil](https://github.com/rajpatil1743)
 - [Alan Maritn](https://github.com/Alanmartin7007)
+- [Devasis Panda](https://github.com/DevasisPanda)
 <!-- prettier-ignore-end -->
