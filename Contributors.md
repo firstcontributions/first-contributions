@@ -1,6 +1,7 @@
 # Contributors
-- [Bharat Mishra](https://github.com/BMlookingforaW)
+
 <!-- prettier-ignore-start -->
+- [Bharat Mishra](https://github.com/BMlookingforaW)
 - [Shazia Khatoon]
 - [Prashant Maitra](https://github.com/lovefromCode)
 - [Rishabh Pratap Singh](https://github.com/iam-Rps)
