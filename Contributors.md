@@ -3210,6 +3210,7 @@
 - [Giacomo Guadagnini](https://github.com/Flipper97)
 - [wmazoni](https://github.com/wmazoni)
 - [Mariana P Correa](https://github.com/marianapcorrea)
+- [Manan Sharma](https://github.com/MananSharma2710)
 - [Sidhant kaushal](https://github.com/sidhantkaushal)
 - [Marcelo Dantas](https://github.com/MarceloLuisDantas)
 - [Varchronos](https://github.com/Varchronos)
