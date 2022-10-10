@@ -3260,4 +3260,5 @@
 - [kunjal](https://github.com/kunjal293)
 - [Devashish Sarmah](https://github.com/devashishSarmah)
 - [Ragina Phalangae](https://github.com/RaginaPhalangae)
+- [Arnav Singh](https://github.com/arnav-vivian)
 <!-- prettier-ignore-end -->
