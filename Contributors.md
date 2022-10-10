@@ -41,6 +41,7 @@
 - [Anugrah Rachman](https://github.com/kidomega-byte/)
 - [Ricktho Sarkar](https://github.com/Ricktho1)
 - [KTL](https://github.com/Kyaw08661/)
+- [G ZHANG](https://github.com/zgy600/)
 - [Amol Goel](https://github.com/deathrangerr/)
 - [Seemant Tripathi](https://github.com/seemanttripathi/)
 - [Gabriel Joshua](https://github.com/JOSHI-23/)
