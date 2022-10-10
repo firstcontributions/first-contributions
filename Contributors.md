@@ -8,6 +8,7 @@
 - [Rishi Mathur](https://github.com/skyrunner360)
 - [Shazia Khatoon]
 - [Shabana Naik](https://github.com/ShabanaNaik)
+- [Dhruba Singha Roy ]
 - [Prashant Maitra](https://github.com/lovefromCode)
   [WNP](https://github.com/WanNaPhyo)
 - [GmausDev](https://github.com/GmausDev https://www.linkedin.com/in/jorge-quevedo-duran-b51190206/)
