@@ -1896,6 +1896,7 @@
 - [Dian Karailiev](https://github.com/Dkyuliyanov)
 - [Dario Maselli](https://github.com/Neroland)
 - [Mohammed Aasif](https://github.com/Aasif-tecno)
+- [Bernd Hobbie](https://github.com/berndhobbie)
 - [Jonathan Apostol](https://github.com/dev-Jonathan)
 - [Rúben Gomes](https://github.com/rubenfsgomes)
 - [Guilherme Pereira](https://github.com/Guilospanck)
