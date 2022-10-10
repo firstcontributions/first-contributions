@@ -3338,4 +3338,5 @@
 - [Nathalia Araújo](https://github.com/nathaliafab)
 - [🔥Ibrahima Sory Diallo Diallo🔥](https://github.com/sorydi3)
 - [Luciane Fernandes Roque](https://github.com/LucianeFernandesRoque)
+- [nikolatesla20](https://github.com/nikolatesla20)
 <!-- prettier-ignore-end -->
