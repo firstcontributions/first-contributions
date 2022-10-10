@@ -3,6 +3,7 @@
 - [Aabideen](https://github.com/GurusGeek)
 <!-- prettier-ignore-start -->
 
+-[Zuzanna Kaźmierczak](https://github.com/Zuza29)
 -[mohd.salahudeen](https://github.com/Salah-XD)
 -[Mohammad Rahi](https://github.com/mohammad-rahi)
 - [Muhammed Musaddique](https://github.com/zmusaddique)
