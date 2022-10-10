@@ -39,6 +39,7 @@ anish
 - [MLJ] (https://github.com/cryptomlj)
 - [kaycee Nuel](https://github.com/codewithkaycee)
 - [Hector Quemada](https://github.com/hdquemada)
+- [Aman Juneja] (https://github.com/amanjuneja420)
 - [ABL] (https://www.google.com)
 - [Darshan Patel](https://github.com/darshan260802)
 - [Karan Meena](https://github.com/karanmeena237)
