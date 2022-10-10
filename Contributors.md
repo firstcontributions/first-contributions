@@ -40,6 +40,7 @@
 - [Sowmya S](https://github.com/sowmya-s-26)
 - [Prerit Agrawal](https://github.com/preritagrawal06)
 - [JSTNSNE](https://github.com/JSTNSNE)
+  [ J Sripranya](https://github.com/Sripranya)
 - [Aimee T](https://github.com/aimeetacchi)
 - [Abhijith H](https://github.com/Abhijith-H13)
 - [Harikumar Peddakotla](https://github.com/Harikumar778)
