@@ -3307,4 +3307,5 @@ anish
 -  [Andre Rafli](https://github.com/Arrafll)
 -  [Kaio F G Lazaro](https://github.com/kaiofgl)
 -  [Umang Kumar](https://github.com/Umang-Kumar)
+- [Nathalia Araújo](https://github.com/nathaliafab)
 <!-- prettier-ignore-end -->
