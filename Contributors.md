@@ -2235,6 +2235,7 @@ anish
 - [Miguel Angel Francisco](https://github.com/Migu3lito5)
 - [Sameed Khan](https://github.com/Sameedkhan25)
 - [Billy Somers](https://github.com/billywsomers)
+- [Orlando Parise](https://github.com/orlandoparise)
 - [Adam Eldredge](https://github.com/adameldredge)
 - [Christoffer Molinder](https://github.com/Kyurino)
 - [Mullerio](https://github.com/Mullerio)
