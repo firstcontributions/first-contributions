@@ -3301,4 +3301,5 @@ anish
 - [Emdadul Haque Rafat](https://github.com/rafat97)
 -  [Shibra Amin](https://github.com/ShibraAmin)
 -  [Andre Rafli](https://github.com/Arrafll)
+-  [Kaio F G Lazaro](https://github.com/kaiofgl)
 <!-- prettier-ignore-end -->
