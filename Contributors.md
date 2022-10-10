@@ -3221,4 +3221,5 @@
 - [Mariana Jager] (https://github.com/marianajms)
 - [Tytus Wenger] (https://github.com/Tytus117)
 - [MOHIL BANSAL](https://github.com/MOHILB01)
+- [Suraj Singh Rajput](https://github.com/prototype69)
 <!-- prettier-ignore-end -->
