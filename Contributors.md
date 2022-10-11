@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Robin Maheshwary](https://github.com/RobinMaheshwary)
 - [AnWhiteEd](https://github.com/an-white)
+- [Ravi Sanghani](https://github.com/ravi-sanghani)
 - [સ્મિત કાછડીયા](https://github.com/smeekas)
 - [Rao Khuram Shahzad](https://github.com/KhuramShahzad-5335)
 - [Yash Deharia](https://github.com/yashdeharia)
