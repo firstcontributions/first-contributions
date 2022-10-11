@@ -14,7 +14,7 @@ If you're making changes to a translation, please request a review from our prev
 | Albanian | [Albanian](../translations/README.al.md) | []() |
 | العربية | [Arabic](../translations/README.ar.md) | []() |
 | Azerbaijani | [Azerbaijani](../translations/README.aze.md) | []() |
-| Bulgarian | [Bulgarian](../translations/README.bg.md) | []() |
+| Bulgarian | [Bulgarian](../translations/README.bg.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/93228248?s=400&v=4" alt="@Svetlin86" />](https://github.com/Svetlin86) |
 | Bosnian | [Bosnian](../translations/README.bih.md) | []() |
 | বাংলা | [Bengali](../translations/README.bn.md) | [<img width="100" src="https://avatars3.githubusercontent.com/u/12910423?s=460&v=4" alt="@cse031sust02" />](https://github.com/cse031sust02) |
 | Belarusian | [Belarusian](../translations/README.by.md) | []() |
