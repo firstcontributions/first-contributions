@@ -3258,6 +3258,7 @@
 - [Anish Goyal](https://github.com/AnishGoyal18)
 - [Gourav Kumar Shaw](https://github.com/Gourav1695)
 - [Mandeep Mahra](https://github.com/mandeep-mahra)
+- [Suraj Kumar Das](https://github.com/SurajKD)
 - [Xing Chen](https://github.com/ChenXing-tech)
 - [Tejas JM](https://github.com/Shisui-12)
 - [Rahul Aryan](https://github.com/Rahularyan2211)
