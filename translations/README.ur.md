@@ -1,5 +1,5 @@
 <div dir="rtl">
-<a href="https://github.com/ellerbrock/open-source-badges/"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love"></a><a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a><a href="https://www.codetriage.com/roshanjossey/first-contributions" rel="nofollow"><img src="https://camo.githubusercontent.com/8e53aecabdd0316ce198fe932798bb0f8754b30f/68747470733a2f2f7777772e636f64657472696167652e636f6d2f726f7368616e6a6f737365792f66697273742d636f6e747269627574696f6e732f6261646765732f75736572732e737667" alt="Open Source Helpers"></a><a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM"><img align="left" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png"></a>
+<a href="https://github.com/ellerbrock/open-source-badges/"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love"></a><a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a><a href="https://www.codetriage.com/roshanjossey/first-contributions" rel="nofollow"><img src="https://camo.githubusercontent.com/8e53aecabdd0316ce198fe932798bb0f8754b30f/68747470733a2f2f7777772e636f64657472696167652e636f6d2f726f7368616e6a6f737365792f66697273742d636f6e747269627574696f6e732f6261646765732f75736572732e737667" alt="Open Source Helpers"></a><a href="https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA"><img align="left" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png"></a>
 </div>
 
 # <div dir="rtl"> پہلی شراکت </div>
@@ -19,20 +19,20 @@
 <a href="https://help.github.com/articles/set-up-git/">انسٹال کریں</a>
 </div>
 
-## <div dir="rtl"> اس گودام کوفورک کریں </div>
+## <div dir="rtl"> اس ریپوزٹری کوفورک کریں </div>
 <div dir="rtl">
-اس صفحے کے سب سے اوپر فورک بٹن دبا کر اس گودام کا استعمال کریں.
-<img style="float: left" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="اس گودام کوفورک کریں" />
+اس صفحے کے سب سے اوپر فورک بٹن دبا کر اس ریپوزٹری کا استعمال کریں.
+<img style="float: left" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="اس ریپوزٹری کوفورک کریں" />
 <br />
 یہ آپ کے کھاتے میں اس کی ایک نقل ذخیرہ کرے گا۔.
 </div>
 
-## <div dir="rtl">ذخیرے کا کلون کیجیے</div>
+## <div dir="rtl">ریپوزٹری کا کلون کیجیے</div>
 
 <div dir="rtl">
-اب آپ اپنی مشین پر یہ ریپو کلون کریں.
+اب آپ اپنے کمپیوٹر مشین پر یہ ریپوزٹری کلون کریں.
 </div>
-<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="ذخیرے کا کلون کجیے" />
+<img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="ریپوزٹری کا کلون کیجیئے" />
 <div dir="rtl">
  کلون بٹن کو دبائیں اور پھر "copy to clipboard" آئیکن کو دبائیں۔
 </div>
@@ -42,11 +42,11 @@
 </div>
 
 ```
-git clone "یو آر ایل جو آپنے ابھی کاپی کی"
+git clone "یو آر ایل جو آپ نے ابھی کاپی کیا"
 ```
 
 <div dir="rtl">
-جہاں "یو آر ایل آپ نے کاپی کیا ہے" (اقتباس کے نشانات " " کے بغیر) اس ذخیرہ کرنے کے لئے یو آر ایل ہے. یو آر ایل حاصل کرنے کیلئے پچھلے مرحلے کو دیکھیں.
+جہاں "یو آر ایل جو آپ نے ابھی کاپی کیا" (اقتباس کے نشانات " " کے بغیر) اس ریپوزٹری کو کلون کرنے کا  یو آر ایل کا اندراج مراد ہے. یو آر ایل حاصل کرنے کیلئے پچھلے مرحلے کو دیکھیں.
 </div>
 
 <div dir="rtl">مثال کے طور پر:</div>
@@ -55,11 +55,11 @@ git clone "یو آر ایل جو آپنے ابھی کاپی کی"
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-<div dir="rtl">اس میں 'this-is-you' آپکا GitHub یوزرنیم ہے۔ یہاں آپ first-contributions GitHub گودام کے  مندرجات کمپیوٹر پر نقل کر رہے ہیں.</div>
+<div dir="rtl">اس میں 'this-is-you' آپکا GitHub یوزرنیم ہے۔ یہاں آپ first-contributions GitHub ریپوزٹری کے مندرجات کمپیوٹر پر نقل کر رہے ہیں.</div>
 
 ## <div dir="rtl"> ایک شاخ بنائیں </div>
 
-<div dir="rtl"> اپنے کمپیوٹر پر ذخیرہ کرنے والی ڈائرکٹری میں تبدیل کریں (اگرآپ پہلے سے وہاں نہیں ہیں): </div>
+<div dir="rtl"> اپنے کمپیوٹر پر ریپوزٹری کی ڈائرکٹری تبدیل کریں (اگرآپ پہلے سے وہاں نہیں ہیں): </div>
 
 ```
 cd first-contributions
@@ -82,7 +82,7 @@ git checkout -b add-alonzo-church
 ## <div dir="rtl"> ضروری تبد یلیاں کریں اور ان تبد یلیوں کو انجام دیں۔ </div>
 
 <div dir="rtl">
-اب <code>Contributors.md</code> فائل کو ٹیکسٹ ایڈیٹر پر کھولیں، اپنا نام اس میں شامل کریں، اور پھر فائل کو محفوظ کریں. اگر آپ پراجیکٹ ڈائرکٹری میں جاتے ہیں اور کمانڈ <code>git status</code> کو چلاتے ہیں، تو آپ دیکھیں گے کہ تبدیلیاں موجود ہیں. ان تبدیلیوں کو اس شاخ میں شامل کریں <code>git add</code> کمانڈ استعمال کرتے ہوے، جسے ابھی آپنے بنایا تھا۔ :
+اب <code>Contributors.md</code> فائل کو ٹیکسٹ ایڈیٹر پر کھولیں، اپنا نام اس میں شامل کریں، اور پھر فائل کو محفوظ کریں. اگر آپ پراجیکٹ ڈائرکٹری میں جاتے ہیں اور کمانڈ <code>git status</code> کو چلاتے ہیں، تو آپ دیکھیں گے کہ تبدیلیاں موجود ہیں. ان تبدیلیوں کو اس شاخ میں <code>git add</code> کمانڈ استعمال کرتے ہوئے شامل کریں، جسے ابھی آپ نے بنایا تھا۔ :
 </div>
 
 ```
@@ -109,7 +109,7 @@ git push origin <add-your-name>
 
 ## <div dir="rtl">  اپنی تبدیلیوں کوجائزے کیلئے جمع کروائیں۔ </div>
 
-<div dir="rtl"> اگر آپ GitHub پر اپنے ذخیرے پر جاتے ہیں تو، آپ کو <code>Compare & pull request</code> دیکھائ دے گا. اس بٹن کو دبائیں. </div>
+<div dir="rtl"> اگر آپ GitHub پر اپنی ریپوزٹری پر جاتے ہیں تو، آپ کو <code>Compare & pull request</code> دکھائی دے گا. اس بٹن کو دبائیں. </div>
 
 <img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="ایک پل درخواست کریں" />
 
@@ -132,7 +132,7 @@ git push origin <add-your-name>
 
 <div dir="rtl">
   آپ کو مدد کی ضرورت ہے یا کوئی سوال ہو تو آپ ہماری سلیک ٹیم میں بھی شامل ہوسکتے ہیں.
-<a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY">سلیک ٹیم میں شمولیت اختیار کریں۔</a>
+<a href="https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA">سلیک ٹیم میں شمولیت اختیار کریں۔</a>
 </div>
 <br />
 <div dir="rtl">
