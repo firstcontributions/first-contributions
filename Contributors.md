@@ -1763,6 +1763,7 @@
 - [Naomi Sharp](https://github.com/Naosha)
 - [Meet Rajput](https://github.com/MeetRajput00)
 - [kubahirsch](https://github.com/kubahirsch)
+- [Zafer Arslan](https://github.com/cellamo)
 - [Varun S V](https://github.com/Varun-SV/)
 - [Shubh](https://github.com/Imshubh69)
 - [Suryansh](https://github.com/suryanshhh28)
