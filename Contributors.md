@@ -25,6 +25,7 @@
 - [Rishi Mathur](https://github.com/skyrunner360)
 - [Ajay Bairwa](https://github.com/bairwa25)
 - [Shazia Khatoon]
+- [Shreyash Gupta](https://github.com/shreyash2610)
 - [Shabana Naik](https://github.com/ShabanaNaik)
 - [Dhananjaya Swain](https://github.com/thelastone07)
 - [Antony Prince](https://github.com/antoprince001)
