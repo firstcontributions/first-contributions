@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [AnWhiteEd](https://github.com/an-white)
 - [Rao Khuram Shahzad](https://github.com/KhuramShahzad-5335)
+- [Yash Deharia](https://github.com/yashdeharia)
 - [Akshay Kudalkar](https://github.com/Akshaykk12)
 - [James Anyalewechi](https://github.com/jamesgotech)
 - [Johan Kreivi](https://github.com/0h4y)
