@@ -129,6 +129,7 @@
 - [Abhighyaa](https://github.com/Abhighyaa)
 - [Kaif Shakeel] (https://github.com/KaifShakeel76)
 - [Alfeu Xerinda](https://githhub.com/Hard-007)
+- [Chandan Singh](https://githhub.com/chandan8678)
 - [Sangam Singh](https://githhub.com/codersangam)
 - [Shubhanshu Gupta](https://github.com/Gptshubh)
 - [Victor F.](https://github.com/victorfyonemoto)
