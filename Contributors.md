@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Higor Chagas](https://github.com/HigorChagas)
 - [AVINASH YADAV](https://github.com/Happylife10)
 - [Santiago Urbano](https://github.com/sanurb)
 - [Robin Maheshwary](https://github.com/RobinMaheshwary)
