@@ -202,6 +202,7 @@
 - [Hardik Jain](https://github.com/hardikjain0101)
 - [frank john](https://guthub.com/frank2ny)
 - [Nishtha Jethani](https://github.com/NishthaJethani)
+- [Soundarrajan](https://github.com/soundarrajan-official)
 - [Sirio Negri](https://github.com/ziriuz84)
 - [Jessica Rose](https://github.com/21B01A1251)
 - [Debayan Sen](https://github.com/Debayan-Sen)
