@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Higor Chagas](https://github.com/HigorChagas)
 - [AVINASH YADAV](https://github.com/Happylife10)
+- [Joshua Knorz] (https://github.com/JoshKn)
 - [Santiago Urbano](https://github.com/sanurb)
 - [Robin Maheshwary](https://github.com/RobinMaheshwary)
 - [Jay Ubisse](https://github.com/Jay-Ubisse)
