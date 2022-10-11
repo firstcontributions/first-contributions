@@ -4,7 +4,7 @@
 
 - [AVINASH YADAV](https://github.com/Happylife10)
 - [Robin Maheshwary](https://github.com/RobinMaheshwary)
-- Dibakar Upadhyaya
+- [Dibakar Upadhyaya](https://github.com/Dibakar01)
 - [Jay Ubisse](https://github.com/Jay-Ubisse)
 - [AnWhiteEd](https://github.com/an-white)
 - [Ravi Sanghani](https://github.com/ravi-sanghani)
