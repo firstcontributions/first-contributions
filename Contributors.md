@@ -3247,7 +3247,6 @@
 - [Vishal Chaurasia](https://github.com/vishal00923)
 - [Kartik Batra](https://github.com/devilsboss-dev)
 - [gitee](https://github.com/gitee-dev)
-- [Prabuddhi Sathyanka] (https://github.com/Sathyanka)
 - [harsh savani](https://github.com/harshsavani)
 - [Aditya](https://github.com/adityahajari14)
 - [Ishita Bisaria](https://github.com/IshitaBisaria)
@@ -3258,8 +3257,6 @@
 - [Anish Goyal](https://github.com/AnishGoyal18)
 - [Gourav Kumar Shaw](https://github.com/Gourav1695)
 - [Mandeep Mahra](https://github.com/mandeep-mahra)
-- [Suraj Kumar Das](https://github.com/SurajKD)
-- [Xing Chen](https://github.com/ChenXing-tech)
 - [Tejas JM](https://github.com/Shisui-12)
 - [Rahul Aryan](https://github.com/Rahularyan2211)
 - [Rupesh](https://github.com/rupeshpurum)
@@ -3377,4 +3374,5 @@
 - [Amit Das](https://github.com/das-amit)
 - [Anindya Das](https://github.com/lazy-pr0grammer)
 - [Fairuz Anjab](https://github.com/fairuzanjab15)
+- [Swikrit Shukla](https://github.com/swikrit92)
 <!-- prettier-ignore-end -->
