@@ -3389,4 +3389,5 @@
 - [Fairuz Anjab](https://github.com/fairuzanjab15)
 - [白隐Hakuin](https://github.com/Hakuin123)
 - [Nishant Singh](https://github.com/nishudon007)
+- [Arslan Talib](https://github.com/arslantalib3)
 <!-- prettier-ignore-end -->
