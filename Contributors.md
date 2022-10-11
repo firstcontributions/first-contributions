@@ -3340,7 +3340,6 @@
 - [Emdadul Haque Rafat](https://github.com/rafat97)
 -  [Shibra Amin](https://github.com/ShibraAmin)
 -  [Andre Rafli](https://github.com/Arrafll)
-- [Gabe Houle](https://github.com/ghoule636)
 -  [Kaio F G Lazaro](https://github.com/kaiofgl)
 -  [Umang Kumar](https://github.com/Umang-Kumar)
 - [Nathalia Araújo](https://github.com/nathaliafab)
@@ -3349,7 +3348,7 @@
 - [nikolatesla20](https://github.com/nikolatesla20)
 - [Dennis Siqueira 🇧🇷](https://github.com/dennissiq)
 - [Mulyana](https://github.com/omysurya)
-- [Iree Hale] (https://github.com/IreeHale)
-- [Mubeena Kabeer] (https://github.com/MUBEENAUQI)
-- [Aleksandra T Ma](https://github.com/mtsandra)
+- [Iree Hale](https://github.com/IreeHale)
+- [Mubeena Kabeer](https://github.com/MUBEENAUQI)
+- [Fairuz Anjab](https://github.com/fairuzanjab15)
 <!-- prettier-ignore-end -->
