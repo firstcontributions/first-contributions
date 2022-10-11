@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [AVINASH YADAV](https://github.com/Happylife10)
+- [Santiago Urbano](https://github.com/sanurb)
 - [Robin Maheshwary](https://github.com/RobinMaheshwary)
 - [Jay Ubisse](https://github.com/Jay-Ubisse)
 - [AnWhiteEd](https://github.com/an-white)
