@@ -2180,6 +2180,7 @@
 - [shahin rizwana](https://github.com/shahin2003)
 - [Brij Desai](https://github.com/brij-desaii)
 - [Labret](https://github.com/Labretx)
+- [dia](https://github.com/dianosaur12)
 - [Lake Stevens](https://github.com/LakeChicken29)
 - [Hari Charan Kandregula](https://github.com/Haricharan0310)
 - [Lucky Abiom](https://github.com/Faemous)
