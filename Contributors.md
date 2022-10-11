@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [Johan Kreivi](https://github.com/0h4y)
 - [Gaurav Patil](https://github.com/GauravPatil8778)
 - [Ali El-Shamy](https://github.com/elshali)
@@ -919,6 +920,7 @@
 - [Alex] (https://github.com/ASA-Projects)
 - [Pratham Goenka](https://github.com/prathamthe1st)
 - [Manas Rai](https://github.com/manas-0407)
+- [prettydeep] (https://github.com/prettydeep)
 - [Ishan Katoch](https://github.com/ishan-1010)
 - [Kiran Shete](https://github.com/Kiran270999)
 - [Fsubject](https://github.com/Fsubject)
