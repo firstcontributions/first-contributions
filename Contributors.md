@@ -97,6 +97,7 @@
 - [Abhighyaa](https://github.com/Abhighyaa)
 - [Kaif Shakeel] (https://github.com/KaifShakeel76)
 - [Alfeu Xerinda](https://githhub.com/Hard-007)
+- [Shubhanshu Gupta](https://github.com/Gptshubh)
 - [Victor F.](https://github.com/victorfyonemoto)
 - [Andre Müller](https://github.com/Amueller36)
 - [Elizabeth Renderos](https://github.com/EliRen7)
