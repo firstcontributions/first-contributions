@@ -53,6 +53,7 @@
 - [Saumya Upadhyay](https://github.com/Saumyaup11)
 - [yogesh](https://github.com/yogesh-0911)
 - [paras](https://github.com/paras9192)
+- [LaElijah](https://github.com/LaElijah)
 - [Shivansh Guleria](https://github.com/ShivanshGuleria)
 - [Swaraj](https://github.com/swarajzz)
 - [Brian Sia] (https://github.com/zerovirus123)
