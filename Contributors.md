@@ -3426,5 +3426,6 @@
 - [Aishani Pachauri](https://github.com/Aishanipach)
 - [Cristhiann Rodrigues] (https://github.com/cristhiannrodrigues)
 - [Kalpit Jain] (https://github.com/kalpit86
+- [Kamal Deep](https://github.com/sdeep1998)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
