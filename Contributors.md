@@ -3272,6 +3272,7 @@
 - [Abhishek Singh](https://github.com/kunwarabhi7)
 - [Miguel Steven Nguyen](https://github.com/Msninmx)
 - [Disha Chowdhury](https://github.com/Disha246)
+- [Sandra Ma](https://github.com/AleksandraMaa)
 - [Nikhil Reddy](https://github.com/n1ght-k1ng)
 - [neo](https://github.com/neocollege)
 - [Arthur Fernades](https://github.com/Ploita)
@@ -3352,4 +3353,5 @@
 - [Iree Hale] (https://github.com/IreeHale)
 - [Mubeena Kabeer] (https://github.com/MUBEENAUQI)
 - [Aleksandra T Ma](https://github.com/mtsandra)
+
 <!-- prettier-ignore-end -->
