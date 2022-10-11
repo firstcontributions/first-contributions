@@ -3340,6 +3340,7 @@
 - [Emdadul Haque Rafat](https://github.com/rafat97)
 -  [Shibra Amin](https://github.com/ShibraAmin)
 -  [Andre Rafli](https://github.com/Arrafll)
+- [Gabe Houle](https://github.com/ghoule636)
 -  [Kaio F G Lazaro](https://github.com/kaiofgl)
 -  [Umang Kumar](https://github.com/Umang-Kumar)
 - [Nathalia Araújo](https://github.com/nathaliafab)
