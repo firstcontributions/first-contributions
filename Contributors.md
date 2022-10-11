@@ -1605,6 +1605,7 @@
 - [Rick](https://github.com/SharZzCode)
 - [Keegan](https://github.com/guitarkeegan)
 - [Lincoln Li](https://github.com/vivalkm)
+  [rahul Yadav](https://github.com/Rahul-yaddv)
 - [Sidharth H.](https://github.com/tenocijam)
 - [Qais Aziz](https://github.com/qais-aziz)
 - [Alyssa Cape](https://github.com/alyssacape)
