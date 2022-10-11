@@ -1827,6 +1827,7 @@
 - [Osilaja Hameed](https://github.com/Osilaja78)
 - [Amí Naeily](https://github.com/pinkhairs)
 - [Sriram Arul](https://github.com/sriramarul)
+- [Dana Bindra](https://github.com/danabindra)
 - [gerasim simeonov](https://github.com/penzata)
 - [Ebimobowei Pondei](https://github.com/ebimo21)
 - [Dylan Manfredi](https://github.com/dmanfredi)]
