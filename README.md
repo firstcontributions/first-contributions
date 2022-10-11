@@ -173,6 +173,8 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 
 </details>
 
+Jay Sharma
+
 ## Submit your changes for review
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
