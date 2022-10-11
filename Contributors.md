@@ -3354,6 +3354,7 @@
 - [Himanshu Mahato](https://github.com/m7-selenophile)
 - [Moti Kumar Yadav](https://github.com/moti9)
 - [Atharv Vani](https://github.com/Atharv-110)
+- [Rishu Chaudhary](https://github.com/RyshuCdy)
 - [Parag Dewangan] (https://github.com/Parag-dwn)
 - [Pushkar Yadav](https://github.com/pushkarydv)
 - [Durga Vamsi Krishna](https://github.com/vamsikrishnarh7)
