@@ -111,6 +111,7 @@
 - [Musketeer Computing] (https://github.com/musketeer-computing)
 - [Bikash yadav](https://github.com/bikashydv)
 - [Sowmya S](https://github.com/sowmya-s-26)
+- [Andres Emedan](https://github.com/andresemedan)
 - [Julian Macioce](https://github.com/JMacioce)
 - [Prerit Agrawal](https://github.com/preritagrawal06)
 - [Chiranjit Debnath](https://github.com/tomtanner)
