@@ -124,7 +124,7 @@ anish
 - [Karan banjade(https://github.com/karanbanajde)]
 - [Akash Singhal](https://github.com/Akashsinghal1234)
 - [Tanuj Kalonia](https://github.com/Tanuj3662)
-- [Raji Roqeeb](https://github.com/Codebox124) 
+- [Raji Roqeeb](https://github.com/Codebox124)
 - [Ken Durlin](https://github.com/kenthehuman/)
 - [Sanath Raj Petkar](https://github.com/kar108)
 - [Rohit Shah](https://github.com/RohitShah1706)
@@ -158,6 +158,7 @@ anish
 - [shrthk-7](https://github.com/shrthk-7)
 - [Yash Thakur](https://github.com/philomathaf)
 - [Adnan Ahmed](https://github.com/fidato818)
+- [Marco A. Fox](https://github.com/ma-fox)
 - [Aman Badone](https://github.com/amanbadone)
 - [Rishabh yaduwanshi](https://github.com/rishabhyaduwanshi)
 - [Raghav Krishan Kedia](https://github.com/Raghav-Kedia)
@@ -206,7 +207,7 @@ anish
 - [Kevin] (https://github.com/ZaBarudo)
 - [Devansh] (https://github.com/Devansh-Walia)
 - [Joseph Uzuegbu] (https://github.com/josephDev123)
-- [Alon Cohen] (https://github.com/Alon2904)  
+- [Alon Cohen] (https://github.com/Alon2904)
 - [Shrey Jaiswal](https://github.com/Shrey2002)
 - [Abhijeet Jadhav] (https://github.com/mrabhijeetjadhav)
 - [Aayushi Kukreja](https://github.com/AayushiKukreja)
@@ -228,7 +229,7 @@ anish
 - [Adenle Abiodun](https://github.com/abbeyseto)
 - [Christian Iradukunda](https://github.com/Webamz)
 - [VKSK]
-- [Soumya Agrawal](https://github.com/SouMy16) 
+- [Soumya Agrawal](https://github.com/SouMy16)
 - [Akansha Rawat](https://github.com/xx-codificare-xx)
 - [Ali Akkas] (https://github.com/aliakkas006)
 - [raspicorgi](https://github.com/raspicorgi)
@@ -422,7 +423,7 @@ anish
 - [Manjot Singh](https://github.com/ManjotCodes)
 - [Tanmay Deopurkar](https://github.com/tanmays62343)
 - [Roshan George](https://github.com/roshangeorge97)
-- [Tanmay Deopurkar](https://github.com/tanmays62343) 
+- [Tanmay Deopurkar](https://github.com/tanmays62343)
 - [Praveen Chandra](https://github.com/praveenchandra01)
 - [Sampurna Sen](https://github.com/SampurnaSen)
 - [Zoheb Alam](https://github.com/ali7979)
@@ -2439,7 +2440,7 @@ anish
 - [Siddhartha-Mishra](https://github.com/SiddharthaMishra-dev)
 - [Joyal Shah](https://joyal-portfolio.netlify.app/)
 - Ajay Singh
-- 
+-
 - [Chirag Goel](https://github.com/chiggshiggs)
 - [Satyajeet Tripathy](https://github.com/sa8tyajeet46)
 - [Ajay Nair](https://github.com/ajayrnairg)
