@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Sambhav Goel](https://github.com/Sambhavgoel)
 - [Akshay Soni](https://github.com/akshaysoni10)
 - [youngjun1227](https://github.com/youngjun1227)
 - [Higor Chagas](https://github.com/HigorChagas)
