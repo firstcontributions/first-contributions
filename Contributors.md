@@ -3385,4 +3385,5 @@
 - [Anindya Das](https://github.com/lazy-pr0grammer)
 - [Fairuz Anjab](https://github.com/fairuzanjab15)
 - [白隐Hakuin](https://github.com/Hakuin123)
+- [Nishant Singh](https://github.com/nishudon007)
 <!-- prettier-ignore-end -->
