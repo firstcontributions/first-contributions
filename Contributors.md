@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [AnWhiteEd](https://github.com/an-white)
 - [Rao Khuram Shahzad](https://github.com/KhuramShahzad-5335)
 - [Akshay Kudalkar](https://github.com/Akshaykk12)
 - [James Anyalewechi](https://github.com/jamesgotech)
