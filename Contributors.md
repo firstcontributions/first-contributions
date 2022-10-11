@@ -370,6 +370,7 @@
 - [Ruchit Raushan](https://github.com/Ruchit1101/first-contributions.git)
 - [André Sousa](https://github.com/andre-felipe-os)
 - [Tanmay Deopurkar](https://github.com/tanmays62343)
+  [Batikan Yeni]
 - [HarshVijay](https://github.com/harshvijay63)
 - [Faran Mohammad](https://github.com/Faranheit15)
 - [Vansh Aggarwal](https://github.com/vansh-agg)
