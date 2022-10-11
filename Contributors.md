@@ -3409,4 +3409,4 @@
 - [Arslan Talib](https://github.com/arslantalib3)
 - [Kashish Ahuja](https://github.com/kashishahuja2002)
 <!-- prettier-ignore-end -->
-first contributions - hanyang univ.
+
