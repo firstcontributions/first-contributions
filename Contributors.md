@@ -3341,4 +3341,5 @@
 - [🔥Ibrahima Sory Diallo Diallo🔥](https://github.com/sorydi3)
 - [Luciane Fernandes Roque](https://github.com/LucianeFernandesRoque)
 - [nikolatesla20](https://github.com/nikolatesla20)
+- [Dennis Siqueira 🇧🇷](https://github.com/dennissiq)
 <!-- prettier-ignore-end -->
