@@ -1,7 +1,6 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-- [SACHIN TIWARI] (https://github.com/Sachin2486)
 - [AVINASH YADAV](https://github.com/Happylife10)
 - [Robin Maheshwary](https://github.com/RobinMaheshwary)
 - [Jay Ubisse](https://github.com/Jay-Ubisse)
@@ -1964,6 +1963,7 @@
 - [Aldo Socarras](https://github.com/driuft)
 - [Junjie shao](https://github.com/EIJUNJS)
 - [Joel Hayward](https://github.com/Coding-with-Joel)
+- [SACHIN TIWARI] (https://github.com/Sachin2486)
 - [Abir Moulick](https://github.com/Abir10101)
 - [Çağrı Uysal](https://github.com/Tuireol)
 - [Romel Williams](https://github.com/omerome83)
