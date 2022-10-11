@@ -3432,6 +3432,7 @@
 - [Cristhiann Rodrigues] (https://github.com/cristhiannrodrigues)
 - [Kalpit Jain] (https://github.com/kalpit86
 - [Kamal Deep](https://github.com/sdeep1998)
+- [satyam kale](https://github.com/satyamkale27)
 - 
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
