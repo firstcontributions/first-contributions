@@ -2452,6 +2452,7 @@
 - [Amit Batra](https://github.com/amitbatra31)
 - [CodeGoGetter](https://github.com/CodeGoGetter)
 - [M. Baharuddin Yusuf](https://github.com/ByeByu07)
+- [Yurii Lobur](https://github.com/yura7l)
 - [Ayush Krishna Murthi](https://github.com/AyushKMurthi)
 - [Mark98xd](https://github.com/mark98xd)
 - [Tanmay Chakrabarty](https://github.com/tanmaychk)
