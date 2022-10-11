@@ -39,6 +39,7 @@
 - [Brian Sia] (https://github.com/zerovirus123)
 - anish
 - [Griffin](https://github.com/Midnightific)
+- [Pranvee Vashisht](https://github.com/PranveeVashisht)
 - [Juan Tellez](https://github.com/jmtellez)
 - [Felicity Essien](https://github.com/felabel)
 - [Shishir Shrestha] (https://github.com/theRealPJ24)
