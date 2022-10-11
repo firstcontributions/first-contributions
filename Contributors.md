@@ -2823,6 +2823,7 @@
 - [Chirayu Gupta](https://github.com/ChirayuGupta2003)
 - [Kshitiz Tayal](https://github.com/KshitizTayal)
 - [Sahil Arora](https://github.com/sahilarora02)
+- [Sahil Rohera](https://github.com/sahilrohera10)
 - [Sayam Agarwal](https://github.com/Sayam241020)
 - [Siddhant Kumar](https://github.com/Siddhant87)
 - [Kshitij Pandey](https://github.com/Kshitij-1373)
