@@ -17,7 +17,6 @@
 - [Akshay Kudalkar](https://github.com/Akshaykk12)
 - [James Anyalewechi](https://github.com/jamesgotech)
 - [Johan Kreivi](https://github.com/0h4y)
-- [Gokul Mishra](https://github.com/Gokulmishra)
 - [Gaurav Patil](https://github.com/GauravPatil8778)
 - [Ananya Agarwal](https://github.com/ananyaa01)
 - [Ali El-Shamy](https://github.com/elshali)
@@ -664,6 +663,7 @@
 - [Priyanshu Arora] (https://github.com/priyanshuarora595)
 - [Toky] (https://github.com/herostoky)
 - [Patricia Rodrigues] (https://github.com/patprodrigues)
+-  [LIJIN DANIEL JOSEPH] (https://github.com/lijindanieljoseph)
 - [Luca Argentieri](https://github.com/LucaArgentieri)
 - [Abhishek Dusad] (https://github.com/abhishekd004)
 - [Jahnvi ] (https://github.com/jahnvi15/)
@@ -3431,5 +3431,6 @@
 - [Cristhiann Rodrigues] (https://github.com/cristhiannrodrigues)
 - [Kalpit Jain] (https://github.com/kalpit86
 - [Kamal Deep](https://github.com/sdeep1998)
+- 
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
