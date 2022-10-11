@@ -61,6 +61,7 @@
 - [Shishir Shrestha] (https://github.com/theRealPJ24)
 - [Sigit Pramono](https://github.com/SigitPramts)
 - [Franklin Mensah](https://github.com/fiificode)
+- [Aryan](https://github.com/aryanh0911)
 - [Rahul chaurasiya](https://github.com/Rahul-chaurasiya?)
 - [Anugrah Rachman](https://github.com/kidomega-byte/)
 - [Ricktho Sarkar](https://github.com/Ricktho1)
