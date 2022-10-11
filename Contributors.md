@@ -31,6 +31,7 @@
 - [yogesh](https://github.com/yogesh-0911)
 - [paras](https://github.com/paras9192)
 - [Shivansh Guleria](https://github.com/ShivanshGuleria)
+- [Brian Sia] (https://github.com/zerovirus123)
 - anish
 - [Griffin](https://github.com/Midnightific)
 - [Juan Tellez](https://github.com/jmtellez)
