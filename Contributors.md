@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [SACHIN TIWARI] (https://github.com/Sachin2486)
 - [AVINASH YADAV](https://github.com/Happylife10)
 - [Robin Maheshwary](https://github.com/RobinMaheshwary)
 - [Jay Ubisse](https://github.com/Jay-Ubisse)
