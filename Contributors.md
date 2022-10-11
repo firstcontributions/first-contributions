@@ -3357,4 +3357,5 @@
 - [Mubeena Kabeer] (https://github.com/MUBEENAUQI)
 - [Aleksandra T Ma](https://github.com/mtsandra)
 - [Amit Das](https://github.com/das-amit)
+- [Anindya Das](https://github.com/lazy-pr0grammer)
 <!-- prettier-ignore-end -->
