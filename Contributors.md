@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-- [James Anyalewechi](https://github.com/jamesgotech https://linkedin.com/in/james-anyalewechi)
+- [James Anyalewechi](https://github.com/jamesgotech)
 - [Johan Kreivi](https://github.com/0h4y)
 - [Gaurav Patil](https://github.com/GauravPatil8778)
 - [Ali El-Shamy](https://github.com/elshali)
