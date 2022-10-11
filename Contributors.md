@@ -17,6 +17,7 @@
 - [Akshay Kudalkar](https://github.com/Akshaykk12)
 - [James Anyalewechi](https://github.com/jamesgotech)
 - [Johan Kreivi](https://github.com/0h4y)
+- [Gokul Mishra](https://github.com/Gokulmishra)
 - [Gaurav Patil](https://github.com/GauravPatil8778)
 - [Ananya Agarwal](https://github.com/ananyaa01)
 - [Ali El-Shamy](https://github.com/elshali)
