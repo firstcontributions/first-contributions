@@ -3347,4 +3347,5 @@
 - [nikolatesla20](https://github.com/nikolatesla20)
 - [Dennis Siqueira 🇧🇷](https://github.com/dennissiq)
 - [Mulyana](https://github.com/omysurya)
+- [Iree Hale] (https://github.com/IreeHale)
 <!-- prettier-ignore-end -->
