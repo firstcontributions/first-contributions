@@ -16,6 +16,7 @@
 - [Rao Khuram Shahzad](https://github.com/KhuramShahzad-5335)
 - [Yash Deharia](https://github.com/yashdeharia)
 - [Akshay Kudalkar](https://github.com/Akshaykk12)
+- [Shravan Seth](https://github.com/ShravanSeth)
 - [James Anyalewechi](https://github.com/jamesgotech)
 - [Johan Kreivi](https://github.com/0h4y)
 - [Gaurav Patil](https://github.com/GauravPatil8778)
