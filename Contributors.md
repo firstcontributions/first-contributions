@@ -84,6 +84,7 @@
 - [Chiranjit Debnath](https://github.com/tomtanner)
 - [JSTNSNE](https://github.com/JSTNSNE)
   [ J Sripranya](https://github.com/Sripranya)
+  [Karthinivash S R](https://github.com/karthinivashSR)
 - [Aimee T](https://github.com/aimeetacchi)
 - [Abhijith H](https://github.com/Abhijith-H13)
 - [Harikumar Peddakotla](https://github.com/Harikumar778)
