@@ -69,6 +69,7 @@ If you're making changes to a translation, please request a review from our prev
 | Sindhi | [Sindhi](../translations/README.sindhi.md) | []() |
 | Slovenčina | [Slovak](../translations/README.sk.md) | [<img width="100" src="https://avatars3.githubusercontent.com/u/16558136?s=460&v=4" alt="@CoderKlemen" />](https://github.com/CoderKlemen) |
 | Slovenščina | [Slovenian](../translations/README.slk.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/11976353?s=460&v=4" alt="@hercegtomas" />](https://github.com/hercegtomas) |
+| Hindi | [Hindi](../translations/README.hi.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/86339110?s=400&u=39f216242b7cdf7982d2abbf8487f6e293d4d87a&v=4" alt="@anupriyajain595" />](https://github.com/anupriyajain595) |
 | Serbian | [Serbian](../translations/README.sr.md) | []() |
 | தமிழ் | [Tamil](../translations/README.ta.md) | []() |
 | తెలుగు | [Telugu](../translations/README.te.md) | []() |
