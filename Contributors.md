@@ -24,6 +24,7 @@
 - [Shabana Naik](https://github.com/ShabanaNaik)
 - [Dhananjaya Swain](https://github.com/thelastone07)
 - [Antony Prince](https://github.com/antoprince001)
+- [DG](https://github.com/DGclasher)
 - [Prashant Maitra](https://github.com/lovefromCode)
 - [Aditya Sharma](https://github.com/technophyle66)
 - [Gael Mpoyi](https://github.com/MpoyiMmg)
