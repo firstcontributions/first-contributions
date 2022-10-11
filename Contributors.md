@@ -460,6 +460,7 @@
 - [Mayur Vora](https://github.com/Mayur-vora)
 - [Shashank Shukla](https://github.com/Sshashank0743)
 - [Wayne Miles] (https://github.com/WayneMilesIII)
+- [Daniel Alves](https://github.com/dalima-dev)
 - [Tony Nonso Onwuli](https://github.com/TonyKodit)
 - [Harsh Pathak](https://github.com/harshpathakzz)
 - [Pratiksha Nigam](https://github.com/Pratiksha71)
