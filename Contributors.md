@@ -3277,6 +3277,7 @@
 - [Ishaan Jain](https://github.com/ishaanjain1898)https://github.com/marianapcorrea
 - [Giacomo Guadagnini](https://github.com/Flipper97)
 - [wmazoni](https://github.com/wmazoni)
+- [Reeya Hazarika](https://github.com/reeyah)
 - [Mariana P Correa](https://github.com/marianapcorrea)
 - [Manan Sharma](https://github.com/MananSharma2710)
 - [Sidhant kaushal](https://github.com/sidhantkaushal)
@@ -3430,6 +3431,7 @@
 - [Kashish Ahuja](https://github.com/kashishahuja2002)
 - [Aman Bhardwaj](https://github.com/iaman877)
 - [Santanu Jana](https://github.com/Santanujana2001)
+- [Reeya Hazarika](https://github.com/reeyah)
 - [Harsh koli](https://github.com/Harshkoli121)
 - [Aishani Pachauri](https://github.com/Aishanipach)
 - [Cristhiann Rodrigues] (https://github.com/cristhiannrodrigues)
