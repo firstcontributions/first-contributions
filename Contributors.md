@@ -98,6 +98,7 @@
 - [Alfeu Xerinda](https://githhub.com/Hard-007)
 - [Victor F.](https://github.com/victorfyonemoto)
 - [Andre Müller](https://github.com/Amueller36)
+- [Elizabeth Renderos](https://github.com/EliRen7)
 - [SOE](https://github.com/Soe-sandar-win)
 - [Urmi Jana] (https://github.com/Urmi-Jana)
 - [Akshay S Rajan](https://github.com/Akshaysrajan)
