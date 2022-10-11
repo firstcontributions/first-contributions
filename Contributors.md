@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Akshay Soni](https://github.com/akshaysoni10)
 - [youngjun1227](https://github.com/youngjun1227)
 - [Higor Chagas](https://github.com/HigorChagas)
 - [Piyush Raviraj](https://github.com/Piyushraviraj2611)
