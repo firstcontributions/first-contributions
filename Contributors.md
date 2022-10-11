@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Akshay Kudalkar](https://github.com/Akshaykk12)
 - [James Anyalewechi](https://github.com/jamesgotech)
 - [Johan Kreivi](https://github.com/0h4y)
 - [Gaurav Patil](https://github.com/GauravPatil8778)
