@@ -34,6 +34,7 @@
 - [Rishabh Pratap Singh](https://github.com/iam-Rps)
 - [Poonam Parate](https://github.com/HeYPoonam)
 - [Samy Cachon](https://github.com/samy-c)
+- [Anay Deshpande](https://github.com/anay-deshpande/)
 - [Laughing Nerd](https://github.com/laughing-nerd)
 - [Aecio Neto](https://github.com/aecio-neto)
 - [Neha Jadhav](https://github.com/jadhavneha)
