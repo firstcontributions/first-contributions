@@ -146,7 +146,7 @@
 - [Karan banjade(https://github.com/karanbanajde)]
 - [Akash Singhal](https://github.com/Akashsinghal1234)
 - [Tanuj Kalonia](https://github.com/Tanuj3662)
-- [Raji Roqeeb](https://github.com/Codebox124) 
+- [Raji Roqeeb](https://github.com/Codebox124)
 - [Ken Durlin](https://github.com/kenthehuman/)
 - [Sanath Raj Petkar](https://github.com/kar108)
 - [Rohit Shah](https://github.com/RohitShah1706)
@@ -253,7 +253,7 @@
 - [Adenle Abiodun](https://github.com/abbeyseto)
 - [Christian Iradukunda](https://github.com/Webamz)
 - [VKSK]
-- [Soumya Agrawal](https://github.com/SouMy16) 
+- [Soumya Agrawal](https://github.com/SouMy16)
 - [Akansha Rawat](https://github.com/xx-codificare-xx)
 - [Huseyin Bingol](https://github.com/hueseyinbing)
 - [Ali Akkas] (https://github.com/aliakkas006)
@@ -449,7 +449,7 @@
 - [Manjot Singh](https://github.com/ManjotCodes)
 - [Tanmay Deopurkar](https://github.com/tanmays62343)
 - [Roshan George](https://github.com/roshangeorge97)
-- [Tanmay Deopurkar](https://github.com/tanmays62343) 
+- [Tanmay Deopurkar](https://github.com/tanmays62343)
 - [Praveen Chandra](https://github.com/praveenchandra01)
 - [Sampurna Sen](https://github.com/SampurnaSen)
 - [Zoheb Alam](https://github.com/ali7979)
@@ -1998,7 +1998,7 @@
 - [Devang Shah](https://github.com/Devang-Shah-49)
 - [khaled al hamwie](https://github.com/khaled-al-hamwie)
 - [Himanshu Sagar](https://github.com/himanshu-sagar)
-  Raghunath 
+  Raghunath
 - [Itay Abuhazera](https://github.com/ItayAbuhazera)
 - [Ignatius Obiorah](https://github.com/ignatiusobiorah)
 - [Ricardo Carvalho](https://github.com/ricardocarvalhods)
@@ -2476,7 +2476,7 @@
 - [Siddhartha-Mishra](https://github.com/SiddharthaMishra-dev)
 - [Joyal Shah](https://joyal-portfolio.netlify.app/)
 - Ajay Singh
-- 
+-
 - [Chirag Goel](https://github.com/chiggshiggs)
 - [Satyajeet Tripathy](https://github.com/sa8tyajeet46)
 - [Ajay Nair](https://github.com/ajayrnairg)
@@ -3380,4 +3380,5 @@
 - [Anindya Das](https://github.com/lazy-pr0grammer)
 - [Fairuz Anjab](https://github.com/fairuzanjab15)
 - [白隐Hakuin](https://github.com/Hakuin123)
+- [Aditi Khanna](https://github.com/adeity21)
 <!-- prettier-ignore-end -->
