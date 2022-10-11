@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [AVINASH YADAV](https://github.com/Happylife10)
+- [Santiago Urbano](https://github.com/sanurb)
 - [Robin Maheshwary](https://github.com/RobinMaheshwary)
 - [Dibakar Upadhyaya](https://github.com/Dibakar01)
 - [Jay Ubisse](https://github.com/Jay-Ubisse)
@@ -135,6 +136,7 @@
 - [Luis Contreras](https://github.com/luconther)
 - [The Codingmiracle](https://github.com/codingmiracle)
 - [wubiwen](https://github.com/s1084796293)
+- [Rezki Abderrahman](https://github.com/AbdoRezki)
 - [Muhammad Hakim](https://github.com/MuhammadHakim33)
 - [Ruthik Jadhav](https://github.com/Ruthik130201)
 - [Anastasis Xouzafeiris](https://github.com/anksos)
@@ -198,6 +200,7 @@
 - [Shaurya Gupta](https://github.com/Shaurya50211)
 - [shrthk-7](https://github.com/shrthk-7)
 - [Yash Thakur](https://github.com/philomathaf)
+- [Rajarshi Bhattacharya](https://github.com/rajarshi023)
 - [Adnan Ahmed](https://github.com/fidato818)
 - [Mandar Deshmukh](https://github.com/mandarsd18)
 - [Aman Badone](https://github.com/amanbadone)
@@ -1966,6 +1969,7 @@
 - [Aldo Socarras](https://github.com/driuft)
 - [Junjie shao](https://github.com/EIJUNJS)
 - [Joel Hayward](https://github.com/Coding-with-Joel)
+- [SACHIN TIWARI] (https://github.com/Sachin2486)
 - [Abir Moulick](https://github.com/Abir10101)
 - [Çağrı Uysal](https://github.com/Tuireol)
 - [Romel Williams](https://github.com/omerome83)
@@ -2183,6 +2187,7 @@
 - [shahin rizwana](https://github.com/shahin2003)
 - [Brij Desai](https://github.com/brij-desaii)
 - [Labret](https://github.com/Labretx)
+- [dia](https://github.com/dianosaur12)
 - [Lake Stevens](https://github.com/LakeChicken29)
 - [Hari Charan Kandregula](https://github.com/Haricharan0310)
 - [Lucky Abiom](https://github.com/Faemous)
@@ -3415,5 +3420,7 @@
 - [Nishant Singh](https://github.com/nishudon007)
 - [Arslan Talib](https://github.com/arslantalib3)
 - [Kashish Ahuja](https://github.com/kashishahuja2002)
-
+- [Aman Bhardwaj](https://github.com/iaman877)
+- [Santanu Jana](https://github.com/Santanujana2001)
 <!-- prettier-ignore-end -->
+first contributions - hanyang univ.
