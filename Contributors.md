@@ -197,6 +197,7 @@
 - [Shaurya Gupta](https://github.com/Shaurya50211)
 - [shrthk-7](https://github.com/shrthk-7)
 - [Yash Thakur](https://github.com/philomathaf)
+- [Rajarshi Bhattacharya](https://github.com/rajarshi023)
 - [Adnan Ahmed](https://github.com/fidato818)
 - [Mandar Deshmukh](https://github.com/mandarsd18)
 - [Aman Badone](https://github.com/amanbadone)
