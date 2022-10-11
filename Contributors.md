@@ -2000,6 +2000,7 @@
 - [Meric Peddle](https://github.com/gjpeddle)
 - [Olamide omitogun](https://github.com/Olamide0411)
 - [sadhak kumar](https://github.com/SadhakKumar)
+- [Vladimir Parfinenko](https://github.com/cypok)
 - [Frank Sullivan](https://github.com/franks1-svg)
 - [Jedrzej Kijora](https://github.com/jkijora)
 - [Hassana Abdullahi](https://github.com/hassana123)
