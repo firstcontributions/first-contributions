@@ -3165,4 +3165,5 @@
 - [PathuS13](https://github.com/pathuS13)
 - [Jaskirat Kaur](https://github.com/jjass-kaur)
 - [kanz] (https://github.com/arkansendy)
+- [Vikranth Kumar Bala] (https://github.com/VikranthBala)
 <!-- prettier-ignore-end -->
