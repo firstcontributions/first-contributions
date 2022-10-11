@@ -61,6 +61,7 @@
 - [Seemant Tripathi](https://github.com/seemanttripathi/)
 - [Gabriel Joshua](https://github.com/JOSHI-23/)
 - [Ayushi Singh](https://github.com/ayushisingh73448/)
+- [Siddharth Prajapati](https://github.com/siddd26)
 - [Kartikeya Kushwaha](www.linkedin.com/in/kartikeya-kushwaha-3036731ba)
 - [Stroganov Kirill](https://github.com/kiraplenkin)
 - [Laksh Gupta](https://github.com/cyborglaksh)
