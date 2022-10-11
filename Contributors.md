@@ -34,6 +34,7 @@
 - anish
 - [Griffin](https://github.com/Midnightific)
 - [Juan Tellez](https://github.com/jmtellez)
+- [Felicity Essien](https://github.com/felabel)
 - [Shishir Shrestha] (https://github.com/theRealPJ24)
 - [Sigit Pramono](https://github.com/SigitPramts)
 - [Franklin Mensah](https://github.com/fiificode)
