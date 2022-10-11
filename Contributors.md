@@ -1697,6 +1697,7 @@
 - [Robert Fontan](https://github.com/RobertFontan)
 - [Jade Jones](https://github.com/Jade-Jones-dev)
 - [Steven Noyes](https://github.com/SteveNoyes/)
+- [Keygo](https://github.com/retorica-puzzle)
 - [MarcosH911](https://github.com/MarcosH911)
 - [Kanishk](https://github.com/knshkp)
 - [Rad](https://github.com/rad)
