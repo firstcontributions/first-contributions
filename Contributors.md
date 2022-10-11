@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [SATYAM](https://github.com/Satyam868910)
 - [AVINASH YADAV](https://github.com/Happylife10)
 - [Santiago Urbano](https://github.com/sanurb)
 - [Robin Maheshwary](https://github.com/RobinMaheshwary)
