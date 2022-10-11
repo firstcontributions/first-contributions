@@ -3,7 +3,8 @@
 <!-- prettier-ignore-start -->
 - [youngjun1227](https://github.com/youngjun1227)
 - [Higor Chagas](https://github.com/HigorChagas)
-- [Dwayne Gibbs](https://dwaynegibbs.net)
+- [Piyush Raviraj](https://github.com/Piyushraviraj2611)
+- [D wayne Gibbs](https://dwaynegibbs.net)
 - [AVINASH YADAV](https://github.com/Happylife10)
 - [Joshua Knorz](https://github.com/JoshKn)
 - [Dmitrii Sidenko](https://github.com/DmSide)
