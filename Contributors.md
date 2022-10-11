@@ -3419,5 +3419,6 @@
 - [Aman Bhardwaj](https://github.com/iaman877)
 - [Santanu Jana](https://github.com/Santanujana2001)
 - [Harsh koli](https://github.com/Harshkoli121)
+- [Aishani Pachauri](https://github.com/Aishanipach)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
