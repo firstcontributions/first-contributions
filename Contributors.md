@@ -1,6 +1,6 @@
 # Contributors
-
 <!-- prettier-ignore-start -->
+- [Rohit Yadav](https://www.linkedin.com/in/rohit-yadav-0852481b2/)
 - [Sambhav Goel](https://github.com/Sambhavgoel)
 - [Akshay Soni](https://github.com/akshaysoni10)
 - [youngjun1227](https://github.com/youngjun1227)
