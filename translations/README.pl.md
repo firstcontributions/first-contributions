@@ -21,14 +21,14 @@ Utwórz fork tego repozytorium klikając przycisk `Fork` na górze tej strony. S
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Teraz sklonuj repozytorium na swój komputer. Kliknij przycisk `Clone`, a później ikonkę *skopiuj do schowka*.
+Teraz sklonuj repozytorium na swój komputer. Przejdź do swojego konta GitHub, otwórz skopiowane repozytorium, kliknij przycisk `Code`, a później ikonkę *skopiuj do schowka*.
 
 Otwórz konsolę i uruchom komendę git:
 
 ```
 git clone <skopiowany-adres>
 ```
-Gdzie `<skopiowany-adres>` to adres tego repozytorium. Zobacz poprzedni krok aby skopiować adres.
+Gdzie `<skopiowany-adres>` to adres tego repozytorium (twojej kopii tego projektu). Zobacz poprzedni krok aby skopiować adres.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -37,7 +37,7 @@ Przykład:
 git clone https://github.com/to-ty/first-contributions.git
 ```
 
-W miejscu `to-ty` to twój login na githubie. W tym kroku ściągasz zawartość twojej kopii repozytorium `first-contributions` z githuba na swój komputer.
+W miejscu `to-ty` to twój login na GitHubie. W tym kroku ściągasz zawartość twojej kopii repozytorium `first-contributions` z githuba na swój komputer.
 
 ## Stwórz gałąź (`branch`)
 
@@ -107,9 +107,13 @@ Niedługo dodam proponowane przez ciebie zmiany do głównej gałęzi projektu. 
 
 ## Co dalej?
 
+Brawo! Właśnie ukończyłeś standardowy workflow _fork -> clone -> edit -> pull request_, który często będziesz napotykać jako współtwórca!
+
 Świętuj swoją pierwszą zmianę i podziel się nią z przyjaciółmi i obserwującymi poprzez <a href="https://roshanjossey.github.io/first-contributions/#social-share" rel="nofollow">aplikację</a>.
+
 Możesz dołączyć do naszego kanału slack w przypadku kiedy będziesz potrzebował pomocy albo miał jakieś pytania. <a href="https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA" rel="nofollow">Dołącz do slacka</a>.
-Możesz teraz zacząc uczestniczyć w innych projektach. Przygotowaliśmy listę projektów z prostymi zadaniami które będą dobre na początek. Sprawdź <a href="https://roshanjossey.github.io/first-contributions/#project-list" rel="nofollow">listę projektów</a>.
+
+Możesz teraz zacząć uczestniczyć w innych projektach. Przygotowaliśmy listę projektów z prostymi zadaniami które będą dobre na początek. Sprawdź <a href="https://roshanjossey.github.io/first-contributions/#project-list" rel="nofollow">listę projektów</a>.
  
 ### [Materiały dodatkowe](../additional-material/git_workflow_scenarios/additional-material.md) 
  
