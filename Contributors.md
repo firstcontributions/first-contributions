@@ -3403,6 +3403,7 @@
 - [Saksham Gupta](https://github.com/saksham0103)
 - [Amiq Dian](https://github.com/amiqyolo)
 - [Panmax](https://github.com/Panmax)
+- [Mohit Singh Tanwar](https://github.com/mohitjpr)
 - [Vishnu](https://github.com/vishnus17)
 - [kunjal](https://github.com/kunjal293)
 - [Devashish Sarmah](https://github.com/devashishSarmah)
