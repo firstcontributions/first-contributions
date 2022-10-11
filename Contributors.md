@@ -3250,6 +3250,7 @@
 - [Rahul Aryan](https://github.com/Rahularyan2211)
 - [Rupesh](https://github.com/rupeshpurum)
 - [Himanshu Mahato](https://github.com/m7-Selenophile)
+- [isnani](https://github.com/Isnani25)
 - [Buffersolve](https://github.com/Buffersolve)
 - [Krnlsoft](https://github.com/Krnlsoft)
 - [Sarang Thrippanikkara](https://github.com/sarangthrippanikkara
