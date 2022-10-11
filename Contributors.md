@@ -926,6 +926,7 @@
 - [AditGege](https://github.com/aditgege)
 - [Charvi Upreti]
 - [Vincent Surkijn](https://github.com/Vincent-Surkijn)
+- [Mohamed Sami](https://github.com/MoeSami)
 - [Shubham Maurya](https://www.youtube.com/c/DebugWithShubham)
 - [TuttiFrutti7](https://github.com/TuttiFrutti7)
 - [Shreya Agarwal](https://github.com/shreya24ag)
