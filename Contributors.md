@@ -1820,6 +1820,7 @@
 - [Osilaja Hameed](https://github.com/Osilaja78)
 - [Amí Naeily](https://github.com/pinkhairs)
 - [Sriram Arul](https://github.com/sriramarul)
+- [Subhajit Mahata](https://github.com/subhajitkp007)
 - [gerasim simeonov](https://github.com/penzata)
 - [Ebimobowei Pondei](https://github.com/ebimo21)
 - [Dylan Manfredi](https://github.com/dmanfredi)]
