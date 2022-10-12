@@ -3525,5 +3525,6 @@
 - [Pritam](https://github.com/pritamhazra21)
 - [Marco L](https://github.com/Mar-lom)
 - [Rodukov](https://github.com/rodukov)
+- [Skuth](https://github.com/skuth)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
