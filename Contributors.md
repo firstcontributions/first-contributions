@@ -9,6 +9,7 @@
 - [Krishan-Kant-11](https://github.com/Krishan-Kant-11)
 - [KiriNeTo](https://github.com/KiriNeTo)
 - [Kiran Kuumar Mohanty](https://github.com/theluckiestsoul)
+- [Jonathan G Araya](https://github.com/Jonathana1106)
 - [jungchoib](https://github.com/jungchoib)
 - [Jongkwang131](https://github.com/Jongkwang131)
 - [jiwonqaz](https://github.com/jiwonqaz)
