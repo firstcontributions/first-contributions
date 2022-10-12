@@ -1845,6 +1845,7 @@
 - [Aditya Bisht](https://github.com/adityabisht02)
 - [Grace Kim](https://github.com/kimgraace)
 - [Tracey Huang](https://github.com/Traceydh)
+- [Taelor Jade](https://github.com/taelorjc)
 - [Shruti Ghosh](https://github.com/neo-shruti-ghosh)
 - [Ashu Kumar](https://github.com/Ashu-kumar40)
 - [Melvin Jones Repol](https://github.com/mrepol742)
