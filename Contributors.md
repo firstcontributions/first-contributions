@@ -434,6 +434,7 @@
 - [Ashutosh Kumar](https://github.com/incognion)
 - [Varun negi](https://github.com/VarunDTU)
 - [Anurag Nayak](https://github.com/Anurag-Nayak)
+- [Manjunath Bhat K](https://github.com/thatcodechap)
 - [Will Menezes](https://github.com/uiuzih)
 - [Disha Gupta](https://github.com/Dishag2611)
 - [Chijioke Ibekwe](https://github.com/chijioke-ibekwe)
