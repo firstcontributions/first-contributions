@@ -77,6 +77,7 @@
 - [Rishi Mathur](https://github.com/skyrunner360)
 - [Ajay Bairwa](https://github.com/bairwa25)
 - [Shazia Khatoon]
+- [Chris Boles](https://github.com/cboles80)
   [Dev-it-a-dev](https://github.com/dev-it-a-dev)
 - [Alexis Gonzalez](https://github.com/Alex-is-Gonzalez)  
 - [Shreyash Gupta](https://github.com/shreyash2610)
@@ -3512,7 +3513,7 @@
 - [白隐Hakuin](https://github.com/Hakuin123)
 - [Nishant Singh](https://github.com/nishudon007)
 - [Arslan Talib](https://github.com/arslantalib3)
-- [Kashish Ahuja](https://github.com/kashishahuja2002
+- [Kashish Ahuja](https://github.com/kashishahuja2002)
 - [Dhinesh Appaduria](https://github.com/Dhinesh16)
 - [Aman Bhardwaj](https://github.com/iaman877)
 - [Santanu Jana](https://github.com/Santanujana2001)
