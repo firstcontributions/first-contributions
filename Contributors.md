@@ -1,8 +1,5 @@
 # Contributors
-
 <!-- prettier-ignore-start -->
-- [KDE030617](https://github.com/KDE030617)
-- [starR-ight](https://github.com/StarR-ight)
 - [jiunjiun69](https://github.com/jiunjiun69)
 - [seongjunyeong](https://github.com/seongjunyeong)
 - [Jungmw03](https://github.com/Jungmw03)
@@ -24,6 +21,7 @@
 - [AVINASH YADAV](https://github.com/Happylife10)
 - [Joshua Knorz](https://github.com/JoshKn)
 - [Aditya Pudaruth](https://github.com/Aditya-Pudaruth)
+- [Aman Choudhary](https://github.com/aman-choudhary1)
 - [Dmitrii Sidenko](https://github.com/DmSide)
 - [Santiago Urbano](https://github.com/sanurb)
 - [Robin Maheshwary](https://github.com/RobinMaheshwary)
@@ -3481,6 +3479,8 @@
 - [Kamal Deep](https://github.com/sdeep1998)
 - [satyam kale](https://github.com/satyamkale27)
 - [Alper Ergül](https://github.com/alperergul)
+
 - [alvi00] (https://github.com/alvi00?tab=repositories)
+- 
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
