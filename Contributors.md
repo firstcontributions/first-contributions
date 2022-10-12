@@ -22,6 +22,7 @@
 - [Akshay Kudalkar](https://github.com/Akshaykk12)
 - [Shravan Seth](https://github.com/ShravanSeth)
 - [James Anyalewechi](https://github.com/jamesgotech)
+- [Dibakar Upadhyaya](https://github.com/Dibakar01)
 - [Johan Kreivi](https://github.com/0h4y)
 - [Gaurav Patil](https://github.com/GauravPatil8778)
 - [Ananya Agarwal](https://github.com/ananyaa01)
