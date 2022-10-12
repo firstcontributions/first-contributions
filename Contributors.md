@@ -3451,6 +3451,6 @@
 - [Kamal Deep](https://github.com/sdeep1998)
 - [satyam kale](https://github.com/satyamkale27)
 - [Alper Ergül](https://github.com/alperergul)
-- 
+- [Rick Castaneda](https://github.com/castanedadev-edu)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
