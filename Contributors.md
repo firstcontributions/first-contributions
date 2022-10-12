@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [jiunjiun69](https://github.com/jiunjiun69)
 - [seongjunyeong](https://github.com/seongjunyeong)
 - [Jungmw03](https://github.com/Jungmw03)
 - [yutakdv](https://github.com/yutakdv)
