@@ -859,6 +859,7 @@
 - [Ayush Raj](https://github.com/AyushRaj00)
 - [Ritesh](https://github.com/RiteshJha2000)
 - [Ayush Kumar Gupta](https://github.com/Ayush0202)
+- [Vikash Maurya](https://www.youtube.com/channel/UCjo4RZQyHcMqBdT-Rmh-19g)
 - [Leo Pasturel](https://github.com/leopasturel)
 - [Peter Zyambo](https://github.com/sangwani-coder)
 - [Hamdaan Ahmad](https://github.com/githamdaan25)
