@@ -324,6 +324,7 @@
 - [Pallavi Dwivedi](https://github.com/dpallavi09)
 - [Md Asif Siddiqui](https://github.com/SidAsif)
 - [John Galt](https://github.com/OcacamsRazorsEdge)
+- [Meet Parekh](https://github.com/Pmeet/)
 - [Ahnaf Azad](https://github.com/ahnafbinazad)
 - [Toms Joseph](https://github.com/TomJosephKavalam)
 - [JOY JAIN](https://github.com/joy529)
