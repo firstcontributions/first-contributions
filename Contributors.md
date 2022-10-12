@@ -2986,6 +2986,7 @@
 - [Mohit Parmar](https://github.com/mohitparmar1)
 - [Namit Dasappanavar](https://github.com/namit343)
 - [Jst Vex](https://github.com/JstVex)
+- [Fawad Shah](https://github.com/codemasters2624)
 - [Deepank Pushpad](https://github.com/DeepankRx)
 - [Julie Heard](https://github.com/julieheard)
 - [Kris Mandanka](https://github.com/krismandanka)
