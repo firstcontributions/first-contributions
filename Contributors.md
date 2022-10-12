@@ -3541,5 +3541,6 @@
 - [Skuth](https://github.com/skuth)
 - [Fernanda Dantas](https://github.com/Fernanda-Dantas)
 - [Felipe Alves](https://github.com/ffelipealves)
+- [Anirudha-CA](https://github.com/Anirudha-CA)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
