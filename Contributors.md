@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+-[Divyanshu] (https://github.com/Divyanshu11011)
 - [amitc9405] (https://github.com/amitc9405)
 - [jayesh] (https://github.com/jayesh101)
 - [bengsky13](https://github.com/bengsky13)
