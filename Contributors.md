@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [goodbyebada](https://github.com/goodbyebada)
 - [yutakdv](https://github.com/yutakdv)
 - [yaho1231](https://github.com/yaho1231/)
 - [T4EK](https://github.com/T4EK)
