@@ -1,6 +1,8 @@
 # Contributors
-
 <!-- prettier-ignore-start -->
+- [Rohit Yadav](https://www.linkedin.com/in/rohit-yadav-0852481b2/)
+- [Sambhav Goel](https://github.com/Sambhavgoel)
+- [Akshay Soni](https://github.com/akshaysoni10)
 - [youngjun1227](https://github.com/youngjun1227)
 - [Higor Chagas](https://github.com/HigorChagas)
 - [Piyush Raviraj](https://github.com/Piyushraviraj2611)
@@ -3297,6 +3299,8 @@
 - [Akshat Verma](https://github.com/iamakshu29)
 - [Vishal Chaurasia](https://github.com/vishal00923)
 - [Kartik Batra](https://github.com/devilsboss-dev)
+- [Shadarien Williams](https://github.com/Darienspider)
+- [Hayden Huy Pham] (https://github.com/haydenhuyp)
 - [gitee](https://github.com/gitee-dev)
 - [Prabuddhi Sathyanka] (https://github.com/Sathyanka)
 - [harsh savani](https://github.com/harshsavani)
@@ -3350,6 +3354,7 @@
 - [Himanshu Mahato](https://github.com/m7-selenophile)
 - [Moti Kumar Yadav](https://github.com/moti9)
 - [Atharv Vani](https://github.com/Atharv-110)
+- [Rishu Chaudhary](https://github.com/RyshuCdy)
 - [Parag Dewangan] (https://github.com/Parag-dwn)
 - [Pushkar Yadav](https://github.com/pushkarydv)
 - [Durga Vamsi Krishna](https://github.com/vamsikrishnarh7)
@@ -3399,6 +3404,7 @@
 - [Saksham Gupta](https://github.com/saksham0103)
 - [Amiq Dian](https://github.com/amiqyolo)
 - [Panmax](https://github.com/Panmax)
+- [Mohit Singh Tanwar](https://github.com/mohitjpr)
 - [Vishnu](https://github.com/vishnus17)
 - [kunjal](https://github.com/kunjal293)
 - [Devashish Sarmah](https://github.com/devashishSarmah)
