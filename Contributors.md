@@ -1,6 +1,6 @@
 # Contributors
 
-<!-- prettier-ignore-start -->
+<!-- prettierignore-start -->
 - [chowonbhin](https://github.com/chowonbhin)
 - [KDE030617](https://github.com/KDE030617)
 - [starR-ight](https://github.com/StarR-ight)
