@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Rohit Yadav](https://www.linkedin.com/in/rohit-yadav-0852481b2/)
+- [Kevin Wang](https://github.com/ww6623)
 - [Sambhav Goel](https://github.com/Sambhavgoel)
 - [Akshay Soni](https://github.com/akshaysoni10)
 - [youngjun1227](https://github.com/youngjun1227)
@@ -181,7 +182,7 @@
 - [Karan banjade(https://github.com/karanbanajde)]
 - [Akash Singhal](https://github.com/Akashsinghal1234)
 - [Tanuj Kalonia](https://github.com/Tanuj3662)
-- [Raji Roqeeb](https://github.com/Codebox124) 
+- [Raji Roqeeb](https://github.com/Codebox124)
 - [Ken Durlin](https://github.com/kenthehuman/)
 - [Sanath Raj Petkar](https://github.com/kar108)
 - [Rohit Shah](https://github.com/RohitShah1706)
@@ -289,7 +290,7 @@
 - [Adenle Abiodun](https://github.com/abbeyseto)
 - [Christian Iradukunda](https://github.com/Webamz)
 - [VKSK]
-- [Soumya Agrawal](https://github.com/SouMy16) 
+- [Soumya Agrawal](https://github.com/SouMy16)
 - [Akansha Rawat](https://github.com/xx-codificare-xx)
 - [Huseyin Bingol](https://github.com/hueseyinbing)
 - [Ali Akkas] (https://github.com/aliakkas006)
@@ -488,7 +489,7 @@
 - [Manjot Singh](https://github.com/ManjotCodes)
 - [Tanmay Deopurkar](https://github.com/tanmays62343)
 - [Roshan George](https://github.com/roshangeorge97)
-- [Tanmay Deopurkar](https://github.com/tanmays62343) 
+- [Tanmay Deopurkar](https://github.com/tanmays62343)
 - [Praveen Chandra](https://github.com/praveenchandra01)
 - [Sampurna Sen](https://github.com/SampurnaSen)
 - [Zoheb Alam](https://github.com/ali7979)
@@ -2045,7 +2046,7 @@
 - [Devang Shah](https://github.com/Devang-Shah-49)
 - [khaled al hamwie](https://github.com/khaled-al-hamwie)
 - [Himanshu Sagar](https://github.com/himanshu-sagar)
-  Raghunath 
+  Raghunath
 - [Itay Abuhazera](https://github.com/ItayAbuhazera)
 - [Ignatius Obiorah](https://github.com/ignatiusobiorah)
 - [Ricardo Carvalho](https://github.com/ricardocarvalhods)
@@ -2525,7 +2526,7 @@
 - [Siddhartha-Mishra](https://github.com/SiddharthaMishra-dev)
 - [Joyal Shah](https://joyal-portfolio.netlify.app/)
 - Ajay Singh
-- 
+-
 - [Chirag Goel](https://github.com/chiggshiggs)
 - [Satyajeet Tripathy](https://github.com/sa8tyajeet46)
 - [Ajay Nair](https://github.com/ajayrnairg)
@@ -3448,6 +3449,6 @@
 - [Kamal Deep](https://github.com/sdeep1998)
 - [satyam kale](https://github.com/satyamkale27)
 - [Alper Ergül](https://github.com/alperergul)
-- 
+-
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
