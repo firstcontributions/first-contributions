@@ -96,6 +96,7 @@
 - [Manvendra Prasad](https://github.com/Manv3ndra)
 - [Abhinav Chaudhary](https://github.com/lan10rn)
 - [Saumya Upadhyay](https://github.com/Saumyaup11)
+- [Pranava Kumar Mishra](https://github.com/SatayS)
 - [yogesh](https://github.com/yogesh-0911)
 - [paras](https://github.com/paras9192)
 - [LaElijah](https://github.com/LaElijah)
