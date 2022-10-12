@@ -3450,6 +3450,6 @@
 - [Kamal Deep](https://github.com/sdeep1998)
 - [satyam kale](https://github.com/satyamkale27)
 - [Alper Ergül](https://github.com/alperergul)
-- 
+- [lochake](https://github.com/lochake)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
