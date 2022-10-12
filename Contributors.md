@@ -3488,7 +3488,8 @@
 - [白隐Hakuin](https://github.com/Hakuin123)
 - [Nishant Singh](https://github.com/nishudon007)
 - [Arslan Talib](https://github.com/arslantalib3)
-- [Kashish Ahuja](https://github.com/kashishahuja2002)
+- [Kashish Ahuja](https://github.com/kashishahuja2002
+- [Dhinesh Appaduria](https://github.com/Dhinesh16)
 - [Aman Bhardwaj](https://github.com/iaman877)
 - [Santanu Jana](https://github.com/Santanujana2001)
 - [Reeya Hazarika](https://github.com/reeyah)
