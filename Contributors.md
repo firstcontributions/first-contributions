@@ -1,6 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
-- [iPhone14Pro] (https://github.com/iPhone14Pro)
+- [iPhone14Pro](https://github.com/iPhone14Pro)
 - [yutakdv](https://github.com/yutakdv)
 - [yaho1231](https://github.com/yaho1231/)
 - [T4EK](https://github.com/T4EK)
