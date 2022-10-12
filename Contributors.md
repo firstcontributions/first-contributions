@@ -96,6 +96,7 @@
 - [Neha Jadhav](https://github.com/jadhavneha)
 - [Kjell-Magnus](https://github.com/kmgrime)
 - [Giorgio Menini](https://github.com/Menno00)
+- [Suhas Katrahalli](https://github.com/Suhas2002)
 - [Jivan Dandapat](https://github.com/jivandandapat)
 - [Rahul Saha](https://github.com/Rahul10Saha)
 - [Sadiq Siraj Ebrahim](https://github.com/sadiqebrahim)
