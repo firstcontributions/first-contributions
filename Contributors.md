@@ -1,7 +1,6 @@
 # Contributors
 
-
-<!-- prettierignore-start -->
+- [Jongkwang131](https://github.com/Jongkwang131)
 - [jiwonqaz](https://github.com/jiwonqaz)
 - [chowonbhin](https://github.com/chowonbhin)
 - [KDE030617](https://github.com/KDE030617)
@@ -15,6 +14,7 @@
 - [youngjun1227](https://github.com/youngjun1227)
 - [kaushalgosaliya5](https://github.com/kaushalgosaliya5)
 - [Jo-SungJun](https://github.com/Jo-SungJun)
+- [Iyyappan R](https://github.com/dvrsaran)
 - [Rohit Yadav](https://www.linkedin.com/in/rohit-yadav-0852481b2/)
 - [Kumar Shanu](https://www.linkedin.com/in/kumarshanu-me/)
 - [Sambhav Goel](https://github.com/Sambhavgoel)
@@ -3335,6 +3335,7 @@
 - [Akshat Verma](https://github.com/iamakshu29)
 - [Vishal Chaurasia](https://github.com/vishal00923)
 - [Kartik Batra](https://github.com/devilsboss-dev)
+- [Ehab Roshdy](https://github.com/eroshdy97)
 - [Shadarien Williams](https://github.com/Darienspider)
 - [Hayden Huy Pham] (https://github.com/haydenhuyp)
 - [gitee](https://github.com/gitee-dev)
@@ -3463,6 +3464,7 @@
 - [Luciane Fernandes Roque](https://github.com/LucianeFernandesRoque)
 - [nikolatesla20](https://github.com/nikolatesla20)
 - [Dennis Siqueira 🇧🇷](https://github.com/dennissiq)
+- [Leticia Hashimoto](https://github.com/letyhashimoto)
 - [Mulyana](https://github.com/omysurya)
 - [Iree Hale] (https://github.com/IreeHale)
 - [Mubeena Kabeer] (https://github.com/MUBEENAUQI)
