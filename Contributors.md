@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [amitc9405] (https://github.com/amitc9405)
+- [Ayush Rai](https://github.com/meaayushrai)
 - [jayesh] (https://github.com/jayesh101)
 - [bengsky13](https://github.com/bengsky13)
 - [jeongwoo903](https://github.com/jeongwoo903)
@@ -102,6 +103,7 @@
 - [Suhas Katrahalli](https://github.com/Suhas2002)
 - [Jivan Dandapat](https://github.com/jivandandapat)
 - [Rahul Saha](https://github.com/Rahul10Saha)
+-
 - [Sadiq Siraj Ebrahim](https://github.com/sadiqebrahim)
 - [Wajid Ali Tabassum](https://github.com/wajidalitabassum143)
 - [Manvendra Prasad](https://github.com/Manv3ndra)
