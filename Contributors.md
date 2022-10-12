@@ -3540,5 +3540,6 @@
 - [Rodukov](https://github.com/rodukov)
 - [Skuth](https://github.com/skuth)
 - [Fernanda Dantas](https://github.com/Fernanda-Dantas)
+- [Aman Kamal](https://github.com/KAMALAMAN687)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
