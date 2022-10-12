@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Anirudha Kurhade ](https://github.com/anikurhade)
 - [Rohit Yadav](https://www.linkedin.com/in/rohit-yadav-0852481b2/)
 - [Sambhav Goel](https://github.com/Sambhavgoel)
 - [Ricardo Fontenla](https://github.com/ricfontenla)
