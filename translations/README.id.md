@@ -3,9 +3,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-# Kontribusi yang Pertama 
+# Kontribusi Pertama 
 
-Proyek ini bertujuan untuk menyederhanakan dan memandu pemula untuk membuat kontribusi pertamanya. Jika kamu ingin membuat kontribusi pertama mu, ikuti langkah-langkah berikut.
+Proyek ini ditujukan untuk menyederhanakan dan memandu pemula untuk membuat kontribusi pertamanya. Jika kamu ingin membuat kontribusi pertama mu, ikuti langkah-langkah berikut.
 
 
 #### _Jika Anda tidak terbiasa dengan baris perintah, [di sini ada tutorial menggunakan GUI.](#Tutorial-Menggunakan-Alat-Lain)_
@@ -41,7 +41,7 @@ Contoh:
 git clone https://github.com/ini-adalah-anda/first-contributions.git
 ```
 
-yang mana `ini-adalah-anda` adalah *username* GitHub Anda. Pada langkah ini, Anda menyalin konten dari repositori first-contributions di GitHub ke komputer Anda.
+yang mana `ini-adalah-anda` adalah *username* GitHub Anda. Pada langkah ini, Anda menyalin konten dari repositori `first-contributions` di GitHub ke komputer Anda.
 
 ## Membuat Cabang (Branch)
 
