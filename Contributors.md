@@ -11,6 +11,7 @@
 - [Jongkwang131](https://github.com/Jongkwang131)
 - [jiwonqaz](https://github.com/jiwonqaz)
 - [chowonbhin](https://github.com/chowonbhin)
+- [Jeet Oza](https://github.com/Oza-Jeetkumar-Vishnubhai)
 - [KDE030617](https://github.com/KDE030617)
 - [Arijit Ghosh](https://github.com/rancho2002)
 - [starR-ight](https://github.com/StarR-ight)
