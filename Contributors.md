@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [jinho0301](https://github.com/jinho0301)
 - [Rohit Yadav](https://www.linkedin.com/in/rohit-yadav-0852481b2/)
 - [Kumar Shanu](https://www.linkedin.com/in/kumarshanu-me/)
 - [Sambhav Goel](https://github.com/Sambhavgoel)
@@ -72,6 +73,8 @@
 - [Shivansh Guleria](https://github.com/ShivanshGuleria)
 - [Swaraj](https://github.com/swarajzz)
 - [Brian Sia] (https://github.com/zerovirus123)
+- anish
+- [Griffin](https://github.com/Midnightific)
 - anish
 - [Griffin](https://github.com/Midnightific)
 - [Pranvee Vashisht](https://github.com/PranveeVashisht)
@@ -3467,5 +3470,3 @@
 
 - [alvi00] (https://github.com/alvi00?tab=repositories)
 - 
-<!-- prettier-ignore-end -->
-first contributions - hanyang univ.
