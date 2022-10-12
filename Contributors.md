@@ -3495,6 +3495,7 @@
 - [Alper Ergül](https://github.com/alperergul)
 - [alvi00] (https://github.com/alvi00?tab=repositories)
 - [Sunit] (https://github.com/Sunit25)
+- [Priti](https://github.com/Priti-7)
 - [Hem] (https://github.com/bhavsarhem)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
