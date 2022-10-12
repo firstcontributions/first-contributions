@@ -2,6 +2,15 @@
 
 <!-- prettier-ignore-start -->
 - [KDE030617](https://github.com/KDE030617)
+- [starR-ight](https://github.com/StarR-ight)
+- [jiunjiun69](https://github.com/jiunjiun69)
+- [seongjunyeong](https://github.com/seongjunyeong)
+- [Jungmw03](https://github.com/Jungmw03)
+- [yutakdv](https://github.com/yutakdv)
+- [yaho1231](https://github.com/yaho1231/)
+- [T4EK](https://github.com/T4EK)
+- [youngjun1227](https://github.com/youngjun1227)
+- [kaushalgosaliya5](https://github.com/kaushalgosaliya5)
 - [Jo-SungJun](https://github.com/Jo-SungJun)
 - [Rohit Yadav](https://www.linkedin.com/in/rohit-yadav-0852481b2/)
 - [Kumar Shanu](https://www.linkedin.com/in/kumarshanu-me/)
@@ -18,6 +27,7 @@
 - [Dmitrii Sidenko](https://github.com/DmSide)
 - [Santiago Urbano](https://github.com/sanurb)
 - [Robin Maheshwary](https://github.com/RobinMaheshwary)
+- [Md Abu Bakkar Siddiqe Sajib](https://github.com/19sajib)
 - [Jay Ubisse](https://github.com/Jay-Ubisse)
 - [AnWhiteEd](https://github.com/an-white)
 - [Ravi Sanghani](https://github.com/ravi-sanghani)
@@ -287,6 +297,7 @@
 -[Aditya Rathore](https://github.com/adiiiiittyya)
 [Aishwary Singh](https://github.com/aishwarysingh7754)
 - [Saumya Chaudhary](https://github.com/Saumya9425)
+- [Rakesh Sahu](https://github.com/rakeshsahu15)
 - [Siggy73](https://github.com/Siggy73)
 - [Olayinka Adebisi](https://github.com/Olaaa30)
 - [Prajwal Kedari](https://github.com/prajwalkedari)
@@ -344,6 +355,7 @@
 - [Mohit Radadiya](https://github.com/radadiyamohit81)
 - [Madhurjya Sarma] (https://github.com/TheBatMad)
 - [Shrikant Kosariya](https://github.com/shrikant2233)
+- [Manjunath Bhat K](https://github.com/thatcodechap)
 - [xAlexus] (https://github.com/xAlexus)
 - [Alessandro Greco](https://github.com/aleff-github)
 - [Axelle Lança](https://github.com/axellelanca)
@@ -433,6 +445,7 @@
 - [Ashutosh Kumar](https://github.com/incognion)
 - [Varun negi](https://github.com/VarunDTU)
 - [Anurag Nayak](https://github.com/Anurag-Nayak)
+- [Manjunath Bhat K](https://github.com/thatcodechap)
 - [Will Menezes](https://github.com/uiuzih)
 - [Disha Gupta](https://github.com/Dishag2611)
 - [Chijioke Ibekwe](https://github.com/chijioke-ibekwe)
@@ -1902,6 +1915,7 @@
 - [Ramyashree Shetty](https://github.com/ramyashreeshetty)
 - [Beki Drobs](https://github.com/Beki-D)
 - [Mg Khin mg Htet](https://github.com/Matthtica)
+- [Sriram Krishnan](https://github.com/sriramk42)
 - [Durgesh Babu](https://github.com/Durgesh-babu/)
 - [Aishwarya](https://github.com/Aishwaryapaininde)
 - [Sebastian](https://github.com/sxybeast)
@@ -3467,8 +3481,6 @@
 - [Kamal Deep](https://github.com/sdeep1998)
 - [satyam kale](https://github.com/satyamkale27)
 - [Alper Ergül](https://github.com/alperergul)
-
 - [alvi00] (https://github.com/alvi00?tab=repositories)
-- 
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
