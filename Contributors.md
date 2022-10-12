@@ -85,6 +85,7 @@
 - [Laughing Nerd](https://github.com/laughing-nerd)
 - [Aecio Neto](https://github.com/aecio-neto)
 - [Neha Jadhav](https://github.com/jadhavneha)
+- [Kjell-Magnus](https://github.com/kmgrime)
 - [Giorgio Menini](https://github.com/Menno00)
 - [Jivan Dandapat](https://github.com/jivandandapat)
 - [Rahul Saha](https://github.com/Rahul10Saha)
