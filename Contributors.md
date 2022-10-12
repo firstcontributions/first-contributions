@@ -7,6 +7,7 @@
 - [jiwonqaz](https://github.com/jiwonqaz)
 - [chowonbhin](https://github.com/chowonbhin)
 - [KDE030617](https://github.com/KDE030617)
+- [Arijit Ghosh](https://github.com/rancho2002)
 - [starR-ight](https://github.com/StarR-ight)
 - [jiunjiun69](https://github.com/jiunjiun69)
 - [seongjunyeong](https://github.com/seongjunyeong)
