@@ -9,6 +9,7 @@
 - [Krishan-Kant-11](https://github.com/Krishan-Kant-11)
 - [KiriNeTo](https://github.com/KiriNeTo)
 - [Kiran Kuumar Mohanty](https://github.com/theluckiestsoul)
+- [Jonathan G Araya](https://github.com/Jonathana1106)
 - [jungchoib](https://github.com/jungchoib)
 - [Jongkwang131](https://github.com/Jongkwang131)
 - [jiwonqaz](https://github.com/jiwonqaz)
@@ -3049,6 +3050,7 @@
 - [Deepank Pushpad](https://github.com/DeepankRx)
 - [Julie Heard](https://github.com/julieheard)
 - [Kris Mandanka](https://github.com/krismandanka)
+- Rishav Raj
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
 - [Frits Sasia](https://github.com/fritssasia)
 - [Patryk Skonieczny] (https://github.com/bmalvo)
@@ -3540,6 +3542,6 @@
 - [Rodukov](https://github.com/rodukov)
 - [Skuth](https://github.com/skuth)
 - [Fernanda Dantas](https://github.com/Fernanda-Dantas)
-- [Aman Kamal](https://github.com/KAMALAMAN687)
+
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
