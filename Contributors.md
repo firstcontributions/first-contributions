@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [jeongwoo903](https://github.com/jeongwoo903)
 - [jungchoib](https://github.com/jungchoib)
+- [kaushalgosaliya5](https://github.com/kaushalgosaliya5)
 - [Jongkwang131](https://github.com/Jongkwang131)
 - [jiwonqaz](https://github.com/jiwonqaz)
 - [chowonbhin](https://github.com/chowonbhin)
