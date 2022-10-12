@@ -85,6 +85,7 @@
 - [Rishabh Pratap Singh](https://github.com/iam-Rps)
 - [Poonam Parate](https://github.com/HeYPoonam)
 - [Samy Cachon](https://github.com/samy-c)
+- [Francesco Mauto](https://github.com/BigMautone)
 - [Anay Deshpande](https://github.com/anay-deshpande/)
 - [Laughing Nerd](https://github.com/laughing-nerd)
 - [Aecio Neto](https://github.com/aecio-neto)
