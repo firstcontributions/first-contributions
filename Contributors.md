@@ -6,7 +6,7 @@
 - [kaushalgosaliya5](https://github.com/kaushalgosaliya5)
 - [Jo-SungJun](https://github.com/Jo-SungJun)
 - [Rohit Yadav](https://www.linkedin.com/in/rohit-yadav-0852481b2/)
-- [Kumar Shanu](https://www.linkedin.com/in/kumarshanu-me/)
+- [seongjunyeong](https://github.com/seongjunyeong)
 - [Sambhav Goel](https://github.com/Sambhavgoel)
 - [Ricardo Fontenla](https://github.com/ricfontenla)
 - [Akshay Soni](https://github.com/akshaysoni10)
