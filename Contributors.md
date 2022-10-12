@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [jeongwoo903](https://github.com/jeongwoo903)
+- [Krishan-Kant-11](https://github.com/Krishan-Kant-11)
 - [jungchoib](https://github.com/jungchoib)
 - [Jongkwang131](https://github.com/Jongkwang131)
 - [jiwonqaz](https://github.com/jiwonqaz)
