@@ -1049,6 +1049,7 @@
 - [Flavia Mabras😽](https://github.com/flamadev)
 - [Matt Pahuta](https://github.com/mattpahuta)
 - [Ansari Danish](https://github.com/ansari-danish)
+- - [Aditya Kumar Singh](https://github.com/AD1TYA03)
 - anshika arora
 - [Manish Kumar](https://github.com/Manishch27)
 - [Muhammad Soban](https://github.com/Sobaaaan)
