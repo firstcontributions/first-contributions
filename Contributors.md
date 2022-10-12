@@ -1,6 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
-- [your id](min5421)
+- [min5421](https://github.com/min5421/first-contributions.git)
 - [yutakdv](https://github.com/yutakdv)
 - [yaho1231](https://github.com/yaho1231/)
 - [T4EK](https://github.com/T4EK)
