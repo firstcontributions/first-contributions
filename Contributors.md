@@ -288,6 +288,7 @@
 -[Aditya Rathore](https://github.com/adiiiiittyya)
 [Aishwary Singh](https://github.com/aishwarysingh7754)
 - [Saumya Chaudhary](https://github.com/Saumya9425)
+- [Rakesh Sahu](https://github.com/rakeshsahu15)
 - [Siggy73](https://github.com/Siggy73)
 - [Olayinka Adebisi](https://github.com/Olaaa30)
 - [Prajwal Kedari](https://github.com/prajwalkedari)
