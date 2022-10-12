@@ -24,6 +24,7 @@
 - [Jo-SungJun](https://github.com/Jo-SungJun)
 - [Iyyappan R](https://github.com/dvrsaran)
 - [Rohit Yadav](https://www.linkedin.com/in/rohit-yadav-0852481b2/)
+- [Alexandre - Kelifa][https://github.com/AlphaKappa44]
 - [Saksham Chawla](https://github.com/saksham-chawla)
 - [Kumar Shanu](https://www.linkedin.com/in/kumarshanu-me/)
 - [Sambhav Goel](https://github.com/Sambhavgoel)
