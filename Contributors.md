@@ -15,6 +15,7 @@
 - [yutakdv](https://github.com/yutakdv)
 - [TurtleJay](https://github.com/TurtleJay)
   [yaho1231](https://github.com/yaho1231/)
+  [SuperAngel11](https://github.com/SuperAngel11/)
 - [T4EK](https://github.com/T4EK)
 - [smdch](https://github.com/smdch)
 - [youngjun1227](https://github.com/youngjun1227)
