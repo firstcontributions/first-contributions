@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Rohit Yadav](https://www.linkedin.com/in/rohit-yadav-0852481b2/)
+- [Kumar Shanu](https://www.linkedin.com/in/kumarshanu-me/)
 - [Sambhav Goel](https://github.com/Sambhavgoel)
 - [Ricardo Fontenla](https://github.com/ricfontenla)
 - [Akshay Soni](https://github.com/akshaysoni10)
