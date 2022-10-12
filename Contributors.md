@@ -12,6 +12,7 @@
 - [Jongkwang131](https://github.com/Jongkwang131)
 - [jiwonqaz](https://github.com/jiwonqaz)
 - [chowonbhin](https://github.com/chowonbhin)
+- [Jeet Oza](https://github.com/Oza-Jeetkumar-Vishnubhai)
 - [KDE030617](https://github.com/KDE030617)
 - [gvadam] (https://github.com/gvadam)
 - [Arijit Ghosh](https://github.com/rancho2002)
