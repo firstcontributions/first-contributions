@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [KDE030617](https://github.com/KDE030617)
 - [starR-ight](https://github.com/StarR-ight)
 - [jiunjiun69](https://github.com/jiunjiun69)
 - [seongjunyeong](https://github.com/seongjunyeong)
