@@ -15,6 +15,7 @@
 - [Robin Maheshwary](https://github.com/RobinMaheshwary)
 - [Jay Ubisse](https://github.com/Jay-Ubisse)
 - [AnWhiteEd](https://github.com/an-white)
+- [Corentin Ckf](https://github.com/corentinmagique)
 - [Ravi Sanghani](https://github.com/ravi-sanghani)
 - [સ્મિત કાછડીયા](https://github.com/smeekas)
 - [Rao Khuram Shahzad](https://github.com/KhuramShahzad-5335)
