@@ -59,6 +59,7 @@
 - [Rishi Mathur](https://github.com/skyrunner360)
 - [Ajay Bairwa](https://github.com/bairwa25)
 - [Shazia Khatoon]
+  [Dev-it-a-dev](https://github.com/dev-it-a-dev)
 - [Shreyash Gupta](https://github.com/shreyash2610)
 - [Nora Aguirre](https://github.com/nora-programadora)
 - [Shabana Naik](https://github.com/ShabanaNaik)
