@@ -10,6 +10,7 @@
 - [D wayne Gibbs](https://dwaynegibbs.net)
 - [AVINASH YADAV](https://github.com/Happylife10)
 - [Joshua Knorz](https://github.com/JoshKn)
+- [Aditya Pudaruth](https://github.com/Aditya-Pudaruth)
 - [Dmitrii Sidenko](https://github.com/DmSide)
 - [Santiago Urbano](https://github.com/sanurb)
 - [Robin Maheshwary](https://github.com/RobinMaheshwary)
