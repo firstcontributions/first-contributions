@@ -2528,6 +2528,7 @@
 - Mahesh Prayaga
 - Yux3l
 - [thatjamesemo](https://github.com/thatjamesemo)
+- [hamidreza maddah](https://github.com/hamidrezamaddah)
 - [Vinod Khadka](https://github.com/skdotv)
 - [hsteinmueller](https://github.com/hsteinmueller)
 - [Shrikrishna_umbare](https://github.com/shri142)
