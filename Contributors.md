@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [jeongwoo903](https://github.com/jeongwoo903)
+- [Krishan-Kant-11](https://github.com/Krishan-Kant-11)
 - [jungchoib](https://github.com/jungchoib)
 - [Jongkwang131](https://github.com/Jongkwang131)
 - [jiwonqaz](https://github.com/jiwonqaz)
@@ -25,6 +26,7 @@
 - [Jo-SungJun](https://github.com/Jo-SungJun)
 - [Iyyappan R](https://github.com/dvrsaran)
 - [Rohit Yadav](https://www.linkedin.com/in/rohit-yadav-0852481b2/)
+- [Alexandre - Kelifa][https://github.com/AlphaKappa44]
 - [Saksham Chawla](https://github.com/saksham-chawla)
 - [Kumar Shanu](https://www.linkedin.com/in/kumarshanu-me/)
 - [Sambhav Goel](https://github.com/Sambhavgoel)
@@ -95,6 +97,7 @@
 - [Manvendra Prasad](https://github.com/Manv3ndra)
 - [Abhinav Chaudhary](https://github.com/lan10rn)
 - [Saumya Upadhyay](https://github.com/Saumyaup11)
+- [Pranava Kumar Mishra](https://github.com/SatayS)
 - [yogesh](https://github.com/yogesh-0911)
 - [paras](https://github.com/paras9192)
 - [LaElijah](https://github.com/LaElijah)
@@ -3478,6 +3481,7 @@
 - [Gabe Houle](https://github.com/ghoule636)
 -  [Kaio F G Lazaro](https://github.com/kaiofgl)
 -  [Umang Kumar](https://github.com/Umang-Kumar)
+- [Devang Jain](https://github.com/deja-v)
 - [Nathalia Araújo](https://github.com/nathaliafab)
 - [🔥Ibrahima Sory Diallo Diallo🔥](https://github.com/sorydi3)
 - [Luciane Fernandes Roque](https://github.com/LucianeFernandesRoque)
@@ -3510,5 +3514,7 @@
 - [Sunit] (https://github.com/Sunit25)
 - [Priti](https://github.com/Priti-7)
 - [Hem] (https://github.com/bhavsarhem)
+- [Ashis-1601](https://github.com/Ashis16github) 
+- [Mohd Aiman Saleem](https://github.com/mohdaimansaleem)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
