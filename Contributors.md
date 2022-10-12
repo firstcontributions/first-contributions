@@ -70,6 +70,7 @@
 - [Zuzanna Kaźmierczak](https://github.com/Zuza29)
 - [mohd.salahudeen](https://github.com/Salah-XD)
 - [sree hari](https://github.com/sr33hari)
+- [Niharika Palleyi] (https://github.com/niharikapalleyi)
 - [Abdul Wahab][https://github.com/wahabmangat]
 - [Mohammad Rahi](https://github.com/mohammad-rahi)
 - [Muhammed Musaddique](https://github.com/zmusaddique)
