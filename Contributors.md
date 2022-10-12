@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Tanmay Bhujade](https://github.com/Tanmaybhujade)
 - [jayesh] (https://github.com/jayesh101)
 - [bengsky13](https://github.com/bengsky13)
 - [jeongwoo903](https://github.com/jeongwoo903)
@@ -3533,3 +3534,4 @@
 - [Skuth](https://github.com/skuth)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
+
