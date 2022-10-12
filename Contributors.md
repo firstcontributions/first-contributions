@@ -1,7 +1,8 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [yutakdv](https://github.com/yutakdv)
-- [yaho1231](https://github.com/yaho1231/)
+- [TurtleJay](https://github.com/TurtleJay)
+  [yaho1231](https://github.com/yaho1231/)
 - [T4EK](https://github.com/T4EK)
 - [youngjun1227](https://github.com/youngjun1227)
 - [kaushalgosaliya5](https://github.com/kaushalgosaliya5)
