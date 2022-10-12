@@ -3523,6 +3523,7 @@
 - [Xyeliang Chain](https://github.com/qxliang2014)
 - [Mohd Aiman Saleem](https://github.com/mohdaimansaleem)
 - [Pritam](https://github.com/pritamhazra21)
+- [Marco L](https://github.com/Mar-lom)
 - [Rodukov](https://github.com/rodukov)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
