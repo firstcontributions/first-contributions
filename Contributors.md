@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Gurpreet Bandhe](https://github.com/rmgb05)
 - [jayesh] (https://github.com/jayesh101)
 - [bengsky13](https://github.com/bengsky13)
 - [jeongwoo903](https://github.com/jeongwoo903)
