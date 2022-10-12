@@ -3519,5 +3519,6 @@
 - [Hem] (https://github.com/bhavsarhem)
 - [Ashis-1601](https://github.com/Ashis16github) 
 - [Mohd Aiman Saleem](https://github.com/mohdaimansaleem)
+- [Pritam](https://github.com/pritamhazra21)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
