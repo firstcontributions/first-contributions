@@ -3546,5 +3546,6 @@
 - [Fernanda Dantas](https://github.com/Fernanda-Dantas)
 - [Felipe Alves](https://github.com/ffelipealves)
 - [Anirudha-CA](https://github.com/Anirudha-CA)
+- [Miracle Ogunleye](https://github.com/mimiicodes)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
