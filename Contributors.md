@@ -1,5 +1,7 @@
 # Contributors
+
 <!-- prettier-ignore-start -->
+- [starR-ight](https://github.com/StarR-ight)
 - [Rohit Yadav](https://www.linkedin.com/in/rohit-yadav-0852481b2/)
 - [Kumar Shanu](https://www.linkedin.com/in/kumarshanu-me/)
 - [Sambhav Goel](https://github.com/Sambhavgoel)
