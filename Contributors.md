@@ -3525,5 +3525,6 @@
 - [Pritam](https://github.com/pritamhazra21)
 - [Marco L](https://github.com/Mar-lom)
 - [Rodukov](https://github.com/rodukov)
+- [Gunali Rezqi Mauludi](https://github.com/gunalirezqimauludi)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
