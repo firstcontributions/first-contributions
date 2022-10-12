@@ -2213,6 +2213,7 @@
   [Josh Miller](https://github.com/RamenJunkie)
   [Sayantan Naskar](https://github.com/Arbtrage)
 - [FFuss](https://github.com/FFuss)
+- [Matheus da Fonseca Dummer](https://github.com/matheusdmm)
 - [Diego Herrera](https://github.com/diegoherrer4)
 - [Abdulkareem Ojerinde](https://github.com/abdulkareemoj)
 - [Ioan Adafinei](https://github.com/IoanRO)
