@@ -3462,6 +3462,7 @@
 - [Luciane Fernandes Roque](https://github.com/LucianeFernandesRoque)
 - [nikolatesla20](https://github.com/nikolatesla20)
 - [Dennis Siqueira 🇧🇷](https://github.com/dennissiq)
+- [Leticia Hashimoto](https://github.com/letyhashimoto)
 - [Mulyana](https://github.com/omysurya)
 - [Iree Hale] (https://github.com/IreeHale)
 - [Mubeena Kabeer] (https://github.com/MUBEENAUQI)
