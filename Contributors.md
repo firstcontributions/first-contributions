@@ -3480,6 +3480,7 @@
 - [Gabe Houle](https://github.com/ghoule636)
 -  [Kaio F G Lazaro](https://github.com/kaiofgl)
 -  [Umang Kumar](https://github.com/Umang-Kumar)
+- [Devang Jain](https://github.com/deja-v)
 - [Nathalia Araújo](https://github.com/nathaliafab)
 - [🔥Ibrahima Sory Diallo Diallo🔥](https://github.com/sorydi3)
 - [Luciane Fernandes Roque](https://github.com/LucianeFernandesRoque)
