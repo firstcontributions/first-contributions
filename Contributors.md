@@ -146,6 +146,7 @@
 - [Urmi Jana] (https://github.com/Urmi-Jana)
 - [Akshay S Rajan](https://github.com/Akshaysrajan)
 - [Sai Rahul](https://github.com/Sai3Rahul)
+- [dualitystudios](https://github.com/dualitystudios/)
 - [Aditya Badve](https://github.com/adityab05)
 - [Shivam Garg](https://github.com/Shivam311201)
 - [Khushi Saxena](https://github.com/khushi11saxena)
