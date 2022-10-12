@@ -3493,5 +3493,7 @@
 - [satyam kale](https://github.com/satyamkale27)
 - [Alper Ergül](https://github.com/alperergul)
 - [alvi00] (https://github.com/alvi00?tab=repositories)
+- [C A Aakansha](https://github.com/aakansha1704)
+
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
