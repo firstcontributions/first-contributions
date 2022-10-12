@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [jalalbmnf](https://github.com/jalalbmnf)
 - [Sowmya S](https://github.com/sowmya-s-26)
 - [JSTNSNE](https://github.com/JSTNSNE)
 - [Syed Jailani](https://github.com/syedjailani)
@@ -31,7 +32,7 @@
 - [Aman Sharma](https://github.com/amansharma703)
 - [Akash Singhal](https://github.com/Akashsinghal1234)
 - [Tanuj Kalonia](https://github.com/Tanuj3662)
-- [Raji Roqeeb](https://github.com/Codebox124) 
+- [Raji Roqeeb](https://github.com/Codebox124)
 - [Ken Durlin](https://github.com/kenthehuman/)
 - [Sanath Raj Petkar](https://github.com/kar108)
 - [Rohit Shah](https://github.com/RohitShah1706)
@@ -98,7 +99,7 @@
 - [Tieran Dysart](https://github.com/whyyy1)
 - [Kevin] (https://github.com/ZaBarudo)
 - [Devansh] (https://github.com/Devansh-Walia)
-- [Alon Cohen] (https://github.com/Alon2904)  
+- [Alon Cohen] (https://github.com/Alon2904)
 - [Shrey Jaiswal](https://github.com/Shrey2002)
 - [Abhijeet Jadhav] (https://github.com/mrabhijeetjadhav)
 - [Aayushi Kukreja](https://github.com/AayushiKukreja)
@@ -120,7 +121,7 @@
 - [Adenle Abiodun](https://github.com/abbeyseto)
 - [Christian Iradukunda](https://github.com/Webamz)
 - [VKSK]
-- [Soumya Agrawal](https://github.com/SouMy16) 
+- [Soumya Agrawal](https://github.com/SouMy16)
 - [Akansha Rawat](https://github.com/xx-codificare-xx)
 - [Ali Akkas] (https://github.com/aliakkas006)
 - [raspicorgi](https://github.com/raspicorgi)
@@ -302,7 +303,7 @@
 - [Manjot Singh](https://github.com/ManjotCodes)
 - [Tanmay Deopurkar](https://github.com/tanmays62343)
 - [Roshan George](https://github.com/roshangeorge97)
-- [Tanmay Deopurkar](https://github.com/tanmays62343) 
+- [Tanmay Deopurkar](https://github.com/tanmays62343)
 - [Praveen Chandra](https://github.com/praveenchandra01)
 - [Sampurna Sen](https://github.com/SampurnaSen)
 - [Zoheb Alam](https://github.com/ali7979)
@@ -2312,7 +2313,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Siddhartha-Mishra](https://github.com/SiddharthaMishra-dev)
 - [Joyal Shah](https://joyal-portfolio.netlify.app/)
 - Ajay Singh
-- 
+-
 - [Chirag Goel](https://github.com/chiggshiggs)
 - [Satyajeet Tripathy](https://github.com/sa8tyajeet46)
 - [Ajay Nair](https://github.com/ajayrnairg)
@@ -3071,18 +3072,20 @@ harsh vijay (https://github.com/harshvijay63)
 - [Andres Arrieta](https://github.com/lsomacruzl)
 
 <!-- prettier-ignore-end -->
+
 <!-- Just a comment -->
--[Shivangi Tiwari](https://github.com/Shivangi708)
--[Jinyoung](https://github.com/diligejy)
+
+-[Shivangi Tiwari](https://github.com/Shivangi708) -[Jinyoung](https://github.com/diligejy)
 [Swapnil Ranmale]https://github.com/swapnilranmale2003
 [Arghya Bhattacharya](https://github.com/arghya501)
+
 - [Shobhit Goyal](https://github.com/shobhit9070/)
 - [Aryan Gurung](https://github.com/h3athen)
 - [Neeraj Meena](https://github.com/neeraj542)
 - [Arindam Dutta](https://github.com/iarindamofficial)
 - [Rahul Roy](https://github.com/iamrahulroy11)
 - [Shivam Singh](https://github.com/Shivamgits)
--  [Anand Singh](https://github.com/AnandThakur2001)
+- [Anand Singh](https://github.com/AnandThakur2001)
 - [Subramaniyan Nallasivam](https://github.com/subbi12)
 - [Adarsh santrapatro](https://github.com/Adarshsantrapatro)
 - [Umar Ali](https://github.com/umar136)
