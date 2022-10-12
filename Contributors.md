@@ -2406,6 +2406,7 @@
 - [Fatimah Zulfiqar](https://github.com/0einstein0)
 - [Dalibor Maljurić](https://github.com/RegularEverydayAverageGuy)
 - [Jatin Saini](https://github.com/Jatin-08z)
+- [Crazyokd](https://github.com/Crazyokd)
 - [Uzair Kamal](https://github.com/UzairKamalYZ)
 - [Aaron Lin](https://github.com/shinganlin)
 - [Will Shuttleworth](https://github.com/Will-Shuttleworth)
