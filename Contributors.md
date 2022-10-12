@@ -49,6 +49,7 @@
 - [Chaw Kok Fei](https://github.com/ChawKokFei)
 - [Chirag Goel](https://github.com/Chirag-18)
 - [Faris Salman](https://github.com/farissalman12)
+- [Nishchal Tiwari](https://github.com/Nishchal-Tiwari)
 - [Juniela Bautista](https://github.com/ellaiela)
 - [Ibtisam-Afzal](https://github.com/ibtisamafzal)
 - [Yash Gupta](https://github.com/YashGupta018)
