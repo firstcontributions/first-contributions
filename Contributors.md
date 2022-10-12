@@ -3465,8 +3465,6 @@
 - [Kamal Deep](https://github.com/sdeep1998)
 - [satyam kale](https://github.com/satyamkale27)
 - [Alper Ergül](https://github.com/alperergul)
-
 - [alvi00] (https://github.com/alvi00?tab=repositories)
-- 
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
