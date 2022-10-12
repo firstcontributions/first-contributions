@@ -35,6 +35,7 @@
 - [Sambhav Goel](https://github.com/Sambhavgoel)
 - [Ricardo Fontenla](https://github.com/ricfontenla)
 - [Akshay Soni](https://github.com/akshaysoni10)
+- [Denis Koshelev](https://github.com/kshpdr) 
 - [youngjun1227](https://github.com/youngjun1227)
 - [Higor Chagas](https://github.com/HigorChagas)
 - [Piyush Raviraj](https://github.com/Piyushraviraj2611)
@@ -3526,5 +3527,6 @@
 - [Marco L](https://github.com/Mar-lom)
 - [Rodukov](https://github.com/rodukov)
 - [Gunali Rezqi Mauludi](https://github.com/gunalirezqimauludi)
+- [Skuth](https://github.com/skuth)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
