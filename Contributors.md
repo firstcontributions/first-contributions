@@ -291,6 +291,7 @@
 - [Adam Anderson](https://github.com/Adam-E-Anderson)
 - [Mayank Agrawal](https://github.com/Mayank30-creator)
 - [Aman Kumar Pandey](https://github.com/amanpandey2101)
+- [Jewel Joy](https://github.com/Jewel-Joy)
 - [Patil 2104](https://github.com/patil2104)
 - [HiTShiroya](https://github.com/HiTShiroya)
 - [Supriadi](https://github.com/obocloud)
@@ -3537,5 +3538,6 @@
 - [Rodukov](https://github.com/rodukov)
 - [Skuth](https://github.com/skuth)
 - [Fernanda Dantas](https://github.com/Fernanda-Dantas)
+
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
