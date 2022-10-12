@@ -3533,5 +3533,6 @@
 - [Marco L](https://github.com/Mar-lom)
 - [Rodukov](https://github.com/rodukov)
 - [Skuth](https://github.com/skuth)
+- [Fernanda Dantas](https://github.com/Fernanda-Dantas)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
