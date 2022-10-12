@@ -3491,5 +3491,6 @@
 - [satyam kale](https://github.com/satyamkale27)
 - [Alper Ergül](https://github.com/alperergul)
 - [alvi00] (https://github.com/alvi00?tab=repositories)
+- [Biswajit Panda](https://github.com/biswajitafk)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
