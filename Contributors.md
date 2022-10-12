@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Choconok](https://github.com/Choconok)
 - [chowonbhin](https://github.com/chowonbhin)
 - [KDE030617](https://github.com/KDE030617)
 - [starR-ight](https://github.com/StarR-ight)
