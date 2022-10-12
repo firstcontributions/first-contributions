@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [seongjunyeong](https://github.com/seongjunyeong)
 - [Jungmw03](https://github.com/Jungmw03)
 - [yutakdv](https://github.com/yutakdv)
 - [yaho1231](https://github.com/yaho1231/)
