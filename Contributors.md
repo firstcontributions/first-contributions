@@ -3449,6 +3449,6 @@
 - [Kamal Deep](https://github.com/sdeep1998)
 - [satyam kale](https://github.com/satyamkale27)
 - [Alper Ergül](https://github.com/alperergul)
-- 
+- [Jayant Verma](https://github.com/iamvermajayant)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
