@@ -3049,6 +3049,7 @@
 - [Deepank Pushpad](https://github.com/DeepankRx)
 - [Julie Heard](https://github.com/julieheard)
 - [Kris Mandanka](https://github.com/krismandanka)
+- Rishav Raj
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
 - [Frits Sasia](https://github.com/fritssasia)
 - [Patryk Skonieczny] (https://github.com/bmalvo)
