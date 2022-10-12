@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 - [Rohit Yadav](https://www.linkedin.com/in/rohit-yadav-0852481b2/)
 - [Sambhav Goel](https://github.com/Sambhavgoel)
+- [Ricardo Fontenla](https://github.com/ricfontenla)
 - [Akshay Soni](https://github.com/akshaysoni10)
 - [youngjun1227](https://github.com/youngjun1227)
 - [Higor Chagas](https://github.com/HigorChagas)
