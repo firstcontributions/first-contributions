@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [jungchoib](https://github.com/jungchoib)
 - [starR-ight](https://github.com/StarR-ight)
 - [jiunjiun69](https://github.com/jiunjiun69)
 - [seongjunyeong](https://github.com/seongjunyeong)
