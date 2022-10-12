@@ -1,5 +1,7 @@
 # Contributors
+
 <!-- prettier-ignore-start -->
+- [starR-ight](https://github.com/StarR-ight)
 - [jiunjiun69](https://github.com/jiunjiun69)
 - [seongjunyeong](https://github.com/seongjunyeong)
 - [Jungmw03](https://github.com/Jungmw03)
