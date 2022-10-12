@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 - [T4EK](https://github.com/T4EK)
 - [youngjun1227](https://github.com/youngjun1227)
+- [kaushalgosaliya5](https://github.com/kaushalgosaliya5)
 - [Jo-SungJun](https://github.com/Jo-SungJun)
 - [Rohit Yadav](https://www.linkedin.com/in/rohit-yadav-0852481b2/)
 - [Kumar Shanu](https://www.linkedin.com/in/kumarshanu-me/)
