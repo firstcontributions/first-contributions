@@ -15,7 +15,6 @@
 - [Robin Maheshwary](https://github.com/RobinMaheshwary)
 - [Jay Ubisse](https://github.com/Jay-Ubisse)
 - [AnWhiteEd](https://github.com/an-white)
-- [Corentin Ckf](https://github.com/corentinmagique)
 - [Ravi Sanghani](https://github.com/ravi-sanghani)
 - [સ્મિત કાછડીયા](https://github.com/smeekas)
 - [Rao Khuram Shahzad](https://github.com/KhuramShahzad-5335)
@@ -3459,6 +3458,8 @@
 - [Kamal Deep](https://github.com/sdeep1998)
 - [satyam kale](https://github.com/satyamkale27)
 - [Alper Ergül](https://github.com/alperergul)
+
+- [alvi00] (https://github.com/alvi00?tab=repositories)
 - 
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
