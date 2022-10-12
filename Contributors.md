@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [yutakdv](https://github.com/yutakdv)
 - [Jo-SungJun](https://github.com/Jo-SungJun)
 - [Rohit Yadav](https://www.linkedin.com/in/rohit-yadav-0852481b2/)
 - [Kumar Shanu](https://www.linkedin.com/in/kumarshanu-me/)
