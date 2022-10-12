@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [chowonbhin](https://github.com/chowonbhin)
+- [starR-ight](https://github.com/StarR-ight)
 - [jiunjiun69](https://github.com/jiunjiun69)
 - [seongjunyeong](https://github.com/seongjunyeong)
 - [Jungmw03](https://github.com/Jungmw03)
@@ -3480,8 +3481,6 @@
 - [Kamal Deep](https://github.com/sdeep1998)
 - [satyam kale](https://github.com/satyamkale27)
 - [Alper Ergül](https://github.com/alperergul)
-
 - [alvi00] (https://github.com/alvi00?tab=repositories)
-- 
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
