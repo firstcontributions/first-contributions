@@ -1219,6 +1219,7 @@
 - [Divas](https://github.com/divasgt)
 - [Anwar](https://github.com/mistracked)
 - [Zhan Guang](https://github.com/zhan3333)
+- [Manmohan Hansda](https://github.com/manmohanh)
 - [Ekansh Gupta](https://github.com/gupta-ekansh)
 - [Sidabw](https://github.com/Sidabw)
 - [mervyns](https://github.com/mervyns)
