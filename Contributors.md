@@ -350,6 +350,7 @@
 - [Mohit Radadiya](https://github.com/radadiyamohit81)
 - [Madhurjya Sarma] (https://github.com/TheBatMad)
 - [Shrikant Kosariya](https://github.com/shrikant2233)
+- [Manjunath Bhat K](https://github.com/thatcodechap)
 - [xAlexus] (https://github.com/xAlexus)
 - [Alessandro Greco](https://github.com/aleff-github)
 - [Axelle Lança](https://github.com/axellelanca)
