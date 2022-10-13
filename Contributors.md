@@ -450,6 +450,7 @@
 - [Johnson Tan] (https://github.com/Jtan99)
 - [Sreenath Sharma](https://github.com/sreenath707)
 - [Siddharth Mishra](https://github.com/sid)
+- [Divyesh Narayan](https://github.com/div)
 - [Gaurav Kumar Verma](https://github.com/vgauravkumar)
 - [bryanpratama](https://github.com/bryanpratama)
 - [Satantago] (https://github.com/Satantago)
