@@ -417,7 +417,6 @@
 - [Nishant_Singh](https://github.com/Nishant-Singh-2004)
 - [Shubham Parmar](https://github.com/ishubhamparmar)
 - [Tannistha Biswas](https://github.com/TannisthaBiswas)
-
 - [Ayushi Nanavati](https://github.com/Ayyyn)
 - [Nikhil gowda T P](https://github.com/Nikhil-Gowda-T-P)
 - [Adil Ansari](https://github.com/adilansari488)
@@ -430,7 +429,6 @@
 - [Priyansh Namdev](https://github.com/Priyansh67)
 - [Ali Shakiba](https://github.com/alishakiba)
 - [Nathan Speich](https://github.com/nathanspeich)
-- [X]
 - [Atharv Vani](https://github.com/Atharv-110)
 - [Jatin Gera] (https://github.com/JatinGera-noob)
 - [Koushik Chakraborty](https://github.com/KoushikAD1234)
@@ -451,6 +449,7 @@
 - [Prashant Rawat](https://github.com/PrashantRawat10)
 - [Johnson Tan] (https://github.com/Jtan99)
 - [Sreenath Sharma](https://github.com/sreenath707)
+- [Siddharth Mishra](https://github.com/sid)
 - [Gaurav Kumar Verma](https://github.com/vgauravkumar)
 - [bryanpratama](https://github.com/bryanpratama)
 - [Satantago] (https://github.com/Satantago)
