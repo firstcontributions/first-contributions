@@ -3567,5 +3567,6 @@
 - [Bernard Sapida] (https://github.com/BernardSapida)
 - [Marcos Schwaab](https://github.com/marcosschwaab)
 -[Dennis Kemboi](https://github.com/Developer-Dennis)
+- [Chetan Sankhala](https://github.com/csankhala)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
