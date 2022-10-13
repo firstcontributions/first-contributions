@@ -452,6 +452,7 @@
 - [Johnson Tan] (https://github.com/Jtan99)
 - [Sreenath Sharma](https://github.com/sreenath707)
 - [Gaurav Kumar Verma](https://github.com/vgauravkumar)
+- [Manav Arora](https://github.com/manav)
 - [bryanpratama](https://github.com/bryanpratama)
 - [Satantago] (https://github.com/Satantago)
 - [ADITYA SAINI](https://github.com/Adityasaini10012001)
