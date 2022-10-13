@@ -63,6 +63,7 @@
 - [Robin Maheshwary](https://github.com/RobinMaheshwary)
 - [Md Abu Bakkar Siddiqe Sajib](https://github.com/19sajib)
 - [Jay Ubisse](https://github.com/Jay-Ubisse)
+- [Adharsh RJ](https://github.com/adharshrj)
 - [AnWhiteEd](https://github.com/an-white)
 - [Ravi Sanghani](https://github.com/ravi-sanghani)
 - [સ્મિત કાછડીયા](https://github.com/smeekas)
