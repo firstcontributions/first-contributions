@@ -3548,6 +3548,6 @@
 - [Felipe Alves](https://github.com/ffelipealves)
 - [Anirudha-CA](https://github.com/Anirudha-CA)
 - [Miracle Ogunleye](https://github.com/mimiicodes)
-- [Bernard Sapida] (https://github.com/BernardSapida)
+- [BernardSapida] (https://github.com/BernardSapida)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
