@@ -781,6 +781,7 @@
 - [Aleph Lakra](https://github.com/Iamkenji)
 - [Petrus Aria Chevalier Rambing] (https://github.com/petrusariaa)
 - [Abdul Rehman](https://github.com/abdulrehmandev)
+  [Chirag Tyagi](https://github.com/chiragtyagi2003)
 - [Jay Kumar Gupta](https://github.com/Jay-suk)
 - [Gunjit_Valechha](https://github.com/Gunjit-V)
 - [Hirusha CHamod](https://github.com/hiradev)
