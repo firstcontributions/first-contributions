@@ -3391,6 +3391,7 @@
 - [Shadarien Williams](https://github.com/Darienspider)
 - [Hayden Huy Pham] (https://github.com/haydenhuyp)
 - [gitee](https://github.com/gitee-dev)
+- [Dean](https://github.com/SomallSeanis)
 - [Prabuddhi Sathyanka] (https://github.com/Sathyanka)
 - [harsh savani](https://github.com/harshsavani)
 - [Jimmy Li](https://github.com/jimmyli123)
