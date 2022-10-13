@@ -1981,6 +1981,7 @@
 - [Mg Khin mg Htet](https://github.com/Matthtica)
 - [Sriram Krishnan](https://github.com/sriramk42)
 - [Durgesh Babu](https://github.com/Durgesh-babu/)
+- [Dimitris Glaros](https://github.com/dimglaros)
 - [Aishwarya](https://github.com/Aishwaryapaininde)
 - [Sebastian](https://github.com/sxybeast)
 - [Phuoc Nguyen](https://github.com/thiennp94)
