@@ -6,6 +6,7 @@
 - [rabisha](https://github.com/rabi-1)
 - [amitc9405] (https://github.com/amitc9405)
 - [jayesh] (https://github.com/jayesh101)
+- [Bhaskar Karnatak](https://github.com/BhaskarKarnatak)
 - [bengsky13](https://github.com/bengsky13)
 - [jeongwoo903](https://github.com/jeongwoo903)
 - [Desmond-Fon](https://github.com/Desmond-Fon)
