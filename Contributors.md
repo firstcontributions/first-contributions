@@ -3466,6 +3466,6 @@
 - [Alper Ergül](https://github.com/alperergul)
 
 - [alvi00] (https://github.com/alvi00?tab=repositories)
-- 
+- [Funsho Akinbile] (https://github.com/funsho-ops)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
