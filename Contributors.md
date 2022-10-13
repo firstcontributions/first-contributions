@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [KacperC](https://github.com/CKacper)
+- [JasminTajShaik](https://github.com/JasminTajShaik2601)
 - [rabisha](https://github.com/rabi-1)
 - [amitc9405] (https://github.com/amitc9405)
 - [jayesh] (https://github.com/jayesh101)
