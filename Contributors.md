@@ -3457,6 +3457,7 @@
 - [Ankur Gupta](https://github.com/Ankurgupta271)
 - [PathuS13](https://github.com/pathuS13)
 - [Jaskirat Kaur](https://github.com/jjass-kaur)
+-[Sanskar Singh](https://github.com/sanskar-singh-2403)
 - [kanz] (https://github.com/arkansendy)
 - [Jijo Johnson](https://github.com/jijonj)
 - [Randy Ramli](https://github.com/randymramli)
