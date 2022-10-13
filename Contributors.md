@@ -253,6 +253,7 @@
 - [Rohit Shah](https://github.com/RohitShah1706)
 - [Melanga Dissanayake](https://github.com/melanga)
 - [Utsab Kundu](https://github.com/Utsab5)
+- [Anshaj Khare](https://github.com/AK-codingmaniac)
 - [xhemals](https://github.com/xhemals)
 - [Ugochukwu Benjamin](https://github.com/Benji918)
 - [Siddharth Bhardwaj](https://github.com/TheUnofficialGod)
