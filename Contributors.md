@@ -252,6 +252,7 @@
 - [Raji Roqeeb](https://github.com/Codebox124) 
 - [Ken Durlin](https://github.com/kenthehuman/)
 - [Sanath Raj Petkar](https://github.com/kar108)
+- [Shreya Singh]
 - [Rohit Shah](https://github.com/RohitShah1706)
 - [Melanga Dissanayake](https://github.com/melanga)
 - [Utsab Kundu](https://github.com/Utsab5)
@@ -384,6 +385,7 @@
 - [Yans](https://github.com/YansHJ)
 - [Pallavi Dwivedi](https://github.com/dpallavi09)
 - [Md Asif Siddiqui](https://github.com/SidAsif)
+- [Shreya Singh]
 - [John Galt](https://github.com/OcacamsRazorsEdge)
 - [Meet Parekh](https://github.com/Pmeet/)
 - [Ahnaf Azad](https://github.com/ahnafbinazad)
@@ -658,7 +660,8 @@
 - [Aditya Ghyar](https://github.com/mgaditya-er)
 - [Syed Mohammad Osama](https://github.com/syed-m-osama)
 - [Azhar Sayyad](https://github.com/Azhar221)
-- [ashutosh_sankpal](https://github.com/ashutoshj30)
+- [Shreya Singh] 
+[ashutosh_sankpal](https://github.com/ashutoshj30)
 - [Francis Okonkwo](https://github.com/Bluebberies)
 - [Joshua Ruffolo](https://github.com/jruffolo)
 - [George Tzinetas](https://github.com/kriminals)
