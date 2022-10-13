@@ -3438,6 +3438,7 @@
 - [Kartik Batra](https://github.com/devilsboss-dev)
 - [Ehab Roshdy](https://github.com/eroshdy97)
 - [Shadarien Williams](https://github.com/Darienspider)
+- [Pedro Paulo Freitas] (https://github.com/pedropaulofreitas)
 - [Hayden Huy Pham] (https://github.com/haydenhuyp)
 - [gitee](https://github.com/gitee-dev)
 - [Dean](https://github.com/SomallSeanis)
