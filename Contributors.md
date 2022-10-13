@@ -274,6 +274,7 @@
 - [vishal dhavale](https://github.com/vishu1893)
 - [Yashvardhan Agnihotri](https://github.com/25011908vardhan)
 - [Priyadarshini Sharma](https://github.com/PriyadarshiniSharma)
+- [luv sharma](https://github.com/luvsharmag)
 - [Raj Patra](https://github.com/raj-patra)
 - [Alan Flores](https://github.com/AlanF20)
 - [Aaryan Singh](https://github.com/Aaryan376)
