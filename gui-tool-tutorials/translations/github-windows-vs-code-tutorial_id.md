@@ -113,7 +113,7 @@ Rayakan kontribusi mu dan bagikan dengan teman dan pengikut kamu dengan membuka 
 Kamu dapat bergabung dengan tim slack kami jika memerlukan bantuan atau memiliki pertanyaan. [Bergabung dengan tim Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 
-### [ Materi tambahan ](../additional-material/translations/additional-material.id.md)
+### [ Materi tambahan ](../../additional-material/translations/additional-material.id.md)
 
 
 ## Tutorial menggunakan Alat lain
