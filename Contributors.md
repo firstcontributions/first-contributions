@@ -1080,6 +1080,7 @@
 - [Angel Serrato](https://github.com/SerratoA)
 - [Prabincankod](https://github.com/prabincankod)
 - [AADI0009](https://github.com/AADI0009)
+- [Anishka](https://github.com/anishkashukla)
 - [CeeKay](https://github.com/CeeKayTech)
 - [Shyam parajuli](https://github.com/spparajuli)
 - [Pratik Butani](https://github.com/pratikbutani)
