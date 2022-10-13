@@ -3618,6 +3618,7 @@
 - [Erlan Rangel](https://github.com/ErlanRG)
 - [Krzysztof Lopatka](https://github.com/IKrzysztofI)
 - [Hrydin Oleksandr](https://github.com/TactikalMakiRoll)
+- [Ashish Kumar Rajak](https://github.com/ashishkrrajak)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
 - [Ishaan Loomba](https://github.com/ishaan191220)
