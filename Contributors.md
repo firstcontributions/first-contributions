@@ -55,6 +55,7 @@
 - [Saksham Chawla](https://github.com/saksham-chawla)
 - [Kumar Shanu](https://www.linkedin.com/in/kumarshanu-me/)
 - [Sambhav Goel](https://github.com/Sambhavgoel)
+- [Arshad Khan](https://github.com/The-Arshad-Khan)
 - [Ricardo Fontenla](https://github.com/ricfontenla)
 - [Akshay Soni](https://github.com/akshaysoni10)
 - [Denis Koshelev](https://github.com/kshpdr) 
