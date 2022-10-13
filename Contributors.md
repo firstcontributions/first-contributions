@@ -172,6 +172,7 @@
 - [Karan Meena](https://github.com/karanmeena237)
 - [CSanjana](https://github.com/Sanjana20304)
 - [Sebastian Wu](https://github.com/sebswU)
+- [Sofie Borchgrevink](https://github.com/sofieborchgrevink)
 - [Karanjot Singh](https://karanjot.vercel.app)
 - [Divyesh Khuva](https://github.com/Divyesh1511)
 - [SHUBHAM PATIDAR ](https://www.linkedin.com/in/shubham-patidar-98ba5b148)
