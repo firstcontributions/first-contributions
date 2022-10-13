@@ -3559,6 +3559,7 @@
 - [Iree Hale] (https://github.com/IreeHale)
 - [Mubeena Kabeer] (https://github.com/MUBEENAUQI)
 - [Aleksandra T Ma](https://github.com/mtsandra)
+- [HarshaPradha](https://github.com/helloitsme1412)
 - [Amit Das](https://github.com/das-amit)
 - [Esther Bassey](https://github.com/Po-w-er)
 - [Anindya Das](https://github.com/lazy-pr0grammer)
