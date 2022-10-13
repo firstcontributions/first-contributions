@@ -3615,3 +3615,4 @@
 - [Erlan Rangel](https://github.com/ErlanRG)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
+- [Ishaan Loomba](https://github.com/ishaan191220)
