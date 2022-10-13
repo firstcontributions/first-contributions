@@ -3602,5 +3602,6 @@
 - [Ramanujam](https://github.com/ramanujam001)
 - [Miranda Pothiawala](https://github.com/MirandaPoth)
 - [Hari Sankar](https://github.com/h4r1337)
+- [Eric Njuguna](https://github.com/enjuguna)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
