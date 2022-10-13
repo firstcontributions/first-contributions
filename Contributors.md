@@ -101,6 +101,7 @@
 - [Francesco Mauto](https://github.com/BigMautone)
 - [Anay Deshpande](https://github.com/anay-deshpande/)
 - [Laughing Nerd](https://github.com/laughing-nerd)
+- [Alex Sanzhanov](https://github.com/Sanzhanov)
 - [Aecio Neto](https://github.com/aecio-neto)
 - [Neha Jadhav](https://github.com/jadhavneha)
 - [Kjell-Magnus](https://github.com/kmgrime)
