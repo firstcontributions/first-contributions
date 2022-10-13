@@ -1380,6 +1380,7 @@
 - [Vladyslav Nechytailo](https://github.com/Nutopia13)
 - [Miguel Camitoc](https://github.com/mcamitoc)
 - [astrokit](https://github.com/astrokit)
+- [Carina Cardozo] (https://github.com/carii-codes)
 - [Pablo Pradillos](https://github.com/ppradillos)
 - [Navpreet Singh Sidhu](https://github.com/nsidhu11)
 - [Aayush Gulia](https://github.com/aayushgulia666)
