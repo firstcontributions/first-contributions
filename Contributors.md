@@ -25,6 +25,7 @@
 - [javesshhh](https://github.com/javesshhh)
 - [jiwonqaz](https://github.com/jiwonqaz)
 - [chowonbhin](https://github.com/chowonbhin)
+- [Chirag Goyal](https://github.com/ChiragGoyal98)
 - [Jeet Oza](https://github.com/Oza-Jeetkumar-Vishnubhai)
 - [KDE030617](https://github.com/KDE030617)
 - [gvadam] (https://github.com/gvadam)
