@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Sai Kiran]
 - [KacperC](https://github.com/CKacper)
+- [varshanookarapu]
 - [MariNadile](https://github.com/MariNadile)
 - [JasminTajShaik](https://github.com/JasminTajShaik2601)
 - [Pragathees](https://github.com/pragasekar)
