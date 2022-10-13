@@ -3558,6 +3558,7 @@
 - [Mubeena Kabeer] (https://github.com/MUBEENAUQI)
 - [Aleksandra T Ma](https://github.com/mtsandra)
 - [Amit Das](https://github.com/das-amit)
+- [Esther Bassey](https://github.com/Po-w-er)
 - [Anindya Das](https://github.com/lazy-pr0grammer)
 - [Fairuz Anjab](https://github.com/fairuzanjab15)
 - [白隐Hakuin](https://github.com/Hakuin123)
