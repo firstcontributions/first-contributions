@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Sai Kiran]
 - [KacperC](https://github.com/CKacper)
 - [MariNadile](https://github.com/MariNadile)
 - [JasminTajShaik](https://github.com/JasminTajShaik2601)
