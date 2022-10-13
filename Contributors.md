@@ -449,6 +449,7 @@
 - [Mohit Saini](https://github.com/ThisisMS11)
 - [Akshay Kapoor](https://github.com/Akshay-Kapoor)
 - [Prashant Rawat](https://github.com/PrashantRawat10)
+- [Siddharth Mishra](https://github.com/sid)
 - [Johnson Tan] (https://github.com/Jtan99)
 - [Sreenath Sharma](https://github.com/sreenath707)
 - [Gaurav Kumar Verma](https://github.com/vgauravkumar)
