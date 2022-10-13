@@ -43,6 +43,7 @@
 - [Samvardhan](https://github.com/samvardhan777)
 - [Iyyappan R](https://github.com/dvrsaran)
 - [Rohit Yadav](https://www.linkedin.com/in/rohit-yadav-0852481b2/)
+- [Yuukii] (https://github.com/Assyyn)
 - [Alexandre - Kelifa][https://github.com/AlphaKappa44]
 - [Saksham Chawla](https://github.com/saksham-chawla)
 - [Kumar Shanu](https://www.linkedin.com/in/kumarshanu-me/)
