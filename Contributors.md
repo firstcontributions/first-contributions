@@ -2208,7 +2208,7 @@ nowy wpis
 - [Julie Heard](https://github.com/julieheard)
 - [Kris Mandanka](https://github.com/krismandanka)
 - [Achraf Ben Soltane](https://github.com/achrafoo2018)
-- [Trina Ngo](https://github.com/thngo2)
+- [Trina](https://github.com/thngo2)
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
 - [Pyoush Madan](https://github.com/pyoushmadan10)
 - [Albin T T](https://github.com/axtr897)
