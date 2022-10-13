@@ -84,6 +84,7 @@
 - [Rishi Mathur](https://github.com/skyrunner360)
 - [Ajay Bairwa](https://github.com/bairwa25)
 - [Shazia Khatoon]
+- [Chandra Kiran](https://github.com/chandra-kiran1)
 - [Chris Boles](https://github.com/cboles80)
   [Dev-it-a-dev](https://github.com/dev-it-a-dev)
 - [Alexis Gonzalez](https://github.com/Alex-is-Gonzalez)  
