@@ -126,6 +126,7 @@
 - [Swaraj](https://github.com/swarajzz)
 - [Brian Sia] (https://github.com/zerovirus123)
 - anish
+- [Babita Majumdar](https://github.com/m-babita/)
 - [Griffin](https://github.com/Midnightific)
 - [Georg Baumann](https://github.com/Georggit)
 - [Pranvee Vashisht](https://github.com/PranveeVashisht)
