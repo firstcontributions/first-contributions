@@ -31,6 +31,7 @@
 - [Jungmw03](https://github.com/Jungmw03)
 - [yutakdv](https://github.com/yutakdv)
 - [TurtleJay](https://github.com/TurtleJay)
+- [Gaurav Giri](https://github.com/gaurovgiri)
   [yaho1231](https://github.com/yaho1231/)
   [SuperAngel11](https://github.com/SuperAngel11/)
 - [T4EK](https://github.com/T4EK)
