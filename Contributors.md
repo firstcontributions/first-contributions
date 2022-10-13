@@ -39,6 +39,7 @@
   [SuperAngel11](https://github.com/SuperAngel11/)
 - [T4EK](https://github.com/T4EK)
 - [smdch](https://github.com/smdch)
+- [Samarth](https://github.com/samarth777)
 - [Sandeep Nayak](https://github.com/SANDEEP-NAYAK)
 - [youngjun1227](https://github.com/youngjun1227)
 - [Preston Harms](https://github.com/R3dPnd)
