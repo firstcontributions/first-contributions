@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Sai Kiran]
+- [Hywenklis Rherbert](https://github.com/hywenklis)
 - [KacperC](https://github.com/CKacper)
 - [varshanookarapu]
 - [MariNadile](https://github.com/MariNadile)
