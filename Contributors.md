@@ -3579,5 +3579,6 @@
 - [Chetan Sankhala](https://github.com/csankhala)
 - [Rutva Naik](https://github.com/NaikRutva)
 - [Mahesmati Maharana](https://github.com/Mahesmati)
+- [4rtific3](https://github.com/4rtific3)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
