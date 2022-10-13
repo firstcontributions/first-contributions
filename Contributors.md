@@ -3571,5 +3571,6 @@
 - [Marcos Schwaab](https://github.com/marcosschwaab)
 -[Dennis Kemboi](https://github.com/Developer-Dennis)
 - [Chetan Sankhala](https://github.com/csankhala)
+- [Rutva Naik](https://github.com/NaikRutva)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
