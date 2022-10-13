@@ -1090,6 +1090,7 @@
 - [Muhammad Adnan Ikram](https://github.com/AdnanIkram)
 - [Neel Kothari](https://github.com/neelkothari6191)
 - [Srajan Bansal](https://github.com/Srajan-Bansal)
+- [Chris Morton](https://github.com/Mortr0n)
 - [Dhananjay Patel](https://github.com/dhanu0510)
 - [Alex] (https://github.com/ASA-Projects)
 - [Pratham Goenka](https://github.com/prathamthe1st)
