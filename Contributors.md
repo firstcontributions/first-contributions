@@ -12,6 +12,7 @@
 - [Jonathan G Araya](https://github.com/Jonathana1106)
 - [jungchoib](https://github.com/jungchoib)
 - [Jongkwang131](https://github.com/Jongkwang131)
+- [sneha-2510](https://github.com/sneha-2510)
 - [jiwonqaz](https://github.com/jiwonqaz)
 - [chowonbhin](https://github.com/chowonbhin)
 - [Jeet Oza](https://github.com/Oza-Jeetkumar-Vishnubhai)
