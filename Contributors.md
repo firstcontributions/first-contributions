@@ -3574,5 +3574,6 @@
 - [Chetan Sankhala](https://github.com/csankhala)
 - [Rutva Naik](https://github.com/NaikRutva)
 - [Mahesmati Maharana](https://github.com/Mahesmati)
+- [Eric Zhu](https://github.com/outsider1997)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
