@@ -9,6 +9,7 @@
 - [jeongwoo903](https://github.com/jeongwoo903)
 - [Desmond-Fon](https://github.com/Desmond-Fon)
 - [TusharPramanick](https://github.com/TusharPramanick)
+- [Krishan-Walia](https://github.com/krishanwalia30)
 - [Krishan-Kant-11](https://github.com/Krishan-Kant-11)
 - [KiriNeTo](https://github.com/KiriNeTo)
 - [Martin Poncio](https://github.com/lmponcio)
