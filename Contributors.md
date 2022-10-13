@@ -433,6 +433,7 @@
 - [Nathan Speich](https://github.com/nathanspeich)
 - [X]
 - [Atharv Vani](https://github.com/Atharv-110)
+- [RomainBeaussart](https://github.com/RomainBeaussart)
 - [Jatin Gera] (https://github.com/JatinGera-noob)
 - [Koushik Chakraborty](https://github.com/KoushikAD1234)
 - [Akash Yadav](https://github.com/Akash-moon)
