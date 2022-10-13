@@ -44,6 +44,7 @@
 - [smdch](https://github.com/smdch)
 - [Samarth](https://github.com/samarth777)
 - [Sandeep Nayak](https://github.com/SANDEEP-NAYAK)
+- [Sahil Ahmed](https://github.com/PirateOfAndaman)
 - [youngjun1227](https://github.com/youngjun1227)
 - [Preston Harms](https://github.com/R3dPnd)
 - [kaushalgosaliya5](https://github.com/kaushalgosaliya5)
