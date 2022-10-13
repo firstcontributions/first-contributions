@@ -3613,6 +3613,7 @@
 - [Eric Njuguna](https://github.com/enjuguna)
 - [Matthew Sharp](https://github.com/MattSharp05)
 - [Erlan Rangel](https://github.com/ErlanRG)
+- [Krzysztof Lopatka](https://github.com/IKrzysztofI)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
 - [Ishaan Loomba](https://github.com/ishaan191220)
