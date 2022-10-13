@@ -3634,3 +3634,4 @@ first contributions - hanyang univ.
 - [Ishaan Loomba](https://github.com/ishaan191220)
 - [SreeragR](https://github.com/SREERAGRAYIRATH404]
 - [Ryli Daivs](https://github.com/CodeRyliCode)
+- [Diego Ponce](https://github.com/diego-ponce)
