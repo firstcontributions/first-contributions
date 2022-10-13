@@ -3626,6 +3626,7 @@
 - [Eric Njuguna](https://github.com/enjuguna)
 - [Matthew Sharp](https://github.com/MattSharp05)
 - [Erlan Rangel](https://github.com/ErlanRG)
+- [Taylor Erickson](https://github.com/terickson67)
 - [Krzysztof Lopatka](https://github.com/IKrzysztofI)
 - [Hrydin Oleksandr](https://github.com/TactikalMakiRoll)
 - [Ashish Kumar Rajak](https://github.com/ashishkrrajak)
