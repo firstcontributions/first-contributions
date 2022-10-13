@@ -3594,7 +3594,6 @@
 - [Siddhesh Sonar](https://github.com/DarkCode462)
 - [Pramod Jonwal] (https://github.com/jonwal4real)
 - [Ramanujam](https://github.com/ramanujam001)
-- [Miranda Pothiawala](https://github.com/MirandaPoth)
 - [Hari Sankar](https://github.com/h4r1337)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
