@@ -50,6 +50,7 @@
 - [Samvardhan](https://github.com/samvardhan777)
 - [Iyyappan R](https://github.com/dvrsaran)
 - [Rohit Yadav](https://www.linkedin.com/in/rohit-yadav-0852481b2/)
+- [Tyler Martin @HeyTylerMartin](https://github.com/HeyTylerMartin)
 - [Yuukii] (https://github.com/Assyyn)
 - [Alexandre - Kelifa][https://github.com/AlphaKappa44]
 - [Saksham Chawla](https://github.com/saksham-chawla)
