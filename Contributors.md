@@ -373,6 +373,7 @@
 - [Rohith Kumar](https://github.com/rohithkumar27)
 - [James Neal](https://github.com/thekingofhyrule)
 - [Rafael Galdino](https://github.com/rafael-gsousa)
+- [Yans](https://github.com/YansHJ)
 - [Pallavi Dwivedi](https://github.com/dpallavi09)
 - [Md Asif Siddiqui](https://github.com/SidAsif)
 - [John Galt](https://github.com/OcacamsRazorsEdge)
