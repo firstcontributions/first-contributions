@@ -495,6 +495,7 @@
 - [Faran Mohammad](https://github.com/Faranheit15)
 - [Vansh Aggarwal](https://github.com/vansh-agg)
 - [Rajeev Lochan Muduli](https://github.com/Dev-Code24)
+- [Mawio](https://github.com/Mawio)
 - [Ashutosh Kumar](https://github.com/incognion)
 - [Varun negi](https://github.com/VarunDTU)
 - [Anurag Nayak](https://github.com/Anurag-Nayak)
