@@ -7,6 +7,7 @@
 - [rabisha](https://github.com/rabi-1)
 - [amitc9405] (https://github.com/amitc9405)
 - [jayesh] (https://github.com/jayesh101)
+- [Aniruddha Bajpai](https://github.com/Aniruddha-Bajpai)
 - [Bhaskar Karnatak](https://github.com/BhaskarKarnatak)
 - [bengsky13](https://github.com/bengsky13)
 - [jeongwoo903](https://github.com/jeongwoo903)
