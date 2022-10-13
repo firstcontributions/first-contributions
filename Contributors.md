@@ -3390,6 +3390,7 @@
 - [gitee](https://github.com/gitee-dev)
 - [Prabuddhi Sathyanka] (https://github.com/Sathyanka)
 - [harsh savani](https://github.com/harshsavani)
+- [Hrishin](https://github.com/Greybuoy)
 - [Aditya](https://github.com/adityahajari14)
 - [Ishita Bisaria](https://github.com/IshitaBisaria)
 - [Sourabh Yadav ❤](https://github.com/SOURABH358)
