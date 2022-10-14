@@ -3213,5 +3213,5 @@
 - [Himanshu] (https://github.com/himanshus110)
 - [Mariana Jager] (https://github.com/marianajms)
 - [Tytus Wenger] (https://github.com/Tytus117)
-- [Tomoshi Nakai] (https://github.com/tomoron)
+- [Tomoshi Nakai](https://github.com/tomoron)
 <!-- prettier-ignore-end -->
