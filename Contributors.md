@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Abdelkarim](https://github.com/badelgeek)
 - [Sai Kiran]
+- [Jonatassn](https://github.com/jonatassn)
 - [Hywenklis Rherbert](https://github.com/hywenklis)
 - [KacperC](https://github.com/CKacper)
 - [varshanookarapu]
