@@ -68,7 +68,7 @@
 - [Arshad Khan](https://github.com/The-Arshad-Khan)
 - [Ricardo Fontenla](https://github.com/ricfontenla)
 - [Akshay Soni](https://github.com/akshaysoni10)
-- [Denis Koshelev](https://github.com/kshpdr) 
+- [Denis Koshelev](https://github.com/kshpdr)
 - [youngjun1227](https://github.com/youngjun1227)
 - [Ankit Gupta](https://github.com/Ankit-Gupta0)
 - [Higor Chagas](https://github.com/HigorChagas)
@@ -116,7 +116,7 @@
 - [Hamza Nehme](https://github.com/hnehme99)
 - [Chris Boles](https://github.com/cboles80)
   [Dev-it-a-dev](https://github.com/dev-it-a-dev)
-- [Alexis Gonzalez](https://github.com/Alex-is-Gonzalez)  
+- [Alexis Gonzalez](https://github.com/Alex-is-Gonzalez)
 - [Shreyash Gupta](https://github.com/shreyash2610)
 - [Nora Aguirre](https://github.com/nora-programadora)
 - [Shabana Naik](https://github.com/ShabanaNaik)
@@ -276,11 +276,11 @@
 - [Chirag Chakraborty](https://github.com/noobchirag69)
 - [Aditya Singh](https://github.com/second007)
 - [Aman Sharma](https://github.com/amansharma703)
--[Muhammed Fahad  v k ](https://github.com/fahadvillan6) 
+-[Muhammed Fahad  v k ](https://github.com/fahadvillan6)
 - [Karan banjade(https://github.com/karanbanajde)]
 - [Akash Singhal](https://github.com/Akashsinghal1234)
 - [Tanuj Kalonia](https://github.com/Tanuj3662)
-- [Raji Roqeeb](https://github.com/Codebox124) 
+- [Raji Roqeeb](https://github.com/Codebox124)
 - [Ken Durlin](https://github.com/kenthehuman/)
 - [Sanath Raj Petkar](https://github.com/kar108)
 - [Shreya Singh]
@@ -368,7 +368,7 @@
 - [Kevin] (https://github.com/ZaBarudo)
 - [Devansh] (https://github.com/Devansh-Walia)
 - [Joseph Uzuegbu] (https://github.com/josephDev123)
-- [Alon Cohen] (https://github.com/Alon2904)  
+- [Alon Cohen] (https://github.com/Alon2904)
 - [Shrey Jaiswal](https://github.com/Shrey2002)
 - [Abhijeet Jadhav] (https://github.com/mrabhijeetjadhav)
 - [Aayushi Kukreja](https://github.com/AayushiKukreja)
@@ -392,7 +392,7 @@
 - [Adenle Abiodun](https://github.com/abbeyseto)
 - [Christian Iradukunda](https://github.com/Webamz)
 - [VKSK]
-- [Soumya Agrawal](https://github.com/SouMy16) 
+- [Soumya Agrawal](https://github.com/SouMy16)
 - [Akansha Rawat](https://github.com/xx-codificare-xx)
 - [Huseyin Bingol](https://github.com/hueseyinbing)
 - [Ali Akkas] (https://github.com/aliakkas006)
@@ -602,7 +602,7 @@
 - [Manjot Singh](https://github.com/ManjotCodes)
 - [Tanmay Deopurkar](https://github.com/tanmays62343)
 - [Roshan George](https://github.com/roshangeorge97)
-- [Tanmay Deopurkar](https://github.com/tanmays62343) 
+- [Tanmay Deopurkar](https://github.com/tanmays62343)
 - [Praveen Chandra](https://github.com/praveenchandra01)
 - [Sampurna Sen](https://github.com/SampurnaSen)
 - [Zoheb Alam](https://github.com/ali7979)
@@ -699,7 +699,7 @@
 - [Aditya Ghyar](https://github.com/mgaditya-er)
 - [Syed Mohammad Osama](https://github.com/syed-m-osama)
 - [Azhar Sayyad](https://github.com/Azhar221)
-- [Shreya Singh] 
+- [Shreya Singh]
 [ashutosh_sankpal](https://github.com/ashutoshj30)
 - [Francis Okonkwo](https://github.com/Bluebberies)
 - [Joshua Ruffolo](https://github.com/jruffolo)
@@ -2178,7 +2178,7 @@
 - [Devang Shah](https://github.com/Devang-Shah-49)
 - [khaled al hamwie](https://github.com/khaled-al-hamwie)
 - [Himanshu Sagar](https://github.com/himanshu-sagar)
-  Raghunath 
+  Raghunath
 - [Itay Abuhazera](https://github.com/ItayAbuhazera)
 - [Ignatius Obiorah](https://github.com/ignatiusobiorah)
 - [Ricardo Carvalho](https://github.com/ricardocarvalhods)
@@ -2661,7 +2661,7 @@
 - [Siddhartha-Mishra](https://github.com/SiddharthaMishra-dev)
 - [Joyal Shah](https://joyal-portfolio.netlify.app/)
 - Ajay Singh
-- 
+-
 - [Chirag Goel](https://github.com/chiggshiggs)
 - [Satyajeet Tripathy](https://github.com/sa8tyajeet46)
 - [Ajay Nair](https://github.com/ajayrnairg)
@@ -3645,4 +3645,5 @@ first contributions - hanyang univ.
 - [SreeragR](https://github.com/SREERAGRAYIRATH404]
 - [Diego Ponce](https://github.com/diego-ponce)
 - [Ayan Ahmad](https://github.com/technoayan7)
+- [John U](https://github.com/johnung)
 - [Milena Brito](https://github.com/srcmilena)
