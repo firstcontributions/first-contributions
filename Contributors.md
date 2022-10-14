@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Indranil Saha](https://github.com/saha-indranil)
 - [Domenico Ivan Fortuna](https://github.com/dromex22)
 - [Abdelkarim](https://github.com/badelgeek)
 - [Sai Kiran]
