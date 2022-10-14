@@ -40,6 +40,7 @@
 - [chowonbhin](https://github.com/chowonbhin)
 - [Chirag Goyal](https://github.com/ChiragGoyal98)
 - [Jeet Oza](https://github.com/Oza-Jeetkumar-Vishnubhai)
+- [Ayush Dodiya](https://github.com/AHD153)
 - [KDE030617](https://github.com/KDE030617)
 - [gvadam] (https://github.com/gvadam)
 - [Arijit Ghosh](https://github.com/rancho2002)
