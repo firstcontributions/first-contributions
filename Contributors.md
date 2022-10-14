@@ -7,6 +7,7 @@
 - [Hywenklis Rherbert](https://github.com/hywenklis)
 - [KacperC](https://github.com/CKacper)
 - [varshanookarapu]
+- [mangoisbest](https://github.com/mangoisbest)
 - [MariNadile](https://github.com/MariNadile)
 - [JasminTajShaik](https://github.com/JasminTajShaik2601)
   [Javier-Bernabe](https://github.com/javbg97)
