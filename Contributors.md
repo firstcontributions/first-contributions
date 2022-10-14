@@ -3650,9 +3650,10 @@
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
 - [Ishaan Loomba](https://github.com/ishaan191220)
-- [SreeragR](https://github.com/SREERAGRAYIRATH404]
+- [SreeragR](https://github.com/SREERAGRAYIRATH404)
 - [Diego Ponce](https://github.com/diego-ponce)
 - [Ayan Ahmad](https://github.com/technoayan7)
 - [Milena Brito](https://github.com/srcmilena)
 - [Siqiang Ma](https://github.com/siqiangma)
 - [Harshda](https://github.com/harshdaojha)
+- [RakaRmp](https://github.com/grizz12)
