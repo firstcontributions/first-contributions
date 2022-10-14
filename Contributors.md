@@ -43,6 +43,7 @@
 - [smdch](https://github.com/smdch)
 - [Samarth](https://github.com/samarth777)
 - [Sandeep Nayak](https://github.com/SANDEEP-NAYAK)
+- [Nikhil Raikwar](https://github.com/NikhilRaikwar)
 - [youngjun1227](https://github.com/youngjun1227)
 - [Preston Harms](https://github.com/R3dPnd)
 - [kaushalgosaliya5](https://github.com/kaushalgosaliya5)
