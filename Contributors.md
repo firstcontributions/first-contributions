@@ -8,6 +8,7 @@
 - [Hywenklis Rherbert](https://github.com/hywenklis)
 - [KacperC](https://github.com/CKacper)
 - [varshanookarapu]
+- [Deepa Kumari](https://github.com/deepa181)
   [Sudip Neupane](https://github.com/sulphuric-sudip)
 - [NandiniPokharna](https://github.com/NandiniPokharna)
 - [mangoisbest](https://github.com/mangoisbest)
