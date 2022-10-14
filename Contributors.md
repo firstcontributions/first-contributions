@@ -8,6 +8,7 @@
 - [Sai Kiran]
 - [Sunday P. Afolabi](https://github.com/Lecon-a)
 - [Jonatassn](https://github.com/jonatassn)
+- [Bo Louie]
 - [Hywenklis Rherbert](https://github.com/hywenklis)
 - [KacperC](https://github.com/CKacper)
 - [varshanookarapu]
