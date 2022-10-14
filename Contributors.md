@@ -8,7 +8,6 @@
 - [Hywenklis Rherbert](https://github.com/hywenklis)
 - [KacperC](https://github.com/CKacper)
 - [varshanookarapu]
-  [Sudip Neupane](https://github.com/sulphuric-sudip)
 - [NandiniPokharna](https://github.com/NandiniPokharna)
 - [mangoisbest](https://github.com/mangoisbest)
 - [MariNadile](https://github.com/MariNadile)
@@ -3646,6 +3645,7 @@
 - [Chetan Sankhala](https://github.com/csankhala)
 - [Rutva Naik](https://github.com/NaikRutva)
 - [Mahesmati Maharana](https://github.com/Mahesmati)
+- [Nishant Choudhary](https://github.com/Code-Nishant)
 - [Siddhesh Sonar](https://github.com/DarkCode462)
 - [Pramod Jonwal] (https://github.com/jonwal4real)
 - [Ramanujam](https://github.com/ramanujam001)
