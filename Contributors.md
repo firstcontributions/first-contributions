@@ -120,6 +120,7 @@
 - [Alexis Gonzalez](https://github.com/Alex-is-Gonzalez)  
 - [Shreyash Gupta](https://github.com/shreyash2610)
 - [Nora Aguirre](https://github.com/nora-programadora)
+- [Guna Abola](https://github.com/g-abola)
 - [Shabana Naik](https://github.com/ShabanaNaik)
 - [Dhananjaya Swain](https://github.com/thelastone07)
 - [Antony Prince](https://github.com/antoprince001)
