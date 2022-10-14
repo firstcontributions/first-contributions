@@ -2258,6 +2258,7 @@
 - [ItsTHEAvro](https://github.com/ItsTHEAvro)
 - [Alan Nguyen](https://github.com/alanknguyen314)
 - [Halim Shams](https://github.com/Halim-Shams)
+- [Antonin Desfontaines](https://github.com/adesfontaines)
 - [Jai Ganesh](https://github.com/jjaijg)
 - [Mohamed El omary](https://github.com/celomary)
 - [Richard Panzera](https://github.com/richardpanzera)
