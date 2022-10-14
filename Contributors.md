@@ -3641,6 +3641,7 @@
 - [Hari Sankar](https://github.com/h4r1337)
 - [Eric Njuguna](https://github.com/enjuguna)
 - [Matthew Sharp](https://github.com/MattSharp05)
+-[Tarun Gujral](https://github.com/tarungujral156)
 - [Erlan Rangel](https://github.com/ErlanRG)
 - [Taylor Erickson](https://github.com/terickson67)
 - [Krzysztof Lopatka](https://github.com/IKrzysztofI)
