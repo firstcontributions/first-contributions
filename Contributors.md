@@ -57,6 +57,7 @@
   [SuperAngel11](https://github.com/SuperAngel11/)
 - [T4EK](https://github.com/T4EK)
 - [smdch](https://github.com/smdch)
+- [kevins0101](https://github.com/kevins0101)
 - [Samarth](https://github.com/samarth777)
 - [Sandeep Nayak](https://github.com/SANDEEP-NAYAK)
 - [Sahil Ahmed](https://github.com/PirateOfAndaman)
