@@ -364,6 +364,7 @@
 - [Lakshmi Maurya](https://github.com/lakshmimaurya)
 - [Shubham](https://github.com/ShubhamP48)
 - [Aaditya Dev Sharma](https://github.com/Aadi1659)
+- [Francis Verissimo](https://github.com/VTY1999)
 - [Pankaj Chugh](https://github.com/pchugh17)
 - [Upanshu Kumar](https://github.com/UpanshuKumar)
 - [Shubhamsk2003](https://github.com/Shubhamsk2003)
