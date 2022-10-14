@@ -3637,6 +3637,7 @@
 - [Hrydin Oleksandr](https://github.com/TactikalMakiRoll)
 - [Ashish Kumar Rajak](https://github.com/ashishkrrajak)
 - [Vitor Riquelme](https://github.com/VitorRiquelme)
+- [Angga Widianto](https://github.com/anggawydi)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
 - [Ishaan Loomba](https://github.com/ishaan191220)
