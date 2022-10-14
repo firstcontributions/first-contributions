@@ -901,6 +901,7 @@
 - [Ananmay Dwivedi](https://github.com/Ananmayd)
 - [Adith Ziva](https://github.com/adithziva)
 - [Bilal Iqbal](https://github.com/bilaliqbal1)
+- 
 - [Soumyajit Brahma](https://github.com/cleverhare)
 - [Vaibhav Kumar](https://github.com/vaibhavkumar779)
 - [Mukhesh Babu Yaddanapudi](https://github.com/MukheshBabu)
@@ -3665,6 +3666,7 @@
 - [Vitor Riquelme](https://github.com/VitorRiquelme)
 - [Angga Widianto](https://github.com/anggawydi)
 - [RakaRmp](https://github.com/grizz12)
+- [Satendra](https://github.com/satendrakumar01)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
 - [Ishaan Loomba](https://github.com/ishaan191220)
