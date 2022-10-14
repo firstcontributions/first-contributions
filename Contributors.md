@@ -2551,6 +2551,7 @@
 - [Naclazzy](https://github.com/Naclazzy)
 - [Deepak Jongra](https://github.com/lostaim)
 - [Sumayyah A.O] (https://github.com/Summiedev)
+- [Pierre Donnadieu] (https://github.com/DonPierreDon)
 - [Keshav Sharma](https://github.com/ksharma20/)
 - [Fatimah Zulfiqar](https://github.com/0einstein0)
 - [Dalibor Maljurić](https://github.com/RegularEverydayAverageGuy)
