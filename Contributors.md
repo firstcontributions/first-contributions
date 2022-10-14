@@ -3,10 +3,12 @@
 <!-- prettier-ignore-start -->
 - [Abdelkarim](https://github.com/badelgeek)
 - [Sai Kiran]
+- [Sunday P. Afolabi](https://github.com/Lecon-a)
 - [Jonatassn](https://github.com/jonatassn)
 - [Hywenklis Rherbert](https://github.com/hywenklis)
 - [KacperC](https://github.com/CKacper)
 - [varshanookarapu]
+  [Sudip Neupane](https://github.com/sulphuric-sudip)
 - [NandiniPokharna](https://github.com/NandiniPokharna)
 - [mangoisbest](https://github.com/mangoisbest)
 - [MariNadile](https://github.com/MariNadile)
@@ -2205,6 +2207,7 @@
 - [Bassel saleh](https://github.com/Bacell94)
 - [Shukur Avazov](https://github.com/shukuravazov)
 - [Gavi Furtado](https://github.com/Gavin-Furtado)
+- [Laura de Oliveira](https://github.com/l4ur4oliveira)
 - [Anmol Adhikari](https://github.com/quazaranmol)
 - [Shen Zhui](https://github.com/shenzhui007)
 - [Suyash Suryavanshi](https://github.com/iitiansuyash)
