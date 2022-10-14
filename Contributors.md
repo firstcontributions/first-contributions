@@ -79,6 +79,7 @@
 - [Rohit Yadav](https://www.linkedin.com/in/rohit-yadav-0852481b2/)
 - [Tyler Martin @HeyTylerMartin](https://github.com/HeyTylerMartin)
 - [Yuukii] (https://github.com/Assyyn)
+- [Jackson Isaac](https://github.com/JacksonIsaac/)
 - [Alexandre - Kelifa][https://github.com/AlphaKappa44]
 - [Saksham Chawla](https://github.com/saksham-chawla)
 - [Syed Danish Hasan Shah](https://github.com/SDHS)
