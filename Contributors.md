@@ -3,10 +3,13 @@
 <!-- prettier-ignore-start -->
 - [Abdelkarim](https://github.com/badelgeek)
 - [Sai Kiran]
+- [Sunday P. Afolabi](https://github.com/Lecon-a)
 - [Jonatassn](https://github.com/jonatassn)
 - [Hywenklis Rherbert](https://github.com/hywenklis)
 - [KacperC](https://github.com/CKacper)
 - [varshanookarapu]
+- [Deepa Kumari](https://github.com/deepa181)
+  [Sudip Neupane](https://github.com/sulphuric-sudip)
 - [NandiniPokharna](https://github.com/NandiniPokharna)
 - [mangoisbest](https://github.com/mangoisbest)
 - [MariNadile](https://github.com/MariNadile)
@@ -57,6 +60,7 @@
   [SuperAngel11](https://github.com/SuperAngel11/)
 - [T4EK](https://github.com/T4EK)
 - [smdch](https://github.com/smdch)
+- [kevins0101](https://github.com/kevins0101)
 - [Samarth](https://github.com/samarth777)
 - [Sandeep Nayak](https://github.com/SANDEEP-NAYAK)
 - [Sahil Ahmed](https://github.com/PirateOfAndaman)
@@ -2204,6 +2208,7 @@
 - [Bassel saleh](https://github.com/Bacell94)
 - [Shukur Avazov](https://github.com/shukuravazov)
 - [Gavi Furtado](https://github.com/Gavin-Furtado)
+- [Laura de Oliveira](https://github.com/l4ur4oliveira)
 - [Anmol Adhikari](https://github.com/quazaranmol)
 - [Shen Zhui](https://github.com/shenzhui007)
 - [Suyash Suryavanshi](https://github.com/iitiansuyash)
@@ -3671,3 +3676,6 @@ first contributions - hanyang univ.
 - [Ikram](https://github.com/kamibel)
 - [Suraj](https://github.com/Surajkumar98012)
 -[shyam](https://github.com/shyambaral)
+
+-[]
+
