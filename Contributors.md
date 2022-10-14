@@ -130,6 +130,7 @@
 - [GmausDev](https://github.com/GmausDev https://www.linkedin.com/in/jorge-quevedo-duran-b51190206/)
 - [Sumanth Botlagunta](https://github.com/sumanth-botlagunta)
 - [Gaurav Aswani] (https://github.com/gaurav9926)
+- [François-Xavier Leclerc](https://github.com/Jimpie1043)
 - [Rishabh Pratap Singh](https://github.com/iam-Rps)
 - [Poonam Parate](https://github.com/HeYPoonam)
 - [Samy Cachon](https://github.com/samy-c)
@@ -3642,3 +3643,4 @@ first contributions - hanyang univ.
 - [SreeragR](https://github.com/SREERAGRAYIRATH404]
 - [Diego Ponce](https://github.com/diego-ponce)
 - [Ayan Ahmad](https://github.com/technoayan7)
+- [Milena Brito](https://github.com/srcmilena)
