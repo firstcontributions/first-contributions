@@ -179,6 +179,7 @@
 - [Shishir Shrestha] (https://github.com/theRealPJ24)
 - [Sigit Pramono](https://github.com/SigitPramts)
 - [Franklin Mensah](https://github.com/fiificode)
+- [Bright Odey](https://github.com/starburn-hub)
 - [Rahul chaurasiya](https://github.com/Rahul-chaurasiya?)
 - [Anugrah Rachman](https://github.com/kidomega-byte/)
 - [Ricktho Sarkar](https://github.com/Ricktho1)
