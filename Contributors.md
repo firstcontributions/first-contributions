@@ -431,6 +431,7 @@
 - [Ashish Patel](https://github.com/ashishxcode)
 - [Srinidhi Gopalan](https://github.com/srinidhigopalan)
 - [Pablo Escobar](https://github.com/esc20936)
+- [Tri Pham](https://github.com/TriMPham98)  
 - [Ayush Solanki](https://github.com/AyushSolanki123)
 - [Ian Wairimu](https://github.com/wairimu)
 <!-- collins kiplangat mutai(Kiplaacollo) -->
