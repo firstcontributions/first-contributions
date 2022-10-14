@@ -774,6 +774,7 @@
 - [Praneesh Sharma](https://github.com/Praneesh-Sharma)
 - [Vedha Vikash](https://github.com/vedha-vikash-pixel)
 - [Kevin Nelson Moudio](https://github.com/blackantrax)
+- [Maxim Zakazchik](https://github.com/s4lat)
 - [Praise Adegoke](https://github.com/praiseadegokee)
 - [Harsh Duche](https://github.com/ducheharsh)
 - [Shashwat Wankhedekar](https://github.com/shashwatwankhedekar)
