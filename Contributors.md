@@ -65,6 +65,7 @@
 - [Yuukii] (https://github.com/Assyyn)
 - [Alexandre - Kelifa][https://github.com/AlphaKappa44]
 - [Saksham Chawla](https://github.com/saksham-chawla)
+- [Syed Danish Hasan Shah](https://github.com/SDHS)
 - [Kumar Shanu](https://www.linkedin.com/in/kumarshanu-me/)
 - [Sambhav Goel](https://github.com/Sambhavgoel)
 - [Arshad Khan](https://github.com/The-Arshad-Khan)
