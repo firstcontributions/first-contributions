@@ -21,6 +21,7 @@
   [Javier-Bernabe](https://github.com/javbg97)
 - [Pragathees](https://github.com/pragasekar)
 - [rabisha](https://github.com/rabi-1)
+- [William-David](https://github.com/William-David)
 - [amitc9405] (https://github.com/amitc9405)
 - [jayesh] (https://github.com/jayesh101)
 - [Aniruddha Bajpai](https://github.com/Aniruddha-Bajpai)
