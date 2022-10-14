@@ -45,6 +45,7 @@
 - [KratikJain10](https://github.com/KratikJain10)
 - [jiwonqaz](https://github.com/jiwonqaz)
 - [chowonbhin](https://github.com/chowonbhin)
+- [mimeosd](https://github.com/mimeosd)
 - [Chirag Goyal](https://github.com/ChiragGoyal98)
 - [Jeet Oza](https://github.com/Oza-Jeetkumar-Vishnubhai)
 - [Ayush Dodiya](https://github.com/AHD153)
