@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Indranil Saha](https://github.com/saha-indranil)
 - [Domenico Ivan Fortuna](https://github.com/dromex22)
+- [David Letaw](https://github.com/davidletaw)
 - [Abdelkarim](https://github.com/badelgeek)
 - [Sai Kiran]
 - [Sunday P. Afolabi](https://github.com/Lecon-a)
