@@ -367,6 +367,7 @@
 - [Sirio Negri](https://github.com/ziriuz84)
 - [Jessica Rose](https://github.com/21B01A1251)
 - [Debayan Sen](https://github.com/Debayan-Sen)
+- [Shreya Gupta](https://github.com/shrey-a-gupta)
 - [Aishwarya Mali](https://github.com/aishwarya-mali)
 - [Aryaman Chanana] (https://www.instagram.com/arywcars/)
 - [Yashaswini Shivathaya](https://github.com/y-ashaswini)
