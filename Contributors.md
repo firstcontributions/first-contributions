@@ -19,6 +19,7 @@
 - [Bhaskar Karnatak](https://github.com/BhaskarKarnatak)
 - [bengsky13](https://github.com/bengsky13)
 - [RebeccaAmir] (https://github.com/RebeccaAmir)
+- [Ikhari] (https://github.com/Ikhari)
 - [jeongwoo903](https://github.com/jeongwoo903)
 - [Desmond-Fon](https://github.com/Desmond-Fon)
 - [TusharPramanick](https://github.com/TusharPramanick)
