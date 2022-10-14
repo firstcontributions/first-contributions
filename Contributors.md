@@ -2207,6 +2207,7 @@
 - [Bassel saleh](https://github.com/Bacell94)
 - [Shukur Avazov](https://github.com/shukuravazov)
 - [Gavi Furtado](https://github.com/Gavin-Furtado)
+- [Laura de Oliveira](https://github.com/l4ur4oliveira)
 - [Anmol Adhikari](https://github.com/quazaranmol)
 - [Shen Zhui](https://github.com/shenzhui007)
 - [Suyash Suryavanshi](https://github.com/iitiansuyash)
