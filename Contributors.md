@@ -220,6 +220,7 @@
 - [Shivansh Guleria](https://github.com/ShivanshGuleria)
 - [Swaraj](https://github.com/swarajzz)
 - [Brian Sia] (https://github.com/zerovirus123)
+- [Navalino Vian](https://github.com/navalinovian)
 - anish
 - [Babita Majumdar](https://github.com/m-babita/)
 - [Griffin](https://github.com/Midnightific)
