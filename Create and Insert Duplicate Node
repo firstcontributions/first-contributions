@@ -1,0 +1,27 @@
+from sys import stdin, setrecursionlimit
+import queue
+
+setrecursionlimit(10 ** 6)
+
+
+#Following is the structure used to represent the Binary Tree BinaryTreeNode
+class BinaryTreeNode:
+    def __init__(self, data):
+        self.data = data
+        self.left = None
+        self.right = None
+
+
+def insertDuplicateNode(root):
+    # Your code goes here
+    if root == None :
+            return
+   
+    # do the subtrees
+    insertDuplicateNode(root.left)
+    insertDuplicateNode(root.right)
+   
+    # duplicate this root to its left
+    oldleft = root.left
+    root.left =  BinaryTreeNode(root.data)
+    root.left.left = oldleft
