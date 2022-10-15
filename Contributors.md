@@ -446,6 +446,7 @@
 - [Adenle Abiodun](https://github.com/abbeyseto)
 - [Christian Iradukunda](https://github.com/Webamz)
 - [VKSK]
+- [Salimov Rustam](https://github.com/rustam2027)
 - [Soumya Agrawal](https://github.com/SouMy16) 
 - [Akansha Rawat](https://github.com/xx-codificare-xx)
 - [Huseyin Bingol](https://github.com/hueseyinbing)
