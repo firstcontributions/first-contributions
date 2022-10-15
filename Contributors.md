@@ -1869,6 +1869,7 @@
 - [Diwas Atreya](https://github.com/diwasatreya)
 - [Mikkel Unrau](https://github.com/mikkelau)
 - [Sean Kerwin](https://github.com/lordkerwin)
+- [Emil](https://github.com/nbz406)
 - [Adriane Troy U. Alariao](https://github.com/atualariao)
 - [Ryan Efaw](https://github.com/ether3al7)
 - [Rakshit Shetty ✨✨](https://github.com/Rakxit-Shetty)
