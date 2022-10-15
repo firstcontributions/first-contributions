@@ -1,8 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->:
-- [Oleynikov Danil] (https://github.com/Ondotteess)
-- [Shivam Jha](https://github.com/shivjha-27
+- [Shivam Jha](https://github.com/shivjha-2712)
 - [Suchit](https://github.com/Suchitsj12)
 - [Gaby Victoria](https://github.com/GabyVictoria0122)
  -[Vijay](https://github.com/developer-vijay)
@@ -1870,7 +1869,6 @@
 - [Diwas Atreya](https://github.com/diwasatreya)
 - [Mikkel Unrau](https://github.com/mikkelau)
 - [Sean Kerwin](https://github.com/lordkerwin)
-- [Emil](https://github.com/nbz406)
 - [Adriane Troy U. Alariao](https://github.com/atualariao)
 - [Ryan Efaw](https://github.com/ether3al7)
 - [Rakshit Shetty ✨✨](https://github.com/Rakxit-Shetty)
@@ -3736,5 +3734,5 @@ first contributions - hanyang univ.
 - [Ikram](https://github.com/kamibel)
 - [Suraj](https://github.com/Surajkumar98012)
 -[yash](https://github.com/yashkondajisonawane)
-- [Mehedi Hasan](https://github.com/mytaison)
 -[]
+- [Uday Kharatmol](https://github.com/UdayKharatmol)
