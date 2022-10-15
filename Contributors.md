@@ -51,6 +51,7 @@
   [mrcipo] (https://github.com/mrcipo) 
 - [jeongwoo903](https://github.com/jeongwoo903)
 - [Desmond-Fon](https://github.com/Desmond-Fon)
+- [Srijanya Durganala](https://github.com/Srijanya.D)
 - [TusharPramanick](https://github.com/TusharPramanick)
 - [Krishan-Walia](https://github.com/krishanwalia30)
 - [Krishan-Kant-11](https://github.com/Krishan-Kant-11)
