@@ -27,6 +27,7 @@
 - [MariNadile](https://github.com/MariNadile)
 - [unpluggedsam](https://github.com/unpluggedsam)
 - [JasminTajShaik](https://github.com/JasminTajShaik2601)
+- [Nishant Kumar](https://github.com/thinkwithcode)
   [Javier-Bernabe](https://github.com/javbg97)
 - [Pragathees](https://github.com/pragasekar)
 - [rabisha](https://github.com/rabi-1)
