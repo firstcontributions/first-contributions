@@ -1,6 +1,8 @@
 # Contributors
 
 <!-- prettier-ignore-start -->:
+-[Sagar](https://github.com/Sagar-Timalsena)
+-[Ashmita](https://github.com/Ashmita1555)
 - [Suchit](https://github.com/Suchitsj12)
  -[Vijay](https://github.com/developer-vijay)
 - [oshiqi](https://github.com/oshiqi)
