@@ -24,6 +24,7 @@
 - [Abdelkarim](https://github.com/badelgeek)
 - [Sai Kiran]
 - [Sunday P. Afolabi](https://github.com/Lecon-a)
+- [Krishi Pratim Sarma](https://github.com/Krishi34S)
 - [Kompal Layal](https://github.com/komproximal)
 - [Jonatassn](https://github.com/jonatassn)
 - [Jackeline do Nascimento] (https://github.com/jackelinenascimento)
