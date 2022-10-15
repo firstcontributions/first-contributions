@@ -2,14 +2,21 @@
 
 <!-- prettier-ignore-start -->
 
+
+
+- [Indranil Saha](https://github.com/saha-indranil)
+
 - [Domenico Ivan Fortuna](https://github.com/dromex22)
+- [David Letaw](https://github.com/davidletaw)
 - [Abdelkarim](https://github.com/badelgeek)
 - [Sai Kiran]
 - [Sunday P. Afolabi](https://github.com/Lecon-a)
 - [Jonatassn](https://github.com/jonatassn)
+- [Bo Louie]
 - [Hywenklis Rherbert](https://github.com/hywenklis)
 - [KacperC](https://github.com/CKacper)
 - [varshanookarapu]
+-[bhanu]
 - [Oluwatimilehin Esan](https://github.com/therealtmmy)
 - [Himanshu Singh](https://github.com/singh-himanshu-16)
 - [Deepa Kumari](https://github.com/deepa181)
@@ -22,6 +29,7 @@
   [Javier-Bernabe](https://github.com/javbg97)
 - [Pragathees](https://github.com/pragasekar)
 - [rabisha](https://github.com/rabi-1)
+- [William-David](https://github.com/William-David)
 - [amitc9405] (https://github.com/amitc9405)
 - [jayesh] (https://github.com/jayesh101)
 - [Aniruddha Bajpai](https://github.com/Aniruddha-Bajpai)
@@ -30,6 +38,7 @@
 - [bengsky13](https://github.com/bengsky13)
 - [RebeccaAmir] (https://github.com/RebeccaAmir)
 - [Ikhari] (https://github.com/Ikhari)
+  [mrcipo] (https://github.com/mrcipo) 
 - [jeongwoo903](https://github.com/jeongwoo903)
 - [Desmond-Fon](https://github.com/Desmond-Fon)
 - [TusharPramanick](https://github.com/TusharPramanick)
@@ -80,7 +89,12 @@
 - [Rohit Yadav](https://www.linkedin.com/in/rohit-yadav-0852481b2/)
 - [Tyler Martin @HeyTylerMartin](https://github.com/HeyTylerMartin)
 - [Yuukii] (https://github.com/Assyyn)
+
 - [Alexandre - Kelifa][https://github.com/alphakappa44]
+
+- [Jackson Isaac](https://github.com/JacksonIsaac/)
+- [Alexandre - Kelifa][https://github.com/AlphaKappa44]
+
 - [Saksham Chawla](https://github.com/saksham-chawla)
 - [Syed Danish Hasan Shah](https://github.com/SDHS)
 - [Kumar Shanu](https://www.linkedin.com/in/kumarshanu-me/)
@@ -367,6 +381,7 @@
 - [Melissa Kirabo](https://github.com/melissakirabo)
 - [Avicii_029](https://github.com/avicii029)
 - [Hardik Jain](https://github.com/hardikjain0101)
+[Tadokoro Yuki](https://github.com/TadokoroYuki)
 - [frank john](https://guthub.com/frank2ny)
 - [Nishtha Jethani](https://github.com/NishthaJethani)
 - [Soundarrajan](https://github.com/soundarrajan-official)
