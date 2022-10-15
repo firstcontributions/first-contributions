@@ -59,6 +59,7 @@
 - [Kiran Kuumar Mohanty](https://github.com/theluckiestsoul)
 - [Jonathan G Araya](https://github.com/Jonathana1106)
 - [jungchoib](https://github.com/jungchoib)
+- [rajdugad](https://github.com/rajdugad)
 - [Jongkwang131](https://github.com/Jongkwang131)
 - [Saurabh Singh](https://github.com/saurabhsingh720)
 - [sneha-2510](https://github.com/sneha-2510)
