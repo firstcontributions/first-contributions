@@ -1886,6 +1886,7 @@
 - [Julian Schiedel](https://github.com/palladio11)
 - [Francis Alegre](https://github.com/francisaerol)
 - [Jon Gonzalez](https://github.com/jgonz-hub)
+- [Pooja](https://github.com/xdpooja)
 - [Wayne Watson](https://github.com/grifway)
 - [Laisa Carmo](https://github.com/laisacsts)
 - [Ali Mansoor ](https://github.com/alimnsr1154)
