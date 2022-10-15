@@ -21,6 +21,7 @@
 - [Deepa Kumari](https://github.com/deepa181)
   [Sudip Neupane](https://github.com/sulphuric-sudip)
 - [NandiniPokharna](https://github.com/NandiniPokharna)
+- [Sahil Gupta](https://github.com/LAS3RBOY)
 - [mangoisbest](https://github.com/mangoisbest)
 - [MariNadile](https://github.com/MariNadile)
 - [unpluggedsam](https://github.com/unpluggedsam)
