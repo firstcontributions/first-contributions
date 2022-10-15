@@ -18,6 +18,7 @@
 - [Sunday P. Afolabi](https://github.com/Lecon-a)
 - [Kompal Layal](https://github.com/komproximal)
 - [Jonatassn](https://github.com/jonatassn)
+- [Jackeline do Nascimento] (https://github.com/jackelinenascimento)
 - [Bo Louie]
 - [Hywenklis Rherbert](https://github.com/hywenklis)
 - [KacperC](https://github.com/CKacper)
@@ -33,6 +34,7 @@
 - [Sahil Gupta](https://github.com/LAS3RBOY)
 - [mangoisbest](https://github.com/mangoisbest)
 - [MariNadile](https://github.com/MariNadile)
+- [Jamie Codez](https://github.com/jamie-codez)
 - [unpluggedsam](https://github.com/unpluggedsam)
 - [JasminTajShaik](https://github.com/JasminTajShaik2601)
 - [Nishant Kumar](https://github.com/thinkwithcode)
@@ -51,6 +53,7 @@
   [mrcipo] (https://github.com/mrcipo) 
 - [jeongwoo903](https://github.com/jeongwoo903)
 - [Desmond-Fon](https://github.com/Desmond-Fon)
+- [Srijanya Durganala](https://github.com/Srijanya.D)
 - [TusharPramanick](https://github.com/TusharPramanick)
 - [Krishan-Walia](https://github.com/krishanwalia30)
 - [Krishan-Kant-11](https://github.com/Krishan-Kant-11)
@@ -445,6 +448,7 @@
 - [Adenle Abiodun](https://github.com/abbeyseto)
 - [Christian Iradukunda](https://github.com/Webamz)
 - [VKSK]
+- [Salimov Rustam](https://github.com/rustam2027)
 - [Soumya Agrawal](https://github.com/SouMy16) 
 - [Akansha Rawat](https://github.com/xx-codificare-xx)
 - [Huseyin Bingol](https://github.com/hueseyinbing)
