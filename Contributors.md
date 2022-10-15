@@ -18,6 +18,7 @@
 - [Sunday P. Afolabi](https://github.com/Lecon-a)
 - [Kompal Layal](https://github.com/komproximal)
 - [Jonatassn](https://github.com/jonatassn)
+- [Jackeline do Nascimento] (https://github.com/jackelinenascimento)
 - [Bo Louie]
 - [Hywenklis Rherbert](https://github.com/hywenklis)
 - [KacperC](https://github.com/CKacper)
