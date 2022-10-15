@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [PatentLobster](https://github.com/PatentLobster)
 - [Aditya Vijay](https://github.com/kiriotheo)
 - [Indranil Saha](https://github.com/saha-indranil)
 - [Arunima Chaudhuri](https://github.com/tinniaru3005)
