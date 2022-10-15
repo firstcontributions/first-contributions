@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->:
+- [Shivam Jha](https://github.com/shivjha-2712)
 - [Suchit](https://github.com/Suchitsj12)
 - [Gaby Victoria](https://github.com/GabyVictoria0122)
  -[Vijay](https://github.com/developer-vijay)
