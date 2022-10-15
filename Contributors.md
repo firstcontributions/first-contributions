@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->:
+- [Niket Tiwari](https://github.com/Tiwari-Niket )
 - [Abhi Patel](https://github.com/AbhiPatel10 )
 - [Yatndeep Dubey](https://github.com/Yatndeep )
 - [Fatin Almalik](https://github.com/Fatin-Almalik)
