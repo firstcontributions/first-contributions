@@ -27,6 +27,7 @@
 - [varshanookarapu]
 -[bhanu]
 - [Farhan khan](https://github.com/farhanalws4u)
+- [Niklas Betke](https://github.com/nikbetke)
 - [Oluwatimilehin Esan](https://github.com/therealtmmy)
 - [Satendra Mishra](https://github.com/Satendram)
 - [Himanshu Singh](https://github.com/singh-himanshu-16)
