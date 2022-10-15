@@ -67,6 +67,7 @@
 - [starR-ight](https://github.com/StarR-ight)
 - [SAket MIshra](https://github.com/saket3199)
 - [jiunjiun69](https://github.com/jiunjiun69)
+- [Etinosa Ekhator](https://github.com/Etinosa22)
 - [seongjunyeong](https://github.com/seongjunyeong)
 - [Jungmw03](https://github.com/Jungmw03)
 - [yutakdv](https://github.com/yutakdv)
