@@ -1,7 +1,8 @@
 # Contributors
 
 <!-- prettier-ignore-start -->:
-- [Олейников Данил] (https://github.com/Ondotteess)
+- [Oleynikov Danil] (https://github.com/Ondotteess)
+- [Shivam Jha](https://github.com/shivjha-27
 - [Suchit](https://github.com/Suchitsj12)
 - [Gaby Victoria](https://github.com/GabyVictoria0122)
  -[Vijay](https://github.com/developer-vijay)
@@ -2196,6 +2197,7 @@
 - [Berlun Devera](https://github.com/b-devera)
 - [Sahas Thyarala](https://github.com/Sthyarala)
 - [Chow Mei Kei](https://github.com/meikei-99)
+- [dancaps] (https://github.com/dancap)
 - [Strzegol](https://github.com/Strzegol)
 - [Rodrigo Sarmento](https://github.com/Rodrigo-Sarmento)
 - [Javier Espinosa](https://github.com/EspJav)
