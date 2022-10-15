@@ -33,6 +33,7 @@
 - [Sahil Gupta](https://github.com/LAS3RBOY)
 - [mangoisbest](https://github.com/mangoisbest)
 - [MariNadile](https://github.com/MariNadile)
+- [Jamie Codez](https://github.com/jamie-codez)
 - [unpluggedsam](https://github.com/unpluggedsam)
 - [JasminTajShaik](https://github.com/JasminTajShaik2601)
 - [Nishant Kumar](https://github.com/thinkwithcode)
