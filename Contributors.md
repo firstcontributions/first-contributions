@@ -827,6 +827,7 @@
 - [Yash Chowdhury](https://github.com/xinkin)
 - [Chandan Sahu](https://github.com/chandansahuji)
 - [Pushkar Ambastha](https://github.com/Pushkar1853)
+- [Vignesh Sura](https://github.com/vignesh-sura)
 - [Praneesh Sharma](https://github.com/Praneesh-Sharma)
 - [Vedha Vikash](https://github.com/vedha-vikash-pixel)
 - [Kevin Nelson Moudio](https://github.com/blackantrax)
