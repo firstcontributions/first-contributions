@@ -3752,4 +3752,5 @@ first contributions - hanyang univ.
 - [Okvi DS](https://github.com/Dwisantra/)
 - [pioneersTeam](https://github.com/zaidanali028/first-contributions)
 - [Ayush Srivastava](https://github.com/ayush91985)
+- [Sergei Shtukaturov](https://github.com/Zimovit/)
 -[]
