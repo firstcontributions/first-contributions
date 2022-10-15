@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->:
+- [oshiqi](https://github.com/oshiqi)
 - [Niket Tiwari](https://github.com/Tiwari-Niket )
 - [Abhi Patel](https://github.com/AbhiPatel10 )
 - [Yatndeep Dubey](https://github.com/Yatndeep )
