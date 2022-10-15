@@ -17,6 +17,7 @@
 - [varshanookarapu]
 -[bhanu]
 - [Oluwatimilehin Esan](https://github.com/therealtmmy)
+- [Satendra Mishra](https://github.com/Satendram)
 - [Himanshu Singh](https://github.com/singh-himanshu-16)
 - [Deepa Kumari](https://github.com/deepa181)
   [Sudip Neupane](https://github.com/sulphuric-sudip)
