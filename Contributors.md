@@ -3727,6 +3727,7 @@
 - [Angga Widianto](https://github.com/anggawydi)
 - [RakaRmp](https://github.com/grizz12)
 - [Lexzee](https://github.com/lexzee)
+- [Atharvasaraiya](https://github.com/Atharvasaraiya)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
 - [Ishaan Loomba](https://github.com/ishaan191220)
