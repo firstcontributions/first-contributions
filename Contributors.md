@@ -1,7 +1,8 @@
 # Contributors
 
 <!-- prettier-ignore-start -->:
-
+- [Suchit](https://github.com/Suchitsj12)
+-[Vijay](https://github.com/developer-vijay)
 - [oshiqi](https://github.com/oshiqi)
 - [Niket Tiwari](https://github.com/Tiwari-Niket)
 - [Abhi Patel](https://github.com/AbhiPatel10)
@@ -19,6 +20,7 @@
 - [Sunday P. Afolabi](https://github.com/Lecon-a)
 - [Kompal Layal](https://github.com/komproximal)
 - [Jonatassn](https://github.com/jonatassn)
+- [Jackeline do Nascimento] (https://github.com/jackelinenascimento)
 - [Bo Louie]
 - [Hywenklis Rherbert](https://github.com/hywenklis)
 - [KacperC](https://github.com/CKacper)
@@ -33,6 +35,7 @@
 - [Sahil Gupta](https://github.com/LAS3RBOY)
 - [mangoisbest](https://github.com/mangoisbest)
 - [MariNadile](https://github.com/MariNadile)
+- [Jamie Codez](https://github.com/jamie-codez)
 - [unpluggedsam](https://github.com/unpluggedsam)
 - [JasminTajShaik](https://github.com/JasminTajShaik2601)
 - [Nishant Kumar](https://github.com/thinkwithcode)
