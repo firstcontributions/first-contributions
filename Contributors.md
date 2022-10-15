@@ -1,6 +1,7 @@
 ﻿# Contributors
 
-<!-- prettier-ignore-start -->:
+<!-- prettier-ignore-start -->
+- [Bharat Mishra](https://github.com/BMlookingforaW)
 - [Oleynikov Danil] (https://github.com/Ondotteess)
 - [Shivam Jha](https://github.com/shivjha-27
 - [Abdullatif Khayat](https://github.com/Abdullatif-K123)
