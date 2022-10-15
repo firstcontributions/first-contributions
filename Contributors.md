@@ -8,6 +8,7 @@
  -[Vijay](https://github.com/developer-vijay)
 - [Huzaifa Qureshi] (https://github.com/Huzaifa-code)
 - [oshiqi](https://github.com/oshiqi)
+- [Sherly Febrianti](https://github.com/sherlyfebrianti96)
 - [Giuliano Marcus Bianco](https://github.com/giuliano-marcus-bianco)
 - [Niket Tiwari](https://github.com/Tiwari-Niket )
 - [Abhi Patel](https://github.com/AbhiPatel10 )
