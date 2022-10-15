@@ -32,6 +32,7 @@
 - [KacperC](https://github.com/CKacper)
 - [varshanookarapu]
 -[bhanu]
+- [Luis Pedreira] (https://github.com/luisepedreira)
 - [Farhan khan](https://github.com/farhanalws4u)
 - [Niklas Betke](https://github.com/nikbetke)
 - [Oluwatimilehin Esan](https://github.com/therealtmmy)
