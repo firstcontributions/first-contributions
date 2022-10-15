@@ -1,6 +1,7 @@
 # Contributors
 
-<!-- prettier-ignore-start -->:         
+<!-- prettier-ignore-start -->:
+- [Abhi Patel](https://github.com/AbhiPatel10 )
 - [Yatndeep Dubey](https://github.com/Yatndeep )
 - [Fatin Almalik](https://github.com/Fatin-Almalik)
 - [PatentLobster](https://github.com/PatentLobster)
