@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->:
 - [Suchit](https://github.com/Suchitsj12)
+- [Gaby Victoria](https://github.com/GabyVictoria0122)
  -[Vijay](https://github.com/developer-vijay)
 - [oshiqi](https://github.com/oshiqi)
 - [Giuliano Marcus Bianco](https://github.com/giuliano-marcus-bianco)
