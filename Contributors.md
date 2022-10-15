@@ -66,6 +66,7 @@
 - [jiwonqaz](https://github.com/jiwonqaz)
 - [chowonbhin](https://github.com/chowonbhin)
 - [mimeosd](https://github.com/mimeosd)
+- [Tanmay Pradhan](https://github.com/tanmaypradhan4112)
 - [Chirag Goyal](https://github.com/ChiragGoyal98)
 - [Animesh Singh](https://github.com/Animesh0764)
 - [Jeet Oza](https://github.com/Oza-Jeetkumar-Vishnubhai)
