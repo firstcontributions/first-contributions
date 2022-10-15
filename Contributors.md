@@ -11,6 +11,7 @@
 - [Abdelkarim](https://github.com/badelgeek)
 - [Sai Kiran]
 - [Sunday P. Afolabi](https://github.com/Lecon-a)
+- [Kompal Layal](https://github.com/komproximal)
 - [Jonatassn](https://github.com/jonatassn)
 - [Bo Louie]
 - [Hywenklis Rherbert](https://github.com/hywenklis)
