@@ -4,6 +4,7 @@
 - [Suchit](https://github.com/Suchitsj12)
  -[Vijay](https://github.com/developer-vijay)
 - [oshiqi](https://github.com/oshiqi)
+- [Giuliano Marcus Bianco](https://github.com/giuliano-marcus-bianco)
 - [Niket Tiwari](https://github.com/Tiwari-Niket )
 - [Abhi Patel](https://github.com/AbhiPatel10 )
 - [Yatndeep Dubey](https://github.com/Yatndeep )
