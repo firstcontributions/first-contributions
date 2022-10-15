@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
+- [Rahul Saha](https://github.com/Rahul10Saha)
 - [Bharat Mishra](https://github.com/BMlookingforaW)
 - [Oleynikov Danil] (https://github.com/Ondotteess)
 - [Shivam Jha](https://github.com/shivjha-27
@@ -3199,6 +3200,7 @@
 - [Ritesh Kumar](https://github.com/Riteshvs)
 - [Mohit Parmar](https://github.com/mohitparmar1)
 - [Namit Dasappanavar](https://github.com/namit343)
+- [Poonam Parate](https://github.com/HeYPoonam)
 - [Jst Vex](https://github.com/JstVex)
 - [Fawad Shah](https://github.com/codemasters2624)
 - [Deepank Pushpad](https://github.com/DeepankRx)
