@@ -1,8 +1,9 @@
-# Contributors
+﻿# Contributors
 
 <!-- prettier-ignore-start -->:
 - [Oleynikov Danil] (https://github.com/Ondotteess)
 - [Shivam Jha](https://github.com/shivjha-27
+- [Abdullatif Khayat](https://github.com/Abdullatif-K123)
 - [Varun Kumar](https://github.com/kukutapuvarun) 
 - [Suchit](https://github.com/Suchitsj12)
 - [Gaby Victoria](https://github.com/GabyVictoria0122)
