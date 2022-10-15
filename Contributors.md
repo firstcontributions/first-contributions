@@ -814,6 +814,7 @@
 - [Andrew Onaulogho](https://github.com/RealOcee)
 - [Anurag Rawat](https://github.com/Anurag-NURA)
 - [Trey_Crank](https://github.com/TreyTC)
+- [Jeziel Almeida](https://github.com/jeziel-almeida)
 - [Youmi Koh](https://github.com/youmikoh)
 - [segoSambel](https://github.com/segoSambel)
 - [WerG0D](https://github.com/WerG0D)
