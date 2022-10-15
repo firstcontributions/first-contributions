@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Fatin Almalik](https://github.com/Fatin-Almalik)
 - [PatentLobster](https://github.com/PatentLobster)
 - [Aditya Vijay](https://github.com/kiriotheo)
 - [Indranil Saha](https://github.com/saha-indranil)
