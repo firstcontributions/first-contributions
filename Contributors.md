@@ -25,6 +25,7 @@
 - [Domenico Ivan Fortuna](https://github.com/dromex22)
 - [Aksheet10](https://github.com/Aksheet10)
 - [David Letaw](https://github.com/davidletaw)
+- [Sam Erde](https://github.com/SamErde)
 - [Abdelkarim](https://github.com/badelgeek)
 - [Sai Kiran]
 - [Sunday P. Afolabi](https://github.com/Lecon-a)
