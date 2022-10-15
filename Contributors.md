@@ -79,7 +79,6 @@
 - [Etinosa Ekhator](https://github.com/Etinosa22)
 - [seongjunyeong](https://github.com/seongjunyeong)
 - [Jungmw03](https://github.com/Jungmw03)
-- [Jawwad Alam](https://github.com/JawwadAlam)
 - [yutakdv](https://github.com/yutakdv)
 - [TurtleJay](https://github.com/TurtleJay)
 - [Gaurav Giri](https://github.com/gaurovgiri)
@@ -3714,4 +3713,4 @@ first contributions - hanyang univ.
 - [Ikram](https://github.com/kamibel)
 - [Suraj](https://github.com/Surajkumar98012)
 -[yash](https://github.com/yashkondajisonawane)
--[]
+-[Arjun](https://github.com/arjun434)
