@@ -1703,6 +1703,7 @@
 - [Maria Mills] (https://github.com/mariamills)
 - [Micah Gant](https://github.com/micah-gant/first-contributions)
 - [NorwegianIcecube](https://github.com/NorwegianIcecube/first-contributions)
+- [Ivan Trepakov](https://github.com/liontiger23)
 - [Mizraim](https://github.com/mizraimn/first-contributions)
 - [Rajoni Akter](https://github.com/rajoniakter)
 - [Jeremy Krans](https://github.com/Jkrans)
