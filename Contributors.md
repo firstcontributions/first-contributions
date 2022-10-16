@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 <!-- prettier-ignore-start -->
 - [Alex Buser](https://github.com/Albuser)
@@ -3766,3 +3766,6 @@ first contributions - hanyang univ.
 - [Ayush Srivastava](https://github.com/ayush91985)
 - [Sergei Shtukaturov](https://github.com/Zimovit/)
 - [Akruti Sarangi](https://github.com/avi78)
+- [Hrishi](https://github.com/Excalibur1999)
+-[]
+
