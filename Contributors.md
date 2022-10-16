@@ -1505,6 +1505,7 @@
 - [Justin Reian Mercado](https://github.com/jrbmercado)
 - [M Coffee](https://github.com/MdmCoffee)
 - [Sulaiman Aminu Barkindo](https://github.com/SulaimanAminuBarkindo)
+- [Vishwa](https://github.com/VishwaS-22)
 - [Prince Kumar](https://github.com/prince14322)
 - [Francis Karuri](https://github.com/LUCASFRANKINC)
 - [Narendra kumar](https://github.com/wdnarendra/)
@@ -3790,3 +3791,4 @@ first contributions - hanyang univ.
 - [Nitya Shukla](https://github.com/NityaShukla0)
 - [Daniil Parshukov](https://github.com/DaniilParshukov)
 - [Carlos Andres](https://github.com/carlostechinnovation)
+- [Ayman Sayed](https://github.com/ayman-tech) 👋
