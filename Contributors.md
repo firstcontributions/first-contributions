@@ -8,6 +8,7 @@
 - [Ehmad Saeed](https://github.com/ehmadsaeed)
 - [Alex Buser](https://github.com/Albuser)
 - [Rahul Saha](https://github.com/Rahul10Saha)
+- [Jose Armando](https://github.com/Armando-Grados)
 - [Bharat Mishra](https://github.com/BMlookingforaW)
 - [Oleynikov Danil] (https://github.com/Ondotteess)
 - [Shivam Jha](https://github.com/shivjha-27
