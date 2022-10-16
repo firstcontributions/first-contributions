@@ -4,6 +4,7 @@
 - [Abdelkarim](https://github.com/badelgeek)
 - [Sai Kiran]
 - [Jonatassn](https://github.com/jonatassn)
+- [Plakaap] (https://github.com/Plakaap-deBon)
 - [Hywenklis Rherbert](https://github.com/hywenklis)
 - [KacperC](https://github.com/CKacper)
 - [varshanookarapu]
