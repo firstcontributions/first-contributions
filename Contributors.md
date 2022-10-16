@@ -4,6 +4,7 @@
 - [Alex Buser](https://github.com/Albuser)
 - [Rahul Saha](https://github.com/Rahul10Saha)
 - [Bharat Mishra](https://github.com/BMlookingforaW)
+- [Khusbu Gupta](https://github.com/Khusbu853)
 - [Oleynikov Danil] (https://github.com/Ondotteess)
 - [Shivam Jha](https://github.com/shivjha-27
 - [Abdullatif Khayat](https://github.com/Abdullatif-K123)
@@ -3749,7 +3750,6 @@
 - [Lexzee](https://github.com/lexzee)
 - [Atharvasaraiya](https://github.com/Atharvasaraiya)
 - [The_Baum] (https://github.com/TheBaum123)
-- [Kunal Pitale](https://github.com/iamkunalpitale)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
 - [Ishaan Loomba](https://github.com/ishaan191220)
@@ -3769,4 +3769,3 @@ first contributions - hanyang univ.
 - [Sergei Shtukaturov](https://github.com/Zimovit/)
 - [Hrishi](https://github.com/Excalibur1999)
 -[]
-- [Uday Kharatmol](https://github.com/UdayKharatmol)
