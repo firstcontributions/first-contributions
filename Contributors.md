@@ -21,6 +21,7 @@
 - [Gaby Victoria](https://github.com/GabyVictoria0122)
 - [Corentin Gouanvic](https://github.com/Stoaties)
 - [Luba Kolbasova](https://github.com/Lubow-k)
+- [Elias Angulo] (https://github.com/emangulo)
 - [Reece Brogden](https://github.com/Alibaba544)
  -[Vijay](https://github.com/developer-vijay)
 - [Huzaifa Qureshi] (https://github.com/Huzaifa-code)
