@@ -158,6 +158,7 @@
 - [Aditya Pudaruth](https://github.com/Aditya-Pudaruth)
 - [Dmitrii Sidenko](https://github.com/DmSide)
 - [Santiago Urbano](https://github.com/sanurb)
+- [Hetarth Raval]
 - [Robin Maheshwary](https://github.com/RobinMaheshwary)
 - [Md Abu Bakkar Siddiqe Sajib](https://github.com/19sajib)
 - [Jay Ubisse](https://github.com/Jay-Ubisse)
