@@ -3748,6 +3748,7 @@
 - [Lexzee](https://github.com/lexzee)
 - [Atharvasaraiya](https://github.com/Atharvasaraiya)
 - [The_Baum] (https://github.com/TheBaum123)
+- [Kunal Pitale](https://github.com/iamkunalpitale)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
 - [Ishaan Loomba](https://github.com/ishaan191220)
