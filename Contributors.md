@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [shashank-gupta](https://github.com/shashank-2310/)
 - [bungbloopity](https://github.com/bungbloopity/)
+- [Aleksandr Bochkarev](https://github.com/sash00k/)
 - [Ayush Shete](https://github.com/ayushete02)
 - [Rishabh Gist](https://github.com/rishabhgist)
 - [Tanmay Bhujade](https://github.com/Tanmaybhujade)
