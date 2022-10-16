@@ -773,6 +773,7 @@
 - [Osman Batur Çelik](https://github.com/osmnbtrclk)
 - [Surbhi Mayank](https://github.com/surbhi2408)
 - [Abhay Chandel](https://github.com/iabhaychandel)
+- [Ritik Sethi](https://github.com/ritiksethi21)
 - [Mohammed Siddiqui](https://github.com/MohammedSiddiqui747)
 - [Rama Bhala](https://github.com/RamaBhala)
 - [jayesh Bakle](https://github.com/jayesh-bakle)
