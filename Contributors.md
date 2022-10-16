@@ -3773,7 +3773,6 @@
 - [The_Baum] (https://github.com/TheBaum123)
 - [Kunal Pitale](https://github.com/iamkunalpitale)
 - [Rimon Sade](https://github.com/Rimonaldo)
-<!-- prettier-ignore-end -->
 first contributions - hanyang univ.
 - [Ishaan Loomba](https://github.com/ishaan191220)
 - [SreeragR](https://github.com/SREERAGRAYIRATH404)
@@ -3798,4 +3797,6 @@ first contributions - hanyang univ.
 - [Daniil Parshukov](https://github.com/DaniilParshukov)
 - [Ayman Sayed](https://github.com/ayman-tech) 👋
 -[Deep Chakraborty]{https://github.com/into-deepth}
+- [Augusta](https://github.com/AugustaSousa)
 - [Aamir041](https://github.com/Aamir041)
+<!-- prettier-ignore-end -->
