@@ -3637,6 +3637,7 @@
 - [Abhishek Singh](https://github.com/kunwarabhi7)
 - [Miguel Steven Nguyen](https://github.com/Msninmx)
 - [Disha Chowdhury](https://github.com/Disha246)
+- [Sandra Ma](https://github.com/AleksandraMaa)
 - [Isha Tripathi](https://github.com/ishatri)
 - [Nikhil Reddy](https://github.com/n1ght-k1ng)
 - [neo](https://github.com/neocollege)
