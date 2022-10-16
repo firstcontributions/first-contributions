@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [bungbloopity](https://github.com/bungbloopity/)
 - [Ayush Shete](https://github.com/ayushete02)
 - [Rishabh Gist](https://github.com/rishabhgist)
 - [Tanmay Bhujade](https://github.com/Tanmaybhujade)
