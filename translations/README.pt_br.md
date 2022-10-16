@@ -106,7 +106,7 @@ Agora você pode colaborar com outros projetos. Nós compilamos uma lista de pro
 
 ## Tutoriais usando outras ferramentas
 
-|<a href="../gui-tool-tutorials/translations/github-desktop-tutorial.pt_br.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../gui-tool-tutorials/translations/github-windows-intellij-tutorial.pt_br.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
-|---|---|
-|[GitHub Desktop](../gui-tool-tutorials/translations/github-desktop-tutorial.pt_br.md)|[IntelliJ IDEA](../gui-tool-tutorials/translations/github-windows-intellij-tutorial.pt_br.md)         |
 
+|<a href="../gui-tool-tutorials/translations/github-desktop-tutorial.pt_br.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/translations/github-windows-intellij-tutorial.pt_br.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             |  [IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
