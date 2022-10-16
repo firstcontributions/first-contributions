@@ -74,7 +74,6 @@
 - [Srijanya Durganala](https://github.com/Srijanya.D)
 - [TusharPramanick](https://github.com/TusharPramanick)
 - [Krishan-Walia](https://github.com/krishanwalia30)
-- [Timothy Chua](https://github.com/tdchua)
 - [Krishan-Kant-11](https://github.com/Krishan-Kant-11)
 - [KiriNeTo](https://github.com/KiriNeTo)
 - [Martin Poncio](https://github.com/lmponcio)
@@ -3768,5 +3767,5 @@ first contributions - hanyang univ.
 - [Ayush Srivastava](https://github.com/ayush91985)
 - [Sergei Shtukaturov](https://github.com/Zimovit/)
 - [Hrishi](https://github.com/Excalibur1999)
--[]
+- [Rahul Talukdar](https://github.com/rahultalukdargithub)
 - [Uday Kharatmol](https://github.com/UdayKharatmol)
