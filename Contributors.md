@@ -3795,3 +3795,4 @@ first contributions - hanyang univ.
 - [Nitya Shukla](https://github.com/NityaShukla0)
 - [Daniil Parshukov](https://github.com/DaniilParshukov)
 - [Ayman Sayed](https://github.com/ayman-tech) 👋
+- [Linus Frederik Müller](https://github.com/linusfm)
