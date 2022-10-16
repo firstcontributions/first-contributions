@@ -7,7 +7,8 @@
 - [Oleynikov Danil] (https://github.com/Ondotteess)
 - [Shivam Jha](https://github.com/shivjha-27
 - [Abdullatif Khayat](https://github.com/Abdullatif-K123)
-- [Varun Kumar](https://github.com/kukutapuvarun) 
+- [Varun Kumar](https://github.com/kukutapuvarun)
+- [Manish Kumar] (https://github.com/iamanishh)
 - [Suchit](https://github.com/Suchitsj12)
 - [Gaby Victoria](https://github.com/GabyVictoria0122)
 - [Reece Brogden](https://github.com/Alibaba544)
