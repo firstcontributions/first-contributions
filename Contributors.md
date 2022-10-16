@@ -1,5 +1,5 @@
 # Contributors
-
+- [kickJS22](https://github.com/kickJS22)
 <!-- prettier-ignore-start -->
 - [shashank-gupta](https://github.com/shashank-2310/)
 - [bungbloopity](https://github.com/bungbloopity/)
