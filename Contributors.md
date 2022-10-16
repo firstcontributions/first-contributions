@@ -191,6 +191,7 @@
 - [Rishi Mathur](https://github.com/skyrunner360)
 - [Ajay Bairwa](https://github.com/bairwa25)
 - [Shazia Khatoon]
+- [Chhaganlaal](https://github.com/Chhaganlaal)
 - [Chandra Kiran](https://github.com/chandra-kiran1)
 - [Aryan Thakore](https://github.com/Aryan1982)
 - [Hamza Nehme](https://github.com/hnehme99)
@@ -1508,6 +1509,7 @@
 - [Aayush Gulia](https://github.com/aayushgulia666)
 - [Justin Reian Mercado](https://github.com/jrbmercado)
 - [M Coffee](https://github.com/MdmCoffee)
+- [Prem Kumar](https://github.com/wicked-smart)
 - [Sulaiman Aminu Barkindo](https://github.com/SulaimanAminuBarkindo)
 - [Vishwa](https://github.com/VishwaS-22)
 - [Prince Kumar](https://github.com/prince14322)
@@ -3771,7 +3773,6 @@
 - [The_Baum] (https://github.com/TheBaum123)
 - [Kunal Pitale](https://github.com/iamkunalpitale)
 - [Rimon Sade](https://github.com/Rimonaldo)
-<!-- prettier-ignore-end -->
 first contributions - hanyang univ.
 - [Ishaan Loomba](https://github.com/ishaan191220)
 - [SreeragR](https://github.com/SREERAGRAYIRATH404)
@@ -3797,3 +3798,5 @@ first contributions - hanyang univ.
 - [Ayman Sayed](https://github.com/ayman-tech) 👋
 -[Deep Chakraborty]{https://github.com/into-deepth}
 - [Augusta](https://github.com/AugustaSousa)
+- [Aamir041](https://github.com/Aamir041)
+<!-- prettier-ignore-end -->
