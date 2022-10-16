@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Ayush Shete](https://github.com/ayushete02)
+- [Rishabh Gist](https://github.com/rishabhgist)
 - [Tanmay Bhujade](https://github.com/Tanmaybhujade)
 - [Ehmad Saeed](https://github.com/ehmadsaeed)
 - [Alex Buser](https://github.com/Albuser)
