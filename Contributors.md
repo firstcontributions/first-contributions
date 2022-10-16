@@ -22,6 +22,7 @@
 - [Abhi Patel](https://github.com/AbhiPatel10 )
 - [Yatndeep Dubey](https://github.com/Yatndeep )
 - [Fatin Almalik](https://github.com/Fatin-Almalik)
+- [Arnaduga](https://github.com/arnaduga)
 - [PatentLobster](https://github.com/PatentLobster)
 - [Aditya Vijay](https://github.com/kiriotheo)
 - [Indranil Saha](https://github.com/saha-indranil)
