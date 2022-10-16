@@ -74,6 +74,7 @@
 - [Srijanya Durganala](https://github.com/Srijanya.D)
 - [TusharPramanick](https://github.com/TusharPramanick)
 - [Krishan-Walia](https://github.com/krishanwalia30)
+- [Timothy Chua](https://github.com/tdchua)
 - [Krishan-Kant-11](https://github.com/Krishan-Kant-11)
 - [KiriNeTo](https://github.com/KiriNeTo)
 - [Martin Poncio](https://github.com/lmponcio)
