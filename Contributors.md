@@ -1912,6 +1912,7 @@
 - [Emil](https://github.com/nbz406)
 - [Adriane Troy U. Alariao](https://github.com/atualariao)
 - [Ryan Efaw](https://github.com/ether3al7)
+- [Marcelo Fantini](https://github.com/MarkFantini)
 - [Rakshit Shetty ✨✨](https://github.com/Rakxit-Shetty)
 - [Julian Schiedel](https://github.com/palladio11)
 - [Francis Alegre](https://github.com/francisaerol)
