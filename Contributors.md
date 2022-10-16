@@ -3829,4 +3829,4 @@ first contributions - hanyang univ.
 - [Subhamay Dhara](https://github.com/dharasubhamay)
 - [Kaarthikeyan Raghavan](https://github.com/kragh-dev)
 - [Danish Jedhava](https://girhub.com/jedhava3240) 
-- [Mahfooz Alam] (https://github.com/Mahfoozalam1516)
+- [Mahfooz Alam](https://github.com/Mahfoozalam1516)
