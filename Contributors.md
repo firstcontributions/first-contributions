@@ -3803,6 +3803,7 @@ first contributions - hanyang univ.
 - [Swaraj Patil](https://github.com/Swaraj57)
 - [Nitya Shukla](https://github.com/NityaShukla0)
 - [Daniil Parshukov](https://github.com/DaniilParshukov)
+- [Carlos Andres](https://github.com/carlostechinnovation)
 - [Ayman Sayed](https://github.com/ayman-tech) 👋
 -[Deep Chakraborty]{https://github.com/into-deepth}
 - [Aamir041](https://github.com/Aamir041)
