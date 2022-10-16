@@ -47,6 +47,7 @@
 - [Bo Louie]
 - [Hywenklis Rherbert](https://github.com/hywenklis)
 - [KacperC](https://github.com/CKacper)
+- [Petruneva Tasia](https://github.com/Petruneva Tasia)
 - [varshanookarapu]
 - [Nikhil S Kalburgi](https://github.com/nikhilkalburgi)
 -[bhanu]
