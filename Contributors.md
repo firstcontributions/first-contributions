@@ -12,6 +12,7 @@
 - [Abdullatif Khayat](https://github.com/Abdullatif-K123)
 - [Varun Kumar](https://github.com/kukutapuvarun)
 - [Manish Kumar] (https://github.com/iamanishh)
+- [Amina Shellman](https://github.com/ohyahgit)
 - [Suchit](https://github.com/Suchitsj12)
 - [Gaby Victoria](https://github.com/GabyVictoria0122)
 - [Corentin Gouanvic](https://github.com/Stoaties)
