@@ -188,6 +188,7 @@
 - [Ajay Bairwa](https://github.com/bairwa25)
 - [Shazia Khatoon]
 - [Chandra Kiran](https://github.com/chandra-kiran1)
+- [Aryan Thakore](https://github.com/Aryan1982)
 - [Hamza Nehme](https://github.com/hnehme99)
 - [Chris Boles](https://github.com/cboles80)
   [Dev-it-a-dev](https://github.com/dev-it-a-dev)
