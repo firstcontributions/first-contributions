@@ -7,9 +7,11 @@
 - [Oleynikov Danil] (https://github.com/Ondotteess)
 - [Shivam Jha](https://github.com/shivjha-27
 - [Abdullatif Khayat](https://github.com/Abdullatif-K123)
-- [Varun Kumar](https://github.com/kukutapuvarun) 
+- [Varun Kumar](https://github.com/kukutapuvarun)
+- [Manish Kumar] (https://github.com/iamanishh)
 - [Suchit](https://github.com/Suchitsj12)
 - [Gaby Victoria](https://github.com/GabyVictoria0122)
+- [Corentin Gouanvic](https://github.com/Stoaties)
 - [Reece Brogden](https://github.com/Alibaba544)
  -[Vijay](https://github.com/developer-vijay)
 - [Huzaifa Qureshi] (https://github.com/Huzaifa-code)
@@ -39,6 +41,7 @@
 - [Hywenklis Rherbert](https://github.com/hywenklis)
 - [KacperC](https://github.com/CKacper)
 - [varshanookarapu]
+- [Nikhil S Kalburgi](https://github.com/nikhilkalburgi)
 -[bhanu]
 - [Luis Pedreira] (https://github.com/luisepedreira)
 - [Farhan khan](https://github.com/farhanalws4u)
@@ -74,6 +77,7 @@
 - [Srijanya Durganala](https://github.com/Srijanya.D)
 - [TusharPramanick](https://github.com/TusharPramanick)
 - [Krishan-Walia](https://github.com/krishanwalia30)
+- [Timothy Chua](https://github.com/tdchua)
 - [Krishan-Kant-11](https://github.com/Krishan-Kant-11)
 - [KiriNeTo](https://github.com/KiriNeTo)
 - [Martin Poncio](https://github.com/lmponcio)
