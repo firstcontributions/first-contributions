@@ -1435,6 +1435,7 @@
 - [Celia Bruner](https://github.om/kiddo7565)
 - [Nile Roth](https://github.com/nilewuzhere)
 - [Veronica Cardenas](https://github.com/Wh0a-br0)
+- [Thea Milesi](https://github.com/cup-of-thea)
 - [Vivek Kumar Singh](https://github.com/vivekthedev)
 - [Vishesh Kumar Mishra](https://github.com/texastiger9098)
 - [Lysander Pitu](https://github.com/Lys4nder)
