@@ -3821,3 +3821,4 @@ first contributions - hanyang univ.
 - [Shubham Soni](https://github.com/shubhamsoni0956)
 - [Ghada AbdulWahab](https://github.com/puregeeknerd) 
 - [Devanshu Koli](https://github.com/Devanshukoli)
+- [Daniele Avolio](https://github.com/danieleavolio)
