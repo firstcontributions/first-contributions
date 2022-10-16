@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Ayush Shete](https://github.com/ayushete02)
 - [Tanmay Bhujade](https://github.com/Tanmaybhujade)
 - [Alex Buser](https://github.com/Albuser)
 - [Rahul Saha](https://github.com/Rahul10Saha)
