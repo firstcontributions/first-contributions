@@ -2951,6 +2951,7 @@
 - [luyan] (https://github.com/luyan0422)
 - [Kibi](https://github.com/Kibiandkimi)
 - [Gw3i](https://github.com/Gw3i)
+- [Prithwish Ghosh](https://github.com/secretSocrates)
 - [Konisha](https://github.com/koni24)
 - [Devesh Mehra](https://github.com/MehraDevesh2022)
 - [Unique](https://github.com/Unique-py)
