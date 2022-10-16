@@ -4,6 +4,7 @@
 
 - [Ayush Shete](https://github.com/ayushete02)
 - [Tanmay Bhujade](https://github.com/Tanmaybhujade)
+- [Ehmad Saeed](https://github.com/ehmadsaeed)
 - [Alex Buser](https://github.com/Albuser)
 - [Rahul Saha](https://github.com/Rahul10Saha)
 - [Bharat Mishra](https://github.com/BMlookingforaW)
@@ -15,6 +16,7 @@
 - [Suchit](https://github.com/Suchitsj12)
 - [Gaby Victoria](https://github.com/GabyVictoria0122)
 - [Corentin Gouanvic](https://github.com/Stoaties)
+- [Luba Kolbasova](https://github.com/Lubow-k)
 - [Reece Brogden](https://github.com/Alibaba544)
   -[Vijay](https://github.com/developer-vijay)
 - [Huzaifa Qureshi] (https://github.com/Huzaifa-code)
@@ -193,6 +195,7 @@
 - [Rishi Mathur](https://github.com/skyrunner360)
 - [Ajay Bairwa](https://github.com/bairwa25)
 - [Shazia Khatoon]
+- [Chhaganlaal](https://github.com/Chhaganlaal)
 - [Chandra Kiran](https://github.com/chandra-kiran1)
 - [Aryan Thakore](https://github.com/Aryan1982)
 - [Hamza Nehme](https://github.com/hnehme99)
@@ -3793,18 +3796,19 @@ first contributions - hanyang univ.
 - [Harshda](https://github.com/harshdaojha)
 - [Ikram](https://github.com/kamibel)
 - [Suraj](https://github.com/Surajkumar98012)
-  -[yash](https://github.com/yashkondajisonawane)
+- [yash](https://github.com/yashkondajisonawane)
 - [Mehedi Hasan](https://github.com/mytaison)
 - [Okvi DS](https://github.com/Dwisantra/)
 - [pioneersTeam](https://github.com/zaidanali028/first-contributions)
 - [Ayush Srivastava](https://github.com/ayush91985)
 - [Sergei Shtukaturov](https://github.com/Zimovit/)
 - [Hrishi](https://github.com/Excalibur1999)
-  -[]
 - [Uday Kharatmol](https://github.com/UdayKharatmol)
 - [Swaraj Patil](https://github.com/Swaraj57)
 - [Nitya Shukla](https://github.com/NityaShukla0)
 - [Daniil Parshukov](https://github.com/DaniilParshukov)
 - [Ayman Sayed](https://github.com/ayman-tech) 👋
-  -[Deep Chakraborty]{https://github.com/into-deepth}
+- [Deep Chakraborty]{https://github.com/into-deepth}
 - [Aamir041](https://github.com/Aamir041)
+- [shuvadeep](https://github.com/shuvadeepp)
+
