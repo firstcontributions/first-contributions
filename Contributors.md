@@ -3720,6 +3720,7 @@
 - [Nathalia Araújo](https://github.com/nathaliafab)
 - [🔥Ibrahima Sory Diallo Diallo🔥](https://github.com/sorydi3)
 - [Luciane Fernandes Roque](https://github.com/LucianeFernandesRoque)
+- [Aadhya Mathur](https://github.com/aadhyamathur)
 - [nikolatesla20](https://github.com/nikolatesla20)
 - [Dennis Siqueira 🇧🇷](https://github.com/dennissiq)
 - [Leticia Hashimoto](https://github.com/letyhashimoto)
