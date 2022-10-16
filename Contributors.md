@@ -37,6 +37,7 @@
 - [Sai Kiran]
 - [Sunday P. Afolabi](https://github.com/Lecon-a)
 - [Krishi Pratim Sarma](https://github.com/Krishi34S)
+- [Amandeep Singh](https://github.com/ASA-HELPER)
 - [Kompal Layal](https://github.com/komproximal)
 - [Jonatassn](https://github.com/jonatassn)
 - [Jackeline do Nascimento] (https://github.com/jackelinenascimento)
