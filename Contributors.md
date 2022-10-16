@@ -773,6 +773,7 @@
 - [Dex_Lulz](https://github.com/DexLulz)
 - [Will Chow](https://github.com/will-chow)
 - [Sk Tamim](https://github.com/SkTamim)
+- [Shruti Agarwal](https://github.com/shruti73)
 - [Houssine Aadou](https://github.com/Dark-Lover)
 - [Tony Nonso Onwuli](https://github.com/TonyKodit)
 - [Sanjay RB](https://github.com/sanjay-rb)
