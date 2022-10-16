@@ -8,6 +8,7 @@
 - [Rahul Saha](https://github.com/Rahul10Saha)
 - [Bharat Mishra](https://github.com/BMlookingforaW)
 - [Oleynikov Danil] (https://github.com/Ondotteess)
+- [Smart-Peach](https://github.com/Smart-Peach)
 - [Shivam Jha](https://github.com/shivjha-27
 - [Abdullatif Khayat](https://github.com/Abdullatif-K123)
 - [Varun Kumar](https://github.com/kukutapuvarun)
