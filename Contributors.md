@@ -29,6 +29,7 @@
 - [Arnaduga](https://github.com/arnaduga)
 - [PatentLobster](https://github.com/PatentLobster)
 - [Aditya Vijay](https://github.com/kiriotheo)
+- [Strelets Alexander](https://github.com/Tenkoru)
 - [Indranil Saha](https://github.com/saha-indranil)
 - [Arunima Chaudhuri](https://github.com/tinniaru3005)
 - [Domenico Ivan Fortuna](https://github.com/dromex22)
