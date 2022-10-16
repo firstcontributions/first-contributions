@@ -3378,6 +3378,7 @@
 - [David](https://github.com/dvlwj)
 - [Het Dave](https://github.com/het-dave)
 - [Nikita Koselev](https://github.com/nikitakoselev)
+- [Akshay Raghunandan] (https://github.com/akshayrs3)
 - [Ebrima Barry](https://github.com/ebrimaporeh)
 - [Idrak Sheikh](https://github.com/idraksheikh)
 - [Manish Singh Parihar](https://github.com/Msparihar)
