@@ -1614,6 +1614,7 @@
 - [TAMWO FEUWO FRANCK VALERE](https://github.com/ValereTamwo)
 - [Sridhar Sahu](https://github.com/SridharSahu-1)
 - [Ayush Ranjan](https://github.com/1610ayush)
+- [Ajitesh Srivastava](https://github.com/ajitesh0711)
 - [Dev Khant](https://github.com/Dev-Khant)
 - [Gustavo Cassalho](https://github.com/Hasllow)
 - [Alexander Nguyen](https://github.com/TheAlexN)
