@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [JOSE VEDIA](https://github.com/Jose-b-v)
 - [Ankit Kumar](https://github.com/ankitkumar3440)
 - [Sergey Novikov] (https://github.com/Isn0v)
 - [Souhil OMARI](https://github.com/Souhil19)
