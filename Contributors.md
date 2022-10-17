@@ -3894,3 +3894,4 @@ first contributions - hanyang univ.
 - [Soham Dalal] (https://github.com/dalalsoham)
 - [Ikziriv] (https://github.com/ikziriv)
 - [Muhammad Immad] (https://github.com/itsimmad)
+- [Ambar Kansal] (https://github.com/Ambarcode)
