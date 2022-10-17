@@ -48,6 +48,7 @@
 - [Giuliano Marcus Bianco](https://github.com/giuliano-marcus-bianco)
 - [Niket Tiwari](https://github.com/Tiwari-Niket )
 - [Abhi Patel](https://github.com/AbhiPatel10 )
+- [Marko Vitkovic](https://github.com/MarkoVitkovic)
 - [Yatndeep Dubey](https://github.com/Yatndeep )
 - [Fatin Almalik](https://github.com/Fatin-Almalik)
 - [Arnaduga](https://github.com/arnaduga)
