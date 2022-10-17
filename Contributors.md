@@ -319,6 +319,7 @@
 - [Jitesh Kumar](https://github.com/jiteshkumardj)
 - [Ronaldo Kereh](https://github.com/kereh)
 - [Saurabh Singh](https://github.com/saurabhsingh720)
+- [CLF](https://github.com/lchenc3)
 - [Anushka Das ](https://github.com/Soumi-igtm)
 - [Musketeer Computing] (https://github.com/musketeer-computing)
 - [Bikash yadav](https://github.com/bikashydv)
