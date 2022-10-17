@@ -3869,3 +3869,4 @@ first contributions - hanyang univ.
 - [Aditi Jain](https://github.com/EngineerAditijain)
 - [Nitish Jain](https://github.com/jainrocks)
 - [Antarin Karmakar](https://github.com/dukedom26)
+- [tarkojs](https://github.com/tarkojs)
