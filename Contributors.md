@@ -3824,6 +3824,7 @@
 -[Dennis Kemboi](https://github.com/Developer-Dennis)
 - [Chetan Sankhala](https://github.com/csankhala)
 - [Rutva Naik](https://github.com/NaikRutva)
+- [Bart Batalinski](https://github.com/bbatal)
 - [Mahesmati Maharana](https://github.com/Mahesmati)
 - [Siddhesh Sonar](https://github.com/DarkCode462)
 - [Pramod Jonwal] (https://github.com/jonwal4real)
