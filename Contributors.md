@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Abinash Kumar](https://github.com/abinash185)
 - [Mallela D. Vinay](https://github.com/MD571)
 - [Glitchr](https://github.com/Glitchr)
 - [Sithu Soe](https://github.com/SithuSoe153)
