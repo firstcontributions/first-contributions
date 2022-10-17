@@ -3879,3 +3879,4 @@ first contributions - hanyang univ.
 - [Antarin Karmakar](https://github.com/dukedom26)
 - [Muhammad Immad] (https://github.com/itsimmad)
 - [ChrisII](https://github.com/ChrisIIx)
+- [AngryChocobo](https://github.com/AngryChocobo)
