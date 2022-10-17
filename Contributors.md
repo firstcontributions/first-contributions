@@ -3884,3 +3884,4 @@ first contributions - hanyang univ.
 - [ChrisII](https://github.com/ChrisIIx)
 - [AngryChocobo](https://github.com/AngryChocobo)
 - [Rohan Richard](https://github.com/rohanprichard)
+- [Jitesh Tripathi](https://github.com/Jitesh02)
