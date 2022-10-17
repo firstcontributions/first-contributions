@@ -133,6 +133,7 @@
 - [sneha-2510](https://github.com/sneha-2510)
 - [javesshhh](https://github.com/javesshhh)
 - [KratikJain10](https://github.com/KratikJain10)
+- [RogueTM](https://github.com/RogueTMs)
 - [jiwonqaz](https://github.com/jiwonqaz)
 - [chowonbhin](https://github.com/chowonbhin)
 - [mimeosd](https://github.com/mimeosd)
