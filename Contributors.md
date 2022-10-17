@@ -3865,3 +3865,4 @@ first contributions - hanyang univ.
 - [Rohan Saini](https://github.com/Rohan-Saini7996)
 - [Sebastian Schmid-Schickhardt](https://github.com/Thekillingsound)
 - [Aditi Jain](https://github.com/EngineerAditijain)
+- [Nitish Jain](https://github.com/jainrocks)
