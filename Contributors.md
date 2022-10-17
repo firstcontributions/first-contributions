@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Mallela D. Vinay](https://github.com/MD571)
 - [Glitchr](https://github.com/Glitchr)
 - [Junsu An](https://github.com/anjjunsu/)
 - [Ziabeher Phillips](https://github.com/Zabzx)
