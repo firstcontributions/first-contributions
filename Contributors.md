@@ -1189,6 +1189,7 @@
 - [Janfred Ramirez] (https://github.com/janramirez)
 - [sanjay gm](https://github.com/gmsanajy/first-contributions.git)
 - [Atharva Gandhe](https://github.com/Chill-caster)
+- [Aaditya Said](https://github.com/JonSlow21)
 - [Mohit Kukreja](https://github.com/Mohit-Kukreja-2002)
 - [Nehal Sharma](https://github.com/nehallsharma)
 - [Harshwardhan Tanwar](https://github.com/harshxtanwar)
