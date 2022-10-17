@@ -62,6 +62,7 @@
 - [David Letaw](https://github.com/davidletaw)
 - [Sam Erde](https://github.com/SamErde)
 - [Danny Bae](https://github.com/danveb)
+- [Maxim Yolkin] (https://github.com/dramee)
 - [Abdelkarim](https://github.com/badelgeek)
 - [Sai Kiran]
 - [Sunday P. Afolabi](https://github.com/Lecon-a)
