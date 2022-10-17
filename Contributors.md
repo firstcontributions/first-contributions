@@ -3855,6 +3855,7 @@ first contributions - hanyang univ.
 - [Danish Jedhava](https://girhub.com/jedhava3240) 
 - [Mahfooz Alam] (https://github.com/Mahfoozalam1516)
 - [Ugik Mat](https://github.com/ugikmat)
+- [Bhagyaraju Pati](https://github.com/bhagi1289)
 - [Ayush Nandanwar](https://github.com/ayushnandanwar08)
 - [Rahul Patel](https://github.com/Patelrahul4884)
 - [Teddir](https://github.com/Teddir)
