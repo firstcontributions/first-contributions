@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Khaled](https://github.com/KALs3)
 - [Chani](https://github.com/ChaniDev)
 - [Meet Vansjaliya](https://github.com/meetvansjaliya)
 - [JOSE VEDIA](https://github.com/Jose-b-v)
