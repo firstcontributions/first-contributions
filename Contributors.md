@@ -79,6 +79,7 @@
 - [Anurag Yadav](https://github.com/Anurag41682)
   [Dolapo Ogunfowora] (https://github.com/oedjoat)
 - [Ryan Tin] (https://github.com/rtin1234)
+- [Autumn]
 - [Sam M'Backe]
 - [Simcha Newman]
 - [Jerad Sharp] (https://github.com/IronDiggy)
