@@ -14,6 +14,7 @@
 - [shashank-gupta](https://github.com/shashank-2310/)
 - [bungbloopity](https://github.com/bungbloopity/)
 - [Aleksandr Bochkarev](https://github.com/sash00k/)
+- [Zhenya Mateyuk](https://github.com/jEUGENEdev/)
 - [Soy el Yisus](https://github.com/Jebushdd)
 - [Ayush Shete](https://github.com/ayushete02)
 - [Rishabh Gist](https://github.com/rishabhgist)
