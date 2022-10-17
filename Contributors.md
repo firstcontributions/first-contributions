@@ -3895,3 +3895,4 @@ first contributions - hanyang univ.
 - [Ikziriv] (https://github.com/ikziriv)
 - [Muhammad Immad] (https://github.com/itsimmad)
 - [Ambar Kansal] (https://github.com/Ambarcode)
+- [Rishav Himmatramka](https://github.com/RishavHimmatramka)
