@@ -297,6 +297,7 @@
 - [Tanya Garg](https://github.com/tgag17/)
 - [Griffin](https://github.com/Midnightific)
 - [Georg Baumann](https://github.com/Georggit)
+- [CarlosCode](https://github.com/CarlosCode-GitHub)
 - [Pranvee Vashisht](https://github.com/PranveeVashisht)
 - [Programwithabhi](https://github.com/programwithabhi33)
 - [Juan Tellez](https://github.com/jmtellez)
