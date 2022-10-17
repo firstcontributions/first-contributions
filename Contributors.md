@@ -3814,6 +3814,7 @@
 - [Pramod Jonwal] (https://github.com/jonwal4real)
 - [Ramanujam](https://github.com/ramanujam001)
 - [Miranda Pothiawala](https://github.com/MirandaPoth)
+- [Ajay Kumar](https://github.com/thakurajay369)
 - [Hari Sankar](https://github.com/h4r1337)
 - [Kush Mittal](https://github.com/kushvau)
 - [Eric Njuguna](https://github.com/enjuguna)
