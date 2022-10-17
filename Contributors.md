@@ -18,6 +18,7 @@
 - [Artyom Malyarenko](https://github.com/malaartyom)
 - [Rahul Saha](https://github.com/Rahul10Saha)
 - [Jose Armando](https://github.com/Armando-Grados)
+- [MAHASAPU](https://github.com/MahasApu)
 - [Bharat Mishra](https://github.com/BMlookingforaW)
 - [Oleynikov Danil] (https://github.com/Ondotteess)
 - [Smart-Peach](https://github.com/Smart-Peach)
