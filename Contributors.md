@@ -2649,6 +2649,7 @@
 - [Justin McDonald](https://github.com/niceguy4)
 - [Jithan Gowda CK](https://github.com/JithanGowda)
 - [Lfh404](https://github.com/Lfh404)
+- [CaitM8Codes](https://github.com/CaitM8Codes)
 - [Thuany Soares](https://github.com/Thurunany)
 - [Kenneth Afegbai A](https://github.com/kennethafegbai)
 - [Debojit Pushilal](https://github.com/Evoder15)
