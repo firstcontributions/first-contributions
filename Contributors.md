@@ -4,6 +4,7 @@
 - [Ankit Kumar](https://github.com/ankitkumar3440)
 - [Anchal Kumar Chaudahry](https://github.com/anchal9670)
 - [Abinash Kumar](https://github.com/abinash185)
+[Chethas Pv](https://github.com/chethas7)
 - [Mallela D. Vinay](https://github.com/MD571)
 - [Glitchr](https://github.com/Glitchr)
 - [Sithu Soe](https://github.com/SithuSoe153)
