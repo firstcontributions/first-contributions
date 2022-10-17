@@ -2721,6 +2721,7 @@
 - [Leomhann](https://github.com/Benjamin-Boy)
 - [Nacnano](https://github.com/Nacnano)
 - [Yehoshua Ghitis](https://github.com/yehoshuajg)
+- [Anthony Behery](https://github.com/tarmacjupiter)
 - [Justin McLemore](https://github.com/justincredble)
 - [TheGodlyDemon](https://github.com/TheGodlyDemon)
 - [Alex Kokobane](https://github.com/alexkokobane)
