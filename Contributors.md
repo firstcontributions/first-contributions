@@ -415,9 +415,9 @@
 - [Tanuj Kalonia](https://github.com/Tanuj3662)
 - [Raji Roqeeb](https://github.com/Codebox124)
 - [Ken Durlin](https://github.com/kenthehuman/)
-- [Jatin Manoj](https://github.com/Jatin020403)
 - [Sanath Raj Petkar](https://github.com/kar108)
 - [Shreya Singh]
+- [Jatin Manoj](https://github.com/Jatin020403)
 - [Rohit Shah](https://github.com/RohitShah1706)
 - [Melanga Dissanayake](https://github.com/melanga)
 - [Utsab Kundu](https://github.com/Utsab5)
