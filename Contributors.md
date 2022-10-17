@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Mallela D. Vinay](https://github.com/MD571)
 - [Glitchr](https://github.com/Glitchr)
+- [Sithu Soe](https://github.com/SithuSoe153)
 - [Junsu An](https://github.com/anjjunsu/)
 - [Ziabeher Phillips](https://github.com/Zabzx)
 - [shashank-gupta](https://github.com/shashank-2310/)
@@ -319,6 +320,7 @@
 - [Jitesh Kumar](https://github.com/jiteshkumardj)
 - [Ronaldo Kereh](https://github.com/kereh)
 - [Saurabh Singh](https://github.com/saurabhsingh720)
+- [CLF](https://github.com/lchenc3)
 - [Anushka Das ](https://github.com/Soumi-igtm)
 - [Musketeer Computing] (https://github.com/musketeer-computing)
 - [Bikash yadav](https://github.com/bikashydv)
