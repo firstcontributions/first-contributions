@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Ankit Kumar](https://github.com/ankitkumar3440)
 - [Anchal Kumar Chaudahry](https://github.com/anchal9670)
 - [Abinash Kumar](https://github.com/abinash185)
 - [Mallela D. Vinay](https://github.com/MD571)
@@ -3866,3 +3867,4 @@ first contributions - hanyang univ.
 - [Sebastian Schmid-Schickhardt](https://github.com/Thekillingsound)
 - [Aditi Jain](https://github.com/EngineerAditijain)
 - [Abhishek Mahajan](https://github.com/abhishekmahajan0312)
+- [Nitish Jain](https://github.com/jainrocks)
