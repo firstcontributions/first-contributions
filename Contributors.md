@@ -58,6 +58,7 @@
 - [oshiqi](https://github.com/oshiqi)
 - [Giuliano Marcus Bianco](https://github.com/giuliano-marcus-bianco)
 - [Niket Tiwari](https://github.com/Tiwari-Niket )
+- [Jason Kasari](https://github.com/jkasari)
 - [Abhi Patel](https://github.com/AbhiPatel10 )
 - [Yatndeep Dubey](https://github.com/Yatndeep )
 - [Fatin Almalik](https://github.com/Fatin-Almalik)
