@@ -2511,6 +2511,7 @@
 - [Jae Lee](https://github.com/jaegl)
 - [Patrick Lee](https://github.com/panda0nion)
 - [Shpio](https://github.com/shpio)
+- [Ayush Shakya](https://github.com/ayushshakyag)
 - [shahin rizwana](https://github.com/shahin2003)
 - [Kael](https://github.com/Dwctor)
 - [Deep Shah](https://github.com/DeepShah99)
