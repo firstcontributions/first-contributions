@@ -3886,3 +3886,4 @@ first contributions - hanyang univ.
 - [AngryChocobo](https://github.com/AngryChocobo)
 - [Rohan Richard](https://github.com/rohanprichard)
 - [Jitesh Tripathi](https://github.com/Jitesh02)
+- [Muhammad Shiddiq Fathullah](https://github.com/mas-diq)
