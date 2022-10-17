@@ -792,7 +792,6 @@
 - [iilou] (https://github.com/iilou)
 - [Shantanu kumar](https://github.com/Shantanu29kumar)
 - [Ayushi kumari](https://github.com/18Ayushi)
-- [Milind Shukla](https://github.com/MILINDSHUKLA)
 - [Aditya Agrawal](https://github.com/Cosmorazer)
 - [Anurag Dutt](https://github.com/duttanurag)
 - [lodaogos](https://github.com/lodaogos)
