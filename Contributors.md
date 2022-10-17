@@ -3890,3 +3890,4 @@ first contributions - hanyang univ.
 - [Jitesh Tripathi](https://github.com/Jitesh02)
 - [Muhammad Shiddiq Fathullah](https://github.com/mas-diq)
 - [Soham Dalal] (https://github.com/dalalsoham)
+- [Ikziriv] (https://github.com/ikziriv)
