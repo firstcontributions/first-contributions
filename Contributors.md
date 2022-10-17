@@ -3796,6 +3796,7 @@
 - [Miranda Pothiawala](https://github.com/MirandaPoth)
 - [Hari Sankar](https://github.com/h4r1337)
 - [Kush Mittal](https://github.com/kushvau)
+- [Jupsimar Singh](https://github.com/jupsimar)
 - [Eric Njuguna](https://github.com/enjuguna)
 - [Matthew Sharp](https://github.com/MattSharp05)
 -[Tarun Gujral](https://github.com/tarungujral156)
@@ -3854,3 +3855,4 @@ first contributions - hanyang univ.
 - [Rahul Patel](https://github.com/Patelrahul4884)
 - [Teddir](https://github.com/Teddir)
 - [JunYung Ji](https://github.com/jiogenes)
+
