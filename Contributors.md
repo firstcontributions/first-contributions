@@ -2075,6 +2075,7 @@
 - [Crimsonshade](https://github.com/crimsonshade)
 - [narsingojuhemanth](https://github.com/narsingojuhemanth)
 - [Nicholas Ali](https://github.com/NicholasAli1)
+- [Nevena Verbic](https://github.com/nverbic)
 - [Hyeyoung Lucia Lee](https://github.com/Hyeyoung-Lucia)
 - [George Babii](https://github.com/georgevlt)
 - [Cyber Thunder Storm](https://github.com/cyberthunderstorm/)
