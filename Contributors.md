@@ -3881,3 +3881,4 @@ first contributions - hanyang univ.
 - [Muhammad Immad] (https://github.com/itsimmad)
 - [ChrisII](https://github.com/ChrisIIx)
 - [AngryChocobo](https://github.com/AngryChocobo)
+- [Rohan Richard](https://github.com/rohanprichard)
