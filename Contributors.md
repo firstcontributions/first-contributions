@@ -209,6 +209,7 @@
 - [Muhammed Musaddique](https://github.com/zmusaddique)
 - [Rishi Mathur](https://github.com/skyrunner360)
 - [Ajay Bairwa](https://github.com/bairwa25)
+- [byfar](https://github.com/byfar94)
 - [Shazia Khatoon]
 - [Chhaganlaal](https://github.com/Chhaganlaal)
 - [Chandra Kiran](https://github.com/chandra-kiran1)
