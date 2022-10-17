@@ -15,6 +15,7 @@
 - [Tanmay Bhujade](https://github.com/Tanmaybhujade)
 - [Ehmad Saeed](https://github.com/ehmadsaeed)
 - [Alex Buser](https://github.com/Albuser)
+- [Artyom Malyarenko](https://github.com/malaartyom)
 - [Rahul Saha](https://github.com/Rahul10Saha)
 - [Jose Armando](https://github.com/Armando-Grados)
 - [Bharat Mishra](https://github.com/BMlookingforaW)
