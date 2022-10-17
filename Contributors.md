@@ -72,6 +72,7 @@
 - [Jonatassn](https://github.com/jonatassn)
 - [Jackeline do Nascimento] (https://github.com/jackelinenascimento)
 - [Bo Louie]
+- [Michael Danilov] https://github.com/michaeld03
 - [Hywenklis Rherbert](https://github.com/hywenklis)
 - [Biswa Baibhab Subudhi](https://github.com/biswabaibhab007)
 - [KacperC](https://github.com/CKacper)
