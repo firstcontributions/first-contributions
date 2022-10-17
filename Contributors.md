@@ -78,6 +78,7 @@
 - [Petruneva Tasia](https://github.com/Petruneva Tasia)
 - [varshanookarapu]
 - [Nikhil S Kalburgi](https://github.com/nikhilkalburgi)
+- [Anyi Joy](https://github.com/AnyiJoy)
 -[bhanu]
 - [Luis Pedreira] (https://github.com/luisepedreira)
 - [Farhan khan](https://github.com/farhanalws4u)
