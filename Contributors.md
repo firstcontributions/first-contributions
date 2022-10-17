@@ -2,9 +2,10 @@
 
 <!-- prettier-ignore-start -->
 - [Ankit Kumar](https://github.com/ankitkumar3440)
+- [Souhil OMARI](https://github.com/Souhil19)
 - [Anchal Kumar Chaudahry](https://github.com/anchal9670)
 - [Abinash Kumar](https://github.com/abinash185)
-[Chethas Pv](https://github.com/chethas7)
+- [Chethas Pv](https://github.com/chethas7)
 - [Mallela D. Vinay](https://github.com/MD571)
 - [Glitchr](https://github.com/Glitchr)
 - [Muskan](https://github.com/Muskan-Git-Code)
