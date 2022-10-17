@@ -177,6 +177,7 @@
 - [youngjun1227](https://github.com/youngjun1227)
 - [Preston Harms](https://github.com/R3dPnd)
 - [kaushalgosaliya5](https://github.com/kaushalgosaliya5)
+- [Taaki](https://github.com/taaki2311)
 - [kaushalgosaliya5](https://github.com/kaushalgosaliya5)
 - [Jo-SungJun](https://github.com/Jo-SungJun)
 - [Samvardhan](https://github.com/samvardhan777)
