@@ -3868,3 +3868,4 @@ first contributions - hanyang univ.
 - [Sebastian Schmid-Schickhardt](https://github.com/Thekillingsound)
 - [Aditi Jain](https://github.com/EngineerAditijain)
 - [Nitish Jain](https://github.com/jainrocks)
+- [Antarin Karmakar](https://github.com/dukedom26)
