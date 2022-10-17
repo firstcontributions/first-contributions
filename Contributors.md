@@ -40,6 +40,7 @@
 - [Luba Kolbasova](https://github.com/Lubow-k)
 - [Elias Angulo] (https://github.com/emangulo)
 - [Reece Brogden](https://github.com/Alibaba544)
+- [Kirill Volkov](https://github.com/VolkovK04/)
  -[Vijay](https://github.com/developer-vijay)
 - [Huzaifa Qureshi] (https://github.com/Huzaifa-code)
 - [Vincent Radford](https://github.com/rajahwu)
