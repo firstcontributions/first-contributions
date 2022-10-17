@@ -24,6 +24,7 @@
 - [Zhenya Mateyuk](https://github.com/jEUGENEdev/)
 - [Soy el Yisus](https://github.com/Jebushdd)
 - [Ayush Shete](https://github.com/ayushete02)
+- [Monazza Qadeer Khan] (https://github.com/monazza-qk92)
 - [Rishabh Gist](https://github.com/rishabhgist)
 - [Kartik Kumar](https://github.com/yellowterrum)
 - [Tanmay Bhujade](https://github.com/Tanmaybhujade)
