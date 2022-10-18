@@ -1984,6 +1984,7 @@ Enrique Javier
 - [Sean Kerwin](https://github.com/lordkerwin)
 - [Emil](https://github.com/nbz406)
 - [Adriane Troy U. Alariao](https://github.com/atualariao)
+- [LAIBA AKRAM](https://github.com/Laiba-Akram)
 - [Ryan Efaw](https://github.com/ether3al7)
 - [Marcelo Fantini](https://github.com/MarkFantini)
 - [Rakshit Shetty ✨✨](https://github.com/Rakxit-Shetty)
