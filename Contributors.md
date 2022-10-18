@@ -5,6 +5,7 @@
 -[Siddhant Majumder](https://github.com/Codeworm08)
 - [Khaled](https://github.com/KALs3)
 - [Vatsal K](https://github.com/vatsalkudecha)
+- [vinthara](https://github.com.vinthara)
 - [Vaibhavi Gaur](https://github.com/vai14-gaur)
 - [Bestin K Benny](https://github.com/bestin015)
 - [Chani](https://github.com/ChaniDev)
