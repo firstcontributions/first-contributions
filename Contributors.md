@@ -811,6 +811,7 @@
 - [Mohit Kumar Suman](https://github.com/mohitkrsuman)
 - [Harry Sion Tarigan](https://github.com/hawryyy30)
 - [Abhay](https://github.com/darkbits018)
+- [David Cortez](https://github.com/davcortez)
 - [Jahnvi ](https://github.com/jahnvi15/)
 - [Himanshu Jain](https://github.com/nhimanshujain)
 - [Luca Argentieri](https://github.com/LucaArgentieri)
