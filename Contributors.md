@@ -508,6 +508,7 @@ Enrique Javier
 - [Nishtha Jethani](https://github.com/NishthaJethani)
 - [Soundarrajan](https://github.com/soundarrajan-official)
 - [Sirio Negri](https://github.com/ziriuz84)
+- [Shashank Shekhar](https://github.com/kcirnez1211)
 - [Jessica Rose](https://github.com/21B01A1251)
 - [Debayan Sen](https://github.com/Debayan-Sen)
 - [Shreya Gupta](https://github.com/shrey-a-gupta)
