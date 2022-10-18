@@ -3881,7 +3881,8 @@
 - [Nitya Shukla](https://github.com/NityaShukla0)
 - [Daniil Parshukov](https://github.com/DaniilParshukov)
 - [Carlos Andres](https://github.com/carlostechinnovation)
-- [Ayman Sayed](https://github.com/ayman-tech) 👋 -[Deep Chakraborty]{https://github.com/into-deepth}
+- [Ayman Sayed](https://github.com/ayman-tech) 
+- [👋 Deep Chakraborty](https://github.com/into-deepth)
 - [Aamir041](https://github.com/Aamir041)
 - [shuvadeep](https://github.com/shuvadeepp)
 - [Shubham Soni](https://github.com/shubhamsoni0956)
