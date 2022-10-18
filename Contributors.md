@@ -349,6 +349,7 @@ Enrique Javier
 - [Rishi Singh](https://github.com/mrsingh-rishi)
 - [Arpan Adlakhiya](https://github.com/mrr0b0t-0x1)
 - [Nia Ahmed](https://github.com/technialogy)
+- [Jay Patel](https://github.com/Jay100125)
 - [Jakob Nietzsche] (https://github.com/jakobnietzsche)
 - [Christine Amuzie](https://github.com/broaderimpact)
 - [Jitesh Kumar](https://github.com/jiteshkumardj)
