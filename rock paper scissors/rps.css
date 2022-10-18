@@ -1,0 +1,27 @@
+body{
+    font-family: 'Brush Script MT',cursive,sans-serif;
+    color: rgb(44, 80, 201);
+    background-color: #f5f0e1;
+    text-align: center;
+}
+.userChoice{
+    padding: 10px;
+    border-radius: 15px;
+    background-color:#f5f0e1;
+    color: #000000;
+    font:bold;
+    font-size: large;
+    border: 3px solid rgb(37, 86, 192);
+
+}
+h1{
+    color: #1e3d59;
+    text-decoration: underline;
+}
+h2{
+    color: #f77119;
+}
+
+#result{
+    color: #19ec2a;
+}
