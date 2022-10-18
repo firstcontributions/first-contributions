@@ -1617,6 +1617,7 @@ Enrique Javier
 - [Siddharth Patel](https://github.com/ssiidd)
 - [Mayank Tripathi](https://github.com/MAYANK-TRIPATH)
 - [Rafeeq Shaik](https://github.com/RafeeqShaik/)
+- [Amir Afshar](https://github.com/Afshar07)
 - [Suman Sourabh](https://github.com/Sumansourabh14)
 - [Liam Banahan](https://github.com/liambanahan)
 - [Bruno Anesio](https://github.com/brunoanesio)
