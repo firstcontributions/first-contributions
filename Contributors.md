@@ -21,6 +21,7 @@
 - [Mallela D. Vinay](https://github.com/MD571)
 - [Glitchr](https://github.com/Glitchr)
 - [Shabeeb PV](https://github.com/shabeebleo)
+- [Sakshi](https://github.com/sagupta8399)
 - [Muskan](https://github.com/Muskan-Git-Code)
 - [Iyyappan] (https://github.com/bgi08)
 - [Carsten Brauckmann](https://github.com/cabrauck)
