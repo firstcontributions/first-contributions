@@ -686,7 +686,6 @@ Enrique Javier
 - [Bharti Patel](https://github.com/Indiana-S-coder)
 - [Vedant Sonawane](https://github.com/Vedant003)
 - [DataDaimon] (https://github.com/DataDaimon)
-- [Valglez] (https://github.com/valglez)
 - [Lakhwinder-Singh](https://github.com/Lakhwinderr)
 - [akashaw] (https://github.com/akashaw)
 - [Hydrotho](https://github.com/hydrotho)
@@ -3952,3 +3951,4 @@ first contributions - hanyang univ.
 - [Satadru Bhowmik] (https://github.com/sagacious-satadru)
 - [Nishan Biswas](https://github.com/zender651)
 - [Manisharan Thota] (https://github.com/manisharanthota)
+- [Priyansh Yadav](https://github.com/Priyansh-Yadav)
