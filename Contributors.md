@@ -77,6 +77,7 @@
 - [Danny Bae](https://github.com/danveb)
 - [Maxim Yolkin] (https://github.com/dramee)
 - [Abdelkarim](https://github.com/badelgeek)
+Enrique Javier
 - [Sai Kiran]
 - [Sunday P. Afolabi](https://github.com/Lecon-a)
 - [Krishi Pratim Sarma](https://github.com/Krishi34S)
