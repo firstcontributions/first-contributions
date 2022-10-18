@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [LeeJaeO](https://github.com/LeeJaeO)
 -[Siddhant Majumder](https://github.com/Codeworm08)
 - [Khaled](https://github.com/KALs3)
 - [Vatsal K](https://github.com/vatsalkudecha)
