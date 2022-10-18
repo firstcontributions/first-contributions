@@ -3929,4 +3929,4 @@ first contributions - hanyang univ.
 - [Nishu Kumar](https://github.com/mayankthinks)
 - [Prasoon Kumar](https://github.com/mayankthinks)
 - [Amit Kumar](https://github.com/mayankthinks)
-- [syed zohaib ali](https://github.com/ZohaiAli)
+- [Chawin PAXI](https://github.com/chawinccmkwork)
