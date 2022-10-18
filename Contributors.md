@@ -115,6 +115,7 @@ Enrique Javier
 - [Farhan khan](https://github.com/farhanalws4u)
 - [Jackie Zou](https://github.com/jz0u)
 - [Niklas Betke](https://github.com/nikbetke)
+- [Ishwari Tate](https://github.com/IshwariTate)
 - [Oluwatimilehin Esan](https://github.com/therealtmmy)
 - [Satendra Mishra](https://github.com/Satendram)
 - [Himanshu Singh](https://github.com/singh-himanshu-16)
@@ -3957,4 +3958,3 @@ first contributions - hanyang univ.
 - [Nishan Biswas](https://github.com/zender651)
 - [Manisharan Thota] (https://github.com/manisharanthota)
 - [Palak Gambhir](https://github.com/GambhirPalak27)
-- [Abanob Mikaeel](https://github.com/abanobmikaeel)
