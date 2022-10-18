@@ -222,6 +222,7 @@
 - [Santiago Urbano](https://github.com/sanurb)
 - [Hetarth Raval]
 - [Robin Maheshwary](https://github.com/RobinMaheshwary)
+- [Niclas Jüterbock](https://github.com/NiclasJueterbock)
 - [Md Abu Bakkar Siddiqe Sajib](https://github.com/19sajib)
 - [Jay Ubisse](https://github.com/Jay-Ubisse)
 - [Adharsh RJ](https://github.com/adharshrj)
@@ -1976,6 +1977,7 @@
 - [Sean Kerwin](https://github.com/lordkerwin)
 - [Emil](https://github.com/nbz406)
 - [Adriane Troy U. Alariao](https://github.com/atualariao)
+- [LAIBA AKRAM](https://github.com/Laiba-Akram)
 - [Ryan Efaw](https://github.com/ether3al7)
 - [Marcelo Fantini](https://github.com/MarkFantini)
 - [Rakshit Shetty ✨✨](https://github.com/Rakxit-Shetty)
@@ -3928,3 +3930,5 @@
 - [syed zohaib ali](https://github.com/ZohaiAli)
 - [Satadru Bhowmik](https://github.com/sagacious-satadru)
 - [Yashasvi Chaurasia](https://github.com/YashasviChaurasia)
+- [Nishan Biswas](https://github.com/zender651)
+
