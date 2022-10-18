@@ -3636,6 +3636,7 @@ Enrique Javier
 - [Lav Kumar](https://github.com/lavkumargupta)
 - [Ishaan Jain](https://github.com/ishaanjain1898)https://github.com/marianapcorrea
 - [Giacomo Guadagnini](https://github.com/Flipper97)
+- [David Molina](https://github.com/DDeloitte)
 - [wmazoni](https://github.com/wmazoni)
 - [Reeya Hazarika](https://github.com/reeyah)
 - [Mariana P Correa](https://github.com/marianapcorrea)
