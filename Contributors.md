@@ -12,6 +12,7 @@
 - [Sergey Novikov] (https://github.com/Isn0v)
 - [Souhil OMARI](https://github.com/Souhil19)
 - [Anchal Kumar Chaudahry](https://github.com/anchal9670)
+- [ARIJIT](https://github.com/Arijit8101)
 - [Abinash Kumar](https://github.com/abinash185)
 - [Chethas Pv](https://github.com/chethas7)
 - [Mallela D. Vinay](https://github.com/MD571)
