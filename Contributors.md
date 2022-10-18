@@ -7,6 +7,7 @@
 - [Anchal Kumar Chaudahry](https://github.com/anchal9670)
 - [Abinash Kumar](https://github.com/abinash185)
 - [Chethas Pv](https://github.com/chethas7)
+- [kelys] (https://github.com/kelysi)
 - [Mallela D. Vinay](https://github.com/MD571)
 - [Glitchr](https://github.com/Glitchr)
 - [Muskan](https://github.com/Muskan-Git-Code)
