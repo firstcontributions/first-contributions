@@ -155,6 +155,7 @@ Enrique Javier
 - [Jonathan G Araya](https://github.com/Jonathana1106)
 - [jungchoib](https://github.com/jungchoib)
 - [rajdugad](https://github.com/rajdugad)
+- [Tarek-Azzazi](https://github.com/tarekazzazi)
 - [thehackerpanda]
 - [Jongkwang131](https://github.com/Jongkwang131)
 - [Saurabh Singh](https://github.com/saurabhsingh720)
