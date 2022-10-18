@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Luis Felipe](https://github.com/luisfelipecod)
 - [Khaled](https://github.com/KALs3)
 - [Vatsal K](https://github.com/vatsalkudecha)
 - [Chani](https://github.com/ChaniDev)
