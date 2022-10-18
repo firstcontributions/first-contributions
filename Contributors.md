@@ -26,6 +26,7 @@
 - [Carsten Brauckmann](https://github.com/cabrauck)
 - [Sithu Soe](https://github.com/SithuSoe153)
 - [Ankit](https://github.com/cutex-boi)
+- [Juzer Bhagat](https://github.com/juzer25)
 - [Junsu An](https://github.com/anjjunsu/)
 - [Ziabeher Phillips](https://github.com/Zabzx)
 - [shashank-gupta](https://github.com/shashank-2310/)
