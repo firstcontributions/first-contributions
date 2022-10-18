@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Ankit Kumar](https://github.com/ankitkumar3440)
+- [Navi Talib](https://github.com/NaviTalib)
 - [Souhil OMARI](https://github.com/Souhil19)
 - [Anchal Kumar Chaudahry](https://github.com/anchal9670)
 - [Abinash Kumar](https://github.com/abinash185)
