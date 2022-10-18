@@ -2707,6 +2707,7 @@ Enrique Javier
 - [XD](https://github.com/snowboulde)
 - [Piyush Sultaniya](https://github.com/gitPiyushhh)
 - [Hassan](https://github.com/Mhassanniazi)
+- [Gui](https://github.com/Gui37)
 - [Enosejolagbon](https://github.com/enosefelix)
 - [Neo Polorie](https://github.com/kndpolorie)
 - [Anurag Tiwari](https://github.com/Danuragtiwari)
