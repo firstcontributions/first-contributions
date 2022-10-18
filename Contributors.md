@@ -108,6 +108,7 @@ Enrique Javier
 - [KacperC](https://github.com/CKacper)
 - [Petruneva Tasia](https://github.com/Petruneva Tasia)
 - [varshanookarapu]
+- [Shivam Dangi](https://github.com/shivamdangi7)
 - [Nikhil S Kalburgi](https://github.com/nikhilkalburgi)
 - [Anyi Joy](https://github.com/AnyiJoy)
 -[bhanu]
