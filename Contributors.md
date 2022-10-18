@@ -3955,4 +3955,4 @@ first contributions - hanyang univ.
 - [Nishan Biswas](https://github.com/zender651)
 - [Manisharan Thota] (https://github.com/manisharanthota)
 - [Palak Gambhir](https://github.com/GambhirPalak27)
-- [Lhaislla Cavlcanti](https://github.com/lhaislla)
+- [Lhaislla Cavalcanti](https://github.com/lhaislla)
