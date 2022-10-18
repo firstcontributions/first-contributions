@@ -65,6 +65,7 @@
 - [Gaby Victoria](https://github.com/GabyVictoria0122)
 - [Corentin Gouanvic](https://github.com/Stoaties)
 - [Luba Kolbasova](https://github.com/Lubow-k)
+- [Sagar Gupta](http://github.com/sagargupta16)
 - [Elias Angulo] (https://github.com/emangulo)
 - [Reece Brogden](https://github.com/Alibaba544)
 - [Kirill Volkov](https://github.com/VolkovK04/)
