@@ -428,6 +428,7 @@ Enrique Javier
 - [Chinatomuto nnaji] (https://github.com/chinatomuto)
 - [Pranit Kumar Singh](https://github.com/pranit9000)
 - [Megan Moulos](https://github.com/meganmoulos/)
+- [Peter Hansteen](https://github.com/pitrh)
 - [Thales Carlesso](https://github.com/ThalesIanMendes)
 - [Teju_1212](https://github.com/teju_1212)
 - [Irfan Nurhamid](https://github.com/aneirfan/)
