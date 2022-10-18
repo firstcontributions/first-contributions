@@ -5,6 +5,7 @@
 - [Glitchr](https://github.com/Glitchr)
 - [Sithu Soe](https://github.com/SithuSoe153)
 - [Junsu An](https://github.com/anjjunsu/)
+- [Jupsimar Singh](https://github.com/jupsimar)
 - [Ziabeher Phillips](https://github.com/Zabzx)
 - [shashank-gupta](https://github.com/shashank-2310/)
 - [bungbloopity](https://github.com/bungbloopity/)
