@@ -161,6 +161,7 @@ Enrique Javier
 - [Tanmay Pradhan](https://github.com/tanmaypradhan4112)
 - [Chirag Goyal](https://github.com/ChiragGoyal98)
 - [Animesh Singh](https://github.com/Animesh0764)
+- [Norahc Baron](
 - [Jeet Oza](https://github.com/Oza-Jeetkumar-Vishnubhai)
 - [Ayush Dodiya](https://github.com/AHD153)
 - [KDE030617](https://github.com/KDE030617)
@@ -195,6 +196,7 @@ Enrique Javier
 - [Rohit Yadav](https://www.linkedin.com/in/rohit-yadav-0852481b2/)
 - [Tyler Martin @HeyTylerMartin](https://github.com/HeyTylerMartin)
 - [Yuukii] (https://github.com/Assyyn)
+- [Norahc Baron](https://github.com/NorahcBaron)
 - [Jackson Isaac](https://github.com/JacksonIsaac/)
 - [Alexandre - Kelifa][https://github.com/AlphaKappa44]
 - [Saksham Chawla](https://github.com/saksham-chawla)
