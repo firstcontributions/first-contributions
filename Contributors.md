@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Khaled](https://github.com/KALs3)
+- [Vatsal K](https://github.com/vatsalkudecha)
 - [Chani](https://github.com/ChaniDev)
 - [Meet Vansjaliya](https://github.com/meetvansjaliya)
 - [Anmoldeep Kaur](https://github.com/anmoldeep1512)
