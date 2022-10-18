@@ -4,6 +4,7 @@
 - [Khaled](https://github.com/KALs3)
 - [Vatsal K](https://github.com/vatsalkudecha)
 - [Chani](https://github.com/ChaniDev)
+- [Nirjla](https://github.com/Nirjla)
 - [Meet Vansjaliya](https://github.com/meetvansjaliya)
 - [Anmoldeep Kaur](https://github.com/anmoldeep1512)
 - [JOSE VEDIA](https://github.com/Jose-b-v)
