@@ -697,6 +697,7 @@ Enrique Javier
 - [Lakhwinder-Singh](https://github.com/Lakhwinderr)
 - [akashaw] (https://github.com/akashaw)
 - [Hydrotho](https://github.com/hydrotho)
+- [Bienvenu Kouassi](https://github.com/vuzzer)
 - [Akhil](https://github.com/AkhilJ321)
 - [Rachana Yeldi](https://github.com/Rachana1104)
 - [akashaw] (https://github.com/akashaw)
