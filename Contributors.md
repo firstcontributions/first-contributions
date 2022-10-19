@@ -164,6 +164,7 @@ Enrique Javier
 - [TusharPramanick](https://github.com/TusharPramanick)
 - [Krishan-Walia](https://github.com/krishanwalia30)
 - [Timothy Chua](https://github.com/tdchua)
+- [TesseractionCode](https://github.com/TesseractionCode)
 - [Jyotishmoy konwar](https://github.com/Jyotishmoy365)
 - [Krishan-Kant-11](https://github.com/Krishan-Kant-11)
 - [KiriNeTo](https://github.com/KiriNeTo)
