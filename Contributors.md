@@ -57,6 +57,7 @@
 - [Artyom Malyarenko](https://github.com/malaartyom)
 - [Snigdha Sinha](https://github.com/snigdhaop)
 - [Dibyendu Das](https://github.com/dibyendu02)
+- [Megha](https://github.com/SBMegha)
 - [Rahul Saha](https://github.com/Rahul10Saha)
 - [Jose Armando](https://github.com/Armando-Grados)
 - [MAHASAPU](https://github.com/MahasApu)
