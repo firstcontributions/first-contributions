@@ -424,6 +424,7 @@ Enrique Javier
 - [shaileshb](https://github.com/shaileshhb)
 - [Victor F.](https://github.com/victorfyonemoto)
 - [Andre Müller](https://github.com/Amueller36)
+- [Srivathsan V](https://github.com/Srivathsan-V)
 - [TJ Albertson](https://github.com/TJ-Albertson)
 - [Elizabeth Renderos](https://github.com/EliRen7)
 - [SOE](https://github.com/Soe-sandar-win)
