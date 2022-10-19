@@ -36,6 +36,7 @@
 - [Ankit](https://github.com/cutex-boi)
 - [Juzer Bhagat](https://github.com/juzer25)
 - [Junsu An](https://github.com/anjjunsu/)
+- [Moin Munir Ahmed](https://github.com/MoinCR7/)
 - [Ziabeher Phillips](https://github.com/Zabzx)
 - [shashank-gupta](https://github.com/shashank-2310/)
  [VISAKH M S](https://github.com/visakhms4/)
