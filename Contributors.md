@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [HaibaoM55](https://github.com/HaibaoM55)
 - [LeeJaeO](https://github.com/LeeJaeO)
+- [Gaurav Agrawal](https://github.com/gauravzuse)
 -[Siddhant Majumder](https://github.com/Codeworm08)
 - [Khaled](https://github.com/KALs3)
 - [Vatsal K](https://github.com/vatsalkudecha)
