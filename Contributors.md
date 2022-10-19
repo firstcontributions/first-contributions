@@ -2228,6 +2228,7 @@ Enrique Javier
 - [Worthy](https://github.com/worthyag)
 - [Prajwal Suvarna](https://github.com/prajwalsuvarna)
 - [Kyle Goben](https://https://github.com/kygoben)
+- [Remi T](https://github.com/RETprojects)
 - [Shayan Affandi](https://github.com/Shayan5785)
 - [Tru-tru](https://github.com/Tru-tru)
 - Caleb- [piyushbhawsar](https://github.com/piyushbhawsar)
