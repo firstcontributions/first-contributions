@@ -57,6 +57,7 @@
 - [Jose Armando](https://github.com/Armando-Grados)
 - [MAHASAPU](https://github.com/MahasApu)
 - [Bharat Mishra](https://github.com/BMlookingforaW)
+- [Pradyumn](https://github.com/Hannibal404)
 - [Oleynikov Danil] (https://github.com/Ondotteess)
 - [Smart-Peach](https://github.com/Smart-Peach)
 - [Hailey Steineke](https://github.com/hdsteineke)
