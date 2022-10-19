@@ -33,7 +33,6 @@
 - [Shabeeb PV](https://github.com/shabeebleo)
 - [Sakshi](https://github.com/sagupta8399)
 - [Muskan](https://github.com/Muskan-Git-Code)
-- [Isaac Ubani] (https://github.com/ubaniIsaac)
 - [Iyyappan] (https://github.com/bgi08)
 - [Carsten Brauckmann](https://github.com/cabrauck)
 - [Sithu Soe](https://github.com/SithuSoe153)
@@ -163,7 +162,8 @@ Enrique Javier
 - [bengsky13](https://github.com/bengsky13)
 - [RebeccaAmir] (https://github.com/RebeccaAmir)
 - [Ikhari] (https://github.com/Ikhari)
-  [mrcipo] (https://github.com/mrcipo) 
+- [mrcipo] (https://github.com/mrcipo) 
+- [SM-creation] (https://github.com/shaman-004)
 - [jeongwoo903](https://github.com/jeongwoo903)
 - [Desmond-Fon](https://github.com/Desmond-Fon)
 - [Srijanya Durganala](https://github.com/Srijanya.D)
@@ -4004,9 +4004,14 @@ first contributions - hanyang univ.
 - [BM Monjur Morshed](https://github.com/bmqube)
 - [Yash Kumar Sharma](https://github.com/theyasharma).
 - [garry host](https://github.com/9xxxxxx)
+- [Alan Joshy](https://github.com/alanjoshymj)
+- 
 
 - [siravijbb](https://github.com/siravijbb)
 - [ishita126jain](https://github.com/ishita126jain)
 - [Patrick](https://github.com/pjs32)
 - [CristiCode](https://github.com/CristiCode)
 - [SompadmaMukherjee](https://github.com/NullCoder11)
+- [Adarsh Remesh](https://github.com/adarshremesh)
+- [Mohd Adnan](https://github.com/mohdadnan786)
+
