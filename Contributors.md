@@ -1936,6 +1936,7 @@ Enrique Javier
 - [Dhruv Gandhi](https://github.com/DhruvGandhi31)
 - [Nagasha Jemimah Nyakato](https://github.com/Jem256)
 - [Miles Inada](https://github.com/milesinada)
+- [Alex](https://github.com/DGL112)
 - [dnkt182](https://github.com/dnkTin)
 - [abhishek0chauhan](https://github.com/abhishek0chauhan)
 - [Vishnu PS](https://github.com/VishnuPScodes)
