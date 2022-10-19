@@ -93,6 +93,7 @@
 - [Jason Kasari](https://github.com/jkasari)
 - [Abhi Patel](https://github.com/AbhiPatel10 )
 - [Yatndeep Dubey](https://github.com/Yatndeep )
+- [Autumn Ouellette](https://github.com/Autumn-Ou)
 - [Fatin Almalik](https://github.com/Fatin-Almalik)
 - [Mohammad Mubaslat](https://github.com/mohammadmubaslat)
 - [Arnaduga](https://github.com/arnaduga)
