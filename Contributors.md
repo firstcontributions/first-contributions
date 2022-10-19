@@ -1645,6 +1645,7 @@ Enrique Javier
 - [Adriel Perez ](https://github.com/kidkiller6021)
 - [gulam moyuddin](https://github.com/gulammoyuddin)
 - [Jeff Nkatiah](https://github.com/jeffnk05)
+- [Philipp Schütz](https://github.com/philipp-schuetz)
 - [Mircea Arva](https://github.com/cocolinofan)
 - [Myo Myat Han](https://github.com/MyoMyatHan)
 - [Siddharth Patel](https://github.com/ssiidd)
