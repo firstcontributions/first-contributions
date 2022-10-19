@@ -13,6 +13,7 @@
 - [Vaibhavi Gaur](https://github.com/vai14-gaur)
 - [Bestin K Benny](https://github.com/bestin015)
 - [Chani](https://github.com/ChaniDev)
+- [Dhruv](https://github.com/Elektrikk)
 - [Meet Vansjaliya](https://github.com/meetvansjaliya)
 - [Anmoldeep Kaur](https://github.com/anmoldeep1512)
 - [JOSE VEDIA](https://github.com/Jose-b-v)
