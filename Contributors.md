@@ -3765,6 +3765,7 @@ Enrique Javier
 - [neo](https://github.com/neocollege)
 - [Osama](https://github.com/AsteroidCoder)
 - [Arthur Fernades](https://github.com/Ploita)
+- [Omar Cardoze](https://github.com/OmarCardoze)
 - [Himanshu Mahato](https://github.com/m7-selenophile)
 - [Moti Kumar Yadav](https://github.com/moti9)
 - [Atharv Vani](https://github.com/Atharv-110)
