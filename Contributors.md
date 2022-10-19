@@ -33,7 +33,6 @@
 - [Shabeeb PV](https://github.com/shabeebleo)
 - [Sakshi](https://github.com/sagupta8399)
 - [Muskan](https://github.com/Muskan-Git-Code)
-- [Isaac Ubani] (https://github.com/ubaniIsaac)
 - [Iyyappan] (https://github.com/bgi08)
 - [Carsten Brauckmann](https://github.com/cabrauck)
 - [Sithu Soe](https://github.com/SithuSoe153)
@@ -4004,6 +4003,8 @@ first contributions - hanyang univ.
 - [BM Monjur Morshed](https://github.com/bmqube)
 - [Yash Kumar Sharma](https://github.com/theyasharma).
 - [garry host](https://github.com/9xxxxxx)
+- [Alan Joshy](https://github.com/alanjoshymj)
+- 
 
 - [siravijbb](https://github.com/siravijbb)
 - [ishita126jain](https://github.com/ishita126jain)
