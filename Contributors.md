@@ -284,6 +284,7 @@ Enrique Javier
   [Dev-it-a-dev](https://github.com/dev-it-a-dev)
 - [Alexis Gonzalez](https://github.com/Alex-is-Gonzalez)  
 - [Shreyash Gupta](https://github.com/shreyash2610)
+- [Manish Kumar](https://github.com/Manish-kumar-DEV)
 - [Nora Aguirre](https://github.com/nora-programadora)
 - [Guna Abola](https://github.com/g-abola)
 - [Shabana Naik](https://github.com/ShabanaNaik)
