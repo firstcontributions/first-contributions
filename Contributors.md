@@ -3875,6 +3875,7 @@ Enrique Javier
 - [Erlan Rangel](https://github.com/ErlanRG)
 - [Taylor Erickson](https://github.com/terickson67)
 - [Krzysztof Lopatka](https://github.com/IKrzysztofI)
+- [Pawel Blaszyk](https://github.com/pawllk)
 - [Hrydin Oleksandr](https://github.com/TactikalMakiRoll)
 - [Ashish Kumar Rajak](https://github.com/ashishkrrajak)
 - [Vitor Riquelme](https://github.com/VitorRiquelme)
