@@ -4016,3 +4016,4 @@ first contributions - hanyang univ.
 - [CristiCode](https://github.com/CristiCode)
 - [Adarsh Remesh](https://github.com/adarshremesh)
 - [Mohd Adnan](https://github.com/mohdadnan786)
+- [Daniel Boll](https://github.com/Daniel-Boll)
