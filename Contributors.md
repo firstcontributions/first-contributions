@@ -4,6 +4,7 @@
 - [LeeJaeO](https://github.com/LeeJaeO)
 -[Siddhant Majumder](https://github.com/Codeworm08)
 - [Khaled](https://github.com/KALs3)
+- [Ian Alexander](https://github.com/0xalexander-x)
 - [Vatsal K](https://github.com/vatsalkudecha)
 - [vinthara](https://github.com.vinthara)
 - [Vaibhavi Gaur](https://github.com/vai14-gaur)
@@ -3971,4 +3972,4 @@ first contributions - hanyang univ.
 - [vinit sharma](https://github.com/coder00sharma)
 - [Sourabh Kumar Gupta](https://github.com/Sourabh1404)
 - [BM Monjur Morshed](https://github.com/bmqube)
-- [Ian Alexander](https://github.com/0xalexander-x)
+
