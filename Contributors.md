@@ -1804,6 +1804,7 @@ Enrique Javier
 - [Vandit Shah](https://github.com/vanditshah44)
 - [Sanil](https://github.com/sanil011)
 - [Sameer Choudhary](https://github.com/choudhary-sameer)
+- [Matteo Trentinaglia](https://github.com/TrentinagliaMatteo)
 - [Paul Osinowo](https://github.com/iyinolu)
 - [Josejavier Navarro](https://github.com/Edret0)
 - [JastinXyz](https://github.com/JastinXyz)
