@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [HaibaoM55](https://github.com/HaibaoM55)
 - [LeeJaeO](https://github.com/LeeJaeO)
 -[Siddhant Majumder](https://github.com/Codeworm08)
 - [Khaled](https://github.com/KALs3)
