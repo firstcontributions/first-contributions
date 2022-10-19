@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [abirhussain](https://github.com/abirhussain)
+- [Halfhero](https://github.com/Halfhero212)
 - [HaibaoM55](https://github.com/HaibaoM55)
 - [LeeJaeO](https://github.com/LeeJaeO)
 - [Gaurav Agrawal](https://github.com/gauravzuse)
