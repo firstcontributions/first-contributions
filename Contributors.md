@@ -272,6 +272,7 @@ Enrique Javier
 - [Saksham Chawla](https://github.com/saksham-chawla)
 - [Syed Danish Hasan Shah](https://github.com/SDHS)
 - [Kumar Shanu](https://www.linkedin.com/in/kumarshanu-me/)
+- [Amy Xu](https://github.com/axxu)
 - [Sambhav Goel](https://github.com/Sambhavgoel)
 - [Arshad Khan](https://github.com/The-Arshad-Khan)
 - [Ricardo Fontenla](https://github.com/ricfontenla)
