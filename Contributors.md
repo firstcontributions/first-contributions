@@ -4039,7 +4039,7 @@ first contributions - hanyang univ.
 - [Yash Kumar Sharma](https://github.com/theyasharma).
 - [garry host](https://github.com/9xxxxxx)
 - [Alan Joshy](https://github.com/alanjoshymj)
-- 
+- [Jamie Pedersen](https://github.com/eikooc)
 
 - [siravijbb](https://github.com/siravijbb)
 - [ishita126jain](https://github.com/ishita126jain)
