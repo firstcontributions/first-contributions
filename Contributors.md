@@ -98,6 +98,7 @@
 - [Sagar Gupta](http://github.com/sagargupta16)
 - [Elias Angulo] (https://github.com/emangulo)
 - [Reece Brogden](https://github.com/Alibaba544)
+- [Divyanshu Singh Rathore](https://github.com/Dcoder10M)
 - [Kirill Volkov](https://github.com/VolkovK04/)
  -[Vijay](https://github.com/developer-vijay)
 - [Huzaifa Qureshi] (https://github.com/Huzaifa-code)
