@@ -1694,6 +1694,7 @@ Enrique Javier
 - [Chandan Jindal](https://github.com/chandan-jindal)
 - [nxjosephofficial](https://github.com/nxjosephofficial)
 - [Santino Santillán](https://github.com/SantiM5)
+- [Isabel Ovalles](https://github.com/kidlatmc29)
 - [Lina Zuluaga](https://github.com/linazoo)
 - [Pranav Dhawan](https://github.com/pranavdhawan)
 - [Sylvie Quris](https://github.com/squris)
