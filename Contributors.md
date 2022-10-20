@@ -32,6 +32,7 @@
 - [Jeevan Muthu]
 - [Bestin K Benny](https://github.com/bestin015)
 - [Chani](https://github.com/ChaniDev)
+- [Vaishnavi](https://github.com/vaisrinivasan)
 - [Dhruv](https://github.com/Elektrikk)
 -[Facuguinobart](https://github.com/Facuguinobart)
 - [Meet Vansjaliya](https://github.com/meetvansjaliya)
