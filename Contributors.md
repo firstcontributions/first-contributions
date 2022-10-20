@@ -2487,6 +2487,7 @@ Enrique Javier
 - [Jedrzej Kijora](https://github.com/jkijora)
 - [Hassana Abdullahi](https://github.com/hassana123)
 - [Vibhu Dhavala](https://github.com/DhavalaV)
+- [Maksim Kniazev](https://github.com/knzv-dev)
 - [Jeff Dauda](https://github.com/jefftrojan)
 - [Nafis Bin Nizam](https://github.com/Naf256)
 - [Halim Shams](https://github.com/Halim-Shams)
