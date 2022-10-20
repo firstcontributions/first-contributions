@@ -657,6 +657,7 @@ Enrique Javier
 - [Ian Wairimu](https://github.com/wairimu)
 <!-- collins kiplangat mutai(Kiplaacollo) -->
 - [Hydrotho](https://github.com/hydrotho)
+- [Vinay Chandran C](https://github.com/vinayjs)
 - [Gabriel Moreira Silva](https://github.com/GabMoreiraSilva)
 - [Mohit Radadiya](https://github.com/radadiyamohit81)
 - [Madhurjya Sarma] (https://github.com/TheBatMad)
