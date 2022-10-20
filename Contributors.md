@@ -22,6 +22,7 @@
 - [LaplancheMaxime](https://github.com/LaplancheMaxime)
 - [Vicky Grover](https://github.com/LaplancheMaxime)
 - [Siddhant Majumder](https://github.com/Codeworm08)
+- [Aazim Parwaz](https://github.com/Aazim-parwaz)
 - [Khaled](https://github.com/KALs3)
 - [Ailen Paez](https://github.com/paezailen)
 - [Vatsal K](https://github.com/vatsalkudecha)
