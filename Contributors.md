@@ -72,6 +72,7 @@
 - [Kartik Kumar](https://github.com/yellowterrum)
 - [Tanmay Bhujade](https://github.com/Tanmaybhujade)
 - [Ehmad Saeed](https://github.com/ehmadsaeed)
+- [BrenBermudez] (https://github.com/BrendaBermudez)
 - [Alex Buser](https://github.com/Albuser)
 - [Artyom Malyarenko](https://github.com/malaartyom)
 - [Snigdha Sinha](https://github.com/snigdhaop)
