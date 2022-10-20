@@ -1587,6 +1587,7 @@ Enrique Javier
 - [Ridha Chowdhury](https://github.com//RidhaChowdhury)
 - [Samuel Ukpai](https://github.com/Samthesurf)
 - [Mayur Joshi](https://github.com/Mayur-Joshi3108)
+- [Morgan Tosini](https://github.com/mgtos)
 - [John Okunowo](https://github.com/johnfeyisayo)
 - [Celia Bruner](https://github.om/kiddo7565)
 - [Nile Roth](https://github.com/nilewuzhere)
