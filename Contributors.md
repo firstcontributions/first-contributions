@@ -26,6 +26,7 @@
 - [JOSE VEDIA](https://github.com/Jose-b-v)
 - [Sole Ortiz](https://github.com/SoleOrtiz/)
 - [Ankit Kumar](https://github.com/ankitkumar3440)
+- [Aniket Ghosh](https://github.com/quanta003)
 - [Sergey Novikov] (https://github.com/Isn0v)
 - [Souhil OMARI](https://github.com/Souhil19)
 - [Mayank Sahu](https://github.com/Mayank8085)
