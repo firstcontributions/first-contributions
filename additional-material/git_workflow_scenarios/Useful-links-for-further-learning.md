@@ -40,4 +40,5 @@ This document is dedicated to all the tips and tricks websites, blog posts, and 
 35. [How To Use GitHub](https://www.edureka.co/blog/how-to-use-github/)
 36. [10 Days of Git and Github](https://github.com/Asabeneh/10-days-of-git-and-github)
 37. [Keyboard shortcuts for Github](https://docs.github.com/en/get-started/using-github/keyboard-shortcuts)
+39. [Learn complete Git and Github in 1 video | Open-source Contribution | Linux commands & tricks](https://youtu.be/uaeKhfhYE0U)
 Keep adding more links, that you find helpful.
