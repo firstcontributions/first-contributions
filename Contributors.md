@@ -283,6 +283,7 @@ Enrique Javier
 - [Hetarth Raval]
 - [Robin Maheshwary](https://github.com/RobinMaheshwary)
 - [Niclas Jüterbock](https://github.com/NiclasJueterbock)
+- [Ricardo Kuroiwa](https://github.com/Ricardo-kuroiwa)
 - [Md Abu Bakkar Siddiqe Sajib](https://github.com/19sajib)
 - [Jay Ubisse](https://github.com/Jay-Ubisse)
 - [Adharsh RJ](https://github.com/adharshrj)
