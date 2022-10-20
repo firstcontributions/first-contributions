@@ -2610,6 +2610,7 @@ Enrique Javier
 - [Shaurya Gupta](https://github.com/shauryag2002)
 - [Ilija Krstic](https://github.com/ilijakrstic)
 - [NuggxtDev](https://github.com/Nuggxt)
+- [Jamie Myose](https://github.com/jamesmyose)
 - [Pillonel Philippe](https://github.com/phil71x)
 - [Reuben Philip](https://github.com/rphilip2)
 - [Gagan Baheti](https://ganbaheti.github.io)
