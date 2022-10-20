@@ -19,6 +19,7 @@
 - [Khaled](https://github.com/KALs3)
 - [Ailen Paez](https://github.com/paezailen)
 - [Vatsal K](https://github.com/vatsalkudecha)
+- [Mika] (https://github.com/SK-2022)
 - [vinthara](https://github.com.vinthara)
 - [Vaibhavi Gaur](https://github.com/vai14-gaur)
 - [Jeevan Muthu]
