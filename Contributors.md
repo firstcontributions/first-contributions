@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Arpan Mondal](https://github.com/arpan-mondal)
+- [Samuel Favarin](https://github.com/SamuelBFavarin)
 - [abirhussain](https://github.com/abirhussain)
 - [Halfhero](https://github.com/Halfhero212)
 - [HaibaoM55](https://github.com/HaibaoM55)
