@@ -4064,7 +4064,6 @@ first contributions - hanyang univ.
 - [garry host](https://github.com/9xxxxxx)
 - [Alan Joshy](https://github.com/alanjoshymj)
 - [Nathanael Ama](https://github.com/NathanaelAma/)
-
 - [siravijbb](https://github.com/siravijbb)
 - [ishita126jain](https://github.com/ishita126jain)
 - [Patrick](https://github.com/pjs32)
@@ -4084,5 +4083,5 @@ first contributions - hanyang univ.
 - [Nagaraj Vn](https://github.com/meeraj257) 
 - [Soumya dubey](https://github.com/soumya332)
 - [Ashwin Narayanan S](https://github.com/Ashrockzzz2003)
-- [Danish Kamal](https://github.com/Madeyedexter))
-
+- [Danish Kamal](https://github.com/Madeyedexter)
+- [Luan C. Redmann](https://github.com/cannudo)
