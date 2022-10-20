@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Jordanjun98](https://github.com/Jordanjun98)
 - [Arpan Mondal](https://github.com/arpan-mondal)
 - [Zwel Htet](https://github.com/zweldev)
 - [May Oo](https://github.com/mayoo)
