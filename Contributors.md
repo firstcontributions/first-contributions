@@ -4007,6 +4007,7 @@ first contributions - hanyang univ.
 - [Nishu Kumar](https://github.com/mayankthinks)
 - [Prasoon Kumar](https://github.com/mayankthinks)
 - [Amit Kumar](https://github.com/mayankthinks)
+- [Logan Cornforth](https://github.com/loganjc)
 - [syed zohaib ali](https://github.com/ZohaiAli)
 - [Satadru Bhowmik] (https://github.com/sagacious-satadru)
 - [Nishan Biswas](https://github.com/zender651)
