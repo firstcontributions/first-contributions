@@ -63,6 +63,7 @@
 - [Dibyendu Das](https://github.com/dibyendu02)
 - [Rahul Saha](https://github.com/Rahul10Saha)
 - [Jose Armando](https://github.com/Armando-Grados)
+- [Sathish Kumar Saminathan](https://github.com/satissssss)
 - [MAHASAPU](https://github.com/MahasApu)
 - [Bharat Mishra](https://github.com/BMlookingforaW)
 - [Pradyumn](https://github.com/Hannibal404)
