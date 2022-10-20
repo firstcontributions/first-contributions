@@ -4055,3 +4055,5 @@ first contributions - hanyang univ.
 - [Aradhya Mishra](https://github.com/aradhya-10)
 - [Samay Sagar](https://github.com/samay-rgb)
 - [Nagaraj Vn](https://github.com/meeraj257)
+- [Hassan Durra](https://github.com/HasssanDurra)
+
