@@ -115,6 +115,7 @@
 - [Strelets Alexander](https://github.com/Tenkoru)
 - [Indranil Saha](https://github.com/saha-indranil)
 - Ashifa Fatima
+- [divya](https://github.com/Divya2k05)
 - [Arunima Chaudhuri](https://github.com/tinniaru3005)
 - [Domenico Ivan Fortuna](https://github.com/dromex22)
 - [Aksheet10](https://github.com/Aksheet10)
