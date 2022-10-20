@@ -19,6 +19,7 @@
 - [Vicky Grover](https://github.com/LaplancheMaxime)
 - [Siddhant Majumder](https://github.com/Codeworm08)
 - [Khaled](https://github.com/KALs3)
+- [Deepali](https://github.com/deepseas07)
 - [Ailen Paez](https://github.com/paezailen)
 - [Vatsal K](https://github.com/vatsalkudecha)
 - [Mika] (https://github.com/SK-2022)
