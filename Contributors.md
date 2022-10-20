@@ -277,6 +277,7 @@ Enrique Javier
 - [Jay Ubisse](https://github.com/Jay-Ubisse)
 - [Adharsh RJ](https://github.com/adharshrj)
 - [AnWhiteEd](https://github.com/an-white)
+- Vishal
 - [Ravi Sanghani](https://github.com/ravi-sanghani)
 - [સ્મિત કાછડીયા](https://github.com/smeekas)
 - [Rao Khuram Shahzad](https://github.com/KhuramShahzad-5335)
