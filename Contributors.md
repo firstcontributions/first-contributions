@@ -20,6 +20,7 @@
 - [Vatsal K](https://github.com/vatsalkudecha)
 - [vinthara](https://github.com.vinthara)
 - [Vaibhavi Gaur](https://github.com/vai14-gaur)
+- [Jeevan Muthu]
 - [Bestin K Benny](https://github.com/bestin015)
 - [Chani](https://github.com/ChaniDev)
 - [Dhruv](https://github.com/Elektrikk)
