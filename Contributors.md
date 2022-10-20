@@ -97,6 +97,7 @@
 - [Oleynikov Danil] (https://github.com/Ondotteess)
 - [Smart-Peach](https://github.com/Smart-Peach)
 - [Siddhant](https://github.com/SiddJ01)
+- [JSalinas](https://github.com/javier-salinas)
 - [Hailey Steineke](https://github.com/hdsteineke)
 - [Abishek Reddy](https://github.com/Abishek-Reddy)
 - [Sahil Wankhade](https://github.com/ArcheR1901)
