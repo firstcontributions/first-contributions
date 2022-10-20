@@ -4054,6 +4054,4 @@ first contributions - hanyang univ.
 - [Prashant Kumar](https://github.com/pkumars397)
 - [Aradhya Mishra](https://github.com/aradhya-10)
 - [Samay Sagar](https://github.com/samay-rgb)
-- [Nagaraj Vn](https://github.com/meeraj257)
-- [Precious Edmund](https://github.com/PreciousEddy)
 
