@@ -2134,6 +2134,7 @@ Enrique Javier
 - [Diego Akel](https://github.com/diegoakel)
 - [Apoorva Anurag](https://github.com/apoorvaanurag)
 - [Yuriel Villanueva](https://github.com/Yurielvillanueva)
+- [jeli-t](https://github.com/jeli-t)
 - [Tomas Weiskog](https://github.com/Weiskog)
 - [Phil Ecker](https://github.com/philecker)
 - [Priyam Agarwal](https://github.com/Priyam183)
