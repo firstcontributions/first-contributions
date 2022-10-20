@@ -110,6 +110,7 @@
 - [Luba Kolbasova](https://github.com/Lubow-k)
 - [Sagar Gupta](http://github.com/sagargupta16)
 - [Elias Angulo] (https://github.com/emangulo)
+- [Narender Singh] (https://github.com/narendersingh9889)
 - [Reece Brogden](https://github.com/Alibaba544)
 - [Divyanshu Singh Rathore](https://github.com/Dcoder10M)
 - [Kirill Volkov](https://github.com/VolkovK04/)
