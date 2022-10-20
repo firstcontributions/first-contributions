@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Tejal Tatiwar](https://tejaltatiwar.github.io/tejaltatiwarwebsite/)
 - [Jordanjun98](https://github.com/Jordanjun98)
 - [Arpan Mondal](https://github.com/arpan-mondal)
 - [Shubham Kumar](https://github.com/shubhamkumar101)
