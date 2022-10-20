@@ -3910,6 +3910,7 @@ Enrique Javier
 - [Pritam](https://github.com/pritamhazra21)
 - [Marco L](https://github.com/Mar-lom)
 - [Rodukov](https://github.com/rodukov)
+- [Gunali Rezqi Mauludi](https://github.com/gunalirezqimauludi)
 - [Skuth](https://github.com/skuth)
 - [Fernanda Dantas](https://github.com/Fernanda-Dantas)
 - [Felipe Alves](https://github.com/ffelipealves)
