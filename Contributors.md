@@ -18,6 +18,7 @@
 - [Gaurav Agrawal](https://github.com/gauravzuse)
 - [Adrien Jalouneix](https://github.com/Adrienjal98)
 - [Nikhil Chinchore]
+- [Teguh Widodo](https://github.com/teguhwin8)
 - [Frank Akrasi Antwi](https://github.com/fantwi)
 - [Shreya Dubey](https://github.com/ShreyaDubey1001)
 - [LaplancheMaxime](https://github.com/LaplancheMaxime)
