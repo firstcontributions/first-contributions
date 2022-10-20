@@ -182,6 +182,7 @@ Enrique Javier
 - [Srijanya Durganala](https://github.com/Srijanya.D)
 - [TusharPramanick](https://github.com/TusharPramanick)
 - [Krishan-Walia](https://github.com/krishanwalia30)
+- [Krishna-Kadu](https://github.com/KaiserKadu)
 - [Timothy Chua](https://github.com/tdchua)
 - [Jyotishmoy konwar](https://github.com/Jyotishmoy365)
 - [Krishan-Kant-11](https://github.com/Krishan-Kant-11)
