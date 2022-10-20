@@ -43,6 +43,7 @@
 - [Abinash Kumar](https://github.com/abinash185)
 - [Chethas Pv](https://github.com/chethas7)
 - [Aayush Arora](https://github.com/AroraAayush)
+- [Suraj Patra](https://github.com/Suraj-Patra)
 - [Mallela D. Vinay](https://github.com/MD571)
 - [Glitchr](https://github.com/Glitchr)
 - [Shabeeb PV](https://github.com/shabeebleo)
