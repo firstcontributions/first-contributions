@@ -1228,6 +1228,7 @@ Enrique Javier
 - [Jackson Mathew](https://github.com/jacksonmathew)
 - [Keith Liew](https://github.com/keith-liew)
 - [Mriganka Das](https://github.com/turtlebeasts)
+- [soy deby](https://github.com/deby212)
 - [Alex Nojenko](https://github.com/informationvulture)
 - [Kevin Rangel](https://github.com/kevinrangel88)
 - [Mohit Chauhan](https://github.com/mohitchauhan-dev)
