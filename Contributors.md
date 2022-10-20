@@ -3950,8 +3950,8 @@ Enrique Javier
 - [Rimon Sade](https://github.com/Rimonaldo)
 - [Alexandr Volk](https://github.com/ky1e-cyber)
 - [Babyico | Laith 🌸](https://github.com/babyico)
-<!-- prettier-ignore-end -->
-first contributions - hanyang univ.
+        <!-- prettier-ignore-end -->
+  first contributions - hanyang univ.
 - [Ishaan Loomba](https://github.com/ishaan191220)
 - [SreeragR](https://github.com/SREERAGRAYIRATH404)
 - [Diego Ponce](https://github.com/diego-ponce)
@@ -3968,14 +3968,13 @@ first contributions - hanyang univ.
 - [Ayush Srivastava](https://github.com/ayush91985)
 - [Sergei Shtukaturov](https://github.com/Zimovit/)
 - [Hrishi](https://github.com/Excalibur1999)
--[]
 - [Uday Kharatmol](https://github.com/UdayKharatmol)
 - [Swaraj Patil](https://github.com/Swaraj57)
 - [Nitya Shukla](https://github.com/NityaShukla0)
 - [Daniil Parshukov](https://github.com/DaniilParshukov)
 - [Carlos Andres](https://github.com/carlostechinnovation)
 - [Ayman Sayed](https://github.com/ayman-tech) 👋
--[Deep Chakraborty]{https://github.com/into-deepth}
+- [Deep Chakraborty]{https://github.com/into-deepth}
 - [Aamir041](https://github.com/Aamir041)
 - [shuvadeep](https://github.com/shuvadeepp)
 - [Shubham Soni](https://github.com/shubhamsoni0956)
@@ -4032,8 +4031,6 @@ first contributions - hanyang univ.
 - [Yash Kumar Sharma](https://github.com/theyasharma).
 - [garry host](https://github.com/9xxxxxx)
 - [Alan Joshy](https://github.com/alanjoshymj)
-- 
-
 - [siravijbb](https://github.com/siravijbb)
 - [ishita126jain](https://github.com/ishita126jain)
 - [Patrick](https://github.com/pjs32)
@@ -4047,3 +4044,4 @@ first contributions - hanyang univ.
 - [Gia Khanh Nguyen](https://github.com/gkn0672)
 - [Loved Anu](https://github.com/lovedanu90)
 - [Prashant Kumar](https://github.com/pkumars397)
+- [Aastha Jain](https://github.com/Aashu1305)
