@@ -139,6 +139,7 @@
 - [divya](https://github.com/Divya2k05)
 - [Arunima Chaudhuri](https://github.com/tinniaru3005)
 - [Domenico Ivan Fortuna](https://github.com/dromex22)
+- [Celeste Dubini](https://github.com/celestedubini)
 - [Aksheet10](https://github.com/Aksheet10)
 - [David Letaw](https://github.com/davidletaw)
 - [Sam Erde](https://github.com/SamErde)
