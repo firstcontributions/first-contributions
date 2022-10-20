@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Arpan Mondal](https://github.com/arpan-mondal)
 - [abirhussain](https://github.com/abirhussain)
 - [Halfhero](https://github.com/Halfhero212)
 - [HaibaoM55](https://github.com/HaibaoM55)
