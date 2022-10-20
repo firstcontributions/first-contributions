@@ -154,6 +154,7 @@ Enrique Javier
 - [Deepa Kumari](https://github.com/deepa181)
   [Sudip Neupane](https://github.com/sulphuric-sudip)
 - [NandiniPokharna](https://github.com/NandiniPokharna)
+- [Ruphaa Ganesan](https://github.com/ruphaa)
 - [Doffy]()
 - [Walter Hertman](https://github.com/whertman)
 - [Sahil Gupta](https://github.com/LAS3RBOY)
