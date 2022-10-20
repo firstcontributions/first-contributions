@@ -11,6 +11,7 @@
 - [Gaurav Agrawal](https://github.com/gauravzuse)
 - [Shreya Dubey](https://github.com/ShreyaDubey1001)
 - [LaplancheMaxime](https://github.com/LaplancheMaxime)
+- [Vicky Grover](https://github.com/LaplancheMaxime)
 - [Siddhant Majumder](https://github.com/Codeworm08)
 - [Khaled](https://github.com/KALs3)
 - [Ailen Paez](https://github.com/paezailen)
