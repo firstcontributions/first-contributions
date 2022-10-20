@@ -763,6 +763,7 @@ Enrique Javier
 - [Bharti Patel](https://github.com/Indiana-S-coder)
 - [Vedant Sonawane](https://github.com/Vedant003)
 - [DataDaimon] (https://github.com/DataDaimon)
+- [psxde](https://github.com/psxde)
 - [Valglez] (https://github.com/valglez)
 - [Lakhwinder-Singh](https://github.com/Lakhwinderr)
 - [akashaw] (https://github.com/akashaw)
