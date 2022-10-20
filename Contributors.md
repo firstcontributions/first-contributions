@@ -152,6 +152,7 @@ Enrique Javier
 - [Doffy]()
 - [Walter Hertman](https://github.com/whertman)
 - [Sahil Gupta](https://github.com/LAS3RBOY)
+- [Miyuru Gunarathna](https://github.com/miyurugunarathna)
 - [mangoisbest](https://github.com/mangoisbest)
 - [MariNadile](https://github.com/MariNadile)
 - [Jamie Codez](https://github.com/jamie-codez)
