@@ -4015,8 +4015,6 @@ first contributions - hanyang univ.
 - [Yash Kumar Sharma](https://github.com/theyasharma).
 - [garry host](https://github.com/9xxxxxx)
 - [Alan Joshy](https://github.com/alanjoshymj)
-- 
-
 - [siravijbb](https://github.com/siravijbb)
 - [ishita126jain](https://github.com/ishita126jain)
 - [Patrick](https://github.com/pjs32)
@@ -4025,3 +4023,4 @@ first contributions - hanyang univ.
 - [Adarsh Remesh](https://github.com/adarshremesh)
 - [Mohd Adnan](https://github.com/mohdadnan786)
 - [Daniel Boll](https://github.com/Daniel-Boll)
+- [Jeongwhan Choi](https://github.com/jeongwhanchoi)
