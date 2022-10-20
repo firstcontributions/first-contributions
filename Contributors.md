@@ -4046,6 +4046,7 @@ first contributions - hanyang univ.
 - [ishita126jain](https://github.com/ishita126jain)
 - [Patrick](https://github.com/pjs32)
 - [Rick | pand-oly](https://github.com/pand-oly)
+- [bazeroni](https://github.com/bazeroni)
 - [CristiCode](https://github.com/CristiCode)
 - [Adarsh Remesh](https://github.com/adarshremesh)
 - [Mohd Adnan](https://github.com/mohdadnan786)
