@@ -858,6 +858,7 @@ Enrique Javier
 - [Gitanjali Gore](https://github.com/gitssz)
 - [Sourabh Kumar](https://github.com/sourabhkumar47)
 - [Hari Krishna](https://github.com/SHIVANATHRIHARIKRISHNA)
+- [Benny Batash](https://github.com/BennyBatash)
 - [axyut](https://github.com/axyut)
 - [Piyush Lakheda](https://github.com/piyushlakheda)
 - [Prince Kumar Sahni](https://github.com/mrprince123)
