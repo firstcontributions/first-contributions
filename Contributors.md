@@ -4048,7 +4048,7 @@ first contributions - hanyang univ.
 - [Yash Kumar Sharma](https://github.com/theyasharma).
 - [garry host](https://github.com/9xxxxxx)
 - [Alan Joshy](https://github.com/alanjoshymj)
-- 
+- [Nathanael Ama](https://github.com/NathanaelAma/)
 
 - [siravijbb](https://github.com/siravijbb)
 - [ishita126jain](https://github.com/ishita126jain)
@@ -4070,3 +4070,4 @@ first contributions - hanyang univ.
 - [Soumya dubey](https://github.com/soumya332)
 - [Ashwin Narayanan S](https://github.com/Ashrockzzz2003)
 - [Danish Kamal](https://github.com/Madeyedexter))
+
