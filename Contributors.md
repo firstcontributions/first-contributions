@@ -13,6 +13,7 @@
 - [AbelValencia](https://github.com/AbelValencia)
 - [LeeJaeO](https://github.com/LeeJaeO)
 - [Gaurav Agrawal](https://github.com/gauravzuse)
+- [Frank Akrasi Antwi](https://github.com/fantwi)
 - [Shreya Dubey](https://github.com/ShreyaDubey1001)
 - [LaplancheMaxime](https://github.com/LaplancheMaxime)
 - [Vicky Grover](https://github.com/LaplancheMaxime)
