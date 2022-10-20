@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Arpan Mondal](https://github.com/arpan-mondal)
 - [Zwel Htet](https://github.com/zweldev)
+- [May Oo](https://github.com/mayoo)
 - [Samuel Favarin](https://github.com/SamuelBFavarin)
 - [abirhussain](https://github.com/abirhussain)
 - [Halfhero](https://github.com/Halfhero212)
