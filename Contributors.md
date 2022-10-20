@@ -3102,6 +3102,7 @@ Enrique Javier
 - [Konisha](https://github.com/koni24)
 - [Devesh Mehra](https://github.com/MehraDevesh2022)
 - [Unique](https://github.com/Unique-py)
+- [Pratikshit Singh]
 - [Ritesh Raj](https://github.com/Riteshrajcloud)
 - [Rajshekar](https://github.com/Rajshekar723)
 - [Aman Kumar Verma](https://github.com/AmanKumarVerma11)
