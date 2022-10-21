@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Tejal Tatiwar](https://tejaltatiwar.github.io/tejaltatiwarwebsite/)
+- [Anas J Mirza](https://github.com/anasjmirza)
 - [Jordanjun98](https://github.com/Jordanjun98)
 - [Nharvey](https://github.com/nharvee)
 - [Arpan Mondal](https://github.com/arpan-mondal)
