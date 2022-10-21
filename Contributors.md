@@ -21,6 +21,7 @@
 - [Anjali Singh](https://github.com/anjalisingh23)
 - [Varun Shinde](https://github.com/varuns1007)
 - [HaibaoM55](https://github.com/HaibaoM55)
+- [Manmeet Kaur](https://github.com/Manmeet2607)
 - [AbelValencia](https://github.com/AbelValencia)
 - [LeeJaeO](https://github.com/LeeJaeO)
 - [Gaurav Agrawal](https://github.com/gauravzuse)
