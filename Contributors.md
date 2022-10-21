@@ -4100,4 +4100,5 @@ first contributions - hanyang univ.
 - [Ashwin Narayanan S](https://github.com/Ashrockzzz2003)
 - [Danish Kamal](https://github.com/Madeyedexter))
 - [Keo Osman](https://github.com/Keo-Osman)
+- [Farhan Hakim Dariman](https://github.com/KamiRaimei)
 
