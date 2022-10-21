@@ -77,6 +77,7 @@ This project aims to simplify and guide the way beginners make their first contr
 
 _If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
+
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 #### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
