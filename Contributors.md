@@ -109,6 +109,7 @@
 - [Manish Kumar] (https://github.com/iamanishh)
 - [Amina Shellman] (https://github.com/ohyahgit)
 - [Suchit](https://github.com/Suchitsj12)
+- [Safadtm](https://github.com/safadtm)
 - [Anandaram](https://github.com/raawwm/first-contributions)
 - [Gaby Victoria](https://github.com/GabyVictoria0122)
 - [Corentin Gouanvic](https://github.com/Stoaties)
