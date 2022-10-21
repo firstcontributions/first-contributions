@@ -23,6 +23,7 @@
 - [Nikhil Chinchore]
 - [imappuru](https://github.com/imappuru)
 - [Teguh Widodo](https://github.com/teguhwin8)
+- [Mayank Jha](https://github.com/mkjha482)
 - [Frank Akrasi Antwi](https://github.com/fantwi)
 - [Shreya Dubey](https://github.com/ShreyaDubey1001)
 - [LaplancheMaxime](https://github.com/LaplancheMaxime)
