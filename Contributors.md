@@ -22,6 +22,7 @@
 - [Gaurav Agrawal](https://github.com/gauravzuse)
 - [Adrien Jalouneix](https://github.com/Adrienjal98)
 - [Nikhil Chinchore]
+- [Sahil Singh](www.linkedin.com/in/sahil-singh-ss9824)
 - [imappuru](https://github.com/imappuru)
 - [Teguh Widodo](https://github.com/teguhwin8)
 - [Mayank Jha](https://github.com/mkjha482)
