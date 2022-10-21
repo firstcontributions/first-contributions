@@ -39,6 +39,7 @@
 - [vinthara](https://github.com.vinthara)
 - [Vaibhavi Gaur](https://github.com/vai14-gaur)
 - [Jeevan Muthu]
+- [Dhriti](https://github.com/Dhriti-singh)
 - [Bestin K Benny](https://github.com/bestin015)
 - [Chani](https://github.com/ChaniDev)
 - [Vaishnavi](https://github.com/vaisrinivasan)
