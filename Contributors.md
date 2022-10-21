@@ -4019,6 +4019,7 @@ first contributions - hanyang univ.
 - [Kishan Jayan232323]
 - [SreeragR](https://github.com/SREERAGRAYIRATH404)
 - [Diego Ponce](https://github.com/diego-ponce)
+- [Paul Schulte](https://github.com/PaulSchulteSythen))
 - [Ayan Ahmad](https://github.com/technoayan7)
 - [Milena Brito](https://github.com/srcmilena)
 - [Siqiang Ma](https://github.com/siqiangma)
@@ -4126,4 +4127,3 @@ first contributions - hanyang univ.
 - [ezhonghu](https://github.com/ErzhongHoo)
 - [Wellington Ribeiro](https://github.com/WellingtonSI)
 - [Bodhdipta Roy](https://github.com/bodhdipta-roy)
-
