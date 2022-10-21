@@ -7,6 +7,7 @@
 - [Arpan Mondal](https://github.com/arpan-mondal)
 - [Shubham Kumar](https://github.com/shubhamkumar101)
 - [Vincent Aziza](https://github.com/veaziza)
+- [June Muoti](https://github.com/JuneMuoti)
 - [Roopesh Keshav] (https://github.com/83aqua)
 - [VictoriaTaiwo] (https://github.com/Edicemi)
 - [Zwel Htet](https://github.com/zweldev)
