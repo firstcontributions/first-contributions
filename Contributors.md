@@ -12,6 +12,7 @@
 - [VictoriaTaiwo] (https://github.com/Edicemi)
 - [Zwel Htet](https://github.com/zweldev)
 - [May Oo](https://github.com/mayoo)
+- [Jon Gull](https://github.com/JonrGull)
 - [Tanu](https://github.com/tanu-12)
 - [Samuel Favarin](https://github.com/SamuelBFavarin)
 - [abirhussain](https://github.com/abirhussain)
@@ -107,6 +108,7 @@
 - [MAHASAPU](https://github.com/MahasApu)
 - [Bharat Mishra](https://github.com/BMlookingforaW)
 - [Pradyumn](https://github.com/Hannibal404)
+- [Elias Chakroun] (https://github.com/Yushi5058)
 - [Oleynikov Danil] (https://github.com/Ondotteess)
 - [Smart-Peach](https://github.com/Smart-Peach)
 - [Siddhant](https://github.com/SiddJ01)
@@ -2834,6 +2836,7 @@ Enrique Javier
 - [Piyush Sultaniya](https://github.com/gitPiyushhh)
 - [Hassan](https://github.com/Mhassanniazi)
 - [Gui](https://github.com/Gui37)
+- [Mihir Sakaria](https://github.com/mihirsakaria)
 - [Enosejolagbon](https://github.com/enosefelix)
 - [Neo Polorie](https://github.com/kndpolorie)
 - [Anurag Tiwari](https://github.com/Danuragtiwari)
@@ -4013,6 +4016,7 @@ Enrique Javier
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
 - [Ishaan Loomba](https://github.com/ishaan191220)
+- [Kishan Jayan232323]
 - [SreeragR](https://github.com/SREERAGRAYIRATH404)
 - [Diego Ponce](https://github.com/diego-ponce)
 - [Ayan Ahmad](https://github.com/technoayan7)
@@ -4122,3 +4126,4 @@ first contributions - hanyang univ.
 - [ezhonghu](https://github.com/ErzhongHoo)
 - [Wellington Ribeiro](https://github.com/WellingtonSI)
 - [whzghb](https://github.com/whzghb)
+- [Bodhdipta Roy](https://github.com/bodhdipta-roy)
