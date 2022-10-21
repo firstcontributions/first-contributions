@@ -14,6 +14,7 @@
 - [Samuel Favarin](https://github.com/SamuelBFavarin)
 - [abirhussain](https://github.com/abirhussain)
 - [Halfhero](https://github.com/Halfhero212)
+- [Anjali Singh](https://github.com/anjalisingh23)
 - [HaibaoM55](https://github.com/HaibaoM55)
 - [AbelValencia](https://github.com/AbelValencia)
 - [LeeJaeO](https://github.com/LeeJaeO)
