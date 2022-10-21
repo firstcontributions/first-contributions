@@ -58,6 +58,7 @@
 - [Vaibhavi Gaur](https://github.com/vai14-gaur)
 - [Jeevan Muthu]
 - [Dhriti](https://github.com/Dhriti-singh)
+- [Haseeb Ahmad Siddiqui](https://github.com/hasebsiddiqui)
 - [Bestin K Benny](https://github.com/bestin015)
 - [Chani](https://github.com/ChaniDev)
 - [Vaishnavi](https://github.com/vaisrinivasan)
