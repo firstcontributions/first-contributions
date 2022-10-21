@@ -66,6 +66,7 @@
 - [Ankit Kumar](https://github.com/ankitkumar3440)
 - [Aniket Ghosh](https://github.com/quanta003)
 - [Sergey Novikov] (https://github.com/Isn0v)
+- That guy
 - [Souhil OMARI](https://github.com/Souhil19)
 - [Mayank Sahu](https://github.com/Mayank8085)
 - [Anchal Kumar Chaudahry](https://github.com/anchal9670)
