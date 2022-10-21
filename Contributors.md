@@ -4120,4 +4120,5 @@ first contributions - hanyang univ.
 - [zongjinhe](https://github.com/zongjinhe)
 - [nazia hassan](https://github.com/Naz1a)
 - [ezhonghu](https://github.com/ErzhongHoo)
+- [Wellington Ribeiro](https://github.com/WellingtonSI)
 
