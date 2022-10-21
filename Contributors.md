@@ -1707,6 +1707,7 @@ Enrique Javier
 - [Mircea Arva](https://github.com/cocolinofan)
 - [Myo Myat Han](https://github.com/MyoMyatHan)
 - [Siddharth Patel](https://github.com/ssiidd)
+- [Vivek Kumar](https://github.com/coodenoobb)
 - [Mayank Tripathi](https://github.com/MAYANK-TRIPATH)
 - [Rafeeq Shaik](https://github.com/RafeeqShaik/)
 - [Amir Afshar](https://github.com/Afshar07)
