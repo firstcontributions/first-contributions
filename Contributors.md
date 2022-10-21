@@ -37,6 +37,7 @@
 - [Nikhil Chinchore]
 - [Sahil Singh](www.linkedin.com/in/sahil-singh-ss9824)
 - [imappuru](https://github.com/imappuru)
+- [verissimon](https://github.com/verissimon)
 - [DragonFireShield](https://github.com/dragonfireshield)
 - [Teguh Widodo](https://github.com/teguhwin8)
 - [Harshit Arora](https://github.com/harshit0755)
