@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Tejal Tatiwar](https://tejaltatiwar.github.io/tejaltatiwarwebsite/)
 - [Jordanjun98](https://github.com/Jordanjun98)
+- [Nharvey](https://github.com/nharvee)
 - [Arpan Mondal](https://github.com/arpan-mondal)
 - [Shubham Kumar](https://github.com/shubhamkumar101)
 - [Vincent Aziza](https://github.com/veaziza)
