@@ -160,6 +160,7 @@ Enrique Javier
 - [Jonatassn](https://github.com/jonatassn)
 - [Jackeline do Nascimento] (https://github.com/jackelinenascimento)
 - [Bo Louie]
+- [Ping](https://github.com/yaein-c)
 - [Michael Danilov](https://github.com/michaeld03)
 - [Hywenklis Rherbert](https://github.com/hywenklis)
 - [Biswa Baibhab Subudhi](https://github.com/biswabaibhab007)
