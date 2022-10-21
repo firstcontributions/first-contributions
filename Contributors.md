@@ -107,6 +107,7 @@
 - [MAHASAPU](https://github.com/MahasApu)
 - [Bharat Mishra](https://github.com/BMlookingforaW)
 - [Pradyumn](https://github.com/Hannibal404)
+- [Elias Chakroun] (https://github.com/Yushi5058)
 - [Oleynikov Danil] (https://github.com/Ondotteess)
 - [Smart-Peach](https://github.com/Smart-Peach)
 - [Siddhant](https://github.com/SiddJ01)
