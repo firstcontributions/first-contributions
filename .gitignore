@@ -388,3 +388,8 @@ FodyWeavers.xsd
 *.sln.iml
 .vscode/settings.json
 .DS_Store
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
