@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Tejal Tatiwar](https://tejaltatiwar.github.io/tejaltatiwarwebsite/)
+- [Elvis Kinyua] (https://github.com/ekinyua)
 - [Anas J Mirza](https://github.com/anasjmirza)
 - [Mauricio Quiroga](https://github.com/MauricioQuiroga)
 - [Liang G. E.]
