@@ -2,7 +2,10 @@
 
 <!-- prettier-ignore-start -->
 - [Tejal Tatiwar](https://tejaltatiwar.github.io/tejaltatiwarwebsite/)
+- [Anas J Mirza](https://github.com/anasjmirza)
+- [Liang G. E.]
 - [Jordanjun98](https://github.com/Jordanjun98)
+- [Jack Juechter](https://github.com/jrj102)
 - [Nharvey](https://github.com/nharvee)
 - [Arpan Mondal](https://github.com/arpan-mondal)
 - [Shubham Kumar](https://github.com/shubhamkumar101)
@@ -12,13 +15,16 @@
 - [VictoriaTaiwo] (https://github.com/Edicemi)
 - [Zwel Htet](https://github.com/zweldev)
 - [May Oo](https://github.com/mayoo)
+- [Jon Gull](https://github.com/JonrGull)
 - [Tanu](https://github.com/tanu-12)
 - [Samuel Favarin](https://github.com/SamuelBFavarin)
 - [abirhussain](https://github.com/abirhussain)
 - [Halfhero](https://github.com/Halfhero212)
 - [Anjali Singh](https://github.com/anjalisingh23)
+- [Lucas Perez](https://github.com/lucasp149)
 - [Varun Shinde](https://github.com/varuns1007)
 - [HaibaoM55](https://github.com/HaibaoM55)
+- [Manmeet Kaur](https://github.com/Manmeet2607)
 - [AbelValencia](https://github.com/AbelValencia)
 - [LeeJaeO](https://github.com/LeeJaeO)
 - [Gaurav Agrawal](https://github.com/gauravzuse)
@@ -27,6 +33,7 @@
 - [Sahil Singh](www.linkedin.com/in/sahil-singh-ss9824)
 - [imappuru](https://github.com/imappuru)
 - [Rafiqul Shopon](https://github.com/rafiqulshopon)
+- [DragonFireShield](https://github.com/dragonfireshield)
 - [Teguh Widodo](https://github.com/teguhwin8)
 - [Harshit Arora](https://github.com/harshit0755)
 - [Mayank Jha](https://github.com/mkjha482)
@@ -35,6 +42,7 @@
 - [LaplancheMaxime](https://github.com/LaplancheMaxime)
 - [Vicky Grover](https://github.com/LaplancheMaxime)
 - [Siddhant Majumder](https://github.com/Codeworm08)
+- [Allen Lobo]
 - [Phillip Chu](https://github.com/phillippchu)
 - [Aazim Parwaz](https://github.com/Aazim-parwaz)
 - [Khaled](https://github.com/KALs3)
@@ -273,6 +281,7 @@ Enrique Javier
   [yaho1231](https://github.com/yaho1231/)
   [SuperAngel11](https://github.com/SuperAngel11/)
 - [T4EK](https://github.com/T4EK)
+- [Ashwin Bhagavatula](https://github.com/ashwinbhagavatula)
 - [smdch](https://github.com/smdch)
 - [kevins0101](https://github.com/kevins0101)
 - [Samarth](https://github.com/samarth777)
@@ -4125,4 +4134,6 @@ first contributions - hanyang univ.
 - [nazia hassan](https://github.com/Naz1a)
 - [ezhonghu](https://github.com/ErzhongHoo)
 - [Wellington Ribeiro](https://github.com/WellingtonSI)
+- [Bodhdipta Roy](https://github.com/bodhdipta-roy)
+- [Dicka Ismaji](https://github.com/dicka88)
 
