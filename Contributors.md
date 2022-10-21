@@ -2304,6 +2304,7 @@ Enrique Javier
 - [Tru-tru](https://github.com/Tru-tru)
 - Caleb- [piyushbhawsar](https://github.com/piyushbhawsar)
 - [Fettah Aud](https://github.com/FettahAud)
+- [Adi Vishnu Avula](https://github.com/adivishnu-a)
 - [Jeffrey Chao](https://github.com/jchaodubs)
 - [Alex Reynolds](https://github.com/Alex-Reynolds)
 - [Hamza Aydin](https://github.com/hamzaaydin)
