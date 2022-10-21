@@ -11,6 +11,7 @@
 - [VictoriaTaiwo] (https://github.com/Edicemi)
 - [Zwel Htet](https://github.com/zweldev)
 - [May Oo](https://github.com/mayoo)
+- [Tanu](https://github.com/tanu-12)
 - [Samuel Favarin](https://github.com/SamuelBFavarin)
 - [abirhussain](https://github.com/abirhussain)
 - [Halfhero](https://github.com/Halfhero212)
