@@ -2834,6 +2834,7 @@ Enrique Javier
 - [Piyush Sultaniya](https://github.com/gitPiyushhh)
 - [Hassan](https://github.com/Mhassanniazi)
 - [Gui](https://github.com/Gui37)
+- [Mihir Sakaria](https://github.com/mihirsakaria)
 - [Enosejolagbon](https://github.com/enosefelix)
 - [Neo Polorie](https://github.com/kndpolorie)
 - [Anurag Tiwari](https://github.com/Danuragtiwari)
