@@ -12,6 +12,7 @@
 - [Varun Kumar](https://github.com/kukutapuvarun)
 - [Manish Kumar] (https://github.com/iamanishh)
 - [Suchit](https://github.com/Suchitsj12)
+- [Omenya]
 - [Gaby Victoria](https://github.com/GabyVictoria0122)
 - [Corentin Gouanvic](https://github.com/Stoaties)
 - [Reece Brogden](https://github.com/Alibaba544)
