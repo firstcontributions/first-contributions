@@ -273,6 +273,7 @@ Enrique Javier
   [yaho1231](https://github.com/yaho1231/)
   [SuperAngel11](https://github.com/SuperAngel11/)
 - [T4EK](https://github.com/T4EK)
+- [Ashwin Bhagavatula](https://github.com/ashwinbhagavatula)
 - [smdch](https://github.com/smdch)
 - [kevins0101](https://github.com/kevins0101)
 - [Samarth](https://github.com/samarth777)
