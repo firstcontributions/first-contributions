@@ -736,7 +736,6 @@ Enrique Javier
 - [Nishant_Singh](https://github.com/Nishant-Singh-2004)
 - [Shubham Parmar](https://github.com/ishubhamparmar)
 - [Tannistha Biswas](https://github.com/TannisthaBiswas)
-
 - [Ayushi Nanavati](https://github.com/Ayyyn)
 - [Nikhil gowda T P](https://github.com/Nikhil-Gowda-T-P)
 - [Adil Ansari](https://github.com/adilansari488)
@@ -4117,7 +4116,6 @@ first contributions - hanyang univ.
 - [garry host](https://github.com/9xxxxxx)
 - [Alan Joshy](https://github.com/alanjoshymj)
 - [Nathanael Ama](https://github.com/NathanaelAma/)
-
 - [siravijbb](https://github.com/siravijbb)
 - [ishita126jain](https://github.com/ishita126jain)
 - [Patrick](https://github.com/pjs32)
@@ -4147,4 +4145,5 @@ first contributions - hanyang univ.
 - [Wellington Ribeiro](https://github.com/WellingtonSI)
 - [Bodhdipta Roy](https://github.com/bodhdipta-roy)
 - [Dicka Ismaji](https://github.com/dicka88)
+- [hasity](www.baidu.com)
 
