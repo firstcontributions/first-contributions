@@ -97,6 +97,7 @@
 - [Moin Munir Ahmed](https://github.com/MoinCR7/)
 - [Abhay Kshirsagar](https://github.com/AK6263/)
 - [Ziabeher Phillips](https://github.com/Zabzx)
+- [Pankaj Adhikari](https://github.com/Pankaj809)
 - [shashank-gupta](https://github.com/shashank-2310/)
  [VISAKH M S](https://github.com/visakhms4/)
 - [bungbloopity](https://github.com/bungbloopity/)
