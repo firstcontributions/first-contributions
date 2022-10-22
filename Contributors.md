@@ -23,6 +23,7 @@
 - [Shubham Kumar](https://github.com/shubhamkumar101)
 - [Vincent Aziza](https://github.com/veaziza)
 - [June Muoti](https://github.com/JuneMuoti)
+- [Atakan Zengin](https://github.com/atakanzen)
 - [Roopesh Keshav] (https://github.com/83aqua)
 - [VictoriaTaiwo] (https://github.com/Edicemi)
 - [Zwel Htet](https://github.com/zweldev)
