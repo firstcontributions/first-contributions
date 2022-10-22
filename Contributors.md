@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Zachery Colbert](https://github.com/humunumuh)
 - [Tejal Tatiwar](https://tejaltatiwar.github.io/tejaltatiwarwebsite/)
 - [Abouar Prosper](https://github.com/4kpros/)
 - [Elvis Kinyua] (https://github.com/ekinyua)
