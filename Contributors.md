@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Aman Bhagat](https://GitHub.com/sanayaa)
 - [jaytau](https://github.com/jay-tau)
 - [Tejal Tatiwar](https://tejaltatiwar.github.io/tejaltatiwarwebsite/)
 - [Chris Johannesson](https://chrisjohannesson.com)
