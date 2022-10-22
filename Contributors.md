@@ -18,6 +18,7 @@
 - [Roopesh Keshav] (https://github.com/83aqua)
 - [VictoriaTaiwo] (https://github.com/Edicemi)
 - [Zwel Htet](https://github.com/zweldev)
+- [JDcs](https://github.com/johndoecs)
 - [May Oo](https://github.com/mayoo)
 - [Jon Gull](https://github.com/JonrGull)
 - [Tanu](https://github.com/tanu-12)
