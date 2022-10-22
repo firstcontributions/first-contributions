@@ -169,6 +169,7 @@
 - [Aditya Vijay](https://github.com/kiriotheo)
 - [Strelets Alexander](https://github.com/Tenkoru)
 - [Indranil Saha](https://github.com/saha-indranil)
+- [Aman Khatri](https://github.com/Amank927)
 - Ashifa Fatima
 - [divya](https://github.com/Divya2k05)
 - [Arunima Chaudhuri](https://github.com/tinniaru3005)
