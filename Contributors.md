@@ -11,6 +11,7 @@
 - [Jack Juechter](https://github.com/jrj102)
 - [Nharvey](https://github.com/nharvee)
 - [Arpan Mondal](https://github.com/arpan-mondal)
+- [Alpha-Zoro](https://github.com/Alfa-ZORO)
 - [Ekraj Ghimire](https://github.com/ManishGhimire127)
 - [Shubham Kumar](https://github.com/shubhamkumar101)
 - [Vincent Aziza](https://github.com/veaziza)
