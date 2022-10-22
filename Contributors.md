@@ -132,6 +132,7 @@
 - [Jose Armando](https://github.com/Armando-Grados)
 - [Sathish Kumar Saminathan](https://github.com/satissssss)
 - [MAHASAPU](https://github.com/MahasApu)
+- [Sarah Mukuti](https://github.com/cesarWrites)
 - [Bharat Mishra](https://github.com/BMlookingforaW)
 - [Pradyumn](https://github.com/Hannibal404)
 - [Elias Chakroun] (https://github.com/Yushi5058)
