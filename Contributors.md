@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Aman Bhagat](https://GitHub.com/sanayaa)
+- Pham Le Duc THinh
 - [jaytau](https://github.com/jay-tau)
 - [Tejal Tatiwar](https://tejaltatiwar.github.io/tejaltatiwarwebsite/)
 - [Chris Johannesson](https://chrisjohannesson.com)
