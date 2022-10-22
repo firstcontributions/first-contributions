@@ -48,6 +48,7 @@
 - [LeeJaeO](https://github.com/LeeJaeO)
 - [Gaurav Agrawal](https://github.com/gauravzuse)
 - [Adrien Jalouneix](https://github.com/Adrienjal98)
+- [Gavin Knudsen]
 - [Nikhil Chinchore]
 - [Sujith P](https://github.com/Alfa-ZORO)
 - [Sahil Singh](www.linkedin.com/in/sahil-singh-ss9824)
@@ -194,6 +195,7 @@
 - [Strelets Alexander](https://github.com/Tenkoru)
 - [Indranil Saha](https://github.com/saha-indranil)
 - Ashifa Fatima
+- [Jared Gentry](https://github.com/jcgentr)
 - [divya](https://github.com/Divya2k05)
 - [Arunima Chaudhuri](https://github.com/tinniaru3005)
 - [Domenico Ivan Fortuna](https://github.com/dromex22)
