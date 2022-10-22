@@ -118,6 +118,7 @@
 - [Ehmad Saeed](https://github.com/ehmadsaeed)
 - [BrenBermudez] (https://github.com/BrendaBermudez)
 - [Alex Buser](https://github.com/Albuser)
+- [Alex Peain](https://github.com/Alexpeain)
 - [Artyom Malyarenko](https://github.com/malaartyom)
 - [Snigdha Sinha](https://github.com/snigdhaop)
 - [Dibyendu Das](https://github.com/dibyendu02)
