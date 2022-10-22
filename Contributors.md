@@ -4091,6 +4091,7 @@ first contributions - hanyang univ.
 - [Bhagyaraju Pati](https://github.com/bhagi1289)
 - [Ayush Nandanwar](https://github.com/ayushnandanwar08)
 - [Rahul Patel](https://github.com/Patelrahul4884)
+- [Chrollo](https://github.com/TheOne188)
 - [Teddir](https://github.com/Teddir)
 - [JunYung Ji](https://github.com/jiogenes)
 - [Rohan Saini](https://github.com/Rohan-Saini7996)
