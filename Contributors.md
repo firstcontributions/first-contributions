@@ -1602,6 +1602,7 @@ Enrique Javier
 - [Amol Pingale](https://github.com/AmOL-PiNGALE)
 - [Dhruv Jain](https://github.com/dhruvjain896)
 - [Razin Reaz Abedin](https://github.com/RazinReaz)
+- [Bhavya Singh](https://github.com/bhavyasingh75)
 - [Krishna Gupta](https://github.com/Gutapa)
 - [Lakkimsetti Sai Yashwanth](https://github.com/YashwanthLakkimsetti)
 - [Kshitij Maurya](https://github.com/mauryakshitij)
