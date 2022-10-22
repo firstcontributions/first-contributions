@@ -2090,6 +2090,7 @@ Enrique Javier
 - [Rajkumar Dongre](https://github.com/rajkumardongre)
 - [Sourabh Singh Bisht](https://github.com/Gallant-Sage)
 - [Richmond Tetteh](https://github.com/richmondstetteh)
+- [Munezero Bagira Sostene](https://github.com/munezerobagira)
 - [Dina (Kendle) Davis](https://github.com/DKendle)
 - [Deepanshu kumar](https://github.com/deepanshu1334)
 - [Roosevelt Stallings III](https://github.com/rstallingsiii)
