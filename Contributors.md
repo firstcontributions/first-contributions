@@ -28,6 +28,7 @@
 -[Rebecca](https://github.com/rebeccawuu)
 - [Samuel Favarin](https://github.com/SamuelBFavarin)
 - [abirhussain](https://github.com/abirhussain)
+- [Edivilson Dalacosta](https://github.com/edjdc)
 - [Halfhero](https://github.com/Halfhero212)
 - [Anjali Singh](https://github.com/anjalisingh23)
 - [Lucas Perez](https://github.com/lucasp149)
