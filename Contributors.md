@@ -111,7 +111,8 @@
 - [Ayush Shete](https://github.com/ayushete02)
 - [Monazza Qadeer Khan] (https://github.com/monazza-qk92)
 - [Rishabh Gist](https://github.com/rishabhgist)
-- [Kartik Kumar](https://github.com/yellowterrum)
+- [Kartik Kumar](https://github.com/yellowterrum
+- [emmakodes](https://github.com/emmakodes)
 - [devzohaib](https://github.com/devzohaib)
 - [Tanmay Bhujade](https://github.com/Tanmaybhujade)
 - [Ehmad Saeed](https://github.com/ehmadsaeed)
