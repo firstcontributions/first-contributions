@@ -44,6 +44,7 @@
 - [imappuru](https://github.com/imappuru)
 - [verissimon](https://github.com/verissimon)
 - [DragonFireShield](https://github.com/dragonfireshield)
+- [Al Aasad Nur Riyad](https://github.com/nurRiyad)
 - [Teguh Widodo](https://github.com/teguhwin8)
 - [Harshit Arora](https://github.com/harshit0755)
 - [Mayank Jha](https://github.com/mkjha482)
