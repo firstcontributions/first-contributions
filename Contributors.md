@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Tejal Tatiwar](https://tejaltatiwar.github.io/tejaltatiwarwebsite/)
+- [Chris Johannesson](https://chrisjohannesson.com)
 - [Abouar Prosper](https://github.com/4kpros/)
 - [Elvis Kinyua] (https://github.com/ekinyua)
 - John Gitahi
