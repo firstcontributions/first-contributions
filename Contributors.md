@@ -38,6 +38,7 @@
 - [Luis Pedreira] (https://github.com/luisepedreira)
 - [Farhan khan](https://github.com/farhanalws4u)
 - [Niklas Betke](https://github.com/nikbetke)
+- [Vishal Kumar Sinha](https://github.com/VishSinh)
 - [Oluwatimilehin Esan](https://github.com/therealtmmy)
 - [Satendra Mishra](https://github.com/Satendram)
 - [Himanshu Singh](https://github.com/singh-himanshu-16)
