@@ -29,6 +29,7 @@
 - [Zwel Htet](https://github.com/zweldev)
 - [JDcs](https://github.com/johndoecs)
 - James Pow
+- Eleeka Nongthombam(https://github.com/EleekaN)
 - [May Oo](https://github.com/mayoo)
 - [Jon Gull](https://github.com/JonrGull)
 - [Tanu](https://github.com/tanu-12)
