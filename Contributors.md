@@ -304,6 +304,7 @@ Enrique Javier
 - [kevins0101](https://github.com/kevins0101)
 - [Samarth](https://github.com/samarth777)
 - [Sandeep Nayak](https://github.com/SANDEEP-NAYAK)
+- [Tarif Higolja](https://github.com/mr-hingolja)
 - [Sahil Ahmed](https://github.com/PirateOfAndaman)
 - [youngjun1227](https://github.com/youngjun1227)
 - [Preston Harms](https://github.com/R3dPnd)
