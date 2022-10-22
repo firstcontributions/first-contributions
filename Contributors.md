@@ -4,6 +4,7 @@
 - [Tejal Tatiwar](https://tejaltatiwar.github.io/tejaltatiwarwebsite/)
 - [Abouar Prosper](https://github.com/4kpros/)
 - [Elvis Kinyua] (https://github.com/ekinyua)
+- John Gitahi
 - [Anas J Mirza](https://github.com/anasjmirza)
 - [Mauricio Quiroga](https://github.com/MauricioQuiroga)
 - [Liang G. E.]
