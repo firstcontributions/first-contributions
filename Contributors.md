@@ -6,6 +6,7 @@
 - [Chris Johannesson](https://chrisjohannesson.com)
 - [Abouar Prosper](https://github.com/4kpros/)
 - [Elvis Kinyua] (https://github.com/ekinyua)
+- Ketan Jangid
 - John Gitahi
 - [Anas J Mirza](https://github.com/anasjmirza)
 - [Mauricio Quiroga](https://github.com/MauricioQuiroga)
