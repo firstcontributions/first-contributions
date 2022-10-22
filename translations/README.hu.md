@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -19,7 +19,7 @@ Ha nincs a gépeden git, [telepítsd fel]( https://help.github.com/articles/set-
 ## Ágaztasd ezt a repót (fork)
 
 A Fork gomb kattintásával ágaztasd el ezt a repót.
-Készíteni fog egy másolatot erről a repóról a te saját git fiókodba.
+Ezzel készítettél egy másolatot erről a reporól a te saját git fiókodba.
 
 ## Klónozd a repót (clone)
 
@@ -51,12 +51,12 @@ cd first-contributions
 ```
 Most készítsünk egy ágat `git checkout` parancs használatával:
 ```
-git checkout -b <az-uj-branch-neve>
-```
+
+git switch -c <az-uj-branch-neve>
 
 Például:
 ```
-git checkout -b add-gabor-takacs
+git switch -c add-gabor-takacs
 ```
 (A branch nevében nem kötelező, hogy benne legyen az *add* szó, de észszerű belefoglalni, mert ennek az ágnak az a célja, hogy hozzáadja a nevünket egy listához.)
 
@@ -108,7 +108,7 @@ Gratulálunk! Sikeresen teljesítetted az alapvető _fork -> clone -> edit -> PR
 
 Ünnepeld meg az első kooperációdat és oszd meg barátaiddal és követőiddel ennek a [web app](https://firstcontributions.github.io/#social-share)-nak a segítségével.
 
-Bármilyen kérdésed van vagy segítségre lenne szükséged, csatlakozz slack csapatunkhoz. [Csatlakozz a slack csapathoz.](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM).
+Bármilyen kérdésed van vagy segítségre lenne szükséged, csatlakozz slack csapatunkhoz. [Csatlakozz a slack csapathoz.](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Itt az idő egy másik projektben is közreműködni. Összeállítottunk egy listát azokról a projektekről, melyek könnyebb feladatokat tartalmaznak az induláshoz. Nézd meg a [projektek listáját](https://firstcontributions.github.io/#project-list) a webalkalmazásban.
 
@@ -117,6 +117,6 @@ Itt az idő egy másik projektben is közreműködni. Összeállítottunk egy li
 
 ## Oktatóanyagok más eszközök használatával
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/assets/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|<a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|<a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a>|
 |---|---|---|---|---|
 |[GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md)|[Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md)|[GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md)|[Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md)|[Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md)|

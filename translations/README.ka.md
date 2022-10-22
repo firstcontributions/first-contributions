@@ -1,29 +1,29 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
 # ಮೊದಲ ಕೊಡುಗೆಗಳು
 
-ಇದು ಕಷ್ಟ.ನೀವು ಏನನ್ನಾದರೂ ಮಾಡಿದ ಮೊದಲ ಬಾರಿಗೆ ಯಾವಾಗಲೂ ಕಷ್ಟ. ವಿಶೇಷವಾಗಿ ನೀವು ಸಹಯೋಗ ಮಾಡುವಾಗ, ತಪ್ಪುಗಳನ್ನು ಮಾಡುವುದು ಆರಾಮದಾಯಕ ವಿಷಯವಲ್ಲ. ಹೊಸ ತೆರೆದ ಮೂಲ ಕೊಡುಗೆದಾರರು ಮೊದಲ ಬಾರಿಗೆ ಕಲಿಯುವ ಮತ್ತು ಕೊಡುಗೆ ನೀಡುವ ವಿಧಾನವನ್ನು ಸರಳೀಕರಿಸಲು ನಾವು ಬಯಸಿದ್ದೇವೆ.
+ಈ ಯೋಜನೆಯು ಆರಂಭಿಕರು ತಮ್ಮ ಮೊದಲ ಕೊಡುಗೆಯನ್ನು ನೀಡುವ ವಿಧಾನವನ್ನು ಸರಳಗೊಳಿಸುವ ಮತ್ತು ಮಾರ್ಗದರ್ಶನ ಮಾಡುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ. ನಿಮ್ಮ ಮೊದಲ ಕೊಡುಗೆಯನ್ನು ನೀಡಲು ನೀವು ಬಯಸಿದರೆ, ಕೆಳಗಿನ ಹಂತಗಳನ್ನು ಅನುಸರಿಸಿ.
 
-ಲೇಖನಗಳನ್ನು ಓದುವುದು ಮತ್ತು ಟ್ಯುಟೋರಿಯಲ್ ನೋಡುವುದು ಸಹಾಯ ಮಾಡುತ್ತದೆ, ಆದರೆ ಅಭ್ಯಾಸ ಪರಿಸರದಲ್ಲಿ ವಿಷಯವನ್ನು ಮಾಡುವುದಕ್ಕಿಂತ ಉತ್ತಮವಾದದ್ದು ಯಾವುದು? ಈ ಯೋಜನೆಯು ಮಾರ್ಗದರ್ಶನ ನೀಡುವ ಮತ್ತು ಆರಂಭಿಕರು ತಮ್ಮ ಮೊದಲ ಕೊಡುಗೆ ನೀಡುವ ವಿಧಾನವನ್ನು ಸರಳಗೊಳಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ. ನಿಮ್ಮ ಮೊದಲ ಕೊಡುಗೆ ನೀಡಲು ನೀವು ಬಯಸಿದರೆ, ಕೆಳಗಿನ ಹಂತಗಳನ್ನು ಅನುಸರಿಸಿ.
+_ನೀವು ಆಜ್ಞಾ ಸಾಲಿನೊಂದಿಗೆ ಆರಾಮದಾಯಕವಲ್ಲದಿದ್ದರೆ,[GUI ಉಪಕರಣಗಳನ್ನು ಬಳಸುವ ಟ್ಯುಟೋರಿಯಲ್‌ಗಳು ಇಲ್ಲಿವೆ.](#tutorials-using-other-tools)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್ ಹೊಂದಿಲ್ಲದಿದ್ದರೆ,[ಅದನ್ನು ಸ್ಥಾಪಿಸಿ](https://help.github.com/articles/set-up-git/)
+ನಿಮ್ಮ ಯಂತ್ರದಲ್ಲಿ ನೀವು ಜಿಟ್ ಹೊಂದಿಲ್ಲದಿದ್ದರೆ,[ಅದನ್ನು ಸ್ಥಾಪಿಸಿ](https://help.github.com/articles/set-up-git/)
 
 ## ಈ ರೀಪಾಜ಼ಟೊರೀ ಫೋರ್ಕ್ ಮಾಡಿ
 
-ಈ ಪುಟದ ಮೇಲ್ಭಾಗದಲ್ಲಿರುವ ಫೋರ್ಕ್ ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡುವ ಮೂಲಕ ಈ ರೆಪೊಸಿಟರಿಯನ್ನು ಫೋರ್ಕ್ ಮಾಡಿ.
-ಇದು ನಿಮ್ಮ ಖಾತೆಯಲ್ಲಿ ಈ ರೀಪಾಜ಼ಟೊರೀಯ ನಕಲನ್ನು ರಚಿಸುತ್ತದೆ.
+ಈ ಪುಟದ ಮೇಲ್ಭಾಗದಲ್ಲಿರುವ ಫೋರ್ಕ್ ಬಟನ್ ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡುವ ಮೂಲಕ ಈ ರೆಪೊಸಿಟರಿಯನ್ನು ಫೋರ್ಕ್ ಮಾಡಿ.
+ಇದು ನಿಮ್ಮ ಖಾತೆಯಲ್ಲಿ ಈ ರೆಪೊಸಿಟರಿಯ ನಕಲನ್ನು ರಚಿಸುತ್ತದೆ.
 
 ## ರೆಪೊಸಿಟರಿ ಕ್ಲೋನ್
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-ಈಗ ನಿಮ್ಮ ಯಂತ್ರಕ್ಕೆ ಫೋರ್ಕ್ಡ್ ರೆಪೊಸಿಟರಿಯನ್ನು ಕ್ಲೋನ್ ಮಾಡಿ. ನಿಮ್ಮ ಗಿಟ್‌ಹಬ್ ಖಾತೆಗೆ ಹೋಗಿ, ಫೋರ್ಕ್ಡ್ ರೆಪೊಸಿಟರಿಯನ್ನು ತೆರೆಯಿರಿ, ಕ್ಲೋನ್ ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡಿ ತದನಂತರ ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ಗೆ ನಕಲಿಸಿ ಐಕಾನ್ ಕ್ಲಿಕ್ ಮಾಡಿ.
+ಈಗ ನಿಮ್ಮ ಯಂತ್ರಕ್ಕೆ ಫೋರ್ಕ್ಡ್ ರೆಪೊಸಿಟರಿಯನ್ನು ಕ್ಲೋನ್ ಮಾಡಿ. ನಿಮ್ಮ GitHub ಖಾತೆಗೆ ಹೋಗಿ, ಫೋರ್ಕ್ ಮಾಡಿದ ರೆಪೊಸಿಟರಿಯನ್ನು ತೆರೆಯಿರಿ, ಕೋಡ್ ಬಟನ್ ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ನಂತರ _copy to clipboard_ ಐಕಾನ್ ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ.
 
 ಟರ್ಮಿನಲ್ ತೆರೆಯಿರಿ ಮತ್ತು ಕೆಳಗಿನ git ಆಜ್ಞೆಯನ್ನು ಚಲಾಯಿಸಿ:
 
@@ -81,7 +81,7 @@ git push origin <ನಿಮ್ಮ ಶಾಖೆಯ ಹೆಸರನ್ನು ಸೇ
 ## ಇಂದಿನಿಂದ ಏನು?
 ಅಭಿನಂದನೆಗಳು! ನೀವು ಕೊಡುಗೆದಾರರಾಗಿ ಆಗಾಗ್ಗೆ ಎದುರಾಗುವ ಪ್ರಮಾಣಿತ _fork -> clone -> edit -> PR_ ವರ್ಕ್‌ಫ್ಲೋ ಅನ್ನು ನೀವು ಇದೀಗ ಪೂರ್ಣಗೊಳಿಸಿದ್ದೀರಿ!
 ನಿಮ್ಮ ಕೊಡುಗೆಯನ್ನು ಆಚರಿಸಿ ಮತ್ತು ಅದನ್ನು ನಿಮ್ಮ ಸ್ನೇಹಿತರು ಮತ್ತು ಅನುಯಾಯಿಗಳೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ [ವೆಬ್ ಅಪ್ಲಿಕೇಶನ್](https://firstcontributions.github.io/#social-share).
-ನಿಮಗೆ ಯಾವುದೇ ಸಹಾಯ ಬೇಕಾದರೆ ಅಥವಾ ಯಾವುದೇ ಪ್ರಶ್ನೆಗಳಿದ್ದಲ್ಲಿ ನೀವು ನಮ್ಮ slack team ಸೇರಬಹುದು. [Slack team ಸೇರಿ](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM).
+ನಿಮಗೆ ಯಾವುದೇ ಸಹಾಯ ಬೇಕಾದರೆ ಅಥವಾ ಯಾವುದೇ ಪ್ರಶ್ನೆಗಳಿದ್ದಲ್ಲಿ ನೀವು ನಮ್ಮ slack team ಸೇರಬಹುದು. [Slack team ಸೇರಿ](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 ಈಗ ನೀವು ಹೆಚ್ಚಿನ ಯೋಜನೆಗಳಿಗೆ ಕೊಡುಗೆ ನೀಡಲು ಪ್ರಾರಂಭಿಸಬಹುದು. ನಾವು ನಿಮಗಾಗಿ ಒಂದು ಪಟ್ಟಿಯನ್ನು ತಯಾರಿಸಿದ್ದೇವೆ ಅದು ಬಹಳ ಸುಲಭವಾದ ಸಮಸ್ಯೆಗಳು. [ಯೋಜನೆಗಳ ಪಟ್ಟಿ](https://roshanjossey.github.io/first-contributions/#project-list)
 ## ಇತರ ಪರಿಕರಗಳನ್ನು ಬಳಸುವ ಟ್ಯುಟೋರಿಯಲ್
 | <a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
