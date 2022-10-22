@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [jaytau](https://github.com/jay-tau)
 - [Tejal Tatiwar](https://tejaltatiwar.github.io/tejaltatiwarwebsite/)
 - [Chris Johannesson](https://chrisjohannesson.com)
 - [Abouar Prosper](https://github.com/4kpros/)
