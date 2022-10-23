@@ -15,6 +15,7 @@
 - [Anas J Mirza](https://github.com/anasjmirza)
 - [Mauricio Quiroga] (https://github.com/MauricioQuiroga)
 - [Liang G. E.]
+- [Sneha Mandal](https://github.com/sm-creative-crazy4code)
 - [Jordanjun98](https://github.com/Jordanjun98)
 - [Jack Juechter](https://github.com/jrj102)
 - [Illyaas Sowunmi](https://www.frontendmentor.io/profile/Illyaas4Show) [Illyaas4Show's Github](https://github.com/Illyaas4Show)
