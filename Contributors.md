@@ -23,6 +23,7 @@
 - [Jack Juechter](https://github.com/jrj102)
 - [Illyaas Sowunmi](https://www.frontendmentor.io/profile/Illyaas4Show) [Illyaas4Show's Github](https://github.com/Illyaas4Show)
 - [Nharvey](https://github.com/nharvee)
+  [Seun Olagunju](https://github.com/FacuVanilla)
 - [Arpan Mondal](https://github.com/arpan-mondal)
 - [Alpha-Zoro](https://github.com/Alfa-ZORO)
 - [Ekraj Ghimire](https://github.com/ManishGhimire127)
