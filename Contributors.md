@@ -4240,6 +4240,7 @@ first contributions - hanyang univ.
 - [Sneha Shukla](https://github.com/Scarlet-Coder)
 - [Shahriar Ahmmed](https://github.com/shahariarahmmed)
 - [Danish Kamal](https://github.com/Madeyedexter))
+- [Kaushik Dhiman](https://github.com/kaushik-dhiman)
 - [Shivshankar Nagarsoge](https://github.com/nagarsogesn)
 - [Jan Lachmuth](https://github.com/lachja)
 - [Akhoury Shauryam](https://github.com/Satan-Claws)
