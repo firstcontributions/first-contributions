@@ -997,6 +997,7 @@ Enrique Javier
 - [Chiemela Uzoma](https://github.com/Codesait)
 - [Saurabh Kumar](https://github.com/Saurabh-2809)
 - [Osman Batur Çelik](https://github.com/osmnbtrclk)
+- [Bradley Mikesell] (https://github.com/BeeMikesell)
 - [Surbhi Mayank](https://github.com/surbhi2408)
 - [Abhay Chandel](https://github.com/iabhaychandel)
 - [Ritik Sethi](https://github.com/ritiksethi21)
