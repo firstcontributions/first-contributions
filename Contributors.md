@@ -657,7 +657,7 @@ Enrique Javier
 - [Supriadi](https://github.com/obocloud)
 - [Laaaaksh](https://github.com/Laaaaksh)
 - [Thejus](https://github.com/thejus-m)
-- [Ritik]
+- Ritik
 - [hawkiq](https://github.com/hawkiq)
 - [Jann Marc Villablanca](https://github.com/jfvillablanca)
 - [Sri Ram](https://github.com/sriram-km)
