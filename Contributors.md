@@ -14,6 +14,7 @@
 - [Elvis Kinyua] (https://github.com/ekinyua)
 - Ketan Jangid
 - John Gitahi
+- Rishi Kumar Jha
 - [Anas J Mirza](https://github.com/anasjmirza)
 - [Mauricio Quiroga] (https://github.com/MauricioQuiroga)
 - [Liang G. E.]
