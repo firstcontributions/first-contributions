@@ -357,7 +357,7 @@ Enrique Javier
 - [Higor Chagas](https://github.com/HigorChagas)
 - [Matty Charitan](https://github.com/Matty-charitan)
 - [Piyush Raviraj](https://github.com/Piyushraviraj2611)
-- [D wayne Gibbs](https://dwaynegibbs.net)
+- [Dwayne Gibbs](https://dwaynegibbs.net)
 - [AVINASH YADAV](https://github.com/Happylife10)
 - [Joshua Knorz](https://github.com/JoshKn)
 - [Tri Pham](https://github.com/TriMPham98)
