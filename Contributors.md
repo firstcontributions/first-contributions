@@ -4079,7 +4079,7 @@ first contributions - hanyang univ.
 - [Ayush Srivastava](https://github.com/ayush91985)
 - [Sergei Shtukaturov](https://github.com/Zimovit/)
 - [Hrishi](https://github.com/Excalibur1999)
--[]
+- [Rahul Talukdar](https://github.com/rahultalukdargithub)
 - [Uday Kharatmol](https://github.com/UdayKharatmol)
 - [Swaraj Patil](https://github.com/Swaraj57)
 - [Nitya Shukla](https://github.com/NityaShukla0)
