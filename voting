@@ -1,0 +1,8 @@
+a= int(input("Enter the age of the person"))
+
+if a>18:
+  print("person is eligible to vote")
+elif a==18:
+  print("person is eligible to vote")
+else:
+    print("person is  not eligible to vote")
