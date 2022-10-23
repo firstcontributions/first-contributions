@@ -260,6 +260,7 @@ Enrique Javier
 - [William-David](https://github.com/William-David)
 - [Shashwat-Dev] (https://github.com/devshashwat)
 - [amitc9405] (https://github.com/amitc9405)
+- [Ayush Rai](https://github.com/meaayushrai)
 - [jayesh] (https://github.com/jayesh101)
 - [Jess-Newman] (https://github.com/jessnewman19)
 - [Aniruddha Bajpai](https://github.com/Aniruddha-Bajpai)
@@ -441,6 +442,7 @@ Enrique Javier
 - [Deepali Sayana](https://github.com/deepseas07)
 - [André Carvalhal](https://github.com/ANDREC1986)
 - [Rahul Saha](https://github.com/Rahul10Saha)
+-
 - [Sadiq Siraj Ebrahim](https://github.com/sadiqebrahim)
 - [Wajid Ali Tabassum](https://github.com/wajidalitabassum143)
 - [Manvendra Prasad](https://github.com/Manv3ndra)
