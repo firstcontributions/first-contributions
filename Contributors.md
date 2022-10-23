@@ -4034,6 +4034,7 @@ Enrique Javier
 - [Rodukov](https://github.com/rodukov)
 - [Gunali Rezqi Mauludi](https://github.com/gunalirezqimauludi)
 - [Skuth](https://github.com/skuth)
+- [Rick Castaneda](https://github.com/castanedadev-edu)
 - [Fernanda Dantas](https://github.com/Fernanda-Dantas)
 - [Felipe Alves](https://github.com/ffelipealves)
 - [Anirudha-CA](https://github.com/Anirudha-CA)
