@@ -38,7 +38,7 @@
 - [VictoriaTaiwo] (https://github.com/Edicemi)
 - [Zwel Htet](https://github.com/zweldev)
 - [JDcs](https://github.com/johndoecs)
-- 
+- [Ozuem Eugene](https://github.com/preeaacchh)
 - James Pow
 - Eleeka Nongthombam(https://github.com/EleekaN)
 - [May Oo](https://github.com/mayoo)
