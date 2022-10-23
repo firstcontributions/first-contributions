@@ -28,6 +28,7 @@
 - [SaumitraPatil](https://github.com/SaumitraPatil)
 - [Arpan Mondal](https://github.com/arpan-mondal)
 - [Alpha-Zoro](https://github.com/Alfa-ZORO)
+- [Aritra-Ganguly](https://github.com/AritraGanguly)
 - [Ekraj Ghimire](https://github.com/ManishGhimire127)
 - [Shubham Kumar](https://github.com/shubhamkumar101)
 - [Vincent Aziza](https://github.com/veaziza)
