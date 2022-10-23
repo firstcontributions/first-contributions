@@ -1,5 +1,5 @@
 # Contributors
-- [kickJS22](https://github.com/kickJS22)
+
 <!-- prettier-ignore-start -->
 - [shashank-gupta](https://github.com/shashank-2310/)
 - [bungbloopity](https://github.com/bungbloopity/)
@@ -812,7 +812,8 @@
 - [Aditya Ghyar](https://github.com/mgaditya-er)
 - [Syed Mohammad Osama](https://github.com/syed-m-osama)
 - [Azhar Sayyad](https://github.com/Azhar221)
-- [Shreya Singh] 
+- [Shreya Singh]
+- [kickJS22](https://github.com/kickJS22)
 [ashutosh_sankpal](https://github.com/ashutoshj30)
 - [Francis Okonkwo](https://github.com/Bluebberies)
 - [Joshua Ruffolo](https://github.com/jruffolo)
