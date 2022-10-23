@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Bojidar Vladimirov](https://github.com/BojidarV)
 - [Urvesh Radadiya](https://github.com/URVESH1121)
+- [Kely Sarmi](https://github.com/kelysi)
 - [Adit Bhargava](https://github.com/zcsop1206)
 - [Sahil Barsaiyan](https://github.com/Sahilb12)
 - [Aman Bhagat](https://GitHub.com/sanayaa)
@@ -117,7 +118,6 @@
 - [Freya Shah](https://github.com/Freya-29)
 - [Chethas Pv](https://github.com/chethas7)
 - [Cyan Cipher](https://github.com/CyanCipher)
-- [kelys] (https://github.com/kelysi)
 - [Aayush Arora](https://github.com/AroraAayush)
 - [Suraj Patra](https://github.com/Suraj-Patra)
 - [Mallela D. Vinay](https://github.com/MD571)
