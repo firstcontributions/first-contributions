@@ -604,6 +604,7 @@ Enrique Javier
 - [Martins Ngene](https://github.com/Martinsngene)
 - [AJ Smith](https://github.com/OfficialAJSmith)
 - [vishal dhavale](https://github.com/vishu1893)
+- [Subhajit Mahata](https://github.com/subhajitkp007)
 - [Yashvardhan Agnihotri](https://github.com/25011908vardhan)
 - [Priyadarshini Sharma](https://github.com/PriyadarshiniSharma)
 - [luv sharma](https://github.com/luvsharmag)
