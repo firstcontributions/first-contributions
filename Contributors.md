@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Urvesh Radadiya](https://github.com/URVESH1121)
 - [Adit Bhargava](https://github.com/zcsop1206)
 - [Sahil Barsaiyan](https://github.com/Sahilb12)
 - [Aman Bhagat](https://GitHub.com/sanayaa)
