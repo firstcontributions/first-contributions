@@ -3938,6 +3938,7 @@ Enrique Javier
 - [Mukund Deepak](https://github.com/mukunddeepak)
 - [Muhammed Jahsid](https://github.com/jahsid)
 - [Silicon Merc](https://github.com/SiliconMerc)
+- [Nishchal128](https://github.com/Nishchal128)
 - [Shashank K V] (https://github.com/Shashank-K-V)
 - [N N Goswami] (https://github.com/imNilabja)
 - [Ayushi Gautam] (https://github.com/AyushiGautam9)
