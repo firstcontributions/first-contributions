@@ -200,6 +200,7 @@
 - [Huzaifa Qureshi] (https://github.com/Huzaifa-code)
 - [Vincent Radford](https://github.com/rajahwu)
 - [oshiqi](https://github.com/oshiqi)
+- [Shrimad Bhagwat](https://github.com/Shrimad-Bhagwat)
 - [Giuliano Marcus Bianco](https://github.com/giuliano-marcus-bianco)
 - [Niket Tiwari](https://github.com/Tiwari-Niket )
 - [Jason Kasari](https://github.com/jkasari)
