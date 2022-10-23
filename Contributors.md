@@ -1049,7 +1049,7 @@ Enrique Javier
 - [Nicolas Alvarez](https://github.com/NiAlvarez)
 - [embTw] (https://github.com/embTw)
 - [Apurv Sinha](https://github.com/sinaps07)
-- [Baby Washbear] (https://github.com/babywashbear)
+- [Baby Washbear](https://github.com/babywashbear)
 - [Isaac Emerson](https://github.com/Aeronio)
 - [Koty Stannard](https://github.com/k-stannard)
 - [Anish Kacham](https://github.com/anishKacham)
@@ -1076,6 +1076,7 @@ Enrique Javier
 - [Andrew Onaulogho](https://github.com/RealOcee)
 - [Anurag Rawat](https://github.com/Anurag-NURA)
 - [Trey_Crank](https://github.com/TreyTC)
+- [Lindsey Howard](https://github.com/codelikeagirl29)
 - [Jeziel Almeida](https://github.com/jeziel-almeida)
 - [Youmi Koh](https://github.com/youmikoh)
 - [segoSambel](https://github.com/segoSambel)
@@ -4202,4 +4203,4 @@ first contributions - hanyang univ.
 - [Mylena Angélica](https://github.com/Mylena-angelica)
 - [Vahid Hussain Ansari](https://github.com/vahidhusyn)
 - [Sneha Shukla](https://github.com/Scarlet-Coder)
-
+- [Danish Kamal](https://github.com/Madeyedexter))
