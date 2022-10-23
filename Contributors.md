@@ -38,7 +38,7 @@
 - [VictoriaTaiwo] (https://github.com/Edicemi)
 - [Zwel Htet](https://github.com/zweldev)
 - [JDcs](https://github.com/johndoecs)
-- 
+-
 - James Pow
 - Eleeka Nongthombam(https://github.com/EleekaN)
 - [May Oo](https://github.com/mayoo)
@@ -46,7 +46,7 @@
 - [Tanu](https://github.com/tanu-12)
 -Shahin Yahya
 -[Rebecca](https://github.com/rebeccawuu)
-- Zaki 
+- Zaki
 - [Samuel Favarin](https://github.com/SamuelBFavarin)
 - [abirhussain](https://github.com/abirhussain)
 - [Edivilson Dalacosta](https://github.com/edjdc)
@@ -109,6 +109,7 @@
 - [Aniket Ghosh](https://github.com/quanta003)
 - [Sergey Novikov] (https://github.com/Isn0v)
 - That guy
+- [Danny](https://github.com/DanFCo)
 - [Souhil OMARI](https://github.com/Souhil19)
 - [Mayank Sahu](https://github.com/Mayank8085)
 - [Anchal Kumar Chaudahry](https://github.com/anchal9670)
@@ -431,7 +432,7 @@ Enrique Javier
 - [Hamza Nehme](https://github.com/hnehme99)
 - [Chris Boles](https://github.com/cboles80)
   [Dev-it-a-dev](https://github.com/dev-it-a-dev)
-- [Alexis Gonzalez](https://github.com/Alex-is-Gonzalez)  
+- [Alexis Gonzalez](https://github.com/Alex-is-Gonzalez)
 - [Shreyash Gupta](https://github.com/shreyash2610)
 - [Manish Kumar](https://github.com/Manish-kumar-DEV)
 - [Nora Aguirre](https://github.com/nora-programadora)
@@ -556,7 +557,7 @@ Enrique Javier
 
 - [Kunal Kartik](https://github.com/KunalKartik02)
 - [Vijayalaxmi Kadham](https://github.com/KadhamVj23)
-- [Akash Kundu](https://github.com/Akash190104) 
+- [Akash Kundu](https://github.com/Akash190104)
 - [Syed Jailani](https://github.com/syedjailani)
 - [AkT-01](https://githhub.com/AkT-01)
 - [Syed Jailani](https://github.com/syedjailani)
@@ -712,7 +713,7 @@ Enrique Javier
 - [Kevin] (https://github.com/ZaBarudo)
 - [Devansh] (https://github.com/Devansh-Walia)
 - [Joseph Uzuegbu] (https://github.com/josephDev123)
-- [Alon Cohen] (https://github.com/Alon2904)  
+- [Alon Cohen] (https://github.com/Alon2904)
 - [Shrey Jaiswal](https://github.com/Shrey2002)
 - [Abhijeet Jadhav] (https://github.com/mrabhijeetjadhav)
 - [Aayushi Kukreja](https://github.com/AayushiKukreja)
@@ -776,7 +777,7 @@ Enrique Javier
 - [Ashish Patel](https://github.com/ashishxcode)
 - [Srinidhi Gopalan](https://github.com/srinidhigopalan)
 - [Pablo Escobar](https://github.com/esc20936)
-- [Tri Pham](https://github.com/TriMPham98)  
+- [Tri Pham](https://github.com/TriMPham98)
 - [Ayush Solanki](https://github.com/AyushSolanki123)
 - [Ian Wairimu](https://github.com/wairimu)
 <!-- collins kiplangat mutai(Kiplaacollo) -->
@@ -2890,7 +2891,7 @@ Enrique Javier
 - [Jaymee Chen](https://github.com/jmechn)
 - [John Paul Yeap](https://github.com/Lalats12)
 - [Michael Lee Piotrowski](https://www.github.com/MikePiotrowski)
-  [Omar Mohammad](https://www.github.com/OmarMWarraich) 	
+  [Omar Mohammad](https://www.github.com/OmarMWarraich)
 - [Ojonuba Jeremiah](https://www.github.com/spartan124)
 - [CyOfficial](https://github.com/CyOfficial)
 - [Kasab Mohammed Imran](https://github.com/mohammedimrank)
@@ -4229,7 +4230,7 @@ first contributions - hanyang univ.
 - [Prashant Kumar](https://github.com/pkumars397)
 - [Aradhya Mishra](https://github.com/aradhya-10)
 - [Samay Sagar](https://github.com/samay-rgb)
-- [Nagaraj Vn](https://github.com/meeraj257) 
+- [Nagaraj Vn](https://github.com/meeraj257)
 - [Soumya dubey](https://github.com/soumya332)
 - [Ashwin Narayanan S](https://github.com/Ashrockzzz2003)
 - [Danish Kamal](https://github.com/Madeyedexter)
