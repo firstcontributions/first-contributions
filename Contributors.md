@@ -4077,10 +4077,12 @@ first contributions - hanyang univ.
 - [Ikram](https://github.com/kamibel)
 - [Suraj](https://github.com/Surajkumar98012)
 -[yash](https://github.com/yashkondajisonawane)
+- [KeshavPai](https://github.com/NotChampi0n)
 
 - [Vishal Arunagiri](https://github.com/vishalarunagiri)
 
 - [Mehedi Hasan](https://github.com/mytaison)
+-[Ojas Mittal](https://github.com/OjasMittal)
 - [Okvi DS](https://github.com/Dwisantra/)
 - [pioneersTeam](https://github.com/zaidanali028/first-contributions)
 - [Ayush Srivastava](https://github.com/ayush91985)
