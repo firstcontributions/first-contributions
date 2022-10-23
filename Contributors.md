@@ -3878,6 +3878,7 @@ Enrique Javier
 - [isnani](https://github.com/Isnani25)
 - [Buffersolve](https://github.com/Buffersolve)
 - [Krnlsoft](https://github.com/Krnlsoft)
+- [afflato](https://github.com/afflato)
 - [Sarang Thrippanikkara](https://github.com/sarangthrippanikkara
 - [Rahmat Subandi](https://github.com/rahmatsubandi)
 - [Divyansh Kumar](https://github.com/coris01)
