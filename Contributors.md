@@ -2498,6 +2498,7 @@ Enrique Javier
 - [Nicholas Mendez](https://github.com/nickmendezFlatiron)
 - [Evan Nevermore](https://github.com/infiniteinsight)
 - [Erick Felix](https://github.com/efs0-cod3)
+- [David Canning](https://github.com/davidcanning) 
 - [Dionis Gedeshi](https://github.com/DionisGedeshi)
 - [Zaid Marrie](https://github.com/ZaidMarrie)
 - [Ogieleguea Hillary](https://github.com/hillarywebb-coder)
