@@ -310,7 +310,6 @@ Enrique Javier
 - [Etinosa Ekhator](https://github.com/Etinosa22)
 - [seongjunyeong](https://github.com/seongjunyeong)
 - [Jungmw03](https://github.com/Jungmw03)
-- [Jawwad Alam](https://github.com/JawwadAlam)
 - [yutakdv](https://github.com/yutakdv)
 - [TurtleJay](https://github.com/TurtleJay)
 - [Gaurav Giri](https://github.com/gaurovgiri)
