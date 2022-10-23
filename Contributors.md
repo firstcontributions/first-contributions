@@ -200,6 +200,7 @@
 - [Aditya Vijay](https://github.com/kiriotheo)
 - [Strelets Alexander](https://github.com/Tenkoru)
 - [Indranil Saha](https://github.com/saha-indranil)
+- [Aman Khatri](https://github.com/Amank927)
 - Ashifa Fatima
 - [Jared Gentry](https://github.com/jcgentr)
 - [divya](https://github.com/Divya2k05)
