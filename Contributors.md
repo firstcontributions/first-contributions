@@ -161,7 +161,6 @@ Enrique Javier
 - [Tanmay Pradhan](https://github.com/tanmaypradhan4112)
 - [Chirag Goyal](https://github.com/ChiragGoyal98)
 - [Animesh Singh](https://github.com/Animesh0764)
-- [Norahc Baron](
 - [Jeet Oza](https://github.com/Oza-Jeetkumar-Vishnubhai)
 - [Ayush Dodiya](https://github.com/AHD153)
 - [KDE030617](https://github.com/KDE030617)
