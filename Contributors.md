@@ -485,6 +485,7 @@ Enrique Javier
 - [Ayushi Singh](https://github.com/ayushisingh73448/)
 - [Siddharth Prajapati](https://github.com/siddd26)
 - [Kartikeya Kushwaha](www.linkedin.com/in/kartikeya-kushwaha-3036731ba)
+- [Sanjana Sogimatt](https://github.com/SanjanaSogimatt)
 - [Stroganov Kirill](https://github.com/kiraplenkin)
 - [Laksh Gupta](https://github.com/cyborglaksh)
 - [Nabarun Sarkar](https://github.com/nabaruns)
