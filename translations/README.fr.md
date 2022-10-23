@@ -89,15 +89,15 @@ Maintenant soumettez la demande de tirage.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Sous peu j'aurai fusionné toutes vos modifications avec la branche master de ce projet. Vous recevrez un mail de notification dès que la fusion sera effectuée.
+Sous peu j'aurai fusionné toutes vos modifications avec la branche main de ce projet. Vous recevrez un mail de notification dès que la fusion sera effectuée.
 
-La branche master de votre embranchement ne subira pas de modification à cet instant. Pour que votre embranchement soit synchronisé avec le mien, suivez les étapes suivantes.
+La branche main de votre embranchement ne subira pas de modification à cet instant. Pour que votre embranchement soit synchronisé avec le mien, suivez les étapes suivantes.
 
 ## Gardez votre embranchement synchronisé avec ce répertoire
 
- D'abord, basculez sur la branche master
+ D'abord, basculez sur la branche main
  ```
- git checkout master
+ git checkout main
  ```
 
  Et ajouter l'url de mon répertoire comme  `upstream remote url` :
@@ -109,17 +109,17 @@ Ceci est une manière de dire à git qu'une autre version de ce répertoire exis
 git fetch upstream
 ```
 
-Ici nous cherchons toutes les modification dans mon embranchement  (upstream remote). Maintenant, vous devez fusionner la nouvelle révision de mon répertoire avec votre branche master :
+Ici nous cherchons toutes les modification dans mon embranchement (upstream remote). Maintenant, vous devez fusionner la nouvelle révision de mon répertoire avec votre branche main :
 ```
-git rebase upstream/master
+git rebase upstream/main
 ```
-Ici nous appliquons toutes les modifications que vous avez cherché à la branche master. Si vous poussez la branche master maintenant, votre embranchement aussi aura les modifications :
+Ici nous appliquons toutes les modifications que vous avez cherché à la branche main. Si vous poussez la branche main maintenant, votre embranchement aussi aura les modifications :
 ```
-git push origin master
+git push origin main
 ```
 Avertissement: Cette fois, vous poussez au répertoire distant appelé origin.
 
-A ce niveau j'ai fusionné votre branche  `<add-votre-nom>` avec ma branche master, et vous avez fusionné ma branche master avec votre branche master. Votre branche `<add-votre-nom>` n'est plus utile, donc vous pouvez la supprimer :
+A ce niveau j'ai fusionné votre branche  `<add-votre-nom>` avec ma branche main, et vous avez fusionné ma branche main avec votre branche main. Votre branche `<add-votre-nom>` n'est plus utile, donc vous pouvez la supprimer :
 ```
 git branch -d <add-votre-nom>
 ```
