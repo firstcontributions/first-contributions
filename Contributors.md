@@ -240,6 +240,7 @@ Enrique Javier
 -[bhanu]
 - [Luis Pedreira] (https://github.com/luisepedreira)
 - [Farhan khan](https://github.com/farhanalws4u)
+- [Chandra Sekhar Vinnakota](https://github.com/Iamchandra-3)
 - [Jackie Zou](https://github.com/jz0u)
 - [Niklas Betke](https://github.com/nikbetke)
 - [Vishal Kumar Sinha](https://github.com/VishSinh)
