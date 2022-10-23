@@ -4175,6 +4175,7 @@ first contributions - hanyang univ.
 - [nazia hassan](https://github.com/Naz1a)
 - [ezhonghu](https://github.com/ErzhongHoo)
 - [Wellington Ribeiro](https://github.com/WellingtonSI)
+- [Giovani Claro Moraes](https://github.com/Krydelmany)
 - [Bodhdipta Roy](https://github.com/bodhdipta-roy)
 - [Dicka Ismaji](https://github.com/dicka88)
 - [Goutam-Kumar](https://github.com/goutam-kumar1)
