@@ -84,6 +84,7 @@
 - [Khaled](https://github.com/KALs3)
 - [Deepali](https://github.com/deepseas07)
 - [Ailen Paez](https://github.com/paezailen)
+- [Bella Emz] (https://github.com/EmzB)
 - [Vatsal K](https://github.com/vatsalkudecha)
 - [Mika] (https://github.com/SK-2022)
 - [Prakhar Bhatia](https://github.com/prakharbhatia4)
