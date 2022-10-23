@@ -444,9 +444,6 @@ If you're making changes to a translation, please request a review from our prev
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/xomcodes">xomcodes</a>
-        </td>
-        <td>
             <a href="https://github.com/CoderKlemen">CoderKlemen</a>
         </td>
         <td>
