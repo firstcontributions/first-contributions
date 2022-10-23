@@ -55,6 +55,7 @@
 - [Sujith P](https://github.com/Alfa-ZORO)
 - [Sahil Singh](www.linkedin.com/in/sahil-singh-ss9824)
 - [imappuru](https://github.com/imappuru)
+- [Rafiqul Shopon](https://github.com/rafiqulshopon)
 - [verissimon](https://github.com/verissimon)
 - [DragonFireShield](https://github.com/dragonfireshield)
 - [Al Aasad Nur Riyad](https://github.com/nurRiyad)
