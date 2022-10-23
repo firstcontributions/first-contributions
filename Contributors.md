@@ -97,6 +97,7 @@
 - [Alexander Duffey](https://github.com/SuperCater)
 - [Dhriti](https://github.com/Dhriti-singh)
 - [Haseeb Ahmad Siddiqui](https://github.com/hasebsiddiqui)
+- [Dominic R.](https://github.com/jD2R)
 - [Bestin K Benny](https://github.com/bestin015)
 - [Chani](https://github.com/ChaniDev)
 - [Vaishnavi](https://github.com/vaisrinivasan)
