@@ -213,6 +213,7 @@
 - [Abdelkarim](https://github.com/badelgeek)
 Enrique Javier
 - [Sai Kiran]
+- [Amar Prajapati](https://github.com/amarprajapati571)
 - [Sunday P. Afolabi](https://github.com/Lecon-a)
 - [Krishi Pratim Sarma](https://github.com/Krishi34S)
 - [Naman Samaiya](https://github.com/luvsam12)
@@ -2319,7 +2320,6 @@ Enrique Javier
 - [Crimsonshade](https://github.com/crimsonshade)
 - [narsingojuhemanth](https://github.com/narsingojuhemanth)
 - [Nicholas Ali](https://github.com/NicholasAli1)
-- [Nevena Verbic](https://github.com/nverbic)
 - [Hyeyoung Lucia Lee](https://github.com/Hyeyoung-Lucia)
 - [George Babii](https://github.com/georgevlt)
 - [Cyber Thunder Storm](https://github.com/cyberthunderstorm/)
