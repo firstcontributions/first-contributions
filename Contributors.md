@@ -3597,6 +3597,7 @@ Enrique Javier
 - [Sergio Prieto](https://github.com/alejolale)
 - [CarOL](https://github.com/hx-w)
 - [YD3-DEV](https://github.com/yd3-dev)
+- Siddharth Shehria (https://github.com/sidshehria)
 - [Manu Pandey [ (https://github.com/ManuFake)
 - [Kratospidey](https://github.com/Kratospidey)
 - [Vallabh Chugh](https://github.com/vallabhiaf)
