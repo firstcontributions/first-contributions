@@ -291,7 +291,6 @@ Enrique Javier
 - [thehackerpanda]
 - [EricWink](https://github.com/ericwink)
 - [Jongkwang131](https://github.com/Jongkwang131)
-- [Saurabh Singh](https://github.com/saurabhsingh720)
 - [sneha-2510](https://github.com/sneha-2510)
 - [javesshhh](https://github.com/javesshhh)
 - [KratikJain10](https://github.com/KratikJain10)
@@ -3488,6 +3487,7 @@ Enrique Javier
 - [Rahul Rs](https://github.com/RsRsRahul)
 - [Noor Islam](https://github.com/Noor44555)
 - [Amandeep Singh](https://github.com/Amandeep91)
+- [Piyush](https://github.com/Pysharma)
 - [shrever](https://github.com/shreverr)
 - [Shubham Verma](https://github.com/vermashubham6351)
 - [Farhan Ali Raza](https://github.com/FarhanAliRaza)
