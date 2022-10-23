@@ -3896,6 +3896,7 @@ Enrique Javier
 - [Neeraj Meena](https://github.com/neeraj542)
 - [Arindam Dutta](https://github.com/iarindamofficial)
 - [Rahul Roy](https://github.com/iamrahulroy11)
+- [Hassy Tsihoarana](https://github.com/Hassyunity)
 - [Shivam Singh](https://github.com/Shivamgits)
 - [Anand Singh](https://github.com/AnandThakur2001)
 - [Subramaniyan Nallasivam](https://github.com/subbi12)
