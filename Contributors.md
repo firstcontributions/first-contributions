@@ -1,5 +1,5 @@
 # Contributors
-[Christine Belzie](https://github.com/CBID2)
+
 <!-- prettier-ignore-start -->
 - [Aman Bhagat](https://GitHub.com/sanayaa)
 - Pham Le Duc THinh
@@ -1914,6 +1914,8 @@ Enrique Javier
 - [Vipul Kumar](https://github.com/vipulkumar49)
 - [Lea Lang](https://github.com/Leaxlang)
 - [Courtney Yatteau]
+- [Laboni sarkar](https://github.com/labonisarkar9508)
+- [Christine Belzie](https://github.com/CBID2)
 - [Najeeb Arif](https://githib.com/NajeebArif)
 - [Patrick Ayers](https://github.com/patrickA25)
 - [Pavitra Lalwani](https://github.com/pavitra-lalwani)
