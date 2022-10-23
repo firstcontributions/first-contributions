@@ -69,6 +69,7 @@
 - [Phillip Chu](https://github.com/phillippchu)
 - [Aazim Parwaz](https://github.com/Aazim-parwaz)
 - [Khaled](https://github.com/KALs3)
+- [Deepali](https://github.com/deepseas07)
 - [Ailen Paez](https://github.com/paezailen)
 - [Vatsal K](https://github.com/vatsalkudecha)
 - [Mika] (https://github.com/SK-2022)
@@ -434,6 +435,7 @@ Enrique Javier
 - [Giorgio Menini](https://github.com/Menno00)
 - [Suhas Katrahalli](https://github.com/Suhas2002)
 - [Jivan Dandapat](https://github.com/jivandandapat)
+- [Deepali Sayana](https://github.com/deepseas07)
 - [André Carvalhal](https://github.com/ANDREC1986)
 - [Rahul Saha](https://github.com/Rahul10Saha)
 - [Sadiq Siraj Ebrahim](https://github.com/sadiqebrahim)
@@ -4155,6 +4157,7 @@ first contributions - hanyang univ.
 - [Yash Kumar Sharma](https://github.com/theyasharma).
 - [garry host](https://github.com/9xxxxxx)
 - [Alan Joshy](https://github.com/alanjoshymj)
+- [Deepali Sayana](https://github.com/deepseas07)
 - [Nathanael Ama](https://github.com/NathanaelAma/)
 - [Sayantan Mishra](https://github.com/sayanmdn/)
 
