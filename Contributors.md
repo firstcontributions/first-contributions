@@ -4101,6 +4101,7 @@ Enrique Javier
 - [Kunal Pitale](https://github.com/iamkunalpitale)
 - [Rimon Sade](https://github.com/Rimonaldo)
 - [Alexandr Volk](https://github.com/ky1e-cyber)
+- [Shai Kikozashvily](https://github.com/shaik1201)
 - [Babyico | Laith 🌸](https://github.com/babyico)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
