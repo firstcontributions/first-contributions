@@ -4082,6 +4082,7 @@ first contributions - hanyang univ.
 - [Vishal Arunagiri](https://github.com/vishalarunagiri)
 
 - [Mehedi Hasan](https://github.com/mytaison)
+-[Ojas Mittal](https://github.com/OjasMittal)
 - [Okvi DS](https://github.com/Dwisantra/)
 - [pioneersTeam](https://github.com/zaidanali028/first-contributions)
 - [Ayush Srivastava](https://github.com/ayush91985)
