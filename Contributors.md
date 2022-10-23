@@ -109,6 +109,7 @@
 - [Anchal Kumar Chaudahry](https://github.com/anchal9670)
 - [ARIJIT](https://github.com/Arijit8101)
 - [Abinash Kumar](https://github.com/abinash185)
+- [Freya Shah](https://github.com/Freya-29)
 - [Chethas Pv](https://github.com/chethas7)
 - [kelys] (https://github.com/kelysi)
 - [Aayush Arora](https://github.com/AroraAayush)
