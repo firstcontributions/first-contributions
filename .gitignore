@@ -111,7 +111,7 @@ ipch/
 *.cachefile
 *.VC.db
 *.VC.VC.opendb
-
+ hacktoberfest
 # Visual Studio profiler
 *.psess
 *.vsp
