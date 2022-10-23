@@ -12,7 +12,7 @@
 - Ketan Jangid
 - John Gitahi
 - [Anas J Mirza](https://github.com/anasjmirza)
-- [Mauricio Quiroga](https://github.com/MauricioQuiroga)
+- [Mauricio Quiroga] (https://github.com/MauricioQuiroga)
 - [Liang G. E.]
 - [Jordanjun98](https://github.com/Jordanjun98)
 - [Jack Juechter](https://github.com/jrj102)
