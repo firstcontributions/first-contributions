@@ -1,5 +1,4 @@
 # Contributors
-
 <!-- prettier-ignore-start -->
 - [Aman Bhagat](https://GitHub.com/sanayaa)
 - Pham Le Duc THinh
@@ -359,6 +358,7 @@ Enrique Javier
 - [Vishvesh Pratap Singh](https://github.com/Vish221)
 - [iParadocx](https://github.com/iParadocx)
 - [Aditya Pudaruth](https://github.com/Aditya-Pudaruth)
+- [Aman Choudhary](https://github.com/aman-choudhary1)
 - [Dmitrii Sidenko](https://github.com/DmSide)
 - [Santiago Urbano](https://github.com/sanurb)
 - [Hetarth Raval]
