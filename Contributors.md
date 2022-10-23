@@ -1,5 +1,5 @@
 # Contributors
-
+[Christine Belzie](https://github.com/CBID2)
 <!-- prettier-ignore-start -->
 - [Aman Bhagat](https://GitHub.com/sanayaa)
 - Pham Le Duc THinh
