@@ -691,7 +691,7 @@ Enrique Javier
 - [Shrey Jaiswal](https://github.com/Shrey2002)
 - [Abhijeet Jadhav] (https://github.com/mrabhijeetjadhav)
 - [Aayushi Kukreja](https://github.com/AayushiKukreja)
-- [Sakshi K](https://github.com/Sakshi-Kulkarni)
+- [Sakshi PK](https://github.com/Sakshi-Kulkarni)
 - [Dipesh Patel](https://github.com/Dipesh049)
 -[Aditya Rathore](https://github.com/adiiiiittyya)
 [Aishwary Singh](https://github.com/aishwarysingh7754)
