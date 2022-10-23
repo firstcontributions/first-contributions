@@ -6,6 +6,7 @@
 - [jaytau](https://github.com/jay-tau)
 - [Tejal Tatiwar](https://tejaltatiwar.github.io/tejaltatiwarwebsite/)
 - [Chris Johannesson](https://chrisjohannesson.com)
+- [Archishman Das](https://github.com/starving-array)
 - [Abouar Prosper](https://github.com/4kpros/)
 - [Elvis Kinyua] (https://github.com/ekinyua)
 - Ketan Jangid
