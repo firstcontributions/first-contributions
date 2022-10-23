@@ -1,4 +1,0 @@
-run = "cowsay Configure me!"
-
-[nix]
-channel = "stable-21_11"
