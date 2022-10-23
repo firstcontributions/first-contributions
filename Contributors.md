@@ -191,6 +191,7 @@
 - [Corentin Gouanvic](https://github.com/Stoaties)
 - [Luba Kolbasova](https://github.com/Lubow-k)
 - [Sagar Gupta](http://github.com/sagargupta16)
+- [Srijita](https://github.com/SrijitaSarkar99)
 - [Elias Angulo] (https://github.com/emangulo)
 - [Narender Singh] (https://github.com/narendersingh9889)
 - [Reece Brogden](https://github.com/Alibaba544)
