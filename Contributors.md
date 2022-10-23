@@ -116,6 +116,7 @@
 - [Abinash Kumar](https://github.com/abinash185)
 - [Freya Shah](https://github.com/Freya-29)
 - [Chethas Pv](https://github.com/chethas7)
+- [Cyan Cipher](https://github.com/CyanCipher)
 - [kelys] (https://github.com/kelysi)
 - [Aayush Arora](https://github.com/AroraAayush)
 - [Suraj Patra](https://github.com/Suraj-Patra)
