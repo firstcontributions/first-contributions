@@ -4085,6 +4085,7 @@ first contributions - hanyang univ.
 - [pioneersTeam](https://github.com/zaidanali028/first-contributions)
 - [Ayush Srivastava](https://github.com/ayush91985)
 - [Sergei Shtukaturov](https://github.com/Zimovit/)
+- [Akruti Sarangi](https://github.com/avi78)
 - [Hrishi](https://github.com/Excalibur1999)
 - [Rahul Talukdar](https://github.com/rahultalukdargithub)
 - [Uday Kharatmol](https://github.com/UdayKharatmol)
