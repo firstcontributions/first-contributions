@@ -531,6 +531,7 @@ Enrique Javier
 
 - [Kunal Kartik](https://github.com/KunalKartik02)
 - [Vijayalaxmi Kadham](https://github.com/KadhamVj23)
+- [Akash Kundu](https://github.com/Akash190104) 
 - [Syed Jailani](https://github.com/syedjailani)
 - [AkT-01](https://githhub.com/AkT-01)
 - [Syed Jailani](https://github.com/syedjailani)
@@ -3788,7 +3789,6 @@ Enrique Javier
 - [Sathi](https://github.com/sathi7029)
 - [Rohan](https://github.com/Rohan-A-V)
 - [Zomal](https://github.com/t-tatarski)
-- [Muhammad Ali](https://github.com/XxBeyonderxX)
 - [Abedy Gathaba](https://github.com/abedygathaba)
 - [Rellot's Screwdriver](https://github.com/rellotscrewdriver)
 - [Tuleyb](https://github.com/ttuleyb/)
