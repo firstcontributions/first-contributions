@@ -4165,6 +4165,7 @@ first contributions - hanyang univ.
 - [Nishan Biswas](https://github.com/zender651)
 - [Manisharan Thota] (https://github.com/manisharanthota)
 - [Palak Gambhir](https://github.com/GambhirPalak27)
+- [ChalkyT](https://github.com/ChalkyT)
 - [Abanob Mikaeel](https://github.com/abanobmikaeel)
 - [Charbel El Bateh](https://github.com/CharbelElBateh)
 - [vinit sharma](https://github.com/coder00sharma)
