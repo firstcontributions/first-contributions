@@ -32,6 +32,7 @@
 - [VictoriaTaiwo] (https://github.com/Edicemi)
 - [Zwel Htet](https://github.com/zweldev)
 - [JDcs](https://github.com/johndoecs)
+- 
 - James Pow
 - Eleeka Nongthombam(https://github.com/EleekaN)
 - [May Oo](https://github.com/mayoo)
@@ -4101,7 +4102,6 @@ Enrique Javier
 - [Kunal Pitale](https://github.com/iamkunalpitale)
 - [Rimon Sade](https://github.com/Rimonaldo)
 - [Alexandr Volk](https://github.com/ky1e-cyber)
-- [Shai Kikozashvily](https://github.com/shaik1201)
 - [Babyico | Laith 🌸](https://github.com/babyico)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
@@ -4226,6 +4226,7 @@ first contributions - hanyang univ.
 - [SharpSkeeto](https://github.com/SharpSkeeto)
 - [Keo Osman](https://github.com/Keo-Osman)
 - [Farhan Hakim Dariman](https://github.com/KamiRaimei)
+- [parthasarathyG](https://github.com/parthasarathy27)
 - [Yohannes Teshome](https://github.com/John-droid-dotcom)
 - [zongjinhe](https://github.com/zongjinhe)
 - [nazia hassan](https://github.com/Naz1a)
