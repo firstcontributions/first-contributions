@@ -416,7 +416,6 @@ Enrique Javier
 - [DG](https://github.com/DGclasher)
 - [Prashant Maitra](https://github.com/lovefromCode)
 - [Aditya Sharma](https://github.com/technophyle66)
-- [Gael Mpoyi](https://github.com/MpoyiMmg)
 - [WNP](https://github.com/WanNaPhyo)
 - [GmausDev](https://github.com/GmausDev https://www.linkedin.com/in/jorge-quevedo-duran-b51190206/)
 - [Sumanth Botlagunta](https://github.com/sumanth-botlagunta)
