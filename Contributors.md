@@ -340,6 +340,7 @@ Enrique Javier
 - [Rohit Yadav](https://www.linkedin.com/in/rohit-yadav-0852481b2/)
 - [Tyler Martin @HeyTylerMartin](https://github.com/HeyTylerMartin)
 - [Yuukii] (https://github.com/Assyyn)
+- [Norahc Baron](https://github.com/NorahcBaron)
 - [Jackson Isaac](https://github.com/JacksonIsaac/)
 - [Alexandre - Kelifa][https://github.com/AlphaKappa44]
 - [Saksham Chawla](https://github.com/saksham-chawla)
