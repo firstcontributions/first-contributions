@@ -4247,6 +4247,7 @@ first contributions - hanyang univ.
 - [Kaushik Dhiman](https://github.com/kaushik-dhiman)
 - [Shivshankar Nagarsoge](https://github.com/nagarsogesn)
 - [Jan Lachmuth](https://github.com/lachja)
+- [zyt](https://github.com/zyt600)
 - [Akhoury Shauryam](https://github.com/Satan-Claws)
 - AnnTsai
 - [airmelt](https://github.com/airmelt)
