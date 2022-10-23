@@ -74,7 +74,7 @@
 - [Siddhant Majumder](https://github.com/Codeworm08)
 - [Allen Lobo]
 - [Alex Reveles](https://github.com/aajj333)
-- [Ankush Rai](https://github.com/ankushrai999)
+- [Ankush](https://github.com/ankushrai999)
 - [Phillip Chu](https://github.com/phillippchu)
 - [Aazim Parwaz](https://github.com/Aazim-parwaz)
 - [Khaled](https://github.com/KALs3)
