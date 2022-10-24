@@ -1,5 +1,5 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -62,6 +62,7 @@
 <kbd>[<img title="Afrikaans (South Africa)" alt="Afrikaans (South Africa)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/za.svg" width="22">](translations/README.afk.md)</kbd>
 <kbd>[<img title="Igbo (Nigeria)" alt="Igbo (Nigeria)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ng.svg" width="22">](translations/README.igb.md)</kbd>
 <kbd>[<img title="Yoruba (Nigeria)" alt="Yoruba (Nigeria)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ng.svg" width="22">](translations/README.yor.md)</kbd>
+<kbd>[<img title="Hausa (Nigeria)" alt="Hausa (Nigeria)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ng.svg" width="22">](translations/README.hau.md)</kbd>
 <kbd>[<img title="Latvia" alt="Latvia" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lv.svg" width="22">](translations/README.lv.md)</kbd>
 <kbd>[<img title="Suomeksi" alt="Suomeksi" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fi.svg" width="22">](translations/README.fi.md)</kbd>
 <kbd>[<img title="Беларуская мова" alt="Беларуская мова" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/by.svg" width="22">](translations/README.by.md)</kbd>
@@ -75,6 +76,7 @@
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
 _If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
+
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
@@ -190,7 +192,7 @@ Congrats! You just completed the standard _fork -> clone -> edit -> pull request
 
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
 
-You could join our slack team if you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA).
+You could join our slack team if you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 
