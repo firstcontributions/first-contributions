@@ -4252,6 +4252,7 @@ first contributions - hanyang univ.
 - [Yohannes Teshome](https://github.com/John-droid-dotcom)
 - [zongjinhe](https://github.com/zongjinhe)
 - [nazia hassan](https://github.com/Naz1a)
+- [Md Nuruzzaman Chowdhury](https://github.com/devnuru)
 - [ezhonghu](https://github.com/ErzhongHoo)
 - [Wellington Ribeiro](https://github.com/WellingtonSI)
 - [Giovani Claro Moraes](https://github.com/Krydelmany)
@@ -4280,4 +4281,4 @@ first contributions - hanyang univ.
 - [Shamim Ahmmed](https://github.com/Md-Shamim-Ahmmed)
 - [Shreyansh Srivastava](https://github.com/Shreyansh1912)
 - [Naman Verma](https://github.com/NamanVer02)
-- [Md Nuruzzaman Chowdhury](https://github.com/devnuru)
+
