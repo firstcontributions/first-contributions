@@ -421,6 +421,7 @@ Enrique Javier
 - [Gaurav Patil](https://github.com/GauravPatil8778)
 - [Ananya Agarwal](https://github.com/ananyaa01)
 - [Ali El-Shamy](https://github.com/elshali)
+- [Rami Shawwa](https://edbtz.com)
 - [Siddharth Khattar] (https://github.com/SiddharthKhattar)
 - [Zuzanna Kaźmierczak](https://github.com/Zuza29)
 - [mohd.salahudeen](https://github.com/Salah-XD)
