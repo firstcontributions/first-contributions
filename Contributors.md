@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [NeilN](https://github.com/NeilN)
 - [Srijan D](https://github.com/Srijan-D)
 - [srinivasthedeveloper](https://github.com/srinivasthedeveloper)
 - [divijaa](https://github.com/divijaa)
