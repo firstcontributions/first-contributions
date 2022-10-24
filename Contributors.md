@@ -2109,6 +2109,7 @@ Enrique Javier
 - [escaping-samsara](https://github.com/escaping-samsara/)
 - [Jacques van Zyl](https://github.com/JacquesvZyl)
 - [Omiete John-lewis](https://github.com/oj-lewis)
+- [Rafael Andrade](https://github.com/rafanoli)
 - [Domenic Sacchetti](https://github.com/dsacch)
 - [Abiyyu Cakra](https://github.com/abiyyu03)
 - [Robert Capra](https://github.com/Robert-Capra)
