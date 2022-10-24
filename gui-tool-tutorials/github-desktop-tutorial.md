@@ -58,7 +58,7 @@ Click on `Create branch`
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, scroll to the bottom of the page and add your name to it, then save the file.
+Now, go to history tab and open `Contributors.md` file in a text editor by right clicking and open in text editor. Scroll to the bottom of the page and add your name to it, then save the file.
 
 Example: If your name is James Smith, It should look like this.
 
