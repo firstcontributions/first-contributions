@@ -4313,3 +4313,4 @@ first contributions - hanyang univ.
 - [kdomo] (https://github.com/kdomo)
 - [Renan Silva 🇧🇷](https://github.com/teasercry)
 - ['Wale Ayodeji](https://github.com/oayodeji)
+- [Thiago Mendes](https://github.com/thiagotmdev)
