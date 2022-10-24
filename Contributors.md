@@ -19,6 +19,7 @@
 - Ketan Jangid
 - John Gitahi
 - Rishi Kumar Jha
+- [Munavvar sinan](https://github.com/MunavvarSinan/)
 - [Anas J Mirza](https://github.com/anasjmirza)
 - [Mauricio Quiroga] (https://github.com/MauricioQuiroga)
 - [Liang G. E.]
