@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Sneha Kumari](https://github.com/Codewithsneha0)
 - [Bojidar Vladimirov](https://github.com/BojidarV)
 - [Urvesh Radadiya](https://github.com/URVESH1121)
 - [Adit Bhargava](https://github.com/zcsop1206)
@@ -111,7 +112,6 @@
 - [Ankit Kumar](https://github.com/ankitkumar3440)
 - [Aniket Ghosh](https://github.com/quanta003)
 - [Sergey Novikov] (https://github.com/Isn0v)
-- [Angkoon Angkoonsawaengsuk] (https://github.com/floyd135)
 - That guy
 - [Souhil OMARI](https://github.com/Souhil19)
 - [Mayank Sahu](https://github.com/Mayank8085)
