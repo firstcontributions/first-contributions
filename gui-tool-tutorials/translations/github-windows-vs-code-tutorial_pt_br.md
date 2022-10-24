@@ -1,119 +1,117 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-# Kontribusi Pertama
+# Primeiras Contribuições
 
 | <img alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width="40"> | Visual Studio Code |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
 
-Sulit. Memang selalu sulit melakukan sesuatu untuk pertama kali. Khususnya ketika kamu berkolaborasi, membuat sebuah masalah bukanlah hal yang mengenakkan. Tetapi proyek terbuka
-berarti kolaborasi dan kerjasama. Kami ingin menyederhanakan cara belajar bagi kontributor dan cara berkontribusi untuk pertama kali.
+É difícil, sempre é difícil quando fazemos alguma coisa pela primeira vez. Especialmente quando você está colaborando, cometendo erros, não é nada confortável. No entanto, o open source é totalmente sobre colaboração e trabalho em equipe. Por isso, nós queremos simplificar a maneira como os novos colaboradores de código aberto aprendem e contribuem pela primeira vez.
 
-Membaca artikel & menonton tutorial bisa membantu, tetapi lebih baik praktek langsung tanpa membuat masalah apapun pada proyek. Laman ini bertujuan untuk memberikan panduan & menyederhanakan cara bagi pemula untuk membuat kontribusi pertama. Ingat semakin santai kamu, maka semakin baik kamu belajar. Jika kamu ingin membuat kontribusi pertama, cukup ikuti langkah-langkah sederhana di bawah ini. Kami janji, ini akan menyenangkan kok.
+Ler artigos e assistir a tutoriais até podem ajudar, mas o que é melhor do que fazer as coisas sem bagunçar nada. Este projeto tem como objetivo orientar & simplificar a forma como os iniciantes fazem a sua primeira contribuição. Lembre-se que você aprende melhor quando está relaxado. Se você deseja fazer sua primeira contribuição, basta seguir os passos abaixo. Nós prometemos a você que será divertido!
 
-Jika kamu belum punya Visual Studio Code pada perangkat mu, [install disini](https://code.visualstudio.com/download).
+Se você não tem o Visual Studio 2017 na sua máquina, [instale-o](https://code.visualstudio.com/download).
 
+**Nota:** Este tutorial foi feito utilizando o Visual Studio Code (Versão 1.27.2) no Windows 10. Mais tarde, neste tutorial, vamos utilizar alguns atalhos no teclado. Eles podem ser diferentes em outros sistemas operacionais (mac/OS/Linux) assim como em teclados de outras linguagens (UK, DE, etc). Você pode pesquisar na lista de atalhos, buscando por "atalhos" na Paleta de Comando.
 
-**Perlu Diingat:** Tutorial ini dibuat menggunakan Visual Studio Code (Versi 1.27.2) pada Windows 10. Nanti dalam tutorial ini kita akan menggunakan beberapa shortcut keyboard. Ini mungkin berbeda pada sistem operasi lain (macOS/Linux) serta bahasa keyboard (UK, DE, dll). Kamu dapat menelusuri daftar pintasan mu dengan mencari "shortcut" di Palet Perintah.
-
-## Fork repositori ini
+## Fork this repository
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Fork repo ini dengan mengklik tombol fork di kanan atas halaman ini. Ini akan membuat salinan repositori ini di akun GitHub Anda.
+Fork this repo by clicking on the fork button on the top right of this page. This will create a copy of this repository in your GitHub account.
 
-GitHub selalu menjaga repo mu dan sumber repo yang sudah kamu fork supaya tetap pada jalurnya. Kamu bisa menganggap repo mu sebagai salinan pekerjaan.
+GitHub keeps track of the relationship between your repo and the one you have forked it from. You can think of your repo as a working copy.
 
-Sebagian besar repo GitHub tingkat atas (yaitu yang tidak di-copy dari repo lain mana pun) mempunyai tim inti yang terdiri dari orang-orang yang dapat langsung melakukan perubahan. Semua kontributor lain harus melakukan fork repo dan membuat perubahan pada fork, lalu membuat Pull Request untuk meminta perubahan mereka digabungkan kembali ke repo tingkat atas. Jika administrator repo tingkat atas menyukai perubahan, mereka akan menggabungkan perubahan mu dan kamu bisa mendapatkan reputasi dan nasib baik! Lebih lanjut tentang cara melakukannya akan dibahas nanti.
+Most top-level GitHub repos (i.e. ones not forked from any other repo) have a small core team of people who can directly commit changes. All other contributors must fork the repo and make changes in the fork, then create a Pull Request to ask for their changes to be merged back into the top-level repo. If the top-level repo administrator likes the changes they will be merged and you will gain instant fame and fortune! More on how to do that later.
 
-## Klon Repositori mu
+## Clone your repository
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Langkah selanjutnya adalah mengkloning repo mu ke perangkat mu sehingga bisa segera mulai membuat perubahan. VS Code membutuhkan URL repo mu agar terhubung, jadi klik tombol "clone" dan kemudian klik ikon "copy to clipboard".
+The next step is to clone your repo down to your machine so you can begin making changes. VS Code needs the URL of your repo, so click the "clone" button and then click the "copy to clipboard" icon.
 
-**HATI-HATI:** Satu kesalahan yang sering dilakukan oleh kontributor baru adalah mengkloning repo utama yang kamu fork _sumbernya_ daripada mengkloning repo mu sendiri. Periksa alamat browser mu dan pastikan kamu mengkloning repo mu sendiri.
+**CAREFUL:** One mistake that new contributors often make is to clone the repo you forked _from_ rather than cloning your repo. Check your browser's address bar and make sure you are cloning your repo.
 
-Sekarang buka Visual Studio Code. Halaman selamat datang dari VS Code akan muncul. Dari sana tekan `F1` untuk membuka bar yang ditunjukkan di bawah ini. Perhatikan bahwa sudah ada tanda `>` (lebih besar dari) di kolom teks. Anda juga dapat membuka input prompt dengan menekan `CTRL-P` lalu ketik `>`.
+Now open up Visual Studio Code. The welcome page of VS Code will pop up. From there press `F1` to open up the bar shown below. Notice that there is already a `>` (greater than) sign in the text field. You can also get to the input prompt by pressing `CTRL-P` and then type the `>` character.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-clone.png" alt="Clone Popup (Command Popup)" />
 
-Anda mungkin memperhatikan bahwa sudah ada beberapa perintah tidak jelas yang tercantum di bawah ini. Itu adalah perintah yang digunakan baru-baru ini. Jadi, hiraukan saja.
+You may notice that there are already some obscure commands listed below. Those are my recently used commands. So just don't care about them.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-clone1.png" alt="Clone repo" />
 
-Sekarang ketik `git clone`, hanya `git` atau `clone` (berfungsi seperti melakukan pencarian).
-Pilih Entri `Git: Clone` dan tekan `Enter`
+Now type in `git clone`, only `git` or `clone` (it works like a search).
+Select the Entry `Git: Clone` and press `Enter`
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-clone2.png" alt="Paste Repository URL in" />
 
-Tempelkan URL repositori kamu dan tekan `Enter`. Ini akan membuka File Explorer di mana kamu dapat memilih di mana repositori Git harus disimpan
+Paste the URL of your repository and press `Enter`. This will open up a File Explorer where you can then choose where the Git repository should be stored.
 
-**Penting**: Pastikan itu adalah repositori yang kamu fork dan bukan yang asli, jika tidak maka tidak akan berfung
+**Important**: Make sure it is the forked repository and not the original one, otherwise it won't work.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-clone3.png" alt="Status popup" />
 
-Kamu akan melihat status popup di kanan bawah Visual Studio Code. Setelah selesai, kamu dapat membuka repositori kloning (di folder yang sudah kamu pilih) menggunakan tombol di dialog.
+You should see a status popup on the bottom right of Visual Studio Code. After it has finished, you can open up the cloned repository (now a folder on your machine) using the buttons in the dialog.
 
-## Membuat Cabang (Branch)
+## Create a branch
 
-Buka kembali palet perintah dengan menekan `F1`. Ketik `branch` dan pilih perintah `create branch` dari sana. Pada langkah berikutnya ketik nama cabang baru kamu, misalnya `add-david-kroell`. Tekan enter dan cabang akan dibuat. Cabang juga sudah siap dipakai. [Apa artinya checkout?](https://www.git-scm.com/docs/git-checkout)
+Open up the command palette again by pressing `F1`. Type in `branch` and select the `create branch` command from there. In the next step type in the name of your new branch, for example `add-david-kroell`. Press enter and the branch will be created. The branch is also already checked out. [What does checkout mean?](https://www.git-scm.com/docs/git-checkout)
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-branch.png" alt="Branches Command Palette" />
 
-## Buat Perubahan yang diperlukan
+## Make necessary changes
 
-Buka `Contributors.md` dan tambahkan nama kamu di mana saja di file. File ini berisi GFM (GitHub Flavoured Markdown) yang merupakan ciri khas sintaks <a href="https://en.wikipedia.org/wiki/Markdown">markdown</a>.
+Open `Contributors.md` and add your name anywhere in the file. This file contains GFM (GitHub Flavored Markdown) which is a proprietary flavor of the <a href="https://en.wikipedia.org/wiki/Markdown">markdown</a> syntax.
 
-Salin salah satu kontributor lain&apos; baris dan modifikasi dengan nama mu untuk memastikan kamu menggunakan sintaks yang benar - itu bisa pilih-pilih
+Copy one of the other contributors&apos; lines and modify it with your name to make sure you get the syntax right - it can be picky.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-changes.png" alt="Add your name" />
 
-## Commit & Push perubahan ke GitHub
+## Commit & Push changes to GitHub
 
-Di sisi kiri VS Code adalah menu dengan 5 ikon yang ditampilkan. Pilih ikon versi kontrol/Sumber Kontrol.
-(Pintasan: Ctrl + Shift + G)
+On the left side of VS Code is a menu with 5 icons displayed. Select the version control/Source Control icon.
+(Shortcut : Ctrl + Shift + G)
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-commit.png" alt="Commit changes" />
 
-File explorer menampilkan semua file yang diubah setelah komit terakhir. Dengan mengarahkan penunjuk pada file dan mengklik `+` (plus) file akan disiapkan.
+The file explorer displays all files which were changed after the last commit. By hovering the files and clicking the `+` (plus) the files are staged.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-commit1.png" alt="Stashed Files">
 
-Ketik sesuatu pada baris di atas explorer dan tekan tanda centang. Perubahan telah tersimpan pada salinan lokal kamu. Sekarang perubahan harus di _push_ kembali ke GitHub.
+Type something in the line on top of the explorer and press the checkmark. The changes are now committed to your local copy. Now the changes have to be pushed back to GitHub.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-push.png" alt="Stashed Files">
 
-Gunakan ikon titik tiga untuk membuka menu tempat kamu akan memilih opsi `Publish Branch`. Ini akan membuka dialog untuk memasukkan kredensial GitHub kamu.
+Use the three-dot icon to open up the menu where you select the `Publish Branch` option. This should open up a dialog to put your GitHub credentials in.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-gh-auth.png" alt="Stashed Files">
 
-## Submit perubahan mu untuk diperiksa
+## Submit your changes for review
 
-Dititik ini kamu telah menyelesaikan perubahan mu tetapi masih berada di repo mu sendiri. Langkah ini akan menunjukkan bagaimana cara mengirimkan permintaan ke administrator repo tingkat atas untuk menggabungkan perubahan
+At this point you have completed your change but it still only resides in your repo. This step will show you how to submit a request to the administrator of the top-level repo to merge your change.
 
-Pada repo mu di GitHub, kamu akan melihat tombol `Compare & pull request` di sebelah pemberitahuan cabang baru. Klik tombol itu.
+In your repo on GitHub you'll see the `Compare & pull request` button next to the new branch notification. Click on that button.
 
 <img src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-Sekarang kirimkan permintaan _pull_.
+Now submit the pull request.
 
 <img src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Segera saya akan menggabungkan semua perubahan mu ke dalam cabang utama proyek ini. Kamu akan mendapatkan email pemberitahuan setelah perubahan digabungkan.
+Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
-## Kemana lagi setelah ini?
+## Where to go from here?
 
-Selamat! kamu baru saja menyelesaikan alur kerja _fork -> clone -> edit -> PR_ standar yang akan sering kamu temui sebagai kontributor!
+Congrats! You have just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
-Rayakan kontribusi mu dan bagikan dengan teman dan pengikut kamu dengan membuka [web app](https://firstcontributions.github.io#social-share).
+Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io#social-share).
 
-Kamu dapat bergabung dengan tim slack kami jika memerlukan bantuan atau memiliki pertanyaan. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+You can join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 
 ### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)
 
-## Tutorial menggunakan Alat lain
-[Kembali ke halaman utama](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
+## Tutorials Using Other Tools
+[Back to main page](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
