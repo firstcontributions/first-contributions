@@ -4283,3 +4283,4 @@ first contributions - hanyang univ.
 - [Shreyansh Srivastava](https://github.com/Shreyansh1912)
 - [Naman Verma](https://github.com/NamanVer02)
 - [Jiahao Xu](https://github.com/jiahaoxu98)
+- [Daichi Araki] (https://github.com/Ararchy01)
