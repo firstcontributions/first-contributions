@@ -4315,3 +4315,4 @@ first contributions - hanyang univ.
 - ['Wale Ayodeji](https://github.com/oayodeji)
 - [Thiago Mendes](https://github.com/thiagotmdev)
 - [Zydak](https://github.com/Zydak)
+- [Kaartik Nayak](https://github.com/kaartik2611)
