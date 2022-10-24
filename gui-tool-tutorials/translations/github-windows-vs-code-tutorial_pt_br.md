@@ -16,15 +16,17 @@ Se você não tem o Visual Studio 2017 na sua máquina, [instale-o](https://code
 
 **Nota:** Este tutorial foi feito utilizando o Visual Studio Code (Versão 1.27.2) no Windows 10. Mais tarde, neste tutorial, vamos utilizar alguns atalhos no teclado. Eles podem ser diferentes em outros sistemas operacionais (mac/OS/Linux) assim como em teclados de outras linguagens (UK, DE, etc). Você pode pesquisar na lista de atalhos, buscando por "atalhos" na Paleta de Comando.
 
-## Fork this repository
+## Faça o *Fork* deste repositório
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Fork this repo by clicking on the fork button on the top right of this page. This will create a copy of this repository in your GitHub account.
+Faça um *fork* deste repositório clicando no botão *fork* (bifurcar) no canto superior direito desta página. Isso criará uma cópia deste repositório em sua conta do GitHub.
 
-GitHub keeps track of the relationship between your repo and the one you have forked it from. You can think of your repo as a working copy.
+O GitHub rastreia a relação entre seu repositório e o original, o qual você fez o *fork*. Você pode pensar em seu repositório como uma cópia de trabalho.
 
-Most top-level GitHub repos (i.e. ones not forked from any other repo) have a small core team of people who can directly commit changes. All other contributors must fork the repo and make changes in the fork, then create a Pull Request to ask for their changes to be merged back into the top-level repo. If the top-level repo administrator likes the changes they will be merged and you will gain instant fame and fortune! More on how to do that later.
+Muitos dos repositórios matrizes do GitHub (ou seja, aqueles que não são *Fork* de nenhum outro repositório) tem um pequeno grupo de pessoas que podem fazer commits de modificações diretamente. Todos os outros contribuidores devem fazer um *for* do repositório e fazer alterações no *fork*, em seguida, devem criar um Pull Request para solicitar um *Merge* (mesclagem) das modificações feitas no repositório original.
+
+Se um dos administradores do repositório gostar e aprovar as tuas mudanças, eles *mergearão* e você ganhará fama e fortuna imediatamente! Abaixo, há mais detalhes sobre como fazer isso.
 
 ## Clone your repository
 
