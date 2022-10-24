@@ -4197,6 +4197,7 @@ first contributions - hanyang univ.
 - [Ghada AbdulWahab](https://github.com/puregeeknerd)
 - [Devanshu Koli](https://github.com/Devanshukoli)
 - [Daniele Avolio](https://github.com/danieleavolio)
+- [TineH](https://github.com/TineHorvat)
 - [Subhamay Dhara](https://github.com/dharasubhamay)
 - [Kaarthikeyan Raghavan](https://github.com/kragh-dev)
 - [Danish Jedhava](https://girhub.com/jedhava3240)
