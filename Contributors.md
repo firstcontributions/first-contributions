@@ -1536,6 +1536,7 @@ Enrique Javier
 - [Rohan Mourya](https://github.com/rohan209547mourya)
 - [Paras Agarwal](https://github.com/Paras-5)
 - [Varun](https://github.com/kVarunkk)
+- [Syket Das](https://github.com/syket-das)
 - [realkenzii](https://github.com/realkenzii)
 - [Ekechukwu David](https://github.com/davideke1)
 - [Harsh Suhane](https://github.com/HARSHSUHANE17)
