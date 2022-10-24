@@ -914,6 +914,7 @@ Enrique Javier
 - [Aryam parmar](https://github.com/aryamparmar)
 - [AleOrcia](https://github.com/AleOrcia)
 - [JpArango](https://github.com/Jpkeys29)
+- [Mohit Panthri](https://github.com/mohitpanthri)
 - [KOLEAJEOLAYINKKA](https://github.com/KOLEAJEOLAYINKA)
 - [Vandit1920](https://github.iu.edu/vanjain)
 - [Chris Townsend](https://github.com/chris-townsend)
