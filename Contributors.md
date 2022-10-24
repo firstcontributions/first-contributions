@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Rajat](https://github.com/rajatkumar2205)
+- [Iman Crooks] (https://github.com/iqtheengineer)
 - [Kavyadeep Dev](https://github.com/kavyadeepdev)
 - [NeilN](https://github.com/NeilN)
 - [Srijan D](https://github.com/Srijan-D)
