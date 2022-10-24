@@ -816,6 +816,7 @@ Enrique Javier
 - [Vinay Chandran C](https://github.com/vinayjs)
 - [Gabriel Moreira Silva](https://github.com/GabMoreiraSilva)
 - [Mohit Radadiya](https://github.com/radadiyamohit81)
+- [Devanshi Singh]
 - [Madhurjya Sarma] (https://github.com/TheBatMad)
 - [Shrikant Kosariya](https://github.com/shrikant2233)
 - [Manjunath Bhat K](https://github.com/thatcodechap)
