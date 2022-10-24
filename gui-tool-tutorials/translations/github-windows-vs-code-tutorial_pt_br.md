@@ -72,22 +72,22 @@ Copie uma das outras linhas dos contribuidores e modifique-a com o seu nome. Ten
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-changes.png" alt="Add your name" />
 
-## Commit & Push changes to GitHub
+## Faça um *Commit* & um *Push* das suas mudanças para o GitHub
 
-On the left side of VS Code is a menu with 5 icons displayed. Select the version control/Source Control icon.
-(Shortcut : Ctrl + Shift + G)
+No lado esquerdo do VS Code tem um menu com 5 ícones a amostra. Selecione o ícone de `Controle de Versão/Controle da Fonte`.
+(Atalho : Ctrl + Shift + G)
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-commit.png" alt="Commit changes" />
 
-The file explorer displays all files which were changed after the last commit. By hovering the files and clicking the `+` (plus) the files are staged.
+O Explorador de arquivos mostra todos os arquivos que foram mudados depois do último commit. Sobrepondo o mouse nos arquivos e clicando no `+` (mais) os arquivos serão colocados no *stage*.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-commit1.png" alt="Stashed Files">
 
-Type something in the line on top of the explorer and press the checkmark. The changes are now committed to your local copy. Now the changes have to be pushed back to GitHub.
+Escreva algo na caixa de texto, no topo do explorador e pressione o botão de *check*. As mudanças agora foram *commitadas* para a sua cópia local. Agora, as mudanças tem que serem mandadas para o GitHub.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-push.png" alt="Stashed Files">
 
-Use the three-dot icon to open up the menu where you select the `Publish Branch` option. This should open up a dialog to put your GitHub credentials in.
+Use o ícone dos três pontos para abrir o menu onde você selecionará a opção `Publicar Branch`. Isso deve abrir uma caixa de diálogo para colocar as tuas credenciais do GitHub.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-gh-auth.png" alt="Stashed Files">
 
