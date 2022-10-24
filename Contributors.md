@@ -47,6 +47,8 @@
 
 - Rishi Kumar Jha
 
+- [Ulrich Raab] [https://github.com/Ulimativo]
+
 - [Umang Dalvadi] [https://github.com/UmangDalvadi]
 
 - [Pachara Tantanis](https://github.com/ptantanis)
@@ -209,6 +211,8 @@
 - [Jeevan Muthu]
 
 - [Ahmad Bin Abdul Jabbar](https://github.com/AhmadBinAbdulJabbar)
+
+- [Rajput Usman](https://github.com/RajputUsman)
 
 - [Alexander Duffey](https://github.com/SuperCater)
 
