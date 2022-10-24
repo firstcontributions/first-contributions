@@ -1,10 +1,12 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Sneha Kumari](https://github.com/Codewithsneha0)
 - [Bojidar Vladimirov](https://github.com/BojidarV)
 - [Urvesh Radadiya](https://github.com/URVESH1121)
 - [Adit Bhargava](https://github.com/zcsop1206)
 - [Sahil Barsaiyan](https://github.com/Sahilb12)
+- [Dario Gumucio](https://github.com/dariogumucio)
 - [Aman Bhagat](https://GitHub.com/sanayaa)
 - Pham Le Duc THinh
 - [Ife Jeremiah](https://github.com/Ifejeremiah)
@@ -174,6 +176,7 @@
 - [Pradyumn](https://github.com/Hannibal404)
 - [Elias Chakroun] (https://github.com/Yushi5058)
 - [Oleynikov Danil] (https://github.com/Ondotteess)
+- [Suchit Deshmukh](https://github.com/suchitd11)
 - [Smart-Peach](https://github.com/Smart-Peach)
 - [Siddhant](https://github.com/SiddJ01)
 - [JSalinas](https://github.com/javier-salinas)
@@ -997,6 +1000,7 @@ Enrique Javier
 - [Piyush Lakheda](https://github.com/piyushlakheda)
 - [Prince Kumar Sahni](https://github.com/mrprince123)
 - [Stefano Cavallotto](https://github.com/cavallefano)
+- [Santiago Moraga](https://github.com/Remy349)
 - [Antonio García](https://github.com/fou-foo)
 - [Renzo Pereyra] (https://github.com/renzopereyra115)
 - [laila van rooijen] (https://github.com/Lailaismyname)
@@ -1092,6 +1096,7 @@ Enrique Javier
 - [Baby Washbear](https://github.com/babywashbear)
 - [Isaac Emerson](https://github.com/Aeronio)
 - [Koty Stannard](https://github.com/k-stannard)
+- [Nicole Dicochea](https://github.com/nicoledicochea)
 - [Anish Kacham](https://github.com/anishKacham)
 - [arashi-yama](https://github.com/arashi-yama)
 - [Manjot Singh](https://github.com/ManjotCodes)
@@ -1534,6 +1539,7 @@ Enrique Javier
 - [Rohan Mourya](https://github.com/rohan209547mourya)
 - [Paras Agarwal](https://github.com/Paras-5)
 - [Varun](https://github.com/kVarunkk)
+- [Syket Das](https://github.com/syket-das)
 - [realkenzii](https://github.com/realkenzii)
 - [Ekechukwu David](https://github.com/davideke1)
 - [Harsh Suhane](https://github.com/HARSHSUHANE17)
@@ -3477,6 +3483,7 @@ Enrique Javier
 - [Ina Bromuos](https://github.com/ibrouos)
 - [Sincerely Brittany](https://github.com/SincerelyBrittany)
 - [Iman Fauzi](https://github.com/imanfauzi29)
+- [Rohan J](https://github.com/rohan-cce)
 - [Lauren Gayle](https://github.com/LaurenGayle)
 - [Walter Paes](https://github.com/WalterPaes)
 - [Renan Ferro](https://github.com/ferrorenan)
