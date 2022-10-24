@@ -4169,6 +4169,8 @@ first contributions - hanyang univ.
 
 - [Vishal Arunagiri](https://github.com/vishalarunagiri)
 
+- [Abdur-Raqeeb Ajao](https://github.com/AbdRaqeeb)
+
 - [Mehedi Hasan](https://github.com/mytaison)
 -[Ojas Mittal](https://github.com/OjasMittal)
 - [Okvi DS](https://github.com/Dwisantra/)
