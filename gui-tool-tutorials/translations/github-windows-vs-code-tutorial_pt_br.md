@@ -64,11 +64,11 @@ Abra a Paleta de Comando novamente, pressionando `F1`. Digite nele `branch` e se
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-branch.png" alt="Branches Command Palette" />
 
-## Make necessary changes
+## Faça as mudanças necessárias
 
-Open `Contributors.md` and add your name anywhere in the file. This file contains GFM (GitHub Flavored Markdown) which is a proprietary flavor of the <a href="https://en.wikipedia.org/wiki/Markdown">markdown</a> syntax.
+Abra o arquivo `Contributors.md` e adicione o seu nome no fim da lista. Esse arquivo contém GFM (GitHub Flavored Markdown), que é uma função nativa da sintaxe do <a href="https://en.wikipedia.org/wiki/Markdown">markdown</a>.
 
-Copy one of the other contributors&apos; lines and modify it with your name to make sure you get the syntax right - it can be picky.
+Copie uma das outras linhas dos contribuidores e modifique-a com o seu nome. Tenha certeza que a sintaxe está correta - ela pode ser exigente.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-changes.png" alt="Add your name" />
 
