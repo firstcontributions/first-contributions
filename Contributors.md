@@ -4294,6 +4294,7 @@ first contributions - hanyang univ.
 - [zyt](https://github.com/zyt600)
 - [Akhoury Shauryam](https://github.com/Satan-Claws)
 - AnnTsai
+- [Magda](https://github.com/magdaV24)
 - [airmelt](https://github.com/airmelt)
 - [BogdanHUBIT](https://github.com/BogdanHUBIT)
 - [Li-CW](https://github.com/Li-CW)
