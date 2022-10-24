@@ -576,6 +576,7 @@ Enrique Javier
 - [shaileshb](https://github.com/shaileshhb)
 - [Victor F.](https://github.com/victorfyonemoto)
 - [Andre Müller](https://github.com/Amueller36)
+- [duzzysroad](https://github.com/duzzysroad)
 - [Srivathsan V](https://github.com/Srivathsan-V)
 - [TJ Albertson](https://github.com/TJ-Albertson)
 - [Elizabeth Renderos](https://github.com/EliRen7)
