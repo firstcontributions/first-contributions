@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [divijaa](https://github.com/divijaa)
 - [Jalebium69](https://github.com/jesherjoshua)
 - [Bojidar Vladimirov](https://github.com/BojidarV)
 - [Urvesh Radadiya](https://github.com/URVESH1121)
