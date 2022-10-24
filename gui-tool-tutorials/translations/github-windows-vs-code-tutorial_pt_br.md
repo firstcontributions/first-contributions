@@ -58,9 +58,9 @@ Cole a URL do seu repositório e aperte `Enter`. Isso vai abrir o Explorador de 
 
 Você pode ver uma janela do status no canto inferior direito do Visual Studio Code. Depois de finalizado esse processo, você pode abrir o repositório clonado (agora, uma pasta na sua máquina) e usar os botões no diálogo.
 
-## Create a branch
+## Crie uma *branch*
 
-Open up the command palette again by pressing `F1`. Type in `branch` and select the `create branch` command from there. In the next step type in the name of your new branch, for example `add-david-kroell`. Press enter and the branch will be created. The branch is also already checked out. [What does checkout mean?](https://www.git-scm.com/docs/git-checkout)
+Abra a Paleta de Comando novamente, pressionando `F1`. Digite nele `branch` e selecione o comando `create branch` a partir das sugestões. No próximo passo, digite o nome da sua nova *branch*, por exemplo: `add-david-kroell`. Presione `Enter` e a *branch* será criada. A *branch* também está preparada para o *check out*. [*O que isso significa?*](https://www.git-scm.com/docs/git-checkout)
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-branch.png" alt="Branches Command Palette" />
 
