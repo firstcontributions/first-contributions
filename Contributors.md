@@ -1935,6 +1935,7 @@ Enrique Javier
   [Choeun Lee](https://github.com/choeunlee)
 - [Mech Mon](https://github.com/Mech-Mon)
 - [AnjoK](https://github.com/Anj0K)
+- [Terrrence Keith](https://github.com/DeputyBerry)
 - [Naftali Kulik](https://github.com/nkulik94)
 - [Mert Arcan](https://github.com/ArjeinN)
 - [TAMWO FEUWO FRANCK VALERE](https://github.com/ValereTamwo)
