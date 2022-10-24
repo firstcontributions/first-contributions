@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Srijan D](https://github.com/Srijan-D)
 - [srinivasthedeveloper](https://github.com/srinivasthedeveloper)
 - [divijaa](https://github.com/divijaa)
 - [Jalebium69](https://github.com/jesherjoshua)
@@ -4316,4 +4317,4 @@ first contributions - hanyang univ.
 - [Thiago Mendes](https://github.com/thiagotmdev)
 - [Zydak](https://github.com/Zydak)
 - [Kaartik Nayak](https://github.com/kaartik2611)
-- [Srijan D](https://github.com/Srijan-D)
+
