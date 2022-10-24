@@ -64,6 +64,7 @@
 - [LeeJaeO](https://github.com/LeeJaeO)
 - [Gaurav Agrawal](https://github.com/gauravzuse)
 - [Adrien Jalouneix](https://github.com/Adrienjal98)
+- [Ujwal Thote](https://github.com/ujwalthote)
 - [Gavin Knudsen]
 - [Nikhil Chinchore]
 - [Sujith P](https://github.com/Alfa-ZORO)
