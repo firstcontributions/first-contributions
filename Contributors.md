@@ -998,6 +998,7 @@ Enrique Javier
 - [Piyush Lakheda](https://github.com/piyushlakheda)
 - [Prince Kumar Sahni](https://github.com/mrprince123)
 - [Stefano Cavallotto](https://github.com/cavallefano)
+- [Santiago Moraga](https://github.com/Remy349)
 - [Antonio García](https://github.com/fou-foo)
 - [Renzo Pereyra] (https://github.com/renzopereyra115)
 - [laila van rooijen] (https://github.com/Lailaismyname)
