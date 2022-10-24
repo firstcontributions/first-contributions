@@ -4290,3 +4290,4 @@ first contributions - hanyang univ.
 - [Naman Verma](https://github.com/NamanVer02)
 - [Jiahao Xu](https://github.com/jiahaoxu98)
 - [Daichi Araki] (https://github.com/Ararchy01)
+- [Ronit Thukral] (https://github.com/RonitThukral)
