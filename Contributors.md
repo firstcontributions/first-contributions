@@ -3479,6 +3479,7 @@ Enrique Javier
 - [Ina Bromuos](https://github.com/ibrouos)
 - [Sincerely Brittany](https://github.com/SincerelyBrittany)
 - [Iman Fauzi](https://github.com/imanfauzi29)
+- [Rohan J](https://github.com/rohan-cce)
 - [Lauren Gayle](https://github.com/LaurenGayle)
 - [Walter Paes](https://github.com/WalterPaes)
 - [Renan Ferro](https://github.com/ferrorenan)
