@@ -4,7 +4,7 @@
 - [srinivasthedeveloper](https://github.com/srinivasthedeveloper)
 - [divijaa](https://github.com/divijaa)
 - [Jalebium69](https://github.com/jesherjoshua)
--[franco palacio](https://github.com/palaciofranco)
+- [francopalacio](https://github.com/palaciofranco)
 - [Bojidar Vladimirov](https://github.com/BojidarV)
 - [Urvesh Radadiya](https://github.com/URVESH1121)
 - [Adit Bhargava](https://github.com/zcsop1206)
