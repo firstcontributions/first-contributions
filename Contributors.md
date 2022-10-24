@@ -4306,3 +4306,4 @@ first contributions - hanyang univ.
 - [Daichi Araki] (https://github.com/Ararchy01)
 - [Ronit Thukral] (https://github.com/RonitThukral)
 - [kdomo] (https://github.com/kdomo)
+- [Renan Silva 🇧🇷](https://github.com/teasercry)
