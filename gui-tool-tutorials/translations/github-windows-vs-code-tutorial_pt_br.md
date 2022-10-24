@@ -28,34 +28,35 @@ Muitos dos repositórios matrizes do GitHub (ou seja, aqueles que não são *For
 
 Se um dos administradores do repositório gostar e aprovar as tuas mudanças, eles *mergearão* e você ganhará fama e fortuna imediatamente! Abaixo, há mais detalhes sobre como fazer isso.
 
-## Clone your repository
+## Clone o seu repositório
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-The next step is to clone your repo down to your machine so you can begin making changes. VS Code needs the URL of your repo, so click the "clone" button and then click the "copy to clipboard" icon.
 
-**CAREFUL:** One mistake that new contributors often make is to clone the repo you forked _from_ rather than cloning your repo. Check your browser's address bar and make sure you are cloning your repo.
+O próximo passo será clonar seu repositório em sua máquina para que você possa modificá-lo. Visual Studio precisa da URL do seu repositório, portanto clique no botão "clone" e então clique no ícone "copy to clipboard".
 
-Now open up Visual Studio Code. The welcome page of VS Code will pop up. From there press `F1` to open up the bar shown below. Notice that there is already a `>` (greater than) sign in the text field. You can also get to the input prompt by pressing `CTRL-P` and then type the `>` character.
+**CUIDADO:** Um erro que os novatos cometem com frequência é clonar o repositório do qual você fez o fork, ao invés de clonar seu repositório. Verifique a barra de endereços do seu navegador e certifique-se de que você está clonando o seu repositório.
+
+Agora, abra o Visual Studio Code. A página principal do VS Code vai minimizar. A partir daí, pressione `F1` para abrir a barra mostrada abaixo. Perceba que já existe um `>` (maior que) no campo de texto. Você pode também chegar até o prompt de entrada pressionando `CTRL-P` e então inserindo o caracter `>`.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-clone.png" alt="Clone Popup (Command Popup)" />
 
-You may notice that there are already some obscure commands listed below. Those are my recently used commands. So just don't care about them.
+Você pode notar que já aí já existem alguns comandos de sugestão abaixo. Esses são os seus comandos utilizados recentemente. Então, apenas ignore-os.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-clone1.png" alt="Clone repo" />
 
-Now type in `git clone`, only `git` or `clone` (it works like a search).
-Select the Entry `Git: Clone` and press `Enter`
+Agora, digite `git clone`, apenas `git` ou `clone` (isso funcionará como uma pesquisa).
+Selecione a opção `Git: Clone` e então aperte `Enter`.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-clone2.png" alt="Paste Repository URL in" />
 
-Paste the URL of your repository and press `Enter`. This will open up a File Explorer where you can then choose where the Git repository should be stored.
+Cole a URL do seu repositório e aperte `Enter`. Isso vai abrir o Explorador de Arquivo onde você pode escolher onde o repositório Git será armazenado.
 
-**Important**: Make sure it is the forked repository and not the original one, otherwise it won't work.
+**Importante**: Tenha certerza que este é o repositório *forkeado* e não é o original. Se não, não funcionará.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-clone3.png" alt="Status popup" />
 
-You should see a status popup on the bottom right of Visual Studio Code. After it has finished, you can open up the cloned repository (now a folder on your machine) using the buttons in the dialog.
+Você pode ver uma janela do status no canto inferior direito do Visual Studio Code. Depois de finalizado esse processo, você pode abrir o repositório clonado (agora, uma pasta na sua máquina) e usar os botões no diálogo.
 
 ## Create a branch
 
