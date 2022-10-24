@@ -4308,3 +4308,4 @@ first contributions - hanyang univ.
 - [Ronit Thukral] (https://github.com/RonitThukral)
 - [kdomo] (https://github.com/kdomo)
 - [Renan Silva 🇧🇷](https://github.com/teasercry)
+- ['Wale Ayodeji](https://github.com/oayodeji)
