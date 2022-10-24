@@ -21,6 +21,7 @@
 - Ketan Jangid
 - John Gitahi
 - Rishi Kumar Jha
+- [Umang Dalvadi] [https://github.com/UmangDalvadi]
 - [Pachara Tantanis](https://github.com/ptantanis)
 - [Munavvar sinan](https://github.com/MunavvarSinan/)
 - [Anas J Mirza](https://github.com/anasjmirza)
