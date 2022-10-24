@@ -24,6 +24,7 @@
 - [Pachara Tantanis](https://github.com/ptantanis)
 - [Munavvar sinan](https://github.com/MunavvarSinan/)
 - [Anas J Mirza](https://github.com/anasjmirza)
+- [Nahal](https://github.com/aka-nahal)
 - [Mauricio Quiroga] (https://github.com/MauricioQuiroga)
 - [Liang G. E.]
 - [Sneha Mandal](https://github.com/sm-creative-crazy4code)
