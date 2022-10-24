@@ -108,6 +108,7 @@
 - [Vaibhavi Gaur](https://github.com/vai14-gaur)
 - [Jeevan Muthu]
 - [Ahmad Bin Abdul Jabbar](https://github.com/AhmadBinAbdulJabbar)
+- [Rajput Usman](https://github.com/RajputUsman)
 - [Alexander Duffey](https://github.com/SuperCater)
 - [Dhriti](https://github.com/Dhriti-singh)
 - [Haseeb Ahmad Siddiqui](https://github.com/hasebsiddiqui)
