@@ -2431,6 +2431,7 @@ Enrique Javier
 - [Vaibhav Batra](https://github.com/GitBatra)
 - [Amish Yadav](https://github.com/amishInfyom)
 - [Harsh Walia](https://github.com/waliaharsh74)
+- [Plentype](https://github.com/Plentype)
 - [Aditya Raj](https://github.com/rajaditya1306)
 - [Samik Pandit](https://github.com/panditsamik)
 - [Erik Pereira](https://github.com/Peartre)
