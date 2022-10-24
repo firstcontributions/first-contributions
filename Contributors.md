@@ -1093,6 +1093,7 @@ Enrique Javier
 - [Baby Washbear](https://github.com/babywashbear)
 - [Isaac Emerson](https://github.com/Aeronio)
 - [Koty Stannard](https://github.com/k-stannard)
+- [Nicole Dicochea](https://github.com/nicoledicochea)
 - [Anish Kacham](https://github.com/anishKacham)
 - [arashi-yama](https://github.com/arashi-yama)
 - [Manjot Singh](https://github.com/ManjotCodes)
