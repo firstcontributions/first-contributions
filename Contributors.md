@@ -8,6 +8,7 @@
 - [Sneha Kumari](https://github.com/Codewithsneha0)
 - [Raymond] (https://github.com/CrazyAsianBoy)
 - [Rajat](https://github.com/rajatkumar2205)
+- [Pratheek Shetty](https://github.com/pratheek-shett)
 - [Mustafa Bhm] (https://github.com/mustafa-bhm)
 - [Iman Crooks] (https://github.com/iqtheengineer)
 - [Kavyadeep Dev](https://github.com/kavyadeepdev)
