@@ -91,19 +91,19 @@ Use o ícone dos três pontos para abrir o menu onde você selecionará a opçã
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-gh-auth.png" alt="Stashed Files">
 
-## Submit your changes for review
+## Submeta suas mudanças para uma revisão
 
-At this point you have completed your change but it still only resides in your repo. This step will show you how to submit a request to the administrator of the top-level repo to merge your change.
+Nesse ponto, você completou suas mudanças, mas elas ainda estão no seu repositório. Esse passo vai mostrar para você como submeter uma requisição para o administrador do repositório original para *mergear* suas mudanças.
 
-In your repo on GitHub you'll see the `Compare & pull request` button next to the new branch notification. Click on that button.
+No seu repositório no GitHub você verá o botão `Compare & Pull request` próximo a notificação da branch. Clique nesse botão.
 
 <img src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-Now submit the pull request.
+Agora, submeta o *pull request*.
 
 <img src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+Breve as suas mudanças serão *mergeadas* na branch `master` desse projeto. Você será notificado por email uma vez que as mudanças forem *mergeadas*.
 
 ## Where to go from here?
 
