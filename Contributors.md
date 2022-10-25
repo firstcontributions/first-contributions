@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Khan Winter](https://github.com/thecoolwinter)
 - [Pritesh Kiri](https://github.com/PriteshKiri)
 - [Boyeong Yoon](https://github.com/BoyeongYoon)
 - [abdulhaseeb036](https://github.com/abdulhaseeb036)
