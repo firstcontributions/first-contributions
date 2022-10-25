@@ -51,6 +51,7 @@
 - [Nahal](https://github.com/aka-nahal)
 - [Mauricio Quiroga] (https://github.com/MauricioQuiroga)
 - [Liang G. E.]
+- [Neil Kanakia](https://neilkanakia.xyz)
 - [Sneha Mandal](https://github.com/sm-creative-crazy4code)
 - [Jordanjun98](https://github.com/Jordanjun98)
 - [Jack Juechter](https://github.com/jrj102)
