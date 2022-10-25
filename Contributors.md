@@ -4357,7 +4357,7 @@ first contributions - hanyang univ.
 - [Wendy Yang](https://github.com/wendyy9)
 - [AminWhat](https://github.com/aminwhat)
 - [Gaurang Agrawal](https://github.com/Gaurang1602)
-
+- [Parth Santoki](https://parth231.github.io/MUSICLY/)
 [Aakash chouksey](https://github.com/Aakash-chouksey)
 - [Elisa Sacchelli](https://github.com/EliSacch)
 - [Devansh Kushwah](https://github.com/Devansh-Kushwah)
