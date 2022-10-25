@@ -71,62 +71,54 @@
 # 
 
 # First Contributions
+ఈ ప్రాజెక్ట్ ప్రారంభకులకు వారి మొదటి సహకారం అందించే విధానాన్ని సరళీకరించడం మరియు మార్గనిర్దేశం చేయడం లక్ష్యంగా పెట్టుకుంది. మీరు మీ మొదటి సహకారం అందించాలని చూస్తున్నట్లయితే, దిగువ దశలను అనుసరించండి.
+_మీరు కమాండ్ లైన్‌తో సౌకర్యంగా లేకుంటే, [ఇక్కడ GUI సాధనాలను ఉపయోగించే ట్యుటోరియల్స్ ఉన్నాయి.](#tutorials-using-other-tools)_
 
-This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
-
-_If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-#### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
+#### మీ మెషీన్‌లో మీకు git లేకపోతే, [దీన్ని ఇన్‌స్టాల్ చేయండి](https://help.github.com/articles/set-up-git/).
 
-## Fork this repository
+##ఈ రిపోజిటరీని ఫోర్క్ చేయండి
 
-Fork this repository by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
-
-## Clone the repository
+ఈ పేజీ ఎగువన ఉన్న ఫోర్క్ బటన్‌పై క్లిక్ చేయడం ద్వారా ఈ రిపోజిటరీని ఫోర్క్ చేయండి.
+ఇది మీ ఖాతాలో ఈ రిపోజిటరీ కాపీని సృష్టిస్తుంది.
+## రిపోజిటరీని క్లోన్ చేయండి
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
+ఇప్పుడు మీ మెషీన్‌కు ఫోర్క్డ్ రిపోజిటరీని క్లోన్ చేయండి. మీ GitHub ఖాతాకు వెళ్లి, ఫోర్క్డ్ రిపోజిటరీని తెరిచి, కోడ్ బటన్‌పై క్లిక్ చేసి, ఆపై _copy to clipboard_ చిహ్నాన్ని క్లిక్ చేయండి.
 
-Open a terminal and run the following git command:
+టెర్మినల్ తెరిచి, కింది git ఆదేశాన్ని అమలు చేయండి:
 
 ```
-git clone "url you just copied"
+git క్లోన్ "url మీరు ఇప్పుడే కాపీ చేసారు"
 ```
 
-where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
-
+ఇక్కడ "మీరు ఇప్పుడే కాపీ చేసిన url" (కొటేషన్ గుర్తులు లేకుండా) ఈ రిపోజిటరీకి url (ఈ ప్రాజెక్ట్ యొక్క మీ ఫోర్క్). urlని పొందడానికి మునుపటి దశలను చూడండి.
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-For example:
-
+ఉదాహరణకి:
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git క్లోన్ https://github.com/this-is-you/first-contributions.git```
+
+ఇక్కడ `ఇది-మీరు` అనేది మీ GitHub వినియోగదారు పేరు. ఇక్కడ మీరు GitHubలోని మొదటి-సహకారాల రిపోజిటరీ యొక్క కంటెంట్‌లను మీ కంప్యూటర్‌కు కాపీ చేస్తున్నారు.
+
+## ఒక శాఖను సృష్టించండి
+మీ కంప్యూటర్‌లోని రిపోజిటరీ డైరెక్టరీకి మార్చండి (మీరు ఇప్పటికే అక్కడ లేకుంటే):
 ```
-
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
-
-## Create a branch
-
-Change to the repository directory on your computer (if you are not already there):
-
-```
-cd first-contributions
+cd మొదటి రచనలు
 ```
 
-Now create a branch using the `git switch` command:
+ఇప్పుడు `git switch` ఆదేశాన్ని ఉపయోగించి ఒక శాఖను సృష్టించండి:
+```
+git switch -c మీ-కొత్త-బ్రాంచ్-పేరు
+```
+
+ఉదాహరణకి:
 
 ```
-git switch -c your-new-branch-name
-```
-
-For example:
-
-```
-git switch -c add-alonzo-church
+git స్విచ్ -c add-alonzo-church
 ```
 
 ## Make necessary changes and commit those changes
@@ -135,68 +127,61 @@ Now open `Contributors.md` file in a text editor, add your name to it. Don't add
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
-
-Add those changes to the branch you just created using the `git add` command:
-
+మీరు ప్రాజెక్ట్ డైరెక్టరీకి వెళ్లి, `git status` కమాండ్‌ని అమలు చేస్తే, మీరు అక్కడ మార్పులు చూస్తారు.
+`git add` ఆదేశాన్ని ఉపయోగించి మీరు ఇప్పుడే సృష్టించిన శాఖకు ఆ మార్పులను జోడించండి:
 ```
-git add Contributors.md
+Add Contributors.end పొందండి
 ```
 
-Now commit those changes using the `git commit` command:
+ఇప్పుడు `git commit` ఆదేశాన్ని ఉపయోగించి ఆ మార్పులను చేయండి:
+```
+git commit -m "కంట్రిబ్యూటర్స్ లిస్ట్‌కి <మీ పేరు> జోడించు"```
+
+మీ పేరుతో `<మీ-పేరు>` స్థానంలో ఉంది.
+
+## GitHubకి మార్పులను పుష్ చేయండి
+
+`git push` ఆదేశాన్ని ఉపయోగించి మీ మార్పులను పుష్ చేయండి:
 
 ```
-git commit -m "Add <your-name> to Contributors list"
+git పుష్ మూలం -u <మీ బ్రాంచ్-పేరు జోడించు>
 ```
 
-replacing `<your-name>` with your name.
-
-## Push changes to GitHub
-
-Push your changes using the command `git push`:
-
-```
-git push origin -u <add-your-branch-name>
-```
-
-replacing `<add-your-branch-name>` with the name of the branch you created earlier.
+మీరు ఇంతకు ముందు సృష్టించిన శాఖ పేరుతో `<add-your-branch-name>`ని భర్తీ చేస్తోంది.
 
 <details>
-<summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
+<summary> <strong>నెట్టేటప్పుడు మీకు ఏవైనా లోపాలు వస్తే, ఇక్కడ క్లిక్ చేయండి:</strong> </summary>
 
-* ### Authentication Error
-     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
-  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>  
-   Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
+* ### ప్రమాణీకరణ లోపం
+     <pre>remote: **ఆగస్టు 13, 2021న పాస్‌వర్డ్ ప్రమాణీకరణకు మద్దతు తీసివేయబడింది. దయచేసి బదులుగా వ్యక్తిగత యాక్సెస్ టోకెన్‌ని ఉపయోగించండి.**
+  remote: దయచేసి మరింత సమాచారం కోసం https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ని చూడండి.
+  fatal:https://github.com/<your-username>/first-contributions.git/' కోసం ప్రమాణీకరణ విఫలమైంది</pre>  
+   [GitHub యొక్క ట్యుటోరియల్](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)కి వెళ్లండి మీ ఖాతాకు SSH కీని రూపొందించడం మరియు కాన్ఫిగర్ చేయడం.
 
 </details>
 
-## Submit your changes for review
-
-If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+## సమీక్ష కోసం మీ మార్పులను సమర్పించండి
+మీరు GitHubలో మీ రిపోజిటరీకి వెళితే, మీకు `పోల్చండి & పుల్ రిక్వెస్ట్` బటన్ కనిపిస్తుంది. ఆ బటన్‌పై క్లిక్ చేయండి.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-Now submit the pull request.
+ఇప్పుడు పుల్ అభ్యర్థనను సమర్పించండి.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+త్వరలో నేను మీ అన్ని మార్పులను ఈ ప్రాజెక్ట్ యొక్క మాస్టర్ బ్రాంచ్‌లో విలీనం చేస్తాను. మార్పులు విలీనం అయిన తర్వాత మీకు నోటిఫికేషన్ ఇమెయిల్ వస్తుంది.
 
-## Where to go from here?
+## ఇక్కడ నుండి ఎక్కడికి వెళ్ళాలి?
 
-Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll encounter often as a contributor!
+అభినందనలు! మీరు కంట్రిబ్యూటర్‌గా తరచుగా ఎదుర్కొనే ప్రామాణిక _ఫోర్క్ -> క్లోన్ -> ఎడిట్ -> పుల్ రిక్వెస్ట్_ వర్క్‌ఫ్లోను మీరు ఇప్పుడే పూర్తి చేసారు!
+[వెబ్ యాప్](https://firstcontributions.github.io/#social-share)కి వెళ్లడం ద్వారా మీ సహకారాన్ని జరుపుకోండి మరియు మీ స్నేహితులు మరియు అనుచరులతో భాగస్వామ్యం చేయండి.
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
+మీకు ఏదైనా సహాయం అవసరమైతే లేదా ఏవైనా ప్రశ్నలు ఉంటే మీరు మా స్లాక్ టీమ్‌లో చేరవచ్చు. [స్లాక్ టీమ్‌లో చేరండి](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA).
 
-You could join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA).
-
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
-
-### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
-
-## Tutorials Using Other Tools
+ఇప్పుడు మీరు ఇతర ప్రాజెక్ట్‌లకు సహకారం అందించడాన్ని ప్రారంభిద్దాం. మీరు ప్రారంభించగలిగే సులభమైన సమస్యలతో కూడిన ప్రాజెక్ట్‌ల జాబితాను మేము సంకలనం చేసాము. [వెబ్ యాప్‌లోని ప్రాజెక్ట్‌ల జాబితా](https://firstcontributions.github.io/#project-list)ని తనిఖీ చేయండి.
+     
+###[అదనపు మెటీరియల్](additional-material/git_workflow_scenarios/additional-material.md)
+## ఇతర సాధనాలను ఉపయోగించి ట్యుటోరియల్స్
 
 | <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
