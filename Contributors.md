@@ -24,6 +24,7 @@
 - [Sushil Suthar](https://github.com/isushilsuthar)
 - [Jalebium69](https://github.com/jesherjoshua)
 - [Bojidar Vladimirov](https://github.com/BojidarV)
+- [Gabriel Coelho](https://github.com/bielcoelho)
 - [Urvesh Radadiya](https://github.com/URVESH1121)
 - [Adit Bhargava](https://github.com/zcsop1206)
 - [Tanu Singh](https://github.com/TanuSingh17)
