@@ -37,6 +37,7 @@
 - Ketan Jangid
 - John Gitahi
 - Rishi Kumar Jha
+- Kalyan Kumar
 - [Ulrich Raab] [https://github.com/Ulimativo]
 - [Umang Dalvadi] [https://github.com/UmangDalvadi]
 - [Pachara Tantanis](https://github.com/ptantanis)
