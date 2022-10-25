@@ -656,6 +656,7 @@ Enrique Javier
 - [Krishna Rajkumar Dembla](https://github.com/Krytax-24)
 - [Vladimir Cvejanov](https://github.com/VladenCode)
 - [Suman Raj](https://github.com/the-suman)
+- [Devajya Khanna]
 - [Kiran Bakale](https://github.com/kiranbakale)
 - [Rajanit](https://github.com/rajanitnavapara8)
 - [Shashi Raj](https://github.com/shashirajraja)
