@@ -100,6 +100,7 @@
 - [Manmeet Kaur](https://github.com/Manmeet2607)
 - [AbelValencia](https://github.com/AbelValencia)
 - [LeeJaeO](https://github.com/LeeJaeO)
+- [Rodrigo Yuske](https://github.com/yuskeee)
 - [Gaurav Agrawal](https://github.com/gauravzuse)
 - [Adrien Jalouneix](https://github.com/Adrienjal98)
 - [Ujwal Thote](https://github.com/ujwalthote)
