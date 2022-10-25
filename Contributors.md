@@ -47,6 +47,7 @@
 - Rishi Kumar Jha
 - Kalyan Kumar
 - [Ulrich Raab] [https://github.com/Ulimativo]
+- [Tihan Pelser] [https://github.com/TihanPelser]
 - [Umang Dalvadi] [https://github.com/UmangDalvadi]
 - [Pachara Tantanis](https://github.com/ptantanis)
 - [Munavvar sinan](https://github.com/MunavvarSinan/)
