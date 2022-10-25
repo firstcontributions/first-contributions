@@ -5,6 +5,7 @@
 - [Shivam Jha](https://github.com/shivjha-27
 - [Varun Kumar](https://github.com/kukutapuvarun) 
 - [Suchit](https://github.com/Suchitsj12)
+- [Soy Sofia] (https://github.com/AleeSofiaa)
 - [Gaby Victoria](https://github.com/GabyVictoria0122)
  -[Vijay](https://github.com/developer-vijay)
 - [Huzaifa Qureshi] (https://github.com/Huzaifa-code)
