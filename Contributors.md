@@ -4,6 +4,7 @@
 - [Pritesh Kiri](https://github.com/PriteshKiri)
 - [Ankush Negi](https://leetcode.com/AnkushNegi531/)
 - [Don Chisolm](https://github.com/Donchiz77)
+- [Shannon Torcato](https://github.com/shannontorcato)
 - [Sneha Kumari](https://github.com/Codewithsneha0)
 - [Raymond] (https://github.com/CrazyAsianBoy)
 - [Rajat](https://github.com/rajatkumar2205)
