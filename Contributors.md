@@ -15,6 +15,7 @@
 - [Iman Crooks] (https://github.com/iqtheengineer)
 - [Badal Kumar] (https://github.com/mrdevil0-9)
 - [Kavyadeep Dev](https://github.com/kavyadeepdev)
+- [Aditya Mundas] (https://github.com/am1671)
 - [NeilN](https://github.com/NeilN)
 - [Srijan D](https://github.com/Srijan-D)
 - [srinivasthedeveloper](https://github.com/srinivasthedeveloper)
@@ -31,6 +32,7 @@
 - [Aman Bhagat](https://GitHub.com/sanayaa)
 - Pham Le Duc THinh
 - Daire Connolly
+- Victoria Lafi
 - [Ife Jeremiah](https://github.com/Ifejeremiah)
 - [Sourabh Mehta](https://github.com/sm-sourabh)
 - [Raj Kumar](https://github.com/raj03kumar)
@@ -99,6 +101,7 @@
 - [Manmeet Kaur](https://github.com/Manmeet2607)
 - [AbelValencia](https://github.com/AbelValencia)
 - [LeeJaeO](https://github.com/LeeJaeO)
+- [Rodrigo Yuske](https://github.com/yuskeee)
 - [Gaurav Agrawal](https://github.com/gauravzuse)
 - [Adrien Jalouneix](https://github.com/Adrienjal98)
 - [Ujwal Thote](https://github.com/ujwalthote)
@@ -318,6 +321,7 @@ Enrique Javier
 - [Agustina Maidana]
 - [Doffy]()
 - [Walter Hertman](https://github.com/whertman)
+- [Wizard Lemon](https://github.com/WizardLemon)
 - [Sahil Gupta](https://github.com/LAS3RBOY)
 - [Miyuru Gunarathna](https://github.com/miyurugunarathna)
 - [mangoisbest](https://github.com/mangoisbest)
@@ -715,6 +719,7 @@ Enrique Javier
 - [Mandar Deshmukh](https://github.com/mandarsd18)
 - [Aman Badone](https://github.com/amanbadone)
 - [Rishabh yaduwanshi](https://github.com/rishabhyaduwanshi)
+- [Suraj Patel](https://github.com/Surajpatel2003)
 - [Raghav Krishan Kedia](https://github.com/Raghav-Kedia)
 - [WhiteR4ven](https://github.com/WhiteR4ven)
 - [Aviraj Saxena](https://github.com/theavirajsaxena)
@@ -4379,4 +4384,5 @@ first contributions - hanyang univ.
 - [Devansh Kushwah](https://github.com/Devansh-Kushwah)
 - [prosscode](https://github.com/prosscode)
 -[Rezahans](https://github.com/Rezahans)
+-[Javi Mack](https://github.com/jaikun0430)
 EZ
