@@ -2193,6 +2193,7 @@ Enrique Javier
 - [Roie Scharf](https://github.com/scharf-roie)
 - [Khoaiz](https://github.com/Khoaizahmmed)
 - [Thomas Setchell](https://github.com/TommyS13)
+- [Nashid Noor Mohammed](https://github.com/Nashid-Noor)
 - [Razibul Hasan](https://github.com/RazibulHasanAshik)
   [Mohammad hossein Anaraki](https://github.com/Anaraki-mh)
 - [Robert Reyes](https://github.com/robrey0)
