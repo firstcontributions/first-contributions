@@ -4335,4 +4335,4 @@ first contributions - hanyang univ.
 - [Thiago Mendes](https://github.com/thiagotmdev)
 - [Zydak](https://github.com/Zydak)
 - [Kaartik Nayak](https://github.com/kaartik2611)
-
+- [Pedro Paulo](https://github.com/SwloBr)
