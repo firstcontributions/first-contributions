@@ -32,6 +32,7 @@
 - [Archishman Das](https://github.com/starving-array)
 - [Abouar Prosper](https://github.com/4kpros/)
 - [Elvis Kinyua] (https://github.com/ekinyua)
+- [Valarie Oyieke] (https://github.com/ValarieOyieke)
 - Ketan Jangid
 - John Gitahi
 - Rishi Kumar Jha
