@@ -101,6 +101,7 @@
 - [Ujwal Thote](https://github.com/ujwalthote)
 - [Gavin Knudsen]
 - [Nikhil Chinchore]
+- [Siddharth Singh](https://github.com/siddharthqs/rust_quant)
 - [Sujith P](https://github.com/Alfa-ZORO)
 - [Sahil Singh](www.linkedin.com/in/sahil-singh-ss9824)
 - [imappuru](https://github.com/imappuru)
