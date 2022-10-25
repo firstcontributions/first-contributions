@@ -48,9 +48,11 @@
 - Rishi Kumar Jha
 - Kalyan Kumar
 - [Ulrich Raab] [https://github.com/Ulimativo]
+- [Tihan Pelser] [https://github.com/TihanPelser]
 - [Umang Dalvadi] [https://github.com/UmangDalvadi]
 - [Pachara Tantanis](https://github.com/ptantanis)
 - [Munavvar sinan](https://github.com/MunavvarSinan/)
+- [Saloni Srivastava] (https://github.com/salonisri1733)
 - [Anas J Mirza](https://github.com/anasjmirza)
 - [Nahal](https://github.com/aka-nahal)
 - [Mauricio Quiroga] (https://github.com/MauricioQuiroga)
@@ -100,6 +102,7 @@
 - [Ujwal Thote](https://github.com/ujwalthote)
 - [Gavin Knudsen]
 - [Nikhil Chinchore]
+- [Siddharth Singh](https://github.com/siddharthqs/rust_quant)
 - [Sujith P](https://github.com/Alfa-ZORO)
 - [Sahil Singh](www.linkedin.com/in/sahil-singh-ss9824)
 - [imappuru](https://github.com/imappuru)
@@ -4271,7 +4274,7 @@ Add something here
 - [Deepali Sayana](https://github.com/deepseas07)
 - [Nathanael Ama](https://github.com/NathanaelAma/)
 - [Sayantan Mishra](https://github.com/sayanmdn/)
-
+- [Rafaela Micaela](https://github.com/RafaelaMicaela)
 - [siravijbb](https://github.com/siravijbb)
 - [ishita126jain](https://github.com/ishita126jain)
 - [Patrick](https://github.com/pjs32)
@@ -4349,7 +4352,9 @@ Add something here
 - [Gaurang Agrawal](https://github.com/Gaurang1602)
 - [Tanya Modi](https://github.com/Tanyamodi)
   [Aakash chouksey](https://github.com/Aakash-chouksey)
-
+[Aakash chouksey](https://github.com/Aakash-chouksey)
 - [Elisa Sacchelli](https://github.com/EliSacch)
 - [Devansh Kushwah](https://github.com/Devansh-Kushwah)
 - [prosscode](https://github.com/prosscode)
+-[Rezahans](https://github.com/Rezahans)
+EZ
