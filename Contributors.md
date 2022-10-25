@@ -1564,6 +1564,7 @@ Add something here
 - [Jatin Agarwal](https://github.com/Hyperbolic007)
 - [Morii Shikaa](https://github.com/moriishika
 - [Isaac Montenegro](https://github.com/Isaac-M-M)
+- [Vladislav Skoropada](https://github.com/StegosaurusRex)
 - [Morii Shikaa](https://github.com/moriishika)
 - [Collins Kiprotich Rono](https://github.com/collynce)
 - [Flavia Mabras😽](https://github.com/flamadev)
