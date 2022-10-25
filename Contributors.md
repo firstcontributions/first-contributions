@@ -29,6 +29,7 @@
 - [Dario Gumucio](https://github.com/dariogumucio)
 - [Aman Bhagat](https://GitHub.com/sanayaa)
 - Pham Le Duc THinh
+- Daire Connolly
 - [Ife Jeremiah](https://github.com/Ifejeremiah)
 - [Sourabh Mehta](https://github.com/sm-sourabh)
 - [Raj Kumar](https://github.com/raj03kumar)
