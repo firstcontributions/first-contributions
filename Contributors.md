@@ -2698,7 +2698,7 @@ Enrique Javier
 - [Yashraj](https://github.com/yashraj24)
 - [Dawood Siddique](https:github.com/Dawood-Siddique)
 - [Rohit](https://github.com/rohitsasi720)
-- [Aleksa](https://github.com/aleksastojsic)
+- [aleksa-codes](https://github.com/aleksa-codes)
 - [RaphaelJS](https://github.com/RaphaelJ-S)
 - [RahatImroz](https://github.com/RahatAhmed171)
 - [Richard Panzera](https://github.com/richardpanzera)
