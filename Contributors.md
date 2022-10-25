@@ -715,6 +715,7 @@ Enrique Javier
 - [Mandar Deshmukh](https://github.com/mandarsd18)
 - [Aman Badone](https://github.com/amanbadone)
 - [Rishabh yaduwanshi](https://github.com/rishabhyaduwanshi)
+- [Suraj Patel](https://github.com/Surajpatel2003)
 - [Raghav Krishan Kedia](https://github.com/Raghav-Kedia)
 - [WhiteR4ven](https://github.com/WhiteR4ven)
 - [Aviraj Saxena](https://github.com/theavirajsaxena)
