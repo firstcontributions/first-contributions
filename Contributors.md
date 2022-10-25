@@ -1,4 +1,7 @@
-# Contributors
+Changes not staged for commit: 
+  (use "git add <file>..." to update what will be committed)
+   SuJung Song
+  (use "git checkout -- <file>..." to discard changed in world)
 
 <!-- prettier-ignore-start -->
 - [Sneha Kumari](https://github.com/Codewithsneha0)
