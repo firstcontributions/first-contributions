@@ -455,6 +455,7 @@ Enrique Javier
 - [Adharsh RJ](https://github.com/adharshrj)
 - [AnWhiteEd](https://github.com/an-white)
 - Vishal
+- [Jahziel Cabrera](https://github.com/jahzielcabrera)
 - [Ravi Sanghani](https://github.com/ravi-sanghani)
 - [સ્મિત કાછડીયા](https://github.com/smeekas)
 - [Rao Khuram Shahzad](https://github.com/KhuramShahzad-5335)
