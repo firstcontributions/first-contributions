@@ -1880,6 +1880,7 @@ Enrique Javier
 - [Shraddha Anala](https://github.com/shraddha-an)
 - [Laxman kohar](https://github.com/Laxmankohar)
 - [Navneet Nair](https://github.com/navneetnair7)
+- [Adrian Tam](https://github.com/kayeungadrian-tam)
 - [Adnan Hasan Rafi](https://github.com/amiirafi)
 - [Pranathi Pulimamidy](https://github.com/ppulimamidy)
 - [Dena Vafadar Afshar](https://github.com/DenavDot)
