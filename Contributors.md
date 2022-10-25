@@ -20,6 +20,7 @@
 - [Srijan D](https://github.com/Srijan-D)
 - [srinivasthedeveloper](https://github.com/srinivasthedeveloper)
 - [divijaa](https://github.com/divijaa)
+- [terminalPoltergeist](https://github.com/terminalPoltergeist)
 - [katumba jonathan paul](https://github.com/kpaool)
 - [Sushil Suthar](https://github.com/isushilsuthar)
 - [Jalebium69](https://github.com/jesherjoshua)
