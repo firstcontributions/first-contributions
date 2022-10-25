@@ -2396,6 +2396,7 @@ Add something here
 - [Suraj Kumar Sharma](https://github.com/surajsharma14)
 - [Markus Haendler](https://github.com/mhaendler)
 - [Neetigya](https://github.com/NeetigyaShah)
+- [Codey Camerer](https://github.com/codey-c)
 - [Juan Carrasquilla](https://github.com/JC-swEng/)
 - [Arash Mousavi Cheghabouri])(https://github.com/arash-mc)
 - [Hicham Maachou](https://github.com/hichammaachou)
