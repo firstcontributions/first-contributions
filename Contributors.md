@@ -13,6 +13,7 @@
 - [Srijan D](https://github.com/Srijan-D)
 - [srinivasthedeveloper](https://github.com/srinivasthedeveloper)
 - [divijaa](https://github.com/divijaa)
+- [Sushil Suthar](https://github.com/isushilsuthar)
 - [Jalebium69](https://github.com/jesherjoshua)
 - [Bojidar Vladimirov](https://github.com/BojidarV)
 - [Urvesh Radadiya](https://github.com/URVESH1121)
