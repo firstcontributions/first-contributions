@@ -22,6 +22,7 @@
 - [Aman Bhagat](https://GitHub.com/sanayaa)
 - Pham Le Duc THinh
 - [Ife Jeremiah](https://github.com/Ifejeremiah)
+- [Satish Kolli](https://github.com/satishkolli1992)
 - [Raj Kumar](https://github.com/raj03kumar)
 - [Jayanth T](https://github.com/TriJayDore)
 - [jaytau](https://github.com/jay-tau)
