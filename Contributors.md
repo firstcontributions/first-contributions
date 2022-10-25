@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Pritesh Kiri](https://github.com/PriteshKiri)
 - [Ankush Negi](https://leetcode.com/AnkushNegi531/)
 - [Don Chisolm](https://github.com/Donchiz77)
 - [Sneha Kumari](https://github.com/Codewithsneha0)
