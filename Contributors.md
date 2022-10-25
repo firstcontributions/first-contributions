@@ -397,6 +397,7 @@ Enrique Javier
 - [Sambhav Goel](https://github.com/Sambhavgoel)
 - [Arshad Khan](https://github.com/The-Arshad-Khan)
 - [Ricardo Fontenla](https://github.com/ricfontenla)
+- [M3tal M0nk3y](https://github.com/M3talM0nk3y)
 - [Akshay Soni](https://github.com/akshaysoni10)
 - [Denis Koshelev](https://github.com/kshpdr)
 - [youngjun1227](https://github.com/youngjun1227)
