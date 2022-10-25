@@ -319,6 +319,7 @@ Enrique Javier
 - [Agustina Maidana]
 - [Doffy]()
 - [Walter Hertman](https://github.com/whertman)
+- [Wizard Lemon](https://github.com/WizardLemon)
 - [Sahil Gupta](https://github.com/LAS3RBOY)
 - [Miyuru Gunarathna](https://github.com/miyurugunarathna)
 - [mangoisbest](https://github.com/mangoisbest)
