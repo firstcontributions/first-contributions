@@ -17,6 +17,7 @@
 - [Srijan D](https://github.com/Srijan-D)
 - [srinivasthedeveloper](https://github.com/srinivasthedeveloper)
 - [divijaa](https://github.com/divijaa)
+- [katumba jonathan paul](https://github.com/kpaool)
 - [Sushil Suthar](https://github.com/isushilsuthar)
 - [Jalebium69](https://github.com/jesherjoshua)
 - [Bojidar Vladimirov](https://github.com/BojidarV)
