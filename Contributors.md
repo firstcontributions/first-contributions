@@ -356,6 +356,7 @@ Enrique Javier
 - [Jeet Oza](https://github.com/Oza-Jeetkumar-Vishnubhai)
 - [Ayush Dodiya](https://github.com/AHD153)
 - [KDE030617](https://github.com/KDE030617)
+- [Rohan Borse(https://github.com/Rohan5202)
 - [gvadam] (https://github.com/gvadam)
 - [Arijit Ghosh](https://github.com/rancho2002)
 - [starR-ight](https://github.com/StarR-ight)
