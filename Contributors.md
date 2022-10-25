@@ -4294,7 +4294,7 @@ first contributions - hanyang univ.
 - [Deepali Sayana](https://github.com/deepseas07)
 - [Nathanael Ama](https://github.com/NathanaelAma/)
 - [Sayantan Mishra](https://github.com/sayanmdn/)
-
+- [Rafaela Micaela](https://github.com/RafaelaMicaela)
 - [siravijbb](https://github.com/siravijbb)
 - [ishita126jain](https://github.com/ishita126jain)
 - [Patrick](https://github.com/pjs32)
