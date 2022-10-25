@@ -1,8 +1,8 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
-# 
+
 
 #### _Read this in [other languages](translations/Translations.md)._
 
@@ -13,7 +13,7 @@
 <kbd>[<img title="Bulgarian" alt="Bulgarian" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/bg.svg" width="22">](translations/README.bg.md)</kbd>
 <kbd>[<img title="Português" alt="Português" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](translations/README.pt_br.md)</kbd>
 <kbd>[<img title="Català" alt="Català" src="https://firstcontributions.github.io/assets/Readme/catalan1.png" width="22">](translations/README.ca.md)</kbd>
-<kbd>[<img title="中文 (Simplified)" alt="中文 (Simplified)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cn.svg" width="22">](translations/README.chs.md)</kbd>
+<kbd>[<img title="中文 (Simplified)" alt="中文 (Simplified)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cn.svg" width="22">](translations/README.zh-cn.md)</kbd>
 <kbd>[<img title="Czech" alt="Czech" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cz.svg" width="22">](translations/README.cs.md)</kbd>
 <kbd>[<img title="Deutsch" alt="Deutsch" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](translations/README.de.md)</kbd>
 <kbd>[<img title="Dansk" alt="Dansk" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/dk.svg" width="22">](translations/README.da.md)</kbd>
@@ -55,24 +55,26 @@
 <kbd>[<img title="Slovenščina" alt="Slovenščina" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/si.svg" width="22">](translations/README.sl.md)</kbd>
 <kbd>[<img title="ภาษาไทย" alt="ภาษาไทย" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/th.svg" width="22">](translations/README.th.md)</kbd>
 <kbd>[<img title="Türkçe" alt="Türkçe" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/tr.svg" width="22">](translations/README.tr.md)</kbd>
-<kbd>[<img title="中文(Traditional)" alt="中文(Traditional)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/tw.svg" width="22">](translations/README.cht.md)</kbd>
+<kbd>[<img title="中文(Traditional)" alt="中文(Traditional)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/tw.svg" width="22">](translations/README.zh-tw.md)</kbd>
 <kbd>[<img title="Українська" alt="Українська" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ua.svg" width="22">](translations/README.ua.md)</kbd>
 <kbd>[<img title="Tiếng Việt" alt="Tiếng Việt" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/vn.svg" width="22">](translations/README.vn.md)</kbd>
 <kbd>[<img title="Zulu (South Africa)" alt="Zulu (South Africa)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/za.svg" width="22">](translations/README.zul.md)</kbd>
 <kbd>[<img title="Afrikaans (South Africa)" alt="Afrikaans (South Africa)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/za.svg" width="22">](translations/README.afk.md)</kbd>
 <kbd>[<img title="Igbo (Nigeria)" alt="Igbo (Nigeria)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ng.svg" width="22">](translations/README.igb.md)</kbd>
 <kbd>[<img title="Yoruba (Nigeria)" alt="Yoruba (Nigeria)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ng.svg" width="22">](translations/README.yor.md)</kbd>
+<kbd>[<img title="Hausa (Nigeria)" alt="Hausa (Nigeria)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ng.svg" width="22">](translations/README.hau.md)</kbd>
 <kbd>[<img title="Latvia" alt="Latvia" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lv.svg" width="22">](translations/README.lv.md)</kbd>
 <kbd>[<img title="Suomeksi" alt="Suomeksi" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fi.svg" width="22">](translations/README.fi.md)</kbd>
 <kbd>[<img title="Беларуская мова" alt="Беларуская мова" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/by.svg" width="22">](translations/README.by.md)</kbd>
 <kbd>[<img title="Српски" alt="Српски" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/rs.svg" width="22">](translations/README.sr.md)</kbd>
 <kbd>[<img title="Қазақша" alt="Қазақша" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/kz.svg" width="22">](translations/README.kz.md)</kbd>
 <kbd>[<img title="Bosanski" alt="Bosanski" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ba.svg" width="22">](translations/README.bih.md)</kbd>
-# 
+
 
 # First Contributions
 ఈ ప్రాజెక్ట్ ప్రారంభకులకు వారి మొదటి సహకారం అందించే విధానాన్ని సరళీకరించడం మరియు మార్గనిర్దేశం చేయడం లక్ష్యంగా పెట్టుకుంది. మీరు మీ మొదటి సహకారం అందించాలని చూస్తున్నట్లయితే, దిగువ దశలను అనుసరించండి.
 _మీరు కమాండ్ లైన్‌తో సౌకర్యంగా లేకుంటే, [ఇక్కడ GUI సాధనాలను ఉపయోగించే ట్యుటోరియల్స్ ఉన్నాయి.](#tutorials-using-other-tools)_
+
 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
@@ -133,30 +135,18 @@ Now open `Contributors.md` file in a text editor, add your name to it. Don't add
 Add Contributors.end పొందండి
 ```
 
-ఇప్పుడు `git commit` ఆదేశాన్ని ఉపయోగించి ఆ మార్పులను చేయండి:
+
 ```
 git commit -m "కంట్రిబ్యూటర్స్ లిస్ట్‌కి <మీ పేరు> జోడించు"```
 
-మీ పేరుతో `<మీ-పేరు>` స్థానంలో ఉంది.
+
 
 ## GitHubకి మార్పులను పుష్ చేయండి
 
 `git push` ఆదేశాన్ని ఉపయోగించి మీ మార్పులను పుష్ చేయండి:
 
 ```
-git పుష్ మూలం -u <మీ బ్రాంచ్-పేరు జోడించు>
-```
 
-మీరు ఇంతకు ముందు సృష్టించిన శాఖ పేరుతో `<add-your-branch-name>`ని భర్తీ చేస్తోంది.
-
-<details>
-<summary> <strong>నెట్టేటప్పుడు మీకు ఏవైనా లోపాలు వస్తే, ఇక్కడ క్లిక్ చేయండి:</strong> </summary>
-
-* ### ప్రమాణీకరణ లోపం
-     <pre>remote: **ఆగస్టు 13, 2021న పాస్‌వర్డ్ ప్రమాణీకరణకు మద్దతు తీసివేయబడింది. దయచేసి బదులుగా వ్యక్తిగత యాక్సెస్ టోకెన్‌ని ఉపయోగించండి.**
-  remote: దయచేసి మరింత సమాచారం కోసం https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ని చూడండి.
-  fatal:https://github.com/<your-username>/first-contributions.git/' కోసం ప్రమాణీకరణ విఫలమైంది</pre>  
-   [GitHub యొక్క ట్యుటోరియల్](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)కి వెళ్లండి మీ ఖాతాకు SSH కీని రూపొందించడం మరియు కాన్ఫిగర్ చేయడం.
 
 </details>
 
@@ -169,9 +159,7 @@ git పుష్ మూలం -u <మీ బ్రాంచ్-పేరు జ�
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-త్వరలో నేను మీ అన్ని మార్పులను ఈ ప్రాజెక్ట్ యొక్క మాస్టర్ బ్రాంచ్‌లో విలీనం చేస్తాను. మార్పులు విలీనం అయిన తర్వాత మీకు నోటిఫికేషన్ ఇమెయిల్ వస్తుంది.
 
-## ఇక్కడ నుండి ఎక్కడికి వెళ్ళాలి?
 
 అభినందనలు! మీరు కంట్రిబ్యూటర్‌గా తరచుగా ఎదుర్కొనే ప్రామాణిక _ఫోర్క్ -> క్లోన్ -> ఎడిట్ -> పుల్ రిక్వెస్ట్_ వర్క్‌ఫ్లోను మీరు ఇప్పుడే పూర్తి చేసారు!
 [వెబ్ యాప్](https://firstcontributions.github.io/#social-share)కి వెళ్లడం ద్వారా మీ సహకారాన్ని జరుపుకోండి మరియు మీ స్నేహితులు మరియు అనుచరులతో భాగస్వామ్యం చేయండి.

@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -108,7 +108,7 @@ Parabéns! Você acabou de completar o padrão _fork -> clone -> edit -> PR_ wor
  
 Comemore sua contribuição e compartilhe-a com seus amigos e seguidores acessando o [web app](https://roshanjossey.github.io/first-contributions/#social-share).
  
-Você pode se juntar a nossa equipe slack caso precise de alguma ajuda ou tenha alguma dúvida. [Junte-se ao time slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+Você pode se juntar a nossa equipe slack caso precise de alguma ajuda ou tenha alguma dúvida. [Junte-se ao time slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
  
 Agora vamos começar a contribuir para outros projetos, compilamos uma lista de projetos com questões fáceis para você começar. [Confira a lista de projetos no web app](https://roshanjossey.github.io/first-contributions/#project-list).
  
