@@ -4358,6 +4358,6 @@ first contributions - hanyang univ.
 - [AminWhat](https://github.com/aminwhat)
 - [Gaurang Agrawal](https://github.com/Gaurang1602)
 - [Parth Santoki](https://parth231.github.io/MUSICLY/)
-[Aakash chouksey](https://github.com/Aakash-chouksey)
+- [Aakash chouksey](https://github.com/Aakash-chouksey)
 - [Elisa Sacchelli](https://github.com/EliSacch)
 - [Devansh Kushwah](https://github.com/Devansh-Kushwah)
