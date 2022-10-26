@@ -4414,4 +4414,4 @@ first contributions - hanyang univ.
 - [Ryan McCormick](https://github.com/mccor689)
 - [Aditya K](https://github.com/Aditya31398)
 - [Tum Laksi](https://github.com/parawuit)
-- [Bernard "Bonjo" Thompdon](https://github.com/bonjo7)
+- [Bernard "Bonjo" Thompson](https://github.com/bonjo7)
