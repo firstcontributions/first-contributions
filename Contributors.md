@@ -21,6 +21,7 @@
 - [Badal Kumar] (https://github.com/mrdevil0-9)
 - [Kavyadeep Dev](https://github.com/kavyadeepdev)
 - [Aditya Mundas] (https://github.com/am1671)
+- [Dorcas Komane] (https://github.com/DorcasKomane)
 - [Amrutha Polamarasetty](https://github.com/amruthapolamarasetty)
 - [NeilN](https://github.com/NeilN)
 - [RAMOS ROBERTO](https://github.com/rcramos456)
