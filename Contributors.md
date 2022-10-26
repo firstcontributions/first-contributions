@@ -4399,6 +4399,7 @@ first contributions - hanyang univ.
 - [Daichi Araki](https://github.com/Ararchy01)
 - [Ronit Thukral](https://github.com/RonitThukral)
 - [kdomo](https://github.com/kdomo)
+- [Samuel Davies](https://github.com/haywireSSC)
 - [Renan Silva 🇧🇷](https://github.com/teasercry)
 - ['Wale Ayodeji](https://github.com/oayodeji)
 - [Thiago Mendes](https://github.com/thiagotmdev)
