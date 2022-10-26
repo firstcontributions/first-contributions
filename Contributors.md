@@ -1911,6 +1911,7 @@ Enrique Javier
 - [Joel Fah](https://github.com/Joel-Fah/)
 - [Nithin Kalluru](https://github.com/Nithin-532)
 - [Gergő Czimmermann](https://github.com/GergoCzimmermann)
+- [Vincent Pierin](https://github.com/Vincent59)
 - [AryKantKode](https://github.com/AryKantKode)
 - [Ruben Hernandez Jr.](https://github.com/ruben-hernandez-jr)
 - [Poya Fraji](https://github.com/IWBTFY)
