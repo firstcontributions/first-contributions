@@ -50,6 +50,7 @@
 - [Aman Bhagat](https://GitHub.com/sanayaa)
 - Pham Le Duc THinh
 - Daire Connolly
+- [Parth](https://Github.com/ParthMadhvani2)
 - Victoria Lafi
 - [Ife Jeremiah](https://github.com/Ifejeremiah)
 - [Sourabh Mehta](https://github.com/sm-sourabh)
