@@ -207,6 +207,7 @@
 - [Ayush Shete](https://github.com/ayushete02)
 - [Monazza Qadeer Khan] (https://github.com/monazza-qk92)
 - [Rishabh Gist](https://github.com/rishabhgist)
+- [Satyasuranjeet](https://github.com/Satyasuranjeet)
 - [Ritwika Das](www.linkedin.com/in/ritwika-das-1510a4207)
 - [Anya McDonald](https://github.com/anyahush)
 - [Kartik Kumar](https://github.com/yellowterrum)
