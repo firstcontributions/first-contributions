@@ -42,6 +42,7 @@
 - [Bojidar Vladimirov](https://github.com/BojidarV)
 - [Gabriel Coelho](https://github.com/bielcoelho)
 - [Urvesh Radadiya](https://github.com/URVESH1121)
+- [Kely Sarmi](https://github.com/kelysi)
 - [Adit Bhargava](https://github.com/zcsop1206)
 - [Tanu Singh](https://github.com/TanuSingh17)
 - [Shreyas Bhagwat](https://github.com/ShreyasBhagwat)
