@@ -4410,6 +4410,7 @@ first contributions - hanyang univ.
 - [Raheem king](https://github.com/Raheem-King)
 - [Pradhyuman Arora](https://github.com/pradhyumanarora)
 - [Denča](https://github.com/denvitko)
+- [Amortitu Bogdan](https://github.com/emperoreddy)
 - [Ryan McCormick](https://github.com/mccor689)
 - [Aditya K](https://github.com/Aditya31398)
 - [Tum Laksi](https://github.com/parawuit)
