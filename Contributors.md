@@ -27,6 +27,7 @@
 - [Badal Kumar] (https://github.com/mrdevil0-9)
 - [Kavyadeep Dev](https://github.com/kavyadeepdev)
 - [Aditya Mundas] (https://github.com/am1671)
+- [Saloni Mathur] (https://github.com/Saloniimathur)
 - [Dorcas Komane] (https://github.com/DorcasKomane)
 - [Amrutha Polamarasetty](https://github.com/amruthapolamarasetty)
 - [NeilN](https://github.com/NeilN)
