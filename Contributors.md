@@ -26,6 +26,7 @@
 - [Srijan D](https://github.com/Srijan-D)
 - [srinivasthedeveloper](https://github.com/srinivasthedeveloper)
 - [divijaa](https://github.com/divijaa)
+- [xa49](https://github.com/xa49)
 - [terminalPoltergeist](https://github.com/terminalPoltergeist)
 - [katumba jonathan paul](https://github.com/kpaool)
 - [Sushil Suthar](https://github.com/isushilsuthar)
