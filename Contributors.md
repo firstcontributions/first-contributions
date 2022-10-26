@@ -82,6 +82,7 @@
 - [Liang G. E.]
 - [Neil Kanakia](https://neilkanakia.xyz)
 - [Sneha Mandal](https://github.com/sm-creative-crazy4code)
+- [Pranay Shende](https://github.com/PranayShende/)
 - [Jordanjun98](https://github.com/Jordanjun98)
 - [Jack Juechter](https://github.com/jrj102)
 - [Illyaas Sowunmi](https://www.frontendmentor.io/profile/Illyaas4Show) [Illyaas4Show's Github](https://github.com/Illyaas4Show)
