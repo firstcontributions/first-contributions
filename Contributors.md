@@ -3265,6 +3265,7 @@ Add something here
 - [Prity Dhara](https://github.com/preetidhara)
 - [Yuvraj Singh Bhadauria}(https://github.com/yuvihere23)
 - [Stif li](https://github.com/estebanstifli/)
+- [Konrad Gornicki](https://github.com/KonradGornicki)
 - [Vaibhav Srivastava](https://github.com/Vaibhav832)
 - [Divjot Singh](https://github.com/divjot121)
 - [Gaurav Agarwal](https://github.com/gauravag091)
