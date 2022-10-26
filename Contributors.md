@@ -9,6 +9,7 @@
 - [Boyeong Yoon](https://github.com/BoyeongYoon)
 - [abdulhaseeb036](https://github.com/abdulhaseeb036)
 - [Ankush Negi](https://leetcode.com/AnkushNegi531/)
+- [Praddyum Verma](https://praddy2009.github.io/)
 - [bhavana] (https://github.com/bhavana-263)
 - [Don Chisolm](https://github.com/Donchiz77)
 - [Shannon Torcato](https://github.com/shannontorcato)
