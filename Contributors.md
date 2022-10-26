@@ -348,6 +348,7 @@ Enrique Javier
 - [Ruphaa Ganesan](https://github.com/ruphaa)
 - [Agustina Maidana]
 - [Doffy]()
+- [John Ragozzine](https://github.com/ragozzine)
 - [Walter Hertman](https://github.com/whertman)
 - [Wizard Lemon](https://github.com/WizardLemon)
 - [Sahil Gupta](https://github.com/LAS3RBOY)
