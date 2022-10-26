@@ -8,7 +8,6 @@
 - [Pritesh Kiri](https://github.com/PriteshKiri)
 - [Boyeong Yoon](https://github.com/BoyeongYoon)
 - [abdulhaseeb036](https://github.com/abdulhaseeb036)
-- [MD TARIQUE ANWAR](https://github.com/itsanwartarique)
 - [Ankush Negi](https://leetcode.com/AnkushNegi531/)
 - [Don Chisolm](https://github.com/Donchiz77)
 - [Shannon Torcato](https://github.com/shannontorcato)
@@ -4418,3 +4417,5 @@ first contributions - hanyang univ.
 - [Aditya K](https://github.com/Aditya31398)
 - [Tum Laksi](https://github.com/parawuit)
 - [Nithin :fire: ](https://github.com/nithinivi)
+- [Roger Sarmento](https://github.com/rogermsarmento)
+- 
