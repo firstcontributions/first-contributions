@@ -19,6 +19,7 @@
 - [Badal Kumar] (https://github.com/mrdevil0-9)
 - [Kavyadeep Dev](https://github.com/kavyadeepdev)
 - [Aditya Mundas] (https://github.com/am1671)
+- [Amrutha Polamarasetty] (https://github.com/amruthapolamarasetty)
 - [NeilN](https://github.com/NeilN)
 - [Srijan D](https://github.com/Srijan-D)
 - [srinivasthedeveloper](https://github.com/srinivasthedeveloper)
