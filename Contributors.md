@@ -16,6 +16,7 @@
 - [Raymond] (https://github.com/CrazyAsianBoy)
 - [AungKanPhyo] (https://github.com/AungKanPhyo)
 - [MEGA0HM] (https://github.com/M3GA0HM)
+- [Richard Akintola] (https://github.com/AkintolaRichard)
 - [Rajat](https://github.com/rajatkumar2205)
 - [Kouam Franck](https://github.com/kofra-jg)
 - [Aditya Bhargava](https://github.com/Bhargavaa1)
