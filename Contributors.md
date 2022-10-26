@@ -193,6 +193,7 @@
 - [ARIJIT](https://github.com/Arijit8101)
 - [Abinash Kumar](https://github.com/abinash185)
 - [Freya Shah](https://github.com/Freya-29)
+- [Pasan Pahasara](https://github.com/Pasan-Pahasara)
 - [Chethas Pv](https://github.com/chethas7)
 - [Cyan Cipher](https://github.com/CyanCipher)
 - [kelys] (https://github.com/kelysi)
@@ -555,7 +556,7 @@ Enrique Javier
 - [Deepali Sayana](https://github.com/deepseas07)
 - [André Carvalhal](https://github.com/ANDREC1986)
 - [Rahul Saha](https://github.com/Rahul10Saha)
--
+- 
 - [Sadiq Siraj Ebrahim](https://github.com/sadiqebrahim)
 - [Wajid Ali Tabassum](https://github.com/wajidalitabassum143)
 - [Manvendra Prasad](https://github.com/Manv3ndra)
