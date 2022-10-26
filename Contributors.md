@@ -37,6 +37,7 @@
 - [Urvesh Radadiya](https://github.com/URVESH1121)
 - [Adit Bhargava](https://github.com/zcsop1206)
 - [Tanu Singh](https://github.com/TanuSingh17)
+- [Shreyas Bhagwat](https://github.com/ShreyasBhagwat)
 - [Sahil Barsaiyan](https://github.com/Sahilb12)
 - [Dario Gumucio](https://github.com/dariogumucio)
 - [Aman Bhagat](https://GitHub.com/sanayaa)
