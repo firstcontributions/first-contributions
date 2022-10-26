@@ -1613,6 +1613,7 @@ Add something here
 - [Aysha Fathima](https://github.com/Aysha-Fathima)
 - [Sourasish Mondal](https://github.com/souraOP)
 - [Tanishq Singh](https://github.com/tanishq-singh-2301)
+- [Pizofreude](https://pizofreude.github.io/)
 - [Aman Setia](https://github.com/Amanse)
 - [JATIN SAINI](https://github.com/yunocrown)
 - [Melissa Sorrells](https://github.com/melsorrells23)
