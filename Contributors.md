@@ -259,6 +259,7 @@
 - [Varun Kumar](https://github.com/kukutapuvarun)
 - [Manish Kumar] (https://github.com/iamanishh)
 - [Amina Shellman] (https://github.com/ohyahgit)
+- [KAKAN](https://github.com/kakan-forks)
 - [Suchit](https://github.com/Suchitsj12)
 - [Safadtm](https://github.com/safadtm)
 - [Anandaram](https://github.com/raawwm/first-contributions)
