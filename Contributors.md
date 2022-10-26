@@ -10,6 +10,7 @@
 - [Shannon Torcato](https://github.com/shannontorcato)
 - [Sneha Kumari](https://github.com/Codewithsneha0)
 - [Raymond] (https://github.com/CrazyAsianBoy)
+- [MEGA0HM] (https://github.com/M3GA0HM)
 - [Rajat](https://github.com/rajatkumar2205)
 - [Pratheek Shetty](https://github.com/pratheek-shett)
 - [Mustafa Bhm] (https://github.com/mustafa-bhm)
