@@ -2,7 +2,8 @@
 
 <!-- prettier-ignore-start -->
 
-  [jatin kumar](https://github.com/jatin75757)
+- [Bruno De Paula 🚀](https://github.com/Gr33nLight)
+- [jatin kumar](https://github.com/jatin75757)
 - [Khan Winter](https://github.com/thecoolwinter)
 - [Pritesh Kiri](https://github.com/PriteshKiri)
 - [Boyeong Yoon](https://github.com/BoyeongYoon)
