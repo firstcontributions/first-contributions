@@ -1,6 +1,8 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
+  [jatin kumar](https://github.com/jatin75757)
 - [Khan Winter](https://github.com/thecoolwinter)
 - [Pritesh Kiri](https://github.com/PriteshKiri)
 - [Boyeong Yoon](https://github.com/BoyeongYoon)
@@ -98,7 +100,6 @@
 - Eleeka Nongthombam(https://github.com/EleekaN)
 - [May Oo](https://github.com/mayoo)
 - [Jon Gull](https://github.com/JonrGull)
-- [Juli](https://github.com/juliwithoutthee)
 - [Tanu](https://github.com/tanu-12)
 -Shahin Yahya
 -[Rebecca](https://github.com/rebeccawuu)
