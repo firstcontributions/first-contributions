@@ -4428,4 +4428,4 @@ first contributions - hanyang univ.
 - [Tum Laksi](https://github.com/parawuit)
 - [Nithin :fire: ](https://github.com/nithinivi)
 - [Roger Sarmento](https://github.com/rogermsarmento)
-- 
+- [VIKAS TRIPATHI](https://github.com/ervikasji)
