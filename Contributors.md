@@ -80,6 +80,7 @@
 - [Aritra-Ganguly](https://github.com/AritraGanguly)
 - [Ekraj Ghimire](https://github.com/ManishGhimire127)
 - [Shubham Kumar](https://github.com/shubhamkumar101)
+- [Sachin raj](https://github.com/myweirdcodes)
 - [Vincent Aziza](https://github.com/veaziza)
 - [June Muoti](https://github.com/JuneMuoti)
 - [Atakan Zengin](https://github.com/atakanzen)
