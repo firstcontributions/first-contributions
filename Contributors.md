@@ -2519,6 +2519,7 @@ Add something here
 - [Bigyan Rijal](https://github.com/theoptimist76)
 - [Gigi](https://github.com/provdxc366)
 - [Worthy](https://github.com/worthyag)
+- [Ashwani Kumar Jha](https://github.com/ashwanijha8068)
 - [Prajwal Suvarna](https://github.com/prajwalsuvarna)
 - [Kyle Goben](https://https://github.com/kygoben)
 - [Remi T](https://github.com/RETprojects)
