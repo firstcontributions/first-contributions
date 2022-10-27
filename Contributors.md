@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Anshul Jadwani](https://github.com/AnshulJadwani)
 - [Nayna Sahu ](https://github.com/NaynaSahu/)
 - [Bruno De Paula 🚀](https://github.com/Gr33nLight)
 - [jatin kumar](https://github.com/jatin75757)
