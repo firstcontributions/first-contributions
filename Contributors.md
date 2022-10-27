@@ -8,6 +8,7 @@
 - [Bruno De Paula 🚀](https://github.com/Gr33nLight)
 - [Ricardo Beaujon] (http://rbeaujon.com)
 - [jatin kumar](https://github.com/jatin75757)
+- [Ishita Batra](https://github.com/ishita6)
 - [Khan Winter](https://github.com/thecoolwinter)
 - [Mickhat](https://github.com/Mickhat)
 - [Matt Arias](https://github.com/FreedSoul)
