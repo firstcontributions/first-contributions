@@ -1,5 +1,5 @@
 # Contributors
-
+[Sanskriti Sharma](https://github.com/Sanskritisharma17)
 <!-- prettier-ignore-start -->
 
 - [SAHIL SINHA](https://github.com/SahilSinha007)
