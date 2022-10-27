@@ -5,6 +5,7 @@
 - [Sarthak Mittal](https://github.com/SarthakMittal777)
 - [Nayna Sahu ](https://github.com/NaynaSahu/)
 - [Bruno De Paula 🚀](https://github.com/Gr33nLight)
+- [Ricardo Beaujon] (http://rbeaujon.com)
 - [jatin kumar](https://github.com/jatin75757)
 - [Khan Winter](https://github.com/thecoolwinter)
 - [Matt Arias](https://github.com/FreedSoul)
