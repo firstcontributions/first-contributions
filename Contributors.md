@@ -142,6 +142,7 @@
 - [Halfhero](https://github.com/Halfhero212)
 - [Anjali Singh](https://github.com/anjalisingh23)
 - [Lucas Perez](https://github.com/lucasp149)
+- [Lucas Mellone](https://github.com/lknknm)
 - [Varun Shinde](https://github.com/varuns1007)
 - [HaibaoM55](https://github.com/HaibaoM55)
 - [Manmeet Kaur](https://github.com/Manmeet2607)
