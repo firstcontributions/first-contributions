@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Sanskriti Sharma](https://github.com/Sankritisharma17/)
 - [SAHIL SINHA](https://github.com/SahilSinha007)
 - [Sarthak Mittal](https://github.com/SarthakMittal777)
 - [Nayna Sahu ](https://github.com/NaynaSahu/)
@@ -41,7 +41,6 @@
 - [Satvik Nanda](https://github.com/SatvikNanda)
 - [Badal Kumar] (https://github.com/mrdevil0-9)
 - [Kavyadeep Dev](https://github.com/kavyadeepdev)
-- [Shruti Agarwal](https://github.com/shrutileena)
 - [Aditya Mundas] (https://github.com/am1671)
 - [Dorcas Komane] (https://github.com/DorcasKomane)
 - [Amrutha Polamarasetty](https://github.com/amruthapolamarasetty)
