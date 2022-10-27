@@ -592,6 +592,7 @@ Enrique Javier
 - [Navalino Vian](https://github.com/navalinovian)
 - anish
 - [Babita Majumdar](https://github.com/m-babita/)
+- [Pratik Kumar](https://github.com/pratikkumar007)
 - [Tanya Garg](https://github.com/tgag17/)
 - [Griffin](https://github.com/Midnightific)
 - [Georg Baumann](https://github.com/Georggit)
