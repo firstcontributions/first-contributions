@@ -4415,6 +4415,7 @@ first contributions - hanyang univ.
 - [AminWhat](https://github.com/aminwhat)
 - [Gaurang Agrawal](https://github.com/Gaurang1602)
 - [Aakash chouksey](https://github.com/Aakash-chouksey)
+- [Reinhardt vd Westhuizen](https://github.com/ReinhardtvdWesthuizen)
 - [Elisa Sacchelli](https://github.com/EliSacch)
 - [Devansh Kushwah](https://github.com/Devansh-Kushwah)
 - [prosscode](https://github.com/prosscode)
