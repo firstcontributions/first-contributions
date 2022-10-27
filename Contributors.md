@@ -10,6 +10,7 @@
 - [Ricardo Beaujon] (http://rbeaujon.com)
 - [jatin kumar](https://github.com/jatin75757)
 - [Ishita Batra](https://github.com/ishita6)
+- [Pablo Alejandro](https://github.com/Pabloalesca)
 - [Khan Winter](https://github.com/thecoolwinter)
 - [Mickhat](https://github.com/Mickhat)
 - [Matt Arias](https://github.com/FreedSoul)
