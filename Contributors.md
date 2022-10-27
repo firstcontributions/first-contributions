@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Amitesh Kumar Singh](https://github.com/amitesh12142159)
 - [Bruno De Paula 🚀](https://github.com/Gr33nLight)
 - [jatin kumar](https://github.com/jatin75757)
 - [Khan Winter](https://github.com/thecoolwinter)
