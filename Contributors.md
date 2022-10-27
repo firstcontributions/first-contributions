@@ -140,6 +140,7 @@
 - [Gavin Knudsen]
 - [Nikhil Chinchore]
 - [Siddharth Singh](https://github.com/siddharthqs/rust_quant)
+- [Akshay Jain](https://github.com/rudeakshay)
 - [Sujith P](https://github.com/Alfa-ZORO)
 - [Sahil Singh](www.linkedin.com/in/sahil-singh-ss9824)
 - [imappuru](https://github.com/imappuru)
