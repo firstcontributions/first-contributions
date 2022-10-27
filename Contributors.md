@@ -10,6 +10,7 @@
 - [jatin kumar](https://github.com/jatin75757)
 - [Khan Winter](https://github.com/thecoolwinter)
 - [Matt Arias](https://github.com/FreedSoul)
+- [Rajiv Ishrani](https://github.com/RajivIshrani)
 - [Pritesh Kiri](https://github.com/PriteshKiri)
 - [Boyeong Yoon](https://github.com/BoyeongYoon)
 - [abdulhaseeb036](https://github.com/abdulhaseeb036)
