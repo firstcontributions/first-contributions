@@ -9,6 +9,7 @@
 - [Ricardo Beaujon] (http://rbeaujon.com)
 - [jatin kumar](https://github.com/jatin75757)
 - [Khan Winter](https://github.com/thecoolwinter)
+- [Mickhat](https://github.com/Mickhat)
 - [Matt Arias](https://github.com/FreedSoul)
 - [Rajiv Ishrani](https://github.com/RajivIshrani)
 - [Pritesh Kiri](https://github.com/PriteshKiri)
