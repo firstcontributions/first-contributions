@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [SAHIL SINHA](https://github.com/SahilSinha007)
 - [Sarthak Mittal](https://github.com/SarthakMittal777)
 - [Nayna Sahu ](https://github.com/NaynaSahu/)
 - [Bruno De Paula 🚀](https://github.com/Gr33nLight)
@@ -4453,4 +4453,3 @@ first contributions - hanyang univ.
 - [Nithin :fire: ](https://github.com/nithinivi)
 - [Roger Sarmento](https://github.com/rogermsarmento)
 - [Constantin Luca](https://github.com/LucaConstantin/)
-- [SAHIL SINHA](https://github.com/SahilSinha007)
