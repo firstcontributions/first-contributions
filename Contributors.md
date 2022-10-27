@@ -79,6 +79,7 @@
 - Ketan Jangid
 - John Gitahi
 - Rishi Kumar Jha
+- Saltanat Ospan
 - Kalyan Kumar
 - [Ulrich Raab] [https://github.com/Ulimativo]
 - [Tihan Pelser] [https://github.com/TihanPelser]
