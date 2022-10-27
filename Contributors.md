@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Sarthak Mittal](https://github.com/SarthakMittal777)
+- [Luisa Haaase](https://github.com/luisaha)
 - [Nayna Sahu ](https://github.com/NaynaSahu/)
 - [Bruno De Paula 🚀](https://github.com/Gr33nLight)
 - [jatin kumar](https://github.com/jatin75757)
