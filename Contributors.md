@@ -4474,6 +4474,7 @@ first contributions - hanyang univ.
 - [Nithin :fire: ](https://github.com/nithinivi)
 - [Roger Sarmento](https://github.com/rogermsarmento)
 - [Constantin Luca](https://github.com/LucaConstantin/)
+- [Dairon Canel](https://github.com/dairon-canel/)
 - [Deyan](https://github.com/atanasov-deyan/)
 - [Mikhailova Anna](https://github.com/Hisime)
 
