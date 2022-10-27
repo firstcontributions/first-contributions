@@ -637,6 +637,7 @@ Enrique Javier
 - [SHUBHAM PATIDAR ](https://www.linkedin.com/in/shubham-patidar-98ba5b148)
 - [Apurv Tiwari](https://github.com/Mahakal0123)
 - [Dhanesh Phulphagar](https://github.com/darayn)
+- [R3DRUN3](https://github.com/R3DRUN3)
 - [Dhanesh Phulphagar](https://github.com/darayn)
 - [Rishi Singh](https://github.com/mrsingh-rishi)
 - [Arpan Adlakhiya](https://github.com/mrr0b0t-0x1)
