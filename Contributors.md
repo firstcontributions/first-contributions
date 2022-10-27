@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Rohit Saluja](https://github.com/Nix4444/)
 - [Nayna Sahu ](https://github.com/NaynaSahu/)
 - [Bruno De Paula 🚀](https://github.com/Gr33nLight)
 - [jatin kumar](https://github.com/jatin75757)
