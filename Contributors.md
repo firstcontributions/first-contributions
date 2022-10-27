@@ -4477,4 +4477,5 @@ first contributions - hanyang univ.
 - [Dairon Canel](https://github.com/dairon-canel/)
 - [Deyan](https://github.com/atanasov-deyan/)
 - [Mikhailova Anna](https://github.com/Hisime)
+- [Alline Marjorie](https://github.com/marjorinec)
 
