@@ -1892,6 +1892,7 @@ Add something here
 - [astrokit](https://github.com/astrokit)
 - [Carina Cardozo] (https://github.com/carii-codes)
 - [Pablo Pradillos](https://github.com/ppradillos)
+- [Reinhard Hoelscher] (https://github.com/ReinhardHo)
 - [Navpreet Singh Sidhu](https://github.com/nsidhu11)
 - [Aayush Gulia](https://github.com/aayushgulia666)
 - [Justin Reian Mercado](https://github.com/jrbmercado)
