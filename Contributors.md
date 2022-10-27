@@ -1195,6 +1195,7 @@ Add something here
 - [Aayush aka Cloudy](https://github.com/gamedevCloudy)
 - [Jongsik Kim](https://github.com/neomax7)
 - [Nicolas Alvarez](https://github.com/NiAlvarez)
+- [sypear] (https://github.com/sypear)
 - [embTw] (https://github.com/embTw)
 - [Apurv Sinha](https://github.com/sinaps07)
 - [Baby Washbear](https://github.com/babywashbear)
