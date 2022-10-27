@@ -1,7 +1,6 @@
 # Contributors
-[Sanskriti Sharma](https://github.com/Sanskritisharma17)
 <!-- prettier-ignore-start -->
-
+- [Sanskriti Sharma](https://github.com/Sanskritisharma17/)
 - [SAHIL SINHA](https://github.com/SahilSinha007)
 - [Sarthak Mittal](https://github.com/SarthakMittal777)
 - [Nayna Sahu ](https://github.com/NaynaSahu/)
