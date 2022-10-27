@@ -167,6 +167,7 @@
 - [Siddhant Majumder](https://github.com/Codeworm08)
 - [Allen Lobo]
 - [Alex Reveles](https://github.com/aajj333)
+- [Samuel Oluyede](https://github.com/Masei25)
 - [Ankush](https://github.com/ankushrai999)
 - [Phillip Chu](https://github.com/phillippchu)
 - [Aazim Parwaz](https://github.com/Aazim-parwaz)
