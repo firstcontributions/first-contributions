@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Rupanshu Patidar](https://github.com/RupanshuPatidar)
 - [SAHIL SINHA](https://github.com/SahilSinha007)
 - [Sarthak Mittal](https://github.com/SarthakMittal777)
 - [Nayna Sahu ](https://github.com/NaynaSahu/)
