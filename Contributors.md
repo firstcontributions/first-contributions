@@ -4470,4 +4470,4 @@ first contributions - hanyang univ.
 - [Roger Sarmento](https://github.com/rogermsarmento)
 - [Constantin Luca](https://github.com/LucaConstantin/)
 - [Deyan](https://github.com/atanasov-deyan/)
-- 
+- [Maksim Zamyatin](https://github.com/zamyatinmn) 
