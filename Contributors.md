@@ -38,6 +38,7 @@
 - [Aditya Bhargava](https://github.com/Bhargavaa1)
 - [Tom Kingori](https://github.com/TomKingori)
 - [Pratheek Shetty](https://github.com/pratheek-shett)
+- [Dionne Mascarenhas](https://github.com/dmasc2)
 - [SAURABH200301](https://github.com/SAURABH200301)
 - [Mustafa Bhm](https://github.com/mustafa-bhm)
 - [Iman Crooks](https://github.com/iqtheengineer)
