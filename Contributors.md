@@ -7,7 +7,6 @@
 - [Sarthak Mittal](https://github.com/SarthakMittal777)
 - [Nayna Sahu ](https://github.com/NaynaSahu/)
 - [Bruno De Paula 🚀](https://github.com/Gr33nLight)
-- [Justina Mason] (https://github.com/CherryBlossomTree)
 - [Ricardo Beaujon] (http://rbeaujon.com)
 - [jatin kumar](https://github.com/jatin75757)
 - [Ishita Batra](https://github.com/ishita6)
@@ -28,6 +27,7 @@
 - [Shannon Torcato](https://github.com/shannontorcato)
 - [Sneha Kumari](https://github.com/Codewithsneha0)
 - [Nikita Sharma]
+- [Justina Mason] (https://github.com/CherryBlossomTree)
 - [N Sankaranarayanan](https://github.com/nsankar1987)
 - [AR9157](https://github.com/AR9157)
 - [Raymond] (https://github.com/CrazyAsianBoy)
