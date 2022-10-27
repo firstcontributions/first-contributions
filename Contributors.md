@@ -774,6 +774,7 @@ Enrique Javier
 - [Rajarshi Bhattacharya](https://github.com/rajarshi023)
 - [Adnan Ahmed](https://github.com/fidato818)
 - [Mandar Deshmukh](https://github.com/mandarsd18)
+- [Azzarox](https://github.com/azzarox)
 - [Aman Badone](https://github.com/amanbadone)
 - [Rishabh yaduwanshi](https://github.com/rishabhyaduwanshi)
 - [Suraj Patel](https://github.com/Surajpatel2003)
