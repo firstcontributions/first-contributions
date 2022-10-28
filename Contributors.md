@@ -44,6 +44,7 @@
 - [Richard Akintola] (https://github.com/AkintolaRichard)
 - [Melissa Layser] (https://github.com/Laserbeam22)
 - [Rajat](https://github.com/rajatkumar2205)
+- [Shreyas] (https://github.com/ShreyasWeb3)
 - [Kouam Franck](https://github.com/kofra-jg)
 - [Aditya Bhargava](https://github.com/Bhargavaa1)
 - [Tom Kingori](https://github.com/TomKingori)
