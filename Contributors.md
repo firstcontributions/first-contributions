@@ -1294,6 +1294,7 @@ Add something here
 - [Jahnvi ](https://github.com/jahnvi15/)
 - [Himanshu Jain](https://github.com/nhimanshujain)
 - [Luca Argentieri](https://github.com/LucaArgentieri)
+- [Carlos Felgueiras](https://github.com/carlosfelgueiras)
 - [Abishek Parajuli](https://github.com/abishek0057)
 - [Sahil Kamate](https://github.com/sahilkamate03)
 - [Harry Sion Tarigan] (https://github.com/hawryyy30)
