@@ -2141,6 +2141,7 @@ Add something here
 - [Sumit Thigale](https://github.com/sumitt10)
 - [Vandit Shah](https://github.com/vanditshah44)
 - [Sanil](https://github.com/sanil011)
+- [Juan Madrid](https://github.com/jmels0113)
 - [Sameer Choudhary](https://github.com/choudhary-sameer)
 - [Matteo Trentinaglia](https://github.com/TrentinagliaMatteo)
 - [Paul Osinowo](https://github.com/iyinolu)
