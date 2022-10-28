@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
-- [Nayna Sahu](https://github.com/NaynaSahu/)
+- [Nayna Sahu ](https://github.com/NaynaSahu/)
 - [Bruno De Paula 🚀](https://github.com/Gr33nLight)
 - [jatin kumar](https://github.com/jatin75757)
 - [Khan Winter](https://github.com/thecoolwinter)
