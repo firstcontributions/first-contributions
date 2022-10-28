@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Mohit Marathe](https://github.com/Mohit2758)
+- [Vijendra Pandey](https://github.com/VijendraPandey)
 - [suman](https://github.com/sumanghosh13)
 - [Jisan-mia](https://github.com/Jisan-mia)
 - [Gideon Opoku](https://github.com/nana562)
