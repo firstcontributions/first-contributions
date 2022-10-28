@@ -685,6 +685,7 @@ Enrique Javier
 - [Syed Jailani](https://github.com/syedjailani)
 - [AkT-01](https://githhub.com/AkT-01)
 - [Syed Jailani](https://github.com/syedjailani)
+- [Sudip Bhusal](https://github.com/imsubhu)
 - [Abhighyaa](https://github.com/Abhighyaa)
 - [Kaif Shakeel] (https://github.com/KaifShakeel76)
 - [Alfeu Xerinda](https://githhub.com/Hard-007)
