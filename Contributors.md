@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [suman](https://github.com/sumanghosh13)
 - [wfrsk](hhpts://github.com/wfrsk)
 - [SAHIL SINHA](https://github.com/SahilSinha007)
 - [Sarthak Mittal](https://github.com/SarthakMittal777)
