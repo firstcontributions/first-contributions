@@ -40,6 +40,7 @@
 - [AR9157](https://github.com/AR9157)
 - [Raymond] (https://github.com/CrazyAsianBoy)
 - [AungKanPhyo] (https://github.com/AungKanPhyo)
+- [AllenLVieira](https://github.com/AllenLVieira)
 - [MEGA0HM] (https://github.com/M3GA0HM)
 - [Richard Akintola] (https://github.com/AkintolaRichard)
 - [Melissa Layser] (https://github.com/Laserbeam22)
