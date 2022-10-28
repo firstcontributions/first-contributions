@@ -86,6 +86,7 @@
 - [Parth](https://Github.com/ParthMadhvani2)
 - Victoria Lafi
 - [Ife Jeremiah](https://github.com/Ifejeremiah)
+- [Siddhant Paliwal](https://github.com/Siddhant-Paliwal-314)
 - [Sourabh Mehta](https://github.com/sm-sourabh)
 - [Raj Kumar](https://github.com/raj03kumar)
 - [Jayanth T](https://github.com/TriJayDore)
