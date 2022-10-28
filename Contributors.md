@@ -3255,6 +3255,7 @@ Add something here
 - Ajay Singh
 - [Paola Zaldivar](https://github.com/pzaldivar)
 - [Chirag Goel](https://github.com/chiggshiggs)
+- [Abdelali Lahlou](https://github.com/Lahlouo)
 - [Satyajeet Tripathy](https://github.com/sa8tyajeet46)
 - [Ajay Nair](https://github.com/ajayrnairg)
 - [Qasim Qlf](https://github.com/qasimqlf)
