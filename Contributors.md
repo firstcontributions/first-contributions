@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Brian McQueen](https://github.com/brianleemcqueen)
 - [Mohit Marathe](https://github.com/Mohit2758)
 - [Vijendra Pandey](https://github.com/VijendraPandey)
 - [suman](https://github.com/sumanghosh13)
