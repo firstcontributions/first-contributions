@@ -1985,6 +1985,7 @@ Add something here
 - [Liam Banahan](https://github.com/liambanahan)
 - [Bruno Anesio](https://github.com/brunoanesio)
 - [Prasanna](https://github.com/Prasanna030)
+- [Hiroshi Haji](https://github.com/hirohaji)
 - [P Dharani](https://github.com/PolukondaDharani)
 - [Bruno Dede Jr](https://github.com/7Arms)
 - [E Praveen](https://github.com/praveenesp/)
