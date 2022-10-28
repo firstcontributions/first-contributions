@@ -5,6 +5,7 @@
 - [Mohit Marathe](https://github.com/Mohit2758)
 - [suman](https://github.com/sumanghosh13)
 - [Jisan-mia](https://github.com/Jisan-mia)
+- [Gideon Opoku](https://github.com/nana562)
 - [wfrsk](hhpts://github.com/wfrsk)
 - [Obafemi Oludahunsi] (https://github.com/Obafemi-NG)
 - [SAHIL SINHA](https://github.com/SahilSinha007)
