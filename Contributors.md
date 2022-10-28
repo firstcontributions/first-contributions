@@ -280,6 +280,7 @@
 - [Elias Chakroun] (https://github.com/Yushi5058)
 - [Oleynikov Danil] (https://github.com/Ondotteess)
 - [Suchit Deshmukh](https://github.com/suchitd11)
+- [YogatBear](https://github.com/YogatBear)
 - [Smart-Peach](https://github.com/Smart-Peach)
 - [Siddhant](https://github.com/SiddJ01)
 - [JSalinas](https://github.com/javier-salinas)
