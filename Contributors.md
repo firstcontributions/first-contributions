@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Mohit Marathe](https://github.com/Mohit2758)
 - [suman](https://github.com/sumanghosh13)
 - [Jisan-mia](https://github.com/Jisan-mia)
 - [wfrsk](hhpts://github.com/wfrsk)
