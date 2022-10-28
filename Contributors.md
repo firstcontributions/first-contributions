@@ -81,6 +81,7 @@
 - [Aman Bhagat](https://GitHub.com/sanayaa)
 - Pham Le Duc THinh
 - Daire Connolly
+- [Rohit Waghole](https://github.com/RohitWaghole)
 - [Argie Gingoyon](https://github.com/asgee)
 - [Parth](https://Github.com/ParthMadhvani2)
 - Victoria Lafi
