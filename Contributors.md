@@ -40,6 +40,7 @@
 - [Kouam Franck](https://github.com/kofra-jg)
 - [Aditya Bhargava](https://github.com/Bhargavaa1)
 - [Tom Kingori](https://github.com/TomKingori)
+- [Reed Conway](https://github.com/ReedConway)
 - [Pratheek Shetty](https://github.com/pratheek-shett)
 - [SAURABH200301](https://github.com/SAURABH200301)
 - [Mustafa Bhm](https://github.com/mustafa-bhm)
