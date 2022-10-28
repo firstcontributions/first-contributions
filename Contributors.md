@@ -4489,6 +4489,7 @@ first contributions - hanyang univ.
 - [Ryan McCormick](https://github.com/mccor689)
 - [Aditya K](https://github.com/Aditya31398)
 - [Tum Laksi](https://github.com/parawuit)
+- [Beatrice](https://github.com/3eatrice)
 - [Nithin :fire: ](https://github.com/nithinivi)
 - [Roger Sarmento](https://github.com/rogermsarmento)
 - [Constantin Luca](https://github.com/LucaConstantin/)
