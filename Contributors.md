@@ -90,6 +90,7 @@
 - [Jalebium69](https://github.com/jesherjoshua)
 - [marioluiss](https://github.com/MarioLuiss)
 - [Bojidar Vladimirov](https://github.com/BojidarV)
+- [Cocozin13](https://github.com/Cocozin13)
 - [Gabriel Coelho](https://github.com/bielcoelho)
 - [Urvesh Radadiya](https://github.com/URVESH1121)
 - [Kely Sarmi](https://github.com/kelysi)
