@@ -78,6 +78,7 @@
 - [divijaa](https://github.com/divijaa)
 - [xa49](https://github.com/xa49)
 - [bytesofbec](https://github.com/bytesofbec)
+- [SamAtkinsonModeste](https://www.github.com/SamAtkinsonModeste)
 - [william-chalk](https://github.com/william-chalk)
 - [terminalPoltergeist](https://github.com/terminalPoltergeist)
 - [katumba jonathan paul](https://github.com/kpaool)
