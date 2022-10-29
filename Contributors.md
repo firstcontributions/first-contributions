@@ -1,5 +1,4 @@
 # Contributors
-
 <!-- prettier-ignore-start -->
 
 - [Gabriel Fernandes](https://github.com/GabrielFernandes251)
