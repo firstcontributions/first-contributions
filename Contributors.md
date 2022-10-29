@@ -87,6 +87,7 @@
 - [katumba jonathan paul](https://github.com/kpaool)
 - [Sushil Suthar](https://github.com/isushilsuthar)
 - [Jalebium69](https://github.com/jesherjoshua)
+- [marioluiss](https://github.com/MarioLuiss)
 - [Bojidar Vladimirov](https://github.com/BojidarV)
 - [Gabriel Coelho](https://github.com/bielcoelho)
 - [Urvesh Radadiya](https://github.com/URVESH1121)
