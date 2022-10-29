@@ -74,6 +74,7 @@
 - [Amrutha Polamarasetty](https://github.com/amruthapolamarasetty)
 - [NeilN](https://github.com/NeilN)
 - [RAMOS ROBERTO](https://github.com/rcramos456)
+- [Khushi Shukla](https://github.com/Khushi-Shukla)
 - [Srijan D](https://github.com/Srijan-D)
 - [srinivasthedeveloper](https://github.com/srinivasthedeveloper)
 - [divijaa](https://github.com/divijaa)
