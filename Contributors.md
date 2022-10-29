@@ -68,7 +68,6 @@
 - [Satvik Nanda](https://github.com/SatvikNanda)
 - [Badal Kumar] (https://github.com/mrdevil0-9)
 - [Kavyadeep Dev](https://github.com/kavyadeepdev)
-- [Shruti Agarwal](https://github.com/shrutileena)
 - [Aditya Mundas] (https://github.com/am1671)
 - [Akshay Rokade] (https://github.com/akshay-2912)
 - [Dorcas Komane] (https://github.com/DorcasKomane)
