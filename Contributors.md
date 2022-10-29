@@ -4495,6 +4495,7 @@ first contributions - hanyang univ.
 - [Aakash chouksey](https://github.com/Aakash-chouksey)
 - [Reinhardt vd Westhuizen](https://github.com/ReinhardtvdWesthuizen)
 - [Elisa Sacchelli](https://github.com/EliSacch)
+- [Michael Hobson](https://github.com/Floogles)
 - [Devansh Kushwah](https://github.com/Devansh-Kushwah)
 - [prosscode](https://github.com/prosscode)
 - [Rezahans](https://github.com/Rezahans)
@@ -4521,4 +4522,3 @@ first contributions - hanyang univ.
 - [Tushant Rangari](https://github.com/tushant07)
 - [Ansh Charak](https://github.com/AnshCharak)
 - [Avani Saxena](https://github.com/avanisaxena9)
-
