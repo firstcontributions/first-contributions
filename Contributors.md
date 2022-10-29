@@ -36,6 +36,7 @@
 - [FeeeDz] (https://github.com/FeeeDz)
 - [Yufeng Liu] (https://github.com/yufengliu15)
 - [Praddyum Verma](https://praddy2009.github.io/)
+- [Divyanshu Singhal](https://github.com/divyanshu9821)
 - [bhavana] (https://github.com/bhavana-263)
 - [Don Chisolm](https://github.com/Donchiz77)
 - [Shannon Torcato](https://github.com/shannontorcato)
