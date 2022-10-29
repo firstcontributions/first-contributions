@@ -553,6 +553,7 @@ Enrique Javier
 - [Rami Shawwa](https://edbtz.com)
 - [Siddharth Khattar] (https://github.com/SiddharthKhattar)
 - [Zuzanna Kaźmierczak](https://github.com/Zuza29)
+- [Andi Hasan As](https://github.com/andihasan97)
 - [mohd.salahudeen](https://github.com/Salah-XD)
 - [sree hari](https://github.com/sr33hari)
 - [Niharika Palleyi] (https://github.com/niharikapalleyi)
