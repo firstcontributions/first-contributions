@@ -2012,6 +2012,7 @@ Add something here
 - [Nidhish SD](https://github.com/Nidhish-SD)
 - [Rakshat Kashyap](https://github.com/pixalquarks)
 - [Braedon Behnke]
+Fiyinfoluwa Afolayan
 - [Matt Doughty](https://github.com/maddo1919)
 - [Suryansh Sinha](https://github.com/suryansh-sinha)
 - [Hernan Benitez](https://github.com/HernanBenitez-Dev)
