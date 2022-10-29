@@ -185,7 +185,7 @@
 - [Siddharth Singh](https://github.com/siddharthqs/rust_quant)
 - [Akshay Jain](https://github.com/rudeakshay)
 - [Sujith P](https://github.com/Alfa-ZORO)
-- [NIKITA PANDEY](https://github.com/NIKITApandey01)
+- [NIKITA PANDEY 🦋](https://github.com/NIKITApandey01)
 - [Sahil Singh](www.linkedin.com/in/sahil-singh-ss9824)
 - [imappuru](https://github.com/imappuru)
 - [Rafiqul Shopon](https://github.com/rafiqulshopon)
