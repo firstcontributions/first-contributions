@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Gabriel Fernandes](https://github.com/GabrielFernandes251)
+- [Surajit Dey Sarkar](https://github.com/Surajitds)
 - [Mohit Marathe](https://github.com/Mohit2758)
 - [Vijendra Pandey](https://github.com/VijendraPandey)
 - [mahalakshmikutcharlapati](https://github.com/mahalakshmikutcharlapati)
