@@ -60,8 +60,8 @@ If you're making changes to a translation, please request a review from our prev
 | नेपाली | [Nepali](../translations/README.np.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/2145263?s=460&v=4" alt="@milap-neupane" />](https://github.com/milap-neupane) |
 | ਪਨਜਾਬੀ | [Punjabi](../translations/README.pa.md) | []() |
 | Polski | [Polish](../translations/README.pl.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/3372341?s=460&v=4" alt="@P1X3L0V4" />](https://github.com/P1X3L0V4) [<img width="100" src="https://avatars2.githubusercontent.com/u/1311358?v=4" alt="@mikowhy" />](https://github.com/mikowhy) |
-| Português | [Portuguese (Portugal)](../translations/README.pt-pt.md) | []() |
-| Português do Brasil | [Portuguese (Brazil)](../translations/README.pt-br.md) | []() |
+| Português | [Portuguese (Portugal)](../translations/README.pt-pt.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/36346554?v=4" alt="@RamosCSV" />](https://github.com/RamosCSV) |
+| Português do Brasil | [Portuguese (Brazil)](../translations/README.pt-br.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/10578275?s=460&v=4" alt="@OtacilioN" />](https://github.com/OtacilioN) [<img width="100" src="https://avatars2.githubusercontent.com/u/47339825?s=460&v=4" alt="@gabrielsanttana" />](https://github.com/gabrielsanttana)|
 | Română | [Romanian](../translations/README.ro.md) | [ <img width="100" src="https://avatars2.githubusercontent.com/u/20670448?s=460&v=4" alt="@dp97" />](https://github.com/dp97) |
 | Русский | [Russian](../translations/README.ru.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/4745723?s=460&v=4" alt="@ayanovsk" />](https://github.com/ayanovsk) |
 | Svenska | [Swedish](../translations/README.sv.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/2447741?s=460&v=4" alt="@jcer" />](https://github.com/jcer) |
