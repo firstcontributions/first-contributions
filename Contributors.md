@@ -4277,6 +4277,7 @@ Add something here
 - [Irina Kats](https://github.com/Divensky)
 - [Pritam](https://github.com/pritamhazra21)
 - [Marco L](https://github.com/Mar-lom)
+- [Shraddha Jajoo](https://github.com/jajooshraddha)
 - [Rodukov](https://github.com/rodukov)
 - [Gunali Rezqi Mauludi](https://github.com/gunalirezqimauludi)
 - [Skuth](https://github.com/skuth)
