@@ -2378,6 +2378,7 @@ Add something here
 - [Chiranjeev Veer Srivastava](https://github.com/GeekGuy-29)
 - [Abdul Muqeet](https://github.com/Nawaz088)
 - [Ralph Custodio](https://github.com/itsmeralph09)
+- [Cute Pixel](https://github.com/cutepixel)
 - [Natalia Chotza](https://github.com/NataliaChotza)
 - [Ish Mac](https://github.com/iceyice)
 - [Lennard Henze](https://github.com/henzelennard)
