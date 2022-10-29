@@ -702,6 +702,7 @@ Enrique Javier
   [Karthinivash S R](https://github.com/karthinivashSR)
 - [Aimee T](https://github.com/aimeetacchi)
 - [Abhijith H](https://github.com/Abhijith-H13)
+- [Akhil R](https://github.com/akhilrajarj)
 - [Harikumar Peddakotla](https://github.com/Harikumar778)
 - [Kunal Kartik](https://github.com/KunalKartik02)
 - [Troy Mathis] (https://github.com/troymathis)
