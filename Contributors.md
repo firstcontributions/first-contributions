@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Bojidar Vladimirov](https://github.com/BojidarV)
 - [Gabriel Fernandes](https://github.com/GabrielFernandes251)
 - [Mohit Marathe](https://github.com/Mohit2758)
 - [Vijendra Pandey](https://github.com/VijendraPandey)
