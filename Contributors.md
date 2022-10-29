@@ -52,6 +52,7 @@
 - [Aditya Mundas] (https://github.com/am1671)
 - [Dorcas Komane] (https://github.com/DorcasKomane)
 - [Amrutha Polamarasetty](https://github.com/amruthapolamarasetty)
+
 - [NeilN](https://github.com/NeilN)
 - [RAMOS ROBERTO](https://github.com/rcramos456)
 - [Srijan D](https://github.com/Srijan-D)
@@ -342,6 +343,7 @@
 - [Maxim Yolkin] (https://github.com/dramee)
 - [Abdelkarim](https://github.com/badelgeek)
 Enrique Javier
+[Carl Smith] (https://github/carldsmith)
 - [Sai Kiran]
 - [Amar Prajapati](https://github.com/amarprajapati571)
 - [Sunday P. Afolabi](https://github.com/Lecon-a)
