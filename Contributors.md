@@ -2363,6 +2363,7 @@ Fiyinfoluwa Afolayan
 - [Vishnu PS](https://github.com/VishnuPScodes)
 - [Vidhant007](https://github.com/Vidhant007)
 - [Paxton Schmidt](https://github.com/PaxtonSchmidt)
+- [FercueNat](https://github.com/FercueNat)
 - [Aissa Nouacer](https://github.com/AissaNouacer)
 - [Barack W](https://github.com/walindi)
 - [Syarif Hidayatulloh](https://github.com/elSyarif)
