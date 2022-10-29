@@ -224,6 +224,7 @@
 - [Jeevan Muthu]
 - [Ahmad Bin Abdul Jabbar](https://github.com/AhmadBinAbdulJabbar)
 - [Riva Parvez]
+- [Aniruddha Mukherjee](https://github.com/annimukherjee)
 - [Rajput Usman](https://github.com/RajputUsman)
 - [Alexander Duffey](https://github.com/SuperCater)
 - [Dhriti](https://github.com/Dhriti-singh)
