@@ -20,6 +20,7 @@
 - [Ishita Batra](https://github.com/ishita6)
 - [Edving Morales] 
 - [Devanshu Mahapatra](https://github.com/Devanshu-17)
+- [ArteyRT] (https://github.com/ArteyRT)
 - [Pablo Alejandro](https://github.com/Pabloalesca)
 - [Khan Winter](https://github.com/thecoolwinter)
 - [Mickhat](https://github.com/Mickhat)
