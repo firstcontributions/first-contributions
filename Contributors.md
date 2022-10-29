@@ -110,6 +110,7 @@
 - [Archishman Das](https://github.com/starving-array)
 - [Abouar Prosper](https://github.com/4kpros/)
 - [Mohamed O Nar] (https://github.com/mohamedonar)
+- [Othmane Baqacha] (https://github.com/bqotm)
 - [Elvis Kinyua] (https://github.com/ekinyua)
 - [Valarie Oyieke] (https://github.com/ValarieOyieke)
 - Ketan Jangid
