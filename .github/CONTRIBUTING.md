@@ -69,8 +69,8 @@ If you're making changes to a translation, please request a review from our prev
 | Sindhi | [Sindhi](../translations/README.sindhi.md) | []() |
 | Slovenčina | [Slovak](../translations/README.sk.md) | [<img width="100" src="https://avatars3.githubusercontent.com/u/16558136?s=460&v=4" alt="@CoderKlemen" />](https://github.com/CoderKlemen) |
 | Slovenščina | [Slovenian](../translations/README.slk.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/11976353?s=460&v=4" alt="@hercegtomas" />](https://github.com/hercegtomas) |
-| Serbian | [Serbian](../translations/README.sr.md) | []() |
-| தமிழ் | [Tamil](../translations/README.ta.md) | []() |
+| Serbian | [Serbian](../translations/README.sr.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/35745051?v=4" alt="@Mateja3m" />](https://github.com/Mateja3m) |
+| தமிழ் | [Tamil](../translations/README.ta.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/7114806?v=4" alt="@sathishkumar-manogaran" />](https://github.com/sathishkumar-manogaran) |
 | తెలుగు | [Telugu](../translations/README.te.md) | []() |
 | ไทย | [Thai](../translations/README.th.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/5433758?s=460&v=4" alt="@AimeTPGM" />](https://github.com/AimeTPGM) |
 | Tagalog | [Tagalog](../translations/README.tl.md) | []() |
