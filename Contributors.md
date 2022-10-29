@@ -18,7 +18,8 @@
 - [Ricardo Beaujon] (http://rbeaujon.com)
 - [jatin kumar](https://github.com/jatin75757)
 - [Ishita Batra](https://github.com/ishita6)
-- [Edving Morales]
+- [Edving Morales] 
+- [Devanshu Mahapatra](https://github.com/Devanshu-17)
 - [Pablo Alejandro](https://github.com/Pabloalesca)
 - [Khan Winter](https://github.com/thecoolwinter)
 - [Mickhat](https://github.com/Mickhat)
