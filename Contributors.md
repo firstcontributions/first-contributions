@@ -1331,6 +1331,7 @@ Add something here
 - [Harry Sion Tarigan] (https://github.com/hawryyy30)
 - [Jahnvi ] (https://github.com/jahnvi15/)
 - [Vikanksh](https://github.com/vikanksh15/)
+- [Niyanth Reddy](https://github.com/Niyanth6079)
 - [Viraj Vishwanath Dalvi] (https://github.com/virajdalvi)
 - [Abhay] (https://github.com/darkbits018)
 - [syedmohdjawad]  (https://github.com/syedmohdjawad)
