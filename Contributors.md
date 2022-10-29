@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Gabriel Fernandes](https://github.com/GabrielFernandes251)
 - [Mohit Marathe](https://github.com/Mohit2758)
 - [Vijendra Pandey](https://github.com/VijendraPandey)
 - [suman](https://github.com/sumanghosh13)
@@ -16,6 +17,7 @@
 - [Ricardo Beaujon](http://rbeaujon.com)
 - [jatin kumar](https://github.com/jatin75757)
 - [Ishita Batra](https://github.com/ishita6)
+- [Edving Morales]
 - [Pablo Alejandro](https://github.com/Pabloalesca)
 - [Khan Winter](https://github.com/thecoolwinter)
 - [Mickhat](https://github.com/Mickhat)
@@ -38,8 +40,10 @@
 - [Justina Mason](https://github.com/CherryBlossomTree)
 - [N Sankaranarayanan](https://github.com/nsankar1987)
 - [AR9157](https://github.com/AR9157)
+- [mrrob0to](https://github.com/mrrob0to)
 - [Raymond](https://github.com/CrazyAsianBoy)
 - [AungKanPhyo](https://github.com/AungKanPhyo)
+- [AllenLVieira](https://github.com/AllenLVieira)
 - [MEGA0HM](https://github.com/M3GA0HM)
 - [Richard Akintola](https://github.com/AkintolaRichard)
 - [Melissa Layser](https://github.com/Laserbeam22)
@@ -690,6 +694,7 @@ Enrique Javier
 - [Abhijith H](https://github.com/Abhijith-H13)
 - [Harikumar Peddakotla](https://github.com/Harikumar778)
 - [Kunal Kartik](https://github.com/KunalKartik02)
+- [Troy Mathis] (https://github.com/troymathis)
 - [new one]
 - [Kunal Kartik](https://github.com/KunalKartik02)
 - [Vijayalaxmi Kadham](https://github.com/KadhamVj23)
@@ -4159,6 +4164,7 @@ Add something here
 - [Sanskar Singh](https://github.com/sanskar-singh-2403)
 - [kanz](https://github.com/arkansendy)
 - [Jijo Johnson](https://github.com/jijonj)
+- [Alper Bayram](https://github.com/alperbayram)
 - [Alban Ngwa](https://github.com/albanngwa)
 - [Pushkar Yadav](https://github.com/pushkaryadavin)
 - [Riya Jain](https://github.com/Riyajain115)
