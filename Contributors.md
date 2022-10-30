@@ -55,6 +55,7 @@
 - [Don Chisolm](https://github.com/Donchiz77)
 - [Shannon Torcato](https://github.com/shannontorcato)
 - [Sneha Kumari](https://github.com/Codewithsneha0)
+- [Claire Schregardus] (https://github.com/schregardusc)
 - [Nikita Sharma]
 - [Dipto](https://github.com/kdipto1)
 - [Justina Mason] (https://github.com/CherryBlossomTree)
