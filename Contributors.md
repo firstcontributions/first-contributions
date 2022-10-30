@@ -2,6 +2,14 @@
 
 <!-- prettier-ignore-start -->
 
+<<<<<<< HEAD
+
+=======
+
+- [Archishman Dash](https://www.github.com/aholic-archie)
+- [Chhabi Acharya](https://github.com/Chhabii)
+- [Bojidar Vladimirov](https://github.com/BojidarV)
+  > > > > > > > 76288b0bd899e43ec014bdef31859ac86f76e5fa
 - [Gabriel Fernandes](https://github.com/GabrielFernandes251)
 - [Surajit Dey Sarkar](https://github.com/Surajitds)
 - [Mohit Marathe](https://github.com/Mohit2758)
@@ -249,6 +257,7 @@
 - [Sergey Novikov] (https://github.com/Isn0v)
 - That guy
 - [Souhil OMARI](https://github.com/Souhil19)
+- [Bibek Shrestha](https://github.com/Bibek-2022) (www.shresthabibek.com) (Nepal)
 - [Mayank Sahu](https://github.com/Mayank8085)
 - [Anchal Kumar Chaudahry](https://github.com/anchal9670)
 - [ARIJIT](https://github.com/Arijit8101)
