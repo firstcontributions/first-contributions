@@ -52,6 +52,7 @@
 - [Shannon Torcato](https://github.com/shannontorcato)
 - [Sneha Kumari](https://github.com/Codewithsneha0)
 - [Nikita Sharma]
+- [Dipto](https://github.com/kdipto1)
 - [Justina Mason] (https://github.com/CherryBlossomTree)
 - [Rahul Dogra] (https://github.com/Gua00va)
 - [N Sankaranarayanan](https://github.com/nsankar1987)
