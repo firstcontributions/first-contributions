@@ -1389,6 +1389,7 @@ Add something here
 - [Mandeep Patwa](https://github.com/mpatwa98)
 - [Navneet Gupta](https://github.com/Nav21000)
 - [Aditya Rajauria](https://github.com/AdityaR6)
+- [Manuel Alingog](https://github.com/mannyalin)
 - [Luka Jurić](https://github.com/ljuricinf)
 - [Krishan Murari](https://github.com/krishan-here)
 - [Shweta Singh](https://github.com/shwetasingh14)
