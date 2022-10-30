@@ -267,6 +267,7 @@
 - [kelys] (https://github.com/kelysi)
 - [Muskan_Kansal] (https://github.com/crazylot)
 - [Aayush Arora](https://github.com/AroraAayush)
+- [Michelle Wong](https://github.com/strawberrie68/)
 - [Suraj Patra](https://github.com/Suraj-Patra)
 - [Mallela D. Vinay](https://github.com/MD571)
 - [Mariam Lawal](https://github.com/Maerryham)
