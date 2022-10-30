@@ -4543,6 +4543,7 @@ first contributions - hanyang univ.
 - [poqpwppy](https://github.com/poqpwppy)
 - [taewonh](https://github.com/taewonh)
 - [Abhinav](https://github.com/abhi9decodes)
+- [Sushrut Watekar](https://github.com/SushrutWatekar)
 - [Jatin Chhabra](https://github.com/jat2208)
 - [Tushant Rangari](https://github.com/tushant07)
 - [Ansh Charak](https://github.com/AnshCharak)
