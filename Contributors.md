@@ -57,6 +57,7 @@
 - [AllenLVieira](https://github.com/AllenLVieira)
 - [MEGA0HM] (https://github.com/M3GA0HM)
 - [Richard Akintola] (https://github.com/AkintolaRichard)
+- [Fakhruddin](https://github.com/Fakhruddin90)
 - [Melissa Layser] (https://github.com/Laserbeam22)
 - [Rajat](https://github.com/rajatkumar2205)
 - [Fabio Laura](https://github.com/raptor0929)
