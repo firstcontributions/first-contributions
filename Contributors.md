@@ -4560,4 +4560,5 @@ Add something here
 - [Sibindra Timalsina](https://github.com/Sibindra)
 - [Patrick Mahloy](https://github.com/ploymahloy/)
 - [kamilpixel](https://github.com/kamilpixel)
+- [Parth Banker](https://github.com/Puzer-03)
 - [genki hoshino](https://github.com/genkihoshino02)
