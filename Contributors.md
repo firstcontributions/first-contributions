@@ -3661,6 +3661,7 @@ Fiyinfoluwa Afolayan
 - [Aneesh Sahu]([https://github.com/Aneeshh18])
 - [Mansa Dixit](https://github.com/mansadixit)
 - [Khyati Gupta]([https://twitter.com/Khyatigupta369])
+- [Paul Banks]([https://github.com/paulinski1987])
 - [zskull](https://github.com/t35ting)
 - [Nimit Jain](https://github.com/nim09911)
 - [Gaurav Jha] ([https://github.com/GauravKrJha])
