@@ -13,6 +13,7 @@
 - [Obafemi Oludahunsi] (https://github.com/Obafemi-NG)
 - [SAHIL SINHA](https://github.com/SahilSinha007)
 - [Sarthak Mittal](https://github.com/SarthakMittal777)
+- [Luisa Haase](https://github.com/luisaha)
 - [Nayna Sahu ](https://github.com/NaynaSahu/)
 - [Bruno De Paula 🚀](https://github.com/Gr33nLight)
 - [Ricardo Beaujon] (http://rbeaujon.com)
