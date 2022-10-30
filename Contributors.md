@@ -5,6 +5,7 @@
 - [Chhabi Acharya](https://github.com/Chhabii)
 - [Bojidar Vladimirov](https://github.com/BojidarV)
 - [Ryan Ignasiak](https://github.com/theravenousR)
+- [Yash Wake](https://github.com/yashwxd)
 - [Gabriel Fernandes](https://github.com/GabrielFernandes251)
 - [Surajit Dey Sarkar](https://github.com/Surajitds)
 - [Mohit Marathe](https://github.com/Mohit2758)
