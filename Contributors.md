@@ -4563,3 +4563,4 @@ first contributions - hanyang univ.
 - [One-One-Seven](https://github.com/dAnkc0der)
 - [Soumil Singh](https://github.com/soumil1)
 - [Sibindra Timalsina](https://github.com/Sibindra)
+- [Patrick Mahloy](https://github.com/ploymahloy/)
