@@ -25,6 +25,7 @@
 - [jatin kumar](https://github.com/jatin75757)
 - [Ishita Batra](https://github.com/ishita6)
 - [Edving Morales]
+- [AutumLeaf]
 - [Devanshu Mahapatra](https://github.com/Devanshu-17)
 - [ArteyRT] (https://github.com/ArteyRT)
 - [Pablo Alejandro](https://github.com/Pabloalesca)
