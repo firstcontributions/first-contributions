@@ -289,6 +289,7 @@
 - [Junsu An](https://github.com/anjjunsu/)
 - [Moin Munir Ahmed](https://github.com/MoinCR7/)
 - [Abhay Kshirsagar](https://github.com/AK6263/)
+- [Vedant Garhwal](https://github.com/vedant21-2005)
 - [Ziabeher Phillips](https://github.com/Zabzx)
 - [Pankaj Adhikari](https://github.com/Pankaj809)
 - [shashank-gupta](https://github.com/shashank-2310/)
