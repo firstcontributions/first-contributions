@@ -124,6 +124,7 @@
 - Pham Le Duc THinh
 - Daire Connolly
 - [Rohit Waghole](https://github.com/RohitWaghole)
+- [Willie Morris](https://github.com/willie10r)
 - [Argie Gingoyon](https://github.com/asgee)
 - [Parth](https://Github.com/ParthMadhvani2)
 - Victoria Lafi
