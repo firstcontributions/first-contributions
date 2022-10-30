@@ -185,6 +185,7 @@
 - [HaibaoM55](https://github.com/HaibaoM55)
 - [Manmeet Kaur](https://github.com/Manmeet2607)
 - [AbelValencia](https://github.com/AbelValencia)
+- [shilpa shingnapure](https://github.com/shilpashingnapure)
 - [LeeJaeO](https://github.com/LeeJaeO)
 - [Rodrigo Yuske](https://github.com/yuskeee)
 - [Gaurav Agrawal](https://github.com/gauravzuse)
