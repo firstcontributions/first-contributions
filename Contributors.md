@@ -4574,3 +4574,4 @@ first contributions - hanyang univ.
 - [Patrick Mahloy](https://github.com/ploymahloy/)
 - [kamilpixel](https://github.com/kamilpixel)
 - [genki hoshino](https://github.com/genkihoshino02)
+- [Parth Banker](https://github.com/Puzer-03)
