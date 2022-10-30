@@ -2773,6 +2773,7 @@ Fiyinfoluwa Afolayan
 - [Çağrı Uysal](https://github.com/Tuireol)
 - [Romel Williams](https://github.com/omerome83)
 - [Berlun Devera](https://github.com/b-devera)
+- [William Ndira](https://github.com/willndira)
 - [Sahas Thyarala](https://github.com/Sthyarala)
 - [Chow Mei Kei](https://github.com/meikei-99)
 - [dancaps] (https://github.com/dancap)
