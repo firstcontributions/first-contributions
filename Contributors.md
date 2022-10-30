@@ -4517,6 +4517,7 @@ first contributions - hanyang univ.
 - [Gaurang Agrawal](https://github.com/Gaurang1602)
 - [Reinhardt vd Westhuizen](https://github.com/ReinhardtvdWesthuizen)
 - [Elisa Sacchelli](https://github.com/EliSacch)
+- [Michael Hobson](https://github.com/Floogles)
 - [Devansh Kushwah](https://github.com/Devansh-Kushwah)
 - [prosscode](https://github.com/prosscode)
 - [Rezahans](https://github.com/Rezahans)
