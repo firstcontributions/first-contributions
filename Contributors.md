@@ -50,6 +50,7 @@
 - [Sneha Kumari](https://github.com/Codewithsneha0)
 - [Nikita Sharma]
 - [Justina Mason] (https://github.com/CherryBlossomTree)
+- [Rahul Dogra] (https://github.com/Gua00va)
 - [N Sankaranarayanan](https://github.com/nsankar1987)
 - [AR9157](https://github.com/AR9157)
 - [mrrob0to] (https://github.com/mrrob0to)
