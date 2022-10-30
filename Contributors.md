@@ -2770,6 +2770,7 @@ Fiyinfoluwa Afolayan
 - [Chow Mei Kei](https://github.com/meikei-99)
 - [dancaps] (https://github.com/dancap)
 - [Strzegol](https://github.com/Strzegol)
+- [Anshuman Narendra Jit Singh](https://github.com/anshumannjs)
 - [Rodrigo Sarmento](https://github.com/Rodrigo-Sarmento)
 - [Javier Espinosa](https://github.com/EspJav)
 - [Lucas Loureiro](https://github.com/L0ureiro)
