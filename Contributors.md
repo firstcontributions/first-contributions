@@ -21,6 +21,7 @@
 - [Luisa Haase](https://github.com/luisaha)
 - [Nayna Sahu ](https://github.com/NaynaSahu/)
 - [Bruno De Paula 🚀](https://github.com/Gr33nLight)
+- [Sudarsan Balaji](https://github.com/artfuldev)
 - [Ricardo Beaujon] (http://rbeaujon.com)
 - [jatin kumar](https://github.com/jatin75757)
 - [Ishita Batra](https://github.com/ishita6)
