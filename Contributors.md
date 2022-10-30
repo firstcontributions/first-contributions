@@ -454,6 +454,7 @@ Enrique Javier
 - [Nishant Kumar](https://github.com/thinkwithcode)
   [Javier-Bernabe](https://github.com/javbg97)
 - [Pragathees](https://github.com/pragasekar)
+- [Thomas Jacka](https://github.com/TJacka)
 - [rabisha](https://github.com/rabi-1)
 - [William-David](https://github.com/William-David)
 - [Shashwat-Dev] (https://github.com/devshashwat)
