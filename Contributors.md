@@ -25,6 +25,7 @@
 - [jatin kumar](https://github.com/jatin75757)
 - [Ishita Batra](https://github.com/ishita6)
 - [Edving Morales]
+- [AutumLeaf]
 - [Devanshu Mahapatra](https://github.com/Devanshu-17)
 - [ArteyRT] (https://github.com/ArteyRT)
 - [Pablo Alejandro](https://github.com/Pabloalesca)
@@ -49,6 +50,7 @@
 - [Sneha Kumari](https://github.com/Codewithsneha0)
 - [Nikita Sharma]
 - [Justina Mason] (https://github.com/CherryBlossomTree)
+- [Rahul Dogra] (https://github.com/Gua00va)
 - [N Sankaranarayanan](https://github.com/nsankar1987)
 - [AR9157](https://github.com/AR9157)
 - [mrrob0to] (https://github.com/mrrob0to)
@@ -1389,6 +1391,7 @@ Add something here
 - [Mandeep Patwa](https://github.com/mpatwa98)
 - [Navneet Gupta](https://github.com/Nav21000)
 - [Aditya Rajauria](https://github.com/AdityaR6)
+- [Manuel Alingog](https://github.com/mannyalin)
 - [Luka Jurić](https://github.com/ljuricinf)
 - [Krishan Murari](https://github.com/krishan-here)
 - [Shweta Singh](https://github.com/shwetasingh14)
@@ -2258,6 +2261,7 @@ Fiyinfoluwa Afolayan
 - [Thomas Roy](https://github.com/throy45)
 - [Nemanja Jocanovic]
 - [Zachary Parham]
+- [Steven Dao]
 - [Naomi Ogbechi](https://github.com/OluluOgbechi)
 - [Muhammad Iqbal](https://github.com/muhammadikbal512)
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
@@ -4572,3 +4576,5 @@ first contributions - hanyang univ.
 - [Sibindra Timalsina](https://github.com/Sibindra)
 - [Patrick Mahloy](https://github.com/ploymahloy/)
 - [kamilpixel](https://github.com/kamilpixel)
+- [genki hoshino](https://github.com/genkihoshino02)
+- [Parth Banker](https://github.com/Puzer-03)
