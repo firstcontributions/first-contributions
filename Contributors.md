@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 <!-- prettier-ignore-start -->
 - [Archishman Dash](https://www.github.com/aholic-archie)
 - [Chhabi Acharya](https://github.com/Chhabii)
@@ -330,6 +330,7 @@
 - [Siddhant](https://github.com/SiddJ01)
 - [JSalinas](https://github.com/javier-salinas)
 - [Hailey Steineke](https://github.com/hdsteineke)
+- [Prasanna Kumar B G](https://github.com/PrasannaBG)
 - [Abishek Reddy](https://github.com/Abishek-Reddy)
 - [Sahil Wankhade](https://github.com/ArcheR1901)
 - [Roberto](https://github.com/VespuccioTech)
@@ -2093,6 +2094,7 @@ Fiyinfoluwa Afolayan
 - [Joel Fah](https://github.com/Joel-Fah/)
 - [Nithin Kalluru](https://github.com/Nithin-532)
 - [Gergő Czimmermann](https://github.com/GergoCzimmermann)
+- [Prasanna Kumar B G](https://github.com/PrasannaBG)
 - [Vincent Pierin](https://github.com/Vincent59)
 - [AryKantKode](https://github.com/AryKantKode)
 - [Ruben Hernandez Jr.](https://github.com/ruben-hernandez-jr)
