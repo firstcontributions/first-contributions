@@ -4,6 +4,7 @@
 - [Archishman Dash](https://www.github.com/aholic-archie)
 - [Chhabi Acharya](https://github.com/Chhabii)
 - [Bojidar Vladimirov](https://github.com/BojidarV)
+- [Poyraz Bahcivan](https://github.com/poyrazbahcivan)
 - [Ryan Ignasiak](https://github.com/theravenousR)
 - [Yash Wake](https://github.com/yashwxd)
 - [Gabriel Fernandes](https://github.com/GabrielFernandes251)
