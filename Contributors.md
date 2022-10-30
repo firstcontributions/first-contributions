@@ -4573,3 +4573,4 @@ first contributions - hanyang univ.
 - [Sibindra Timalsina](https://github.com/Sibindra)
 - [Patrick Mahloy](https://github.com/ploymahloy/)
 - [kamilpixel](https://github.com/kamilpixel)
+- [genki hoshino](https://github.com/genkihoshino02)
