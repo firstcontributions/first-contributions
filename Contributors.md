@@ -22,7 +22,7 @@
 - [Ricardo Beaujon] (http://rbeaujon.com)
 - [jatin kumar](https://github.com/jatin75757)
 - [Ishita Batra](https://github.com/ishita6)
-- [Edving Morales] 
+- [Edving Morales]
 - [Devanshu Mahapatra](https://github.com/Devanshu-17)
 - [ArteyRT] (https://github.com/ArteyRT)
 - [Pablo Alejandro](https://github.com/Pabloalesca)
@@ -3333,6 +3333,7 @@ Fiyinfoluwa Afolayan
 - [Gujot Singh](https://github.com/Gur-jot)
 - [Satyajeet Tripathy](https://github.com/sa8tyajeet46)
 - [mvaschetto](https://github.com/mvaschetto)
+- [evensure](https://github.com/evensure)
 - [Sudhir_Sharma](https://www.linkedin.com/in/sudhir-sharma-4858ab21a/)
 - [Rohit Jindamwar](https://github.com/rohit85-it)
 - [Narendra Kumar Gupta](https://github.com/Narendra-Git-Hub)
@@ -4494,7 +4495,7 @@ first contributions - hanyang univ.
 - [zyt](https://github.com/zyt600)
 - [Akhoury Shauryam](https://github.com/Satan-Claws)
 - AnnTsai
-- [Melissa Meline](https://github.com/datsukai)  
+- [Melissa Meline](https://github.com/datsukai)
 - [Magda](https://github.com/magdaV24)
 - [airmelt](https://github.com/airmelt)
 - [BogdanHUBIT](https://github.com/BogdanHUBIT)
