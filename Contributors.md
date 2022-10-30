@@ -2258,6 +2258,7 @@ Fiyinfoluwa Afolayan
 - [Thomas Roy](https://github.com/throy45)
 - [Nemanja Jocanovic]
 - [Zachary Parham]
+- [Steven Dao]
 - [Naomi Ogbechi](https://github.com/OluluOgbechi)
 - [Muhammad Iqbal](https://github.com/muhammadikbal512)
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
