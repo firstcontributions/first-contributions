@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 <!-- prettier-ignore-start -->
 - [Aman Bharti](https://github.com/aman0ab)
 - [Archishman Dash](https://www.github.com/aholic-archie)
@@ -9,6 +9,7 @@
 - [Gabriel Fernandes](https://github.com/GabrielFernandes251)
 - [Surajit Dey Sarkar](https://github.com/Surajitds)
 - [Mohit Marathe](https://github.com/Mohit2758)
+- [Satarupa Deb]( https://github.com/Satarupa22-SD)
 - [Vijendra Pandey](https://github.com/VijendraPandey)
 - [mahalakshmikutcharlapati](https://github.com/mahalakshmikutcharlapati)
 - [randose](https://github.com/randose)
