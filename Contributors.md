@@ -1,6 +1,5 @@
 # Contributors
 <!-- prettier-ignore-start -->
-
 - [Gabriel Fernandes](https://github.com/GabrielFernandes251)
 - [Surajit Dey Sarkar](https://github.com/Surajitds)
 - [Mohit Marathe](https://github.com/Mohit2758)
@@ -189,6 +188,7 @@
 - [Akshay Jain](https://github.com/rudeakshay)
 - [Sujith P](https://github.com/Alfa-ZORO)
 - [NIKITA PANDEY 🦋](https://github.com/NIKITApandey01)
+- [Cesar Rodas](https://github.com/Care99)
 - [Sahil Singh](www.linkedin.com/in/sahil-singh-ss9824)
 - [imappuru](https://github.com/imappuru)
 - [Rafiqul Shopon](https://github.com/rafiqulshopon)
