@@ -3437,6 +3437,7 @@ Fiyinfoluwa Afolayan
 - [Dharanash S](https://github.com/Dharanash)
 - [GuyKh](https://github.com/GuyKh)
 - [Ishika Garg](https://github.com/ishgit)
+- [Manideep](https://github.com/manideep-17)
 - [Jabed Zaman](https://github.com/jabedzaman)
 - [Dharansh S](https://github.com/Dharanash)
 - [Aman Jain](https://github.com/amanjain5132)
