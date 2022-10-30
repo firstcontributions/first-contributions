@@ -212,6 +212,7 @@
 - [LaplancheMaxime](https://github.com/LaplancheMaxime)
 - [Vicky Grover](https://github.com/LaplancheMaxime)
 - [Siddhant Majumder](https://github.com/Codeworm08)
+- [Soumyadip Bhowmik](https://github.com/SoumyadipBhowmik)
 - [Allen Lobo]
 - [Alex Reveles](https://github.com/aajj333)
 - [Samuel Oluyede](https://github.com/Masei25)
