@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Archishman Dash](https://www.github.com/aholic-archie)
 - [Chhabi Acharya](https://github.com/Chhabii)
 - [Bojidar Vladimirov](https://github.com/BojidarV)
 - [Gabriel Fernandes](https://github.com/GabrielFernandes251)
