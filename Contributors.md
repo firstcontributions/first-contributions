@@ -4048,7 +4048,7 @@ Fiyinfoluwa Afolayan
 - [Isaac Martin](https://github.com/issac5693)
 - [Videhi Bavishi](https://github.com/VidehiBavishi)
 - [Ash G](https://github.com/stayyFrostyy)
-- [Ezekiel Ojo](https://github.com/ezekielojo)
+- [Ezekiel Ojo](https://github.com/ezekiel37)
 - [Kundan Kumar](https://github.com/mindexpert7546)
 - [Neerav Jha](https://github.com/neerav34)
 - [Anisha Ray](https://github.com/aniray2908)
