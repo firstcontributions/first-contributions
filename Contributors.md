@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 pnordboj
 - [Deepak Rana Magar](https://github.com/DeepakRanaMagar)
+- [Aysu Toprak](https://github.com/aysutoprak)
 - [Nitin Kumar] (https://github.com/CKShere)
 - [Olayinka Olasimbo](https://github.com/donwaikay)
 - [Benjamin Morgiewicz](https://github.com/BaseBenjamin13)
