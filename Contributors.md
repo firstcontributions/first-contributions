@@ -95,7 +95,7 @@
 - [Akshay Rokade] (https://github.com/akshay-2912)
 - [Dorcas Komane] (https://github.com/DorcasKomane)
 - [Amrutha Polamarasetty](https://github.com/amruthapolamarasetty)
-
+- [Ashutosh Mishra] (https://github.com/ashutosh-89679/)
 - [NeilN](https://github.com/NeilN)
 - [RAMOS ROBERTO](https://github.com/rcramos456)
 - [Khushi Shukla](https://github.com/Khushi-Shukla)
