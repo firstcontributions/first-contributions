@@ -1,5 +1,6 @@
 ﻿# Contributors
 <!-- prettier-ignore-start -->
+pnordboj
 - [Deepak Rana Magar](https://github.com/DeepakRanaMagar)
 - [Nitin Kumar] (https://github.com/CKShere)
 - [Olayinka Olasimbo](https://github.com/donwaikay)
