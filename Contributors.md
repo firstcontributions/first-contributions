@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Deepak Rana Magar](https://github.com/DeepakRanaMagar)
 - [Aman Bharti](https://github.com/aman0ab)
 - [Archishman Dash](https://www.github.com/aholic-archie)
 - [Chhabi Acharya](https://github.com/Chhabii)
