@@ -1414,6 +1414,7 @@ Add something here
 - [Jay Kumar Gupta](https://github.com/Jay-suk)
 - [Gunjit_Valechha](https://github.com/Gunjit-V)
 - [Hirusha CHamod](https://github.com/hiradev)
+- [Anirudh Mehta](https://github.com/anirudh9801)
 - [Hardik Gupta](https://github.com/Hardikg13)
 - [Nishant Raghuvanshi](https://github.com/nishantraghuvanshi)
 - [Supratim Chakraborty](https://github.com/Supratimchakraborty21)
