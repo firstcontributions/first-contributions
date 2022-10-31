@@ -201,6 +201,7 @@
 -Shahin Yahya
 -[Rebecca](https://github.com/rebeccawuu)
 - Zaki
+- [Gargi Kale](https://github.com/Gargi14)
 - [Samuel Favarin](https://github.com/SamuelBFavarin)
 - [abirhussain](https://github.com/abirhussain)
 - [Edivilson Dalacosta](https://github.com/edjdc)
