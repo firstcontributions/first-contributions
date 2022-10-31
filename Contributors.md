@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Deepak Rana Magar](https://github.com/DeepakRanaMagar)
+- [Nitin Kumar] (https://github.com/CKShere)
 - [Olayinka Olasimbo](https://github.com/donwaikay)
 - [Aman Bharti](https://github.com/aman0ab)
 - [Archishman Dash](https://www.github.com/aholic-archie)
