@@ -7,12 +7,11 @@
 
 Este projeto visa facilitar o caminho e guiar os iniciantes em suas primeiras contribuições. Se você deseja fazer a sua primeira contribuição, siga os passos abaixo.
 
-#### *Se não se sentes confortável com linha de comando, [aqui estão alguns tutoriais de ferramentas gráficas.]( #Tutoriais-usando-outras-ferramentas)*
-
+#### _Se não se sentes confortável com linha de comando, [aqui estão alguns tutoriais de ferramentas gráficas.](#Tutoriais-usando-outras-ferramentas)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork deste repositório" />
 
-Se não possui o git em sua máquina, [instale-o aqui]( https://help.github.com/articles/set-up-git/ ).
+Se não possui o git em sua máquina, [instale-o aqui](https://help.github.com/articles/set-up-git/).
 
 ## Faça um Fork deste repositório
 
@@ -25,35 +24,43 @@ Faça um Fork clicando no botão "Fork" no topo desta página. Isto irá criar u
 Agora clone este repositório para a sua máquina. Clique no botão "Clone or download" e, em seguida, clique no ícone "Copy to clipboard" para copiar a URL.
 
 Abra seu terminal e execute o seguinte comando do git:
+
 ```
 git clone "url que copiou"
 ```
+
 onde "url que copiou" (sem as aspas) é a URL deste repositório. Consulte as etapas anteriores para obter a URL.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copiar URL" />
 
 Por exemplo:
+
 ```
 git clone https://github.com/seu-usuario/first-contributions.git
 ```
+
 onde "seu-usuário" é o seu usuário do GitHub. Aqui você está copiando o conteúdo do repositório first-contributions para o seu computador.
 
 ## Crie um Branch
 
 Vá para o diretório do repositório no seu computador (caso você não esteja lá):
+
 ```
 cd first-contributions
 ```
 
 Agora crie um Branch usando o comando `git checkout`:
+
 ```
 git checkout -b <add-seu-nome>
 ```
 
 Por exemplo:
+
 ```
 git checkout -b add-alonzo-church
 ```
+
 Obs.: O nome do Branch não precisa ter a sigla "add", mas nesse caso é recomendável, porque a finalidade deste Branch é a de adicionar o seu nome à uma lista.
 
 ## Efetue as alterações necessárias e faça um Commit
@@ -63,21 +70,27 @@ Agora abra o arquivo `Contributors.md` em seu editor de código, adicione o seu 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 Se você for para o diretório do projeto e executar o comando `git status`, verá que há alterações. Adicione essas alterações ao Branch que você acabou de criar utilizando o comando `git add`:
+
 ```
 git add Contributors.md
 ```
+
 Agora faça um Commit dessas alterações utilizando o comando `git commit`:
+
 ```
 git commit -m "Add <seu-nome> to Contributors list"
 ```
+
 preenchendo `<seu-nome>` com o seu nome.
 
 ## Faça um Push das alterações para o GitHub
 
 Faça um Push utilizando o comando `git push`:
+
 ```
 git push origin <add-seu-nome>
 ```
+
 substituindo `<add-seu-nome>` pelo nome do Branch que você criou anteriormente.
 
 ## Envie suas alterações para serem revisadas
@@ -105,8 +118,6 @@ Agora você pode colaborar com outros projetos. Nós compilamos uma lista de pro
 ### [ Material adicional ](../additional-material/translations/additional-material.pt_br.md)
 
 ## Tutoriais usando outras ferramentas
-
-
-|<a href="../gui-tool-tutorials/translations/github-desktop-tutorial.pt_br.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/translations/github-windows-intellij-tutorial.pt_br.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             |  [IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
+| <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)
