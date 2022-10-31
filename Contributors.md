@@ -4604,6 +4604,7 @@ first contributions - hanyang univ.
 - [Alline Marjorie](https://github.com/marjorinec)
 - [poqpwppy](https://github.com/poqpwppy)
 - [taewonh](https://github.com/taewonh)
+- [Ken Broadwell](https://github.com/ken-from-the-uk)
 - [Abhinav](https://github.com/abhi9decodes)
 - [Sushrut Watekar](https://github.com/SushrutWatekar)
 - [Jatin Chhabra](https://github.com/jat2208)
