@@ -114,6 +114,7 @@
 - [marioluiss](https://github.com/MarioLuiss)
 - [Bojidar Vladimirov](https://github.com/BojidarV)
 - [Cocozin13](https://github.com/Cocozin13)
+- [Yuvraj Seegolam](https://github.com/yuvraj108c)
 - [Gabriel Coelho](https://github.com/bielcoelho)
 - [Urvesh Radadiya](https://github.com/URVESH1121)
 - [Jibrin Ahmed](https://github.com/TacetSteeze)
