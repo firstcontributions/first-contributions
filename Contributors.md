@@ -17,6 +17,7 @@ pnordboj
 - [Surajit Dey Sarkar](https://github.com/Surajitds)
 - [Mohit Marathe](https://github.com/Mohit2758)
 - [Satarupa Deb]( https://github.com/Satarupa22-SD)
+- [Edwin Kim](https://github.com/edwinkim97)
 - [Vijendra Pandey](https://github.com/VijendraPandey)
 - [Utpal Savaliya](https://github.com/utpalsavliya)
 - [mahalakshmikutcharlapati](https://github.com/mahalakshmikutcharlapati)
