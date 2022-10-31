@@ -148,6 +148,7 @@
 - Rishi Kumar Jha
 - Saltanat Ospan
 - Kalyan Kumar
+- Diego Tamayo [https://github.com/Diegot1998]
 - [Ulrich Raab] [https://github.com/Ulimativo]
 - [Tihan Pelser] [https://github.com/TihanPelser]
 - [Umang Dalvadi] [https://github.com/UmangDalvadi]
