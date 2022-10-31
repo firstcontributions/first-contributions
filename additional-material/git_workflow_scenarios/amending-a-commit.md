@@ -1,9 +1,9 @@
 # Amending a Commit
 
-What if you commit a change to your remote repository only to realize later that you have a typo in the commit message or you forgot to add a line in your most recent commit.
+What if you commit a change to your remote repository only to realize later that you have a typo in the commit message or you forgot to add a line in your most recent commit?
 How do you edit that? This is what this tutorial covers.
 
-## Changing a recent commit message after you have pushed to Github.
+## Changing a recent commit message after you have pushed it to GitHub.
 To do this without opening a file:
 *   Type in the ```git commit --amend -m "followed by your new commit message"```
 *   Run ```git push origin <branch-name>``` to commit the changes to the repository.
@@ -25,19 +25,19 @@ Let's say I forgot to add a single word to the bot file
 
 There are 2 ways to go about this. The first is to have an entirely new commit that contains the change like so:
 ```
-g56123f create file botfile
+g56123f create file bot file
 a2235d updated contributor.md
-a5da0d modified botfile
-b0ca8f added single word to botfile
+a5da0d modified bot file
+b0ca8f added a single word to bot file
 ```
-The second way is to amend the a5da0d commit, add this new word and  push it to Github as one commit.
+The second way is to amend the a5da0d commit, add this new word and push it to GitHub as one commit.
 The second sounds better since it is just a minor change.
 
 To achieve this, we would do the following:
-*   Modify the file. In this case, I will modify the botfile to include the word I omitted previously.
+*   Modify the file. In this case, I will modify the bot file to include the word I omitted previously.
 *   Next, add the file to the staging area with ```git add <filename>```
 
-Usually after adding files to the staging area, the next thing we do is git commit -m "our commit message" right?
+Usually, after adding files to the staging area, the next thing we do is git commit -m "our commit message" right?
 But since what we want to achieve here is to amend the previous commit, we would instead run:
 
 * ```git commit --amend```

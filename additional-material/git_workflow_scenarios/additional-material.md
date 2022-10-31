@@ -2,15 +2,15 @@
 
 We assume that you have already finished with the basic tutorial before coming here. This document will give you some additional information about advanced Git techniques.
 
-### [Amending a commit](amending-a-commit.md)
+### [Amending a commit] (amending-a-commit.md)
 This document provides information about how to amend a commit on the remote repository.
-> Use this when you need to adjust a commit you made.
+> Use this when you need to adjust a commitment you made.
 
-### [Configuring git](configuring-git.md)
+### [Configuring git] (configuring-git.md)
 This document provides information about how to configure user details and other options in git.
 > Use this to better control your git configurations.
 
-### [Keeping your fork synced with the repository](keeping-your-fork-synced-with-this-repository.md)
+### [Keeping your fork synced with the repository] (keeping-your-fork-synced-with-this-repository. MD)
 This document provides information about how to keep your forked repository up-to-date with the base repository. This is important, as hopefully you and many others will contribute to the project.
 > Follow these steps if your fork doesn't have any changes in parent repository.
 
@@ -47,4 +47,3 @@ This document is dedicated to all the tips and tricks websites, blog posts, and 
 
 ### [Creating a .gitignore file](creating-a-gitignore-file.md)
 This document explains what a .gitignore file does, why to use it and how to create a .gitignore file. This file is used in almost all git projects. It helps commit only necessary files to git.
-
