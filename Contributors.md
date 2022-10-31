@@ -1299,6 +1299,7 @@ Add something here
 - [Ved Prakash Nautiyal](https://github.com/vedprakashnautiyal)
 - [Deepak Krishnaa Govindarajan](https://github.com/deepakkrish212)
 - [GANESH TEKALE](https://github.com/ganeshtekale7400)
+- [Deepak Zilla](https://github.com/zilladeepak)
 - [Tanmay Deopurkar](https://github.com/tanmays62343)
 - [Olorunnishola Olamilekan](https://github.com/Keith-Web3/)
 - [Anne-Marie Nnaedozie](https://github.com/a-nn-t-s)
