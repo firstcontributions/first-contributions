@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -39,7 +39,7 @@ The *Accounts* dialog will appear. Click "Add" in the lower left hand corner. Th
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sourcetree-macos-tutorial/sourcetree-4-accounts-add.png" alt="SourceTree Connect Add" />
 
-This will open a page in your web browswer. Follow the steps given to authorize your account.
+This will open a page in your web browser. Follow the steps given to authorize your account.
 
 ## Fork this repository
 
@@ -58,7 +58,7 @@ Once you click the "Clone" button, you will be presented with another view to de
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sourcetree-macos-tutorial/sourcetree-6-cloning-confirm.png" alt="clone this repository" />
 
-1) **Source URL:** This is automatically filled and you dont need to change it. It is the URL from where your GitHub project resides.
+1) **Source URL:** This is automatically filled and you don't need to change it. It is the URL from where your GitHub project resides.
 
 2) **Destination Path:** This is the physical location on your computer where this project will be saved
 
@@ -93,9 +93,9 @@ You should be able to see and review the file that have been changed and decide 
 
 Next click the **Commit** button on the top left of the dialog. This will show you your staging area.
 
-Click the *Checkbox* to **add** the file to the stagging area. Then enter a commit message.
+Click the *Checkbox* to **add** the file to the staging area. Then enter a commit message.
 
-*Note: You can also select files (both in the stagging and unstaged areas) and add/remove files from the respective areas by using the spacebar*
+*Note: You can also select files (both in the staging and unstaged areas) and add/remove files from the respective areas by using the spacebar*
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sourcetree-macos-tutorial/sourcetree-9-committing.png" alt="stage your changes" />
 
@@ -129,7 +129,7 @@ Congrats!  You have just completed the standard _fork -> clone -> edit -> PR_ wo
 
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
 
-You could join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+You could join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 
 ### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)

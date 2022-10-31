@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -11,62 +11,6 @@
 Читањето на статии и гледањето на видеа помага до некаде, но нема подобар начин за учење од вежбањето. Целта на овој проект е да се обезбеди вежба и да се поедностави начинот по кој почетниците допринесуват отворен код. Ако сакате да го направите својот прв придонес, тогаш следете ги долунаведените чекори.
 
 #### *Ако не сакате да користите command line (терминал), [овде имате упатстња за GUI](#Вежби-за-користење-на-други-програми)*
-
-#### *Можете да ја прочитате оваа статија на [други јазици](translations/Translations.md).*
-
-[:bangladesh:](translations/README.bn.md)
-[🇧🇬](translations/README.bg.md)
-[🇧🇷](translations/README.pt_br.md)
-[<img src="https://firstcontributions.github.io/assets/Readme/catalan1.png" width="22">](translations/README.ca.md)
-[🇨🇳](translations/README.chs.md)
-[🇨🇿](translations/README.cs.md)
-[🇩🇪](translations/README.de.md)
-[🇩🇰](translations/README.da.md)
-[🇪🇬](translations/README.eg.md)
-[🇪🇸](translations/README.es.md)
-[🇫🇷](translations/README.fr.md)
-[🏴](translations/README.gl.md)
-[🇬🇷](translations/README.gr.md)
-[🇭🇺](translations/README.hu.md)
-[🇮🇩](translations/README.id.md)
-[🇮🇱](translations/README.hb.md)
-[🇮🇳](translations/Translations.md)
-[🇮🇷](translations/README.fa.md)
-[🇮🇷](translations/README.fa.en.md)
-[🇮🇹](translations/README.it.md)
-[🇯🇵](translations/README.ja.md)
-[🇰🇪](translations/README.kws.md)
-[🇰🇷 🇰🇵](translations/README.ko.md)
-[🇱🇹](translations/README.lt.md)
-[🇲🇩 🇷🇴](translations/README.ro.md)
-[🇲🇲](translations/README.mm_unicode.md)
-[🇲🇽](translations/README.mx.md)
-[🇲🇾](translations/README.my.md)
-[🇳🇱](translations/README.nl.md)
-[🇳🇬](translations/README.igb.md)
-[🇳🇵](translations/README.np.md)
-[🇵🇭](translations/README.tl.md)
-[<img src="https://firstcontributions.github.io/assets/Readme/pirate.png" width="22">](translations/README.en-pirate.md)
-[🇵🇰](translations/README.ur.md)
-[🇵🇱](translations/README.pl.md)
-[🇵🇹](translations/README.pt-pt.md)
-[🇷🇺](translations/README.ru.md)
-[🇸🇦](translations/README.ar.md)
-[🇸🇪](translations/README.se.md)
-[:slovakia:](translations/README.slk.md)
-[:slovenia:](translations/README.sl.md)
-[🇹🇭](translations/README.th.md)
-[🇹🇷](translations/README.tr.md)
-[🇹🇼](translations/README.cht.md)
-[🇺🇦](translations/README.ua.md)
-[🇻🇳](translations/README.vn.md)
-[🇿🇦](translations/README.zul.md)
-[🇿🇦](translations/README.afk.md)
-[🇰🇪](translations/README.kws.md)
-[🇳🇬](translations/README.igb.md)
-[🇱🇻](translations/README.lv.md)
-[GUJ](translations/README.guj.md)
-
 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
@@ -166,7 +110,7 @@ git push origin <vnesete-ime-na-vashata-granka>
 
 Прославете ги вашите придонеси и споделете ги со пријатели и следители со посета на [веб-апликацијата](https://roshanjossey.github.io/first-contributions/#social-share).
 
-Можете да станете дел од нашиот slack team ако ви треба помош или имате прашања  [Стани дел](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+Можете да станете дел од нашиот slack team ако ви треба помош или имате прашања  [Стани дел](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Сега е време да започнете да допринесувате кон други проекти. Ние имаме создадено список со лесни проекти за да започнете. [Види ја листата](https://roshanjossey.github.io/first-contributions/#project-list).
 
