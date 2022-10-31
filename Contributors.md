@@ -342,6 +342,7 @@ main
 - [Dylan Messerly](https://github.com/CodeDTX11)
 - [Zhenya Mateyuk](https://github.com/jEUGENEdev/)
 - [Soy el Yisus](https://github.com/Jebushdd)
+- [Ilan Haim]
 - [Ayush Shete](https://github.com/ayushete02)
 - [Monazza Qadeer Khan] (https://github.com/monazza-qk92)
 - [Rishabh Gist](https://github.com/rishabhgist)
@@ -498,6 +499,8 @@ Enrique Javier
 - [bengsky13](https://github.com/bengsky13)
 - [RebeccaAmir] (https://github.com/RebeccaAmir)
 - [Ikhari] (https://github.com/Ikhari)
+- [mrcipo] (https://github.com/mrcipo)
+- [SM-creation] (https://github.com/shaman-004)
 - [jeongwoo903](https://github.com/jeongwoo903)
 - [Desmond-Fon](https://github.com/Desmond-Fon)
 - [Srijanya Durganala](https://github.com/Srijanya.D)
