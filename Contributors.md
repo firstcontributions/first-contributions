@@ -161,6 +161,7 @@
 - [Mauricio Quiroga] (https://github.com/MauricioQuiroga)
 - [Liang G. E.]
 - [Neil Kanakia](https://neilkanakia.xyz)
+- Chackochan Sebastian
 - [Sneha Mandal](https://github.com/sm-creative-crazy4code)
 - [Pranay Shende](https://github.com/PranayShende/)
 - [Jordanjun98](https://github.com/Jordanjun98)
