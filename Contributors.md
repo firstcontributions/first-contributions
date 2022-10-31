@@ -13,6 +13,7 @@
 - [Gabriel Fernandes](https://github.com/GabrielFernandes251)
 - [Surajit Dey Sarkar](https://github.com/Surajitds)
 - [Mohit Marathe](https://github.com/Mohit2758)
+- [Anmol Bansal](https://github.com/AnmolBansalDEV)
 - [Vijendra Pandey](https://github.com/VijendraPandey)
 - [Utpal Savaliya](https://github.com/utpalsavliya)
 - [mahalakshmikutcharlapati](https://github.com/mahalakshmikutcharlapati)
