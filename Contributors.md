@@ -152,9 +152,12 @@ pnordboj
 - [Sourabh Mehta](https://github.com/sm-sourabh)
 - [Raj Kumar](https://github.com/raj03kumar)
 - [Jayanth T](https://github.com/TriJayDore)
-- [jaytau](https://github.com/jay-tau)
+- [jaytau](https://github.com/jay-tau) 
+- [Tejal Tatiwar](https://tejaltatiwar.github.io/tejaltatiwarwebsite/)
+- [Muhammad Mukarram Asad](https://github.com/Muhammad-Mukarram-Asad)
 - [Saurabh Tribhuvan](https://github.com/saurabhAT28)
 - [Tejal Tatiwar](https://tejaltatiwar.github.io/tejaltatiwarwebsite/)
+main
 - [Chris Johannesson](https://chrisjohannesson.com)
 - [Archishman Das](https://github.com/starving-array)
 - [Abouar Prosper](https://github.com/4kpros/)
