@@ -290,6 +290,7 @@
 - [Mariam Lawal](https://github.com/Maerryham)
 - [ADITI-2003](https://github.com/ADITI-2003)
 - [Glitchr](https://github.com/Glitchr)
+- [bytesofbec](https://github.com/bytesofbec)
 - [Shabeeb PV](https://github.com/shabeebleo)
 - [Sakshi](https://github.com/sagupta8399)
 - [Krombopulos](https://github.com/krombopulos-eddie)
