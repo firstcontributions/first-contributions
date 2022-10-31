@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 <!-- prettier-ignore-start -->
 - [Deepak Rana Magar](https://github.com/DeepakRanaMagar)
 - [Nitin Kumar] (https://github.com/CKShere)
@@ -13,6 +13,7 @@
 - [Gabriel Fernandes](https://github.com/GabrielFernandes251)
 - [Surajit Dey Sarkar](https://github.com/Surajitds)
 - [Mohit Marathe](https://github.com/Mohit2758)
+- [Satarupa Deb]( https://github.com/Satarupa22-SD)
 - [Vijendra Pandey](https://github.com/VijendraPandey)
 - [Utpal Savaliya](https://github.com/utpalsavliya)
 - [mahalakshmikutcharlapati](https://github.com/mahalakshmikutcharlapati)
@@ -4612,6 +4613,7 @@ first contributions - hanyang univ.
 - [Parth Banker](https://github.com/Puzer-03)
 - [Mauryan Kansara] (https://github.com/MauryanKansara)
 - [Chirantan Degloorkar](https://github.com/Chirantan2)
+- [Praneeth Perera](https://github.com/paniya93)
 - [Mohamed Soliman] (https://github.com/m-saeed-soliman)
 - [Praneeth Perera](https://github.com/paniya93)
 - [Juan Tamayo](https://github.com/JuanJoT6)
