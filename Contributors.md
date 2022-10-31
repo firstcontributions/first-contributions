@@ -322,7 +322,6 @@
 - [Dex_Lulz](https://github.com/DexLulz)
 - [Will Chow](https://github.com/will-chow)
 - [Sk Tamim](https://github.com/SkTamim)
-- [Houssine Aadou](https://github.com/Dark-Lover)
 - [Tony Nonso Onwuli](https://github.com/TonyKodit)
 - [Sanjay RB](https://github.com/sanjay-rb)
 - [Rohit Pani](https://github.com/Rkpani05)
