@@ -4606,6 +4606,7 @@ first contributions - hanyang univ.
 - [Soumil Singh](https://github.com/soumil1)
 - [Sibindra Timalsina](https://github.com/Sibindra)
 - [Patrick Mahloy](https://github.com/ploymahloy/)
+- [fsdev01](https://github.com/fsdev01/)
 - [kamilpixel](https://github.com/kamilpixel)
 - [genki hoshino](https://github.com/genkihoshino02)
 - [Parth Banker](https://github.com/Puzer-03)
