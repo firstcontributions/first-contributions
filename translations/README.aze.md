@@ -11,7 +11,7 @@ _Əgər komanda sətri ilə rahat deyilsinizsə, [burada GUI alətlərindən ist
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-#### Maşınınızda (yəni, kompüterinizdə) GIT yoxdursa, [buradan quraşdıra bilərsiniz ](https://help.github.com/articles/set-up-git/).
+#### Maşınınızda (yəni, kompüterinizdə) GIT yoxdursa, [buradan quraşdıra bilərsiniz](https://help.github.com/articles/set-up-git/).
 
 ## Layihəni "çəngəlləmək"
 
