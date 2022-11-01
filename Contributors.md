@@ -432,6 +432,7 @@ Enrique Javier
 - [Jonatassn](https://github.com/jonatassn)
 - [Jackeline do Nascimento] (https://github.com/jackelinenascimento)
 - [Bo Louie]
+- [Sarthak Patel](https://github.com/sarthakworkspace)
 - [Ping](https://github.com/yaein-c)
 - [Michael Danilov](https://github.com/michaeld03)
 - [Hywenklis Rherbert](https://github.com/hywenklis)
