@@ -17,6 +17,8 @@ pnordboj
 - [Ryan Ignasiak](https://github.com/theravenousR)
 - [Yash Wake](https://github.com/yashwxd)
 - Praveen Bhawantha
+- [Nancy Adelice] (https://github.com/Adelice)
+
 - [James Hansen](https://github.com/jameszenartist)
 - [Gabriel Fernandes](https://github.com/GabrielFernandes251)
 - [Surajit Dey Sarkar](https://github.com/Surajitds)
