@@ -2020,6 +2020,7 @@ Add something here
 - [Hyun Sung Cho](https://github.com/hcho774)
 - [Devon Offutt](https://github.com/D-H0f)
 - [Said Lopez](https://github.com/SaidLopez)
+- [Henrik Habbestad](https://github.com/Habbski)
 - [Salar Rezaee](https://github.com/SalarRezaee)
 - [Yuvaraj Guru](https://github.com/yuvaguru)
 - [Coalby](https://github.com/coalby)
