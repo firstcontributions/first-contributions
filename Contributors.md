@@ -3499,6 +3499,7 @@ Fiyinfoluwa Afolayan
 - [Yes](github.com/hexsploit0x01)
 - [Khyati Gupta](https://twitter.com/Khyatigupta369)
 - [Tom Hooper](https://github.com/tom-hooper-91)
+- [TomFez](https://github.com/Tomfez)
 - [Ardy](https://github.com/ardyop)
 - [Arunesh Singh](https://github.com/arunesh-singh)
 - [dt215git](https://github.com/dt215git)
