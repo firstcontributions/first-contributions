@@ -3569,6 +3569,7 @@ Fiyinfoluwa Afolayan
 - [Sahil Shriwardhankar](https://github.com/notsointresting)
   [Dev jain](https://github.com/devjain2309)
 - [Usama Jamil](https://github.com/usamajamil67)
+- [Alex Kist] (https://github.com/akist529)
 - [Nas Issa](https://github.com/nasissa97)
 - [Shubham Kumar](https://github.com/ShubhamKumar1095)
 - [Krishanu Chakraborty](https://github.com/go4krishanu)
