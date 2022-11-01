@@ -29,28 +29,27 @@ IMPORTANT: DO NOT CLONE THE ORIGINAL REPO. Go to your fork and clone it.
 
 To clone the repo, click on "Code" and then copy the string down below.
 
-![1665924482220](image/git-bash-windows-tutorial/1665924482220.png)
+`code`
 
 Open the git bash application you just downloaded. It should look like the image down below if its on a windows machine.
 
-![1665924726832](image/git-bash-windows-tutorial/1665924726832.png)
+`<img style="left" src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-terminal-1.png" alt="open git bash terminal" />`
 
 Go to the folder that you want to save this project on by uisng this command
 
 `cd <folder>`
 
-![1665924951074](image/git-bash-windows-tutorial/1665924951074.png)
+`<img style="left" src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-terminal-2.png" alt="cd into a folder" />`
 
 Use the string you copied in the step above to clone the repository using this command
 
 `git clone <repo-url>`
 
-![1665925432192](image/git-bash-windows-tutorial/1665925432192.png)
+`<img style="left" src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-clone-2.png" alt="clone the repository" />`
 
 Go to the directory where the repo is and open it up on vs code to make your changes.
 
-![1665925533884](image/git-bash-windows-tutorial/1665925533884.png)
-
+`<img style="left" src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-terminal-3.png" alt="cd into the newly cloned repo" />`
 
 ## Create a branch
 
@@ -62,7 +61,7 @@ git checkout -b <branch-name>
 
 Name your branch `<add-your-name>`. For example, "add-james-smith"
 
-![1665925853225](image/git-bash-windows-tutorial/1665925853225.png)
+`<img style="left" src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-branch.png" alt="create a branch" />`
 
 ## Make necessary changes and commit those changes
 
@@ -76,21 +75,21 @@ You can see that there are changes to Contributors.md by simply running this com
 
 `git status`
 
-![1665926039664](image/git-bash-windows-tutorial/1665926039664.png)
+`<img style="left" src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-status.png" alt="check the status" />`
 
 Now commit those changes:
 
-First add the change you made to the staging area by using 
+First add the change you made to the staging area by using
 
 `git add file-name`
 
-Then write a commit message by sing this command 
+Then write a commit message by sing this command
 
 `git commit -m "Add your-name to Contributors list"`
 
 Replace `<your-name>` with your name.
 
-![1665926144960](image/git-bash-windows-tutorial/1665926144960.png)
+`<img style="left" src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-commit.png" alt="commit changes" />`
 
 To see if your commit has been made you can run a simple `git log --oneline` command.
 
@@ -100,7 +99,7 @@ Once you are done with the above steps you can push your changes by using this c
 
 `git push origin <branch-name>`
 
-![1665927159003](image/git-bash-windows-tutorial/1665927159003.png)
+`<img style="left" src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-push.png" alt="push changes" />`
 
 ## Submit your changes for review
 
