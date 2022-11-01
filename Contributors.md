@@ -36,6 +36,7 @@ pnordboj
 - [wfrsk](hhpts://github.com/wfrsk)
 - [Khalid-Hasan](https://github.com/khalidx3)
 - [Moustafa Hassan](https://github.com/MoustafaHassan1)
+- [Brendan Tuckerman](https://github.com/MrMaverick79/)
 - [CarmenResquin] (https://github.com/CarmenResquin)
 - [Obafemi Oludahunsi] (https://github.com/Obafemi-NG)
 - [SAHIL SINHA](https://github.com/SahilSinha007)
