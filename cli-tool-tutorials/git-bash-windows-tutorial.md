@@ -29,7 +29,7 @@ IMPORTANT: DO NOT CLONE THE ORIGINAL REPO. Go to your fork and clone it.
 
 To clone the repo, click on "Code" and then copy the string down below.
 
-`code`
+`<img style="left" src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-clone-1.png" alt="copy string" />`
 
 Open the git bash application you just downloaded. It should look like the image down below if its on a windows machine.
 
