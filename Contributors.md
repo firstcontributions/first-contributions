@@ -15,6 +15,7 @@ pnordboj
 - [Bojidar Vladimirov](https://github.com/BojidarV)
 - [Poyraz Bahcivan](https://github.com/poyrazbahcivan)
 - [Ryan Ignasiak](https://github.com/theravenousR)
+- [Chase Hunter](https://github.com/TaylorChaseHunter)
 - [Yash Wake](https://github.com/yashwxd)
 - Praveen Bhawantha
 - [James Hansen](https://github.com/jameszenartist)
