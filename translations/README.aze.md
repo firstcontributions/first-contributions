@@ -7,7 +7,7 @@
 
 Bu layihə yeni başlayanların ilk töhfələrini vermə yollarını sadələşdirmək və istiqamətləndirmək məqsədini daşıyır. İlk töhfənizi vermək istəyirsinizsə, aşağıdakı addımları izləyin.
 
-_Əgər komanda sətri ilə rahat deyilsinizsə, [burada GUI alətlərindən istifadə edən təlimatlar tapa bilərsiniz.](#Digər-texnologiyalar-haqqında-təlim )_
+_Əgər komanda sətri ilə rahat deyilsinizsə, [burada GUI alətlərindən istifadə edən təlimatlar tapa bilərsiniz.](#Digər-alətlərin-istifadəsi-üçün-təlimlər)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
