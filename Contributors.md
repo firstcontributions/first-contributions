@@ -89,6 +89,7 @@
 - [Aryam parmar](https://github.com/aryamparmar)
 - [JpArango](https://github.com/Jpkeys29)
 - [Vandit1920](https://github.iu.edu/vanjain)
+- [Ashbel Lama](https://github.com/Ashdevelopernewbie)
 - [Priyanshi Rai](https://github.com/Priyanshi-Rai)
 - [Pratheeksha R](https://github.com/035pratheeksha)
 - [Someshfengde](https://github.com/someshfengde)
