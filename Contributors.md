@@ -460,6 +460,7 @@ Enrique Javier
 - [Jonatassn](https://github.com/jonatassn)
 - [Jackeline do Nascimento] (https://github.com/jackelinenascimento)
 - [Bo Louie]
+- [Sarthak Patel](https://github.com/sarthakworkspace)
 - [Ping](https://github.com/yaein-c)
 - [Shubharthi Nath](https://github.com/shubharthinath)
 - [Michael Danilov](https://github.com/michaeld03)
