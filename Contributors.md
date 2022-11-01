@@ -229,6 +229,7 @@ main
 - [Lucas Mellone](https://github.com/lknknm)
 - [Varun Shinde](https://github.com/varuns1007)
 - [HaibaoM55](https://github.com/HaibaoM55)
+- [Alex Feller](https://github.com/betaper)
 - [Manmeet Kaur](https://github.com/Manmeet2607)
 - [AbelValencia](https://github.com/AbelValencia)
 - [shilpa shingnapure](https://github.com/shilpashingnapure)
