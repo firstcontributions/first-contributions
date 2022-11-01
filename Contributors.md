@@ -46,6 +46,7 @@ pnordboj
 - [CarmenResquin] (https://github.com/CarmenResquin)
 - [Rounak Shrestha](https://github.com/Rounak-stha)
 - [Obafemi Oludahunsi] (https://github.com/Obafemi-NG)
+- [James Hunter] (https://github.com/Jameshunter1)
 - [SAHIL SINHA](https://github.com/SahilSinha007)
 - [Sarthak Mittal](https://github.com/SarthakMittal777)
 - [Luisa Haase](https://github.com/luisaha)
