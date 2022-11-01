@@ -26,6 +26,7 @@ pnordboj
 - [Edwin Kim](https://github.com/edwinkim97)
 - [Henrikas Budrys](https://github.com/hbportfolio)
 - [Vijendra Pandey](https://github.com/VijendraPandey)
+- [Erik Opinaldo](https://github.com/erikopinaldo)
 - [Utpal Savaliya](https://github.com/utpalsavliya)
 - [mahalakshmikutcharlapati](https://github.com/mahalakshmikutcharlapati)
 - [randose](https://github.com/randose)
