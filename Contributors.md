@@ -2201,6 +2201,7 @@
 - [Jaqueline Caamal](https://github.com/JaquelineCaamal)
 - [Harrison Matthews](https://github.com/H-Matthews)
 - [Alexander Zurawski](https://github.com/AZurawski)
+- [Wise](https://github.com/wise-guru)
 
 - [Rodolfo Cabral Neves](https://github.com/roddas)
 - [VenomAI](https://github.com/venomboss985)
