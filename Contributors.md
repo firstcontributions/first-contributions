@@ -6,6 +6,7 @@ pnordboj
 - [Aysu Toprak](https://github.com/aysutoprak)
 - [Nitin Kumar] (https://github.com/CKShere)
 - [Olayinka Olasimbo](https://github.com/donwaikay)
+- [Carlos Luque] (https://github.com/carlosluque)
 - [Benjamin Morgiewicz](https://github.com/BaseBenjamin13)
 - [Aman Bharti](https://github.com/aman0ab)
 - [Archishman Dash](https://www.github.com/aholic-archie)
