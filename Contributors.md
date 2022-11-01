@@ -102,6 +102,7 @@ pnordboj
 - [Mustafa Bhm](https://github.com/mustafa-bhm)
 - [Iman Crooks](https://github.com/iqtheengineer)
 - [JJW Roeloffs](https://github.com/JJWRoeloffs)
+- [Steffenkr](https://github.com/steffenkr97)
 - [Satvik Nanda](https://github.com/SatvikNanda)
 - [Badal Kumar] (https://github.com/mrdevil0-9)
 - [Kavyadeep Dev](https://github.com/kavyadeepdev)
