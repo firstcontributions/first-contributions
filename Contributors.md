@@ -141,6 +141,7 @@ pnordboj
 - [Kely Sarmi](https://github.com/kelysi)
 - [Adit Bhargava](https://github.com/zcsop1206)
 - [Tanu Singh](https://github.com/TanuSingh17)
+  [Adarsh Sharma](https://github.com/Adarsh1885)
 - [Shreyas Bhagwat](https://github.com/ShreyasBhagwat)
 - [Sahil Barsaiyan](https://github.com/Sahilb12)
 - [Dario Gumucio](https://github.com/dariogumucio)
