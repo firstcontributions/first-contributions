@@ -30,6 +30,7 @@ pnordboj
 - [Chandan Arya](https://github.com/alpha2lucifer)
 - [suman](https://github.com/sumanghosh13)
 - [nah yi yun](https://github.com/koalalalabear)
+- [Stephen Silveira](https://github.com/stephen-silveira)
 - [Anmol Bansal](https://github.com/AnmolBansalDEV)
 - [Chirayu Pancholi](https://github.com/Chirayu31)
 - [AnushaPalle](https://github.com/AnushaPalle)
