@@ -1841,6 +1841,7 @@ Add something here
 - [Abhishek Mishra](https://github.com/AbhiMishra-Now)
 - [Gelio](https://github.com/bigelio)
 - [Velvv](https://github.com/Velvv)
+- [Tamzid Hossain](https://github.com/mthossain90)
 - [Aaditya Khetwani](https://github.com/Aaditya-1023)
 - [Litania Chauke](https://github.com/litaniachauke)
 - [Michaella Rodriguez](https://github.com/michaella23)
@@ -4648,4 +4649,4 @@ first contributions - hanyang univ.
 - [Samprati Vyawahare](https://github.com/Sampratii)
 - [Christopher Hranj](https://github.com/brodan)
 - [Luz Zapata](https://github.com/LuZapata)
--
+
