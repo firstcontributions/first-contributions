@@ -95,6 +95,7 @@ pnordboj
 - [Mustafa Bhm](https://github.com/mustafa-bhm)
 - [Iman Crooks](https://github.com/iqtheengineer)
 - [JJW Roeloffs](https://github.com/JJWRoeloffs)
+- [Steffenkr](https://github.com/steffenkr97)
 - [Satvik Nanda](https://github.com/SatvikNanda)
 - [Badal Kumar] (https://github.com/mrdevil0-9)
 - [Kavyadeep Dev](https://github.com/kavyadeepdev)
@@ -198,6 +199,7 @@ pnordboj
 - [Zwel Htet](https://github.com/zweldev)
 - [JDcs](https://github.com/johndoecs)
 - [Ozuem Eugene](https://github.com/preeaacchh)
+
 - James Pow
 - Eleeka Nongthombam(https://github.com/EleekaN)
 - [May Oo](https://github.com/mayoo)
