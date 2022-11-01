@@ -4646,4 +4646,5 @@ first contributions - hanyang univ.
 - [Samprati Vyawahare](https://github.com/Sampratii)
 - [Christopher Hranj](https://github.com/brodan)
 - [Luz Zapata](https://github.com/LuZapata)
+- [Vinícius Beloni](https://github.com/vinibeloni)
 -
