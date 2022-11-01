@@ -2261,6 +2261,7 @@ Fiyinfoluwa Afolayan
 - [JastinXyz](https://github.com/JastinXyz)
 - [Vandit Shah](https://github.com/vanditshah44)
 - [Aniket](https://github.com/Aniketbhatia)
+- [Stefan Chambov](https://github.com/stefan5441)
 - [Fernando Iván Padin](https://github.com/Fipadin)
 - [Tejas Kulkarni](https://github.com/tejaskulkarni28)
 - [Amine Essamet](https://github.com/aminessamet)
