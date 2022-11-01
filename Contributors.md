@@ -66,6 +66,7 @@ pnordboj
 - [Emmanuel Mensah](https://github.com/principles31)
 - [FeeeDz] (https://github.com/FeeeDz)
 - [Yufeng Liu] (https://github.com/yufengliu15)
+- [Alex Song](https://github.com/TheRealAlexSong)
 - [mahalakshmikutcharlapati](https://github.com/mahalakshmikutcharlapati)
 - [Praddyum Verma](https://praddy2009.github.io/)
 - [Divyanshu Singhal](https://github.com/divyanshu9821)
