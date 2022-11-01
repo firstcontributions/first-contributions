@@ -1,6 +1,7 @@
 ﻿# Contributors
 <!-- prettier-ignore-start -->
 pnordboj
+- [ Tomiwa ](https://github.com/Thor-miwa)
 - [Deepak Rana Magar](https://github.com/DeepakRanaMagar)
 - [Aysu Toprak](https://github.com/aysutoprak)
 - [Nitin Kumar] (https://github.com/CKShere)
