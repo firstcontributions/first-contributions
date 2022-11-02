@@ -978,6 +978,7 @@ Enrique Javier
 -[Aditya Rathore](https://github.com/adiiiiittyya)
 [Aishwary Singh](https://github.com/aishwarysingh7754)
 - [Saumya Chaudhary](https://github.com/Saumya9425)
+- [Craig Leppan] (https://github.com/yoyozi)
 - [Rakesh Sahu](https://github.com/rakeshsahu15)
 - [Siggy73](https://github.com/Siggy73)
 - [Olayinka Adebisi](https://github.com/Olaaa30)
@@ -4685,3 +4686,4 @@ first contributions - hanyang univ.
 - [Moomin](https://github.com/SATERIAJIAYING)
 - [Yuheng Wu](https://github.com/LinkTechTips)
 - [Shaban Nastya](https://github.com/ShabanNastya)
+
