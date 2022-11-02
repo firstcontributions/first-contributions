@@ -52,6 +52,7 @@ pnordboj
 - [Jisan-mia](https://github.com/Jisan-mia)
 - [Gideon Opoku](https://github.com/nana562)
 - [wfrsk](hhpts://github.com/wfrsk)
+- [tobiasesko](https://github.com/tobiasesko)
 - [Khalid-Hasan](https://github.com/khalidx3)
 - [Moustafa Hassan](https://github.com/MoustafaHassan1)
 - [Brendan Tuckerman](https://github.com/MrMaverick79/)
