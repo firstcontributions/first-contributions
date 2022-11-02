@@ -27,6 +27,7 @@ pnordboj
 - Praveen Bhawantha
 - [James Hansen](https://github.com/jameszenartist)
 - [Gabriel Fernandes](https://github.com/GabrielFernandes251)
+- [Lorenzo Francisco](https://github.com/lozo6)
 - [Surajit Dey Sarkar](https://github.com/Surajitds)
 - [Mohit Marathe](https://github.com/Mohit2758)
 - [Satarupa Deb]( https://github.com/Satarupa22-SD)
