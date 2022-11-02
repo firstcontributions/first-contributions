@@ -30,6 +30,7 @@ pnordboj
 - [Yash Wake](https://github.com/yashwxd)
 - Praveen Bhawantha
 - [James Hansen](https://github.com/jameszenartist)
+- [Brandon Andrews](https://github.com/brandrewsss)
 - [Gabriel Fernandes](https://github.com/GabrielFernandes251)
 - [Lorenzo Francisco](https://github.com/lozo6)
 - [Surajit Dey Sarkar](https://github.com/Surajitds)
