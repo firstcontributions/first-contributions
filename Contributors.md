@@ -2909,6 +2909,7 @@ Fiyinfoluwa Afolayan
 - [khaled al hamwie](https://github.com/khaled-al-hamwie)
 - [Himanshu Sagar](https://github.com/himanshu-sagar)
   Raghunath
+  [Alejandro Fisman](https://github.com/afisman)
 - [Itay Abuhazera](https://github.com/ItayAbuhazera)
 - [Koushik](https://github.com/vckoushik)
 - [Ignatius Obiorah](https://github.com/ignatiusobiorah)
