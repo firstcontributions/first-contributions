@@ -91,8 +91,8 @@ pnordboj
 - [Nikita Sharma]
 - [Dipto](https://github.com/kdipto1)
 - [Justina Mason] (https://github.com/CherryBlossomTree)
-- [Chris Walker] (https://github.com/ChrisCodes271)
 - [Rahul Dogra] (https://github.com/Gua00va)
+- [Chris Walker] (https://github.com/ChrisCodes271)
 - [N Sankaranarayanan](https://github.com/nsankar1987)
 - [AR9157](https://github.com/AR9157)
 - [mrrob0to] (https://github.com/mrrob0to)
