@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 pnordboj
 - [chenqy9](https://github.com/chenqy9)
+- [Ayoub Hassaine](https://github.com/fablorv)
 - [ Tomiwa ](https://github.com/Thor-miwa)
 - [Deepak Rana Magar](https://github.com/DeepakRanaMagar)
 - [Aysu Toprak](https://github.com/aysutoprak)
