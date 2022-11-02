@@ -219,6 +219,7 @@
 - [Prakhar Bhatia](https://github.com/prakharbhatia4)
 - [vinthara](https://github.com.vinthara)
 - [Vaibhavi Gaur](https://github.com/vai14-gaur)
+- [Julio Lezcano](https://github.com/lezcano17)
 - [Jeevan Muthu]
 - [Ahmad Bin Abdul Jabbar](https://github.com/AhmadBinAbdulJabbar)
 - [Riva Parvez]
