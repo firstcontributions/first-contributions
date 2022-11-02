@@ -4690,3 +4690,4 @@ first contributions - hanyang univ.
 - [Shaban Nastya](https://github.com/ShabanNastya)
 - [qubaitian](https://github.com/qubaitian)
 - [Volodymyr Pavluchynskyi](https://github.com/Noumert)
+- [Syed Nazeer Ahmed](https://github.com/Syednazeerahmed)
