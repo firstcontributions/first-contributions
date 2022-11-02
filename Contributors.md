@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 <!-- prettier-ignore-start -->
 pnordboj
 - [chenqy9](https://github.com/chenqy9)
@@ -9,6 +9,7 @@ pnordboj
 - [Deepak Rana Magar](https://github.com/DeepakRanaMagar)
 - [Mustafa Mansy](https://github.com/xmansyx)
 - [Aysu Toprak](https://github.com/aysutoprak)
+- [Yazid Kurdi](https://github.com/YazidKurdi)
 - [Himanshu Soni](https://github.com/H1s1)
 - [Nitin Kumar] (https://github.com/CKShere)
 - [Md Irfan] (https://github.com/irfan7839)
