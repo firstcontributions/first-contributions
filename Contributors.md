@@ -48,6 +48,7 @@ pnordboj
 - [nah yi yun](https://github.com/koalalalabear)
 - [Stephen Silveira](https://github.com/stephen-silveira)
 - [Anmol Bansal](https://github.com/AnmolBansalDEV)
+- [Adeolu Oyinlola](https://github.com/deoluoyinlola)
 - [bohemian-x] (https://github.com/bohemiancode-x)
 - [Chirayu Pancholi](https://github.com/Chirayu31)
 - [AnushaPalle](https://github.com/AnushaPalle)
