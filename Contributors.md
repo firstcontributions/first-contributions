@@ -670,6 +670,7 @@ Enrique Javier
 - [Niharika Palleyi] (https://github.com/niharikapalleyi)
 - [Abdul Wahab][https://github.com/wahabmangat]
 - [Mohammad Rahi](https://github.com/mohammad-rahi)
+- [Tom McAloon](https://github.com/tpmcaloon)
 - [Muhammed Musaddique](https://github.com/zmusaddique)
 - [Rishi Mathur](https://github.com/skyrunner360)
 - [Ajay Bairwa](https://github.com/bairwa25)
