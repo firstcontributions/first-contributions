@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 pnordboj
 - [chenqy9](https://github.com/chenqy9)
+- [Blake Bollinger](https://github.com/blakebollinger)
 - [mukulgaur](https://github.com/MukulGaur)
 - [Ayoub Hassaine](https://github.com/fablorv)
 - [ Tomiwa ](https://github.com/Thor-miwa)
