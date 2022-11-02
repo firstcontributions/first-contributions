@@ -4591,6 +4591,7 @@ first contributions - hanyang univ.
 - [Md Nuruzzaman Chowdhury](https://github.com/devnuru)
 - [ezhonghu](https://github.com/ErzhongHoo)
 - [Wellington Ribeiro](https://github.com/WellingtonSI)
+- [Seungbong Lee](https://github.com/Bongus-L)
 - [Giovani Claro Moraes](https://github.com/Krydelmany)
 - [Bodhdipta Roy](https://github.com/bodhdipta-roy)
 - [Dicka Ismaji](https://github.com/dicka88)
@@ -4704,3 +4705,4 @@ first contributions - hanyang univ.
 - [Volodymyr Pavluchynskyi](https://github.com/Noumert)
 - [xqill275](https://github.com/xqill275)
 - [Najmul Hasan](https://github.com/ImShuvo)
+
