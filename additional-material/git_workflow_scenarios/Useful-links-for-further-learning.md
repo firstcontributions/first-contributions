@@ -41,4 +41,6 @@ This document is dedicated to all the tips and tricks websites, blog posts, and 
 36. [10 Days of Git and Github](https://github.com/Asabeneh/10-days-of-git-and-github)
 37. [Keyboard shortcuts for Github](https://docs.github.com/en/get-started/using-github/keyboard-shortcuts)
 38. [Complete Git and GitHub Tutorial by Kunal Kushwaha](https://www.youtube.com/watch?v=apGV9Kg7ics&ab_channel=KunalKushwaha)
+39. [Learn complete Git and Github in 1 video | Open-source Contribution | Linux commands & tricks](https://www.youtube.com/watch?v=uaeKhfhYE0U&ab_channel=AnujBhaiya)
+
 Keep adding more links, that you find helpful.
