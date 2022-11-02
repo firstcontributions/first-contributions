@@ -40,6 +40,7 @@ pnordboj
 - [Stephen Silveira](https://github.com/stephen-silveira)
 - [Anmol Bansal](https://github.com/AnmolBansalDEV)
 - [bohemian-x] (https://github.com/bohemiancode-x)
+- Akshay
 - [Chirayu Pancholi](https://github.com/Chirayu31)
 - [AnushaPalle](https://github.com/AnushaPalle)
 - [Hemant Lohar] (https://github.com/Hemant-Lohar)
