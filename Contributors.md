@@ -405,6 +405,7 @@ main
 - [Smart-Peach](https://github.com/Smart-Peach)
 - [Siddhant](https://github.com/SiddJ01)
 - [JSalinas](https://github.com/javier-salinas)
+- [Davies Jeffrey](https://github.com/djokhar05)
 - [Hailey Steineke](https://github.com/hdsteineke)
 - [Abishek Reddy](https://github.com/Abishek-Reddy)
 - [Sahil Wankhade](https://github.com/ArcheR1901)
