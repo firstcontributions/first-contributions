@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 pnordboj
 - [chenqy9](https://github.com/chenqy9)
+- [mukulgaur](https://github.com/MukulGaur)
 - [Ayoub Hassaine](https://github.com/fablorv)
 - [ Tomiwa ](https://github.com/Thor-miwa)
 - [Deepak Rana Magar](https://github.com/DeepakRanaMagar)
@@ -303,6 +304,7 @@ main
 - [Prakhar Bhatia](https://github.com/prakharbhatia4)
 - [vinthara](https://github.com.vinthara)
 - [Vaibhavi Gaur](https://github.com/vai14-gaur)
+- [Julio Lezcano](https://github.com/lezcano17)
 - [Jeevan Muthu]
 - [Ahmad Bin Abdul Jabbar](https://github.com/AhmadBinAbdulJabbar)
 - [Riva Parvez]
@@ -4695,3 +4697,4 @@ first contributions - hanyang univ.
 - [Volodymyr Pavluchynskyi](https://github.com/Noumert)
 - [xqill275](https://github.com/xqill275)
 - [khodesaeed](https://github.com/Khodesaeed)
+
