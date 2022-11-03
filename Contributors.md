@@ -23,6 +23,7 @@
 - [Vaibhavi Gaur](https://github.com/vai14-gaur)
 - [Bestin K Benny](https://github.com/bestin015)
 - [Chani](https://github.com/ChaniDev)
+- [Anupriya](https://github.com/Anu-2003)
 - [Dhruv](https://github.com/Elektrikk)
 -[Facuguinobart](https://github.com/Facuguinobart)
 - [Meet Vansjaliya](https://github.com/meetvansjaliya)
