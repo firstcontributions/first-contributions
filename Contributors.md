@@ -3,6 +3,7 @@
 - [shauryas](https://github.com/shauryas)
 pnordboj
 - [chenqy9](https://github.com/chenqy9)
+- [salimshamim](https://github.com/salimshamim)
 - [Blake Bollinger](https://github.com/blakebollinger)
 - [Shuruzer](https://github.com/shadow3312)
 - [mukulgaur](https://github.com/MukulGaur)
