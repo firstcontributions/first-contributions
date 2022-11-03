@@ -2300,6 +2300,7 @@ Fiyinfoluwa Afolayan
 - [Tanay Telsinge](https://github.com/tanayTelsinge)
 - [John Zabula](https://github.com/konzab)
 - [Tyler Lutz](https://github.com/tyler-lutz)
+- [Markus Kurz](https://github.com/git-MarkusKurz)
 - [Krupa Thumar]
 - [Imran Biswas]
 - [Asyraf Mustaqim]
