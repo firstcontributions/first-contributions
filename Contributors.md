@@ -1,5 +1,6 @@
 ﻿# Contributors
 <!-- prettier-ignore-start -->
+- [shauryas](https://github.com/shauryas)
 pnordboj
 - [chenqy9](https://github.com/chenqy9)
 - [Blake Bollinger](https://github.com/blakebollinger)
