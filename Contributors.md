@@ -934,7 +934,7 @@ Enrique Javier
 - [hawkiq](https://github.com/hawkiq)
 -[serge kinouani](https://github.com/kinouani52)
 - [Jann Marc Villablanca](https://github.com/jfvillablanca)
-- [Richard Aguilar](https://github.com/RichAguil)
+- [Richard Aguilar](https://github.com/RichAguil) 
 - [Sri Ram](https://github.com/sriram-km)
 - [Melissa Kirabo](https://github.com/melissakirabo)
 - [Avicii_029](https://github.com/avicii029)
