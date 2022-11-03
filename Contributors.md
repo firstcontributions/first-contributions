@@ -27,6 +27,7 @@ pnordboj
 - [Aman Bharti](https://github.com/aman0ab)
 - [Archishman Dash](https://www.github.com/aholic-archie)
 - [Craig Leppan] (https://github.com/yoyozi)
+- [Josh Mayeda] (https://github.com/joshmayeda)
 - [Chhabi Acharya](https://github.com/Chhabii)
 - [Jeevan Naik](https://github.com/JeevanNaikOP)
 - [Bojidar Vladimirov](https://github.com/BojidarV)
