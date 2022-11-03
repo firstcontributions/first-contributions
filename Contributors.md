@@ -4717,3 +4717,4 @@ first contributions - hanyang univ.
 - [Gustavo Henrique Alves](https://github.com/gu-alves)
 - [Andrew Mackin](https://github.com/andrewmackin/)
 - [Nikhil Sharma](https://github.com/nikneal91/)
+- [Khushi Singh](https://github.com/khugitshii) 
