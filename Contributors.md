@@ -4197,6 +4197,7 @@ Fiyinfoluwa Afolayan
 - [SarthakA24](https://github.com/SarthakA24/)
 - [Aditya Chaurasia](https://github.com/ChaurasiaAditya)
 - [Aryan Bakshi](https://github.com/aryan-bakshii):
+- [Jack Huang](https://github.com/flamingduck0)
 - [Berlian Fatimah](https://github.com/berlianfatimah)
 - [Aman Mittal](https://github.com/amanmitt)
 - [Animesh Dhakal](https://github.com/animeshdhakal)
