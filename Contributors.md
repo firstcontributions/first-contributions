@@ -3,6 +3,7 @@
 pnordboj
 - [chenqy9](https://github.com/chenqy9)
 - [Blake Bollinger](https://github.com/blakebollinger)
+- [Shuruzer](https://github.com/shadow3312)
 - [mukulgaur](https://github.com/MukulGaur)
 - [Ayoub Hassaine](https://github.com/fablorv)
 - [ Tomiwa ](https://github.com/Thor-miwa)
