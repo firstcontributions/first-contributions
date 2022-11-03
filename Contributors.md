@@ -29,6 +29,7 @@ pnordboj
 - [Chase Hunter](https://github.com/TaylorChaseHunter)
 - [Yash Wake](https://github.com/yashwxd)
 - Praveen Bhawantha
+- [Ishmael Peavy] (https://github.com/ipeavy)
 - [James Hansen](https://github.com/jameszenartist)
 - [Brandon Andrews](https://github.com/brandrewsss)
 - [Gabriel Fernandes](https://github.com/GabrielFernandes251)
