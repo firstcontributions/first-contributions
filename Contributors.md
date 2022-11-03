@@ -8,6 +8,7 @@ pnordboj
 - [Ayoub Hassaine](https://github.com/fablorv)
 - [ Tomiwa ](https://github.com/Thor-miwa)
 - [Deepak Rana Magar](https://github.com/DeepakRanaMagar)
+-[Shivam Srivastava](https://github.com/shivam-srivas)
 - [Mustafa Mansy](https://github.com/xmansyx)
 - [Aysu Toprak](https://github.com/aysutoprak)
 - [Yazid Kurdi](https://github.com/YazidKurdi)
