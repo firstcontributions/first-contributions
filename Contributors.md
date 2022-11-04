@@ -4746,3 +4746,4 @@ first contributions - hanyang univ.
 - [lukasthevicious](https://github.com/lukasthevicious)
 - [Khushi Singh](https://github.com/khugitshii)
 - [Axel Martin](https://github.com/AxlMrt)
+- [Daniel Boakye](https://github.com/D-artisan)
