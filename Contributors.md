@@ -48,6 +48,7 @@ pnordboj
 - [Yash Wake](https://github.com/yashwxd)
 - Praveen Bhawantha
 - [Ishmael Peavy] (https://github.com/ipeavy)
+- [Joker-CDSS-Abasiediedu] (https://github.com/Joker-CDSS)
 - [James Hansen](https://github.com/jameszenartist)
 - [Brandon Andrews](https://github.com/brandrewsss)
 - [Gabriel Fernandes](https://github.com/GabrielFernandes251)
