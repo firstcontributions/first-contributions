@@ -9,6 +9,7 @@ pnordboj
 - [Shuruzer](https://github.com/shadow3312)
 - [ZhijunWang1991](https://github.com/ZhijunWang1991)
 - [Gatien Gnakou-Edjambo](https://github.com/princinho)
+- [Suraj Mhatre](https://github.com/suraj-py)
 - -[Joshua](https://github.com/Joshua-Dias-Barreto)
 - [mukulgaur](https://github.com/MukulGaur)
 - [martindwyer] (https://github.com/martindwyer)
