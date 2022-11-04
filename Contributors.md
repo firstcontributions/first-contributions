@@ -4613,6 +4613,7 @@ first contributions - hanyang univ.
 - [Md Nuruzzaman Chowdhury](https://github.com/devnuru)
 - [ezhonghu](https://github.com/ErzhongHoo)
 - [Wellington Ribeiro](https://github.com/WellingtonSI)
+- [Seungbong Lee](https://github.com/Bongus-L)
 - [Giovani Claro Moraes](https://github.com/Krydelmany)
 - [Bodhdipta Roy](https://github.com/bodhdipta-roy)
 - [Dicka Ismaji](https://github.com/dicka88)
