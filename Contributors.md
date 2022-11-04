@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [waydawnt] (https://github.com/waydawnt)
 - [shauryas](https://github.com/shauryas)
 pnordboj
 - [chenqy9](https://github.com/chenqy9)
