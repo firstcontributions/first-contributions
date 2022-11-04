@@ -26,6 +26,7 @@ pnordboj
 - [eeju] (https://github.com/neerajkambojin)
 - [Carlos Luque] (https://github.com/carlosluque)
 - [Benjamin Morgiewicz](https://github.com/BaseBenjamin13)
+- [Sabir Khan](https://github.com/simplysabir)
 - [Aman Bharti](https://github.com/aman0ab)
 - [Archishman Dash](https://www.github.com/aholic-archie)
 - [Juanma Romero](https://github.com/juanmaroni/)
