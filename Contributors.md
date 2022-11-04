@@ -28,6 +28,7 @@ pnordboj
 - [Benjamin Morgiewicz](https://github.com/BaseBenjamin13)
 - [Aman Bharti](https://github.com/aman0ab)
 - [Archishman Dash](https://www.github.com/aholic-archie)
+- [Juanma Romero](https://github.com/juanmaroni/)
 - [Craig Leppan] (https://github.com/yoyozi)
 - [Josh Mayeda] (https://github.com/joshmayeda)
 - [Chhabi Acharya](https://github.com/Chhabii)
