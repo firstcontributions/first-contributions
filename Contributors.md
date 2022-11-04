@@ -118,6 +118,7 @@ pnordboj
 - [Divyanshu Singhal](https://github.com/divyanshu9821)
 - [bhavana] (https://github.com/bhavana-263)
 - [Don Chisolm](https://github.com/Donchiz77)
+- [Usman Khan](https://github.com/UsmanK7)
 - [Shannon Torcato](https://github.com/shannontorcato)
 - [DaneeSkripter](htttps://github.com/daneeskripter)
 - [Sneha Kumari](https://github.com/Codewithsneha0)
