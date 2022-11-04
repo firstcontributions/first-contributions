@@ -7,6 +7,7 @@ pnordboj
 - [salimshamim](https://github.com/salimshamim)
 - [Blake Bollinger](https://github.com/blakebollinger)
 - [Shuruzer](https://github.com/shadow3312)
+- [Gatien Gnakou-Edjambo](https://github.com/princinho)
 - -[Joshua](https://github.com/Joshua-Dias-Barreto)
 - [mukulgaur](https://github.com/MukulGaur)
 - [martindwyer] (https://github.com/martindwyer)
