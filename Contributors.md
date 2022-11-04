@@ -4753,3 +4753,4 @@ first contributions - hanyang univ.
 - [Khushi Singh](https://github.com/khugitshii)
 - [Axel Martin](https://github.com/AxlMrt)
 - [Angusson](https://github.com/Angusson)
+- [Zsolt Kacsandi](https://github.com/zsoltkacsandi)
