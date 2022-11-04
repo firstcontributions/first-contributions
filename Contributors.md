@@ -88,6 +88,7 @@ pnordboj
 - [Ishita Batra](https://github.com/ishita6)
 - [Edving Morales]
 - [Bobby]
+- [Lucia Rigoni](https://github.com/luciarigoni)
 - [AutumLeaf]
 - [Devanshu Mahapatra](https://github.com/Devanshu-17)
 - [ArteyRT] (https://github.com/ArteyRT)
