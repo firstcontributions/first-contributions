@@ -286,8 +286,10 @@ main
 - [Gaurav Agrawal](https://github.com/gauravzuse)
 - [Adrien Jalouneix](https://github.com/Adrienjal98)
 - [Ujwal Thote](https://github.com/ujwalthote)
+- [Aniket Gupta](https://github.com/Aniket0902)
 - [Gavin Knudsen]
 - [Nikhil Chinchore]
+
 - [Siddharth Singh](https://github.com/siddharthqs/rust_quant)
 - [Akshay Jain](https://github.com/rudeakshay)
 - [Sujith P](https://github.com/Alfa-ZORO)
@@ -346,6 +348,7 @@ main
 - [Sole Ortiz](https://github.com/SoleOrtiz/)
 - [Ankit Kumar](https://github.com/ankitkumar3440)
 - [Aniket Ghosh](https://github.com/quanta003)
+
 - [Sergey Novikov] (https://github.com/Isn0v)
 - That guy
 - [Danny](https://github.com/DanFCo)
