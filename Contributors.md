@@ -4753,4 +4753,5 @@ first contributions - hanyang univ.
 - [lukasthevicious](https://github.com/lukasthevicious)
 - [Khushi Singh](https://github.com/khugitshii)
 - [Axel Martin](https://github.com/AxlMrt)
+- [lukastheviciouss](https://github.com/lukasthevicious)
 - [Angusson](https://github.com/Angusson)
