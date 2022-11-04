@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Matteo DeSimone](github.com/TheMatteoD)
 - [shauryas](https://github.com/shauryas)
 pnordboj
 - [chenqy9](https://github.com/chenqy9)
