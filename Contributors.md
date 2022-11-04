@@ -4730,4 +4730,5 @@ first contributions - hanyang univ.
 - [Andrew Mackin](https://github.com/andrewmackin/)
 - [Nikhil Sharma](https://github.com/nikneal91/)
 - [lukasthevicious](https://github.com/lukasthevicious)
-- [Khushi Singh](https://github.com/khugitshii) 
+- [Khushi Singh](https://github.com/khugitshii)
+- [Axel Martin](https://github.com/AxlMrt)
