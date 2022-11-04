@@ -147,6 +147,7 @@ pnordboj
 - [Steffenkr](https://github.com/steffenkr97)
 - [Divakar](https://github.com/diva-21)
 - [Satvik Nanda](https://github.com/SatvikNanda)
+- [Devinder Singh](https://github.com/devinpi)
 - [Badal Kumar] (https://github.com/mrdevil0-9)
 - [Kavyadeep Dev](https://github.com/kavyadeepdev)
 - [Aditya Mundas] (https://github.com/am1671)
