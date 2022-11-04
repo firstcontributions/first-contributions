@@ -44,6 +44,7 @@ pnordboj
 - [Bojidar Vladimirov](https://github.com/BojidarV)
 - [Poyraz Bahcivan](https://github.com/poyrazbahcivan)
 - [Ryan Ignasiak](https://github.com/theravenousR)
+- [Arman Hadzigrahic](https://github.com/armeono)
 - [Andreas](https://github.com/Andreas1593)
 - [Chase Hunter](https://github.com/TaylorChaseHunter)
 - [Yash Wake](https://github.com/yashwxd)
