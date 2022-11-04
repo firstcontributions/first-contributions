@@ -1483,7 +1483,7 @@ Add something here
 - [HaJinYong](https://github.com/jsh0512)
 - [Madhumitha](https://github.com/Madhu-29)
 - [Harjaspreet Singh](https://github.com/harjasDot)
-  [BARD](https://github.com/Bard2803)
+- [BARD](https://github.com/Bard2803)
 - [Chinmay Kotkar](https://github.com/Chinmay-03)
 - [Hirday Gupta](hirdaygupta1119/first-contributions)
 - [Ameen Ur Rehman](https://github.com/AmeenUrRehman)
