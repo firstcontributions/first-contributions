@@ -102,6 +102,7 @@ pnordboj
 - [Edving Morales]
 - [Bobby]
 - [Lucia Rigoni](https://github.com/luciarigoni)
+- [M.Nisar Ali](https://github.com/MNisarAli)
 - [AutumLeaf]
 - [Devanshu Mahapatra](https://github.com/Devanshu-17)
 - [ArteyRT] (https://github.com/ArteyRT)
