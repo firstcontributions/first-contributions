@@ -3292,6 +3292,7 @@ Fiyinfoluwa Afolayan
 - [Kenneth Afegbai A](https://github.com/kennethafegbai)
 - [Debojit Pushilal](https://github.com/Evoder15)
 - [Deepak Singh](https://github.com/deepak427)
+- [Adam Perlin](https://github.com/adamPerlin1)
 - [MSweeley](https://github.com/MSweeley/)
 - [Deepak C L](https://github.com/MightyFellow)
 - [Raphael Radespiel](https://github.com/Raphael-Radespiel)
