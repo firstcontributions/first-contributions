@@ -14,6 +14,7 @@ pnordboj
 - [Gatien Gnakou-Edjambo](https://github.com/princinho)
 - [Dominic Bluawofogbe](https://github.com/Dominic2000code)
 - [TrueJu](https://github.com/TrueJu)
+- [Jomar Cardoza](https://github.com/jmrc1995)
 - [Suraj Mhatre](https://github.com/suraj-py)
 - [mukulgaur](https://github.com/MukulGaur)
 - [Leul Wujira](https://github.com/meraf00)
