@@ -4682,6 +4682,7 @@ first contributions - hanyang univ.
 - [Devansh Kushwah](https://github.com/Devansh-Kushwah)
 - [prosscode](https://github.com/prosscode)
 - [Rezahans](https://github.com/Rezahans)
+- [Marco Rothermel](https://github.com/MarRoth93)
 - [Javi Mack](https://github.com/jaikun0430)
 - [Raheem king](https://github.com/Raheem-King)
 - [Pradhyuman Arora](https://github.com/pradhyumanarora)
