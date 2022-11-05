@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [salkin898](https://github.com/salkin898)
 - [Matteo DeSimone](github.com/TheMatteoD)
 - [shauryas](https://github.com/shauryas)
 - pnordboj
@@ -2553,6 +2554,10 @@ Add something here
 - [Ali Mansoor](https://github.com/alimnsr1154)
 - [Sonal Maurya](https://github.com/Sonal-Mauya)
 - [Mick Meighan(<https://github.com/gatters>)
+- [Ali Mansoor ](https://github.com/alimnsr1154)
+- [Sonal Maurya ](https://github.com/Sonal-Mauya)
+- [Mick Meighan](https://github.com/gatters)
+- [Akkshay Tandon] (https://github.com/akkshayTandon)
 - [Asma](https://github.com/asma-mughal)
 - [chamber-abhirup](https://github.com/chamber-abhirup)
 - [Rohit Nandi](https://github.com/rohitnandi12)
@@ -4741,3 +4746,4 @@ Add something here
 - [Angusson](https://github.com/Angusson)
 - [Zsolt Kacsandi](https://github.com/zsoltkacsandi)
 - [ByWill] (contributing to first contributions)
+- [Fahridanaa](https://github.com/Fahridanaa)
