@@ -1329,6 +1329,7 @@ Add something here
 - [Aditya Muzumdar](https://github.com/adityamuzumdar)
 - [George Ruellan](https://github.com/gruellan)
 - [vinay boyat](https://github.com/VINAYBOYAT11)
+- [Emily Lovell](https://github.com/emmet0r)
 - [Krunal Kharat](https://github.com/KrunalKharat02)
 - [Prabhat Edupuganti](https://github.com/prabhate)
 - [Prince Kumar Sahni](https://github.com/mrprince123)
