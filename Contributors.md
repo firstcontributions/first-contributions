@@ -64,6 +64,7 @@ pnordboj
 - [Mohit Marathe](https://github.com/Mohit2758)
 - [Satarupa Deb]( https://github.com/Satarupa22-SD)
 - [Edwin Kim](https://github.com/edwinkim97)
+- [Rezgui Med Aziz](https://github.com/medAzizRezgui)
 - [Henrikas Budrys](https://github.com/hbportfolio)
 - [Vijendra Pandey](https://github.com/VijendraPandey)
 - [Erik Opinaldo](https://github.com/erikopinaldo)
