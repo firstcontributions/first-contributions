@@ -4663,6 +4663,7 @@ first contributions - hanyang univ.
 - [Daichi Araki](https://github.com/Ararchy01)
 - [Ronit Thukral](https://github.com/RonitThukral)
 - [kdomo](https://github.com/kdomo)
+- [Dawit Andargachew](https://github.com/dawit01)
 - [Samuel Davies](https://github.com/haywireSSC)
 - [Renan Silva 🇧🇷](https://github.com/teasercry)
 - ['Wale Ayodeji](https://github.com/oayodeji)
@@ -4750,4 +4751,4 @@ first contributions - hanyang univ.
 - [lukastheviciouss](https://github.com/lukasthevicious)
 - [Angusson](https://github.com/Angusson)
 - [Zsolt Kacsandi](https://github.com/zsoltkacsandi)
-- [Dawit Andargachew](https://github.com/dawit01)
+
