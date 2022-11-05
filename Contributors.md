@@ -107,7 +107,7 @@ pnordboj
 - [Lucia Rigoni](https://github.com/luciarigoni)
 - [M.Nisar Ali](https://github.com/MNisarAli)
 - [AutumLeaf]
-- [Veera Vignesh](https://github.com/veeravignesh1)
+- [Veera Vignesh K](https://github.com/veeravignesh1)
 - [Devanshu Mahapatra](https://github.com/Devanshu-17)
 - [ArteyRT] (https://github.com/ArteyRT)
 - [Pablo Alejandro](https://github.com/Pabloalesca)
