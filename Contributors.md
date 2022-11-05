@@ -14,6 +14,7 @@ pnordboj
 - [TrueJu](https://github.com/TrueJu)
 - [Suraj Mhatre](https://github.com/suraj-py)
 - [mukulgaur](https://github.com/MukulGaur)
+- [Leul Wujira](https://github.com/meraf00)
 - [martindwyer] (https://github.com/martindwyer)
 - [Ayoub Hassaine](https://github.com/fablorv)
 - [Mecky89](https://github.com/Mecky89)
