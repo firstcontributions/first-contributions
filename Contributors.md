@@ -570,6 +570,8 @@
 
 - [abirhussain](https://github.com/abirhussain)
 
+- Eyob Aschenaki
+
 - [Edivilson Dalacosta](https://github.com/edjdc)
 
 - [Ondřej Man](https://github.com/ManasComp)
@@ -9251,6 +9253,8 @@ Add something here
 
 - [kdomo](https://github.com/kdomo)
 
+- [Dawit Andargachew](https://github.com/dawit01)
+
 - [Samuel Davies](https://github.com/haywireSSC)
 
 - [Renan Silva 🇧🇷](https://github.com/teasercry)
@@ -9282,6 +9286,8 @@ Add something here
 - [prosscode](https://github.com/prosscode)
 
 - [Rezahans](https://github.com/Rezahans)
+
+- [Marco Rothermel](https://github.com/MarRoth93)
 
 - [Javi Mack](https://github.com/jaikun0430)
 
@@ -9424,3 +9430,4 @@ Add something here
 - [Angusson](https://github.com/Angusson)
 
 - [Zsolt Kacsandi](https://github.com/zsoltkacsandi)
+- [ByWill] (contributing to first contributions)
