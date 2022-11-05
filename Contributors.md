@@ -287,6 +287,7 @@ main
 - [Gargi Kale](https://github.com/Gargi14)
 - [Samuel Favarin](https://github.com/SamuelBFavarin)
 - [abirhussain](https://github.com/abirhussain)
+- Eyob Aschenaki
 - [Edivilson Dalacosta](https://github.com/edjdc)
 - [Ondřej Man](https://github.com/ManasComp)
 - [Halfhero](https://github.com/Halfhero212)
