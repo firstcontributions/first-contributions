@@ -2569,7 +2569,7 @@ Fiyinfoluwa Afolayan
 - [Ali Mansoor ](https://github.com/alimnsr1154)
 - [Sonal Maurya ](https://github.com/Sonal-Mauya)
 - [Mick Meighan](https://github.com/gatters)
-- [Akkshay Tandon](https://github.com/akkshayTandon)
+- [Akkshay Tandon] (https://github.com/akkshayTandon)
 - [Asma](https://github.com/asma-mughal)
 - [chamber-abhirup](https://github.com/chamber-abhirup)
 - [Rohit Nandi](https://github.com/rohitnandi12)
