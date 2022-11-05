@@ -4752,7 +4752,7 @@ first contributions - hanyang univ.
 - [Khushi Singh](https://github.com/khugitshii)
 - [Axel Martin](https://github.com/AxlMrt)
 - [lukastheviciouss](https://github.com/lukasthevicious)
-- [AHMED SABRIOUS](https://github.com/SABRIOUS)
+- [SABRIOUS](https://github.com/SABRIOUS)
 - [Angusson](https://github.com/Angusson)
 - [Zsolt Kacsandi](https://github.com/zsoltkacsandi)
 - [ByWill] (contributing to first contributions)
