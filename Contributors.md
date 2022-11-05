@@ -4308,6 +4308,7 @@ Fiyinfoluwa Afolayan
 - [Swapnil Ranmale](https://github.com/swapnilranmale2003)
 - [Arghya Bhattacharya](https://github.com/arghya501)
 - [Shobhit Goyal](https://github.com/shobhit9070/)
+- [Wario Neila](https://github.com/WarioNeila86/)
 - [Aryan Gurung](https://github.com/h3athen)
 - [Neeraj Meena](https://github.com/neeraj542)
 - [Arindam Dutta](https://github.com/iarindamofficial)
