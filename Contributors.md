@@ -1359,6 +1359,7 @@ Add something here
 - [Surbhi Mayank](https://github.com/surbhi2408)
 - [Abhay Chandel](https://github.com/iabhaychandel)
 - [Ritik Sethi](https://github.com/ritiksethi21)
+- [Raykell Foster](https://github.com/kellray/)
 - [Mohammed Siddiqui](https://github.com/MohammedSiddiqui747)
 - [Rama Bhala](https://github.com/RamaBhala)
 - [jayesh Bakle](https://github.com/jayesh-bakle)
