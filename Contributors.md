@@ -1,5 +1,4 @@
-
-﻿# Contributors
+# Contributors
 <!-- prettier-ignore-start -->
 pnordboj
 - [ Tomiwa ](https://github.com/Thor-miwa)
