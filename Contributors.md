@@ -132,6 +132,7 @@ pnordboj
 - [Matt Arias](https://github.com/FreedSoul)
 - [Rajiv Ishrani](https://github.com/RajivIshrani) hello
 - [Pritesh Kiri](https://github.com/PriteshKiri)
+- [LisHun]
 - [Boyeong Yoon](https://github.com/BoyeongYoon)
 - [abdulhaseeb036](https://github.com/abdulhaseeb036)
 - [Ankush Negi](https://leetcode.com/AnkushNegi531/)
