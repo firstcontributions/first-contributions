@@ -5,6 +5,7 @@
 - [Hassan Ali](https://github.com/HassAlli)
 - [Matteo DeSimone](github.com/TheMatteoD)
 - [shauryas](https://github.com/shauryas)
+- [ignasPlace](https://github.com/IgnasPlace)
 pnordboj
 - [chenqy9](https://github.com/chenqy9)
 - [RamyaKorupolu](https://github.com/Ramya-korupolu)
