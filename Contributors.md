@@ -4738,6 +4738,7 @@ first contributions - hanyang univ.
 - [kamilpixel](https://github.com/kamilpixel)
 - [genki hoshino](https://github.com/genkihoshino02)
 - [Parth Banker](https://github.com/Puzer-03)
+- [Daniel Boakye](https://github.com/D-artisan)
 - [Mauryan Kansara] (https://github.com/MauryanKansara)
 - [Chirantan Degloorkar](https://github.com/Chirantan2)
 - [Praneeth Perera](https://github.com/paniya93)
