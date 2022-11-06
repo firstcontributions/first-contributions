@@ -60,6 +60,7 @@ pnordboj
 - [Yash Wake](https://github.com/yashwxd)
 - [Ankith Motha](https://github.com/Alpha-github/)
 - Praveen Bhawantha
+- [Aryan Wadhwa](https://github.com/TastyBiscuit0808/first-contributions)
 - [Ishmael Peavy] (https://github.com/ipeavy)
 - [Joker-CDSS] (https://github.com/Joker-CDSS)
 - [James Hansen](https://github.com/jameszenartist)
