@@ -65,7 +65,7 @@ pnordboj
 - Praveen Bhawantha
 - [Aryan Wadhwa](https://github.com/TastyBiscuit0808/first-contributions)
 - [Ishmael Peavy] (https://github.com/ipeavy)
-- [Joker-CDSS] (https://github.com/Joker-CDSS)
+- [Joker-CDSS-Abasiediedu] (https://github.com/Joker-CDSS)
 - [James Hansen](https://github.com/jameszenartist)
 - [Brandon Andrews](https://github.com/brandrewsss)
 - [Gabriel Fernandes](https://github.com/GabrielFernandes251)
