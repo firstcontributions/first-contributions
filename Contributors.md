@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [arknaut](https://github.com/arknaut)
 - [Kanylbay Zangar](https://github.com/onlineZ123)
 - [salkin898](https://github.com/salkin898)
 - [Hassan Ali](https://github.com/HassAlli)
