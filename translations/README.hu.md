@@ -1,14 +1,14 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
 # Első közreműködés nyilt forráskodú projektben
 
-Minden kezdet nehéz, ezért szeretnénk segíteni számodra az első lépésekben ahhoz, hogy bátran kódolj koóperatívan nyilt forráskodú projekteket. Senki sem szeret hibázni, de szerencsére itt most nyugodtan megteheted. A lényeg, hogy gyakorolj!
+Minden kezdet nehéz, ezért szeretnénk segíteni számodra az első lépésekben ahhoz, hogy bátran kódolj kooperatívan nyílt forráskodú projekteket. Senki sem szeret hibázni, de szerencsére itt most nyugodtan megteheted. A lényeg, hogy gyakorolj!
 
-A projekt célja, hogy útmutatást nyújtson, egyszerűsítse és segítse a kezdők első lépéseit nyilt forráskódú szoftverek közös programozásában. Ha te is most készülsz először ilyet csinálni, segítünk neked, kövessd az alábbi lépéseket.
+A projekt célja, hogy útmutatást nyújtson, egyszerűsítse és segítse a kezdők első lépéseit nyílt forráskódú szoftverek közös programozásában. Ha te is most készülsz először ilyet csinálni, segítünk neked, kövesd az alábbi lépéseket.
 
 #### *Ha a parancssor kényelmetlen, [itt egy tutorial a GUI felület használatához.](#Oktatóanyagok-más-eszközök-használatával)*
 
@@ -19,7 +19,7 @@ Ha nincs a gépeden git, [telepítsd fel]( https://help.github.com/articles/set-
 ## Ágaztasd ezt a repot (fork)
 
 A Fork gomb kattintásával ágaztasd el ezt a repot.
-Készíteni fog egy másolatot erről a reporól a te saját git fiókodba.
+Ezzel készítettél egy másolatot erről a reporól a te saját git fiókodba.
 
 ## Klónozd a repot (clone)
 
@@ -51,12 +51,12 @@ cd first-contributions
 ```
 Most készítsünk egy ágat `git checkout` parancs használatával:
 ```
-git checkout -b <add-your-new-branch-name>
+git switch -c <add-your-new-branch-name>
 ```
 
 Például:
 ```
-git checkout -b add-gabor-takacs
+git switch -c add-gabor-takacs
 ```
 (A branch nevében nem kötelező, hogy benne legyen az *add* szó, de ésszerű belefoglalni, mert ennek az ágnak az a célja, hogy hozzáadja a nevünket egy listához.)
 
@@ -106,9 +106,9 @@ Kis idő elteltével összevonja a változásokat a project fő ágában. Értes
 
 Gratulálunk! Sikeresen teljesítetted az alapvető _fork -> clone -> edit -> PR_ folyamatot, melyet gyakran kell majd csinálnod közreműködőként!
 
-Ünnepeld meg az első kooperációdat és osszd meg barátaidall és követőiddel ennek a [web app](https://firstcontributions.github.io/#social-share)-nak a segítségével.
+Ünnepeld meg az első kooperációdat és osszd meg barátaiddal és követőiddel ennek a [web app](https://firstcontributions.github.io/#social-share)-nak a segítségével.
 
-Bármilyen kérdésed van vagy segítségre lenne szükséged, csatlakozz slack csapatunkhoz. [Csatlakozz a slack csapathoz.](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM).
+Bármilyen kérdésed van vagy segítségre lenne szükséged, csatlakozz slack csapatunkhoz. [Csatlakozz a slack csapathoz.](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Itt az idő egy másik projektben is közreműködni. Összeállítottunk egy listát azokról a projektekről, melyek könnyebb feladatokat tartalmaznak az induláshoz. Nézd meg a [projektek listáját](https://firstcontributions.github.io/#project-list) a webalkalmazásban.
 
