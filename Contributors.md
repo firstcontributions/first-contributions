@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Kanylbay Zangar](https://github.com/onlineZ123)
 - [salkin898](https://github.com/salkin898)
 - [Matteo DeSimone](github.com/TheMatteoD)
 - [shauryas](https://github.com/shauryas)
