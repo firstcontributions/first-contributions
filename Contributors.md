@@ -37,6 +37,7 @@ pnordboj
 - [cs](https://github.com/cs)
 - [Himanshu Soni](https://github.com/H1s1)
 - [Manishit mani]()
+- [Rohan Sharma](https://github.com/Rohanfizz)
 - [Nitin Kumar] (https://github.com/CKShere)
 - [Md Irfan] (https://github.com/irfan7839)
 - [Olayinka Olasimbo](https://github.com/donwaikay)
