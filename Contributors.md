@@ -12,6 +12,7 @@ pnordboj
 - [salimshamim](https://github.com/salimshamim)
 - [Blake Bollinger](https://github.com/blakebollinger)
 - [Shuruzer](https://github.com/shadow3312)
+- [Azizbek Yunusalliev 'Hi! from Uzbekistan'](https://github.com/azick99)
 - [Joshua](https://github.com/Joshua-Dias-Barreto)
 - [ZhijunWang1991](https://github.com/ZhijunWang1991)
 - [Gatien Gnakou-Edjambo](https://github.com/princinho)
