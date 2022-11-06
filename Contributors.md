@@ -4778,3 +4778,4 @@ first contributions - hanyang univ.
 - [ByWill] (contributing to first contributions)
 - [Fahridanaa](https://github.com/Fahridanaa)
 - [Mohammed Ashfaq](https://github.com/acewx67)
+- [Mario Di Girolamo](https://github.com/mariodigirolamo1)
