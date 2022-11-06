@@ -28,6 +28,7 @@ pnordboj
 - [Tomiwa](https://github.com/Thor-miwa)
 - [Deepak Rana Magar](https://github.com/DeepakRanaMagar)
 -[Shivam Srivastava](https://github.com/shivam-srivas)
+- [Gayathri Krishnan](https://github.com/GK3077)
 - [Mustafa Mansy](https://github.com/xmansyx)
 - [Nikos Papadakis](https://github.com/npa528)
 - [Tani](https://github.com/Tani-Shah)
