@@ -1,6 +1,6 @@
 # Contributors
 
-<!-- prettier-ignore-start -->
+- [salkin898](https://github.com/salkin898)
 
 - [Matteo DeSimone](github.com/TheMatteoD)
 
@@ -25,11 +25,19 @@
 
 - [TrueJu](https://github.com/TrueJu)
 
+- [Dominic Bluawofogbe](https://github.com/Dominic2000code)
+
+- [TrueJu](https://github.com/TrueJu)
+
+- [Jomar Cardoza](https://github.com/jmrc1995)
+
 - [Suraj Mhatre](https://github.com/suraj-py)
 
 - [mukulgaur](https://github.com/MukulGaur)
 
 - [Leul Wujira](https://github.com/meraf00)
+
+- [Anna Nettles] (https://github.com/thecoachanna)
 
 - [martindwyer] (https://github.com/martindwyer)
 
@@ -124,6 +132,8 @@
 
 - [Edwin Kim](https://github.com/edwinkim97)
 
+- [Rezgui Med Aziz](https://github.com/medAzizRezgui)
+
 - [Henrikas Budrys](https://github.com/hbportfolio)
 
 - [Vijendra Pandey](https://github.com/VijendraPandey)
@@ -198,6 +208,8 @@
 
 - [jatin kumar](https://github.com/jatin75757)
 
+- [ahmad nawaz khan](https://github.com/4hmaad)
+
 - [Ishita Batra](https://github.com/ishita6)
 
 - [Edving Morales]
@@ -209,6 +221,8 @@
 - [M.Nisar Ali](https://github.com/MNisarAli)
 
 - [AutumLeaf]
+
+- [Veera Vignesh](https://github.com/veeravignesh1)
 
 - [Devanshu Mahapatra](https://github.com/Devanshu-17)
 
@@ -1938,6 +1952,8 @@
 - [Jann Marc Villablanca](https://github.com/jfvillablanca)
 
 - [Richard Aguilar](https://github.com/RichAguil) 
+
+- [Richard Aguilar](https://github.com/RichAguil)
 
 - [Sri Ram](https://github.com/sriram-km)
 
@@ -5078,6 +5094,10 @@ Add something here
 
 - [Mick Meighan(https://github.com/gatters)
 
+- [Mick Meighan](https://github.com/gatters)
+
+- [Akkshay Tandon] (https://github.com/akkshayTandon)
+
 - [Asma](https://github.com/asma-mughal)
 
 - [chamber-abhirup](https://github.com/chamber-abhirup)
@@ -6498,6 +6518,8 @@ Add something here
 - [Debojit Pushilal](https://github.com/Evoder15)
 
 - [Deepak Singh](https://github.com/deepak427)
+
+- [Adam Perlin](https://github.com/adamPerlin1)
 
 - [MSweeley](https://github.com/MSweeley/)
 
@@ -8527,6 +8549,8 @@ Add something here
 
 - [Shobhit Goyal](https://github.com/shobhit9070/)
 
+- [Wario Neila](https://github.com/WarioNeila86/)
+
 - [Aryan Gurung](https://github.com/h3athen)
 
 - [Neeraj Meena](https://github.com/neeraj542)
@@ -9427,7 +9451,11 @@ Add something here
 
 - [lukastheviciouss](https://github.com/lukasthevicious)
 
+- [SABRIOUS](https://github.com/SABRIOUS)
+
 - [Angusson](https://github.com/Angusson)
 
 - [Zsolt Kacsandi](https://github.com/zsoltkacsandi)
 - [ByWill] (contributing to first contributions)
+- [Fahridanaa](https://github.com/Fahridanaa)
+- [Mohammed Ashfaq](https://github.com/acewx67)
