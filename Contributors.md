@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [salkin898](https://github.com/salkin898)
+- [Hassan Ali](https://github.com/HassAlli)
 - [Matteo DeSimone](github.com/TheMatteoD)
 - [shauryas](https://github.com/shauryas)
 pnordboj
