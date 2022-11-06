@@ -108,6 +108,7 @@ pnordboj
 - [jatin kumar](https://github.com/jatin75757)
 - [ahmad nawaz khan](https://github.com/4hmaad)
 - [Ishita Batra](https://github.com/ishita6)
+- [Nithin Bharathi](https://github.com/nithinbharathi)
 - [Edving Morales]
 - [Bobby]
 - [Lucia Rigoni](https://github.com/luciarigoni)
