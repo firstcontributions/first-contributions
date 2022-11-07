@@ -4812,3 +4812,4 @@ first contributions - hanyang univ.
 - [Rajeshwar Prasad](https://github.com/rajeshwar-sopho)
 - [Joao Paulo Carvalho](https://github.com/joaopaulomoreira)
 - [Sahas Lakhote](https://github.com/sahasrocks)
+- [Cooper Goodman](https://github.com/animeishot)
