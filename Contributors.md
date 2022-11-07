@@ -4805,3 +4805,4 @@ first contributions - hanyang univ.
 - [weimin](https://github.com/weimin1992)
 - [Shreyansh Khaitan](https://github.com/shrey141102)
 - [Rajeshwar Prasad](https://github.com/rajeshwar-sopho)
+- [Joao Paulo Carvalho](https://github.com/joaopaulomoreira)
