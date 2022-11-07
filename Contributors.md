@@ -39,6 +39,7 @@ pnordboj
 - [Gayathri Krishnan](https://github.com/GK3077)
 - [Mustafa Mansy](https://github.com/xmansyx)
 - [Yeabesera Derese](https://github.com/Yagth)
+- [Jose Maria Lopez](https://github.com/josemarialopezz)
 - [Nikos Papadakis](https://github.com/npa528)
 - [Tani](https://github.com/Tani-Shah)
 - [Aysu Toprak](https://github.com/aysutoprak)
