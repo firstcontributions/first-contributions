@@ -5,6 +5,7 @@
 - [salkin898](https://github.com/salkin898)
 - [Hassan Ali](https://github.com/HassAlli)
 - [Matteo DeSimone](github.com/TheMatteoD)
+- [Soy Mariana] (https://github.com/mariana-aguilar)
 - [shauryas](https://github.com/shauryas)
 - [ignasPlace](https://github.com/IgnasPlace)
 pnordboj
