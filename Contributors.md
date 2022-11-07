@@ -1663,6 +1663,7 @@ Add something here
 - [Shreyas prabhu](https://github.com/ShreyasPrabhuCBs).
 - [Gautam Goyal](https://github.com/GautamGoyal2341)
 - [Khushi Arora](https://github.com/Khushii-Arora)]
+- [Anand Thakur](https://github.com/athakur)]
 - [Biswajit Sahoo](https://github.com/bisu2580)
 - [Md Hosam Nayeem](https://github.com/MHNayeem25)
 - [Vinay Agarwal](https://github.com/vinay360)
