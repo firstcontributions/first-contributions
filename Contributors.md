@@ -2119,6 +2119,7 @@ Add something here
 - [Devon Offutt](https://github.com/D-H0f)
 - [Said Lopez](https://github.com/SaidLopez)
 - [Henrik Habbestad](https://github.com/Habbski)
+- [Tigran](https://github.com/Ti-Ion)
 - [Salar Rezaee](https://github.com/SalarRezaee)
 - [Yuvaraj Guru](https://github.com/yuvaguru)
 - [Coalby](https://github.com/coalby)
