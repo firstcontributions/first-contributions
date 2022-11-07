@@ -72,6 +72,7 @@ pnordboj
 - [Ankith Motha](https://github.com/Alpha-github/)
 - Praveen Bhawantha
 - [Aryan Wadhwa](https://github.com/TastyBiscuit0808/first-contributions)
+- Apeksha Arora (https://github.com/apekshasan)
 - [Ishmael Peavy] (https://github.com/ipeavy)
 - [Joker-CDSS-Abasiediedu] (https://github.com/Joker-CDSS)
 - [James Hansen](https://github.com/jameszenartist)
@@ -4807,3 +4808,4 @@ first contributions - hanyang univ.
 - [Shreyansh Khaitan](https://github.com/shrey141102)
 - [Rajeshwar Prasad](https://github.com/rajeshwar-sopho)
 - [Luiz Freitas](https://github.com/LuizFernandoFreitas)
+- [Joao Paulo Carvalho](https://github.com/joaopaulomoreira)
