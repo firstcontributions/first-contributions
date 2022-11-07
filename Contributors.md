@@ -3251,6 +3251,7 @@ Fiyinfoluwa Afolayan
 - [Saptak Das](https://github.com/Saptaktdk)
 - [Yasier Ansari](https://github.com/yasier-ansari)
 - [Haley Seymour](https://github.com/hseymo)
+- [Krislyz] (https://github.com/Krislyz)
 - [Nathan TT](https://github.com/nthaitang7)
 - [Keon Jukes](https://github.com/Keon-Jukes)
 - [Yashaswee Kesharwani](https://github.com/yashaswee-dev)
