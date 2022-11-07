@@ -1298,6 +1298,7 @@ Add something here
 - [Hima Varshitha](https://github.com/hima-varshi)
 - [Aditya Muzumdar]
 - [Manjot Singh](https://github.com/ManjotCodes)
+- [Sagar Khatri](https://github.com/sagarjkhatri)
 - [Tanmay Deopurkar](https://github.com/tanmays62343)
 - [Roshan George](https://github.com/roshangeorge97)
 - [Tanmay Deopurkar](https://github.com/tanmays62343)
