@@ -42,6 +42,7 @@ pnordboj
 - [Nikos Papadakis](https://github.com/npa528)
 - [Tani](https://github.com/Tani-Shah)
 - [Aysu Toprak](https://github.com/aysutoprak)
+- [Dima](https://github.com/RybDim)
 - [Yazid Kurdi](https://github.com/YazidKurdi)
 - [cs](https://github.com/cs)
 - [Himanshu Soni](https://github.com/H1s1)
