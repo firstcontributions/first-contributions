@@ -72,7 +72,7 @@ pnordboj
 - [Ankith Motha](https://github.com/Alpha-github/)
 - Praveen Bhawantha
 - [Aryan Wadhwa](https://github.com/TastyBiscuit0808/first-contributions)
-- Apeksha Arora (https://github.com/apekshasan)
+- [Apeksha Arora] (https://github.com/apekshasan)
 - [Ishmael Peavy] (https://github.com/ipeavy)
 - [Joker-CDSS-Abasiediedu] (https://github.com/Joker-CDSS)
 - [James Hansen](https://github.com/jameszenartist)
