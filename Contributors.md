@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Krishna Pathak](https://github.com/Krishna-ji)
+- [Kelsie Murphy](https://github.com/kelsiesmurphy)
 - [arknaut](https://github.com/arknaut)
 - [Kanylbay Zangar](https://github.com/onlineZ123)
 - [salkin898](https://github.com/salkin898)
