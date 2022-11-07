@@ -2289,6 +2289,7 @@ Fiyinfoluwa Afolayan
 - [Gustavo Cassalho](https://github.com/Hasllow)
 - [Alexander Nguyen](https://github.com/TheAlexN)
 - [Bash](https://github.com/holy-mother-I-am-drunk)
+- [Desko](https://github.com/desko2001)
 - [Neha Muthreja](https.//github.com/neha0003)
 - [Jeevan Prakash](https://github.com/jeevanprakash0814)
 - [Nick Dalby](https://github.com/Nick-Dalby)
