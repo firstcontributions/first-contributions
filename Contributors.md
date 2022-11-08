@@ -4345,6 +4345,7 @@ Fiyinfoluwa Afolayan
 - [Neeraj](https://github.com/neeraj779)
 - [Anish Goyal](https://github.com/AnishGoyal18)
 - [Gourav Kumar Shaw](https://github.com/Gourav1695)
+- [Brian Johnson](https://github.com/brian3johnson)
 - [Mandeep Mahra](https://github.com/mandeep-mahra)
 - [Tejas JM](https://github.com/Shisui-12)
 - [Rahul Aryan](https://github.com/Rahularyan2211)
