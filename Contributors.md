@@ -13,6 +13,7 @@
 - [ignasPlace](https://github.com/IgnasPlace)
 pnordboj
 - [chenqy9](https://github.com/chenqy9)
+- [asmaSamano](https://github.com/aaldaghar)
 - [RamyaKorupolu](https://github.com/Ramya-korupolu)
 - [salimshamim](https://github.com/salimshamim)
 - [Blake Bollinger](https://github.com/blakebollinger)
