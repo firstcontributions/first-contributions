@@ -4795,6 +4795,7 @@ first contributions - hanyang univ.
 - [Arif Rohmadi](https://github.com/arifrohmadi)
 - [jilliss](https://github.com/jilliss)
 - [Samprati Vyawahare](https://github.com/Sampratii)
+- [Gregor Logar](https://github.com/gregorlogar991)
 - [Christopher Hranj](https://github.com/brodan)
 - [Luz Zapata](https://github.com/LuZapata)
 - [Marie Mueller](https://github.com/mariemueller-codes)
