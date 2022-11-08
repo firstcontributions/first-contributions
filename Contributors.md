@@ -3672,6 +3672,7 @@ Fiyinfoluwa Afolayan
 - [Chaterina M Fransisca](https://github.com/chaterinamf)
 - [Michalis Papamichael]
 - [Shubham Bansal](https://github.com/SensationalShubham)
+- [Filippo Scaramuzza](https://github.com/FilippoScaramuzza)
 - [Yash Gupta](https://github.com/YashGupta1510)
 - [Mayank Madhur](https://github.com/MAYANK-11115722624)
 - [Jerik George](https://github.com/jerik2004)
