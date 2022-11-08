@@ -6,6 +6,7 @@
 - [Kanylbay Zangar](https://github.com/onlineZ123)
 - [salkin898](https://github.com/salkin898)
 - [Hassan Ali](https://github.com/HassAlli)
+- [Moaad Benkaraache](http://github.com/moaadb)
 - [Matteo DeSimone](github.com/TheMatteoD)
 - [Soy Mariana] (https://github.com/mariana-aguilar)
 - [shauryas](https://github.com/shauryas)
