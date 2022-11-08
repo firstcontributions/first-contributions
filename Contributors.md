@@ -9,7 +9,6 @@
 - [shauryas](https://github.com/shauryas)
 - [ignasPlace](https://github.com/IgnasPlace)
 - [Aurora Grippaudo](https://github.com/Rorins)
-  pnordboj
 - [chenqy9](https://github.com/chenqy9)
 - [RamyaKorupolu](https://github.com/Ramya-korupolu)
 - [salimshamim](https://github.com/salimshamim)
