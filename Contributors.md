@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Krishna Pathak](https://github.com/Krishna-ji)
+- [Nyaribari Reuben](https://github.com/foscraft)
 - [Alex D Hill](https://github.com/alexdhill)
 - [Kelsie Murphy](https://github.com/kelsiesmurphy)
 - [arknaut](https://github.com/arknaut)
@@ -10,10 +11,9 @@
 - [Moaad Benkaraache](http://github.com/moaadb)
 - [Vedant Mate](https://github.com/VedantMate/)
 - [Matteo DeSimone](github.com/TheMatteoD)
-- [Soy Mariana] (https://github.com/mariana-aguilar)
+- [Soy Mariana](https://github.com/mariana-aguilar)
 - [shauryas](https://github.com/shauryas)
 - [ignasPlace](https://github.com/IgnasPlace)
-pnordboj
 - [chenqy9](https://github.com/chenqy9)
 - [asmaSamano](https://github.com/aaldaghar)
 - [RamyaKorupolu](https://github.com/Ramya-korupolu)
