@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Walid1Dev](https://github.com/Walid1Dev)
 - [Test](https://github.com)
 - [Aki](https://github.com/akt00)
 - [Krishna Pathak](https://github.com/Krishna-ji)
