@@ -7,6 +7,7 @@
 - [salkin898](https://github.com/salkin898)
 - [Hassan Ali](https://github.com/HassAlli)
 - [Moaad Benkaraache](http://github.com/moaadb)
+- [Vedant Mate](https://github.com/VedantMate/)
 - [Matteo DeSimone](github.com/TheMatteoD)
 - [Soy Mariana] (https://github.com/mariana-aguilar)
 - [shauryas](https://github.com/shauryas)
