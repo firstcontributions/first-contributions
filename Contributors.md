@@ -2244,6 +2244,7 @@ Fiyinfoluwa Afolayan
 - [Ola Samuel](https://github.com/codedhola)
 - [Abhishek Kalra](https://github.com/abhishek7kalra)
 - [Amitesh Patra](https://github.com/AmiteshPatra)
+- [Jackson Tumba](https://github.com/jacksonsamuel42)
 - [JessicaFM](https://github.com/JessicaFM)
 - [AJ Renfro](https://github.com/arenfro)
 - [Adelinked](https://github.com/Adelinked)
