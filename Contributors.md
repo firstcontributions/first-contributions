@@ -3862,6 +3862,7 @@ Fiyinfoluwa Afolayan
 - [Harith Laxman](https://github.com/Harith-Laxman)
 - [elchmuetze](https://github.com/elchmuetze)
 - [Aman Kumar](https://github.com/aman-32)
+- [Aadi Purja Pun](https://github.com/AadiPun)
 - [Ajit Kumar Jena](https://github.com/Ajit-007)
 - [Saurav Mahalik](https://github.com/SauravMahalik)
 - [Sandeep Maiya](https://github.com/Greninja143)
