@@ -1,6 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
--[Test](https://github.com)
+- [Test](https://github.com)
 - [Aki](https://github.com/akt00)
 - [Krishna Pathak](https://github.com/Krishna-ji)
 - [Alex D Hill](https://github.com/alexdhill)
