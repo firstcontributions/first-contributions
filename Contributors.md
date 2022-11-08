@@ -21,6 +21,7 @@ pnordboj
 - [asmaSamano](https://github.com/aaldaghar)
 - [RamyaKorupolu](https://github.com/Ramya-korupolu)
 - [salimshamim](https://github.com/salimshamim)
+- [Carl Morisbak Olsson](https://github.com/SpookySnek)
 - [Blake Bollinger](https://github.com/blakebollinger)
 - [Shuruzer](https://github.com/shadow3312)
 - [Azizbek Yunusalliev 'Hi! from Uzbekistan'](https://github.com/azick99)
