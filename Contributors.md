@@ -1703,6 +1703,7 @@ Add something here
 - [Maciker](https://github.com/Maciker)
 - [Rahul RK](https://github.com/DevTMK)
 - [Zach J Murphy](https://github.com/zachjmurphy)
+- [Dandara Silva](https://github.com/S-Dandara)
 - [Sanket Choudhari](https://github.com/sanketssc)
 - [Ada](https://github.com/auranykh)
 - [Namitha](https://github.com/namitha393)
