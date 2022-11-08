@@ -285,6 +285,7 @@ main
 - [Abhishek Kumar]
 - Coey
 - Yonatan
+- Sanjana Udar
 - [Juanma Gutiérrez](https://github.com/Juanma-Gutierrez)
 - Diego Tamayo [https://github.com/Diegot1998]
 - [Ulrich Raab] [https://github.com/Ulimativo]
