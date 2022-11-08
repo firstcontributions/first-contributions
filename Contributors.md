@@ -3278,6 +3278,7 @@ Fiyinfoluwa Afolayan
 - [Oluchukwu Mary Edeh](https://github.com/Oluchiedeh)
 - [Jethro Cotton](https://github.com/j37hr0/)
 - [Md Mudassir Akhter](https://github.com/mudassir-jmi)
+- [Evan Christopher](https://github.com/evanchristopher)
 - [Ramin Karimi](https://github.com/Ramink78)
 - [Samarth Rayar](https://github.com/samarth2001)
 - [Mohamad Bisher Tello](https://github.com/maxi74u)
