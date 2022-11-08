@@ -4745,6 +4745,7 @@ first contributions - hanyang univ.
 - [Marco Rothermel](https://github.com/MarRoth93)
 - [Javi Mack](https://github.com/jaikun0430)
 - [Raheem king](https://github.com/Raheem-King)
+- [Roy Kensmil](https://github.com/rkendev)
 - [Pradhyuman Arora](https://github.com/pradhyumanarora)
 - [Denča](https://github.com/denvitko)
 - [Amortitu Bogdan](https://github.com/emperoreddy)
