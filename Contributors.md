@@ -44,6 +44,7 @@ pnordboj
 - [Anna Nettles] (https://github.com/thecoachanna)
 - [martindwyer] (https://github.com/martindwyer)
 - [Ayoub Hassaine](https://github.com/fablorv)
+- [Andrew Zinc](https://github.com/AndrewZinc)
 - [Mecky89](https://github.com/Mecky89)
 - [Tomiwa](https://github.com/Thor-miwa)
 - [Deepak Rana Magar](https://github.com/DeepakRanaMagar)
