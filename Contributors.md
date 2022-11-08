@@ -2530,6 +2530,7 @@ Fiyinfoluwa Afolayan
 - [ptrkb](https://github.com/ptrkb)
 - [Velan](https://github.com/Velogan-Boy/)
 - [Lahcen Haouch](https://github.com/LahcenHaouch)
+- [marifoo](https://github.com/marifoo)
 - [mithindev](https://github.com/mithindev)
 - [mcplayeraz](https://github.com/mcplayeraz)
 - [botelja](https://github.com/botelja)
