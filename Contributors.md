@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Krishna Pathak](https://github.com/Krishna-ji)
+- [Nomaan Jamaluddin](https://github.com/NONAN23x)
 - [Kelsie Murphy](https://github.com/kelsiesmurphy)
 - [arknaut](https://github.com/arknaut)
 - [Kanylbay Zangar](https://github.com/onlineZ123)
