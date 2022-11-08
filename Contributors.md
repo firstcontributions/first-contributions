@@ -362,6 +362,7 @@ main
 - [Cesar Rodas](https://github.com/Care99)
 - [Sahil Singh](www.linkedin.com/in/sahil-singh-ss9824)
 - [imappuru](https://github.com/imappuru)
+- [plaguss](https://github.com/plaguss)
 - [Rafiqul Shopon](https://github.com/rafiqulshopon)
 - [verissimon](https://github.com/verissimon)
 - [DragonFireShield](https://github.com/dragonfireshield)
