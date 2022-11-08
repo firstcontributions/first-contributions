@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 - [Aki](https://github.com/akt00)
 - [Krishna Pathak](https://github.com/Krishna-ji)
+Asad Mehmood
 - [Alex D Hill](https://github.com/alexdhill)
 - [Kelsie Murphy](https://github.com/kelsiesmurphy)
 - [arknaut](https://github.com/arknaut)
