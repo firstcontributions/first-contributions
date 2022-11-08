@@ -76,6 +76,7 @@ pnordboj
 - [Yash Wake](https://github.com/yashwxd)
 - [Ankith Motha](https://github.com/Alpha-github/)
 - Praveen Bhawantha
+- [Gabriel Waegner](https://github.com/Gwaegs)
 - [Aryan Wadhwa](https://github.com/TastyBiscuit0808/first-contributions)
 - Apeksha Arora (https://github.com/apekshasan)
 - [Ishmael Peavy] (https://github.com/ipeavy)
