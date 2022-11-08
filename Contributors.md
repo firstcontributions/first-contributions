@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Krishna Pathak](https://github.com/Krishna-ji)
+- [Alex D Hill](https://github.com/alexdhill)
 - [Kelsie Murphy](https://github.com/kelsiesmurphy)
 - [arknaut](https://github.com/arknaut)
 - [Kanylbay Zangar](https://github.com/onlineZ123)
