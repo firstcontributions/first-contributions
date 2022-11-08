@@ -4664,6 +4664,7 @@ first contributions - hanyang univ.
 - [Adarsh Remesh](https://github.com/adarshremesh)
 - [Mohd Adnan](https://github.com/mohdadnan786)
 - [Daniel Boll](https://github.com/Daniel-Boll)
+- [Adam Dubey](https://github.com/adamdubey)
 - [Mukesh Gaur](https://github.com/Mukeshgaur12)
 - [Charith Jayasanka](https://github.com/charithjayasanka)
 - [Gia Khanh Nguyen](https://github.com/gkn0672)
