@@ -1,7 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Krishna Pathak](https://github.com/Krishna-ji)
-Asad Mehmood
+- [Asad Mehmood](https://github.com/Rajpoot091/)
 - [Alex D Hill](https://github.com/alexdhill)
 - [Kelsie Murphy](https://github.com/kelsiesmurphy)
 - [arknaut](https://github.com/arknaut)
