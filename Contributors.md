@@ -3144,6 +3144,7 @@ Fiyinfoluwa Afolayan
 - [FFuss](https://github.com/FFuss)
 - [Matheus da Fonseca Dummer](https://github.com/matheusdmm)
 - [Diego Herrera](https://github.com/diegoherrer4)
+- [Raphaël Colin](https://github.com/Raphalex46)
 - [Abdulkareem Ojerinde](https://github.com/abdulkareemoj)
 - [Ioan Adafinei](https://github.com/IoanRO)
 - [Rajeev Hansda](https://github.com/rajeevrhansda)
