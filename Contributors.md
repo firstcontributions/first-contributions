@@ -1516,6 +1516,7 @@ Add something here
 - [Maxim Zakazchik](https://github.com/s4lat)
 - [Praise Adegoke](https://github.com/praiseadegokee)
 - [Harsh Duche](https://github.com/ducheharsh)
+- [Talha K](https://github.com/taalha)
 - [Shashwat Wankhedekar](https://github.com/shashwatwankhedekar)
 - [Muskan Bhardwaj](https://github.com/muskan27042001)
 - [Sai Kiran Ippili](https://github.com/saikiranippili)
