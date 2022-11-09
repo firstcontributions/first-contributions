@@ -511,6 +511,7 @@ main
 - [YogatBear](https://github.com/YogatBear)
 - [Smart-Peach](https://github.com/Smart-Peach)
 - [Siddhant](https://github.com/SiddJ01)
+- [Erika Delfino](https://github.com/edelfino11)
 - [JSalinas](https://github.com/javier-salinas)
 - [Davies Jeffrey](https://github.com/djokhar05)
 - [Hailey Steineke](https://github.com/hdsteineke)
