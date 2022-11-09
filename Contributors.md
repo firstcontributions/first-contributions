@@ -7,7 +7,7 @@
 Asad Mehmood
 - [Aniket]
 - [Alex D Hill](https://github.com/alexdhill)
-- [Muhammad Rafi Yudhistira](https://github.com/rapuyy)
+- [Muhammad Rafi Yudhistira](https://github.com/rapuyy))
 - [Kelsie Murphy](https://github.com/kelsiesmurphy)
 - [arknaut](https://github.com/arknaut)
 - [Kanylbay Zangar](https://github.com/onlineZ123)
