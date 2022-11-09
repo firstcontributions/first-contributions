@@ -4867,3 +4867,4 @@ first contributions - hanyang univ.
 - [Kip Moose](https://github.com/kip_moose)
 - [Ibrahim Khalil](https://github.com/rahatibrahim)
 - [Karthik Raju](https://github.com/KarthikRaju391)
+- [Marcelle Pernet 🍰](https://github.com/muacelle)
