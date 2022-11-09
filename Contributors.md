@@ -31,6 +31,7 @@ pnordboj
 - [Carl Morisbak Olsson](https://github.com/SpookySnek)
 - [Blake Bollinger](https://github.com/blakebollinger)
 - [Shuruzer](https://github.com/shadow3312)
+- [Abhishek Chandra](https://github.com/abhishekchandra2522k)
 - [Yat Yiu Yeung Kenny] (https://github.com/kenny10280703)
 - [Azizbek Yunusalliev 'Hi! from Uzbekistan'](https://github.com/azick99)
 - [Joshua](https://github.com/Joshua-Dias-Barreto)
