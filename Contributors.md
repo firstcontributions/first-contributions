@@ -6,7 +6,7 @@
 - [Krishna Pathak](https://github.com/Krishna-ji)
 Asad Mehmood
 - [Aniket]
-- [Euan] (https://github.com/EuanWilliams)
+- [Euan](https://github.com/EuanWilliams)
 - [Gerry Aballa](https://github.com/Gerry-Aballa)
 - [Alex D Hill](https://github.com/alexdhill)
 - [Muhammad Rafi Yudhistira](https://github.com/rapuyy)
