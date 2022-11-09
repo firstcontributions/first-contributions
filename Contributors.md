@@ -23,6 +23,7 @@ Asad Mehmood
 - [shauryas](https://github.com/shauryas)
 - [ignasPlace](https://github.com/IgnasPlace)
 pnordboj
+- [Ajayi Olamide](https://github.com/prodbyola)
 - [chenqy9](https://github.com/chenqy9)
 - [asmaSamano](https://github.com/aaldaghar)
 - [MoeWael](https://github.com/MoeWael)
