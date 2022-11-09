@@ -4852,3 +4852,4 @@ first contributions - hanyang univ.
 - [M-Zif](https://github.com/neon-face)
 - [Nokibul islam](https://github.com/nokibul)
 - [Hemanth Kumar Tokala](https://github.com/Hemanth5)
+- [Rohith Vaidyanathan](https://github.com/rohithvaidya)
