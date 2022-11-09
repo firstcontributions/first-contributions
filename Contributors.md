@@ -4856,3 +4856,4 @@ first contributions - hanyang univ.
 - [Nokibul islam](https://github.com/nokibul)
 - [Hemanth Kumar Tokala](https://github.com/Hemanth5)
 - [Rohith Vaidyanathan](https://github.com/rohithvaidya)
+- [Kip Moose](https://github.com/kip_moose)
