@@ -4869,6 +4869,7 @@ first contributions - hanyang univ.
 - [Hemanth Kumar Tokala](https://github.com/Hemanth5)
 - [Rohith Vaidyanathan](https://github.com/rohithvaidya)
 - [Kip Moose](https://github.com/kip_moose)
+- [jsssca](https://github.com/jsssca)
 - [Ibrahim Khalil](https://github.com/rahatibrahim)
 - [Karthik Raju](https://github.com/KarthikRaju391)
 - [Marcelle Pernet 🍰](https://github.com/muacelle)
