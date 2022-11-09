@@ -59,6 +59,7 @@ pnordboj
 - [Yeabesera Derese](https://github.com/Yagth)
 - [Jose Maria Lopez](https://github.com/josemarialopezz)
 - [Nikos Papadakis](https://github.com/npa528)
+- [Natuwu](https://github.com/natwuw/)
 - [Tani](https://github.com/Tani-Shah)
 - [Aysu Toprak](https://github.com/aysutoprak)
 - [Dima](https://github.com/RybDim)
