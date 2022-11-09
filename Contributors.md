@@ -1493,6 +1493,7 @@ nowy wpis
 - [Corrie Botha](https://github.com/Kerneels94)
 - [Adriaan Louw](https://github.com/Boskrag)
 - [Raji Risikat Yewande](https://github.com/wandexdev)
+- [Wojciech Golabek](https://github.com/FoxitFun/)
 - [Pablo Gomes🃏⛱](https://github.com/pgng08)
 - [Matthew Gigante](https://github.com/matthew0420)
 - [Dileepa Samarawickrama](https://github.com/dnsamw)
