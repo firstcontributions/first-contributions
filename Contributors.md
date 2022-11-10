@@ -8,6 +8,7 @@
 - [Walid1Dev](https://github.com/Walid1Dev)
 - [Test](https://github.com)
 - [Aki](https://github.com/akt00)
+- [Shruti](https://github.com/shrutii16)
 - [Krishna Pathak](https://github.com/Krishna-ji)
 - [James Whitfield](https://github.com/JDWhitfieldAWS)
 Asad Mehmood
