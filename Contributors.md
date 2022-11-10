@@ -7,6 +7,7 @@
 - [Krishna Pathak](https://github.com/Krishna-ji)
 Asad Mehmood
 - [Aniket]
+- [MS]
 - [Euan] (https://github.com/EuanWilliams)
 - [Gerry Aballa](https://github.com/Gerry-Aballa)
 - [Alex D Hill](https://github.com/alexdhill)
