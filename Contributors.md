@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Bot-ii]
 - [Andre Oliveira](https://github.com/andrepbo)
 - [Josh Woolbright] (https://github.com/Jtwoolbright)
 - [Walid1Dev](https://github.com/Walid1Dev)
