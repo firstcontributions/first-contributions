@@ -24,6 +24,7 @@ Asad Mehmood
 - [Soy Mariana] (https://github.com/mariana-aguilar)
 - [shauryas](https://github.com/shauryas)
 - [ignasPlace](https://github.com/IgnasPlace)
+- [Muhammad-Fiqri] (https://github.com/Muhammad-Fiqri)
 pnordboj
 - [Ajayi Olamide](https://github.com/prodbyola)
 - [chenqy9](https://github.com/chenqy9)
