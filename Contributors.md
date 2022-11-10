@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Sanskriti Sharma](https://github.com/Sanskritisharma17)
 - [Bot-ii]
 - [Nirav Patel](https://github.com/Nirav-GCC)
 - [Haris Ahmad](https://github.com/Blurpex)
