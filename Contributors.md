@@ -218,6 +218,7 @@ pnordboj
 - [Kouam Franck](https://github.com/kofra-jg)
 - [Aditya Bhargava](https://github.com/Bhargavaa1)
 - [Tom Kingori](https://github.com/TomKingori)
+- [Toni Fernandes](https://github.com/ToniFer03)
 - [Reed Conway](https://github.com/ReedConway)
 - [Pratheek Shetty](https://github.com/pratheek-shett)
 - [Dionne Mascarenhas](https://github.com/dmasc2)
