@@ -210,6 +210,7 @@ pnordboj
 - [Fakhruddin](https://github.com/Fakhruddin90)
 - [Melissa Layser] (https://github.com/Laserbeam22)
 - [Rajat](https://github.com/rajatkumar2205)
+- [Alvaro](https://github.com/Alvaro8gb)
 - [Fabio Laura](https://github.com/raptor0929)
 - [Shreyas] (https://github.com/ShreyasWeb3)
 - [Kouam Franck](https://github.com/kofra-jg)
