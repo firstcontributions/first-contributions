@@ -11,6 +11,7 @@
 - [shauryas](https://github.com/shauryas)
 - [ignasPlace](https://github.com/IgnasPlace)
 pnordboj
+- [shikot0](https://github.com/shikot0)
 - [chenqy9](https://github.com/chenqy9)
 - [RamyaKorupolu](https://github.com/Ramya-korupolu)
 - [salimshamim](https://github.com/salimshamim)
