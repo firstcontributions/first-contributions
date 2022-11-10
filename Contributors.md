@@ -1,4 +1,4 @@
-# Contributors
+ Contributors
 <!-- prettier-ignore-start -->
 - [Josh Woolbright] (https://github.com/Jtwoolbright)
 - [Walid1Dev](https://github.com/Walid1Dev)
@@ -7,6 +7,7 @@
 - [Krishna Pathak](https://github.com/Krishna-ji)
 Asad Mehmood
 - [Aniket]
+- [moonz](https://github.com/qwtoe)
 - [MS]
 - [Euan] (https://github.com/EuanWilliams)
 - [Gerry Aballa](https://github.com/Gerry-Aballa)
