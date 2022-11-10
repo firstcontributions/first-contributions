@@ -108,6 +108,7 @@ pnordboj
 - [Brandon Andrews](https://github.com/brandrewsss)
 - [Gabriel Fernandes](https://github.com/GabrielFernandes251)
 - [Lorenzo Francisco](https://github.com/lozo6)
+- [Pratyush Tyagi](https://github.com/Pratyush0612)
 - [Surajit Dey Sarkar](https://github.com/Surajitds)
 - [Mohit Marathe](https://github.com/Mohit2758)
 - [Satarupa Deb]( https://github.com/Satarupa22-SD)
