@@ -123,6 +123,7 @@ pnordboj
 - [Chandan Arya](https://github.com/alpha2lucifer)
 - [suman](https://github.com/sumanghosh13)
 - [nah yi yun](https://github.com/koalalalabear)
+- [Tewodros Amare](https://github.com/teddygizachew)
 - [Stephen Silveira](https://github.com/stephen-silveira)
 - [Anmol Bansal](https://github.com/AnmolBansalDEV)
 - [Adeolu Oyinlola](https://github.com/deoluoyinlola)
