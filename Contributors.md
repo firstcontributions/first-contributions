@@ -110,7 +110,6 @@ pnordboj
 - Praveen Bhawantha
 - [Gabriel Waegner](https://github.com/Gwaegs)
 - [Aryan Wadhwa](https://github.com/TastyBiscuit0808/first-contributions)
-- Apeksha Arora (https://github.com/apekshasan)
 - [Ishmael Peavy] (https://github.com/ipeavy)
 - [Joker-CDSS-Abasiediedu] (https://github.com/Joker-CDSS)
 - [James Hansen](https://github.com/jameszenartist)
@@ -139,6 +138,7 @@ pnordboj
 - [Anmol Bansal](https://github.com/AnmolBansalDEV)
 - [Adeolu Oyinlola](https://github.com/deoluoyinlola)
 - [bohemian-x] (https://github.com/bohemiancode-x)
+- [Apeksha Arora](http://github.com/apekshasan)
 - Akshay
 - [Chirayu Pancholi](https://github.com/Chirayu31)
 - [AnushaPalle](https://github.com/AnushaPalle)
