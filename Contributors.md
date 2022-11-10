@@ -46,6 +46,7 @@ pnordboj
 - [Jomar Cardoza](https://github.com/jmrc1995)
 - [Artyom Amiryan](https://github.com/Artyom22)
 - [Suraj Mhatre](https://github.com/suraj-py)
+- [Gokul Narayanan](https://github.com/Gokul-0hno)
 - [Souransu Sen](https://github.com/FinalRain7751)
 - [mukulgaur](https://github.com/MukulGaur)
 - [Leul Wujira](https://github.com/meraf00)
