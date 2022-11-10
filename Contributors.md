@@ -8,6 +8,7 @@
 Asad Mehmood
 - [Aniket]
 - [MS]
+sudeep
 - [Euan] (https://github.com/EuanWilliams)
 - [Gerry Aballa](https://github.com/Gerry-Aballa)
 - [Alex D Hill](https://github.com/alexdhill)
