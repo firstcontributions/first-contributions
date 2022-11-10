@@ -19,6 +19,7 @@ Asad Mehmood
 - [Moaad Benkaraache](http://github.com/moaadb)
 - [Vedant Mate](https://github.com/VedantMate/)
 - [Matteo DeSimone](github.com/TheMatteoD)
+- [AntonioToni](https://github.com/AntonioToni)
 - [Soy Mariana] (https://github.com/mariana-aguilar)
 - [shauryas](https://github.com/shauryas)
 - [ignasPlace](https://github.com/IgnasPlace)
