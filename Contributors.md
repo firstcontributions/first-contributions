@@ -9,6 +9,7 @@ Asad Mehmood
 - [Aniket]
 - [moonz](https://github.com/qwtoe)
 - [MS]
+sudeep
 - [Euan] (https://github.com/EuanWilliams)
 - [Gerry Aballa](https://github.com/Gerry-Aballa)
 - [Alex D Hill](https://github.com/alexdhill)
@@ -25,6 +26,7 @@ Asad Mehmood
 - [Soy Mariana] (https://github.com/mariana-aguilar)
 - [shauryas](https://github.com/shauryas)
 - [ignasPlace](https://github.com/IgnasPlace)
+- [Muhammad-Fiqri] (https://github.com/Muhammad-Fiqri)
 pnordboj
 - [Ajayi Olamide](https://github.com/prodbyola)
 - [chenqy9](https://github.com/chenqy9)
@@ -417,6 +419,7 @@ main
 - [vinthara](https://github.com.vinthara)
 - [Vaibhavi Gaur](https://github.com/vai14-gaur)
 - [Julio Lezcano](https://github.com/lezcano17)
+- [Inti Bryon](https://github.com/inti-bryon)
 - [Jeevan Muthu]
 - [Ahmad Bin Abdul Jabbar](https://github.com/AhmadBinAbdulJabbar)
 - [Riva Parvez]
@@ -4888,3 +4891,4 @@ first contributions - hanyang univ.
 - [Brian Kliwon](https://github.com/briankliwon)
 Alonzo Church
 - [Jamaludin Abdi](https://github.com/jamaludin-abdi)
+- [Emmanuel Vazé](https://github.com/EmmanuelVaz)
