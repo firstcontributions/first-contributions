@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Bot-ii]
+- [Nirav Patel](https://github.com/Nirav-GCC)
 - [Haris Ahmad](https://github.com/Blurpex)
 - [Andre Oliveira](https://github.com/andrepbo)
 - [Josh Woolbright] (https://github.com/Jtwoolbright)
