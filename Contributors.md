@@ -9,6 +9,7 @@
 - [Test](https://github.com)
 - [Aki](https://github.com/akt00)
 - [Krishna Pathak](https://github.com/Krishna-ji)
+- [James Whitfield](https://github.com/JDWhitfieldAWS)
 Asad Mehmood
 - [Aniket]
 - [MS]
