@@ -2522,6 +2522,7 @@ Fiyinfoluwa Afolayan
 - [Richard Freeland](https://github.com/freelandr)
 - [Nnamdi Ogbangwo](https://github.com/MajorReact)
 - [Michael Lappert](https://github.com/lappemic)
+- [Samantha Randolph](https://github.com/srandolph2)
 - [Simon Kellegher](https://github.com/Siborg18)
 - [Touha Zohair](https://github.com/touha98)
 - [Gift Segun Adesigbin](https://github.com/giftade)
