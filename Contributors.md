@@ -211,6 +211,7 @@ pnordboj
 - [Fakhruddin](https://github.com/Fakhruddin90)
 - [Melissa Layser] (https://github.com/Laserbeam22)
 - [Rajat](https://github.com/rajatkumar2205)
+- [Alvaro](https://github.com/Alvaro8gb)
 - [Fabio Laura](https://github.com/raptor0929)
 - [Shreyas] (https://github.com/ShreyasWeb3)
 - [Kouam Franck](https://github.com/kofra-jg)
@@ -4858,6 +4859,7 @@ first contributions - hanyang univ.
 - [lukasthevicious](https://github.com/lukasthevicious)
 - [Khushi Singh](https://github.com/khugitshii)
 - [Axel Martin](https://github.com/AxlMrt)
+- [Abhinai](https://github.com/Abhinai1395)
 - [lukastheviciouss](https://github.com/lukasthevicious)
 - [SABRIOUS](https://github.com/SABRIOUS)
 - [Angusson](https://github.com/Angusson)
@@ -4884,3 +4886,5 @@ first contributions - hanyang univ.
 - [Karthik Raju](https://github.com/KarthikRaju391)
 - [Marcelle Pernet 🍰](https://github.com/muacelle)
 - [Brian Kliwon](https://github.com/briankliwon)
+Alonzo Church
+- [Jamaludin Abdi](https://github.com/jamaludin-abdi)
