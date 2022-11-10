@@ -2568,6 +2568,7 @@ Fiyinfoluwa Afolayan
 - [Diya Goyal](https://github.com/diyagoyal98)
 - [jatinseh](https://github.com/jatinseh)
 - [Alex Servin](https://github.com/aservin6)
+- [Tyler Schmidt](https://github.com/tyler3schmidt)
 - [Abolfazl Dalvi](https://github.com/Abolfazl-11)
 - [Shrikant Wankhade](https://github.com/Shrikant-Wankhade)
 - [Ajay](https://github.com/Ajay-droid-cmd)
