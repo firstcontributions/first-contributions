@@ -384,7 +384,7 @@ main
 - [Aniket Gupta](https://github.com/Aniket0902)
 - [Gavin Knudsen]
 - [Nikhil Chinchore]
-
+- [Zoltan Nahoczki](https://github.com/nahoczki)
 - [Siddharth Singh](https://github.com/siddharthqs/rust_quant)
 - [Akshay Jain](https://github.com/rudeakshay)
 - [Sujith P](https://github.com/Alfa-ZORO)
