@@ -3,6 +3,7 @@
 - [Arham Anwar](https://github.com/arhamcode)
 - [Sanskriti Sharma](https://github.com/Sanskritisharma17)
 - [Bot-ii]
+- [VintageOrigal](https://github.com/VintageOrigal)
 - [Nirav Patel](https://github.com/Nirav-GCC)
 - [Haris Ahmad](https://github.com/Blurpex)
 - [Andre Oliveira](https://github.com/andrepbo)
