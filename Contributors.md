@@ -2491,6 +2491,7 @@ Fiyinfoluwa Afolayan
 - [Harshal Pathak](https://github.com/dev-game-ops)
 - [Victoria Young](https://github.com/vyoung708)
 - [Sahinur Islam](https://github.com/devSahinur)
+- [Ig0r](https://github.com/w0rz)
 - [Tarctic](https://github.com/Tarctic)
 - [Jitender Singh Chhapola](https://github.com/niteshjitender)
 - [Thomas Roy](https://github.com/throy45)
