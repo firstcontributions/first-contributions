@@ -37,6 +37,7 @@ sudeep
 - [Muhammad-Fiqri] (https://github.com/Muhammad-Fiqri)
 pnordboj
 - [Ajayi Olamide](https://github.com/prodbyola)
+- [JayJay](https://github.com/JalajJain7)
 - [chenqy9](https://github.com/chenqy9)
 - [asmaSamano](https://github.com/aaldaghar)
 - [MoeWael](https://github.com/MoeWael)
