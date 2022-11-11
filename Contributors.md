@@ -14,6 +14,7 @@
 - [James Whitfield](https://github.com/JDWhitfieldAWS)
 Asad Mehmood
 - [Aniket]
+- [moonz](https://github.com/qwtoe)
 - [MS]
 sudeep
 - [Euan] (https://github.com/EuanWilliams)
