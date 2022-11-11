@@ -2940,6 +2940,7 @@ Fiyinfoluwa Afolayan
 - [Rowland Adimoha](https://github.com/rowjay007)
 - [Arsen](https://github.com/molchoun)
 - [Raboro](https://github.com/Raboro)
+- [Josh Talev] (https://github.com/j-talev)
 - [Minh](https://github.com/bobcoi03)
 - [Jonathan Barzola](https://github.com/jonathanbarzola)
 - [Michiko](https://github.com/michikochew98)
