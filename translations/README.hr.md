@@ -13,7 +13,7 @@ Cilj ovog projekta je da pruži jednostavne korake za početnike da naprave svoj
 
 Ukoliko nemate git instaliran na vašom računalu, [instalirajte ga ovdje](https://help.github.com/articles/set-up-git/).
 
-## Uradite fork repozitorija
+## Napravite fork repozitorija
 
 Forkajte ovaj repozitorij tako da kliknete na dugme _fork_ na vrhu stranice. Ovako pravite kopiju repozitorija na vašoj github stranici.
 
