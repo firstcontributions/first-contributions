@@ -21,6 +21,7 @@ sudeep
 - [Euan] (https://github.com/EuanWilliams)
 - [Gerry Aballa](https://github.com/Gerry-Aballa)
 - [Alex D Hill](https://github.com/alexdhill)
+- [Aditya Singh](https://github.com/Adi-ty)
 - [fabienzz](https://github.com/fabienzz)
 - [Muhammad Rafi Yudhistira](https://github.com/rapuyy)
 - [Kelsie Murphy](https://github.com/kelsiesmurphy)
