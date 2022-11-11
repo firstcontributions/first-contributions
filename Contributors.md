@@ -2994,6 +2994,7 @@ Fiyinfoluwa Afolayan
 - [Avantsa Raja Yashwanth](https://github.com/R-Yash)
 - [Jefferson Alaiza](https://github.com/bytss)
 - [Elvis Kimara](https://github.com/kelvis24)
+- [Mike Dai](https://github.com/daiy29)
 - [Logan Liong](https://github.com/Loganbliong)
 - [Siddhartha Shandilya](https://github.com/SiddharthaShandilya)
 - [Shivang Bhatnagar](https://github.com/Shivangbhatnagar237)
