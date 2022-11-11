@@ -4870,6 +4870,7 @@ first contributions - hanyang univ.
 - [Rohan Shetty](https://github.com/rohansh-tty)
 - [Rohan Patil] (this is my first contribution)
 - [Janardhan](https://github.com/janardhankakuri)
+- [Sonu](https://github.com/skj4ua2)
 - [Moses Li](https://github.com/JAGDF)
 - [Moomin](https://github.com/SATERIAJIAYING)
 - [Yuheng Wu](https://github.com/LinkTechTips)
