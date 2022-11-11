@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Arham Anwar](https://github.com/arhamcode)
 - [Sanskriti Sharma](https://github.com/Sanskritisharma17)
 - [Bot-ii]
 - [Nirav Patel](https://github.com/Nirav-GCC)
