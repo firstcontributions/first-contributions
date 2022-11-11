@@ -42,6 +42,7 @@ pnordboj
 - [Ajayi Olamide](https://github.com/prodbyola)
 - [JayJay](https://github.com/JalajJain7)
 - [chenqy9](https://github.com/chenqy9)
+- [Sanket Ghormode](https://github.com/aw-santo)
 - [asmaSamano](https://github.com/aaldaghar)
 - [MoeWael](https://github.com/MoeWael)
 - [RamyaKorupolu](https://github.com/Ramya-korupolu)
