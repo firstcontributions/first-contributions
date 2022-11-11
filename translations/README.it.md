@@ -61,7 +61,7 @@ Lo scopo di nominare un branch è descrivere le modifiche che andremo ad effettu
 
 ## Fai le modifiche necessarie e crea un commit
 
-Ora apri il file `Contributors.md` in un editor, inserisci il tuo nome e salva il the file. Se vai nella directory del progetto ed esegui il comando `git status`, vedrai quali sono i cambiamenti. Aggiungi le modifiche al branch appena creato usando il comando `git add`:
+Ora apri il file `Contributors.md` in un editor, inserisci il tuo nome e salva il file. Se vai nella directory del progetto ed esegui il comando `git status`, vedrai quali sono i cambiamenti. Aggiungi le modifiche al branch appena creato usando il comando `git add`:
 ```
 git add Contributors.md
 ```
