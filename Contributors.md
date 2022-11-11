@@ -19,6 +19,7 @@ sudeep
 - [Euan] (https://github.com/EuanWilliams)
 - [Gerry Aballa](https://github.com/Gerry-Aballa)
 - [Alex D Hill](https://github.com/alexdhill)
+- [fabienzz](https://github.com/fabienzz)
 - [Muhammad Rafi Yudhistira](https://github.com/rapuyy)
 - [Kelsie Murphy](https://github.com/kelsiesmurphy)
 - [arknaut](https://github.com/arknaut)
