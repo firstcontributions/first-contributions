@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Arham Anwar](https://github.com/arhamcode)
+- [Vinicius Gomes Ferreira](https://github.com/viniciusgferreira)
 - [Sanskriti Sharma](https://github.com/Sanskritisharma17)
 - [Bot-ii]
 - [VintageOrigal](https://github.com/VintageOrigal)
