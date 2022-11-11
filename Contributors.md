@@ -1171,6 +1171,7 @@ Enrique Javier
 - [Yans](https://github.com/YansHJ)
 - [Pallavi Dwivedi](https://github.com/dpallavi09)
 - [Md Asif Siddiqui](https://github.com/SidAsif)
+- [Jordan Kallinen](https://github.com/kallinenjp)
 - [Shreya Singh]
 - [John Galt](https://github.com/OcacamsRazorsEdge)
 - [Meet Parekh](https://github.com/Pmeet/)
