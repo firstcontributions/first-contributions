@@ -4774,6 +4774,7 @@ first contributions - hanyang univ.
 - [Magda](https://github.com/magdaV24)
 - [airmelt](https://github.com/airmelt)
 - [BogdanHUBIT](https://github.com/BogdanHUBIT)
+- [Cal Hockemeyer](https://github.com/calhockemeyer)
 - [Li-CW](https://github.com/Li-CW)
 - [srinjoy0212](https://github.com/srinjoy0212)
 - [Li-Cw](https://github.com/Li-CW)
