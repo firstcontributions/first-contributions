@@ -4925,6 +4925,7 @@ first contributions - hanyang univ.
 - [jsssca](https://github.com/jsssca)
 - [Ibrahim Khalil](https://github.com/rahatibrahim)
 - [Eymankun](https://github.com/eymankun)
+- [Hariharan Kannan](https://github.com/hariharan2017)
 - [Karthik Raju](https://github.com/KarthikRaju391)
 - [Marcelle Pernet 🍰](https://github.com/muacelle)
 - [Brian Kliwon](https://github.com/briankliwon)
