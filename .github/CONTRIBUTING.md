@@ -8,6 +8,11 @@ If you're making changes to a translation, please request a review from our prev
 
 ### Our reviewers :sparkles:
 
+
+
+
+Name : Abhishek Nayak
+
 | Language Name | Name in English | Reviewers|
 |---|---|---|
 | Afrikaans | [Afrikaans](../translations/README.afk.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/36197725?v=4" alt="@zecollokaris" />](https://github.com/zecollokaris) |
