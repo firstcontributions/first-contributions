@@ -2970,6 +2970,7 @@ Fiyinfoluwa Afolayan
 - [Shibu Naik](https://github.com/shibuNaik)
 - [Aryansh Malviya](https://github.com/4127157)
 - [Robert Hoffman](https://github.com/freestyleclan)
+- [Nicolas Girondi](https://github.com/NicolasGirondi) 
 - [Jerad Sharp](https://github.com/IronDiggy)
 - [Shawn Michael Sudaria](https://github.com/0xM1cx)
 - [Jose Ingunza Hamann](https://github.com/jingunza)
