@@ -6,6 +6,7 @@
 - [Bot-ii]
 - [VintageOrigal](https://github.com/VintageOrigal)
 - [Nirav Patel](https://github.com/Nirav-GCC)
+- [Mahendra Rao B](https://github.com/bsmahi)
 - [Haris Ahmad](https://github.com/Blurpex)
 - [Andre Oliveira](https://github.com/andrepbo)
 - [Nemixe](https://github.com/nemixe)
