@@ -4936,4 +4936,5 @@ Alonzo Church
 - [Gaurav Mathur](https://github.com/GMATHUR90)
 - [Emmanuel Vazé](https://github.com/EmmanuelVaz)
 - [Matteo Bucciol](https://github.com/matteobu)
+- [Maria Stavrianopoulou](https://github.com/stavrmaria)
 - [Bryan Gallardo](https://github.com/bryg)
