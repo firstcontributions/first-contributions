@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 - [Arham Anwar](https://github.com/arhamcode)
 - [Vinicius Gomes Ferreira](https://github.com/viniciusgferreira)
+- [Abulfazl Haidary](https://github.com/abulfazl-haidary)
 - [Ray](https://github.com/1rb)
 - [Ranbir Das](https://github.com/ranbir7)
 - [Sanskriti Sharma](https://github.com/Sanskritisharma17)
