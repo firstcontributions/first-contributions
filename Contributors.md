@@ -663,6 +663,7 @@ Enrique Javier
 - [Jamie Codez](https://github.com/jamie-codez)
 - [unpluggedsam](https://github.com/unpluggedsam)
 - [JasminTajShaik](https://github.com/JasminTajShaik2601)
+- [Isaac Mellad Pemberton](https://github.com/Iketyke)
 - [Nishant Kumar](https://github.com/thinkwithcode)
   [Javier-Bernabe](https://github.com/javbg97)
 - [Pragathees](https://github.com/pragasekar)
