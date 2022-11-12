@@ -4944,3 +4944,4 @@ Alonzo Church
 - [Maria Stavrianopoulou](https://github.com/stavrmaria)
 - [Bryan Gallardo](https://github.com/bryg)
 - [Aman Bansal](https://github.com/Awanmistcuber)
+- [Cedric Pruvost](https://github.com/cedpru)
