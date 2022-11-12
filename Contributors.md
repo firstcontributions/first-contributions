@@ -34,6 +34,7 @@ sudeep
 - [amyy alex](https://github.com/amyyalex)
 - [Kanylbay Zangar](https://github.com/onlineZ123)
 - [salkin898](https://github.com/salkin898)
+Medvedkin Sergey
 - [Hassan Ali](https://github.com/HassAlli)
 - [Moaad Benkaraache](http://github.com/moaadb)
 - [Vedant Mate](https://github.com/VedantMate/)
