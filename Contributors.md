@@ -8,6 +8,7 @@
 - [Ranbir Das](https://github.com/ranbir7)
 - [Sanskriti Sharma](https://github.com/Sanskritisharma17)
 - [Bot-ii]
+- [Daniel Holm](https://github.com/dannivh3)
 - [VintageOrigal](https://github.com/VintageOrigal)
 - [Nirav Patel](https://github.com/Nirav-GCC)
 - [Mahendra Rao B](https://github.com/bsmahi)
