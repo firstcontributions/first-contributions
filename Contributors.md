@@ -1685,6 +1685,7 @@ Add something here
 - [Alexander Ragland](https://github.com/RaglandDev)
 - [Kalyan](https://github.com/ujinikalyan)
 - [Naman Khera](https:github.com/NMN03)
+- [Claudius Barbecue](https://github.com/claudiusbr)
 - [Jayro Gómez](https://github.com/JayroGG)
 - [Ethan Hong](https://github.com/ethanhong)
 - [Carter Rogers](https://github.com/Carter-Rogers)
