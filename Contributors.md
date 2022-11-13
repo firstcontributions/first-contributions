@@ -10,6 +10,7 @@
 - [Abulfazl Haidary](https://github.com/abulfazl-haidary)
 - [Ray](https://github.com/1rb)
 - [Ranbir Das](https://github.com/ranbir7)
+- [Ansar Ahmed](https://github.com/AnsarAhmed99)
 - [Sanskriti Sharma](https://github.com/Sanskritisharma17)
 - [Bot-ii]
 - [Parht Tiwari](https://github.com/Bingolast)
