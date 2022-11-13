@@ -4969,3 +4969,4 @@ Alonzo Church
 - [Cedric Pruvost](https://github.com/cedpru)
 - Hansel
 - [Satya Prasad Donthala](https://github.com/satyabhadra)
+- [Giulia Karanxha](https://github.com/karanxhagiulia)
