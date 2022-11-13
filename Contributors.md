@@ -4951,6 +4951,7 @@ Alonzo Church
 - [Matteo Bucciol](https://github.com/matteobu)
 - [Maria Stavrianopoulou](https://github.com/stavrmaria)
 - [Bryan Gallardo](https://github.com/bryg)
+- [Amit Kumar Upadhyay] (https://github.com/amitu2016)
 - [Aman Bansal](https://github.com/Awanmistcuber)
 - [Cedric Pruvost](https://github.com/cedpru)
 - [Satya Prasad Donthala](https://github.com/satyabhadra)
