@@ -14,6 +14,7 @@
 - [Haris Ahmad](https://github.com/Blurpex)
 - [Andre Oliveira](https://github.com/andrepbo)
 - [Nemixe](https://github.com/nemixe)
+- [JusJira](https://github.com/JusJira)
 - [Josh Woolbright] (https://github.com/Jtwoolbright)
 - [Walid1Dev](https://github.com/Walid1Dev)
 - [Test](https://github.com)
