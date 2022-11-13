@@ -1197,6 +1197,7 @@ Enrique Javier
 - [Tri Pham](https://github.com/TriMPham98)
 - [Ayush Solanki](https://github.com/AyushSolanki123)
 - [Ian Wairimu](https://github.com/wairimu)
+- [Yong Min Jung](https://github.com/jym05000)
 <!-- collins kiplangat mutai(Kiplaacollo) -->
 - [Willian Pinheiro](https://github.com/willpinha)
 - [Hydrotho](https://github.com/hydrotho)
