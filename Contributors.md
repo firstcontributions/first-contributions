@@ -3543,6 +3543,7 @@ Fiyinfoluwa Afolayan
 - [Muhammad Reynaldi](https://github.com/muhreynaldii)
 - [allworkdone](https://github.com/allworkdone)
 - [Pasindu Bandara](https://github.com/PasinduBandaraa)
+- [Shashank Deshpande](https://github.com/Shashankzz0007)
 - [Maulana Irfan](https://github.com/mirfan777)
 - [Arunabh Gupta](https://github.com/Arunabh-gupta)
 - [Omer Avidor](https://github.com/omerav)
@@ -4547,6 +4548,7 @@ Fiyinfoluwa Afolayan
 - [Devasis Panda](https://github.com/DevasisPanda)
 - [Viet Vu](https://github.com/Vietvu00)
 - [Jagannath Dutta](https://github.com/Jagannath-Dutta))
+- [Shashank Deshpande] Hacktoberfest-accepted
 - [Mayank Verma](https://github.com/Mayank627)
 - [Mayank Verma](https://github.com/Mayank627)
 - [Emdadul Haque Rafat](https://github.com/rafat97)
