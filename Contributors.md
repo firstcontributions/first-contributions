@@ -4957,6 +4957,7 @@ Katie Moar
 - [Marcelle Pernet 🍰](https://github.com/muacelle)
 - [Brian Kliwon](https://github.com/briankliwon)
 - [Moirangthem Gelson Singh](https://github.com/gelsonm)
+- [Andrea Lombardo]
 Alonzo Church
 - [Jamaludin Abdi](https://github.com/jamaludin-abdi)
 - [Danny Gomes](https://github.com/dannygomes)
