@@ -311,6 +311,7 @@ Mattia
 - [Sahil Barsaiyan](https://github.com/Sahilb12)
 - [Dario Gumucio](https://github.com/dariogumucio)
 - [Aman Bhagat](https://GitHub.com/sanayaa)
+- [rel1nce](https://github.com/rel1nce)
 - Pham Le Duc THinh
 - Daire Connolly
 - [Rohit Waghole](https://github.com/RohitWaghole)
