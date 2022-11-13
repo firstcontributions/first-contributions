@@ -4963,4 +4963,5 @@ Alonzo Church
 - [Amit Kumar Upadhyay] (https://github.com/amitu2016)
 - [Aman Bansal](https://github.com/Awanmistcuber)
 - [Cedric Pruvost](https://github.com/cedpru)
+- Hansel
 - [Satya Prasad Donthala](https://github.com/satyabhadra)
