@@ -31,6 +31,7 @@ Asad Mehmood
 - [Tanvir Hasan Monir](https://github.com/monirpust)
 - [moonz](https://github.com/qwtoe)
 - [MS]
+Prajay Yalamanchili
 sudeep
 [swarnlata](https://github.com/swarnlataaa)
 - [Euan] (https://github.com/EuanWilliams)
