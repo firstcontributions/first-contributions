@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -12,47 +12,10 @@
 
 #### *जर आपल्याला कमांड लाईन (CLI) सोयीस्कर वाटत नसेल तर [GUI टूल्स वापरण्यासंदर्भात ट्यूटोरियल येथे आहेत.](#इतर-साधने-वापरण्याबाबतीत-ट्युटोरियल)*
 
-#### *[इतर भाषांमध्ये](translations/Translations.md) वाचा.*
-
-[🇮🇳](translations/README.hi.md)
-[🇲🇲](translations/README.mm_unicode.md)
-[🇮🇩](translations/README.id.md)
-[🇫🇷](translations/README.fr.md)
-[🇪🇸](translations/README.es.md)
-[<img src="https://firstcontributions.github.io/assets/Readme/catalan1.png" width="22">](translations/README.ca.md)
-[🇳🇱](translations/README.nl.md)
-[🇱🇹](translations/README.lt.md)
-[🇷🇺](translations/README.ru.md)
-[🇯🇵](translations/README.ja.md)
-[🇻🇳](translations/README.vn.md)
-[🇵🇱](translations/README.pl.md)
-[🇮🇷](translations/README.fa.md)
-[🇮🇷](translations/README.fa.en.md)
-[🇰🇷 🇰🇵](translations/README.ko.md)
-[🇩🇪](translations/README.de.md)
-[🇨🇳](translations/README.chs.md)
-[🇹🇼](translations/README.cht.md)
-[🇬🇷](translations/README.gr.md)
-[🇪🇬](translations/README.eg.md)
-[🇸🇦](translations/README.ar.md)
-[🇺🇦](translations/README.ua.md)
-[🇧🇷](translations/README.pt_br.md)
-[🇵🇹](translations/README.pt-pt.md)
-[🇮🇹](translations/README.it.md)
-[🇹🇭](translations/README.th.md)
-[🏴󠁥󠁳󠁧󠁡󠁿](translations/README.gl.md)
-[🇵🇰](translations/README.ur.md)
-[:bangladesh:](translations/README.bn.md)
-[🇲🇩 🇷🇴](translations/README.ro.md)
-[🇹🇷](translations/README.tr.md)
-[🇸🇪](translations/README.se.md)
-[:slovenia:](translations/README.sl.md)
-[🇮🇱](translations/README.hb.md)
-[🇷🇸](translations/README.sr.md)
 
 [<img src="https://firstcontributions.github.io/assets/Readme/pirate.png" width="22">](translations/README.en-pirate.md)
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 आपण आपल्या मशीनवर Git नसेल तर, [येथुन इन्स्टॉल करा](https://help.github.com/articles/set-up-git/).
 
@@ -63,7 +26,7 @@
 
 ## रिपॉझिटरी (Repository) ला क्लोन (Clone) करणे
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
 आता फोर्क केलेला रिपो आपल्या संगणकावर क्लोन (Clone) करा. यासाठी आपण आपल्या गिटहब (GitHub) खात्यावर जा. जो रिपो आपण फोर्क केलेला आहे, त्याला उघडा. उघडलेल्या रिपोत उजव्या बाजुला वर `Clone or download` बटण दिसेल, त्यावर क्लिक करा. नंतर तेथील `Copy to clipboard` या आयकॉनवर क्लिक करा. याद्वारे प्रस्तुत रिपोची लिंक (URL) कॉपी झालेली असेल.
 
@@ -73,7 +36,7 @@
 git clone <कॉपी-केलेली-लिंक>
 ```
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 येथे `<कॉपी-केलेली-लिंक>` (त्रिकोणी कंस वगळता) यास आपण आताच कॉपी केलेली URL लिंक असे ग्राह्य धरण्यात यावे. ही URL लिंक मिळवण्याकरता याआधीच्या पायरीचे अवलोकन करावे.
 
@@ -113,8 +76,7 @@ git checkout -b add-rahul-thakare
 
 आता मजकूर संपादक मध्ये `Contributors.md` फाइल उघडा, व त्यात आपले नाव जोडा. फाइलच्या सुरवातीस किंवा समाप्तीमध्ये जोडू नका. त्यामध्ये कुठेही ठेवा. आता फाईल सेव्ह (Save) करा.
 
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
-
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 आता तुम्ही पुन्हा टर्मिनल कडे जाल आणि `git status` ही कमांड चालवाल तर तुम्हाला त्यात काही बदल झालेले दिसतील.
 
 `git add` कमांड वापरुन आपण तयार केलेल्या शाखेत ते बदल जोडा
@@ -144,11 +106,12 @@ git push origin <आपल्या-शाखेचे-नाव>
 ## पुनरावलोकनासाठी आपले बदल सबमिट करणे.
 
 आपण आपल्या गिटहब प्रोफाइलवर आपल्या रिपो वर गेल्यास, आपल्याला `Compare & pull request` पाठविण्याचा पर्याय दिसेल, ते दाबा.
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 आता आपल्या `Pull request` सबमिट करा.
 
-<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+
 लवकरच मी आपले बदल या प्रकल्पाच्या मुख्य शाखेत विलीन करेन. जेव्हा आपले बदल विलीन होतील तेव्हा आपल्याला ई-मेल मिळेल.
 
 ## आता पुढे काय?
@@ -157,12 +120,12 @@ git push origin <आपल्या-शाखेचे-नाव>
 
 आपले योगदान साजरे करा आणि [येथे](https://roshanjossey.github.io/first-contributions/#social-share) जाऊन आपल्या मित्र आणि अनुयायांसह शेअर/सामायिक करा.
 
-आपल्याला कोणत्याही मदतीची आवश्यकता असल्यास किंवा काही प्रश्न असल्यास आपण आमच्या स्लॅक टीममध्ये सामील होऊ शकता. [स्लॅक टीममध्ये सामील व्हा](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+आपल्याला कोणत्याही मदतीची आवश्यकता असल्यास किंवा काही प्रश्न असल्यास आपण आमच्या स्लॅक टीममध्ये सामील होऊ शकता. [स्लॅक टीममध्ये सामील व्हा](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 आता आपण इतर प्रकल्पांमध्येही आपले योगदान देऊ शकता. आपण प्रारंभ करू शकाल अशा सुलभ समस्यांसह (Issues) आम्ही काही प्रोजेक्टची सूची संकलित केली आहे. [येथे वेब अॅप मधील प्रकल्पांची यादी पहा.](https://roshanjossey.github.io/first-contributions/#project-list)
 
 ## इतर साधने वापरण्याबाबतीत ट्युटोरियल
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="assets/gk-icon.png" width="100"></a>|
-|---|---|---|
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
+| <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |

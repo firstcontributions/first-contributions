@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -11,53 +11,6 @@ Dit is moeilik. Dit is altyd moeilik om die eerste keer iets te doen. Veral wann
 Lees artikels en kyk tutoriale kan help, maar wat is beter as om die goed in die praktyk te doen? Hierdie projek het ten doel om leiding te gee en die manier waarop beginners hul eerste bydrae maak, te vereenvoudig. As jy jou eerste bydrae wil maak, volg die onderstaande stappe.
 
 #### *As jy nie gemaklik is met die opdraglyn nie, [is daar tutoriale wat GUI-instrumente gebruik.](#Bykomende-materiaal )*
-
-#### *Lees dit in [ander tale .](translations/Translations.md).*
-
-[🇮🇳](translations/README.hi.md)
-[🇲🇲](translations/README.mm_unicode.md)
-[🇮🇩](translations/README.id.md)
-[🇫🇷](translations/README.fr.md)
-[🇪🇸](translations/README.es.md)
-[<img src="https://firstcontributions.github.io/assets/Readme/catalan1.png" width="22">](translations/README.ca.md)
-[🇳🇱](translations/README.nl.md)
-[🇱🇹](translations/README.lt.md)
-[🇷🇺](translations/README.ru.md)
-[:slovakia:](translations/README.slk.md)
-[🇯🇵](translations/README.ja.md)
-[🇻🇳](translations/README.vn.md)
-[🇵🇱](translations/README.pl.md)
-[🇮🇷](translations/README.fa.md)
-[🇮🇷](translations/README.fa.en.md)
-[🇰🇷 🇰🇵](translations/README.ko.md)
-[🇩🇪](translations/README.de.md)
-[🇩🇰](translations/README.da.md)
-[🇨🇳](translations/README.chs.md)
-[🇹🇼](translations/README.cht.md)
-[🇬🇷](translations/README.gr.md)
-[🇪🇬](translations/README.eg.md)
-[🇸🇦](translations/README.ar.md)
-[🇺🇦](translations/README.ua.md)
-[🇧🇷](translations/README.pt_br.md)
-[🇵🇹](translations/README.pt-pt.md)
-[🇮🇹](translations/README.it.md)
-[🇹🇭](translations/README.th.md)
-[🏴](translations/README.gl.md)
-[🇵🇰](translations/README.ur.md)
-[:bangladesh:](translations/README.bn.md)
-[🇲🇩 🇷🇴](translations/README.ro.md)
-[🇹🇷](translations/README.tr.md)
-[🇸🇪](translations/README.se.md)
-[:slovenia:](translations/README.sl.md)
-[🇮🇱](translations/README.hb.md)
-[🇨🇿](translations/README.cs.md)
-[<img src="https://firstcontributions.github.io/assets/Readme/pirate.png" width="22">](translations/README.en-pirate.md)
-[🇲🇽](translations/README.mx.md)
-[🇿🇦](translations/README.zul.md)
-[🇿🇦](translations/README.afk.md)
-[🇰🇪](translations/README.kws.md)
-[🇳🇬](translations/README.igb.md)
-
 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
@@ -165,7 +118,7 @@ Geluk! Jy het net die standaardvurk voltooi -> klone -> wysig -> PR- werkvloei w
 
 Vier jou bydrae en deel dit met jou vriende en volgelinge deur na die [webprogram te](https://roshanjossey.github.io/first-contributions/#social-share) gaan .
 
-U kan by ons span aansluit indien u enige hulp nodig het of enige vrae het. [Sluit aan by 'n slapende span](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+U kan by ons span aansluit indien u enige hulp nodig het of enige vrae het. [Sluit aan by 'n slapende span](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Kom ons begin met die bydrae tot ander projekte. Ons het 'n lys van projekte saamgestel met maklike probleme waarmee u kan begin. Kyk na [die lys van projekte in die web app](https://roshanjossey.github.io/first-contributions/#project-list).
 

@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -11,8 +11,6 @@ O siri ike. Ọ na-esiri gị ike mgbe mbụ i mere ihe. Karịsịa mgbe ị na
 Ịgụ isiokwu & nkuzi ntanetị nwere ike inyere gị aka, ma gịnị dị mma karịa ime ihe ahụ na-eme ihe omume? Ihe oru a bu iji nye nduzi & mee ka ndi mmadu bidoro ibu onyinye mbu. Ọ bụrụ na ị na-achọ ime onyinye mbụ gị, gbasoo nzọụkwụ dị n'okpuru.
 
 #### *Ọ bụrụ na ị naghị enwe mmasị na akara iwu, [ebe a bụ nkuzi na-eji ngwaọrụ GUI.](#Nkuzi-na-iji-ihe-ndi-ozo)*
-
-#### *Gụọ nke a n'asụsụ [ndị ọzọ](translations/Translations.md).*
 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
@@ -123,7 +121,7 @@ Ekele! Naanị ị gụchara ihe nkesa -> mmepụta oyiri -> dezie -> Bọpụ �
 
 Nalee onyinye gị ma soro ndị enyi gị na ụmụazụ gị kerịta ya site na ịga na [ngwa weebụ](https://roshanjossey.github.io/first-contributions/#social-share).
 
-Ị nwere ike isonyere ndị ọrụ anyị na-adịghị mma na ikpe ịchọrọ enyemaka ọ bụla ma ọ bụ nwee ajụjụ ọ bụla. [Jikọọ slack otu](https://join.slack.com/t/firstcontr🏴ibutors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+Ị nwere ike isonyere ndị ọrụ anyị na-adịghị mma na ikpe ịchọrọ enyemaka ọ bụla ma ọ bụ nwee ajụjụ ọ bụla. [Jikọọ slack otu](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Ugbu a, ka anyị malite site na inye onyinye maka ọrụ ndị ọzọ. Anyị ejikọtawo ndepụta nke oru na okwu dị mfe ị nwere ike ịmalite. Lelee [ndepụta nke oru na ngwa weebụ ](https://roshanjossey.github.io/first-contributions/#project-list).
 
