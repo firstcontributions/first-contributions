@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+  [Uttam Kumar ](https://github.com/Utt977)
 - [Arham Anwar](https://github.com/arhamcode)
 - [Muhammad Rahman](https://github.com/mfrahman123)
 - [hola]
