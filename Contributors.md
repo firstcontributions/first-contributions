@@ -2434,6 +2434,7 @@ Fiyinfoluwa Afolayan
 - [Laboni sarkar](https://github.com/labonisarkar9508)
 - [Christine Belzie](https://github.com/CBID2)
 - [Najeeb Arif](https://githib.com/NajeebArif)
+- [Pablo Altamirano](https://github.com/pabloaltam)
 - [Patrick Ayers](https://github.com/patrickA25)
 - [Pavitra Lalwani](https://github.com/pavitra-lalwani)
 - [Ling_Lang](https://github.com/Ling-Lang)
