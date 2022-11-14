@@ -4966,6 +4966,7 @@ Katie Moar
 - [Andrea Lombardo]
 Alonzo Church
 - [Jamaludin Abdi](https://github.com/jamaludin-abdi)
+- [Tomasz Misiukiewicz](https://github.com/TMisiukiewicz)
 - [Danny Gomes](https://github.com/dannygomes)
 - [Gaurav Mathur](https://github.com/GMATHUR90)
 - [Emmanuel Vazé](https://github.com/EmmanuelVaz)
