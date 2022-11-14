@@ -4416,6 +4416,7 @@ Fiyinfoluwa Afolayan
 - [Mariana P Correa](https://github.com/marianapcorrea)
 - [Manan Sharma](https://github.com/MananSharma2710)
 - [Sidhant kaushal](https://github.com/sidhantkaushal)
+- [Khai Nguyen](https://github.com/khaind)
 - [Marcelo Dantas](https://github.com/MarceloLuisDantas)
 - [Varchronos](https://github.com/Varchronos)
 - [Mihir Srivastava](https://github.com/MihirSrivastava-tech)
