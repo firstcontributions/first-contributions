@@ -30,6 +30,7 @@
 - [JusJira](https://github.com/JusJira)
 - [Josh Woolbright] (https://github.com/Jtwoolbright)
 - [Walid1Dev](https://github.com/Walid1Dev)
+- [Mueghe Abuemkeze](https://github.com/MuegheAbuemkeze)
 - [Test](https://github.com)
 - [Aki](https://github.com/akt00)
 - [Shruti](https://github.com/shrutii16)
