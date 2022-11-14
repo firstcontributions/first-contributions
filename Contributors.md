@@ -10,6 +10,7 @@
 - [Abulfazl Haidary](https://github.com/abulfazl-haidary)
 - [Alfred Thompson Ovie](https://github.com/alfredthompsonOvie)
 - [Ray](https://github.com/1rb)
+- [Ye Min Aung](https://github.com/mryeminaung)
 - [Ranbir Das](https://github.com/ranbir7)
 - [Ansar Ahmed](https://github.com/AnsarAhmed99)
 - [Sanskriti Sharma](https://github.com/Sanskritisharma17)
