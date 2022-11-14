@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
   [Uttam Kumar ](https://github.com/Utt977)
 - [Arham Anwar](https://github.com/arhamcode)
+- [Furqan Hameed](https://github.com/Furqaaan)
 - [Amar Gulaganji](https://github.com/amargulaganji)
 - [Iris Kalogirou 🇬🇷 ](https://github.com/iris-zaf)
 - [Muhammad Rahman](https://github.com/mfrahman123)
