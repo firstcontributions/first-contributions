@@ -13,6 +13,7 @@
 - [Ranbir Das](https://github.com/ranbir7)
 - [Ansar Ahmed](https://github.com/AnsarAhmed99)
 - [Sanskriti Sharma](https://github.com/Sanskritisharma17)
+- [Hex09AF](https://github.com/Hex09AF)
 - [Bot-ii]
 - [Parht Tiwari](https://github.com/Bingolast)
 - [Daniel Holm](https://github.com/dannivh3)
