@@ -703,6 +703,7 @@ Enrique Javier
 - [Ikhari] (https://github.com/Ikhari)
 - [mrcipo] (https://github.com/mrcipo)
 - [SM-creation] (https://github.com/shaman-004)
+- [Yash Bellary](https://github.com/bellaryyash23)
 - [jeongwoo903](https://github.com/jeongwoo903)
 - [Desmond-Fon](https://github.com/Desmond-Fon)
 - [Srijanya Durganala](https://github.com/Srijanya.D)
