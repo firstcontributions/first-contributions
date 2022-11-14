@@ -4994,3 +4994,4 @@ Alonzo Church
 - [Shrinithi Srinivasan](https://github.com/Shrinithi63/)
 - [Lucas Santos](https://github.com/subDexe/)
 - [chawinkn](https://github.com/chawinkn)
+- [Kieran Sweeden](https://github.com/KieranSweeden)
