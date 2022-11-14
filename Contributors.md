@@ -230,6 +230,7 @@ pnordboj
 - [abdulhaseeb036](https://github.com/abdulhaseeb036)
 - [Ankush Negi](https://leetcode.com/AnkushNegi531/)
 - [Emmanuel Mensah](https://github.com/principles31)
+- [OSDBEND]
 - [FeeeDz] (https://github.com/FeeeDz)
 - [Yufeng Liu] (https://github.com/yufengliu15)
 - [Alex Song](https://github.com/TheRealAlexSong)
