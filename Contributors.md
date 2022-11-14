@@ -2644,6 +2644,7 @@ Fiyinfoluwa Afolayan
 - [Lucas Blanco](https://github.com/lucasmblanco)
 - [Jada Alexander](https://github.com/jalexandertech)
 - [Rajkumar Dongre](https://github.com/rajkumardongre)
+- [Filip Cosic](https://github.com/Cyagen1)
 - [Sourabh Singh Bisht](https://github.com/Gallant-Sage)
 - [Richmond Tetteh](https://github.com/richmondstetteh)
 - [Munezero Bagira Sostene](https://github.com/munezerobagira)
