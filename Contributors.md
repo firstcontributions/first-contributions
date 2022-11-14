@@ -19,6 +19,7 @@
 - [Sanskriti Sharma](https://github.com/Sanskritisharma17)
 - [Hex09AF](https://github.com/Hex09AF)
 - [Bot-ii]
+- [Sai Charan Vadakapur](https://github.com/iamsaicharan)
 - [Parht Tiwari](https://github.com/Bingolast)
 - [Daniel Holm](https://github.com/dannivh3)
 - [VintageOrigal](https://github.com/VintageOrigal)
