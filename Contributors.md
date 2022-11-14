@@ -3499,6 +3499,7 @@ Fiyinfoluwa Afolayan
 - [Jeffrey Whewhetu](https://github.com/c0d33ngr)
 - [Nathan Abegaz](https://github.com/Nathan-Abegaz)
 - [Marek Kus](https://github.com/imarekkus)
+- [Khushal]
 - [Zarau baidu](https://github.com/zeerau)
 - [Kyler Conant](https://github.com/kylerc150)
 - [Chung-Huu-Tin](https://github.com/TinChung41)
