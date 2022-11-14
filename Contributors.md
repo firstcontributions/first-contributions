@@ -2,14 +2,17 @@
 <!-- prettier-ignore-start -->
   [Uttam Kumar ](https://github.com/Utt977)
 - [Arham Anwar](https://github.com/arhamcode)
+- [Furqan Hameed](https://github.com/Furqaaan)
 - [Amar Gulaganji](https://github.com/amargulaganji)
 - [Iris Kalogirou 🇬🇷 ](https://github.com/iris-zaf)
+- [V4M0N0S](https://github.com/V4M0N0S)
 - [Muhammad Rahman](https://github.com/mfrahman123)
 - [hola]
 - [Vinicius Gomes Ferreira](https://github.com/viniciusgferreira)
 - [Abulfazl Haidary](https://github.com/abulfazl-haidary)
 - [Alfred Thompson Ovie](https://github.com/alfredthompsonOvie)
 - [Ray](https://github.com/1rb)
+- [Ye Min Aung](https://github.com/mryeminaung)
 - [Ranbir Das](https://github.com/ranbir7)
 - [Ansar Ahmed](https://github.com/AnsarAhmed99)
 - [Sanskriti Sharma](https://github.com/Sanskritisharma17)
@@ -4965,6 +4968,7 @@ Katie Moar
 - [Andrea Lombardo]
 Alonzo Church
 - [Jamaludin Abdi](https://github.com/jamaludin-abdi)
+- [Tomasz Misiukiewicz](https://github.com/TMisiukiewicz)
 - [Danny Gomes](https://github.com/dannygomes)
 - [Gaurav Mathur](https://github.com/GMATHUR90)
 - [Emmanuel Vazé](https://github.com/EmmanuelVaz)
@@ -4981,3 +4985,4 @@ Alonzo Church
 - [Jesmine Goh](https://github.com/JG-SSYT/)
 - [Shrinithi Srinivasan](https://github.com/Shrinithi63/)
 - [Alif Sakib](https://github.com/AlifSakib)
+- [Lucas Santos](https://github.com/subDexe/)
