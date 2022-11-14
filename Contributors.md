@@ -13,6 +13,7 @@
 - [Alfred Thompson Ovie](https://github.com/alfredthompsonOvie)
 - [Ray](https://github.com/1rb)
 - [Ye Min Aung](https://github.com/mryeminaung)
+- [Sumit Mangrati](https://github.com/SumitMangrati)
 - [Ranbir Das](https://github.com/ranbir7)
 - [Ansar Ahmed](https://github.com/AnsarAhmed99)
 - [Sanskriti Sharma](https://github.com/Sanskritisharma17)
