@@ -174,6 +174,7 @@ pnordboj
 - [bohemian-x] (https://github.com/bohemiancode-x)
 - [Apeksha Arora](http://github.com/apekshasan)
 - Akshay
+- PrincyQ
 - [Chirayu Pancholi](https://github.com/Chirayu31)
 - [AnushaPalle](https://github.com/AnushaPalle)
 - [Hemant Lohar] (https://github.com/Hemant-Lohar)
