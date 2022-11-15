@@ -96,6 +96,7 @@ pnordboj
 - [Dominic Bluawofogbe](https://github.com/Dominic2000code)
 - [Ethen Stiles](https://github.com/EthenStiles)
 - [TrueJu](https://github.com/TrueJu)
+- [miharbi ifos](https://github.com/99ibra)
 - [bananahair](https://github.com/bananahair)
 - [Jomar Cardoza](https://github.com/jmrc1995)
 - [Artyom Amiryan](https://github.com/Artyom22)
