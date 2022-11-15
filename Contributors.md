@@ -245,6 +245,7 @@ pnordboj
 - [Usman Khan](https://github.com/UsmanK7)
 - [Shannon Torcato](https://github.com/shannontorcato)
 - [DaneeSkripter](htttps://github.com/daneeskripter)
+- [IsaacWritesCode](https://github.com/IsaacWritesCodeGithub)
 - [Sneha Kumari](https://github.com/Codewithsneha0)
 - [Abhishek Gupta](https://github.com/abhi808shek)
 - [Claire Schregardus] (https://github.com/schregardusc)
