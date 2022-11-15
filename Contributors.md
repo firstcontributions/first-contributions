@@ -159,6 +159,7 @@ pnordboj
 - [Ankith Motha](https://github.com/Alpha-github/)
 - Praveen Bhawantha
 - [Gabriel Waegner](https://github.com/Gwaegs)
+- [Anand S](https://github.com/anand2000s)
 - [Aryan Wadhwa](https://github.com/TastyBiscuit0808/first-contributions)
 - [Ishmael Peavy] (https://github.com/ipeavy)
 - [Joker-CDSS-Abasiediedu] (https://github.com/Joker-CDSS)
