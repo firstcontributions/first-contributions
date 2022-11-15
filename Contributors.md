@@ -44,6 +44,7 @@
 - [David Letaw](https://github.com/davidletaw)
 - [Sam Erde](https://github.com/SamErde)
 - [Danny Bae](https://github.com/danveb)
+- [Abhishek Nayak](https://github.com/Abhishek2nayak)
 - [Abdelkarim](https://github.com/badelgeek)
 - [Sai Kiran]
 - [Sunday P. Afolabi](https://github.com/Lecon-a)
