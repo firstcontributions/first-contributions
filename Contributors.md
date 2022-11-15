@@ -3203,6 +3203,7 @@ Fiyinfoluwa Afolayan
 - [Antonin Desfontaines](https://github.com/adesfontaines)
 - [Jai Ganesh](https://github.com/jjaijg)
 - [Mohamed El omary](https://github.com/celomary)
+- [Jesus Zapata More](https://github.com/FreddyxD5)
 - [Richard Panzera](https://github.com/richardpanzera)
 - [Ailine Dominey](https://github.com/ailinedominey)
 - [Robin Kempen](https://github.com/Robinho1997)
