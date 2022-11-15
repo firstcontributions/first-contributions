@@ -4942,6 +4942,7 @@ first contributions - hanyang univ.
 - [Khushi Singh](https://github.com/khugitshii)
 - [Axel Martin](https://github.com/AxlMrt)
 - [Michael Kiffer](https://github.com/mkiffer)
+- [Daniel Falcone](https://github.com/dfalcone19)
 Katie Moar
 - [Abhinai](https://github.com/Abhinai1395)
 - [lukastheviciouss](https://github.com/lukasthevicious)
