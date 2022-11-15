@@ -243,6 +243,7 @@ pnordboj
 - [Yufeng Liu] (https://github.com/yufengliu15)
 - [Alex Song](https://github.com/TheRealAlexSong)
 - [mahalakshmikutcharlapati](https://github.com/mahalakshmikutcharlapati)
+- [Andrea Mammoliti](https://github.com/AndreusSH)
 - [Praddyum Verma](https://praddy2009.github.io/)
 - [Divyanshu Singhal](https://github.com/divyanshu9821)
 - [bhavana] (https://github.com/bhavana-263)
@@ -293,6 +294,7 @@ pnordboj
 - [Kavyadeep Dev](https://github.com/kavyadeepdev)
 - [Aditya Mundas] (https://github.com/am1671)
 - [Saloni Mathur] (https://github.com/Saloniimathur)
+[Farhanah Mak] (https://github.com/Farhanah-Mak)
 - [Akshay Rokade] (https://github.com/akshay-2912)
 - [Dorcas Komane] (https://github.com/DorcasKomane)
 - [Amrutha Polamarasetty](https://github.com/amruthapolamarasetty)
@@ -997,6 +999,7 @@ Enrique Javier
 - [Syed Jailani](https://github.com/syedjailani)
 - [Syed Jailani](https://github.com/syedjailani)
 - [AkT-01](https://githhub.com/AkT-01)
+- [Ken](htpps://github.com/)
 - [Syed Jailani](https://github.com/syedjailani)
 - [Sudip Bhusal](https://github.com/imsubhu)
 - [Abhighyaa](https://github.com/Abhighyaa)
@@ -2373,6 +2376,7 @@ Fiyinfoluwa Afolayan
 - [Aaron S]
 - [gjerman](https://github.com/gjerman)
 - [yangxizhe]
+- [tung]
 - [anshul agrawal]
 - FirstName LastName
 - [Dun](https://github.com/DundeeA)
@@ -4987,6 +4991,7 @@ Alonzo Church
 - [Jamaludin Abdi](https://github.com/jamaludin-abdi)
 - [Tomasz Misiukiewicz](https://github.com/TMisiukiewicz)
 - [Danny Gomes](https://github.com/dannygomes)
+- [Ibuki Aizawa](https://github.com/iaizawa0623)
 - [Gaurav Mathur](https://github.com/GMATHUR90)
 - [Emmanuel Vazé](https://github.com/EmmanuelVaz)
 - [Matteo Bucciol](https://github.com/matteobu)
@@ -5006,3 +5011,4 @@ Alonzo Church
 - [Kieran Sweeden](https://github.com/KieranSweeden)
 - [Mohammed Saeid](https://github.com/MoSaeid)
 - [Faizan Vahora](https://github.com/Faizanvahora120)
+- [anothermiata](https://github.com/anothermiata)
