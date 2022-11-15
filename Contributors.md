@@ -247,6 +247,7 @@ pnordboj
 - [Emmanuel Mensah](https://github.com/principles31)
 - [OSDBEND]
 - [FeeeDz] (https://github.com/FeeeDz)
+- [Kasamba Lumwagi](https://github.com/Kasambx)
 - [Yufeng Liu] (https://github.com/yufengliu15)
 - [Alex Song](https://github.com/TheRealAlexSong)
 - [mahalakshmikutcharlapati](https://github.com/mahalakshmikutcharlapati)
