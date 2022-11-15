@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
   [Uttam Kumar ](https://github.com/Utt977)
+  [Sarmen Ter-oganesyan](https://github.com/sarmen-t)
 - [Arham Anwar](https://github.com/arhamcode)
 - [Furqan Hameed](https://github.com/Furqaaan)
 - [Amar Gulaganji](https://github.com/amargulaganji)
