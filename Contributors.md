@@ -30,6 +30,7 @@
 - [Menghan Xu](https://github.com/menghanx)
 - [Nirav Patel](https://github.com/Nirav-GCC)
 - [Mahendra Rao B](https://github.com/bsmahi)
+- [Manzolillo-IT]
 - [Haris Ahmad](https://github.com/Blurpex)
 - [Andre Oliveira](https://github.com/andrepbo)
 - [Nemixe](https://github.com/nemixe)
@@ -282,7 +283,7 @@ pnordboj
 - [Pratheek Shetty](https://github.com/pratheek-shett)
 - [Dionne Mascarenhas](https://github.com/dmasc2)
 - [Usman Khan](https://github.com/UsmanK7)
-- [SAURABH200301](https://github.com/SAURABH200301)
+- [SAURABH200300](https://github.com/SAURABH200301)
 - [Mustafa Bhm](https://github.com/mustafa-bhm)
 - [Iman Crooks](https://github.com/iqtheengineer)
 - [JJW Roeloffs](https://github.com/JJWRoeloffs)
