@@ -111,6 +111,7 @@ pnordboj
 - [Gayathri Krishnan](https://github.com/GK3077)
 - [Mustafa Mansy](https://github.com/xmansyx)
 - [Yeabesera Derese](https://github.com/Yagth)
+- [Chetan Kumar Patel](https://github.com/V10codes)
 - [testing 1st]
 - [Jose Maria Lopez](https://github.com/josemarialopezz)
 - [Nikos Papadakis](https://github.com/npa528)
