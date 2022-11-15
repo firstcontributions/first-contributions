@@ -2244,6 +2244,7 @@ Add something here
 - [Dev Kumar Gupta](https://github.com/DevGupta-ikr)
 - [LeZozoien](https://github.com/LeZozoien)
 - [s1nisteR](https://github.com/s1nisteR)
+- [kappelmon](https://github.com/kappelmon)
 - [Nam Tang Wilouricard](https://github.com/Wilouricard)
 - [Mudassir](https://github.com/Lzyct)
 - [Lotfi Jebali](https://github.com/lotfijb)
