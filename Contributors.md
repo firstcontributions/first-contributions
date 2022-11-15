@@ -4989,6 +4989,7 @@ Alonzo Church
 - [Jamaludin Abdi](https://github.com/jamaludin-abdi)
 - [Tomasz Misiukiewicz](https://github.com/TMisiukiewicz)
 - [Danny Gomes](https://github.com/dannygomes)
+- [Ibuki Aizawa](https://github.com/iaizawa0623)
 - [Gaurav Mathur](https://github.com/GMATHUR90)
 - [Emmanuel Vazé](https://github.com/EmmanuelVaz)
 - [Matteo Bucciol](https://github.com/matteobu)
