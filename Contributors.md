@@ -5024,3 +5024,4 @@ Alonzo Church
 - [Kieran Sweeden](https://github.com/KieranSweeden)
 - [Mohammed Saeid](https://github.com/MoSaeid)
 - [anothermiata](https://github.com/anothermiata)
+- [JamesRMcHenry](https://github.com/JamesRMcHenry)
