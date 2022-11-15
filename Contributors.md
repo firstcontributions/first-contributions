@@ -63,6 +63,7 @@ sudeep
 - [salkin898](https://github.com/salkin898)
 Medvedkin Sergey
 - [Hassan Ali](https://github.com/HassAlli)
+vishal anand
 - [Moaad Benkaraache](http://github.com/moaadb)
 - [Vedant Mate](https://github.com/VedantMate/)
 - [Matteo DeSimone](github.com/TheMatteoD)
