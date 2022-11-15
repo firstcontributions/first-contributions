@@ -226,6 +226,7 @@ pnordboj
 - [Lucia Rigoni](https://github.com/luciarigoni)
 - [M.Nisar Ali](https://github.com/MNisarAli)
 - [AutumLeaf]
+- [Alex Trofimov](https://github.com/Blackk88)
 - [Veera Vignesh](https://github.com/veeravignesh1)
 - [Eric Eugène RANDRIANARISOA](https://github.com/raneric)
 - [Devanshu Mahapatra](https://github.com/Devanshu-17)
