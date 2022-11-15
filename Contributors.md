@@ -293,6 +293,7 @@ pnordboj
 - [Kavyadeep Dev](https://github.com/kavyadeepdev)
 - [Aditya Mundas] (https://github.com/am1671)
 - [Saloni Mathur] (https://github.com/Saloniimathur)
+[Farhanah Mak] (https://github.com/Farhanah-Mak)
 - [Akshay Rokade] (https://github.com/akshay-2912)
 - [Dorcas Komane] (https://github.com/DorcasKomane)
 - [Amrutha Polamarasetty](https://github.com/amruthapolamarasetty)
