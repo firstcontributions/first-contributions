@@ -127,6 +127,7 @@ pnordboj
 - [Milca Brito](https://github.com/milcab)
 - [Manishit mani]()
 - Saintspec
+- [Girish Bari](https://github.com/Girishbari)
 - [Rohan Sharma](https://github.com/Rohanfizz)
 - [Nitin Kumar] (https://github.com/CKShere)
 - [Md Irfan] (https://github.com/irfan7839)
