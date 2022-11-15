@@ -243,6 +243,7 @@ pnordboj
 - [Yufeng Liu] (https://github.com/yufengliu15)
 - [Alex Song](https://github.com/TheRealAlexSong)
 - [mahalakshmikutcharlapati](https://github.com/mahalakshmikutcharlapati)
+- [Andrea Mammoliti](https://github.com/AndreusSH)
 - [Praddyum Verma](https://praddy2009.github.io/)
 - [Divyanshu Singhal](https://github.com/divyanshu9821)
 - [bhavana] (https://github.com/bhavana-263)
