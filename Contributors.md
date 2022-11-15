@@ -27,6 +27,7 @@
 - [Daniel Holm](https://github.com/dannivh3)
 - [VintageOrigal](https://github.com/VintageOrigal)
 - [mangoace]
+- [Menghan Xu](https://github.com/menghanx)
 - [Nirav Patel](https://github.com/Nirav-GCC)
 - [Mahendra Rao B](https://github.com/bsmahi)
 - [Haris Ahmad](https://github.com/Blurpex)
