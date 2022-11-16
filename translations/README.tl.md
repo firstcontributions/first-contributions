@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -109,7 +109,7 @@ Congrats!  Nakumpleto mo ang standard _fork -> clone -> edit -> PR_ na workflow 
 
 I-celebrate ang iyong kontribusyon at i-share mo sa mga kaibigan at followers mo sa pagpunta sa [web app](https://firstcontributions.github.io/#social-share).
 
-Puwede ka rin sumama sa aming Slack team kung kailangan mo ng karagdagan tulong o gustong magtanong. [Sumama sa aming Slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+Puwede ka rin sumama sa aming Slack team kung kailangan mo ng karagdagan tulong o gustong magtanong. [Sumama sa aming Slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Ngayon, magsimula ka na mag-contribute sa ibang proyekto. Nagtipon kami ng listahan ng mga proyekto na may madaling issues na puwedeng-puwede kang makisabay. Paki-visit lang [ang listahan mula sa web app](https://firstcontributions.github.io/#project-list).
 

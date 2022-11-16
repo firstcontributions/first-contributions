@@ -1,6 +1,6 @@
 # Gitflow
 
-Gitflow is a branching model for Git made by Vincent Driessen. Here the dicussion would be the requirements and use-cases of Gitflow.<br />
+Gitflow is a branching model for Git made by Vincent Driessen. Here the discussion would be the requirements and use-cases of Gitflow.<br />
 The Gitflow workflow defines a strict branching model designed around the project release, which provides a robust framework for managing larger projects. Gitflow is ideally suited for projects that have a scheduled release cycle and for the DevOps best practice of continuous delivery. It assigns very specific roles to different branches and defines how and when they should interact. It uses individual branches for preparing, maintaining and recording releases.
 
 
