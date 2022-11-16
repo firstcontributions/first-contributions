@@ -15,6 +15,7 @@
 - [Jestor](https://github.com/jestorDev)
 - [Muhammad Rahman](https://github.com/mfrahman123)
 - [Anant Yadav](https://github.com/avadro112)
+- [Ish Rastogi](https://github.com/ishnetcode)
 - [hola]
 - [Jayrup Nakawala](https://github.com/CaptainJack9832)
 - [Vinicius Gomes Ferreira](https://github.com/viniciusgferreira)
