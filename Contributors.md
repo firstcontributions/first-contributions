@@ -10,6 +10,7 @@
 - [Cole Terrell](https://github.com/colecterrell)
 - [Dhruv Belurkar] (https://github.com/strygwyr69)
 - [V4M0N0S](https://github.com/V4M0N0S)
+- [Jestor](https://github.com/jestorDev)
 - [Muhammad Rahman](https://github.com/mfrahman123)
 - [hola]
 - [Jayrup Nakawala](https://github.com/CaptainJack9832)
