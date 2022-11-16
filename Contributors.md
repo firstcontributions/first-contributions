@@ -140,6 +140,7 @@ pnordboj
 - [Md Irfan] (https://github.com/irfan7839)
 - [Olayinka Olasimbo](https://github.com/donwaikay)
 - [eeju] (https://github.com/neerajkambojin)
+Rehan Shaikh
 - [Carlos Luque] (https://github.com/carlosluque)
 - [Benjamin Morgiewicz](https://github.com/BaseBenjamin13)
 - [Keenan Speaks] (https://github.com/Styleshift)
