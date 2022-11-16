@@ -42,6 +42,7 @@
 - [Nirav Patel](https://github.com/Nirav-GCC)
 - [Mahendra Rao B](https://github.com/bsmahi)
 - [Manzolillo-IT]
+- [DevPersi](https://github.com/devpersi/)
   [Saumya Gupta]
 - [Star Tripper](https://github.com/ComputehGuy)
 - [Haris Ahmad](https://github.com/Blurpex)
