@@ -12,7 +12,7 @@ Leggere articoli e guardare tutorial può essere utile, ma cosa c'è di meglio c
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Se non hai git sul tuo computer, [ installalo ]( https://help.github.com/articles/set-up-git/ ).
+Se non hai git sul tuo computer, [installalo]( https://help.github.com/articles/set-up-git/).
 
 ## Forka questa repository
 
