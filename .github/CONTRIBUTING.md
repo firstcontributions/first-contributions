@@ -332,7 +332,7 @@ If you're making changes to a translation, please request a review from our prev
            <a href="../translations/README.bn.md">বাংলা</a>
         </td>
         <td>
-           <a href="../README.ro.md">Limba Română</a>
+           <a href="../translations/README.ro.md">Limba Română</a>
         </td>
         <td>
            <a href="../translations/README.md">English</a>
