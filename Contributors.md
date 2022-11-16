@@ -33,6 +33,7 @@
 - [Mahendra Rao B](https://github.com/bsmahi)
 - [Manzolillo-IT]
   [Saumya Gupta]
+- [Star Tripper](https://github.com/ComputehGuy)
 - [Haris Ahmad](https://github.com/Blurpex)
 - [Andre Oliveira](https://github.com/andrepbo)
 - [Nemixe](https://github.com/nemixe)
