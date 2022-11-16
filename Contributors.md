@@ -5046,4 +5046,5 @@ Alonzo Church
 - [Mohammed Saeid](https://github.com/MoSaeid)
 - [anothermiata](https://github.com/anothermiata)
 - [JamesRMcHenry](https://github.com/JamesRMcHenry)
+- [DarmorGamz](https://github.com/DarmorGamz)
 - [Vladymirovich](https://github.com/Vladymirovich)
