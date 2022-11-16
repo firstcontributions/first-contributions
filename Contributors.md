@@ -341,6 +341,7 @@ Mattia
 - [terminalPoltergeist](https://github.com/terminalPoltergeist)
 - [katumba jonathan paul](https://github.com/kpaool)
 - [Sushil Suthar](https://github.com/isushilsuthar)
+- [Anupama Jedi](https://github.com/anupama003)
 - [Jalebium69](https://github.com/jesherjoshua)
 - [marioluiss](https://github.com/MarioLuiss)
 - [Bojidar Vladimirov](https://github.com/BojidarV)
