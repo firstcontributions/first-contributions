@@ -4663,6 +4663,19 @@ Fiyinfoluwa Afolayan
 - [🤓Ruben Izembrandt🤠](https://github.com/izembrandt)
 - [Aman Bhardwaj](https://github.com/iaman877)
 - [Santanu Jana](https://github.com/Santanujana2001)
+- [Carmen Amba](https://github.com/Carmenbelle)
+- [Yaswanth Tondepu](https://github.com/yaswanthtondepu)
+- [Mohamed Lahyane](https://github.com/Anir-Ln)
+- [Prachi Sharma](https://github.com/prachi128)
+- [Avinaba Bera](https://github.com/avimax37)
+- [Devalimalik](https://github.com/devalimalik)
+- [Alice Eneyo](https://github.com/Aliyosign)
+- [HonKLam](https://github.com/HonKLam)
+- [Riley Thompson](https://github.com/rjthompson2)
+- [Toby Mark](https://github.com/Mr-Sbev)
+- [Seayon](https://github.com/Seayon)
+- [Gagan Pabla](https://github.com/CrownPab)
+- [BhanuTeja](https://github.com/Bhanuteja01)
 - [Reeya Hazarika](https://github.com/reeyah)
 - [Harsh koli](https://github.com/Harshkoli121)
 - [Aishani Pachauri](https://github.com/Aishanipach)
@@ -4727,7 +4740,7 @@ Fiyinfoluwa Afolayan
 - [Kunal Pitale](https://github.com/iamkunalpitale)
 - [Rimon Sade](https://github.com/Rimonaldo)
 - [Alexandr Volk](https://github.com/ky1e-cyber)
-- [Babyico | Laith 🌸](https://github.com/babyico)
+- [Babyico | Laith 🌸](https://github.com
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
 - [Ishaan Loomba](https://github.com/ishaan191220)
