@@ -3932,6 +3932,7 @@ Fiyinfoluwa Afolayan
 - [sammkodes96](https://github.com/sammkodes96)
 - [Janhvi Singh](https://github.com/Janhvisingh21/first-contributions.git)
 - [Janhvi Singh](https://github.com/Janhvisingh21/first-contributions.git)
+- [Khudadad Khawari](https://github.com/KhudadadKhawari)
 - [Ethan Cox](https://github.com/MasterReach1)
 - [John Marcial](https://github.com/John121904)
 - [Vamsi NAdh](https://github.com/vamsinadh2000)
