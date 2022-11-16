@@ -85,7 +85,7 @@ vishal anand
 - [Moaad Benkaraache](http://github.com/moaadb)
 - [Vedant Mate](https://github.com/VedantMate/)
 - [Matteo DeSimone](github.com/TheMatteoD)
-- [Krishna vamsi](https://github.com/Reddragonemperor58)
+- [Vipparthi Venkata Krishna Vamsi](https://github.com/Reddragonemperor58)
 - [AntonioToni](https://github.com/AntonioToni)
 - [Soy Mariana] (https://github.com/mariana-aguilar)
 - [shauryas](https://github.com/shauryas)
