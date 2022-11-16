@@ -97,6 +97,7 @@ pnordboj
 - [Artyom Amiryan](https://github.com/Artyom22)
 - [Suraj Mhatre](https://github.com/suraj-py)
 - [Gokul Narayanan](https://github.com/Gokul-0hno)
+- [One Point Six](https://github.com/onepoint618)
 - [Souransu Sen](https://github.com/FinalRain7751)
 - [mukulgaur](https://github.com/MukulGaur)
 - [Leul Wujira](https://github.com/meraf00)
