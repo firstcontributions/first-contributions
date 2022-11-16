@@ -67,6 +67,7 @@ sudeep
 - [Alex D Hill](https://github.com/alexdhill)
 - [Aditya Singh](https://github.com/Adi-ty)
 - [fabienzz](https://github.com/fabienzz)
+- [Amr Aqel](https://github.com/amraqel)
 - [Muhammad Rafi Yudhistira](https://github.com/rapuyy)
 - [Kelsie Murphy](https://github.com/kelsiesmurphy)
 - [arknaut](https://github.com/arknaut)
