@@ -6,6 +6,7 @@
 - [Furqan Hameed](https://github.com/Furqaaan)
 - [Amar Gulaganji](https://github.com/amargulaganji)
 - [Iris Kalogirou 🇬🇷 ](https://github.com/iris-zaf)
+- [Lam](https://github.com/ngld0)
 - [Cole Terrell](https://github.com/colecterrell)
 - [Dhruv Belurkar] (https://github.com/strygwyr69)
 - [V4M0N0S](https://github.com/V4M0N0S)
@@ -252,7 +253,7 @@ Rehan Shaikh
 - [Pritesh Kiri](https://github.com/PriteshKiri)
 - [LisHun]
 - [manba]
-- [Lam] (https://github.com/ngld0)
+
 - [Vaaranan Yogalingam] (https://github.com/vaaranan-y)
 - [Boyeong Yoon](https://github.com/BoyeongYoon)
 - [abdulhaseeb036](https://github.com/abdulhaseeb036)
