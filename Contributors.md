@@ -226,6 +226,7 @@ Rehan Shaikh
 - [Obafemi Oludahunsi] (https://github.com/Obafemi-NG)
 - [James Hunter] (https://github.com/Jameshunter1)
 - [SAHIL SINHA](https://github.com/SahilSinha007)
+- [Maximiliano Carrasco](https://github.com/macsito-prog)
 - [Sarthak Mittal](https://github.com/SarthakMittal777)
 - [Luisa Haase](https://github.com/luisaha)
 - [Nayna Sahu ](https://github.com/NaynaSahu/)
