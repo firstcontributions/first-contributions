@@ -15,7 +15,7 @@
 
 [<img src="https://firstcontributions.github.io/assets/Readme/pirate.png" width="22">](translations/README.en-pirate.md)
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 आपण आपल्या मशीनवर Git नसेल तर, [येथुन इन्स्टॉल करा](https://help.github.com/articles/set-up-git/).
 
@@ -26,7 +26,7 @@
 
 ## रिपॉझिटरी (Repository) ला क्लोन (Clone) करणे
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
 आता फोर्क केलेला रिपो आपल्या संगणकावर क्लोन (Clone) करा. यासाठी आपण आपल्या गिटहब (GitHub) खात्यावर जा. जो रिपो आपण फोर्क केलेला आहे, त्याला उघडा. उघडलेल्या रिपोत उजव्या बाजुला वर `Clone or download` बटण दिसेल, त्यावर क्लिक करा. नंतर तेथील `Copy to clipboard` या आयकॉनवर क्लिक करा. याद्वारे प्रस्तुत रिपोची लिंक (URL) कॉपी झालेली असेल.
 
@@ -36,7 +36,7 @@
 git clone <कॉपी-केलेली-लिंक>
 ```
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 येथे `<कॉपी-केलेली-लिंक>` (त्रिकोणी कंस वगळता) यास आपण आताच कॉपी केलेली URL लिंक असे ग्राह्य धरण्यात यावे. ही URL लिंक मिळवण्याकरता याआधीच्या पायरीचे अवलोकन करावे.
 
@@ -76,8 +76,7 @@ git checkout -b add-rahul-thakare
 
 आता मजकूर संपादक मध्ये `Contributors.md` फाइल उघडा, व त्यात आपले नाव जोडा. फाइलच्या सुरवातीस किंवा समाप्तीमध्ये जोडू नका. त्यामध्ये कुठेही ठेवा. आता फाईल सेव्ह (Save) करा.
 
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
-
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 आता तुम्ही पुन्हा टर्मिनल कडे जाल आणि `git status` ही कमांड चालवाल तर तुम्हाला त्यात काही बदल झालेले दिसतील.
 
 `git add` कमांड वापरुन आपण तयार केलेल्या शाखेत ते बदल जोडा
@@ -107,11 +106,12 @@ git push origin <आपल्या-शाखेचे-नाव>
 ## पुनरावलोकनासाठी आपले बदल सबमिट करणे.
 
 आपण आपल्या गिटहब प्रोफाइलवर आपल्या रिपो वर गेल्यास, आपल्याला `Compare & pull request` पाठविण्याचा पर्याय दिसेल, ते दाबा.
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 आता आपल्या `Pull request` सबमिट करा.
 
-<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+
 लवकरच मी आपले बदल या प्रकल्पाच्या मुख्य शाखेत विलीन करेन. जेव्हा आपले बदल विलीन होतील तेव्हा आपल्याला ई-मेल मिळेल.
 
 ## आता पुढे काय?

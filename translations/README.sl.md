@@ -111,7 +111,7 @@ Lahko se pridružiš naši slack ekipi, če rabiš pomoč ali imaš vprašanja. 
 
 Sedaj lahko začneš prispevati drugim projektom. Sestavili smo seznam projektov z enostavnimi problemi (issues), ki jih lahko začneš reševati. Preveri [seznam projektov v spletni aplikaciji](https://roshanjossey.github.io/first-contributions/#project-list).
 
-### [Dodatne informacije](../additional-material/translations/additional-material.sl.md)
+### [Dodatne informacije](../additional-material/translations/Slovenian/additional-material.sl.md)
 
 
 ## Vodiči za uporabo drugih orodij

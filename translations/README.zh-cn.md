@@ -3,7 +3,7 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 [<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 
-# 第一次参与开源
+# 第一次参与开源项目
 
 万事开头难。尤其是和其他人合作时，犯错总是格外令人不舒服。不过，开源的本质就是和其他人合作。这个项目就是希望为初学者带来一个简单的方法去学习及参与开源项目。
 
