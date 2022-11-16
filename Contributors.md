@@ -2491,6 +2491,7 @@ Fiyinfoluwa Afolayan
 - [Lea Lang](https://github.com/Leaxlang)
 - [Courtney Yatteau]
 - [Laboni sarkar](https://github.com/labonisarkar9508)
+- [Nia Labrette]
 - [Christine Belzie](https://github.com/CBID2)
 - [Najeeb Arif](https://githib.com/NajeebArif)
 - [Pablo Altamirano](https://github.com/pabloaltam)
