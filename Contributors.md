@@ -4,6 +4,7 @@
   [Sarmen Ter-oganesyan](https://github.com/sarmen-t)
 - [Arham Anwar](https://github.com/arhamcode)
 - [Furqan Hameed](https://github.com/Furqaaan)
+- [Joshua Cash](https://github.com/JoshuaCash)
 - [Matheus Bitencourt](https://github.com/bitmattz)
 - [Amar Gulaganji](https://github.com/amargulaganji)
 - [Iris Kalogirou 🇬🇷 ](https://github.com/iris-zaf)
