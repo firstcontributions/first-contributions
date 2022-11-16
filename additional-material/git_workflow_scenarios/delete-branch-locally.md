@@ -1,6 +1,6 @@
 # Deleting a locally created Branch
 
-This will be handy when you accidently misspelled a branch name.
+This will be handy when you accidentally misspelled a branch name.
 
 This can be done in *3* ways
 
