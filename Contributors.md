@@ -120,6 +120,7 @@ pnordboj
 - [Deepak Rana Magar](https://github.com/DeepakRanaMagar)
 - [Shivam Srivastava](https://github.com/shivam-srivas)
 - [Gayathri Krishnan](https://github.com/GK3077)
+- [Ajay Dalal](https://github.com/AjayDalal199)
 - [Mustafa Mansy](https://github.com/xmansyx)
 - [Yeabesera Derese](https://github.com/Yagth)
 - [Chetan Kumar Patel](https://github.com/V10codes)
