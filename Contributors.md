@@ -109,6 +109,7 @@ pnordboj
 - [Joshua](https://github.com/Joshua-Dias-Barreto)
 - [ZhijunWang1991](https://github.com/ZhijunWang1991)
 - [Gatien Gnakou-Edjambo](https://github.com/princinho)
+- [Miklos Sagi](https://github.com/msagi)
 - [Dominic Bluawofogbe](https://github.com/Dominic2000code)
 - [Ethen Stiles](https://github.com/EthenStiles)
 - [TrueJu](https://github.com/TrueJu)
