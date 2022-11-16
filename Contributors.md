@@ -166,6 +166,7 @@ Rehan Shaikh
 - [Chase Hunter](https://github.com/TaylorChaseHunter)
 - [Yash Wake](https://github.com/yashwxd)
 - [Ankith Motha](https://github.com/Alpha-github/)
+- [Masih Karimi](https://github.com/MasihKarimi)
 - Praveen Bhawantha
 - [Gabriel Waegner](https://github.com/Gwaegs)
 - [Anand S](https://github.com/anand2000s)
