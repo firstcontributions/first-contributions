@@ -1910,6 +1910,8 @@ Add something here
 - [vaishnav vijayan](https://github.com/vaishnav-vijayan)
 - [Vamsi Dhananjay](https://github.com/vamsi-dhananjay)
 - [Fariawillyan](https://github.com/Fariawillyan)
+- [Anurag Sharma ] (https://github.com/anurrags)
+- [Ali Mansoor ](https://github.com/alimnsr1154) 
 - [Livisha Jain](https://github.com/livisha)
 - [Ali Mansoor ](https://github.com/alimnsr1154)
 - [Ali Manashov](https://github.com/alimanashov)
