@@ -4945,6 +4945,7 @@ first contributions - hanyang univ.
 - [Praneeth Perera](https://github.com/paniya93)
 - [Juan Tamayo](https://github.com/JuanJoT6)
 - [Arif Rohmadi](https://github.com/arifrohmadi)
+- [Tatsuya Yamaguchi](https://github.com/Tatyy555)
 - [jilliss](https://github.com/jilliss)
 - [Samprati Vyawahare](https://github.com/Sampratii)
 - [Gregor Logar](https://github.com/gregorlogar991)
