@@ -11,6 +11,7 @@
 - [Amar Gulaganji](https://github.com/amargulaganji)
 - [Iris Kalogirou 🇬🇷 ](https://github.com/iris-zaf)
 - [Lam](https://github.com/ngld0)
+  [Davide Grimaldi](https://github.com/Ishikawa7)
 - [Cole Terrell](https://github.com/colecterrell)
 - [Dhruv Belurkar] (https://github.com/strygwyr69)
 - [V4M0N0S](https://github.com/V4M0N0S)
