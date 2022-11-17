@@ -405,6 +405,7 @@ Mattia
 - [Tejal Tatiwar](https://tejaltatiwar.github.io/tejaltatiwarwebsite/)
 main
 - [Chris Johannesson](https://chrisjohannesson.com)
+- [PastelDeFeira] (https://github.com/PastelDeFeira)
 - [Archishman Das](https://github.com/starving-array)
 - [Abouar Prosper](https://github.com/4kpros/)
 - [Mohamed O Nar] (https://github.com/mohamedonar)
