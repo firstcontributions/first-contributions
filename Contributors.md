@@ -5,6 +5,7 @@
 - [Arham Anwar](https://github.com/arhamcode)
 - [Victor Mutethia](https://github.com/dev-vickie)
 - [Furqan Hameed](https://github.com/Furqaaan)
+- [Bogusz Borysewicz](https://github.com/KathidB)
 - [Harsh Kumar](https://github.com/harsh-1806)
 - [Manas Tewari](https://github.com/manas311)
 - [Joshua Cash](https://github.com/JoshuaCash)
