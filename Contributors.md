@@ -5,6 +5,7 @@
 - [Arham Anwar](https://github.com/arhamcode)
 - [Furqan Hameed](https://github.com/Furqaaan)
 - [Harsh Kumar](https://github.com/harsh-1806)
+- [Manas Tewari](https://github.com/manas311)
 - [Joshua Cash](https://github.com/JoshuaCash)
 - [Matheus Bitencourt](https://github.com/bitmattz)
 - [Amar Gulaganji](https://github.com/amargulaganji)
@@ -425,6 +426,7 @@ main
 - [Liang G. E.]
 - [Neil Kanakia](https://neilkanakia.xyz)
 - Chackochan Sebastian
+- [Ng Han Inn](https://github.nghaninn.com)
 - [Sneha Mandal](https://github.com/sm-creative-crazy4code)
 - [Pranay Shende](https://github.com/PranayShende/)
 - [Jordanjun98](https://github.com/Jordanjun98)
