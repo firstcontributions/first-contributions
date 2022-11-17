@@ -73,6 +73,7 @@ sudeep
 - [Alex D Hill](https://github.com/alexdhill)
 - [Aditya Singh](https://github.com/Adi-ty)
 - [fabienzz](https://github.com/fabienzz)
+- [Eugene Moore](https://github.com/geneo924)
 - [Amr Aqel](https://github.com/amraqel)
 - [Muhammad Rafi Yudhistira](https://github.com/rapuyy)
 - [Kelsie Murphy](https://github.com/kelsiesmurphy)
