@@ -4768,6 +4768,7 @@ Fiyinfoluwa Afolayan
 - [Lexzee](https://github.com/lexzee)
 - [Atharvasaraiya](https://github.com/Atharvasaraiya)
 - [The_Baum](https://github.com/TheBaum123)
+- [Barana Jean](https://githun.com/BaranaJean)
 - [Kunal Pitale](https://github.com/iamkunalpitale)
 - [Rimon Sade](https://github.com/Rimonaldo)
 - [Alexandr Volk](https://github.com/ky1e-cyber)
