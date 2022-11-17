@@ -3,6 +3,7 @@
   [Uttam Kumar ](https://github.com/Utt977)
   [Sarmen Ter-oganesyan](https://github.com/sarmen-t)
 - [Arham Anwar](https://github.com/arhamcode)
+- [Daniel Omar Zavala](https://github.com/DanielOmarZavala)
 - [Victor Mutethia](https://github.com/dev-vickie)
 - [Furqan Hameed](https://github.com/Furqaaan)
 - [Fumbani Banda](https://github.com/deadex-ng)
