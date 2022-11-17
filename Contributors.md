@@ -2997,6 +2997,7 @@ Fiyinfoluwa Afolayan
 - [ojorgensen](https://github.com/ojorgensen)
 - [Vijay Kumar](https://github.com/Iamthevk)
 - [Andrés Ixcamey](https://github.com/Andx45)
+- [Maik Renner](https://github.com/Maik96)
 - [Mohammad Ashraf Ahmad](https://github.com/AshrafZohdi)
 - [Moez Mustafa](https://github.com/moezmustafa)
 - [Keith Hoffman](https://github.com/khoffLSU)
