@@ -126,6 +126,7 @@ adarshKumar
 - [Dominic Bluawofogbe](https://github.com/Dominic2000code)
 - [Ethen Stiles](https://github.com/EthenStiles)
 - [TrueJu](https://github.com/TrueJu)
+- [Heath Baethge](https://github.com/HeathBaethge)
 - [miharbi ifos](https://github.com/99ibra)
 - [bananahair](https://github.com/bananahair)
 - [Jomar Cardoza](https://github.com/jmrc1995)
