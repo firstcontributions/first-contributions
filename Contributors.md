@@ -144,6 +144,7 @@ adarshKumar
 - [Tomiwa](https://github.com/Thor-miwa)
 - [Deepak Rana Magar](https://github.com/DeepakRanaMagar)
 - [Shivam Srivastava](https://github.com/shivam-srivas)
+- [Ayush Kumar](https://github.com/ayushkumar6669)
 - [Gayathri Krishnan](https://github.com/GK3077)
 - [Ajay Dalal](https://github.com/AjayDalal199)
 - [Mustafa Mansy](https://github.com/xmansyx)
