@@ -42,6 +42,7 @@
 - [Sai Charan Vadakapur](https://github.com/iamsaicharan)
 - [Parht Tiwari](https://github.com/Bingolast)
 - [Daniel Holm](https://github.com/dannivh3)
+- [Martin Lehmann](https://github.com/tharrry)
 - [VintageOrigal](https://github.com/VintageOrigal)
 - [mangoace]
 - [Menghan Xu](https://github.com/menghanx)
