@@ -5,6 +5,7 @@
 - [Arham Anwar](https://github.com/arhamcode)
 - [Victor Mutethia](https://github.com/dev-vickie)
 - [Furqan Hameed](https://github.com/Furqaaan)
+- [Fumbani Banda](https://github.com/deadex-ng)
 - [Bogusz Borysewicz](https://github.com/KathidB)
 - [Harsh Kumar](https://github.com/harsh-1806)
 - [Manas Tewari](https://github.com/manas311)
