@@ -3,6 +3,7 @@
   [Uttam Kumar ](https://github.com/Utt977)
   [Sarmen Ter-oganesyan](https://github.com/sarmen-t)
 - [Arham Anwar](https://github.com/arhamcode)
+- [Victor Mutethia](https://github.com/dev-vickie)
 - [Furqan Hameed](https://github.com/Furqaaan)
 - [Harsh Kumar](https://github.com/harsh-1806)
 - [Manas Tewari](https://github.com/manas311)
