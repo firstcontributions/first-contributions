@@ -4934,6 +4934,7 @@ first contributions - hanyang univ.
 - AnnTsai
   [Kerem Yaprak](https://github.com/NingaDWrex)
 - [Melissa Meline](https://github.com/datsukai)
+- Ravikumar Yadav
 - [Magda](https://github.com/magdaV24)
 - [airmelt](https://github.com/airmelt)
 - [BogdanHUBIT](https://github.com/BogdanHUBIT)
