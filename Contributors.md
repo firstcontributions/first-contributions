@@ -25,6 +25,7 @@
 - [Anant Yadav](https://github.com/avadro112)
 - [Ish Rastogi](https://github.com/ishnetcode)
 - [hola]
+- [aloha](https://github.com/doh43)
 - [Dillon Baird 🚀 ](https://github.com/dillonbaird)
 - [Jayrup Nakawala](https://github.com/CaptainJack9832)
 - [Vinicius Gomes Ferreira](https://github.com/viniciusgferreira)
