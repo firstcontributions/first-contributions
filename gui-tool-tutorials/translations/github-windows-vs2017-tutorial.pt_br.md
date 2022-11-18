@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -31,115 +31,119 @@ Os respositórios de mais alto nível do GitHub (exemplo: aqueles que não há u
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/clone.png" alt="clone this repository" />
 
-O próximo passo é clonar o seu repositório na sua máquina para começar a sua contribuição. O Visual Studio precisa da URL do seu repositório, então clique o botão "Clone" e depois clique no ícone "Copy to clipboard".
+O próximo passo será clonar seu repositório em sua máquina para que você possa modificá-lo. Visual Studio precisa da URL do seu repositório, portanto clique no botão "clone" e então clique no ícone "copy to clipboard".
 
-**CUIDADO** Um erro que os novatos cometem frequentemente é clonar o repositório original e não o Fork criado do repositório.
-Verifique o endereço na barra de navegação e certifique-se de estar clonando o seu Fork.
+**CUIDADO:** Um erro que os novatos cometem com frequência é clonar o repositório do qual você fez o fork, ao invés de clonar seu repositório. Verifique a barra de endereços do seu navegador e certifique-se de que você está clonando o seu repositório.
 
-Está na hora de entrar no Visual Studio 2017! Na maior parte do tutorial, você trabalhará na aba Team Explorer. Se não abrir de primeira, tente apertar `View > Team Explorer` para abrir. 
+Agora é a hora de ir para o Visual Studio 2017! Você estará trabalhando na aba *Team Explorer* na maior parte do tutorial. Se ela não estiver aberta por padrão, clique em `View > Team Explorer` para abrí-la.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/vs2017-01-clone1.png" alt="Team Explorer" />
 
-O Team Explorer tem muitas formas distintas de visualizar os arquivos e também botões de navegação localizado no topo para ajudar você em encontrar diferentes áreas. Para clonar o repositório, você precisa estar na opção Connect, que deveria estar como padrão. Se você não conseguir encontrar o botão "Clone", clique no plugue verde que está no topo.
+*Team Explorer* tem muitas áreas e muitos botões de navegação, localizados no topo para te ajudar a achar essas diferentes áreas. Para clonar o repositório, você vai precisar estar na *Connect view*, que deve ser a padrão. Se você não conseguir ver o botão *clone*, clique no botão verde, em formato de tomada, no topo.
 
-Clique na opção `Clone` que está abaixo do **Local Git Repositories** e cole a URL do repositório na caixa de texto. Essa URL é o que você copiou no Clipboard do GitHub.
+Click the `Clone` option under **Local Git Repositories** and paste the URL to your repo in the text box.  This should be the URL you copied to your clipboard from GitHub previously.
 
-Clique no botão `Clone` para iniciar o processo 
+Clique na opção `Clone` abaixo de **Local Git Repositories** e cole a URL do seu repositório na caixa de texto. Essa URL tem que ser a mesma que você copiou no GitHub anteriormente.
+
+Clique no botão `Clone` para iniciar o processo.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/vs2017-02-clone2.png" alt="Clone repo" />
 
-Quando o processo estiver completo você será deslocado para a aba Solution Explorer, onde conseguirá ver o conteúdo do repositório. Na sua tela será diferente da foto, pois as coisas mudam!
+Quando o processo estiver completo, você será movido para a aba *Solution Explorer*, onde você poderá ver o conteúdo do repositório clonado. O seu parecerá um pouco diferente da foto abaixo, por que os arquivos estão em constante mudança!
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/vs2017-03-clone3.png" alt="Solution Explorer" />
 
-## Crie uma Branch
+## Crie uma *branch*
 
-Clique para voltar a aba Team Explorer e use o menu dropdown de navegação principal para abrir a opção "Branches".
+Clique de volta na aba *Team Explorer* e use o a seleção principal de navegação para mostrar as *Branchs* disponíveis.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/vs2017-04-branch1.png" alt="Branches view" />
 
-Você encontrará o repositório **first-contributions** e a branch padrão, chamado  `master`. Apertando com botão direito do mouse no `master`, escolha `New Local Branch From...`.
+Você deve ver o repositório **first-contributions** e a branch padrão, que é chamada `main`. Clique com o botão direito na `main` e escolha `New Local Branch From...`.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/vs2017-05-branch2.png" alt="New branch" />
 
-Nomeie a sua branch como `add-<seu_nome_aqui>`, por exemplo: `add-alonzo-church`.
+Dê à sua branch um nome como `add-<seu_nome_aqui>` por exemplo: `add-alonzo-church`.
 
-Deixe a área `Checkout branch` e clique o botão `Create Branch`.
+Deixe a caixa de seleção `Checkout branch` marcada e clique no botão `Create Branch`.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/vs2017-06-branch3.png" alt="Create branch" />
 
-Você encontrará a sua nova branch na lista.
+Você deverá ver a sua branch nova na lista.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/vs2017-07-branch4.png" alt="See new branch" />
 
-## Faça mudanças necessárias
+## Faça as mudanças necessárias
 
-Abra o `Contributors.md` e adicione o seu nome no final da lista. Esse arquivo contém GFM (GitHub Flavored Markdown) que é uma propriedade de sintaxe do <a href="https://en.wikipedia.org/wiki/Markdown">markdown</a>.
+Abra o arquivo `Contributors.md` e adicione o seu nome no fim da lista. Esse arquivo contém GFM (GitHub Flavored Markdown), que é uma função nativa da sintaxe do <a href="https://en.wikipedia.org/wiki/Markdown">markdown</a>.
 
-Copie uma linha de um dos contribuidores e modifique com o seu nome para ter certeza que conseguiu a sintaxe certa - pode ser um pouco exigente. 
+Copie uma das outras linhas dos contribuidores e modifique-a com o seu nome. Tenha certeza que a sintaxe está correta - ela pode ser exigente.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/vs2017-08-change1.png" alt="Add your name" />
 
-## Commit e Push nas suas modificações no GitHub 
+## Commit & Push changes to GitHub
 
-Mude de volta para aba Team Explorer e escolha a opção Changes.
+Volte para a aba *Team Explorer* e navegue para a aba *Changes*.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/vs2017-09-commit1.png" alt="Changes" />
 
-Coloque a informação que você quer postar no seu commit e clique `Save`. O Visual Studio lembrará para o seus futuros commits. 
+Coloque a informação que você queira, poste o seu *commit* e clique em `Save`. O Visual Studio relembrará isso para futuros *commits*.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/vs2017-10-commit2.png" alt="Git user information" />
 
-**AVISO** O Visual Studio usa pastas ocultas denomindas de `.vs` para guardar suas configurações e preferências pessoais.
-O conteúdo dessa pasta **não deverá ser salvo no Git**. Se você não avisou o Git para ignorar essa pasta, avise-o mais rápido possível para não ser mandado no repositório.
+**NOTA:** Visual Studio usa uma pasta escondida, chamada `.vs` para salvar suas configurações e preferências pessoais. O conteúdo desta pasta **não deverá ser salvo no Git**.
+Se ela não estiver sido ingnorada ainda, você deve informar ao Git para ignorar essa pasta, com o intuito dela não ser mandada para o repositório.
 
-Essa pasta já está ignorada nesse repositório, então você não precisa fazer esse passo...é só um cuidado para os seus futuros projetos. 
+Essa pasta já foi ignorada neste repositório, então você não tem que realizar este passo. Ele está aqui somente para você ter uma referência para projetos futuros.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/vs2017-11-commit3.png" alt="Ignore vs folder" />
 
-Agora você conseguirá ver a lista dos arquivos modificados e uma caixa de texto para comentar o seu commit. Os comentários deverão ser breve, porém minuciosos. Não tem nada pior que ler um comentário de um commit e ver isso: `"Eu atualizei algumas coisas"`. Leve alguns segundos para descrever o seu commit. Mais tarde a sua equipe vai agradecer, e você pode até agradecer a si mesmo!
+Agora você deve ver uma lista de arquivos modificados e uma caixa de texto para digitar um cometário do *commit*. Os comentários devem ser breves, mas concretos. Não tem nada pior do que ler um comentário de um *commit* e ver algo como: `"Eu atualizei algumas coisas"`. Tire alguns segundos para realizar o seu *commit*. O seu time vai agradecer bastante mais tarde e você pode até agradecer a você mesmo!
 
-Clique `Commit All and Push` para realizar um commit local e, em seguida, realize um push nas suas modificações para o seu repositório, isso tudo em um passo.
+Clique em `Commit All and Push` para realizar um *commit* local e fazer um *push* das suas mudanças para o seu repositório, tudo em um único passo.
 
-**AVISO** O commit pode ser realizado separadamente do push. Por conveniência nós fazemos os dois. Os commits são registrados na sua máquina, porém precisa realizar o push para mandar as modificações no GitHub.
+**NOTA:** Um *Commit* pode ser realizado separadamente de um *Push*. Fazemos os dois juntos por conveniência. As mudanças realizadas e salvas em *commits* locais não serão refletidos no teu repositório no GitHub até que você faça um *Push*.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/vs2017-12-commit4.png" alt="Commit and Push" />
 
-A primeira vez que você faz um push no GitHub, o Visual Studio vai perguntar sobre as suas credenciais do GitHub.
-Normalmente, são armazenados em cache então provavelmente não aparecerá com muita frequência.
+A primeira vez que você realizar um *Push* para o GitHub, Visual Studio solicitará as suas credenciais do GitHub. Depois disso, ele as guardará no *cache*, para que você não precise realizar isso frequentemente.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/vs2017-13-commit5.png" alt="Login" />
 
-Após realizar o push, abra o seu repositório no GitHub e aparecerá uma menssagem informando que houve um push em uma branch recentemente. 
+Depois de realizar uma operação de *Push*, abra o seu repositório no GitHub e deverá ver uma mensagem indicando um *push* recente de uma *branch*.
 
-Você pode ver as suas alterações abrindo o menu dropdown `Branch: master` e seleciona a sua nova branch. Parabéns, agora você consegue compartilhar a URL da branch ao mundo para mostrar o seu progresso. 
+Você pode ver suas mudanças abrindo a seleção `Branch: main` e selecionando a sua `branch`. Parabéns! Você pode compartilhar a URL da `branch` com o mundo e mostrar o seu progresso!
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/vs2017-14-commit6.png" alt="View pushed branch on GitHub" />
 
-## Envie as suas modificações para serem revisadas
+## Submeta as suas mudanças para uma revisão
 
-Até aqui você terminou as suas modificações, porém ainda só está no seu repositório. Este passo mostrará como enviar uma solicitação ao administrador, para mesclar as suas alterações ao repositório de alto nível. 
+Neste ponto, você completou as mudanças, mas elas ainda estão somente no seu repositório. Esse passo te mostrará como submeter essas mudanças para um administrador para que ele possa fazer um *merge* das tuas mudanças.
 
-No seu repositório do GitHub você vai ver um botão escrito: `Compare & pull request`, que fica ao lado da notificação da nova branch. Clique nesse botão.
+No seu repositório no GitHub, você verá o botão `Compare & pull request` próximo à notificação da *branch*. Cloque nesse botão.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/compare-and-pull.png" alt="create a pull request" />
 
-Agora envie esse Pull Request.
+Agora submeta o *Pull Request*.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/submit-pull-request.png" alt="submit pull request" />
 
-Logo irei mesclar todas as suas mudanças na branch master do projeto. Você receberá uma notificação pelo e-mail quando as alterações forem mescladas.
+Assim que possível, essas mudanças serão *mergeadas* para a `main branch` deste projeto. Você será notificado via email, quando essa movimentação for realizada.
 
-## Onde eu posso ir a partir daqui?
+## Para onde ir daqui?
 
-Parabéns! Você completou o fluxo de trabalho básico _fork -> clone -> edit -> PR_, onde você encontrará muito como contribuidor.
+Parabéns! Você acabou de completar o fluxo de trabalho *fork -> clone -> edit -> PR* que vocẽ vai realizar frequentemente como um contribuidor!
 
-Celebre a sua contribuição e compartilhe com seus amigos e seguidores no [web app](https://firstcontributions.github.io#social-share).
+Celebre a sua contribuição e compartilhe-a com os seus amigos e seguidores indo para o [web app](https://firstcontributions.github.io#social-share).
 
-Caso precise de ajuda ou tenha alguma pergunta, você pode se juntar à nossa equipe Slack. [Junte-se à equipe Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+You can join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+
+Você pode se juntar à nossa comunidade no slack, caso precise de alguma ajuda ou tenha alguma dúvida.
+
+[Faça parte da nossa comunidade no Slack!](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 
 
-### [Material Adicional](../additional-material/git_workflow_scenarios/additional-material.md)
+### [Material adicional](../additional-material/git_workflow_scenarios/additional-material.md)
 
-## Tutoriais usando outras ferramentas
-[Voltar para página principal](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
+## Tutoriais utilizando outras ferramentas
+[Retorne para a página principal](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.pt_br.md)
