@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -9,11 +9,11 @@
 
 Чтение статей и учебников может помочь, но что может быть лучше, чем настоящий практический опыт, без риска что-либо испортить. Цель этого проекта - должным образом направить молодых новобранцев, а также предоставить им возможность сделать их первый вклад. Помните: чем меньше вы напряжены, тем лучше вы учитесь. Если вы ищете возможность осуществить свой первый вклад, просто следуйте простым шагам, расположенным ниже. Обещаем, будет интересно.
 
-Если вам нужна помощь с командной строкой, [это руководство использует инструменты графической операционной системы (GUI).](#Использование-других-инструментов)\_
+Если вам нужна помощь с командной строкой, [это руководство использует инструменты графической операционной системы (GUI).](#Использование-других-инструментов)
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="сделать ответвление" />
 
-Если у вас не установлен git на компьютере, [ установите его ](https://help.github.com/articles/set-up-git/)
+Если у вас не установлен git на компьютере, [ установите его. ](https://help.github.com/articles/set-up-git/)
 
 ## Создайте ответвление
 
@@ -21,27 +21,27 @@
 
 ## Клонируйте репозиторий
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="клонировать репозиторий" />
 
-Теперь клонируйте ваш репозиторий на пк. Нажмите на кнопку `clone`, а затем на иконку `copy to clipboard`, чтобы скопировать ссылку.
+Теперь клонируйте ваш репозиторий на ПК. Нажмите на кнопку `clone`, а затем на иконку `copy to clipboard`, чтобы скопировать ссылку.
 
 Откройте терминал и запустите следующую git команду:
 
 ```
-git clone "url you just copied"
+git clone "ссылка на репозиторий"
 ```
 
-Где "url you just copied" (без кавычек) это ссылка на ваш репозиторий. Посмотрите предыдущие шаги, чтобы получить эту ссылку.
+Где "ссылка на репозиторий" (без кавычек) это ссылка на ваш репозиторий. Посмотрите предыдущие шаги, чтобы получить эту ссылку.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="скопируйте ссылку в буфер обмена" />
 
 Например:
 
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/ваш-логин/first-contributions.git
 ```
 
-Где `this-is-you` ваш логин на github'e. Таким образом вы копируете репозиторий 'first-contributions' с GitHub на ваш пк.
+Где `ваш логин` ваш логин на github'e. Таким образом вы копируете репозиторий 'first-contributions' с GitHub на ваш ПК.
 
 ## Создайте ветвь
 
@@ -51,7 +51,7 @@ git clone https://github.com/this-is-you/first-contributions.git
 cd first-contributions
 ```
 
-Теперь создайте ветвь, с помощью `команды git checkout`
+Теперь создайте ветвь, с помощью команды `git checkout`
 
 ```
 git checkout -b <add-your-name>
