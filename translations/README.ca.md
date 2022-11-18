@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -108,7 +108,7 @@ Enhorabona! Acabeu de completar l'estàndard flux de treball *_fork -> clone -> 
 
 Celebreu la vostra contribució i compartiu-ho amb els vostres amics i seguidors anant a [web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
-Podeu unir-vos al nostre equip d'*slack* en cas de que necessiteu ajuda o tingueu alguna pregunta. [Unir-se a l'equip d'slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+Podeu unir-vos al nostre equip d'*slack* en cas de que necessiteu ajuda o tingueu alguna pregunta. [Unir-se a l'equip d'slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Ara anem a preparar-nos per a contribuir a altres projectes. Hem reunit una llista de projectes amb îssues* facils per a que pugueu començar. Doneu un cop d'ull [la llista de projectes en la web app](https://roshanjossey.github.io/first-contributions/#project-list).
 
