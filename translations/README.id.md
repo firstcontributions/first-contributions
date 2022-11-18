@@ -12,17 +12,18 @@ Proyek ini memiliki tujuan yaitu untuk menyederhanakan dan membimbing pemula unt
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Apabila Anda belum menginstall git di komputer mu, [ install segera di sini ](https://help.github.com/articles/set-up-git/).
+Apabila Anda belum menginstall git di komputer anda, [ install segera ](https://help.github.com/articles/set-up-git/).
 
 ## *Fork* Repositori Ini
 
-Lakukan fork pada repositori ini dengan cara klik tombol *fork* yang ada di bagian atas pada halaman dan repository akan terduplikat ke akun anda.
+Fork repositori ini dengan cara klik tombol *fork* yang ada di bagian atas kanan pada halaman ini.
+Dan repository ini akan disalin ke akun anda.
 
 ## *Clone* Repositori
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Sekarang, lakukan *clone* terhadap repositori yang sudah Anda *fork* ke komputer anda. Buka akun GitHub Anda, buka repository yang sudah di *fork*, Klik tombol *Code* dan kemudian klik ikon *copy to clipboard*.
+Sekarang klon repositori yang sudah Anda *fork* di akun Github anda ke komputer anda. Buka akun GitHub Anda, buka repository yang sudah di *fork*, Klik tombol *Code* dan kemudian klik ikon salin ke papan klip.
 
 Buka terminal dan jalankan perintah git berikut:
 
@@ -65,7 +66,7 @@ git checkout -b add-alonzo-church
 
 ## Buat Perubahan yang Diperlukan Lalu Commit Perubahan Tersebut
 
-Sekarang buka *file* `Contributors.md` menggunakan teks editor, tambahkan nama Anda ke dalamnya. Jangan menambahkannya pada awal atau akhir dari *file*. Letakkan dimana saja di antaranya. Sekarang simpan *file*-nya.
+Sekarang buka Folder `Contributors.md` menggunakan teks editor, tambahkan nama Anda ke dalamnya. Jangan menambahkan pada awal atau akhir dari file. Simpan dimana saja di antaranya. Sekarang simpan filenya.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
