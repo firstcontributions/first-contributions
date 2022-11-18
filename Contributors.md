@@ -5065,6 +5065,7 @@ Katie Moar
 - [Fahridanaa](https://github.com/Fahridanaa)
 - [Mohammed Ashfaq](https://github.com/acewx67)
 - [Mario Di Girolamo](https://github.com/mariodigirolamo1)
+- [Milan Shrestha](https://github.com/milanshresta)
 - [rui\_er](https://github.com/qz-cqy)
 - [Pratik Dev](https://github.com/PratikDev)
 - [weimin](https://github.com/weimin1992)
