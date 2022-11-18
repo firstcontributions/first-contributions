@@ -229,7 +229,7 @@ Rehan Shaikh
 - [sagehourihan](https://github.com/SageHourihan)
 - [Chandan Arya](https://github.com/alpha2lucifer)
 - [suman](https://github.com/sumanghosh13)
-- [nah yi yun](https://github.com/koalalalabear)
+- [Thet Paing Soe](https://github.com/ThetPaingSoe)
 - [regularmute](https://github.com/regularmute)
 - [Tewodros Amare](https://github.com/teddygizachew)
 - [Stephen Silveira](https://github.com/stephen-silveira)
