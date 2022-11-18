@@ -24,7 +24,7 @@ Faça um *fork* deste repositório clicando no botão *fork* (bifurcar) no canto
 
 O GitHub rastreia a relação entre seu repositório e o original, o qual você fez o *fork*. Você pode pensar em seu repositório como uma cópia de trabalho.
 
-Muitos dos repositórios matrizes do GitHub (ou seja, aqueles que não são *Fork* de nenhum outro repositório) tem um pequeno grupo de pessoas que podem fazer commits de modificações diretamente. Todos os outros contribuidores devem fazer um *for* do repositório e fazer alterações no *fork*, em seguida, devem criar um Pull Request para solicitar um *Merge* (mesclagem) das modificações feitas no repositório original.
+Muitos dos repositórios matrizes do GitHub (ou seja, aqueles que não são *Fork* de nenhum outro repositório) tem um pequeno grupo de pessoas que podem fazer commits de modificações diretamente. Todos os outros contribuidores devem fazer um *fork* do repositório e fazer alterações no *fork*, em seguida, devem criar um Pull Request para solicitar um *Merge* (mesclagem) das modificações feitas no repositório original.
 
 Se um dos administradores do repositório gostar e aprovar as tuas mudanças, eles *mergearão* e você ganhará fama e fortuna imediatamente! Abaixo, há mais detalhes sobre como fazer isso.
 
