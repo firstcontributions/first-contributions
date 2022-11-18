@@ -5097,6 +5097,7 @@ Alonzo Church
 - [Cedric Pruvost](https://github.com/cedpru)
 - Hansel
 - [Satya Prasad Donthala](https://github.com/satyabhadra)
+- [CJY](https://github.com/c00kie123)
 - [Giulia Karanxha](https://github.com/karanxhagiulia)
 - [Thanh Huy](https://github.com/Huynh-Nguyen-Thanh-Huy/)
 - [Jesmine Goh](https://github.com/JG-SSYT/)
