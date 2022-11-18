@@ -5036,6 +5036,7 @@ first contributions - hanyang univ.
 - [Gregor Logar](https://github.com/gregorlogar991)
 - [Christopher Hranj](https://github.com/brodan)
 - [Luz Zapata](https://github.com/LuZapata)
+- [Vinícius Beloni](https://github.com/vinibeloni)
 - [Marie Mueller](https://github.com/mariemueller-codes)
 - [Rohan Shetty](rohansh-tty)
 - [Rohan Patil](https://github.com/)
