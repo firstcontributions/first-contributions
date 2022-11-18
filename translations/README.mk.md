@@ -6,11 +6,11 @@
 
 # Први чекори
 
-Тешко е. Секогаш е тешко кога нешто се прави за прв пат. Кога соработуваме со други луѓе, правењето грешки е непријатно. Затоа сакавме да го поедноставиме начинот на кој новите соработници на отворен код учат и допринесуват за прв пат.
+Тешко е. Секогаш е тешко кога нешто се прави за прв пат. Кога соработуваме со други луѓе, правењето грешки е непријатно. Затоа сакавме да го поедноставиме начинот на кој новите соработници на отворен код учат и допринесуваат за прв пат.
 
-Читањето на статии и гледањето на видеа помага до некаде, но нема подобар начин за учење од вежбањето. Целта на овој проект е да се обезбеди вежба и да се поедностави начинот по кој почетниците допринесуват отворен код. Ако сакате да го направите својот прв придонес, тогаш следете ги долунаведените чекори.
+Читањето на статии и гледањето на видеа помага до некаде, но нема подобар начин за учење од вежбањето. Целта на овој проект е да се обезбеди вежба и да се поедностави начинот по кој почетниците допринесуваат отворен код. Ако сакате да го направите својот прв придонес, тогаш следете ги долунаведените чекори.
 
-#### *Ако не сакате да користите command line (терминал), [овде имате упатстња за GUI](#Вежби-за-користење-на-други-програми)*
+#### *Ако не сакате да користите command line (терминал), [овде имате упатства за GUI](#Вежби-за-користење-на-други-програми)*
 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
@@ -19,7 +19,7 @@
 
 ## Направете Разгранување (Fork) на ова складиште (repository)
 
-Направете разгранување на складиштето со натискање на копчето "Fork" кое се наоѓа на горниот дел на оваа страница.
+Направете разгранување на складиштето со притискање на копчето "Fork" кое се наоѓа на горниот дел на оваа страница.
 Вака ќе направите копија на складиштето во вашиот GitHub профил.
 
 ## Клонирајте го овоа складиште
@@ -27,7 +27,7 @@
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
 Сега треба да го клонирате складиштето во вашиот компјутер. Отидете во вашиот GitHub профил, отворете го разгранетото складиште,
-кликнете на копчето "Clone" и копирајте го линкот. Исто така може да натиснете на иконата за копирање (Copy to clipboard)
+кликнете на копчето "Clone" и копирајте го линкот. Исто така може да притиснете на иконата за копирање (Copy to clipboard)
 
 Отворете го терминалот и воведете ја следната команда:
 
@@ -42,7 +42,7 @@ git clone "линкот кој го копиравте"
 ```
 git clone https://github.com/vashiot-username/first-contributions.git
 ```
-со преименување на `vashiot-username` во вашето потребителско име. Во овој чекор правите копија на складиштето first-contributions от GitHub кон вашиот компјутер.
+со преименување на `vashiot-username` во вашето корисничко име. Во овој чекор правите копија на складиштето first-contributions од GitHub кон вашиот компјутер.
 
 ## Создавање на гранка (branch)
 
@@ -94,7 +94,7 @@ git push origin <vnesete-ime-na-vashata-granka>
 
 ## Поднесете ги вашите промени за преглед.
 
-Ако отидете во вашето складиште во GitHub, ќе го забележите копчето `Compare & pull request`. Натиснете го.
+Ако отидете во вашето складиште во GitHub, ќе го забележите копчето `Compare & pull request`. Притиснете го.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
@@ -102,11 +102,11 @@ git push origin <vnesete-ime-na-vashata-granka>
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Наскоро ќе ги спојам (merge) сите ваши промени во главната гранка (мастер branch) на овој проект. Ќе бидете изњестени по пат на електрона пошта за спојот на вашите промени.
+Наскоро ќе ги спојам (merge) сите ваши промени во главната гранка (мастер branch) на овој проект. Ќе бидете известени по пат на електронска пошта за спојот на вашите промени.
 
 ## Што е следно?
 
-Честитки!  Само што ги завршивте _fork -> clone -> edit -> PR_ операции, со кои ќе се соочувате често како соработник!
+Честитки! Само што ги завршивте _fork -> clone -> edit -> PR_ операции, со кои ќе се соочувате често како соработник!
 
 Прославете ги вашите придонеси и споделете ги со пријатели и следители со посета на [веб-апликацијата](https://roshanjossey.github.io/first-contributions/#social-share).
 
@@ -119,6 +119,6 @@ git push origin <vnesete-ime-na-vashata-granka>
 
 ## Вежби за користење на други програми
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
-|---|---|---|---|
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|[Visual Studio Code](../github-windows-vs-code-tutorial.md)|
+| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| --- | --- | --- | --- | --- | --- |
+| [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
