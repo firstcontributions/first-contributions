@@ -3,8 +3,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-### I am Elbashir Mohamed, and this is my first-contribution 
-
 #### _Read this in [other languages](translations/Translations.md)._
 
 <kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/al.svg" width="22">](translations/README.al.md)</kbd>
@@ -30,6 +28,7 @@
 <kbd>[<img title="हिंदी/ગુજરાતી/मराठी/മലയാളം/ಕನ್ನಡ/తెలుగు/छत्तीसगढ़ी/বাংলা/தமிழ்" alt="हिंदी/ગુજરાતી/मराठी/മലയാളം/ಕನ್ನಡ/తెలుగు/छत्तीसगढ़ी/বাংলা/தமிழ்" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/in.svg" width="22">](translations/Translations.md)</kbd>
 <kbd>[<img title="தமிழ்" alt="தமிழ்" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lk.svg" width="22">](translations/README.ta.md)</kbd>
 <kbd>[<img title="فارسی" alt="فارسی" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ir.svg" width="22">](translations/README.fa.md)</kbd>
+<kbd>[<img title="پښتو" alt="پښتو" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/af.svg" width="22">](translations/README.pus.md)</kbd>
 <kbd>[<img title="Italiano" alt="Italiano" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/it.svg" width="22">](translations/README.it.md)</kbd>
 <kbd>[<img title="日本語" alt="日本語" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/jp.svg" width="22">](translations/README.ja.md)</kbd>
 <kbd>[<img title="සිංහල" alt="සිංහල" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lk.svg" width="22">](translations/README.si.md)</kbd>

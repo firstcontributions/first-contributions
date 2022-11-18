@@ -23,13 +23,13 @@ Faça um _Fork_ clicando no botão "_Fork_" no topo desta página, uma cópia de
 
 Agora clone este repositório para a sua máquina. Clique no botão "_Clone or download_" e, em seguida, clique no ícone "_Copy to clipboard_" para copiar a URL.
 
-Abra seu terminal e execute o seguinte comando do git:
+Abra um terminal e execute o seguinte comando do git:
 
 ```
 git clone "url que copiou"
 ```
 
-onde "url que copiou" (sem as aspas) é a URL deste repositório. Consulte as etapas anteriores para obter a URL.
+onde "url que copiou" (sem as aspas) é a URL deste repositório (seu fork deste projeto). Consulte as etapas anteriores para obter a URL.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copiar URL" />
 
@@ -43,7 +43,7 @@ onde "seu-usuário" é o seu usuário do _GitHub_. Aqui você estará copiando o
 
 ## Crie um Branch
 
-Vá para o diretório do repositório no seu computador (caso você não esteja lá):
+Acesse o diretório do repositório no seu computador (caso você não esteja nele):
 
 ```
 cd first-contributions
@@ -52,20 +52,20 @@ cd first-contributions
 Agora crie um _Branch_ usando o comando `git checkout`:
 
 ```
-git checkout -b <add-seu-nome>
+git switch -c <add-seu-nome>
 ```
 
 Por exemplo:
 
 ```
-git checkout -b add-alonzo-church
+git switch -c add-andre-oliveira
 ```
 
 Obs.: O nome do _Branch_ não precisa ter a sigla "add", mas nesse caso é recomendável, porque a finalidade deste _Branch_ é a de adicionar o seu nome à uma lista.
 
 ## Efetue as alterações necessárias e faça um _Commit_
 
-Agora abra o arquivo `Contributors.md` em seu editor de código, adicione o seu nome a ele e salve o arquivo.
+Agora, abra o arquivo `Contributors.md` em seu editor de código e adicione o seu nome a ele. Não o adicione no início ou no final do arquivo. Coloque-o em qualquer lugar no meio. Agora, salve o arquivo.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
@@ -75,17 +75,17 @@ Se você for para o diretório do projeto e executar o comando `git status`, ver
 git add Contributors.md
 ```
 
-Agora faça um Commit dessas alterações utilizando o comando `git commit`:
+Agora, confirme essas alterações usando o comando git commit `git commit`:
 
 ```
 git commit -m "Add <seu-nome> to Contributors list"
 ```
 
-preenchendo `<seu-nome>` com o seu nome.
+substituindo `<seu-nome>` pelo seu nome.
 
 ## Faça um Push das alterações para o _GitHub_
 
-Faça um Push utilizando o comando `git push`:
+Envie suas alterações usando o comando `git push`:
 
 ```
 git push origin <add-seu-nome>
@@ -115,9 +115,10 @@ Você também pode se juntar à nossa equipe no _Slack_ caso precise de alguma a
 
 Agora você pode colaborar com outros projetos. Nós compilamos uma lista de projetos com problemas simples que você pode começar. Verifique em [a lista de projetos no web app](https://roshanjossey.github.io/first-contributions/#project-list).
 
-### [ Material adicional ](../additional-material/translations/additional-material.pt_br.md)
+### [ Material adicional ](../additional-material/translations/Portuguese/additional-material.pt_br.md)
 
 ## Tutoriais usando outras ferramentas
-| <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)
+
+| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| --- | --- | --- | --- | --- | --- |
+| [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
