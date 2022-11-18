@@ -8,21 +8,24 @@
 |<img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Visual_Studio_2017_logo_and_wordmark.svg/2000px-Visual_Studio_2017_logo_and_wordmark.svg.png" width="200">|Visual Studio 2017 Edition|
 |---|---|
 
-É difícil, sempre é difícil quando fazemos alguma coisa pela primeira vez. Especialmente quando você está colaborando, cometendo erros, não é nada confortável. No entanto, o open source é totalmente sobre colaboração e trabalho em equipe. Por isso, nós queremos simplificar a maneira como os novos colaboradores de código aberto aprendem e contribuem pela primeira vez.
+É difícil. Sempre é difícil fazer algo pela primeira vez. Especialmente quando você está colaborando, cometer erros não é confortável. Mas o open sourece tem tudo a ver com colaboração e trabalho em equipe. Nós queremos simplificar a maneira de aprendizagem aos novos contribuidores de open source e ajudar em sua primeira contribuição.
 
-Ler artigos e assistir a tutoriais até podem ajudar, mas o que é melhor do que fazer as coisas sem bagunçar nada. Este projeto tem como objetivo orientar & simplificar a forma como os iniciantes fazem a sua primeira contribuição. Lembre-se que você aprende melhor quando está relaxado. Se você deseja fazer sua primeira contribuição, basta seguir os passos abaixo. Nós prometemos a você que será divertido!
+Lendo artigos e olhando tutoriais podem ajudar, mas o que é melhor do que realmente fazer as coisas sem estragar nada.
+Esse projeto visa em providenciar uma orientação e simplificar a maneira dos novatos a conseguirem a sua primeira contribuição. 
+Lembre-se, quanto mais relaxado melhor será o aprendizado. Se você está procurando em fazer a sua primeira contribuição, siga esses passos abaixo. Nós prometemos a você que vai ser divertido.
 
-Se você não tem o Visual Studio 2017 na sua máquina, [install it](https://www.visualstudio.com/downloads/).
+Se você não possui o Visual Studio 2017 na sua máquina, [instale-o aqui](https://www.visualstudio.com/downloads/).
 
-## Faça o *Fork* deste repositório
+## Faça um Fork deste repositório
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/fork.png" alt="fork this repository" />
 
-Faça um *fork* deste repositório clicando no botão *fork* (bifurcar) no canto superior direito desta página. Isso criará uma cópia deste repositório em sua conta do GitHub.
+Para fazer um Fork deste repositório, basta clicar no botão de fork no topo da página. Isso criará uma cópia do repositório na
+sua conta GitHub.
 
-O GitHub rastreia a relação entre seu repositório e o original, o qual você fez o *fork*. Você pode pensar em seu repositório como uma cópia de trabalho.
+O GitHub acompapanhará o seu Fork e o repositório principal. Em outras palavras, podemos afirmar que o seu Fork é uma cópia do repositório principal.
 
-Muitos dos repositórios matrizes do GitHub (ou seja, aqueles que não são *Fork* de nenhum outro repositório) tem um pequeno grupo de pessoas que podem fazer commits de modificações diretamente. Todos os outros contribuidores devem fazer um *for* do repositório e fazer alterações no *fork*, em seguida, devem criar um Pull Request para solicitar um *Merge* (mesclagem) das modificações feitas no repositório original.
+Os respositórios de mais alto nível do GitHub (exemplo: aqueles que não há um fork de nenhum outro repositório), tem uma pequena equipe principal de pessoas que podem diretamente fazer os seus commits. Os outros contribuidores deverão criar um Fork do respositório e fazer as mudanças nesse Fork, em seguida criar um Pull Request perguntando se essas mudanças poderão ser mescladas no repositório de alto nível. Se o administrador do repositório gostar das alterações ele irá mesclar as modificações e você ganhará instantaneamente fama e fortuna! Abaixo há um tutorial de como realizar.
 
 ## Clone o seu repositório
 
