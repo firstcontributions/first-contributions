@@ -5,19 +5,18 @@
 
 # Kontribusi Pertama 
 
-Proyek ini bertujuan untuk memudahkan dan memandu cara pemula untuk membuat kontribusi pertamanya. Jika kamu ingin membuat kontribusi pertama mu, ikuti langkah-langkah berikut.
+Proyek ini memiliki tujuan yaitu untuk menyederhanakan dan membimbing pemula untuk membuat kontribusi pertamanya di Github. Jika Anda ingin membuat kontribusi pertama mu, ikuti langkah-langkah berikut.
 
 
-#### _Jika Anda tidak terbiasa dengan baris perintah, [di sini ada tutorial menggunakan GUI.](#Tutorial-Menggunakan-Alat-Lain)_
+#### _Jika Anda tidak terbiasa dengan baris perintah, [di sini ada tutorial untuk menggunakan GUI.](#Tutorial-Menggunakan-Alat-Lain)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Apabila Anda belum menginstall git di komputer mu, [ install segera ](https://help.github.com/articles/set-up-git/).
+Apabila Anda belum menginstall git di komputer mu, [ install segera di sini ](https://help.github.com/articles/set-up-git/).
 
 ## *Fork* Repositori Ini
 
-*Fork* repositori ini dengan cara klik tombol *fork* yang ada di bagian atas pada halaman ini.
-Langkah ini akan menyalin repository ini kedalam akun anda.
+Lakukan fork pada repositori ini dengan cara klik tombol *fork* yang ada di bagian atas pada halaman dan repository akan terduplikat ke akun anda.
 
 ## *Clone* Repositori
 
