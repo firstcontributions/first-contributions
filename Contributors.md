@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
   [Uttam Kumar ](https://github.com/Utt977)
   [Sarmen Ter-oganesyan](https://github.com/sarmen-t)
+- [Marco Baldo](https://github.com/baldomarco)
 - [Arham Anwar](https://github.com/arhamcode)
 - [Daniel Omar Zavala](https://github.com/DanielOmarZavala)
 - [Victor Mutethia](https://github.com/dev-vickie)
