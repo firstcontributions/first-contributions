@@ -79,6 +79,7 @@ Asad Mehmood
 sudeep
 [swarnlata](https://github.com/swarnlataaa)
 - [Euan] (https://github.com/EuanWilliams)
+- [Edwin G] (https://github.com/edwgeo)
 - [Gerry Aballa](https://github.com/Gerry-Aballa)
 - [Alex D Hill](https://github.com/alexdhill)
 - [Aditya Singh](https://github.com/Adi-ty)
