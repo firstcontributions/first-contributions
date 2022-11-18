@@ -49,10 +49,12 @@ Navigálj a repository könytárába (ha nem ott vagy jelenleg):
 ```
 cd first-contributions
 ```
-Most készítsünk egy ágat `git checkout` parancs használatával:
-```
 
+Most készítsünk egy ágat `git checkout` parancs használatával:
+
+```
 git switch -c <az-uj-branch-neve>
+```
 
 Például:
 ```
