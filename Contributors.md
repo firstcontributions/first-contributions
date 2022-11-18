@@ -446,7 +446,7 @@ main
 - [Liang G. E.]
 - [Neil Kanakia](https://neilkanakia.xyz)
 - Chackochan Sebastian
-- [Ng Han Inn](https://github.nghaninn.com)
+- [Ng Han Inn's GitHub](https://github.nghaninn.com) [Ng Han Inn's Website](https://nghaninn.com)
 - [Sneha Mandal](https://github.com/sm-creative-crazy4code)
 - [Pranay Shende](https://github.com/PranayShende/)
 - [Jordanjun98](https://github.com/Jordanjun98)
