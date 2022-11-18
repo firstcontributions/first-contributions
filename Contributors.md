@@ -4125,6 +4125,7 @@ Fiyinfoluwa Afolayan
 - [Rochi Eko Pambudi](https://github.com/rochiekop)
 - [Prasetyo Yudho](https://github.com/prasetyoyudo)
 - [Cindy Lam](https://github.com/ngl4)
+- [Adam Ward](https://github.com/aramWadd)
 - [Ikrom Syadzali](https://github.com/ikromxyz)
 - [Phong Pham](https://github.com/phongpv)
 - [Sahil Thakur](https://github.com/Blacklight34)
