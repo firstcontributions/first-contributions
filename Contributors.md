@@ -246,6 +246,7 @@ Rehan Shaikh
 - [Gideon Opoku](https://github.com/nana562)
 - [wfrsk](hhpts://github.com/wfrsk)
 - [Khalid-Hasan](https://github.com/khalidx3)
+- [David Lopez](https://github.com/davidnoelopez)
 - [Moustafa Hassan](https://github.com/MoustafaHassan1)
 - [Brendan Tuckerman](https://github.com/MrMaverick79/)
 - [Renz Sira](https://github.com/rcsira)
