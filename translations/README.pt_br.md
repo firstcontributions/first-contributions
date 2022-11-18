@@ -7,7 +7,7 @@
 
 Este projeto visa facilitar o caminho e guiar os iniciantes em suas primeiras contribuições. Se você deseja fazer a sua primeira contribuição, siga os passos abaixo.
 
-#### _Se não se sentes confortável com linha de comando, [aqui estão alguns tutoriais de ferramentas gráficas.](#Tutoriais-usando-outras-ferramentas)_
+#### _Se não estiver confortável com a linha de comando, [aqui estão alguns tutoriais de ferramentas gráficas.](#Tutoriais-usando-outras-ferramentas)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork deste repositório" />
 
@@ -21,15 +21,15 @@ Faça um Fork clicando no botão "Fork" no topo desta página. Isto irá criar u
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clonar este repositório" />
 
-Agora clone este repositório para a sua máquina. Clique no botão "Clone or download" e, em seguida, clique no ícone "Copy to clipboard" para copiar a URL.
+Agora, clone este repositório para a sua máquina. Acesse sua conta do GitHub, abra o repositório bifurcado (forked), clique no botão do código (Code) e, em seguida, clique no ícone copiar para a área de transferência.
 
-Abra seu terminal e execute o seguinte comando do git:
+Abra um terminal e execute o seguinte comando do git:
 
 ```
 git clone "url que copiou"
 ```
 
-onde "url que copiou" (sem as aspas) é a URL deste repositório. Consulte as etapas anteriores para obter a URL.
+onde "url que copiou" (sem as aspas) é a URL deste repositório (seu fork deste projeto). Consulte as etapas anteriores para obter a URL.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copiar URL" />
 
@@ -43,55 +43,53 @@ onde "seu-usuário" é o seu usuário do GitHub. Aqui você está copiando o con
 
 ## Crie um Branch
 
-Vá para o diretório do repositório no seu computador (caso você não esteja lá):
+Acesse o diretório do repositório no seu computador (caso você não esteja nele):
 
 ```
 cd first-contributions
 ```
 
-Agora crie um Branch usando o comando `git checkout`:
+Agora crie um branch usando o comando `git switch`:
 
 ```
-git checkout -b <add-seu-nome>
+git switch -c <add-seu-nome>
 ```
 
 Por exemplo:
 
 ```
-git checkout -b add-alonzo-church
+git switch -c add-andre-oliveira
 ```
-
-Obs.: O nome do Branch não precisa ter a sigla "add", mas nesse caso é recomendável, porque a finalidade deste Branch é a de adicionar o seu nome à uma lista.
 
 ## Efetue as alterações necessárias e faça um Commit
 
-Agora abra o arquivo `Contributors.md` em seu editor de código, adicione o seu nome a ele e salve o arquivo.
+Agora, abra o arquivo `Contributors.md` em seu editor de código e adicione o seu nome a ele. Não o adicione no início ou no final do arquivo. Coloque-o em qualquer lugar no meio. Agora, salve o arquivo.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-Se você for para o diretório do projeto e executar o comando `git status`, verá que há alterações. Adicione essas alterações ao Branch que você acabou de criar utilizando o comando `git add`:
+Se você for para o diretório do projeto e executar o comando `git status`, verá que há alterações. Adicione essas alterações ao branch que você acabou de criar utilizando o comando `git add`:
 
 ```
 git add Contributors.md
 ```
 
-Agora faça um Commit dessas alterações utilizando o comando `git commit`:
+Agora, confirme essas alterações usando o comando git commit `git commit`:
 
 ```
 git commit -m "Add <seu-nome> to Contributors list"
 ```
 
-preenchendo `<seu-nome>` com o seu nome.
+substituindo `<seu-nome>` pelo seu nome.
 
-## Faça um Push das alterações para o GitHub
+## Faça um push das alterações para o GitHub
 
-Faça um Push utilizando o comando `git push`:
+Envie suas alterações usando o comando `git push`:
 
 ```
 git push origin <add-seu-nome>
 ```
 
-substituindo `<add-seu-nome>` pelo nome do Branch que você criou anteriormente.
+substituindo `<add-seu-nome>` pelo nome do branch que você criou anteriormente.
 
 ## Envie suas alterações para serem revisadas
 
@@ -99,11 +97,11 @@ Se você for para o seu repositório no GitHub, verá um botão `Compare & pull 
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Crie um Pull Request" />
 
-Agora envie um Pull Request.
+Agora envie um pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Envie o Pull Request" />
 
-Logo estarei mesclando ('mergeando') as suas mudanças no Branch principal (master) deste projeto. Você receberá um e-mail de notificação quando as alterações forem mescladas.
+Em breve estarei mesclando todas as suas alterações no branch principal deste projeto. Você receberá um e-mail de notificação assim que as alterações forem mescladas.
 
 ## Para onde ir a partir daqui?
 
