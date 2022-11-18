@@ -946,6 +946,7 @@ Enrique Javier
 - [Dhananjaya Swain](https://github.com/thelastone07)
 - [Antony Prince](https://github.com/antoprince001)
 - [DG](https://github.com/DGclasher)
+- [Ritik Raj](https://github.com/ritikraj6120)
 - [Prashant Maitra](https://github.com/lovefromCode)
 - [Aditya Sharma](https://github.com/technophyle66)
 - [WNP](https://github.com/WanNaPhyo)
