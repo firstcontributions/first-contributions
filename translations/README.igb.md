@@ -3,20 +3,17 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-
 # Onyinye Mbụ
 
 O siri ike. Ọ na-esiri gị ike mgbe mbụ i mere ihe. Karịsịa mgbe ị na-emekọ ihe, imehie ihe abụghị ihe dị mma. Anyị chọrọ ime ka ụzọ ndị ọhụrụ na-emeghe emeghe na-amụta ma tinye aka maka oge mbụ.
 
 Ịgụ isiokwu & nkuzi ntanetị nwere ike inyere gị aka, ma gịnị dị mma karịa ime ihe ahụ na-eme ihe omume? Ihe oru a bu iji nye nduzi & mee ka ndi mmadu bidoro ibu onyinye mbu. Ọ bụrụ na ị na-achọ ime onyinye mbụ gị, gbasoo nzọụkwụ dị n'okpuru.
 
-#### *Ọ bụrụ na ị naghị enwe mmasị na akara iwu, [ebe a bụ nkuzi na-eji ngwaọrụ GUI.](#Nkuzi-na-iji-ihe-ndi-ozo)*
-
+#### _Ọ bụrụ na ị naghị enwe mmasị na akara iwu, [ebe a bụ nkuzi na-eji ngwaọrụ GUI.](#Nkuzi-na-iji-ihe-ndi-ozo)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Ọ bụrụ na ịnweghị igwe na igwe gị, [wụnye ya]( https://help.github.com/articles/set-up-git/).
-
+Ọ bụrụ na ịnweghị igwe na igwe gị, [wụnye ya](https://help.github.com/articles/set-up-git/).
 
 ## Wepu ebe nchekwa a
 
@@ -44,7 +41,7 @@ ebe "url na ị depụtaghachiri" (na-enweghị ntinye ọnụ) bụ url maka nc
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-ebee `this-is-you` ka aha njirimara GitHub gị. Lee, ị na-edegharị ọdịnaya nke onyinye ntinye mbụ na GitHub na kọmputa gị.
+ebe `this-is-you` ka aha njirimara GitHub gị. Lee, ị na-edegharị ọdịnaya nke onyinye ntinye mbụ na GitHub na kọmputa gị.
 
 ## Mepụta alaka
 
@@ -70,13 +67,11 @@ git checkout -b add-alonzo-church
 
 ## Mee mgbanwe ndị dị mkpa ma mee mgbanwe ndị ahụ
 
-
 Ugbu a mepee `Contributors.md` faịlụ na nchịkọta ederede, tinye aha gị na ya. Adakwunye ya na mmalite ma ọ bụ njedebe nke faịlụ ahụ. Tinye ya n'ebe ọ bụla n'etiti. Ugbu a, chekwaa faịlụ ahụ.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 Ọ bụrụ na ịga na ndekọ ụlọ ọrụ ma mebie iwu ahụ `git status`, ị ga-ahụ na e nwere mgbanwe.
-
 
 Tinye mgbanwe ndị a n'alaka ụlọ ọrụ ị mepụtara site na iji `git add` iwu ahụ:
 
@@ -89,10 +84,10 @@ Ugbu a mee mgbanwe ndị ahụ site na iji `git commit` iwu ahụ:
 ```
 git commit -m "Add <your-name> to Contributors list"
 ```
-dochie `<your-name>` aha gị.
+
+jiri aha gị dochie `<your-name>`.
 
 ## Kwanye mgbanwe nile a n'ime GitHub
-
 
 Mee mgbanwe gị site na iji iwu `git push`:
 
@@ -103,7 +98,6 @@ git push origin <add-your-branch-name>
 dochie `<add-your-branch-name>` aha alaka ụlọ ọrụ ị mepụtara n'oge gara aga.
 
 ## Nyefee mgbanwe gị maka nyocha
-
 
 Ọ bụrụ na ị gaa ebe nchekwa gị na GitHub, ị ga-ahụ `Compare & pull request` bọtịnụ. Pịa bọtịnụ ahụ.
 
@@ -124,7 +118,6 @@ Nalee onyinye gị ma soro ndị enyi gị na ụmụazụ gị kerịta ya site
 Ị nwere ike isonyere ndị ọrụ anyị na-adịghị mma na ikpe ịchọrọ enyemaka ọ bụla ma ọ bụ nwee ajụjụ ọ bụla. [Jikọọ slack otu](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Ugbu a, ka anyị malite site na inye onyinye maka ọrụ ndị ọzọ. Anyị ejikọtawo ndepụta nke oru na okwu dị mfe ị nwere ike ịmalite. Lelee [ndepụta nke oru na ngwa weebụ ](https://roshanjossey.github.io/first-contributions/#project-list).
-
 
 ### [Ihe ndi ozo](../additional-material/git_workflow_scenarios/additional-material.md)
 
