@@ -125,7 +125,7 @@ git push origin <add-your-name>
 
 
 
-### [추가 정보](../additional-material/translations/additional-material.ko.md)
+### [추가 정보](../additional-material/translations/Korean/additional-material.ko.md)
 
 ## 다른 도구들에 관한 튜토리얼
 
