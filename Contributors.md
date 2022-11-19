@@ -2582,6 +2582,7 @@ Fiyinfoluwa Afolayan
 - [tigerBoss101](https://github.com/tigerBoss101)
 - [Mirzokhid Mukhsidov](https://github.com/Muxsidov)
 - [Anil Kumar N]
+- [J3rome]
 - [Reza Athallah](https://github.com/rezaaar)
 - [Garvit Shah](https://github.com/gobbledy-gook)
 - [Prajwal Somalkar] (https://github.com/Prajwal0225)
