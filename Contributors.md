@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
   [Uttam Kumar ](https://github.com/Utt977)
   [Sarmen Ter-oganesyan](https://github.com/sarmen-t)
+
 - [Marco Baldo](https://github.com/baldomarco)
 - [Arham Anwar](https://github.com/arhamcode)
 - [Ethan Ospina](https://github.com/Koethan)
@@ -5144,3 +5145,4 @@ Alonzo Church
 - [6squash9](https://github.com/6squash9)
 - [Atik Abdullah](https://github.com/knightphoenix101)
 - [Natália Gomes](https://github.com/nataliasetubal)
+- [Kyle Zhang](https://github.com/knitzhang)
