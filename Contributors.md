@@ -8,6 +8,7 @@
 - [Ethan Ospina](https://github.com/Koethan)
 - [Daniel Omar Zavala](https://github.com/DanielOmarZavala)
 - [Vidya Sagar Mehar](https://github.com/VidyaSagarMehar)
+- [Deep Kumar Patel](https://github.com/deepezio)
 - [Victor Mutethia](https://github.com/dev-vickie)
 - [Furqan Hameed](https://github.com/Furqaaan)
 - [Fumbani Banda](https://github.com/deadex-ng)
