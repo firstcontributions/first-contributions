@@ -636,7 +636,6 @@ main
 - [devzohaib](https://github.com/devzohaib)
 - [Tanmay Bhujade](https://github.com/Tanmaybhujade)
 - [Ehmad Saeed](https://github.com/ehmadsaeed)
-- [Adan vasconcelos][https://github.com/AdanVasconcelos]
 - [BrenBermudez] (https://github.com/BrendaBermudez)
 - [Alex Buser](https://github.com/Albuser)
 - [Alex Peain](https://github.com/Alexpeain)
