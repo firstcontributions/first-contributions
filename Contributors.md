@@ -16,6 +16,7 @@
 - [Matheus Bitencourt](https://github.com/bitmattz)
 - [Amar Gulaganji](https://github.com/amargulaganji)
 - [Iris Kalogirou 🇬🇷 ](https://github.com/iris-zaf)
+- [Rushikesh R Bhalerao](https://github.com/bhalerao-2002)
 - [Lam](https://github.com/ngld0)
   [Davide Grimaldi](https://github.com/Ishikawa7)
 - [Cole Terrell](https://github.com/colecterrell)
