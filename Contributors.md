@@ -114,6 +114,7 @@ vishal anand
 pnordboj
 - [Ajayi Olamide](https://github.com/prodbyola)
 - [JayJay](https://github.com/JalajJain7)
+- [KyleWestover](https://github.com/KyleWestover)
 - [chenqy9](https://github.com/chenqy9)
 - [Sanket Ghormode](https://github.com/aw-santo)
 - [asmaSamano](https://github.com/aaldaghar)
