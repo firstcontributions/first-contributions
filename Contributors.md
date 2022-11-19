@@ -8,6 +8,7 @@
 - [Ethan Ospina](https://github.com/Koethan)
 - [Daniel Omar Zavala](https://github.com/DanielOmarZavala)
 - [Vidya Sagar Mehar](https://github.com/VidyaSagarMehar)
+- [Deep Kumar Patel](https://github.com/deepezio)
 - [Victor Mutethia](https://github.com/dev-vickie)
 - [Furqan Hameed](https://github.com/Furqaaan)
 - [Fumbani Banda](https://github.com/deadex-ng)
@@ -1759,6 +1760,7 @@ Add something here
 - [Aditya Rajauria](https://github.com/AdityaR6)
 - [Manuel Alingog](https://github.com/mannyalin)
 - [Luka Jurić](https://github.com/ljuricinf)
+- [OwaisAD](https://github.com/OwaisAD)
 - [Krishan Murari](https://github.com/krishan-here)
 - [Shweta Singh](https://github.com/shwetasingh14)
 - [Sneha Das](https://github.com/iamsnehadas)
@@ -2423,6 +2425,7 @@ Add something here
 - [Rutuja More](https://github.com/hrutuja-m)
 - [Nidhish SD](https://github.com/Nidhish-SD)
 - [Rakshat Kashyap](https://github.com/pixalquarks)
+- [Lazau Tudor](https://github.com/Karadar1)
 - [Braedon Behnke]
 Fiyinfoluwa Afolayan
 - [Matt Doughty](https://github.com/maddo1919)
@@ -4944,6 +4947,7 @@ first contributions - hanyang univ.
 - [Giovani Claro Moraes](https://github.com/Krydelmany)
 - [Bodhdipta Roy](https://github.com/bodhdipta-roy)
 - [Dicka Ismaji](https://github.com/dicka88)
+- [Daphine Kamusiime](https://github.com/DaphineKamusiime)
 - [Goutam-Kumar](https://github.com/goutam-kumar1)
 - [Saumya Singh](https://twitter.com/saumya1singh)
 - [Navi Talib](https://github.com/NaviTalib)
@@ -5154,4 +5158,5 @@ Alonzo Church
 - [6squash9](https://github.com/6squash9)
 - [Atik Abdullah](https://github.com/knightphoenix101)
 - [Natália Gomes](https://github.com/nataliasetubal)
+- [Mnemba Chambuya](https://github.com/mnekx
 - [Hongbo](https://github.com/xxmy7)
