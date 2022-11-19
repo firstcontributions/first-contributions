@@ -49,6 +49,7 @@
 - [Siddharthan S](https://github.com/siddharthans2000)
 - [Hex09AF](https://github.com/Hex09AF)
 - [Bot-ii]
+- [rdg11]
 - [Sai Charan Vadakapur](https://github.com/iamsaicharan)
 - [Parht Tiwari](https://github.com/Bingolast)
 - [Daniel Holm](https://github.com/dannivh3)
