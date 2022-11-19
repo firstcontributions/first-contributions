@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
   [Uttam Kumar ](https://github.com/Utt977)
+  [Aditya Cheema](https://github.com/addiii4)
   [Sarmen Ter-oganesyan](https://github.com/sarmen-t)
 - [Arham Anwar](https://github.com/arhamcode)
 - [Daniel Omar Zavala](https://github.com/DanielOmarZavala)
