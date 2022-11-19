@@ -2423,6 +2423,7 @@ Add something here
 - [Rutuja More](https://github.com/hrutuja-m)
 - [Nidhish SD](https://github.com/Nidhish-SD)
 - [Rakshat Kashyap](https://github.com/pixalquarks)
+- [Lazau Tudor](https://github.com/Karadar1)
 - [Braedon Behnke]
 Fiyinfoluwa Afolayan
 - [Matt Doughty](https://github.com/maddo1919)
