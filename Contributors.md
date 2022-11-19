@@ -30,7 +30,8 @@
 - [Anant Yadav](https://github.com/avadro112)
 - [Ish Rastogi](https://github.com/ishnetcode)
 - [hola]
-- [Jasonfabian](https://github.com/jasonfabian)
+- [Jasonfabian](https://github.com/jasonfabian)]
+- [Abiodun Victoria](https://github.com/Vickyabiodun)
 - [aloha](https://github.com/doh43)
 - [Dillon Baird 🚀 ](https://github.com/dillonbaird)
 - [Jayrup Nakawala](https://github.com/CaptainJack9832)
