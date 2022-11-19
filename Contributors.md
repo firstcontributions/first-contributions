@@ -4,6 +4,7 @@
   [Sarmen Ter-oganesyan](https://github.com/sarmen-t)
 - [Marco Baldo](https://github.com/baldomarco)
 - [Arham Anwar](https://github.com/arhamcode)
+- [Ethan Ospina](https://github.com/Koethan)
 - [Daniel Omar Zavala](https://github.com/DanielOmarZavala)
 - [Victor Mutethia](https://github.com/dev-vickie)
 - [Furqan Hameed](https://github.com/Furqaaan)
