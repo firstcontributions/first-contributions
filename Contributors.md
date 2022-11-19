@@ -11,6 +11,7 @@
 - [Furqan Hameed](https://github.com/Furqaaan)
 - [Fumbani Banda](https://github.com/deadex-ng)
 - [Bogusz Borysewicz](https://github.com/KathidB)
+- [Sarmad Nawaz](https://github.com/sarmadnawaz)
 - [Harsh Kumar](https://github.com/harsh-1806)
 - [Manas Tewari](https://github.com/manas311)
 - [Chizoba Victory](https://github.com/chizobavictory)
