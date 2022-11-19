@@ -20,6 +20,7 @@
 - [Matheus Bitencourt](https://github.com/bitmattz)
 - [Amar Gulaganji](https://github.com/amargulaganji)
 - [Iris Kalogirou 🇬🇷 ](https://github.com/iris-zaf)
+- [Divya Balakrishnan](https://github.com/divyab275)
 - [Rushikesh R Bhalerao](https://github.com/bhalerao-2002)
 - [Dickson Godwin](https://github.com/dickson12)
 - [Lam](https://github.com/ngld0)
