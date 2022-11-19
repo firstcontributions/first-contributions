@@ -43,6 +43,7 @@
 - [Abulfazl Haidary](https://github.com/abulfazl-haidary)
 - [S PADMANABAN](https://github.com/S-PADMANABAN-2001)
 - [Laxman Charlapally](https://github.com/laxmanch341)
+- [Yared Tekile](https://github.com/yared29)
 - [Jitnedra Rathore](https://github.com/jitendrarathore9919)
 - [Alfred Thompson Ovie](https://github.com/alfredthompsonOvie)
 - [Ray](https://github.com/1rb)
