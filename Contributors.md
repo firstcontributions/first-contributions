@@ -48,6 +48,7 @@ Amlendra
 - [Abiodun Victoria](https://github.com/Vickyabiodun)
 - [aloha](https://github.com/doh43)
 - [Dillon Baird 🚀 ](https://github.com/dillonbaird)
+- [Anisha Grover](https://github.com/Anisha-Grover)
 - [Vedeesh Dwivedi](https://github.com/Vedeesh6)
 - [Jayrup Nakawala](https://github.com/CaptainJack9832)
 - [Vinicius Gomes Ferreira](https://github.com/viniciusgferreira)
