@@ -7,6 +7,7 @@ Amlendra
   [Aditya Cheema](https://github.com/addiii4)
   [Sarmen Ter-oganesyan](https://github.com/sarmen-t)
 
+- [kas tas](https://github.com/krishthukral)
 - [Marco Baldo](https://github.com/baldomarco)
 - [PaulMuchwat](https://github.com/PaulMuchwat)
 - [Arham Anwar](https://github.com/arhamcode)
