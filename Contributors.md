@@ -19,6 +19,7 @@
 - [Harsh Kumar](https://github.com/harsh-1806)
 - [Manas Tewari](https://github.com/manas311)
 - [Chizoba Victory](https://github.com/chizobavictory)
+- [William Powers] (https://github.com/wgpowers98)
 - [Joshua Cash](https://github.com/JoshuaCash)
 - [Matheus Bitencourt](https://github.com/bitmattz)
 - [Amar Gulaganji](https://github.com/amargulaganji)
