@@ -5184,3 +5184,4 @@ Alonzo Church
 - [Khalid](https://github.com/khalid-212)
 - [Ben Parker](https://github.com/Bennytek)
 - [Cleber Valadares da Silva](https://github.com/CleberValadares/)
+- [Kane](https://github.com/kaneran)
