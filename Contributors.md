@@ -1,6 +1,5 @@
 # Contributors
 <!-- prettier-ignore-start -->
-Amlendra
 - [Ashley Bailey](https://github.com/realashleybailey)
   [Okafor Paul ](https://github.com/pauluzo)
   [Uttam Kumar ](https://github.com/Utt977)
