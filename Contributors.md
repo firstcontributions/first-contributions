@@ -47,6 +47,7 @@
 - [Abiodun Victoria](https://github.com/Vickyabiodun)
 - [aloha](https://github.com/doh43)
 - [Dillon Baird 🚀 ](https://github.com/dillonbaird)
+- [Vedeesh Dwivedi](https://github.com/Vedeesh6)
 - [Jayrup Nakawala](https://github.com/CaptainJack9832)
 - [Vinicius Gomes Ferreira](https://github.com/viniciusgferreira)
 - [Abulfazl Haidary](https://github.com/abulfazl-haidary)
