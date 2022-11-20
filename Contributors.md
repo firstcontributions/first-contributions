@@ -1,10 +1,10 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Ashley Bailey](https://github.com/realashleybailey)
-  [Okafor Paul ](https://github.com/pauluzo)
-  [Uttam Kumar ](https://github.com/Utt977)
-  [Aditya Cheema](https://github.com/addiii4)
-  [Sarmen Ter-oganesyan](https://github.com/sarmen-t)
+- [Okafor Paul ](https://github.com/pauluzo)
+- [Uttam Kumar ](https://github.com/Utt977)
+- [Aditya Cheema](https://github.com/addiii4)
+- [Sarmen Ter-oganesyan](https://github.com/sarmen-t)
 - [Marco Baldo](https://github.com/baldomarco)
 - [Arham Anwar](https://github.com/arhamcode)
 - [Ethan Ospina](https://github.com/Koethan)
