@@ -5050,6 +5050,7 @@ first contributions - hanyang univ.
 - [Jatin Chhabra](https://github.com/jat2208)
 - [Tushant Rangari](https://github.com/tushant07)
 - [Ansh Charak](https://github.com/AnshCharak)
+- [Josel](https://github.com/Josel-S)
 - [Avani Saxena](https://github.com/avanisaxena9)
 - [Alka Bharti](https://github.com/alkabharti)
 - [Soumyadip Chowdhury](https://github.com/soumyadip007)
