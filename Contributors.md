@@ -66,6 +66,7 @@ Amlendra
 - [Ray](https://github.com/1rb)
 - [Ye Min Aung](https://github.com/mryeminaung)
 - [Sumit Mangrati](https://github.com/SumitMangrati)
+- [GameJarne](https://github.com/GameJarne)
 - [Ranbir Das](https://github.com/ranbir7)
 - [Ansar Ahmed](https://github.com/AnsarAhmed99)
 - [Sanskriti Sharma](https://github.com/Sanskritisharma17)
