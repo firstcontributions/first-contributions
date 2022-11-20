@@ -1737,6 +1737,7 @@ Add something here
 - [Patricia Rodrigues] (https://github.com/patprodrigues)
 -  [LIJIN DANIEL JOSEPH] (https://github.com/lijindanieljoseph)
 - [Luca Argentieri](https://github.com/LucaArgentieri)
+- [Luca Pastore](https://github.com/LucaPastore)
 - [Abhishek Dusad] (https://github.com/abhishekd004)
 - [Jahnvi ] (https://github.com/jahnvi15/)
 - [Hamza Awan](https://github.com/iamhamzaawan)
