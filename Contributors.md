@@ -125,6 +125,7 @@ Jivan Bhardwaj
 [Jivan Bhardwaj](https://github.com/jivanbhardwaj)
 vishal anand
 - [Moaad Benkaraache](http://github.com/moaadb)
+- [eb8-1o](http://github.com/eb8-1o)
 - [Vedant Mate](https://github.com/VedantMate/)
 - [Matteo DeSimone](github.com/TheMatteoD)
 - [Vipparthi Venkata Krishna Vamsi](https://github.com/Reddragonemperor58)
