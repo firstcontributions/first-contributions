@@ -5071,7 +5071,7 @@ Add something here
 - [Michael Kiffer](https://github.com/mkiffer)
 - [Daniel Falcone](https://github.com/dfalcone19)
   Katie Moar
-  We went to Ajax today
+- We went to Ajax today
 - [Abhinai](https://github.com/Abhinai1395)
 - [lukastheviciouss](https://github.com/lukasthevicious)
 - [SABRIOUS](https://github.com/SABRIOUS)
