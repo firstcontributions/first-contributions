@@ -6,6 +6,7 @@ Amlendra
   [Uttam Kumar ](https://github.com/Utt977)
   [Aditya Cheema](https://github.com/addiii4)
   [Sarmen Ter-oganesyan](https://github.com/sarmen-t)
+
 - [Marco Baldo](https://github.com/baldomarco)
 - [PaulMuchwat](https://github.com/PaulMuchwat)
 - [Arham Anwar](https://github.com/arhamcode)
@@ -5172,6 +5173,7 @@ Alonzo Church
 - [6squash9](https://github.com/6squash9)
 - [Atik Abdullah](https://github.com/knightphoenix101)
 - [Natália Gomes](https://github.com/nataliasetubal)
+- [Kyle Zhang](https://github.com/knitzhang)
 - [Mnemba Chambuya](https://github.com/mnekx)
 - [Hongbo](https://github.com/xxmy7)
 - [Khalid](https://github.com/khalid-212)
