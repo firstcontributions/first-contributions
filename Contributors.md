@@ -417,6 +417,7 @@ Mattia
 - [Rohit Waghole](https://github.com/RohitWaghole)
 - [xuzhelun](https://github.com/xuzhelun)
 - [Willie Morris](https://github.com/willie10r)
+- [William Chung](https://github.com/wchung42)
 - [Argie Gingoyon](https://github.com/asgee)
 - [Parth](https://Github.com/ParthMadhvani2)
 - Victoria Lafi
