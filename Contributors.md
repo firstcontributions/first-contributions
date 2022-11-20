@@ -4943,6 +4943,7 @@ first contributions - hanyang univ.
 - [Giovani Claro Moraes](https://github.com/Krydelmany)
 - [Bodhdipta Roy](https://github.com/bodhdipta-roy)
 - [Dicka Ismaji](https://github.com/dicka88)
+- [Daphine Kamusiime](https://github.com/DaphineKamusiime)
 - [Goutam-Kumar](https://github.com/goutam-kumar1)
 - [Saumya Singh](https://twitter.com/saumya1singh)
 - [Navi Talib](https://github.com/NaviTalib)
