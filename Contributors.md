@@ -2486,6 +2486,7 @@ Fiyinfoluwa Afolayan
 - [Charlie Gomez](https://github.com/CGDev-TheMidnightWalker)
 - [Erick Salazar]
 - [Justin Liang]
+- [MrYoaz]
 - [director8]
 - [Junaid Khan](https://github.com/JunaidKhan444)
 - [Aaron S]
