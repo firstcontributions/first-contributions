@@ -8,6 +8,7 @@ Amlendra
   [Sarmen Ter-oganesyan](https://github.com/sarmen-t)
 
 - [Marco Baldo](https://github.com/baldomarco)
+- [Krish Thukral](https://github.com/krishthukral1)
 - [PaulMuchwat](https://github.com/PaulMuchwat)
 - [Arham Anwar](https://github.com/arhamcode)
 - [Ethan Ospina](https://github.com/Koethan)
