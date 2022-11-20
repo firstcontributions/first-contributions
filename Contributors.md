@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Ashley Bailey](https://github.com/realashleybailey)
   [Okafor Paul ](https://github.com/pauluzo)
   [Uttam Kumar ](https://github.com/Utt977)
   [Aditya Cheema](https://github.com/addiii4)
