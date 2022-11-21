@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -22,17 +22,18 @@ Se você ainda não tem o IntelliJ IDEA no seu computador, [instale-o](https://w
 
 <img align="right" width="300" src="https://camo.githubusercontent.com/fcf9a4ed664cc63de2fcb14d1135072ba6d4c74a8e9bdb224ad6ab1e72600c3b/68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f666f726b2e706e67" alt="fork this repository" />
 
-Fork este repo clicando no botão fork(bifurcar) no canto superior direito desta página. Isso criará uma cópia deste repositório em sua conta do GitHub.
+Faça um *fork* deste repositório clicando no botão *fork* (bifurcar) no canto superior direito desta página. Isso criará uma cópia deste repositório em sua conta do GitHub.
  
-O GitHub rastreia a relação entre seu repo e o original, você pode pensar em seu repo como uma cópia de trabalho.
-Muitos dos repositórios matrizes do GitHub (ou seja, aqueles que não são Fork de nenhum outro repo) têm um pequeno grupo de pessoas que podem fazer commits de modificações diretamente. Todos os outros contribuidores devem forkear o repo e fazer alterações no fork, em seguida, devem criar um Pull Request para solicitar um Merge(mescla) das modificações feitas no repositório original.
+O GitHub rastreia a relação entre seu repositório e o original, o qual você fez o *fork*. Você pode pensar em seu repositório como uma cópia de trabalho.
+
+Muitos dos repositórios matrizes do GitHub (ou seja, aqueles que não são *Fork* de nenhum outro repositório) tem um pequeno grupo de pessoas que podem fazer commits de modificações diretamente. Todos os outros contribuidores devem fazer um *for* do repositório e fazer alterações no *fork*, em seguida, devem criar um Pull Request para solicitar um *Merge* (mesclagem) das modificações feitas no repositório original.
 
 
 ## Clone seu Repositório 
 
 <img align="right" width="300" src="https://camo.githubusercontent.com/4c3f7f1bec4f04db40ecf58dc2e19c2d8992f100f3bbbc4767a9d20b29f4a43d/68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f636c6f6e652e706e67" alt="clone this repository" />
 
-O próximo passo será clonar seu repo em sua máquina para que você possa modificá-lo. O IntelliJ IDEA precisa da URL do seu repo, portanto clique no botão "clone" e então clique no ícone "copy to clipboard".
+O próximo passo será clonar seu repositório em sua máquina para que você possa modificá-lo. Visual Studio precisa da URL do seu repositório, portanto clique no botão "clone" e então clique no ícone "copy to clipboard".
  
 **CUIDADO**: Um erro que os novatos costumam cometer é clonar o repo do qual você fez o fork, em vez de clonar seu repo. Verifique a barra de endereços do seu navegador e certifique-se de que você está clonando o seu repositório.
  
@@ -108,14 +109,14 @@ Parabéns! Você acabou de completar o padrão _fork -> clone -> edit -> PR_ wor
  
 Comemore sua contribuição e compartilhe-a com seus amigos e seguidores acessando o [web app](https://roshanjossey.github.io/first-contributions/#social-share).
  
-Você pode se juntar a nossa equipe slack caso precise de alguma ajuda ou tenha alguma dúvida. [Junte-se ao time slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+Você pode se juntar a nossa equipe slack caso precise de alguma ajuda ou tenha alguma dúvida. [Junte-se ao time slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
  
 Agora vamos começar a contribuir para outros projetos, compilamos uma lista de projetos com questões fáceis para você começar. [Confira a lista de projetos no web app](https://roshanjossey.github.io/first-contributions/#project-list).
  
 
 
 
-### [Material Adicional](../../additional-material/translations/additional-material.pt_br.md).
+### [Material Adicional](../../additional-material/translations/Portuguese/additional-material.pt_br.md).
 
 ## Tutoriais usando outras ferramentas
 [Voltar a página principal](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.pt_br.md)

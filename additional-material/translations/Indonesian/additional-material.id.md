@@ -38,7 +38,7 @@ Dokumen ini memberikan informasi mengenai cara memindahkan sebuah commit ke caba
 Dokumen ini memberikan informasi mengenai cara mengonfigurasi detil pengguna dan opsi lain di git.
 > Gunakan langkah ini agar konfigurasi git anda menjadi lebih baik.
 
-### [Tautan bermanfaat](Useful-links-for-further-learning.md)
+### [Tautan bermanfaat](Useful-links-for-further-learning.id.md)
 Dokumen ini didedikasikan untuk semua pos blog, laman yang sangat membantu, situs tip dan trik yang akan membuat hidup kita lebih mudah. Tautan tersebut tidak hanya untuk pemula, namun juga bagi yang sudah mahir. Halaman ini akan menjadi indeks untuk semua tautan yang bermanfaat yang mungkin saja bisa membantu siapapun yang baru terjun di dunia open-source atau siapapun yang ingin belajar lebih lanjut.
 
 ### [Menyatukan banyak Commit](squashing-commits.md)
