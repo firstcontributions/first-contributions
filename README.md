@@ -28,6 +28,7 @@
 <kbd>[<img title="हिंदी/ગુજરાતી/मराठी/മലയാളം/ಕನ್ನಡ/తెలుగు/छत्तीसगढ़ी/বাংলা/தமிழ்" alt="हिंदी/ગુજરાતી/मराठी/മലയാളം/ಕನ್ನಡ/తెలుగు/छत्तीसगढ़ी/বাংলা/தமிழ்" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/in.svg" width="22">](translations/Translations.md)</kbd>
 <kbd>[<img title="தமிழ்" alt="தமிழ்" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lk.svg" width="22">](translations/README.ta.md)</kbd>
 <kbd>[<img title="فارسی" alt="فارسی" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ir.svg" width="22">](translations/README.fa.md)</kbd>
+<kbd>[<img title="پښتو" alt="پښتو" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/af.svg" width="22">](translations/README.pus.md)</kbd>
 <kbd>[<img title="Italiano" alt="Italiano" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/it.svg" width="22">](translations/README.it.md)</kbd>
 <kbd>[<img title="日本語" alt="日本語" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/jp.svg" width="22">](translations/README.ja.md)</kbd>
 <kbd>[<img title="සිංහල" alt="සිංහල" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lk.svg" width="22">](translations/README.si.md)</kbd>
@@ -69,7 +70,7 @@
 <kbd>[<img title="Қазақша" alt="Қазақша" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/kz.svg" width="22">](translations/README.kz.md)</kbd>
 <kbd>[<img title="Bosanski" alt="Bosanski" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ba.svg" width="22">](translations/README.bih.md)</kbd>
 <kbd>[<img title="Hrvatski" alt="Hrvatski" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/hr.svg" width="22">](translations/README.hr.md)</kbd>
-
+<kbd>[<img title="پښتو" alt="پښتو" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/af.svg" width="22">](translations/README.ps.md)</kbd>
 
 # First Contributions
 
@@ -158,7 +159,7 @@ replacing `your-name` with your name.
 Push your changes using the command `git push`:
 
 ```
-git push origin -u your-branch-name
+git push -u origin your-branch-name
 ```
 
 replacing `your-branch-name` with the name of the branch you created earlier.
