@@ -1,7 +1,7 @@
 # Reset a commit
 
 ```reset``` is the command which can be used when we want to move the repository back to a previous commit, discarding any changes made after that commit.<br/>
-The main difference between reseting and reverting a commit is that git reset ```unstages a file and bring our changes back to the working directory``` 
+The main difference between resetting and reverting a commit is that git reset ```unstages a file and bring our changes back to the working directory``` 
 and git revert ```removes the commits from the remote repository```. <br/>
 
 ```git reset``` can be achieved using following commands:
