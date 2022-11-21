@@ -51,7 +51,7 @@ Pilih Entri `Git: Clone` dan tekan `Enter`
 
 Tempelkan URL repositori kamu dan tekan `Enter`. Ini akan membuka File Explorer di mana kamu dapat memilih di mana repositori Git harus disimpan
 
-**Penting**: Pastikan itu adalah repositori yang kamu fork dan bukan yang asli, jika tidak maka tidak akan berfung
+**Penting**: Pastikan itu adalah repositori yang kamu fork dan bukan yang asli, jika tidak maka tidak akan berfungsi
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-clone3.png" alt="Status popup" />
 
@@ -110,10 +110,12 @@ Selamat! kamu baru saja menyelesaikan alur kerja _fork -> clone -> edit -> PR_ s
 
 Rayakan kontribusi mu dan bagikan dengan teman dan pengikut kamu dengan membuka [web app](https://firstcontributions.github.io#social-share).
 
-Kamu dapat bergabung dengan tim slack kami jika memerlukan bantuan atau memiliki pertanyaan. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+Kamu dapat bergabung dengan tim slack kami jika memerlukan bantuan atau memiliki pertanyaan. [Bergabung dengan tim Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 
-### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)
+### [ Materi tambahan ](../../additional-material/translations/additional-material.id.md)
+
+
 
 ## Tutorial menggunakan Alat lain
 [Kembali ke halaman utama](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
