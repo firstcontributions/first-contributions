@@ -61,6 +61,7 @@ Amlendra
 - [Vinicius Gomes Ferreira](https://github.com/viniciusgferreira)
 - [Abulfazl Haidary](https://github.com/abulfazl-haidary)
 - [S PADMANABAN](https://github.com/S-PADMANABAN-2001)
+- [Alan Nato](https://github.com/iamnotnato)
 - [Laxman Charlapally](https://github.com/laxmanch341)
 - [Piccora](https://github.com/Piccora)
 - [Yared Tekile](https://github.com/yared29)
