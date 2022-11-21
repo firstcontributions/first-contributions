@@ -194,6 +194,7 @@ StephenYu2018
 - [Ayoub Hassaine](https://github.com/fablorv)
 - [Andrew Zinc](https://github.com/AndrewZinc)
 - [Mecky89](https://github.com/Mecky89)
+- [Pickles](https://github.com/acuriouspickle)
 - [Tomiwa](https://github.com/Thor-miwa)
 - [Deepak Rana Magar](https://github.com/DeepakRanaMagar)
 - [Shivam Srivastava](https://github.com/shivam-srivas)
