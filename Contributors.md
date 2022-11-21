@@ -33,6 +33,7 @@ Amlendra
 - [Harsh Kumar](https://github.com/harsh-1806)
 - [Manas Tewari](https://github.com/manas311)
 - [Chizoba Victory](https://github.com/chizobavictory)
+- [Vamshi Krishna](https://github.com/vamsi422)
 - [William Powers](https://github.com/wgpowers98)
 - [Sean Gao](https://github.com/xianggao001)
 - [Joshua Cash](https://github.com/JoshuaCash)
