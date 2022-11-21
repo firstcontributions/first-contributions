@@ -95,6 +95,7 @@ Amlendra
 - [Manzolillo-IT]
 - [DevPersi](https://github.com/devpersi/)
   [Saumya Gupta]
+- [Waterspinner](https://github.com/waterspinner)
 - [Star Tripper](https://github.com/ComputehGuy)
 - [Haris Ahmad](https://github.com/Blurpex)
 - [Andre Oliveira](https://github.com/andrepbo)
