@@ -11,6 +11,7 @@ Amlendra
 - [kas tas](https://github.com/krishthukral)
 - [Marco Baldo](https://github.com/baldomarco)
 - [Krish Thukral](https://github.com/krishthukral1)
+- [Jeffrey Aligula](https://github.com/katzjeff)
 - [PaulMuchwat](https://github.com/PaulMuchwat)
 - [Arham Anwar](https://github.com/arhamcode)
 - [Ethan Ospina](https://github.com/Koethan)
