@@ -5200,6 +5200,7 @@ Alonzo Church
 - [Cleber Valadares da Silva](https://github.com/CleberValadares/)
 - [Kane](https://github.com/kaneran)
 - [Dcslugger](https://github.com/dcslugger)
+- [lixintong1992](https://github.com/lixintong1992)
 - [Duc Cuong](https://github.com/Notekunn)
 -[Devajit](https://github.com/DevP-ai)
 -[Viraj](https://github.com/Viraj76)
