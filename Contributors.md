@@ -5089,6 +5089,7 @@ first contributions - hanyang univ.
 - [Parth Banker](https://github.com/Puzer-03)
 - [Daniel Boakye](https://github.com/D-artisan)
 - [Mauryan Kansara] (https://github.com/MauryanKansara)
+- [Paul Pessoa] (https://github.com/paulpessoa)
 - [Chirantan Degloorkar](https://github.com/Chirantan2)
 - [Praneeth Perera](https://github.com/paniya93)
 - [Mohamed Soliman] (https://github.com/m-saeed-soliman)
