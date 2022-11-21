@@ -5191,4 +5191,5 @@ Alonzo Church
 - [Ben Parker](https://github.com/Bennytek)
 - [Cleber Valadares da Silva](https://github.com/CleberValadares/)
 - [Kane](https://github.com/kaneran)
-- [Dcslugger](https://github.com/dcslugger
+- [Dcslugger](https://github.com/dcslugger)
+- [Duc Cuong](https://github.com/Notekunn)
