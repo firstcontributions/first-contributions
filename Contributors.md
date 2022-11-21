@@ -1888,6 +1888,7 @@ p3tun1a
 - [Okoye Victor](https://github.com/ChuloWay)
 - [Rizel Scarlett](https://github.com/blackgirlbytes)
 - [Rahul Anand](https://github.com/rnand)
+- [Kimodo] (https://github.com/kimodo-code)
 - [Jimit Patel](https://github.com/jimit-exe)
 - [Muhammad Affan Khalid](https://github.com/muhammadaffankhalid)
 - [Kalu Agu Kalu](https://github.com/Godswilly)
