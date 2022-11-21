@@ -20,6 +20,7 @@ Amlendra
 - [Daniel Omar Zavala](https://github.com/DanielOmarZavala)
 - [Vidya Sagar Mehar](https://github.com/VidyaSagarMehar)
 - [Deep Kumar Patel](https://github.com/deepezio)
+- [Amritpal Singh](https://github.com/amritpalsingh)
 - [Victor Mutethia](https://github.com/dev-vickie)
 - [Furqan Hameed](https://github.com/Furqaaan)
 - [Fumbani Banda](https://github.com/deadex-ng)
