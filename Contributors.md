@@ -310,6 +310,7 @@ Rehan Shaikh
 - [Ishita Batra](https://github.com/ishita6)
 - [Nithin Bharathi](https://github.com/nithinbharathi)
 - [Edving Morales]
+- [Mark Harrigan]
 - [Bobby]
 - [Lucia Rigoni](https://github.com/luciarigoni)
 - [M.Nisar Ali](https://github.com/MNisarAli)
