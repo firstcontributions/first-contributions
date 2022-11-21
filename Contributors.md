@@ -113,6 +113,7 @@ Amlendra
 - [Test](https://github.com)
 - [Aki](https://github.com/akt00)
 - [Shruti](https://github.com/shrutii16)
+- [Rahul G] (https://github.com/
 - **[Sanjeev R M](https://github.com/sanjeev-rm)**
 - [Krishna Pathak](https://github.com/Krishna-ji)
 - [James Whitfield](https://github.com/JDWhitfieldAWS)
@@ -221,7 +222,7 @@ StephenYu2018
 - [Himanshu Soni](https://github.com/H1s1)
 - [Milca Brito](https://github.com/milcab)
 - [Manishit mani]()
-- Saintspec
+- [Rahul G](
 -[Shuraim Shafiulla](https://github.com/Shuraimi)
 - [Girish Bari](https://github.com/Girishbari)
 - [Rohan Sharma](https://github.com/Rohanfizz)
@@ -289,7 +290,7 @@ Rehan Shaikh
 - [Alisher Muzaffarov](https://github.com/aliml92)
 - [bohemian-x] (https://github.com/bohemiancode-x)
 - [Apeksha Arora](http://github.com/apekshasan)
-- Akshay
+- [RAHUL g](https://github.com/Rahulg8270)
 - PrincyQ
 - [Chirayu Pancholi](https://github.com/Chirayu31)
 - [AnushaPalle](https://github.com/AnushaPalle)
@@ -492,7 +493,8 @@ main
 - [Munavvar sinan](https://github.com/MunavvarSinan/)
 - [Saloni Srivastava] (https://github.com/salonisri1733)
 - [Anas J Mirza](https://github.com/anasjmirza)
-- [Nahal](https://github.com/aka-nahal)
+- [Nahal](https://github.com/akar
+-nahal)
 - [Mauricio Quiroga] (https://github.com/MauricioQuiroga)
 - [Liang G. E.]
 - [Neil Kanakia](https://neilkanakia.xyz)
@@ -5200,6 +5202,7 @@ Alonzo Church
 - [6squash9](https://github.com/6squash9)
 - [Atik Abdullah](https://github.com/knightphoenix101)
 - [Natália Gomes](https://github.com/nataliasetubal)
+- [Mnemba Chambuya](https://github.com/mnekx
 - [Kyle Zhang](https://github.com/knitzhang)
 - [Mnemba Chambuya](https://github.com/mnekx)
 - [Hongbo](https://github.com/xxmy7)
