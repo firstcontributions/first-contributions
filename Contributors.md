@@ -5127,6 +5127,7 @@ first contributions - hanyang univ.
 - [Daniel Falcone](https://github.com/dfalcone19)
 Katie Moar
 - [Abhinai](https://github.com/Abhinai1395)
+- [kosta-bri] (https://github.com/Kosta-brillakis)
 - [lukastheviciouss](https://github.com/lukasthevicious)
 - [SABRIOUS](https://github.com/SABRIOUS)
 - [Angusson](https://github.com/Angusson)
