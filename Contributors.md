@@ -61,6 +61,7 @@ Amlendra
 - [Abulfazl Haidary](https://github.com/abulfazl-haidary)
 - [S PADMANABAN](https://github.com/S-PADMANABAN-2001)
 - [Laxman Charlapally](https://github.com/laxmanch341)
+- [Piccora](https://github.com/Piccora)
 - [Yared Tekile](https://github.com/yared29)
 - [Jitnedra Rathore](https://github.com/jitendrarathore9919)
 - [Alfred Thompson Ovie](https://github.com/alfredthompsonOvie)
