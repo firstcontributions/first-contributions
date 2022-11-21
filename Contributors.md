@@ -47,6 +47,7 @@ Amlendra
 - [Ish Rastogi](https://github.com/ishnetcode)
 - [Karthik Seenivasan](https://github.com/kseenivasan)
 - [hola]
+- [Umar Khan] (https://github.com/Xylirator)
 -[Sanjana Sethiya](https://github.com/sanjana-1604)
 - [Jasonfabian](https://github.com/jasonfabian)]
 - [Abiodun Victoria](https://github.com/Vickyabiodun)
