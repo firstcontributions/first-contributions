@@ -741,6 +741,7 @@ main
 - [Niket Tiwari](https://github.com/Tiwari-Niket )
 - [Jason Kasari](https://github.com/jkasari)
 - [Abhi Patel](https://github.com/AbhiPatel10 )
+- [Marko Vitkovic](https://github.com/MarkoVitkovic)
 - [Yatndeep Dubey](https://github.com/Yatndeep )
 - [Autumn Ouellette](https://github.com/Autumn-Ou)
 - [Fatin Almalik](https://github.com/Fatin-Almalik)
