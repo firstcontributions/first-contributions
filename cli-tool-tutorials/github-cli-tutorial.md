@@ -6,7 +6,7 @@
 
 # First Contributions
 
-| <img alt="GitHub Desktop" src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSBTEFciBys42RYXmJLj8NExSqdlgfaPRJSmFpFkzbGqPMCTrU%26s&sp=1665116145Tcb4361661caef72ad13e2e6e972b97a16e591c4c18f7d84a859bb40b70e73490" width="200"> | GitHub Command Line Interface (CLI) |
+| <img alt="GitHub Desktop" src="https://cdn.icon-icons.com/icons2/2157/PNG/512/github_git_hub_logo_icon_132878.png" width="200"> | GitHub Command Line Interface (CLI) |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
 
 This is a guide for us the terminal nerds who wants to do everything in the terminal, and thanks to the [Github-CLI](https://cli.github.com/) we can achieve it, remember your first contribution should be fun, rewarding and a motivator just to keep going!
