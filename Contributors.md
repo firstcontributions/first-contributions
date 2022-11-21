@@ -15,6 +15,7 @@ Amlendra
 - [PaulMuchwat](https://github.com/PaulMuchwat)
 - [Arham Anwar](https://github.com/arhamcode)
 - [Ethan Ospina](https://github.com/Koethan)
+- [Gurkirat Singh](https://github.com/gurkiratsingh07)
 - [David Egerton](https://github.com/DavidEgerton1)
 - [Daniel Omar Zavala](https://github.com/DanielOmarZavala)
 - [Vidya Sagar Mehar](https://github.com/VidyaSagarMehar)
