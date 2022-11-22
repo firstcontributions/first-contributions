@@ -78,6 +78,7 @@
 - [Renz Sira](https://github.com/rcsira)
 - [Rounak Shrestha](https://github.com/Rounak-stha)
 - [SAHIL SINHA](https://github.com/SahilSinha007)
+- [Neelesh Aggarwal](https://github.com/AggarwalNeelesh)
 - [Maximiliano Carrasco](https://github.com/macsito-prog)
 - [Sarthak Mittal](https://github.com/SarthakMittal777)
 - [Luisa Haase](https://github.com/luisaha)
