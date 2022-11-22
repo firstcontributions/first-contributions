@@ -561,4 +561,5 @@
 - [Royalknight56](https://github.com/royalknight56)
 - [kan01234](https://github.com/kan01234/)
 - [EvyatarEsterson🙂](https://github.com/EvyatarEsterson)
+- [isaacc16](https://github.com/isaacc16)
 <!-- prettier-ignore-end -->
