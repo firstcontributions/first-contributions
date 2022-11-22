@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Sudarhan Mallibhat](https://github.com/sudarshanmg)
+- [Khant Sithu Zaw](https://github.com/KHANT-SITHUZAW)
 - [Benjamin Morgiewicz](https://github.com/BaseBenjamin13)
 - [Matheus Silverio](https://github.com/MattSilverio)
 - [Sabir Khan](https://github.com/simplysabir)
