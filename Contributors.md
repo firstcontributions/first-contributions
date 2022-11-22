@@ -59,6 +59,7 @@
 - [Stephen Silveira](https://github.com/stephen-silveira)
 - [Anmol Bansal](https://github.com/AnmolBansalDEV)
 - [Adeolu Oyinlola](https://github.com/deoluoyinlola)
+- [John Jacoby]
 - [Alisher Muzaffarov](https://github.com/aliml92)
 - [Apeksha Arora](http://github.com/apekshasan)
 - [RAHUL g](https://github.com/Rahulg8270)
