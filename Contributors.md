@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [Sudarhan Mallibhat](https://github.com/sudarshanmg)
 - [Benjamin Morgiewicz](https://github.com/BaseBenjamin13)
 - [Matheus Silverio](https://github.com/MattSilverio)
@@ -542,6 +543,7 @@
 - [Sai Manoj Etcherla](https://github.com/saimanoj22)
 - [Adam Anderson](https://github.com/Adam-E-Anderson)
 - [Mayank Agrawal](https://github.com/Mayank30-creator)
+- [Emon](https://github.com/smremon)
 - [Aman Kumar Pandey](https://github.com/amanpandey2101)
 - [Patil 2104](https://github.com/patil2104)
 - [HiTShiroya](https://github.com/HiTShiroya)
