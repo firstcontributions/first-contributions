@@ -90,6 +90,7 @@
 - [mahalakshmikutcharlapati](https://github.com/mahalakshmikutcharlapati)
 - [Andrea Mammoliti](https://github.com/AndreusSH)
 - [Praddyum Verma](https://praddy2009.github.io/)
+- []
 - [Divyanshu Singhal](https://github.com/divyanshu9821)
 - [Don Chisolm](https://github.com/Donchiz77)
 - [Usman Khan](https://github.com/UsmanK7)
@@ -467,6 +468,7 @@
 - [Sowmya S](https://github.com/sowmya-s-26)
 - [Andres Emedan](https://github.com/andresemedan)
 - [Julian Macioce](https://github.com/JMacioce)
+- [Rucha Daware](https://github.com/ruchadaware18)
 - [Prerit Agrawal](https://github.com/preritagrawal06)
 - [Chiranjit Debnath](https://github.com/tomtanner)
 - [JSTNSNE](https://github.com/JSTNSNE)
