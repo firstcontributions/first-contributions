@@ -23,6 +23,7 @@
 - [Andreas](https://github.com/Andreas1593)
 - [Joe AB](https://github.com/joewab)
 - [Chase Hunter](https://github.com/TaylorChaseHunter)
+- [Michael Sasi](https://github.com/MichaelSasi)
 - [Yash Wake](https://github.com/yashwxd)
 - [Ankith Motha](https://github.com/Alpha-github/)
 - [Masih Karimi](https://github.com/MasihKarimi)
