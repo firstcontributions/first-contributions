@@ -1,4 +1,5 @@
 # Contributors
+
 <!-- prettier-ignore-start -->
 
 - [Sudarhan Mallibhat](https://github.com/sudarshanmg)
@@ -48,7 +49,7 @@
 - [Erik Opinaldo](https://github.com/erikopinaldo)
 - [Utpal Savaliya](https://github.com/utpalsavliya)
 - [stardustgd](https://github.com/stardustgd)
-- [ramettan](https://github.com/ramettan )
+- [ramettan](https://github.com/ramettan)
 - [mahalakshmikutcharlapati](https://github.com/mahalakshmikutcharlapati)
 - [randose](https://github.com/randose)
 - [Mohsin Ali](https://github.com/mohsinali1051)
@@ -97,7 +98,7 @@
 - [mahalakshmikutcharlapati](https://github.com/mahalakshmikutcharlapati)
 - [Andrea Mammoliti](https://github.com/AndreusSH)
 - [Praddyum Verma](https://praddy2009.github.io/)
-- []
+- [Matan Zada](https://github.com/MatanZada)
 - [Divyanshu Singhal](https://github.com/divyanshu9821)
 - [Don Chisolm](https://github.com/Donchiz77)
 - [Usman Khan](https://github.com/UsmanK7)
@@ -114,6 +115,7 @@
 - [Khushi Shukla](https://github.com/Khushi-Shukla)
 - [Srijan D](https://github.com/Srijan-D)
 - [srinivasthedeveloper](https://github.com/srinivasthedeveloper)
+
 - [divijaa](https://github.com/divijaa)
 - [ngweishen99](https://github.com/ngweishen99)
 - [Avedis_Yapoudjian](https://github.com/AvedisY)
