@@ -212,6 +212,7 @@
 - [Anya McDonald](https://github.com/anyahush)
 - [Kartik Kumar](https://github.com/yellowterrum)
 - [devzohaib](https://github.com/devzohaib)
+- [Rajon Dey](https://github.com/RajonDey)
 - [Adanvasconcelos](https://github.com/AdanVasconcelos)
 - [Tanmay Bhujade](https://github.com/Tanmaybhujade)
 - [Ehmad Saeed](https://github.com/ehmadsaeed)
