@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Sudarhan Mallibhat](https://github.com/sudarshanmg)
 - [Benjamin Morgiewicz](https://github.com/BaseBenjamin13)
+- [Matheus Silverio](https://github.com/MattSilverio)
 - [Sabir Khan](https://github.com/simplysabir)
 - [Aman Bharti](https://github.com/aman0ab)
 - [Archishman Dash](https://www.github.com/aholic-archie)
