@@ -25,6 +25,7 @@
 - [Joe AB](https://github.com/joewab)
 - [Chase Hunter](https://github.com/TaylorChaseHunter)
 - [Michael Sasi](https://github.com/MichaelSasi)
+- [Arlin Ortiz](https://github.com/Aosmiles)
 - [Yash Wake](https://github.com/yashwxd)
 - [Ankith Motha](https://github.com/Alpha-github/)
 - [Masih Karimi](https://github.com/MasihKarimi)
