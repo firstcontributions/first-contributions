@@ -557,4 +557,5 @@
 - [Pradnyanandana Suwitra](https://github.com/pradnyanandana)
 - [Royalknight56](https://github.com/royalknight56)
 - [kan01234](https://github.com/kan01234/)
+- [EvyatarEsterson🙂](https://github.com/EvyatarEsterson)
 <!-- prettier-ignore-end -->
