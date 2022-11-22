@@ -16,6 +16,7 @@
 - [Arman Hadzigrahic](https://github.com/armeono)
 - [Theo Dep](https://github.com/theoDep)
 - [Andreas](https://github.com/Andreas1593)
+- [Joe AB](https://github.com/joewab)
 - [Chase Hunter](https://github.com/TaylorChaseHunter)
 - [Yash Wake](https://github.com/yashwxd)
 - [Ankith Motha](https://github.com/Alpha-github/)
