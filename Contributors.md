@@ -49,6 +49,7 @@
 - [ramettan](https://github.com/ramettan )
 - [mahalakshmikutcharlapati](https://github.com/mahalakshmikutcharlapati)
 - [randose](https://github.com/randose)
+- [Mohsin Ali](https://github.com/mohsinali1051)
 - [sagehourihan](https://github.com/SageHourihan)
 - [Chandan Arya](https://github.com/alpha2lucifer)
 - [suman](https://github.com/sumanghosh13)
