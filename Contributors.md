@@ -556,4 +556,5 @@
 - [Shivam Gupta](https://shivam-gupta007.github.io/)
 - [Pradnyanandana Suwitra](https://github.com/pradnyanandana)
 - [Royalknight56](https://github.com/royalknight56)
+- [kan01234](https://github.com/kan01234/)
 <!-- prettier-ignore-end -->
