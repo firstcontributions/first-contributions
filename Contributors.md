@@ -27,6 +27,7 @@
 - [Yash Wake](https://github.com/yashwxd)
 - [Ankith Motha](https://github.com/Alpha-github/)
 - [Masih Karimi](https://github.com/MasihKarimi)
+- [Aster Fung](https://github.com/aster-fung)
 - [Gabriel Waegner](https://github.com/Gwaegs)
 - [Anand S](https://github.com/anand2000s)
 - [Aryan Wadhwa](https://github.com/TastyBiscuit0808/first-contributions)
