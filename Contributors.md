@@ -124,6 +124,7 @@
 - [SamAtkinsonModeste](https://www.github.com/SamAtkinsonModeste)
 - [william-chalk](https://github.com/william-chalk)
 - [Lachu Dahal](https://github.com/lachudahal)
+- [Rashad Khan](https://github.com/rashadkhan359)
 - [terminalPoltergeist](https://github.com/terminalPoltergeist)
 - [katumba jonathan paul](https://github.com/kpaool)
 - [Sushil Suthar](https://github.com/isushilsuthar)
