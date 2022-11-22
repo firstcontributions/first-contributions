@@ -568,5 +568,6 @@
 - [kan01234](https://github.com/kan01234/)
 - [EvyatarEsterson🙂](https://github.com/EvyatarEsterson)
 - [isaacc16](https://github.com/isaacc16)
+- [André Correa](https://github.com/dartmol203)
 - [Serkan Yilmaz](https://github.com/serkanyilmz)
 <!-- prettier-ignore-end -->
