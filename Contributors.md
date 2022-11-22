@@ -546,4 +546,5 @@
 - [Patil 2104](https://github.com/patil2104)
 - [HiTShiroya](https://github.com/HiTShiroya)
 - [Supriadi](https://github.com/obocloud)
+- [Jug Patel](https://github.com/MadDevMax)
 <!-- prettier-ignore-end -->
