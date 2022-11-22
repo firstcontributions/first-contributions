@@ -256,6 +256,7 @@
 - [Corentin Gouanvic](https://github.com/Stoaties)
 - [Sherly Febrianti](https://github.com/sherlyfebrianti96)
 - [Shrimad Bhagwat](https://github.com/Shrimad-Bhagwat)
+- [Antonino Manuele Gargiulo](https://github.com/gepp4)
 - [Giuliano Marcus Bianco](https://github.com/giuliano-marcus-bianco)
 - [Niket Tiwari](https://github.com/Tiwari-Niket)
 - [Jason Kasari](https://github.com/jkasari)
