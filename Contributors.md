@@ -1,5 +1,4 @@
 # Contributors
-
 <!-- prettier-ignore-start -->
 
 - [Sudarhan Mallibhat](https://github.com/sudarshanmg)
@@ -10,6 +9,7 @@
 - [Aman Bharti](https://github.com/aman0ab)
 - [Archishman Dash](https://www.github.com/aholic-archie)
 - [Esta es mi primer contribucion](https://github.com/PabloCH23)
+- [Pridhi Grag](https:/github/com/pridhigarg369)
 - [Juanma Romero](https://github.com/juanmaroni/)
 - [Chhabi Acharya](https://github.com/Chhabii)
 - [Jeevan Naik](https://github.com/JeevanNaikOP)
