@@ -1,4 +1,5 @@
 # Contributors
+
 <!-- prettier-ignore-start -->
 
 - [Sudarhan Mallibhat](https://github.com/sudarshanmg)
@@ -50,7 +51,7 @@
 - [Erik Opinaldo](https://github.com/erikopinaldo)
 - [Utpal Savaliya](https://github.com/utpalsavliya)
 - [stardustgd](https://github.com/stardustgd)
-- [ramettan](https://github.com/ramettan )
+- [ramettan](https://github.com/ramettan)
 - [mahalakshmikutcharlapati](https://github.com/mahalakshmikutcharlapati)
 - [randose](https://github.com/randose)
 - [Mohsin Ali](https://github.com/mohsinali1051)
@@ -491,6 +492,7 @@
 - [Abhijith H](https://github.com/Abhijith-H13)
 - [Abhighyaa](https://github.com/Abhighyaa)
 - [Alfeu Xerinda](https://githhub.com/Hard-007)
+- [Darcano Iglicoffi](https://github.com/shmudivel)
 - [Chandan Singh](https://githhub.com/chandan8678)
 - [Sangam Singh](https://githhub.com/codersangam)
 - [Shubhanshu Gupta](https://github.com/Gptshubh)
