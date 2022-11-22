@@ -16,6 +16,7 @@
 - [Poyraz Bahcivan](https://github.com/poyrazbahcivan)
 - [Ryan Ignasiak](https://github.com/theravenousR)
 - [Arman Hadzigrahic](https://github.com/armeono)
+- [Prerak Patel](https://github.com/PrerakPatelCS)
 - [Theo Dep](https://github.com/theoDep)
 - [Andreas](https://github.com/Andreas1593)
 - [Joe AB](https://github.com/joewab)
