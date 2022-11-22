@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Sudarhan Mallibhat](https://github.com/sudarshanmg)
 - [Benjamin Morgiewicz](https://github.com/BaseBenjamin13)
 - [Sabir Khan](https://github.com/simplysabir)
 - [Aman Bharti](https://github.com/aman0ab)
