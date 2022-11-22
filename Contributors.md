@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 
+- [Xiyue Zhang](https://github.com/xiyueuyix)
 - [Sudarhan Mallibhat](https://github.com/sudarshanmg)
 - [Khant Sithu Zaw](https://github.com/KHANT-SITHUZAW)
 - [Benjamin Morgiewicz](https://github.com/BaseBenjamin13)
