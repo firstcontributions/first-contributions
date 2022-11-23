@@ -558,6 +558,7 @@
 - [Shivodit Gill](https://github.com/HotDogEnemy)
 - [Shantanu29kumar](https://github.com/Shantanu29kumar)
 - [IsaacNewTom](https://github.com/IsaacNewTom)
+- [Jessica Hsiang](https://github.com/hsiangj)
 - [Jai-Marothiya](https://github.com/Jai-Marothiya)
 - [Ahan Bandyopadhyay](https://github.com/ahanban15)
 - [Monodeep-Das](https://github.com/Monodeep-Das)
