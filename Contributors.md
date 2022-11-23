@@ -591,6 +591,7 @@
 - [isaacc16](https://github.com/isaacc16)
 - [André Correa](https://github.com/dartmol203)
 - [Serkan Yilmaz](https://github.com/serkanyilmz)
+- [Shivram Venkatachalam](https://github.com/shivramvenkatachalam)
 - [LyffLyff](https://github.com/LyffLyff)
 - [mkosmo](https://github.com/mkosmo)
 - [Moses Asiago](https://github.com/mozeago/)
