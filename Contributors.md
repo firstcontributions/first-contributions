@@ -55,6 +55,7 @@
 - [Erik Opinaldo](https://github.com/erikopinaldo)
 - [Utpal Savaliya](https://github.com/utpalsavliya)
 - [stardustgd](https://github.com/stardustgd)
+- [Sandeep Krishna Donepudi](https://github.com/skdonepudi)
 - [ramettan](https://github.com/ramettan)
 - [mahalakshmikutcharlapati](https://github.com/mahalakshmikutcharlapati)
 - [randose](https://github.com/randose)
