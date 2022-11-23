@@ -598,4 +598,5 @@
 - [Moses Asiago](https://github.com/mozeago/)
 - [Tosin Akinyemi](https://github.com/Tosin77/)
 - [newird](https://github.com/newird/)
+- [Harsa Dash](https://github.com/harsadas)
 <!-- prettier-ignore-end -->
