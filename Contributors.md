@@ -12,6 +12,7 @@
 - [Sabir Khan](https://github.com/simplysabir)
 - [Hrushabhsingh Chouhan](https://github.com/hrushabhchouhan)
 - [Aman Bharti](https://github.com/aman0ab)
+- [Sanskar Jain](https://github.com/SanskarJain007)
 - [Archishman Dash](https://www.github.com/aholic-archie)
 - [Esta es mi primer contribucion](https://github.com/PabloCH23)
 - [Pridhi Grag](https:/github/com/pridhigarg369)
