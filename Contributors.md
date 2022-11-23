@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [DippleThree](https://github.com/GGitHill)
 - [Sudarhan Mallibhat](https://github.com/sudarshanmg)
 - [John Harold Sipat]
 - [Ausawin Saehaan](https://github.com/saehaana)
