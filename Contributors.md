@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Xiyue Zhang](https://github.com/xiyueuyix)
+- [Omarali1020](https://github.com/Omarali1020)
 - [Redsam](https://github.com/Redsamx)
 - [DippleThree](https://github.com/GGitHill)
 - [Sudarhan Mallibhat](https://github.com/sudarshanmg)
