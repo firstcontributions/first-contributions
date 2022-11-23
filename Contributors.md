@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Xiyue Zhang](https://github.com/xiyueuyix)
 - [Redsam](https://github.com/Redsamx)
 - [DippleThree](https://github.com/GGitHill)
 - [Sudarhan Mallibhat](https://github.com/sudarshanmg)
