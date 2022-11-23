@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Sudarhan Mallibhat](https://github.com/sudarshanmg)
+- [John Harold Sipat]
 - [Ausawin Saehaan](https://github.com/saehaana)
 - [Jeffrey Neal](https://github.com/ToastBubbles)
 - [Khant Sithu Zaw](https://github.com/KHANT-SITHUZAW)
