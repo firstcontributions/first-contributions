@@ -593,4 +593,5 @@
 - [LyffLyff](https://github.com/LyffLyff)
 - [mkosmo](https://github.com/mkosmo)
 - [Moses Asiago](https://github.com/mozeago/)
+- [Wai Ho](https://github.com/hevi1991)
 <!-- prettier-ignore-end -->
