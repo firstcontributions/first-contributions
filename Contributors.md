@@ -602,4 +602,5 @@
 - [newird](https://github.com/newird/)
 - [Harsa Dash](https://github.com/harsadas)
 - [Jiao Liu](https://github.com/ildnyy)
+- [Leonel Santos](https://github.com/leonelSantos)
 <!-- prettier-ignore-end -->
