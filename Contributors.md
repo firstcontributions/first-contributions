@@ -595,4 +595,5 @@
 - [LyffLyff](https://github.com/LyffLyff)
 - [mkosmo](https://github.com/mkosmo)
 - [Moses Asiago](https://github.com/mozeago/)
+- [Tosin Akinyemi](https://github.com/Tosin77/)
 <!-- prettier-ignore-end -->
