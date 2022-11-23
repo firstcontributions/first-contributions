@@ -57,6 +57,7 @@
 - [Surajit Dey Sarkar](https://github.com/Surajitds)
 - [Mohit Marathe](https://github.com/Mohit2758)
 - [Edwin Kim](https://github.com/edwinkim97)
+- [Sreeraj Chintham](https://github.com/sreerajchintham)
 - [Rezgui Med Aziz](https://github.com/medAzizRezgui)
 - [Henrikas Budrys](https://github.com/hbportfolio)
 - [Vijendra Pandey](https://github.com/VijendraPandey)
