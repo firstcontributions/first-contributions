@@ -124,6 +124,7 @@
 - [Usman Khan](https://github.com/UsmanK7)
 - [SAURABH200300](https://github.com/SAURABH200301)
 - [Mustafa Bhm](https://github.com/mustafa-bhm)
+- [Niteuwu] (https://github.com/niteuwu)
 - [Joswagc](https://github.com/joswagc)
 - [Khushi Shukla](https://github.com/Khushi-Shukla)
 - [Srijan D](https://github.com/Srijan-D)
