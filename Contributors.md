@@ -1,4 +1,5 @@
 # Contributors
+
 <!-- prettier-ignore-start -->
 
 - [Sudarhan Mallibhat](https://github.com/sudarshanmg)
@@ -63,6 +64,7 @@
 - [Soubhik Maji](https://github.com/majisoubhik01)
 - [Jisan-mia](https://github.com/Jisan-mia)
 - [Gideon Opoku](https://github.com/nana562)
+- [Mehran Shahbaz](https://github.com/mehranShG)
 - [wfrsk](hhpts://github.com/wfrsk)
 - [Khalid-Hasan](https://github.com/khalidx3)
 - [David Lopez](https://github.com/davidnoelopez)
