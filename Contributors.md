@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [s-t-e-v](https://github.com/s-t-e-v)
 - [Xiyue Zhang](https://github.com/xiyueuyix)
 - [Mikan](https://github.com/mika-alpha)
 - [Gopalakrishnan J](https://github.com/Gopalakrishnan20)
