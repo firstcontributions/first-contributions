@@ -95,6 +95,7 @@
 - [Devanshu Mahapatra](https://github.com/Devanshu-17)
 - [Pablo Alejandro](https://github.com/Pabloalesca)
 - [Khan Winter](https://github.com/thecoolwinter)
+- [Hades Ho](https://github.com/hadeshojr)
 - [Mickhat](https://github.com/Mickhat)
 - [Mohit Bishwokarma](https://github.com/Mohitbishukarma)
 - [Matt Arias](https://github.com/FreedSoul)
