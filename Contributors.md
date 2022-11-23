@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Redsam](https://github.com/Redsamx)
 - [DippleThree](https://github.com/GGitHill)
 - [Sudarhan Mallibhat](https://github.com/sudarshanmg)
 - [John Harold Sipat]
