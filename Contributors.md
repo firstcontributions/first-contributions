@@ -585,4 +585,5 @@
 - [Serkan Yilmaz](https://github.com/serkanyilmz)
 - [LyffLyff](https://github.com/LyffLyff)
 - [mkosmo](https://github.com/mkosmo)
+- [Moses Asiago](https://github.com/mozeago/)
 <!-- prettier-ignore-end -->
