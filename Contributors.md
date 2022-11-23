@@ -19,6 +19,7 @@
 - [Aman Bharti](https://github.com/aman0ab)
 - [Sanskar Jain](https://github.com/SanskarJain007)
 - [Archishman Dash](https://www.github.com/aholic-archie)
+- [Amit Narine](https://github.com/amitnarine)
 - [Esta es mi primer contribucion](https://github.com/PabloCH23)
 - [Pridhi Grag](https:/github/com/pridhigarg369)
 - [Juanma Romero](https://github.com/juanmaroni/)
