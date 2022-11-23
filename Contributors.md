@@ -10,6 +10,7 @@
 - [DippleThree](https://github.com/GGitHill)
 - [Sudarhan Mallibhat](https://github.com/sudarshanmg)
 - [John Harold Sipat]
+- [Nathan FAbio](https://github.com/nathanfabio)
 - [Ausawin Saehaan](https://github.com/saehaana)
 - [Jeffrey Neal](https://github.com/ToastBubbles)
 - [Khant Sithu Zaw](https://github.com/KHANT-SITHUZAW)
