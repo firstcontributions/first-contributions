@@ -546,6 +546,7 @@
 - [Anish Doshi](https://github.com/doshianish8)
 - [Saurabh Sinha](https://github.com/sinhasaurabh3104)
 - [Girish Nair](https://github.com/javagirish)
+- [Dimitrije Ilic](https://github.com/Dimitrije1970)
 - [Prathamesh Sable](https://github.com/prathameshks)
 - [Martarion](https://github.com/Martarion-Code)
 - [Martins Ngene](https://github.com/Martinsngene)
