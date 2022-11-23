@@ -10,6 +10,7 @@
 - [Benjamin Morgiewicz](https://github.com/BaseBenjamin13)
 - [Matheus Silverio](https://github.com/MattSilverio)
 - [Sabir Khan](https://github.com/simplysabir)
+- [Hrushabhsingh Chouhan](https://github.com/hrushabhchouhan)
 - [Aman Bharti](https://github.com/aman0ab)
 - [Archishman Dash](https://www.github.com/aholic-archie)
 - [Esta es mi primer contribucion](https://github.com/PabloCH23)
