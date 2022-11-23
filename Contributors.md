@@ -597,4 +597,5 @@
 - [mkosmo](https://github.com/mkosmo)
 - [Moses Asiago](https://github.com/mozeago/)
 - [Tosin Akinyemi](https://github.com/Tosin77/)
+- [newird](https://github.com/newird/)
 <!-- prettier-ignore-end -->
