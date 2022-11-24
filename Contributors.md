@@ -542,6 +542,7 @@
 - [TJ Albertson](https://github.com/TJ-Albertson)
 - [Ruthik Jadhav](https://github.com/Ruthik130201)
 - [Vladimir Cvejanov](https://github.com/VladenCode)
+- [Carlos Americo](https://github.com/caducoder)
 - [Suman Raj](https://github.com/the-suman)
 - [Megan Moulos](https://github.com/meganmoulos/)
 - [Peter Hansteen](https://github.com/pitrh)
