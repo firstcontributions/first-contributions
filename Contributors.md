@@ -280,6 +280,7 @@
 - [Pradyumn](https://github.com/Hannibal404)
 - [Utku Çamlıdağ](https://github.com/UtkuCmldg)
 - [Suchit Deshmukh](https://github.com/suchitd11)
+- [Sara Sancliment](https://github.com/sasn6970)
 - [YogatBear](https://github.com/YogatBear)
 - [Smart-Peach](https://github.com/Smart-Peach)
 - [Siddhant](https://github.com/SiddJ01)
