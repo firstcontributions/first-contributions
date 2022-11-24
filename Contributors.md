@@ -48,6 +48,7 @@
 - [Theo Dep](https://github.com/theoDep)
 - [Noy Hanan](https://github.com/noy-h)
 - [Andreas](https://github.com/Andreas1593)
+- [Martin Kubona] (https://github.com/MartinKayz)
 - [Joe AB](https://github.com/joewab)
 - [Chase Hunter](https://github.com/TaylorChaseHunter)
 - [Michael Sasi](https://github.com/MichaelSasi)
