@@ -22,6 +22,7 @@
 - [Benjamin Morgiewicz](https://github.com/BaseBenjamin13)
 - [Matheus Silverio](https://github.com/MattSilverio)
 - [Sabir Khan](https://github.com/simplysabir)
+- [Dennis Macharia Njogu](https://github.com/Mashnjogu)
 - [Hrushabhsingh Chouhan](https://github.com/hrushabhchouhan)
 - [Aman Bharti](https://github.com/aman0ab)
 - [Sanskar Jain](https://github.com/SanskarJain007)
