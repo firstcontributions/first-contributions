@@ -3,12 +3,13 @@
 <!-- prettier-ignore-start -->
 
 - [s-t-e-v](https://github.com/s-t-e-v)
+- [Amir](https://github.com/amir-repository)
 - [Xiyue Zhang](https://github.com/xiyueuyix)
 - [Mikan](https://github.com/mika-alpha)
 - [Gopalakrishnan J](https://github.com/Gopalakrishnan20)
 - [Omarali1020](https://github.com/Omarali1020)
 - [Redsam](https://github.com/Redsamx)
-[Puneet](https://github.com/Puneetpotter)
+- [Puneet](https://github.com/Puneetpotter)
 - [DippleThree](https://github.com/GGitHill)
 - [Sudarhan Mallibhat](https://github.com/sudarshanmg)
 - [John Harold Sipat]
