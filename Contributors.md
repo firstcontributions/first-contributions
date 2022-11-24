@@ -619,4 +619,5 @@
 - [Harsa Dash](https://github.com/harsadas)
 - [Jiao Liu](https://github.com/ildnyy)
 - [Leonel Santos](https://github.com/leonelSantos)
+- [Vatler Lett](https://github.com/scarlett1130)
 <!-- prettier-ignore-end -->
