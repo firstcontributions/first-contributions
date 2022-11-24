@@ -266,6 +266,7 @@
 - [Artyom Malyarenko](https://github.com/malaartyom)
 - [Snigdha Sinha](https://github.com/snigdhaop)
 - [Dibyendu Das](https://github.com/dibyendu02)
+- [Amilcar Rodriguez](https://github.com/mkhi33)
 - [Megha](https://github.com/SBMegha)
 - [Rahul Saha](https://github.com/Rahul10Saha)
 - [Dixon Loo](https://github.com/dxnlu)
