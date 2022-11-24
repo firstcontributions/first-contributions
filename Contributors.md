@@ -17,6 +17,7 @@
 - [Bogdan Otava](https://github.com/BogdanOtava)
 - [John Harold Sipat]
 - [Nathan FAbio](https://github.com/nathanfabio)
+- [Vanshagra Rai](https://github.com/VanshagraRai)
 - [Ausawin Saehaan](https://github.com/saehaana)
 - [Jeffrey Neal](https://github.com/ToastBubbles)
 - [Khant Sithu Zaw](https://github.com/KHANT-SITHUZAW)
