@@ -595,6 +595,7 @@
 - [Raghav Krishan Kedia](https://github.com/Raghav-Kedia)
 - [WhiteR4ven](https://github.com/WhiteR4ven)
 - [Aviraj Saxena](https://github.com/theavirajsaxena)
+- [Adugna Tadesse](https://https://github.com/Adugnatad)
 - [Allesandria Bugatti](https://github.com/Abargallo19)
 - [shrthk-7](https://github.com/shrthk-7)
 - [Dharmik Nadiyapara](https://github.com/Dharmik-0)
