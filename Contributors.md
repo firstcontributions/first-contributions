@@ -2,12 +2,15 @@
 
 <!-- prettier-ignore-start -->
 
+- [s-t-e-v](https://github.com/s-t-e-v)
+- [Amir](https://github.com/amir-repository)
 - [Xiyue Zhang](https://github.com/xiyueuyix)
 - [Mikan](https://github.com/mika-alpha)
 - [Gopalakrishnan J](https://github.com/Gopalakrishnan20)
 - [Omarali1020](https://github.com/Omarali1020)
 - [Redsam](https://github.com/Redsamx)
 - [Jenny F](https://github.com/J-Ning)
+- [Puneet](https://github.com/Puneetpotter)
 - [DippleThree](https://github.com/GGitHill)
 - [Sudarhan Mallibhat](https://github.com/sudarshanmg)
 - [John Harold Sipat]
@@ -23,6 +26,7 @@
 - [Sanskar Jain](https://github.com/SanskarJain007)
 - [Archishman Dash](https://www.github.com/aholic-archie)
 - [Amit Narine](https://github.com/amitnarine)
+- Belkacem Mezhoud
 - [Esta es mi primer contribucion](https://github.com/PabloCH23)
 - [Pridhi Grag](https:/github/com/pridhigarg369)
 - [Juanma Romero](https://github.com/juanmaroni/)
@@ -263,6 +267,7 @@
 - [Artyom Malyarenko](https://github.com/malaartyom)
 - [Snigdha Sinha](https://github.com/snigdhaop)
 - [Dibyendu Das](https://github.com/dibyendu02)
+- [Amilcar Rodriguez](https://github.com/mkhi33)
 - [Megha](https://github.com/SBMegha)
 - [Rahul Saha](https://github.com/Rahul10Saha)
 - [Dixon Loo](https://github.com/dxnlu)
