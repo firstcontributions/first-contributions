@@ -637,6 +637,7 @@
 - [mkosmo](https://github.com/mkosmo)
 - [Vardeep Singh Sandhu](https://github.com/vardeep-sandhu)
 - [Moses Asiago](https://github.com/mozeago/)
+- [Wai Ho](https://github.com/hevi1991)
 - [Tosin Akinyemi](https://github.com/Tosin77/)
 - [newird](https://github.com/newird/)
 - [Harsa Dash](https://github.com/harsadas)
