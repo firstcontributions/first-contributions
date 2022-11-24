@@ -47,6 +47,7 @@
 - [Arman Hadzigrahic](https://github.com/armeono)
 - [Prerak Patel](https://github.com/PrerakPatelCS)
 - [Theo Dep](https://github.com/theoDep)
+- [Jamal Abdulrazik](https://github.com/JamalAbdulrazik)
 - [Noy Hanan](https://github.com/noy-h)
 - [Andreas](https://github.com/Andreas1593)
 - [Martin Kubona] (https://github.com/MartinKayz)
