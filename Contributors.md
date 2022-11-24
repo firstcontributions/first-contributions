@@ -1,6 +1,5 @@
 # Contributors
 <!-- prettier-ignore-start -->
-
 - [Sudarhan Mallibhat](https://github.com/sudarshanmg)
 - [Khant Sithu Zaw](https://github.com/KHANT-SITHUZAW)
 - [Benjamin Morgiewicz](https://github.com/BaseBenjamin13)
@@ -21,6 +20,8 @@
 - [Arman Hadzigrahic](https://github.com/armeono)
 - [Prerak Patel](https://github.com/PrerakPatelCS)
 - [Theo Dep](https://github.com/theoDep)
+- [Jamal Abdulrazik](https://github.com/JamalAbdulrazik)
+
 - [Andreas](https://github.com/Andreas1593)
 - [Joe AB](https://github.com/joewab)
 - [Chase Hunter](https://github.com/TaylorChaseHunter)
