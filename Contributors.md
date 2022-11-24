@@ -4,6 +4,7 @@
 
 - [Melvin Aguilar](https://github.com/MelvinAguilar)
 - [s-t-e-v](https://github.com/s-t-e-v)
+- [Mahadsid](https://github.com/Mahadsid)
 - [Amir](https://github.com/amir-repository)
 - [Xiyue Zhang](https://github.com/xiyueuyix)
 - [Mikan](https://github.com/mika-alpha)
