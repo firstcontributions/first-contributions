@@ -9,6 +9,7 @@
 - [Gopalakrishnan J](https://github.com/Gopalakrishnan20)
 - [Omarali1020](https://github.com/Omarali1020)
 - [Redsam](https://github.com/Redsamx)
+- [Jenny F](https://github.com/J-Ning)
 - [Puneet](https://github.com/Puneetpotter)
 - [DippleThree](https://github.com/GGitHill)
 - [Sudarhan Mallibhat](https://github.com/sudarshanmg)
