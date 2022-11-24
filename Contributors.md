@@ -24,6 +24,7 @@
 - [Sanskar Jain](https://github.com/SanskarJain007)
 - [Archishman Dash](https://www.github.com/aholic-archie)
 - [Amit Narine](https://github.com/amitnarine)
+- Belkacem Mezhoud
 - [Esta es mi primer contribucion](https://github.com/PabloCH23)
 - [Pridhi Grag](https:/github/com/pridhigarg369)
 - [Juanma Romero](https://github.com/juanmaroni/)
