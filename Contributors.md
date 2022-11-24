@@ -609,6 +609,7 @@
 - [Pradnyanandana Suwitra](https://github.com/pradnyanandana)
 - [Royalknight56](https://github.com/royalknight56)
 - [kan01234](https://github.com/kan01234/)
+- [lazylittlestar](https://github.com/lazylittlestar)
 - [EvyatarEsterson🙂](https://github.com/EvyatarEsterson)
 - [isaacc16](https://github.com/isaacc16)
 - [André Correa](https://github.com/dartmol203)
