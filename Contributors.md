@@ -14,6 +14,7 @@
 - [Puneet](https://github.com/Puneetpotter)
 - [DippleThree](https://github.com/GGitHill)
 - [Sudarhan Mallibhat](https://github.com/sudarshanmg)
+- [Bogdan Otava](https://github.com/BogdanOtava)
 - [John Harold Sipat]
 - [Nathan FAbio](https://github.com/nathanfabio)
 - [Ausawin Saehaan](https://github.com/saehaana)
