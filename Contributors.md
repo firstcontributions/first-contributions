@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Melvin Aguilar](https://github.com/MelvinAguilar)
 - [s-t-e-v](https://github.com/s-t-e-v)
 - [Amir](https://github.com/amir-repository)
 - [Xiyue Zhang](https://github.com/xiyueuyix)
