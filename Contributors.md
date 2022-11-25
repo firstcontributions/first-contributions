@@ -650,6 +650,7 @@
 - [Jiao Liu](https://github.com/ildnyy)
 - [Leonel Santos](https://github.com/leonelSantos)
 - [Vatler Lett](https://github.com/scarlett1130)
+- [Danities Ichaba](https://github.com/Danities316)
 - [Shanth](https://github.com/kshanth)
 - [Sunny](https://github.com/SunnyChaware)
 - [Rami Elsayed] (https://github.com/RamiE965)
