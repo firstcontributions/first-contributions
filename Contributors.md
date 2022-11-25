@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Chouaieb Nemri](https://github.com/cnemri)
+- [Fryz](https://github.com/Fryzzz)
 - [Melvin Aguilar](https://github.com/MelvinAguilar)
 - [s-t-e-v](https://github.com/s-t-e-v)
 - [Mahadsid](https://github.com/Mahadsid)
