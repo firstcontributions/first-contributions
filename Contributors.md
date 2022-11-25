@@ -177,6 +177,7 @@
 - [Cocozin13](https://github.com/Cocozin13)
 - [Yuvraj Seegolam](https://github.com/yuvraj108c)
 - [Gabriel Coelho](https://github.com/bielcoelho)
+- [Ellis Burgess](https://github.com/ellis-burgess)
 - [Urvesh Radadiya](https://github.com/URVESH1121)
 - [Jibrin Ahmed](https://github.com/TacetSteeze)
 - [Kely Sarmi](https://github.com/kelysi)
