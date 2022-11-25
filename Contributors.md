@@ -61,6 +61,7 @@
 - [Joe AB](https://github.com/joewab)
 - [Chase Hunter](https://github.com/TaylorChaseHunter)
 - [Michael Sasi](https://github.com/MichaelSasi)
+- [Coutlocksmith](https://github.com/coutlocksmith)
 - [Arlin Ortiz](https://github.com/Aosmiles)
 - [Yash Wake](https://github.com/yashwxd)
 - [Ankith Motha](https://github.com/Alpha-github/)
