@@ -260,6 +260,7 @@
 - [shashank-gupta](https://github.com/shashank-2310/)
 - [bungbloopity](https://github.com/bungbloopity/)
 - [Mohammed Arshad](https://github.com/mohammedarshad18)
+- [Ezrl](https://github.com/ezrl-621)
 - [Aleksandr Bochkarev](https://github.com/sash00k/)
 - [Dylan Messerly](https://github.com/CodeDTX11)
 - [Zhenya Mateyuk](https://github.com/jEUGENEdev/)
