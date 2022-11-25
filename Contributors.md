@@ -264,6 +264,7 @@
 - [Abhay Kshirsagar](https://github.com/AK6263/)
 - [Vedant Garhwal](https://github.com/vedant21-2005)
 - [Ziabeher Phillips](https://github.com/Zabzx)
+- [Tamas Varfalvi](https://github.com/Womath)
 - [Pankaj Adhikari](https://github.com/Pankaj809)
 - [shashank-gupta](https://github.com/shashank-2310/)
 - [bungbloopity](https://github.com/bungbloopity/)
