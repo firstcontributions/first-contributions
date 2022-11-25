@@ -15,6 +15,7 @@
 - [Omarali1020](https://github.com/Omarali1020)
 - [Redsam](https://github.com/Redsamx)
 - [Jenny F](https://github.com/J-Ning)
+- [Partha Maity](https://github.com/parthmty)
 - [Puneet](https://github.com/Puneetpotter)
 - [Shrankhla](https://github.com/shrankhla20)
 - [DippleThree](https://github.com/GGitHill)
