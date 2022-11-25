@@ -7,8 +7,10 @@
 - [Mahadsid](https://github.com/Mahadsid)
 - [Ema Omere]
 - [Amir](https://github.com/amir-repository)
+- [Chandan kumar Chaudhary](https://github.com/chands)
 - [Xiyue Zhang](https://github.com/xiyueuyix)
 - [Mikan](https://github.com/mika-alpha)
+- [Enoch Chirima](https://github.com/iamenochchirima)
 - [Gopalakrishnan J](https://github.com/Gopalakrishnan20)
 - [Omarali1020](https://github.com/Omarali1020)
 - [Redsam](https://github.com/Redsamx)
