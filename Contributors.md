@@ -648,5 +648,6 @@
 - [Vatler Lett](https://github.com/scarlett1130)
 - [Shanth](https://github.com/kshanth)
 - [Sunny](https://github.com/SunnyChaware)
+- [Rami Elsayed] (https://github.com/RamiE965)
 - [khushi](https://github.com/khushi0706)
 <!-- prettier-ignore-end -->
