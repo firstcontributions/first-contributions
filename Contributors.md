@@ -643,6 +643,7 @@
 - [Shivram Venkatachalam](https://github.com/shivramvenkatachalam)
 - [LyffLyff](https://github.com/LyffLyff)
 - [mkosmo](https://github.com/mkosmo)
+
 - [Vardeep Singh Sandhu](https://github.com/vardeep-sandhu)
 - [Moses Asiago](https://github.com/mozeago/)
 - [Wai Ho](https://github.com/hevi1991)
@@ -654,6 +655,7 @@
 - [Vatler Lett](https://github.com/scarlett1130)
 - [Danities Ichaba](https://github.com/Danities316)
 - [Shanth](https://github.com/kshanth)
+- [Mohammed Afrid](https://github.com/Afrid45)
 - [Sunny](https://github.com/SunnyChaware)
 - [Rami Elsayed] (https://github.com/RamiE965)
 - [khushi](https://github.com/khushi0706)
