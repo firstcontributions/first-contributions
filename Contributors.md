@@ -111,6 +111,7 @@
 - [Soubhik Maji](https://github.com/majisoubhik01)
 - [Jisan-mia](https://github.com/Jisan-mia)
 - [Gideon Opoku](https://github.com/nana562)
+- [Pratyaksh Sinha](https://github.com/PratyakshSinha)
 - [Mehran Shahbaz](https://github.com/mehranShG)
 - [wfrsk](hhpts://github.com/wfrsk)
 - [Khalid-Hasan](https://github.com/khalidx3)
