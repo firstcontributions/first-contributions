@@ -641,6 +641,7 @@
 - [EvyatarEsterson🙂](https://github.com/EvyatarEsterson)
 - [isaacc16](https://github.com/isaacc16)
 - [André Correa](https://github.com/dartmol203)
+- [fehlicks](https://github.com/fehlicks)
 - [Serkan Yilmaz](https://github.com/serkanyilmz)
 - [Shivram Venkatachalam](https://github.com/shivramvenkatachalam)
 - [LyffLyff](https://github.com/LyffLyff)
