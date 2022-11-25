@@ -550,6 +550,7 @@
 - [Victor F.](https://github.com/victorfyonemoto)
 - [Andre Müller](https://github.com/Amueller36)
 - [duzzysroad](https://github.com/duzzysroad)
+- [Amal](https://github.com/XAL-AMLX)
 - [Srivathsan V](https://github.com/Srivathsan-V)
 - [TJ Albertson](https://github.com/TJ-Albertson)
 - [Ruthik Jadhav](https://github.com/Ruthik130201)
