@@ -10,7 +10,6 @@
 - [Chandan kumar Chaudhary](https://github.com/chands)
 - [Xiyue Zhang](https://github.com/xiyueuyix)
 - [Mikan](https://github.com/mika-alpha)
-- [Harsa Dash](https://github.com/harsadas)
 - [Gopalakrishnan J](https://github.com/Gopalakrishnan20)
 - [Omarali1020](https://github.com/Omarali1020)
 - [Redsam](https://github.com/Redsamx)
