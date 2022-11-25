@@ -161,6 +161,7 @@
 - [ngweishen99](https://github.com/ngweishen99)
 - [Avedis_Yapoudjian](https://github.com/AvedisY)
 - [xa49](https://github.com/xa49)
+- [Charlie Hird](https://github.com/cjhird)
 - [bytesofbec](https://github.com/bytesofbec)
 - [SamAtkinsonModeste](https://www.github.com/SamAtkinsonModeste)
 - [william-chalk](https://github.com/william-chalk)
