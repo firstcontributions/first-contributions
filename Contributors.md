@@ -5,7 +5,7 @@
 - [Melvin Aguilar](https://github.com/MelvinAguilar)
 - [s-t-e-v](https://github.com/s-t-e-v)
 - [Mahadsid](https://github.com/Mahadsid)
-- [Ema Omere] 
+- [Ema Omere]
 - [Amir](https://github.com/amir-repository)
 - [Xiyue Zhang](https://github.com/xiyueuyix)
 - [Mikan](https://github.com/mika-alpha)
@@ -35,6 +35,7 @@
 - [Amit Narine](https://github.com/amitnarine)
 - Belkacem Mezhoud
 - [Esta es mi primer contribucion](https://github.com/PabloCH23)
+- [Gregory John](https://github.com/GregLJ)
 - [Pridhi Grag](https:/github/com/pridhigarg369)
 - [Juanma Romero](https://github.com/juanmaroni/)
 - [Chhabi Acharya](https://github.com/Chhabii)
