@@ -62,6 +62,7 @@
 - [Chase Hunter](https://github.com/TaylorChaseHunter)
 - [Michael Sasi](https://github.com/MichaelSasi)
 - [Arlin Ortiz](https://github.com/Aosmiles)
+- [Aditya Sharma](https://github.com/AdityaSharma223)
 - [Yash Wake](https://github.com/yashwxd)
 - [Ankith Motha](https://github.com/Alpha-github/)
 - [Masih Karimi](https://github.com/MasihKarimi)
