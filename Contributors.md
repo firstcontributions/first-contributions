@@ -7,6 +7,7 @@
 - [s-t-e-v](https://github.com/s-t-e-v)
 - [Mahadsid](https://github.com/Mahadsid)
 - [Ema Omere]
+- [Mohamed Abidar](https://github.com/abidarm)
 - [Amir](https://github.com/amir-repository)
 - [Chandan kumar Chaudhary](https://github.com/chands)
 - [Xiyue Zhang](https://github.com/xiyueuyix)
