@@ -666,6 +666,7 @@
 - [lazylittlestar](https://github.com/lazylittlestar)
 - [EvyatarEsterson🙂](https://github.com/EvyatarEsterson)
 - [isaacc16](https://github.com/isaacc16)
+- [cameron lee](https://github.com/cameronslee23)
 - [André Correa](https://github.com/dartmol203)
 - [fehlicks](https://github.com/fehlicks)
 - [Serkan Yilmaz](https://github.com/serkanyilmz)
