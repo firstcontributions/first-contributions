@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Faisal Saifi](https://github.com/faisalsaifii)
 - [Chouaieb Nemri](https://github.com/cnemri)
 - [Fryz](https://github.com/Fryzzz)
 - [Melvin Aguilar](https://github.com/MelvinAguilar)
@@ -61,7 +62,7 @@
 - [Jamal Abdulrazik](https://github.com/JamalAbdulrazik)
 - [Noy Hanan](https://github.com/noy-h)
 - [Andreas](https://github.com/Andreas1593)
-- [Martin Kubona] (https://github.com/MartinKayz)
+- [Martin Kubona](https://github.com/MartinKayz)
 - [Joe AB](https://github.com/joewab)
 - [Chase Hunter](https://github.com/TaylorChaseHunter)
 - [Michael Sasi](https://github.com/MichaelSasi)
@@ -135,7 +136,7 @@
 - [Sandip Tiwari](https://github.com/Sandip-Tiwari-435)
 - [Sarthak Mittal](https://github.com/SarthakMittal777)
 - [Luisa Haase](https://github.com/luisaha)
-- [Nayna Sahu ](https://github.com/NaynaSahu/)
+- [Nayna Sahu](https://github.com/NaynaSahu/)
 - [Bruno De Paula 🚀](https://github.com/Gr33nLight)
 - [Sudarsan Balaji](https://github.com/artfuldev)
 - [jatin kumar](https://github.com/jatin75757)
@@ -165,7 +166,7 @@
 - [Usman Khan](https://github.com/UsmanK7)
 - [SAURABH200300](https://github.com/SAURABH200301)
 - [Mustafa Bhm](https://github.com/mustafa-bhm)
-- [Niteuwu] (https://github.com/niteuwu)
+- [Niteuwu](https://github.com/niteuwu)
 - [Joswagc](https://github.com/joswagc)
 - [Khushi Shukla](https://github.com/Khushi-Shukla)
 - [Srijan D](https://github.com/Srijan-D)
@@ -542,7 +543,7 @@
 - [Sofie Borchgrevink](https://github.com/sofieborchgrevink)
 - [Karanjot Singh](https://karanjot.vercel.app)
 - [Sachit Khadka](https://github.com/Sachit56/first-contributions)
-- [SHUBHAM PATIDAR ](https://www.linkedin.com/in/shubham-patidar-98ba5b148)
+- [SHUBHAM PATIDAR](https://www.linkedin.com/in/shubham-patidar-98ba5b148)
 - [Apurv Tiwari](https://github.com/Mahakal0123)
 - [Ajith R Thampi](https://github.com/ajithrthampi)
 - [Dhanesh Phulphagar](https://github.com/darayn)
@@ -676,7 +677,7 @@
 - [Danities Ichaba](https://github.com/Danities316)
 - [Shanth](https://github.com/kshanth)
 - [Sunny](https://github.com/SunnyChaware)
-- [Rami Elsayed] (https://github.com/RamiE965)
+- [Rami Elsayed](https://github.com/RamiE965)
 - [khushi](https://github.com/khushi0706)
 - [Deivisson Lisboa](https://github.com/DeivissonLisboa)
 <!-- prettier-ignore-end -->
