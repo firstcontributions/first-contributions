@@ -1,7 +1,6 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
 - [Melvin Aguilar](https://github.com/MelvinAguilar)
 - [s-t-e-v](https://github.com/s-t-e-v)
 - [Mahadsid](https://github.com/Mahadsid)
@@ -77,6 +76,7 @@
 - [Krish Vora](https://github.com/Krishvora)
 - [Mohit Marathe](https://github.com/Mohit2758)
 - [Edwin Kim](https://github.com/edwinkim97)
+- [Samer Malique](https://github.com/sammal99)
 - [Sreeraj Chintham](https://github.com/sreerajchintham)
 - [Rezgui Med Aziz](https://github.com/medAzizRezgui)
 - [Henrikas Budrys](https://github.com/hbportfolio)
