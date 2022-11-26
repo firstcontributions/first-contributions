@@ -28,6 +28,7 @@
 - [Nathan FAbio](https://github.com/nathanfabio)
 - [Vanshagra Rai](https://github.com/VanshagraRai)
 - [Ausawin Saehaan](https://github.com/saehaana)
+- [Fvoice](https://github.com/facelessvoice)
 - [Jeffrey Neal](https://github.com/ToastBubbles)
 - [Khant Sithu Zaw](https://github.com/KHANT-SITHUZAW)
 - [Benjamin Morgiewicz](https://github.com/BaseBenjamin13)
