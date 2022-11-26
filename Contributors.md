@@ -267,6 +267,7 @@
 - [Chethas Pv](https://github.com/chethas7)
 - [Cyan Cipher](https://github.com/CyanCipher)
 - [Aayush Arora](https://github.com/AroraAayush)
+- [Anand pratap singh](https://github.com/rishu-singh9695)
 - [Michelle Wong](https://github.com/strawberrie68/)
 - [Suraj Patra](https://github.com/Suraj-Patra)
 - [Mallela D. Vinay](https://github.com/MD571)
