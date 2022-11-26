@@ -21,6 +21,7 @@
 - [Partha Maity](https://github.com/parthmty)
 - [Puneet](https://github.com/Puneetpotter)
 - [Shrankhla](https://github.com/shrankhla20)
+- [devdeveloper1](https://github.com/devdeveloper1)
 - [DippleThree](https://github.com/GGitHill)
 - [Sudarhan Mallibhat](https://github.com/sudarshanmg)
 - [Bogdan Otava](https://github.com/BogdanOtava)
