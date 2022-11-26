@@ -333,6 +333,7 @@
 - [Safadtm](https://github.com/safadtm)
 - [Anandaram](https://github.com/raawwm/first-contributions)
 - [Gaby Victoria](https://github.com/GabyVictoria0122)
+- [Craig Putzstuck](https://github.com/argounova)
 - [Corentin Gouanvic](https://github.com/Stoaties)
 - [Sherly Febrianti](https://github.com/sherlyfebrianti96)
 - [Shrimad Bhagwat](https://github.com/Shrimad-Bhagwat)
