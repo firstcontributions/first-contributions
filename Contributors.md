@@ -690,4 +690,5 @@
 - [Yann](https://github.com/Yan107351111)
 - [Kanhaya](https://github.com/kanhayaKy)
 - [Sengul Kaya](https://github.com/sengulkaya)
+- [Kareem Kamal](https://github.com/eskiimo)
 <!-- prettier-ignore-end -->
