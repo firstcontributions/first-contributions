@@ -686,5 +686,6 @@
 - [khushi](https://github.com/khushi0706)
 - [Deivisson Lisboa](https://github.com/DeivissonLisboa)
 - [Yann](https://github.com/Yan107351111)
+- [Kanhaya](https://github.com/kanhayaKy)
 - [Sengul Kaya](https://github.com/sengulkaya)
 <!-- prettier-ignore-end -->
