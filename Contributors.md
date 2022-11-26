@@ -31,6 +31,7 @@
 - [Fvoice](https://github.com/facelessvoice)
 - [Jeffrey Neal](https://github.com/ToastBubbles)
 - [Khant Sithu Zaw](https://github.com/KHANT-SITHUZAW)
+- [Divya Kaushik](https://github.com/divya1515)
 - [Benjamin Morgiewicz](https://github.com/BaseBenjamin13)
 - [Matheus Silverio](https://github.com/MattSilverio)
 - [Sabir Khan](https://github.com/simplysabir)
