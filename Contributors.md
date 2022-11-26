@@ -76,6 +76,7 @@
 - [Aryan Wadhwa](https://github.com/TastyBiscuit0808/first-contributions)
 - [R.Noto](https://github.com/RikitoNoto)
 - [James Hansen](https://github.com/jameszenartist)
+- [Md. Zahidul Islam](https://github.com/JahidHasanCO)
 - [Brandon Andrews](https://github.com/brandrewsss)
 - [Gabriel Fernandes](https://github.com/GabrielFernandes251)
 - [Lorenzo Francisco](https://github.com/lozo6)
