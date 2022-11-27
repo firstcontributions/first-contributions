@@ -102,6 +102,7 @@
 - [Krish Vora](https://github.com/Krishvora)
 - [Mohit Marathe](https://github.com/Mohit2758)
 - [Edwin Kim](https://github.com/edwinkim97)
+- [Samer Malique](https://github.com/sammal99)
 - [Javier Morales](https://github.com/jamg1906)
 - [Sreeraj Chintham](https://github.com/sreerajchintham)
 - [Rezgui Med Aziz](https://github.com/medAzizRezgui)
