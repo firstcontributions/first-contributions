@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Alleznav] (https://github.com/Alleznav)
 - [al-imam](https://github.com/al-imam)
 - [Melek Msakni](https://github.com/melekmsakni)
 - [Chouaieb Nemri](https://github.com/cnemri)
