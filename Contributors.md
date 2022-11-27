@@ -702,4 +702,5 @@
 - [Kanhaya](https://github.com/kanhayaKy)
 - [Sengul Kaya](https://github.com/sengulkaya)
 - [Kareem Kamal](https://github.com/eskiimo)
+- [hhwe](https://github.com/hhwe)
 <!-- prettier-ignore-end -->
