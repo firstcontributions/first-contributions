@@ -66,6 +66,7 @@
 - [Arman Hadzigrahic](https://github.com/armeono)
 - [Anand Dubey](https://github.com/AnandDubey1711)
 - [Prerak Patel](https://github.com/PrerakPatelCS)
+- [Metsehafe Eyasu Tesfu](https://github.com/Metsehafe-Eyasu)
 - [Theo Dep](https://github.com/theoDep)
 - [Jamal Abdulrazik](https://github.com/JamalAbdulrazik)
 - [Noy Hanan](https://github.com/noy-h)
