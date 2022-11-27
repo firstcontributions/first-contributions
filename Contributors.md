@@ -32,6 +32,7 @@
 - [DippleThree](https://github.com/GGitHill)
 - [Sudarhan Mallibhat](https://github.com/sudarshanmg)
 - [Bogdan Otava](https://github.com/BogdanOtava)
+- [something-ai-hash](https://github.com/something-ai-hash)
 - [John Harold Sipat]
 - [Nathan FAbio](https://github.com/nathanfabio)
 - [Jayanth](https://github.com/iamjayanthr)
