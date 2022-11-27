@@ -7,6 +7,7 @@
 - [al-imam](https://github.com/al-imam)
 - [Melek Msakni](https://github.com/melekmsakni)
 - [Chouaieb Nemri](https://github.com/cnemri)
+- [Odejobi Peter](https://github.com/rinwaoluwa)
 - [Fryz](https://github.com/Fryzzz)
 - [Rojon Ali](https://github.com/rojon009)
 - [Melvin Aguilar](https://github.com/MelvinAguilar)
