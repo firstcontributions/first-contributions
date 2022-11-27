@@ -709,4 +709,5 @@
 - [Kareem Kamal](https://github.com/eskiimo)
 - [hhwe](https://github.com/hhwe)
 - [Sumon Chandra](https://github.com/sumon-chandra)
+- [Nour Elhamshary](https://github.com/Nour-Elhamshary)
 <!-- prettier-ignore-end -->
