@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [d-hain](https://github.com/d-hain)
 - [Alleznav] (https://github.com/Alleznav)
 - [al-imam](https://github.com/al-imam)
 - [Melek Msakni](https://github.com/melekmsakni)
