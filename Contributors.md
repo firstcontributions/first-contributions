@@ -458,6 +458,7 @@
 - [T4EK](https://github.com/T4EK)
 - [Ashwin Bhagavatula](https://github.com/ashwinbhagavatula)
 - [smdch](https://github.com/smdch)
+- [gonend](https://github.com/gonend)
 - [kevins0101](https://github.com/kevins0101)
 - [Samarth](https://github.com/samarth777)
 - [Abidi-S](https://github.com/Abidi-S)
