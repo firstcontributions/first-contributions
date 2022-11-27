@@ -6,6 +6,7 @@
 - [Melek Msakni](https://github.com/melekmsakni)
 - [Chouaieb Nemri](https://github.com/cnemri)
 - [Fryz](https://github.com/Fryzzz)
+- [Rojon Ali](https://github.com/rojon009)
 - [Melvin Aguilar](https://github.com/MelvinAguilar)
 - [s-t-e-v](https://github.com/s-t-e-v)
 - [Mahadsid](https://github.com/Mahadsid)
