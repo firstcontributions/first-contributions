@@ -95,6 +95,7 @@
 - [Krish Vora](https://github.com/Krishvora)
 - [Mohit Marathe](https://github.com/Mohit2758)
 - [Edwin Kim](https://github.com/edwinkim97)
+- [Javier Morales](https://github.com/jamg1906)
 - [Sreeraj Chintham](https://github.com/sreerajchintham)
 - [Rezgui Med Aziz](https://github.com/medAzizRezgui)
 - [Henrikas Budrys](https://github.com/hbportfolio)
