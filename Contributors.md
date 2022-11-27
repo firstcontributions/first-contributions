@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [al-imam](https://github.com/al-imam)
+- [Melek Msakni](https://github.com/melekmsakni)
 - [Chouaieb Nemri](https://github.com/cnemri)
 - [Fryz](https://github.com/Fryzzz)
 - [Melvin Aguilar](https://github.com/MelvinAguilar)
