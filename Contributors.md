@@ -726,4 +726,6 @@
 - [Sumon Chandra](https://github.com/sumon-chandra)
 - [Nour Elhamshary](https://github.com/Nour-Elhamshary)
 - [Harish Krishnan](https://github.com/dirtyKitchen)
+- [Abbas Endari](https://github.com/a-endari)
+
 <!-- prettier-ignore-end -->
