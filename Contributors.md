@@ -604,6 +604,7 @@
 - [Sangam Singh](https://githhub.com/codersangam)
 - [Shubhanshu Gupta](https://github.com/Gptshubh)
 - [shaileshb](https://github.com/shaileshhb)
+- [Angie Bowen](https://github.com/AngelaBowen)
 - [Victor F.](https://github.com/victorfyonemoto)
 - [Andre Müller](https://github.com/Amueller36)
 - [duzzysroad](https://github.com/duzzysroad)
