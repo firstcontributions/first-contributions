@@ -722,4 +722,5 @@
 - [hhwe](https://github.com/hhwe)
 - [Sumon Chandra](https://github.com/sumon-chandra)
 - [Nour Elhamshary](https://github.com/Nour-Elhamshary)
+- [Harish Krishnan](https://github.com/dirtyKitchen)
 <!-- prettier-ignore-end -->
