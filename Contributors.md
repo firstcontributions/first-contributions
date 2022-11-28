@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Aibek Z] (https://github.com/aibekz)
 - [Faisal Saifi](https://github.com/faisalsaifii)
 - [Alleznav] (https://github.com/Alleznav)
 - [al-imam](https://github.com/al-imam)
