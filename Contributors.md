@@ -14,6 +14,7 @@
 - [s-t-e-v](https://github.com/s-t-e-v)
 - [Mahadsid](https://github.com/Mahadsid)
 - [Ema Omere]
+- [Julian Schmid](https://github.com/KingNexu)
 - [Uras Varolgunes]
 - [Limoo Kiplimo](https://github.com/Limookiplimo)
 - [Arnav Joshi] (https://githuyb.com/TheOfficialAJ)
