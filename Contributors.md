@@ -496,6 +496,7 @@
 - [William Larsen](https://github.com/thewildwilli)
 - [Higor Chagas](https://github.com/HigorChagas)
 - [Matty Charitan](https://github.com/Matty-charitan)
+- [Thomas Furay](https://github.com/TFuray)
 - [Piyush Raviraj](https://github.com/Piyushraviraj2611)
 - [Dwayne Gibbs](https://dwaynegibbs.net)
 - [AVINASH YADAV](https://github.com/Happylife10)
