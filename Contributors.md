@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [Shivani R](https://github.com/shivu-srk)
 - [Aibek Z] (https://github.com/aibekz)
 - [Faisal Saifi](https://github.com/faisalsaifii)
@@ -347,6 +348,7 @@
 - [Suchit Deshmukh](https://github.com/suchitd11)
 - [Sara Sancliment](https://github.com/sasn6970)
 - [YogatBear](https://github.com/YogatBear)
+- [abacus111_b](https://github.com/abacus111-b)
 - [Smart-Peach](https://github.com/Smart-Peach)
 - [Siddhant](https://github.com/SiddJ01)
 - [Erika Delfino](https://github.com/edelfino11)
@@ -619,8 +621,7 @@
 - [Megan Moulos](https://github.com/meganmoulos/)
 - [Peter Hansteen](https://github.com/pitrh)
 - [Mourad]
-- [Thales Carlesso](https://github.com/ThalesIanMendes)
--[Sang2006](https://github.com/Sang2006)
+- [Thales Carlesso](https://github.com/ThalesIanMendes) -[Sang2006](https://github.com/Sang2006)
 - [Teju_1212](https://github.com/teju_1212)
 - [Aaron Geo Binoy](https://github.com/aarongeo1)
 - [Rakshit Gupta](https://github.com/rakshitgupta23)
