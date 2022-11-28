@@ -219,6 +219,7 @@
 - [Keshav Mohabir](https://github.com/Keshy31)
 - [Gabriel Coelho](https://github.com/bielcoelho)
 - [Ellis Burgess](https://github.com/ellis-burgess)
+- [Daniel Oliveira](https://github.com/GulDaniel)
 - [Urvesh Radadiya](https://github.com/URVESH1121)
 - [Jibrin Ahmed](https://github.com/TacetSteeze)
 - [Kely Sarmi](https://github.com/kelysi)
