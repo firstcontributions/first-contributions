@@ -135,6 +135,7 @@
 - [Adeolu Oyinlola](https://github.com/deoluoyinlola)
 - [John Jacoby]
 - [Alisher Muzaffarov](https://github.com/aliml92)
+- [Jessica Nam](https://github.com/jessica-nam)
 - [Apeksha Arora](http://github.com/apekshasan)
 - [RAHUL g](https://github.com/Rahulg8270)
 - [Chirayu Pancholi](https://github.com/Chirayu31)
