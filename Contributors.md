@@ -1,5 +1,5 @@
 # Contributors
-
+adityakushwaha
 <!-- prettier-ignore-start -->
 - [Aibek Z] (https://github.com/aibekz)
 - [Faisal Saifi](https://github.com/faisalsaifii)
