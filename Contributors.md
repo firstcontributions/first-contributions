@@ -736,4 +736,5 @@
 - [Nour Elhamshary](https://github.com/Nour-Elhamshary)
 - [Harish Krishnan](https://github.com/dirtyKitchen)
 - [Ketan Kulkarni] (https://github.com/kulketan)
+- [Zherish Galvin Mayordo](https://github.com/zhrssh)
 <!-- prettier-ignore-end -->
