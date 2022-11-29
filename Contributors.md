@@ -6,6 +6,7 @@
 - [Aibek Z] (https://github.com/aibekz)
 - [Faisal Saifi](https://github.com/faisalsaifii)
 - [Hidayatullah](https://github.com/dayatnhbtc)
+- [Adlizone](https://github.com/adlizone)
 - [Palak Sinha](https://github.com/sinhapalak)
 - [Alleznav] (https://github.com/Alleznav)
 - [Praveen Dias](https://github.com/praveendias1180)
