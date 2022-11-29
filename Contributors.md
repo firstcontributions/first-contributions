@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Shivani R](https://github.com/shivu-srk)
+- [Pradeep Kurapati] (https://github.com/Pradeep-Kurapati)
 - [Aibek Z] (https://github.com/aibekz)
 - [Faisal Saifi](https://github.com/faisalsaifii)
 - [Hidayatullah](https://github.com/dayatnhbtc)
