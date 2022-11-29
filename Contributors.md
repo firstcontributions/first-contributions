@@ -454,6 +454,7 @@
 - [jeongwoo903](https://github.com/jeongwoo903)
 - [Desmond-Fon](https://github.com/Desmond-Fon)
 - [Srijanya Durganala](https://github.com/Srijanya.D)
+- [Sean Colligan](https://github.com/srcengine)
 - [TusharPramanick](https://github.com/TusharPramanick)
 - [Krishan-Walia](https://github.com/krishanwalia30)
 - [Krishna-Kadu](https://github.com/KaiserKadu)
