@@ -4,6 +4,7 @@
 - [Shivani R](https://github.com/shivu-srk)
 - [Aibek Z] (https://github.com/aibekz)
 - [Faisal Saifi](https://github.com/faisalsaifii)
+- [Hidayatullah](https://github.com/dayatnhbtc)
 - [Palak Sinha](https://github.com/sinhapalak)
 - [Alleznav] (https://github.com/Alleznav)
 - [al-imam](https://github.com/al-imam)
