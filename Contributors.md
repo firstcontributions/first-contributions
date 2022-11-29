@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 <!-- prettier-ignore-start -->
 - [Shivani R](https://github.com/shivu-srk)
@@ -8,6 +8,7 @@
 - [Palak Sinha](https://github.com/sinhapalak)
 - [Alleznav] (https://github.com/Alleznav)
 - [Praveen Dias](https://github.com/praveendias1180)
+- [Daniel Ervanda](https://github.com/dnd7)
 - [al-imam](https://github.com/al-imam)
 - [Melek Msakni](https://github.com/melekmsakni)
 - [Chouaieb Nemri](https://github.com/cnemri)
