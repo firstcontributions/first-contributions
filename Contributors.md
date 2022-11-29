@@ -118,6 +118,7 @@
 - [Javier Morales](https://github.com/jamg1906)
 - [Sreeraj Chintham](https://github.com/sreerajchintham)
 - [Rezgui Med Aziz](https://github.com/medAzizRezgui)
+- [Aldrin Gordon](https://github.com/aldringordon)
 - [Henrikas Budrys](https://github.com/hbportfolio)
 - [Vijendra Pandey](https://github.com/VijendraPandey)
 - [Erik Opinaldo](https://github.com/erikopinaldo)
