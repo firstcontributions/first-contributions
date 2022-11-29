@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
+
 - [Just Checking]
 - [Shivani R](https://github.com/shivu-srk)
 - [SleepyPeanut] (https://github.com/sleepypeanut)
@@ -274,7 +275,7 @@
 - [Sanjayram](https://github.com/eminboydak)
 - [Teguh Widodo](https://github.com/teguhwin8)
 - [Harshit Arora](https://github.com/harshit0755)
-[Odedmasala](https://github.com/odedmasala)
+  [Odedmasala](https://github.com/odedmasala)
 - [Mayank Jha](https://github.com/mkjha482)
 - [Frank Akrasi Antwi](https://github.com/fantwi)
 - [Shreya Dubey](https://github.com/ShreyaDubey1001)
@@ -648,8 +649,7 @@
 - [Megan Moulos](https://github.com/meganmoulos/)
 - [Peter Hansteen](https://github.com/pitrh)
 - [Mourad]
-- [Thales Carlesso](https://github.com/ThalesIanMendes)
--[Sang2006](https://github.com/Sang2006)
+- [Thales Carlesso](https://github.com/ThalesIanMendes) -[Sang2006](https://github.com/Sang2006)
 - [Teju_1212](https://github.com/teju_1212)
 - [Aaron Geo Binoy](https://github.com/aarongeo1)
 - [Rakshit Gupta](https://github.com/rakshitgupta23)
@@ -764,5 +764,6 @@
 - [Nguyen Dang Quy](https://github.com/dangquyit)
 - [Zac Nation](https://github.com/zacnation)
 - [Salwa Mansour](https://github.com/Salwa-mansour)
+- [Bellhwi](https://github.com/bellhwi)
 - [Sleepypeanut] (https://github.com/sleepypeanut)
 <!-- prettier-ignore-end -->
