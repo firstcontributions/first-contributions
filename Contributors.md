@@ -746,4 +746,5 @@
 - [Le Thai Anh](https://github.com/lethaianhle)
 - [czc](https://github.com/czc-gd)
 - [Nguyen Dang Quy](https://github.com/dangquyit)
+- [Zac Nation](https://github.com/zacnation)
 <!-- prettier-ignore-end -->
