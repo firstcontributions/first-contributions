@@ -668,6 +668,7 @@
 - [Yash Thakur](https://github.com/philomathaf)
 - [Rajarshi Bhattacharya](https://github.com/rajarshi023)
 - [Adnan Ahmed](https://github.com/fidato818)
+- [Divesh Singla](https://github.com/Diveshsingla)
 - [Mandar Deshmukh](https://github.com/mandarsd18)
 - [Azzarox](https://github.com/azzarox)
 - [Aman Badone](https://github.com/amanbadone)
