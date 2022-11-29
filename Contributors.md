@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Just Checking]
 - [Shivani R](https://github.com/shivu-srk)
+- [Arman Karimi](https://github.com/iArmanKarimi/)
 - [SleepyPeanut] (https://github.com/sleepypeanut)
 - [Pradeep Kurapati] (https://github.com/Pradeep-Kurapati)
 - [Aibek Z] (https://github.com/aibekz)
