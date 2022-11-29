@@ -752,4 +752,5 @@
 - [czc](https://github.com/czc-gd)
 - [Nguyen Dang Quy](https://github.com/dangquyit)
 - [Zac Nation](https://github.com/zacnation)
+- [Salwa Mansour](https://github.com/Salwa-mansour)
 <!-- prettier-ignore-end -->
