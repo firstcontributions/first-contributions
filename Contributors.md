@@ -537,6 +537,7 @@
 - [Suryajith Ms](https://github.com/Suryajith32)
 - [Ananya Agarwal](https://github.com/ananyaa01)
 - [Ali El-Shamy](https://github.com/elshali)
+- [Muneeb Shahid](https://github.com/muneeb706)
 - [Rami Shawwa](https://edbtz.com)
 - [Chhaganlaal](https://github.com/Chhaganlaal)
 - [Chandra Kiran](https://github.com/chandra-kiran1)
