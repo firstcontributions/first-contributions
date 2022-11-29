@@ -13,6 +13,7 @@
 - [Daniel Ervanda](https://github.com/dnd7)
 - [al-imam](https://github.com/al-imam)
 - [Melek Msakni](https://github.com/melekmsakni)
+- [Lakshan Perera](https://github.com/0xluckycode)
 - [Chouaieb Nemri](https://github.com/cnemri)
 - [Odejobi Peter](https://github.com/rinwaoluwa)
 - [Fryz](https://github.com/Fryzzz)
