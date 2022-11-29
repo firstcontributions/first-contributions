@@ -21,6 +21,7 @@
 - [Hein Htet Zaw](https://github.com/Hendrickhz)
 - [s-t-e-v](https://github.com/s-t-e-v)
 - [Mahadsid](https://github.com/Mahadsid)
+- [Trevor Ang](https://github.com/TrevorAng)
 - [Ema Omere]
 - [Julian Schmid](https://github.com/KingNexu)
 - [Uras Varolgunes]
