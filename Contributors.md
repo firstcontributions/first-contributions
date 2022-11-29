@@ -14,6 +14,7 @@
 - [Alleznav] (https://github.com/Alleznav)
 - [Praveen Dias](https://github.com/praveendias1180)
 - [Daniel Ervanda](https://github.com/dnd7)
+- [Lukas de VIPART](https://github.com/Rekch)
 - [al-imam](https://github.com/al-imam)
 - [Melek Msakni](https://github.com/melekmsakni)
 - [Lakshan Perera](https://github.com/0xluckycode)
