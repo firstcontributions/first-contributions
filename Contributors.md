@@ -34,6 +34,7 @@
 - [Chandan kumar Chaudhary](https://github.com/chands)
 - [Xiyue Zhang](https://github.com/xiyueuyix)
 - [Mikan](https://github.com/mika-alpha)
+- [Mahabub Arafat](https://github.com/MahabubArafat)
 - [Enoch Chirima](https://github.com/iamenochchirima)
 - [Harsa Dash](https://github.com/harsadas)
 - [Gopalakrishnan J](https://github.com/Gopalakrishnan20)
