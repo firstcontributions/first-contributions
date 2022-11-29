@@ -740,4 +740,5 @@
 - [Harish Krishnan](https://github.com/dirtyKitchen)
 - [Ketan Kulkarni] (https://github.com/kulketan)
 - [Zherish Galvin Mayordo](https://github.com/zhrssh)
+- [Le Thai Anh](https://github.com/lethaianhle)
 <!-- prettier-ignore-end -->
