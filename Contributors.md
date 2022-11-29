@@ -7,6 +7,7 @@
 - [Hidayatullah](https://github.com/dayatnhbtc)
 - [Palak Sinha](https://github.com/sinhapalak)
 - [Alleznav] (https://github.com/Alleznav)
+- [Praveen Dias](https://github.com/praveendias1180)
 - [al-imam](https://github.com/al-imam)
 - [Melek Msakni](https://github.com/melekmsakni)
 - [Chouaieb Nemri](https://github.com/cnemri)
