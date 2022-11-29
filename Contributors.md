@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Shivani R](https://github.com/shivu-srk)
+- shadow5752
 - [Aibek Z] (https://github.com/aibekz)
 - [Faisal Saifi](https://github.com/faisalsaifii)
 - [Palak Sinha](https://github.com/sinhapalak)
