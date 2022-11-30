@@ -359,7 +359,6 @@ Yash Rustogi
 - [Aayush Arora](https://github.com/AroraAayush)
 - [Anand pratap singh](https://github.com/rishu-singh9695)
 - [Michelle Wong](https://github.com/strawberrie68/)
-- [Pray Raskapoorwala]@DevSocPI
 - [Suraj Patra](https://github.com/Suraj-Patra)
 - [Mallela D. Vinay](https://github.com/MD571)
 - [Mariam Lawal](https://github.com/Maerryham)
@@ -637,7 +636,7 @@ Yash Rustogi
 - [Pranava Kumar Mishra](https://github.com/SatayS)
 - [yogesh](https://github.com/yogesh-0911)
 - [paras](https://github.com/paras9192)
-- [LaElijah](https://github.com/LaElijah)
+- [Brinda]@DevSoc
 - [Shivansh Guleria](https://github.com/ShivanshGuleria)
 - [Swaraj](https://github.com/swarajzz)
 - [Franklin Mensah](https://github.com/fiificode)
