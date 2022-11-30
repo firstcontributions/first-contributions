@@ -51,6 +51,7 @@ Yash Rustogi
 - [Odejobi Peter](https://github.com/rinwaoluwa)
 - [Somanshu Rath @ DevSoc](https://github.com/somra)
 - [Fryz](https://github.com/Fryzzz)
+- [Vandit Kharod@DevSocTI]
 - [Bhavana Garlapati] (https://github.com/bhavanagarlapati)
 - [Medhansh Kumar] @DevSocPI (https://github.com/medanceee)
   [Boby Tiwari](https://github.com/Boby900)
@@ -811,6 +812,5 @@ Yash Rustogi
 - [Ali Zain Aldeen] (https://github.com/ali-zain-aldeen)
 - [Harshvardhan Mestha @DevsocPI](https://github.com/Harshvardhan-Mestha)
 - [Preet Gupta@devsoc](https://github.com/preetgupta32)
-- [Yash Jhawar@devsocPI](https://github.com/yash-jhawar007)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
