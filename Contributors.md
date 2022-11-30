@@ -19,6 +19,7 @@
 - [Alleznav] (https://github.com/Alleznav)
 - [Nipun] (https://github.com/nipunupekshana)
 - [Praveen Dias](https://github.com/praveendias1180)
+- [Yashkumar Gupta](https://github.com/yashh1234)
 - [Daniel Ervanda](https://github.com/dnd7)
 - [Lukas de VIPART](https://github.com/Rekch)
 - [Krunal Patel](https://github.com/kd05)
