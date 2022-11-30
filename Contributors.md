@@ -189,6 +189,7 @@ Yash Rustogi
 - [mahalakshmikutcharlapati](https://github.com/mahalakshmikutcharlapati)
 - [avotrarakotoson](https://github.com/avotrarakotoson)
 - [randose](https://github.com/randose)
+- [Vanshsood@DevSoc](https://github.com/Vanshsback)
 - [Mohsin Ali](https://github.com/mohsinali1051)
 - [sagehourihan](https://github.com/SageHourihan)
 - [Chandan Arya](https://github.com/alpha2lucifer)
@@ -829,4 +830,3 @@ Yash Rustogi
 - [kartavya@devsoc](https://github.com/Chrollucilfer)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
-[Siddharth Thakur]@devsoc pi
