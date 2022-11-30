@@ -3,10 +3,8 @@
 <!-- prettier-ignore-start -->
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
-- [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 Yash Rustogi
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
-- [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
 - [Pranay Chakravarty@devsocPI](https://github.com/Mr-Mystic)
 - [Sasmit Datta @DevsocPI](https://github.com/Sasopsy)
 - [Shardul Tomat@DevsocPI](https://github.com/ShardulT04)
@@ -115,9 +113,9 @@ Yash Rustogi
 - [Esta es mi primer contribucion](https://github.com/PabloCH23)
 - [Alex Zhao](https://github.com/zyunfeng)
 - [Gregory John](https://github.com/GregLJ)
-- [Pridhi Grag](https:/github/com/pridhigarg369)
-- [Juanma Romero](https://github.com/juanmaroni/)
-- [Chhabi Acharya](https://github.com/Chhabii)
+- [Sohan Palekar@DevsocPI]
+- [Sohan@DevsocPI]
+- [Sohan@DevsocPI]
 - [Sai Ram](https://github.com/Saira2002)
 - [Ajmal Wali](https://github.com/ajmal2002)
 - [Theunis Victor](https://github.com/TVictor)
@@ -810,6 +808,5 @@ Yash Rustogi
 - [Sleepypeanut] (https://github.com/sleepypeanut)
 - [Ali Zain Aldeen] (https://github.com/ali-zain-aldeen)
 - [Harshvardhan Mestha @DevsocPI](https://github.com/Harshvardhan-Mestha)
-- [Preet Gupta@devsoc](https://github.com/preetgupta32)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
