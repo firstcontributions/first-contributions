@@ -21,13 +21,11 @@ Reetish Rath
 - 
 Yash Rustogi
 - [Aryan Bansal @devsocPI]
-- Moksh@DEVSOCPI
 - [Ayush Raj @DevsocPI]. (https://github.com/Aayuraju)
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
 - aumkar@DevsocPI
 - [VAGEESHA GUPTA@DevsocPI](https://github.com/Forestelf6)
-- [Neha Menon@DevsocPI](https://github.com/thenehamenon)
 - [Akshaj Jha@DevSocPI](https://github.com/Akshajha07)
 - [Pranay Chakravarty@devsocPI](https://github.com/Mr-Mystic)
 - [Sasmit Datta @DevsocPI](https://github.com/Sasopsy)
@@ -69,6 +67,7 @@ Yash Rustogi
 - [Praveen Dias](https://github.com/praveendias1180)
 - [Daniel Ervanda](https://github.com/dnd7)
 - [Lukas de VIPART](https://github.com/Rekch)
+- Kshitij Dale @DevSocPI
 - [Krunal Patel](https://github.com/kd05)
 - [al-imam](https://github.com/al-imam)
 - [Hasibur Rahman](https://github.com/hasiburdev)
@@ -783,7 +782,6 @@ Yash Rustogi
 - [Rishabh yaduwanshi](https://github.com/rishabhyaduwanshi)
 - [Suraj Patel](https://github.com/Surajpatel2003)
 - [Raghav Krishan Kedia](https://github.com/Raghav-Kedia)
-- [Kanad Saswade@DevsocPI]
 - [WhiteR4ven](https://github.com/WhiteR4ven)
 - [Aviraj Saxena](https://github.com/theavirajsaxena)
 - [Adugna Tadesse](https://https://github.com/Adugnatad)
