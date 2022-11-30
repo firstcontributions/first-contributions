@@ -2,7 +2,6 @@
 
 <!-- prettier-ignore-start -->
 aditya bagla
-Reetish Rath
 [Pranjay Yelkotwar] @DevSocInductions
 - [Kshitij Verma@DevsocPI](https://github.com/melon9829)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
@@ -623,7 +622,6 @@ Yash Rustogi
 - [Muneeb Shahid](https://github.com/muneeb706)
 - [Rami Shawwa](https://edbtz.com)
 - [Chhaganlaal](https://github.com/Chhaganlaal)
-- [Shruti Rout]@DevsocPI(https://github.com/shrutirout)
 - [Chandra Kiran](https://github.com/chandra-kiran1)
 - [Aryan Thakore](https://github.com/Aryan1982)
 - [Tanishq Agarwal](https://github.com/Tanishq2807)
@@ -745,6 +743,7 @@ Yash Rustogi
 - [Alan Flores](https://github.com/AlanF20)
 - [Aaryan Singh](https://github.com/Aaryan376)
 - [Han Ye Htun](https://github.com/sloth30799)
+- [Vikhyat Gupta@DevsocPI](https://github.com/Vikhyat0908)
 - [Arjava Tripathi](https://github.com/ArjavaTripathi)
 - [Amit Roy](https://github.com/amitroy-thedev)
 - [Siddhi Khade](https://github.com/SiddhiKhade)
