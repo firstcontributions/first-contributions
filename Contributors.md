@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
+- Nikhil Tamboli @DevSoc 
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [Pratik Ghosh]
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
