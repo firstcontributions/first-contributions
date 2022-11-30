@@ -26,6 +26,7 @@ Yash Rustogi
 - [Shivani R](https://github.com/shivu-srk)
 - [Arman Karimi](https://github.com/iArmanKarimi/)
 - [SleepyPeanut] (https://github.com/sleepypeanut)
+- [Arnav Ranjekar@DevSocPI](https://github.com/Zubenalgenubi)
 - [Pradeep Kurapati] (https://github.com/Pradeep-Kurapati)
 - [Aibek Z] (https://github.com/aibekz)
 - [Mohak Jain DevSoC pre inductions]
@@ -66,7 +67,6 @@ Yash Rustogi
 - [Mahadsid](https://github.com/Mahadsid)
 - [Trevor Ang](https://github.com/TrevorAng)
 - [Ema Omere]
-- [arnavjain@devsocpi](https://github.com/Arnavjain244)
 - [Lesh Chadick](https://github.com/lesh2)
 - [Julian Schmid](https://github.com/KingNexu)
 - [Uras Varolgunes]
@@ -360,7 +360,6 @@ Yash Rustogi
 - [Aayush Arora](https://github.com/AroraAayush)
 - [Anand pratap singh](https://github.com/rishu-singh9695)
 - [Michelle Wong](https://github.com/strawberrie68/)
-- [Pray Raskapoorwala]@DevSocPI
 - [Suraj Patra](https://github.com/Suraj-Patra)
 - [Mallela D. Vinay](https://github.com/MD571)
 - [Mariam Lawal](https://github.com/Maerryham)
