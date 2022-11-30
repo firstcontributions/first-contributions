@@ -231,6 +231,7 @@
 - [Charlie Hird](https://github.com/cjhird)
 - [bytesofbec](https://github.com/bytesofbec)
 - [SamAtkinsonModeste](https://www.github.com/SamAtkinsonModeste)
+- [Evan Larson](https://www.github.com/Chasmessian)
 - [william-chalk](https://github.com/william-chalk)
 - [Lachu Dahal](https://github.com/lachudahal)
 - [Rashad Khan](https://github.com/rashadkhan359)
