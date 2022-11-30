@@ -617,6 +617,7 @@ Yash Rustogi
 - [Chandra Kiran](https://github.com/chandra-kiran1)
 - [Aryan Thakore](https://github.com/Aryan1982)
 - [Hamza Nehme](https://github.com/hnehme99)
+- [Rucha @DevSocPI]
 - [Hippolyte Thomas](https://github.com/hippothomas)
 - [Alexis Gonzalez](https://github.com/Alex-is-Gonzalez)
 - [Shreyash Gupta](https://github.com/shreyash2610)
@@ -824,6 +825,5 @@ Yash Rustogi
 - [Harshvardhan Mestha @DevsocPI](https://github.com/Harshvardhan-Mestha)
 - [Preet Gupta@devsoc](https://github.com/preetgupta32)
 - [Yash Jhawar@devsocPI](https://github.com/yash-jhawar007)
-- [kartavya@devsoc](https://github.com/Chrollucilfer)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
