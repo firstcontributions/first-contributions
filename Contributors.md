@@ -13,7 +13,6 @@ Yash Rustogi
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
 - aumkar@DevsocPI
-- [Akshaj Jha@DevSocPI](https://github.com/Akshajha07)
 - [Pranay Chakravarty@devsocPI](https://github.com/Mr-Mystic)
 - [Sasmit Datta @DevsocPI](https://github.com/Sasopsy)
 - [Shardul Tomat@DevsocPI](https://github.com/ShardulT04)
@@ -34,6 +33,7 @@ Yash Rustogi
 - [Aibek Z] (https://github.com/aibekz)
 - [Mohak Jain DevSoC pre inductions]
 - [Yash Rathi}@DevsocPI
+- [Om Patil]@DecsocPI
 - [Faisal Saifi](https://github.com/faisalsaifii)
 - [Vishal Kanwar](https://github.com/Kanvi1)
 - Aniket Sonawane @Devsoc
