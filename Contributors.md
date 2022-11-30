@@ -6,7 +6,6 @@
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 Yash Rustogi
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
-- [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
 - [Pranay Chakravarty@devsocPI](https://github.com/Mr-Mystic)
 - [Sasmit Datta @DevsocPI](https://github.com/Sasopsy)
 - [Shardul Tomat@DevsocPI](https://github.com/ShardulT04)
@@ -148,6 +147,7 @@ Yash Rustogi
 - [Masih Karimi](https://github.com/MasihKarimi)
 - [Aster Fung](https://github.com/aster-fung)
 - [Gabriel Waegner](https://github.com/Gwaegs)
+- [Pray Raskapoorwala]@DevSocPI
 - [Boris Ynyr](https://github.com/BorisYnyr)
 - [Anand S](https://github.com/anand2000s)
 - [Aryan Wadhwa](https://github.com/TastyBiscuit0808/first-contributions)
