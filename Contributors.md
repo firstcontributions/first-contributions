@@ -10,6 +10,7 @@
 - [Saptarshi Ghosh @devsoc2022](https://github.com/zack-carnet)
 - [Somnath Golui](https://github.com/somu-code)
 - [Jiving Pete's Frisky Dynamite](https://github.com/jives-mcgee)
+- [Abhijeet]@DevsocPI
 - [Shivani R](https://github.com/shivu-srk)
 - [Arman Karimi](https://github.com/iArmanKarimi/)
 - [SleepyPeanut] (https://github.com/sleepypeanut)
