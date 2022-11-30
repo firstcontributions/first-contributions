@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
-- [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
+- [Adya Bharadwaj@DevsocPI]
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 Yash Rustogi
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
@@ -29,7 +29,6 @@ Yash Rustogi
 - [Vishal Kanwar](https://github.com/Kanvi1)
 - Aniket Sonawane @Devsoc
 - Shamit Khetan @DevSoc
-- Ronit Kunkolienker @DevSoc PI
 - [Alvin James Bellero](https://github.com/shiftEscape)
 - [Hidayatullah](https://github.com/dayatnhbtc)
 - [Adlizone](https://github.com/adlizone)
