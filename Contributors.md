@@ -1,7 +1,6 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-- [Kshitij Verma@DevsocPI](https://github.com/melon9829)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
@@ -19,7 +18,6 @@ Yash Rustogi
 - [Pawan Yadav](https://github.com/pawanyy)
 - [CherylChaudhari@DevsocPI]
 - [Saptarshi Ghosh @devsoc2022](https://github.com/zack-carnet)
-- [Sreeram P @DevSoc](https://github.com/sreeramps10)
 - [Somnath Golui](https://github.com/somu-code)
 - [Jiving Pete's Frisky Dynamite](https://github.com/jives-mcgee)
 - [Abhijeet]@DevsocPI
@@ -99,6 +97,7 @@ Yash Rustogi
 - [Vibhav Joshi](https://github.com/DATTU005)
 - [Jayanth](https://github.com/iamjayanthr)
 - [Mohamed Djebloun](https://github.com/mohameddjebloun)
+- 
 - [Vanshagra Rai](https://github.com/VanshagraRai)
 - [Ausawin Saehaan](https://github.com/saehaana)
 - [Rajiv Galgali]
@@ -568,6 +567,7 @@ Yash Rustogi
 - [Tyler Martin @HeyTylerMartin](https://github.com/HeyTylerMartin)
 - [Arshad Khan](https://github.com/The-Arshad-Khan)
 - [Ricardo Fontenla](https://github.com/ricfontenla)
+- Aditya @ DevSocIP
 - [M3tal M0nk3y](https://github.com/M3talM0nk3y)
 - [Akshay Soni](https://github.com/akshaysoni10)
 - [Denis Koshelev](https://github.com/kshpdr)
