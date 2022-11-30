@@ -1,8 +1,6 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-- [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
-Yash Rustogi
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - [Sasmit Datta @DevsocPI](https://github.com/Sasopsy)
 - [Shardul Tomat@DevsocPI](https://github.com/ShardulT04)
@@ -25,7 +23,6 @@ Yash Rustogi
 - [Faisal Saifi](https://github.com/faisalsaifii)
 - [Vishal Kanwar](https://github.com/Kanvi1)
 - Aniket Sonawane @Devsoc
-- Shamit Khetan @DevSoc
 - [Alvin James Bellero](https://github.com/shiftEscape)
 - [Hidayatullah](https://github.com/dayatnhbtc)
 - [Adlizone](https://github.com/adlizone)
@@ -287,6 +284,7 @@ Yash Rustogi
 - [Shreyas Bhagwat](https://github.com/ShreyasBhagwat)
 - [Sahil Barsaiyan](https://github.com/Sahilb12)
 - [Dario Gumucio](https://github.com/dariogumucio)
+- [Raghuram Aluru@DevSoc]
 - [Aman Bhagat](https://GitHub.com/sanayaa)
 - [Zoltan Nahoczki](https://github.com/nahoczki)
 - [Siddharth Singh](https://github.com/siddharthqs/rust_quant)
