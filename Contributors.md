@@ -10,7 +10,6 @@ aditya bagla
 - 
 Yash Rustogi
 - [Aryan Bansal @devsocPI]
-- [Ayush Raj @DevsocPI]. (https://github.com/Aayuraju)
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
 - aumkar@DevsocPI
@@ -75,6 +74,7 @@ Yash Rustogi
 - [Ema Omere]
 - [arnavjain@devsocpi](https://github.com/Arnavjain244)
 - [Lesh Chadick](https://github.com/lesh2)
+- [Ronan Coutinho @devsocPI]
 - [Julian Schmid](https://github.com/KingNexu)
 - [Uras Varolgunes]
 - [Limoo Kiplimo](https://github.com/Limookiplimo)
@@ -624,7 +624,6 @@ Yash Rustogi
 - [Chhaganlaal](https://github.com/Chhaganlaal)
 - [Chandra Kiran](https://github.com/chandra-kiran1)
 - [Aryan Thakore](https://github.com/Aryan1982)
-- [Tanishq Agarwal](https://github.com/Tanishq2807)
 - [Hamza Nehme](https://github.com/hnehme99)
 - [Hippolyte Thomas](https://github.com/hippothomas)
 - [Alexis Gonzalez](https://github.com/Alex-is-Gonzalez)
@@ -835,7 +834,6 @@ Yash Rustogi
 - [Yash Jhawar@devsocPI](https://github.com/yash-jhawar007)
 - [kartavya@devsoc](https://github.com/Chrollucilfer)
 - [Divyam Joshi](https://github.com/iamgroot9)@devsoc
-- [Saurav@DevSocPI](https://github.com/AlexThundrous)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
