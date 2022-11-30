@@ -10,7 +10,6 @@ Reetish Rath
 [Pranjay Yelkotwar] @DevSocInductions
 - [Kshitij Verma@DevsocPI](https://github.com/melon9829)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
-- [Sanskar Mundhra@DevsocPI](https://github.com/SunMoon97)
 - [Shrey Gupta@DevsocPI](https://github.com/gupta-shrey)
 - Meet Dedhia@DevsocPI
 
@@ -611,6 +610,7 @@ Yash Rustogi
 - [Dwayne Gibbs](https://dwaynegibbs.net)
 - [AVINASH YADAV](https://github.com/Happylife10)
 - [Joshua Knorz](https://github.com/JoshKn)
+- [SAI CHIDVILAS G@DevsocPI](https://github.com/chadvilas) 
 - [Tri Pham](https://github.com/TriMPham98)
 - [Vishvesh Pratap Singh](https://github.com/Vish221)
 - Akhil Sai K@DevsocPI
