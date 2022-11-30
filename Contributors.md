@@ -134,6 +134,7 @@ Yash Rustogi
 - [Lien Font](https://github.com/90sPixelDev)
 - [Anuhya sabbani](https://github.com/anuhyasabbani)
 - [Bojidar Vladimirov](https://github.com/BojidarV)]
+- [Vikhyat Gupta@DevsocPI](https://github.com/Vikhyat0908)
 - [sankarapandi](https://github.com/Sankarapandi-Murugan)
 - [Poyraz Bahcivan](https://github.com/poyrazbahcivan)
 - [Ryan Ignasiak](https://github.com/theravenousR)
@@ -201,7 +202,6 @@ Yash Rustogi
 - [Anmol Bansal](https://github.com/AnmolBansalDEV)
 - [Adeolu Oyinlola](https://github.com/deoluoyinlola)
 - [John Jacoby]
-- [kanav upadhyay](https://github.com/Sigmistic2k4)
 - [Alisher Muzaffarov](https://github.com/aliml92)
 - [Jessica Nam](https://github.com/jessica-nam)
 - [Apeksha Arora](http://github.com/apekshasan)
@@ -214,7 +214,6 @@ Yash Rustogi
 - [Pratyaksh Sinha](https://github.com/PratyakshSinha)
 - [Mehran Shahbaz](https://github.com/mehranShG)
 - [wfrsk](hhpts://github.com/wfrsk)
-- [Sasmit Datta @DevsocPI](https://github.com/Sasopsy)
 - [Khalid-Hasan](https://github.com/khalidx3)
 - [David Lopez](https://github.com/davidnoelopez)
 - [Moustafa Hassan](https://github.com/MoustafaHassan1)
@@ -826,6 +825,5 @@ Yash Rustogi
 - [Harshvardhan Mestha @DevsocPI](https://github.com/Harshvardhan-Mestha)
 - [Preet Gupta@devsoc](https://github.com/preetgupta32)
 - [Yash Jhawar@devsocPI](https://github.com/yash-jhawar007)
-- [kartavya@devsoc](https://github.com/Chrollucilfer)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
