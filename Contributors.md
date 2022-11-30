@@ -2,7 +2,6 @@
 
 <!-- prettier-ignore-start -->
 aditya bagla
-[Pranjay Yelkotwar] @DevSocInductions
 - [Kshitij Verma@DevsocPI](https://github.com/melon9829)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
@@ -24,6 +23,7 @@ Yash Rustogi
 - [Saptarshi Ghosh @devsoc2022](https://github.com/zack-carnet)
 - [Sreeram P @DevSoc](https://github.com/sreeramps10)
 - [Somnath Golui](https://github.com/somu-code)
+- [Noopur Sharma@DevsocPI]
 - [Jiving Pete's Frisky Dynamite](https://github.com/jives-mcgee)
 - [Abhijeet]@DevsocPI
 - [Shivani R](https://github.com/shivu-srk)
@@ -44,7 +44,6 @@ Yash Rustogi
 - [Adlizone](https://github.com/adlizone)
 - [Palak Sinha](https://github.com/sinhapalak)
 - [Ravi Ranjan Kumar](https://github.com/iam-ravi-11)
-- [Hruday K] @ Devsoc PI  (https://github.com/hrudayk46)
 - [Alleznav] (https://github.com/Alleznav)
 - [Nipun] (https://github.com/nipunupekshana)
 - [Praveen Dias](https://github.com/praveendias1180)
@@ -173,6 +172,7 @@ Yash Rustogi
 - [Pratyush Tyagi](https://github.com/Pratyush0612)
 - [Surajit Dey Sarkar](https://github.com/Surajitds)
 - [Krish Vora](https://github.com/Krishvora)
+-
 - [Mohit Marathe](https://github.com/Mohit2758)
 - [Edwin Kim](https://github.com/edwinkim97)
 - [Varun Shah](https://github.com/varunlmxd)
@@ -831,4 +831,3 @@ Yash Rustogi
 - [kartavya@devsoc](https://github.com/Chrollucilfer)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
-[Siddharth Thakur]@devsoc pi
