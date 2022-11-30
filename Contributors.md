@@ -835,6 +835,7 @@ Yash Rustogi
 - [Yash Jhawar@devsocPI](https://github.com/yash-jhawar007)
 - [kartavya@devsoc](https://github.com/Chrollucilfer)
 - [Divyam Joshi](https://github.com/iamgroot9)@devsoc
+- [Saurav@DevSocPI](https://github.com/AlexThundrous)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
