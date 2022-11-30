@@ -130,6 +130,7 @@ Yash Rustogi
 - [Sudarhan Mallibhat](https://github.com/sudarshanmg)
 - [Bogdan Otava](https://github.com/BogdanOtava)
 - [something-ai-hash](https://github.com/something-ai-hash)
+- [Chanthru00](https://github.com/Chanthru00)
 - [John Harold Sipat]
 - [Sanchay Sahay]@DevsocPI
 - [Nathan FAbio](https://github.com/nathanfabio)
@@ -877,6 +878,7 @@ Yash Rustogi
 - [Basant Singh Dobal 👨‍💻](https://github.com/basantsd)
 - [Julia Kuchle](https://github.com/JuliaGK)
 - [Jen Richmond] (https://github.com/ladyrtests)
+- [Marek Wasilczuk](https://github.com/tw-mwasilczuk)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
