@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Utkarsh@DevsocPI](https://github.com/0xAnon0602)
+Yash Rustogi
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - [Sasmit Datta @DevsocPI](https://github.com/Sasopsy)
 - [Shardul Tomat@DevsocPI](https://github.com/ShardulT04)
