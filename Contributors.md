@@ -15,6 +15,7 @@ Reetish Rath
 - [Sanskar Mundhra@DevsocPI](https://github.com/SunMoon97)
 - [Shrey Gupta@DevsocPI](https://github.com/gupta-shrey)
 - Meet Dedhia@DevsocPI
+- aditya joshi@DevSocPI
 
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
