@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
+- [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - Parth Shah@DevsocPI
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
@@ -25,7 +26,6 @@ Yash Rustogi
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
 - aumkar@DevsocPI
-- [VAGEESHA GUPTA@DevsocPI](https://github.com/Forestelf6)
 - [Akshaj Jha@DevSocPI](https://github.com/Akshajha07)
 - [Pranay Chakravarty@devsocPI](https://github.com/Mr-Mystic)
 - [Sasmit Datta @DevsocPI](https://github.com/Sasopsy)
@@ -86,7 +86,6 @@ Yash Rustogi
 - [s-t-e-v](https://github.com/s-t-e-v)
 - [Mahadsid](https://github.com/Mahadsid)
 - [Trevor Ang](https://github.com/TrevorAng)
-- [Prabhav Srivastava](https://github.com/prabhavsrivastava)
 - [Ema Omere]
 - [arnavjain@devsocpi](https://github.com/Arnavjain244)
 - [Lesh Chadick](https://github.com/lesh2)
