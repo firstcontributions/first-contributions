@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Just Checking]
 - [Stone Yao](https://github.com/StoneYaoTreelab)
+- [Pawan Yadav](https://github.com/pawanyy)
 - [Jiving Pete's Frisky Dynamite](https://github.com/jives-mcgee)
 - [Shivani R](https://github.com/shivu-srk)
 - [Arman Karimi](https://github.com/iArmanKarimi/)
@@ -15,6 +16,7 @@
 - [Palak Sinha](https://github.com/sinhapalak)
 - [Ravi Ranjan Kumar](https://github.com/iam-ravi-11)
 - [Alleznav] (https://github.com/Alleznav)
+- [Nipun] (https://github.com/nipunupekshana)
 - [Praveen Dias](https://github.com/praveendias1180)
 - [Daniel Ervanda](https://github.com/dnd7)
 - [Lukas de VIPART](https://github.com/Rekch)
