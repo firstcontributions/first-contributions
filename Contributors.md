@@ -17,7 +17,7 @@ Yash Rustogi
 - [harsh rathi@DevSocPI](hhtps;//github.com/harshrathi12)
 - [Utkarsh@DevsocPI](https://github.com/0xAnon0602)
 - [Pawan Yadav](https://github.com/pawanyy)
-- [CherylChaudhari@DevsocPI]
+- [CherylChaudhari@DevsocPI](https://github.com/cherxoxo10)
 - [Saptarshi Ghosh @devsoc2022](https://github.com/zack-carnet)
 - [Sreeram P @DevSoc](https://github.com/sreeramps10)
 - [Somnath Golui](https://github.com/somu-code)
@@ -66,7 +66,6 @@ Yash Rustogi
 - [Mahadsid](https://github.com/Mahadsid)
 - [Trevor Ang](https://github.com/TrevorAng)
 - [Ema Omere]
-- [arnavjain@devsocpi](https://github.com/Arnavjain244)
 - [Lesh Chadick](https://github.com/lesh2)
 - [Julian Schmid](https://github.com/KingNexu)
 - [Uras Varolgunes]
@@ -360,7 +359,6 @@ Yash Rustogi
 - [Aayush Arora](https://github.com/AroraAayush)
 - [Anand pratap singh](https://github.com/rishu-singh9695)
 - [Michelle Wong](https://github.com/strawberrie68/)
-- [Pray Raskapoorwala]@DevSocPI
 - [Suraj Patra](https://github.com/Suraj-Patra)
 - [Mallela D. Vinay](https://github.com/MD571)
 - [Mariam Lawal](https://github.com/Maerryham)
