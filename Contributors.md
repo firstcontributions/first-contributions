@@ -6,7 +6,7 @@ aditya bagla
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
-- 
+- [Daksh Arora@DevsocPI]
 Yash Rustogi
 - [Aryan Bansal @devsocPI]
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
@@ -824,6 +824,5 @@ Yash Rustogi
 - [Harshvardhan Mestha @DevsocPI](https://github.com/Harshvardhan-Mestha)
 - [Preet Gupta@devsoc](https://github.com/preetgupta32)
 - [Yash Jhawar@devsocPI](https://github.com/yash-jhawar007)
-- [kartavya@devsoc](https://github.com/Chrollucilfer)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
