@@ -1,9 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-- [Utkarsh@DevsocPI](https://github.com/0xAnon0602)
 - [Pawan Yadav](https://github.com/pawanyy)
-- [Saptarshi Ghosh @devsoc2022](https://github.com/zack-carnet)
 - [Somnath Golui](https://github.com/somu-code)
 - [Jiving Pete's Frisky Dynamite](https://github.com/jives-mcgee)
 - [Shivani R](https://github.com/shivu-srk)
@@ -71,6 +69,7 @@
 - [Nathan FAbio](https://github.com/nathanfabio)
 - [Vibhav Joshi](https://github.com/DATTU005)
 - [Jayanth](https://github.com/iamjayanthr)
+- [Mohak Jain DevSoC Pre Inductions](https://github.com/mjain1110)
 - [Mohamed Djebloun](https://github.com/mohameddjebloun)
 - [Vanshagra Rai](https://github.com/VanshagraRai)
 - [Ausawin Saehaan](https://github.com/saehaana)
@@ -419,7 +418,6 @@
 - [Yatndeep Dubey](https://github.com/Yatndeep)
 - [Autumn Ouellette](https://github.com/Autumn-Ou)
 - [Fatin Almalik](https://github.com/Fatin-Almalik)
-- [Ayananshu Mohanty]@DevsocPI
 - [Mohammad Mubaslat](https://github.com/mohammadmubaslat)
 - [Arnaduga](https://github.com/arnaduga)
 - [PatentLobster](https://github.com/PatentLobster)
