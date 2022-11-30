@@ -11,6 +11,7 @@
 - [Pradeep Kurapati] (https://github.com/Pradeep-Kurapati)
 - [Aibek Z] (https://github.com/aibekz)
 - [Faisal Saifi](https://github.com/faisalsaifii)
+- [Alvin James Bellero](https://github.com/shiftEscape)
 - [Hidayatullah](https://github.com/dayatnhbtc)
 - [Adlizone](https://github.com/adlizone)
 - [Palak Sinha](https://github.com/sinhapalak)
