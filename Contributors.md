@@ -7,7 +7,7 @@ aditya bagla
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
-- 
+YASH RUSTOGI DEV SOC
 Yash Rustogi
 - [Aryan Bansal @devsocPI]
 - [Ayush Raj @DevsocPI]. (https://github.com/Aayuraju)
