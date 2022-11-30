@@ -2,7 +2,6 @@
 
 <!-- prettier-ignore-start -->
 aditya bagla
-Reetish Rath
 [Pranjay Yelkotwar] @DevSocInductions
 - [Kshitij Verma@DevsocPI](https://github.com/melon9829)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
@@ -837,6 +836,7 @@ Yash Rustogi
 - [kartavya@devsoc](https://github.com/Chrollucilfer)
 - [Divyam Joshi](https://github.com/iamgroot9)@devsoc
 - [Saurav@DevSocPI](https://github.com/AlexThundrous)
+- [Tasnim Chaviwala@DevsocPI](https://github.com/tasnim496)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
