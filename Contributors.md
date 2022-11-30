@@ -21,6 +21,7 @@
 - [Praveen Dias](https://github.com/praveendias1180)
 - [Daniel Ervanda](https://github.com/dnd7)
 - [Lukas de VIPART](https://github.com/Rekch)
+- [Barnamoy Roy DevsocPI](https://github.com/Ed-Monkey)
 - [Krunal Patel](https://github.com/kd05)
 - [al-imam](https://github.com/al-imam)
 - [Hasibur Rahman](https://github.com/hasiburdev)
