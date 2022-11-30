@@ -6,7 +6,7 @@
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 Yash Rustogi
-- [Aryan Bansal @devsocPI]
+- [Aryan Bansal @devsocPI](https://github.com/oye-aryan)
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
 - aumkar@DevsocPI
@@ -359,7 +359,6 @@ Yash Rustogi
 - [Aayush Arora](https://github.com/AroraAayush)
 - [Anand pratap singh](https://github.com/rishu-singh9695)
 - [Michelle Wong](https://github.com/strawberrie68/)
-- [Pray Raskapoorwala]@DevSocPI
 - [Suraj Patra](https://github.com/Suraj-Patra)
 - [Mallela D. Vinay](https://github.com/MD571)
 - [Mariam Lawal](https://github.com/Maerryham)
