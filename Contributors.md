@@ -788,6 +788,7 @@
 - [Zherish Galvin Mayordo](https://github.com/zhrssh)
 - [Le Thai Anh](https://github.com/lethaianhle)
 - [czc](https://github.com/czc-gd)
+- Tanishq Agarwal @Devsocpreinductions
 - [Nguyen Dang Quy](https://github.com/dangquyit)
 - [Zac Nation](https://github.com/zacnation)
 - [Salwa Mansour](https://github.com/Salwa-mansour)
