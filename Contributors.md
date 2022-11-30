@@ -622,6 +622,7 @@ Yash Rustogi
 - [Muneeb Shahid](https://github.com/muneeb706)
 - [Rami Shawwa](https://edbtz.com)
 - [Chhaganlaal](https://github.com/Chhaganlaal)
+- [Shruti Rout]@DevsocPI(https://github.com/shrutirout)
 - [Chandra Kiran](https://github.com/chandra-kiran1)
 - [Aryan Thakore](https://github.com/Aryan1982)
 - [Tanishq Agarwal](https://github.com/Tanishq2807)
