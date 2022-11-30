@@ -37,7 +37,6 @@ Yash Rustogi
 - [SleepyPeanut] (https://github.com/sleepypeanut)
 - [Pradeep Kurapati] (https://github.com/Pradeep-Kurapati)
 - [Aibek Z] (https://github.com/aibekz)
-- [Aadi Joshi @DevsocPI]
 - [Mohak Jain DevSoC pre inductions]
 - [Yash Rathi}@DevsocPI
 - [Faisal Saifi](https://github.com/faisalsaifii)
@@ -294,7 +293,6 @@ Yash Rustogi
 - [errare-humanum-est1](https://github.com/errare-humanum-est1)
 - [Jalebium69](https://github.com/jesherjoshua)
 - [marioluiss](https://github.com/MarioLuiss)
-- [Prince Shah@DevsocPI](https://github.com/Ireignadler809)
 - [Bojidar Vladimirov](https://github.com/BojidarV)
 - [Cocozin13](https://github.com/Cocozin13)
 - [Yuvraj Seegolam](https://github.com/yuvraj108c)
@@ -426,6 +424,7 @@ Yash Rustogi
 - [Dixon Loo](https://github.com/dxnlu)
 - [Jose Armando](https://github.com/Armando-Grados)
 - [Sathish Kumar Saminathan](https://github.com/satissssss)
+- [Garvit Srivastava@DevSocPI](https://github.com/Garvit-Srivastava)
 - [MAHASAPU](https://github.com/MahasApu)
 - [Sarah Mukuti](https://github.com/cesarWrites)
 - [Bharat Mishra](https://github.com/BMlookingforaW)
