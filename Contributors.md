@@ -1,7 +1,6 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-- [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001)
 aditya bagla
 Reetish Rath
 [Pranjay Yelkotwar] @DevSocInductions
@@ -628,7 +627,7 @@ Yash Rustogi
 - [Chhaganlaal](https://github.com/Chhaganlaal)
 - [Chandra Kiran](https://github.com/chandra-kiran1)
 - [Aryan Thakore](https://github.com/Aryan1982)
-- [Tanishq Agarwal](https://github.com/Tanishq2807)
+- [Tanishq Agarwal](https://github.com/Tanishq2807) @DevSocPI
 - [Hamza Nehme](https://github.com/hnehme99)
 - [Hippolyte Thomas](https://github.com/hippothomas)
 - [Alexis Gonzalez](https://github.com/Alex-is-Gonzalez)
