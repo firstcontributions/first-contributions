@@ -18,6 +18,7 @@ Reetish Rath
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - 
 Yash Rustogi
+- [Tasnim Chaviwala@DevsocPI](https://github.com/tasnim496)
 - [Aryan Bansal @devsocPI]
 - [Ayush Raj @DevsocPI]. (https://github.com/Aayuraju)
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
@@ -857,4 +858,3 @@ Yash Rustogi
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
-- [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
