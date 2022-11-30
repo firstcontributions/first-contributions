@@ -113,6 +113,7 @@ Yash Rustogi
 - [John Harold Sipat]
 - [Sanchay Sahay]@DevsocPI
 - [Nathan FAbio](https://github.com/nathanfabio)
+- [Parth Naik]@DevsocPI
 - [Vibhav Joshi](https://github.com/DATTU005)
 - [Kripa Sindhu](https://github.com/kripasindhu-007)
 - [Jayanth](https://github.com/iamjayanthr)
