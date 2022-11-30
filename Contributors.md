@@ -2,7 +2,6 @@
 
 <!-- prettier-ignore-start -->
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
-- [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001)
 aditya bagla
@@ -367,6 +366,7 @@ Yash Rustogi
 - [Prakhar Bhatia](https://github.com/prakharbhatia4)
 - [vinthara](https://github.com.vinthara)
 - [Vaibhavi Gaur](https://github.com/vai14-gaur)
+- [Shrey Saraf]@devsocPI
 - [Julio Lezcano](https://github.com/lezcano17)
 - [Om Patil]@devsocPI
 - [Dhriti](https://github.com/Dhriti-singh)
@@ -858,4 +858,3 @@ Yash Rustogi
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
-- [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
