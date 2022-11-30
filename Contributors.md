@@ -1,7 +1,6 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-- [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001)
 aditya bagla
 Reetish Rath
 [Pranjay Yelkotwar] @DevSocInductions
@@ -830,6 +829,7 @@ Yash Rustogi
 - [Le Thai Anh](https://github.com/lethaianhle)
 - [czc](https://github.com/czc-gd)
 - [Nguyen Dang Quy](https://github.com/dangquyit)
+- [Aryan Bansal @devsocPI](https://github.com/oye-aryan)
 - [Zac Nation](https://github.com/zacnation)
 - [Salwa Mansour](https://github.com/Salwa-mansour)
 - [Sleepypeanut] (https://github.com/sleepypeanut)
