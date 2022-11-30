@@ -81,6 +81,7 @@
 - [Sabir Khan](https://github.com/simplysabir)
 - [Dennis Macharia Njogu](https://github.com/Mashnjogu)
 - [Hrushabhsingh Chouhan](https://github.com/hrushabhchouhan)
+- [Gautam Agarwal @DevsocPI](https://github.com/Gautambpgc)
 - [Aman Bharti](https://github.com/aman0ab)
 - [Sanskar Jain](https://github.com/SanskarJain007)
 - [Archishman Dash](https://www.github.com/aholic-archie)
