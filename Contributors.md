@@ -31,6 +31,7 @@ Yash Rustogi
 - [Pradeep Kurapati] (https://github.com/Pradeep-Kurapati)
 - [Aibek Z] (https://github.com/aibekz)
 - [Mohak Jain DevSoC pre inductions]
+- [Tasnim Chaviwala@DevsocPI](https://github.com/tasnim496)
 - [Yash Rathi}@DevsocPI
 - [Faisal Saifi](https://github.com/faisalsaifii)
 - [Vishal Kanwar](https://github.com/Kanvi1)
@@ -201,7 +202,6 @@ Yash Rustogi
 - [Anmol Bansal](https://github.com/AnmolBansalDEV)
 - [Adeolu Oyinlola](https://github.com/deoluoyinlola)
 - [John Jacoby]
-- [kanav upadhyay](https://github.com/Sigmistic2k4)
 - [Alisher Muzaffarov](https://github.com/aliml92)
 - [Jessica Nam](https://github.com/jessica-nam)
 - [Apeksha Arora](http://github.com/apekshasan)
@@ -825,6 +825,5 @@ Yash Rustogi
 - [Harshvardhan Mestha @DevsocPI](https://github.com/Harshvardhan-Mestha)
 - [Preet Gupta@devsoc](https://github.com/preetgupta32)
 - [Yash Jhawar@devsocPI](https://github.com/yash-jhawar007)
-- [kartavya@devsoc](https://github.com/Chrollucilfer)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
