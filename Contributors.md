@@ -2,7 +2,6 @@
 
 <!-- prettier-ignore-start -->
 aditya bagla
-[Pranjay Yelkotwar] @DevSocInductions
 - [Kshitij Verma@DevsocPI](https://github.com/melon9829)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
@@ -13,7 +12,6 @@ Yash Rustogi
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
 - aumkar@DevsocPI
-- [Akshaj Jha@DevSocPI](https://github.com/Akshajha07)
 - [Pranay Chakravarty@devsocPI](https://github.com/Mr-Mystic)
 - [Sasmit Datta @DevsocPI](https://github.com/Sasopsy)
 - [Shardul Tomat@DevsocPI](https://github.com/ShardulT04)
@@ -41,12 +39,10 @@ Yash Rustogi
 - Ronit Kunkolienker @DevSoc PI
 - Nishant Raghuvanshi @DevSoc PI
 - [Alvin James Bellero](https://github.com/shiftEscape)
-- [Tanay Shenoy @DevsocPI](https://github.com/TanayCodes)
 - [Hidayatullah](https://github.com/dayatnhbtc)
 - [Adlizone](https://github.com/adlizone)
 - [Palak Sinha](https://github.com/sinhapalak)
 - [Ravi Ranjan Kumar](https://github.com/iam-ravi-11)
-- [Hruday K] @ Devsoc PI  (https://github.com/hrudayk46)
 - [Alleznav] (https://github.com/Alleznav)
 - [Nipun] (https://github.com/nipunupekshana)
 - [Praveen Dias](https://github.com/praveendias1180)
@@ -108,8 +104,7 @@ Yash Rustogi
 - [Mohamed Djebloun](https://github.com/mohameddjebloun)
 - [Vanshagra Rai](https://github.com/VanshagraRai)
 - [Ausawin Saehaan](https://github.com/saehaana)
-- [Rajiv Galgali]
-- [Fvoice](https://github.com/facelessvoice)
+- [Rajiv Galgali
 - [Jeffrey Neal](https://github.com/ToastBubbles)
 - [Khant Sithu Zaw](https://github.com/KHANT-SITHUZAW)
 - [Divya Kaushik](https://github.com/divya1515)
@@ -124,7 +119,7 @@ Yash Rustogi
 - [Archishman Dash](https://www.github.com/aholic-archie)
 - [Amit Narine](https://github.com/amitnarine)
 - [Ahmed Kaid](https://github.com/Ahmed-Kaid)
-- Belkacem Mezhoud
+- [Ronit@DevSocPI](https://github.com/Ronit0104123)
 - [Esta es mi primer contribucion](https://github.com/PabloCH23)
 - [Alex Zhao](https://github.com/zyunfeng)
 - [Gregory John](https://github.com/GregLJ)
@@ -436,7 +431,6 @@ Yash Rustogi
 - [Abishek Reddy](https://github.com/Abishek-Reddy)
 - [Sahil Wankhade](https://github.com/ArcheR1901)
 - [Roberto](https://github.com/VespuccioTech)
-- [Ramakrishnan Raghavan@ DevsocPI](https://github.com/Ramakrishnan-R7)
 - [Abdullatif Khayat](https://github.com/Abdullatif-K123)
 - [Ayasha](https://github.com/AyashaSikilkar)
 - [Varun Kumar](https://github.com/kukutapuvarun)
@@ -832,7 +826,6 @@ Yash Rustogi
 - [Preet Gupta@devsoc](https://github.com/preetgupta32)
 - [Yash Jhawar@devsocPI](https://github.com/yash-jhawar007)
 - [kartavya@devsoc](https://github.com/Chrollucilfer)
-- [Divyam Joshi](https://github.com/iamgroot9)@devsoc
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
