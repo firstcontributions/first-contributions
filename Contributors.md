@@ -2,9 +2,9 @@
 
 <!-- prettier-ignore-start -->
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
-- [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001)
+- [Manish GS Parmar@DevSocPI](https://github.com/ManishWho)
 aditya bagla
 Reetish Rath
 [Dhruv Pandey@Devsoc](https://github.com/dhruv12pandey)
@@ -858,4 +858,3 @@ Yash Rustogi
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
-- [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
