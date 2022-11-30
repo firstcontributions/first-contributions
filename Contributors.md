@@ -84,6 +84,7 @@ Yash Rustogi
 - [Mahadsid](https://github.com/Mahadsid)
 - [Trevor Ang](https://github.com/TrevorAng)
 - [Ema Omere]
+- [Adithya sau@DEVSOCPI](https://github.com/Adisauz)
 - [arnavjain@devsocpi](https://github.com/Arnavjain244)
 - [Lesh Chadick](https://github.com/lesh2)
 - [Julian Schmid](https://github.com/KingNexu)
@@ -100,7 +101,6 @@ Yash Rustogi
 - [Harsa Dash](https://github.com/harsadas)
 - [Gopalakrishnan J](https://github.com/Gopalakrishnan20)
 - [Omarali1020](https://github.com/Omarali1020)
-- [Dhruvt]
 - [Hansie Kristi](https://github.com/hansie23)
 - [Giovanni Palleschi](https://github.com/gpalleschi)
 - [Redsam](https://github.com/Redsamx)
