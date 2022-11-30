@@ -220,6 +220,7 @@ Yash Rustogi
 - [Moustafa Hassan](https://github.com/MoustafaHassan1)
 - [Rajat Agrawal](https://github.com/RajatAgrawal117)
 - [Ahad Ansari](https://github.com/AhadAns)
+- Reetish Rath @DevsOc
 - [Brendan Tuckerman](https://github.com/MrMaverick79/)
 - [Renz Sira](https://github.com/rcsira)
 - [Rounak Shrestha](https://github.com/Rounak-stha)
@@ -829,4 +830,3 @@ Yash Rustogi
 - [kartavya@devsoc](https://github.com/Chrollucilfer)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
-[Siddharth Thakur]@devsoc pi
