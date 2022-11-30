@@ -165,7 +165,8 @@ Yash Rustogi
 - [Md. Zahidul Islam](https://github.com/JahidHasanCO)
 - [Brandon Andrews](https://github.com/brandrewsss)
 - [Gabriel Fernandes](https://github.com/GabrielFernandes251)
-- [Lorenzo Francisco](https://github.com/lozo6)
+- [Lorenzo Francisco](https://github.com/lozo6)\
+- [Arkaprava Roy@DevSocPI]
 - [Tim Judy](https://github.com/tljudy)
 - [Berzan Tas](https://github.com/BerzanTas)
 - [Pratyush Tyagi](https://github.com/Pratyush0612)
