@@ -11,6 +11,7 @@ Yash Rustogi
 - [Aryan Bansal @devsocPI]
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
+- [vandan doshi](https://github.com/Vandan19)
 - aumkar@DevsocPI
 - [Pranay Chakravarty@devsocPI](https://github.com/Mr-Mystic)
 - [Sasmit Datta @DevsocPI](https://github.com/Sasopsy)
@@ -829,4 +830,3 @@ Yash Rustogi
 - [kartavya@devsoc](https://github.com/Chrollucilfer)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
-[Siddharth Thakur]@devsoc pi
