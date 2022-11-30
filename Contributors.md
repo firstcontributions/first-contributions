@@ -4,6 +4,7 @@
 - [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001)
 aditya bagla
 Reetish Rath
+[Dhruv Pandey@Devsoc](https://github.com/dhruv12pandey)
 [Pranjay Yelkotwar] @DevSocInductions
 - [Kshitij Verma@DevsocPI](https://github.com/melon9829)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
