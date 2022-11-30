@@ -124,7 +124,6 @@ Yash Rustogi
 - [Vanshagra Rai](https://github.com/VanshagraRai)
 - [Ausawin Saehaan](https://github.com/saehaana)
 - [Rajiv Galgali]
--[VAGEESHA GUPTA@DevsocPI](https://github.com/Forestelf6)
 - [Fvoice](https://github.com/facelessvoice)
 - [Jeffrey Neal](https://github.com/ToastBubbles)
 - [Khant Sithu Zaw](https://github.com/KHANT-SITHUZAW)
@@ -488,6 +487,7 @@ Yash Rustogi
 - [Aman Khatri](https://github.com/Amank927)
 - [divya](https://github.com/Divya2k05)
 - [Arunima Chaudhuri](https://github.com/tinniaru3005)
+- [Arman Kumar Aditya@DevsocPI]
 - [Domenico Ivan Fortuna](https://github.com/dromex22)
 - [Celeste Dubini](https://github.com/celestedubini)
 - [Aksheet10](https://github.com/Aksheet10)
