@@ -8,6 +8,8 @@
 - [Arman Karimi](https://github.com/iArmanKarimi/)
 - [SleepyPeanut] (https://github.com/sleepypeanut)
 - [Pradeep Kurapati] (https://github.com/Pradeep-Kurapati)
+- [Divyansh Singh @devsoc pre induction]
+- [Taksh Paresh Patel @devsoc pre induction]
 - [Aibek Z] (https://github.com/aibekz)
 - [Faisal Saifi](https://github.com/faisalsaifii)
 - [Vishal Kanwar](https://github.com/Kanvi1)
@@ -198,7 +200,6 @@
 - [Bruno De Paula 🚀](https://github.com/Gr33nLight)
 - [Sudarsan Balaji](https://github.com/artfuldev)
 - [jatin kumar](https://github.com/jatin75757)
-- [Barnamoy Roy](https://github.com/Ed-Monkey)
 - [ahmad nawaz khan](https://github.com/4hmaad)
 - [Ishita Batra](https://github.com/ishita6)
 - [Devanshu Mahapatra](https://github.com/Devanshu-17)
@@ -777,6 +778,7 @@
 - [Harish Krishnan](https://github.com/dirtyKitchen)
 - [Ketan Kulkarni] (https://github.com/kulketan)
 - [Zherish Galvin Mayordo](https://github.com/zhrssh)
+
 - [Le Thai Anh](https://github.com/lethaianhle)
 - [czc](https://github.com/czc-gd)
 - [Nguyen Dang Quy](https://github.com/dangquyit)
