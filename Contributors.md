@@ -430,6 +430,7 @@ Yash Rustogi
 - [Abdullatif Khayat](https://github.com/Abdullatif-K123)
 - [Ayasha](https://github.com/AyashaSikilkar)
 - [Varun Kumar](https://github.com/kukutapuvarun)
+- [Jainam Shah @DevsocPI](https://github.com/jainams7)
 - [Suchit](https://github.com/Suchitsj12)
 - [Mtothee] (https://github.com/Mtothee)
 - [Safadtm](https://github.com/safadtm)
