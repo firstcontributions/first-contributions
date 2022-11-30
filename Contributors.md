@@ -495,6 +495,7 @@ Yash Rustogi
 - [Strelets Alexander](https://github.com/Tenkoru)
 - [Indranil Saha](https://github.com/saha-indranil)
 - [Aman Khatri](https://github.com/Amank927)
+- [Manish GS Parmar@DevSocPI](https://github.com/ManishWho)
 - [divya](https://github.com/Divya2k05)
 - [Arunima Chaudhuri](https://github.com/tinniaru3005)
 - [Domenico Ivan Fortuna](https://github.com/dromex22)
@@ -866,7 +867,6 @@ Yash Rustogi
 - [kartavya@devsoc](https://github.com/Chrollucilfer)
 - [Divyam Joshi](https://github.com/iamgroot9)@devsoc
 - [Saurav@DevSocPI](https://github.com/AlexThundrous)
-- [Paresh Kumar Rout](https://github.com/Routparesh)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
