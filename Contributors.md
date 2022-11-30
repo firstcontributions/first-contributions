@@ -1,13 +1,10 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-aditya bagla
-[Pranjay Yelkotwar] @DevSocInductions
 - [Kshitij Verma@DevsocPI](https://github.com/melon9829)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
-- 
 Yash Rustogi
 - [Aryan Bansal @devsocPI]
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
@@ -34,6 +31,7 @@ Yash Rustogi
 - [Mohak Jain DevSoC pre inductions]
 - [Yash Rathi}@DevsocPI
 - [Faisal Saifi](https://github.com/faisalsaifii)
+- [DhruvTandon]@DevsocPI
 - [Vishal Kanwar](https://github.com/Kanvi1)
 - Aniket Sonawane @Devsoc
 - Shamit Khetan @DevSoc
@@ -44,7 +42,6 @@ Yash Rustogi
 - [Adlizone](https://github.com/adlizone)
 - [Palak Sinha](https://github.com/sinhapalak)
 - [Ravi Ranjan Kumar](https://github.com/iam-ravi-11)
-- [Hruday K] @ Devsoc PI  (https://github.com/hrudayk46)
 - [Alleznav] (https://github.com/Alleznav)
 - [Nipun] (https://github.com/nipunupekshana)
 - [Praveen Dias](https://github.com/praveendias1180)
@@ -116,7 +113,6 @@ Yash Rustogi
 - [Sabir Khan](https://github.com/simplysabir)
 - [Dennis Macharia Njogu](https://github.com/Mashnjogu)
 - [Hrushabhsingh Chouhan](https://github.com/hrushabhchouhan)
-- [Gautam Agarwal @DevsocPI](https://github.com/Gautambpgc)
 - [Aman Bharti](https://github.com/aman0ab)
 - [Sanskar Jain](https://github.com/SanskarJain007)
 - [Archishman Dash](https://www.github.com/aholic-archie)
@@ -203,7 +199,6 @@ Yash Rustogi
 - [Anmol Bansal](https://github.com/AnmolBansalDEV)
 - [Adeolu Oyinlola](https://github.com/deoluoyinlola)
 - [John Jacoby]
-- [kanav upadhyay](https://github.com/Sigmistic2k4)
 - [Alisher Muzaffarov](https://github.com/aliml92)
 - [Jessica Nam](https://github.com/jessica-nam)
 - [Apeksha Arora](http://github.com/apekshasan)
@@ -216,7 +211,6 @@ Yash Rustogi
 - [Pratyaksh Sinha](https://github.com/PratyakshSinha)
 - [Mehran Shahbaz](https://github.com/mehranShG)
 - [wfrsk](hhpts://github.com/wfrsk)
-- [Sasmit Datta @DevsocPI](https://github.com/Sasopsy)
 - [Khalid-Hasan](https://github.com/khalidx3)
 - [David Lopez](https://github.com/davidnoelopez)
 - [Moustafa Hassan](https://github.com/MoustafaHassan1)
@@ -367,11 +361,11 @@ Yash Rustogi
 - [Aayush Arora](https://github.com/AroraAayush)
 - [Anand pratap singh](https://github.com/rishu-singh9695)
 - [Michelle Wong](https://github.com/strawberrie68/)
+- [Pray Raskapoorwala]@DevSocPI
 - [Suraj Patra](https://github.com/Suraj-Patra)
 - [Mallela D. Vinay](https://github.com/MD571)
 - [Mariam Lawal](https://github.com/Maerryham)
 - [ADITI-2003](https://github.com/ADITI-2003)
-- [prkahar@devsocpi](https://github.com/crazykursor)
 - [Glitchr](https://github.com/Glitchr)
 - [Shabeeb PV](https://github.com/shabeebleo)
 - [Sakshi](https://github.com/sagupta8399)
@@ -434,11 +428,9 @@ Yash Rustogi
 - [Abishek Reddy](https://github.com/Abishek-Reddy)
 - [Sahil Wankhade](https://github.com/ArcheR1901)
 - [Roberto](https://github.com/VespuccioTech)
-- [Ramakrishnan Raghavan@ DevsocPI](https://github.com/Ramakrishnan-R7)
 - [Abdullatif Khayat](https://github.com/Abdullatif-K123)
 - [Ayasha](https://github.com/AyashaSikilkar)
 - [Varun Kumar](https://github.com/kukutapuvarun)
-- [Jainam Shah @DevsocPI](https://github.com/jainams7)
 - [Suchit](https://github.com/Suchitsj12)
 - [Mtothee] (https://github.com/Mtothee)
 - [Safadtm](https://github.com/safadtm)
@@ -509,7 +501,6 @@ Yash Rustogi
 - [Daniel Jeffrey Nibbs](https://github.com/Jeff-Nibbs)
 - [jeongwoo903](https://github.com/jeongwoo903)
 - [Desmond-Fon](https://github.com/Desmond-Fon)
-- [tanish desai@DevsocPI](https://github.com/tanish111)
 - [Srijanya Durganala](https://github.com/Srijanya.D)
 - [Sean Colligan](https://github.com/srcengine)
 - [TusharPramanick](https://github.com/TusharPramanick)
@@ -829,7 +820,5 @@ Yash Rustogi
 - [Harshvardhan Mestha @DevsocPI](https://github.com/Harshvardhan-Mestha)
 - [Preet Gupta@devsoc](https://github.com/preetgupta32)
 - [Yash Jhawar@devsocPI](https://github.com/yash-jhawar007)
-- [kartavya@devsoc](https://github.com/Chrollucilfer)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
-[Siddharth Thakur]@devsoc pi
