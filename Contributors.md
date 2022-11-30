@@ -1,7 +1,6 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-[Shardul Tomat@DevsocPI](https://github.com/ShardulT04)
 - [Devansh Mehta@DevsocPI](https://github.com/Coderpromax8)
 - [Utkarsh@DevsocPI](https://github.com/0xAnon0602)
 - [Pawan Yadav](https://github.com/pawanyy)
@@ -38,7 +37,6 @@
 - [Somanshu Rath @ DevSoc](https://github.com/somra)
 - [Fryz](https://github.com/Fryzzz)
 - [Bhavana Garlapati] (https://github.com/bhavanagarlapati)
-- [Medhansh Kumar] @DevSocPI (https://github.com/medanceee)
   [Boby Tiwari](https://github.com/Boby900)
 - [Rojon Ali](https://github.com/rojon009)
 - [Melvin Aguilar](https://github.com/MelvinAguilar)
@@ -83,6 +81,7 @@
 - [Vanshagra Rai](https://github.com/VanshagraRai)
 - [Ausawin Saehaan](https://github.com/saehaana)
 - [Rajiv Galgali]
+- [Aarav Shah](https://github.com/Aaravsh) @DevSocPI
 - [Fvoice](https://github.com/facelessvoice)
 - [Jeffrey Neal](https://github.com/ToastBubbles)
 - [Khant Sithu Zaw](https://github.com/KHANT-SITHUZAW)
