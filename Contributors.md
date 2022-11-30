@@ -30,6 +30,7 @@
 - [Lakshan Perera](https://github.com/0xluckycode)
 - [Chouaieb Nemri](https://github.com/cnemri)
 - [Odejobi Peter](https://github.com/rinwaoluwa)
+- [Aadi Sharma @DevsocPI]
 - [Fryz](https://github.com/Fryzzz)
 - [Bhavana Garlapati] (https://github.com/bhavanagarlapati)
   [Boby Tiwari](https://github.com/Boby900)
