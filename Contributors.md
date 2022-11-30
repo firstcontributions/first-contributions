@@ -1,14 +1,11 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-- [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001)
 aditya bagla
 Reetish Rath
 [Pranjay Yelkotwar] @DevSocInductions
 - [Kshitij Verma@DevsocPI](https://github.com/melon9829)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
-- [Shrey Gupta@DevsocPI](https://github.com/gupta-shrey)
-
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - 
@@ -37,7 +34,6 @@ Yash Rustogi
 - [SleepyPeanut] (https://github.com/sleepypeanut)
 - [Pradeep Kurapati] (https://github.com/Pradeep-Kurapati)
 - [Aibek Z] (https://github.com/aibekz)
-- [Aadi Joshi @DevsocPI]
 - [Mohak Jain DevSoC pre inductions]
 - [Yash Rathi}@DevsocPI
 - [Faisal Saifi](https://github.com/faisalsaifii)
@@ -294,7 +290,6 @@ Yash Rustogi
 - [errare-humanum-est1](https://github.com/errare-humanum-est1)
 - [Jalebium69](https://github.com/jesherjoshua)
 - [marioluiss](https://github.com/MarioLuiss)
-- [Prince Shah@DevsocPI](https://github.com/Ireignadler809)
 - [Bojidar Vladimirov](https://github.com/BojidarV)
 - [Cocozin13](https://github.com/Cocozin13)
 - [Yuvraj Seegolam](https://github.com/yuvraj108c)
@@ -628,6 +623,7 @@ Yash Rustogi
 - [Muneeb Shahid](https://github.com/muneeb706)
 - [Rami Shawwa](https://edbtz.com)
 - [Chhaganlaal](https://github.com/Chhaganlaal)
+- [Shruti Rout]@DevsocPI(https://github.com/shrutirout)
 - [Chandra Kiran](https://github.com/chandra-kiran1)
 - [Aryan Thakore](https://github.com/Aryan1982)
 - [Tanishq Agarwal](https://github.com/Tanishq2807)
@@ -711,7 +707,7 @@ Yash Rustogi
 - [TJ Albertson](https://github.com/TJ-Albertson)
 - [Ruthik Jadhav](https://github.com/Ruthik130201)
 - [Sagar Bhatt Karia](https://github.com/sagarbk0)
-- [Vladimir Cvejanov](https://github.com/VladenCode)
+- [Piali Sarkar @DevsocPI](https://github.com/piali7)
 - [Carlos Americo](https://github.com/caducoder)
 - [Suman Raj](https://github.com/the-suman)
 - [Megan Moulos](https://github.com/meganmoulos/)
