@@ -10,6 +10,7 @@ aditya bagla
 - 
 Yash Rustogi
 - [Aryan Bansal @devsocPI]
+- [Ayush Raj @DevsocPI]. (https://github.com/Aayuraju)
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
 - aumkar@DevsocPI
