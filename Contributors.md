@@ -5,7 +5,8 @@
 aditya bagla
 Reetish Rath
 [Pranjay Yelkotwar] @DevSocInductions
-- [Kshitij Verma@DevsocPI](https://github.com/melon9829)
+- [Kshitij Verma@DevsocPI](https://github.com/melon9829) 
+- [Divyansh Dabral @DevsocPI]
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Shrey Gupta@DevsocPI](https://github.com/gupta-shrey)
 
@@ -37,7 +38,6 @@ Yash Rustogi
 - [SleepyPeanut] (https://github.com/sleepypeanut)
 - [Pradeep Kurapati] (https://github.com/Pradeep-Kurapati)
 - [Aibek Z] (https://github.com/aibekz)
-- [Aadi Joshi @DevsocPI]
 - [Mohak Jain DevSoC pre inductions]
 - [Yash Rathi}@DevsocPI
 - [Faisal Saifi](https://github.com/faisalsaifii)
