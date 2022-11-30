@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
+- [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001)
 aditya bagla
