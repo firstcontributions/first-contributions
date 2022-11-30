@@ -131,6 +131,7 @@ Yash Rustogi
 - [Sudarhan Mallibhat](https://github.com/sudarshanmg)
 - [Bogdan Otava](https://github.com/BogdanOtava)
 - [something-ai-hash](https://github.com/something-ai-hash)
+- [Chanthru00](https://github.com/Chanthru00)
 - [John Harold Sipat]
 - [Sanchay Sahay]@DevsocPI
 - [Nathan FAbio](https://github.com/nathanfabio)
