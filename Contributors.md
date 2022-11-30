@@ -2,7 +2,6 @@
 
 <!-- prettier-ignore-start -->
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
-- [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 Yash Rustogi
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - [Pranay Chakravarty@devsocPI](https://github.com/Mr-Mystic)
@@ -357,6 +356,7 @@ Yash Rustogi
 - [ADITI-2003](https://github.com/ADITI-2003)
 - [Glitchr](https://github.com/Glitchr)
 - [Shabeeb PV](https://github.com/shabeebleo)
+- [Vikhyat Gupta@DevsocPI](https://github.com/Vikhyat0908)
 - [Sakshi](https://github.com/sagupta8399)
 - [Krombopulos](https://github.com/krombopulos-eddie)
 - [Muskan](https://github.com/Muskan-Git-Code)
