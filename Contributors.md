@@ -877,6 +877,7 @@ Yash Rustogi
 - [Paresh Kumar Rout](https://github.com/Routparesh)
 - [Basant Singh Dobal 👨‍💻](https://github.com/basantsd)
 - [Julia Kuchle](https://github.com/JuliaGK)
+- [Marek Wasilczuk](https://github.com/tw-mwasilczuk)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
