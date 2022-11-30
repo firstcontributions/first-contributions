@@ -10,7 +10,7 @@ Reetish Rath
 - [Kshitij Verma@DevsocPI](https://github.com/melon9829)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Shrey Gupta@DevsocPI](https://github.com/gupta-shrey)
-
+- [Tasnim Chaviwala@DevsocPI](https://github.com/tasnim496)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - 
