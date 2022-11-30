@@ -623,6 +623,7 @@ Yash Rustogi
 - [Chhaganlaal](https://github.com/Chhaganlaal)
 - [Chandra Kiran](https://github.com/chandra-kiran1)
 - [Aryan Thakore](https://github.com/Aryan1982)
+- [Tanishq Agarwal](https://github.com/Tanishq2807)
 - [Hamza Nehme](https://github.com/hnehme99)
 - [Hippolyte Thomas](https://github.com/hippothomas)
 - [Alexis Gonzalez](https://github.com/Alex-is-Gonzalez)
