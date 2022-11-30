@@ -13,6 +13,7 @@
 - [Aibek Z] (https://github.com/aibekz)
 - [Faisal Saifi](https://github.com/faisalsaifii)
 - [Vishal Kanwar](https://github.com/Kanvi1)
+- Aniket Sonawane @Devsoc
 - [Alvin James Bellero](https://github.com/shiftEscape)
 - [Hidayatullah](https://github.com/dayatnhbtc)
 - [Adlizone](https://github.com/adlizone)
