@@ -21,7 +21,7 @@ Reetish Rath
 
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
-- 
+- Manav
 Yash Rustogi
 - [Aryan Bansal @devsocPI]
 - Moksh@DEVSOCPI
