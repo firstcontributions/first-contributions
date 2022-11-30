@@ -12,7 +12,6 @@
 - [SleepyPeanut] (https://github.com/sleepypeanut)
 - [Pradeep Kurapati] (https://github.com/Pradeep-Kurapati)
 - [Aibek Z] (https://github.com/aibekz)
-- [Yash Rathi}@DevsocPI
 - [Faisal Saifi](https://github.com/faisalsaifii)
 - [Vishal Kanwar](https://github.com/Kanvi1)
 - Aniket Sonawane @Devsoc
@@ -33,7 +32,6 @@
 - [Lakshan Perera](https://github.com/0xluckycode)
 - [Chouaieb Nemri](https://github.com/cnemri)
 - [Odejobi Peter](https://github.com/rinwaoluwa)
-- [Somanshu Rath @ DevSoc](https://github.com/somra)
 - [Fryz](https://github.com/Fryzzz)
 - [Bhavana Garlapati] (https://github.com/bhavanagarlapati)
   [Boby Tiwari](https://github.com/Boby900)
@@ -792,6 +790,6 @@
 - [Salwa Mansour](https://github.com/Salwa-mansour)
 - [Sleepypeanut] (https://github.com/sleepypeanut)
 - [Ali Zain Aldeen] (https://github.com/ali-zain-aldeen)
-- [Harshvardhan Mestha @DevsocPI](https://github.com/Harshvardhan-Mestha)
+- [OmPatil@DevsocPI]
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
