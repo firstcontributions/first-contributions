@@ -66,7 +66,7 @@ Yash Rustogi
 - [Hidayatullah](https://github.com/dayatnhbtc)
 - [Adlizone](https://github.com/adlizone)
 - [Palak Sinha](https://github.com/sinhapalak)
-- [Ravi Ranjan Kumar](https://github.com/iam-ravi-11)
+- Paras Topwal@DevSoc.PI
 - [Hruday K] @ Devsoc PI  (https://github.com/hrudayk46)
 - [Alleznav] (https://github.com/Alleznav)
 - [Nipun] (https://github.com/nipunupekshana)
