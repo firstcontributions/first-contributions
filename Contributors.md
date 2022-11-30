@@ -345,6 +345,7 @@ Yash Rustogi
 - [Shreya Dubey](https://github.com/ShreyaDubey1001)
 - [LaplancheMaxime](https://github.com/LaplancheMaxime)
 - [Vicky Grover](https://github.com/LaplancheMaxime)
+- [Nishad Kotkar]@Devsoc PI
 - [Siddhant Majumder](https://github.com/Codeworm08)
 - [Soumyadip Bhowmik](https://github.com/SoumyadipBhowmik)
 - [Alex Reveles](https://github.com/aajj333)
@@ -654,7 +655,6 @@ Yash Rustogi
 - [André Carvalhal](https://github.com/ANDREC1986)
 - [Rahul Saha](https://github.com/Rahul10Saha)
 - [Vishal](https://github.com/VishalPraneeth)
-- [ritu kumar sharma @ devsocc]
 - [Sadiq Siraj Ebrahim](https://github.com/sadiqebrahim)
 - [Wajid Ali Tabassum](https://github.com/wajidalitabassum143)
 - [Manvendra Prasad](https://github.com/Manv3ndra)
@@ -813,7 +813,6 @@ Yash Rustogi
 - [Wai Ho](https://github.com/hevi1991)
 - [Tosin Akinyemi](https://github.com/Tosin77/)
 - [newird](https://github.com/newird/)
-- [Vikhyat Gupta@DevsocPI](https://github.com/Vikhyat0908)
 - [Harsa Dash](https://github.com/harsadas)
 - [Jiao Liu](https://github.com/ildnyy)
 - [Leonel Santos](https://github.com/leonelSantos)
