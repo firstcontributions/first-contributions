@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Just Checking]
+- [Pawan Yadav](https://github.com/pawanyy)
 - [Jiving Pete's Frisky Dynamite](https://github.com/jives-mcgee)
 - [Shivani R](https://github.com/shivu-srk)
 - [Arman Karimi](https://github.com/iArmanKarimi/)
