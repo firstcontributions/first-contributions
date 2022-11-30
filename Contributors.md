@@ -365,6 +365,7 @@ Yash Rustogi
 - [vinthara](https://github.com.vinthara)
 - [Vaibhavi Gaur](https://github.com/vai14-gaur)
 - [Julio Lezcano](https://github.com/lezcano17)
+- [Om Patil]@devsocPI
 - [Dhriti](https://github.com/Dhriti-singh)
 - [Haseeb Ahmad Siddiqui](https://github.com/hasebsiddiqui)
 - [Dominic R.](https://github.com/jD2R)
