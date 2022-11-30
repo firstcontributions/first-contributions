@@ -694,6 +694,7 @@ Yash Rustogi
 - [Sang2006](https://github.com/Sang2006)
 - [Teju_1212](https://github.com/teju_1212)
 - [Aaron Geo Binoy](https://github.com/aarongeo1)
+- [Divyansh Dabral @DevsocPI]
 - [Rakshit Gupta](https://github.com/rakshitgupta23)
 - [Sameera Dissanayaka](https://github.com/ceylonprogrammer)
 - [Chirag Chakraborty](https://github.com/noobchirag69)
@@ -811,6 +812,5 @@ Yash Rustogi
 - [Ali Zain Aldeen] (https://github.com/ali-zain-aldeen)
 - [Harshvardhan Mestha @DevsocPI](https://github.com/Harshvardhan-Mestha)
 - [Preet Gupta@devsoc](https://github.com/preetgupta32)
-- [Yash Jhawar@devsocPI](https://github.com/yash-jhawar007)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
