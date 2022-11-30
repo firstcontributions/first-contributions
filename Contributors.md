@@ -831,3 +831,4 @@ Yash Rustogi
 - [kartavya@devsoc](https://github.com/Chrollucilfer)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
+[Siddharth Thakur]@devsoc pi
