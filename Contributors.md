@@ -18,6 +18,7 @@ Yash Rustogi
 - [Aryan Bansal @devsocPI]
 - [Ayush Raj @DevsocPI]. (https://github.com/Aayuraju)
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
+- [Prabhav Srivastava@Devsoc](https://github.com/prabhavsrivastava)
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
 - aumkar@DevsocPI
 - [Akshaj Jha@DevSocPI](https://github.com/Akshajha07)
@@ -812,7 +813,6 @@ Yash Rustogi
 - [Wai Ho](https://github.com/hevi1991)
 - [Tosin Akinyemi](https://github.com/Tosin77/)
 - [newird](https://github.com/newird/)
-- [Vikhyat Gupta@DevsocPI](https://github.com/Vikhyat0908)
 - [Harsa Dash](https://github.com/harsadas)
 - [Jiao Liu](https://github.com/ildnyy)
 - [Leonel Santos](https://github.com/leonelSantos)
