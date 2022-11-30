@@ -1,7 +1,6 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-- [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001)
 aditya bagla
 Reetish Rath
 [Pranjay Yelkotwar] @DevSocInductions
@@ -729,6 +728,7 @@ Yash Rustogi
 - [Jesse Gerbrandt](https://github.com/Jgerbrandt)
 - [Aditya Singhal](https://github.com/adityaacse)
 - [PDPkrypto](https://github.com/kodevasse)
+- [Nishad Kotkar]@Devsoc PI
 - [Utsav Akash Naskar](https://github.com/Utsav1999)
 - [Anish Doshi](https://github.com/doshianish8)
 - [Saurabh Sinha](https://github.com/sinhasaurabh3104)
