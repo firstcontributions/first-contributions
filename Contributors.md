@@ -66,6 +66,7 @@ Yash Rustogi
 - [Hein Htet Zaw](https://github.com/Hendrickhz)
 - [s-t-e-v](https://github.com/s-t-e-v)
 - [Mahadsid](https://github.com/Mahadsid)
+- [Swayam Shah@DevsocPi](https://github.com/swayM08)
 - [Trevor Ang](https://github.com/TrevorAng)
 - [Ema Omere]
 - [arnavjain@devsocpi](https://github.com/Arnavjain244)
@@ -829,4 +830,3 @@ Yash Rustogi
 - [kartavya@devsoc](https://github.com/Chrollucilfer)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
-[Siddharth Thakur]@devsoc pi
