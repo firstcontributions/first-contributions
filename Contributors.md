@@ -880,6 +880,7 @@ Yash Rustogi
 - [Basant Singh Dobal 👨‍💻](https://github.com/basantsd)
 - [Julia Kuchle](https://github.com/JuliaGK)
 - [Marek Wasilczuk](https://github.com/tw-mwasilczuk)
+- [John-Paul Wernecke](https://github.com/Revicx)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
