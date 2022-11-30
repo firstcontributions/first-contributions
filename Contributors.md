@@ -45,6 +45,7 @@
 - [Mohamed Abidar](https://github.com/abidarm)
 - [Amir](https://github.com/amir-repository)
 - [Chandan kumar Chaudhary](https://github.com/chands)
+- [Kripa Sindhu](https://github.com/kripasindhu-007)
 - [Xiyue Zhang](https://github.com/xiyueuyix)
 - [Mikan](https://github.com/mika-alpha)
 - [Mahabub Arafat](https://github.com/MahabubArafat)
@@ -67,6 +68,7 @@
 - [John Harold Sipat]
 - [Nathan FAbio](https://github.com/nathanfabio)
 - [Vibhav Joshi](https://github.com/DATTU005)
+- [Kripa Sindhu](https://github.com/kripasindhu-007)
 - [Jayanth](https://github.com/iamjayanthr)
 - [Mohamed Djebloun](https://github.com/mohameddjebloun)
 - [Vanshagra Rai](https://github.com/VanshagraRai)
