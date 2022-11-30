@@ -16,6 +16,7 @@ Yash Rustogi
 - [Pawan Yadav](https://github.com/pawanyy)
 - [CherylChaudhari@DevsocPI]
 - [Saptarshi Ghosh @devsoc2022](https://github.com/zack-carnet)
+- [Sreeram P @DevSoc](https://github.com/sreeramps10)
 - [Somnath Golui](https://github.com/somu-code)
 - [Jiving Pete's Frisky Dynamite](https://github.com/jives-mcgee)
 - [Abhijeet]@DevsocPI
