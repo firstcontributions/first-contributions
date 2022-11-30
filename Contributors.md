@@ -40,7 +40,6 @@ Yash Rustogi
 - Ronit Kunkolienker @DevSoc PI
 - Nishant Raghuvanshi @DevSoc PI
 - [Alvin James Bellero](https://github.com/shiftEscape)
-- [Tanay Shenoy @DevsocPI](https://github.com/TanayCodes)
 - [Hidayatullah](https://github.com/dayatnhbtc)
 - [Adlizone](https://github.com/adlizone)
 - [Palak Sinha](https://github.com/sinhapalak)
@@ -785,7 +784,7 @@ Yash Rustogi
 - [kan01234](https://github.com/kan01234/)
 - [lazylittlestar](https://github.com/lazylittlestar)
 - [EvyatarEsterson🙂](https://github.com/EvyatarEsterson)
-- [isaacc16](https://github.com/isaacc16)
+- Piali Sarkar @DevsocPI
 - [cameron lee](https://github.com/cameronslee23)
 - [André Correa](https://github.com/dartmol203)
 - [fehlicks](https://github.com/fehlicks)
@@ -831,7 +830,6 @@ Yash Rustogi
 - [Preet Gupta@devsoc](https://github.com/preetgupta32)
 - [Yash Jhawar@devsocPI](https://github.com/yash-jhawar007)
 - [kartavya@devsoc](https://github.com/Chrollucilfer)
-- [Divyam Joshi](https://github.com/iamgroot9)@devsoc
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
