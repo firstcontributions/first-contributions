@@ -1,7 +1,6 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-- [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001)
 aditya bagla
@@ -11,7 +10,6 @@ Reetish Rath
 - [Kshitij Verma@DevsocPI](https://github.com/melon9829)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Shrey Gupta@DevsocPI](https://github.com/gupta-shrey)
-- Meet Dedhia@DevsocPI
 
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
@@ -68,7 +66,7 @@ Yash Rustogi
 - [Hasibur Rahman](https://github.com/hasiburdev)
 - [Melek Msakni](https://github.com/melekmsakni)
 - [Lakshan Perera](https://github.com/0xluckycode)
-- [Rajiv Galgali]@devsocPI
+- [Paras Topwal]@devsocpi
 - [Chouaieb Nemri](https://github.com/cnemri)
 - [Odejobi Peter](https://github.com/rinwaoluwa)
 - [Somanshu Rath @ DevSoc](https://github.com/somra)
@@ -365,7 +363,6 @@ Yash Rustogi
 - [vinthara](https://github.com.vinthara)
 - [Vaibhavi Gaur](https://github.com/vai14-gaur)
 - [Julio Lezcano](https://github.com/lezcano17)
-- [Om Patil]@devsocPI
 - [Dhriti](https://github.com/Dhriti-singh)
 - [Haseeb Ahmad Siddiqui](https://github.com/hasebsiddiqui)
 - [Dominic R.](https://github.com/jD2R)
@@ -612,7 +609,6 @@ Yash Rustogi
 - [Joshua Knorz](https://github.com/JoshKn)
 - [Tri Pham](https://github.com/TriMPham98)
 - [Vishvesh Pratap Singh](https://github.com/Vish221)
-- Akhil Sai K@DevsocPI
 - [iParadocx](https://github.com/iParadocx)
 - [Aditya Pudaruth](https://github.com/Aditya-Pudaruth)
 - [Aman Choudhary](https://github.com/aman-choudhary1)
@@ -658,7 +654,6 @@ Yash Rustogi
 - [André Carvalhal](https://github.com/ANDREC1986)
 - [Rahul Saha](https://github.com/Rahul10Saha)
 - [Vishal](https://github.com/VishalPraneeth)
-- [ritu kumar sharma @ devsocc]
 - [Sadiq Siraj Ebrahim](https://github.com/sadiqebrahim)
 - [Wajid Ali Tabassum](https://github.com/wajidalitabassum143)
 - [Manvendra Prasad](https://github.com/Manv3ndra)
@@ -817,7 +812,6 @@ Yash Rustogi
 - [Wai Ho](https://github.com/hevi1991)
 - [Tosin Akinyemi](https://github.com/Tosin77/)
 - [newird](https://github.com/newird/)
-- [Vikhyat Gupta@DevsocPI](https://github.com/Vikhyat0908)
 - [Harsa Dash](https://github.com/harsadas)
 - [Jiao Liu](https://github.com/ildnyy)
 - [Leonel Santos](https://github.com/leonelSantos)
