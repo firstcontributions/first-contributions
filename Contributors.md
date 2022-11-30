@@ -43,7 +43,6 @@ Yash Rustogi
 - [Adlizone](https://github.com/adlizone)
 - [Palak Sinha](https://github.com/sinhapalak)
 - [Ravi Ranjan Kumar](https://github.com/iam-ravi-11)
-- [Hruday K] @ Devsoc PI  (https://github.com/hrudayk46)
 - [Alleznav] (https://github.com/Alleznav)
 - [Nipun] (https://github.com/nipunupekshana)
 - [Praveen Dias](https://github.com/praveendias1180)
@@ -270,6 +269,7 @@ Yash Rustogi
 - [divijaa](https://github.com/divijaa)
 - [ngweishen99](https://github.com/ngweishen99)
 - [Avedis_Yapoudjian](https://github.com/AvedisY)
+- <harshit kapoor>@DevsocPI
 - [xa49](https://github.com/xa49)
 - [Charlie Hird](https://github.com/cjhird)
 - [bytesofbec](https://github.com/bytesofbec)
