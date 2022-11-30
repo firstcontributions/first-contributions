@@ -48,6 +48,7 @@ Yash Rustogi
 - [Praveen Dias](https://github.com/praveendias1180)
 - [Daniel Ervanda](https://github.com/dnd7)
 - [Lukas de VIPART](https://github.com/Rekch)
+- [Dhruv Tandon}@DevsocPI
 - [Krunal Patel](https://github.com/kd05)
 - [al-imam](https://github.com/al-imam)
 - [Hasibur Rahman](https://github.com/hasiburdev)
@@ -829,4 +830,3 @@ Yash Rustogi
 - [kartavya@devsoc](https://github.com/Chrollucilfer)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
-[Siddharth Thakur]@devsoc pi
