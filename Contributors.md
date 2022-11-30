@@ -6,13 +6,13 @@
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 Yash Rustogi
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
-- [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
 - [Pranay Chakravarty@devsocPI](https://github.com/Mr-Mystic)
 - [Sasmit Datta @DevsocPI](https://github.com/Sasopsy)
 - [Shardul Tomat@DevsocPI](https://github.com/ShardulT04)
 - [Devansh Mehta@DevsocPI](https://github.com/Coderpromax8)
 - [harsh rathi@DevSocPI](hhtps;//github.com/harshrathi12)
 - [Utkarsh@DevsocPI](https://github.com/0xAnon0602)
+- [Amogh Tarun@DevsocPI](https://github.com/Am0gusTarun)
 - [Pawan Yadav](https://github.com/pawanyy)
 - [CherylChaudhari@DevsocPI]
 - [Saptarshi Ghosh @devsoc2022](https://github.com/zack-carnet)
@@ -810,6 +810,5 @@ Yash Rustogi
 - [Sleepypeanut] (https://github.com/sleepypeanut)
 - [Ali Zain Aldeen] (https://github.com/ali-zain-aldeen)
 - [Harshvardhan Mestha @DevsocPI](https://github.com/Harshvardhan-Mestha)
-- [Preet Gupta@devsoc](https://github.com/preetgupta32)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
