@@ -6,6 +6,7 @@
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 Yash Rustogi
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
+- Aumkar@DevsocPI
 - [Pranay Chakravarty@devsocPI](https://github.com/Mr-Mystic)
 - [Sasmit Datta @DevsocPI](https://github.com/Sasopsy)
 - [Shardul Tomat@DevsocPI](https://github.com/ShardulT04)
