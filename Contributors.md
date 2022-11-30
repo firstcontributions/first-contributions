@@ -1,36 +1,16 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-- [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
-- [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
-- [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
-Yash Rustogi
-- [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
-- [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
-- [Pranay Chakravarty@devsocPI](https://github.com/Mr-Mystic)
-- [Sasmit Datta @DevsocPI](https://github.com/Sasopsy)
-- [Shardul Tomat@DevsocPI](https://github.com/ShardulT04)
-- [Devansh Mehta@DevsocPI](https://github.com/Coderpromax8)
-- [harsh rathi@DevSocPI](hhtps;//github.com/harshrathi12)
-- [Utkarsh@DevsocPI](https://github.com/0xAnon0602)
 - [Pawan Yadav](https://github.com/pawanyy)
-- [CherylChaudhari@DevsocPI]
-- [Saptarshi Ghosh @devsoc2022](https://github.com/zack-carnet)
 - [Somnath Golui](https://github.com/somu-code)
 - [Jiving Pete's Frisky Dynamite](https://github.com/jives-mcgee)
-- [Abhijeet]@DevsocPI
 - [Shivani R](https://github.com/shivu-srk)
 - [Arman Karimi](https://github.com/iArmanKarimi/)
 - [SleepyPeanut] (https://github.com/sleepypeanut)
 - [Pradeep Kurapati] (https://github.com/Pradeep-Kurapati)
 - [Aibek Z] (https://github.com/aibekz)
-- [Mohak Jain DevSoC pre inductions]
-- [Yash Rathi}@DevsocPI
 - [Faisal Saifi](https://github.com/faisalsaifii)
 - [Vishal Kanwar](https://github.com/Kanvi1)
-- Aniket Sonawane @Devsoc
-- Shamit Khetan @DevSoc
-- Ronit Kunkolienker @DevSoc PI
 - [Alvin James Bellero](https://github.com/shiftEscape)
 - [Hidayatullah](https://github.com/dayatnhbtc)
 - [Adlizone](https://github.com/adlizone)
@@ -46,13 +26,10 @@ Yash Rustogi
 - [Hasibur Rahman](https://github.com/hasiburdev)
 - [Melek Msakni](https://github.com/melekmsakni)
 - [Lakshan Perera](https://github.com/0xluckycode)
-- [Rajiv Galgali]@devsocPI
 - [Chouaieb Nemri](https://github.com/cnemri)
 - [Odejobi Peter](https://github.com/rinwaoluwa)
-- [Somanshu Rath @ DevSoc](https://github.com/somra)
 - [Fryz](https://github.com/Fryzzz)
 - [Bhavana Garlapati] (https://github.com/bhavanagarlapati)
-- [Medhansh Kumar] @DevSocPI (https://github.com/medanceee)
   [Boby Tiwari](https://github.com/Boby900)
 - [Rojon Ali](https://github.com/rojon009)
 - [Melvin Aguilar](https://github.com/MelvinAguilar)
@@ -89,14 +66,12 @@ Yash Rustogi
 - [Bogdan Otava](https://github.com/BogdanOtava)
 - [something-ai-hash](https://github.com/something-ai-hash)
 - [John Harold Sipat]
-- [Sanchay Sahay]@DevsocPI
 - [Nathan FAbio](https://github.com/nathanfabio)
 - [Vibhav Joshi](https://github.com/DATTU005)
 - [Jayanth](https://github.com/iamjayanthr)
 - [Mohamed Djebloun](https://github.com/mohameddjebloun)
 - [Vanshagra Rai](https://github.com/VanshagraRai)
 - [Ausawin Saehaan](https://github.com/saehaana)
-- [Rajiv Galgali]
 - [Fvoice](https://github.com/facelessvoice)
 - [Jeffrey Neal](https://github.com/ToastBubbles)
 - [Khant Sithu Zaw](https://github.com/KHANT-SITHUZAW)
@@ -223,6 +198,7 @@ Yash Rustogi
 - [Bruno De Paula 🚀](https://github.com/Gr33nLight)
 - [Sudarsan Balaji](https://github.com/artfuldev)
 - [jatin kumar](https://github.com/jatin75757)
+- [Barnamoy Roy](https://github.com/Ed-Monkey)
 - [ahmad nawaz khan](https://github.com/4hmaad)
 - [Ishita Batra](https://github.com/ishita6)
 - [Devanshu Mahapatra](https://github.com/Devanshu-17)
@@ -441,7 +417,6 @@ Yash Rustogi
 - [Yatndeep Dubey](https://github.com/Yatndeep)
 - [Autumn Ouellette](https://github.com/Autumn-Ou)
 - [Fatin Almalik](https://github.com/Fatin-Almalik)
-- [Ayananshu Mohanty]@DevsocPI
 - [Mohammad Mubaslat](https://github.com/mohammadmubaslat)
 - [Arnaduga](https://github.com/arnaduga)
 - [PatentLobster](https://github.com/PatentLobster)
@@ -809,7 +784,7 @@ Yash Rustogi
 - [Salwa Mansour](https://github.com/Salwa-mansour)
 - [Sleepypeanut] (https://github.com/sleepypeanut)
 - [Ali Zain Aldeen] (https://github.com/ali-zain-aldeen)
-- [Harshvardhan Mestha @DevsocPI](https://github.com/Harshvardhan-Mestha)
-- [Preet Gupta@devsoc](https://github.com/preetgupta32)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
+
+[Kushagra Tanwar]@DevSoc PI (https://github.com/Kushuuu617)
