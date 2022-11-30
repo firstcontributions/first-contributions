@@ -2,11 +2,11 @@
 
 <!-- prettier-ignore-start -->
 aditya bagla
-[Pranjay Yelkotwar] @DevSocInductions
 - [Kshitij Verma@DevsocPI](https://github.com/melon9829)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
+- [Prince Shah@DevsocPI](https://github.com/Ireignadler809)
 - 
 Yash Rustogi
 - [Aryan Bansal @devsocPI]
@@ -44,7 +44,6 @@ Yash Rustogi
 - [Adlizone](https://github.com/adlizone)
 - [Palak Sinha](https://github.com/sinhapalak)
 - [Ravi Ranjan Kumar](https://github.com/iam-ravi-11)
-- [Hruday K] @ Devsoc PI  (https://github.com/hrudayk46)
 - [Alleznav] (https://github.com/Alleznav)
 - [Nipun] (https://github.com/nipunupekshana)
 - [Praveen Dias](https://github.com/praveendias1180)
@@ -434,7 +433,6 @@ Yash Rustogi
 - [Abishek Reddy](https://github.com/Abishek-Reddy)
 - [Sahil Wankhade](https://github.com/ArcheR1901)
 - [Roberto](https://github.com/VespuccioTech)
-- [Ramakrishnan Raghavan@ DevsocPI](https://github.com/Ramakrishnan-R7)
 - [Abdullatif Khayat](https://github.com/Abdullatif-K123)
 - [Ayasha](https://github.com/AyashaSikilkar)
 - [Varun Kumar](https://github.com/kukutapuvarun)
