@@ -824,5 +824,6 @@ Yash Rustogi
 - [Harshvardhan Mestha @DevsocPI](https://github.com/Harshvardhan-Mestha)
 - [Preet Gupta@devsoc](https://github.com/preetgupta32)
 - [Yash Jhawar@devsocPI](https://github.com/yash-jhawar007)
+- [Garvit Srivastava@DevSocPI](https://github.com/Garvit-Srivastava)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
