@@ -5,6 +5,7 @@
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [Pratik Ghosh]
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
+- [Loic Mavah Tseket@DevsocPI](https://github.com/loic242)
 - Parth Shah@DevsocPI
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
