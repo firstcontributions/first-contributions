@@ -5,6 +5,7 @@
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 Yash Rustogi
+[Dhruv Tandon}@DevsocPI
 - [Aryan Bansal @devsocPI]
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
@@ -33,7 +34,6 @@ Yash Rustogi
 - Aniket Sonawane @Devsoc
 - Shamit Khetan @DevSoc
 - Ronit Kunkolienker @DevSoc PI
-- Nishant Raghuvanshi @DevSoc PI
 - [Alvin James Bellero](https://github.com/shiftEscape)
 - [Hidayatullah](https://github.com/dayatnhbtc)
 - [Adlizone](https://github.com/adlizone)
