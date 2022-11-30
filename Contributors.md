@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
+Yash Rustogi
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - [Sasmit Datta @DevsocPI](https://github.com/Sasopsy)
 - [Shardul Tomat@DevsocPI](https://github.com/ShardulT04)
