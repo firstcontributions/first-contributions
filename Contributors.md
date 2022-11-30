@@ -30,6 +30,7 @@ Yash Rustogi
 - [Pawan Yadav](https://github.com/pawanyy)
 - [CherylChaudhari@DevsocPI]
 - [Saptarshi Ghosh @devsoc2022](https://github.com/zack-carnet)
+- Moksh Handa@DEVSOCPI
 - [Sreeram P @DevSoc](https://github.com/sreeramps10)
 - [Somnath Golui](https://github.com/somu-code)
 - [Khushboo Jain @DevSoc]
@@ -112,7 +113,6 @@ Yash Rustogi
 - [John Harold Sipat]
 - [Sanchay Sahay]@DevsocPI
 - [Nathan FAbio](https://github.com/nathanfabio)
-- [Parth Naik]@DevsocPI
 - [Vibhav Joshi](https://github.com/DATTU005)
 - [Jayanth](https://github.com/iamjayanthr)
 - [Mohamed Djebloun](https://github.com/mohameddjebloun)
