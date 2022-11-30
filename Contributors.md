@@ -43,13 +43,13 @@ Yash Rustogi
 - [Adlizone](https://github.com/adlizone)
 - [Palak Sinha](https://github.com/sinhapalak)
 - [Ravi Ranjan Kumar](https://github.com/iam-ravi-11)
-- [Hruday K] @ Devsoc PI  (https://github.com/hrudayk46)
 - [Alleznav] (https://github.com/Alleznav)
 - [Nipun] (https://github.com/nipunupekshana)
 - [Praveen Dias](https://github.com/praveendias1180)
 - [Daniel Ervanda](https://github.com/dnd7)
 - [Lukas de VIPART](https://github.com/Rekch)
 - [Krunal Patel](https://github.com/kd05)
+- [Jatin Gahlot @DevSocPreInduction]
 - [al-imam](https://github.com/al-imam)
 - [Hasibur Rahman](https://github.com/hasiburdev)
 - [Melek Msakni](https://github.com/melekmsakni)
@@ -830,4 +830,3 @@ Yash Rustogi
 - [kartavya@devsoc](https://github.com/Chrollucilfer)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
-[Siddharth Thakur]@devsoc pi
