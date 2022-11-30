@@ -293,6 +293,7 @@ Yash Rustogi
 - [errare-humanum-est1](https://github.com/errare-humanum-est1)
 - [Jalebium69](https://github.com/jesherjoshua)
 - [marioluiss](https://github.com/MarioLuiss)
+- [Prince Shah@DevsocPI](https://github.com/Ireignadler809)
 - [Bojidar Vladimirov](https://github.com/BojidarV)
 - [Cocozin13](https://github.com/Cocozin13)
 - [Yuvraj Seegolam](https://github.com/yuvraj108c)
