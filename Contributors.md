@@ -112,7 +112,6 @@ Yash Rustogi
 - [John Harold Sipat]
 - [Sanchay Sahay]@DevsocPI
 - [Nathan FAbio](https://github.com/nathanfabio)
-- [Parth Naik]@DevsocPI
 - [Vibhav Joshi](https://github.com/DATTU005)
 - [Jayanth](https://github.com/iamjayanthr)
 - [Mohamed Djebloun](https://github.com/mohameddjebloun)
@@ -762,6 +761,7 @@ Yash Rustogi
 - [Yash Thakur](https://github.com/philomathaf)
 - [Rajarshi Bhattacharya](https://github.com/rajarshi023)
 - [Adnan Ahmed](https://github.com/fidato818)
+- [ManbhavSugla](https://github.com/manbhavsugla48)
 - [Divesh Singla](https://github.com/Diveshsingla)
 - [Mandar Deshmukh](https://github.com/mandarsd18)
 - [Azzarox](https://github.com/azzarox)
