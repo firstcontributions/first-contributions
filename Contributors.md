@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
+- [Pratik Ghosh]
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - Parth Shah@DevsocPI
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
