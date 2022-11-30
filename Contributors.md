@@ -10,7 +10,6 @@ aditya bagla
 - 
 Yash Rustogi
 - [Aryan Bansal @devsocPI]
-- [Ayush Raj @DevsocPI]. (https://github.com/Aayuraju)
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
 - aumkar@DevsocPI
@@ -447,6 +446,7 @@ Yash Rustogi
 - [Safadtm](https://github.com/safadtm)
 - [Anandaram](https://github.com/raawwm/first-contributions)
 - [Gaby Victoria](https://github.com/GabyVictoria0122)
+- [ANSH BHARGAVA]@DevsocPI
 - [Craig Putzstuck](https://github.com/argounova)
 - [Corentin Gouanvic](https://github.com/Stoaties)
 - [Sherly Febrianti](https://github.com/sherlyfebrianti96)
@@ -835,7 +835,6 @@ Yash Rustogi
 - [Yash Jhawar@devsocPI](https://github.com/yash-jhawar007)
 - [kartavya@devsoc](https://github.com/Chrollucilfer)
 - [Divyam Joshi](https://github.com/iamgroot9)@devsoc
-- [Saurav@DevSocPI](https://github.com/AlexThundrous)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
