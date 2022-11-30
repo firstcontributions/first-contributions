@@ -1,7 +1,6 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-Yash Rustogi
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - [Sasmit Datta @DevsocPI](https://github.com/Sasopsy)
 - [Shardul Tomat@DevsocPI](https://github.com/ShardulT04)
@@ -14,6 +13,7 @@ Yash Rustogi
 - [Somnath Golui](https://github.com/somu-code)
 - [Jiving Pete's Frisky Dynamite](https://github.com/jives-mcgee)
 - [Abhijeet]@DevsocPI
+- [Om Patil]@DevsocPI
 - [Shivani R](https://github.com/shivu-srk)
 - [Arman Karimi](https://github.com/iArmanKarimi/)
 - [SleepyPeanut] (https://github.com/sleepypeanut)
