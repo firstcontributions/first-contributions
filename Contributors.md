@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start -->
 aditya bagla
-[Pranjay Yelkotwar] @DevSocInductions
+- [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001)
 - [Kshitij Verma@DevsocPI](https://github.com/melon9829)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
@@ -434,7 +434,6 @@ Yash Rustogi
 - [Abishek Reddy](https://github.com/Abishek-Reddy)
 - [Sahil Wankhade](https://github.com/ArcheR1901)
 - [Roberto](https://github.com/VespuccioTech)
-- [Ramakrishnan Raghavan@ DevsocPI](https://github.com/Ramakrishnan-R7)
 - [Abdullatif Khayat](https://github.com/Abdullatif-K123)
 - [Ayasha](https://github.com/AyashaSikilkar)
 - [Varun Kumar](https://github.com/kukutapuvarun)
