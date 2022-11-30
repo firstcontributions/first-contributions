@@ -23,6 +23,7 @@ Yash Rustogi
 - [Aryan Bansal @devsocPI]
 - Moksh@DEVSOCPI
 - [Ayush Raj @DevsocPI]. (https://github.com/Aayuraju)
+- [Jatin Gahlot @DevSocPI]
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
 - aumkar@DevsocPI
