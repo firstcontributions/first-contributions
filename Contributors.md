@@ -611,6 +611,7 @@ Yash Rustogi
 - [Shravan Seth](https://github.com/ShravanSeth)
 - [Shaavi Gupta](https://github.com/ShaaviGupta)
 - [Sai Rohit](https://github.com/sairohit360)
+- [Vrishti Godhwani@DevSocPI]
 - [James Anyalewechi](https://github.com/jamesgotech)
 - [Dibakar Upadhyaya](https://github.com/Dibakar01)
 - [Johan Kreivi](https://github.com/0h4y)
@@ -623,7 +624,6 @@ Yash Rustogi
 - [Chhaganlaal](https://github.com/Chhaganlaal)
 - [Chandra Kiran](https://github.com/chandra-kiran1)
 - [Aryan Thakore](https://github.com/Aryan1982)
-- [Tanishq Agarwal](https://github.com/Tanishq2807)
 - [Hamza Nehme](https://github.com/hnehme99)
 - [Hippolyte Thomas](https://github.com/hippothomas)
 - [Alexis Gonzalez](https://github.com/Alex-is-Gonzalez)
