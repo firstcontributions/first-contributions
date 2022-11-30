@@ -40,7 +40,6 @@ Yash Rustogi
 - Ronit Kunkolienker @DevSoc PI
 - Nishant Raghuvanshi @DevSoc PI
 - [Alvin James Bellero](https://github.com/shiftEscape)
-- [Tanay Shenoy @DevsocPI](https://github.com/TanayCodes)
 - [Hidayatullah](https://github.com/dayatnhbtc)
 - [Adlizone](https://github.com/adlizone)
 - [Palak Sinha](https://github.com/sinhapalak)
@@ -187,6 +186,7 @@ Yash Rustogi
 - [Erik Opinaldo](https://github.com/erikopinaldo)
 - [Utpal Savaliya](https://github.com/utpalsavliya)
 - [stardustgd](https://github.com/stardustgd)
+- [Adithya sau@DEVSOCPI](https://github.com/Adisauz)
 - [Sandeep Krishna Donepudi](https://github.com/skdonepudi)
 - [ramettan](https://github.com/ramettan)
 - [mahalakshmikutcharlapati](https://github.com/mahalakshmikutcharlapati)
