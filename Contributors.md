@@ -1,7 +1,6 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-- [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001)
 aditya bagla
 Reetish Rath
 [Pranjay Yelkotwar] @DevSocInductions
@@ -11,6 +10,7 @@ Reetish Rath
 
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
+- Prabhav Srivastava@DevsocPI
 - 
 Yash Rustogi
 - [Aryan Bansal @devsocPI]
