@@ -1,7 +1,6 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-- [Kshitij Verma@DevsocPI](https://github.com/melon9829)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
@@ -19,7 +18,6 @@ Yash Rustogi
 - [Pawan Yadav](https://github.com/pawanyy)
 - [CherylChaudhari@DevsocPI]
 - [Saptarshi Ghosh @devsoc2022](https://github.com/zack-carnet)
-- [Sreeram P @DevSoc](https://github.com/sreeramps10)
 - [Somnath Golui](https://github.com/somu-code)
 - [Jiving Pete's Frisky Dynamite](https://github.com/jives-mcgee)
 - [Abhijeet]@DevsocPI
@@ -329,6 +327,7 @@ Yash Rustogi
 - [Alex Reveles](https://github.com/aajj333)
 - [Samuel Oluyede](https://github.com/Masei25)
 - [Ankush](https://github.com/ankushrai999)
+- [Rajat Srivastava@DevsocPI]
 - [Phillip Chu](https://github.com/phillippchu)
 - [Assogba charbel](https://github.com/charbossly)
 - [Aazim Parwaz](https://github.com/Aazim-parwaz)
