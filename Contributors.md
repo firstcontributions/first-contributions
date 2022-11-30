@@ -812,6 +812,7 @@ Yash Rustogi
 - [Wai Ho](https://github.com/hevi1991)
 - [Tosin Akinyemi](https://github.com/Tosin77/)
 - [newird](https://github.com/newird/)
+- [Vikhyat Gupta@DevsocPI](https://github.com/Vikhyat0908)
 - [Harsa Dash](https://github.com/harsadas)
 - [Jiao Liu](https://github.com/ildnyy)
 - [Leonel Santos](https://github.com/leonelSantos)
