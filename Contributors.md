@@ -398,8 +398,8 @@ Yash Rustogi
 - [Pankaj Adhikari](https://github.com/Pankaj809)
 - [shashank-gupta](https://github.com/shashank-2310/)
 - [bungbloopity](https://github.com/bungbloopity/)
-- [Mohammed Arshad](https://github.com/mohammedarshad18)
-- [Ezrl](https://github.com/ezrl-621)
+- [Sohan Palekar@DevsocPI]
+- [Sohan@DevsocPI]
 - [Aleksandr Bochkarev](https://github.com/sash00k/)
 - [Dylan Messerly](https://github.com/CodeDTX11)
 - [Zhenya Mateyuk](https://github.com/jEUGENEdev/)
