@@ -93,6 +93,7 @@
 - [Juanma Romero](https://github.com/juanmaroni/)
 - [Chhabi Acharya](https://github.com/Chhabii)
 - [Sai Ram](https://github.com/Saira2002)
+- [Ajmal Wali](https://github.com/ajmal2002)
 - [Theunis Victor](https://github.com/TVictor)
 - [Jeevan Naik](https://github.com/JeevanNaikOP)
 - [Lien Font](https://github.com/90sPixelDev)
@@ -778,6 +779,10 @@
 - [Zac Nation](https://github.com/zacnation)
 - [Salwa Mansour](https://github.com/Salwa-mansour)
 - [Sleepypeanut] (https://github.com/sleepypeanut)
+<<<<<<< add-joker45op
 - [joker45op](https://github.com/joker45op)
+=======
+- [Ali Zain Aldeen] (https://github.com/ali-zain-aldeen)
+>>>>>>> main
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
