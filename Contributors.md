@@ -1,7 +1,6 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-- [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001)
 aditya bagla
 Reetish Rath
 [Pranjay Yelkotwar] @DevSocInductions
@@ -84,6 +83,7 @@ Yash Rustogi
 - [Limoo Kiplimo](https://github.com/Limookiplimo)
 - [Arnav Joshi] (https://githuyb.com/TheOfficialAJ)
 - [Mohamed Abidar](https://github.com/abidarm)
+- [DhruvTa]@DevsocPI
 - [Amir](https://github.com/amir-repository)
 - [Chandan kumar Chaudhary](https://github.com/chands)
 - [Xiyue Zhang](https://github.com/xiyueuyix)
