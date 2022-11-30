@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
+- [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001)
 aditya bagla
 Reetish Rath
 [Pranjay Yelkotwar] @DevSocInductions
