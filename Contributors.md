@@ -796,5 +796,6 @@
 - [Sleepypeanut] (https://github.com/sleepypeanut)
 - [Ali Zain Aldeen] (https://github.com/ali-zain-aldeen)
 - [Harshvardhan Mestha @DevsocPI](https://github.com/Harshvardhan-Mestha)
+- [Tharun Chougoni @DevsocPI] (https://github.com/Tharun2019C)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
