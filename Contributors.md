@@ -1,11 +1,9 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-- [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001)
 aditya bagla
 Reetish Rath
-[Dhruv Pandey@Devsoc](https://github.com/dhruv12pandey)
 [Pranjay Yelkotwar] @DevSocInductions
 - [Kshitij Verma@DevsocPI](https://github.com/melon9829)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
@@ -32,7 +30,6 @@ Yash Rustogi
 - [Saptarshi Ghosh @devsoc2022](https://github.com/zack-carnet)
 - [Sreeram P @DevSoc](https://github.com/sreeramps10)
 - [Somnath Golui](https://github.com/somu-code)
-- [Khushboo Jain @DevSoc]
 - [Jiving Pete's Frisky Dynamite](https://github.com/jives-mcgee)
 - [Abhijeet]@DevsocPI
 - [Shivani R](https://github.com/shivu-srk)
@@ -112,7 +109,6 @@ Yash Rustogi
 - [John Harold Sipat]
 - [Sanchay Sahay]@DevsocPI
 - [Nathan FAbio](https://github.com/nathanfabio)
-- [Parth Naik]@DevsocPI
 - [Vibhav Joshi](https://github.com/DATTU005)
 - [Jayanth](https://github.com/iamjayanthr)
 - [Mohamed Djebloun](https://github.com/mohameddjebloun)
@@ -129,6 +125,7 @@ Yash Rustogi
 - [Dennis Macharia Njogu](https://github.com/Mashnjogu)
 - [Hrushabhsingh Chouhan](https://github.com/hrushabhchouhan)
 - [Gautam Agarwal @DevsocPI](https://github.com/Gautambpgc)
+- [Cyberduck2.0@DevsocPI]
 - [Aman Bharti](https://github.com/aman0ab)
 - [Sanskar Jain](https://github.com/SanskarJain007)
 - [Archishman Dash](https://www.github.com/aholic-archie)
