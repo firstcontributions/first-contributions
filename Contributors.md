@@ -26,6 +26,7 @@ Yash Rustogi
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
 - aumkar@DevsocPI
 - [VAGEESHA GUPTA@DevsocPI](https://github.com/Forestelf6)
+- [Neha Menon@DevsocPI](https://github.com/thenehamenon)
 - [Akshaj Jha@DevSocPI](https://github.com/Akshajha07)
 - [Pranay Chakravarty@devsocPI](https://github.com/Mr-Mystic)
 - [Sasmit Datta @DevsocPI](https://github.com/Sasopsy)
