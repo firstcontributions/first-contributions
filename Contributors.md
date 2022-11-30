@@ -9,6 +9,7 @@ Reetish Rath
 [Pranjay Yelkotwar] @DevSocInductions
 - [Kshitij Verma@DevsocPI](https://github.com/melon9829)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
+- [Sanskar Mundhra@DevsocPI](https://github.com/SunMoon97)
 - [Shrey Gupta@DevsocPI](https://github.com/gupta-shrey)
 
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
