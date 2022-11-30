@@ -779,5 +779,6 @@
 - [Zac Nation](https://github.com/zacnation)
 - [Salwa Mansour](https://github.com/Salwa-mansour)
 - [Sleepypeanut] (https://github.com/sleepypeanut)
+- [Ali Zain Aldeen] (https://github.com/ali-zain-aldeen)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
