@@ -872,7 +872,4 @@ Yash Rustogi
 - [Divyam Joshi](https://github.com/iamgroot9)@devsoc
 - [Saurav@DevSocPI](https://github.com/AlexThundrous)
 - [Paresh Kumar Rout](https://github.com/Routparesh)
-<!-- prettier-ignore-end -->
-Ulises Quiñonez
-[Siddharth Thakur]@devsoc pi
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
