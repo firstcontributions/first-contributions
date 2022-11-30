@@ -6,8 +6,6 @@ Reetish Rath
 [Pranjay Yelkotwar] @DevSocInductions
 - [Kshitij Verma@DevsocPI](https://github.com/melon9829)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
-- [Shrey Gupta@DevsocPI](https://github.com/gupta-shrey)
-
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - 
@@ -33,6 +31,7 @@ Yash Rustogi
 - [Abhijeet]@DevsocPI
 - [Shivani R](https://github.com/shivu-srk)
 - [Arman Karimi](https://github.com/iArmanKarimi/)
+- Tushar Nair @ DevSocPI
 - [SleepyPeanut] (https://github.com/sleepypeanut)
 - [Pradeep Kurapati] (https://github.com/Pradeep-Kurapati)
 - [Aibek Z] (https://github.com/aibekz)
@@ -625,6 +624,7 @@ Yash Rustogi
 - [Muneeb Shahid](https://github.com/muneeb706)
 - [Rami Shawwa](https://edbtz.com)
 - [Chhaganlaal](https://github.com/Chhaganlaal)
+- [Shruti Rout]@DevsocPI(https://github.com/shrutirout)
 - [Chandra Kiran](https://github.com/chandra-kiran1)
 - [Aryan Thakore](https://github.com/Aryan1982)
 - [Tanishq Agarwal](https://github.com/Tanishq2807)
