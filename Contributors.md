@@ -46,6 +46,7 @@ Yash Rustogi
 - [Praveen Dias](https://github.com/praveendias1180)
 - [Daniel Ervanda](https://github.com/dnd7)
 - [Lukas de VIPART](https://github.com/Rekch)
+- [R Sathvik]@DevsocPI
 - [Krunal Patel](https://github.com/kd05)
 - [al-imam](https://github.com/al-imam)
 - [Hasibur Rahman](https://github.com/hasiburdev)
@@ -66,7 +67,6 @@ Yash Rustogi
 - [Mahadsid](https://github.com/Mahadsid)
 - [Trevor Ang](https://github.com/TrevorAng)
 - [Ema Omere]
-- [arnavjain@devsocpi](https://github.com/Arnavjain244)
 - [Lesh Chadick](https://github.com/lesh2)
 - [Julian Schmid](https://github.com/KingNexu)
 - [Uras Varolgunes]
@@ -360,7 +360,6 @@ Yash Rustogi
 - [Aayush Arora](https://github.com/AroraAayush)
 - [Anand pratap singh](https://github.com/rishu-singh9695)
 - [Michelle Wong](https://github.com/strawberrie68/)
-- [Pray Raskapoorwala]@DevSocPI
 - [Suraj Patra](https://github.com/Suraj-Patra)
 - [Mallela D. Vinay](https://github.com/MD571)
 - [Mariam Lawal](https://github.com/Maerryham)
