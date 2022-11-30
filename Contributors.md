@@ -174,6 +174,7 @@ Yash Rustogi
 - [Mohit Marathe](https://github.com/Mohit2758)
 - [Edwin Kim](https://github.com/edwinkim97)
 - [Varun Shah](https://github.com/varunlmxd)
+- [Lasya Sandhu@DevsocPI](https://github.com/lasyasandhu)
 - [Samer Malique](https://github.com/sammal99)
 - [Javier Morales](https://github.com/jamg1906)
 - [Sreeraj Chintham](https://github.com/sreerajchintham)
@@ -829,4 +830,3 @@ Yash Rustogi
 - [kartavya@devsoc](https://github.com/Chrollucilfer)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
-[Siddharth Thakur]@devsoc pi
