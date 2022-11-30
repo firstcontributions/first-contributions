@@ -13,7 +13,6 @@ Yash Rustogi
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
 - aumkar@DevsocPI
-- [Akshaj Jha@DevSocPI](https://github.com/Akshajha07)
 - [Pranay Chakravarty@devsocPI](https://github.com/Mr-Mystic)
 - [Sasmit Datta @DevsocPI](https://github.com/Sasopsy)
 - [Shardul Tomat@DevsocPI](https://github.com/ShardulT04)
@@ -41,7 +40,6 @@ Yash Rustogi
 - Ronit Kunkolienker @DevSoc PI
 - Nishant Raghuvanshi @DevSoc PI
 - [Alvin James Bellero](https://github.com/shiftEscape)
-- [Tanay Shenoy @DevsocPI](https://github.com/TanayCodes)
 - [Hidayatullah](https://github.com/dayatnhbtc)
 - [Adlizone](https://github.com/adlizone)
 - [Palak Sinha](https://github.com/sinhapalak)
@@ -379,6 +377,7 @@ Yash Rustogi
 - [Sakshi](https://github.com/sagupta8399)
 - [Krombopulos](https://github.com/krombopulos-eddie)
 - [Muskan](https://github.com/Muskan-Git-Code)
+- [Pray Raskapoorwala]@DevSocPI
 - [Urmil Bhavsar](https://github.com/urmil22)
 - [Abhay Kshirsagar](https://github.com/AK6263/)
 - [Vedant Garhwal](https://github.com/vedant21-2005)
@@ -832,7 +831,6 @@ Yash Rustogi
 - [Preet Gupta@devsoc](https://github.com/preetgupta32)
 - [Yash Jhawar@devsocPI](https://github.com/yash-jhawar007)
 - [kartavya@devsoc](https://github.com/Chrollucilfer)
-- [Divyam Joshi](https://github.com/iamgroot9)@devsoc
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
