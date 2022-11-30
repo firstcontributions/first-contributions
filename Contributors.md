@@ -778,5 +778,6 @@
 - [Zac Nation](https://github.com/zacnation)
 - [Salwa Mansour](https://github.com/Salwa-mansour)
 - [Sleepypeanut] (https://github.com/sleepypeanut)
+- [joker45op](https://github.com/joker45op)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
