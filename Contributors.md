@@ -1,7 +1,6 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-- [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 Yash Rustogi
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - [Sasmit Datta @DevsocPI](https://github.com/Sasopsy)
@@ -68,6 +67,7 @@ Yash Rustogi
 - [Mikan](https://github.com/mika-alpha)
 - [Mahabub Arafat](https://github.com/MahabubArafat)
 - [Enoch Chirima](https://github.com/iamenochchirima)
+- [Dhruv]@DevsocPI
 - [Harsa Dash](https://github.com/harsadas)
 - [Gopalakrishnan J](https://github.com/Gopalakrishnan20)
 - [Omarali1020](https://github.com/Omarali1020)
