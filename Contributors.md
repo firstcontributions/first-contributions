@@ -1,14 +1,10 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-- [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001)
 aditya bagla
-Reetish Rath
 [Pranjay Yelkotwar] @DevSocInductions
 - [Kshitij Verma@DevsocPI](https://github.com/melon9829)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
-- [Shrey Gupta@DevsocPI](https://github.com/gupta-shrey)
-
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - 
@@ -75,6 +71,7 @@ Yash Rustogi
 - [Hein Htet Zaw](https://github.com/Hendrickhz)
 - [s-t-e-v](https://github.com/s-t-e-v)
 - [Mahadsid](https://github.com/Mahadsid)
+- [Sneh Prakash@DevSocPI](https://github.com/sneh-p04)
 - [Trevor Ang](https://github.com/TrevorAng)
 - [Ema Omere]
 - [arnavjain@devsocpi](https://github.com/Arnavjain244)
