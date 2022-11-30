@@ -3,7 +3,6 @@
 <!-- prettier-ignore-start -->
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
-- [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 Yash Rustogi
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - [Pranay Chakravarty@devsocPI](https://github.com/Mr-Mystic)
@@ -551,6 +550,7 @@ Yash Rustogi
 - [Sahil Ahmed](https://github.com/PirateOfAndaman)
 - [youngjun1227](https://github.com/youngjun1227)
 - [Preston Harms](https://github.com/R3dPnd)
+- [Tanishq Agarwal](https://github.com/Tanishq2807)
 - [kaushalgosaliya5](https://github.com/kaushalgosaliya5)
 - [Taaki](https://github.com/taaki2311)
 - [kaushalgosaliya5](https://github.com/kaushalgosaliya5)
