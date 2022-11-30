@@ -1,9 +1,20 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
+
 - [Pawan Yadav](https://github.com/pawanyy)
+- [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
+- [Sasmit Datta @DevsocPI](https://github.com/Sasopsy)
+- [Shardul Tomat@DevsocPI](https://github.com/ShardulT04)
+- [Devansh Mehta@DevsocPI](https://github.com/Coderpromax8)
+- [harsh rathi@DevSocPI](hhtps;//github.com/harshrathi12)
+- [Utkarsh@DevsocPI](https://github.com/0xAnon0602)
+- [Pawan Yadav](https://github.com/pawanyy)
+- [CherylChaudhari@DevsocPI]
+- [Saptarshi Ghosh @devsoc2022](https://github.com/zack-carnet)
 - [Somnath Golui](https://github.com/somu-code)
 - [Jiving Pete's Frisky Dynamite](https://github.com/jives-mcgee)
+- [Abhijeet]@DevsocPI
 - [Shivani R](https://github.com/shivu-srk)
 - [Arman Karimi](https://github.com/iArmanKarimi/)
 - [SleepyPeanut] (https://github.com/sleepypeanut)
@@ -30,6 +41,7 @@
 - [Odejobi Peter](https://github.com/rinwaoluwa)
 - [Fryz](https://github.com/Fryzzz)
 - [Bhavana Garlapati] (https://github.com/bhavanagarlapati)
+- [Medhansh Kumar] @DevSocPI (https://github.com/medanceee)
   [Boby Tiwari](https://github.com/Boby900)
 - [Rojon Ali](https://github.com/rojon009)
 - [Melvin Aguilar](https://github.com/MelvinAguilar)
