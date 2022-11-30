@@ -354,6 +354,7 @@
 - [Soy el Yisus](https://github.com/Jebushdd)
 - [Mila](https://github.com/jaetenty)
 - [Ayush Shete](https://github.com/ayushete02)
+- [Tanish Jadhav](https://github.com/tanish20j)
 - [Rishabh Gist](https://github.com/rishabhgist)
 - [Satyasuranjeet](https://github.com/Satyasuranjeet)
 - [Ritwika Das](www.linkedin.com/in/ritwika-das-1510a4207)
