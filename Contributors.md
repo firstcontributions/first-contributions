@@ -790,5 +790,6 @@
 - [Salwa Mansour](https://github.com/Salwa-mansour)
 - [Sleepypeanut] (https://github.com/sleepypeanut)
 - [Ali Zain Aldeen] (https://github.com/ali-zain-aldeen)
+- [Harshvardhan Mestha @DevsocPI](https://github.com/Harshvardhan-Mestha)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
