@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Utkarsh@DevsocPI](https://github.com/0xAnon0602)
+- <harhsit kapoor>@Devsoc@PI
 - [Pawan Yadav](https://github.com/pawanyy)
 - [Saptarshi Ghosh @devsoc2022](https://github.com/zack-carnet)
 - [Somnath Golui](https://github.com/somu-code)
