@@ -1,8 +1,6 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-[Shardul Tomat@DevsocPI](https://github.com/ShardulT04)
-- [Devansh Mehta@DevsocPI](https://github.com/Coderpromax8)
 - [Utkarsh@DevsocPI](https://github.com/0xAnon0602)
 - [Pawan Yadav](https://github.com/pawanyy)
 - [Saptarshi Ghosh @devsoc2022](https://github.com/zack-carnet)
@@ -13,11 +11,10 @@
 - [SleepyPeanut] (https://github.com/sleepypeanut)
 - [Pradeep Kurapati] (https://github.com/Pradeep-Kurapati)
 - [Aibek Z] (https://github.com/aibekz)
-- [Yash Rathi}@DevsocPI
 - [Faisal Saifi](https://github.com/faisalsaifii)
 - [Vishal Kanwar](https://github.com/Kanvi1)
-- Aniket Sonawane @Devsoc
 - [Alvin James Bellero](https://github.com/shiftEscape)
+- [Utkarsh Dwivedi@DevsocPI](https://github.com/DwivediUtkarsh)
 - [Hidayatullah](https://github.com/dayatnhbtc)
 - [Adlizone](https://github.com/adlizone)
 - [Palak Sinha](https://github.com/sinhapalak)
@@ -32,13 +29,10 @@
 - [Hasibur Rahman](https://github.com/hasiburdev)
 - [Melek Msakni](https://github.com/melekmsakni)
 - [Lakshan Perera](https://github.com/0xluckycode)
-- [Rajiv Galgali]@devsocPI
 - [Chouaieb Nemri](https://github.com/cnemri)
 - [Odejobi Peter](https://github.com/rinwaoluwa)
-- [Somanshu Rath @ DevSoc](https://github.com/somra)
 - [Fryz](https://github.com/Fryzzz)
 - [Bhavana Garlapati] (https://github.com/bhavanagarlapati)
-- [Medhansh Kumar] @DevSocPI (https://github.com/medanceee)
   [Boby Tiwari](https://github.com/Boby900)
 - [Rojon Ali](https://github.com/rojon009)
 - [Melvin Aguilar](https://github.com/MelvinAguilar)
@@ -75,14 +69,12 @@
 - [Bogdan Otava](https://github.com/BogdanOtava)
 - [something-ai-hash](https://github.com/something-ai-hash)
 - [John Harold Sipat]
-- [Sanchay Sahay]@DevsocPI
 - [Nathan FAbio](https://github.com/nathanfabio)
 - [Vibhav Joshi](https://github.com/DATTU005)
 - [Jayanth](https://github.com/iamjayanthr)
 - [Mohamed Djebloun](https://github.com/mohameddjebloun)
 - [Vanshagra Rai](https://github.com/VanshagraRai)
 - [Ausawin Saehaan](https://github.com/saehaana)
-- [Rajiv Galgali]
 - [Fvoice](https://github.com/facelessvoice)
 - [Jeffrey Neal](https://github.com/ToastBubbles)
 - [Khant Sithu Zaw](https://github.com/KHANT-SITHUZAW)
@@ -209,6 +201,7 @@
 - [Bruno De Paula 🚀](https://github.com/Gr33nLight)
 - [Sudarsan Balaji](https://github.com/artfuldev)
 - [jatin kumar](https://github.com/jatin75757)
+- [Barnamoy Roy](https://github.com/Ed-Monkey)
 - [ahmad nawaz khan](https://github.com/4hmaad)
 - [Ishita Batra](https://github.com/ishita6)
 - [Devanshu Mahapatra](https://github.com/Devanshu-17)
@@ -795,6 +788,5 @@
 - [Salwa Mansour](https://github.com/Salwa-mansour)
 - [Sleepypeanut] (https://github.com/sleepypeanut)
 - [Ali Zain Aldeen] (https://github.com/ali-zain-aldeen)
-- [Harshvardhan Mestha @DevsocPI](https://github.com/Harshvardhan-Mestha)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
