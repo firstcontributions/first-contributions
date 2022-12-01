@@ -884,3 +884,4 @@ Yash Rustogi
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
+- [Chris Clements](https://github.com/cclements1384)
