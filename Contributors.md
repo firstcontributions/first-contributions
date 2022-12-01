@@ -92,6 +92,7 @@ Edward Abel-Guobadia
 - [Krunal Patel](https://github.com/kd05)
 - [al-imam](https://github.com/al-imam)
 - [Hasibur Rahman](https://github.com/hasiburdev)
+- [Aditya Chaudhary at DEVSOC preinductions](https://github.com/ADITYAC1234)
 - [Melek Msakni](https://github.com/melekmsakni)
 - [Lakshan Perera](https://github.com/0xluckycode)
 - [Rajiv Galgali]@devsocPI
