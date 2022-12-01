@@ -101,6 +101,7 @@ My name is KS
 - [Krunal Patel](https://github.com/kd05)
 - [harsh rathi@DevSocPI](https://github.com/harshrathi12)
 - [al-imam](https://github.com/al-imam)
+- [Vikhyat Gupta@DevsocPI]
 - [Hasibur Rahman](https://github.com/hasiburdev)
 - [Aditya Chaudhary at DEVSOC preinductions](https://github.com/ADITYAC1234)
 - [Melek Msakni](https://github.com/melekmsakni)
