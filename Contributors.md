@@ -107,6 +107,7 @@ My name is KS
 - [Melek Msakni](https://github.com/melekmsakni)
 - Michael Lewis @DevSoc
 - [Lakshan Perera](https://github.com/0xluckycode)
+- [Khushboo Jain @devsoc pre-induction](https://github.com/khushbooj2903)
 - [Chouaieb Nemri](https://github.com/cnemri)
 - [Odejobi Peter](https://github.com/rinwaoluwa)
 - [Aadi Sharma @DevsocPI]
