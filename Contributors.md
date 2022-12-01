@@ -231,6 +231,7 @@ _ [ ayush Z] @ devsocPI
 - [Khushboo Jain @DevSoc]
 - [Berzan Tas](https://github.com/BerzanTas)
 - [Pratyush Tyagi](https://github.com/Pratyush0612)
+- Reetish Rath DevSoc Pre-inductions
 - [Surajit Dey Sarkar](https://github.com/Surajitds)
 - [Krish Vora](https://github.com/Krishvora)
 - [Joyson Chacko George](https://github.com/joygeo007)
