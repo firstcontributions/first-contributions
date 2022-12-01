@@ -25,6 +25,7 @@ Reetish Rath
 - [Neil Ohene](https://github.com/dvc-77)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
+- [Aadi Sharma@DevSocPI](https://github.com/AadiSharma001)
 - 
 Yash Rustogi
 [Dhruv Tandon}@DevsocPI
