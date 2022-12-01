@@ -582,6 +582,7 @@ _ [ ayush Z] @ devsocPI
 - [Strelets Alexander](https://github.com/Tenkoru)
 - [Indranil Saha](https://github.com/saha-indranil)
 - [Aman Khatri](https://github.com/Amank927)
+- [Manish GS Parmar@DevSocPI](https://github.com/ManishWho)
 - [divya](https://github.com/Divya2k05)
 - [Arunima Chaudhuri](https://github.com/tinniaru3005)
 - [Arman Kumar Aditya@DevsocPI]
