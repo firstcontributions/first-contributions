@@ -525,6 +525,7 @@ _ [ ayush Z] @ devsocPI
 - [Garvit Srivastava@DevSocPI](https://github.com/Garvit-Srivastava)
 - [MAHASAPU](https://github.com/MahasApu)
 - [Sarah Mukuti](https://github.com/cesarWrites)
+- Sarthak Jain
 - [Bharat Mishra](https://github.com/BMlookingforaW)
 - Vartika Parikh @DevSocPI
 - [Pradyumn](https://github.com/Hannibal404)
