@@ -37,6 +37,7 @@ Yash Rustogi
 - aumkar@DevsocPI
 - [VAGEESHA GUPTA@DevsocPI](https://github.com/Forestelf6)
 - [Ashish Ratre](https://github.com/ashishratre404)
+Edward Abel-Guobadia
 - [Neha Menon@DevsocPI](https://github.com/thenehamenon)
 - [Akshaj Jha@DevSocPI](https://github.com/Akshajha07)
 - [Hosea Kipkoech@DevSocPI](http://github.com/kipkoech88) ]
