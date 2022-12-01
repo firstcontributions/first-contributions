@@ -470,6 +470,7 @@ _ [ ayush Z] @ devsocPI
 - [Michelle Wong](https://github.com/strawberrie68/)
 - [Pray Raskapoorwala]@DevSocPI
 - [Suraj Patra](https://github.com/Suraj-Patra)
+- [Krishi Dedhia@DevsonIP](https:/github.com/kdrcks)
 - [Mallela D. Vinay](https://github.com/MD571)
 - [Mariam Lawal](https://github.com/Maerryham)
 - [ADITI-2003](https://github.com/ADITI-2003)
