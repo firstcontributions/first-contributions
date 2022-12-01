@@ -678,6 +678,7 @@ _ [ ayush Z] @ devsocPI
 - [iParadocx](https://github.com/iParadocx)
 - [Aditya Pudaruth](https://github.com/Aditya-Pudaruth)
 - [Aman Choudhary](https://github.com/aman-choudhary1)
+- [Aadi Joshi](https://github.com/AadiJ2022) @devsoc pre-inductions
 - [Dmitrii Sidenko](https://github.com/DmSide)
 - [Santiago Urbano](https://github.com/sanurb)
 - [સ્મિત કાછડીયા](https://github.com/smeekas)
