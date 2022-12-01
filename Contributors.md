@@ -144,6 +144,7 @@ Yash Rustogi
 - [Ausawin Saehaan](https://github.com/saehaana)
 - [Rajiv Galgali]
 -[VAGEESHA GUPTA@DevsocPI](https://github.com/Forestelf6)
+[Anshuman Nigam@DevSocPI](https://github.com/AnshumanNigam)
 - [Fvoice](https://github.com/facelessvoice)
 - [Jeffrey Neal](https://github.com/ToastBubbles)
 - [Khant Sithu Zaw](https://github.com/KHANT-SITHUZAW)
