@@ -738,6 +738,7 @@ _ [ ayush Z] @ devsocPI
 - [Dibakar Upadhyaya](https://github.com/Dibakar01)
 - [Johan Kreivi](https://github.com/0h4y)
 - [Gaurav Patil](https://github.com/GauravPatil8778)
+- [Vidit Jain @DevsocPI](https://github.com/ViditJain123)
 - [Suryajith Ms](https://github.com/Suryajith32)
 - [Ananya Agarwal](https://github.com/ananyaa01)
 - [Ali El-Shamy](https://github.com/elshali)
