@@ -892,6 +892,7 @@ _ [ ayush Z] @ devsocPI
 - [Jai-Marothiya](https://github.com/Jai-Marothiya)
 - [Ahan Bandyopadhyay](https://github.com/ahanban15)
 - [Monodeep-Das](https://github.com/Monodeep-Das)
+- [Nishad Kotkar]@Devsoc PI
 - [Sai Manoj Etcherla](https://github.com/saimanoj22)
 - [Adam Anderson](https://github.com/Adam-E-Anderson)
 - [Mayank Agrawal](https://github.com/Mayank30-creator)
