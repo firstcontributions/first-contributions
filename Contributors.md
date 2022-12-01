@@ -53,6 +53,7 @@ Edward Abel-Guobadia
 - [Sasmit Datta @DevsocPI](https://github.com/Sasopsy)
 - [GurglingHammer @DevsocPI](https://github.com/GurglingHammer)
 - [Shardul Tomat@DevsocPI](https://github.com/ShardulT04)
+- [Aadi joshi](https://github.com/AadiJ2022) @devsoc PI Devsoc
 - [Devansh Mehta@DevsocPI](https://github.com/Coderpromax8)
 - [Utkarsh@DevsocPI](https://github.com/0xAnon0602)
 - <harhsit kapoor>@Devsoc@PI
