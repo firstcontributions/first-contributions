@@ -8,6 +8,7 @@
 - [Loic Mavah Tseket@DevsocPI](https://github.com/loic242)
 - Parth Shah@DevsocPI
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
+- Parth Shah@DevsocPI
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001)
 - [Parth Shah@DevsocPI]
@@ -410,7 +411,6 @@ _ [ ayush Z] @ devsocPI
 - [vinthara](https://github.com.vinthara)
 - [Vaibhavi Gaur](https://github.com/vai14-gaur)
 - [Julio Lezcano](https://github.com/lezcano17)
-- [Om Patil]@devsocPI
 - [Dhriti](https://github.com/Dhriti-singh)
 - [Haseeb Ahmad Siddiqui](https://github.com/hasebsiddiqui)
 - [Dominic R.](https://github.com/jD2R)
