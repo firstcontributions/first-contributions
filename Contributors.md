@@ -297,6 +297,7 @@ _ [ ayush Z] @ devsocPI
 - [kanav upadhyay](https://github.com/Sigmistic2k4)
 - [Dhruv]
 - [Alisher Muzaffarov](https://github.com/aliml92)
+- [Anish Phal@DevsocPI]
 - [Jessica Nam](https://github.com/jessica-nam)
 - [Apeksha Arora](http://github.com/apekshasan)
 - [RAHUL g](https://github.com/Rahulg8270)
