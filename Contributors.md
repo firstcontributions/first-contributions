@@ -265,6 +265,7 @@ _ [ ayush Z] @ devsocPI
 - [Varun Shah](https://github.com/varunlmxd)
 - [Lasya Sandhu@DevsocPI](https://github.com/lasyasandhu)
 - [Samer Malique](https://github.com/sammal99)
+- [Manish GS Parmar@DevSocPI](https://github.com/ManishWho)
 - [Javier Morales](https://github.com/jamg1906)
 - [Sreeraj Chintham](https://github.com/sreerajchintham)
 - [Rezgui Med Aziz](https://github.com/medAzizRezgui)
