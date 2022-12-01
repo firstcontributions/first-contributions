@@ -40,6 +40,7 @@ Yash Rustogi
 - [Jatin Gahlot @DevSocPI]
   [Mustafa-Alwalss]. 
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
+- [Khushboo Jain @ DevSoc]
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
 - [vandan doshi](https://github.com/Vandan19)
 - aumkar@DevsocPI
