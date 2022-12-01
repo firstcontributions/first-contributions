@@ -138,6 +138,7 @@ Edward Abel-Guobadia
 - [something-ai-hash](https://github.com/something-ai-hash)
 - [Chanthru00](https://github.com/Chanthru00)
 - [John Harold Sipat]
+- [harshith p gowda]@DevSocPI
 - [Sanchay Sahay]@DevsocPI
 - [Nathan FAbio](https://github.com/nathanfabio)
 - [Parth Naik]@DevsocPI
