@@ -48,7 +48,7 @@ Edward Abel-Guobadia
 - [Devansh Mehta@DevsocPI](https://github.com/Coderpromax8)
 - [Utkarsh@DevsocPI](https://github.com/0xAnon0602)
 - [Pawan Yadav](https://github.com/pawanyy)
-- [CherylChaudhari@DevsocPI]
+- [CherylChaudhari@DevsocPI](https://github.com/cherxoxo10)
 - [Saptarshi Ghosh @devsoc2022](https://github.com/zack-carnet)
 - [Sreeram P @DevSoc](https://github.com/sreeramps10)
 - [Somnath Golui](https://github.com/somu-code)
@@ -105,7 +105,6 @@ Edward Abel-Guobadia
 - [Trevor Ang](https://github.com/TrevorAng)
 - [Prabhav Srivastava](https://github.com/prabhavsrivastava)
 - [Ema Omere]
-- [arnavjain@devsocpi](https://github.com/Arnavjain244)
 - [Lesh Chadick](https://github.com/lesh2)
 - [Julian Schmid](https://github.com/KingNexu)
 - [Tharun Chougoni]
