@@ -66,6 +66,7 @@ Edward Abel-Guobadia
 - [Jiving Pete's Frisky Dynamite](https://github.com/jives-mcgee)
 - [kartavya dubey at devsoc preinductions](https://github.com/Chrollucilfer)
 - [Shivani R](https://github.com/shivu-srk)
+- [Arman Kumar Aditya@DevsockPI]
 - [Arman Karimi](https://github.com/iArmanKarimi/)
 - [Melon98@DevsocPI](https://github.com/melon9829)
 - [SleepyPeanut] (https://github.com/sleepypeanut)
