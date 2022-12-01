@@ -53,6 +53,7 @@ Edward Abel-Guobadia
 - [Somnath Golui](https://github.com/somu-code)
 - [Khushboo Jain @DevSoc]
 - [Jiving Pete's Frisky Dynamite](https://github.com/jives-mcgee)
+- [kartavya dubey at devsoc preinductions](https://github.com/Chrollucilfer)
 - [Shivani R](https://github.com/shivu-srk)
 - [Arman Karimi](https://github.com/iArmanKarimi/)
 - [SleepyPeanut] (https://github.com/sleepypeanut)
