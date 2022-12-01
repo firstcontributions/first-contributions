@@ -703,7 +703,7 @@ _ [ ayush Z] @ devsocPI
 - [Pranava Kumar Mishra](https://github.com/SatayS)
 - [yogesh](https://github.com/yogesh-0911)
 - [paras](https://github.com/paras9192)
-- [LaElijah](https://github.com/LaElijah)
+- [Brinda]@DevSoc
 - [Shivansh Guleria](https://github.com/ShivanshGuleria)
 - [Swaraj](https://github.com/swarajzz)
 - [Franklin Mensah](https://github.com/fiificode)
