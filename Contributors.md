@@ -45,6 +45,7 @@ Yash Rustogi
 - [Shardul Tomat@DevsocPI](https://github.com/ShardulT04)
 - [Devansh Mehta@DevsocPI](https://github.com/Coderpromax8)
 - [harsh rathi@DevSocPI](hhtps;//github.com/harshrathi12)
+- [Kushagra Tanwar]@DevSocPI (https://github.com/Kushuuu617)
 - [Utkarsh@DevsocPI](https://github.com/0xAnon0602)
 - [Pawan Yadav](https://github.com/pawanyy)
 - [CherylChaudhari@DevsocPI]
