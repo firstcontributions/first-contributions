@@ -449,6 +449,7 @@ _ [ ayush Z] @ devsocPI
 - [prkahar@devsocpi](https://github.com/crazykursor)
 - [Glitchr](https://github.com/Glitchr)
 - [Shabeeb PV](https://github.com/shabeebleo)
+- [Vikhyat Gupta@DevsocPI](https://github.com/Vikhyat0908)
 - [Sakshi](https://github.com/sagupta8399)
 - [Krombopulos](https://github.com/krombopulos-eddie)
 - [Muskan](https://github.com/Muskan-Git-Code)
