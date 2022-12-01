@@ -316,6 +316,7 @@ _ [ ayush Z] @ devsocPI
 - [Don Chisolm](https://github.com/Donchiz77)
 - [Usman Khan](https://github.com/UsmanK7)
 - [Shannon Torcato](https://github.com/shannontorcato)
+- [Tathagata Roy]
 - [DaneeSkripter](htttps://github.com/daneeskripter)
 - [prakhar@devsocpi](https://github.com/crazykursor)
 - [IsaacWritesCode](https://github.com/IsaacWritesCodeGithub)
