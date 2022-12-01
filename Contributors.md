@@ -96,6 +96,7 @@ My name is KS
 - [Lukas de VIPART](https://github.com/Rekch)
 - [R Sathvik]@DevsocPI
 - [Krunal Patel](https://github.com/kd05)
+- [harsh rathi@DevSocPI](https://github.com/harshrathi12)
 - [al-imam](https://github.com/al-imam)
 - [Hasibur Rahman](https://github.com/hasiburdev)
 - [Aditya Chaudhary at DEVSOC preinductions](https://github.com/ADITYAC1234)
