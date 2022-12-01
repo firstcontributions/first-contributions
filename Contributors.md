@@ -516,6 +516,7 @@ _ [ ayush Z] @ devsocPI
 - [Abhi Patel](https://github.com/AbhiPatel10)
 - [Marko Vitkovic](https://github.com/MarkoVitkovic)
 - [Yatndeep Dubey](https://github.com/Yatndeep)
+- Vartika Parikh @DevSocPI
 - [Autumn Ouellette](https://github.com/Autumn-Ou)
 - [Fatin Almalik](https://github.com/Fatin-Almalik)
 - [Ayananshu Mohanty](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) @DevsocPI
