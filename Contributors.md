@@ -14,7 +14,8 @@ aditya bagla
 Reetish Rath
 [Dhruv Pandey@Devsoc](https://github.com/dhruv12pandey)
 [Pranjay Yelkotwar] @DevSocInductions
-- [Kshitij Verma@DevsocPI](https://github.com/melon9829)
+- [Kshitij Verma@DevsocPI](https://github.com/melon9829) 
+- [Divyansh Dabral @DevsocPI]
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Sanskar Mundhra@DevsocPI](https://github.com/SunMoon97)
 - [Noopur Sharma@Devsoc]
