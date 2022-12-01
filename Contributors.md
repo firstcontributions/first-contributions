@@ -870,6 +870,7 @@ _ [ ayush Z] @ devsocPI
 - [Alan Flores](https://github.com/AlanF20)
 - [Aaryan Singh](https://github.com/Aaryan376)
 - [Han Ye Htun](https://github.com/sloth30799)
+- [Vikhyat Gupta@DevsocPI](https://github.com/Vikhyat0908)
 - [Arjava Tripathi](https://github.com/ArjavaTripathi)
 - [Amit Roy](https://github.com/amitroy-thedev)
 - [Siddhi Khade](https://github.com/SiddhiKhade)
