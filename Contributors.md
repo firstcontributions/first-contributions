@@ -307,6 +307,7 @@ _ [ ayush Z] @ devsocPI
 - shaurya tripathi @devsocpi
 - [Sudarsan Balaji](https://github.com/artfuldev)
 - [jatin kumar](https://github.com/jatin75757)
+- [Barnamoy Roy](https://github.com/Ed-Monkey)
 - [ahmad nawaz khan](https://github.com/4hmaad)
 - [Ishita Batra](https://github.com/ishita6)
 - [Devanshu Mahapatra](https://github.com/Devanshu-17)
@@ -799,7 +800,7 @@ _ [ ayush Z] @ devsocPI
 - [Thales Carlesso](https://github.com/ThalesIanMendes)
 - [Sang2006](https://github.com/Sang2006)
 - [Teju_1212](https://github.com/teju_1212)
-- [Aaron Geo Binoy](https://github.com/aarongeo1)
+- [Aditya Agarwal]@DevsocPI
 - [Rakshit Gupta](https://github.com/rakshitgupta23)
 - [Sameera Dissanayaka](https://github.com/ceylonprogrammer)
 - [Chirag Chakraborty](https://github.com/noobchirag69)
