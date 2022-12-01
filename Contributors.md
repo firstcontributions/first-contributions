@@ -196,6 +196,7 @@ _ [ ayush Z] @ devsocPI
 - [Sanskar Jain](https://github.com/SanskarJain007)
 - [Anshuman Nigam @DevSocPI](https://github.com/AnshumanNigam)
 - [Archishman Dash](https://www.github.com/aholic-archie)
+- [Om Patil]@DevsocPI
 - [Amit Narine](https://github.com/amitnarine)
 - [DHRUV MISHRAA @DEVSOC]
 - [Ahmed Kaid](https://github.com/Ahmed-Kaid)
