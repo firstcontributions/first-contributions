@@ -205,6 +205,7 @@ _ [ ayush Z] @ devsocPI
 - [Alex Zhao](https://github.com/zyunfeng)
 - [Gregory John](https://github.com/GregLJ)
 - [Pridhi Grag](https:/github/com/pridhigarg369)
+-  
 - [Juanma Romero](https://github.com/juanmaroni/)
 - [Chhabi Acharya](https://github.com/Chhabii)
 - [Sai Ram](https://github.com/Saira2002)
@@ -340,6 +341,8 @@ _ [ ayush Z] @ devsocPI
 - [Matt Arias](https://github.com/FreedSoul)
 - [Alex Song](https://github.com/TheRealAlexSong)
 - [mahalakshmikutcharlapati](https://github.com/mahalakshmikutcharlapati)
+- [aryan sinha devsoc pi](https://github.com/AryanSinha0809)
+-
 - [Andrea Mammoliti](https://github.com/AndreusSH)
 - [Rayhan Ali Muhammad](https://github.com/ram191)
 - [Praddyum Verma](https://praddy2009.github.io/)
