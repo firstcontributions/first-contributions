@@ -87,6 +87,7 @@ My name is KS
 - [Alvin James Bellero](https://github.com/shiftEscape)
 - [Hidayatullah](https://github.com/dayatnhbtc)
 - [Adlizone](https://github.com/adlizone)
+- [Dhruv Pandey@Devsoc](https://github.com/dhruv12pandey)
 - [Palak Sinha](https://github.com/sinhapalak)
 - [Ravi Ranjan Kumar](https://github.com/iam-ravi-11)
 - [Alleznav] (https://github.com/Alleznav)
