@@ -850,6 +850,7 @@ Edward Abel-Guobadia
 - [newird](https://github.com/newird/)
 - [Vikhyat Gupta@DevsocPI](https://github.com/Vikhyat0908)
 - [Harsa Dash](https://github.com/harsadas)
+- [Samar@DevsocPI](https://github.com/canondroid)
 - [Jiao Liu](https://github.com/ildnyy)
 - [Leonel Santos](https://github.com/leonelSantos)
 - [Vatler Lett](https://github.com/scarlett1130)
