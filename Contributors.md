@@ -459,11 +459,11 @@ _ [ ayush Z] @ devsocPI
 - [Aayush Arora](https://github.com/AroraAayush)
 - [Anand pratap singh](https://github.com/rishu-singh9695)
 - [Michelle Wong](https://github.com/strawberrie68/)
+- [Pray Raskapoorwala]@DevSocPI
 - [Suraj Patra](https://github.com/Suraj-Patra)
 - [Mallela D. Vinay](https://github.com/MD571)
 - [Mariam Lawal](https://github.com/Maerryham)
 - [ADITI-2003](https://github.com/ADITI-2003)
-- [prkahar@devsocpi](https://github.com/crazykursor)
 - [Glitchr](https://github.com/Glitchr)
 - [Shabeeb PV](https://github.com/shabeebleo)
 - [Vikhyat Gupta@DevsocPI](https://github.com/Vikhyat0908)
