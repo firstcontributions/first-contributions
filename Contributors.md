@@ -10,6 +10,7 @@
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001)
+Ashwani Kumar Singh
 aditya bagla
 Reetish Rath
 [Dhruv Pandey@Devsoc](https://github.com/dhruv12pandey)
