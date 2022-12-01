@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 <!-- prettier-ignore-start -->
 - Nikhil Tamboli @DevSoc 
@@ -22,7 +22,7 @@ Reetish Rath
 - Meet Dedhia@DevsocPI
 - aditya joshi@DevSocPI
 - Ezad Haziq Bin Zamily
-
+- [Anirudh yadav](https://github.com/Anirudh150)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - 
