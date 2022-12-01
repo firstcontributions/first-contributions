@@ -240,6 +240,7 @@ _ [ ayush Z] @ devsocPI
 - [Gabriel Waegner](https://github.com/Gwaegs)
 - [Pray Raskapoorwala]@DevSocPI
 - [Boris Ynyr](https://github.com/BorisYnyr)
+- [Samarth Nagpal @ DevSocPI](https://github.com/SamarthNagpal)
 - [Anand S](https://github.com/anand2000s)
 - [Aryan Wadhwa](https://github.com/TastyBiscuit0808/first-contributions)
 - [R.Noto](https://github.com/RikitoNoto)
