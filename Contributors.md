@@ -369,6 +369,7 @@ _ [ ayush Z] @ devsocPI
 - [Yuvraj Seegolam](https://github.com/yuvraj108c)
 - [Keshav Mohabir](https://github.com/Keshy31)
 - [Gabriel Coelho](https://github.com/bielcoelho)
+- [Tasnim@DevSocPI] (https://github.com/tasnim496)
 - [Ellis Burgess](https://github.com/ellis-burgess)
 - [Daniel Oliveira](https://github.com/GulDaniel)
 - [Urvesh Radadiya](https://github.com/URVESH1121)
