@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 [Ramakrishnan Raghavan-devsoc]https://github.com/Ramakrishnan-R7)
 <!-- prettier-ignore-start -->
 - Nikhil Tamboli @DevSoc 
@@ -97,6 +97,7 @@ My name is KS
 - [Daniel Ervanda](https://github.com/dnd7)
 - [Lukas de VIPART](https://github.com/Rekch)
 - [R Sathvik]@DevsocPI
+- [Kaiden Flaig]
 - [Krunal Patel](https://github.com/kd05)
 - [harsh rathi@DevSocPI](https://github.com/harshrathi12)
 - [al-imam](https://github.com/al-imam)
