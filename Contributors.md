@@ -218,6 +218,7 @@ _ [ ayush Z] @ devsocPI
 - [Prerak Patel](https://github.com/PrerakPatelCS)
 - [Metsehafe Eyasu Tesfu](https://github.com/Metsehafe-Eyasu)
 - [Theo Dep](https://github.com/theoDep)
+- [Manish GS Parmar@DevSocPI](https://github.com/ManishWho)
 - [Jamal Abdulrazik](https://github.com/JamalAbdulrazik)
 - [Noy Hanan](https://github.com/noy-h)
 - [Andreas](https://github.com/Andreas1593)
