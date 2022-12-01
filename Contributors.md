@@ -587,6 +587,7 @@ _ [ ayush Z] @ devsocPI
 - [Aksheet10](https://github.com/Aksheet10)
 - [David Letaw](https://github.com/davidletaw)
 - [Sam Erde](https://github.com/SamErde)
+- [yash kejriwal@devsocpi]
 - [Danny Bae](https://github.com/danveb)
 - [Abhishek Nayak](https://github.com/Abhishek2nayak)
 - [Yash Chaphekar@DevsocPI](https://github.com/chaphekar)
