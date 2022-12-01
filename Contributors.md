@@ -855,6 +855,7 @@ _ [ ayush Z] @ devsocPI
 - [Aditya Singhal](https://github.com/adityaacse)
 - [Deept Ratna @devsocpi]
 - [PDPkrypto](https://github.com/kodevasse)
+- [Nishad Kotkar]@Devsoc PI
 - [Utsav Akash Naskar](https://github.com/Utsav1999)
 - [Anish Doshi](https://github.com/doshianish8)
 - [Saurabh Sinha](https://github.com/sinhasaurabh3104)
