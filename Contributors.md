@@ -970,6 +970,8 @@ _ [ ayush Z] @ devsocPI
 - [Harshvardhan Mestha @DevsocPI](https://github.com/Harshvardhan-Mestha)
 - [Preet Gupta@devsoc](https://github.com/preetgupta32)
 - [Yash Jhawar@devsocPI](https://github.com/yash-jhawar007)
+- [Kumar Kashyap@devsoc](https://github.com/KashyapJod)
+
 - [kartavya@devsoc](https://github.com/Chrollucilfer)
 -[Kumar Kashyap](https://github.com/KashyapJod)@devsoc
 - [Divyam Joshi](https://github.com/iamgroot9)@devsoc
