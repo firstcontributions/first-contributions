@@ -360,6 +360,7 @@ _ [ ayush Z] @ devsocPI
 - [Sushil Suthar](https://github.com/isushilsuthar)
 - [Anupama Jedi](https://github.com/anupama003)
 - [errare-humanum-est1](https://github.com/errare-humanum-est1)
+- [Sarthak Jain@DevsocPI]
 - [Jalebium69](https://github.com/jesherjoshua)
 - [marioluiss](https://github.com/MarioLuiss)
 - [Bojidar Vladimirov](https://github.com/BojidarV)
