@@ -707,6 +707,7 @@ Edward Abel-Guobadia
 - [Anugrah Rachman](https://github.com/kidomega-byte/)
 - [Hector Quemada](https://github.com/hdquemada)
 - [Maheen Saleh](https://github.com/maheensaleh)
+- [Lynn Zukerman](https://github.com/Lynndz3)
 - [Sebastian Wu](https://github.com/sebswU)
 - [Sofie Borchgrevink](https://github.com/sofieborchgrevink)
 - [Karanjot Singh](https://karanjot.vercel.app)
