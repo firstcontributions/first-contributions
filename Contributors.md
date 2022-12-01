@@ -463,6 +463,7 @@ _ [ ayush Z] @ devsocPI
 - [Meet Vansjaliya](https://github.com/meetvansjaliya)
 - [Anmoldeep Kaur](https://github.com/anmoldeep1512)
 - [JOSE VEDIA](https://github.com/Jose-b-v)
+- [ritu kumar sharma@ devsoc]
 - [Freya Shah](https://github.com/Freya-29)
 - [Pasan Pahasara](https://github.com/Pasan-Pahasara)
 - [Chethas Pv](https://github.com/chethas7)
