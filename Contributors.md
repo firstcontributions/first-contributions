@@ -22,7 +22,7 @@ Reetish Rath
 - Meet Dedhia@DevsocPI
 - aditya joshi@DevSocPI
 - Ezad Haziq Bin Zamily
-
+- [Anshuman Nigam@DevsocPI]
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - 
