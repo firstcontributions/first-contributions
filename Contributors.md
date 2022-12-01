@@ -527,6 +527,7 @@ _ [ ayush Z] @ devsocPI
 - [Fatin Almalik](https://github.com/Fatin-Almalik)
 - [Ayananshu Mohanty](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) @DevsocPI
 - [Mohammad Mubaslat](https://github.com/mohammadmubaslat)
+- [Will Johnson](https://github.com/wij2012)
 - [Arnaduga](https://github.com/arnaduga)
 - [PatentLobster](https://github.com/PatentLobster)
 - [Varun Prashant Kadkade](https://github.com/varun2430)
