@@ -283,6 +283,7 @@ _ [ ayush Z] @ devsocPI
 - [suman](https://github.com/sumanghosh13)
 - [Thet Paing Soe](https://github.com/ThetPaingSoe)
 - [regularmute](https://github.com/regularmute)
+- [Parth Naik] @DevsocPI
 - [Tewodros Amare](https://github.com/teddygizachew)
 - [Stephen Silveira](https://github.com/stephen-silveira)
 - [Rashmi T](https://github.com/Rashmi-AnonymousNot)
