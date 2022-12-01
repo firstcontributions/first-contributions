@@ -212,6 +212,7 @@ _ [ ayush Z] @ devsocPI
 - [Lien Font](https://github.com/90sPixelDev)
 - [Anuhya sabbani](https://github.com/anuhyasabbani)
 - [Bojidar Vladimirov](https://github.com/BojidarV)]
+- [Vikhyat Gupta@DevsocPI](https://github.com/Vikhyat0908)
 - [sankarapandi](https://github.com/Sankarapandi-Murugan)
 - [Poyraz Bahcivan](https://github.com/poyrazbahcivan)
 - [Ryan Ignasiak](https://github.com/theravenousR)
