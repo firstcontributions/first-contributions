@@ -143,7 +143,7 @@ My name is KS
 - [Redsam](https://github.com/Redsamx)
 - [Vikhyat Gupta@DevsocPI](https://github.com/Vikhyat0908)
 - [Jenny F](https://github.com/J-Ning)
-- [Partha Maity](https://github.com/parthmty)
+- [anubhav verma]@DevsocPI
 - [Puneet](https://github.com/Puneetpotter)
 _ [ ayush Z] @ devsocPI
 - [Shrankhla](https://github.com/shrankhla20)
