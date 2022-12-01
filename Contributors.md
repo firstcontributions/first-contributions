@@ -554,6 +554,7 @@ _ [ ayush Z] @ devsocPI
 - [Safadtm](https://github.com/safadtm)
 - [Anandaram](https://github.com/raawwm/first-contributions)
 - [Gaby Victoria](https://github.com/GabyVictoria0122)
+- [ANSH BHARGAVA]@DevsocPI
 - [Craig Putzstuck](https://github.com/argounova)
 - [Corentin Gouanvic](https://github.com/Stoaties)
 - [Sherly Febrianti](https://github.com/sherlyfebrianti96)
