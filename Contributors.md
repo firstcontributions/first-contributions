@@ -486,6 +486,7 @@ _ [ ayush Z] @ devsocPI
 - [Dylan Messerly](https://github.com/CodeDTX11)
 - [Zhenya Mateyuk](https://github.com/jEUGENEdev/)
 - [Soy el Yisus](https://github.com/Jebushdd)
+- [Aarav Shah@DevSocPI](https://github.com/Aaravsh)
 - [Mila](https://github.com/jaetenty)
 - [Ayush Shete](https://github.com/ayushete02)
 - [Tanish Jadhav](https://github.com/tanish20j)
