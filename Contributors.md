@@ -173,6 +173,7 @@ _ [ ayush Z] @ devsocPI
 - [Hrushabhsingh Chouhan](https://github.com/hrushabhchouhan)
 - [Aman Bharti](https://github.com/aman0ab)
 - [Sanskar Jain](https://github.com/SanskarJain007)
+- [Anshuman Nigam @DevSocPI](https://github.com/AnshumanNigam)
 - [Archishman Dash](https://www.github.com/aholic-archie)
 - [Amit Narine](https://github.com/amitnarine)
 - [Ahmed Kaid](https://github.com/Ahmed-Kaid)
