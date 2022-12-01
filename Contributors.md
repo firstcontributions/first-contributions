@@ -194,6 +194,7 @@ _ [ ayush Z] @ devsocPI
 - [Anshuman Nigam @DevSocPI](https://github.com/AnshumanNigam)
 - [Archishman Dash](https://www.github.com/aholic-archie)
 - [Amit Narine](https://github.com/amitnarine)
+- [DHRUV MISHRAA @DEVSOC]
 - [Ahmed Kaid](https://github.com/Ahmed-Kaid)
 - Belkacem Mezhoud
 - [Esta es mi primer contribucion](https://github.com/PabloCH23)
