@@ -421,6 +421,7 @@ _ [ ayush Z] @ devsocPI
 - [Alex Reveles](https://github.com/aajj333)
 - [Samuel Oluyede](https://github.com/Masei25)
 - [Ankush](https://github.com/ankushrai999)
+- [Rajat Srivastava@DevsocPI]
 - [Phillip Chu](https://github.com/phillippchu)
 - [Assogba charbel](https://github.com/charbossly)
 - [Aazim Parwaz](https://github.com/Aazim-parwaz)
