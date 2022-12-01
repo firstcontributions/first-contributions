@@ -180,6 +180,7 @@ _ [ ayush Z] @ devsocPI
 - [Dennis Macharia Njogu](https://github.com/Mashnjogu)
 - [Hrushabhsingh Chouhan](https://github.com/hrushabhchouhan)
 - [Aman Bharti](https://github.com/aman0ab)
+- [rushil shah @devsocPI](https://github.com/assassingo)
 - [Sanskar Jain](https://github.com/SanskarJain007)
 - [Anshuman Nigam @DevSocPI](https://github.com/AnshumanNigam)
 - [Archishman Dash](https://www.github.com/aholic-archie)
