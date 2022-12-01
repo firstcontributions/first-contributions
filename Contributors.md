@@ -56,6 +56,7 @@ Edward Abel-Guobadia
 - [kartavya dubey at devsoc preinductions](https://github.com/Chrollucilfer)
 - [Shivani R](https://github.com/shivu-srk)
 - [Arman Karimi](https://github.com/iArmanKarimi/)
+- [Melon98@DevsocPI](https://github.com/melon9829)
 - [SleepyPeanut] (https://github.com/sleepypeanut)
 - [Pradeep Kurapati] (https://github.com/Pradeep-Kurapati)
 - [Divyansh Singh @devsoc pre induction]
