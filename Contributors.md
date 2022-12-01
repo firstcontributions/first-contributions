@@ -68,6 +68,7 @@ Edward Abel-Guobadia
 - [Faisal Saifi](https://github.com/faisalsaifii)
 - [Vishal Kanwar](https://github.com/Kanvi1)
 - Aniket Sonawane @Devsoc
+- [Ayush Raj @DevsocPI]. (https://github.com/Aayuraju)
 - Shamit Khetan @DevSoc
 - Ronit Kunkolienker @DevSoc PI
 - Nishant Raghuvanshi @DevSoc PI
