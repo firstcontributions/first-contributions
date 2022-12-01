@@ -44,6 +44,7 @@ Edward Abel-Guobadia
 - [Hosea Kipkoech@DevSocPI](http://github.com/kipkoech88) ]
 - [Pranay Chakravarty@devsocPI](https://github.com/Mr-Mystic)
 - [Sasmit Datta @DevsocPI](https://github.com/Sasopsy)
+- [GurglingHammer @DevsocPI](https://github.com/GurglingHammer)
 - [Shardul Tomat@DevsocPI](https://github.com/ShardulT04)
 - [Devansh Mehta@DevsocPI](https://github.com/Coderpromax8)
 - [Utkarsh@DevsocPI](https://github.com/0xAnon0602)
