@@ -910,6 +910,7 @@ _ [ ayush Z] @ devsocPI
 - [Nguyen Dang Quy](https://github.com/dangquyit)
 - [Zac Nation](https://github.com/zacnation)
 - [Salwa Mansour](https://github.com/Salwa-mansour)
+- [Bellhwi](https://github.com/bellhwi)
 - [Sleepypeanut] (https://github.com/sleepypeanut)
 - [Owen Fiber] (https://www.github.com/ofiber)
 - [Ali Zain Aldeen] (https://github.com/ali-zain-aldeen)
