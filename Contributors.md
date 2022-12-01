@@ -601,6 +601,7 @@ Yash Rustogi
 - [smdch](https://github.com/smdch)
 - [gonend](https://github.com/gonend)
 - [kevins0101](https://github.com/kevins0101)
+- [aloopuri](https://github.com/aloopuri)
 - [Samarth](https://github.com/samarth777)
 - [Abidi-S](https://github.com/Abidi-S)
 - [Sandeep Nayak](https://github.com/SANDEEP-NAYAK)
