@@ -117,6 +117,7 @@ My name is KS
 - [Prabhav Srivastava](https://github.com/prabhavsrivastava)
 - [Ema Omere]
 - [Lesh Chadick](https://github.com/lesh2)
+- [Dhruv Pandey@DevsocPI](https://github.com/dhruv12pandey)
 - [Julian Schmid](https://github.com/KingNexu)
 - [Tharun Chougoni]
 - [Uras Varolgunes]
