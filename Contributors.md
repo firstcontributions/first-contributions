@@ -81,6 +81,7 @@ Yash Rustogi
 - [Daniel Ervanda](https://github.com/dnd7)
 - [Lukas de VIPART](https://github.com/Rekch)
 - [Krunal Patel](https://github.com/kd05)
+- [Mtwa Mgimwa](https://github.com/cisco2001)
 - [al-imam](https://github.com/al-imam)
 - [Hasibur Rahman](https://github.com/hasiburdev)
 - [Melek Msakni](https://github.com/melekmsakni)
