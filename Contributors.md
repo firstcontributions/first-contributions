@@ -816,6 +816,7 @@ Yash Rustogi
 - [Mayank Agrawal](https://github.com/Mayank30-creator)
 - [Emon](https://github.com/smremon)
 - [Ryo Muta](https://github.com/r-mutax)
+- [Laura Clark](https://github.com/lcmaximum)
 - [Aman Kumar Pandey](https://github.com/amanpandey2101)
 - [Patil 2104](https://github.com/patil2104)
 - [HiTShiroya](https://github.com/HiTShiroya)
