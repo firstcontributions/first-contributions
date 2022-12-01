@@ -459,6 +459,7 @@ _ [ ayush Z] @ devsocPI
 - [Chani](https://github.com/ChaniDev)
 - [Vaishnavi](https://github.com/vaisrinivasan)
 - [Dhruv](https://github.com/Elektrikk)
+- [Rishi Deshmukh](https://github.com/26rishiii)
 - [Meet Vansjaliya](https://github.com/meetvansjaliya)
 - [Anmoldeep Kaur](https://github.com/anmoldeep1512)
 - [JOSE VEDIA](https://github.com/Jose-b-v)
