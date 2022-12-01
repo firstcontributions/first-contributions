@@ -877,6 +877,7 @@ _ [ ayush Z] @ devsocPI
 - [Sumon Chandra](https://github.com/sumon-chandra)
 - [Nour Elhamshary](https://github.com/Nour-Elhamshary)
 - [Harish Krishnan](https://github.com/dirtyKitchen)
+- [VAGEESHA GUPTA@DevsocPI](https://github.com/Forestelf6)
 - [Ketan Kulkarni] (https://github.com/kulketan)
 - [Zherish Galvin Mayordo](https://github.com/zhrssh)
 
