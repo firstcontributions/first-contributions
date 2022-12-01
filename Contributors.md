@@ -41,6 +41,7 @@ Yash Rustogi
   [Mustafa-Alwalss]. 
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
+- [vandan doshi](https://github.com/Vandan19)
 - aumkar@DevsocPI
 - [Anshuman Nigam @DevSocPI]
 - [VAGEESHA GUPTA@DevsocPI](https://github.com/Forestelf6)
