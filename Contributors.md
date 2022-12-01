@@ -120,6 +120,7 @@ My name is KS
 - [Trevor Ang](https://github.com/TrevorAng)
 - [Prabhav Srivastava](https://github.com/prabhavsrivastava)
 - [Ema Omere]
+- Atul M@DevsocPI
 - [Lesh Chadick](https://github.com/lesh2)
 - [Dhruv Pandey@DevsocPI](https://github.com/dhruv12pandey)
 - [Julian Schmid](https://github.com/KingNexu)
