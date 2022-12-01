@@ -722,6 +722,7 @@ _ [ ayush Z] @ devsocPI
 - [Rami Shawwa](https://edbtz.com)
 - [Vrishti Godhwani@DevSocPI]
 - [Chhaganlaal](https://github.com/Chhaganlaal)
+- -[Manan Jain @ DevSoc](https://github.com/ItzManan)
 - [Chandra Kiran](https://github.com/chandra-kiran1)
 - [Aryan Thakore](https://github.com/Aryan1982)
 - [Hamza Nehme](https://github.com/hnehme99)
