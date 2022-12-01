@@ -27,6 +27,7 @@ Reetish Rath
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - 
 Yash Rustogi
+[Dhruv Tandon}@DevsocPI
 - [Aryan Bansal @devsocPI]
 - Moksh@DEVSOCPI
 - [Ayush Raj @DevsocPI]. (https://github.com/Aayuraju)
@@ -71,7 +72,6 @@ Edward Abel-Guobadia
 - [Ayush Raj @DevsocPI]. (https://github.com/Aayuraju)
 - Shamit Khetan @DevSoc
 - Ronit Kunkolienker @DevSoc PI
-- Nishant Raghuvanshi @DevSoc PI
 - [Alvin James Bellero](https://github.com/shiftEscape)
 - [Tanay Shenoy @DevsocPI](https://github.com/TanayCodes)
 - [Hidayatullah](https://github.com/dayatnhbtc)
