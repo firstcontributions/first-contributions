@@ -4,6 +4,7 @@
 - Nikhil Tamboli @DevSoc 
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [Pratik Ghosh]
+- [Prince Dawson](https://github.com/dawssonCodes)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Loic Mavah Tseket@DevsocPI](https://github.com/loic242)
 - Parth Shah@DevsocPI
