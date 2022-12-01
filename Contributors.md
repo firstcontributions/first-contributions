@@ -525,6 +525,7 @@ _ [ ayush Z] @ devsocPI
 - [MAHASAPU](https://github.com/MahasApu)
 - [Sarah Mukuti](https://github.com/cesarWrites)
 - [Bharat Mishra](https://github.com/BMlookingforaW)
+- Vartika Parikh @DevSocPI
 - [Pradyumn](https://github.com/Hannibal404)
 - [Utku Çamlıdağ](https://github.com/UtkuCmldg)
 - [Suchit Deshmukh](https://github.com/suchitd11)
