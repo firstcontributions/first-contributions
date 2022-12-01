@@ -1,7 +1,8 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-- Nikhil Tamboli @DevSoc 
+
+- Nikhil Tamboli @DevSoc
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [Pratik Ghosh]
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
@@ -10,10 +11,10 @@
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001)
-aditya bagla
-Reetish Rath
-[Dhruv Pandey@Devsoc](https://github.com/dhruv12pandey)
-[Pranjay Yelkotwar] @DevSocInductions
+  aditya bagla
+  Reetish Rath
+  [Dhruv Pandey@Devsoc](https://github.com/dhruv12pandey)
+  [Pranjay Yelkotwar] @DevSocInductions
 - [Kshitij Verma@DevsocPI](https://github.com/melon9829)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Sanskar Mundhra@DevsocPI](https://github.com/SunMoon97)
@@ -25,13 +26,12 @@ Reetish Rath
 
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
-- 
-Yash Rustogi
+- Yash Rustogi
 - [Aryan Bansal @devsocPI]
 - Moksh@DEVSOCPI
 - [Ayush Raj @DevsocPI]. (https://github.com/Aayuraju)
 - [Jatin Gahlot @DevSocPI]
-  [Mustafa-Alwalss]. 
+  [Mustafa-Alwalss].
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
 - aumkar@DevsocPI
@@ -74,7 +74,7 @@ Yash Rustogi
 - [Adlizone](https://github.com/adlizone)
 - [Palak Sinha](https://github.com/sinhapalak)
 - [Ravi Ranjan Kumar](https://github.com/iam-ravi-11)
-- [Hruday K] @ Devsoc PI  (https://github.com/hrudayk46)
+- [Hruday K] @ Devsoc PI (https://github.com/hrudayk46)
 - [Alleznav] (https://github.com/Alleznav)
 - [Nipun] (https://github.com/nipunupekshana)
 - [Praveen Dias](https://github.com/praveendias1180)
@@ -142,8 +142,7 @@ Yash Rustogi
 - [Mohamed Djebloun](https://github.com/mohameddjebloun)
 - [Vanshagra Rai](https://github.com/VanshagraRai)
 - [Ausawin Saehaan](https://github.com/saehaana)
-- [Rajiv Galgali]
--[VAGEESHA GUPTA@DevsocPI](https://github.com/Forestelf6)
+- [Rajiv Galgali] -[VAGEESHA GUPTA@DevsocPI](https://github.com/Forestelf6)
 - [Fvoice](https://github.com/facelessvoice)
 - [Jeffrey Neal](https://github.com/ToastBubbles)
 - [Khant Sithu Zaw](https://github.com/KHANT-SITHUZAW)
@@ -880,7 +879,8 @@ Yash Rustogi
 - [Basant Singh Dobal 👨‍💻](https://github.com/basantsd)
 - [Julia Kuchle](https://github.com/JuliaGK)
 - [Marek Wasilczuk](https://github.com/tw-mwasilczuk)
-<!-- prettier-ignore-end -->
-Ulises Quiñonez
-[Siddharth Thakur]@devsoc pi
+  <!-- prettier-ignore-end -->
+  Ulises Quiñonez
+  [Siddharth Thakur]@devsoc pi
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
+- [kailoon](https://github.com/kailoon)
