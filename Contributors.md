@@ -35,6 +35,7 @@ Yash Rustogi
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
 - aumkar@DevsocPI
+- [Anshuman Nigam @DevSocPI]
 - [VAGEESHA GUPTA@DevsocPI](https://github.com/Forestelf6)
 - [Ashish Ratre](https://github.com/ashishratre404)
 - [Neha Menon@DevsocPI](https://github.com/thenehamenon)
