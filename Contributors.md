@@ -152,7 +152,7 @@ _ [ ayush Z] @ devsocPI
 - [Vibhav Joshi](https://github.com/DATTU005)
 - [Kripa Sindhu](https://github.com/kripasindhu-007)
 - [Jayanth](https://github.com/iamjayanthr)
-- [Mohamed Djebloun](https://github.com/mohameddjebloun)
+- [viral mishra@DevsocPI](https://github.com/mohameddjebloun)
 - [Vanshagra Rai](https://github.com/VanshagraRai)
 - [Ausawin Saehaan](https://github.com/saehaana)
 - [Rajiv Galgali]
