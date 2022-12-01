@@ -522,6 +522,7 @@ _ [ ayush Z] @ devsocPI
 - [Dibyendu Das](https://github.com/dibyendu02)
 - [Amilcar Rodriguez](https://github.com/mkhi33)
 - [Megha](https://github.com/SBMegha)
+- [Shrey Saraf@DevSocPI]
 - [Rahul Saha](https://github.com/Rahul10Saha)
 - [Dixon Loo](https://github.com/dxnlu)
 - [Jose Armando](https://github.com/Armando-Grados)
