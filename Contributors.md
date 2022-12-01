@@ -225,6 +225,7 @@ _ [ ayush Z] @ devsocPI
 - [Masih Karimi](https://github.com/MasihKarimi)
 - [Aster Fung](https://github.com/aster-fung)
 - [Gabriel Waegner](https://github.com/Gwaegs)
+- [Pray Raskapoorwala]@DevSocPI
 - [Boris Ynyr](https://github.com/BorisYnyr)
 - [Anand S](https://github.com/anand2000s)
 - [Aryan Wadhwa](https://github.com/TastyBiscuit0808/first-contributions)
