@@ -60,7 +60,6 @@ Edward Abel-Guobadia
 - [Pawan Yadav](https://github.com/pawanyy)
 - [CherylChaudhari@DevsocPI](https://github.com/cherxoxo10)
 - [Saptarshi Ghosh @devsoc2022](https://github.com/zack-carnet)
-- [Sreeram P @DevSoc](https://github.com/sreeramps10)
 - [Somnath Golui](https://github.com/somu-code)
 - [Khushboo Jain @DevSoc]
 - [Jiving Pete's Frisky Dynamite](https://github.com/jives-mcgee)
