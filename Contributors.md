@@ -666,6 +666,7 @@ _ [ ayush Z] @ devsocPI
 - [Shravan Seth](https://github.com/ShravanSeth)
 - [Shaavi Gupta](https://github.com/ShaaviGupta)
 - [Sai Rohit](https://github.com/sairohit360)
+- [Vrishti Godhwani@DevSocPI]
 - [James Anyalewechi](https://github.com/jamesgotech)
 - [Dibakar Upadhyaya](https://github.com/Dibakar01)
 - [Johan Kreivi](https://github.com/0h4y)
