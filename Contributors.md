@@ -177,6 +177,7 @@ _ [ ayush Z] @ devsocPI
 - [Jayanth](https://github.com/iamjayanthr)
 - [viral mishra@DevsocPI](https://github.com/mohameddjebloun)
 - [Vanshagra Rai](https://github.com/VanshagraRai)
+- [Divyansh Dabral @DevsocPI]
 - [Ausawin Saehaan](https://github.com/saehaana)
 - [Rajiv Galgali]
 - [Aarav Shah](https://github.com/Aaravsh) @DevSocPI
