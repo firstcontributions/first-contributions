@@ -586,6 +586,7 @@ _ [ ayush Z] @ devsocPI
 - [Sam Erde](https://github.com/SamErde)
 - [Danny Bae](https://github.com/danveb)
 - [Abhishek Nayak](https://github.com/Abhishek2nayak)
+- [Yash Chaphekar@DevsocPI](https://github.com/chaphekar)
 - [Sarthak Patel](https://github.com/sarthakworkspace)
 - [Ping](https://github.com/yaein-c)
 - [Shubharthi Nath](https://github.com/shubharthinath)
