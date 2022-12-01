@@ -608,6 +608,7 @@ _ [ ayush Z] @ devsocPI
 - [TurtleJay](https://github.com/TurtleJay)
 - [Gaurav Giri](https://github.com/gaurovgiri)
 - [T4EK](https://github.com/T4EK)
+- [Dhruv Tandon]@DevsocPI
 - [Ashwin Bhagavatula](https://github.com/ashwinbhagavatula)
 - [smdch](https://github.com/smdch)
 - [gonend](https://github.com/gonend)
