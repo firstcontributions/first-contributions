@@ -50,6 +50,7 @@ Edward Abel-Guobadia
 - [Akshaj Jha@DevSocPI](https://github.com/Akshajha07)
 - [Hosea Kipkoech@DevSocPI](http://github.com/kipkoech88) ]
 - [Pranay Chakravarty@devsocPI](https://github.com/Mr-Mystic)
+- [Akshaj Jha](https://github.com/Akshajha07)
 - [Sasmit Datta @DevsocPI](https://github.com/Sasopsy)
 - [GurglingHammer @DevsocPI](https://github.com/GurglingHammer)
 - [Shardul Tomat@DevsocPI](https://github.com/ShardulT04)
