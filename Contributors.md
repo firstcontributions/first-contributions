@@ -221,6 +221,7 @@ _ [ ayush Z] @ devsocPI
 - [Lorenzo Francisco](https://github.com/lozo6)\
 - [Arkaprava Roy@DevSocPI]
 - [Tim Judy](https://github.com/tljudy)
+- [Khushboo Jain @DevSoc]
 - [Berzan Tas](https://github.com/BerzanTas)
 - [Pratyush Tyagi](https://github.com/Pratyush0612)
 - [Surajit Dey Sarkar](https://github.com/Surajitds)
