@@ -283,7 +283,7 @@ _ [ ayush Z] @ devsocPI
 - [Sarthak Mittal](https://github.com/SarthakMittal777)
 - [Luisa Haase](https://github.com/luisaha)
 - [Nayna Sahu](https://github.com/NaynaSahu/)
-- [Bruno De Paula 🚀](https://github.com/Gr33nLight)
+- shaurya tripathi @devsocpi
 - [Sudarsan Balaji](https://github.com/artfuldev)
 - [jatin kumar](https://github.com/jatin75757)
 - [ahmad nawaz khan](https://github.com/4hmaad)
