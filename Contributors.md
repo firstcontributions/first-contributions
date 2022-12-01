@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - Nikhil Tamboli @DevSoc 
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
+- [Mudasir H](https://github.com/mh-jsx)
 - [Pratik Ghosh]
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Loic Mavah Tseket@DevsocPI](https://github.com/loic242)
