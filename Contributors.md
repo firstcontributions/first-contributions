@@ -291,6 +291,7 @@ Yash Rustogi
 - [Divyanshu Singhal](https://github.com/divyanshu9821)
 - [Don Chisolm](https://github.com/Donchiz77)
 - [Usman Khan](https://github.com/UsmanK7)
+- [Tathagata Roy]
 - [Shannon Torcato](https://github.com/shannontorcato)
 - [DaneeSkripter](htttps://github.com/daneeskripter)
 - [IsaacWritesCode](https://github.com/IsaacWritesCodeGithub)
