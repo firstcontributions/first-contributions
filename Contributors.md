@@ -875,6 +875,7 @@ _ [ ayush Z] @ devsocPI
 - [Samar@DevsocPI](https://github.com/canondroid)
 - [Jiao Liu](https://github.com/ildnyy)
 - [Leonel Santos](https://github.com/leonelSantos)
+- [Vijay Singh Kushwaha](https://github.com/h3110Fr13nd)
 - [Vatler Lett](https://github.com/scarlett1130)
 - [Danities Ichaba](https://github.com/Danities316)
 - [Shanth](https://github.com/kshanth)
