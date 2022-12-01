@@ -59,6 +59,8 @@ Edward Abel-Guobadia
 - [Arman Karimi](https://github.com/iArmanKarimi/)
 - [SleepyPeanut] (https://github.com/sleepypeanut)
 - [Pradeep Kurapati] (https://github.com/Pradeep-Kurapati)
+- [Divyansh Singh @devsoc pre induction]
+- [Taksh Paresh Patel @devsoc pre induction]
 - [Aibek Z] (https://github.com/aibekz)
 - [Aadi Joshi @DevsocPI]
 - [Mohak Jain DevSoC pre inductions]
@@ -869,6 +871,7 @@ Edward Abel-Guobadia
 - [Harish Krishnan](https://github.com/dirtyKitchen)
 - [Ketan Kulkarni] (https://github.com/kulketan)
 - [Zherish Galvin Mayordo](https://github.com/zhrssh)
+
 - [Le Thai Anh](https://github.com/lethaianhle)
 - [czc](https://github.com/czc-gd)
 - [Nguyen Dang Quy](https://github.com/dangquyit)
