@@ -969,6 +969,7 @@ _ [ ayush Z] @ devsocPI
 - [czc](https://github.com/czc-gd)
 - Tanishq Agarwal @Devsocpreinductions
 - [Nguyen Dang Quy](https://github.com/dangquyit)
+- [Aryan Bansal @devsocPI](https://github.com/oye-aryan)
 - [Zac Nation](https://github.com/zacnation)
 - [Salwa Mansour](https://github.com/Salwa-mansour)
 - [Bellhwi](https://github.com/bellhwi)
