@@ -851,6 +851,7 @@ _ [ ayush Z] @ devsocPI
 - [notkaylee]
 - [Jesse Gerbrandt](https://github.com/Jgerbrandt)
 - [Aditya Singhal](https://github.com/adityaacse)
+- [Deept Ratna @devsocpi]
 - [PDPkrypto](https://github.com/kodevasse)
 - [Utsav Akash Naskar](https://github.com/Utsav1999)
 - [Anish Doshi](https://github.com/doshianish8)
