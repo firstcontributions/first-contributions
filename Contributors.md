@@ -257,6 +257,7 @@ _ [ ayush Z] @ devsocPI
 - [Adeolu Oyinlola](https://github.com/deoluoyinlola)
 - [John Jacoby]
 - [kanav upadhyay](https://github.com/Sigmistic2k4)
+- [Dhruv]
 - [Alisher Muzaffarov](https://github.com/aliml92)
 - [Jessica Nam](https://github.com/jessica-nam)
 - [Apeksha Arora](http://github.com/apekshasan)
