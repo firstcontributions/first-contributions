@@ -134,6 +134,7 @@ Edward Abel-Guobadia
 - [Jenny F](https://github.com/J-Ning)
 - [Partha Maity](https://github.com/parthmty)
 - [Puneet](https://github.com/Puneetpotter)
+_ [ ayush Z] @ devsocPI
 - [Shrankhla](https://github.com/shrankhla20)
 - [devdeveloper1](https://github.com/devdeveloper1)
 - [DippleThree](https://github.com/GGitHill)
@@ -164,7 +165,6 @@ Edward Abel-Guobadia
 - [Sabir Khan](https://github.com/simplysabir)
 - [Dennis Macharia Njogu](https://github.com/Mashnjogu)
 - [Hrushabhsingh Chouhan](https://github.com/hrushabhchouhan)
-- [Gautam Agarwal @DevsocPI](https://github.com/Gautambpgc)
 - [Aman Bharti](https://github.com/aman0ab)
 - [Sanskar Jain](https://github.com/SanskarJain007)
 - [Archishman Dash](https://www.github.com/aholic-archie)
@@ -490,7 +490,6 @@ Edward Abel-Guobadia
 - [Abdullatif Khayat](https://github.com/Abdullatif-K123)
 - [Ayasha](https://github.com/AyashaSikilkar)
 - [Varun Kumar](https://github.com/kukutapuvarun)
-- [Jainam Shah @DevsocPI](https://github.com/jainams7)
 - [Suchit](https://github.com/Suchitsj12)
 - [Mtothee] (https://github.com/Mtothee)
 - [Safadtm](https://github.com/safadtm)
