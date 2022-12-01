@@ -839,6 +839,7 @@ _ [ ayush Z] @ devsocPI
 - [shrthk-7](https://github.com/shrthk-7)
 - [Yash Thakur](https://github.com/philomathaf)
 - [Rajarshi Bhattacharya](https://github.com/rajarshi023)
+- [Samar Jalil Siddiqui](https://github.com/canondroid)
 - [Adnan Ahmed](https://github.com/fidato818)
 - [Divesh Singla](https://github.com/Diveshsingla)
 - [Mandar Deshmukh](https://github.com/mandarsd18)
