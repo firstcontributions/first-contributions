@@ -210,6 +210,7 @@ Yash Rustogi
 - [Pratyush Tyagi](https://github.com/Pratyush0612)
 - [Surajit Dey Sarkar](https://github.com/Surajitds)
 - [Krish Vora](https://github.com/Krishvora)
+- [Joyson Chacko George](https://github.com/joygeo007)
 - [Mohit Marathe](https://github.com/Mohit2758)
 - [Edwin Kim](https://github.com/edwinkim97)
 - [Varun Shah](https://github.com/varunlmxd)
