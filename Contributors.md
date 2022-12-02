@@ -724,6 +724,7 @@ _ [ ayush Z] @ devsocPI
 - [Tasnim@DevSocPI](https://github.com/tasnim496)
 - [AVINASH YADAV](https://github.com/Happylife10)
 - [Joshua Knorz](https://github.com/JoshKn)
+- [SAI CHIDVILAS G@DevsocPI](https://github.com/chadvilas) 
 - [Tri Pham](https://github.com/TriMPham98)
 - [Vishvesh Pratap Singh](https://github.com/Vish221)
 - Akhil Sai K@DevsocPI
