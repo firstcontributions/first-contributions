@@ -225,6 +225,7 @@ _ [ ayush Z] @ devsocPI
 - [Manish GS Parmar@DevSocPI](https://github.com/ManishWho)
 - [Jamal Abdulrazik](https://github.com/JamalAbdulrazik)
 - [Noy Hanan](https://github.com/noy-h)
+- [Vitya Livshits](https://github.com/cuteWarmFrog)
 - [Andreas](https://github.com/Andreas1593)
 - [Martin Kubona](https://github.com/MartinKayz)
 - [Joe AB](https://github.com/joewab)
