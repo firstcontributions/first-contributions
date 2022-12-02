@@ -902,7 +902,7 @@ _ [ ayush Z] @ devsocPI
 - [Rishabh yaduwanshi](https://github.com/rishabhyaduwanshi)
 - [Suraj Patel](https://github.com/Surajpatel2003)
 - [Raghav Krishan Kedia](https://github.com/Raghav-Kedia)
-- [WhiteR4ven](https://github.com/WhiteR4ven)
+- [Anirudh Sharma @ DevsocPI]
 - [Aviraj Saxena](https://github.com/theavirajsaxena)
 - [Adugna Tadesse](https://https://github.com/Adugnatad)
 - [Allesandria Bugatti](https://github.com/Abargallo19)
