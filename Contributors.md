@@ -1005,6 +1005,7 @@ _ [ ayush Z] @ devsocPI
 - [Marek Wasilczuk](https://github.com/tw-mwasilczuk)
 - [John-Paul Wernecke](https://github.com/Revicx)
 - [Tom Davis](https://github.com/tomjdavis4)
+- [Eberechi Omeje](https://github.com/beretests)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
