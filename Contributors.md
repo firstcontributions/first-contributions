@@ -330,6 +330,7 @@ _ [ ayush Z] @ devsocPI
 - [Sudarsan Balaji](https://github.com/artfuldev)
 - [jatin kumar](https://github.com/jatin75757)
 - [ahmad nawaz khan](https://github.com/4hmaad)
+- [Tikaram Acharya](https://github.com/tikaramac19)
 - [Ishita Batra](https://github.com/ishita6)
 - [Devanshu Mahapatra](https://github.com/Devanshu-17)
 - [Pablo Alejandro](https://github.com/Pabloalesca)
