@@ -1,6 +1,7 @@
 # Contributors
 [Ramakrishnan Raghavan-devsoc]https://github.com/Ramakrishnan-R7)
 <!-- prettier-ignore-start -->
+- [Niall De Barra](https://github.com/NiallDeBarra)
 - [James Lee] (https://github.com/jameslee98)
 - Nikhil Tamboli @DevSoc 
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
