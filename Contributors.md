@@ -890,6 +890,7 @@ _ [ ayush Z] @ devsocPI
 - [Rajarshi Bhattacharya](https://github.com/rajarshi023)
 - [Samar Jalil Siddiqui](https://github.com/canondroid)
 - [Adnan Ahmed](https://github.com/fidato818)
+- [ManbhavSugla](https://github.com/manbhavsugla48)
 - [Divesh Singla](https://github.com/Diveshsingla)
 - [Mandar Deshmukh](https://github.com/mandarsd18)
 - [Azzarox](https://github.com/azzarox)
