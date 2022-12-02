@@ -999,6 +999,7 @@ _ [ ayush Z] @ devsocPI
 - [Marek Wasilczuk](https://github.com/tw-mwasilczuk)
 - [John-Paul Wernecke](https://github.com/Revicx)
 - [Tom Davis](https://github.com/tomjdavis4)
+- [Chinyere nwalie] (https://github.com/Chinyere-nwalie)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
