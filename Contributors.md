@@ -871,6 +871,7 @@ _ [ ayush Z] @ devsocPI
 - [Prathamesh Sable](https://github.com/prathameshks)
 - [Martarion](https://github.com/Martarion-Code)
 - [Martins Ngene](https://github.com/Martinsngene)
+- [Rishi Deshmukh@DEVSOCPI](https://github.com/26rishiii)
 - [vishal dhavale](https://github.com/vishu1893)
 - [Subhajit Mahata](https://github.com/subhajitkp007)
 - [Yashvardhan Agnihotri](https://github.com/25011908vardhan)
