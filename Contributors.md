@@ -697,6 +697,7 @@ _ [ ayush Z] @ devsocPI
 - [Tanishq Agarwal](https://github.com/Tanishq2807)
 - [kaushalgosaliya5](https://github.com/kaushalgosaliya5)
 - [Taaki](https://github.com/taaki2311)
+- [Vidit Jain @DevSocPI](https://github.com/ViditJain123)
 - [kaushalgosaliya5](https://github.com/kaushalgosaliya5)
 - [BerkYumuk]
 - [Jo-SungJun](https://github.com/Jo-SungJun)
@@ -730,6 +731,7 @@ _ [ ayush Z] @ devsocPI
 - [Aman Choudhary](https://github.com/aman-choudhary1)
 - [Aadi Joshi](https://github.com/AadiJ2022) @devsoc pre-inductions
 - [Dmitrii Sidenko](https://github.com/DmSide)
+- [Vi]
 - [Santiago Urbano](https://github.com/sanurb)
 - [સ્મિત કાછડીયા](https://github.com/smeekas)
 - [Rao Khuram Shahzad](https://github.com/KhuramShahzad-5335)
