@@ -120,6 +120,7 @@ My name is KS
 - [Hein Htet Zaw](https://github.com/Hendrickhz)
 - [Utkarsh Dwivedi](https://github.com/DwivediUtkarsh)
 - [s-t-e-v](https://github.com/s-t-e-v)
+- [Arjit@DevsocPI](https://github.com/arjit05)
 - [Mahadsid](https://github.com/Mahadsid)
 - [Abhishek Kumar @DevSocPreinsuctions](https://github.com/Abhik13)
 - [Trevor Ang](https://github.com/TrevorAng)
