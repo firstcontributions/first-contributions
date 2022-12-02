@@ -16,7 +16,6 @@
 - [Parth Shah@DevsocPI]
 aditya bagla
 Reetish Rath
-[Dhruv Pandey@Devsoc](https://github.com/dhruv12pandey)
 [Pranjay Yelkotwar] @DevSocInductions
 - [Kshitij Verma@DevsocPI](https://github.com/melon9829) 
 - [Divyansh Dabral @DevsocPI]
@@ -64,7 +63,6 @@ Edward Abel-Guobadia
 - [CherylChaudhari@DevsocPI](https://github.com/cherxoxo10)
 - [Saptarshi Ghosh @devsoc2022](https://github.com/zack-carnet)
 - [Somnath Golui](https://github.com/somu-code)
-- [Khushboo Jain @DevSoc]
 - [Jiving Pete's Frisky Dynamite](https://github.com/jives-mcgee)
 - [kartavya dubey at devsoc preinductions](https://github.com/Chrollucilfer)
 - [Shivani R](https://github.com/shivu-srk)
@@ -624,7 +622,7 @@ _ [ ayush Z] @ devsocPI
 - [Ruphaa Ganesan](https://github.com/ruphaa)
 - [unpluggedsam](https://github.com/unpluggedsam)
 - [JasminTajShaik](https://github.com/JasminTajShaik2601)
-- [Isaac Mellad Pemberton](https://github.com/Iketyke)
+- [Rishi Deshmukh](https://github.com/26rishiii)
 - [Nishant Kumar](https://github.com/thinkwithcode)
 - [Pragathees](https://github.com/pragasekar)
 - [Thomas Jacka](https://github.com/TJacka)
