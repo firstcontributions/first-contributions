@@ -232,6 +232,7 @@ _ [ ayush Z] @ devsocPI
 - [Joe AB](https://github.com/joewab)
 - [Chase Hunter](https://github.com/TaylorChaseHunter)
 - [Michael Sasi](https://github.com/MichaelSasi)
+- [Vandit Kharod@DevSocPI](https://github.com/Syzygy1-2)
 - [Coutlocksmith](https://github.com/coutlocksmith)
 - [Arlin Ortiz](https://github.com/Aosmiles)
 - [Aditya Sharma](https://github.com/AdityaSharma223)
