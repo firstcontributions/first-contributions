@@ -25,6 +25,7 @@ Reetish Rath
 - [Shrey Gupta@DevsocPI](https://github.com/gupta-shrey)
 - Meet Dedhia@DevsocPI
 - aditya joshi@DevSocPI
+  JamesBond 
 - Ezad Haziq Bin Zamily
 - [Neil Ohene](https://github.com/dvc-77)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
