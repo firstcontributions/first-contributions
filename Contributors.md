@@ -1002,4 +1002,4 @@ _ [ ayush Z] @ devsocPI
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
-- [Daniel Martinez](https://github.com/Gravyon
+- [Daniel Martinez](https://github.com/Gravyon)
