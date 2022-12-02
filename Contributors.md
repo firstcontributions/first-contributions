@@ -1,7 +1,7 @@
 ﻿# Contributors
 [Ramakrishnan Raghavan-devsoc]https://github.com/Ramakrishnan-R7)
 <!-- prettier-ignore-start -->
-- Nikhil Tamboli @DevSoc 
+- Nikhil Tamboli @DevSoc
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [Mudasir H](https://github.com/mh-jsx)
 - [Pratik Ghosh]
@@ -17,7 +17,7 @@
 aditya bagla
 Reetish Rath
 [Pranjay Yelkotwar] @DevSocInductions
-- [Kshitij Verma@DevsocPI](https://github.com/melon9829) 
+- [Kshitij Verma@DevsocPI](https://github.com/melon9829)
 - [Divyansh Dabral @DevsocPI]
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Sanskar Mundhra@DevsocPI](https://github.com/SunMoon97)
@@ -30,14 +30,14 @@ Reetish Rath
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Aadi Sharma@DevSocPI](https://github.com/AadiSharma001)
-- 
+-
 Yash Rustogi
 [Dhruv Tandon}@DevsocPI
 - [Aryan Bansal @devsocPI]
 - [Neha Menon@DevSocPI](https://github.com/thenehamenon)
 - [Ayush Raj @DevsocPI]. (https://github.com/Aayuraju)
 - [Jatin Gahlot @DevSocPI]
-  [Mustafa-Alwalss]. 
+  [Mustafa-Alwalss].
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - [Khushboo Jain @ DevSoc]
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
@@ -203,7 +203,7 @@ _ [ ayush Z] @ devsocPI
 - [Alex Zhao](https://github.com/zyunfeng)
 - [Gregory John](https://github.com/GregLJ)
 - [Pridhi Grag](https:/github/com/pridhigarg369)
--  
+-
 - [Juanma Romero](https://github.com/juanmaroni/)
 - [Chhabi Acharya](https://github.com/Chhabii)
 - [Sai Ram](https://github.com/Saira2002)
@@ -250,7 +250,7 @@ _ [ ayush Z] @ devsocPI
 - [Md. Zahidul Islam](https://github.com/JahidHasanCO)
 - [Brandon Andrews](https://github.com/brandrewsss)
 - [Gabriel Fernandes](https://github.com/GabrielFernandes251)
-- [Lorenzo Francisco](https://github.com/lozo6)\
+- [Lorenzo Francisco](https://github.com/lozo6)
 - [Arkaprava Roy@DevSocPI]
 - [Tim Judy](https://github.com/tljudy)
 - [Khushboo Jain @DevSoc]
@@ -723,7 +723,7 @@ _ [ ayush Z] @ devsocPI
 - [Tasnim@DevSocPI](https://github.com/tasnim496)
 - [AVINASH YADAV](https://github.com/Happylife10)
 - [Joshua Knorz](https://github.com/JoshKn)
-- [SAI CHIDVILAS G@DevsocPI](https://github.com/chadvilas) 
+- [SAI CHIDVILAS G@DevsocPI](https://github.com/chadvilas)
 - [Tri Pham](https://github.com/TriMPham98)
 - [Vishvesh Pratap Singh](https://github.com/Vish221)
 - [iParadocx](https://github.com/iParadocx)
