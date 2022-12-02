@@ -147,7 +147,6 @@ My name is KS
 - [Harsa Dash](https://github.com/harsadas)
 - [Gopalakrishnan J](https://github.com/Gopalakrishnan20)
 - [Omarali1020](https://github.com/Omarali1020)
-- [Dhruvt]
 - [Hansie Kristi](https://github.com/hansie23)
 - [Giovanni Palleschi](https://github.com/gpalleschi)
 - -[Vansh Sood @DevSoc](https://github.com/Vanshsback)_
