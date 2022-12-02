@@ -32,6 +32,7 @@ Reetish Rath
 - [Aadi Sharma@DevSocPI](https://github.com/AadiSharma001)
 - 
 Yash Rustogi
+Okuroemi Douebi Kelvin
 [Dhruv Tandon}@DevsocPI
 - [Aryan Bansal @devsocPI]
 - [Neha Menon@DevSocPI](https://github.com/thenehamenon)
