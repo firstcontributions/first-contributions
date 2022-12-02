@@ -35,6 +35,7 @@ Reetish Rath
 Yash Rustogi
 [Dhruv Tandon}@DevsocPI
 - [Aryan Bansal @devsocPI]
+- [Neha Menon@DevSocPI](https://github.com/thenehamenon)
 - [Ayush Raj @DevsocPI]. (https://github.com/Aayuraju)
 - [Jatin Gahlot @DevSocPI]
   [Mustafa-Alwalss]. 
