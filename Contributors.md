@@ -123,7 +123,6 @@ My name is KS
 - [Mahadsid](https://github.com/Mahadsid)
 - [Abhishek Kumar @DevSocPreinsuctions](https://github.com/Abhik13)
 - [Trevor Ang](https://github.com/TrevorAng)
-- [Prabhav Srivastava](https://github.com/prabhavsrivastava)
 - [Ema Omere]
 - Atul M@DevsocPI
 - [Lesh Chadick](https://github.com/lesh2)
