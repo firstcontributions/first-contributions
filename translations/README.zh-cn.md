@@ -5,13 +5,13 @@
 
 # 第一次参与开源项目
 
-万事开头难。尤其是和其他人合作时，犯错总是格外令人不舒服。不过，开源的本质就是和其他人合作。这个项目就是希望为初学者带来一个简单的方法去学习及参与开源项目。
+万事开头难。特别是和其他人合作时，出错往往会令人不适。不过，开源的本质就是和他人合作。这个项目的初衷就是为初学者提供一个简单的方法去学习以及参与开源项目。
 
-你可以选择阅读文章和观看教程来得到帮助，但实际动手才是最好的学习方式。本项目旨在简化并指导初学者参与他们的第一次开源。记住：过程越轻松，学习效益越高。如果你想要做出第一次贡献，只需按照以下简单步骤操作即可。这将很好玩 :)
+你可以通过阅读文章和观看教程来得到帮助，但上手实操才是最好的学习方式。本项目旨在简化并指导初学者参与他们的第一次开源。记住：过程越轻松，学习效益越高。如果你想要做出第一次贡献，只需按照以下简单步骤操作即可。这将会是一个很有趣的过程 :)
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-如果你的电脑上尚未安装 git, 请参考 [GitHub 文档](https://docs.github.com/cn/get-started/quickstart/set-up-git) 进行安装。
+如果你的电脑上未安装 git, 请参考 [GitHub 文档](https://docs.github.com/cn/get-started/quickstart/set-up-git) 进行安装。
 
 ## Fork（复制）本代码仓库
 
@@ -22,27 +22,27 @@
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-接下来将复制后的代码仓库克隆到你的电脑上。点击图示中的绿色按钮，接着点击复制到剪切板按钮（将代码仓库地址复制下来）
+接下来将复制的代码仓库克隆到你的电脑上。点击图示中的绿色按钮，接着点击复制到剪切板按钮（将代码仓库地址复制下来）
 
 随后打开命令行窗口，敲入如下 git 命令：
 
 ```
 git clone "刚才复制的 url 链接"
 ```
-"刚才复制的 url 链接"（去掉双引号）就是复制到你账户名下的代码仓库地址。获取这链接地址的方法请见上一步。
+"刚才复制的 url 链接"（去掉双引号）就是复制到你账户名下的代码仓库地址。获取该链接的方法详见上一步。
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 譬如：
 ```
-git clone https://github.com/你的Github用户名/first-contributions.git
+git clone https://github.com/Github用户名/first-contributions.git
 ```
 
-'你的 Github 用户名' 指的就是你的 Github 用户名。这一步，你将复制到你账户名下的 first-contributions 这个代码仓库克隆到本地电脑上。
+'Github 用户名' 指的是你的 Github 用户名。这一步，这个操作将会克隆你账户名下 first-contributions 这个代码仓库到本地电脑上。
 
 ## 新建一个代码分支
 
-下面的命令能在命令行窗口中，把目录切换到 first-contributions
+在命令行窗口中把目录切换到 first-contributions
 
 ```
 cd first-contributions
@@ -59,7 +59,7 @@ git checkout -b add-myname
 
 (新分支的名称不一定需要有 *add*。然而，在新分支的名称加入 *add* 是一件合理的事情，因为这个分支的目的是将你的名字添加到列表中。)
 
-## 对代码进行修改，而后 Commit (提交) 修改
+## 对代码进行修改，然后 Commit (提交) 修改
 
 打开 `Contributors.md` 这个文件，更新文件内容，将你的名字加上去，保存修改。`git status` 这命令会列出被改动的文件。接着 `git add` 这命令则可以添加你的改动，就像如下这条命令。
 
@@ -75,9 +75,9 @@ git commit -m "Add <你的名字> to Contributors list"
 ```
 将 `<你的名字>` 替换成你的名字
 
-## 将改动 Push（发布）到 GitHub
+## 将改动 Push（推送）到 GitHub
 
-使用 `git push` 命令发布代码
+使用 `git push` 命令推送代码
 ```
 git push origin <分支的名称>
 ```
@@ -85,7 +85,7 @@ git push origin <分支的名称>
 
 ## 提出 Pull Request 将你的修改供他人审阅
 
-前往 Github 你的代码仓库，你会看到一个 `Compare & pull request` 的按钮。点击该按钮。
+前往你的 Github 代码仓库，你会看到一个 `Compare & pull request` 的按钮。点击该按钮。
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
@@ -93,17 +93,17 @@ git push origin <分支的名称>
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-不久之后，我便会把你所有的变化合并到这个项目的主分支。更改合并后，你会收到电子邮件通知。
+不久之后，我便会把你所有的变化合并到这个项目的主分支。更改合并后，你会收到一封电子邮件通知。
 
 ### [ 更多资料 ](../additional-material/git_workflow_scenarios/additional-material.md)
 
-## 接下来做什么呢？
+## 接下来该做什么呢？
 
-为你第一次的贡献庆祝吧，不要忘记和你的朋友以及迷弟迷妹们分享我们的[网站](https://roshanjossey.github.io/first-contributions/#social-share)哟！
+为你的第一次贡献庆祝吧，不要忘记和你的朋友以及你的小迷弟小迷妹们分享我们的[网站](https://roshanjossey.github.io/first-contributions/#social-share)哟！
 
 如果有任何疑问或想获得更多协助，欢迎加入我们的 [Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)！
 
-还等什么，马上加入到其他项目的开发中去吧。为了方便你快速上手，我们收集了当前流行的众多代码仓库中，适合初学者解决的[问题列表](https://roshanjossey.github.io/first-contributions/#project-list)。
+还在等什么，马上加入到其他项目的开发中去吧！为了方便你快速上手，我们收集了当前流行的众多代码仓库中，适合初学者解决的[问题列表](https://roshanjossey.github.io/first-contributions/#project-list)。
 
 ## 使用其他工具的教程
 
