@@ -79,6 +79,7 @@ Edward Abel-Guobadia
 - [Arman Karimi](https://github.com/iArmanKarimi/)
 - [Melon98@DevsocPI](https://github.com/melon9829)
 - [SleepyPeanut] (https://github.com/sleepypeanut)
+- [Narmeen Z] (https://github.com/nrm33n)
 - [Arnav Ranjekar@DevSocPI](https://github.com/Zubenalgenubi)
 - [Pradeep Kurapati] (https://github.com/Pradeep-Kurapati)
 - [Divyansh Singh @devsoc pre induction]
