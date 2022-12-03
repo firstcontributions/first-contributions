@@ -54,6 +54,7 @@ Okuroemi Douebi Kelvin
 - [Jess Mathews](https://github.com/jessmathews)
 - [VAGEESHA GUPTA@DevsocPI](https://github.com/Forestelf6)
 - [Ashish Ratre](https://github.com/ashishratre404)
+- Gorupria
 Edward Abel-Guobadia
 - [Neha Menon@DevsocPI](https://github.com/thenehamenon)
 - [Akshaj Jha@DevSocPI](https://github.com/Akshajha07)
