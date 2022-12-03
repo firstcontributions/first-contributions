@@ -245,6 +245,7 @@ _ [ ayush Z] @ devsocPI
 - [Andreas](https://github.com/Andreas1593)
 - [Martin Kubona](https://github.com/MartinKayz)
 - [Joe AB](https://github.com/joewab)
+- [K Az](https://github.com/KDot7)
 - [Chase Hunter](https://github.com/TaylorChaseHunter)
 - [Michael Sasi](https://github.com/MichaelSasi)
 - [Vandit Kharod@DevSocPI](https://github.com/Syzygy1-2)
