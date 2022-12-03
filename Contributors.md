@@ -168,6 +168,7 @@ My name is KS
 - [anubhav verma]@DevsocPI
 - [Puneet](https://github.com/Puneetpotter)
 _ [ ayush Z] @ devsocPI
+- [Guillaume]
 - [Shrankhla](https://github.com/shrankhla20)
 - [devdeveloper1](https://github.com/devdeveloper1)
 - [DippleThree](https://github.com/GGitHill)
@@ -357,7 +358,7 @@ _ [ ayush Z] @ devsocPI
 - [Alex Song](https://github.com/TheRealAlexSong)
 - [mahalakshmikutcharlapati](https://github.com/mahalakshmikutcharlapati)
 - [aryan sinha devsoc pi](https://github.com/AryanSinha0809)
--
+- 
 - [Andrea Mammoliti](https://github.com/AndreusSH)
 - [Rayhan Ali Muhammad](https://github.com/ram191)
 - [Praddyum Verma](https://praddy2009.github.io/)
