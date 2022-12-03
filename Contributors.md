@@ -1013,6 +1013,7 @@ _ [ ayush Z] @ devsocPI
 - [John-Paul Wernecke](https://github.com/Revicx)
 - [Tom Davis](https://github.com/tomjdavis4)
 - [Eberechi Omeje](https://github.com/beretests)
+- [Iorvera](https://github.com/iorvera1/first-contributions)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
