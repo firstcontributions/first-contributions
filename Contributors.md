@@ -135,6 +135,7 @@ My name is KS
 - [Arjit@DevsocPI](https://github.com/arjit05)
 - [Mahadsid](https://github.com/Mahadsid)
 - [Abhishek Kumar @DevSocPreinsuctions](https://github.com/Abhik13)
+  [Abhishek Kumar Tamrakar @kintic013](https://github.com/kinitic013)
 - [Trevor Ang](https://github.com/TrevorAng)
 - [Ema Omere]
 - Atul M@DevsocPI
