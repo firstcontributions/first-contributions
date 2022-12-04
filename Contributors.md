@@ -9,6 +9,7 @@
 - [Mudasir H](https://github.com/mh-jsx)
 - [Pratik Ghosh]
 - [Prince Dawson](https://github.com/dawssonCodes)
+- [Suhas Chundi]
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Loic Mavah Tseket@DevsocPI](https://github.com/loic242)
 - Parth Shah@DevsocPI
