@@ -1019,6 +1019,7 @@ _ [ ayush Z] @ devsocPI
 - [Marek Wasilczuk](https://github.com/tw-mwasilczuk)
 - [John-Paul Wernecke](https://github.com/Revicx)
 - [Tom Davis](https://github.com/tomjdavis4)
+- [Janhvi Singh](https://github.com/Janhvi52)
 - [Eberechi Omeje](https://github.com/beretests)
 - [Iorvera](https://github.com/iorvera1/first-contributions)
 <!-- prettier-ignore-end -->
