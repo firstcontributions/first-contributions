@@ -1,5 +1,7 @@
 # Contributors
+
 [Ramakrishnan Raghavan-devsoc]https://github.com/Ramakrishnan-R7)
+
 <!-- prettier-ignore-start -->
 - [Lain Iwakura](https://github.com/arisuandlainkissingcompetition123456789)
 - [Niall De Barra](https://github.com/NiallDeBarra)
@@ -170,6 +172,7 @@ Edward Abel-Guobadia
 - [Puneet](https://github.com/Puneetpotter)
 _ [ ayush Z] @ devsocPI
 - [Guillaume]
+- [Haroldo Curti]
 - [Shrankhla](https://github.com/shrankhla20)
 - [devdeveloper1](https://github.com/devdeveloper1)
 - [DippleThree](https://github.com/GGitHill)
@@ -1025,6 +1028,7 @@ _ [ ayush Z] @ devsocPI
 - [Iorvera](https://github.com/iorvera1/first-contributions)
 
 <!-- prettier-ignore-end -->
+
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
 [ashutosh anand](https://github.com/AshutoshAnand123)
