@@ -1027,3 +1027,4 @@
   [Siddharth Thakur]@devsoc pi
   [ashutosh anand](https://github.com/AshutoshAnand123)
 - [James Smith](https://github.com/jamessmith)
+- [James Smith](https://github.com/jamessmith)
