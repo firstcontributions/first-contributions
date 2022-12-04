@@ -1034,4 +1034,5 @@ _ [ ayush Z] @ devsocPI
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
 [ashutosh anand](https://github.com/AshutoshAnand123)
+[Fitriningtyas](https://github.com/fitrifityanto)
 [Jaiman Munshi](https://github.com/jaimanm)
