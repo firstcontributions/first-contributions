@@ -993,6 +993,7 @@ _ [ ayush Z] @ devsocPI
 - [Ketan Kulkarni] (https://github.com/kulketan)
 - [Zherish Galvin Mayordo](https://github.com/zhrssh)
 - [Taeho Lee](https://github.com/wheels63)
+- [Kelvin950](https://github.com/kelvin950)
 - [Le Thai Anh](https://github.com/lethaianhle)
 - [czc](https://github.com/czc-gd)
 - Tanishq Agarwal @Devsocpreinductions
@@ -1022,6 +1023,7 @@ _ [ ayush Z] @ devsocPI
 - [Tom Davis](https://github.com/tomjdavis4)
 - [Eberechi Omeje](https://github.com/beretests)
 - [Iorvera](https://github.com/iorvera1/first-contributions)
+
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
