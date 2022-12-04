@@ -113,6 +113,7 @@
 - [R Sathvik]@DevsocPI
 - [Kaiden Flaig]
 - [Krunal Patel](https://github.com/kd05)
+- [Salu Alhassan](https://github.com/sky2626)
 - [harsh rathi@DevSocPI](https://github.com/harshrathi12)
 - [al-imam](https://github.com/al-imam)
 - [Vikhyat Gupta@DevsocPI]
