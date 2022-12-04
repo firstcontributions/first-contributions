@@ -2,6 +2,7 @@
 [Ramakrishnan Raghavan-devsoc]https://github.com/Ramakrishnan-R7)
 <!-- prettier-ignore-start -->
 - [Lain Iwakura](https://github.com/arisuandlainkissingcompetition123456789)
+- [Eric Joel Hernandez](https://github.com/ericjhernandezj)
 - [Niall De Barra](https://github.com/NiallDeBarra)
 - [James Lee] (https://github.com/jameslee98)
 - Nikhil Tamboli @DevSoc 
