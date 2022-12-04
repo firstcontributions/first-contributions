@@ -1,6 +1,7 @@
 # Contributors
 [Ramakrishnan Raghavan-devsoc]https://github.com/Ramakrishnan-R7)
 <!-- prettier-ignore-start -->
+- [Sharat Katwa](https://github.com/sharatkatwa)
 - [Lain Iwakura](https://github.com/arisuandlainkissingcompetition123456789)
 - [Niall De Barra](https://github.com/NiallDeBarra)
 - [Masaya Kj](https://github.com/Massas)
