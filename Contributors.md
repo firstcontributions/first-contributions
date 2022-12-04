@@ -17,9 +17,9 @@
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001)
 - [Parth Shah@DevsocPI]
-aditya bagla
-Reetish Rath
-[Pranjay Yelkotwar] @DevSocInductions
+- aditya bagla
+- Reetish Rath
+- [Pranjay Yelkotwar] @DevSocInductions
 - [Karthik Kamineni](https://github.com/Karthik-4-5-22)
 - [Kshitij Verma@DevsocPI](https://github.com/melon9829) 
 - [Divyansh Dabral @DevsocPI]
@@ -29,7 +29,7 @@ Reetish Rath
 - [Shrey Gupta@DevsocPI](https://github.com/gupta-shrey)
 - Meet Dedhia@DevsocPI
 - aditya joshi@DevSocPI
-  JamesBond 
+- JamesBond 
 - Ezad Haziq Bin Zamily
 - [Chintan Golakiya](https://github.com/chintan-golakiya)
 - [Neil Ohene](https://github.com/dvc-77)
@@ -37,9 +37,9 @@ Reetish Rath
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Aadi Sharma@DevSocPI](https://github.com/AadiSharma001)
 - 
-Yash Rustogi
-Okuroemi Douebi Kelvin
-[Dhruv Tandon}@DevsocPI
+- Yash Rustogi
+- Okuroemi Douebi Kelvin
+- [Dhruv Tandon} @DevsocPI
 - [Aryan Bansal @devsocPI]
 - [Neha Menon@DevSocPI](https://github.com/thenehamenon)
 - [Ayush Raj @DevsocPI]. (https://github.com/Aayuraju)
@@ -93,7 +93,7 @@ Edward Abel-Guobadia
 - Aniket Sonawane @Devsoc
 - [Ayush Raj @DevsocPI]. (https://github.com/Aayuraju)
 - Shamit Khetan @DevSoc
-My name is KS
+- My name is KS
 - Ronit Kunkolienker @DevSoc PI
 - [Alvin James Bellero](https://github.com/shiftEscape)
 - [Hidayatullah](https://github.com/dayatnhbtc)
@@ -613,6 +613,7 @@ _ [ ayush Z] @ devsocPI
 - [Aksheet10](https://github.com/Aksheet10)
 - [David Letaw](https://github.com/davidletaw)
 - [Sam Erde](https://github.com/SamErde)
+- [Meir Sedlis](https://github.com/MeirSedlis)
 - [yash kejriwal@devsocpi]
 - [Danny Bae](https://github.com/danveb)
 - [Abhishek Nayak](https://github.com/Abhishek2nayak)
