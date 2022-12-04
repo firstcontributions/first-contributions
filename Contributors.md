@@ -118,6 +118,7 @@ My name is KS
 - [Aditya Chaudhary at DEVSOC preinductions](https://github.com/ADITYAC1234)
 - [Melek Msakni](https://github.com/melekmsakni)
 - Michael Lewis @DevSoc
+- [Ryan Harris](https://github.com/ryanh210757)
 - [Lakshan Perera](https://github.com/0xluckycode)
 - [Khushboo Jain @devsoc pre-induction](https://github.com/khushbooj2903)
 - [Chouaieb Nemri](https://github.com/cnemri)
