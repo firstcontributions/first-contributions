@@ -1012,7 +1012,7 @@ _ [ ayush Z] @ devsocPI
 - [Kumar Kashyap@devsoc](https://github.com/KashyapJod)
 - [Benny Tso](https://github.com/bennytso88)
 - [kartavya@devsoc](https://github.com/Chrollucilfer)
--[Kumar Kashyap](https://github.com/KashyapJod)@devsoc
+- [Kumar Kashyap](https://github.com/KashyapJod)@devsoc
 - [Divyam Joshi](https://github.com/iamgroot9)@devsoc
 - [Saurav@DevSocPI](https://github.com/AlexThundrous)
 - [Paresh Kumar Rout](https://github.com/Routparesh)
@@ -1023,8 +1023,8 @@ _ [ ayush Z] @ devsocPI
 - [John-Paul Wernecke](https://github.com/Revicx)
 - [Tom Davis](https://github.com/tomjdavis4)
 - [Eberechi Omeje](https://github.com/beretests)
+- [Kylin Schneider](https://github.com/KyeByeHi)
 - [Iorvera](https://github.com/iorvera1/first-contributions)
-
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
