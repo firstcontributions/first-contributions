@@ -936,6 +936,7 @@ _ [ ayush Z] @ devsocPI
 - [Shantanu29kumar](https://github.com/Shantanu29kumar)
 - [IsaacNewTom](https://github.com/IsaacNewTom)
 - [Jessica Hsiang](https://github.com/hsiangj)
+- [Praveen Kumar](https://github.com/pravo23)
 - [Jai-Marothiya](https://github.com/Jai-Marothiya)
 - [Ahan Bandyopadhyay](https://github.com/ahanban15)
 - [Monodeep-Das](https://github.com/Monodeep-Das)
