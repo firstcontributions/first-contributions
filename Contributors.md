@@ -1021,6 +1021,7 @@ _ [ ayush Z] @ devsocPI
 - [Tom Davis](https://github.com/tomjdavis4)
 - [Eberechi Omeje](https://github.com/beretests)
 - [Iorvera](https://github.com/iorvera1/first-contributions)
+- [zhkuo24](https://github.com/zhkuo24)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
