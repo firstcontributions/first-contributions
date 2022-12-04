@@ -878,4 +878,4 @@ Yash Rustogi
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
- - Anshum Shukla (https://twitter.com/anshumshukla)
+ - Anshum Shukla (https://twitter.com/anshumshukla )
