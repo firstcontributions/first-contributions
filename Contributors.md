@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Lain Iwakura](https://github.com/arisuandlainkissingcompetition123456789)
 - [Niall De Barra](https://github.com/NiallDeBarra)
+- [Masaya Kj](https://github.com/Massas)
 - [James Lee] (https://github.com/jameslee98)
 - Nikhil Tamboli @DevSoc
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
