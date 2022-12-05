@@ -33,6 +33,7 @@
 - [Shrey Gupta@DevsocPI](https://github.com/gupta-shrey)
 - Meet Dedhia@DevsocPI
 - aditya joshi@DevSocPI
+- [RA341](https://github.com/RA341)
 - JamesBond 
 - Ezad Haziq Bin Zamily
 - [Chintan Golakiya](https://github.com/chintan-golakiya)
