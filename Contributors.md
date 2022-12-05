@@ -960,6 +960,7 @@ _ [ ayush Z] @ devsocPI
 - [Harsa Dash](https://github.com/harsadas)
 - [Samar@DevsocPI](https://github.com/canondroid)
 - [Jiao Liu](https://github.com/ildnyy)
+- [peng_cheng](https://github.com/wespc)
 - [Leonel Santos](https://github.com/leonelSantos)
 - [Vijay Singh Kushwaha](https://github.com/h3110Fr13nd)
 - [Vatler Lett](https://github.com/scarlett1130)
@@ -983,7 +984,6 @@ _ [ ayush Z] @ devsocPI
 - [VAGEESHA GUPTA@DevsocPI](https://github.com/Forestelf6)
 - [Ketan Kulkarni] (https://github.com/kulketan)
 - [Zherish Galvin Mayordo](https://github.com/zhrssh)
-
 - [Le Thai Anh](https://github.com/lethaianhle)
 - [czc](https://github.com/czc-gd)
 - Tanishq Agarwal @Devsocpreinductions
@@ -999,7 +999,6 @@ _ [ ayush Z] @ devsocPI
 - [Preet Gupta@devsoc](https://github.com/preetgupta32)
 - [Yash Jhawar@devsocPI](https://github.com/yash-jhawar007)
 - [Kumar Kashyap@devsoc](https://github.com/KashyapJod)
-
 - [kartavya@devsoc](https://github.com/Chrollucilfer)
 -[Kumar Kashyap](https://github.com/KashyapJod)@devsoc
 - [Divyam Joshi](https://github.com/iamgroot9)@devsoc
