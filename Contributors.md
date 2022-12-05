@@ -1025,3 +1025,4 @@ _ [ ayush Z] @ devsocPI
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
 [ashutosh anand](https://github.com/AshutoshAnand123)
+[Zainab Nisa](https://github.com/ZainabNisa786)
