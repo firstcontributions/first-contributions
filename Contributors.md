@@ -9,6 +9,7 @@
 - [James Lee] (https://github.com/jameslee98)
 - Nikhil Tamboli @DevSoc
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
+- [Alvin Setya Pranata]("https://github.com/AlvinSetyaPranata)
 - [Mudasir H](https://github.com/mh-jsx)
 - [Pratik Ghosh]
 - [Prajwal Dhungana](https://github.com/PrajwalDhungana)
