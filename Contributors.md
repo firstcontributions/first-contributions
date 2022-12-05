@@ -5,6 +5,7 @@
 - [Lain Iwakura](https://github.com/arisuandlainkissingcompetition123456789)
 - [Ritesh Chikhlonde](https://github.com/riteshx0)
 - [Niall De Barra](https://github.com/NiallDeBarra)
+- [Rav Krof](https://github.com/Ravkrof)
 - [Masaya Kj](https://github.com/Massas)
 - [James Lee] (https://github.com/jameslee98)
 - Nikhil Tamboli @DevSoc
