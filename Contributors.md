@@ -4,6 +4,7 @@
 - [Sharat Katwa](https://github.com/sharatkatwa)
 - [Lain Iwakura](https://github.com/arisuandlainkissingcompetition123456789)
 - [Ritesh Chikhlonde](https://github.com/riteshx0)
+- [Shivansh Chauhan](https://github.com/Cshiva773)
 - [Niall De Barra](https://github.com/NiallDeBarra)
 - [Masaya Kj](https://github.com/Massas)
 - [James Lee] (https://github.com/jameslee98)
