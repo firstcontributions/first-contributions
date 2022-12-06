@@ -54,6 +54,7 @@
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
 - [vandan doshi](https://github.com/Vandan19)
 - aumkar@DevsocPI
+- [Sean Sew](https://github.com/ExpressOwl)
 - [Anshuman Nigam @DevSocPI]
 - [Jess Mathews](https://github.com/jessmathews)
 - [VAGEESHA GUPTA@DevsocPI](https://github.com/Forestelf6)
