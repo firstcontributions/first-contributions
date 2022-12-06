@@ -35,6 +35,7 @@
 - aditya joshi@DevSocPI
 - JamesBond 
 - Ezad Haziq Bin Zamily
+- [Oyelowo Oyeleye Samuel](https://github.com/sammy-yuntin)
 - [Chintan Golakiya](https://github.com/chintan-golakiya)
 - [Neil Ohene](https://github.com/dvc-77)
 - [Raghav Jit](https://github.com/RaghavJit)
