@@ -14,6 +14,7 @@
 - [Mudasir H](https://github.com/mh-jsx)
 - [Pratik Ghosh]
 - Arman Kumar Jena
+- [Alon Katz](https://github.com/AlonKz1)
 - [Prajwal Dhungana](https://github.com/PrajwalDhungana)
 - [Prince Dawson](https://github.com/dawssonCodes)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
