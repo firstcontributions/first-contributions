@@ -13,6 +13,7 @@
 - [Pratik Ghosh]
 - [Prajwal Dhungana](https://github.com/PrajwalDhungana)
 - [Prince Dawson](https://github.com/dawssonCodes)
+- [XiD Legend](https://www.youtube.com/watch?v=BBJa32lCaaY)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Loic Mavah Tseket@DevsocPI](https://github.com/loic242)
 - Parth Shah@DevsocPI
