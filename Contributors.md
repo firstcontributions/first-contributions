@@ -33,7 +33,7 @@
 - [Shrey Gupta@DevsocPI](https://github.com/gupta-shrey)
 - Meet Dedhia@DevsocPI
 - aditya joshi@DevSocPI
-- JamesBond 
+- JamesBond
 - Ezad Haziq Bin Zamily
 - [Chintan Golakiya](https://github.com/chintan-golakiya)
 - [Neil Ohene](https://github.com/dvc-77)
@@ -225,7 +225,7 @@ _ [ ayush Z] @ devsocPI
 - [Alex Zhao](https://github.com/zyunfeng)
 - [Gregory John](https://github.com/GregLJ)
 - [Pridhi Grag](https:/github/com/pridhigarg369)
--  
+-
 - [Juanma Romero](https://github.com/juanmaroni/)
 - [Chhabi Acharya](https://github.com/Chhabii)
 - [Sai Ram](https://github.com/Saira2002)
@@ -1033,6 +1033,7 @@ _ [ ayush Z] @ devsocPI
 - [Kylin Schneider](https://github.com/KyeByeHi)
 - [Iorvera](https://github.com/iorvera1/first-contributions)
 - [danesusername](https://github.com/danesusername)
+- [Kohei Onishi](https://github.com/onishi-kohei)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
