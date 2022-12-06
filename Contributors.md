@@ -146,6 +146,7 @@
 - [Abhishek Kumar @DevSocPreinsuctions](https://github.com/Abhik13)
 - [Trevor Ang](https://github.com/TrevorAng)
 - [Ema Omere]
+- [Handan Yenial]
 - Atul M@DevsocPI
 - [Lesh Chadick](https://github.com/lesh2)
 - [Dhruv Pandey@DevsocPI](https://github.com/dhruv12pandey)
