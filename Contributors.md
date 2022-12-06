@@ -13,6 +13,7 @@
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [Mudasir H](https://github.com/mh-jsx)
 - [Pratik Ghosh]
+-[Muhammad Saad]
 - Arman Kumar Jena
 - [Prajwal Dhungana](https://github.com/PrajwalDhungana)
 - [Prince Dawson](https://github.com/dawssonCodes)
