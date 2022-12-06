@@ -1033,6 +1033,7 @@ _ [ ayush Z] @ devsocPI
 - [Kylin Schneider](https://github.com/KyeByeHi)
 - [Iorvera](https://github.com/iorvera1/first-contributions)
 - [danesusername](https://github.com/danesusername)
+- [Rei-Suzuki1729](https://github.com/Rei-Suzuki1729)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
