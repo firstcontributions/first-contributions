@@ -2,6 +2,7 @@
 [Ramakrishnan Raghavan-devsoc]https://github.com/Ramakrishnan-R7)
 <!-- prettier-ignore-start -->
 - [Sharat Katwa](https://github.com/sharatkatwa)
+- [Polu Tharun Kumar Reddy](https://github.com/TharunKumarReddyPolu)
 - [Lain Iwakura](https://github.com/arisuandlainkissingcompetition123456789)
 - [Ritesh Chikhlonde](https://github.com/riteshx0)
 - [Niall De Barra](https://github.com/NiallDeBarra)
