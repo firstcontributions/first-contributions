@@ -34,6 +34,7 @@
 - Meet Dedhia@DevsocPI
 - aditya joshi@DevSocPI
 - JamesBond 
+- Yashwanth Krishna
 - Ezad Haziq Bin Zamily
 - [Chintan Golakiya](https://github.com/chintan-golakiya)
 - [Neil Ohene](https://github.com/dvc-77)
