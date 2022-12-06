@@ -238,6 +238,7 @@ _ [ ayush Z] @ devsocPI
 - [Vikhyat Gupta@DevsocPI](https://github.com/Vikhyat0908)
 - [sankarapandi](https://github.com/Sankarapandi-Murugan)
 - [Poyraz Bahcivan](https://github.com/poyrazbahcivan)
+- [desk7](https://github.com/desk7)
 - [Ryan Ignasiak](https://github.com/theravenousR)
 - [Arman Hadzigrahic](https://github.com/armeono)
 - [Anand Dubey](https://github.com/AnandDubey1711)
