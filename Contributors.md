@@ -1,5 +1,5 @@
 # Contributors
-[Ramakrishnan Raghavan-devsoc]https://github.com/Ramakrishnan-R7)
+[Adilet Berdibekov]https://github.com/berdibekovadilet
 <!-- prettier-ignore-start -->
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
 - [Sharat Katwa](https://github.com/sharatkatwa)
