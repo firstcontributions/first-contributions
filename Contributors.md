@@ -560,6 +560,7 @@ _ [ ayush Z] @ devsocPI
 - [Snigdha Sinha](https://github.com/snigdhaop)
 - [Dibyendu Das](https://github.com/dibyendu02)
 - [Amilcar Rodriguez](https://github.com/mkhi33)
+- [Norbert Nagy-Seres](https://github.com/NorbertNagySeres)
 - [Megha](https://github.com/SBMegha)
 - [Shrey Saraf@DevSocPI]
 - [Rahul Saha](https://github.com/Rahul10Saha)
