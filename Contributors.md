@@ -221,6 +221,7 @@ _ [ ayush Z] @ devsocPI
 - [Vanshagra Rai](https://github.com/VanshagraRai)
 - [Divyansh Dabral @DevsocPI]
 - [Ausawin Saehaan](https://github.com/saehaana)
+- [Matthew Song](https://github.com/LuxArgentum)
 - [Rajiv Galgali]
 - [Aarav Shah](https://github.com/Aaravsh) @DevSocPI
 - [Fvoice](https://github.com/facelessvoice)
