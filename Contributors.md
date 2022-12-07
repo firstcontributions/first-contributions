@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Richard McCormick](https://github.com/rmccormick314)
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
+- [Luke Soderquist](https://github.com/lsoderquist)
 - [Sharat Katwa](https://github.com/sharatkatwa)
 - [Lain Iwakura](https://github.com/arisuandlainkissingcompetition123456789)
 - [Ritesh Chikhlonde](https://github.com/riteshx0)
