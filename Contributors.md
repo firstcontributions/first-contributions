@@ -37,6 +37,7 @@
 - Meet Dedhia@DevsocPI
 - [Sumer Punjabi](https://github.com/sumerpunjabi)
 - aditya joshi@DevSocPI
+- [RA341](https://github.com/RA341)
 - JamesBond 
 - Ezad Haziq Bin Zamily
 - [Oyelowo Oyeleye Samuel](https://github.com/sammy-yuntin)
