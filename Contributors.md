@@ -1,6 +1,10 @@
 # Contributors
+
 [Ramakrishnan Raghavan-devsoc]https://github.com/Ramakrishnan-R7)
+
 <!-- prettier-ignore-start -->
+
+- [Seinlus Nyongegesa](https://github.com/seinlusnyongesa)
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
 - [Sharat Katwa](https://github.com/sharatkatwa)
 - [Lain Iwakura](https://github.com/arisuandlainkissingcompetition123456789)
@@ -36,7 +40,7 @@
 - [Shrey Gupta@DevsocPI](https://github.com/gupta-shrey)
 - Meet Dedhia@DevsocPI
 - aditya joshi@DevSocPI
-- JamesBond 
+- JamesBond
 - Ezad Haziq Bin Zamily
 - [Oyelowo Oyeleye Samuel](https://github.com/sammy-yuntin)
 - [Chintan Golakiya](https://github.com/chintan-golakiya)
@@ -173,13 +177,13 @@
 - [Omarali1020](https://github.com/Omarali1020)
 - [Hansie Kristi](https://github.com/hansie23)
 - [Giovanni Palleschi](https://github.com/gpalleschi)
-- -[Vansh Sood @DevSoc](https://github.com/Vanshsback)_
+- -[Vansh Sood @DevSoc](https://github.com/Vanshsback)\_
 - [Redsam](https://github.com/Redsamx)
 - [Vikhyat Gupta@DevsocPI](https://github.com/Vikhyat0908)
 - [Jenny F](https://github.com/J-Ning)
 - [anubhav verma]@DevsocPI
 - [Puneet](https://github.com/Puneetpotter)
-_ [ ayush Z] @ devsocPI
+  \_ [ ayush Z] @ devsocPI
 - [Guillaume]
 - [Shrankhla](https://github.com/shrankhla20)
 - [devdeveloper1](https://github.com/devdeveloper1)
@@ -230,7 +234,7 @@ _ [ ayush Z] @ devsocPI
 - [Alex Zhao](https://github.com/zyunfeng)
 - [Gregory John](https://github.com/GregLJ)
 - [Pridhi Grag](https:/github/com/pridhigarg369)
--  
+-
 - [Juanma Romero](https://github.com/juanmaroni/)
 - [Chhabi Acharya](https://github.com/Chhabii)
 - [Sai Ram](https://github.com/Saira2002)
@@ -1041,9 +1045,9 @@ _ [ ayush Z] @ devsocPI
 - [Kylin Schneider](https://github.com/KyeByeHi)
 - [Iorvera](https://github.com/iorvera1/first-contributions)
 - [danesusername](https://github.com/danesusername)
-<!-- prettier-ignore-end -->
-Ulises Quiñonez
-[Siddharth Thakur]@devsoc pi
-[ashutosh anand](https://github.com/AshutoshAnand123)
-[Fitriningtyas](https://github.com/fitrifityanto)
-[Jaiman Munshi](https://github.com/jaimanm)
+  <!-- prettier-ignore-end -->
+  Ulises Quiñonez
+  [Siddharth Thakur]@devsoc pi
+  [ashutosh anand](https://github.com/AshutoshAnand123)
+  [Fitriningtyas](https://github.com/fitrifityanto)
+  [Jaiman Munshi](https://github.com/jaimanm)
