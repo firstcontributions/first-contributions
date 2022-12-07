@@ -902,6 +902,7 @@ _ [ ayush Z] @ devsocPI
 - [Carlos Americo](https://github.com/caducoder)
 - [Suman Raj](https://github.com/the-suman)
 - [Megan Moulos](https://github.com/meganmoulos/)
+- [Rodrigo Cortes](https://github.com/rocortes10)
 - [Peter Hansteen](https://github.com/pitrh)
 - [Mourad]
 - [Thales Carlesso](https://github.com/ThalesIanMendes)
