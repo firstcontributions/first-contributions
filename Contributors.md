@@ -1014,6 +1014,7 @@ _ [ ayush Z] @ devsocPI
 - [Vijay Singh Kushwaha](https://github.com/h3110Fr13nd)
 - [Vatler Lett](https://github.com/scarlett1130)
 - [Danities Ichaba](https://github.com/Danities316)
+- [Cole Abidemi](https://github.com/colebidex2483)
 - [Shanth](https://github.com/kshanth)
 - [Louis lam](https://github.com/Louisss-Lam)
 - [Mohammed Afrid](https://github.com/Afrid45)
