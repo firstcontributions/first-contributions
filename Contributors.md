@@ -5,6 +5,7 @@
 - [Sharat Katwa](https://github.com/sharatkatwa)
 - [Lain Iwakura](https://github.com/arisuandlainkissingcompetition123456789)
 - [Ritesh Chikhlonde](https://github.com/riteshx0)
+- [disconsolated](https://github.com/disconsolated)
 - [Pranay S Patel](https://github.com/PostGrad)
 - [Niall De Barra](https://github.com/NiallDeBarra)
 - [Masaya Kj](https://github.com/Massas)
