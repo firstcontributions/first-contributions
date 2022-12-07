@@ -16,6 +16,7 @@
 - Arman Kumar Jena
 - [Prajwal Dhungana](https://github.com/PrajwalDhungana)
 - [Prince Dawson](https://github.com/dawssonCodes)
+- [Aarish Khan](https://github.com/aarishmkhan)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Loic Mavah Tseket@DevsocPI](https://github.com/loic242)
 - Parth Shah@DevsocPI
@@ -1047,3 +1048,4 @@ Ulises Quiñonez
 [ashutosh anand](https://github.com/AshutoshAnand123)
 [Fitriningtyas](https://github.com/fitrifityanto)
 [Jaiman Munshi](https://github.com/jaimanm)
+
