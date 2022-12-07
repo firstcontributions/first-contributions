@@ -1,6 +1,7 @@
 # Contributors
 [Ramakrishnan Raghavan-devsoc]https://github.com/Ramakrishnan-R7)
 <!-- prettier-ignore-start -->
+- [Richard McCormick](https://github.com/rmccormick314)
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
 - [Sharat Katwa](https://github.com/sharatkatwa)
 - [Lain Iwakura](https://github.com/arisuandlainkissingcompetition123456789)
