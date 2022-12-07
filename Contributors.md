@@ -2,6 +2,7 @@
 [Ramakrishnan Raghavan-devsoc]https://github.com/Ramakrishnan-R7)
 <!-- prettier-ignore-start -->
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
+- [Luke Soderquist](https://github.com/lsoderquist)
 - [Sharat Katwa](https://github.com/sharatkatwa)
 - [Lain Iwakura](https://github.com/arisuandlainkissingcompetition123456789)
 - [Ritesh Chikhlonde](https://github.com/riteshx0)
