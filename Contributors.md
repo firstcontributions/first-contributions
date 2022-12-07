@@ -199,6 +199,7 @@
 - [Puneet](https://github.com/Puneetpotter)
 _ [ ayush Z] @ devsocPI
 - [Guillaume]
+- [Haroldo Curti]
 - [Shrankhla](https://github.com/shrankhla20)
 - [devdeveloper1](https://github.com/devdeveloper1)
 - [DippleThree](https://github.com/GGitHill)
@@ -1065,6 +1066,7 @@ _ [ ayush Z] @ devsocPI
 - [danesusername](https://github.com/danesusername)
 - [Rajat Bhosale](https://github.com/RajatBhosale)
 <!-- prettier-ignore-end -->
+
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
 [ashutosh anand](https://github.com/AshutoshAnand123)
