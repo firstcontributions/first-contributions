@@ -705,6 +705,7 @@ _ [ ayush Z] @ devsocPI
 - [Kiran Kuumar Mohanty](https://github.com/theluckiestsoul)
 - [Adam Chen](https://github.com/adamchen151)
 - [Jonathan G Araya](https://github.com/Jonathana1106)
+- [Jeremy Gleason](https://github.com/jeremy-gleason)
 - [jungchoib](https://github.com/jungchoib)
 - [rajdugad](https://github.com/rajdugad)
 - [Tarek-Azzazi](https://github.com/tarekazzazi)
