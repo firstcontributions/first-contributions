@@ -1044,6 +1044,7 @@ _ [ ayush Z] @ devsocPI
 - [Victor Jackson](https://github.com/jackv9425)
 - [Julia Kuchle](https://github.com/JuliaGK)
 - [Marek Wasilczuk](https://github.com/tw-mwasilczuk)
+- [Filip Juráň] (https://github.com/MrakLMAOO)
 - [John-Paul Wernecke](https://github.com/Revicx)
 - [Tom Davis](https://github.com/tomjdavis4)
 - [Janhvi Singh](https://github.com/Janhvi52)
