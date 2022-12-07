@@ -1026,6 +1026,7 @@ _ [ ayush Z] @ devsocPI
 - [Cole Abidemi](https://github.com/colebidex2483)
 - [Shanth](https://github.com/kshanth)
 - [Louis lam](https://github.com/Louisss-Lam)
+- [Mathias Neves] (https://github.com/mathiastneves)
 - [Mohammed Afrid](https://github.com/Afrid45)
 - [Sunny](https://github.com/SunnyChaware)
 - [Rami Elsayed](https://github.com/RamiE965)
