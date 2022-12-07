@@ -1007,6 +1007,7 @@ _ [ ayush Z] @ devsocPI
 - [isaacc16](https://github.com/isaacc16)
 - [cameron lee](https://github.com/cameronslee23)
 - [André Correa](https://github.com/dartmol203)
+- [Umberto Fontanazza] (https://github.com/umberto-fontanazza)
 - [fehlicks](https://github.com/fehlicks)
 - [Serkan Yilmaz](https://github.com/serkanyilmz)
 - [Shivram Venkatachalam](https://github.com/shivramvenkatachalam)
