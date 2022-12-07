@@ -5,6 +5,7 @@
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
 - [Luke Soderquist](https://github.com/lsoderquist)
 - [Sharat Katwa](https://github.com/sharatkatwa)
+- [Arpana Sitoula](https://github.com/Arpana-Sitoula)
 - [Lain Iwakura](https://github.com/arisuandlainkissingcompetition123456789)
 - [Ritesh Chikhlonde](https://github.com/riteshx0)
 - [Pranay S Patel](https://github.com/PostGrad)
