@@ -85,6 +85,7 @@
 - [Shivani R](https://github.com/shivu-srk)
 - [Arman Kumar Aditya@DevsockPI]
 - [Arman Karimi](https://github.com/iArmanKarimi/)
+- [Marc D](https://github.com/MarcDGit/)
 - [Melon98@DevsocPI](https://github.com/melon9829)
 - [SleepyPeanut] (https://github.com/sleepypeanut)
 - [Narmeen Z] (https://github.com/nrm33n)
