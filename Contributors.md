@@ -161,6 +161,7 @@
 - [Ema Omere]
 - [Handan Yenial]
 - Atul M@DevsocPI
+- [Sidharthkp](https://github.com/Sidharthkp)
 - [Lesh Chadick](https://github.com/lesh2)
 - [Dhruv Pandey@DevsocPI](https://github.com/dhruv12pandey)
 - [Julian Schmid](https://github.com/KingNexu)
