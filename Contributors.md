@@ -1086,6 +1086,7 @@ _ [ ayush Z] @ devsocPI
 - [Iorvera](https://github.com/iorvera1/first-contributions)
 - [danesusername](https://github.com/danesusername)
 - [Rajat Bhosale](https://github.com/RajatBhosale)
+- [Girolamo Giordano] (https://github.com/girolamo-giordano)
 <!-- prettier-ignore-end -->
 
 Ulises Quiñonez
