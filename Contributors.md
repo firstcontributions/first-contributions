@@ -1087,6 +1087,8 @@ _ [ ayush Z] @ devsocPI
 - [Iorvera](https://github.com/iorvera1/first-contributions)
 - [danesusername](https://github.com/danesusername)
 - [Rajat Bhosale](https://github.com/RajatBhosale)
+- [Itgoesup](https://github.com/Itgoesup)
+
 <!-- prettier-ignore-end -->
 
 Ulises Quiñonez
