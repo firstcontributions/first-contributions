@@ -1086,6 +1086,7 @@ _ [ ayush Z] @ devsocPI
 - [Iorvera](https://github.com/iorvera1/first-contributions)
 - [danesusername](https://github.com/danesusername)
 - [Rajat Bhosale](https://github.com/RajatBhosale)
+- [JJesus Bautista](https://www.jjesus-devs.com/)
 <!-- prettier-ignore-end -->
 
 Ulises Quiñonez
@@ -1094,4 +1095,4 @@ Ulises Quiñonez
 [Fitriningtyas](https://github.com/fitrifityanto)
 [Jaiman Munshi](https://github.com/jaimanm)
 [Kena Dave](https://github.com/kenadave)
-[JJesus Bautista](https://www.jjesus-devs.com/)
+
