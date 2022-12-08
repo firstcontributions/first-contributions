@@ -176,6 +176,7 @@
   [Abhishek Kumar Tamrakar @kintic013](https://github.com/kinitic013)
 - [Trevor Ang](https://github.com/TrevorAng)
 - [Ema Omere]
+- [Christopher Liew]
 - [Handan Yenial]
 - Atul M@DevsocPI
 - [Sidharthkp](https://github.com/Sidharthkp)
