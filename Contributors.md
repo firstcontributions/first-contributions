@@ -1094,3 +1094,4 @@ Ulises Quiñonez
 [Fitriningtyas](https://github.com/fitrifityanto)
 [Jaiman Munshi](https://github.com/jaimanm)
 [Kena Dave](https://github.com/kenadave)
+[JJesus Bautista](https://www.jjesus-devs.com/)
