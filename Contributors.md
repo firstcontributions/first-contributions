@@ -64,6 +64,7 @@
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Aadi Sharma@DevSocPI](https://github.com/AadiSharma001)
 - Yash Rustogi
+- [Pratik Mali](https://github.com/IPratikMali)
 - Okuroemi Douebi Kelvin
 - [Dhruv Tandon} @DevsocPI
 - [Preeti Raj](https://github.com/Preetiraj3697)
