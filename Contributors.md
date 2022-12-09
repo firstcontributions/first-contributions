@@ -10,6 +10,7 @@
 - [Lain Iwakura](https://github.com/arisuandlainkissingcompetition123456789)
 - [Ritesh Chikhlonde](https://github.com/riteshx0)
 - [disconsolated](https://github.com/disconsolated)
+- [Bhuvanesh Purohit](https://github.com/BhuvaneshPurohit-git)
 - [Pranay S Patel](https://github.com/PostGrad)
 - [Niall De Barra](https://github.com/NiallDeBarra)
 - [Rav Krof](https://github.com/Ravkrof)
