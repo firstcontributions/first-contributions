@@ -1088,7 +1088,7 @@
 - [Iorvera](https://github.com/iorvera1/first-contributions)
 - [danesusername](https://github.com/danesusername)
 - [Rajat Bhosale](https://github.com/RajatBhosale)
-- [Suci Rahma](https://github.com/frayded)
+- [Suci Rahma P](https://github.com/frayded)
 <!-- prettier-ignore-end -->
 
 Ulises Quiñonez
