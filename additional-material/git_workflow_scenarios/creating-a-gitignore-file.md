@@ -14,7 +14,11 @@ The entries in this file can also follow a matching pattern.
 
 ```
 * is used as a wildcard match
+<<<<<<< HEAD
 / is used to ignore path names relative to the .gitignore file
+=======
+/ is used to ignore pathnames relative to the .gitignore file
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 # is used to add comments to a .gitignore file
 
 This is an example of what the .gitignore file could look like:

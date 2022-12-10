@@ -1,4 +1,5 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+<<<<<<< HEAD
 [<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
@@ -13,6 +14,24 @@ Leximi i artikujve & shikimi i tutorialve ndihmojnë, por ç'është më mirë s
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 Nëse nuk ke Git të instaluar në pajisjen tënde, [instaloje](https://help.github.com/articles/set-up-git/).
+=======
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
+
+
+# Kontributet e Para
+
+
+Është e vështirë. Është gjithmonë e vështirë hera e parë kur bën diçka. Sidomos kur bashkëpunon, të bësh gabime nuk është një ndjenjë e mirë. Ne duam ta thjeshtësojmë mënyrën se si kontribuesit e open-source mësojnë dhe kontribuojnë për herë të parë.
+Leximi i artikujve & shikimi i tutorialve ndihmojnë, por ç'është më mirë se sa ta bësh këtë gjë në një vend praktike? Ky projekt synon të udhëzojë & të thjeshtësojë mënyrën se si fillestarët bëjnë kontributin e tyre të parë. Nëse dëshiron të bësh kontributin tënd të parë, ndiqi hapat më poshtë.
+
+#### *Nëse ende nuk ndjehesh komod me command line, [këtu ke tutoriale që përdorin veglat e GUI](#Tutoriale-duke-përdorur-vegla-tjera )*
+
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+
+Nëse nuk ke Git të instaluar në pajisjen tënde, [instaloje]( https://help.github.com/articles/set-up-git/).
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 
 ## Bëje fork këtë repozitor
 
@@ -22,24 +41,37 @@ Për të bërë fork këtë repozitor kliko butonin fork në majë të kësaj fa
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
+<<<<<<< HEAD
 Tani klonoje në pajisjen tënde repozitorin që bëre fork. Shko te llogaria e GitHub, hap forked repository, kliko butonin Code dhe pastaj kliko ikonën _copy to clipboard_.
+=======
+Tani klonoje në pajisjen tënde repozitorin që bëre fork. Shko te llogaria e GitHub, hap forked repository, kliko butonin Code dhe pastaj kliko ikonën *copy to clipboard*.
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 
 Hap terminalin dhe bëje run git komandën në vazhdim:
 
 ```
 git clone "url që sapo ke kopjuar"
 ```
+<<<<<<< HEAD
 
+=======
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 ku "url që sapo ke kopjuar" (pa thonjëzat) është url e këtij repozitori (repozitori që bëre fork). Shiko hapat e mëparshëm për të marrë url-në.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Për shembull:
+<<<<<<< HEAD
 
 ```
 git clone https://github.com/ky-je-ti/first-contributions.git
 ```
 
+=======
+```
+git clone https://github.com/ky-je-ti/first-contributions.git
+```
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 ku `ky-je-ti` është emri jot në GitHub. Këtu ti e kopjon përmbajtjen e repozitorit first-contributions në GitHub te kompjuteri jot.
 
 ## Krijo një degë (branch)
@@ -49,20 +81,31 @@ Ndryshoje lokacionin te repozitori në kompjuterin tënd (nëse nuk je në lokac
 ```
 cd first-contributions
 ```
+<<<<<<< HEAD
 
 Tani krijo një degë duke përdorur komandën `git checkout`:
 
+=======
+Tani krijo një degë duke përdorur komandën `git checkout`:
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 ```
 git checkout -b <emri-i-degës-tënde>
 ```
 
 Për shembull:
+<<<<<<< HEAD
 
 ```
 git checkout -b add-filan-fisteku
 ```
 
 (Emri i degës nuk është e nevojshme të ketë fjalën _add_ në të, por është e arsyeshme të përfshihet pasi që qëllimi i kësaj dege është të shtojë emrin tënd në një listë.)
+=======
+```
+git checkout -b add-filan-fisteku
+```
+(Emri i degës nuk është e nevojshme të ketë fjalën *add* në të, por është e arsyeshme të përfshihet pasi që qëllimi i kësaj dege është të shtojë emrin tënd në një listë.)
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 
 ## Bëji ndryshimet e nevojshme dhe bëji commit
 
@@ -70,8 +113,15 @@ Tani hap fajllin `Contributors.md` në një program për editim të tekstit dhe 
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
+<<<<<<< HEAD
 Nëse shkon te lokacioni i projektit dhe e ekzekuton komandën `git status`, do shohësh se ka ndryshime.
 
+=======
+
+Nëse shkon te lokacioni i projektit dhe e ekzekuton komandën `git status`, do shohësh se ka ndryshime.
+
+
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 Shtoji këto ndryshime te dega që sapo krijove duke përdorur komandën `git add`:
 
 ```
@@ -79,21 +129,34 @@ git add Contributors.md
 ```
 
 Tani bëji commit këto ndryshime duke përdorur komandën `git commit`:
+<<<<<<< HEAD
 
 ```
 git commit -m "Add <emri-jot> to Contributors list"
 ```
 
+=======
+```
+git commit -m "Add <emri-jot> to Contributors list"
+```
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 zëvendëso `<emri-jot>` me emrin tënd.
 
 ## Bëji push (shtyji) ndryshimet në GitHub
 
+<<<<<<< HEAD
 Bëji push ndryshimet duke përdorur komandën `git push`:
 
 ```
 git push origin <emri-i-degës-tënde>
 ```
 
+=======
+Bëji push ndryshimet duke përdorur komandën `git push`: 
+```
+git push origin <emri-i-degës-tënde>
+```
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 zëvendëso `<emri-i-degës-tënde>` me emrin e degës që krijove më herët.
 
 ## Bëji ndryshimet submit për shqyrtim
@@ -110,18 +173,36 @@ Së shpejti do të bashkoj (bëj merge) të gjitha ndryshimet te dega master e k
 
 ## Ku të shkosh nga këtu?
 
+<<<<<<< HEAD
 Urime! Ti sapo ke kompletuar procesin _fork -> clone -> edit -> PR_ që do ta hasësh shpesh si kontributor!
 
 Festoje kontributin tënd dhe ndaje me shokët dhe ndjekësit duke shkuar te [web aplikacioni](https://firstcontributions.github.io/#social-share).
 
 Ti mund të bashkohesh në ekipin tonë në slack nëse të duhet ndihmë ose nëse ke ndonjë pyetje. [Bashkohu ekipit në slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+=======
+Urime!  Ti sapo ke kompletuar procesin _fork -> clone -> edit -> PR_ që do ta hasësh shpesh si kontributor!
+
+Festoje kontributin tënd dhe ndaje me shokët dhe ndjekësit duke shkuar te  [web aplikacioni](https://firstcontributions.github.io/#social-share).
+
+Ti mund të bashkohesh në ekipin tonë në slack nëse të duhet ndihmë ose nëse ke ndonjë pyetje. [Bashkohu ekipit në slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM).
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 
 Tani të të ndihmojmë që të kontribuosh në projekte tjera. Ne kemi krijuar një listë projektesh me probleme të lehta tek të cilat mund të fillosh. Shiko [listën e projekteve në web apliacion](https://firstcontributions.github.io/#project-list).
 
 ### [Materiale shtesë](additional-material/git_workflow_scenarios/additional-material.md)
 
+<<<<<<< HEAD
 ## Tutoriale duke përdorur vegla tjera
 
 | <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
+=======
+
+## Tutoriale duke përdorur vegla tjera
+
+| <a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gitkraken-tutorial.md"><img alt="GitKraken" src="./assets/gk-icon.png" width="100"></a> | <a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width=100></a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)                 | [Visual Studio 2017](gui-tool-tutorials/github-windows-vs2017-tutorial.md)      | [GitKraken](gui-tool-tutorials/gitkraken-tutorial.md)                           | [Visual Studio Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md)     | [Atlassian Sourcetree](gui-tool-tutorials/sourcetree-macos-tutorial.md)         | [IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md)         |
+
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5

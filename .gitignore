@@ -1,7 +1,10 @@
 .DS_Store;
 .idea/
 .vs
+<<<<<<< HEAD
 .env
+=======
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 # User-specific files
 *.rsuser
 *.suo
@@ -387,4 +390,7 @@ FodyWeavers.xsd
 .idea/
 *.sln.iml
 .vscode/settings.json
+<<<<<<< HEAD
 .DS_Store
+=======
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5

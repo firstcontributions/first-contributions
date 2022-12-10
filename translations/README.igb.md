@@ -1,19 +1,39 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+<<<<<<< HEAD
 [<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
+=======
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
+
+
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 # Onyinye Mbụ
 
 O siri ike. Ọ na-esiri gị ike mgbe mbụ i mere ihe. Karịsịa mgbe ị na-emekọ ihe, imehie ihe abụghị ihe dị mma. Anyị chọrọ ime ka ụzọ ndị ọhụrụ na-emeghe emeghe na-amụta ma tinye aka maka oge mbụ.
 
 Ịgụ isiokwu & nkuzi ntanetị nwere ike inyere gị aka, ma gịnị dị mma karịa ime ihe ahụ na-eme ihe omume? Ihe oru a bu iji nye nduzi & mee ka ndi mmadu bidoro ibu onyinye mbu. Ọ bụrụ na ị na-achọ ime onyinye mbụ gị, gbasoo nzọụkwụ dị n'okpuru.
 
+<<<<<<< HEAD
 #### _Ọ bụrụ na ị naghị enwe mmasị na akara iwu, [ebe a bụ nkuzi na-eji ngwaọrụ GUI.](#Nkuzi-na-iji-ihe-ndi-ozo)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 Ọ bụrụ na ịnweghị igwe na igwe gị, [wụnye ya](https://help.github.com/articles/set-up-git/).
+=======
+#### *Ọ bụrụ na ị naghị enwe mmasị na akara iwu, [ebe a bụ nkuzi na-eji ngwaọrụ GUI.](#Nkuzi-na-iji-ihe-ndi-ozo)*
+
+#### *Gụọ nke a n'asụsụ [ndị ọzọ](translations/Translations.md).*
+
+
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+
+Ọ bụrụ na ịnweghị igwe na igwe gị, [wụnye ya]( https://help.github.com/articles/set-up-git/).
+
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 
 ## Wepu ebe nchekwa a
 
@@ -41,7 +61,11 @@ ebe "url na ị depụtaghachiri" (na-enweghị ntinye ọnụ) bụ url maka nc
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
+<<<<<<< HEAD
 ebe `this-is-you` ka aha njirimara GitHub gị. Lee, ị na-edegharị ọdịnaya nke onyinye ntinye mbụ na GitHub na kọmputa gị.
+=======
+ebee `this-is-you` ka aha njirimara GitHub gị. Lee, ị na-edegharị ọdịnaya nke onyinye ntinye mbụ na GitHub na kọmputa gị.
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 
 ## Mepụta alaka
 
@@ -67,12 +91,20 @@ git checkout -b add-alonzo-church
 
 ## Mee mgbanwe ndị dị mkpa ma mee mgbanwe ndị ahụ
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 Ugbu a mepee `Contributors.md` faịlụ na nchịkọta ederede, tinye aha gị na ya. Adakwunye ya na mmalite ma ọ bụ njedebe nke faịlụ ahụ. Tinye ya n'ebe ọ bụla n'etiti. Ugbu a, chekwaa faịlụ ahụ.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 Ọ bụrụ na ịga na ndekọ ụlọ ọrụ ma mebie iwu ahụ `git status`, ị ga-ahụ na e nwere mgbanwe.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 Tinye mgbanwe ndị a n'alaka ụlọ ọrụ ị mepụtara site na iji `git add` iwu ahụ:
 
 ```
@@ -84,11 +116,19 @@ Ugbu a mee mgbanwe ndị ahụ site na iji `git commit` iwu ahụ:
 ```
 git commit -m "Add <your-name> to Contributors list"
 ```
+<<<<<<< HEAD
 
 jiri aha gị dochie `<your-name>`.
 
 ## Kwanye mgbanwe nile a n'ime GitHub
 
+=======
+dochie `<your-name>` aha gị.
+
+## Kwanye mgbanwe nile a n'ime GitHub
+
+
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 Mee mgbanwe gị site na iji iwu `git push`:
 
 ```
@@ -99,6 +139,10 @@ dochie `<add-your-branch-name>` aha alaka ụlọ ọrụ ị mepụtara n'oge g
 
 ## Nyefee mgbanwe gị maka nyocha
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 Ọ bụrụ na ị gaa ebe nchekwa gị na GitHub, ị ga-ahụ `Compare & pull request` bọtịnụ. Pịa bọtịnụ ahụ.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
@@ -115,14 +159,28 @@ Ekele! Naanị ị gụchara ihe nkesa -> mmepụta oyiri -> dezie -> Bọpụ �
 
 Nalee onyinye gị ma soro ndị enyi gị na ụmụazụ gị kerịta ya site na ịga na [ngwa weebụ](https://roshanjossey.github.io/first-contributions/#social-share).
 
+<<<<<<< HEAD
 Ị nwere ike isonyere ndị ọrụ anyị na-adịghị mma na ikpe ịchọrọ enyemaka ọ bụla ma ọ bụ nwee ajụjụ ọ bụla. [Jikọọ slack otu](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Ugbu a, ka anyị malite site na inye onyinye maka ọrụ ndị ọzọ. Anyị ejikọtawo ndepụta nke oru na okwu dị mfe ị nwere ike ịmalite. Lelee [ndepụta nke oru na ngwa weebụ ](https://roshanjossey.github.io/first-contributions/#project-list).
 
+=======
+Ị nwere ike isonyere ndị ọrụ anyị na-adịghị mma na ikpe ịchọrọ enyemaka ọ bụla ma ọ bụ nwee ajụjụ ọ bụla. [Jikọọ slack otu](https://join.slack.com/t/firstcontr🏴ibutors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+
+Ugbu a, ka anyị malite site na inye onyinye maka ọrụ ndị ọzọ. Anyị ejikọtawo ndepụta nke oru na okwu dị mfe ị nwere ike ịmalite. Lelee [ndepụta nke oru na ngwa weebụ ](https://roshanjossey.github.io/first-contributions/#project-list).
+
+
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 ### [Ihe ndi ozo](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Nkuzi na iji ihe ndi ozo
 
+<<<<<<< HEAD
 | <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
+=======
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
+|---|---|---|---|
+|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|[Visual Studio Code](../github-windows-vs-code-tutorial.md)|
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5

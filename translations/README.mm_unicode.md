@@ -1,9 +1,16 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+<<<<<<< HEAD
 [<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 #
+=======
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
+# 
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 
 #### _[တခြားဘာသာစကားများဖြင့်](translations/Translations.md) ဖတ်ရန်။_
 
@@ -66,8 +73,12 @@
 <kbd>[<img title="Српски" alt="Српски" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/rs.svg" width="22">](translations/README.sr.md)</kbd>
 <kbd>[<img title="Қазақша" alt="Қазақша" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/kz.svg" width="22">](translations/README.kz.md)</kbd>
 <kbd>[<img title="Bosanski" alt="Bosanski" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ba.svg" width="22">](translations/README.bih.md)</kbd>
+<<<<<<< HEAD
 
 #
+=======
+# 
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 
 # ပထမအကြိမ် ကူညီထောက်ပံ့ခြင်း
 
@@ -83,22 +94,37 @@ _command line (သို့) terminal အသုံးပြုရတာ အဆ�
 
 ## ဒီ repository ကို fork လုပ်ပါ
 
+<<<<<<< HEAD
 Fork လုပ်ဖို့အတွက် စာမျက်နှာအပေါ်နားမှရှိတဲ့ fork ခလုတ် ကိုနှိပ်ပါ။
+=======
+Fork လုပ်ဖို့အတွက် စာမျက်နှာအပေါ်နားမှရှိတဲ့ fork ခလုပ်ကိုနိပ်ပါ။
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 ဒီ repository က သင့် အကောင့်ကို ပုံစံတူပွားအနေနဲ့ ရောက်လာပါမယ်။
 
 ## ဒီ repository ကို clone လုပ်ပါ
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
+<<<<<<< HEAD
 ခုနက fork လုပ်ထားတဲ့ repository ကို သင့်ကွန်ပျူတာထဲ clone လုပ်ပါမယ်။ သင့် Github အကောင့်ကိုသွားပြီး fork လုပ်ထားတဲ့ repository ကို ဖွင့်ပါ။ Code ဆိုတဲ့ ခလုတ်လေးကို နှိပ်ပြီး _copy to clipboard_ icon လေးကို နှိပ်ပါ။
+=======
+ခုဏက fork လုပ်ထားတဲ့ repository ကို သင့်ကွန်ပျူတာထဲ clone လုပ်ပါမယ်။ သင့် Github အကောင့်ကိုသွားပြီး fork လုပ်ထားတဲ့ repository ကို ဖွင့်ပါ။ Code ဆိုတဲ့ ခလုပ်လေးကို နှိပ်ပြီး _copy to clipboard_ icon လေးကို နှိပ်ပါ။
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 
 command line (သို့) terminal ကိုဖွင့်ပြီး အောက်က Git command ကို run ပါ။
 
 ```
+<<<<<<< HEAD
 git clone "ခုနက copy ထားတဲ့ လင့်ခ်"
 ```
 
 "ခုနက copy ထားတဲ့ လင့်ခ်" (quotation marks မထည့်ရပါ) ဆိုတာဟာ ဒီ repository(ဒီပရောဂျက်ရဲ့ သင့် fork)ရဲ့ လင့်ခ်ပဲ ဖြစ်ပါတယ်။ ဒီနေရာမှာ အဆင်မပြေဖြစ်ခဲ့ရင် အပေါ်က အဆင့်များကို ပြန်လုပ်ပါ။
+=======
+git clone "ခုဏက copy ထားတဲ့ လင့်ခ်"
+```
+
+"ခုဏက copy ထားတဲ့ လင့်ခ်" (quotation marks မထည့်ရပါ) ဆိုတာဟာ ဒီ repository(ဒီပရောဂျက်ရဲ့ သင့် fork)ရဲ့ လင့်ခ်ပဲ ဖြစ်ပါတယ်။ ဒီနေရာမှာ အဆင်မပြေဖြစ်ခဲ့ရင် အပေါ်က အဆင့်များကို ပြန်လုပ်ပါ။ 
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -108,7 +134,12 @@ git clone "ခုနက copy ထားတဲ့ လင့်ခ်"
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
+<<<<<<< HEAD
 `this-is-you` ဆိုတာ သင့်ရဲ့ Github username ပဲ ဖြစ်ပါတယ်။ ဒီအဆင့်တွေက Github မှာရှိတဲ့ first-contributions repository ကို သင့်ကွန်ပျူတာထဲသို့ ကူးထည့်တာပဲ ဖြစ်ပါတယ်။
+=======
+`this-is-you` ဆိုတာ သင့်ရဲ့ Github username ပဲ ဖြစ်ပါတယ်။ ဒီအဆင့်တွေက Github မှာရှိတဲ့ first-contributions repository ကို သင့်ကွန်ပျူတာထဲကို ကူးထဲ့တာပဲ ဖြစ်ပါတယ်။
+
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 
 ## Branch အသစ်လုပ်ခြင်း
 
@@ -130,11 +161,19 @@ git checkout -b your-new-branch-name
 git checkout -b add-alonzo-church
 ```
 
+<<<<<<< HEAD
 (Branch နာမည်ဘာဖြစ်ဖြစ်ရပါတယ် သို့သော်လဲ ဒီ project ကသင့် နာမည်ကိုထပ်ထည့်မှာဖြစ်လို့ _add_ သင့်နာမည်ကို အားလုံးနဲ့ အဆင်ပြေအောင်ထည့်ပေးပါ။)
 
 ## ပြောင်းစရာရှိတာများ ပြောင်းပြီး ထိုပြောင်းလဲ့မှုများကို commit လုပ်ခြင်း
 
 သင့် text editor မှာ `Contributors.md` ကိုဖွင့်ပါ။ ထိပ်ဆုံးနှင့်နောက်ဆုံးမှလွဲ၍ သင့်ရဲ့ နာမည်ကို အဆင်ပြေတဲ့ နေရာမှာထည့်ပြီး save ပါ။
+=======
+(Branch နာမည်ဘာဖြစ်ဖြစ်ရပါတယ် သို့သော်လဲ ဒီ project ကသင့် နာမည်ကိုထပ်ထည့်မှာဖြစ်လို့ *add* သင့်နာမည်ကို အားလုံးနဲ့ အဆင်ပြေအောင်ထည့်ပေးပါ။)
+
+## ပြောင်းစရာရှိတာများ ပြောင်းပြီး ထိုပြောင်းလဲ့မှုများကို commit လုပ်ခြင်း
+
+သင့် text editor မှာ `Contributors.md` ကိုဖွင့်ပါ။ ထိပ်ဆုံးနှင့်နောက်ဆုံးမှလွဲ၍ သင့်ရဲ့ နာမည်ကို အဆင်ပြေတဲ့ နေရာမှာထည့်ပြီး save ပါ။ 
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
@@ -166,7 +205,11 @@ git push origin <add-your-branch-name>
 
 ## သင်ပြောင်းထားတာ တွေကို review လုပ်ဖို့ submit လုပ်ပါ။
 
+<<<<<<< HEAD
 သင့် GitHub က သင့် repository မှာ `Compare & pull request` ဆိုတဲ့ ခလုတ်မြင်နေရမှာပါ။ အဲ့ဒီ ခလုတ်ကို နှိပ်လိုက်ပါ။
+=======
+သင့် GitHub က သင့် repository မှာ `Compare & pull request` ဆိုတဲ့ ခလုတ်မြင်နေရမှာပါ။ အဲ့ခလုတ်ကို နိုပ်လိုက်ပါ။
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
@@ -182,7 +225,11 @@ Congratulation! Open Source Project တွေမှာ အမြဲလုပ်�
 
 အခု သင်ကူညီထောက်ပံ့ခဲ့တာကို သင့်သူငယ်ချင်းတွေကို share ချင်ရင် [ဒီ web app](https://firstcontributions.github.io/#social-share) ကို သွားပါ။
 
+<<<<<<< HEAD
 တခြားအကူအညီများနဲ့ မေးစရာများရှိပါက ကျွန်တော်တို့ရဲ့ Slack team ကို ဝင်ရောက် မေးမြန်းနိုင်ပါတယ်။[Join slack team သို့ ဝင်ရန်](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+=======
+တခြားအကူအညီများနဲ့ မေးစရာများရှိပါက ကျွန်တော်တို့ရဲ့  Slack team ကို ဝင်ရောက် မေးမြန်းနိုင်ပါတယ်။[Join slack team သို့ ဝင်ရန်](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA).
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 
 နောက်ထပ် ပရောဂျက်များကိုလည်း ဝင်ရောက်ကူညီလိုပါက ကျွန်တော်တို့ ပြုစုထားတဲ့ ပရောဂျက်စာရင်းကို လေ့လာနိုင်ပါတယ်။ [web app ထဲမှ ပရောဂျက်စာရင်း](https://firstcontributions.github.io/#project-list).
 
@@ -190,6 +237,12 @@ Congratulation! Open Source Project တွေမှာ အမြဲလုပ်�
 
 ## အခြား Tools များ အသုံးပြုသည့် tutorial
 
+<<<<<<< HEAD
 | <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
+=======
+| <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5

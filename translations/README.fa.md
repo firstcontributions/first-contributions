@@ -1,5 +1,9 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+<<<<<<< HEAD
 [<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
+=======
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA)
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -17,7 +21,11 @@ _اگر با محیط کامندی (CLI) احساس راحتی نمی‌کنید
 ## مخزن را فورک کنید
 با کلیک کردن بر روی دکمه Fork، از مخزن مورد نظر یک انشعاب بگیرید. این عملیات یک نسخه کپی از مخزن را بر روی حساب کاربری شما ایجاد می‌کند.
 
+<<<<<<< HEAD
 ## مخزن را کلون (شبیه) کنید
+=======
+## مخزن را کلون کنید
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 
 <img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
@@ -37,12 +45,20 @@ git clone https://github.com/this-is-you/first-contributions.git
 ```
 بطوری که عبارت `this-is-you` برابر با نام حساب کاربری گیت‌هاب شما باشد. با این اقدام، تمام محتوای مورد نیاز جهت مشارکت را بر روی سیستم خود آماده می‌سازید.
 
+<<<<<<< HEAD
 ### یک شاخه ایجاد کنید
+=======
+### یک برنچ ایجاد کنید
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 اگر در مسیر مخزن کلون شده قرار ندارید، با دستور زیر وارد مسیر مخزن شوید:
 ```
 cd first-contributions
 ```
+<<<<<<< HEAD
 با استفاده از دستور `git checkout` یک شاخه جدید ایجاد کنید:
+=======
+با استفاده از دستور `git checkout` یک برنچ جدید ایجاد کنید:
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 ```
 git checkout -b your-new-branch-name
 ```
@@ -50,7 +66,11 @@ git checkout -b your-new-branch-name
 ```
 git checkout -b add-alonzo-church
 ```
+<<<<<<< HEAD
 (هیچ لزومی نیست که در نام شاخه از کلمه `add` استفاده کنید. چنانچه قرار است بعنوان مشارکت، نام خود را به یک لیست اضافه کنیم، استفاده از این کلمه بعنوان نام شاخه، امری عاقلانه می‌باشد.)
+=======
+(هیچ لزومی نیست که در نام برنچ از کلمه `add` استفاده کنید. چنانچه قرار است بعنوان مشارکت، نام خود را به یک لیست اضافه کنیم، استفاده از این کلمه بعنوان نام برنچ، امری عاقلانه می‌باشد.)
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 
 ### تغییرات اساسی ایجاد کرده و کامیت کنید
 در این قدم، ابتدا فایل `Contributors.md` را در یک محیط ویرایش متن باز کنید. نام خود را به این فایل اضافه کنید. توجه کنید که نام نه در ابتدا و نه در انتها قرار گیرد. نام را بین اسامی قرار دهید. فایل را ذخیره کنید.
@@ -93,15 +113,27 @@ git push origin <add-your-branch-name>
 
 مشارکت خود روی این پروژه را [از اینجا](https://firstcontributions.github.io/#social-share) با دیگر دوستان و دنبال‌کنندگان خود جشن بگیرید.
 
+<<<<<<< HEAD
 همچنین شما می‌توانید [از اینجا](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)، وارد تیم Slack ما شوید و سوالات خود را مطرح نمایید.
+=======
+همچنین شما می‌توانید [از اینجا](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA)، وارد تیم Slack ما شوید و سوالات خود را مطرح نمایید.
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 
 حال، شما می‌توانید مشارکت خود را روی دیگر پروژه‌ها آغاز نمایید. ما یک لیست از پروژه‌ها با مشکلات ساده ایجاد کردیم که گزینه خوبی برای شروع می‌باشد. لیست پروژه‌ها را [از این اینجا](https://firstcontributions.github.io/#project-list) دنبال کنید.
 
 ### [اطلاعات بیشتر](additional-material/git_workflow_scenarios/additional-material.md)
 
+<<<<<<< HEAD
 ## آموزش انجام مشارکت در دیگر ابزارها                                                                                                                                                         |                                                                                                                                                                                                     |                                                                                                                                                                                              |                                                                                                                                                                                              |                                                                                                                                                                                                              |                                                                                                                                                                                                                                  |
 | <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
 
+=======
+## آموزش انجام مشارکت در دیگر ابزارها
+| <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
+|                                                                                                                                                             |                                                                                                                                                                                                     |                                                                                                                                                                                              |                                                                                                                                                                                              |                                                                                                                                                                                                              |                                                                                                                                                                                                                                  |
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 </p>

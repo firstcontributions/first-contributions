@@ -38,7 +38,11 @@ $ git config --global user.name "Your Name"
 
 As the name says, these configurations are scoped to your current repository. If you want to commit to a particular repository, say, a work related project, with your company's email, then you could use this method.
 
+<<<<<<< HEAD
 To store something in the repository config, you use the `config` command  by omitting the `--global` flag as follows:
+=======
+To store something in the repository config, you use the `config` command  by emitting the `--global` flag as follows:
+>>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
 
 `$ git config <variable name> <value>`
 
