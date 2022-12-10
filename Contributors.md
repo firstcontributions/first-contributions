@@ -4,6 +4,7 @@
 - [Richard McCormick](https://github.com/rmccormick314)
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
 - [Luke Soderquist](https://github.com/lsoderquist)
+- [Divyanshu Trivedi]
 - [joel kores](https://github.com/0xAckerMan)
 - [Sharat Katwa](https://github.com/sharatkatwa)
 - [Arpana Sitoula](https://github.com/Arpana-Sitoula)
