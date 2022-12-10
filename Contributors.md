@@ -375,6 +375,7 @@ _ [ ayush Z] @ devsocPI
 - [Khalid-Hasan](https://github.com/khalidx3)
 - [David Lopez](https://github.com/davidnoelopez)
 - [Moustafa Hassan](https://github.com/MoustafaHassan1)
+- [Kofi Wiredu](https://github.com/kofiwiredu)
 - [Rajat Agrawal](https://github.com/RajatAgrawal117)
 - [Ahad Ansari](https://github.com/AhadAns)
 - [Brendan Tuckerman](https://github.com/MrMaverick79/)
