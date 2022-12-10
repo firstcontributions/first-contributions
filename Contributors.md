@@ -16,6 +16,7 @@
 - [Masaya Kj](https://github.com/Massas)
 - [majR - Mohammed Jauharali] (https://github.com/mjjauhar)
 - [James Lee] (https://github.com/jameslee98)
+- [Sheikh-Tafsir] (https://github.com/Sheikh-Tafsir)
 - Nikhil Tamboli @DevSoc
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [Nathan Maynard](https://github.com/ncmaynard03)
