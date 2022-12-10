@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 [Adilet Berdibekov]https://github.com/berdibekovadilet
 <!-- prettier-ignore-start -->
 - [Richard McCormick](https://github.com/rmccormick314)
@@ -18,6 +18,7 @@
 - [James Lee] (https://github.com/jameslee98)
 - Nikhil Tamboli @DevSoc
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
+- [Jacob Kerames](https://github.com/JacobKerames)
 - [Nathan Maynard](https://github.com/ncmaynard03)
 - [Mudasir H](https://github.com/mh-jsx)
 - [Pratik Ghosh]
