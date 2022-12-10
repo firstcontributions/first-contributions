@@ -303,6 +303,7 @@ _ [ ayush Z] @ devsocPI
 - [Aster Fung](https://github.com/aster-fung)
 - [Gabriel Waegner](https://github.com/Gwaegs)
 - [Pray Raskapoorwala]@DevSocPI
+- FirstName LastName
 - [Boris Ynyr](https://github.com/BorisYnyr)
 - [Samarth Nagpal @ DevSocPI](https://github.com/SamarthNagpal)
 - [Anand S](https://github.com/anand2000s)
