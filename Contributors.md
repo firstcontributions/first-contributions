@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 ﻿# Contributors
 [Adilet Berdibekov]https://github.com/berdibekovadilet
+
 <!-- prettier-ignore-start -->
 - [Richard McCormick](https://github.com/rmccormick314)
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
@@ -2466,4 +2467,3 @@ Karol Sykała
 - **[Harixomxsingh](https://github.com/Harixomxsingh)**
 
 <!-- prettier-ignore-end -->
->>>>>>> deffbe2881f842fe35d5a167069d46f956b6aab5
