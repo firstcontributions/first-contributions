@@ -7,6 +7,7 @@
 - [joel kores](https://github.com/0xAckerMan)
 - [Sharat Katwa](https://github.com/sharatkatwa)
 - [Arpana Sitoula](https://github.com/Arpana-Sitoula)
+- [Ajay Anuragi](https://github.com/ajayanuragi)
 - [Lain Iwakura](https://github.com/arisuandlainkissingcompetition123456789)
 - [Ritesh Chikhlonde](https://github.com/riteshx0)
 - [disconsolated](https://github.com/disconsolated)
