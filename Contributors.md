@@ -8,6 +8,7 @@
 - [Loic Mavah Tseket@DevsocPI](https://github.com/loic242)
 - Parth Shah@DevsocPI
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
+- [Mtwa Mgimwa](https://github.com/cisco2001)
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001)
 aditya bagla
