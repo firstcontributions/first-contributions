@@ -103,6 +103,7 @@
 - [Somnath Golui](https://github.com/somu-code)
 - [Jiving Pete's Frisky Dynamite](https://github.com/jives-mcgee)
 - [kartavya dubey at devsoc preinductions](https://github.com/Chrollucilfer)
+- [David Sheffer](https://github.com/davesheffer)
 - [Shivani R](https://github.com/shivu-srk)
 - [Arman Kumar Aditya@DevsockPI]
 - [Arman Karimi](https://github.com/iArmanKarimi/)
