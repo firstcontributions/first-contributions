@@ -867,6 +867,7 @@ _ [ ayush Z] @ devsocPI
 - [Anugrah Rachman](https://github.com/kidomega-byte/)
 - [Hector Quemada](https://github.com/hdquemada)
 - [Maheen Saleh](https://github.com/maheensaleh)
+-[ANUMALABJRAJA](https://github.com/ANUMALABJRAJA)
 - [Lynn Zukerman](https://github.com/Lynndz3)
 - [Sebastian Wu](https://github.com/sebswU)
 - [Sofie Borchgrevink](https://github.com/sofieborchgrevink)
