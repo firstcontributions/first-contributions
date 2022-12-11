@@ -1,6 +1,7 @@
 ﻿# Contributors
-[Adilet Berdibekov]https://github.com/berdibekovadilet
 <!-- prettier-ignore-start -->
+- [Christoph Linne](https://github.com/chinne)
+- [Adilet Berdibekov](https://github.com/berdibekovadilet)
 - [Richard McCormick](https://github.com/rmccormick314)
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
 - [Luke Soderquist](https://github.com/lsoderquist)
