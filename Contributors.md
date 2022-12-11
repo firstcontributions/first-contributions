@@ -1,6 +1,6 @@
 ﻿# Contributors
 [Adilet Berdibekov]https://github.com/berdibekovadilet
-<!-- prettier-ignore-start -->
+<!-- prettier-ignore-start -->\
 - [Richard McCormick](https://github.com/rmccormick314)
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
 - [Luke Soderquist](https://github.com/lsoderquist)
@@ -685,6 +685,7 @@ _ [ ayush Z] @ devsocPI
 - [Allen Bayoneta](https://github.com/allenbayoneta)
 - [Satendra Mishra](https://github.com/Satendram)
 - [Himanshu Singh](https://github.com/singh-himanshu-16)
+- [Jordan](https://github.com/chowweijun)
 - [Deepa Kumari](https://github.com/deepa181)
 - [NandiniPokharna](https://github.com/NandiniPokharna)
 - [Ruphaa Ganesan](https://github.com/ruphaa)
