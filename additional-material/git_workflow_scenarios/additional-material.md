@@ -48,3 +48,5 @@ This document is dedicated to all the tips and tricks websites, blog posts, and 
 ### [Creating a .gitignore file](creating-a-gitignore-file.md)
 This document explains what a .gitignore file does, why to use it and how to create a .gitignore file. This file is used in almost all git projects. It helps commit only necessary files to git.
 
+### [Storing Credentials](storing-credentials.md)
+This document explains how to store your credentials for repositories. This can be a security concern, so please follow the security policies of your place of work/study.
