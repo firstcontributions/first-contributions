@@ -227,6 +227,7 @@ _ [ ayush Z] @ devsocPI
 - [Deept Ratna @DevsocPI]
 - [Nathan FAbio](https://github.com/nathanfabio)
 - [Parth Naik]@DevsocPI
+- [Vishal](https://github.com/Mvishal123)
 - [Alejandro Reyes Cerecero](https://github.com/Cerecero)
 - [Vibhav Joshi](https://github.com/DATTU005)
 - [Kripa Sindhu](https://github.com/kripasindhu-007)
