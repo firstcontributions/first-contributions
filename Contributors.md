@@ -15,7 +15,6 @@
 - [Mudasir H](https://github.com/mh-jsx)
 - [Pratik Ghosh]
 - [Prajwal Dhungana](https://github.com/PrajwalDhungana)
-- [Nipun CHathuranga](https://github.com/Nipunc55)
 - [Prince Dawson](https://github.com/dawssonCodes)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Loic Mavah Tseket@DevsocPI](https://github.com/loic242)
@@ -679,6 +678,7 @@
 - [Adam Chen](https://github.com/adamchen151)
 - [Jonathan G Araya](https://github.com/Jonathana1106)
 - [jungchoib](https://github.com/jungchoib)
+- [Nipun CHathuranga](https://github.com/Nipunc55)
 - [rajdugad](https://github.com/rajdugad)
 - [Tarek-Azzazi](https://github.com/tarekazzazi)
 - [EricWink](https://github.com/ericwink)
