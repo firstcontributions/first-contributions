@@ -449,6 +449,7 @@ _ [ ayush Z] @ devsocPI
 - [Sarthak Jain@DevsocPI]
 - [Jalebium69](https://github.com/jesherjoshua)
 - [marioluiss](https://github.com/MarioLuiss)
+- [Emmanuel Palacios](https://github.com/EmmaPalacios)
 - [Bojidar Vladimirov](https://github.com/BojidarV)
 - [Cocozin13](https://github.com/Cocozin13)
 - [Yuvraj Seegolam](https://github.com/yuvraj108c)
