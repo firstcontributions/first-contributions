@@ -1064,6 +1064,7 @@ _ [ ayush Z] @ devsocPI
 - [Ali Zain Aldeen] (https://github.com/ali-zain-aldeen)
 - [Harshvardhan Mestha @DevsocPI](https://github.com/Harshvardhan-Mestha)
 - [Preet Gupta@devsoc](https://github.com/preetgupta32)
+- [Varun Sharma](https://github.com/95sharmavarun)
 - [Yash Jhawar@devsocPI](https://github.com/yash-jhawar007)
 - [Kumar Kashyap@devsoc](https://github.com/KashyapJod)
 - [Benny Tso](https://github.com/bennytso88)
