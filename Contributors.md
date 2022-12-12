@@ -21,7 +21,7 @@
 - [Nathan Maynard](https://github.com/ncmaynard03)
 - [Mudasir H](https://github.com/mh-jsx)
 - [Pratik Ghosh]
--[Muhammad Saad]
+- [Muhammad Saad]
 - Arman Kumar Jena
 - [Alon Katz](https://github.com/AlonKz1)
 - [Prajwal Dhungana](https://github.com/PrajwalDhungana)
@@ -209,7 +209,7 @@
 - [Jenny F](https://github.com/J-Ning)
 - [anubhav verma]@DevsocPI
 - [Puneet](https://github.com/Puneetpotter)
-_ [ ayush Z] @ devsocPI
+- [ayush Z] @ devsocPI
 - [Guillaume]
 - [Haroldo Curti]
 - [Shrankhla](https://github.com/shrankhla20)
@@ -1086,6 +1086,7 @@ _ [ ayush Z] @ devsocPI
 - [Iorvera](https://github.com/iorvera1/first-contributions)
 - [danesusername](https://github.com/danesusername)
 - [Rajat Bhosale](https://github.com/RajatBhosale)
+- [Kevin Amato](https://github.com/Kevin-Amato)
 <!-- prettier-ignore-end -->
 
 Ulises Quiñonez
