@@ -55,6 +55,7 @@
 - [RA341](https://github.com/RA341)
 - JamesBond 
 - Yashwanth Krishna
+- [Patnala Karthikeya] (https://github.com/KarthikeyaPatnala12)
 - Ezad Haziq Bin Zamily
 - [Oyelowo Oyeleye Samuel](https://github.com/sammy-yuntin)
 - [Chintan Golakiya](https://github.com/chintan-golakiya)
