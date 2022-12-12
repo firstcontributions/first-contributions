@@ -1,6 +1,6 @@
 ﻿# Contributors
-[Adilet Berdibekov]https://github.com/berdibekovadilet
-<!-- prettier-ignore-start -->
+
+- [Adilet Berdibekov](https://github.com/berdibekovadilet)
 - [Richard McCormick](https://github.com/rmccormick314)
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
 - [Luke Soderquist](https://github.com/lsoderquist)
@@ -20,9 +20,9 @@
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [Nathan Maynard](https://github.com/ncmaynard03)
 - [Mudasir H](https://github.com/mh-jsx)
-- [Pratik Ghosh]
--[Muhammad Saad]
-- Arman Kumar Jena
+- [Pratik Ghosh]()
+- [Muhammad Saad]()
+- [Arman Kumar Jena]()
 - [Alon Katz](https://github.com/AlonKz1)
 - [Prajwal Dhungana](https://github.com/PrajwalDhungana)
 - [Overlrd](https://github.com/Overlrd)
@@ -53,7 +53,7 @@
 - [Sumer Punjabi](https://github.com/sumerpunjabi)
 - aditya joshi@DevSocPI
 - [RA341](https://github.com/RA341)
-- JamesBond 
+- JamesBond
 - Yashwanth Krishna
 - Ezad Haziq Bin Zamily
 - [Oyelowo Oyeleye Samuel](https://github.com/sammy-yuntin)
@@ -96,12 +96,12 @@
 - [Aadi joshi](https://github.com/AadiJ2022) @devsoc PI Devsoc
 - [Devansh Mehta@DevsocPI](https://github.com/Coderpromax8)
 - [Utkarsh@DevsocPI](https://github.com/0xAnon0602)
-- <harhsit kapoor>@Devsoc@PI
+- `<harhsit kapoor>`@Devsoc@PI
 - [Pawan Yadav](https://github.com/pawanyy)
 - [CherylChaudhari@DevsocPI](https://github.com/cherxoxo10)
 - [Saptarshi Ghosh @devsoc2022](https://github.com/zack-carnet)
 - [Somnath Golui](https://github.com/somu-code)
-- [Jiving Pete's Frisky Dynamite](https://github.com/jives-mcgee)
+- [Jiving Pete&#39;s Frisky Dynamite](https://github.com/jives-mcgee)
 - [kartavya dubey at devsoc preinductions](https://github.com/Chrollucilfer)
 - [Shivani R](https://github.com/shivu-srk)
 - [Arman Kumar Aditya@DevsockPI]
@@ -209,7 +209,7 @@
 - [Jenny F](https://github.com/J-Ning)
 - [anubhav verma]@DevsocPI
 - [Puneet](https://github.com/Puneetpotter)
-_ [ ayush Z] @ devsocPI
+  _ [ ayush Z] @ devsocPI
 - [Guillaume]
 - [Haroldo Curti]
 - [Shrankhla](https://github.com/shrankhla20)
@@ -262,7 +262,7 @@ _ [ ayush Z] @ devsocPI
 - [Alex Zhao](https://github.com/zyunfeng)
 - [Gregory John](https://github.com/GregLJ)
 - [Pridhi Grag](https:/github/com/pridhigarg369)
--
+- 
 - [Juanma Romero](https://github.com/juanmaroni/)
 - [Chhabi Acharya](https://github.com/Chhabii)
 - [Sai Ram](https://github.com/Saira2002)
@@ -271,7 +271,7 @@ _ [ ayush Z] @ devsocPI
 - [Jeevan Naik](https://github.com/JeevanNaikOP)
 - [Lien Font](https://github.com/90sPixelDev)
 - [Anuhya sabbani](https://github.com/anuhyasabbani)
-- [Bojidar Vladimirov](https://github.com/BojidarV)]
+- [Bojidar Vladimirov](https://github.com/BojidarV)
 - [Vikhyat Gupta@DevsocPI](https://github.com/Vikhyat0908)
 - [sankarapandi](https://github.com/Sankarapandi-Murugan)
 - [Poyraz Bahcivan](https://github.com/poyrazbahcivan)
@@ -312,7 +312,7 @@ _ [ ayush Z] @ devsocPI
 - [Md. Zahidul Islam](https://github.com/JahidHasanCO)
 - [Brandon Andrews](https://github.com/brandrewsss)
 - [Gabriel Fernandes](https://github.com/GabrielFernandes251)
-- [Lorenzo Francisco](https://github.com/lozo6)\
+- [Lorenzo Francisco](https://github.com/lozo6)
 - [Arkaprava Roy@DevSocPI]
 - [Tim Judy](https://github.com/tljudy)
 - [Khushboo Jain @DevSoc]
@@ -404,7 +404,7 @@ _ [ ayush Z] @ devsocPI
 - [Alex Song](https://github.com/TheRealAlexSong)
 - [mahalakshmikutcharlapati](https://github.com/mahalakshmikutcharlapati)
 - [aryan sinha devsoc pi](https://github.com/AryanSinha0809)
--
+- 
 - [Andrea Mammoliti](https://github.com/AndreusSH)
 - [Rayhan Ali Muhammad](https://github.com/ram191)
 - [Praddyum Verma](https://praddy2009.github.io/)
@@ -431,7 +431,7 @@ _ [ ayush Z] @ devsocPI
 - [divijaa](https://github.com/divijaa)
 - [ngweishen99](https://github.com/ngweishen99)
 - [Avedis_Yapoudjian](https://github.com/AvedisY)
-- <harshit kapoor>@DevsocPI
+- `<harshit kapoor>`@DevsocPI
 - [xa49](https://github.com/xa49)
 - [Charlie Hird](https://github.com/cjhird)
 - [bytesofbec](https://github.com/bytesofbec)
@@ -828,7 +828,7 @@ _ [ ayush Z] @ devsocPI
 - [Chandra Kiran](https://github.com/chandra-kiran1)
 - [Aryan Thakore](https://github.com/Aryan1982)
 - [Hamza Nehme](https://github.com/hnehme99)
-- [Rucha @DevSocPI]
+- [Rucha @DevSocPI]()
 - [Hippolyte Thomas](https://github.com/hippothomas)
 - [Alexis Gonzalez](https://github.com/Alex-is-Gonzalez)
 - [Shreyash Gupta](https://github.com/shreyash2610)
@@ -855,10 +855,10 @@ _ [ ayush Z] @ devsocPI
 - [Pranava Kumar Mishra](https://github.com/SatayS)
 - [yogesh](https://github.com/yogesh-0911)
 - [paras](https://github.com/paras9192)
-- [Brinda]@DevSoc
+- [Brinda]()@DevSoc
 - [Shivansh Guleria](https://github.com/ShivanshGuleria)
 - [Swaraj](https://github.com/swarajzz)
-- [OmPatil]DevSocPI
+- [OmPatil]()DevSocPI
 - [Franklin Mensah](https://github.com/fiificode)
 - [Bright Odey](https://github.com/starburn-hub)
 - [Rahul chaurasiya](https://github.com/Rahul-chaurasiya?)
@@ -906,7 +906,7 @@ _ [ ayush Z] @ devsocPI
 - [Andre Müller](https://github.com/Amueller36)
 - [duzzysroad](https://github.com/duzzysroad)
 - [Amal](https://github.com/XAL-AMLX)
-= [Nick](https://github.com/comfythread)
+- [Nick](https://github.com/comfythread)
 - [Srivathsan V](https://github.com/Srivathsan-V)
 - [TJ Albertson](https://github.com/TJ-Albertson)
 - [Ruthik Jadhav](https://github.com/Ruthik130201)
@@ -917,23 +917,23 @@ _ [ ayush Z] @ devsocPI
 - [Megan Moulos](https://github.com/meganmoulos/)
 - [Rodrigo Cortes](https://github.com/rocortes10)
 - [Peter Hansteen](https://github.com/pitrh)
-- [Mourad]
+- [Mourad]()
 - [Thales Carlesso](https://github.com/ThalesIanMendes)
 - [Sang2006](https://github.com/Sang2006)
 - [Teju_1212](https://github.com/teju_1212)
-- [Aditya Agarwal]@DevsocPI
+- [Aditya Agarwal]()@DevsocPI
 - [Rakshit Gupta](https://github.com/rakshitgupta23)
 - [Sameera Dissanayaka](https://github.com/ceylonprogrammer)
 - [Chirag Chakraborty](https://github.com/noobchirag69)
 - [Aditya Singh](https://github.com/second007)
 - [Aman Sharma](https://github.com/amansharma703)
 - [Siddharth Bhardwaj](https://github.com/TheUnofficialGod)
-- [notkaylee]
+- [notkaylee]()
 - [Jesse Gerbrandt](https://github.com/Jgerbrandt)
 - [Aditya Singhal](https://github.com/adityaacse)
-- [Deept Ratna @devsocpi]
+- [Deept Ratna @devsocpi]()
 - [PDPkrypto](https://github.com/kodevasse)
-- [Nishad Kotkar]@Devsoc PI
+- [Nishad Kotkar]()@Devsoc PI
 - [Utsav Akash Naskar](https://github.com/Utsav1999)
 - [Anish Doshi](https://github.com/doshianish8)
 - [Saurabh Sinha](https://github.com/sinhasaurabh3104)
@@ -973,7 +973,7 @@ _ [ ayush Z] @ devsocPI
 - [Rishabh yaduwanshi](https://github.com/rishabhyaduwanshi)
 - [Suraj Patel](https://github.com/Surajpatel2003)
 - [Raghav Krishan Kedia](https://github.com/Raghav-Kedia)
-- [Anirudh Sharma @ DevsocPI]
+- [Anirudh Sharma @ DevsocPI]()
 - [Aviraj Saxena](https://github.com/theavirajsaxena)
 - [Adugna Tadesse](https://https://github.com/Adugnatad)
 - [Allesandria Bugatti](https://github.com/Abargallo19)
@@ -987,7 +987,7 @@ _ [ ayush Z] @ devsocPI
 - [Jai-Marothiya](https://github.com/Jai-Marothiya)
 - [Ahan Bandyopadhyay](https://github.com/ahanban15)
 - [Monodeep-Das](https://github.com/Monodeep-Das)
-- [Nishad Kotkar]@Devsoc PI
+- [Nishad Kotkar]()@Devsoc PI
 - [Sai Manoj Etcherla](https://github.com/saimanoj22)
 - [Adam Anderson](https://github.com/Adam-E-Anderson)
 - [Mayank Agrawal](https://github.com/Mayank30-creator)
@@ -1008,7 +1008,7 @@ _ [ ayush Z] @ devsocPI
 - [isaacc16](https://github.com/isaacc16)
 - [cameron lee](https://github.com/cameronslee23)
 - [André Correa](https://github.com/dartmol203)
-- [Umberto Fontanazza] (https://github.com/umberto-fontanazza)
+- [Umberto Fontanazza](https://github.com/umberto-fontanazza)
 - [fehlicks](https://github.com/fehlicks)
 - [Serkan Yilmaz](https://github.com/serkanyilmz)
 - [Shivram Venkatachalam](https://github.com/shivramvenkatachalam)
@@ -1031,7 +1031,7 @@ _ [ ayush Z] @ devsocPI
 - [Cole Abidemi](https://github.com/colebidex2483)
 - [Shanth](https://github.com/kshanth)
 - [Louis lam](https://github.com/Louisss-Lam)
-- [Mathias Neves] (https://github.com/mathiastneves)
+- [Mathias Neves](https://github.com/mathiastneves)
 - [Mohammed Afrid](https://github.com/Afrid45)
 - [Sunny](https://github.com/SunnyChaware)
 - [Rami Elsayed](https://github.com/RamiE965)
@@ -1047,21 +1047,21 @@ _ [ ayush Z] @ devsocPI
 - [Nour Elhamshary](https://github.com/Nour-Elhamshary)
 - [Harish Krishnan](https://github.com/dirtyKitchen)
 - [VAGEESHA GUPTA@DevsocPI](https://github.com/Forestelf6)
-- [Ketan Kulkarni] (https://github.com/kulketan)
+- [Ketan Kulkarni](https://github.com/kulketan)
 - [Zherish Galvin Mayordo](https://github.com/zhrssh)
 - [Taeho Lee](https://github.com/wheels63)
 - [Kelvin950](https://github.com/kelvin950)
 - [Le Thai Anh](https://github.com/lethaianhle)
 - [czc](https://github.com/czc-gd)
-- Tanishq Agarwal @Devsocpreinductions
+- [Tanishq Agarwal]() @Devsocpreinductions
 - [Nguyen Dang Quy](https://github.com/dangquyit)
 - [Aryan Bansal @devsocPI](https://github.com/oye-aryan)
 - [Zac Nation](https://github.com/zacnation)
 - [Salwa Mansour](https://github.com/Salwa-mansour)
 - [Bellhwi](https://github.com/bellhwi)
-- [Sleepypeanut] (https://github.com/sleepypeanut)
-- [Owen Fiber] (https://www.github.com/ofiber)
-- [Ali Zain Aldeen] (https://github.com/ali-zain-aldeen)
+- [Sleepypeanut](https://github.com/sleepypeanut)
+- [Owen Fiber](https://www.github.com/ofiber)
+- [Ali Zain Aldeen](https://github.com/ali-zain-aldeen)
 - [Harshvardhan Mestha @DevsocPI](https://github.com/Harshvardhan-Mestha)
 - [Preet Gupta@devsoc](https://github.com/preetgupta32)
 - [Yash Jhawar@devsocPI](https://github.com/yash-jhawar007)
@@ -1077,7 +1077,7 @@ _ [ ayush Z] @ devsocPI
 - [Victor Jackson](https://github.com/jackv9425)
 - [Julia Kuchle](https://github.com/JuliaGK)
 - [Marek Wasilczuk](https://github.com/tw-mwasilczuk)
-- [Filip Juráň] (https://github.com/MrakLMAOO)
+- [Filip Juráň](https://github.com/MrakLMAOO)
 - [John-Paul Wernecke](https://github.com/Revicx)
 - [Tom Davis](https://github.com/tomjdavis4)
 - [Janhvi Singh](https://github.com/Janhvi52)
@@ -1086,11 +1086,10 @@ _ [ ayush Z] @ devsocPI
 - [Iorvera](https://github.com/iorvera1/first-contributions)
 - [danesusername](https://github.com/danesusername)
 - [Rajat Bhosale](https://github.com/RajatBhosale)
-<!-- prettier-ignore-end -->
-
-Ulises Quiñonez
-[Siddharth Thakur]@devsoc pi
-[ashutosh anand](https://github.com/AshutoshAnand123)
-[Fitriningtyas](https://github.com/fitrifityanto)
-[Jaiman Munshi](https://github.com/jaimanm)
-[Kena Dave](https://github.com/kenadave)
+- [Ulises Quiñonez]()
+- [Siddharth Thakur]()@devsoc pi
+- [ashutosh anand](https://github.com/AshutoshAnand123)
+- [Fitriningtyas](https://github.com/fitrifityanto)
+- [Jaiman Munshi](https://github.com/jaimanm)
+- [Kena Dav](https://github.com/kenadave)
+- [Shiv Kumar Sharma](https://github.com/tech-shiv)
