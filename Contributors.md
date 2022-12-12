@@ -2,6 +2,7 @@
 [Adilet Berdibekov]https://github.com/berdibekovadilet
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=IPratikMali)
 <!-- prettier-ignore-start -->
+- [Pratik Mali](https://github.com/IPratikMali)
 - [Richard McCormick](https://github.com/rmccormick314)
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
 - [Luke Soderquist](https://github.com/lsoderquist)
