@@ -77,6 +77,7 @@
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
 - [vandan doshi](https://github.com/Vandan19)
 - aumkar@DevsocPI
+- Chris Stevens
 - [Sean Sew](https://github.com/ExpressOwl)
 - [Anshuman Nigam @DevSocPI]
 - [Jess Mathews](https://github.com/jessmathews)
