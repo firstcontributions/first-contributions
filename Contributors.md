@@ -53,7 +53,7 @@
 - [Sumer Punjabi](https://github.com/sumerpunjabi)
 - aditya joshi@DevSocPI
 - [RA341](https://github.com/RA341)
-- JamesBond 
+- JamesBond
 - Yashwanth Krishna
 - Ezad Haziq Bin Zamily
 - [Oyelowo Oyeleye Samuel](https://github.com/sammy-yuntin)
@@ -541,6 +541,7 @@ _ [ ayush Z] @ devsocPI
 - [Anand pratap singh](https://github.com/rishu-singh9695)
 - [Michelle Wong](https://github.com/strawberrie68/)
 - [Pray Raskapoorwala]@DevSocPI
+- [Lars Vadgaard](https://github.com/vadgaard)
 - [Suraj Patra](https://github.com/Suraj-Patra)
 - [Krishi Dedhia@DevsonIP](https:/github.com/kdrcks)
 - [Mallela D. Vinay](https://github.com/MD571)
