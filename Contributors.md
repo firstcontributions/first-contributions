@@ -497,6 +497,7 @@ _ [ ayush Z] @ devsocPI
 - [Rey Titus Nagar](https://github.com/gtnagar)
 - [Mayank Jha](https://github.com/mkjha482)
 - [Frank Akrasi Antwi](https://github.com/fantwi)
+- [Doni Wicaksono](https://github.com/slashedzer0)
 - [Shreya Dubey](https://github.com/ShreyaDubey1001)
 - [LaplancheMaxime](https://github.com/LaplancheMaxime)
 - [Vicky Grover](https://github.com/LaplancheMaxime)
