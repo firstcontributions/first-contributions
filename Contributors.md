@@ -1042,6 +1042,7 @@ _ [ ayush Z] @ devsocPI
 - [Sengul Kaya](https://github.com/sengulkaya)
 - [Kareem Kamal](https://github.com/eskiimo)
 - [hhwe](https://github.com/hhwe)
+Pruthiraj Swain
 - [Yllen Fernandez](https://github.com/yllenfer)
 - [Sumon Chandra](https://github.com/sumon-chandra)
 - [Nour Elhamshary](https://github.com/Nour-Elhamshary)
@@ -1086,6 +1087,7 @@ _ [ ayush Z] @ devsocPI
 - [Iorvera](https://github.com/iorvera1/first-contributions)
 - [danesusername](https://github.com/danesusername)
 - [Rajat Bhosale](https://github.com/RajatBhosale)
+
 <!-- prettier-ignore-end -->
 
 Ulises Quiñonez
