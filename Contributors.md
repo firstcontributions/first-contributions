@@ -1034,6 +1034,7 @@ _ [ ayush Z] @ devsocPI
 - [Mathias Neves] (https://github.com/mathiastneves)
 - [Mohammed Afrid](https://github.com/Afrid45)
 - [Sunny](https://github.com/SunnyChaware)
+- [Jon](https://github.com/JJang95)
 - [Rami Elsayed](https://github.com/RamiE965)
 - [khushi](https://github.com/khushi0706)
 - [Deivisson Lisboa](https://github.com/DeivissonLisboa)
