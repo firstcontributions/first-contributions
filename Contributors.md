@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Richard McCormick](https://github.com/rmccormick314)
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
+- [Abraham Kwizera](https://github.com/abraham-kwizera)
 - [Luke Soderquist](https://github.com/lsoderquist)
 - [joel kores](https://github.com/0xAckerMan)
 - [Sharat Katwa](https://github.com/sharatkatwa)
