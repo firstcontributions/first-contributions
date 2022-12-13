@@ -24,6 +24,7 @@
 -[Muhammad Saad]
 - Arman Kumar Jena
 - [Alon Katz](https://github.com/AlonKz1)
+- [Ganga Gowri] (https://github.com/ganga-jpg)
 - [Prajwal Dhungana](https://github.com/PrajwalDhungana)
 - [Overlrd](https://github.com/Overlrd)
 - [Prince Dawson](https://github.com/dawssonCodes)
