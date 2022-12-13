@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 [Adilet Berdibekov]https://github.com/berdibekovadilet
 <!-- prettier-ignore-start -->
 - [Richard McCormick](https://github.com/rmccormick314)
@@ -313,6 +313,7 @@ _ [ ayush Z] @ devsocPI
 - [Brandon Andrews](https://github.com/brandrewsss)
 - [Gabriel Fernandes](https://github.com/GabrielFernandes251)
 - [Lorenzo Francisco](https://github.com/lozo6)\
+- [Aidan B](https://github.com/judgehangman)
 - [Arkaprava Roy@DevSocPI]
 - [Tim Judy](https://github.com/tljudy)
 - [Khushboo Jain @DevSoc]
