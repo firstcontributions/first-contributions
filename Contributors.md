@@ -14,6 +14,7 @@
 - [Niall De Barra](https://github.com/NiallDeBarra)
 - [Rav Krof](https://github.com/Ravkrof)
 - [Masaya Kj](https://github.com/Massas)
+- [Sammi Seddig](https://github.com/InvalidSoul69)
 - [majR - Mohammed Jauharali] (https://github.com/mjjauhar)
 - [James Lee] (https://github.com/jameslee98)
 - Nikhil Tamboli @DevSoc
