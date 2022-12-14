@@ -1024,6 +1024,7 @@ _ [ ayush Z] @ devsocPI
 - [Samar@DevsocPI](https://github.com/canondroid)
 - [Jiao Liu](https://github.com/ildnyy)
 - [peng_cheng](https://github.com/wespc)
+- [Robera Negussie](https://github.com/roberanegussie)
 - [Leonel Santos](https://github.com/leonelSantos)
 - [Vijay Singh Kushwaha](https://github.com/h3110Fr13nd)
 - [Vatler Lett](https://github.com/scarlett1130)
