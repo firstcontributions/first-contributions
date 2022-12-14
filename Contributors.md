@@ -1,7 +1,7 @@
 ﻿# Contributors
 [Adilet Berdibekov]https://github.com/berdibekovadilet
 <!-- prettier-ignore-start -->
-- [Maria Logotheti](https://github.com/mariosland)
+
 - [Richard McCormick](https://github.com/rmccormick314)
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
 - [Luke Soderquist](https://github.com/lsoderquist)
@@ -24,6 +24,7 @@
 - [Pratik Ghosh]
 -[Muhammad Saad]
 - Arman Kumar Jena
+- [Maria Logotheti](https://github.com/mariosland)
 - [Alon Katz](https://github.com/AlonKz1)
 - [Prajwal Dhungana](https://github.com/PrajwalDhungana)
 - [Overlrd](https://github.com/Overlrd)
@@ -57,6 +58,7 @@
 - JamesBond 
 - Yashwanth Krishna
 - Ezad Haziq Bin Zamily
+- [Maria Logotheti](https://github.com/mariosland)
 - [Oyelowo Oyeleye Samuel](https://github.com/sammy-yuntin)
 - [Chintan Golakiya](https://github.com/chintan-golakiya)
 - [Neil Ohene](https://github.com/dvc-77)
