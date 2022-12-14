@@ -856,6 +856,7 @@ _ [ ayush Z] @ devsocPI
 - [yogesh](https://github.com/yogesh-0911)
 - [paras](https://github.com/paras9192)
 - [Brinda]@DevSoc
+- [John Finley](https://github.com/jfinley6)
 - [Shivansh Guleria](https://github.com/ShivanshGuleria)
 - [Swaraj](https://github.com/swarajzz)
 - [OmPatil]DevSocPI
