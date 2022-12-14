@@ -9,6 +9,7 @@
 - [Arpana Sitoula](https://github.com/Arpana-Sitoula)
 - [Lain Iwakura](https://github.com/arisuandlainkissingcompetition123456789)
 - [Ritesh Chikhlonde](https://github.com/riteshx0)
+- Olukoya Babatunde Daniel
 - [disconsolated](https://github.com/disconsolated)
 - [Pranay S Patel](https://github.com/PostGrad)
 - [Niall De Barra](https://github.com/NiallDeBarra)
