@@ -1085,7 +1085,8 @@ _ [ ayush Z] @ devsocPI
 - [Kylin Schneider](https://github.com/KyeByeHi)
 - [Iorvera](https://github.com/iorvera1/first-contributions)
 - [danesusername](https://github.com/danesusername)
-- [Rajat Bhosale](https://github.com/RajatBhosale)
+- [Rajat Bhosale](https://github.com/RajatBhosale) 
+- [Brandon Lo](https://github.com/brandonkwlo)
 <!-- prettier-ignore-end -->
 
 Ulises Quiñonez
@@ -1093,4 +1094,3 @@ Ulises Quiñonez
 [ashutosh anand](https://github.com/AshutoshAnand123)
 [Fitriningtyas](https://github.com/fitrifityanto)
 [Jaiman Munshi](https://github.com/jaimanm)
-[Kena Dave](https://github.com/kenadave)
