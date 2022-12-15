@@ -209,7 +209,7 @@
 - [Jenny F](https://github.com/J-Ning)
 - [anubhav verma]@DevsocPI
 - [Puneet](https://github.com/Puneetpotter)
-_ [ ayush Z] @ devsocPI
+- [ayush Z] @ devsocPI
 - [Guillaume]
 - [Haroldo Curti]
 - [Shrankhla](https://github.com/shrankhla20)
@@ -227,7 +227,6 @@ _ [ ayush Z] @ devsocPI
 - [Deept Ratna @DevsocPI]
 - [Nathan FAbio](https://github.com/nathanfabio)
 - [Parth Naik]@DevsocPI
-- [Vishal](https://github.com/Mvishal123)
 - [Alejandro Reyes Cerecero](https://github.com/Cerecero)
 - [Vibhav Joshi](https://github.com/DATTU005)
 - [Kripa Sindhu](https://github.com/kripasindhu-007)
@@ -263,7 +262,6 @@ _ [ ayush Z] @ devsocPI
 - [Alex Zhao](https://github.com/zyunfeng)
 - [Gregory John](https://github.com/GregLJ)
 - [Pridhi Grag](https:/github/com/pridhigarg369)
--
 - [Juanma Romero](https://github.com/juanmaroni/)
 - [Chhabi Acharya](https://github.com/Chhabii)
 - [Sai Ram](https://github.com/Saira2002)
@@ -406,7 +404,6 @@ _ [ ayush Z] @ devsocPI
 - [Alex Song](https://github.com/TheRealAlexSong)
 - [mahalakshmikutcharlapati](https://github.com/mahalakshmikutcharlapati)
 - [aryan sinha devsoc pi](https://github.com/AryanSinha0809)
--
 - [Andrea Mammoliti](https://github.com/AndreusSH)
 - [Rayhan Ali Muhammad](https://github.com/ram191)
 - [Praddyum Verma](https://praddy2009.github.io/)
