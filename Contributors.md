@@ -1086,6 +1086,7 @@ _ [ ayush Z] @ devsocPI
 - [Iorvera](https://github.com/iorvera1/first-contributions)
 - [danesusername](https://github.com/danesusername)
 - [Rajat Bhosale](https://github.com/RajatBhosale)
+- [Stephan Huber](https://github.com/hubchev)
 <!-- prettier-ignore-end -->
 
 Ulises Quiñonez
@@ -1094,4 +1095,3 @@ Ulises Quiñonez
 [Fitriningtyas](https://github.com/fitrifityanto)
 [Jaiman Munshi](https://github.com/jaimanm)
 [Kena Dave](https://github.com/kenadave)
-[Stephan Huber](https://github.com/hubchev)
