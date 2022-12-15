@@ -1,6 +1,7 @@
 ﻿# Contributors
 [Adilet Berdibekov]https://github.com/berdibekovadilet
 <!-- prettier-ignore-start -->
+- [Harkaran Mann](https://github.com/Hark64)
 - [Richard McCormick](https://github.com/rmccormick314)
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
 - [Luke Soderquist](https://github.com/lsoderquist)
@@ -498,7 +499,6 @@ _ [ ayush Z] @ devsocPI
 - [Mayank Jha](https://github.com/mkjha482)
 - [Frank Akrasi Antwi](https://github.com/fantwi)
 - [Shreya Dubey](https://github.com/ShreyaDubey1001)
-- [Harkaran Mann](https://github.com/Hark64)
 - [LaplancheMaxime](https://github.com/LaplancheMaxime)
 - [Vicky Grover](https://github.com/LaplancheMaxime)
 - [Nishad Kotkar]@Devsoc PI
