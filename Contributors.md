@@ -1,7 +1,6 @@
 ﻿# Contributors
 [Adilet Berdibekov]https://github.com/berdibekovadilet
 <!-- prettier-ignore-start -->
-
 - [Richard McCormick](https://github.com/rmccormick314)
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
 - [Luke Soderquist](https://github.com/lsoderquist)
@@ -58,7 +57,6 @@
 - JamesBond 
 - Yashwanth Krishna
 - Ezad Haziq Bin Zamily
-- [Maria Logotheti](https://github.com/mariosland)
 - [Oyelowo Oyeleye Samuel](https://github.com/sammy-yuntin)
 - [Chintan Golakiya](https://github.com/chintan-golakiya)
 - [Neil Ohene](https://github.com/dvc-77)
