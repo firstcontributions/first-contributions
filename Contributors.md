@@ -11,6 +11,7 @@
 - [Ritesh Chikhlonde](https://github.com/riteshx0)
 - [disconsolated](https://github.com/disconsolated)
 - [Pranay S Patel](https://github.com/PostGrad)
+- [Austin Carr](https://github.com/acarr123)
 - [Niall De Barra](https://github.com/NiallDeBarra)
 - [Rav Krof](https://github.com/Ravkrof)
 - [Masaya Kj](https://github.com/Massas)
