@@ -20,6 +20,7 @@
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [Nathan Maynard](https://github.com/ncmaynard03)
 - [Mudasir H](https://github.com/mh-jsx)
+- [westtle](https://github.com/westtle)
 - [Pratik Ghosh]
 -[Muhammad Saad]
 - Arman Kumar Jena
