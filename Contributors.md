@@ -404,7 +404,6 @@ _ [ ayush Z] @ devsocPI
 - [Alex Song](https://github.com/TheRealAlexSong)
 - [mahalakshmikutcharlapati](https://github.com/mahalakshmikutcharlapati)
 - [aryan sinha devsoc pi](https://github.com/AryanSinha0809)
--
 - [Andrea Mammoliti](https://github.com/AndreusSH)
 - [Rayhan Ali Muhammad](https://github.com/ram191)
 - [Praddyum Verma](https://praddy2009.github.io/)
@@ -427,6 +426,7 @@ _ [ ayush Z] @ devsocPI
 - [Joswagc](https://github.com/joswagc)
 - [Khushi Shukla](https://github.com/Khushi-Shukla)
 - [Srijan D](https://github.com/Srijan-D)
+- [Aijaz Bin Qasim](https://github.com/aijazbinqasim)
 - [srinivasthedeveloper](https://github.com/srinivasthedeveloper)
 - [divijaa](https://github.com/divijaa)
 - [ngweishen99](https://github.com/ngweishen99)
