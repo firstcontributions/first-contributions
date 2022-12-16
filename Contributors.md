@@ -663,6 +663,7 @@ _ [ ayush Z] @ devsocPI
 - [Sam Erde](https://github.com/SamErde)
 - [Meir Sedlis](https://github.com/MeirSedlis)
 - [yash kejriwal@devsocpi]
+- [Norbert Nagy](https://github.com/norbinagy)
 - [Danny Bae](https://github.com/danveb)
 - [Abhishek Nayak](https://github.com/Abhishek2nayak)
 - [Yash Chaphekar@DevsocPI](https://github.com/chaphekar)
