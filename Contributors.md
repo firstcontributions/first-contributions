@@ -404,7 +404,7 @@ _ [ ayush Z] @ devsocPI
 - [Alex Song](https://github.com/TheRealAlexSong)
 - [mahalakshmikutcharlapati](https://github.com/mahalakshmikutcharlapati)
 - [aryan sinha devsoc pi](https://github.com/AryanSinha0809)
--
+- [Ozzy Gado](https://github.com/Eggflaw)
 - [Andrea Mammoliti](https://github.com/AndreusSH)
 - [Rayhan Ali Muhammad](https://github.com/ram191)
 - [Praddyum Verma](https://praddy2009.github.io/)
