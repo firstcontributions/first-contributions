@@ -949,6 +949,7 @@ _ [ ayush Z] @ devsocPI
 - [Priyadarshini Sharma](https://github.com/PriyadarshiniSharma)
 - [luv sharma](https://github.com/luvsharmag)
 - [Kamal raj](https://github.com/Kamalraj5544)
+- [Alperen Karadereli](https://github.com/Alp-Ka)
 - [Raj Patra](https://github.com/raj-patra)
 - [Alan Flores](https://github.com/AlanF20)
 - [Aaryan Singh](https://github.com/Aaryan376)
