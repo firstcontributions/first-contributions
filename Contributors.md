@@ -210,7 +210,7 @@
 - [Jenny F](https://github.com/J-Ning)
 - [anubhav verma]@DevsocPI
 - [Puneet](https://github.com/Puneetpotter)
-  \_ [ ayush Z] @ devsocPI
+  _ [ ayush Z] @ devsocPI
 - [Guillaume]
 - [Haroldo Curti]
 - [Shrankhla](https://github.com/shrankhla20)
