@@ -1,5 +1,4 @@
 ﻿# Contributors
-
 [Adilet Berdibekov]https://github.com/berdibekovadilet
 
 <!-- prettier-ignore-start -->
