@@ -1086,6 +1086,7 @@ _ [ ayush Z] @ devsocPI
 - [Iorvera](https://github.com/iorvera1/first-contributions)
 - [danesusername](https://github.com/danesusername)
 - [Rajat Bhosale](https://github.com/RajatBhosale)
+- [SmashedFrenzy16](https://github.com/SmashedFrenzy16)
 <!-- prettier-ignore-end -->
 
 Ulises Quiñonez
