@@ -1084,6 +1084,7 @@ _ [ ayush Z] @ devsocPI
 - [Eberechi Omeje](https://github.com/beretests)
 - [Kylin Schneider](https://github.com/KyeByeHi)
 - [Iorvera](https://github.com/iorvera1/first-contributions)
+- [kijwamoko](https://github.com/kijwamoko)
 - [danesusername](https://github.com/danesusername)
 - [Rajat Bhosale](https://github.com/RajatBhosale)
 <!-- prettier-ignore-end -->
