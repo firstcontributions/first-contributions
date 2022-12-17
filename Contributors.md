@@ -22,7 +22,8 @@
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [Nathan Maynard](https://github.com/ncmaynard03)
 - [Mudasir H](https://github.com/mh-jsx)
-- [Pratik Ghosh] -[Muhammad Saad]
+- [Pratik Ghosh]
+-[Muhammad Saad]
 - Arman Kumar Jena
 - [Alon Katz](https://github.com/AlonKz1)
 - [Prajwal Dhungana](https://github.com/PrajwalDhungana)
