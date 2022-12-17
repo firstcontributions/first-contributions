@@ -2,7 +2,6 @@
 [Adilet Berdibekov]https://github.com/berdibekovadilet
 
 <!-- prettier-ignore-start -->
-
 - [Richard McCormick](https://github.com/rmccormick314)
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
 - [Luke Soderquist](https://github.com/lsoderquist)
