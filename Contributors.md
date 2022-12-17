@@ -65,6 +65,7 @@
 - [Aadi Sharma@DevSocPI](https://github.com/AadiSharma001)
 - Yash Rustogi
 - Okuroemi Douebi Kelvin
+- [[Rohit Mohanty]] (https://github.com/jayClean)
 - [Dhruv Tandon} @DevsocPI
 - [Preeti Raj](https://github.com/Preetiraj3697)
 - [Aryan Bansal @devsocPI]
