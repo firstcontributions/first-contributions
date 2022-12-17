@@ -82,6 +82,7 @@
 - [Jess Mathews](https://github.com/jessmathews)
 - [VAGEESHA GUPTA@DevsocPI](https://github.com/Forestelf6)
 - [Ashish Ratre](https://github.com/ashishratre404)
+- Maxpixels1
 - Gorupria
 - Edward Abel-Guobadia
 - [Neha Menon@DevsocPI](https://github.com/thenehamenon)
