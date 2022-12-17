@@ -8,6 +8,7 @@
 - [Sharat Katwa](https://github.com/sharatkatwa)
 - [Arpana Sitoula](https://github.com/Arpana-Sitoula)
 - [Lain Iwakura](https://github.com/arisuandlainkissingcompetition123456789)
+- [Atulya Jaiswal](https://github.com/AtulyaJaiswal)
 - [Ritesh Chikhlonde](https://github.com/riteshx0)
 - [disconsolated](https://github.com/disconsolated)
 - [Pranay S Patel](https://github.com/PostGrad)
