@@ -141,6 +141,7 @@
 - [Yashkumar Gupta](https://github.com/yashh1234)
 - [Daniel Ervanda](https://github.com/dnd7)
 - [Lukas de VIPART](https://github.com/Rekch)
+- [Fei](https://github.com/xegg)
 - [R Sathvik]@DevsocPI
 - [Kaiden Flaig]
 - [Ashroof] (https://github.com/OmarAshraf-02)
