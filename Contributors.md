@@ -1082,6 +1082,7 @@ _ [ ayush Z] @ devsocPI
 - [Tom Davis](https://github.com/tomjdavis4)
 - [Janhvi Singh](https://github.com/Janhvi52)
 - [Eberechi Omeje](https://github.com/beretests)
+- [Sumit Girwal](https://github.com/sumitgirwal)
 - [Kylin Schneider](https://github.com/KyeByeHi)
 - [Iorvera](https://github.com/iorvera1/first-contributions)
 - [danesusername](https://github.com/danesusername)
