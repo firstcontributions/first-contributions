@@ -962,6 +962,7 @@ _ [ ayush Z] @ devsocPI
 - [Shaurya Gupta](https://github.com/Shaurya50211)
 - [shrthk-7](https://github.com/shrthk-7)
 - [Yash Thakur](https://github.com/philomathaf)
+- [Aranamor](https://github.com/aranamor)
 - [Rajarshi Bhattacharya](https://github.com/rajarshi023)
 - [Samar Jalil Siddiqui](https://github.com/canondroid)
 - [Adnan Ahmed](https://github.com/fidato818)
