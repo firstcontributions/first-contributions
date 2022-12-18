@@ -21,6 +21,7 @@
 - [Nathan Maynard](https://github.com/ncmaynard03)
 - [Mudasir H](https://github.com/mh-jsx)
 - [Pratik Ghosh]
+- [Tolu A.]
 -[Muhammad Saad]
 - Arman Kumar Jena
 - [Alon Katz](https://github.com/AlonKz1)
