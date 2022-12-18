@@ -968,6 +968,7 @@ _ [ ayush Z] @ devsocPI
 - [ManbhavSugla](https://github.com/manbhavsugla48)
 - [Divesh Singla](https://github.com/Diveshsingla)
 - [Mandar Deshmukh](https://github.com/mandarsd18)
+- [Tejas Satpalkar](https://github.com/tejassatpalkar)
 - [Azzarox](https://github.com/azzarox)
 - [Aman Badone](https://github.com/amanbadone)
 - [Rishabh yaduwanshi](https://github.com/rishabhyaduwanshi)
