@@ -28,6 +28,7 @@
 - [Overlrd](https://github.com/Overlrd)
 - [Prince Dawson](https://github.com/dawssonCodes)
 - [Aarish Khan](https://github.com/aarishmkhan)
+- [Prakhar Verma](https://github.com/parkkrrr)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Loic Mavah Tseket@DevsocPI](https://github.com/loic242)
 - Parth Shah@DevsocPI
