@@ -81,6 +81,7 @@
 - [Anshuman Nigam @DevSocPI]
 - [Jess Mathews](https://github.com/jessmathews)
 - [VAGEESHA GUPTA@DevsocPI](https://github.com/Forestelf6)
+- Kubsy
 - [Ashish Ratre](https://github.com/ashishratre404)
 - Gorupria
 - Edward Abel-Guobadia
