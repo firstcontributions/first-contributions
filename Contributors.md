@@ -54,6 +54,7 @@
 - Reetish Rath
 - [Kenta Mizuno](https://github.com/mizu0715)
 - [Dave Devito](https:://github.com/DaveDevito)
+- [Pratik Lilhare](https://github.com/pratiklilhare/)
 - [Pranjay Yelkotwar] @DevSocInductions
 - [Karthik Kamineni](https://github.com/Karthik-4-5-22)
 - [Kshitij Verma@DevsocPI](https://github.com/melon9829)
