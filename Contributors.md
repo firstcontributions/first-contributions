@@ -717,6 +717,7 @@ _ [ ayush Z] @ devsocPI
 - [Tyson Mills] (https://github.com/tmills5)
 - [Satendra Mishra](https://github.com/Satendram)
 - [Himanshu Singh](https://github.com/singh-himanshu-16)
+- [Jordan](https://github.com/chowweijun)
 - [Deepa Kumari](https://github.com/deepa181)
 - [NandiniPokharna](https://github.com/NandiniPokharna)
 - [Ruphaa Ganesan](https://github.com/ruphaa)
