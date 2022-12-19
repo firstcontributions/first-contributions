@@ -121,6 +121,7 @@
 - [Anshuman Nigam @DevSocPI]
 - [Jess Mathews](https://github.com/jessmathews)
 - [VAGEESHA GUPTA@DevsocPI](https://github.com/Forestelf6)
+- Kubsy
 - [Ashish Ratre](https://github.com/ashishratre404)
 - [Rupak Ahsan] (https://github.com/rupak009)
 - Gorupria
