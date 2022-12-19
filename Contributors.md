@@ -1133,6 +1133,7 @@
 - [Sengul Kaya](https://github.com/sengulkaya)
 - [Kareem Kamal](https://github.com/eskiimo)
 - [hhwe](https://github.com/hhwe)
+- [Pruthiraj Swain]
 - [Yllen Fernandez](https://github.com/yllenfer)
 - [Sumon Chandra](https://github.com/sumon-chandra)
 - [Nour Elhamshary](https://github.com/Nour-Elhamshary)
