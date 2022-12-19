@@ -900,6 +900,7 @@ _ [ ayush Z] @ devsocPI
 - [Rahul chaurasiya](https://github.com/Rahul-chaurasiya?)
 - [Adèle Pluquet](https://github.com/apluquet)
 - [Adrien ANTON LUDWIG](https://github.com/Adrien-ANTON-LUDWIG)
+- [Manish](https://github.com/manish-xyz)
 - [Anugrah Rachman](https://github.com/kidomega-byte/)
 - [Hector Quemada](https://github.com/hdquemada)
 - [Maheen Saleh](https://github.com/maheensaleh)
