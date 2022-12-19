@@ -482,6 +482,7 @@
 - [srinivasthedeveloper](https://github.com/srinivasthedeveloper)
 - [divijaa](https://github.com/divijaa)
 - [ngweishen99](https://github.com/ngweishen99)
+- [Arthur Utecht](https://github.com/autecht)
 - [Avedis_Yapoudjian](https://github.com/AvedisY)
 - <harshit kapoor>@DevsocPI
 - [xa49](https://github.com/xa49)
