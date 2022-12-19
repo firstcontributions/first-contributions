@@ -754,6 +754,7 @@ Rhythm Sharma
 - [Hossain Razavi](https://github.com/h-razavi)
 - [Sam Erde](https://github.com/SamErde)
 - [Meir Sedlis](https://github.com/MeirSedlis)
+- [Shi Heb Din](https://github.com/d3j1x)
 - [yash kejriwal@devsocpi]
 - [プレハブ小屋](https://github.com/showa-yojyo)
 - [Danny Bae](https://github.com/danveb)
