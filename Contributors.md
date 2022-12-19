@@ -372,6 +372,7 @@
 - Reetish Rath DevSoc Pre-inductions
 - [Surajit Dey Sarkar](https://github.com/Surajitds)
 - [Krish Vora](https://github.com/Krishvora)
+- [Ahmed Lotfi](https://github.com/Chicoal)
 - [Joyson Chacko George](https://github.com/joygeo007)
 - [Mohit Marathe](https://github.com/Mohit2758)
 - [Edwin Kim](https://github.com/edwinkim97)
