@@ -73,6 +73,7 @@
 - [Sumer Punjabi](https://github.com/sumerpunjabi)
 - aditya joshi@DevSocPI
 - [RA341](https://github.com/RA341)
+- Derrick Brandt
 - JamesBond 
 - Tariqs26
 - Yashwanth Krishna
