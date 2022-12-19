@@ -146,6 +146,7 @@
 - [Sarthak Jain@DevsocPI] (https://github.com/GurglingHammer)
 - [Vishal Kanwar](https://github.com/Kanvi1)
 - Aniket Sonawane @Devsoc
+- [Samandar Abdukodirov] (https://github.com/abdukod1rov)
 - [Ayush Raj @DevsocPI]. (https://github.com/Aayuraju)
 - Shamit Khetan @DevSoc
 - Maxwell Sean Cadet https://github.com/Maxdj2k
