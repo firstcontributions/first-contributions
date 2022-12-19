@@ -49,6 +49,7 @@
 - [Parth Shah@DevsocPI]
 - aditya bagla
 - Reetish Rath
+- [Kenta Mizuno](https://github.com/mizu0715)
 - [Dave Devito](https:://github.com/DaveDevito)
 - [Pranjay Yelkotwar] @DevSocInductions
 - [Karthik Kamineni](https://github.com/Karthik-4-5-22)
