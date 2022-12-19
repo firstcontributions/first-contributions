@@ -87,6 +87,7 @@
 - Ezad Haziq Bin Zamily
 - [Oyelowo Oyeleye Samuel](https://github.com/sammy-yuntin)
 - [Chintan Golakiya](https://github.com/chintan-golakiya)
+- [Diwas Rimal](https://github.com/diwasrimal) 
 - [Neil Ohene](https://github.com/dvc-77)
 - [Raghav Jit](https://github.com/RaghavJit)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
