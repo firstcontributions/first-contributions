@@ -794,6 +794,7 @@ _ [ ayush Z] @ devsocPI
 - [youngjun1227](https://github.com/youngjun1227)
 - [Preston Harms](https://github.com/R3dPnd)
 - [Tanishq Agarwal](https://github.com/Tanishq2807)
+- [Joseph Martinez](https://github.com/jsmartinez11)
 - [kaushalgosaliya5](https://github.com/kaushalgosaliya5)
 - [Taaki](https://github.com/taaki2311)
 - [Vidit Jain @DevSocPI](https://github.com/ViditJain123)
