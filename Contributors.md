@@ -5,6 +5,7 @@
 - [Richard McCormick](https://github.com/rmccormick314)
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
 - [Luke Soderquist](https://github.com/lsoderquist)
+- [Divyanshu Trivedi]
 - [joel kores](https://github.com/0xAckerMan)
 - [Hamza Mateen](https://github.com/HamzaMateen)
 - [Sharat Katwa](https://github.com/sharatkatwa)
