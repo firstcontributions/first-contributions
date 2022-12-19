@@ -6,6 +6,7 @@
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
 - [Luke Soderquist](https://github.com/lsoderquist)
 - [joel kores](https://github.com/0xAckerMan)
+- [Hamza Mateen](https://github.com/HamzaMateen)
 - [Sharat Katwa](https://github.com/sharatkatwa)
 - [Arpana Sitoula](https://github.com/Arpana-Sitoula)
 - [Lain Iwakura](https://github.com/arisuandlainkissingcompetition123456789)
@@ -15,8 +16,8 @@
 - [Niall De Barra](https://github.com/NiallDeBarra)
 - [Rav Krof](https://github.com/Ravkrof)
 - [Masaya Kj](https://github.com/Massas)
-- [majR - Mohammed Jauharali] (https://github.com/mjjauhar)
-- [James Lee] (https://github.com/jameslee98)
+- [majR - Mohammed Jauharali](https://github.com/mjjauhar)
+- [James Lee](https://github.com/jameslee98)
 - Nikhil Tamboli @DevSoc
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [Nathan Maynard](https://github.com/ncmaynard03)
