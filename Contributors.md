@@ -865,6 +865,7 @@ _ [ ayush Z] @ devsocPI
 - [Vishal](https://github.com/VishalPraneeth)
 - [Sadiq Siraj Ebrahim](https://github.com/sadiqebrahim)
 - [Wajid Ali Tabassum](https://github.com/wajidalitabassum143)
+- [Saloni Modi](https://github.com/pineappleEnthusiast)
 - [Manvendra Prasad](https://github.com/Manv3ndra)
 - [Abhinav Chaudhary](https://github.com/lan10rn)
 - [Saumya Upadhyay](https://github.com/Saumyaup11)
