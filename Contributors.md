@@ -180,6 +180,7 @@
 - [s-t-e-v](https://github.com/s-t-e-v)
 - [Arjit@DevsocPI](https://github.com/arjit05)
 - [Mahadsid](https://github.com/Mahadsid)
+- [Tara Simic]
 - [Abhishek Kumar @DevSocPreinsuctions](https://github.com/Abhik13)
   [Abhishek Kumar Tamrakar @kintic013](https://github.com/kinitic013)
 - [Trevor Ang](https://github.com/TrevorAng)
