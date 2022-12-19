@@ -503,6 +503,7 @@ _ [ ayush Z] @ devsocPI
 - [DragonFireShield](https://github.com/dragonfireshield)
 - [Al Aasad Nur Riyad](https://github.com/nurRiyad)
 - [Sanket Muttin](https://github.com/sanketpm7/)
+- [Supreet Singh](https://github.com/supreetsingh672)
 - [kiranmanicka](https://github.com/kiranmanicka)
 - [Muhammed Emin Boydak](https://github.com/eminboydak)
 - [OmPatil]@devsocPI
