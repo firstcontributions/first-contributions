@@ -1,6 +1,9 @@
 # Contributors
+
 [Adilet Berdibekov]https://github.com/berdibekovadilet
+
 <!-- prettier-ignore-start -->
+
 - [Dipak Kalauni](https://github.com/KaloniGiga)
 - [Richard McCormick](https://github.com/rmccormick314)
 - [Tharun Harish](https://github.com/Tharun-Ninja)
@@ -33,8 +36,7 @@
 - [Nathan Maynard](https://github.com/ncmaynard03)
 - [Mudasir H](https://github.com/mh-jsx)
 - [Pratik Ghosh]
-- [Sreedev](https://github.com/sreedev-ss)
--[Muhammad Saad]
+- [Sreedev](https://github.com/sreedev-ss) -[Muhammad Saad]
 - Arman Kumar Jena
 - [Andres Gutierrez](https://github.com/gtierrezandres)
 - [Alon Katz](https://github.com/AlonKz1)
@@ -52,8 +54,7 @@
 - Parth Shah@DevsocPI
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [Gaurav](https://github.com/b9aurav)
-- [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001)
--[Constantinos Pigkeridis](https://github.com/mentality330)
+- [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001) -[Constantinos Pigkeridis](https://github.com/mentality330)
 - [Parth Shah@DevsocPI]
 - aditya bagla
 - Reetish Rath
@@ -74,7 +75,7 @@
 - aditya joshi@DevSocPI
 - [RA341](https://github.com/RA341)
 - Derrick Brandt
-- JamesBond 
+- JamesBond
 - Tariqs26
 - Yashwanth Krishna
 - [Patnala Karthikeya] (https://github.com/KarthikeyaPatnala12)
@@ -91,6 +92,7 @@
 - [Dhruv Tandon} @DevsocPI
 - esisgilz
 - [Preeti Raj](https://github.com/Preetiraj3697)
+- [Jonathan Grossman](https://github.com/JonathanGrossman)
 - [Aryan Bansal @devsocPI]
 - [Neha Menon@DevSocPI](https://github.com/thenehamenon)
 - [Ayush Raj @DevsocPI]. (https://github.com/Aayuraju)
@@ -141,7 +143,7 @@
 - [Marc D](https://github.com/MarcDGit/)
 - [Melon98@DevsocPI](https://github.com/melon9829)
 - [SleepyPeanut] (https://github.com/sleepypeanut)
-- [Narmeen Z] (https://github.com/nrm33n)  
+- [Narmeen Z] (https://github.com/nrm33n)
 - [Brayton Rude] (https://github.com/notbrayton)
 - [Arnav Ranjekar@DevSocPI](https://github.com/Zubenalgenubi)
 - [Massoud Suleiman](https://github.com/DSMSSTHN)
@@ -242,7 +244,7 @@
 - [Omarali1020](https://github.com/Omarali1020)
 - [Hansie Kristi](https://github.com/hansie23)
 - [Giovanni Palleschi](https://github.com/gpalleschi)
-- -[Vansh Sood @DevSoc](https://github.com/Vanshsback)_
+- -[Vansh Sood @DevSoc](https://github.com/Vanshsback)\_
 - [Redsam](https://github.com/Redsamx)
 - [Vikhyat Gupta@DevsocPI](https://github.com/Vikhyat0908)
 - [Jenny F](https://github.com/J-Ning)
@@ -810,6 +812,7 @@
 - [T4EK](https://github.com/T4EK)
 - [Dhruv Tandon]@DevsocPI
 - [Ashwin Bhagavatula](https://github.com/ashwinbhagavatula)
+- [Chiamaka Ezemba](https://github.com/ChiamakaUI)
 - [smdch](https://github.com/smdch)
 - [gonend](https://github.com/gonend)
 - [teventov5](https://github.com/teventov5)
@@ -966,11 +969,11 @@
 - [shaileshb](https://github.com/shaileshhb)
 - [Angie Bowen](https://github.com/AngelaBowen)
 - [Victor F.](https://github.com/victorfyonemoto)
-- [Jasjot Singh](https://github.com/jasjotb) 
+- [Jasjot Singh](https://github.com/jasjotb)
 - [Andre Müller](https://github.com/Amueller36)
 - [duzzysroad](https://github.com/duzzysroad)
 - [Amal](https://github.com/XAL-AMLX)
-= [Nick](https://github.com/comfythread)
+  = [Nick](https://github.com/comfythread)
 - [Srivathsan V](https://github.com/Srivathsan-V)
 - [TJ Albertson](https://github.com/TJ-Albertson)
 - [Ruthik Jadhav](https://github.com/Ruthik130201)
