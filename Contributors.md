@@ -594,6 +594,7 @@
 - [Chani](https://github.com/ChaniDev)
 - [Vaishnavi](https://github.com/vaisrinivasan)
 - [Dhruv](https://github.com/Elektrikk)
+- [Thomas Vicario] (https://github.com/Cyberdream73)
 - [Rishi Deshmukh](https://github.com/26rishiii)
 - [Luis henrique Bizinelli](https://github.com/LuisBizinelli)
 - [Meet Vansjaliya](https://github.com/meetvansjaliya)
