@@ -605,6 +605,7 @@ _ [ ayush Z] @ devsocPI
 - [Amilcar Rodriguez](https://github.com/mkhi33)
 - [Norbert Nagy-Seres](https://github.com/NorbertNagySeres)
 - [Megha](https://github.com/SBMegha)
+- [Watson](https://github.com/watsoningosi)
 - [Shrey Saraf@DevSocPI]
 - [Rahul Saha](https://github.com/Rahul10Saha)
 - [Dixon Loo](https://github.com/dxnlu)
