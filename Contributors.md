@@ -178,6 +178,7 @@
 - [Rajender Reddy](https://github.com/Pekka1721)
 - [Chouaieb Nemri](https://github.com/cnemri)
 - [Odejobi Peter](https://github.com/rinwaoluwa)
+- [Victor Pawlowski] (https://github.com/pawlowskiv)
 - [Aadi Sharma @DevsocPI]
 - [Tim Klimpel](https://github.com/tkm3d1a)
 - [Fryz](https://github.com/Fryzzz)
