@@ -134,6 +134,7 @@
 - [Narmeen Z] (https://github.com/nrm33n)  
 - [Brayton Rude] (https://github.com/notbrayton)
 - [Arnav Ranjekar@DevSocPI](https://github.com/Zubenalgenubi)
+- [Massoud Suleiman](https://github.com/DSMSSTHN)
 - [Pradeep Kurapati] (https://github.com/Pradeep-Kurapati)
 - [Divyansh Singh @devsoc pre induction]
 - [Taksh Paresh Patel @devsoc pre induction]
