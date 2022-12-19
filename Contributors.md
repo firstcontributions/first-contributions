@@ -77,6 +77,7 @@
 - JamesBond 
 - Tariqs26
 - Yashwanth Krishna
+- [Edmar Campos] (https://github.com/Edax97)
 - [Patnala Karthikeya] (https://github.com/KarthikeyaPatnala12)
 - Ezad Haziq Bin Zamily
 - [Oyelowo Oyeleye Samuel](https://github.com/sammy-yuntin)
