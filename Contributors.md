@@ -260,6 +260,7 @@
 - [Kripa Sindhu](https://github.com/kripasindhu-007)
 - [Jayanth](https://github.com/iamjayanthr)
 - [viral mishra@DevsocPI](https://github.com/mohameddjebloun)
+- [Akash Ojha](https://github.com/ojhakash)
 - [Vanshagra Rai](https://github.com/VanshagraRai)
 - [Divyansh Dabral @DevsocPI]
 - [Ausawin Saehaan](https://github.com/saehaana)
