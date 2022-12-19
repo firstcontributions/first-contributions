@@ -769,6 +769,7 @@
 - [Jeremy Gleason](https://github.com/jeremy-gleason)
 - [jungchoib](https://github.com/jungchoib)
 - [rajdugad](https://github.com/rajdugad)
+- {antny} (https://github.com/antny2)
 - [Tarek-Azzazi](https://github.com/tarekazzazi)
 - [EricWink](https://github.com/ericwink)
 - [Jongkwang131](https://github.com/Jongkwang131)
