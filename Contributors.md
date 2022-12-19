@@ -1138,6 +1138,7 @@
 - [Harshvardhan Mestha @DevsocPI](https://github.com/Harshvardhan-Mestha)
 - [Tom Price](https://https://github.com/BLtom)
 - [Preet Gupta@devsoc](https://github.com/preetgupta32)
+- [Varun Sharma](https://github.com/95sharmavarun)
 - [Yash Jhawar@devsocPI](https://github.com/yash-jhawar007)
 - [Kumar Kashyap@devsoc](https://github.com/KashyapJod)
 - [Saurabh Kurve](https://github.com/saurabhkurve)
