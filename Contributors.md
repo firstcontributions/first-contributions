@@ -608,6 +608,7 @@
 - [Anand pratap singh](https://github.com/rishu-singh9695)
 - [Michelle Wong](https://github.com/strawberrie68/)
 - [Pray Raskapoorwala]@DevSocPI
+- [Lars Vadgaard](https://github.com/vadgaard)
 - [Suraj Patra](https://github.com/Suraj-Patra)
 - [Krishi Dedhia@DevsonIP](https:/github.com/kdrcks)
 - [Mallela D. Vinay](https://github.com/MD571)
