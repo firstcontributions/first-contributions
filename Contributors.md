@@ -559,6 +559,7 @@
 - [Ailen Paez](https://github.com/paezailen)
 - [Vatsal K](https://github.com/vatsalkudecha)
 - [Prakhar Bhatia](https://github.com/prakharbhatia4)
+- [Jarek Pacocha](https://github.com/jarek-pacocha)
 - [vinthara](https://github.com.vinthara)
 - [Vaibhavi Gaur](https://github.com/vai14-gaur)
 - [Shrey Saraf]@devsocPI
