@@ -278,7 +278,7 @@ _ [ ayush Z] @ devsocPI
 - [Alex Zhao](https://github.com/zyunfeng)
 - [Gregory John](https://github.com/GregLJ)
 - [Pridhi Grag](https:/github/com/pridhigarg369)
--
+- [Mohammed Fayis](https://github.com/mohmdfayiz)
 - [Juanma Romero](https://github.com/juanmaroni/)
 - [Chhabi Acharya](https://github.com/Chhabii)
 - [Sai Ram](https://github.com/Saira2002)
