@@ -39,6 +39,7 @@
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [Gaurav](https://github.com/b9aurav)
 - [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001)
+-[Constantinos Pigkeridis](https://github.com/mentality330)
 - [Parth Shah@DevsocPI]
 - aditya bagla
 - Reetish Rath
