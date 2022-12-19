@@ -1213,6 +1213,7 @@ Rhythm Sharma
 - [kijwamoko](https://github.com/kijwamoko)
 - [danesusername](https://github.com/danesusername)
 - [Rajat Bhosale](https://github.com/RajatBhosale)
+- [Rajat](https://github.com/alphadinu)
 - [Fitriningtyas](https://github.com/fitrifityanto)
 <!-- prettier-ignore-end -->
 
