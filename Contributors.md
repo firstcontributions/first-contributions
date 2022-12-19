@@ -106,6 +106,7 @@
 - [Shivani R](https://github.com/shivu-srk)
 - [Arman Kumar Aditya@DevsockPI]
 - [Arman Karimi](https://github.com/iArmanKarimi/)
+- [Imran Sah](https://github.com/ImranSah)
 - [Marc D](https://github.com/MarcDGit/)
 - [Melon98@DevsocPI](https://github.com/melon9829)
 - [SleepyPeanut] (https://github.com/sleepypeanut)
