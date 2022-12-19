@@ -5,6 +5,7 @@
 - [Richard McCormick](https://github.com/rmccormick314)
 - [Tharun Harish](https://github.com/Tharun-Ninja)
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
+- [Vinícius Assumpção de Araújo](https://github.com/viniman27)
 - [Luke Soderquist](https://github.com/lsoderquist)
 - [Divyanshu Trivedi]
 - [joel kores](https://github.com/0xAckerMan)
