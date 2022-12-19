@@ -158,6 +158,7 @@
 - [Arnav Ranjekar@DevSocPI](https://github.com/Zubenalgenubi)
 - [Massoud Suleiman](https://github.com/DSMSSTHN)
 - [Pradeep Kurapati] (https://github.com/Pradeep-Kurapati)
+- [Aniket Bhunia](https://github.com/AniketBhunia)
 - [Divyansh Singh @devsoc pre induction]
 - [Taksh Paresh Patel @devsoc pre induction]
 - [Aibek Z] (https://github.com/aibekz)
