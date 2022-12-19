@@ -91,6 +91,7 @@
 - [Ayush Raj @DevsocPI]. (https://github.com/Aayuraju)
 - [Jatin Gahlot @DevSocPI]
 - [Mustafa-Alwalss].
+- [Farhan Sayyed](https://github.com/farhansayyed165)
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - [Khushboo Jain @ DevSoc]
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
