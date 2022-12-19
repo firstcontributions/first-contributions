@@ -539,6 +539,7 @@
 - [Sahil Barsaiyan](https://github.com/Sahilb12)
 - [Dario Gumucio](https://github.com/dariogumucio)
 - [Raghuram Aluru@DevSoc]
+- [Sid Saythongphet](https://github.com/SidSaythongphet)
 - [Aman Bhagat](https://GitHub.com/sanayaa)
 - [Zoltan Nahoczki](https://github.com/nahoczki)
 - [Siddharth Singh](https://github.com/siddharthqs/rust_quant)
