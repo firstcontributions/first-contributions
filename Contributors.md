@@ -313,6 +313,7 @@
 - [Alex Zhao](https://github.com/zyunfeng)
 - [Gregory John](https://github.com/GregLJ)
 - [Pridhi Grag](https:/github/com/pridhigarg369)
+- [Aimee Jennings](https://github.com/CraftyDemonite)
 - [Mohammed Fayis](https://github.com/mohmdfayiz)
 - [Juanma Romero](https://github.com/juanmaroni/)
 - [Chhabi Acharya](https://github.com/Chhabii)
