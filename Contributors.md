@@ -1060,6 +1060,7 @@
 - [Raghav Krishan Kedia](https://github.com/Raghav-Kedia)
 - [Anirudh Sharma @ DevsocPI]
 - [Aviraj Saxena](https://github.com/theavirajsaxena)
+- [Tim Raphael](https://github.com/Tim-Raphael)
 - [Adugna Tadesse](https://https://github.com/Adugnatad)
 - [Allesandria Bugatti](https://github.com/Abargallo19)
 - [shrthk-7](https://github.com/shrthk-7)
