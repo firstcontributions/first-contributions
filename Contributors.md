@@ -177,6 +177,7 @@
 - [R Sathvik]@DevsocPI
 - [Kaiden Flaig]
 - [Ashroof] (https://github.com/OmarAshraf-02)
+- [Aditya](https://github.com/adi-bal)
 - [Krunal Patel](https://github.com/kd05)
 - [Harshit Devadiga](https://github.com/harshitt02)
 - [Salu Alhassan](https://github.com/sky2626)
