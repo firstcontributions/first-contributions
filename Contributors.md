@@ -1056,6 +1056,7 @@
 - [Serkan Yilmaz](https://github.com/serkanyilmz)
 - [Shivram Venkatachalam](https://github.com/shivramvenkatachalam)
 - [LyffLyff](https://github.com/LyffLyff)
+- [Kunal Bisht](https://github.com/lanukk)
 - [mkosmo](https://github.com/mkosmo)
 - [saeed hersi](https://githhub.com/shersi32)
 - [Vardeep Singh Sandhu](https://github.com/vardeep-sandhu)
