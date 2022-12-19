@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Dipak Kalauni](https://github.com/KaloniGiga)
 - [Richard McCormick](https://github.com/rmccormick314)
+- [Utkarsh Pant](https://github.com/utkarshpant19)
 - [Tharun Harish](https://github.com/Tharun-Ninja)
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
 - [Vinícius Assumpção de Araújo](https://github.com/viniman27)
@@ -68,6 +69,7 @@
 - [Pratik Lilhare](https://github.com/pratiklilhare/)
 - [Pranjay Yelkotwar] @DevSocInductions
 - [Karthik Kamineni](https://github.com/Karthik-4-5-22)
+- [Rohit Sagar](https://github.com/rohit-sagar256)
 - [Kshitij Verma@DevsocPI](https://github.com/melon9829)
 - [Divyansh Dabral @DevsocPI]
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
@@ -87,6 +89,7 @@
 - Ezad Haziq Bin Zamily
 - [Oyelowo Oyeleye Samuel](https://github.com/sammy-yuntin)
 - [Chintan Golakiya](https://github.com/chintan-golakiya)
+- [Diwas Rimal](https://github.com/diwasrimal) 
 - [Neil Ohene](https://github.com/dvc-77)
 - [Raghav Jit](https://github.com/RaghavJit)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
@@ -313,6 +316,7 @@
 - [Alex Zhao](https://github.com/zyunfeng)
 - [Gregory John](https://github.com/GregLJ)
 - [Pridhi Grag](https:/github/com/pridhigarg369)
+- [Aimee Jennings](https://github.com/CraftyDemonite)
 - [Mohammed Fayis](https://github.com/mohmdfayiz)
 - [Juanma Romero](https://github.com/juanmaroni/)
 - [Chhabi Acharya](https://github.com/Chhabii)
