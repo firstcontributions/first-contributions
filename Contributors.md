@@ -537,6 +537,7 @@ _ [ ayush Z] @ devsocPI
 - [Vaishnavi](https://github.com/vaisrinivasan)
 - [Dhruv](https://github.com/Elektrikk)
 - [Rishi Deshmukh](https://github.com/26rishiii)
+- [Luis henrique Bizinelli](https://github.com/LuisBizinelli)
 - [Meet Vansjaliya](https://github.com/meetvansjaliya)
 - [Anmoldeep Kaur](https://github.com/anmoldeep1512)
 - [JOSE VEDIA](https://github.com/Jose-b-v)
