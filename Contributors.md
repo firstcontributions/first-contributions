@@ -712,6 +712,7 @@ _ [ ayush Z] @ devsocPI
 - [Vishal Kumar Sinha](https://github.com/VishSinh)
 - [Oluwatimilehin Esan](https://github.com/therealtmmy)
 - [Allen Bayoneta](https://github.com/allenbayoneta)
+- [Tyson Mills] (https://github.com/tmills5)
 - [Satendra Mishra](https://github.com/Satendram)
 - [Himanshu Singh](https://github.com/singh-himanshu-16)
 - [Deepa Kumari](https://github.com/deepa181)
