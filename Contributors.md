@@ -14,6 +14,7 @@
 - [disconsolated](https://github.com/disconsolated)
 - [Pranay S Patel](https://github.com/PostGrad)
 - [Niall De Barra](https://github.com/NiallDeBarra)
+  [TEP](https://github.com/Theint810)
 - [Rav Krof](https://github.com/Ravkrof)
 - [Masaya Kj](https://github.com/Massas)
 - [majR - Mohammed Jauharali](https://github.com/mjjauhar)
