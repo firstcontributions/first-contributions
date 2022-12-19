@@ -810,6 +810,7 @@
 - [T4EK](https://github.com/T4EK)
 - [Dhruv Tandon]@DevsocPI
 - [Ashwin Bhagavatula](https://github.com/ashwinbhagavatula)
+- [Chiamaka Ezemba](https://github.com/ChiamakaUI)
 - [smdch](https://github.com/smdch)
 - [gonend](https://github.com/gonend)
 - [teventov5](https://github.com/teventov5)
