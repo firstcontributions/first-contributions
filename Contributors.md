@@ -59,6 +59,7 @@
 - Parth Shah@DevsocPI
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [Gaurav](https://github.com/b9aurav)
+- [Aishwarya G M](https://github.com/gmarya)
 - [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001)
 -[Constantinos Pigkeridis](https://github.com/mentality330)
 - [Parth Shah@DevsocPI]
