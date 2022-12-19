@@ -1063,6 +1063,7 @@ _ [ ayush Z] @ devsocPI
 - [Owen Fiber] (https://www.github.com/ofiber)
 - [Ali Zain Aldeen] (https://github.com/ali-zain-aldeen)
 - [Harshvardhan Mestha @DevsocPI](https://github.com/Harshvardhan-Mestha)
+- [Tom Price](https://https://github.com/BLtom)
 - [Preet Gupta@devsoc](https://github.com/preetgupta32)
 - [Yash Jhawar@devsocPI](https://github.com/yash-jhawar007)
 - [Kumar Kashyap@devsoc](https://github.com/KashyapJod)
