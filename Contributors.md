@@ -84,6 +84,7 @@
 - [Ashish Ratre](https://github.com/ashishratre404)
 - Gorupria
 - Edward Abel-Guobadia
+Rhythm Sharma
 - [Neha Menon@DevsocPI](https://github.com/thenehamenon)
 - [Akshaj Jha@DevSocPI](https://github.com/Akshajha07)
 - [Marwan Russier@Woople](https://github.com/Woople74)
