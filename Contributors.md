@@ -1137,6 +1137,7 @@
 - [Preet Gupta@devsoc](https://github.com/preetgupta32)
 - [Yash Jhawar@devsocPI](https://github.com/yash-jhawar007)
 - [Kumar Kashyap@devsoc](https://github.com/KashyapJod)
+- [Saurabh Kurve](https://github.com/saurabhkurve)
 - [Benny Tso](https://github.com/bennytso88)
 - [Jonas Engström](https://github.com/takirami)
 - [kartavya@devsoc](https://github.com/Chrollucilfer)
