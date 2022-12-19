@@ -710,6 +710,7 @@
 - [Sam Erde](https://github.com/SamErde)
 - [Meir Sedlis](https://github.com/MeirSedlis)
 - [yash kejriwal@devsocpi]
+- [プレハブ小屋](https://github.com/showa-yojyo)
 - [Danny Bae](https://github.com/danveb)
 - [Abhishek Nayak](https://github.com/Abhishek2nayak)
 - [Yash Chaphekar@DevsocPI](https://github.com/chaphekar)
