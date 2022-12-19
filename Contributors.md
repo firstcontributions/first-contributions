@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Dipak Kalauni](https://github.com/KaloniGiga)
 - [Richard McCormick](https://github.com/rmccormick314)
+- [Tharun Harish](https://github.com/Tharun-Ninja)
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
 - [Luke Soderquist](https://github.com/lsoderquist)
 - [Divyanshu Trivedi]
