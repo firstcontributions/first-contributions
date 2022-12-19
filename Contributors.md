@@ -612,6 +612,7 @@ _ [ ayush Z] @ devsocPI
 - [YogatBear](https://github.com/YogatBear)
 - [harshith p gowda]@DevSocPI
 - [Smart-Peach](https://github.com/Smart-Peach)
+- [Poonam Joshi](https://github.com/mail2poonam89)
 - [Siddhant](https://github.com/SiddJ01)
 - [Erika Delfino](https://github.com/edelfino11)
 - [JSalinas](https://github.com/javier-salinas)
