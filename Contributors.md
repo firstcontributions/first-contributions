@@ -91,6 +91,7 @@
 - Gorupria
 - Edward Abel-Guobadia
 - [Neha Menon@DevsocPI](https://github.com/thenehamenon)
+- [Von Arzu](https://github.com/ArzuVon)
 - [Akshaj Jha@DevSocPI](https://github.com/Akshajha07)
 - [Marwan Russier@Woople](https://github.com/Woople74)
 - [Hosea Kipkoech@DevSocPI](http://github.com/kipkoech88) ]
