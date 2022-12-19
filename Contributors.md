@@ -119,6 +119,7 @@
 - [Devansh Mehta@DevsocPI](https://github.com/Coderpromax8)
 - [Utkarsh@DevsocPI](https://github.com/0xAnon0602)
 - <harhsit kapoor>@Devsoc@PI
+- [Daminda Dinesh Imaduwa Gamage](https://github.com/dineshigdd)
 - [Pawan Yadav](https://github.com/pawanyy)
 - [CherylChaudhari@DevsocPI](https://github.com/cherxoxo10)
 - [Saptarshi Ghosh @devsoc2022](https://github.com/zack-carnet)
