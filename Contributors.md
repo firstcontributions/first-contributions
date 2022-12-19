@@ -314,6 +314,7 @@ _ [ ayush Z] @ devsocPI
 - [Chase Hunter](https://github.com/TaylorChaseHunter)
 - [Michael Sasi](https://github.com/MichaelSasi)
 - [Vandit Kharod@DevSocPI](https://github.com/Syzygy1-2)
+- [Manav was here](https://github.com/Mnv07)
 - [Coutlocksmith](https://github.com/coutlocksmith)
 - [Arlin Ortiz](https://github.com/Aosmiles)
 - [Aditya Sharma](https://github.com/AdityaSharma223)
