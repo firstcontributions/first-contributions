@@ -52,6 +52,7 @@
 - [Loic Mavah Tseket@DevsocPI](https://github.com/loic242)
 - [Ahmad Shoja](https://github.com/ahmad-shoja)
 - Parth Shah@DevsocPI
+- [seewah tse]
 - [Ahmed Bawazir Ahmedbawazerdev@gmail.com](https://github.com/ahmeddeveloper55)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - Parth Shah@DevsocPI
