@@ -112,6 +112,7 @@
 - [Somnath Golui](https://github.com/somu-code)
 - [Jiving Pete's Frisky Dynamite](https://github.com/jives-mcgee)
 - [kartavya dubey at devsoc preinductions](https://github.com/Chrollucilfer)
+- [Prajwal G](https://github.com/PrajwalGraj)
 - [Shivani R](https://github.com/shivu-srk)
 - [Vashishtha Maurya](https://github.com/VashishthaKM)
 - [Arman Kumar Aditya@DevsockPI]
