@@ -336,6 +336,7 @@ _ [ ayush Z] @ devsocPI
 - [Vijendra Pandey](https://github.com/VijendraPandey)
 - [Erik Opinaldo](https://github.com/erikopinaldo)
 - [Utpal Savaliya](https://github.com/utpalsavliya)
+- [MassiTec](https://github.com/MassiTec)
 - [stardustgd](https://github.com/stardustgd)
 - [Adithya sau@DEVSOCPI](https://github.com/Adisauz)
 - [Sandeep Krishna Donepudi](https://github.com/skdonepudi)
