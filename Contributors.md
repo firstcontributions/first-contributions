@@ -1,6 +1,7 @@
 ﻿# Contributors
 [Adilet Berdibekov]https://github.com/berdibekovadilet
 <!-- prettier-ignore-start -->
+- [Ashish kushwaha](https://github.com/ashishkushwaha22)
 - [Richard McCormick](https://github.com/rmccormick314)
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
 - [Luke Soderquist](https://github.com/lsoderquist)
