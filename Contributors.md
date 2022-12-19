@@ -74,6 +74,7 @@
 - Yash Rustogi
 - Okuroemi Douebi Kelvin
 - [Dhruv Tandon} @DevsocPI
+- esisgilz
 - [Preeti Raj](https://github.com/Preetiraj3697)
 - [Aryan Bansal @devsocPI]
 - [Neha Menon@DevSocPI](https://github.com/thenehamenon)
