@@ -573,6 +573,7 @@ _ [ ayush Z] @ devsocPI
 - [Shabeeb PV](https://github.com/shabeebleo)
 - [Vikhyat Gupta@DevsocPI](https://github.com/Vikhyat0908)
 - [Sakshi](https://github.com/sagupta8399)
+- [Piyush Aggarwal](https://github.com/ThePiyushAggarwal)
 - [Krombopulos](https://github.com/krombopulos-eddie)
 - [Muskan](https://github.com/Muskan-Git-Code)
 - [Pray Raskapoorwala]@DevSocPI
