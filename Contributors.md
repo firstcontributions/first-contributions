@@ -41,6 +41,7 @@
 - [Aarish Khan](https://github.com/aarishmkhan)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Loic Mavah Tseket@DevsocPI](https://github.com/loic242)
+- [Ahmad Shoja](https://github.com/ahmad-shoja)
 - Parth Shah@DevsocPI
 - [Ahmed Bawazir Ahmedbawazerdev@gmail.com](https://github.com/ahmeddeveloper55)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
