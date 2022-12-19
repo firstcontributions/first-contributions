@@ -978,6 +978,7 @@
 - [Aman Sharma](https://github.com/amansharma703)
 - [Siddharth Bhardwaj](https://github.com/TheUnofficialGod)
 - [notkaylee]
+- [Clarisse Deschamps](https://github.com/deschcla)
 - [Jesse Gerbrandt](https://github.com/Jgerbrandt)
 - [Aditya Singhal](https://github.com/adityaacse)
 - [Deept Ratna @devsocpi]
