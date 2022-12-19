@@ -25,6 +25,7 @@
 - [James Lee](https://github.com/jameslee98)
 - Nikhil Tamboli @DevSoc
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
+- [FANOMEZANTSOA Herifiandry Marc Nico](https://ks-krimi.github.io/)
 - [Nathan Maynard](https://github.com/ncmaynard03)
 - [Mudasir H](https://github.com/mh-jsx)
 - [Pratik Ghosh]
