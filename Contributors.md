@@ -139,6 +139,7 @@
 - [Arman Karimi](https://github.com/iArmanKarimi/)
 - [Uzaif Ahmad Shaikh](https://github.com/uzaifahmad)
 - [Marc D](https://github.com/MarcDGit/)
+- [J Johnson] (https://github.com/jbjohnson1278/)
 - [Melon98@DevsocPI](https://github.com/melon9829)
 - [SleepyPeanut] (https://github.com/sleepypeanut)
 - [Narmeen Z] (https://github.com/nrm33n)  
