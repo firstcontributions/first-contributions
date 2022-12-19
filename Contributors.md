@@ -114,6 +114,7 @@
 - [Vashishtha Maurya](https://github.com/VashishthaKM)
 - [Arman Kumar Aditya@DevsockPI]
 - [Arman Karimi](https://github.com/iArmanKarimi/)
+- [Uzaif Ahmad Shaikh](https://github.com/uzaifahmad)
 - [Marc D](https://github.com/MarcDGit/)
 - [Melon98@DevsocPI](https://github.com/melon9829)
 - [SleepyPeanut] (https://github.com/sleepypeanut)
