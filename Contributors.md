@@ -55,6 +55,7 @@
 - aditya joshi@DevSocPI
 - [RA341](https://github.com/RA341)
 - JamesBond 
+- Tariqs26
 - Yashwanth Krishna
 - Ezad Haziq Bin Zamily
 - [Oyelowo Oyeleye Samuel](https://github.com/sammy-yuntin)
