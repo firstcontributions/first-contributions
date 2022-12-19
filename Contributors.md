@@ -1068,6 +1068,7 @@
 - [Adam Anderson](https://github.com/Adam-E-Anderson)
 - [Mayank Agrawal](https://github.com/Mayank30-creator)
 - [Emon](https://github.com/smremon)
+- [Sham Vijay](https://github.com/iamvbenz49)
 - [Ryo Muta](https://github.com/r-mutax)
 - [Laura Clark](https://github.com/lcmaximum)
 - [Aman Kumar Pandey](https://github.com/amanpandey2101)
