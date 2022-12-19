@@ -52,6 +52,7 @@ Mohammed Yunus
 - [Prince Dawson](https://github.com/dawssonCodes)
 - [Sachin Joshi](https://github.com/sachudj)
 - [Aarish Khan](https://github.com/aarishmkhan)
+- [Prakhar Verma](https://github.com/parkkrrr)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Loic Mavah Tseket@DevsocPI](https://github.com/loic242)
 - [Ahmad Shoja](https://github.com/ahmad-shoja)
