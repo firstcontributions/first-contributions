@@ -238,6 +238,7 @@
 - [Mikan](https://github.com/mika-alpha)
 - [Mahabub Arafat](https://github.com/MahabubArafat)
 - [Enoch Chirima](https://github.com/iamenochchirima)
+- [Rafal Ciechanski](https://github.com/Sdfeagt)
 - [Dhruv]@DevsocPI
 - [Harsa Dash](https://github.com/harsadas)
 - [Gopalakrishnan J](https://github.com/Gopalakrishnan20)
