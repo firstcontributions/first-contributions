@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Richard McCormick](https://github.com/rmccormick314)
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
+- [Anupam Shekhar](https://github.com/ianupamshekhar)
 - [Luke Soderquist](https://github.com/lsoderquist)
 - [joel kores](https://github.com/0xAckerMan)
 - [Sharat Katwa](https://github.com/sharatkatwa)
