@@ -140,6 +140,7 @@
 - Shamit Khetan @DevSoc
 - Maxwell Sean Cadet https://github.com/Maxdj2k
 - My name is KS
+- [Mahesward](https://github.com/Mahesward)
 - Ronit Kunkolienker @DevSoc PI
 - [Alvin James Bellero](https://github.com/shiftEscape)
 - [Hidayatullah](https://github.com/dayatnhbtc)
