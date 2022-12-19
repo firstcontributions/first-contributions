@@ -143,6 +143,7 @@
 - [Lukas de VIPART](https://github.com/Rekch)
 - [R Sathvik]@DevsocPI
 - [Kaiden Flaig]
+- [Yash Shrivastava] (https://github.com/alephys26)
 - [Ashroof] (https://github.com/OmarAshraf-02)
 - [Krunal Patel](https://github.com/kd05)
 - [Harshit Devadiga](https://github.com/harshitt02)
