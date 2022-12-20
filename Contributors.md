@@ -5,6 +5,7 @@
 - [Richard McCormick](https://github.com/rmccormick314)
 - [Rafli Muhammad](https://github.com/raflimuhammadd)
 - [Utkarsh Pant](https://github.com/utkarshpant19)
+- [Prince Kumar Singh](https://github.com/princerajput)
 - [Tharun Harish](https://github.com/Tharun-Ninja)
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
 - [Vinícius Assumpção de Araújo](https://github.com/viniman27)
