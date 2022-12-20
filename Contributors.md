@@ -1,9 +1,6 @@
 ﻿# Contributors
-
 [Adilet Berdibekov]https://github.com/berdibekovadilet
-
 <!-- prettier-ignore-start -->
-
 - [Hossain K. M.](https://github.com/ho-ssain)
 - [Richard McCormick](https://github.com/rmccormick314)
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
