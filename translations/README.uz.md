@@ -6,9 +6,9 @@
 
 # Birinchi hissalar 
 
-Ushbu loyiha yangi boshlanuvchilarning birinchi hissasini qo'shish usullarini soddalashtirish va yo'naltirishga qaratilgan. Agar siz birinchi hissangizni qo'shmoqchi bo'lsangiz, quyidagi amallarni bajaring.   
+Ushbu loyiha yangi boshlovchilarning birinchi hissasini qo'shish usullarini soddalashtirish va yo'naltirishga qaratilgan. Agar siz birinchi hissangizni qo'shmoqchi bo'lsangiz, quyidagi amallarni bajaring.   
 
-_Agar buyruq satri sizga mos bo'lmasa, [Bu erda GUI vositalaridan foydalanib amalga oshirishga oid darsliklari mavjud](#boshqa-vositalardan-foydalangan-darsliklar)_
+_Agar buyruq satri sizga mos bo'lmasa, [Bu yerda GUI vositalaridan foydalanib amalga oshirishga oid darsliklari mavjud](#boshqa-vositalardan-foydalangan-darsliklar)_
 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="repositoryni fork qiling" />
@@ -18,21 +18,21 @@ _Agar buyruq satri sizga mos bo'lmasa, [Bu erda GUI vositalaridan foydalanib ama
 ## Bu repositoryni fork qilib oling
 
 Bu repositoryni ushbu sahifaning yuqorisidagi fork tugmasini bosish orqali fork qilib oling
-Bu  akkountingizda ushbu repositoryning nusxasini yaratadi.
+Bu  akkauntingizda ushbu repositoryning nusxasini yaratadi.
 
 ## Bu repositoryni klon qilib oling
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="bu repositoryni klon qilib oling" />
 
-Endi fork qilingan repositoryni kompyuteringizga klon qiling. Github akkountingizga kirib, fork qilingan repositoryni oching, code tugmasi ustiga bosing va keyin _copy to clipboard_ belgisi (icon) ustiga bosing.
+Endi fork qilingan repositoryni kompyuteringizga klon qiling. Github akkauntingizga kirib, fork qilingan repositoryni oching, code tugmasi ustiga bosing va keyin _copy to clipboard_ belgisi (icon) ustiga bosing.
 
-Terminalni oching va quyidagi git buyruqlarini yurg'izing:
+Terminalni oching va quyidagi git buyruqlarini yurgizing:
 
 ```
-git clone "siz horizgina ko'chirib olgan url"
+git clone "siz hozirgina ko'chirib olgan url"
 ```
 
-bu yerda "siz horizgina ko'chirib olgan url" (qo'shtirnoqlarsiz) ushbu repositoryning (siz fork qilingan proyekt) urlidir. URLni olish uchun oldingi bosqichlarni ko'ring.
+bu yerda "siz hozirgina ko'chirib olgan url" (qo'shtirnoqlarsiz) ushbu repositoryning (siz fork qilingan proyekt) urlidir. URLni olish uchun oldingi bosqichlarni ko'ring.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="urlni klipboardga ko'chiring" />
 
@@ -42,7 +42,7 @@ Misol uchun:
 git clone https://github.com/bu-siz/first-contributions.git
 ```
 
-bu yerdagi `bu-siz` sizning Github akkount nomingiz (username). Bu yerda Githubdagi  first-contributions repositorysining kontentlarini kompyuteringizga
+bu yerdagi `bu-siz` sizning Github akkaunt nomingiz (username). Bu yerda Githubdagi  first-contributions repositorysining kontentlarini kompyuteringizga
 ko'chiryapsiz. 
 
 ## Branch yaratish
@@ -82,7 +82,7 @@ git add Contributors.md
 Endi `git commit` buyrug'i yordamida bu o'zgarishlarni commit qiling: 
 
 ```
-git commit -m "Contributors royxatiga ismingiz-ni kiritish"
+git commit -m "Contributors ro'yxatiga ismingiz-ni kiritish"
 ```
 `ismingiz-` ni o'rniga o'zingizni ismingizni yozing.
 
@@ -103,7 +103,7 @@ albatta, `yangi-branch-nomingiz` ni biroz oldin yaratgan branch nomiga almashtir
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
   fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
-  Akkountingizga SSH kalit yaratish va konfiguratsiya qilish uchun [GitHub qo'llanma](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) ga o'ting.
+  Akkauntingizga SSH kalit yaratish va konfiguratsiya qilish uchun [GitHub qo'llanma](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) ga o'ting.
 
 </details>
 
@@ -121,7 +121,7 @@ Tez orada men sizning barcha o'zgarishlaringizni ushbu proyektning main branchig
 
 ## bu yerdan qayerga borish?
 
-Tabriklayman! Siz horizgina contributor sifatida tez-tez uchraydigan standard ish ketma-ketligi ya'ni _fork -> clone -> edit -> pull request_ ni tamonladingiz. 
+Tabriklayman! Siz hozirgina contributor sifatida tez-tez uchraydigan standart ish ketma-ketligi ya'ni _fork -> clone -> edit -> pull request_ ni tamonladingiz. 
 
 Hissangizni nishonlang va [web app](https://firstcontributions.github.io/#social-share)ga o'tish orqali hamtovoqlaringiz va ergashuvshilaringizga ulashing. 
 
