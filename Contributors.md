@@ -1220,7 +1220,7 @@ Rhythm Sharma
 - [Rajat](https://github.com/alphadinu)
 - [Fitriningtyas](https://github.com/fitrifityanto)
 <!-- prettier-ignore-end -->
-
+- [John-Henry Zebulon Olson] (https://github.com/jholson1030)
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
 [ashutosh anand](https://github.com/AshutoshAnand123)
