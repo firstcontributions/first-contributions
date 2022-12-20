@@ -89,6 +89,7 @@ Mohammed Yunus
 - [RA341](https://github.com/RA341)
 - Derrick Brandt
 - JamesBond 
+- Seyed Mahdi Sadat
 - Tariqs26
 - Yashwanth Krishna
 - [Edmar Campos] (https://github.com/Edax97)
