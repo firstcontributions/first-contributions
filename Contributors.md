@@ -178,6 +178,7 @@ Rhythm Sharma
 - [Sharvil Potdar@Devsoc PI](https://github.com/SMP111)
 - [Faisal Saifi](https://github.com/faisalsaifii)
 - Leon
+- Gabe (https://github.com/101itsGabe)
 - [Sarthak Jain@DevsocPI] (https://github.com/GurglingHammer)
 - [Vishal Kanwar](https://github.com/Kanvi1)
 - Aniket Sonawane @Devsoc
