@@ -562,6 +562,7 @@ Rhythm Sharma
 - [imappuru](https://github.com/imappuru)
 - [Dhiraj Suthar](https://github.com/Dhiraj5789)
 - [plaguss](https://github.com/plaguss)
+- [Aaron Moss](https://github.com/armoss51)
 - [Jacob Kerames](https://github.com/JacobKerames)
 - [Rafiqul Shopon](https://github.com/rafiqulshopon)
 - [verissimon](https://github.com/verissimon)
