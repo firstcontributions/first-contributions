@@ -9,6 +9,7 @@
 - [Arpana Sitoula](https://github.com/Arpana-Sitoula)
 - [Lain Iwakura](https://github.com/arisuandlainkissingcompetition123456789)
 - [Ritesh Chikhlonde](https://github.com/riteshx0)
+- [El Linzer](https://github.com/elinzer)
 - [disconsolated](https://github.com/disconsolated)
 - [Pranay S Patel](https://github.com/PostGrad)
 - [Niall De Barra](https://github.com/NiallDeBarra)
@@ -53,7 +54,7 @@
 - [Sumer Punjabi](https://github.com/sumerpunjabi)
 - aditya joshi@DevSocPI
 - [RA341](https://github.com/RA341)
-- JamesBond 
+- JamesBond
 - Yashwanth Krishna
 - Ezad Haziq Bin Zamily
 - [Oyelowo Oyeleye Samuel](https://github.com/sammy-yuntin)
