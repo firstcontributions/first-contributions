@@ -843,6 +843,7 @@ Rhythm Sharma
 - [jiunjiun69](https://github.com/jiunjiun69)
 - [Etinosa Ekhator](https://github.com/Etinosa22)
 - [seongjunyeong](https://github.com/seongjunyeong)
+- [Mohamed Ali Nor](https://github.com/IbnuAlii)
 - [Jungmw03](https://github.com/Jungmw03)
 - [Dmitry Golovach](https://github.com/dagolovach)
 - [yutakdv](https://github.com/yutakdv)
