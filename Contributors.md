@@ -306,6 +306,7 @@ Rhythm Sharma
 - [Divyansh Dabral @DevsocPI]
 - [Ausawin Saehaan](https://github.com/saehaana)
 - [Matthew Song](https://github.com/LuxArgentum)
+- [Gaurav Nadkarni](https://github.com/gauravnadkarni)
 - [Rajiv Galgali]
 - [Aarav Shah](https://github.com/Aaravsh) @DevSocPI
 - [Fvoice](https://github.com/facelessvoice)
