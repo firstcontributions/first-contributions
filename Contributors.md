@@ -77,6 +77,7 @@ Mohammed Yunus
 - [Karthik Kamineni](https://github.com/Karthik-4-5-22)
 - [Rohit Sagar](https://github.com/rohit-sagar256)
 - [Kshitij Verma@DevsocPI](https://github.com/melon9829)
+- [Prajwal Rudrakshi](https://github.com/pgrudra)
 - [Divyansh Dabral @DevsocPI]
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Nasyr Akhmadob](https://github.com/darrowv)
