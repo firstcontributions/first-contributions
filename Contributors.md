@@ -1,6 +1,7 @@
 # Contributors
-[Adilet Berdibekov]https://github.com/berdibekovadilet
+
 <!-- prettier-ignore-start -->
+- [Adilet Berdibekov](https://github.com/berdibekovadilet)
 - [Dipak Kalauni](https://github.com/KaloniGiga)
 - [Richard McCormick](https://github.com/rmccormick314)
 - [Rafli Muhammad](https://github.com/raflimuhammadd)
@@ -22,6 +23,7 @@
 - [Ritesh Chikhlonde](https://github.com/riteshx0)
 - Olukoya Babatunde Daniel
 - [disconsolated](https://github.com/disconsolated)
+- [Harsh Kumar](https://github.com/h369kr)
 - [Bhuvanesh Purohit](https://github.com/BhuvaneshPurohit-git)
 - [Pranay S Patel](https://github.com/PostGrad)
 - [Austin Carr](https://github.com/acarr123)
