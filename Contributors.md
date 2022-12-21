@@ -381,6 +381,7 @@ Rhythm Sharma
 - [Anand S](https://github.com/anand2000s)
 - [Aryan Wadhwa](https://github.com/TastyBiscuit0808/first-contributions)
 - [R.Noto](https://github.com/RikitoNoto)
+- [Ashwarya Maratha](https://github.com/marathan24)
 - [James Hansen](https://github.com/jameszenartist)
 - [Md. Zahidul Islam](https://github.com/JahidHasanCO)
 - [Brandon Andrews](https://github.com/brandrewsss)
