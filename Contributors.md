@@ -358,6 +358,7 @@ Rhythm Sharma
 - [Noy Hanan](https://github.com/noy-h)
 - [Vitya Livshits](https://github.com/cuteWarmFrog)
 - [Andreas](https://github.com/Andreas1593)
+- [Luis Rubio](https://github.com/Lu-77)
 - [Martin Kubona](https://github.com/MartinKayz)
 - [Joe AB](https://github.com/joewab)
 - [Jir Et Katharpi](https://github.com/codlearete)
