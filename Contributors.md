@@ -307,6 +307,7 @@ Rhythm Sharma
 - [Ausawin Saehaan](https://github.com/saehaana)
 - [Matthew Song](https://github.com/LuxArgentum)
 - [Rajiv Galgali]
+- Suni
 - [Aarav Shah](https://github.com/Aaravsh) @DevSocPI
 - [Fvoice](https://github.com/facelessvoice)
 - [Jeffrey Neal](https://github.com/ToastBubbles)
