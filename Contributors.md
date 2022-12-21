@@ -1219,11 +1219,8 @@ Rhythm Sharma
 - [Suhyeon Yu](https://github.com/RSuhyeon)
 - [Rajat](https://github.com/alphadinu)
 - [Fitriningtyas](https://github.com/fitrifityanto)
-<!-- prettier-ignore-end -->
-
-Ulises Quiñonez
-[Siddharth Thakur]@devsoc pi
-[ashutosh anand](https://github.com/AshutoshAnand123)
-[Jaiman Munshi](https://github.com/jaimanm)
-[Kena Dave](https://github.com/kenadave)
-[Sujal-Burad](https://github.com/Sujal-Burad)
+-[ashutosh anand](https://github.com/AshutoshAnand123)
+-[Jaiman Munshi](https://github.com/jaimanm)
+-[Kena Dave](https://github.com/kenadave)
+-[Sujal-Burad](https://github.com/Sujal-Burad)
+-[Farai Mazhandu](https://github.com/faraimazh)
