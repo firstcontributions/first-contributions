@@ -577,6 +577,7 @@ Rhythm Sharma
 - [Harshit Arora](https://github.com/harshit0755)
 - [Odedmasala](https://github.com/odedmasala)
 - [Rey Titus Nagar](https://github.com/gtnagar)
+- [Ricardo de Carvalho](https://github.com/ricardodecarvalho)
 - [Mayank Jha](https://github.com/mkjha482)
 - [Frank Akrasi Antwi](https://github.com/fantwi)
 - [Doni Wicaksono](https://github.com/slashedzer0)
