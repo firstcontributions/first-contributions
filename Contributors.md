@@ -22,6 +22,7 @@
 - [Ritesh Chikhlonde](https://github.com/riteshx0)
 - Olukoya Babatunde Daniel
 - [disconsolated](https://github.com/disconsolated)
+- [Matthew Kurtti](https://github.com/matthewkurtti)
 - [Bhuvanesh Purohit](https://github.com/BhuvaneshPurohit-git)
 - [Pranay S Patel](https://github.com/PostGrad)
 - [Austin Carr](https://github.com/acarr123)
