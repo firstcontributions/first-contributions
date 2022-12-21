@@ -1,5 +1,6 @@
 # Contributors
 [Adilet Berdibekov]https://github.com/berdibekovadilet
+[abdulaziz Shewabu](https://github.com/abshwabu)
 <!-- prettier-ignore-start -->
 - [Dipak Kalauni](https://github.com/KaloniGiga)
 - [Richard McCormick](https://github.com/rmccormick314)
