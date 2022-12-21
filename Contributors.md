@@ -1210,6 +1210,7 @@ Rhythm Sharma
 - [Eberechi Omeje](https://github.com/beretests)
 - [Sumit Girwal](https://github.com/sumitgirwal)
 - [Kylin Schneider](https://github.com/KyeByeHi)
+- [King John](https://github.com/KingJohn-german)
 - [Rifqi](https://github.com/mrifqip29)
 - [Iorvera](https://github.com/iorvera1/first-contributions)
 - [kijwamoko](https://github.com/kijwamoko)
