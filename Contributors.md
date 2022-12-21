@@ -158,6 +158,7 @@ Rhythm Sharma
 - [Prajwal G](https://github.com/PrajwalGraj)
 - [Shivani R](https://github.com/shivu-srk)
 - [Vashishtha Maurya](https://github.com/VashishthaKM)
+-[AdityaKrishnan](https://github.com/ADK0010)
 - [Arman Kumar Aditya@DevsockPI]
 - [Arman Karimi](https://github.com/iArmanKarimi/)
 - [Uzaif Ahmad Shaikh](https://github.com/uzaifahmad)
