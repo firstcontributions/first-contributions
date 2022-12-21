@@ -548,6 +548,7 @@ Rhythm Sharma
 - [Shreyas Bhagwat](https://github.com/ShreyasBhagwat)
 - [Sahil Barsaiyan](https://github.com/Sahilb12)
 - [Dario Gumucio](https://github.com/dariogumucio)
+- [John Denver Bidong](https://github.com/jbidz)
 - [Raghuram Aluru@DevSoc]
 - [Sid Saythongphet](https://github.com/SidSaythongphet)
 - [Aman Bhagat](https://GitHub.com/sanayaa)
