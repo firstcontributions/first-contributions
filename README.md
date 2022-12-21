@@ -79,21 +79,20 @@ This project aims to simplify and guide the way beginners make their first contr
 
 _If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
-
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 #### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
 ## Fork this repository
 
-Fork this repository by clicking on the fork button on the top of this page.
+[Fork](#definitions) this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
 ## Clone the repository
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
+Now [clone](#definitions) the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
 
 Open a terminal and run the following git command:
 
@@ -121,7 +120,7 @@ Change to the repository directory on your computer (if you are not already ther
 cd first-contributions
 ```
 
-Now create a branch using the `git switch` command:
+Now create a [branch](#definitions) using the `git switch` command:
 
 ```
 git switch -c your-new-branch-name
@@ -146,7 +145,8 @@ Add those changes to the branch you just created using the `git add` command:
 ```
 git add Contributors.md
 ```
-Now commit those changes using the `git commit` command:
+
+Now [commit](#definitions) those changes using the `git commit` command:
 
 ```
 git commit -m "Add your-name to Contributors list"
@@ -156,7 +156,7 @@ replacing `your-name` with your name.
 
 ## Push changes to GitHub
 
-Push your changes using the command `git push`:
+[Push](#definitions) your changes using the command `git push`:
 
 ```
 git push -u origin your-branch-name
@@ -181,7 +181,7 @@ If you go to your repository on GitHub, you'll see a `Compare & pull request` bu
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-Now submit the pull request.
+Now submit the [pull](#definitions) request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
@@ -199,8 +199,24 @@ Now let's get you started with contributing to other projects. We've compiled a 
 
 ### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
 
+## Definitions
+
+Fork - A copy of a repository that you manage instead of the owner
+
+Clone - Make a copy of the repository saved locally on your computer
+
+Branch - A new version of a repositry that allows you to do whatever you want / an independent line of development
+
+Commit - A change to a file or files that is saved to the local repository on your machine
+
+Push - Puts you commits into the remote repository on github for your branch
+
+Pull - sends your branch to the owner of the main repository so that it may be added to the main code or discussed
+
 ## Tutorials Using Other Tools
 
 | <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
+
+[def]: #definitions
