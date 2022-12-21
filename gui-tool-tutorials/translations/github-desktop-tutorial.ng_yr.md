@@ -3,11 +3,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-
 # Awọn ẹbun akọkọ
 
-|<img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="200">|GitHub Ojú-iṣẹ Edition|
-|---|---|
+| <img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="200"> | GitHub Ojú-iṣẹ Edition |
+| ----------------------------------------------------------------------------------------------- | ---------------------- |
 
 O le. O jẹ lile nigbagbogbo ni igba akọkọ ti o ṣe nkan. Paapa nigbati o ba n ṣe ifowosowopo, ṣiṣe awọn aṣiṣe kii ṣe nkan ti o ni itunu. Ṣugbọn orisun ṣiṣi jẹ gbogbo nipa ifowosowopo & ṣiṣẹ papọ. A fẹ lati jẹ ki o rọrun ni ọna ti awọn oluranlọwọ orisun-ìmọ tuntun kọ ẹkọ & ṣe alabapin fun igba akọkọ.
 
@@ -15,7 +14,7 @@ Awọn nkan kika & wiwo awọn olukọni le ṣe iranlọwọ, ṣugbọn kini o
 
 Ti o ko ba ni Ojú-iṣẹ GitHub lori ẹrọ rẹ, [fi sii] (https://desktop.github.com/).
 
-Ti o ba n lo ẹya ti tabili GitHub ṣaaju 1.0, [tọkasi ikẹkọ yii](github-desktop-old-version-tutorial.md). <img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/fork.png" alt=" orita ibi ipamọ yii" /> 
+Ti o ba n lo ẹya ti tabili GitHub ṣaaju 1.0, [tọkasi ikẹkọ yii](github-desktop-old-version-tutorial.md). <img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/fork.png" alt=" orita ibi ipamọ yii" />
 
 ## Orita ibi ipamọ yii
 
@@ -25,15 +24,15 @@ Fork repo yii nipa tite lori bọtini orita ni apa ọtun oke ti oju-iwe yii. Ey
 
 Bayi clone repo yii si ẹrọ rẹ. PATAKI: MAA ṢE TI AWỌN REPO ORIGINAL. Lọ si orita rẹ ki o ṣe oniye rẹ. Lati ṣe oniye repo, tẹ lori "Clone tabi Download" ati lẹhinna tẹ "Ṣii ni Ojú-iṣẹ".
 
-<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-clonetodesktop.png" alt="clone this repository" />
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-clonetodesktop.png" alt="clone this repository" />
 
 Ferese agbejade yoo ṣii. Tẹ "Ṣii GitHubDesktop.exe".
 
-<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-open-githubdesktop.png" alt="clone this repository" />
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-open-githubdesktop.png" alt="clone this repository" />
 
 Lẹhin ti o tẹ “Ṣii GitHubDesktop.exe” awọn akoonu naa yoo ṣe igbasilẹ si kọnputa rẹ.
 
-<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-downloaded.png" alt="clone this repository" />
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-downloaded.png" alt="clone this repository" />
 
 Bayi o ti daakọ awọn akoonu ti ibi ipamọ awọn ifunni akọkọ ni github si kọnputa rẹ.
 
@@ -41,7 +40,7 @@ Bayi o ti daakọ awọn akoonu ti ibi ipamọ awọn ifunni akọkọ ni github
 
 Bayi ṣẹda ẹka kan nipa tite lori aami “Ẹka lọwọlọwọ” ni oke ati lẹhinna tẹ “Ẹka Tuntun”:
 
-<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-create-branch-name.png" alt="name your branch" />
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-create-branch-name.png" alt="name your branch" />
 
 Tẹ 'Ṣẹda ẹka'
 
@@ -51,17 +50,17 @@ Bayi ṣii faili `Contributors.md` ni olootu ọrọ, yi lọ si isalẹ ti oju-
 
 Apeere: Ti orukọ rẹ ba jẹ James Smith, O yẹ ki o dabi eleyi. \[James Smith](https://github.com/jamessmith) O le rii pe awọn ayipada wa si Contributors.md ati pe wọn ti ṣafikun si Ojú-iṣẹ Github.
 
-<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-status.png" alt="check status" />
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-status.png" alt="check status" />
 
 Bayi ṣe awọn ayipada wọnyi:
 
-Kọ ifiranṣẹ naa "Ṣafikun `<orukọ-orukọ rẹ>` si atokọ Awọn oluranlọwọ” ni aaye * akopọ *.
+Kọ ifiranṣẹ naa "Ṣafikun `<orukọ-orukọ rẹ>` si atokọ Awọn oluranlọwọ” ni aaye _ akopọ _.
 
 Ropo `<oruko-rẹ>` pẹlu orukọ rẹ.
 
 Tẹ bọtini ti o sọ 'Ṣe lati fi-orukọ-rẹ'.
 
-<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-commit1.png" alt="commit your changes" />
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-commit1.png" alt="commit your changes" />
 
 Ni isalẹ, o le rii pe a ti ṣẹda ifaramọ naa.
 
@@ -69,24 +68,23 @@ Ni isalẹ, o le rii pe a ti ṣẹda ifaramọ naa.
 
 ## Titari awọn ayipada si github
 
- Tẹ Faili-> Awọn aṣayan ati wọle si Github.com. Tẹ orukọ olumulo Github ati ọrọ igbaniwọle sii.
+Tẹ Faili-> Awọn aṣayan ati wọle si Github.com. Tẹ orukọ olumulo Github ati ọrọ igbaniwọle sii.
 
-
-<img style="left;" src = "https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-sign-in.png" alt = "wọle si Github" />
+<img src = "https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-sign-in.png" alt = "wọle si Github" />
 
 Tẹ bọtini 'Tẹjade' ni apa ọtun oke.
 
-<img style="left;" src = "https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-publish1.png" alt = "Titari awọn ayipada rẹ" />
+<img src = "https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-publish1.png" alt = "Titari awọn ayipada rẹ" />
 
 ## Firanṣẹ awọn ayipada rẹ fun atunyẹwo
 
 Ti o ba lọ si ibi ipamọ rẹ lori github, iwọ yoo rii bọtini 'Afiwe & fa ìbéèrè'. tẹ lori wipe bọtini.
 
-<img style="left;" src = "https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/compare-and-pull.png" alt = "ṣẹda ibeere fifa" />
+<img src = "https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/compare-and-pull.png" alt = "ṣẹda ibeere fifa" />
 
 Bayi fi ibeere fa silẹ.
 
-<img style="left;" src = "https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/submit-pull-request.png" alt = "fi ìbéèrè fa" />
+<img src = "https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/submit-pull-request.png" alt = "fi ìbéèrè fa" />
 
 Laipẹ Emi yoo dapọ gbogbo awọn ayipada rẹ si ẹka ọga ti iṣẹ akanṣe yii. Iwọ yoo gba imeeli iwifunni ni kete ti awọn ayipada ba ti dapọ.
 
@@ -97,10 +95,10 @@ Oriire! O kan pari boṣewa _fork -> oniye -> edit -> PR_ iṣan-iṣẹ ti iw�
 Ṣe ayẹyẹ ilowosi rẹ ki o pin pẹlu awọn ọrẹ ati awọn ọmọlẹyin rẹ nipa lilọ si [ohun elo wẹẹbu](https://firstcontributions.github.io#social-share).
 
 O le darapọ mọ ẹgbẹ alailẹṣẹ wa ni ọran ti o nilo iranlọwọ eyikeyi tabi ni awọn ibeere eyikeyi.
- [Darapọ mọ ẹgbẹ alailẹṣẹ](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYVk)
-
+[Darapọ mọ ẹgbẹ alailẹṣẹ](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYVk)
 
 ### [Awọn ohun elo afikun](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Awọn olukọni Lilo Awọn irinṣẹ miiran
+
 [Pada si oju-iwe akọkọ](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
