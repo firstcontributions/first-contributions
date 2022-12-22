@@ -454,6 +454,7 @@ Rhythm Sharma
 - [Ahad Ansari](https://github.com/AhadAns)
 - [Brendan Tuckerman](https://github.com/MrMaverick79/)
 - [Renz Sira](https://github.com/rcsira)
+- [AMIT Prabhu](https://github.com/kingofnights)
 - [Rounak Shrestha](https://github.com/Rounak-stha)
 - [SAHIL SINHA](https://github.com/SahilSinha007)
 - [Neelesh Aggarwal](https://github.com/AggarwalNeelesh)
