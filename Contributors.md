@@ -9,6 +9,7 @@
 - [Rafli Muhammad](https://github.com/raflimuhammadd)
 - [Utkarsh Pant](https://github.com/utkarshpant19)
 - [Ayush Dutt Sharma](https://github.com/Ayush-Dutt-Sharma)
+- [Ayush Dutt Sharma](https://github.com/Ayush-Dutt-Sharma)
 - [Tharun Harish](https://github.com/Tharun-Ninja)
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
 - [Vinícius Assumpção de Araújo](https://github.com/viniman27)
