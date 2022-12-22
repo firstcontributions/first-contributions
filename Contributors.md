@@ -88,7 +88,7 @@ Mohammed Yunus
 - aditya joshi@DevSocPI
 - [RA341](https://github.com/RA341)
 - Derrick Brandt
-- JamesBond
+- JamesBond 
 - Tariqs26
 - Yashwanth Krishna
 - [Edmar Campos] (https://github.com/Edax97)
@@ -96,7 +96,7 @@ Mohammed Yunus
 - Ezad Haziq Bin Zamily
 - [Oyelowo Oyeleye Samuel](https://github.com/sammy-yuntin)
 - [Chintan Golakiya](https://github.com/chintan-golakiya)
-- [Diwas Rimal](https://github.com/diwasrimal)
+- [Diwas Rimal](https://github.com/diwasrimal) 
 - [Neil Ohene](https://github.com/dvc-77)
 - dsvetina
 - [Raghav Jit](https://github.com/RaghavJit)
@@ -139,7 +139,6 @@ Rhythm Sharma
 - [Marwan Russier@Woople](https://github.com/Woople74)
 - [Hosea Kipkoech@DevSocPI](http://github.com/kipkoech88) ]
 - [Pranay Chakravarty@devsocPI](https://github.com/Mr-Mystic)
-- [Aditya Phasu](https://github.com/adityaphasu)
 - [Akshaj Jha](https://github.com/Akshajha07)
 - [Sasmit Datta @DevsocPI](https://github.com/Sasopsy)
 - [GurglingHammer @DevsocPI](https://github.com/GurglingHammer)
@@ -1010,7 +1009,7 @@ Rhythm Sharma
 - [shaileshb](https://github.com/shaileshhb)
 - [Angie Bowen](https://github.com/AngelaBowen)
 - [Victor F.](https://github.com/victorfyonemoto)
-- [Jasjot Singh](https://github.com/jasjotb)
+- [Jasjot Singh](https://github.com/jasjotb) 
 - [Andre Müller](https://github.com/Amueller36)
 - [duzzysroad](https://github.com/duzzysroad)
 - [Amal](https://github.com/XAL-AMLX)
