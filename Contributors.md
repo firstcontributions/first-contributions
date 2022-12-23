@@ -10,6 +10,7 @@
 - [Vinícius Assumpção de Araújo](https://github.com/viniman27)
 - [Luke Soderquist](https://github.com/lsoderquist)
 - [Amrit Raj](https://github.com/amritrj)
+- [Huzefa Mehidpurwala](https://github.com/huzefamehidpurwala)
 - [Divyanshu Trivedi]
 - [joel kores](https://github.com/0xAckerMan)
 - [Hamza Mateen](https://github.com/HamzaMateen)
