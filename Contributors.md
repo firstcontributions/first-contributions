@@ -1192,6 +1192,7 @@ Rhythm Sharma
 - [Kumar Kashyap@devsoc](https://github.com/KashyapJod)
 - [Saurabh Kurve](https://github.com/saurabhkurve)
 - [Benny Tso](https://github.com/bennytso88)
+- [rabcore](https://github.com/rabcore)
 - [Jonas Engström](https://github.com/takirami)
 - [kartavya@devsoc](https://github.com/Chrollucilfer)
 - [Kumar Kashyap](https://github.com/KashyapJod)@devsoc
