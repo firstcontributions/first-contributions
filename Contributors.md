@@ -41,6 +41,7 @@
 - [westtle](https://github.com/westtle)
 - [Pratik Ghosh]
 - [Sreedev](https://github.com/sreedev-ss)
+  [Homo Algoritius](https://github.com/BARarch)
 -[Muhammad Saad]
 Mohammed Yunus
 -[Mohammed Yunus](https://github.com/Y-u-n-u-s)
