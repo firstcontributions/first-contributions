@@ -1179,6 +1179,7 @@ Rhythm Sharma
 - [Zac Nation](https://github.com/zacnation)
 - [Salwa Mansour](https://github.com/Salwa-mansour)
 - [Bellhwi](https://github.com/bellhwi)
+- [Jon Tam](https://github.com/jon-tam)
 - [Shubhampaul](https://github.com/Shu12388y)
 - [Sleepypeanut] (https://github.com/sleepypeanut)
 - [Owen Fiber] (https://www.github.com/ofiber)
