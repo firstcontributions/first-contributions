@@ -1031,7 +1031,8 @@ Rhythm Sharma
 - [Teju_1212](https://github.com/teju_1212)
 - [Aditya Agarwal]@DevsocPI
 - [Rakshit Gupta](https://github.com/rakshitgupta23)
-- [Sameera Dissanayaka](https://github.com/ceylonprogrammer)
+- [Rakshit Gupta](https://github.com/rakshitgupta23)
+- [Aminow21](https://github.com/Aminow21)
 - [Chirag Chakraborty](https://github.com/noobchirag69)
 - [Aditya Singh](https://github.com/second007)
 - [Aman Sharma](https://github.com/amansharma703)
