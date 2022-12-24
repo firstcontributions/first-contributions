@@ -14,6 +14,7 @@
 - [joel kores](https://github.com/0xAckerMan)
 - [Hamza Mateen](https://github.com/HamzaMateen)
 - [Sharat Katwa](https://github.com/sharatkatwa)
+- [Jash Bhupesh Kadu](https://github.com/greatmaxy)
   [Kartik khode](https://github.com/Kartiklk)
 - [Arpana Sitoula](https://github.com/Arpana-Sitoula)
 - [Ajay Anuragi](https://github.com/ajayanuragi)
