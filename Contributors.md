@@ -41,9 +41,9 @@
 - [westtle](https://github.com/westtle)
 - [Pratik Ghosh]
 - [Sreedev](https://github.com/sreedev-ss)
--[Muhammad Saad]
-Mohammed Yunus
--[Mohammed Yunus](https://github.com/Y-u-n-u-s)
+- [Muhammad Saad]
+- Mohammed Yunus
+- [Mohammed Yunus](https://github.com/Y-u-n-u-s)
 - Arman Kumar Jena
 - [Andres Gutierrez](https://github.com/gtierrezandres)
 - [Alon Katz](https://github.com/AlonKz1)
@@ -66,7 +66,7 @@ Mohammed Yunus
 - [Gaurav](https://github.com/b9aurav)
 - [Aishwarya G M](https://github.com/gmarya)
 - [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001)
--[Constantinos Pigkeridis](https://github.com/mentality330)
+- [Constantinos Pigkeridis](https://github.com/mentality330)
 - [Parth Shah@DevsocPI]
 - aditya bagla
 - Reetish Rath
@@ -132,7 +132,7 @@ Mohammed Yunus
 - [Rupak Ahsan] (https://github.com/rupak009)
 - Gorupria
 - Edward Abel-Guobadia
-Rhythm Sharma
+- Rhythm Sharma
 - [Neha Menon@DevsocPI](https://github.com/thenehamenon)
 - [Von Arzu](https://github.com/ArzuVon)
 - [Akshaj Jha@DevSocPI](https://github.com/Akshajha07)
@@ -142,6 +142,7 @@ Rhythm Sharma
 - [Akshaj Jha](https://github.com/Akshajha07)
 - [Sasmit Datta @DevsocPI](https://github.com/Sasopsy)
 - [GurglingHammer @DevsocPI](https://github.com/GurglingHammer)
+- [George Cadel-Munoz](https://github.com/GCMoony)
 - [Shardul Tomat@DevsocPI](https://github.com/ShardulT04)
 - [Aadi joshi](https://github.com/AadiJ2022) @devsoc PI Devsoc
 - [Devansh Mehta@DevsocPI](https://github.com/Coderpromax8)
