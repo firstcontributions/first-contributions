@@ -1002,6 +1002,7 @@ _ [ ayush Z] @ devsocPI
 - [Shivam Gupta](https://shivam-gupta007.github.io/)
 - [Pradnyanandana Suwitra](https://github.com/pradnyanandana)
 - [Royalknight56](https://github.com/royalknight56)
+- [Thomas Hegeman](https://github.com/Hegeman-Thomas001)
 - [kan01234](https://github.com/kan01234/)
 - [lazylittlestar](https://github.com/lazylittlestar)
 - [EvyatarEsterson🙂](https://github.com/EvyatarEsterson)
