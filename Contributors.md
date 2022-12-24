@@ -2,6 +2,7 @@
 [Adilet Berdibekov]https://github.com/berdibekovadilet
 <!-- prettier-ignore-start -->
 - [Dipak Kalauni](https://github.com/KaloniGiga)
+- [Sanjog Hamal]
 - [Richard McCormick](https://github.com/rmccormick314)
 - [Rafli Muhammad](https://github.com/raflimuhammadd)
 - [Utkarsh Pant](https://github.com/utkarshpant19)
