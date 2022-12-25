@@ -1220,7 +1220,6 @@ Rhythm Sharma
 - [Rajat](https://github.com/alphadinu)
 - [Fitriningtyas](https://github.com/fitrifityanto)
 - [Namejess](https://github.com/Namejess)
-
 <!-- prettier-ignore-end -->
 
 Ulises Quiñonez
