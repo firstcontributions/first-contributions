@@ -1213,6 +1213,7 @@ Rhythm Sharma
 - [Rifqi](https://github.com/mrifqip29)
 - [Iorvera](https://github.com/iorvera1/first-contributions)
 - [kijwamoko](https://github.com/kijwamoko)
+- [John Ziouras](https://github.com/johnziouras)
 - [danesusername](https://github.com/danesusername)
 - [Rajat Bhosale](https://github.com/RajatBhosale)
 - [SmashedFrenzy16](https://github.com/SmashedFrenzy16)
