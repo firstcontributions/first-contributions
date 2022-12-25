@@ -176,6 +176,7 @@ Rhythm Sharma
 - [Aibek Z] (https://github.com/aibekz)
 - [Yash Rathi}@DevsocPI
 - [Sharvil Potdar@Devsoc PI](https://github.com/SMP111)
+- [VINITH S](https://github.com/realvineeths)
 - [Faisal Saifi](https://github.com/faisalsaifii)
 - Leon
 - [Sarthak Jain@DevsocPI] (https://github.com/GurglingHammer)
