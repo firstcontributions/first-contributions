@@ -138,6 +138,7 @@ Rhythm Sharma
 - [Akshaj Jha@DevSocPI](https://github.com/Akshajha07)
 - [Marwan Russier@Woople](https://github.com/Woople74)
 - [Hosea Kipkoech@DevSocPI](http://github.com/kipkoech88) ]
+- [Leprekus](https://github.com/Leprekus)
 - [Pranay Chakravarty@devsocPI](https://github.com/Mr-Mystic)
 - [Akshaj Jha](https://github.com/Akshajha07)
 - [Sasmit Datta @DevsocPI](https://github.com/Sasopsy)
