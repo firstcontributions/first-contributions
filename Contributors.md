@@ -1218,6 +1218,7 @@ Rhythm Sharma
 - [SmashedFrenzy16](https://github.com/SmashedFrenzy16)
 - [Suhyeon Yu](https://github.com/RSuhyeon)
 - [Rajat](https://github.com/alphadinu)
+- [Duy Dang](https://github.com/dqduy)
 - [Fitriningtyas](https://github.com/fitrifityanto)
 <!-- prettier-ignore-end -->
 
