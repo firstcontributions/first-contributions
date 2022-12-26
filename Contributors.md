@@ -1088,7 +1088,7 @@ Rhythm Sharma
 - [Anirudh Sharma @ DevsocPI]
 - [Aviraj Saxena](https://github.com/theavirajsaxena)
 - [Tim Raphael](https://github.com/Tim-Raphael)
-- [Adugna Tadesse](https://https://github.com/Adugnatad)
+- [Adugna Tadesse](https://github.com/Adugnatad)
 - [Allesandria Bugatti](https://github.com/Abargallo19)
 - [shrthk-7](https://github.com/shrthk-7)
 - [Dharmik Nadiyapara](https://github.com/Dharmik-0)
@@ -1185,7 +1185,7 @@ Rhythm Sharma
 - [Anas Aijaz](https://github.com/anasaijaz)
 - [Ali Zain Aldeen] (https://github.com/ali-zain-aldeen)
 - [Harshvardhan Mestha @DevsocPI](https://github.com/Harshvardhan-Mestha)
-- [Tom Price](https://https://github.com/BLtom)
+- [Tom Price](https://github.com/BLtom)
 - [Preet Gupta@devsoc](https://github.com/preetgupta32)
 - [Varun Sharma](https://github.com/95sharmavarun)
 - [Yash Jhawar@devsocPI](https://github.com/yash-jhawar007)
