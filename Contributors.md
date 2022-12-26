@@ -989,6 +989,7 @@ Rhythm Sharma
 - [Nia Ahmed](https://github.com/technialogy)
 - [Bikash yadav](https://github.com/bikashydv)
 - [Sowmya S](https://github.com/sowmya-s-26)
+- [Ananthu AK](https://github.com/akanandhu)
 - [Andres Emedan](https://github.com/andresemedan)
 - [Julian Macioce](https://github.com/JMacioce)
 - [Matteo Bruscagnin](https://github.com/MBruscagnin)
