@@ -42,4 +42,5 @@ This document is dedicated to all the tips and tricks websites, blog posts, and 
 37. [Keyboard shortcuts for Github](https://docs.github.com/en/get-started/using-github/keyboard-shortcuts)
 38. [Complete Git and GitHub Tutorial by Kunal Kushwaha](https://www.youtube.com/watch?v=apGV9Kg7ics&ab_channel=KunalKushwaha)
 39. [Git workflow Cheat Sheet](https://drive.google.com/uc?export=download&id=1QPRh5YmqQm4DFfitelPYlBTWC2I6tTTM)
+40. [Pro Git 2nd Edition (2014) by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
 Keep adding more links, that you find helpful.
