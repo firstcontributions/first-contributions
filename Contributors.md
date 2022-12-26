@@ -461,6 +461,7 @@ Rhythm Sharma
 - [nicocarcamo](https://github.com/nicocarcamo)
 - [Sandip Tiwari](https://github.com/Sandip-Tiwari-435)
 - [Sarthak Mittal](https://github.com/SarthakMittal777)
+- [Ian Duncan](https://github.com/dr8co)
 - [Luisa Haase](https://github.com/luisaha)
 - [Nayna Sahu](https://github.com/NaynaSahu/)
 - shaurya tripathi @devsocpi
