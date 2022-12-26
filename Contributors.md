@@ -121,6 +121,7 @@ Mohammed Yunus
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
 - [Siddhant Chauhan](https://github.com/siddhant-0707)
 - [vandan doshi](https://github.com/Vandan19)
+- [Kenneth DeBacker](https://github.com/kendebacker)
 - aumkar@DevsocPI
 - Chris Stevens
 - [Sean Sew](https://github.com/ExpressOwl)
