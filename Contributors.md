@@ -1211,6 +1211,7 @@ Rhythm Sharma
 - [Sumit Girwal](https://github.com/sumitgirwal)
 - [Kylin Schneider](https://github.com/KyeByeHi)
 - [Rifqi](https://github.com/mrifqip29)
+- [John Harrington](https://github.com/harr1424)
 - [Iorvera](https://github.com/iorvera1/first-contributions)
 - [kijwamoko](https://github.com/kijwamoko)
 - [danesusername](https://github.com/danesusername)
