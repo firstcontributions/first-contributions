@@ -6,6 +6,7 @@
 - [Rafli Muhammad](https://github.com/raflimuhammadd)
 - [Utkarsh Pant](https://github.com/utkarshpant19)
 - [Tharun Harish](https://github.com/Tharun-Ninja)
+- Tosif Khan
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
 - [Vinícius Assumpção de Araújo](https://github.com/viniman27)
 - [Luke Soderquist](https://github.com/lsoderquist)
@@ -108,6 +109,7 @@ Mohammed Yunus
 - [[Rohit Mohanty]] (https://github.com/jayClean)
 - [Dhruv Tandon} @DevsocPI
 - esisgilz
+- Tosif Khan
 - [Preeti Raj](https://github.com/Preetiraj3697)
 - [Gopal Pandey](https://github.com/Ahamasmi)
 - [Aryan Bansal @devsocPI]
