@@ -1219,6 +1219,7 @@
 - [Suhyeon Yu](https://github.com/RSuhyeon)
 - [Rajat](https://github.com/alphadinu)
 - [Fitriningtyas](https://github.com/fitrifityanto)
+[raisama21](https://github.com/raisama21?tab=repositories)
 <!-- prettier-ignore-end -->
 
 Ulises Quiñonez
@@ -1227,4 +1228,3 @@ Ulises Quiñonez
 [Jaiman Munshi](https://github.com/jaimanm)
 [Kena Dave](https://github.com/kenadave)
 [Sujal-Burad](https://github.com/Sujal-Burad)
-[raisama21](https://github.com/raisama21?tab=repositories)
