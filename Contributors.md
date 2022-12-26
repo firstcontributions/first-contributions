@@ -36,6 +36,7 @@
 - Aniah Moses (https://github.com/Moschindinho)
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [FANOMEZANTSOA Herifiandry Marc Nico](https://ks-krimi.github.io/)
+- [Rayane Benamre](https://github.com/YLTN)
 - [Nathan Maynard](https://github.com/ncmaynard03)
 - [Mudasir H](https://github.com/mh-jsx)
 - [westtle](https://github.com/westtle)
