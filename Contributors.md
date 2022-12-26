@@ -1,6 +1,7 @@
 # Contributors
-[Adilet Berdibekov]https://github.com/berdibekovadilet
+[Adilet Berdibekov]
 <!-- prettier-ignore-start -->
+- [Mark Kranenburg](https://github.com/MarkShadowyCoder)
 - [Dipak Kalauni](https://github.com/KaloniGiga)
 - [Richard McCormick](https://github.com/rmccormick314)
 - [Rafli Muhammad](https://github.com/raflimuhammadd)
