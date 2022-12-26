@@ -1,6 +1,7 @@
 # Contributors
 [Adilet Berdibekov]https://github.com/berdibekovadilet
 <!-- prettier-ignore-start -->
+- [Anas Mohamed](https://github.com/Anas20001)
 - [Dipak Kalauni](https://github.com/KaloniGiga)
 - [Richard McCormick](https://github.com/rmccormick314)
 - [Rafli Muhammad](https://github.com/raflimuhammadd)
