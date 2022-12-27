@@ -967,7 +967,6 @@ Rhythm Sharma
 - [Bright Odey](https://github.com/starburn-hub)
 - [Rahul chaurasiya](https://github.com/Rahul-chaurasiya?)
 - [Adèle Pluquet](https://github.com/apluquet)
-- [Jesús Córdova Núñez](https://github.com/antonyjes)
 - [Adrien ANTON LUDWIG](https://github.com/Adrien-ANTON-LUDWIG)
 - [Manish](https://github.com/manish-xyz)
 - [Anugrah Rachman](https://github.com/kidomega-byte/)
