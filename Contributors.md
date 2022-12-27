@@ -12,6 +12,7 @@
 - [Amrit Raj](https://github.com/amritrj)
 - [Divyanshu Trivedi]
 - [joel kores](https://github.com/0xAckerMan)
+- [Amine Aliane](https://github.com/aa-Aliane)
 - [Hamza Mateen](https://github.com/HamzaMateen)
 - [Sharat Katwa](https://github.com/sharatkatwa)
   [Kartik khode](https://github.com/Kartiklk)
