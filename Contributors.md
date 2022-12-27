@@ -998,6 +998,7 @@ Rhythm Sharma
 - [Chiranjit Debnath](https://github.com/tomtanner)
 - [JSTNSNE](https://github.com/JSTNSNE)
 - [JSTNSNE](https://github.com/JSTNSNE)
+- [Jack Kiwema](https://github.com/jackkiwema)
 - [Aimee T](https://github.com/aimeetacchi)
 - [Abhijith H](https://github.com/Abhijith-H13)
 - [Abhighyaa](https://github.com/Abhighyaa)
