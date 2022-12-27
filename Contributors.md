@@ -27,6 +27,7 @@
 - [Austin Carr](https://github.com/acarr123)
 - [Niall De Barra](https://github.com/NiallDeBarra)
   [TEP](https://github.com/Theint810)
+  [Milo Barkow](https://github/com/milobarkow)
 - [Rav Krof](https://github.com/Ravkrof)
 - [Ninad Patil](https://github.com/Ninad-Patil)
 - [Masaya Kj](https://github.com/Massas)
