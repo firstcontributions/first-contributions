@@ -1216,6 +1216,7 @@ Rhythm Sharma
 - [danesusername](https://github.com/danesusername)
 - [Rajat Bhosale](https://github.com/RajatBhosale)
 - [SmashedFrenzy16](https://github.com/SmashedFrenzy16)
+- [Teragron](https://github.com/Teragron)
 - [Suhyeon Yu](https://github.com/RSuhyeon)
 - [Rajat](https://github.com/alphadinu)
 - [Fitriningtyas](https://github.com/fitrifityanto)
