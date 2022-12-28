@@ -1204,6 +1204,7 @@ Rhythm Sharma
 - [Marek Wasilczuk](https://github.com/tw-mwasilczuk)
 - [Filip Juráň] (https://github.com/MrakLMAOO)
 - [John-Paul Wernecke](https://github.com/Revicx)
+- [Lucas Almeida](https://github.com/MrLucasAlmeida)
 - [Tom Davis](https://github.com/tomjdavis4)
 - [Utsho Das](https://github.com/Utshodas)
 - [Janhvi Singh](https://github.com/Janhvi52)
