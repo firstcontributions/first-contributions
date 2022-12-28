@@ -88,7 +88,7 @@ Mohammed Yunus
 - aditya joshi@DevSocPI
 - [RA341](https://github.com/RA341)
 - Derrick Brandt
-- JamesBond 
+- JamesBond
 - Tariqs26
 - Yashwanth Krishna
 - [Edmar Campos] (https://github.com/Edax97)
@@ -96,7 +96,7 @@ Mohammed Yunus
 - Ezad Haziq Bin Zamily
 - [Oyelowo Oyeleye Samuel](https://github.com/sammy-yuntin)
 - [Chintan Golakiya](https://github.com/chintan-golakiya)
-- [Diwas Rimal](https://github.com/diwasrimal) 
+- [Diwas Rimal](https://github.com/diwasrimal)
 - [Neil Ohene](https://github.com/dvc-77)
 - dsvetina
 - [Raghav Jit](https://github.com/RaghavJit)
@@ -1009,7 +1009,7 @@ Rhythm Sharma
 - [shaileshb](https://github.com/shaileshhb)
 - [Angie Bowen](https://github.com/AngelaBowen)
 - [Victor F.](https://github.com/victorfyonemoto)
-- [Jasjot Singh](https://github.com/jasjotb) 
+- [Jasjot Singh](https://github.com/jasjotb)
 - [Andre Müller](https://github.com/Amueller36)
 - [duzzysroad](https://github.com/duzzysroad)
 - [Amal](https://github.com/XAL-AMLX)
@@ -1217,6 +1217,7 @@ Rhythm Sharma
 - [Rajat Bhosale](https://github.com/RajatBhosale)
 - [SmashedFrenzy16](https://github.com/SmashedFrenzy16)
 - [Suhyeon Yu](https://github.com/RSuhyeon)
+- [Steven Williams](https://github.com/swilliams186)
 - [Rajat](https://github.com/alphadinu)
 - [Fitriningtyas](https://github.com/fitrifityanto)
 <!-- prettier-ignore-end -->
