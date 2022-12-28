@@ -115,6 +115,7 @@ Mohammed Yunus
 - [Ayush Raj @DevsocPI]. (https://github.com/Aayuraju)
 - [Jatin Gahlot @DevSocPI]
 - [Mustafa-Alwalss].
+- [MayAnk singh].
 - [Farhan Sayyed](https://github.com/farhansayyed165)
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - [Khushboo Jain @ DevSoc]
