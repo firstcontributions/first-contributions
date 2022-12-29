@@ -1163,6 +1163,7 @@ Rhythm Sharma
 - [hhwe](https://github.com/hhwe)
 - [Pruthiraj Swain]
 - [Yllen Fernandez](https://github.com/yllenfer)
+- [Efe Selcuk](https://github.com/efex2)
 - [Sumon Chandra](https://github.com/sumon-chandra)
 - [Nour Elhamshary](https://github.com/Nour-Elhamshary)
 - [Harish Krishnan](https://github.com/dirtyKitchen)
