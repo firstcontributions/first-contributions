@@ -33,6 +33,7 @@
 - [majR - Mohammed Jauharali](https://github.com/mjjauhar)
 - [James Lee](https://github.com/jameslee98)
 - Nikhil Tamboli @DevSoc
+- [Lafyette Russell](https://github.com/LinkFan100)
 - Aniah Moses (https://github.com/Moschindinho)
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [FANOMEZANTSOA Herifiandry Marc Nico](https://ks-krimi.github.io/)
