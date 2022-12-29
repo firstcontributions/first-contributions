@@ -310,6 +310,7 @@ Rhythm Sharma
 - [Aarav Shah](https://github.com/Aaravsh) @DevSocPI
 - [Fvoice](https://github.com/facelessvoice)
 - [Jeffrey Neal](https://github.com/ToastBubbles)
+- [Faisal Hani](https://github.com/faisalhani)
 - [Khant Sithu Zaw](https://github.com/KHANT-SITHUZAW)
 - [Divya Kaushik](https://github.com/divya1515)
 - [Benjamin Morgiewicz](https://github.com/BaseBenjamin13)
