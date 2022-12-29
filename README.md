@@ -107,9 +107,16 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 
 For example:
 
+	If you copied the https:// url:
+
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
+	If you copied the ssh url:
+```
+git clone git@github.com:this-is-you/first-contributions.git
+```
+
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
