@@ -30,6 +30,7 @@
 - [Rav Krof](https://github.com/Ravkrof)
 - [Ninad Patil](https://github.com/Ninad-Patil)
 - [Masaya Kj](https://github.com/Massas)
+- [Daniel Lynch](https://github.com/DPL9748)
 - [majR - Mohammed Jauharali](https://github.com/mjjauhar)
 - [James Lee](https://github.com/jameslee98)
 - Nikhil Tamboli @DevSoc
