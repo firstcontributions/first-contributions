@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 [Adilet Berdibekov]https://github.com/berdibekovadilet
 <!-- prettier-ignore-start -->
 - [Dipak Kalauni](https://github.com/KaloniGiga)
@@ -11,6 +11,7 @@
 - [Luke Soderquist](https://github.com/lsoderquist)
 - [Amrit Raj](https://github.com/amritrj)
 - [Divyanshu Trivedi]
+- [Pradeep P S](https://github.com/Pradeeppss)
 - [joel kores](https://github.com/0xAckerMan)
 - [Hamza Mateen](https://github.com/HamzaMateen)
 - [Sharat Katwa](https://github.com/sharatkatwa)
