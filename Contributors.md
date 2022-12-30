@@ -1219,6 +1219,7 @@ Rhythm Sharma
 - [Suhyeon Yu](https://github.com/RSuhyeon)
 - [Rajat](https://github.com/alphadinu)
 - [Fitriningtyas](https://github.com/fitrifityanto)
+- [Angel Bruguera](https://github.com/abrucaba)
 <!-- prettier-ignore-end -->
 
 Ulises Quiñonez
