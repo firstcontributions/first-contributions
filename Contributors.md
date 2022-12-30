@@ -108,6 +108,7 @@ Mohammed Yunus
 - [[Rohit Mohanty]] (https://github.com/jayClean)
 - [Dhruv Tandon} @DevsocPI
 - esisgilz
+- Artur Niezgoda (https://github.com/Artur-Niezgoda)
 - [Preeti Raj](https://github.com/Preetiraj3697)
 - [Gopal Pandey](https://github.com/Ahamasmi)
 - [Aryan Bansal @devsocPI]
