@@ -940,6 +940,7 @@ Rhythm Sharma
 - [Shabana Naik](https://github.com/ShabanaNaik)
 - [Alex Sanzhanov](https://github.com/Sanzhanov)
 - [Aecio Neto](https://github.com/aecio-neto)
+- [Thaung Than Han](https://github.com/ThaungThanHan)
 - [Neha Jadhav](https://github.com/jadhavneha)
 - [Kjell-Magnus](https://github.com/kmgrime)
 - [Giorgio Menini](https://github.com/Menno00)
