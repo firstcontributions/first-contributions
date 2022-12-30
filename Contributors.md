@@ -9,6 +9,7 @@
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
 - [Vinícius Assumpção de Araújo](https://github.com/viniman27)
 - [Luke Soderquist](https://github.com/lsoderquist)
+- [Gabriel Michael Ojomakpene](https://github.com/codewitgabi)
 - [Amrit Raj](https://github.com/amritrj)
 - [Divyanshu Trivedi]
 - [joel kores](https://github.com/0xAckerMan)
