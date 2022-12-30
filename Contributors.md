@@ -23,6 +23,7 @@
 - Olukoya Babatunde Daniel
 - [disconsolated](https://github.com/disconsolated)
 - [Bhuvanesh Purohit](https://github.com/BhuvaneshPurohit-git)
+- [Jesse Krensel](https://github.com/jeklnd)
 - [Pranay S Patel](https://github.com/PostGrad)
 - [Austin Carr](https://github.com/acarr123)
 - [Niall De Barra](https://github.com/NiallDeBarra)
