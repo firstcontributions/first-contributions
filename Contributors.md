@@ -1,4 +1,5 @@
 # Contributors
+[TanCY1]
 [Adilet Berdibekov]https://github.com/berdibekovadilet
 <!-- prettier-ignore-start -->
 - [Dipak Kalauni](https://github.com/KaloniGiga)
