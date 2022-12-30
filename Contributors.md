@@ -1,5 +1,6 @@
 # Contributors
-[Adilet Berdibekov]https://github.com/berdibekovadilet
+[Mohammed Salman Ali](https://github.com/mohammedsalmanali)
+[Adilet Berdibekov](https://github.com/berdibekovadilet)
 <!-- prettier-ignore-start -->
 - [Dipak Kalauni](https://github.com/KaloniGiga)
 - [Richard McCormick](https://github.com/rmccormick314)
