@@ -1086,6 +1086,7 @@ Rhythm Sharma
 - [Suraj Patel](https://github.com/Surajpatel2003)
 - [Raghav Krishan Kedia](https://github.com/Raghav-Kedia)
 - [Anirudh Sharma @ DevsocPI]
+- [Md Shamrat Hossain](https://github.com/shamratPG)
 - [Aviraj Saxena](https://github.com/theavirajsaxena)
 - [Tim Raphael](https://github.com/Tim-Raphael)
 - [Adugna Tadesse](https://https://github.com/Adugnatad)
