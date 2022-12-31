@@ -42,6 +42,7 @@
 - [Pratik Ghosh]
 - [Sreedev](https://github.com/sreedev-ss)
 -[Muhammad Saad]
+- [ Kajal Singh]
 Mohammed Yunus
 -[Mohammed Yunus](https://github.com/Y-u-n-u-s)
 - Arman Kumar Jena
