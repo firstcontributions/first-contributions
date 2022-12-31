@@ -25,6 +25,7 @@
 - [Bhuvanesh Purohit](https://github.com/BhuvaneshPurohit-git)
 - [Pranay S Patel](https://github.com/PostGrad)
 - [Austin Carr](https://github.com/acarr123)
+- [Neel Patel](https://github.com/neel6762)
 - [Niall De Barra](https://github.com/NiallDeBarra)
   [TEP](https://github.com/Theint810)
 - [Rav Krof](https://github.com/Ravkrof)
