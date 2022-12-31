@@ -408,6 +408,7 @@ Rhythm Sharma
 - [Aldrin Gordon](https://github.com/aldringordon)
 - [Henrikas Budrys](https://github.com/hbportfolio)
 - [Vijendra Pandey](https://github.com/VijendraPandey)
+- [WikkiE](https://github.com/Wikkiee)
 - [Erik Opinaldo](https://github.com/erikopinaldo)
 - [Utpal Savaliya](https://github.com/utpalsavliya)
 - [MassiTec](https://github.com/MassiTec)
