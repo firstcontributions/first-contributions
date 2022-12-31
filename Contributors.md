@@ -1205,6 +1205,7 @@ Rhythm Sharma
 - [Filip Juráň] (https://github.com/MrakLMAOO)
 - [John-Paul Wernecke](https://github.com/Revicx)
 - [Tom Davis](https://github.com/tomjdavis4)
+- [Mayowa Sunusi](https://github.com/BoltUltra)
 - [Utsho Das](https://github.com/Utshodas)
 - [Janhvi Singh](https://github.com/Janhvi52)
 - [Eberechi Omeje](https://github.com/beretests)
