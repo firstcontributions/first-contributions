@@ -79,6 +79,7 @@ Mohammed Yunus
 - [Kshitij Verma@DevsocPI](https://github.com/melon9829)
 - [Divyansh Dabral @DevsocPI]
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
+- [mmarci72](https://github.com/mmarci72)
 - [Nasyr Akhmadob](https://github.com/darrowv)
 - [Sanskar Mundhra@DevsocPI](https://github.com/SunMoon97)
 - [Noopur Sharma@Devsoc]
