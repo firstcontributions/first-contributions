@@ -1219,6 +1219,7 @@ Rhythm Sharma
 - [Suhyeon Yu](https://github.com/RSuhyeon)
 - [Rajat](https://github.com/alphadinu)
 - [Fitriningtyas](https://github.com/fitrifityanto)
+- [ChetanThapliyal](https://github.com/che01tan)
 <!-- prettier-ignore-end -->
 
 Ulises Quiñonez
@@ -1226,4 +1227,4 @@ Ulises Quiñonez
 [ashutosh anand](https://github.com/AshutoshAnand123)
 [Jaiman Munshi](https://github.com/jaimanm)
 [Kena Dave](https://github.com/kenadave)
-[Sujal-Burad](https://github.com/Sujal-Burad)
+[Sujal-Bnurad](https://github.com/Sujal-Burad)
