@@ -708,6 +708,7 @@ Rhythm Sharma
 - [Abishek Reddy](https://github.com/Abishek-Reddy)
 - [Sahil Wankhade](https://github.com/ArcheR1901)
 - [Steve Marklow](https://github.com/smarklow)
+- [Sean Keane](https://github.com/seankeane)
 - [Roberto](https://github.com/VespuccioTech)
 - [Abdullatif Khayat](https://github.com/Abdullatif-K123)
 - [Ayasha](https://github.com/AyashaSikilkar)
