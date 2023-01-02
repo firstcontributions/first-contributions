@@ -47,6 +47,7 @@ Mohammed Yunus
 - Arman Kumar Jena
 - [Andres Gutierrez](https://github.com/gtierrezandres)
 - [Alon Katz](https://github.com/AlonKz1)
+- Vijay Dubey
 - Nandita Gupta
 - [Prajwal Dhungana](https://github.com/PrajwalDhungana)
 - [Overlrd](https://github.com/Overlrd)
