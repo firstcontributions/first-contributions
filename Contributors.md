@@ -691,7 +691,7 @@
 - [Sarah Mukuti](https://github.com/cesarWrites)
 - Sarthak Jain
 - [Bharat Mishra](https://github.com/BMlookingforaW)
-- [Dynamite](https://github.com/Dynamitetechdev)
+- [Dynamite dev](https://github.com/Dynamitetechdev)
 - Vartika Parikh @DevSocPI
 - [Pradyumn](https://github.com/Hannibal404)
 - [Utku Çamlıdağ](https://github.com/UtkuCmldg)
