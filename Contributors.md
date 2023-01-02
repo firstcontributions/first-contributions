@@ -16,6 +16,7 @@
 - [Sharat Katwa](https://github.com/sharatkatwa)
   [Kartik khode](https://github.com/Kartiklk)
 - [Arpana Sitoula](https://github.com/Arpana-Sitoula)
+- [Joseph Macfarlane] (https://github.com/joseph-macfarlane)
 - [Ajay Anuragi](https://github.com/ajayanuragi)
 - [Lain Iwakura](https://github.com/arisuandlainkissingcompetition123456789)
 - [Mahek Unnisa](https://github.com/mahekunnisa)
