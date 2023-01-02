@@ -32,6 +32,7 @@
 - [Masaya Kj](https://github.com/Massas)
 - [majR - Mohammed Jauharali](https://github.com/mjjauhar)
 - [James Lee](https://github.com/jameslee98)
+- [imariom](https://github.com/imariom)
 - Nikhil Tamboli @DevSoc
 - Aniah Moses (https://github.com/Moschindinho)
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
