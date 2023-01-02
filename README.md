@@ -86,10 +86,14 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 
 ## Fork this repository
 
+Fork : In GitHub, a fork is a copy of a repository that you can freely experiment with. Forks allow you to create a copy of a repository that you can use to make changes without affecting the original repository. This can be useful if you want to make changes to a project but don't have permission to push to the original repository, or if you just want to use the code from the project as a starting point for your own work.
+
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
 ## Clone the repository
+
+Clone the repository : To clone a repository in GitHub means to create a local copy of the repository on your own computer. This local copy includes all of the files in the repository, as well as the complete repository history, so you can see all of the changes that have been made to the repository.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
@@ -114,6 +118,10 @@ git clone https://github.com/this-is-you/first-contributions.git
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
 ## Create a branch
+
+Branch : In Git and GitHub, a branch is a separate line of development. When you create a branch in a repository, you're creating a copy of the code at that point in time that you can use to make changes without affecting the original codebase. This can be useful if you want to experiment with new features or make major changes to a project, but you're not sure if the changes are ready to be merged into the main codebase yet. By default, a Git repository has a single branch called "master". You can create additional branches to work on new features or changes. For example, you might create a branch called "feature/login-page" to work on a new login page for a web application. When you're ready to merge your changes back into the main codebase, you can create a pull request to request that your changes be reviewed and potentially merged into the "master" branch.
+
+
 
 Change to the repository directory on your computer (if you are not already there):
 
@@ -176,6 +184,10 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 </details>
 
 ## Submit your changes for review
+
+Pull request : In GitHub, a pull request is a way to ask the maintainers of a repository to review and potentially merge your changes into the repository. Pull requests are used when you want to contribute to an open-source project, fix a bug, or propose a new feature.
+
+
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
