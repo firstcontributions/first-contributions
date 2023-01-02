@@ -157,6 +157,7 @@ Rhythm Sharma
 - [kartavya dubey at devsoc preinductions](https://github.com/Chrollucilfer)
 - [Prajwal G](https://github.com/PrajwalGraj)
 - [Shivani R](https://github.com/shivu-srk)
+- [Lizard S](https://github.com/lizard-Szilard)
 - [Vashishtha Maurya](https://github.com/VashishthaKM)
 - [Arman Kumar Aditya@DevsockPI]
 - [Arman Karimi](https://github.com/iArmanKarimi/)
