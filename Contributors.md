@@ -20,6 +20,7 @@
 - [Lain Iwakura](https://github.com/arisuandlainkissingcompetition123456789)
 - [Mahek Unnisa](https://github.com/mahekunnisa)
 - [Ritesh Chikhlonde](https://github.com/riteshx0)
+- [Kartikay Chiranjeev Gupta](https://github.com/Chiranjeev-Kartik)
 - Olukoya Babatunde Daniel
 - [disconsolated](https://github.com/disconsolated)
 - [Bhuvanesh Purohit](https://github.com/BhuvaneshPurohit-git)
