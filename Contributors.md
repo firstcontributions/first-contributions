@@ -1227,4 +1227,4 @@ Ulises Quiñonez
 [ashutosh anand](https://github.com/AshutoshAnand123)
 [Jaiman Munshi](https://github.com/jaimanm)
 [Kena Dave](https://github.com/kenadave)
-[Sujal-Bnurad](https://github.com/Sujal-Burad)
+[Sujal-Burad](https://github.com/Sujal-Burad)
