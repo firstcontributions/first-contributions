@@ -14,7 +14,6 @@
 - [joel kores](https://github.com/0xAckerMan)
 - [Hamza Mateen](https://github.com/HamzaMateen)
 - [Sharat Katwa](https://github.com/sharatkatwa)
-- [Siddharth verma](https://github.com/sidharthviz)
 - [Kartik khode](https://github.com/Kartiklk)
 - [Arpana Sitoula](https://github.com/Arpana-Sitoula)
 - [Ajay Anuragi](https://github.com/ajayanuragi)
@@ -96,6 +95,7 @@ Mohammed Yunus
 - [Patnala Karthikeya] (https://github.com/KarthikeyaPatnala12)
 - Ezad Haziq Bin Zamily
 - [Oyelowo Oyeleye Samuel](https://github.com/sammy-yuntin)
+  [siddharth verma](https://github.com/sidharthviz)
 - [Chintan Golakiya](https://github.com/chintan-golakiya)
 - [Diwas Rimal](https://github.com/diwasrimal) 
 - [Neil Ohene](https://github.com/dvc-77)
