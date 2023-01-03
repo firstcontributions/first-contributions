@@ -326,7 +326,8 @@ Rhythm Sharma
 - [Amit Narine](https://github.com/amitnarine)
 - [DHRUV MISHRAA @DEVSOC]
 - [Ahmed Kaid](https://github.com/Ahmed-Kaid)
-- Belkacem Mezhoud
+- Belkacem 
+- [Kim-André Halvorsen (https://github.com/KimAH96)]
 - [Esta es mi primer contribucion](https://github.com/PabloCH23)
 - [Melon98@DevSocPI](https://github.com/melon9829)
 - [Alex Zhao](https://github.com/zyunfeng)
