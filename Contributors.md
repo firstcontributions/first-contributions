@@ -1178,6 +1178,7 @@ Rhythm Sharma
 - [Aryan Bansal @devsocPI](https://github.com/oye-aryan)
 - [Zac Nation](https://github.com/zacnation)
 - [Salwa Mansour](https://github.com/Salwa-mansour)
+- [Andrii](https://github.com/malandrii)
 - [Bellhwi](https://github.com/bellhwi)
 - [Shubhampaul](https://github.com/Shu12388y)
 - [Sleepypeanut] (https://github.com/sleepypeanut)
