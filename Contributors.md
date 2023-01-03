@@ -2,9 +2,10 @@
 [Adilet Berdibekov]https://github.com/berdibekovadilet
 <!-- prettier-ignore-start -->
 - [Dipak Kalauni](https://github.com/KaloniGiga)
+- [Abrar Ahmed](https://github.com/itzrar)
 - [Richard McCormick](https://github.com/rmccormick314)
 - [Rafli Muhammad](https://github.com/raflimuhammadd)
-- [Utkarsh Pant](https://github.com/utkarshpant19)
+- [Utkarsh Pant](https://github.com/utkarshpant19)b
 - [Tharun Harish](https://github.com/Tharun-Ninja)
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
 - [Vinícius Assumpção de Araújo](https://github.com/viniman27)
