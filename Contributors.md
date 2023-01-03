@@ -1201,6 +1201,7 @@ Rhythm Sharma
 - [Basant Singh Dobal 👨‍💻](https://github.com/basantsd)
 - [Victor Jackson](https://github.com/jackv9425)
 - [Julia Kuchle](https://github.com/JuliaGK)
+- [Saket Munda](https://github.com/SaketMunda)
 - [Marek Wasilczuk](https://github.com/tw-mwasilczuk)
 - [Filip Juráň] (https://github.com/MrakLMAOO)
 - [John-Paul Wernecke](https://github.com/Revicx)
