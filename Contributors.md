@@ -81,6 +81,7 @@ Mohammed Yunus
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Nasyr Akhmadob](https://github.com/darrowv)
 - [Sanskar Mundhra@DevsocPI](https://github.com/SunMoon97)
+- [Habeeb Tijani](https://github.com/xperience001)
 - [Noopur Sharma@Devsoc]
 - [Shrey Gupta@DevsocPI](https://github.com/gupta-shrey)
 - Meet Dedhia@DevsocPI
