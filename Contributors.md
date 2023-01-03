@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Dipak Kalauni](https://github.com/KaloniGiga)
 - [Richard McCormick](https://github.com/rmccormick314)
+- [Prem Danej](https://github.com/PremDanej/)
 - [Rafli Muhammad](https://github.com/raflimuhammadd)
 - [Utkarsh Pant](https://github.com/utkarshpant19)
 - [Tharun Harish](https://github.com/Tharun-Ninja)
