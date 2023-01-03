@@ -1219,7 +1219,8 @@ Rhythm Sharma
 - [Suhyeon Yu](https://github.com/RSuhyeon)
 - [Rajat](https://github.com/alphadinu)
 - [Fitriningtyas](https://github.com/fitrifityanto)
-<!-- prettier-ignore-end -->
+- [Routhleck ](https://github.com/Routhleck)
+  <!-- prettier-ignore-end -->
 
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
