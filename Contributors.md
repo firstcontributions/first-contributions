@@ -214,6 +214,7 @@ Rhythm Sharma
 - [harsh rathi@DevSocPI](https://github.com/harshrathi12)
 - [al-imam](https://github.com/al-imam)
 - [Vikhyat Gupta@DevsocPI]
+- [Aondrej-Ryan](https://github.com/aryan10293)
 - [Anagh Bhasker](https://github.com/anaghbhasker)
 - [Hasibur Rahman](https://github.com/hasiburdev)
 - [Aditya Chaudhary at DEVSOC preinductions](https://github.com/ADITYAC1234)
