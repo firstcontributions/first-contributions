@@ -750,7 +750,7 @@ Rhythm Sharma
 - [Arunima Chaudhuri](https://github.com/tinniaru3005)
 - [Arman Kumar Aditya@DevsocPI]
 - [Domenico Ivan Fortuna](https://github.com/dromex22)
-- [Fredy Diaz](https://github.com/dddfred)
+- [Fredy Diaz P](https://github.com/dddfred)
 - [Celeste Dubini](https://github.com/celestedubini)
 - [Aksheet10](https://github.com/Aksheet10)
 - [David Letaw](https://github.com/davidletaw)
