@@ -21,6 +21,7 @@
 - [Mahek Unnisa](https://github.com/mahekunnisa)
 - [Ritesh Chikhlonde](https://github.com/riteshx0)
 - Olukoya Babatunde Daniel
+- [Khushi Lamichaney](https://github.com/KM2002)
 - [disconsolated](https://github.com/disconsolated)
 - [Bhuvanesh Purohit](https://github.com/BhuvaneshPurohit-git)
 - [Pranay S Patel](https://github.com/PostGrad)
