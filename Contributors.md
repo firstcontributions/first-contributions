@@ -1206,6 +1206,7 @@ Rhythm Sharma
 - [John-Paul Wernecke](https://github.com/Revicx)
 - [Tom Davis](https://github.com/tomjdavis4)
 - [Utsho Das](https://github.com/Utshodas)
+- [Akshat Saxena](https://github.com/AkshatSaxena0)
 - [Janhvi Singh](https://github.com/Janhvi52)
 - [Eberechi Omeje](https://github.com/beretests)
 - [Sumit Girwal](https://github.com/sumitgirwal)
