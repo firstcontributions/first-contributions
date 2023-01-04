@@ -1227,3 +1227,5 @@ Ulises Quiñonez
 [Jaiman Munshi](https://github.com/jaimanm)
 [Kena Dave](https://github.com/kenadave)
 [Sujal-Burad](https://github.com/Sujal-Burad)
+[Eleonora Trikidou](https://githhub.com/eleonora2687)
+
