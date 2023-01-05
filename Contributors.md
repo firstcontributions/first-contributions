@@ -19,6 +19,7 @@
 - [Ajay Anuragi](https://github.com/ajayanuragi)
 - [Lain Iwakura](https://github.com/arisuandlainkissingcompetition123456789)
 - [Mahek Unnisa](https://github.com/mahekunnisa)
+- [Ryan Werner] (https://github.com/rmwerner18)
 - [Ritesh Chikhlonde](https://github.com/riteshx0)
 - Olukoya Babatunde Daniel
 - [disconsolated](https://github.com/disconsolated)
