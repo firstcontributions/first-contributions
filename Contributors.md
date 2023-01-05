@@ -297,6 +297,7 @@ Rhythm Sharma
 - [Nathan FAbio](https://github.com/nathanfabio)
 - [Parth Naik]@DevsocPI
 - [Alejandro Reyes Cerecero](https://github.com/Cerecero)
+- [Sai Kishore Pariyada](https://github.com/p-saikishore)
 - [Vibhav Joshi](https://github.com/DATTU005)
 - [Kripa Sindhu](https://github.com/kripasindhu-007)
 - [Jayanth](https://github.com/iamjayanthr)
