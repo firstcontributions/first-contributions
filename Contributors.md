@@ -500,6 +500,7 @@ Rhythm Sharma
 - [Mustafa Bhm](https://github.com/mustafa-bhm)
 - [Niteuwu](https://github.com/niteuwu)
 - [Joswagc](https://github.com/joswagc)
+- [Uzair Raza](https://github.com/uzair120)
 - [Khushi Shukla](https://github.com/Khushi-Shukla)
 - [Srijan D](https://github.com/Srijan-D)
 - [srinivasthedeveloper](https://github.com/srinivasthedeveloper)
