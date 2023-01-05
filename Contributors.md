@@ -31,6 +31,7 @@
 - [Ninad Patil](https://github.com/Ninad-Patil)
 - [Masaya Kj](https://github.com/Massas)
 - [majR - Mohammed Jauharali](https://github.com/mjjauhar)
+- [Goutham K](https://github.com/gouthamhusky)
 - [James Lee](https://github.com/jameslee98)
 - Nikhil Tamboli @DevSoc
 - Aniah Moses (https://github.com/Moschindinho)
