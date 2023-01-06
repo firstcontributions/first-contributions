@@ -51,6 +51,7 @@ Mohammed Yunus
 - [Prajwal Dhungana](https://github.com/PrajwalDhungana)
 - [Overlrd](https://github.com/Overlrd)
 - [Prince Dawson](https://github.com/dawssonCodes)
+- [Jessica Kharbanda] (https://github.com/JessicaKharbanda)
 - [Sachin Joshi](https://github.com/sachudj)
 - [Aarish Khan](https://github.com/aarishmkhan)
 - [Prakhar Verma](https://github.com/parkkrrr)
