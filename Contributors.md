@@ -267,6 +267,7 @@ Rhythm Sharma
 - [Enoch Chirima](https://github.com/iamenochchirima)
 - [Rafal Ciechanski](https://github.com/Sdfeagt)
 - [Dhruv]@DevsocPI
+- [Erfan Asadi](https://github.com/erfanasadi)
 - [Harsa Dash](https://github.com/harsadas)
 - [Gopalakrishnan J](https://github.com/Gopalakrishnan20)
 - [Omarali1020](https://github.com/Omarali1020)
