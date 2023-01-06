@@ -1219,4 +1219,5 @@
 - [Suhyeon Yu](https://github.com/RSuhyeon)
 - [Rajat](https://github.com/alphadinu)
 - [Fitriningtyas](https://github.com/fitrifityanto)
+- [Harixomxsingh](https://github.com/Harixomxsingh)
 <!-- prettier-ignore-end -->
