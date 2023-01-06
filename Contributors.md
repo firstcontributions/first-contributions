@@ -749,6 +749,7 @@ Rhythm Sharma
 - [divya](https://github.com/Divya2k05)
 - [Arunima Chaudhuri](https://github.com/tinniaru3005)
 - [Arman Kumar Aditya@DevsocPI]
+- [Mike Bale](https://github.com/ripzerotwo) 
 - [Domenico Ivan Fortuna](https://github.com/dromex22)
 - [Celeste Dubini](https://github.com/celestedubini)
 - [Aksheet10](https://github.com/Aksheet10)
