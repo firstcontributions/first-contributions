@@ -40,6 +40,7 @@
 - [Mudasir H](https://github.com/mh-jsx)
 - [westtle](https://github.com/westtle)
 - [Pratik Ghosh]
+- [Rohit Bhat]
 - [Sreedev](https://github.com/sreedev-ss)
 -[Muhammad Saad]
 Mohammed Yunus
