@@ -13,6 +13,7 @@
 - [Divyanshu Trivedi]
 - [joel kores](https://github.com/0xAckerMan)
 - [Hamza Mateen](https://github.com/HamzaMateen)
+- [Litvinov Sergey](https://github.com/LtvnSergey)
 - [Sharat Katwa](https://github.com/sharatkatwa)
   [Kartik khode](https://github.com/Kartiklk)
 - [Arpana Sitoula](https://github.com/Arpana-Sitoula)
