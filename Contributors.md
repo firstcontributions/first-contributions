@@ -48,6 +48,7 @@ Mohammed Yunus
 - [Andres Gutierrez](https://github.com/gtierrezandres)
 - [Alon Katz](https://github.com/AlonKz1)
 - Nandita Gupta
+- [John Mwega](https://github.com/CodeDroid999)
 - [Prajwal Dhungana](https://github.com/PrajwalDhungana)
 - [Overlrd](https://github.com/Overlrd)
 - [Prince Dawson](https://github.com/dawssonCodes)
