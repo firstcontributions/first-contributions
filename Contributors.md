@@ -1,7 +1,7 @@
 ﻿# Contributors
+ [Bahati Brian Patrick ](https://github.com/Bahati308)
 [Adilet Berdibekov]https://github.com/berdibekovadilet
 <!-- prettier-ignore-start -->
-- [Bahati Brian Patrick ](https://github.com/Bahati308)
 - [Richard McCormick](https://github.com/rmccormick314)
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
 - [Luke Soderquist](https://github.com/lsoderquist)
