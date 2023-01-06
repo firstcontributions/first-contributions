@@ -510,6 +510,7 @@ Rhythm Sharma
 - <harshit kapoor>@DevsocPI
 - [xa49](https://github.com/xa49)
 - [Charlie Hird](https://github.com/cjhird)
+  [Etson Dorival](https://github.com/etsond)
 - [bytesofbec](https://github.com/bytesofbec)
 - [SamAtkinsonModeste](https://www.github.com/SamAtkinsonModeste)
 - [Evan Larson](https://www.github.com/Chasmessian)
