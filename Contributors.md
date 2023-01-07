@@ -84,6 +84,7 @@ Mohammed Yunus
 - Mrinmay Biswas
 - [Andres Gutierrez](https://github.com/gtierrezandres)
 - [Alon Katz](https://github.com/AlonKz1)
+- [Pawel Wrona](https://github.com/Rimpy99/)
 - Nandita Gupta
 - [John Mwega](https://github.com/CodeDroid999)
 - [Prajwal Dhungana](https://github.com/PrajwalDhungana)
