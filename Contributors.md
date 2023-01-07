@@ -231,6 +231,7 @@ Rhythm Sharma
 - [Samandar Abdukodirov] (https://github.com/abdukod1rov)
 - [Ayush Raj @DevsocPI]. (https://github.com/Aayuraju)
 - Shamit Khetan @DevSoc
+- Rocky Garcia
 - Maxwell Sean Cadet https://github.com/Maxdj2k
 - My name is KS
 - [Shinya Yoshida](https://github.com/ShinyaWebDev)
