@@ -70,6 +70,7 @@ Mohammed Yunus
 -[Mohammed Yunus](https://github.com/Y-u-n-u-s)
 - [Jordan I Johnson](https://github.com/JINJ95)
 - Arman Kumar Jena
+- Mrinmay Biswas
 - [Andres Gutierrez](https://github.com/gtierrezandres)
 - [Alon Katz](https://github.com/AlonKz1)
 - Nandita Gupta
