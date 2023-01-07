@@ -450,6 +450,7 @@ Rhythm Sharma
 - [avotrarakotoson](https://github.com/avotrarakotoson)
 - [randose](https://github.com/randose)
 - [Vanshsood@DevSoc](https://github.com/Vanshsback)
+- [Abdiwali](https://github.com/abdiwaliHasan)
 - [Mohsin Ali](https://github.com/mohsinali1051)
 - [sagehourihan](https://github.com/SageHourihan)
 - [Chandan Arya](https://github.com/alpha2lucifer)
