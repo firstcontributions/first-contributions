@@ -232,6 +232,7 @@ Rhythm Sharma
 - [Ramesh]
 - [Yash Rathi}@DevsocPI
 - [Sharvil Potdar@Devsoc PI](https://github.com/SMP111)
+- [VINITH S](https://github.com/realvineeths)
 - [Faisal Saifi](https://github.com/faisalsaifii)
 - Leon
 - Gabe (https://github.com/101itsGabe)
