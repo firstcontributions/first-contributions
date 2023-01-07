@@ -17,6 +17,7 @@
   [Kartik khode](https://github.com/Kartiklk)
 - [Arpana Sitoula](https://github.com/Arpana-Sitoula)
 - [Ajay Anuragi](https://github.com/ajayanuragi)
+- [Jimmy Cook](https://github.com/jcook3706)
 - [Lain Iwakura](https://github.com/arisuandlainkissingcompetition123456789)
 - [Jimmy Cook](https://github.com/jcook3706)
 - [Mahek Unnisa](https://github.com/mahekunnisa)
