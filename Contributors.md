@@ -1212,6 +1212,7 @@ Rhythm Sharma
 - [Kylin Schneider](https://github.com/KyeByeHi)
 - [Rifqi](https://github.com/mrifqip29)
 - [Iorvera](https://github.com/iorvera1/first-contributions)
+- [Markus Heiss](https://github.com/markusheiss)
 - [kijwamoko](https://github.com/kijwamoko)
 - [danesusername](https://github.com/danesusername)
 - [Rajat Bhosale](https://github.com/RajatBhosale)
