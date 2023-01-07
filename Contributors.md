@@ -51,6 +51,7 @@
 - [Kalia Lor](https://github.com/kalialor)
 - [Niall De Barra](https://github.com/NiallDeBarra)
   [TEP](https://github.com/Theint810)
+  [Milo Barkow](https://github/com/milobarkow)
 - [Rav Krof](https://github.com/Ravkrof)
 - [Felix Lai](https://github.com/felixlaii)
 - [Ninad Patil](https://github.com/Ninad-Patil)
