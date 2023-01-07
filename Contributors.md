@@ -356,6 +356,7 @@ Rhythm Sharma
 - [rushil shah @devsocPI](https://github.com/assassingo)
 - [Sanskar Jain](https://github.com/SanskarJain007)
 - [Anshuman Nigam @DevSocPI](https://github.com/AnshumanNigam)
+- [Yam Timor](https://github.com/yamtimor)
 - [Archishman Dash](https://www.github.com/aholic-archie)
 - [Om Patil]@DevsocPI
 - [Amit Narine](https://github.com/amitnarine)
@@ -1058,7 +1059,7 @@ Rhythm Sharma
 - [shaileshb](https://github.com/shaileshhb)
 - [Angie Bowen](https://github.com/AngelaBowen)
 - [Victor F.](https://github.com/victorfyonemoto)
-- [Jasjot Singh](https://github.com/jasjotb) 
+- [Jasjot Singh](https://github.com/jasjotb)
 - [Andre Müller](https://github.com/Amueller36)
 - [duzzysroad](https://github.com/duzzysroad)
 - [Amal](https://github.com/XAL-AMLX)
