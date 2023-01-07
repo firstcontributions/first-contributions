@@ -228,6 +228,7 @@ Rhythm Sharma
 - [Divyansh Singh @devsoc pre induction]
 - [Taksh Paresh Patel @devsoc pre induction]
 - [Aibek Z] (https://github.com/aibekz)
+- [Ramesh]
 - [Yash Rathi}@DevsocPI
 - [Sharvil Potdar@Devsoc PI](https://github.com/SMP111)
 - [Faisal Saifi](https://github.com/faisalsaifii)
