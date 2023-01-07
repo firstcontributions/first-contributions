@@ -24,6 +24,7 @@
 - [Lain Iwakura](https://github.com/arisuandlainkissingcompetition123456789)
 - [Mahek Unnisa](https://github.com/mahekunnisa)
 - [Ritesh Chikhlonde](https://github.com/riteshx0)
+- [Manas Bhattarai](https://github.com/ManasB17)
 - Olukoya Babatunde Daniel
 - [Sudarshan](https://github.com/sudarshan161219)
 - [disconsolated](https://github.com/disconsolated)
