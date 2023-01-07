@@ -110,6 +110,7 @@ Mohammed Yunus
 - [Parth Shah@DevsocPI]
 - aditya bagla
 - Reetish Rath
+- Dan
 - [Kenta Mizuno](https://github.com/mizu0715)
 - [Ali Gorji](https://github.com/gorjiali)
 - [Dave Devito](https:://github.com/DaveDevito)
