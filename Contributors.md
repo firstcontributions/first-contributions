@@ -1315,6 +1315,8 @@ Rhythm Sharma
 - [Iorvera](https://github.com/iorvera1/first-contributions)
 - [Markus Heiss](https://github.com/markusheiss)
 - [kijwamoko](https://github.com/kijwamoko)
+- [yash1744](https://github.com/yash1744)
+
 - [danesusername](https://github.com/danesusername)
 - [Rajat Bhosale](https://github.com/RajatBhosale)
 - [Charandeep Singh](https://github.com/charandeepsinghb)
