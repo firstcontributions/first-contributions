@@ -561,6 +561,7 @@ Rhythm Sharma
 - [Sahil Singh](www.linkedin.com/in/sahil-singh-ss9824)
 - [imappuru](https://github.com/imappuru)
 - [Dhiraj Suthar](https://github.com/Dhiraj5789)
+- [Annay Paul](https://github.com/Paul-Annay)
 - [plaguss](https://github.com/plaguss)
 - [Jacob Kerames](https://github.com/JacobKerames)
 - [Rafiqul Shopon](https://github.com/rafiqulshopon)
