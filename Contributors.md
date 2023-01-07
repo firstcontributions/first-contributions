@@ -249,6 +249,7 @@ Rhythm Sharma
 - [Vikhyat Gupta@DevsocPI]
 - [Anagh Bhasker](https://github.com/anaghbhasker)
 - [Hasibur Rahman](https://github.com/hasiburdev)
+- [Bharat Tyagi](https://github.com/BharatAtbrat)]
 - [Aditya Chaudhary at DEVSOC preinductions](https://github.com/ADITYAC1234)
 - [Melek Msakni](https://github.com/melekmsakni)
 - Michael Lewis @DevSoc
