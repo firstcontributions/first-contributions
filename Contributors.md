@@ -1325,5 +1325,5 @@ Ulises Quiñonez
 [Bahja isak mohamed](https://github.com/bahjaisack)
 [Sujal-Burad](https://github.com/Sujal-Burad)
 [Smayo-Sugaal](https://github.com/SumayoSugaal)
-
+[kartikay7](https://github.com/kartikay7)
 
