@@ -1342,6 +1342,7 @@ Rhythm Sharma
 - [Sumit Patil](https://github.com/Sumit70421)
 - [Suhyeon Yu](https://github.com/RSuhyeon)
 - [Rajat](https://github.com/alphadinu)
+- [Duy Dang](https://github.com/dqduy)
 - [Fitriningtyas](https://github.com/fitrifityanto)
 - [TomMVWalters](https://github.com/TomMVWalters)
 <!-- prettier-ignore-end -->
