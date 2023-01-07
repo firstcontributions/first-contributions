@@ -789,6 +789,7 @@ Rhythm Sharma
 - [PatentLobster](https://github.com/PatentLobster)
 - [Varun Prashant Kadkade](https://github.com/varun2430)
 - [Aditya Vijay](https://github.com/kiriotheo)
+- Giannis P.
 - [Deept Ratna @DevsocPI]
 - [Strelets Alexander](https://github.com/Tenkoru)
 - [Indranil Saha](https://github.com/saha-indranil)
