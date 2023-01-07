@@ -91,6 +91,7 @@ Mohammed Yunus
 - [Prajwal Rudrakshi](https://github.com/pgrudra)
 - [Divyansh Dabral @DevsocPI]
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
+-[Abdiwali Eid](https://github.com/Abdiwali-Eid)
 - [Nasyr Akhmadob](https://github.com/darrowv)
 - [Sanskar Mundhra@DevsocPI](https://github.com/SunMoon97)
 - [Noopur Sharma@Devsoc]
