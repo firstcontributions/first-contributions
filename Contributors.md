@@ -21,6 +21,7 @@
 - [Divyanshu Trivedi]
 - [Rupesh Mangalam](https://github.com/springdaysenpai)
 - [joel kores](https://github.com/0xAckerMan)
+- [Sol Avancini Noceti](https://github.com/avanoc)
 - [Hamza Mateen](https://github.com/HamzaMateen)
 - [Lumbani Makumbi](https://github.com/makumbilumbani)
 - [Sharat Katwa](https://github.com/sharatkatwa)
