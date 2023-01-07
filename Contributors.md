@@ -225,6 +225,7 @@ Rhythm Sharma
 - Shamit Khetan @DevSoc
 - Maxwell Sean Cadet https://github.com/Maxdj2k
 - My name is KS
+- [Shinya Yoshida](https://github.com/ShinyaWebDev)
 - [Mahesward](https://github.com/Mahesward)
 - Ronit Kunkolienker @DevSoc PI
 - [Alvin James Bellero](https://github.com/shiftEscape)
