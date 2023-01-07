@@ -6,6 +6,7 @@
 - [Dipak Kalauni](https://github.com/KaloniGiga)
 - [Anupam malviya](https://github.com/tech-wizard720)
 - [Richard McCormick](https://github.com/rmccormick314)
+- [Nur Farah](https://github.com/Nur-farah)
 - [Rafli Muhammad](https://github.com/raflimuhammadd)
 - [Utkarsh Pant](https://github.com/utkarshpant19)
 - [Awais](https://github.com/TechTronixx)
