@@ -871,6 +871,7 @@ Rhythm Sharma
 - [rajdugad](https://github.com/rajdugad)
 - {antny} (https://github.com/antny2)
 - [Tarek-Azzazi](https://github.com/tarekazzazi)
+- [Matthew Anderson](https://github.com/manderson21)
 - [EricWink](https://github.com/ericwink)
 - [Jongkwang131](https://github.com/Jongkwang131)
 - [sneha-2510](https://github.com/sneha-2510)
