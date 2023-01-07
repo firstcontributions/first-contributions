@@ -1223,7 +1223,7 @@ Rhythm Sharma
 - [Fitriningtyas](https://github.com/fitrifityanto)
 - [TomMVWalters](https://github.com/TomMVWalters)
 <!-- prettier-ignore-end -->
-
+- [John-Henry Zebulon Olson] (https://github.com/jholson1030)
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
 [ashutosh anand](https://github.com/AshutoshAnand123)
