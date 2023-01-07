@@ -38,6 +38,7 @@
 - [disconsolated](https://github.com/disconsolated)
 - [Matthew Kurtti](https://github.com/matthewkurtti)
 - [Bhuvanesh Purohit](https://github.com/BhuvaneshPurohit-git)
+- [Muhammad Waseem](https://github.com/WaseemYameen9)
 - [Pranay S Patel](https://github.com/PostGrad)
 - [Mehul Prasad](https://github.com/M-Destiny)
 - [Austin Carr](https://github.com/acarr123)
