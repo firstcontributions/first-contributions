@@ -50,6 +50,7 @@ Mohammed Yunus
 - Nandita Gupta
 - [Prajwal Dhungana](https://github.com/PrajwalDhungana)
 - [Overlrd](https://github.com/Overlrd)
+- [Ayyappa Bhuma](https://github.com/ayyappabhuma)
 - [Prince Dawson](https://github.com/dawssonCodes)
 - [Sachin Joshi](https://github.com/sachudj)
 - [Aarish Khan](https://github.com/aarishmkhan)
