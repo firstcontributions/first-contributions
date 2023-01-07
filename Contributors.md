@@ -1144,6 +1144,7 @@ Rhythm Sharma
 - [Anish Doshi](https://github.com/doshianish8)
 - [Saurabh Sinha](https://github.com/sinhasaurabh3104)
 - [Girish Nair](https://github.com/javagirish)
+- [Quinn Ha](https://github.com/quinnha)
 - [Dimitrije Ilic](https://github.com/Dimitrije1970)
 - [Prathamesh Sable](https://github.com/prathameshks)
 - [Martarion](https://github.com/Martarion-Code)
