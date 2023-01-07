@@ -247,6 +247,7 @@ Rhythm Sharma
 - [Abdullah Yakub](https://github.com/developerabz/)
 - [Ravi Ranjan Kumar](https://github.com/iam-ravi-11)
 - [Alleznav] (https://github.com/Alleznav)
+- [Akseli Manninen] (https://github.com/AkseliManninen)
 - [Muthukumar KB] (https://github.com/immu2able)
 - [Nipun] (https://github.com/nipunupekshana)
 - [Praveen Dias](https://github.com/praveendias1180)
