@@ -670,6 +670,7 @@ Rhythm Sharma
 - [bungbloopity](https://github.com/bungbloopity/)
 - [Sohan Palekar@DevsocPI]
 - [Sohan@DevsocPI]
+- [Abdullahi Yusuf](https://github.com/abdullahiheart)
 - [Aleksandr Bochkarev](https://github.com/sash00k/)
 - [Dylan Messerly](https://github.com/CodeDTX11)
 - [Zhenya Mateyuk](https://github.com/jEUGENEdev/)
