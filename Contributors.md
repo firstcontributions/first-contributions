@@ -535,6 +535,7 @@ Rhythm Sharma
 - [Tasnim@DevSocPI] (https://github.com/tasnim496)
 - [Ellis Burgess](https://github.com/ellis-burgess)
 - [Daniel Oliveira](https://github.com/GulDaniel)
+- [Weijian Duan](https://github.com/GymRat102)
 - [Urvesh Radadiya](https://github.com/URVESH1121)
 - [Jibrin Ahmed](https://github.com/TacetSteeze)
 - [Kely Sarmi](https://github.com/kelysi)
