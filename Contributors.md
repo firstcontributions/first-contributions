@@ -158,6 +158,7 @@ Mohammed Yunus
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - Andre-Ribera
 - [Khushboo Jain @ DevSoc]
+- [Riley Bruce](https://github.com/Riley94)
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
 - [Siddhant Chauhan](https://github.com/siddhant-0707)
 - [vandan doshi](https://github.com/Vandan19)
