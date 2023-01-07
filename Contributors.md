@@ -80,6 +80,7 @@ Mohammed Yunus
 - [Andres Gutierrez](https://github.com/gtierrezandres)
 - [Alon Katz](https://github.com/AlonKz1)
 - Nandita Gupta
+- [John Mwega](https://github.com/CodeDroid999)
 - [Prajwal Dhungana](https://github.com/PrajwalDhungana)
 - [Chirag Tiloomalani](https://github.com/chiragt13)
 - [Overlrd](https://github.com/Overlrd)
