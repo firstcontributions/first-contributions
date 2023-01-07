@@ -293,6 +293,7 @@ Rhythm Sharma
 - [Arjit@DevsocPI](https://github.com/arjit05)
 - [Mahadsid](https://github.com/Mahadsid)
 - [Tara Simic]
+- [Shane Widanagama](https://github.com/shanewidanagama)
 - [Abhishek Kumar @DevSocPreinsuctions](https://github.com/Abhik13)
   [Abhishek Kumar Tamrakar @kintic013](https://github.com/kinitic013)
 - [Trevor Ang](https://github.com/TrevorAng)
