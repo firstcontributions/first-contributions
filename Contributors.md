@@ -8,7 +8,7 @@
 - [Richard McCormick](https://github.com/rmccormick314)
 - [Nur Farah](https://github.com/Nur-farah)
 - [Rafli Muhammad](https://github.com/raflimuhammadd)
-- [Elena Kharitonova] (https://github.com/Alenuha)
+- [Elena Kharitonova](https://github.com/Alenuha)
 - [Utkarsh Pant](https://github.com/utkarshpant19)
 - [Awais](https://github.com/TechTronixx)
 - [Tharun Harish](https://github.com/Tharun-Ninja)
