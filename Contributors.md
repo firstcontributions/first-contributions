@@ -56,6 +56,7 @@
 - [majR - Mohammed Jauharali](https://github.com/mjjauhar)
 - [Goutham K](https://github.com/gouthamhusky)
 - [James Lee](https://github.com/jameslee98)
+- [James T](https://github.com/tharitRT)
 - Nikhil Tamboli @DevSoc
 - Javier Sanchez [@fimovol](https://github.com/fimovol)
 - Aniah Moses (https://github.com/Moschindinho)
