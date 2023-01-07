@@ -41,6 +41,7 @@
 - [Pranay S Patel](https://github.com/PostGrad)
 - [Mehul Prasad](https://github.com/M-Destiny)
 - [Austin Carr](https://github.com/acarr123)
+- [Kalia Lor](https://github.com/kalialor)
 - [Niall De Barra](https://github.com/NiallDeBarra)
   [TEP](https://github.com/Theint810)
 - [Rav Krof](https://github.com/Ravkrof)
