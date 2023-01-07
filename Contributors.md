@@ -1275,6 +1275,7 @@ Rhythm Sharma
 - [Marek Wasilczuk](https://github.com/tw-mwasilczuk)
 - [Filip Juráň] (https://github.com/MrakLMAOO)
 - [John-Paul Wernecke](https://github.com/Revicx)
+- [ayang7](https://github.com/ayang7)
 - [Tom Davis](https://github.com/tomjdavis4)
 - [Utsho Das](https://github.com/Utshodas)
 - [Akshat Saxena](https://github.com/AkshatSaxena0)
