@@ -74,6 +74,7 @@ Akrami Salah
 - [Pratik Ghosh]
 - [Rohit Bhat]
 - [Sreedev](https://github.com/sreedev-ss)
+- [Rajib Jonchhen](https://github.com/rajibjonchhen)
 -[Muhammad Saad]
 Mohammed Yunus
 -
