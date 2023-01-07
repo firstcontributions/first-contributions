@@ -108,6 +108,7 @@ Mohammed Yunus
 - aditya bagla
 - Reetish Rath
 - [Kenta Mizuno](https://github.com/mizu0715)
+- [Ali Gorji](https://github.com/gorjiali)
 - [Dave Devito](https:://github.com/DaveDevito)
 - [Pratik Lilhare](https://github.com/pratiklilhare/)
 - [Pranjay Yelkotwar] @DevSocInductions
