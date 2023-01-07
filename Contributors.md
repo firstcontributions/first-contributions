@@ -11,6 +11,7 @@
 - [Utkarsh Pant](https://github.com/utkarshpant19)
 - [Awais](https://github.com/TechTronixx)
 - [Tharun Harish](https://github.com/Tharun-Ninja)
+- [Devender Musukula](https://github.com/DevenderMusukula)
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
 - [Lee Tebbo Tebbs](https://github.com/leetebbs)
 - [Vinícius Assumpção de Araújo](https://github.com/viniman27)
