@@ -143,6 +143,7 @@ Mohammed Yunus
 - [Dhruv Tandon} @DevsocPI
 - esisgilz
 - [Preeti Raj](https://github.com/Preetiraj3697)
+- [Abel Diress](https://github.com/abeldiress)
 - [Gopal Pandey](https://github.com/Ahamasmi)
 - [Aryan Bansal @devsocPI]
 - [Neha Menon@DevSocPI](https://github.com/thenehamenon)
