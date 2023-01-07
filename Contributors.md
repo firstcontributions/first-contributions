@@ -83,6 +83,7 @@ Mohammed Yunus
 - [Overlrd](https://github.com/Overlrd)
 - [Balvinder] (https://github.com/Balvinder-1995)
 - [Prince Dawson](https://github.com/dawssonCodes)
+- [Jessica Kharbanda] (https://github.com/JessicaKharbanda)
 - [Sachin Joshi](https://github.com/sachudj)
 - [Aarish Khan](https://github.com/aarishmkhan)
 - [Satyam Jha](https://github.com/coldkoffee)
