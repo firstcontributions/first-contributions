@@ -293,6 +293,7 @@ Rhythm Sharma
 - Michael Lewis @DevSoc
 - [Greg Kurniawan](https://github.com/gregkurniawan)
 - [Ryan Harris](https://github.com/ryanh210757)
+- [Debjyoti Ghosh](https://github.com/is-this-echo)
 - [Lakshan Perera](https://github.com/0xluckycode)
 - [Khushboo Jain @devsoc pre-induction](https://github.com/khushbooj2903)
 - [Rajender Reddy](https://github.com/Pekka1721)
