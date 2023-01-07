@@ -1365,6 +1365,7 @@ Rhythm Sharma
 - [SmashedFrenzy16](https://github.com/SmashedFrenzy16)
 - [Sumit Patil](https://github.com/Sumit70421)
 - [Suhyeon Yu](https://github.com/RSuhyeon)
+- [Steven Williams](https://github.com/swilliams186)
 - [Rajat](https://github.com/alphadinu)
 - [Duy Dang](https://github.com/dqduy)
 - [Fitriningtyas](https://github.com/fitrifityanto)
