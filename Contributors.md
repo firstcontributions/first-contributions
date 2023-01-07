@@ -1201,6 +1201,7 @@ Rhythm Sharma
 - [Pruthiraj Swain]
 - [Yllen Fernandez](https://github.com/yllenfer)
 - [Sumon Chandra](https://github.com/sumon-chandra)
+-[Juweria Abdullahi Mohamed] (https://github.com/Suldana)
 - [Nour Elhamshary](https://github.com/Nour-Elhamshary)
 - [Harish Krishnan](https://github.com/dirtyKitchen)
 - [VAGEESHA GUPTA@DevsocPI](https://github.com/Forestelf6)
