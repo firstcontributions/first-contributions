@@ -18,6 +18,7 @@
 - [Divyanshu Trivedi]
 - [joel kores](https://github.com/0xAckerMan)
 - [Hamza Mateen](https://github.com/HamzaMateen)
+- [Lumbani Makumbi](https://github.com/makumbilumbani)
 - [Sharat Katwa](https://github.com/sharatkatwa)
 - [Anwar isak](https://github.com/anwarisak)
   [Kartik khode](https://github.com/Kartiklk)
