@@ -51,6 +51,7 @@
 - [Niall De Barra](https://github.com/NiallDeBarra)
   [TEP](https://github.com/Theint810)
 - [Rav Krof](https://github.com/Ravkrof)
+- [Felix Lai](https://github.com/felixlaii)
 - [Ninad Patil](https://github.com/Ninad-Patil)
 - [Jacek Smoter](https://github.com/jackz070)
 - [Masaya Kj](https://github.com/Massas)
