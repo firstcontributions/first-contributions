@@ -159,6 +159,7 @@ Mohammed Yunus
 - aumkar@DevsocPI
 - Chris Stevens
 - [Sean Sew](https://github.com/ExpressOwl)
+- [Kyoumei](https://github.com/kyoumeia)
 - [Anshuman Nigam @DevSocPI]
 - [Jess Mathews](https://github.com/jessmathews)
 - [VAGEESHA GUPTA@DevsocPI](https://github.com/Forestelf6)
