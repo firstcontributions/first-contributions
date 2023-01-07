@@ -15,6 +15,7 @@
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
 - [Lee Tebbo Tebbs](https://github.com/leetebbs)
 - [Vinícius Assumpção de Araújo](https://github.com/viniman27)
+-[Shade St Claire](https://github.com/regeum-deus/)
 - [Luke Soderquist](https://github.com/lsoderquist)
 - [Amrit Raj](https://github.com/amritrj)
 - [Kiran Gosu](https://github.com/kirankumargosu)
