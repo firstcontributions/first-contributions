@@ -1284,4 +1284,6 @@ Ulises Quiñonez
 [Kena Dave](https://github.com/kenadave)
 [Bahja isak mohamed](https://github.com/bahjaisack)
 [Sujal-Burad](https://github.com/Sujal-Burad)
+[Smayo-Sugaal](https://github.com/SumayoSugaal)
+
 
