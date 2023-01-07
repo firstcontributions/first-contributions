@@ -1286,6 +1286,7 @@ Rhythm Sharma
 - [Salwa Mansour](https://github.com/Salwa-mansour)
 - [Andrii](https://github.com/malandrii)
 - [Bellhwi](https://github.com/bellhwi)
+- [Jon Tam](https://github.com/jon-tam)
 - [Shubhampaul](https://github.com/Shu12388y)
 - [Sleepypeanut] (https://github.com/sleepypeanut)
 - [Owen Fiber] (https://www.github.com/ofiber)
