@@ -238,6 +238,7 @@ Rhythm Sharma
 - [Hassan Maow](https://github.com/Hassan-Macow)
 - [Prajwal G](https://github.com/PrajwalGraj)
 - [Shivani R](https://github.com/shivu-srk)
+- [Lizard S](https://github.com/lizard-Szilard)
 - [Vashishtha Maurya](https://github.com/VashishthaKM)
 - [AdityaKrishnan](https://github.com/ADK0010)
 - [Arman Kumar Aditya@DevsockPI]
