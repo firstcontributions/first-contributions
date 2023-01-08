@@ -243,6 +243,7 @@ Rhythm Sharma
 - [Arman Kumar Aditya@DevsockPI]
 - [Arman Karimi](https://github.com/iArmanKarimi/)
 - [Uzaif Ahmad Shaikh](https://github.com/uzaifahmad)
+- [Abdul-Lateef Uthman](https://github.com/uthycloud)
 - [Marc D](https://github.com/MarcDGit/)
 - [J Johnson] (https://github.com/jbjohnson1278/)
 - [Melon98@DevsocPI](https://github.com/melon9829)
