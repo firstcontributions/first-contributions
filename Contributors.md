@@ -1,3 +1,10 @@
+# Contributors
+
+[Adilet Berdibekov]https://github.com/berdibekovadilet
+
+<!-- prettier-ignore-start -->
+
+=======
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
@@ -78,6 +85,10 @@
 - [Mudasir H](https://github.com/mh-jsx)
 - [westtle](https://github.com/westtle)
 - [Pratik Ghosh]
+- [Sreedev](https://github.com/sreedev-ss) -[Muhammad Saad]
+  Mohammed Yunus -[Mohammed Yunus](https://github.com/Y-u-n-u-s)
+- [Darshan Arkhade](https://github.com/king0203)
+=======
 - [Rohit Bhat]
 - [Sreedev](https://github.com/sreedev-ss)
 - [Rajib Jonchhen](https://github.com/rajibjonchhen)
@@ -117,6 +128,8 @@
 - [Gaurav](https://github.com/b9aurav)
   [Eric M](https://github.com/movchaneric)
 - [Aishwarya G M](https://github.com/gmarya)
+- [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001) -[Constantinos Pigkeridis](https://github.com/mentality330)
+=======
 - [Jatin Khachane](https://github.com/jatinKhachane)
 - [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001)
 - [Rishi Sharma](https://github.com/Sharma-0)
@@ -149,6 +162,8 @@
 - aditya joshi@DevSocPI
 - [RA341](https://github.com/RA341)
 - Derrick Brandt
+- JamesBond
+=======
 - JamesBond 
 - Seyed Mahdi Sadat
 - Tariqs26
@@ -161,6 +176,8 @@
 - [Oyelowo Oyeleye Samuel](https://github.com/sammy-yuntin)
   [siddharth verma](https://github.com/sidharthviz)
 - [Chintan Golakiya](https://github.com/chintan-golakiya)
+- [Diwas Rimal](https://github.com/diwasrimal)
+=======
 - [Diwas Rimal](https://github.com/diwasrimal) 
 - [Shigaichi](https://github.com/Shigaichi)
 - [Neil Ohene](https://github.com/dvc-77)
@@ -209,6 +226,8 @@
 - [Rupak Ahsan] (https://github.com/rupak009)
 - Gorupria
 - Edward Abel-Guobadia
+  Rhythm Sharma
+=======
 - [Neha Menon@DevsocPI](https://github.com/thenehamenon)
 - [Von Arzu](https://github.com/ArzuVon)
 - [Akshaj Jha@DevSocPI](https://github.com/Akshajha07)
@@ -374,6 +393,9 @@
 - [Omarali1020](https://github.com/Omarali1020)
 - [Hansie Kristi](https://github.com/hansie23)
 - [Giovanni Palleschi](https://github.com/gpalleschi)
+
+- -[Vansh Sood @DevSoc](https://github.com/Vanshsback)\_
+=======
 - [Josue Sifuentes](https://github.com/JosueSifuentesA)
 - -[Vansh Sood @DevSoc](https://github.com/Vanshsback)_
 - [Redsam](https://github.com/Redsamx)
@@ -403,6 +425,8 @@
 - [Joao Victor](https://github.com/x1ibns) 
 - [Parth Naik]@DevsocPI
 - [Alejandro Reyes Cerecero](https://github.com/Cerecero)
+- [Darshan Arkhade](https://github.com/king0203)
+=======
 - [Abdurahman](https://github.com/abdurahmanjabiin)
 - [Vibhav Joshi](https://github.com/DATTU005)
 - [Kripa Sindhu](https://github.com/kripasindhu-007)
@@ -1176,7 +1200,7 @@
 - [Andre Müller](https://github.com/Amueller36)
 - [duzzysroad](https://github.com/duzzysroad)
 - [Amal](https://github.com/XAL-AMLX)
-= [Nick](https://github.com/comfythread)
+  = [Nick](https://github.com/comfythread)
 - [Srivathsan V](https://github.com/Srivathsan-V)
 - [TJ Albertson](https://github.com/TJ-Albertson)
 - [Ruthik Jadhav](https://github.com/Ruthik130201)
