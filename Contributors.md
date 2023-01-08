@@ -641,6 +641,7 @@ Rhythm Sharma
 - [xa49](https://github.com/xa49)
   [Treasure_Okuoka](https://github.com/treasureszn)
 - [Charlie Hird](https://github.com/cjhird)
+  [Etson Dorival](https://github.com/etsond)
 - [bytesofbec](https://github.com/bytesofbec)
 - [SamAtkinsonModeste](https://www.github.com/SamAtkinsonModeste)
 - [Evan Larson](https://www.github.com/Chasmessian)
