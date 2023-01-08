@@ -826,6 +826,7 @@ Rhythm Sharma
 - [Garvit Srivastava@DevSocPI](https://github.com/Garvit-Srivastava)
 - [MAHASAPU](https://github.com/MahasApu)
 - [Sarah Mukuti](https://github.com/cesarWrites)
+- [Christa Hansma](https://github.com/christaha)
 - Sarthak Jain
 - [Bharat Mishra](https://github.com/BMlookingforaW)
 - Vartika Parikh @DevSocPI
