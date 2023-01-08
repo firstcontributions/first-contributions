@@ -513,6 +513,7 @@ Rhythm Sharma
 - [Utpal Savaliya](https://github.com/utpalsavliya)
 - [MassiTec](https://github.com/MassiTec)
 - [stardustgd](https://github.com/stardustgd)
+- [Daniel Diaz](https://github.com/ddi4z)
 - [Adithya sau@DEVSOCPI](https://github.com/Adisauz)
 - [Sandeep Krishna Donepudi](https://github.com/skdonepudi)
 - [ramettan](https://github.com/ramettan)
