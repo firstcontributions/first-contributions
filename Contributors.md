@@ -215,6 +215,7 @@ Rhythm Sharma
 - [Akshaj Jha](https://github.com/Akshajha07)
 - [Sasmit Datta @DevsocPI](https://github.com/Sasopsy)
 - [GurglingHammer @DevsocPI](https://github.com/GurglingHammer)
+- [Oscar Escalante](https://github.com/OscarEscalante)
 - [Shardul Tomat@DevsocPI](https://github.com/ShardulT04)
 - [Aadi joshi](https://github.com/AadiJ2022) @devsoc PI Devsoc
 - [Devansh Mehta@DevsocPI](https://github.com/Coderpromax8)
