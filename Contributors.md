@@ -11,6 +11,7 @@
 - [Luke Soderquist](https://github.com/lsoderquist)
 - [Amrit Raj](https://github.com/amritrj)
 - [Divyanshu Trivedi]
+- [Prasanna samadhiya](https://github.com/prasanna-samadhiya)
 - [joel kores](https://github.com/0xAckerMan)
 - [Hamza Mateen](https://github.com/HamzaMateen)
 - [Sharat Katwa](https://github.com/sharatkatwa)
