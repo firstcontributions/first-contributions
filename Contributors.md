@@ -82,6 +82,7 @@ Akrami Salah
 Mohammed Yunus
 -
 -[Mohammed Yunus](https://github.com/Y-u-n-u-s)
+- [Ali Munir Abbas](https://github.com/amw514)
 - [Jordan I Johnson](https://github.com/JINJ95)
 - Arman Kumar Jena
 - Mrinmay Biswas
