@@ -1405,6 +1405,6 @@ Ulises Quiñonez
 [Sujal-Burad](https://github.com/Sujal-Burad)
 [Bisrat Kebere](https://github.com/bisryy)
 [Smayo-Sugaal](https://github.com/SumayoSugaal)
-
+[kartikay7](https://github.com/kartikay7)
 
 
