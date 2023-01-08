@@ -38,6 +38,7 @@
 - [Lain Iwakura](https://github.com/arisuandlainkissingcompetition123456789)
 - [Geoff Filippi](https://github.com/geofffilippi)
 - [Mahek Unnisa](https://github.com/mahekunnisa)
+- [Abdullah Binladin](https://github.com/abinladin)
 - [Ryan Werner] (https://github.com/rmwerner18)
 - [Ritesh Chikhlonde](https://github.com/riteshx0)
 - [Manas Bhattarai](https://github.com/ManasB17)
