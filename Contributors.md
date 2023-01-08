@@ -96,6 +96,7 @@
 - Nandita Gupta
 - Surabhi Nikhila
 - [John Mwega](https://github.com/CodeDroid999)
+- [HemanthB03](https://github.com/HemanthB03)
 - [Prajwal Dhungana](https://github.com/PrajwalDhungana)
 - [Chirag Tiloomalani](https://github.com/chiragt13)
 - [Overlrd](https://github.com/Overlrd)
