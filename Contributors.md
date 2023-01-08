@@ -45,6 +45,7 @@
 - [Pratik Ghosh]
 - [Sreedev](https://github.com/sreedev-ss) -[Muhammad Saad]
   Mohammed Yunus -[Mohammed Yunus](https://github.com/Y-u-n-u-s)
+- [Darshan Arkhade](https://github.com/king0203)
 - Arman Kumar Jena
 - [Andres Gutierrez](https://github.com/gtierrezandres)
 - [Alon Katz](https://github.com/AlonKz1)
