@@ -48,7 +48,7 @@ Mohammed Yunus
 - [Andres Gutierrez](https://github.com/gtierrezandres)
 - [Alon Katz](https://github.com/AlonKz1)
 - Nandita Gupta
--Surabhi Nikhila
+- Surabhi Nikhila
 - [Prajwal Dhungana](https://github.com/PrajwalDhungana)
 - [Overlrd](https://github.com/Overlrd)
 - [Prince Dawson](https://github.com/dawssonCodes)
