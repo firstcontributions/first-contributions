@@ -268,6 +268,7 @@ Rhythm Sharma
 - [Mahesward](https://github.com/Mahesward)
 - Ronit Kunkolienker @DevSoc PI
 - [Alvin James Bellero](https://github.com/shiftEscape)
+- [Yididya Andualem](https://github.com/Jeyididya)
 - [Hidayatullah](https://github.com/dayatnhbtc)
 - [Adlizone](https://github.com/adlizone)
 - [Dhruv Pandey@Devsoc](https://github.com/dhruv12pandey)
