@@ -424,6 +424,7 @@ Rhythm Sharma
 - Belkacem Mezhoud
 - [Esta es mi primer contribucion](https://github.com/PabloCH23)
 - [Melon98@DevSocPI](https://github.com/melon9829)
+- [David Bello](https://github.com/bellodavid)
 - [Alex Zhao](https://github.com/zyunfeng)
 - [UltraViolet33](https://github.com/UltraViolet33)
 - [Gregory John](https://github.com/GregLJ)
