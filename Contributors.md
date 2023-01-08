@@ -144,6 +144,7 @@ Mohammed Yunus
 - Seyed Mahdi Sadat
 - Tariqs26
 - Yashwanth Krishna
+- Ethan Nixon
 - [Edmar Campos] (https://github.com/Edax97)
 - [Ankan Dey] (https://github.com/ankan-0610)
 - [Patnala Karthikeya] (https://github.com/KarthikeyaPatnala12)
