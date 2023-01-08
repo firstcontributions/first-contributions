@@ -118,6 +118,7 @@
 - [Farhan Sayyed](https://github.com/farhansayyed165)
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - [Khushboo Jain @ DevSoc]
+- [Iqra Abdi](https://github.com/IQRA-ABDI)
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
 - [Siddhant Chauhan](https://github.com/siddhant-0707)
 - [vandan doshi](https://github.com/Vandan19)
