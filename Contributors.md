@@ -3,6 +3,7 @@
 - [Zerodot618](https://github.com/zerodot618)
 - [Adilet Berdibekov](https://github.com/berdibekovadilet)
 - [Remin T Roy](https://github.com/remindev)
+- [Sapnil Patel](https://github.com/SAPNILPATEL)
 - [Dipak Kalauni](https://github.com/KaloniGiga)
 - [rishmitar](https://github.com/RishmitaR) 
 - [Anupam malviya](https://github.com/tech-wizard720)
