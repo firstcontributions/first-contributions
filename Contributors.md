@@ -123,6 +123,7 @@ Mohammed Yunus
 - [vandan doshi](https://github.com/Vandan19)
 - aumkar@DevsocPI
 - Chris Stevens
+- [Henry Li](https://github.com/Henrycodeproj)
 - [Sean Sew](https://github.com/ExpressOwl)
 - [Anshuman Nigam @DevSocPI]
 - [Jess Mathews](https://github.com/jessmathews)
