@@ -597,6 +597,7 @@ Rhythm Sharma
 - [VishalM](https://github.com/Mvishal123)
 - [Sudarsan Balaji](https://github.com/artfuldev)
 - [jatin kumar](https://github.com/jatin75757)
+- [Harshit Singh Mahara] (https://github.com/HarshitMahara)
 - [ahmad nawaz khan](https://github.com/4hmaad)
 - [Tikaram Acharya](https://github.com/tikaramac19)
 - [Ishita Batra](https://github.com/ishita6)
