@@ -57,6 +57,7 @@
 - [Ninad Patil](https://github.com/Ninad-Patil)
 - [Jacek Smoter](https://github.com/jackz070)
 - [Masaya Kj](https://github.com/Massas)
+- [Daniel Lynch](https://github.com/DPL9748)
 - [majR - Mohammed Jauharali](https://github.com/mjjauhar)
 - [Goutham K](https://github.com/gouthamhusky)
 - [James Lee](https://github.com/jameslee98)
