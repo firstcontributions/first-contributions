@@ -1301,6 +1301,7 @@ Rhythm Sharma
 - [Pruthiraj Swain]
 - [Innocent Thomas](https://github.com/innthomas)
 - [Yllen Fernandez](https://github.com/yllenfer)
+- [Efe Selcuk](https://github.com/efex2)
 - [Sumon Chandra](https://github.com/sumon-chandra)
 -[Juweria Abdullahi Mohamed] (https://github.com/Suldana)
 - [Nour Elhamshary](https://github.com/Nour-Elhamshary)
