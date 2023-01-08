@@ -109,6 +109,7 @@ Mohammed Yunus
 - [Ahmad Shoja](https://github.com/ahmad-shoja)
 - Parth Shah@DevsocPI
 - [seewah tse]
+-[Anwar Sadat Ayub](https://github.com/momokid)
 - [Ahmed Bawazir Ahmedbawazerdev@gmail.com](https://github.com/ahmeddeveloper55)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - Parth Shah@DevsocPI
