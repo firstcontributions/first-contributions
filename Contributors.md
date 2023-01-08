@@ -82,6 +82,7 @@
 - [westtle](https://github.com/westtle)
 - [Pratik Ghosh]
 - [Rohit Bhat]
+- [Divyam Arora1705]
 - [Sreedev](https://github.com/sreedev-ss)
 - [Rajib Jonchhen](https://github.com/rajibjonchhen)
 - [ Kajal Singh]
