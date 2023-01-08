@@ -142,6 +142,7 @@ Mohammed Yunus
 - [Nasyr Akhmadob](https://github.com/darrowv)
 - [Allan Sifuna](https://github.com/allansifuna)
 - [Sanskar Mundhra@DevsocPI](https://github.com/SunMoon97)
+- [Habeeb Tijani](https://github.com/xperience001)
 - [Noopur Sharma@Devsoc]
 - [Shrey Gupta@DevsocPI](https://github.com/gupta-shrey)
 - Meet Dedhia@DevsocPI
