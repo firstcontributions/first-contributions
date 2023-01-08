@@ -1424,5 +1424,5 @@
 - [Smayo-Sugaal](https://github.com/SumayoSugaal)
 - [kartikay7](https://github.com/kartikay7)
 - [Shalini Gupta](https://github.com/ShaliniGupta14)
-
+- [nikhilhex](https://github.com/nikhilhex)
 <!-- prettier-ignore-end -->
