@@ -20,7 +20,7 @@ Nếu bạn không có git trên máy tính của bạn, [cài đặt](https://h
 
 ## Copy kho mã nguồn (Fork)
 
-Copy kho mã nguồn này bằng cách nhấn vào nút `Fork` đầu trang này. Bản sao kho mã nguồn mày sẽ được tạo ra trong tài khoản của bạn.
+Copy kho mã nguồn này bằng cách nhấn vào nút `Fork` đầu trang này. Bản sao kho mã nguồn này sẽ được tạo ra trong tài khoản của bạn.
 
 ## Sao chép kho mã nguồn (clone)
 
