@@ -351,6 +351,7 @@ Rhythm Sharma
 - [Tharun Chougoni]
 - [Uras Varolgunes]
 - [Limoo Kiplimo](https://github.com/Limookiplimo)
+- [James Weber De Asis](https://github.com/forfeitpotato)
 - [Arnav Joshi] (https://githuyb.com/TheOfficialAJ)
 - [Noopur Sharma@DevsocPI]
 - [Mohamed Abidar](https://github.com/abidarm)
