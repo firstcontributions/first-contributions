@@ -33,6 +33,7 @@
   [Kartik khode](https://github.com/Kartiklk)
   [Matheus Telino](https://github.com/matheustelino)
 - [Arpana Sitoula](https://github.com/Arpana-Sitoula)
+- [Joseph Macfarlane] (https://github.com/joseph-macfarlane)
 - [Ajay Anuragi](https://github.com/ajayanuragi)
 - [Jugal balaji](https://github.com/jugalbalaji97)
 - [Lain Iwakura](https://github.com/arisuandlainkissingcompetition123456789)
