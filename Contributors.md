@@ -1,4 +1,5 @@
 # Contributors
+- [rishmitar](https://github.com/RishmitaR) 
 - [Zerodot618](https://github.com/zerodot618)
 - [Adilet Berdibekov]https://github.com/berdibekovadilet
 <!-- prettier-ignore-start -->
