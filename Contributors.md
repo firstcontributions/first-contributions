@@ -1384,6 +1384,7 @@
 - [John-Paul Wernecke](https://github.com/Revicx)
 - [ayang7](https://github.com/ayang7)
 - [Tom Davis](https://github.com/tomjdavis4)
+- [Sahl Abdelrahman](https://github.com/sahl-a)
 - [junjie1475](https://github.com/junjie1475)
 - [Utsho Das](https://github.com/Utshodas)
 - [Akshat Saxena](https://github.com/AkshatSaxena0)
