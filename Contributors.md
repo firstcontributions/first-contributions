@@ -107,6 +107,7 @@ Mohammed Yunus
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Loic Mavah Tseket@DevsocPI](https://github.com/loic242)
 - [Ahmad Shoja](https://github.com/ahmad-shoja)
+- [Hyun Sun] (https://github.com/HyunCafe/)
 - Parth Shah@DevsocPI
 - [seewah tse]
 -[Anwar Sadat Ayub](https://github.com/momokid)
