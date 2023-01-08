@@ -7,6 +7,7 @@
 - [Anupam malviya](https://github.com/tech-wizard720)
 - [Axorax](https://github.com/axorax)
 - [Richard McCormick](https://github.com/rmccormick314)
+- [Bhawna Rana](https://github.com/Bhawna-Rana)
 - [Nur Farah](https://github.com/Nur-farah)
 - [Rafli Muhammad](https://github.com/raflimuhammadd)
 - [Elena Kharitonova](https://github.com/Alenuha)
