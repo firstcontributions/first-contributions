@@ -197,6 +197,7 @@ Mohammed Yunus
 - [Siddhant Chauhan](https://github.com/siddhant-0707)
 - [vandan doshi](https://github.com/Vandan19)
 - aumkar@DevsocPI
+- [Patrik Šušlík](https://github.com/smeglofus)
 - Chris Stevens
 - [Sean Sew](https://github.com/ExpressOwl)
 - [Kyoumei](https://github.com/kyoumeia)
