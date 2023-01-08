@@ -78,6 +78,7 @@ Akrami Salah
 - [Sreedev](https://github.com/sreedev-ss)
 - [Rajib Jonchhen](https://github.com/rajibjonchhen)
 -[Muhammad Saad]
+- [ Kajal Singh]
 Mohammed Yunus
 -
 -[Mohammed Yunus](https://github.com/Y-u-n-u-s)
