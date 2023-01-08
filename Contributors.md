@@ -300,6 +300,7 @@
 - [Georgy](https://github.com/Gkuzin13)
 - [Ashroof] (https://github.com/OmarAshraf-02)
 - [Aditya](https://github.com/adi-bal)
+- [Fahmid Bin Farooqui](https://github.com/fahmidbinfarooqui)
 - [Krunal Patel](https://github.com/kd05)
 - [Harshit Devadiga](https://github.com/harshitt02)
 - [Salu Alhassan](https://github.com/sky2626)
