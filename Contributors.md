@@ -1,10 +1,4 @@
-test-branch
 # Contributors
-- [rishmitar](https://github.com/RishmitaR) 
-- [Zerodot618](https://github.com/zerodot618)
-- [Adilet Berdibekov]https://github.com/berdibekovadilet
-﻿# Contributors
-main
 <!-- prettier-ignore-start -->
 - [Zerodot618](https://github.com/zerodot618)
 - [Adilet Berdibekov](https://github.com/berdibekovadilet)
