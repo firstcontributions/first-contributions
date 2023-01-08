@@ -114,6 +114,7 @@ Mohammed Yunus
 - [Aishwarya G M](https://github.com/gmarya)
 - [Jatin Khachane](https://github.com/jatinKhachane)
 - [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001)
+- [Rishi Sharma](https://github.com/Sharma-0)
 -[Constantinos Pigkeridis](https://github.com/mentality330)
 - [Parth Shah@DevsocPI]
 - aditya bagla
