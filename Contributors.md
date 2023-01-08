@@ -350,6 +350,7 @@ Rhythm Sharma
 - [Amir](https://github.com/amir-repository)
 - [Sivagnanam Palaniappan](https://github.com/sivag98)
 - [Chandan kumar Chaudhary](https://github.com/chands)
+- [Chizi Ogundu](https://github.com/solidSteak0)
 - [Kripa Sindhu](https://github.com/kripasindhu-007)
 - [ganesh036](https://github.com/GaneshJampa)
 - [Xiyue Zhang](https://github.com/xiyueuyix)
