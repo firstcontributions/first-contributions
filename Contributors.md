@@ -3,6 +3,7 @@
 - [Adilet Berdibekov]https://github.com/berdibekovadilet
 <!-- prettier-ignore-start -->
 - [Remin T Roy](https://github.com/remindev)
+- [Sapnil Patel](https://github.com/SAPNILPATEL)
 - [Dipak Kalauni](https://github.com/KaloniGiga)
 - [Anupam malviya](https://github.com/tech-wizard720)
 - [Axorax](https://github.com/axorax)
