@@ -1419,7 +1419,7 @@
 - [kijwamoko](https://github.com/kijwamoko)
 - [yash1744](https://github.com/yash1744)
 - [Josh Litam](https://github.com/joshlitam)
-
+- [ctran] (https://github.com/ctran414)
 - [danesusername](https://github.com/danesusername)
 - [Rajat Bhosale](https://github.com/RajatBhosale)
 - [Charandeep Singh](https://github.com/charandeepsinghb)
