@@ -70,6 +70,7 @@ Mohammed Yunus
 - [Parth Shah@DevsocPI]
 - aditya bagla
 - Reetish Rath
+- Olatunde Abdulquadri (https://github.com/NerdQuad)
 - [Kenta Mizuno](https://github.com/mizu0715)
 - [Dave Devito](https:://github.com/DaveDevito)
 - [Pratik Lilhare](https://github.com/pratiklilhare/)
