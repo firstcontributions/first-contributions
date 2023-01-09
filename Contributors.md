@@ -1450,5 +1450,7 @@
 - [Archer](https://github.com/c121914yu)
 - [Mohammed Saad](https://github.com/msaad7777/)
 - [Akshay Gade](https://github.com/AkshayGade23)
-<!-- prettier-ignore-end -->
 - [Prakhar Medhavi](https://github.com/pmedhavi)
+-[Piyush Mishra](http://github.com/piyush280599)
+<!-- prettier-ignore-end -->
+
