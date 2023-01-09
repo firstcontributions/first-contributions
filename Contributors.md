@@ -279,6 +279,7 @@
 - [Sharvil Potdar@Devsoc PI](https://github.com/SMP111)
 - [VINITH S](https://github.com/realvineeths)
 - [Faisal Saifi](https://github.com/faisalsaifii)
+- [Jake Butler](https://github.com/TioDelMundo)
 - Leon
 - Gabe (https://github.com/101itsGabe)
 - [Sarthak Jain@DevsocPI] (https://github.com/GurglingHammer)
