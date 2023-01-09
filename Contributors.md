@@ -366,6 +366,7 @@
 - [Mohamed Abidar](https://github.com/abidarm)
 - [Antonio Narra](https://github.com/AntonioNarra)
 - [Amir](https://github.com/amir-repository)
+- [xg Jiang](https://github.com/xgjiang)
 - [Sivagnanam Palaniappan](https://github.com/sivag98)
 - [Chandan kumar Chaudhary](https://github.com/chands)
 - [Chizi Ogundu](https://github.com/solidSteak0)
