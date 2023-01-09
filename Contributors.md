@@ -10,7 +10,9 @@
 - [Anupam malviya](https://github.com/tech-wizard720)
 - [Axorax](https://github.com/axorax)
 - [Richard McCormick](https://github.com/rmccormick314)
+-[Saumya Shah](https://github.com/Saumya40-codes)
 - [C0LDRAM3N] (https://github.com/C0LDRAM3N)
+- [Shubham] (https://github.com/Shubham-Godambe)
 - [Nur Farah](https://github.com/Nur-farah)
 - [Rafli Muhammad](https://github.com/raflimuhammadd)
 - [Elena Kharitonova](https://github.com/Alenuha)
@@ -160,6 +162,7 @@
 - Derrick Brandt
 - JamesBond 
 - Seyed Mahdi Sadat
+- Jaseel Hassan Koolath
 - Tariqs26
 - Yashwanth Krishna
 - Ethan Nixon
@@ -1417,7 +1420,7 @@
 - [kijwamoko](https://github.com/kijwamoko)
 - [yash1744](https://github.com/yash1744)
 - [Josh Litam](https://github.com/joshlitam)
-
+- [ctran] (https://github.com/ctran414)
 - [danesusername](https://github.com/danesusername)
 - [Rajat Bhosale](https://github.com/RajatBhosale)
 - [Charandeep Singh](https://github.com/charandeepsinghb)
@@ -1443,6 +1446,10 @@
 - [kartikay7](https://github.com/kartikay7)
 - [Shalini Gupta](https://github.com/ShaliniGupta14)
 - [nikhilhex](https://github.com/nikhilhex)
+- [Odachannnn](https://github.com/Odachannnn)
 - [OG_Matcha](https://github.com/OG-Matcha)
 - [Archer](https://github.com/c121914yu)
+- [Mohammed Saad](https://github.com/msaad7777/)
+- [Akshay Gade](https://github.com/AkshayGade23)
 <!-- prettier-ignore-end -->
+- [Prakhar Medhavi](https://github.com/pmedhavi)
