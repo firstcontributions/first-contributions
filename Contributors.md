@@ -5,7 +5,7 @@
 - [Remin T Roy](https://github.com/remindev)
 - [Sapnil Patel](https://github.com/SAPNILPATEL)
 - [Dipak Kalauni](https://github.com/KaloniGiga)
-- [rishmitar](https://github.com/RishmitaR) 
+- [rishmitar](https://github.com/RishmitaR)
 - [Anupam malviya](https://github.com/tech-wizard720)
 - [Axorax](https://github.com/axorax)
 - [Richard McCormick](https://github.com/rmccormick314)
@@ -159,7 +159,7 @@
 - [RA341](https://github.com/RA341)
 - [Sagar Babannavar](https://github.com/babannavar)
 - Derrick Brandt
-- JamesBond 
+- JamesBond
 - Seyed Mahdi Sadat
 - Jaseel Hassan Koolath
 - Tariqs26
@@ -172,7 +172,7 @@
 - [Oyelowo Oyeleye Samuel](https://github.com/sammy-yuntin)
   [siddharth verma](https://github.com/sidharthviz)
 - [Chintan Golakiya](https://github.com/chintan-golakiya)
-- [Diwas Rimal](https://github.com/diwasrimal) 
+- [Diwas Rimal](https://github.com/diwasrimal)
 - [Shigaichi](https://github.com/Shigaichi)
 - [Neil Ohene](https://github.com/dvc-77)
 - dsvetina
@@ -413,7 +413,7 @@
 - [Sanchay Sahay]@DevsocPI
 - [Deept Ratna @DevsocPI]
 - [Nathan FAbio](https://github.com/nathanfabio)
-- [Joao Victor](https://github.com/x1ibns) 
+- [Joao Victor](https://github.com/x1ibns)
 - [Parth Naik]@DevsocPI
 - [Alejandro Reyes Cerecero](https://github.com/Cerecero)
 - [Abdurahman](https://github.com/abdurahmanjabiin)
@@ -914,7 +914,7 @@
 - [divya](https://github.com/Divya2k05)
 - [Arunima Chaudhuri](https://github.com/tinniaru3005)
 - [Arman Kumar Aditya@DevsocPI]
-- [Mike Bale](https://github.com/ripzerotwo) 
+- [Mike Bale](https://github.com/ripzerotwo)
 - [Domenico Ivan Fortuna](https://github.com/dromex22)
 - [Fredy Diaz](https://github.com/dddfred)
 - [Celeste Dubini](https://github.com/celestedubini)
@@ -1287,7 +1287,7 @@
 - [Sai Manoj Etcherla](https://github.com/saimanoj22)
 - [Adam Anderson](https://github.com/Adam-E-Anderson)
 - [Mayank Agrawal](https://github.com/Mayank30-creator)
-- [Emon](https://github.com/smremon) 
+- [Emon](https://github.com/smremon)
 - [Sham Vijay](https://github.com/iamvbenz49)
 - [Ryo Muta](https://github.com/r-mutax)
 - [Murilo Barbosa](https://github.com/murilodab)
@@ -1390,6 +1390,7 @@
 - [rabcore](https://github.com/rabcore)
 - [Jonas Engström](https://github.com/takirami)
 - [kartavya@devsoc](https://github.com/Chrollucilfer)
+- [Sunkanmi Otitolaye](https://github.com/leosuky)
 - [Kumar Kashyap](https://github.com/KashyapJod)@devsoc
 - [Divyam Joshi](https://github.com/iamgroot9)@devsoc
 - [Saurav@DevSocPI](https://github.com/AlexThundrous)
