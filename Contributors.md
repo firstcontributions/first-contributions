@@ -990,6 +990,7 @@
 - [Adam Chen](https://github.com/adamchen151)
 - [Jonathan G Araya](https://github.com/Jonathana1106)
 - [Jeremy Gleason](https://github.com/jeremy-gleason)
+- [Felipe Seda](https://github.com/fseda)
 - [jungchoib](https://github.com/jungchoib)
 - [rajdugad](https://github.com/rajdugad)
 - {antny} (https://github.com/antny2)
@@ -1457,5 +1458,5 @@
 - [Archer](https://github.com/c121914yu)
 - [Mohammed Saad](https://github.com/msaad7777/)
 - [Akshay Gade](https://github.com/AkshayGade23)
-<!-- prettier-ignore-end -->
 - [Prakhar Medhavi](https://github.com/pmedhavi)
+<!-- prettier-ignore-end -->
