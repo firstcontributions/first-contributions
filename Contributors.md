@@ -1169,6 +1169,7 @@
 - [Ajith R Thampi](https://github.com/ajithrthampi)
 - [Dhanesh Phulphagar](https://github.com/darayn)
 - [R3DRUN3](https://github.com/R3DRUN3)
+- [Viggy Vanchinathan](https://github.com/vviggyy)
 - [Dhanesh Phulphagar](https://github.com/darayn)
 - [Rishi Singh](https://github.com/mrsingh-rishi)
 - [Arpan Adlakhiya](https://github.com/mrr0b0t-0x1)
