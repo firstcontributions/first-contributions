@@ -1445,6 +1445,7 @@
 - [kartikay7](https://github.com/kartikay7)
 - [Shalini Gupta](https://github.com/ShaliniGupta14)
 - [nikhilhex](https://github.com/nikhilhex)
+- [Odachannnn](https://github.com/Odachannnn)
 - [OG_Matcha](https://github.com/OG-Matcha)
 - [Archer](https://github.com/c121914yu)
 - [Akshay Gade](https://github.com/AkshayGade23)
