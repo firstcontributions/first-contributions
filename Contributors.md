@@ -30,6 +30,7 @@
 - [NLH](https://github.com/Vincent-NHtun)
 - [Amrit Raj](https://github.com/amritrj)
 - [Kiran Gosu](https://github.com/kirankumargosu)
+- [Olaleye Fuad](https://github.com/theylovefuad)
 - [Divyanshu Trivedi]
 - [Rupesh Mangalam](https://github.com/springdaysenpai)
 - [joel kores](https://github.com/0xAckerMan)
