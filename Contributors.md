@@ -1444,4 +1444,6 @@
 - [nikhilhex](https://github.com/nikhilhex)
 - [OG_Matcha](https://github.com/OG-Matcha)
 - [Archer](https://github.com/c121914yu)
+- [Mohammed Saad](https://github.com/msaad7777/)
+
 <!-- prettier-ignore-end -->
