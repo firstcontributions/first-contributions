@@ -246,6 +246,7 @@
 - [Saptarshi Ghosh @devsoc2022](https://github.com/zack-carnet)
 - [Somnath Golui](https://github.com/somu-code)
 - [Jiving Pete's Frisky Dynamite](https://github.com/jives-mcgee)
+- [Ciaran H](https://github.com/ciaranhr)
 - [kartavya dubey at devsoc preinductions](https://github.com/Chrollucilfer)
 - [Hassan Maow](https://github.com/Hassan-Macow)
 - [Prajwal G](https://github.com/PrajwalGraj)
