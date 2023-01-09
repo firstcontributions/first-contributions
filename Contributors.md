@@ -12,7 +12,7 @@
 - [Richard McCormick](https://github.com/rmccormick314)
 -[Saumya Shah](https://github.com/Saumya40-codes)
 - [C0LDRAM3N] (https://github.com/C0LDRAM3N)
-- [Kartavya Makwana] (https://github.com/kartavyamakwana)
+- [Kartavya Makwana](https://github.com/kartavyamakwana)
 - [Shubham] (https://github.com/Shubham-Godambe)
 - [Nur Farah](https://github.com/Nur-farah)
 [Dudu Zar] (https://duduzar.com)
