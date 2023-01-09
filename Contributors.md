@@ -975,6 +975,7 @@
 - [TusharPramanick](https://github.com/TusharPramanick)
 - [Krishan-Walia](https://github.com/krishanwalia30)
 - [Krishna-Kadu](https://github.com/KaiserKadu)
+- [Facundo Talavera](https://github.com/Fa2112)
 - [Timothy Chua](https://github.com/tdchua)
 - [TesseractionCode](https://github.com/TesseractionCode)
 - [Jyotishmoy konwar](https://github.com/Jyotishmoy365)
