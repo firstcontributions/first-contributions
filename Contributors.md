@@ -1441,4 +1441,5 @@
 - [Shalini Gupta](https://github.com/ShaliniGupta14)
 - [nikhilhex](https://github.com/nikhilhex)
 - [OG_Matcha](https://github.com/OG-Matcha)
+- [Archer](https://github.com/c121914yu)
 <!-- prettier-ignore-end -->
