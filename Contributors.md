@@ -1447,5 +1447,5 @@
 - [OG_Matcha](https://github.com/OG-Matcha)
 - [Archer](https://github.com/c121914yu)
 - [Akshay Gade](https://github.com/AkshayGade23)
-<!-- prettier-ignore-end -->
 - [Prakhar Medhavi](https://github.com/pmedhavi)
+- [Talal Ahmed](https://github.com/talal02)
