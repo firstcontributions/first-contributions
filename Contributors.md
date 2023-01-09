@@ -1445,6 +1445,7 @@
 - [John-Henry Zebulon Olson](https://github.com/jholson1030)
 - Ulises Quiñonez
 - [Hrishikesh](https://github.com/Hrishi5111998)
+- [Drew Moore](https://github.com/drewhmoore)
 - [Siddharth Thakur]@devsoc pi
 - [ashutosh anand](https://github.com/AshutoshAnand123)
 - [Jaiman Munshi](https://github.com/jaimanm)
