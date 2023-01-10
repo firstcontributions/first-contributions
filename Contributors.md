@@ -1479,4 +1479,5 @@
 - [Abhishek Singh](https://github.com/Abhisheksingh734)
 -[malleboina paramesh(https://github.com/MalleboinaParmesh/)
 - [Ravi yadav](https://github.com/strange605)
+- [Hamdi Vazim](https://github.com/hamdivazim)
 <!-- prettier-ignore-end -->
