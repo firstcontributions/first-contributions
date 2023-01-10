@@ -10,6 +10,7 @@
 - [rishmitar](https://github.com/RishmitaR) 
 - [Anupam malviya](https://github.com/tech-wizard720)
 - [Axorax](https://github.com/axorax)
+- [Omar Gabriel](https://github.com/omargabrielaguilar)
 - [Richard McCormick](https://github.com/rmccormick314)
 -[Saumya Shah](https://github.com/Saumya40-codes)
 - [C0LDRAM3N] (https://github.com/C0LDRAM3N)
