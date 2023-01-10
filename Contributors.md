@@ -1334,6 +1334,7 @@
 - [Kunal Bisht](https://github.com/lanukk)
 - [mkosmo](https://github.com/mkosmo)
 - [saeed hersi](https://githhub.com/shersi32)
+- [Kaschae Freeman](https://github.com/kaschaefreeman)
 - [Vardeep Singh Sandhu](https://github.com/vardeep-sandhu)
 - [Moses Asiago](https://github.com/mozeago/)
 - [Wai Ho](https://github.com/hevi1991)
