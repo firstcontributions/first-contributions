@@ -1334,6 +1334,7 @@
 - [Kunal Bisht](https://github.com/lanukk)
 - [mkosmo](https://github.com/mkosmo)
 - [saeed hersi](https://githhub.com/shersi32)
+- [Kaschae Freeman](https://github.com/kaschaefreeman)
 - [Vardeep Singh Sandhu](https://github.com/vardeep-sandhu)
 - [Moses Asiago](https://github.com/mozeago/)
 - [Wai Ho](https://github.com/hevi1991)
@@ -1480,4 +1481,5 @@
 - [Abhishek Singh](https://github.com/Abhisheksingh734)
 -[malleboina paramesh(https://github.com/MalleboinaParmesh/)
 - [Ravi yadav](https://github.com/strange605)
+- [Santiago Fernandez](https://github.com/lostwalle268)
 <!-- prettier-ignore-end -->
