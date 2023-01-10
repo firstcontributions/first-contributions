@@ -1262,6 +1262,7 @@
 - [Pavanteja](https://github.com/Pavanteja17)
 - [Tanishq Agarwal](https://github.com/Tanishq2807)
 - [Shaurya Gupta](https://github.com/Shaurya50211)
+- [Victor Chao](https://github.com/VictorChao996)
 - [shrthk-7](https://github.com/shrthk-7)
 - [Yash Thakur](https://github.com/philomathaf)
 - [Aranamor](https://github.com/aranamor)
