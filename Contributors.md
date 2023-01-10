@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Zerodot618](https://github.com/zerodot618)
+- [pradipta-kalita](https://github.com/pradipta-kalita)
 - [Tan Shao Chong](https://github.com/ackselz)
 - [Amanuil Boku](https://github.com/amanuil)
 - [Adilet Berdibekov](https://github.com/berdibekovadilet)
