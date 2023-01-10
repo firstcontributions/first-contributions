@@ -1465,5 +1465,6 @@
 - [Akshay Gade](https://github.com/AkshayGade23)
 - [Prakhar Medhavi](https://github.com/pmedhavi)
 - [Roshan Kumar](https://github.com/roshan798)
--[Thanos Kiver]
+- [Thanos Kiver]
+- [Samuel Essilfie](https://github.com/samezzz)
 <!-- prettier-ignore-end -->
