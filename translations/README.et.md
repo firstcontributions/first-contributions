@@ -92,7 +92,7 @@ replacing `የእርስዎ-ቅርንጫፍ-ስም` with the name of the branch y
 <details>
 <summary> <strong> በመግፋት ላይ ማንኛውም ስህተት ካጋጠመህ እዚህ ጠቅ አድርግ፡- </strong> </summary>
 
-- ### Authentication Error
+- ### የማረጋገጫ ስህተት
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
   fatal: Authentication failed for 'https://github.com/የተጠቃሚ ስምህ/first-contributions.git/'</pre>
@@ -122,7 +122,7 @@ replacing `የእርስዎ-ቅርንጫፍ-ስም` with the name of the branch y
 
 አሁን ለሌሎች ፕሮጀክቶች በማበርከት እንጀምር። እርስዎ ሊጀምሩባቸው የሚችሉ ቀላል ጉዳዮች ያላቸውን የፕሮጀክቶች ዝርዝር አዘጋጅተናል። ይመልከቱ [በድር መተግበሪያ ውስጥ ያሉ የፕሮጀክቶች ዝርዝር](https://firstcontributions.github.io/#project-list)።
 
-### [ተጨማሪ ቁሳቁስ](additional-material/git_workflow_scenarios/additional-material.md)
+### [ተጨማሪ ቁሳቁስ](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## መማሪያዎች ሌሎች-መሳሪያዎችን በመጠቀም
 
