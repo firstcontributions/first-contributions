@@ -1464,6 +1464,7 @@
 - [Mohammed Saad](https://github.com/msaad7777/)
 - [Akshay Gade](https://github.com/AkshayGade23)
 - [Prakhar Medhavi](https://github.com/pmedhavi)
+- [Hans Santos](https://github.com/hansxavier)
 - [Roshan Kumar](https://github.com/roshan798)
 -[Thanos Kiver]
 <!-- prettier-ignore-end -->
