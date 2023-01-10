@@ -1470,4 +1470,5 @@
 - [Roshan Kumar](https://github.com/roshan798)
 - [Thanos Kiver]
 - [Samuel Essilfie](https://github.com/samezzz)
+- [Shaik Abdul Wahid](https://github.com/Abdulwahid7027)
 <!-- prettier-ignore-end -->
