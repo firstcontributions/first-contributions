@@ -10,6 +10,7 @@
 - [Dipak Kalauni](https://github.com/KaloniGiga)
 - [rishmitar](https://github.com/RishmitaR) 
 - [Anupam malviya](https://github.com/tech-wizard720)
+- [Nadim Bou Alwan](https://github.com/nadinator)
 - [Axorax](https://github.com/axorax)
 - [Omar Gabriel](https://github.com/omargabrielaguilar)
 - [Richard McCormick](https://github.com/rmccormick314)
