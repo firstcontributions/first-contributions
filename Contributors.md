@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Nandu P K](https://github.com/pkNandu)
 - [Md. Rumon Khan](https://github.com/rumon5h)
 - [Zerodot618](https://github.com/zerodot618)
 - [oyeKhadim](https://github.com/oyeKhadim)
