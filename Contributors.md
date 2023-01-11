@@ -4,6 +4,7 @@
 - [Zerodot618](https://github.com/zerodot618)
 - [oyeKhadim](https://github.com/oyeKhadim)
 - [KiranJodhani](https://github.com/KiranJodhani)
+-[jasonroy](https://github.com/jasonroy)
 - [Pranjul2002](https://github.com/Pranjul2002)
 - [emily](https://github.com/Yingemily)
 - [pradipta-kalita](https://github.com/pradipta-kalita)
