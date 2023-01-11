@@ -1471,5 +1471,6 @@
 - [Roshan Kumar](https://github.com/roshan798)
 - [Thanos Kiver]
 - [Samuel Essilfie](https://github.com/samezzz)
+- [Anna Burdanova](https://github.com/AnnaBurd)
 - [Shaik Abdul Wahid](https://github.com/Abdulwahid7027)
 <!-- prettier-ignore-end -->
