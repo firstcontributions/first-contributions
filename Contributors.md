@@ -90,6 +90,7 @@
 - [Odejobi Peter](https://github.com/rinwaoluwa)
 - [Somanshu Rath @ DevSoc](https://github.com/somra)
 - [Fryz](https://github.com/Fryzzz)
+- [Alex Tan](https://github.com/cloudre01)
 - [Bhavana Garlapati] (https://github.com/bhavanagarlapati)
 - [Medhansh Kumar] @DevSocPI (https://github.com/medanceee)
   [Boby Tiwari](https://github.com/Boby900)
@@ -879,7 +880,6 @@
 - [Basant Singh Dobal 👨‍💻](https://github.com/basantsd)
 - [Julia Kuchle](https://github.com/JuliaGK)
 - [Marek Wasilczuk](https://github.com/tw-mwasilczuk)
-- [Alex Tan](https://github.com/cloudre01)
   <!-- prettier-ignore-end -->
   Ulises Quiñonez
   [Siddharth Thakur]@devsoc pi
