@@ -1483,3 +1483,5 @@
 - [Ravi yadav](https://github.com/strange605)
 - [Santiago Fernandez](https://github.com/lostwalle268)
 <!-- prettier-ignore-end -->
+= [Dale Schoch](https://github.com/schochdj)
+  
