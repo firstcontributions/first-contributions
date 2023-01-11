@@ -1502,4 +1502,5 @@
 - [Jose Martinez](https://github.com/Jnmarti88/)
 - [Klee-cocow](https://github.com/Klee-cocow)
 - [Tuan Nguyen Minh](https://github.com/tuana9a)
+- [Cameron Luo](https://github.com/camer0nluo)
 <!-- prettier-ignore-end -->
