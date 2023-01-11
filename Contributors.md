@@ -26,6 +26,7 @@
 - [Nur Farah](https://github.com/Nur-farah)
 - xyl
 - [Dudu Zar] (https://duduzar.com)
+- [Shrey Kumar] (https://github.com/Shrey-1123)
 - [Rafli Muhammad](https://github.com/raflimuhammadd)
 - [Elena Kharitonova](https://github.com/Alenuha)
 - [Utkarsh Pant](https://github.com/utkarshpant19)
