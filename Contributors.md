@@ -2,10 +2,14 @@
 
 <!-- prettier-ignore-start -->
 
+- [Nandu P K](https://github.com/pkNandu)
+- add-berke-gvn
 - [Md. Rumon Khan](https://github.com/rumon5h)
 - [Zerodot618](https://github.com/zerodot618)
 - [oyeKhadim](https://github.com/oyeKhadim)
 - [KiranJodhani](https://github.com/KiranJodhani)
+-[jasonroy](https://github.com/jasonroy)
+- [Pranjul2002](https://github.com/Pranjul2002)
 - [emily](https://github.com/Yingemily)
 - [pradipta-kalita](https://github.com/pradipta-kalita)
 - [Tan Shao Chong](https://github.com/ackselz)
@@ -22,10 +26,16 @@
 - [Omar Gabriel](https://github.com/omargabrielaguilar)
 - [Richard McCormick](https://github.com/rmccormick314)
 - [C](https://github.com/HannesEnnemann) -[Saumya Shah](https://github.com/Saumya40-codes)
+- [C](https://github.com/HannesEnnemann)
+- [Tachaan](https://github.com/Tachaan)
+-[Saumya Shah](https://github.com/Saumya40-codes)
+- dd-berke-gvn
 - [C0LDRAM3N] (https://github.com/C0LDRAM3N)
 - [Shubham] (https://github.com/Shubham-Godambe)
 - [Nur Farah](https://github.com/Nur-farah)
+- xyl
 - [Dudu Zar] (https://duduzar.com)
+- [Shrey Kumar] (https://github.com/Shrey-1123)
 - [Rafli Muhammad](https://github.com/raflimuhammadd)
 - [Elena Kharitonova](https://github.com/Alenuha)
 - [Utkarsh Pant](https://github.com/utkarshpant19)
@@ -79,6 +89,7 @@
 - [Niall De Barra](https://github.com/NiallDeBarra)
   [TEP](https://github.com/Theint810)
   [Milo Barkow](https://github/com/milobarkow)
+- [Rodrigo](https://github.com/RodDotO)
 - [Rav Krof](https://github.com/Ravkrof)
 - [Felix Lai](https://github.com/felixlaii)
 - [Ninad Patil](https://github.com/Ninad-Patil)
@@ -569,6 +580,7 @@
 - [stardustgd](https://github.com/stardustgd)
 - [Daniel Diaz](https://github.com/ddi4z)
 - [Adithya sau@DEVSOCPI](https://github.com/Adisauz)
+- [Damn Fun]
 - [Sandeep Krishna Donepudi](https://github.com/skdonepudi)
 - [ramettan](https://github.com/ramettan)
 - [mahalakshmikutcharlapati](https://github.com/mahalakshmikutcharlapati)
@@ -738,6 +750,7 @@
 - [Althaf Ahammed]
 - [DragonFireShield](https://github.com/dragonfireshield)
 - [Al Aasad Nur Riyad](https://github.com/nurRiyad)
+- [NZANGMENE DIT DIBRIL HASSAN](https://github.com/G87git)
 - [Sanket Muttin](https://github.com/sanketpm7/)
 - [Supreet Singh](https://github.com/supreetsingh672)
 - [kiranmanicka](https://github.com/kiranmanicka)
@@ -1491,5 +1504,9 @@
 - [Ravi yadav](https://github.com/strange605)
 - [Santiago Fernandez](https://github.com/lostwalle268)
 - [thofa](https://github.com/musthofasyarifudin)
-[Jose Martinez](https://github.com/Jnmarti88/)
+- [Jose Martinez](https://github.com/Jnmarti88/)
+- [Klee-cocow](https://github.com/Klee-cocow)
+- [Tuan Nguyen Minh](https://github.com/tuana9a)
+- [Cameron Luo](https://github.com/camer0nluo)
+- [Kirtiraj Sardesai](https://github.com/RefreshMyMind-I)
 <!-- prettier-ignore-end -->
