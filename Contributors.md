@@ -1504,4 +1504,5 @@
 - [Klee-cocow](https://github.com/Klee-cocow)
 - [Tuan Nguyen Minh](https://github.com/tuana9a)
 - [Cameron Luo](https://github.com/camer0nluo)
+- [Kirtiraj Sardesai](https://github.com/RefreshMyMind-I)
 <!-- prettier-ignore-end -->
