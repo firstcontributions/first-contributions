@@ -8,6 +8,7 @@
 - [pradipta-kalita](https://github.com/pradipta-kalita)
 - [Tan Shao Chong](https://github.com/ackselz)
 - [Amanuil Boku](https://github.com/amanuil)
+- [kyawZin](https://github.com/kyawZin24)
 - [Adilet Berdibekov](https://github.com/berdibekovadilet)
 - [Remin T Roy](https://github.com/remindev)
 - [Sapnil Patel](https://github.com/SAPNILPATEL)
