@@ -62,7 +62,7 @@ git switch -c add-alonzo-church
 
 አሁን የ`Contributors.md` ፋይልን በጽሑፍ አርታኢ ውስጥ ይክፈቱ፣ ስምዎን በእሱ ላይ ያክሉ። በፋይሉ መጀመሪያ ወይም መጨረሻ ላይ አይጨምሩት። በመካከል የትኛውም ቦታ ላይ ያስቀምጡት. አሁን, ፋይሉን ያስቀምጡ.
 
-<img align="right" width="450" ​​src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 ወደ የፕሮጀክት ማውጫው ሄደው ትዕዛዙን `git status` ከፈጸሙ፣ ለውጦች እንዳሉ ያያሉ።
 
