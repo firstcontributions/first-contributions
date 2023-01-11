@@ -70,6 +70,7 @@
 - [Muhammad Waseem](https://github.com/WaseemYameen9)
 - [Pranay S Patel](https://github.com/PostGrad)
 - [Mehul Prasad](https://github.com/M-Destiny)
+- [Sudhanshu Rai]
 - [Austin Carr](https://github.com/acarr123)
 - [Kalia Lor](https://github.com/kalialor)
 - [Niall De Barra](https://github.com/NiallDeBarra)
