@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Md. Rumon Khan](https://github.com/rumon5h)
 - [Zerodot618](https://github.com/zerodot618)
 - [pradipta-kalita](https://github.com/pradipta-kalita)
 - [Tan Shao Chong](https://github.com/ackselz)
