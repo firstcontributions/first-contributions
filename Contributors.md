@@ -1484,4 +1484,5 @@
 -[malleboina paramesh(https://github.com/MalleboinaParmesh/)
 - [Ravi yadav](https://github.com/strange605)
 - [Santiago Fernandez](https://github.com/lostwalle268)
+- [thofa](https://github.com/musthofasyarifudin)
 <!-- prettier-ignore-end -->
