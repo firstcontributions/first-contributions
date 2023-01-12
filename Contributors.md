@@ -1524,4 +1524,5 @@
 - [Kirtiraj Sardesai](https://github.com/RefreshMyMind-I)
 - [Jonathan Vega](https://github.com/JonVega)
 - [Stanley Louie](https://github.com/Iouie)
+- [Niranjan-GopaL](https://github.com/Niranjan-GopaL)
 <!-- prettier-ignore-end -->
