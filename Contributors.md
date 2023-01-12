@@ -737,6 +737,7 @@
 - [NIKITA PANDEY 🦋](https://github.com/NIKITApandey01)
 - [Cesar Rodas](https://github.com/Care99)
 - [Sahil Singh](www.linkedin.com/in/sahil-singh-ss9824)
+- [wizardm7](https://github.com/wizardm7)
 - [imappuru](https://github.com/imappuru)
 - [Dhiraj Suthar](https://github.com/Dhiraj5789)
 - [Ramiro Castro](https://github.com/ramirocastro1995)
