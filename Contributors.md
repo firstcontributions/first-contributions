@@ -417,6 +417,7 @@
 - [ganesh036](https://github.com/GaneshJampa)
 - [Xiyue Zhang](https://github.com/xiyueuyix)
 - [Mikan](https://github.com/mika-alpha)
+- [ByteDream](https://github.com/ByteDream)
 - [Mahabub Arafat](https://github.com/MahabubArafat)
 - [Enoch Chirima](https://github.com/iamenochchirima)
 - [Rafal Ciechanski](https://github.com/Sdfeagt)
