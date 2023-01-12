@@ -1529,4 +1529,5 @@
 - [Stanley Louie](https://github.com/Iouie)
 - [Niranjan-GopaL](https://github.com/Niranjan-GopaL)
 - [Harshit Malang](https://github.com/hrshtmlng)  
+- [Michael Soriano](https://github.com/michaelsoriano)
 <!-- prettier-ignore-end -->
