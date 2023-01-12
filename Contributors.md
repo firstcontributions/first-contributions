@@ -51,6 +51,7 @@
 - [Elizabeth Flack](https://github.com/Songlore)
 - [NLH](https://github.com/Vincent-NHtun)
 - [Amrit Raj](https://github.com/amritrj)
+- [Amey Patil](https://github.com/AmeyPPatil)
 - [Kiran Gosu](https://github.com/kirankumargosu)
 - [Olaleye Fuad](https://github.com/theylovefuad)
 - [Divyanshu Trivedi]
