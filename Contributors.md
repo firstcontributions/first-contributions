@@ -728,6 +728,7 @@
 - [John Denver Bidong](https://github.com/jbidz)
 - [Raghuram Aluru@DevSoc]
 - [Sid Saythongphet](https://github.com/SidSaythongphet)
+- [wizardm7](https://github.com/wizardm7)
 - [Aman Bhagat](https://GitHub.com/sanayaa)
 - [Zoltan Nahoczki](https://github.com/nahoczki)
 - [Siddharth Singh](https://github.com/siddharthqs/rust_quant)
