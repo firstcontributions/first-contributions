@@ -4,6 +4,7 @@
 - [Nandu P K](https://github.com/pkNandu)
 - [Radu Bagrin](https://github.com/rbagrin)
 - [Md. Rumon Khan](https://github.com/rumon5h)
+- [Jarol Riera](https://github.com/jarolthecoder)
 - [Zerodot618](https://github.com/zerodot618)
 - [oyeKhadim](https://github.com/oyeKhadim)
 - [Saad Vakharia](https://github.com/SaadVakharia)
