@@ -7,6 +7,7 @@
 - [Saad Vakharia](https://github.com/SaadVakharia)
 - [KiranJodhani](https://github.com/KiranJodhani)
 -[jasonroy](https://github.com/jasonroy)
+-[Tejas Borkar](https://github.com/tejas-borkar22/)
 -[Emily Xia](https://github.com/emiilyxiia)
 - [Pranjul2002](https://github.com/Pranjul2002)
 - [Elvin F F](https://github.com/cider23)
