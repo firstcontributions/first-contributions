@@ -1527,4 +1527,5 @@
 - [Jonathan Vega](https://github.com/JonVega)
 - [Stanley Louie](https://github.com/Iouie)
 - [Niranjan-GopaL](https://github.com/Niranjan-GopaL)
+- [Harshit Malang](https://github.com/hrshtmlng)  
 <!-- prettier-ignore-end -->
