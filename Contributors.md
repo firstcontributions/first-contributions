@@ -1512,4 +1512,6 @@
 - [Tuan Nguyen Minh](https://github.com/tuana9a)
 - [Cameron Luo](https://github.com/camer0nluo)
 - [Kirtiraj Sardesai](https://github.com/RefreshMyMind-I)
+- [captainxyw](https://github.com/captainxyw)
+
 <!-- prettier-ignore-end -->
