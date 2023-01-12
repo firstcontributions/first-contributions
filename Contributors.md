@@ -1523,4 +1523,5 @@
 - [Cameron Luo](https://github.com/camer0nluo)
 - [Kirtiraj Sardesai](https://github.com/RefreshMyMind-I)
 - [Jonathan Vega](https://github.com/JonVega)
+- [Stanley Louie](https://github.com/Iouie)
 <!-- prettier-ignore-end -->
