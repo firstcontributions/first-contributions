@@ -1507,7 +1507,7 @@
 - [Anna Burdanova](https://github.com/AnnaBurd)
 - [Shaik Abdul Wahid](https://github.com/Abdulwahid7027)
 - [Abhishek Singh](https://github.com/Abhisheksingh734)
--[malleboina paramesh(https://github.com/MalleboinaParmesh/)
+- [malleboina paramesh](https://github.com/MalleboinaParmesh/)
 - [Ravi yadav](https://github.com/strange605)
 - [Santiago Fernandez](https://github.com/lostwalle268)
 - [thofa](https://github.com/musthofasyarifudin)
@@ -1516,4 +1516,5 @@
 - [Tuan Nguyen Minh](https://github.com/tuana9a)
 - [Cameron Luo](https://github.com/camer0nluo)
 - [Kirtiraj Sardesai](https://github.com/RefreshMyMind-I)
+- [Jonathan Vega](https://github.com/JonVega)
 <!-- prettier-ignore-end -->
