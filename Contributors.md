@@ -8,6 +8,7 @@
 - [oyeKhadim](https://github.com/oyeKhadim)
 - [Saad Vakharia](https://github.com/SaadVakharia)
 - [KiranJodhani](https://github.com/KiranJodhani)
+- [Arun](https://gist.github.com/darkclown97)
 -[jasonroy](https://github.com/jasonroy)
 -[Tejas Borkar](https://github.com/tejas-borkar22/)
 -[Emily Xia](https://github.com/emiilyxiia)
