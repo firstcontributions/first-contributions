@@ -1010,6 +1010,7 @@
 - [Thomas Jacka](https://github.com/TJacka)
 - [rabisha](https://github.com/rabi-1)
 - [William-David](https://github.com/William-David)
+- [Mahdi Taleghani](https://github.com/mmte)
 - [Yash Bellary](https://github.com/bellaryyash23)
 - [Daniel Jeffrey Nibbs](https://github.com/Jeff-Nibbs)
 - [jeongwoo903](https://github.com/jeongwoo903)
