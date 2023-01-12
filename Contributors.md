@@ -4,6 +4,7 @@
 - [Md. Rumon Khan](https://github.com/rumon5h)
 - [Zerodot618](https://github.com/zerodot618)
 - [oyeKhadim](https://github.com/oyeKhadim)
+- [Saad Vakharia](https://github.com/SaadVakharia)
 - [KiranJodhani](https://github.com/KiranJodhani)
 -[jasonroy](https://github.com/jasonroy)
 -[Emily Xia](https://github.com/emiilyxiia)
