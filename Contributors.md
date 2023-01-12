@@ -53,6 +53,7 @@
 - [NLH](https://github.com/Vincent-NHtun)
 - [Amrit Raj](https://github.com/amritrj)
 - [Amey Patil](https://github.com/AmeyPPatil)
+- [Saarthak Prakash](https://github.com/saarthak49)
 - [Kiran Gosu](https://github.com/kirankumargosu)
 - [Olaleye Fuad](https://github.com/theylovefuad)
 - [Divyanshu Trivedi]
