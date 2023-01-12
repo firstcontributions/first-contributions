@@ -11,6 +11,7 @@
 - [Elvin F F](https://github.com/cider23)
 - [emily](https://github.com/Yingemily)
 - [pradipta-kalita](https://github.com/pradipta-kalita)
+-[Snehal Shyamsukha](https://github.com/snehal-shyamsukha)
 - [Tan Shao Chong](https://github.com/ackselz)
 - [Amanuil Boku](https://github.com/amanuil)
 - [kyawZin](https://github.com/kyawZin24)
