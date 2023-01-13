@@ -23,6 +23,7 @@
 - [Tan Shao Chong](https://github.com/ackselz)
 - [Amanuil Boku](https://github.com/amanuil)
 - [kyawZin](https://github.com/kyawZin24)
+- [Suryansh Upadhyay](https://github.com/linneszyx)
 - [Kanwal Mehreen](https://github.com/kawiiii)
 - [Adilet Berdibekov](https://github.com/berdibekovadilet)
 - [Serge Basa](https://github.com/stikkas)
