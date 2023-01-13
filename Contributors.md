@@ -1539,5 +1539,4 @@
 - [Michael Soriano](https://github.com/michaelsoriano)
 - [wqlu](https://github.com/wqlu)
 - [Ibragim GK](https://github.com/Ibrapsico)
-- [Damon Xue](https://github.com/damonxue)
 <!-- prettier-ignore-end -->
