@@ -1543,4 +1543,5 @@
 - [wqlu](https://github.com/wqlu)
 - [Ibragim GK](https://github.com/Ibrapsico)
 - [Damon Xue](https://github.com/damonxue)
+- [Honoris Gratias Ndereyimana. :wink:](https://github.com/nhonorisg/)
 <!-- prettier-ignore-end -->
