@@ -1548,4 +1548,5 @@
 - [Honoris Gratias Ndereyimana. :wink:](https://github.com/nhonorisg/)
 - [Alessandro Saggese 😎](https://github.com/asaggse/)
 - [Vinicius Antunes](https://github.com/vinicius-anp)
+- [Anshuman Tiwari](https://github.com/at610505)
 <!-- prettier-ignore-end -->
