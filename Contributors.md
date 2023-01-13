@@ -1545,4 +1545,5 @@
 - [Ibragim GK](https://github.com/Ibrapsico)
 - [Damon Xue](https://github.com/damonxue)
 - [Honoris Gratias Ndereyimana. :wink:](https://github.com/nhonorisg/)
+- [Alessandro Saggese 😎](https://github.com/asaggse/)
 <!-- prettier-ignore-end -->
