@@ -1535,4 +1535,5 @@
 - [Harshit Malang](https://github.com/hrshtmlng)  
 - [Michael Soriano](https://github.com/michaelsoriano)
 - [wqlu](https://github.com/wqlu)
+- [Ibragim GK](https://github.com/Ibrapsico)
 <!-- prettier-ignore-end -->
