@@ -1533,4 +1533,5 @@
 - [Niranjan-GopaL](https://github.com/Niranjan-GopaL)
 - [Harshit Malang](https://github.com/hrshtmlng)  
 - [Michael Soriano](https://github.com/michaelsoriano)
+- [wqlu](https://github.com/wqlu)
 <!-- prettier-ignore-end -->
