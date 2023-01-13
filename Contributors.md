@@ -25,6 +25,7 @@
 - [Kanwal Mehreen](https://github.com/kawiiii)
 - [Adilet Berdibekov](https://github.com/berdibekovadilet)
 - [Serge Basa](https://github.com/stikkas)
+- [Shreya Suthar](https://github.com/shreyasuthar655)
 - [ulmalana](https://github.com/ulmalana)
 - [Remin T Roy](https://github.com/remindev)
 - [Sapnil Patel](https://github.com/SAPNILPATEL)
