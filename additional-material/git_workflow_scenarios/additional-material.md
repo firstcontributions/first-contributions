@@ -28,6 +28,7 @@ This document provides information about how to delete a branch from your reposi
 
 ### [Resolving Merge Conflicts](resolving-merge-conflicts.md)
 This document provides information about how to resolve merge conflicts.
+Merge conflicts happen when you merge branches that have competing commits, and Git needs your help to decide which changes to incorporate in the final merge.
 > Take these steps to resolve the annoying merge conflicts.
 
 ### [Reverting a commit](reverting-a-commit.md)
