@@ -24,6 +24,7 @@
 - [kyawZin](https://github.com/kyawZin24)
 - [Kanwal Mehreen](https://github.com/kawiiii)
 - [Adilet Berdibekov](https://github.com/berdibekovadilet)
+- [Serge Basa](https://github.com/stikkas)
 - [Remin T Roy](https://github.com/remindev)
 - [Sapnil Patel](https://github.com/SAPNILPATEL)
 - [Dipak Kalauni](https://github.com/KaloniGiga)
