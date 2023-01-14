@@ -7,6 +7,7 @@
 - [Nandu P K](https://github.com/pkNandu)
 - [Hamdi Vazim](https://github.com/hamdivazim)
 - [Radu Bagrin](https://github.com/rbagrin)
+- [LoRdSoban](https://github.com/LoRdSoban)
 - [Md. Rumon Khan](https://github.com/rumon5h)
 - [Jam C.](https://github.com/maiqxx)
 - [Jarol Riera](https://github.com/jarolthecoder)
