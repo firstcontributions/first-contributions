@@ -258,6 +258,7 @@
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - Andre-Ribera
 - [Khushboo Jain @ DevSoc]
+- Khadija Kamran
 - [Riley Bruce](https://github.com/Riley94)
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
 - [Siddhant Chauhan](https://github.com/siddhant-0707)
