@@ -739,6 +739,7 @@
 - [Gabriel Coelho](https://github.com/bielcoelho)
 - [Tasnim@DevSocPI] (https://github.com/tasnim496)
 - [Ellis Burgess](https://github.com/ellis-burgess)
+- [Vaishnavi Swarnoj](https://github.com/Vaishu03)
 - [Daniel Oliveira](https://github.com/GulDaniel)
 - [Weijian Duan](https://github.com/GymRat102)
 - [Urvesh Radadiya](https://github.com/URVESH1121)
