@@ -1,12 +1,17 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [AKP](https://github.com/AungKhinePhyo)
+<<<<<<< HEAD
 - [dheeraj prashad 000111]
+=======
+- [Deepak Papnoi - 00123]
+>>>>>>> e6daad8e2da44bcaa0e2c0709cccee4ffb3a3207
 - [Eklemis](https://github.com/eklemis)
 - [Jainex 😄](https://github.com/Jainex17)
 - [Nandu P K](https://github.com/pkNandu)
 - [Hamdi Vazim](https://github.com/hamdivazim)
 - [Radu Bagrin](https://github.com/rbagrin)
+- [LoRdSoban](https://github.com/LoRdSoban)
 - [Md. Rumon Khan](https://github.com/rumon5h)
 - [Jam C.](https://github.com/maiqxx)
 - [Jarol Riera](https://github.com/jarolthecoder)
@@ -37,6 +42,7 @@
 - [Remin T Roy](https://github.com/remindev)
 - [Utkarsh Chauhan](https://github.com/im-utkarsh)
 - [Sapnil Patel](https://github.com/SAPNILPATEL)
+- [William Kelvin](https://github.com/WilliamKSilva)
 - [Dipak Kalauni](https://github.com/KaloniGiga)
 - [rishmitar](https://github.com/RishmitaR) 
 - [Anupam malviya](https://github.com/tech-wizard720)
