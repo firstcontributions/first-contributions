@@ -187,6 +187,7 @@
 - Dan
 - [Kenta Mizuno](https://github.com/mizu0715)
 - [Ali Gorji](https://github.com/gorjiali)
+- [Hesam Soleymani](https://github.com/HesamSoleymani)
 - [Dave Devito](https:://github.com/DaveDevito)
 - [Pratik Lilhare](https://github.com/pratiklilhare/)
 - [Pranjay Yelkotwar] @DevSocInductions
