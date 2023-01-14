@@ -1559,4 +1559,5 @@
 - [Vinicius Antunes](https://github.com/vinicius-anp)
 - [Anshuman Tiwari](https://github.com/at610505)
 -[Kyle Starrett](https://github.com/akstarre)
+-[Amrit Rai](https://github.com/retrogtx)
 <!-- prettier-ignore-end -->
