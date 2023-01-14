@@ -78,6 +78,7 @@
 - [Rupesh Mangalam](https://github.com/springdaysenpai)
 - [joel kores](https://github.com/0xAckerMan)
 - [Sol Avancini Noceti](https://github.com/avanoc)
+- [BartVNim](https://github.com/BartVNim)
 - [Hamza Mateen](https://github.com/HamzaMateen)
 - [Lumbani Makumbi](https://github.com/makumbilumbani)
 - [Abhay Shankar](https://github.com/Abhay478)
