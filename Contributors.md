@@ -1558,5 +1558,6 @@
 - [Alessandro Saggese 😎](https://github.com/asaggse/)
 - [Vinicius Antunes](https://github.com/vinicius-anp)
 - [Anshuman Tiwari](https://github.com/at610505)
--[Kyle Starrett](https://github.com/akstarre)
+- [Kyle Starrett](https://github.com/akstarre)
+- [Azan](https://github.com/azan-n)
 <!-- prettier-ignore-end -->
