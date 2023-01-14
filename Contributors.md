@@ -334,6 +334,7 @@
 - [Vishal Kanwar](https://github.com/Kanvi1)
 - Aniket Sonawane @Devsoc
 - [Samandar Abdukodirov] (https://github.com/abdukod1rov)
+- [Pradipta] (https://github.com/arnlea)
 - [Ayush Raj @DevsocPI]. (https://github.com/Aayuraju)
 - Shamit Khetan @DevSoc
 - Rocky Garcia
