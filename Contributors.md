@@ -34,7 +34,7 @@
 - [Remin T Roy](https://github.com/remindev)
 - [Sapnil Patel](https://github.com/SAPNILPATEL)
 - [Dipak Kalauni](https://github.com/KaloniGiga)
-- [rishmitar](https://github.com/RishmitaR) 
+- [rishmitar](https://github.com/RishmitaR)
 - [Anupam malviya](https://github.com/tech-wizard720)
 - [Nadim Bou Alwan](https://github.com/nadinator)
 - [Susmit Ullas](https://github.com/Susmit-Ullas)
@@ -156,7 +156,7 @@
 - [Prince Dawson](https://github.com/dawssonCodes)
 - [Jessica Kharbanda] (https://github.com/JessicaKharbanda)
 - [Sachin Joshi](https://github.com/sachudj)
-- Aryan 
+- Aryan
 - Leon
 - [Aarish Khan](https://github.com/aarishmkhan)
 - [Satyam Jha](https://github.com/coldkoffee)
@@ -211,7 +211,7 @@
 - Link
 - Derrick Brandt
 - [sillyangel](https://github.com/sillyangel)
-- JamesBond 
+- JamesBond
 - Seyed Mahdi Sadat
 - Jaseel Hassan Koolath
 - Tariqs26
@@ -224,7 +224,7 @@
 - [Oyelowo Oyeleye Samuel](https://github.com/sammy-yuntin)
   [siddharth verma](https://github.com/sidharthviz)
 - [Chintan Golakiya](https://github.com/chintan-golakiya)
-- [Diwas Rimal](https://github.com/diwasrimal) 
+- [Diwas Rimal](https://github.com/diwasrimal)
 - [Shigaichi](https://github.com/Shigaichi)
 - [Neil Ohene](https://github.com/dvc-77)
 - dsvetina
@@ -471,7 +471,7 @@
 - [Sanchay Sahay]@DevsocPI
 - [Deept Ratna @DevsocPI]
 - [Nathan FAbio](https://github.com/nathanfabio)
-- [Joao Victor](https://github.com/x1ibns) 
+- [Joao Victor](https://github.com/x1ibns)
 - [Parth Naik]@DevsocPI
 - [Alejandro Reyes Cerecero](https://github.com/Cerecero)
 - [Abdurahman](https://github.com/abdurahmanjabiin)
@@ -978,7 +978,7 @@
 - [divya](https://github.com/Divya2k05)
 - [Arunima Chaudhuri](https://github.com/tinniaru3005)
 - [Arman Kumar Aditya@DevsocPI]
-- [Mike Bale](https://github.com/ripzerotwo) 
+- [Mike Bale](https://github.com/ripzerotwo)
 - [Domenico Ivan Fortuna](https://github.com/dromex22)
 - [Fredy Diaz](https://github.com/dddfred)
 - [Celeste Dubini](https://github.com/celestedubini)
@@ -1360,7 +1360,7 @@
 - [Sai Manoj Etcherla](https://github.com/saimanoj22)
 - [Adam Anderson](https://github.com/Adam-E-Anderson)
 - [Mayank Agrawal](https://github.com/Mayank30-creator)
-- [Emon](https://github.com/smremon) 
+- [Emon](https://github.com/smremon)
 - [Sham Vijay](https://github.com/iamvbenz49)
 - [Ryo Muta](https://github.com/r-mutax)
 - [Murilo Barbosa](https://github.com/murilodab)
@@ -1560,6 +1560,7 @@
 - [Alessandro Saggese 😎](https://github.com/asaggse/)
 - [Vinicius Antunes](https://github.com/vinicius-anp)
 - [Anshuman Tiwari](https://github.com/at610505)
+- [Ali Alfie](https://github.com/alialfie)
 -[Kyle Starrett](https://github.com/akstarre)
 -[Amrit Rai](https://github.com/retrogtx)
 <!-- prettier-ignore-end -->
