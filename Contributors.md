@@ -1,8 +1,8 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [AKP](https://github.com/AungKhinePhyo)
-- [Nandu P K](https://github.com/pkNandu)
 - [Jainex 😄](https://github.com/Jainex17)
+- [Nandu P K](https://github.com/pkNandu)
 - [Hamdi Vazim](https://github.com/hamdivazim)
 - [Radu Bagrin](https://github.com/rbagrin)
 - [Md. Rumon Khan](https://github.com/rumon5h)
