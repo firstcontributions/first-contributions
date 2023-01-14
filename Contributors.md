@@ -36,6 +36,7 @@
 - [rishmitar](https://github.com/RishmitaR) 
 - [Anupam malviya](https://github.com/tech-wizard720)
 - [Nadim Bou Alwan](https://github.com/nadinator)
+- [Susmit Ullas](https://github.com/Susmit-Ullas)
 - [Axorax](https://github.com/axorax)
 - [Gabriel Bellasco](https://github.com/GabrielBellasco)
 - [Omar Gabriel](https://github.com/omargabrielaguilar)
