@@ -33,6 +33,7 @@
 - [Shreya Suthar](https://github.com/shreyasuthar655)
 - [ulmalana](https://github.com/ulmalana)
 - [Remin T Roy](https://github.com/remindev)
+- [Utkarsh Chauhan](https://github.com/im-utkarsh)
 - [Sapnil Patel](https://github.com/SAPNILPATEL)
 - [Dipak Kalauni](https://github.com/KaloniGiga)
 - [rishmitar](https://github.com/RishmitaR) 
