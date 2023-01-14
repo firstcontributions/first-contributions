@@ -1569,4 +1569,5 @@
 - [Anshuman Tiwari](https://github.com/at610505)
 -[Kyle Starrett](https://github.com/akstarre)
 -[Amrit Rai](https://github.com/retrogtx)
+- [Nicolas Guruphat](https://github.com/NicolasGuruphat)
 <!-- prettier-ignore-end -->
