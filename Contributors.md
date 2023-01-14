@@ -47,6 +47,7 @@
 - [C0LDRAM3N] (https://github.com/C0LDRAM3N)
 - [Shubham] (https://github.com/Shubham-Godambe)
 - [Nur Farah](https://github.com/Nur-farah)
+- [Hertanto Irawan](https://github.com/hertantoirawan)
 - xyl
 - [Dudu Zar] (https://duduzar.com)
 - [Shrey Kumar] (https://github.com/Shrey-1123)
