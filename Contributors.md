@@ -1374,6 +1374,7 @@
 - [Phillip Yen](https://github.com/yphillip)
 - [kan01234](https://github.com/kan01234/)
 - [lazylittlestar](https://github.com/lazylittlestar)
+- [japesjake](http://github.com/japesjake)
 - [EvyatarEsterson🙂](https://github.com/EvyatarEsterson)
 - [Linnea Herzer](https://github.com/lynn109)
 - [isaacc16](https://github.com/isaacc16)
