@@ -32,6 +32,7 @@
 - [Serge Basa](https://github.com/stikkas)
 - [Shreya Suthar](https://github.com/shreyasuthar655)
 - [ulmalana](https://github.com/ulmalana)
+- [Sahil](https://github.com/sahil-1729)
 - [Remin T Roy](https://github.com/remindev)
 - [Utkarsh Chauhan](https://github.com/im-utkarsh)
 - [Sapnil Patel](https://github.com/SAPNILPATEL)
