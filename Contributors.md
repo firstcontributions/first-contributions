@@ -58,6 +58,7 @@
 - [Awais](https://github.com/TechTronixx)
 - [Tharun Harish](https://github.com/Tharun-Ninja)
 - [Devender Musukula](https://github.com/DevenderMusukula)
+- [Soroush Mahdavi] (https://github.com/sushiboytr)
 - [karthikeyan1946](https://github.com/karthikeyan1946)
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
 - [Lee Tebbo Tebbs](https://github.com/leetebbs)
