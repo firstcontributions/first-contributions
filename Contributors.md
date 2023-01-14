@@ -1560,6 +1560,7 @@
 - [Alessandro Saggese 😎](https://github.com/asaggse/)
 - [Vinicius Antunes](https://github.com/vinicius-anp)
 - [Anshuman Tiwari](https://github.com/at610505)
--[Kyle Starrett](https://github.com/akstarre)
--[Amrit Rai](https://github.com/retrogtx)
+- [Kyle Starrett](https://github.com/akstarre)
+- [Amrit Rai](https://github.com/retrogtx)
+- [Avaray](https://github.com/Avaray)
 <!-- prettier-ignore-end -->
