@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [AKP](https://github.com/AungKhinePhyo)
+- [Eklemis](https://github.com/eklemis)
 - [Jainex 😄](https://github.com/Jainex17)
 - [Nandu P K](https://github.com/pkNandu)
 - [Hamdi Vazim](https://github.com/hamdivazim)
