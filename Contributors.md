@@ -1311,7 +1311,6 @@
 - [Arjava Tripathi](https://github.com/ArjavaTripathi)
 - [Amit Roy](https://github.com/amitroy-thedev)
 - [Siddhi Khade](https://github.com/SiddhiKhade)
-
 - [Pavanteja](https://github.com/Pavanteja17)
 - [Tanishq Agarwal](https://github.com/Tanishq2807)
 - [Shaurya Gupta](https://github.com/Shaurya50211)
