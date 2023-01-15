@@ -1584,4 +1584,5 @@
 -[Amrit Rai](https://github.com/retrogtx)
 - [Nicolas Guruphat](https://github.com/NicolasGuruphat)
 - [Kenneth Presto](https://github.com/Kenneth12215)
+- [Michal Gagos](https://github.com/lizard123137)
 <!-- prettier-ignore-end -->
