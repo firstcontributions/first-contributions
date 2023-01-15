@@ -177,6 +177,7 @@
 - [Sachin Joshi](https://github.com/sachudj)
 - Aryan 
 - Leon
+- Prajwal Haniya
 - [Aarish Khan](https://github.com/aarishmkhan)
 - [Satyam Jha](https://github.com/coldkoffee)
 - [Prakhar Verma](https://github.com/parkkrrr)
