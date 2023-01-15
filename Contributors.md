@@ -27,6 +27,7 @@
 -[Snehal Shyamsukha](https://github.com/snehal-shyamsukha)
 - [Tan Shao Chong](https://github.com/ackselz)
 - [Amanuil Boku](https://github.com/amanuil)
+- [Reid Gubler](https://github.com/reidemption)
 - [Danny Carlton](https://github.com/thedannycarlton)
 - [kyawZin](https://github.com/kyawZin24)
 - [Suryansh Upadhyay](https://github.com/linneszyx)
