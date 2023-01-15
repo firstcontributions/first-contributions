@@ -1586,7 +1586,11 @@
 -[Kyle Starrett](https://github.com/akstarre)
 -[Amrit Rai](https://github.com/retrogtx)
 - [Nicolas Guruphat](https://github.com/NicolasGuruphat)
+<<<<<<< HEAD
 - [Kenneth Presto](https://github.com/kennethportizpresto)
+=======
+- [Kenneth Presto](https://github.com/Kenneth12215)
+>>>>>>> b649c287bc9073dcb8149338740ac073277424c0
 - [Michal Gagos](https://github.com/lizard123137)
 - [Vivek Srivastava](https://github.com/vivekfe)
 - [BuddhaHeadDev](https://github.com/BuddhaHeadDev)
