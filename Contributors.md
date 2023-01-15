@@ -18,6 +18,7 @@
 - [Saad Vakharia](https://github.com/SaadVakharia)
 - [KiranJodhani](https://github.com/KiranJodhani)
 - [Arun](https://github.com/darkclown97)
+- [Bhavin Raichura](https://github.com/BhavinRaichura)
 -[jasonroy](https://github.com/jasonroy)
 -[Tejas Borkar](https://github.com/tejas-borkar22/)
 -[Emily Xia](https://github.com/emiilyxiia)
