@@ -1558,6 +1558,7 @@
 - [Roshan Kumar](https://github.com/roshan798)
 - [Thanos Kiver]
 - [Umi]
+- [Harshit](https://github.com/kaka-rot)
 - [Reza Sariful Fikri](https://github.com/rezafikkri)
 - [Samuel Essilfie](https://github.com/samezzz)
 - [Anna Burdanova](https://github.com/AnnaBurd)
