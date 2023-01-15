@@ -1604,4 +1604,5 @@
 - [grigaut](https://github.com/grigaut)
 - [Alan](https://github.com/Alan-John-Byrne)
 - [Rekerito](https://github.com/Rxkerito)
+- [Harkirat Cheema](https://github.com/harry-cheema07)
 <!-- prettier-ignore-end -->
