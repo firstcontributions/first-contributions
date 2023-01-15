@@ -91,6 +91,7 @@
 - [Olaleye Fuad](https://github.com/theylovefuad)
 - [Divyanshu Trivedi]
 - [Rupesh Mangalam](https://github.com/springdaysenpai)
+- [Niso](https://github.com/nisanohana3)
 - [joel kores](https://github.com/0xAckerMan)
 - [Sol Avancini Noceti](https://github.com/avanoc)
 - [BartVNim](https://github.com/BartVNim)
