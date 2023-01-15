@@ -484,6 +484,7 @@
 - [Haroldo Curti]
 - [Shrankhla](https://github.com/shrankhla20)
 - [devdeveloper1](https://github.com/devdeveloper1)
+- [Mert Kaan Guzel](https://github.com/mertkaanguzel)
 - [DippleThree](https://github.com/GGitHill)
 - [Petra Ojamanhor](https://github.com/Petra-Cae)
 - [Sudarhan Mallibhat](https://github.com/sudarshanmg)
