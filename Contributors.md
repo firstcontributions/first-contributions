@@ -1592,4 +1592,5 @@
 - [Vivek Srivastava](https://github.com/vivekfe)
 - [BuddhaHeadDev](https://github.com/BuddhaHeadDev)
 - [Kevin](https://github.com/KevinIsCool79)
+- [grigaut](https://github.com/grigaut)
 <!-- prettier-ignore-end -->
