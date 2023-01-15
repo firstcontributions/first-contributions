@@ -1587,4 +1587,5 @@
 - [Nicolas Guruphat](https://github.com/NicolasGuruphat)
 - [Kenneth Presto](https://github.com/Kenneth12215)
 - [Michal Gagos](https://github.com/lizard123137)
+- [Vivek Srivastava](https://github.com/vivekfe)
 <!-- prettier-ignore-end -->
