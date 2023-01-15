@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 - [AKP](https://github.com/AungKhinePhyo)
 - [Deepak Papnoi - 00123]
+- [Divyanshu Kushwaha](https://github.com/divyanshu69)
 - [Aviroop Banerjee](https://github.com/Aviroop-001)
 - [Eklemis](https://github.com/eklemis)
 - [Jainex 😄](https://github.com/Jainex17)
