@@ -83,6 +83,7 @@
 - [Vinícius Assumpção de Araújo](https://github.com/viniman27)
 - [Shade St Claire](https://github.com/regeum-deus/)
 - [Luke Soderquist](https://github.com/lsoderquist)
+- [Simon Ralek](https://github.com/SimonRalek)I[I
 - [Elizabeth Flack](https://github.com/Songlore)
 - [NLH](https://github.com/Vincent-NHtun)
 - [Amrit Raj](https://github.com/amritrj)
