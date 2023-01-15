@@ -58,6 +58,7 @@
 - [Hertanto Irawan](https://github.com/hertantoirawan)
 - xyl
 - [Dudu Zar] (https://duduzar.com)
+- [bruhnugget-nice] (https://github.com/bruhnugget-nice)
 - [Shrey Kumar] (https://github.com/Shrey-1123)
 - [Rafli Muhammad](https://github.com/raflimuhammadd)
 - [Elena Kharitonova](https://github.com/Alenuha)
