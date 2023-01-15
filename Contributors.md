@@ -27,6 +27,7 @@
 -[Snehal Shyamsukha](https://github.com/snehal-shyamsukha)
 - [Tan Shao Chong](https://github.com/ackselz)
 - [Amanuil Boku](https://github.com/amanuil)
+- [Reid Gubler](https://github.com/reidemption)
 - [Danny Carlton](https://github.com/thedannycarlton)
 - [kyawZin](https://github.com/kyawZin24)
 - [Suryansh Upadhyay](https://github.com/linneszyx)
@@ -45,6 +46,7 @@
 - [Anupam malviya](https://github.com/tech-wizard720)
 - [Nadim Bou Alwan](https://github.com/nadinator)
 - [Susmit Ullas](https://github.com/Susmit-Ullas)
+- Grace Henke
 - [Axorax](https://github.com/axorax)
 - [Gabriel Bellasco](https://github.com/GabrielBellasco)
 - [Omar Gabriel](https://github.com/omargabrielaguilar)
@@ -1579,4 +1581,5 @@
 -[Kyle Starrett](https://github.com/akstarre)
 -[Amrit Rai](https://github.com/retrogtx)
 - [Nicolas Guruphat](https://github.com/NicolasGuruphat)
+- [Kenneth Presto](https://github.com/Kenneth12215)
 <!-- prettier-ignore-end -->
