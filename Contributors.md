@@ -1586,7 +1586,7 @@
 -[Kyle Starrett](https://github.com/akstarre)
 -[Amrit Rai](https://github.com/retrogtx)
 - [Nicolas Guruphat](https://github.com/NicolasGuruphat)
-- [Kenneth Presto](https://github.com/Kenneth12215)
+- [Kenneth Presto](https://github.com/kennethportizpresto)
 - [Michal Gagos](https://github.com/lizard123137)
 - [Vivek Srivastava](https://github.com/vivekfe)
 - [BuddhaHeadDev](https://github.com/BuddhaHeadDev)
