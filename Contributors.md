@@ -1598,4 +1598,5 @@
 - [Kevin](https://github.com/KevinIsCool79)
 - [grigaut](https://github.com/grigaut)
 - [Alan](https://github.com/Alan-John-Byrne)
+- [Rekerito](https://github.com/Rxkerito)
 <!-- prettier-ignore-end -->
