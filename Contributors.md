@@ -194,6 +194,7 @@
 - Leon
 - Prajwal Haniya
 - [Aarish Khan](https://github.com/aarishmkhan)
+- [Tobi Abraham](https://github.com/Abacode7)
 - [Satyam Jha](https://github.com/coldkoffee)
 - [Prakhar Verma](https://github.com/parkkrrr)
 - [Snehil Chhabria](https://github.com/snehilchhbaria)
@@ -1620,4 +1621,5 @@
 - [Rekerito](https://github.com/Rxkerito)
 - [Harkirat Cheema](https://github.com/harry-cheema07)
 - [Harshita Upadhyay](https://github.com/harshita130602)
+- [Satyam Rai](https://github.com/Satyam-R)
 <!-- prettier-ignore-end -->
