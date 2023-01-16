@@ -940,6 +940,7 @@
 - [Kartik Kumar](https://github.com/yellowterrum)
 - [devzohaib](https://github.com/devzohaib)
 - [Rajon Dey](https://github.com/RajonDey)
+- [Ben Reinhardt](https://github.com/ben-reinhardt)
 - [Fonda Jalil](https://github.com/JalilGafar)
 - [Jacky He](https://github.com/ihkk)
 - [Adanvasconcelos](https://github.com/AdanVasconcelos)
