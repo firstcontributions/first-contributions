@@ -1593,6 +1593,7 @@
 - [Damon Xue](https://github.com/damonxue)
 - [Honoris Gratias Ndereyimana. :wink:](https://github.com/nhonorisg/)
 - [Alessandro Saggese 😎](https://github.com/asaggse/)
+  [sucnd ](https://github.com/sucnd/) 
 - [Vinicius Antunes](https://github.com/vinicius-anp)
 - [Anshuman Tiwari](https://github.com/at610505)
 -[Kyle Starrett](https://github.com/akstarre)
