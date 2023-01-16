@@ -1185,6 +1185,7 @@
 - [Thomas Furay](https://github.com/TFuray)
 - [Piyush Raviraj](https://github.com/Piyushraviraj2611)
 - [Dwayne Gibbs](https://dwaynegibbs.net)
+- [Angel Velasquez](https://github.com/angel-721)
 - [Tasnim@DevSocPI](https://github.com/tasnim496)
 - [AVINASH YADAV](https://github.com/Happylife10)
 - [Joshua Knorz](https://github.com/JoshKn)
