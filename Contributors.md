@@ -1219,7 +1219,7 @@
 - [Suhyeon Yu](https://github.com/RSuhyeon)
 - [Rajat](https://github.com/alphadinu)
 - [Fitriningtyas](https://github.com/fitrifityanto)
-- [Saifali Prasla](https://github.com/Saifali786)
+- [Saif Ali Prasla](https://github.com/Saifali786)
 <!-- prettier-ignore-end -->
 
 Ulises Quiñonez
