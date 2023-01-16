@@ -634,6 +634,7 @@
 - [Mohit Marathe](https://github.com/Mohit2758)
 - [Edwin Kim](https://github.com/edwinkim97)
 - [Varun Shah](https://github.com/varunlmxd)
+- [Jakub](https://github.com/burto9)
 - [Lasya Sandhu@DevsocPI](https://github.com/lasyasandhu)
 - [Samer Malique](https://github.com/sammal99)
 - [Manish GS Parmar@DevSocPI](https://github.com/ManishWho)
