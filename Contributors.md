@@ -255,6 +255,7 @@
 - [sillyangel](https://github.com/sillyangel)
 - JamesBond 
 - Seyed Mahdi Sadat
+- Patrick McKeever
 - Jaseel Hassan Koolath
 - Tariqs26
 - Yashwanth Krishna
