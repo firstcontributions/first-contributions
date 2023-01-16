@@ -629,6 +629,7 @@ Rhythm Sharma
 - [Michelle Wong](https://github.com/strawberrie68/)
 - [Pray Raskapoorwala]@DevSocPI
 - [Lars Vadgaard](https://github.com/vadgaard)
+- [Hrishikesh Tule](https://github.com/Hrishi5111998)
 - [Suraj Patra](https://github.com/Suraj-Patra)
 - [Krishi Dedhia@DevsonIP](https:/github.com/kdrcks)
 - [Mallela D. Vinay](https://github.com/MD571)
