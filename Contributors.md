@@ -339,6 +339,7 @@
 - Neha Sangal
 - Onadeko Oluwateniola
 - [CherylChaudhari@DevsocPI](https://github.com/cherxoxo10)
+- [Zeynep Dellal] (https://github.com/zedyjy)
 - [Saptarshi Ghosh @devsoc2022](https://github.com/zack-carnet)
 - [Somnath Golui](https://github.com/somu-code)
 - [Jiving Pete's Frisky Dynamite](https://github.com/jives-mcgee)
