@@ -1619,4 +1619,5 @@
 - [Alan](https://github.com/Alan-John-Byrne)
 - [Rekerito](https://github.com/Rxkerito)
 - [Harkirat Cheema](https://github.com/harry-cheema07)
+- [Abhishek Kumar Chauhan](https://github.com/chauhan971)
 <!-- prettier-ignore-end -->
