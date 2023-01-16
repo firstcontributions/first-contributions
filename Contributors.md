@@ -1334,6 +1334,7 @@
 - [Deept Ratna @devsocpi]
 - [PDPkrypto](https://github.com/kodevasse)
 - [Nishad Kotkar]@Devsoc PI
+- [Avaray](http://github.com/Avaray)
 - [Utsav Akash Naskar](https://github.com/Utsav1999)
 - [Anish Doshi](https://github.com/doshianish8)
 - [Saurabh Sinha](https://github.com/sinhasaurabh3104)
