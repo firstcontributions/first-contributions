@@ -1620,4 +1620,5 @@
 - [Rekerito](https://github.com/Rxkerito)
 - [Harkirat Cheema](https://github.com/harry-cheema07)
 - [Harshita Upadhyay](https://github.com/harshita130602)
+- [Ashu Rathore](https://github.com/ashurathore2k2)
 <!-- prettier-ignore-end -->
