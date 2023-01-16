@@ -1621,4 +1621,5 @@
 - [Harkirat Cheema](https://github.com/harry-cheema07)
 - [Harshita Upadhyay](https://github.com/harshita130602)
 - [Satyam Rai](https://github.com/Satyam-R)
+- [Rahul Singh](https://github.com/harshita130602)
 <!-- prettier-ignore-end -->
