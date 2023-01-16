@@ -140,6 +140,7 @@
 - [Ninad Patil](https://github.com/Ninad-Patil)
 - [Warren Cartwright](https://github.com/guarin1949)
 - [Jacek Smoter](https://github.com/jackz070)
+- [GowtherZa](https://github.com/GowtherZa/)
 - [Masaya Kj](https://github.com/Massas)
 - [Daniel Lynch](https://github.com/DPL9748)
 - [majR - Mohammed Jauharali](https://github.com/mjjauhar)
