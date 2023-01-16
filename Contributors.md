@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 - [AKP](https://github.com/AungKhinePhyo)
 - [Deepak Papnoi - 00123]
+Himanshu Tamta
 - [Harsh Kumar Raj](https://github.com/harshkumarraj)
   [Yashkumar Nemane](https://github.com/yashnemane)
 - [David Martinez](https://github.com/NicAtlas)
