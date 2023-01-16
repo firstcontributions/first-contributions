@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Parth Sharma](https://github.com/pxs4528)
 - [AKP](https://github.com/AungKhinePhyo)
 - [Deepak Papnoi - 00123]
 - [Harsh Kumar Raj](https://github.com/harshkumarraj)
