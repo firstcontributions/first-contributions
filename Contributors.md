@@ -10,6 +10,7 @@
 - [Aviroop Banerjee](https://github.com/Aviroop-001)
 - [Eklemis](https://github.com/eklemis)
 - [Jainex 😄](https://github.com/Jainex17)
+[Moi 😄](https://github.com/12moi)
 - [Nandu P K](https://github.com/pkNandu)
 - [Arpit Jain](https://github.com/code-arpit) 
 - [Rithick Chowdhury](https://github.com/Rithick69)
