@@ -1585,6 +1585,7 @@
 - [Prakhar Medhavi](https://github.com/pmedhavi)
 - [Hans Santos](https://github.com/hansxavier)
 - [Roshan Kumar](https://github.com/roshan798)
+- [Gawain Hewitt](https://github.com/gawainhewitt)
 - [Thanos Kiver]
 - [Umi]
 - [Harshit](https://github.com/kaka-rot)
