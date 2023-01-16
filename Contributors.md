@@ -5,6 +5,7 @@
 - [Harsh Kumar Raj](https://github.com/harshkumarraj)
   [Yashkumar Nemane](https://github.com/yashnemane)
 - [David Martinez](https://github.com/NicAtlas)
+- [Dhanujha](https://github.com/Dhanujha)
 - [Divyanshu Kushwaha](https://github.com/divyanshu69)
 - [Aviroop Banerjee](https://github.com/Aviroop-001)
 - [Eklemis](https://github.com/eklemis)
