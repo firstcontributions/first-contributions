@@ -232,6 +232,7 @@
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 -[Abdiwali Eid](https://github.com/Abdiwali-Eid)
 - [Nasyr Akhmadob](https://github.com/darrowv)
+- Damian Johns
 - [Allan Sifuna](https://github.com/allansifuna)
 - [Sanskar Mundhra@DevsocPI](https://github.com/SunMoon97)
 - [Habeeb Tijani](https://github.com/xperience001)
