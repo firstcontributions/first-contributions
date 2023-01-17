@@ -37,5 +37,28 @@ $ git version 2.34.1
 With Git successfully installed, you can now proceed below by setting it up.
 
 # Set up Git
+Configuration can be achieved by using the git config command. 
+Specifically, you need to provide your name and email address because Git embeds this information into each commit you do. 
+You can add this information by typing:
 
-Coming soon...
+
+Now that we are done with installing Git, let us configure it for first time use using "git config" command.
+We need to  make sure your username and email address are set correctly. To set them, use the command:
+
+```shell
+$ git config --global user.name "Your Name"
+$ git config --global user.email "youremail@domain.com"
+```
+You can display all the configuration items that have been set by entering the following command in your terminal:
+
+```shell
+$ git config --list
+```
+
+If all config field have been set up to your need the output should look something like
+
+```shell
+user.name=Your Name
+user.email=youremail@domain.com
+```
+...
