@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Justin Chang](https://github.com/jhchang)
 - [Parth Sharma](https://github.com/pxs4528)
 - [AKP](https://github.com/AungKhinePhyo)
 - [Deepak Papnoi - 00123]
