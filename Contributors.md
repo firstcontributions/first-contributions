@@ -818,6 +818,7 @@
 - [Sahil Barsaiyan](https://github.com/Sahilb12)
 - [Dario Gumucio](https://github.com/dariogumucio)
 - [John Denver Bidong](https://github.com/jbidz)
+- [Gilberto Rosendo](https://github.com/GilbertoRosendo)
 - [Raghuram Aluru@DevSoc]
 - [Sid Saythongphet](https://github.com/SidSaythongphet)
 - [Aman Bhagat](https://GitHub.com/sanayaa)
