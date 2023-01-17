@@ -1646,4 +1646,5 @@
 - [Harshita Upadhyay](https://github.com/harshita130602)
 - [Satyam Rai](https://github.com/Satyam-R)
 -[Manish Yadav](https://github.com/manishyadav951)
+- [Linussex-tips](https://github.com/LinusSex-Tips)
 <!-- prettier-ignore-end -->
