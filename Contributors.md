@@ -4,6 +4,7 @@
 - [Parth Sharma](https://github.com/pxs4528)
 - [AKP](https://github.com/AungKhinePhyo)
 - [Deepak Papnoi - 00123]
+- [Siddharth Rathore](https://github.com/s1dbugs)
 - [Harsh Kumar Raj](https://github.com/harshkumarraj)
   [Yashkumar Nemane](https://github.com/yashnemane)
 - [David Martinez](https://github.com/NicAtlas)
