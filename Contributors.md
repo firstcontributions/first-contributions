@@ -1640,6 +1640,7 @@
 - [BuddhaHeadDev](https://github.com/BuddhaHeadDev)
 - [Kevin](https://github.com/KevinIsCool79)
 - [grigaut](https://github.com/grigaut)
+- [Sarat Kota](https://github.com/kotasarat)
 - [Alan](https://github.com/Alan-John-Byrne)
 - [Rekerito](https://github.com/Rxkerito)
 - [Harkirat Cheema](https://github.com/harry-cheema07)
