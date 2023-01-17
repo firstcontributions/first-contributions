@@ -1652,4 +1652,5 @@
 - [Satyam Rai](https://github.com/Satyam-R)
 -[Manish Yadav](https://github.com/manishyadav951)
 - [Linussex-tips](https://github.com/LinusSex-Tips)
-<!-- prettier-ignore-end -->
+- [leon-arndt](https://github.com/leon-arndt)
+  <!-- prettier-ignore-end -->
