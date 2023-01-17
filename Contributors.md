@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Digpal Parmar](https://github.com/nivaran)
 - [Parth Sharma](https://github.com/pxs4528)
 - [AKP](https://github.com/AungKhinePhyo)
 - [Deepak Papnoi - 00123]
