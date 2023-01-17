@@ -13,7 +13,7 @@
 - [Aviroop Banerjee](https://github.com/Aviroop-001)
 - [Eklemis](https://github.com/eklemis)
 - [Jainex 😄](https://github.com/Jainex17)
-[Moi 😄](https://github.com/12moi)
+- [Moi 😄](https://github.com/12moi)
 - [Nandu P K](https://github.com/pkNandu)
 - [Arpit Jain](https://github.com/code-arpit) 
 - [Mitch Sfakianos](https://github.com/mazarinno)
@@ -1641,5 +1641,6 @@
 - [Harkirat Cheema](https://github.com/harry-cheema07)
 - [Harshita Upadhyay](https://github.com/harshita130602)
 - [Satyam Rai](https://github.com/Satyam-R)
--[Manish Yadav](https://github.com/manishyadav951)
+- [Manish Yadav](https://github.com/manishyadav951)
+- [Muhammed Shittu](https://github.com/devshittu)
 <!-- prettier-ignore-end -->
