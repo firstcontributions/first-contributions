@@ -190,6 +190,7 @@
 - [Pawel Wrona](https://github.com/Rimpy99/)
 - Nandita Gupta
 - Surabhi Nikhila
+- [Quentin CLAVIER](https://github.com/ClavierQuentin)
 - [John Mwega](https://github.com/CodeDroid999)
 - [Ellie O'Connor] (https://github.com/ellieoconnor)
 - [HemanthB03](https://github.com/HemanthB03)
