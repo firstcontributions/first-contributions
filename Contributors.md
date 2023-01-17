@@ -6,6 +6,7 @@
 - [Deepak Papnoi - 00123]
 - [Siddharth Rathore](https://github.com/s1dbugs)
 - [Harsh Kumar Raj](https://github.com/harshkumarraj)
+- [Satya Barghav](https://github.com/satyabarghav)
   [Yashkumar Nemane](https://github.com/yashnemane)
 - [David Martinez](https://github.com/NicAtlas)
 - [Divyanshu Kushwaha](https://github.com/divyanshu69)
