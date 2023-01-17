@@ -1582,6 +1582,7 @@
 - [Shalini Gupta](https://github.com/ShaliniGupta14)
 - [nikhilhex](https://github.com/nikhilhex)
 - [Odachannnn](https://github.com/Odachannnn)
+- [Matteo Salvestrini](https://github.com/hpfs74)
 - [OG_Matcha](https://github.com/OG-Matcha)
 - [Archer](https://github.com/c121914yu)
 - [Nataliya Kondranina](https://github.com/kondranina)
