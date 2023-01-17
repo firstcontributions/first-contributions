@@ -9,6 +9,7 @@
   [Yashkumar Nemane](https://github.com/yashnemane)
 - [David Martinez](https://github.com/NicAtlas)
 - [Divyanshu Kushwaha](https://github.com/divyanshu69)
+- [Ekam Bitt](https://github.com/Ekam-Bitt)
 - [Aviroop Banerjee](https://github.com/Aviroop-001)
 - [Eklemis](https://github.com/eklemis)
 - [Jainex 😄](https://github.com/Jainex17)
