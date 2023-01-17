@@ -23,6 +23,7 @@
 - [Hamdi Vazim](https://github.com/hamdivazim)
 - [Radu Bagrin](https://github.com/rbagrin)
 - [LoRdSoban](https://github.com/LoRdSoban)
+- [mavaro0707](https://github.com/mavaro0707)
 - [Md. Rumon Khan](https://github.com/rumon5h)
 - [Jam C.](https://github.com/maiqxx)
 - [Jarol Riera](https://github.com/jarolthecoder)
