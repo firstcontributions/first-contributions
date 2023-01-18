@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Edoye Ogoba David](https://github.com/DoyeDesigns)
 - [Nehorai Tubul](https://github.com/nehoraitubul)
 - [Digpal Parmar](https://github.com/nivaran)
 - [Parth Sharma](https://github.com/pxs4528)
