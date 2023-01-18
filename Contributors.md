@@ -1133,6 +1133,7 @@
 - [Enrique Ambrocio](https://github.com/Enrique-Ambrocio)
 - [Martin Poncio](https://github.com/lmponcio)
 - [Brock Price](https://github.com/brockwrites)
+- [bronkp](https://github.com/bronkp)
 - [Kiran Kuumar Mohanty](https://github.com/theluckiestsoul)
 - [Adam Chen](https://github.com/adamchen151)
 - [Jonathan G Araya](https://github.com/Jonathana1106)
