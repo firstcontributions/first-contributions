@@ -675,6 +675,7 @@
 - [Henrikas Budrys](https://github.com/hbportfolio)
 - [Vijendra Pandey](https://github.com/VijendraPandey)
 - [WikkiE](https://github.com/Wikkiee)
+- [Renata Toth](https://github.com/renatatoth)
 - [Erik Opinaldo](https://github.com/erikopinaldo)
 - [Ian Conceicao](https://github.com/IanConceicao)
 - [Utpal Savaliya](https://github.com/utpalsavliya)
