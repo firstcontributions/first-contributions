@@ -1659,6 +1659,7 @@
 - [Vivek Srivastava](https://github.com/vivekfe)
 - [BuddhaHeadDev](https://github.com/BuddhaHeadDev)
 - [Kevin](https://github.com/KevinIsCool79)
+- [Pedrodc] (https://github.com/pedrodc7)
 - [grigaut](https://github.com/grigaut)
 - [Sarat Kota](https://github.com/kotasarat)
 - [Alan](https://github.com/Alan-John-Byrne)
