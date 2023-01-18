@@ -388,3 +388,7 @@ FodyWeavers.xsd
 *.sln.iml
 .vscode/settings.json
 .DS_Store
+
+# learnhubs
+*.materials
+*.sources
