@@ -9,7 +9,7 @@
 - [Deepak Papnoi - 00123]
 - [Siddharth Rathore](https://github.com/s1dbugs)
 - [Harsh Kumar Raj](https://github.com/harshkumarraj)
-- [https://github.com/ssiripuram]
+- [Srini] (https://github.com/ssiripuram)
 - [Satya Barghav](https://github.com/satyabarghav)
   [Yashkumar Nemane](https://github.com/yashnemane)
 - [Glaucio Oliveira](https://github.com/7glaucio)
