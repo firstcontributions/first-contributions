@@ -47,6 +47,7 @@
 - [Shubham Yennamwar](https://github.com/justshubham07)
 - [Elvin F F](https://github.com/cider23)
 - [emily](https://github.com/Yingemily)
+- [Kamwa Emmanuelle Alix][https://github.com/emmanuellekamwa/]
 - [pradipta-kalita](https://github.com/pradipta-kalita)
 -[Snehal Shyamsukha](https://github.com/snehal-shyamsukha)
 - [Tan Shao Chong](https://github.com/ackselz)
@@ -1653,3 +1654,6 @@
 -[Manish Yadav](https://github.com/manishyadav951)
 - [Linussex-tips](https://github.com/LinusSex-Tips)
 <!-- prettier-ignore-end -->
+
+
+[https://github.com/emmanuellekamwa/]: https://github.com/emmanuellekamwa/
