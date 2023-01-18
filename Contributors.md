@@ -1604,6 +1604,7 @@
 - [Matteo Salvestrini](https://github.com/hpfs74)
 - [OG_Matcha](https://github.com/OG-Matcha)
 - [Archer](https://github.com/c121914yu)
+- [Equan](https://github.com/equan4647)
 - [Nataliya Kondranina](https://github.com/kondranina)
 - [Christine Hannivan] (https://github.com/softrockstarr)
 - [Mohammed Saad](https://github.com/msaad7777/)
