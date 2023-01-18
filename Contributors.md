@@ -1586,6 +1586,7 @@
 - [Siddharth Thakur]@devsoc pi
 - [ashutosh anand](https://github.com/AshutoshAnand123)
 - [Jaiman Munshi](https://github.com/jaimanm)
+- [Jacob Larsen](https://github.com/jlarsen0206)
 - [Kena Dave](https://github.com/kenadave)
 - [Bahja isak mohamed](https://github.com/bahjaisack)
 - [Sujal-Burad](https://github.com/Sujal-Burad)
