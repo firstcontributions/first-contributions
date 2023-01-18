@@ -165,6 +165,7 @@
 - [Jacek Smoter](https://github.com/jackz070)
 - [GowtherZa](https://github.com/GowtherZa/)
 - [Masaya Kj](https://github.com/Massas)
+- [Nikodemas](https://github.com/nikodemas)
 - [Daniel Lynch](https://github.com/DPL9748)
 - [majR - Mohammed Jauharali](https://github.com/mjjauhar)
 - [Goutham K](https://github.com/gouthamhusky)
