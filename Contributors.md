@@ -1659,4 +1659,6 @@
 - [Linussex-tips](https://github.com/LinusSex-Tips)
 - [leon-arndt](https://github.com/leon-arndt)
 - [Rima Mei Handayani](https://github.com/rimamei)
+- [Chaitanya Dange](https://github.com/chaitanya-dange)
+  
   <!-- prettier-ignore-end -->
