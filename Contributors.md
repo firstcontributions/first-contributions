@@ -21,6 +21,7 @@
 [Moi 😄](https://github.com/12moi)
 - [Nandu P K](https://github.com/pkNandu)
 - [Arpit Jain](https://github.com/code-arpit) 
+- [Maya Sollen-Norrlin](https://github.com/Masoleno)
 - [Mitch Sfakianos](https://github.com/mazarinno)
 - [Deep Makadiya](https://github.com/mac-deep)
 - [Rithick Chowdhury](https://github.com/Rithick69)
