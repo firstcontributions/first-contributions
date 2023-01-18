@@ -66,6 +66,7 @@
 - [Sahil](https://github.com/sahil-1729)
 - [Remin T Roy](https://github.com/remindev)
 - [Utkarsh Chauhan](https://github.com/im-utkarsh)
+- [Krishna Praneet gudipaty](https://github.com/krishna-praneet)
 - [Sapnil Patel](https://github.com/SAPNILPATEL)
 - [William Kelvin](https://github.com/WilliamKSilva)
 - [Dipak Kalauni](https://github.com/KaloniGiga)
