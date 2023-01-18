@@ -1658,4 +1658,5 @@
 -[Manish Yadav](https://github.com/manishyadav951)
 - [Linussex-tips](https://github.com/LinusSex-Tips)
 - [leon-arndt](https://github.com/leon-arndt)
+- [Rima Mei Handayani](https://github.com/rimamei)
   <!-- prettier-ignore-end -->
