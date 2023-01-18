@@ -22,6 +22,7 @@
 - [Nandu P K](https://github.com/pkNandu)
 - [Arpit Jain](https://github.com/code-arpit) 
 - [Mitch Sfakianos](https://github.com/mazarinno)
+- [Deep Makadiya](https://github.com/mac-deep)
 - [Rithick Chowdhury](https://github.com/Rithick69)
 - [Hamdi Vazim](https://github.com/hamdivazim)
 - [Radu Bagrin](https://github.com/rbagrin)
