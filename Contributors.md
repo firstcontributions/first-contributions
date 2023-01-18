@@ -1657,6 +1657,7 @@
 - [Kenneth Presto](https://github.com/Kenneth12215)
 - [Michal Gagos](https://github.com/lizard123137)
 - [Vivek Srivastava](https://github.com/vivekfe)
+- [Ben Johansen](https://github.com/benjohansen)
 - [BuddhaHeadDev](https://github.com/BuddhaHeadDev)
 - [Kevin](https://github.com/KevinIsCool79)
 - [grigaut](https://github.com/grigaut)
