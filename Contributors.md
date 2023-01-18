@@ -1028,6 +1028,7 @@
 - [Anandaram](https://github.com/raawwm/first-contributions)
 - [Rafael Senziani](https://github.com/Senziani)
 - [Gaby Victoria](https://github.com/GabyVictoria0122)
+- [Tyne Clark](https://github.com/TyneClark)
 - [ANSH BHARGAVA]@DevsocPI
 - [Craig Putzstuck](https://github.com/argounova)
 - [Corentin Gouanvic](https://github.com/Stoaties)
