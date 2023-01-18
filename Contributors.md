@@ -143,6 +143,7 @@
 - [Manas Bhattarai](https://github.com/ManasB17)
 - Olukoya Babatunde Daniel
 - [Sudarshan](https://github.com/sudarshan161219)
+- [Jubril Abdulsalam](https://github.com/jubril-a)
 - [disconsolated](https://github.com/disconsolated)
 - [Matthew Kurtti](https://github.com/matthewkurtti)
 - [Bhuvanesh Purohit](https://github.com/BhuvaneshPurohit-git)
