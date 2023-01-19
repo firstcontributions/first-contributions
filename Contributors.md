@@ -1689,4 +1689,5 @@
 - [Shailja Bahuguna](https://github.com/shailja2727)
 -[Abhishek Yadav](https://github.com/Abhiyadav3114)
 - [Samrood Ali](https://github.com/SamroodAli)
+- [Marcus Otterstad](https://github.com/marcusotterstad)
   <!-- prettier-ignore-end -->
