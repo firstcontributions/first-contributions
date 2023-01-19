@@ -43,6 +43,7 @@
 - [KiranJodhani](https://github.com/KiranJodhani)
 - [Arun](https://github.com/darkclown97)
 - [Chelcey](https://github.com/cguptail)
+-nini
 - [Mayank Choudhary](https://github.com/Mayankchoudhary294)
 - [Eti-ini Effiong-Robert](https://github.com/eti-iniER)
 - [Bhavin Raichura](https://github.com/BhavinRaichura)
