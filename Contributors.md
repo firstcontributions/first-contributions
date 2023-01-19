@@ -21,6 +21,7 @@
 - [Eklemis](https://github.com/eklemis)
 - [Ambar Avalos](https://github.com/ambar12345)
 - [Jainex 😄](https://github.com/Jainex17)
+- [Ritwij Kashyap](https://github.com/ritwij-kp)
 - [Moi 😄](https://github.com/12moi)
 - [Abhilash Bijalwan](https://github.com/M4X1M4S)
 - [m3g4d1v3r](https://github.com/m3g4d1v3r)
