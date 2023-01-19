@@ -1697,4 +1697,5 @@
 - [Marcus Otterstad](https://github.com/marcusotterstad)
 - [Vaibhav Kore](https://github.com/Vaibhav240804)
 - [Jordan Bianco](https://github.com/Jordan-Bianco)
+- [Mehar Giri](https://github.com/mehargiri)
   <!-- prettier-ignore-end -->
