@@ -15,6 +15,7 @@
   [Yashkumar Nemane](https://github.com/yashnemane)
 - [Glaucio Oliveira](https://github.com/7glaucio)
 - [David Martinez](https://github.com/NicAtlas)
+- [Sven Güttner](https://github.com/S-Guettner)
 - [Divyanshu Kushwaha](https://github.com/divyanshu69)
 - [Ekam Bitt](https://github.com/Ekam-Bitt)
 - [Aviroop Banerjee](https://github.com/Aviroop-001)
