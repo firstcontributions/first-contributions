@@ -73,6 +73,7 @@
 - [Serge Basa](https://github.com/stikkas)
 - [Shreya Suthar](https://github.com/shreyasuthar655)
 - [ulmalana](https://github.com/ulmalana)
+- [Tarun Verma](https://github.com/tarun388)
 - [Sahil](https://github.com/sahil-1729)
 - [Remin T Roy](https://github.com/remindev)
 - [Utkarsh Chauhan](https://github.com/im-utkarsh)
