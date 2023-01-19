@@ -8,7 +8,6 @@
 - [AKP](https://github.com/AungKhinePhyo)
 - [Abhijith B N](https://github.com/AbhijithBn)
 - [Deepak Papnoi - 00123]
-- [Ambar Avalos](https://github.com/ambar12345)
 - [Siddharth Rathore](https://github.com/s1dbugs)
 - [Harsh Kumar Raj](https://github.com/harshkumarraj)
 - [Srini] (https://github.com/ssiripuram)
@@ -20,6 +19,7 @@
 - [Ekam Bitt](https://github.com/Ekam-Bitt)
 - [Aviroop Banerjee](https://github.com/Aviroop-001)
 - [Eklemis](https://github.com/eklemis)
+- [Ambar Avalos](https://github.com/ambar12345)
 - [Jainex 😄](https://github.com/Jainex17)
 - [Moi 😄](https://github.com/12moi)
 - [Abhilash Bijalwan](https://github.com/M4X1M4S)
