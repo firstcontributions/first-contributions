@@ -1059,6 +1059,7 @@
 - [PatentLobster](https://github.com/PatentLobster)
 - [Varun Prashant Kadkade](https://github.com/varun2430)
 - [Aditya Vijay](https://github.com/kiriotheo)
+- [Sadekur Rahaman](https://github.com/biplob14)
 - Giannis P.
 - [Deept Ratna @DevsocPI]
 - [Strelets Alexander](https://github.com/Tenkoru)
