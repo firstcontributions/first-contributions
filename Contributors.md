@@ -5,6 +5,7 @@
 - [Nehorai Tubul](https://github.com/nehoraitubul)
 - [Digpal Parmar](https://github.com/nivaran)
 - [Parth Sharma](https://github.com/pxs4528)
+- [Samuel K. Addison](https://github.com/SamAddy)
 - [AKP](https://github.com/AungKhinePhyo)
 - [Abhijith B N](https://github.com/AbhijithBn)
 - [Deepak Papnoi - 00123]
