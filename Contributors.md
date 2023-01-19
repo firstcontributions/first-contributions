@@ -1698,6 +1698,7 @@
 - [leon-arndt](https://github.com/leon-arndt)
 - [Rima Mei Handayani](https://github.com/rimamei)
 - [Shailja Bahuguna](https://github.com/shailja2727)
+- [John Escamilla] (http://github.com/J-Escamilla)
 -[Abhishek Yadav](https://github.com/Abhiyadav3114)
 - [Samrood Ali](https://github.com/SamroodAli)
 - [Marcus Otterstad](https://github.com/marcusotterstad)
