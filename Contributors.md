@@ -1691,4 +1691,5 @@
 -[Abhishek Yadav](https://github.com/Abhiyadav3114)
 - [Samrood Ali](https://github.com/SamroodAli)
 - [Marcus Otterstad](https://github.com/marcusotterstad)
+- [Jordan Bianco](https://github.com/Jordan-Bianco)
   <!-- prettier-ignore-end -->
