@@ -822,6 +822,7 @@
 - [Sourav_Kispotta](https://github.com/hattymatty1)
 - [Shreyas Nikam](https://github.com/nikam-shreyas)
 - [katumba jonathan paul](https://github.com/kpaool)
+- [Veerpal Kaur](https://github.com/vee339)
 - [Sushil Suthar](https://github.com/isushilsuthar)
 - [Anupama Jedi](https://github.com/anupama003)
 - [errare-humanum-est1](https://github.com/errare-humanum-est1)
