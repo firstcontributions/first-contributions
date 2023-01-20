@@ -128,6 +128,7 @@
 - [Amrit Raj](https://github.com/amritrj)
 - [TheSaviourEking](https://github.com/TheSaviourEking)
 - [Amey Patil](https://github.com/AmeyPPatil)
+- [Mishkat Mustafid](https://github.com/mishkatmustafid)
 - [Michael Jakuszewski](https://github.com/MikeJakuszewski)
 - [Saarthak Prakash](https://github.com/saarthak49)
 - [Kiran Gosu](https://github.com/kirankumargosu)
