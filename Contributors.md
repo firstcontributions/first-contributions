@@ -1724,5 +1724,6 @@
 - [Bindiya Kundaliya](https://github.com/bindiya-kundaliya)
 - [Meet Bhalodi](https://github.com/mit-bhalodi)
 - [Jean-Marie Lator](https://github.com/Bescore)
+- [deivard](https://github.com/deivard)
 - [Chao Neil Aryan Borgohain](https://github.com/ChaoNEil)
   <!-- prettier-ignore-end -->
