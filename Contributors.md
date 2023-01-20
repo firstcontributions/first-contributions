@@ -8,6 +8,7 @@
 - [Diego Parra](https://github.com/0bCdian)
 - [Nehorai Tubul](https://github.com/nehoraitubul)
 - [Digpal Parmar](https://github.com/nivaran)
+-[AlexRussss]
 - [Parth Sharma](https://github.com/pxs4528)
 - [Samuel K. Addison](https://github.com/SamAddy)
 - [AKP](https://github.com/AungKhinePhyo)
@@ -102,6 +103,7 @@
 - [Nur Farah](https://github.com/Nur-farah)
 - [Hertanto Irawan](https://github.com/hertantoirawan)
 - xyl
+- [Sachin Tedwa] (https://github.com/TedwaSachin123)
 - [Dudu Zar] (https://duduzar.com)
 - [bruhnugget-nice] (https://github.com/bruhnugget-nice)
 - [Shrey Kumar] (https://github.com/Shrey-1123)
@@ -1687,6 +1689,9 @@
 - [Harkirat Cheema](https://github.com/harry-cheema07)
 - [Harshita Upadhyay](https://github.com/harshita130602)
 - [Satyam Rai](https://github.com/Satyam-R) -[Manish Yadav](https://github.com/manishyadav951)
+- [Satyam Rai](https://github.com/Satyam-R)
+-[Manish Yadav](https://github.com/manishyadav951)
+- [Karan Patel](https://github.com/karanp10)
 - [Linussex-tips](https://github.com/LinusSex-Tips)
 - [leon-arndt](https://github.com/leon-arndt)
 - [Rima Mei Handayani](https://github.com/rimamei)
