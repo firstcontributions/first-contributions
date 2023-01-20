@@ -124,6 +124,7 @@
 - [Luke Soderquist](https://github.com/lsoderquist)
 - [Simon Ralek](https://github.com/SimonRalek)I[I
 - [Elizabeth Flack](https://github.com/Songlore)
+- [Raghav Sharma]
 - [NLH](https://github.com/Vincent-NHtun)
 - [Amrit Raj](https://github.com/amritrj)
 - [TheSaviourEking](https://github.com/TheSaviourEking)
