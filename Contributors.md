@@ -1700,6 +1700,7 @@
 - [Harshita Upadhyay](https://github.com/harshita130602)
 - [Satyam Rai](https://github.com/Satyam-R)
 -[Manish Yadav](https://github.com/manishyadav951)
+- [Karan Patel](https://github.com/karanp10)
 - [Linussex-tips](https://github.com/LinusSex-Tips)
 - [leon-arndt](https://github.com/leon-arndt)
 - [Rima Mei Handayani](https://github.com/rimamei)
