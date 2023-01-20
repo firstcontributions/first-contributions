@@ -1705,4 +1705,5 @@
 - [Vaibhav Kore](https://github.com/Vaibhav240804)
 - [Jordan Bianco](https://github.com/Jordan-Bianco)
 - [Mehar Giri](https://github.com/mehargiri)
+- [Shaurya Shah](https://github.com/sscs12345/)
   <!-- prettier-ignore-end -->
