@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Edoye Ogoba David](https://github.com/DoyeDesigns)
+- [puru-sudo](https://github.com/puru-sudo)
 - [Amrita Rajeshkumar](https://github.com/amrita-rajeshkumar)
 - [Elisha Tetteyfio](https://github.com/Elisha-Tetteyfio)
 - [Diego Parra](https://github.com/0bCdian)
