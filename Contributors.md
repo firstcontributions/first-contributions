@@ -1715,4 +1715,5 @@
 - [Tomma](https://github.com/tomma-a)
 - [Bindiya Kundaliya](https://github.com/bindiya-kundaliya)
 - [Meet Bhalodi](https://github.com/mit-bhalodi)
+- [Jean-Marie Lator](https://github.com/Bescore)
   <!-- prettier-ignore-end -->
