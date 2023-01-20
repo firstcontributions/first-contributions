@@ -1711,4 +1711,5 @@
 - [Esha Shah](https://github.com/Esha98)
 - [Tomma](https://github.com/tomma-a)
 - [Bindiya Kundaliya](https://github.com/bindiya-kundaliya)
+- [Meet Bhalodi](https://github.com/mit-bhalodi)
   <!-- prettier-ignore-end -->
