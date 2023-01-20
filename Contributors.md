@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 - [Edoye Ogoba David](https://github.com/DoyeDesigns)
 - [Amrita Rajeshkumar](https://github.com/amrita-rajeshkumar)
+- [Elisha Tetteyfio](https://github.com/Elisha-Tetteyfio)
 - [Nehorai Tubul](https://github.com/nehoraitubul)
 - [Digpal Parmar](https://github.com/nivaran)
 - [Parth Sharma](https://github.com/pxs4528)
