@@ -6,6 +6,7 @@
 - [Diego Parra](https://github.com/0bCdian)
 - [Nehorai Tubul](https://github.com/nehoraitubul)
 - [Digpal Parmar](https://github.com/nivaran)
+-[AlexRussss]
 - [Parth Sharma](https://github.com/pxs4528)
 - [Samuel K. Addison](https://github.com/SamAddy)
 - [AKP](https://github.com/AungKhinePhyo)
