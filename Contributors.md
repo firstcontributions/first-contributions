@@ -23,6 +23,7 @@
 - [David Martinez](https://github.com/NicAtlas)
 - [Sven Güttner](https://github.com/S-Guettner)
 - [Divyanshu Kushwaha](https://github.com/divyanshu69)
+- [Brevin Kunde](https://github.com/bkunde)
 - [Ekam Bitt](https://github.com/Ekam-Bitt)
 - [Aviroop Banerjee](https://github.com/Aviroop-001)
 - [Eklemis](https://github.com/eklemis)
