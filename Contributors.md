@@ -1710,4 +1710,5 @@
 - [Shaurya Shah](https://github.com/sscs12345/)
 - [Esha Shah](https://github.com/Esha98)
 - [Tomma](https://github.com/tomma-a)
+- [Bindiya Kundaliya](https://github.com/bindiya-kundaliya)
   <!-- prettier-ignore-end -->
