@@ -1694,4 +1694,5 @@
 - [Marcus Otterstad](https://github.com/marcusotterstad)
 - [Vaibhav Kore](https://github.com/Vaibhav240804)
 - [Jordan Bianco](https://github.com/Jordan-Bianco)
+- [Kirill Yadevich](https://github.com/Lesn0y)
   <!-- prettier-ignore-end -->
