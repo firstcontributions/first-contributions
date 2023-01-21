@@ -1398,6 +1398,7 @@
 - [Thales Carlesso](https://github.com/ThalesIanMendes)
 - [Iván González](https://github.com/IvanGonzalez01/first-contributions)
 - [Sang2006](https://github.com/Sang2006)
+  Utsav Gautam(https://github.com/ZososoUtsav)
 - [Teju_1212](https://github.com/teju_1212)
 - [Aditya Agarwal]@DevsocPI
 - [Rakshit Gupta](https://github.com/rakshitgupta23)
