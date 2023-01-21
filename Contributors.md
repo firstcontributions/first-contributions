@@ -176,6 +176,7 @@
 - [Manas Bhattarai](https://github.com/ManasB17)
 - Olukoya Babatunde Daniel
 - [Sudarshan](https://github.com/sudarshan161219)
+- [Marin](https://github.com/M4RIIN)
 - [Jubril Abdulsalam](https://github.com/jubril-a)
 - [disconsolated](https://github.com/disconsolated)
 - [Matthew Kurtti](https://github.com/matthewkurtti)
@@ -1739,5 +1740,6 @@
 - [Chao Neil Aryan Borgohain](https://github.com/ChaoNEil)
 - [Yuri Petrillo](https://github.com/yuripetrillo)
 - [Anukul Pandey](https://github.com/anukulpandey)
+- [Julia Lopes](https://github.com/lrjulia)
 - [Pratik Bhosale](https://github.com/Bhosale773)
   <!-- prettier-ignore-end -->
