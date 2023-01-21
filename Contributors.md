@@ -16,6 +16,7 @@
 - [Abhijith B N](https://github.com/AbhijithBn)
 - [Deepak Papnoi - 00123]
 - [Sierra Nash](https://github.com/sasianan19)
+- [Pranav Joshi](https://github.com/PranavJoshi2893)
 - [Siddharth Rathore](https://github.com/s1dbugs)
 - [Harsh Kumar Raj](https://github.com/harshkumarraj)
 - [Srini] (https://github.com/ssiripuram)
