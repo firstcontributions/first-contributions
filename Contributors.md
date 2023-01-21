@@ -105,6 +105,7 @@
 - [Axorax](https://github.com/axorax)
 - [Gabriel Bellasco](https://github.com/GabrielBellasco)
 - [Omar Gabriel](https://github.com/omargabrielaguilar)
+- [Gavin Levis](https://github.com/GLevis)
 - [Richard McCormick](https://github.com/rmccormick314)
 - [C](https://github.com/HannesEnnemann)
 - [Tachaan](https://github.com/Tachaan)
