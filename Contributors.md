@@ -61,6 +61,7 @@
 - [Arun](https://github.com/darkclown97)
 - [Chelcey](https://github.com/cguptail)
 -nini
+-pt33
 - [Mayank Choudhary](https://github.com/Mayankchoudhary294)
 - [Eti-ini Effiong-Robert](https://github.com/eti-iniER)
 - [Bhavin Raichura](https://github.com/BhavinRaichura)
@@ -434,6 +435,8 @@
 - [Faisal Saifi](https://github.com/faisalsaifii)
 - [Jake Butler](https://github.com/TioDelMundo)
 - Leon
+  pt33
+  yes we added!
 - Gabe (https://github.com/101itsGabe)
 - [Sarthak Jain@DevsocPI] (https://github.com/GurglingHammer)
 - [Vishal Kanwar](https://github.com/Kanvi1)
@@ -1739,4 +1742,5 @@
 - [Chao Neil Aryan Borgohain](https://github.com/ChaoNEil)
 - [Yuri Petrillo](https://github.com/yuripetrillo)
 - [Anukul Pandey](https://github.com/anukulpandey)
+
   <!-- prettier-ignore-end -->
