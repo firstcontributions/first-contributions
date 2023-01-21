@@ -71,6 +71,7 @@
 - [Pranjul2002](https://github.com/Pranjul2002)
 - [kereru-bot]
 - [Shubham Yennamwar](https://github.com/justshubham07)
+- [Pratik Rajput](https://github.com/prrajput1199)
 - [Jeremy Hutchings](https://github.com/jhutchings99)
 - [Elvin F F](https://github.com/cider23)
 - [Andy Arensman](https://github.com/andyarensman)
