@@ -1402,6 +1402,7 @@
 - [Teju_1212](https://github.com/teju_1212)
 - [Aditya Agarwal]@DevsocPI
 - [Rakshit Gupta](https://github.com/rakshitgupta23)
+- [Cherlan-Miche PHILIPPE](https://github.com/LandoSansNom)
 - [Sameera Dissanayaka](https://github.com/ceylonprogrammer)
 - [Chirag Chakraborty](https://github.com/noobchirag69)
 - [Aditya Singh](https://github.com/second007)
