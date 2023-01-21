@@ -33,6 +33,7 @@
 - [Eklemis](https://github.com/eklemis)
 - [Ambar Avalos](https://github.com/ambar12345)
 - [Jainex 😄](https://github.com/Jainex17)
+- [Yasith Fernando] (https://github.com/yasithfernando)
 - [Ritwij Kashyap](https://github.com/ritwij-kp)
 - [Navendu Bahukhandi](https://github.com/Ashxarya)
 - [Moi 😄](https://github.com/12moi)
