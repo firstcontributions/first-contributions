@@ -26,6 +26,7 @@
 - [Glaucio Oliveira](https://github.com/7glaucio)
 - [Ankit Vimal](https://github.com/ankitvimal)
 - [David Martinez](https://github.com/NicAtlas)
+- [Darvesh Chauhan](https://github.com/darvesh29)
 - [Sven Güttner](https://github.com/S-Guettner)
 - [Divyanshu Kushwaha](https://github.com/divyanshu69)
 - [Brevin Kunde](https://github.com/bkunde)
