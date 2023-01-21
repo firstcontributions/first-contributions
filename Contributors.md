@@ -1736,4 +1736,5 @@
 - [Jean-Marie Lator](https://github.com/Bescore)
 - [deivard](https://github.com/deivard)
 - [Chao Neil Aryan Borgohain](https://github.com/ChaoNEil)
+- [Anukul Pandey](https://github.com/anukulpandey)
   <!-- prettier-ignore-end -->
