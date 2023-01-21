@@ -1745,4 +1745,5 @@
 - [Yuri Petrillo](https://github.com/yuripetrillo)
 - [Anukul Pandey](https://github.com/anukulpandey)
 - [Julia Lopes](https://github.com/lrjulia)
+- [Kushal Lahoti](https://github.com/kushalnl7)
   <!-- prettier-ignore-end -->
