@@ -1746,4 +1746,5 @@
 - [Anukul Pandey](https://github.com/anukulpandey)
 - [Julia Lopes](https://github.com/lrjulia)
 - [Kushal Lahoti](https://github.com/kushalnl7)
+- [Curtis Cali](https://github.com/curtiscali)
   <!-- prettier-ignore-end -->
