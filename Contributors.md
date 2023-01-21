@@ -1739,4 +1739,5 @@
 - [Chao Neil Aryan Borgohain](https://github.com/ChaoNEil)
 - [Yuri Petrillo](https://github.com/yuripetrillo)
 - [Anukul Pandey](https://github.com/anukulpandey)
+- [Pratik Bhosale](https://github.com/Bhosale773)
   <!-- prettier-ignore-end -->
