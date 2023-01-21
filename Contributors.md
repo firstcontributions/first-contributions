@@ -10,6 +10,7 @@
 - [Nico Calderon](https://github.com/ncalderon16)
 - [AlexRussss]
 - [Natalie Smyth](https://github.com/nataliesmyth)
+- [Gwen Asani](https://github.com/gwendolyn954)
 - [Parth Sharma](https://github.com/pxs4528)
 - [Samuel K. Addison](https://github.com/SamAddy)
 - [AKP](https://github.com/AungKhinePhyo)
