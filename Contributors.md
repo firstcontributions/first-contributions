@@ -338,6 +338,7 @@
 - [Dhruv Tandon} @DevsocPI
 - esisgilz
 - Tosif Khan
+- Jax Gates
 - [Preeti Raj](https://github.com/Preetiraj3697)
 - [Abel Diress](https://github.com/abeldiress)
 - [Gopal Pandey](https://github.com/Ahamasmi)
