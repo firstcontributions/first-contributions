@@ -1669,4 +1669,5 @@
 - [leon-arndt](https://github.com/leon-arndt)
 - [Rima Mei Handayani](https://github.com/rimamei)
 - [Shailja Bahuguna](https://github.com/shailja2727)
+- [Ishmeet Kaur](https://github.com/Ishmeet7)
   <!-- prettier-ignore-end -->
