@@ -66,6 +66,7 @@
 -[Tejas Borkar](https://github.com/tejas-borkar22/)
 -[Dejan Bogdanovic](https://github.com/bdekins2000)
 -[Emily Xia](https://github.com/emiilyxiia)
+- [Kolby Rogers](https://github.com/kolbyrogers)
 - [Pranjul2002](https://github.com/Pranjul2002)
 - [kereru-bot]
 - [Shubham Yennamwar](https://github.com/justshubham07)
