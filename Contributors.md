@@ -7,6 +7,7 @@
 - [Diego Parra](https://github.com/0bCdian)
 - [Nehorai Tubul](https://github.com/nehoraitubul)
 - [Digpal Parmar](https://github.com/nivaran)
+- [Nico Calderon](https://github.com/ncalderon16)
 - [AlexRussss]
 - [Natalie Smyth](https://github.com/nataliesmyth)
 - [Parth Sharma](https://github.com/pxs4528)
