@@ -247,6 +247,7 @@
 - Leon
 - Prajwal Haniya
 - [Aarish Khan](https://github.com/aarishmkhan)
+- [Luca Farina](https://github.com/LucaFarina)
 - [Tobi Abraham](https://github.com/Abacode7)
 - [Satyam Jha](https://github.com/coldkoffee)
 - [Prakhar Verma](https://github.com/parkkrrr)
