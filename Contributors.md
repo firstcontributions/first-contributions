@@ -1739,4 +1739,5 @@
 - [Chao Neil Aryan Borgohain](https://github.com/ChaoNEil)
 - [Yuri Petrillo](https://github.com/yuripetrillo)
 - [Anukul Pandey](https://github.com/anukulpandey)
+- [Julia Lopes](https://github.com/lrjulia)
   <!-- prettier-ignore-end -->
