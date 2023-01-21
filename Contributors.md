@@ -160,6 +160,7 @@
 - [Lumbani Makumbi](https://github.com/makumbilumbani)
 - [Abhay Shankar](https://github.com/Abhay478)
 - [Sharat Katwa](https://github.com/sharatkatwa)
+- [C.J. Torgerson](https://github.com/ctorgerson10)
 - [Anwar isak](https://github.com/anwarisak)
   [Kartik khode](https://github.com/Kartiklk)
   [Matheus Telino](https://github.com/matheustelino)
