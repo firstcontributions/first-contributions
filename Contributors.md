@@ -111,6 +111,7 @@
 - [Krishna Praneet gudipaty](https://github.com/krishna-praneet)
 - [Sapnil Patel](https://github.com/SAPNILPATEL)
 - [William Kelvin](https://github.com/WilliamKSilva)
+- [Thais Camacho](https://github.com/thaisacs)
 - [Dipak Kalauni](https://github.com/KaloniGiga)
 - [rishmitar](https://github.com/RishmitaR) 
 - [Anupam malviya](https://github.com/tech-wizard720)
