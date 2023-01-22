@@ -1765,4 +1765,5 @@
 - [dsquirrel](https://github.com/dsquirrel1)
 - [aayushprime](https://github.com/aayushprime)
 - [Jay Shankarpure](https://github.com/Arthavruksha)
+- [Payal Manghnani](https://github.com/payalpm)
   <!-- prettier-ignore-end -->
