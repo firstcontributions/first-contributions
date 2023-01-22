@@ -488,6 +488,7 @@
 - [Kaiden Flaig]
 - [Joshua Ngene](https://github.com/lotacodic)
 - [Georgy](https://github.com/Gkuzin13)
+- [Enoch Osarenren](https://github.com/enochval)
 - [Ashroof] (https://github.com/OmarAshraf-02)
 - [Aditya](https://github.com/adi-bal)
 - [Fahmid Bin Farooqui](https://github.com/fahmidbinfarooqui)
