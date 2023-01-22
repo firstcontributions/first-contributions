@@ -173,6 +173,7 @@ replacing `your-branch-name` with the name of the branch you created earlier.
   fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
   Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
   <br>You can also access your account by using access token. Go to [Github's tutorial](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) to generate personal access token instead of password.</br>
+  <br>You can also checkout [LinkedIn post](https://www.linkedin.com/pulse/how-fix-githubs-support-password-authentication-removed-chapuma/) for the same.
 
 </details>
 
