@@ -87,6 +87,7 @@
 - [Pratik Rajput](https://github.com/prrajput1199)
 - [Jeremy Hutchings](https://github.com/jhutchings99)
 - [Mark Chen](https://github.com/ZeroMarker)
+- [Likith S H](https://github.com/likithkun)
 - [Elvin F F](https://github.com/cider23)
 - [Andy Arensman](https://github.com/andyarensman)
 - [emily](https://github.com/Yingemily)
