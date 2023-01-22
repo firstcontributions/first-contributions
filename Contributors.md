@@ -12,6 +12,7 @@
 - [Natalie Smyth](https://github.com/nataliesmyth)
 - [Gwen Asani](https://github.com/gwendolyn954)
 - [Parth Sharma](https://github.com/pxs4528)
+- [Sahil Shaikh](https://github.com/Shaky-Sahil)
 - [Samuel K. Addison](https://github.com/SamAddy)
 - [AKP](https://github.com/AungKhinePhyo)
 - [Ebuka Ejiofor](https://github.com/ebukathedev)
