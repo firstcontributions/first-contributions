@@ -1754,4 +1754,5 @@
 - [Kushal Lahoti](https://github.com/kushalnl7)
 - [Curtis Cali](https://github.com/curtiscali)
 - [dsquirrel](https://github.com/dsquirrel1)
+- [Ricolino](https://github.com/Ricolino)
   <!-- prettier-ignore-end -->
