@@ -489,6 +489,7 @@
 - [Harshit Devadiga](https://github.com/harshitt02)
 - [Salu Alhassan](https://github.com/sky2626)
 - [harsh rathi@DevSocPI](https://github.com/harshrathi12)
+  [Miral Khunt](https://github.com/khunt-miral)
 - [al-imam](https://github.com/al-imam)
 - [Vikhyat Gupta@DevsocPI]
 - [Aondrej-Ryan](https://github.com/aryan10293)
