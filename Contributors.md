@@ -1761,4 +1761,5 @@
 - [Curtis Cali](https://github.com/curtiscali)
 - [dsquirrel](https://github.com/dsquirrel1)
 - [aayushprime](https://github.com/aayushprime)
+- [Jay Shankarpure](https://github.com/Arthavruksha)
   <!-- prettier-ignore-end -->
