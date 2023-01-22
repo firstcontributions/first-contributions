@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Yaekob Demisse](https://github.com/Jamescog)
 - [Edoye Ogoba David](https://github.com/DoyeDesigns)
 - [puru-sudo](https://github.com/puru-sudo)
 - [Amrita Rajeshkumar](https://github.com/amrita-rajeshkumar)
