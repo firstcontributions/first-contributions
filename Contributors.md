@@ -15,6 +15,7 @@
 - [Ebuka Ejiofor](https://github.com/ebukathedev)
 - [Abhijith B N](https://github.com/AbhijithBn)
 - [Deepak Papnoi - 00123]
+- [Kundan Singh](https://github.com/kundan1209)
 - [Sierra Nash](https://github.com/sasianan19)
 - [Pranav Joshi](https://github.com/PranavJoshi2893)
 - [Siddharth Rathore](https://github.com/s1dbugs)
