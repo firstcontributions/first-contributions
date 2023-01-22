@@ -312,6 +312,7 @@
 - [Sumer Punjabi](https://github.com/sumerpunjabi)
 - aditya joshi@DevSocPI
 - [RA341](https://github.com/RA341)
+- [Rodrigo Tudanca Fernandez](https://github.com/muchachordo)
 - [Sagar Babannavar](https://github.com/babannavar)
 - Link
 - Derrick Brandt
