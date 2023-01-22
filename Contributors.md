@@ -840,6 +840,7 @@
 - [Charlie Hird](https://github.com/cjhird)
   [Etson Dorival](https://github.com/etsond)
 - [bytesofbec](https://github.com/bytesofbec)
+- [Thamizh Bharathi]
 - [SamAtkinsonModeste](https://www.github.com/SamAtkinsonModeste)
 - [Evan Larson](https://www.github.com/Chasmessian)
 - [william-chalk](https://github.com/william-chalk)
