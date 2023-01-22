@@ -15,6 +15,7 @@
 - [Natalie Smyth](https://github.com/nataliesmyth)
 - [HHA](https://github.com/HeinHtetAunggg)
 - [Gwen Asani](https://github.com/gwendolyn954)
+- [Jay Sexton](https://github.com/jaysexton
 - [Parth Sharma](https://github.com/pxs4528)
 - [Sahil Shaikh](https://github.com/Shaky-Sahil)
 - [Samuel K. Addison](https://github.com/SamAddy)
