@@ -1766,4 +1766,5 @@
 - [aayushprime](https://github.com/aayushprime)
 - [Jay Shankarpure](https://github.com/Arthavruksha)
 - [Payal Manghnani](https://github.com/payalpm)
+- [Niranjan D](https://github.com/usr-canis)
   <!-- prettier-ignore-end -->
