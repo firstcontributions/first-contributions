@@ -1717,6 +1717,7 @@
 - [Ibragim GK](https://github.com/Ibrapsico)
 - [Revathi Vijayendran](https:github.com/vrrevi)
 - [Damon Xue](https://github.com/damonxue)
+- [Marcos Santiago](https://github.com/Imaginarybandit)
 - [Honoris Gratias Ndereyimana. :wink:](https://github.com/nhonorisg/)
 - [Alessandro Saggese 😎](https://github.com/asaggse/)
   [sucnd ](https://github.com/sucnd/) 
