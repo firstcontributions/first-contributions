@@ -7,6 +7,7 @@
 - [puru-sudo](https://github.com/puru-sudo)
 - [Amrita Rajeshkumar](https://github.com/amrita-rajeshkumar)
 - [Elisha Tetteyfio](https://github.com/Elisha-Tetteyfio)
+- [Salma Hamdi](https://github.com/Salma-2)
 - [Diego Parra](https://github.com/0bCdian)
 - [Nehorai Tubul](https://github.com/nehoraitubul)
 - [Digpal Parmar](https://github.com/nivaran)
