@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [sbadi](https://github.col/sbadillo)
 - [Abhishek Shetty](https://github.com/bobbyy16)
 - [Yaekob Demisse](https://github.com/Jamescog)
 - [Onur Çağan](https://github.com/onurcagan)
