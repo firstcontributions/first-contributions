@@ -651,6 +651,7 @@
 - [Yam Timor](https://github.com/yamtimor)
 - [Archishman Dash](https://www.github.com/aholic-archie)
 - [Om Patil]@DevsocPI
+- [Josy Li](https://github.com/josyliyh)
 - [Amit Narine](https://github.com/amitnarine)
 - [DHRUV MISHRAA @DEVSOC]
 - [Ahmed Kaid](https://github.com/Ahmed-Kaid)
