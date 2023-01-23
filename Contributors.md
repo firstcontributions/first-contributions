@@ -11,6 +11,7 @@
 - [Salma Hamdi](https://github.com/Salma-2)
 - [Diego Parra](https://github.com/0bCdian)
 - [Nehorai Tubul](https://github.com/nehoraitubul)
+- [Mariana Padilla](https://github.com/elipadillad)
 - [Digpal Parmar](https://github.com/nivaran)
 - [Nico Calderon](https://github.com/ncalderon16)
 - [AlexRussss]
@@ -21,6 +22,7 @@
 - [Gwen Asani](https://github.com/gwendolyn954)
 - [Jay Sexton](https://github.com/jaysexton
 - [Parth Sharma](https://github.com/pxs4528)
+- [Michaela Svancarova] (https://github.com/mysakli)
 - [Sahil Shaikh](https://github.com/Shaky-Sahil)
 - [Samuel K. Addison](https://github.com/SamAddy)
 - [AKP](https://github.com/AungKhinePhyo)
