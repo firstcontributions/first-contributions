@@ -5,6 +5,7 @@
 - [Onur Çağan](https://github.com/onurcagan)
 - [Edoye Ogoba David](https://github.com/DoyeDesigns)
 - [puru-sudo](https://github.com/puru-sudo)
+- [Dhruv Patel](https://github.com/DhruvPatel0401)
 - [Amrita Rajeshkumar](https://github.com/amrita-rajeshkumar)
 - [Elisha Tetteyfio](https://github.com/Elisha-Tetteyfio)
 - [Salma Hamdi](https://github.com/Salma-2)
