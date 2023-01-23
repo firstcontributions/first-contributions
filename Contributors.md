@@ -11,6 +11,7 @@
 - [Salma Hamdi](https://github.com/Salma-2)
 - [Diego Parra](https://github.com/0bCdian)
 - [Nehorai Tubul](https://github.com/nehoraitubul)
+- [Mariana Padilla](https://github.com/elipadillad)
 - [Digpal Parmar](https://github.com/nivaran)
 - [Nico Calderon](https://github.com/ncalderon16)
 - [AlexRussss]
