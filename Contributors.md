@@ -1774,4 +1774,5 @@
 - [Jay Shankarpure](https://github.com/Arthavruksha)
 - [Payal Manghnani](https://github.com/payalpm)
 - [Niranjan D](https://github.com/usr-canis)
+- [The-Purgy](https://github.com/The-Purgy)
   <!-- prettier-ignore-end -->
