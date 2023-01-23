@@ -12,6 +12,7 @@
 - [Digpal Parmar](https://github.com/nivaran)
 - [Nico Calderon](https://github.com/ncalderon16)
 - [AlexRussss]
+  [Smarpan Sharma](https://github.com/smarpan)
 - [Saurabh Jumnalkar](https://github.com/SaurabhJumnalkar)
 - [Natalie Smyth](https://github.com/nataliesmyth)
 - [HHA](https://github.com/HeinHtetAunggg)
