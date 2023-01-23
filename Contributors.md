@@ -53,6 +53,7 @@
 - [Abhilash Bijalwan](https://github.com/M4X1M4S)
 - [m3g4d1v3r](https://github.com/m3g4d1v3r)
 - [Nandu P K](https://github.com/pkNandu)
+- [Boris Levenzon](https://github.com/cloudboundboris)
 - [Arpit Jain](https://github.com/code-arpit) 
 - [Maya Sollen-Norrlin](https://github.com/Masoleno)
 - [Mitch Sfakianos](https://github.com/mazarinno)
