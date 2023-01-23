@@ -589,6 +589,7 @@
 - [Puneet](https://github.com/Puneetpotter)
 - [ayush Z] @ devsocPI
 - [Guillaume]
+- [Tao Xiong](https://github.com/TAOFOR4)
 - [Haroldo Curti]
 - [Shrankhla](https://github.com/shrankhla20)
 - [devdeveloper1](https://github.com/devdeveloper1)
