@@ -209,6 +209,7 @@
 - [Sudhanshu Rai]
 - [Austin Carr](https://github.com/acarr123)
 - [Kalia Lor](https://github.com/kalialor)
+- [Keyvan Majidi](https://github.com/keyvanmj)
 - [Niall De Barra](https://github.com/NiallDeBarra)
   [TEP](https://github.com/Theint810)
   [Milo Barkow](https://github/com/milobarkow)
