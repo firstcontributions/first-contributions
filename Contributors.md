@@ -59,7 +59,7 @@
 - [Yasith Fernando] (https://github.com/yasithfernando)
 - [Ritwij Kashyap](https://github.com/ritwij-kp)
 - [Navendu Bahukhandi](https://github.com/Ashxarya)
-- [Moi 😄](https://github.com/12moi)
+- [Moi \😄](https://github.com/12moi)
 - [Abhilash Bijalwan](https://github.com/M4X1M4S)
 - [m3g4d1v3r](https://github.com/m3g4d1v3r)
 - [Nandu P K](https://github.com/pkNandu)
@@ -402,6 +402,7 @@
 - [Patrik Šušlík](https://github.com/smeglofus)
 - Chris Stevens
 - [Sean Sew](https://github.com/ExpressOwl)
+- [Anjana Vishvanath](https://github.com/anjanavishvanath)
 - [Kyoumei](https://github.com/kyoumeia)
 - [Anshuman Nigam @DevSocPI]
 - [Jess Mathews](https://github.com/jessmathews)
