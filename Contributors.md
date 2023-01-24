@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 - [sbadi](https://github.col/sbadillo)
 - [Abhishek Shetty](https://github.com/bobbyy16)
+- [Dipankar Sahoo](https://github.com/Xxploiter)
 - [Yaekob Demisse](https://github.com/Jamescog)
 - [Onur Çağan](https://github.com/onurcagan)
 - [Edoye Ogoba David](https://github.com/DoyeDesigns)
