@@ -9,12 +9,12 @@ _Ef þú kannt ekki við þig í skel og vilt frekar nota grafískt viðmót. [l
 
 #### Ef þú ert ekki með git uppsett á tölvunni þinni [skoðaðu þessar leiðbeiningar](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
-## Afrita þetta gagnasafn
+## Afrita þetta gagnasafn (fork)
 
 Afritaður þetta gagnasafn með því að smella á "Fork" takkann hér efst á síðunni.
 Þá verður til afrit af þessu gagnasafni inni á þinni síðu.
 
-## Clone the repository - Afrita gagnasafnið til vinnslu
+## Afrita gagnasafnið til vinnslu (clone)
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
@@ -38,7 +38,7 @@ git clone https://github.com/this-is-you/first-contributions.git
 
 þar sem `this-is-you` er GitHub notendanafn þitt. Með þessu ertu að afrita innihald gagnasafnsins sem þú varst að setja upp á þinni síðu inn á tölvuna þína.
 
-## Create a branch - Stofnun á grein
+## Stofnun á grein (branch)
 
 Færðu þig inn á gagnasafns möppuna á þinni tölvu (ef þú ert ekki þar þegar):
 
@@ -58,39 +58,39 @@ Til dæmis:
 git switch -c add-alonzo-church
 ```
 
-## Make necessary changes and commit those changes
+## Búa til nauðsynlegar breytingar og vista (commit)
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Opnaðu `Contributors.md` skrána í skráarvinnslu forriti, bættu þínu nafni í skrána. Ekki bæta því við alveg í byrjun eða enda skráar. Getur sett það hvar sem er annarstaðar inn á milli. Vistaðu síðan skrána.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
+If you go to the project directory and execute the command `git status`, you'll see there are changes. Ef þú ferð næst í project skrána og keyrir skipunina `git status`, þá kemur frama að það hafa verið gerðar breytingar.
 
-Add those changes to the branch you just created using the `git add` command:
+Bættu þeim breytingum við greinina sem þú skapaðir áður og ert í með `git add` skipuninni.
 
 ```
 git add Contributors.md
 ```
-Now commit those changes using the `git commit` command:
+Næst vistaru þær breytingar með commit skipuninni `git commit`:
 
 ```
 git commit -m "Add your-name to Contributors list"
 ```
 
-replacing `your-name` with your name.
+Skiptir út `your-name` og setur þitt nafn í staðinn.
 
-## Push changes to GitHub
+## Ýta/senda (push) nýjust breytingum til GitHub
 
-Push your changes using the command `git push`:
+Sendu nýjustu breytingar með `git push` skipuninni:
 
 ```
 git push -u origin your-branch-name
 ```
 
-replacing `your-branch-name` with the name of the branch you created earlier.
+skiptu `your-branch-name` út fyrir nafnið á greininni sem þú stofnaðir áður.
 
 <details>
-<summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
+<summary> <strong>Ef upp koma villur þegar þú sendir, smelltu hér:</strong> </summary>
 
 - ### Authentication Error
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
