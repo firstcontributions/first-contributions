@@ -18,6 +18,7 @@
 - [Mariana Padilla](https://github.com/elipadillad)
 - [Digpal Parmar](https://github.com/nivaran)
 - [Nico Calderon](https://github.com/ncalderon16)
+- [Alkaison](https://github.com/alkaison)
 - [AlexRussss]
   [Smarpan Sharma](https://github.com/smarpan)
 - [Panzariu Ionut-Adrian](https://github.com/PanzariuAdi)
