@@ -83,7 +83,7 @@
 - [oyeKhadim](https://github.com/oyeKhadim)
 - [Saad Vakharia](https://github.com/SaadVakharia)
 - [KiranJodhani](https://github.com/KiranJodhani)
-- [Danpiit] (https://github.com/Danpiit)
+- [Danpiit](https://github.com/Danpiit)
 - [Arun](https://github.com/darkclown97)
 - [Chelcey](https://github.com/cguptail)
 -nini
@@ -145,7 +145,6 @@
 - [Tachaan](https://github.com/Tachaan)
 -[Saumya Shah](https://github.com/Saumya40-codes)
 - [C0LDRAM3N] (https://github.com/C0LDRAM3N)
-- [Danpit] (https://github.com/Danpiit)
 - [Shubham] (https://github.com/Shubham-Godambe)
 - [Nur Farah](https://github.com/Nur-farah)
 - [Hertanto Irawan](https://github.com/hertantoirawan)
