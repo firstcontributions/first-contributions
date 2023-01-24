@@ -1,4 +1,4 @@
-# Firsta Framlag
+# Fyrsta Framlag
 
 Þetta project er til að einfalda og leiðbeina byrjendum við að búa til þeirra fyrsta framlag. Ef þetta er eitthvað sem þig langar að læra, endilega fylgdu eftir skrefunum hér fyrir neðan.
 
@@ -26,7 +26,7 @@ Opnaðu skel og skrifaðu eftirfarandi skipun:
 git clone "slóðin sem þú varst að afrita"
 ```
 
-Þar sem "Slóðin sem þú varst að afrita" (án gæsalappa) er slóðin inn á gagnasafn (gagnasafn þitt sem þú varst að afrita á þína síðu). Sjá fyrri skref til að finna þá slóð.
+Þar sem "Slóðin sem þú varst að afrita" (án gæsalappa) er slóðin inn á gagnasafn (gagnasafn þitt sem þú varst að afrita á þinni síðu). Sjá fyrri skref til að finna þá slóð.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -64,9 +64,9 @@ Opnaðu `Contributors.md` skrána í skráarvinnslu forriti, bættu þínu nafni
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-If you go to the project directory and execute the command `git status`, you'll see there are changes. Ef þú ferð næst í project skrána og keyrir skipunina `git status`, þá kemur frama að það hafa verið gerðar breytingar.
+Ef þú ferð næst í project skrána og keyrir skipunina `git status`, þá kemur frama að það hafa verið gerðar breytingar.
 
-Bættu þeim breytingum við greinina sem þú skapaðir áður og ert í með `git add` skipuninni.
+Bættu þeim breytingum við greinina sem þú skapaðir áður og ert þegar í með `git add` skipuninni.
 
 ```
 git add Contributors.md
@@ -100,19 +100,19 @@ skiptu `your-branch-name` út fyrir nafnið á greininni sem þú stofnaðir á�
 
 </details>
 
-## Submit your changes for review
+## Senda þínar breytingar inn til yfirferðar
 
-If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+Inni á gagnasafns síðunni á GitHub síðu þinni getur þú séð `Compare & pull request` takka. Smelltu á þann takka.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-Now submit the pull request.
+Sendu inn pull óskina með því að ýta á `Create pull request`.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
+Fljótlega verður síðan pull ósk þín yfirfarin og samþykkt af upphaflega höfundi/umsjónamanni verkefnisins og sameinuð inn í það. Þú færð tilkynningu í tölvupósti þegar það gerist.
 
-## Where to go from here?
+## Hvað geri ég svo næst?
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
 
