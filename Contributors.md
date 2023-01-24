@@ -1730,6 +1730,7 @@
 - [thofa](https://github.com/musthofasyarifudin)
 - [Jose Martinez](https://github.com/Jnmarti88/)
 - [Klee-cocow](https://github.com/Klee-cocow)
+- [Chris Banford 🇨🇭🇺🇸](https://github.com/ZermattChris)
 - [Tuan Nguyen Minh](https://github.com/tuana9a)
 - [Cameron Luo](https://github.com/camer0nluo)
 - [Kirtiraj Sardesai](https://github.com/RefreshMyMind-I)
