@@ -256,6 +256,7 @@
 - [Pawan Yadav](https://github.com/pawanyy)
 - Abhay Tiwari
 - Neha Sangal
+- Nikhil Mhaske
 - [CherylChaudhari@DevsocPI](https://github.com/cherxoxo10)
 - [Saptarshi Ghosh @devsoc2022](https://github.com/zack-carnet)
 - [Somnath Golui](https://github.com/somu-code)
