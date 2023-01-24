@@ -36,23 +36,23 @@ Til dæmis:
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+þar sem `this-is-you` er GitHub notendanafn þitt. Með þessu ertu að afrita innihald gagnasafnsins sem þú varst að setja upp á þinni síðu inn á tölvuna þína.
 
 ## Create a branch - Stofnun á grein
 
-Change to the repository directory on your computer (if you are not already there):
+Færðu þig inn á gagnasafns möppuna á þinni tölvu (ef þú ert ekki þar þegar):
 
 ```
 cd first-contributions
 ```
 
-Now create a branch using the `git switch` command:
+Næst stofnar þú nýja grein (branch) með því að nota `git switch` skipunina:
 
 ```
 git switch -c your-new-branch-name
 ```
 
-For example:
+Til dæmis:
 
 ```
 git switch -c add-alonzo-church
