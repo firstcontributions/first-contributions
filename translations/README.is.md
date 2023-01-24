@@ -1,36 +1,36 @@
 # Firsta Framlag
 
-Þetta project er til að einfalda og leiðbeina byrjendum við að búa til þeirra fyrsta framlag. Ef það er eitthvað þig langar að læra, endilega fylgdu eftir skrefunum hér fyrir neðan.
+Þetta project er til að einfalda og leiðbeina byrjendum við að búa til þeirra fyrsta framlag. Ef þetta er eitthvað sem þig langar að læra, endilega fylgdu eftir skrefunum hér fyrir neðan.
 
-_Ef þú kannt ekki við þig í skel og vilt frekar nota grafískt viðmót. [hér eru leiðbeiningar til að nota grafísk viðmót.](#tutorials-using-other-tools)_
+_Ef þú kannt ekki við þig í skel og vilt frekar nota grafískt viðmót. [leiðbeiningar til að nota grafísk viðmót.](#tutorials-using-other-tools)_
 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 #### Ef þú ert ekki með git uppsett á tölvunni þinni [skoðaðu þessar leiðbeiningar](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
-## Fork this repository
+## Afrita þetta gagnasafn
 
-Fork this repository by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+Afritaður þetta gagnasafn með því að smella á "Fork" takkann hér efst á síðunni.
+Þá verður til afrit af þessu gagnasafni inni á þinni síðu.
 
-## Clone the repository
+## Clone the repository - Afrita gagnasafnið til vinnslu
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
+Næst er að afrita gagnasafnið þitt inn á vélina þína til vinnslu. Farðu inn á GitHub aðgang þinn, opnaðu gagnasafnið þitt sem þú varst að búa til, veldu "Code" takkann og síðan "Copy to clipboard".
 
 Opnaðu skel og skrifaðu eftirfarandi skipun:
 
 ```
-git clone "url you just copied"
+git clone "slóðin sem þú varst að afrita"
 ```
 
-where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+Þar sem "Slóðin sem þú varst að afrita" (án gæsalappa) er slóðin inn á gagnasafn (gagnasafn þitt sem þú varst að afrita á þína síðu). Sjá fyrri skref til að finna þá slóð.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-For example:
+Til dæmis:
 
 ```
 git clone https://github.com/this-is-you/first-contributions.git
@@ -122,7 +122,7 @@ You could join our slack team if you need any help or have any questions. [Join 
 
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 
-### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
+### [Viðbótar kennsluefni](additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Kennsluefni fyrir önnur tól
 
