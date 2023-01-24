@@ -24,6 +24,7 @@
 - [Saurabh Jumnalkar](https://github.com/SaurabhJumnalkar)
 - [Natalie Smyth](https://github.com/nataliesmyth)
 - [HHA](https://github.com/HeinHtetAunggg)
+- [Diego_Sic](https://github.com/Diego-Sic)
 - [Gwen Asani](https://github.com/gwendolyn954)
 - [Jay Sexton](https://github.com/jaysexton
 - [Parth Sharma](https://github.com/pxs4528)
