@@ -1804,6 +1804,7 @@
 - [The-Purgy](https://github.com/The-Purgy)
 - [SK](https://github.com/skuperst)
 - [Dhiraj Patra](https://github.com/dhirajpatra)
+- [John] (https://github.com/johnm73)
   <!-- prettier-ignore-end -->
 - [guliwa](https://github.com/zhubaiali)
 - [WayneYam](https://github/com/WayneYam)
