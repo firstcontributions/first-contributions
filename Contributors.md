@@ -1584,6 +1584,7 @@
 - [Mathias Neves] (https://github.com/mathiastneves)
 - [Mohammed Afrid](https://github.com/Afrid45)
 - [Sunny](https://github.com/SunnyChaware)
+- [osvaldo](https://github.com/iosvaldo)
 - [Jon](https://github.com/JJang95)
 - [Rami Elsayed](https://github.com/RamiE965)
 - [Saurabh Gond](https://github.com/saurabhffs)
@@ -1797,4 +1798,5 @@
 - [guliwa](https://github.com/zhubaiali)
 - [WayneYam](https://github/com/WayneYam)
 - [Naveen](https://github/com/naveen13-06)
-    
+
+  
