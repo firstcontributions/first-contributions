@@ -898,6 +898,7 @@
 - [Ellis Burgess](https://github.com/ellis-burgess)
 - [Vaishnavi Swarnoj](https://github.com/Vaishu03)
 - [Daniel Oliveira](https://github.com/GulDaniel)
+- [Aman Singh Chauhan](https://github.com/aman9723)
 - [Weijian Duan](https://github.com/GymRat102)
 - [Urvesh Radadiya](https://github.com/URVESH1121)
 - [Jibrin Ahmed](https://github.com/TacetSteeze)
