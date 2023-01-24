@@ -1796,6 +1796,7 @@
 - [Payal Manghnani](https://github.com/payalpm)
 - [Niranjan D](https://github.com/usr-canis)
 - [The-Purgy](https://github.com/The-Purgy)
+- [SK](https://github.com/skuperst)
 - [Dhiraj Patra](https://github.com/dhirajpatra)
   <!-- prettier-ignore-end -->
 - [guliwa](https://github.com/zhubaiali)
