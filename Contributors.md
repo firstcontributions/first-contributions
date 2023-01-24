@@ -15,6 +15,7 @@
 - [dna737](https://github.com/dna737)
 Avinash Jha
 - [Salma Hamdi](https://github.com/Salma-2)
+[jay persad](https://github.com/jasonprogrammer775)
 - [Diego Parra](https://github.com/0bCdian)
 - [Nehorai Tubul](https://github.com/nehoraitubul)
 - [Mariana Padilla](https://github.com/elipadillad)
