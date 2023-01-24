@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [sbadi](https://github.col/sbadillo)
+- [Brynjar](https://github.com/binnih)
 - [Abhishek Shetty](https://github.com/bobbyy16)
 - [Dipankar Sahoo](https://github.com/Xxploiter)
 - [Yaekob Demisse](https://github.com/Jamescog)
