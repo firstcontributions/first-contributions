@@ -391,6 +391,7 @@
 - Andre-Ribera
 - [Khushboo Jain @ DevSoc]
 - Khadija Kamran
+- [Seb Fox]
 - [Grishma Raj Khanal](https://github.com/grishmakhanal)
 - [Riley Bruce](https://github.com/Riley94)
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
