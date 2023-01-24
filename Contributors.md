@@ -12,6 +12,7 @@
 - [Amrita Rajeshkumar](https://github.com/amrita-rajeshkumar)
 - [Elisha Tetteyfio](https://github.com/Elisha-Tetteyfio)
 - [dna737](https://github.com/dna737)
+Avinash Jha
 - [Salma Hamdi](https://github.com/Salma-2)
 - [Diego Parra](https://github.com/0bCdian)
 - [Nehorai Tubul](https://github.com/nehoraitubul)
