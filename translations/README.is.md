@@ -2,12 +2,12 @@
 
 Þetta project er til að einfalda og leiðbeina byrjendum við að búa til þeirra fyrsta framlag. Ef það er eitthvað þig langar að læra, endilega fylgdu eftir skrefunum hér fyrir neðan.
 
-_If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
+_Ef þú kannt ekki við þig í skel og vilt frekar nota grafískt viðmót. [hér eru leiðbeiningar til að nota grafísk viðmót.](#tutorials-using-other-tools)_
 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-#### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
+#### Ef þú ert ekki með git uppsett á tölvunni þinni [skoðaðu þessar leiðbeiningar](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
 ## Fork this repository
 
@@ -20,7 +20,7 @@ This will create a copy of this repository in your account.
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
 
-Open a terminal and run the following git command:
+Opnaðu skel og skrifaðu eftirfarandi skipun:
 
 ```
 git clone "url you just copied"
@@ -38,7 +38,7 @@ git clone https://github.com/this-is-you/first-contributions.git
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
-## Create a branch
+## Create a branch - Stofnun á grein
 
 Change to the repository directory on your computer (if you are not already there):
 
@@ -124,7 +124,7 @@ Now let's get you started with contributing to other projects. We've compiled a 
 
 ### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
 
-## Tutorials Using Other Tools
+## Kennsluefni fyrir önnur tól
 
 | <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
