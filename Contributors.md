@@ -1823,6 +1823,7 @@ Avinash Jha
 - [Dhiraj Patra](https://github.com/dhirajpatra)
 -[Weten-Ogen](https://github/com/Weten-Ogen)
 -[Monica-C.] (https://github.com/mcatcruz)
+-[Shaqeeb-Akhtar] (https://github.com/shaqeebwisdmlabs)
   <!-- prettier-ignore-end -->
 - [guliwa](https://github.com/zhubaiali)
 - [WayneYam](https://github/com/WayneYam)
