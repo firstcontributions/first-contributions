@@ -102,6 +102,7 @@ Subhajit Bera
 - [Chelcey](https://github.com/cguptail)
 -nini
 - [unick6](https://github.com/unick6)
+-[tariq](https://github.com/tariqBysl)
 -ankit
 - [Mayank Choudhary](https://github.com/Mayankchoudhary294)
 - [Larry Chen](https://github.com/clazzy0)
