@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [John Suman](https://github.com/kitsche)
 - [sbadi](https://github.col/sbadillo)
 - [Mohd Amaan](https://github.com/mhdamaan79)
 - [Brynjar](https://github.com/binnih)
