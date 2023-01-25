@@ -1310,6 +1310,7 @@ Rishabh Pandey
 - [Preston Harms](https://github.com/R3dPnd)
 - [Tanishq Agarwal](https://github.com/Tanishq2807)
 - [Joseph Martinez](https://github.com/jsmartinez11)
+- [Joshua Rodriguez😁](https://github.com/joshua-rdrgz)
 - [kaushalgosaliya5](https://github.com/kaushalgosaliya5)
 - [Taaki](https://github.com/taaki2311)
 - [Vidit Jain @DevSocPI](https://github.com/ViditJain123)
