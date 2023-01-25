@@ -1838,6 +1838,7 @@ Rishabh Pandey
 -[Weten-Ogen](https://github/com/Weten-Ogen)
 -[Monica-C.] (https://github.com/mcatcruz)
 -[Shaqeeb-Akhtar] (https://github.com/shaqeebwisdmlabs)
+  -[ToastFreak] (https://github.com/ToastFreak777)
   <!-- prettier-ignore-end -->
 - [guliwa](https://github.com/zhubaiali)
 - [WayneYam](https://github/com/WayneYam)
