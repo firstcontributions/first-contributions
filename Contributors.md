@@ -10,6 +10,7 @@
 - [Yaekob Demisse](https://github.com/Jamescog)
 - [Onur Çağan](https://github.com/onurcagan)
 - [MiliyanaS](https://github.com/MiliyanaS) 
+Chirag Rakh
 - [Edoye Ogoba David](https://github.com/DoyeDesigns)
 - [puru-sudo](https://github.com/puru-sudo)
 - [Dhruv Patel](https://github.com/DhruvPatel0401)
