@@ -26,6 +26,7 @@ Avinash Jha
 - [Nico Calderon](https://github.com/ncalderon16)
 - [Alkaison](https://github.com/alkaison)
 - [AlexRussss]
+Subhajit Bera
   [Smarpan Sharma](https://github.com/smarpan)
 - [Panzariu Ionut-Adrian](https://github.com/PanzariuAdi)
 - [Saurabh Jumnalkar](https://github.com/SaurabhJumnalkar)
