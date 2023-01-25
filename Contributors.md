@@ -77,9 +77,9 @@ Avinash Jha
 - [Boris Levenzon](https://github.com/cloudboundboris)
 - [Arpit Jain](https://github.com/code-arpit) 
 - [Maya Sollen-Norrlin](https://github.com/Masoleno)
-- Sudhanshu Rai
 - [Anirudh Revanur](https://github.com/AnirudhRevanur)
 - [Mitch Sfakianos](https://github.com/mazarinno)
+- Sudhanshu Rai
 - [Deep Makadiya](https://github.com/mac-deep)
 - [Rithick Chowdhury](https://github.com/Rithick69)
 - [Hamdi Vazim](https://github.com/hamdivazim)
