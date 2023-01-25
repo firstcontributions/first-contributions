@@ -413,6 +413,7 @@ Rishabh Pandey
 - [Khushboo Jain @ DevSoc]
 - Khadija Kamran
 - [Seb Fox]
+- [swapnil Dekate](https://github.com/smdekate)
 - [Grishma Raj Khanal](https://github.com/grishmakhanal)
 - [Riley Bruce](https://github.com/Riley94)
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
