@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Rajat Ganguly] (https://github.com/RajatWisdm/)
 - [John Suman](https://github.com/kitsche)
 - [sbadi](https://github.col/sbadillo)
 - [Mohd Amaan](https://github.com/mhdamaan79)
