@@ -15,6 +15,7 @@
 Chirag Rakh
 - [Edoye Ogoba David](https://github.com/DoyeDesigns)
 - [Josh Scoville](https://github.com/ag4sm)
+- [Gift Ibe](https://github.com/giftibe)
 - [puru-sudo](https://github.com/puru-sudo)
 - [Dhruv Patel](https://github.com/DhruvPatel0401)
 - [Amrita Rajeshkumar](https://github.com/amrita-rajeshkumar)
