@@ -403,6 +403,7 @@ Subhajit Bera
 - [Shreyas Mandaokar@shreyaspkl](https://github.com/shreyaspkl)
 - [Mustafa-Alwalss].
 - [MayAnk singh].
+Rishabh Pandey
 - [Farhan Sayyed](https://github.com/farhansayyed165)
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - Andre-Ribera
