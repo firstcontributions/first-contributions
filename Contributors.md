@@ -289,6 +289,7 @@ Avinash Jha
 - [Prince Dawson](https://github.com/dawssonCodes)
 - [Jessica Kharbanda] (https://github.com/JessicaKharbanda)
 - [Sachin Joshi](https://github.com/sachudj)
+- [Harshitha Sompura](https://github.com/h-sompura)
 - Aryan 
 - Leon
 - Prajwal Haniya
