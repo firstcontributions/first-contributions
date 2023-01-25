@@ -999,6 +999,7 @@ Rishabh Pandey
 - [Shubamium](https://github.com/Shubamium)
 - [Rajat Srivastava@DevsocPI]
 - [Phillip Chu](https://github.com/phillippchu)
+- [Profe Glip](https://github.com/Scr1ptechnick)
 - [Ivan Gutsev](https://github.com/IvanGutsev)
 - [Assogba charbel](https://github.com/charbossly)
 - [Aazim Parwaz](https://github.com/Aazim-parwaz)
