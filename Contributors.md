@@ -1,3 +1,7 @@
+
+
+
+
 # Contributors
 <!-- prettier-ignore-start -->
 - [Rajat Ganguly] (https://github.com/RajatWisdm/)
@@ -6,6 +10,15 @@
 - [Mohd Amaan](https://github.com/mhdamaan79)
 - [Brynjar](https://github.com/binnih)
 - [Abhishek Shetty](https://github.com/bobbyy16)
+
+
+
+Avinash Kumar Jha
+
+
+
+
+
 - [Dipankar Sahoo](https://github.com/Xxploiter)
 - [Yaekob Demisse](https://github.com/Jamescog)
 - [Onur Çağan](https://github.com/onurcagan)
