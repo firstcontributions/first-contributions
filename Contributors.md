@@ -190,6 +190,7 @@ Subhajit Bera
 - [Elizabeth Flack](https://github.com/Songlore)
 - [NLH](https://github.com/Vincent-NHtun)
 - [Amrit Raj](https://github.com/amritrj)
+- [Lukas Juelich](https://github.com/LeFreakALeak93)
 - [TheSaviourEking](https://github.com/TheSaviourEking)
 - [Amey Patil](https://github.com/AmeyPPatil)
 - [Mishkat Mustafid](https://github.com/mishkatmustafid)
