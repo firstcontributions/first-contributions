@@ -10,7 +10,7 @@
 - [Dipankar Sahoo](https://github.com/Xxploiter)
 - [Yaekob Demisse](https://github.com/Jamescog)
 - [Onur Çağan](https://github.com/onurcagan)
-- [MiliyanaS](https://github.com/MiliyanaS) 
+- [MiliyanaS](https://github.com/MiliyanaS)
 Chirag Rakh
 - [Edoye Ogoba David](https://github.com/DoyeDesigns)
 - [Josh Scoville](https://github.com/ag4sm)
@@ -80,7 +80,7 @@ Subhajit Bera
 - [m3g4d1v3r](https://github.com/m3g4d1v3r)
 - [Nandu P K](https://github.com/pkNandu)
 - [Boris Levenzon](https://github.com/cloudboundboris)
-- [Arpit Jain](https://github.com/code-arpit) 
+- [Arpit Jain](https://github.com/code-arpit)
 - [Maya Sollen-Norrlin](https://github.com/Masoleno)
 - Sudhanshu Rai
 - [Anirudh Revanur](https://github.com/AnirudhRevanur)
@@ -152,7 +152,7 @@ Subhajit Bera
 - [William Kelvin](https://github.com/WilliamKSilva)
 - [Thais Camacho](https://github.com/thaisacs)
 - [Dipak Kalauni](https://github.com/KaloniGiga)
-- [rishmitar](https://github.com/RishmitaR) 
+- [rishmitar](https://github.com/RishmitaR)
 - [Anupam malviya](https://github.com/tech-wizard720)
 - [Nadim Bou Alwan](https://github.com/nadinator)
 - [Susmit Ullas](https://github.com/Susmit-Ullas)
@@ -303,7 +303,7 @@ Subhajit Bera
 - [Jessica Kharbanda] (https://github.com/JessicaKharbanda)
 - [Sachin Joshi](https://github.com/sachudj)
 - [Harshitha Sompura](https://github.com/h-sompura)
-- Aryan 
+- Aryan
 - Leon
 - Prajwal Haniya
 - [Aarish Khan](https://github.com/aarishmkhan)
@@ -339,6 +339,7 @@ Subhajit Bera
 - [Kenta Mizuno](https://github.com/mizu0715)
 - [Ali Gorji](https://github.com/gorjiali)
 - [Hesam Soleymani](https://github.com/HesamSoleymani)
+- [Chris Young](https://github.com/Noslepr)
 - [Dave Devito](https:://github.com/DaveDevito)
 - [Pratik Lilhare](https://github.com/pratiklilhare/)
 - [Pranjay Yelkotwar] @DevSocInductions
@@ -367,7 +368,7 @@ Subhajit Bera
 - Link
 - Derrick Brandt
 - [sillyangel](https://github.com/sillyangel)
-- JamesBond 
+- JamesBond
 - Seyed Mahdi Sadat
 - Florian F
 - Patrick McKeever
@@ -382,7 +383,7 @@ Subhajit Bera
 - [Oyelowo Oyeleye Samuel](https://github.com/sammy-yuntin)
   [siddharth verma](https://github.com/sidharthviz)
 - [Chintan Golakiya](https://github.com/chintan-golakiya)
-- [Diwas Rimal](https://github.com/diwasrimal) 
+- [Diwas Rimal](https://github.com/diwasrimal)
 - [Shigaichi](https://github.com/Shigaichi)
 - [Neil Ohene](https://github.com/dvc-77)
 - dsvetina
@@ -648,7 +649,7 @@ Rishabh Pandey
 - [Sanchay Sahay]@DevsocPI
 - [Deept Ratna @DevsocPI]
 - [Nathan FAbio](https://github.com/nathanfabio)
-- [Joao Victor](https://github.com/x1ibns) 
+- [Joao Victor](https://github.com/x1ibns)
 - [Parth Naik]@DevsocPI
 - [Alejandro Reyes Cerecero](https://github.com/Cerecero)
 - [Abdurahman](https://github.com/abdurahmanjabiin)
@@ -1175,7 +1176,7 @@ Rishabh Pandey
 - [divya](https://github.com/Divya2k05)
 - [Arunima Chaudhuri](https://github.com/tinniaru3005)
 - [Arman Kumar Aditya@DevsocPI]
-- [Mike Bale](https://github.com/ripzerotwo) 
+- [Mike Bale](https://github.com/ripzerotwo)
 - [Domenico Ivan Fortuna](https://github.com/dromex22)
 - [Fredy Diaz](https://github.com/dddfred)
 - [Celeste Dubini](https://github.com/celestedubini)
@@ -1565,7 +1566,7 @@ Rishabh Pandey
 - [Sai Manoj Etcherla](https://github.com/saimanoj22)
 - [Adam Anderson](https://github.com/Adam-E-Anderson)
 - [Mayank Agrawal](https://github.com/Mayank30-creator)
-- [Emon](https://github.com/smremon) 
+- [Emon](https://github.com/smremon)
 - [Sham Vijay](https://github.com/iamvbenz49)
 - [Ryo Muta](https://github.com/r-mutax)
 - [Murilo Barbosa](https://github.com/murilodab)
@@ -1768,7 +1769,7 @@ Rishabh Pandey
 - [Jonathan Vega](https://github.com/JonVega)
 - [Stanley Louie](https://github.com/Iouie)
 - [Niranjan-GopaL](https://github.com/Niranjan-GopaL)
-- [Harshit Malang](https://github.com/hrshtmlng)  
+- [Harshit Malang](https://github.com/hrshtmlng)
 - [Michael Soriano](https://github.com/michaelsoriano)
 - [wqlu](https://github.com/wqlu)
 - [Ibragim GK](https://github.com/Ibrapsico)
@@ -1777,7 +1778,7 @@ Rishabh Pandey
 - [Marcos Santiago](https://github.com/Imaginarybandit)
 - [Honoris Gratias Ndereyimana. :wink:](https://github.com/nhonorisg/)
 - [Alessandro Saggese 😎](https://github.com/asaggse/)
-  [sucnd ](https://github.com/sucnd/) 
+  [sucnd ](https://github.com/sucnd/)
 - [Vinicius Antunes](https://github.com/vinicius-anp)
 - [Anshuman Tiwari](https://github.com/at610505)
 -[Kyle Starrett](https://github.com/akstarre)
@@ -1842,4 +1843,3 @@ Rishabh Pandey
 - [guliwa](https://github.com/zhubaiali)
 - [WayneYam](https://github/com/WayneYam)
 - [Naveen](https://github/com/naveen13-06)
-    
