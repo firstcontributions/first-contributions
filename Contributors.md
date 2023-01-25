@@ -1176,6 +1176,7 @@ Rishabh Pandey
 - [divya](https://github.com/Divya2k05)
 - [Arunima Chaudhuri](https://github.com/tinniaru3005)
 - [Arman Kumar Aditya@DevsocPI]
+- [Brice Neal](https://github.com/deresolution20)
 - [Mike Bale](https://github.com/ripzerotwo) 
 - [Domenico Ivan Fortuna](https://github.com/dromex22)
 - [Fredy Diaz](https://github.com/dddfred)
