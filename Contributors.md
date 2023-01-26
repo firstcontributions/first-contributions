@@ -1519,6 +1519,7 @@ Rishabh Pandey
 - [Aman Sharma](https://github.com/amansharma703)
 - [Siddharth Bhardwaj](https://github.com/TheUnofficialGod)
 - [notkaylee]
+  [AlexTierman](https://github.com/AlexTierman)
 - [Clarisse Deschamps](https://github.com/deschcla)
 - [Jesse Gerbrandt](https://github.com/Jgerbrandt)
 - [Aditya Singhal](https://github.com/adityaacse)
