@@ -53,6 +53,7 @@ Subhajit Bera
 - [Michaela Svancarova] (https://github.com/mysakli)
 - [Sahil Shaikh](https://github.com/Shaky-Sahil)
 - [Samuel K. Addison](https://github.com/SamAddy)
+- [LihaaDjem Lini](https://github.com/LihaaDjem)
 - [Marcos Adriano](https://github.com/drickchote)
 - [AKP](https://github.com/AungKhinePhyo)
 - [Ebuka Ejiofor](https://github.com/ebukathedev)
