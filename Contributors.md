@@ -1,6 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
-- [Abhirup Acharya] (https://github.com/abhirup009)
+- [Abhirup Acharya](https://github.com/abhirup009)
 - [Nay Zaw Aung] (https://github.com/nayzawaungnza)
 - [Rajat Ganguly] (https://github.com/RajatWisdm/)
 - [John Suman](https://github.com/kitsche)
