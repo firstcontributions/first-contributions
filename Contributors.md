@@ -1051,6 +1051,7 @@ Rishabh Pandey
 - [Anand pratap singh](https://github.com/rishu-singh9695)
 - [Michelle Wong](https://github.com/strawberrie68/)
 - [Pray Raskapoorwala]@DevSocPI
+- [DexterfreaK](https://github.com/DexterfreaK)
 - [Lars Vadgaard](https://github.com/vadgaard)
 - [Hrishikesh Tule](https://github.com/Hrishi5111998)
 - [Suraj Patra](https://github.com/Suraj-Patra)
@@ -1861,4 +1862,5 @@ Rishabh Pandey
 - [WayneYam](https://github/com/WayneYam)
 - [Naveen](https://github/com/naveen13-06)
 - [Muhammad](https://github.com/dev-muhammad)
+
     
