@@ -19,6 +19,7 @@ Chirag Rakh
 - [Josh Scoville](https://github.com/ag4sm)
 - [Gift Ibe](https://github.com/giftibe)
 - [puru-sudo](https://github.com/puru-sudo)
+- [Nahom girma](https://github.com/kylosonic)
 - [Dhruv Patel](https://github.com/DhruvPatel0401)
 - [Amrita Rajeshkumar](https://github.com/amrita-rajeshkumar)
 - [Elisha Tetteyfio](https://github.com/Elisha-Tetteyfio)
