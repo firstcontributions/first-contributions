@@ -93,6 +93,7 @@ Subhajit Bera
 - [Deep Makadiya](https://github.com/mac-deep)
 - [Rithick Chowdhury](https://github.com/Rithick69)
 - [Hamdi Vazim](https://github.com/hamdivazim)
+- Ifeanyi Michael
 - [Radu Bagrin](https://github.com/rbagrin)
 - [LoRdSoban](https://github.com/LoRdSoban)
 - [mavaro0707](https://github.com/mavaro0707)
