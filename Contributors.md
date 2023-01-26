@@ -357,6 +357,7 @@ Subhajit Bera
 - [Rohit Sagar](https://github.com/rohit-sagar256)
 - [Kshitij Verma@DevsocPI](https://github.com/melon9829)
 - [Prajwal Rudrakshi](https://github.com/pgrudra)
+- [Vaughan Butler](https://github/Wrinklytech)
 - [Divyansh Dabral @DevsocPI]
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 -[Abdiwali Eid](https://github.com/Abdiwali-Eid)
