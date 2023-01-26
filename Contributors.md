@@ -72,6 +72,7 @@ Subhajit Bera
 - [Ekam Bitt](https://github.com/Ekam-Bitt)
 - [Aviroop Banerjee](https://github.com/Aviroop-001)
 - [Eklemis](https://github.com/eklemis)
+- [Blake Shelby](https://github.com/leolautens)
 - [Ambar Avalos](https://github.com/ambar12345)
 - [Jainex 😄](https://github.com/Jainex17)
 - [Yasith Fernando] (https://github.com/yasithfernando)
