@@ -1,10 +1,11 @@
 # Contributors
 <!-- prettier-ignore-start -->
-- [Rajat Ganguly] (https://github.com/RajatWisdm/)
+- [Rajat Ganguly](https://github.com/RajatWisdm/)
 - [John Suman](https://github.com/kitsche)
 - [sbadi](https://github.col/sbadillo)
 - [Mohd Amaan](https://github.com/mhdamaan79)
 - [Brynjar](https://github.com/binnih)
+- [Adriana Bertrand](https://github.com/abeph00)
 - [Abhishek Shetty](https://github.com/bobbyy16)
 - [Dipankar Sahoo](https://github.com/Xxploiter)
 - [Yaekob Demisse](https://github.com/Jamescog)
