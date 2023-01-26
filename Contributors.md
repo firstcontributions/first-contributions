@@ -27,6 +27,7 @@ Chirag Rakh
 - [Abhishek Patil](https://github.com/HalfToothed)
 Avinash Jha
 - [Salma Hamdi](https://github.com/Salma-2)
+- [Alok Mahapatra] (https://github.com/AlokMahapatra26/first-contributions)
 [jay persad](https://github.com/jasonprogrammer775)
 - [Diego Parra](https://github.com/0bCdian)
 - [Nehorai Tubul](https://github.com/nehoraitubul)
