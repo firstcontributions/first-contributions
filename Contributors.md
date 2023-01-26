@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 - [Rajat Ganguly] (https://github.com/RajatWisdm/)
 - [John Suman](https://github.com/kitsche)
+- [David Nnacheta](https://github.col/dnnacheta)
 - [sbadi](https://github.col/sbadillo)
 - [Mohd Amaan](https://github.com/mhdamaan79)
 - [Brynjar](https://github.com/binnih)
