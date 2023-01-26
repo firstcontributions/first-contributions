@@ -39,6 +39,7 @@ Subhajit Bera
 - [Nisila Chandunu] (https://github.com/nisilachandunu)
 - [Parth Sharma](https://github.com/pxs4528)
 - [Michaela Svancarova] (https://github.com/mysakli)
+- [Adriana Bertrand](https://github.com/abeph00)
 - [Sahil Shaikh](https://github.com/Shaky-Sahil)
 - [Samuel K. Addison](https://github.com/SamAddy)
 - [Marcos Adriano](https://github.com/drickchote)
