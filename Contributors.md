@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Nay Zaw Aung] (https://github.com/nayzawaungnza)
 - [Rajat Ganguly] (https://github.com/RajatWisdm/)
 - [John Suman](https://github.com/kitsche)
 - [Ragnhild Marie Knudsen](https://github.com/rm-sk)
