@@ -1439,6 +1439,7 @@ Rishabh Pandey
 - [Adrien ANTON LUDWIG](https://github.com/Adrien-ANTON-LUDWIG)
 - [Manish](https://github.com/manish-xyz)
 - [Anugrah Rachman](https://github.com/kidomega-byte/)
+- [Marc López Aiblinger](https://github.com/mlopezab)
 - [Hector Quemada](https://github.com/hdquemada)
 - [Maheen Saleh](https://github.com/maheensaleh)
 - [Lynn Zukerman](https://github.com/Lynndz3)
