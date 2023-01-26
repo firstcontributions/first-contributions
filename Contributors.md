@@ -99,6 +99,7 @@ Subhajit Bera
 - [Md. Rumon Khan](https://github.com/rumon5h)
 - [Jam C.](https://github.com/maiqxx)
 - [Jarol Riera](https://github.com/jarolthecoder)
+- [Alessio De Marino](https://github.com/AlessioDeMarino)
 - [Hammad Nadeem](https://github.com/Hammadnadeem145)
 - [elowop](https://github.com/elowop)
 - [Salman Zahid](https://github.com/no9no9no9)
