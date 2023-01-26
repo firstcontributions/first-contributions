@@ -6,6 +6,7 @@
 - [Ragnhild Marie Knudsen](https://github.com/rm-sk)
 - [sbadi](https://github.col/sbadillo)
 - [Mohd Amaan](https://github.com/mhdamaan79)
+- [Aryan Maurya](https://github.com/108aryanmaurya)
 - [Brynjar](https://github.com/binnih)
 - [Shashank Shet](https://github.com/shashankshet)
 - [Abhishek Shetty](https://github.com/bobbyy16)
