@@ -1870,4 +1870,6 @@ Rishabh Pandey
 - [WayneYam](https://github/com/WayneYam)
 - [Naveen](https://github/com/naveen13-06)
 - [Muhammad](https://github.com/dev-muhammad)
+- [Trace Dugar](https://github.com/TraceDugar)
+- [Jacob Dang](https://github.com/JacobDangCS50)
     
