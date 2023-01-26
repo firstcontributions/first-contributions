@@ -108,6 +108,7 @@ Subhajit Bera
 - [Jam C.](https://github.com/maiqxx)
 - [Jarol Riera](https://github.com/jarolthecoder)
 - [Alessio De Marino](https://github.com/AlessioDeMarino)
+- [Uziel Carranza Charro](https://github.com/UzielCarranza)
 - [Hammad Nadeem](https://github.com/Hammadnadeem145)
 - [elowop](https://github.com/elowop)
 - [Salman Zahid](https://github.com/no9no9no9)
