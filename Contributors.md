@@ -156,6 +156,7 @@ Subhajit Bera
 - [Serge Basa](https://github.com/stikkas)
 - [Shreya Suthar](https://github.com/shreyasuthar655)
 - [ulmalana](https://github.com/ulmalana)
+- [Tomaz Martins Batista](https://github.com/Tomaz5556)
 - [Tarun Verma](https://github.com/tarun388)
 - [Sahil](https://github.com/sahil-1729)
 - [Remin T Roy](https://github.com/remindev)
