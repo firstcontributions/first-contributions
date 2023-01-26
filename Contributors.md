@@ -1810,6 +1810,7 @@ Rishabh Pandey
 -[Abhishek Yadav](https://github.com/Abhiyadav3114)
 - [Samrood Ali](https://github.com/SamroodAli)
 - [Marcus Otterstad](https://github.com/marcusotterstad)
+- [Alex Lauri](https://github.com/Alkxs)
 - [Vaibhav Kore](https://github.com/Vaibhav240804)
 - [Jordan Bianco](https://github.com/Jordan-Bianco)
 - [Mehar Giri](https://github.com/mehargiri)
