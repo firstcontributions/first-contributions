@@ -1880,6 +1880,7 @@ Rishabh Pandey
 - [Payal Manghnani](https://github.com/payalpm)
 - [Niranjan D](https://github.com/usr-canis)
 - [The-Purgy](https://github.com/The-Purgy)
+- [Kojo Ahyia-Osae](https://github.com/kj10dev)
 - [SK](https://github.com/skuperst)
 - [Dhiraj Patra](https://github.com/dhirajpatra)
 -[Weten-Ogen](https://github/com/Weten-Ogen)
