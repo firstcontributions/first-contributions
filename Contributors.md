@@ -24,6 +24,7 @@ Chirag Rakh
 - [Gift Ibe](https://github.com/giftibe)
 - [puru-sudo](https://github.com/puru-sudo)
 - [Nahom girma](https://github.com/kylosonic)
+-[Esakki Muthu](https://github.com/EsakkiMuthu-dev)
 - [Ujjwal Tarika](https://github.com/ujju2000)
 - [Dhruv Patel](https://github.com/DhruvPatel0401)
 - [Amrita Rajeshkumar](https://github.com/amrita-rajeshkumar)
