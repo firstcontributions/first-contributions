@@ -19,6 +19,7 @@
 Chirag Rakh
 - [Edoye Ogoba David](https://github.com/DoyeDesigns)
 - [Josh Scoville](https://github.com/ag4sm)
+- [Kent](https://github.com/kkentt)
 - [Gift Ibe](https://github.com/giftibe)
 - [puru-sudo](https://github.com/puru-sudo)
 - [Nahom girma](https://github.com/kylosonic)
