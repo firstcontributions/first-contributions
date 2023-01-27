@@ -1822,6 +1822,7 @@ Rishabh Pandey
 - [Pedrodc] (https://github.com/pedrodc7)
 - [grigaut](https://github.com/grigaut)
 - [Sarat Kota](https://github.com/kotasarat)
+- [Gavin Meeker](https://github.com/gmeeker99)
 - [Alan](https://github.com/Alan-John-Byrne)
 - [Rekerito](https://github.com/Rxkerito)
 - [Harkirat Cheema](https://github.com/harry-cheema07)
