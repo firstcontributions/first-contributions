@@ -1397,6 +1397,7 @@ Rishabh Pandey
 - [Shaavi Gupta](https://github.com/ShaaviGupta)
 - [Sai Rohit](https://github.com/sairohit360)
 - [Vrishti Godhwani@DevSocPI]
+- [Madzang]
 - [James Anyalewechi](https://github.com/jamesgotech)
 - [Dibakar Upadhyaya](https://github.com/Dibakar01)
 - [Johan Kreivi](https://github.com/0h4y)
