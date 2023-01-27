@@ -1813,7 +1813,7 @@ Avinash Jha
 - [SK](https://github.com/skuperst)
 - [Dhiraj Patra](https://github.com/dhirajpatra)
 -[Weten-Ogen](https://github/com/Weten-Ogen)
-- [Bruyere-m]
+- [Bruyere-m] (https://github.com/bruyere-m)
   <!-- prettier-ignore-end -->
 - [guliwa](https://github.com/zhubaiali)
 - [WayneYam](https://github/com/WayneYam)
