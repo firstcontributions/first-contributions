@@ -66,6 +66,7 @@ Subhajit Bera
 - [Vishal Yadav](https://github.com/VsalYadv)
 - [Deepak Papnoi - 00123]
 - [Kundan Singh](https://github.com/kundan1209)
+- [Jamako](https://github.com/RealJamako)
 - [Justin Lam](https://github.com/justinlam1)
 - [Sierra Nash](https://github.com/sasianan19)
 - [Pranav Joshi](https://github.com/PranavJoshi2893)
