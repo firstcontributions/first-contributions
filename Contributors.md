@@ -448,6 +448,7 @@ Rishabh Pandey
 - [Seb Fox]
 - [swapnil Dekate](https://github.com/smdekate)
 - [Grishma Raj Khanal](https://github.com/grishmakhanal)
+- [0xSilkweave](https://github.com/0xSilkweave)
 - [Riley Bruce](https://github.com/Riley94)
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
 - [Siddhant Chauhan](https://github.com/siddhant-0707)
