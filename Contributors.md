@@ -98,6 +98,7 @@ Subhajit Bera
 - [Yasith Fernando] (https://github.com/yasithfernando)
 - [Ritwij Kashyap](https://github.com/ritwij-kp)
 - [Navendu Bahukhandi](https://github.com/Ashxarya)
+- [Aditya Zende](https://github.com/ZendeAditya)
 - [Moi \😄](https://github.com/12moi)
 - [Abhilash Bijalwan](https://github.com/M4X1M4S)
 - [m3g4d1v3r](https://github.com/m3g4d1v3r)
