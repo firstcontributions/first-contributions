@@ -3,6 +3,7 @@
 - [Abhirup Acharya] (https://github.com/abhirup009)
 - [Nay Zaw Aung] (https://github.com/nayzawaungnza)
 - [Rajat Ganguly] (https://github.com/RajatWisdm/)
+- [Angelos Tzortzis](https://github.com/SneakyPlayerOne)
 - [John Suman](https://github.com/kitsche)
 - [Ragnhild Marie Knudsen](https://github.com/rm-sk)
 - [sbadi](https://github.col/sbadillo)
