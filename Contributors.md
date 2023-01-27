@@ -65,6 +65,7 @@ Subhajit Bera
 - [Justin Lam](https://github.com/justinlam1)
 - [Sierra Nash](https://github.com/sasianan19)
 - [Pranav Joshi](https://github.com/PranavJoshi2893)
+- [Yaseen Khan](https://github.com/Ykhan799)
 - [Kaleb Bär](https://github.com/kalebaer)
 - [Josh Noh](https://github.com/NohTaeHwan)
 - [Siddharth Rathore](https://github.com/s1dbugs)
