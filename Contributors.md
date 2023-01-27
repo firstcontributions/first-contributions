@@ -247,6 +247,7 @@ Subhajit Bera
 - [Sharat Katwa](https://github.com/sharatkatwa)
 - [C.J. Torgerson](https://github.com/ctorgerson10)
 - [Anwar isak](https://github.com/anwarisak)
+- [Ayush Aman](https://github.com/aayushaman)
   [Kartik khode](https://github.com/Kartiklk)
   [Matheus Telino](https://github.com/matheustelino)
 - [Arpana Sitoula](https://github.com/Arpana-Sitoula)
