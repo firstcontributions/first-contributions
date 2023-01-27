@@ -87,6 +87,7 @@ Subhajit Bera
 - [Eklemis](https://github.com/eklemis)
 - [Blake Shelby](https://github.com/leolautens)
 - [Ambar Avalos](https://github.com/ambar12345)
+- [Krishna](https://github.com/kcterala)
 - [Jainex 😄](https://github.com/Jainex17)
 - [Yasith Fernando] (https://github.com/yasithfernando)
 - [Ritwij Kashyap](https://github.com/ritwij-kp)
