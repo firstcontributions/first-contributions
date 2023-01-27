@@ -1868,6 +1868,7 @@ Rishabh Pandey
 - [Jean-Marie Lator](https://github.com/Bescore)
 - [deivard](https://github.com/deivard)
 - [Chao Neil Aryan Borgohain](https://github.com/ChaoNEil)
+- [Doran05](https://github.com/martinkuba333)
 - [Yuri Petrillo](https://github.com/yuripetrillo)
 - [Anukul Pandey](https://github.com/anukulpandey)
 - [Julia Lopes](https://github.com/lrjulia)
