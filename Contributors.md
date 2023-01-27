@@ -1812,7 +1812,7 @@ Avinash Jha
 - [The-Purgy](https://github.com/The-Purgy)
 - [SK](https://github.com/skuperst)
 - [Dhiraj Patra](https://github.com/dhirajpatra)
--[Weten-Ogen](https://github/com/Weten-Ogen)
+- [Weten-Ogen](https://github/com/Weten-Ogen)
 - [Bruyere-m](https://github.com/bruyere-m)
   <!-- prettier-ignore-end -->
 - [guliwa](https://github.com/zhubaiali)
