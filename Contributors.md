@@ -52,6 +52,7 @@ Subhajit Bera
 - [Gwen Asani](https://github.com/gwendolyn954)
 - [Jay Sexton](https://github.com/jaysexton
 - [Nisila Chandunu] (https://github.com/nisilachandunu)
+- [Lesther Orellana](https://github.com/eliuOrellest)
 - [Parth Sharma](https://github.com/pxs4528)
 - [Michaela Svancarova] (https://github.com/mysakli)
 - [Sahil Shaikh](https://github.com/Shaky-Sahil)
