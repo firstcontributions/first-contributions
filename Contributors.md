@@ -19,6 +19,7 @@
 - [MiliyanaS](https://github.com/MiliyanaS) 
 Chirag Rakh
 - [Edoye Ogoba David](https://github.com/DoyeDesigns)
+- [Nazeef](https://github.com/iamnazeef/)
 - [Josh Scoville](https://github.com/ag4sm)
 - [Kent](https://github.com/kkentt)
 - [Gift Ibe](https://github.com/giftibe)
