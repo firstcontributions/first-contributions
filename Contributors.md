@@ -85,6 +85,7 @@ Subhajit Bera
 - [Divyanshu Kushwaha](https://github.com/divyanshu69)
 - [Shubham Bhadada](https://github.com/shubhambhadada7)
 - [Brevin Kunde](https://github.com/bkunde)
+- [Bagoviggo](https://github.com/bagoviggo)
 - [Sansar Maske](https://github.com/sansarmaske)
 - [Ekam Bitt](https://github.com/Ekam-Bitt)
 - [Aviroop Banerjee](https://github.com/Aviroop-001)
