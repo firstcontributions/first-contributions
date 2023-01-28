@@ -896,6 +896,7 @@ Rishabh Pandey
 - [Sandip Tiwari](https://github.com/Sandip-Tiwari-435)
 - [Sarthak Mittal](https://github.com/SarthakMittal777)
 - [Ian Duncan](https://github.com/dr8co)
+- [Cristhian Flores](https://github.com/bachacode)
 - [Luisa Haase](https://github.com/luisaha)
 - [Nayna Sahu](https://github.com/NaynaSahu/)
 - shaurya tripathi @devsocpi
