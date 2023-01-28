@@ -78,6 +78,7 @@ Subhajit Bera
 - [Kundan Singh](https://github.com/kundan1209)
 - [Jamako](https://github.com/RealJamako)
 - [Justin Lam](https://github.com/justinlam1)
+- [Soham Roy](https://github.com/SohamRoy-01)
 - [Sierra Nash](https://github.com/sasianan19)
 - [Pranav Joshi](https://github.com/PranavJoshi2893)
 - [Yaseen Khan](https://github.com/Ykhan799)
