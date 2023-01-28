@@ -3,13 +3,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
+# Birinchi hissalar
 
-# Birinchi hissalar 
-
-Ushbu loyiha yangi boshlanuvchilarning birinchi hissasini qo'shish usullarini soddalashtirish va yo'naltirishga qaratilgan. Agar siz birinchi hissangizni qo'shmoqchi bo'lsangiz, quyidagi amallarni bajaring.   
+Ushbu loyiha yangi boshlanuvchilarning birinchi hissasini qo'shish usullarini soddalashtirish va yo'naltirishga qaratilgan. Agar siz birinchi hissangizni qo'shmoqchi bo'lsangiz, quyidagi amallarni bajaring.
 
 _Agar buyruq satri sizga mos bo'lmasa, [Bu erda GUI vositalaridan foydalanib amalga oshirishga oid darsliklari mavjud](#boshqa-vositalardan-foydalangan-darsliklar)_
-
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="repositoryni fork qiling" />
 
@@ -18,7 +16,7 @@ _Agar buyruq satri sizga mos bo'lmasa, [Bu erda GUI vositalaridan foydalanib ama
 ## Bu repositoryni fork qilib oling
 
 Bu repositoryni ushbu sahifaning yuqorisidagi fork tugmasini bosish orqali fork qilib oling
-Bu  akkountingizda ushbu repositoryning nusxasini yaratadi.
+Bu akkountingizda ushbu repositoryning nusxasini yaratadi.
 
 ## Bu repositoryni klon qilib oling
 
@@ -42,8 +40,8 @@ Misol uchun:
 git clone https://github.com/bu-siz/first-contributions.git
 ```
 
-bu yerdagi `bu-siz` sizning Github akkount nomingiz (username). Bu yerda Githubdagi  first-contributions repositorysining kontentlarini kompyuteringizga
-ko'chiryapsiz. 
+bu yerdagi `bu-siz` sizning Github akkount nomingiz (username). Bu yerda Githubdagi first-contributions repositorysining kontentlarini kompyuteringizga
+ko'chiryapsiz.
 
 ## Branch yaratish
 
@@ -67,7 +65,7 @@ git switch -c add-aliml92
 
 ## Kerakli o'zgarishlarni qiling va bu o'zgarishlarni commit qiling
 
-Endi matn muharririda `Contributors.md` faylini oching, unga ismingizni qo'shing. Uni faylning boshiga yoki oxiriga qo'shmang. Uni istalgan o'rta qismga  qo'shing. Endi faylni saqlang. 
+Endi matn muharririda `Contributors.md` faylini oching, unga ismingizni qo'shing. Uni faylning boshiga yoki oxiriga qo'shmang. Uni istalgan o'rta qismga qo'shing. Endi faylni saqlang.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
@@ -79,11 +77,12 @@ Agar proyekt katalogiga o'tsangiz va `git status` buyrug'ini yurg'izsangiz, o'zg
 git add Contributors.md
 ```
 
-Endi `git commit` buyrug'i yordamida bu o'zgarishlarni commit qiling: 
+Endi `git commit` buyrug'i yordamida bu o'zgarishlarni commit qiling:
 
 ```
 git commit -m "Contributors royxatiga ismingiz-ni kiritish"
 ```
+
 `ismingiz-` ni o'rniga o'zingizni ismingizni yozing.
 
 ## O'zgarishlarni Githubga push qilish
@@ -121,16 +120,13 @@ Tez orada men sizning barcha o'zgarishlaringizni ushbu proyektning main branchig
 
 ## bu yerdan qayerga borish?
 
-Tabriklayman! Siz horizgina contributor sifatida tez-tez uchraydigan standard ish ketma-ketligi ya'ni _fork -> clone -> edit -> pull request_ ni tamonladingiz. 
+Tabriklayman! Siz horizgina contributor sifatida tez-tez uchraydigan standard ish ketma-ketligi ya'ni _fork -> clone -> edit -> pull request_ ni tamonladingiz.
 
-Hissangizni nishonlang va [web app](https://firstcontributions.github.io/#social-share)ga o'tish orqali hamtovoqlaringiz va ergashuvshilaringizga ulashing. 
-
+Hissangizni nishonlang va [web app](https://firstcontributions.github.io/#social-share)ga o'tish orqali hamtovoqlaringiz va ergashuvshilaringizga ulashing.
 
 Agar sizga yordam kerak bo'lsa yoki savollaringiz bo'lsa, bizning slack jamoamizga qo'shilishingiz mumkin.[Slack jamoasiga qo'shiling](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Endi boshqa proyektlarga hissa qo‘shishni boshlaylik. Siz boshlashingiz mumkin bo'lgan oson masalalar bilan proyektlar ro'yxatini tuzdik. Ko'zdan kechiring [web appdagi proyektlar ro'yxati](https://firstcontributions.github.io/#project-list).
-
-### [Qo'shimcha materiallar](additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Boshqa Vositalardan Foydalangan Darsliklar
 
