@@ -11,6 +11,7 @@
 - [John Suman](https://github.com/kitsche)
 - [Ragnhild Marie Knudsen](https://github.com/rm-sk)
 - [sbadi](https://github.col/sbadillo)
+- [Hiu Yi NAM] (https://github.com/HYnam)
 - [Mohd Amaan](https://github.com/mhdamaan79)
 - [Aryan Maurya](https://github.com/108aryanmaurya)
 - [Brynjar](https://github.com/binnih)
