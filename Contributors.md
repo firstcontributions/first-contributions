@@ -17,6 +17,7 @@
 - [Shashank Shet](https://github.com/shashankshet)
 - [Abhishek Shetty](https://github.com/bobbyy16)
 - [Dipankar Sahoo](https://github.com/Xxploiter)
+- [Jeet Shah](https://github.com/jeetrshah)
 - [Yaekob Demisse](https://github.com/Jamescog)
 - [Onur Çağan](https://github.com/onurcagan)
 - [MiliyanaS](https://github.com/MiliyanaS) 
