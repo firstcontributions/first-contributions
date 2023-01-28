@@ -885,6 +885,7 @@ Rishabh Pandey
 - [wfrsk](hhpts://github.com/wfrsk)
 - [Sam Bautista](https://github.com/samsbg)
 - [Khalid-Hasan](https://github.com/khalidx3)
+- [Mawaz](https://github.com/mawaz)
 - [David Lopez](https://github.com/davidnoelopez)
 - [Moustafa Hassan](https://github.com/MoustafaHassan1)
 - [Rajat Agrawal](https://github.com/RajatAgrawal117)
