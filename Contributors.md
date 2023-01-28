@@ -1337,6 +1337,7 @@ Rishabh Pandey
 - [Chiamaka Ezemba](https://github.com/ChiamakaUI)
 - [smdch](https://github.com/smdch)
 - [gonend](https://github.com/gonend)
+- [Aryan Verma](https://github.com/aryanvarma7272)
 - [teventov5](https://github.com/teventov5)
 - [kevins0101](https://github.com/kevins0101)
 - [aloopuri](https://github.com/aloopuri)
