@@ -1225,6 +1225,7 @@ Rishabh Pandey
 - [Aksheet10](https://github.com/Aksheet10)
 - [David Letaw](https://github.com/davidletaw)
 - [Herman G]
+- [VIDIT MISHRA]
 - [Hossain Razavi](https://github.com/h-razavi)
 - [Hemanth3303](https://github.com/Hemanth3303)
 - [Sam Erde](https://github.com/SamErde)
