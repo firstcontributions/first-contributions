@@ -228,6 +228,7 @@ Subhajit Bera
 - [karthikeyan1946](https://github.com/karthikeyan1946)
 - [Rahul Chopra](https://github.com/rahulchopra-dev)
 - [Saurav Kumar 1](https://github.com/sauravsk7)
+- [Rakshit-Bisht](https://github.com/Rakshit-Bisht)
 - [Lee Tebbo Tebbs](https://github.com/leetebbs)
 - [Vinícius Assumpção de Araújo](https://github.com/viniman27)
 - [Shade St Claire](https://github.com/regeum-deus/)
