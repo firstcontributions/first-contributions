@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 -[Kalluri Naveen](https://github.com/kalluri02002)
 - [Prasad Joshi](https://github.com/predatorprasad)
+- [Het Joshi](https://bento.me/het-joshi)
 - [Shreyash Chavhan](https://github.com/shreyash184)
 - [Shubhankar Singh](https://github.com/shubhankar-mern)
 - [Abhirup Acharya] (https://github.com/abhirup009)
