@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Prasad Joshi](https://github.com/predatorprasad)
 - [Shubhankar Singh](https://github.com/shubhankar-mern)
 - [Abhirup Acharya] (https://github.com/abhirup009)
 - [Nay Zaw Aung] (https://github.com/nayzawaungnza)
