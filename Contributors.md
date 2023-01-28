@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+-[Kalluri Naveen](https://github.com/kalluri02002)
 - [Prasad Joshi](https://github.com/predatorprasad)
 - [Shreyash Chavhan](https://github.com/shreyash184)
 - [Shubhankar Singh](https://github.com/shubhankar-mern)
