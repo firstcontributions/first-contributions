@@ -997,6 +997,7 @@ Rishabh Pandey
 - [Raghuram Aluru@DevSoc]
 - [Sid Saythongphet](https://github.com/SidSaythongphet)
 - [Aman Bhagat](https://GitHub.com/sanayaa)
+- [Manoel Neto](https://github.com/eusouomanoel)
 - [Zoltan Nahoczki](https://github.com/nahoczki)
 - [Siddharth Singh](https://github.com/siddharthqs/rust_quant)
 - [Akshay Jain](https://github.com/rudeakshay)
