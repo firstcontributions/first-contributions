@@ -50,6 +50,7 @@ Avinash Jha
 - [Digpal Parmar](https://github.com/nivaran)
 - [Nico Calderon](https://github.com/ncalderon16)
 - [Alkaison](https://github.com/alkaison)
+- [Bartłomiej Góra] (https://github.com/bartgora)
 - [AlexRussss]
 Subhajit Bera
   [Smarpan Sharma](https://github.com/smarpan)
