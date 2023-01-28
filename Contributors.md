@@ -535,6 +535,7 @@ Rishabh Pandey
 - [Taksh Paresh Patel @devsoc pre induction]
 - [Aibek Z] (https://github.com/aibekz)
 - [Ramesh]
+- [Aditya Shah](https://github.com/AdityaJain09)
 - [Yash Rathi}@DevsocPI
 - [Sharvil Potdar@Devsoc PI](https://github.com/SMP111)
 - [Tanmoy khawas body_walia](https://github.com/hornycompiler)
