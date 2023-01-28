@@ -1812,6 +1812,7 @@ Rishabh Pandey
 - [Umi]
 - [Sapto Aji 🇮🇩](https://github.com/SaptooAji)
 - [Harshit](https://github.com/kaka-rot)
+- [Mallikarjun](https://github.com/Mallikarjun-Karalatti)
 - [Reza Sariful Fikri](https://github.com/rezafikkri)
 - [Samuel Essilfie](https://github.com/samezzz)
 - [Anna Burdanova](https://github.com/AnnaBurd)
