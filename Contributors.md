@@ -1428,6 +1428,7 @@ Rishabh Pandey
 - [Manish Kumar](https://github.com/Manish-kumar-DEV)
 - [Frank Din] (https://github.com/frankdin1)
 - [Nora Aguirre](https://github.com/nora-programadora)
+- [Vijay Aadhithya](https://github.com/vijayaadhithya2019rit)
 - [Guna Abola](https://github.com/g-abola)
 - [Shabana Naik](https://github.com/ShabanaNaik)
 - [Alex Sanzhanov](https://github.com/Sanzhanov)
