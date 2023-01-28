@@ -1280,6 +1280,7 @@ Rishabh Pandey
 - [Krishna-Kadu](https://github.com/KaiserKadu)
 - [Facundo Talavera](https://github.com/Fa2112)
 - [Timothy Chua](https://github.com/tdchua)
+- [Kasthuri-P](https://github.com/Kasthuri-P)
 - [TesseractionCode](https://github.com/TesseractionCode)
 - [Jyotishmoy konwar](https://github.com/Jyotishmoy365)
 - [Krishan-Kant-11](https://github.com/Krishan-Kant-11)
