@@ -1460,6 +1460,7 @@ Rishabh Pandey
 - [Aryan Thakore](https://github.com/Aryan1982)
 - [Hamza Nehme](https://github.com/hnehme99)
 - [Rucha @DevSocPI]
+- [Chris D](https://github.com/nesdev85)
 - [Hippolyte Thomas](https://github.com/hippothomas)
 - [Alexis Gonzalez](https://github.com/Alex-is-Gonzalez)
 - [Shreyash Gupta](https://github.com/shreyash2610)
