@@ -134,6 +134,7 @@ Subhajit Bera
 - [Rithick Chowdhury](https://github.com/Rithick69)
 - [Hamdi Vazim](https://github.com/hamdivazim)
 - Ifeanyi Michael
+- Harshit Toxia (https://github.com/harshittoxia)
 - [Radu Bagrin](https://github.com/rbagrin)
 - [LoRdSoban](https://github.com/LoRdSoban)
 - [mavaro0707](https://github.com/mavaro0707)
