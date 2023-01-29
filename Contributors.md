@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+-[Tse C](https://github.com/kyroC)
 -[Kalluri Naveen](https://github.com/kalluri02002)
 - [Prasad Joshi](https://github.com/predatorprasad)
 - [Het Joshi](https://bento.me/het-joshi)
