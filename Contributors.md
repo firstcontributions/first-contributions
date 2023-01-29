@@ -1937,4 +1937,5 @@ Rishabh Pandey
 - [Bhargav](https://github.com/Devr-pro)
 - [Hari Nandanan](https://github.com/iamharinandananbs)
 - [James Alhassan](https://github.com/jamesAlhassan)
+- [Suryansh Anand](https://github.com/spiritanand)
 
