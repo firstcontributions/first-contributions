@@ -1872,6 +1872,7 @@ Rishabh Pandey
 - [Harkirat Cheema](https://github.com/harry-cheema07)
 - [Harshita Upadhyay](https://github.com/harshita130602)
 - [Satyam Rai](https://github.com/Satyam-R)
+- [Tabish Khan](https://github.com/tabishkh-an)
 -[Manish Yadav](https://github.com/manishyadav951)
 - [Karan Patel](https://github.com/karanp10)
 - [Linussex-tips](https://github.com/LinusSex-Tips)
