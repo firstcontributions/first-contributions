@@ -1940,4 +1940,5 @@ Rishabh Pandey
 - [Hari Nandanan](https://github.com/iamharinandananbs)
 - [James Alhassan](https://github.com/jamesAlhassan)
 - [Suryansh Anand](https://github.com/spiritanand)
+- [Marsel Mingaripov] (https://github.com/MarselMingaripov)
 
