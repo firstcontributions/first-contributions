@@ -300,6 +300,7 @@ Subhajit Bera
 - [Marin](https://github.com/M4RIIN)
 - [Jubril Abdulsalam](https://github.com/jubril-a)
 - [disconsolated](https://github.com/disconsolated)
+- [Logasakthi](https://github.com/Logasakthi8)
 - [Matthew Kurtti](https://github.com/matthewkurtti)
 - [Bhuvanesh Purohit](https://github.com/BhuvaneshPurohit-git)
 - [Muhammad Waseem](https://github.com/WaseemYameen9)
