@@ -1556,7 +1556,7 @@ Rishabh Pandey
 - [Erasmo Salsano](https://github.com/ErasmoSalsano)
 - [duzzysroad](https://github.com/duzzysroad)
 - [Amal](https://github.com/XAL-AMLX)
-= [Nick](https://github.com/comfythread)
+  = [Nick](https://github.com/comfythread)
 - [Srivathsan V](https://github.com/Srivathsan-V)
 - [TJ Albertson](https://github.com/TJ-Albertson)
 - [Ruthik Jadhav](https://github.com/Ruthik130201)
@@ -1810,6 +1810,7 @@ Rishabh Pandey
 - [Rajat](https://github.com/alphadinu)
 - [Duy Dang](https://github.com/dqduy)
 - [Fitriningtyas](https://github.com/fitrifityanto)
+- [Saif Ali Prasla](https://github.com/Saifali786)
 - [TomMVWalters](https://github.com/TomMVWalters)
 - [John-Henry Zebulon Olson](https://github.com/jholson1030)
 - Ulises Quiñonez
