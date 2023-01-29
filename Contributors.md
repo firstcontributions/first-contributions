@@ -1878,7 +1878,7 @@ Rishabh Pandey
 -[Amrit Rai](https://github.com/retrogtx)
 -[Lily Clark](https://github.com/lilyclarkcodes)
 - [Nicolas Guruphat](https://github.com/NicolasGuruphat)
-- [Kenneth Presto](https://github.com/Kenneth12215)
+- [Kenneth Presto](https://github.com/kennethportizpresto)
 - [Michal Gagos](https://github.com/lizard123137)
 - [Vivek Srivastava](https://github.com/vivekfe)
 - [Ben Johansen](https://github.com/benjohansen)
