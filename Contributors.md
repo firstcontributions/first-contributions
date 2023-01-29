@@ -439,6 +439,7 @@ Subhajit Bera
 - Jaseel Hassan Koolath
 - Tariqs26
 - Yashwanth Krishna
+- Ozan
 - Ethan Nixon
 - [Edmar Campos] (https://github.com/Edax97)
 - [Ankan Dey] (https://github.com/ankan-0610)
