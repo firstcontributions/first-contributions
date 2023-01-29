@@ -634,6 +634,7 @@ Rishabh Pandey
 - [Tharun Chougoni]
 - [Uras Varolgunes]
 - [Limoo Kiplimo](https://github.com/Limookiplimo)
+- Kenneth Onu
 - [James Weber De Asis](https://github.com/forfeitpotato)
 - [Arnav Joshi] (https://githuyb.com/TheOfficialAJ)
 - [Noopur Sharma@DevsocPI]
