@@ -94,6 +94,7 @@ Subhajit Bera
 - [Srini] (https://github.com/ssiripuram)
 - [Satya Barghav](https://github.com/satyabarghav)
   [Yashkumar Nemane](https://github.com/yashnemane)
+- [Manoj Maurya](https://github.com/manojmaurya17)
 - [Priyanka Mary Christine](https://github.com/marycpriyanka)
 - [Glaucio Oliveira](https://github.com/7glaucio)
 - [Ankit Vimal](https://github.com/ankitvimal)
