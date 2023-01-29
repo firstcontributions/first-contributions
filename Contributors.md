@@ -152,7 +152,7 @@ Subhajit Bera
 - [Hammad Nadeem](https://github.com/Hammadnadeem145)
 - [elowop](https://github.com/elowop)
 - [Salman Zahid](https://github.com/no9no9no9)
-- [Zerodot618](https://github.com/zerodot618)
+- [Khubaib fayyaz](https://github.com/khubaib-fayaz)
 - [oyeKhadim](https://github.com/oyeKhadim)
 - [Saad Vakharia](https://github.com/SaadVakharia)
 - [KiranJodhani](https://github.com/KiranJodhani)
