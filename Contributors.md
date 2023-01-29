@@ -1,8 +1,10 @@
 # Contributors
 <!-- prettier-ignore-start -->
 -[Kalluri Naveen](https://github.com/kalluri02002)
+
 - [Prasad Joshi](https://github.com/predatorprasad)
 - [Het Joshi](https://bento.me/het-joshi)
+- [wuxinAI](https://github.com/wuxinAI)
 - [Shreyash Chavhan](https://github.com/shreyash184)
 - [Shubhankar Singh](https://github.com/shubhankar-mern)
 - [Abhirup Acharya] (https://github.com/abhirup009)
@@ -53,7 +55,7 @@ Avinash Jha
 - [Alkaison](https://github.com/alkaison)
 - [Bartłomiej Góra] (https://github.com/bartgora)
 - [AlexRussss]
-Subhajit Bera
+  Subhajit Bera
   [Smarpan Sharma](https://github.com/smarpan)
 - [Panzariu Ionut-Adrian](https://github.com/PanzariuAdi)
 - [Jovan Lanutan](https://github.com/tan911)
@@ -298,6 +300,7 @@ Subhajit Bera
   [TEP](https://github.com/Theint810)
   [Milo Barkow](https://github/com/milobarkow)
 - [Rodrigo](https://github.com/RodDotO)
+- 
 - [Rav Krof](https://github.com/Ravkrof)
 - [Allwyn T](https://github.com/AllwynThomas)
 - [Felix Lai](https://github.com/felixlaii)
@@ -1913,9 +1916,9 @@ Rishabh Pandey
 - [Kojo Ahyia-Osae](https://github.com/kj10dev)
 - [SK](https://github.com/skuperst)
 - [Dhiraj Patra](https://github.com/dhirajpatra)
--[Weten-Ogen](https://github/com/Weten-Ogen)
--[Monica-C.] (https://github.com/mcatcruz)
--[Shaqeeb-Akhtar] (https://github.com/shaqeebwisdmlabs)
+  -[Weten-Ogen](https://github/com/Weten-Ogen)
+  -[Monica-C.] (https://github.com/mcatcruz)
+  -[Shaqeeb-Akhtar] (https://github.com/shaqeebwisdmlabs)
   -[ToastFreak] (https://github.com/ToastFreak777)
   <!-- prettier-ignore-end -->
 - [guliwa](https://github.com/zhubaiali)
