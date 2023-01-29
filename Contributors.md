@@ -10,6 +10,7 @@
 - [Rajat Ganguly] (https://github.com/RajatWisdm/)
 - [Angelos Tzortzis](https://github.com/SneakyPlayerOne)
 - [John Suman](https://github.com/kitsche)
+- [Andrew Weng](https://github.com/amweng)
 - [Ragnhild Marie Knudsen](https://github.com/rm-sk)
 - [sbadi](https://github.col/sbadillo)
 - [Hiu Yi NAM] (https://github.com/HYnam)
