@@ -1943,6 +1943,7 @@ Rishabh Pandey
 - [Muhammad](https://github.com/dev-muhammad)
 - [Vladislav Tarasov] (https://github.com/tarvlad)
 - [Mahmoud Yousif](https://github.com/mahn00b)
+- [Arjun Ivor](https://github.com/arjunivor)
 - [Gaurav Singh](https://github.com/knowgaurav)
 - [Bhargav](https://github.com/Devr-pro)
 - [Hari Nandanan](https://github.com/iamharinandananbs)
