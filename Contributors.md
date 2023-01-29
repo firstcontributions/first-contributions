@@ -96,6 +96,7 @@ Subhajit Bera
 - [Pranav Joshi](https://github.com/PranavJoshi2893)
 - [Yaseen Khan](https://github.com/Ykhan799)
 - [Kaleb Bär](https://github.com/kalebaer)
+- [Tim Tscheppe](https://github.com/Tim-Tscheppe)
 - [Josh Noh](https://github.com/NohTaeHwan)
 - [Siddharth Rathore](https://github.com/s1dbugs)
 - [Harsh Kumar Raj](https://github.com/harshkumarraj)
