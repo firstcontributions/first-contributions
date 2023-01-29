@@ -30,6 +30,7 @@ Chirag Rakh
 - [Kent](https://github.com/kkentt)
 - [Gift Ibe](https://github.com/giftibe)
 - [puru-sudo](https://github.com/puru-sudo)
+- [Samoj Bhattarai](https://github.com/samojbhattarai)
 - [Nahom girma](https://github.com/kylosonic)
 -[Esakki Muthu](https://github.com/EsakkiMuthu-dev)
 - [Ujjwal Tarika](https://github.com/ujju2000)
