@@ -492,6 +492,7 @@ Rishabh Pandey
 - aumkar@DevsocPI
 - [Patrik Šušlík](https://github.com/smeglofus)
 - Chris Stevens
+- [Henry Li](https://github.com/Henrycodeproj)
 - [Sean Sew](https://github.com/ExpressOwl)
 - [Anjana Vishvanath](https://github.com/anjanavishvanath)
 - [Kyoumei](https://github.com/kyoumeia)
