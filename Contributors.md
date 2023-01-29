@@ -1931,8 +1931,7 @@ Rishabh Pandey
 - [Julia Lopes](https://github.com/lrjulia)
 - [Kushal Lahoti](https://github.com/kushalnl7)
 - [Curtis Cali](https://github.com/curtiscali)
-  
-
+- [ErNeRooo](https://github.com/ErNeRooo)
 -[Rishith P](https://github.com/Rishithp06)
 - [dsquirrel](https://github.com/dsquirrel1)
 - [aayushprime](https://github.com/aayushprime)
@@ -1962,5 +1961,5 @@ Rishabh Pandey
 - [James Alhassan](https://github.com/jamesAlhassan)
 - [Suryansh Anand](https://github.com/spiritanand)
 - [Marsel Mingaripov] (https://github.com/MarselMingaripov)
-- [Chirag jain] (https://github.com/chiragch)
-- [beep1boop] (https://github.com/beep1boop)
+- [Chirag jain](https://github.com/chiragch)
+- [beep1boop](https://github.com/beep1boop)
