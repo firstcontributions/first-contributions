@@ -5,6 +5,7 @@
 - [Prasad Joshi](https://github.com/predatorprasad)
 - [Het Joshi](https://bento.me/het-joshi)
 - [Shreyash Chavhan](https://github.com/shreyash184)
+- [Chirag Chouhan](https://github.com/Chirag-0)
 - [Aditya Vijayvargiya](https://github.com/Adityavijayvargiya01)
 - [Shubhankar Singh](https://github.com/shubhankar-mern)
 - [Abhirup Acharya] (https://github.com/abhirup009)
