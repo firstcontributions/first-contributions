@@ -969,6 +969,7 @@ Rishabh Pandey
 - [srinivasthedeveloper](https://github.com/srinivasthedeveloper)
 - [divijaa](https://github.com/divijaa)
 - [ngweishen99](https://github.com/ngweishen99)
+- [Marcelo Freri](https://github.com/mfreri)
 - [Arthur Utecht](https://github.com/autecht)
 - [Avedis_Yapoudjian](https://github.com/AvedisY)
 - <harshit kapoor>@DevsocPI
