@@ -1908,6 +1908,7 @@ Rishabh Pandey
 - [Tomma](https://github.com/tomma-a)
 - [Bindiya Kundaliya](https://github.com/bindiya-kundaliya)
 - [Meet Bhalodi](https://github.com/mit-bhalodi)
+- [Burunr](https://github.com/burunr)   
 - [Jean-Marie Lator](https://github.com/Bescore)
 - [deivard](https://github.com/deivard)
 - [Chao Neil Aryan Borgohain](https://github.com/ChaoNEil)
