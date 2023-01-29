@@ -1413,6 +1413,7 @@ Rishabh Pandey
 - [Joshua Knorz](https://github.com/JoshKn)
 - [SAI CHIDVILAS G@DevsocPI](https://github.com/chadvilas)
 - [Tri Pham](https://github.com/TriMPham98)
+- [leon16c] (https://github.com/leon16c)
 - [Vishvesh Pratap Singh](https://github.com/Vish221)
 - [iParadocx](https://github.com/iParadocx)
 - [Aditya Pudaruth](https://github.com/Aditya-Pudaruth)
