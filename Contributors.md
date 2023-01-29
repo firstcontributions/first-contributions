@@ -146,6 +146,7 @@ Subhajit Bera
 - [Saad Vakharia](https://github.com/SaadVakharia)
 - [KiranJodhani](https://github.com/KiranJodhani)
 - [Arun](https://github.com/darkclown97)
+- preet
 - [Chelcey](https://github.com/cguptail)
 -nini
 - [unick6](https://github.com/unick6)
