@@ -62,6 +62,7 @@
 - [kyawZin](https://github.com/kyawZin24)
 - [Suryansh Upadhyay](https://github.com/linneszyx)
 - [Kanwal Mehreen](https://github.com/kawiiii)
+- [Shashank Dwivedi](https://github.com/Imshk)
 - [Adilet Berdibekov](https://github.com/berdibekovadilet)
 - [Serge Basa](https://github.com/stikkas)
 - [Shreya Suthar](https://github.com/shreyasuthar655)
