@@ -566,6 +566,8 @@ Rishabh Pandey
 - [Faisal Saifi](https://github.com/faisalsaifii)
 - [Jake Butler](https://github.com/TioDelMundo)
 - Leon
+  pt33
+  yes we added!
 - Gabe (https://github.com/101itsGabe)
 - [Sarthak Jain@DevsocPI] (https://github.com/GurglingHammer)
 - [Vishal Kanwar](https://github.com/Kanvi1)
