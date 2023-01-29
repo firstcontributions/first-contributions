@@ -1656,6 +1656,7 @@ Rishabh Pandey
 - [Thomas Hegeman](https://github.com/Hegeman-Thomas001)
 - [Phillip Yen](https://github.com/yphillip)
 - [kan01234](https://github.com/kan01234/)
+- [Lauren Harradine] (https://github.com/laurenharradine)
 - [lazylittlestar](https://github.com/lazylittlestar)
 - [japesjake](http://github.com/japesjake)
 - [EvyatarEsterson🙂](https://github.com/EvyatarEsterson)
