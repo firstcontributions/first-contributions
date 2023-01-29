@@ -1940,6 +1940,7 @@ Rishabh Pandey
 - [WayneYam](https://github/com/WayneYam)
 - [Naveen](https://github/com/naveen13-06)
 - [Muhammad](https://github.com/dev-muhammad)
+- [Vladislav Tarasov] (https://github.com/tarvlad)
 - [Mahmoud Yousif](https://github.com/mahn00b)
 - [Gaurav Singh](https://github.com/knowgaurav)
 - [Bhargav](https://github.com/Devr-pro)
