@@ -1975,6 +1975,7 @@ Rishabh Pandey
 - [Naveen](https://github/com/naveen13-06)
 - [Muhammad](https://github.com/dev-muhammad)
 - [Vladislav Tarasov] (https://github.com/tarvlad)
+- [Danielle Gaudet](https://github.com/Codatrix)
 - [Mahmoud Yousif](https://github.com/mahn00b)
 - [Arjun Ivor](https://github.com/arjunivor)
 - [Gaurav Singh](https://github.com/knowgaurav)
