@@ -9,6 +9,7 @@
 - [Het Joshi](https://bento.me/het-joshi)
 - [Amir babazadeh](https://github.com/amirgit92)
 - [Shreyash Chavhan](https://github.com/shreyash184)
+- [Elvis Aguero](https://github.com/elvispy)
 - [Chirag Chouhan](https://github.com/Chirag-0)
 - [Aditya Vijayvargiya](https://github.com/Adityavijayvargiya01)
 - [Shubhankar Singh](https://github.com/shubhankar-mern)
