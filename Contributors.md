@@ -4,6 +4,7 @@
 -[Kalluri Naveen](https://github.com/kalluri02002)
 - [Prasad Joshi](https://github.com/predatorprasad)
 - [Dam Gyu Yang]
+- [Koren Weis] (https://github.com/korenw)
 - [Het Joshi](https://bento.me/het-joshi)
 - [Amir babazadeh](https://github.com/amirgit92)
 - [Shreyash Chavhan](https://github.com/shreyash184)
