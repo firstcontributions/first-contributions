@@ -211,6 +211,7 @@ Subhajit Bera
 - [Danny Carlton](https://github.com/thedannycarlton)
 - [bambooch](https://github.com/bambooch)
 - [kyawZin](https://github.com/kyawZin24)
+- [ Ankan Dutta ](https://github.com/FullMetalChains)
 - [Suryansh Upadhyay](https://github.com/linneszyx)
 - [Kanwal Mehreen](https://github.com/kawiiii)
 - [Adilet Berdibekov](https://github.com/berdibekovadilet)
