@@ -42,6 +42,7 @@ Chirag Rakh
 - [puru-sudo](https://github.com/puru-sudo)
 - [Samoj Bhattarai](https://github.com/samojbhattarai)
 - [Nahom girma](https://github.com/kylosonic)
+- [Shiva Seth](https://github.com/Shiva953)
 -[Esakki Muthu](https://github.com/EsakkiMuthu-dev)
 - [Ujjwal Tarika](https://github.com/ujju2000)
 - [Dhruv Patel](https://github.com/DhruvPatel0401)
