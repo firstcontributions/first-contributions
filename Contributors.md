@@ -13,6 +13,7 @@
 - [Abhirup Acharya] (https://github.com/abhirup009)
 - [Nay Zaw Aung] (https://github.com/nayzawaungnza)
 - [Rajat Ganguly] (https://github.com/RajatWisdm/)
+- [Katy Smith] (https://github.com/catrionafsmith)
 - [Angelos Tzortzis](https://github.com/SneakyPlayerOne)
 - [John Suman](https://github.com/kitsche)
 - [Andrew Weng](https://github.com/amweng)
