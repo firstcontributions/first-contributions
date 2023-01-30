@@ -97,6 +97,7 @@ Subhajit Bera
 - [Yaseen Khan](https://github.com/Ykhan799)
 - [Kaleb Bär](https://github.com/kalebaer)
 - [Tim Tscheppe](https://github.com/Tim-Tscheppe)
+- [Suriya4Code](https://github.com/suriya4code)
 - [Josh Noh](https://github.com/NohTaeHwan)
 - [Siddharth Rathore](https://github.com/s1dbugs)
 - [Harsh Kumar Raj](https://github.com/harshkumarraj)
