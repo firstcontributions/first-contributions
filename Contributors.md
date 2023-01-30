@@ -1986,3 +1986,4 @@ Rishabh Pandey
 - [beep1boop] (https://github.com/beep1boop)
 - [vahede] (https://github.com/vahede)
 - [Chiranjibi Neupane] (https://github.com/Zorax-X4)
+- [Sankeerth Patnaikuni] (https://github.com/sankeerth125)
