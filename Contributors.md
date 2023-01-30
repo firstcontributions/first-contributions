@@ -5,6 +5,7 @@
 - [Prasad Joshi](https://github.com/predatorprasad)
 - [Dam Gyu Yang]
 - [Het Joshi](https://bento.me/het-joshi)
+- [Amir babazadeh](https://github.com/amirgit92)
 - [Shreyash Chavhan](https://github.com/shreyash184)
 - [Chirag Chouhan](https://github.com/Chirag-0)
 - [Aditya Vijayvargiya](https://github.com/Adityavijayvargiya01)
