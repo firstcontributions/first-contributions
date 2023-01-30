@@ -273,6 +273,7 @@ Subhajit Bera
 - [Elizabeth Flack](https://github.com/Songlore)
 - [NLH](https://github.com/Vincent-NHtun)
 - [Amrit Raj](https://github.com/amritrj)
+- [Mostafa Eissa](https://github.com/EissaMostafa)
 - [Lukas Juelich](https://github.com/LeFreakALeak93)
 - [TheSaviourEking](https://github.com/TheSaviourEking)
 - [Amey Patil](https://github.com/AmeyPPatil)
