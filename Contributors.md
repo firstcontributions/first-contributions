@@ -1981,3 +1981,4 @@ Rishabh Pandey
 - [Chirag jain] (https://github.com/chiragch)
 - [beep1boop] (https://github.com/beep1boop)
 - [vahede] (https://github.com/vahede)
+- [Chiranjibi Neupane] (https://github.com/Zorax-X4)
