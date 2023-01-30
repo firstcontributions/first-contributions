@@ -22,7 +22,6 @@
 - [Andrew Weng](https://github.com/amweng)
 - [Ragnhild Marie Knudsen](https://github.com/rm-sk)
 - [sbadi](https://github.col/sbadillo)
-- [Elvis Aguero](https://github.com/elvispy)
 - [Hiu Yi NAM] (https://github.com/HYnam)
 - [Mohd Amaan](https://github.com/mhdamaan79)
 - [Aryan Maurya](https://github.com/108aryanmaurya)
