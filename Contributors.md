@@ -1432,6 +1432,7 @@ Rishabh Pandey
 - [Higor Chagas](https://github.com/HigorChagas)
 - [Matty Charitan](https://github.com/Matty-charitan)
 - [Thomas Furay](https://github.com/TFuray)
+- [Aushio](https://github.com/Aushio)
 - [Piyush Raviraj](https://github.com/Piyushraviraj2611)
 - [Dwayne Gibbs](https://dwaynegibbs.net)
 - [Angel Velasquez](https://github.com/angel-721)
