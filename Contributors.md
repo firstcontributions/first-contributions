@@ -1963,6 +1963,7 @@ Rishabh Pandey
 -[Monica-C.] (https://github.com/mcatcruz)
 -[Shaqeeb-Akhtar] (https://github.com/shaqeebwisdmlabs)
   -[ToastFreak] (https://github.com/ToastFreak777)
+  [Leandro Javier Loureiro] (https://github.com/leandrojl)
   <!-- prettier-ignore-end -->
 - [guliwa](https://github.com/zhubaiali)
 - [WayneYam](https://github/com/WayneYam)
