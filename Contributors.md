@@ -1,7 +1,8 @@
 # Contributors
 <!-- prettier-ignore-start -->
--[Tse C](https://github.com/kyroC)
--[Kalluri Naveen](https://github.com/kalluri02002)
+- [Tse C](https://github.com/kyroC)
+- [Sagar Kumar Sahoo](https://github.com/sagar-ksahoo)
+- [Kalluri Naveen](https://github.com/kalluri02002)
 - [Prasad Joshi](https://github.com/predatorprasad)
 - [Dam Gyu Yang]
 - [Het Joshi](https://bento.me/het-joshi)
