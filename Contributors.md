@@ -1254,6 +1254,7 @@ Rishabh Pandey
 - [Mohammad Mubaslat](https://github.com/mohammadmubaslat)
 - [Will Johnson](https://github.com/wij2012)
 - [Arnaduga](https://github.com/arnaduga)
+- [Andy Bowerman](https://github.com/AndyBowerman)
 - [PatentLobster](https://github.com/PatentLobster)
 - [Varun Prashant Kadkade](https://github.com/varun2430)
 - [Aditya Vijay](https://github.com/kiriotheo)
