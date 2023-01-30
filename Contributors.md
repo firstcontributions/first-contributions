@@ -18,6 +18,7 @@
 - [Nay Zaw Aung] (https://github.com/nayzawaungnza)
 - [Rajat Ganguly] (https://github.com/RajatWisdm/)
 - [Katy Smith] (https://github.com/catrionafsmith)
+- [Linzi Wilson] (https://github.com/LinziJayne36)
 - [Angelos Tzortzis](https://github.com/SneakyPlayerOne)
 - [John Suman](https://github.com/kitsche)
 - [Andrew Weng](https://github.com/amweng)
