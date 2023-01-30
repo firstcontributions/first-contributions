@@ -1180,6 +1180,7 @@ Rishabh Pandey
 - [Alex Buser](https://github.com/Albuser)
 - [Alex Peain](https://github.com/Alexpeain)
 - [Artyom Malyarenko](https://github.com/malaartyom)
+- [Nicholas Praimraj](https://github.com/NickPraimraj)
 - [Snigdha Sinha](https://github.com/snigdhaop)
 - [Dibyendu Das](https://github.com/dibyendu02)
 - [Amilcar Rodriguez](https://github.com/mkhi33)
