@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 -[Tse C](https://github.com/kyroC)
 -[Kalluri Naveen](https://github.com/kalluri02002)
+- [Emily Laidlaw](https://github.com/Emily-Laidlaw)
 - [Prasad Joshi](https://github.com/predatorprasad)
 - [Dam Gyu Yang]
 - [Koren Weis] (https://github.com/korenw)
