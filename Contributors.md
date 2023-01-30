@@ -83,6 +83,7 @@ Subhajit Bera
 - [Nisila Chandunu] (https://github.com/nisilachandunu)
 - [Lesther Orellana](https://github.com/eliuOrellest)
 - [Parth Sharma](https://github.com/pxs4528)
+- [Rishabh Raj Joshi](https://github.com/inclavus)
 - [Michaela Svancarova] (https://github.com/mysakli)
 - [Sahil Shaikh](https://github.com/Shaky-Sahil)
 - [Samuel K. Addison](https://github.com/SamAddy)
