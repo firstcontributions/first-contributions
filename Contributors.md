@@ -49,6 +49,7 @@ Avinash Jha
 - [Diego Parra](https://github.com/0bCdian)
 - [Nehorai Tubul](https://github.com/nehoraitubul)
 - [Mariana Padilla](https://github.com/elipadillad)
+- [Durga Rao Palagiri](https://github.com/durgarao-dev)
 - [Arthur](https://github.com/artporto007)
 - [Digpal Parmar](https://github.com/nivaran)
 - [Nico Calderon](https://github.com/ncalderon16)
