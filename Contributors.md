@@ -84,6 +84,7 @@ Subhajit Bera
 - [LihaaDjem Lini](https://github.com/LihaaDjem)
 - [Raj](https://github.com/workingpayload)
 - [Marcos Adriano](https://github.com/drickchote)
+- [pcyan](https://github.com/pcyan)
 - [AKP](https://github.com/AungKhinePhyo)
 - [Ebuka Ejiofor](https://github.com/ebukathedev)
 - [Abhijith B N](https://github.com/AbhijithBn)
