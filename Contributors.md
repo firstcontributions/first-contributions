@@ -1785,6 +1785,7 @@ Rishabh Pandey
 - [Shubhampaul](https://github.com/Shu12388y)
 - [Sleepypeanut] (https://github.com/sleepypeanut)
 - [Owen Fiber] (https://www.github.com/ofiber)
+- [Kingson Wong] (https://github.com/ks22ss)
 - [Anas Aijaz](https://github.com/anasaijaz)
 - [Abdullah Salman](https://github.com/A-Chughtai)
 - [Ali Zain Aldeen] (https://github.com/ali-zain-aldeen)
