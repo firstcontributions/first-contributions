@@ -9,6 +9,7 @@
 - [Kris Bruenn] (https://github.com/KrisBruenn)
 - [Koren Weis] (https://github.com/korenw)
 - [Het Joshi](https://bento.me/het-joshi)
+
 - [Amir babazadeh](https://github.com/amirgit92)
 - [Shreyash Chavhan](https://github.com/shreyash184)
 - [Sayan Sengupta](https://github.com/sayan169)
@@ -460,6 +461,7 @@ Subhajit Bera
 - JamesBond 
 - Seyed Mahdi Sadat
 - Florian F
+- Anurag sati
 - Patrick McKeever
 - Jaseel Hassan Koolath
 - Tariqs26
