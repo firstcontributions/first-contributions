@@ -156,6 +156,7 @@ Subhajit Bera
 - [Anirudh Revanur](https://github.com/AnirudhRevanur)
 - [Mitch Sfakianos](https://github.com/mazarinno)
 - Sudhanshu Rai
+- Ankit R Borude
 - [Deep Makadiya](https://github.com/mac-deep)
 - [Rithick Chowdhury](https://github.com/Rithick69)
 - [Hamdi Vazim](https://github.com/hamdivazim)
