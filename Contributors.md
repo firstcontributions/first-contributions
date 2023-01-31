@@ -1996,6 +1996,7 @@ Rishabh Pandey
 - [Marsel Mingaripov] (https://github.com/MarselMingaripov)
 - [Chirag jain] (https://github.com/chiragch)
 - [beep1boop] (https://github.com/beep1boop)
+- [karmelnaveen](https://github.com/karmelnaveen)
 - [vahede] (https://github.com/vahede)
 - [Chiranjibi Neupane] (https://github.com/Zorax-X4)
 - [Sankeerth Patnaikuni] (https://github.com/sankeerth125)
