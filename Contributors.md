@@ -47,6 +47,7 @@ Chirag Rakh
 - [Nazeef](https://github.com/iamnazeef/)
 - [Josh Scoville](https://github.com/ag4sm)
 - [Kent](https://github.com/kkentt)
+- [Ujjwal Saxena](https://github.com/Ujjwal-S)
 - [Gift Ibe](https://github.com/giftibe)
 - [puru-sudo](https://github.com/puru-sudo)
 - [Samoj Bhattarai](https://github.com/samojbhattarai)
