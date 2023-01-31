@@ -120,6 +120,7 @@ Subhajit Bera
 - [Priyanka Mary Christine](https://github.com/marycpriyanka)
 - [Glaucio Oliveira](https://github.com/7glaucio)
 - [Ankit Vimal](https://github.com/ankitvimal)
+- [Diego Guerreiro](https://github.com/d-error) 
 - [David Martinez](https://github.com/NicAtlas)
 - [Darvesh Chauhan](https://github.com/darvesh29)
 - [Sven Güttner](https://github.com/S-Guettner)
