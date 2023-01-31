@@ -559,6 +559,7 @@ Rishabh Pandey
 - [Ciaran H](https://github.com/ciaranhr)
 - [kartavya dubey at devsoc preinductions](https://github.com/Chrollucilfer)
 - [Hassan Maow](https://github.com/Hassan-Macow)
+- [skeoj] (https://github.com/skeoj)
 - [Prajwal G](https://github.com/PrajwalGraj)
 - [Shivani R](https://github.com/shivu-srk)
 - [Lizard S](https://github.com/lizard-Szilard)
