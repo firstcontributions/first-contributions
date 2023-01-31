@@ -34,6 +34,7 @@ Chirag Rakh
 - [Dhruv Patel](https://github.com/DhruvPatel0401)
 - [Amrita Rajeshkumar](https://github.com/amrita-rajeshkumar)
 - [Elisha Tetteyfio](https://github.com/Elisha-Tetteyfio)
+- [Nishan Ghimire](https://github.com/Nishaan-Ghimire/)
 - [dna737](https://github.com/dna737)
 - [Abhishek Patil](https://github.com/HalfToothed)
 Avinash Jha
