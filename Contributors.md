@@ -9,10 +9,12 @@
 - [Rolyyy](https://github.com/Rolyyy)
 - [Prasad Joshi](https://github.com/predatorprasad)
 - [Dam Gyu Yang]
+- [Kris Bruenn] (https://github.com/KrisBruenn)
 - [Koren Weis] (https://github.com/korenw)
 - [Het Joshi](https://bento.me/het-joshi)
 - [Amir babazadeh](https://github.com/amirgit92)
 - [Shreyash Chavhan](https://github.com/shreyash184)
+- [Sayan Sengupta](https://github.com/sayan169)
 - [Elvis Aguero](https://github.com/elvispy)
 - [Chirag Chouhan](https://github.com/Chirag-0)
 - [Aditya Vijayvargiya](https://github.com/Adityavijayvargiya01)
@@ -21,6 +23,7 @@
 - [Nay Zaw Aung] (https://github.com/nayzawaungnza)
 - [Rajat Ganguly] (https://github.com/RajatWisdm/)
 - [Katy Smith] (https://github.com/catrionafsmith)
+- [Linzi Wilson] (https://github.com/LinziJayne36)
 - [Angelos Tzortzis](https://github.com/SneakyPlayerOne)
 - [John Suman](https://github.com/kitsche)
 - [Andrew Weng](https://github.com/amweng)
@@ -53,6 +56,7 @@
 - [Dhruv Patel](https://github.com/DhruvPatel0401)
 - [Amrita Rajeshkumar](https://github.com/amrita-rajeshkumar)
 - [Elisha Tetteyfio](https://github.com/Elisha-Tetteyfio)
+- [Nishan Ghimire](https://github.com/Nishaan-Ghimire/)
 - [dna737](https://github.com/dna737)
 - [Abhishek Patil](https://github.com/HalfToothed)
   Avinash Jha
@@ -122,6 +126,7 @@
 - [Priyanka Mary Christine](https://github.com/marycpriyanka)
 - [Glaucio Oliveira](https://github.com/7glaucio)
 - [Ankit Vimal](https://github.com/ankitvimal)
+- [Diego Guerreiro](https://github.com/d-error) 
 - [David Martinez](https://github.com/NicAtlas)
 - [Darvesh Chauhan](https://github.com/darvesh29)
 - [Sven Güttner](https://github.com/S-Guettner)
@@ -154,6 +159,7 @@
 - [Anirudh Revanur](https://github.com/AnirudhRevanur)
 - [Mitch Sfakianos](https://github.com/mazarinno)
 - Sudhanshu Rai
+- Ankit R Borude
 - [Deep Makadiya](https://github.com/mac-deep)
 - [Rithick Chowdhury](https://github.com/Rithick69)
 - [Hamdi Vazim](https://github.com/hamdivazim)
@@ -179,10 +185,12 @@
 - [Arun](https://github.com/darkclown97)
 - preet
 - [Chelcey](https://github.com/cguptail)
-  -nini
-- [unick6](https://github.com/unick6) -[tariq](https://github.com/tariqBysl)
-  -ankit
-  -MaheshKumar
+-nini
+- [unick6](https://github.com/unick6)
+- [Ozan-E](https://github.com/Ozan-Ekinci)
+-[tariq](https://github.com/tariqBysl)
+-ankit
+-MaheshKumar
 - [Mayank Choudhary](https://github.com/Mayankchoudhary294)
 - [Larry Chen](https://github.com/clazzy0)
 - [Eti-ini Effiong-Robert](https://github.com/eti-iniER)
@@ -269,6 +277,7 @@
 - [Elizabeth Flack](https://github.com/Songlore)
 - [NLH](https://github.com/Vincent-NHtun)
 - [Amrit Raj](https://github.com/amritrj)
+- [Mostafa Eissa](https://github.com/EissaMostafa)
 - [Lukas Juelich](https://github.com/LeFreakALeak93)
 - [TheSaviourEking](https://github.com/TheSaviourEking)
 - [Amey Patil](https://github.com/AmeyPPatil)
@@ -1814,6 +1823,7 @@
 - [yash1744](https://github.com/yash1744)
 - [Josh Litam](https://github.com/joshlitam)
 - [ctran] (https://github.com/ctran414)
+- [Aaron Harvey] (https://github.com/AaronJHarvey/) 
 - [Xeplon](https://github.com/Xeplon)
 - [danesusername](https://github.com/danesusername)
 - [Rajat Bhosale](https://github.com/RajatBhosale)
@@ -1936,7 +1946,7 @@
 - [Julia Lopes](https://github.com/lrjulia)
 - [Kushal Lahoti](https://github.com/kushalnl7)
 - [Curtis Cali](https://github.com/curtiscali)
-
+- [ErNeRooo](https://github.com/ErNeRooo)
 -[Rishith P](https://github.com/Rishithp06)
 
 - [dsquirrel](https://github.com/dsquirrel1)
@@ -1946,6 +1956,7 @@
 - [Payal Manghnani](https://github.com/payalpm)
 - [Niranjan D](https://github.com/usr-canis)
 - [The-Purgy](https://github.com/The-Purgy)
+- [croductive](https://github.com/croductive)
 - [Kojo Ahyia-Osae](https://github.com/kj10dev)
 - [SK](https://github.com/skuperst)
 - [Dhiraj Patra](https://github.com/dhirajpatra) -[Weten-Ogen](https://github/com/Weten-Ogen) -[Monica-C.] (https://github.com/mcatcruz) -[Shaqeeb-Akhtar] (https://github.com/shaqeebwisdmlabs) -[ToastFreak] (https://github.com/ToastFreak777)
@@ -1956,6 +1967,7 @@
 - [Naveen](https://github/com/naveen13-06)
 - [Muhammad](https://github.com/dev-muhammad)
 - [Vladislav Tarasov] (https://github.com/tarvlad)
+- [Danielle Gaudet](https://github.com/Codatrix)
 - [Mahmoud Yousif](https://github.com/mahn00b)
 - [Arjun Ivor](https://github.com/arjunivor)
 - [Gaurav Singh](https://github.com/knowgaurav)
@@ -1969,3 +1981,4 @@
 - [vahede] (https://github.com/vahede)
 - [Chiranjibi Neupane] (https://github.com/Zorax-X4)
 - [Sankeerth Patnaikuni] (https://github.com/sankeerth125)
+- [Joe McCarty] (https://github.com/McCarty-Joe)
