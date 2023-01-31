@@ -216,6 +216,7 @@ Subhajit Bera
 - [kushal Punem](https://github.com/kushal-punem)
 - [Amanuil Boku](https://github.com/amanuil)
 - [Reid Gubler](https://github.com/reidemption)
+- [Aditya Patel](https://github.com/cacti23)
 - [Danny Carlton](https://github.com/thedannycarlton)
 - [bambooch](https://github.com/bambooch)
 - [kyawZin](https://github.com/kyawZin24)
