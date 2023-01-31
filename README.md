@@ -135,7 +135,12 @@ git switch -c add-alonzo-church
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Now open `Contributors.md` file in a text editor, add your name and github url to it in the format `- [you name] (your github url)`. 
+
+**_NOTE:_** Don't add the line at the beginning or end of the file. Put it anywhere in between. 
+**_NOTE:_** use the same format as shown above to keep the consistency.
+
+Now, save the file.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
