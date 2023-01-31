@@ -92,6 +92,7 @@ Subhajit Bera
 - [Parth Sharma](https://github.com/pxs4528)
 - [Rishabh Raj Joshi](https://github.com/inclavus)
 - [Michaela Svancarova] (https://github.com/mysakli)
+- [Adriana Bertrand](https://github.com/abeph00)
 - [Sahil Shaikh](https://github.com/Shaky-Sahil)
 - [Samuel K. Addison](https://github.com/SamAddy)
 - [Saiprakash Shet] (https://github.com/saiprakash2)
