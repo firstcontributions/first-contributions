@@ -184,6 +184,7 @@ Subhajit Bera
 - [Chelcey](https://github.com/cguptail)
 -nini
 - [unick6](https://github.com/unick6)
+- [Ozan-E](https://github.com/Ozan-Ekinci)
 -[tariq](https://github.com/tariqBysl)
 -ankit
 -MaheshKumar
