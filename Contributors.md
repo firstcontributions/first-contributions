@@ -14,6 +14,7 @@
 - [Amir babazadeh](https://github.com/amirgit92)
 - [Shreyash Chavhan](https://github.com/shreyash184)
 - [Sayan Sengupta](https://github.com/sayan169)
+- [Tumininu Akande](https://github.com/devtumi)
 - [Elvis Aguero](https://github.com/elvispy)
 - [Chirag Chouhan](https://github.com/Chirag-0)
 - [Kern Jacobo](https://github.com/kernpinoy)
