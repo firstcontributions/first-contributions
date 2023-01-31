@@ -645,6 +645,7 @@ Rishabh Pandey
 - [al-imam](https://github.com/al-imam)
 - [Vikhyat Gupta@DevsocPI]
 - [Aondrej-Ryan](https://github.com/aryan10293)
+- [Jônatas Pereira](https://github.com/euJonatasDev)
 - [Anagh Bhasker](https://github.com/anaghbhasker)
 - [Hasibur Rahman](https://github.com/hasiburdev)
 - [Bharat Tyagi](https://github.com/BharatAtbrat)]
