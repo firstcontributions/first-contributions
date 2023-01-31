@@ -2004,3 +2004,4 @@ Rishabh Pandey
 - [Chiranjibi Neupane] (https://github.com/Zorax-X4)
 - [Sankeerth Patnaikuni] (https://github.com/sankeerth125)
 - [Joe McCarty] (https://github.com/McCarty-Joe)
+- [Viktoriia Krasko] (https://github.com/ViktoriiaKrasko)
