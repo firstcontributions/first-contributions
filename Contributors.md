@@ -517,6 +517,7 @@ Rishabh Pandey
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
 - [Siddhant Chauhan](https://github.com/siddhant-0707)
 - [vandan doshi](https://github.com/Vandan19)
+- [Liam Palma Visser](https://github.com/LiamPalmaVisser)
 - aumkar@DevsocPI
 - [Patrik Šušlík](https://github.com/smeglofus)
 - Chris Stevens
