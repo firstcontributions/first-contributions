@@ -14,6 +14,7 @@
 - [Sayan Sengupta](https://github.com/sayan169)
 - [Elvis Aguero](https://github.com/elvispy)
 - [Chirag Chouhan](https://github.com/Chirag-0)
+- [Kern Jacobo](https://github.com/kernpinoy)
 - [Aditya Vijayvargiya](https://github.com/Adityavijayvargiya01)
 - [Shubhankar Singh](https://github.com/shubhankar-mern)
 - [Abhirup Acharya] (https://github.com/abhirup009)
