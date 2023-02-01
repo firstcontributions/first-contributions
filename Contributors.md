@@ -35,6 +35,7 @@
 - [sbadi](https://github.col/sbadillo)
 - [Hiu Yi NAM] (https://github.com/HYnam)
 - [Mohd Amaan](https://github.com/mhdamaan79)
+- [Wenslaus Kachasu](https://github.com/wenslauskc)
 - [Aryan Maurya](https://github.com/108aryanmaurya)
 - [Khushbu Sinha](https://github.com/khushbuSinha29)
 - [Brynjar](https://github.com/binnih)
