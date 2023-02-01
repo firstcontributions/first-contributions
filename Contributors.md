@@ -1598,6 +1598,7 @@ Rishabh Pandey
 - [Shubhanshu Gupta](https://github.com/Gptshubh)
 - [shaileshb](https://github.com/shaileshhb)
 - [clarai1](https://github.com/clarai1)
+- [Chaz Handa] (https://github.com/ChazHanda)
 - [Angie Bowen](https://github.com/AngelaBowen)
 - [Victor F.](https://github.com/victorfyonemoto)
 - [Jasjot Singh](https://github.com/jasjotb)
