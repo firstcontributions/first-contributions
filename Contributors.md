@@ -1,9 +1,9 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
--[Tse C](https://github.com/kyroC) -[Kalluri Naveen](https://github.com/kalluri02002)
-
+[martindevelopske] (martindevelops.dev)
+-[Tse C](https://github.com/kyroC)
+-[Kalluri Naveen](https://github.com/kalluri02002)
 - [Mohamad Salimi](https://github.com/salimi-my)
 - [Emily Laidlaw](https://github.com/Emily-Laidlaw)
 - [Rolyyy](https://github.com/Rolyyy)
