@@ -10,6 +10,7 @@
 - [Dam Gyu Yang]
 - [Mahir Ahammed](https://github.com/MahirAhammed)
 - [ytian]
+- [Pritam Sapkota](https://github.com/pritamsap)
 - [Geronimo Costa Peuser] (https://github.com/GeronimoCostaPeuser)
 - [Meseret Alemnew](https://github.com/meseret-ale)
 - [Kris Bruenn] (https://github.com/KrisBruenn)
