@@ -477,6 +477,7 @@ Subhajit Bera
 - Link
 - Derrick Brandt
 - [sillyangel](https://github.com/sillyangel)
+- [omar-araboghli](https://github.com/omar-araboghli)
 - JamesBond 
 - Seyed Mahdi Sadat
 - Florian F
