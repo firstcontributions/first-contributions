@@ -11,6 +11,7 @@
 - [Anant shukla](https://github.com/Anantshukla007)
 - [Dam Gyu Yang]
 - [ytian]
+- [Meseret Alemnew](https://github.com/meseret-ale)
 - [Kris Bruenn] (https://github.com/KrisBruenn)
 - [Koren Weis] (https://github.com/korenw)
 - [Het Joshi](https://bento.me/het-joshi)
@@ -1914,6 +1915,7 @@ Chirag Rakh
 - [Ibragim GK](https://github.com/Ibrapsico)
 - [Revathi Vijayendran](https:github.com/vrrevi)
 - [Damon Xue](https://github.com/damonxue)
+- [Alex J] (https://github.com/scjundev)
 - [Marcos Santiago](https://github.com/Imaginarybandit)
 - [Honoris Gratias Ndereyimana. :wink:](https://github.com/nhonorisg/)
 - [Alessandro Saggese 😎](https://github.com/asaggse/)
@@ -1978,8 +1980,13 @@ Chirag Rakh
 - [croductive](https://github.com/croductive)
 - [Kojo Ahyia-Osae](https://github.com/kj10dev)
 - [SK](https://github.com/skuperst)
-- [Dhiraj Patra](https://github.com/dhirajpatra) -[Weten-Ogen](https://github/com/Weten-Ogen) -[Monica-C.] (https://github.com/mcatcruz) -[Shaqeeb-Akhtar] (https://github.com/shaqeebwisdmlabs) -[ToastFreak] (https://github.com/ToastFreak777)
-[Leandro Javier Loureiro] (https://github.com/leandrojl)
+- [Dhiraj Patra](https://github.com/dhirajpatra)
+-[Weten-Ogen](https://github/com/Weten-Ogen)
+-[Malav p](https://github.com/mDprajapati)
+-[Monica-C.] (https://github.com/mcatcruz)
+-[Shaqeeb-Akhtar] (https://github.com/shaqeebwisdmlabs)
+  -[ToastFreak] (https://github.com/ToastFreak777)
+  [Leandro Javier Loureiro] (https://github.com/leandrojl)
   <!-- prettier-ignore-end -->
 - [guliwa](https://github.com/zhubaiali)
 - [WayneYam](https://github/com/WayneYam)
