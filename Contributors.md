@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 [martindevelopske] (martindevelops.dev)
 -[Tse C](https://github.com/kyroC)
+-[Ahmed Abdelsalam](https://github.com/Bakar404)
 -[Kalluri Naveen](https://github.com/kalluri02002)
 - [Emily Laidlaw](https://github.com/Emily-Laidlaw)
 - [Rolyyy](https://github.com/Rolyyy)
