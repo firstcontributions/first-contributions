@@ -39,6 +39,7 @@
 - [Abhishek Shetty](https://github.com/bobbyy16)
 - [Dipankar Sahoo](https://github.com/Xxploiter)
 - [Jeet Shah](https://github.com/jeetrshah)
+- [Alex Vranas](https://github.com/avranas)
 - [Yaekob Demisse](https://github.com/Jamescog)
 - [Onur Çağan](https://github.com/onurcagan)
 - [MiliyanaS](https://github.com/MiliyanaS) 
