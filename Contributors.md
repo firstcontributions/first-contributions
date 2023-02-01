@@ -196,6 +196,7 @@ Subhajit Bera
 - [Salman Zahid](https://github.com/no9no9no9)
 - [Khubaib fayyaz](https://github.com/khubaib-fayaz)
 - [oyeKhadim](https://github.com/oyeKhadim)
+- [Nick Nguyen]
 - [Saad Vakharia](https://github.com/SaadVakharia)
 - [KiranJodhani](https://github.com/KiranJodhani)
 - [Anju Narnolia](https://github.com/Anju3750)
