@@ -774,7 +774,7 @@ Rishabh Pandey
 - [viral mishra@DevsocPI](https://github.com/mohameddjebloun)
 - [Akash Ojha](https://github.com/ojhakash)
 - [Vanshagra Rai](https://github.com/VanshagraRai)
-  [Shoaib Akhtar](https://github.com/sk370008)
+- [Shoaib Akhtar](https://github.com/sk370008)
 - [Divyansh Dabral @DevsocPI]
 - [Ausawin Saehaan](https://github.com/saehaana)
 - [Matthew Song](https://github.com/LuxArgentum)
