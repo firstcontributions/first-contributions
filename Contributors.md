@@ -1999,6 +1999,7 @@ Rishabh Pandey
 - [aayushprime](https://github.com/aayushprime)
 - [aattwwss](https://github.com/aattwwss)
 - [Jay Shankarpure](https://github.com/Arthavruksha)
+- [renjygit] (https://github.com/renjygit/first-contributions)
 - [Payal Manghnani](https://github.com/payalpm)
 - [Niranjan D](https://github.com/usr-canis)
 - [The-Purgy](https://github.com/The-Purgy)
