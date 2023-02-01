@@ -3,6 +3,7 @@
 [martindevelopske] (martindevelops.dev)
 -[Tse C](https://github.com/kyroC)
 -[Kalluri Naveen](https://github.com/kalluri02002)
+- [Shengyuan Wang](https://github.com/ShengyuanWang)
 - [Emily Laidlaw](https://github.com/Emily-Laidlaw)
 - [Rolyyy](https://github.com/Rolyyy)
 - [Prasad Joshi](https://github.com/predatorprasad)
