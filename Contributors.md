@@ -866,6 +866,7 @@ Rishabh Pandey
 - [Coutlocksmith](https://github.com/coutlocksmith)
 - [Arlin Ortiz](https://github.com/Aosmiles)
 - [Aditya Sharma](https://github.com/AdityaSharma223)
+- [Mohamad Salimi](https://github.com/salimi-my)
 - [Yash Wake](https://github.com/yashwxd)
 - Vartika Parikh @DevSocPI
 - [Ankith Motha](https://github.com/Alpha-github/)
