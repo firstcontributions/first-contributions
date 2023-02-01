@@ -9,6 +9,7 @@
 - [Anant shukla](https://github.com/Anantshukla007)
 - [Dam Gyu Yang]
 - [ytian]
+- [Meseret Alemnew](https://github.com/meseret-ale)
 - [Kris Bruenn] (https://github.com/KrisBruenn)
 - [Koren Weis] (https://github.com/korenw)
 - [Het Joshi](https://bento.me/het-joshi)
