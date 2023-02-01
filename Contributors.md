@@ -128,6 +128,7 @@ Subhajit Bera
 - [Kaleb Bär](https://github.com/kalebaer)
 - [Tim Tscheppe](https://github.com/Tim-Tscheppe)
 - [Suriya4Code](https://github.com/suriya4code)
+- [symo](https://github.com/shwe-oo)
 - [Josh Noh](https://github.com/NohTaeHwan)
 - [Siddharth Rathore](https://github.com/s1dbugs)
 - [Harsh Kumar Raj](https://github.com/harshkumarraj)
