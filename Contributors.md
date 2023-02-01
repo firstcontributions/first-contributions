@@ -69,6 +69,7 @@ Chirag Rakh
 - [Abhishek Patil](https://github.com/HalfToothed)
 Avinash Jha
 - [Salma Hamdi](https://github.com/Salma-2)
+- [Nishant Karn](https://github.com/me-nk007)
 - [Miran Amer](https://github.com/miranamer)
 - [Alok Mahapatra] (https://github.com/AlokMahapatra26/first-contributions)
 [jay persad](https://github.com/jasonprogrammer775)
