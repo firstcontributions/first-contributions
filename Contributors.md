@@ -18,6 +18,7 @@
 - [Kris Bruenn] (https://github.com/KrisBruenn)
 - [Koren Weis] (https://github.com/korenw)
 - [Het Joshi](https://bento.me/het-joshi)
+- [Kanhaiya gavit]
 - [Alexis Torosina] (https://github.com/alexistorosina1)
 - [Amir babazadeh](https://github.com/amirgit92)
 - [Shreyash Chavhan](https://github.com/shreyash184)
