@@ -48,6 +48,7 @@
 - [Aryan Maurya](https://github.com/108aryanmaurya)
 - [Khushbu Sinha](https://github.com/khushbuSinha29)
 - [David Zurita](https://github.com/DaveSticks)
+- [RAGHU S](https://github.com/raghu-007)
 - [Brynjar](https://github.com/binnih)
 - [Shashank Shet](https://github.com/shashankshet)
 - [Abhishek Shetty](https://github.com/bobbyy16)
