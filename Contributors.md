@@ -1464,6 +1464,7 @@ Rishabh Pandey
 - [kevins0101](https://github.com/kevins0101)
 - [aloopuri](https://github.com/aloopuri)
 - [Samarth](https://github.com/samarth777)
+- [Mario Luengo](https://github.com/mluengo96)
 - [Abidi-S](https://github.com/Abidi-S)
 - [Sandeep Nayak](https://github.com/SANDEEP-NAYAK)
 - [Tarif Higolja](https://github.com/mr-hingolja)
