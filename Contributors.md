@@ -2029,6 +2029,7 @@ Rishabh Pandey
 - [Danielle Gaudet](https://github.com/Codatrix)
 - [Mahmoud Yousif](https://github.com/mahn00b)
 - [Antoine Germon] (https://github.com/Antoine-Germon)
+- Brandon Udall
 - [Arjun Ivor](https://github.com/arjunivor)
 - [Gaurav Singh](https://github.com/knowgaurav)
 - [Bhargav](https://github.com/Devr-pro)
