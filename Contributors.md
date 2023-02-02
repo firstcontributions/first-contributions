@@ -247,6 +247,7 @@ Subhajit Bera
 - [pradipta-kalita](https://github.com/pradipta-kalita)
 -[Snehal Shyamsukha](https://github.com/snehal-shyamsukha)
 - [Tan Shao Chong](https://github.com/ackselz)
+- [Simon Whelan](https://github.com/siwhelan)
 - [Suraj Manandhar](https://github.com/jarusman)
 - [kushal Punem](https://github.com/kushal-punem)
 - [Amanuil Boku](https://github.com/amanuil)
