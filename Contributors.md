@@ -2067,3 +2067,4 @@ Rishabh Pandey
 - WOoOD
 - [Aymen Sakouhi] (https://github.com/AymenSakouhi)
 - [Nahom Negash] (https://github.com/Nnegash1)
+- [Klaudia Sapiecha](https://github.com/klaudiasapiecha)
