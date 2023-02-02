@@ -1025,6 +1025,7 @@ Rishabh Pandey
 - [Dionne Mascarenhas](https://github.com/dmasc2)
 - [Usman Khan](https://github.com/UsmanK7)
 - [SAURABH200300](https://github.com/SAURABH200301)
+- [dezzerlol](https://github.com/dezzerlol)
 - [Mustafa Bhm](https://github.com/mustafa-bhm)
 - [ski-go]()
 - [BM]
