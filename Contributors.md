@@ -181,6 +181,7 @@ Subhajit Bera
 - [Mitch Sfakianos](https://github.com/mazarinno)
 - Sudhanshu Rai
 - Ankit R Borude
+- [Marco Castrita](https://github.com/Mcast77)
 - [Deep Makadiya](https://github.com/mac-deep)
 - [Rithick Chowdhury](https://github.com/Rithick69)
 - [Hamdi Vazim](https://github.com/hamdivazim)
