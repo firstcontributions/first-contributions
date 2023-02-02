@@ -79,7 +79,6 @@ This project aims to simplify and guide the way beginners make their first contr
 
 _If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
-
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 #### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
@@ -133,6 +132,12 @@ For example:
 git switch -c add-alonzo-church
 ```
 
+Alternatively, you can also use `git checkout -b` to create a new branch and switch into that branch:
+
+```
+git checkout -b your-new-branch-name
+```
+
 ## Make necessary changes and commit those changes
 
 Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
@@ -146,6 +151,7 @@ Add those changes to the branch you just created using the `git add` command:
 ```
 git add Contributors.md
 ```
+
 Now commit those changes using the `git commit` command:
 
 ```
