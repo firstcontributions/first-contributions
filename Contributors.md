@@ -19,6 +19,7 @@
 - [Pbeards1]
 - [Bheeshmasena](https://github.com/BheeshmasenaReddy)
 - [ytian]
+- [Jesse Ekoh-Ordan](https://github.com/jesseekoh)
 - [Caleb](https://github.com/calebQWEB)
 - [Kay Cee](https://github.com/sekaycee)
 - [Pritam Sapkota](https://github.com/pritamsap)
