@@ -417,6 +417,7 @@ Subhajit Bera
 - [Ali Munir Abbas](https://github.com/amw514)
 - [Jordan I Johnson](https://github.com/JINJ95)
 - Arman Kumar Jena
+- [Simon Persson](https://github.com/SimonPersson23)
 - Mrinmay Biswas
 - [Andres Gutierrez](https://github.com/gtierrezandres)
 - [Damian Johns](https://github.com/damo-maker)
