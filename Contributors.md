@@ -2083,3 +2083,4 @@ Rishabh Pandey
 - [Klaudia Sapiecha](https://github.com/klaudiasapiecha)
 - [WarrenTheRabbit] (https://github.com/WarrenTheRabbit)
 - [AstralVoyager] (https://github.com/AstralVoyager)
+- [vid31] (https://github.com/vid31)
