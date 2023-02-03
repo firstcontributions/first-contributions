@@ -13,6 +13,7 @@
 - [Dam Gyu Yang]
 - [Mahir Ahammed](https://github.com/MahirAhammed)
 - [siya]
+- [Pbeards1]
 - [Bheeshmasena](https://github.com/BheeshmasenaReddy)
 - [ytian]
 - [Pritam Sapkota](https://github.com/pritamsap)
