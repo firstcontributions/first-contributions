@@ -138,6 +138,8 @@ Alternatively, you can also use `git checkout -b` to create a new branch and swi
 git checkout -b your-new-branch-name
 ```
 
+This can be helpful when working with old documentations or code bases.
+
 ## Make necessary changes and commit those changes
 
 Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
