@@ -2078,3 +2078,4 @@ Rishabh Pandey
 - [Nahom Negash] (https://github.com/Nnegash1)
 - [Klaudia Sapiecha](https://github.com/klaudiasapiecha)
 - [WarrenTheRabbit] (https://github.com/WarrenTheRabbit)
+- [AstralVoyager] (https://github.com/AstralVoyager)
