@@ -282,6 +282,7 @@ Subhajit Bera
 - [Susmit Ullas](https://github.com/Susmit-Ullas)
 - Grace Henke
 - [Abhishek Tewary](https://github.com/abhishek-38)
+- [Daniel Burchett](https://github.com/Dnlburch)
 - [Axorax](https://github.com/axorax)
 - [Gabriel Bellasco](https://github.com/GabrielBellasco)
 - [Omar Gabriel](https://github.com/omargabrielaguilar)
