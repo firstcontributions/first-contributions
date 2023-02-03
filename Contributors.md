@@ -184,6 +184,7 @@ Subhajit Bera
 - [Krishna](https://github.com/kcterala)
 - [Jainex 😄](https://github.com/Jainex17)
 - [Yasith Fernando] (https://github.com/yasithfernando)
+- [Issac Gardner](https://github.com/swmm-js)
 - [Ritwij Kashyap](https://github.com/ritwij-kp)
 - [Navendu Bahukhandi](https://github.com/Ashxarya)
 - [Aditya Zende](https://github.com/ZendeAditya)
