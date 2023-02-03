@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 [martindevelopske] (martindevelops.dev)
+- [Sofia Matias](https://github.com/sofiammatias)
 - [Dalton Riley] (https://github.com/daltonjriley)
 -[Tse C](https://github.com/kyroC)
 -[Ahmed Abdelsalam](https://github.com/Bakar404)
