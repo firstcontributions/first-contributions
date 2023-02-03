@@ -74,6 +74,7 @@ Chirag Rakh
 - [Edoye Ogoba David](https://github.com/DoyeDesigns)
 - [Nazeef](https://github.com/iamnazeef/)
 - [Josh Scoville](https://github.com/ag4sm)
+- [Razack] (https://github.com/razack00/)
 - [Kent](https://github.com/kkentt)
 - [Ujjwal Saxena](https://github.com/Ujjwal-S)
 - [Gift Ibe](https://github.com/giftibe)
