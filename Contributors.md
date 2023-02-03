@@ -19,6 +19,7 @@
 - [Bheeshmasena](https://github.com/BheeshmasenaReddy)
 - [ytian]
 - [Caleb](https://github.com/calebQWEB)
+- [Kay Cee](https://github.com/sekaycee)
 - [Pritam Sapkota](https://github.com/pritamsap)
 - [Geronimo Costa Peuser] (https://github.com/GeronimoCostaPeuser)
 - [Meseret Alemnew](https://github.com/meseret-ale)
