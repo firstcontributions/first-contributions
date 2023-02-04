@@ -25,6 +25,7 @@
 - [ytian]
 - [Jesse Ekoh-Ordan](https://github.com/jesseekoh)
 - [Caleb](https://github.com/calebQWEB)
+- [Adhish Verma](https://github.com/adhishVerma)
 - [Kay Cee](https://github.com/sekaycee)
 - [Pritam Sapkota](https://github.com/pritamsap)
 - [Geronimo Costa Peuser] (https://github.com/GeronimoCostaPeuser)
