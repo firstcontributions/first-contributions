@@ -1,7 +1,8 @@
 # Contributors
 <!-- prettier-ignore-start -->
 [martindevelopske] (martindevelops.dev)
-- [Calvin Nguyen] (https://githublcom/calvinguyen)
+- [Calvin Nguyen](https://githublcom/calvinguyen)
+- [Vishnu](https://github.com/vishnutvm)
 - [Sofia Matias](https://github.com/sofiammatias)
 - [Dalton Riley] (https://github.com/daltonjriley)
 -[Tse C](https://github.com/kyroC)
