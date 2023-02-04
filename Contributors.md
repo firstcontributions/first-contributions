@@ -3,7 +3,7 @@
 <!-- prettier-ignore-start -->
 
 [martindevelopske] (martindevelops.dev)
-
+- [Calvin Nguyen] (https://githublcom/calvinguyen)
 - [Sofia Matias](https://github.com/sofiammatias)
 - [Dalton Riley] (https://github.com/daltonjriley) -[Tse C](https://github.com/kyroC) -[Ahmed Abdelsalam](https://github.com/Bakar404) -[Kalluri Naveen](https://github.com/kalluri02002)
 - [Ahmed Abdalla](https://github.com/ahmdaa)
@@ -16,11 +16,15 @@
 - [Dam Gyu Yang]
 - [Mahir Ahammed](https://github.com/MahirAhammed)
 - [siya]
+- [Carliso]
 - [Pbeards1]
+- [Eshaan_Walia](https://github.com/weshaan)
+- [Sammy Kittendorf](https://github.com/Skitten168)
 - [Bheeshmasena](https://github.com/BheeshmasenaReddy)
 - [ytian]
 - [Jesse Ekoh-Ordan](https://github.com/jesseekoh)
 - [Caleb](https://github.com/calebQWEB)
+- [Adhish Verma](https://github.com/adhishVerma)
 - [Kay Cee](https://github.com/sekaycee)
 - [Pritam Sapkota](https://github.com/pritamsap)
 - [Geronimo Costa Peuser] (https://github.com/GeronimoCostaPeuser)
@@ -29,6 +33,7 @@
 - [Koren Weis] (https://github.com/korenw)
 - [Het Joshi](https://bento.me/het-joshi)
 - [Kanhaiya gavit]
+- [Md Samsul Alam] (https://github.com/Samsul-Alam-STP)
 - [Kanhaiya gaivt VSC]
 - [Alexis Torosina] (https://github.com/alexistorosina1)
 - [Amir babazadeh](https://github.com/amirgit92)
@@ -37,6 +42,7 @@
 - [Tumininu Akande](https://github.com/devtumi)
 - [Elvis Aguero](https://github.com/elvispy)
 - [Eniola Adigun] (https://github.com/L-umen)
+- [Iroquois Pliskin aka snekpliskin](https://github.com/snekpliskin)
 - [Chirag Chouhan](https://github.com/Chirag-0)
 - [Samantha Madderom]
 - [Kern Jacobo](https://github.com/kernpinoy)
@@ -165,6 +171,7 @@
 - [Ralph Virtucio](https://github.com/ralphvirtucio)
   [Yashkumar Nemane](https://github.com/yashnemane)
 - [Manoj Maurya](https://github.com/manojmaurya17)
+- [Tristan Norman](https://github.com/TristarCA)
 - [Priyanka Mary Christine](https://github.com/marycpriyanka)
 - [Glaucio Oliveira](https://github.com/7glaucio)
 - [Ankit Vimal](https://github.com/ankitvimal)
@@ -229,6 +236,7 @@
 - [KiranJodhani](https://github.com/KiranJodhani)
 - [Anju Narnolia](https://github.com/Anju3750)
 - [Arun](https://github.com/darkclown97)
+- [Michael Gouhin] (https://github.com/mgouhin)
 - preet
 - [Chelcey](https://github.com/cguptail)
   -nini
@@ -328,13 +336,16 @@
 - [Mostafa Eissa](https://github.com/EissaMostafa)
 - [Lukas Juelich](https://github.com/LeFreakALeak93)
 - [TheSaviourEking](https://github.com/TheSaviourEking)
+- [Benson Njuguna](https://github.com/Bennyjoez)
 - [Amey Patil](https://github.com/AmeyPPatil)
 - [Mishkat Mustafid](https://github.com/mishkatmustafid)
 - [Michael Jakuszewski](https://github.com/MikeJakuszewski)
 - [Saarthak Prakash](https://github.com/saarthak49)
 - [Kiran Gosu](https://github.com/kirankumargosu)
-- [Olaleye Fuad](https://github.com/theylovefuad)
-- [Divyanshu Trivedi] -[Ankit Mewada] (https://github.com/MewadaAnkit)
+- [Olaleye Fuad](https://github.com/theylovefuad)]
+- [Divyanshu Trivedi]
+- Anzo Benjamin
+- [Ankit Mewada] (https://github.com/MewadaAnkit)
 - [Rupesh Mangalam](https://github.com/springdaysenpai)
 - [Junior Gouveia](https://github.com/jjgouveia)
 - [Bliss Felix] (https://github.com/BlissFelix3)
@@ -636,6 +647,7 @@
 - [Taksh Paresh Patel @devsoc pre induction]
 - [Aibek Z] (https://github.com/aibekz)
 - [Ramesh]
+- [ReemanS](https://github.com/ReemanS)
 - [Aditya Shah](https://github.com/AdityaJain09)
 - [Yash Rathi}@DevsocPI
 - [Sharvil Potdar@Devsoc PI](https://github.com/SMP111)
@@ -2070,3 +2082,5 @@
 - [vid31] (https://github.com/vid31)
   [Reehan9] (https://github.com/Reehan9)
 - [olekca] (https://github.com/olekca)
+- [Ruli] (https://github.com/rulidh)
+- [DR-Blogs] (https://github.com/DR-Blogs)
