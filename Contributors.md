@@ -234,6 +234,7 @@ Subhajit Bera
 - [KiranJodhani](https://github.com/KiranJodhani)
 - [Anju Narnolia](https://github.com/Anju3750)
 - [Arun](https://github.com/darkclown97)
+- [Michael Gouhin] (https://github.com/mgouhin)
 - preet
 - [Chelcey](https://github.com/cguptail)
 -nini
