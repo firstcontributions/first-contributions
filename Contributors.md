@@ -16,6 +16,7 @@
 - [Dam Gyu Yang]
 - [Mahir Ahammed](https://github.com/MahirAhammed)
 - [siya]
+- [Carliso]
 - [Pbeards1]
 - [Sammy Kittendorf](https://github.com/Skitten168)
 - [Bheeshmasena](https://github.com/BheeshmasenaReddy)
