@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Nehorai Tubul](https://github.com/nehoraitubul)
+- [Jefferson Qian](https://github.com/qianyusen1995)
 - [Digpal Parmar](https://github.com/nivaran)
 - [Parth Sharma](https://github.com/pxs4528)
 - [AKP](https://github.com/AungKhinePhyo)
