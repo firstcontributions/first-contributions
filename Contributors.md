@@ -407,6 +407,7 @@ Subhajit Bera
 - [Ninad Patil](https://github.com/Ninad-Patil)
 - [Warren Cartwright](https://github.com/guarin1949)
 - [Jacek Smoter](https://github.com/jackz070)
+- [Matthew Kohn](https://github.com/matthewkohn)
 - [GowtherZa](https://github.com/GowtherZa/)
 - [Masaya Kj](https://github.com/Massas)
 - [Nikodemas](https://github.com/nikodemas)
