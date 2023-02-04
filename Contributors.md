@@ -27,6 +27,7 @@
 - [ytian]
 - [Jesse Ekoh-Ordan](https://github.com/jesseekoh)
 - [Caleb](https://github.com/calebQWEB)
+- [Queen Fawale](https://github.com/Queen-codes)
 - [Adhish Verma](https://github.com/adhishVerma)
 - [Kay Cee](https://github.com/sekaycee)
 - [Pritam Sapkota](https://github.com/pritamsap)
