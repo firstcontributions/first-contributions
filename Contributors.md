@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 [martindevelopske] (martindevelops.dev)
+-[Mani Dodla](https://github.com/spraymachine)
 -[Tse C](https://github.com/kyroC)
 -[Ahmed Abdelsalam](https://github.com/Bakar404)
 -[Kalluri Naveen](https://github.com/kalluri02002)
