@@ -18,6 +18,7 @@
 - [Mahir Ahammed](https://github.com/MahirAhammed)
 - [siya]
 - [Carliso]
+- [Paul Hair](https://github.com/hairenstein-bear)
 - [Pbeards1]
 - [Eshaan_Walia](https://github.com/weshaan)
 - [Sammy Kittendorf](https://github.com/Skitten168)
