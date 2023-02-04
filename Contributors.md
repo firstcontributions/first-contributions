@@ -336,6 +336,7 @@ Subhajit Bera
 - [Mostafa Eissa](https://github.com/EissaMostafa)
 - [Lukas Juelich](https://github.com/LeFreakALeak93)
 - [TheSaviourEking](https://github.com/TheSaviourEking)
+- [Benson Njuguna](https://github.com/Bennyjoez)
 - [Amey Patil](https://github.com/AmeyPPatil)
 - [Mishkat Mustafid](https://github.com/mishkatmustafid)
 - [Michael Jakuszewski](https://github.com/MikeJakuszewski)
