@@ -51,6 +51,7 @@
 - [Katy Smith] (https://github.com/catrionafsmith)
 - [Linzi Wilson] (https://github.com/LinziJayne36)
 - [Angelos Tzortzis](https://github.com/SneakyPlayerOne)
+- [Jatin Bhatia](https://github.com/jatinb92)
 - [John Suman](https://github.com/kitsche)
 - [Andrew Weng](https://github.com/amweng)
 - [Ragnhild Marie Knudsen](https://github.com/rm-sk)
