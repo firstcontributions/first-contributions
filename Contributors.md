@@ -163,6 +163,7 @@ Subhajit Bera
 - [Ralph Virtucio](https://github.com/ralphvirtucio)
   [Yashkumar Nemane](https://github.com/yashnemane)
 - [Manoj Maurya](https://github.com/manojmaurya17)
+- [Tristan Norman](https://github.com/TristarCA)
 - [Priyanka Mary Christine](https://github.com/marycpriyanka)
 - [Glaucio Oliveira](https://github.com/7glaucio)
 - [Ankit Vimal](https://github.com/ankitvimal)
