@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Sunny Singh](https://github.com/sunny-k-singh)
+- [Tridev Verma](https://github.com/tridevVerma)
 - [Raj_Pabnani](https://github.com/RajPabnani03)
 - [Kundan Sahu](https://github.com/Kundan730)
 [martindevelopske] (martindevelops.dev)
