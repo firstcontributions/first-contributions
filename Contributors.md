@@ -2120,6 +2120,7 @@ Ayan Das
 - [Pronay Pramanick] (https://github.com/pronoy-2000)
 - [Klaudia Sapiecha](https://github.com/klaudiasapiecha)
 - [Nilesh Swami](https://github.com/nileskh16)
+- [Teena Batra] (https://github.com/TeenaBatra)
 - [WarrenTheRabbit] (https://github.com/WarrenTheRabbit)
 - [AstralVoyager] (https://github.com/AstralVoyager)
 - [Yash Sharma] (https://github.com/yashsharmaembark)
