@@ -14,6 +14,7 @@
 - [Emily Laidlaw](https://github.com/Emily-Laidlaw)
 - [Hakimullah Hakimi](https://github.com/suvuu)
 - [Rolyyy](https://github.com/Rolyyy)
+- [Sarathi Prabu](https://github.com/SarathiPrabu)
 - [Prasad Joshi](https://github.com/predatorprasad)
 - [Anant shukla](https://github.com/Anantshukla007)
 - [Sumit Kumar](https://github.com/sumit970)
