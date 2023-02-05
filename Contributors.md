@@ -5,6 +5,7 @@
 [martindevelopske] (martindevelops.dev)
 - [Calvin Nguyen](https://githublcom/calvinguyen)
 - [Vishnu](https://github.com/vishnutvm)
+- [Yashraj_Singh](https://github.com/miikkuu)
 - [Sofia Matias](https://github.com/sofiammatias)
 - [Dalton Riley] (https://github.com/daltonjriley)
 -[Tse C](https://github.com/kyroC)
