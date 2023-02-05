@@ -66,6 +66,7 @@
 - [John Suman](https://github.com/kitsche)
 - [Andrew Weng](https://github.com/amweng)
 - [Ragnhild Marie Knudsen](https://github.com/rm-sk)
+- [Sam Nanson](https://github.com/snanson2023)
 - [sbadi](https://github.col/sbadillo)
 - [neta] (https://github.com/netacohen1)
 - [Hiu Yi NAM] (https://github.com/HYnam)
