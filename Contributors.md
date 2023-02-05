@@ -2115,6 +2115,7 @@ Ayan Das
 - WOoOD
 - [Aymen Sakouhi] (https://github.com/AymenSakouhi)
 - [Nahom Negash] (https://github.com/Nnegash1)
+- [Pronay Pramanick] (https://github.com/pronoy-2000)
 - [Klaudia Sapiecha](https://github.com/klaudiasapiecha)
 - [WarrenTheRabbit] (https://github.com/WarrenTheRabbit)
 - [AstralVoyager] (https://github.com/AstralVoyager)
