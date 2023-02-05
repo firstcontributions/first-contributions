@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Kundan Sahu](https://github.com/Kundan730)
 [martindevelopske] (martindevelops.dev)
 - [Calvin Nguyen](https://githublcom/calvinguyen)
 - [Vishnu](https://github.com/vishnutvm)
