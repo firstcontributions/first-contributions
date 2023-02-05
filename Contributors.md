@@ -305,6 +305,7 @@ Subhajit Bera
 - [Nadim Bou Alwan](https://github.com/nadinator)
 - [Susmit Ullas](https://github.com/Susmit-Ullas)
 - Grace Henke
+- Tisha Codes
 - [Abhishek Tewary](https://github.com/abhishek-38)
 - [Daniel Burchett](https://github.com/Dnlburch)
 - [Axorax](https://github.com/axorax)
