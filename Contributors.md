@@ -186,6 +186,7 @@ Subhajit Bera
 - [Glaucio Oliveira](https://github.com/7glaucio)
 - [Ankit Vimal](https://github.com/ankitvimal)
 - [Diego Guerreiro](https://github.com/d-error)
+- [Anand Vijapur](https://github.com/anandvijapur)
 - [Chinatu Lucia Eke](https://github.com/ChinatuL) 
 - [David Martinez](https://github.com/NicAtlas)
 - [Darvesh Chauhan](https://github.com/darvesh29)
