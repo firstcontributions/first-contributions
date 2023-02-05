@@ -13,6 +13,7 @@
 - [Ahmed Abdalla](https://github.com/ahmdaa)
 - [Alex Pablo](https://github.com/alexpablo-code)
 - [Emily Laidlaw](https://github.com/Emily-Laidlaw)
+- [Abhishek Soni](https://github.com/abhisheksoni46)
 - [Hakimullah Hakimi](https://github.com/suvuu)
 - [Rolyyy](https://github.com/Rolyyy)
 - [Prasad Joshi](https://github.com/predatorprasad)
