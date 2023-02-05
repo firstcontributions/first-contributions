@@ -2125,6 +2125,7 @@ Ayan Das
 - [Aymen Sakouhi] (https://github.com/AymenSakouhi)
 - [Nahom Negash] (https://github.com/Nnegash1)
 - [Pronay Pramanick] (https://github.com/pronoy-2000)
+- [Philippe](https://github.com/Audiophil15)
 - [Klaudia Sapiecha](https://github.com/klaudiasapiecha)
 - [Nilesh Swami](https://github.com/nileskh16)
 - [Teena Batra] (https://github.com/TeenaBatra)
