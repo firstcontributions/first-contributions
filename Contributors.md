@@ -34,6 +34,7 @@
 - [ytian]
 - [Ankit Saurabh](https://github.com/justacsguy/)
 - [Jesse Ekoh-Ordan](https://github.com/jesseekoh)
+
 - [Caleb](https://github.com/calebQWEB)
 - [Queen Fawale](https://github.com/Queen-codes)
 - [Adhish Verma](https://github.com/adhishVerma)
@@ -47,6 +48,7 @@
 - [Rino De Guzman](https://github.com/Rino-DG)
 - [Kanhaiya gavit]
 - [shabarish k]
+- [Scott Carnegie](https://github.com/Scarnegie199x)
 - [Md Samsul Alam] (https://github.com/Samsul-Alam-STP)
 - [Kanhaiya gaivt VSC]
 - [Alexis Torosina] (https://github.com/alexistorosina1)
