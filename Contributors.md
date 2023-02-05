@@ -72,6 +72,7 @@
 - [Linzi Wilson] (https://github.com/LinziJayne36)
 - [Angelos Tzortzis](https://github.com/SneakyPlayerOne)
 - [John Suman](https://github.com/kitsche)
+- [Ese Monday](https://github.com/ESE-MONDAY)
 - [Andrew Weng](https://github.com/amweng)
 - [Ragnhild Marie Knudsen](https://github.com/rm-sk)
 - [Sam Nanson](https://github.com/snanson2023)
