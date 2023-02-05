@@ -1619,6 +1619,7 @@ Rishabh Pandey
 - [kehero22698](https://github.com/kehero22698)
 - [yogesh](https://github.com/yogesh-0911)
 - [paras](https://github.com/paras9192)
+- [wajih24](https://github.com/Wajih24)
 - [Brinda]@DevSoc
 - [John Finley](https://github.com/jfinley6)
 - [Shivansh Guleria](https://github.com/ShivanshGuleria)
