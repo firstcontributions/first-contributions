@@ -1261,6 +1261,7 @@ Rishabh Pandey
 - [Tamas Varfalvi](https://github.com/Womath)
 - [Pankaj Adhikari](https://github.com/Pankaj809)
 - [shashank-gupta](https://github.com/shashank-2310/)
+- [Fancy583](https://github.com/Fancy583)
 - [bungbloopity](https://github.com/bungbloopity/)
 - [Sohan Palekar@DevsocPI]
 - [Sohan@DevsocPI]
