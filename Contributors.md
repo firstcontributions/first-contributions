@@ -2143,4 +2143,5 @@ Ayan Das
 - [Damien Switzer](https://github.com/ThePinkFedora)
 - [Shize Gong](https://github.com/lzeee)
 - [Tharun Suresh](https://github.com/tharunsuresh-code)
-  [Vishal Prakash](https://github.com/prakashvishal93)
+- [Vishal Prakash](https://github.com/prakashvishal93)
+- [Ruslans Aleksejevs](https://github.com/RuslansAleksejevs)
