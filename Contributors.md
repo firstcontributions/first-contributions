@@ -50,6 +50,7 @@
 - [Koren Weis] (https://github.com/korenw)
 - [Het Joshi](https://bento.me/het-joshi)
 - [Rino De Guzman](https://github.com/Rino-DG)
+-[Tomas Jauregui] 
 - [Kanhaiya gavit]
 - [shabarish k]
 ########################################TEJAS%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -2153,3 +2154,4 @@ Ayan Das
 - [Vishal Prakash](https://github.com/prakashvishal93)
 - [Ruslans Aleksejevs](https://github.com/RuslansAleksejevs)
 - [Devashish Chakraborty](https://github.com/devashishchakraborty)
+-[
