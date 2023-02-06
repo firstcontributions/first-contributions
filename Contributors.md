@@ -306,6 +306,7 @@ Subhajit Bera
 - [Reid Gubler](https://github.com/reidemption)
 - [Aditya Patel](https://github.com/cacti23)
 - [Danny Carlton](https://github.com/thedannycarlton)
+- [Ali Cagatay](https://github.com/alicagatay)
 - [bambooch](https://github.com/bambooch)
 - [kyawZin](https://github.com/kyawZin24)
 - [ Ankan Dutta ](https://github.com/FullMetalChains)
