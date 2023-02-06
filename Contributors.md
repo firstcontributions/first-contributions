@@ -410,6 +410,7 @@ Subhajit Bera
 - [Ryan Werner] (https://github.com/rmwerner18)
 - [Ritesh Chikhlonde](https://github.com/riteshx0)
 - [Manas Bhattarai](https://github.com/ManasB17)
+- [Denis Nakazawa](https://github.com/dnakazawa117)
 - Olukoya Babatunde Daniel
 - [Sudarshan](https://github.com/sudarshan161219)
 - [Marin](https://github.com/M4RIIN)
