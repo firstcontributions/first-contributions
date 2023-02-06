@@ -1687,6 +1687,7 @@ Rishabh Pandey
 - [Mohamed Mostafa](https://github.com/mohamedmostafakhudari)
 - [JSTNSNE](https://github.com/JSTNSNE)
 - [Aimee T](https://github.com/aimeetacchi)
+- [Alkut Askar](https://github.com/elkut)
 - [klpod221](https://github.com/klpod221)
 - [Abhijith H](https://github.com/Abhijith-H13)
 - [Abhighyaa](https://github.com/Abhighyaa)
