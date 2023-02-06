@@ -2151,5 +2151,4 @@ Ayan Das
 - [Vishal Prakash](https://github.com/prakashvishal93)
 - [Ruslans Aleksejevs](https://github.com/RuslansAleksejevs)
 - [Devashish Chakraborty](https://github.com/devashishchakraborty)
-- [Sneha Chauhan]
-(https://github.com/i-am-SnehaChauhan)
+- [Sneha Chauhan](https://github.com/i-am-SnehaChauhan)
