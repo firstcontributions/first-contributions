@@ -2178,3 +2178,4 @@ Ayan Das
 - [Aiden Cline](https://github.com/rekram1-node)
 - [Milind Pansare] (https://github.com/githubmilind)
 - [Alan Hakala](https://github.com/AlanHakalaDev)
+- [Kendall Callison](https://github.com/kendallcallison)
