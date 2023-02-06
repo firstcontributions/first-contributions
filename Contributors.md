@@ -2173,3 +2173,4 @@ Ayan Das
 - [David Herring](https://github.com/davidherring123)
 - [Aiden Cline](https://github.com/rekram1-node)
 - [Milind Pansare] (https://github.com/githubmilind)
+- [Alan Hakala](https://github.com/AlanHakalaDev)
