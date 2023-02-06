@@ -1,14 +1,18 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Sunny Singh](https://github.com/sunny-k-singh)
+- [Tridev Verma](https://github.com/tridevVerma)
 - [Raj_Pabnani](https://github.com/RajPabnani03)
 - [Kundan Sahu](https://github.com/Kundan730)
 [martindevelopske] (martindevelops.dev)
 - [Calvin Nguyen](https://githublcom/calvinguyen)
+- [Mete Sayan](https://github.com/MeteSayan)
 - [Vishnu](https://github.com/vishnutvm)
 - [Yashraj_Singh](https://github.com/miikkuu)
 - [Sofia Matias](https://github.com/sofiammatias)
 - [Dalton Riley] (https://github.com/daltonjriley)
 -[Tse C](https://github.com/kyroC)
+- [Gannon Rowlan]
 -[Ahmed Abdelsalam](https://github.com/Bakar404)
 -[Kalluri Naveen](https://github.com/kalluri02002)
 - [Ahmed Abdalla](https://github.com/ahmdaa)
@@ -25,6 +29,7 @@
 - [Mahir Ahammed](https://github.com/MahirAhammed)
 - [siya]
 - [Carliso]
+- [Lauren Farr](https://github.com/lkf57)
 - [Paul Hair](https://github.com/hairenstein-bear)
 - [Ujah Stephen](https://github.com/ochosteve08)
 - [Pbeards1]
@@ -47,6 +52,7 @@
 - [Rino De Guzman](https://github.com/Rino-DG)
 - [Kanhaiya gavit]
 - [shabarish k]
+########################################TEJAS%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 - [Md Samsul Alam] (https://github.com/Samsul-Alam-STP)
 - [Kanhaiya gaivt VSC]
 - [Alexis Torosina] (https://github.com/alexistorosina1)
@@ -70,6 +76,7 @@
 - [Linzi Wilson] (https://github.com/LinziJayne36)
 - [Angelos Tzortzis](https://github.com/SneakyPlayerOne)
 - [John Suman](https://github.com/kitsche)
+- [Ese Monday](https://github.com/ESE-MONDAY)
 - [Andrew Weng](https://github.com/amweng)
 - [Ragnhild Marie Knudsen](https://github.com/rm-sk)
 - [Sam Nanson](https://github.com/snanson2023)
@@ -103,6 +110,7 @@ Chirag Rakh
 - [Gift Ibe](https://github.com/giftibe)
 - [Divyom](https://github.com/Waro0N/)
 - [puru-sudo](https://github.com/puru-sudo)
+- [Niklas Kariniemi]
 - [Samoj Bhattarai](https://github.com/samojbhattarai)
 - [Nahom girma](https://github.com/kylosonic)
 - [Shiva Seth](https://github.com/Shiva953)
@@ -116,6 +124,7 @@ Chirag Rakh
 - [Abhishek Patil](https://github.com/HalfToothed)
 Avinash Jha
 - [Salma Hamdi](https://github.com/Salma-2)
+- [Richard Callaby](https://github.com/rcallaby)
 - [Nishant Karn](https://github.com/me-nk007)
 - [Miran Amer](https://github.com/miranamer)
 - [Alok Mahapatra] (https://github.com/AlokMahapatra26/first-contributions)
@@ -549,6 +558,7 @@ Subhajit Bera
 - Patrick McKeever
 - Jaseel Hassan Koolath
 - Tariqs26
+- codecode
 - Yashwanth Krishna
 - Ozan
 - Ethan Nixon
@@ -1729,6 +1739,7 @@ Rishabh Pandey
 - [Utsav Akash Naskar](https://github.com/Utsav1999)
 - [Anish Doshi](https://github.com/doshianish8)
 - [Saurabh Sinha](https://github.com/sinhasaurabh3104)
+- [Nisha Shastry](https://github.com/nishashastry)
 - [Girish Nair](https://github.com/javagirish)
 - [Quinn Ha](https://github.com/quinnha)
 - [Dimitrije Ilic](https://github.com/Dimitrije1970)
@@ -1945,6 +1956,7 @@ Rishabh Pandey
 - [Suhyeon Yu](https://github.com/RSuhyeon)
 - [Steven Williams](https://github.com/swilliams186)
 - [Rajat](https://github.com/alphadinu)
+- [BestEggShell](https://github.com/BestEggShell)
 - [Duy Dang](https://github.com/dqduy)
 - [Fitriningtyas](https://github.com/fitrifityanto)
 - [Saif Ali Prasla](https://github.com/Saifali786)
@@ -2096,6 +2108,7 @@ Ayan Das
 - [Danielle Gaudet](https://github.com/Codatrix)
 - [Mahmoud Yousif](https://github.com/mahn00b)
 - [Antoine Germon] (https://github.com/Antoine-Germon)
+- [tmjpt] (https://github.com/tmjpt)
 - Brandon Udall
 - [Ajesh] (https://github.com/ajesh-n)
 - [Arjun Ivor](https://github.com/arjunivor)
@@ -2122,7 +2135,9 @@ Ayan Das
 - [Aymen Sakouhi] (https://github.com/AymenSakouhi)
 - [Nahom Negash] (https://github.com/Nnegash1)
 - [Pronay Pramanick] (https://github.com/pronoy-2000)
+- [Philippe](https://github.com/Audiophil15)
 - [Klaudia Sapiecha](https://github.com/klaudiasapiecha)
+- [Juan Plasencia](https://github.com/Juarpla)
 - [Nilesh Swami](https://github.com/nileskh16)
 - [Teena Batra] (https://github.com/TeenaBatra)
 - [WarrenTheRabbit] (https://github.com/WarrenTheRabbit)
@@ -2138,4 +2153,8 @@ Ayan Das
 - [Damien Switzer](https://github.com/ThePinkFedora)
 - [Shize Gong](https://github.com/lzeee)
 - [Tharun Suresh](https://github.com/tharunsuresh-code)
-- [Vishal Prakash - Btech CSE (LPU)] (https://github.com/prakashvishal93)
+- [Vishal Prakash](https://github.com/prakashvishal93)
+- [Ruslans Aleksejevs](https://github.com/RuslansAleksejevs)
+- [Devashish Chakraborty](https://github.com/devashishchakraborty)
+- [Brian Bossy](https://github.com/Brian123-del)
+
