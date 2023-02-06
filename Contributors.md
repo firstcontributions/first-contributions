@@ -110,6 +110,7 @@ Chirag Rakh
 - [Gift Ibe](https://github.com/giftibe)
 - [Divyom](https://github.com/Waro0N/)
 - [puru-sudo](https://github.com/puru-sudo)
+- [Niklas Kariniemi]
 - [Samoj Bhattarai](https://github.com/samojbhattarai)
 - [Nahom girma](https://github.com/kylosonic)
 - [Shiva Seth](https://github.com/Shiva953)
