@@ -96,6 +96,7 @@
 - [Mohd Amaan](https://github.com/mhdamaan79)
 - [Wenslaus Kachasu](https://github.com/wenslauskc)
 - [Aryan Maurya](https://github.com/108aryanmaurya)
+- [Caden Tedeschi](https://github.com/CadenTed)
 - [Khushbu Sinha](https://github.com/khushbuSinha29)
 - [David Zurita](https://github.com/DaveSticks)
 - [RAGHU S](https://github.com/raghu-007)
