@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 - [Sunny Singh](https://github.com/sunny-k-singh)
 - [Tridev Verma](https://github.com/tridevVerma)
+- [Tarun Mankar](https://github.com/tarunmankar)
 - [Raj_Pabnani](https://github.com/RajPabnani03)
 - [Kundan Sahu](https://github.com/Kundan730)
 - [Lean Dwarf](https://github.com/LeanDwarf)
