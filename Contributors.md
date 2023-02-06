@@ -52,6 +52,7 @@
 - [Koren Weis] (https://github.com/korenw)
 - [Het Joshi](https://bento.me/het-joshi)
 - [Rino De Guzman](https://github.com/Rino-DG)
+-[Tomas Jauregui] 
 - [Kanhaiya gavit]
 - [shabarish k]
 ########################################TEJAS%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
