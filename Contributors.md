@@ -1476,6 +1476,7 @@ Rishabh Pandey
 - [rajdugad](https://github.com/rajdugad)
 - {antny} (https://github.com/antny2)
 - [Tarek-Azzazi](https://github.com/tarekazzazi)
+- [BestEggShell](https://github.com/BestEggShell)
 - [Matthew Anderson](https://github.com/manderson21)
 - [EricWink](https://github.com/ericwink)
 - [Jongkwang131](https://github.com/Jongkwang131)
