@@ -4,6 +4,7 @@
 - [Tridev Verma](https://github.com/tridevVerma)
 - [Raj_Pabnani](https://github.com/RajPabnani03)
 - [Kundan Sahu](https://github.com/Kundan730)
+- [Lean Dwarf](https://github.com/LeanDwarf)
 [martindevelopske] (martindevelops.dev)
 [Raghav Singh](https://github.com/RaghavSaptam)
 - [Calvin Nguyen](https://githublcom/calvinguyen)
