@@ -34,6 +34,7 @@
 - [siya]
 - [Carliso]
 - [Lauren Farr](https://github.com/lkf57)
+- [Marc McCarthy](https://github.com/marc-mccarthy)
 - [Paul Hair](https://github.com/hairenstein-bear)
 - [Ujah Stephen](https://github.com/ochosteve08)
 - [Pbeards1]
