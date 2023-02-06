@@ -1269,6 +1269,7 @@
 - [Utsav Akash Naskar](https://github.com/Utsav1999)
 - [Anish Doshi](https://github.com/doshianish8)
 - [Saurabh Sinha](https://github.com/sinhasaurabh3104)
+- [Nisha Shastry](https://github.com/nishashastry)
 - [Girish Nair](https://github.com/javagirish)
 - [Quinn Ha](https://github.com/quinnha)
 - [Dimitrije Ilic](https://github.com/Dimitrije1970)
