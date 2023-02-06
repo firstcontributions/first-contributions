@@ -1955,6 +1955,7 @@ Rishabh Pandey
 - [Suhyeon Yu](https://github.com/RSuhyeon)
 - [Steven Williams](https://github.com/swilliams186)
 - [Rajat](https://github.com/alphadinu)
+- [BestEggShell](https://github.com/BestEggShell)
 - [Duy Dang](https://github.com/dqduy)
 - [Fitriningtyas](https://github.com/fitrifityanto)
 - [Saif Ali Prasla](https://github.com/Saifali786)
