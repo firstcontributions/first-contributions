@@ -29,6 +29,7 @@
 - [Mahir Ahammed](https://github.com/MahirAhammed)
 - [siya]
 - [Carliso]
+- [Lauren Farr](https://github.com/lkf57)
 - [Paul Hair](https://github.com/hairenstein-bear)
 - [Ujah Stephen](https://github.com/ochosteve08)
 - [Pbeards1]
