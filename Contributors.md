@@ -90,6 +90,7 @@
 - [Ese Monday](https://github.com/ESE-MONDAY)
 - [Andrew Weng](https://github.com/amweng)
 - [Ragnhild Marie Knudsen](https://github.com/rm-sk)
+- [Konradical](https://github.com/Soundwave0)
 - [Sam Nanson](https://github.com/snanson2023)
 - [sbadi](https://github.col/sbadillo)
 - [neta] (https://github.com/netacohen1)
