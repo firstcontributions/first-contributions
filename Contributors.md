@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Muhammed Sinan C K](https://github.com/Muhammedsinanck)
 - [Batel Levi]
 - [Isaac Faulkner]
 - [Yash Savla](https://github.com/yashsavla9)
