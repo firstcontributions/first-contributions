@@ -19,6 +19,7 @@
 - [Gannon Rowlan]
 - [Meaghan Freund]
 - [Joshua VanderMeer](https://github.com/JoshVanderM)
+- [Aadarsha Bastola] (https://github.com/aadarshabastola)
 -[Ahmed Abdelsalam](https://github.com/Bakar404)
 -[Kalluri Naveen](https://github.com/kalluri02002)
 - [Ahmed Abdalla](https://github.com/ahmdaa)
