@@ -1238,6 +1238,7 @@ Rishabh Pandey
 - [Monish Prabhu](https://github.com/monish-pr/)
 - [Ekene Obiasogu](https://github.com/E-kenny/)
 - [Khaled](https://github.com/KALs3)
+- [Myrza](https://github.com/makenskyy)
 - [Deepali](https://github.com/deepseas07)
 - [Ailen Paez](https://github.com/paezailen)
 - [Vatsal K](https://github.com/vatsalkudecha)
