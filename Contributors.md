@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Muhammed Sinan C K](https://github.com/Muhammedsinanck)
 - [Batel Levi]
 - [Isaac Faulkner]
 - [Tony Coldashian](https://github.com/tonycoldashian)
