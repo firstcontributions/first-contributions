@@ -98,6 +98,7 @@
 - [Mohd Amaan](https://github.com/mhdamaan79)
 - [Wenslaus Kachasu](https://github.com/wenslauskc)
 - [Aryan Maurya](https://github.com/108aryanmaurya)
+Michael Vertin
 - [Caden Tedeschi](https://github.com/CadenTed)
 - [Khushbu Sinha](https://github.com/khushbuSinha29)
 - [David Zurita](https://github.com/DaveSticks)
