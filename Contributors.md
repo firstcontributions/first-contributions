@@ -47,7 +47,7 @@
 - [ytian]
 - [Ankit Saurabh](https://github.com/justacsguy/)
 - [Jesse Ekoh-Ordan](https://github.com/jesseekoh)
-
+- [Carlos Romero](https://github.com/ROME08)
 - [Caleb](https://github.com/calebQWEB)
 - [Queen Fawale](https://github.com/Queen-codes)
 - [Adhish Verma](https://github.com/adhishVerma)
