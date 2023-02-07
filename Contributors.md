@@ -2184,3 +2184,4 @@ Ayan Das
 - [Kendall Callison](https://github.com/kendallcallison)
 - [Dominik Karaś](https://github.com/KarasDominik)
 - [ProfCyberNaught] (https://github.com/ProfCyberNaught)
+- [Corey Moreno] (https://github.com/CoreyjMoreno)
