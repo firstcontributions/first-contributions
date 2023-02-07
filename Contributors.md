@@ -1316,6 +1316,7 @@ Rishabh Pandey
 - [Anya McDonald](https://github.com/anyahush)
 - [Vitor Magnago](https://github.com/vitormagnago)
 - [Kartik Kumar](https://github.com/yellowterrum)
+- [Yoseph Winata](https://github.com/arkhamvillain)
 - [devzohaib](https://github.com/devzohaib)
 - [Rajon Dey](https://github.com/RajonDey)
 - [Octavious](https://github.com/olatessa)
