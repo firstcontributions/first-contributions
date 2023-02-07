@@ -8,11 +8,11 @@
 Proyek ini memiliki tujuan yaitu untuk menyederhanakan dan membimbing pemula untuk membuat kontribusi pertamanya di Github. Jika Anda ingin membuat kontribusi pertama mu, ikuti langkah-langkah berikut.
 
 
-#### _Jika Anda tidak terbiasa dengan baris perintah, [di sini ada tutorial untuk menggunakan GUI.](#Tutorial-Menggunakan-Alat-Lain)_
+#### _Jika Anda tidak terbiasa dengan Antarmuka baris perintah, [di sini ada tutorial untuk menggunakan GUI.](#Tutorial-Menggunakan-Alat-Lain)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Apabila Anda belum menginstall git di komputer anda, [ install segera ](https://help.github.com/articles/set-up-git/).
+Apabila Anda belum menginstall git di komputer maupun laptop anda,  [ install segera ](https://help.github.com/articles/set-up-git/).
 
 ## *Fork* Repositori Ini
 
