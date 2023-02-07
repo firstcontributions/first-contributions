@@ -2191,3 +2191,4 @@ Ayan Das
 - [ProfCyberNaught] (https://github.com/ProfCyberNaught)
 - [Corey Moreno] (https://github.com/CoreyjMoreno)
 - [Roger Rosena](https://github.com/TheMonist)
+- [Yasinta Syahrur Rahma] (https://github.com/yasintasy)
