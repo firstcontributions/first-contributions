@@ -1034,6 +1034,7 @@ Rishabh Pandey
 - [Funya1337](https://github.com/Funya1337)
 - [Vanshsood@DevSoc](https://github.com/Vanshsback)
 - [Abdiwali](https://github.com/abdiwaliHasan)
+- [Taylor E] (https://github.com/TaylorEvert)
 - [Mohsin Ali](https://github.com/mohsinali1051)
 - [sagehourihan](https://github.com/SageHourihan)
 - [Chandan Arya](https://github.com/alpha2lucifer)
