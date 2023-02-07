@@ -2187,3 +2187,4 @@ Ayan Das
 - [Dominik Karaś](https://github.com/KarasDominik)
 - [ProfCyberNaught] (https://github.com/ProfCyberNaught)
 - [Corey Moreno] (https://github.com/CoreyjMoreno)
+- [Roger Rosena](https://github.com/TheMonist)
