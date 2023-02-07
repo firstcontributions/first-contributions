@@ -182,6 +182,7 @@ Subhajit Bera
 - [yeahokyok](https://github.com/yeahokyok)
 - [AKP](https://github.com/AungKhinePhyo)
 - [Netpappy](https://github.com/netpappy)
+- [Passiv3](https://github.com/Passiv3)
 - [Ebuka Ejiofor](https://github.com/ebukathedev)
 - [Abhijith B N](https://github.com/AbhijithBn)
 - [Vishal Yadav](https://github.com/VsalYadv)
