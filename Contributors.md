@@ -22,6 +22,7 @@
 - [Sofia Matias](https://github.com/sofiammatias)
 - [Dalton Riley] (https://github.com/daltonjriley)
 -[Tse C](https://github.com/kyroC)
+- [Ana Maria Amorim]
 - [Gannon Rowlan]
 - [Meaghan Freund]
 - [Joshua VanderMeer](https://github.com/JoshVanderM)
