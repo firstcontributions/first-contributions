@@ -70,6 +70,7 @@
 - [Amir babazadeh](https://github.com/amirgit92)
 - [Shreyash Chavhan](https://github.com/shreyash184)
 - [Divyank Pandey](https://github.com/d-stash)
+- [Nathan Seitz](https://github.com/NathanSeitz)
 - [Sayan Sengupta](https://github.com/sayan169)
 - [Tumininu Akande](https://github.com/devtumi)
 - [Elvis Aguero](https://github.com/elvispy)
