@@ -1374,6 +1374,7 @@ Rishabh Pandey
 - [Abdullatif Khayat](https://github.com/Abdullatif-K123)
 - [Ayasha](https://github.com/AyashaSikilkar)
 - [Arpitha](https://github.com/ArpithaANM)
+- [João Amaral](https://github.com/joao-amaral99)
 - [Varun Kumar](https://github.com/kukutapuvarun)
 - [Suchit](https://github.com/Suchitsj12)
 - [Mtothee] (https://github.com/Mtothee)
