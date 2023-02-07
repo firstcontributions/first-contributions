@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 - [Batel Levi]
 - [Isaac Faulkner]
+- [Yash Savla](https://github.com/yashsavla9)
 - [RobbiDev](https://github.com/RobbiDev)
 - [Sunny Singh](https://github.com/sunny-k-singh)
 - [Tridev Verma](https://github.com/tridevVerma)
