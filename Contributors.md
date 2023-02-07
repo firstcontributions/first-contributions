@@ -343,6 +343,7 @@ Subhajit Bera
 - [Abhishek Tewary](https://github.com/abhishek-38)
 - [Daniel Burchett](https://github.com/Dnlburch)
 - [Axorax](https://github.com/axorax)
+- [sancoLgates](https://github.com/sancoLgates)
 - [Gabriel Bellasco](https://github.com/GabrielBellasco)
 - [Omar Gabriel](https://github.com/omargabrielaguilar)
 - [Gavin Levis](https://github.com/GLevis)
