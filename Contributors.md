@@ -1,7 +1,8 @@
-# Contributors
+﻿# Contributors
 <!-- prettier-ignore-start -->
 - [Isaac Faulkner]
-- [RobbiDev](https://github.com/RobbiDev)
+- [RobbiDev](https://github.com/RINGULARITTY)
+- [RINGULARITTY](https://github.com/RobbiDev)
 - [Sunny Singh](https://github.com/sunny-k-singh)
 - [Tridev Verma](https://github.com/tridevVerma)
 - [Tarun Mankar](https://github.com/tarunmankar)
