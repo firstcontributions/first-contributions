@@ -57,6 +57,7 @@
 - [Sammy Kittendorf](https://github.com/Skitten168)
 - [Bheeshmasena](https://github.com/BheeshmasenaReddy)
 - [ytian]
+- [Canvas02](https://github.com/Canvas02)
 - [Ankit Saurabh](https://github.com/justacsguy/)
 - [Jesse Ekoh-Ordan](https://github.com/jesseekoh)
 
