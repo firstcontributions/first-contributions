@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Ethan Kuhrts](https://github.com/ethankuhrts)
 - [Ezequiel Ríos](https://github.com/Eriosdev)
 - [Anthon Rodrigues](https://github.com/anthonrodgrs01)
 - [Tyler Beitel]
