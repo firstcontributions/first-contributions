@@ -3,7 +3,7 @@
 We assume that you have already finished with the basic tutorial before coming here. This document will give you some additional information about advanced Git techniques.
 
 ### [Amending a commit](amending-a-commit.md)
-This document provides information about how to amend a commit on the remote repository.
+This document provides information about how to amend a commit on the remote repository.Amending a commit is a way to modify the most recent commit you have made in your current branch. This can be helpful if you need to edit the commit message or if you forgot to include changes in the commit. You can continue to amend a commit until you push it to the remote repository.
 > Use this when you need to adjust a commit you made.
 
 ### [Configuring git](configuring-git.md)
