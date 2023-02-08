@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Ezequiel Ríos](https://github.com/Eriosdev)
+- [Tyler Beitel]
 - [Muhammed Sinan C K](https://github.com/Muhammedsinanck)
 - [Batel Levi]
 - [Isaac Faulkner]
