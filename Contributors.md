@@ -2157,6 +2157,7 @@ Ayan Das
 - [Antoine Germon] (https://github.com/Antoine-Germon)
 - [tmjpt] (https://github.com/tmjpt)
 - Brandon Udall
+- [Charlemagne Javinal] (https://github.com/JavinalCharles)
 - [Ajesh] (https://github.com/ajesh-n)
 - [Arjun Ivor](https://github.com/arjunivor)
 - [Gaurav Singh](https://github.com/knowgaurav)
@@ -2226,3 +2227,4 @@ Ayan Das
 - [John Pay Seng](https://github.com/johnpayseng)
 - [Yucheng_Xiang](https://github.com/YC-Xiang)
 - [Anna Barry] (https://github.com/annabarrysigl)
+
