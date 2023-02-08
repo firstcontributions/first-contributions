@@ -37,6 +37,7 @@
 - [Ahmed Abdalla](https://github.com/ahmdaa)
 - [ligh1yagami](https://github.com/ligh1yagami)
 - [Alex Pablo](https://github.com/alexpablo-code)
+- [Julian] Gil]
 - [Emily Laidlaw](https://github.com/Emily-Laidlaw)
 - [Piyush Yadav](https://github.com/py-piyush)
 - [Abhishek Soni](https://github.com/abhisheksoni46)
@@ -2138,10 +2139,10 @@ Ayan Das
 - [Kojo Ahyia-Osae](https://github.com/kj10dev)
 - [SK](https://github.com/skuperst)
 - [Dhiraj Patra](https://github.com/dhirajpatra)
--[Weten-Ogen](https://github/com/Weten-Ogen)
--[Malav p](https://github.com/mDprajapati)
--[Monica-C.] (https://github.com/mcatcruz)
--[Shaqeeb-Akhtar] (https://github.com/shaqeebwisdmlabs)
+  -[Weten-Ogen](https://github/com/Weten-Ogen)
+  -[Malav p](https://github.com/mDprajapati)
+  -[Monica-C.] (https://github.com/mcatcruz)
+  -[Shaqeeb-Akhtar] (https://github.com/shaqeebwisdmlabs)
   -[ToastFreak] (https://github.com/ToastFreak777)
   [Leandro Javier Loureiro] (https://github.com/leandrojl)
   <!-- prettier-ignore-end -->
