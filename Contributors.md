@@ -3,6 +3,7 @@
 - [Ezequiel Ríos](https://github.com/Eriosdev)
 - [Anthon Rodrigues](https://github.com/anthonrodgrs01)
 - [Tyler Beitel]
+- [Gull Ahmed] (https://github.com/gullahmed1)
 - [Muhammed Sinan C K](https://github.com/Muhammedsinanck)
 - [Batel Levi]
 - [Isaac Faulkner]
