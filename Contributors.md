@@ -2175,6 +2175,7 @@ Ayan Das
 - [Ron] (https://github.com/ronfcodes)
 - [Abhijeet Kumar] (https://github.com/abhijeetnishal)
 - [Sharky Flou] (https://github.com/SharkyFlou)
+- [Zephyr SV] (https://github.com/ZephyrSV)
 - WOoOD
 - [Aymen Sakouhi] (https://github.com/AymenSakouhi)
 - [Nahom Negash] (https://github.com/Nnegash1)
