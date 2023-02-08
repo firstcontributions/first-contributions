@@ -5,6 +5,7 @@
 - [Tyler Beitel]
 - [Gull Ahmed] (https://github.com/gullahmed1)
 - [Muhammed Sinan C K](https://github.com/Muhammedsinanck)
+- [Bardia Zamani Abnili](https://github.com/BarZamSr)
 - [Batel Levi]
 - [Isaac Faulkner]
 - [Tony Coldashian](https://github.com/tonycoldashian)
