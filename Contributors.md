@@ -183,7 +183,8 @@ Subhajit Bera
 - [HHA](https://github.com/HeinHtetAunggg)
 - [Diego_Sic](https://github.com/Diego-Sic)
 - [Gwen Asani](https://github.com/gwendolyn954)
-- [Jay Sexton](https://github.com/jaysexton
+- [Jay Sexton](https://github.com/jaysexton)
+- [Insektenjaeger](https://github.com/Insektenjeager)
 - [Nisila Chandunu] (https://github.com/nisilachandunu)
 - [Lesther Orellana](https://github.com/eliuOrellest)
 - [Parth Sharma](https://github.com/pxs4528)
