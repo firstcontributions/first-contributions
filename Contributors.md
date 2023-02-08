@@ -28,6 +28,7 @@
 - [Kims123](https://github.com/kims123)
 - [Sofia Matias](https://github.com/sofiammatias)
 - [Dalton Riley] (https://github.com/daltonjriley)
+- [Soham Vij] (https://github.com/Sohezee)
 -[Tse C](https://github.com/kyroC)
 - [Ana Maria Amorim]
 - [Gannon Rowlan]
