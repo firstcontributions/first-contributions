@@ -61,7 +61,7 @@
 - [Canvas02](https://github.com/Canvas02)
 - [Ankit Saurabh](https://github.com/justacsguy/)
 - [Jesse Ekoh-Ordan](https://github.com/jesseekoh)
-
+- [J.M. Wiley](https://github.com/jmwileydev)
 - [Caleb](https://github.com/calebQWEB)
 - [Queen Fawale](https://github.com/Queen-codes)
 - [Adhish Verma](https://github.com/adhishVerma)
