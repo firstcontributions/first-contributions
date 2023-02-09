@@ -325,6 +325,7 @@ Subhajit Bera
 -MaheshKumar
 - [Mayank Choudhary](https://github.com/Mayankchoudhary294)
 - [Larry Chen](https://github.com/clazzy0)
+- [Bailey Cage](https://github.com/bvcage)
 - [Eti-ini Effiong-Robert](https://github.com/eti-iniER)
 - [Bhavin Raichura](https://github.com/BhavinRaichura)
 -[jasonroy](https://github.com/jasonroy)
