@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 - [Ali Rasouli]
 - [Ethan Kuhrts](https://github.com/ethankuhrts)
+- [Olivia Robinson](https://github.com/lvcg)
 - [Ezequiel Ríos](https://github.com/Eriosdev)
 - [Pratik Kumar Singh](https://github.com/prat19coder)
 - [Anthon Rodrigues](https://github.com/anthonrodgrs01)
