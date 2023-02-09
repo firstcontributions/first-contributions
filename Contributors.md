@@ -61,6 +61,7 @@
 - [Dam Gyu Yang]
 - [Mahir Ahammed](https://github.com/MahirAhammed)
 - [siya]
+- [Jon Streker] (https://github.com/jonStreker)
 - [Carliso]
 - [Ian Tuohy](https://github.com/ipt6)
 - [Lauren Farr](https://github.com/lkf57)
