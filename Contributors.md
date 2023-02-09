@@ -4,6 +4,7 @@
 - [Ezequiel Ríos](https://github.com/Eriosdev)
 - [Anthon Rodrigues](https://github.com/anthonrodgrs01)
 - [Tyler Beitel]
+- [Morgan Smith]
 - [Gull Ahmed] (https://github.com/gullahmed1)
 - [Muhammed Sinan C K](https://github.com/Muhammedsinanck)
 - [Bardia Zamani Abnili](https://github.com/BarZamSr)
