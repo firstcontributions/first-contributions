@@ -2242,4 +2242,5 @@ Ayan Das
 - [Vineet Erasala](https://github.com/deuxroux)
 - [Anna Barry] (https://github.com/annabarrysigl)
 - [Asad] (https://github.com/asadshoyebkhan)
+- [Nawed Alam] (https://github.com/nawed-alam)
 
