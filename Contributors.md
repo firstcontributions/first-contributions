@@ -120,6 +120,7 @@
 - [neta] (https://github.com/netacohen1)
 - [Hiu Yi NAM] (https://github.com/HYnam)
 - [Mohd Amaan](https://github.com/mhdamaan79)
+- [Korben Tompkin](https://github.com/Korbexmachina)
 - [Wenslaus Kachasu](https://github.com/wenslauskc)
 - [Aryan Maurya](https://github.com/108aryanmaurya)
 Michael Vertin
@@ -663,7 +664,6 @@ Rishabh Pandey
 - [Henry Li](https://github.com/Henrycodeproj)
 - [Sean Sew](https://github.com/ExpressOwl)
 - [Anjana Vishvanath](https://github.com/anjanavishvanath)
-- [Korben Tompkin](https://github.com/Korbexmachina)
 - [Kyoumei](https://github.com/kyoumeia)
 - [Anshuman Nigam @DevSocPI]
 - [Jess Mathews](https://github.com/jessmathews)
