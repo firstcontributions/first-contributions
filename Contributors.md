@@ -56,6 +56,7 @@
 - [Rolyyy](https://github.com/Rolyyy)
 - [Prasad Joshi](https://github.com/predatorprasad)
 - [Anant shukla](https://github.com/Anantshukla007)
+  [Aniket Gupta]
 - [Sumit Kumar](https://github.com/sumit970)
 - [Dam Gyu Yang]
 - [Mahir Ahammed](https://github.com/MahirAhammed)
