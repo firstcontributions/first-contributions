@@ -16,6 +16,7 @@
 - [Yash Savla](https://github.com/yashsavla9)
 - [RobbiDev](https://github.com/RobbiDev)
 - [Sunny Singh](https://github.com/sunny-k-singh)
+-[Vivek Khandekar]
 - [Tridev Verma](https://github.com/tridevVerma)
 - [Tarun Mankar](https://github.com/tarunmankar)
 - [Raj_Pabnani](https://github.com/RajPabnani03)
