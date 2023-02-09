@@ -35,6 +35,7 @@
 - [Sofia Matias](https://github.com/sofiammatias)
 - [Dalton Riley] (https://github.com/daltonjriley)
 - [Soham Vij] (https://github.com/Sohezee)
+- [Tiago Gonçalves](https://github.com/tiagogdev)
 -[Tse C](https://github.com/kyroC)
 - [Ana Maria Amorim]
 - [Gannon Rowlan]
