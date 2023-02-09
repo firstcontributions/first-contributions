@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 - [Ethan Kuhrts](https://github.com/ethankuhrts)
 - [Ezequiel Ríos](https://github.com/Eriosdev)
+- [Pratik Kumar Singh](https://github.com/prat19coder)
 - [Anthon Rodrigues](https://github.com/anthonrodgrs01)
 - [Tyler Beitel]
 - [Morgan Smith]
