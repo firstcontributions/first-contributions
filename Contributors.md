@@ -21,6 +21,7 @@
 - [Sunny Singh](https://github.com/sunny-k-singh)
 -[Vivek Khandekar]
 -[Shubham Shrimant](https://github.com/shubhamshrimant)
+-[Håvard Garsrud](https://github.com/HaavGa)
 - [Tridev Verma](https://github.com/tridevVerma)
 - [Tarun Mankar](https://github.com/tarunmankar)
 - [Raj_Pabnani](https://github.com/RajPabnani03)
