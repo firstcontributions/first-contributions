@@ -2238,5 +2238,7 @@ Ayan Das
 - [Htet Aung Hlaing](https://github.com/DreamerChaserHAH)
 - [John Pay Seng](https://github.com/johnpayseng)
 - [Yucheng_Xiang](https://github.com/YC-Xiang)
+- [Vineet Erasala](https://github.com/deuxroux)
 - [Anna Barry] (https://github.com/annabarrysigl)
 - [Asad] (https://github.com/asadshoyebkhan)
+
