@@ -148,6 +148,7 @@ Chirag Rakh
 - [Josh Scoville](https://github.com/ag4sm)
 - [Razack] (https://github.com/razack00/)
 - [Kent](https://github.com/kkentt)
+- [Sergio Gomez](https://github.com/Sdagomez)
 - [Ujjwal Saxena](https://github.com/Ujjwal-S)
 - [Gift Ibe](https://github.com/giftibe)
 - [Divyom](https://github.com/Waro0N/)
