@@ -2247,4 +2247,5 @@ Ayan Das
 - [Anna Barry] (https://github.com/annabarrysigl)
 - [Asad] (https://github.com/asadshoyebkhan)
 - [Nawed Alam] (https://github.com/nawed-alam)
+- [Felipe González](https://github.com/figonzal1)
 
