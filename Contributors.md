@@ -11,6 +11,7 @@
 - [Bardia Zamani Abnili](https://github.com/BarZamSr)
 - [Batel Levi]
 - [Isaac Faulkner]
+- [Aditya Rajkumar](https://github.com/adityarfw)
 - [Tony Coldashian](https://github.com/tonycoldashian)
 - [Yash Savla](https://github.com/yashsavla9)
 - [RobbiDev](https://github.com/RobbiDev)
