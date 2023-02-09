@@ -6,6 +6,7 @@
 - [Tyler Beitel]
 - [Morgan Smith]
 - [Gull Ahmed] (https://github.com/gullahmed1)
+- [Gaurav singh jethuri](https://github.com/EndGaurav)
 - [Muhammed Sinan C K](https://github.com/Muhammedsinanck)
 - [Bardia Zamani Abnili](https://github.com/BarZamSr)
 - [Batel Levi]
