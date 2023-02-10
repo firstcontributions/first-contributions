@@ -82,6 +82,7 @@
 - [Kane Davidson](https://github.com/kcd1001)
 - [Caleb](https://github.com/calebQWEB)
 - [Queen Fawale](https://github.com/Queen-codes)
+- [Abhishek kumar](https://github.com/abhiraj-ku)
 - [Adhish Verma](https://github.com/adhishVerma)
 - [Kay Cee](https://github.com/sekaycee)
 - [Pritam Sapkota](https://github.com/pritamsap)
