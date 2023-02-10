@@ -16,6 +16,7 @@
 - [Bardia Zamani Abnili](https://github.com/BarZamSr)
 - [Batel Levi]
 - [Isaac Faulkner]
+- [Akshay Jagiasi]
 - [Aditya Rajkumar](https://github.com/adityarfw)
 - [Tony Coldashian](https://github.com/tonycoldashian)
 - [Yash Savla](https://github.com/yashsavla9)
@@ -2263,4 +2264,4 @@ Ayan Das
 - [Asad] (https://github.com/asadshoyebkhan)
 - [Nawed Alam] (https://github.com/nawed-alam)
 - [Felipe González](https://github.com/figonzal1)
-
+- [Akshay Jagiasi](https://github.com/Akshay-Jagiasi)
