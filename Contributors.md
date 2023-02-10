@@ -41,6 +41,7 @@
 -[Tse C](https://github.com/kyroC)
 - [Ana Maria Amorim]
 - [Gannon Rowlan]
+- [Akshay Jagiasi]
 - [Meaghan Freund]
 - [Joshua VanderMeer](https://github.com/JoshVanderM)
 - [Vipul Chauhdary](https://github.com/Vipul-7)
