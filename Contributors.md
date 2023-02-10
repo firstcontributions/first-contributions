@@ -2279,6 +2279,7 @@ Ayan Das
 - [Moosa Memon](https://github.com/MoosaMemon)
 - [Anna Barry] (https://github.com/annabarrysigl)
 - [Asad] (https://github.com/asadshoyebkhan)
+- [Ola] (https://github.com/olamog)
 - [Nawed Alam] (https://github.com/nawed-alam)
 - [Felipe González](https://github.com/figonzal1)
 - [Akshay Jagiasi](https://github.com/Akshay-Jagiasi)
