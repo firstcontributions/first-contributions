@@ -6,6 +6,7 @@
 - [Ezequiel Ríos](https://github.com/Eriosdev)
 - [Pratik Kumar Singh](https://github.com/prat19coder)
 - [Anthon Rodrigues](https://github.com/anthonrodgrs01)
+- [Anish Mandal](https://github.com/anish1997)
 - [Tyler Beitel]
 - [Morgan Smith]
 - [Kritika]
