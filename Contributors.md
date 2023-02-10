@@ -554,6 +554,7 @@ Subhajit Bera
 - [Luca Farina](https://github.com/LucaFarina)
 - [Tobi Abraham](https://github.com/Abacode7)
 - [Satyam Jha](https://github.com/coldkoffee)
+- [Prateek]
 - [Prakhar Verma](https://github.com/parkkrrr)
 - [Snehil Chhabria](https://github.com/snehilchhbaria)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
