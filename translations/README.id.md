@@ -5,25 +5,25 @@
 
 # Kontribusi Pertama 
 
-Proyek ini memiliki tujuan yaitu untuk menyederhanakan dan membimbing pemula untuk membuat kontribusi pertamanya di Github. Jika Anda ingin membuat kontribusi pertama mu, ikuti langkah-langkah berikut.
+Proyek ini memiliki tujuan yaitu untuk menyederhanakan dan membimbing pemula untuk membuat kontribusi pertamanya di Github. Jika Anda ingin membuat kontribusi pertamamu, ikuti langkah-langkah berikut.
 
 
 #### _Jika Anda tidak terbiasa dengan baris perintah, [di sini ada tutorial untuk menggunakan GUI.](#Tutorial-Menggunakan-Alat-Lain)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Apabila Anda belum menginstall git di komputer anda, [ install segera ](https://help.github.com/articles/set-up-git/).
+Apabila Anda belum menginstall git di komputer Anda, [ install segera ](https://help.github.com/articles/set-up-git/).
 
 ## *Fork* Repositori Ini
 
 Fork repositori ini dengan cara klik tombol *fork* yang ada di bagian atas kanan pada halaman ini.
-Dan repository ini akan disalin ke akun anda.
+Dan repository ini akan disalin ke akun Anda.
 
 ## *Clone* Repositori
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Sekarang klon repositori yang sudah Anda *fork* di akun Github anda ke komputer anda. Buka akun GitHub Anda, buka repository yang sudah di *fork*, Klik tombol *Code* dan kemudian klik ikon salin ke papan klip.
+Sekarang klon repositori yang sudah Anda *fork* di akun Github Anda ke komputer Anda. Buka akun GitHub Anda, buka repository yang sudah di *fork*, Klik tombol *Code* dan kemudian klik ikon salin ke papan klip.
 
 Buka terminal dan jalankan perintah git berikut:
 
@@ -31,7 +31,7 @@ Buka terminal dan jalankan perintah git berikut:
 git clone "url yang telah disalin"
 ```
 
-bagian "url yang telah disalin" (tanpa tanda petik) adalah url ke repositori ini (proyek yang telah anda *fork* ini). Lihat langkah sebelumnya untuk mendapatkan url.
+bagian "url yang telah disalin" (tanpa tanda petik) adalah url ke repositori ini (proyek yang telah Anda *fork* ini). Lihat langkah sebelumnya untuk mendapatkan url.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -41,7 +41,7 @@ Contoh:
 git clone https://github.com/ini-adalah-anda/first-contributions.git
 ```
 
-bagian `ini-adalah-anda` adalah *username* GitHub Anda. Disini Anda menyalin konten dari repositori first-contributions di GitHub ke komputer Anda.
+bagian `ini-adalah-anda` adalah *username* GitHub Anda. Di sini Anda menyalin konten dari repositori first-contributions di GitHub ke komputer Anda.
 
 ## Membuat Cabang (Branch)
 
@@ -84,7 +84,7 @@ Sekarang simpan perubahan tersebut menggunakan perintah `git commit`:
 git commit -m "Add <nama-Anda> to Contributors list"
 ```
 
-Ubah bagian `<nama-Anda>` dengan nama anda.
+Ubah bagian `<nama-Anda>` dengan nama Anda.
 
 ## Dorong (Push) Perubahan ke GitHub
 
