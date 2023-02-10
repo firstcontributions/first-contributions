@@ -35,6 +35,7 @@
 - [Lean Dwarf](https://github.com/LeanDwarf)
 [martindevelopske] (martindevelops.dev)
   [Raghav Singh](https://github.com/RaghavSaptam)
+- [Shilpi Pandey](https://github.com/shilpipandey)
   [Tosyne Akinnifesi](https://github.com/trextozyne)
 - [Calvin Nguyen](https://githublcom/calvinguyen)
 - [Mete Sayan](https://github.com/MeteSayan)
