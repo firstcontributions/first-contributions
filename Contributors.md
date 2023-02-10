@@ -2241,6 +2241,7 @@ Ayan Das
 - [Abdul-Mustafa](https://github.com/Abdul-Mustafa)
 - [Mohit Ishpunyani](https://github.com/16mi)
 - [Htet Aung Hlaing](https://github.com/DreamerChaserHAH)
+- [Milan Rai](https://github.com/Milanrai09)
 - [John Pay Seng](https://github.com/johnpayseng)
 - [Yucheng_Xiang](https://github.com/YC-Xiang)
 - [Vineet Erasala](https://github.com/deuxroux)
