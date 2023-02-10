@@ -2269,6 +2269,7 @@ Ayan Das
 - [John Pay Seng](https://github.com/johnpayseng)
 - [Yucheng_Xiang](https://github.com/YC-Xiang)
 - [Vineet Erasala](https://github.com/deuxroux)
+- [Moosa Memon](https://github.com/MoosaMemon)
 - [Anna Barry] (https://github.com/annabarrysigl)
 - [Asad] (https://github.com/asadshoyebkhan)
 - [Nawed Alam] (https://github.com/nawed-alam)
