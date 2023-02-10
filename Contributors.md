@@ -16,6 +16,7 @@
 - [Muhammed Sinan C K](https://github.com/Muhammedsinanck)
 - [Bardia Zamani Abnili](https://github.com/BarZamSr)
 - [Batel Levi]
+- [HarenIO](https://github.com/HarenIO/)
 - [Isaac Faulkner]
 - [Akshay Jagiasi]
 - [Aditya Rajkumar](https://github.com/adityarfw)
