@@ -1709,6 +1709,7 @@ Rishabh Pandey
 - [Shivansh Guleria](https://github.com/ShivanshGuleria)
 - [Swaraj](https://github.com/swarajzz)
 - [Gangadhar Reddy](https://github.com/gangadharreddy98)
+- [Shaan Walia](https://github.com/mxixqc)
 - [OmPatil]DevSocPI
 - [Franklin Mensah](https://github.com/fiificode)
 - [Bright Odey](https://github.com/starburn-hub)
