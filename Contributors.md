@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 <!-- prettier-ignore-start -->
 - [Ali Rasouli]
 - [Ethan Kuhrts](https://github.com/ethankuhrts)
