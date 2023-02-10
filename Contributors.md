@@ -670,6 +670,7 @@ Rishabh Pandey
 - Khadija Kamran
 - [Seb Fox]
 - [swapnil Dekate](https://github.com/smdekate)
+- [Akash ks](https://https://github.com/Akashzxr)
 - [Grishma Raj Khanal](https://github.com/grishmakhanal)
 - [0xSilkweave](https://github.com/0xSilkweave)
 - [Riley Bruce](https://github.com/Riley94)
