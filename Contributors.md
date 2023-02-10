@@ -498,6 +498,7 @@ Subhajit Bera
 - [HemanthB03](https://github.com/HemanthB03)
 - [Prajwal Dhungana](https://github.com/PrajwalDhungana)
 - [Chirag Tiloomalani](https://github.com/chiragt13)
+- [Rima Nurkholifah](https://github.com/rimanurfah)
 - [Overlrd](https://github.com/Overlrd)
 - [Balvinder] (https://github.com/Balvinder-1995)
 - [Prince Dawson](https://github.com/dawssonCodes)
