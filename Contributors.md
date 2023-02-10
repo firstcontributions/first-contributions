@@ -97,6 +97,7 @@
 - [Kris Bruenn] (https://github.com/KrisBruenn)
 - [Koren Weis] (https://github.com/korenw)
 - [Het Joshi](https://bento.me/het-joshi)
+- [Brandon Learned](https://github.com/blearned92)
 - [Rino De Guzman](https://github.com/Rino-DG)
 -[Tomas Jauregui] 
 - [Kanhaiya gavit]
