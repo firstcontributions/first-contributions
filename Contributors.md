@@ -1743,6 +1743,7 @@ Rishabh Pandey
 - [Rishi Singh](https://github.com/mrsingh-rishi)
 - [Arpan Adlakhiya](https://github.com/mrr0b0t-0x1)
 - [Nia Ahmed](https://github.com/technialogy)
+- [Jonas Reiher](https://github.com/jonasreiher)
 - [Bikash yadav](https://github.com/bikashydv)
 - [Sowmya S](https://github.com/sowmya-s-26)
 - [Ananthu AK](https://github.com/akanandhu)
