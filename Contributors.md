@@ -2285,4 +2285,5 @@ Ayan Das
 - [Felipe González](https://github.com/figonzal1)
 - [Akshay Jagiasi](https://github.com/Akshay-Jagiasi)
 - [Michael Fang](https://github.com/michaelfangtw) 
+- [Jaguar Ek](https://github.com/GeraAlcantara) 
 - []() 
