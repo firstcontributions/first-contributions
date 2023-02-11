@@ -9,6 +9,7 @@
 - [Anish Mandal](https://github.com/anish1997)
 - [Tyler Beitel]
 - [Morgan Smith]
+- [meeeeeee](https://github.com/notshanxx)
 - [Kritika]
 - [belenya] (https://github.com/Belenya)
 - [kaka09] (https://github.com/prenik09)
