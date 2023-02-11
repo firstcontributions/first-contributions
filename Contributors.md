@@ -89,7 +89,6 @@
 - [Aman Srivastav](https://github.com/Aman7s)
 ########################################TEJAS%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 - [Md Samsul Alam] (https://github.com/Samsul-Alam-STP)
-- [chodone] (https://github.com/chodone)
 - [Kanhaiya gaivt VSC]
 - [Alexis Torosina] (https://github.com/alexistorosina1)
 - [Amir babazadeh](https://github.com/amirgit92)
