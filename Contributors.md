@@ -1989,6 +1989,7 @@ Rishabh Pandey
 - [Taeho Lee](https://github.com/wheels63)
 - [Kelvin950](https://github.com/kelvin950)
 - [Romesh Kosme](https://github.com/romeshkosme)
+- [Paulo Oliveira](https://github.com/human00800)
 - [Le Thai Anh](https://github.com/lethaianhle)
 - [czc](https://github.com/czc-gd)
 - Tanishq Agarwal @Devsocpreinductions
