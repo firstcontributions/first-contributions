@@ -997,6 +997,7 @@ Rishabh Pandey
 - [Poyraz Bahcivan](https://github.com/poyrazbahcivan)
 - [desk7](https://github.com/desk7)
 - [Ryan Ignasiak](https://github.com/theravenousR)
+- [Pruthuvi De Silva](https://github.com/PruthuviDe)
 - [Arman Hadzigrahic](https://github.com/armeono)
 - [Anand Dubey](https://github.com/AnandDubey1711)
 - [Prerak Patel](https://github.com/PrerakPatelCS)
