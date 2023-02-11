@@ -22,6 +22,7 @@
 - [HarenIO](https://github.com/HarenIO/)
 - [Isaac Faulkner]
 - [Akshay Jagiasi]
+- [Georgios Kakarlis](https://github.com/georgekakarlis)
 - [Aditya Rajkumar](https://github.com/adityarfw)
 - [Tony Coldashian](https://github.com/tonycoldashian)
 - [Yash Savla](https://github.com/yashsavla9)
