@@ -795,6 +795,7 @@ Rishabh Pandey
 - Rocky Garcia
 - Maxwell Sean Cadet https://github.com/Maxdj2k
 - My name is KS
+- [Judge-Paul Ogebe](https://github.com/Judge-Paul)
 - [Shinya Yoshida](https://github.com/ShinyaWebDev)
 - [Mahesward](https://github.com/Mahesward)
 - Ronit Kunkolienker @DevSoc PI
