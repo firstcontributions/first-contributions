@@ -82,7 +82,7 @@
 - [Koren Weis] (https://github.com/korenw)
 - [Het Joshi](https://bento.me/het-joshi)
 - [Rino De Guzman](https://github.com/Rino-DG)
-- [chodone] (https://github.com/chodone)
+- [chodone](https://github.com/chodone)
 -[Tomas Jauregui] 
 - [Kanhaiya gavit]
 - [shabarish k]
