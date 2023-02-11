@@ -4,6 +4,7 @@
 - [Ethan Kuhrts](https://github.com/ethankuhrts)
 - [Olivia Robinson](https://github.com/lvcg)
 - [Ezequiel Ríos](https://github.com/Eriosdev)
+- [Nicholas Njoki](https://github.com/alsonick)
 - [Pratik Kumar Singh](https://github.com/prat19coder)
 - [Anthon Rodrigues](https://github.com/anthonrodgrs01)
 - [Anish Mandal](https://github.com/anish1997)
