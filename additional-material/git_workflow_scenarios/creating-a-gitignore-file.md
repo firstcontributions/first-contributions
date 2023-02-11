@@ -43,15 +43,15 @@ git config --global core.excludesfile ~/.gitignore_global
 ```
 This will create the file ~/.gitignore_global. Now you can edit that file the same way as a local .gitignore file. All of your Git repositories will ignore the files and folders listed in the global .gitignore file.
 
-## How to Untrack Files Previously Committed from New Gitignore
+## How to Un-track Files Previously Committed from New Gitignore
 
-To untrack a single file, ie stop tracking the file but not delete it from the system use:
+To un-track a single file, ie stop tracking the file but not delete it from the system use:
 
 ```
 git rm --cached filename
 ```
 
-To untrack every file in .gitignore:
+To un-track every file in .gitignore:
 
 First, commit any outstanding code changes, and then run:
 

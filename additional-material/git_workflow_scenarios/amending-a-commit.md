@@ -34,7 +34,7 @@ The second way is to amend the a5da0d commit, add this new word and  push it to 
 The second sounds better since it is just a minor change.
 
 To achieve this, we would do the following:
-*   Modify the file. In this case, I will modify the botfile to include the word I omitted previously.
+*   Modify the file. In this case, I will modify the bot file to include the word I omitted previously.
 *   Next, add the file to the staging area with ```git add <filename>```
 
 Usually after adding files to the staging area, the next thing we do is git commit -m "our commit message" right?

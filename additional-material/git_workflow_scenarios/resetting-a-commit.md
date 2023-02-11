@@ -17,4 +17,4 @@ and git revert ```removes the commits from the remote repository```. <br/>
    
 - One can reset repository back to the specific commit using following command: <br />
   ```git reset commithash```
-  where commithash being the first 7 characters of the commit hash we found in the log
+  where commit-hash being the first 7 characters of the commit hash we found in the log
