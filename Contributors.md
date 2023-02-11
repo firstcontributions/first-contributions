@@ -11,6 +11,7 @@
 - [Tyler Beitel]
 - [Morgan Smith]
 - [meeeeeee](https://github.com/notshanxx)
+- [Eva Li]
 - [Soner YILDIRIM](https://github.com/soneryildirimx)
 - [Kritika]
 - [belenya] (https://github.com/Belenya)
