@@ -57,6 +57,7 @@
 - [Ana Maria Amorim]
 - [Gannon Rowlan]
 - [Tu Nguyen](https://github.com/TerryN12)
+- [Abdelwahab Chaachoui](https://github.com/abdelwahab-chaachoui)
 - [Meaghan Freund]
 - [Joshua VanderMeer](https://github.com/JoshVanderM)
 - [Vipul Chauhdary](https://github.com/Vipul-7)
