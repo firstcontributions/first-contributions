@@ -59,6 +59,7 @@
 - [Meaghan Freund]
 - [Joshua VanderMeer](https://github.com/JoshVanderM)
 - [Vipul Chauhdary](https://github.com/Vipul-7)
+- [Pulkit 889]
 - [Aadarsha Bastola] (https://github.com/aadarshabastola)
 -[Ahmed Abdelsalam](https://github.com/Bakar404)
 -[Kalluri Naveen](https://github.com/kalluri02002)
