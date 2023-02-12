@@ -41,6 +41,7 @@ Subhajit Bera
 - [Michaela Svancarova] (https://github.com/mysakli)
 - [Sahil Shaikh](https://github.com/Shaky-Sahil)
 - [Samuel K. Addison](https://github.com/SamAddy)
+- [Krishna Sarathi Ghosh](https://github.com/KrishnaTheCoder756)
 - [Marcos Adriano](https://github.com/drickchote)
 - [AKP](https://github.com/AungKhinePhyo)
 - [Ebuka Ejiofor](https://github.com/ebukathedev)
