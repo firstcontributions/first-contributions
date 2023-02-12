@@ -56,6 +56,7 @@
 - [Vishnu](https://github.com/vishnutvm)
 - [Yashraj_Singh](https://github.com/miikkuu)
 - [Jithan Gowda C K](https://github.com/jithangowda)
+- [Atrocious Programmer](https://github.com/AtrociousProgrammer/)
 - [Kims123](https://github.com/kims123)
 - [Sofia Matias](https://github.com/sofiammatias)
 - [Dalton Riley] (https://github.com/daltonjriley)
