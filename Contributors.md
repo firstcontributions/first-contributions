@@ -129,6 +129,7 @@
 - [Sayan Sengupta](https://github.com/sayan169)
 - [Cole Warner](https://github.com/colewarner24)
 - [Tumininu Akande](https://github.com/devtumi)
+- [Alec Neevel](https://github.com/aneevel)
 - [Elvis Aguero](https://github.com/elvispy)
 - [Eniola Adigun] (https://github.com/L-umen)
 - [Iroquois Pliskin aka snekpliskin](https://github.com/snekpliskin)
