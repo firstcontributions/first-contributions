@@ -1236,6 +1236,7 @@ Rishabh Pandey
 - [Gabriel Coelho](https://github.com/bielcoelho)
 - [Tasnim@DevSocPI] (https://github.com/tasnim496)
 - [Ellis Burgess](https://github.com/ellis-burgess)
+- [Shuichi hirama](https://github.com/hiramatch) 
 - [Vaishnavi Swarnoj](https://github.com/Vaishu03)
 - [Daniel Oliveira](https://github.com/GulDaniel)
 - [Aman Singh Chauhan](https://github.com/aman9723)
