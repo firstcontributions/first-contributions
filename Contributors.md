@@ -29,6 +29,7 @@
 - [Isaac Faulkner]
 - [Akshay Jagiasi]
 - [Georgios Kakarlis](https://github.com/georgekakarlis)
+- [Saieeash Reddy](https://github.com/SaieeashReddy23)
 - [Aditya Rajkumar](https://github.com/adityarfw)
 - [Tony Coldashian](https://github.com/tonycoldashian)
 - [Yash Savla](https://github.com/yashsavla9)
@@ -57,6 +58,7 @@
 - [Vishnu](https://github.com/vishnutvm)
 - [Yashraj_Singh](https://github.com/miikkuu)
 - [Jithan Gowda C K](https://github.com/jithangowda)
+- [Carl Fredrick](https://github.com/Fredrick117)
 - [Atrocious Programmer](https://github.com/AtrociousProgrammer/)
 - [Kims123](https://github.com/kims123)
 - [Sofia Matias](https://github.com/sofiammatias)
@@ -2136,6 +2138,7 @@ Rishabh Pandey
 - [Harshit Malang](https://github.com/hrshtmlng)  
 - [Michael Soriano](https://github.com/michaelsoriano)
 - [wqlu](https://github.com/wqlu)
+- [Jankela04](https://github.com/Jankela04)
 - [Ibragim GK](https://github.com/Ibrapsico)
 - [Revathi Vijayendran](https:github.com/vrrevi)
 - [Damon Xue](https://github.com/damonxue)
