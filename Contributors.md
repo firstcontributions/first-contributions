@@ -14,6 +14,7 @@
 - [Morgan Smith]
 - [meeeeeee](https://github.com/notshanxx)
 - [Eva Li]
+- [Saptarshi Das](https://github.com/saptarshi-vesit)
 - [Soner YILDIRIM](https://github.com/soneryildirimx)
 - [Kritika]
 - [belenya] (https://github.com/Belenya)
