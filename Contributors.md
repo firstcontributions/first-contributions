@@ -9,6 +9,7 @@
 - [Pratik Kumar Singh](https://github.com/prat19coder)
 - [Anthon Rodrigues](https://github.com/anthonrodgrs01)
 - [Anish Mandal](https://github.com/anish1997)
+- [Divya Kumari](https://github.com/Iamdivyak)
 - [Tyler Beitel]
 - [Morgan Smith]
 - [meeeeeee](https://github.com/notshanxx)
