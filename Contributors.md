@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 - [Ali Rasouli]
 - [Ethan Kuhrts](https://github.com/ethankuhrts)
+- [Deepanshu Bhatti](https://github.com/DeepanshuBhatti)
 - [Olivia Robinson](https://github.com/lvcg)
 - [Ezequiel Ríos](https://github.com/Eriosdev)
 - [Nicholas Njoki](https://github.com/alsonick)
