@@ -2319,5 +2319,5 @@ Ayan Das
 - [Pavan Bagwe](https://github.com/pavanb0)
 - [Reduan Masud](https://github.com/reduanmasud) 
 - [Narendra Anyam](https://github.com/narendra101) 
-- [Lior Asras👨‍💻](https://github.com/4rass) 
+- [Lior Asras 👨‍💻](https://github.com/4rass) 
 -[]()
