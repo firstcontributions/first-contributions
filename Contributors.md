@@ -76,6 +76,7 @@
 - [Ahmed Abdalla](https://github.com/ahmdaa)
 - [ligh1yagami](https://github.com/ligh1yagami)
 - [Alex Pablo](https://github.com/alexpablo-code)
+- [Shiva KC](https://github.com/Shivakc7)
 - [Emily Laidlaw](https://github.com/Emily-Laidlaw)
 - [Piyush Yadav](https://github.com/py-piyush)
 - [Abhishek Soni](https://github.com/abhisheksoni46)
