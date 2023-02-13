@@ -14,6 +14,7 @@
 - [Sushil Bhandari](https://github.com/sushil-rgb)
 - [Tyler Beitel]
 - [Morgan Smith]
+- [Tejas Binu]
 - [meeeeeee](https://github.com/notshanxx)
 - [Eva Li]
 - [King Lawrence Caubalejo](https://github.com/kingcaubalejo)
