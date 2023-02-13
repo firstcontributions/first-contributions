@@ -3,6 +3,7 @@
 - [Dylan Clarry](https://github.com/Dylan-Clarry)
 - [Ali Rasouli]
 - [Ethan Kuhrts](https://github.com/ethankuhrts)
+- [Gavin D'mello](https://github.com/GavinDmello97)
 - [typicaljoe111](https://github.com/typicaljoe111)
 - [Deepanshu Bhatti](https://github.com/DeepanshuBhatti)
 - [Olivia Robinson](https://github.com/lvcg)
