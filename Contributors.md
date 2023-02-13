@@ -17,6 +17,7 @@
 - [Eva Li]
 - [Saptarshi Das](https://github.com/saptarshi-vesit)
 - [Soner YILDIRIM](https://github.com/soneryildirimx)
+- [Megan P]
 - [Kritika]
 - [belenya] (https://github.com/Belenya)
 - [Katia Corona](https://github.com/katiacorona)
