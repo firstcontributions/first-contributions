@@ -2327,5 +2327,5 @@ Ayan Das
 - [Narendra Anyam](https://github.com/narendra101) 
 - [Lior Asras](https://github.com/4rass) 
 - [JVM](https://github.com/jaideepmurkute)
-- [Muhammed Jishin Jamal T C O](https://github.com/mohdjishin)
+- [Muhammed Jishin Jamal T C P](https://github.com/mohdjishin)
 -[]()
