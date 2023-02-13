@@ -995,6 +995,7 @@ Rishabh Pandey
 - [Sanskar Jain](https://github.com/SanskarJain007)
 - [Anshuman Nigam @DevSocPI](https://github.com/AnshumanNigam)
 - [Yam Timor](https://github.com/yamtimor)
+- [Victor Araujo](https://github.com/farvic)
 - [Archishman Dash](https://www.github.com/aholic-archie)
 - [Om Patil]@DevsocPI
 - [Josy Li](https://github.com/josyliyh)
