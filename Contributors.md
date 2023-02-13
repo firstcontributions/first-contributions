@@ -16,6 +16,7 @@
 - [Morgan Smith]
 - [meeeeeee](https://github.com/notshanxx)
 - [Eva Li]
+- [King Lawrence Caubalejo](https://github.com/kingcaubalejo)
 - [Saptarshi Das](https://github.com/saptarshi-vesit)
 - [Soner YILDIRIM](https://github.com/soneryildirimx)
 - [Megan P]
