@@ -2332,4 +2332,4 @@ Ayan Das
 - [Muhammed Jishin Jamal T C O](https://github.com/mohdjishin)
 - [Chandra Rizky Raharja](https://github.com/cnzcnzcnz)
 - [Kishan Kumar](https://github.com/kishan1000)
-- []()
+- [Leonid Oliinyk](https://github.com/leo-oli)
