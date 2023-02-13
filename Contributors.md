@@ -20,6 +20,7 @@
 - [Soner YILDIRIM](https://github.com/soneryildirimx)
 - [Megan P]
 - [Kritika]
+- [Numo Francis](https://github.com/numofran6)
 - [belenya] (https://github.com/Belenya)
 - [Katia Corona](https://github.com/katiacorona)
 - [kaka09] (https://github.com/prenik09)
