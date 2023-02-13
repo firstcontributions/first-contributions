@@ -38,6 +38,7 @@
 - [Shreyash Somvanshi](https://github.com/ShreyashSomvanshi)
 - [RobbiDev](https://github.com/RobbiDev)
 - [Sunny Singh](https://github.com/sunny-k-singh)
+-[Vikas Rathod](https://github.com/vikasrathod4299)
 -[Vivek Khandekar]
 -[Shubham Shrimant](https://github.com/shubhamshrimant)
 -[Håvard Garsrud](https://github.com/HaavGa)
