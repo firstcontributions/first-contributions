@@ -2206,6 +2206,7 @@ Ayan Das
 - [Chao Neil Aryan Borgohain](https://github.com/ChaoNEil)
 - [Doran05](https://github.com/martinkuba333)
 - [Yuri Petrillo](https://github.com/yuripetrillo)
+- [Shreyash Kakde](https://github.com/Shreyashkakde1/)
 - [Anukul Pandey](https://github.com/anukulpandey)
 - [Julia Lopes](https://github.com/lrjulia)
 - [Kushal Lahoti](https://github.com/kushalnl7)
