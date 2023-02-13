@@ -29,6 +29,7 @@
 - [Isaac Faulkner]
 - [Akshay Jagiasi]
 - [Georgios Kakarlis](https://github.com/georgekakarlis)
+- [sam gill]
 - [Saieeash Reddy](https://github.com/SaieeashReddy23)
 - [Aditya Rajkumar](https://github.com/adityarfw)
 - [Tony Coldashian](https://github.com/tonycoldashian)
