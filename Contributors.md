@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 - [Ali Rasouli]
 - [Ethan Kuhrts](https://github.com/ethankuhrts)
+- [typicaljoe111](https://github.com/typicaljoe111)
 - [Deepanshu Bhatti](https://github.com/DeepanshuBhatti)
 - [Olivia Robinson](https://github.com/lvcg)
 - [Ezequiel Ríos](https://github.com/Eriosdev)
@@ -2325,3 +2326,5 @@ Ayan Das
 - [Narendra Anyam](https://github.com/narendra101) 
 - [Lior Asras](https://github.com/4rass) 
 - [JVM](https://github.com/jaideepmurkute)
+- [Muhammed Jishin Jamal T C O](https://github.com/mohdjishin)
+-[]()
