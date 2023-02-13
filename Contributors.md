@@ -1,5 +1,6 @@
 ﻿# Contributors
 <!-- prettier-ignore-start -->
+- [Dylan Clarry](https://github.com/Dylan-Clarry)
 - [Ali Rasouli]
 - [Ethan Kuhrts](https://github.com/ethankuhrts)
 - [typicaljoe111](https://github.com/typicaljoe111)
