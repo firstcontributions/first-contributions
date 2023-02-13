@@ -105,6 +105,7 @@
 - [Jon Streker] (https://github.com/jonStreker)
 - [Carliso]
 - [sumit]
+- [notrax](https://github.com/notrax)
 - [Ian Tuohy](https://github.com/ipt6)
 - [Lauren Farr](https://github.com/lkf57)
 - [Marc McCarthy](https://github.com/marc-mccarthy)
