@@ -16,6 +16,7 @@
 - [Morgan Smith]
 - [Tejas Binu]
 - [meeeeeee](https://github.com/notshanxx)
+- [Di-az](https://github.com/Di-az)
 - [Eva Li]
 - [King Lawrence Caubalejo](https://github.com/kingcaubalejo)
 - [Saptarshi Das](https://github.com/saptarshi-vesit)
