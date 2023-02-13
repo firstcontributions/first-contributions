@@ -2326,7 +2326,6 @@ Ayan Das
 - [Nawed Alam] (https://github.com/nawed-alam)
 - [Felipe González](https://github.com/figonzal1)
 - [Akshay Jagiasi](https://github.com/Akshay-Jagiasi)
-- [Jayden](https://github.com/juzbird11)
 - [Michael Fang](https://github.com/michaelfangtw) 
 - [Jaguar Ek](https://github.com/GeraAlcantara) 
 - [Ordin Zabek](https://github.com/ordinz)
