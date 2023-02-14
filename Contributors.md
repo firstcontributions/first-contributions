@@ -1965,6 +1965,7 @@ Rishabh Pandey
 - [EvyatarEsterson🙂](https://github.com/EvyatarEsterson)
 - [Linnea Herzer](https://github.com/lynn109)
 - [isaacc16](https://github.com/isaacc16)
+- [Manolis](https://github.com/elmanol)
 - [cameron lee](https://github.com/cameronslee23)
 - [mrzlsptzr](https://github.com/mrzlsptzr)
 - [André Correa](https://github.com/dartmol203)
@@ -2355,4 +2356,3 @@ Ayan Das
 - [sebiflorinp](https://github.com/sebiflorinp)
 - [kowsik](https://github.com/timetoadd)
 [Sathvik](https://github.com/Sathvik1007)
-
