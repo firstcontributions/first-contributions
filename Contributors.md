@@ -1857,6 +1857,7 @@ Rishabh Pandey
 - [TJ Albertson](https://github.com/TJ-Albertson)
 - [Ruthik Jadhav](https://github.com/Ruthik130201)
 - [Don](https://github.com/Donlebon)
+- [Dhruvik Patel](https://github.com/CS-DK)
 - [Sagar Bhatt Karia](https://github.com/sagarbk0)
 - [Vladimir Cvejanov](https://github.com/VladenCode)
 - [Carlos Americo](https://github.com/caducoder)
