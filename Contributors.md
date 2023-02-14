@@ -22,6 +22,7 @@
 - [Anish Mandal](https://github.com/anish1997)
 - [Divya Kumari](https://github.com/Iamdivyak)
 - [Sushil Bhandari](https://github.com/sushil-rgb)
+- [Gad Cooper] (https://github.com/SpyingEnvelope)
 - [Tyler Beitel]
 - [Morgan Smith]
 - [Tejas Binu]
