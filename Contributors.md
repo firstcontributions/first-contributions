@@ -66,6 +66,7 @@
   [Tosyne Akinnifesi](https://github.com/trextozyne)
 - [Dilek Baykara] (https://github.com/dilekbaykara)
 - [Calvin Nguyen](https://githublcom/calvinguyen)
+- [Parth Maru](https://github.com/TheParthMaru)
 - [Mete Sayan](https://github.com/MeteSayan)
 - [Vishnu](https://github.com/vishnutvm)
 - [Yashraj_Singh](https://github.com/miikkuu)
