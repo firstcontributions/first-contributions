@@ -3,6 +3,7 @@
 - [Ali Rasouli]
 - [Ethan Kuhrts](https://github.com/ethankuhrts)
 - [typicaljoe111](https://github.com/typicaljoe111)
+- [Riddhi](https://github.com/riddhigupta1110)
 - [Deepanshu Bhatti](https://github.com/DeepanshuBhatti)
 - [Olivia Robinson](https://github.com/lvcg)
 - [Ezequiel Ríos](https://github.com/Eriosdev)
