@@ -43,6 +43,7 @@
 - [Georgios Kakarlis](https://github.com/georgekakarlis)
 - [sam gill]
 - [Saieeash Reddy](https://github.com/SaieeashReddy23)
+- [Panth Shah](https://github.com/Panth1823)
 - [Aditya Rajkumar](https://github.com/adityarfw)
 - [Tony Coldashian](https://github.com/tonycoldashian)
 - [Yash Savla](https://github.com/yashsavla9)
