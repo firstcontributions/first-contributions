@@ -1320,6 +1320,7 @@ Rishabh Pandey
 - [Odedmasala](https://github.com/odedmasala)
 - [Rey Titus Nagar](https://github.com/gtnagar)
 - [Ricardo de Carvalho](https://github.com/ricardodecarvalho)
+- [Eduardo Carvalho Silva] (https://github.com/Ducarv)
 - [Mayank Jha](https://github.com/mkjha482)
 - [Frank Akrasi Antwi](https://github.com/fantwi)
 - [Doni Wicaksono](https://github.com/slashedzer0)
