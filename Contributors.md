@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Jonathan Potter](https://github.com/JonathanDPotter)
 - [V1K1NGbg again lol](https://github.com/V1K1NGbg)
 # [V1K1NGbg](https://github.com/V1K1NGbg)
 - [Dylan Clarry](https://github.com/Dylan-Clarry)
