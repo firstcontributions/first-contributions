@@ -8,6 +8,7 @@
 - [Steven Walker](https://github.com/stevenwalker91)
 - [Ethan Kuhrts](https://github.com/ethankuhrts)
 - [Gavin D'mello](https://github.com/GavinDmello97)
+- [M Umar Farooq 478](https://github.com/umarfarooq478)
 - [typicaljoe111](https://github.com/typicaljoe111)
 - [Deepanshu Bhatti](https://github.com/DeepanshuBhatti)
 - [Olivia Robinson](https://github.com/lvcg)
