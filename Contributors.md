@@ -150,6 +150,7 @@
 - [Rino De Guzman](https://github.com/Rino-DG)
 -[Tomas Jauregui] 
 - [Kanhaiya gavit]
+- [isaiah peters]
 - [shabarish k]
 - [Aman Srivastav](https://github.com/Aman7s)
 ########################################TEJAS%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
