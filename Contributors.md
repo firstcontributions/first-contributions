@@ -2357,6 +2357,7 @@ Ayan Das
 - [Ordin Zabek](https://github.com/ordinz)
 - [Pavan Bagwe](https://github.com/pavanb0)
 - [Reduan Masud](https://github.com/reduanmasud) 
+- [William Dutra](https://github.com/WilliamDutra) 
 - [Narendra Anyam](https://github.com/narendra101) 
 - [Lior Asras](https://github.com/4rass) 
 - [JVM](https://github.com/jaideepmurkute)
