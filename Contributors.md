@@ -1107,6 +1107,7 @@ Rishabh Pandey
 - [Renata Toth](https://github.com/renatatoth)
 - [Thiago Tatico](https://github.com/ThiagoTatico)
 - [Erik Opinaldo](https://github.com/erikopinaldo)
+- [Iman Kamali] (https://github.com/imankamali)
 - [Ian Conceicao](https://github.com/IanConceicao)
 - [Utpal Savaliya](https://github.com/utpalsavliya)
 - [MassiTec](https://github.com/MassiTec)
