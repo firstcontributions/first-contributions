@@ -2253,6 +2253,7 @@ Ayan Das
 - [tmjpt] (https://github.com/tmjpt)
 - Brandon Udall
 - [Charlemagne Javinal] (https://github.com/JavinalCharles)
+- [Mrinal Sharma]
 - [Ajesh] (https://github.com/ajesh-n)
 - [Arjun Ivor](https://github.com/arjunivor)
 - [Gaurav Singh](https://github.com/knowgaurav)
