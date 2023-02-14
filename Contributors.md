@@ -19,6 +19,7 @@
 - [Morgan Smith]
 - [Tejas Binu]
 - [meeeeeee](https://github.com/notshanxx)
+- [cadmusbashlog](https://github.com/cadmusbashlog)
 - [Di-az](https://github.com/Di-az)
 - [Eva Li]
 - [King Lawrence Caubalejo](https://github.com/kingcaubalejo)
