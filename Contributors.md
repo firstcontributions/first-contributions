@@ -47,6 +47,7 @@
 - [Akshay Jagiasi]
 - [Georgios Kakarlis](https://github.com/georgekakarlis)
 - [sam gill]
+- [VIBHINN SINGHAL](https://github.com/VibhinnS)
 - [Saieeash Reddy](https://github.com/SaieeashReddy23)
 - [Panth Shah](https://github.com/Panth1823)
 - [Aditya Rajkumar](https://github.com/adityarfw)
