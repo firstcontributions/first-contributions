@@ -28,6 +28,7 @@
 - [Soner YILDIRIM](https://github.com/soneryildirimx)
 - [Megan P]
 - [Kritika]
+- [Andrew Sebastian](https://github.com/highergear)
 - [Numo Francis](https://github.com/numofran6)
 - [belenya] (https://github.com/Belenya)
 - [Katia Corona](https://github.com/katiacorona)
