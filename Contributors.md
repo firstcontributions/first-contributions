@@ -34,6 +34,7 @@
 - [King Lawrence Caubalejo](https://github.com/kingcaubalejo)
 - [Saptarshi Das](https://github.com/saptarshi-vesit)
 - [Soner YILDIRIM](https://github.com/soneryildirimx)
+- [Yağmur DAL](https://github.com/yagmurdal)
 - [Megan P]
 - [Kritika]
 - [Andrew Sebastian](https://github.com/highergear)
