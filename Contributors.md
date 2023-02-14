@@ -19,6 +19,7 @@
 - [Tyler Beitel]
 - [Morgan Smith]
 - [Tejas Binu]
+- [PaulTitto]
 - [meeeeeee](https://github.com/notshanxx)
 - [Di-az](https://github.com/Di-az)
 - [Eva Li]
