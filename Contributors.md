@@ -30,6 +30,7 @@
 - [Di-az](https://github.com/Di-az)
 - [Eva Li]
 - [Kristoffer]
+- [Beltifa Louay](https://github.com/LouayBeltifa)
 - [King Lawrence Caubalejo](https://github.com/kingcaubalejo)
 - [Saptarshi Das](https://github.com/saptarshi-vesit)
 - [Soner YILDIRIM](https://github.com/soneryildirimx)
