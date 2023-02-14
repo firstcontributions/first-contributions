@@ -1,6 +1,7 @@
-﻿# Contributors
+# Contributors
 <!-- prettier-ignore-start -->
 - [Dylan Clarry](https://github.com/Dylan-Clarry)
+- [Sreenadh Singamaneni](https://github.com/SreenadhSingamaneni)
 - [Ali Rasouli]
 - [Ethan Kuhrts](https://github.com/ethankuhrts)
 - [Gavin D'mello](https://github.com/GavinDmello97)
