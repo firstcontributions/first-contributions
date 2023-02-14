@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Jonathan Potter](https://github.com/JonathanDPotter)
+- [Sadman Salim Nipun](https://github.com/nipun333)
 - [V1K1NGbg again lol](https://github.com/V1K1NGbg)
 # [V1K1NGbg](https://github.com/V1K1NGbg)
 - [Sadman Salim Nipun ⭐](https://github.com/nipun333)
