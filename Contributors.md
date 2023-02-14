@@ -3,6 +3,7 @@
 - [Dylan Clarry](https://github.com/Dylan-Clarry)
 - [Sreenadh Singamaneni](https://github.com/SreenadhSingamaneni)
 - [Ali Rasouli]
+- [Steven Walker](https://github.com/stevenwalker91)
 - [Ethan Kuhrts](https://github.com/ethankuhrts)
 - [Gavin D'mello](https://github.com/GavinDmello97)
 - [typicaljoe111](https://github.com/typicaljoe111)
