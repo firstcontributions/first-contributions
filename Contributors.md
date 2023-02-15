@@ -287,6 +287,7 @@ Subhajit Bera
 - [Adriana Bertrand](https://github.com/abeph00)
 - [Sahil Shaikh](https://github.com/Shaky-Sahil)
 - [Samuel K. Addison](https://github.com/SamAddy)
+- [Krishna Sarathi Ghosh](https://github.com/KrishnaTheCoder756)
 - [Saiprakash Shet] (https://github.com/saiprakash2)
 - [LihaaDjem Lini](https://github.com/LihaaDjem)
 - [Raj](https://github.com/workingpayload)
