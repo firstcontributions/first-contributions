@@ -100,6 +100,7 @@
 -[Tse C](https://github.com/kyroC)
 - [Ana Maria Amorim]
 - [Gannon Rowlan]
+- [Jonathon Black]
 - [Tu Nguyen](https://github.com/TerryN12)
 - [Abdelwahab Chaachoui](https://github.com/abdelwahab-chaachoui)
 - [Meaghan Freund]
