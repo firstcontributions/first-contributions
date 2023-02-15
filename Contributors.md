@@ -1729,6 +1729,7 @@ Rishabh Pandey
 - [Aadi Joshi](https://github.com/AadiJ2022) @devsoc pre-inductions
 - [Dmitrii Sidenko](https://github.com/DmSide)
 - [Vi]
+- [Heloise Ouvry](https://github.com/heloiseouvry)
 - [Santiago Urbano](https://github.com/sanurb)
 - [સ્મિત કાછડીયા](https://github.com/smeekas)
 - [Rao Khuram Shahzad](https://github.com/KhuramShahzad-5335)
