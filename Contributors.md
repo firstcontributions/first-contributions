@@ -337,6 +337,7 @@ Subhajit Bera
 - [Brevin Kunde](https://github.com/bkunde)
 - [Bagoviggo](https://github.com/bagoviggo)
 - [Ahbar Siddiqui](https://github.com/Ahbar1999)
+- sam
 - [Sansar Maske](https://github.com/sansarmaske)
 - [Pavel H.](https://github.com/holecekp)
 - [Ekam Bitt](https://github.com/Ekam-Bitt)
