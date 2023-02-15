@@ -237,6 +237,7 @@ Chirag Rakh
 - [Divyom](https://github.com/Waro0N/)
 - [puru-sudo](https://github.com/puru-sudo)
 - [Niklas Kariniemi]
+- [Nicholas Seidel](https://github.com/enviouscodefellow)
 - [Samoj Bhattarai](https://github.com/samojbhattarai)
 - [Nahom girma](https://github.com/kylosonic)
 - [Shiva Seth](https://github.com/Shiva953)
