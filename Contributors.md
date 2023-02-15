@@ -14,6 +14,7 @@
 - [Gavin D'mello](https://github.com/GavinDmello97)
 - [M Umar Farooq 478](https://github.com/umarfarooq478)
 - [typicaljoe111](https://github.com/typicaljoe111)
+- [Riddhi](https://github.com/riddhigupta1110)
 - [Deepanshu Bhatti](https://github.com/DeepanshuBhatti)
 - [Olivia Robinson](https://github.com/lvcg)
 - [Ezequiel Ríos](https://github.com/Eriosdev)
