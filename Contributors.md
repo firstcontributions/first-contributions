@@ -130,6 +130,7 @@
 - [siya]
 - [Jon Streker] (https://github.com/jonStreker)
 - [Carliso]
+- [Gayan Buddhika](https://github.com/GayanBu)
 - [sumit]
 - [notrax](https://github.com/notrax)
 - [Ian Tuohy](https://github.com/ipt6)
