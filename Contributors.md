@@ -2242,6 +2242,7 @@ Ayan Das
 - [Meet Bhalodi](https://github.com/mit-bhalodi)
 - [Burunr](https://github.com/burunr)   
 - [Jean-Marie Lator](https://github.com/Bescore)
+- [James Anderson](https://github.com/JimboBaggins1)  
 - [deivard](https://github.com/deivard)
 - [Chao Neil Aryan Borgohain](https://github.com/ChaoNEil)
 - [Doran05](https://github.com/martinkuba333)
