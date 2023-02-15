@@ -104,6 +104,7 @@
 - [Gannon Rowlan]
 - [Jonathon Black]
 - [Tu Nguyen](https://github.com/TerryN12)
+- [Ananda Perumal Balaji](https://github.com/anand-pb)
 - [Abdelwahab Chaachoui](https://github.com/abdelwahab-chaachoui)
 - [Meaghan Freund]
 - [Joshua VanderMeer](https://github.com/JoshVanderM)
