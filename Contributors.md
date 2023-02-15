@@ -5,6 +5,7 @@
 - [Ali Rasouli]
 - [Ethan Kuhrts](https://github.com/ethankuhrts)
 - [Gavin D'mello](https://github.com/GavinDmello97)
+- [cadmusbashlog](https://github.com/cadmusbashlog)
 - [typicaljoe111](https://github.com/typicaljoe111)
 - [Deepanshu Bhatti](https://github.com/DeepanshuBhatti)
 - [Olivia Robinson](https://github.com/lvcg)
@@ -19,7 +20,6 @@
 - [Morgan Smith]
 - [Tejas Binu]
 - [meeeeeee](https://github.com/notshanxx)
-- [cadmusbashlog](https://github.com/cadmusbashlog)
 - [Di-az](https://github.com/Di-az)
 - [Eva Li]
 - [King Lawrence Caubalejo](https://github.com/kingcaubalejo)
