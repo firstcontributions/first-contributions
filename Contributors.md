@@ -1066,6 +1066,7 @@ Rishabh Pandey
 - [Bojidar Vladimirov](https://github.com/BojidarV)]
 - [Vikhyat Gupta@DevsocPI](https://github.com/Vikhyat0908)
 - [sankarapandi](https://github.com/Sankarapandi-Murugan)
+- [Ricardo Sousa](https://github.com/ricardosousabr)
 - [Poyraz Bahcivan](https://github.com/poyrazbahcivan)
 - [desk7](https://github.com/desk7)
 - [Ryan Ignasiak](https://github.com/theravenousR)
