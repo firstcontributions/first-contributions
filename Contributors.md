@@ -5,7 +5,6 @@
 - [Ali Rasouli]
 - [Ethan Kuhrts](https://github.com/ethankuhrts)
 - [Gavin D'mello](https://github.com/GavinDmello97)
-- [cadmusbashlog](https://github.com/cadmusbashlog)
 - [typicaljoe111](https://github.com/typicaljoe111)
 - [Deepanshu Bhatti](https://github.com/DeepanshuBhatti)
 - [Olivia Robinson](https://github.com/lvcg)
@@ -1992,6 +1991,7 @@ Rishabh Pandey
 - [Shanth](https://github.com/kshanth)
 - [Myles Ieong](https://github.com/mylesieong)
 - [Louis lam](https://github.com/Louisss-Lam)
+- [cadmusbashlog🥷️](https://github.com/cadmusbashlog)
 - [Mathias Neves] (https://github.com/mathiastneves)
 - [Mohammed Afrid](https://github.com/Afrid45)
 - [Sunny](https://github.com/SunnyChaware)
