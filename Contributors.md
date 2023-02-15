@@ -454,6 +454,7 @@ Subhajit Bera
 - [Anupam malviya](https://github.com/tech-wizard720)
 - [Nadim Bou Alwan](https://github.com/nadinator)
 - [Susmit Ullas](https://github.com/Susmit-Ullas)
+- [Nathan Ware](https://github.com/Natan-Coder)
 - Grace Henke
 - Tisha Codes
 - [Abhishek Tewary](https://github.com/abhishek-38)
