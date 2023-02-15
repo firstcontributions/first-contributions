@@ -28,6 +28,7 @@
 - [Gad Cooper] (https://github.com/SpyingEnvelope)
 - [Tyler Beitel]
 - [Morgan Smith]
+- [David R Watson](https://github.com/David-R-Watson)
 - [Tejas Binu]
 - [PaulTitto]
 - [meeeeeee](https://github.com/notshanxx)
