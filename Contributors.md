@@ -545,6 +545,7 @@ Subhajit Bera
 - Olukoya Babatunde Daniel
 - [Sudarshan](https://github.com/sudarshan161219)
 - [Marin](https://github.com/M4RIIN)
+- [Stefan Arostegui] (https://github.com/thebiggestandhugest)
 - [Jubril Abdulsalam](https://github.com/jubril-a)
 - [disconsolated](https://github.com/disconsolated)
 - [Logasakthi](https://github.com/Logasakthi8)
