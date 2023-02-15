@@ -2387,6 +2387,7 @@ Ayan Das
 - [kowsik](https://github.com/timetoadd)
 [Sathvik](https://github.com/Sathvik1007)
 - [NickR](https://github.com/nikolayrbdev)
+- [James Whalen](https://github.com/jwhalen93)
 - [luking](https://github.com/alululululuer)
 - [wiki](https://github.com/alululululuer)
 
