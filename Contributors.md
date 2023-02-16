@@ -57,6 +57,7 @@
 - [HarenIO](https://github.com/HarenIO/)
 - [Isaac Faulkner]
 - [Akshay Jagiasi]
+- [Slater McArdle] (https://github.com/SlaterMcArdle)
 - [Georgios Kakarlis](https://github.com/georgekakarlis)
 - [sam gill]
 - [VIBHINN SINGHAL](https://github.com/VibhinnS)
