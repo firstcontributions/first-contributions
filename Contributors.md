@@ -1040,6 +1040,7 @@ Rishabh Pandey
 - [Divya Kaushik](https://github.com/divya1515)
 - [Deep](https://github.com/Deep-Chandra-Mathpal)
 - [Derek Dix](https://github.com/derektdix)
+- [Vladislav Radovic](https://github.com/vradovic)
 - [Benjamin Morgiewicz](https://github.com/BaseBenjamin13)
 - [Matheus Silverio](https://github.com/MattSilverio)
 - [Sabir Khan](https://github.com/simplysabir)
