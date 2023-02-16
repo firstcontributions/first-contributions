@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 <!-- prettier-ignore-start -->
 - [ClameSys](https://github.com/clamesys)
 - [Jonathan Potter](https://github.com/JonathanDPotter)
@@ -173,6 +173,7 @@
 - [isaiah peters]
 - [shabarish k]
 - [Aman Srivastav](https://github.com/Aman7s)
+- [Rakshaa](https://github.com/rakshaa-01)
 ########################################TEJAS%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 - [Md Samsul Alam] (https://github.com/Samsul-Alam-STP)
 - [Kanhaiya gaivt VSC]
