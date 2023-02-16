@@ -1997,6 +1997,7 @@ Rishabh Pandey
 - [Mayank Agrawal](https://github.com/Mayank30-creator)
 - [Emon](https://github.com/smremon) 
 - [Sham Vijay](https://github.com/iamvbenz49)
+- [Sunday Jimoh](https://github.com/sunday4me)
 - [Ryo Muta](https://github.com/r-mutax)
 - [Murilo Barbosa](https://github.com/murilodab)
 - [Laura Clark](https://github.com/lcmaximum)
