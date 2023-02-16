@@ -7,6 +7,7 @@
 - [Sadman Salim Nipun](https://github.com/nipun333)
 - [V1K1NGbg again lol](https://github.com/V1K1NGbg)
 # [V1K1NGbg](https://github.com/V1K1NGbg)
+- [Souvik Chakraborty](https://github.com/Slowvik)
 - [Sadman Salim Nipun ⭐](https://github.com/nipun333)
 - [Dylan Clarry](https://github.com/Dylan-Clarry)
 - [Sreenadh Singamaneni](https://github.com/SreenadhSingamaneni)
