@@ -2421,6 +2421,7 @@ Ayan Das
 - [sebiflorinp](https://github.com/sebiflorinp)
 - [kowsik](https://github.com/timetoadd)
 [Sathvik](https://github.com/Sathvik1007)
+- [SR](https://githhub.com/suciuradu09)
 - [NickR](https://github.com/nikolayrbdev)
 - [James Whalen](https://github.com/jwhalen93)
 - [luking](https://github.com/alululululuer)
@@ -2430,4 +2431,3 @@ Ayan Das
 - [ThankGod Ode](https://github.com/thankgodode)
 - [iNevs](https://github.com/inevs)
 - [Salman Sajid](https://github.com/salmannnsajid)
-- [SR](https://githhub.com/suciuradu09)
