@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 <!-- prettier-ignore-start -->
 - [Himanshu G lilhare](https://github.com/Himanshu-lilhare)
 - **[Sadman Salim Nipun](https://github.com/nipun333)**
@@ -16,6 +16,7 @@
 - [zsgg](https://github.com/zsgg)
 - [Nico Kemp](https://github.com/njrkemp1/)
 - [Ali Rasouli]
+- [Abhijit More]
 - [vishesh Sharma](https://github.com/Vishesh3569)
 - [Steven Walker](https://github.com/stevenwalker91)
 - [Ethan Kuhrts](https://github.com/ethankuhrts)
