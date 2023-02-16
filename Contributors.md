@@ -631,6 +631,7 @@ Subhajit Bera
 - Aryan 
 - Leon
 - Prajwal Haniya
+- [Kyung Lee](https://github.com/kjlee88)
 - [Aarish Khan](https://github.com/aarishmkhan)
 - [Luca Farina](https://github.com/LucaFarina)
 - [Tobi Abraham](https://github.com/Abacode7)
