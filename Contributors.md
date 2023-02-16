@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 - [Jonathan Potter](https://github.com/JonathanDPotter)
 - [Patrick Murimi](https://github.com/grand-rick001)
+- [Aaron] (https://github.com/aaron-jpg)
 - [Sadman Salim Nipun](https://github.com/nipun333)
 - [V1K1NGbg again lol](https://github.com/V1K1NGbg)
 # [V1K1NGbg](https://github.com/V1K1NGbg)
