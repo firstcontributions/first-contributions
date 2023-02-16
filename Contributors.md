@@ -1,6 +1,7 @@
 ﻿# Contributors
 <!-- prettier-ignore-start -->
 - [Himanshu G lilhare](https://github.com/Himanshu-lilhare)
+- **[Sadman Salim Nipun](https://github.com/nipun333)**
 - [ClameSys](https://github.com/clamesys)
 - [Jonathan Potter](https://github.com/JonathanDPotter)
 - [Patrick Murimi](https://github.com/grand-rick001)
@@ -8,8 +9,8 @@
 - [Sadman Salim Nipun](https://github.com/nipun333)
 - [V1K1NGbg again lol](https://github.com/V1K1NGbg)
 # [V1K1NGbg](https://github.com/V1K1NGbg)
-- [Souvik Chakraborty](https://github.com/Slowvik)
 - [Sadman Salim Nipun ⭐](https://github.com/nipun333)
+- [Souvik Chakraborty](https://github.com/Slowvik)
 - [Dylan Clarry](https://github.com/Dylan-Clarry)
 - [Sreenadh Singamaneni](https://github.com/SreenadhSingamaneni)
 - [Nico Kemp](https://github.com/njrkemp1/)
