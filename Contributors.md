@@ -29,6 +29,7 @@
 - [Sushil Bhandari](https://github.com/sushil-rgb)
 - [Vaibhav Chauhan] (https://github.com/vibenr)
 - [Josh Needleman] (https://github.com/JNeed)
+- [Ivan Mizz]
 - [Jester Domingo]
 - [Gad Cooper] (https://github.com/SpyingEnvelope)
 - [Tyler Beitel]
