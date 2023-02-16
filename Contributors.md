@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [ClameSys](https://github.com/clamesys)
 - [Jonathan Potter](https://github.com/JonathanDPotter)
 - [Patrick Murimi](https://github.com/grand-rick001)
 - [Aaron] (https://github.com/aaron-jpg)
