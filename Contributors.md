@@ -33,6 +33,7 @@
 - [Gad Cooper] (https://github.com/SpyingEnvelope)
 - [Tyler Beitel]
 - [Morgan Smith]
+- [Piyush Yadav](https://github.com/piyushyadav1617)
 - [David R Watson](https://github.com/David-R-Watson)
 - [Tejas Binu]
 - [PaulTitto]
