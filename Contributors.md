@@ -78,6 +78,7 @@
 - [Saieeash Reddy](https://github.com/SaieeashReddy23)
 - [Panth Shah](https://github.com/Panth1823)
 - [Aditya Rajkumar](https://github.com/adityarfw)
+- [Ben](https://github.com/benjaminsmeyer)
 - [Tony Coldashian](https://github.com/tonycoldashian)
 - [Yash Savla](https://github.com/yashsavla9)
 - [Shreyash Somvanshi](https://github.com/ShreyashSomvanshi)
