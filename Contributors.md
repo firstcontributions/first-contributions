@@ -10,6 +10,7 @@
 - [Sadman Salim Nipun ⭐](https://github.com/nipun333)
 - [Dylan Clarry](https://github.com/Dylan-Clarry)
 - [Sreenadh Singamaneni](https://github.com/SreenadhSingamaneni)
+- [Nico Kemp](https://github.com/njrkemp1/)
 - [Ali Rasouli]
 - [vishesh Sharma](https://github.com/Vishesh3569)
 - [Steven Walker](https://github.com/stevenwalker91)
