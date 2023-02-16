@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Himanshu G lilhare](https://github.com/Himanshu-lilhare)
+- **[Virex22 - Vincent Remy](https://github.com/Virex22)**
 - **[Sadman Salim Nipun](https://github.com/nipun333)**
 - [ClameSys](https://github.com/clamesys)
 - [Jonathan Potter](https://github.com/JonathanDPotter)
