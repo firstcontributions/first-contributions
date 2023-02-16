@@ -87,6 +87,7 @@
 - [Raj_Pabnani](https://github.com/RajPabnani03)
 - [Kundan Sahu](https://github.com/Kundan730)
 - [Elijah Foster](https://github.com/retsofoster)
+- [Joshua Criswell](https://github.com/jcriz99)
 - [Lean Dwarf](https://github.com/LeanDwarf)
 [martindevelopske] (martindevelops.dev)
   [Raghav Singh](https://github.com/RaghavSaptam)
