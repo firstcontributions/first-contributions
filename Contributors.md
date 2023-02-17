@@ -1261,6 +1261,7 @@ Rishabh Pandey
 - [Khan Winter](https://github.com/thecoolwinter)
 - [Hades Ho](https://github.com/hadeshojr)
 - [Mickhat](https://github.com/Mickhat)
+- [Sarath] (https://github.com/pheonix-18)
 - [Mohit Bishwokarma](https://github.com/Mohitbishukarma)
 - [Matt Arias](https://github.com/FreedSoul)
 - [Alex Song](https://github.com/TheRealAlexSong)
