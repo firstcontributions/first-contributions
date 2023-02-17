@@ -6,6 +6,7 @@
 - [ClameSys](https://github.com/clamesys)
 - [Jonathan Potter](https://github.com/JonathanDPotter)
 - [Patrick Murimi](https://github.com/grand-rick001)
+- [Andreumagu](https://github.com/andreumagu)
 - [Aaron] (https://github.com/aaron-jpg)
 - [Sadman Salim Nipun](https://github.com/nipun333)
 - [V1K1NGbg again lol](https://github.com/V1K1NGbg)
