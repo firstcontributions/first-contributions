@@ -59,6 +59,7 @@
 - [Yağmur DAL](https://github.com/yagmurdal)
 - [James Barrera](https://github.com/traveler-pinkie)
 - [Megan P]
+- [Bryon Fields](https://github.com/bfields0805)
 - [Kritika]
 - [Andrew Sebastian](https://github.com/highergear)
 - [Numo Francis](https://github.com/numofran6)
