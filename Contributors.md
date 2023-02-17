@@ -1137,6 +1137,7 @@ Rishabh Pandey
 - Vartika Parikh @DevSocPI
 - [Ankith Motha](https://github.com/Alpha-github/)
 - [Ermiyas Dagnachew](https://github.com/jeremy-daa)
+- [Jair Oliveira](https://github.com/ceifeirocv)
 - [Masih Karimi](https://github.com/MasihKarimi)
 - [Aster Fung](https://github.com/aster-fung)
 - [Gabriel Waegner](https://github.com/Gwaegs)
