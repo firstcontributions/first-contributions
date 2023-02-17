@@ -354,6 +354,7 @@ Subhajit Bera
   [Yashkumar Nemane](https://github.com/yashnemane)
 - [Manoj Maurya](https://github.com/manojmaurya17)
 - [Tristan Norman](https://github.com/TristarCA)
+- [Sophie Shittu] (https://github.com/Sophie1961)
 - [Priyanka Mary Christine](https://github.com/marycpriyanka)
 - [Glaucio Oliveira](https://github.com/7glaucio)
 - [Ankit Vimal](https://github.com/ankitvimal)
