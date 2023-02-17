@@ -20,6 +20,7 @@
 - [Ali Rasouli]
 - [Abhijit More]
 - [vishesh Sharma](https://github.com/Vishesh3569)
+- [Andrew Herring](https://github.com/Likethefish1520)
 - [Steven Walker](https://github.com/stevenwalker91)
 - [Ethan Kuhrts](https://github.com/ethankuhrts)
 - [Gavin D'mello](https://github.com/GavinDmello97)
