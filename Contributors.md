@@ -186,6 +186,7 @@
 - [Divyank Pandey](https://github.com/d-stash)
 - [Nathan Seitz](https://github.com/NathanSeitz)
 - [Sayan Sengupta](https://github.com/sayan169)
+- [Meenakshi Sharma](https://github.com/Dronzer001)
 - [Cole Warner](https://github.com/colewarner24)
 - [Tumininu Akande](https://github.com/devtumi)
 - [Alec Neevel](https://github.com/aneevel)
