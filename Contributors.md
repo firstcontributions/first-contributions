@@ -10,6 +10,7 @@
 - [Aaron] (https://github.com/aaron-jpg)
 - [Sadman Salim Nipun](https://github.com/nipun333)
 - [V1K1NGbg again lol](https://github.com/V1K1NGbg)
+- [VulcanWM](https://github.com/VulcanWM)
 # [Steven Wong](https://github.com/ycstevenwong)
 # [V1K1NGbg](https://github.com/V1K1NGbg)
 - [Sadman Salim Nipun ⭐](https://github.com/nipun333)
