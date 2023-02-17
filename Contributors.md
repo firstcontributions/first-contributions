@@ -52,6 +52,7 @@
 - [Di-az](https://github.com/Di-az)
 - [Eva Li]
 - [Kristoffer]
+- {Isaac Lolade}(https://github.com/IsaacLolade)
 - [Beltifa Louay](https://github.com/LouayBeltifa)
 - [King Lawrence Caubalejo](https://github.com/kingcaubalejo)
 - [Saptarshi Das](https://github.com/saptarshi-vesit)
