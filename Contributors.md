@@ -2340,6 +2340,7 @@ Ayan Das
 - [italoCesarSilvaOliveira] (https://github.com/italoCesarSilvaOliveira)
 - [karmelnaveen](https://github.com/karmelnaveen)
 - [Naveenkumar](https://github.com/Naveen-oops)
+- [Dave Perez](https://github.com/daveaperez)
 - [vahede] (https://github.com/vahede)
 - [Chiranjibi Neupane] (https://github.com/Zorax-X4)
 - [Sankeerth Patnaikuni] (https://github.com/sankeerth125)
