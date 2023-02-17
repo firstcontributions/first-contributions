@@ -57,6 +57,7 @@
 - [Saptarshi Das](https://github.com/saptarshi-vesit)
 - [Soner YILDIRIM](https://github.com/soneryildirimx)
 - [Yağmur DAL](https://github.com/yagmurdal)
+- [James Barrera](https://github.com/traveler-pinkie)
 - [Megan P]
 - [Kritika]
 - [Andrew Sebastian](https://github.com/highergear)
