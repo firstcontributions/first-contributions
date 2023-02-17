@@ -1,5 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
+
+-[Parmar Dixit ] (https://github.com/dixit18)
 - [Himanshu G lilhare](https://github.com/Himanshu-lilhare)
 - **[Virex22 - Vincent Remy](https://github.com/Virex22)**
 - **[Sadman Salim Nipun](https://github.com/nipun333)**
