@@ -2253,6 +2253,7 @@ Ayan Das
 - [Pedrodc] (https://github.com/pedrodc7)
 - [grigaut](https://github.com/grigaut)
 - [Sarat Kota](https://github.com/kotasarat)
+- [Rahul Badade](https://github.com/rahulb18)
 - [Gavin Meeker](https://github.com/gmeeker99)
 - [Alan](https://github.com/Alan-John-Byrne)
 - [Rekerito](https://github.com/Rxkerito)
