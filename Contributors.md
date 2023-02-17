@@ -10,6 +10,7 @@
 - [Aaron] (https://github.com/aaron-jpg)
 - [Jeetjyoti Deka](https://github.com/Jeetjyoti-Deka)
 - [Sadman Salim Nipun](https://github.com/nipun333)
+  [Chandima Herath] 
 - [V1K1NGbg again lol](https://github.com/V1K1NGbg)
 - [VulcanWM](https://github.com/VulcanWM)
 # [Steven Wong](https://github.com/ycstevenwong)
