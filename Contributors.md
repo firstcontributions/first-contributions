@@ -1,5 +1,5 @@
-# Contributors
 <!-- prettier-ignore-start -->
+# Contributors
 - [Himanshu G lilhare](https://github.com/Himanshu-lilhare)
 - **[Virex22 - Vincent Remy](https://github.com/Virex22)**
 - **[Sadman Salim Nipun](https://github.com/nipun333)**
@@ -2325,7 +2325,6 @@ Ayan Das
 -[Shaqeeb-Akhtar] (https://github.com/shaqeebwisdmlabs)
   -[ToastFreak] (https://github.com/ToastFreak777)
   [Leandro Javier Loureiro] (https://github.com/leandrojl)
-  <!-- prettier-ignore-end -->
 - [guliwa](https://github.com/zhubaiali)
 - [WayneYam](https://github/com/WayneYam)
 - [Naveen](https://github/com/naveen13-06)
@@ -2449,3 +2448,6 @@ Ayan Das
 - [Salman Sajid](https://github.com/salmannnsajid)
 - [czc](https://github.com/czc-gd)
 - [juanmagb8d](https://github.com/Juanmagb8d)
+- [Paulo Vitor](https://github.com/paulovitor-unb)
+
+<!-- prettier-ignore-end -->
