@@ -1450,6 +1450,7 @@ Rishabh Pandey
 - [Mariam Lawal](https://github.com/Maerryham)
 - [ADITI-2003](https://github.com/ADITI-2003)
 - [Glitchr](https://github.com/Glitchr)
+  [Bradley](https://github.com/bwillis1)
 - [Shabeeb PV](https://github.com/shabeebleo)
 - [Vikhyat Gupta@DevsocPI](https://github.com/Vikhyat0908)
 - [Sakshi](https://github.com/sagupta8399)
