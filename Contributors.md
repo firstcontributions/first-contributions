@@ -149,6 +149,7 @@
 - [Dam Gyu Yang]
 - [Mahir Ahammed](https://github.com/MahirAhammed)
 - [siya]
+- [Mohamed Arafa]
 - [Jon Streker] (https://github.com/jonStreker)
 - [Carliso]
 - [Gayan Buddhika](https://github.com/GayanBu)
