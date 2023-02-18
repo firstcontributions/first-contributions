@@ -1154,6 +1154,7 @@ Rishabh Pandey
 - [Aster Fung](https://github.com/aster-fung)
 - [Gabriel Waegner](https://github.com/Gwaegs)
 - [Pray Raskapoorwala]@DevSocPI
+- [Sam Oblad](https://github.com/Sam-Oblad)
 - [Boris Ynyr](https://github.com/BorisYnyr)
 - [JustDreamBig] (https://github.com/justdreambig)
 - [Samarth Nagpal @ DevSocPI](https://github.com/SamarthNagpal)
