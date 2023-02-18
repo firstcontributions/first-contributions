@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Harshit Jain](https://github.com/Harshit28j)
+- **[C.Viswanath](https://github.com/c-viswanath)**
 - [Himanshu G lilhare](https://github.com/Himanshu-lilhare)
 - **[Virex22 - Vincent Remy](https://github.com/Virex22)**
 - **[Sadman Salim Nipun](https://github.com/nipun333)**
