@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Harshit Jain](https://github.com/Harshit28j)
+- [pearlescen7](https://github.com/pearlescen7)
 - **[C.Viswanath](https://github.com/c-viswanath)**
 - [Himanshu G lilhare](https://github.com/Himanshu-lilhare)
 - **[Virex22 - Vincent Remy](https://github.com/Virex22)**
@@ -10,6 +11,7 @@
 - [ClameSys](https://github.com/clamesys)
 - [Jonathan Potter](https://github.com/JonathanDPotter)
 - [Natnael Afework](https://github.com/Nathaniel-af)
+  [Vanessa]
 - [Patrick Murimi](https://github.com/grand-rick001)
 - [Andreumagu](https://github.com/andreumagu)
 - [Bernice Owusu Agyeman](https://github.com/berniceoa)
