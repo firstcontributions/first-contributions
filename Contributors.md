@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Harshit Jain](https://github.com/Harshit28j)
+-[aldana vidal](https://github.com/aldana777)
 - [CharlyMech](https://github.com/CharlyMech)
 - [pearlescen7](https://github.com/pearlescen7)
 - **[C.Viswanath](https://github.com/c-viswanath)**
