@@ -90,6 +90,7 @@
 - [Batel Levi]
 - [HarenIO](https://github.com/HarenIO/)
 - [Isaac Faulkner]
+- Niall Cunningham
 - [Akshay Jagiasi]
 - [Slater McArdle] (https://github.com/SlaterMcArdle)
 - [Georgios Kakarlis](https://github.com/georgekakarlis)
