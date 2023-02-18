@@ -2297,6 +2297,7 @@ Ayan Das
 - [Shailja Bahuguna](https://github.com/shailja2727)
 - [John Escamilla] (http://github.com/J-Escamilla)
 -[Abhishek Yadav](https://github.com/Abhiyadav3114)
+- [Michael Shi] (https://github.com/tallmikey)
 - [Samrood Ali](https://github.com/SamroodAli)
 - [Marcus Otterstad](https://github.com/marcusotterstad)
 - [Alex Lauri](https://github.com/Alkxs)
