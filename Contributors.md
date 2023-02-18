@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Harshit Jain](https://github.com/Harshit28j)
+- [Tron Tian](https://github.com/Tronginx)
 - [CharlyMech](https://github.com/CharlyMech)
 - [pearlescen7](https://github.com/pearlescen7)
 - **[C.Viswanath](https://github.com/c-viswanath)**
@@ -121,8 +122,8 @@
 - [Elijah Foster](https://github.com/retsofoster)
 - [Joshua Criswell](https://github.com/jcriz99)
 - [Lean Dwarf](https://github.com/LeanDwarf)
-[Samarjit Mahi](https://github.com/Samarjiit)
-[martindevelopske] (martindevelops.dev)
+  [Samarjit Mahi](https://github.com/Samarjiit)
+  [martindevelopske] (martindevelops.dev)
   [Raghav Singh](https://github.com/RaghavSaptam)
 - [Shilpi Pandey](https://github.com/shilpipandey)
   [Tosyne Akinnifesi](https://github.com/trextozyne)
@@ -2341,10 +2342,10 @@ Ayan Das
 - [Kojo Ahyia-Osae](https://github.com/kj10dev)
 - [SK](https://github.com/skuperst)
 - [Dhiraj Patra](https://github.com/dhirajpatra)
--[Weten-Ogen](https://github/com/Weten-Ogen)
--[Malav p](https://github.com/mDprajapati)
--[Monica-C.] (https://github.com/mcatcruz)
--[Shaqeeb-Akhtar] (https://github.com/shaqeebwisdmlabs)
+  -[Weten-Ogen](https://github/com/Weten-Ogen)
+  -[Malav p](https://github.com/mDprajapati)
+  -[Monica-C.] (https://github.com/mcatcruz)
+  -[Shaqeeb-Akhtar] (https://github.com/shaqeebwisdmlabs)
   -[ToastFreak] (https://github.com/ToastFreak777)
   [Leandro Javier Loureiro] (https://github.com/leandrojl)
   <!-- prettier-ignore-end -->
