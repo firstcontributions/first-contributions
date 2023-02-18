@@ -203,6 +203,7 @@
 - [Kanhaiya gavit]
 - [isaiah peters]
 - [shabarish k]
+- [Yash Shukla](https://github.com/y2kshukla)
 - [Aman Srivastav](https://github.com/Aman7s)
 - [Rakshaa](https://github.com/rakshaa-01)
 ########################################TEJAS%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
