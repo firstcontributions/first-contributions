@@ -777,6 +777,7 @@ Subhajit Bera
 - [RichGod Usen](https://github.com/RichGod93)
 - [Aryan Bansal @devsocPI]
 - [Neha Menon@DevSocPI](https://github.com/thenehamenon)
+- [Ronnie Hentry](https://github.com/ronnieHentry)
 - [Joseph O'Keefe] (https://github.com/joeyokeefe)
 - [Ayush Raj @DevsocPI]. (https://github.com/Aayuraju)
 - [Jatin Gahlot @DevSocPI]
