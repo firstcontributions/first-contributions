@@ -112,6 +112,7 @@
 - [Elijah Foster](https://github.com/retsofoster)
 - [Joshua Criswell](https://github.com/jcriz99)
 - [Lean Dwarf](https://github.com/LeanDwarf)
+[Samarjit Mahi](https://github.com/Samarjiit)
 [martindevelopske] (martindevelops.dev)
   [Raghav Singh](https://github.com/RaghavSaptam)
 - [Shilpi Pandey](https://github.com/shilpipandey)
