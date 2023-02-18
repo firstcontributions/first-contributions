@@ -8,6 +8,7 @@
 - [Jonathan Potter](https://github.com/JonathanDPotter)
 - [Patrick Murimi](https://github.com/grand-rick001)
 - [Andreumagu](https://github.com/andreumagu)
+- [Bernice Owusu Agyeman](https://github.com/berniceoa)
 - [Aaron] (https://github.com/aaron-jpg)
 - [Jeetjyoti Deka](https://github.com/Jeetjyoti-Deka)
 - [Sadman Salim Nipun](https://github.com/nipun333)
