@@ -2456,5 +2456,6 @@ Ayan Das
 - [czc](https://github.com/czc-gd)
 - [juanmagb8d](https://github.com/Juanmagb8d)
 - [BernalCristianCamilo93](https://github.com/bernalcristiancamilo93)
+- [Mwaura](https://github.com/MwauratheAlex)
 - [sziwipx](https://github.com/sziwipx)
 - [shivappa](https://github.com/Shivappa)
