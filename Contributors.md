@@ -50,6 +50,7 @@
 - [Vaibhav Chauhan] (https://github.com/vibenr)
 - [Josh Needleman] (https://github.com/JNeed)
 - [Ivan Mizz]
+  [Tech Lateef]
 - [Jester Domingo]
 - [Gad Cooper] (https://github.com/SpyingEnvelope)
 - [Tyler Beitel]
