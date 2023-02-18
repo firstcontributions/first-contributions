@@ -1194,6 +1194,7 @@ Rishabh Pandey
 - [Adithya sau@DEVSOCPI](https://github.com/Adisauz)
 - [Damn Fun]
 - [Sandeep Krishna Donepudi](https://github.com/skdonepudi)
+- [Hak Soo Kim](https://github.com/HakSooDev)
 - [ramettan](https://github.com/ramettan)
 - [mahalakshmikutcharlapati](https://github.com/mahalakshmikutcharlapati)
 - [avotrarakotoson](https://github.com/avotrarakotoson)
