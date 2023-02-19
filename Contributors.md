@@ -997,6 +997,7 @@ Rishabh Pandey
 - Kenneth Onu
 - [James Weber De Asis](https://github.com/forfeitpotato)
 - [Arnav Joshi] (https://githuyb.com/TheOfficialAJ)
+- [Ravi K] (https://github.com/jadeleafmoon)
 - [Noopur Sharma@DevsocPI]
 - [Mohamed Abidar](https://github.com/abidarm)
 - [Antonio Narra](https://github.com/AntonioNarra)
