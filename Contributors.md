@@ -25,6 +25,7 @@
 - [VulcanWM](https://github.com/VulcanWM)
 # [Steven Wong](https://github.com/ycstevenwong)
 # [V1K1NGbg](https://github.com/V1K1NGbg)
+- [Oyinkansola Shoroye](https://github.com/teqbaddie)
 - [Sadman Salim Nipun ⭐](https://github.com/nipun333)
 - [Souvik Chakraborty](https://github.com/Slowvik)
 - [Dylan Clarry](https://github.com/Dylan-Clarry)
