@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Malav Shah](https://github.com/malavshah9)
+- [Chaitanya Dange](https://github.com/chaitanya-dange)
 - [Harshit Jain](https://github.com/Harshit28j)
 - [Xanthium]
 - [Sergio Thompson] (https://github.com/SergioJThompson)
