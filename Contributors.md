@@ -1106,6 +1106,7 @@ Rishabh Pandey
 - [John Denver Bidong](https://github.com/jbidz)
 - [Gilberto Rosendo](https://github.com/GilbertoRosendo)
 - [Raghuram Aluru@DevSoc]
+- [alvarohghg](https://github.com/alvarohghg)
 - [Sid Saythongphet](https://github.com/SidSaythongphet)
 - [Aman Bhagat](https://GitHub.com/sanayaa)
 - [Manoel Neto](https://github.com/eusouomanoel)
