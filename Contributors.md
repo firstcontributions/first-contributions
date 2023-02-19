@@ -5,6 +5,7 @@
 - [Chaitanya Dange](https://github.com/chaitanya-dange)
 - [Harshit Jain](https://github.com/Harshit28j)
 - [Xanthium]
+- [Jaideep More](https://phoenix009.github.io/)
 - [Sergio Thompson] (https://github.com/SergioJThompson)
 - [CharlyMech](https://github.com/CharlyMech)
 - [pearlescen7](https://github.com/pearlescen7)
