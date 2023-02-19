@@ -14,6 +14,7 @@
 - [Ahmed Mohamed](https://github.com/bego00)
 - [Jonathan Potter](https://github.com/JonathanDPotter)
 - [Natnael Afework](https://github.com/Nathaniel-af)
+- [Onyedikachi Eni](https://github.com/KindEni)
   [Vanessa]
 - [Patrick Murimi](https://github.com/grand-rick001)
 - [Andreumagu](https://github.com/andreumagu)
