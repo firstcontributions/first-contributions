@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Malav Shah](https://github.com/malavshah9)
 - [Harshit Jain](https://github.com/Harshit28j)
 - [Sergio Thompson] (https://github.com/SergioJThompson)
 - [CharlyMech](https://github.com/CharlyMech)
