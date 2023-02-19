@@ -1,8 +1,10 @@
 # Contributors
 <!-- prettier-ignore-start -->
+
 - [Malav Shah](https://github.com/malavshah9)
 - [Harshit Jain](https://github.com/Harshit28j)
 - [Sergio Thompson] (https://github.com/SergioJThompson)
+- [Luigi Mastromauro] (https://github.com/masterlouis)
 - [CharlyMech](https://github.com/CharlyMech)
 - [pearlescen7](https://github.com/pearlescen7)
 - **[C.Viswanath](https://github.com/c-viswanath)**
