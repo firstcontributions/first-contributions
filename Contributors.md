@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [TariqAziz](https://github.com/Tariq-AQ)
 - [Malav Shah](https://github.com/malavshah9)
 - [Chaitanya Dange](https://github.com/chaitanya-dange)
 - [Harshit Jain](https://github.com/Harshit28j)
