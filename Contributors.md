@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 - [Malav Shah](https://github.com/malavshah9)
 - [Harshit Jain](https://github.com/Harshit28j)
+- [Xanthium]
 - [Sergio Thompson] (https://github.com/SergioJThompson)
 - [CharlyMech](https://github.com/CharlyMech)
 - [pearlescen7](https://github.com/pearlescen7)
