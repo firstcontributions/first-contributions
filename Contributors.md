@@ -2510,6 +2510,7 @@ Ayan Das
 - [BernalCristianCamilo93](https://github.com/bernalcristiancamilo93)
 - [Mwaura](https://github.com/MwauratheAlex)
 - [sziwipx](https://github.com/sziwipx)
+- [Elaine Doud] (https://github.com/elainedoud)
 - [JoLalo](https://github.com/JoLalo)
 - [pranshua7i](https://github.com/pranshua7i)
 - [Opeyemi O.](https://github.com/lekeope)
