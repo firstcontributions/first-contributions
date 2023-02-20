@@ -126,6 +126,7 @@
 - [Ben](https://github.com/benjaminsmeyer)
 - [Tony Coldashian](https://github.com/tonycoldashian)
 - [Yash Savla](https://github.com/yashsavla9)
+- [Benjamin Chenevey](https://github.com/Bchenevey)
 - [Shreyash Somvanshi](https://github.com/ShreyashSomvanshi)
 - [RobbiDev](https://github.com/RobbiDev)
 - [Sunny Singh](https://github.com/sunny-k-singh)
