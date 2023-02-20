@@ -116,6 +116,7 @@
 - [Isaac Faulkner]
 - Niall Cunningham
 - [Akshay Jagiasi]
+- [Ada Lam]
 - [Slater McArdle] (https://github.com/SlaterMcArdle)
 - [Georgios Kakarlis](https://github.com/georgekakarlis)
 - [sam gill]
