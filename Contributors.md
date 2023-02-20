@@ -2511,3 +2511,4 @@ Ayan Das
 - [Opeyemi O.](https://github.com/lekeope)
 - [Star-ho](https://github.com/Star-ho)
 - [SyntaxSavvy](https://github.com/SyntaxSavvy)
+- [mimmydev](https://github.com/mimmydev)
