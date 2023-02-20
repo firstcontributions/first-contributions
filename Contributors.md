@@ -29,6 +29,7 @@
   [Chandima Herath] 
 - [Stefano Romanini](https://github.com/St3fan1n1)
 - [V1K1NGbg again lol](https://github.com/V1K1NGbg)
+- [Edwina Dsouza](https://github.com/edwinadsouza)
 - [VulcanWM](https://github.com/VulcanWM)
 # [Steven Wong](https://github.com/ycstevenwong)
 # [V1K1NGbg](https://github.com/V1K1NGbg)
