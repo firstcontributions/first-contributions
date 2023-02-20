@@ -1054,6 +1054,7 @@ Rishabh Pandey
 - [Guillaume]
 - [Tao Xiong](https://github.com/TAOFOR4)
 - [Haroldo Curti]
+- [Asaf]
 - [Shrankhla](https://github.com/shrankhla20)
 - [devdeveloper1](https://github.com/devdeveloper1)
 - [Mert Kaan Guzel](https://github.com/mertkaanguzel)
