@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [TariqAziz](https://github.com/Tariq-AQ)
+- [Dharmateja176](https://github.com/Dharmateja176)
 - [Genta Miyao](https://github.com/miyaogenta)
 - [Malav Shah](https://github.com/malavshah9)
 - [Chaitanya Dange](https://github.com/chaitanya-dange)
