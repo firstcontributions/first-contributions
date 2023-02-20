@@ -120,6 +120,7 @@
 - [VIBHINN SINGHAL](https://github.com/VibhinnS)
 - [Saieeash Reddy](https://github.com/SaieeashReddy23)
 - [Panth Shah](https://github.com/Panth1823)
+- [Gaurav-Chnadwani](https://github.com/GauravChandwani12)
 - [Aditya Rajkumar](https://github.com/adityarfw)
 - [Ben](https://github.com/benjaminsmeyer)
 - [Tony Coldashian](https://github.com/tonycoldashian)
