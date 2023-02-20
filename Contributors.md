@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Arthur Okonkwo](https://github.com/arthurokonkwo)
 - [TariqAziz](https://github.com/Tariq-AQ)
 - [Dharmateja176](https://github.com/Dharmateja176)
 - [Genta Miyao](https://github.com/miyaogenta)
