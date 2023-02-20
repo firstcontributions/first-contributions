@@ -2152,6 +2152,7 @@ Rishabh Pandey
 - [Aryan Bansal @devsocPI](https://github.com/oye-aryan)
 - [Zac Nation](https://github.com/zacnation)
 - [Salwa Mansour](https://github.com/Salwa-mansour)
+- [George Lamprinos] (https://github.com/george-lamprinos)
 - [Andrii](https://github.com/malandrii)
 - [Bellhwi](https://github.com/bellhwi)
 - [Jon Tam](https://github.com/jon-tam)
