@@ -58,6 +58,7 @@
 - [Andrew Herring](https://github.com/Likethefish1520)
 - [Atul Tiwaree](https://github.com/atultiwaree)
 - [Steven Walker](https://github.com/stevenwalker91)
+- [Pratima Adhikari](https://github.com/Prateema1)
 - [Ethan Kuhrts](https://github.com/ethankuhrts)
 - [Gavin D'mello](https://github.com/GavinDmello97)
 - [Dreem Hai](https://github.com/dreemhai)
