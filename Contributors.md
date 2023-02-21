@@ -1,5 +1,5 @@
-# Contributors
 <!-- prettier-ignore-start -->
+# Contributors
 - [Arthur Okonkwo](https://github.com/arthurokonkwo)
 - [TariqAziz](https://github.com/Tariq-AQ)
 - [Dharmateja176](https://github.com/Dharmateja176)
@@ -2398,7 +2398,6 @@ Ayan Das
 -[Shaqeeb-Akhtar] (https://github.com/shaqeebwisdmlabs)
   -[ToastFreak] (https://github.com/ToastFreak777)
   [Leandro Javier Loureiro] (https://github.com/leandrojl)
-  <!-- prettier-ignore-end -->
 - [guliwa](https://github.com/zhubaiali)
 - [WayneYam](https://github/com/WayneYam)
 - [Naveen](https://github/com/naveen13-06)
@@ -2540,3 +2539,5 @@ Ayan Das
 - [Manuel Pineda](https://github.com/manuel12)
 - [Koji Takahiro](https://github.com/koji-takahiro)
 - [Zoheir Bentebbiche](https://github.com/zoheir78)
+- [Paulo Vitor](https://github.com/paulovitor-unb)
+<!-- prettier-ignore-end -->
