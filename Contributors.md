@@ -2530,3 +2530,4 @@ Ayan Das
 - [David0601d](https://github.com/David0601d)
 - [Tee Kaeophian](https://github.com/tkaeophian)
 - [Manuel Pineda](https://github.com/manuel12)
+- [Koji Takahiro](https://github.com/koji-takahiro)
