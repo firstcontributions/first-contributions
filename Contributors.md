@@ -11,6 +11,7 @@
 - [Xanthium]
 - [Sergio Thompson](https://github.com/SergioJThompson)
 - [CharlyMech](https://github.com/CharlyMech)
+- [Janice Thomas](https://github.com/janicethomas)
 - [pearlescen7](https://github.com/pearlescen7)
 - [nyinyiaung](https://github.com/NyiNyiTesting)
 -[Navajeevan](https://github.com/iamnavajeevan)
