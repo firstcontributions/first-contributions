@@ -61,6 +61,7 @@
 - [MiguelOrtsB](https://github.com/MiguelOrtsB)
 - [vishesh Sharma](https://github.com/Vishesh3569)
 - [Andrew Herring](https://github.com/Likethefish1520)
+- [Vijay Sheru](https://github.com/vijaysheru)
 - [Atul Tiwaree](https://github.com/atultiwaree)
 - [Steven Walker](https://github.com/stevenwalker91)
 - [Pratima Adhikari](https://github.com/Prateema1)
