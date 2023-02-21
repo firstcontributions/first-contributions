@@ -2529,3 +2529,4 @@ Ayan Das
 - [Shadow-Mo](https://github.com/Shadow-Mo)
 - [David0601d](https://github.com/David0601d)
 - [Tee Kaeophian](https://github.com/tkaeophian)
+- [Manuel Pineda](https://github.com/manuel12)
