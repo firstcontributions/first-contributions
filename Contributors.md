@@ -2546,3 +2546,5 @@ Ayan Das
 - [Sam Barlas](https://github.com/sambarlas)
 - [Lucas Ribeiro](https://github.com/lucasribeiro-dev)
 - [Paulo Vitor](https://github.com/paulovitor-unb)
+  <!-- prettier-ignore-end -->
+
