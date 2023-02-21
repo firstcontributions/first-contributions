@@ -30,6 +30,7 @@
 - [ahguanz](https://github.com/ahguanz)
   [Vanessa]
 - [Patrick Murimi](https://github.com/grand-rick001)
+- [Dickson Wachai](https://github.com/DicksonWachai)
 - [Andreumagu](https://github.com/andreumagu)
 - [Bernice Owusu Agyeman](https://github.com/berniceoa)
 - [Aaron] (https://github.com/aaron-jpg)
