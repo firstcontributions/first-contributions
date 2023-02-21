@@ -7,6 +7,7 @@
 - [Malav Shah](https://github.com/malavshah9)
 - [Chaitanya Dange](https://github.com/chaitanya-dange)
 - [Harshit Jain](https://github.com/Harshit28j)
+- [Joaquin](https://github.com/Hoakin24)
 - [Karl Loza](https://github.com/DrAg0n-BoRn)
 - [Xanthium]
 - [Jonas Krymski](https://github.com/krymskjm)
