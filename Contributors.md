@@ -38,6 +38,7 @@
 - [VulcanWM](https://github.com/VulcanWM)
 # [Steven Wong](https://github.com/ycstevenwong)
 # [V1K1NGbg](https://github.com/V1K1NGbg)
+- [DanexQ](https://github.com/DanexQ)
 - [Oyinkansola Shoroye](https://github.com/teqbaddie)
 - [Sadman Salim Nipun ⭐](https://github.com/nipun333)
 - [Souvik Chakraborty](https://github.com/Slowvik)
@@ -58,6 +59,7 @@
 - [Gavin D'mello](https://github.com/GavinDmello97)
 - [Dreem Hai](https://github.com/dreemhai)
 - [SIBOMANA GLORRY] (https://github.com/WHITELOTUS0)
+- [Joe Cioffi] (https://github.com/joeacioffi)
 - [M Umar Farooq 478](https://github.com/umarfarooq478)
 - [typicaljoe111](https://github.com/typicaljoe111)
 - [Riddhi](https://github.com/riddhigupta1110)
@@ -114,6 +116,8 @@
 - [Isaac Faulkner]
 - Niall Cunningham
 - [Akshay Jagiasi]
+- [Ada Lam]
+- [Exavier Frost]]
 - [Slater McArdle] (https://github.com/SlaterMcArdle)
 - [Georgios Kakarlis](https://github.com/georgekakarlis)
 - [sam gill]
@@ -125,6 +129,7 @@
 - [Ben](https://github.com/benjaminsmeyer)
 - [Tony Coldashian](https://github.com/tonycoldashian)
 - [Yash Savla](https://github.com/yashsavla9)
+- [Benjamin Chenevey](https://github.com/Bchenevey)
 - [Shreyash Somvanshi](https://github.com/ShreyashSomvanshi)
 - [RobbiDev](https://github.com/RobbiDev)
 - [Sunny Singh](https://github.com/sunny-k-singh)
@@ -161,6 +166,7 @@
 - [Dalton Riley] (https://github.com/daltonjriley)
 - [Soham Vij] (https://github.com/Sohezee)
 - [Tiago Gonçalves](https://github.com/tiagogdev)
+  [Frank Alimimian] (https://github.com/Franklyn883)
 -[Tse C](https://github.com/kyroC)
 - [Ana Maria Amorim]
 - [Gannon Rowlan]
@@ -360,6 +366,7 @@ Subhajit Bera
 - [Saiprakash Shet] (https://github.com/saiprakash2)
 - [LihaaDjem Lini](https://github.com/LihaaDjem)
 - [Raj](https://github.com/workingpayload)
+- [Andrew](https://github.com/apuser)
 - [Marcos Adriano](https://github.com/drickchote)
 - [pcyan](https://github.com/pcyan)
 - [yeahokyok](https://github.com/yeahokyok)
@@ -2506,10 +2513,13 @@ Ayan Das
 - [BernalCristianCamilo93](https://github.com/bernalcristiancamilo93)
 - [Mwaura](https://github.com/MwauratheAlex)
 - [sziwipx](https://github.com/sziwipx)
+- [Elaine Doud] (https://github.com/elainedoud)
 - [JoLalo](https://github.com/JoLalo)
 - [pranshua7i](https://github.com/pranshua7i)
 - [Opeyemi O.](https://github.com/lekeope)
 - [Star-ho](https://github.com/Star-ho)
 - [SyntaxSavvy](https://github.com/SyntaxSavvy)
-
+- [mimmydev](https://github.com/mimmydev)
+- [Shadow-Mo](https://github.com/Shadow-Mo)
+- [David0601d](https://github.com/David0601d)
 <!-- prettier-ignore-end -->
