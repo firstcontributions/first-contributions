@@ -9,6 +9,7 @@
 - [Harshit Jain](https://github.com/Harshit28j)
 - [Karl Loza](https://github.com/DrAg0n-BoRn)
 - [Xanthium]
+- [Jonas Krymski](https://github.com/krymskjm)
 - [Sergio Thompson](https://github.com/SergioJThompson)
 - [CharlyMech](https://github.com/CharlyMech)
 - [Janice Thomas](https://github.com/janicethomas)
