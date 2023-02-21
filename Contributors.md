@@ -2542,3 +2542,4 @@ Ayan Das
 - [Manuel Pineda](https://github.com/manuel12)
 - [Koji Takahiro](https://github.com/koji-takahiro)
 - [Zoheir Bentebbiche](https://github.com/zoheir78)
+- [Sam Barlas](https://github.com/sambarlas)
