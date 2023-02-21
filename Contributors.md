@@ -111,6 +111,7 @@
 - [belenya] (https://github.com/Belenya)
 - [Katia Corona](https://github.com/katiacorona)
 - [kaka09] (https://github.com/prenik09)
+- **[Wit Wang](https://github.com/Wit-Wang)** : )
 - [Gull Ahmed] (https://github.com/gullahmed1)
 - [Gaurav singh jethuri](https://github.com/EndGaurav)
 - [Muhammed Sinan C K](https://github.com/Muhammedsinanck)
