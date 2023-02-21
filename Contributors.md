@@ -907,6 +907,7 @@ Rishabh Pandey
 - [AdityaKrishnan](https://github.com/ADK0010)
 - [Kenneth Baity] (https://github.com/SilentKB3)
 - [Arman Kumar Aditya@DevsockPI]
+- [Akorede Da silva] (https://github.com/Coreyodonis
 - [Arman Karimi](https://github.com/iArmanKarimi/)
 - [Uzaif Ahmad Shaikh](https://github.com/uzaifahmad)
 - [Abdul-Lateef Uthman](https://github.com/uthycloud)
