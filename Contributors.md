@@ -24,6 +24,7 @@
 - [Jonathan Potter](https://github.com/JonathanDPotter)
 - [Natnael Afework](https://github.com/Nathaniel-af)
 - [Onyedikachi Eni](https://github.com/KindEni)
+- [ahguanz](https://github.com/ahguanz)
   [Vanessa]
 - [Patrick Murimi](https://github.com/grand-rick001)
 - [Andreumagu](https://github.com/andreumagu)
