@@ -26,6 +26,7 @@
 - [ClameSys](https://github.com/clamesys)
 - [Ahmed Mohamed](https://github.com/bego00)
 - [Lisa Adams](https://github.com/techwriterlisa)
+- [Preetham Mukkara](https://github.com/Preetham-Mukkara)
 - [Jonathan Potter](https://github.com/JonathanDPotter)
 - [Natnael Afework](https://github.com/Nathaniel-af)
 - [Onyedikachi Eni](https://github.com/KindEni)
