@@ -976,6 +976,7 @@ Rishabh Pandey
 - [Joshua Ngene](https://github.com/lotacodic)
 - [Georgy](https://github.com/Gkuzin13)
 - [Joshua Gray] (https://github/joshhgray)
+- [Giang Pham](https://github.com/giangpham-cfg)
 - [Enoch Osarenren](https://github.com/enochval)
 - [Ashroof] (https://github.com/OmarAshraf-02)
 - [Aditya](https://github.com/adi-bal)
