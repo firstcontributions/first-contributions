@@ -2520,3 +2520,4 @@ Ayan Das
 - [SyntaxSavvy](https://github.com/SyntaxSavvy)
 - [mimmydev](https://github.com/mimmydev)
 - [Shadow-Mo](https://github.com/Shadow-Mo)
+- [David0601d](https://github.com/David0601d)
