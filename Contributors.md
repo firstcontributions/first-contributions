@@ -2546,4 +2546,3 @@ Ayan Das
 - [Lucas Ribeiro](https://github.com/lucasribeiro-dev)
 - [Paulo Vitor](https://github.com/paulovitor-unb)
   <!-- prettier-ignore-end -->
-
