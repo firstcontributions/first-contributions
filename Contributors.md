@@ -117,6 +117,7 @@
 - Niall Cunningham
 - [Akshay Jagiasi]
 - [Ada Lam]
+- [Exavier Frost]]
 - [Slater McArdle] (https://github.com/SlaterMcArdle)
 - [Georgios Kakarlis](https://github.com/georgekakarlis)
 - [sam gill]
