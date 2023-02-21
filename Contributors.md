@@ -14,7 +14,7 @@
 - [Janice Thomas](https://github.com/janicethomas)
 - [pearlescen7](https://github.com/pearlescen7)
 - [nyinyiaung](https://github.com/NyiNyiTesting)
-- [Pavel UZ] (https://github.com/a4soon)
+- [Pavel UZ](https://github.com/a4soon)
 -[Navajeevan](https://github.com/iamnavajeevan)
 - **[C.Viswanath](https://github.com/c-viswanath)**
 - [Himanshu G lilhare](https://github.com/Himanshu-lilhare)
