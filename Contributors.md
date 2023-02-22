@@ -58,6 +58,7 @@
 - [zsgg](https://github.com/zsgg)
 - [Nico Kemp](https://github.com/njrkemp1/)
 - [ervinaservinas](https://github.com/ervinaservinas)
+- [PantherBoop](https://github.com/PantherBoop)
 - [Ali Rasouli]
 - [Abhijit More]
 - [Sinjin John]
