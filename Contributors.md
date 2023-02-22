@@ -997,6 +997,7 @@ Rishabh Pandey
   [Miral Khunt](https://github.com/khunt-miral)
 - [al-imam](https://github.com/al-imam)
 - [Vikhyat Gupta@DevsocPI]
+- [Lautaro Mugas](https://github.com/lautaromugas8)
 - [Aondrej-Ryan](https://github.com/aryan10293)
 - [Jônatas Pereira](https://github.com/euJonatasDev)
 - [Anagh Bhasker](https://github.com/anaghbhasker)
