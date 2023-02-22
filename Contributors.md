@@ -97,6 +97,7 @@
 - [Tyler Beitel]
 - [Morgan Smith]
 - [Piyush Yadav](https://github.com/piyushyadav1617)
+- [Edouard Zemb](https://github.com/EdouardZemb)
 - [David R Watson](https://github.com/David-R-Watson)
 - [Abhay](https://github.com/im31abhay)
 - [Tejas Binu]
