@@ -973,6 +973,7 @@ Rishabh Pandey
 - [Lukas de VIPART](https://github.com/Rekch)
 - [Fei](https://github.com/xegg)
 - [R Sathvik]@DevsocPI
+- [yuki](https://github.com/F3eQnxN3RriK)
 - [Kaiden Flaig]
 - [Joshua Ngene](https://github.com/lotacodic)
 - [Georgy](https://github.com/Gkuzin13)
