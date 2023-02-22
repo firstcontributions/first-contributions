@@ -107,6 +107,7 @@
 - [Tejas Binu]
 - [PaulTitto]
 - [meeeeeee](https://github.com/notshanxx)
+- [gokserpirik](https://github.com/gokserpirik)
 - [Di-az](https://github.com/Di-az)
 - [Eva Li]
 - [Kristoffer]
