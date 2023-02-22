@@ -42,6 +42,7 @@
 - [Andreumagu](https://github.com/andreumagu)
 - [Bernice Owusu Agyeman](https://github.com/berniceoa)
 - [Aaron] (https://github.com/aaron-jpg)
+- [Nabeel Bacchus] (https://github.com/bacchusnabeel)
 - [Jeetjyoti Deka](https://github.com/Jeetjyoti-Deka)
 - [Sadman Salim Nipun](https://github.com/nipun333)
   [Chandima Herath] 
