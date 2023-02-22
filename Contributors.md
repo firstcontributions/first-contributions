@@ -2326,6 +2326,7 @@ Rishabh Pandey
 - [Vinicius Antunes](https://github.com/vinicius-anp)
 - [Pat Browne](https://github.com/pbrowne011)
 - [Anshuman Tiwari](https://github.com/at610505)
+- [Xaavan Dolence] (https://github.com/XaavanDolence)
 -[Kyle Starrett](https://github.com/akstarre)
 -[Amrit Rai](https://github.com/retrogtx)
 -[Lily Clark](https://github.com/lilyclarkcodes)
