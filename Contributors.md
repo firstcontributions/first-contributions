@@ -2489,6 +2489,7 @@ Ayan Das
 - [Kevin](https://github.com/pheyth15)
 - [David Herring](https://github.com/davidherring123)
 - [Aiden Cline](https://github.com/rekram1-node)
+- [Semion Zilbert](https://github.com/sz44)
 - [Milind Pansare] (https://github.com/githubmilind)
 - [Alan Hakala](https://github.com/AlanHakalaDev)
 - [Kendall Callison](https://github.com/kendallcallison)
