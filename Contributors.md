@@ -1890,6 +1890,7 @@ Rishabh Pandey
 - [Chandra Kiran](https://github.com/chandra-kiran1)
 - [Aryan Thakore](https://github.com/Aryan1982)
 - [Hamza Nehme](https://github.com/hnehme99)
+- [me] 
 - [Rucha @DevSocPI]
 - [Chris D](https://github.com/nesdev85)
 - [Hippolyte Thomas](https://github.com/hippothomas)
@@ -2562,3 +2563,4 @@ Ayan Das
 - [Paulo Vitor](https://github.com/paulovitor-unb)
 - [Andrew McCall](https://github.com/elkcityhazard)
 - [Deepak Khanna] (https://github.com/deepakkhanna18)
+
