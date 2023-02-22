@@ -1422,6 +1422,7 @@ Rishabh Pandey
 - [Boban Krsteski](https://github.com/bkrstesk)
 - [Adit Bhargava](https://github.com/zcsop1206)
 - [Tanu Singh](https://github.com/TanuSingh17)
+- [Simone Pizzoleo](https://github.com/simonepizzoleo)
   [Adarsh Sharma](https://github.com/Adarsh1885)
   [Elijah Glascock](https://github.com/ejglascock)
 - [Shreyas Bhagwat](https://github.com/ShreyasBhagwat)
