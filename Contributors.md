@@ -22,6 +22,7 @@
 -[Navajeevan](https://github.com/iamnavajeevan)
 - **[C.Viswanath](https://github.com/c-viswanath)**
 - [Himanshu G lilhare](https://github.com/Himanshu-lilhare)
+- [Aris Mufraggi](https://github.com/ariismuf) 
 - **[Virex22 - Vincent Remy](https://github.com/Virex22)**
 - **[Sadman Salim Nipun](https://github.com/nipun333)**
 - [ClameSys](https://github.com/clamesys)
