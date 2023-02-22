@@ -672,6 +672,7 @@ Subhajit Bera
 - [majR - Mohammed Jauharali](https://github.com/mjjauhar)
 - [Goutham K](https://github.com/gouthamhusky)
 - [James Lee](https://github.com/jameslee98)
+- [A Bhasal](https://github.com/)
 - [Kajeli](https://github.com/kajeli7/)
 - [James T](https://github.com/tharitRT)
 - Nikhil Tamboli @DevSoc
