@@ -191,6 +191,7 @@
 - [Jonathon Black]
 - [Litmanennn]
 - [Tu Nguyen](https://github.com/TerryN12)
+- [Alan Wu](https://github.com/lameast)
 - [Ananda Perumal Balaji](https://github.com/anand-pb)
 - [Abdelwahab Chaachoui](https://github.com/abdelwahab-chaachoui)
 - [Meaghan Freund]
