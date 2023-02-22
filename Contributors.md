@@ -2561,3 +2561,4 @@ Ayan Das
 - [Lucas Ribeiro](https://github.com/lucasribeiro-dev)
 - [Paulo Vitor](https://github.com/paulovitor-unb)
 - [Andrew McCall](https://github.com/elkcityhazard)
+- [Deepak Khanna] (https://github.com/deepakkhanna18)
