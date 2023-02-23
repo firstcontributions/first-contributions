@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Isaam Akhtar] (https://github.com/IsaamAkhtar)
 - [Eshan Shukla] (https://github.com/Eshan-shukla)
 - [Arthur Okonkwo](https://github.com/arthurokonkwo)
 - [TariqAziz](https://github.com/Tariq-AQ)
