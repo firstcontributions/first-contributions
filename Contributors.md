@@ -90,6 +90,7 @@
 - [Deepanshu Bhatti](https://github.com/DeepanshuBhatti)
 - [Olivia Robinson](https://github.com/lvcg)
 - [Ezequiel Ríos](https://github.com/Eriosdev)
+- [Swayam Khare](https://github.com/Swayam-Khare)
 - [Isaac Zerououl](https://github.com/p2557506)
 - [Nicholas Njoki](https://github.com/alsonick)
 - [Pratik Kumar Singh](https://github.com/prat19coder)
