@@ -235,6 +235,7 @@
 - [Rolyyy](https://github.com/Rolyyy)
 - [Prasad Joshi](https://github.com/predatorprasad)
 - [Anant shukla](https://github.com/Anantshukla007)
+- [Ritika Mandal](https://github.com/Ritika1705)
   [Aniket Gupta]
 - [Sumit Kumar](https://github.com/sumit970)
 - [Dam Gyu Yang]
