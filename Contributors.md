@@ -2315,6 +2315,7 @@ Rishabh Pandey
 - [Gawain Hewitt](https://github.com/gawainhewitt)
 - [Thanos Kiver]
 - [Umi]
+- [Nayan Godhwani](https://github.com/Nayan524)
 - [Sapto Aji 🇮🇩](https://github.com/SaptooAji)
 - [Harshit](https://github.com/kaka-rot)
 - [Mallikarjun](https://github.com/Mallikarjun-Karalatti)
