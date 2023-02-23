@@ -2599,3 +2599,4 @@ Ayan Das
 - [Wulin_wu](https://github.com/BowMonkey)
 - [Tochukwu Patience Onah](https://github.com/tchytech)
 - [Judd Russel Kalalo](https://github.com/Grocery4)
+- [Bartosz Jałkiewicz](https://github.com/Kurs-git-podstawy)
