@@ -3,6 +3,7 @@
 - [Hugo Serra] (https://github.com/NoObX17)
 - [Isaam Akhtar] (https://github.com/IsaamAkhtar)
 - [Eshan Shukla] (https://github.com/Eshan-shukla)
+- [Daniel Leinweber](https://github.com/daniel-leinweber)
 - [Arthur Okonkwo](https://github.com/arthurokonkwo)
 - [TariqAziz](https://github.com/Tariq-AQ)
 - [Dharmateja176](https://github.com/Dharmateja176)
