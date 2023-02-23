@@ -15,6 +15,7 @@
 - [Hariprasad Sivanesan](https://github.com/Zeegi)
 - [Harshit Jain](https://github.com/Harshit28j)
 - [Joaquin](https://github.com/Hoakin24)
+- [Jakcw](https://github.com/jakcw)
 - [Karl Loza](https://github.com/DrAg0n-BoRn)
 - [Jason Husain](https://github.com/JasonHusain)
 - [maxence98](https://github.com/maxence98)
