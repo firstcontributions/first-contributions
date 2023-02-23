@@ -25,6 +25,7 @@
 - [Jonas Krymski](https://github.com/krymskjm)
 - [Sergio Thompson](https://github.com/SergioJThompson)
 - [CharlyMech](https://github.com/CharlyMech)
+- [GuihVicentini](https://github.com/GuihVicentini)
 - [Janice Thomas](https://github.com/janicethomas)
 - [Chris Park] (https://github.com/cjunkin)
 - [Yash Narkhedkar](https://github.com/yashnarkhedkar)
