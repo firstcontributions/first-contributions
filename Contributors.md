@@ -144,6 +144,7 @@
 - [Akshay Jagiasi]
 - [Ada Lam]
 - [Exavier Frost]]
+- [Harshita Raghu](https://github.com/rnharshee)
 - [Slater McArdle] (https://github.com/SlaterMcArdle)
 - [Georgios Kakarlis](https://github.com/georgekakarlis)
 - [sam gill]
