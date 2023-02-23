@@ -1052,6 +1052,7 @@ Rishabh Pandey
 - [Windula Dissanayake](https://github.com/winduald)
 - [Melvin Aguilar](https://github.com/MelvinAguilar)
 - [Giulia Piazza](https://github.com/giuliapiazza18)
+- [Nir Khutorsky] (https://github.com/nirkhut)
 - [Hein Htet Zaw](https://github.com/Hendrickhz)
 - [Utkarsh Dwivedi](https://github.com/DwivediUtkarsh)
 - [s-t-e-v](https://github.com/s-t-e-v)
