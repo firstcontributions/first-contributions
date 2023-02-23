@@ -18,6 +18,7 @@
 - [Chaitanya Dange](https://github.com/chaitanya-dange)
 - [Hariprasad Sivanesan](https://github.com/Zeegi)
 - [Harshit Jain](https://github.com/Harshit28j)
+- [Alex Smith] (https://github.com/alexsmithdev)
 - [Joaquin](https://github.com/Hoakin24)
 - [Jakcw](https://github.com/jakcw)
 - [Karl Loza](https://github.com/DrAg0n-BoRn)
