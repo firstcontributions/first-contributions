@@ -18,6 +18,7 @@
 - [Sergio Thompson](https://github.com/SergioJThompson)
 - [CharlyMech](https://github.com/CharlyMech)
 - [Janice Thomas](https://github.com/janicethomas)
+- [Chris Park] (https://github.com/cjunkin)
 - [Yash Narkhedkar](https://github.com/yashnarkhedkar)
 - [pearlescen7](https://github.com/pearlescen7)
 - [nyinyiaung](https://github.com/NyiNyiTesting)
