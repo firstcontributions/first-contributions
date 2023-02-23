@@ -10,7 +10,8 @@
 - [Dharmateja176](https://github.com/Dharmateja176)
 - [Code2forever](https://github.com/code2forever)
 - [Kumar Raj Gupta]
--[Ayush Sharma](https://github.com/ayushsharma08)
+- [Ayush Sharma](https://github.com/ayushsharma08)
+- [Sarthak Dobriyal](https://github.com/high-prog)
 - [Genta Miyao](https://github.com/miyaogenta)
 - [Malav Shah](https://github.com/malavshah9)
 - [Chaitanya Dange](https://github.com/chaitanya-dange)
