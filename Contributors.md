@@ -12,6 +12,7 @@
 - [Harshit Jain](https://github.com/Harshit28j)
 - [Joaquin](https://github.com/Hoakin24)
 - [Karl Loza](https://github.com/DrAg0n-BoRn)
+- [Jason Husain](https://github.com/JasonHusain)
 - [maxence98](https://github.com/maxence98)
 - [Xanthium]
 - [Jonas Krymski](https://github.com/krymskjm)
