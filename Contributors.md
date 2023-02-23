@@ -2604,3 +2604,4 @@ Ayan Das
 - [Judd Russel Kalalo](https://github.com/Grocery4)
 - [Bartosz Jałkiewicz](https://github.com/Kurs-git-podstawy)
 - [Alex Spiers](https://github.com/statneutrino)
+- [Senya Shlosman](https://github.com/meleh0133)
