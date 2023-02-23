@@ -46,6 +46,7 @@
 - **[Sadman Salim Nipun](https://github.com/nipun333)**
 - [ClameSys](https://github.com/clamesys)
 - [Ahmed Mohamed](https://github.com/bego00)
+- Amro Rehawi
 - [Lisa Adams](https://github.com/techwriterlisa)
 - [Preetham Mukkara](https://github.com/Preetham-Mukkara)
 - [Jonathan Potter](https://github.com/JonathanDPotter)
