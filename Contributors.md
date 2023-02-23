@@ -5,6 +5,7 @@
 - [Arthur Okonkwo](https://github.com/arthurokonkwo)
 - [TariqAziz](https://github.com/Tariq-AQ)
 - [Dharmateja176](https://github.com/Dharmateja176)
+- [Code2forever](https://github.com/code2forever)
 - [Kumar Raj Gupta]
 - [Genta Miyao](https://github.com/miyaogenta)
 - [Malav Shah](https://github.com/malavshah9)
