@@ -8,6 +8,7 @@
 - [Daniel Leinweber](https://github.com/daniel-leinweber)
 - [Arthur Okonkwo](https://github.com/arthurokonkwo)
 - [TariqAziz](https://github.com/Tariq-AQ)
+- [Rounak Shrivastav](https://github.com/Rounakshrivastav)
 - [Manjusha Nair](https://github.com//manjushabnair)
 - [Dharmateja176](https://github.com/Dharmateja176)
 - [Code2forever](https://github.com/code2forever)
