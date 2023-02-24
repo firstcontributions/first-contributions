@@ -26,6 +26,7 @@
 - [maxence98](https://github.com/maxence98)
 - [kodingkin]
 - [Xanthium]
+- [Codey Gallup](https://github.com/Codeyg12)
 - [LomiaW](https://github.com/LomiaW)
 - [Harshit Saini](https://github.com/scholar-2001)
 - [Jonas Krymski](https://github.com/krymskjm)
