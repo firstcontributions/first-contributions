@@ -28,6 +28,7 @@
 - [maxence98](https://github.com/maxence98)
 - [kodingkin]
 - [Xanthium]
+- [Aakashsingh9](https://github.com/Aakashsingh9/first-contributions.git)
 - [Codey Gallup](https://github.com/Codeyg12)
 - [LomiaW](https://github.com/LomiaW)
 - [Harshit Saini](https://github.com/scholar-2001)
