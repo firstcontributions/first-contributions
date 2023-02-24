@@ -3,6 +3,7 @@
 - [Kennedy Muchiri] (https://github.com/muchiri08)
 - [5.H.4.D.0.W](https://github.com/QuintusJoyal) 🖖
 - [Hugo Serra] (https://github.com/NoObX17)
+- [Xinying Hu] (https://github.com/xinying233)
 - [Matheus de Alcântara] (https://github.com/thecobsb)
 - [Isaam Akhtar] (https://github.com/IsaamAkhtar)
 - [Stefan Behling](https://github.com/StefanBeh)
