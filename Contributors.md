@@ -14,6 +14,7 @@
 - [Manjusha Nair](https://github.com//manjushabnair)
 - [Dharmateja176](https://github.com/Dharmateja176)
 - [Code2forever](https://github.com/code2forever)
+- [Rusiru Anupama](https://github.com/rus1ru)
 - [Kumar Raj Gupta]
 - [Ayush Sharma](https://github.com/ayushsharma08)
 - [Sarthak Dobriyal](https://github.com/high-prog)
