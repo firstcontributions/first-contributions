@@ -5,6 +5,7 @@
 - [Hugo Serra] (https://github.com/NoObX17)
 - [Matheus de Alcântara] (https://github.com/thecobsb)
 - [Isaam Akhtar] (https://github.com/IsaamAkhtar)
+- [Stefan Behling](https://github.com/StefanBeh)
 - [Eshan Shukla] (https://github.com/Eshan-shukla)
 - [Daniel Leinweber](https://github.com/daniel-leinweber)
 - [Arthur Okonkwo](https://github.com/arthurokonkwo)
