@@ -15,6 +15,7 @@
 - [Ayush Sharma](https://github.com/ayushsharma08)
 - [Sarthak Dobriyal](https://github.com/high-prog)
 - [Genta Miyao](https://github.com/miyaogenta)
+- [Koh Kai Yit] (https://https://github.com/kaiyitkoh)
 - [Malav Shah](https://github.com/malavshah9)
 - [Chaitanya Dange](https://github.com/chaitanya-dange)
 - [Hariprasad Sivanesan](https://github.com/Zeegi)
