@@ -2620,3 +2620,4 @@ Ayan Das
 - [lemonadeseason](https://github.com/lemonadeseason)
 - [Raul Molina] (https://github.com/RauulDev)
 - [Tijme](https://github.com/7ijme)
+- [Khanh Nguyen] (https://github.com/Dk146)
