@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 - [5.H.4.D.0.W](https://github.com/QuintusJoyal) 🖖
 - [Hugo Serra] (https://github.com/NoObX17)
+- [Matheus de Alcântara] (https://github.com/thecobsb)
 - [Isaam Akhtar] (https://github.com/IsaamAkhtar)
 - [Eshan Shukla] (https://github.com/Eshan-shukla)
 - [Daniel Leinweber](https://github.com/daniel-leinweber)
