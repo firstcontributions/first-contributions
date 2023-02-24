@@ -2607,3 +2607,4 @@ Ayan Das
 - [Alex Spiers](https://github.com/statneutrino)
 - [Senya Shlosman](https://github.com/meleh0133)
 - [Derick Tolentino](https://github.com/DerickT02)
+- [Adam Taylor](https://github.com/astaylordev)
