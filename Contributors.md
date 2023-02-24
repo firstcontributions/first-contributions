@@ -365,6 +365,7 @@ Chirag Rakh
 - [puru-sudo](https://github.com/puru-sudo)
 - [Niklas Kariniemi]
 - [Nicholas Seidel](https://github.com/enviouscodefellow)
+- [Uthsara Indeewara](https://github.com/uthsaraindeewara)
 - [Samoj Bhattarai](https://github.com/samojbhattarai)
 - [Nahom girma](https://github.com/kylosonic)
 - [Shiva Seth](https://github.com/Shiva953)
