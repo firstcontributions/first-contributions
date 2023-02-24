@@ -2609,4 +2609,5 @@ Ayan Das
 - [Bartosz Jałkiewicz](https://github.com/Kurs-git-podstawy)
 - [Alex Spiers](https://github.com/statneutrino)
 - [Senya Shlosman](https://github.com/meleh0133)
+- [UENO Takahiro](https://github.com/UENOTakahiro)
 - [Derick Tolentino](https://github.com/DerickT02)
