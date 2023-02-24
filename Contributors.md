@@ -2097,6 +2097,7 @@ Rishabh Pandey
 - [Amit Roy](https://github.com/amitroy-thedev)
 - [Siddhi Khade](https://github.com/SiddhiKhade)
 - [Pavanteja](https://github.com/Pavanteja17)
+- [Pewpewnor](https://github.com/pewpewnor)
 - [Tanishq Agarwal](https://github.com/Tanishq2807)
 - [Shaurya Gupta](https://github.com/Shaurya50211)
 - [Victor Chao](https://github.com/VictorChao996)
