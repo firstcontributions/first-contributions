@@ -697,6 +697,7 @@ Subhajit Bera
   [Milo Barkow](https://github/com/milobarkow)
 - [Rodrigo](https://github.com/RodDotO)
 - [Rav Krof](https://github.com/Ravkrof)
+- [Rakshith Sakhamuri](https://github.com/Rakshith-sakhamuri)
 - [Allwyn T](https://github.com/AllwynThomas)
 - [Felix Lai](https://github.com/felixlaii)
 - [Samjaza](https://github.com/samjazaaa)
