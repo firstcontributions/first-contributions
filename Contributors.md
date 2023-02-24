@@ -114,6 +114,7 @@
 - [Ezequiel Ríos](https://github.com/Eriosdev)
 - [Domanrovil Ovalle](https://github.com/Domanrovil)
 - [Isaac Zerououl](https://github.com/p2557506)
+- [Douglas Vinicius](https://github.com/linkzera)
 - [Nicholas Njoki](https://github.com/alsonick)
 - [Pratik Kumar Singh](https://github.com/prat19coder)
 - [Anthon Rodrigues](https://github.com/anthonrodgrs01)
