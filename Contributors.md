@@ -284,6 +284,7 @@
 -[Tomas Jauregui] 
 - [Kanhaiya gavit]
 - [isaiah peters]
+- [Niranjan A S](https://github.com/Niranjan-A-S)
 - [KKY] (https://github.com/kaiyitkoh)
 - [shabarish k]
 - [Yash Shukla](https://github.com/y2kshukla)
