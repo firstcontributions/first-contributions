@@ -45,6 +45,7 @@
 - [Margalit](https://github.com/mMargalit)
 -[Navajeevan](https://github.com/iamnavajeevan)
 - **[C.Viswanath](https://github.com/c-viswanath)**
+- **_[Wlad Kochmansky](https://github.com/vladoxx)_**
 - [Himanshu G lilhare](https://github.com/Himanshu-lilhare)
 - [Aris Mufraggi](https://github.com/ariismuf) 
 - **[Virex22 - Vincent Remy](https://github.com/Virex22)**
