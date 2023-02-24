@@ -2629,3 +2629,4 @@ Ayan Das
 - [Raul Molina] (https://github.com/RauulDev)
 - [Tijme](https://github.com/7ijme)
 - [Khanh Nguyen] (https://github.com/Dk146)
+- [Łukasz Kozioł](https://github.com/SayaS3)
