@@ -12,6 +12,7 @@
 - [Code2forever](https://github.com/code2forever)
 - [Kumar Raj Gupta]
 - [Ayush Sharma](https://github.com/ayushsharma08)
+- [Gabriel Luculescu](https://github.com/glucu)
 - [Sarthak Dobriyal](https://github.com/high-prog)
 - [Genta Miyao](https://github.com/miyaogenta)
 - [Malav Shah](https://github.com/malavshah9)
