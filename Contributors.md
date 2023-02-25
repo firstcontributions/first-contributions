@@ -52,7 +52,8 @@
 - [pearlescen7](https://github.com/pearlescen7)
 - [nyinyiaung](https://github.com/NyiNyiTesting)
 - [Margalit](https://github.com/mMargalit)
--[Navajeevan](https://github.com/iamnavajeevan)
+- [Tomas Simko](https://github.com/TomassSimko)
+- [Navajeevan](https://github.com/iamnavajeevan)
 [naga]
 - **[C.Viswanath](https://github.com/c-viswanath)**
 - **_[Wlad Kochmansky](https://github.com/vladoxx)_**
