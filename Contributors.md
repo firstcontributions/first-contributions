@@ -73,7 +73,6 @@
 - [Onyedikachi Eni](https://github.com/KindEni)
 - [ahguanz](https://github.com/ahguanz)
   [Vanessa]
-  [Om Jee Mishra](https://github.com/om-jee-m)
   [Marcotulio](https://github.com/MarcotulioCA)
 - [Patrick Murimi](https://github.com/grand-rick001)
 - [Dickson Wachai](https://github.com/DicksonWachai)
@@ -2655,3 +2654,4 @@ Ayan Das
 - [Kalp Prajapati](https://github.com/munnokd)
 - [S_Furman](https://github.com/S-Furman)
 - [Pem Tshewang](https://github.com/pemtshewang)
+-[Sudipta Bain](https://github.com/Sudiptabain75)
