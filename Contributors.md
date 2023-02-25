@@ -2544,6 +2544,7 @@ Ayan Das
 - [Brian Bossy](https://github.com/Brian123-del)
 - [Mike Thompson](https://github.com/lastchance1228)
 - [Kevin](https://github.com/pheyth15)
+- [Mani Pandit](https://github.com/manipandit)
 - [David Herring](https://github.com/davidherring123)
 - [Aiden Cline](https://github.com/rekram1-node)
 - [Semion Zilbert](https://github.com/sz44)
@@ -2642,3 +2643,4 @@ Ayan Das
 - [Khanh Nguyen] (https://github.com/Dk146)
 - [Łukasz Koziol](https://github.com/SayaS3)
 - [DoubledConG](https://github.com/cccoding365)
+- [Kalp Prajapati](https://github.com/munnokd)
