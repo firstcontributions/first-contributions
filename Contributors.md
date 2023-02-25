@@ -382,6 +382,7 @@ Chirag Rakh
 - [Kent](https://github.com/kkentt)
 - [Sergio Gomez](https://github.com/Sdagomez)
 - [Ujjwal Saxena](https://github.com/Ujjwal-S)
+- [Iaroslav Pokataev](https://github.com/jar7nt)
 - [Gift Ibe](https://github.com/giftibe)
 - [Divyom](https://github.com/Waro0N/)
 - [puru-sudo](https://github.com/puru-sudo)
