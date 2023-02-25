@@ -73,6 +73,7 @@
 - [Onyedikachi Eni](https://github.com/KindEni)
 - [ahguanz](https://github.com/ahguanz)
   [Vanessa]
+  [Om Jee Mishra](https://github.com/om-jee-m)
   [Marcotulio](https://github.com/MarcotulioCA)
 - [Patrick Murimi](https://github.com/grand-rick001)
 - [Dickson Wachai](https://github.com/DicksonWachai)
