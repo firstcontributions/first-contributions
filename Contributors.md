@@ -2619,6 +2619,7 @@ Ayan Das
 - [Andrew McCall](https://github.com/elkcityhazard)
 - [Deepak Khanna](https://github.com/deepakkhanna18)
 - [TimoCodez](https://github.com/TimoCodez)
+- [DevonChia](https://github.com/DevonChia)
 - [gokserpirik](https://github.com/gokserpirik)
 - [Wulin_wu](https://github.com/BowMonkey)
 - [Tochukwu Patience Onah](https://github.com/tchytech)
