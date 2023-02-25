@@ -1219,6 +1219,7 @@ Rishabh Pandey
 - [Susanna-Carey](https://github.com/susannaopal)
 - [Mohammed Fayis](https://github.com/mohmdfayiz)
 - [Juanma Romero](https://github.com/juanmaroni/)
+- [Juan Carlos Alonso] (https://github.com/Sh0y)
 - [Chhabi Acharya](https://github.com/Chhabii)
 - [Adersh A](https://github.com/Adersh-A)
 - [Sai Ram](https://github.com/Saira2002)
