@@ -39,6 +39,7 @@
 - [Harshit Saini](https://github.com/scholar-2001)
 - [Jonas Krymski](https://github.com/krymskjm)
 - [Sergio Thompson](https://github.com/SergioJThompson)
+- [Karthik Goudar](https://github.com/karthikgoudar)
 - [CharlyMech](https://github.com/CharlyMech)
 - [HarishRao](https://github.com/Harishrao13)
 - [GuihVicentini](https://github.com/GuihVicentini)
