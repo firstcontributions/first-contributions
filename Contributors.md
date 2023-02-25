@@ -8,6 +8,7 @@
 - [Stefan Behling](https://github.com/StefanBeh)
 - [Eshan Shukla] (https://github.com/Eshan-shukla)
 - [Daniel Leinweber](https://github.com/daniel-leinweber)
+- [Joseph Ani](https://github.com/joe-ani)
 - [Arthur Okonkwo](https://github.com/arthurokonkwo)
 - [TariqAziz](https://github.com/Tariq-AQ)
 - [Rounak Shrivastav](https://github.com/Rounakshrivastav)
