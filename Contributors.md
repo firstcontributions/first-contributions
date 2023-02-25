@@ -1221,7 +1221,6 @@ Rishabh Pandey
 - [Kim-André Halvorsen](https://github.com/KimAH96)
 - [Esta es mi primer contribucion](https://github.com/PabloCH23)
 - [Melon98@DevSocPI](https://github.com/melon9829)
-- [latgit](https://github.com/latgit)
 - [David Bello](https://github.com/bellodavid)
 - [Alex Zhao](https://github.com/zyunfeng)
 - [Brokgar] (<https://github.com/Brokgar/>)
