@@ -781,6 +781,7 @@ Subhajit Bera
 - [Satyam Jha](https://github.com/coldkoffee)
 - [Prateek]
 - [Prakhar Verma](https://github.com/parkkrrr)
+- [Miggy Atienza](https://github.com/thenameismiggy)
 - [Snehil Chhabria](https://github.com/snehilchhbaria)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Loic Mavah Tseket@DevsocPI](https://github.com/loic242)
