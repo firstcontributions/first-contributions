@@ -90,6 +90,7 @@
 - [Vikrant Pradhan](https://github.com/vikrant0017)
 - [zsgg](https://github.com/zsgg)
 - [Nico Kemp](https://github.com/njrkemp1/)
+- [Rajesh Chavan](https://github.com/Rajesh007/)
 - [ervinaservinas](https://github.com/ervinaservinas)
 - [PantherBoop](https://github.com/PantherBoop)
 - [Ali Rasouli]
