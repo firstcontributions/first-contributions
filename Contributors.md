@@ -183,6 +183,7 @@
 - [Gaurav-Chnadwani](https://github.com/GauravChandwani12)
 - [Aditya Rajkumar](https://github.com/adityarfw)
 - [Ben](https://github.com/benjaminsmeyer)
+- [Sumit Shinde](https://github.com/sumitshinde-84)
 - [Tony Coldashian](https://github.com/tonycoldashian)
 - [Yash Savla](https://github.com/yashsavla9)
 - [Benjamin Chenevey](https://github.com/Bchenevey)
