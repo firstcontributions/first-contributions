@@ -61,6 +61,7 @@
 - [ClameSys](https://github.com/clamesys)
 - [Ahmed Mohamed](https://github.com/bego00)
 - Amro Rehawi
+- [Nikhil Chauhan](https://github.com/Nikhilchauhan3011)
 - [Jayavardhan, Pathella](https://github.com/Jayavardhan108)
 - [Lisa Adams](https://github.com/techwriterlisa)
 - [Preetham Mukkara](https://github.com/Preetham-Mukkara)
