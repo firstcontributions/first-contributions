@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 - [Kennedy Muchiri] (https://github.com/muchiri08)
 - [5.H.4.D.0.W](https://github.com/QuintusJoyal) 🖖
+- [Yali Kagan] (https://github.com/yalikagan1)
 - [Hugo Serra] (https://github.com/NoObX17)
 - [Matheus de Alcântara] (https://github.com/thecobsb)
 - [Isaam Akhtar] (https://github.com/IsaamAkhtar)
