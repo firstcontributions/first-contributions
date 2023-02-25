@@ -50,7 +50,6 @@
 - [nyinyiaung](https://github.com/NyiNyiTesting)
 - [Margalit](https://github.com/mMargalit)
 -[Navajeevan](https://github.com/iamnavajeevan)
-[naga]
 - **[C.Viswanath](https://github.com/c-viswanath)**
 - **_[Wlad Kochmansky](https://github.com/vladoxx)_**
 - [Himanshu G lilhare](https://github.com/Himanshu-lilhare)
