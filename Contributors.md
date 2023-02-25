@@ -733,6 +733,7 @@ Subhajit Bera
 - [Matthew Kohn](https://github.com/matthewkohn)
 - [GowtherZa](https://github.com/GowtherZa/)
 - [Masaya Kj](https://github.com/Massas)
+- [Sunil Kumar](https://github.com/Sunil1208)
 - [Nikodemas](https://github.com/nikodemas)
 - [Daniel Lynch](https://github.com/DPL9748)
 - [majR - Mohammed Jauharali](https://github.com/mjjauhar)
