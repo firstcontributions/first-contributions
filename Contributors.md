@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Ranjan Shitole] (https://github.com/ranjan2829)
 - [Shovan Mallick] (https://github.com/svn41)
 - [Kennedy Muchiri] (https://github.com/muchiri08)
 - [Galbeaza Ciprian] (https://github.com/GCipry3)
