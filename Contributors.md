@@ -988,7 +988,7 @@ _ [ ayush Z] @ devsocPI
 - [Preet Gupta@devsoc](https://github.com/preetgupta32)
 - [Yash Jhawar@devsocPI](https://github.com/yash-jhawar007)
 - [Kumar Kashyap@devsoc](https://github.com/KashyapJod)
-- [sumit gupta](https://github.com/hisumitgupta)
+
 - [kartavya@devsoc](https://github.com/Chrollucilfer)
 -[Kumar Kashyap](https://github.com/KashyapJod)@devsoc
 - [Divyam Joshi](https://github.com/iamgroot9)@devsoc
@@ -1003,3 +1003,4 @@ _ [ ayush Z] @ devsocPI
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
 [Siddharth Thakur]@devsoc pi
+- [sumit gupta](https://github.com/hisumitgupta)
