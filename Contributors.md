@@ -4,6 +4,7 @@
 - [Manu B M](https://github.com/ManuBM555)
 - [Shovan Mallick] (https://github.com/svn41)
 - [Kennedy Muchiri] (https://github.com/muchiri08)
+- [Usama Abdullah](https://github.com/uka7)
 - [jayendra parmar] (https://github.com/Jp88Programmer)
 - [utkarsh raj] (https://github.com/madtitan02)
 - [Galbeaza Ciprian] (https://github.com/GCipry3)
