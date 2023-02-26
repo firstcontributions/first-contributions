@@ -2669,3 +2669,4 @@ Ayan Das
 - [Pem Tshewang](https://github.com/pemtshewang)
 - [yelsom](https://github.com/yelsom-eth)
 - [Jash Karangiya 😎](https://github.com/jashkarangiya)
+- [sumit Gupta](https://github.com/hisumitgupta)
