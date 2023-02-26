@@ -291,6 +291,7 @@
 - [ytian]
 - [Canvas02](https://github.com/Canvas02)
 - [Ankit Saurabh](https://github.com/justacsguy/)
+- [Akilesh Mahesh](https://github.com/Akilesh09)
 - [Jesse Ekoh-Ordan](https://github.com/jesseekoh)
 - [Kane Davidson](https://github.com/kcd1001)
 - [Caleb](https://github.com/calebQWEB)
