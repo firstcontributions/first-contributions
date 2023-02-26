@@ -5,6 +5,7 @@
 - [Shovan Mallick] (https://github.com/svn41)
 - [Kennedy Muchiri] (https://github.com/muchiri08)
 - [jayendra parmar] (https://github.com/Jp88Programmer)
+- [utkarsh raj] (https://github.com/madtitan02)
 - [Galbeaza Ciprian] (https://github.com/GCipry3)
 - [5.H.4.D.0.W](https://github.com/QuintusJoyal) 🖖
 - [Yali Kagan] (https://github.com/yalikagan1)
