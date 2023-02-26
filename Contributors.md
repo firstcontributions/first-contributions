@@ -549,6 +549,7 @@ Subhajit Bera
 - [Khubaib fayyaz](https://github.com/khubaib-fayaz)
 - [oyeKhadim](https://github.com/oyeKhadim)
 - [Nick Nguyen]
+- [Avinash Menon](https://github.com/avinash-io)
 - [Saad Vakharia](https://github.com/SaadVakharia)
 - [KiranJodhani](https://github.com/KiranJodhani)
 - [Anju Narnolia](https://github.com/Anju3750)
