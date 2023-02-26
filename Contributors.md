@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Shovan Mallick] (https://github.com/svn41)
 - [Kennedy Muchiri] (https://github.com/muchiri08)
 - [Galbeaza Ciprian] (https://github.com/GCipry3)
 - [5.H.4.D.0.W](https://github.com/QuintusJoyal) 🖖
