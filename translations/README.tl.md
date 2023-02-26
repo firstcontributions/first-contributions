@@ -84,7 +84,7 @@ kung saan ang `<iyong-pangalan>` ay ang iyong pangalan.
 
 I-push ang mga pagbabago mo gamit ang utos na `git push`:
 ```
-git push origin <dagdag-pangalan-ng-sangay>
+git push -u origin <dagdag-pangalan-ng-sangay>
 ```
 kung saan ang `<dagdag-pangalan-ng-sangay>` ay ang pangalan ng sangay na naidagdag mo kanina.
 
