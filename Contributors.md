@@ -118,6 +118,7 @@
 - [Sinjin John]
 - [MiguelOrtsB](https://github.com/MiguelOrtsB)
 - [vishesh Sharma](https://github.com/Vishesh3569)
+- [Sunil Varma]
 - [Andrew Herring](https://github.com/Likethefish1520)
 - [Vijay Sheru](https://github.com/vijaysheru)
 - [Atul Tiwaree](https://github.com/atultiwaree)
