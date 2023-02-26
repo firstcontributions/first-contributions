@@ -1,7 +1,11 @@
 # Contributors
 <!-- prettier-ignore-start -->
-- [Kennedy Muchiri](https://github.com/muchiri08)
-- [Galbeaza Ciprian](https://github.com/GCipry3)
+- [Ranjan Shitole] (https://github.com/ranjan2829)
+- [Manu B M](https://github.com/ManuBM555)
+- [Shovan Mallick] (https://github.com/svn41)
+- [Kennedy Muchiri] (https://github.com/muchiri08)
+- [jayendra parmar] (https://github.com/Jp88Programmer)
+- [Galbeaza Ciprian] (https://github.com/GCipry3)
 - [5.H.4.D.0.W](https://github.com/QuintusJoyal) 🖖
 - [Yali Kagan](https://github.com/yalikagan1)
 - [Hugo Serra](https://github.com/NoObX17)
@@ -24,6 +28,7 @@
 - [Shamil ussain c](https://github.com/shamilussainc)
 - [Code2forever](https://github.com/code2forever)
 - [Rusiru Anupama](https://github.com/rus1ru)
+- [Vong Visalsambath](https://github.com/vongvisalsambath)
 - [Kumar Raj Gupta]
 - [Ayush Sharma](https://github.com/ayushsharma08)
 - [Sarthak Dobriyal](https://github.com/high-prog)
@@ -108,14 +113,17 @@
 - [Nico Kemp](https://github.com/njrkemp1/)
 - [Rajesh Chavan](https://github.com/Rajesh007/)
 - [ervinaservinas](https://github.com/ervinaservinas)
+- [Karthik Sankar](https://github.com/emergenitro/)
 - [PantherBoop](https://github.com/PantherBoop)
 - [Ali Rasouli]
 - [Abhijit More]
 - [Sinjin John]
 - [MiguelOrtsB](https://github.com/MiguelOrtsB)
 - [vishesh Sharma](https://github.com/Vishesh3569)
+- [Sunil Varma]
 - [Andrew Herring](https://github.com/Likethefish1520)
 - [Vijay Sheru](https://github.com/vijaysheru)
+- [Dionyssis Antypas] (https://github.com/dantypas3)
 - [Atul Tiwaree](https://github.com/atultiwaree)
 - [Steven Walker](https://github.com/stevenwalker91)
 - [Pratima Adhikari](https://github.com/Prateema1)
@@ -396,6 +404,7 @@ Chirag Rakh
 - [puru-sudo](https://github.com/puru-sudo)
 - [Niklas Kariniemi]
 - [Nicholas Seidel](https://github.com/enviouscodefellow)
+- [Haris Z](https://github.com/Haris270)
 - [Uthsara Indeewara](https://github.com/uthsaraindeewara)
 - [Samoj Bhattarai](https://github.com/samojbhattarai)
 - [Nahom girma](https://github.com/kylosonic)
@@ -2669,3 +2678,8 @@ Ayan Das
 - [Pem Tshewang](https://github.com/pemtshewang)
 - [yelsom](https://github.com/yelsom-eth)
 - [Jash Karangiya 😎](https://github.com/jashkarangiya)
+- [sumit Gupta](https://github.com/hisumitgupta)
+- [Anurag Sarkar](https://github.com/Anurag-Sarkar)
+- [Zeeshan Lone](https://github.com/still-learning-ev)
+- [ThotakuraHarish](https://github.com/ThotakuraHarish2003)
+- [MBDUR12](https://github.com/MBDur12/)
