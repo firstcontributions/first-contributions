@@ -399,6 +399,7 @@ Chirag Rakh
 - [puru-sudo](https://github.com/puru-sudo)
 - [Niklas Kariniemi]
 - [Nicholas Seidel](https://github.com/enviouscodefellow)
+- [Haris Z](https://github.com/Haris270)
 - [Uthsara Indeewara](https://github.com/uthsaraindeewara)
 - [Samoj Bhattarai](https://github.com/samojbhattarai)
 - [Nahom girma](https://github.com/kylosonic)
