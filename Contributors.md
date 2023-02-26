@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Sal Coombs] (https://github.com/MasterCoombs)
 - [Shovan Mallick] (https://github.com/svn41)
 - [Kennedy Muchiri] (https://github.com/muchiri08)
 - [Galbeaza Ciprian] (https://github.com/GCipry3)
