@@ -654,6 +654,7 @@ Subhajit Bera
 - [Hertanto Irawan](https://github.com/hertantoirawan)
 - Gregory 
 - xyl
+- [Elijah Lawson](https://github.com/ElijahLawson)
 - [Alden Smith](https://github.com/Major-Lag98)
 - [Sachin Tedwa] (https://github.com/TedwaSachin123)
 - [Dudu Zar] (https://duduzar.com)
