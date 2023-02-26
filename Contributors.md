@@ -109,6 +109,7 @@
 - [Nico Kemp](https://github.com/njrkemp1/)
 - [Rajesh Chavan](https://github.com/Rajesh007/)
 - [ervinaservinas](https://github.com/ervinaservinas)
+- [Karthik Sankar](https://github.com/emergenitro/)
 - [PantherBoop](https://github.com/PantherBoop)
 - [Ali Rasouli]
 - [Abhijit More]
