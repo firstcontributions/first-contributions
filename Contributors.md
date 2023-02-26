@@ -4,6 +4,7 @@
 - [Manu B M](https://github.com/ManuBM555)
 - [Shovan Mallick] (https://github.com/svn41)
 - [Kennedy Muchiri] (https://github.com/muchiri08)
+- [jayendra parmar] (https://github.com/Jp88Programmer)
 - [Galbeaza Ciprian] (https://github.com/GCipry3)
 - [5.H.4.D.0.W](https://github.com/QuintusJoyal) 🖖
 - [Yali Kagan] (https://github.com/yalikagan1)
