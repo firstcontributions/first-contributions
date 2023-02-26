@@ -8,6 +8,7 @@
 - [Aman Chauhan](https://github.com/Aman-JR)
 - [Matheus de Alcântara] (https://github.com/thecobsb)
 - [Isaam Akhtar] (https://github.com/IsaamAkhtar)
+- [Sang Tran](https://github.com/stran2312)
 - [Anil] (https://github.com/anic1618)
 - [Stefan Behling](https://github.com/StefanBeh)
 - [Eshan Shukla] (https://github.com/Eshan-shukla)
