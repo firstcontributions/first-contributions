@@ -125,6 +125,7 @@
 - [Vijay Sheru](https://github.com/vijaysheru)
 - [Dionyssis Antypas] (https://github.com/dantypas3)
 - [Atul Tiwaree](https://github.com/atultiwaree)
+- [Aaron Russell](https://github.com/aaronjrussell)
 - [Steven Walker](https://github.com/stevenwalker91)
 - [Pratima Adhikari](https://github.com/Prateema1)
 - [Ethan Kuhrts](https://github.com/ethankuhrts)
