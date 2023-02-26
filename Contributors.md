@@ -2671,3 +2671,4 @@ Ayan Das
 - [yelsom](https://github.com/yelsom-eth)
 - [Jash Karangiya 😎](https://github.com/jashkarangiya)
 - [sumit Gupta](https://github.com/hisumitgupta)
+- [Anurag Sarkar](https://github.com/Anurag-Sarkar)
