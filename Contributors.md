@@ -788,6 +788,7 @@ Subhajit Bera
 - [Abdul Waheed](https://github.com/waheedsid)
 - [Sreedev](https://github.com/sreedev-ss)
 - [Rajib Jonchhen](https://github.com/rajibjonchhen)
+- [menicacci](https://github.com/menicacci)
 - [ Kajal Singh]
 - [Mohammed Yunus](https://github.com/Y-u-n-u-s)
 - [Ali Munir Abbas](https://github.com/amw514)
