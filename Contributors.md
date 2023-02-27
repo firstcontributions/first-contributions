@@ -2688,6 +2688,7 @@ Ayan Das
 - [Tijme](https://github.com/7ijme)
 - [Khanh Nguyen] (https://github.com/Dk146)
 - [Łukasz Koziol](https://github.com/SayaS3)
+- [Ash Dev](https://github.com/ashdevin)
 - [DoubledConG](https://github.com/cccoding365)
 - [Kalp Prajapati](https://github.com/munnokd)
 - [S_Furman](https://github.com/S-Furman)
