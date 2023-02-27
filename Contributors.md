@@ -1147,6 +1147,7 @@ Rishabh Pandey
 - [Arnav Joshi] (https://githuyb.com/TheOfficialAJ)
 - [Ravi K] (https://github.com/jadeleafmoon)
 - [Noopur Sharma@DevsocPI]
+- [Thiago Ribeiro](https://github.com/trcosta97)
 - [Mohamed Abidar](https://github.com/abidarm)
 - [Antonio Narra](https://github.com/AntonioNarra)
 - [Amir](https://github.com/amir-repository)
@@ -2703,3 +2704,4 @@ Ayan Das
 - [ayasono](https://github.com/Ayasono)
 - [Abdul Moiz Lakhani](https://github.com/abdulmoizlakhani)
 - [Xemio](https://github.com/xemioxd)
+
