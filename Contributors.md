@@ -139,15 +139,12 @@
 - [M Umar Farooq 478](https://github.com/umarfarooq478)
 - [typicaljoe111](https://github.com/typicaljoe111)
 - [Riddhi](https://github.com/riddhigupta1110)
+- [Swayam Khare](https://github.com/Swayam-Khare)
 - [Ritik Namdev](https://github.com/ritiknamdev07)
 - [Deepanshu Bhatti](https://github.com/DeepanshuBhatti)
 - [Olivia Robinson](https://github.com/lvcg)
 - [Ezequiel Ríos](https://github.com/Eriosdev)
-<<<<<<< HEAD
-- [Swayam Khare](https://github.com/Swayam-Khare)
-=======
 - [Domanrovil Ovalle](https://github.com/Domanrovil)
->>>>>>> d3554dc7805f4a6c1a45f1a2cbc02cca3d5e5912
 - [Isaac Zerououl](https://github.com/p2557506)
 - [Douglas Vinicius](https://github.com/linkzera)
 - [Nicholas Njoki](https://github.com/alsonick)
