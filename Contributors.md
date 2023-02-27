@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 - [Ranjan Shitole] (https://github.com/ranjan2829)
 - [Manu B M](https://github.com/ManuBM555)
+- [Anietie Brownson](https://github.com/AJBrownson)
 - [Shovan Mallick] (https://github.com/svn41)
 - [Kennedy Muchiri] (https://github.com/muchiri08)
 - [Usama Abdullah](https://github.com/uka7)
