@@ -20,6 +20,7 @@
 - [Sang Tran](https://github.com/stran2312)
 - [Anil] (https://github.com/anic1618)
 - [Stefan Behling](https://github.com/StefanBeh)
+- [Thiago Ribeiro](https://github.com/trcosta97)
 - [Eshan Shukla] (https://github.com/Eshan-shukla)
 - [Adam Smith] (https://github.com/Roadlyfe)
 - [Daniel Leinweber](https://github.com/daniel-leinweber)
