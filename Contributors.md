@@ -1427,6 +1427,7 @@ Rishabh Pandey
 - [Cristhian Flores](https://github.com/bachacode)
 - [Luisa Haase](https://github.com/luisaha)
 - [Nayna Sahu](https://github.com/NaynaSahu/)
+- [Danis Idiatullin](https://github.com/i-danis)
 - shaurya tripathi @devsocpi
 - [VishalM](https://github.com/Mvishal123)
 - [Sudarsan Balaji](https://github.com/artfuldev)
