@@ -4,6 +4,7 @@
 - [Nizam Y Chaudhary] (https://github.com/Nizam9313)
 - [Matthew Lee] (https://github.com/mattyleecifer/)
 - [Manu B M](https://github.com/ManuBM555)
+- [Anietie Brownson](https://github.com/AJBrownson)
 - [Shovan Mallick] (https://github.com/svn41)
 - [Kennedy Muchiri] (https://github.com/muchiri08)
 - [Rifky Maulana] (https://github.com/Rifkymaulana)
