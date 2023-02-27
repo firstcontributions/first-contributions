@@ -291,6 +291,7 @@
 - [Ritika Mandal](https://github.com/Ritika1705)
   [Aniket Gupta]
 - [Sumit Kumar](https://github.com/sumit970)
+- [Louie Andrew Capulso](https://github.com/azeunkn0wn)
 - [Dam Gyu Yang]
 - [Mahir Ahammed](https://github.com/MahirAhammed)
 - [siya]
