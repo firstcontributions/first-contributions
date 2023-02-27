@@ -6,6 +6,7 @@
 - [Matthew Lee] (https://github.com/mattyleecifer/)
 - [Manu B M](https://github.com/ManuBM555)
 - [Anietie Brownson](https://github.com/AJBrownson)
+- [Talha Mehar](https://github.com/talhamehar007)
 - [Shovan Mallick] (https://github.com/svn41)
 - [Kennedy Muchiri] (https://github.com/muchiri08)
 - [Rifky Maulana] (https://github.com/Rifkymaulana)
