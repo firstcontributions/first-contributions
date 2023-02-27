@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 - [Ranjan Shitole] (https://github.com/ranjan2829)
 - [Nizam Y Chaudhary] (https://github.com/Nizam9313)
+- [Matthew Lee] (https://github.com/mattyleecifer/)
 - [Manu B M](https://github.com/ManuBM555)
 - [Shovan Mallick] (https://github.com/svn41)
 - [Kennedy Muchiri] (https://github.com/muchiri08)
