@@ -4,6 +4,7 @@
 - [Manu B M](https://github.com/ManuBM555)
 - [Shovan Mallick] (https://github.com/svn41)
 - [Kennedy Muchiri] (https://github.com/muchiri08)
+- [Rifky Maulana] (https://github.com/Rifkymaulana)
 - [Usama Abdullah](https://github.com/uka7)
 - [jayendra parmar] (https://github.com/Jp88Programmer)
 - [utkarsh raj] (https://github.com/madtitan02)
