@@ -783,6 +783,7 @@ Subhajit Bera
 - [Rohit Bhat]
 - [Divyam Arora1705]
 -[Varun Trivedi](https://github.com/varun-trivedi)
+- [Abdul Waheed](https://github.com/waheedsid)
 - [Sreedev](https://github.com/sreedev-ss)
 - [Rajib Jonchhen](https://github.com/rajibjonchhen)
 - [ Kajal Singh]
