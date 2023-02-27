@@ -23,6 +23,7 @@
 - [Eshan Shukla] (https://github.com/Eshan-shukla)
 - [Adam Smith] (https://github.com/Roadlyfe)
 - [Daniel Leinweber](https://github.com/daniel-leinweber)
+- [0126kjw](https://github.com/0126kjw)
 - [Joseph Ani](https://github.com/joe-ani)
 - [Arthur Okonkwo](https://github.com/arthurokonkwo)
 - [TariqAziz](https://github.com/Tariq-AQ)
@@ -290,6 +291,7 @@
 - [Ritika Mandal](https://github.com/Ritika1705)
   [Aniket Gupta]
 - [Sumit Kumar](https://github.com/sumit970)
+- [Louie Andrew Capulso](https://github.com/azeunkn0wn)
 - [Dam Gyu Yang]
 - [Mahir Ahammed](https://github.com/MahirAhammed)
 - [siya]
@@ -2704,3 +2706,4 @@ Ayan Das
 - [Abdul Moiz Lakhani](https://github.com/abdulmoizlakhani)
 - [Xemio](https://github.com/xemioxd)
 - [izkizk8](https://github.com/izkizk8)
+- [7exx](https://github.com/7exx)
