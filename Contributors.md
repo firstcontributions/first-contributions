@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Ranjan Shitole] (https://github.com/ranjan2829)
+- [Anamol Dhakal] (https://github.com/AnamolZ)
 - [Nizam Y Chaudhary] (https://github.com/Nizam9313)
 - [Matthew Lee] (https://github.com/mattyleecifer/)
 - [Manu B M](https://github.com/ManuBM555)
