@@ -1645,6 +1645,7 @@ Rishabh Pandey
 - [Freya Shah](https://github.com/Freya-29)
 - [Pasan Pahasara](https://github.com/Pasan-Pahasara)
 - [Chethas Pv](https://github.com/chethas7)
+- [Azixe](https://github.com/Azixe)
 - [Cyan Cipher](https://github.com/CyanCipher)
 - [Aayush Arora](https://github.com/AroraAayush)
 - [Anand pratap singh](https://github.com/rishu-singh9695)
