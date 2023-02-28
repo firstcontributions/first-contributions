@@ -6,6 +6,7 @@
 - [Nizam Y Chaudhary] (https://github.com/Nizam9313)
 - [Mahmud Karim] (https://github.com/mahmud-karim)
 - [Matthew Lee] (https://github.com/mattyleecifer/)
+- [Mohamed Marzuq](https://github.com/mohamedmarzuq5/)
 - [Manu B M](https://github.com/ManuBM555)
 - [Anietie Brownson](https://github.com/AJBrownson)
 - [Talha Mehar](https://github.com/talhamehar007)
