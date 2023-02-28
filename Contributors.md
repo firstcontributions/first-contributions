@@ -69,6 +69,7 @@
 - [Sergio Thompson](https://github.com/SergioJThompson)
 - [Karthik Goudar](https://github.com/karthikgoudar)
 - [CharlyMech](https://github.com/CharlyMech)
+- [Sylvia Karani](https://github.com/SylviaKarani)
 - [HarishRao](https://github.com/Harishrao13)
 - [GuihVicentini](https://github.com/GuihVicentini)
 - [Janice Thomas](https://github.com/janicethomas)
