@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Vishnu Madharapu] (https://github.com/VishnuMadharapu)
 - [Ranjan Shitole] (https://github.com/ranjan2829)
 - [Anamol Dhakal] (https://github.com/AnamolZ)
 - [Nizam Y Chaudhary] (https://github.com/Nizam9313)
