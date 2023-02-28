@@ -2272,6 +2272,7 @@ Rishabh Pandey
 - [Wai Ho](https://github.com/hevi1991)
 - [Tosin Akinyemi](https://github.com/Tosin77/)
 - [newird](https://github.com/newird/)
+- [newbie677](https://github.com/newbie677/)
 - [Lewis Benson](https://github.com/tm-LBenson)
 - [Harsa Dash](https://github.com/harsadas)
 - [Samar@DevsocPI](https://github.com/canondroid)
