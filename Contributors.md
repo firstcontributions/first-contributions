@@ -2727,3 +2727,4 @@ Ayan Das
 - [Manish Rana](https://github.com/ranamaniz)
 - [Tarun Garg](https://github.com/Tarun110598)
 - [Harishankar Ravindran](https://github.com/jamessmith)
+- [CooperKozitza](https://github.com/CooperKozitza)
