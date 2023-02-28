@@ -2749,6 +2749,7 @@ Ayan Das
 - [Xemio](https://github.com/xemioxd)
 - [7exx](https://github.com/7exx)
 - [Adarsha K S](https://github.com/adarsha83)
+- [Anshul Dewangan](https://github.com/Anshul-04)
 - [Manish Rana](https://github.com/ranamaniz)
 - [Tarun Garg](https://github.com/Tarun110598)
 - [Harishankar Ravindran](https://github.com/jamessmith)
