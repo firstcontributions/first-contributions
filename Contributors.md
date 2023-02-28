@@ -2075,6 +2075,7 @@ Rishabh Pandey
 - [Arpan Adlakhiya](https://github.com/mrr0b0t-0x1)
 - [Nia Ahmed](https://github.com/technialogy)
 - [Jonas Reiher](https://github.com/jonasreiher)
+- [Stuart Bailey](https://github.com/stubailey18)
 - [Bikash yadav](https://github.com/bikashydv)
 - [Sowmya S](https://github.com/sowmya-s-26)
 - [Ananthu AK](https://github.com/akanandhu)
