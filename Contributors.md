@@ -1538,6 +1538,7 @@ Rishabh Pandey
 - [Urvesh Radadiya](https://github.com/URVESH1121)
 - [Jibrin Ahmed](https://github.com/TacetSteeze)
 - [Kely Sarmi](https://github.com/kelysi)
+- [nyx500](https://github.com/nyx500)
 - [Erik Valle](https://github.com/rpogtato)
 - [CDA](https://github.com/devstoriesplayground/)
 - [Boban Krsteski](https://github.com/bkrstesk)
