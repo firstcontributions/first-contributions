@@ -7,6 +7,7 @@
 - [Mahmud Karim] (https://github.com/mahmud-karim)
 - [Matthew Lee] (https://github.com/mattyleecifer/)
 - [Manu B M](https://github.com/ManuBM555)
+- [Himanshu Chauhan](https://github.com/hc011)
 - [Anietie Brownson](https://github.com/AJBrownson)
 - [Talha Mehar](https://github.com/talhamehar007)
 - [Shovan Mallick] (https://github.com/svn41)
