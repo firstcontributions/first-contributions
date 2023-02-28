@@ -111,6 +111,7 @@
 - [Onyedikachi Eni](https://github.com/KindEni)
 - [ahguanz](https://github.com/ahguanz)
   [Vanessa]
+  [Joshua Chaparro] (https://github.com/joshua-chaparro)
   [Om Jee Mishra](https://github.com/om-jee-m)
   [Marcotulio](https://github.com/MarcotulioCA)
 - [Patrick Murimi](https://github.com/grand-rick001)
