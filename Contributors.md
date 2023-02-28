@@ -1098,6 +1098,7 @@ Rishabh Pandey
 - [Praveen Dias](https://github.com/praveendias1180)
 - [Yashkumar Gupta](https://github.com/yashh1234)
 - [Daniel Ervanda](https://github.com/dnd7)
+- [lakesidedev] (https://github.com/lakesidedev)
 - [Lukas de VIPART](https://github.com/Rekch)
 - [Fei](https://github.com/xegg)
 - [R Sathvik]@DevsocPI
