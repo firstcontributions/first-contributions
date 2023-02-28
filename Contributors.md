@@ -16,6 +16,7 @@
 - [Shovan Mallick] (https://github.com/svn41)
 - [Kennedy Muchiri] (https://github.com/muchiri08)
 - [Shirene Boyd] (https://github.com/shirenekboyd)
+- [Nicole Mendoza] (https://github.com/NicAtak)
 - [Nur Akman] (https://github.com/thecodingliva)
 - [Rifky Maulana] (https://github.com/Rifkymaulana)
 - [Dev Abhiram] (https://github.com/Dev-29)
