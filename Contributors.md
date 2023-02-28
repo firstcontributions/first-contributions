@@ -11,6 +11,7 @@
 - [Talha Mehar](https://github.com/talhamehar007)
 - [Shovan Mallick] (https://github.com/svn41)
 - [Kennedy Muchiri] (https://github.com/muchiri08)
+- [Nur Akman] (https://github.com/thecodingliva)
 - [Rifky Maulana] (https://github.com/Rifkymaulana)
 - [Dev Abhiram] (https://github.com/Dev-29)
 - [Derp] (https://github.com/DDeerrpp)
