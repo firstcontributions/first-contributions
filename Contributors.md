@@ -59,6 +59,7 @@
 - [Karl Loza](https://github.com/DrAg0n-BoRn)
 - [Jason Husain](https://github.com/JasonHusain)
 - [maxence98](https://github.com/maxence98)
+- [Tom Powell](https://github.com/Tom2612)
 - [kodingkin]
 - [Xanthium]
 - [Codey Gallup](https://github.com/Codeyg12)
