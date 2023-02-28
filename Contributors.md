@@ -2695,6 +2695,7 @@ Ayan Das
 - [Derick Tolentino](https://github.com/DerickT02)
 - [lemonadeseason](https://github.com/lemonadeseason)
 - [Raul Molina] (https://github.com/RauulDev)
+- [Alec Campos](https://github.com/Ajc1233)
 - [Tijme](https://github.com/7ijme)
 - [Khanh Nguyen] (https://github.com/Dk146)
 - [Łukasz Koziol](https://github.com/SayaS3)
