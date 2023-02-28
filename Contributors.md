@@ -101,6 +101,7 @@
 - [Siddharth Mishra](https://github.com/sid760)
 - [Jayavardhan, Pathella](https://github.com/Jayavardhan108)
 - [Lisa Adams](https://github.com/techwriterlisa)
+- [Abhishek Yadav](https://github.com/abhi-nandan09)
 - [Preetham Mukkara](https://github.com/Preetham-Mukkara)
 - [Jonathan Potter](https://github.com/JonathanDPotter)
 - [Natnael Afework](https://github.com/Nathaniel-af)
