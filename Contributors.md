@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Soumik Saha] (https://github.com/soumik-saha)
 - [Krishnakumar V] (https://github.com/krishkdev)
 - [Lauris Macans] (https://github.com/lauriselvijs)
 - [Ranjan Shitole] (https://github.com/ranjan2829)
