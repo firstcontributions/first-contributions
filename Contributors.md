@@ -64,6 +64,7 @@
 - [kodingkin]
 - [Xanthium]
 - [Codey Gallup](https://github.com/Codeyg12)
+- [Kamal Bisht](https://github.com/bisht-xp)
 - [LomiaW](https://github.com/LomiaW)
 - [Harshit Saini](https://github.com/scholar-2001)
 - [Jonas Krymski](https://github.com/krymskjm)
