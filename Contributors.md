@@ -1,8 +1,8 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Soumik Saha] (https://github.com/soumik-saha)
 - [Krishnakumar V] (https://github.com/krishkdev)
 - [Lauris Macans] (https://github.com/lauriselvijs)
-- [Soumik Saha] (https://github.com/soumik-saha)
 - [Ranjan Shitole] (https://github.com/ranjan2829)
 - [Anamol Dhakal] (https://github.com/AnamolZ)
 - [Nizam Y Chaudhary] (https://github.com/Nizam9313)
