@@ -2000,6 +2000,7 @@ Rishabh Pandey
 - [Shaavi Gupta](https://github.com/ShaaviGupta)
 - [Sai Rohit](https://github.com/sairohit360)
 - [Vrishti Godhwani@DevSocPI]
+- [Tammekand](https://github.com/Tammekand)
 - [Madzang]
 - [James Anyalewechi](https://github.com/jamesgotech)
 - [Dibakar Upadhyaya](https://github.com/Dibakar01)
