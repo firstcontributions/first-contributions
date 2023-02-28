@@ -105,13 +105,14 @@
 - [Dickson Wachai](https://github.com/DicksonWachai)
 - [Andreumagu](https://github.com/andreumagu)
 - [Bernice Owusu Agyeman](https://github.com/berniceoa)
-- [Aaron] (https://github.com/aaron-jpg)
-- [Nabeel Bacchus] (https://github.com/bacchusnabeel)
+- [Aaron](https://github.com/aaron-jpg)
+- [Nabeel Bacchus](https://github.com/bacchusnabeel)
 - [Jeetjyoti Deka](https://github.com/Jeetjyoti-Deka)
 - [Sadman Salim Nipun](https://github.com/nipun333)
   [Chandima Herath] 
 - [Stefano Romanini](https://github.com/St3fan1n1)
 - [V1K1NGbg again lol](https://github.com/V1K1NGbg)
+- [Nathan Rhodes](https://github.com/Meobot)
 - [Edwina Dsouza](https://github.com/edwinadsouza)
 - EDWINA DSOUZA
 - [VulcanWM](https://github.com/VulcanWM)
