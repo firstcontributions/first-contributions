@@ -200,6 +200,7 @@
 - [Di-az](https://github.com/Di-az)
 - [Eva Li]
 - [Diego Nonato](https://github.com/nonatodiego)
+- [Dttrx](https://github.com/Dttrx)
 - [Kristoffer]
 - {Isaac Lolade}(https://github.com/IsaacLolade)
 - [Beltifa Louay](https://github.com/LouayBeltifa)
