@@ -1289,6 +1289,7 @@ Rishabh Pandey
 - [Sai Ram](https://github.com/Saira2002)
 - [Ajmal Wali](https://github.com/ajmal2002)
 - [Theunis Victor](https://github.com/TVictor)
+- [Gordon Joyce](https://github.com/cadanu)
 - [Jeevan Naik](https://github.com/JeevanNaikOP)
 - [Lien Font](https://github.com/90sPixelDev)
 - [Anuhya sabbani](https://github.com/anuhyasabbani)
