@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Krishnakumar V] (https://github.com/krishkdev)
+- [Lauris Macans] (https://github.com/lauriselvijs)
 - [Ranjan Shitole] (https://github.com/ranjan2829)
 - [Anamol Dhakal] (https://github.com/AnamolZ)
 - [Nizam Y Chaudhary] (https://github.com/Nizam9313)
