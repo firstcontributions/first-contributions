@@ -6,6 +6,7 @@
 - [Ranjan Shitole] (https://github.com/ranjan2829)
 - [Anamol Dhakal] (https://github.com/AnamolZ)
 - [Nizam Y Chaudhary] (https://github.com/Nizam9313)
+- [Jason Ritter] (https://github.com/Higokian)
 - [Mahmud Karim] (https://github.com/mahmud-karim)
 - [Matthew Lee] (https://github.com/mattyleecifer/)
 - [Mohamed Marzuq](https://github.com/mohamedmarzuq5/)
