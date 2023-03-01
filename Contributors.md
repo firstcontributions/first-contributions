@@ -6,6 +6,7 @@
 - [Alex McDonald] (https://github.com/AMcDonald12)
 - [Adeisda Leye](https://github.com/usernameisleye)
 - [Krishnakumar V] (https://github.com/krishkdev)
+- [James Ochapa] (https://github.com/Ocee1)
 - [Lauris Macans] (https://github.com/lauriselvijs)
 - [Ranjan Shitole] (https://github.com/ranjan2829)
 - [Anamol Dhakal] (https://github.com/AnamolZ)
