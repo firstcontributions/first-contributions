@@ -21,6 +21,7 @@
 - [Anietie Brownson](https://github.com/AJBrownson)
 - [Talha Mehar](https://github.com/talhamehar007)
 - [Shovan Mallick] (https://github.com/svn41)
+- [Tejus Sahi] (https://github.com/tejus07)
 - [Kennedy Muchiri] (https://github.com/muchiri08)
 - [Shirene Boyd] (https://github.com/shirenekboyd)
 - [Nicole Mendoza] (https://github.com/NicAtak)
