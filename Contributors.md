@@ -1105,6 +1105,7 @@ Rishabh Pandey
 - [Judge-Paul Ogebe](https://github.com/Judge-Paul)
 - [Shinya Yoshida](https://github.com/ShinyaWebDev)
 - [Mahesward](https://github.com/Mahesward)
+- [Tom Rose](https://github.com/T-A-Rose)
 - Ronit Kunkolienker @DevSoc PI
 - [Alvin James Bellero](https://github.com/shiftEscape)
 - [Yididya Andualem](https://github.com/Jeyididya)
