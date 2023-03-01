@@ -262,6 +262,7 @@
 -[Vikas Rathod](https://github.com/vikasrathod4299)
 -[Vivek Khandekar]
 -[Shubham Shrimant](https://github.com/shubhamshrimant)
+-[Yeswanth Sai Inturi]
 -[Håvard Garsrud](https://github.com/HaavGa)
 - [Tridev Verma](https://github.com/tridevVerma)
 -[Pratik Patil](https://github.com/pratikjpatil)
