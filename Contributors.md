@@ -26,6 +26,7 @@
 - [Nur Akman] (https://github.com/thecodingliva)
 - [Rifky Maulana] (https://github.com/Rifkymaulana)
 - [Dev Abhiram] (https://github.com/Dev-29)
+- [Dibyajyoti Ganguly] (https://github.com/Dibyajyoti2002)
 - [Himtome1] (https://github.com/Himtome1))
 - [Derp] (https://github.com/DDeerrpp)
 - [Usama Abdullah](https://github.com/uka7)
