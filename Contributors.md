@@ -482,7 +482,6 @@ Subhajit Bera
 # mansi :)
  -[Prayrit Srivastava](https://github.com/prayrit-srivastava)
   [Reza Mahmoudi](https://github.com/R-Mahmoudi)
-  [Smarpan Sharma](https://github.com/smarpan)
 - [Panzariu Ionut-Adrian](https://github.com/PanzariuAdi)
   [Dhaval R Solanki](https://github.com/Dhaval1421)
 - [Jovan Lanutan](https://github.com/tan911)
