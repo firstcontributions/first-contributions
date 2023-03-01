@@ -15,6 +15,7 @@
 - [Mahmud Karim] (https://github.com/mahmud-karim)
 - [Sheriff Oladimeji] (https://github.com/sheriffOladimeji)
 - [Matthew Lee] (https://github.com/mattyleecifer/)
+- [Natalie OC]  (https://github.com/ocnattie/)
 - [Rohit Jain] (https://github.com/abcrohit)
 - [Sri Aditya] (https://github.com/SriLikesToSing/)
 - [Mohamed Marzuq](https://github.com/mohamedmarzuq5/)
