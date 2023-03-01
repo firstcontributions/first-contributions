@@ -244,6 +244,7 @@
 - [Slater McArdle] (https://github.com/SlaterMcArdle)
 - [Georgios Kakarlis](https://github.com/georgekakarlis)
 - [sam gill]
+- [Kamal Kanti Chakma](https://github.com/kamalchakma1)
 - [Tomas Carrasco] (https://github.com/tomascarrascoo)
 - [Di Liu](https://github.com/liudi4046)
 - [VIBHINN SINGHAL](https://github.com/VibhinnS)
