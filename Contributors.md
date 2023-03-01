@@ -246,6 +246,7 @@
 - Niall Cunningham
 - [Akshay Jagiasi]
 - [Ada Lam]
+- [Tahrour Mustapha Aymen](https://github.com/Aymen-TM)
 - [Exavier Frost]]
 - [Martin Kozár](https://github.com/MartinKjunior)
 - [Harshita Raghu](https://github.com/rnharshee)
