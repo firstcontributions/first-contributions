@@ -11,6 +11,7 @@
 - [Nizam Y Chaudhary] (https://github.com/Nizam9313)
 - [Jason Ritter] (https://github.com/Higokian)
 - [Mahmud Karim] (https://github.com/mahmud-karim)
+- [Sheriff Oladimeji] (https://github.com/sheriffOladimeji)
 - [Matthew Lee] (https://github.com/mattyleecifer/)
 - [Rohit Jain] (https://github.com/abcrohit)
 - [Sri Aditya] (https://github.com/SriLikesToSing/)
