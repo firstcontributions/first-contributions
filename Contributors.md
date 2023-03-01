@@ -35,6 +35,7 @@
 - [Himtome1] (https://github.com/Himtome1))
 - [Derp] (https://github.com/DDeerrpp)
 - [Usama Abdullah](https://github.com/uka7)
+- [Weile Zheng] (https://github.com/Weile-Zheng)
 - [jayendra parmar] (https://github.com/Jp88Programmer)
 - [utkarsh raj] (https://github.com/madtitan02)
 - [Galbeaza Ciprian] (https://github.com/GCipry3)
