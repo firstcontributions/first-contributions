@@ -2785,3 +2785,4 @@ Ayan Das
 - [Ahmed AK.] (https://github.com/Ahmed7AK/first-contributions)
 - [Tooweisiannn] (https://github.com/tooweisiannn)
 - [Abin-Saji] (https://github.com/arice77)
+- [Kartikay](https://github.com/kartikaysaxena)
