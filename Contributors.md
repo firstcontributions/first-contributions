@@ -1742,6 +1742,7 @@ Rishabh Pandey
 - [Nicholas Praimraj](https://github.com/NickPraimraj)
 - [Snigdha Sinha](https://github.com/snigdhaop)
 - [Dibyendu Das](https://github.com/dibyendu02)
+- [Monir Hossain](https://github.com/pi3o1416)
 - [Amilcar Rodriguez](https://github.com/mkhi33)
 - [Norbert Nagy-Seres](https://github.com/NorbertNagySeres)
 - [Megha](https://github.com/SBMegha)
