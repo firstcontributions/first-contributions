@@ -11,6 +11,7 @@
 - [Jason Ritter] (https://github.com/Higokian)
 - [Mahmud Karim] (https://github.com/mahmud-karim)
 - [Matthew Lee] (https://github.com/mattyleecifer/)
+- [Rohit Jain] (https://github.com/abcrohit)
 - [Sri Aditya] (https://github.com/SriLikesToSing/)
 - [Mohamed Marzuq](https://github.com/mohamedmarzuq5/)
 - [Manu B M](https://github.com/ManuBM555)
