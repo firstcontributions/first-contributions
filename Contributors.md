@@ -4,6 +4,7 @@
 - [Soumik Saha] (https://github.com/soumik-saha)
 - [Privilege Mendes] (https://github.com/privilegemendes)
 - [Alex McDonald] (https://github.com/AMcDonald12)
+- [Adeisda Leye](https://github.com/usernameisleye)
 - [Krishnakumar V] (https://github.com/krishkdev)
 - [Lauris Macans] (https://github.com/lauriselvijs)
 - [Ranjan Shitole] (https://github.com/ranjan2829)
