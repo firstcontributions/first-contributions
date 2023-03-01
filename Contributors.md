@@ -242,6 +242,7 @@
 - [Akshay Jagiasi]
 - [Ada Lam]
 - [Exavier Frost]]
+- [Martin Kozár](https://github.com/MartinKjunior)
 - [Harshita Raghu](https://github.com/rnharshee)
 - [Slater McArdle] (https://github.com/SlaterMcArdle)
 - [Georgios Kakarlis](https://github.com/georgekakarlis)
