@@ -520,7 +520,6 @@ Subhajit Bera
 - [Kundan Singh](https://github.com/kundan1209)
 - [Jamako](https://github.com/RealJamako)
 - [Justin Lam](https://github.com/justinlam1)
-- [Swayam Khare](https://github.com/Swayam-Khare)
 - [Soham Roy](https://github.com/SohamRoy-01)
 - [Shubham Wadne](https://github.com/ShubhamWadne)
 - [Sierra Nash](https://github.com/sasianan19)
