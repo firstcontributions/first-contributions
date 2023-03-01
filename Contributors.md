@@ -649,6 +649,7 @@ Subhajit Bera
 - [Simon Whelan](https://github.com/siwhelan)
 - [Suraj Manandhar](https://github.com/jarusman)
 - [kushal Punem](https://github.com/kushal-punem)
+- [Kartik Tirupati Reddy](https://github.com/kartikreddy18)
 - [Amanuil Boku](https://github.com/amanuil)
 - [Reid Gubler](https://github.com/reidemption)
 - [Aditya Patel](https://github.com/cacti23)
