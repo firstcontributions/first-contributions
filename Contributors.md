@@ -97,6 +97,9 @@
 - [CharlyMech](https://github.com/CharlyMech)
 - [Sylvia Karani](https://github.com/SylviaKarani)
 - [HarishRao](https://github.com/Harishrao13)
+
+- [Kyle Balian](https://github.com/LeetestOfCodes)
+
 - [GuihVicentini](https://github.com/GuihVicentini)
 - [Janice Thomas](https://github.com/janicethomas)
 - [Chris Park] (https://github.com/cjunkin)
