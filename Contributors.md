@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 - [Siddhant Patil] (https://github.com/Sid-Pat)
 - [Soumik Saha] (https://github.com/soumik-saha)
+- [Privilege Mendes] (https://github.com/privilegemendes)
 - [Alex McDonald] (https://github.com/AMcDonald12)
 - [Krishnakumar V] (https://github.com/krishkdev)
 - [Lauris Macans] (https://github.com/lauriselvijs)
