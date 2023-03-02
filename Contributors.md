@@ -146,6 +146,7 @@
   [Om Jee Mishra](https://github.com/om-jee-m)
   [Marcotulio](https://github.com/MarcotulioCA)
 - [Patrick Murimi](https://github.com/grand-rick001)
+- [Meitavelo Kayofa](https://github.com/primeking47)
 - [Dickson Wachai](https://github.com/DicksonWachai)
 - [Andreumagu](https://github.com/andreumagu)
 - [Bernice Owusu Agyeman](https://github.com/berniceoa)
