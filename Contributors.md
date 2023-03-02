@@ -24,6 +24,7 @@
 - [Himanshu Chauhan](https://github.com/hc011)
 - [Anietie Brownson](https://github.com/AJBrownson)
 - [Talha Mehar](https://github.com/talhamehar007)
+- [Md Daud](https://github.com/daud0x0)
 - [Shovan Mallick] (https://github.com/svn41)
 - [Tejus Sahi] (https://github.com/tejus07)
 - [Kennedy Muchiri] (https://github.com/muchiri08)
