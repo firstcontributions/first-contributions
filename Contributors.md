@@ -47,6 +47,7 @@
 - [5.H.4.D.0.W](https://github.com/QuintusJoyal) 🖖  
 - [MAHESH KUMAR 🙄](https://github.com/krmahi)
 - [Yali Kagan] (https://github.com/yalikagan1)
+- [Shuvajit Mahanta] (https://github.com/Shuva15)🙏
 - [Hugo Serra] (https://github.com/NoObX17)
 - [Aman Chauhan](https://github.com/Aman-JR)
 - [Matheus de Alcântara] (https://github.com/thecobsb)
