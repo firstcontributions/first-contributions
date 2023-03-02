@@ -9,6 +9,7 @@
 - [Sanjiv Pansari](https://github.com/spansari)
 - [Krishnakumar V] (https://github.com/krishkdev)
 - [James Ochapa] (https://github.com/Ocee1)
+- [Emily Lubkert] (https://github.com/emilylubkert)
 - [Lauris Macans] (https://github.com/lauriselvijs)
 - [Ranjan Shitole] (https://github.com/ranjan2829)
 - [Anamol Dhakal] (https://github.com/AnamolZ)
