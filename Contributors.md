@@ -86,6 +86,7 @@
 - [Harshit Jain](https://github.com/Harshit28j)
 - [Alex Smith] (https://github.com/alexsmithdev)
 - [Joaquin](https://github.com/Hoakin24)
+- [Saleh Taghizadeh](https://github.com/saleh-taghizadeh)
 - [Jakcw](https://github.com/jakcw)
 - [Karl Loza](https://github.com/DrAg0n-BoRn)
 - [Jason Husain](https://github.com/JasonHusain)
