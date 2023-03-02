@@ -6,6 +6,7 @@
 - [Soumik Saha] (https://github.com/soumik-saha)
 - [Privilege Mendes] (https://github.com/privilegemendes)
 - [Alex McDonald] (https://github.com/AMcDonald12)
+- [Roman Potapov] (https://github.com/potap75
 - [Adeisda Leye](https://github.com/usernameisleye)
 - [Abhinav Tyagi] (https://github.com/abhityagi12)
 - [Sanjiv Pansari](https://github.com/spansari)
