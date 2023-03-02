@@ -209,6 +209,7 @@
 - [Sushil Bhandari](https://github.com/sushil-rgb)
 - [Vaibhav Chauhan] (https://github.com/vibenr)
 - [Josh Needleman] (https://github.com/JNeed)
+- [Traviathan] (https://github.com/traviathan)
 - [Ivan Mizz]
 - [PramodhTVK]
 - [Tushar Gupta](https://github.com/tushar-corbic)
