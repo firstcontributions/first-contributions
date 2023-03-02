@@ -526,6 +526,7 @@ Subhajit Bera
 - [Shubham Wadne](https://github.com/ShubhamWadne)
 - [Sierra Nash](https://github.com/sasianan19)
 - [Pranav Joshi](https://github.com/PranavJoshi2893)
+- [Sondre](https://github.com/sondre13531)
 - [Yaseen Khan](https://github.com/Ykhan799)
 - [Kaleb Bär](https://github.com/kalebaer)
 - [Tim Tscheppe](https://github.com/Tim-Tscheppe)
