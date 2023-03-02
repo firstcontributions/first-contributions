@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Raihan Shezan] (https://github.com/RaihanShezan)
 - [Siddhant Patil] (https://github.com/Sid-Pat)
 - [Soumik Saha] (https://github.com/soumik-saha)
 - [Privilege Mendes] (https://github.com/privilegemendes)
