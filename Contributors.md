@@ -1504,7 +1504,7 @@ Rishabh Pandey
 - [Neelesh Aggarwal](https://github.com/AggarwalNeelesh)
 - [Maximiliano Carrasco](https://github.com/macsito-prog)
 - [Koen Bloemen](https://github.com/bloemenk)
-- [Xiaofei Zhong](https://githubm.com/zand951)
+- [Xiaofei Zhong](https://github.com/zand951)
 - [nicocarcamo](https://github.com/nicocarcamo)
 - [Sandip Tiwari](https://github.com/Sandip-Tiwari-435)
 - [Sarthak Mittal](https://github.com/SarthakMittal777)
