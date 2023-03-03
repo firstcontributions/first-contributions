@@ -193,6 +193,7 @@
 - [Atul Tiwaree](https://github.com/atultiwaree)
 - [Aaron Russell](https://github.com/aaronjrussell)
 - [Steven Walker](https://github.com/stevenwalker91)
+- [Ivandro Cesar](https://github.com/ivandro-cesar)
 - [Pratima Adhikari](https://github.com/Prateema1)
 - [Ethan Kuhrts](https://github.com/ethankuhrts)
 - [Gavin D'mello](https://github.com/GavinDmello97)
