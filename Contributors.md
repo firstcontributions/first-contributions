@@ -2020,6 +2020,7 @@ Rishabh Pandey
 - [Taaki](https://github.com/taaki2311)
 - [Vidit Jain @DevSocPI](https://github.com/ViditJain123)
 - [kaushalgosaliya5](https://github.com/kaushalgosaliya5)
+- [vigasselvan](https://github.com/vigasselvan)
 - [BerkYumuk]
 - [Jo-SungJun](https://github.com/Jo-SungJun)
 - [Samvardhan](https://github.com/samvardhan777)
