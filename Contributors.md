@@ -57,6 +57,7 @@
 - [utkarsh raj] (https://github.com/madtitan02)
 - [Galbeaza Ciprian] (https://github.com/GCipry3)
 - [Michel Metran] (https://github.com/MichelMetran) 
+- [Gbemisola Adekoya](https://github.com/thegbemisola)
 - [5.H.4.D.0.W](https://github.com/QuintusJoyal) 🖖  
 - [MAHESH KUMAR 🙄](https://github.com/krmahi)
 - [Yali Kagan] (https://github.com/yalikagan1)
