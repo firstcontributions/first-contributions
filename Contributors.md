@@ -9,6 +9,7 @@
 - [Alex McDonald] (https://github.com/AMcDonald12)
 - [Roman Potapov] (https://github.com/potap75
 - [Adeisda Leye](https://github.com/usernameisleye)
+- [André Yano] (https://github.com/yanohue)
 - [Abhinav Tyagi] (https://github.com/abhityagi12)
 - [Sanjiv Pansari](https://github.com/spansari)
 - [Lee Eros Galaad Dias de Moura](https://github.com/LeeEros)
