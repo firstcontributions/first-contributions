@@ -38,6 +38,7 @@
 - [Talha Mehar](https://github.com/talhamehar007)
 - [Md Daud](https://github.com/daud0x0)
 - [Shovan Mallick] (https://github.com/svn41)
+- [Fabiano Alves] (https://github.com/FabianoAlves-Projects)
 - [Tejus Sahi] (https://github.com/tejus07)
 - [Kennedy Muchiri] (https://github.com/muchiri08)
 - [Shirene Boyd] (https://github.com/shirenekboyd)
