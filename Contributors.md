@@ -22,6 +22,7 @@
 - [Jason Ritter] (https://github.com/Higokian)
 - [Mahmud Karim] (https://github.com/mahmud-karim)
 - [Sheriff Oladimeji] (https://github.com/sheriffOladimeji)
+- [David Kröni Júnior] (https://github.com/davidkjr/davidkjr)
 - [Matthew Lee] (https://github.com/mattyleecifer/)
 - [Natalie OC]  (https://github.com/ocnattie/)
 - [Rohit Jain] (https://github.com/abcrohit)
