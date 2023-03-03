@@ -2829,3 +2829,7 @@ Ayan Das
 - [Hao-Jung Chen](https://github.com/haojungc)
 - [melethron](https://github.com/melethron)
 - [Neeraj Yadav](https://github.com/NeerajYadav31)
+- [Armstrong-Wechorkowski](https://github.com/wechorkowski)
+- [SaDi-BRo](https://github.com/SaDi-BRo)
+- [jeremie.wav](https://github.com/https://github.com/jeremieemk/)
+- [szj](https://github.com/szj-coder)
