@@ -17,6 +17,7 @@
 - [Dylan Clarry](https://github.com/Dylan-Clarry)
 - [Sreenadh Singamaneni](https://github.com/SreenadhSingamaneni)
 - [zsgg](https://github.com/zsgg)
+- [juanmagb8d](https://github.com/juanmagb8d)
 - [Nico Kemp](https://github.com/njrkemp1/)
 - [Ali Rasouli]
 - [Abhijit More]
