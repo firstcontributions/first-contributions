@@ -8,6 +8,7 @@
 - [Siddhant Patil] (https://github.com/Sid-Pat)
 - [Soumik Saha] (https://github.com/soumik-saha)
 - [Privilege Mendes] (https://github.com/privilegemendes)
+- [Jason Bodzy] (https://github.com/jasonbodzy)
 - [Alex McDonald] (https://github.com/AMcDonald12)
 - [Roman Potapov] (https://github.com/potap75
 - [Adeisda Leye](https://github.com/usernameisleye)
