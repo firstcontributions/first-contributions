@@ -617,6 +617,7 @@ Subhajit Bera
 - Sudhanshu Rai
 - Ankit R Borude
 - [Marco Castrita](https://github.com/Mcast77)
+- [Jheison Novak](https://github.com/JheisonKavon)
 - [Deep Makadiya](https://github.com/mac-deep)
 - [Rithick Chowdhury](https://github.com/Rithick69)
 - [Hamdi Vazim](https://github.com/hamdivazim)
