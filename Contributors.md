@@ -10,6 +10,7 @@
 - [Adeisda Leye](https://github.com/usernameisleye)
 - [Abhinav Tyagi] (https://github.com/abhityagi12)
 - [Sanjiv Pansari](https://github.com/spansari)
+- [Lee Eros Galaad Dias de Moura](https://github.com/LeeEros)
 - [Luke Wardle] (https://github.com/LukeWardle)
 - [Krishnakumar V] (https://github.com/krishkdev)
 - [James Ochapa] (https://github.com/Ocee1)
