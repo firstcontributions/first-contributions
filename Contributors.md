@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Aryan Karayi] (https://github.com/aryankarayi)
+  [Matheus]
 - [Raihan Shezan] (https://github.com/RaihanShezan)
 - [Siddhant Patil] (https://github.com/Sid-Pat)
 - [Soumik Saha] (https://github.com/soumik-saha)
