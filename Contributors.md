@@ -28,6 +28,7 @@
 - [Sheriff Oladimeji] (https://github.com/sheriffOladimeji)
 - [Matthew Lee] (https://github.com/mattyleecifer/)
 - [Natalie OC]  (https://github.com/ocnattie/)
+- [cx-olquinjica] (https://github.com/cx-olquinjica)
 - [Rohit Jain] (https://github.com/abcrohit)
 - [Estela Miria Kulibaba] (https://github.com/miriestela)
 - [Valdenir Telesca] (https://github.com/Valdenir-Telesca)
