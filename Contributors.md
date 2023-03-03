@@ -4,6 +4,7 @@
 - [Ankitjt] (https://github.com/ankitjt)
   [Matheus]
 - [Raihan Shezan] (https://github.com/RaihanShezan)
+- [Farooq Javed] (https://github.com/farooqjaved)
 - [Siddhant Patil] (https://github.com/Sid-Pat)
 - [Soumik Saha] (https://github.com/soumik-saha)
 - [Privilege Mendes] (https://github.com/privilegemendes)
