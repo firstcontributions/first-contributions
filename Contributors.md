@@ -14,6 +14,7 @@
 - [Luke Wardle] (https://github.com/LukeWardle)
 - [Krishnakumar V] (https://github.com/krishkdev)
 - [James Ochapa] (https://github.com/Ocee1)
+- [Riley Livingston] (https://github.com/Riley-livingston)
 - [Emily Lubkert] (https://github.com/emilylubkert)
 - [Lauris Macans] (https://github.com/lauriselvijs)
 - [Ranjan Shitole] (https://github.com/ranjan2829)
