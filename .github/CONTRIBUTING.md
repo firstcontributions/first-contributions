@@ -32,6 +32,7 @@ If you're making changes to a translation, please request a review from our prev
 | Galego | [Galician](../translations/README.gl.md) | [<img width="100" src="https://avatars1.githubusercontent.com/u/16878891?s=460&v=4" alt="@siderio2" />](https://github.com/siderio2) |
 | Greek | [Greek](../translations/README.gr.md) | []() |
 | Gujarati | [Gujarati](../translations/README.guj.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/38134283?s=460&v=4" alt="@smitgajjar" />](https://github.com/smitgajjar) |
+| davidkjr | [Brasil - IFPR]
 | Hausa | [Hausa](../translations/README.ha.md) | []() |
 | עברית | [Hebrew](../translations/README.hb.md) | [<img width="100" src="https://avatars1.githubusercontent.com/u/23402988?s=460&v=4" alt="@TomerPacific" />](https://github.com/TomerPacific) |
 | हिन्दी | [Hindi](../translations/README.hi.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/4654382?s=460&v=4" alt="@arshadkazmi42" />](https://github.com/arshadkazmi42) [<img width="100" src="https://avatars2.githubusercontent.com/u/7047079?s=460&v=4" alt="@sara-02" />](https://github.com/sara-02) [<img width="100" src="https://avatars.githubusercontent.com/u/20799404?v=4" alt="shrut1996" />](https://github.com/shrut1996) |
