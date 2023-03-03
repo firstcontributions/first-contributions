@@ -72,6 +72,7 @@
 - [Arthur Okonkwo](https://github.com/arthurokonkwo)
 - [Clo]
 - [TariqAziz](https://github.com/Tariq-AQ)
+- [AlisonCardoso](https://github.com/AlisonCardoso)
 - [Rounak Shrivastav](https://github.com/Rounakshrivastav)
 - [Manjusha Nair](https://github.com//manjushabnair)
 - [Dharmateja176](https://github.com/Dharmateja176)
