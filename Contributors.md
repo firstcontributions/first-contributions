@@ -178,6 +178,7 @@
 - [Sreenadh Singamaneni](https://github.com/SreenadhSingamaneni)
 - [Vikrant Pradhan](https://github.com/vikrant0017)
 - [zsgg](https://github.com/zsgg)
+- [juanmagb8d](https://github.com/juanmagb8d)
 - [Nico Kemp](https://github.com/njrkemp1/)
 - [Rajesh Chavan](https://github.com/Rajesh007/)
 - [ervinaservinas](https://github.com/ervinaservinas)
