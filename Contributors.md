@@ -372,6 +372,7 @@
 - [Sammy Kittendorf](https://github.com/Skitten168)
 - [Bheeshmasena](https://github.com/BheeshmasenaReddy)
 - [ytian]
+- [Edivan Masepa](https://github.com/EdivanMasepa)
 - [Canvas02](https://github.com/Canvas02)
 - [Ankit Saurabh](https://github.com/justacsguy/)
 - [Akilesh Mahesh](https://github.com/Akilesh09)
