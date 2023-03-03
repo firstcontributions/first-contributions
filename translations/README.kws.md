@@ -26,10 +26,10 @@ Futa repo hii kwa kubonyeza kifungo cha fakia juu ya ukurasa huu. Hii itaunda na
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Sasa fungia repo iliyofungwa kwa mashine yako. Nenda kwenye akaunti yako ya GitHub, kufungua repo iliyofungwa, bonyeza kitufe cha kamba na kisha bofya nakala kwenye clipboard.
+Sasa fungia repo iliyofunguliwa kwa mashine yako. Nenda kwenye akaunti yako ya GitHub, kufungua repo iliyofunguliwa, bonyeza kitufe cha kamba na kisha bofya nakala kwenye clipboard.
 
 
-Fungua terminal na uendesha amri yafuatayo:
+Fungua terminal na andika amri yafuatayo:
 
 ```
 git clone "url you just copied"
@@ -45,7 +45,7 @@ Kwa mfano:
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-wapi `this-is-you` jina lako la mtumiaji GitHub. Hapa unakili nakala ya maudhui ya kwanza ya michango kwenye GitHub kwenye kompyuta yako.
+wapi `this-is-you` jina lako la akaunti yako ya GitHub. Hapa unakili nakala ya maudhui ya kwanza ya michango kwenye GitHub kwenye kompyuta yako.
 
 ## Unda tawi
 
@@ -79,7 +79,7 @@ Sasa fungua `Contributors.md` faili katika mhariri wa maandishi, uongeze jina la
 Ikiwa unakwenda kwenye saraka ya mradi na kutekeleza amri `git status`, utaona kuna mabadiliko.
 
 
-Ongeza mabadiliko hayo kwenye tawi ulilojenga kwa kutumia `git add` amri:
+Ongeza mabadiliko hayo kwenye tawi ulilojenga kwa kuandika amri `git add` :
 
 ```
 git add Contributors.md
