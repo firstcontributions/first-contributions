@@ -2829,6 +2829,7 @@ Ayan Das
 - [Ahmed AK.] (https://github.com/Ahmed7AK/first-contributions)
 - [Tooweisiannn] (https://github.com/tooweisiannn)
 - [Abin-Saji] (https://github.com/arice77)
+- [amit-goldblatt] (https://github.com/Amit-Goldblatt)
 - [Kartikay](https://github.com/kartikaysaxena)
 - [Alberto Silvestri](https://github.com/albesibbe)
 - [Ayush Desai](https://github.com/updwnheadlights)
