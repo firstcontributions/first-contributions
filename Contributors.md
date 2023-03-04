@@ -1020,6 +1020,7 @@ Subhajit Bera
 - [Abel Diress](https://github.com/abeldiress)
 - [Gopal Pandey](https://github.com/Ahamasmi)
 - [RichGod Usen](https://github.com/RichGod93)
+- [Oon Yu Yang](https://github.com/Isomorpfishm)
 - [Aryan Bansal @devsocPI]
 - [Neha Menon@DevSocPI](https://github.com/thenehamenon)
 - [Ronnie Hentry](https://github.com/ronnieHentry)
