@@ -21,6 +21,7 @@
 - [Luke Wardle] (https://github.com/LukeWardle)
 - [Krishnakumar V] (https://github.com/krishkdev)
 - [James Ochapa] (https://github.com/Ocee1)
+- [James Smead] (https://github.com/jsmead39)
 - [Riley Livingston] (https://github.com/Riley-livingston)
 - [Quentin Ng] (https://github.com/kwantaing)
 - [Emily Lubkert] (https://github.com/emilylubkert)
