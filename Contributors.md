@@ -1774,6 +1774,7 @@ Rishabh Pandey
 - [Ritwika Das](www.linkedin.com/in/ritwika-das-1510a4207)
 - [Matt King](https://github.com/imattking)
 - [Anya McDonald](https://github.com/anyahush)
+- [Neul](https://github.com/neul-lw)
 - [Vitor Magnago](https://github.com/vitormagnago)
 - [Kartik Kumar](https://github.com/yellowterrum)
 - [Yoseph Winata](https://github.com/arkhamvillain)
