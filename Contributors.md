@@ -919,6 +919,7 @@ Subhajit Bera
 - Aryan 
 - Leon
 - Prajwal Haniya
+- [Kristina Migel](https://github.com/kmigel)
 - [Kyung Lee](https://github.com/kjlee88)
 - [Aarish Khan](https://github.com/aarishmkhan)
 - [Luca Farina](https://github.com/LucaFarina)
