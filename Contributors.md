@@ -175,7 +175,7 @@
 - [Dickson Wachai](https://github.com/DicksonWachai)
 - [Andreumagu](https://github.com/andreumagu)
 - [Bernice Owusu Agyeman](https://github.com/berniceoa)
-- [Aron] (https://github.com/aaron-jpg)
+- [Aaron] (https://github.com/aaron-jpg)
 - [Nabeel Bacchus] (https://github.com/bacchusnabeel)
 - [Jeetjyoti Deka](https://github.com/Jeetjyoti-Deka)
 - [Sadman Salim Nipun](https://github.com/nipun333)
