@@ -28,6 +28,7 @@
 - [Emily Lubkert] (https://github.com/emilylubkert)
 - [Lauris Macans] (https://github.com/lauriselvijs)
 - [Ranjan Shitole] (https://github.com/ranjan2829)
+- [Petar Petrovic] (https://github.com/GameExplorer)
 - [Anamol Dhakal] (https://github.com/AnamolZ)
 - [Alex Murillo] (https://github.com/emergency22)
 - [Elijah Zimmerman] (https://github.com/arcaneJesus)
