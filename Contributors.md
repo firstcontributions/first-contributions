@@ -124,6 +124,7 @@
 - [maxence98](https://github.com/maxence98)
 - [Tom Powell](https://github.com/Tom2612)
 - [kodingkin]
+- [akele-guzay]
 - [Xanthium]
 - [Codey Gallup](https://github.com/Codeyg12)
 - [Kamal Bisht](https://github.com/bisht-xp)
