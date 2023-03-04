@@ -1608,6 +1608,7 @@ Rishabh Pandey
 - [Sarthak Jain@DevsocPI]
 - [Jalebium69](https://github.com/jesherjoshua)
 - [marioluiss](https://github.com/MarioLuiss)
+- [Andres Santiago](https://github.com/Andres-L-Santiago)
 - [Emmanuel Palacios](https://github.com/EmmaPalacios)
 - [Bojidar Vladimirov](https://github.com/BojidarV)
 - [Cocozin13](https://github.com/Cocozin13)
