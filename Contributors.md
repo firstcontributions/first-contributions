@@ -13,6 +13,7 @@
 - [Alex McDonald] (https://github.com/AMcDonald12)
 - [Roman Potapov] (https://github.com/potap75
 - [Adeisda Leye](https://github.com/usernameisleye)
+- [Måns Abrahamsson](https://github.com/pad918)
 - [André Yano] (https://github.com/yanohue)
 - [Abhinav Tyagi] (https://github.com/abhityagi12)
 - [Carlos Goncalves] (https://github.com/ogqoda)
