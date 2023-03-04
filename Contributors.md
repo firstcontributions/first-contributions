@@ -13,7 +13,6 @@
 - [Alex McDonald] (https://github.com/AMcDonald12)
 - [Roman Potapov] (https://github.com/potap75
 - [Adeisda Leye](https://github.com/usernameisleye)
-- [Måns Abrahamsson](https://github.com/pad918)
 - [André Yano] (https://github.com/yanohue)
 - [Abhinav Tyagi] (https://github.com/abhityagi12)
 - [Carlos Goncalves] (https://github.com/ogqoda)
@@ -1775,7 +1774,6 @@ Rishabh Pandey
 - [Ritwika Das](www.linkedin.com/in/ritwika-das-1510a4207)
 - [Matt King](https://github.com/imattking)
 - [Anya McDonald](https://github.com/anyahush)
-- [Neul](https://github.com/neul-lw)
 - [Vitor Magnago](https://github.com/vitormagnago)
 - [Kartik Kumar](https://github.com/yellowterrum)
 - [Yoseph Winata](https://github.com/arkhamvillain)
@@ -2848,4 +2846,6 @@ Ayan Das
 - [SaDi-BRo](https://github.com/SaDi-BRo)
 - [jeremie.wav](https://github.com/https://github.com/jeremieemk/)
 - [szj](https://github.com/szj-coder)
-- [DreemurDat] (https://github.com/dreemurgithub)
+- [DreemurDat](https://github.com/dreemurgithub)
+- [DreemurDat2](https://github.com/dreemurgithub)
+
