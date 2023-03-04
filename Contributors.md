@@ -67,6 +67,7 @@
 - [jayendra parmar] (https://github.com/Jp88Programmer)
 - [utkarsh raj] (https://github.com/madtitan02)
 - [Galbeaza Ciprian] (https://github.com/GCipry3)
+- [Jurriaan Buitenweg] (https://github.com/Guthax)
 - [Michel Metran] (https://github.com/MichelMetran) 
 - [Gbemisola Adekoya](https://github.com/thegbemisola)
 - [5.H.4.D.0.W](https://github.com/QuintusJoyal) 🖖  
