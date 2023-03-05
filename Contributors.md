@@ -252,6 +252,7 @@
   [Tech Lateef]
 - [Jester Domingo]
 - [Gad Cooper] (https://github.com/SpyingEnvelope)
+- [FerixFTW] (https://github.com/FerixFTW)
 - [Tyler Beitel]
 - [Morgan Smith]
 - [Piyush Yadav](https://github.com/piyushyadav1617)
