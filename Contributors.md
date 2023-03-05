@@ -726,6 +726,7 @@ Subhajit Bera
 - [ Ankan Dutta ](https://github.com/FullMetalChains)
 - [Suryansh Upadhyay](https://github.com/linneszyx)
 - [Kanwal Mehreen](https://github.com/kawiiii)
+- [Shashank Dwivedi](https://github.com/Imshk)
 - [Adilet Berdibekov](https://github.com/berdibekovadilet)
 - [Serge Basa](https://github.com/stikkas)
 - [Shreya Suthar](https://github.com/shreyasuthar655)
