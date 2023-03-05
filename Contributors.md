@@ -1814,6 +1814,7 @@ Rishabh Pandey
 - [Dibyendu Das](https://github.com/dibyendu02)
 - [Monir Hossain](https://github.com/pi3o1416)
 - [Amilcar Rodriguez](https://github.com/mkhi33)
+- [Ama](https://github.com/lostintheramen)
 - [Norbert Nagy-Seres](https://github.com/NorbertNagySeres)
 - [Megha](https://github.com/SBMegha)
 - [Watson](https://github.com/watsoningosi)
@@ -1833,6 +1834,7 @@ Rishabh Pandey
 - [Pradyumn](https://github.com/Hannibal404)
 - [Tharun Kumar](https://github.com/tharunk1705)
 - [Utku Çamlıdağ](https://github.com/UtkuCmldg)
+- [Ama](https://github.com/lostintheramen)
 - [Suchit Deshmukh](https://github.com/suchitd11)
 - [Sara Sancliment](https://github.com/sasn6970)
 - [Kemkhaeng]
@@ -2878,4 +2880,3 @@ Ayan Das
 - [Yordan Todorov](https://github.com/eeyoretheman)
 - [Joseph Cobrador](https://github.com/coby4)
 - [Shubham Chandore](https://github.com/ShubhamChandore)
-- [Benny Taccardi](https://github.com/bennytaccardi)
