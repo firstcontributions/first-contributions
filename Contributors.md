@@ -2329,6 +2329,7 @@ Rishabh Pandey
 - [Ryo Muta](https://github.com/r-mutax)
 - [Murilo Barbosa](https://github.com/murilodab)
 - [Laura Clark](https://github.com/lcmaximum)
+- [Laurat Hajrullaaga](https://github.com/laurathaga)
 - [Hiruna-Kumara](https://github.com/Hiruna-Kumara)
 - [Aman Kumar Pandey](https://github.com/amanpandey2101)
 - [Patil 2104](https://github.com/patil2104)
