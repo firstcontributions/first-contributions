@@ -1,7 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Aryan Karayi] (https://github.com/aryankarayi)
-- [Navi Singh Gamer] (https://github.com/navisinghgamer)
+- [Navi Singh](https://github.com/navisinghgamer)
 - [Ankitjt] (https://github.com/ankitjt)
   [Matheus]
   [Oscar Juarez] (https://github.com/OscarJO20)
