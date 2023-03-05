@@ -5,6 +5,7 @@
 - [Aryan Karayi] (https://github.com/aryankarayi)
 - [Ankitjt] (https://github.com/ankitjt)
 - [Matheus]
+- [Deepika Indran](https://github.com/deepiikaa24)
 - [Oscar Juarez] (https://github.com/OscarJO20)
 - [Ivan] (https://github.com/ivazin)
 - [Vanessa Cheang] https://github.com/vanessacci)
@@ -25,6 +26,7 @@
 - [Sanjiv Pansari](https://github.com/spansari)
 - [Lee Eros Galaad Dias de Moura](https://github.com/LeeEros)
 - [Luke Wardle] (https://github.com/LukeWardle)
+- [Peter Ludwig] (https://github.com/peterdanludwig)
 - [Krishnakumar V] (https://github.com/krishkdev)
 - [James Ochapa] (https://github.com/Ocee1)
 - [James Smead] (https://github.com/jsmead39)
@@ -2873,3 +2875,4 @@
 - [Nadya Sv] (https://github.com/nadsv)
 - [Yordan Todorov](https://github.com/eeyoretheman)
 - [Joseph Cobrador](https://github.com/coby4)
+- [Shubham Chandore](https://github.com/ShubhamChandore)
