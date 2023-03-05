@@ -23,6 +23,7 @@
 - [Sanjiv Pansari](https://github.com/spansari)
 - [Lee Eros Galaad Dias de Moura](https://github.com/LeeEros)
 - [Luke Wardle] (https://github.com/LukeWardle)
+- [Peter Ludwig] (https://github.com/peterdanludwig)
 - [Krishnakumar V] (https://github.com/krishkdev)
 - [James Ochapa] (https://github.com/Ocee1)
 - [James Smead] (https://github.com/jsmead39)
