@@ -57,6 +57,7 @@
 - [Shirene Boyd] (https://github.com/shirenekboyd)
 - [Nicole Mendoza] (https://github.com/NicAtak)
 - [Nur Akman] (https://github.com/thecodingliva)
+- [Luiz Carlos Jr] (https://github.com/lcsjunior)
 - [Rifky Maulana] (https://github.com/Rifkymaulana)
 - [Dev Abhiram] (https://github.com/Dev-29)
 - [Dibyajyoti Ganguly] (https://github.com/Dibyajyoti2002)
