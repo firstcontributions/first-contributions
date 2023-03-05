@@ -169,6 +169,7 @@
 - [Lisa Adams](https://github.com/techwriterlisa)
 - [Abhishek Yadav](https://github.com/abhi-nandan09)
 - [Preetham Mukkara](https://github.com/Preetham-Mukkara)
+- [Zdenek Petracek] (https://github.com/PH03NiX9) 
 - [Jonathan Potter](https://github.com/JonathanDPotter)
 - [Natnael Afework](https://github.com/Nathaniel-af)
 - [Onyedikachi Eni](https://github.com/KindEni)
