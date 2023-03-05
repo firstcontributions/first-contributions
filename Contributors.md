@@ -2877,3 +2877,4 @@ Ayan Das
 - [Yordan Todorov](https://github.com/eeyoretheman)
 - [Joseph Cobrador](https://github.com/coby4)
 - [Shubham Chandore](https://github.com/ShubhamChandore)
+- [Benny Taccardi](https://github.com/bennytaccardi)
