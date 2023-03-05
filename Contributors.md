@@ -3,6 +3,7 @@
 - [Aryan Karayi] (https://github.com/aryankarayi)
 - [Ankitjt] (https://github.com/ankitjt)
   [Matheus]
+  [Deepika Indran](https://github.com/deepiikaa24)
   [Oscar Juarez] (https://github.com/OscarJO20)
 - [Ivan] (https://github.com/ivazin)
 - [Vanessa Cheang] https://github.com/vanessacci)
