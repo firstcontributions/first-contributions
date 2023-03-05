@@ -3,9 +3,13 @@
 - [Aryan Karayi] (https://github.com/aryankarayi)
 - [Ankitjt] (https://github.com/ankitjt)
   [Matheus]
+  [Deepika Indran](https://github.com/deepiikaa24)
   [Oscar Juarez] (https://github.com/OscarJO20)
 - [Ivan] (https://github.com/ivazin)
+- [Vanessa Cheang] https://github.com/vanessacci)
 - [Raihan Shezan] (https://github.com/RaihanShezan)
+- [Arshad Sheik]
+- [PRINCE DOSHI]
 - [Farooq Javed] (https://github.com/farooqjaved)
 - [Siddhant Patil] (https://github.com/Sid-Pat)
 - [Soumik Saha] (https://github.com/soumik-saha)
@@ -21,6 +25,7 @@
 - [Sanjiv Pansari](https://github.com/spansari)
 - [Lee Eros Galaad Dias de Moura](https://github.com/LeeEros)
 - [Luke Wardle] (https://github.com/LukeWardle)
+- [Peter Ludwig] (https://github.com/peterdanludwig)
 - [Krishnakumar V] (https://github.com/krishkdev)
 - [James Ochapa] (https://github.com/Ocee1)
 - [James Smead] (https://github.com/jsmead39)
@@ -57,6 +62,7 @@
 - [Shirene Boyd] (https://github.com/shirenekboyd)
 - [Nicole Mendoza] (https://github.com/NicAtak)
 - [Nur Akman] (https://github.com/thecodingliva)
+- [Luiz Carlos Jr] (https://github.com/lcsjunior)
 - [Rifky Maulana] (https://github.com/Rifkymaulana)
 - [Dev Abhiram] (https://github.com/Dev-29)
 - [Dibyajyoti Ganguly] (https://github.com/Dibyajyoti2002)
@@ -67,6 +73,7 @@
 - [jayendra parmar] (https://github.com/Jp88Programmer)
 - [utkarsh raj] (https://github.com/madtitan02)
 - [Galbeaza Ciprian] (https://github.com/GCipry3)
+- [Jurriaan Buitenweg] (https://github.com/Guthax)
 - [Michel Metran] (https://github.com/MichelMetran) 
 - [Gbemisola Adekoya](https://github.com/thegbemisola)
 - [5.H.4.D.0.W](https://github.com/QuintusJoyal) 🖖  
@@ -116,6 +123,7 @@
 - [Hariprasad Sivanesan](https://github.com/Zeegi)
 - [Harshit Jain](https://github.com/Harshit28j)
 - [Alex Smith] (https://github.com/alexsmithdev)
+- [Gauri]
 - [Joaquin](https://github.com/Hoakin24)
 - [Saleh Taghizadeh](https://github.com/saleh-taghizadeh)
 - [Jakcw](https://github.com/jakcw)
@@ -248,6 +256,7 @@
   [Tech Lateef]
 - [Jester Domingo]
 - [Gad Cooper] (https://github.com/SpyingEnvelope)
+- [FerixFTW] (https://github.com/FerixFTW)
 - [Tyler Beitel]
 - [Morgan Smith]
 - [Piyush Yadav](https://github.com/piyushyadav1617)
@@ -720,6 +729,7 @@ Subhajit Bera
 - [ Ankan Dutta ](https://github.com/FullMetalChains)
 - [Suryansh Upadhyay](https://github.com/linneszyx)
 - [Kanwal Mehreen](https://github.com/kawiiii)
+- [Shashank Dwivedi](https://github.com/Imshk)
 - [Adilet Berdibekov](https://github.com/berdibekovadilet)
 - [Serge Basa](https://github.com/stikkas)
 - [Shreya Suthar](https://github.com/shreyasuthar655)
@@ -1971,10 +1981,11 @@ Rishabh Pandey
 - [Adam Chen](https://github.com/adamchen151)
 - [Jonathan G Araya](https://github.com/Jonathana1106)
 - [Jeremy Gleason](https://github.com/jeremy-gleason)
+- [Mridul Jacob] https://github.com/zorbamj)
 - [Felipe Seda](https://github.com/fseda)
 - [jungchoib](https://github.com/jungchoib)
 - [rajdugad](https://github.com/rajdugad)
-- {antny} (https://github.com/antny2)
+- {antny} (https://github.com/antny2)(
 - [Tarek-Azzazi](https://github.com/tarekazzazi)
 - [Matthew Anderson](https://github.com/manderson21)
 - [Robbie Sumner](https://github.com/robbiesumner)
@@ -2326,6 +2337,7 @@ Rishabh Pandey
 - [Ryo Muta](https://github.com/r-mutax)
 - [Murilo Barbosa](https://github.com/murilodab)
 - [Laura Clark](https://github.com/lcmaximum)
+- [Laurat Hajrullaaga](https://github.com/laurathaga)
 - [Hiruna-Kumara](https://github.com/Hiruna-Kumara)
 - [Aman Kumar Pandey](https://github.com/amanpandey2101)
 - [Patil 2104](https://github.com/patil2104)
@@ -2736,6 +2748,7 @@ Ayan Das
 - [Moosa Memon](https://github.com/MoosaMemon)
 - [Anna Barry] (https://github.com/annabarrysigl)
 - [Ehrlacker]
+- [Chitranjan Muthulingam] (https://github.com/theonlychitranjan)
 - [Asad] (https://github.com/asadshoyebkhan)
 - [Ola] (https://github.com/olamog)
 - [Nawed Alam] (https://github.com/nawed-alam)
@@ -2856,4 +2869,10 @@ Ayan Das
 - [jeremie.wav](https://github.com/https://github.com/jeremieemk/)
 - [szj](https://github.com/szj-coder)
 - [DreemurDat] (https://github.com/dreemurgithub)
+- [aaronflores92] (https://github.com/aaronflores92)
+- [RubelSaver] (https://github.com/RubelSaver)
+- [Nadya Sv] (https://github.com/nadsv)
+- [Yordan Todorov](https://github.com/eeyoretheman)
+- [Joseph Cobrador](https://github.com/coby4)
+- [Shubham Chandore](https://github.com/ShubhamChandore)
 - [Idanref](https://github.com/idanref)
