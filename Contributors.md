@@ -206,6 +206,7 @@
 - [Ali Rasouli]
 - [Abhijit More]
 - [Sinjin John]
+-[Layan](nerdberg)
 - [Vishnu Bansal](https://github.com/vishnubansal001)
 - [Piyush Yadav](https://github.com/piyush-0013)
 - [Emiliano López](https://github.com/emilianolch)
@@ -356,6 +357,7 @@
 - [Gannon Rowlan]
 - [Jonathon Black]
 - [Litmanennn]
+-[Layan](https://github.com/nerdberg792)
 - [Tu Nguyen](https://github.com/TerryN12)
 - [Alan Wu](https://github.com/lameast)
 - [Ananda Perumal Balaji](https://github.com/anand-pb)
