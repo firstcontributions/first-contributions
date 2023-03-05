@@ -9,6 +9,7 @@
 - [Vanessa Cheang] https://github.com/vanessacci)
 - [Raihan Shezan] (https://github.com/RaihanShezan)
 - [Arshad Sheik]
+- [PRINCE DOSHI]
 - [Farooq Javed] (https://github.com/farooqjaved)
 - [Siddhant Patil] (https://github.com/Sid-Pat)
 - [Soumik Saha] (https://github.com/soumik-saha)
