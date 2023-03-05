@@ -83,6 +83,20 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 #### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
+g## creating a file to store the repository on desktop 
+First of all open the CLI and type 
+```cd desktop 
+```
+Now create a folder by writing the following command 
+``` mkdir My-folder 
+``` 
+Replacing My-foler with the name you want to give your folder 
+Now go inside your empty folder by typing the following command 
+``` cd My-folder 
+``` 
+Now initialise an empty git repo inside your folder by typing 
+``` git init 
+```
 
 ## Fork this repository
 
@@ -120,6 +134,7 @@ Change to the repository directory on your computer (if you are not already ther
 ```
 cd first-contributions
 ```
+
 
 Now create a branch using the `git switch` command:
 
