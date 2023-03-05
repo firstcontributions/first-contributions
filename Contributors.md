@@ -120,6 +120,7 @@
 - [Hariprasad Sivanesan](https://github.com/Zeegi)
 - [Harshit Jain](https://github.com/Harshit28j)
 - [Alex Smith] (https://github.com/alexsmithdev)
+- [Gauri]
 - [Joaquin](https://github.com/Hoakin24)
 - [Saleh Taghizadeh](https://github.com/saleh-taghizadeh)
 - [Jakcw](https://github.com/jakcw)
