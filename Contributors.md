@@ -43,6 +43,7 @@
 - [Emily Lubkert] (https://github.com/emilylubkert)
 - [Lauris Macans] (https://github.com/lauriselvijs)
 - [Ranjan Shitole] (https://github.com/ranjan2829)
+- [Pierre Corazo Cesario](https://github.com/PScoriae)
 - [Petar Petrovic] (https://github.com/GameExplorer)
 - [Anamol Dhakal] (https://github.com/AnamolZ)
 - [Alex Murillo] (https://github.com/emergency22)
