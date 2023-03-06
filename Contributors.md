@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Oddballlnner] (https://github.com/Oddballlnner)
+- [Abubakr Hisham](https://github.com/abubakr404/)
 - [Krigo Liu] (https://github.com/Krigo-Liu)
 - [Aryan Karayi] (https://github.com/aryankarayi)
 - [Ankitjt] (https://github.com/ankitjt)
