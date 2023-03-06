@@ -2524,6 +2524,7 @@ Rishabh Pandey
 - [Siddharth Thakur]@devsoc pi
 - [ashutosh anand](https://github.com/AshutoshAnand123)
 - [Jaiman Munshi](https://github.com/jaimanm)
+- [Rainério Costa](https://github.com/Raineriojr)
 - [Jacob Larsen](https://github.com/jlarsen0206)
 - [Kena Dave](https://github.com/kenadave)
 - [Bahja isak mohamed](https://github.com/bahjaisack)
