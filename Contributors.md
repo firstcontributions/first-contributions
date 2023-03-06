@@ -1,5 +1,8 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Nadine Oka] (https://github.com/nadineoka)
+- [Oddballlnner] (https://github.com/Oddballlnner)
+- [Abubakr Hisham](https://github.com/abubakr404/)
 - [Krigo Liu] (https://github.com/Krigo-Liu)
 - [Aryan Karayi] (https://github.com/aryankarayi)
 - [Ankitjt] (https://github.com/ankitjt)
@@ -12,6 +15,8 @@
 - [Raihan Shezan] (https://github.com/RaihanShezan)
 - [Arshad Sheik]
 - [PRINCE DOSHI]
+- [Nicholas Hwang]
+- [Leon Albert] (https://github.com/leonn00albert)
 - [Farooq Javed] (https://github.com/farooqjaved)
 - [Siddhant Patil] (https://github.com/Sid-Pat)
 - [Soumik Saha] (https://github.com/soumik-saha)
@@ -172,6 +177,7 @@
 - [Abhishek Yadav](https://github.com/abhi-nandan09)
 - [Preetham Mukkara](https://github.com/Preetham-Mukkara)
 - [Zdenek Petracek] (https://github.com/PH03NiX9) 
+- [Joey Waner] (https://github.com/TheWoolyMammoth)
 - [Jonathan Potter](https://github.com/JonathanDPotter)
 - [Natnael Afework](https://github.com/Nathaniel-af)
 - [Onyedikachi Eni](https://github.com/KindEni)
