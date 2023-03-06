@@ -172,6 +172,7 @@
 - [Abhishek Yadav](https://github.com/abhi-nandan09)
 - [Preetham Mukkara](https://github.com/Preetham-Mukkara)
 - [Zdenek Petracek] (https://github.com/PH03NiX9) 
+- [Joey Waner] (https://github.com/TheWoolyMammoth)
 - [Jonathan Potter](https://github.com/JonathanDPotter)
 - [Natnael Afework](https://github.com/Nathaniel-af)
 - [Onyedikachi Eni](https://github.com/KindEni)
