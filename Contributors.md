@@ -1,6 +1,10 @@
 # Contributors
 <!-- prettier-ignore-start -->
+<<<<<<< HEAD
 - [Name]
+=======
+- [Oddballlnner] (https://github.com/Oddballlnner)
+>>>>>>> new-branch
 - [Krigo Liu] (https://github.com/Krigo-Liu)
 - [Aryan Karayi] (https://github.com/aryankarayi)
 - [Ankitjt] (https://github.com/ankitjt)
