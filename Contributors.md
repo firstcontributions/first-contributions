@@ -114,6 +114,7 @@ Adwai
 - [Arthur Okonkwo](https://github.com/arthurokonkwo)
 - [Clo]
 - [yahya.abdulsattar]
+- [Micha³ Konon]
 - [TariqAziz](https://github.com/Tariq-AQ)
 - [AlisonCardoso](https://github.com/AlisonCardoso)
 - [Rounak Shrivastav](https://github.com/Rounakshrivastav)
