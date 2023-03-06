@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Anand Kumar] (https://github.com/Whitedevil4648)
 - [Nadine Oka] (https://github.com/nadineoka)
 - [Neeraj Pillai] (https://github.com/Neeraj1213)
 - [Relc]
