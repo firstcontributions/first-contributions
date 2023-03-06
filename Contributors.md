@@ -18,6 +18,7 @@
 - [Arshad Sheik]
 - [PRINCE DOSHI]
 - [Nicholas Hwang]
+- [Thea SF] (https://github.com/thea-sf)
 - [Leon Albert] (https://github.com/leonn00albert)
 [HMT] (https://github.com/HtetAungThan)
 - [Farooq Javed] (https://github.com/farooqjaved)
