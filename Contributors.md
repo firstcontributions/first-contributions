@@ -187,6 +187,7 @@
 - [Natnael Afework](https://github.com/Nathaniel-af)
 - [Onyedikachi Eni](https://github.com/KindEni)
 - [ahguanz](https://github.com/ahguanz)
+- [Petter Andersson](https://github.com/PetterA87)
   [Vanessa]
   [Joshua Chaparro] (https://github.com/joshua-chaparro)
   [Om Jee Mishra](https://github.com/om-jee-m)
