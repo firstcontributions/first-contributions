@@ -155,6 +155,7 @@ Adwai
 - [Xanthium]
 -[Urvi]
 - [Codey Gallup](https://github.com/Codeyg12)
+- [Charles Showalter](https://github.com/WorldDrknss)
 - [Kamal Bisht](https://github.com/bisht-xp)
 - [LomiaW](https://github.com/LomiaW)
 - [Harshit Saini](https://github.com/scholar-2001)
