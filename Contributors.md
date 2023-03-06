@@ -2700,6 +2700,7 @@ Ayan Das
 - [Muhammed Jishin Jamal T C O](https://github.com/mohdjishin)
 - [Chandra Rizky Raharja](https://github.com/cnzcnzcnz)
 - [Kishan Kumar](https://github.com/kishan1000)
+- [minyu](https://github.com/minyu-zhao)
 - [sebiflorinp](https://github.com/sebiflorinp)
 - [kowsik](https://github.com/timetoadd)
 [Sathvik](https://github.com/Sathvik1007)
@@ -2792,4 +2793,3 @@ Ayan Das
 - [Abin-Saji] (https://github.com/arice77)
 - [Kartikay](https://github.com/kartikaysaxena)
 - [Alberto Silvestri](https://github.com/albesibbe)
-- [minyu](https://github.com/minyu-zhao)
