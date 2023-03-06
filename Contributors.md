@@ -115,7 +115,7 @@ Adwai
 - [Arthur Okonkwo](https://github.com/arthurokonkwo)
 - [Clo]
 - [yahya.abdulsattar]
-- [Micha³ Konon]
+- [Michaï¿½ Konon]
 - [TariqAziz](https://github.com/Tariq-AQ)
 - [AlisonCardoso](https://github.com/AlisonCardoso)
 - [Rounak Shrivastav](https://github.com/Rounakshrivastav)
@@ -2911,3 +2911,4 @@ Ayan Das
 - [Terrel Brinkley](https://github.com/TerrelBrinkley)
 - [Shubham Chandore](https://github.com/ShubhamChandore)
 - [Mc Gabriel Fernandez](https://github.com/McGabriel99)
+- [Omar Elzawahry](https://github.com/omarzawahry)
