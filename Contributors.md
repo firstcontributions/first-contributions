@@ -1330,6 +1330,7 @@ Rishabh Pandey
 - [Vanshagra Rai](https://github.com/VanshagraRai)
 - [Shoaib Akhtar](https://github.com/sk370008)
 - [Divyansh Dabral @DevsocPI]
+- [Pritam Dhara](https://github.com/pritam1813)
 - [Ausawin Saehaan](https://github.com/saehaana)
 - [Matthew Song](https://github.com/LuxArgentum)
 - [Gaurav Nadkarni](https://github.com/gauravnadkarni)
