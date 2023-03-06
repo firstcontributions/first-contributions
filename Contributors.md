@@ -3,12 +3,12 @@
 - [Krigo Liu] (https://github.com/Krigo-Liu)
 - [Aryan Karayi] (https://github.com/aryankarayi)
 - [Ankitjt] (https://github.com/ankitjt)
-  [Matheus]
-  [Deepika Indran](https://github.com/deepiikaa24)
-  [Oscar Juarez] (https://github.com/OscarJO20)
+- [Matheus]
+- [Deepika Indran](https://github.com/deepiikaa24)
+- [Oscar Juarez] (https://github.com/OscarJO20)
 - [Ivan] (https://github.com/ivazin)
-- [Nicholas Argadiraksa] (https://github.com/nicholas2336)
 - [Vanessa Cheang] https://github.com/vanessacci)
+- [Nicholas Argadiraksa] (https://github.com/nicholas2336)
 - [Raihan Shezan] (https://github.com/RaihanShezan)
 - [Arshad Sheik]
 - [PRINCE DOSHI]
