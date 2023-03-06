@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Nadine Oka] (https://github.com/nadineoka)
+- [Relc]
 - [Oddballlnner] (https://github.com/Oddballlnner)
 - [Abubakr Hisham](https://github.com/abubakr404/)
 - [Krigo Liu] (https://github.com/Krigo-Liu)
