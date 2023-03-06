@@ -148,6 +148,7 @@ Adwai
 - [kodingkin]
 - [akele-guzay]
 - [Xanthium]
+-[Urvi]
 - [Codey Gallup](https://github.com/Codeyg12)
 - [Kamal Bisht](https://github.com/bisht-xp)
 - [LomiaW](https://github.com/LomiaW)
