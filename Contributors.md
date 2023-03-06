@@ -2880,6 +2880,7 @@ Ayan Das
 - [RobertoKreshna](https://github.com/RobertoKreshna)
 - [**Qiu**](https://github.com/Qiu-IT)
 - [H-ADJI](https://github.com/H-ADJI)
+  [Jacky](https://github.com/smallnumbers0)
 - [Ahmed AK.] (https://github.com/Ahmed7AK/first-contributions)
 - [Tooweisiannn] (https://github.com/tooweisiannn)
 - [Abin-Saji] (https://github.com/arice77)
