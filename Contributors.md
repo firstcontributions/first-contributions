@@ -6,6 +6,7 @@
 - [Relc]
 - [Oddballlnner] (https://github.com/Oddballlnner)
 - [Abubakr Hisham](https://github.com/abubakr404/)
+- [Diego Lascano](https://github.com/DallasBelt)
 - [Krigo Liu] (https://github.com/Krigo-Liu)
 - [Aryan Karayi] (https://github.com/aryankarayi)
 - [Ankitjt] (https://github.com/ankitjt)
@@ -115,7 +116,7 @@ Adwai
 - [Arthur Okonkwo](https://github.com/arthurokonkwo)
 - [Clo]
 - [yahya.abdulsattar]
-- [Micha³ Konon]
+- [Michaï¿½ Konon]
 - [TariqAziz](https://github.com/Tariq-AQ)
 - [AlisonCardoso](https://github.com/AlisonCardoso)
 - [Rounak Shrivastav](https://github.com/Rounakshrivastav)
