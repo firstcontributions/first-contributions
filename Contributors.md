@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Name]
 - [Krigo Liu] (https://github.com/Krigo-Liu)
 - [Aryan Karayi] (https://github.com/aryankarayi)
 - [Ankitjt] (https://github.com/ankitjt)
