@@ -11,11 +11,12 @@
   [Oscar Juarez] (https://github.com/OscarJO20)
 - [Ivan] (https://github.com/ivazin)
 - [Nicholas Argadiraksa] (https://github.com/nicholas2336)
-- [Vanessa Cheang] https://github.com/vanessacci)
+- [Vanessa Cheang] (https://github.com/vanessacci)
 - [Raihan Shezan] (https://github.com/RaihanShezan)
 - [Arshad Sheik]
 - [PRINCE DOSHI]
 - [Nicholas Hwang]
+- [Leon Albert] (https://github.com/leonn00albert)
 - [Farooq Javed] (https://github.com/farooqjaved)
 - [Siddhant Patil] (https://github.com/Sid-Pat)
 - [Soumik Saha] (https://github.com/soumik-saha)
