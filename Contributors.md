@@ -1000,6 +1000,7 @@ Subhajit Bera
 - [Noopur Sharma@Devsoc]
 - [Shrey Gupta@DevsocPI](https://github.com/gupta-shrey)
 - Meet Dedhia@DevsocPI
+- SimpleCoder
 - [Sumer Punjabi](https://github.com/sumerpunjabi)
 - aditya joshi@DevSocPI
 - [RA341](https://github.com/RA341)
