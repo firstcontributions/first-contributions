@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Nadine Oka] (https://github.com/nadineoka)
+- [Neeraj Pillai] (https://github.com/Neeraj1213)
 - [Relc]
 - [Oddballlnner] (https://github.com/Oddballlnner)
 - [Abubakr Hisham](https://github.com/abubakr404/)
