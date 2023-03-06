@@ -1,6 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
-- [Odd] (https://github.com/Oddballlnner)
+- [Oddballlnner] (https://github.com/Oddballlnner)
 - [Krigo Liu] (https://github.com/Krigo-Liu)
 - [Aryan Karayi] (https://github.com/aryankarayi)
 - [Ankitjt] (https://github.com/ankitjt)
