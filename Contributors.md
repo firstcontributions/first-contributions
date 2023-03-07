@@ -13,7 +13,6 @@
 - [Piyush Gambhir](https://github.com/Piyush-Gambhir)
 - [Aryan Karayi] (https://github.com/aryankarayi)
 - [Ankitjt] (https://github.com/ankitjt)
-- [Rajesh Arora] (https://github.com/rajesharora2801)
   [Matheus]
   [Ayo Michaels] (https://github.com/ayomichaels)
   [Deepika Indran](https://github.com/deepiikaa24)
@@ -2928,3 +2927,4 @@ Ayan Das
 - [Shubham Chandore](https://github.com/ShubhamChandore)
 - [Mc Gabriel Fernandez](https://github.com/McGabriel99)
 - [Aayush Paigwar](https://github.com/AayushP2711)
+- [Akinlade Khadijah](https://github.com/khadiqwin)
