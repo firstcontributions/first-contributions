@@ -2819,6 +2819,7 @@ Ayan Das
 - [shinwookim](https://github.com/shinwookim)
 - [HyeRoller](https://github.com/HyeRoller)
 - [ThankGod Ode](https://github.com/thankgodode)
+- [Vladimir Git](https://github.com/vladimirsgit)
 - [iNevs](https://github.com/inevs)
 - [Salman Sajid](https://github.com/salmannnsajid)
 - [ApexMe](https://github.com/ApexMe)
