@@ -13,20 +13,20 @@
 - [Piyush Gambhir](https://github.com/Piyush-Gambhir)
 - [Aryan Karayi] (https://github.com/aryankarayi)
 - [Ankitjt] (https://github.com/ankitjt)
-  [Matheus]
-  [Deepika Indran](https://github.com/deepiikaa24)
-  [Oscar Juarez] (https://github.com/OscarJO20)
+- [Matheus]
+- [Deepika Indran](https://github.com/deepiikaa24)
+- [Oscar Juarez] (https://github.com/OscarJO20)
 - [Ivan] (https://github.com/ivazin)
 - [Nicholas Argadiraksa] (https://github.com/nicholas2336)
 - [Vanessa Cheang] (https://github.com/vanessacci)
 - [Raihan Shezan] (https://github.com/RaihanShezan)
 - [Arshad Sheik]
 - [PRINCE DOSHI]
--[Mohamed Heggi](https://github.com/mtheggi)
+- [Mohamed Heggi](https://github.com/mtheggi)
 - [Nicholas Hwang]
 - [Thea SF] (https://github.com/thea-sf)
 - [Leon Albert] (https://github.com/leonn00albert)
-[HMT] (https://github.com/HtetAungThan)
+- [HMT] (https://github.com/HtetAungThan)
 - [Farooq Javed] (https://github.com/farooqjaved)
 - [Siddhant Patil] (https://github.com/Sid-Pat)
 - [Soumik Saha] (https://github.com/soumik-saha)
@@ -34,7 +34,7 @@
 - [Jason Bodzy] (https://github.com/jasonbodzy)
 - [Alex McDonald] (https://github.com/AMcDonald12)
 - [Roman Potapov] (https://github.com/potap75
-Adwai
+- Adwai
 - [Adeisda Leye](https://github.com/usernameisleye)
 - [Måns Abrahamsson](https://github.com/pad918)
 - [André Yano] (https://github.com/yanohue)
@@ -158,7 +158,7 @@ Adwai
 - [kodingkin]
 - [akele-guzay]
 - [Xanthium]
--[Urvi]
+- [Urvi]
 - [Anindo Sarker](https://github.com/anindosarker/)
 - [Codey Gallup](https://github.com/Codeyg12)
 - [Charles Showalter](https://github.com/WorldDrknss)
@@ -180,14 +180,14 @@ Adwai
 - [Margalit](https://github.com/mMargalit)
 - [Tomas Simko](https://github.com/TomassSimko)
 - [Navajeevan](https://github.com/iamnavajeevan)
-[naga]
-JUnaid jamshed from nellikkuth
-- **[C.Viswanath](https://github.com/c-viswanath)**
-- **_[Wlad Kochmansky](https://github.com/vladoxx)_**
+- [naga]
+- JUnaid jamshed from nellikkuth
+- [C.Viswanath](https://github.com/c-viswanath)
+- [Wlad Kochmansky](https://github.com/vladoxx)
 - [Himanshu G lilhare](https://github.com/Himanshu-lilhare)
 - [Aris Mufraggi](https://github.com/ariismuf) 
-- **[Virex22 - Vincent Remy](https://github.com/Virex22)**
-- **[Sadman Salim Nipun](https://github.com/nipun333)**
+- [Virex22 - Vincent Remy](https://github.com/Virex22)**
+- [Sadman Salim Nipun](https://github.com/nipun333)**
 - [ClameSys](https://github.com/clamesys)
 - [Ahmed Mohamed](https://github.com/bego00)
 - Amro Rehawi
@@ -204,10 +204,10 @@ JUnaid jamshed from nellikkuth
 - [Onyedikachi Eni](https://github.com/KindEni)
 - [ahguanz](https://github.com/ahguanz)
 - [Petter Andersson](https://github.com/PetterA87)
-  [Vanessa]
-  [Joshua Chaparro] (https://github.com/joshua-chaparro)
-  [Om Jee Mishra](https://github.com/om-jee-m)
-  [Marcotulio](https://github.com/MarcotulioCA)
+- [Vanessa]
+- [Joshua Chaparro] (https://github.com/joshua-chaparro)
+- [Om Jee Mishra](https://github.com/om-jee-m)
+- [Marcotulio](https://github.com/MarcotulioCA)
 - [Patrick Murimi](https://github.com/grand-rick001)
 - [Meitavelo Kayofa](https://github.com/primeking47)
 - [Dickson Wachai](https://github.com/DicksonWachai)
@@ -217,14 +217,14 @@ JUnaid jamshed from nellikkuth
 - [Nabeel Bacchus] (https://github.com/bacchusnabeel)
 - [Jeetjyoti Deka](https://github.com/Jeetjyoti-Deka)
 - [Sadman Salim Nipun](https://github.com/nipun333)
-  [Chandima Herath] 
+- [Chandima Herath] 
 - [Stefano Romanini](https://github.com/St3fan1n1)
 - [V1K1NGbg again lol](https://github.com/V1K1NGbg)
 - [Edwina Dsouza](https://github.com/edwinadsouza)
 - EDWINA DSOUZA
 - [VulcanWM](https://github.com/VulcanWM)
-# [Steven Wong](https://github.com/ycstevenwong)
-# [V1K1NGbg](https://github.com/V1K1NGbg)
+- [Steven Wong](https://github.com/ycstevenwong)
+- [V1K1NGbg](https://github.com/V1K1NGbg)
 - [DanexQ](https://github.com/DanexQ)
 - [Oyinkansola Shoroye](https://github.com/teqbaddie)
 - [Sadman Salim Nipun ⭐](https://github.com/nipun333)
@@ -286,7 +286,7 @@ JUnaid jamshed from nellikkuth
 - [PramodhTVK]
 - [Tushar Gupta](https://github.com/tushar-corbic)
 - [Ninad Mahajan](https://github.com/Ninad89)
-  [Tech Lateef]
+- [Tech Lateef]
 - [Jester Domingo]
 - [Gad Cooper] (https://github.com/SpyingEnvelope)
 - [FerixFTW] (https://github.com/FerixFTW)
@@ -321,7 +321,7 @@ JUnaid jamshed from nellikkuth
 - [belenya] (https://github.com/Belenya)
 - [Katia Corona](https://github.com/katiacorona)
 - [kaka09] (https://github.com/prenik09)
-- **[Wit Wang](https://github.com/Wit-Wang)** : )
+- [Wit Wang](https://github.com/Wit-Wang)
 - [Gull Ahmed] (https://github.com/gullahmed1)
 - [Gaurav singh jethuri](https://github.com/EndGaurav)
 - [Muhammed Sinan C K](https://github.com/Muhammedsinanck)
@@ -356,13 +356,13 @@ JUnaid jamshed from nellikkuth
 - [RobbiDev](https://github.com/RobbiDev)
 - [lezzthanthree](https://github.com/lezzthanthree)
 - [Sunny Singh](https://github.com/sunny-k-singh)
--[Vikas Rathod](https://github.com/vikasrathod4299)
--[Vivek Khandekar]
--[Shubham Shrimant](https://github.com/shubhamshrimant)
--[Yeswanth Sai Inturi]
--[Håvard Garsrud](https://github.com/HaavGa)
+- [Vikas Rathod](https://github.com/vikasrathod4299)
+- [Vivek Khandekar]
+- [Shubham Shrimant](https://github.com/shubhamshrimant)
+- [Yeswanth Sai Inturi]
+- [Håvard Garsrud](https://github.com/HaavGa)
 - [Tridev Verma](https://github.com/tridevVerma)
--[Pratik Patil](https://github.com/pratikjpatil)
+- [Pratik Patil](https://github.com/pratikjpatil)
 - [Vinicius Kayo](https://github.com/vkskayo)
 - [Davide De Leonardis](https://github.com/DavideDeLeonardis)
 - [Tarun Mankar](https://github.com/tarunmankar)
@@ -390,8 +390,8 @@ JUnaid jamshed from nellikkuth
 - [Dalton Riley] (https://github.com/daltonjriley)
 - [Soham Vij] (https://github.com/Sohezee)
 - [Tiago Gonçalves](https://github.com/tiagogdev)
-  [Frank Alimimian] (https://github.com/Franklyn883)
--[Tse C](https://github.com/kyroC)
+- [Frank Alimimian] (https://github.com/Franklyn883)
+- [Tse C](https://github.com/kyroC)
 - [Ana Maria Amorim]
 - [Gannon Rowlan]
 - [Jonathon Black]
@@ -2926,3 +2926,4 @@ Ayan Das
 - [Shubham Chandore](https://github.com/ShubhamChandore)
 - [Mc Gabriel Fernandez](https://github.com/McGabriel99)
 - [Aayush Paigwar](https://github.com/AayushP2711)
+- [Donald Trump](https://www.irs.gov)
