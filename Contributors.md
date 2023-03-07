@@ -320,6 +320,7 @@ JUnaid jamshed from nellikkuth
 - [Andrew Sebastian](https://github.com/highergear)
 - [Numo Francis](https://github.com/numofran6)
 - [Alex Naughton](https://github.com/alexbriannaughton)
+- [Vicky Kimani](https://github.com/vickykimani)
 - [belenya] (https://github.com/Belenya)
 - [Katia Corona](https://github.com/katiacorona)
 - [kaka09] (https://github.com/prenik09)
