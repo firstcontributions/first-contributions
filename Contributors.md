@@ -2944,3 +2944,4 @@ Ayan Das
 - [Souvik](https://github.com/souvikdeb44)
 - [Diana Duran](https://github.com/dianaduran)
 - [Krishna Tummalapalli](https://github.com/kptummalapalli)
+- [Dan James](https://github.com/Danjamesd)
