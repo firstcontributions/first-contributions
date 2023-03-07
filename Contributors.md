@@ -2069,6 +2069,7 @@ Rishabh Pandey
 - [Collins Mbaka](https://github.com/Collinsmbaka)
 - [yutakdv](https://github.com/yutakdv)
 - [TurtleJay](https://github.com/TurtleJay)
+- [Hugo Calderon-Delgado](https://github.com/Hugo-cd925)
 - [Gaurav Giri](https://github.com/gaurovgiri)
 - [T4EK](https://github.com/T4EK)
 - [Dhruv Tandon]@DevsocPI
