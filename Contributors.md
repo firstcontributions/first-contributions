@@ -15,11 +15,11 @@
 - [Aryan Karayi] (https://github.com/aryankarayi)
 - [Ankitjt] (https://github.com/ankitjt)
 - [Rajesh Arora] (https://github.com/rajesharora2801)
-  [Matheus]
+- [Matheus]
 - [Katherine Robles] (https://github.com/KMR1221)
-  [Ayo Michaels] (https://github.com/ayomichaels)
-  [Deepika Indran](https://github.com/deepiikaa24)
-  [Oscar Juarez] (https://github.com/OscarJO20)
+- [Ayo Michaels] (https://github.com/ayomichaels)
+- [Deepika Indran](https://github.com/deepiikaa24)
+- [Oscar Juarez] (https://github.com/OscarJO20)
 - [Ivan] (https://github.com/ivazin)
 - [Nicholas Argadiraksa] (https://github.com/nicholas2336)
 - [Vanessa Cheang] (https://github.com/vanessacci)
@@ -27,11 +27,11 @@
 - [Raihan Shezan] (https://github.com/RaihanShezan)
 - [Arshad Sheik]
 - [PRINCE DOSHI]
--[Mohamed Heggi](https://github.com/mtheggi)
+- [Mohamed Heggi](https://github.com/mtheggi)
 - [Nicholas Hwang]
 - [Thea SF] (https://github.com/thea-sf)
 - [Leon Albert] (https://github.com/leonn00albert)
-[HMT] (https://github.com/HtetAungThan)
+- [HMT] (https://github.com/HtetAungThan)
 - [Farooq Javed] (https://github.com/farooqjaved)
 - [Siddhant Patil] (https://github.com/Sid-Pat)
 - [Soumik Saha] (https://github.com/soumik-saha)
