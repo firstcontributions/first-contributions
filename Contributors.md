@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [AayushPaigwar](https://github.com/AayushPaigwar)
 - [darkGhost] (https://github.com/darkGhost3108)
 - [Anand Kumar] (https://github.com/Whitedevil4648)
 - [Mohammad Haaris Javed] (https://github.com/haaris272k)
@@ -21,6 +22,7 @@
 - [Ivan] (https://github.com/ivazin)
 - [Nicholas Argadiraksa] (https://github.com/nicholas2336)
 - [Vanessa Cheang] (https://github.com/vanessacci)
+- [Oreste Barranco] (https://github.com/orebarranco)
 - [Raihan Shezan] (https://github.com/RaihanShezan)
 - [Arshad Sheik]
 - [PRINCE DOSHI]
@@ -81,6 +83,7 @@ Adwai
 - [Shovan Mallick] (https://github.com/svn41)
 - [Fabiano Alves] (https://github.com/FabianoAlves-Projects)
 - [Rudrabikram Roy] (https://github.com/r9o1y24)
+- [Dhanush Thirunavukkarasu](https://github.com/Dhanoosh)
 - [Tejus Sahi] (https://github.com/tejus07)
 - [Kennedy Muchiri] (https://github.com/muchiri08)
 - [Shirene Boyd] (https://github.com/shirenekboyd)
@@ -2069,6 +2072,7 @@ Rishabh Pandey
 - [Collins Mbaka](https://github.com/Collinsmbaka)
 - [yutakdv](https://github.com/yutakdv)
 - [TurtleJay](https://github.com/TurtleJay)
+- [Hugo Calderon-Delgado](https://github.com/Hugo-cd925)
 - [Gaurav Giri](https://github.com/gaurovgiri)
 - [T4EK](https://github.com/T4EK)
 - [Dhruv Tandon]@DevsocPI
@@ -2936,3 +2940,4 @@ Ayan Das
 - [Sumasri](https://github.com/Sumasri-Satti)
 - [Samuel](https://github.com/samuelbreznjak)
 - [Souvik](https://github.com/souvikdeb44)
+- [Diana Duran](https://github.com/dianaduran)
