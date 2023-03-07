@@ -2034,7 +2034,7 @@ Rishabh Pandey
 - [Tarek-Azzazi](https://github.com/tarekazzazi)
 - [Matthew Anderson](https://github.com/manderson21)
 - [Robbie Sumner](https://github.com/robbiesumner)
--  Mihabat Aeido
+- Mihabat Aeido
 - [EricWink](https://github.com/ericwink)
 - [Jongkwang131](https://github.com/Jongkwang131)
 - [sneha-2510](https://github.com/sneha-2510)
@@ -2935,3 +2935,4 @@ Ayan Das
 - [Aayush Paigwar](https://github.com/AayushP2711)
 - [Sumasri](https://github.com/Sumasri-Satti)
 - [Samuel](https://github.com/samuelbreznjak)
+- [Souvik](https://github.com/souvikdeb44)
