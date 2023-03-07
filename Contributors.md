@@ -2830,6 +2830,7 @@ Ayan Das
 - [Shadow-Mo](https://github.com/Shadow-Mo)
 - [David0601d](https://github.com/David0601d)
 - [Tee Kaeophian](https://github.com/tkaeophian)
+- [Sahil Jangra](https://github.com/Th0masCat)
 - [Manuel Pineda](https://github.com/manuel12)
 - [Koji Takahiro](https://github.com/koji-takahiro)
 - [Victor Okech](https://github.com/victorokech)
