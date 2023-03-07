@@ -2926,5 +2926,6 @@ Ayan Das
 - [Mustafa A-Hussein](https://github.com/Must-ah)
 - [Terrel Brinkley](https://github.com/TerrelBrinkley)
 - [Shubham Chandore](https://github.com/ShubhamChandore)
+- [Vamsi Krishna](https://github.com/CVamsi27)
 - [Mc Gabriel Fernandez](https://github.com/McGabriel99)
 - [Aayush Paigwar](https://github.com/AayushP2711)
