@@ -2113,6 +2113,7 @@ Rishabh Pandey
 - [Ankit Gupta](https://github.com/Ankit-Gupta0)
 - [Vinci Liu](https://github.com/vinciliu30)
 - [Jana Schmidberger](https://github.com/janasberger)
+- [Digvijay Gujjarlapudi](https://github.com/digvijaysai29)
 - [William Larsen](https://github.com/thewildwilli)
 - [Higor Chagas](https://github.com/HigorChagas)
 - [Matty Charitan](https://github.com/Matty-charitan)
