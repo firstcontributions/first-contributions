@@ -116,7 +116,7 @@ Adwai
 - [Arthur Okonkwo](https://github.com/arthurokonkwo)
 - [Clo]
 - [yahya.abdulsattar]
-- [Micha� Konon]
+- [Micha  Konon]
 - [TariqAziz](https://github.com/Tariq-AQ)
 - [AlisonCardoso](https://github.com/AlisonCardoso)
 - [Rounak Shrivastav](https://github.com/Rounakshrivastav)
@@ -175,6 +175,7 @@ Adwai
 - [Tomas Simko](https://github.com/TomassSimko)
 - [Navajeevan](https://github.com/iamnavajeevan)
 [naga]
+JUnaid jamshed from nellikkuth
 - **[C.Viswanath](https://github.com/c-viswanath)**
 - **_[Wlad Kochmansky](https://github.com/vladoxx)_**
 - [Himanshu G lilhare](https://github.com/Himanshu-lilhare)
