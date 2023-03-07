@@ -274,6 +274,7 @@ Adwai
 - [Vaibhav Chauhan] (https://github.com/vibenr)
 - [Josh Needleman] (https://github.com/JNeed)
 - [Traviathan] (https://github.com/traviathan)
+- [Harmish Patel] (https://github.com/harmishpatel21)
 - [Ivan Mizz]
 - [PramodhTVK]
 - [Tushar Gupta](https://github.com/tushar-corbic)
