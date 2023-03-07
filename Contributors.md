@@ -330,6 +330,7 @@ Adwai
 - [Harshita Raghu](https://github.com/rnharshee)
 - [Slater McArdle] (https://github.com/SlaterMcArdle)
 - [Georgios Kakarlis](https://github.com/georgekakarlis)
+- [Jonathan Beale](https://github.com/iconbaypark2900/)
 - [sam gill]
 - [Kamal Kanti Chakma](https://github.com/kamalchakma1)
 - [Tomas Carrasco] (https://github.com/tomascarrascoo)
