@@ -1201,6 +1201,7 @@ Rishabh Pandey
 - [Mahesward](https://github.com/Mahesward)
 - [Tom Rose](https://github.com/T-A-Rose)
 - Ronit Kunkolienker @DevSoc PI
+- [William] (https://github.com/ciut1st)
 - [Alvin James Bellero](https://github.com/shiftEscape)
 - [Yididya Andualem](https://github.com/Jeyididya)
 - [Hidayatullah](https://github.com/dayatnhbtc)
