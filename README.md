@@ -177,7 +177,7 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 
 ## Submit your changes for review
 
-If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+If you go to your repository on GitHub, you'll see a `Contribute` button. Click on that button.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
