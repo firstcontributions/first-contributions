@@ -10,6 +10,7 @@
 - [Abubakr Hisham](https://github.com/abubakr404/)
 - [Diego Lascano](https://github.com/DallasBelt)
 - [Krigo Liu] (https://github.com/Krigo-Liu)
+- [Piyush Gambhir](https://github.com/Piyush-Gambhir)
 - [Aryan Karayi] (https://github.com/aryankarayi)
 - [Ankitjt] (https://github.com/ankitjt)
   [Matheus]
