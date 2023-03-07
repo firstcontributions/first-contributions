@@ -16,6 +16,7 @@
 - [Ankitjt] (https://github.com/ankitjt)
 - [Rajesh Arora] (https://github.com/rajesharora2801)
   [Matheus]
+- [Katherine Robles] (https://github.com/KMR1221)
   [Ayo Michaels] (https://github.com/ayomichaels)
   [Deepika Indran](https://github.com/deepiikaa24)
   [Oscar Juarez] (https://github.com/OscarJO20)
@@ -2037,7 +2038,7 @@ Rishabh Pandey
 - [Tarek-Azzazi](https://github.com/tarekazzazi)
 - [Matthew Anderson](https://github.com/manderson21)
 - [Robbie Sumner](https://github.com/robbiesumner)
--  Mihabat Aeido
+- Mihabat Aeido
 - [EricWink](https://github.com/ericwink)
 - [Jongkwang131](https://github.com/Jongkwang131)
 - [sneha-2510](https://github.com/sneha-2510)
@@ -2780,6 +2781,7 @@ Ayan Das
 - [Aiden Cline](https://github.com/rekram1-node)
 - [Semion Zilbert](https://github.com/sz44)
 - [Milind Pansare] (https://github.com/githubmilind)
+- [Carlos Soto] (https://github.com/CarlosSotoRodriguez)
 - [Alan Hakala](https://github.com/AlanHakalaDev)
 - [Kendall Callison](https://github.com/kendallcallison)
 - [Dominik Karaś](https://github.com/KarasDominik)
@@ -2940,3 +2942,8 @@ Ayan Das
 - [Sumasri](https://github.com/Sumasri-Satti)
 - [Samuel](https://github.com/samuelbreznjak)
 - [BinilRaj KuttikkattuBaburaj](https://github.com/Binilkks)
+- [Youssouf Yogue](https://github.com/Yogue1997)
+- [Souvik](https://github.com/souvikdeb44)
+- [Diana Duran](https://github.com/dianaduran)
+- [Krishna Tummalapalli](https://github.com/kptummalapalli)
+- [Dan James](https://github.com/Danjamesd)
