@@ -2933,3 +2933,4 @@ Ayan Das
 - [Isch-Und](https://github.com/Isch-Und)
 - [Aayush Paigwar](https://github.com/AayushP2711)
 - [Sumasri](https://github.com/Sumasri-Satti)
+- [Samuel](https://github.com/samuelbreznjak)
