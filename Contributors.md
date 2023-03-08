@@ -120,6 +120,7 @@ Adwai
 - [Isaam Akhtar] (https://github.com/IsaamAkhtar)
 - [Mikhail Grodinskii] (https://github.com/mogwali)
 - [Sang Tran](https://github.com/stran2312)
+- [Omid Javedan](https://github.com/Omid-Javedan)
 - [Anil] (https://github.com/anic1618)
 - [Stefan Behling](https://github.com/StefanBeh)
 - [Eshan Shukla] (https://github.com/Eshan-shukla)
