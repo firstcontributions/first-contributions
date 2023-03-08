@@ -1278,6 +1278,7 @@ Rishabh Pandey
 - [Odejobi Peter](https://github.com/rinwaoluwa)
 - [Victor Pawlowski] (https://github.com/pawlowskiv)
 - [Tanmay Sinha](https://github.com/tanmaySinha16)
+- [Andre Olive](https://github.com/andreholive)
 - [Aadi Sharma @DevsocPI]
 - [Tim Klimpel](https://github.com/tkm3d1a)
 - [Fryz](https://github.com/Fryzzz)
