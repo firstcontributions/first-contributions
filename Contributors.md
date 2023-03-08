@@ -246,6 +246,7 @@ JUnaid jamshed from nellikkuth
 - [Souvik Chakraborty](https://github.com/Slowvik)
 - [Dylan Clarry](https://github.com/Dylan-Clarry)
 - [Sreenadh Singamaneni](https://github.com/SreenadhSingamaneni)
+- [Minh Truong](https://github.com/RyanTrian)
 - [Vikrant Pradhan](https://github.com/vikrant0017)
 - [zsgg](https://github.com/zsgg)
 - [juanmagb8d](https://github.com/juanmagb8d)
