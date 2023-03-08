@@ -16,6 +16,7 @@
 - [Ankitjt] (https://github.com/ankitjt)
 - [Rajesh Arora] (https://github.com/rajesharora2801)
   [Matheus]
+- [Shawn Mels] (https://github.com/Shawnmels1998)
 - [Katherine Robles] (https://github.com/KMR1221)
   [Ayo Michaels] (https://github.com/ayomichaels)
   [Deepika Indran](https://github.com/deepiikaa24)
