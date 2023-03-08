@@ -2905,7 +2905,6 @@ Ayan Das
 - [amit-goldblatt] (https://github.com/Amit-Goldblatt)
 - [Kartikay](https://github.com/kartikaysaxena)
 - [Alberto Silvestri](https://github.com/albesibbe)
-- [Adolf Hitler](https://github.com/hitler)
 - [Ayush Desai](https://github.com/updwnheadlights)
 - [kc-wilp](https://github.com/kc-wilp)
 - [Hao-Jung Chen](https://github.com/haojungc)
