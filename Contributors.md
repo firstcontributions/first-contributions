@@ -16,6 +16,7 @@
 - [Diego Lascano](https://github.com/DallasBelt)
 - [Krigo Liu] (https://github.com/Krigo-Liu)
 - [Piyush Gambhir](https://github.com/Piyush-Gambhir)
+- [Rene](https://github.com/dwaddle)
 - [Aryan Karayi] (https://github.com/aryankarayi)
 - [Ankitjt] (https://github.com/ankitjt)
 - [Rajesh Arora] (https://github.com/rajesharora2801)
