@@ -20,6 +20,7 @@
   [Ayo Michaels] (https://github.com/ayomichaels)
   [Deepika Indran](https://github.com/deepiikaa24)
   [Oscar Juarez] (https://github.com/OscarJO20)
+- [Nikita] (https://github.com/humanbelnik)
 - [Ivan] (https://github.com/ivazin)
 - [Nicholas Argadiraksa] (https://github.com/nicholas2336)
 - [Vanessa Cheang] (https://github.com/vanessacci)
