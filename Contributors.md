@@ -20,6 +20,7 @@
 - [Rajesh Arora] (https://github.com/rajesharora2801)
   [Matheus]
 - [Shawn Mels] (https://github.com/Shawnmels1998)
+- [Sandeep Gorule] (https://github.com/sandeepgorule)
 - [Katherine Robles] (https://github.com/KMR1221)
   [Ayo Michaels] (https://github.com/ayomichaels)
   [Deepika Indran](https://github.com/deepiikaa24)
