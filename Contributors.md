@@ -6,6 +6,7 @@
 - [darkGhost] (https://github.com/darkGhost3108)
 - [Aaryaveer Rajput] (https://github.com/AKR-2803)
 - [Anand Kumar] (https://github.com/Whitedevil4648)
+- [Shaikh Sohel] (https://github.com/ShaikhSohel1)
 - [Mohammad Haaris Javed] (https://github.com/haaris272k)
 - [Nadine Oka] (https://github.com/nadineoka)
 - [Neeraj Pillai] (https://github.com/Neeraj1213)
