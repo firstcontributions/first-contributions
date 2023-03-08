@@ -2949,3 +2949,4 @@ Ayan Das
 - [Krishna Tummalapalli](https://github.com/kptummalapalli)
 - [Dan James](https://github.com/Danjamesd)
 - [Denis Stefanski](https://github.com/denis-ste)
+- [Eddie Galindez](https://github.com/Radical-Edward-G/)
