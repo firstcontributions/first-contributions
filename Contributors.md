@@ -196,6 +196,7 @@ Adwai
 - [Margalit](https://github.com/mMargalit)
 - [Tomas Simko](https://github.com/TomassSimko)
 - [Navajeevan](https://github.com/iamnavajeevan)
+- [Gopinath Sahu](https://github.com/gnsgns6)
 [naga]
 JUnaid jamshed from nellikkuth
 - **[C.Viswanath](https://github.com/c-viswanath)**
