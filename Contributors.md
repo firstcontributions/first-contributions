@@ -1068,6 +1068,7 @@ Subhajit Bera
 - Yash Rustogi
 - Okuroemi Douebi Kelvin
 - [[Rohit Mohanty]] (https://github.com/jayClean)
+- emilioizaguirre
 - [Dhruv Tandon} @DevsocPI
 - esisgilz
 - Tosif Khan
