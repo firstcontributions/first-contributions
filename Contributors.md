@@ -2909,6 +2909,7 @@ Ayan Das
 - [Abdul Moiz Lakhani](https://github.com/abdulmoizlakhani)
 - [Xemio](https://github.com/xemioxd)
 - [7exx](https://github.com/7exx)
+- [Brais Lorenzo] (https://github.com/Brattto)
 - [rakesh-kumar](https://github.com/Rakesh709)
 - [Adarsha K S](https://github.com/adarsha83)
 - [Manish Rana](https://github.com/ranamaniz)
