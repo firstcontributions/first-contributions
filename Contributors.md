@@ -218,6 +218,7 @@ JUnaid jamshed from nellikkuth
 - [Natnael Afework](https://github.com/Nathaniel-af)
 - [Onyedikachi Eni](https://github.com/KindEni)
 - [ahguanz](https://github.com/ahguanz)
+- [Yusuf Pathan](https://github.com/YusufPathan06)
 - [Petter Andersson](https://github.com/PetterA87)
   [Vanessa]
   [Joshua Chaparro] (https://github.com/joshua-chaparro)
