@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [AayushPaigwar](https://github.com/AayushPaigwar)
+- [Brandonawan](https://github.com/Brandonawan)
 - [darkGhost] (https://github.com/darkGhost3108)
 - [Anand Kumar] (https://github.com/Whitedevil4648)
 - [Mohammad Haaris Javed] (https://github.com/haaris272k)
