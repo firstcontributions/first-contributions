@@ -1044,6 +1044,7 @@ Subhajit Bera
 - [Karthik Kamineni](https://github.com/Karthik-4-5-22)
 - [kmd](https://github.com/kmd9513)
 - [Rohit Sagar](https://github.com/rohit-sagar256)
+- [Ahmed Bedeir](https://github.com/AhmedBedeir)
 - [Kshitij Verma@DevsocPI](https://github.com/melon9829)
 - [Prajwal Rudrakshi](https://github.com/pgrudra)
 - [Vaughan Butler](https://github/Wrinklytech)
