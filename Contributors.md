@@ -3003,3 +3003,4 @@ Ayan Das
 - [Nidarshan Kumar](https://github.com/Nidarshan619)
 - [Kevin Stewart-Mercurio](https://github.com/kevinstewartmercurio)
 - [Azaria Wora Onanga](https://github.com/Azaria92)
+- [Samir Magdy Ishak](https://github.com/samirMagdyIshak)
