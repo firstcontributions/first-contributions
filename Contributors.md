@@ -2988,6 +2988,7 @@ Ayan Das
 - [Denis Stefanski](https://github.com/denis-ste)
 - [Eddie Galindez](https://github.com/Radical-Edward-G/)
 - [Xia](https://github.com/xia930425/)
+- [iFurane](https://github.com/iFurane)
 - [Kunal Singh](https://github.com/kunal021)
 - [Gevorg Davtyan](https://github.com/gevorgdavtyan)
 - [asxraj](https://github.com/asxraj)
