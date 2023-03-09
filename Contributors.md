@@ -13,6 +13,7 @@
 - [Nadine Oka] (https://github.com/nadineoka)
 - [Neeraj Pillai] (https://github.com/Neeraj1213)
 - [Relc]
+- [Nitesh Singh Solanki] (https://github.com/onlyniteshsingh)
 - [Oddballlnner] (https://github.com/Oddballlnner)
 - [Abubakr Hisham](https://github.com/abubakr404/)
 - [Diego Lascano](https://github.com/DallasBelt)
