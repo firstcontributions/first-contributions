@@ -783,6 +783,7 @@ Subhajit Bera
 - [Likith S H](https://github.com/likithkun)
 - [Elvin F F](https://github.com/cider23)
 - [Andy Arensman](https://github.com/andyarensman)
+- [Louis Heal](https://github.com/louisheal)
 - [emily](https://github.com/Yingemily)
 - [Kamwa Emmanuelle Alix][https://github.com/emmanuellekamwa/]
 - [pradipta-kalita](https://github.com/pradipta-kalita)
