@@ -16,6 +16,7 @@
 - [Nitesh Singh Solanki] (https://github.com/onlyniteshsingh)
 - [Oddballlnner] (https://github.com/Oddballlnner)
 - [Abubakr Hisham](https://github.com/abubakr404/)
+- [KritiJaggi](https://github.com/KritiJaggi)
 - [Diego Lascano](https://github.com/DallasBelt)
 - [Ayush Vidhale](https://github.com/ayushvidhale)
 - [Krigo Liu] (https://github.com/Krigo-Liu)
