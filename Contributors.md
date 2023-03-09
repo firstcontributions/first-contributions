@@ -138,6 +138,7 @@ Adwai
 - [Arthur Okonkwo](https://github.com/arthurokonkwo)
 - [Clo]
 - [yahya.abdulsattar]
+- [Brandon Gorman] (https://github.com/bgorman87)
 - [Momanyi Samuel](https://github.com/momanyisamuel)
 - [Micha  Konon]
 - [TariqAziz](https://github.com/Tariq-AQ)
