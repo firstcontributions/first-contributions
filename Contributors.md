@@ -2995,3 +2995,4 @@ Ayan Das
 - [Gevorg Davtyan](https://github.com/gevorgdavtyan)
 - [asxraj](https://github.com/asxraj)
 - [Nidarshan Kumar](https://github.com/Nidarshan619)
+- [Kevin Stewart-Mercurio](https://github.com/kevinstewartmercurio)
