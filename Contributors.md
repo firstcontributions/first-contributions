@@ -1721,6 +1721,7 @@ Rishabh Pandey
 - [Kely Sarmi](https://github.com/kelysi)
 - [nyx500](https://github.com/nyx500)
 - [Erik Valle](https://github.com/rpogtato)
+- [Nicholas Maina](https://github.com/NickGoko)
 - [CDA](https://github.com/devstoriesplayground/)
 - [Boban Krsteski](https://github.com/bkrstesk)
 - [Adit Bhargava](https://github.com/zcsop1206)
