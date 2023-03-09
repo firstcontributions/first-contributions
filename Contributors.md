@@ -5,6 +5,7 @@
 - [AayushPaigwar](https://github.com/AayushPaigwar)
 - [Brandonawan](https://github.com/Brandonawan)
 - [darkGhost] (https://github.com/darkGhost3108)
+- [shinobi3142] (https://github.com/darkGhost3142)
 - [Aaryaveer Rajput] (https://github.com/AKR-2803)
 - [Anand Kumar] (https://github.com/Whitedevil4648)
 - [Shaikh Sohel] (https://github.com/ShaikhSohel1)
