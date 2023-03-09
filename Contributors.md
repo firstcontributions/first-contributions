@@ -17,6 +17,7 @@
 - [Neeraj Pillai] (https://github.com/Neeraj1213)
 - [Relc]
 - [Nitesh Singh Solanki] (https://github.com/onlyniteshsingh)
+- [Joel Samaniego] (https://github.com/samajoel)
 - [Oddballlnner] (https://github.com/Oddballlnner)
 - [Kobby-Jones] (https://github.com/Kobby-Jones)
 - [Abubakr Hisham](https://github.com/abubakr404/)
