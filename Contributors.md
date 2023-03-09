@@ -17,6 +17,7 @@
 - [Relc]
 - [Nitesh Singh Solanki] (https://github.com/onlyniteshsingh)
 - [Oddballlnner] (https://github.com/Oddballlnner)
+- [Kobby-Jones] (https://github.com/Kobby-Jones)
 - [Abubakr Hisham](https://github.com/abubakr404/)
 - [KritiJaggi](https://github.com/KritiJaggi)
 - [Diego Lascano](https://github.com/DallasBelt)
