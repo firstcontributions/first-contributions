@@ -22,6 +22,7 @@
 - [Krigo Liu] (https://github.com/Krigo-Liu)
 - [Piyush Gambhir](https://github.com/Piyush-Gambhir)
 - [Rene](https://github.com/dwaddle)
+- [Monish Khatri](https://github.com/monish-khatri)
 - [Aryan Karayi] (https://github.com/aryankarayi)
 - [Ankitjt] (https://github.com/ankitjt)
 - [Rajesh Arora] (https://github.com/rajesharora2801)
