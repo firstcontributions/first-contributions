@@ -23,6 +23,7 @@
 - [Shawn Mels] (https://github.com/Shawnmels1998)
 - [Katherine Robles] (https://github.com/KMR1221)
   [Ayo Michaels] (https://github.com/ayomichaels)
+  [Zane]
   [Deepika Indran](https://github.com/deepiikaa24)
 - [Brijesh Yadav] (https://github.com/ibrijesh)
   [Oscar Juarez] (https://github.com/OscarJO20)
