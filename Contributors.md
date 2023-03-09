@@ -2980,3 +2980,4 @@ Ayan Das
 - [Eddie Galindez](https://github.com/Radical-Edward-G/)
 - [Xia](https://github.com/xia930425/)
 - [Kunal Singh](https://github.com/kunal021)
+- [Gevorg Davtyan](https://github.com/gevorgdavtyan)
