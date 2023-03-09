@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Albin N J](https://github.com/AlbinN-J)
+- [kyrill belomenov](https://github.com/kybe236)
 - [craigardy]
 - [AayushPaigwar](https://github.com/AayushPaigwar)
 - [Brandonawan](https://github.com/Brandonawan)
