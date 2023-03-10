@@ -44,6 +44,7 @@
   [Oscar Juarez] (https://github.com/OscarJO20)
 - [Nikita] (https://github.com/humanbelnik)
 - [Ivan] (https://github.com/ivazin)
+- [Tomas Carrasco] (https://github.com/tomascarrascoo)
 - [Nicholas Argadiraksa] (https://github.com/nicholas2336)
 - [Vanessa Cheang] (https://github.com/vanessacci)
 - [Oreste Barranco] (https://github.com/orebarranco)
