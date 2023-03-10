@@ -866,7 +866,6 @@
 - [Mehul Prasad](https://github.com/M-Destiny)
 - [Sudhanshu Rai]
 - [Austin Carr](https://github.com/acarr123)
-- [Tonie Victor](https://github.com/Tonie-NG)
 - [Kalia Lor](https://github.com/kalialor)
 - [Keyvan Majidi](https://github.com/keyvanmj)
 - [Niall De Barra](https://github.com/NiallDeBarra)
@@ -1789,6 +1788,7 @@
 - [Sohan@DevsocPI]
 - [Ryan Murphy]
 - [Abdullahi Yusuf](https://github.com/abdullahiheart)
+- [Tonie Victor](https://github.com/Tonie-NG)
 - [Aleksandr Bochkarev](https://github.com/sash00k/)
 - [Dylan Messerly](https://github.com/CodeDTX11)
 - [Zhenya Mateyuk](https://github.com/jEUGENEdev/)
