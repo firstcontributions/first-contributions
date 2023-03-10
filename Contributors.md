@@ -3006,4 +3006,4 @@ Ayan Das
 - [Kevin Stewart-Mercurio](https://github.com/kevinstewartmercurio)
 - [Azaria Wora Onanga](https://github.com/Azaria92)
 - [Samir Magdy Ishak](https://github.com/samirMagdyIshak)
-- [BUGLI27 (github.com)](https://github.com/BUGLI27)
+- [BUGLI27](https://github.com/BUGLI27)
