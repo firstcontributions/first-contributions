@@ -88,6 +88,7 @@ Adwai
 - [Pierre Corazo Cesario](https://github.com/PScoriae)
 - [Petar Petrovic] (https://github.com/GameExplorer)
 - [Anamol Dhakal] (https://github.com/AnamolZ)
+- [Bruno Banoczi-Csernak] (https://github.com/l4r4TW)
 - [Alex Murillo] (https://github.com/emergency22)
 - [Elijah Zimmerman] (https://github.com/arcaneJesus)
 - [Nizam Y Chaudhary] (https://github.com/Nizam9313)
