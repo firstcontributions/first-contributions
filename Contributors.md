@@ -43,6 +43,7 @@
 - [Ankitjt] (https://github.com/ankitjt)
 - [Rajesh Arora] (https://github.com/rajesharora2801)
   [Matheus]
+- [K4ZULI] (https://github.com/superflyguy81)
 - [Shawn Mels] (https://github.com/Shawnmels1998)
 - [Sandeep Gorule] (https://github.com/sandeepgorule)
 - [Jintao Forone] (https://github.com/jintaoforone)
