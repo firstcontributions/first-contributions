@@ -6,6 +6,7 @@
 - [craigardy]
 - [AayushPaigwar](https://github.com/AayushPaigwar)
 - [Bertin](https://github.com/goerlibe)
+- [DivyaAgrawal](https://github.com/divyaagrawal877)
 - [Brandonawan](https://github.com/Brandonawan)
 - [darkGhost] (https://github.com/darkGhost3108)
 - [shinobi3142] (https://github.com/darkGhost3142)
