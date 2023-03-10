@@ -3,6 +3,7 @@
 - [Albin N J](https://github.com/AlbinN-J)
 - [craigardy]
 - [AayushPaigwar](https://github.com/AayushPaigwar)
+- [Bertin](https://github.com/goerlibe)
 - [Brandonawan](https://github.com/Brandonawan)
 - [darkGhost] (https://github.com/darkGhost3108)
 - [shinobi3142] (https://github.com/darkGhost3142)
@@ -31,6 +32,8 @@
 - [Rajesh Arora] (https://github.com/rajesharora2801)
   [Matheus]
 - [Shawn Mels] (https://github.com/Shawnmels1998)
+- [Sandeep Gorule] (https://github.com/sandeepgorule)
+- [Jintao Forone] (https://github.com/jintaoforone)
 - [Katherine Robles] (https://github.com/KMR1221)
   [Ayo Michaels] (https://github.com/ayomichaels)
   [Zane]
@@ -191,6 +194,7 @@ Adwai
 - [akele-guzay]
 - [Xanthium]
 -[Urvi]
+- [Dhemeira](https://github.com/dhemeira)
 - [Anindo Sarker](https://github.com/anindosarker/)
 - [Codey Gallup](https://github.com/Codeyg12)
 - [Charles Showalter](https://github.com/WorldDrknss)
@@ -2083,6 +2087,7 @@ Rishabh Pandey
 - [KratikJain10](https://github.com/KratikJain10)
 - [RogueTM](https://github.com/RogueTMs)
 - [jiwonqaz](https://github.com/jiwonqaz)
+- [Akshay Ballal](https://github.com/akballal)
 - [Joshua Varghese](https://github.com/joshvarg)
 - [chowonbhin](https://github.com/chowonbhin)
 - [mimeosd](https://github.com/mimeosd)
