@@ -13,7 +13,6 @@
 - [Ankitjt] (https://github.com/ankitjt)
   [Matheus]
   [Deepika Indran](https://github.com/deepiikaa24)
-  [Tonie Victor](https://github.com/Tonie-NG)
   [Oscar Juarez] (https://github.com/OscarJO20)
 - [Ivan] (https://github.com/ivazin)
 - [Nicholas Argadiraksa] (https://github.com/nicholas2336)
@@ -867,6 +866,7 @@
 - [Mehul Prasad](https://github.com/M-Destiny)
 - [Sudhanshu Rai]
 - [Austin Carr](https://github.com/acarr123)
+- [Tonie Victor](https://github.com/Tonie-NG)
 - [Kalia Lor](https://github.com/kalialor)
 - [Keyvan Majidi](https://github.com/keyvanmj)
 - [Niall De Barra](https://github.com/NiallDeBarra)
