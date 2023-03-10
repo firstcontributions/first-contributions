@@ -8,6 +8,7 @@
 - [Bertin](https://github.com/goerlibe)
 - [DivyaAgrawal](https://github.com/divyaagrawal877)
 - [Brandonawan](https://github.com/Brandonawan)
+- [JohnLc12-9](https://github.com/JohnLc12-9)
 - [darkGhost] (https://github.com/darkGhost3108)
 - [shinobi3142] (https://github.com/darkGhost3142)
 - [Aaryaveer Rajput] (https://github.com/AKR-2803)
