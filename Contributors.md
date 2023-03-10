@@ -3025,3 +3025,4 @@ Ayan Das
 - [Adie nunn](https://github.com/cowtipping)
 - [Paijo a.k.a Oyi77](https://github.com/oyi77)
 - [Orion Montoya C](https://github.com/orionmontoyac)
+- [ilMagnifico](https://github.com/ilMagnifico)
