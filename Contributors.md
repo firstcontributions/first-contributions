@@ -3019,5 +3019,6 @@ Ayan Das
 - [Kevin Stewart-Mercurio](https://github.com/kevinstewartmercurio)
 - [Azaria Wora Onanga](https://github.com/Azaria92)
 - [Samir Magdy Ishak](https://github.com/samirMagdyIshak)
+- [ilMagnifico](https://github.com/ilMagnifico)
 - [Adie nunn](https://github.com/cowtipping)
 - [Orion Montoya C](https://github.com/orionmontoyac)
