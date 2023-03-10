@@ -38,6 +38,7 @@
   [Matheus]
 - [Shawn Mels] (https://github.com/Shawnmels1998)
 - [Sandeep Gorule] (https://github.com/sandeepgorule)
+- [Jintao Forone] (https://github.com/jintaoforone)
 - [Katherine Robles] (https://github.com/KMR1221)
   [Ayo Michaels] (https://github.com/ayomichaels)
   [Zane]
