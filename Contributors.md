@@ -6,6 +6,7 @@
 - [craigardy]
 - [AayushPaigwar](https://github.com/AayushPaigwar)
 - [Bertin](https://github.com/goerlibe)
+- [DivyaAgrawal](https://github.com/divyaagrawal877)
 - [Brandonawan](https://github.com/Brandonawan)
 - [darkGhost] (https://github.com/darkGhost3108)
 - [shinobi3142] (https://github.com/darkGhost3142)
@@ -2721,6 +2722,7 @@ Ayan Das
 - [Jordan Bianco](https://github.com/Jordan-Bianco)
 - [Mehar Giri](https://github.com/mehargiri)
 - [Shaurya Shah](https://github.com/sscs12345/)
+- [Gabriel Silva de Souza](https://github.com/gsisouza)
 - [Esha Shah](https://github.com/Esha98)
 - [Tomma](https://github.com/tomma-a)
 - [Bindiya Kundaliya](https://github.com/bindiya-kundaliya)
@@ -3018,3 +3020,5 @@ Ayan Das
 - [Azaria Wora Onanga](https://github.com/Azaria92)
 - [Samir Magdy Ishak](https://github.com/samirMagdyIshak)
 - [ilMagnifico](https://github.com/ilMagnifico)
+- [Adie nunn](https://github.com/cowtipping)
+- [Orion Montoya C](https://github.com/orionmontoyac)
