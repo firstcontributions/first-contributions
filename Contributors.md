@@ -93,6 +93,7 @@ Adwai
 - [Mahmud Karim] (https://github.com/mahmud-karim)
 - [Sheriff Oladimeji] (https://github.com/sheriffOladimeji)
 - [Matthew Lee] (https://github.com/mattyleecifer/)
+- [Lachlan Thornton] (https://github.com/LachThorn/)
 - [Natalie OC]  (https://github.com/ocnattie/)
 - [cx-olquinjica] (https://github.com/cx-olquinjica)
 - [Rohit Jain] (https://github.com/abcrohit)
