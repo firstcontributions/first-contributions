@@ -3020,4 +3020,5 @@ Ayan Das
 - [Azaria Wora Onanga](https://github.com/Azaria92)
 - [Samir Magdy Ishak](https://github.com/samirMagdyIshak)
 - [Adie nunn](https://github.com/cowtipping)
+- [Paijo a.k.a Oyi77](https://github.com/oyi77)
 - [Orion Montoya C](https://github.com/orionmontoyac)
