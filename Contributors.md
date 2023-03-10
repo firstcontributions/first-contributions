@@ -1585,6 +1585,7 @@ Rishabh Pandey
 - [Thet Paing Soe](https://github.com/ThetPaingSoe)
 - [regularmute](https://github.com/regularmute)
 - [Parth Naik] @DevsocPI
+- [Arya Sarkar] (https://github.com/Aryasarkar008)
 - [Tewodros Amare](https://github.com/teddygizachew)
 - [Stephen Silveira](https://github.com/stephen-silveira)
 - [Mohammed N](https://github.com/momed-0)
