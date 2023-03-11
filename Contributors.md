@@ -108,6 +108,7 @@ Adwai
 - [Lauris Macans] (https://github.com/lauriselvijs)
 - [Ranjan Shitole] (https://github.com/ranjan2829)
 - [Pierre Corazo Cesario](https://github.com/PScoriae)
+- [Alejandro Gonzalez Montalvo](https://github.com/Ajelandro19)
 - [Petar Petrovic] (https://github.com/GameExplorer)
 - [Anamol Dhakal] (https://github.com/AnamolZ)
 - [Bruno Banoczi-Csernak] (https://github.com/l4r4TW)
