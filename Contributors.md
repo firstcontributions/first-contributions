@@ -1310,6 +1310,7 @@ Rishabh Pandey
 - [yuki](https://github.com/F3eQnxN3RriK)
 - [Kaiden Flaig]
 - [Joshua Ngene](https://github.com/lotacodic)
+- [Diego Diaz] (https://github.com/dialejo24)
 - [Georgy](https://github.com/Gkuzin13)
 - [Joshua Gray] (https://github/joshhgray)
 - [Giang Pham](https://github.com/giangpham-cfg)
