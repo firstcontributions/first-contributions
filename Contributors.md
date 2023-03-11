@@ -11,6 +11,7 @@
 - [AayushPaigwar](https://github.com/AayushPaigwar)
 - [BhavyaNarnoli](https://github.com/bhavyanarnoli)
 - [Bertin](https://github.com/goerlibe)
+- [Talha Yousuf](https://github.com/talhayousuff)
 - [DivyaAgrawal](https://github.com/divyaagrawal877)
 - [Mukul Padwal](https://github.com/mukulpadwal)
 - [Brandonawan](https://github.com/Brandonawan)
