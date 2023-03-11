@@ -305,6 +305,7 @@ JUnaid jamshed from nellikkuth
 - [MiguelOrtsB](https://github.com/MiguelOrtsB)
 - [Yuwanita](https://github.com/Yunawitap/)
 - [Braedon Williams](https://github.com/BraedonW777)
+- [Bilal Malik](https://github.com/TripleStarCodeHunter) 
 - [vishesh Sharma](https://github.com/Vishesh3569)
 - [Sunil Varma]
 - [Andrew Herring](https://github.com/Likethefish1520)
