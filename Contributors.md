@@ -24,6 +24,7 @@
 - [Mohammed Saayim] 
 - [Jerin Saji] (https://github.com/jerin-saji)
 - [Mohammad Haaris Javed] (https://github.com/haaris272k)
+- Robonova 8)
 - [Nadine Oka] (https://github.com/nadineoka)
 - [Neeraj Pillai] (https://github.com/Neeraj1213)
 - [Relc]
