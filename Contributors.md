@@ -2733,6 +2733,7 @@ Ayan Das
 - [leon-arndt](https://github.com/leon-arndt)
 - [Rima Mei Handayani](https://github.com/rimamei)
 - [Shailja Bahuguna](https://github.com/shailja2727)
+- [eDev23]
 - [John Escamilla] (http://github.com/J-Escamilla)
 -[Abhishek Yadav](https://github.com/Abhiyadav3114)
 - [Michael Shi] (https://github.com/tallmikey)
@@ -3052,3 +3053,5 @@ Ayan Das
 - [Dhairya Arora](https://github.com/Dhairya-Arora01)
 - [Ana Ptak](https://github.com/anastasiaptak)
 - [HARAJIT](https://github.com/harajit05)
+- [Shashank Garg](https://github.com/Shashankgarg7578)
+- [Aravind Singh](https://github.com/aravindsingh08)
