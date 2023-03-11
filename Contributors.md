@@ -283,6 +283,7 @@ JUnaid jamshed from nellikkuth
 - [Edwina Dsouza](https://github.com/edwinadsouza)
 - EDWINA DSOUZA
 - [VulcanWM](https://github.com/VulcanWM)
+- [Aditya Singh](https://github.com/adityasingh22)
 # [Steven Wong](https://github.com/ycstevenwong)
 # [V1K1NGbg](https://github.com/V1K1NGbg)
 - [DanexQ](https://github.com/DanexQ)
