@@ -10,6 +10,7 @@
 - [erdemy885](https://github.com/erdemy885)
 - [AayushPaigwar](https://github.com/AayushPaigwar)
 - [BhavyaNarnoli](https://github.com/bhavyanarnoli)
+  [Maahnoor](https://github.com/Maahnoor)
 - [Bertin](https://github.com/goerlibe)
 - [Talha Yousuf](https://github.com/talhayousuff)
 - [DivyaAgrawal](https://github.com/divyaagrawal877)
