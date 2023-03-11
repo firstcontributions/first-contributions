@@ -30,6 +30,7 @@
 - [Mohammad Haaris Javed] (https://github.com/haaris272k)
 - [Watrgoat] (https://github.com/watrgoat)
 - Robonova 8)
+- [Brenden Blake] (https://github.com/blakebt)
 - [Nadine Oka] (https://github.com/nadineoka)
 - [Neeraj Pillai] (https://github.com/Neeraj1213)
 - [Relc]
