@@ -750,6 +750,7 @@ Subhajit Bera
 - [Maya Sollen-Norrlin](https://github.com/Masoleno)
 - [Anirudh Revanur](https://github.com/AnirudhRevanur)
 - [Mitch Sfakianos](https://github.com/mazarinno)
+- [Riyan Sthefanus N](https://github.com/riyansn)
 - Sudhanshu Rai
 - Programming Boulderer
 - Ankit R Borude
