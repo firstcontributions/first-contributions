@@ -3039,4 +3039,5 @@ Ayan Das
 - [TonyChar3](https://github.com/TonyChar3)
 - [PiotrJagielny](https://github.com/PiotrJagielny)
 - [Marble]
+- [Dhairya Arora](https://github.com/Dhairya-Arora01)
 - [Ana Ptak](https://github.com/anastasiaptak)
