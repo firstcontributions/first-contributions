@@ -34,6 +34,7 @@
 - [Eren ERDOGAN] (https://github.com/erenerdogann/)
 - [KritiJaggi](https://github.com/KritiJaggi)
 - [Diego Lascano](https://github.com/DallasBelt)
+- [Huy Vu](https://github.com/vuhuy172dh)
 - [Ayush Vidhale](https://github.com/ayushvidhale)
 - [Krigo Liu] (https://github.com/Krigo-Liu)
 - [Piyush Gambhir](https://github.com/Piyush-Gambhir)
