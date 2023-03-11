@@ -36,6 +36,7 @@
 - [Kobby-Jones] (https://github.com/Kobby-Jones)
 - [Abubakr Hisham](https://github.com/abubakr404/)
 - [Eren ERDOGAN] (https://github.com/erenerdogann/)
+- [Ayush Nighoskar] (https://github.com/ayushnighoskar)
 - [KritiJaggi](https://github.com/KritiJaggi)
 - [Diego Lascano](https://github.com/DallasBelt)
 - [Huy Vu](https://github.com/vuhuy172dh)
