@@ -1367,6 +1367,7 @@ Rishabh Pandey
 - [Tharun Chougoni]
 - [Uras Varolgunes]
 - [Limoo Kiplimo](https://github.com/Limookiplimo)
+- [Dezza Anne Peregrina](https://github.com/dezzaanneperegrina)
 - [BK Pecho](https://github.com/bkpecho)
 - Kenneth Onu
 - [James Weber De Asis](https://github.com/forfeitpotato)
