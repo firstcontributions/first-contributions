@@ -12,6 +12,7 @@
 - [BhavyaNarnoli](https://github.com/bhavyanarnoli)
   [Maahnoor](https://github.com/Maahnoor)
 - [Bertin](https://github.com/goerlibe)
+- [yuxm](https://github.com/yux-m)
 - [Talha Yousuf](https://github.com/talhayousuff)
 - [DivyaAgrawal](https://github.com/divyaagrawal877)
 - [Mukul Padwal](https://github.com/mukulpadwal)
