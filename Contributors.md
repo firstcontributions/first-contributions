@@ -9,6 +9,7 @@
 - [Albin N J](https://github.com/AlbinN-J)
 - [kyrill belomenov](https://github.com/kybe236)
 - [craigardy]
+- [Aviral Singh](https://github.com/aviralsingh108/)
 -[Tarun Prakash Poram](https://github.com/tarunprakashporam)
 - [Meraduro](https://github.com/Meraduro)
 - [erdemy885](https://github.com/erdemy885)
