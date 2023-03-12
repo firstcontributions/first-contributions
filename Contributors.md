@@ -1945,6 +1945,7 @@ Rishabh Pandey
 - [Matt King](https://github.com/imattking)
 - [Anya McDonald](https://github.com/anyahush)
 - [Neul](https://github.com/neul-lw)
+- [Bruno Albuquerque](https://github.com/boa50)
 - [Vitor Magnago](https://github.com/vitormagnago)
 - [Kartik Kumar](https://github.com/yellowterrum)
 - [Yoseph Winata](https://github.com/arkhamvillain)
