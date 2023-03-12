@@ -95,6 +95,7 @@
 - [Farooq Javed] (https://github.com/farooqjaved)
 - [f4rukyldrm](https://github.com/f4rukyldrm)
 - [Siddhant Patil] (https://github.com/Sid-Pat)
+- [Swathi Melapu] (https://github.com/melapuswathi)
 - [Soumik Saha] (https://github.com/soumik-saha)
 - [Ananya Goyal] (https://githib.com/cation03)
 - [Privilege Mendes] (https://github.com/privilegemendes)
