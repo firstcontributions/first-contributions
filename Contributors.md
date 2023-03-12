@@ -749,6 +749,7 @@ Subhajit Bera
 - [Eklemis](https://github.com/eklemis)
 - [Luis Adan Hernandez](https://github.com/AdanHernandez2)
 - [Blake Shelby](https://github.com/leolautens)
+- [Aayush Kumar Jha](https://github.com/Aayush895)
 - [Ambar Avalos](https://github.com/ambar12345)
 - [Krishna](https://github.com/kcterala)
 - [Jainex 😄](https://github.com/Jainex17)
