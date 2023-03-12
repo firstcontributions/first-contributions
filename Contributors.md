@@ -71,6 +71,7 @@
 - [Brijesh Yadav] (https://github.com/ibrijesh)
   [Oscar Juarez] (https://github.com/OscarJO20)
 - [Nikita] (https://github.com/humanbelnik)
+- [Vilas] (https://github.com/villAsh)
 - [Anand] (https://github.com/AK4266)
 - [Ivan] (https://github.com/ivazin)
 - [Nicholas Argadiraksa] (https://github.com/nicholas2336)
