@@ -10,9 +10,10 @@
 - [kyrill belomenov](https://github.com/kybe236)
 - [craigardy]
 - [Aviral Singh](https://github.com/aviralsingh108/)
--[Tarun Prakash Poram](https://github.com/tarunprakashporam)
+- [Tarun Prakash Poram](https://github.com/tarunprakashporam)
 - [Meraduro](https://github.com/Meraduro)
 - [erdemy885](https://github.com/erdemy885)
+- [LordBrim](https://github.com/LordBrim)
 - [MohitRajSinha](https://github.com/mohitrajsinha)
 - [AayushPaigwar](https://github.com/AayushPaigwar)
 - [BhavyaNarnoli](https://github.com/bhavyanarnoli)
@@ -96,7 +97,7 @@
 - [Nicholas Hwang]
 - [Thea SF] (https://github.com/thea-sf)
 - [Leon Albert] (https://github.com/leonn00albert)
-[HMT] (https://github.com/HtetAungThan)
+- [HMT] (https://github.com/HtetAungThan)
 - [Farooq Javed] (https://github.com/farooqjaved)
 - [f4rukyldrm](https://github.com/f4rukyldrm)
 - [Siddhant Patil] (https://github.com/Sid-Pat)
