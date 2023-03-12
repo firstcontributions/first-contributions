@@ -3002,6 +3002,7 @@ Ayan Das
 - [sumit Gupta](https://github.com/hisumitgupta)
 - [Anurag Sarkar](https://github.com/Anurag-Sarkar)
 - [Zeeshan Lone](https://github.com/still-learning-ev)
+- [Julie Gunawan][https://github.com/JulieGunawan]
 - [ThotakuraHarish](https://github.com/ThotakuraHarish2003)
 - [Marshall Stone] (https://github.com/marshallstone)
 - [MBDUR12](https://github.com/MBDur12/)
