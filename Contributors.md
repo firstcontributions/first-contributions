@@ -3075,6 +3075,7 @@ Ayan Das
 - [HARAJIT](https://github.com/harajit05)
 - [Shashank Garg](https://github.com/Shashankgarg7578)
 - [Aravind Singh](https://github.com/aravindsingh08)
+- [Tushar Goel](https://github.com/tusharG1371)
 - [tom8213](https://github.com/tom8213)
 - [kylierst](https://github.com/kylierst) 
 - [AustinGallippo](https://github.com/austingallippo)
