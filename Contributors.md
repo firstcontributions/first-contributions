@@ -54,6 +54,7 @@
 - [Rene](https://github.com/dwaddle)
 - [Monish Khatri](https://github.com/monish-khatri)
 - [Savita Shalin](https://github.com/savitashalin)
+- [Jerom Jo](https://github.com/lordgrim18)
 - [Aryan Karayi] (https://github.com/aryankarayi)
 - [Ankitjt] (https://github.com/ankitjt)
 - [Rajesh Arora] (https://github.com/rajesharora2801)
