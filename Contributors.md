@@ -98,6 +98,7 @@ Adwai
 - [Abhinav Tyagi] (https://github.com/abhityagi12)
 - [Carlos Goncalves] (https://github.com/ogqoda)
 - [Sanjiv Pansari](https://github.com/spansari)
+- [Nikolai Ruilova](https://github.com/NikoRuBln)
 - [Samrat Ghosh](https://github.com/samratghosh291)
 - [Lee Eros Galaad Dias de Moura](https://github.com/LeeEros)
 - [Luke Wardle] (https://github.com/LukeWardle)
