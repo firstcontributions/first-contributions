@@ -3083,6 +3083,7 @@ Ayan Das
 - [PiotrJagielny](https://github.com/PiotrJagielny)
 - [Rahulan Mahendra](https://github.com/rahulan-mahendra)
 - [Marble]
+- [Nabeel Khan](https://github.com/nabeelkhan10)
 - [Dhairya Arora](https://github.com/Dhairya-Arora01)
 - [Rashed Obaid](https://github.com/rsobaid)
 - [Ana Ptak](https://github.com/anastasiaptak)
@@ -3101,3 +3102,4 @@ Ayan Das
   [Mehran javid](https://github.com/mehranjavid)
 Hannibal Lecter[https://github.com/drlecte]
   [Suvam Chatterjee][https://github.com/Suvam1508]
+
