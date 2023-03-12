@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 - [Antyss77](https://github.com/Antyss77)
 - [OmriOn] (https://github.com/OmriOn)
+- [Aleksandir] (https://github.com/Aleksandir)
 - [guillemboada](https://github.com/guillemboada)
 - [Albin N J](https://github.com/AlbinN-J)
 - [kyrill belomenov](https://github.com/kybe236)
