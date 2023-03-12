@@ -49,6 +49,7 @@
 - [Diego Lascano](https://github.com/DallasBelt)
 - [Huy Vu](https://github.com/vuhuy172dh)
 - [Ayush Vidhale](https://github.com/ayushvidhale)
+- [Tushar Khajuria] (https://github.com/TusharKhajuria52)
 - [Krigo Liu] (https://github.com/Krigo-Liu)
 - [Piyush Gambhir](https://github.com/Piyush-Gambhir)
 - [Rene](https://github.com/dwaddle)
