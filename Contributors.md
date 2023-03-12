@@ -14,6 +14,7 @@
 - [Bertin](https://github.com/goerlibe)
 - [yuxm](https://github.com/yux-m)
 - [Talha Yousuf](https://github.com/talhayousuff)
+- [Vaibhav Satish](https://github.com/Vaibhav-sa30)
 - [DivyaAgrawal](https://github.com/divyaagrawal877)
 - [Mukul Padwal](https://github.com/mukulpadwal)
 - [Brandonawan](https://github.com/Brandonawan)
