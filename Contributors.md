@@ -34,6 +34,7 @@
 - [darkGhost] (https://github.com/darkGhost3108)
 - [shinobi3142] (https://github.com/darkGhost3142)
 - [iamroshankr] (https://github.com/iamroshankr)
+- [c3rooks] (https://github.com/c3rooks)
 - [Aaryaveer Rajput] (https://github.com/AKR-2803)
 - [SpongeJohnSquareLennon](https://github.com/SpongeJohnSquareLennon)
 - [Tomasz Kulczyński](https://github.com/Tkulczynski02)
