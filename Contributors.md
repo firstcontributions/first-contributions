@@ -3115,3 +3115,4 @@ Hannibal Lecter[https://github.com/drlecte]
   [Suvam Chatterjee][https://github.com/Suvam1508]
 - [Emilia Bacik](https://github.com/EmiliaBacik)
 - [Ania Sz](https://github.com/aniaxx)
+- [Agata Chrusniak](https://github.com/Chruscik)
