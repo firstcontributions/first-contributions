@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [hadiul-islam](https://github.com/hadiul-islam)
+- [David Hurtado](https://github.com/davidhurtadodev)
 - [Antyss77](https://github.com/Antyss77)
 - [OmriOn] (https://github.com/OmriOn)
 - [guillemboada](https://github.com/guillemboada)
