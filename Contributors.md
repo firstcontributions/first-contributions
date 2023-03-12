@@ -3078,6 +3078,7 @@ Ayan Das
 - [Rahulan Mahendra](https://github.com/rahulan-mahendra)
 - [Marble]
 - [Dhairya Arora](https://github.com/Dhairya-Arora01)
+- [Rashed Obaid](https://github.com/rsobaid)
 - [Ana Ptak](https://github.com/anastasiaptak)
 - [HARAJIT](https://github.com/harajit05)
 - [Shashank Garg](https://github.com/Shashankgarg7578)
