@@ -198,6 +198,7 @@ Adwai
 - [Joseph Ani](https://github.com/joe-ani)
 - [Arthur Okonkwo](https://github.com/arthurokonkwo)
 - [Clo]
+- [Hugo Demeyere](https://github.com/hudem1)
 - [yahya.abdulsattar]
 - [Brandon Gorman] (https://github.com/bgorman87)
 - [Momanyi Samuel](https://github.com/momanyisamuel)
