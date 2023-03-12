@@ -14,6 +14,7 @@
 - [Bertin](https://github.com/goerlibe)
 - [mnj-gh](https://github.com/mnj-gh)
 - [yuxm](https://github.com/yux-m)
+- [Kratosix](https://github.com/Kratosix)
 - [Talha Yousuf](https://github.com/talhayousuff)
 - [DivyaAgrawal](https://github.com/divyaagrawal877)
 - [Mukul Padwal](https://github.com/mukulpadwal)
