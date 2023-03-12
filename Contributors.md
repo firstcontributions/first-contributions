@@ -139,6 +139,7 @@ Adwai
 - [Himanshu Chauhan](https://github.com/hc011)
 - [Anietie Brownson](https://github.com/AJBrownson)
 - [Talha Mehar](https://github.com/talhamehar007)
+- [Darshan A](http://github.com/chiru-darshan)
 - [Md Daud](https://github.com/daud0x0)
 - [Shovan Mallick] (https://github.com/svn41)
 - [Fabiano Alves] (https://github.com/FabianoAlves-Projects)
