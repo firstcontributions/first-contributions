@@ -59,6 +59,7 @@
 - [Ayush Nighoskar] (https://github.com/ayushnighoskar)
 - [KritiJaggi](https://github.com/KritiJaggi)
 - [Diego Lascano](https://github.com/DallasBelt)
+- [Aryan Roy](https://github.com/Arya10n)
 - [Huy Vu](https://github.com/vuhuy172dh)
 - [Ayush Vidhale](https://github.com/ayushvidhale)
 - [Krigo Liu] (https://github.com/Krigo-Liu)
