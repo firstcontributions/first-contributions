@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Antyss77](https://github.com/Antyss77)
+- {r4huldeveloper} [https://github.com/r4huldeveloper]
 - [OmriOn] (https://github.com/OmriOn)
 - [guillemboada](https://github.com/guillemboada)
 - [Albin N J](https://github.com/AlbinN-J)
@@ -3077,3 +3078,4 @@ Ayan Das
 - [tom8213](https://github.com/tom8213)
 - [kylierst](https://github.com/kylierst) 
 - [AustinGallippo](https://github.com/austingallippo)
+
