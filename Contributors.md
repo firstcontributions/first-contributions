@@ -605,7 +605,6 @@
 - [Jeet Shah](https://github.com/jeetrshah)
 - [Omkar Sapkal](https://github.com/OmkarHub56)
 - [Alex Vranas](https://github.com/avranas)
-- [Raksha] ()
 - [Yaekob Demisse](https://github.com/Jamescog)
 - [Onur Çağan](https://github.com/onurcagan)
 - [MiliyanaS](https://github.com/MiliyanaS)
@@ -3050,4 +3049,5 @@
 - [Aravind Singh](https://github.com/aravindsingh08)
 - [tom8213](https://github.com/tom8213)
 - [kylierst](https://github.com/kylierst)
+- [raksha]
 - [AustinGallippo](https://github.com/austingallippo)
