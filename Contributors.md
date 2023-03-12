@@ -1835,6 +1835,7 @@ Rishabh Pandey
 - [Shubamium](https://github.com/Shubamium)
 - [Rajat Srivastava@DevsocPI]
 - [Phillip Chu](https://github.com/phillippchu)
+- [Andres Rojas](https://github.com/ulichovick) 
 - [Profe Glip](https://github.com/Scr1ptechnick)
 - [Ivan Gutsev](https://github.com/IvanGutsev)
 - [Assogba charbel](https://github.com/charbossly)
