@@ -9,6 +9,7 @@
 -[Tarun Prakash Poram](https://github.com/tarunprakashporam)
 - [Meraduro](https://github.com/Meraduro)
 - [erdemy885](https://github.com/erdemy885)
+- [MohitRajSinha](https://github.com/mohitrajsinha)
 - [AayushPaigwar](https://github.com/AayushPaigwar)
 - [BhavyaNarnoli](https://github.com/bhavyanarnoli)
   [Maahnoor](https://github.com/Maahnoor)
