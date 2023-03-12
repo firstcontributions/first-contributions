@@ -78,6 +78,7 @@
   [Ayo Michaels] (https://github.com/ayomichaels)
   [Zane]
   [Deepika Indran](https://github.com/deepiikaa24)
+  [Himanshu Negi](https://github.com/himanegi)
 - [Brijesh Yadav] (https://github.com/ibrijesh)
   [Oscar Juarez] (https://github.com/OscarJO20)
 - [Nikita] (https://github.com/humanbelnik)
