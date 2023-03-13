@@ -3106,6 +3106,7 @@ Ayan Das
 - [Aravind Singh](https://github.com/aravindsingh08)
 - [Tushar Goel](https://github.com/tusharG1371)
 - [tom8213](https://github.com/tom8213)
+- [nithishvaithya](https://github.com/nithishvaithya)
 - [ysf k](https://github.com/ysf)
 - [kylierst](https://github.com/kylierst) 
 - [AustinGallippo](https://github.com/austingallippo)
