@@ -97,6 +97,7 @@
 - [Vilas] (https://github.com/villAsh)
 - [Anand] (https://github.com/AK4266)
 - [Ivan] (https://github.com/ivazin)
+- [Abdiaziz Abdullahi] (https://github.com/cabdiaziz)
 - [Nicholas Argadiraksa] (https://github.com/nicholas2336)
 - [Vanessa Cheang] (https://github.com/vanessacci)
 - [Oreste Barranco] (https://github.com/orebarranco)
