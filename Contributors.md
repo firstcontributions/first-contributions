@@ -1,4 +1,4 @@
-# Contributors
+  # Contributors
 <!-- prettier-ignore-start -->
 - [miguel-sr] (https://github.com/miguel-sr)
 - [bdvinod788] (https://github.com/bdvinod788)
@@ -14,6 +14,7 @@
 - [kyrill belomenov](https://github.com/kybe236)
 - [cheezenyu](https://github.com/cheezenyu)
 - [craigardy]
+- [tchevier](https://github.com/tchevier)
 - [Sarthak Singh]
 - [Alexander Stub Michelsen}(https://github.com/pantertanter)
 - [Aviral Singh](https://github.com/aviralsingh108/)
