@@ -219,6 +219,7 @@ Adwai
 - [Clo]
 - [Hugo Demeyere](https://github.com/hudem1)
 - [yahya.abdulsattar]
+- [Kaif Khan] (https://github.com/kaifkh20)
 - [Brandon Gorman] (https://github.com/bgorman87)
 - [Momanyi Samuel](https://github.com/momanyisamuel)
 - [Micha  Konon]
