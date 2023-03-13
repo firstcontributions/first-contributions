@@ -13,6 +13,7 @@
 - [kyrill belomenov](https://github.com/kybe236)
 - [craigardy]
 - [Sarthak Singh]
+- [Alexander Stub Michelsen}(https://github.com/pantertanter)
 - [Aviral Singh](https://github.com/aviralsingh108/)
 -[Tarun Prakash Poram](https://github.com/tarunprakashporam)
 - [Meraduro](https://github.com/Meraduro)
