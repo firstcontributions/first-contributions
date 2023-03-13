@@ -3141,3 +3141,4 @@ Hannibal Lecter[https://github.com/drlecte]
 - [Oskar K](https://github.com/oskarkaluziak)
 - [Agata Ch](https://github.com/Chrusciak)
 - [Jagoda G](https://github.com/jagodagrzybowska)
+- [Marcin Pilipczuk](https://github.com/Marcinp98)
