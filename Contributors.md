@@ -3115,4 +3115,6 @@ Hannibal Lecter[https://github.com/drlecte]
   [Suvam Chatterjee][https://github.com/Suvam1508]
 - [Emilia Bacik](https://github.com/EmiliaBacik)
 - [Ania Sz](https://github.com/aniaxx)
-- [Maciej M](https://github.com/MaciekJarzabek)
+- [Maciej J](https://github.com/MaciekJarzabek)
+- [Oskar K](https://github.com/OskarKaluziak)
+- [Agata Ch](https://github.com/Chruscik)
