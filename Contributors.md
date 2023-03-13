@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [miguel-sr] (https://github.com/miguel-sr)
+- [Ashish Rathore](https://github.com/itsashishrath)
 - [SinanTokmak] (https://github.com/SinanTokmak)
 - [oliveren] (https://github.com/renjialan)
 - [Ramses](https://github.com/rammsesgit)
@@ -14,9 +15,9 @@
 - [cheezenyu](https://github.com/cheezenyu)
 - [craigardy]
 - [Sarthak Singh]
-- [Alexander Stub Michelsen}(https://github.com/pantertanter)
+- [Alexander Stub Michelsen](https://github.com/pantertanter)
 - [Aviral Singh](https://github.com/aviralsingh108/)
--[Tarun Prakash Poram](https://github.com/tarunprakashporam)
+- [Tarun Prakash Poram](https://github.com/tarunprakashporam)
 - [Meraduro](https://github.com/Meraduro)
 - [erdemy885](https://github.com/erdemy885)
 - [MohitRajSinha](https://github.com/mohitrajsinha)
