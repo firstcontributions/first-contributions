@@ -96,6 +96,7 @@
 - [PRINCE DOSHI] -[Mohamed Heggi](https://github.com/mtheggi)
 - [Nicholas Hwang]
 - [Thea SF] (https://github.com/thea-sf)
+- [SaintChaos] (https://github.com/Chaos10001)
 - [Leon Albert] (https://github.com/leonn00albert)
   [HMT] (https://github.com/HtetAungThan)
 - [Farooq Javed] (https://github.com/farooqjaved)
@@ -390,7 +391,6 @@
 - [Jester Domingo]
 - [Gad Cooper] (https://github.com/SpyingEnvelope)
 - [FerixFTW] (https://github.com/FerixFTW)
-- [Saint Chaos] (https://github.com/Chaos10001)
 - [Tyler Beitel]
 - [Morgan Smith]
 - [Piyush Yadav](https://github.com/piyushyadav1617)
