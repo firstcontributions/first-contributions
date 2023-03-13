@@ -1554,6 +1554,7 @@ Rishabh Pandey
 - [Gregory John](https://github.com/GregLJ)
 - [Pridhi Grag](https:/github/com/pridhigarg369)
 - [Aimee Jennings](https://github.com/CraftyDemonite)
+- [Kerry Guarino](https://github.com/kerryoncoding)
 - [Susanna-Carey](https://github.com/susannaopal)
 - [Mohammed Fayis](https://github.com/mohmdfayiz)
 - [Juanma Romero](https://github.com/juanmaroni/)
