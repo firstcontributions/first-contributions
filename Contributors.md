@@ -11,6 +11,7 @@
 - [guillemboada](https://github.com/guillemboada)
 - [Albin N J](https://github.com/AlbinN-J)
 - [kyrill belomenov](https://github.com/kybe236)
+- [cheezenyu](https://github.com/cheezenyu)
 - [craigardy]
 - [Sarthak Singh]
 - [Alexander Stub Michelsen}(https://github.com/pantertanter)
