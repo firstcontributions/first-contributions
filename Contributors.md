@@ -1315,6 +1315,7 @@ Rishabh Pandey
 - [VINITH S](https://github.com/realvineeths)
 - [Faisal Saifi](https://github.com/faisalsaifii)
 - [Jake Butler](https://github.com/TioDelMundo)
+- [Greg Duran](https://github.com/GrannyLag)
 - Leon
   pt33
   yes we added!
