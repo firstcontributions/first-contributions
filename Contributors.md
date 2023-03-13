@@ -3121,3 +3121,4 @@ Hannibal Lecter[https://github.com/drlecte]
 - [Emilia Bacik](https://github.com/EmiliaBacik)
 - [Ania Sz](https://github.com/aniaxx)
 - [Maciej M](https://github.com/MaciekJarzabek)
+- [Namugach](https://github.com/namugach)
