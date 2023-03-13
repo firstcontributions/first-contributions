@@ -3163,3 +3163,4 @@ Hannibal Lecter[https://github.com/drlecte]
 - [David Greenlee](https://github.com/dgreenlee1)
 - [ZuzannaBurger](https://github.com/ZuzannaBurger)
 - [Abraham Belay](https://github.com/abrahambelaygelaw)
+- [Gustavo Pauli](https://github.com/Gustavo-Pauli)
