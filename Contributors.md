@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [SinanTokmak] (https://github.com/SinanTokmak)
 - [oliveren] (https://github.com/renjialan)
 - [hadiul-islam](https://github.com/hadiul-islam)
 - [David Hurtado](https://github.com/davidhurtadodev)
