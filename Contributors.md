@@ -434,6 +434,7 @@ JUnaid jamshed from nellikkuth
 - [Batel Levi]
 - [HarenIO](https://github.com/HarenIO/)
 - [Isaac Faulkner]
+- [Simarjit Singh](https://github.com/simar437/)
 - [David Jenson] (httops://github.com/dizzyj/)
 - Niall Cunningham
 - [Akshay Jagiasi]
