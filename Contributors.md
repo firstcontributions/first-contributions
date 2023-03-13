@@ -1372,6 +1372,7 @@ Rishabh Pandey
 - Michael Lewis @DevSoc
 - [Greg Kurniawan](https://github.com/gregkurniawan)
 - Idris Adeniyi
+- [Tan Szu Jean](https://github.com/TSJean45)
 - [Ryan Harris](https://github.com/ryanh210757)
 - [Debjyoti Ghosh](https://github.com/is-this-echo)
 - [Lakshan Perera](https://github.com/0xluckycode)
