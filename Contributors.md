@@ -32,6 +32,7 @@
 - [Kratosix](https://github.com/Kratosix)
 - [DevBlogs404](https://github.com/DevBlogs404)
 - [Talha Yousuf](https://github.com/talhayousuff)
+- [Eric Medlock](https://github.com/ericmedlock)
 - [Talha bin Azmat]
 - [donisi38](https://github.com/donisi38)
 - [54nti](https://github.com/54nti)
