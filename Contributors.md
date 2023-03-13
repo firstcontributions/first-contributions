@@ -58,6 +58,7 @@
 - [Jerin Saji] (https://github.com/jerin-saji)
 - [Sajan Kuttipuravan](https://github.com/sajankp)
 - [Mohammad Haaris Javed] (https://github.com/haaris272k)
+- [Mohammed Shakeel](https://github.com/shakeel-3)
 - [Watrgoat] (https://github.com/watrgoat)
 - Robonova 8)
 - [Brenden Blake] (https://github.com/blakebt)
