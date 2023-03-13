@@ -27,6 +27,7 @@
 - [Kratosix](https://github.com/Kratosix)
 - [DevBlogs404](https://github.com/DevBlogs404)
 - [Talha Yousuf](https://github.com/talhayousuff)
+- [Talha bin Azmat]
 - [54nti](https://github.com/54nti)
 - [Vaibhav Satish](https://github.com/Vaibhav-sa30)
 - [DivyaAgrawal](https://github.com/divyaagrawal877)
