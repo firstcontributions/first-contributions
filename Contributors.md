@@ -41,6 +41,7 @@
 - [JohnLc12-9](https://github.com/JohnLc12-9)
 - [Abhishek Tilkar](https://github.com/abhishektilkar)
 - [SimoneZh](https://github.com/SimoneZh)
+- [0xJayPi](https://github.com/SimoneZh/0xJayPi)
 - [darkGhost] (https://github.com/darkGhost3108)
 - [shinobi3142] (https://github.com/darkGhost3142)
 - [iamroshankr] (https://github.com/iamroshankr)
