@@ -1,20 +1,20 @@
 # Contributors
 <!-- prettier-ignore-start -->
-- [miguel-sr] (https://github.com/miguel-sr)
-- [SinanTokmak] (https://github.com/SinanTokmak)
-- [oliveren] (https://github.com/renjialan)
+- [miguel-sr](https://github.com/miguel-sr)
+- [SinanTokmak](https://github.com/SinanTokmak)
+- [oliveren](https://github.com/renjialan)
 - [Ramses](https://github.com/rammsesgit)
 - [hadiul-islam](https://github.com/hadiul-islam)
 - [David Hurtado](https://github.com/davidhurtadodev)
 - [Antyss77](https://github.com/Antyss77)
-- [OmriOn] (https://github.com/OmriOn)
+- [OmriOn](https://github.com/OmriOn)
 - [guillemboada](https://github.com/guillemboada)
 - [Albin N J](https://github.com/AlbinN-J)
 - [kyrill belomenov](https://github.com/kybe236)
 - [cheezenyu](https://github.com/cheezenyu)
 - [craigardy]
 - [Sarthak Singh]
-- [Alexander Stub Michelsen}(https://github.com/pantertanter)
+- [Alexander Stub Michelsen](https://github.com/pantertanter)
 - [Aviral Singh](https://github.com/aviralsingh108/)
 -[Tarun Prakash Poram](https://github.com/tarunprakashporam)
 - [Meraduro](https://github.com/Meraduro)
@@ -3142,3 +3142,4 @@ Hannibal Lecter[https://github.com/drlecte]
 - [Oskar K](https://github.com/oskarkaluziak)
 - [Agata Ch](https://github.com/Chrusciak)
 - [Jagoda G](https://github.com/jagodagrzybowska)
+- [Sharath Lingam](https://github.com/sharath-1517)
