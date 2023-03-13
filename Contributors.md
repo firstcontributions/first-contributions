@@ -25,6 +25,7 @@
   [Maahnoor](https://github.com/Maahnoor)
 - [Bertin](https://github.com/goerlibe)
 - [mnj-gh](https://github.com/mnj-gh)
+- [aakarshan-raj](https://github.com/aakarshan-raj/first-contributions)
 - [yuxm](https://github.com/yux-m)
 - [Kratosix](https://github.com/Kratosix)
 - [DevBlogs404](https://github.com/DevBlogs404)
