@@ -3135,3 +3135,4 @@ Hannibal Lecter[https://github.com/drlecte]
 - [Namugach](https://github.com/namugach)
 - [Oskar K](https://github.com/oskarkaluziak)
 - [Agata Ch](https://github.com/Chrusciak)
+- [Jagoda G](https://github.com/jagodagrzybowska)
