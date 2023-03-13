@@ -3118,12 +3118,12 @@ Ayan Das
 - [Surya Abhinai](https://github.com/Surya-Abhinai)
 - [Maciej W](https://github.com/MaciejWojdylo)
 - [JankesTNJ](https://github.com/JankesTNJ)
-  [Piotr.W](https://github.com/Wysockii)
+- [Piotr.W](https://github.com/Wysockii)
 - [Djarin](https://github.com/fjiasigmoid)
-  [Mohsin A](https://github.com/mohsin-786)
-  [Mehran javid](https://github.com/mehranjavid)
-Hannibal Lecter[https://github.com/drlecte]
-  [Suvam Chatterjee][https://github.com/Suvam1508]
+- [Mohsin A](https://github.com/mohsin-786)
+- [Mehran javid](https://github.com/mehranjavid)
+- [Hannibal Lecter](https://github.com/drlecte)
+- [Suvam Chatterjee](https://github.com/Suvam1508)
 - [Emilia Bacik](https://github.com/EmiliaBacik)
 - [Ania Sz](https://github.com/aniaxx)
 - [Maciej M](https://github.com/MaciekJarzabek)
