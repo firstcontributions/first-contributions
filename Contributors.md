@@ -3092,6 +3092,7 @@ Ayan Das
 - [PiotrJagielny](https://github.com/PiotrJagielny)
 - [Rahulan Mahendra](https://github.com/rahulan-mahendra)
 - [Marble]
+- [hannah-writes](https://github.com/hannah-writes)
 - [Dhairya Arora](https://github.com/Dhairya-Arora01)
 - [Rashed Obaid](https://github.com/rsobaid)
 - [Ana Ptak](https://github.com/anastasiaptak)
