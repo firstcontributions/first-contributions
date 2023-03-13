@@ -68,6 +68,7 @@
 - [Oddballlnner] (https://github.com/Oddballlnner)
 - [Kobby-Jones] (https://github.com/Kobby-Jones)
 - [Abubakr Hisham](https://github.com/abubakr404/)
+- [Federico Grandi](https://github.com/EndBug)
 - [Eren ERDOGAN] (https://github.com/erenerdogann/)
 - [Ayush Nighoskar] (https://github.com/ayushnighoskar)
 - [KritiJaggi](https://github.com/KritiJaggi)
