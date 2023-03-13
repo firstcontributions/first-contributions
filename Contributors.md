@@ -3007,6 +3007,7 @@ Ayan Das
 - [Judd Russel Kalalo](https://github.com/Grocery4)
 - [Bartosz Jałkiewicz](https://github.com/Kurs-git-podstawy)
 - [Nathalia Azevedo](https://github.com/nathaliaazvdo)
+- [Nimit-Kumar](https://github.com/8lacknwhite)
 - [Alex Spiers](https://github.com/statneutrino)
 - [Senya Shlosman](https://github.com/meleh0133)
 - [UENO Takahiro](https://github.com/UENOTakahiro)
