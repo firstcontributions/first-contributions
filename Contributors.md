@@ -3133,3 +3133,4 @@ Hannibal Lecter[https://github.com/drlecte]
 - [Ania Sz](https://github.com/aniaxx)
 - [Maciej M](https://github.com/MaciekJarzabek)
 - [Namugach](https://github.com/namugach)
+- [Oskar K](https://github.com/oskarkaluziak)
