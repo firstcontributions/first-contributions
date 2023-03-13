@@ -3093,6 +3093,7 @@ Ayan Das
 - [Isch-Und](https://github.com/Isch-Und)
 - [Aayush Paigwar](https://github.com/AayushP2711)
 - [Sumasri](https://github.com/Sumasri-Satti)
+- [moritzrw](https://github.com/moritzrw)
 - [Samuel](https://github.com/samuelbreznjak)
 - [BinilRaj KuttikkattuBaburaj](https://github.com/Binilkks)
 - [Youssouf Yogue](https://github.com/Yogue1997)
