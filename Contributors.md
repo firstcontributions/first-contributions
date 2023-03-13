@@ -43,6 +43,7 @@
 - [Darshan](https://github.com/Darshanjaji)
 - [Marius](https://github.com/mariuswink)
 - [JohnLc12-9](https://github.com/JohnLc12-9)
+- [Serdar-Camur](https://github.com/AnatolyWassermann)
 - [Abhishek Tilkar](https://github.com/abhishektilkar)
 - [SimoneZh](https://github.com/SimoneZh)
 - [0xJayPi](https://github.com/SimoneZh/0xJayPi)
