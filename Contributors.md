@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [miguel-sr] (https://github.com/miguel-sr)
 - [SinanTokmak] (https://github.com/SinanTokmak)
 - [oliveren] (https://github.com/renjialan)
 - [hadiul-islam](https://github.com/hadiul-islam)
