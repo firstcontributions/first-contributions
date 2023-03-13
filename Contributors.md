@@ -1802,6 +1802,7 @@ Rishabh Pandey
 - [Tanu Singh](https://github.com/TanuSingh17)
 - [Simone Pizzoleo](https://github.com/simonepizzoleo)
   [Adarsh Sharma](https://github.com/Adarsh1885)
+  [Vinay Sohaliya](https://github.com/Vinaysohaliya)
   [Elijah Glascock](https://github.com/ejglascock)
 - [Shreyas Bhagwat](https://github.com/ShreyasBhagwat)
 - [Sahil Barsaiyan](https://github.com/Sahilb12)
