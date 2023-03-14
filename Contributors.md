@@ -44,6 +44,7 @@
 - [Talha bin Azmat]
 - [donisi38](https://github.com/donisi38)
 - [54nti](https://github.com/54nti)
+- [Yatharth Malhotra](https://github.com/yatharthm22)
 - [Adihtya](https://github.com/adithya-r-kothur)
 - [Ryan Almeida](https://github.com/ryanalmeida7)
 - [Vaibhav Satish](https://github.com/Vaibhav-sa30)
