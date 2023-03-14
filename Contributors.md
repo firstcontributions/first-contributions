@@ -1,6 +1,7 @@
   # Contributors
 <!-- prettier-ignore-start -->
 - [miguel-sr] (https://github.com/miguel-sr)
+- [AkashShukl] (https://github.com/AkashShukl)
 - [bdvinod788] (https://github.com/bdvinod788)
 - [SinanTokmak] (https://github.com/SinanTokmak)
 - [oliveren] (https://github.com/renjialan)
