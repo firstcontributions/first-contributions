@@ -91,11 +91,11 @@ GitHub上であなたのリポジトリに行くと、`Compare & pull request`�
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-プルリクエストを作ってください：
+プルリクエストを作ってください。
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-すぐに私が加えられた変更をmasterブランチにマージします。マージが終了した際にはその旨のメールが送られます。
+すぐに私が加えられた変更をmainブランチにマージします。マージが終了した際にはその旨のメールが送られます。
 
 ## 次に何をするべきか
 
