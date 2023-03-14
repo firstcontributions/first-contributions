@@ -99,6 +99,7 @@
   [Matheus]
 - [K4ZULI] (https://github.com/superflyguy81)
 - [Shawn Mels] (https://github.com/Shawnmels1998)
+- [Munene M] (https://github.com/xmunene)
 - [Sandeep Gorule] (https://github.com/sandeepgorule)
 - [Jintao Forone] (https://github.com/jintaoforone)
 - [Katherine Robles] (https://github.com/KMR1221)
