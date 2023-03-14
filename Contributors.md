@@ -105,6 +105,7 @@
   [Oscar Juarez] (https://github.com/OscarJO20)
 - [Nikita] (https://github.com/humanbelnik)
 - [Vilas] (https://github.com/villAsh)
+- [luis Alejandro] (https://github.com/luisferllub230)
 - [Anand] (https://github.com/AK4266)
 - [Ivan] (https://github.com/ivazin)
 - [Abdiaziz Abdullahi] (https://github.com/cabdiaziz)
