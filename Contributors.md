@@ -209,6 +209,7 @@ Adwai
 - [Dibyajyoti Ganguly] (https://github.com/Dibyajyoti2002)
 - [Himtome1] (https://github.com/Himtome1))
 - [Derp] (https://github.com/DDeerrpp)
+- [Gaurang Ruikar] (https://github.com/Gaurang-Ruikar)
 - [Usama Abdullah](https://github.com/uka7)
 - [Weile Zheng] (https://github.com/Weile-Zheng)
 - [jayendra parmar] (https://github.com/Jp88Programmer)
