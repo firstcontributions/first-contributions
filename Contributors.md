@@ -477,6 +477,7 @@ Arjun Palathinkara
 - [Di Liu](https://github.com/liudi4046)
 - [VIBHINN SINGHAL](https://github.com/VibhinnS)
 - [Saieeash Reddy](https://github.com/SaieeashReddy23)
+- [Gonzalo](https://github.com/1rives)
 - [Panth Shah](https://github.com/Panth1823)
 - [Gaurav-Chnadwani](https://github.com/GauravChandwani12)
 - [Aditya Rajkumar](https://github.com/adityarfw)
