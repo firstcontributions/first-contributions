@@ -15,6 +15,7 @@
 - [cheezenyu](https://github.com/cheezenyu)
 - [Erick](https://github.com/IamMuuo)
 - [craigardy]
+- [sallanz77]
 - [tchevier](https://github.com/tchevier)
 - [Gurpreet Singh](https://github.com/gsingh1629)
 - [Sarthak Singh]
