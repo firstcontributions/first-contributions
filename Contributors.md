@@ -3202,3 +3202,4 @@ Ayan Das
 - [YILIN](https://github.com/YILIN1031)
 - [A91y](https://github.com/A91y)
 - [Sammed Chougule](https://github.com/Sammed-Chougule)
+- [Kyosuke](https://github.com/Kyosuke-Kaneko)
