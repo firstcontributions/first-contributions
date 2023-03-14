@@ -23,6 +23,7 @@
 - [tchevier](https://github.com/tchevier)
 - [Gurpreet Singh](https://github.com/gsingh1629)
 - [Sarthak Singh]
+- [Tom Roche](https://github.com/TomrocheDev)
 - [Alexander Stub Michelsen}(https://github.com/pantertanter)
 - [Aviral Singh](https://github.com/aviralsingh108/)
 -[Tarun Prakash Poram](https://github.com/tarunprakashporam)
