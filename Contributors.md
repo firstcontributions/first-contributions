@@ -783,6 +783,7 @@ Subhajit Bera
 - [Anand Vijapur](https://github.com/anandvijapur)
 - [Chinatu Lucia Eke](https://github.com/ChinatuL) 
 - [David Martinez](https://github.com/NicAtlas)
+- [Imtiyaj Alam](https://github.com/imtiyaj786)
 - [Darvesh Chauhan](https://github.com/darvesh29)
 - [Sven Güttner](https://github.com/S-Guettner)
 - [Divyanshu Kushwaha](https://github.com/divyanshu69)
