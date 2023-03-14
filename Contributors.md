@@ -3174,6 +3174,7 @@ Ayan Das
 - [Jagoda G](https://github.com/jagodagrzybowska)
 - [freshBakedPie314(Aditya_Rout)](https://github.com/freshBakedPie314)
 - [Ram Krishna Singh](https://github.com/rkscodes)
+- [DaGiBi](https://github.com/DaGiBi)
 - [wei45955] love you
 - [David Greenlee](https://github.com/dgreenlee1)
 - [ZuzannaBurger](https://github.com/ZuzannaBurger)
