@@ -1245,6 +1245,7 @@ Rishabh Pandey
 - Chris Stevens
 - [Henry Li](https://github.com/Henrycodeproj)
 - [Sean Sew](https://github.com/ExpressOwl)
+- [Tharun Kammavarambatti](https://github.com/K-Tharun)
 - [Anjana Vishvanath](https://github.com/anjanavishvanath)
 - [Kyoumei](https://github.com/kyoumeia)
 - [Anshuman Nigam @DevSocPI]
