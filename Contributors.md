@@ -51,7 +51,7 @@
 - [shinobi3142] (https://github.com/darkGhost3142)
 - [iamroshankr] (https://github.com/iamroshankr)
 - [Aaryaveer Rajput] (https://github.com/AKR-2803)
--[Arun Lohani] (https://github.com/Socialfew146575)
+- [Arun Lohani] (https://github.com/Socialfew146575)
 - [SpongeJohnSquareLennon](https://github.com/SpongeJohnSquareLennon)
 - [Tomasz Kulczyński](https://github.com/Tkulczynski02)
 - [Anand Kumar] (https://github.com/Whitedevil4648)
