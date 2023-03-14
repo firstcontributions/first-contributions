@@ -1,5 +1,6 @@
   # Contributors
 <!-- prettier-ignore-start -->
+- [Kim Soo Hyun] (https://github.com/elpis51613)
 - [miguel-sr] (https://github.com/miguel-sr)
 - [bdvinod788] (https://github.com/bdvinod788)
 - [SinanTokmak] (https://github.com/SinanTokmak)
