@@ -15,6 +15,7 @@
 - [cheezenyu](https://github.com/cheezenyu)
 - [craigardy]
 - [tchevier](https://github.com/tchevier)
+- [Gurpreet Singh](https://github.com/gsingh1629)
 - [Sarthak Singh]
 - [Alexander Stub Michelsen}(https://github.com/pantertanter)
 - [Aviral Singh](https://github.com/aviralsingh108/)
