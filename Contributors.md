@@ -14,7 +14,9 @@
 - [Albin N J](https://github.com/AlbinN-J)
 - [kyrill belomenov](https://github.com/kybe236)
 - [cheezenyu](https://github.com/cheezenyu)
+- [Erick](https://github.com/IamMuuo)
 - [craigardy]
+- [sallanz77]
 - [tchevier](https://github.com/tchevier)
 - [Gurpreet Singh](https://github.com/gsingh1629)
 - [Sarthak Singh]
@@ -25,6 +27,7 @@
 - [erdemy885](https://github.com/erdemy885)
 - [MohitRajSinha](https://github.com/mohitrajsinha)
 - [AayushPaigwar](https://github.com/AayushPaigwar)
+- [Wajahat-Ali-Khan](https://github.com/wajahat-ali-khan-96/.dotfiles.git)
 - [BhavyaNarnoli](https://github.com/bhavyanarnoli)
   [Maahnoor](https://github.com/Maahnoor)
 - [Bertin](https://github.com/goerlibe)
@@ -3176,3 +3179,4 @@ Ayan Das
 - [Ukeme Edet](https://github.com/Ukeme-Edet)
 - [Rahil Shaikh](https://github.com/therahilshaikh)
 - [Mir Mubashshir Zahoor](https://github.com/mmubashshir)
+- [Damian Tomczyszyn](https://github.com/damiantomczyszyn)
