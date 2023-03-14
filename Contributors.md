@@ -2972,6 +2972,7 @@ Ayan Das
 - [Yordan Todorov](https://github.com/eeyoretheman)
 - [Joseph Cobrador](https://github.com/coby4)
 - [Mustafa A-Hussein](https://github.com/Must-ah)
+- [abdelhamid zerrai](https://github.com/networkabdelhamid)
 - [Terrel Brinkley](https://github.com/TerrelBrinkley)
 - [Shubham Chandore](https://github.com/ShubhamChandore)
 - [Vamsi Krishna](https://github.com/CVamsi27)
@@ -2986,7 +2987,7 @@ Ayan Das
 - [Souvik](https://github.com/souvikdeb44)
 - [Diana Duran](https://github.com/dianaduran)
 - [Krishna Tummalapalli](https://github.com/kptummalapalli)
-- [Dan James](https://github.com/Danjamesd)
+- [Dan James](https://github.com/Danjamesd)s
 - [Denis Stefanski](https://github.com/denis-ste)
 - [Eddie Galindez](https://github.com/Radical-Edward-G/)
 - [Xia](https://github.com/xia930425/)
@@ -2997,3 +2998,4 @@ Ayan Das
 - [Nidarshan Kumar](https://github.com/Nidarshan619)
 - [Kevin Stewart-Mercurio](https://github.com/kevinstewartmercurio)
 - [Azaria Wora Onanga](https://github.com/Azaria92)
+
