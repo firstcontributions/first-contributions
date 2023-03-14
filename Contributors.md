@@ -24,6 +24,7 @@
 -[Prakhar Solanki]
 [susmitha](https://github.com/susmitha1103)
 - [tchevier](https://github.com/tchevier)
+- [moonpatel](https://github.com/moonpatel)
 - [Gurpreet Singh](https://github.com/gsingh1629)
 - [Sarthak Singh]
 - [Tom Roche](https://github.com/TomrocheDev)
