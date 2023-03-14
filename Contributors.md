@@ -987,6 +987,7 @@ Subhajit Bera
 - [Stefan Arostegui] (https://github.com/thebiggestandhugest)
 - [Jubril Abdulsalam](https://github.com/jubril-a)
 - [disconsolated](https://github.com/disconsolated)
+- [lopkik](https://github.com/lopkik)
 - [Logasakthi](https://github.com/Logasakthi8)
 - [Matthew Kurtti](https://github.com/matthewkurtti)
 - [Bhuvanesh Purohit](https://github.com/BhuvaneshPurohit-git)
