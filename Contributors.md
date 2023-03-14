@@ -14,7 +14,8 @@
 - [xinacod](https://github.com/xenacode-art)
 - [Albin N J](https://github.com/AlbinN-J)
 - [kyrill belomenov](https://github.com/kybe236)
-- [cheezenyu](https://github.com/cheezenyu)
+- [aoko faith](https://github.com/aoko-neo)
+ [cheezenyu](https://github.com/cheezenyu)
 - [Erick](https://github.com/IamMuuo)
 - [craigardy]
 - [sallanz77]
