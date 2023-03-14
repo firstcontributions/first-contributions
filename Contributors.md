@@ -9,6 +9,7 @@
 - [hadiul-islam](https://github.com/hadiul-islam)
 - [David Hurtado](https://github.com/davidhurtadodev)
 - [Antyss77](https://github.com/Antyss77)
+- [zacrya](https://github.com/zacrya)
 - [OmriOn] (https://github.com/OmriOn)
 - [arjun-rawal] (https://github.com/arjun-rawal)
 - [guillemboada](https://github.com/guillemboada)
