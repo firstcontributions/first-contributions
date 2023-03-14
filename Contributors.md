@@ -29,7 +29,7 @@
 - [Tom Roche](https://github.com/TomrocheDev)
 - [Alexander Stub Michelsen}(https://github.com/pantertanter)
 - [Aviral Singh](https://github.com/aviralsingh108/)
-- [Ifeanyi Dike](https://github.com/ifeanyidike)
+- [Ifeanyi Dike](https://github.com/ifeanyidike/)
 -[Tarun Prakash Poram](https://github.com/tarunprakashporam)
 - [Meraduro](https://github.com/Meraduro)
 - [erdemy885](https://github.com/erdemy885)
