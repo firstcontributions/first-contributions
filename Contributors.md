@@ -3158,6 +3158,7 @@ Ayan Das
 - [Surya Abhinai](https://github.com/Surya-Abhinai)
 - [Maria P](https://github.com/MariaPawlowska)
 - [Maciej W](https://github.com/MaciejWojdylo)
+- [Michal Walach](https://github.com/ShadowTheThird)
 - [JankesTNJ](https://github.com/JankesTNJ)
   [Piotr.W](https://github.com/Wysockii)
   [Siva](https://github.com/sivadaka)
