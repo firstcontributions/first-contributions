@@ -13,6 +13,7 @@
 - [Albin N J](https://github.com/AlbinN-J)
 - [kyrill belomenov](https://github.com/kybe236)
 - [cheezenyu](https://github.com/cheezenyu)
+- [Erick](https://github.com/IamMuuo)
 - [craigardy]
 - [tchevier](https://github.com/tchevier)
 - [Gurpreet Singh](https://github.com/gsingh1629)
