@@ -10,6 +10,7 @@
 - [David Hurtado](https://github.com/davidhurtadodev)
 - [Antyss77](https://github.com/Antyss77)
 - [OmriOn] (https://github.com/OmriOn)
+- [arjun-rawal] (https://github.com/arjun-rawal)
 - [guillemboada](https://github.com/guillemboada)
 - [xinacod](https://github.com/xenacode-art)
 - [Albin N J](https://github.com/AlbinN-J)
