@@ -120,6 +120,7 @@
 - [Brijesh Yadav] (https://github.com/ibrijesh)
   [Oscar Juarez] (https://github.com/OscarJO20)
 - [Nikita] (https://github.com/humanbelnik)
+- [Zubairh20]
 - [Vilas] (https://github.com/villAsh)
 - [luis Alejandro] (https://github.com/luisferllub230)
 - [Anand] (https://github.com/AK4266)
