@@ -10,6 +10,7 @@
 - [Antyss77](https://github.com/Antyss77)
 - [OmriOn] (https://github.com/OmriOn)
 - [guillemboada](https://github.com/guillemboada)
+- [xinacod](https://github.com/xenacode-art)
 - [Albin N J](https://github.com/AlbinN-J)
 - [kyrill belomenov](https://github.com/kybe236)
 - [cheezenyu](https://github.com/cheezenyu)
