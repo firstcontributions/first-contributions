@@ -16,6 +16,7 @@
 - [Erick](https://github.com/IamMuuo)
 - [craigardy]
 - [sallanz77]
+[susmitha](https://github.com/susmitha1103)
 - [tchevier](https://github.com/tchevier)
 - [Gurpreet Singh](https://github.com/gsingh1629)
 - [Sarthak Singh]
