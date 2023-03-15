@@ -14,6 +14,7 @@ Abhishek Kumar Pathak
 - [Dongook](https://github.com/dwk601)
 - [Ramses](https://github.com/rammsesgit)
 - [hadiul-islam](https://github.com/hadiul-islam)
+-[Kwabena Kesseh](https://github.com/KluconPharmer)
 - [David Hurtado](https://github.com/davidhurtadodev)
 - [Antyss77](https://github.com/Antyss77)
 - [zacrya](https://github.com/zacrya)
