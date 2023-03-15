@@ -2606,6 +2606,7 @@ Rishabh Pandey
 - [isaacc16](https://github.com/isaacc16)
 - [Manolis](https://github.com/elmanol)
 - [cameron lee](https://github.com/cameronslee23)
+- [Bambam320](https://github.com/Bambam320)
 - [Simonky Salinas](https://github.com/Simonkys)
 - [mrzlsptzr](https://github.com/mrzlsptzr)
 - [André Correa](https://github.com/dartmol203)
