@@ -1157,6 +1157,7 @@ Subhajit Bera
 - [Siya Choudhary](https://github.com/siyachoudhary)
 - [seewah tse]
 - [Anwar Sadat Ayub](https://github.com/momokid)
+- [Zachary Maziarz] (https://github.com/zmaz3000)
 - [Ahmed Bawazir Ahmedbawazerdev@gmail.com](https://github.com/ahmeddeveloper55)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - Parth Shah@DevsocPI
