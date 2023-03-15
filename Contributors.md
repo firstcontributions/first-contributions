@@ -490,6 +490,7 @@ Arjun Palathinkara
 - [Georgios Kakarlis](https://github.com/georgekakarlis)
 - [Jonathan Beale](https://github.com/iconbaypark2900/)
 - [sam gill]
+- [Jonathan Hoarau] (https://github.com/jonhoa)
 - [Kamal Kanti Chakma](https://github.com/kamalchakma1)
 - [Tomas Carrasco] (https://github.com/tomascarrascoo)
 - [Di Liu](https://github.com/liudi4046)
