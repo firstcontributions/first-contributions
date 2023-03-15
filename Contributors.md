@@ -66,6 +66,7 @@ Abhishek Kumar Pathak
 - [Ryan Almeida](https://github.com/ryanalmeida7)
 - [Vaibhav Satish](https://github.com/Vaibhav-sa30)
 - [DivyaAgrawal](https://github.com/divyaagrawal877)
+- [VinalPawar](https://github.com/GRim7262)
 - [Mukul Padwal](https://github.com/mukulpadwal)
 - [Brandonawan](https://github.com/Brandonawan)
 - [Darshan](https://github.com/Darshanjaji)
