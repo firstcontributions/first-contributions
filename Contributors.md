@@ -476,6 +476,7 @@ Arjun Palathinkara
 - [Megan P]
 - [Bryon Fields](https://github.com/bfields0805)
 - [Kritika]
+- [Edwin Jaico-Berg](https://github.com/EdwinJaico-Berg)
 - [Andrew Sebastian](https://github.com/highergear)
 - [Numo Francis](https://github.com/numofran6)
 - [Alex Naughton](https://github.com/alexbriannaughton)
