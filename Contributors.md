@@ -344,6 +344,7 @@ JUnaid jamshed from nellikkuth
 - **[Virex22 - Vincent Remy](https://github.com/Virex22)**
 - **[Sadman Salim Nipun](https://github.com/nipun333)**
 - [ClameSys](https://github.com/clamesys)
+- [Hanqi Xiao](https://github.com/The-Inscrutable-X) :)
 - [Ahmed Mohamed](https://github.com/bego00)
 - Amro Rehawi
 - [Nikhil Chauhan](https://github.com/Nikhilchauhan3011)
