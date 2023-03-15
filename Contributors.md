@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Jonathan Potter](https://github.com/JonathanDPotter)
+- [Chari Altagracia](https://github.com/LaAltagracia)
 - [Patrick Murimi](https://github.com/grand-rick001)
 - [Sadman Salim Nipun](https://github.com/nipun333)
 - [V1K1NGbg again lol](https://github.com/V1K1NGbg)
