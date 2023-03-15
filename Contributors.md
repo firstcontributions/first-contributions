@@ -44,7 +44,7 @@ Abhishek Kumar Pathak
 - [erdemy885](https://github.com/erdemy885)
 - [MohitRajSinha](https://github.com/mohitrajsinha)
 - [AayushPaigwar](https://github.com/AayushPaigwar)
-- [David-mbugua] (https://github.com/david-mbugua)
+- [David-mbugua] (https://github.com/david-mbugua) 
 - [Wajahat-Ali-Khan](https://github.com/wajahat-ali-khan-96/.dotfiles.git)
 - [BhavyaNarnoli](https://github.com/bhavyanarnoli)
   [Maahnoor](https://github.com/Maahnoor)
