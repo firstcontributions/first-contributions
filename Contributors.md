@@ -1506,6 +1506,7 @@ Rishabh Pandey
 - [Xiyue Zhang](https://github.com/xiyueuyix)
 - [Mikan](https://github.com/mika-alpha)
 - [ByteDream](https://github.com/ByteDream)
+- [AndreHed](https://github.com/AndreHed)
 - [Mahabub Arafat](https://github.com/MahabubArafat)
 -[TheSaviourEking](https://github.com/TheSaviourEking)
 - [Enoch Chirima](https://github.com/iamenochchirima)
