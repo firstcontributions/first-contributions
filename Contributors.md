@@ -76,6 +76,7 @@ Abhishek Kumar Pathak
 - [shinobi3142] (https://github.com/darkGhost3142)
 - [iamroshankr] (https://github.com/iamroshankr)
 - [Aaryaveer Rajput] (https://github.com/AKR-2803)
+- [Darshit Sharma] (https://github.com/darshitsharma)
 - [Arun Lohani] (https://github.com/Socialfew146575)
 - [SpongeJohnSquareLennon](https://github.com/SpongeJohnSquareLennon)
 - [Tomasz Kulczyński](https://github.com/Tkulczynski02)
@@ -3230,3 +3231,4 @@ Ayan Das
 - [Arijit De](https://github.com/arijitde92)
 - [ServentSAMA](https://github.com/ServentSAMA)
 - [EricWong](https://github.com/WangzJi)
+- [Shubhashish Verma](https://github.com/svashish305)
