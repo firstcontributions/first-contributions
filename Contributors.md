@@ -3217,4 +3217,5 @@ Ayan Das
 - [Sammed Chougule](https://github.com/Sammed-Chougule)
 - [Kyosuke](https://github.com/Kyosuke-Kaneko)
 - [prashantj](https://github.com/prashantnot75)
+- [Arkadiusz Drężek] (https://github.com/ArkadiuszDrezek)
 - [Arijit De](https://github.com/arijitde92)
