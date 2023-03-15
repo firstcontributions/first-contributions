@@ -1397,6 +1397,7 @@ Rishabh Pandey
 - [lakesidedev] (https://github.com/lakesidedev)
 - [Lukas de VIPART](https://github.com/Rekch)
 - [Fei](https://github.com/xegg)
+- [Herredm1](https://github.com/Herredm1)
 - [R Sathvik]@DevsocPI
 - [yuki](https://github.com/F3eQnxN3RriK)
 - [Kaiden Flaig]
