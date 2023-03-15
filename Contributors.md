@@ -3,6 +3,7 @@
 - [miguel-sr] (https://github.com/miguel-sr)
 - [AkashShukl] (https://github.com/AkashShukl)
 - [bdvinod788] (https://github.com/bdvinod788)
+- [ssaporito] (https://github.com/ssaporito)
 - [SinanTokmak] (https://github.com/SinanTokmak)
 - [oliveren] (https://github.com/renjialan)
 - [Ramses](https://github.com/rammsesgit)
