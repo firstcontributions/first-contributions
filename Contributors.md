@@ -3138,6 +3138,7 @@ Ayan Das
 - [Samuel](https://github.com/samuelbreznjak)
 - [BinilRaj KuttikkattuBaburaj](https://github.com/Binilkks)
 - [Youssouf Yogue](https://github.com/Yogue1997)
+- [Roshan Mishra](https://github.com/roshanmishra)
 - [Souvik](https://github.com/souvikdeb44)
 - [Diana Duran](https://github.com/dianaduran)
 - [Krishna Tummalapalli](https://github.com/kptummalapalli)
