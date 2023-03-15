@@ -273,6 +273,7 @@ Adwai
 - [ToAly](https://github.com/825437313)
 - [FunkyCreep](https://github.com/francoisbillet)
 - [Lanzhu](https://github.com/notLanzhu)
+- [MihinMUD] (https://github.com/MihinMUD)
 - [Shamil ussain c](https://github.com/shamilussainc)
 - [vanbuncha](https://github.com/vanbuncha)
 - [Code2forever](https://github.com/code2forever)
