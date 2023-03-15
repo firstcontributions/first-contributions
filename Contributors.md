@@ -101,6 +101,7 @@ Abhishek Kumar Pathak
 - [Relc]
 - [Nitesh Singh Solanki] (https://github.com/onlyniteshsingh)
 - [Khushboo Tiwari]
+- [Marcel Roig] (https://github.com/marcelrm11)
 - [Sayanti Dey] (https://github.com/sayandigital)
 - [Joel Samaniego] (https://github.com/samajoel)
 - [Oddballlnner] (https://github.com/Oddballlnner)
