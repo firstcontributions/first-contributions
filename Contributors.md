@@ -4,6 +4,7 @@
 - [miguel-sr] (https://github.com/miguel-sr)
 - [Shivansh gupta] (https://github.com/SHIVI-007)
 - [rutubha](https://github.com/rutubha)
+- [Taha Syed] (https://github.com/TahaSyedKhan)
 Abhishek Kumar Pathak
 - [AkashShukl] (https://github.com/AkashShukl)
 - [bdvinod788] (https://github.com/bdvinod788)
