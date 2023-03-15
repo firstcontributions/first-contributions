@@ -1865,6 +1865,7 @@ Rishabh Pandey
 - [John Denver Bidong](https://github.com/jbidz)
 - [Gilberto Rosendo](https://github.com/GilbertoRosendo)
 - [Raghuram Aluru@DevSoc]
+- [Darsh Kale](https://github.com/Dkale0)
 - [alvarohghg](https://github.com/alvarohghg)
 - [Sid Saythongphet](https://github.com/SidSaythongphet)
 - [Aman Bhagat](https://GitHub.com/sanayaa)
