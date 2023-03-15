@@ -1,6 +1,7 @@
   # Contributors
 <!-- prettier-ignore-start -->
 - [miguel-sr] (https://github.com/miguel-sr)
+- [rutubha](https://github.com/rutubha)
 Abhishek Kumar Pathak
 - [AkashShukl] (https://github.com/AkashShukl)
 - [bdvinod788] (https://github.com/bdvinod788)
