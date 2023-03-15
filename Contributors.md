@@ -36,6 +36,7 @@ Abhishek Kumar Pathak
 - [Aviral Singh](https://github.com/aviralsingh108/)
 - [Ifeanyi Dike](https://github.com/ifeanyidike/)
 - [Nithish Kumar Duda] (https://github.com/Nithishduda10)
+- [Arya Shahi] (https://github.com/arya177)
 -[Tarun Prakash Poram](https://github.com/tarunprakashporam)
 - [Meraduro](https://github.com/Meraduro)
 - [erdemy885](https://github.com/erdemy885)
