@@ -9,6 +9,7 @@
 - [Maaya Yamauchi](https://github.com/mayamauchi)
 Abhishek Kumar Pathak
 - [Additya](https://github.com/AddityaG)
+- [Rohit] (https://github.com/rohitchouhan35/first-contributions.git)
 - [jtschoerner] (https://github.com/jtschoerner)
 - [AkashShukl] (https://github.com/AkashShukl)
 - [bdvinod788] (https://github.com/bdvinod788)
