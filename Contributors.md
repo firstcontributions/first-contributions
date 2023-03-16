@@ -15,7 +15,7 @@
 - [cheezenyu](https://github.com/cheezenyu)
 - [craigardy]
 - [tchevier](https://github.com/tchevier)
-- [fatima madey](https://github.com/fatimamadey)
+- [Fatima Madey](https://github.com/fatimamadey)
 - [Gurpreet Singh](https://github.com/gsingh1629)
 - [Sarthak Singh]
 - [Alexander Stub Michelsen}(https://github.com/pantertanter)
