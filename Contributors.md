@@ -8,6 +8,7 @@
 - [Taha Syed] (https://github.com/TahaSyedKhan)
 - [Maaya Yamauchi](https://github.com/mayamauchi)
 Abhishek Kumar Pathak
+- [jtschoerner] (https://github.com/jtschoerner)
 - [AkashShukl] (https://github.com/AkashShukl)
 - [bdvinod788] (https://github.com/bdvinod788)
 - [ssaporito] (https://github.com/ssaporito)
