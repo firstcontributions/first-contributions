@@ -5,6 +5,7 @@
 - [Shivansh gupta] (https://github.com/SHIVI-007)
 - [rutubha](https://github.com/rutubha)
 - [Taha Syed] (https://github.com/TahaSyedKhan)
+- [Maaya Yamauchi](https://github.com/mayamauchi)
 Abhishek Kumar Pathak
 - [AkashShukl] (https://github.com/AkashShukl)
 - [bdvinod788] (https://github.com/bdvinod788)
