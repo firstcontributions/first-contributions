@@ -806,6 +806,7 @@ Subhajit Bera
 - [Suriya4Code](https://github.com/suriya4code)
 - [S.Coffee](https://github.com/salinatedcoffee)
 - [symo](https://github.com/shwe-oo)
+- [Jiarong Zhang] (https://github.com/Jiarong-Zhang)
 - [Josh Noh](https://github.com/NohTaeHwan)
 - [Siddharth Rathore](https://github.com/s1dbugs)
 - [Harsh Kumar Raj](https://github.com/harshkumarraj)
