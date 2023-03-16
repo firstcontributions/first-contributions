@@ -3277,6 +3277,7 @@ Ayan Das
 - [Kyosuke](https://github.com/Kyosuke-Kaneko)
 - [prashantj](https://github.com/prashantnot75)
 - [Arkadiusz Drężek] (https://github.com/ArkadiuszDrezek)
+- [Jose Carvajal](https://github.com/josemiguelcarvajal07)
 - [Arijit De](https://github.com/arijitde92)
 - [ServentSAMA](https://github.com/ServentSAMA)
 - [Shubhashish Verma](https://github.com/svashish305)
