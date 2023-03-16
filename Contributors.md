@@ -3049,5 +3049,5 @@
 - [Aravind Singh](https://github.com/aravindsingh08)
 - [tom8213](https://github.com/tom8213)
 - [kylierst](https://github.com/kylierst)
-- [raksha]
+- [Raksha] (https://github.com/rakshapadiyar)
 - [AustinGallippo](https://github.com/austingallippo)
