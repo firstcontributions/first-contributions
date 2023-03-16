@@ -40,6 +40,7 @@ Abhishek Kumar Pathak
 - [sallanz77]
 -[Offong Abigail](https://github.com/udems)
 -[devraushan](https://github.com/devraushan)
+-[Divy](https://github.com/Divy31245)
 -[Prakhar Solanki]
 [susmitha](https://github.com/susmitha1103)
 - [tchevier](https://github.com/tchevier)
