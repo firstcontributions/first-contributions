@@ -3251,6 +3251,7 @@ Ayan Das
 - [Maciej M](https://github.com/MaciekJarzabek)
 - [Namugach](https://github.com/namugach)
 - [S M Guntaka](https://github.com/smguntaka)
+- [Konstantin Ungar](https://github.com/Konzti)
 - [Oskar K](https://github.com/oskarkaluziak)
 - [Agata Ch](https://github.com/Chrusciak)
 - [Jagoda G](https://github.com/jagodagrzybowska)
