@@ -21,6 +21,7 @@ Abhishek Kumar Pathak
 - [hadiul-islam](https://github.com/hadiul-islam)
 -[Kwabena Kesseh](https://github.com/KluconPharmer)
 - [David Hurtado](https://github.com/davidhurtadodev)
+- [Hai Zhu](https://github.com/DizzyZff)
 - [Antyss77](https://github.com/Antyss77)
 - [zacrya](https://github.com/zacrya)
 - [OmriOn] (https://github.com/OmriOn)
