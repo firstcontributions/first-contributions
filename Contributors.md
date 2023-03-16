@@ -408,6 +408,7 @@ Arjun Palathinkara
 - [Abhijit More]
 - [Sinjin John]
 - [Vishnu Bansal](https://github.com/vishnubansal001)
+- [Gabriel de Araujo](https://github.com/GbAraujoSouza)
 - [Piyush Yadav](https://github.com/piyush-0013)
 - [Emiliano López](https://github.com/emilianolch)
 - [MiguelOrtsB](https://github.com/MiguelOrtsB)
