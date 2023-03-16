@@ -2135,6 +2135,7 @@ Rishabh Pandey
 - [Andrew Zhang]()
 - [PatentLobster](https://github.com/PatentLobster)
 - [Varun Prashant Kadkade](https://github.com/varun2430)
+-[Amirthavarshini](https://github.com/amirthavarshinii)
 - [Andrej Salka](https://github.com/AndrejSalka)
 - [Aditya Vijay](https://github.com/kiriotheo)
 - [Sadekur Rahaman](https://github.com/biplob14)
