@@ -3020,6 +3020,7 @@ Ayan Das
 - [Semion Zilbert](https://github.com/sz44)
 - [Milind Pansare] (https://github.com/githubmilind)
 - [Sambhavi Pandey](https://github.com/pandeysambhi)
+- [Tushaar_Garg](https://github.com/TushaarGarg24)
 - [Carlos Soto] (https://github.com/CarlosSotoRodriguez)
 - [Alan Hakala](https://github.com/AlanHakalaDev)
 - [Kendall Callison](https://github.com/kendallcallison)
