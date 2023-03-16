@@ -13,6 +13,7 @@ Abhishek Kumar Pathak
 - [SinanTokmak] (https://github.com/SinanTokmak)
 - [oliveren] (https://github.com/renjialan)
 - [Dongook](https://github.com/dwk601)
+- [Charmaine](https://github.com/charmaine-aguilar)
 - [Ramses](https://github.com/rammsesgit)
 - [hadiul-islam](https://github.com/hadiul-islam)
 -[Kwabena Kesseh](https://github.com/KluconPharmer)
