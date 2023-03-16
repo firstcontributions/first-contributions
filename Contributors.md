@@ -3286,3 +3286,4 @@ Ayan Das
 - [jeritjohn2](https://github.com/jeritjohn2)
 - [david] 
 - [nataset](https://github.com/nataset)
+- [theSlotfulKnight] (https://github.com/TheSlothfulKnight)
