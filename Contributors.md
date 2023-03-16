@@ -163,7 +163,7 @@ Abhishek Kumar Pathak
 - [f4rukyldrm](https://github.com/f4rukyldrm)
 - [Siddhant Patil] (https://github.com/Sid-Pat)
 - [Swathi Melapu] (https://github.com/melapuswathi)
-- [Jianguo Liu] (https://github.com/cacoollib)
+- [Janson Roora] (https://github.com/jansonroora)
 - [Soumik Saha] (https://github.com/soumik-saha)
 - [Ananya Goyal] (https://githib.com/cation03)
 - [Privilege Mendes] (https://github.com/privilegemendes)
