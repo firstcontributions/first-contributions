@@ -1953,6 +1953,7 @@ Rishabh Pandey
 - [Siddhant Majumder](https://github.com/Codeworm08)
 - [Soumyadip Bhowmik](https://github.com/SoumyadipBhowmik)
 - [Alex Reveles](https://github.com/aajj333)
+- [Stanislav Ustinov] (https://github.com/Stusers)
 - [Samuel Oluyede](https://github.com/Masei25)
 - [SoGreatAndPowerful](https://github.com/sogreatandpowerfull)
 - [Ankush](https://github.com/ankushrai999)
