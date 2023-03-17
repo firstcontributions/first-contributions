@@ -742,6 +742,8 @@ Chirag Rakh
 - [Edoye Ogoba David](https://github.com/DoyeDesigns)
 - [Nazeef](https://github.com/iamnazeef/)
 - [Josh Scoville](https://github.com/ag4sm)
+- [MMOORRIISSEEYY](https://github.com/mmoorriisseeyy)
+- 
 - [Razack] (https://github.com/razack00/)
 - [Kent](https://github.com/kkentt)
 - [Sergio Gomez](https://github.com/Sdagomez)
