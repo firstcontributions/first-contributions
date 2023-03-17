@@ -7,6 +7,7 @@
 - [erdemy885](https://github.com/erdemy885)
 - [AayushPaigwar](https://github.com/AayushPaigwar)
 - [Bertin](https://github.com/goerlibe)
+- [Kevin Becerra] (https://github.com/PoinTastY)
 - [DivyaAgrawal](https://github.com/divyaagrawal877)
 - [Mukul Padwal](https://github.com/mukulpadwal)
 - [Brandonawan](https://github.com/Brandonawan)
