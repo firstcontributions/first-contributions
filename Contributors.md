@@ -13,6 +13,7 @@ Abhishek Kumar Pathak
 - [Additya](https://github.com/AddityaG)
 - [Rohit] (https://github.com/rohitchouhan35/first-contributions.git)
 - [jtschoerner] (https://github.com/jtschoerner)
+- [Naved Ahmad] (https://github.com/NavedtheDev) 
 - [jacquelineyoung8] (https://github.com/jacquelineyoung8)
 - [AkashShukl] (https://github.com/AkashShukl)
 - [bdvinod788] (https://github.com/bdvinod788)
