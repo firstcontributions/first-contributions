@@ -1649,6 +1649,7 @@ Rishabh Pandey
 - [Aimee Jennings](https://github.com/CraftyDemonite)
 - [Kerry Guarino](https://github.com/kerryoncoding)
 - [Susanna-Carey](https://github.com/susannaopal)
+- [nelsonmsk](https://github.com/nelsonmsk)
 - [Mohammed Fayis](https://github.com/mohmdfayiz)
 - [Juanma Romero](https://github.com/juanmaroni/)
 - [Chhabi Acharya](https://github.com/Chhabii)
