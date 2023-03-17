@@ -11,6 +11,7 @@
 - [ymdd1](https://github.com/ymdd1)
 - [Taha Syed] (https://github.com/TahaSyedKhan)
 - [Maaya Yamauchi](https://github.com/mayamauchi)
+Kevin Becerra
 Abhishek Kumar Pathak
 - [Shubham Kumar] 
 - [Additya](https://github.com/AddityaG)
