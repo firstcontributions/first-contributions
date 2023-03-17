@@ -79,6 +79,7 @@ Abhishek Kumar Pathak
 - [BhavyaNarnoli](https://github.com/bhavyanarnoli)
   [Maahnoor](https://github.com/Maahnoor)
 - [Bertin](https://github.com/goerlibe)
+- [Victor](https://github.com/VCTRdvlpr)
 - [mnj-gh](https://github.com/mnj-gh)
 - [aakarshan-raj](https://github.com/aakarshan-raj/first-contributions)
 - [yuxm](https://github.com/yux-m)
