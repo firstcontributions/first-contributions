@@ -7,6 +7,7 @@
 - [miguel-sr] (https://github.com/miguel-sr)
 - [Shivansh gupta] (https://github.com/SHIVI-007)
 - [rutubha](https://github.com/rutubha)
+- [shakhnazarov](https://github.com/shakhnazarov)
 - [ymdd1](https://github.com/ymdd1)
 - [Taha Syed] (https://github.com/TahaSyedKhan)
 - [Maaya Yamauchi](https://github.com/mayamauchi)
