@@ -30,6 +30,7 @@ Abhishek Kumar Pathak
 -[Kwabena Kesseh](https://github.com/KluconPharmer)
 - [David Hurtado](https://github.com/davidhurtadodev)
 - [Hai Zhu](https://github.com/DizzyZff)
+- [Utshav Paudel](https://github.com/Utshav-paudel)
 - [Antyss77](https://github.com/Antyss77)
 - [zacrya](https://github.com/zacrya)
 - [OmriOn] (https://github.com/OmriOn)
