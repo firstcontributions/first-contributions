@@ -133,6 +133,7 @@ Abhishek Kumar Pathak
 - [Sayanti Dey] (https://github.com/sayandigital)
 - [Joel Samaniego] (https://github.com/samajoel)
 - [Erchard Solo]
+  [Taha Khan]
 - [Oddballlnner] (https://github.com/Oddballlnner)
 - [Kobby-Jones] (https://github.com/Kobby-Jones)
 - [Abubakr Hisham](https://github.com/abubakr404/)
