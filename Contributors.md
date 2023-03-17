@@ -12,6 +12,7 @@
 - [Taha Syed] (https://github.com/TahaSyedKhan)
 - [Maaya Yamauchi](https://github.com/mayamauchi)
 Abhishek Kumar Pathak
+- [Shubham Kumar] 
 - [Additya](https://github.com/AddityaG)
 - [Rohit] (https://github.com/rohitchouhan35/first-contributions.git)
 - [jtschoerner] (https://github.com/jtschoerner)
