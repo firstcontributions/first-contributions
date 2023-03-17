@@ -328,6 +328,7 @@ Adwai
 - [Harshit Jain](https://github.com/Harshit28j)
 - [Alex Smith] (https://github.com/alexsmithdev)
 - [Gauri]
+- [Poorva Patidar] (https://github.com/poorva-patidar)
 - [Joaquin](https://github.com/Hoakin24)
 - [Saleh Taghizadeh](https://github.com/saleh-taghizadeh)
 - [Jakcw](https://github.com/jakcw)
