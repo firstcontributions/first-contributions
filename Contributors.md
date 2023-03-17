@@ -3,6 +3,7 @@
 - [<span style="color: #2deb14;">Deepak Pradhan</span>] (https://github.com/TheLoneAlchemist)
 - [bongbongche] (https://github.com/bongbongche)
 - [Anshul Rawat] (https://github.com/anshul7409)
+- [Nyukeit](https://github.com/nyukeit)
 - [ljmitchell200] (https://github.com/ljmitchell200)
 - [miguel-sr] (https://github.com/miguel-sr)
 - [Shivansh gupta] (https://github.com/SHIVI-007)
