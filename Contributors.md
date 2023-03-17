@@ -1,5 +1,6 @@
   # Contributors
 <!-- prettier-ignore-start -->
+- [<span style="color: #2deb14;">Deepak Pradhan</span>] (https://github.com/TheLoneAlchemist)
 - [bongbongche] (https://github.com/bongbongche)
 - [ljmitchell200] (https://github.com/ljmitchell200)
 - [miguel-sr] (https://github.com/miguel-sr)
