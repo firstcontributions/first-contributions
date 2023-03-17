@@ -515,6 +515,7 @@ Arjun Palathinkara
 - [Kritika]
 - [Edwin Jaico-Berg](https://github.com/EdwinJaico-Berg)
 - [Andrew Sebastian](https://github.com/highergear)
+- [Netavya Kapoor](https://github.com/netavya2003)
 - [Numo Francis](https://github.com/numofran6)
 - [Alex Naughton](https://github.com/alexbriannaughton)
 - [Vicky Kimani](https://github.com/vickykimani)
