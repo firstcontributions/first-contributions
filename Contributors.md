@@ -12,6 +12,7 @@
 - [Taha Syed] (https://github.com/TahaSyedKhan)
 - [Maaya Yamauchi](https://github.com/mayamauchi)
 - Hadi Ahsan 
+Kevin Becerra
 Abhishek Kumar Pathak
 - [Shubham Kumar] 
 - [Additya](https://github.com/AddityaG)
@@ -44,6 +45,7 @@ Abhishek Kumar Pathak
 - [Praveen](https://github.com/Impraveensp)
 - [sonyerg](https://github.com/sonyerg)
 - [aoko faith](https://github.com/aoko-neo)
+- [Martin Juras](https://github.com/Th3Gr3y8unny)
  [cheezenyu](https://github.com/cheezenyu)
 - [Erick](https://github.com/IamMuuo)
 - [Narpat Aanjana](https://github.com/NarpatAanjana)
@@ -134,6 +136,7 @@ Abhishek Kumar Pathak
 - [Sayanti Dey] (https://github.com/sayandigital)
 - [Joel Samaniego] (https://github.com/samajoel)
 - [Erchard Solo]
+  [Taha Khan]
 - [Oddballlnner] (https://github.com/Oddballlnner)
 - [Kobby-Jones] (https://github.com/Kobby-Jones)
 - [Abubakr Hisham](https://github.com/abubakr404/)
@@ -1649,6 +1652,7 @@ Rishabh Pandey
 - [Aimee Jennings](https://github.com/CraftyDemonite)
 - [Kerry Guarino](https://github.com/kerryoncoding)
 - [Susanna-Carey](https://github.com/susannaopal)
+- [nelsonmsk](https://github.com/nelsonmsk)
 - [Mohammed Fayis](https://github.com/mohmdfayiz)
 - [Juanma Romero](https://github.com/juanmaroni/)
 - [Chhabi Acharya](https://github.com/Chhabii)
