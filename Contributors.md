@@ -85,6 +85,7 @@ Abhishek Kumar Pathak
 - [DivyaAgrawal](https://github.com/divyaagrawal877)
 - [Adiantum-f] (https://github.com/Adiantum-f)
 - [VinalPawar](https://github.com/GRim7262)
+- [Pamira Singtoroj](https://github.com/pamiras)
 - [Mukul Padwal](https://github.com/mukulpadwal)
 - [Brandonawan](https://github.com/Brandonawan)
 - [Darshan](https://github.com/Darshanjaji)
