@@ -113,6 +113,7 @@ Abhishek Kumar Pathak
 - [Sajan Kuttipuravan](https://github.com/sajankp)
 - [Mohammad Haaris Javed] (https://github.com/haaris272k)
 - [Mohammed Shakeel](https://github.com/shakeel-3)
+- [Horia Popovici](https://github.com/hpopovici)
 - [Watrgoat] (https://github.com/watrgoat)
 - Robonova 8)
 - [Brenden Blake] (https://github.com/blakebt)
