@@ -38,9 +38,7 @@
 - [Narpat Aanjana](https://github.com/NarpatAanjana)
 - [craigardy]
 - [Bikcrombiswas](https://github.com/BikcromBiswas)
-- [sallanz77]
-  -Sabeen Ch (git@github.com:Sabeen44) 
-  -[Offong Abigail](https://github.com/udems) -[devraushan](https://github.com/devraushan) -[Divy](https://github.com/Divy31245) -[Prakhar Solanki]
+- [sallanz77] -[Offong Abigail](https://github.com/udems) -[devraushan](https://github.com/devraushan) -[Divy](https://github.com/Divy31245) -[Prakhar Solanki]
   [susmitha](https://github.com/susmitha1103)
 - [tchevier](https://github.com/tchevier)
 - [moonpatel](https://github.com/moonpatel)
@@ -59,6 +57,7 @@
 - [AayushPaigwar](https://github.com/AayushPaigwar)
 - [David-mbugua] (https://github.com/david-mbugua)
 - [Wajahat-Ali-Khan](https://github.com/wajahat-ali-khan-96/.dotfiles.git)
+  [Sabeen Ch](https://github.com/Sabeen44)
 - [BhavyaNarnoli](https://github.com/bhavyanarnoli)
   [Maahnoor](https://github.com/Maahnoor)
 - [Bertin](https://github.com/goerlibe)
