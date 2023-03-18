@@ -147,6 +147,7 @@ Abhishek Kumar Pathak
 - [Joel Samaniego] (https://github.com/samajoel)
 - [Erchard Solo]
   [Taha Khan]
+- [Dylan Watson] (https://github.com/djwat228)
 - [Oddballlnner] (https://github.com/Oddballlnner)
 - [Kobby-Jones] (https://github.com/Kobby-Jones)
 - [Abubakr Hisham](https://github.com/abubakr404/)
