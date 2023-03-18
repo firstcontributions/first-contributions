@@ -213,6 +213,7 @@ Adwai
 - [André Yano] (https://github.com/yanohue)
 - [Abhinav Tyagi] (https://github.com/abhityagi12)
 - [Carlos Goncalves] (https://github.com/ogqoda)
+- [Saad Shaikh] (https://github.com/CrankyMartyr)
 - [Sanjiv Pansari](https://github.com/spansari)
 - [Nikolai Ruilova](https://github.com/NikoRuBln)
 - [Samrat Ghosh](https://github.com/samratghosh291)
