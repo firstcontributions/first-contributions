@@ -487,6 +487,7 @@ Arjun Palathinkara
 - [Anthon Rodrigues](https://github.com/anthonrodgrs01)
 - [Anish Mandal](https://github.com/anish1997)
 - [Divya Kumari](https://github.com/Iamdivyak)
+- [21F0rc3](https://github.com/21F0rc3)
 - [Sushil Bhandari](https://github.com/sushil-rgb)
 - [Vaibhav Chauhan] (https://github.com/vibenr)
 - [Josh Needleman] (https://github.com/JNeed)
