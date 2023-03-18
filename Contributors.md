@@ -3265,6 +3265,7 @@ Ayan Das
 - [JankesTNJ](https://github.com/JankesTNJ)
   [Piotr.W](https://github.com/Wysockii)
   [Siva](https://github.com/sivadaka)
+  Szymon Zygmunt
 - [Djarin](https://github.com/fjiasigmoid)
   [Mohsin A](https://github.com/mohsin-786)
   [Julia O](https://github.com/juliaordecka)
