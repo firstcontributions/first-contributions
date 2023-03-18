@@ -52,6 +52,7 @@ Abhishek Kumar Pathak
 - [sonyerg](https://github.com/sonyerg)
 - [aoko faith](https://github.com/aoko-neo)
 - [Martin Juras](https://github.com/Th3Gr3y8unny)
+- [FirE-A](https://github.com/FirE-A)
  [cheezenyu](https://github.com/cheezenyu)
 - [Erick](https://github.com/IamMuuo)
 - [Narpat Aanjana](https://github.com/NarpatAanjana)
