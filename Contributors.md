@@ -1,6 +1,5 @@
   # Contributors
 <!-- prettier-ignore-start -->
-- [Abdul Basit](https://github.com/AbdulBasit42)
 - [<span style="color: #2deb14;">Deepak Pradhan</span>] (https://github.com/TheLoneAlchemist)
 - [Abdul Basit](https://github.com/AbdulBasit42)
 - [bongbongche] (https://github.com/bongbongche)
