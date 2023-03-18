@@ -3325,6 +3325,7 @@ Ayan Das
 - [KaryWhite] (https://github.com/KaryWhite)
 - [rogn02] (https://github.com/rogn02)
 - [gsamansharma] (https://github.com/gsamansharma)
+- [Ross Buchanan] (https://github.com/ross-buc)
 - [feiyu] (https://github.com/feiyu7348)
 - [Nisarga Adhikary](https://github.com/ni5arga)
 - [Srinivasu Alla](https://github.com/srinivasualla)
@@ -3332,5 +3333,3 @@ Ayan Das
 - [paiyon](https://github.com/paiyon)
 - [Fadi](https://github.com/F14di)
 - [walker84837](https://github.com/walker84837)
-- [Ross Buchanan] (https://github.com/ross-buc)
-
