@@ -20,7 +20,7 @@
 - [André Yano] (https://github.com/yanohue)
 - [Abhinav Tyagi] (https://github.com/abhityagi12)
 - [Carlos Goncalves] (https://github.com/ogqoda)
-- [Saad Shaikh]
+- [Saad Shaikh] (https://github.com/CrankyMartyr)
 - [Sanjiv Pansari](https://github.com/spansari)
 - [Lee Eros Galaad Dias de Moura](https://github.com/LeeEros)
 - [Luke Wardle] (https://github.com/LukeWardle)
