@@ -2719,6 +2719,7 @@ Rishabh Pandey
 - [Kareem Kamal](https://github.com/eskiimo)
 - [hhwe](https://github.com/hhwe)
 - [Pruthiraj Swain]
+- [Adrian Clinansmith](https://github.com/adrianclinansmith)
 - [megsystem](https://github.com/megsystem)
 - [Innocent Thomas](https://github.com/innthomas)
 - [hashem sh](https://github.com/hashemsh)
