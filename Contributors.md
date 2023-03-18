@@ -4,6 +4,7 @@
 - [Abdul Basit](https://github.com/AbdulBasit42)
 - [bongbongche] (https://github.com/bongbongche)
 - [Anshul Rawat] (https://github.com/anshul7409)
+- [Anantashayana] (https://github.com/Anantashayana)
 - [Harsh Jha] (https://https://github.com/Harshjha3006)
 - [Nyukeit](https://github.com/nyukeit)
 - [ljmitchell200] (https://github.com/ljmitchell200)
