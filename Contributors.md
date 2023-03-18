@@ -18,6 +18,7 @@
 Kevin Becerra
 Abhishek Kumar Pathak
 - [Chinmay Deo] (https://github.com/Chinmay-Deo-2004)
+- [Piyush Mohata]
 - [Shubham Kumar] 
 - [Additya](https://github.com/AddityaG)
 - [Rohit] (https://github.com/rohitchouhan35/first-contributions.git)
