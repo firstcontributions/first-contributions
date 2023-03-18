@@ -1,6 +1,7 @@
   # Contributors
 <!-- prettier-ignore-start -->
 - [<span style="color: #2deb14;">Deepak Pradhan</span>] (https://github.com/TheLoneAlchemist)
+- [Abdul Basit](https://github.com/AbdulBasit42)
 - [bongbongche] (https://github.com/bongbongche)
 - [Anshul Rawat] (https://github.com/anshul7409)
 - [Nyukeit](https://github.com/nyukeit)
@@ -3314,3 +3315,6 @@ Ayan Das
 - [KaryWhite] (https://github.com/KaryWhite)
 - [rogn02] (https://github.com/rogn02)
 - [gsamansharma] (https://github.com/gsamansharma)
+- [feiyu] (https://github.com/feiyu7348)
+- [Nisarga Adhikary](https://github.com/ni5arga)
+- [Srinivasu Alla](https://github.com/srinivasualla)
