@@ -2063,6 +2063,7 @@ Rishabh Pandey
 - [JOSE VEDIA](https://github.com/Jose-b-v)
 - [ritu kumar sharma@ devsoc]
 - [Freya Shah](https://github.com/Freya-29)
+- [GianmarcoDIF](https://github.com/GianmarcoDIF)
 - [Pasan Pahasara](https://github.com/Pasan-Pahasara)
 - [Chethas Pv](https://github.com/chethas7)
 - [Azixe](https://github.com/Azixe)
