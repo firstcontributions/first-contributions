@@ -3354,3 +3354,4 @@ Ayan Das
 - [walker84837](https://github.com/walker84837)
 - [Sam Rosenberg] (https://github.com/serose99)
 * [Pratik Autee](https://github.com/pratikautee)
+- [Mike Angelo Mariano](https://github.com/mikeaangelo)
