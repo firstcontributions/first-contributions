@@ -130,6 +130,7 @@ Syed
 - [Aaryaveer Rajput] (https://github.com/AKR-2803)
 - [Darshit Sharma] (https://github.com/darshitsharma)
 - [Arun Lohani] (https://github.com/Socialfew146575)
+- [Varun Teja] (https://github.com/varunteja007006)
 - [SpongeJohnSquareLennon](https://github.com/SpongeJohnSquareLennon)
 - [Tomasz Kulczyński](https://github.com/Tkulczynski02)
 - [Anand Kumar] (https://github.com/Whitedevil4648)
