@@ -3271,6 +3271,7 @@ Ayan Das
   [Siva](https://github.com/sivadaka)
   Szymon Zygmunt
 - [Djarin](https://github.com/fjiasigmoid)
+- [Abdulhakim Luanda](https://github.com/abdulhakim-altunkaya)
   [Mohsin A](https://github.com/mohsin-786)
   [Julia O](https://github.com/juliaordecka)
   [Mehran javid](https://github.com/mehranjavid)
@@ -3328,5 +3329,4 @@ Ayan Das
 - [Srinivasu Alla](https://github.com/srinivasualla)
 - [Sharath Lingam](https://github.com/sharath-1517)
 - [paiyon](https://github.com/paiyon)
-- [Abdulhakim Luanda](https://github.com/abdulhakim-altunkaya)
 - [Fadi](https://github.com/F14di)
