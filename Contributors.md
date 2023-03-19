@@ -59,6 +59,7 @@ Abhishek Kumar Pathak
  [cheezenyu](https://github.com/cheezenyu)
 - [FelixAnthony](https://github.com/felixanthony03)
 - [Erick](https://github.com/IamMuuo)
+- [Felix](https://github.com/felixnathony03)
 - [Narpat Aanjana](https://github.com/NarpatAanjana)
 - [craigardy]
 - [lilfra] (https://github.com/lilfra)
