@@ -57,6 +57,7 @@ Abhishek Kumar Pathak
 - [FirE-A](https://github.com/FirE-A)
  [cheezenyu](https://github.com/cheezenyu)
 - [Felix](https://github.com/felixanthony03)
+- [Felix](https://github.com/felixanthony03)
 - [Erick](https://github.com/IamMuuo)
 - [Narpat Aanjana](https://github.com/NarpatAanjana)
 - [craigardy]
