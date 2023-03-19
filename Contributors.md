@@ -1,6 +1,7 @@
   # Contributors
 <!-- prettier-ignore-start -->
 - [<span style="color: #2deb14;">Deepak Pradhan</span>] (https://github.com/TheLoneAlchemist)
+- [Saksham Paliwal] (https://github.com/sakshampaliwal)
 - [Ashish Rathore] (https://github.com/itsashishrath)
 - [Ash Casden] (https://github.com/acasden)
 - [Raj Malviya](https://github.com/rajmalviya456)
