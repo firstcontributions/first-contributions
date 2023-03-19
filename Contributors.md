@@ -34,7 +34,6 @@ Abhishek Kumar Pathak
 - [oliveren] (https://github.com/renjialan)
 - [Tanner Stephenson] (https://github.com/TannerStephenson)
 - [AymanHou](https://github.com/aymanhouadria)
-Syed 
 - [Dongook](https://github.com/dwk601)
 - [Charmaine](https://github.com/charmaine-aguilar)
 - [Ramses](https://github.com/rammsesgit)
@@ -111,6 +110,7 @@ Syed
 - [Pamira Singtoroj](https://github.com/pamiras)
 - [Mukul Padwal](https://github.com/mukulpadwal)
 - [Brandonawan](https://github.com/Brandonawan)
+Syed 
 - [Darshan](https://github.com/Darshanjaji)
 - [Marius](https://github.com/mariuswink)
 - [JohnLc12-9](https://github.com/JohnLc12-9)
