@@ -13,6 +13,7 @@
 - [Pre-123] (https://github.com/Pre-123)
 - [miguel-sr] (https://github.com/miguel-sr)
 - Ashish Chowdhary
+- [TanishGarg](https://github.com/TheLostPrime12)
 - [Shivansh gupta] (https://github.com/SHIVI-007)
 - [rutubha](https://github.com/rutubha)
 - [shakhnazarov](https://github.com/shakhnazarov)
