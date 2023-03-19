@@ -133,7 +133,7 @@ Syed
 - [Darshit Sharma] (https://github.com/darshitsharma)
 - [Arun Lohani] (https://github.com/Socialfew146575)
 - [Varun Teja] (https://github.com/varunteja007006)
-- [SpongeJohnSquareLennon](https://github.com/SpongeJohnSquareLennon)
+- [SpongeJohnSquareLennon](https://github.ckom/SpongeJohnSquareLennon)
 - [Tomasz Kulczyński](https://github.com/Tkulczynski02)
 - [Anand Kumar] (https://github.com/Whitedevil4648)
 - [Shaikh Sohel] (https://github.com/ShaikhSohel1)
@@ -154,6 +154,7 @@ Syed
 - [Relc]
 - [Nitesh Singh Solanki] (https://github.com/onlyniteshsingh)
 - [Khushboo Tiwari]
+- [Manoj Kumar](https://github.com/manoj8861) 
 - [Marcel Roig] (https://github.com/marcelrm11)
 - [Sayanti Dey] (https://github.com/sayandigital)
 - [Joel Samaniego] (https://github.com/samajoel)
