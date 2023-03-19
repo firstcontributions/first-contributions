@@ -1057,6 +1057,7 @@ Subhajit Bera
 - [Shrey Kumar] (https://github.com/Shrey-1123)
 - [Rafli Muhammad](https://github.com/raflimuhammadd)
 - [Elena Kharitonova](https://github.com/Alenuha)
+- [Atsushi Kawawtani](https://github.com/Atsu0601)
 - [Utkarsh Pant](https://github.com/utkarshpant19)
 - [Awais](https://github.com/TechTronixx)
 - [Tharun Harish](https://github.com/Tharun-Ninja)
