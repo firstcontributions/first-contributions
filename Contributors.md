@@ -136,6 +136,7 @@ Abhishek Kumar Pathak
 - [Mohammed Shakeel](https://github.com/shakeel-3)
 - [Horia Popovici](https://github.com/hpopovici)
 - [Watrgoat] (https://github.com/watrgoat)
+- [nic] (https://github.com/nicNeutron)
 - Robonova 8)
 - [Brenden Blake] (https://github.com/blakebt)
 - [Nadine Oka] (https://github.com/nadineoka)
