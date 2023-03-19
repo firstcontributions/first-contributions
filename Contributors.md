@@ -1023,6 +1023,7 @@ Subhajit Bera
 - [Nathan Ware](https://github.com/Natan-Coder)
 - Grace Henke
 - Tisha Codes
+- [Joaquin Sotelo](https://github.com/JoaquinSotel0)
 - [Abhishek Tewary](https://github.com/abhishek-38)
 - [Daniel Burchett](https://github.com/Dnlburch)
 - [Axorax](https://github.com/axorax)
