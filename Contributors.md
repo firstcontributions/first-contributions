@@ -14,6 +14,7 @@
 - [Pre-123] (https://github.com/Pre-123)
 - [miguel-sr] (https://github.com/miguel-sr)
 - Ashish Chowdhary
+- [TanishGarg](https://github.com/TheLostPrime12)
 - [Shivansh gupta] (https://github.com/SHIVI-007)
 - [rutubha](https://github.com/rutubha)
 - [shakhnazarov](https://github.com/shakhnazarov)
@@ -3354,3 +3355,4 @@ Ayan Das
 - [walker84837](https://github.com/walker84837)
 - [Sam Rosenberg] (https://github.com/serose99)
 * [Pratik Autee](https://github.com/pratikautee)
+- [Mike Angelo Mariano](https://github.com/mikeaangelo)
