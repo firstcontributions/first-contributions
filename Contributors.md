@@ -124,6 +124,7 @@ Syed
 - [JohnLc12-9](https://github.com/JohnLc12-9)
 - [Serdar-Camur](https://github.com/AnatolyWassermann)
 - [Abhishek Tilkar](https://github.com/abhishektilkar)
+- [Anele Siguqa](https://github.com/AneleIlyas) 
 - [SimoneZh](https://github.com/SimoneZh)
 - [0xJayPi](https://github.com/SimoneZh/0xJayPi)
 - [darkGhost] (https://github.com/darkGhost3108)
