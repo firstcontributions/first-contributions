@@ -15,6 +15,7 @@
 - [shakhnazarov](https://github.com/shakhnazarov)
 - [ymdd1](https://github.com/ymdd1)
 - [Taha Syed] (https://github.com/TahaSyedKhan)
+- [Sunil Pimenta] (https://github.com/sunilpimenta)
 - [Maaya Yamauchi](https://github.com/mayamauchi)
 Kevin Becerra
 Abhishek Kumar Pathak
