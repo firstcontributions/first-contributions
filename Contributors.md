@@ -22,6 +22,7 @@
 - [miguel-sr] (https://github.com/miguel-sr)
 - jhjjhkh
 - Ashish Chowdhary
+- Taufeeq Noamaan
 - [TanishGarg](https://github.com/TheLostPrime12)
 - [Shivansh gupta] (https://github.com/SHIVI-007)
 - [rutubha](https://github.com/rutubha)
