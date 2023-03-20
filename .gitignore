@@ -388,3 +388,4 @@ FodyWeavers.xsd
 *.sln.iml
 .vscode/settings.json
 .DS_Store
+.Rproj.user
