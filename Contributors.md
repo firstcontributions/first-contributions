@@ -1,7 +1,12 @@
   # Contributors
 <!-- prettier-ignore-start -->
 - [<span style="color: #2deb14;">Deepak Pradhan</span>] (https://github.com/TheLoneAlchemist)
+- [Saksham Paliwal] (https://github.com/sakshampaliwal)
+- [Adarsh Gupta] (https://github.com/apneduniya)
+- [Ashish Rathore] (https://github.com/itsashishrath)
 - [Ash Casden] (https://github.com/acasden)
+- [Raj Malviya](https://github.com/rajmalviya456)
+- [Paula Isabel Signo] (https://github.com/paulaxisabel)
 - [Abdul Basit](https://github.com/AbdulBasit42)
 - [bongbongche] (https://github.com/bongbongche)
 - [Anshul Rawat] (https://github.com/anshul7409)
@@ -12,7 +17,9 @@
 - [ljmitchell200] (https://github.com/ljmitchell200)
 - [Pre-123] (https://github.com/Pre-123)
 - [miguel-sr] (https://github.com/miguel-sr)
+- jhjjhkh
 - Ashish Chowdhary
+- [TanishGarg](https://github.com/TheLostPrime12)
 - [Shivansh gupta] (https://github.com/SHIVI-007)
 - [rutubha](https://github.com/rutubha)
 - [shakhnazarov](https://github.com/shakhnazarov)
@@ -20,12 +27,14 @@
 - [Taha Syed] (https://github.com/TahaSyedKhan)
 - [Sunil Pimenta] (https://github.com/sunilpimenta)
 - [Maaya Yamauchi](https://github.com/mayamauchi)
+- [Neville Thomas Sebastian](https://github.com/grievous-mischievous7)
 Kevin Becerra
 Abhishek Kumar Pathak
 - [Chinmay Deo] (https://github.com/Chinmay-Deo-2004)
 - [Shubham Kumar] 
 - [Piyush Mohata]
 - [Additya](https://github.com/AddityaG)
+- [Andrew](https://github.com/andrewlabada)
 - [Rohit] (https://github.com/rohitchouhan35/first-contributions.git)
 - [jtschoerner] (https://github.com/jtschoerner)
 - [Naved Ahmad] (https://github.com/NavedtheDev) 
@@ -122,6 +131,7 @@ Syed
 - [JohnLc12-9](https://github.com/JohnLc12-9)
 - [Serdar-Camur](https://github.com/AnatolyWassermann)
 - [Abhishek Tilkar](https://github.com/abhishektilkar)
+- [Anele Siguqa](https://github.com/AneleIlyas) 
 - [SimoneZh](https://github.com/SimoneZh)
 - [0xJayPi](https://github.com/SimoneZh/0xJayPi)
 - [darkGhost] (https://github.com/darkGhost3108)
@@ -130,7 +140,9 @@ Syed
 - [Aaryaveer Rajput] (https://github.com/AKR-2803)
 - [Darshit Sharma] (https://github.com/darshitsharma)
 - [Arun Lohani] (https://github.com/Socialfew146575)
+- [Varun Teja] (https://github.com/varunteja007006)
 - [SpongeJohnSquareLennon](https://github.com/SpongeJohnSquareLennon)
+- [RJBurford](https://github.com/rjburford)
 - [Tomasz Kulczyński](https://github.com/Tkulczynski02)
 - [Anand Kumar] (https://github.com/Whitedevil4648)
 - [Shaikh Sohel] (https://github.com/ShaikhSohel1)
@@ -151,6 +163,7 @@ Syed
 - [Relc]
 - [Nitesh Singh Solanki] (https://github.com/onlyniteshsingh)
 - [Khushboo Tiwari]
+- [Manoj Kumar](https://github.com/manoj8861) 
 - [Marcel Roig] (https://github.com/marcelrm11)
 - [Sayanti Dey] (https://github.com/sayandigital)
 - [Joel Samaniego] (https://github.com/samajoel)
@@ -2050,6 +2063,7 @@ Rishabh Pandey
 - [JOSE VEDIA](https://github.com/Jose-b-v)
 - [ritu kumar sharma@ devsoc]
 - [Freya Shah](https://github.com/Freya-29)
+- [GianmarcoDIF](https://github.com/GianmarcoDIF)
 - [Pasan Pahasara](https://github.com/Pasan-Pahasara)
 - [Chethas Pv](https://github.com/chethas7)
 - [Azixe](https://github.com/Azixe)
@@ -2689,6 +2703,7 @@ Rishabh Pandey
 - [cameron lee](https://github.com/cameronslee23)
 - [Bambam320](https://github.com/Bambam320)
 - [Simonky Salinas](https://github.com/Simonkys)
+- [Arunava Mondal](https://github.com/arunava6M)
 - [mrzlsptzr](https://github.com/mrzlsptzr)
 - [André Correa](https://github.com/dartmol203)
 - [Umberto Fontanazza] (https://github.com/umberto-fontanazza)
@@ -3352,4 +3367,8 @@ Ayan Das
 - [walker84837](https://github.com/walker84837)
 - [Sam Rosenberg] (https://github.com/serose99)
 * [Pratik Autee](https://github.com/pratikautee)
+<<<<<<< HEAD
 - [BluesSense](https://github.com/Thirumurugan-12)
+=======
+
+>>>>>>> 180444fa5dd1d0dc4de1fbf327f0e5a3d83290ea
