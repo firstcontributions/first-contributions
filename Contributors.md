@@ -1,7 +1,8 @@
   # Contributors
 <!-- prettier-ignore-start -->
 - [jeromepalayoor](https://github.com/jeromepalayoor)
-- [<span style="color: #2deb14;">Deepak Pradhan</span>] (https://github.com/TheLoneAlchemist)
+- [<span style="color: #2deb14;">Deepak Pradhan</span>] (https://github.com/TheLoneAlchemis
+- [Sameer Sharma](https://github.com/nawabsahab16))
 - [Saksham Paliwal] (https://github.com/sakshampaliwal)
 - [Adarsh Gupta] (https://github.com/apneduniya)
 - [Ashish Rathore] (https://github.com/itsashishrath)
