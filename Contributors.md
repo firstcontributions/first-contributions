@@ -91,6 +91,7 @@
 - [Sayanti Dey] (https://github.com/sayandigital)
 - [Joel Samaniego] (https://github.com/samajoel)
 - [Oddballlnner] (https://github.com/Oddballlnner)
+- [Mauricio](https://github.com/mMartinez00)
 - [Kobby-Jones] (https://github.com/Kobby-Jones)
 - [Abubakr Hisham](https://github.com/abubakr404/)
 - [Federico Grandi](https://github.com/EndBug)
