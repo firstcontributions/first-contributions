@@ -1590,6 +1590,7 @@ Rishabh Pandey
 - [Amir](https://github.com/amir-repository)
 - [xg Jiang](https://github.com/xgjiang)
 - [Sivagnanam Palaniappan](https://github.com/sivag98)
+- [Jereh Lomak] (https://github.com/jerehlomak)
 - [Chandan kumar Chaudhary](https://github.com/chands)
 - [Chizi Ogundu](https://github.com/solidSteak0)
 - [Kripa Sindhu](https://github.com/kripasindhu-007)
