@@ -9,6 +9,7 @@
 - [Dei-Vicenzi] (https://github.com/Dei-Vicenzi)
 - [Ashish Rathore] (https://github.com/itsashishrath)
 - [Ash Casden] (https://github.com/acasden)
+- [KBenit](https://github.com/KBenit)
 - [Kai Tecson] (https://github.com/SchadenKai)
 - [Raj Malviya](https://github.com/rajmalviya456)
 - [Paula Isabel Signo] (https://github.com/paulaxisabel)
