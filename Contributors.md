@@ -6,6 +6,7 @@
 - [Sameer Sharma](https://github.com/nawabsahab16))
 - [Saksham Paliwal] (https://github.com/sakshampaliwal)
 - [Adarsh Gupta] (https://github.com/apneduniya)
+- [Dei-Vicenzi] (https://github.com/Dei-Vicenzi)
 - [Ashish Rathore] (https://github.com/itsashishrath)
 - [Ash Casden] (https://github.com/acasden)
 - [Kai Tecson] (https://github.com/SchadenKai)
