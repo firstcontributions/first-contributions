@@ -6,6 +6,7 @@
 - [Adarsh Gupta] (https://github.com/apneduniya)
 - [Ashish Rathore] (https://github.com/itsashishrath)
 - [Ash Casden] (https://github.com/acasden)
+- [Kai Tecson] (https://github.com/SchadenKai)
 - [Raj Malviya](https://github.com/rajmalviya456)
 - [Paula Isabel Signo] (https://github.com/paulaxisabel)
 - [Abdul Basit](https://github.com/AbdulBasit42)
