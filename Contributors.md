@@ -14,6 +14,7 @@
 - [Anantashayana] (https://github.com/Anantashayana)
 - [Harsh Jha] (https://https://github.com/Harshjha3006)
 - [Kamlesh Gehlot] (https://github.com/kamlesh-gehlot)
+- [Krishna Deepak] (https://github.com/KDcoder21)
 - [Nyukeit](https://github.com/nyukeit)
 - [ljmitchell200] (https://github.com/ljmitchell200)
 - [Pre-123] (https://github.com/Pre-123)
