@@ -14,7 +14,7 @@ Abhishek Kumar Pathak
 - [Rohit] (https://github.com/rohitchouhan35/first-contributions.git)
 - [jtschoerner] (https://github.com/jtschoerner)
 - [jacquelineyoung8] (https://github.com/jacquelineyoung8)
-- [joepoptiya] (https://github.com/joepoptiya)
+- [joepoptiya](https://github.com/joepoptiya)
 - [AkashShukl] (https://github.com/AkashShukl)
 - [bdvinod788] (https://github.com/bdvinod788)
 - [ssaporito] (https://github.com/ssaporito)
