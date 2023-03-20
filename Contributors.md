@@ -325,6 +325,7 @@ Adwai
 - [Himtome1] (https://github.com/Himtome1))
 - [Derp] (https://github.com/DDeerrpp)
 - [Gaurang Ruikar] (https://github.com/Gaurang-Ruikar)
+- [Marius Rosteck] (https://github.com/RosteckMarius)
 - [Usama Abdullah](https://github.com/uka7)
 - [Weile Zheng] (https://github.com/Weile-Zheng)
 - [jayendra parmar] (https://github.com/Jp88Programmer)
