@@ -3352,4 +3352,4 @@ Ayan Das
 - [walker84837](https://github.com/walker84837)
 - [Sam Rosenberg] (https://github.com/serose99)
 * [Pratik Autee](https://github.com/pratikautee)
-- [Bluesense](https://github.com/Thirumurugan-12)
+- [BluesSense](https://github.com/Thirumurugan-12)
