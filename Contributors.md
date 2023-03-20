@@ -1624,6 +1624,7 @@ Rishabh Pandey
 - [DippleThree](https://github.com/GGitHill)
 - [Petra Ojamanhor](https://github.com/Petra-Cae)
 - [Sudarhan Mallibhat](https://github.com/sudarshanmg)
+- [ Aniket Supekar ✨👻 ](https://github.com/AniketSupekar)
 - [Bogdan Otava](https://github.com/BogdanOtava)
 - [Afonso Ramalho](https://github.com/afonsosgsramalho)
 - Reetish Rath DevSoc Pre-inductions
