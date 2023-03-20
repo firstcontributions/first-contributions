@@ -1,5 +1,6 @@
   # Contributors
 <!-- prettier-ignore-start -->
+- [wai](https://github.com/WaiYanMinThaton)
 - [jeromepalayoor](https://github.com/jeromepalayoor)
 - [<span style="color: #2deb14;">Deepak Pradhan</span>] (https://github.com/TheLoneAlchemist)
 - [Saksham Paliwal] (https://github.com/sakshampaliwal)
