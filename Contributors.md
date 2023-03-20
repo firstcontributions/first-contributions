@@ -1,9 +1,12 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
 - [<span style="color: #2deb14;">Deepak Pradhan</span>] (https://github.com/TheLoneAlchemist)
+- [Saksham Paliwal] (https://github.com/sakshampaliwal)
+- [Adarsh Gupta] (https://github.com/apneduniya)
+- [Ashish Rathore] (https://github.com/itsashishrath)
 - [Ash Casden] (https://github.com/acasden)
+- [Raj Malviya](https://github.com/rajmalviya456)
 - [Paula Isabel Signo] (https://github.com/paulaxisabel)
 - [Abdul Basit](https://github.com/AbdulBasit42)
 - [bongbongche] (https://github.com/bongbongche)
@@ -15,6 +18,7 @@
 - [ljmitchell200] (https://github.com/ljmitchell200)
 - [Pre-123] (https://github.com/Pre-123)
 - [miguel-sr] (https://github.com/miguel-sr)
+- jhjjhkh
 - Ashish Chowdhary
 - [TanishGarg](https://github.com/TheLostPrime12)
 - [Shivansh gupta] (https://github.com/SHIVI-007)
@@ -25,6 +29,7 @@
 - [Sunil Pimenta] (https://github.com/sunilpimenta)
 - [Maaya Yamauchi](https://github.com/mayamauchi)
 - [Additya](https://github.com/AddityaG)
+- [Andrew](https://github.com/andrewlabada)
 - [Rohit] (https://github.com/rohitchouhan35/first-contributions.git)
 - [jtschoerner] (https://github.com/jtschoerner)
 - [Naved Ahmad] (https://github.com/NavedtheDev)
@@ -111,6 +116,7 @@ Syed
 - [JohnLc12-9](https://github.com/JohnLc12-9)
 - [Serdar-Camur](https://github.com/AnatolyWassermann)
 - [Abhishek Tilkar](https://github.com/abhishektilkar)
+- [Anele Siguqa](https://github.com/AneleIlyas) 
 - [SimoneZh](https://github.com/SimoneZh)
 - [0xJayPi](https://github.com/SimoneZh/0xJayPi)
 - [darkGhost] (https://github.com/darkGhost3108)
@@ -121,6 +127,7 @@ Syed
 - [Arun Lohani] (https://github.com/Socialfew146575)
 - [Varun Teja] (https://github.com/varunteja007006)
 - [SpongeJohnSquareLennon](https://github.com/SpongeJohnSquareLennon)
+- [RJBurford](https://github.com/rjburford)
 - [Tomasz Kulczyński](https://github.com/Tkulczynski02)
 - [Anand Kumar] (https://github.com/Whitedevil4648)
 - [Shaikh Sohel] (https://github.com/ShaikhSohel1)
@@ -139,6 +146,7 @@ Syed
 - [Relc]
 - [Nitesh Singh Solanki] (https://github.com/onlyniteshsingh)
 - [Khushboo Tiwari]
+- [Manoj Kumar](https://github.com/manoj8861) 
 - [Marcel Roig] (https://github.com/marcelrm11)
 - [Sayanti Dey] (https://github.com/sayandigital)
 - [Joel Samaniego] (https://github.com/samajoel)
@@ -1989,6 +1997,7 @@ Syed
 - [Profe Glip](https://github.com/Scr1ptechnick)
 - [Ivan Gutsev](https://github.com/IvanGutsev)
 - [Assogba charbel](https://github.com/charbossly)
+- [lulusbago](https://github.com/lulubago)
 - [Aazim Parwaz](https://github.com/Aazim-parwaz)
 - [Monish Prabhu](https://github.com/monish-pr/)
 - [Ekene Obiasogu](https://github.com/E-kenny/)
@@ -2020,6 +2029,7 @@ Syed
 - [JOSE VEDIA](https://github.com/Jose-b-v)
 - [ritu kumar sharma@ devsoc]
 - [Freya Shah](https://github.com/Freya-29)
+- [GianmarcoDIF](https://github.com/GianmarcoDIF)
 - [Pasan Pahasara](https://github.com/Pasan-Pahasara)
 - [Chethas Pv](https://github.com/chethas7)
 - [Azixe](https://github.com/Azixe)
@@ -2236,6 +2246,7 @@ Syed
 - [NandiniPokharna](https://github.com/NandiniPokharna)
 - [Ruphaa Ganesan](https://github.com/ruphaa)
 - [unpluggedsam](https://github.com/unpluggedsam)
+- [eest12](https://github.com/eest12)
 - [JasminTajShaik](https://github.com/JasminTajShaik2601)
 - [Rishi Deshmukh](https://github.com/26rishiii)
 - [Nishant Kumar](https://github.com/thinkwithcode)
@@ -2659,6 +2670,7 @@ Syed
 - [cameron lee](https://github.com/cameronslee23)
 - [Bambam320](https://github.com/Bambam320)
 - [Simonky Salinas](https://github.com/Simonkys)
+- [Arunava Mondal](https://github.com/arunava6M)
 - [mrzlsptzr](https://github.com/mrzlsptzr)
 - [André Correa](https://github.com/dartmol203)
 - [Umberto Fontanazza] (https://github.com/umberto-fontanazza)
@@ -3311,3 +3323,6 @@ Syed
 - [Sam Rosenberg] (https://github.com/serose99)
 * [Pratik Autee](https://github.com/pratikautee)
 - [Mike Angelo Mariano](https://github.com/mikeaangelo)
+- [Sarthak Jain](https://github.com/sarthakj0304)
+- [Kaka Nguyen](https://github.com/duccadhv1)
+- [jackgai](https://github.com/jackgai)
