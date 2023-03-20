@@ -360,6 +360,7 @@ Adwai
 - [Micha  Konon]
 - [Revilo1409](https://github.com/Revilo1409)
 - [TariqAziz](https://github.com/Tariq-AQ)
+- [Nites-24](https://github.com/Nites-24)
 - [AlisonCardoso](https://github.com/AlisonCardoso)
 - [Rounak Shrivastav](https://github.com/Rounakshrivastav)
 - [Manjusha Nair](https://github.com//manjushabnair)
