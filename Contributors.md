@@ -12,6 +12,7 @@
 - [Ash Casden] (https://github.com/acasden)
 - [KBenit](https://github.com/KBenit)
 - [Kai Tecson] (https://github.com/SchadenKai)
+- [Hà Văn Quốc Dũng] (https://github.com/Dung24-6)
 - [Raj Malviya](https://github.com/rajmalviya456)
 - [Paula Isabel Signo] (https://github.com/paulaxisabel)
 - [Abdul Basit](https://github.com/AbdulBasit42)
