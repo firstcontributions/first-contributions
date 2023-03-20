@@ -7,6 +7,7 @@
 - [Saksham Paliwal] (https://github.com/sakshampaliwal)
 - [Adarsh Gupta] (https://github.com/apneduniya)
 - [Dei-Vicenzi] (https://github.com/Dei-Vicenzi)
+- [MrSevyu] (https://github.com/iiCodeRedemption)
 - [Ashish Rathore] (https://github.com/itsashishrath)
 - [Ash Casden] (https://github.com/acasden)
 - [KBenit](https://github.com/KBenit)
