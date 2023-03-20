@@ -36,6 +36,7 @@
 - [Shivansh gupta] (https://github.com/SHIVI-007)
 - [rutubha](https://github.com/rutubha)
 - [shakhnazarov](https://github.com/shakhnazarov)
+- [AmitJerochim](https://github.com/AmitJerochim)
 - [ymdd1](https://github.com/ymdd1)
 - [Taha Syed] (https://github.com/TahaSyedKhan)
 - [Sunil Pimenta] (https://github.com/sunilpimenta)
