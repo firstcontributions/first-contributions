@@ -765,6 +765,7 @@ Joni
 - [Sam Nanson](https://github.com/snanson2023)
 - [sbadi](https://github.col/sbadillo)
 - [neta] (https://github.com/netacohen1)
+- [Leonard Wittrock] (https://github.com/wittrockscode)
 - [Hiu Yi NAM] (https://github.com/HYnam)
 - [Mohd Amaan](https://github.com/mhdamaan79)
 - [Hrishikesh Ajith]
