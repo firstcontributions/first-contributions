@@ -20,6 +20,7 @@
 - [Anshul Rawat] (https://github.com/anshul7409)
 - [Anantashayana] (https://github.com/Anantashayana)
 - [Harsh Jha] (https://https://github.com/Harshjha3006)
+- Yana
 - [Kamlesh Gehlot] (https://github.com/kamlesh-gehlot)
 - [Krishna Deepak] (https://github.com/KDcoder21)
 - [William Haywood] (https://github.com/Whaywood98)
