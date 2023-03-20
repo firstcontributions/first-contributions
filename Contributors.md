@@ -2281,6 +2281,7 @@ Rishabh Pandey
 - [NandiniPokharna](https://github.com/NandiniPokharna)
 - [Ruphaa Ganesan](https://github.com/ruphaa)
 - [unpluggedsam](https://github.com/unpluggedsam)
+- [eest12](https://github.com/eest12)
 - [JasminTajShaik](https://github.com/JasminTajShaik2601)
 - [Rishi Deshmukh](https://github.com/26rishiii)
 - [Nishant Kumar](https://github.com/thinkwithcode)
