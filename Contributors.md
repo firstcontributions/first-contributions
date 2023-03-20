@@ -1,5 +1,6 @@
   # Contributors
 <!-- prettier-ignore-start -->
+- [jeromepalayoor](https://github.com/jeromepalayoor)
 - [<span style="color: #2deb14;">Deepak Pradhan</span>] (https://github.com/TheLoneAlchemist)
 - [Saksham Paliwal] (https://github.com/sakshampaliwal)
 - [Adarsh Gupta] (https://github.com/apneduniya)
@@ -30,6 +31,7 @@
 - [Neville Thomas Sebastian](https://github.com/grievous-mischievous7)
 Kevin Becerra
 Abhishek Kumar Pathak
+Pranav Bhutada(https://github.com/pranav243)
 - [Chinmay Deo] (https://github.com/Chinmay-Deo-2004)
 - [Shubham Kumar] 
 - [Piyush Mohata]
@@ -97,6 +99,7 @@ Abhishek Kumar Pathak
 - [Meraduro](https://github.com/Meraduro)
 - [erdemy885](https://github.com/erdemy885)
 - [MohitRajSinha](https://github.com/mohitrajsinha)
+- [Ayush Sharma](https://github.com/Ayush-Sharma410)
 - [AayushPaigwar](https://github.com/AayushPaigwar)
 - [David-mbugua] (https://github.com/david-mbugua) 
 - [Wajahat-Ali-Khan](https://github.com/wajahat-ali-khan-96/.dotfiles.git)
@@ -2032,6 +2035,7 @@ Rishabh Pandey
 - [Profe Glip](https://github.com/Scr1ptechnick)
 - [Ivan Gutsev](https://github.com/IvanGutsev)
 - [Assogba charbel](https://github.com/charbossly)
+- [lulusbago](https://github.com/lulubago)
 - [Aazim Parwaz](https://github.com/Aazim-parwaz)
 - [Monish Prabhu](https://github.com/monish-pr/)
 - [Ekene Obiasogu](https://github.com/E-kenny/)
@@ -2280,6 +2284,7 @@ Rishabh Pandey
 - [NandiniPokharna](https://github.com/NandiniPokharna)
 - [Ruphaa Ganesan](https://github.com/ruphaa)
 - [unpluggedsam](https://github.com/unpluggedsam)
+- [eest12](https://github.com/eest12)
 - [JasminTajShaik](https://github.com/JasminTajShaik2601)
 - [Rishi Deshmukh](https://github.com/26rishiii)
 - [Nishant Kumar](https://github.com/thinkwithcode)
@@ -3367,8 +3372,11 @@ Ayan Das
 - [walker84837](https://github.com/walker84837)
 - [Sam Rosenberg] (https://github.com/serose99)
 * [Pratik Autee](https://github.com/pratikautee)
-<<<<<<< HEAD
 - [BluesSense](https://github.com/Thirumurugan-12)
-=======
-
->>>>>>> 180444fa5dd1d0dc4de1fbf327f0e5a3d83290ea
+- [Mike Angelo Mariano](https://github.com/mikeaangelo)
+- [Sarthak Jain](https://github.com/sarthakj0304)
+- [Kaka Nguyen](https://github.com/duccadhv1)
+- [jackgai](https://github.com/jackgai)
+- [Ahmad Mughrabi] (https://github.com/9AMTech)
+- [Mohamed Fawas](https://github.com/mohamedfawas)
+- [John Kyle Desamparo](Hehehehe)
