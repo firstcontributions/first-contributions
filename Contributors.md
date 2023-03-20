@@ -295,6 +295,7 @@ Adwai
 - [Nick] (https://github.com/nickkl)
 - [Nick Houlahan] (https://github.com/nickhoulahan)
 - [Sri Aditya] (https://github.com/SriLikesToSing/)
+- [Uddesh Teke] (https://github.com/oneandhalffeet)
 - [Mohamed Marzuq](https://github.com/mohamedmarzuq5/)
 - [Manu B M](https://github.com/ManuBM555)
 - [Himanshu Chauhan](https://github.com/hc011)
