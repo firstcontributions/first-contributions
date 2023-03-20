@@ -1,6 +1,7 @@
   # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [jeromepalayoor](https://github.com/jeromepalayoor)
 - [<span style="color: #2deb14;">Deepak Pradhan</span>] (https://github.com/TheLoneAlchemist)
 - [Saksham Paliwal] (https://github.com/sakshampaliwal)
@@ -3388,4 +3389,4 @@ Ayan Das
 - [Mohamed Fawas](https://github.com/mohamedfawas)
 - [John Kyle Desamparo](Hehehehe)
 - [Mehrdad Sami](https://github.com/msaami)
-- [Treeofabyss]
+- Treeofabyss
