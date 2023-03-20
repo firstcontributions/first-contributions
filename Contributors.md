@@ -88,6 +88,7 @@
 - [Relc]
 - [Nitesh Singh Solanki] (https://github.com/onlyniteshsingh)
 - [Khushboo Tiwari]
+- [Mauricio] (https://github.com/mMartinez00)
 - [Sayanti Dey] (https://github.com/sayandigital)
 - [Joel Samaniego] (https://github.com/samajoel)
 - [Oddballlnner] (https://github.com/Oddballlnner)
