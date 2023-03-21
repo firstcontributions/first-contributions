@@ -48,6 +48,7 @@ Pranav Bhutada(https://github.com/pranav243)
 - [Chinmay Deo] (https://github.com/Chinmay-Deo-2004)
 - [Shubham Kumar] 
 - [Piyush Mohata]
+- [Asayhi](https://github.com/Asayhi)
 - [Additya](https://github.com/AddityaG)
 - [Andrew](https://github.com/andrewlabada)
 - [Rohit] (https://github.com/rohitchouhan35/first-contributions.git)
