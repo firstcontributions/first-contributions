@@ -8,6 +8,7 @@
 - [jeromepalayoor](https://github.com/jeromepalayoor)
 - [<span style="color: #2deb14;">Deepak Pradhan</span>] (https://github.com/TheLoneAlchemis
 - [Sameer Sharma](https://github.com/nawabsahab16))
+- [Dinesh-Das] (https://github.com/Dinesh-Das)
 - [Perin-Mangukiya](https://github.com/Perin-Mangukiya)
 -[Abhishek](https://github.com/hyperion912)
 - [Alan Lipschutz](https://github.com/alanlipschutz)
