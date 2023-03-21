@@ -160,6 +160,7 @@ Syed
 - [shinobi3142] (https://github.com/darkGhost3142)
 - [iamroshankr] (https://github.com/iamroshankr)
 - [Aaryaveer Rajput] (https://github.com/AKR-2803)
+- [Rishi Madhur Kanajam] (https://github.com/RishiMadhur)
 - [Darshit Sharma] (https://github.com/darshitsharma)
 - [Arun Lohani] (https://github.com/Socialfew146575)
 - [Varun Teja] (https://github.com/varunteja007006)
