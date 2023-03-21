@@ -503,7 +503,7 @@ JUnaid jamshed from nellikkuth
 - [juanmagb8d](https://github.com/juanmagb8d)
 - [Nico Kemp](https://github.com/njrkemp1/)
 - [Rajesh Chavan](https://github.com/Rajesh007/)
-- [Bryony Maguire](https://github.com/Bryonyht)
+- [Bryony H Maguire](https://github.com/Bryonyht)
 - [ervinaservinas](https://github.com/ervinaservinas)
 Arjun Palathinkara
 - [Karthik Sankar](https://github.com/emergenitro/)
