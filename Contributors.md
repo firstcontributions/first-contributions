@@ -448,6 +448,7 @@ JUnaid jamshed from nellikkuth
 - [Siddharth Mishra](https://github.com/sid760)
 - [Jayavardhan, Pathella](https://github.com/Jayavardhan108)
 - [Lisa Adams](https://github.com/techwriterlisa)
+- New Guy
 - [Abhishek Yadav](https://github.com/abhi-nandan09)
 - [Preetham Mukkara](https://github.com/Preetham-Mukkara)
 - [Zdenek Petracek] (https://github.com/PH03NiX9) 
