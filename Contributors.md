@@ -35,7 +35,7 @@
 - jhjjhkh
 - Ashish Chowdhary
 - Taufeeq Noamaan
-- [Armandas Brunius](https://github.com/Armandas-b)
+- [Armandas Bruniusss](https://github.com/Armandas-b)
 - Sarumi Muslimah Atinuke [https://github.com/Muslimahhh]
 - [TanishGarg](https://github.com/TheLostPrime12)
 - [Shivansh gupta] (https://github.com/SHIVI-007)
