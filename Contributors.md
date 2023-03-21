@@ -4,6 +4,7 @@
 - [jeromepalayoor](https://github.com/jeromepalayoor)
 - [<span style="color: #2deb14;">Deepak Pradhan</span>] (https://github.com/TheLoneAlchemis
 - [Sameer Sharma](https://github.com/nawabsahab16))
+- [Dinesh-Das] (https://github.com/Dinesh-Das)
 - [Saksham Paliwal] (https://github.com/sakshampaliwal)
 - [Adarsh Gupta] (https://github.com/apneduniya)
 - [Dei-Vicenzi] (https://github.com/Dei-Vicenzi)
