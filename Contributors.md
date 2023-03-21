@@ -592,6 +592,7 @@ Arjun Palathinkara
 - [Andrew Sebastian](https://github.com/highergear)
 - [Netavya Kapoor](https://github.com/netavya2003)
 - [Numo Francis](https://github.com/numofran6)
+- [SaiSatya](https://github.com/SaiSatya16)
 - [Alex Naughton](https://github.com/alexbriannaughton)
 - [Vicky Kimani](https://github.com/vickykimani)
 - [belenya] (https://github.com/Belenya)
