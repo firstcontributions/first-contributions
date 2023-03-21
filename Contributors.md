@@ -1,5 +1,6 @@
   # Contributors
 <!-- prettier-ignore-start -->
+- [Thomas Vipin Koshy](https://github.com/Vipinkthomas)
 - [Tiantian Li](https://github.com/Arcohol)
 - [Thomas Carney](https://github.com/ThomasCarney315)
 - [wai](https://github.com/WaiYanMinThaton)
