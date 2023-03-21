@@ -1,5 +1,7 @@
   # Contributors
 <!-- prettier-ignore-start -->
+
+- [Sonika Nagekar](https://github.com/nsonika)
 - [Thomas Vipin Koshy](https://github.com/Vipinkthomas)
 - [Tiantian Li](https://github.com/Arcohol)
 - [Thomas Carney](https://github.com/ThomasCarney315)
