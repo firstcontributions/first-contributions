@@ -45,6 +45,7 @@
 - [Pre-123] (https://github.com/Pre-123)
 - [miguel-sr] (https://github.com/miguel-sr)
 - jhjjhkh
+- [Kartik]
 - Ashish Chowdhary
 - Taufeeq Noamaan
 - [Armandas Bruniusss](https://github.com/Armandas-b)
