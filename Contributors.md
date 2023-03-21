@@ -3,6 +3,7 @@
 - [Chana Raveh](https://github.com/craveh)
 - [GBR Pratap Singh](https://github.com/GBR_Pratap_Singh)
 - [Thomas Vipin Koshy](https://github.com/Vipinkthomas)
+- [Daniel Eggmeier](https://github.com/DanielEggm)
 - [Tiantian Li](https://github.com/Arcohol)
 - [Thomas Carney](https://github.com/ThomasCarney315)
 - [wai](https://github.com/WaiYanMinThaton)
