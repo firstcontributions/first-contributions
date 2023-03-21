@@ -1514,6 +1514,7 @@ Rishabh Pandey
 - [Palak Sinha](https://github.com/sinhapalak)
 - [Patrick Knight](https://github.com/pfknight8)
 - [Abdullah Yakub](https://github.com/developerabz/)
+- [SaiSatya](https://github.com/SaiSatya16)
 - [Ravi Ranjan Kumar](https://github.com/iam-ravi-11)
 - [Alleznav] (https://github.com/Alleznav)
 - [Akseli Manninen] (https://github.com/AkseliManninen)
