@@ -1,11 +1,15 @@
   # Contributors
 <!-- prettier-ignore-start -->
+- [GBR Pratap Singh](https://github.com/GBR_Pratap_Singh)
+- [Thomas Vipin Koshy](https://github.com/Vipinkthomas)
 - [Tiantian Li](https://github.com/Arcohol)
+- [Thomas Carney](https://github.com/ThomasCarney315)
 - [wai](https://github.com/WaiYanMinThaton)
 - [jeromepalayoor](https://github.com/jeromepalayoor)
 - [<span style="color: #2deb14;">Deepak Pradhan</span>] (https://github.com/TheLoneAlchemis
 - [Sameer Sharma](https://github.com/nawabsahab16))
 - [Perin-Mangukiya](https://github.com/Perin-Mangukiya)
+- [Alan Lipschutz](https://github.com/alanlipschutz)
 - [Saksham Paliwal] (https://github.com/sakshampaliwal)
 - [Adarsh Gupta] (https://github.com/apneduniya)
 - [Dei-Vicenzi] (https://github.com/Dei-Vicenzi)
@@ -23,6 +27,7 @@
 - [Anantashayana] (https://github.com/Anantashayana)
 - [Harsh Jha] (https://https://github.com/Harshjha3006)
 - Yana
+- Muhammad Bilal (https://github.com/YunoGasasi9862)
 - [Kamlesh Gehlot] (https://github.com/kamlesh-gehlot)
 - [Krishna Deepak] (https://github.com/KDcoder21)
 - [William Haywood] (https://github.com/Whaywood98)
@@ -33,6 +38,7 @@
 - jhjjhkh
 - Ashish Chowdhary
 - Taufeeq Noamaan
+- [Armandas Bruniusss](https://github.com/Armandas-b)
 - Sarumi Muslimah Atinuke [https://github.com/Muslimahhh]
 - [TanishGarg](https://github.com/TheLostPrime12)
 - [Shivansh gupta] (https://github.com/SHIVI-007)
@@ -502,6 +508,7 @@ JUnaid jamshed from nellikkuth
 - [juanmagb8d](https://github.com/juanmagb8d)
 - [Nico Kemp](https://github.com/njrkemp1/)
 - [Rajesh Chavan](https://github.com/Rajesh007/)
+- [Bryony H Maguire](https://github.com/Bryonyht)
 - [ervinaservinas](https://github.com/ervinaservinas)
 Arjun Palathinkara
 - [Karthik Sankar](https://github.com/emergenitro/)
@@ -1083,6 +1090,7 @@ Subhajit Bera
 - [sancoLgates](https://github.com/sancoLgates)
 - [Gabriel Bellasco](https://github.com/GabrielBellasco)
 - [Omar Gabriel](https://github.com/omargabrielaguilar)
+- [Rizqi Audianto Fari)[https://github.com/TheManusia)
 - [Gavin Levis](https://github.com/GLevis)
 - [Richard McCormick](https://github.com/rmccormick314)
 - [C](https://github.com/HannesEnnemann)
@@ -1513,6 +1521,7 @@ Rishabh Pandey
 - [Palak Sinha](https://github.com/sinhapalak)
 - [Patrick Knight](https://github.com/pfknight8)
 - [Abdullah Yakub](https://github.com/developerabz/)
+- [SaiSatya](https://github.com/SaiSatya16)
 - [Ravi Ranjan Kumar](https://github.com/iam-ravi-11)
 - [Alleznav] (https://github.com/Alleznav)
 - [Akseli Manninen] (https://github.com/AkseliManninen)
@@ -1611,6 +1620,7 @@ Rishabh Pandey
 - [Noopur Sharma@DevsocPI]
 - [Mohamed Abidar](https://github.com/abidarm)
 - [Antonio Narra](https://github.com/AntonioNarra)
+- [Sumit Mundhe](https://github.com/Sumit-Mundhe)
 - [Amir](https://github.com/amir-repository)
 - [xg Jiang](https://github.com/xgjiang)
 - [Sivagnanam Palaniappan](https://github.com/sivag98)
@@ -3403,6 +3413,7 @@ Ayan Das
 - [Srinivasu Alla](https://github.com/srinivasualla)
 - [Sharath Lingam](https://github.com/sharath-1517)
 - [paiyon](https://github.com/paiyon)
+- [kudoryi](https://github.com/kudoryi)
 - [Fadi](https://github.com/F14di)
 - [walker84837](https://github.com/walker84837)
 - [Sam Rosenberg] (https://github.com/serose99)
@@ -3417,5 +3428,5 @@ Ayan Das
 - [Mehrdad Sami](https://github.com/msaami)
 - [selimAP](https://github.com/selimAP)
 - [wang168003](https://github.com/wang168003)
+- [Stanislav Kruglov](https://github.com/Stas-K-A)
 - [Fuji-P](https://github.com/Fuji-P)
-
