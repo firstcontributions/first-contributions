@@ -1,7 +1,7 @@
   # Contributors
 <!-- prettier-ignore-start -->
-
 - [Sonika Nagekar](https://github.com/nsonika)
+- [GBR Pratap Singh](https://github.com/GBR_Pratap_Singh)
 - [Thomas Vipin Koshy](https://github.com/Vipinkthomas)
 - [Tiantian Li](https://github.com/Arcohol)
 - [Thomas Carney](https://github.com/ThomasCarney315)
@@ -1621,6 +1621,7 @@ Rishabh Pandey
 - [Noopur Sharma@DevsocPI]
 - [Mohamed Abidar](https://github.com/abidarm)
 - [Antonio Narra](https://github.com/AntonioNarra)
+- [Sumit Mundhe](https://github.com/Sumit-Mundhe)
 - [Amir](https://github.com/amir-repository)
 - [xg Jiang](https://github.com/xgjiang)
 - [Sivagnanam Palaniappan](https://github.com/sivag98)
