@@ -3407,6 +3407,7 @@ Ayan Das
 - [Srinivasu Alla](https://github.com/srinivasualla)
 - [Sharath Lingam](https://github.com/sharath-1517)
 - [paiyon](https://github.com/paiyon)
+- [kudoryi](https://github.com/kudoryi)
 - [Fadi](https://github.com/F14di)
 - [walker84837](https://github.com/walker84837)
 - [Sam Rosenberg] (https://github.com/serose99)
