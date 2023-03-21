@@ -312,6 +312,7 @@ Adwai
 - [Nizam Y Chaudhary] (https://github.com/Nizam9313)
 - [Jason Ritter] (https://github.com/Higokian)
 - [Mahmud Karim] (https://github.com/mahmud-karim)
+- [Muktar Aliyu](https://github.com/zenoftech) :heart:
 - [Sheriff Oladimeji] (https://github.com/sheriffOladimeji)
 - [Matthew Lee] (https://github.com/mattyleecifer/)
 - [Lachlan Thornton] (https://github.com/LachThorn/)
