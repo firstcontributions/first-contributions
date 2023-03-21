@@ -1220,6 +1220,7 @@ Subhajit Bera
 - [Jacek Smoter](https://github.com/jackz070)
 - [Aashi Jain](https://github.com/aashi-ihsaa)
 - [Matthew Kohn](https://github.com/matthewkohn)
+  [Bama Charan Chhandogi](https://github.com/BamaCharanChhandogi)
 - [GowtherZa](https://github.com/GowtherZa/)
 - [Masaya Kj](https://github.com/Massas)
 - [Sunil Kumar](https://github.com/Sunil1208)
