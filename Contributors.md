@@ -712,6 +712,7 @@ Arjun Palathinkara
 - [Sumit Kumar](https://github.com/sumit970)
 - [Louie Andrew Capulso](https://github.com/azeunkn0wn)
 - [Dam Gyu Yang]
+- [rudy]
 - [Mahir Ahammed](https://github.com/MahirAhammed)
 - [siya]
 - [Mohamed Arafa]
