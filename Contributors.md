@@ -3442,3 +3442,4 @@ Ayan Das
 - [selimAP](https://github.com/selimAP)
 - [wang168003](https://github.com/wang168003)
 - [Stanislav Kruglov](https://github.com/Stas-K-A)
+- [Alexandr K Sintez](https://github.com/Sinrez) 
