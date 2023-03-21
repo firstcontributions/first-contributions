@@ -15,6 +15,7 @@
 - [Alan Lipschutz](https://github.com/alanlipschutz)
 - [Saksham Paliwal] (https://github.com/sakshampaliwal)
 - [Adarsh Gupta] (https://github.com/apneduniya)
+- [Atahan Haznedar] (https://github.com/atahan2000)
 - [Dei-Vicenzi] (https://github.com/Dei-Vicenzi)
 - [MrSevyu] (https://github.com/iiCodeRedemption)
 - [Ashish Rathore] (https://github.com/itsashishrath)
