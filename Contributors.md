@@ -15,6 +15,7 @@
 -[abhinav](https://github.com/Abhinav260804)
 -[Abhishek](https://github.com/hyperion912)
 - [Alan Lipschutz](https://github.com/alanlipschutz)
+- [taku](https://github.com/newcoder316) 
 - [Saksham Paliwal] (https://github.com/sakshampaliwal)
 - [Adarsh Gupta] (https://github.com/apneduniya)
 - [Atahan Haznedar] (https://github.com/atahan2000)
