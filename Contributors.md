@@ -13,6 +13,7 @@
 - [Melvin Aguilar](https://github.com/MelvinAguilar)
 - [s-t-e-v](https://github.com/s-t-e-v)
 - [Mahadsid](https://github.com/Mahadsid)
+- [kaustub parde](https://github.com/Furiousphantom25)
 - [Ema Omere]
 - [Uras Varolgunes]
 - [Limoo Kiplimo](https://github.com/Limookiplimo)
