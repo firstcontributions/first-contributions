@@ -1771,6 +1771,7 @@ Rishabh Pandey
 - [Susanna-Carey](https://github.com/susannaopal)
 - [nelsonmsk](https://github.com/nelsonmsk)
 - [Mohammed Fayis](https://github.com/mohmdfayiz)
+- [Dami Seweje](https://github.com/dami-js/)
 - [Juanma Romero](https://github.com/juanmaroni/)
 - [Chhabi Acharya](https://github.com/Chhabii)
 - [Adersh A](https://github.com/Adersh-A)
