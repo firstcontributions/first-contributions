@@ -25,6 +25,7 @@
 - [Tirath Bhathawala](https://github.com/tirath5504)
 - [taku](https://github.com/newcoder316) 
 - [Saksham Paliwal] (https://github.com/sakshampaliwal)
+- [Umair Hassan] (https://github.com/itz-umairhassan)
 - [Adarsh Gupta] (https://github.com/apneduniya)
 - [Atahan Haznedar] (https://github.com/atahan2000)
 - [Dei-Vicenzi] (https://github.com/Dei-Vicenzi)
