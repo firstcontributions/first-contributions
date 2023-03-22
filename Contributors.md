@@ -64,6 +64,7 @@
 - [Kartik]
 - Ashish Chowdhary
 - Taufeeq Noamaan
+- [Micah Stackhouse] (https://github.com/mjstackhouse)
 - [Armandas Bruniusss](https://github.com/Armandas-b)
 - Sarumi Muslimah Atinuke [https://github.com/Muslimahhh]
 - [TanishGarg](https://github.com/TheLostPrime12)
