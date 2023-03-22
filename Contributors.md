@@ -1,6 +1,7 @@
   # Contributors
 <!-- prettier-ignore-start -->
 - [Shaquib Khan] (https://github.com/Shaquibcode01)
+- Ishita
 - [Nancy Kasaudhan](https://github.com/nancyKasaudhan20)
 - [Chana Raveh](https://github.com/craveh)
 - [GBR Pratap Singh](https://github.com/GBR_Pratap_Singh)
