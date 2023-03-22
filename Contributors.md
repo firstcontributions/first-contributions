@@ -3474,3 +3474,4 @@ Ayan Das
 - [Ankit Singh](https://github.com/anksh-singh)
 - [Velpar](https://github.com/Velpar-v)
 - [Darren Quadros](https://github.com/darrenquadros-relo)
+- [Rahul Darmula](https://github.com/rahul-darmula)
