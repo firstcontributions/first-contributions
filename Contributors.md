@@ -12,6 +12,7 @@
 - [Perin-Mangukiya](https://github.com/Perin-Mangukiya)
 -[Abhishek](https://github.com/hyperion912)
 - [Alan Lipschutz](https://github.com/alanlipschutz)
+- [Bhuvan S A] (https://github.com/BhuvanSA)
 - [Saksham Paliwal] (https://github.com/sakshampaliwal)
 - [Adarsh Gupta] (https://github.com/apneduniya)
 - [Dei-Vicenzi] (https://github.com/Dei-Vicenzi)
