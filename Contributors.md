@@ -1,5 +1,6 @@
   # Contributors
 <!-- prettier-ignore-start -->
+- [Nancy Kasaudhan](https://github.com/nancyKasaudhan20)
 - [Chana Raveh](https://github.com/craveh)
 - [GBR Pratap Singh](https://github.com/GBR_Pratap_Singh)
 - [Thomas Vipin Koshy](https://github.com/Vipinkthomas)
