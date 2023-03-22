@@ -321,6 +321,7 @@ Adwai
 - [Quentin Ng] (https://github.com/kwantaing)
 - [Emily Lubkert] (https://github.com/emilylubkert)
 - [Lauris Macans] (https://github.com/lauriselvijs)
+- [Bouzahar Taha] (https://github.com/TahaNw)
 - [Ranjan Shitole] (https://github.com/ranjan2829)
 - [Pierre Corazo Cesario](https://github.com/PScoriae)
 - [Amar Pakhare](https://github.com/amarpakhare)
