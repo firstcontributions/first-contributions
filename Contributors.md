@@ -6,6 +6,7 @@
 - [Subha Mishra](https://github.com/SubhaMishra1998)
 - [Nancy Kasaudhan](https://github.com/nancyKasaudhan20)
 - [Chana Raveh](https://github.com/craveh)
+[ZeinebGuellouz] (https://github.com/ZeinebGuellouz)
 - [GBR Pratap Singh](https://github.com/GBR_Pratap_Singh)
 - [Thomas Vipin Koshy](https://github.com/Vipinkthomas)
 - [Daniel Eggmeier](https://github.com/DanielEggm)
