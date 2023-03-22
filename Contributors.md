@@ -1,6 +1,9 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Shaquib Khan](https://github.com/Shaquibcode01)
+- [Aravindan 🕺🏽](https://github.com/RAravindDS)
+- Ishita
+- [Subha Mishra](https://github.com/SubhaMishra1998)
 - [Nancy Kasaudhan](https://github.com/nancyKasaudhan20)
 - [Chana Raveh](https://github.com/craveh)
 - [GBR Pratap Singh](https://github.com/GBR_Pratap_Singh)
@@ -1071,7 +1074,7 @@
 - [Andy Arensman](https://github.com/andyarensman)
 - [Louis Heal](https://github.com/louisheal)
 - [emily](https://github.com/Yingemily)
-- Kamwa Emmanuelle Alix][https://github.com/emmanuellekamwa/
+- [Kamwa Emmanuelle Alix](https://github.com/emmanuellekamwa/)
 - [pradipta-kalita](https://github.com/pradipta-kalita)
 - [Snehal Shyamsukha](https://github.com/snehal-shyamsukha)
 - [Tan Shao Chong](https://github.com/ackselz)
@@ -1118,7 +1121,7 @@
 - [sancoLgates](https://github.com/sancoLgates)
 - [Gabriel Bellasco](https://github.com/GabrielBellasco)
 - [Omar Gabriel](https://github.com/omargabrielaguilar)
-- [Rizqi Audianto Fari)[https://github.com/TheManusia)
+- [Rizqi Audianto Fari](https://github.com/TheManusia)
 - [Gavin Levis](https://github.com/GLevis)
 - [Richard McCormick](https://github.com/rmccormick314)
 - [C](https://github.com/HannesEnnemann)
@@ -1157,7 +1160,7 @@
 - [Vinícius Assumpção de Araújo](https://github.com/viniman27)
 - [Shade St Claire](https://github.com/regeum-deus/)
 - [Luke Soderquist](https://github.com/lsoderquist)
-- [Simon Ralek](https://github.com/SimonRalek)I[I
+- [Simon Ralek](https://github.com/SimonRalek)
 - [Elizabeth Flack](https://github.com/Songlore)
 - [NLH](https://github.com/Vincent-NHtun)
 - [Amrit Raj](https://github.com/amritrj)
@@ -1401,7 +1404,7 @@
 - Okuroemi Douebi Kelvin
 - [[Rohit Mohanty]](https://github.com/jayClean)
 - emilioizaguirre
-- [Dhruv Tandon} @DevsocPI
+- Dhruv Tandon @DevsocPI
 - esisgilz
 - Tosif Khan
 - Jax Gates
@@ -1472,7 +1475,7 @@
 - [Devansh Mehta@DevsocPI](https://github.com/Coderpromax8)
 - [Utkarsh@DevsocPI](https://github.com/0xAnon0602)
 - [Vivek Sati](https://github.com/Viveksati5143)
-- <harhsit kapoor>@Devsoc@PI
+- harhsit kapoor>@Devsoc@PI
 - [Daminda Dinesh Imaduwa Gamage](https://github.com/dineshigdd)
 - [Pawan Yadav](https://github.com/pawanyy)
 - Abhay Tiwari
@@ -1516,7 +1519,7 @@
 - Ramesh
 - [ReemanS](https://github.com/ReemanS)
 - [Aditya Shah](https://github.com/AdityaJain09)
-- [Yash Rathi}@DevsocPI
+- Yash Rathi}@DevsocPI
 - [Sharvil Potdar@Devsoc PI](https://github.com/SMP111)
 - [Tanmoy khawas body_walia](https://github.com/hornycompiler)
 - [VINITH S](https://github.com/realvineeths)
@@ -1771,6 +1774,7 @@
 - [Susanna-Carey](https://github.com/susannaopal)
 - [nelsonmsk](https://github.com/nelsonmsk)
 - [Mohammed Fayis](https://github.com/mohmdfayiz)
+- [Dami Seweje](https://github.com/dami-js/)
 - [Juanma Romero](https://github.com/juanmaroni/)
 - [Chhabi Acharya](https://github.com/Chhabii)
 - [Adersh A](https://github.com/Adersh-A)
@@ -1898,6 +1902,7 @@
 - [Rashmi T](https://github.com/Rashmi-AnonymousNot)
 - [Anmol Bansal](https://github.com/AnmolBansalDEV)
 - [Adeolu Oyinlola](https://github.com/deoluoyinlola)
+- [Neoriat](https://github.com/Neoriat)
 - John Jacoby
 - Notand
 - [kanav upadhyay](https://github.com/Sigmistic2k4)
@@ -1992,7 +1997,7 @@
 - [Marcelo Freri](https://github.com/mfreri)
 - [Arthur Utecht](https://github.com/autecht)
 - [Avedis_Yapoudjian](https://github.com/AvedisY)
-- <harshit kapoor>@DevsocPI
+- harshit kapoor @DevsocPI
 - [xa49](https://github.com/xa49)
 - [Treasure_Okuoka](https://github.com/treasureszn)
 - [Charlie Hird](https://github.com/cjhird)
@@ -3465,4 +3470,5 @@
 - [Digbijaya Biswal](https://github.com/digbijaya20)
 - [Tom Leszczynski](https://github.com/TomLeszczynski)
 - [Muditya Raghav](https://github.com/mudityadev)
+- [Ankit Singh](https://github.com/anksh-singh)
 - [Velpar](https://github.com/Velpar-v)
