@@ -3489,3 +3489,4 @@ Ayan Das
 - [Darren Quadros](https://github.com/darrenquadros-relo)
 - [Paul Pintang](https://github.com/PaulPintang)
 - [Ronald Li](https://github.com/Ron88nyc)
+- [Brittany Lowery](https://github.com/lower027)
