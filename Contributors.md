@@ -31,6 +31,7 @@
 - [Dei-Vicenzi] (https://github.com/Dei-Vicenzi)
 - [MrSevyu] (https://github.com/iiCodeRedemption)
 - [Ashish Rathore] (https://github.com/itsashishrath)
+- [Dikshant Shambharkar] (https://github.com/dikshantshambharkar)
 - [Ash Casden] (https://github.com/acasden)
 - [KBenit](https://github.com/KBenit)
 - [Solomon Yakubu](https://github.com/SolomonYakubu)
