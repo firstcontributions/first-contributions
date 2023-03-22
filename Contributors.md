@@ -3473,3 +3473,4 @@ Ayan Das
 - [Muditya Raghav](https://github.com/mudityadev)
 - [Ankit Singh](https://github.com/anksh-singh)
 - [Velpar](https://github.com/Velpar-v)
+- [Darren Quadros](https://github.com/darrenquadros-relo)
