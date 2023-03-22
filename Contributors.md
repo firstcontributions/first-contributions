@@ -6,6 +6,7 @@
 - [Daniel Eggmeier](https://github.com/DanielEggm)
 - [Tiantian Li](https://github.com/Arcohol)
 - [Thomas Carney](https://github.com/ThomasCarney315)
+
 - [wai](https://github.com/WaiYanMinThaton)
 - [jeromepalayoor](https://github.com/jeromepalayoor)
 - [<span style="color: #2deb14;">Deepak Pradhan</span>] (https://github.com/TheLoneAlchemis
@@ -995,6 +996,7 @@ Subhajit Bera
 - [radmanfp]
 - [FathomRaven](https://github.com/FathomRaven)
 - [Nandu P K](https://github.com/pkNandu)
+-[Janhavi Punse](https://github.com/janhavipunse)
 - [Boris Levenzon](https://github.com/cloudboundboris)
 - [Arpit Jain](https://github.com/code-arpit) 
 - [Maya Sollen-Norrlin](https://github.com/Masoleno)
