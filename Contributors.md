@@ -66,6 +66,7 @@
 - Taufeeq Noamaan
 - [Micah Stackhouse] (https://github.com/mjstackhouse)
 - [Armandas Bruniusss](https://github.com/Armandas-b)
+- [Sanij Shrestha](https://github.com/sanijcreates/)
 - Sarumi Muslimah Atinuke [https://github.com/Muslimahhh]
 - [TanishGarg](https://github.com/TheLostPrime12)
 - [Shivansh gupta] (https://github.com/SHIVI-007)
