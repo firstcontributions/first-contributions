@@ -15,6 +15,7 @@
 - [Dinesh-Das] (https://github.com/Dinesh-Das)
 - [Jonah-Ssegawa]
 - [Perin-Mangukiya](https://github.com/Perin-Mangukiya)
+- [Feohr](https://github.com/Feohr)
 -[abhinav](https://github.com/Abhinav260804)
 -[Abhishek](https://github.com/hyperion912)
 - [Alan Lipschutz](https://github.com/alanlipschutz)
