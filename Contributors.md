@@ -3469,4 +3469,5 @@ Ayan Das
 - [Digbijaya Biswal](https://github.com/digbijaya20)
 - [Tom Leszczynski](https://github.com/TomLeszczynski)
 - [Muditya Raghav](https://github.com/mudityadev)
+- [Ankit Singh](https://github.com/anksh-singh)
 - [Velpar](https://github.com/Velpar-v)
