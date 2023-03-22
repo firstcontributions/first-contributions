@@ -104,9 +104,9 @@ git commit -m "Add <your-name> to Contributors list"
 <div dir="rtl"> إستبدل <code>&#60;your-name&#62;</code> بإسمك. </div>
 <br>
 
-## <div dir="rtl"> بعدين ترفع التغيررات - Push changes to Github </div>
+## <div dir="rtl"> بعدين ترفع التغييرات - Push changes to Github </div>
 
-<div dir="rtl">هترفع التغيررات عن طريق الأمر <code>git push</code></div>
+<div dir="rtl">هترفع التغييرات عن طريق الأمر <code>git push</code></div>
 
 ```
 git push origin "add-your-name"
