@@ -1,7 +1,7 @@
   # Contributors
 <!-- prettier-ignore-start -->
 - [Shaquib Khan] (https://github.com/Shaquibcode01)
-- [Aravindan 🕺🏽] (https://github.com/RAravindDS)
+- [Aravindan 🕺🏽](https://github.com/RAravindDS)
 - Ishita
 - [Nancy Kasaudhan](https://github.com/nancyKasaudhan20)
 - [Chana Raveh](https://github.com/craveh)
