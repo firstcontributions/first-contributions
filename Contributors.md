@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 - [GBR Pratap Singh](https://github.com/GBR_Pratap_Singh)
 - [Thomas Vipin Koshy](https://github.com/Vipinkthomas)
+-[Kuldeep Singh Rathore](https://github.com/KSRATHORE761)
 - [Tiantian Li](https://github.com/Arcohol)
 - [Thomas Carney](https://github.com/ThomasCarney315)
 - [wai](https://github.com/WaiYanMinThaton)
