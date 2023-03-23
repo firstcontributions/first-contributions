@@ -3479,6 +3479,7 @@ Ayan Das
 - [Mohamed Fawas](https://github.com/mohamedfawas)
 - [John Kyle Desamparo](Hehehehe)
 - [Mehrdad Sami](https://github.com/msaami)
+- [Charindu Thisara](https://github.com/CharinduThisara)
 - [selimAP](https://github.com/selimAP)
 - [wang168003](https://github.com/wang168003)
 - [pabloped](https://github.com/pabloped)
