@@ -3,6 +3,7 @@
 - [Shaquib Khan] (https://github.com/Shaquibcode01)
 - [Olu-Olagbuji Delight](https://github.com/Dheelyte)
 - [Aravindan 🕺🏽](https://github.com/RAravindDS)
+- [KryptoShrimp] (https://link3.to/ferreyros)
 - Ishita
 - [Bikal Koju] ()
 - [Roshan Singh Bhadauriya] (https://github.com/Roshanbhadauriya)
