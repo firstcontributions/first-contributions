@@ -3,6 +3,7 @@
 - [Shaquib Khan] (https://github.com/Shaquibcode01)
 - [Aravindan 🕺🏽](https://github.com/RAravindDS)
 - Ishita
+- [Bikal Koju] ()
 - [Subha Mishra](https://github.com/SubhaMishra1998)
 - [Nancy Kasaudhan](https://github.com/nancyKasaudhan20)
 - [Chana Raveh](https://github.com/craveh)
