@@ -66,6 +66,7 @@
 - jhjjhkh
 - [Kartik]
 - Ashish Chowdhary
+- [krikera] (https://github.com/krikera)
 - Taufeeq Noamaan
 - [Micah Stackhouse] (https://github.com/mjstackhouse)
 - [Armandas Bruniusss](https://github.com/Armandas-b)
