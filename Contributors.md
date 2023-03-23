@@ -309,6 +309,7 @@ Syed
 - [Swathi Melapu] (https://github.com/melapuswathi)
 - [Janson Roora] (https://github.com/jansonroora)
 - [Soumik Saha] (https://github.com/soumik-saha)
+- [Anshul Thakur] (https://github.com/anshFE97)
 - [Ananya Goyal] (https://githib.com/cation03)
 - [Privilege Mendes] (https://github.com/privilegemendes)
 - [Jason Bodzy] (https://github.com/jasonbodzy)
