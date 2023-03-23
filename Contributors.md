@@ -13,6 +13,7 @@
 - [GBR Pratap Singh](https://github.com/GBR_Pratap_Singh)
 - [Thomas Vipin Koshy](https://github.com/Vipinkthomas)
 - [Daniel Eggmeier](https://github.com/DanielEggm)
+- [Brendan Costello] (https://github.com/BrendanCostello)
 - [Tiantian Li](https://github.com/Arcohol)
 - [Acho1](https://github.com/achotal1)
 - [Thomas Carney](https://github.com/ThomasCarney315)
