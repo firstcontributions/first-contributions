@@ -47,6 +47,7 @@
 - [mxsaa7] (https://github.com/mxsaa7)
 - [Raj Malviya](https://github.com/rajmalviya456)
 - [Paula Isabel Signo] (https://github.com/paulaxisabel)
+- [John Pierce] (https://github.com/jpierce-coder)
 - [Abdul Basit](https://github.com/AbdulBasit42)
 - [bongbongche] (https://github.com/bongbongche)
 - [Silas Stamps] (https://github.com/si1az)
