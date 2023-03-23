@@ -4,6 +4,7 @@
 - [Aravindan 🕺🏽](https://github.com/RAravindDS)
 - Ishita
 - [Bikal Koju] ()
+- [Roshan Singh Bhadauriya] (https://github.com/Roshanbhadauriya)
 - [Subha Mishra](https://github.com/SubhaMishra1998)
 - [Nancy Kasaudhan](https://github.com/nancyKasaudhan20)
 - [Chana Raveh](https://github.com/craveh)
