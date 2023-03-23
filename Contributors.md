@@ -2829,6 +2829,7 @@ Rishabh Pandey
 - [Jiao Liu](https://github.com/ildnyy)
 - [peng_cheng](https://github.com/wespc)
 - [cyrian je](https://github.com/cyriun)
+- [cyriandesktopjke](https://github.com/cyriun)
 - [Ivan](https://github.com/ivan-07)
 - [Robera Negussie](https://github.com/roberanegussie)
 - [Leonel Santos](https://github.com/leonelSantos)
