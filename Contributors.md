@@ -311,6 +311,7 @@ Syed
 - [Soumik Saha] (https://github.com/soumik-saha)
 - [Ananya Goyal] (https://githib.com/cation03)
 - [Privilege Mendes] (https://github.com/privilegemendes)
+- [GR1DSYSTEM] (https://github.com/GR1DSYSTEM)
 - [Jason Bodzy] (https://github.com/jasonbodzy)
 - [Alex McDonald] (https://github.com/AMcDonald12)
 - [Roman Potapov] (https://github.com/potap75
