@@ -1086,6 +1086,7 @@ Subhajit Bera
 [Nandini] (https://github.com/Nandini415)
 - [Eti-ini Effiong-Robert](https://github.com/eti-iniER)
 - [Bhavin Raichura](https://github.com/BhavinRaichura)
+- [Logical Contradiction](https://github.com/LogicalContradiction)
 -[jasonroy](https://github.com/jasonroy)
 -[Tejas Borkar](https://github.com/tejas-borkar22/)
 -[Emily Xia](https://github.com/emiilyxiia)
