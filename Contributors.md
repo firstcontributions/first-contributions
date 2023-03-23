@@ -5,6 +5,7 @@
 - [Aravindan 🕺🏽](https://github.com/RAravindDS)
 - [KryptoShrimp] (https://link3.to/ferreyros)
 - Ishita
+- [Antonio Zurita] (https://github.com/AntonioJZP86)
 - [Bikal Koju] ()
 - [Roshan Singh Bhadauriya] (https://github.com/Roshanbhadauriya)
 - [Subha Mishra](https://github.com/SubhaMishra1998)
