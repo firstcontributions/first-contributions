@@ -1,6 +1,7 @@
   # Contributors
 <!-- prettier-ignore-start -->
 - [Shaquib Khan] (https://github.com/Shaquibcode01)
+- [Olu-Olagbuji Delight](https://github.com/Dheelyte)
 - [Aravindan 🕺🏽](https://github.com/RAravindDS)
 - Ishita
 - [Bikal Koju] ()
