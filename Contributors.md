@@ -19,6 +19,7 @@
 - [Thomas Vipin Koshy](https://github.com/Vipinkthomas)
 - [Daniel Eggmeier](https://github.com/DanielEggm)
 - [Brendan Costello] (https://github.com/BrendanCostello)
+- [Cosmic Wolf](https://github.com/ACosmicWolf)
 - [Tiantian Li](https://github.com/Arcohol)
 - [Acho1](https://github.com/achotal1)
 - [Thomas Carney](https://github.com/ThomasCarney315)
