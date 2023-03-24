@@ -3542,3 +3542,5 @@ Ayan Das
 - [Shivam Bhardwaj] (https://github.com/ShivamBhardwaj93)
 - [yyyaaaccc](https://github.com/yyyaaaccc)
 - [Salmon](https://github.com/Salmonberry)
+- [Paarth Jung Thapa](https://github.com/Paarth11)
+- [Yassine Haimouch](https://github.com/yassinehaimouch)
