@@ -3534,3 +3534,4 @@ Ayan Das
 - [Anthony Almodovar] (https://github.com/Anthony-Almodovar)
 - [Jose Sarmento] (https://github.com/josesarmento)
 - [Shlok Agrawal] (https://github.com/shlokagrawal)
+- [Adam Wiecek] (https://github.com/wadamxcSchool)
