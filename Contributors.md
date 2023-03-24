@@ -31,6 +31,7 @@
 - [Sameer Sharma](https://github.com/nawabsahab16))
 - [Dinesh-Das] (https://github.com/Dinesh-Das)
 - [Jonah-Ssegawa]
+- [Sushil-Singh]
 - [Joey Lovato](https://github.com/JosephLovato)
 - [Perin-Mangukiya](https://github.com/Perin-Mangukiya)
 - [Feohr](https://github.com/Feohr)
