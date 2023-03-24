@@ -1198,6 +1198,7 @@ Subhajit Bera
 - [Simon Ralek](https://github.com/SimonRalek)I[I
 - [Elizabeth Flack](https://github.com/Songlore)
 - [NLH](https://github.com/Vincent-NHtun)
+- [Joseph Francioso](https://github.com/Jfrancioso)
 - [Amrit Raj](https://github.com/amritrj)
 - [Mostafa Eissa](https://github.com/EissaMostafa)
 - [Lukas Juelich](https://github.com/LeFreakALeak93)
