@@ -107,6 +107,7 @@ Pranav Bhutada(https://github.com/pranav243)
 - [Chinmay Deo] (https://github.com/Chinmay-Deo-2004)
 - [Shubham Kumar] 
 - [Piyush Mohata]
+- [ZolaraCodes](https://github.com/ZolaraCodes)
 - [Kelvin Chan](https://github.com/2khc2)
 - [Saleh Ahmed](https://github.com/SalehAhmed10)
 - [Asayhi](https://github.com/Asayhi)
