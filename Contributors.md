@@ -5,6 +5,7 @@
 - [Olu-Olagbuji Delight](https://github.com/Dheelyte)
 - [Aravindan 🕺🏽](https://github.com/RAravindDS)
 - [KryptoShrimp] (https://link3.to/ferreyros)
+- [Anubhav Singh Chandel](https://github.com/AnubhavSinghChandel)
 - [Muhammad Ihtisham Alam Khan] (https://github.com/muhammadIhtishamKhan)
 - Ishita
 - [Antonio Zurita] (https://github.com/AntonioJZP86)
