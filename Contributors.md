@@ -80,6 +80,7 @@
 - [krikera] (https://github.com/krikera)
 - Taufeeq Noamaan
 - [Micah Stackhouse] (https://github.com/mjstackhouse)
+- [yourlocalonion] (https://github.com/yourlocalonion)
 - [Armandas Bruniusss](https://github.com/Armandas-b)
 - [Sanij Shrestha](https://github.com/sanijcreates/)
 - Sarumi Muslimah Atinuke [https://github.com/Muslimahhh]
