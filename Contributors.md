@@ -3481,6 +3481,7 @@ Ayan Das
 - [allanrodriguest](https://github.com/allanrodriguest)
 - [jeritjohn2](https://github.com/jeritjohn2)
 - [david] 
+- [Lorenz Reyes](https://github.com/lorenzreyes)
 - [nataset](https://github.com/nataset)
 - [theSlotfulKnight] (https://github.com/TheSlothfulKnight)
 - [karenmillerrm] (https://github.com/karenmillerm)
