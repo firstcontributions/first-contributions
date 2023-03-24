@@ -28,6 +28,7 @@
 - [Thomas Carney](https://github.com/ThomasCarney315)
 - [wai](https://github.com/WaiYanMinThaton)
 - [jeromepalayoor](https://github.com/jeromepalayoor)
+- [LJiaqingNick](https://github.com/LJiaqingNick)
 - [kushagra seth](https://github.com/kseth0808)
 - [Swapnil-Kapale](https://github.com/Swapnil-Kapale)
 - [kseth0808]()
