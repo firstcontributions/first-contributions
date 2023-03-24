@@ -31,12 +31,12 @@
 - [Sameer Sharma](https://github.com/nawabsahab16))
 - [Dinesh-Das] (https://github.com/Dinesh-Das)
 - [Jonah-Ssegawa]
-- [Sushil-Singh]
 - [Joey Lovato](https://github.com/JosephLovato)
 - [Perin-Mangukiya](https://github.com/Perin-Mangukiya)
 - [Feohr](https://github.com/Feohr)
 -[abhinav](https://github.com/Abhinav260804)
 -[Abhishek](https://github.com/hyperion912)
+- [Sushil Singh]
 - [Alan Lipschutz](https://github.com/alanlipschutz)
 - [Tirath Bhathawala](https://github.com/tirath5504)
 - [Darshan Panchal] (https://github.com/Darshan016)
