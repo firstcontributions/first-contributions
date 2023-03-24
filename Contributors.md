@@ -8,6 +8,7 @@
 - [Anubhav Singh Chandel](https://github.com/AnubhavSinghChandel)
 - [Muhammad Ihtisham Alam Khan] (https://github.com/muhammadIhtishamKhan)
 - Ishita
+- [Archana Palepu](https://github.com/archanaseru)
 - [Antonio Zurita] (https://github.com/AntonioJZP86)
 - [Mohamed Essam] (https://github.com/mohamed-official/)
 - [Bikal Koju] ()
