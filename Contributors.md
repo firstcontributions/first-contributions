@@ -355,6 +355,7 @@ Adwai
 - [Bouzahar Taha] (https://github.com/TahaNw)
 - [Ranjan Shitole] (https://github.com/ranjan2829)
 - [Pierre Corazo Cesario](https://github.com/PScoriae)
+- [Moses Mwangi](https://github.com/MosesSoftEng)
 - [Amar Pakhare](https://github.com/amarpakhare)
 - [Alejandro Gonzalez Montalvo](https://github.com/Ajelandro19)
 - [Petar Petrovic] (https://github.com/GameExplorer)
