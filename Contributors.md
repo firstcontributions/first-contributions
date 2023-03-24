@@ -170,6 +170,7 @@ Pranav Bhutada(https://github.com/pranav243)
 - [Gurpreet Singh](https://github.com/gsingh1629)
 - [Sarthak Singh]
 - [Tom Roche](https://github.com/TomrocheDev)
+- [Revathy Deepak] (https://github.com/revathykdeepak)
 - [Alexander Stub Michelsen}(https://github.com/pantertanter)
 - [Aviral Singh](https://github.com/aviralsingh108/)
 - [Ifeanyi Dike](https://github.com/ifeanyidike/)
