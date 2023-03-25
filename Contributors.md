@@ -2,7 +2,7 @@
 <!-- prettier-ignore-start -->
 - [AayushPaigwar](https://github.com/AayushPaigwar)
 - [darkGhost] (https://github.com/darkGhost3108)
-- [Anand Kumar] (https://github.com/Whitedevil4648)
+- [Anurag Kumar] (https://github.com/keshri29)
 - [Mohammad Haaris Javed] (https://github.com/haaris272k)
 - [Nadine Oka] (https://github.com/nadineoka)
 - [Neeraj Pillai] (https://github.com/Neeraj1213)
@@ -13,7 +13,7 @@
 - [Krigo Liu] (https://github.com/Krigo-Liu)
 - [Piyush Gambhir](https://github.com/Piyush-Gambhir)
 - [Aryan Karayi] (https://github.com/aryankarayi)
-- [Ankitjt] (https://github.com/ankitjt)
+- [Anurag Kumar] (https://github.com/keshri29)
 - [Rajesh Arora] (https://github.com/rajesharora2801)
   [Matheus]
 - [Katherine Robles] (https://github.com/KMR1221)
@@ -91,6 +91,7 @@ Adwai
 - [Nicole Mendoza] (https://github.com/NicAtak)
 - [Nur Akman] (https://github.com/thecodingliva)
 - [Luiz Carlos Jr] (https://github.com/lcsjunior)
+[anurag](https://keshrianurag.netlify.app/)
 - [Rifky Maulana] (https://github.com/Rifkymaulana)
 - [Dev Abhiram] (https://github.com/Dev-29)
 - [Dibyajyoti Ganguly] (https://github.com/Dibyajyoti2002)
@@ -279,6 +280,7 @@ JUnaid jamshed from nellikkuth
 - [Isaac Zerououl](https://github.com/p2557506)
 - [Douglas Vinicius](https://github.com/linkzera)
 - [Nicholas Njoki](https://github.com/alsonick)
+- [Anurag Kumar] (https://github.com/keshri29)
 - [Pratik Kumar Singh](https://github.com/prat19coder)
 - [Anthon Rodrigues](https://github.com/anthonrodgrs01)
 - [Anish Mandal](https://github.com/anish1997)
