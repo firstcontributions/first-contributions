@@ -323,6 +323,7 @@ Syed
 - [Kelcey Webb](https://github.com/KelceyW)
 - [PRINCE DOSHI]
 -[Mohamed Heggi](https://github.com/mtheggi)
+- [Prathmesh Sutar](https://github.com/Prathm-s)
 - [Nicholas Hwang]
 - [Thea SF] (https://github.com/thea-sf)
 - [Leon Albert] (https://github.com/leonn00albert)
