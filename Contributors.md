@@ -1,5 +1,6 @@
   # Contributors
 <!-- prettier-ignore-start -->
+  [Aniket Patil] (https://github.com/Aniket1703)
 - [Shaquib Khan] (https://github.com/Shaquibcode01)
 - [Muhammad Shehryar] (https://github.com/Shehryarssj)
 - [Olu-Olagbuji Delight](https://github.com/Dheelyte)
