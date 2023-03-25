@@ -1,6 +1,7 @@
   # Contributors
 <!-- prettier-ignore-start -->
 - [Sreeharsha Raveendra] (https://github.com/Sreeharsha98)
+- [Modupe Akanni](https://github.com/Goketech)
 - [Shaquib Khan] (https://github.com/Shaquibcode01)
 - [Muhammad Shehryar] (https://github.com/Shehryarssj)
 - [Olu-Olagbuji Delight](https://github.com/Dheelyte)
