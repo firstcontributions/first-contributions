@@ -11,6 +11,7 @@
 - [Muhammad Ihtisham Alam Khan] (https://github.com/muhammadIhtishamKhan)
 - Ishita
 - [Archana Palepu](https://github.com/archanaseru)
+  Kyra Jones
 - [Shreeji Saraogi](https://github.com/shreesaraogi)
 - [Antonio Zurita] (https://github.com/AntonioJZP86)
 - [Mohamed Essam] (https://github.com/mohamed-official/)
