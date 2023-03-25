@@ -3559,3 +3559,4 @@ Ayan Das
 - [Yassine Haimouch](https://github.com/yassinehaimouch)
 - [Marcus Nogueira](https://github.com/marcusvno)
 - [Omri Shneor](https://github.com/omriShneor)
+- [Beeecc](https://github.com/Beeecc)
