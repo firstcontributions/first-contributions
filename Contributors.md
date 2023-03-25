@@ -3522,6 +3522,7 @@ Ayan Das
 - [Anthony Morehouse](https://github.com/acmorehouse)
 - [Fadi](https://github.com/F14di)
 - [walker84837](https://github.com/walker84837)
+- [Alex Lou](https://github.com/Alexloucy)
 - [Sam Rosenberg] (https://github.com/serose99)
 * [Pratik Autee](https://github.com/pratikautee)
 - [Mike Angelo Mariano](https://github.com/mikeaangelo)
