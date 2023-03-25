@@ -3559,7 +3559,6 @@ Ayan Das
 - [Paarth Jung Thapa](https://github.com/Paarth11)
 - [Yassine Haimouch](https://github.com/yassinehaimouch)
 - [Marcus Nogueira](https://github.com/marcusvno)
-- [Martin Ilgner] (https://github.com/OriginalCpp)
+- [Martin Ilgner](https://github.com/OriginalCpp)
 - [Omri Shneor](https://github.com/omriShneor)
 - [Beeecc](https://github.com/Beeecc)
-
