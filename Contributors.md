@@ -3522,7 +3522,6 @@ Ayan Das
 - [Ahmad Mughrabi] (https://github.com/9AMTech)
 - [Mohamed Fawas](https://github.com/mohamedfawas)
 - [John Kyle Desamparo](Hehehehe)
-- [Nandini]
 - [Mehrdad Sami](https://github.com/msaami)
 - [Charindu Thisara](https://github.com/CharinduThisara)
 - [selimAP](https://github.com/selimAP)
