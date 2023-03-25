@@ -40,6 +40,7 @@
 - [Joey Lovato](https://github.com/JosephLovato)
 - [Perin-Mangukiya](https://github.com/Perin-Mangukiya)
 - [Feohr](https://github.com/Feohr)
+- [Kyle](https://github.com/HughesSeanKyle)
 -[abhinav](https://github.com/Abhinav260804)
 -[Abhishek](https://github.com/hyperion912)
 - [Sushil Singh]
