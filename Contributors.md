@@ -2002,6 +2002,7 @@ Rishabh Pandey
 - [Harshit Singh Mahara] (https://github.com/HarshitMahara)
 - [ahmad nawaz khan](https://github.com/4hmaad)
 - [Tikaram Acharya](https://github.com/tikaramac19)
+- [Yuki](https://github.com/Yuki-1118)
 - [Ishita Batra](https://github.com/ishita6)
 - [Devanshu Mahapatra](https://github.com/Devanshu-17)
 - [Pablo Alejandro](https://github.com/Pabloalesca)
