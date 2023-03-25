@@ -3519,6 +3519,7 @@ Ayan Das
 - [Sharath Lingam](https://github.com/sharath-1517)
 - [paiyon](https://github.com/paiyon)
 - [kudoryi](https://github.com/kudoryi)
+- [Anthony Morehouse](https://github.com/acmorehouse)
 - [Fadi](https://github.com/F14di)
 - [walker84837](https://github.com/walker84837)
 - [Sam Rosenberg] (https://github.com/serose99)
