@@ -46,7 +46,7 @@
 - [TengYuan1128] (https://github.com/TengYuan1128)
 - [<span style="color: #2deb14;">Deepak Pradhan</span>] (https://github.com/TheLoneAlchemis
 - [Sameer Sharma](https://github.com/nawabsahab16))
-- [Rufai Ahmad](https://github.com/EngrTactics))
+- [Rufai Ahmad](https://github.com/EngrTactics)
 - [Dinesh-Das] (https://github.com/Dinesh-Das)
 - [Jonah-Ssegawa]
 - [Joey Lovato](https://github.com/JosephLovato)
