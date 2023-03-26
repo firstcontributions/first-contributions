@@ -23,6 +23,7 @@
 - [Deep Patel] (https://github.com/Deepp805)
 - [Mohamed Essam] (https://github.com/mohamed-official/)
 - [Bikal Koju] ()
+- [Marc Aguilar]
 - [Roshan Singh Bhadauriya] (https://github.com/Roshanbhadauriya)
 - [Subha Mishra](https://github.com/SubhaMishra1998)
 - [Nancy Kasaudhan](https://github.com/nancyKasaudhan20)
