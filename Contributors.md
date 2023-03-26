@@ -1907,10 +1907,11 @@ Rishabh Pandey
 - [Md. Zahidul Islam](https://github.com/JahidHasanCO)
 - [Brandon Andrews](https://github.com/brandrewsss)
 - [Gabriel Fernandes](https://github.com/GabrielFernandes251)
-- [Lorenzo Francisco](https://github.com/lozo6)\
+- [Lorenzo Francisco](https://github.com/lozo6)
 - [Arkaprava Roy@DevSocPI]
 - [Tim Judy](https://github.com/tljudy)
 - [Khushboo Jain @DevSoc]
+- [Hari Prasath] (https://github.com/Hari-cbe)
 - [Berzan Tas](https://github.com/BerzanTas)
 - [Pratyush Tyagi](https://github.com/Pratyush0612)
 - Reetish Rath DevSoc Pre-inductions
@@ -3577,3 +3578,4 @@ Ayan Das
 - [Gokul](https://github.com/bansalgokul)
 - [tckthecreator](https://github.com/tckthecreator)
 - [Ayush Kumar Gupta](https://github.com/AyushGupta2114)
+- 
