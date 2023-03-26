@@ -63,7 +63,7 @@
 - [Krishna Deepak] (https://github.com/KDcoder21)
 - [William Haywood] (https://github.com/Whaywood98)
 - [Nyukeit](https://github.com/nyukeit)
-- [Gerald Lofton](https://github.com/Gerald-Lofton)
+- [Gerald Lofton] (https://github.com/gerald-lofton)
 - [ljmitchell200] (https://github.com/ljmitchell200)
 - [Pre-123] (https://github.com/Pre-123)
 - [miguel-sr] (https://github.com/miguel-sr)
