@@ -6,6 +6,7 @@
 - [Modupe Akanni](https://github.com/Goketech)
 - [Shaquib Khan] (https://github.com/Shaquibcode01)
 - [Muhammad Shehryar] (https://github.com/Shehryarssj)
+- [Dan Jennings] (https://github.com/tsdanj)
 - [Olu-Olagbuji Delight](https://github.com/Dheelyte)
 - [Aravindan 🕺🏽](https://github.com/RAravindDS)
 - [KryptoShrimp] (https://link3.to/ferreyros)
