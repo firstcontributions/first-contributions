@@ -38,7 +38,6 @@
 - [Tirath Bhathawala](https://github.com/tirath5504)
 - [Darshan Panchal] (https://github.com/Darshan016)
 - [taku](https://github.com/newcoder316) 
-- [Pratikshit Singh](https://github.com/Pratikshit26)
 - [Saksham Paliwal] (https://github.com/sakshampaliwal)
 - [Umair Hassan] (https://github.com/itz-umairhassan)
 - [Adarsh Gupta] (https://github.com/apneduniya)
