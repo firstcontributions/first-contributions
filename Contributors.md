@@ -19,6 +19,7 @@
   Kyra Jones
 - [Shreeji Saraogi](https://github.com/shreesaraogi)
 - [Antonio Zurita] (https://github.com/AntonioJZP86)
+- [Deep Patel] (https://github.com/Deepp805)
 - [Mohamed Essam] (https://github.com/mohamed-official/)
 - [Bikal Koju] ()
 - [Roshan Singh Bhadauriya] (https://github.com/Roshanbhadauriya)
