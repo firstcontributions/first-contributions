@@ -24,6 +24,7 @@
 [ZeinebGuellouz] (https://github.com/ZeinebGuellouz)
 - [GBR Pratap Singh](https://github.com/GBR_Pratap_Singh)
 - [Thomas Vipin Koshy](https://github.com/Vipinkthomas)
+- [Shane Vermillion](https://github.com/vermillion43015)
 - [Daniel Eggmeier](https://github.com/DanielEggm)
 - [Brendan Costello] (https://github.com/BrendanCostello)
 - [Cosmic Wolf](https://github.com/ACosmicWolf)
