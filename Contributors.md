@@ -11,6 +11,7 @@
 - [Anubhav Singh Chandel](https://github.com/AnubhavSinghChandel)
 - [Muhammad Ihtisham Alam Khan] (https://github.com/muhammadIhtishamKhan)
 - Ishita
+- [Ganesh] (https://github.com/ganesha910)
 - [Archana Palepu](https://github.com/archanaseru)
   Kyra Jones
 - [Shreeji Saraogi](https://github.com/shreesaraogi)
