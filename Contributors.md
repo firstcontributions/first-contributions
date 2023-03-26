@@ -886,6 +886,7 @@ Joni
 - [Ragnhild Marie Knudsen](https://github.com/rm-sk)
 - [Konradical](https://github.com/Soundwave0)
 - [Sam Nanson](https://github.com/snanson2023)
+- [JosephSom](https://github.com/Jsomerville1)
 - [sbadi](https://github.col/sbadillo)
 - [neta] (https://github.com/netacohen1)
 - [Leonard Wittrock] (https://github.com/wittrockscode)
