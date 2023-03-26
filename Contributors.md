@@ -199,6 +199,7 @@ Hariharakrishnan (https://github.com/hariCoder2k)
 - [Aviral Singh](https://github.com/aviralsingh108/)
 - [Ifeanyi Dike](https://github.com/ifeanyidike/)
 - [Aman Varma]
+- [Yash Gupta]
 - [Nithish Kumar Duda] (https://github.com/Nithishduda10)
 - [Arya Shahi] (https://github.com/arya177)
 -[Tarun Prakash Poram](https://github.com/tarunprakashporam)
