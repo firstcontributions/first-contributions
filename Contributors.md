@@ -3580,3 +3580,4 @@ Ayan Das
 - [tckthecreator](https://github.com/tckthecreator)
 - [Ahmed Abdalla] (https://github.com/iamahmedabdalla)
 - [Ayush Kumar Gupta](https://github.com/AyushGupta2114)
+- [Diac Adrian](https://github.com/adidiac)
