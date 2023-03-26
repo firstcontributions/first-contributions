@@ -1,9 +1,11 @@
-# Contributors
+  # Contributors
 <!-- prettier-ignore-start -->
+
 - [Shaquib Khan] (https://github.com/Shaquibcode01)
 - [Aravindan 🕺🏽](https://github.com/RAravindDS)
 - Ishita
 - [Bikal Koju] ()
+  [Akash Gupta] (https://github.com/Akash3951)
 - [Subha Mishra](https://github.com/SubhaMishra1998)
 - [Nancy Kasaudhan](https://github.com/nancyKasaudhan20)
   [Akash Gupta](https://github.com/Akash3951)
