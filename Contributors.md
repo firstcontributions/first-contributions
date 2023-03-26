@@ -1901,6 +1901,7 @@ Rishabh Pandey
 - [Boris Ynyr](https://github.com/BorisYnyr)
 - [JustDreamBig] (https://github.com/justdreambig)
 - [Samarth Nagpal @ DevSocPI](https://github.com/SamarthNagpal)
+- [Sthiti](https://github.com/Sthiti04)
 - [Anand S](https://github.com/anand2000s)
 - [Aryan Wadhwa](https://github.com/TastyBiscuit0808/first-contributions)
 - [R.Noto](https://github.com/RikitoNoto)
