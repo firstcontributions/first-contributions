@@ -83,6 +83,7 @@
 - [Hà Văn Quốc Dũng] (https://github.com/Dung24-6)
 - [mxsaa7] (https://github.com/mxsaa7)
 - [Raj Malviya](https://github.com/rajmalviya456)
+- [beginner1986](https://github.com/beginner1986)
 - [Paula Isabel Signo] (https://github.com/paulaxisabel)
 - [John Pierce] (https://github.com/jpierce-coder)
 - [Abdul Basit](https://github.com/AbdulBasit42)
