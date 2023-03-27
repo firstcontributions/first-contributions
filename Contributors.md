@@ -1888,6 +1888,7 @@ Rishabh Pandey
 - [Teona Tsintsadze](https://github.com/s2erauber)
 - [Juma Said Allu](https:github.com/Mahad444)
 - [Vitya Livshits](https://github.com/cuteWarmFrog)
+- [Ibiteye Ayomide] (https://github.com/Ay7ot)
 - [Andreas](https://github.com/Andreas1593)
 - [Luis Rubio](https://github.com/Lu-77)
 - [Martin Kubona](https://github.com/MartinKayz)
