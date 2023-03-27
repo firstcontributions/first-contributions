@@ -3611,3 +3611,4 @@ Ayan Das
 - [crowe099](https://github.com/crowe099)
 - [ekusiadadus](https://github.com/ekusiadadus)
 - [Arkadii Ilinov](https://github.com/ArkadiiIL)
+- [William Akpatsa](https://github.com/wakpatsa)
