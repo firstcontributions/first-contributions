@@ -392,6 +392,7 @@ Adwai
 - [Riley Livingston] (https://github.com/Riley-livingston)
 - [Quentin Ng] (https://github.com/kwantaing)
 - [Emily Lubkert] (https://github.com/emilylubkert)
+  [Shivam Tyagi] (https://github.com/Shivam-0407)
 - [Lauris Macans] (https://github.com/lauriselvijs)
 - [Bouzahar Taha] (https://github.com/TahaNw)
 - [Ranjan Shitole] (https://github.com/ranjan2829)
