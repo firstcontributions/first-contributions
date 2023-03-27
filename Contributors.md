@@ -18,6 +18,7 @@
 - [Anish Mandal](https://github.com/anish1997)
 - [Divya Kumari](https://github.com/Iamdivyak)
 - [Sushil Bhandari](https://github.com/sushil-rgb)
+- [Shalihin](https://github.com/omgshalihin)
 - [Tyler Beitel]
 - [Morgan Smith]
 - [Tejas Binu]
