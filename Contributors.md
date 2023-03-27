@@ -5,6 +5,7 @@
 - [Aditya Narayan Dalapati] (https://github.com/AdityaND2005)
 - [Modupe Akanni](https://github.com/Goketech)
 - [UnderscoreEX] (https://github.com/UndrscoreEX)
+- [itsraretoseeit] (https://github.com/itsraretoseeit)
 - [vansh nawander](https://github.com/vanshnawander)
 - [Shaquib Khan] (https://github.com/Shaquibcode01)
 - [Muhammad Shehryar] (https://github.com/Shehryarssj)
