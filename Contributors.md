@@ -7,6 +7,7 @@
 - [Shaquib Khan] (https://github.com/Shaquibcode01)
 - [Muhammad Shehryar] (https://github.com/Shehryarssj)
 - [Dan Jennings] (https://github.com/tsdanj)
+- [Ashwin M] (https://github.com/Ashwin-developer12)
 - [Olu-Olagbuji Delight](https://github.com/Dheelyte)
 - [Aravindan 🕺🏽](https://github.com/RAravindDS)
 - [KryptoShrimp] (https://link3.to/ferreyros)
