@@ -19,6 +19,7 @@
 - [Archana Palepu](https://github.com/archanaseru)
   Kyra Jones
 - [Shreeji Saraogi](https://github.com/shreesaraogi)
+- [Aaron Lee} (https://github.com/AKrey21)
 - [Antonio Zurita] (https://github.com/AntonioJZP86)
 - [Deep Patel] (https://github.com/Deepp805)
 - [Deepak Kumar] (https://github.com/develop-build/)
