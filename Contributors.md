@@ -1,8 +1,13 @@
   # Contributors
 <!-- prettier-ignore-start -->
-- [test4] ()
+<<<<<<< HEAD
+
+=======
+>>>>>>> e0a0c347a3377166aee05bc5b9a86cd68aaf3864
 - [Sreeharsha Raveendra] (https://github.com/Sreeharsha98)
 - [Sylvia Suen] (https://github.com/amoslue)
+- [test2] (https://github.com/nonsense)
+- [test3] (https://github.com/test3)
 - [Aghilas Skawronski] (https://github.com/askawron)
 - [Aditya Narayan Dalapati] (https://github.com/AdityaND2005)
 - [Modupe Akanni](https://github.com/Goketech)
@@ -81,6 +86,7 @@
 - [Ash Casden] (https://github.com/acasden)
 - [KBenit](https://github.com/KBenit)
 - [Solomon Yakubu](https://github.com/SolomonYakubu)
+- [Sayed Tahsin](https://github.com/SayedTahsin)
 - [Kai Tecson] (https://github.com/SchadenKai)
 - [Hà Văn Quốc Dũng] (https://github.com/Dung24-6)
 - [mxsaa7] (https://github.com/mxsaa7)
