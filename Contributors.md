@@ -1,6 +1,7 @@
   # Contributors
 <!-- prettier-ignore-start -->
 - [Bassem Dimassi] (https://github.com/dimassibassem)
+- [siba Jana] (https://github.com/sibaJana)
 - [Sreeharsha Raveendra] (https://github.com/Sreeharsha98)
 - [Nikhil Mimroth] (https://github.com/Nikhil667)
 - [Sylvia Suen] (https://github.com/amoslue)
@@ -17,6 +18,7 @@
 - [Aravindan 🕺🏽](https://github.com/RAravindDS)
 - [KryptoShrimp] (https://link3.to/ferreyros)
 - [Anubhav Singh Chandel](https://github.com/AnubhavSinghChandel)
+
 - [Ashar Shaikh](https://github.com/AsharSheikh)
 - [Muhammad Ihtisham Alam Khan] (https://github.com/muhammadIhtishamKhan)
 - Ishita
