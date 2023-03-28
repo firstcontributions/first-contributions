@@ -547,6 +547,7 @@ Adwai
 - [Xanthium]
 -[Urvi]
 - [Dhemeira](https://github.com/dhemeira)
+- [Sergio Rodriguez](https://github.com/Sergiorq1)
 - [Anindo Sarker](https://github.com/anindosarker/)
 - [Codey Gallup](https://github.com/Codeyg12)
 - [Charles Showalter](https://github.com/WorldDrknss)
