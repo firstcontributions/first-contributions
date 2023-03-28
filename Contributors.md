@@ -998,6 +998,7 @@ Subhajit Bera
 - [Jovan Lanutan](https://github.com/tan911)
 - [Saurabh Jumnalkar](https://github.com/SaurabhJumnalkar)
 - [Natalie Smyth](https://github.com/nataliesmyth)
+- [Tarek Elkanaria](https://github.com/tarekelkanaria)
 - [Brian Bloodaxe]()
 - [HHA](https://github.com/HeinHtetAunggg)
 - [Diego_Sic](https://github.com/Diego-Sic)
