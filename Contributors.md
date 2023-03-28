@@ -2638,6 +2638,7 @@ Rishabh Pandey
 - [James Anyalewechi](https://github.com/jamesgotech)
 - [Dibakar Upadhyaya](https://github.com/Dibakar01)
 - [Johan Kreivi](https://github.com/0h4y)
+- [<span style="color: #96a3ff;">Ramon Padilla</span>] (https://github.com/ramonpjls)
 - [Gaurav Patil](https://github.com/GauravPatil8778)
 - [Vidit Jain @DevsocPI](https://github.com/ViditJain123)
 - [Suryajith Ms](https://github.com/Suryajith32)
