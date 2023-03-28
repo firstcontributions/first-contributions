@@ -3577,6 +3577,7 @@ Ayan Das
 - [Sarthak Jain](https://github.com/sarthakj0304)
 - [Kaka Nguyen](https://github.com/duccadhv1)
 - [Nandini]
+- [tris203]
 - [mlauxyz](https://github.com/mlauxyz)
 - [jackgai](https://github.com/jackgai)
 - [Ahmad Mughrabi] (https://github.com/9AMTech)
