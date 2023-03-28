@@ -3641,5 +3641,5 @@ Ayan Das
 - [Chrisfish](https://github.com/bsnowflake04)
 - [Ahmad Furqan Hassan](https://github.com/AFurqanHassan)
 - [Indrajith Madhumal](https://github.com/zetcco) 
-- [Yuvraj Singh Sisodiy](https://github.com/yuvrxj-afk)
+- [Yuvraj Singh Sisodiya](https://github.com/yuvrxj-afk)
 - [Vishal yadav](https://github.com/vishal7738639800)
