@@ -1,7 +1,8 @@
   # Contributors
 <!-- prettier-ignore-start -->
 - [Bassem Dimassi] (https://github.com/dimassibassem)
-- [siba Jana] (https://github.com/sibaJana)
+- [siba Jana](https://github.com/sibaJana)
+
 - [Sreeharsha Raveendra] (https://github.com/Sreeharsha98)
 - [Nikhil Mimroth] (https://github.com/Nikhil667)
 - [Sylvia Suen] (https://github.com/amoslue)
