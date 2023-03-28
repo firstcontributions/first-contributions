@@ -3580,6 +3580,7 @@ Ayan Das
 - [Srinivasu Alla](https://github.com/srinivasualla)
 - [Sharath Lingam](https://github.com/sharath-1517)
 - [paiyon](https://github.com/paiyon)
+- [iAduriteX] (https://github.com/iAduriteX)
 - [kudoryi](https://github.com/kudoryi)
 - [Anthony Morehouse](https://github.com/acmorehouse)
 - [Fadi](https://github.com/F14di)
