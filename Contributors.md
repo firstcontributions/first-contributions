@@ -3271,6 +3271,7 @@ Ayan Das
 - [Juan Plasencia](https://github.com/Juarpla)
 - [Ezequiel Bugnon](https://github.com/ezequielbugnon)
 - [Nilesh Swami](https://github.com/nileskh16)
+- [Jack B](https://github.com/JackBorah)
 - [Teena Batra] (https://github.com/TeenaBatra)
 - [WarrenTheRabbit] (https://github.com/WarrenTheRabbit)
 - [AstralVoyager] (https://github.com/AstralVoyager)
