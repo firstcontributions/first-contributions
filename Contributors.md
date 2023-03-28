@@ -150,6 +150,7 @@ Pranav Bhutada(https://github.com/pranav243)
 - [Chinmay Deo] (https://github.com/Chinmay-Deo-2004)
 - [Shubham Kumar] 
 - [Piyush Mohata]
+- [Husayn Esmail] (https://github.com/Husayn-Esmail)
 - [ZolaraCodes](https://github.com/ZolaraCodes)
 - [Kelvin Chan](https://github.com/2khc2)
 - [Sai Krishna]
