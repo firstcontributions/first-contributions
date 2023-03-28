@@ -6,6 +6,7 @@
 >>>>>>> e0a0c347a3377166aee05bc5b9a86cd68aaf3864
 - [Sreeharsha Raveendra] (https://github.com/Sreeharsha98)
 - [Sylvia Suen] (https://github.com/amoslue)
+- [test0]
 - [test2] (https://github.com/nonsense)
 - [test3] (https://github.com/test3)
 - [Aghilas Skawronski] (https://github.com/askawron)
