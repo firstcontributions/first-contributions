@@ -1804,6 +1804,7 @@ Rishabh Pandey
 - [Abdurahman](https://github.com/abdurahmanjabiin)
 - [Vibhav Joshi](https://github.com/DATTU005)
 - [Mishu Hishu] (https://github.com/Mishu-Hishu)
+- [Sanjay Gupta] ()
 - [Kripa Sindhu](https://github.com/kripasindhu-007)
 - [Aaryan Patel](https://github.com/Aaryan-Patel2)
 - [Jayanth](https://github.com/iamjayanthr)
