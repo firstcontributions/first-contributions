@@ -997,11 +997,11 @@ Avinash Jha
 Subhajit Bera
 # mansi :)
  -[Prayrit Srivastava](https://github.com/prayrit-srivastava)
+ -hello My name is Pratap Padekar (I'm making my first contribution)
   [Reza Mahmoudi](https://github.com/R-Mahmoudi)
   [Smarpan Sharma](https://github.com/smarpan)
 - [Panzariu Ionut-Adrian](https://github.com/PanzariuAdi)
   [Dhaval R Solanki](https://github.com/Dhaval1421)
-  hello My name is Pratap Padekar (I'm making my first contribution)
 - [Jovan Lanutan](https://github.com/tan911)
 - [Saurabh Jumnalkar](https://github.com/SaurabhJumnalkar)
 - [Natalie Smyth](https://github.com/nataliesmyth)
