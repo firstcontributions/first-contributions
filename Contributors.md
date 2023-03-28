@@ -4,6 +4,7 @@
 - [Sylvia Suen] (https://github.com/amoslue)
 - [Aghilas Skawronski] (https://github.com/askawron)
 - [Aditya Narayan Dalapati] (https://github.com/AdityaND2005)
+[Rakhi]
 - [Modupe Akanni](https://github.com/Goketech)
 - [UnderscoreEX] (https://github.com/UndrscoreEX)
 - [itsraretoseeit] (https://github.com/itsraretoseeit)
