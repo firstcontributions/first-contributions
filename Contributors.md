@@ -1579,6 +1579,7 @@ Rishabh Pandey
 - Onadeko Oluwateniola
 - [CherylChaudhari@DevsocPI](https://github.com/cherxoxo10)
 - [Zeynep Dellal] (https://github.com/zedyjy)
+- [Abdelrahman Elsayed](https://github.com/zo7ley2a)
 - [Saptarshi Ghosh @devsoc2022](https://github.com/zack-carnet)
 - [Somnath Golui](https://github.com/somu-code)
 - [Jiving Pete's Frisky Dynamite](https://github.com/jives-mcgee)
