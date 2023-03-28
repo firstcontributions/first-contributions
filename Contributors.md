@@ -1,5 +1,6 @@
   # Contributors
 <!-- prettier-ignore-start -->
+- [amoslue] (https://github.com/amoslue)
 - [Sreeharsha Raveendra] (https://github.com/Sreeharsha98)
 - [Aghilas Skawronski] (https://github.com/askawron)
 - [Aditya Narayan Dalapati] (https://github.com/AdityaND2005)
