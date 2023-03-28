@@ -3,6 +3,7 @@
 - [Bassem Dimassi] (https://github.com/dimassibassem)
 - [Sreeharsha Raveendra] (https://github.com/Sreeharsha98)
 - [Nikhil Mimroth] (https://github.com/Nikhil667)
+- [Harsh Rajput] (https://github.com/harsh-rajput27)
 - [Sylvia Suen] (https://github.com/amoslue)
 - [Aghilas Skawronski] (https://github.com/askawron)
 - [Aditya Narayan Dalapati] (https://github.com/AdityaND2005)
