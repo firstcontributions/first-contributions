@@ -1,6 +1,7 @@
   # Contributors
 <!-- prettier-ignore-start -->
 - [Sreeharsha Raveendra] (https://github.com/Sreeharsha98)
+- [Nikhil Mimroth] (https://github.com/Nikhil667)
 - [Sylvia Suen] (https://github.com/amoslue)
 - [Aghilas Skawronski] (https://github.com/askawron)
 - [Aditya Narayan Dalapati] (https://github.com/AdityaND2005)
