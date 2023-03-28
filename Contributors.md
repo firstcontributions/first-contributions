@@ -15,6 +15,7 @@
 - [Aravindan 🕺🏽](https://github.com/RAravindDS)
 - [KryptoShrimp] (https://link3.to/ferreyros)
 - [Anubhav Singh Chandel](https://github.com/AnubhavSinghChandel)
+- [Ashar Shaikh](https://github.com/AsharSheikh)
 - [Muhammad Ihtisham Alam Khan] (https://github.com/muhammadIhtishamKhan)
 - Ishita
 - [Shaik Esub] (https://github.com/ShaikEsub)
