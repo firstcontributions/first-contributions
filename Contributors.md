@@ -1,6 +1,7 @@
   # Contributors
 <!-- prettier-ignore-start -->
 - [Sreeharsha Raveendra] (https://github.com/Sreeharsha98)
+- [Sylvia Suen] (https://github.com/amoslue)
 - [Aghilas Skawronski] (https://github.com/askawron)
 - [Aditya Narayan Dalapati] (https://github.com/AdityaND2005)
 - [Modupe Akanni](https://github.com/Goketech)
