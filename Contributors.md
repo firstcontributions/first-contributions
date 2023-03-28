@@ -2218,6 +2218,7 @@ Rishabh Pandey
 - [Myrza](https://github.com/makenskyy)
 - [Deepali](https://github.com/deepseas07)
 - [Ailen Paez](https://github.com/paezailen)
+- [Michael Francis Toeante](https://github.com/TheMfrancis)
 - [Vatsal K](https://github.com/vatsalkudecha)
 - [Prakhar Bhatia](https://github.com/prakharbhatia4)
 - [Jarek Pacocha](https://github.com/jarek-pacocha)
