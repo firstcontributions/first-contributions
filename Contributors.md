@@ -28,6 +28,7 @@ ahihi tao la bao ne
 - [Archana Palepu](https://github.com/archanaseru)
   Kyra Jones
 - [Shreeji Saraogi](https://github.com/shreesaraogi)
+- [Clément Maisons] (https://github.com/ClementMaisons)
 - [Antonio Zurita] (https://github.com/AntonioJZP86)
 - [Deep Patel] (https://github.com/Deepp805)
 - [Deepak Kumar] (https://github.com/develop-build/)
