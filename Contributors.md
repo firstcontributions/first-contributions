@@ -3622,4 +3622,5 @@ Ayan Das
 - [crowe099](https://github.com/crowe099)
 - [ekusiadadus](https://github.com/ekusiadadus)
 - [Arkadii Ilinov](https://github.com/ArkadiiIL)
+- [Chrisfish](https://github.com/Chrisfish)
 - [Ahmad Furqan Hassan](https://github.com/AFurqanHassan)
