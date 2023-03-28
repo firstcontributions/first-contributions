@@ -79,6 +79,7 @@
 - [Ash Casden] (https://github.com/acasden)
 - [KBenit](https://github.com/KBenit)
 - [Solomon Yakubu](https://github.com/SolomonYakubu)
+- [Sayed Tahsin](https://github.com/SayedTahsin)
 - [Kai Tecson] (https://github.com/SchadenKai)
 - [Hà Văn Quốc Dũng] (https://github.com/Dung24-6)
 - [mxsaa7] (https://github.com/mxsaa7)
