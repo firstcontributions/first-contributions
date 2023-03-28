@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 - [amoslue] (https://github.com/amoslue)
 - [Sreeharsha Raveendra] (https://github.com/Sreeharsha98)
+- [Sylvia Suen] (https://github.com/amoslue)
 - [Aghilas Skawronski] (https://github.com/askawron)
 - [Aditya Narayan Dalapati] (https://github.com/AdityaND2005)
 - [Modupe Akanni](https://github.com/Goketech)
@@ -80,6 +81,7 @@
 - [Ash Casden] (https://github.com/acasden)
 - [KBenit](https://github.com/KBenit)
 - [Solomon Yakubu](https://github.com/SolomonYakubu)
+- [Sayed Tahsin](https://github.com/SayedTahsin)
 - [Kai Tecson] (https://github.com/SchadenKai)
 - [Hà Văn Quốc Dũng] (https://github.com/Dung24-6)
 - [mxsaa7] (https://github.com/mxsaa7)
