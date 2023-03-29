@@ -4,6 +4,7 @@
 - [Savan Patel](https://github.com/SavanAghera)
 -[Harsh Singh] (https://github.com/HARSH03037)
 - [Bassem Dimassi] (https://github.com/dimassibassem)
+- [Ali Belarouci] (https://github.com/AliBelarouci)
 - [Faheem Hassan] (https://github.com/faheemhssn)
 - [Sreeharsha Raveendra] (https://github.com/Sreeharsha98)
 - [Allyson Smith] (https://github.com/allyson-s-code)
