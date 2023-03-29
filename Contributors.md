@@ -24,6 +24,7 @@
 - [Muhammad Shehryar] (https://github.com/Shehryarssj)
 - [Dan Jennings] (https://github.com/tsdanj)
 - [Shalihin](https://github.com/omgshalihin)
+- [NightPuppet](https://github.com/NightPuppet)
 - [Olu-Olagbuji Delight](https://github.com/Dheelyte)
 - [Aravindan 🕺🏽](https://github.com/RAravindDS)
 - [KryptoShrimp] (https://link3.to/ferreyros)
