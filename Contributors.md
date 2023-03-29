@@ -20,7 +20,7 @@
 - [Yashwin Nagudolla] (https://github.com/yashwinmcvv)
 - [vansh nawander](https://github.com/vanshnawander)
 - [Chaithra Reddy](https://github.com/chaithra3007)
-- [Saiteja Nagishetty](https://github.com/SaitejaNagishetty)
+- [Saiteja Balaramayya Nagishetty](https://github.com/SaitejaNagishetty)
 - [Shaquib Khan] (https://github.com/Shaquibcode01)
 - [Pavan Mlaviya](https://github.com/Pavan-Malviya)
 - [Muhammad Shehryar] (https://github.com/Shehryarssj)
