@@ -5,6 +5,7 @@
 -[Harsh Singh] (https://github.com/HARSH03037)
 - [Bassem Dimassi] (https://github.com/dimassibassem)
 - [Sreeharsha Raveendra] (https://github.com/Sreeharsha98)
+- [Allyson Smith] (https://github.com/allyson-s-code)
 - [Nikhil Mimroth] (https://github.com/Nikhil667)
 - [Harsh Rajput] (https://github.com/harsh-rajput27)
 - [Meir Kremer] (https://github.com/meirkremer)
