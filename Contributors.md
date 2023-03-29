@@ -41,6 +41,7 @@ ahihi tao la duy ne
 - [Mohamed Essam] (https://github.com/mohamed-official/)
 - [Bikal Koju] ()
 - [Marc Aguilar]
+- [Shaireen Alexis Moncada](https://github.com/shaiweeeen)
 - [Matthew Wang](https://github.com/mw3071)
 - [Mohamed Ben Taher] (https://github.com/MohamedBenTaher)
 - [Roshan Singh Bhadauriya] (https://github.com/Roshanbhadauriya)
