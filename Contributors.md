@@ -1,6 +1,7 @@
   # Contributors
 <!-- prettier-ignore-start -->
 - [Savan Patel](https://github.com/SavanAghera)
+-[Harsh Singh] (https://github.com/HARSH03037)
 - [Bassem Dimassi] (https://github.com/dimassibassem)
 - [Sreeharsha Raveendra] (https://github.com/Sreeharsha98)
 - [Nikhil Mimroth] (https://github.com/Nikhil667)
