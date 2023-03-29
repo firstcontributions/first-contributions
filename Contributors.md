@@ -5,6 +5,7 @@
 - [Sreeharsha Raveendra] (https://github.com/Sreeharsha98)
 - [Nikhil Mimroth] (https://github.com/Nikhil667)
 - [Harsh Rajput] (https://github.com/harsh-rajput27)
+- [Meir Kremer] (https://github.com/meirkremer)
 - [Sylvia Suen] (https://github.com/amoslue)
 - [Aghilas Skawronski] (https://github.com/askawron)
 - [Aditya Narayan Dalapati] (https://github.com/AdityaND2005)
