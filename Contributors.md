@@ -3680,3 +3680,4 @@ Ayan Das
 - [Avish Porwal](https://github.com/Avish34)
 - [Yunchi Pang](https://github.com/yunchipang)
 - [Shiviishiv](https://github.com/shiviishiv7)
+- [Alexis Comte](https://github.com/AlexisC73)
