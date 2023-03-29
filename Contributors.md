@@ -132,6 +132,7 @@ ahihi tao la duy ne
 - [Pre-123] (https://github.com/Pre-123)
 - [miguel-sr] (https://github.com/miguel-sr)
 - jhjjhkh
+- [chandra sekhar] (https://github.com/chandra122)
 - [Kartik]
 - Ashish Chowdhary
 - [krikera] (https://github.com/krikera)
