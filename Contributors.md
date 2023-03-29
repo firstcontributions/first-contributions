@@ -15,6 +15,7 @@
 - [Modupe Akanni](https://github.com/Goketech)
 - [UnderscoreEX] (https://github.com/UndrscoreEX)
 - [itsraretoseeit] (https://github.com/itsraretoseeit)
+- [Jesus Montoya] (https://github.com/jmontoyac)
 - [Yashwin Nagudolla] (https://github.com/yashwinmcvv)
 - [vansh nawander](https://github.com/vanshnawander)
 - [Chaithra Reddy](https://github.com/chaithra3007)
