@@ -2,7 +2,6 @@
 <!-- prettier-ignore-start -->
 -[Nischal Mudennavar](https://github.com/nischalmudennavar)
 -[Abdul Hadi](https://github.com/lemmethinkaboutit)
--[Abdul Hadi](https://github.com/lemmethinkaboutit)
 - [Savan Patel](https://github.com/SavanAghera)
 -[Harsh Singh] (https://github.com/HARSH03037)
 - [Bassem Dimassi] (https://github.com/dimassibassem)
