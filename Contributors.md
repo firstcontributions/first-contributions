@@ -18,6 +18,7 @@
 - [vansh nawander](https://github.com/vanshnawander)
 - [Chaithra Reddy](https://github.com/chaithra3007)
 - [Shaquib Khan] (https://github.com/Shaquibcode01)
+- [Pavan Mlaviya](https://github.com/Pavan-Malviya)
 - [Muhammad Shehryar] (https://github.com/Shehryarssj)
 - [Dan Jennings] (https://github.com/tsdanj)
 - [Shalihin](https://github.com/omgshalihin)
