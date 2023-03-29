@@ -283,6 +283,7 @@ Syed
 - [Marius](https://github.com/mariuswink)
 - [JohnLc12-9](https://github.com/JohnLc12-9)
 - [Serdar-Camur](https://github.com/AnatolyWassermann)
+- [Defendgu](https://github.com/derinp)
 - [Abhishek Tilkar](https://github.com/abhishektilkar)
 - [Anele Siguqa](https://github.com/AneleIlyas) 
 - [SimoneZh](https://github.com/SimoneZh)
