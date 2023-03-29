@@ -381,6 +381,7 @@ Syed
 - [Nikita] (https://github.com/humanbelnik)
 - [Zubairh20]
 - [leevin]
+- [evans langat](https://github.com/evans-hub)
 - [Vilas] (https://github.com/villAsh)
 - [luis Alejandro] (https://github.com/luisferllub230)
 - [Anand] (https://github.com/AK4266)
@@ -822,6 +823,7 @@ Arjun Palathinkara
 - [Shilpi Pandey](https://github.com/shilpipandey)
   [Tosyne Akinnifesi](https://github.com/trextozyne)
 - [Dilek Baykara] (https://github.com/dilekbaykara)
+- [Ryan Porter] (https://github.com/rypor)
 - [Calvin Nguyen](https://githublcom/calvinguyen)
 - [Parth Maru](https://github.com/TheParthMaru)
 - [Mete Sayan](https://github.com/MeteSayan)
