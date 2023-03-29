@@ -1,8 +1,10 @@
   # Contributors
 <!-- prettier-ignore-start -->
--[Nischal Mudennavar](https://github.com/nischalmudennavar)
+
+- [Nischal Mudennavar](https://github.com/nischalmudennavar)
+- [Arsalan Malik](https://github.com/ArslanYM)
 - [Savan Patel](https://github.com/SavanAghera)
--[Harsh Singh] (https://github.com/HARSH03037)
+- [Harsh Singh] (https://github.com/HARSH03037)
 - [Bassem Dimassi] (https://github.com/dimassibassem)
 - [Sreeharsha Raveendra] (https://github.com/Sreeharsha98)
 - [Allyson Smith] (https://github.com/allyson-s-code)
