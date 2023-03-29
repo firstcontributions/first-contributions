@@ -672,6 +672,7 @@ Arjun Palathinkara
 - [Ali Rasouli]
 - [Abhijit More]
 - [Sinjin John]
+- [WeiJu Chen](https://github.com/weijuchen)
 - [Vishnu Bansal](https://github.com/vishnubansal001)
 - [Gabriel de Araujo](https://github.com/GbAraujoSouza)
 - [Piyush Yadav](https://github.com/piyush-0013)
@@ -692,6 +693,7 @@ Arjun Palathinkara
 - [Pratima Adhikari](https://github.com/Prateema1)
 - [Ethan Kuhrts](https://github.com/ethankuhrts)
 - [Md. Nahidul Islam](https://github.com/nahidshrabon)
+- [WeiJu Chen](https://github.com/weijuchen)
 - [Gavin D'mello](https://github.com/GavinDmello97)
 - [Dreem Hai](https://github.com/dreemhai)
 - [SIBOMANA GLORRY] (https://github.com/WHITELOTUS0)
@@ -715,6 +717,7 @@ Arjun Palathinkara
 - [Divya Kumari](https://github.com/Iamdivyak)
 - [21F0rc3](https://github.com/21F0rc3)
 - [Sushil Bhandari](https://github.com/sushil-rgb)
+- [WeiJu Chen](https://github.com/weijuchen)
 - [Vaibhav Chauhan] (https://github.com/vibenr)
 - [Josh Needleman] (https://github.com/JNeed)
 - [Traviathan] (https://github.com/traviathan)
@@ -769,6 +772,7 @@ Arjun Palathinkara
 - [Bardia Zamani Abnili](https://github.com/BarZamSr)
 - [Batel Levi]
 - [HarenIO](https://github.com/HarenIO/)
+- [WeiJu Chen](https://github.com/weijuchen)
 - [Isaac Faulkner]
 - [Simarjit Singh](https://github.com/simar437/)
 - [David Jenson] (httops://github.com/dizzyj/)
@@ -785,6 +789,7 @@ Arjun Palathinkara
 - [Jonathan Hoarau] (https://github.com/jonhoa)
 - [Kamal Kanti Chakma](https://github.com/kamalchakma1)
 - [Tomas Carrasco] (https://github.com/tomascarrascoo)
+- [WeiJu Chen](https://github.com/weijuchen)
 - [Di Liu](https://github.com/liudi4046)
 - [VIBHINN SINGHAL](https://github.com/VibhinnS)
 - [Saieeash Reddy](https://github.com/SaieeashReddy23)
@@ -815,6 +820,7 @@ Arjun Palathinkara
 - [Kundan Sahu](https://github.com/Kundan730)
 - [Elijah Foster](https://github.com/retsofoster)
 - [Joshua Criswell](https://github.com/jcriz99)
+- [WeiJu Chen](https://github.com/weijuchen)
 - [Lean Dwarf](https://github.com/LeanDwarf)
 [Samarjit Mahi](https://github.com/Samarjiit)
 [martindevelopske] (martindevelops.dev)
@@ -845,6 +851,7 @@ Arjun Palathinkara
 - [Daniel Oliveri](https://github.com/LupisCor)
 - [Tu Nguyen](https://github.com/TerryN12)
 - [Alan Wu](https://github.com/lameast)
+- [WeiJu Chen](https://github.com/weijuchen)
 - [Ananda Perumal Balaji](https://github.com/anand-pb)
 - [Abdelwahab Chaachoui](https://github.com/abdelwahab-chaachoui)
 - [Meaghan Freund]
@@ -865,6 +872,7 @@ Arjun Palathinkara
 - [Rolyyy](https://github.com/Rolyyy)
 - [Prasad Joshi](https://github.com/predatorprasad)
 - [Anant shukla](https://github.com/Anantshukla007)
+- [WeiJu Chen](https://github.com/weijuchen)
 - [Ritika Mandal](https://github.com/Ritika1705)
   [Aniket Gupta]
 - [Sumit Kumar](https://github.com/sumit970)
