@@ -822,6 +822,7 @@ Arjun Palathinkara
 - [Shilpi Pandey](https://github.com/shilpipandey)
   [Tosyne Akinnifesi](https://github.com/trextozyne)
 - [Dilek Baykara] (https://github.com/dilekbaykara)
+- [Ryan Porter] (https://github.com/rypor)
 - [Calvin Nguyen](https://githublcom/calvinguyen)
 - [Parth Maru](https://github.com/TheParthMaru)
 - [Mete Sayan](https://github.com/MeteSayan)
