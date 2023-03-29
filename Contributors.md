@@ -20,6 +20,7 @@
 - [Jesus Montoya] (https://github.com/jmontoyac)
 - [Yashwin Nagudolla] (https://github.com/yashwinmcvv)
 - [vansh nawander](https://github.com/vanshnawander)
+- [André Florentin](https://github.com/Flodreey)
 - [Chaithra Reddy](https://github.com/chaithra3007)
 - [Rufaida Khan](https://github.com/rufaida99-k)
 - [Shaquib Khan] (https://github.com/Shaquibcode01)
