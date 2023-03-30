@@ -77,6 +77,8 @@ Se você for para o diretório do projeto e executar o comando `git status`, ver
 git add Contributors.md
 ```
 
+
+
 Agora, confirme essas alterações usando o comando git commit `git commit`:
 
 ```
