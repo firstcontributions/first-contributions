@@ -383,7 +383,6 @@ Syed
 - [Huy Vu](https://github.com/vuhuy172dh)
 - [Ayush Vidhale](https://github.com/ayushvidhale)
 - [Krigo Liu] (https://github.com/Krigo-Liu)
-- [Dada John]
 - [Piyush Gambhir](https://github.com/Piyush-Gambhir)
 - [Rene](https://github.com/dwaddle)
 - [Monish Khatri](https://github.com/monish-khatri)
@@ -3735,3 +3734,4 @@ Ayan Das
 - [Fire Sword Knight](https://github.com/FireSwordKnight)
 - [Karthik Kamineni](https://github.com/KarthikKamineni)
 - [Mahfujur Musfique](https://github.com/musfique113)
+- [Promise Nwhator](https://github.com/nwhator)
