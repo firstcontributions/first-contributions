@@ -740,6 +740,7 @@ Arjun Palathinkara
 - [Abhay](https://github.com/im31abhay)
 - [Tejas Binu]
 - [PaulTitto]
+- [yangus1265](https://github.com/yangus1265)
 - [meeeeeee](https://github.com/notshanxx)
 - [Di-az](https://github.com/Di-az)
 - [Eva Li]
