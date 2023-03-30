@@ -756,6 +756,7 @@ Arjun Palathinkara
 - [Harmish Patel] (https://github.com/harmishpatel21)
 - [Ivan Mizz]
 - [PramodhTVK]
+- [Filip Wąs] (https://github.com/filwas)
 - [Tushar Gupta](https://github.com/tushar-corbic)
 - [Ninad Mahajan](https://github.com/Ninad89)
   [Tech Lateef]
