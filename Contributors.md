@@ -1,5 +1,7 @@
   # Contributors
 <!-- prettier-ignore-start -->
+- [WeiJu Chen](https://github.com/weijuchen)
+- [WeiJu Chen](https://github.com/weijuchen)
 -[Nischal Mudennavar](https://github.com/nischalmudennavar)
 - [WeiJu Chen](https://github.com/weijuchen)
 - [Savan Patel](https://github.com/SavanAghera)
