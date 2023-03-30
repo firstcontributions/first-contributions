@@ -3702,3 +3702,4 @@ Ayan Das
 - [Dhananjay Sharma](https://github.com/dj4388)
 - [TJ Jackson](https://github.com/tjrelly)
 - [Lucas Enoki](https://github.com/enokiLucas)
+- [Vaibhav Singhal](https://github.com/vaibhav345-singhal)
