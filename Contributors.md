@@ -1,6 +1,7 @@
    # Contributors
 <!-- prettier-ignore-start -->
 - [Alejandro Pedemonte](https://github.com/ademondev)
+- [Om Dange](https://github.com/ommeleven)
 - [Vittorio Halfon] (https://github.com/vittoriohalfon)
 - [Aditya Verma](https://github.com/1av22)
 - [Sahil Wankhade](https://github.com/theghostuchiha)
