@@ -37,6 +37,7 @@
 - [Pavan Mlaviya](https://github.com/Pavan-Malviya)
 - [Muhammad Shehryar] (https://github.com/Shehryarssj)
 - [K B Gourav Rajhans] (https://github.com/kbgouravrajhans)
+- [crocs-in-socks] (https://github.com/crocs-in-socks)
 - Andrew Luminosity
 - [Dinesh Komakula] (https://github.com/dineshk47)
 - [Dan Jennings] (https://github.com/tsdanj)
