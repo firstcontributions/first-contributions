@@ -19,6 +19,7 @@
 - [Harsh Rajput] (https://github.com/harsh-rajput27)
 - [Meir Kremer] (https://github.com/meirkremer)
 - [Sylvia Suen] (https://github.com/amoslue)
+- [Gabriel Johnson] (http://github.com/GabrielRJn)
 - [Aghilas Skawronski] (https://github.com/askawron)
 - [Alejandro Mendoza] (https://github.com/alemendoza-v)
 - [Aditya Narayan Dalapati] (https://github.com/AdityaND2005)
