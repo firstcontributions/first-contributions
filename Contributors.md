@@ -5,6 +5,7 @@
 -[Nischal Mudennavar](https://github.com/nischalmudennavar)
 - [Savan Patel](https://github.com/SavanAghera)
 - [Bojidar Vladimirov](https://github.com/BojkaV)
+- [Noam Levi](https://github.com/N0amLevi)
 -[Harsh Singh] (https://github.com/HARSH03037)
 - [Bassem Dimassi] (https://github.com/dimassibassem)
 - [Ali Belarouci] (https://github.com/AliBelarouci)
