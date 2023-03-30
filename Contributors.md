@@ -13,6 +13,7 @@
 - [Meir Kremer] (https://github.com/meirkremer)
 - [Sylvia Suen] (https://github.com/amoslue)
 - [Aghilas Skawronski] (https://github.com/askawron)
+- [Alejandro Mendoza] (https://github.com/alemendoza-v)
 - [Aditya Narayan Dalapati] (https://github.com/AdityaND2005)
 - [Modupe Akanni](https://github.com/Goketech)
 - [UnderscoreEX] (https://github.com/UndrscoreEX)
