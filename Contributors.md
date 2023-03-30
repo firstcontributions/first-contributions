@@ -69,6 +69,7 @@ ahihi tao la bao ne
 -[abhinav](https://github.com/Abhinav260804)
 -[Abhishek](https://github.com/hyperion912)
 - [Sushil Singh]
+- [Taric Ov] (https://github.com/taricov)
 - [Alan Lipschutz](https://github.com/alanlipschutz)
 - [Shivam Choudhary](https://github.com/shivamchoudhary19)
 - [Tirath Bhathawala](https://github.com/tirath5504)
