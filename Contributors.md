@@ -136,6 +136,7 @@ ahihi tao la duy ne
 - [John Pierce] (https://github.com/jpierce-coder)
 - realmint
 - [Abdul Basit](https://github.com/AbdulBasit42)
+- [John Rendon](https://github.com/rendonurieee)
 - [MratHeinTwan] (https://github.com/MratHeinTwan)
 - [bongbongche] (https://github.com/bongbongche)
 - [Silas Stamps] (https://github.com/si1az)
