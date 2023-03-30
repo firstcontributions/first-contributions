@@ -148,6 +148,7 @@ ahihi tao la duy ne
 - [Harsh Jha] (https://https://github.com/Harshjha3006)
 - Coding CTO (https://github.com/codingcto)
 - Yana
+- Lokesh
 - Muhammad Bilal (https://github.com/YunoGasasi9862)
 - [Arslan Jan Soomro] (http://github.com/arslan-soomro)
 - [Kamlesh Gehlot] (https://github.com/kamlesh-gehlot)
