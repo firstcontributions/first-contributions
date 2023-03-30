@@ -132,6 +132,7 @@ ahihi tao la duy ne
 - [bongbongche] (https://github.com/bongbongche)
 - [Silas Stamps] (https://github.com/si1az)
 - [Anshul Rawat] (https://github.com/anshul7409)
+- [Nicole Sosa](https://github.com/nicoleSosa)
 - [georg-engelsmann](http://github.com/Schurlo)
 - [Anantashayana] (https://github.com/Anantashayana)
 - [Harsh Jha] (https://https://github.com/Harshjha3006)
