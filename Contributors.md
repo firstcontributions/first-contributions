@@ -26,6 +26,7 @@
 - [itsraretoseeit] (https://github.com/itsraretoseeit)
 - [Jesus Montoya] (https://github.com/jmontoyac)
 - [Yashwin Nagudolla] (https://github.com/yashwinmcvv)
+- Biplob Karmakar (https://github.com/biplobkarmakar)
 - [Sahil Verma] (https://github.com/verma25s)
 - [vansh nawander](https://github.com/vanshnawander)
 - [André Florentin](https://github.com/Flodreey)
