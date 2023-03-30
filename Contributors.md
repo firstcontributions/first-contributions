@@ -356,6 +356,7 @@ Syed
 - [KritiJaggi](https://github.com/KritiJaggi)
 - [Nirzar Bhatt](https://github.com/nb-0310)
 - [Diego Lascano](https://github.com/DallasBelt)
+- [Austin Regalado](https://github.com/ooplesoft)
 - [Aryan Roy](https://github.com/Arya10n)
 - [Huy Vu](https://github.com/vuhuy172dh)
 - [Ayush Vidhale](https://github.com/ayushvidhale)
