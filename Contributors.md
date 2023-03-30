@@ -3710,3 +3710,4 @@ Ayan Das
 - [Lucas Enoki](https://github.com/enokiLucas)
 - [Vaibhav Singhal](https://github.com/vaibhav345-singhal)
 - [Fire Sword Knight](https://github.com/FireSwordKnight)
+- [Karthik Kamineni](https://github.com/KarthikKamineni)
