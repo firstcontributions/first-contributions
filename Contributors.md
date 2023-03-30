@@ -12,6 +12,7 @@
 - [Bassem Dimassi] (https://github.com/dimassibassem)
 - [Ali Belarouci] (https://github.com/AliBelarouci)
 - [Faheem Hassan] (https://github.com/faheemhssn)
+- [Fernando J Santos] (https://github.com/fjose90)
 - [Sreeharsha Raveendra] (https://github.com/Sreeharsha98)
 - [Allyson Smith] (https://github.com/allyson-s-code)
 - [Nikhil Mimroth] (https://github.com/Nikhil667)
