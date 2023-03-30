@@ -1,4 +1,4 @@
-  # Contributors
+   # Contributors
 <!-- prettier-ignore-start -->
 - [Aditya Verma](https://github.com/1av22)
 - [Sahil Wankhade](https://github.com/theghostuchiha)
@@ -3020,6 +3020,7 @@ Rishabh Pandey
 - [hhwe](https://github.com/hhwe)
 - [Pruthiraj Swain]
 - [Adrian Clinansmith](https://github.com/adrianclinansmith)
+- [James Horne] (https://github.com/Jieeimuzu)
 - [megsystem](https://github.com/megsystem)
 - [Innocent Thomas](https://github.com/innthomas)
 - [hashem sh](https://github.com/hashemsh)
