@@ -532,6 +532,7 @@ Adwai
 - [Stefan Behling](https://github.com/StefanBeh)
 - [Eshan Shukla] (https://github.com/Eshan-shukla)
 - [Ogbuluijah Owaji-inyagham] (https://github.com/Ogbus)
+- [Bilal Akhtar] (https://github.com/bilalakhter)
 - [Abhishek Shukla] (https://github.com/abss123)
 - [Adam Smith] (https://github.com/Roadlyfe)
 - [Daniel Leinweber](https://github.com/daniel-leinweber)
