@@ -432,6 +432,7 @@ Syed
 - [GR1DSYSTEM] (https://github.com/GR1DSYSTEM)
 - [Jason Bodzy] (https://github.com/jasonbodzy)
 - [Alex McDonald] (https://github.com/AMcDonald12)
+- [John Sore] (https://github.com/joh-nnyS)
 - [Roman Potapov] (https://github.com/potap75
 Adwai
 - [Adeisda Leye](https://github.com/usernameisleye)
