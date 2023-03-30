@@ -1682,6 +1682,7 @@ Rishabh Pandey
 - [Faisal Saifi](https://github.com/faisalsaifii)
 - [Jake Butler](https://github.com/TioDelMundo)
 - [Greg Duran](https://github.com/GrannyLag)
+- [Anirudh Malik](https://github.com/rudhoDev)
 - Leon
   pt33
   yes we added!
