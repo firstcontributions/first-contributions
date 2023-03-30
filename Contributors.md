@@ -30,6 +30,7 @@
 - [Pavan Mlaviya](https://github.com/Pavan-Malviya)
 - [Muhammad Shehryar] (https://github.com/Shehryarssj)
 - Andrew Luminosity
+- [Dinesh Komakula] (https://github.com/dineshk47)
 - [Dan Jennings] (https://github.com/tsdanj)
 - [Shalihin](https://github.com/omgshalihin)
 - [NightPuppet](https://github.com/NightPuppet)
