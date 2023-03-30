@@ -662,6 +662,7 @@ JUnaid jamshed from nellikkuth
 - [Patrick Murimi](https://github.com/grand-rick001)
 - [Meitavelo Kayofa](https://github.com/primeking47)
 - [Dickson Wachai](https://github.com/DicksonWachai)
+- [Humancannonball](https://github.com/Humancannonball)
 - [Andreumagu](https://github.com/andreumagu)
 - [Bernice Owusu Agyeman](https://github.com/berniceoa)
 - [Aaron] (https://github.com/aaron-jpg)
