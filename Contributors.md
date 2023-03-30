@@ -1096,6 +1096,7 @@ Subhajit Bera
 - [Andrew](https://github.com/apuser)
 - [Marcos Adriano](https://github.com/drickchote)
 - [pcyan](https://github.com/pcyan)
+- [Sjorza](https://github.com/Sjorza)
 - [yeahokyok](https://github.com/yeahokyok)
 - [AKP](https://github.com/AungKhinePhyo)
 - [Netpappy](https://github.com/netpappy)
