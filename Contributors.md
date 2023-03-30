@@ -50,6 +50,7 @@ ahihi tao la duy ne
 - [Ganesh] (https://github.com/ganesha910)
 - [Vishwa] (https://github.com/theevildoof)
 - [Archana Palepu](https://github.com/archanaseru)
+- [Shubham Amande](https://github.com/ShubhamA99)
   Kyra Jones
 - [Shreeji Saraogi](https://github.com/shreesaraogi)
 - [Clément Maisons] (https://github.com/ClementMaisons)
