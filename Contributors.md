@@ -1013,6 +1013,7 @@ Michael Vertin
 - [Abhishek Shetty](https://github.com/bobbyy16)
 - [Dipankar Sahoo](https://github.com/Xxploiter)
 - [Jeet Shah](https://github.com/jeetrshah)
+- [Reza Rahemtola](https://github.com/RezaRahemtola)
 - [Omkar Sapkal](https://github.com/OmkarHub56)
 - [Alex Vranas](https://github.com/avranas)
 - [Yaekob Demisse](https://github.com/Jamescog)
