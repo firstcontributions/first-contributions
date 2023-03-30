@@ -735,6 +735,7 @@ Arjun Palathinkara
 - [Nicholas Njoki](https://github.com/alsonick)
 - [Pratik Kumar Singh](https://github.com/prat19coder)
 - [Anthon Rodrigues](https://github.com/anthonrodgrs01)
+-[Ali Asim Kazmi](https://github.com/aliasimkazmi)
 - [Anish Mandal](https://github.com/anish1997)
 - [Divya Kumari](https://github.com/Iamdivyak)
 - [21F0rc3](https://github.com/21F0rc3)
