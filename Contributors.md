@@ -1271,6 +1271,7 @@ Subhajit Bera
 - [Shubham Yennamwar](https://github.com/justshubham07)
 - [Balakrishna Sani](https://github.com/sanibalakrishna)
 - [Pratik Rajput](https://github.com/prrajput1199)
+- [Gustavo Gassner](https://github.com/MrGassner)
 - [Jeremy Hutchings](https://github.com/jhutchings99)
 - [Mark Chen](https://github.com/ZeroMarker)
 - [Likith S H](https://github.com/likithkun)
@@ -3773,4 +3774,4 @@ Ayan Das
 - [Tham Ming Jun](https://github.com/ThamMingJun)
 - [Oni Oluwatomiwa](https://github.com/26thavenue)cd first-
 - [Ankit Gupta](https://github.com/ankit-95)
-- [Shubham](https://github.com/SShubham1) 
+- [Shubham](https://github.com/SShubham1)
