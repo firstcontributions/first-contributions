@@ -83,6 +83,7 @@ ahihi tao la duy ne
 - [Deepak Kumar] (https://github.com/develop-build/)
 - [Andy Huang] (https://github.com/asd153866714/)
 - [Mohamed Essam] (https://github.com/mohamed-official/)
+- [Devin Lin] (https://github.com/thisisnotdevin)
 - [Bikal Koju] ()
 - [Marc Aguilar]
 - [Shaireen Alexis Moncada](https://github.com/shaiweeeen)
@@ -3763,3 +3764,4 @@ Ayan Das
 - [Tham Ming Jun](https://github.com/ThamMingJun)
 - [Oni Oluwatomiwa](https://github.com/26thavenue)cd first-
 - [Ankit Gupta](https://github.com/ankit-95)
+- [Shubham](https://github.com/SShubham1) 
