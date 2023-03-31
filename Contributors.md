@@ -365,6 +365,7 @@ Syed
 - [RJBurford](https://github.com/rjburford)
 - [Tomasz Kulczyński](https://github.com/Tkulczynski02)
 - [Anand Kumar] (https://github.com/Whitedevil4648)
+- [Liam Pilson](https://github.com/karmalover-ca)
 - [Shaikh Sohel] (https://github.com/ShaikhSohel1)
 - [Mohammed Saayim] 
 - [John Mulcahy] (https://github.com/jayjay300)
