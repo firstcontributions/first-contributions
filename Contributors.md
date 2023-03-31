@@ -113,6 +113,7 @@ ahihi tao la duy ne
 - [Abhisek Sahoo](https://github.com/abhisek-1221)
 - [Acho1](https://github.com/achotal1)
 - [Thomas Carney](https://github.com/ThomasCarney315)
+- [Sean Mackey](https://github.com/smackey15)
 - [wai](https://github.com/WaiYanMinThaton)
 - [jeromepalayoor](https://github.com/jeromepalayoor)
 - [Akshat Vira](https://github.com/ViraAkshat)
