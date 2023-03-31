@@ -8,6 +8,7 @@
 - [Sahil Wankhade](https://github.com/theghostuchiha)
 -[Nischal Mudennavar](https://github.com/nischalmudennavar)
 - [Savan Patel](https://github.com/SavanAghera)
+- [Ankit Verma] (https://github.com/ankitverma10203)
 - [Bojidar Vladimirov](https://github.com/BojkaV)
 - [Noam Levi](https://github.com/N0amLevi)
 - [Philip Nguyen](https://github.com/pn-code)
