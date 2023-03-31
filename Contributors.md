@@ -3742,3 +3742,4 @@ Ayan Das
 - [Fire Sword Knight](https://github.com/FireSwordKnight)
 - [Karthik Kamineni](https://github.com/KarthikKamineni)
 - [Mahfujur Musfique](https://github.com/musfique113)
+- [Daniel Xu](https://github.com/Aspectsides)
