@@ -2025,6 +2025,7 @@ Rishabh Pandey
 - [Ermiyas Dagnachew](https://github.com/jeremy-daa)
 - [Jair Oliveira](https://github.com/ceifeirocv)
 - [Masih Karimi](https://github.com/MasihKarimi)
+- [Rohit Patil] (https://github.com/Roiit2513)
 - [Aster Fung](https://github.com/aster-fung)
 - [Gabriel Waegner](https://github.com/Gwaegs)
 - [Pray Raskapoorwala]@DevSocPI
