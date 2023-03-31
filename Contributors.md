@@ -1,6 +1,7 @@
    # Contributors
 <!-- prettier-ignore-start -->
 - [Alejandro Pedemonte](https://github.com/ademondev)
+-[Uday Patel](https://github.com/Uday2902)
 - [Pratik Ramteke](https://github.com/pratikramteke)
 -[Ray Sandford]
 - [Om Dange](https://github.com/ommeleven)
