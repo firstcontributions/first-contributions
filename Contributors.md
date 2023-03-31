@@ -41,6 +41,7 @@
 - [Rufaida Khan](https://github.com/rufaida99-k)
 - [Shaquib Khan] (https://github.com/Shaquibcode01)
 - [Pavan Mlaviya](https://github.com/Pavan-Malviya)
+- [DJ Nardone](https://github.com/DJNardone)
 - [Muhammad Shehryar] (https://github.com/Shehryarssj)
 - [K B Gourav Rajhans] (https://github.com/kbgouravrajhans)
 - [crocs-in-socks] (https://github.com/crocs-in-socks)
