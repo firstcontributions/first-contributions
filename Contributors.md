@@ -21,6 +21,7 @@
 - [Faheem Hassan] (https://github.com/faheemhssn)
 - [Fernando J Santos] (https://github.com/fjose90)
 - [Sreeharsha Raveendra] (https://github.com/Sreeharsha98)
+- [Konstantinos Telkis] (https://github.com/kontelk) 
 - [Allyson Smith] (https://github.com/allyson-s-code)
 - [Nikhil Mimroth] (https://github.com/Nikhil667)
 - [Harsh Rajput] (https://github.com/harsh-rajput27)
