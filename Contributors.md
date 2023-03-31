@@ -818,6 +818,7 @@ Arjun Palathinkara
 - Niall Cunningham
 - [Akshay Jagiasi]
 - [Ada Lam]
+- [Mont]
 - [Exavier Frost]]
 - [Martin Kozár](https://github.com/MartinKjunior)
 - [Harshita Raghu](https://github.com/rnharshee)
