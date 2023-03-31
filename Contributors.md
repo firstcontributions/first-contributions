@@ -13,6 +13,7 @@
 - [Noam Levi](https://github.com/N0amLevi)
 - [Philip Nguyen](https://github.com/pn-code)
 - [HR Naomi](https://github.com/hrnaomi)
+- [Yifei Zhang](https://github.com/yifei-zhhhh)
 -[Harsh Singh] (https://github.com/HARSH03037)
 - [Bassem Dimassi] (https://github.com/dimassibassem)
 - [Ali Belarouci] (https://github.com/AliBelarouci)
