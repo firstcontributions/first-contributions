@@ -374,6 +374,7 @@ Syed
   [Taha Khan]
 - [Dylan Watson] (https://github.com/djwat228)
 - [Oddballlnner] (https://github.com/Oddballlnner)
+- [Mauricio](https://github.com/mMartinez00)
 - [UmerrAli] (https://github.com/UmerrAli)
 - [Kobby-Jones] (https://github.com/Kobby-Jones)
 - [Abubakr Hisham](https://github.com/abubakr404/)
