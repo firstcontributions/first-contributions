@@ -90,6 +90,7 @@ ahihi tao la duy ne
 - [Subha Mishra](https://github.com/SubhaMishra1998)
 - [Nancy Kasaudhan](https://github.com/nancyKasaudhan20)
 - [Chana Raveh](https://github.com/craveh)
+- [Nadine Jackson] (https://github.com/nadinejackson1)
 - [Vedansh Chaturvedi](https://github.com/vedansh2c)
 - [Adán Estévez](https://github.com/rafacovez)
 [ZeinebGuellouz] (https://github.com/ZeinebGuellouz)
