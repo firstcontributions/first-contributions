@@ -102,6 +102,7 @@ ahihi tao la duy ne
 - [Brendan Costello] (https://github.com/BrendanCostello)
 - [Cosmic Wolf](https://github.com/ACosmicWolf)
 - [Tiantian Li](https://github.com/Arcohol)
+- [Nadine Jackson] (https://github.com/nadinejackson1)
 - [Abhisek Sahoo](https://github.com/abhisek-1221)
 - [Acho1](https://github.com/achotal1)
 - [Thomas Carney](https://github.com/ThomasCarney315)
