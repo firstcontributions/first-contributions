@@ -611,6 +611,7 @@ Adwai
 - [Leah](https://github.com/leahjia)
 - [Harshit Jain](https://github.com/Harshit28j)
 - [Alex Smith] (https://github.com/alexsmithdev)
+- [Rachit Patial] (https://github.com/rachit-patial)
 - [Gauri]
 - [Poorva Patidar] (https://github.com/poorva-patidar)
 - [Joaquin](https://github.com/Hoakin24)
