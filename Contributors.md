@@ -3590,7 +3590,6 @@ Ayan Das
 - [jeremie.wav](https://github.com/https://github.com/jeremieemk/)
 - [szj](https://github.com/szj-coder)
 - [DreemurDat] (https://github.com/dreemurgithub)
-- [idanref] (https://github.com/idanref)
 - [aaronflores92] (https://github.com/aaronflores92)
 - [RubelSaver] (https://github.com/RubelSaver)
 - [Nadya Sv] (https://github.com/nadsv)
