@@ -3804,3 +3804,4 @@ Ayan Das
 - [Fábián Varga](https://github.com/br0kenpixel)
 - Shaviz Soudagar
 - [Abisa Osei-Amankwah] (https://github.com/AOSEI1001)
+- [Irfan Thomson](https://github.com/IrfanThomson)
