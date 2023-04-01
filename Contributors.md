@@ -290,6 +290,7 @@ Hariharakrishnan (https://github.com/hariCoder2k)
 - [Felix](https://github.com/felixnathony03)
 - [Narpat Aanjana](https://github.com/NarpatAanjana)
 - [craigardy]
+  [Georgiaax](https://github.com/GeorgiaaX)
 - [lilfra] (https://github.com/lilfra)
 - [Bikcrombiswas](https://github.com/BikcromBiswas)
 - [sallanz77]
