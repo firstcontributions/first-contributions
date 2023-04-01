@@ -5,6 +5,7 @@
 - [Pratik Ramteke](https://github.com/pratikramteke)
 -[Ray Sandford]
 - [Om Dange](https://github.com/ommeleven)
+- [Sanskar Agrawal]
 - [Vittorio Halfon] (https://github.com/vittoriohalfon)
 - [Aditya Verma](https://github.com/1av22)
 - [Sahil Wankhade](https://github.com/theghostuchiha)
