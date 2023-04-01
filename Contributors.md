@@ -2799,6 +2799,7 @@ Rishabh Pandey
 - [Chandra Kiran](https://github.com/chandra-kiran1)
 - [Aryan Thakore](https://github.com/Aryan1982)
 - [Hamza Nehme](https://github.com/hnehme99)
+- [vanagas11](https://github.com/vanagas11) 
 - [Rucha @DevSocPI]
 - [Chris D](https://github.com/nesdev85)
 - [Hippolyte Thomas](https://github.com/hippothomas)
