@@ -47,6 +47,7 @@ Hi this shubham making my first contribution ...
 - [UnderscoreEX] (https://github.com/UndrscoreEX)
 - [itsraretoseeit] (https://github.com/itsraretoseeit)
 - [Jesus Montoya] (https://github.com/jmontoyac)
+- [Marc Morlá Isern] (https://github.com/maaarcmorla)
 - [Yashwin Nagudolla] (https://github.com/yashwinmcvv)
 - Biplob Karmakar (https://github.com/biplobkarmakar)
 - [Sahil Verma] (https://github.com/verma25s)
