@@ -1,6 +1,7 @@
    # Contributors
 <!-- prettier-ignore-start -->
 - [Ishan Dutta](https://github.com/ishandutta0098)
+- [Anup Dhoble](https://github.com//anupdhoble)
 - [Mukesh Kenwat](https://github.com/MukeshKenwat)
 - [Alejandro Pedemonte](https://github.com/ademondev)
 -[Uday Patel](https://github.com/Uday2902)
