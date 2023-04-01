@@ -6,6 +6,9 @@
 -[Ray Sandford]
 - [Om Dange](https://github.com/ommeleven)
 - [Vittorio Halfon] (https://github.com/vittoriohalfon)
+
+-[Dev Raj Verma](https://github.com/DevRajVerma)
+
 - [Aditya Verma](https://github.com/1av22)
 - [Sahil Wankhade](https://github.com/theghostuchiha)
 -[Nischal Mudennavar](https://github.com/nischalmudennavar)
