@@ -3564,6 +3564,7 @@ Ayan Das
 - [kc-wilp](https://github.com/kc-wilp)
 - [Hao-Jung Chen](https://github.com/haojungc)
 - [melethron](https://github.com/melethron)
+- [Marcelo Gitelman] https://github.com/gitelmanmarcelo
 - [Armstrong-Wechorkowski](https://github.com/wechorkowski)
 - [SaDi-BRo](https://github.com/SaDi-BRo)
 - [jeremie.wav](https://github.com/https://github.com/jeremieemk/)
