@@ -2001,6 +2001,7 @@ Rishabh Pandey
 - [Alex Zhao](https://github.com/zyunfeng)
 - [Brokgar] (<https://github.com/Brokgar/>)
 - [UltraViolet33](https://github.com/UltraViolet33)
+- [Michael Spinks](https://github.com/mikespinks0401)
 - [Gregory John](https://github.com/GregLJ)
 - [Pridhi Grag](https:/github/com/pridhigarg369)
 - [Aimee Jennings](https://github.com/CraftyDemonite)
