@@ -193,6 +193,7 @@ ahihi tao la duy ne
 - Muhammad Bilal (https://github.com/YunoGasasi9862)
 - [Arslan Jan Soomro] (http://github.com/arslan-soomro)
 - [Kamlesh Gehlot] (https://github.com/kamlesh-gehlot)
+- [Theo] (https://github.com/theojl6)
 - [Krishna Deepak] (https://github.com/KDcoder21)
 - [William Haywood] (https://github.com/Whaywood98)
 - [Nyukeit](https://github.com/nyukeit)
