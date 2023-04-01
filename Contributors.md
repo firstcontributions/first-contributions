@@ -1042,6 +1042,7 @@ Joni
 - [Angelos Tzortzis](https://github.com/SneakyPlayerOne)
 - [John Suman](https://github.com/kitsche)
 - [Ese Monday](https://github.com/ESE-MONDAY)
+- [Nicole](https://github.com/nicole440)
 - [Andrew Weng](https://github.com/amweng)
 - [Ragnhild Marie Knudsen](https://github.com/rm-sk)
 - [Konradical](https://github.com/Soundwave0)
