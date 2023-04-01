@@ -2739,6 +2739,7 @@ Rishabh Pandey
 - [youngjun1227](https://github.com/youngjun1227)
 - [Ankit Gupta](https://github.com/Ankit-Gupta0)
 - [Vinci Liu](https://github.com/vinciliu30)
+- [Veena P D](https://github.com/VeenaPD)
 - [Jana Schmidberger](https://github.com/janasberger)
 - [Digvijay Gujjarlapudi](https://github.com/digvijaysai29)
 - [William Larsen](https://github.com/thewildwilli)
