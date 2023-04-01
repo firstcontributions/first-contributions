@@ -1,5 +1,6 @@
    # Contributors
 <!-- prettier-ignore-start -->
+- [Ishan Dutta](https://github.com/ishandutta0098)
 - [Alejandro Pedemonte](https://github.com/ademondev)
 -[Uday Patel](https://github.com/Uday2902)
 - [Pratik Ramteke](https://github.com/pratikramteke)
