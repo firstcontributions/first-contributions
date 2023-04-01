@@ -56,6 +56,7 @@ Hi this shubham making my first contribution ...
 - [André Florentin](https://github.com/Flodreey)
 - [Chaithra Reddy](https://github.com/chaithra3007)
 - [Rufaida Khan](https://github.com/rufaida99-k)
+- [Christopher Jin](https://github.com/IntelliJinceTech)
 - [Shaquib Khan] (https://github.com/Shaquibcode01)
 - [Pavan Mlaviya](https://github.com/Pavan-Malviya)
 - [DJ Nardone](https://github.com/DJNardone)
