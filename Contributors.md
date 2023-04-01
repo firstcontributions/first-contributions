@@ -1147,6 +1147,7 @@ Subhajit Bera
 - [Michaela Svancarova] (https://github.com/mysakli)
 - [Adriana Bertrand](https://github.com/abeph00)
 - [Sahil Shaikh](https://github.com/Shaky-Sahil)
+- [Martin Trenkov](https://github.com/Marto19)
 - [Samuel K. Addison](https://github.com/SamAddy)
 - [Krishna Sarathi Ghosh](https://github.com/KrishnaTheCoder756)
 - [Saiprakash Shet] (https://github.com/saiprakash2)
