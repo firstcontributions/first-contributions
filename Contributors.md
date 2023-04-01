@@ -514,6 +514,7 @@ Adwai
 - [James Smead] (https://github.com/jsmead39)
 - [Riley Livingston] (https://github.com/Riley-livingston)
 - [Quentin Ng] (https://github.com/kwantaing)
+- [Stephen Mather] (https://github.com/hippodrom)
 - [Emily Lubkert] (https://github.com/emilylubkert)
   [Shivam Tyagi] (https://github.com/Shivam-0407)
 - [Lauris Macans] (https://github.com/lauriselvijs)
