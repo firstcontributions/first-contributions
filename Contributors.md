@@ -3806,4 +3806,5 @@ Ayan Das
 - Shaviz Soudagar
 - [Abisa Osei-Amankwah] (https://github.com/AOSEI1001)
 - [Irfan Thomson](https://github.com/IrfanThomson)
+- [Adam Vickerman](https://github.com/Messier46)
 - mycontribute
