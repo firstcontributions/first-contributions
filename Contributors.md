@@ -2492,6 +2492,7 @@ Rishabh Pandey
 - [JSalinas](https://github.com/javier-salinas)
 - [Davies Jeffrey](https://github.com/djokhar05)
 - [Hailey Steineke](https://github.com/hdsteineke)
+- [Abishek Jayan](https://github.com/Abishek-Jayan)
 - [Abishek Reddy](https://github.com/Abishek-Reddy)
 - [Sahil Wankhade](https://github.com/ArcheR1901)
 - [Steve Marklow](https://github.com/smarklow)
