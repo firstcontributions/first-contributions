@@ -1,4 +1,4 @@
-   # Contributors
+   # Contributors 
 <!-- prettier-ignore-start -->
 - [Alejandro Pedemonte](https://github.com/ademondev)
 -[Uday Patel](https://github.com/Uday2902)
@@ -10,6 +10,7 @@ Hi this shubham making my first contribution ...
 - [Vittorio Halfon] (https://github.com/vittoriohalfon)
 - [Aditya Verma](https://github.com/1av22)
 - [Sahil Wankhade](https://github.com/theghostuchiha)
+- [Shadan Hussain](https://github.com/
 -[Nischal Mudennavar](https://github.com/nischalmudennavar)
 - [Savan Patel](https://github.com/SavanAghera)
 - [Ankit Verma] (https://github.com/ankitverma10203)
