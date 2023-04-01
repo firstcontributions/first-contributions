@@ -3781,3 +3781,4 @@ Ayan Das
 - [Ankit Gupta](https://github.com/ankit-95)
 - [Thiflan Silmi Kaffah](https://github.com/remainhumble)
 - [Shubham](https://github.com/SShubham1)
+- [Fábián Varga](https://github.com/br0kenpixel)
