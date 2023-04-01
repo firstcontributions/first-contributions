@@ -18,6 +18,7 @@ Hi this shubham making my first contribution ...
 -[Nischal Mudennavar](https://github.com/nischalmudennavar)
 - [Savan Patel](https://github.com/SavanAghera)
 - [Ankit Verma] (https://github.com/ankitverma10203)
+- [Kin Leon Zinzombe] (https://github.com/zinzombe-kin)
 - [Bojidar Vladimirov](https://github.com/BojkaV)
 - [Arpitha DV](https://github.com/krithidv/first-contributions)
 - [Iredox10](https://github.com/iredox10)
