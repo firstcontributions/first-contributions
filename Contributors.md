@@ -91,6 +91,7 @@ ahihi tao la duy ne
 - [Archana Palepu](https://github.com/archanaseru)
 - [Shubham Amande](https://github.com/ShubhamA99)
   Kyra Jones
+- [Aditya Kumar](https://github.com/adityaKrModak)
 - [Vivek N R] (https://github.com/kickyvivi)   
 - [Shreeji Saraogi](https://github.com/shreesaraogi)
 - [Clément Maisons] (https://github.com/ClementMaisons)
