@@ -24,6 +24,7 @@ Hi this shubham making my first contribution ...
 - [Varrel Tantio](https://github.com/varreltantio)
 - [Harsh Singh](https://github.com/HARSH03037)
 - [Greyson Emery](https://github.com/greysonemery)
+- [Aditya Kumar Gupta](https://github.com/Adi8712)
 - [Bassem Dimassi] (https://github.com/dimassibassem)
 - [Ali Belarouci] (https://github.com/AliBelarouci)
 - [Faheem Hassan] (https://github.com/faheemhssn)
