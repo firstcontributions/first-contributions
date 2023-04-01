@@ -15,7 +15,7 @@
 - [Noam Levi](https://github.com/N0amLevi)
 - [Philip Nguyen](https://github.com/pn-code)
 - [Eddie Menefee](https://github.com/eddiemMenefee)
-- [Evan Mozumder](https://github.com/evanmozumder)
+- [Evan Mozumder](https://github.com/evanmozumder/)
 - [HR Naomi](https://github.com/hrnaomi)
 - [Yifei Zhang](https://github.com/yifei-zhhhh)
 - [Flamiing](https://github.com/Flamiing)
