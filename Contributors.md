@@ -755,6 +755,7 @@ JUnaid jamshed from nellikkuth
   [Mike Beckemeyer](https://github.com/mikeybmdb32)
   [Marcotulio](https://github.com/MarcotulioCA)
 - [Patrick Murimi](https://github.com/grand-rick001)
+- [Leandro Mineti](https://github.com/leandromineti)
 - [Meitavelo Kayofa](https://github.com/primeking47)
 - [Dickson Wachai](https://github.com/DicksonWachai)
 - [Humancannonball](https://github.com/Humancannonball)
