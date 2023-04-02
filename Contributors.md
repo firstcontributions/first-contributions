@@ -1,5 +1,6 @@
    # Contributors
 <!-- prettier-ignore-start -->
+- [Andrew Maged](https://github.com/AndrewMaged814)
 - [Ishan Dutta](https://github.com/ishandutta0098)
 - [Robin Kempen](https://github.com/Robinho1997)
 - [Anup Dhoble](https://github.com//anupdhoble)
