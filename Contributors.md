@@ -3570,6 +3570,7 @@ Ayan Das
 - [ayasono](https://github.com/Ayasono)
 - [Abdul Moiz Lakhani](https://github.com/abdulmoizlakhani)
 - [Xemio](https://github.com/xemioxd)
+- [izkizk8](https://github.com/izkizk8)
 - [7exx](https://github.com/7exx)
 - [Brais Lorenzo] (https://github.com/Brattto)
 - [rakesh-kumar](https://github.com/Rakesh709)
