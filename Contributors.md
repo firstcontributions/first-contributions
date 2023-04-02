@@ -664,6 +664,7 @@ Adwai
 - [Sarthak Dobriyal](https://github.com/high-prog)
 - [Genta Miyao](https://github.com/miyaogenta)
 - [Koh Kai Yit] (https://https://github.com/kaiyitkoh)
+- [💀oldsku11💀](https://github.com/oldsku11)
 - [Rocko] (https://github.com/irocko)
 - [tyler le](https://github.com/tyler-le)
 - [Dlunhappy226] (https://github.com/Dlunhappy226)
