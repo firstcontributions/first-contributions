@@ -3872,6 +3872,7 @@ Ayan Das
 - [Lucas Enoki](https://github.com/enokiLucas)
 - [Vaibhav Singhal](https://github.com/vaibhav345-singhal)
 - [Fire Sword Knight](https://github.com/FireSwordKnight)
+- [Kristopher Kahn](https://github.com/krkahn)
 - [Karthik Kamineni](https://github.com/KarthikKamineni)
 - [Mahfujur Musfique](https://github.com/musfique113)
 - [Daniel Xu](https://github.com/Aspectsides)
