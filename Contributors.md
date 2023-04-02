@@ -764,6 +764,7 @@ Arjun Palathinkara
 - [PantherBoop](https://github.com/PantherBoop)
 - [Sushaanth-Suresh-Kumar](https://github.com/Sushaanth-Suresh-Kumar/)
 - [Ali Rasouli]
+- [Nafees Ahmed](https://github.com/NAFEE5Ahmed)
 - [Abhijit More]
 - [Sinjin John]
 - [Vishnu Bansal](https://github.com/vishnubansal001)
