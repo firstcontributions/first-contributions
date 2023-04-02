@@ -882,6 +882,7 @@ Arjun Palathinkara
 - [Megan P]
 - [Bryon Fields](https://github.com/bfields0805)
 - [Kritika]
+- [ys0-0](https://github.com/ys0-0)
 - [Edwin Jaico-Berg](https://github.com/EdwinJaico-Berg)
 - [Andrew Sebastian](https://github.com/highergear)
 - [Netavya Kapoor](https://github.com/netavya2003)
