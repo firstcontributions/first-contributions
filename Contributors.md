@@ -1007,6 +1007,7 @@ Arjun Palathinkara
 - [Canvas02](https://github.com/Canvas02)
 venkateshpunganur
 - [Ankit Saurabh](https://github.com/justacsguy/)
+- ***Noah Statton*** https://github.com/Noahs212
 - [Akilesh Mahesh](https://github.com/Akilesh09)
 - [Jesse Ekoh-Ordan](https://github.com/jesseekoh)
 - [Kane Davidson](https://github.com/kcd1001)
