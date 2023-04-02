@@ -716,6 +716,7 @@ JUnaid jamshed from nellikkuth
 - [Zdenek Petracek] (https://github.com/PH03NiX9) 
 - [Joey Waner] (https://github.com/TheWoolyMammoth)
 - [Jonathan Potter](https://github.com/JonathanDPotter)
+- [Chari Altagracia](https://github.com/LaAltagracia)
 - [Natnael Afework](https://github.com/Nathaniel-af)
 - [Onyedikachi Eni](https://github.com/KindEni)
 - [ahguanz](https://github.com/ahguanz)
