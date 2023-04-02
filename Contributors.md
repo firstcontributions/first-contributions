@@ -302,6 +302,7 @@ Hariharakrishnan (https://github.com/hariCoder2k)
 - [Felix](https://github.com/felixanthony03)
 - [Felix](https://github.com/felixanthony03)
 - [Erick](https://github.com/IamMuuo)
+- [Sophie]
 - [Felix](https://github.com/felixnathony03)
 - [Narpat Aanjana](https://github.com/NarpatAanjana)
 - [craigardy]
