@@ -638,6 +638,7 @@ Adwai
 - [Genta Miyao](https://github.com/miyaogenta)
 - [Koh Kai Yit] (https://https://github.com/kaiyitkoh)
 - [Rocko] (https://github.com/irocko)
+- [tyler le](https://github.com/tyler-le)
 - [Dlunhappy226] (https://github.com/Dlunhappy226)
 - [Malav Shah](https://github.com/malavshah9)
 - [Chaitanya Dange](https://github.com/chaitanya-dange)
