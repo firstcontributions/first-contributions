@@ -612,6 +612,7 @@ Adwai
 - [Omid Javedan](https://github.com/Omid-Javedan)
 - [Anil] (https://github.com/anic1618)
 - [Stefan Behling](https://github.com/StefanBeh)
+- [Thiago Ribeiro](https://github.com/trcosta97)
 - [Eshan Shukla] (https://github.com/Eshan-shukla)
 - [Ogbuluijah Owaji-inyagham] (https://github.com/Ogbus)
 - [Bilal Akhtar] (https://github.com/bilalakhter)
@@ -1919,6 +1920,7 @@ Rishabh Pandey
 - [Arnav Joshi] (https://githuyb.com/TheOfficialAJ)
 - [Ravi K](https://github.com/jadeleafmoon)
 - [Noopur Sharma@DevsocPI]
+- [Thiago Ribeiro](https://github.com/trcosta97)
 - [Mohamed Abidar](https://github.com/abidarm)
 - [Antonio Narra](https://github.com/AntonioNarra)
 - [Sumit Mundhe](https://github.com/Sumit-Mundhe)
