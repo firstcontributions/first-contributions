@@ -2136,6 +2136,7 @@ Rishabh Pandey
 - [Manish GS Parmar@DevSocPI](https://github.com/ManishWho)
 - [Javier Morales](https://github.com/jamg1906)
 - [Sreeraj Chintham](https://github.com/sreerajchintham)
+- [C3rooks] (https://github.com/c3rooks)
 - [Rezgui Med Aziz](https://github.com/medAzizRezgui)
 - [Aldrin Gordon](https://github.com/aldringordon)
 - [Henrikas Budrys](https://github.com/hbportfolio)
