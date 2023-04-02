@@ -56,6 +56,7 @@ Hi  ..this  is shubham making my first contribution ...
 - [Marc Morlá Isern] (https://github.com/maaarcmorla)
 - [Yashwin Nagudolla] (https://github.com/yashwinmcvv)
 - Biplob Karmakar (https://github.com/biplobkarmakar)
+- [Adela Solorio] (https://github.com/AdelaSolorio)
 - [Sahil Verma] (https://github.com/verma25s)
 - [vansh nawander](https://github.com/vanshnawander)
 - [André Florentin](https://github.com/Flodreey)
