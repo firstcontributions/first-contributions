@@ -1498,6 +1498,7 @@ Subhajit Bera
 - [Kajeli](https://github.com/kajeli7/)
 - [James T](https://github.com/tharitRT)
 - Nikhil Tamboli @DevSoc
+- [Ribhu Banerjee](https://github.com/RoboDevelopX)
 - [Jack Abler](https://github.com/imp-anonagon)
 - Javier Sanchez [@fimovol](https://github.com/fimovol)
 - Aniah Moses (https://github.com/Moschindinho)
