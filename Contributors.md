@@ -24,6 +24,7 @@ Hi  ..this  is shubham making my first contribution ...
 - [Iredox10](https://github.com/iredox10)
 - [Noam Levi](https://github.com/N0amLevi)
 - [Philip Nguyen](https://github.com/pn-code)
+- [Anand S](https://github.com/anandxs)
 - [Eddie Menefee](https://github.com/eddiemMenefee)
 - [HR Naomi](https://github.com/hrnaomi)
 - [Yifei Zhang](https://github.com/yifei-zhhhh)
