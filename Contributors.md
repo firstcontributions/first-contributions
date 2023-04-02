@@ -14,6 +14,7 @@ Hi  ..this  is shubham making my first contribution ...
 - [Niklesh](https://github.com/nikleshclark)
 - [Vittorio Halfon] (https://github.com/vittoriohalfon)
 - [Aditya Verma](https://github.com/1av22)
+- [Kishor Kumar Paroi](https://github.com/kishorkumarparoi)
 - [Sahil Wankhade](https://github.com/theghostuchiha)
 -[Nischal Mudennavar](https://github.com/nischalmudennavar)
 - [Savan Patel](https://github.com/SavanAghera)
