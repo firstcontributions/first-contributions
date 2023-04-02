@@ -1965,6 +1965,8 @@ Rishabh Pandey
 - [viral mishra@DevsocPI](https://github.com/mohameddjebloun)
 - [Akash Ojha](https://github.com/ojhakash)
 - [Vanshagra Rai](https://github.com/VanshagraRai)
+- [Rohit Kumar Mahato]
+(https://github.com/Rohitkr2510/)
 - [Shoaib Akhtar](https://github.com/sk370008)
 - [Divyansh Dabral @DevsocPI]
 - [Pritam Dhara](https://github.com/pritam1813)
