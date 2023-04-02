@@ -10,6 +10,7 @@
 - [Alejandro Pedemonte](https://github.com/ademondev)
 -[Uday Patel](https://github.com/Uday2902)
 - [Pratik Ramteke](https://github.com/pratikramteke)
+-[Raj Kumar 9711](https://github.com/raaz9711)
 -[Ray Sandford]
 Hi  ..this  is shubham making my first contribution ...
 - [Om Dange](https://github.com/ommeleven)
@@ -2632,6 +2633,7 @@ Rishabh Pandey
 - [yash kejriwal@devsocpi]
 - [プレハブ小屋](https://github.com/showa-yojyo)
 - [Danny Bae](https://github.com/danveb)
+- [Nsikak Thomas](https://github.com/sika-007)
 - [Abhishek Nayak](https://github.com/Abhishek2nayak)
 - [Yash Chaphekar@DevsocPI](https://github.com/chaphekar)
 - [Sarthak Patel](https://github.com/sarthakworkspace)
@@ -3552,6 +3554,7 @@ Ayan Das
 - [pranshua7i](https://github.com/pranshua7i)
 - [Opeyemi O.](https://github.com/lekeope)
 - [Star-ho](https://github.com/Star-ho)
+- [Bengisu Duru Goksu](https://github.com/bengisudurugoksu)
 - [SyntaxSavvy](https://github.com/SyntaxSavvy)
 - [mimmydev](https://github.com/mimmydev)
 - [Shadow-Mo](https://github.com/Shadow-Mo)
@@ -3838,6 +3841,7 @@ Ayan Das
 - [Robert Przymus] (https://github.com/prymek74)
 - [Alan Delgado](https://github.com/alandelgado)
 - [cloud6988] (https://github.com/cloud6988)
+- [Delia Barron](https://github.com/DeliaBarron)
 - [crowe099](https://github.com/crowe099)
 - [ekusiadadus](https://github.com/ekusiadadus)
 - [Arkadii Ilinov](https://github.com/ArkadiiIL)
@@ -3847,6 +3851,7 @@ Ayan Das
 - [SANTHOSH MAMIDISETTI](https://github.com/SANTHOSH-MAMIDISETTI)
 - [gagan dwaz](https://github.com/gaganchapa)
 - [Vishal yadav](https://github.com/vishal7738639800)
+- [Zuhair Ahmed](https://github.com/ZuhairTarif)
 - [Zuhair Ahmed](https://github.com/ZuhairTarif)
 - [Avish Porwal](https://github.com/Avish34)
 - [Yunchi Pang](https://github.com/yunchipang)
