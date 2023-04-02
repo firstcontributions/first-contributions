@@ -3779,6 +3779,7 @@ Ayan Das
 - [Stanislav Kruglov](https://github.com/Stas-K-A)
 - [Digbijaya Biswal](https://github.com/digbijaya20)
 - [Tom Leszczynski](https://github.com/TomLeszczynski)
+- [Fuji-P](https://github.com/Fuji-P)
 - [Muditya Raghav](https://github.com/mudityadev)
 - [Ankit Singh](https://github.com/anksh-singh)
 - [Velpar](https://github.com/Velpar-v)
