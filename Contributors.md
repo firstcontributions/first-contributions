@@ -1489,6 +1489,7 @@ Subhajit Bera
 - [Ninad Patil](https://github.com/Ninad-Patil)
 - [Warren Cartwright](https://github.com/guarin1949)`
 - [Jacek Smoter](https://github.com/jackz070)
+- [Mubarak Mayyeri](https://github.com/mubarakmayyeri)
 - [Aashi Jain](https://github.com/aashi-ihsaa)
 - [Matthew Kohn](https://github.com/matthewkohn)
   [Bama Charan Chhandogi](https://github.com/BamaCharanChhandogi)
