@@ -439,7 +439,6 @@ Syed
 - [Aryan Karayi] (https://github.com/aryankarayi)
 -[Siddhant Keshri](https://github.com/quantavoid11)
 - [Ankitjt] (https://github.com/ankitjt)
-- [Rajesh Arora] (https://github.com/rajesharora2801)
   [Matheus]
   franco mau
 - [Anjali] (https://github.com/anjalisgit)
