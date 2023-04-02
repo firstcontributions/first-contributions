@@ -803,6 +803,7 @@ Arjun Palathinkara
 - [vishesh Sharma](https://github.com/Vishesh3569)
 - [Sunil Varma]
 - [Andrew Herring](https://github.com/Likethefish1520)
+- [Matt Davis](https://github.com/TeddyGavi)
 - [Vijay Sheru](https://github.com/vijaysheru)
 - [Dionyssis Antypas] (https://github.com/dantypas3)
 - [Atharva Khole](https://github.com/atharvakhole)
