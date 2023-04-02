@@ -234,6 +234,7 @@ abiodun
 - [shakhnazarov](https://github.com/shakhnazarov)
 - [ingupallignaneswara]
 - [AmitJerochim](https://github.com/AmitJerochim)
+- [soybean15](https://github.com/soybean15)
 - [ymdd1](https://github.com/ymdd1)
 - [Taha Syed] (https://github.com/TahaSyedKhan)
 - [Sunil Pimenta] (https://github.com/sunilpimenta)
