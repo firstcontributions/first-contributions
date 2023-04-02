@@ -16,6 +16,7 @@ Hi  ..this  is shubham making my first contribution ...
 - [Vittorio Halfon] (https://github.com/vittoriohalfon)
 - [Aditya Verma](https://github.com/1av22)
 - [Kishor Kumar Paroi](https://github.com/kishorkumarparoi)
+- [Michał Szalaty](https://github.com/SzalatyM)
 - [Sahil Wankhade](https://github.com/theghostuchiha)
 -[Nischal Mudennavar](https://github.com/nischalmudennavar)
 - [Savan Patel](https://github.com/SavanAghera)
