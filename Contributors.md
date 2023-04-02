@@ -2632,6 +2632,7 @@ Rishabh Pandey
 - [yash kejriwal@devsocpi]
 - [プレハブ小屋](https://github.com/showa-yojyo)
 - [Danny Bae](https://github.com/danveb)
+- [Nsikak Thomas](https://github.com/sika-007)
 - [Abhishek Nayak](https://github.com/Abhishek2nayak)
 - [Yash Chaphekar@DevsocPI](https://github.com/chaphekar)
 - [Sarthak Patel](https://github.com/sarthakworkspace)
