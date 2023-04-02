@@ -2025,6 +2025,7 @@ Rishabh Pandey
 - [Melon98@DevSocPI](https://github.com/melon9829)
 - [latgit](https://github.com/latgit)
 - [David Bello](https://github.com/bellodavid)
+- [Casey Allen](https://github.com/reeet24)
 - [Alex Zhao](https://github.com/zyunfeng)
 - [Brokgar] (<https://github.com/Brokgar/>)
 - [UltraViolet33](https://github.com/UltraViolet33)
