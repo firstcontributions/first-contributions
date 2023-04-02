@@ -36,6 +36,7 @@ Hi  ..this  is shubham making my first contribution ...
 - [Ali Belarouci] (https://github.com/AliBelarouci)
 - [Faheem Hassan] (https://github.com/faheemhssn)
 - [Fernando J Santos] (https://github.com/fjose90)
+- [Evan Mozumder] (https://github.com/evanmozumder)
 - [Anas Ahmad](https://github.com/anasahmd)
 - [Sreeharsha Raveendra] (https://github.com/Sreeharsha98)
 - [Konstantinos Telkis] (https://github.com/kontelk) 
