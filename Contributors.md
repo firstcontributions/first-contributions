@@ -20,6 +20,7 @@ Hi  ..this  is shubham making my first contribution ...
 - [Michał Szalaty](https://github.com/SzalatyM)
 - [Sahil Wankhade](https://github.com/theghostuchiha)
 -[Nischal Mudennavar](https://github.com/nischalmudennavar)
+-[Abdul Hadi](https://github.com/lemmethinkaboutit)
 - [Savan Patel](https://github.com/SavanAghera)
 - [Ankit Verma] (https://github.com/ankitverma10203)
 - [Kin Leon Zinzombe] (https://github.com/zinzombe-kin)
