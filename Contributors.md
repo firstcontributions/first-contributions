@@ -2491,6 +2491,7 @@ Rishabh Pandey
 - [Suraj Patra](https://github.com/Suraj-Patra)
 - [Krishi Dedhia@DevsonIP](https:/github.com/kdrcks)
 - [Dan Saint]
+- [Bruno Milošević](https:/github.com/BrunoMilosevic)
 - [Mallela D. Vinay](https://github.com/MD571)
 - [Mariam Lawal](https://github.com/Maerryham)
 - [ADITI-2003](https://github.com/ADITI-2003)
