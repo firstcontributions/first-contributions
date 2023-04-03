@@ -1,5 +1,6 @@
    # Contributors 
 <!-- prettier-ignore-start -->
+- [Pritse](https://github.com/Pritse)
 - [Andrew Maged](https://github.com/AndrewMaged814)
 - [Sanket Zade](https://github.com/ZSank)
 - [Stanley Tsai](https://github.com/stanley880902)
