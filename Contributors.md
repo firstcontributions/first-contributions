@@ -30,7 +30,7 @@ Hi  ..this  is shubham making my first contribution ...
 - [Vittorio Halfon] (https://github.com/vittoriohalfon)
 - [Ahmad Alkassar] ()
 - [Aahad](https://github.com/Aahad-1526)
-
+- [Shadman Wadith](https://github.com/wadith027)
 -[Dev Raj Verma](https://github.com/DevRajVerma)
 -[Mukesh Mahato](https://github.com/mukeshmahato18)
 - [Aditya Verma](https://github.com/1av22)
