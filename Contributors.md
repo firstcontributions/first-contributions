@@ -1,5 +1,6 @@
    # Contributors 
 <!-- prettier-ignore-start -->
+- [Farhan Khan](https://github.com/BabaYaga1221)
 - [Pritse](https://github.com/Pritse)
 - [Andrew Maged](https://github.com/AndrewMaged814)
 - [Sanket Zade](https://github.com/ZSank)
