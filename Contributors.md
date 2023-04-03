@@ -49,6 +49,7 @@ Hi  ..this  is shubham making my first contribution ...
 - [Iredox10](https://github.com/iredox10)
 - [Noam Levi](https://github.com/N0amLevi)
 - [Philip Nguyen](https://github.com/pn-code)
+- [Cristian Dragoi](https://github.com/cristian5600))
 - [Anand S](https://github.com/anandxs)
 - [Kaleb Armbrust](https://github.com/KalebArmbrust)
 - [Eddie Menefee](https://github.com/eddiemMenefee)
