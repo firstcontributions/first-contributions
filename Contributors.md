@@ -22,6 +22,8 @@ Hi  ..this  is shubham making my first contribution ...
 - [Om Dange](https://github.com/ommeleven)
 - [Sanskar Agrawal]
 - [Antony Sun](https://github.com/antonypauson)
+- [aditya] (https://github.com/Aadii170)
+-  hi there , this is my first contribution on github.
 - [Kiren syed](https://github.com/kirensy)
 - [Ray Enriquez](https://github.com/raycode22)
 - [Niklesh](https://github.com/nikleshclark)
