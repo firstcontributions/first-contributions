@@ -30,7 +30,7 @@ Hi  ..this  is shubham making my first contribution ...
 - [Aahad](https://github.com/Aahad-1526)
 
 -[Dev Raj Verma](https://github.com/DevRajVerma)
-
+- [Pranav K Nayak](https://github,com/pranavknayak)
 - [Aditya Verma](https://github.com/1av22)
 - [Kishor Kumar Paroi](https://github.com/kishorkumarparoi)
 - [Khitab Sing](https://github.com/KhitabSingh)git 
