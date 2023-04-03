@@ -48,6 +48,7 @@ Hi  ..this  is shubham making my first contribution ...
 - [Noam Levi](https://github.com/N0amLevi)
 - [Philip Nguyen](https://github.com/pn-code)
 - [Anand S](https://github.com/anandxs)
+- [Kaleb Armbrust](https://github.com/KalebArmbrust)
 - [Eddie Menefee](https://github.com/eddiemMenefee)
 - [HR Naomi](https://github.com/hrnaomi)
 - [Yifei Zhang](https://github.com/yifei-zhhhh)
