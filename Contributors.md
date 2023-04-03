@@ -51,6 +51,7 @@ Hi  ..this  is shubham making my first contribution ...
 - [Philip Nguyen](https://github.com/pn-code)
 - [Cristian Dragoi](https://github.com/cristian5600))
 - [Anand S](https://github.com/anandxs)
+- [Emmanuel Osademe](https://github.com/EmmanuelOsademe)
 - [Kaleb Armbrust](https://github.com/KalebArmbrust)
 - [Eddie Menefee](https://github.com/eddiemMenefee)
 - [HR Naomi](https://github.com/hrnaomi)
