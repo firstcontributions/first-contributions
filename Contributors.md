@@ -714,6 +714,7 @@ Adwai
 
 - [Kyle Balian](https://github.com/LeetestOfCodes)
 
+- [Aryan Kumar](https://github.com/aryanda1)
 - [GuihVicentini](https://github.com/GuihVicentini)
 - [Janice Thomas](https://github.com/janicethomas)
 - [Chris Park] (https://github.com/cjunkin)
