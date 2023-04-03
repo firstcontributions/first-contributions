@@ -28,6 +28,7 @@ Hi  ..this  is shubham making my first contribution ...
 
 - [Aditya Verma](https://github.com/1av22)
 - [Kishor Kumar Paroi](https://github.com/kishorkumarparoi)
+- [Fernanda Elizalde](https://github.com/mfem442)
 - [Michał Szalaty](https://github.com/SzalatyM)
 - [Sahil Wankhade](https://github.com/theghostuchiha)
 - [Shadan Hussain](https://github.com/
