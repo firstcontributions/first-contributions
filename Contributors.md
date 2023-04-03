@@ -14,7 +14,7 @@
 - [Dan Jennings] (https://github.com/tsdanj)
 - [Olu-Olagbuji Delight](https://github.com/Dheelyte)
 - [Aravindan 🕺🏽](https://github.com/RAravindDS)
-- [KryptoShrimp] (https://link3.to/ferreyros)
+- [KryptoShrimp] (https://link3.to/ferreyros)[rohan]
 - [Anubhav Singh Chandel](https://github.com/AnubhavSinghChandel)
 - [Muhammad Ihtisham Alam Khan] (https://github.com/muhammadIhtishamKhan)
 - Ishita
