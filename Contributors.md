@@ -39,6 +39,7 @@ Hi  ..this  is shubham making my first contribution ...
 - [Kin Leon Zinzombe] (https://github.com/zinzombe-kin)
 - [Bojidar Vladimirov](https://github.com/BojkaV)
 - [Arpitha DV](https://github.com/krithidv/first-contributions)
+- [Kendice Yeung](https://github.com/kendicey)
 - [Iredox10](https://github.com/iredox10)
 - [Noam Levi](https://github.com/N0amLevi)
 - [Philip Nguyen](https://github.com/pn-code)
