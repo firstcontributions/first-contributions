@@ -32,6 +32,7 @@ Hi  ..this  is shubham making my first contribution ...
 - [Aahad](https://github.com/Aahad-1526)
 
 -[Dev Raj Verma](https://github.com/DevRajVerma)
+- [Shadman Wadith](https://github.com/wadith027)
 -[Mukesh Mahato](https://github.com/mukeshmahato18)
 - [Aditya Verma](https://github.com/1av22)
 - [Kishor Kumar Paroi](https://github.com/kishorkumarparoi)
