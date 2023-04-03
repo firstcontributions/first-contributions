@@ -3722,6 +3722,7 @@ Ayan Das
 - [Shashank Garg](https://github.com/Shashankgarg7578)
 - [Aravind Singh](https://github.com/aravindsingh08)
 - [Tushar Goel](https://github.com/tusharG1371)
+- [Daniel Gallo](https://github.com/danielphilip12)
 - [tom8213](https://github.com/tom8213)
 - [nithishvaithya](https://github.com/nithishvaithya)
 - [ysf k](https://github.com/ysf)
