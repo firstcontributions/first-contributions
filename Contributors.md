@@ -3906,3 +3906,4 @@ Ayan Das
 - [Aledb] (https://github.com/alexdb97)
 - [Aaroodh] (https://github.com/Aaroodh)
 - [wefantasy] (https://github.com/wefantasy)
+- [Inderpreet Singh] (https://github.com/inderpreet001)
