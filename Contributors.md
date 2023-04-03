@@ -139,6 +139,7 @@ ahihi tao la duy ne
 - [Devin Lin] (https://github.com/thisisnotdevin)
 - [Bikal Koju] ()
 - [Marc Aguilar]
+- [goyoff] (https://github.com/goyo-itcgae)
 - [Shaireen Alexis Moncada](https://github.com/shaiweeeen)
 - [Joshua Maciel](https://github.com/JoshM-Yoru)
 - [Matthew Wang](https://github.com/mw3071)
