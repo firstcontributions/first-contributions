@@ -1,2 +1,3 @@
 #this is comment
-print("Thank")
+print("Hello!")
+print("Thanks")
