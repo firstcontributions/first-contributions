@@ -963,6 +963,7 @@ Arjun Palathinkara
 - [Panth Shah](https://github.com/Panth1823)
 - [Gaurav-Chnadwani](https://github.com/GauravChandwani12)
 - [Aditya Rajkumar](https://github.com/adityarfw)
+- [Rishi](https://github.com/rishikesh-107/)
 - [Ben](https://github.com/benjaminsmeyer)
 - [Sumit Shinde](https://github.com/sumitshinde-84)
 - [Tony Coldashian](https://github.com/tonycoldashian)
