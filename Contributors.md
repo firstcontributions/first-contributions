@@ -1557,6 +1557,7 @@ Subhajit Bera
 - [Felix Lai](https://github.com/felixlaii)
 - [Samjaza](https://github.com/samjazaaa)
 - [Joe Robbins](https://github.com/Jrobbins973)
+- [Arian Xhumkar] (https://github.com/ArianXh)
 - [Ninad Patil](https://github.com/Ninad-Patil)
 - [Warren Cartwright](https://github.com/guarin1949)`
 - [Jacek Smoter](https://github.com/jackz070)
