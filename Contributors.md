@@ -13,6 +13,7 @@
 - [Anup Dhoble](https://github.com//anupdhoble)
 - [Marc Ty](https://github.com/MarcT)
 - [Sahil Mali] (https://github.com/Sxhil296)
+- [Shaurya Gupta] (https://github.com/Shaurya10101)
 - [Nikhil Kulkarni](https://nikhilkulkarni1755.github.io/)
 - [Mukesh Kenwat](https://github.com/MukeshKenwat)
 - [Ritesh Zode](https://github.com/riteshzode)
