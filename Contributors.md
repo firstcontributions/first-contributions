@@ -672,6 +672,7 @@ Adwai
 - [Mugunth](https://github.com/Mugunth007)
 - [Dharmateja176](https://github.com/Dharmateja176)
 - [Sohyb01](https://github.com/Sohyb01)
+- [Joel Lozano](https://github.com/joel-lozano)
 - [ToAly](https://github.com/825437313)
 - [FunkyCreep](https://github.com/francoisbillet)
 - [Lanzhu](https://github.com/notLanzhu)
