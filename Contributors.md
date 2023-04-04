@@ -36,6 +36,7 @@ Hi  ..this  is shubham making my first contribution ...
 - [Niklesh](https://github.com/nikleshclark)
 - [Vittorio Halfon] (https://github.com/vittoriohalfon)
 - [Ahmad Alkassar] ()
+- [Simran Arora] ()
 - [Aahad](https://github.com/Aahad-1526)
 
 -[Dev Raj Verma](https://github.com/DevRajVerma)
