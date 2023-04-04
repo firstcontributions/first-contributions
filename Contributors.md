@@ -36,7 +36,7 @@ Hi  ..this  is shubham making my first contribution ...
 - [Ahmad Alkassar] ()
 - [Aahad](https://github.com/Aahad-1526)
 - [Suman Parui](https://github.com/suman897)
--[Dev Raj Verma](https://github.com/DevRajVerma)
+- [Dev Raj Verma](https://github.com/DevRajVerma)
 - [Shadman Wadith](https://github.com/wadith027)
 -[Mukesh Mahato](https://github.com/mukeshmahato18)
 - [Aditya Verma](https://github.com/1av22)
