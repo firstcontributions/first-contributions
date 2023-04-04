@@ -3857,6 +3857,7 @@ Ayan Das
 - [Sarthak Jain](https://github.com/sarthakj0304)
 - [Kaka Nguyen](https://github.com/duccadhv1)
 - [Nandini]
+- [Manosatvik](https://github.com/manosatvikm)
 - [tris203]
 - [mlauxyz](https://github.com/mlauxyz)
 - [jackgai](https://github.com/jackgai)
