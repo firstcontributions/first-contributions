@@ -1649,6 +1649,7 @@ Subhajit Bera
 - [Parth Shah@DevsocPI]
 - aditya bagla
 - Reetish Rath
+- [JP](https://github.com/J-P-Walter)
 - Dan
 - [Kenta Mizuno](https://github.com/mizu0715)
 - [Ali Gorji](https://github.com/gorjiali)
