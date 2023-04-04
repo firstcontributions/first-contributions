@@ -1,5 +1,7 @@
    # Contributors 
 <!-- prettier-ignore-start -->
+- [abhivarat tyagi](https://github.com/abhi12tyagi)
+  (here my fist contribution)
 - [Farhan Khan](https://github.com/BabaYaga1221)
 - [Pritse](https://github.com/Pritse)
 - [Andrew Maged](https://github.com/AndrewMaged814)
