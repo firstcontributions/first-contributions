@@ -363,6 +363,7 @@ Hariharakrishnan (https://github.com/hariCoder2k)
 - [Erick](https://github.com/IamMuuo)
 - [Sophie]
 - [Felix](https://github.com/felixnathony03)
+- [Maxis](https://github.com/maxijaxi)
 - [Narpat Aanjana](https://github.com/NarpatAanjana)
 - [craigardy]
   [Georgiaax](https://github.com/GeorgiaaX)
