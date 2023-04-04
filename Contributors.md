@@ -53,6 +53,7 @@ Hi  ..this  is shubham making my first contribution ...
 - [Gabriel Johnson] (http://github.com/GabrielRJn)
 - [Aghilas Skawronski] (https://github.com/askawron)
 - [Alejandro Mendoza] (https://github.com/alemendoza-v)
+- [Peeyush Das] (https://github.com/PeeyushDas)
 - [Aditya Narayan Dalapati] (https://github.com/AdityaND2005)
 - [Alvin Yoga Kesuma] (https://github.com/alvinyogakesuma)
 - [Modupe Akanni](https://github.com/Goketech)
