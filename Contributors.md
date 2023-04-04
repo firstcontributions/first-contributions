@@ -8,6 +8,7 @@
 - [Benjamin Rifleman](https://github.com/rifleben)
 - [Prasannakumar Jha] (https://github.com/Prasannakumar9399)
 - NOELL BIJU MICHAEL
+- [Dart reider](https://github.com/Dartreidar)
 - [Stanley Tsai](https://github.com/stanley880902)
 - [Ishan Dutta](https://github.com/ishandutta0098)
 - [Robin Kempen](https://github.com/Robinho1997)
