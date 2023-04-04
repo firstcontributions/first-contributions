@@ -163,6 +163,7 @@ ahihi tao la duy ne
 - [Adán Estévez](https://github.com/rafacovez)
 [ZeinebGuellouz] (https://github.com/ZeinebGuellouz)
 - [Hubert Rutkowski](https://github.com/hrutkowski)
+- [Juan Palacios](https://github.com/Somarfagell)
 - [GBR Pratap Singh](https://github.com/GBR_Pratap_Singh)
 - [Thomas Vipin Koshy](https://github.com/Vipinkthomas)
 - [Daniel Eggmeier](https://github.com/DanielEggm)
