@@ -1,5 +1,6 @@
    # Contributors 
 <!-- prettier-ignore-start -->
+- [Abhimanyu Patidar](https://github.com/AbhimanyuPatidar)
 - [Farhan Khan](https://github.com/BabaYaga1221)
 - [Ayusman sahoo](https://github.com/ayushh9)
 - [Pritse](https://github.com/Pritse)
