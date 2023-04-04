@@ -19,7 +19,6 @@ Hi  ..this  is shubham making my first contribution ...
 - [Om Dange](https://github.com/ommeleven)
 - [Sanskar Agrawal]
 - [Antony Sun](https://github.com/antonypauson)
-- [Rahul Yadav](https://github.com/Rahullancer07)
 - [Kiren syed](https://github.com/kirensy)
 - [Ray Enriquez](https://github.com/raycode22)
 - [Niklesh](https://github.com/nikleshclark)
