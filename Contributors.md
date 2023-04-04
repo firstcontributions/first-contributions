@@ -1,6 +1,6 @@
    # Contributors 
 <!-- prettier-ignore-start -->
-- [Rohit Rana](https://github.com/RohitRaname)
+--** Rohit Rana The Alpha Male **--
 - [Farhan Khan](https://github.com/BabaYaga1221)
 - [Ayusman sahoo](https://github.com/ayushh9)
 - [Pritse](https://github.com/Pritse)
