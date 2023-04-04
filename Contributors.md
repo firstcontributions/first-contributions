@@ -1137,6 +1137,7 @@ Joni
 - [Aryan Maurya](https://github.com/108aryanmaurya)
 Michael Vertin
 - [Caden Tedeschi](https://github.com/CadenTed)
+- [Akash Das](https://github.com/akashdasp)
 - [Khushbu Sinha](https://github.com/khushbuSinha29)
 - [David Zurita](https://github.com/DaveSticks)
 - [RAGHU S](https://github.com/raghu-007)

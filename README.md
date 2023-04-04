@@ -124,13 +124,24 @@ cd first-contributions
 Now create a branch using the `git switch` command:
 
 ```
+```
+
+or use `git checkout` command to move to the new branch that you have created
+
+```
 git switch -c your-new-branch-name
+```
+```
+git checkout [<branch>]
 ```
 
 For example:
 
 ```
 git switch -c add-alonzo-church
+```
+```
+git checkout add-alonzo-church
 ```
 
 ## Make necessary changes and commit those changes
