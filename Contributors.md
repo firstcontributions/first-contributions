@@ -720,6 +720,7 @@ Adwai
 - [Jason Husain](https://github.com/JasonHusain)
 - [maxence98](https://github.com/maxence98)
 - [Tom Powell](https://github.com/Tom2612)
+- [Paweł ;]]
 - [kodingkin]
 - [akele-guzay]
 - [Xanthium]
