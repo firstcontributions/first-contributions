@@ -101,6 +101,7 @@ Hi  ..this  is shubham making my first contribution ...
 - [Adela Solorio] (https://github.com/AdelaSolorio)
 - [Sahil Verma] (https://github.com/verma25s)
 - [vansh nawander](https://github.com/vanshnawander)
+- [Shaurya Kumar](https://github.com/ShauryaK-28)
 - [André Florentin](https://github.com/Flodreey)
 - [Chaithra Reddy](https://github.com/chaithra3007)
 - [Tices](https://github.com/tices0)
