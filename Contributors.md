@@ -9,6 +9,7 @@
 - [Ishan Dutta](https://github.com/ishandutta0098)
 - [Robin Kempen](https://github.com/Robinho1997)
 - [Anup Dhoble](https://github.com//anupdhoble)
+- [Marc Ty](https://github.com/MarcT)
 - [Mukesh Kenwat](https://github.com/MukeshKenwat)
 - [Ritesh Zode](https://github.com/riteshzode)
 - [Perfect rahul213455](https://github.com/rahul213455)
