@@ -253,6 +253,7 @@ ahihi tao la duy ne
 - [John Rendon](https://github.com/rendonurieee)
 - [MratHeinTwan] (https://github.com/MratHeinTwan)
 - [bongbongche] (https://github.com/bongbongche)
+- [Parthraj-Ghatge] (https://github.com/parth982) 
 - [Silas Stamps] (https://github.com/si1az)
 - [Anshul Rawat] (https://github.com/anshul7409)
 - [Nicole Sosa](https://github.com/nicoleSosa)
