@@ -40,7 +40,6 @@ Hi  ..this  is shubham making my first contribution ...
 - [Ahmad Alkassar] ()
 - [Simran Arora] ()
 - [Aahad](https://github.com/Aahad-1526)
-
 -[Dev Raj Verma](https://github.com/DevRajVerma)
 - [Shadman Wadith](https://github.com/wadith027)
 -[Mukesh Mahato](https://github.com/mukeshmahato18)
