@@ -1,5 +1,6 @@
    # Contributors 
 <!-- prettier-ignore-start -->
+
 - [Alex Prudhomme](https://github.com/alexprudhomme)
 - [Nag V](https://github.com/nag-geek)
 - [Satvik Prakash](https://github.com/satvik84)
@@ -102,6 +103,7 @@ Vats Shivam
 - [Anas Ahmad](https://github.com/anasahmd)
 - [Sreeharsha Raveendra] (https://github.com/Sreeharsha98)
 - [Zeyang Lin](https://github.com/linzeyang)
+- [Rahul Tripathi](https://github.com/rahultripathi-dev)
 - [Konstantinos Telkis] (https://github.com/kontelk) 
 - [Allyson Smith] (https://github.com/allyson-s-code)
 - [Nikhil Mimroth] (https://github.com/Nikhil667)
