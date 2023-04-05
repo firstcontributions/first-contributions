@@ -702,6 +702,7 @@ Adwai
 - [Kaif Khan] (https://github.com/kaifkh20)
 - [Brandon Gorman] (https://github.com/bgorman87)
 - [Momanyi Samuel](https://github.com/momanyisamuel)
+- [Nghi Hua](https://github.com/nghihua/)
 - [Micha  Konon]
 - [Revilo1409](https://github.com/Revilo1409)
 - [TariqAziz](https://github.com/Tariq-AQ)
