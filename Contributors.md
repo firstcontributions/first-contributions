@@ -1448,6 +1448,7 @@ Subhajit Bera
 - [Adilet Berdibekov](https://github.com/berdibekovadilet)
 - [Serge Basa](https://github.com/stikkas)
 - [Shreya Suthar](https://github.com/shreyasuthar655)
+- [Ideflop] (https://github.com/ideflop)
 - [ulmalana](https://github.com/ulmalana)
 - [Tomaz Martins Batista](https://github.com/Tomaz5556)
 - [Tarun Verma](https://github.com/tarun388)
