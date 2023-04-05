@@ -2034,6 +2034,7 @@ Rishabh Pandey
 -[TheSaviourEking](https://github.com/TheSaviourEking)
 - [Enoch Chirima](https://github.com/iamenochchirima)
 - [Rafal Ciechanski](https://github.com/Sdfeagt)
+- [Harshavardhan Yaddalapuri](https://github.com/Harshavardhan-Yaddalapuri)
 - [Ashwath Kannan](https://github.com/Ash-2k3)
 - [Dhruv]@DevsocPI
 - [Daniel Cordero](https://github.com/dnlambb)
