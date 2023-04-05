@@ -1026,6 +1026,7 @@ Arjun Palathinkara
   -[Tse C](https://github.com/kyroC)
 - [Ana Maria Amorim]
 - [Gannon Rowlan]
+- [camilleatwork](https://github.com/camilleatwork)
 - [Jonathon Black]
 - [Litmanennn]
 - [The GrocK](https://github.com/grock)
