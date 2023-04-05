@@ -2886,6 +2886,7 @@ Rishabh Pandey
 - [Vinci Liu](https://github.com/vinciliu30)
 - [Veena P D](https://github.com/VeenaPD)
 - [Jana Schmidberger](https://github.com/janasberger)
+- [Alondra Galvan](https://github.com/alond-ra)
 - [Digvijay Gujjarlapudi](https://github.com/digvijaysai29)
 - [William Larsen](https://github.com/thewildwilli)
 - [Higor Chagas](https://github.com/HigorChagas)
