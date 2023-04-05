@@ -12,6 +12,7 @@
 - [Benjamin Rifleman](https://github.com/rifleben)
 - [Prasannakumar Jha] (https://github.com/Prasannakumar9399)
 - NOELL BIJU MICHAEL
+- [George Bachour] (https://github.com/sgeorgevv)
 - [Michael Stafford](https://github.com/mikestah808)
 - [Shivam Singh](https://github.com/shivamsinghydv)
 - [Dart reider](https://github.com/Dartreidar)
