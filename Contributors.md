@@ -64,6 +64,7 @@ Vats Shivam
 - [Fernanda Elizalde](https://github.com/mfem442)
 - [Michał Szalaty](https://github.com/SzalatyM)
 - [Sahil Wankhade](https://github.com/theghostuchiha)
+- [Swayam Rana {RENGOKU}](https://github.com/SwayamRana808)
 - [Shadan Hussain](https://github.com/
 -[Nischal Mudennavar](https://github.com/nischalmudennavar)
 -[Abdul Hadi](https://github.com/lemmethinkaboutit)
