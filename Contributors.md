@@ -3,6 +3,7 @@
 - [Alex Prudhomme](https://github.com/alexprudhomme)
 - [Nag V](https://github.com/nag-geek)
 - [Satvik Prakash](https://github.com/satvik84)
+- [Oscar Fernández Muñoz](https://github.com/OscarFMdev)
 - [Babul](https://github.com/mohammadBabul)
 - [Abhimanyu Patidar](https://github.com/AbhimanyuPatidar)
 - [Farhan Khan](https://github.com/BabaYaga1221)
