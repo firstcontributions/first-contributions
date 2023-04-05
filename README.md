@@ -73,16 +73,21 @@
 <kbd>[<img title="Hrvatski" alt="Hrvatski" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/hr.svg" width="22">](translations/README.hr.md)</kbd>
 <kbd>[<img title="پښتو" alt="پښتو" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/af.svg" width="22">](translations/README.ps.md)</kbd>
 
-# First Contributions
-
+<img align="right"  width="100px" src="https://avatars.githubusercontent.com/u/65761570?v=4">
+<h1 align="center">First Contributions</h1>
+<h3 align="Left">
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+</h3>
 
 _If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 #### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
+
+<br>
+<br>
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 ## Fork this repository
 
