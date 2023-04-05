@@ -2574,6 +2574,7 @@ Rishabh Pandey
 - [Bruno Albuquerque](https://github.com/boa50)
 - [Vitor Magnago](https://github.com/vitormagnago)
 - [Kartik Kumar](https://github.com/yellowterrum)
+- [Eric Zhou](https://github.com/ericzhou-exz)
 - [Yoseph Winata](https://github.com/arkhamvillain)
 - [devzohaib](https://github.com/devzohaib)
 - [Rajon Dey](https://github.com/RajonDey)
