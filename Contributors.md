@@ -3114,6 +3114,7 @@ Rishabh Pandey
 - [Divesh Singla](https://github.com/Diveshsingla)
 - [Quang Tran](https://github.com/kookumber)
 - [Mandar Deshmukh](https://github.com/mandarsd18)
+- [Spoloxs](https://github.com/spoloxs)
 - [Tejas Satpalkar](https://github.com/tejassatpalkar)
 - [Azzarox](https://github.com/azzarox)
 - [Aman Badone](https://github.com/amanbadone)
