@@ -8,6 +8,7 @@
 - [Ayusman sahoo](https://github.com/ayushh9)
 - [Pritse](https://github.com/Pritse)
 - [Andrew Maged](https://github.com/AndrewMaged814)
+- [aditya kumar prusti](https://github.com/aditya172004)
 - [Sanket Zade](https://github.com/ZSank)
 - [Benjamin Rifleman](https://github.com/rifleben)
 - [Prasannakumar Jha] (https://github.com/Prasannakumar9399)
