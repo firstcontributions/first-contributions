@@ -996,6 +996,7 @@ Arjun Palathinkara
 -[Shubham Shrimant](https://github.com/shubhamshrimant)
 -[Yeswanth Sai Inturi]
 -[Håvard Garsrud](https://github.com/HaavGa)
+- [Mehmet Nabi Duru](https://github.com/mehmet-nabi-duru)
 - [Tridev Verma](https://github.com/tridevVerma)
 -[Pratik Patil](https://github.com/pratikjpatil)
 - [Vinicius Kayo](https://github.com/vkskayo)
