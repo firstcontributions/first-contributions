@@ -1,6 +1,7 @@
    # Contributors 
 <!-- prettier-ignore-start -->
 - [Satvik Prakash](https://github.com/satvik84)
+- [Babul](https://github.com/mohammadBabul)
 - [Abhimanyu Patidar](https://github.com/AbhimanyuPatidar)
 - [Farhan Khan](https://github.com/BabaYaga1221)
 - [Ayusman sahoo](https://github.com/ayushh9)
