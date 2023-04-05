@@ -33,11 +33,11 @@
 - [Ritesh Zode](https://github.com/riteshzode)
 - [Perfect rahul213455](https://github.com/rahul213455)
 - [Alejandro Pedemonte](https://github.com/ademondev)
--[Uday Patel](https://github.com/Uday2902)
+- [Uday Patel](https://github.com/Uday2902)
 - [Pratik Ramteke](https://github.com/pratikramteke)
 - [Dennis Farley](https://github.com/dfarlz97)
--[Raj Kumar 9711](https://github.com/raaz9711 )
--[Ray Sandford]
+- [Raj Kumar 9711](https://github.com/raaz9711 )
+- [Ray Sandford]
 - [Durojaye Olusegun](https://github.com/GeoSegun)
 Hi  ..this  is shubham making my first contribution ...
 - [Om Dange](https://github.com/ommeleven)
@@ -2843,6 +2843,7 @@ Rishabh Pandey
 - [Aryan Verma](https://github.com/aryanvarma7272)
 - [teventov5](https://github.com/teventov5)
 - [kevins0101](https://github.com/kevins0101)
+- [GivingMyBest](https://github.com/GivingMyBest)
 - [aloopuri](https://github.com/aloopuri)
 - [Samarth](https://github.com/samarth777)
 - [Mario Luengo](https://github.com/mluengo96)
@@ -2850,7 +2851,7 @@ Rishabh Pandey
 - [Sandeep Nayak](https://github.com/SANDEEP-NAYAK)
 - [Tarif Higolja](https://github.com/mr-hingolja)
 - [Sahil Ahmed](https://github.com/PirateOfAndaman)
-- [Arman Kumar Aditya@DevsocPI]
+- [Arman Kumar] Aditya@DevsocPI]
 - [youngjun1227](https://github.com/youngjun1227)
 - [Preston Harms](https://github.com/R3dPnd)
 - [Tanishq Agarwal](https://github.com/Tanishq2807)
