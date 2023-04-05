@@ -48,6 +48,7 @@ Hi  ..this  is shubham making my first contribution ...
 - [Kiren syed](https://github.com/kirensy)
 - [Ray Enriquez](https://github.com/raycode22)
 - [Niklesh](https://github.com/nikleshclark)
+- [Petar](https://github.com/pmarkota)
 Vats Shivam
 - [Vittorio Halfon] (https://github.com/vittoriohalfon)
 - [Ahmad Alkassar] ()
