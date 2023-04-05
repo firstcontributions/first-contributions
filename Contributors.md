@@ -96,7 +96,6 @@
 - [PRINCE DOSHI] -[Mohamed Heggi](https://github.com/mtheggi)
 - [Nicholas Hwang]
 - [Thea SF] (https://github.com/thea-sf)
-- [SaintChaos] (https://github.com/Chaos10001)
 - [Leon Albert] (https://github.com/leonn00albert)
   [HMT] (https://github.com/HtetAungThan)
 - [Farooq Javed] (https://github.com/farooqjaved)
