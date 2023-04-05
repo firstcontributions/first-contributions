@@ -61,15 +61,19 @@ git checkout -b add-myname
 
 ## 对代码进行修改，而后 Commit (提交) 修改
 
-打开 `Contributors.md` 这个文件，更新文件内容，将你的名字加上去，保存修改。`git status` 这命令会列出被改动的文件。接着 `git add` 这命令则可以添加你的改动，就像如下这条命令。
+打开 `Contributors.md` 这个文件，将你的名字加上去（不要把你的名字放在文件开头或结尾，放在中间即可）， 然后保存。
+
+如果你运行命令`git status`，你将看到刚才的改动。如下图：
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+
+接着运行 `git add` 把刚才的改动添加到你的新分支，命令如下：
 
 ```
 git add Contributors.md
 ```
 
-现在就可以使用 `git commit` 命令 commit 你的修改了。
+然后就可以使用 `git commit` 命令 commit 你的修改了。
 ```
 git commit -m "Add <你的名字> to Contributors list"
 ```
