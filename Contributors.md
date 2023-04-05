@@ -1960,6 +1960,7 @@ Rishabh Pandey
 - Michael Lewis @DevSoc
 - [Greg Kurniawan](https://github.com/gregkurniawan)
 - Idris Adeniyi
+- [Artemiy Vanyukov](https://github.com/set404)
 - [Jenish Desai](https://github.com/jenishdesai)
 - [Tan Szu Jean](https://github.com/TSJean45)
 - [Ryan Harris](https://github.com/ryanh210757)
