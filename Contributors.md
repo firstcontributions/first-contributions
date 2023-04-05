@@ -1,5 +1,6 @@
    # Contributors 
 <!-- prettier-ignore-start -->
+- [Alex Prudhomme](https://github.com/alexprudhomme)
 - [Nag V](https://github.com/nag-geek)
 - [Satvik Prakash](https://github.com/satvik84)
 - [Babul](https://github.com/mohammadBabul)
