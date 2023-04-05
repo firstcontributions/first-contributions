@@ -1,5 +1,6 @@
    # Contributors 
 <!-- prettier-ignore-start -->
+- [Alex Prudhomme](https://github.com/alexprudhomme)
 - [Nag V](https://github.com/nag-geek)
 - [Satvik Prakash](https://github.com/satvik84)
 - [Babul](https://github.com/mohammadBabul)
@@ -65,6 +66,7 @@ Vats Shivam
 - [Michał Szalaty](https://github.com/SzalatyM)
 - [Sahil Wankhade](https://github.com/theghostuchiha)
 - [Aditya Kumar Prusti](https://github.com/aditya172004)
+- [Janmejaya Padhan](https://github.com/Janmejaya777)
 - [Swayam Rana {RENGOKU}](https://github.com/SwayamRana808)
 - [Shadan Hussain](https://github.com/
 -[Nischal Mudennavar](https://github.com/nischalmudennavar)
@@ -2326,6 +2328,7 @@ Rishabh Pandey
 - [ahmad nawaz khan](https://github.com/4hmaad)
 - [Tikaram Acharya](https://github.com/tikaramac19)
 - [Yuki](https://github.com/Yuki-1118)
+- [AlexFilat](https://github.com/AlexFilat)
 - [Ishita Batra](https://github.com/ishita6)
 - [Devanshu Mahapatra](https://github.com/Devanshu-17)
 - [Pablo Alejandro](https://github.com/Pabloalesca)
