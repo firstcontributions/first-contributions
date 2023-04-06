@@ -892,6 +892,7 @@ Arjun Palathinkara
 - [Braedon Williams](https://github.com/BraedonW777)
 - [Bilal Malik](https://github.com/TripleStarCodeHunter) 
 - [vishesh Sharma](https://github.com/Vishesh3569)
+- [Conner McGibbon](https://github.com/Always-Flowting)
 - [Sunil Varma]
 - [Andrew Herring](https://github.com/Likethefish1520)
 - [Matt Davis](https://github.com/TeddyGavi)
