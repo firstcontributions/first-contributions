@@ -11,6 +11,7 @@
 - [Farhan Khan](https://github.com/BabaYaga1221)
 - [Ayusman sahoo](https://github.com/ayushh9)
 - [Amisu Rahman](https://github.com/amisu-ctr)
+- [Guruprasad](https://github.com/guruprasadhegde-gp)
 - [Pritse](https://github.com/Pritse)
 - [Andrew Maged](https://github.com/AndrewMaged814)
 - [aditya kumar prusti](https://github.com/aditya172004)
