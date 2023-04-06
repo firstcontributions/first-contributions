@@ -5,6 +5,7 @@
 - [Duong Tien Anh](https://github.com/anhdt1911)
 - [Aditya Reddy](https://github.com/EmaniAditya)
 - [Alex Prudhomme](https://github.com/alexprudhomme)
+- [Shivam Kumar](https://github.com/shivamspiky)
 - [Nag V](https://github.com/nag-geek)
 - [Satvik Prakash](https://github.com/satvik84)
 - [Oscar Fernández Muñoz](https://github.com/OscarFMdev)
