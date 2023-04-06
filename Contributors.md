@@ -1,4 +1,4 @@
-   # Contributors 
+﻿   # Contributors 
 <!-- prettier-ignore-start -->
 - [Nahom Teshome](https://github.com/NahomTesM)
 -[Luv Sharma](https://github.com/Stormbreakerr20)
@@ -2705,6 +2705,7 @@ Rishabh Pandey
 - [Autumn Ouellette](https://github.com/Autumn-Ou)
 - [Fatin Almalik](https://github.com/Fatin-Almalik)
 - [Ayananshu Mohanty](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) @DevsocPI
+- [Hogator]
 - [Mohammad Mubaslat](https://github.com/mohammadmubaslat)
 - [Will Johnson](https://github.com/wij2012)
 - [Arnaduga](https://github.com/arnaduga)
