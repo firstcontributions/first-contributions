@@ -1,6 +1,7 @@
    # Contributors 
 <!-- prettier-ignore-start -->
 - [Duong Tien Anh](https://github.com/anhdt1911)
+- [Aditya Reddy](https://github.com/EmaniAditya)
 - [Alex Prudhomme](https://github.com/alexprudhomme)
 - [Nag V](https://github.com/nag-geek)
 - [Satvik Prakash](https://github.com/satvik84)
