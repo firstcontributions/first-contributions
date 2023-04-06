@@ -950,6 +950,7 @@ Arjun Palathinkara
 - [Edouard Zemb](https://github.com/EdouardZemb)
 - [David R Watson](https://github.com/David-R-Watson)
 - [Abhay](https://github.com/im31abhay)
+- [weewow](https://github.com/Stangtang)
 - [Tejas Binu]
 - [PaulTitto]
 - [yangus1265](https://github.com/yangus1265)
