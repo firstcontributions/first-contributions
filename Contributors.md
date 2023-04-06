@@ -1256,6 +1256,7 @@ Subhajit Bera
 - [Brian Bloodaxe]()
 - [HHA](https://github.com/HeinHtetAunggg)
 - [Diego_Sic](https://github.com/Diego-Sic)
+- [Alondra Galvan](https://github.com/alond-ra)
 - [Gwen Asani](https://github.com/gwendolyn954)
 - [Jay Sexton](https://github.com/jaysexton)
 - [Insektenjaeger](https://github.com/Insektenjeager)
