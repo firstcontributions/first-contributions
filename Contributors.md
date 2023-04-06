@@ -17,6 +17,7 @@
 - [Amisu Rahman](https://github.com/amisu-ctr)
 - [Guruprasad](https://github.com/guruprasadhegde-gp)
 - [Pritse](https://github.com/Pritse)
+- [Victor Lopez] (https://github.com/viclop1597)
 - [Andrew Maged](https://github.com/AndrewMaged814)
 - [aditya kumar prusti](https://github.com/aditya172004)
 - [Eesha S]()
