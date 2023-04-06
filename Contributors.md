@@ -87,6 +87,7 @@ myname
 - [Ankit Verma] (https://github.com/ankitverma10203)
 - [Kin Leon Zinzombe] (https://github.com/zinzombe-kin)
 - [Bojidar Vladimirov](https://github.com/BojkaV)
+- [Rivindu Wickramarachchi](https://github.com/RiviWickramarachchi)
 - [Arpitha DV](https://github.com/krithidv/first-contributions)
 - [Kendice Yeung](https://github.com/kendicey)
 - [Iredox10](https://github.com/iredox10)
