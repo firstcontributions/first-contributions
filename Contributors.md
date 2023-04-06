@@ -31,6 +31,7 @@
 - [Robin Kempen](https://github.com/Robinho1997)
 - [Anup Dhoble](https://github.com//anupdhoble)
 - [Mainul Sunvi](https://github.com/mainulsunvi)
+- [Ajit Patil](https://github.com/whoajitpatil)
 - [Marc Ty](https://github.com/MarcT)
 - [Sanketh P](https://github.com/sankethp44)
 - [Sahil Mali] (https://github.com/Sxhil296)
