@@ -543,6 +543,7 @@ Syed
 - [Jerom Jo](https://github.com/lordgrim18)
 - [Aryan Karayi] (https://github.com/aryankarayi)
 -[Siddhant Keshri](https://github.com/quantavoid11)
+- [Vansh Nagpal](https://github.com/vnagpal25) 
 - [Ankitjt] (https://github.com/ankitjt)
   [Matheus]
   franco mau
