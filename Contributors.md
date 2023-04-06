@@ -4014,3 +4014,4 @@ Ayan Das
 - [uthline](https://github.com/uthline)
 - [Patil Krishna Reddy](https://github.com/Krishna1081)
 - [Shubham Dubey](https://github.com/RebellionR2)
+- [Marco Alvarado - 7Pixel](https://github.com/7pixel-cl)
