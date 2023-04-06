@@ -19,6 +19,7 @@
 - [Kirill McQuillin](https://github.com/KirillMcQ)
 - [Sanket Zade](https://github.com/ZSank)
 - [Benjamin Rifleman](https://github.com/rifleben)
+- [Aiji Wen](https://github.com/g2gpt)
 - [Prasannakumar Jha] (https://github.com/Prasannakumar9399)
 - NOELL BIJU MICHAEL
 - [George Bachour] (https://github.com/sgeorgevv)
