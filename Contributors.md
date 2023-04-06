@@ -4008,6 +4008,7 @@ Ayan Das
 -[AbhiKakadiya](https://github.com/abhi-kakadiya/)
 -[Sawyer Loger](https://github.com/Slogemister)
 -[R Sahil Sharma](https://github.com/Sahil1728)
+- [8bits-cat](https://github.com/8bits-cat)
 **joshua thomas **
 - [Ismail courr](https://github.com/Ismailco)
 - [Fernando Moura](https://github.com/nandumoura)   
