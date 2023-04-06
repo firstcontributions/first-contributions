@@ -569,6 +569,7 @@ Syed
 -[Mohamed Heggi](https://github.com/mtheggi)
 - Prathms
 - [Nicholas Hwang]
+- [Anthony Nanfito](https://github.com/ananfito/)
 - [Landon Thull] (https://github.com/landon-thull)
 - [Thea SF] (https://github.com/thea-sf)
 - [Leon Albert] (https://github.com/leonn00albert)
