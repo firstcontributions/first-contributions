@@ -16,6 +16,7 @@
 - [Pritse](https://github.com/Pritse)
 - [Andrew Maged](https://github.com/AndrewMaged814)
 - [aditya kumar prusti](https://github.com/aditya172004)
+- [Eesha S]()
 - [Kirill McQuillin](https://github.com/KirillMcQ)
 - [Sanket Zade](https://github.com/ZSank)
 - [Benjamin Rifleman](https://github.com/rifleben)
