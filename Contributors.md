@@ -9,7 +9,7 @@
 - [Satvik Prakash](https://github.com/satvik84)
 - [Oscar Fernández Muñoz](https://github.com/OscarFMdev)
 
--[HMML](https://github.com/Hnin-lwin16)
+-[Hmml](https://github.com/Hnin-lwin16)
 
 - [Babul](https://github.com/mohammadBabul)
 - [Abhimanyu Patidar](https://github.com/AbhimanyuPatidar)
