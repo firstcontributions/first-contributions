@@ -12,7 +12,7 @@
 - [Savan Patel](https://github.com/SavanAghera)
 - [Ankit Verma] (https://github.com/ankitverma10203)
 - [Bojidar Vladimirov](https://github.com/BojkaV)
-- [Arpitha DV](https://github.com/krithidv/first-contributions)
+- [Arpitha DV](https://github.com/krithidv)
 - [Noam Levi](https://github.com/N0amLevi)
 - [Philip Nguyen](https://github.com/pn-code)
 - [Eddie Menefee](https://github.com/eddiemMenefee)
