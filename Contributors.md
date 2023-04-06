@@ -95,6 +95,7 @@ myname
 - [Kaleb Armbrust](https://github.com/KalebArmbrust)
 - [Eddie Menefee](https://github.com/eddiemMenefee)
 - [HR Naomi](https://github.com/hrnaomi)
+- [Bhoomika Gothwal] (https://github.com/OREO1210)
 - [Yifei Zhang](https://github.com/yifei-zhhhh)
 - [Flamiing](https://github.com/Flamiing)
 - [Varrel Tantio](https://github.com/varreltantio)
