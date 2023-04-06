@@ -3988,6 +3988,7 @@ Ayan Das
 - [Mahfujur Musfique](https://github.com/musfique113)
 - [Daniel Xu](https://github.com/Aspectsides)
 - [Rajdeep Barman](https://github.com/deepBn)
+- [Ziyan (Patrick) Liu](https://github.com/Patr1ckL)
 - [Tham Ming Jun](https://github.com/ThamMingJun)
 - [Oni Oluwatomiwa](https://github.com/26thavenue)cd first-
 - [Ankit Gupta](https://github.com/ankit-95)
