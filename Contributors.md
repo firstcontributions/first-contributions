@@ -1,6 +1,10 @@
 ﻿   # Contributors 
 <!-- prettier-ignore-start -->
 - [Nahom Teshome](https://github.com/NahomTesM)
+-[Ritik Ranjan](https://github.com/ranjanritik5757)
+- [Dart reider](https://github.com/Dartreidar)
+- [Dart reider](https://github.com/Dartreidar)
+- [Dart reider](https://github.com/Dartreidar)
 -[Luv Sharma](https://github.com/Stormbreakerr20)
 - [Duong Tien Anh](https://github.com/anhdt1911)
 - [Aditya Reddy](https://github.com/EmaniAditya)
