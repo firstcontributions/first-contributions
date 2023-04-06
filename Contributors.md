@@ -3578,6 +3578,7 @@ Ayan Das
 - [Dhairya Arora](https://github.com/Dhairya-Arora01)
 - [Rashed Obaid](https://github.com/rsobaid)
 - [Pengtian Yang](https://github.com/DavidYang323)
+- [Zeren Yang](https://github.com/Azen233)
 - [Elton Omwega](https://github.com/Eltonomwega)
 - [Ana Ptak](https://github.com/anastasiaptak)
 - [HARAJIT](https://github.com/harajit05)
