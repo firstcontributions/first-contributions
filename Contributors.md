@@ -86,6 +86,7 @@ Vats Shivam
 - [Simran Arora] ()
 - [Aahad](https://github.com/Aahad-1526)
 myname
+- my name1
 
 -[Dev Raj Verma](https://github.com/DevRajVerma)
 - [Shadman Wadith](https://github.com/wadith027)
@@ -218,6 +219,7 @@ ahihi tao la duy ne
 - [Maharun Afroz](https://github.com/maharun0)
 - [Joshua Maciel](https://github.com/JoshM-Yoru)
 - [Matthew Wang](https://github.com/mw3071)
+- Bruno V. T. Barbosa
 - [Mohamed Ben Taher] (https://github.com/MohamedBenTaher)
 - [Roshan Singh Bhadauriya] (https://github.com/Roshanbhadauriya)
 - [Aniket Patil] (https://github.com/Aniket1703)
