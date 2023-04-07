@@ -8,6 +8,7 @@
 - [Aditya Reddy](https://github.com/EmaniAditya)
 - [Alex Prudhomme](https://github.com/alexprudhomme)
 - [Shivam Kumar](https://github.com/shivamspiky)
+- [Soni Kumari](https://github.com/codewithsonyy)
 - [Nag V](https://github.com/nag-geek)
 - [Kapil](https://github.com/KAPIL9027)
 - [BrysonV10](https://github.com/BrysonV10)
