@@ -17,6 +17,7 @@
 - [Sahil Patel] (https://github.com/sily-patel)
 - [Shivam Kumar](https://github.com/shivamspiky)
 - [Prakhar Nigam](https://github.com/prakharkohq)
+- [Syahreza Ferdian](https://github.com/Syahreza-Ferdian)
 - [Soni Kumari](https://github.com/codewithsonyy)
 - [Nag V](https://github.com/nag-geek)
 - [Kapil](https://github.com/KAPIL9027)
