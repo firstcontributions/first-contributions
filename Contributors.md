@@ -41,6 +41,7 @@
 - [Prasannakumar Jha] (https://github.com/Prasannakumar9399)
 - NOELL BIJU MICHAEL
 Aarif Khan
+- [Shehu Yakubu] (https://github.com/Shehu-Yakubu)
 - [George Bachour] (https://github.com/sgeorgevv)
 - [Michael Stafford](https://github.com/mikestah808)
 - [Shivam Singh](https://github.com/shivamsinghydv)
