@@ -12,6 +12,7 @@
 - [Duong Tien Anh](https://github.com/anhdt1911)
 - [Aditya Reddy](https://github.com/EmaniAditya)
 - [Alex Prudhomme](https://github.com/alexprudhomme)
+- [Achuthaperumal Radhakrishnan](https://github.com/achuthaperumal)
 - [Shivam Kumar](https://github.com/shivamspiky)
 - [Prakhar Nigam](https://github.com/prakharkohq)
 - [Soni Kumari](https://github.com/codewithsonyy)
