@@ -1,5 +1,6 @@
 ﻿   # Contributors 
 <!-- prettier-ignore-start -->
+- [Shailesh Yadav](https://github.com/shailesh1416)
 - [Nahom Teshome](https://github.com/NahomTesM)
 - [Koushlendra Kumar](https://github.com/Koushlendra-Kumar)
 -[Luv Sharma](https://github.com/Stormbreakerr20)
