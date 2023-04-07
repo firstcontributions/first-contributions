@@ -1,6 +1,7 @@
 ﻿   # Contributors 
 <!-- prettier-ignore-start -->
 - [Narendra Reddy](https://github.com/narendra098)
+- [Mario Marcotulli](https://github.com/Magrid0)
 - [Shailesh Yadav](https://github.com/shailesh1416)
 - [Nahom Teshome](https://github.com/NahomTesM)
 - [Farheen Muqadam](https://github.com/M-Farheen)
