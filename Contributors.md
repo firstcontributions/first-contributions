@@ -10,6 +10,7 @@
 - [Aditya Reddy](https://github.com/EmaniAditya)
 - [Alex Prudhomme](https://github.com/alexprudhomme)
 - [Shivam Kumar](https://github.com/shivamspiky)
+- [Prakhar Nigam](https://github.com/prakharkohq)
 - [Soni Kumari](https://github.com/codewithsonyy)
 - [Nag V](https://github.com/nag-geek)
 - [Kapil](https://github.com/KAPIL9027)
@@ -68,7 +69,7 @@ Hi  ..this  is shubham making my first contribution ...
 - [Sanskar Agrawal]
 - [Antony Sun](https://github.com/antonypauson)
 - [aditya] (https://github.com/Aadii170)
--  hi there , this is my first contribution on github.
+- hi there , this is my first contribution on github.
 - [Suleman](https://github.com/Suleman12723)
 - [Kiren syed](https://github.com/kirensy)
 - [Ray Enriquez](https://github.com/raycode22)
