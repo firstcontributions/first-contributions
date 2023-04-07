@@ -1,5 +1,6 @@
 ﻿   # Contributors 
 <!-- prettier-ignore-start -->
+- [Gregory Phiri](https://github.com/GreyWolf2020)
 - [Narendra Reddy](https://github.com/narendra098)
 - [Shailesh Yadav](https://github.com/shailesh1416)
 - [Nahom Teshome](https://github.com/NahomTesM)
