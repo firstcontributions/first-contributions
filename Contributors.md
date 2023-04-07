@@ -330,6 +330,7 @@ ahihi tao la duy ne
 - [Micah Stackhouse] (https://github.com/mjstackhouse)
 - [yourlocalonion] (https://github.com/yourlocalonion)
 - [Armandas Bruniusss](https://github.com/Armandas-b)
+- [Ashish Kale](https://github.com/Ashishvkale)
 - [Sanij Shrestha](https://github.com/sanijcreates/)
 - Sarumi Muslimah Atinuke [https://github.com/Muslimahhh]
 - [TanishGarg](https://github.com/TheLostPrime12)
