@@ -4050,3 +4050,4 @@ Ayan Das
 - [Christopher Sandiko](https://github.com/cmsandiko)
 - [Sergio Ríos](https://github.com/sriosdev)
 - [Lakhdar Zidane ](https://github.com/saydou231)
+- [Rafael Amorim](https://github.com/Rafael-Amorim7)
