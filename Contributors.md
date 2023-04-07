@@ -32,6 +32,7 @@
 - [Michael Stafford](https://github.com/mikestah808)
 - [Shivam Singh](https://github.com/shivamsinghydv)
 - [Dart reider](https://github.com/Dartreidar)
+- [John Philip Adove](https://github.com/primopaw)
 - [Stanley Tsai](https://github.com/stanley880902)
 - [Ishan Dutta](https://github.com/ishandutta0098)
 - [Robin Kempen](https://github.com/Robinho1997)
