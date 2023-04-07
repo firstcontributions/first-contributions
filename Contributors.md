@@ -3747,6 +3747,7 @@ Ayan Das
 - [CooperKozitza](https://github.com/CooperKozitza)
 - [RobertoKreshna](https://github.com/RobertoKreshna)
 - [**Qiu**](https://github.com/Qiu-IT)
+- [Ivan Israel](https://github.com/marehori)
 - [H-ADJI](https://github.com/H-ADJI)
   [Jacky](https://github.com/smallnumbers0)
 - [Ahmed AK.] (https://github.com/Ahmed7AK/first-contributions)
