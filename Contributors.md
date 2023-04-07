@@ -103,6 +103,7 @@ myname
 - [Savan Patel](https://github.com/SavanAghera)
 - [Ankit Verma] (https://github.com/ankitverma10203)
 - [Kin Leon Zinzombe] (https://github.com/zinzombe-kin)
+  [Mayvid0](https://github.com/Mayvid0)
 - [Bojidar Vladimirov](https://github.com/BojkaV)
 - [Rivindu Wickramarachchi](https://github.com/RiviWickramarachchi)
 - [Arpitha DV](https://github.com/krithidv/first-contributions)
