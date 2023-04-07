@@ -1993,6 +1993,7 @@ Rishabh Pandey
 - [Aditya](https://github.com/adi-bal)
 - [Penguini](https://github.com/penguini128)
 - [Fahmid Bin Farooqui](https://github.com/fahmidbinfarooqui)
+- [Palwisha Akhtar](https://github.com/Palwisha-18)
 - [Krunal Patel](https://github.com/kd05)
 - [Harshit Devadiga](https://github.com/harshitt02)
 - [Salu Alhassan](https://github.com/sky2626)
