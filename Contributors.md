@@ -4,6 +4,7 @@
 - [Shailesh Yadav](https://github.com/shailesh1416)
 - [Nahom Teshome](https://github.com/NahomTesM)
 - [Farheen Muqadam](https://github.com/M-Farheen)
+- [Bhagirath](https://github.com/bhagirath20)
 - [Koushlendra Kumar](https://github.com/Koushlendra-Kumar)
 -[Luv Sharma](https://github.com/Stormbreakerr20)
 - [Duong Tien Anh](https://github.com/anhdt1911)
