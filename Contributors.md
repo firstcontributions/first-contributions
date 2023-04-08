@@ -11,9 +11,9 @@
 - [Diego Lascano](https://github.com/DallasBelt)
 - [Krigo Liu] (https://github.com/Krigo-Liu)
 - [Piyush Gambhir](https://github.com/Piyush-Gambhir)
+- [Rajesh Arora] (https://github.com/rajesharora2801)
 - [Aryan Karayi] (https://github.com/aryankarayi)
 - [Ankitjt] (https://github.com/ankitjt)
-- [Rajesh Arora] (https://github.com/rajesharora2801)
 -  [Matheus]
   [Deepika Indran](https://github.com/deepiikaa24)
   [Oscar Juarez] (https://github.com/OscarJO20)
