@@ -1572,6 +1572,7 @@ Subhajit Bera
 - [Joseph Francioso](https://github.com/Jfrancioso)
 - [Amrit Raj](https://github.com/amritrj)
 - [Mostafa Eissa](https://github.com/EissaMostafa)
+- [Marco Segurini](https://github.com/MarcoSegurini)
 - [Lukas Juelich](https://github.com/LeFreakALeak93)
 - [TheSaviourEking](https://github.com/TheSaviourEking)
 - [Benson Njuguna](https://github.com/Bennyjoez)
