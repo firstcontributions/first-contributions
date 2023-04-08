@@ -774,6 +774,7 @@ Adwai
 - [Gabriel Luculescu](https://github.com/glucu)
 - [Sarthak Dobriyal](https://github.com/high-prog)
 - [Genta Miyao](https://github.com/miyaogenta)
+- [Ben Jones](https://github.com/jonesb11)
 - [Koh Kai Yit] (https://https://github.com/kaiyitkoh)
 - [💀oldsku11💀](https://github.com/oldsku11)
 - [Rocko] (https://github.com/irocko)
