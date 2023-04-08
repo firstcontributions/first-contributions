@@ -1,7 +1,7 @@
    # Contributors 
 <!-- prettier-ignore-start -->
 - [Nahom Teshome](https://github.com/NahomTesM)
-- [Luv Sharma](https://github.com/Stormbreakerr20)
+-[Luv Sharma](https://github.com/Stormbreakerr20)
 - [Duong Tien Anh](https://github.com/anhdt1911)
 - [Aditya Reddy](https://github.com/EmaniAditya)
 - [Alex Prudhomme](https://github.com/alexprudhomme)
@@ -23,9 +23,9 @@
 - [Sanket Zade](https://github.com/ZSank)
 - [Benjamin Rifleman](https://github.com/rifleben)
 - [Aiji Wen](https://github.com/g2gpt)
-- [Prasannakumar Jha](https://github.com/Prasannakumar9399)
+- [Prasannakumar Jha] (https://github.com/Prasannakumar9399)
 - NOELL BIJU MICHAEL
-- [George Bachour](https://github.com/sgeorgevv)
+- [George Bachour] (https://github.com/sgeorgevv)
 - [Michael Stafford](https://github.com/mikestah808)
 - [Shivam Singh](https://github.com/shivamsinghydv)
 - [Dart reider](https://github.com/Dartreidar)
@@ -37,8 +37,8 @@
 - [Ajit Patil](https://github.com/whoajitpatil)
 - [Marc Ty](https://github.com/MarcT)
 - [Sanketh P](https://github.com/sankethp44)
-- [Sahil Mali](https://github.com/Sxhil296)
-- [Shaurya Gupta](https://github.com/Shaurya10101)
+- [Sahil Mali] (https://github.com/Sxhil296)
+- [Shaurya Gupta] (https://github.com/Shaurya10101)
 - [Nikhil Kulkarni](https://nikhilkulkarni1755.github.io/)
 - [Togun Oluwatobi](https://github.com/TOGUNOLUWATOBI)
 - [Ratna Sambhav](https://github.com/Ratna-Sambhav)
@@ -1531,6 +1531,7 @@ Subhajit Bera
 - [Lee Tebbo Tebbs](https://github.com/leetebbs)
 - [Vinícius Assumpção de Araújo](https://github.com/viniman27)
 - [Shade St Claire](https://github.com/regeum-deus/)
+- [Ameen](https://github.com/0-yohan)
 - [Luke Soderquist](https://github.com/lsoderquist)
 - [Simon Ralek](https://github.com/SimonRalek)I[I
 - [Elizabeth Flack](https://github.com/Songlore)
@@ -2156,7 +2157,6 @@ Rishabh Pandey
 - [Alex Zhao](https://github.com/zyunfeng)
 - [Brokgar] (<https://github.com/Brokgar/>)
 - [UltraViolet33](https://github.com/UltraViolet33)
-- [Ameen](https://github.com/0-yohan)
 - [Michael Spinks](https://github.com/mikespinks0401)
 - [Gregory John](https://github.com/GregLJ)
 - [Pridhi Grag](https:/github/com/pridhigarg369)
