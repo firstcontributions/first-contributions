@@ -34,6 +34,7 @@
 - [aditya kumar prusti](https://github.com/aditya172004)
 - [Eesha S]()
 - [Kirill McQuillin](https://github.com/KirillMcQ)
+- [Narendra paroa](https://github.com/developernarendra/first-contributions-opening)
 - [Sanket Zade](https://github.com/ZSank)
 - [Benjamin Rifleman](https://github.com/rifleben)
 - [Aiji Wen](https://github.com/g2gpt)
