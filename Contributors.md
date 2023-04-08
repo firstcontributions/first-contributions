@@ -4082,4 +4082,4 @@ Ayan Das
 - [Jian Chen](https://github.com/alancj731)
 - [ANUJ KASHYAP](https://github.com/ANUJxEPUB)
 - [Stilyan Stalev] (https://github.com/sN337)
-- [Sandip Gyawali] (https://github.com/SandipGyawali)
+- [Sandip Gyawali](https://github.com/SandipGyawali)
