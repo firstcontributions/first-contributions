@@ -1,4 +1,4 @@
-﻿   # Contributors 
+   # Contributors 
 <!-- prettier-ignore-start -->
 - [Gregory Phiri](https://github.com/GreyWolf2020)
 - [Narendra Reddy](https://github.com/narendra098)
@@ -3999,6 +3999,7 @@ Ayan Das
 - [PFCS33](https://github.com/PFCS33)
 - [Robert Przymus] (https://github.com/prymek74)
 - [Alan Delgado](https://github.com/alandelgado)
+- [Anirudh Pudari](https://github.com/AnirudhPudari)
 - [cloud6988] (https://github.com/cloud6988)
 - [Delia Barron](https://github.com/DeliaBarron)
 - [crowe099](https://github.com/crowe099)
