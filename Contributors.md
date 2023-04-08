@@ -28,6 +28,7 @@
 - [Abhimanyu Patidar](https://github.com/AbhimanyuPatidar)
 - [Farhan Khan](https://github.com/BabaYaga1221)
 - [Ayusman sahoo](https://github.com/ayushh9)
+- [Afton Lawver](https://github.com/AftonLawver)
 - [Amisu Rahman](https://github.com/amisu-ctr)
 - [Guruprasad](https://github.com/guruprasadhegde-gp)
 - [Pritse](https://github.com/Pritse)
