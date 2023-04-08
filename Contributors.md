@@ -1,5 +1,6 @@
-﻿   # Contributors 
+   # Contributors 
 <!-- prettier-ignore-start -->
+- [Shinya Nakayama](https://github.com/Shinya1192)
 - [Gregory Phiri](https://github.com/GreyWolf2020)
 - [Narendra Reddy](https://github.com/narendra098)
 - [Mario Marcotulli](https://github.com/Magrid0)
@@ -22,6 +23,7 @@
 - [Soni Kumari](https://github.com/codewithsonyy)
 - [Nag V](https://github.com/nag-geek)
 - [Kapil](https://github.com/KAPIL9027)
+- [Harshit Agarwal](https://github.com/agarwalharshit27)
 - [Rajeeb Bhowmick](https://github.com/rajeeb12)
 - [BrysonV10](https://github.com/BrysonV10)
 - [Satvik Prakash](https://github.com/satvik84)
@@ -420,6 +422,7 @@ Hariharakrishnan (https://github.com/hariCoder2k)
 - [Maojun Xu](https://github.com/maojunx99)
 - [kyrill belomenov](https://github.com/kybe236)
 - [Praveen](https://github.com/Impraveensp)
+  [Suvas](https://github.com/Suvas-Reddy)
 - [Abdulhakim](https://github.com/abdulhakim-altunkaya)
 - [Taqib Ibrahim](https://github.com/Dom-iha)
 - [sonyerg](https://github.com/sonyerg)
@@ -4007,6 +4010,7 @@ Ayan Das
 - [PFCS33](https://github.com/PFCS33)
 - [Robert Przymus] (https://github.com/prymek74)
 - [Alan Delgado](https://github.com/alandelgado)
+- [Anirudh Pudari](https://github.com/AnirudhPudari)
 - [cloud6988] (https://github.com/cloud6988)
 - [Delia Barron](https://github.com/DeliaBarron)
 - [crowe099](https://github.com/crowe099)
@@ -4091,3 +4095,4 @@ Ayan Das
 - [ANUJ KASHYAP](https://github.com/ANUJxEPUB)
 - [Stilyan Stalev] (https://github.com/sN337)
 - [Sandip Gyawali] (https://github.com/SandipGyawali)
+- [Natalia Jona](https://github.com/Nifena)
