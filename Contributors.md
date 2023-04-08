@@ -2234,6 +2234,7 @@ Rishabh Pandey
 - [Prerak Patel](https://github.com/PrerakPatelCS)
 - [Metsehafe Eyasu Tesfu](https://github.com/Metsehafe-Eyasu)
 - [Theo Dep](https://github.com/theoDep)
+- [Jasmine Hou](https://github.com/jsmnhou)
 - [Manish GS Parmar@DevSocPI](https://github.com/ManishWho)
 - [Jamal Abdulrazik](https://github.com/JamalAbdulrazik)
 -[Dhakshanapandi](https://github.com/Dhakshanapandi)
