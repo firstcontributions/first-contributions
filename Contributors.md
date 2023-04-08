@@ -233,6 +233,7 @@ ahihi tao la duy ne
 - [Roshan Singh Bhadauriya] (https://github.com/Roshanbhadauriya)
 - [Aniket Patil] (https://github.com/Aniket1703)
 - [Subha Mishra](https://github.com/SubhaMishra1998)
+- [Suyog Budhathoki](https://github.com/suyogbud)
 - [Nancy Kasaudhan](https://github.com/nancyKasaudhan20)
 - [Chana Raveh](https://github.com/craveh)
 - [Vedansh Chaturvedi](https://github.com/vedansh2c)
