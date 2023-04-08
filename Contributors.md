@@ -3,6 +3,7 @@
 - [Darkhan Adaibekov](https://github.com/Dak00)
 - [Shinya Nakayama](https://github.com/Shinya1192)
 - [Gregory Phiri](https://github.com/GreyWolf2020)
+- [Trevor Shepherd](https://github.com/TS-Acc)
 - [Narendra Reddy](https://github.com/narendra098)
 - [Mario Marcotulli](https://github.com/Magrid0)
 - [Shailesh Yadav](https://github.com/shailesh1416)
