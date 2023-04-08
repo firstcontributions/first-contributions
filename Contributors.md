@@ -2375,6 +2375,7 @@ Rishabh Pandey
 - [Sarthak Mittal](https://github.com/SarthakMittal777)
 - [Ian Duncan](https://github.com/dr8co)
 - [Cristhian Flores](https://github.com/bachacode)
+- [Bhaskar] (https://github.com/bhaskar253)
 - [Luisa Haase](https://github.com/luisaha)
 - [Nayna Sahu](https://github.com/NaynaSahu/)
 - [Danis Idiatullin](https://github.com/i-danis)
