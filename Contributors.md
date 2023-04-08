@@ -1,6 +1,7 @@
    # Contributors 
 <!-- prettier-ignore-start -->
 - [Gregory Phiri](https://github.com/GreyWolf2020)
+- [Rushabh Soni](https://github.com/rusamgr8)
 - [Narendra Reddy](https://github.com/narendra098)
 - [Mario Marcotulli](https://github.com/Magrid0)
 - [Shailesh Yadav](https://github.com/shailesh1416)
@@ -22,6 +23,7 @@
 - [Nag V](https://github.com/nag-geek)
 - [Kapil](https://github.com/KAPIL9027)
 - [Rajeeb Bhowmick](https://github.com/rajeeb12)
+
 - [BrysonV10](https://github.com/BrysonV10)
 - [Satvik Prakash](https://github.com/satvik84)
 - [Oscar Fernández Muñoz](https://github.com/OscarFMdev)
