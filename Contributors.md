@@ -1,5 +1,6 @@
    # Contributors 
 <!-- prettier-ignore-start -->
+- [Shinya Nakayama](https://github.com/Shinya1192)
 - [Gregory Phiri](https://github.com/GreyWolf2020)
 - [Narendra Reddy](https://github.com/narendra098)
 - [Mario Marcotulli](https://github.com/Magrid0)
