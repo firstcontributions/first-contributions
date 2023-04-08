@@ -1978,6 +1978,7 @@ Rishabh Pandey
 - [Akseli Manninen] (https://github.com/AkseliManninen)
 - [Muthukumar KB] (https://github.com/immu2able)
 - [Nipun] (https://github.com/nipunupekshana)
+- [Shazzadul Haque Sagor] (https://github.com/Sagor66)
 - [Praveen Dias](https://github.com/praveendias1180)
 - [Yashkumar Gupta](https://github.com/yashh1234)
 - [Daniel Ervanda](https://github.com/dnd7)
@@ -4083,3 +4084,4 @@ Ayan Das
 - [ANUJ KASHYAP](https://github.com/ANUJxEPUB)
 - [Stilyan Stalev] (https://github.com/sN337)
 - [Sandip Gyawali] (https://github.com/SandipGyawali)
+
