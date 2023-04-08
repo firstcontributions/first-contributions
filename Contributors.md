@@ -4094,3 +4094,4 @@ Ayan Das
 - [Stilyan Stalev] (https://github.com/sN337)
 - [Sandip Gyawali] (https://github.com/SandipGyawali)
 - [Natalia Jona](https://github.com/Nifena)
+- [Jaime Rodriguez](https://github.com/xhumpty)
