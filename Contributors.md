@@ -66,6 +66,7 @@ Aarif Khan
 - [Satya](https://github.com/Satya-Prakash-Dwivedi)
 - [John Philip Adove](https://github.com/primopaw)
 - [Stanley Tsai](https://github.com/stanley880902)
+- [KT](https://github.com/kolife01)
 - [Ishan Dutta](https://github.com/ishandutta0098)
 - [Robin Kempen](https://github.com/Robinho1997)
 - [Anup Dhoble](https://github.com//anupdhoble)
