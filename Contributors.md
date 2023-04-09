@@ -26,6 +26,7 @@
 - [Shivam Kumar](https://github.com/shivamspiky)
 - [Aditya Prakash](https://github.com/adityaprakash707)
 - [Prakhar Nigam](https://github.com/prakharkohq)
+- [Bhavan Naik](https://github.com/Bhavan-Naik)
 - [Syahreza Ferdian](https://github.com/Syahreza-Ferdian)
 - [Rama Bharti](https://github.com/RamaBharti)
 - [Soni Kumari](https://github.com/codewithsonyy)
