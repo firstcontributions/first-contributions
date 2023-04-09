@@ -33,6 +33,7 @@
 - [Harshit Agarwal](https://github.com/agarwalharshit27)
 - [Rajeeb Bhowmick](https://github.com/rajeeb12)
 - [Moby-Bit]()
+- [Earl Villapaz](https://github.com/iearlg)
 - [BrysonV10](https://github.com/BrysonV10)
 - [Siddhant Daryanani](https://github.com/sid12701)
 - [Satvik Prakash](https://github.com/satvik84)
