@@ -65,6 +65,7 @@ Aarif Khan
 - [Shehu Yakubu] (https://github.com/Shehu-Yakubu)
 - [George Bachour] (https://github.com/sgeorgevv)
 - [Michael Stafford](https://github.com/mikestah808)
+-  [Anurag Raj](https://github.com/anuragraj94)
 - [Shivam Singh](https://github.com/shivamsinghydv)
 - [Dart reider](https://github.com/Dartreidar)
 - [Satya](https://github.com/Satya-Prakash-Dwivedi)
