@@ -664,6 +664,7 @@ Adwai
 - [Abhinav Tyagi] (https://github.com/abhityagi12)
 - [Carlos Goncalves] (https://github.com/ogqoda)
 - [Saad Shaikh] (https://github.com/CrankyMartyr)
+- [Mahdi Aljaza'iri](https://www.youtube.com/watch?v=MgpVeiimDVw)
 - [Sanjiv Pansari](https://github.com/spansari)
 - [Nikolai Ruilova](https://github.com/NikoRuBln)
 - [Samrat Ghosh](https://github.com/samratghosh291)
@@ -1673,7 +1674,7 @@ Subhajit Bera
 - [Joe Robbins](https://github.com/Jrobbins973)
 - [Arian Xhumkar] (https://github.com/ArianXh)
 - [Ninad Patil](https://github.com/Ninad-Patil)
-- [Warren Cartwright](https://github.com/guarin1949)`
+- [Warren Cartwright](https://github.com/guarin1949)
 - [Jacek Smoter](https://github.com/jackz070)
 - [Mubarak Mayyeri](https://github.com/mubarakmayyeri)
 - [Aashi Jain](https://github.com/aashi-ihsaa)
