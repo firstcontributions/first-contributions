@@ -682,6 +682,7 @@ Adwai
 - [Kamal Preetam] (https://github.com/preetamkamal)
 - [Harshit Sohaney] (https://github.com/HarshitSohaney)
 - [Amar Pakhare](https://github.com/amarpakhare)
+- [Boggby](https://github.com/Boggby)
 - [Alejandro Gonzalez Montalvo](https://github.com/Ajelandro19)
 - [Petar Petrovic] (https://github.com/GameExplorer)
 - [Anamol Dhakal] (https://github.com/AnamolZ)
