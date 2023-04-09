@@ -1532,7 +1532,6 @@ Subhajit Bera
 - [Lee Tebbo Tebbs](https://github.com/leetebbs)
 - [Vinícius Assumpção de Araújo](https://github.com/viniman27)
 - [Shade St Claire](https://github.com/regeum-deus/)
-- [Ameen](https://github.com/0-yohan)
 - [Luke Soderquist](https://github.com/lsoderquist)
 - [Simon Ralek](https://github.com/SimonRalek)I[I
 - [Elizabeth Flack](https://github.com/Songlore)
