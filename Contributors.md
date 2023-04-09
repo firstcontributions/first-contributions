@@ -3044,6 +3044,7 @@ Rishabh Pandey
 - [Giorgio Menini](https://github.com/Menno00)
 - [Suhas Katrahalli](https://github.com/Suhas2002)
 - [Jivan Dandapat](https://github.com/jivandandapat)
+- [Patrick Mwangi](https://github.com/WMPatrick)
 - [Deepali Sayana](https://github.com/deepseas07)
 - [Sayan Bose](https://github.com/sayanbose1)
 - [André Carvalhal](https://github.com/ANDREC1986)
@@ -4120,3 +4121,4 @@ Ayan Das
 - [Mayank](https://github.com/mayhim182)
 - [codeob](https://github.com/ob-codes)
 - [Akash-Kallai](https://github.com/akash2704)
+
