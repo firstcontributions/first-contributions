@@ -3418,6 +3418,7 @@ Rishabh Pandey
 - [Rainério Costa](https://github.com/Raineriojr)
 - [Jacob Larsen](https://github.com/jlarsen0206)
 - [Kena Dave](https://github.com/kenadave)
+- [Matheo Lord-Martinez] (https://github.com/matheo-lm)
 - [Bahja isak mohamed](https://github.com/bahjaisack)
 - [Sujal-Burad](https://github.com/Sujal-Burad)
 - [Bisrat Kebere](https://github.com/bisryy)
