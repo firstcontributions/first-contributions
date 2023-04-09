@@ -59,6 +59,7 @@ Aarif Khan
 - [Michael Stafford](https://github.com/mikestah808)
 - [Shivam Singh](https://github.com/shivamsinghydv)
 - [Dart reider](https://github.com/Dartreidar)
+- [Satya](https://github.com/Satya-Prakash-Dwivedi)
 - [John Philip Adove](https://github.com/primopaw)
 - [Stanley Tsai](https://github.com/stanley880902)
 - [Ishan Dutta](https://github.com/ishandutta0098)
