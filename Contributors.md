@@ -13,6 +13,7 @@
 - [Shailesh Yadav](https://github.com/shailesh1416)
 - [Muhammed Sefa BAYINDIR](https://github.com/msbayindir)
 - [Nahom Teshome](https://github.com/NahomTesM)
+- [John Carr] (https://github.com/johntsunami)
 - [Tcarters Edmund](https://github.com/Tcarters)
 - [Farheen Muqadam](https://github.com/M-Farheen)
 - [Bhagirath](https://github.com/bhagirath20)
