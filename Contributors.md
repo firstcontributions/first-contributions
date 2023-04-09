@@ -27,6 +27,7 @@
 - [Aditya Prakash](https://github.com/adityaprakash707)
 - [Prakhar Nigam](https://github.com/prakharkohq)
 - [Syahreza Ferdian](https://github.com/Syahreza-Ferdian)
+- [Rama Bharti](https://github.com/RamaBharti)
 - [Soni Kumari](https://github.com/codewithsonyy)
 - [Nag V](https://github.com/nag-geek)
 - [Kapil](https://github.com/KAPIL9027)
