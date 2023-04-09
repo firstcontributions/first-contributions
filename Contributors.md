@@ -12,6 +12,7 @@
 - [Mario Marcotulli](https://github.com/Magrid0)
 - [Shailesh Yadav](https://github.com/shailesh1416)
 - [Nahom Teshome](https://github.com/NahomTesM)
+- [Tcarters Edmund](https://github.com/Tcarters)
 - [Farheen Muqadam](https://github.com/M-Farheen)
 - [Bhagirath](https://github.com/bhagirath20)
 - [Koushlendra Kumar](https://github.com/Koushlendra-Kumar)
