@@ -3986,6 +3986,7 @@ Ayan Das
 - [wang168003](https://github.com/wang168003)
 - [Nsowah Alexander](https://github.com/recklessbud)
 - [pabloped](https://github.com/pabloped)
+- [Casey Moore - Rippythegator](https://github.com/RippyTheGator/)
 - [Calvin Pan](https://github.com/pancawind)
 - [Stanislav Kruglov](https://github.com/Stas-K-A)
 - [Digbijaya Biswal](https://github.com/digbijaya20)
@@ -4117,3 +4118,4 @@ Ayan Das
 - [Jacques Joseph](https://github.com/Jaicsdx)
 - [Mayank](https://github.com/mayhim182)
 - [codeob](https://github.com/ob-codes)
+
