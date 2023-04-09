@@ -1,5 +1,6 @@
    # Contributors 
 <!-- prettier-ignore-start -->
+- [Jinisha Mehta] (https://github.com/Jinishamehta)
 - [Darkhan Adaibekov](https://github.com/Dak00)
 - [Siddheshwar Panda](https://github.com/sidd2307)
 - [Clupai8o0](https://github.com/Clupai8o0)
