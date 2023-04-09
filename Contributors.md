@@ -1,6 +1,7 @@
    # Contributors 
 <!-- prettier-ignore-start -->
 - [Darkhan Adaibekov](https://github.com/Dak00)
+- [Siddheshwar Panda](https://github.com/sidd2307)
 - [Abdulmajeed Alzahrani](https://github.com/Abdulmajeed-SWE)
 - [Shinya Nakayama](https://github.com/Shinya1192)
 - [Gregory Phiri](https://github.com/GreyWolf2020)
