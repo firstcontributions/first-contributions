@@ -4107,6 +4107,7 @@ Ayan Das
 - [Prayash Dash](https://github.com/prayashdash1729)
 - [Zubaer Khan](https://github.com/zubaer-khan)
 - [Jian Chen](https://github.com/alancj731)
+- [Séphorah ANIAMBOSSOU](https://github.com/sephorah/)
 - [ANUJ KASHYAP](https://github.com/ANUJxEPUB)
 - [Stilyan Stalev] (https://github.com/sN337)
 - [Sandip Gyawali] (https://github.com/SandipGyawali)
