@@ -22,6 +22,7 @@
 - [Achuthaperumal Radhakrishnan](https://github.com/achuthaperumal)
 - [Sahil Patel] (https://github.com/sily-patel)
 - [Shivam Kumar](https://github.com/shivamspiky)
+- [Aditya Prakash](https://github.com/adityaprakash707)
 - [Prakhar Nigam](https://github.com/prakharkohq)
 - [Syahreza Ferdian](https://github.com/Syahreza-Ferdian)
 - [Soni Kumari](https://github.com/codewithsonyy)
