@@ -1108,6 +1108,7 @@ Arjun Palathinkara
 - [Soham Vij] (https://github.com/Sohezee)
 - [Tiago Gonçalves](https://github.com/tiagogdev)
   [Frank Alimimian] (https://github.com/Franklyn883)
+- [Amrit Dhandharia](https://github.com/amrit2611)
   -[Tse C](https://github.com/kyroC)
 - [Ana Maria Amorim]
 - [Gannon Rowlan]
