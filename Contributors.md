@@ -4120,6 +4120,7 @@ Ayan Das
 - [Rafael Amorim](https://github.com/Rafael-Amorim7)
 - [Shushant Kumar](https://github.com/Living-Hell)
 - [Prayash Dash](https://github.com/prayashdash1729)
+- [Ankit Yadav](https://github.com/ankity26)
 - [Zubaer Khan](https://github.com/zubaer-khan)
 - [Jian Chen](https://github.com/alancj731)
 - [Séphorah ANIAMBOSSOU](https://github.com/sephorah/)
