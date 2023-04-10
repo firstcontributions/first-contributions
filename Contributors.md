@@ -136,6 +136,7 @@ myname
 - [Wes MacDonald](https://github.com/wrmacdonald)
 - [Michał Szalaty](https://github.com/SzalatyM)
 - [Sahil Wankhade](https://github.com/theghostuchiha)
+- [Silas Li](https://github.com/verimascent)
 - [Janmejaya Padhan](https://github.com/Janmejaya777)
 - [Swayam Rana {RENGOKU}](https://github.com/SwayamRana808)
 - [Shadan Hussain](https://github.com/
