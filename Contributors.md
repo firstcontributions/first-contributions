@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 - [Vikrant Tomar] (https://github.com/hkrvikrant)
 - [Jinisha Mehta] (https://github.com/Jinishamehta)
+- [Harald Kriebisch](https://github.com/haraldkri)
 - [Darkhan Adaibekov](https://github.com/Dak00)
 - [Siddheshwar Panda](https://github.com/sidd2307)
 - [Clupai8o0](https://github.com/Clupai8o0)
