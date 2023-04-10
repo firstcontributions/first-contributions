@@ -4144,5 +4144,6 @@ Ayan Das
 - [Akash-Kallai](https://github.com/akash2704)
 - [Dmitry Fedorov](https://github.com/dmitr-fedorov)
 - [Hsu Ya Chu](https://github.com/Ralap88)
+- [Yami Heike](https://github.com/YamiHeike)
 - [Alpay Celik] (https://github.com/AlpayC)
 - [Mayank Singh] (https://github.com/codescalper)
