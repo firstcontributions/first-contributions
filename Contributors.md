@@ -1,5 +1,6 @@
    # Contributors 
 <!-- prettier-ignore-start -->
+- [Vikrant Tomar] (https://github.com/hkrvikrant)
 - [Jinisha Mehta] (https://github.com/Jinishamehta)
 - [Darkhan Adaibekov](https://github.com/Dak00)
 - [Siddheshwar Panda](https://github.com/sidd2307)
