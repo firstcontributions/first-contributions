@@ -12,6 +12,7 @@
 - [Usitha Indeewara](https://github.com/usithadev)
 - [Narendra Reddy](https://github.com/narendra098)
 - [Mario Marcotulli](https://github.com/Magrid0)
+- [Harsh Lohana] (https://github.com/harsh-lohana)
 - [Shailesh Yadav](https://github.com/shailesh1416)
 - [Muhammed Sefa BAYINDIR](https://github.com/msbayindir)
 - [Gautam Gupta](https://github.com/gautamgupta0909)
