@@ -4134,3 +4134,4 @@ Ayan Das
 - [codeob](https://github.com/ob-codes)
 - [Akash-Kallai](https://github.com/akash2704)
 - [Dmitry Fedorov](https://github.com/dmitr-fedorov)
+- [Hsu Ya Chu](https://github.com/Ralap88)
