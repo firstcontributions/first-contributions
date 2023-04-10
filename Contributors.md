@@ -16,6 +16,7 @@
 - [John Carr] (https://github.com/johntsunami)
 - [Tcarters Edmund](https://github.com/Tcarters)
 - [Farheen Muqadam](https://github.com/M-Farheen)
+- [Faizan Akhtar](https://github.com/faizan8684)
 - [Bhagirath](https://github.com/bhagirath20)
 - [Koushlendra Kumar](https://github.com/Koushlendra-Kumar)
   [Andrew Ivy]
