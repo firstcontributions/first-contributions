@@ -1,5 +1,6 @@
    # Contributors 
 <!-- prettier-ignore-start -->
+- [Gaurav Singh] (https://github.com/Gaurav-08-dev)
 - [Vikrant Tomar] (https://github.com/hkrvikrant)
 - [Jinisha Mehta] (https://github.com/Jinishamehta)
 - [Harald Kriebisch](https://github.com/haraldkri)
