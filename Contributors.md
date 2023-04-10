@@ -1734,6 +1734,7 @@ Subhajit Bera
 - [John Mwega](https://github.com/CodeDroid999)
 - [Ellie O'Connor] (https://github.com/ellieoconnor)
 - [HemanthB03](https://github.com/HemanthB03)
+- [Hemanth Kumar](https://github.com/Hemanth95)
 - [Prajwal Dhungana](https://github.com/PrajwalDhungana)
 - [Chirag Tiloomalani](https://github.com/chiragt13)
 - [Kiesse Afonso]()
