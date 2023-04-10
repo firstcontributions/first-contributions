@@ -108,6 +108,7 @@ Aarif Khan
 - [Durojaye Olusegun](https://github.com/GeoSegun)
 Hi  ..this  is shubham making my first contribution ...
 - [Om Dange](https://github.com/ommeleven)
+- [Ivan Luengo](https://github.com/ivluengo)
 - [Sanskar Agrawal]
 - [Antony Sun](https://github.com/antonypauson)
 - [aditya] (https://github.com/Aadii170)
