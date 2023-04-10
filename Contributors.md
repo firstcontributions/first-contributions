@@ -24,6 +24,7 @@
 -[Luv Sharma](https://github.com/Stormbreakerr20)
 - [William Hobson] (https://github.com/cali-lifornia)
 - [anjaneya tiwari](https://github.com/ptiwari6239)
+- [han](https://github.com/Palant-ir)
 - [Alexander Clarke](https://github.com/Alex-C96)
 - [Duong Tien Anh](https://github.com/anhdt1911)
 - [Aditya Reddy](https://github.com/EmaniAditya)
