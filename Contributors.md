@@ -46,6 +46,7 @@
 - [Siddhant Daryanani](https://github.com/sid12701)
 - [Satvik Prakash](https://github.com/satvik84)
 - [Oscar Fernández Muñoz](https://github.com/OscarFMdev)
+- [Talal Othman Al-Ahdal](https://github.com/talalOthman)
 - [Babul](https://github.com/mohammadBabul)
 - [Abhimanyu Patidar](https://github.com/AbhimanyuPatidar)
 - [Farhan Khan](https://github.com/BabaYaga1221)
