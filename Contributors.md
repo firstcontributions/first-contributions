@@ -25,6 +25,7 @@
 - [Bhagirath](https://github.com/bhagirath20)
 - [Koushlendra Kumar](https://github.com/Koushlendra-Kumar)
   [Andrew Ivy]
+- [Shoaib Rehman](https://github.com/kryptos-code)
 -[Luv Sharma](https://github.com/Stormbreakerr20)
 - [William Hobson] (https://github.com/cali-lifornia)
 - [anjaneya tiwari](https://github.com/ptiwari6239)
