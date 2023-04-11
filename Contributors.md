@@ -93,6 +93,7 @@ Aarif Khan
 - [Stanley Tsai](https://github.com/stanley880902)
 - [KT](https://github.com/kolife01)
 - [Ishan Dutta](https://github.com/ishandutta0098)
+- [Vasu Kakran](https://github.com/VasuKakran)
 - [Robin Kempen](https://github.com/Robinho1997)
 - [Anup Dhoble](https://github.com//anupdhoble)
 - [Mainul Sunvi](https://github.com/mainulsunvi)
