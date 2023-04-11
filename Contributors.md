@@ -30,6 +30,7 @@
   [Andrew Ivy]
   [aganyo360] (https://github.com/aganyo360)
 - [Shoaib Rehman](https://github.com/kryptos-code)
+- [Tanusri Ghosh] (https://github.com/chuaindia)
 -[Luv Sharma](https://github.com/Stormbreakerr20)
 - [William Hobson] (https://github.com/cali-lifornia)
 - [anjaneya tiwari](https://github.com/ptiwari6239)
