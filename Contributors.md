@@ -1999,6 +1999,7 @@ Rishabh Pandey
 - [Yash Rathi}@DevsocPI
 - [Sharvil Potdar@Devsoc PI](https://github.com/SMP111)
 - [Tanmoy khawas body_walia](https://github.com/hornycompiler)
+- [Yash Khare](https://github.com/Ekluvya)
 - [VINITH S](https://github.com/realvineeths)
 - [Faisal Saifi](https://github.com/faisalsaifii)
 - [Jake Butler](https://github.com/TioDelMundo)
