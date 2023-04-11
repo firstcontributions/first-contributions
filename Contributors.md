@@ -55,6 +55,7 @@
 - [BrysonV10](https://github.com/BrysonV10)
 - [Siddhant Daryanani](https://github.com/sid12701)
 - [Satvik Prakash](https://github.com/satvik84)
+- [Irtesaam Atfi](https://github.com/irtesaam)
 - [Oscar Fernández Muñoz](https://github.com/OscarFMdev)
 - [Talal Othman Al-Ahdal](https://github.com/talalOthman)
 - [Babul](https://github.com/mohammadBabul)
