@@ -1745,6 +1745,7 @@ Subhajit Bera
 - [ Kajal Singh]
 - [Mohammed Yunus](https://github.com/Y-u-n-u-s)
 - [Ali Munir Abbas](https://github.com/amw514)
+- [Dimitrios Efthymiou](https://github.com/orionlibs)
 - [Jordan I Johnson](https://github.com/JINJ95)
 - Arman Kumar Jena
 - [Simon Persson](https://github.com/SimonPersson23)
