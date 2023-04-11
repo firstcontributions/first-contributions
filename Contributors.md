@@ -1,6 +1,6 @@
    # Contributors 
 <!-- prettier-ignore-start -->
-- [Gaurav Singh] (https://github.com/Gaurav-08-dev)
+- [Gaurav Singh] (https://github.com/atisamhaq123)
 - [biteeunkilllable] (https://github.com/biteeunkilllable)
 - [Vikrant Tomar] (https://github.com/hkrvikrant)
 - [Jinisha Mehta] (https://github.com/Jinishamehta)
