@@ -5,6 +5,7 @@
 - [Vikrant Tomar] (https://github.com/hkrvikrant)
 - [Jinisha Mehta] (https://github.com/Jinishamehta)
 - [Harald Kriebisch](https://github.com/haraldkri)
+- [Azjae Washington](https://github.com/FixYourHands)
 - [Darkhan Adaibekov](https://github.com/Dak00)
 - [George Baroi] (https://github.com/georgebaroi)
 - [Siddheshwar Panda](https://github.com/sidd2307)
