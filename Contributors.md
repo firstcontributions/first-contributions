@@ -151,6 +151,7 @@ myname
 - [Kishor Kumar Paroi](https://github.com/kishorkumarparoi)
 - [Khitab Sing](https://github.com/KhitabSingh)git 
 - [Fernanda Elizalde](https://github.com/mfem442)
+- [Max Thimmig](https://github.com/mthimm2)
 - [Wes MacDonald](https://github.com/wrmacdonald)
 - [Michał Szalaty](https://github.com/SzalatyM)
 - [Sahil Wankhade](https://github.com/theghostuchiha)
