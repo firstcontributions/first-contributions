@@ -66,6 +66,7 @@
 - [Talal Othman Al-Ahdal](https://github.com/talalOthman)
 - [Babul](https://github.com/mohammadBabul)
 - [Abhimanyu Patidar](https://github.com/AbhimanyuPatidar)
+- [Joshua Lawrence](https://github.com/JayPixl)
 - [Farhan Khan](https://github.com/BabaYaga1221)
 - [Ampong Stephen](https://github.com/srampong) 
 - [Nagarjunan Gurumurthy] (https://github.com/arjunarj)
