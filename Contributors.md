@@ -1579,6 +1579,7 @@ Subhajit Bera
 - [Nadim Bou Alwan](https://github.com/nadinator)
 - [Susmit Ullas](https://github.com/Susmit-Ullas)
 - [Nathan Ware](https://github.com/Natan-Coder)
+- [Khai Luu](https://github.com/akluu)
 - Grace Henke
 - Tisha Codes
 - [Joaquin Sotelo](https://github.com/JoaquinSotel0)
