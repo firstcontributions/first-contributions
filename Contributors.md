@@ -24,6 +24,7 @@
 - [Gautam Gupta](https://github.com/gautamgupta0909)
 - [Nahom Teshome](https://github.com/NahomTesM)
 - [John Carr] (https://github.com/johntsunami)
+- [Vaibhav Kulshrestha] (https://github.com/vaibhav-k)
 - [Tcarters Edmund](https://github.com/Tcarters)
 - [Farheen Muqadam](https://github.com/M-Farheen)
 - [Faizan Akhtar](https://github.com/faizan8684)
