@@ -4179,3 +4179,4 @@ Ayan Das
 - [Yuji Oshiro](https://github.com/yujioshiro)
 - [Prashant Singh](https://github.com/prashant5025)
 - [Yeh Wang](https://github.com/Yeh-Wang)
+- [Katrina Dierking](https://github.com/Katrina-Dierking)
