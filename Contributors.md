@@ -3,6 +3,7 @@
 - [Gaurav Singh] (https://github.com/Gaurav-08-dev)
 - [biteeunkilllable] (https://github.com/biteeunkilllable)
 - [Vikrant Tomar] (https://github.com/hkrvikrant)
+- [Erfan Azari] (https://github.com/eazariDev)
 - [Jinisha Mehta] (https://github.com/Jinishamehta)
 - [Harald Kriebisch](https://github.com/haraldkri)
 - [Kenneth Assogba](https://github.com/kennethassogba)
