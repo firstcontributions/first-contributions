@@ -9,6 +9,7 @@
 - [Shreyash chitkula] (https://github.com/shreyashChitkula)
 - [Erfan Azari] (https://github.com/eazariDev)
 - [Jinisha Mehta] (https://github.com/Jinishamehta)
+- [Florian Braun] (https://github.com/iPwnds)
 - [Harald Kriebisch](https://github.com/haraldkri)
 - [Elsdon Chang](https://github.com/ElsdonC)
 - [Kenneth Assogba](https://github.com/kennethassogba)
