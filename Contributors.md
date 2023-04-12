@@ -4094,6 +4094,7 @@ Ayan Das
 - [ekusiadadus](https://github.com/ekusiadadus)
 - [Arkadii Ilinov](https://github.com/ArkadiiIL)
 - [Nathan Kalafut](https://github.com/NathHK)
+- [Leon Renn](https://github.com/leonrenn)
 - [Chrisfish](https://github.com/bsnowflake04)
 - [Ahmad Furqan Hassan](https://github.com/AFurqanHassan)
 - [Indrajith Madhumal](https://github.com/zetcco)
