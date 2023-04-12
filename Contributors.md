@@ -112,6 +112,7 @@ Aarif Khan
 - [Shaurya Gupta] (https://github.com/Shaurya10101)
 - [Nikhil Kulkarni](https://nikhilkulkarni1755.github.io/)
 - [Togun Oluwatobi](https://github.com/TOGUNOLUWATOBI)
+- [Steven Balan](https://github.com/srbalan)
 - [Ratna Sambhav](https://github.com/Ratna-Sambhav)
 - [Mukesh Kenwat](https://github.com/MukeshKenwat)
 - [Ritesh Zode](https://github.com/riteshzode)
