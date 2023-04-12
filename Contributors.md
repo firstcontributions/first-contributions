@@ -1,6 +1,7 @@
    # Contributors 
 <!-- prettier-ignore-start -->
 - [Gaurav Singh] (https://github.com/Gaurav-08-dev)
+- [Venkatesh Gunake] (https://github.com/venkateshatgit)
 - [biteeunkilllable] (https://github.com/biteeunkilllable)
 - [Gyeongsu Jang] (https://github.com/CaptainJang316)
 - [Vikrant Tomar] (https://github.com/hkrvikrant)
