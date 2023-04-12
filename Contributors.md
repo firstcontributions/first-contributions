@@ -4202,3 +4202,4 @@ Ayan Das
 - [Katrina Dierking](https://github.com/Katrina-Dierking)
 - [Kanika Kanwar] (https://github.com/kanikakanwar)
 - [Jide Olaniyan](https://github.com/jidemobell)
+- [Nimo Wang](https://github.com/limiu82214)
