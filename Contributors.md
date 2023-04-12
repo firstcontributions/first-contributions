@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 - [Gaurav Singh] (https://github.com/Gaurav-08-dev)
 - [biteeunkilllable] (https://github.com/biteeunkilllable)
+- [Gyeongsu Jang] (https://github.com/CaptainJang316)
 - [Vikrant Tomar] (https://github.com/hkrvikrant)
 - [Erfan Azari] (https://github.com/eazariDev)
 - [Jinisha Mehta] (https://github.com/Jinishamehta)
