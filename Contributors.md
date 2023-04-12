@@ -1,5 +1,6 @@
    # Contributors 
 <!-- prettier-ignore-start -->
+- [Ajit J Gupta] (https://github.com/ajitg25)
 - [Gaurav Singh] (https://github.com/Gaurav-08-dev)
 - [Venkatesh Gunake] (https://github.com/venkateshatgit)
 - [biteeunkilllable] (https://github.com/biteeunkilllable)
