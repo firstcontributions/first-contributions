@@ -3437,6 +3437,7 @@ Rishabh Pandey
 - [Filip Juráň] (https://github.com/MrakLMAOO)
 - [John-Paul Wernecke](https://github.com/Revicx)
 - [ayang7](https://github.com/ayang7)
+- [Harshavardhan Kolhatkar](https://github.com/EvilGenius1010)
 - [Shynee](https://github.com/Shynee1)
 - [Ashmeet Singh Monga](https://github.com/ashmeetsmonga)
 - [Tom Davis](https://github.com/tomjdavis4)
