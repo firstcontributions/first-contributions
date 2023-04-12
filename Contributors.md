@@ -1,7 +1,9 @@
    # Contributors 
 <!-- prettier-ignore-start -->
 - [Gaurav Singh] (https://github.com/Gaurav-08-dev)
+- [Venkatesh Gunake] (https://github.com/venkateshatgit)
 - [biteeunkilllable] (https://github.com/biteeunkilllable)
+- [Gyeongsu Jang] (https://github.com/CaptainJang316)
 - [Vikrant Tomar] (https://github.com/hkrvikrant)
 - [Erfan Azari] (https://github.com/eazariDev)
 - [Jinisha Mehta] (https://github.com/Jinishamehta)
@@ -13,6 +15,7 @@
 - [Siddheshwar Panda](https://github.com/sidd2307)
 - [Ankan Roy](https://gitub.com/Ankan-Cyber)
 - [Clupai8o0](https://github.com/Clupai8o0)
+- [Adeoti Nurudeen](https://github.com/Adeoti)
 - [Marcos Hernandez](https://github.com/6d61726b)
 - [Abdullah Alaadine](https://github.com/abdullah-alaadine)
 - [Abdulmajeed Alzahrani](https://github.com/Abdulmajeed-SWE)
@@ -238,6 +241,7 @@ Saeed is also doing a contribution ... :)
 - [K B Gourav Rajhans] (https://github.com/kbgouravrajhans)
 -[B Karthick] (https://github.com/karthickbharathi1)
 - [crocs-in-socks] (https://github.com/crocs-in-socks)
+- [Just some guy] (htttps://github.com/wwshjts)
 - Andrew Luminosity
 - [Dinesh Komakula] (https://github.com/dineshk47)
 - [Dan Jennings] (https://github.com/tsdanj)
@@ -1118,6 +1122,7 @@ Arjun Palathinkara
 - [Benjamin Chenevey](https://github.com/Bchenevey)
 - [Shreyash Somvanshi](https://github.com/ShreyashSomvanshi)
 - [RobbiDev](https://github.com/RobbiDev)
+- [Eleott](https://github.com/Eleott-hi)
 - [lezzthanthree](https://github.com/lezzthanthree)
 - [Sunny Singh](https://github.com/sunny-k-singh)
 -[Vikas Rathod](https://github.com/vikasrathod4299)
@@ -1759,6 +1764,7 @@ Subhajit Bera
 - [Ali Munir Abbas](https://github.com/amw514)
 - [Dimitrios Efthymiou](https://github.com/orionlibs)
 - [Jordan I Johnson](https://github.com/JINJ95)
+- [Sa5ho](https://github.com/Sa5ho)
 - Arman Kumar Jena
 - [Simon Persson](https://github.com/SimonPersson23)
 - Mrinmay Biswas
@@ -4193,3 +4199,4 @@ Ayan Das
 - [Yeh Wang](https://github.com/Yeh-Wang)
 - [Katrina Dierking](https://github.com/Katrina-Dierking)
 - [Kanika Kanwar] (https://github.com/kanikakanwar)
+- [Jide Olaniyan](https://github.com/jidemobell)
