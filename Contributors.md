@@ -5,6 +5,7 @@
 - [biteeunkilllable] (https://github.com/biteeunkilllable)
 - [Gyeongsu Jang] (https://github.com/CaptainJang316)
 - [Vikrant Tomar] (https://github.com/hkrvikrant)
+- [Shreyash chitkula] (https://github.com/shreyashChitkula)
 - [Erfan Azari] (https://github.com/eazariDev)
 - [Jinisha Mehta] (https://github.com/Jinishamehta)
 - [Harald Kriebisch](https://github.com/haraldkri)
