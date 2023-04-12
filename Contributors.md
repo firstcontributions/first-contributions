@@ -2912,6 +2912,7 @@ Rishabh Pandey
 - [Nishant Kumar](https://github.com/thinkwithcode)
 - [Pragathees](https://github.com/pragasekar)
 - [Thomas Jacka](https://github.com/TJacka)
+- [Sarper Özer](https://github.com/sarperozer)
 - [rabisha](https://github.com/rabi-1)
 - [William-David](https://github.com/William-David)
 - [Mahdi Taleghani](https://github.com/mmte)
