@@ -1760,6 +1760,7 @@ Subhajit Bera
 - [Ali Munir Abbas](https://github.com/amw514)
 - [Dimitrios Efthymiou](https://github.com/orionlibs)
 - [Jordan I Johnson](https://github.com/JINJ95)
+- [Sa5ho](https://github.com/Sa5ho)
 - Arman Kumar Jena
 - [Simon Persson](https://github.com/SimonPersson23)
 - Mrinmay Biswas
