@@ -6,6 +6,7 @@
 - [Gyeongsu Jang] (https://github.com/CaptainJang316)
 - [Vikrant Tomar] (https://github.com/hkrvikrant)
 - [Erfan Azari] (https://github.com/eazariDev)
+- [Shreyash chitkula] (https://github.com/shreyashChitkula)
 - [Jinisha Mehta] (https://github.com/Jinishamehta)
 - [Harald Kriebisch](https://github.com/haraldkri)
 - [Elsdon Chang](https://github.com/ElsdonC)
