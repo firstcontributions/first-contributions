@@ -10,6 +10,7 @@
 - [Siddheshwar Panda](https://github.com/sidd2307)
 - [Ankan Roy](https://gitub.com/Ankan-Cyber)
 - [Clupai8o0](https://github.com/Clupai8o0)
+- [Adeoti Nurudeen](https://github.com/Adeoti)
 - [Marcos Hernandez](https://github.com/6d61726b)
 - [Abdulmajeed Alzahrani](https://github.com/Abdulmajeed-SWE)
 - [Shinya Nakayama](https://github.com/Shinya1192)
