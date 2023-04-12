@@ -4204,4 +4204,4 @@ Ayan Das
 - [Kanika Kanwar] (https://github.com/kanikakanwar)
 - [Jide Olaniyan](https://github.com/jidemobell)
 - [Nimo Wang](https://github.com/limiu82214)
-- [Nadeem Nagarji] (https://github.com/nadeemnagarji)
+- [Nadeem Nagarji](https://github.com/nadeemnagarji)
