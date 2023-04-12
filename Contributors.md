@@ -1113,6 +1113,7 @@ Arjun Palathinkara
 - [Martin Kozár](https://github.com/MartinKjunior)
 - [Harshita Raghu](https://github.com/rnharshee)
 - [Slater McArdle] (https://github.com/SlaterMcArdle)
+- [Christopher Sanchez](https://github.com/shonen787)
 - [Georgios Kakarlis](https://github.com/georgekakarlis)
 - [Jonathan Beale](https://github.com/iconbaypark2900/)
 - [sam gill]
