@@ -3385,6 +3385,7 @@ Rishabh Pandey
 - [cadmusbashlog🥷️](https://github.com/cadmusbashlog)
 - [cyoung]
 - [khushi](https://github.com/khushi0706)
+- [Remi] (https://github.com/dergrunebauer)
 - [Deivisson Lisboa](https://github.com/DeivissonLisboa)
 - [Yann](https://github.com/Yan107351111)
 - [Kanhaya](https://github.com/kanhayaKy)
