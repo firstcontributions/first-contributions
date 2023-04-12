@@ -8,7 +8,7 @@
 - [Erfan Azari] (https://github.com/eazariDev)
 - [Jinisha Mehta] (https://github.com/Jinishamehta)
 - [Harald Kriebisch](https://github.com/haraldkri)
-- [Amine Chadli] (https://github.com/Amine0237)
+- [Amine Chadli](https://github.com/Amine0237)
 - [Elsdon Chang](https://github.com/ElsdonC)
 - [Kenneth Assogba](https://github.com/kennethassogba)
 - [Azjae Washington](https://github.com/FixYourHands)
