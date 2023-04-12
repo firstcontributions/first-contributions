@@ -1433,6 +1433,7 @@ Subhajit Bera
 - [Tim Tscheppe](https://github.com/Tim-Tscheppe)
 - [Suriya4Code](https://github.com/suriya4code)
 - [S.Coffee](https://github.com/salinatedcoffee)
+- [Ryan Pierce](https://github.com/rep-pierce)
 - [symo](https://github.com/shwe-oo)
 - [Jiarong Zhang] (https://github.com/Jiarong-Zhang)
 - [Josh Noh](https://github.com/NohTaeHwan)
