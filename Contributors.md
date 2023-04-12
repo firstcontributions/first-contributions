@@ -104,6 +104,7 @@ Aarif Khan
 - [Dart reider](https://github.com/Dartreidar)
 - [Satya](https://github.com/Satya-Prakash-Dwivedi)
 - [John Philip Adove](https://github.com/primopaw)
+- [Lloyd Goodman](https://github.com/lloydgoodman)
 - [Stanley Tsai](https://github.com/stanley880902)
 - [KT](https://github.com/kolife01)
 - [Ishan Dutta](https://github.com/ishandutta0098)
