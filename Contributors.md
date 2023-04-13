@@ -2147,6 +2147,7 @@ Rishabh Pandey
 - [ante1404]
 - [Arjit@DevsocPI](https://github.com/arjit05)
 - [Mahadsid](https://github.com/Mahadsid)
+- [Eilie Huxton](https://github.com/eiliehux)
 - [Tara Simic]
 - [Shane Widanagama](https://github.com/shanewidanagama)
 - [Abhishek Kumar @DevSocPreinsuctions](https://github.com/Abhik13)
