@@ -12,6 +12,7 @@
 - [Gyeongsu Jang] (https://github.com/CaptainJang316)
 - [Vikrant Tomar] (https://github.com/hkrvikrant)
 - [Shreyash chitkula] (https://github.com/shreyashChitkula)
+- [Sagar Biradasr] (https://github.com/sagar1621)
 - [Erfan Azari] (https://github.com/eazariDev)
 - [Jinisha Mehta] (https://github.com/Jinishamehta)
 - [Florian Braun] (https://github.com/iPwnds)
