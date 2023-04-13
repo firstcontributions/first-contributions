@@ -6,6 +6,7 @@
 -[Kaish10] (https://github.com/Kaish10)
 - [Venkatesh Gunake] (https://github.com/venkateshatgit)
 - [biteeunkilllable] (https://github.com/biteeunkilllable)
+- [Shuo Wang] (https://github.com/Wsgamer7)
 - [Gyeongsu Jang] (https://github.com/CaptainJang316)
 - [Vikrant Tomar] (https://github.com/hkrvikrant)
 - [Shreyash chitkula] (https://github.com/shreyashChitkula)
