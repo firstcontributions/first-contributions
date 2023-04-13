@@ -7,6 +7,7 @@
 - [Nahom Teshome](https://github.com/NahomTesM)
 - [Farheen Muqadam](https://github.com/M-Farheen)
 - [Bhagirath](https://github.com/bhagirath20)
+- [Jane Affam](https://github.com/jayneey)
 - [Koushlendra Kumar](https://github.com/Koushlendra-Kumar)
 -[Luv Sharma](https://github.com/Stormbreakerr20)
 - [anjaneya tiwari](https://github.com/ptiwari6239)
