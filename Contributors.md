@@ -152,6 +152,7 @@ Hi  ..this  is shubham making my first contribution ...
 - [Om Dange](https://github.com/ommeleven)
 - [Ivan Luengo](https://github.com/ivluengo)
 - [Sanskar Agrawal]
+- [Shalev Argaman](https://github.com/shallva)
 - [Antony Sun](https://github.com/antonypauson)
 - [aditya] (https://github.com/Aadii170)
 - hi there , this is my first contribution on github.
