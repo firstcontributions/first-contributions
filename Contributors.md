@@ -56,7 +56,7 @@
   [aganyo360] (https://github.com/aganyo360)
 - [Shoaib Rehman](https://github.com/kryptos-code)
 - [Tanusri Ghosh] (https://github.com/chuaindia)
--[Luv Sharma](https://github.com/Stormbreakerr20)
+- [Luv Sharma](https://github.com/Stormbreakerr20)
 - [William Hobson] (https://github.com/cali-lifornia)
 - [anjaneya tiwari](https://github.com/ptiwari6239)
 - [han](https://github.com/Palant-ir)
@@ -76,6 +76,7 @@
 - [Soni Kumari](https://github.com/codewithsonyy)
 - [Nag V](https://github.com/nag-geek)
 - [Kapil](https://github.com/KAPIL9027)
+- [Rajanikant Singh](https://github.com/rajanikant04)
 - [Harshit Agarwal](https://github.com/agarwalharshit27)
 - [Rajeeb Bhowmick](https://github.com/rajeeb12)
 - [Moby-Bit]()
@@ -108,7 +109,7 @@
 - [Aiji Wen](https://github.com/g2gpt)
 - [Prasannakumar Jha] (https://github.com/Prasannakumar9399)
 - NOELL BIJU MICHAEL
-Aarif Khan
+ Aarif Khan
 - [Shehu Yakubu] (https://github.com/Shehu-Yakubu)
 - [George Bachour] (https://github.com/sgeorgevv)
 - [Hong Xing Jun](https://github.com/xingjun1015)
