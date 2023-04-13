@@ -4,6 +4,7 @@
 - [Albin N J](https://github.com/AlbinN-J)
 - [kyrill belomenov](https://github.com/kybe236)
 - [craigardy]
+- [Jordan Beall](https://github.com/JMBEALL)
 - [AayushPaigwar](https://github.com/AayushPaigwar)
 - [Brandonawan](https://github.com/Brandonawan)
 - [darkGhost] (https://github.com/darkGhost3108)
