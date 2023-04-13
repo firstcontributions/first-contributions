@@ -734,6 +734,7 @@ Adwai
 - [James Smead] (https://github.com/jsmead39)
 - [Riley Livingston] (https://github.com/Riley-livingston)
 - [Quentin Ng] (https://github.com/kwantaing)
+- [Ayush Singh] (https://github.com/ayush0O7)
 - [Stephen Mather] (https://github.com/hippodrom)
 - [Emily Lubkert] (https://github.com/emilylubkert)
   [Shivam Tyagi] (https://github.com/Shivam-0407)
