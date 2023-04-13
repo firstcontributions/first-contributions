@@ -4176,6 +4176,7 @@ Ayan Das
 - [Muhd Farhad](https://github.com/HachiRogue)
 **joshua thomas **
 - [Ismail courr](https://github.com/Ismailco)
+- [M Miura](https://github.com/miuraM)
 - [Fernando Moura](https://github.com/nandumoura)   
 - [Joseph Martin](https://github.com/sejosephmartin)  
 - [Austin E] (https://github.com/AfreAustin)
