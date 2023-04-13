@@ -2315,6 +2315,7 @@ Rishabh Pandey
 - [Lien Font](https://github.com/90sPixelDev)
 - [Anuhya sabbani](https://github.com/anuhyasabbani)
 - [Bojidar Vladimirov](https://github.com/BojidarV)]
+- [Arnau Monforte] (https://github.com/Iracuzzi)
 - [Vikhyat Gupta@DevsocPI](https://github.com/Vikhyat0908)
 - [sankarapandi](https://github.com/Sankarapandi-Murugan)
 - [Ricardo Sousa](https://github.com/ricardosousabr)
