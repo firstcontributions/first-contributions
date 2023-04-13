@@ -2668,6 +2668,7 @@ Rishabh Pandey
 - [Profe Glip](https://github.com/Scr1ptechnick)
 - [Ivan Gutsev](https://github.com/IvanGutsev)
 - [Assogba charbel](https://github.com/charbossly)
+- [Neale Taylor](https://github.com/NealePT)
 - [lulusbago](https://github.com/lulubago)
 - [Aazim Parwaz](https://github.com/Aazim-parwaz)
 - [Monish Prabhu](https://github.com/monish-pr/)
