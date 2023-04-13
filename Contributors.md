@@ -13,6 +13,7 @@
 - [Jinisha Mehta] (https://github.com/Jinishamehta)
 - [Florian Braun] (https://github.com/iPwnds)
 - [Fariahh Basha] (https://github.com/fari03)
+- [Nicolas Soroka] (https://github.com/NicolasSoroka)
 - [Harald Kriebisch](https://github.com/haraldkri)
 - [Elsdon Chang](https://github.com/ElsdonC)
 - [Kenneth Assogba](https://github.com/kennethassogba)
