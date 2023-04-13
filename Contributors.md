@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 - [Ajit J Gupta] (https://github.com/ajitg25)
 - [Aaron Brown] (https://github.com/kilowulf)
+- [Prem Ranjan] (https://github.com/premranjn)
 - [Gaurav Singh] (https://github.com/Gaurav-08-dev)
 -[Kaish10] (https://github.com/Kaish10)
 - [Venkatesh Gunake] (https://github.com/venkateshatgit)
