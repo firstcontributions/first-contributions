@@ -31,6 +31,7 @@
 - [Abdulmajeed Alzahrani](https://github.com/Abdulmajeed-SWE)
 - [Shinya Nakayama](https://github.com/Shinya1192)
 - [Gregory Phiri](https://github.com/GreyWolf2020)
+- [Shreya Sriramineni](https://github.com/shreya1728)
 - [Trevor Shepherd](https://github.com/TS-Acc)
 - [Usitha Indeewara](https://github.com/usithadev)
 - [Narendra Reddy](https://github.com/narendra098)
