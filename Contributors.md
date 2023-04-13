@@ -140,6 +140,7 @@ Aarif Khan
 - [Dennis Farley](https://github.com/dfarlz97)
 -[Raj Kumar 9711](https://github.com/raaz9711 )
 -[Ray Sandford]
+- [Shota Takamori](https://github.com/Takashota)
 - [Berke Pite](https://github.com/Luieitalian)
 - [Durojaye Olusegun](https://github.com/GeoSegun)
 Hi  ..this  is shubham making my first contribution ...
