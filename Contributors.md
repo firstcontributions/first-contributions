@@ -52,6 +52,7 @@
 - [Farheen Muqadam](https://github.com/M-Farheen)
 - [Faizan Akhtar](https://github.com/faizan8684)
 - [Bhagirath](https://github.com/bhagirath20)
+- [Jane Affam](https://github.com/jayneey)
 - [Koushlendra Kumar](https://github.com/Koushlendra-Kumar)
 - [Ramya Sruthi](https://github.com/RamyaSruthi)
   [Andrew Ivy]
