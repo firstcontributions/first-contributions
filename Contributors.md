@@ -750,6 +750,7 @@ Adwai
 - [Lauris Macans] (https://github.com/lauriselvijs)
 - [Bouzahar Taha] (https://github.com/TahaNw)
 - [Ranjan Shitole] (https://github.com/ranjan2829)
+- [Titania Yan] (https://github.com/TYan18)
 - [Pierre Corazo Cesario](https://github.com/PScoriae)
 - [Moses Mwangi](https://github.com/MosesSoftEng)
 - [Kamal Preetam] (https://github.com/preetamkamal)
