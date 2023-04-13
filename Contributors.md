@@ -4243,3 +4243,4 @@ Ayan Das
 - [Leo Thern](https://github.com/LeoThern)
 - [Harsh Daga](https://github.com/Harsh-Daga)
 - [Justin Tackling](https://github.com/JTacklin)
+[Cyd Minton](https://github.com/cydminton)
