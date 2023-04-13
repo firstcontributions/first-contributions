@@ -63,6 +63,7 @@
 - [Alexander Clarke](https://github.com/Alex-C96)
 - [Duong Tien Anh](https://github.com/anhdt1911)
 - [Aditya Reddy](https://github.com/EmaniAditya)
+- [Atharv Powalkar](https://github.com/07-Atharv)
 - [Alex Prudhomme](https://github.com/alexprudhomme)
 - [Achuthaperumal Radhakrishnan](https://github.com/achuthaperumal)
 - [Sahil Patel] (https://github.com/sily-patel)
