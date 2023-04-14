@@ -100,6 +100,7 @@
 - [Pritse](https://github.com/Pritse)
 - [EmmavdVreugde](https://github.com/EmmavdVreugde)
 - [Victor Lopez] (https://github.com/viclop1597)
+- [Victor G.] (https://github.com/vicagasi)
 - [Andrew Maged](https://github.com/AndrewMaged814)
 - [aditya kumar prusti](https://github.com/aditya172004)
 - [Eesha S]()
