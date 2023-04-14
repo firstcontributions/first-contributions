@@ -141,6 +141,7 @@ Aarif Khan
 - [Marc Ty](https://github.com/MarcT)
 - [Sanketh P](https://github.com/sankethp44)
 - [Sahil Mali] (https://github.com/Sxhil296)
+- [Matthew Straughn] (https://github.com/TealWater)
 - [Shaurya Gupta] (https://github.com/Shaurya10101)
 - [Nikhil Kulkarni](https://nikhilkulkarni1755.github.io/)
 - [Togun Oluwatobi](https://github.com/TOGUNOLUWATOBI)
