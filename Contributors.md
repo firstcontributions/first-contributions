@@ -4234,7 +4234,7 @@ Ayan Das
 - [Dexter Vorbe](https://github.com/dextervorbe)
 - [Heather Page](https://github.com/heather100401)
 - [Damon Ross](https://github.com/damonphilipross)
--[Akram quark](https://github.com/Akram-quark)
+- [Akram quark](https://github.com/Akram-quark)
 - [Stephen Campbell](https://github.com/sjcrz)
 - [Thomas Bourke](https://github.com/thomasbourke1)
 - [Yuji Oshiro](https://github.com/yujioshiro)
@@ -4248,4 +4248,6 @@ Ayan Das
 - [Leo Thern](https://github.com/LeoThern)
 - [Harsh Daga](https://github.com/Harsh-Daga)
 - [Justin Tackling](https://github.com/JTacklin)
-[Cyd Minton](https://github.com/cydminton)
+- [Cyd Minton](https://github.com/cydminton)
+- [Vinod Patil](https://github.com/vinodpatildev)
+
