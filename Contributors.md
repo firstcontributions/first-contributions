@@ -29,6 +29,7 @@
 - [George Baroi] (https://github.com/georgebaroi)
 - [Vladimir Kokourov] (https://github.com/VladimirKokourov)
 - [Siddheshwar Panda](https://github.com/sidd2307)
+- [Bishal](https://github.com/bishalneopaney)
 - [Ankan Roy](https://gitub.com/Ankan-Cyber)
 - [Clupai8o0](https://github.com/Clupai8o0)
 - [Adeoti Nurudeen](https://github.com/Adeoti)
