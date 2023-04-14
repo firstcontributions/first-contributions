@@ -127,6 +127,7 @@ Aarif Khan
 - [Lloyd Goodman](https://github.com/lloydgoodman)
 - [Stanley Tsai](https://github.com/stanley880902)
 - [KT](https://github.com/kolife01)
+- [Rinshadcp](https://github.com/rinshadcp)
 - [Ishan Dutta](https://github.com/ishandutta0098)
 - [Vasu Kakran](https://github.com/VasuKakran)
 - [Robin Kempen](https://github.com/Robinho1997)
