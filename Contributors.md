@@ -4203,7 +4203,7 @@ Ayan Das
 -[R Sahil Sharma](https://github.com/Sahil1728)
 - [8bits-cat](https://github.com/8bits-cat)
 - [Muhd Farhad](https://github.com/HachiRogue)
-**joshua thomas **
+**joshua thomas**
 - [Ismail courr](https://github.com/Ismailco)
 - [M Miura](https://github.com/miuraM)
 - [Fernando Moura](https://github.com/nandumoura)   
