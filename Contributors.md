@@ -17,6 +17,7 @@
 - [Shreyash chitkula] (https://github.com/shreyashChitkula)
 - [Sagar Biradasr] (https://github.com/sagar1621)
 - [Erfan Azari] (https://github.com/eazariDev)
+- [Varun Suvarna] (https://github.com/varun-2001)
 - [Jinisha Mehta] (https://github.com/Jinishamehta)
 - [Florian Braun] (https://github.com/iPwnds)
 - [Fariahh Basha] (https://github.com/fari03)
