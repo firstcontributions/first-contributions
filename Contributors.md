@@ -912,17 +912,13 @@ Adwai
 - [Codey Gallup](https://github.com/Codeyg12)
 - [Charles Showalter](https://github.com/WorldDrknss)
 - [Kamal Bisht](https://github.com/bisht-xp)
-- [LomiaW](https://github.com/LomiaW)
-- [Harshit Saini](https://github.com/scholar-2001)
-- [Jonas Krymski](https://github.com/krymskjm)
-- [Sergio Thompson](https://github.com/SergioJThompson)
-- [Karthik Goudar](https://github.com/karthikgoudar)
+
 - [CharlyMech](https://github.com/CharlyMech)
 - [Sylvia Karani](https://github.com/SylviaKarani)
 - [HarishRao](https://github.com/Harishrao13)
 
 - [Kyle Balian](https://github.com/LeetestOfCodes)
-
+- [Richard Wedner](https://github.com/RamblinMan49)
 - [Aryan Kumar](https://github.com/aryanda1)
 - [GuihVicentini](https://github.com/GuihVicentini)
 - [Janice Thomas](https://github.com/janicethomas)
@@ -4164,7 +4160,7 @@ Ayan Das
 - [Daniel Xu](https://github.com/Aspectsides)
 - [Rajdeep Barman](https://github.com/deepBn)
 - [Ziyan (Patrick) Liu](https://github.com/Patr1ckL)
-- [Tham Ming Jun](https://github.com/ThamMingJun)
+- [Tham Ming Jun](https://github.com/ThamMingJun)https://github.com/RamblinMan49/first-contributions.git
 - [Oni Oluwatomiwa](https://github.com/26thavenue)cd first-
 - [Ankit Gupta](https://github.com/ankit-95)
 - [Thiflan Silmi Kaffah](https://github.com/remainhumble)
