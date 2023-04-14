@@ -9,6 +9,7 @@
 - [biteeunkilllable] (https://github.com/biteeunkilllable)
 - [Vishnu] (https://github.com/vishnukumarsinha)
 - [Yanfeng Liu] (https://github.com/liuyanfeng)
+- [Kurem] (https://github.com/Kurem66/)
 - [Aadhavan] (https://github.com/Aadhavancnp)
 - [Shuo Wang] (https://github.com/Wsgamer7)
 - [Gyeongsu Jang] (https://github.com/CaptainJang316)
