@@ -12,6 +12,7 @@
 - [Kurem] (https://github.com/Kurem66/)
 - [Aadhavan] (https://github.com/Aadhavancnp)
 - [Shuo Wang] (https://github.com/Wsgamer7)
+- [Rahul Kumar] (https://github.com/rk3094)
 - [Gyeongsu Jang] (https://github.com/CaptainJang316)
 - [Vikrant Tomar] (https://github.com/hkrvikrant)
 - [Shreyash chitkula] (https://github.com/shreyashChitkula)
