@@ -1,5 +1,6 @@
    # Contributors 
 <!-- prettier-ignore-start -->
+- [kosen13] (https://github.com/kosen13)
 - [Roshan Gamage] (https://github.com/RoshanGamage01)
 - [Ajit J Gupta] (https://github.com/ajitg25)
 - [Aaron Brown] (https://github.com/kilowulf)
