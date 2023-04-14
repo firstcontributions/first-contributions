@@ -2390,6 +2390,7 @@ Rishabh Pandey
 - [Samarth Nagpal @ DevSocPI](https://github.com/SamarthNagpal)
 - [Sthiti](https://github.com/Sthiti04)
 - [Anand S](https://github.com/anand2000s)
+- [Miguel Auccahuasi](https://github.com/sakugemiaru)
 - [Aryan Wadhwa](https://github.com/TastyBiscuit0808/first-contributions)
 - [R.Noto](https://github.com/RikitoNoto)
 - [Ashwarya Maratha](https://github.com/marathan24)
