@@ -130,6 +130,7 @@ Aarif Khan
 - [Anup Dhoble](https://github.com//anupdhoble)
 - [Mainul Sunvi](https://github.com/mainulsunvi)
 - [Ajit Patil](https://github.com/whoajitpatil)
+- [Goutham Polavaram](https://github.com/gpolavaram0)
 - [Marc Ty](https://github.com/MarcT)
 - [Sanketh P](https://github.com/sankethp44)
 - [Sahil Mali] (https://github.com/Sxhil296)
