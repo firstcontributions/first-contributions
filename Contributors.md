@@ -26,6 +26,7 @@
 - [Fariahh Basha] (https://github.com/fari03)
 - [Nicolas Soroka] (https://github.com/NicolasSoroka)
 - [Harald Kriebisch](https://github.com/haraldkri)
+- [TZNwe](https://github.com/Thinzar11)
 - [Elsdon Chang](https://github.com/ElsdonC)
 - [Kenneth Assogba](https://github.com/kennethassogba)
 - [Azjae Washington](https://github.com/FixYourHands)
