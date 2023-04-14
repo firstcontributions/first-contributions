@@ -7,6 +7,7 @@
 -[Kaish10] (https://github.com/Kaish10)
 - [Venkatesh Gunake] (https://github.com/venkateshatgit)
 - [biteeunkilllable] (https://github.com/biteeunkilllable)
+- [Vishnu] (https://github.com/vishnukumarsinha)
 - [Yanfeng Liu] (https://github.com/liuyanfeng)
 - [Aadhavan] (https://github.com/Aadhavancnp)
 - [Shuo Wang] (https://github.com/Wsgamer7)
