@@ -2241,6 +2241,7 @@ Rishabh Pandey
 - [Petra Ojamanhor](https://github.com/Petra-Cae)
 - [Sudarhan Mallibhat](https://github.com/sudarshanmg)
 - [ Aniket Supekar ✨👻 ](https://github.com/AniketSupekar)
+- [Oleg Vasilchenko](https://github.com/MoonInBlack)
 - [Bogdan Otava](https://github.com/BogdanOtava)
 - [Afonso Ramalho](https://github.com/afonsosgsramalho)
 - Reetish Rath DevSoc Pre-inductions
