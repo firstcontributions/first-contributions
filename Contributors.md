@@ -6,6 +6,7 @@
 - [Ajit J Gupta] (https://github.com/ajitg25)
 - [Aaron Brown] (https://github.com/kilowulf)
 - [Prem Ranjan] (https://github.com/premranjn)
+- [Hector Garcia] (https://github.com/hectorgarcia07)
 - [Gaurav Singh] (https://github.com/Gaurav-08-dev)
 - [Kaish10] (https://github.com/Kaish10)
 - [Abhishek Lawhale] (https://github.com/abhil2002)
@@ -27,6 +28,7 @@
 - [Fariahh Basha] (https://github.com/fari03)
 - [Nicolas Soroka] (https://github.com/NicolasSoroka)
 - [Harald Kriebisch](https://github.com/haraldkri)
+- [TZNwe](https://github.com/Thinzar11)
 - [Elsdon Chang](https://github.com/ElsdonC)
 - [Kenneth Assogba](https://github.com/kennethassogba)
 - [Azjae Washington](https://github.com/FixYourHands)
@@ -4205,3 +4207,4 @@
   [Cyd Minton](https://github.com/cydminton)
 - [Cho Hang Ng](https://github.com/dsjoench)
 - [Luke Sloan](https://github.com/lsloan77)
+
