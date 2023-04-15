@@ -2144,6 +2144,7 @@ Rishabh Pandey
 - [Jônatas Pereira](https://github.com/euJonatasDev)
 - [Anagh Bhasker](https://github.com/anaghbhasker)
 - [Hasibur Rahman](https://github.com/hasiburdev)
+- [JakeQK](https://github.com/JakeQK)
 - [Bharat Tyagi](https://github.com/BharatAtbrat)]
 - [Aditya Chaudhary at DEVSOC preinductions](https://github.com/ADITYAC1234)
 - [Melek Msakni](https://github.com/melekmsakni)
