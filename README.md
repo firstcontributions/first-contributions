@@ -79,7 +79,6 @@ This project aims to simplify and guide the way beginners make their first contr
 
 _If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
-
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 #### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
@@ -121,16 +120,16 @@ Change to the repository directory on your computer (if you are not already ther
 cd first-contributions
 ```
 
-Now create a branch using the `git switch` command:
+Now create a branch using the `git branch` command:
 
 ```
-git switch -c your-new-branch-name
+git branch -c your-new-branch-name
 ```
 
 For example:
 
 ```
-git switch -c add-alonzo-church
+git branch -c add-alonzo-church
 ```
 
 ## Make necessary changes and commit those changes
@@ -146,6 +145,7 @@ Add those changes to the branch you just created using the `git add` command:
 ```
 git add Contributors.md
 ```
+
 Now commit those changes using the `git commit` command:
 
 ```
