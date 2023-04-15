@@ -123,13 +123,13 @@ cd first-contributions
 Now create a branch using the `git branch` command:
 
 ```
-git branch -c your-new-branch-name
+git branch -b your-new-branch-name
 ```
 
 For example:
 
 ```
-git branch -c add-alonzo-church
+git branch -b add-alonzo-church
 ```
 
 ## Make necessary changes and commit those changes
