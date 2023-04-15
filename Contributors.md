@@ -43,6 +43,7 @@
 - [Abdullah Alaadine](https://github.com/abdullah-alaadine)
 - [Abdulmajeed Alzahrani](https://github.com/Abdulmajeed-SWE)
 - [Shinya Nakayama](https://github.com/Shinya1192)
+- [Dan Eldon](https://github.com/Eldon-498)
 - [Gregory Phiri](https://github.com/GreyWolf2020)
 - [Shreya Sriramineni](https://github.com/shreya1728)
 - [Trevor Shepherd](https://github.com/TS-Acc)
