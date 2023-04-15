@@ -3139,6 +3139,7 @@ Rishabh Pandey
 - -[Manan Jain @ DevSoc](https://github.com/ItzManan)
 - [Chandra Kiran](https://github.com/chandra-kiran1)
 - [Aryan Thakore](https://github.com/Aryan1982)
+- [Mykhailo Gavryliuk](https://github.com/Michael1249)
 - [Hamza Nehme](https://github.com/hnehme99)
 - [vanagas11](https://github.com/vanagas11) 
 - [Rucha @DevSocPI]
