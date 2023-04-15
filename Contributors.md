@@ -9,7 +9,7 @@
 - [Prem Ranjan] (https://github.com/premranjn)
 - [Hector Garcia] (https://github.com/hectorgarcia07)
 - [Gaurav Singh] (https://github.com/Gaurav-08-dev)
-- [Kiplangat] (https://github.com/5000vw)
+- [isaac Kiplangat] (https://github.com/5000vw)
 - [Kaish10] (https://github.com/Kaish10)
 - [ajsirag] (https://github.com/ajsiragusa)
 - [Abhishek Lawhale] (https://github.com/abhil2002)
