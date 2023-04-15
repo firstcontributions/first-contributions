@@ -4267,4 +4267,5 @@ Ayan Das
 - [Cyd Minton](https://github.com/cydminton)
 - [Cho Hang Ng](https://github.com/dsjoench)
 - [Eugene Choi](https://github.com/sciones)
+- [Dylan Zhang](https://github.com/YinzeZhang)
 - [Virendra Yadav] (https://github.com/virendrayadav)   
