@@ -92,6 +92,7 @@
 - [Soni Kumari](https://github.com/codewithsonyy)
 - [Nag V](https://github.com/nag-geek)
 - [Kapil](https://github.com/KAPIL9027)
+- [Gurvinder Singh Gill](https://github.com/gs-gill)
 - [Harshit Agarwal](https://github.com/agarwalharshit27)
 - [Rajeeb Bhowmick](https://github.com/rajeeb12)
 - [Moby-Bit]()
