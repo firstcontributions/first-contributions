@@ -2219,6 +2219,7 @@ Rishabh Pandey
 - [Mikan](https://github.com/mika-alpha)
 - [ByteDream](https://github.com/ByteDream)
 - [AndreHed](https://github.com/AndreHed)
+- [Emmanuel Edem](https://github.com/mmnldm)
 - [Mahabub Arafat](https://github.com/MahabubArafat)
 -[TheSaviourEking](https://github.com/TheSaviourEking)
 - [Enoch Chirima](https://github.com/iamenochchirima)
