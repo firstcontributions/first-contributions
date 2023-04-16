@@ -17,6 +17,7 @@
 - [Vishnu] (https://github.com/vishnukumarsinha)
 - [Yanfeng Liu] (https://github.com/liuyanfeng)
 - [Elli Neu] (https://github.com/ENeuer)
+- [Ciriously] (https://github.com/Ciriously)
 - [Kurem] (https://github.com/Kurem66/)
 - [Aadhavan] (https://github.com/Aadhavancnp)
 - [Shuo Wang] (https://github.com/Wsgamer7)
