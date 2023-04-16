@@ -123,13 +123,15 @@ cd first-contributions
 Now create a branch using the `git branch` command:
 
 ```
-git branch -b your-new-branch-name
+git branch your-new-branch-name
+git checkout your-new-branch-name               >To switch between branches (main and remote)
 ```
 
 For example:
 
 ```
-git branch -b add-alonzo-church
+git branch add-alonzo-church
+git checkout add-alonzo-chruch
 ```
 
 ## Make necessary changes and commit those changes
