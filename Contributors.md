@@ -20,8 +20,6 @@
 - [Kurem] (https://github.com/Kurem66/)
 - [Aadhavan] (https://github.com/Aadhavancnp)
 - [Shuo Wang] (https://github.com/Wsgamer7)
-- [Oyebola Adefolajuwon] (https://github.com/Adefolajuwon)
-
 - [Rahul Kumar] (https://github.com/rk3094)
 - [Gyeongsu Jang] (https://github.com/CaptainJang316)
 - [Vikrant Tomar] (https://github.com/hkrvikrant)
@@ -36,6 +34,7 @@
 - [TZNwe](https://github.com/Thinzar11)
 - [Elsdon Chang](https://github.com/ElsdonC)
 - [Kenneth Assogba](https://github.com/kennethassogba)
+- [Oyebola Adefolajuwon](https://github.com/Adefolajuwon)
 - [Azjae Washington](https://github.com/FixYourHands)
 - [Darkhan Adaibekov](https://github.com/Dak00)
 - [George Baroi] (https://github.com/georgebaroi)
