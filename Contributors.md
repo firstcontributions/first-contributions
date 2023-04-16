@@ -197,6 +197,7 @@ myname
 
 -[Dev Raj Verma](https://github.com/DevRajVerma)
 - [Shadman Wadith](https://github.com/wadith027)
+- [Richie Momodu](https://github.com/RichieTheDev)
 -[Mukesh Mahato](https://github.com/mukeshmahato18)
 - [Aditya Verma](https://github.com/1av22)
 - [Kishor Kumar Paroi](https://github.com/kishorkumarparoi)
