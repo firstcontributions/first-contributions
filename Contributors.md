@@ -12,6 +12,7 @@
 - [ajsirag] (https://github.com/ajsiragusa)
 - [Abhishek Lawhale] (https://github.com/abhil2002)
 - [Pablo Alonso] (https://github.com/landa44)
+- [Ayush Tiwari] (https://github.com/a60231023)
 - [Venkatesh Gunake] (https://github.com/venkateshatgit)
 - [biteeunkilllable] (https://github.com/biteeunkilllable)
 - [Vishnu] (https://github.com/vishnukumarsinha)
