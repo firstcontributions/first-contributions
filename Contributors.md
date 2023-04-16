@@ -54,6 +54,7 @@
 - [Narendra Reddy](https://github.com/narendra098)
 - [Mario Marcotulli](https://github.com/Magrid0)
 - [Harshit Negi](https://github.com/Hnh013)
+- [Shibu Gope] (https://github.com/shibu-g)
 - [Prajwal Raut](https://github.com/Prajwalraut29)
 - [Harsh Lohana] (https://github.com/harsh-lohana)
 - [Shailesh Yadav](https://github.com/shailesh1416)
