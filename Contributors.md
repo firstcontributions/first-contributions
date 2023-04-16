@@ -3229,6 +3229,7 @@ Rishabh Pandey
 - [Ananthu AK](https://github.com/akanandhu)
 - [Abdul Waheed](https://github.com/waheedsid)
 - [Andres Emedan](https://github.com/andresemedan)
+- [Ikako Core](https://github.com/irakli777irakli)
 - [Julian Macioce](https://github.com/JMacioce)
 - [Matteo Bruscagnin](https://github.com/MBruscagnin)
 - [Donatus Tamajong](https://github.com/Donatus)
