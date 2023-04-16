@@ -63,6 +63,7 @@
 - [Shailesh Yadav](https://github.com/shailesh1416)
 - [Muhammed Sefa BAYINDIR](https://github.com/msbayindir)
 - [Georgina Sampson Olalde](https://github.com/georgina-sampson)
+- [Maxwell Hayden] (https://github.com/maxhayden)
 - [Gautam Gupta](https://github.com/gautamgupta0909)
 - [Nahom Teshome](https://github.com/NahomTesM)
 - [John Carr] (https://github.com/johntsunami)
