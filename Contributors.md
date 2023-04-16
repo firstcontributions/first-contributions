@@ -8,6 +8,7 @@
 - [Prem Ranjan] (https://github.com/premranjn)
 - [Hector Garcia] (https://github.com/hectorgarcia07)
 - [Gaurav Singh] (https://github.com/Gaurav-08-dev)
+- [Sudhanshu Shukla] (https://github.com/imsudhanshushukla)
 - [Kaish10] (https://github.com/Kaish10)
 - [Shaikh Zuber] (https://github.com/ShaikhJuber)
 - [ajsirag] (https://github.com/ajsiragusa)
