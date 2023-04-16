@@ -1627,6 +1627,7 @@ Subhajit Bera
 - [Danny Carlton](https://github.com/thedannycarlton)
 - [EmmePi]
 - [Ali Cagatay](https://github.com/alicagatay)
+- [Yanik Nayee](https://github.com/1nayeeyan)
 - [bambooch](https://github.com/bambooch)
 - [kyawZin](https://github.com/kyawZin24)
 - [ Ankan Dutta ](https://github.com/FullMetalChains)
