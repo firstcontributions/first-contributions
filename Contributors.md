@@ -40,6 +40,7 @@
 - [Vladimir Kokourov] (https://github.com/VladimirKokourov)
 - [Siddheshwar Panda](https://github.com/sidd2307)
 - [Ankan Roy](https://gitub.com/Ankan-Cyber)
+- [mtsalt](https://github.com/mtsalt)
 - [Clupai8o0](https://github.com/Clupai8o0)
 - [Adeoti Nurudeen](https://github.com/Adeoti)
 - [Aarsh Batra](https://github.com/AarshBatra/)
