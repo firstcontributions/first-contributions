@@ -17,7 +17,7 @@
 - [Vishnu] (https://github.com/vishnukumarsinha)
 - [Yanfeng Liu] (https://github.com/liuyanfeng)
 - [Kurem] (https://github.com/Kurem66/)
-- [Nuel] (https://https://github.com/ijklmopffs)
+- [Nuel] (https://github.com/ijklmopffs)
 - [Aadhavan] (https://github.com/Aadhavancnp)
 - [Shuo Wang] (https://github.com/Wsgamer7)
 - [Rahul Kumar] (https://github.com/rk3094)
