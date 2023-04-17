@@ -72,6 +72,7 @@
 - [Joshua Varghese](https://github.com/joshvarg)
 - [chowonbhin](https://github.com/chowonbhin)
 - [mimeosd](https://github.com/mimeosd)
+- [Li Feng](https://github.com/maplestarplayl)
 - [ManueldG](https://github.com/ManueldG)
 - [Tanmay Pradhan](https://github.com/tanmaypradhan4112)
 - [Chirag Goyal](https://github.com/ChiragGoyal98)
