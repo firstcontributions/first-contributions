@@ -45,6 +45,7 @@
 - [naveen](https://github.com/naveen-sanjula)
 - [Enrique Ambrocio](https://github.com/Enrique-Ambrocio)
 - [Martin Poncio](https://github.com/lmponcio)
+- [RongZhao Zhang](https://github.com/ZhangRongZhao247)
 - [Brock Price](https://github.com/brockwrites)
 - [bronkp](https://github.com/bronkp)
 - [Cedric Hannemann](https://github.com/cedhan)
