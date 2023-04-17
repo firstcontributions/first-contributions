@@ -661,6 +661,7 @@
 - [sgskung](https://github.com/sgskung)
 - [croductive](https://github.com/croductive)
 - [Kojo Ahyia-Osae](https://github.com/kj10dev)
+- [Gloria Boakye](https://github.com/Globak143)
 - [SK](https://github.com/skuperst)
 - [Damien Switzer](https://github.com/ThePinkFedora)
 - [Shize Gong](https://github.com/lzeee)
