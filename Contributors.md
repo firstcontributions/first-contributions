@@ -772,4 +772,5 @@
 - [Ivan Israel](https://github.com/marehori)
 - [H-ADJI](https://github.com/H-ADJI)
 - [Vernon Piland](https://github.com/VernonPiland)
+- [Kirti Soni](https://github.com/kitokirti)
 <!-- prettier-ignore-end -->
