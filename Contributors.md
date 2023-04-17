@@ -694,6 +694,7 @@
 - [Reduan Masud](https://github.com/reduanmasud) 
 - [William Dutra](https://github.com/WilliamDutra) 
 - [Narendra Anyam](https://github.com/narendra101) 
+- [Nathan Salberg](https://github.com/NSalberg)
 - [Lior Asras](https://github.com/4rass) 
 - [JVM](https://github.com/jaideepmurkute)
 - [Muhammed Jishin Jamal T C O](https://github.com/mohdjishin)
