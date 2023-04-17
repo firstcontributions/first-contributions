@@ -17,6 +17,7 @@
 - [Jordan](https://github.com/chowweijun)
 - [Deepa Kumari](https://github.com/deepa181)
 - [NandiniPokharna](https://github.com/NandiniPokharna)
+- [Andrew Lamichhane](https://github.com/Andrew-LC)
 - [Ruphaa Ganesan](https://github.com/ruphaa)
 - [unpluggedsam](https://github.com/unpluggedsam)
 - [LinhNguyenLe2109](https://github.com/LinhNguyenLe2109)
