@@ -1,5 +1,6 @@
    # Contributors 
 <!-- prettier-ignore-start -->
+-[Angelo Dorange](https://github.com/AngeloDorange)
 - [Abhimanyu Patidar](https://github.com/AbhimanyuPatidar)
 - [Farhan Khan](https://github.com/BabaYaga1221)
 - [Ayusman sahoo](https://github.com/ayushh9)
