@@ -773,4 +773,5 @@
 - [Ivan Israel](https://github.com/marehori)
 - [H-ADJI](https://github.com/H-ADJI)
 - [Vernon Piland](https://github.com/VernonPiland)
+- [Ricardo Ferreira](https://github.com/Cacousa2005)
 <!-- prettier-ignore-end -->
