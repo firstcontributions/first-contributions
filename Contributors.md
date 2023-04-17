@@ -675,6 +675,7 @@
 - [Kishan Kumar](https://github.com/kishan1000)
 - [minyu](https://github.com/minyu-zhao)
 - [sebiflorinp](https://github.com/sebiflorinp)
+- [huixuphys](https://github.com/huixuphys)
 - [kowsik](https://github.com/timetoadd)
 - [Sathvik](https://github.com/Sathvik1007)
 - [SR](https://githhub.com/suciuradu09)
