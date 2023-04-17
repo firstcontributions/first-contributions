@@ -757,6 +757,7 @@
 - [Julie Gunawan][https://github.com/JulieGunawan]
 - [ThotakuraHarish](https://github.com/ThotakuraHarish2003)
 - [MBDUR12](https://github.com/MBDur12/)
+- [Vinod Patil](https://github.com/vinodpatildev)
 - [cdkher2](https://github.com/cdkher2)
 - [Gemini Powell](https://github.com/GemAfaWell)
 - [Muhammad Zaki](https://github.com/muzakonthecode)
