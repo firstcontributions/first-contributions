@@ -261,6 +261,7 @@
 - [Stuart Bailey](https://github.com/stubailey18)
 - [Dempsey Palacio Tascon](https://github.com/deej-tsn)
 - [Bikash yadav](https://github.com/bikashydv)
+- [Harmeet Singh](https://github.com/harmeetsingh11)
 - [Sowmya S](https://github.com/sowmya-s-26)
 - [Ananthu AK](https://github.com/akanandhu)
 - [Oyebola adefolajuwon](https://github.com/Adefolajuwon)
