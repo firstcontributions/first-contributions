@@ -7,6 +7,7 @@
 - [Himanshu Singh](https://github.com/singh-himanshu-16)
 - [Himanshu Mathur](https://github.com/HimanshuMathur1396)
 - [Tim Yu](https://github.com/tyu012)
+- [Atharv powalkar](https://github.com/07-Atharv)
 - [Jordan](https://github.com/chowweijun)
 - [Deepa Kumari](https://github.com/deepa181)
 - [NandiniPokharna](https://github.com/NandiniPokharna)
