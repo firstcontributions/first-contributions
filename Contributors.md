@@ -3,7 +3,7 @@
 - [Abhimanyu Patidar](https://github.com/AbhimanyuPatidar)
 - [Farhan Khan](https://github.com/BabaYaga1221)
 - [Ayusman sahoo](https://github.com/ayushh9)
--[Angelo Dorange](https://github.com/AngeloDorange)
+- [Angelo Dorange](https://github.com/AngeloDorange)
 - [Pritse](https://github.com/Pritse)
 - [Andrew Maged](https://github.com/AndrewMaged814)
 - [Sanket Zade](https://github.com/ZSank)
