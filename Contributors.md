@@ -21,6 +21,7 @@
 - [Matthew Straughn](https://github.com/TealWater)
 - [Miguel Auccahuasi](https://github.com/sakugemiaru)
 - [kosen13](https://github.com/kosen13)
+- [Khaled Jamal](https://github.com/IBWThunder)
 - [Rinshadcp](https://github.com/rinshadcp)
 - [JasminTajShaik](https://github.com/JasminTajShaik2601)
 - [Rishi Deshmukh](https://github.com/26rishiii)
