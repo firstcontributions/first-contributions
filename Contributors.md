@@ -767,6 +767,7 @@
 - [MBDUR12](https://github.com/MBDur12/)
 - [Vinod Patil](https://github.com/vinodpatildev)
 - [cdkher2](https://github.com/cdkher2)
+- [Ryan Wozniak](https://github.com/Ryan9468)
 - [Mrigankar Sonowal](https://github.com/Mrigankar1134)
 - [Gemini Powell](https://github.com/GemAfaWell)
 - [Muhammad Zaki](https://github.com/muzakonthecode)
