@@ -15,6 +15,7 @@
 - [unpluggedsam](https://github.com/unpluggedsam)
 - [LinhNguyenLe2109](https://github.com/LinhNguyenLe2109)
 - [eest12](https://github.com/eest12)
+- [Rinshadcp](https://github.com/rinshadcp)
 - [JasminTajShaik](https://github.com/JasminTajShaik2601)
 - [Rishi Deshmukh](https://github.com/26rishiii)
 - [Nishant Kumar](https://github.com/thinkwithcode)
