@@ -756,6 +756,7 @@
 - [Thomas Henderson](https://github.com/HendersonSoftworks)
 - [Pem Tshewang](https://github.com/pemtshewang)
 - [yelsom](https://github.com/yelsom-eth)
+- [alphaprads](https://github.com/alphaprads)
 - [Jash Karangiya 😎](https://github.com/jashkarangiya)
 - [sumit Gupta](https://github.com/hisumitgupta)
 - [Anurag Sarkar](https://github.com/Anurag-Sarkar)
