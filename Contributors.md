@@ -12,6 +12,7 @@
 - [NandiniPokharna](https://github.com/NandiniPokharna)
 - [Ruphaa Ganesan](https://github.com/ruphaa)
 - [unpluggedsam](https://github.com/unpluggedsam)
+- [LinhNguyenLe2109](https://github.com/LinhNguyenLe2109)
 - [eest12](https://github.com/eest12)
 - [JasminTajShaik](https://github.com/JasminTajShaik2601)
 - [Rishi Deshmukh](https://github.com/26rishiii)
