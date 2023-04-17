@@ -604,6 +604,7 @@
 - [Kenneth Presto](https://github.com/kennethportizpresto)
 - [Michal Gagos](https://github.com/lizard123137)
 - [Vivek Srivastava](https://github.com/vivekfe)
+- [Milan Tejani](https://github.com/TheMilanTej)
 - [Ben Johansen](https://github.com/benjohansen)
 - [BuddhaHeadDev](https://github.com/BuddhaHeadDev)
 - [Kevin](https://github.com/KevinIsCool79)
