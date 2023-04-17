@@ -800,6 +800,7 @@
 - [Tarun Garg](https://github.com/Tarun110598)
 - [Harishankar Ravindran](https://github.com/jamessmith)
 - [CooperKozitza](https://github.com/CooperKozitza)
+- [Ahmed Mayara](https://github.com/ahmedmayara)
 - [RobertoKreshna](https://github.com/RobertoKreshna)
 - [Ivan Israel](https://github.com/marehori)
 - [H-ADJI](https://github.com/H-ADJI)
