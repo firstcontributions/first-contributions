@@ -17,6 +17,7 @@
 - [unpluggedsam](https://github.com/unpluggedsam)
 - [LinhNguyenLe2109](https://github.com/LinhNguyenLe2109)
 - [eest12](https://github.com/eest12)
+- [Miguel Auccahuasi](https://github.com/sakugemiaru)
 - [kosen13](https://github.com/kosen13)
 - [Rinshadcp](https://github.com/rinshadcp)
 - [JasminTajShaik](https://github.com/JasminTajShaik2601)
