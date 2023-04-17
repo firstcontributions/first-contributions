@@ -395,6 +395,7 @@
 - [Shivodit Gill](https://github.com/HotDogEnemy)
 - [Shantanu29kumar](https://github.com/Shantanu29kumar)
 - [IsaacNewTom](https://github.com/IsaacNewTom)
+- [Eli Taylor](https://github.com/elitay152)
 - [Jessica Hsiang](https://github.com/hsiangj)
 - [Praveen Kumar](https://github.com/pravo23)
 - [Jai-Marothiya](https://github.com/Jai-Marothiya)
