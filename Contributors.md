@@ -1,4 +1,4 @@
-  # Contributors
+  GGggg Contributors
 <!-- prettier-ignore-start -->
 - [Chana Raveh](https://github.com/craveh)
 - [GBR Pratap Singh](https://github.com/GBR_Pratap_Singh)
@@ -65,11 +65,12 @@ abiodun
 Kevin Becerra
 Abhishek Kumar Pathak
 Pranav Bhutada(https://github.com/pranav243)
-- [Chinmay Deo] (https://github.com/Chinmay-Deo-2004)
-- [Shubham Kumar] 
+Gaurav 
+- [Chinmay Deo] (https://github.com/Chinmay-Deo-2005)
+ [Shubham Kumar] 
 - [Piyush Mohata]
-- [Saleh Ahmed](https://github.com/SalehAhmed10)
-- [Asayhi](https://github.com/Asayhi)
+[Saleh Ahmed](https://github.com/SalehAhmed10)
+ [Asayhi](https://github.com/Asayhi)
 - [Additya](https://github.com/AddityaG)
 - [Andrew](https://github.com/andrewlabada)
 - [Rohit] (https://github.com/rohitchouhan35/first-contributions.git)
