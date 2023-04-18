@@ -827,6 +827,7 @@
 - [Vernon Piland](https://github.com/VernonPiland)
 - [Ricardo Ferreira](https://github.com/Cacousa2005)
 - [Jeffrey Lamar](https://github.com/jlam)
+- [Mert Anil Deke](https://github.com/mertanildk)
 - [Dosacat](https://github.com/dosacat)
 - [Aayush Goel](https://github.com/aayush-goel-04)
 - [Adrien Cokini](https://github.com/acokini)
