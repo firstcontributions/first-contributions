@@ -805,6 +805,7 @@
 - [Zeeshan Lone](https://github.com/still-learning-ev)
 - [Julie Gunawan][https://github.com/JulieGunawan]
 - [Soumya Mandal](https://github.com/heySoumy4)
+- [Mohd Yawar Shahid](https://github.com/yawar1101)
 - [ThotakuraHarish](https://github.com/ThotakuraHarish2003)
 - [MBDUR12](https://github.com/MBDur12/)
 - [Marco Alvarado - 7Pixel](https://github.com/7pixel-cl)
