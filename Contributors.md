@@ -1,5 +1,7 @@
-   # Contributors 
+# Contributors
+
 <!-- prettier-ignore-start -->
+
 - [Aryaman Pathak](https://github.com/aryamanpathak2022)
 - [Provab Mongchaw Khyang](https://github.com/notmongchaw)
 - [Atahan Caldir](https://github.com/atahancaldir)
@@ -48,6 +50,7 @@
 - [jeongwoo903](https://github.com/jeongwoo903)
 - [albus-droid](https://github.com/albus-droid)
 - [Desmond-Fon](https://github.com/Desmond-Fon)
+- [Mariangela Petrizzo](http://github.com/petrizzo)
 - [Srijanya Durganala](https://github.com/Srijanya.D)
 - [Sean Colligan](https://github.com/srcengine)
 - [TusharPramanick](https://github.com/TusharPramanick)
@@ -601,9 +604,9 @@
 - [Vinicius Antunes](https://github.com/vinicius-anp)
 - [Pat Browne](https://github.com/pbrowne011)
 - [Anshuman Tiwari](https://github.com/at610505)
--[Kyle Starrett](https://github.com/akstarre)
--[Amrit Rai](https://github.com/retrogtx)
--[Lily Clark](https://github.com/lilyclarkcodes)
+  -[Kyle Starrett](https://github.com/akstarre)
+  -[Amrit Rai](https://github.com/retrogtx)
+  -[Lily Clark](https://github.com/lilyclarkcodes)
 - [Nicolas Guruphat](https://github.com/NicolasGuruphat)
 - [Kenneth Presto](https://github.com/kennethportizpresto)
 - [Michal Gagos](https://github.com/lizard123137)
@@ -649,7 +652,7 @@
 - [Kushal Lahoti](https://github.com/kushalnl7)
 - [Curtis Cali](https://github.com/curtiscali)
 - [ErNeRooo](https://github.com/ErNeRooo)
--[Rishith P](https://github.com/Rishithp06)
+  -[Rishith P](https://github.com/Rishithp06)
 - [dsquirrel](https://github.com/dsquirrel1)
 - [aayushprime](https://github.com/aayushprime)
 - [aattwwss](https://github.com/aattwwss)
@@ -809,4 +812,5 @@
 - [Vernon Piland](https://github.com/VernonPiland)
 - [Ricardo Ferreira](https://github.com/Cacousa2005)
 - [Jeffrey Lamar](https://github.com/jlam)
-<!-- prettier-ignore-end -->
+  
+  <!-- prettier-ignore-end -->
