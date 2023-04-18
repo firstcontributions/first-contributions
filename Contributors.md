@@ -17,6 +17,7 @@
 - [Tim Yu](https://github.com/tyu012)
 - [DineshVeguru](https://github.com/dineshveguru)
 - [Titania Yan](https://github.com/TYan18)
+- [Sim Dash](https://github.com/udashdon4)
 - [ATHARV POWALKAR AP07](https://github.com/07-Atharv)
 - [Atharv powalkar](https://github.com/07-Atharv)
 - [Jordan](https://github.com/chowweijun)
