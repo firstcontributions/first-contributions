@@ -59,6 +59,7 @@
 - [abhivarat tyagi](https://github.com/abhi12tyagi)
 - [rabisha](https://github.com/rabi-1)
 - [Jordan Beall](https://github.com/JMBEALL)
+- [MALLESH C N](https://github.com/rohanworld)
 - [Varun Suvarna](https://github.com/varun-2001)
 - [William-David](https://github.com/William-David)
 - [Mahdi Taleghani](https://github.com/mmte)
