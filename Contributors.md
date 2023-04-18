@@ -3,6 +3,7 @@
 
 - [Aryaman Pathak](https://github.com/aryamanpathak2022)
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
+- [Koninika Tarafdar](https://github.com/Koninikax)
 - [Provab Mongchaw Khyang](https://github.com/notmongchaw)
 - [Robert West](https://github.com/rolewest)
 - [Atahan Caldir](https://github.com/atahancaldir)
