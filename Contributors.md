@@ -813,4 +813,5 @@
 - [Vernon Piland](https://github.com/VernonPiland)
 - [Ricardo Ferreira](https://github.com/Cacousa2005)
 - [Jeffrey Lamar](https://github.com/jlam)
+- [Dosacat](https://github.com/dosacat)
 <!-- prettier-ignore-end -->
