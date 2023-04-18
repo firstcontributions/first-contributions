@@ -1,6 +1,7 @@
    # Contributors 
 <!-- prettier-ignore-start -->
 - [Aryaman Pathak](https://github.com/aryamanpathak2022)
+- [Gantulga Enkhbat](https://github.com/Gantulga202)
 - [Provab Mongchaw Khyang](https://github.com/notmongchaw)
 - [Atahan Caldir](https://github.com/atahancaldir)
 - [YShen](https://github.com/yshenfab)
