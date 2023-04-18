@@ -92,6 +92,7 @@
 - [Brock Price](https://github.com/brockwrites)
 - [bronkp](https://github.com/bronkp)
 - Bruno V. T. Barbosa
+- Karthik
 - [Cedric Hannemann](https://github.com/cedhan)
 - [Devang Parekh](https://github.com/BravesDevs)
 - [Kiran Kuumar Mohanty](https://github.com/theluckiestsoul)
