@@ -815,4 +815,5 @@
 - [Ricardo Ferreira](https://github.com/Cacousa2005)
 - [Jeffrey Lamar](https://github.com/jlam)
 - [Dosacat](https://github.com/dosacat)
+- [Aayush Goel](https://github.com/aayush-goel-04)
 <!-- prettier-ignore-end -->
