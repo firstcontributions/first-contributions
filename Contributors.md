@@ -51,6 +51,7 @@
 - [Khaled Jamal](https://github.com/IBWThunder)
 - [GivingMyBest](https://github.com/GivingMyBest)
 - [Rinshadcp](https://github.com/rinshadcp)
+- [Jaideep More](https://phoenix009.github.io/)
 - [Kiran Johnson](https://github.com/KiranJohns)
 - [JasminTajShaik](https://github.com/JasminTajShaik2601)
 - [Rishi Deshmukh](https://github.com/26rishiii)
