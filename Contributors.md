@@ -1,4 +1,4 @@
-   # Contributors
+# Contributors
 <!-- prettier-ignore-start -->
 
 - [Aryaman Pathak](https://github.com/aryamanpathak2022)
@@ -321,7 +321,7 @@
 - [Abhighyaa](https://github.com/Abhighyaa)
 - [Alfeu Xerinda](https://githhub.com/Hard-007)
 - [Darcano Iglicoffi](https://github.com/shmudivel)
-- [Xavier Sow] (https://github.com/xaviersow)
+- [Xavier Sow](https://github.com/xaviersow)
 - [Miapp](https://github.com/MichalPKN)
 - [Chandan Singh](https://githhub.com/chandan8678)
 - [Sangam Singh](https://githhub.com/codersangam)
@@ -539,7 +539,7 @@
 - [cesourcile](https://github.com/cesourcile)
 - [yash1744](https://github.com/yash1744)
 - [Josh Litam](https://github.com/joshlitam)
-- [ctran] (https://github.com/ctran414)
+- [ctran](https://github.com/ctran414)
 - [Xeplon](https://github.com/Xeplon)
 - [danesusername](https://github.com/danesusername)
 - [Rajat Bhosale](https://github.com/RajatBhosale)
@@ -615,11 +615,11 @@
 - [Ibragim GK](https://github.com/Ibrapsico)
 - [Revathi Vijayendran](https:github.com/vrrevi)
 - [Damon Xue](https://github.com/damonxue)
-- [Alex J] (https://github.com/scjundev)
+- [Alex J](https://github.com/scjundev)
 - [Marcos Santiago](https://github.com/Imaginarybandit)
 - [Honoris Gratias Ndereyimana. :wink:](https://github.com/nhonorisg/)
 - [Alessandro Saggese 😎](https://github.com/asaggse/)
-- [sucnd ](https://github.com/sucnd/) 
+- [sucnd](https://github.com/sucnd/)
 - [Vinicius Antunes](https://github.com/vinicius-anp)
 - [Pat Browne](https://github.com/pbrowne011)
 - [Anshuman Tiwari](https://github.com/at610505)
@@ -801,7 +801,8 @@
 - [sumit Gupta](https://github.com/hisumitgupta)
 - [Anurag Sarkar](https://github.com/Anurag-Sarkar)
 - [Zeeshan Lone](https://github.com/still-learning-ev)
-- [Julie Gunawan][https://github.com/JulieGunawan]
+- [Julie Gunawan](https://github.com/JulieGunawan)
+- [TheBlackbird14](https://github.com/TheBlackbird14)
 - [Soumya Mandal](https://github.com/heySoumy4)
 - [ThotakuraHarish](https://github.com/ThotakuraHarish2003)
 - [MBDUR12](https://github.com/MBDur12/)
