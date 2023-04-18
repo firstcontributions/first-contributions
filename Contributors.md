@@ -36,6 +36,7 @@
 - [Natasha Mundada]()
 - [notdncly]()
 - [Hung Cai](https://github.com/Pro-vo-ker)
+- [Joel Lozano](https://github.com/joel-lozano)
 - [Shibu Gope](https://github.com/shibu-g)
 - [kartik giri](https://github.com/kartik-giri)
 - [Baga Sai Kiran](https://github.com/SKRam1024)
