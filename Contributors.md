@@ -33,6 +33,7 @@
 - [Shibu Gope](https://github.com/shibu-g)
 - [kartik giri](https://github.com/kartik-giri)
 - [Matthew Straughn](https://github.com/TealWater)
+- [Rajanikant Singh](https://github.com/rajanikant04)
 - [Miguel Auccahuasi](https://github.com/sakugemiaru)
 - [Priyanshu Gourav Sarangi](https://github.com/pgs17)
 - [kosen13](https://github.com/kosen13)
