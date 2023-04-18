@@ -22,6 +22,7 @@
 - [ATHARV POWALKAR AP07](https://github.com/07-Atharv)
 - [Atharv powalkar](https://github.com/07-Atharv)
 - [Jordan](https://github.com/chowweijun)
+- [Gianni Parello](https://github.com/giparello)
 - [Deepa Kumari](https://github.com/deepa181)
 - [NandiniPokharna](https://github.com/NandiniPokharna)
 - [Charan Kamal Singh](https://github.com/charankamal20)
