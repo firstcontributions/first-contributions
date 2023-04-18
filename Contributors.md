@@ -373,6 +373,7 @@
 - [Nisha Shastry](https://github.com/nishashastry)
 - [Girish Nair](https://github.com/javagirish)
 - [Quinn Ha](https://github.com/quinnha)
+- [Dylan Wilson](https://github.com/dylwil3)
 - [Dimitrije Ilic](https://github.com/Dimitrije1970)
 - [Prathamesh Sable](https://github.com/prathameshks)
 - [Martarion](https://github.com/Martarion-Code)
