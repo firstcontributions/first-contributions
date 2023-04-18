@@ -803,4 +803,5 @@
 - [Vernon Piland](https://github.com/VernonPiland)
 - [Ricardo Ferreira](https://github.com/Cacousa2005)
 - [Jeffrey Lamar](https://github.com/jlam)
+- [Mert Anil Deke](https://github.com/mertanildk)
 <!-- prettier-ignore-end -->
