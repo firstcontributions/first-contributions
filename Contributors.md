@@ -743,6 +743,7 @@
 - [Victor Okech](https://github.com/victorokech)
 - [Zoheir Bentebbiche](https://github.com/zoheir78)
 - [Sam Barlas](https://github.com/sambarlas)
+- [Namlh](https://github.com/namlh023)
 - [Matheus Favaretto](https://github.com/MatheuslFavaretto)
 - [Lucas Ribeiro](https://github.com/lucasribeiro-dev)
 - [Paulo Vitor](https://github.com/paulovitor-unb)
