@@ -88,6 +88,7 @@
 - [Kehinde Olalekan](https://github.com/KENNYDGREAT2)
 - [naveen](https://github.com/naveen-sanjula)
 - [Enrique Ambrocio](https://github.com/Enrique-Ambrocio)
+- [Yasir Jafri](https://github.com/Yasir323)
 - [Martin Poncio](https://github.com/lmponcio)
 - [RongZhao Zhang](https://github.com/ZhangRongZhao247)
 - [Brock Price](https://github.com/brockwrites)
