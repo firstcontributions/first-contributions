@@ -3,8 +3,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-Idioma: Português - Brasil
-
 # Primeiras Contribuições
 
 Este projeto visa facilitar o caminho e guiar os iniciantes em suas primeiras contribuições. Se você deseja fazer a sua primeira contribuição, siga os passos abaixo.
@@ -76,8 +74,6 @@ Se você for para o diretório do projeto e executar o comando `git status`, ver
 ```
 git add Contributors.md
 ```
-
-
 
 Agora, confirme essas alterações usando o comando git commit `git commit`:
 
