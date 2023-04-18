@@ -792,6 +792,7 @@
 - [DoubledConG](https://github.com/cccoding365)
 - [Kalp Prajapati](https://github.com/munnokd)
 - [S_Furman](https://github.com/S-Furman)
+- [Armaghan Shakir](https://github.com/geetu040)
 - [Thomas Henderson](https://github.com/HendersonSoftworks)
 - [Pem Tshewang](https://github.com/pemtshewang)
 - [Dominik Karas](https://github.com/KarasDominik)
