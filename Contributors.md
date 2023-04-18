@@ -34,6 +34,7 @@
 - [kartik giri](https://github.com/kartik-giri)
 - [Matthew Straughn](https://github.com/TealWater)
 - [Miguel Auccahuasi](https://github.com/sakugemiaru)
+- [Priyanshu Gourav Sarangi](https://github.com/pgs17)
 - [kosen13](https://github.com/kosen13)
 - [Khaled Jamal](https://github.com/IBWThunder)
 - [Rinshadcp](https://github.com/rinshadcp)
