@@ -62,6 +62,7 @@
 - [Varun Suvarna](https://github.com/varun-2001)
 - [William-David](https://github.com/William-David)
 - [Mahdi Taleghani](https://github.com/mmte)
+- [aditya kumar prusti](https://github.com/aditya172004)
 - [Bishal](https://github.com/bishalneopaney)
 - [Yash Bellary](https://github.com/bellaryyash23)
 - [Daniel Jeffrey Nibbs](https://github.com/Jeff-Nibbs)
