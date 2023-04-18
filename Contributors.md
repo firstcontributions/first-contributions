@@ -47,6 +47,7 @@
 - [Thomas Jacka](https://github.com/TJacka)
 - [Sarper Özer](https://github.com/sarperozer)
 - [rabisha](https://github.com/rabi-1)
+- [Jordan Beall](https://github.com/JMBEALL)
 - [Varun Suvarna](https://github.com/varun-2001)
 - [William-David](https://github.com/William-David)
 - [Mahdi Taleghani](https://github.com/mmte)
