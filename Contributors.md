@@ -822,4 +822,5 @@
 - [Jeffrey Lamar](https://github.com/jlam)
 - [Dosacat](https://github.com/dosacat)
 - [Aayush Goel](https://github.com/aayush-goel-04)
+- [Adrien Cokini](https://github.com/acokini)
 <!-- prettier-ignore-end -->
