@@ -41,6 +41,7 @@
 - [Miguel Auccahuasi](https://github.com/sakugemiaru)
 - [Priyanshu Gourav Sarangi](https://github.com/pgs17)
 - [kosen13](https://github.com/kosen13)
+- [Rahul Tripathi](https://github.com/rahultripathi-dev)
 - [Khaled Jamal](https://github.com/IBWThunder)
 - [GivingMyBest](https://github.com/GivingMyBest)
 - [Rinshadcp](https://github.com/rinshadcp)
