@@ -248,6 +248,7 @@
 - [Gangadhar Reddy](https://github.com/gangadharreddy98)
 - [Shaan Walia](https://github.com/mxixqc)
 - [Franklin Mensah](https://github.com/fiificode)
+- [sai-vivek-reddy](https://github.com/sai-vivek-reddy)
 - [Bright Odey](https://github.com/starburn-hub)
 - [Rahul chaurasiya](https://github.com/Rahul-chaurasiya?)
 - [Adèle Pluquet](https://github.com/apluquet)
