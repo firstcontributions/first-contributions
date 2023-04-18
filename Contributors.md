@@ -157,6 +157,7 @@
 - [GivingMyBest](https://github.com/GivingMyBest)
 - [aloopuri](https://github.com/aloopuri)
 - [Samarth](https://github.com/samarth777)
+- [Simon Ciavarro](https://github.com/S1m0nCi)
 - [Mario Luengo](https://github.com/mluengo96)
 - [Abidi-S](https://github.com/Abidi-S)
 - [Sandeep Nayak](https://github.com/SANDEEP-NAYAK)
