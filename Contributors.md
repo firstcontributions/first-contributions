@@ -780,6 +780,7 @@
 - [S_Furman](https://github.com/S-Furman)
 - [Thomas Henderson](https://github.com/HendersonSoftworks)
 - [Pem Tshewang](https://github.com/pemtshewang)
+- [Dominik Karas](https://github.com/KarasDominik)
 - [yelsom](https://github.com/yelsom-eth)
 - [Aiden Emerling](https://github.com/DoctorSir)
 - [alphaprads](https://github.com/alphaprads)
