@@ -1,5 +1,6 @@
    # Contributors
 <!-- prettier-ignore-start -->
+
 - [Aryaman Pathak](https://github.com/aryamanpathak2022)
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
 - [Provab Mongchaw Khyang](https://github.com/notmongchaw)
@@ -52,6 +53,7 @@
 - [jeongwoo903](https://github.com/jeongwoo903)
 - [albus-droid](https://github.com/albus-droid)
 - [Desmond-Fon](https://github.com/Desmond-Fon)
+- [Mariangela Petrizzo](http://github.com/petrizzo)
 - [Srijanya Durganala](https://github.com/Srijanya.D)
 - [Sean Colligan](https://github.com/srcengine)
 - [TusharPramanick](https://github.com/TusharPramanick)
