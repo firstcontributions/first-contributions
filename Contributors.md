@@ -630,7 +630,7 @@
 - [Marcos Santiago](https://github.com/Imaginarybandit)
 - [Honoris Gratias Ndereyimana. :wink:](https://github.com/nhonorisg/)
 - [Alessandro Saggese 😎](https://github.com/asaggse/)
-- [sucnd ](https://github.com/sucnd/) 
+- [sucnd ](https://github.com/sucnd/)
 - [Vinicius Antunes](https://github.com/vinicius-anp)
 - [Pat Browne](https://github.com/pbrowne011)
 - [Anshuman Tiwari](https://github.com/at610505)
@@ -856,4 +856,5 @@
 - [Dosacat](https://github.com/dosacat)
 - [Aayush Goel](https://github.com/aayush-goel-04)
 - [Adrien Cokini](https://github.com/acokini)
+- [Lou Onezime](https://github.com/louonezime)
 <!-- prettier-ignore-end -->
