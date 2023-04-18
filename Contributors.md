@@ -42,6 +42,7 @@
 - [Priyanshu Gourav Sarangi](https://github.com/pgs17)
 - [kosen13](https://github.com/kosen13)
 - [Khaled Jamal](https://github.com/IBWThunder)
+- [GivingMyBest](https://github.com/GivingMyBest)
 - [Rinshadcp](https://github.com/rinshadcp)
 - [Kiran Johnson](https://github.com/KiranJohns)
 - [JasminTajShaik](https://github.com/JasminTajShaik2601)
@@ -140,6 +141,7 @@
 - [Aadarsh Naik](https://github.com/aadarshnaik)
 - [teventov5](https://github.com/teventov5)
 - [kevins0101](https://github.com/kevins0101)
+- [GivingMyBest](https://github.com/GivingMyBest)
 - [aloopuri](https://github.com/aloopuri)
 - [Samarth](https://github.com/samarth777)
 - [Mario Luengo](https://github.com/mluengo96)
@@ -147,7 +149,7 @@
 - [Sandeep Nayak](https://github.com/SANDEEP-NAYAK)
 - [Tarif Higolja](https://github.com/mr-hingolja)
 - [Sahil Ahmed](https://github.com/PirateOfAndaman)
-- [Arman Kumar Aditya@DevsocPI]
+- [Arman Kumar] Aditya@DevsocPI]
 - [youngjun1227](https://github.com/youngjun1227)
 - [Preston Harms](https://github.com/R3dPnd)
 - [Tanishq Agarwal](https://github.com/Tanishq2807)
