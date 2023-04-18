@@ -327,6 +327,7 @@
 - [Suman Raj](https://github.com/the-suman)
 - [Megan Moulos](https://github.com/meganmoulos/)
 - [Rodrigo Cortes](https://github.com/rocortes10)
+- [Thamsanqa Shabangu](https://github.com/Thamesssa)
 - [Peter Hansteen](https://github.com/pitrh)
 - [Rakshit Gupta](https://github.com/rakshitgupta23)
 - [Cherlan-Miche PHILIPPE](https://github.com/LandoSansNom)
