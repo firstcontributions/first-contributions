@@ -823,6 +823,7 @@ Ti Kyi Khant
 - [DevonChia](https://github.com/DevonChia)
 - [gokserpirik](https://github.com/gokserpirik)
 - [Wulin_wu](https://github.com/BowMonkey)
+- [SrGnico](hhtps://github.com/SrGnico)
 - [Tochukwu Patience Onah](https://github.com/tchytech)
 - [Judd Russel Kalalo](https://github.com/Grocery4)
 - [Bartosz Jałkiewicz](https://github.com/Kurs-git-podstawy)
