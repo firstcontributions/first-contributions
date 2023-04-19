@@ -877,4 +877,5 @@
 - [Adrien Cokini](https://github.com/acokini)
 - [Lou Onezime](https://github.com/louonezime)
 - [kebwlmbheee](https://github.com/kebwlmbhee)
+- [Toya](https://github.com/T0YA)
 <!-- prettier-ignore-end -->
