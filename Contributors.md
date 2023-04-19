@@ -2,7 +2,6 @@
 <!-- prettier-ignore-start -->
 
 - [Aryaman Pathak](https://github.com/aryamanpathak2022)
-- [Satyam singh](https://github.com/jirayanaruto)
 - [Utkarsh Jambhulkar](https://github.com/U-J-007)
 - [Jon Sundin](https://github.com/jmsundin)
 - [Sagar Sharma](https://github.com/sagar-io)
