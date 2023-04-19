@@ -4,6 +4,7 @@
 - [Aryaman Pathak](https://github.com/aryamanpathak2022)
 - [Jon Sundin](https://github.com/jmsundin)
 - [Sagar Sharma](https://github.com/sagar-io)
+- [Stefan Baciu](https://github.com/StefanCodru)
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
 - [Koninika Tarafdar](https://github.com/Koninikax)
 - [Provab Mongchaw Khyang](https://github.com/notmongchaw)
