@@ -908,4 +908,5 @@ Ti Kyi Khant
 - [Shawn Mailo](https://github.com/Shawnzy)
 - [Sagnik Pramanik](https://github.com/sagnik-p)
 - [Ritam Sanyal](https://github.com/RitamSanyal)
+- [Diego Uchoa Neves](https://github.com/diego-uchoa)
 <!-- prettier-ignore-end -->
