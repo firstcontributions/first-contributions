@@ -118,6 +118,7 @@
 - [sneha-2510](https://github.com/sneha-2510)
 - [viswa-coder](https://github.com/viswa-coder)
 - [javesshhh](https://github.com/javesshhh)
+- [samarthbagga](https://github.com/samarthbagga)
 - [KratikJain10](https://github.com/KratikJain10)
 - [RogueTM](https://github.com/RogueTMs)
 - [jiwonqaz](https://github.com/jiwonqaz)
