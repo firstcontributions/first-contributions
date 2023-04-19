@@ -3,6 +3,7 @@
 
 - [Aryaman Pathak](https://github.com/aryamanpathak2022)
 - [Utkarsh Jambhulkar](https://github.com/U-J-007)
+- [Satyam singh](https://github.com/jirayanaruto)
 - [Jon Sundin](https://github.com/jmsundin)
 - [Sagar Sharma](https://github.com/sagar-io)
 - [Stefan Baciu](https://github.com/StefanCodru)
