@@ -34,6 +34,7 @@ Ti Kyi Khant
 - [Gianni Parello](https://github.com/giparello)
 - [Deepa Kumari](https://github.com/deepa181)
 - [Dhruv Samant](https://github.com/d-s-a-m)
+- [Arthur Cluet](https://github.com/arthurcluet)
 - [NandiniPokharna](https://github.com/NandiniPokharna)
 - [Charan Kamal Singh](https://github.com/charankamal20)
 - [Anthony Jackson] (https://github.com/AJacksonCT)
