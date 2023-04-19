@@ -417,6 +417,7 @@
 - [Pavanteja](https://github.com/Pavanteja17)
 - [Pewpewnor](https://github.com/pewpewnor)
 - [Tanishq Agarwal](https://github.com/Tanishq2807)
+- [James](https://github.com/tronbron)
 - [Shaurya Gupta](https://github.com/Shaurya50211)
 - [Victor Chao](https://github.com/VictorChao996)
 - [shrthk-7](https://github.com/shrthk-7)
