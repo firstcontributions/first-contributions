@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 
 - [Aryaman Pathak](https://github.com/aryamanpathak2022)
+- [Jon Sundin](https://github.com/jmsundin)
 - [Sagar Sharma](https://github.com/sagar-io)
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
 - [Koninika Tarafdar](https://github.com/Koninikax)
