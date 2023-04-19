@@ -594,6 +594,7 @@
 - [Shalini Gupta](https://github.com/ShaliniGupta14)
 - [nikhilhex](https://github.com/nikhilhex)
 - [oacs](https://github.com/oacs)
+  [Kai](https://github.com/1x55) 
 - [Odachannnn](https://github.com/Odachannnn)
 - [Matteo Salvestrini](https://github.com/hpfs74)
 - [OG_Matcha](https://github.com/OG-Matcha)
