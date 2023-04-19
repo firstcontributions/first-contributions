@@ -40,6 +40,7 @@
 - [Tahrour Mustapha Aymen](https://github.com/Aymen-TM)
 - [Blood Pirouette](https://github.com/Blood-Pirouette)
 - [Natasha Mundada]()
+- [Son Thanh Tran]
 - [notdncly]()
 - [Hung Cai](https://github.com/Pro-vo-ker)
 - [Joel Lozano](https://github.com/joel-lozano)
