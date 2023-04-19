@@ -898,4 +898,5 @@ Ti Kyi Khant
 - [Toya](https://github.com/T0YA)
 - [super5xy](https://github.com/super5xy)
 - [Mohammed Mudassir](https://github.com/Mudassir710)
+- [Shawn Mailo](https://github.com/Shawnzy)
 <!-- prettier-ignore-end -->
