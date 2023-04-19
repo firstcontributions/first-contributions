@@ -1,4 +1,5 @@
-   # Contributors
+# Contributors
+
 <!-- prettier-ignore-start -->
 
 - [Aryaman Pathak](https://github.com/aryamanpathak2022)
@@ -343,8 +344,7 @@
 - [Chiranjit Debnath](https://github.com/tomtanner)
 - [JSTNSNE](https://github.com/JSTNSNE)
 - [Mohamed Mostafa](https://github.com/mohamedmostafakhudari)
-- [JSTNSNE](https://github.com/JSTNSNE)
--[not]
+- [JSTNSNE](https://github.com/JSTNSNE) -[not]
 - [Aimee T](https://github.com/aimeetacchi)
 - [Alkut Askar](https://github.com/elkut)
 - [klpod221](https://github.com/klpod221)
@@ -604,7 +604,7 @@
 - [Shalini Gupta](https://github.com/ShaliniGupta14)
 - [nikhilhex](https://github.com/nikhilhex)
 - [oacs](https://github.com/oacs)
-  [Kai](https://github.com/1x55) 
+  [Kai](https://github.com/1x55)
 - [Odachannnn](https://github.com/Odachannnn)
 - [Matteo Salvestrini](https://github.com/hpfs74)
 - [OG_Matcha](https://github.com/OG-Matcha)
@@ -729,7 +729,7 @@
 - [Sudipta Chatterjee](https://github.com/cuscat)
 - [Vishal Prakash](https://github.com/prakashvishal93)
 - [Ruslans Aleksejevs](https://github.com/RuslansAleksejevs)
-- [Aayushmaan Mishra]( https://github.com/AayushmaanMishra)
+- [Aayushmaan Mishra](https://github.com/AayushmaanMishra)
 - [Devashish Chakraborty](https://github.com/devashishchakraborty)
 - [Brian Bossy](https://github.com/Brian123-del)
 - [Zach Grant](https://github.com/BlindJuly)
@@ -842,7 +842,7 @@
 - [sumit Gupta](https://github.com/hisumitgupta)
 - [Anurag Sarkar](https://github.com/Anurag-Sarkar)
 - [Zeeshan Lone](https://github.com/still-learning-ev)
-- [Julie Gunawan][https://github.com/JulieGunawan]
+- [Julie Gunawan][https://github.com/juliegunawan]
 - [Soumya Mandal](https://github.com/heySoumy4)
 - [Sabin Maharjan](I am learning to use git)
 - [Mohd Yawar Shahid](https://github.com/yawar1101)
@@ -892,4 +892,5 @@
 - [Toya](https://github.com/T0YA)
 - [super5xy](https://github.com/super5xy)
 - [Mohammed Mudassir](https://github.com/Mudassir710)
+- [Mayank Aswal](https:/github.com/Luthor9269)
 <!-- prettier-ignore-end -->
