@@ -880,6 +880,7 @@
 - [H-ADJI](https://github.com/H-ADJI)
 - [Vernon Piland](https://github.com/VernonPiland)
 - [Ricardo Ferreira](https://github.com/Cacousa2005)
+- [Nwoha Martins](https://github.com/martinsmind)
 - [Jeffrey Lamar](https://github.com/jlam)
 - [Mert Anil Deke](https://github.com/mertanildk)
 - [Dosacat](https://github.com/dosacat)
