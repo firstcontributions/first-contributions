@@ -870,5 +870,5 @@
 - [Aayush Goel](https://github.com/aayush-goel-04)
 - [Adrien Cokini](https://github.com/acokini)
 - [Lou Onezime](https://github.com/louonezime)
-- [kebwlmbheee](https://github.com/kebwlmbhee)
+- [kebwlmbhee](https://github.com/kebwlmbhee)
 <!-- prettier-ignore-end -->
