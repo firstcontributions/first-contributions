@@ -32,6 +32,7 @@ Ti Kyi Khant
 - [ATHARV POWALKAR AP07](https://github.com/07-Atharv)
 - [Noibisjunior](https://github.com/Noibisjunior)
 - [John Park](https://github.com/shinopark)
+- [Alan Rios](https://github.com/CoderioX)
 - [Atharv powalkar](https://github.com/07-Atharv)
 - [Jordan](https://github.com/chowweijun)
 - [Gianni Parello](https://github.com/giparello)
