@@ -496,6 +496,7 @@
 - [mrzlsptzr](https://github.com/mrzlsptzr)
 - [André Correa](https://github.com/dartmol203)
 - [fehlicks](https://github.com/fehlicks)
+- [Anantha Krishna](https://github.com/AnanthaKrishnag)
 - [Serkan Yilmaz](https://github.com/serkanyilmz)
 - [Keerthana Satheesh](https://github.com/Keerthana734)
 - [Shivram Venkatachalam](https://github.com/shivramvenkatachalam)
