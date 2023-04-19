@@ -23,6 +23,7 @@ Ti Kyi Khant
 - [Tim Yu](https://github.com/tyu012)
 - [DineshVeguru](https://github.com/dineshveguru)
 - [ambresh biradar](https://github.com/ambreshbiradar9)
+- [Alex Martinez](https://github.com/MartinezTech)
 - [Titania Yan](https://github.com/TYan18)
 - [Sim Dash](https://github.com/udashdon4)
 - [Harshal Jadhav](https://github.com/harshal2002)
