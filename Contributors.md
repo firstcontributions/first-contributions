@@ -66,6 +66,7 @@
 - [MALLESH C N](https://github.com/rohanworld)
 - [Varun Suvarna](https://github.com/varun-2001)
 - [William-David](https://github.com/William-David)
+- [nukhes](https://github.com/nukhes)
 - [Mahdi Taleghani](https://github.com/mmte)
 - [aditya kumar prusti](https://github.com/aditya172004)
 - [Bishal](https://github.com/bishalneopaney)
