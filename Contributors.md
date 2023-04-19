@@ -901,4 +901,5 @@ Ti Kyi Khant
 - [Mohammed Mudassir](https://github.com/Mudassir710)
 - [Shawn Mailo](https://github.com/Shawnzy)
 - [Sagnik Pramanik](https://github.com/sagnik-p)
+- [Tarasov Savely](https://github.com/TarasovSavely)
 <!-- prettier-ignore-end -->
