@@ -281,6 +281,7 @@
 - [Apurv Tiwari](https://github.com/Mahakal0123)
 - [Ajith R Thampi](https://github.com/ajithrthampi)
 - [Dhanesh Phulphagar](https://github.com/darayn)
+- [Tejas Vasisht](https://github.com/tejasvasisht)
 - [R3DRUN3](https://github.com/R3DRUN3)
 - [Viggy Vanchinathan](https://github.com/vviggyy)
 - [Dhanesh Phulphagar](https://github.com/darayn)
