@@ -1,6 +1,6 @@
    # Contributors
 <!-- prettier-ignore-start -->
-
+- [Shubham Lad](https://github.com.imthanos36)
 - [Aryaman Pathak](https://github.com/aryamanpathak2022)
 - [Jon Sundin](https://github.com/jmsundin)
 - [Sagar Sharma](https://github.com/sagar-io)
