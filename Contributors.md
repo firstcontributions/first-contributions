@@ -918,4 +918,5 @@ Ti Kyi Khant
 - [Sagnik Pramanik](https://github.com/sagnik-p)
 - [Ritam Sanyal](https://github.com/RitamSanyal)
 - [Diego Uchoa Neves](https://github.com/diego-uchoa)
+- [Sussurr](https://github.com/sussurr127)
 <!-- prettier-ignore-end -->
