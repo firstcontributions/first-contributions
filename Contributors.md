@@ -14,6 +14,7 @@ Ti Kyi Khant
 - [Provab Mongchaw Khyang](https://github.com/notmongchaw)
 - [Robert West](https://github.com/rolewest)
 - [Atahan Caldir](https://github.com/atahancaldir)
+- [taricov](https://github.com/taricov)
 - [YShen](https://github.com/yshenfab)
 - [Vivoiswatching](https://github.com/vivoiswatching)
 - [Ameen](https://github.com/0-yohan)
