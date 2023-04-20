@@ -212,6 +212,7 @@ Ti Kyi Khant
 - [Tyler Martin @HeyTylerMartin](https://github.com/HeyTylerMartin)
 - [Arshad Khan](https://github.com/The-Arshad-Khan)
 - [Ricardo Fontenla](https://github.com/ricfontenla)
+- [Brian Lau](https://github.com/beelauuu)
 - [David Petkovic](https://github.com/Dadi04)
 - [M3tal M0nk3y](https://github.com/M3talM0nk3y)
 - [Akshay Soni](https://github.com/akshaysoni10)
