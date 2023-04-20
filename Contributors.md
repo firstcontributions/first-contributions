@@ -919,4 +919,5 @@ Ti Kyi Khant
 - [Ritam Sanyal](https://github.com/RitamSanyal)
 - [Diego Uchoa Neves](https://github.com/diego-uchoa)
 - [Sussurr](https://github.com/sussurr127)
+- [Genle](https://github.com/gel-66)
 <!-- prettier-ignore-end -->
