@@ -497,6 +497,7 @@ Ti Kyi Khant
 - [Sham Vijay](https://github.com/iamvbenz49)
 - [Sunday Jimoh](https://github.com/sunday4me)
 - [Ryo Muta](https://github.com/r-mutax)
+- [Vignesh R](https://github.com/rv97)
 - [Murilo Barbosa](https://github.com/murilodab)
 - [Laura Clark](https://github.com/lcmaximum)
 - [Laurat Hajrullaaga](https://github.com/laurathaga)
