@@ -23,6 +23,7 @@ Ti Kyi Khant
 - [Koninika Tarafdar](https://github.com/Koninikax)
 - [Provab Mongchaw Khyang](https://github.com/notmongchaw)
 - [Robert West](https://github.com/rolewest)
+- [Bedant Chhetri](https://github.com/bedantchh)
 - [Atahan Caldir](https://github.com/atahancaldir)
 - [taricov](https://github.com/taricov)
 - [YShen](https://github.com/yshenfab)
