@@ -1,6 +1,7 @@
    # Contributors
 <!-- prettier-ignore-start -->
 
+- [Vaibhav Mahajan](https://github.com/vaibhav-3003)
 - [Aryaman Pathak](https://github.com/aryamanpathak2022)
 - [Utkarsh Jambhulkar](https://github.com/U-J-007)
 - [Satyam singh](https://github.com/jirayanaruto)
