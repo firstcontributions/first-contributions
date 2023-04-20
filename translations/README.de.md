@@ -94,7 +94,7 @@ Erstelle einen Pull Request indem du auf die Schaltfläche `Create pull request`
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Pull Request senden" />
 
-Roshan Jossey wird nun deine Änderungen in den Master Branch dieses Projekts mergen. Du erhältst eine E-Mail sobald dies geschehen ist. 
+Roshan Jossey wird nun deine Änderungen in den Master Branch dieses Projekts mergen. Du erhältst eine E-Mail, sobald dies geschehen ist. 
 
 ## Wie geht es weiter?
 
