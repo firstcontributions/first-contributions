@@ -124,6 +124,7 @@ Ti Kyi Khant
 - [Brock Price](https://github.com/brockwrites)
 - [bronkp](https://github.com/bronkp)
 - Bruno V. T. Barbosa
+- [Brayan Kai Mwanyumba](https://github.com/mwanyumba7)
 - Karthik
 - [Cedric Hannemann](https://github.com/cedhan)
 - [Devang Parekh](https://github.com/BravesDevs)
