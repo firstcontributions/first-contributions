@@ -185,6 +185,7 @@ Ti Kyi Khant
 - [Abidi-S](https://github.com/Abidi-S)
 - [Sandeep Nayak](https://github.com/SANDEEP-NAYAK)
 - [Tarif Higolja](https://github.com/mr-hingolja)
+- [Muhammad Usman](https://github.com/zillBoy)
 - [Sahil Ahmed](https://github.com/PirateOfAndaman)
 - [Arman Kumar] Aditya@DevsocPI]
 - [youngjun1227](https://github.com/youngjun1227)
