@@ -61,6 +61,7 @@ Ti Kyi Khant
 - [Shibu Gope](https://github.com/shibu-g)
 - [kartik giri](https://github.com/kartik-giri)
 - [Baga Sai Kiran](https://github.com/SKRam1024)
+- [Artur Linnik](https://github.com/ArturLinnik)
 - [aditya kumar prusti](https://github.com/aditya172004)
 - [Matthew Straughn](https://github.com/TealWater)
 - [Rajanikant Singh](https://github.com/rajanikant04)
