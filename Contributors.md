@@ -22,6 +22,7 @@ Ti Kyi Khant
 - [Vivoiswatching](https://github.com/vivoiswatching)
 - [Ameen](https://github.com/0-yohan)
 - [Kaleb Abiy](https://github.com/Kaleb-Abiy)
+- [Emily Chima](https://github.com/emilychima)
 - [Cristian Dreyer](https://github.com/cdreyer00)
 - [Leandro Ezequiel Aballone](https://github.com/Lean-Aballone)
 - [Satendra Mishra](https://github.com/Satendram)
