@@ -88,6 +88,7 @@ Ti Kyi Khant
 - [JasminTajShaik](https://github.com/JasminTajShaik2601)
 - [Rishi Deshmukh](https://github.com/26rishiii)
 - [Nishant Kumar](https://github.com/thinkwithcode)
+- [Precious Enyi](https://github.com/enyipreshious)
 - [Pragathees](https://github.com/pragasekar)
 - [Thomas Jacka](https://github.com/TJacka)
 - [Sarper Özer](https://github.com/sarperozer)
