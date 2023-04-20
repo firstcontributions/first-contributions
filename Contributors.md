@@ -595,6 +595,7 @@ Ti Kyi Khant
 - [Iorvera](https://github.com/iorvera1/first-contributions)
 - [Markus Heiss](https://github.com/markusheiss)
 - [kijwamoko](https://github.com/kijwamoko)
+- [Animesh Mondal](https://github.com/animeshMondal-crypto)
 - [cesourcile](https://github.com/cesourcile)
 - [yash1744](https://github.com/yash1744)
 - [Josh Litam](https://github.com/joshlitam)
