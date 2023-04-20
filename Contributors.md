@@ -24,6 +24,7 @@ Ti Kyi Khant
 - [YShen](https://github.com/yshenfab)
 - [Vivoiswatching](https://github.com/vivoiswatching)
 - [Ameen](https://github.com/0-yohan)
+- [Ayomipo Solaja](https://github.com/Ayomipo18)
 - [Kaleb Abiy](https://github.com/Kaleb-Abiy)
 - [Cristian Dreyer](https://github.com/cdreyer00)
 - [Leandro Ezequiel Aballone](https://github.com/Lean-Aballone)
