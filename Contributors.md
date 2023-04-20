@@ -68,6 +68,7 @@ Ti Kyi Khant
 - [Joel Lozano](https://github.com/joel-lozano)
 - [Shibu Gope](https://github.com/shibu-g)
 - [kartik giri](https://github.com/kartik-giri)
+- [Temitope Bamidele](https://github.com/bamidele42)
 - [Baga Sai Kiran](https://github.com/SKRam1024)
 - [Artur Linnik](https://github.com/ArturLinnik)
 - [aditya kumar prusti](https://github.com/aditya172004)
