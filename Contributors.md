@@ -934,6 +934,7 @@ Ti Kyi Khant
 - [Mohammed Mudassir](https://github.com/Mudassir710)
 - [Shawn Mailo](https://github.com/Shawnzy)
 - [Sagnik Pramanik](https://github.com/sagnik-p)
+- [Vishal Singh](https://github.com/VisiCool)
 - [Ritam Sanyal](https://github.com/RitamSanyal)
 - [Diego Uchoa Neves](https://github.com/diego-uchoa)
 - [Sussurr](https://github.com/sussurr127)
