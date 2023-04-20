@@ -1,6 +1,6 @@
    # Contributors
 <!-- prettier-ignore-start -->
-
+- [Anuj Kumar Karmakar](https://github.com/anujkkarmakar)
 - [Angel Umeh](https://github.com/akcumeh)
 - [Vaibhav Mahajan](https://github.com/vaibhav-3003)
 - [derfabiannn](https://github.com/derfabiannn)
