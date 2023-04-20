@@ -11,6 +11,7 @@
 - [Stefan Baciu](https://github.com/StefanCodru)
 Ti Kyi Khant
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
+- [David Adediji](https://github.com/davidadediji)
 - [Adam Shin](https://github.com/AdamShin19)
 - [Brandon Cole] (https://github.com/realbcole)
 - [Koninika Tarafdar](https://github.com/Koninikax)
