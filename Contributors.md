@@ -1,6 +1,6 @@
    # Contributors
 <!-- prettier-ignore-start -->
-
+- [PlanetDestroyyer](https://github.com/PlanetDestroyyer)
 - [Vaibhav Mahajan](https://github.com/vaibhav-3003)
 - [derfabiannn](https://github.com/derfabiannn)
 - [Aryaman Pathak](https://github.com/aryamanpathak2022)
