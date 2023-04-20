@@ -923,4 +923,5 @@ Ti Kyi Khant
 - [Diego Uchoa Neves](https://github.com/diego-uchoa)
 - [Sussurr](https://github.com/sussurr127)
 - [Genle](https://github.com/gel-66)
+- [Aykut Bayram](https://github.com/arowana95)
 <!-- prettier-ignore-end -->
