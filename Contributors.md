@@ -1,4 +1,5 @@
-   # Contributors
+# Contributors
+
 <!-- prettier-ignore-start -->
 
 - [Vaibhav Mahajan](https://github.com/vaibhav-3003)
@@ -9,7 +10,7 @@
 - [Jon Sundin](https://github.com/jmsundin)
 - [Sagar Sharma](https://github.com/sagar-io)
 - [Stefan Baciu](https://github.com/StefanCodru)
-Ti Kyi Khant
+  Ti Kyi Khant
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
 - [Adam Shin](https://github.com/AdamShin19)
 - [Brandon Cole] (https://github.com/realbcole)
@@ -363,8 +364,7 @@ Ti Kyi Khant
 - [Chiranjit Debnath](https://github.com/tomtanner)
 - [JSTNSNE](https://github.com/JSTNSNE)
 - [Mohamed Mostafa](https://github.com/mohamedmostafakhudari)
-- [JSTNSNE](https://github.com/JSTNSNE)
--[not]
+- [JSTNSNE](https://github.com/JSTNSNE) -[not]
 - [Aimee T](https://github.com/aimeetacchi)
 - [Alkut Askar](https://github.com/elkut)
 - [klpod221](https://github.com/klpod221)
@@ -689,6 +689,7 @@ Ti Kyi Khant
 - [Kyle Starrett](https://github.com/akstarre)
 - [Amrit Rai](https://github.com/retrogtx)
 - [Lily Clark](https://github.com/lilyclarkcodes)
+- [Animesh Mondal](https://github.com/animeshMondal-crypto)
 - [Nicolas Guruphat](https://github.com/NicolasGuruphat)
 - [Kenneth Presto](https://github.com/kennethportizpresto)
 - [Michal Gagos](https://github.com/lizard123137)
@@ -755,7 +756,7 @@ Ti Kyi Khant
 - [Sudipta Chatterjee](https://github.com/cuscat)
 - [Vishal Prakash](https://github.com/prakashvishal93)
 - [Ruslans Aleksejevs](https://github.com/RuslansAleksejevs)
-- [Aayushmaan Mishra]( https://github.com/AayushmaanMishra)
+- [Aayushmaan Mishra](https://github.com/AayushmaanMishra)
 - [Devashish Chakraborty](https://github.com/devashishchakraborty)
 - [Brian Bossy](https://github.com/Brian123-del)
 - [Zach Grant](https://github.com/BlindJuly)
@@ -870,7 +871,7 @@ Ti Kyi Khant
 - [sumit Gupta](https://github.com/hisumitgupta)
 - [Anurag Sarkar](https://github.com/Anurag-Sarkar)
 - [Zeeshan Lone](https://github.com/still-learning-ev)
-- [Julie Gunawan][https://github.com/JulieGunawan]
+- [Julie Gunawan][https://github.com/juliegunawan]
 - [Soumya Mandal](https://github.com/heySoumy4)
 - [Sabin Maharjan](I am learning to use git)
 - [Mohd Yawar Shahid](https://github.com/yawar1101)
