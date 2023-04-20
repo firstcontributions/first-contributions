@@ -154,6 +154,7 @@ Ti Kyi Khant
 - [javesshhh](https://github.com/javesshhh)
 - [samarthbagga](https://github.com/samarthbagga)
 - [KratikJain10](https://github.com/KratikJain10)
+- [Ronke Akinmosin](https://github.com/ronke-susan)
 - [RogueTM](https://github.com/RogueTMs)
 - [jiwonqaz](https://github.com/jiwonqaz)
 - [Akshay Ballal](https://github.com/akballal)
