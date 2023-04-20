@@ -10,6 +10,7 @@
 - [Sagar Sharma](https://github.com/sagar-io)
 - [Stefan Baciu](https://github.com/StefanCodru)
 Ti Kyi Khant
+[Anukam Chidalu](https://github.com/daluclemas)
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
 - [Adam Shin](https://github.com/AdamShin19)
 - [Brandon Cole] (https://github.com/realbcole)
