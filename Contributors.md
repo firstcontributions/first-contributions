@@ -664,6 +664,7 @@ Ti Kyi Khant
 - [Hans Santos](https://github.com/hansxavier)
 - [Roshan Kumar](https://github.com/roshan798)
 - [Gawain Hewitt](https://github.com/gawainhewitt)
+- [Brandon Prater](https://github.com/lazyPace)
 - [AuricX](https://github.com/AuricX)
 - [Nayan Godhwani](https://github.com/Nayan524)
 - [Sapto Aji 🇮🇩](https://github.com/SaptooAji)
