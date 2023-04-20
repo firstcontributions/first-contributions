@@ -497,6 +497,7 @@ Ti Kyi Khant
 - [Patil 2104](https://github.com/patil2104)
 - [HiTShiroya](https://github.com/HiTShiroya)
 - [Supriadi](https://github.com/obocloud)
+- [Daniel Kamel](https://github.com/daniel-kamel)
 - [Jug Patel](https://github.com/MadDevMax)
 - [Shivam Gupta](https://shivam-gupta007.github.io/)
 - [Pradnyanandana Suwitra](https://github.com/pradnyanandana)
