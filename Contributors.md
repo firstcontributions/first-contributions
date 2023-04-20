@@ -47,6 +47,7 @@ Ti Kyi Khant
 - [Arthur Cluet](https://github.com/arthurcluet)
 - [NandiniPokharna](https://github.com/NandiniPokharna)
 - [Charan Kamal Singh](https://github.com/charankamal20)
+- [ASAIJE Elozino Lopez](https://github.com/Elozino-Lopez)
 - [Anthony Jackson] (https://github.com/AJacksonCT)
 - [Andrew Lamichhane](https://github.com/Andrew-LC)
 - [Ruphaa Ganesan](https://github.com/ruphaa)
