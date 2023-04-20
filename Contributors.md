@@ -140,6 +140,7 @@ Ti Kyi Khant
 - [RogueTM](https://github.com/RogueTMs)
 - [jiwonqaz](https://github.com/jiwonqaz)
 - [Akshay Ballal](https://github.com/akballal)
+- [Htet Hlaing Win](https://github.com/dk292)
 - [Joshua Varghese](https://github.com/joshvarg)
 - [chowonbhin](https://github.com/chowonbhin)
 - [mimeosd](https://github.com/mimeosd)
