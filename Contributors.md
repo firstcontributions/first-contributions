@@ -677,6 +677,7 @@ Ti Kyi Khant
 - [Michael Soriano](https://github.com/michaelsoriano)
 - [wqlu](https://github.com/wqlu)
 - [Jankela04](https://github.com/Jankela04)
+- [Wachukwu Emmanuel](https://github.com/Wach-E)
 - [Ibragim GK](https://github.com/Ibrapsico)
 - [Revathi Vijayendran](https:github.com/vrrevi)
 - [Damon Xue](https://github.com/damonxue)
