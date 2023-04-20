@@ -5,17 +5,15 @@
 
 # 第一次參與開源
 
-萬事起頭難。特別是和其他人合作時，犯錯格外令人不舒服。不過，開源的本質就是和其他人合作。我們希望為初學者帶來一個簡單的方法來學習及參與開源項目。
+此項目旨在簡化並指導初學者進行第一次貢獻的方式。如果您想進行第一次貢獻，請按照以下步驟進行。
 
-閱讀文章和觀看教學會有所幫助。不過，有什麼方法能比在不會弄亂任何東西的情況下，實際動手做來得更好？本項目旨在指導初學者及簡化初學者參與開源的方式。記住：過程越輕鬆，學習效益越高。如果妳/你想要做出第一次貢獻，只需按照以下簡單步驟操作即可。跟你保證，這會很好玩 :)
-
-#### *如果你不喜歡使用指令列，[這裡有使用圖形界面工具的教學。]( #使用其他工具的教學)*
+*如果你不喜歡使用指令列（CLI），[這裡有使用圖形界面工具（GUI）的教學。]( #使用其他工具的教學)*
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-如果你的電腦上尚未安裝 git，請按照這個[安裝指引（英文）](https://help.github.com/articles/set-up-git/)進行安裝。
+#### 如果你的電腦上尚未安裝 git，請點擊 [此處](https://help.github.com/articles/set-up-git/) 進行安裝。
 
-## 分叉（Fork）本代碼庫
+## 分叉（Fork）代碼庫
 
 點選圖示中的按鈕來 Fork 這個 Git 儲存庫。
 這個操作會將儲存庫分叉到你/妳的 GitHub 帳號下。
@@ -26,16 +24,16 @@
 
 接下來，將複製後的儲存庫複製到你/妳的電腦上。點選圖示中的綠色按鈕，接著點選複製到剪貼簿按鈕（將儲存庫地址複製下來）
 
-隨後打開命令列視窗，鍵入如下 git 命令：
+隨後打開終端機，輸入以下 git 命令：
 
 ```
 git clone "url you just copied"
 ```
-"url you just copied"（去掉雙引號）就是複製到妳/你帳戶名下的儲存庫地址。取得這鏈接地址的方法請見上一步。
+"url you just copied"（去掉雙引號）就是複製到妳/你帳戶名下的儲存庫地址。取得這鏈結的方法請見上一步。
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-譬如：
+例如：
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
@@ -44,7 +42,7 @@ git clone https://github.com/this-is-you/first-contributions.git
 
 ## 新建一個分支
 
-下面的命令能在命令行窗口中，把目錄切換到 first-contributions。
+下面的命令能在終端機中，把目錄切換到 first-contributions。
 
 ```
 cd first-contributions
@@ -54,7 +52,7 @@ cd first-contributions
 git checkout -b <add-your-name>
 ```
 
-譬如：
+例如：
 ```
 git checkout -b add-david
 ```
@@ -63,7 +61,7 @@ git checkout -b add-david
 
 ## 對程式碼進行修改，然後提交 (Commit) 修改
 
-使用妳/你喜歡的文字編輯器打開 `Contributors.md` 這個文件，更新文件內容，將自己的名字加上去，然後存檔。在命令窗口執行 `git status`，這會列出被更動的文件。接著 `git add` 這命令則可以添加更動項目到分支裡，就像以下這條命令。
+使用妳/你喜歡的文字編輯器打開 `Contributors.md` 這個文件，更新文件內容，將自己的名字加上去，然後存檔。在終端機執行 `git status`，這會列出被更動的文件。接著 `git add` 這命令則可以添加更動項目到分支裡，就像以下這條命令。
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
@@ -95,7 +93,7 @@ git push origin <add-your-name>
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-不久之後，如果妳/你更改的文件與原本沒有衝突，我們會把所有的變化合併到這個項目的主分支。
+不久之後，如果妳/你更改的文件與原本沒有衝突（Conflict），我們會把所有的變化合併（Merge）到這個項目的主分支。
 變更合併後，妳/你會收到通知 email。
 
 ## 接下來做什麼呢？
@@ -104,7 +102,7 @@ git push origin <add-your-name>
 
 如果有任何疑問或想獲得更多協助，歡迎加入我們的 [Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 
-現在就動手為其他專案貢獻你/妳的心力。我們整理了一個清單，裡面的專案都有簡單的議題可以著手。[去看看吧！](https://roshanjossey.github.io/first-contributions/#project-list)
+現在就動手為其他專案貢獻你/妳的心力。我們整理了一個清單，裡面的專案都有簡單的議題（issue）可以解決。[去看看吧！](https://roshanjossey.github.io/first-contributions/#project-list)
 
 ### [ 更多資料 ](../additional-material/git_workflow_scenarios/additional-material.md)
 
