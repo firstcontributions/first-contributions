@@ -934,4 +934,5 @@ Ti Kyi Khant
 - [Aykut Bayram](https://github.com/arowana95)
 - [Gilbert Adikankwu](https://github.com/functionguyy)
 - [Gambhir Sharma](https://github.com/gambhirsharma)
+- [Dalton-Leyian +254](https://github.com/Dalton-47)
 <!-- prettier-ignore-end -->
