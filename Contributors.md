@@ -27,6 +27,7 @@ Ti Kyi Khant
 - [Atahan Caldir](https://github.com/atahancaldir)
 - [taricov](https://github.com/taricov)
 - [YShen](https://github.com/yshenfab)
+- [Matt Riccio](https://github.com/ricciomatt)
 - [Vivoiswatching](https://github.com/vivoiswatching)
 - [Ameen](https://github.com/0-yohan)
 - [Ayomipo Solaja](https://github.com/Ayomipo18)
