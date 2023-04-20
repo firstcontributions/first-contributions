@@ -921,4 +921,5 @@ Ti Kyi Khant
 - [Diego Uchoa Neves](https://github.com/diego-uchoa)
 - [Sussurr](https://github.com/sussurr127)
 - [Genle](https://github.com/gel-66)
+- [def-life](https://github.com/def-life)
 <!-- prettier-ignore-end -->
