@@ -1,6 +1,6 @@
    # Contributors
 <!-- prettier-ignore-start -->
-
+- [Anuj Kumar Karmakar](https://github.com/anujkkarmakar)
 - [Aryaman Pathak](https://github.com/aryamanpathak2022)
 - [Utkarsh Jambhulkar](https://github.com/U-J-007)
 - [Satyam singh](https://github.com/jirayanaruto)
