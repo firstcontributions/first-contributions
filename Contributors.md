@@ -1,5 +1,6 @@
    # Contributors
 <!-- prettier-ignore-start -->
+- [pradeep kc](https://github.com/pradeepkc11)
 - [Anuj Kumar Karmakar](https://github.com/anujkkarmakar)
 - [Angel Umeh](https://github.com/akcumeh)
 - [Vaibhav Mahajan](https://github.com/vaibhav-3003)
@@ -219,7 +220,7 @@ Ti Kyi Khant
 - [youngjun1227](https://github.com/youngjun1227)
 - [Preston Harms](https://github.com/R3dPnd)
 - [Tanishq Agarwal](https://github.com/Tanishq2807)
-- [Joseph Martinez](https://github.com/jsmartinez11)
+- [Joseph Martinez](https://github.cogit switch -c add-alonzo-churchm/jsmartinez11)
 - [Joshua Rodriguez😁](https://github.com/joshua-rdrgz)
 - [Grahanam](https://github.com/Grahanam)
 - [kaushalgosaliya5](https://github.com/kaushalgosaliya5)
