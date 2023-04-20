@@ -5,6 +5,7 @@
 - [Provab Mongchaw Khyang](https://github.com/notmongchaw)
 - [Atahan Caldir](https://github.com/atahancaldir)
 - [YShen](https://github.com/yshenfab)
+- [Matt Riccio](https://github.com/ricciomatt)
 - [Ameen](https://github.com/0-yohan)
 - [Kaleb Abiy](https://github.com/Kaleb-Abiy)
 - [Leandro Ezequiel Aballone](https://github.com/Lean-Aballone)
