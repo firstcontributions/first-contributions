@@ -304,6 +304,7 @@ Ti Kyi Khant
 - [Johan Kreivi](https://github.com/0h4y)
 - [Gaurav Patil](https://github.com/GauravPatil8778)
 - [Suryajith Ms](https://github.com/Suryajith32)
+- [Abhay Shak](https://github.com/Shaks20)
 - [Ananya Agarwal](https://github.com/ananyaa01)
 - [Ali El-Shamy](https://github.com/elshali)
 - [Muneeb Shahid](https://github.com/muneeb706)
