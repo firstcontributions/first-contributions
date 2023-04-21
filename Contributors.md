@@ -10,6 +10,7 @@
 - [Utkarsh Jambhulkar](https://github.com/U-J-007)
 - [Satyam singh](https://github.com/jirayanaruto)
 - [Lior Haim](https://github.com/LiorHaimGit)
+- [Jacob Albert](https://github.com/jalbert90)
 - [Ruth Ikegah](https://github.com/Ruth-ikegah)
 - [Jon Sundin](https://github.com/jmsundin)
 - [Sagar Sharma](https://github.com/sagar-io)
