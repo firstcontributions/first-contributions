@@ -1,6 +1,7 @@
    # Contributors
 <!-- prettier-ignore-start -->
 - [pradeep kc](https://github.com/pradeepkc11)
+- [Aryant Kumar](https://github.com/Aryant01)
 - [Anuj Kumar Karmakar](https://github.com/anujkkarmakar)
 - [Angel Umeh](https://github.com/akcumeh)
 - [Vaibhav Mahajan](https://github.com/vaibhav-3003)
