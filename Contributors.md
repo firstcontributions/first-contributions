@@ -990,4 +990,5 @@ Ti Kyi Khant
 - [Paul Kros](https://github.com/KingWazzack)
 - [inamnurul](https://github.com/inamnurulf)
 - [Kirill Trifonov](https://github.com/kstrifonoff)
+- [Casey Cannon](https://github.com/clcannon)
 <!-- prettier-ignore-end -->
