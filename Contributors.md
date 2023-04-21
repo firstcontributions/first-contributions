@@ -22,6 +22,7 @@ Ti Kyi Khant
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
 - [Malavya Raval](https://github.com/MalavyaRaval)
 - [Oluwaseun Adesina](https://github.com/oluwaseun-Adesina)
+- [Dolamu Oludare](https://github.com/Dolamu-TheDataGuy)
 - [Adam Shin](https://github.com/AdamShin19)
 - [Ahmad Bilesanmi](https://github.com/bilesanmiahmad)
 - [Brandon Cole] (https://github.com/realbcole)
