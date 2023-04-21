@@ -1,5 +1,6 @@
    # Contributors
 <!-- prettier-ignore-start -->
+- [YuHangSE](https://github.com/YuHangSE)
 - [khunsai06](https://github.com/khunsai06)
 - [pradeep kc](https://github.com/pradeepkc11)
 - [Aryant Kumar](https://github.com/Aryant01)
@@ -21,8 +22,7 @@
 - [Sagar Sharma](https://github.com/sagar-io)
 - [Stefan Baciu](https://github.com/StefanCodru)
 - [Ioan Circiumaru](https://github.com/circiumaruioan)
-Ti Kyi Khant
-[Anukam Chidalu](https://github.com/daluclemas) 
+- [Anukam Chidalu](https://github.com/daluclemas) 
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
 - [Malavya Raval](https://github.com/MalavyaRaval)
 - [Oluwaseun Adesina](https://github.com/oluwaseun-Adesina)
@@ -126,7 +126,7 @@ Ti Kyi Khant
 - [jeongwoo903](https://github.com/jeongwoo903)
 - [albus-droid](https://github.com/albus-droid)
 - [Desmond-Fon](https://github.com/Desmond-Fon)
--[Bajomo-semilore](https://github.com/Sbtech24)
+- [Bajomo-semilore](https://github.com/Sbtech24)
 - [Mariangela Petrizzo](http://github.com/petrizzo)
 - [Srijanya Durganala](https://github.com/Srijanya.D)
 - [Sean Colligan](https://github.com/srcengine)
@@ -142,7 +142,7 @@ Ti Kyi Khant
 - [Jyotishmoy konwar](https://github.com/Jyotishmoy365)
 - [Krishan-Kant-11](https://github.com/Krishan-Kant-11)
 - [KiriNeTo](https://github.com/KiriNeTo)
-  [BijoyJogi(https://github.com/BijoyJogi123)
+- [BijoyJogi](https://github.com/BijoyJogi123)
 - [Manoprasanth MATHAVAN](https://github.com/mklno)
 - [Kehinde Olalekan](https://github.com/KENNYDGREAT2)
 - [naveen](https://github.com/naveen-sanjula)
@@ -230,7 +230,7 @@ Ti Kyi Khant
 - [Tarif Higolja](https://github.com/mr-hingolja)
 - [Muhammad Usman](https://github.com/zillBoy)
 - [Sahil Ahmed](https://github.com/PirateOfAndaman)
-- [Arman Kumar] Aditya@DevsocPI]
+- [Arman Kumar](Aditya@DevsocPI)
 - [youngjun1227](https://github.com/youngjun1227)
 - [Preston Harms](https://github.com/R3dPnd)
 - [Tanishq Agarwal](https://github.com/Tanishq2807)
