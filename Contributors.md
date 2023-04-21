@@ -725,6 +725,7 @@ Ti Kyi Khant
 - [Milan Tejani](https://github.com/TheMilanTej)
 - [Ben Johansen](https://github.com/benjohansen)
 - [BuddhaHeadDev](https://github.com/BuddhaHeadDev)
+- [Kene-Ojiteli](https://github.com/KeneOjiteli)
 - [Kevin](https://github.com/KevinIsCool79)
 - [grigaut](https://github.com/grigaut)
 - [Sarat Kota](https://github.com/kotasarat)
