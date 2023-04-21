@@ -9,6 +9,7 @@
 - [Anierobi Esther](https://github.com/Esther146)
 - [Utkarsh Jambhulkar](https://github.com/U-J-007)
 - [Satyam singh](https://github.com/jirayanaruto)
+- [Lior Haim](https://github.com/LiorHaimGit)
 - [Ruth Ikegah](https://github.com/Ruth-ikegah)
 - [Jon Sundin](https://github.com/jmsundin)
 - [Sagar Sharma](https://github.com/sagar-io)
