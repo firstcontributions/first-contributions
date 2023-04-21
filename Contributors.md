@@ -986,4 +986,5 @@ Ti Kyi Khant
 - [Ilya Andreev](https://github.com/its-a-setup)
 - [Paul Kros](https://github.com/KingWazzack)
 - [inamnurul](https://github.com/inamnurulf)
+- [Kirill Trifonov](https://github.com/kstrifonoff)
 <!-- prettier-ignore-end -->
