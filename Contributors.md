@@ -25,6 +25,7 @@ Ti Kyi Khant
 [Anukam Chidalu](https://github.com/daluclemas) 
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
 - [Malavya Raval](https://github.com/MalavyaRaval)
+- [Curtis Aliwah] (https://github.com/Aliwah1403)
 - [Oluwaseun Adesina](https://github.com/oluwaseun-Adesina)
 - [Dolamu Oludare](https://github.com/Dolamu-TheDataGuy)
 - [Adam Shin](https://github.com/AdamShin19)
