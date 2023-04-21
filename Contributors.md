@@ -317,6 +317,7 @@ Ti Kyi Khant
 - [Sayan Bose](https://github.com/sayanbose1)
 - [André Carvalhal](https://github.com/ANDREC1986)
 - [Rahul Saha](https://github.com/Rahul10Saha)
+- [Shaswat Satyam](https://github.com/shaswat-satyam)
 - [Vishal](https://github.com/VishalPraneeth)
 - [Sadiq Siraj Ebrahim](https://github.com/sadiqebrahim)
 - [Wajid Ali Tabassum](https://github.com/wajidalitabassum143)
@@ -960,4 +961,5 @@ Ti Kyi Khant
 - [Gambhir Sharma](https://github.com/gambhirsharma)
 - [Dalton-Leyian +254](https://github.com/Dalton-47)
 - [Anant Prakash Singh](https://github.com/GAMMAGOD)
+
 <!-- prettier-ignore-end -->
