@@ -466,6 +466,7 @@ Ti Kyi Khant
 - [James](https://github.com/tronbron)
 - [Shaurya Gupta](https://github.com/Shaurya50211)
 - [Victor Chao](https://github.com/VictorChao996)
+- [Pedro Henrique Leite Félix](https://github.com/SinnerTheSinful)
 - [shrthk-7](https://github.com/shrthk-7)
 - [Yash Thakur](https://github.com/philomathaf)
 - [Aranamor](https://github.com/aranamor)
