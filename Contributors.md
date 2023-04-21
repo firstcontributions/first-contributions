@@ -500,6 +500,7 @@ Ti Kyi Khant
 - [Quang Tran](https://github.com/kookumber)
 - [Mandar Deshmukh](https://github.com/mandarsd18)
 - [Spoloxs](https://github.com/spoloxs)
+- [3thyr](https://github.com/3thyr)
 - [Tejas Satpalkar](https://github.com/tejassatpalkar)
 - [Azzarox](https://github.com/azzarox)
 - [Aman Badone](https://github.com/amanbadone)
