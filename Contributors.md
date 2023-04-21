@@ -67,6 +67,7 @@ Ti Kyi Khant
 - [Dhruv Samant](https://github.com/d-s-a-m)
 - [Arthur Cluet](https://github.com/arthurcluet)
 - [NandiniPokharna](https://github.com/NandiniPokharna)
+- [Nitish Chintakindi](https://github.com/nitish312)
 - [Charan Kamal Singh](https://github.com/charankamal20)
 - [ASAIJE Elozino Lopez](https://github.com/Elozino-Lopez)
 - [Anthony Jackson] (https://github.com/AJacksonCT)
