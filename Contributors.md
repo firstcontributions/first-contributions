@@ -978,4 +978,5 @@ Ti Kyi Khant
 - [Anant Prakash Singh](https://github.com/GAMMAGOD)
 - [Ilya Andreev](https://github.com/its-a-setup)
 - [Paul Kros](https://github.com/KingWazzack)
+- [inamnurul](https://github.com/inamnurulf)
 <!-- prettier-ignore-end -->
