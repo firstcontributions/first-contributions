@@ -774,6 +774,7 @@ Ti Kyi Khant
 - [Chao Neil Aryan Borgohain](https://github.com/ChaoNEil)
 - [shashi kiran](https://github.com/Sagar180304)
 - [Doran05](https://github.com/martinkuba333)
+- [Justin Settle](https://github.com/justin-settle)
 - [Yuri Petrillo](https://github.com/yuripetrillo)
 - [Shreyash Kakde](https://github.com/Shreyashkakde1/)
 - [Anukul Pandey](https://github.com/anukulpandey)
