@@ -146,6 +146,7 @@ Ti Kyi Khant
 - [Brayan Kai Mwanyumba](https://github.com/mwanyumba7)
 - Karthik
 - [Cedric Hannemann](https://github.com/cedhan)
+- [Henry Andrade](https://github.com/HenryAnd04)
 - [Devang Parekh](https://github.com/BravesDevs)
 - [Kiran Kuumar Mohanty](https://github.com/theluckiestsoul)
 - [Adam Chen](https://github.com/adamchen151)
