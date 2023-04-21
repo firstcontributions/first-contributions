@@ -16,6 +16,7 @@
 - [Ravindra Reddy](https://github.com/ravindra135)
 - [Sagar Sharma](https://github.com/sagar-io)
 - [Stefan Baciu](https://github.com/StefanCodru)
+- [Ioan Circiumaru](https://github.com/circiumaruioan)
 Ti Kyi Khant
 [Anukam Chidalu](https://github.com/daluclemas) 
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
