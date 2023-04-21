@@ -5,6 +5,7 @@
 - [Anuj Kumar Karmakar](https://github.com/anujkkarmakar)
 - [Angel Umeh](https://github.com/akcumeh)
 - [Vaibhav Mahajan](https://github.com/vaibhav-3003)
+- [Ikegah Oliver](https://github.com/oliverTwist2)
 - [derfabiannn](https://github.com/derfabiannn)
 - [Aryaman Pathak](https://github.com/aryamanpathak2022)
 - [Anierobi Esther](https://github.com/Esther146)
