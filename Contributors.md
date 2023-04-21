@@ -799,4 +799,5 @@
 - [H-ADJI](https://github.com/H-ADJI)
 - [Vernon Piland](https://github.com/VernonPiland)
 - [Ricardo Ferreira](https://github.com/Cacousa2005)
+- [Renè Berger](https://github.com/rebex1)
 <!-- prettier-ignore-end -->
