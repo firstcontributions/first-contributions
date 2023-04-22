@@ -111,6 +111,7 @@
 -[Arjun] 
 [Hung Cai](https://github.com/Pro-vo-ker)
 - [Stephen Adesina](https://github.com/adstefnum)
+- [Loren Gayle](https://github.com/lorenzeo)
 - [Joel Lozano](https://github.com/joel-lozano)
 - [Shibu Gope](https://github.com/shibu-g)
 - [kartik giri](https://github.com/kartik-giri)
