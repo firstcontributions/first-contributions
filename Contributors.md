@@ -983,6 +983,7 @@
 - [RobertoKreshna](https://github.com/RobertoKreshna)
 - [Ivan Israel](https://github.com/marehori)
 - [H-ADJI](https://github.com/H-ADJI)
+- [Sebitosh](https://github.com/Sebitosh)
 - [Vernon Piland](https://github.com/VernonPiland)
 - [Ricardo Ferreira](https://github.com/Cacousa2005)
 - [Nwoha Martins](https://github.com/martinsmind)
