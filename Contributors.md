@@ -5,6 +5,7 @@
 - [Aryant Kumar](https://github.com/Aryant01)
 - [Anuj Kumar Karmakar](https://github.com/anujkkarmakar)
 - [Angel Umeh](https://github.com/akcumeh)
+- [Anthony Capecci](https://github.com/AnthonyCap13)
 - [Vaibhav Mahajan](https://github.com/vaibhav-3003)
 - [Ikegah Oliver](https://github.com/oliverTwist2)
 - [derfabiannn](https://github.com/derfabiannn)
