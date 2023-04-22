@@ -999,4 +999,5 @@ Ti Kyi Khant
 - [inamnurul](https://github.com/inamnurulf)
 - [Kirill Trifonov](https://github.com/kstrifonoff)
 - [Casey Cannon](https://github.com/clcannon)
+- [naiithink](https://github.com/naiithink)
 <!-- prettier-ignore-end -->
