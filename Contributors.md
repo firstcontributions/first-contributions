@@ -11,6 +11,7 @@
 - [Angel Umeh](https://github.com/akcumeh)
 - [Anthony Capecci](https://github.com/AnthonyCap13)
 - [Vaibhav Mahajan](https://github.com/vaibhav-3003)
+- [Kushanth-Reddy](https://github.com/Kushanth-Reddy)
 - [Ikegah Oliver](https://github.com/oliverTwist2)
 - [derfabiannn](https://github.com/derfabiannn)
 - [Aryaman Pathak](https://github.com/aryamanpathak2022)
