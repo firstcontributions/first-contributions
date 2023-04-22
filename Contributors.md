@@ -472,7 +472,7 @@ Ti Kyi Khant
 - [Dylan Wilson](https://github.com/dylwil3)
 - [Dimitrije Ilic](https://github.com/Dimitrije1970)
 - [Prathamesh Sable](https://github.com/prathameshks)
-- [Dharmasish]()
+- [Tejas Nanoti](https://github.com/Goldfish7718)
 - [Martarion](https://github.com/Martarion-Code)
 - [Martins Ngene](https://github.com/Martinsngene)
 - [vishal dhavale](https://github.com/vishu1893)
