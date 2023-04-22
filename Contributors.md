@@ -1018,4 +1018,5 @@
 - [naiithink](https://github.com/naiithink)
 - [aman404](https://github.com/aman404)
 - [buriedBug](https://github.com/buriedBug)
+- [Zhenhao Li](https://github.com/foliage21)
 <!-- prettier-ignore-end -->
