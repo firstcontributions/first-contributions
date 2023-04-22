@@ -1,5 +1,7 @@
-   # Contributors
+# Contributors
+
 <!-- prettier-ignore-start -->
+
 - [Thejas Bhat](https://github.com/tbpcoder)
 - [Venkatesh-KCET](https://github.com/Venkatesh-KCET)
 - [Raj-101](https://github.com/Raj-101)
@@ -33,8 +35,8 @@
 - [Sagar Sharma](https://github.com/sagar-io)
 - [Stefan Baciu](https://github.com/StefanCodru)
 - [Ioan Circiumaru](https://github.com/circiumaruioan)
-Ti Kyi Khant
-[Anukam Chidalu](https://github.com/daluclemas) 
+  Ti Kyi Khant
+  [Anukam Chidalu](https://github.com/daluclemas)
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
 - [Malavya Raval](https://github.com/MalavyaRaval)
 - [Curtis Aliwah] (https://github.com/Aliwah1403)
@@ -96,9 +98,8 @@ Ti Kyi Khant
 - [Blood Pirouette](https://github.com/Blood-Pirouette)
 - [Natasha Mundada]()
 - [Son Thanh Tran]
-- [notdncly]()
--[Arjun] 
-[Hung Cai](https://github.com/Pro-vo-ker)
+- [notdncly]() -[Arjun]
+  [Hung Cai](https://github.com/Pro-vo-ker)
 - [Stephen Adesina](https://github.com/adstefnum)
 - [Joel Lozano](https://github.com/joel-lozano)
 - [Shibu Gope](https://github.com/shibu-g)
@@ -120,6 +121,7 @@ Ti Kyi Khant
 - [Rinshadcp](https://github.com/rinshadcp)
 - [Jaideep More](https://phoenix009.github.io/)
 - [Kiran Johnson](https://github.com/KiranJohns)
+- [Naveenchand](https://github.com/Naveenchand06/)
 - [JasminTajShaik](https://github.com/JasminTajShaik2601)
 - [Rishi Deshmukh](https://github.com/26rishiii)
 - [Nishant Kumar](https://github.com/thinkwithcode)
@@ -142,8 +144,7 @@ Ti Kyi Khant
 - [Daniel Jeffrey Nibbs](https://github.com/Jeff-Nibbs)
 - [jeongwoo903](https://github.com/jeongwoo903)
 - [albus-droid](https://github.com/albus-droid)
-- [Desmond-Fon](https://github.com/Desmond-Fon)
--[Bajomo-semilore](https://github.com/Sbtech24)
+- [Desmond-Fon](https://github.com/Desmond-Fon) -[Bajomo-semilore](https://github.com/Sbtech24)
 - [Mariangela Petrizzo](http://github.com/petrizzo)
 - [Srijanya Durganala](https://github.com/Srijanya.D)
 - [Sean Colligan](https://github.com/srcengine)
@@ -416,8 +417,7 @@ Ti Kyi Khant
 - [Chiranjit Debnath](https://github.com/tomtanner)
 - [JSTNSNE](https://github.com/JSTNSNE)
 - [Mohamed Mostafa](https://github.com/mohamedmostafakhudari)
-- [JSTNSNE](https://github.com/JSTNSNE)
--[not]
+- [JSTNSNE](https://github.com/JSTNSNE) -[not]
 - [Aimee T](https://github.com/aimeetacchi)
 - [Alkut Askar](https://github.com/elkut)
 - [klpod221](https://github.com/klpod221)
@@ -819,7 +819,7 @@ Ti Kyi Khant
 - [Sudipta Chatterjee](https://github.com/cuscat)
 - [Vishal Prakash](https://github.com/prakashvishal93)
 - [Ruslans Aleksejevs](https://github.com/RuslansAleksejevs)
-- [Aayushmaan Mishra]( https://github.com/AayushmaanMishra)
+- [Aayushmaan Mishra](https://github.com/AayushmaanMishra)
 - [Devashish Chakraborty](https://github.com/devashishchakraborty)
 - [Brian Bossy](https://github.com/Brian123-del)
 - [Zach Grant](https://github.com/BlindJuly)
