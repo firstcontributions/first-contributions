@@ -24,6 +24,7 @@
 - [Surafel fikru](https://github.com/arist76)
 - [Kerim Kilic](https://github.com/kerim-kilic)
 - [Baljapalli Anshul](https://github.com/AnshulBaljapalli)
+- [Vansh Arora](https://github.com/vansharora03)
 - [Rohit Tokala](https://github.com/rtokala14)
 - [Utkarsh Jambhulkar](https://github.com/U-J-007)
 - [Satyam singh](https://github.com/jirayanaruto)
