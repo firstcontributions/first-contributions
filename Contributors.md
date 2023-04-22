@@ -28,6 +28,7 @@
 - [Ruth Ikegah](https://github.com/Ruth-ikegah)
 - [Adrian Calleja](https://github.com/adrii0113)
 - [Jon Sundin](https://github.com/jmsundin)
+- [Rose Rousseau]((https://github.com/MapleRose))
 - [Ashutosh Pandey]
 - [Oliver Warne]
 - [Ravindra Reddy](https://github.com/ravindra135)
