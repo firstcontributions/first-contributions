@@ -1002,4 +1002,5 @@ Ti Kyi Khant
 - [Kirill Trifonov](https://github.com/kstrifonoff)
 - [Casey Cannon](https://github.com/clcannon)
 - [naiithink](https://github.com/naiithink)
+- [aman404](https://github.com/aman404)
 <!-- prettier-ignore-end -->
