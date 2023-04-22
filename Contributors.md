@@ -416,6 +416,7 @@ Ti Kyi Khant
 - [Ikako Core](https://github.com/irakli777irakli)
 - [Julian Macioce](https://github.com/JMacioce)
 - [Matteo Bruscagnin](https://github.com/MBruscagnin)
+- [Bhaskar Sharma](https://github.com/bhaskarsharma10)
 - [Donatus Tamajong](https://github.com/Donatus)
 - [Rucha Daware](https://github.com/ruchadaware18)
 - [Prerit Agrawal](https://github.com/preritagrawal06)
@@ -423,7 +424,6 @@ Ti Kyi Khant
 - [JSTNSNE](https://github.com/JSTNSNE)
 - [Mohamed Mostafa](https://github.com/mohamedmostafakhudari)
 - [JSTNSNE](https://github.com/JSTNSNE)
--[not]
 - [Aimee T](https://github.com/aimeetacchi)
 - [Alkut Askar](https://github.com/elkut)
 - [klpod221](https://github.com/klpod221)
