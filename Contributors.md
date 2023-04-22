@@ -1005,4 +1005,5 @@ Ti Kyi Khant
 - [Casey Cannon](https://github.com/clcannon)
 - [naiithink](https://github.com/naiithink)
 - [aman404](https://github.com/aman404)
+- [Kosisochukwu](https://github.com/kossycodes)
 <!-- prettier-ignore-end -->
