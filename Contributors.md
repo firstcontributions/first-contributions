@@ -807,6 +807,7 @@
 - [Anukul Pandey](https://github.com/anukulpandey)
 - [Julia Lopes](https://github.com/lrjulia)
 - [Kushal Lahoti](https://github.com/kushalnl7)
+- [ostin-r](https://github.com/ostin-r)
 - [Curtis Cali](https://github.com/curtiscali)
 - [ErNeRooo](https://github.com/ErNeRooo)
 - [Rishith P](https://github.com/Rishithp06)
