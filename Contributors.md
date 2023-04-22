@@ -170,7 +170,6 @@ Ti Kyi Khant
 - [bronkp](https://github.com/bronkp)
 - Bruno V. T. Barbosa
 - [Brayan Kai Mwanyumba](https://github.com/mwanyumba7)
-- Karthik
 - [Cedric Hannemann](https://github.com/cedhan)
 - [Henry Andrade](https://github.com/HenryAnd04)
 - [Devang Parekh](https://github.com/BravesDevs)
@@ -416,7 +415,6 @@ Ti Kyi Khant
 - [JSTNSNE](https://github.com/JSTNSNE)
 - [Mohamed Mostafa](https://github.com/mohamedmostafakhudari)
 - [JSTNSNE](https://github.com/JSTNSNE)
--[not]
 - [Aimee T](https://github.com/aimeetacchi)
 - [Alkut Askar](https://github.com/elkut)
 - [klpod221](https://github.com/klpod221)
@@ -935,7 +933,6 @@ Ti Kyi Khant
 - [Zeeshan Lone](https://github.com/still-learning-ev)
 - [Julie Gunawan][https://github.com/JulieGunawan]
 - [Soumya Mandal](https://github.com/heySoumy4)
-- [Sabin Maharjan](I am learning to use git)
 - [Mohd Yawar Shahid](https://github.com/yawar1101)
 - [ThotakuraHarish](https://github.com/ThotakuraHarish2003)
 - [MBDUR12](https://github.com/MBDur12/)
@@ -959,7 +956,6 @@ Ti Kyi Khant
 - [Abdul Moiz Lakhani](https://github.com/abdulmoizlakhani)
 - [Xemio](https://github.com/xemioxd)
 - [izkizk8](https://github.com/izkizk8)
-- [sitaram_guduri]
 - [7exx](https://github.com/7exx)
 - [rakesh-kumar](https://github.com/Rakesh709)
 - [Adarsha K S](https://github.com/adarsha83)
