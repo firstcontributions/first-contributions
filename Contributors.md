@@ -1,5 +1,6 @@
    # Contributors
 <!-- prettier-ignore-start -->
+- [Venkatesh-KCET](https://github.com/Venkatesh-KCET)
 - [Raj-101](https://github.com/Raj-101)
 - [Amit Kumar](https://github.com/amitthecoder)
 - [khunsai06](https://github.com/khunsai06)
