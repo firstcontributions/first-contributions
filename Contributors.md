@@ -1,5 +1,6 @@
    # Contributors
 <!-- prettier-ignore-start -->
+- [Thejas Bhat](https://github.com/tbpcoder)
 - [Venkatesh-KCET](https://github.com/Venkatesh-KCET)
 - [Raj-101](https://github.com/Raj-101)
 - [Amit Kumar](https://github.com/amitthecoder)
