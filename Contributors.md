@@ -1017,6 +1017,7 @@
 - [Kirill Trifonov](https://github.com/kstrifonoff)
 - [Casey Cannon](https://github.com/clcannon)
 - [naiithink](https://github.com/naiithink)
+- [Mohammad Bagri](https://github.com/mohambag)
 - [aman404](https://github.com/aman404)
 - [buriedBug](https://github.com/buriedBug)
 <!-- prettier-ignore-end -->
