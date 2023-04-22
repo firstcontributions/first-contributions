@@ -15,6 +15,7 @@
 - [Anthony Capecci](https://github.com/AnthonyCap13)
 - [Vaibhav Mahajan](https://github.com/vaibhav-3003)
 - [Kushanth-Reddy](https://github.com/Kushanth-Reddy)
+- [Wesllen Alexandre](https://github.com/Wesllenbr)
 - [Ikegah Oliver](https://github.com/oliverTwist2)
 - [derfabiannn](https://github.com/derfabiannn)
 - [Aryaman Pathak](https://github.com/aryamanpathak2022)
