@@ -1027,4 +1027,5 @@
 - [Arun Kumar Marndi](https://github.com/arunkumarmarndi)
 - [Leanne Keenan](https://github.com/leannekeenan)
 - [ebrower320](https://github.com/ebrower320)
+- [Oshanik](https://github.com/Oshanik22)
 <!-- prettier-ignore-end -->
