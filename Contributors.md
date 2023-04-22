@@ -1010,4 +1010,5 @@ Ti Kyi Khant
 - [Casey Cannon](https://github.com/clcannon)
 - [naiithink](https://github.com/naiithink)
 - [aman404](https://github.com/aman404)
+- [buriedBug](https://github.com/buriedBug)
 <!-- prettier-ignore-end -->
