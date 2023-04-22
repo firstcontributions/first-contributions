@@ -325,6 +325,7 @@ Ti Kyi Khant
 - [Nora Aguirre](https://github.com/nora-programadora)
 - [Vijay Aadhithya](https://github.com/vijayaadhithya2019rit)
 - [Guna Abola](https://github.com/g-abola)
+- [Ubirajara Almeida](https://github.com/ualmeida55)
 - [Shabana Naik](https://github.com/ShabanaNaik)
 - [Alex Sanzhanov](https://github.com/Sanzhanov)
 - [Aecio Neto](https://github.com/aecio-neto)
