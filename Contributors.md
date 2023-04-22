@@ -27,7 +27,7 @@
 - [Stefan Baciu](https://github.com/StefanCodru)
 - [Ioan Circiumaru](https://github.com/circiumaruioan)
 Ti Kyi Khant
-[Anukam Chidalu](https://github.com/daluclemas) 
+[Anukam Chidalu](https://github.com/daluclemas)
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
 - [Malavya Raval](https://github.com/MalavyaRaval)
 - [Curtis Aliwah] (https://github.com/Aliwah1403)
@@ -774,6 +774,7 @@ Ti Kyi Khant
 - [Burunr](https://github.com/burunr)
 - [Jean-Marie Lator](https://github.com/Bescore)
 - [James Anderson](https://github.com/JimboBaggins1)
+- [Richard Kwon](https://github.com/ykk2)
 - [deivard](https://github.com/deivard)
 - [Ky Bui Van](https://github.com/kybuivan)
 - [Chao Neil Aryan Borgohain](https://github.com/ChaoNEil)
@@ -993,4 +994,5 @@ Ti Kyi Khant
 - [inamnurul](https://github.com/inamnurulf)
 - [Kirill Trifonov](https://github.com/kstrifonoff)
 - [Casey Cannon](https://github.com/clcannon)
+
 <!-- prettier-ignore-end -->
