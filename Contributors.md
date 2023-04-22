@@ -39,6 +39,7 @@
 - [Stefan Baciu](https://github.com/StefanCodru)
 - [Ioan Circiumaru](https://github.com/circiumaruioan)
 - [Anukam Chidalu](https://github.com/daluclemas) 
+- [Simon](https://github.com/simjkx)
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
 - [Malavya Raval](https://github.com/MalavyaRaval)
 - [Curtis Aliwah] (https://github.com/Aliwah1403)
