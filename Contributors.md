@@ -529,6 +529,7 @@ Ti Kyi Khant
 - [IsaacNewTom](https://github.com/IsaacNewTom)
 - [Juden Ung](https://github.com/judenung)
 - [Eli Taylor](https://github.com/elitay152)
+- [dizzydroid](https://github.com/dizzydroid)
 - [Jessica Hsiang](https://github.com/hsiangj)
 - [Praveen Kumar](https://github.com/pravo23)
 - [Jai-Marothiya](https://github.com/Jai-Marothiya)
