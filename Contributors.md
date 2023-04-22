@@ -1,5 +1,6 @@
    # Contributors
 <!-- prettier-ignore-start -->
+- [Amit Kumar](https://github.com/amitthecoder)
 - [khunsai06](https://github.com/khunsai06)
 - [pradeep kc](https://github.com/pradeepkc11)
 - [Aryant Kumar](https://github.com/Aryant01)
