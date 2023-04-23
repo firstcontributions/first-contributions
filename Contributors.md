@@ -1040,6 +1040,7 @@
 - [inamnurul](https://github.com/inamnurulf)
 - [Kirill Trifonov](https://github.com/kstrifonoff)
 - [Casey Cannon](https://github.com/clcannon)
+- [Manav Chaudhary](https://github.com/vrmanav)
 - [naiithink](https://github.com/naiithink)
 - [Mohammad Bagri](https://github.com/mohambag)
 - [aman404](https://github.com/aman404)
