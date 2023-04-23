@@ -40,6 +40,7 @@
 - [Jacob Albert](https://github.com/jalbert90)
 - [Ruth Ikegah](https://github.com/Ruth-ikegah)
 - [Rishikesh Kanabar](https://github.com/RishikeshNK)
+- [Moheet Shendarkar](https://github.com/moheet333)
 - [Adrian Calleja](https://github.com/adrii0113)
 - [Jon Sundin](https://github.com/jmsundin)
 - [Rose Rousseau](<(https://github.com/MapleRose)>)
