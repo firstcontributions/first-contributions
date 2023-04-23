@@ -197,6 +197,7 @@
 - [jungchoib](https://github.com/jungchoib)
 - [rajdugad](https://github.com/rajdugad)
 - [Tarek-Azzazi](https://github.com/tarekazzazi)
+- [Gabriel Abal](https://github.com/gabriel-abal)
 - [Matthew Anderson](https://github.com/manderson21)
 - [Robbie Sumner](https://github.com/robbiesumner)
 - [EricWink](https://github.com/ericwink)
