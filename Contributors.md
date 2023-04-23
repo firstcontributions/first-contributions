@@ -1,5 +1,6 @@
 ﻿   # Contributors 
 <!-- prettier-ignore-start -->
+-[Ulrich Lotriet](https://github.com/Grungo552)
 - [Nahom Teshome](https://github.com/NahomTesM)
 -[Luv Sharma](https://github.com/Stormbreakerr20)
 - [Duong Tien Anh](https://github.com/anhdt1911)
