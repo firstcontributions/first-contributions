@@ -594,6 +594,7 @@
 - [Vignesh R](https://github.com/rv97)
 - [Murilo Barbosa](https://github.com/murilodab)
 - [Laura Clark](https://github.com/lcmaximum)
+- [Callum Merritt](https://github.com/CallumMerritt)
 - [Laurat Hajrullaaga](https://github.com/laurathaga)
 - [Hiruna-Kumara](https://github.com/Hiruna-Kumara)
 - [Aman Kumar Pandey](https://github.com/amanpandey2101)
