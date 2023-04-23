@@ -1052,5 +1052,6 @@
 - [Mathesukkj](https://github.com/mathesukkj)
 - [marken-0](https://github.com/marken-0)
 - [Devanand Yadav](https://github.com/git-devanand)
+- [Shashi Shekhar](https://github.com/shekhars094)
 - [Yash Arora](https://github.com/Yasharora2020)
 <!-- prettier-ignore-end -->
