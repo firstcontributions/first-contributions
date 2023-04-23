@@ -46,6 +46,7 @@
 - [Ashutosh Pandey]
 - [Oliver Warne]
 - [cqdev-fusion](https://github.com/cqdev-fusion)
+- [Moshe Fortgang](https://github.com/moshefortgang)
 - [Ravindra Reddy](https://github.com/ravindra135)
 - [Sagar Sharma](https://github.com/sagar-io)
 - [Stefan Baciu](https://github.com/StefanCodru)
@@ -59,6 +60,7 @@
 - [Oluwaseun Adesina](https://github.com/oluwaseun-Adesina)
 - [Dolamu Oludare](https://github.com/Dolamu-TheDataGuy)
 - [Adam Shin](https://github.com/AdamShin19)
+- [solankybasant](https://github.com/solankybasant)
 - [Ahmad Bilesanmi](https://github.com/bilesanmiahmad)
 - [Brandon Cole] (https://github.com/realbcole)
 - [Koninika Tarafdar](https://github.com/Koninikax)
