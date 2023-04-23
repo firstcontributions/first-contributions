@@ -48,6 +48,7 @@
 - [Ashutosh Pandey]
 - [Oliver Warne]
 - [cqdev-fusion](https://github.com/cqdev-fusion)
+- [Vyoam Yadav](https://github.com/ambiguousphoton)
 - [Ravindra Reddy](https://github.com/ravindra135)
 - [Sagar Sharma](https://github.com/sagar-io)
 - [Stefan Baciu](https://github.com/StefanCodru)
