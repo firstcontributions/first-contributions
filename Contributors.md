@@ -822,6 +822,7 @@
 - [Burunr](https://github.com/burunr)
 - [Jean-Marie Lator](https://github.com/Bescore)
 - [James Anderson](https://github.com/JimboBaggins1)
+- [Richard Kwon](https://github.com/ykk2)
 - [deivard](https://github.com/deivard)
 - [Ky Bui Van](https://github.com/kybuivan)
 - [Chao Neil Aryan Borgohain](https://github.com/ChaoNEil)
