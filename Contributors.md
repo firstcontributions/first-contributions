@@ -11,6 +11,7 @@
 - [Raj-101](https://github.com/Raj-101)
 - [Summer Babel](https://github.com/sumerbabel)
 - [Amit Kumar](https://github.com/amitthecoder)
+- [almostJohn](https://github.com/almostJohn)
 - [Abdelrahman Elsayed](https://github.com/onepercentgold)
 - [Gabriel Moraes] (https://github.com/gabrielm33)
 - [khunsai06](https://github.com/khunsai06)
@@ -40,7 +41,7 @@
 - [Rishikesh Kanabar](https://github.com/RishikeshNK)
 - [Adrian Calleja](https://github.com/adrii0113)
 - [Jon Sundin](https://github.com/jmsundin)
-- [Rose Rousseau]((https://github.com/MapleRose))
+- [Rose Rousseau](<(https://github.com/MapleRose)>)
 - [Ashutosh Pandey]
 - [Oliver Warne]
 - [cqdev-fusion](https://github.com/cqdev-fusion)
@@ -49,7 +50,7 @@
 - [Stefan Baciu](https://github.com/StefanCodru)
 - [Ange-Emmanuel Kouakou](https://github.com/SolarBlaze)
 - [Ioan Circiumaru](https://github.com/circiumaruioan)
-- [Anukam Chidalu](https://github.com/daluclemas) 
+- [Anukam Chidalu](https://github.com/daluclemas)
 - [Simon](https://github.com/simjkx)
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
 - [Malavya Raval](https://github.com/MalavyaRaval)
@@ -117,9 +118,8 @@
 - [Blood Pirouette](https://github.com/Blood-Pirouette)
 - [Natasha Mundada]()
 - [Son Thanh Tran]
-- [notdncly]()
--[Arjun] 
-[Hung Cai](https://github.com/Pro-vo-ker)
+- [notdncly]() -[Arjun]
+  [Hung Cai](https://github.com/Pro-vo-ker)
 - [Stephen Adesina](https://github.com/adstefnum)
 - [Loren Gayle](https://github.com/lorenzeo)
 - [Joel Lozano](https://github.com/joel-lozano)
