@@ -905,6 +905,7 @@
 - [ThankGod Ode](https://github.com/thankgodode)
 - [Vladimir Git](https://github.com/vladimirsgit)
 - [iNevs](https://github.com/inevs)
+- [Rino Kitimbo](https://github.com/KitimboRino)
 - [Salman Sajid](https://github.com/salmannnsajid)
 - [ApexMe](https://github.com/ApexMe)
 - [czc](https://github.com/czc-gd)
