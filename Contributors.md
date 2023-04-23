@@ -55,6 +55,7 @@
 - [Ahmad Bilesanmi](https://github.com/bilesanmiahmad)
 - [Brandon Cole] (https://github.com/realbcole)
 - [Koninika Tarafdar](https://github.com/Koninikax)
+- [Karthikeyan Nambivinayagam] (https://github.com/Karthikn-n)
 - [Provab Mongchaw Khyang](https://github.com/notmongchaw)
 - [Robert West](https://github.com/rolewest)
 - [Bedant Chhetri](https://github.com/bedantchh)
