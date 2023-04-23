@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Ayush_Chaudhari](https://github.com/the-bokya)
+- Brijesh Roy - https://github.com/brijeshroy
 - [Conaitus](https://github.com/conaitus)
 - [YuHangSE](https://github.com/YuHangSE)
 - [Thejas Bhat](https://github.com/tbpcoder)
