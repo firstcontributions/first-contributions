@@ -1033,6 +1033,7 @@
 - [Adrien Cokini](https://github.com/acokini)
 - [Lou Onezime](https://github.com/louonezime)
 - [kebwlmbheee](https://github.com/kebwlmbhee)
+- [Tasye24](https://github.com/tasye24)
 - [Toya](https://github.com/T0YA)
 - [super5xy](https://github.com/super5xy)
 - [Mohammed Mudassir](https://github.com/Mudassir710)
