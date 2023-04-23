@@ -248,6 +248,7 @@
 - [Chiamaka Ezemba](https://github.com/ChiamakaUI)
 - [smdch](https://github.com/smdch)
 - [gonend](https://github.com/gonend)
+- [nicoleeeeeeeeeeeeeeeee](https://github.com/nicoleeeeeeeeeeeeeeeee)
 - [Aryan Verma](https://github.com/aryanvarma7272)
 - [Aadarsh Naik](https://github.com/aadarshnaik)
 - [teventov5](https://github.com/teventov5)
