@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [Ayush_Chaudhari](https://github.com/the-bokya)
 - Brijesh Roy - https://github.com/brijeshroy
 - [Conaitus](https://github.com/conaitus)
@@ -83,6 +84,7 @@
 - [Emily Chima](https://github.com/emilychima)
 - [Sudhir Bhandari](https://github.com/suasnomy/)
 - [Cristian Dreyer](https://github.com/cdreyer00)
+- [Raphael](https://github.com/Rmarieta)
 - [Leandro Ezequiel Aballone](https://github.com/Lean-Aballone)
 - [Satendra Mishra](https://github.com/Satendram)
 - [Busiswa M] (https://github.com/BusiswaM)
