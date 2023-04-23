@@ -59,6 +59,7 @@
 - [Oluwaseun Adesina](https://github.com/oluwaseun-Adesina)
 - [Dolamu Oludare](https://github.com/Dolamu-TheDataGuy)
 - [Adam Shin](https://github.com/AdamShin19)
+- [solankybasant](https://github.com/solankybasant)
 - [Ahmad Bilesanmi](https://github.com/bilesanmiahmad)
 - [Brandon Cole] (https://github.com/realbcole)
 - [Koninika Tarafdar](https://github.com/Koninikax)
