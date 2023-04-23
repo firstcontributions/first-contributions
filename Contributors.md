@@ -8,6 +8,7 @@
 - [Raj-101](https://github.com/Raj-101)
 - [Summer Babel](https://github.com/sumerbabel)
 - [Amit Kumar](https://github.com/amitthecoder)
+- [Gabriel Moraes] (https://github.com/gabrielm33)
 - [khunsai06](https://github.com/khunsai06)
 - [pradeep kc](https://github.com/pradeepkc11)
 - [Aryant Kumar](https://github.com/Aryant01)
