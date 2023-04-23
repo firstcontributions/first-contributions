@@ -28,6 +28,7 @@
 - [Vansh Arora](https://github.com/vansharora03)
 - [Rohit Tokala](https://github.com/rtokala14)
 - [Utkarsh Jambhulkar](https://github.com/U-J-007)
+- [Musa Blackfrost](https://github.com/musagenius345)
 - [Satyam singh](https://github.com/jirayanaruto)
 - [Lior Haim](https://github.com/LiorHaimGit)
 - [Jacob Albert](https://github.com/jalbert90)
