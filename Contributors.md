@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [YuHangSE](https://github.com/YuHangSE)
 - [Thejas Bhat](https://github.com/tbpcoder)
+- [Mahendra Kolhe](https://github.com/Mahikolhe23)
 - [Venkatesh-KCET](https://github.com/Venkatesh-KCET)
 - [Darren Harris](https://github.com/theharriscode)
 - [Raj-101](https://github.com/Raj-101)
