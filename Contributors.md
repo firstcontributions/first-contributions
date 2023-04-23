@@ -870,6 +870,7 @@
 - [Reduan Masud](https://github.com/reduanmasud)
 - [William Dutra](https://github.com/WilliamDutra)
 - [Narendra Anyam](https://github.com/narendra101)
+- [Eren Terakye](https://github.com/ErenTerakye)
 - [Nathan Salberg](https://github.com/NSalberg)
 - [Lior Asras](https://github.com/4rass)
 - [JVM](https://github.com/jaideepmurkute)
