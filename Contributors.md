@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Conaitus](https://github.com/conaitus)
 - [YuHangSE](https://github.com/YuHangSE)
 - [Thejas Bhat](https://github.com/tbpcoder)
 - [Mahendra Kolhe](https://github.com/Mahikolhe23)
