@@ -1065,4 +1065,5 @@
 - [Shashi Shekhar](https://github.com/shekhars094)
 - [Thet Min Htin](https://github.com/ClockWize171)
 - [Yash Arora](https://github.com/Yasharora2020)
+- [Alex Marr](https://github.com/a-marr)
 <!-- prettier-ignore-end -->
