@@ -187,6 +187,7 @@
 - Bruno V. T. Barbosa
 - [Brayan Kai Mwanyumba](https://github.com/mwanyumba7)
 - Karthik
+- Crux
 - [Cedric Hannemann](https://github.com/cedhan)
 - [Didi M](https://github.com/Didi-M1)
 - [Henry Andrade](https://github.com/HenryAnd04)
