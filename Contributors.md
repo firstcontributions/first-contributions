@@ -117,6 +117,7 @@
 - [Andrew Lamichhane](https://github.com/Andrew-LC)
 - [Ruphaa Ganesan](https://github.com/ruphaa)
 - [Pulkit]
+- [Dyomanjaro](https://github.com/Dyomanjaro)
 - [ANKIT VISHWAKARMA](https://github.com/ankitxcoding)
 - [unpluggedsam](https://github.com/unpluggedsam)
 - [LinhNguyenLe2109](https://github.com/LinhNguyenLe2109)
