@@ -967,6 +967,7 @@
 - [Ash Dev](https://github.com/ashdevin)
 - [DoubledConG](https://github.com/cccoding365)
 - [Kalp Prajapati](https://github.com/munnokd)
+- [Yousef Negmeldin](https://github.com/yousefnegmeldin)
 - [S_Furman](https://github.com/S-Furman)
 - [Armaghan Shakir](https://github.com/geetu040)
 - [Thomas Henderson](https://github.com/HendersonSoftworks)
