@@ -39,6 +39,7 @@
 - [Rose Rousseau]((https://github.com/MapleRose))
 - [Ashutosh Pandey]
 - [Oliver Warne]
+- [cqdev-fusion](https://github.com/cqdev-fusion)
 - [Ravindra Reddy](https://github.com/ravindra135)
 - [Sagar Sharma](https://github.com/sagar-io)
 - [Stefan Baciu](https://github.com/StefanCodru)
