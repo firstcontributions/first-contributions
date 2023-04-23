@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [YuHangSE](https://github.com/YuHangSE)
 - [Thejas Bhat](https://github.com/tbpcoder)
 - [Venkatesh-KCET](https://github.com/Venkatesh-KCET)
@@ -32,16 +33,17 @@
 - [Jacob Albert](https://github.com/jalbert90)
 - [Ruth Ikegah](https://github.com/Ruth-ikegah)
 - [Rishikesh Kanabar](https://github.com/RishikeshNK)
+- [Moheet Shendarkar](https://github.com/moheet333)
 - [Adrian Calleja](https://github.com/adrii0113)
 - [Jon Sundin](https://github.com/jmsundin)
-- [Rose Rousseau]((https://github.com/MapleRose))
+- [Rose Rousseau](<(https://github.com/MapleRose)>)
 - [Ashutosh Pandey]
 - [Oliver Warne]
 - [Ravindra Reddy](https://github.com/ravindra135)
 - [Sagar Sharma](https://github.com/sagar-io)
 - [Stefan Baciu](https://github.com/StefanCodru)
 - [Ioan Circiumaru](https://github.com/circiumaruioan)
-- [Anukam Chidalu](https://github.com/daluclemas) 
+- [Anukam Chidalu](https://github.com/daluclemas)
 - [Simon](https://github.com/simjkx)
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
 - [Malavya Raval](https://github.com/MalavyaRaval)
@@ -107,9 +109,8 @@
 - [Blood Pirouette](https://github.com/Blood-Pirouette)
 - [Natasha Mundada]()
 - [Son Thanh Tran]
-- [notdncly]()
--[Arjun] 
-[Hung Cai](https://github.com/Pro-vo-ker)
+- [notdncly]() -[Arjun]
+  [Hung Cai](https://github.com/Pro-vo-ker)
 - [Stephen Adesina](https://github.com/adstefnum)
 - [Loren Gayle](https://github.com/lorenzeo)
 - [Joel Lozano](https://github.com/joel-lozano)
