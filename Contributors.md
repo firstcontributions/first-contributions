@@ -538,6 +538,7 @@
 - [Victor Chao](https://github.com/VictorChao996)
 - [Pedro Henrique Leite Félix](https://github.com/SinnerTheSinful)
 - [shrthk-7](https://github.com/shrthk-7)
+- [Angus Spawton-Rice](https://github.com/AngusDSR)
 - [Yash Thakur](https://github.com/philomathaf)
 - [Aranamor](https://github.com/aranamor)
 - [Cedrick AHOUANGANSI](https://github.com/Cedrick-ah)
