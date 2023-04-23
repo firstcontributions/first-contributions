@@ -40,6 +40,7 @@
 - [Ravindra Reddy](https://github.com/ravindra135)
 - [Sagar Sharma](https://github.com/sagar-io)
 - [Stefan Baciu](https://github.com/StefanCodru)
+- [Ange-Emmanuel Kouakou](https://github.com/SolarBlaze)
 - [Ioan Circiumaru](https://github.com/circiumaruioan)
 - [Anukam Chidalu](https://github.com/daluclemas) 
 - [Simon](https://github.com/simjkx)
