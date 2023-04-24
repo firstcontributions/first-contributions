@@ -1089,4 +1089,5 @@
 - [Alex Marr](https://github.com/a-marr)
 - [Robin Muijs](https://github.com/RobinMuijs2000)
 - [Guan Zhi Wang](https://github.com/joe94113)
+- [Jing Yi]
 <!-- prettier-ignore-end -->
