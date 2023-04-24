@@ -774,6 +774,7 @@
 - [Reza Sariful Fikri](https://github.com/rezafikkri)
 - [Samuel Essilfie](https://github.com/samezzz)
 - [Anna Burdanova](https://github.com/AnnaBurd)
+- [Jake Zemansky](https://github.com/jzemansky)
 - [Shaik Abdul Wahid](https://github.com/Abdulwahid7027)
 - [Abhishek Singh](https://github.com/Abhisheksingh734)
 - [malleboina paramesh](https://github.com/MalleboinaParmesh/)
