@@ -5,6 +5,7 @@
 - [Ayush_Chaudhari](https://github.com/the-bokya)
 - [Aleks_Lucenko](https://github.com/alekslucenko)
 - Brijesh Roy - https://github.com/brijeshroy
+- [Raj sharma](https://github.com/lluciferr)
 - [Conaitus](https://github.com/conaitus)
 - [YuHangSE](https://github.com/YuHangSE)
 - [Thejas Bhat](https://github.com/tbpcoder)
