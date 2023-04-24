@@ -101,7 +101,7 @@ Open a terminal and run the following git command:
 git clone "url you just copied"
 ```
 
-where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+Where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -152,7 +152,7 @@ Now commit those changes using the `git commit` command:
 git commit -m "Add your-name to Contributors list"
 ```
 
-replacing `your-name` with your name.
+Replacing `your-name` with your name.
 
 ## Push changes to GitHub
 
