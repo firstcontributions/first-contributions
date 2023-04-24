@@ -23,6 +23,7 @@
 - [HOUSSAM666](https://github.com/HOUSSAM666)
 - [pradeep kc](https://github.com/pradeepkc11)
 - [Aryant Kumar](https://github.com/Aryant01)
+- [jdszekeres](https://github.com/jdszekeres)
 - [Anuj Kumar Karmakar](https://github.com/anujkkarmakar)
 - [Angel Umeh](https://github.com/akcumeh)
 - [Anthony Capecci](https://github.com/AnthonyCap13)
