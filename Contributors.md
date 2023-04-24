@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [DimCel](https://github.com/dimcel)
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
 - [Ayush_Chaudhari](https://github.com/the-bokya)
@@ -814,6 +815,7 @@
 - [BuddhaHeadDev](https://github.com/BuddhaHeadDev)
 - [Kene-Ojiteli](https://github.com/KeneOjiteli)
 - [Kevin](https://github.com/KevinIsCool79)
+- [Kkaminsk86](https://github.com/Kkaminsk86)
 - [grigaut](https://github.com/grigaut)
 - [Sarat Kota](https://github.com/kotasarat)
 - [Rahul Badade](https://github.com/rahulb18)
