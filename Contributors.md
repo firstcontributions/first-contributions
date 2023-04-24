@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [Ayush_Chaudhari](https://github.com/the-bokya)
 - Brijesh Roy - https://github.com/brijeshroy
 - [Conaitus](https://github.com/conaitus)
@@ -29,6 +30,7 @@
 - [Kushanth-Reddy](https://github.com/Kushanth-Reddy)
 - [Wesllen Alexandre](https://github.com/Wesllenbr)
 - [Ikegah Oliver](https://github.com/oliverTwist2)
+- [Fumiya Shimada](https://github.com/smdhnz)
 - [derfabiannn](https://github.com/derfabiannn)
 - [Aryaman Pathak](https://github.com/aryamanpathak2022)
 - [Anierobi Esther](https://github.com/Esther146)
