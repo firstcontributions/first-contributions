@@ -12,6 +12,7 @@
 - [YuHangSE](https://github.com/YuHangSE)
 - [Thejas Bhat](https://github.com/tbpcoder)
 - [Mahendra Kolhe](https://github.com/Mahikolhe23)
+- [Best wishes](https://github.com/SinusoidFunc)
 - [Venkatesh-KCET](https://github.com/Venkatesh-KCET)
 - [namedmichi](https://github.com/namedmichi)
 - [gyanash.ekka](https://github.com/gyanAsh)
