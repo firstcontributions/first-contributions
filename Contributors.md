@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [DimCel](https://github.com/dimcel)
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
 - [Ayush_Chaudhari](https://github.com/the-bokya)
@@ -1088,4 +1089,5 @@
 - [Alex Marr](https://github.com/a-marr)
 - [Robin Muijs](https://github.com/RobinMuijs2000)
 - [Guan Zhi Wang](https://github.com/joe94113)
+- [Anton Meshchaninov](https://github.com/HunterM7)
 <!-- prettier-ignore-end -->
