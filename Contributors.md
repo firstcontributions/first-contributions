@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [JoshuaMarkle](https://github.com/JoshuaMarkle)
 - [Ayush_Chaudhari](https://github.com/the-bokya)
 - [Aleks_Lucenko](https://github.com/alekslucenko)
 - Brijesh Roy - https://github.com/brijeshroy
