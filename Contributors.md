@@ -308,6 +308,7 @@
 - [Jo-SungJun](https://github.com/Jo-SungJun)
 - [Samvardhan](https://github.com/samvardhan777)
 - [Iyyappan R](https://github.com/dvrsaran)
+- [Paul Tucker](https://github.com/PaulDavidTucker)
 - [Zinkue](https://github.com/Zinkue)
 - [Rohit Yadav](https://www.linkedin.com/in/rohit-yadav-0852481b2/)
 - [Tyler Martin @HeyTylerMartin](https://github.com/HeyTylerMartin)
