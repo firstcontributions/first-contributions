@@ -995,6 +995,7 @@
 - [Anurag Sarkar](https://github.com/Anurag-Sarkar)
 - [Zeeshan Lone](https://github.com/still-learning-ev)
 - [Julie Gunawan][https://github.com/juliegunawan]
+- [Amber Shay](https://github.com/Maashad)
 - [Soumya Mandal](https://github.com/heySoumy4)
 - [Sabin Maharjan](I am learning to use git)
 - [Mohd Yawar Shahid](https://github.com/yawar1101)
