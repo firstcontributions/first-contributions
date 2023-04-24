@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 <!-- prettier-ignore-start -->
 - [DimCel](https://github.com/dimcel)
@@ -1091,4 +1091,5 @@
 - [Robin Muijs](https://github.com/RobinMuijs2000)
 - [Guan Zhi Wang](https://github.com/joe94113)
 - [Jing Yi]
+- [Pranjit Medhi](https://github.com/real-zit)
 <!-- prettier-ignore-end -->
