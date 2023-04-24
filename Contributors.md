@@ -1,12 +1,14 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [DimCel](https://github.com/dimcel)
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
 - [Ayush_Chaudhari](https://github.com/the-bokya)
 - [Aleks_Lucenko](https://github.com/alekslucenko)
 - Brijesh Roy - https://github.com/brijeshroy
 - [Raj sharma](https://github.com/lluciferr)
+- [Tanul Deshmukh](https://github.com/twelve-von)
 - [Conaitus](https://github.com/conaitus)
 - [YuHangSE](https://github.com/YuHangSE)
 - [Thejas Bhat](https://github.com/tbpcoder)
