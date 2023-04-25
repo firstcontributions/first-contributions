@@ -1079,6 +1079,7 @@
 - [Ilya Andreev](https://github.com/its-a-setup)
 - [Paul Kros](https://github.com/KingWazzack)
 - [inamnurul](https://github.com/inamnurulf)
+- [Lip Wei](https://github.com/lipwei1808)
 - [Kirill Trifonov](https://github.com/kstrifonoff)
 - [Casey Cannon](https://github.com/clcannon)
 - [Manav Chaudhary](https://github.com/vrmanav)
