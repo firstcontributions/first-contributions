@@ -392,6 +392,7 @@
 - [Aryan Thakore](https://github.com/Aryan1982)
 - [Mykhailo Gavryliuk](https://github.com/Michael1249)
 - [Hamza Nehme](https://github.com/hnehme99)
+- [Daniel Choike](https://github.com/danielchoike2)
 - [vanagas11](https://github.com/vanagas11)
 - [Chris D](https://github.com/nesdev85)
 - [Hippolyte Thomas](https://github.com/hippothomas)
