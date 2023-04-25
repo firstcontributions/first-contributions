@@ -64,6 +64,7 @@
 - [Rose Rousseau](<(https://github.com/MapleRose)>)
 - [Ashutosh Pandey]
 - [Oliver Warne]
+- [Chris E](https://github.com/cce2955)
 - [cqdev-fusion](https://github.com/cqdev-fusion)
 - [Vyoam Yadav](https://github.com/ambiguousphoton)
 - [Ravindra Reddy](https://github.com/ravindra135)
