@@ -9,6 +9,7 @@
 - Brijesh Roy - https://github.com/brijeshroy
 - [Raj sharma](https://github.com/lluciferr)
 - [Conaitus](https://github.com/conaitus)
+- [Sham04](https://github.com/Sham04s)
 - [YuHangSE](https://github.com/YuHangSE)
 - [Thejas Bhat](https://github.com/tbpcoder)
 - [Mahendra Kolhe](https://github.com/Mahikolhe23)
