@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 <!-- prettier-ignore-start -->
 - [DimCel](https://github.com/dimcel)
@@ -96,6 +96,7 @@
 - [Bedant Chhetri](https://github.com/bedantchh)
 - [Atahan Caldir](https://github.com/atahancaldir)
 - [taricov](https://github.com/taricov)
+- [nor6u](https://github.com/nor6u)
 - [YShen](https://github.com/yshenfab)
 - [Matt Riccio](https://github.com/ricciomatt)
 - [Vivoiswatching](https://github.com/vivoiswatching)
