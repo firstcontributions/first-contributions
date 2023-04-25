@@ -911,6 +911,7 @@
 - [Kevin](https://github.com/pheyth15)
 - [Mani Pandit](https://github.com/manipandit)
 - [David Herring](https://github.com/davidherring123)
+- [Rafael Olivares](https://github.com/olrafa)
 - [Aiden Cline](https://github.com/rekram1-node)
 - [Abdul-Mustafa](https://github.com/Abdul-Mustafa)
 - [Mohit Ishpunyani](https://github.com/16mi)
