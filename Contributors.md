@@ -1,13 +1,15 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
+
 - [DimCel](https://github.com/dimcel)
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
+- [Diana Sofia Cardona](https://github.com/dscardona)
 - [Ayush_Chaudhari](https://github.com/the-bokya)
 - [Aleks_Lucenko](https://github.com/alekslucenko)
 - [Adam_Logman](https://github.com/adamlquman)
-- [Brijesh_Roy]  (https://github.com/brijeshroy)
+- [Brijesh_Roy] (https://github.com/brijeshroy)
 - [Raj sharma](https://github.com/lluciferr)
 - [Conaitus](https://github.com/conaitus)
 - [Sham04](https://github.com/Sham04s)
