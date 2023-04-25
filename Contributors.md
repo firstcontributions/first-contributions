@@ -1112,4 +1112,5 @@
 - [Amy Lam](https://github.com/amyhoanglam)
 - [Vipul Chawathe](https://github.com/CVipulS)
 - [Cahya Pangestu](https://github.com/cahya24)
+- [Manav Chaudhary](https://github.com/ManavChaudhary999)
 <!-- prettier-ignore-end -->
