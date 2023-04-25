@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
+
 - [DimCel](https://github.com/dimcel)
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
@@ -11,6 +12,7 @@
 - [Conaitus](https://github.com/conaitus)
 - [YuHangSE](https://github.com/YuHangSE)
 - [Thejas Bhat](https://github.com/tbpcoder)
+- [Negar Baharmand](https://github.com/negarbaharmand)
 - [Mahendra Kolhe](https://github.com/Mahikolhe23)
 - [Best wishes](https://github.com/SinusoidFunc)
 - [Venkatesh-KCET](https://github.com/Venkatesh-KCET)
