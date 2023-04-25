@@ -965,6 +965,7 @@
 - [Sam Barlas](https://github.com/sambarlas)
 - [Namlh](https://github.com/namlh023)
 - [Matheus Favaretto](https://github.com/MatheuslFavaretto)
+- [Vaibhav Guglani](https://github.com/VabGMos)
 - [Lucas Ribeiro](https://github.com/lucasribeiro-dev)
 - [Paulo Vitor](https://github.com/paulovitor-unb)
 - [Andrew McCall](https://github.com/elkcityhazard)
