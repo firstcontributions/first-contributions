@@ -200,6 +200,7 @@
 - [Daniel Jeffrey Nibbs](https://github.com/Jeff-Nibbs)
 - [jeongwoo903](https://github.com/jeongwoo903)
 - [albus-droid](https://github.com/albus-droid)
+- [SSENYONDO MICHEAL](https://github.com/ssenyondo67)
 - [Desmond-Fon](https://github.com/Desmond-Fon)
 - [Bajomo-semilore](https://github.com/Sbtech24)
 - [Mariangela Petrizzo](http://github.com/petrizzo)
