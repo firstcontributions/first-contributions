@@ -1125,4 +1125,5 @@
 - [Cahya Pangestu](https://github.com/cahya24)
 - [Manav Chaudhary](https://github.com/ManavChaudhary999)
 - [Shaneka Lewis](https://github.com/shanekalewis)
+- [Grego Pantelis](https://github.com/gregop)
 <!-- prettier-ignore-end -->
