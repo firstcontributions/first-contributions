@@ -51,6 +51,7 @@
 - [mbastakis](https://github.com/mbastakis)
 - [Vansh Arora](https://github.com/vansharora03)
 - [Rohit Tokala](https://github.com/rtokala14)
+- [Joe Moon Whitehead](https://github.com/M-Moon)
 - [Utkarsh Jambhulkar](https://github.com/U-J-007)
 - [Musa Blackfrost](https://github.com/musagenius345)
 - [Satyam singh](https://github.com/jirayanaruto)
