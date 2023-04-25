@@ -97,6 +97,7 @@
 - [Atahan Caldir](https://github.com/atahancaldir)
 - [taricov](https://github.com/taricov)
 - [nor6u](https://github.com/nor6u)
+- [ItsRqtl](https://github.com/ItsRqtl)
 - [YShen](https://github.com/yshenfab)
 - [Matt Riccio](https://github.com/ricciomatt)
 - [Vivoiswatching](https://github.com/vivoiswatching)
