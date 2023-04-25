@@ -498,6 +498,7 @@
 - [Amal](https://github.com/XAL-AMLX)
 - [Nick](https://github.com/comfythread)
 - [Srivathsan V](https://github.com/Srivathsan-V)
+- [Ivan Delgado](https://github.com/vndlgd)
 - [TJ Albertson](https://github.com/TJ-Albertson)
 - [Ruthik Jadhav](https://github.com/Ruthik130201)
 - [Don](https://github.com/Donlebon)
