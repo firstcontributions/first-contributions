@@ -6,7 +6,8 @@
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
 - [Ayush_Chaudhari](https://github.com/the-bokya)
 - [Aleks_Lucenko](https://github.com/alekslucenko)
-- Brijesh Roy - https://github.com/brijeshroy
+- [Adam_Logman](https://github.com/adamlquman)
+- [Brijesh_Roy]  (https://github.com/brijeshroy)
 - [Raj sharma](https://github.com/lluciferr)
 - [Conaitus](https://github.com/conaitus)
 - [Sham04](https://github.com/Sham04s)
