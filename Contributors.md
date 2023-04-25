@@ -1098,4 +1098,5 @@
 - [Guan Zhi Wang](https://github.com/joe94113)
 - [Jing Yi]
 - [Pranjit Medhi](https://github.com/real-zit)
+- [Amy Lam](https://github.com/amyhoanglam)
 <!-- prettier-ignore-end -->
