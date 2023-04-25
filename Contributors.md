@@ -951,6 +951,7 @@
 - [Bengisu Duru Goksu](https://github.com/bengisudurugoksu)
 - [SyntaxSavvy](https://github.com/SyntaxSavvy)
 - [mimmydev](https://github.com/mimmydev)
+- [PancakesForRent](https://github.com/PancakesForRent)
 - [Shadow-Mo](https://github.com/Shadow-Mo)
 - [David0601d](https://github.com/David0601d)
 - [Tee Kaeophian](https://github.com/tkaeophian)
