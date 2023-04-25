@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
+
 - [DimCel](https://github.com/dimcel)
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
@@ -1118,4 +1119,5 @@
 - [Vipul Chawathe](https://github.com/CVipulS)
 - [Cahya Pangestu](https://github.com/cahya24)
 - [Manav Chaudhary](https://github.com/ManavChaudhary999)
+- [Vishwas Prakash](https://github.com/vishwas3000)
 <!-- prettier-ignore-end -->
