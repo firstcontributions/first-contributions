@@ -1110,4 +1110,5 @@
 - [Pranjit Medhi](https://github.com/real-zit)
 - [Amy Lam](https://github.com/amyhoanglam)
 - [Vipul Chawathe](https://github.com/CVipulS)
+- [Cahya Pangestu](https://github.com/cahya24)
 <!-- prettier-ignore-end -->
