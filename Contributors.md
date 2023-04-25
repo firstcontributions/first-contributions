@@ -1127,4 +1127,5 @@
 - [Manav Chaudhary](https://github.com/ManavChaudhary999)
 - [Shaneka Lewis](https://github.com/shanekalewis)
 - [Grego Pantelis](https://github.com/gregop)
+- [Ian Maestro](https://github.com/itsmaestro)
 <!-- prettier-ignore-end -->
