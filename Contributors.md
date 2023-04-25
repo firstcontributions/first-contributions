@@ -1118,4 +1118,5 @@
 - [Vipul Chawathe](https://github.com/CVipulS)
 - [Cahya Pangestu](https://github.com/cahya24)
 - [Manav Chaudhary](https://github.com/ManavChaudhary999)
+- [Shaneka Lewis](https://github.com/shanekalewis)
 <!-- prettier-ignore-end -->
