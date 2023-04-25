@@ -6,6 +6,7 @@
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
 - [Ayush_Chaudhari](https://github.com/the-bokya)
 - [Aleks_Lucenko](https://github.com/alekslucenko)
+- [Luke Fishwick](https://github.com/LucasFishwicas)
 - Brijesh Roy - https://github.com/brijeshroy
 - [Raj sharma](https://github.com/lluciferr)
 - [Conaitus](https://github.com/conaitus)
