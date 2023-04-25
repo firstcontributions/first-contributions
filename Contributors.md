@@ -42,6 +42,7 @@
 - [Anierobi Esther](https://github.com/Esther146)
 - [Surafel fikru](https://github.com/arist76)
 - [Kerim Kilic](https://github.com/kerim-kilic)
+- [Abisola Oluwaseun Olayinka](https://github.com/Abisola-O)
 - [Baljapalli Anshul](https://github.com/AnshulBaljapalli)
 - [Vansh Arora](https://github.com/vansharora03)
 - [Rohit Tokala](https://github.com/rtokala14)
