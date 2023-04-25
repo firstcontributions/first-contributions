@@ -1104,8 +1104,8 @@
 - [Alex Marr](https://github.com/a-marr)
 - [Robin Muijs](https://github.com/RobinMuijs2000)
 - [Guan Zhi Wang](https://github.com/joe94113)
-- [Jing Yi]
 - [Pranjit Medhi](https://github.com/real-zit)
 - [Amy Lam](https://github.com/amyhoanglam)
 - [Vipul Chawathe](https://github.com/CVipulS)
+- [Juz Bird](https://github.com/juzibird11)
 <!-- prettier-ignore-end -->
