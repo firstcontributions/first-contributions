@@ -66,6 +66,7 @@
 - [Ange-Emmanuel Kouakou](https://github.com/SolarBlaze)
 - [Ioan Circiumaru](https://github.com/circiumaruioan)
 - [Lucas Vieira Ribeiro](https://github.com/Lucas-Vieira-R/)
+- [Quentin Ramsay](https://github.com/QuentinRamsay/)
 - [Anukam Chidalu](https://github.com/daluclemas)
 - [Simon](https://github.com/simjkx)
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
