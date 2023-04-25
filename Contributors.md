@@ -1086,6 +1086,7 @@
 - [buriedBug](https://github.com/buriedBug)
 - [foliage21](https://github.com/foliage21)
 - [Arun Kumar Marndi](https://github.com/arunkumarmarndi)
+- [Jordan Flanagan](https://github.com/jflaney23)
 - [Leanne Keenan](https://github.com/leannekeenan)
 - [Em Mic](https://github.com/emmic)
 - [ebrower320](https://github.com/ebrower320)
