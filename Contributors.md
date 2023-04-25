@@ -800,6 +800,7 @@
 - [Harshit Malang](https://github.com/hrshtmlng)
 - [Michael Soriano](https://github.com/michaelsoriano)
 - [wqlu](https://github.com/wqlu)
+- [Tomvdk](https://github.com/TomsCodingCorner)
 - [Jankela04](https://github.com/Jankela04)
 - [Wachukwu Emmanuel](https://github.com/Wach-E)
 - [Ibragim GK](https://github.com/Ibrapsico)
