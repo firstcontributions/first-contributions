@@ -1024,6 +1024,7 @@
 - [Xavier Mitault](https://github.com/Saverio976)
 - [Anubhav Adhikari](https://github.com/anubhav1206)
 - [cdkher2](https://github.com/cdkher2)
+- [Ryan Short](https://github.com/RyanShort13110)
 - [Tiphaine Bertone](https://github.com/Kanda09)
 - [Ryan Wozniak](https://github.com/Ryan9468)
 - [Mrigankar Sonowal](https://github.com/Mrigankar1134)
