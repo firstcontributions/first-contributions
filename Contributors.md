@@ -72,6 +72,7 @@
 - [Simon](https://github.com/simjkx)
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
 - [Malavya Raval](https://github.com/MalavyaRaval)
+- [José Ortiz-Ocampo](https://github.com/jhortizo)
 - [Curtis Aliwah] (https://github.com/Aliwah1403)
 - [Oluwaseun Adesina](https://github.com/oluwaseun-Adesina)
 - [Dolamu Oludare](https://github.com/Dolamu-TheDataGuy)
