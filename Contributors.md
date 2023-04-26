@@ -554,6 +554,7 @@
 - [Martins Ngene](https://github.com/Martinsngene)
 - [vishal dhavale](https://github.com/vishu1893)
 - [Subhajit Mahata](https://github.com/subhajitkp007)
+- [Gabriel Nóbrega](https://github.com/gbrrrl-no)
 - [Yashvardhan Agnihotri](https://github.com/25011908vardhan)
 - [Priyadarshini Sharma](https://github.com/PriyadarshiniSharma)
 - [luv sharma](https://github.com/luvsharmag)
