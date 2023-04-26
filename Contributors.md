@@ -50,6 +50,7 @@
 - [Aryaman Pathak](https://github.com/aryamanpathak2022)
 - [Anierobi Esther](https://github.com/Esther146)
 - [Surafel fikru](https://github.com/arist76)
+- [Kaung Khant](https://github.com/KaungK2001)
 - [Kerim Kilic](https://github.com/kerim-kilic)
 - [Abisola Oluwaseun Olayinka](https://github.com/Abisola-O)
 - [Baljapalli Anshul](https://github.com/AnshulBaljapalli)
@@ -1146,4 +1147,5 @@
 - [Aakash Dixit (friend of Sushil)](https://github.com/aakash26dixit)
 - [Ketan Wagh (friend of Sushil & Aakash)](https://github.com/ketanintellect)
 - [Albert Sunny](https://github.com/albert-sunny)
+- [Akshay Thakur] (https://github.com/popty)
 <!-- prettier-ignore-end -->
