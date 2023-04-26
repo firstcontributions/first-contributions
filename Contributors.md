@@ -37,7 +37,7 @@
 - [Anantashayana] (https://github.com/Anantashayana)
 - [Harsh Jha] (https://https://github.com/Harshjha3006)
 - Yana
-- [Gaurav Kale] (https://github.com/gauravkale263)
+- [Gaurav Balasaheb Kale] (https://github.com/gauravkale263)
 - Muhammad Bilal (https://github.com/YunoGasasi9862)
 - [Kamlesh Gehlot] (https://github.com/kamlesh-gehlot)
 - [Krishna Deepak] (https://github.com/KDcoder21)
