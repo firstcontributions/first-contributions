@@ -511,6 +511,7 @@
 - [Victor F.](https://github.com/victorfyonemoto)
 - [Jasjot Singh](https://github.com/jasjotb)
 - [Andre Müller](https://github.com/Amueller36)
+- [Sassan Zomorodi](https://github.com/SassanZmd)
 - [Erasmo Salsano](https://github.com/ErasmoSalsano)
 - [duzzysroad](https://github.com/duzzysroad)
 - [Amal](https://github.com/XAL-AMLX)
