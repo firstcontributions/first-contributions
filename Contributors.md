@@ -1032,6 +1032,7 @@
 - [ThotakuraHarish](https://github.com/ThotakuraHarish2003)
 - [MBDUR12](https://github.com/MBDur12/)
 - [TaoTaoOoO](https://github.com/TaoTaoOoO)
+- [Avishkar Kotkar](https://github.com/kotkaravishkar)
 - [Marco Alvarado - 7Pixel](https://github.com/7pixel-cl)
 - [Vinod Patil](https://github.com/vinodpatildev)
 - [Xavier Mitault](https://github.com/Saverio976)
