@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [DimCel](https://github.com/dimcel)
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
@@ -63,7 +64,7 @@
 - [Moheet Shendarkar](https://github.com/moheet333)
 - [Adrian Calleja](https://github.com/adrii0113)
 - [Jon Sundin](https://github.com/jmsundin)
-- [Rose Rousseau](<(https://github.com/MapleRose)>)
+- [Rose Rousseau](https://github.com/MapleRose))
 - [Ashutosh Pandey]
 - [Oliver Warne]
 - [Chris E](https://github.com/cce2955)
@@ -822,7 +823,7 @@
 - [Damon Xue](https://github.com/damonxue)
 - [Alex J] (https://github.com/scjundev)
 - [Marcos Santiago](https://github.com/Imaginarybandit)
-- [Honoris Gratias Ndereyimana. :wink:](https://github.com/nhonorisg/)
+- [Honoris Gratias Ndereyimana. 😉](https://github.com/nhonorisg/)
 - [Alessandro Saggese 😎](https://github.com/asaggse/)
 - [Nikhil Yedke](https://github.com/nikhilyedke1995)
 - [sucnd ](https://github.com/sucnd/)
@@ -1109,6 +1110,7 @@
 - [aman404](https://github.com/aman404)
 - [buriedBug](https://github.com/buriedBug)
 - [foliage21](https://github.com/foliage21)
+- [alkas](https://github.com/exalkas "software engineer")
 - [Arun Kumar Marndi](https://github.com/arunkumarmarndi)
 - [Jordan Flanagan](https://github.com/jflaney23)
 - [Leanne Keenan](https://github.com/leannekeenan)
@@ -1135,4 +1137,5 @@
 - [Grego Pantelis](https://github.com/gregop)
 - [Ian Maestro](https://github.com/itsmaestro)
 - [Nissrine Canina](https://github.com/Nissrine-Can)
+
 <!-- prettier-ignore-end -->
