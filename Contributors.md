@@ -267,6 +267,7 @@
 - [Reddi-Tarun](https://github.com/REDDITARUN)
 - [samarthbagga](https://github.com/samarthbagga)
 - [KratikJain10](https://github.com/KratikJain10)
+- [Ronny Barahona](https://github.com/ronnyb378)
 - [Ronke Akinmosin](https://github.com/ronke-susan)
 - [RogueTM](https://github.com/RogueTMs)
 - [jiwonqaz](https://github.com/jiwonqaz)
