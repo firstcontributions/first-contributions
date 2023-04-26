@@ -443,6 +443,7 @@
 - [Manvendra Prasad](https://github.com/Manv3ndra)
 - [Abhinav Chaudhary](https://github.com/lan10rn)
 - [Saumya Upadhyay](https://github.com/Saumyaup11)
+- [Gordon Karlsson](https://github.com/gpkarlsson)
 - [Sava Stanchev](https://github.com/sava-stanchev)
 - [Pranava Kumar Mishra](https://github.com/SatayS)
 - [kehero22698](https://github.com/kehero22698)
