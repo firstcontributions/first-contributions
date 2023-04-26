@@ -5,6 +5,7 @@
 - [Ye Yint Myint Myat](https://github.com/yeyint-bee)
 - [Nathamuni](https://github.com/Nathamuni)
 - [DimCel](https://github.com/dimcel)
+- [Blane Winstead](https://github.com/BlaneWinstead)
 - [PetrAmbroz](https://github.com/petrambroz)
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
