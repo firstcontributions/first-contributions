@@ -25,6 +25,7 @@
 - [MonBalogh](https://github.com/MonBalogh)
 - [Summer Babel](https://github.com/sumerbabel)
 - [just-now]
+- [Ishika Jaiswal](https://github.com/Ishika-Jaiswal)
 - [Bhanu Singh](https://github.com/bhanusingh008)
 - [Amit Kumar](https://github.com/amitthecoder)
 - [almostJohn](https://github.com/almostJohn)
