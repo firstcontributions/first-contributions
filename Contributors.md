@@ -1145,4 +1145,5 @@
 - [Sushil Bhardwaj](https://github.com/Bazigar69)
 - [Aakash Dixit (friend of Sushil)](https://github.com/aakash26dixit)
 - [Ketan Wagh (friend of Sushil & Aakash)](https://github.com/ketanintellect)
+- [Akshay Thakur] (https://github.com/popty)
 <!-- prettier-ignore-end -->
