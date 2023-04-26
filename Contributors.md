@@ -1137,4 +1137,5 @@
 - [Ian Maestro](https://github.com/itsmaestro)
 - [Nissrine Canina](https://github.com/Nissrine-Can)
 - [Sushil Bhardwaj](https://github.com/Bazigar69)
+- [Aakash Dixit (friend of Sushil)](https://github.com/aakash26dixit)
 <!-- prettier-ignore-end -->
