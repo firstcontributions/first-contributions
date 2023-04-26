@@ -1162,4 +1162,5 @@
 - [Akshay Thakur] (https://github.com/popty)
 - [Abhinav Sharma] (https://github.com/Abhinav2091)
 - [Mateeh Ullah] (https://github.com/MateehUllah)
+- [Peter Dinh] (https://github.com/PeterDevelops)
 <!-- prettier-ignore-end -->
