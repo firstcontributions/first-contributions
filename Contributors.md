@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Juli Levi](https://github.com/julilll)
 - [Ye Yint Myint Myat](https://github.com/yeyint-bee)
 - [Nathamuni](https://github.com/Nathamuni)
 - [DimCel](https://github.com/dimcel)
