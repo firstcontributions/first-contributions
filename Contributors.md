@@ -20,6 +20,7 @@
 - [Abhijeet](https://github.com/abhi-jeet-kumar)
 - [namedmichi](https://github.com/namedmichi)
 - [gyanash.ekka](https://github.com/gyanAsh)
+- [Devasya Rajguru]
 - [Darren Harris](https://github.com/theharriscode)
 - [Raj-101](https://github.com/Raj-101)
 - [MonBalogh](https://github.com/MonBalogh)
