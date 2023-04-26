@@ -1137,5 +1137,5 @@
 - [Grego Pantelis](https://github.com/gregop)
 - [Ian Maestro](https://github.com/itsmaestro)
 - [Nissrine Canina](https://github.com/Nissrine-Can)
-
+- [Sushil Bhardwaj](https://github.com/Bazigar69)
 <!-- prettier-ignore-end -->
