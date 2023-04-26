@@ -116,6 +116,7 @@
 - [nor6u](https://github.com/nor6u)
 - [ItsRqtl](https://github.com/ItsRqtl)
 - [YShen](https://github.com/yshenfab)
+- [Muhammad Safi](https://github.com/safimuhammad)
 - [Matt Riccio](https://github.com/ricciomatt)
 - [Vivoiswatching](https://github.com/vivoiswatching)
 - [Ameen](https://github.com/0-yohan)
