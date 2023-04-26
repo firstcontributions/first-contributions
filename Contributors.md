@@ -38,7 +38,7 @@
 - [Harsh Jha] (https://https://github.com/Harshjha3006)
 - Yana
 - Muhammad Bilal (https://github.com/YunoGasasi9862)
-- Gaurav Kale (https://github.com/gauravkale263)
+- [Gaurav Kale] (https://github.com/gauravkale263)
 - [Kamlesh Gehlot] (https://github.com/kamlesh-gehlot)
 - [Krishna Deepak] (https://github.com/KDcoder21)
 - [William Haywood] (https://github.com/Whaywood98)
