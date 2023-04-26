@@ -70,6 +70,7 @@
 - [Oliver Warne]
 - [Chris E](https://github.com/cce2955)
 - [cqdev-fusion](https://github.com/cqdev-fusion)
+- [Tanbir Ali](https://github.com/tanbirali)
 - [Vyoam Yadav](https://github.com/ambiguousphoton)
 - [Ravindra Reddy](https://github.com/ravindra135)
 - [Sagar Sharma](https://github.com/sagar-io)
