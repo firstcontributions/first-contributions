@@ -1,13 +1,14 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [DimCel](https://github.com/dimcel)
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
 - [Ayush_Chaudhari](https://github.com/the-bokya)
 - [Aleks_Lucenko](https://github.com/alekslucenko)
 - [Adam_Logman](https://github.com/adamlquman)
-- [Brijesh_Roy]  (https://github.com/brijeshroy)
+- [Brijesh_Roy] (https://github.com/brijeshroy)
 - [Raj sharma](https://github.com/lluciferr)
 - [Conaitus](https://github.com/conaitus)
 - [Sham04](https://github.com/Sham04s)
@@ -20,6 +21,7 @@
 - [namedmichi](https://github.com/namedmichi)
 - [gyanash.ekka](https://github.com/gyanAsh)
 - [Darren Harris](https://github.com/theharriscode)
+- [DeShon Dixon](https://github.com/deshondixon)
 - [Raj-101](https://github.com/Raj-101)
 - [MonBalogh](https://github.com/MonBalogh)
 - [Summer Babel](https://github.com/sumerbabel)
