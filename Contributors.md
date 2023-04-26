@@ -1132,4 +1132,5 @@
 - [Shaneka Lewis](https://github.com/shanekalewis)
 - [Grego Pantelis](https://github.com/gregop)
 - [Ian Maestro](https://github.com/itsmaestro)
+- [Nissrine Canina](https://github.com/Nissrine-Can)
 <!-- prettier-ignore-end -->
