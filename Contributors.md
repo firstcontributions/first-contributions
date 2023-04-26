@@ -1140,6 +1140,7 @@
 - [Grego Pantelis](https://github.com/gregop)
 - [Ian Maestro](https://github.com/itsmaestro)
 - [Nissrine Canina](https://github.com/Nissrine-Can)
+- [tomoo](https://github.com/Niwatori1192)
 - [Sushil Bhardwaj](https://github.com/Bazigar69)
 - [Aakash Dixit (friend of Sushil)](https://github.com/aakash26dixit)
 <!-- prettier-ignore-end -->
