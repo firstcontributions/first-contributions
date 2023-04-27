@@ -1174,6 +1174,7 @@
 - [Manav Chaudhary](https://github.com/ManavChaudhary999)
 - [Shaneka Lewis](https://github.com/shanekalewis)
 - [Grego Pantelis](https://github.com/gregop)
+- [Guy Turevich](https://github.com/GuyTurevich)
 - [Ian Maestro](https://github.com/itsmaestro)
 - [Nissrine Canina](https://github.com/Nissrine-Can)
 - [tomoo](https://github.com/Niwatori1192)
