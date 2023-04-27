@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Juli Levi](https://github.com/julilll)
+- [mrpgmr](https://github.com/https://github.com/mrpgmr67)
 - [Ye Yint Myint Myat](https://github.com/yeyint-bee)
 - [Nathamuni](https://github.com/Nathamuni)
 - [DimCel](https://github.com/dimcel)
