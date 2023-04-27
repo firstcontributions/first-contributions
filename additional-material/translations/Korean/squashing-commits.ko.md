@@ -80,6 +80,6 @@ commit message 1
 commit message 2
 ```
 
-That you can freely change before you decide to exit the editor to save these changes.
+변경 내용을 저장하기 위해 편집기를 종료하기 전에 자유롭게 변경할 수 있습니다.
 
-Running git log again should show you the commit message you entered before exiting the screen with the commits combined into one.
+Git 로그를 다시 실행하면 커밋이 하나로 결합된 상태에서 화면을 나가기 전에 입력한 커밋 메시지가 표시됩니다.
