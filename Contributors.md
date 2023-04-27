@@ -65,6 +65,7 @@
 - [Vaibhav Mahajan](https://github.com/vaibhav-3003)
 - [Trebb99](https://github.com/Trebb99)
 - [Kushanth-Reddy](https://github.com/Kushanth-Reddy)
+- [Arcturus](https://github.com/Arcturus-Motors)
 - [Wesllen Alexandre](https://github.com/Wesllenbr)
 - [Ikegah Oliver](https://github.com/oliverTwist2)
 - [derfabiannn](https://github.com/derfabiannn)
