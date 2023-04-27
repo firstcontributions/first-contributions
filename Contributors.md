@@ -1181,4 +1181,5 @@
 - [Chris Asbury] (https://github.com/CGA15)
 - [Sarthak Kamble] (https://github.com/Sarthak412)
 - [Monaleaf] (https://github.com/Monaleaf)
+- [Rajan Kashyap] (https://github.com/kashyaprajan11)
 <!-- prettier-ignore-end -->
