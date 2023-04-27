@@ -253,6 +253,7 @@
 - Bruno V. T. Barbosa
 - [Brayan Kai Mwanyumba](https://github.com/mwanyumba7)
 - Karthik
+- Weverak
 - Crux
 - [Cedric Hannemann](https://github.com/cedhan)
 - [Didi M](https://github.com/Didi-M1)
