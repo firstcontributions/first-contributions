@@ -38,6 +38,7 @@
 - [Summer Babel](https://github.com/sumerbabel)
 - [just-now]
 - [Shubh Panwala](https://github.com/shubhpanwala)
+- [Mahmoud Ibrahiam](https://github.com/remahmoud)
 - [Shahab Valizade](https://github.com/shahabvalizade) 
 - [Ishika Jaiswal](https://github.com/Ishika-Jaiswal)
 - [Bhanu Singh](https://github.com/bhanusingh008)
@@ -555,6 +556,7 @@
 - [Rodrigo Cortes](https://github.com/rocortes10)
 - [Thamsanqa Shabangu](https://github.com/Thamesssa)
 - [Peter Hansteen](https://github.com/pitrh)
+- [Brendon Rofe](https://github.com/brendon-rofe)
 - [Rakshit Gupta](https://github.com/rakshitgupta23)
 - [Cherlan-Miche PHILIPPE](https://github.com/LandoSansNom)
 - [Sameera Dissanayaka](https://github.com/ceylonprogrammer)
