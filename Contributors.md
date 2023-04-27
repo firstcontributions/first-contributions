@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [Juli Levi](https://github.com/julilll)
 - [Sam Joshua](https://github.com/Sam-Joshua-S)
 - [mrpgmr](https://github.com/https://github.com/mrpgmr67)
@@ -16,8 +17,8 @@
 - [Ayush_Chaudhari](https://github.com/the-bokya)
 - [Aleks_Lucenko](https://github.com/alekslucenko)
 - [Adam_Logman](https://github.com/adamlquman)
-- [Anwar_Hossain]  (https://github.com/anwarhossain1)
-- [Brijesh_Roy]  (https://github.com/brijeshroy)
+- [Anwar_Hossain] (https://github.com/anwarhossain1)
+- [Brijesh_Roy] (https://github.com/brijeshroy)
 - [Kashyap Busa] (https://github.com/kashyap310)
 - [Raj sharma](https://github.com/lluciferr)
 - [Conaitus](https://github.com/conaitus)
@@ -40,7 +41,7 @@
 - [just-now]
 - [Shubh Panwala](https://github.com/shubhpanwala)
 - [Mahmoud Ibrahiam](https://github.com/remahmoud)
-- [Shahab Valizade](https://github.com/shahabvalizade) 
+- [Shahab Valizade](https://github.com/shahabvalizade)
 - [Ishika Jaiswal](https://github.com/Ishika-Jaiswal)
 - [Bhanu Singh](https://github.com/bhanusingh008)
 - [Amit Kumar](https://github.com/amitthecoder)
@@ -275,6 +276,7 @@
 - [Tarek-Azzazi](https://github.com/tarekazzazi)
 - [Gabriel Abal](https://github.com/gabriel-abal)
 - [Matthew Anderson](https://github.com/manderson21)
+- [Jayvardhan Patil](https://github.com/jayshiai)
 - [Robbie Sumner](https://github.com/robbiesumner)
 - [EricWink](https://github.com/ericwink)
 - [Jongkwang131](https://github.com/Jongkwang131)
@@ -1179,7 +1181,7 @@
 - [Ketan Wagh (friend of Sushil & Aakash)](https://github.com/ketanintellect)
 - [Akshay Thakur] (https://github.com/popty)
 - [Abhinav Sharma] (https://github.com/Abhinav2091)
-- [Ajay Mehta]      (https://github.com/AIwithAj)
+- [Ajay Mehta] (https://github.com/AIwithAj)
 - [Mateeh Ullah] (https://github.com/MateehUllah)
 - [Peter Dinh] (https://github.com/PeterDevelops)
 - [Chris Asbury] (https://github.com/CGA15)
