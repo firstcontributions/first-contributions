@@ -119,6 +119,7 @@
 - [Bedant Chhetri](https://github.com/bedantchh)
 - [Atahan Caldir](https://github.com/atahancaldir)
 - [taricov](https://github.com/taricov)
+- [Deviant-Liang](https://github.com/Deviant-Liang)
 - [nor6u](https://github.com/nor6u)
 - [ItsRqtl](https://github.com/ItsRqtl)
 - [YShen](https://github.com/yshenfab)
