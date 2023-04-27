@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [Juli Levi](https://github.com/julilll)
 - [Ye Yint Myint Myat](https://github.com/yeyint-bee)
 - [Nathamuni](https://github.com/Nathamuni)
@@ -13,7 +14,7 @@
 - [Ayush_Chaudhari](https://github.com/the-bokya)
 - [Aleks_Lucenko](https://github.com/alekslucenko)
 - [Adam_Logman](https://github.com/adamlquman)
-- [Brijesh_Roy]  (https://github.com/brijeshroy)
+- [Brijesh_Roy] (https://github.com/brijeshroy)
 - [Kashyap Busa] (https://github.com/kashyap310)
 - [Raj sharma](https://github.com/lluciferr)
 - [Conaitus](https://github.com/conaitus)
@@ -35,7 +36,7 @@
 - [Summer Babel](https://github.com/sumerbabel)
 - [just-now]
 - [Shubh Panwala](https://github.com/shubhpanwala)
-- [Shahab Valizade](https://github.com/shahabvalizade) 
+- [Shahab Valizade](https://github.com/shahabvalizade)
 - [Ishika Jaiswal](https://github.com/Ishika-Jaiswal)
 - [Bhanu Singh](https://github.com/bhanusingh008)
 - [Amit Kumar](https://github.com/amitthecoder)
@@ -147,6 +148,7 @@
 - [Aroboto Ife] (https://github.com/IfeoluwaAroboto)
 - [Atharv powalkar](https://github.com/07-Atharv)
 - [Jordan](https://github.com/chowweijun)
+- [Felipe](https://github.com/fsanchez1397)
 - [Bryan Yenata](https://github.com/bryanyenata)
 - [Gianni Parello](https://github.com/giparello)
 - [Deepa Kumari](https://github.com/deepa181)
