@@ -1174,4 +1174,5 @@
 - [Mateeh Ullah] (https://github.com/MateehUllah)
 - [Peter Dinh] (https://github.com/PeterDevelops)
 - [Chris Asbury] (https://github.com/CGA15)
+- [Sarthak Kamble] (https://github.com/Sarthak412)
 <!-- prettier-ignore-end -->
