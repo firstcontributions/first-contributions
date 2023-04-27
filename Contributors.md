@@ -1194,4 +1194,5 @@
 - [Monaleaf] (https://github.com/Monaleaf)
 - [Rajan Kashyap] (https://github.com/kashyaprajan11)
 - [YaenuSchlatter] (https://github.com/YaenuSchlatter)
+- [Andre Hebra] (https://github.com/andrehebra)
 <!-- prettier-ignore-end -->
