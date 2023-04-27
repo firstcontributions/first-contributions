@@ -1182,4 +1182,5 @@
 - [Sarthak Kamble] (https://github.com/Sarthak412)
 - [Monaleaf] (https://github.com/Monaleaf)
 - [Rajan Kashyap] (https://github.com/kashyaprajan11)
+- [YaenuSchlatter] (https://github.com/YaenuSchlatter)
 <!-- prettier-ignore-end -->
