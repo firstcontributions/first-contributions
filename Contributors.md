@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [Pritse](https://github.com/Pritse)
 - [Juli Levi](https://github.com/julilll)
 - [Sam Joshua](https://github.com/Sam-Joshua-S)
@@ -17,8 +18,8 @@
 - [Ayush_Chaudhari](https://github.com/the-bokya)
 - [Aleks_Lucenko](https://github.com/alekslucenko)
 - [Adam_Logman](https://github.com/adamlquman)
-- [Anwar_Hossain]  (https://github.com/anwarhossain1)
-- [Brijesh_Roy]  (https://github.com/brijeshroy)
+- [Anwar_Hossain] (https://github.com/anwarhossain1)
+- [Brijesh_Roy] (https://github.com/brijeshroy)
 - [Kashyap Busa] (https://github.com/kashyap310)
 - [Raj sharma](https://github.com/lluciferr)
 - [Conaitus](https://github.com/conaitus)
@@ -41,7 +42,7 @@
 - [just-now]
 - [Shubh Panwala](https://github.com/shubhpanwala)
 - [Mahmoud Ibrahiam](https://github.com/remahmoud)
-- [Shahab Valizade](https://github.com/shahabvalizade) 
+- [Shahab Valizade](https://github.com/shahabvalizade)
 - [Ishika Jaiswal](https://github.com/Ishika-Jaiswal)
 - [Bhanu Singh](https://github.com/bhanusingh008)
 - [Amit Kumar](https://github.com/amitthecoder)
@@ -1148,6 +1149,7 @@
 - [Manav Chaudhary](https://github.com/vrmanav)
 - [naiithink](https://github.com/naiithink)
 - [Mohammad Bagri](https://github.com/mohambag)
+- [Pappu Dutta] (https://github.com/pappudutta)
 - [aman404](https://github.com/aman404)
 - [buriedBug](https://github.com/buriedBug)
 - [foliage21](https://github.com/foliage21)
@@ -1186,7 +1188,7 @@
 - [Ketan Wagh (friend of Sushil & Aakash)](https://github.com/ketanintellect)
 - [Akshay Thakur] (https://github.com/popty)
 - [Abhinav Sharma] (https://github.com/Abhinav2091)
-- [Ajay Mehta]      (https://github.com/AIwithAj)
+- [Ajay Mehta] (https://github.com/AIwithAj)
 - [Mateeh Ullah] (https://github.com/MateehUllah)
 - [Peter Dinh] (https://github.com/PeterDevelops)
 - [Chris Asbury] (https://github.com/CGA15)
