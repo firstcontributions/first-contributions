@@ -1168,6 +1168,7 @@
 - [Ketan Wagh (friend of Sushil & Aakash)](https://github.com/ketanintellect)
 - [Akshay Thakur] (https://github.com/popty)
 - [Abhinav Sharma] (https://github.com/Abhinav2091)
+- [Ajay Mehta]      (https://github.com/AIwithAj)
 - [Mateeh Ullah] (https://github.com/MateehUllah)
 - [Peter Dinh] (https://github.com/PeterDevelops)
 - [Chris Asbury] (https://github.com/CGA15)
