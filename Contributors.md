@@ -1195,4 +1195,5 @@
 - [Rajan Kashyap] (https://github.com/kashyaprajan11)
 - [YaenuSchlatter] (https://github.com/YaenuSchlatter)
 - [Andre Hebra] (https://github.com/andrehebra)
+- [Rafael Franke] (https://github.com/eufrankoficial)
 <!-- prettier-ignore-end -->
