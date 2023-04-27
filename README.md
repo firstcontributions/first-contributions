@@ -173,6 +173,15 @@ replacing `your-branch-name` with the name of the branch you created earlier.
   fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
   Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
 
+  After the SSH tutorial, you may need to repoint the repository clone on your local machine to an SSH URL.
+  To do this, return to your GitHub account, open your forked repository and click on the _Code_ button. Then select _SSH_ and click the _copy to clipboard icon_. In your terminal, type `git remote set-url origin` and paste the ssh url you just copied. run this command.
+
+  For example:
+  ```
+  git remote set-url origin git@github.com:this-is-you/first-contributions.git
+  ```
+  where `this-is-you` is your GitHub username
+
 </details>
 
 ## Submit your changes for review
