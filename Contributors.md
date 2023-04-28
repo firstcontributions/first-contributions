@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [Pritse](https://github.com/Pritse)
 - [Juli Levi](https://github.com/julilll)
 - [Sam Joshua](https://github.com/Sam-Joshua-S)
@@ -18,8 +19,8 @@
 - [Ayush_Chaudhari](https://github.com/the-bokya)
 - [Aleks_Lucenko](https://github.com/alekslucenko)
 - [Adam_Logman](https://github.com/adamlquman)
-- [Anwar_Hossain]  (https://github.com/anwarhossain1)
-- [Brijesh_Roy]  (https://github.com/brijeshroy)
+- [Anwar_Hossain] (https://github.com/anwarhossain1)
+- [Brijesh_Roy] (https://github.com/brijeshroy)
 - [Kashyap Busa] (https://github.com/kashyap310)
 - [Raj sharma](https://github.com/lluciferr)
 - [Conaitus](https://github.com/conaitus)
@@ -42,7 +43,7 @@
 - [just-now]
 - [Shubh Panwala](https://github.com/shubhpanwala)
 - [Mahmoud Ibrahiam](https://github.com/remahmoud)
-- [Shahab Valizade](https://github.com/shahabvalizade) 
+- [Shahab Valizade](https://github.com/shahabvalizade)
 - [Ishika Jaiswal](https://github.com/Ishika-Jaiswal)
 - [Bhanu Singh](https://github.com/bhanusingh008)
 - [Amit Kumar](https://github.com/amitthecoder)
@@ -62,6 +63,7 @@
 - [Anuj Kumar Karmakar](https://github.com/anujkkarmakar)
 - [Angel Umeh](https://github.com/akcumeh)
 - [Anthony Capecci](https://github.com/AnthonyCap13)
+- [Shivansh Gupta](https://github.com/Shivansh-04)
 - [Brax Wong](https://github.com/BraxWong)
 - [Vaibhav Mahajan](https://github.com/vaibhav-3003)
 - [Trebb99](https://github.com/Trebb99)
@@ -1187,7 +1189,7 @@
 - [Ketan Wagh (friend of Sushil & Aakash)](https://github.com/ketanintellect)
 - [Akshay Thakur] (https://github.com/popty)
 - [Abhinav Sharma] (https://github.com/Abhinav2091)
-- [Ajay Mehta]      (https://github.com/AIwithAj)
+- [Ajay Mehta] (https://github.com/AIwithAj)
 - [Mateeh Ullah] (https://github.com/MateehUllah)
 - [Peter Dinh] (https://github.com/PeterDevelops)
 - [Chris Asbury] (https://github.com/CGA15)
