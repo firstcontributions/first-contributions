@@ -1214,4 +1214,5 @@
 - [schoeneBiene] (https://github.com/schoeneBiene)
 - [shibu5uke] (https://github.com/shibu5uke)
 - [Animesh Kumar](https://github.com/wttc-nitr)
+- [Murilo Moraes Cabral](https://github.com/murilomcabral)
 <!-- prettier-ignore-end -->
