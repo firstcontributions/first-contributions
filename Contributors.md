@@ -7,6 +7,7 @@
 - [mrpgmr](https://github.com/https://github.com/mrpgmr67)
 - [Ye Yint Myint Myat](https://github.com/yeyint-bee)
 - [Nathamuni](https://github.com/Nathamuni)
+- [Tshenolo Mos](https://github.com/tshenolo)
 - [DimCel](https://github.com/dimcel)
 - [Blane Winstead](https://github.com/BlaneWinstead)
 - [PetrAmbroz](https://github.com/petrambroz)
