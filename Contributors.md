@@ -1207,5 +1207,6 @@
 - [Adrian Paraschiv] (https://github.com/ABSADR) <3 <3
 - [Karol Mac](https://github.com/Karol-Mac)
 - [schoeneBiene] (https://github.com/schoeneBiene)
+- [shibu5uke] (https://github.com/shibu5uke)
 - [Animesh Kumar](https://github.com/wttc-nitr)
 <!-- prettier-ignore-end -->
