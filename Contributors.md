@@ -908,6 +908,7 @@
 - [Mehar Giri](https://github.com/mehargiri)
 - [Shaurya Shah](https://github.com/sscs12345/)
 - [Gabriel Silva de Souza](https://github.com/gsisouza)
+- [Addy K](https://github.com/AdrianKPC)
 - [Esha Shah](https://github.com/Esha98)
 - [Tomma](https://github.com/tomma-a)
 - [Bindiya Kundaliya](https://github.com/bindiya-kundaliya)
