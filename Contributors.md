@@ -1224,4 +1224,5 @@
 - [shibu5uke] (https://github.com/shibu5uke)
 - [Animesh Kumar](https://github.com/wttc-nitr)
 - [Murilo Moraes Cabral](https://github.com/murilomcabral)
+- [Rudi O'Kelly](https://github.com/Die-Meester)
 <!-- prettier-ignore-end -->
