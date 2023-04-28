@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Pritse](https://github.com/Pritse)
 - [Satyam Nyati](https://github.com/satyamnyati)
+- [Trottie McQueen] (https://github.com/trottiemcqueen)
 - [Juli Levi](https://github.com/julilll)
 - [Sam Joshua](https://github.com/Sam-Joshua-S)
 - [mrpgmr](https://github.com/https://github.com/mrpgmr67)
