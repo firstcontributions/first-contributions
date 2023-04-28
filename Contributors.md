@@ -12,6 +12,7 @@
 - [Harish Rane](https://github.com/AzadRane)
 - [Nathamuni](https://github.com/Nathamuni)
 - [Tshenolo Mos](https://github.com/tshenolo)
+- [Suparnojit Sarkar](https://github.com/suparnojit)
 - [DimCel](https://github.com/dimcel)
 - [Mirza Hilmi](https://github.com/MirzaHilmi/)
 - [Blane Winstead](https://github.com/BlaneWinstead)
