@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [Ye Yint Myint Myat](https://github.com/yeyint-bee)
 - [Nathamuni](https://github.com/Nathamuni)
 - [DimCel](https://github.com/dimcel)
@@ -10,7 +11,7 @@
 - [Ayush_Chaudhari](https://github.com/the-bokya)
 - [Aleks_Lucenko](https://github.com/alekslucenko)
 - [Adam_Logman](https://github.com/adamlquman)
-- [Brijesh_Roy]  (https://github.com/brijeshroy)
+- [Brijesh_Roy] (https://github.com/brijeshroy)
 - [Kashyap Busa] (https://github.com/kashyap310)
 - [Raj sharma](https://github.com/lluciferr)
 - [Conaitus](https://github.com/conaitus)
@@ -31,7 +32,7 @@
 - [Summer Babel](https://github.com/sumerbabel)
 - [just-now]
 - [Shubh Panwala](https://github.com/shubhpanwala)
-- [Shahab Valizade](https://github.com/shahabvalizade) 
+- [Shahab Valizade](https://github.com/shahabvalizade)
 - [Ishika Jaiswal](https://github.com/Ishika-Jaiswal)
 - [Bhanu Singh](https://github.com/bhanusingh008)
 - [Amit Kumar](https://github.com/amitthecoder)
@@ -984,6 +985,7 @@
 - [JoLalo](https://github.com/JoLalo)
 - [pranshua7i](https://github.com/pranshua7i)
 - [Opeyemi O.](https://github.com/lekeope)
+- [Flxcsx](https://github.com/flxcsx)
 - [Star-ho](https://github.com/Star-ho)
 - [Bengisu Duru Goksu](https://github.com/bengisudurugoksu)
 - [SyntaxSavvy](https://github.com/SyntaxSavvy)
