@@ -867,6 +867,7 @@
 - [Harshit Malang](https://github.com/hrshtmlng)
 - [Michael Soriano](https://github.com/michaelsoriano)
 - [wqlu](https://github.com/wqlu)
+- [Umer Aslam](https://github.com/umerhere)
 - [Tomvdk](https://github.com/TomsCodingCorner)
 - [Jankela04](https://github.com/Jankela04)
 - [Wachukwu Emmanuel](https://github.com/Wach-E)
