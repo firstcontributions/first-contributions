@@ -907,6 +907,7 @@
 - [Tabish Khan](https://github.com/tabishkh-an)
 - [Samrood Ali](https://github.com/SamroodAli)
 - [Marcus Otterstad](https://github.com/marcusotterstad)
+- [Omar Torres ](https://github.com/TorresOmarr)
 - [Alex Lauri](https://github.com/Alkxs)
 - [Vaibhav Kore](https://github.com/Vaibhav240804)
 - [Jordan Bianco](https://github.com/Jordan-Bianco)
