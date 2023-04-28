@@ -1203,6 +1203,7 @@
 - [Andre Hebra] (https://github.com/andrehebra)
 - [Umesh joga] (https://github.com/umeshj314)
 - [Rafael Franke] (https://github.com/eufrankoficial)
+- [Praneel Maitra](https://github.com/praneel1)
 - [Adrian Paraschiv] (https://github.com/ABSADR) <3 <3
 - [Karol Mac](https://github.com/Karol-Mac)
 - [schoeneBiene] (https://github.com/schoeneBiene)
