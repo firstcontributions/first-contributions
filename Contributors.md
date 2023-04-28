@@ -14,6 +14,7 @@
 - [DimCel](https://github.com/dimcel)
 - [Mirza Hilmi](https://github.com/MirzaHilmi/)
 - [Blane Winstead](https://github.com/BlaneWinstead)
+- [Festus Abiatar](https://github.com/abiatarfestus)
 - [PetrAmbroz](https://github.com/petrambroz)
 - [Myat Min](https://github.com/MytMnSthU)
 - [Jitesh Pahwa](https://github.com/jiteshpahwa04)
