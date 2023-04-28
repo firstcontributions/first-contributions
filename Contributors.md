@@ -1201,4 +1201,5 @@
 - [Rafael Franke] (https://github.com/eufrankoficial)
 - [Adrian Paraschiv] (https://github.com/ABSADR) <3 <3
 - [Karol Mac](https://github.com/Karol-Mac)
+- [schoeneBiene] (https://github.com/schoeneBiene)
 <!-- prettier-ignore-end -->
