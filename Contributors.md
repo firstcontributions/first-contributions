@@ -34,6 +34,7 @@
 - [Siddhant] (https://github.com/Keshri2806)
 - [Conaitus](https://github.com/conaitus)
 - [Sham04](https://github.com/Sham04s)
+  [Chai](https://github.com/chaima449)
 - [YuHangSE](https://github.com/YuHangSE)
 - [Thejas Bhat](https://github.com/tbpcoder)
 - [Mahendra Kolhe](https://github.com/Mahikolhe23)
