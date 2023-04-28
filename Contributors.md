@@ -1153,7 +1153,7 @@
 - [buriedBug](https://github.com/buriedBug)
 - [foliage21](https://github.com/foliage21)
 - [Arun Kumar Marndi](https://github.com/arunkumarmarndi)
-- [Zullu Balti](https://github.com/ZulluBalti)
+- [Zullu Balti Updated](https://github.com/ZulluBalti)
 - [Jordan Flanagan](https://github.com/jflaney23)
 - [Leanne Keenan](https://github.com/leannekeenan)
 - [Em Mic](https://github.com/emmic)
