@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Pritse](https://github.com/Pritse)
+- [xavierjimz] (https://github.com/xavierjimz/)
 - [Satyam Nyati](https://github.com/satyamnyati)
 - [Trottie McQueen] (https://github.com/trottiemcqueen)
 - [Juli Levi](https://github.com/julilll)
