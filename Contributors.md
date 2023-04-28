@@ -15,6 +15,7 @@
 - [Blane Winstead](https://github.com/BlaneWinstead)
 - [PetrAmbroz](https://github.com/petrambroz)
 - [Myat Min](https://github.com/MytMnSthU)
+- [Jitesh Pahwa](https://github.com/jiteshpahwa04)
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
 - [Ankit_Jaiswal](https://github.com/Ankit4j)
