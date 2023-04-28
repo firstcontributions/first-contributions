@@ -1196,6 +1196,7 @@
 - [Rajan Kashyap] (https://github.com/kashyaprajan11)
 - [YaenuSchlatter] (https://github.com/YaenuSchlatter)
 - [Andre Hebra] (https://github.com/andrehebra)
+- [Umesh joga] (https://github.com/umeshj314)
 - [Rafael Franke] (https://github.com/eufrankoficial)
 - [Adrian Paraschiv] (https://github.com/ABSADR) <3 <3
 <!-- prettier-ignore-end -->
