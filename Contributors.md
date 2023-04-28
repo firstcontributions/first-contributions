@@ -952,6 +952,7 @@
 - [Zach Grant](https://github.com/BlindJuly)
 - [Piyush Kukade](https://github.com/piyushk1)
 - [Mike Thompson](https://github.com/lastchance1228)
+- [keshinro Qudus](https://github.com/keshScripts)
 - [Kevin](https://github.com/pheyth15)
 - [Mani Pandit](https://github.com/manipandit)
 - [David Herring](https://github.com/davidherring123)
