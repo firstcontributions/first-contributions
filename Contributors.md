@@ -1197,4 +1197,5 @@
 - [YaenuSchlatter] (https://github.com/YaenuSchlatter)
 - [Andre Hebra] (https://github.com/andrehebra)
 - [Rafael Franke] (https://github.com/eufrankoficial)
+- [Adrian Paraschiv] (https://github.com/ABSADR) <3 <3
 <!-- prettier-ignore-end -->
