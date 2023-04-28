@@ -22,6 +22,7 @@
 - [Anwar_Hossain]  (https://github.com/anwarhossain1)
 - [Brijesh_Roy]  (https://github.com/brijeshroy)
 - [Kashyap Busa] (https://github.com/kashyap310)
+- [Muhammad Hatif Mujahid](https://github.com/hatifmujahid)
 - [Raj sharma](https://github.com/lluciferr)
 - [Conaitus](https://github.com/conaitus)
 - [Sham04](https://github.com/Sham04s)
