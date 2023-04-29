@@ -54,7 +54,7 @@
 - [just-now]
 - [Shubh Panwala](https://github.com/shubhpanwala)
 - [Mahmoud Ibrahiam](https://github.com/remahmoud)
-- [Shahab Valizade](https://github.com/shahabvalizade) 
+- [Shahab Valizade](https://github.com/shahabvalizade)
 - [Ishika Jaiswal](https://github.com/Ishika-Jaiswal)
 - [Bhanu Singh](https://github.com/bhanusingh008)
 - [Amit Kumar](https://github.com/amitthecoder)
@@ -96,6 +96,7 @@
 - [Gustave Coulombe](https://github.com/Oddball777)
 - [Utkarsh Jambhulkar](https://github.com/U-J-007)
 - [Musa Blackfrost](https://github.com/musagenius345)
+- [💻 Aline Bevilacqua ✨](https://github.com/Aliine98)
 - [Satyam singh](https://github.com/jirayanaruto)
 - [Lior Haim](https://github.com/LiorHaimGit)
 - [Jacob Albert](https://github.com/jalbert90)
