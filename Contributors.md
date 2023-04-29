@@ -211,6 +211,7 @@
 - [Blood Pirouette](https://github.com/Blood-Pirouette)
 - [Natasha Mundada]()
 - [Son Thanh Tran]
+- [Adrien]
 - [notdncly]() -[Arjun]
   [Hung Cai](https://github.com/Pro-vo-ker)
 - [Stephen Adesina](https://github.com/adstefnum)
