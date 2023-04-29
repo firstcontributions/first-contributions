@@ -7,7 +7,7 @@
 - [DimCel](https://github.com/dimcel)
 - [Blane Winstead](https://github.com/BlaneWinstead)
 - [PetrAmbroz](https://github.com/petrambroz)
-- [Eddie Bradford]
+- [Solar Sloth]
 (https://github.com/samakbrad)
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
