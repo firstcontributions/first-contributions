@@ -2226,6 +2226,7 @@ Rishabh Pandey
 - [Aldrin Gordon](https://github.com/aldringordon)
 - [Henrikas Budrys](https://github.com/hbportfolio)
 - [Vijendra Pandey](https://github.com/VijendraPandey)
+- Edwin
 - [WikkiE](https://github.com/Wikkiee)
 - [Renata Toth](https://github.com/renatatoth)
 - [Sanju K.](https://github.com/Ksj14-kumar)
