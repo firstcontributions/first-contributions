@@ -1130,6 +1130,7 @@
 - [Mrigankar Sonowal](https://github.com/Mrigankar1134)
 - [Gemini Powell](https://github.com/GemAfaWell)
 - [Muhammad Zaki](https://github.com/muzakonthecode)
+- [Cody Ickes](https://github.com/cwickes)
 - [Apostolis Patrikios](https://github.com/Hexapo)
 - [Rahul Poddar](https://github.com/rpoddar05)
 - [woatungau](https://github.com/woa-tung-au)
