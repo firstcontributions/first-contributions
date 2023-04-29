@@ -1244,4 +1244,5 @@
 - [Rudi O'Kelly](https://github.com/Die-Meester)
 - [Ricardo Mello](https://github.com/ricardohsmello)
 - [Rezaye Rabbi](https://github.com/rzrabbi)
+- [Areeb Ur Rehman Khan](https://github/Rehmanareeb)
 <!-- prettier-ignore-end -->
