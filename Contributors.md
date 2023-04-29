@@ -1232,4 +1232,5 @@
 - [Murilo Moraes Cabral](https://github.com/murilomcabral)
 - [Rudi O'Kelly](https://github.com/Die-Meester)
 - [Ricardo Mello](https://github.com/ricardohsmello)
+- [Rezaye Rabbi](https://github.com/rzrabbi)
 <!-- prettier-ignore-end -->
