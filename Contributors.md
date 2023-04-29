@@ -4,6 +4,7 @@
 - [Atharav](https://github.com/harshal-ishere)
 - [chamomil](https://github.com/chamomil)
 - [Pritse](https://github.com/Pritse)
+- [Daniel Johnson](https://github.com/Dev-Dannie)
 - [xavierjimz] (https://github.com/xavierjimz/)
 - [Satyam Nyati](https://github.com/satyamnyati)
 - [Trottie McQueen] (https://github.com/trottiemcqueen)
