@@ -116,6 +116,7 @@
 - [Adrian Calleja](https://github.com/adrii0113)
 - [Jon Sundin](https://github.com/jmsundin)
 - [Rose Rousseau](<(https://github.com/MapleRose)>)
+- [Juan Aviles](<(https://github.com/Juan11211)>)
 - [Ashutosh Pandey]
 - [Oliver Warne]
 - [Chris E](https://github.com/cce2955)
