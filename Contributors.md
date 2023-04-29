@@ -133,6 +133,7 @@
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
 - [Malavya Raval](https://github.com/MalavyaRaval)
 - [José Ortiz-Ocampo](https://github.com/jhortizo)
+- [Ryan Jackson] (https://github.com/ryanjackson22)
 - [Curtis Aliwah] (https://github.com/Aliwah1403)
 - [Honghao Zheng] (https://github.com/Honghao-Zheng)
 - [Oluwaseun Adesina](https://github.com/oluwaseun-Adesina)
