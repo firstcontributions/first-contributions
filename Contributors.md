@@ -1212,6 +1212,7 @@
 - [Sushil Bhardwaj](https://github.com/Bazigar69)
 - [Aakash Dixit (friend of Sushil)](https://github.com/aakash26dixit)
 - [Ketan Wagh (friend of Sushil & Aakash)](https://github.com/ketanintellect)
+- [Priyank Panchal](https://github.com/priyank-panchal)
 - [Akshay Thakur] (https://github.com/popty)
 - [Abhinav Sharma] (https://github.com/Abhinav2091)
 - [Ajay Mehta]      (https://github.com/AIwithAj)
