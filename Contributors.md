@@ -50,6 +50,7 @@
 - [Abhijeet](https://github.com/abhi-jeet-kumar)
 - [namedmichi](https://github.com/namedmichi)
 - [gyanash.ekka](https://github.com/gyanAsh)
+- [max.jon](https://github.com/MaxJonssonDS)
 - [Devasya Rajguru]
 - [Toby Frick](https://github.com/FrickTob)
 - [Darren Harris](https://github.com/theharriscode)
