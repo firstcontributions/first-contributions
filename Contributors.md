@@ -54,6 +54,7 @@
 - [namedmichi](https://github.com/namedmichi)
 - [gyanash.ekka](https://github.com/gyanAsh)
 - [max.jon](https://github.com/MaxJonssonDS)
+- [Sudhir Jaiswal](https://github.com/Coder-in-a-shell)
 - [Devasya Rajguru]
 - [Toby Frick](https://github.com/FrickTob)
 - [Darren Harris](https://github.com/theharriscode)
