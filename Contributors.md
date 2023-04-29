@@ -30,6 +30,7 @@
 - [Sharon Kaufman](https://github.com/Sk-223)
 - [Adam_Logman](https://github.com/adamlquman)
 - [Anwar_Hossain]  (https://github.com/anwarhossain1)
+- [Techylawyer] (https://github.com/Techylawyer)
 - [Brijesh_Roy]  (https://github.com/brijeshroy)
 - [Kashyap Busa] (https://github.com/kashyap310)
 - [Muhammad Hatif Mujahid](https://github.com/hatifmujahid)
