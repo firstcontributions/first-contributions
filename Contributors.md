@@ -1255,4 +1255,5 @@
 - [Ricardo Mello](https://github.com/ricardohsmello)
 - [Rezaye Rabbi](https://github.com/rzrabbi)
 - [Areeb Ur Rehman Khan](https://github/Rehmanareeb)
+- [Sahil Gupta](https://github/Waahguptaji)
 <!-- prettier-ignore-end -->
