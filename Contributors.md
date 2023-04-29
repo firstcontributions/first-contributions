@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [chamomil](https://github.com/chamomil)
 - [Pritse](https://github.com/Pritse)
 - [xavierjimz] (https://github.com/xavierjimz/)
 - [Satyam Nyati](https://github.com/satyamnyati)
