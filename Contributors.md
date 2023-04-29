@@ -52,6 +52,7 @@ Ti Kyi Khant
 - [Ruphaa Ganesan](https://github.com/ruphaa)
 - [unpluggedsam](https://github.com/unpluggedsam)
 - [LinhNguyenLe2109](https://github.com/LinhNguyenLe2109)
+- [Jane Okeke](https://github.com/nkechijane)
 - [eest12](https://github.com/eest12)
 - [Tahrour Mustapha Aymen](https://github.com/Aymen-TM)
 - [Blood Pirouette](https://github.com/Blood-Pirouette)
