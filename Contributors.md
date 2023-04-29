@@ -9,6 +9,7 @@
 - [Trottie McQueen] (https://github.com/trottiemcqueen)
 - [Juli Levi](https://github.com/julilll)
 - [Sam Joshua](https://github.com/Sam-Joshua-S)
+- [muralinet](https://github.com/muralinet/)
 - [mrpgmr](https://github.com/https://github.com/mrpgmr67)
 - [Ye Yint Myint Myat](https://github.com/yeyint-bee)
 - [Harish Rane](https://github.com/AzadRane)
