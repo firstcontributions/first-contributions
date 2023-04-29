@@ -283,6 +283,7 @@
 - [RongZhao Zhang](https://github.com/ZhangRongZhao247)
 - [Brock Price](https://github.com/brockwrites)
 - [bronkp](https://github.com/bronkp)
+- [Sweta Ghosh](https://github.com/swetag-hash)
 - Bruno V. T. Barbosa
 - [Brayan Kai Mwanyumba](https://github.com/mwanyumba7)
 - Karthik
