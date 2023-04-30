@@ -1259,4 +1259,5 @@
 - [Rezaye Rabbi](https://github.com/rzrabbi)
 - [Areeb Ur Rehman Khan](https://github/Rehmanareeb)
 - [Sahil Gupta](https://github/Waahguptaji)
+- [Andres F Cabezas Quicano](https://github.com/afcabezasq)
 <!-- prettier-ignore-end -->
