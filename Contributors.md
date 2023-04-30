@@ -1,5 +1,6 @@
 ﻿# Contributors
 <!-- prettier-ignore-start -->
+- [Adil Hashmi]
 - [Ali Rasouli]
 - [Ethan Kuhrts](https://github.com/ethankuhrts)
 - [Olivia Robinson](https://github.com/lvcg)
