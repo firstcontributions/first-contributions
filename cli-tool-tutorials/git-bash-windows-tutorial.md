@@ -39,8 +39,6 @@ Go to the folder that you want to save this project on by uisng this command
 
 `cd <folder>`
 
-bash head: #! bin/bash
-
 <img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-terminal-2.png" alt="cd into a folder" />
 
 Use the string you copied in the step above to clone the repository using this command
