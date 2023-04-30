@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+-dhanush
 - [koya-tech](https://github.com/koya-tech)
 - [Atharav](https://github.com/harshal-ishere)
 - [chamomil](https://github.com/chamomil)
