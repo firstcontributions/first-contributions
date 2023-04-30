@@ -1275,4 +1275,5 @@
 - [Abhijit Prajapati](https://github.com/AbhijitPrajapati12)
 - [ID-Yuu](https://github.com/Id-Yuu)
 - [Rvndddd] (https://github.com/revandpratama)
+- [Nick Partalis] (https://github.com/nickpartalis)
 <!-- prettier-ignore-end -->
