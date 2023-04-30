@@ -128,6 +128,7 @@
 - [Rose Rousseau](<(https://github.com/MapleRose)>)
 - [Juan Aviles](<(https://github.com/Juan11211)>)
 - [Ashutosh Pandey]
+  [Fathi Abdi](https://github.com/Fathyy)
 - [Oliver Warne]
 - [Chris E](https://github.com/cce2955)
 - [cqdev-fusion](https://github.com/cqdev-fusion)
