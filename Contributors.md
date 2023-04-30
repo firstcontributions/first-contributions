@@ -1259,6 +1259,6 @@
 - [Ricardo Mello](https://github.com/ricardohsmello)
 - [Rezaye Rabbi](https://github.com/rzrabbi)
 - [Areeb Ur Rehman Khan](https://github/Rehmanareeb)
-- [Sahil Gupta](https://github/Waahguptaji)
-- [Yuta Noguchi](https://github.com/nogu66)
+- [Sahil Gupta](https://github/Waahguptaji)
+- [Yuta Noguchi](https://github.com/nogu66s)
 <!-- prettier-ignore-end -->
