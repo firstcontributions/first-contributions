@@ -1277,4 +1277,5 @@
 - [ID-Yuu](https://github.com/Id-Yuu)
 - [Rvndddd] (https://github.com/revandpratama)
 - [Nick Partalis] (https://github.com/nickpartalis)
+- [Blake Butsko](https://github.com/blake-butsko)
 <!-- prettier-ignore-end -->
