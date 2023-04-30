@@ -15,6 +15,7 @@
 - [roshaandev](https://github.com/roshaandev/)
 - [mrpgmr](https://github.com/https://github.com/mrpgmr67)
 - [Ye Yint Myint Myat](https://github.com/yeyint-bee)
+- [John Clapper](https://github.com/britzky)
 - [Harish Rane](https://github.com/AzadRane)
 - [Nathamuni](https://github.com/Nathamuni)
 - [Tshenolo Mos](https://github.com/tshenolo)
