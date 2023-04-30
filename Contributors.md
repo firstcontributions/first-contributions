@@ -158,6 +158,7 @@
 - [Atahan Caldir](https://github.com/atahancaldir)
 - [taricov](https://github.com/taricov)
 - [Deviant-Liang](https://github.com/Deviant-Liang)
+- [Amit Pandey](https://github.com/Amit19057120)
 - [nor6u](https://github.com/nor6u)
 - [ItsRqtl](https://github.com/ItsRqtl)
 - [YShen](https://github.com/yshenfab)
