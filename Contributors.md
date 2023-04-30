@@ -276,6 +276,7 @@
 - [Tobys-Nap] (https://github.com/TobysNap)
 - [albus-droid](https://github.com/albus-droid)
 - [SSENYONDO MICHEAL](https://github.com/ssenyondo67)
+- [Zhanarys Mukhtarov](https://github.com/pmzh9)
 - [Desmond-Fon](https://github.com/Desmond-Fon)
 - [Bajomo-semilore](https://github.com/Sbtech24)
 - [Mariangela Petrizzo](http://github.com/petrizzo)
