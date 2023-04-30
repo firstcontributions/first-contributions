@@ -73,6 +73,7 @@
 - [Amit Kumar](https://github.com/amitthecoder)
 - [almostJohn](https://github.com/almostJohn)
 - [KushalBosu](https://github.com/KushalBosu)
+- [Christos Kontomitros](https://github.com/ckontomitros)
 - [Abdelrahman Elsayed](https://github.com/onepercentgold)
 - [Gabriel Moraes] (https://github.com/gabrielm33)
 - [Kiro Adel] (https://github.com/Noobie7612)
