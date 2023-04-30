@@ -1228,6 +1228,7 @@
 - [Vipul Chawathe](https://github.com/CVipulS)
 - [Cahya Pangestu](https://github.com/cahya24)
 - [Manav Chaudhary](https://github.com/ManavChaudhary999)
+- [Philippe Rambourg](https://github.com/PhilippeR)
 - [Shaneka Lewis](https://github.com/shanekalewis)
 - [Grego Pantelis](https://github.com/gregop)
 - [Guy Turevich](https://github.com/GuyTurevich)
