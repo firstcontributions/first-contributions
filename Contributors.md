@@ -161,6 +161,7 @@
 - [Bedant Chhetri](https://github.com/bedantchh)
 - [Atahan Caldir](https://github.com/atahancaldir)
 - [taricov](https://github.com/taricov)
+- [ItsHidro](https://github.com/HidroGaming)
 - [Deviant-Liang](https://github.com/Deviant-Liang)
 - [Amit Pandey](https://github.com/Amit19057120)
 - [nor6u](https://github.com/nor6u)
