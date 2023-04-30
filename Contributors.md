@@ -1230,6 +1230,7 @@ Shrajan Jain
 - [Thet Min Htin](https://github.com/ClockWize171)
 - [Yash Arora](https://github.com/Yasharora2020)
 - [Alex Marr](https://github.com/a-marr)
+- [Leon Neugum] (https://github.com/LeeNeu)
 - [Robin Muijs](https://github.com/RobinMuijs2000)
 - [Guan Zhi Wang](https://github.com/joe94113)
 - [Jing Yi]
