@@ -1124,6 +1124,7 @@
 - [Sabin Maharjan](I am learning to use git)
 - [Mohd Yawar Shahid](https://github.com/yawar1101)
 - [ThotakuraHarish](https://github.com/ThotakuraHarish2003)
+- [Stephanie Boggs] (https://github.com/boggsyweb)
 - [MBDUR12](https://github.com/MBDur12/)
 - [TaoTaoOoO](https://github.com/TaoTaoOoO)
 - [Avishkar Kotkar](https://github.com/kotkaravishkar)
