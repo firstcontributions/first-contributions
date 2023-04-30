@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [koya-tech](https://github.com/koya-tech)
+- [James-Christie](https://github.com/James-Christie)
 - [Atharav](https://github.com/harshal-ishere)
 - [chamomil](https://github.com/chamomil)
 - [Pritse](https://github.com/Pritse)
