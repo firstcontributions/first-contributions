@@ -1272,4 +1272,5 @@
 - [Andres F Cabezas Quicano](https://github.com/afcabezasq)
 - [Mirgiyasov Abubakr](https://github.com/abubakrmirgiyasov)
 - [Abhijit Prajapati](https://github.com/AbhijitPrajapati12)
+- [ID-Yuu](https://github.com/Id-Yuu)
 <!-- prettier-ignore-end -->
