@@ -1261,4 +1261,5 @@
 - [Areeb Ur Rehman Khan](https://github/Rehmanareeb)
 - [Sahil Gupta](https://github/Waahguptaji)
 - [Andres F Cabezas Quicano](https://github.com/afcabezasq)
+- [Mirgiyasov Abubakr](https://github.com/abubakrmirgiyasov)
 <!-- prettier-ignore-end -->
