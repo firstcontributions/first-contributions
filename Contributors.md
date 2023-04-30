@@ -736,6 +736,7 @@
 - [Phillip Yen](https://github.com/yphillip)
 - [kan01234](https://github.com/kan01234/)
 - [Mark DC95](https://github.com/MarkDC95)
+Shrajan Jain
 - [lazylittlestar](https://github.com/lazylittlestar)
 - [japesjake](http://github.com/japesjake)
 - [EvyatarEsterson🙂](https://github.com/EvyatarEsterson)
