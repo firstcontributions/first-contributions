@@ -1265,4 +1265,5 @@
 - [Sahil Gupta](https://github/Waahguptaji)
 - [Andres F Cabezas Quicano](https://github.com/afcabezasq)
 - [Mirgiyasov Abubakr](https://github.com/abubakrmirgiyasov)
+- [Abhijit Prajapati](https://github.com/AbhijitPrajapati12)
 <!-- prettier-ignore-end -->
