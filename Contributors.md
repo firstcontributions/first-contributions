@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [Atharav](https://github.com/harshal-ishere)
 - [chamomil](https://github.com/chamomil)
 - [Pritse](https://github.com/Pritse)
@@ -33,9 +34,9 @@
 - [Vineet Sirohi]
 - [Sharon Kaufman](https://github.com/Sk-223)
 - [Adam_Logman](https://github.com/adamlquman)
-- [Anwar_Hossain]  (https://github.com/anwarhossain1)
+- [Anwar_Hossain] (https://github.com/anwarhossain1)
 - [Techylawyer] (https://github.com/Techylawyer)
-- [Brijesh_Roy]  (https://github.com/brijeshroy)
+- [Brijesh_Roy] (https://github.com/brijeshroy)
 - [Kashyap Busa] (https://github.com/kashyap310)
 - [Muhammad Hatif Mujahid](https://github.com/hatifmujahid)
 - [Raj sharma](https://github.com/lluciferr)
@@ -1236,7 +1237,7 @@
 - [Priyank Panchal](https://github.com/priyank-panchal)
 - [Akshay Thakur] (https://github.com/popty)
 - [Abhinav Sharma] (https://github.com/Abhinav2091)
-- [Ajay Mehta]      (https://github.com/AIwithAj)
+- [Ajay Mehta] (https://github.com/AIwithAj)
 - [Mateeh Ullah] (https://github.com/MateehUllah)
 - [Peter Dinh] (https://github.com/PeterDevelops)
 - [Chris Asbury] (https://github.com/CGA15)
@@ -1258,5 +1259,6 @@
 - [Ricardo Mello](https://github.com/ricardohsmello)
 - [Rezaye Rabbi](https://github.com/rzrabbi)
 - [Areeb Ur Rehman Khan](https://github/Rehmanareeb)
-- [Sahil Gupta](https://github/Waahguptaji)
+- [Sahil Gupta](https://github/Waahguptaji)
+- [Yuta Noguchi](https://github.com/nogu66)
 <!-- prettier-ignore-end -->
