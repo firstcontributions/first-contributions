@@ -1262,6 +1262,7 @@
 - [Adrian Paraschiv] (https://github.com/ABSADR) <3 <3
 - [Karol Mac](https://github.com/Karol-Mac)
 - [schoeneBiene] (https://github.com/schoeneBiene)
+- [Mike Reed] (https://github.com/mreed5812)
 - [shibu5uke] (https://github.com/shibu5uke)
 - [Animesh Kumar](https://github.com/wttc-nitr)
 - [Murilo Moraes Cabral](https://github.com/murilomcabral)
