@@ -1284,4 +1284,5 @@ Shrajan Jain
 - [Nick Partalis] (https://github.com/nickpartalis)
 - [Blake Butsko](https://github.com/blake-butsko)
 - [Phuc Phan] (https://github.com/pphuc25)
+- [Kadir Gürtürk](https://github.com/kadirgurturk)
 <!-- prettier-ignore-end -->
