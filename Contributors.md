@@ -15,6 +15,7 @@
 - [muralinet](https://github.com/muralinet/)
 - [roshaandev](https://github.com/roshaandev/)
 - [mrpgmr](https://github.com/https://github.com/mrpgmr67)
+Shuai Wang
 - [Ye Yint Myint Myat](https://github.com/yeyint-bee)
 - [John Clapper](https://github.com/britzky)
 - [Harish Rane](https://github.com/AzadRane)
