@@ -1,4 +1,5 @@
-   # Contributors
+# Contributors
+
 <!-- prettier-ignore-start -->
 
 - [Angel Umeh](https://github.com/akcumeh)
@@ -12,8 +13,8 @@
 - [Jon Sundin](https://github.com/jmsundin)
 - [Sagar Sharma](https://github.com/sagar-io)
 - [Stefan Baciu](https://github.com/StefanCodru)
-Ti Kyi Khant
-[Anukam Chidalu](https://github.com/daluclemas)
+  Ti Kyi Khant
+  [Anukam Chidalu](https://github.com/daluclemas)
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
 - [Oluwaseun Adesina](https://github.com/oluwaseun-Adesina)
 - [Adam Shin](https://github.com/AdamShin19)
@@ -107,8 +108,7 @@ Ti Kyi Khant
 - [Daniel Jeffrey Nibbs](https://github.com/Jeff-Nibbs)
 - [jeongwoo903](https://github.com/jeongwoo903)
 - [albus-droid](https://github.com/albus-droid)
-- [Desmond-Fon](https://github.com/Desmond-Fon)
--[Bajomo-semilore](https://github.com/Sbtech24)
+- [Desmond-Fon](https://github.com/Desmond-Fon) -[Bajomo-semilore](https://github.com/Sbtech24)
 - [Mariangela Petrizzo](http://github.com/petrizzo)
 - [Srijanya Durganala](https://github.com/Srijanya.D)
 - [Sean Colligan](https://github.com/srcengine)
@@ -144,6 +144,7 @@ Ti Kyi Khant
 - [Jonathan G Araya](https://github.com/Jonathana1106)
 - [Jeremy Gleason](https://github.com/jeremy-gleason)
 - [Felipe Seda](https://github.com/fseda)
+- [Chandra Behera](https://github.com/chandraonweb)
 - [jungchoib](https://github.com/jungchoib)
 - [rajdugad](https://github.com/rajdugad)
 - [Tarek-Azzazi](https://github.com/tarekazzazi)
@@ -376,8 +377,7 @@ Ti Kyi Khant
 - [Chiranjit Debnath](https://github.com/tomtanner)
 - [JSTNSNE](https://github.com/JSTNSNE)
 - [Mohamed Mostafa](https://github.com/mohamedmostafakhudari)
-- [JSTNSNE](https://github.com/JSTNSNE)
--[not]
+- [JSTNSNE](https://github.com/JSTNSNE) -[not]
 - [Aimee T](https://github.com/aimeetacchi)
 - [Alkut Askar](https://github.com/elkut)
 - [klpod221](https://github.com/klpod221)
@@ -770,7 +770,7 @@ Ti Kyi Khant
 - [Sudipta Chatterjee](https://github.com/cuscat)
 - [Vishal Prakash](https://github.com/prakashvishal93)
 - [Ruslans Aleksejevs](https://github.com/RuslansAleksejevs)
-- [Aayushmaan Mishra]( https://github.com/AayushmaanMishra)
+- [Aayushmaan Mishra](https://github.com/AayushmaanMishra)
 - [Devashish Chakraborty](https://github.com/devashishchakraborty)
 - [Brian Bossy](https://github.com/Brian123-del)
 - [Zach Grant](https://github.com/BlindJuly)
