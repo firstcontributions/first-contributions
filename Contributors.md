@@ -15,6 +15,7 @@ Tejas Chouhan
 - [Satyam Nyati](https://github.com/satyamnyati)
 - [Trottie McQueen] (https://github.com/trottiemcqueen)
 - [Jerry Yan](https://github.com/jerryy668)
+- [Chico Stick] (https://github.com/ChicoStickowo)
 - [Juli Levi](https://github.com/julilll)
 - [Sam Joshua](https://github.com/Sam-Joshua-S)
 - [Woon Koh] (https://github.com/kohwdev)
