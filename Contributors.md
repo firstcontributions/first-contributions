@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+Tejas Chouhan
 - [Gyaur](https://github.com/Gy4ur)
 - [koya-tech](https://github.com/koya-tech)
 - [James-Christie](https://github.com/James-Christie)
