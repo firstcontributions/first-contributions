@@ -489,6 +489,7 @@ Tejas Chouhan
 - [Ali El-Shamy](https://github.com/elshali)
 - [Muneeb Shahid](https://github.com/muneeb706)
 - [Rami Shawwa](https://edbtz.com)
+- [Sibasis Panda](https://github.com/sibasispanda)
 - [Chhaganlaal](https://github.com/Chhaganlaal)
 - [Chandra Kiran](https://github.com/chandra-kiran1)
 - [Aryan Thakore](https://github.com/Aryan1982)
