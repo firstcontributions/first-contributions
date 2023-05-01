@@ -404,6 +404,7 @@
 - [Preston Harms](https://github.com/R3dPnd)
 - [Tanishq Agarwal](https://github.com/Tanishq2807)
 - [Joseph Martinez](https://github.cogit switch -c add-alonzo-churchm/jsmartinez11)
+- [Michal Tomaszewski](https://github.com/mtom407)
 - [Dakota Kryzanowski](https://github.com/DakotaKry)
 - [Joshua Rodriguez😁](https://github.com/joshua-rdrgz)
 - [Bzucak12](https://github.com/Bzucak12/)
