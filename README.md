@@ -55,6 +55,7 @@
 <kbd>[<img title="Slovenščina" alt="Slovenščina" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/si.svg" width="22">](translations/README.sl.md)</kbd>
 <kbd>[<img title="ภาษาไทย" alt="ภาษาไทย" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/th.svg" width="22">](translations/README.th.md)</kbd>
 <kbd>[<img title="Türkçe" alt="Türkçe" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/tr.svg" width="22">](translations/README.tr.md)</kbd>
+<kbd>[<img title="India" alt="India" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/in.svg" width="22">](translations/README.in.md)</kbd>
 <kbd>[<img title="中文(Traditional)" alt="中文(Traditional)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/tw.svg" width="22">](translations/README.zh-tw.md)</kbd>
 <kbd>[<img title="Українська" alt="Українська" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ua.svg" width="22">](translations/README.ua.md)</kbd>
 <kbd>[<img title="Tiếng Việt" alt="Tiếng Việt" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/vn.svg" width="22">](translations/README.vn.md)</kbd>
