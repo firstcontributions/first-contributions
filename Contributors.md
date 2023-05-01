@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Gyaur](https://github.com/Gy4ur)
 - [koya-tech](https://github.com/koya-tech)
 - [James-Christie](https://github.com/James-Christie)
 - [Atharav](https://github.com/harshal-ishere)
