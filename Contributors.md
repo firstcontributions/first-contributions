@@ -46,6 +46,7 @@
 - [Siddhant] (https://github.com/Keshri2806)
 - [Conaitus](https://github.com/conaitus)
 - [Sham04](https://github.com/Sham04s)
+- [Heiteinany18](https://github.com/Heiteinany18)
   [Chai](https://github.com/chaima449)
   [RishiKesh](https://github.com/Rishipan)
 - [YuHangSE](https://github.com/YuHangSE)
