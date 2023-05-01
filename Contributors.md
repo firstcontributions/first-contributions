@@ -40,6 +40,7 @@ Tejas Chouhan
 - [Sharon Kaufman](https://github.com/Sk-223)
 - [Divine Amunega](https://github.com/divineamunega)
 - [Adam_Logman](https://github.com/adamlquman)
+- [Jared Pope](https://github.com/jpope6)
 - [Anwar_Hossain]  (https://github.com/anwarhossain1)
 - [Techylawyer] (https://github.com/Techylawyer)
 - [Brijesh_Roy]  (https://github.com/brijeshroy)
