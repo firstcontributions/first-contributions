@@ -85,6 +85,7 @@
 - [June Song]
 - [khunsai06](https://github.com/khunsai06)
 - [shivamxsurya](https://github.com/shivamxsurya)
+-Madhur Manan
 - [m-foskett](https://github.com/m-foskett)
 - [Christopher Lopez](https://github.com/BedlaminGoliath)
 - [HOUSSAM666](https://github.com/HOUSSAM666)
