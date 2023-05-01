@@ -47,6 +47,7 @@ Tejas Chouhan
 - [Daniel Suwahjo] (https://github.com/danielsuwahjo)
 - [Muhammad Hatif Mujahid](https://github.com/hatifmujahid)
 - [Raj sharma](https://github.com/lluciferr)
+- [Sanchit Yadav](https://github.com/SanchitYadav2005)
 - [Siddhant] (https://github.com/Keshri2806)
 - [Conaitus](https://github.com/conaitus)
 - [Sham04](https://github.com/Sham04s)
