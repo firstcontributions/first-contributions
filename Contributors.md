@@ -5,6 +5,7 @@ Tejas Chouhan
 - [Gyaur](https://github.com/Gy4ur)
 - [koya-tech](https://github.com/koya-tech)
 - [James-Christie](https://github.com/James-Christie)
+- [ARYAN](https://github.com/aryanhr0001)
 - [Atharav](https://github.com/harshal-ishere)
 - [chamomil](https://github.com/chamomil)
 - [Pritse](https://github.com/Pritse)
