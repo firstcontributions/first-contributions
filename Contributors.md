@@ -14,6 +14,7 @@ Tejas Chouhan
 - [xavierjimz] (https://github.com/xavierjimz/)
 - [Satyam Nyati](https://github.com/satyamnyati)
 - [Trottie McQueen] (https://github.com/trottiemcqueen)
+- [Jerry Yan](https://github.com/jerryy668)
 - [Juli Levi](https://github.com/julilll)
 - [Sam Joshua](https://github.com/Sam-Joshua-S)
 - [Woon Koh] (https://github.com/kohwdev)
