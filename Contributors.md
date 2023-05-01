@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 Tejas Chouhan
 - [Gyaur](https://github.com/Gy4ur)
+- [Billy Phan](https://github.com/bphan002)
 - [koya-tech](https://github.com/koya-tech)
 - [James-Christie](https://github.com/James-Christie)
 - [ARYAN](https://github.com/aryanhr0001)
