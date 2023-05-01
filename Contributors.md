@@ -40,6 +40,7 @@
 - [Techylawyer] (https://github.com/Techylawyer)
 - [Brijesh_Roy]  (https://github.com/brijeshroy)
 - [Kashyap Busa] (https://github.com/kashyap310)
+- [Daniel Suwahjo] (https://github.com/danielsuwahjo)
 - [Muhammad Hatif Mujahid](https://github.com/hatifmujahid)
 - [Raj sharma](https://github.com/lluciferr)
 - [Siddhant] (https://github.com/Keshri2806)
