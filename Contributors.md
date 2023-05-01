@@ -55,6 +55,7 @@ Tejas Chouhan
 - [Raj sharma](https://github.com/lluciferr)
 - [Siddhant] (https://github.com/Keshri2806)
 - [Conaitus](https://github.com/conaitus)
+- [Patrickwchoi](https://github.com/patrickwchoi)
 - [Sham04](https://github.com/Sham04s)
 - [Heiteinany18](https://github.com/Heiteinany18)
   [Chai](https://github.com/chaima449)
