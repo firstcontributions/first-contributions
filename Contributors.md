@@ -927,6 +927,7 @@ Shrajan Jain
 - [Vinicius Antunes](https://github.com/vinicius-anp)
 - [Pat Browne](https://github.com/pbrowne011)
 - [Monty]
+- [Lucaremdev](https://github.com/lucaremdev)
 - [Anshuman Tiwari](https://github.com/at610505)
 - [Xaavan Dolence](https://github.com/XaavanDolence)
 - [Libin Faby](https://github.com/libinfaby/)
