@@ -1316,4 +1316,5 @@ Shrajan Jain
 - [Ezgi Coban](https://github.com/ezgi-c)
 - [Aron Onditi](https://github.com/AronOnditi/)
 - [Will](https://github.com/GestaltEXE/)
-<!-- prettier-ignore-end -->
+- [Scholar618](https://github.com/Scholar618)
+- <!-- prettier-ignore-end -->
