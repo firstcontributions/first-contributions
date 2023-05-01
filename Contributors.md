@@ -319,6 +319,7 @@
 - Karthik
 - Weverak
 - Crux
+- [JonDm07](https://github.com/JonDm07)
 - [Cedric Hannemann](https://github.com/cedhan)
 - [Didi M](https://github.com/Didi-M1)
 - [Henry Andrade](https://github.com/HenryAnd04)
