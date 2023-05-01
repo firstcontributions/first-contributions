@@ -1309,5 +1309,6 @@ Shrajan Jain
 - [Blake Butsko](https://github.com/blake-butsko)
 - [Phuc Phan] (https://github.com/pphuc25)
 - [Kadir Gürtürk](https://github.com/kadirgurturk)
+- [Ezgi Coban](https://github.com/ezgi-c)
 - [Aron Onditi](https://github.com/AronOnditi/)
 <!-- prettier-ignore-end -->
