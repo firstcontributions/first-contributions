@@ -293,6 +293,7 @@ Tejas Chouhan
 - [Desmond-Fon](https://github.com/Desmond-Fon)
 - [Bajomo-semilore](https://github.com/Sbtech24)
 - [Mariangela Petrizzo](http://github.com/petrizzo)
+- [johanneshn](https://github.com/Johanneshn)
 - [Srijanya Durganala](https://github.com/Srijanya.D)
 - [Sean Colligan](https://github.com/srcengine)
 - [TusharPramanick](https://github.com/TusharPramanick)
