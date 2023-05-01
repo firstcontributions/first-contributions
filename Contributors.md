@@ -170,6 +170,7 @@ Tejas Chouhan
 - [Karthikeyan Nambivinayagam] (https://github.com/Karthikn-n)
 - [Provab Mongchaw Khyang](https://github.com/notmongchaw)
 - [ranjith rosan]
+- [Andrei Kuniutka](https://github.com/akuniutka)
 - [Chris Banks](https://github.com/Chrix197)
 - [Robert West](https://github.com/rolewest)
 - [Bedant Chhetri](https://github.com/bedantchh)
