@@ -1337,4 +1337,5 @@ Shrajan Jain
 - [Jamie Douglas](https://github.com/Jamelas)
 - [Lawson Tanner] (https://github.com/Hornbag)
 - [Manuel Menendez] (https://github.com/hudsonbay)
+- [Jorge Torres] (https://github.com/jotorres1)
 - <!-- prettier-ignore-end -->
