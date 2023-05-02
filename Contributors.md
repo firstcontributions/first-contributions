@@ -9,6 +9,7 @@ Tejas Chouhan
 - [ARYAN](https://github.com/aryanhr0001)
 - [Atharav](https://github.com/harshal-ishere)
 - [chamomil](https://github.com/chamomil)
+- [Rituraj](https://github.com/enrituraj)
 - [Nicekloe](https://github.com/Nicekloe)
 - [Pritse](https://github.com/Pritse)
 - [Daniel Johnson](https://github.com/Dev-Dannie)
