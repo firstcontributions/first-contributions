@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 Tejas Chouhan
 - [Vedant Adke](https://github.com/VedantAdke96)
+- [Gowri Priyanka](https://github.com/GowriPriyankaM)
 - [Gyaur](https://github.com/Gy4ur)
 - [Billy Phan](https://github.com/bphan002)
 - [koya-tech](https://github.com/koya-tech)
