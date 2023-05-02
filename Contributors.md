@@ -26,6 +26,7 @@ Tejas Chouhan
 - [muralinet](https://github.com/muralinet/)
 - [roshaandev](https://github.com/roshaandev/)
 - [mrpgmr](https://github.com/https://github.com/mrpgmr67)
+- [Deepali Semwal](https://github.com/semwaldeepali)
 - [Ye Yint Myint Myat](https://github.com/yeyint-bee)
 - [John Clapper](https://github.com/britzky)
 - [Sahood cv](https://github.com/sahoodcode)
