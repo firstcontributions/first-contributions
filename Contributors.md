@@ -278,6 +278,7 @@ Tejas Chouhan
 - [Kiran Johnson](https://github.com/KiranJohns)
 - [JasminTajShaik](https://github.com/JasminTajShaik2601)
 - [Rishi Deshmukh](https://github.com/26rishiii)
+- [Ananta Prasannakumar](https://github.com/anantalp)
 - [Nishant Kumar](https://github.com/thinkwithcode)
 - [Precious Enyi](https://github.com/enyipreshious)
 - [Pragathees](https://github.com/pragasekar)
