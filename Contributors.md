@@ -384,6 +384,7 @@ Tejas Chouhan
 - [Joshua Varghese](https://github.com/joshvarg)
 - [chowonbhin](https://github.com/chowonbhin)
 - [mimeosd](https://github.com/mimeosd)
+- [Jugal Alan](https://github.com/lyrnoxx)
 - [Li Feng](https://github.com/maplestarplayl)
 - [ManueldG](https://github.com/ManueldG)
 - [Junsu Park] (https://github.com/junsupark94)
