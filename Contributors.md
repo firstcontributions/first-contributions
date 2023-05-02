@@ -15,6 +15,7 @@ Tejas Chouhan
 - [Rituraj](https://github.com/enrituraj)
 - [Nicekloe](https://github.com/Nicekloe)
 - [Pritse](https://github.com/Pritse)
+- [braylonsteffen](https://github.com/braylonsteffen)
 - [Daniel Johnson](https://github.com/Dev-Dannie)
 - [xavierjimz] (https://github.com/xavierjimz/)
 - [Satyam Nyati](https://github.com/satyamnyati)
