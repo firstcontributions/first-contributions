@@ -8,6 +8,7 @@ Tejas Chouhan
 - [James-Christie](https://github.com/James-Christie)
 - [ARYAN](https://github.com/aryanhr0001)
 - [Atharav](https://github.com/harshal-ishere)
+- [alonGitH](https://github.com/alonGitH)
 - [chamomil](https://github.com/chamomil)
 - [Rituraj](https://github.com/enrituraj)
 - [Nicekloe](https://github.com/Nicekloe)
