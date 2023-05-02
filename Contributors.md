@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 Tejas Chouhan
+- [SuJung Song](https://github.com/SONG-crystal)
 - [Vedant Adke](https://github.com/VedantAdke96)
 - [Gowri Priyanka](https://github.com/GowriPriyankaM)
 - [Gyaur](https://github.com/Gy4ur)
