@@ -39,6 +39,7 @@ Tejas Chouhan
 - [Festus Abiatar](https://github.com/abiatarfestus)
 - [PetrAmbroz](https://github.com/petrambroz)
 - [Myat Min](https://github.com/MytMnSthU)
+- [Takahiro Sato](https://github.com/takahiro-1227)
 - [Jitesh Pahwa](https://github.com/jiteshpahwa04)
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
