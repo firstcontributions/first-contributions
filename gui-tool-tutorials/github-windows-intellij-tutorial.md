@@ -3,110 +3,109 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-# First Contributions
+# 最初の貢献度
 
 | <img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="40"> | IntelliJ IDEA |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
 
 
-It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
+難しいですね。初めて何かをするときは、いつも難しいものです。特に共同作業をしているときは、間違いを犯すことは快適なことではありません。しかし、オープンソースは、コラボレーションと協力がすべてです。私たちは、オープンソースの新しい貢献者が初めて学び、貢献する方法を簡素化したいと考えました。
 
-Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are, the better you learn. If you are looking for making your first contribution, just follow the simple steps below. We promise you, it will be fun.
+記事を読んだり、チュートリアルを見たりすることは助けになりますが、何も失敗せずに実際にやってみることよりも良いことがあります。このプロジェクトは、新人が最初の貢献をする際のガイダンスを提供し、その方法を簡素化することを目的としています。リラックスしていればいるほど、より良い学習ができることを忘れないでください。もしあなたが最初の投稿をしようとしているなら、以下の簡単なステップに従うだけです。きっと楽しくなるはずです。
 
-If you don't have IntelliJ IDEA on your machine, [install it](https://www.jetbrains.com/idea/download/#section=windows).
+あなたのマシンにIntelliJ IDEAがない場合、 [install it](https://www.jetbrains.com/idea/download/#section=windows).
 
-**Notice:** This tutorial was made using IntelliJ IDEA (Version 2019.3.2) on a Windows 10 machine. Later in this tutorial we will make use of some keyboard shortcuts. These may differ on other operating systems (macOS/Linux).
+**Notice:** このチュートリアルは、Windows 10マシンでIntelliJ IDEA（バージョン2019.3.2）を使用して作成しました。このチュートリアルの後半では、いくつかのキーボードショートカットを利用する予定です。これらは他のオペレーティングシステム（macOS/Linux）で異なる場合があります。
 
-## Fork this repository
+## このリポジトリをフォークする
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/fork.png" alt="fork this repository" />
 
-Fork this repo by clicking on the fork button on the top right of this page. This will create a copy of this repository in your GitHub account.
+このページの右上にあるフォークボタンをクリックして、このレポをフォークしてください。これで、あなたの GitHub アカウントにこのリポジトリのコピーが作成されます。
 
-GitHub keeps track of the relationship between your repo and the one you have forked it from. You can think of your repo as a working copy.
+GitHub は、あなたのレポとフォークしたレポの関係を記録しています。自分のレポは作業コピーと考えることができます。
 
-Most top-level GitHub Repos (i.e. ones not forked from any other repo) have a small core team of people who can directly commit changes. All other contributors must fork the repo and make changes in the fork, then create a Pull Request to request to merge back their changes into the top-level repo. If the top-level repo administrator approves the changes they will be merged, and you will gain instant fame and fortune! More on how to do that later.
+ほとんどのトップレベルの GitHub リポジトリ（他のリポジトリからフォークされていないもの）には、直接変更をコミットできる小さなコアチームがあります。他のすべての貢献者は、そのレポをフォークして変更を加え、その変更をトップレベルのレポにマージするよう Pull Request を作成する必要があります。トップレベルのレポの管理者が変更を承認すれば、マージされ、あなたはすぐに名声と富を手に入れることができます！この方法については、後で詳しく説明します。
 
-## Clone your repository
+## リポジトリのクローンを作成する
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-The next step is to clone your repo down to your machine so you can begin making changes. IntelliJ IDEA needs the URL of your repo, so click the "clone" button and then click the "copy to clipboard" icon.
+次のステップは、変更を開始できるように、あなたのマシンにレポをクローンすることです。IntelliJ IDEAはあなたのリポのURLを必要とするので、「clone」ボタンをクリックし、「copy to clipboard」アイコンをクリックします。
 
-**CAREFUL:** One mistake that new contributors often make is to clone the repo you forked _from_ rather than cloning your repo. Check your browser's address bar and make sure you are cloning your repo.
+**CAREFUL:** 新しい貢献者がよく犯す間違いの1つは、自分のレポをクローンするのではなく、自分がフォークしたレポをクローンすることです_from_。ブラウザのアドレスバーを確認し、自分のレポをクローンしていることを確認してください。
 
-Now open up IntelliJ IDEA. 
+次に、IntelliJ IDEAを開いてください。
 
-IntelliJ IDEA allows you to check out (in Git terms clone) an existing repository and create a new project based on the data you've downloaded.
+IntelliJ IDEAでは、既存のリポジトリをチェックアウト（Git用語ではclone）して、ダウンロードしたデータをもとに新しいプロジェクトを作成することができます。
 
-From the main menu, choose VCS | Get from Version Control, or, if no project is currently opened, click Get from Version Control on the Welcome screen.
+メインメニューから「VCS｜バージョン管理から取得」を選択するか、現在プロジェクトが開かれていない場合は、「ようこそ」画面の「バージョン管理から取得」をクリックします。
 
-In the Get from Version Control dialog, specify the URL of the remote repository you want to clone (you can click Test to make sure that connection to the remote can be established) or select one of the VCS hosting services on the left. If you are already logged in to the selected hosting service, completion will suggest the list of available repositories that you can clone.
+バージョン管理から取得］ダイアログで、クローンを作成するリモートリポジトリのURLを指定するか（［テスト］をクリックしてリモートへの接続が確立できることを確認できます）、左側にあるVCSホスティングサービスのいずれかを選択します。選択したホスティングサービスにすでにログインしている場合、完了すると、クローンできる利用可能なリポジトリのリストが表示されます。
 
-Click Clone. If you want to create an IntelliJ IDEA project based on the sources you have cloned, click Yes in the confirmation dialog. Git root mapping will be automatically set to the project root directory.
+クローン］をクリックします。クローンしたソースに基づいて IntelliJ IDEA プロジェクトを作成する場合は、確認ダイアログで [はい] をクリックします。Git ルートマッピングがプロジェクトのルートディレクトリに自動的に設定されます。
 
-If your project contains submodules, they will also be cloned and automatically registered as project roots.
+プロジェクトにサブモジュールが含まれている場合は、サブモジュールもクローンされ、プロジェクトルートとして自動的に登録されます。
 
-**Important**: Make sure it is the forked repository and not the original one, otherwise it won't work.
+**Important**： 重要**：フォークされたリポジトリであることを確認し、元のリポジトリではないことを確認してください。そうでない場合は動作しません。
 
-## Create a branch
+## ブランチを作成する
 
-In Git, branching is a powerful mechanism that allows you to diverge from the main development line, for example, when you need to work on a feature or freeze a certain state of a codebase for a release, and so on.
+Gitでは、ブランチは、例えば、ある機能に取り組む必要があるときや、リリースのためにコードベースのある状態を凍結するときなど、メインの開発ラインから分岐させることができる強力なメカニズムです。
 
-In IntelliJ IDEA, all operations with branches are performed in the Git Branches popup. To invoke it, click the Git widget in the Status bar or press Ctrl+Shift+`.
+IntelliJ IDEAでは、ブランチに関するすべての操作はGit Branchesポップアップで行われます。これを呼び出すには、ステータスバーのGitウィジェットをクリックするか、Ctrl+Shift+`を押してください。
 
-The name of the branch that is currently checked out is displayed in the Git widget in the Status bar.
+ステータス・バーのGitウィジェットに、現在チェックアウトされているブランチの名前が表示されます。
 
-In the Branches popup, choose New Branch.
+ブランチ」ポップアップで、「新規ブランチ」を選択します。
 
-In the dialog that opens, specify the branch name, and make sure the Checkout branch option is selected if you want to switch to that branch.
+開いたダイアログでブランチ名を指定し、そのブランチに切り替える場合はチェックアウトのブランチ・オプションが選択されていることを確認します。
 
-The new branch will start from the current HEAD. If you want to start a branch from a previous commit instead of the current branch HEAD, select this commit in the Log tab of the Version Control tool window Alt+9 and choose New Branch from the context menu.
+新しいブランチは、現在のHEADから開始されます。現在のブランチ HEAD ではなく、以前のコミットからブランチを開始したい場合は、バージョン管理ツールのウィンドウ Alt+9 のログタブでこのコミットを選択し、コンテキストメニューから New Branch を選択します。
 
-## Make necessary changes
-
+## 必要な変更を加える
 Open `Contributors.md` and add your name anywhere in the file. This file contains GFM (GitHub Flavored Markdown) which is a proprietary flavor of the <a href="https://en.wikipedia.org/wiki/Markdown">markdown</a> syntax.
 
-Copy one of the other contributors&apos; lines and modify it with your name to make sure you get the syntax right - it can be picky.
+他の投稿者&apos;の行をコピーして、自分の名前で修正し、構文が正しいかどうか確認します。
 
-## Commit & Push changes to GitHub
+コミットして変更をGitHubにプッシュする##。
 
-Select the files you want to commit or an entire changelist in the Local Changes tab of the Version Control tool window Alt+9 and press Ctrl+K or click Commit Commit button on the toolbar.
+バージョン管理ツールウィンドウのローカル変更タブで、コミットしたいファイルまたは変更リスト全体を選択します。 Alt+9 と Ctrl+K キーを押すか、ツールバーの Commit Commit ボタンをクリックします。
 
-The Commit Changes dialog that opens lists all files that have been modified since the last commit, as well as all newly added unversioned files.
+開いた [変更のコミット] ダイアログには、前回のコミット以降に変更されたすべてのファイルと、新しく追加されたバージョン管理されていないすべてのファイルが表示されます。
 
-Enter a meaningful commit message.
+意味のあるコミット・メッセージを入力します。
 
-You can click Commit Message history Commit Message history Ctrl+M to choose from the list of recent commit messages.
+コミットメッセージ履歴 Commit Message history Ctrl+M をクリックすると、最近のコミットメッセージの一覧から選択できます。
 
-You can also edit the commit message later before you've pushed the commit.
+コミットをプッシュする前に、コミットメッセージを後で編集することもできます。
 
-Press Ctrl+Shift+K or choose VCS | Git | Push from the main menu. The Push Commits dialog opens showing all Git repositories (for multi-repository projects) and listing all commits made in the current branch in each repository since the last push.
+Ctrl+Shift+K を押すか、メインメニューから VCS | Git | Push を選びます。プッシュコミットダイアログが開き、すべての Git リポジトリ（複数のリポジトリを持つプロジェクトの場合）が表示され、前回のプッシュ以降に各リポジトリの現在のブランチで行われたすべてのコミットが一覧表示されます。
 
-## Submit your changes for review
+## 変更をレビューのために提出する
 
-At this point you have completed your change but it still only resides in your repo. This step will show you how to submit a request to the administrator of the top-level repo to merge your change.
+この時点で、あなたは変更を完了しましたが、それはまだあなたのリポジトリにしか存在しません。このステップでは、トップレベルのリポの管理者に変更をマージするリクエストを提出する方法を紹介します。
 
-In your repo on GitHub you'll see the `Compare & pull request` button next to the new branch notification. Click on that button.
+GitHub のあなたのリポジトリに、新しいブランチの通知の隣に `Compare & pull request` というボタンが表示されているはずです。そのボタンをクリックします。
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/compare-and-pull.png" alt="create a pull request" />
 
-Now submit the pull request.
+では、プルリクエストを送信します。
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/submit-pull-request.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
-## Where to go from here?
+## これからどこへ行くのか？
 
-Congrats! You have just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
+おめでとうございます！あなたは、投稿者としてよく遭遇する、標準的な「フォーク→クローン→編集→PR」のワークフローを完了したところです！
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io#social-share).
+あなたの貢献を称え、友人やフォロワーと共有しましょう。 [web app](https://firstcontributions.github.io#social-share).
 
 You can join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 
 ### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)
 
-## Tutorials Using Other Tools
+## 他のツールを使ったチュートリアル
 [Back to main page](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
