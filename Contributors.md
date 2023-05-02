@@ -1321,4 +1321,5 @@ Shrajan Jain
 - [Will](https://github.com/GestaltEXE/)
 - [Scholar618](https://github.com/Scholar618)
 - [Jamie Douglas](https://github.com/Jamelas)
+- [Lawson Tanner] (https://github.com/Hornbag)
 - <!-- prettier-ignore-end -->
