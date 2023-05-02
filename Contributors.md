@@ -1334,4 +1334,5 @@ Shrajan Jain
 - [Scholar618](https://github.com/Scholar618)
 - [Jamie Douglas](https://github.com/Jamelas)
 - [Lawson Tanner] (https://github.com/Hornbag)
+- [Manuel Menendez] (https://github.com/hudsonbay)
 - <!-- prettier-ignore-end -->
