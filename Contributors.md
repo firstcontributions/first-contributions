@@ -2,16 +2,21 @@
 
 <!-- prettier-ignore-start -->
 Tejas Chouhan
+- [SuJung Song](https://github.com/SONG-crystal)
+- [Vedant Adke](https://github.com/VedantAdke96)
+- [Gowri Priyanka](https://github.com/GowriPriyankaM)
 - [Gyaur](https://github.com/Gy4ur)
 - [Billy Phan](https://github.com/bphan002)
 - [koya-tech](https://github.com/koya-tech)
 - [James-Christie](https://github.com/James-Christie)
 - [ARYAN](https://github.com/aryanhr0001)
 - [Atharav](https://github.com/harshal-ishere)
+- [alonGitH](https://github.com/alonGitH)
 - [chamomil](https://github.com/chamomil)
 - [Rituraj](https://github.com/enrituraj)
 - [Nicekloe](https://github.com/Nicekloe)
 - [Pritse](https://github.com/Pritse)
+- [braylonsteffen](https://github.com/braylonsteffen)
 - [Daniel Johnson](https://github.com/Dev-Dannie)
 - [xavierjimz] (https://github.com/xavierjimz/)
 - [Satyam Nyati](https://github.com/satyamnyati)
@@ -24,6 +29,7 @@ Tejas Chouhan
 - [muralinet](https://github.com/muralinet/)
 - [roshaandev](https://github.com/roshaandev/)
 - [mrpgmr](https://github.com/https://github.com/mrpgmr67)
+- [Deepali Semwal](https://github.com/semwaldeepali)
 - [Ye Yint Myint Myat](https://github.com/yeyint-bee)
 - [John Clapper](https://github.com/britzky)
 - [Sahood cv](https://github.com/sahoodcode)
@@ -38,6 +44,7 @@ Tejas Chouhan
 - [Festus Abiatar](https://github.com/abiatarfestus)
 - [PetrAmbroz](https://github.com/petrambroz)
 - [Myat Min](https://github.com/MytMnSthU)
+- [Takahiro Sato](https://github.com/takahiro-1227)
 - [Jitesh Pahwa](https://github.com/jiteshpahwa04)
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
@@ -83,6 +90,7 @@ Tejas Chouhan
 - [Raj-101](https://github.com/Raj-101)
 - [MonBalogh](https://github.com/MonBalogh)
 - [Summer Babel](https://github.com/sumerbabel)
+-[Subham Thapa](https://github.com/WhimsicalWizard)
 - [just-now]
 - [Shubh Panwala](https://github.com/shubhpanwala)
 - [Mahmoud Ibrahiam](https://github.com/remahmoud)
@@ -102,6 +110,7 @@ Tejas Chouhan
 - [khunsai06](https://github.com/khunsai06)
 - [shivamxsurya](https://github.com/shivamxsurya)
 -Madhur Manan
+- [Nelson Matenda 🚀](https://github.com/nelsonmatenda)
 - [m-foskett](https://github.com/m-foskett)
 - [Christopher Lopez](https://github.com/BedlaminGoliath)
 - [HOUSSAM666](https://github.com/HOUSSAM666)
@@ -181,6 +190,7 @@ Tejas Chouhan
 - [Provab Mongchaw Khyang](https://github.com/notmongchaw)
 - [ranjith rosan]
 - [Andrei Kuniutka](https://github.com/akuniutka)
+- [Zaakir Kamar](https://github.com/ZaakirKamar)
 - [Chris Banks](https://github.com/Chrix197)
 - [Robert West](https://github.com/rolewest)
 - [Bedant Chhetri](https://github.com/bedantchh)
@@ -278,6 +288,7 @@ Tejas Chouhan
 - [Kiran Johnson](https://github.com/KiranJohns)
 - [JasminTajShaik](https://github.com/JasminTajShaik2601)
 - [Rishi Deshmukh](https://github.com/26rishiii)
+- [Ananta Prasannakumar](https://github.com/anantalp)
 - [Nishant Kumar](https://github.com/thinkwithcode)
 - [Precious Enyi](https://github.com/enyipreshious)
 - [Pragathees](https://github.com/pragasekar)
@@ -1310,6 +1321,7 @@ Shrajan Jain
 - [Andres F Cabezas Quicano](https://github.com/afcabezasq)
 - [Mirgiyasov Abubakr](https://github.com/abubakrmirgiyasov)
 - [Abhijit Prajapati](https://github.com/AbhijitPrajapati12)
+- [Milan Jolly](https://github.com/mijo2)
 - [ID-Yuu](https://github.com/Id-Yuu)
 - [Rvndddd] (https://github.com/revandpratama)
 - [Nick Partalis] (https://github.com/nickpartalis)
@@ -1322,4 +1334,7 @@ Shrajan Jain
 - [Scholar618](https://github.com/Scholar618)
 - [Jamie Douglas](https://github.com/Jamelas)
 - [Pranay Sethi](https://github.com/pranay136)
-- <!-- prettier-ignore-end -->
+- [Lawson Tanner] (https://github.com/Hornbag)
+- [Manuel Menendez] (https://github.com/hudsonbay)
+
+
