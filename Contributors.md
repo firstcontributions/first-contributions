@@ -1319,6 +1319,7 @@ Shrajan Jain
 - [Andres F Cabezas Quicano](https://github.com/afcabezasq)
 - [Mirgiyasov Abubakr](https://github.com/abubakrmirgiyasov)
 - [Abhijit Prajapati](https://github.com/AbhijitPrajapati12)
+- [Milan Jolly](https://github.com/mijo2)
 - [ID-Yuu](https://github.com/Id-Yuu)
 - [Rvndddd] (https://github.com/revandpratama)
 - [Nick Partalis] (https://github.com/nickpartalis)
