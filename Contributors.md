@@ -1312,4 +1312,5 @@ Shrajan Jain
 - [Kadir Gürtürk](https://github.com/kadirgurturk)
 - [Ezgi Coban](https://github.com/ezgi-c)
 - [Aron Onditi](https://github.com/AronOnditi/)
+- [Will](https://github.com/GestaltEXE/)
 <!-- prettier-ignore-end -->
