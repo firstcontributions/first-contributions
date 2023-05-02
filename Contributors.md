@@ -1310,4 +1310,5 @@ Shrajan Jain
 - [Phuc Phan] (https://github.com/pphuc25)
 - [Kadir Gürtürk](https://github.com/kadirgurturk)
 - [Aron Onditi](https://github.com/AronOnditi/)
+- [Will](https://github.com/GestaltEXE/)
 <!-- prettier-ignore-end -->
