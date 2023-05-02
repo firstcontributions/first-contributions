@@ -496,6 +496,7 @@ Tejas Chouhan
 - [Abhay Shak](https://github.com/Shaks20)
 - [Ananya Agarwal](https://github.com/ananyaa01)
 - [Ali El-Shamy](https://github.com/elshali)
+- [Shamil_Aliyev] (https://github.com/samil-web)
 - [Muneeb Shahid](https://github.com/muneeb706)
 - [Rami Shawwa](https://edbtz.com)
 - [Sibasis Panda](https://github.com/sibasispanda)
