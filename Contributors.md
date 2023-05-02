@@ -182,6 +182,7 @@ Tejas Chouhan
 - [Provab Mongchaw Khyang](https://github.com/notmongchaw)
 - [ranjith rosan]
 - [Andrei Kuniutka](https://github.com/akuniutka)
+- [Zaakir Kamar](https://github.com/ZaakirKamar)
 - [Chris Banks](https://github.com/Chrix197)
 - [Robert West](https://github.com/rolewest)
 - [Bedant Chhetri](https://github.com/bedantchh)
