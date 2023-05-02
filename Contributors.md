@@ -312,6 +312,7 @@ Tejas Chouhan
 - [Krishna-Kadu](https://github.com/KaiserKadu)
 - [Facundo Talavera](https://github.com/Fa2112)
 - [Timothy Chua](https://github.com/tdchua)
+- [Abu Usaid](https://github.com/AbuUsaid)
 - [Kasthuri-P](https://github.com/Kasthuri-P)
 - [Lucas Silva](https://github.com/lucca7r)
 - [Ritik Ranjan](https://github.com/ranjanritik5757)
