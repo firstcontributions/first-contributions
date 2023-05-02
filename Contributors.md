@@ -127,6 +127,7 @@ Tejas Chouhan
 - [Vaibhav Mahajan](https://github.com/vaibhav-3003)
 - [Trebb99](https://github.com/Trebb99)
 - [Kushanth-Reddy](https://github.com/Kushanth-Reddy)
+- [Corey Oliver](https://github.com/CoreyOliver)
 - [Arcturus](https://github.com/Arcturus-Motors)
 - Adithyanarayanan S
 - [Wesllen Alexandre](https://github.com/Wesllenbr)
