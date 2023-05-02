@@ -1319,4 +1319,5 @@ Shrajan Jain
 - [Aron Onditi](https://github.com/AronOnditi/)
 - [Will](https://github.com/GestaltEXE/)
 - [Scholar618](https://github.com/Scholar618)
+- [Jamie Douglas](https://github.com/Jamelas)
 - <!-- prettier-ignore-end -->
