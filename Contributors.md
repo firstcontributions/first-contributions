@@ -59,6 +59,7 @@ Tejas Chouhan
 - [Ayush_Chaudhari](https://github.com/the-bokya)
 - [Aleks_Lucenko](https://github.com/alekslucenko)
 - [Vineet Sirohi]
+- [Dewayne Austin]
 - [Sharon Kaufman](https://github.com/Sk-223)
 - [Divine Amunega](https://github.com/divineamunega)
 - [Adam_Logman](https://github.com/adamlquman)
