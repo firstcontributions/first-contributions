@@ -19,6 +19,7 @@
 - [ARYAN](https://github.com/aryanhr0001)
 - [Matias Mansilla](https://github.com/MansillaM)
 - [Atharav](https://github.com/harshal-ishere)
+- [Arthur Krom](https://github.com/Arthur-Krom)
 - [alonGitH](https://github.com/alonGitH)
 - [Simon Swopes](https://github.com/SpicyCircuit)
 - [chamomil](https://github.com/chamomil)
