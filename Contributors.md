@@ -30,6 +30,7 @@
 - [Emmanuel Okonkwo](https://github.com/mettad3v)
 - [braylonsteffen](https://github.com/braylonsteffen)
 - [Daniel Johnson](https://github.com/Dev-Dannie)
+- [Ross Silcott] (https://github.com/RCSilcott)
 - [xavierjimz] (https://github.com/xavierjimz/)
 - [Satyam Nyati](https://github.com/satyamnyati)
 - [Trottie McQueen] (https://github.com/trottiemcqueen)
