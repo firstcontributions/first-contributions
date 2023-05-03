@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Abtuly](https://github.com/Abtuly)
 - Tejas Chouhan
 - [Eugene](https://github.com/eugene0928)
 - [Luiz Augusto](https://github.com/luizAFS23)
