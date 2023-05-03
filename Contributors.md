@@ -40,6 +40,7 @@ Tejas Chouhan
 - [Harish Rane](https://github.com/AzadRane)
 - [Glen Wojnar](https://github.com/glwo)
 - [Nathamuni](https://github.com/Nathamuni)
+- [Dheeraj Saraogi](https://github.com/dheerajsaraogi)
 - [Tshenolo Mos](https://github.com/tshenolo)
 - [Suparnojit Sarkar](https://github.com/suparnojit)
 - [DimCel](https://github.com/dimcel)
