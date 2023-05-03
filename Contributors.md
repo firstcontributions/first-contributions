@@ -4,6 +4,7 @@
 - Tejas Chouhan
 - [Eugene](https://github.com/eugene0928)
 - [Luiz Augusto](https://github.com/luizAFS23)
+- [Ahsan Naqvi](https://github.com/s-ahsan-naqvi)
 - [Shivam Raj](https://github.com/SHIVAM-RAJ7)
 - [Rahul Dhavale](https://github.com/futureofworld)
 - [Droid Sumit](https://github.com/droidsumit)
