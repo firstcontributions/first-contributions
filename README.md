@@ -84,6 +84,12 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 
 #### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
+## Meaning of basic github terms
+	Fork- Is creating a copy of a certain project into your own repository for you to contribute.
+	Pull request- Is submiting the cganges you have made to a project for review.
+	Merge- Is a way of comparing or putting back the forked history. 
+	Clone- Is generating a copy of a project from github into of your own computer.
+	Branch- Is a pointer to a specific commit. 
 ## Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
