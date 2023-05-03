@@ -173,6 +173,7 @@
 - [Ashutosh Pandey]
   [Fathi Abdi](https://github.com/Fathyy)
 - [Oliver Warne]
+- [Anmol Matharu](https://github.com/anmolmatharu100)
 - [Chris E](https://github.com/cce2955)
 - [cqdev-fusion](https://github.com/cqdev-fusion)
 - [Tanbir Ali](https://github.com/tanbirali)
