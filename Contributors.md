@@ -1285,6 +1285,7 @@ Shrajan Jain
 - [Robin Muijs](https://github.com/RobinMuijs2000)
 - [Guan Zhi Wang](https://github.com/joe94113)
 - [Jing Yi]
+- [Paaad]
 - [Pranjit Medhi](https://github.com/real-zit)
 - [Amy Lam](https://github.com/amyhoanglam)
 - [Vipul Chawathe](https://github.com/CVipulS)
