@@ -30,6 +30,7 @@ Tejas Chouhan
 - [Chico Stick] (https://github.com/ChicoStickowo)
 - [Juli Levi](https://github.com/julilll)
 - [Sam Joshua](https://github.com/Sam-Joshua-S)
+- [Jay Adeyina](https://github.com/Hyuuga81)
 - [Woon Koh] (https://github.com/kohwdev)
 - [muralinet](https://github.com/muralinet/)
 - [roshaandev](https://github.com/roshaandev/)
