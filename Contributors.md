@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 Tejas Chouhan
+- [Droid Sumit](https://github.com/droidsumit)
 - [SuJung Song](https://github.com/SONG-crystal)
 - [Amanda Vien](https://github.com/amanduhkv)
 - [Vedant Adke](https://github.com/VedantAdke96)
