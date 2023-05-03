@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - Tejas Chouhan
+- [Luiz Augusto](https://github.com/luizAFS23)
 - [Rahul Dhavale](https://github.com/futureofworld)
 - [Droid Sumit](https://github.com/droidsumit)
 - [SuJung Song](https://github.com/SONG-crystal)
