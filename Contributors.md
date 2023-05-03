@@ -1346,4 +1346,6 @@ Shrajan Jain
 - [Lawson Tanner] (https://github.com/Hornbag)
 - [Manuel Menendez] (https://github.com/hudsonbay)
 - [Jorge Torres] (https://github.com/jotorres1)
+- [Asmita Sagarkar] (https://github.com/AsmitaSagarkar)
+
 - <!-- prettier-ignore-end -->
