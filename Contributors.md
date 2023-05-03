@@ -1239,6 +1239,7 @@ Shrajan Jain
 - [Sagnik Pramanik](https://github.com/sagnik-p)
 - [Vishal Singh](https://github.com/VisiCool)
 - [Ritam Sanyal](https://github.com/RitamSanyal)
+- [Lionel Ritchie](https://github.com/lionelritchie29)
 - [Diego Uchoa Neves](https://github.com/diego-uchoa)
 - [James Christley](https://github.com/JamesChristley)
 - [Kavya] (https://github.com/KavyaJampani)
