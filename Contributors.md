@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - Tejas Chouhan
+- [Eugene](https://github.com/eugene0928)
 - [Luiz Augusto](https://github.com/luizAFS23)
 - [Shivam Raj](https://github.com/SHIVAM-RAJ7)
 - [Rahul Dhavale](https://github.com/futureofworld)
