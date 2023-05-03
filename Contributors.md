@@ -1,7 +1,13 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-Tejas Chouhan
+- [Abtuly](https://github.com/Abtuly)
+- Tejas Chouhan
+- [Eugene](https://github.com/eugene0928)
+- [Luiz Augusto](https://github.com/luizAFS23)
+- [Ahsan Naqvi](https://github.com/s-ahsan-naqvi)
+- [Shivam Raj](https://github.com/SHIVAM-RAJ7)
+- [Rahul Dhavale](https://github.com/futureofworld)
 - [Droid Sumit](https://github.com/droidsumit)
 - [SuJung Song](https://github.com/SONG-crystal)
 - [Amanda Vien](https://github.com/amanduhkv)
@@ -13,7 +19,9 @@ Tejas Chouhan
 - [koya-tech](https://github.com/koya-tech)
 - [James-Christie](https://github.com/James-Christie)
 - [ARYAN](https://github.com/aryanhr0001)
+- [Matias Mansilla](https://github.com/MansillaM)
 - [Atharav](https://github.com/harshal-ishere)
+- [Arthur Krom](https://github.com/Arthur-Krom)
 - [alonGitH](https://github.com/alonGitH)
 - [Simon Swopes](https://github.com/SpicyCircuit)
 - [chamomil](https://github.com/chamomil)
@@ -23,6 +31,7 @@ Tejas Chouhan
 - [Emmanuel Okonkwo](https://github.com/mettad3v)
 - [braylonsteffen](https://github.com/braylonsteffen)
 - [Daniel Johnson](https://github.com/Dev-Dannie)
+- [Ross Silcott] (https://github.com/RCSilcott)
 - [xavierjimz] (https://github.com/xavierjimz/)
 - [Satyam Nyati](https://github.com/satyamnyati)
 - [Trottie McQueen] (https://github.com/trottiemcqueen)
@@ -30,6 +39,7 @@ Tejas Chouhan
 - [Chico Stick] (https://github.com/ChicoStickowo)
 - [Juli Levi](https://github.com/julilll)
 - [Sam Joshua](https://github.com/Sam-Joshua-S)
+- [Jay Adeyina](https://github.com/Hyuuga81)
 - [Woon Koh] (https://github.com/kohwdev)
 - [muralinet](https://github.com/muralinet/)
 - [roshaandev](https://github.com/roshaandev/)
@@ -58,6 +68,7 @@ Tejas Chouhan
 - [Ayush_Chaudhari](https://github.com/the-bokya)
 - [Aleks_Lucenko](https://github.com/alekslucenko)
 - [Vineet Sirohi]
+- [Dewayne Austin]
 - [Sharon Kaufman](https://github.com/Sk-223)
 - [Divine Amunega](https://github.com/divineamunega)
 - [Adam_Logman](https://github.com/adamlquman)
@@ -169,6 +180,7 @@ Tejas Chouhan
 - [Ashutosh Pandey]
   [Fathi Abdi](https://github.com/Fathyy)
 - [Oliver Warne]
+- [Anmol Matharu](https://github.com/anmolmatharu100)
 - [Chris E](https://github.com/cce2955)
 - [cqdev-fusion](https://github.com/cqdev-fusion)
 - [Tanbir Ali](https://github.com/tanbirali)
@@ -622,6 +634,7 @@ Tejas Chouhan
 - [Donatus Tamajong](https://github.com/Donatus)
 - [Rucha Daware](https://github.com/ruchadaware18)
 - [Prerit Agrawal](https://github.com/preritagrawal06)
+[Mohammed Odejimi](https://github.com/MohOdejimi)
 - [Chiranjit Debnath](https://github.com/tomtanner)
 - [JSTNSNE](https://github.com/JSTNSNE)
 - [Mohamed Mostafa](https://github.com/mohamedmostafakhudari)
@@ -1289,6 +1302,7 @@ Shrajan Jain
 - [Jing Yi]
 - [Paaad]
 - [Pranjit Medhi](https://github.com/real-zit)
+- [Agent J](https://github.com/J-0110)
 - [Amy Lam](https://github.com/amyhoanglam)
 - [Vipul Chawathe](https://github.com/CVipulS)
 - [Cahya Pangestu](https://github.com/cahya24)
@@ -1342,13 +1356,19 @@ Shrajan Jain
 - [Phuc Phan] (https://github.com/pphuc25)
 - [Kadir Gürtürk](https://github.com/kadirgurturk)
 - [Ezgi Coban](https://github.com/ezgi-c)
+- [wah9n](https://github.com/wah9n)
 - [Aron Onditi](https://github.com/AronOnditi/)
 - [Will](https://github.com/GestaltEXE/)
 - [Scholar618](https://github.com/Scholar618)
 - [Jamie Douglas](https://github.com/Jamelas)
+- [Julio](https://github.com/JulioC-19)
 - [Lawson Tanner] (https://github.com/Hornbag)
 - [Manuel Menendez] (https://github.com/hudsonbay)
 - [Jorge Torres] (https://github.com/jotorres1)
 - [Aryan Pirhashemi] (https://github.com/aryan-pirhashemi)
+- [Ezekiel Ogeto Mose] (https://github.com/ezekielmose)
+- [Link Häggman](https://github.com/LinkTheCoder)
+- [Ngobo Ridy Franck Rich](https://github.com/Fantasy-programming)
 - [frenchafgan] (https://github.com/frenchafgan)
-- <!-- prettier-ignore-end -->
+<!-- prettier-ignore-end -->
+
