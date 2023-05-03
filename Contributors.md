@@ -1,7 +1,9 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-Tejas Chouhan
+- Tejas Chouhan
+- [Rahul Dhavale](https://github.com/futureofworld)
+- [Droid Sumit](https://github.com/droidsumit)
 - [SuJung Song](https://github.com/SONG-crystal)
 - [Amanda Vien](https://github.com/amanduhkv)
 - [Vedant Adke](https://github.com/VedantAdke96)
@@ -12,6 +14,7 @@ Tejas Chouhan
 - [koya-tech](https://github.com/koya-tech)
 - [James-Christie](https://github.com/James-Christie)
 - [ARYAN](https://github.com/aryanhr0001)
+- [Matias Mansilla](https://github.com/MansillaM)
 - [Atharav](https://github.com/harshal-ishere)
 - [alonGitH](https://github.com/alonGitH)
 - [Simon Swopes](https://github.com/SpicyCircuit)
@@ -29,6 +32,7 @@ Tejas Chouhan
 - [Chico Stick] (https://github.com/ChicoStickowo)
 - [Juli Levi](https://github.com/julilll)
 - [Sam Joshua](https://github.com/Sam-Joshua-S)
+- [Jay Adeyina](https://github.com/Hyuuga81)
 - [Woon Koh] (https://github.com/kohwdev)
 - [muralinet](https://github.com/muralinet/)
 - [roshaandev](https://github.com/roshaandev/)
@@ -57,6 +61,7 @@ Tejas Chouhan
 - [Ayush_Chaudhari](https://github.com/the-bokya)
 - [Aleks_Lucenko](https://github.com/alekslucenko)
 - [Vineet Sirohi]
+- [Dewayne Austin]
 - [Sharon Kaufman](https://github.com/Sk-223)
 - [Divine Amunega](https://github.com/divineamunega)
 - [Adam_Logman](https://github.com/adamlquman)
@@ -142,6 +147,7 @@ Tejas Chouhan
 - [Anierobi Esther](https://github.com/Esther146)
 - [Surafel fikru](https://github.com/arist76)
 - [Alona Daphna](https://github.com/alona-daphna)
+- [Dmytro Malienik](https://github.com/dmalenik)
 - [Kaung Khant](https://github.com/KaungK2001)
 - [Kerim Kilic](https://github.com/kerim-kilic)
 - [Abisola Oluwaseun Olayinka](https://github.com/Abisola-O)
@@ -167,6 +173,7 @@ Tejas Chouhan
 - [Ashutosh Pandey]
   [Fathi Abdi](https://github.com/Fathyy)
 - [Oliver Warne]
+- [Anmol Matharu](https://github.com/anmolmatharu100)
 - [Chris E](https://github.com/cce2955)
 - [cqdev-fusion](https://github.com/cqdev-fusion)
 - [Tanbir Ali](https://github.com/tanbirali)
@@ -1285,6 +1292,7 @@ Shrajan Jain
 - [Robin Muijs](https://github.com/RobinMuijs2000)
 - [Guan Zhi Wang](https://github.com/joe94113)
 - [Jing Yi]
+- [Paaad]
 - [Pranjit Medhi](https://github.com/real-zit)
 - [Amy Lam](https://github.com/amyhoanglam)
 - [Vipul Chawathe](https://github.com/CVipulS)
@@ -1343,8 +1351,12 @@ Shrajan Jain
 - [Will](https://github.com/GestaltEXE/)
 - [Scholar618](https://github.com/Scholar618)
 - [Jamie Douglas](https://github.com/Jamelas)
+- [Julio](https://github.com/JulioC-19)
 - [Lawson Tanner] (https://github.com/Hornbag)
 - [Manuel Menendez] (https://github.com/hudsonbay)
 - [Jorge Torres] (https://github.com/jotorres1)
 - [Asmita Sagarkar](https://github.com/AsmitaSagarkar)
+- [Aryan Pirhashemi] (https://github.com/aryan-pirhashemi)
+- [Ezekiel Ogeto Mose] (https://github.com/ezekielmose)
+- [Link Häggman](https://github.com/LinkTheCoder)
 - <!-- prettier-ignore-end -->
