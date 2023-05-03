@@ -1351,4 +1351,5 @@ Shrajan Jain
 - [Manuel Menendez] (https://github.com/hudsonbay)
 - [Jorge Torres] (https://github.com/jotorres1)
 - [Aryan Pirhashemi] (https://github.com/aryan-pirhashemi)
+- [Ezekiel Ogeto Mose] (https://github.com/ezekielmose)
 - <!-- prettier-ignore-end -->
