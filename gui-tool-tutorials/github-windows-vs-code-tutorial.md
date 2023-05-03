@@ -3,111 +3,113 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-# 最初の貢献度
+# First Contributions
 
 | <img alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width="40"> | Visual Studio Code |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
 
 
-難しいですね。初めて何かをするときは、いつも難しいものです。特に共同作業をしているときは、間違いを犯すことは快適なことではありません。しかし、オープンソースは、コラボレーションと協力がすべてです。私たちは、オープンソースの新しい貢献者が初めて学び、貢献する方法を簡素化したいと考えました。
+It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
-記事を読んだり、チュートリアルを見たりすることは助けになりますが、何も失敗せずに実際にやってみることよりも良いことがあります。このプロジェクトは、新人が最初の貢献をする際のガイダンスを提供し、その方法を簡素化することを目的としています。リラックスしていればいるほど、より良い学習ができることを忘れないでください。もし、あなたが最初の投稿をしようとしているのなら、以下の簡単なステップに従うだけです。私たちはあなたに約束します、それは楽しいでしょう。
+Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are, the better you learn. If you are looking for making your first contribution, just follow the simple steps below. We promise you, it will be fun.
 
-もし、あなたのマシンにVisual Studio Codeがない場合、 [install it](https://code.visualstudio.com/download).
+If you don't have Visual Studio Code on your machine, [install it](https://code.visualstudio.com/download).
 
-**お知らせ:** このチュートリアルは、Windows 10マシンでVisual Studio Code（バージョン1.27.2）を使用して作成しました。このチュートリアルの後半では、いくつかのキーボードショートカットを使用します。これらは、他のオペレーティングシステム（macOS/Linux）だけでなく、キーボードの言語（UK、DEなど）でも異なる場合があります。コマンドパレットで「ショートカット」と検索すると、ショートカットのリストに目を通すことができます。
+**Notice:** This tutorial was made using Visual Studio Code (Version 1.27.2) on a Windows 10 machine. Later in this tutorial we will make use of some keyboard shortcuts. These may differ on other operating systems (macOS/Linux) as well as keyboard language (UK, DE, etc). You can go through your list of shortcuts by searching "shortcut" in the Command Palette.
 
-## このリポジトリをフォークする
+## Fork this repository
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-このページの右上にあるフォークボタンをクリックして、このレポをフォークしてください。これで、あなたの GitHub アカウントにこのリポジトリのコピーが作成されます。
+Fork this repo by clicking on the fork button on the top right of this page. This will create a copy of this repository in your GitHub account.
 
-GitHub は、あなたのレポとフォークしたレポの関係を記録しています。自分のレポは作業コピーと考えることができます。
+GitHub keeps track of the relationship between your repo and the one you have forked it from. You can think of your repo as a working copy.
 
-ほとんどのトップレベルのGitHubリポジトリ（つまり、他のリポジトリからフォークされていないもの）には、直接変更をコミットできる小さなコアチームがあります。他のすべての貢献者は、そのレポをフォークして変更を加え、その変更をトップレベルレポにマージしてもらうために Pull Request を作成する必要があります。トップレベル・リポの管理者がその変更を気に入ればマージされ、あなたはすぐに名声と富を手に入れることができます！この方法については、後で詳しく説明します。
+Most top-level GitHub repos (i.e. ones not forked from any other repo) have a small core team of people who can directly commit changes. All other contributors must fork the repo and make changes in the fork, then create a Pull Request to ask for their changes to be merged back into the top-level repo. If the top-level repo administrator likes the changes they will be merged and you will gain instant fame and fortune! More on how to do that later.
 
-## リポジトリのクローンを作成する
+## Clone your repository
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-次のステップは、変更を開始できるように、あなたのマシンにレポをクローンすることです。VS CodeはリポのURLを必要とするので、コードボタンをクリックし、「クリップボードにコピー」アイコンをクリックします。
+The next step is to clone your repo down to your machine so you can begin making changes. VS Code needs the URL of your repo, so click the code button and then click the "copy to clipboard" icon.
 
-**CAREFUL:** 新しい貢献者がよく犯す間違いは、自分のレポをクローンするのではなく、自分がフォークしたレポをクローンすることです。ブラウザのアドレスバーを確認し、自分のレポをクローンしていることを確認してください。
+**CAREFUL:** One mistake that new contributors often make is to clone the repo you forked _from_ rather than cloning your repo. Check your browser's address bar and make sure you are cloning your repo.
 
-次に、Visual Studio Codeを開いてください。VS Codeのウェルカムページがポップアップします。そこで `F1` を押すと、以下のようなバーが表示されます。テキストフィールドにすでに `>` (greater than) 記号があることに注目してください。また、`CTRL-P` を押して `>` 文字を入力することでも、入力プロンプトを表示することができます。
+Now open up Visual Studio Code. The welcome page of VS Code will pop up. From there press `F1` to open up the bar shown below. Notice that there is already a `>` (greater than) sign in the text field. You can also get to the input prompt by pressing `CTRL-P` and then type the `>` character.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-clone.png" alt="Clone Popup (Command Popup)" />
 
-以下のリストに、すでによくわからないコマンドがあることにお気づきでしょうか。これらは、私が最近使ったコマンドです。だから、気にしないでください。
+You may notice that there are already some obscure commands listed below. Those are my recently used commands. So just don't care about them.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-clone1.png" alt="Clone repo" />
 
-ここで、`git clone`と入力し、`git`または`clone`だけを入力します（検索のように動作します）。
-Git.Clone`というエントリを選択します： Clone` を選択し、`Enter`キーを押します。
+Now type in `git clone`, only `git` or `clone` (it works like a search).
+Select the Entry `Git: Clone` and press `Enter`
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-clone2.png" alt="Paste Repository URL in" />
 
-リポジトリの URL を貼り付けて、`Enter` キーを押します。ファイルエクスプローラーが開き、Git リポジトリを保存する場所を選択できます。
+Paste the URL of your repository and press `Enter`. This will open up a File Explorer where you can then choose where the Git repository should be stored.
 
-**重要**: 元のリポジトリではなく、フォークされたリポジトリであることを確認してください、そうでない場合は動作しません。
+**Important**: Make sure it is the forked repository and not the original one, otherwise it won't work.
+
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-clone3.png" alt="Status popup" />
 
-Visual Studio Codeの右下にステータスのポップアップが表示されるはずです。終了後、ダイアログのボタンを使ってクローンされたリポジトリ（現在はマシン上のフォルダ）を開くことができます。
+You should see a status popup on the bottom right of Visual Studio Code. After it has finished, you can open up the cloned repository (now a folder on your machine) using the buttons in the dialog.
 
-## ブランチを作成する
+## Create a branch
 
-F1`を押して、再びコマンドパレットを開きます。branch`と入力し、そこから`create branch`コマンドを選択します。次のステップでは、新しいブランチの名前を入力します（例：`add-david-kroell`）。Enter キーを押すと、ブランチが作成されます。このブランチはすでにチェックアウトされています。 [What does checkout mean?](https://www.git-scm.com/docs/git-checkout)
+Open up the command palette again by pressing `F1`. Type in `branch` and select the `create branch` command from there. In the next step type in the name of your new branch, for example `add-david-kroell`. Press enter and the branch will be created. The branch is also already checked out. [What does checkout mean?](https://www.git-scm.com/docs/git-checkout)
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-branch.png" alt="Branches Command Palette" />
 
-## 必要な変更を行う
+## Make necessary changes
 
 Open `Contributors.md` and add your name anywhere in the file. This file contains GFM (GitHub Flavored Markdown) which is a proprietary flavor of the <a href="https://en.wikipedia.org/wiki/Markdown">markdown</a> syntax.
 
-他の投稿者&apos;の行をコピーして、自分の名前を入れて修正することで、構文が正しいことを確認します。
+Copy one of the other contributors&apos; lines and modify it with your name to make sure you get the syntax right - it can be picky.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-changes.png" alt="Add your name" />
 
-## コミットして変更をGitHubにプッシュする
+## Commit & Push changes to GitHub
 
-VS Codeの左側には、5つのアイコンが表示されたメニューがあります。バージョン管理/ソース管理」アイコンを選択します。
+On the left side of VS Code is a menu with 5 icons displayed. Select the version control/Source Control icon.
 (Shortcut : Ctrl + Shift + G)
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-commit.png" alt="Commit changes" />
 
-ファイルエクスプローラーには、最後のコミット以降に変更されたすべてのファイルが表示されます。ファイルをホバーして `+` (プラス) をクリックすると、ファイルがステージングされます。
+The file explorer displays all files which were changed after the last commit. By hovering the files and clicking the `+` (plus) the files are staged.
+
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-commit1.png" alt="Stashed Files">
 
-Tエクスプローラー上部の行に何かを入力し、チェックマークを押してください。これで変更がローカルコピーにコミットされました。あとは、変更をGitHubにプッシュバックする必要があります。
+Type something in the line on top of the explorer and press the checkmark. The changes are now committed to your local copy. Now the changes have to be pushed back to GitHub.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-push.png" alt="Stashed Files">
 
-三点アイコンを使ってメニューを開き、`Publish Branch` オプションを選択します。GitHub の認証情報を入力するためのダイアログが表示されます。
+Use the three-dot icon to open up the menu where you select the `Publish Branch` option. This should open up a dialog to put your GitHub credentials in.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-gh-auth.png" alt="Stashed Files">
 
-## 変更内容を送信し、レビューを受ける
+## Submit your changes for review
 
-この時点で、あなたは変更を完了しましたが、それはまだあなたのリポジトリにしか存在しません。このステップでは、トップレベルのリポの管理者に変更をマージするリクエストを提出する方法を紹介します。
+At this point you have completed your change but it still only resides in your repo. This step will show you how to submit a request to the administrator of the top-level repo to merge your change.
 
-GitHub のあなたのリポジトリに、新しいブランチの通知の隣に `Compare & pull request` というボタンが表示されているはずです。そのボタンをクリックします。
+In your repo on GitHub you'll see the `Compare & pull request` button next to the new branch notification. Click on that button.
 
 <img src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-では、プルリクエストを送信します。
+Now submit the pull request.
 
 <img src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-まもなく、あなたの変更点をすべてこのプロジェクトのmasterブランチにマージする予定です。変更がマージされると、通知メールが届きます。
+Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
-## これからの方向性?
+## Where to go from here?
 
-おめでとうございます！あなたは今、貢献者として頻繁に遭遇する標準的な_fork -> clone -> edit -> PR_のワークフローを完了しました！
+Congrats! You have just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
-あなたの貢献を称え、友人やフォロワーと共有しましょう。 [web app](https://firstcontributions.github.io#social-share).
+Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io#social-share).
 
-ヘルプが必要な場合や質問がある場合に備えて、slackチームに参加することができます。 [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+You can join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 
 ### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)
