@@ -1,7 +1,8 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-Tejas Chouhan
+- Tejas Chouhan
+- [Rahul Dhavale](https://github.com/futureofworld)
 - [Droid Sumit](https://github.com/droidsumit)
 - [SuJung Song](https://github.com/SONG-crystal)
 - [Amanda Vien](https://github.com/amanduhkv)
