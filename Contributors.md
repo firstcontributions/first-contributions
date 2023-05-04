@@ -1374,4 +1374,6 @@ Shrajan Jain
 - [Ngobo Ridy Franck Rich](https://github.com/Fantasy-programming)
 - [DreiAABatterien](https://github.com/DreiAABatterien)
 - [QiPing Song](https://github.com/SongQiPing)
+- [Senda quoicoubeh](https://github.com/S3nda)
+
 <!-- prettier-ignore-end -->
