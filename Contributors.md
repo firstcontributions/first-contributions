@@ -114,6 +114,7 @@
 - [Raj-101](https://github.com/Raj-101)
 - [MonBalogh](https://github.com/MonBalogh)
 - [Summer Babel](https://github.com/sumerbabel)
+- [Kunal Virk](https://github.com/kunalvirk)
 -[Subham Thapa](https://github.com/WhimsicalWizard)
 - [just-now]
 - [Shubh Panwala](https://github.com/shubhpanwala)
