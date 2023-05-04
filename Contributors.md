@@ -568,6 +568,7 @@
 - [Deepali Sayana](https://github.com/deepseas07)
 - [Sayan Bose](https://github.com/sayanbose1)
 - [André Carvalhal](https://github.com/ANDREC1986)
+Cody LeRoy
 - [Rahul Saha](https://github.com/Rahul10Saha)
 - [Shaswat Satyam](https://github.com/shaswat-satyam)
 - [Vishal](https://github.com/VishalPraneeth)
