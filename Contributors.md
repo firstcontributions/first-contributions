@@ -37,6 +37,7 @@ Tejas Chouhan
 - [Glen Wojnar](https://github.com/glwo)
 - [Nathamuni](https://github.com/Nathamuni)
 - [Tshenolo Mos](https://github.com/tshenolo)
+- [Sayak Mandal](https://github.com/Sayak-58)
 - [Suparnojit Sarkar](https://github.com/suparnojit)
 - [DimCel](https://github.com/dimcel)
 - [Mirza Hilmi](https://github.com/MirzaHilmi/)
