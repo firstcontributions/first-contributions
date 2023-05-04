@@ -1371,4 +1371,5 @@ Shrajan Jain
 - [Ezekiel Ogeto Mose] (https://github.com/ezekielmose)
 - [Link Häggman](https://github.com/LinkTheCoder)
 - [Ngobo Ridy Franck Rich](https://github.com/Fantasy-programming)
+- [DreiAABatterien](https://github.com/DreiAABatterien)
 <!-- prettier-ignore-end -->
