@@ -100,6 +100,7 @@
 - [Venkatesh-KCET](https://github.com/Venkatesh-KCET)
 - [Vivek Kumar](https://github.com/vivekkumar0037)
 - [Abhijeet](https://github.com/abhi-jeet-kumar)
+- [Jagger Harness](https://github.com/jaggerharness)
 - [namedmichi](https://github.com/namedmichi)
 - [gyanash.ekka](https://github.com/gyanAsh)
 - [max.jon](https://github.com/MaxJonssonDS)
