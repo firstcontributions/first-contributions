@@ -1373,4 +1373,5 @@ Shrajan Jain
 - [Link Häggman](https://github.com/LinkTheCoder)
 - [Ngobo Ridy Franck Rich](https://github.com/Fantasy-programming)
 - [DreiAABatterien](https://github.com/DreiAABatterien)
+- [QiPing Song](https://github.com/SongQiPing)
 <!-- prettier-ignore-end -->
