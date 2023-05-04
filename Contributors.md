@@ -513,6 +513,7 @@
 - [Aman Choudhary](https://github.com/aman-choudhary1)
 - [Dmitrii Sidenko](https://github.com/DmSide)
 - [Heloise Ouvry](https://github.com/heloiseouvry)
+- [White Hat Gamer](https://GitHub.com/WhiteHatGamer)
 - [Santiago Urbano](https://github.com/sanurb)
 - [સ્મિત કાછડીયા](https://github.com/smeekas)
 - [Rao Khuram Shahzad](https://github.com/KhuramShahzad-5335)
