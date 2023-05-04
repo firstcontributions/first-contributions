@@ -1380,4 +1380,5 @@ Shrajan Jain
 - [DreiAABatterien](https://github.com/DreiAABatterien)
 - [QiPing Song](https://github.com/SongQiPing)
 - [loite](https://github.com/loite)
+- [Pickwick Rudge](https://github.com/pickwick-rudge)
 <!-- prettier-ignore-end -->
