@@ -42,7 +42,7 @@
 </div>
 <img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 <div dir="rtl">
-افتح الطرفية واكتب الأمر التالي:
+افتح الطرفية وأُكتب الأمر التالي:
 </div>
 
 ```
