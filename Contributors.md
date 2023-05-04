@@ -398,6 +398,7 @@
 - [Reddi-Tarun](https://github.com/REDDITARUN)
 - [samarthbagga](https://github.com/samarthbagga)
 - [KratikJain10](https://github.com/KratikJain10)
+- Néstor Moreno
 - [Ronny Barahona](https://github.com/ronnyb378)
 - [Ronke Akinmosin](https://github.com/ronke-susan)
 - [RogueTM](https://github.com/RogueTMs)
@@ -568,6 +569,7 @@
 - [Deepali Sayana](https://github.com/deepseas07)
 - [Sayan Bose](https://github.com/sayanbose1)
 - [André Carvalhal](https://github.com/ANDREC1986)
+Cody LeRoy
 - [Rahul Saha](https://github.com/Rahul10Saha)
 - [Shaswat Satyam](https://github.com/shaswat-satyam)
 - [Vishal](https://github.com/VishalPraneeth)
