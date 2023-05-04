@@ -54,6 +54,7 @@
 - [Nathamuni](https://github.com/Nathamuni)
 - [Dheeraj Saraogi](https://github.com/dheerajsaraogi)
 - [Tshenolo Mos](https://github.com/tshenolo)
+- [Sayak Mandal](https://github.com/Sayak-58)
 - [Suparnojit Sarkar](https://github.com/suparnojit)
 - [DimCel](https://github.com/dimcel)
 - [Mirza Hilmi](https://github.com/MirzaHilmi/)
