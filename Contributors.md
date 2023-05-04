@@ -105,6 +105,7 @@
 - [Sudhir Jaiswal](https://github.com/Coder-in-a-shell)
 - [Devasya Rajguru]
 - [Toby Frick](https://github.com/FrickTob)
+- [Vivek Kumar](https//github.com/zeal2end)
 - [Darren Harris](https://github.com/theharriscode)
 - [Albert Jannsen Ramos](https://github.com/HuggableCapybara)
 - [Raj-101](https://github.com/Raj-101)
