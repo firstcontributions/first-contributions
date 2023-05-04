@@ -625,6 +625,7 @@
 - [Ananthu AK](https://github.com/akanandhu)
 - [Oyebola adefolajuwon](https://github.com/Adefolajuwon)
 - [Abdul Waheed](https://github.com/waheedsid)
+- [Wid Suba](https://github.com/Megalodonix)
 - [Andres Emedan](https://github.com/andresemedan)
 - [Abhiram Reddy Mungi](https://github.com/AbhiramMngi)
 - [Ikako Core](https://github.com/irakli777irakli)
