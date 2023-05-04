@@ -1376,6 +1376,7 @@ Shrajan Jain
 - [Aryan Pirhashemi] (https://github.com/aryan-pirhashemi)
 - [Ezekiel Ogeto Mose] (https://github.com/ezekielmose)
 - [Link Häggman](https://github.com/LinkTheCoder)
+- [KaskapaCode](https://github.com/KaskapaCode)
 - [Ngobo Ridy Franck Rich](https://github.com/Fantasy-programming)
 - [DreiAABatterien](https://github.com/DreiAABatterien)
 - [QiPing Song](https://github.com/SongQiPing)
