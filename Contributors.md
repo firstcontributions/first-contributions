@@ -1380,4 +1380,5 @@ Shrajan Jain
 - [DreiAABatterien](https://github.com/DreiAABatterien)
 - [QiPing Song](https://github.com/SongQiPing)
 - [loite](https://github.com/loite)
+- [Siddharth Saraf](https://github.com/XSiddhSaraf)
 <!-- prettier-ignore-end -->
