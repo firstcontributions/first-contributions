@@ -109,7 +109,7 @@ Sous peu, je fusionnerai tous vos changements dans la branche principale de ce p
 
 ## Rester à jour avec votre dépôt et ce dépôt GitHub
 
-Sur GitHub, naviguez jusqu'à la page principale du dépôt forké que vous souhaitez synchroniser(en occurence, votre dépôt) avec ce dépôt. Sélectionnez la liste déroulante Fetch upstream, cliquez sur le bouton 'fetch and merge' puis c'est bon 😉.
+Sur GitHub, naviguez jusqu'à la page principale du dépôt forké que vous souhaitez synchroniser(en occurence, votre dépôt) avec ce dépôt. Sélectionnez la liste déroulante Fetch upstream, cliquez sur le bouton 'Fetch and merge' ou bien 'Sync fork' puis c'est bon 😉.
 
 ## Tutoriels en utilisant d'autres outils
 
