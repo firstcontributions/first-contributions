@@ -1404,11 +1404,8 @@ Shrajan Jain
 - [QiPing Song](https://github.com/SongQiPing)
 - [loite](https://github.com/loite)
 - [Pickwick Rudge](https://github.com/pickwick-rudge)
-<<<<<<< HEAD
-- [Geoffrey Logovi](https://github.com/geoffreylgv)
-=======
 - [safe rabbit](https://github.com/saferabbit/)
 - [abdelfattah lutfi]
 - [obiwan04kanobi](https://github.com/obiwan04kanobi)
->>>>>>> f74d41b7302619761d23cd78f54474df63fde055
+- [Geoffrey Logovi](https://github.com/geoffreylgv)
 <!-- prettier-ignore-end -->
