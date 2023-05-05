@@ -353,7 +353,7 @@
 - [Joseph Martinez](https://github.cogit switch -c add-alonzo-churchm/jsmartinez11)
 - [Joshua Rodriguez😁](https://github.com/joshua-rdrgz)
 - [Bzucak12](https://github.com/Bzucak12/)
-- [Aniket Anilkumar] [Vaah Modiji Vaah]
+- [Aniket Anilkumar] [https://github.com/a-aniket19]
 - [Grahanam](https://github.com/Grahanam)
 - [kaushalgosaliya5](https://github.com/kaushalgosaliya5)
 - [Taaki](https://github.com/taaki2311)
