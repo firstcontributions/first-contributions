@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- Jagdish Kancharapu
 - [Noobility](https://github.com/Noobility)
 - [Abtuly](https://github.com/Abtuly)
 - Tejas Chouhan
