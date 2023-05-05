@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Noobility](https://github.com/Noobility)
 - [Abtuly](https://github.com/Abtuly)
 - Tejas Chouhan
 - [Eugene](https://github.com/eugene0928)
