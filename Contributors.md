@@ -1409,4 +1409,5 @@ Shrajan Jain
 - [abdelfattah lutfi]
 - [Abhiroop](https://github.com/Abhi-1200/)
 - [obiwan04kanobi](https://github.com/obiwan04kanobi)
+- [Geoffrey Logovi](https://github.com/geoffreylgv)
 <!-- prettier-ignore-end -->
