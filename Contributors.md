@@ -8,6 +8,7 @@
 - [Ahsan Naqvi](https://github.com/s-ahsan-naqvi)
 - [Shivam Raj](https://github.com/SHIVAM-RAJ7)
 - [Rahul Dhavale](https://github.com/futureofworld)
+- [Dilshad](https://github.com/a-rustacean)
 - [Droid Sumit](https://github.com/droidsumit)
 - [SuJung Song](https://github.com/SONG-crystal)
 - [Amanda Vien](https://github.com/amanduhkv)
