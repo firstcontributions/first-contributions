@@ -515,6 +515,7 @@
 - [Matty Charitan](https://github.com/Matty-charitan)
 - [Thomas Furay](https://github.com/TFuray)
 - [Aushio](https://github.com/Aushio)
+- [HamzaB](https://github.com/waffletester)
 - [clickednebula3](https://github.com/clickednebula3)
 - [Shikhar Bhargava](https://github.com/shikharbsar)
 - [Piyush Raviraj](https://github.com/Piyushraviraj2611)
