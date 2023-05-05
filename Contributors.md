@@ -1391,4 +1391,5 @@ Shrajan Jain
 - [QiPing Song](https://github.com/SongQiPing)
 - [loite](https://github.com/loite)
 - [Pickwick Rudge](https://github.com/pickwick-rudge)
+- [Geoffrey Logovi](https://github.com/geoffreylgv)
 <!-- prettier-ignore-end -->
