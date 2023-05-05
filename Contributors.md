@@ -1391,6 +1391,7 @@ Shrajan Jain
 - [Will](https://github.com/GestaltEXE/)
 - [Scholar618](https://github.com/Scholar618)
 - [Jamie Douglas](https://github.com/Jamelas)
+- [Whitris](https://github.com/Whitris)
 - [Julio](https://github.com/JulioC-19)
 - [Lawson Tanner] (https://github.com/Hornbag)
 - [Manuel Menendez] (https://github.com/hudsonbay)
