@@ -67,6 +67,7 @@
 - [Tshenolo Mos](https://github.com/tshenolo)
 - [Sayak Mandal](https://github.com/Sayak-58)
 - [Suparnojit Sarkar](https://github.com/suparnojit)
+- [Tushar GH](https://github.com/Tushar12222)
 - [DimCel](https://github.com/dimcel)
 - [Mirza Hilmi](https://github.com/MirzaHilmi/)
 - [Blane Winstead](https://github.com/BlaneWinstead)
