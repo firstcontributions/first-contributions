@@ -9,6 +9,7 @@
 - [Luiz Augusto](https://github.com/luizAFS23)
 - [Ahsan Naqvi](https://github.com/s-ahsan-naqvi)
 - [Shivam Raj](https://github.com/SHIVAM-RAJ7)
+- [BigRexSoftware](https://github.com/bigrexsoftware)
 - [Rahul Dhavale](https://github.com/futureofworld)
 - [Dilshad](https://github.com/a-rustacean)
 - [Droid Sumit](https://github.com/droidsumit)
