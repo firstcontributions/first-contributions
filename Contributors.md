@@ -1398,5 +1398,4 @@ Shrajan Jain
 - [loite](https://github.com/loite)
 - [Pickwick Rudge](https://github.com/pickwick-rudge)
 - [safe rabbit](https://github.com/saferabbit/)
-- [abdelfattah lutfi]
 <!-- prettier-ignore-end -->
