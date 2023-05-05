@@ -5,6 +5,7 @@
 - [Abtuly](https://github.com/Abtuly)
 - Tejas Chouhan
 - [Eugene](https://github.com/eugene0928)
+- [Farshad](https://github.com/fa125had)
 - [Luiz Augusto](https://github.com/luizAFS23)
 - [Ahsan Naqvi](https://github.com/s-ahsan-naqvi)
 - [Shivam Raj](https://github.com/SHIVAM-RAJ7)
