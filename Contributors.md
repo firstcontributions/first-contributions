@@ -1413,5 +1413,6 @@ Shrajan Jain
 - [abdelfattah lutfi]
 - [Abhiroop](https://github.com/Abhi-1200/)
 - [obiwan04kanobi](https://github.com/obiwan04kanobi)
+- [Mickysingh](https://github.com/prabhjotsingh18)
 - [karlmitterhauser] (https://github.com/karlmitterhauser)
 <!-- prettier-ignore-end -->
