@@ -141,6 +141,7 @@
 - [Christos Kontomitros](https://github.com/ckontomitros)
 - [Abdelrahman Elsayed](https://github.com/onepercentgold)
 - [mekonical22](https://github.com/mekonical22)
+- [Thunderk3g](https://github.com/Thunderk3g)
 - [Gabriel Moraes] (https://github.com/gabrielm33)
 - [Kiro Adel] (https://github.com/Noobie7612)
 - [June Song]
