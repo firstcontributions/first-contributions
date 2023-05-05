@@ -13,6 +13,7 @@
 - [Amanda Vien](https://github.com/amanduhkv)
 - [Vedant Adke](https://github.com/VedantAdke96)
 - [Mohummad Kazmi](https://github.com/mskazmi)
+- [Rene Baribal](https://github.com/RiinSeresuto)
 - [Lalit Chaudhari](https://github.com/Lalit572)
 - [Anthon van Dijk](https://github.com/DyQ3HELOF1)
 - [Gowri Priyanka](https://github.com/GowriPriyankaM)
