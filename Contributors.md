@@ -17,6 +17,7 @@
 - [Anthon van Dijk](https://github.com/DyQ3HELOF1)
 - [Gowri Priyanka](https://github.com/GowriPriyankaM)
 - [Gyaur](https://github.com/Gy4ur)
+- [Samarpita Roy] (https://github.com/SamarpitaRoy)
   [Abhishek ](https://github.com/Abhi2359)
 - [Billy Phan](https://github.com/bphan002)
 - [koya-tech](https://github.com/koya-tech)
