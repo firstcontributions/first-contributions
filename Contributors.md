@@ -66,6 +66,7 @@
 - [Festus Abiatar](https://github.com/abiatarfestus)
 - [PetrAmbroz](https://github.com/petrambroz)
 - [Myat Min](https://github.com/MytMnSthU)
+- [ZawMyoThantSin](https://github.com/ZawMyoThantSin)
 - [Takahiro Sato](https://github.com/takahiro-1227)
 - [Jitesh Pahwa](https://github.com/jiteshpahwa04)
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
