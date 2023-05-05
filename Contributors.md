@@ -1319,6 +1319,7 @@ Shrajan Jain
 - [ebrower320](https://github.com/ebrower320)
 - [Oshanik](https://github.com/Oshanik22)
 - [Pedro Bermudez] (https://github.com/pedrobagatin)
+- jake396
 - [Mathesukkj](https://github.com/mathesukkj)
 - [marken-0](https://github.com/marken-0)
 - [Sarah Ahmed](https://github.com/sah11-0)
