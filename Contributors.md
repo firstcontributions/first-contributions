@@ -366,6 +366,7 @@
 - [Abu Usaid](https://github.com/AbuUsaid)
 - [Kasthuri-P](https://github.com/Kasthuri-P)
 - [Lucas Silva](https://github.com/lucca7r)
+- [Paul Sunny Isogon](https://github.com/Hexx00r)
 - [Ritik Ranjan](https://github.com/ranjanritik5757)
 - [TesseractionCode](https://github.com/TesseractionCode)
 - [Jyotishmoy konwar](https://github.com/Jyotishmoy365)
