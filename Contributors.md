@@ -4,6 +4,7 @@
 - [Abtuly](https://github.com/Abtuly)
 - Tejas Chouhan
 - [Eugene](https://github.com/eugene0928)
+- [Hein Htun Zaw](https://github.com/yuu1994)
 - [Luiz Augusto](https://github.com/luizAFS23)
 - [Ahsan Naqvi](https://github.com/s-ahsan-naqvi)
 - [Shivam Raj](https://github.com/SHIVAM-RAJ7)
@@ -18,7 +19,6 @@
 - [Gowri Priyanka](https://github.com/GowriPriyankaM)
 - [Gyaur](https://github.com/Gy4ur)
 - [Samarpita Roy] (https://github.com/SamarpitaRoy)
-- [Hein Htun Zaw] (https://github.com/yuu1994)
   [Abhishek ](https://github.com/Abhi2359)
 - [Billy Phan](https://github.com/bphan002)
 - [koya-tech](https://github.com/koya-tech)
