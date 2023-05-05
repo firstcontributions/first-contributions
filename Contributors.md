@@ -282,6 +282,7 @@
 - [Nitish Chintakindi](https://github.com/nitish312)
 - [Charan Kamal Singh](https://github.com/charankamal20)
 - [ASAIJE Elozino Lopez](https://github.com/Elozino-Lopez)
+- [Samman Pathak] (https://github.com/sammanpathak)
 - [Anthony Jackson] (https://github.com/AJacksonCT)
 - [Andrew Lamichhane](https://github.com/Andrew-LC)
 - [Ruphaa Ganesan](https://github.com/ruphaa)
