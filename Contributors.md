@@ -1299,6 +1299,7 @@ Shrajan Jain
 - [Mohammad Bagri](https://github.com/mohambag)
 - [aman404](https://github.com/aman404)
 - [buriedBug](https://github.com/buriedBug)
+- [Harold Song](https://github.com/swyhrld)
 - [foliage21](https://github.com/foliage21)
 - [Arun Kumar Marndi](https://github.com/arunkumarmarndi)
 - [Zullu Balti](https://github.com/ZulluBalti)
