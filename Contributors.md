@@ -1406,6 +1406,6 @@ Shrajan Jain
 - [Pickwick Rudge](https://github.com/pickwick-rudge)
 - [safe rabbit](https://github.com/saferabbit/)
 - [abdelfattah lutfi]
-- [Abhiroop Avvari](https://github.com/Abhi-1200/)
+- [Abhiroop](https://github.com/Abhi-1200/)
 - [obiwan04kanobi](https://github.com/obiwan04kanobi)
 <!-- prettier-ignore-end -->
