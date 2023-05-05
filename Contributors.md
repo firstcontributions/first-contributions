@@ -11,6 +11,7 @@
 - [Rahul Dhavale](https://github.com/futureofworld)
 - [Dilshad](https://github.com/a-rustacean)
 - [Droid Sumit](https://github.com/droidsumit)
+- [Samuel Haile](https://github.com/samhaile7)
 - [SuJung Song](https://github.com/SONG-crystal)
 - [Amanda Vien](https://github.com/amanduhkv)
 - [Vedant Adke](https://github.com/VedantAdke96)
