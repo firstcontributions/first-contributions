@@ -1,30 +1,37 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Noobility](https://github.com/Noobility)
 - [Abtuly](https://github.com/Abtuly)
 - Tejas Chouhan
 - [Eugene](https://github.com/eugene0928)
+- [Farshad](https://github.com/fa125had)
 - [Luiz Augusto](https://github.com/luizAFS23)
 - [Ahsan Naqvi](https://github.com/s-ahsan-naqvi)
 - [Shivam Raj](https://github.com/SHIVAM-RAJ7)
 - [Rahul Dhavale](https://github.com/futureofworld)
+- [Dilshad](https://github.com/a-rustacean)
 - [Droid Sumit](https://github.com/droidsumit)
+- [Samuel Haile](https://github.com/samhaile7)
 - [SuJung Song](https://github.com/SONG-crystal)
 - [Amanda Vien](https://github.com/amanduhkv)
 - [Vedant Adke](https://github.com/VedantAdke96)
 - [Mohummad Kazmi](https://github.com/mskazmi)
+- [Rene Baribal](https://github.com/RiinSeresuto)
 - [Lalit Chaudhari](https://github.com/Lalit572)
 - [Anthon van Dijk](https://github.com/DyQ3HELOF1)
 - [Gowri Priyanka](https://github.com/GowriPriyankaM)
 - [Gyaur](https://github.com/Gy4ur)
 - [Samarpita Roy] (https://github.com/SamarpitaRoy)
 - [Hein Htun Zaw] (https://github.com/yuu1994)
+- [Alifia Ghantiwala](https://github.com/aliflaila)
   [Abhishek ](https://github.com/Abhi2359)
 - [Billy Phan](https://github.com/bphan002)
 - [koya-tech](https://github.com/koya-tech)
 - [James-Christie](https://github.com/James-Christie)
 - [ARYAN](https://github.com/aryanhr0001)
 - [Matias Mansilla](https://github.com/MansillaM)
+-[Srujan Geedipalli](https://github.com/Srujan273)
 - [Atharav](https://github.com/harshal-ishere)
 - [Arthur Krom](https://github.com/Arthur-Krom)
 - [alonGitH](https://github.com/alonGitH)
@@ -60,6 +67,7 @@
 - [Tshenolo Mos](https://github.com/tshenolo)
 - [Sayak Mandal](https://github.com/Sayak-58)
 - [Suparnojit Sarkar](https://github.com/suparnojit)
+- [Tushar GH](https://github.com/Tushar12222)
 - [DimCel](https://github.com/dimcel)
 - [Mirza Hilmi](https://github.com/MirzaHilmi/)
 - [Blane Winstead](https://github.com/BlaneWinstead)
@@ -136,6 +144,7 @@
 - [Gabriel Moraes] (https://github.com/gabrielm33)
 - [Kiro Adel] (https://github.com/Noobie7612)
 - [June Song]
+- [Grumbo]
 - [khunsai06](https://github.com/khunsai06)
 - [shivamxsurya](https://github.com/shivamxsurya)
 -Madhur Manan
@@ -276,6 +285,7 @@
 - [Nitish Chintakindi](https://github.com/nitish312)
 - [Charan Kamal Singh](https://github.com/charankamal20)
 - [ASAIJE Elozino Lopez](https://github.com/Elozino-Lopez)
+- [Samman Pathak] (https://github.com/sammanpathak)
 - [Anthony Jackson] (https://github.com/AJacksonCT)
 - [Andrew Lamichhane](https://github.com/Andrew-LC)
 - [Ruphaa Ganesan](https://github.com/ruphaa)
@@ -506,6 +516,7 @@
 - [Matty Charitan](https://github.com/Matty-charitan)
 - [Thomas Furay](https://github.com/TFuray)
 - [Aushio](https://github.com/Aushio)
+- [HamzaB](https://github.com/waffletester)
 - [clickednebula3](https://github.com/clickednebula3)
 - [Shikhar Bhargava](https://github.com/shikharbsar)
 - [Piyush Raviraj](https://github.com/Piyushraviraj2611)
@@ -518,6 +529,7 @@
 - [Joshua Knorz](https://github.com/JoshKn)
 - [Tri Pham](https://github.com/TriMPham98)
 - [Vishvesh Pratap Singh](https://github.com/Vish221)
+- [White Hat Gamer](https://GitHub.com/WhiteHatGamer)
 - [iParadocx](https://github.com/iParadocx)
 - [Aditya Pudaruth](https://github.com/Aditya-Pudaruth)
 - [Aman Choudhary](https://github.com/aman-choudhary1)
@@ -1296,6 +1308,7 @@ Shrajan Jain
 - [Mohammad Bagri](https://github.com/mohambag)
 - [aman404](https://github.com/aman404)
 - [buriedBug](https://github.com/buriedBug)
+- [Harold Song](https://github.com/swyhrld)
 - [foliage21](https://github.com/foliage21)
 - [Arun Kumar Marndi](https://github.com/arunkumarmarndi)
 - [Zullu Balti](https://github.com/ZulluBalti)
@@ -1391,5 +1404,11 @@ Shrajan Jain
 - [QiPing Song](https://github.com/SongQiPing)
 - [loite](https://github.com/loite)
 - [Pickwick Rudge](https://github.com/pickwick-rudge)
+<<<<<<< HEAD
 - [Geoffrey Logovi](https://github.com/geoffreylgv)
+=======
+- [safe rabbit](https://github.com/saferabbit/)
+- [abdelfattah lutfi]
+- [obiwan04kanobi](https://github.com/obiwan04kanobi)
+>>>>>>> f74d41b7302619761d23cd78f54474df63fde055
 <!-- prettier-ignore-end -->
