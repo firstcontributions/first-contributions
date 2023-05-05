@@ -1396,4 +1396,5 @@ Shrajan Jain
 - [QiPing Song](https://github.com/SongQiPing)
 - [loite](https://github.com/loite)
 - [Pickwick Rudge](https://github.com/pickwick-rudge)
+- [safe rabbit](https://github.com/saferabbit/)
 <!-- prettier-ignore-end -->
