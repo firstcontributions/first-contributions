@@ -934,6 +934,7 @@ Shrajan Jain
 - [Josh Litam](https://github.com/joshlitam)
 - [ctran] (https://github.com/ctran414)
 - [Xeplon](https://github.com/Xeplon)
+- [koanuywg](https://github.com/koanuywg)
 - [danesusername](https://github.com/danesusername)
 - [Rajat Bhosale](https://github.com/RajatBhosale)
 - [Charandeep Singh](https://github.com/charandeepsinghb)
