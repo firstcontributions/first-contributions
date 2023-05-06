@@ -37,6 +37,7 @@
 - [Anthon van Dijk](https://github.com/DyQ3HELOF1)
 - [Gowri Priyanka](https://github.com/GowriPriyankaM)
 - [Gyaur](https://github.com/Gy4ur)
+- [Berdiguly Yaylymov](https://github.com/yaylymov)
 - [Samarpita Roy] (https://github.com/SamarpitaRoy)
 - [Hein Htun Zaw] (https://github.com/yuu1994)
 - [Alifia Ghantiwala](https://github.com/aliflaila)
