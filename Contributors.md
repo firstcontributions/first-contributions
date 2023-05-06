@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - Jagdish Kancharapu
+- [PramodMa](https://github.cpm/pramodahetti)
 - [Amirkhan](https://github.com/torexanovich)
 - [Noobility](https://github.com/Noobility)
 - [Abtuly](https://github.com/Abtuly)
