@@ -1424,5 +1424,6 @@ Shrajan Jain
 - [karlmitterhauser] (https://github.com/karlmitterhauser)
 - [RajrishiMitra](https://github.com/RajrishiMitra)
 - [Ravindu Hasantha](https://github.com/ravinduh)
+- [Aryashsaxena](https://github.com/aryashsaxena)
 - Mythszj
 - <!-- prettier-ignore-end -->
