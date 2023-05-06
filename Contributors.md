@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - Jagdish Kancharapu
+- Paul Kenyanya Omweri
 - [PramodMa](https://github.cpm/pramodahetti)
 - [Amirkhan](https://github.com/torexanovich)
 - [Noobility](https://github.com/Noobility)
