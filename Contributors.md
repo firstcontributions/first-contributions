@@ -15,6 +15,7 @@
 - [Dilshad](https://github.com/a-rustacean)
 - [Droid Sumit](https://github.com/droidsumit)
 - [Samuel Haile](https://github.com/samhaile7)
+- [Ankit Navaghare](https://github.com/Killua-22)
 - [Thien-Bao Bui](https://github.com/tbbui-732)
 - [SuJung Song](https://github.com/SONG-crystal)
 - [Amanda Vien](https://github.com/amanduhkv)
