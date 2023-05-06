@@ -255,6 +255,7 @@
 - [Bedant Chhetri](https://github.com/bedantchh)
 - [Atahan Caldir](https://github.com/atahancaldir)
 - [taricov](https://github.com/taricov)
+- [harshiv ganwani](https://github.com/harshivg)
 - [ItsHidro](https://github.com/HidroGaming)
 - [Deviant-Liang](https://github.com/Deviant-Liang)
 - [Amit Pandey](https://github.com/Amit19057120)
