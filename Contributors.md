@@ -1366,7 +1366,7 @@ Shrajan Jain
 - [Grego Pantelis](https://github.com/gregop)
 - [Guy Turevich](https://github.com/GuyTurevich)
 - [Ian Maestro](https://github.com/itsmaestro)
-Peter Lustig
+- [Peter Lustig]
 - [Nissrine Canina](https://github.com/Nissrine-Can)
 - [tomoo](https://github.com/Niwatori1192)
 - [Sushil Bhardwaj](https://github.com/Bazigar69)
