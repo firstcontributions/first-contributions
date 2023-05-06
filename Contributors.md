@@ -1310,6 +1310,7 @@ Shrajan Jain
 - [Ilya Andreev](https://github.com/its-a-setup)
 - [Paul Kros](https://github.com/KingWazzack)
 - [inamnurul](https://github.com/inamnurulf)
+- [Tim Eismar](https://github.com/TimEismar)
 - [Zach Melamed] (https://github.com/zsm767)
 - [Lip Wei](https://github.com/lipwei1808)
 - [Kirill Trifonov](https://github.com/kstrifonoff)
