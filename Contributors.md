@@ -1434,4 +1434,5 @@ Shrajan Jain
 - [Aryashsaxena](https://github.com/aryashsaxena)
 - Mythszj
 - [homefish](https://github.com/homefish)
+- [San-ctuary](https://github.com/San-ctuary)
 - <!-- prettier-ignore-end -->
