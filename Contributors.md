@@ -972,6 +972,7 @@ Shrajan Jain
 - [Equan](https://github.com/equan4647)
 - [Nataliya Kondranina](https://github.com/kondranina)
 - [Mohammed Saad](https://github.com/msaad7777/)
+- [Devansh Baghel](https://github.com/devansh-baghel)
 - [Andres Olguin](https://github.com/Isadriendir48)
 - [Aditya](https://github.com/ka-2104)
 - [Neo Thobs](https://github.com/neoThobs)
