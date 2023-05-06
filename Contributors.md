@@ -1438,5 +1438,6 @@ Shrajan Jain
 - [Aryashsaxena](https://github.com/aryashsaxena)
 - Mythszj
 - [homefish](https://github.com/homefish)
+- [Sunil S. Singh](https://github.com/sssingh)
 - [San-ctuary](https://github.com/San-ctuary)
 - <!-- prettier-ignore-end -->
