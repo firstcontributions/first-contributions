@@ -1415,4 +1415,5 @@ Shrajan Jain
 - [obiwan04kanobi](https://github.com/obiwan04kanobi)
 - [Mickysingh](https://github.com/prabhjotsingh18)
 - [karlmitterhauser] (https://github.com/karlmitterhauser)
+- [RajrishiMitra](https://github.com/RajrishiMitra)
 <!-- prettier-ignore-end -->
