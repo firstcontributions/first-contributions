@@ -672,6 +672,7 @@ Cody LeRoy
 - [Ananthu AK](https://github.com/akanandhu)
 - [Oyebola adefolajuwon](https://github.com/Adefolajuwon)
 - [Abdul Waheed](https://github.com/waheedsid)
+- [Maxim Nebela](https://github.com/ReaZzy)
 - [Wid Suba](https://github.com/Megalodonix)
 - [Andres Emedan](https://github.com/andresemedan)
 - [Abhiram Reddy Mungi](https://github.com/AbhiramMngi)
