@@ -18,6 +18,7 @@
 - [Samuel Haile](https://github.com/samhaile7)
 - [Ankit Navaghare](https://github.com/Killua-22)
 - [Thien-Bao Bui](https://github.com/tbbui-732)
+- [Hatchie#47](https://github.com/Hatchie-47)
 - [SuJung Song](https://github.com/SONG-crystal)
 - [Amanda Vien](https://github.com/amanduhkv)
 - [Vedant Adke](https://github.com/VedantAdke96)
