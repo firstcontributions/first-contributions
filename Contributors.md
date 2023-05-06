@@ -1,7 +1,8 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-- Jagdish Kancharapu
+- 
+  Jagdish Kancharapu
 - [Amirkhan](https://github.com/torexanovich)
 - [Noobility](https://github.com/Noobility)
 - [Abtuly](https://github.com/Abtuly)
@@ -51,6 +52,8 @@
 - [Ross Silcott] (https://github.com/RCSilcott)
 - [xavierjimz] (https://github.com/xavierjimz/)
 - [Satyam Nyati](https://github.com/satyamnyati)
+  
+  [mikmc] (https://github.com/mik25)
 - [Trottie McQueen] (https://github.com/trottiemcqueen)
 - [Jerry Yan](https://github.com/jerryy668)
 - [Chico Stick] (https://github.com/ChicoStickowo)
