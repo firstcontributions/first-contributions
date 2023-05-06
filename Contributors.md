@@ -67,6 +67,7 @@
 - [Sahood cv](https://github.com/sahoodcode)
 - [Harish Rane](https://github.com/AzadRane)
 - [Glen Wojnar](https://github.com/glwo)
+- [Abhinav Thapa](https://github.com/abhinavthapa1998)
 - [Nathamuni](https://github.com/Nathamuni)
 - [Dheeraj Saraogi](https://github.com/dheerajsaraogi)
 - [Tshenolo Mos](https://github.com/tshenolo)
