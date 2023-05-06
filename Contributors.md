@@ -1,6 +1,9 @@
 # Contributors
+
 [Adilet Berdibekov]https://github.com/berdibekovadilet
+
 <!-- prettier-ignore-start -->
+
 - [Dipak Kalauni](https://github.com/KaloniGiga)
 - [Richard McCormick](https://github.com/rmccormick314)
 - [Rafli Muhammad](https://github.com/raflimuhammadd)
@@ -40,10 +43,8 @@
 - [Mudasir H](https://github.com/mh-jsx)
 - [westtle](https://github.com/westtle)
 - [Pratik Ghosh]
-- [Sreedev](https://github.com/sreedev-ss)
--[Muhammad Saad]
-Mohammed Yunus
--[Mohammed Yunus](https://github.com/Y-u-n-u-s)
+- [Sreedev](https://github.com/sreedev-ss) -[Muhammad Saad]
+  Mohammed Yunus -[Mohammed Yunus](https://github.com/Y-u-n-u-s)
 - Arman Kumar Jena
 - [Andres Gutierrez](https://github.com/gtierrezandres)
 - [Alon Katz](https://github.com/AlonKz1)
@@ -65,8 +66,7 @@ Mohammed Yunus
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [Gaurav](https://github.com/b9aurav)
 - [Aishwarya G M](https://github.com/gmarya)
-- [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001)
--[Constantinos Pigkeridis](https://github.com/mentality330)
+- [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001) -[Constantinos Pigkeridis](https://github.com/mentality330)
 - [Parth Shah@DevsocPI]
 - aditya bagla
 - Reetish Rath
@@ -88,7 +88,7 @@ Mohammed Yunus
 - aditya joshi@DevSocPI
 - [RA341](https://github.com/RA341)
 - Derrick Brandt
-- JamesBond 
+- JamesBond
 - Tariqs26
 - Yashwanth Krishna
 - [Edmar Campos] (https://github.com/Edax97)
@@ -96,7 +96,7 @@ Mohammed Yunus
 - Ezad Haziq Bin Zamily
 - [Oyelowo Oyeleye Samuel](https://github.com/sammy-yuntin)
 - [Chintan Golakiya](https://github.com/chintan-golakiya)
-- [Diwas Rimal](https://github.com/diwasrimal) 
+- [Diwas Rimal](https://github.com/diwasrimal)
 - [Neil Ohene](https://github.com/dvc-77)
 - dsvetina
 - [Raghav Jit](https://github.com/RaghavJit)
@@ -132,7 +132,7 @@ Mohammed Yunus
 - [Rupak Ahsan] (https://github.com/rupak009)
 - Gorupria
 - Edward Abel-Guobadia
-Rhythm Sharma
+  Rhythm Sharma
 - [Neha Menon@DevsocPI](https://github.com/thenehamenon)
 - [Von Arzu](https://github.com/ArzuVon)
 - [Akshaj Jha@DevSocPI](https://github.com/Akshajha07)
@@ -165,7 +165,7 @@ Rhythm Sharma
 - [J Johnson] (https://github.com/jbjohnson1278/)
 - [Melon98@DevsocPI](https://github.com/melon9829)
 - [SleepyPeanut] (https://github.com/sleepypeanut)
-- [Narmeen Z] (https://github.com/nrm33n)  
+- [Narmeen Z] (https://github.com/nrm33n)
 - [Brayton Rude] (https://github.com/notbrayton)
 - [Arnav Ranjekar@DevSocPI](https://github.com/Zubenalgenubi)
 - [Massoud Suleiman](https://github.com/DSMSSTHN)
@@ -191,6 +191,7 @@ Rhythm Sharma
 - [Alvin James Bellero](https://github.com/shiftEscape)
 - [Hidayatullah](https://github.com/dayatnhbtc)
 - [Adlizone](https://github.com/adlizone)
+- [Drew Pate] (https://github.com/drewpate)
 - [Dhruv Pandey@Devsoc](https://github.com/dhruv12pandey)
 - [Palak Sinha](https://github.com/sinhapalak)
 - [Abdullah Yakub](https://github.com/developerabz/)
@@ -272,7 +273,7 @@ Rhythm Sharma
 - [Omarali1020](https://github.com/Omarali1020)
 - [Hansie Kristi](https://github.com/hansie23)
 - [Giovanni Palleschi](https://github.com/gpalleschi)
-- -[Vansh Sood @DevSoc](https://github.com/Vanshsback)_
+- -[Vansh Sood @DevSoc](https://github.com/Vanshsback)\_
 - [Redsam](https://github.com/Redsamx)
 - [Vikhyat Gupta@DevsocPI](https://github.com/Vikhyat0908)
 - [Jenny F](https://github.com/J-Ning)
@@ -1009,11 +1010,11 @@ Rhythm Sharma
 - [shaileshb](https://github.com/shaileshhb)
 - [Angie Bowen](https://github.com/AngelaBowen)
 - [Victor F.](https://github.com/victorfyonemoto)
-- [Jasjot Singh](https://github.com/jasjotb) 
+- [Jasjot Singh](https://github.com/jasjotb)
 - [Andre Müller](https://github.com/Amueller36)
 - [duzzysroad](https://github.com/duzzysroad)
 - [Amal](https://github.com/XAL-AMLX)
-= [Nick](https://github.com/comfythread)
+  = [Nick](https://github.com/comfythread)
 - [Srivathsan V](https://github.com/Srivathsan-V)
 - [TJ Albertson](https://github.com/TJ-Albertson)
 - [Ruthik Jadhav](https://github.com/Ruthik130201)
