@@ -1445,4 +1445,5 @@ Shrajan Jain
 - [homefish](https://github.com/homefish)
 - [Sunil S. Singh](https://github.com/sssingh)
 - [San-ctuary](https://github.com/San-ctuary)
+- [Rayner Susanto](https://github.com/raynersusanto0)
 - <!-- prettier-ignore-end -->
