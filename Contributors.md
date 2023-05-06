@@ -20,6 +20,7 @@
 - Sabya
 - [Dilshad](https://github.com/a-rustacean)
 - [Droid Sumit](https://github.com/droidsumit)
+- [asfaqahmed](https://github.com/asfaqahmed)
 - [Samuel Haile](https://github.com/samhaile7)
 - [Ankit Navaghare](https://github.com/Killua-22)
 - [Thien-Bao Bui](https://github.com/tbbui-732)
