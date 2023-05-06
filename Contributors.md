@@ -4,6 +4,7 @@
 - Jagdish Kancharapu
 - Paul Kenyanya Omweri
 - [PramodMa](https://github.cpm/pramodahetti)
+- [Nitin Chaudhary](https://github.com/AnCyNitinChaudhary)
 - [Rutvikjoshi63](https://github.com/rutvikjoshi63)
 - [Amirkhan](https://github.com/torexanovich)
 - [Noobility](https://github.com/Noobility)
