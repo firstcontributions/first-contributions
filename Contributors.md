@@ -17,6 +17,7 @@
 - [Samuel Haile](https://github.com/samhaile7)
 - [SuJung Song](https://github.com/SONG-crystal)
 - [Harshit Gupta](https://github.com/curiousHG)
+- [Harshit Gupta](https://github.com/curiousHG)
 - [Amanda Vien](https://github.com/amanduhkv)
 - [Vedant Adke](https://github.com/VedantAdke96)
 - [Mohummad Kazmi](https://github.com/mskazmi)
