@@ -198,6 +198,7 @@
 - Adithyanarayanan S
 - [Wesllen Alexandre](https://github.com/Wesllenbr)
 - [Ikegah Oliver](https://github.com/oliverTwist2)
+- [Fumiya Shimada](https://github.com/smdhnz)
 - [derfabiannn](https://github.com/derfabiannn)
 - [Aryaman Pathak](https://github.com/aryamanpathak2022)
 - [Anierobi Esther](https://github.com/Esther146)
