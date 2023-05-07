@@ -140,7 +140,7 @@
 - [Thejas Bhat](https://github.com/tbpcoder)
 - [Negar Baharmand](https://github.com/negarbaharmand)
 - [Mahendra Kolhe](https://github.com/Mahikolhe23)
-- [Armaan Soni](https://github.com/itsarmaansoni)
+- [Armaan Soni](https://gitlab.com/itsarmaansoni)
 - [Best wishes](https://github.com/SinusoidFunc)
 - [Temiwaji](https://github.com/Temiwaji)
 - [Venkatesh-KCET](https://github.com/Venkatesh-KCET)
