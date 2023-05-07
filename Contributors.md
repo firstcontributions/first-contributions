@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Sagar Chaudhary](https://github.com/SAGARCODESTER)
 - NandaHein
 - Jagdish Kancharapu
 - Paul Kenyanya Omweri
