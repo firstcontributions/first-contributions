@@ -1448,6 +1448,7 @@ Shrajan Jain
 - [Lawson Tanner] (https://github.com/Hornbag)
 - [Manuel Menendez] (https://github.com/hudsonbay)
 - [Jorge Torres] (https://github.com/jotorres1)
+- [Asmita Sagarkar](https://github.com/AsmitaSagarkar)
 - [Aryan Pirhashemi] (https://github.com/aryan-pirhashemi)
 - [Ezekiel Ogeto Mose] (https://github.com/ezekielmose)
 - [Link Häggman](https://github.com/LinkTheCoder)
