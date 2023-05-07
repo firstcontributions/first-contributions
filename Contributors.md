@@ -37,6 +37,8 @@
 - [Thien-Bao Bui](https://github.com/tbbui-732)
 - [Hatchie#47](https://github.com/Hatchie-47)
 - [SuJung Song](https://github.com/SONG-crystal)
+- [Harshit Gupta](https://github.com/curiousHG)
+- [Harshit Gupta](https://github.com/curiousHG)
 - [Amanda Vien](https://github.com/amanduhkv)
 - [Shubham Singh](https://github.com/shibs-01)
 - [Vedant Adke](https://github.com/VedantAdke96)
