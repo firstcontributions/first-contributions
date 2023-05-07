@@ -1212,6 +1212,7 @@ Shrajan Jain
 - [JoLalo](https://github.com/JoLalo)
 - [pranshua7i](https://github.com/pranshua7i)
 - [Opeyemi O.](https://github.com/lekeope)
+- [Flxcsx](https://github.com/flxcsx)
 - [Star-ho](https://github.com/Star-ho)
 - [Bengisu Duru Goksu](https://github.com/bengisudurugoksu)
 - [SyntaxSavvy](https://github.com/SyntaxSavvy)
