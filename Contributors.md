@@ -1267,7 +1267,6 @@ Shrajan Jain
 - [Zeeshan Lone](https://github.com/still-learning-ev)
 - [Julie Gunawan][https://github.com/juliegunawan]
 - [Soumya Mandal](https://github.com/heySoumy4)
-- [Sabin Maharjan](I am learning to use git)
 - [Mohd Yawar Shahid](https://github.com/yawar1101)
 - [ThotakuraHarish](https://github.com/ThotakuraHarish2003)
 - [Stephanie Boggs] (https://github.com/boggsyweb)
