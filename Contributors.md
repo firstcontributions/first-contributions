@@ -233,6 +233,7 @@
 - [Anmol Matharu](https://github.com/anmolmatharu100)
 - [Chris E](https://github.com/cce2955)
 - [cqdev-fusion](https://github.com/cqdev-fusion)
+- [Moshe Fortgang](https://github.com/moshefortgang)
 - [Tanbir Ali](https://github.com/tanbirali)
 - [Vyoam Yadav](https://github.com/ambiguousphoton)
 - [Ravindra Reddy](https://github.com/ravindra135)
