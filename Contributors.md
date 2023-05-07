@@ -24,6 +24,7 @@
 - [Harsh P V](https://github.com/harshpv07)
 - Sabya
 - [Dilshad](https://github.com/a-rustacean)
+- [Ganesh Revadi](https://github.com/ganeshrevadi)
 - [Droid Sumit](https://github.com/droidsumit)
 - [asfaqahmed](https://github.com/asfaqahmed)
 - [Samuel Haile](https://github.com/samhaile7)
