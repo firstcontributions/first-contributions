@@ -22,6 +22,7 @@
 - [BigRexSoftware](https://github.com/bigrexsoftware)
 - [Rahul Dhavale](https://github.com/futureofworld)
 - [Harsh P V](https://github.com/harshpv07)
+- [Deepanshu Sharma](https://github.com/Deepanshu-Sharma-18)
 - Sabya
 - [Dilshad](https://github.com/a-rustacean)
 - [Ganesh Revadi](https://github.com/ganeshrevadi)
