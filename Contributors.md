@@ -315,6 +315,7 @@
 - [Aroboto Ife](https://github.com/IfeoluwaAroboto)
 - [Atharv powalkar](https://github.com/07-Atharv)
 - [Jordan](https://github.com/chowweijun)
+- [Felipe](https://github.com/fsanchez1397)
 - [Bryan Yenata](https://github.com/bryanyenata)
 - [Gianni Parello](https://github.com/giparello)
 - [Deepa Kumari](https://github.com/deepa181)
