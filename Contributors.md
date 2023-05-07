@@ -683,6 +683,7 @@ Cody LeRoy
 - [Arpan Adlakhiya](https://github.com/mrr0b0t-0x1)
 - [Nia Ahmed](https://github.com/technialogy)
 - [Jonas Reiher](https://github.com/jonasreiher)
+-[Better Kayode](https://github.com/KayodeBetter)
 - [Stuart Bailey](https://github.com/stubailey18)
 - [Dempsey Palacio Tascon](https://github.com/deej-tsn)
 - [Bikash yadav](https://github.com/bikashydv)
