@@ -1375,6 +1375,7 @@ Shrajan Jain
 - [Leanne Keenan](https://github.com/leannekeenan)
 - [Em Mic](https://github.com/emmic)
 - [ebrower320](https://github.com/ebrower320)
+- [TobizzleLOL](https://github.com/TobizzleLOL)
 - [Oshanik](https://github.com/Oshanik22)
 - [Pedro Bermudez] (https://github.com/pedrobagatin)
 - jake396
