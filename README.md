@@ -136,7 +136,7 @@ git switch -c add-alonzo-church
 ## Make necessary changes and commit those changes
 
 Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
-
+ 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
@@ -176,7 +176,7 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 </details>
 
 ## Submit your changes for review
-
+dqwdsadafasfasf
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
