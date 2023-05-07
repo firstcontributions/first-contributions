@@ -293,6 +293,7 @@
 - [Pwolber](https://github.com/pwolber)
 - [Sudhir Bhandari](https://github.com/suasnomy/)
 - [Cristian Dreyer](https://github.com/cdreyer00)
+- [Raphael](https://github.com/Rmarieta)
 - [Leandro Ezequiel Aballone](https://github.com/Lean-Aballone)
 - [Satendra Mishra](https://github.com/Satendram)
 - [Busiswa M](https://github.com/BusiswaM)
