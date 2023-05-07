@@ -915,6 +915,7 @@ Shrajan Jain
 - [Cole Abidemi](https://github.com/colebidex2483)
 - [Shanth](https://github.com/kshanth)
 - [Myles Ieong](https://github.com/mylesieong)
+- [Mohammad Faisal Sayed](https://github.com/sayyedfaixal)
 - [Louis lam](https://github.com/Louisss-Lam)
 - [Preet Gupta@devsoc](https://github.com/preetgupta32)
 - [Varun Sharma](https://github.com/95sharmavarun)
