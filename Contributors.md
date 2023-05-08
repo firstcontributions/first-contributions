@@ -63,6 +63,7 @@
 - [koya-tech](https://github.com/koya-tech)
 - [James-Christie](https://github.com/James-Christie)
 - [ARYAN](https://github.com/aryanhr0001)
+- [Omkar](https://github.com/omkarb21)
 - [Matias Mansilla](https://github.com/MansillaM)
 - [Srujan Geedipalli](https://github.com/Srujan273)
 - [Atharav](https://github.com/harshal-ishere)
