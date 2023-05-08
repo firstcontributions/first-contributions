@@ -3,6 +3,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [SIDDHANT SAHU](https://github.com/siddhant660)
 - [Sagar Chaudhary](https://github.com/SAGARCODESTER)
 - NandaHein
 - Jagdish Kancharapu
