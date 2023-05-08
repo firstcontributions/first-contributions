@@ -8,6 +8,7 @@
 - [SIDDHANT SAHU](https://github.com/siddhant660)
 - [Sagar Chaudhary](https://github.com/SAGARCODESTER)
 - NandaHein
+- Manav Tore(https://github.com/manavtore)
 - Jagdish Kancharapu
 - Paul Kenyanya Omweri
 - [PramodMa](https://github.cpm/pramodahetti)
