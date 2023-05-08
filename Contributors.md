@@ -1248,6 +1248,7 @@ Shrajan Jain
 - [Paulo Vitor](https://github.com/paulovitor-unb)
 - [Andrew McCall](https://github.com/elkcityhazard)
 - [Deepak Khanna](https://github.com/deepakkhanna18)
+- [Joonseo](https://github.com/KimJoonSeo)
 - [TimoCodez](https://github.com/TimoCodez)
 - [DevonChia](https://github.com/DevonChia)
 - [gokserpirik](https://github.com/gokserpirik)
