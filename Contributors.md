@@ -30,6 +30,7 @@
 - [Luiz Augusto](https://github.com/luizAFS23)
 - [Jai Vignesh](https://github.com/hsengiviaJ)
 - [Ahsan Naqvi](https://github.com/s-ahsan-naqvi)
+- [Syed Ayaan Ali](https://github.com/incognito-root)
 - [Shivam Raj](https://github.com/SHIVAM-RAJ7)
 - [BigRexSoftware](https://github.com/bigrexsoftware)
 - [Rahul Dhavale](https://github.com/futureofworld)
