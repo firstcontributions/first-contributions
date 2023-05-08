@@ -304,6 +304,7 @@
 - [Kaleb Abiy](https://github.com/Kaleb-Abiy)
 - [Emily Chima](https://github.com/emilychima)
 - [Pwolber](https://github.com/pwolber)
+- [Moustapha Sambe](https://github.com/taphacoobams)
 - [Sudhir Bhandari](https://github.com/suasnomy/)
 - [Cristian Dreyer](https://github.com/cdreyer00)
 - [Raphael](https://github.com/Rmarieta)
