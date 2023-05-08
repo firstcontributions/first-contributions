@@ -1221,7 +1221,6 @@ Shrajan Jain
 - [ApexMe](https://github.com/ApexMe)
 - [czc](https://github.com/czc-gd)
 - [juanmagb8d](https://github.com/Juanmagb8d)
-- [adding random stuff here so i can understand what happens on git push]
 - [BernalCristianCamilo93](https://github.com/bernalcristiancamilo93)
 - [Mwaura](https://github.com/MwauratheAlex)
 - [sziwipx](https://github.com/sziwipx)
