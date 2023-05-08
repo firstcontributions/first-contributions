@@ -199,6 +199,7 @@
 - [Aryant Kumar](https://github.com/Aryant01)
 - [Davis Onyeoguzoro](https://github.com/Davisonyeas)
 - [jdszekeres](https://github.com/jdszekeres)
+- [Emilio Aranda](https://github.com/emiara)
 - [Thainara Antunes](https://github.com/thaiantunes)
 - [Anuj Kumar Karmakar](https://github.com/anujkkarmakar)
 - [Angel Umeh](https://github.com/akcumeh)
