@@ -12,6 +12,7 @@
 - Manav Tore(https://github.com/manavtore)
 - Jagdish Kancharapu
 - Paul Kenyanya Omweri
+- [Mike Tagg](https://github.com/mdtagg)
 - [Ioannis Linardos](https://github.com/yannislinardos)
 - [PramodMa](https://github.cpm/pramodahetti)
 - [Shawn Harrison](https://github.com/thelazrus)
