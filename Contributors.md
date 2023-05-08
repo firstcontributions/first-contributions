@@ -1282,6 +1282,7 @@ Shrajan Jain
 - [Jash Karangiya 😎](https://github.com/jashkarangiya)
 - [sumit Gupta](https://github.com/hisumitgupta)
 - [Anurag Sarkar](https://github.com/Anurag-Sarkar)
+- [🚀Anurag Vaibhav🚀](https://github.com/itisia "just getting started")
 - [Zeeshan Lone](https://github.com/still-learning-ev)
 - [Julie Gunawan](https://github.com/juliegunawan)
 - [Soumya Mandal](https://github.com/heySoumy4)
