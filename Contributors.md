@@ -1506,4 +1506,5 @@ Shrajan Jain
 - [Krishnaraja Sagar](https://krishnarajasagar.github.io)
 - [Edison Zhou](https://github.com/nosidezhou)
 - [harsh dewan]
+- [Chance Back](https://github.com/chanceback)
 - <!-- prettier-ignore-end -->
