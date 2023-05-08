@@ -8,7 +8,6 @@
 - [SIDDHANT SAHU](https://github.com/siddhant660)
 - [Sagar Chaudhary](https://github.com/SAGARCODESTER)
 - NandaHein
-- Manav Tore(https://github.com/manavtore)
 - Jagdish Kancharapu
 - Paul Kenyanya Omweri
 - [PramodMa](https://github.cpm/pramodahetti)
@@ -26,6 +25,7 @@
 - [Eugene](https://github.com/eugene0928)
 - [Farshad](https://github.com/fa125had)
 - [Luiz Augusto](https://github.com/luizAFS23)
+- [Lukas Haring](https://github.com/mrlukyman/first-contributions)
 - [Jai Vignesh](https://github.com/hsengiviaJ)
 - [Ahsan Naqvi](https://github.com/s-ahsan-naqvi)
 - [Shivam Raj](https://github.com/SHIVAM-RAJ7)
