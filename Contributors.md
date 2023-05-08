@@ -3,6 +3,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Aery Zhao](https://github.com/aeryzhao)
 - [SIDDHANT SAHU](https://github.com/siddhant660)
 - [Sagar Chaudhary](https://github.com/SAGARCODESTER)
 - NandaHein
@@ -91,6 +92,7 @@
 - [Deepali Semwal](https://github.com/semwaldeepali)
 - [Ye Yint Myint Myat](https://github.com/yeyint-bee)
 - [John Clapper](https://github.com/britzky)
+- [Maria Aurellia](https://github.com/mariaadannies)
 - [Sahood cv](https://github.com/sahoodcode)
 - [Harish Rane](https://github.com/AzadRane)
 - [Glen Wojnar](https://github.com/glwo)
