@@ -36,6 +36,7 @@
 - [Harsh P V](https://github.com/harshpv07)
 - [Deepanshu Sharma](https://github.com/Deepanshu-Sharma-18)
 - Sabya
+- [Derek Young](https://github.com/derekpyoung)
 - [Dilshad](https://github.com/a-rustacean)
 - [Ganesh Revadi](https://github.com/ganeshrevadi)
 - [Droid Sumit](https://github.com/droidsumit)
