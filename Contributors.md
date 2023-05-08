@@ -1492,4 +1492,5 @@ Shrajan Jain
 - [Rayner Susanto](https://github.com/raynersusanto0)
 - [Ahmed ElSaeed](https://github.com/asmpro7)
 - [Krishnaraja Sagar](https://krishnarajasagar.github.io)
+- [Edison Zhou](https://github.com/nosidezhou)
 - <!-- prettier-ignore-end -->
