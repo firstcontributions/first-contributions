@@ -3,6 +3,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Nina Dijkstra](https://github.com/N-Dijkstra)
 - [Aery Zhao](https://github.com/aeryzhao)
 - [SIDDHANT SAHU](https://github.com/siddhant660)
 - [Sagar Chaudhary](https://github.com/SAGARCODESTER)
@@ -1262,6 +1263,7 @@ Shrajan Jain
 - [lemonadeseason](https://github.com/lemonadeseason)
 - [Alec Campos](https://github.com/Ajc1233)
 - [Tijme](https://github.com/7ijme)
+- [Bernard](https://github.com/kibathi)
 - [Łukasz Koziol](https://github.com/SayaS3)
 - [Ash Dev](https://github.com/ashdevin)
 - [DoubledConG](https://github.com/cccoding365)
