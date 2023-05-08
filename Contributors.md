@@ -1403,6 +1403,7 @@ Shrajan Jain
 - [Philippe Rambourg](https://github.com/PhilippeR)
 - [Shaneka Lewis](https://github.com/shanekalewis)
 - [Grego Pantelis](https://github.com/gregop)
+- [Pranjal Animesh](https://github.com/pranjalanimesh/)
 - [Guy Turevich](https://github.com/GuyTurevich)
 - [Ian Maestro](https://github.com/itsmaestro)
 - [Peter Lustig]
