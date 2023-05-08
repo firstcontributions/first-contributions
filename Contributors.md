@@ -1306,6 +1306,7 @@ Shrajan Jain
 - [Ryan Short](https://github.com/RyanShort13110)
 - [Tiphaine Bertone](https://github.com/Kanda09)
 - [Ryan Wozniak](https://github.com/Ryan9468)
+- [Vishal Wankhede](https://github.com/vishalwankhede44)
 - [Mrigankar Sonowal](https://github.com/Mrigankar1134)
 - [Gemini Powell](https://github.com/GemAfaWell)
 - [Muhammad Zaki](https://github.com/muzakonthecode)
