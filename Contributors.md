@@ -1489,4 +1489,5 @@ Shrajan Jain
 - [San-ctuary](https://github.com/San-ctuary)
 - [Rayner Susanto](https://github.com/raynersusanto0)
 - [Ahmed ElSaeed](https://github.com/asmpro7)
+- [Edison Zhou](https://github.com/nosidezhou)
 - <!-- prettier-ignore-end -->
