@@ -153,6 +153,7 @@
 - [Adam_Logman](https://github.com/adamlquman)
 - [Jared Pope](https://github.com/jpope6)
 - [Anwar_Hossain]  (https://github.com/anwarhossain1)
+- [Klade] (https://github.com/KladeRe)
 - [Techylawyer] (https://github.com/Techylawyer)
 - [Brijesh_Roy]  (https://github.com/brijeshroy)
 - [Cod3 With Raj](https://github.com/cod3withraj)
