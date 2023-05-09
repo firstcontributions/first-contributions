@@ -2,7 +2,7 @@
 
 # Contributors
 
-<!-- prettier-ignore-start -->[Riya Patidar] (https://github.com/riyapatidar1507)
+<!-- prettier-ignore-start -->
 - [Swastik Bansal] (https://github.com/swastikbansal)
 - [Saukar Manjunath](https://github.com/ManjunathSaukar)
 - [Michael McKnight](https://github.com/MichaelMcKnight)
@@ -23,6 +23,7 @@
 - [Shawn Harrison](https://github.com/thelazrus)
 - [Haraprasad Nandi](https://github.com/Whiteflakes)
 - Steamed Hams
+- [Riya Patidar] (https://github.com/riyapatidar1507)
 - [Nitin Chaudhary](https://github.com/AnCyNitinChaudhary)
 - [Rutvikjoshi63](https://github.com/rutvikjoshi63)
 - [Amirkhan](https://github.com/torexanovich)
