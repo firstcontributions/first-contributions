@@ -293,6 +293,7 @@
 - [Karthikeyan Nambivinayagam] (https://github.com/Karthikn-n)
 - [Provab Mongchaw Khyang](https://github.com/notmongchaw)
 - [ranjith rosan]
+- [Ayan Majumder](https://github.com/ayan910)
 - [Andrei Kuniutka](https://github.com/akuniutka)
 - [Zaakir Kamar](https://github.com/ZaakirKamar)
 - [Chris Banks](https://github.com/Chrix197)
