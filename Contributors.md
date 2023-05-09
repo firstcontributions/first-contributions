@@ -1309,6 +1309,7 @@ Shrajan Jain
 - [Anurag Sarkar](https://github.com/Anurag-Sarkar)
 - [Zeeshan Lone](https://github.com/still-learning-ev)
 - [Julie Gunawan][https://github.com/juliegunawan]
+- [Vikram Suthar][https://github.com/officialvikramsuthar]
 - [Soumya Mandal](https://github.com/heySoumy4)
 - [Mohd Yawar Shahid](https://github.com/yawar1101)
 - [ThotakuraHarish](https://github.com/ThotakuraHarish2003)
