@@ -55,6 +55,7 @@
 - [Harsh P V](https://github.com/harshpv07)
 - [Deepanshu Sharma](https://github.com/Deepanshu-Sharma-18)
 - Sabya
+- Megan Cooper (https://github.com/MegRCooper)
 - [Derek Young](https://github.com/derekpyoung)
 - [Pedro Braga](https://github.com/PedBraga)
 - [Dilshad](https://github.com/a-rustacean)
