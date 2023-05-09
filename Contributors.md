@@ -66,6 +66,7 @@
 - [Gyaur](https://github.com/Gy4ur)
 - [Berdiguly Yaylymov](https://github.com/yaylymov)
 - [Samarpita Roy] (https://github.com/SamarpitaRoy)
+- [Cuong Nguyen] (https://github.com/nguyencuong1005)
 - [Hein Htun Zaw] (https://github.com/yuu1994)
 - [Alifia Ghantiwala](https://github.com/aliflaila)
   [Abhishek ](https://github.com/Abhi2359)
