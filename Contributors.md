@@ -2,7 +2,7 @@
 
 # Contributors
 
-<!-- prettier-ignore-start -->
+<!-- prettier-ignore-start -->[Riya Patidar] (https://github.com/riyapatidar1507)
 - [Swastik Bansal] (https://github.com/swastikbansal)
 - [Saukar Manjunath](https://github.com/ManjunathSaukar)
 - [Michael McKnight](https://github.com/MichaelMcKnight)
