@@ -21,6 +21,7 @@
 - Balaji Sadanala
 - anchit jain(https://github.com/anchit85426)
 - Manav Tore(https://github.com/manavtore)
+- [Leandro Robert](https://github.com/leanrobert)
 - Jagdish Kancharapu
 - Paul Kenyanya Omweri
 - [Mike Tagg](https://github.com/mdtagg)
