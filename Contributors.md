@@ -19,6 +19,7 @@
 - [rejmut](https://github.com/rejmut)
 - [Sudeep](https://github.com/srs-sudeep)
 - -Yash Mishra
+- -Ashish Kumar Singh
 - NandaHein
 - Gamapg (https://github.com/gamapg)
 - Balaji Sadanala
