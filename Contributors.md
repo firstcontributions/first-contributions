@@ -155,6 +155,7 @@
 - [Rounak Joshi](https://github.com/RounakJoshi09)
 - [Patrickwchoi](https://github.com/patrickwchoi)
 - [Sham04](https://github.com/Sham04s)
+- [Satyam Singh](https://github.com/Satyxm)
 - [Heiteinany18](https://github.com/Heiteinany18)
   [Chai](https://github.com/chaima449)
   [RishiKesh](https://github.com/Rishipan)
