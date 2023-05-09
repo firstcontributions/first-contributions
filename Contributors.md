@@ -3,6 +3,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Sarthak] (https://github.com/sarthak2131)
 - [Swastik Bansal] (https://github.com/swastikbansal)
 - [Saukar Manjunath](https://github.com/ManjunathSaukar)
 - [Michael McKnight](https://github.com/MichaelMcKnight)
