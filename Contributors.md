@@ -4,6 +4,7 @@
 
 <!-- prettier-ignore-start -->
 - [Sarthak] (https://github.com/sarthak2131)
+- [Gunjan Mishra](https://github.com/GunjanKMishra)
 - [Swastik Bansal] (https://github.com/swastikbansal)
 - [Saukar Manjunath](https://github.com/ManjunathSaukar)
 - [Michael McKnight](https://github.com/MichaelMcKnight)
