@@ -11,6 +11,7 @@
 - [Sakshi Raut](https://github.com/SakshiRaut674)
 - [Aery Zhao](https://github.com/aeryzhao)
 - [SIDDHANT SAHU](https://github.com/siddhant660)
+- [Vihaan Vijayvargiya](https://github.com/vihaanvijayvargiya)
 - [Sagar Chaudhary](https://github.com/SAGARCODESTER)
 - [Bryan Bernardo](https://github.com/bernardo-bryan)
 - [rejmut](https://github.com/rejmut)
