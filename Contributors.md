@@ -1257,6 +1257,7 @@ Shrajan Jain
 - [Mohammed JBILOU](https://github.com/Molaryy)
 - [Victor Okech](https://github.com/victorokech)
 - [Zoheir Bentebbiche](https://github.com/zoheir78)
+- [Yashaswi Makula](https://github.com/yashaswi2000)
 - [Sam Barlas](https://github.com/sambarlas)
 - [Namlh](https://github.com/namlh023)
 - [Matheus Favaretto](https://github.com/MatheuslFavaretto)
