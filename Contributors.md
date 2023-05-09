@@ -2,7 +2,7 @@
 
 # Contributors
 
-<!-- prettier-ignore-start -->
+<!-- prettier-ignore-start -->[Sakshi Raut](https://github.com/SakshiRaut674)
 - [Saukar Manjunath](https://github.com/ManjunathSaukar)
 - [Michael McKnight](https://github.com/MichaelMcKnight)
 - [Nina Dijkstra](https://github.com/N-Dijkstra)
