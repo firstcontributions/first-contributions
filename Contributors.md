@@ -18,6 +18,7 @@
 - -Yash Mishra
 - NandaHein
 - Balaji Sadanala
+- anchit jain(https://github.com/anchit85426)
 - Manav Tore(https://github.com/manavtore)
 - Jagdish Kancharapu
 - Paul Kenyanya Omweri
