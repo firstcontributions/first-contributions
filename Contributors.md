@@ -1537,4 +1537,5 @@ Shrajan Jain
 - [Chance Back](https://github.com/chanceback)
 - [Harsh Srivastav] (https://github.com/Harsh32044)
 - [Sherin Saji] (https://github.com/sherinksaji)
+- [Hugo Schulz](https://github.com/HugoSchulz)
 - <!-- prettier-ignore-end -->
