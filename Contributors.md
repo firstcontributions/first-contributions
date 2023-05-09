@@ -29,6 +29,7 @@
 - [Abtuly](https://github.com/Abtuly)
 - Tejas Chouhan
 - [Rohitha Yarlagadda](https://github.com/YRohitha)
+- [Chinmay Bhalerao](https://github.com/ChinmayBH)
 - [Dunson](https://github.com/Dunson)
 - [Eugene](https://github.com/eugene0928)
 - [Farshad](https://github.com/fa125had)
