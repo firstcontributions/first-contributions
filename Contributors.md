@@ -3,6 +3,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Vihaan Vijayvargiya](https://github.com/vihaanvijayvargiya)
 - [Saukar Manjunath](https://github.com/ManjunathSaukar)
 - [Michael McKnight](https://github.com/MichaelMcKnight)
 - [Nina Dijkstra](https://github.com/N-Dijkstra)
