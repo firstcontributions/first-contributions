@@ -18,7 +18,8 @@
 - [Bryan Bernardo](https://github.com/bernardo-bryan)
 - [rejmut](https://github.com/rejmut)
 - [Sudeep](https://github.com/srs-sudeep)
-- Yash Mishra
+- -Yash Mishra
+- -Ashish Kumar Singh
 - NandaHein
 - [Gamapg](https://github.com/gamapg)
 - Balaji Sadanala
@@ -1547,4 +1548,5 @@ Shrajan Jain
 - [Sherin Saji](https://github.com/sherinksaji)
 - [Hugo Schulz](https://github.com/HugoSchulz)
 - [northernbelle87](https://github.com/northernbelle87)
+- [Sujal Tangde] (https://github.com/sujaltangde/)  
 - <!-- prettier-ignore-end -->
