@@ -47,6 +47,7 @@
 - [Eugene](https://github.com/eugene0928)
 - [Farshad](https://github.com/fa125had)
 - [Luiz Augusto](https://github.com/luizAFS23)
+- [Lukas Haring](https://github.com/mrlukyman/first-contributions)
 - [Jai Vignesh](https://github.com/hsengiviaJ)
 - [Ahsan Naqvi](https://github.com/s-ahsan-naqvi)
 - [Syed Ayaan Ali](https://github.com/incognito-root)
