@@ -2,10 +2,11 @@
 
 # Contributors
 
-<!-- prettier-ignore-start -->[Sakshi Raut](https://github.com/SakshiRaut674)
+<!-- prettier-ignore-start -->
 - [Saukar Manjunath](https://github.com/ManjunathSaukar)
 - [Michael McKnight](https://github.com/MichaelMcKnight)
 - [Nina Dijkstra](https://github.com/N-Dijkstra)
+- [Sakshi Raut](https://github.com/SakshiRaut674)
 - [Aery Zhao](https://github.com/aeryzhao)
 - [SIDDHANT SAHU](https://github.com/siddhant660)
 - [Sagar Chaudhary](https://github.com/SAGARCODESTER)
