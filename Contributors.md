@@ -81,6 +81,7 @@
 - [Nicekloe](https://github.com/Nicekloe)
 - [Pritse](https://github.com/Pritse)
 - [Vittorio Pinti](https://github.com/vpinti)
+- [Amshu G M](https://github.com/AmshuGM)
 - [Emmanuel Okonkwo](https://github.com/mettad3v)
 - [braylonsteffen](https://github.com/braylonsteffen)
 - [Daniel Johnson](https://github.com/Dev-Dannie)
