@@ -223,7 +223,7 @@
 - [Grumbo]
 - [khunsai06](https://github.com/khunsai06)
 - [shivamxsurya](https://github.com/shivamxsurya)
--Madhur Manan
+  -Madhur Manan
 - [Nelson Matenda 🚀](https://github.com/nelsonmatenda)
 -[Ayooluwa Aduwo](https://github.com/AduwoAyooluwa)
 - [m-foskett](https://github.com/m-foskett)
@@ -344,7 +344,7 @@
 - [Satendra Mishra](https://github.com/Satendram)
 - [Busiswa M](https://github.com/BusiswaM)
 - [Himanshu Singh](https://github.com/singh-himanshu-16)
--[Victory Ndu](https://github.com/Victoryeddy)
+  -[Victory Ndu](https://github.com/Victoryeddy)
 - [Himanshu Mathur](https://github.com/HimanshuMathur1396)
 - [Tim Yu](https://github.com/tyu012)
 - [DineshVeguru](https://github.com/dineshveguru)
@@ -926,7 +926,7 @@ Cody LeRoy
 - [Phillip Yen](https://github.com/yphillip)
 - [kan01234](https://github.com/kan01234/)
 - [Mark DC95](https://github.com/MarkDC95)
-Shrajan Jain
+  Shrajan Jain
 - [lazylittlestar](https://github.com/lazylittlestar)
 - [japesjake](http://github.com/japesjake)
 - [EvyatarEsterson🙂](https://github.com/EvyatarEsterson)
