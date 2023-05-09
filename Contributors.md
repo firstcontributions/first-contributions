@@ -198,6 +198,7 @@
 - [shivamxsurya](https://github.com/shivamxsurya)
 -Madhur Manan
 - [Nelson Matenda 🚀](https://github.com/nelsonmatenda)
+-[Ayooluwa Aduwo](https://github.com/AduwoAyooluwa)
 - [m-foskett](https://github.com/m-foskett)
 - [Christopher Lopez](https://github.com/BedlaminGoliath)
 - [HOUSSAM666](https://github.com/HOUSSAM666)
