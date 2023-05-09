@@ -191,7 +191,7 @@
 - [Alvin James Bellero](https://github.com/shiftEscape)
 - [Hidayatullah](https://github.com/dayatnhbtc)
 - [Adlizone](https://github.com/adlizone)
-- [Drew Pate] (https://github.com/drewpate)
+- [Andrew Pate] (https://github.com/drewpate)
 - [Dhruv Pandey@Devsoc](https://github.com/dhruv12pandey)
 - [Palak Sinha](https://github.com/sinhapalak)
 - [Abdullah Yakub](https://github.com/developerabz/)
