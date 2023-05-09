@@ -3,6 +3,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Yatharth Patankar] (https://github.com/yatharth-1907)
 - [Saukar Manjunath](https://github.com/ManjunathSaukar)
 - [Michael McKnight](https://github.com/MichaelMcKnight)
 - [Nina Dijkstra](https://github.com/N-Dijkstra)
