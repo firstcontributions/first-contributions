@@ -16,6 +16,7 @@
 - [Sagar Chaudhary](https://github.com/SAGARCODESTER)
 - [Bryan Bernardo](https://github.com/bernardo-bryan)
 - [rejmut](https://github.com/rejmut)
+- [Sudeep](https://github.com/srs-sudeep)
 - -Yash Mishra
 - NandaHein
 - Balaji Sadanala
