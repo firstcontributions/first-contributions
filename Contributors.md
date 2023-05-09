@@ -19,6 +19,7 @@
 - [Sudeep](https://github.com/srs-sudeep)
 - -Yash Mishra
 - NandaHein
+- Gamapg (https://github.com/gamapg)
 - Balaji Sadanala
 - anchit jain(https://github.com/anchit85426)
 - Manav Tore(https://github.com/manavtore)
