@@ -10,6 +10,7 @@
 - [SIDDHANT SAHU](https://github.com/siddhant660)
 - [Sagar Chaudhary](https://github.com/SAGARCODESTER)
 - [Bryan Bernardo](https://github.com/bernardo-bryan)
+- [rejmut](https://github.com/rejmut)
 - NandaHein
 - Balaji Sadanala
 - Manav Tore(https://github.com/manavtore)
