@@ -1417,6 +1417,7 @@ Shrajan Jain
 - [Robin Muijs](https://github.com/RobinMuijs2000)
 - [Guan Zhi Wang](https://github.com/joe94113)
 - [Jing Yi]
+- [Juan Ospina](https://github.com/juandaosp)
 - [Paaad]
 - [Pranjit Medhi](https://github.com/real-zit)
 - [Agent J](https://github.com/J-0110)
