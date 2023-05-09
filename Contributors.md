@@ -8,6 +8,7 @@
 - [Saukar Manjunath](https://github.com/ManjunathSaukar)
 - [Michael McKnight](https://github.com/MichaelMcKnight)
 - [Nina Dijkstra](https://github.com/N-Dijkstra)
+- [Farzan Ekram](https://github.com/farzanekram07)
 - [Sakshi Raut](https://github.com/SakshiRaut674)
 - [Aery Zhao](https://github.com/aeryzhao)
 - [SIDDHANT SAHU](https://github.com/siddhant660)
