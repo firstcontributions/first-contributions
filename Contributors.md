@@ -95,6 +95,7 @@
 - [Prathmesh Deshpande](https://github.com/prathm3)
 - [chamomil](https://github.com/chamomil)
 - [Rituraj](https://github.com/enrituraj)
+- [Rohit Mahesh](https://github.com/R041T)
 - [Nicekloe](https://github.com/Nicekloe)
 - [Pritse](https://github.com/Pritse)
 - [Vittorio Pinti](https://github.com/vpinti)
