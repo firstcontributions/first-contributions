@@ -57,6 +57,7 @@
 - [Deepanshu Sharma](https://github.com/Deepanshu-Sharma-18)
 - Sabya
 - Megan Cooper (https://github.com/MegRCooper)
+- [Avishkaar](https://github.com/Avishkaar007)
 - [Derek Young](https://github.com/derekpyoung)
 - [Pedro Braga](https://github.com/PedBraga)
 - [Dilshad](https://github.com/a-rustacean)
