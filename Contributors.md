@@ -1549,5 +1549,6 @@ Shrajan Jain
 - [Sherin Saji] (https://github.com/sherinksaji)
 - [Hugo Schulz](https://github.com/HugoSchulz)
 - [northernbelle87](https://github.com/northernbelle87)
-- [Sujal Tangde] (https://github.com/sujaltangde/)  
+- [Sujal Tangde] (https://github.com/sujaltangde/)
+- [Andres Ponciano] (https://github.com/AndresPonciano)
 - <!-- prettier-ignore-end -->
