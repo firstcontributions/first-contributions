@@ -92,6 +92,7 @@
 - [ARYAN](https://github.com/aryanhr0001)
 - [Omkar](https://github.com/omkarb21)
 - [Matias Mansilla](https://github.com/MansillaM)
+- [Jackson McGillivary](https://github.com/Revenant70)
 - [Srujan Geedipalli](https://github.com/Srujan273)
 - [Atharav](https://github.com/harshal-ishere)
 - [Arthur Krom](https://github.com/Arthur-Krom)
