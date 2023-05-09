@@ -1547,6 +1547,7 @@ Cody LeRoy
 - [Ahmed ElSaeed](https://github.com/asmpro7)
 - [Krishnaraja Sagar](https://krishnarajasagar.github.io)
 - [Edison Zhou](https://github.com/nosidezhou)
+- [harsh dewan]
 - [Chance Back](https://github.com/chanceback)
 - [Harsh Srivastav] (https://github.com/Harsh32044)
 - [Sherin Saji] (https://github.com/sherinksaji)
