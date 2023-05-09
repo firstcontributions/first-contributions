@@ -75,6 +75,7 @@
 - [Arthur Krom](https://github.com/Arthur-Krom)
 - [alonGitH](https://github.com/alonGitH)
 - [Simon Swopes](https://github.com/SpicyCircuit)
+- [Prathmesh Deshpande](https://github.com/prathm3)
 - [chamomil](https://github.com/chamomil)
 - [Rituraj](https://github.com/enrituraj)
 - [Nicekloe](https://github.com/Nicekloe)
