@@ -368,6 +368,7 @@
 - [Natasha Mundada]()
 - [Son Thanh Tran]
 - [Adrien]
+- [Luis Salas]
 - [notdncly]() -[Arjun]
   [Hung Cai](https://github.com/Pro-vo-ker)
 - [Stephen Adesina](https://github.com/adstefnum)
