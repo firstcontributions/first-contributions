@@ -4,6 +4,7 @@
 
 <!-- prettier-ignore-start -->
 - [Sarthak](https://github.com/sarthak2131)
+- [Yuvraj Katkar](https://github.com/YuvrajKatkar)
 - [Gunjan Mishra](https://github.com/GunjanKMishra)
 - [Swastik Bansal](https://github.com/swastikbansal)
 - [Saukar Manjunath](https://github.com/ManjunathSaukar)
@@ -16,11 +17,14 @@
 - [Sagar Chaudhary](https://github.com/SAGARCODESTER)
 - [Bryan Bernardo](https://github.com/bernardo-bryan)
 - [rejmut](https://github.com/rejmut)
+- [Sudeep](https://github.com/srs-sudeep)
 - Yash Mishra
 - NandaHein
+- [Gamapg](https://github.com/gamapg)
 - Balaji Sadanala
 - [anchit jain](https://github.com/anchit85426)
 - [Manav Tore](https://github.com/manavtore)
+- [Leandro Robert](https://github.com/leanrobert)
 - Jagdish Kancharapu
 - Paul Kenyanya Omweri
 - [Mike Tagg](https://github.com/mdtagg)
@@ -29,7 +33,7 @@
 - [Shawn Harrison](https://github.com/thelazrus)
 - [Haraprasad Nandi](https://github.com/Whiteflakes)
 - Steamed Hams
-- [Riya Patidar] (https://github.com/riyapatidar1507)
+- [Riya Patidar](https://github.com/riyapatidar1507)
 - [Nitin Chaudhary](https://github.com/AnCyNitinChaudhary)
 - [Rutvikjoshi63](https://github.com/rutvikjoshi63)
 - [Amirkhan](https://github.com/torexanovich)
@@ -51,7 +55,9 @@
 - [Harsh P V](https://github.com/harshpv07)
 - [Deepanshu Sharma](https://github.com/Deepanshu-Sharma-18)
 - Sabya
+- Megan Cooper (https://github.com/MegRCooper)
 - [Derek Young](https://github.com/derekpyoung)
+- [Pedro Braga](https://github.com/PedBraga)
 - [Dilshad](https://github.com/a-rustacean)
 - [Ganesh Revadi](https://github.com/ganeshrevadi)
 - [Droid Sumit](https://github.com/droidsumit)
@@ -92,6 +98,7 @@
 - [Prathmesh Deshpande](https://github.com/prathm3)
 - [chamomil](https://github.com/chamomil)
 - [Rituraj](https://github.com/enrituraj)
+- [Rohit Mahesh](https://github.com/R041T)
 - [Nicekloe](https://github.com/Nicekloe)
 - [Pritse](https://github.com/Pritse)
 - [Vittorio Pinti](https://github.com/vpinti)
@@ -1539,4 +1546,5 @@ Shrajan Jain
 - [Harsh Srivastav](https://github.com/Harsh32044)
 - [Sherin Saji](https://github.com/sherinksaji)
 - [Hugo Schulz](https://github.com/HugoSchulz)
+- [northernbelle87](https://github.com/northernbelle87)
 - <!-- prettier-ignore-end -->
