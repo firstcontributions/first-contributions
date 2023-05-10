@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Sarthak](https://github.com/sarthak2131)
+- [Prabal Sharma](https://github.com/prabalsh19)
 - [Yuvraj Katkar](https://github.com/YuvrajKatkar)
 - [Gunjan Mishra](https://github.com/GunjanKMishra)
 - [Swastik Bansal](https://github.com/swastikbansal)
