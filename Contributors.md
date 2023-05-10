@@ -1573,5 +1573,6 @@ Cody LeRoy
 - [Wai Lee](https://github.com/halfwai)
 - [Niek Jacobse](https://github.com/NiekJacobse)
 - [Fazlı Berk Ördek](https://github.com/fazliberkordek)
-- Fubge(https://github.com/Fubge
+- Fubge(https://github.com/Fubge)
+- [wiwat](https://github.com/mostvivat)
 - <!-- prettier-ignore-end -->
