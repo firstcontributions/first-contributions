@@ -1567,4 +1567,6 @@ Cody LeRoy
 - [Wai Lee](https://github.com/halfwai)
 - [Niek Jacobse](https://github.com/NiekJacobse)
 - Fubge(https://github.com/Fubge
+- [Justrooo](https://github.com/Justrooo)
+
 - <!-- prettier-ignore-end -->
