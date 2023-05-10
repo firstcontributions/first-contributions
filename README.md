@@ -84,6 +84,19 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 
 #### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
+## Basic definitions and meaning
+Before we begin, let's go over the meanings of some terms we'll be using:
+
+'Fork:' Imagine you have a toy car, and you want to make some changes to it without affecting the original car. Forking is like making a copy of the original car, so you have your own version to play with and modify.
+
+'Clone:' When you clone something, it's like creating an exact duplicate of an object. It's similar to making a photocopy of a drawing or a painting. You take the original and make an identical copy that you can work with separately.
+
+'Pull Request:' A pull request is like asking someone to review and accept your changes to a toy car. Let's say you've made some cool modifications to your cloned car, and you want the original car owner to consider adding those changes to their car. You create a pull request, which is like a request to "pull" your changes into their version.
+
+'Branch:' Think of a branch as a separate road that you can take while working on changes to a toy car. The main road represents the original version, and a branch is like a detour you can take to make your own modifications without affecting the main road. This way, you can experiment with different ideas and keep your changes separate until you're ready to merge them back onto the main road.
+
+'Commit:' A commit is like taking a snapshot of your toy car at a specific point in time. It's like capturing how your car looks and works after making some changes. Each commit represents a different version of the toy car that you can go back to and see the progress you've made.
+
 ## Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
