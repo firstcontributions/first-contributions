@@ -629,6 +629,7 @@
 - [Funkey](https://github.com/funkey-126)
 - [Tasnim@DevSocPI](https://github.com/tasnim496)
 - [AVINASH YADAV](https://github.com/Happylife10)
+- [Andrei Psait](https://github.com/psaitandrei)
 - [Helix68](https://github.com/Helix68)
 - [NoteWaala](https://notewaala.com)
 - [Joshua Knorz](https://github.com/JoshKn)
