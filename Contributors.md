@@ -22,6 +22,7 @@
 - [CultistOfTheEnd](https://github.com/NuxarianCookie)
 - [Tobvl](https://github.com/Tobvl)
 - [Sudeep](https://github.com/srs-sudeep)
+- [Lenox Mangi](https://github.com/DrBake)
 - -Yash Mishra
 - -Ashish Kumar Singh
 - NandaHein
