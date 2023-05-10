@@ -1506,6 +1506,7 @@
 - [Rezaye Rabbi](https://github.com/rzrabbi)
 - [Areeb Ur Rehman Khan](https://github/Rehmanareeb)
 - [Sahil Gupta](https://github/Waahguptaji)
+- [Devin Catuns](https://github.com/dcat23)
 - [Andres F Cabezas Quicano](https://github.com/afcabezasq)
 - [Mirgiyasov Abubakr](https://github.com/abubakrmirgiyasov)
 - [Abhijit Prajapati](https://github.com/AbhijitPrajapati12)
