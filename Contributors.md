@@ -115,6 +115,7 @@
 - [Emmanuel Okonkwo](https://github.com/mettad3v)
 - [braylonsteffen](https://github.com/braylonsteffen)
 - [Daniel Johnson](https://github.com/Dev-Dannie)
+- [Armon Astalis](https://github.com/armonastalis)
 - [Ross Silcott](https://github.com/RCSilcott)
 - [xavierjimz](https://github.com/xavierjimz/)
 - [Satyam Nyati](https://github.com/satyamnyati)
