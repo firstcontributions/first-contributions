@@ -1587,4 +1587,6 @@
 - Fubge(https://github.com/Fubge)
 - [wiwat](https://github.com/mostvivat)
 - [Adrian Gryń](https://github.com/Adrgryn)
+- [Duncan Tweed] (https://github.com/PoweredByPorridge)
+
 - <!-- prettier-ignore-end -->
