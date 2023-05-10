@@ -1572,4 +1572,5 @@
 - [Fazlı Berk Ördek](https://github.com/fazliberkordek)
 - Fubge(https://github.com/Fubge)
 - [wiwat](https://github.com/mostvivat)
+- [Adrian Gryń](https://github.com/Adrgryn)
 - <!-- prettier-ignore-end -->
