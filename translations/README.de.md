@@ -4,7 +4,7 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# First Contributions
+# Erste Beiträge
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Repository forken" />
 
@@ -94,7 +94,7 @@ Erstelle einen Pull Request indem du auf die Schaltfläche `Create pull request`
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Pull Request senden" />
 
-Roshan Jossey wird nun deine Änderungen in den Master Branch dieses Projekts mergen. Du erhältst eine E-Mail sobald dies geschehen ist. 
+Roshan Jossey wird nun deine Änderungen in den Master Branch dieses Projekts mergen. Du erhältst eine E-Mail, sobald dies geschehen ist. 
 
 ## Wie geht es weiter?
 
