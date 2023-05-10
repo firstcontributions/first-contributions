@@ -1110,6 +1110,7 @@
 - [Chris Banford 🇨🇭🇺🇸](https://github.com/ZermattChris)
 - [Tuan Nguyen Minh](https://github.com/tuana9a)
 - [Cameron Luo](https://github.com/camer0nluo)
+- [Ryan Valdriz](https://github.com/ry-valdriz)
 - [Kirtiraj Sardesai](https://github.com/RefreshMyMind-I)
 - [Jonathan Vega](https://github.com/JonVega)
 - [Stanley Louie](https://github.com/Iouie)
