@@ -1551,4 +1551,5 @@ Cody LeRoy
 - [Sujal Tangde] (https://github.com/sujaltangde/)
 - [Andres Ponciano] (https://github.com/AndresPonciano)
 - [Christopher Perez Lebron] (https://github.com/ChrisPerezLebron)
+- [Dev Rishi Jain] (https://github.com/DevRishiJain)
 - <!-- prettier-ignore-end -->
