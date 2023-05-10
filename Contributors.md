@@ -1574,5 +1574,6 @@ Cody LeRoy
 - [Niek Jacobse](https://github.com/NiekJacobse)
 - [Zeeshan Khan](https://github.com/Klassy-Kartoon)
 - [Fazlı Berk Ördek](https://github.com/fazliberkordek)
-- Fubge(https://github.com/Fubge
+- Fubge(https://github.com/Fubge)
+- [wiwat](https://github.com/mostvivat)
 - <!-- prettier-ignore-end -->
