@@ -1,9 +1,7 @@
-
-
 # Contributors
 
-
 <!-- prettier-ignore-start -->
+
 - [Sarthak](https://github.com/sarthak2131)
 - [Yuvraj Katkar](https://github.com/YuvrajKatkar)
 - [Gunjan Mishra](https://github.com/GunjanKMishra)
@@ -212,8 +210,7 @@
 - [Raj-101](https://github.com/Raj-101)
 - [MonBalogh](https://github.com/MonBalogh)
 - [Summer Babel](https://github.com/sumerbabel)
-- [Kunal Virk](https://github.com/kunalvirk)
--[Subham Thapa](https://github.com/WhimsicalWizard)
+- [Kunal Virk](https://github.com/kunalvirk) -[Subham Thapa](https://github.com/WhimsicalWizard)
 - just-now
 - [Shubh Panwala](https://github.com/shubhpanwala)
 - [Mahmoud Ibrahiam](https://github.com/remahmoud)
@@ -236,8 +233,7 @@
 - [khunsai06](https://github.com/khunsai06)
 - [shivamxsurya](https://github.com/shivamxsurya)
   -Madhur Manan
-- [Nelson Matenda 🚀](https://github.com/nelsonmatenda)
--[Ayooluwa Aduwo](https://github.com/AduwoAyooluwa)
+- [Nelson Matenda 🚀](https://github.com/nelsonmatenda) -[Ayooluwa Aduwo](https://github.com/AduwoAyooluwa)
 - [m-foskett](https://github.com/m-foskett)
 - [Christopher Lopez](https://github.com/BedlaminGoliath)
 - [HOUSSAM666](https://github.com/HOUSSAM666)
@@ -350,8 +346,7 @@
 - [Leandro Ezequiel Aballone](https://github.com/Lean-Aballone)
 - [Satendra Mishra](https://github.com/Satendram)
 - [Busiswa M](https://github.com/BusiswaM)
-- [Himanshu Singh](https://github.com/singh-himanshu-16)
-  -[Victory Ndu](https://github.com/Victoryeddy)
+- [Himanshu Singh](https://github.com/singh-himanshu-16) -[Victory Ndu](https://github.com/Victoryeddy)
 - [Himanshu Mathur](https://github.com/HimanshuMathur1396)
 - [Tim Yu](https://github.com/tyu012)
 - [DineshVeguru](https://github.com/dineshveguru)
@@ -691,7 +686,7 @@
 - [Deepali Sayana](https://github.com/deepseas07)
 - [Sayan Bose](https://github.com/sayanbose1)
 - [André Carvalhal](https://github.com/ANDREC1986)
-Cody LeRoy
+  Cody LeRoy
 - [Rahul Saha](https://github.com/Rahul10Saha)
 - [Shaswat Satyam](https://github.com/shaswat-satyam)
 - [Vishal](https://github.com/VishalPraneeth)
@@ -744,8 +739,7 @@ Cody LeRoy
 - [Rishi Singh](https://github.com/mrsingh-rishi)
 - [Arpan Adlakhiya](https://github.com/mrr0b0t-0x1)
 - [Nia Ahmed](https://github.com/technialogy)
-- [Jonas Reiher](https://github.com/jonasreiher)
--[Better Kayode](https://github.com/KayodeBetter)
+- [Jonas Reiher](https://github.com/jonasreiher) -[Better Kayode](https://github.com/KayodeBetter)
 - [Stuart Bailey](https://github.com/stubailey18)
 - [Dempsey Palacio Tascon](https://github.com/deej-tsn)
 - [Bikash yadav](https://github.com/bikashydv)
@@ -766,7 +760,7 @@ Cody LeRoy
 - [Donatus Tamajong](https://github.com/Donatus)
 - [Rucha Daware](https://github.com/ruchadaware18)
 - [Prerit Agrawal](https://github.com/preritagrawal06)
-[Mohammed Odejimi](https://github.com/MohOdejimi)
+  [Mohammed Odejimi](https://github.com/MohOdejimi)
 - [Chiranjit Debnath](https://github.com/tomtanner)
 - [JSTNSNE](https://github.com/JSTNSNE)
 - [Mohamed Mostafa](https://github.com/mohamedmostafakhudari)
@@ -1454,7 +1448,7 @@ Cody LeRoy
 - [Leon Neugum](https://github.com/LeeNeu)
 - [Robin Muijs](https://github.com/RobinMuijs2000)
 - [Leon Neugum] (https://github.com/LeeNeu)
--  [Tochukwu Nwosa] (https://github.com/obere4u)
+- [Tochukwu Nwosa] (https://github.com/obere4u)
 - [Leon Neugum] (https://github.com/LeeNeu
 - [Guan Zhi Wang](https://github.com/joe94113)
 - Jing Yi
@@ -1562,12 +1556,12 @@ Cody LeRoy
 - [Sherin Saji](https://github.com/sherinksaji)
 - [Hugo Schulz](https://github.com/HugoSchulz)
 - [northernbelle87](https://github.com/northernbelle87)
-- [Sujal Tangde] (https://github.com/sujaltangde/)
-- [Andres Ponciano] (https://github.com/AndresPonciano)
-- [Christopher Perez Lebron] (https://github.com/ChrisPerezLebron)
-- [Dev Rishi Jain] (https://github.com/DevRishiJain)
+- [Sujal Tangde](https://github.com/sujaltangde/)
+- [Andres Ponciano](https://github.com/AndresPonciano)
+- [Christopher Perez Lebron](https://github.com/ChrisPerezLebron)
+- [Dev Rishi Jain](https://github.com/DevRishiJain)
 - [Wai Lee](https://github.com/halfwai)
 - [Niek Jacobse](https://github.com/NiekJacobse)
 - [Fazlı Berk Ördek](https://github.com/fazliberkordek)
-- Fubge(https://github.com/Fubge
+- [Fubge](https://github.com/Fubge)
 - <!-- prettier-ignore-end -->
