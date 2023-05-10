@@ -32,7 +32,7 @@
 - -Yash Mishra
 - -Ashish Kumar Singh
 - NandaHein
--Hardik Sharma
+  -Hardik Sharma
 - [Gamapg](https://github.com/gamapg)
 - Balaji Sadanala
 - [Anastasiia Koba](https://github.com/anastasiia-koba)
@@ -547,6 +547,7 @@
 - [KDE030617](https://github.com/KDE030617)
 - [starR-ight](https://github.com/StarR-ight)
 - [Leigh-Ola](https://github.com/Leigh-Ola)
+- [Jordan Sucher] (https://github.com/JordanSucher)
 - [SAket MIshra](https://github.com/saket3199)
 - [Yathin](https://github.com/yathinkv)
 - [Abhinav Sharma](https://github.com/abhinavvsharma)
