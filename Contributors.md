@@ -2,6 +2,7 @@
 
 # Contributors
 
+
 <!-- prettier-ignore-start -->
 - [Sarthak](https://github.com/sarthak2131)
 - [Yuvraj Katkar](https://github.com/YuvrajKatkar)
@@ -293,13 +294,7 @@
 - [Ravindra Reddy](https://github.com/ravindra135)
 - [Sagar Sharma](https://github.com/sagar-io)
 - [Stefan Baciu](https://github.com/StefanCodru)
-- [Ange-Emmanuel Kouakou](https://github.com/SolarBlaze)
-- [Ioan Circiumaru](https://github.com/circiumaruioan)
-- [Lucas Vieira Ribeiro](https://github.com/Lucas-Vieira-R/)
-- [Quentin Ramsay](https://github.com/QuentinRamsay/)
-- [Anukam Chidalu](https://github.com/daluclemas)
-- [Simon](https://github.com/simjkx)
-- [urbanIron](https://github.com/urbanIron)
+
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
 - [Malavya Raval](https://github.com/MalavyaRaval)
 - [José Ortiz-Ocampo](https://github.com/jhortizo)
@@ -449,10 +444,7 @@
 - [jeongwoo903](https://github.com/jeongwoo903)
 - [Tobys-Nap](https://github.com/TobysNap)
 - [albus-droid](https://github.com/albus-droid)
-- [SSENYONDO MICHEAL](https://github.com/ssenyondo67)
-- [Zhanarys Mukhtarov](https://github.com/pmzh9)
-- [Desmond-Fon](https://github.com/Desmond-Fon)
-- [Bajomo-semilore](https://github.com/Sbtech24)
+
 - [Mariangela Petrizzo](http://github.com/petrizzo)
 - [johanneshn](https://github.com/Johanneshn)
 - [Srijanya Durganala](https://github.com/Srijanya.D)
@@ -498,6 +490,7 @@
 - [Jonathan G Araya](https://github.com/Jonathana1106)
 - [Jeremy Gleason](https://github.com/jeremy-gleason)
 - [Felipe Seda](https://github.com/fseda)
+- [Chandra Behera](https://github.com/chandraonweb)
 - [jungchoib](https://github.com/jungchoib)
 - [rajdugad](https://github.com/rajdugad)
 - [Tarek-Azzazi](https://github.com/tarekazzazi)
@@ -768,7 +761,6 @@ Cody LeRoy
 - [Chiranjit Debnath](https://github.com/tomtanner)
 - [JSTNSNE](https://github.com/JSTNSNE)
 - [Mohamed Mostafa](https://github.com/mohamedmostafakhudari)
-- [JSTNSNE](https://github.com/JSTNSNE)
 - [Aimee T](https://github.com/aimeetacchi)
 - [Alkut Askar](https://github.com/elkut)
 - [klpod221](https://github.com/klpod221)
