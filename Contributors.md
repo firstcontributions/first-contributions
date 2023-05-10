@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Akhil](https://github.com/Akhil-77)
 - [Sarthak](https://github.com/sarthak2131)
 - [Prabal Sharma](https://github.com/prabalsh19)
 - [Yuvraj Katkar](https://github.com/YuvrajKatkar)
