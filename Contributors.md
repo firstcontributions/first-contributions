@@ -1567,5 +1567,6 @@ Cody LeRoy
 - [Dev Rishi Jain] (https://github.com/DevRishiJain)
 - [Wai Lee](https://github.com/halfwai)
 - [Niek Jacobse](https://github.com/NiekJacobse)
+- [Fazlı Berk Ördek](https://github.com/fazliberkordek)
 - Fubge(https://github.com/Fubge
 - <!-- prettier-ignore-end -->
