@@ -10,6 +10,7 @@
 - [Swastik Bansal](https://github.com/swastikbansal)
 - [Mushfiqur Rahman](https://github.com/mushfiq13)
 - [Saukar Manjunath](https://github.com/ManjunathSaukar)
+- [Kamal Koranga](https://github.com/Kamalkoranga)
 - [Michael McKnight](https://github.com/MichaelMcKnight)
 - [Nina Dijkstra](https://github.com/N-Dijkstra)
 - [Sakshi Raut](https://github.com/SakshiRaut674)
