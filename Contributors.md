@@ -1141,6 +1141,8 @@ Cody LeRoy
 - [Harkirat Cheema](https://github.com/harry-cheema07)
 - [Harshita Upadhyay](https://github.com/harshita130602)
 - [Satyam Rai](https://github.com/Satyam-R)
+- [Manish Yadav](https://github.com/manishyadav951)
+- [Muhammed Shittu](https://github.com/devshittu)
 - [Tabish Khan](https://github.com/tabishkh-an)
 - [Samrood Ali](https://github.com/SamroodAli)
 - [Marcus Otterstad](https://github.com/marcusotterstad)
