@@ -451,7 +451,7 @@
 - [albus-droid](https://github.com/albus-droid)
 
 - [Mariangela Petrizzo](http://github.com/petrizzo)
-- [johanneshn](https://github.com/Johanneshn)
+- [johanneshn](https://github.com/Johanneshn)index
 - [Srijanya Durganala](https://github.com/Srijanya.D)
 - [Sean Colligan](https://github.com/srcengine)
 - [TusharPramanick](https://github.com/TusharPramanick)
@@ -481,7 +481,7 @@
 - [Sweta Ghosh](https://github.com/swetag-hash)
 - Bruno V. T. Barbosa
 - [Brayan Kai Mwanyumba](https://github.com/mwanyumba7)
-- Karthik
+- Karthikindex
 - Weverak
 - Crux
 - [Mcnores Samuel](https://github.com/Mcnores-Samuel)
@@ -541,7 +541,7 @@
 - [Etinosa Ekhator](https://github.com/Etinosa22)
 - [seongjunyeong](https://github.com/seongjunyeong)
 - [jong-k](https://github.com/jong-k)
-- [Mohamed Ali Nor](https://github.com/IbnuAlii)
+- [Mohamed Ali Nor](https://github.com/IbnuAlii)index
 - [Jungmw03](https://github.com/Jungmw03)
 - [T K](https://github.com/slient-creator)
 - [Dmitry Golovach](https://github.com/dagolovach)
@@ -601,7 +601,7 @@
 - [Akshay Soni](https://github.com/akshaysoni10)
 - [Denis Koshelev](https://github.com/kshpdr)
 - [youngjun1227](https://github.com/youngjun1227)
-- [Ankit Gupta](https://github.com/Ankit-Gupta0)
+- [Ankit Gupta](https://github.com/Ankit-Gupta0)index
 - [Vinci Liu](https://github.com/vinciliu30)
 - [Veena P D](https://github.com/VeenaPD)
 - [Jana Schmidberger](https://github.com/janasberger)
@@ -1035,7 +1035,7 @@ Cody LeRoy
 - [Suhyeon Yu](https://github.com/RSuhyeon)
 - [Steven Williams](https://github.com/swilliams186)
 - [Rajat](https://github.com/alphadinu)
-- [BestEggShell](https://github.com/BestEggShell)
+- [BestEggShell](https://github.com/BestEggShell)index
 - [Duy Dang](https://github.com/dqduy)
 - [Fitriningtyas](https://github.com/fitrifityanto)
 - [Saif Ali Prasla](https://github.com/Saifali786)
@@ -1559,4 +1559,5 @@ Cody LeRoy
 - [Dev Rishi Jain] (https://github.com/DevRishiJain)
 - [Wai Lee](https://github.com/halfwai)
 - [Niek Jacobse](https://github.com/NiekJacobse)
+- Fubge(https://github.com/Fubge
 - <!-- prettier-ignore-end -->
