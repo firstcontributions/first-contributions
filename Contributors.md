@@ -1555,4 +1555,5 @@ Cody LeRoy
 - [northernbelle87](https://github.com/northernbelle87)
 - [Sujal Tangde] (https://github.com/sujaltangde/)
 - [Andres Ponciano] (https://github.com/AndresPonciano)
+- [Christopher Perez Lebron] (https://github.com/ChrisPerezLebron)
 - <!-- prettier-ignore-end -->
