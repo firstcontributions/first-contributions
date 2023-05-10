@@ -1380,6 +1380,7 @@ Cody LeRoy
 - [H-ADJI](https://github.com/H-ADJI)
 - [Tobias Jennert](https://github.com/tobijen)
 - [Sebitosh](https://github.com/Sebitosh)
+- [Ahmad Hassan](https://github.com/ah7255703)
 - [Vernon Piland](https://github.com/VernonPiland)
 - [Ricardo Ferreira](https://github.com/Cacousa2005)
 - [Nwoha Martins](https://github.com/martinsmind)
