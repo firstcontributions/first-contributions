@@ -28,6 +28,7 @@
 - -Yash Mishra
 - -Ashish Kumar Singh
 - NandaHein
+-Hardik Sharma
 - [Gamapg](https://github.com/gamapg)
 - Balaji Sadanala
 - [Anastasiia Koba](https://github.com/anastasiia-koba)
