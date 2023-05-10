@@ -1558,4 +1558,5 @@ Cody LeRoy
 - [Christopher Perez Lebron] (https://github.com/ChrisPerezLebron)
 - [Dev Rishi Jain] (https://github.com/DevRishiJain)
 - [Wai Lee](https://github.com/halfwai)
+- [Niek Jacobse](https://github.com/NiekJacobse)
 - <!-- prettier-ignore-end -->
