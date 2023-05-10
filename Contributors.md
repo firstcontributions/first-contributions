@@ -1449,6 +1449,9 @@ Cody LeRoy
 - [Alex Marr](https://github.com/a-marr)
 - [Leon Neugum](https://github.com/LeeNeu)
 - [Robin Muijs](https://github.com/RobinMuijs2000)
+- [Leon Neugum] (https://github.com/LeeNeu)
+-  [Tochukwu Nwosa] (https://github.com/obere4u)
+- [Leon Neugum] (https://github.com/LeeNeu
 - [Guan Zhi Wang](https://github.com/joe94113)
 - Jing Yi
 - [Juan Ospina](https://github.com/juandaosp)
