@@ -105,6 +105,7 @@
 - [Cuong Nguyen](https://github.com/nguyencuong1005)
 - [Hein Htun Zaw](https://github.com/yuu1994)
 - [Alifia Ghantiwala](https://github.com/aliflaila)
+- [David Umoru](https://github.com/davidumoru)
   [Abhishek ](https://github.com/Abhi2359)
 - [Billy Phan](https://github.com/bphan002)
 - [koya-tech](https://github.com/koya-tech)
