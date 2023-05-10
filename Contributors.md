@@ -109,6 +109,7 @@
 - [koya-tech](https://github.com/koya-tech)
 - [James-Christie](https://github.com/James-Christie)
 - [ARYAN](https://github.com/aryanhr0001)
+- [CrazyOutOff](https://github.com/CrazyOutOff)
 - [Omkar](https://github.com/omkarb21)
 - [Matias Mansilla](https://github.com/MansillaM)
 - [Jackson McGillivary](https://github.com/Revenant70)
