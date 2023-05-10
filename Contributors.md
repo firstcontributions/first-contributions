@@ -1550,6 +1550,7 @@ Cody LeRoy
 - [harsh dewan]
 - [Chance Back](https://github.com/chanceback)
 - [Harsh Srivastav](https://github.com/Harsh32044)
+- [Jeffery Jiang](https://github.com/jeffery1995)
 - [Sherin Saji](https://github.com/sherinksaji)
 - [Hugo Schulz](https://github.com/HugoSchulz)
 - [northernbelle87](https://github.com/northernbelle87)
