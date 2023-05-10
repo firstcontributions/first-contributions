@@ -32,6 +32,7 @@
 - Jagdish Kancharapu
 - Paul Kenyanya Omweri
 - [Mike Tagg](https://github.com/mdtagg)
+- [Kriti Arora](https://github.com/kritiarora2003)
 - [Ioannis Linardos](https://github.com/yannislinardos)
 - [PramodMa](https://github.cpm/pramodahetti)
 - [Shawn Harrison](https://github.com/thelazrus)
