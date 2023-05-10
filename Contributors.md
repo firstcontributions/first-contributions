@@ -209,6 +209,7 @@
 - [gyanash.ekka](https://github.com/gyanAsh)
 - [max.jon](https://github.com/MaxJonssonDS)
 - [Sudhir Jaiswal](https://github.com/Coder-in-a-shell)
+- [Jeremy Santiago](https://github.com/sajeremy)
 - Devasya Rajguru
 - [Toby Frick](https://github.com/FrickTob)
 - [Vivek Kumar](https//github.com/zeal2end)
