@@ -1555,4 +1555,5 @@ Cody LeRoy
 - [Andres Ponciano] (https://github.com/AndresPonciano)
 - [Christopher Perez Lebron] (https://github.com/ChrisPerezLebron)
 - [Dev Rishi Jain] (https://github.com/DevRishiJain)
+- [Wai Lee](https://github.com/halfwai)
 - <!-- prettier-ignore-end -->
