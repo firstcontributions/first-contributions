@@ -1561,6 +1561,7 @@
 - [homefish](https://github.com/homefish)
 - [Sunil S. Singh](https://github.com/sssingh)
 - [San-ctuary](https://github.com/San-ctuary)
+- [Thiago Fukuyama Marcilli](https://github.com/ThiagoFukuyama)
 - [Rayner Susanto](https://github.com/raynersusanto0)
 - [Ahmed ElSaeed](https://github.com/asmpro7)
 - [Krishnaraja Sagar](https://krishnarajasagar.github.io)
