@@ -8,6 +8,7 @@
 - [Yuvraj Katkar](https://github.com/YuvrajKatkar)
 - [Gunjan Mishra](https://github.com/GunjanKMishra)
 - [Swastik Bansal](https://github.com/swastikbansal)
+- [Mushfiqur Rahman](https://github.com/mushfiq13)
 - [Saukar Manjunath](https://github.com/ManjunathSaukar)
 - [Michael McKnight](https://github.com/MichaelMcKnight)
 - [Nina Dijkstra](https://github.com/N-Dijkstra)
