@@ -1563,5 +1563,6 @@
 - [Wai Lee](https://github.com/halfwai)
 - [Niek Jacobse](https://github.com/NiekJacobse)
 - [Fazlı Berk Ördek](https://github.com/fazliberkordek)
+- [Al-Junaed Islam](https://github.com/AJBrohi)
 - [Fubge](https://github.com/Fubge)
 - <!-- prettier-ignore-end -->
