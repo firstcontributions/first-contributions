@@ -42,6 +42,7 @@
 - [Shawn Harrison](https://github.com/thelazrus)
 - [Haraprasad Nandi](https://github.com/Whiteflakes)
 - Steamed Hams
+- [Michael Johnston] (https://github.com/michaeljohnstoncode)
 - [Riya Patidar](https://github.com/riyapatidar1507)
 - [Nitin Chaudhary](https://github.com/AnCyNitinChaudhary)
 - [Rutvikjoshi63](https://github.com/rutvikjoshi63)
