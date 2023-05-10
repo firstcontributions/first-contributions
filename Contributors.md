@@ -47,6 +47,7 @@
 - [Eugene](https://github.com/eugene0928)
 - [Farshad](https://github.com/fa125had)
 - [Luiz Augusto](https://github.com/luizAFS23)
+- [Lukas Haring](https://github.com/mrlukyman/first-contributions)
 - [Jai Vignesh](https://github.com/hsengiviaJ)
 - [Ahsan Naqvi](https://github.com/s-ahsan-naqvi)
 - [Syed Ayaan Ali](https://github.com/incognito-root)
@@ -57,6 +58,7 @@
 - [Deepanshu Sharma](https://github.com/Deepanshu-Sharma-18)
 - Sabya
 - Megan Cooper (https://github.com/MegRCooper)
+- [Avishkaar](https://github.com/Avishkaar007)
 - [Derek Young](https://github.com/derekpyoung)
 - [Pedro Braga](https://github.com/PedBraga)
 - [Dilshad](https://github.com/a-rustacean)
@@ -91,6 +93,7 @@
 - [ARYAN](https://github.com/aryanhr0001)
 - [Omkar](https://github.com/omkarb21)
 - [Matias Mansilla](https://github.com/MansillaM)
+- [Jackson McGillivary](https://github.com/Revenant70)
 - [Srujan Geedipalli](https://github.com/Srujan273)
 - [Atharav](https://github.com/harshal-ishere)
 - [Arthur Krom](https://github.com/Arthur-Krom)
@@ -111,6 +114,7 @@
 - [xavierjimz](https://github.com/xavierjimz/)
 - [Satyam Nyati](https://github.com/satyamnyati)
 - [Trottie McQueen](https://github.com/trottiemcqueen)
+- [mikmc](https://github.com/mik25)
 - [Jerry Yan](https://github.com/jerryy668)
 - [Chico Stick](https://github.com/ChicoStickowo)
 - [Juli Levi](https://github.com/julilll)
@@ -221,7 +225,7 @@
 - Grumbo
 - [khunsai06](https://github.com/khunsai06)
 - [shivamxsurya](https://github.com/shivamxsurya)
--Madhur Manan
+  -Madhur Manan
 - [Nelson Matenda 🚀](https://github.com/nelsonmatenda)
 -[Ayooluwa Aduwo](https://github.com/AduwoAyooluwa)
 - [m-foskett](https://github.com/m-foskett)
@@ -342,7 +346,7 @@
 - [Satendra Mishra](https://github.com/Satendram)
 - [Busiswa M](https://github.com/BusiswaM)
 - [Himanshu Singh](https://github.com/singh-himanshu-16)
--[Victory Ndu](https://github.com/Victoryeddy)
+  -[Victory Ndu](https://github.com/Victoryeddy)
 - [Himanshu Mathur](https://github.com/HimanshuMathur1396)
 - [Tim Yu](https://github.com/tyu012)
 - [DineshVeguru](https://github.com/dineshveguru)
@@ -924,7 +928,7 @@ Cody LeRoy
 - [Phillip Yen](https://github.com/yphillip)
 - [kan01234](https://github.com/kan01234/)
 - [Mark DC95](https://github.com/MarkDC95)
-Shrajan Jain
+  Shrajan Jain
 - [lazylittlestar](https://github.com/lazylittlestar)
 - [japesjake](http://github.com/japesjake)
 - [EvyatarEsterson🙂](https://github.com/EvyatarEsterson)
@@ -1257,7 +1261,6 @@ Shrajan Jain
 - [ApexMe](https://github.com/ApexMe)
 - [czc](https://github.com/czc-gd)
 - [juanmagb8d](https://github.com/Juanmagb8d)
-- [adding random stuff here so i can understand what happens on git push]
 - [BernalCristianCamilo93](https://github.com/bernalcristiancamilo93)
 - [Mwaura](https://github.com/MwauratheAlex)
 - [sziwipx](https://github.com/sziwipx)
@@ -1543,10 +1546,12 @@ Shrajan Jain
 - [Ahmed ElSaeed](https://github.com/asmpro7)
 - [Krishnaraja Sagar](https://krishnarajasagar.github.io)
 - [Edison Zhou](https://github.com/nosidezhou)
+- [harsh dewan]
 - [Chance Back](https://github.com/chanceback)
 - [Harsh Srivastav](https://github.com/Harsh32044)
 - [Sherin Saji](https://github.com/sherinksaji)
 - [Hugo Schulz](https://github.com/HugoSchulz)
 - [northernbelle87](https://github.com/northernbelle87)
-- [Sujal Tangde] (https://github.com/sujaltangde/)  
+- [Sujal Tangde] (https://github.com/sujaltangde/)
+- [Andres Ponciano] (https://github.com/AndresPonciano)
 - <!-- prettier-ignore-end -->
