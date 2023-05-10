@@ -66,6 +66,7 @@
 - [Harsh P V](https://github.com/harshpv07)
 - [Deepanshu Sharma](https://github.com/Deepanshu-Sharma-18)
 - Sabya
+- Rio
 - Megan Cooper (https://github.com/MegRCooper)
 - [Avishkaar](https://github.com/Avishkaar007)
 - [Derek Young](https://github.com/derekpyoung)
