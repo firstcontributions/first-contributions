@@ -841,6 +841,7 @@
 - [Girish Nair](https://github.com/javagirish)
 - [Quinn Ha](https://github.com/quinnha)
 - [Dylan Wilson](https://github.com/dylwil3)
+- [Duncan Tweed] (https://github.com/PoweredByPorridge)
 - [Dimitrije Ilic](https://github.com/Dimitrije1970)
 - [Prathamesh Sable](https://github.com/prathameshks)
 - [Tejas Nanoti](https://github.com/Goldfish7718)
@@ -1587,6 +1588,4 @@
 - Fubge(https://github.com/Fubge)
 - [wiwat](https://github.com/mostvivat)
 - [Adrian Gryń](https://github.com/Adrgryn)
-- [Duncan Tweed] (https://github.com/PoweredByPorridge)
-
 - <!-- prettier-ignore-end -->
