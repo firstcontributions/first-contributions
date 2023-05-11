@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-- [nionyn]
+
 - [Akhil](https://github.com/Akhil-77)
 - [Noriomusha](https://github.com/Noriomusha)
 - [Sarthak](https://github.com/sarthak2131)
@@ -18,6 +18,7 @@
 - [Sakshi Raut](https://github.com/SakshiRaut674)
 - [Jackeastern](https://github.com/Jackeastern)
 - [Aery Zhao](https://github.com/aeryzhao)
+- [nionyn](https://github.com/nionyn)
 - [SIDDHANT SAHU](https://github.com/siddhant660)
 - [Vihaan Vijayvargiya](https://github.com/vihaanvijayvargiya)
 - [Sandeep Kumar](https://github.com/SandeepKumar2024)
