@@ -425,6 +425,7 @@
 - [Miguel Auccahuasi](https://github.com/sakugemiaru)
 - [Priyanshu Gourav Sarangi](https://github.com/pgs17)
 - [kosen13](https://github.com/kosen13)
+- [DOngre Jaipal](https://github.com/Wolfjai513)
 - [Suman Parui](https://github.com/suman897)
 - [Noa Jakob](https://github.com/TrinityOfNJK)
 - [Rahul Tripathi](https://github.com/rahultripathi-dev)
