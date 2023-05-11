@@ -4,6 +4,7 @@
 - [Roshan Gamage] (https://github.com/RoshanGamage01)
 - [Ajit J Gupta] (https://github.com/ajitg25)
 - [Aaron Brown] (https://github.com/kilowulf)
+- [Bracha] (https://gitlab.mavenecommerce.com/btarnovski)
 - [Prem Ranjan] (https://github.com/premranjn)
 - [Hector Garcia] (https://github.com/hectorgarcia07)
 - [Gaurav Singh] (https://github.com/Gaurav-08-dev)
@@ -194,7 +195,6 @@ Vats Shivam
 - [Simran Arora] ()
 - [Aahad](https://github.com/Aahad-1526)
 myname
--[Bracha] https://gitlab.mavenecommerce.com/btarnovski
 -[Dev Raj Verma](https://github.com/DevRajVerma)
 - [Shadman Wadith](https://github.com/wadith027)
 - [Richie Momodu](https://github.com/RichieTheDev)
