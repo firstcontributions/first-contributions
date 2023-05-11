@@ -760,7 +760,6 @@
 - [Jonas Reiher](https://github.com/jonasreiher) -[Better Kayode](https://github.com/KayodeBetter)
 - [Stuart Bailey](https://github.com/stubailey18)
 - [Dempsey Palacio Tascon](https://github.com/deej-tsn)
-- [Nisim Levi](https://github.com/nisimgit)
 - [Bikash yadav](https://github.com/bikashydv)
 - [Harmeet Singh](https://github.com/harmeetsingh11)
 - [Sowmya S](https://github.com/sowmya-s-26)
