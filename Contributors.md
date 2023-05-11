@@ -1595,4 +1595,5 @@
 - [Adrian Gryń](https://github.com/Adrgryn)
 - [Aftab N](https://github.com/aftabnabi)
 - [Phuong Nguyen](https://github.com/png261)
+- [Tim Dickeson II](https://github.com/imacubsfan23)
 - <!-- prettier-ignore-end -->
