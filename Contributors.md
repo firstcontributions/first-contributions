@@ -45,6 +45,7 @@
 - [Mike Tagg](https://github.com/mdtagg)
 - [Kriti Arora](https://github.com/kritiarora2003)
 - [Ioannis Linardos](https://github.com/yannislinardos)
+- [Michal Rosen] (https://github.com/Michal45550)
 - [PramodMa](https://github.cpm/pramodahetti)
 - [Shawn Harrison](https://github.com/thelazrus)
 - [Haraprasad Nandi](https://github.com/Whiteflakes)
