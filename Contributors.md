@@ -31,6 +31,7 @@
 - [Lenox Mangi](https://github.com/DrBake)
 - -Yash Mishra
 - -Ashish Kumar Singh
+- [cybzzz](https://github.com/cybzzz)
 - NandaHein
   -Hardik Sharma
 - [Gamapg](https://github.com/gamapg)
