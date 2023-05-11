@@ -44,6 +44,7 @@
 - [Farzan Ekram](https://github.com/farzanekram07)
 - [Mike Tagg](https://github.com/mdtagg)
 - [Kriti Arora](https://github.com/kritiarora2003)
+- [Ayush Modi](https://github.com/AyushModi123)
 - [Ioannis Linardos](https://github.com/yannislinardos)
 - [PramodMa](https://github.cpm/pramodahetti)
 - [Shawn Harrison](https://github.com/thelazrus)
