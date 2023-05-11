@@ -108,6 +108,7 @@
 - [David Umoru](https://github.com/davidumoru)
   [Abhishek ](https://github.com/Abhi2359)
 - [Billy Phan](https://github.com/bphan002)
+- [Vishisht Makkar] (https://github.com/v-makkar)
 - [koya-tech](https://github.com/koya-tech)
 - [James-Christie](https://github.com/James-Christie)
 - [ARYAN](https://github.com/aryanhr0001)
