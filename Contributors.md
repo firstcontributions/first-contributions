@@ -1591,4 +1591,5 @@
 - Fubge(https://github.com/Fubge)
 - [wiwat](https://github.com/mostvivat)
 - [Adrian Gryń](https://github.com/Adrgryn)
+- [Wojciech Kwitek](https://github.com/WojciechK92)
 - <!-- prettier-ignore-end -->
