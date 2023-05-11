@@ -47,6 +47,7 @@
 - [Ioannis Linardos](https://github.com/yannislinardos)
 - [PramodMa](https://github.cpm/pramodahetti)
 - [Shawn Harrison](https://github.com/thelazrus)
+-[Akshaya Parida] (https://github.com/akshayaparida)
 - [Haraprasad Nandi](https://github.com/Whiteflakes)
 - Steamed Hams
 - [Michael Johnston] (https://github.com/michaeljohnstoncode)
