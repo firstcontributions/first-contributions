@@ -20,6 +20,7 @@
 - [Aery Zhao](https://github.com/aeryzhao)
 - [SIDDHANT SAHU](https://github.com/siddhant660)
 - Gaurav Bhambhani
+- [Ayush Maurya](https://github.com/ayush-maurya032)
 - [Vihaan Vijayvargiya](https://github.com/vihaanvijayvargiya)
 - [Sandeep Kumar](https://github.com/SandeepKumar2024)
 - [Sagar Chaudhary](https://github.com/SAGARCODESTER)
