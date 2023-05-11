@@ -868,6 +868,7 @@
 - [Pewpewnor](https://github.com/pewpewnor)
 - [Tanishq Agarwal](https://github.com/Tanishq2807)
 - [James](https://github.com/tronbron)
+- [Riki Cohen](https://github.com/rikibenzaken)
 - [Shaurya Gupta](https://github.com/Shaurya50211)
 - [Victor Chao](https://github.com/VictorChao996)
 - [Pedro Henrique Leite Félix](https://github.com/SinnerTheSinful)
