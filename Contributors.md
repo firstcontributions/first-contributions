@@ -35,7 +35,7 @@
   -Hardik Sharma
 - [Gamapg](https://github.com/gamapg)
 - Balaji Sadanala
-- [Anastasiia Koba](https://github.com/anastasiia-koba)
+- [Anastasiia Koba](https://github.com/anastasiia-koba) -[Rivki Zohar] (https://github.com/Rivki7)
 - [anchit jain](https://github.com/anchit85426)
 - [Manav Tore](https://github.com/manavtore)
 - [Leandro Robert](https://github.com/leanrobert)
@@ -1448,7 +1448,7 @@
 - [buriedBug](https://github.com/buriedBug)
 - [Harold Song](https://github.com/swyhrld)
 - [foliage21](https://github.com/foliage21)
-- [alkas](https://github.com/exalkas "software engineer")
+- [alkas](https://github.com/exalkas 'software engineer')
 - [Arun Kumar Marndi](https://github.com/arunkumarmarndi)
 - [Zullu Balti](https://github.com/ZulluBalti)
 - [Jordan Flanagan](https://github.com/jflaney23)
