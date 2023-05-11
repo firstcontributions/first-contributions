@@ -10,6 +10,7 @@
 - [Gunjan Mishra](https://github.com/GunjanKMishra)
 - [Swastik Bansal](https://github.com/swastikbansal)
 - [Mushfiqur Rahman](https://github.com/mushfiq13)
+- [Thamer](https://github.com/ThamerMalki)
 - [Saukar Manjunath](https://github.com/ManjunathSaukar)
 - [Kamal Koranga](https://github.com/Kamalkoranga)
 - [Gonzalo Berhouet](https://github.com/gonzalober)
