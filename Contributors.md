@@ -178,6 +178,7 @@
 - [Aleks_Lucenko](https://github.com/alekslucenko)
 - Vineet Sirohi
 - Dewayne Austin
+- Shira Weissman
 - [Jenny_Quan](https://github.com/jennyq7)
 - [Sharon Kaufman](https://github.com/Sk-223)
 - [Divine Amunega](https://github.com/divineamunega)
