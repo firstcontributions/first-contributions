@@ -1592,4 +1592,5 @@
 - Fubge(https://github.com/Fubge)
 - [wiwat](https://github.com/mostvivat)
 - [Adrian Gryń](https://github.com/Adrgryn)
+- [Aftab N](https://github.com/aftabnabi)
 - <!-- prettier-ignore-end -->
