@@ -1569,6 +1569,7 @@
 - Mythszj
 - [homefish](https://github.com/homefish)
 - [Sunil S. Singh](https://github.com/sssingh)
+- [Orion Wesson] (https://github.com/EnterOrion)
 - [San-ctuary](https://github.com/San-ctuary)
 - [Thiago Fukuyama Marcilli](https://github.com/ThiagoFukuyama)
 - [Rayner Susanto](https://github.com/raynersusanto0)
