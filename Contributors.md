@@ -66,6 +66,7 @@
 - [Lukas Haring](https://github.com/mrlukyman/first-contributions)
 - [Jai Vignesh](https://github.com/hsengiviaJ)
 - [Ahsan Naqvi](https://github.com/s-ahsan-naqvi)
+- [Taha Parker](https://github.com/tahayparker)
 - [Syed Ayaan Ali](https://github.com/incognito-root)
 - [Shivam Raj](https://github.com/SHIVAM-RAJ7)
 - [BigRexSoftware](https://github.com/bigrexsoftware)
