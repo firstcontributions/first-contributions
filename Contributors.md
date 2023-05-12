@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Akhil](https://github.com/Akhil-77)
+- [Guchu Kelvin](https://github.com/kelvinguchu)
 - [Noriomusha](https://github.com/Noriomusha)
 - [Sarthak](https://github.com/sarthak2131)
 - [Prabal Sharma](https://github.com/prabalsh19)
