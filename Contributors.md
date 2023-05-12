@@ -19,6 +19,7 @@
 - [Jackeastern](https://github.com/Jackeastern)
 - [Aery Zhao](https://github.com/aeryzhao)
 - [SIDDHANT SAHU](https://github.com/siddhant660)
+- [William Hua](https://github.com/Weyum1234)
 - Gaurav Bhambhani
 - [Vihaan Vijayvargiya](https://github.com/vihaanvijayvargiya)
 - [Sandeep Kumar](https://github.com/SandeepKumar2024)
