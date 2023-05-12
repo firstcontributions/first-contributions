@@ -4,6 +4,7 @@
 
 - [Akhil](https://github.com/Akhil-77)
 - [Noriomusha](https://github.com/Noriomusha)
+- [Ben](https://github.com/benpyles)
 - [Sarthak](https://github.com/sarthak2131)
 - [Prabal Sharma](https://github.com/prabalsh19)
 - [Yuvraj Katkar](https://github.com/YuvrajKatkar)
