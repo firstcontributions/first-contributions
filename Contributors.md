@@ -1544,6 +1544,7 @@
 - [Jamie Douglas](https://github.com/Jamelas)
 - [Whitris](https://github.com/Whitris)
 - [Julio](https://github.com/JulioC-19)
+- [Adarsh Kannarath](https://github.com/AdarshKannarath)
 - [Lawson Tanner](https://github.com/Hornbag)
 - [Manuel Menendez](https://github.com/hudsonbay)
 - [Jorge Torres](https://github.com/jotorres1)
