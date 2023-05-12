@@ -3,15 +3,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-
 # प्रथम योगदान
 
 सुरुवातीला कुठलीही गोष्ट करणे कठीण असते. विशेषत: आपण एकत्र काम करत असताना चुका होणे स्वाभाविक आहे. परंतु एकमेकांसोबत भेटणे आणि एकत्र कार्य करणे हेच तर मुक्त स्त्रोत (Open Source) चे गमक आहे. आम्ही आपले प्रथम मुक्त स्त्रोत योगदान (Contribution) सुलभ करण्यास मदत करू.
 
 लेख वाचणे आणि ट्यूटोरियल पाहण्याने आपणास मदत होऊ शकते परंतु प्रत्यक्षात सराव करण्यापेक्षा काय चांगले आहे? या प्रकल्पाचा हेतू नवशिक्यांना आपले प्रथम योगदान देण्यासंदर्भात सोप्या स्वरुपात मार्गदर्शन प्रदान करण्याचा आहे. आपण आपले प्रथम योगदान देत असल्यास, खालील पायऱ्यांचे अनुसरण करा.
 
-#### *जर आपल्याला कमांड लाईन (CLI) सोयीस्कर वाटत नसेल तर [GUI टूल्स वापरण्यासंदर्भात ट्यूटोरियल येथे आहेत.](#इतर-साधने-वापरण्याबाबतीत-ट्युटोरियल)*
-
+#### _जर आपल्याला कमांड लाईन (CLI) सोयीस्कर वाटत नसेल तर [GUI टूल्स वापरण्यासंदर्भात ट्यूटोरियल येथे आहेत.](#इतर-साधने-वापरण्याबाबतीत-ट्युटोरियल)_
 
 [<img src="https://firstcontributions.github.io/assets/Readme/pirate.png" width="22">](translations/README.en-pirate.md)
 
@@ -118,14 +116,14 @@ git push origin <आपल्या-शाखेचे-नाव>
 
 अभिनंदन! आपण नुकतीच _fork -> clone -> edit -> PR_ ही कार्यपद्धती पूर्ण केली आहे ज्यास आपणास एक योगदानकर्ता (Contributor) म्हणून सदैवच तोंड द्यावे लागते!
 
-आपले योगदान साजरे करा आणि [येथे](https://roshanjossey.github.io/first-contributions/#social-share) जाऊन आपल्या मित्र आणि अनुयायांसह शेअर/सामायिक करा.
+आपले योगदान साजरे करा आणि [येथे](https://firstcontributions.github.io/#social-share)) जाऊन आपल्या मित्र आणि अनुयायांसह शेअर/सामायिक करा.
 
 आपल्याला कोणत्याही मदतीची आवश्यकता असल्यास किंवा काही प्रश्न असल्यास आपण आमच्या स्लॅक टीममध्ये सामील होऊ शकता. [स्लॅक टीममध्ये सामील व्हा](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-आता आपण इतर प्रकल्पांमध्येही आपले योगदान देऊ शकता. आपण प्रारंभ करू शकाल अशा सुलभ समस्यांसह (Issues) आम्ही काही प्रोजेक्टची सूची संकलित केली आहे. [येथे वेब अॅप मधील प्रकल्पांची यादी पहा.](https://roshanjossey.github.io/first-contributions/#project-list)
+आता आपण इतर प्रकल्पांमध्येही आपले योगदान देऊ शकता. आपण प्रारंभ करू शकाल अशा सुलभ समस्यांसह (Issues) आम्ही काही प्रोजेक्टची सूची संकलित केली आहे. [येथे वेब अॅप मधील प्रकल्पांची यादी पहा.](https://firstcontributions.github.io/#project-list)
 
 ## इतर साधने वापरण्याबाबतीत ट्युटोरियल
 
 | <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
-| --- | --- | --- | --- | --- | --- |
-| [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |

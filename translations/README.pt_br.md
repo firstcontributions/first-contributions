@@ -109,11 +109,11 @@ Logo estará mesclando ('mergeando') as suas mudanças no _Branch_ principal (ma
 
 Parabéns! Você completou o fluxo de trabalho básico _fork -> clone -> edit -> PR_ que você encontrará frequentemente como contribuidor!
 
-Celebre sua contribuição e compartilhe com seus amigos e seguidores no [app web](https://roshanjossey.github.io/first-contributions/#social-share).
+Celebre sua contribuição e compartilhe com seus amigos e seguidores no [app web](https://firstcontributions.github.io/#social-share)).
 
 Você também pode se juntar à nossa equipe no _Slack_ caso precise de alguma ajuda ou tenha alguma dúvida. [Junte-se à nossa equipe no Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-Agora você pode colaborar com outros projetos. Nós compilamos uma lista de projetos com problemas simples que você pode começar. Verifique em [a lista de projetos no web app](https://roshanjossey.github.io/first-contributions/#project-list).
+Agora você pode colaborar com outros projetos. Nós compilamos uma lista de projetos com problemas simples que você pode começar. Verifique em [a lista de projetos no web app](https://firstcontributions.github.io/#project-list).
 
 ### [ Material adicional ](../additional-material/translations/Portuguese/additional-material.pt_br.md)
 

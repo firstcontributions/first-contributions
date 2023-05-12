@@ -3,11 +3,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-
 # የመጀመሪያ አስተዋጽዖዎች
 
 ይህ ፕሮጀክት ጀማሪዎች የመጀመሪያ አስተዋጾ የሚያደርጉበትን መንገድ ለማቅለል እና ለመምራት ያለመ ነው። የመጀመሪያዎን አስተዋፅዖ ለማድረግ ከፈለጉ ከታች ያሉትን ደረጃዎች ይከተሉ
-
 
 #### command line ካልተመቸህ, [GUI መሳሪያዎችን በመጠቀም አጋዥ ስልጠናዎች አሉ።.](#Tutorials-Usin'-Other-Tools)
 
@@ -17,7 +15,7 @@
 
 ## Fork this repository
 
-በዚህ ገጽ ላይኛው ክፍል ላይ ያለውን fork ቁልፍን ጠቅ በማድረግ ይህንን ይጫኑት። 
+በዚህ ገጽ ላይኛው ክፍል ላይ ያለውን fork ቁልፍን ጠቅ በማድረግ ይህንን ይጫኑት።
 ይህ በአንተ መለያ ውስጥ የዚህን repository ቅጂ ይፈጥራል።
 
 ## Clone the repository
@@ -29,6 +27,7 @@
 ```
 git clone "የቀዱትን url' ያስገቡ"
 ```
+
 "የቀዱትን url' ያስገቡ" (ያለ ጥቅስ ምልክቶች) ይህ የዚህ repository url ነው(የእርሶ ቅጂ ፕሮጀክት). url ለማግኘት የቀደመውን ደረጃዎች ይመልከቱ.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
@@ -113,12 +112,12 @@ git push origin <የእርስዎ-branch-name>
 
 ማንኛውም እርዳታ ከፈለጉ ወይም ማንኛውም ጥያቄ ካለዎት የእኛን [Slack ቡድን](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY) መቀላቀል ይችላሉ.
 
-አሁን ለሌሎች ፕሮጀክቶች በማበርከት እንጀምር. እርስዎ ሊጀምሩባቸው የሚችሉ ቀላል ጉዳዮች ያላቸውን የፕሮጀክቶች ዝርዝር አዘጋጅተናል።. [እኚህን ማስፈተሪያ ይከተሉ](https://roshanjossey.github.io/first-contributions/#project-list).
+አሁን ለሌሎች ፕሮጀክቶች በማበርከት እንጀምር. እርስዎ ሊጀምሩባቸው የሚችሉ ቀላል ጉዳዮች ያላቸውን የፕሮጀክቶች ዝርዝር አዘጋጅተናል።. [እኚህን ማስፈተሪያ ይከተሉ](https://firstcontributions.github.io/#project-list).
 
 ### [ተጨማሪ ቁሳቁስ](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## ሌሎች መሳሪያዎችን በመጠቀም አጋዥ ስልጠናዎች
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a>|
-|---|---|---|
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
+| <a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a> |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| [GitHub Desktop](../github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](../github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](../gitkraken-tutorial.md)                                                                                                         |

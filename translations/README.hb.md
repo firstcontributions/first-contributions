@@ -40,7 +40,6 @@
 כדי לבצע FORK למאגר זה, ניתן ללחוץ על כפתור ה – FORK בתחילת העמוד. פעולה זה תיצור עותק של מאגר זה בחשבון שלכם.
 </div>
 
-
 <div dir="rtl">
 <h2> שכפול המאגר </h2>
 </div>
@@ -54,11 +53,13 @@
 כעת, שכפלו את המאגר הזה למחשב שלכם. לכו לדף ה-GitHub שלכם, לחצו על כפתור השכפול ואז לחצו על הצלמית `copy to clipboard`.
 
 פתחו טרמינל והריצו את הפקודה הבאה:
+
 </div>
 
 ```
 git clone "url you just copied"
 ```
+
 <div dir="rtl">
   
 כאשר הביטוי `"url you just copied"` (ללא סימני הגרשיים) הוא הקישור למאגר זה שביצעתם עליו FORK קודם לכן. ראו את הצעדים הקודמים כדי להשיג את הקישור.
@@ -73,6 +74,7 @@ git clone "url you just copied"
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
+
 <div dir="rtl">
   
 כאשר `this-is-you` הוא שם המשתמש שלכם ב-GitHub. לכאן אתם מעתיקים את התוכן של מאגר first-contributions ב-GitHub לתוך המחשב שלכם.
@@ -89,6 +91,7 @@ git clone https://github.com/this-is-you/first-contributions.git
 ```
 cd first-contributions
 ```
+
 <div dir="rtl">
   
 כעת, תצרו ענף בשימוש הפעולה `git checkout`:
@@ -97,6 +100,7 @@ cd first-contributions
 ```
 git checkout -b your-new-branch-name
 ```
+
 <div dir="rtl">
   לדוגמא:
 </div>
@@ -117,14 +121,15 @@ git checkout -b add-alonzo-church
   
 כעת פתחו את הקובץ `Contributors.md` בתוכנת עריכת טקסט והוסיפו את השם שלכם אליו. אל תוסיפו את השם בתחילת הקובץ או בסופו. הוסיפו אותו באמצע. לאחר שסיימתם, שמרו את הקובץ.
 
-
 אם תנווטו לתיקיית הפרויקט ותבצעו את הפעולה `git status`, תוכלו לראות את השינויים שביצעתם שם.
 הוסיפו את השינויים האלו לענף שיצרתם תוך שימוש בפקודה `git add`:
+
 </div>
 
 ```
 git add Contributors.md
 ```
+
 <div dir="rtl">
   
 עכשיו, בצעו commit לשינויים הללו תוך שימוש בפקודת `git commit`:
@@ -133,6 +138,7 @@ git add Contributors.md
 ```
 git commit -m "Add <your-name> to Contributors list"
 ```
+
 <div dir="rtl">
   
 החליפו את הביטוי `<your-name>` עם השם שלכם.
@@ -150,6 +156,7 @@ git commit -m "Add <your-name> to Contributors list"
 ```
 git push origin <add-your-branch-name>
 ```
+
 <div dir="rtl">
   
 החליפו את `<add-your-branch-name>` עם השם של הענף שיצרתם מוקדם יותר.
@@ -170,6 +177,7 @@ git push origin <add-your-branch-name>
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
 בקרוב, אני אצרף את כל השינויים לתוך הענף הראשי של פרויקט זה. אתם תקבלו עדכון במייל ברגע שהשינויים ימוזגו.
+
 </div>
 
 <div dir="rtl">
@@ -189,7 +197,8 @@ git push origin <add-your-branch-name>
 
 עכשיו אפשר להתחיל לתרום לפרוייקטים אחרים. הכנו רשימה של פרוייקטים על נושאים קלים שאתם יכולים להתחיל לעבוד עליהם.
 
-<a href="https://roshanjossey.github.io/first-contributions/#project-list">רשימה של פרוייקטים ב-web app</a>.
+<a href="https://firstcontributions.github.io/#project-list">רשימה של פרוייקטים ב-web app</a>.
+
 </div>
 
 <div dir="rtl">
