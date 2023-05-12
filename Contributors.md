@@ -25,7 +25,7 @@
 - -Yash Mishra
 - -Ashish Kumar Singh
 - NandaHein 
-- OriginCoding - Omkar Sharma(https://github.com/OriginCoding)
+- [OriginCoding](https://github.com/OriginCoding)
 - [Gamapg](https://github.com/gamapg)
 - Balaji Sadanala
 - [Anastasiia Koba](https://github.com/anastasiia-koba)
