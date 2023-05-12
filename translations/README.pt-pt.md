@@ -88,7 +88,7 @@ Logo estarei a incorporar as tuas mudanças no Branch principal (master) deste p
 
 ## Para onde ir a partir daqui?
 
-Celebra as tuas contribuições e partilha-as com amigos e seguidores através da [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+Celebra as tuas contribuições e partilha-as com amigos e seguidores através da [web app](https://firstcontributions.github.io/#social-share).
 
  Podes também juntar-te à nossa equipa no Slack caso precises de alguma ajuda ou tenhas alguma dúvida. [Junta-te à nossa equipa no Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 

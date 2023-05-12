@@ -121,11 +121,11 @@ Niedługo dodam proponowane przez ciebie zmiany do głównej gałęzi projektu. 
 
 Brawo! Właśnie ukończyłeś standardowy workflow _fork -> clone -> edit -> pull request_, który często będziesz napotykać jako współtwórca!
 
-Świętuj swoją pierwszą zmianę i podziel się nią z przyjaciółmi i obserwującymi poprzez <a href="https://roshanjossey.github.io/first-contributions/#social-share" rel="nofollow">aplikację</a>.
+Świętuj swoją pierwszą zmianę i podziel się nią z przyjaciółmi i obserwującymi poprzez <a href="https://firstcontributions.github.io/#social-share" rel="nofollow">aplikację</a>.
 
 Możesz dołączyć do naszego kanału slack w przypadku kiedy będziesz potrzebował pomocy albo miał jakieś pytania. <a href="https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA" rel="nofollow">Dołącz do slacka</a>.
 
-Możesz teraz zacząć uczestniczyć w innych projektach. Przygotowaliśmy listę projektów z prostymi zadaniami które będą dobre na początek. Sprawdź <a href="https://roshanjossey.github.io/first-contributions/#project-list" rel="nofollow">listę projektów</a>.
+Możesz teraz zacząć uczestniczyć w innych projektach. Przygotowaliśmy listę projektów z prostymi zadaniami które będą dobre na początek. Sprawdź <a href="https://firstcontributions.github.io/#project-list" rel="nofollow">listę projektów</a>.
 
 ### [Materiały dodatkowe](../additional-material/git_workflow_scenarios/additional-material.md)
 

@@ -123,11 +123,11 @@ Saya (pengelola) akan segera menggabungkan semua perubahan Anda ke cabang utama 
 
 Selamat! Anda baru saja menyelesaikan standar *fork* -> *clone* -> ubah -> *Pull Request* sebuah alur kerja yang akan sering Anda temui sebagai kontributor!
 
-Rayakan kontribusi Anda dan bagikan dengan teman dan pengikut Anda dengan membuka [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+Rayakan kontribusi Anda dan bagikan dengan teman dan pengikut Anda dengan membuka [web app](https://firstcontributions.github.io/#social-share).
 
 Anda dapat bergabung dengan tim slack kami jika membutuhkan bantuan atau memiliki pertanyaan. [Bergabung dengan tim slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-Sekarang, mari kita mulai dengan berkontribusi di proyek lain. Kami sudah menyusun daftar proyek dengan isu yang mudah dikerjakan sehingga Anda dapat segera memulai. Cek di [daftar proyek web app](https://roshanjossey.github.io/first-contributions/#project-list).
+Sekarang, mari kita mulai dengan berkontribusi di proyek lain. Kami sudah menyusun daftar proyek dengan isu yang mudah dikerjakan sehingga Anda dapat segera memulai. Cek di [daftar proyek web app](https://firstcontributions.github.io/#project-list).
 
 ## [ Materi tambahan ](../additional-material/translations/additional-material.id.md)
 
