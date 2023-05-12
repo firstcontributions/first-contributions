@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Jam Lemond](https://github.com/Jean599062)
 - [Akhil](https://github.com/Akhil-77)
 - [Noriomusha](https://github.com/Noriomusha)
 - [Sarthak](https://github.com/sarthak2131)
