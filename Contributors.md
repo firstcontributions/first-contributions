@@ -9,6 +9,7 @@
 - [Yuvraj Katkar](https://github.com/YuvrajKatkar)
 - [Gunjan Mishra](https://github.com/GunjanKMishra)
 - [Swastik Bansal](https://github.com/swastikbansal)
+- [Vance Sama](https://github.com/VansRouges)
 - [Mushfiqur Rahman](https://github.com/mushfiq13)
 - [Saukar Manjunath](https://github.com/ManjunathSaukar)
 - [Kamal Koranga](https://github.com/Kamalkoranga)
