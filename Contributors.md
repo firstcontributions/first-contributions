@@ -27,6 +27,7 @@
 - [rejmut](https://github.com/rejmut)
 - [CultistOfTheEnd](https://github.com/NuxarianCookie)
 - [Tobvl](https://github.com/Tobvl)
+- [B1GSt4R](https://github.com/B1GSt4R)
 - [Sudeep](https://github.com/srs-sudeep)
 - [Lenox Mangi](https://github.com/DrBake)
 - -Yash Mishra
