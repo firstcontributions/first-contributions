@@ -744,6 +744,7 @@
 - [Lynn Zukerman](https://github.com/Lynndz3)
 - [Sebastian Wu](https://github.com/sebswU)
 - [Sofie Borchgrevink](https://github.com/sofieborchgrevink)
+- [Miri Price](https://github.com/miriprice1)
 - [Karanjot Singh](https://karanjot.vercel.app)
 - [Sachit Khadka](https://github.com/Sachit56/first-contributions)
 - [SHUBHAM PATIDAR](https://www.linkedin.com/in/shubham-patidar-98ba5b148)
