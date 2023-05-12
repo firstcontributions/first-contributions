@@ -29,6 +29,7 @@
 - [Tobvl](https://github.com/Tobvl)
 - [Sudeep](https://github.com/srs-sudeep)
 - [Lenox Mangi](https://github.com/DrBake)
+- [Minhwa Jeong](https://github.com/noteB489)
 - -Yash Mishra
 - -Ashish Kumar Singh
 - NandaHein
