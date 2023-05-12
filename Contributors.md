@@ -650,6 +650,7 @@
 - [Heloise Ouvry](https://github.com/heloiseouvry)
 - [Santiago Urbano](https://github.com/sanurb)
 - [સ્મિત કાછડીયા](https://github.com/smeekas)
+- [Nanikasi](https://github.com/nanikasi)
 - [Rao Khuram Shahzad](https://github.com/KhuramShahzad-5335)
 - [Nikita Mahamuni](https://github.com/Nikita0509/)
 - [Yash Deharia](https://github.com/yashdeharia)
