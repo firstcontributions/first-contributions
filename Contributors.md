@@ -14,12 +14,13 @@
 - [Kamal Koranga](https://github.com/Kamalkoranga)
 - [Gonzalo Berhouet](https://github.com/gonzalober)
 - [Michael McKnight](https://github.com/MichaelMcKnight)
+- [Adarsh Kannarath](https://github.com/AdarshKannarath)
 - [Nina Dijkstra](https://github.com/N-Dijkstra)
 - [Sakshi Raut](https://github.com/SakshiRaut674)
 - [Jackeastern](https://github.com/Jackeastern)
 - [Aery Zhao](https://github.com/aeryzhao)
 - [SIDDHANT SAHU](https://github.com/siddhant660)
-- Gaurav Bhambhani
+- Gaurav Bhambhan
 - [Vihaan Vijayvargiya](https://github.com/vihaanvijayvargiya)
 - [Sandeep Kumar](https://github.com/SandeepKumar2024)
 - [Sagar Chaudhary](https://github.com/SAGARCODESTER)
@@ -1596,3 +1597,4 @@
 - [Aftab N](https://github.com/aftabnabi)
 - [Phuong Nguyen](https://github.com/png261)
 - <!-- prettier-ignore-end -->
+
