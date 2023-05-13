@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [prathamesh](https://github.com/prathameshg11)
 - [Akhil](https://github.com/Akhil-77)
 - [Noriomusha](https://github.com/Noriomusha)
 - [Sarthak](https://github.com/sarthak2131)
