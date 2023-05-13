@@ -101,6 +101,7 @@
 - [Thien-Bao Bui](https://github.com/tbbui-732)
 - [Hatchie#47](https://github.com/Hatchie-47)
 - [SuJung Song](https://github.com/SONG-crystal)
+- [Marco Barbieri](https://github.com/marcobarb00)
 - [Harshit Gupta](https://github.com/curiousHG)
 - [Harshit Gupta](https://github.com/curiousHG)
 - [Amanda Vien](https://github.com/amanduhkv)
