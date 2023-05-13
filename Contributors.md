@@ -1595,4 +1595,5 @@
 - [Adrian Gryń](https://github.com/Adrgryn)
 - [Aftab N](https://github.com/aftabnabi)
 - [Phuong Nguyen](https://github.com/png261)
+- [Lukasz Jargielo](https://github.com/lukaszjargielo)
 - <!-- prettier-ignore-end -->
