@@ -770,6 +770,7 @@
 - [Tejas Vasisht](https://github.com/tejasvasisht)
 - [R3DRUN3](https://github.com/R3DRUN3)
 - [Viggy Vanchinathan](https://github.com/vviggyy)
+- [Elizabeth Kihuha](https://github.com/enjesh)
 - [Dhanesh Phulphagar](https://github.com/darayn)
 - [Rishi Singh](https://github.com/mrsingh-rishi)
 - [Arpan Adlakhiya](https://github.com/mrr0b0t-0x1)
