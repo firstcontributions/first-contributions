@@ -1063,6 +1063,7 @@
 - [ctran](https://github.com/ctran414)
 - [Xeplon](https://github.com/Xeplon)
 - [koanuywg](https://github.com/koanuywg)
+- [Jagpreet Grewal](https://github.com/JagpreetGrewal)
 - [danesusername](https://github.com/danesusername)
 - [Rajat Bhosale](https://github.com/RajatBhosale)
 - [Charandeep Singh](https://github.com/charandeepsinghb)
