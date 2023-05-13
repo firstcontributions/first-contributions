@@ -17,6 +17,7 @@
 - [Nina Dijkstra](https://github.com/N-Dijkstra)
 - [Sakshi Raut](https://github.com/SakshiRaut674)
 - [Jackeastern](https://github.com/Jackeastern)
+- [Chris Pan](https://github.com/szupzj18)
 - [Aery Zhao](https://github.com/aeryzhao)
 - [SIDDHANT SAHU](https://github.com/siddhant660)
 - Gaurav Bhambhani
