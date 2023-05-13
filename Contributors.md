@@ -202,6 +202,7 @@
   [Chai](https://github.com/chaima449)
   [RishiKesh](https://github.com/Rishipan)
 - [YuHangSE](https://github.com/YuHangSE)
+- [Anastasia Modval](https://github.com/any20)
 - [Thejas Bhat](https://github.com/tbpcoder)
 - [Negar Baharmand](https://github.com/negarbaharmand)
 - [Mahendra Kolhe](https://github.com/Mahikolhe23)
