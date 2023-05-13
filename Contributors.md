@@ -461,6 +461,7 @@
 - [Bishal](https://github.com/bishalneopaney)
 - [Yash Bellary](https://github.com/bellaryyash23)
 - [Daniel Jeffrey Nibbs](https://github.com/Jeff-Nibbs)
+- [Stalloyde]
 - [jeongwoo903](https://github.com/jeongwoo903)
 - [Tobys-Nap](https://github.com/TobysNap)
 - [albus-droid](https://github.com/albus-droid)
@@ -1448,7 +1449,7 @@
 - [buriedBug](https://github.com/buriedBug)
 - [Harold Song](https://github.com/swyhrld)
 - [foliage21](https://github.com/foliage21)
-- [alkas](https://github.com/exalkas "software engineer")
+- [alkas](https://github.com/exalkas 'software engineer')
 - [Arun Kumar Marndi](https://github.com/arunkumarmarndi)
 - [Zullu Balti](https://github.com/ZulluBalti)
 - [Jordan Flanagan](https://github.com/jflaney23)
