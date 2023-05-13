@@ -229,6 +229,7 @@
 - [Kunal Virk](https://github.com/kunalvirk) -[Subham Thapa](https://github.com/WhimsicalWizard)
 - just-now
 - [Shubh Panwala](https://github.com/shubhpanwala)
+- [Smylez](https://github.com/Smylez)
 - [Mahmoud Ibrahiam](https://github.com/remahmoud)
 - [Shahab Valizade](https://github.com/shahabvalizade)
 - [Harshal](https://github.com/sync-ster)
