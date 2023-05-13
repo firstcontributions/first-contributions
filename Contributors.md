@@ -339,6 +339,7 @@ Ti Kyi Khant
 - [Tejas Vasisht](https://github.com/tejasvasisht)
 - [R3DRUN3](https://github.com/R3DRUN3)
 - [Viggy Vanchinathan](https://github.com/vviggyy)
+- [Elizabeth Kihuha](https://github.com/enjesh)
 - [Dhanesh Phulphagar](https://github.com/darayn)
 - [Rishi Singh](https://github.com/mrsingh-rishi)
 - [Arpan Adlakhiya](https://github.com/mrr0b0t-0x1)
@@ -929,5 +930,4 @@ Ti Kyi Khant
 - [Genle](https://github.com/gel-66)
 - [Aykut Bayram](https://github.com/arowana95)
 - [Gambhir Sharma](https://github.com/gambhirsharma)
-- [Elizabeth Kihuha](https://github.com/enjesh)
 <!-- prettier-ignore-end -->
