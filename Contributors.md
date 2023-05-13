@@ -26,6 +26,7 @@
 - [Bryan Bernardo](https://github.com/bernardo-bryan)
 - [rejmut](https://github.com/rejmut)
 - [CultistOfTheEnd](https://github.com/NuxarianCookie)
+- [Priya Mannur](https://github.com/priyamannur)
 - [Tobvl](https://github.com/Tobvl)
 - [Sudeep](https://github.com/srs-sudeep)
 - [Lenox Mangi](https://github.com/DrBake)
