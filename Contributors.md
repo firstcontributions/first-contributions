@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Akhil](https://github.com/Akhil-77)
+- [chandrakant shinde](https://github.com/shinde-chandrakant)
 - [Noriomusha](https://github.com/Noriomusha)
 - [Sarthak](https://github.com/sarthak2131)
 - [Prabal Sharma](https://github.com/prabalsh19)
