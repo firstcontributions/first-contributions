@@ -178,6 +178,7 @@
 - [Jitesh Pahwa](https://github.com/jiteshpahwa04)
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
+- [Dexter CCC](https://github.com/noau)
 - [Ankit_Jaiswal](https://github.com/Ankit4j)
 - [Ayush_Chaudhari](https://github.com/the-bokya)
 - [Aleks_Lucenko](https://github.com/alekslucenko)
