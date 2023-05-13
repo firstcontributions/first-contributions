@@ -40,6 +40,7 @@
 - -Ashish Kumar Singh
 - [cybzzz](https://github.com/cybzzz)
 - NandaHein
+- [imariom](https://github.com/imariom)
   -Hardik Sharma
 - [Chana Ilani](https://github.com/chanafriedman)
 - [Gamapg](https://github.com/gamapg)
