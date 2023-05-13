@@ -127,6 +127,7 @@
 - [Rohit Mahesh](https://github.com/R041T)
 - [Nicekloe](https://github.com/Nicekloe)
 - [Pritse](https://github.com/Pritse)
+- [Nazar Kopytko](https://github.com/NazarK7)
 - [Vittorio Pinti](https://github.com/vpinti)
 - [Amshu G M](https://github.com/AmshuGM)
 - [Emmanuel Okonkwo](https://github.com/mettad3v)
