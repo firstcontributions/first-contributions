@@ -1578,6 +1578,7 @@
 - [safe rabbit](https://github.com/saferabbit/)
 - abdelfattah lutfi
 - [Abhiroop](https://github.com/Abhi-1200/)
+- [Gautham_Naidu](https://github.com/gautham2k3)
 - [Mark Tinega](https://github.com/Markkimotho)
 - [Nipun Agarwal](https://github.com/nipunagarwal4235)
 - [obiwan04kanobi](https://github.com/obiwan04kanobi)
