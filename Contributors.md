@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Yassir](https://github.com/RandomDude470)
+- [Yassir](https://github.com/RandomDude470)
 - [Akhil](https://github.com/Akhil-77)
 - [Noriomusha](https://github.com/Noriomusha)
 - [Sarthak](https://github.com/sarthak2131)
