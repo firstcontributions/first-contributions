@@ -594,6 +594,7 @@
 - [kevins0101](https://github.com/kevins0101)
 - [GivingMyBest](https://github.com/GivingMyBest)
 - [RedH](https://github.com/thisRedH)
+- [Raju1270](https://github.com/Raju1270)
 - [aloopuri](https://github.com/aloopuri)
 - [Samarth](https://github.com/samarth777)
 - [Simon Ciavarro](https://github.com/S1m0nCi)
