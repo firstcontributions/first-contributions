@@ -569,6 +569,7 @@
 - [Etinosa Ekhator](https://github.com/Etinosa22)
 - [seongjunyeong](https://github.com/seongjunyeong)
 - [jong-k](https://github.com/jong-k)
+- [Miryam Levi](https://github.com/MiryamLevi)
 - [Mohamed Ali Nor](https://github.com/IbnuAlii)index
 - [Jungmw03](https://github.com/Jungmw03)
 - [T K](https://github.com/slient-creator)
