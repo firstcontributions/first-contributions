@@ -1595,4 +1595,5 @@
 - [Adrian Gryń](https://github.com/Adrgryn)
 - [Aftab N](https://github.com/aftabnabi)
 - [Phuong Nguyen](https://github.com/png261)
+- [Igor Wawrzeńczak](https://github.com/Igorson1)
 - <!-- prettier-ignore-end -->
