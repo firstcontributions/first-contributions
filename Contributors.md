@@ -39,6 +39,7 @@
 - [cybzzz](https://github.com/cybzzz)
 - NandaHein
   -Hardik Sharma
+- [Chana Ilani](https://github.com/chanafriedman)
 - [Gamapg](https://github.com/gamapg)
 - Balaji Sadanala
 - [Anastasiia Koba](https://github.com/anastasiia-koba)
