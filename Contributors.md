@@ -281,6 +281,7 @@
 - [Dmytro Malienik](https://github.com/dmalenik)
 - [Kaung Khant](https://github.com/KaungK2001)
 - [Kerim Kilic](https://github.com/kerim-kilic)
+- [Sabarish Sridhar](https://github.com/sabarish-sridhar)
 - [Abisola Oluwaseun Olayinka](https://github.com/Abisola-O)
 - [Baljapalli Anshul](https://github.com/AnshulBaljapalli)
 - [mbastakis](https://github.com/mbastakis)
