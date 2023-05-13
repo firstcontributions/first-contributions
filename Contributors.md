@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 <!-- prettier-ignore-start -->
 
@@ -307,8 +307,9 @@
 - [Bamsejon](https://github.com/bamsejon)
 - [Anmol Matharu](https://github.com/anmolmatharu100)
 - [Chris E](https://github.com/cce2955)
-- [cqdev-fusion](https://github.com/cqdev-fusion)
+- [cqdev-fusion](hthiratps://github.com/cqdev-fusion)
 - [Moshe Fortgang](https://github.com/moshefortgang)
+-[Shira](https://github.com/shiramark123)]
 - [Tanbir Ali](https://github.com/tanbirali)
 - [Vyoam Yadav](https://github.com/ambiguousphoton)
 - [Ravindra Reddy](https://github.com/ravindra135)
