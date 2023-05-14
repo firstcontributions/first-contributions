@@ -68,6 +68,7 @@
 - Manny G
 - [Farzan Ekram](https://github.com/farzanekram07)
 - [Mike Tagg](https://github.com/mdtagg)
+- [Shivam Kumar Yadav](https://github.com/Thesky9474)
 - [Kriti Arora](https://github.com/kritiarora2003)
 - [Ayush Modi](https://github.com/AyushModi123)
 - [Ioannis Linardos](https://github.com/yannislinardos)
