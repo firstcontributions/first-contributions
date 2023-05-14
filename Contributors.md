@@ -7,6 +7,7 @@
 - [Noriomusha](https://github.com/Noriomusha)
 - [Sarthak](https://github.com/sarthak2131)
 - [Lucas Moyano](https://github.com/LucasEPK)
+- [Shruti Singh](https://github.com/shruti8302)
 - [Prabal Sharma](https://github.com/prabalsh19)
 - [Yuvraj Katkar](https://github.com/YuvrajKatkar)
 - [Malki Malov] (https://github.com/MalkiMalov)
