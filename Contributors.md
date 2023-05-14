@@ -19,6 +19,7 @@
 - [Gonzalo Berhouet](https://github.com/gonzalober)
 - [Michael McKnight](https://github.com/MichaelMcKnight)
 - [Letizia DI MAIO] (https://github.com/leta91)
+- [Olaoye Muhammad-Nabeel] (https://github.com/Developer-in-Tech)
 - [Nina Dijkstra](https://github.com/N-Dijkstra)
 - [Sakshi Raut](https://github.com/SakshiRaut674)
 - [Jackeastern](https://github.com/Jackeastern)
