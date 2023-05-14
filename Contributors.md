@@ -1661,6 +1661,7 @@ chani-israel
 - [wiwat](https://github.com/mostvivat)
 - [Adrian Gryń](https://github.com/Adrgryn)
 - [Aftab N](https://github.com/aftabnabi)
+- [Viet Quoc Nguyen](https://github.com/viet2307)
 - [Phuong Nguyen](https://github.com/png261)
 - Aviya Atias
 - <!-- prettier-ignore-end -->
