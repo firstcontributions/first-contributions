@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [Hastimal Shah](https://github.com/hasti)
 - [Akhil](https://github.com/Akhil-77)
 - Md Raquib 🔥🔥 (https://github.com/RaquibDox)
@@ -316,8 +317,8 @@
 - [Moheet Shendarkar](https://github.com/moheet333)
 - [Adrian Calleja](https://github.com/adrii0113)
 - [Jon Sundin](https://github.com/jmsundin)
-- [Rose Rousseau](<(https://github.com/MapleRose)>)
-- [Juan Aviles](<(https://github.com/Juan11211)>)
+- [Rose Rousseau](https://github.com/MapleRose))
+- [Juan Aviles](https://github.com/Juan11211))
 - Ashutosh Pandey
 - [Fathi Abdi](https://github.com/Fathyy)
 - Oliver Warne
@@ -331,7 +332,6 @@
 - [Ravindra Reddy](https://github.com/ravindra135)
 - [Sagar Sharma](https://github.com/sagar-io)
 - [Stefan Baciu](https://github.com/StefanCodru)
-
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
 - [Malavya Raval](https://github.com/MalavyaRaval)
 - [José Ortiz-Ocampo](https://github.com/jhortizo)
@@ -482,7 +482,6 @@
 - [jeongwoo903](https://github.com/jeongwoo903)
 - [Tobys-Nap](https://github.com/TobysNap)
 - [albus-droid](https://github.com/albus-droid)
-
 - [Mariangela Petrizzo](http://github.com/petrizzo)
 - [johanneshn](https://github.com/Johanneshn)index
 - [Srijanya Durganala](https://github.com/Srijanya.D)
@@ -1471,7 +1470,7 @@
 - [buriedBug](https://github.com/buriedBug)
 - [Harold Song](https://github.com/swyhrld)
 - [foliage21](https://github.com/foliage21)
-- [alkas](https://github.com/exalkas 'software engineer')
+- [alkas](https://github.com/exalkas "software engineer")
 - [Arun Kumar Marndi](https://github.com/arunkumarmarndi)
 - [Zullu Balti](https://github.com/ZulluBalti)
 - [Jordan Flanagan](https://github.com/jflaney23)
@@ -1517,7 +1516,7 @@
 - [tomoo](https://github.com/Niwatori1192)
 - [Sushil Bhardwaj](https://github.com/Bazigar69)
 - [Aakash Dixit (friend of Sushil)](https://github.com/aakash26dixit)
-- [Ketan Wagh (friend of Sushil & Aakash)](https://github.com/ketanintellect)
+- [Ketan Wagh (friend of Sushil &amp; Aakash)](https://github.com/ketanintellect)
 - [Priyank Panchal](https://github.com/priyank-panchal)
 - [Akshay Thakur](https://github.com/popty)
 - [Abhinav Sharma](https://github.com/Abhinav2091)
@@ -1540,7 +1539,7 @@
 - [shibu5uke](https://github.com/shibu5uke)
 - [Animesh Kumar](https://github.com/wttc-nitr)
 - [Murilo Moraes Cabral](https://github.com/murilomcabral)
-- [Rudi O'Kelly](https://github.com/Die-Meester)
+- [Rudi O&#39;Kelly](https://github.com/Die-Meester)
 - [Ricardo Mello](https://github.com/ricardohsmello)
 - [mohammadamin16](https://github.com/mohammadamin16)
 - [Rezaye Rabbi](https://github.com/rzrabbi)
@@ -1621,6 +1620,6 @@
 - [Adrian Gryń](https://github.com/Adrgryn)
 - [Aftab N](https://github.com/aftabnabi)
 - [Phuong Nguyen](https://github.com/png261)
+- [TKtjpk](https://github.com/TKtjpk**)\*\*
 - Aviya Atias
 - <!-- prettier-ignore-end -->
-
