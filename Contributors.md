@@ -4,7 +4,7 @@
 - [Roshan Gamage] (https://github.com/RoshanGamage01)
 - [Ajit J Gupta] (https://github.com/ajitg25)
 - [Aaron Brown] (https://github.com/kilowulf)
-- [Bracha] (https://gitlab.mavenecommerce.com/btarnovski)
+- Bracha Y.
 - [Prem Ranjan] (https://github.com/premranjn)
 - [Hector Garcia] (https://github.com/hectorgarcia07)
 - [Gaurav Singh] (https://github.com/Gaurav-08-dev)
