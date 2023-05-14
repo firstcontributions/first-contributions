@@ -12,6 +12,7 @@
 - [Yuvraj Katkar](https://github.com/YuvrajKatkar)
 - [Malki Malov] (https://github.com/MalkiMalov)
 - [Gunjan Mishra](https://github.com/GunjanKMishra)
+- [Meenakshi Sivakumar](https://github.com/Meenakshi-Sivakumar)
 - [Swastik Bansal](https://github.com/swastikbansal)
 - [Mushfiqur Rahman](https://github.com/mushfiq13)
 - [Thamer](https://github.com/ThamerMalki)
