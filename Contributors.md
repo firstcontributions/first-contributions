@@ -390,6 +390,7 @@
 - [Harshal Jadhav](https://github.com/harshal2002)
 - [ATHARV POWALKAR AP07](https://github.com/07-Atharv)
 - [Noibisjunior](https://github.com/Noibisjunior)
+-[Akash chakraborty](https://github.com/ak01a04sh)
 - [John Park](https://github.com/shinopark)
 - [Shinzou Mahi](https://github.com/mahi-shinzou)
 - [Alan Rios](https://github.com/CoderioX)
