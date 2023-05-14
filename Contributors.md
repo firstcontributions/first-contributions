@@ -93,6 +93,7 @@
 - [Deepanshu Sharma](https://github.com/Deepanshu-Sharma-18)
 - Sabya
 - Rio
+- Justin Valdez
 - Megan Cooper (https://github.com/MegRCooper)
 - [Avishkaar](https://github.com/Avishkaar007)
 - [Derek Young](https://github.com/derekpyoung)
@@ -218,6 +219,7 @@
 - [Rounak Joshi](https://github.com/RounakJoshi09)
 - [Patrickwchoi](https://github.com/patrickwchoi)
 - [Sham04](https://github.com/Sham04s)
+- Justin Valdez
 - [Satyam Singh](https://github.com/Satyxm)
 - [Heiteinany18](https://github.com/Heiteinany18)
   [Chai](https://github.com/chaima449)
