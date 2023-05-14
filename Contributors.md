@@ -26,13 +26,14 @@
 - [nionyn](https://github.com/nionyn)
 - [SIDDHANT SAHU](https://github.com/siddhant660)
 - Gaurav Bhambhani
+- [P1K5UP](https://github.com/P1K5UP)
 - [Jan](https://github.com/JanR99)
 - [Vihaan Vijayvargiya](https://github.com/vihaanvijayvargiya)
 - [Sandeep Kumar](https://github.com/SandeepKumar2024)
 - [Sagar Chaudhary](https://github.com/SAGARCODESTER)
 - [Bryan Bernardo](https://github.com/bernardo-bryan)
 - [rejmut](https://github.com/rejmut)
-- [CultistOfTheEnd](https://github.com/NuxarianCookie)
+- [Lunasol](https://github.com/NuxarianCookie) :thumbs-up:
 - [Tobvl](https://github.com/Tobvl)
 - [Sudeep](https://github.com/srs-sudeep)
 - [Lenox Mangi](https://github.com/DrBake)
