@@ -28,6 +28,7 @@
 - [Letizia DI MAIO] (https://github.com/leta91)
 - [Nina Dijkstra](https://github.com/N-Dijkstra)
 - [Sakshi Raut](https://github.com/SakshiRaut674)
+- [Saurabh Farkade] (https://github.com/saurabh0413)
 - [Jackeastern](https://github.com/Jackeastern)
 - [Chris Pan](https://github.com/szupzj18)
 - [Aery Zhao](https://github.com/aeryzhao)
