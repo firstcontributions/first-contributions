@@ -55,6 +55,7 @@
 - Balaji Sadanala
 - [Anastasiia Koba](https://github.com/anastasiia-koba) -[Rivki Zohar] (https://github.com/Rivki7)
 - [anchit jain](https://github.com/anchit85426)
+- [RaeEE454](https://github.com/RaeEE454)
 - [Manav Tore](https://github.com/manavtore)
 - [Leandro Robert](https://github.com/leanrobert)
 - Jagdish Kancharapu
