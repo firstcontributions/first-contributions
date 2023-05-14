@@ -89,6 +89,7 @@
 - [Chinmay Bhalerao](https://github.com/ChinmayBH)
 - [Dunson](https://github.com/Dunson)
 - [Eugene](https://github.com/eugene0928)
+- [Mohamed El Jelali](https://github.com/AutarcieDevelop)
 - [Farshad](https://github.com/fa125had)
 - [Luiz Augusto](https://github.com/luizAFS23)
 - [Lukas Haring](https://github.com/mrlukyman/first-contributions)
