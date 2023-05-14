@@ -41,6 +41,7 @@
 - Gaurav Bhambhani
 - [P1K5UP](https://github.com/P1K5UP)
 - [Jan](https://github.com/JanR99)
+- [Oliver Beresford](https://github.com/OliverSBeresford)
 - [Vihaan Vijayvargiya](https://github.com/vihaanvijayvargiya)
 - [Sandeep Kumar](https://github.com/SandeepKumar2024)
 -[Siddhant Chaturwedi](https://github.com/Sidhant2812)
