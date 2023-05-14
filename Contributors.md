@@ -33,6 +33,7 @@
 - [Jackeastern](https://github.com/Jackeastern)
 - [Chris Pan](https://github.com/szupzj18)
 - [Aery Zhao](https://github.com/aeryzhao)
+- [Allan Robert Tan](https://github.com/eillanrt)
 - [nionyn](https://github.com/nionyn)
 - [SIDDHANT SAHU](https://github.com/siddhant660)
 - [William Hua](https://github.com/Weyum1234)
@@ -1683,4 +1684,3 @@ chani-israel
 - Aviya Atias
 - [Carlos Sais](https://github.com/csais3)
 - <!-- prettier-ignore-end -->
-
