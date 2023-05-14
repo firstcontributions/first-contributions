@@ -96,6 +96,7 @@
 - [Ganesh Revadi](https://github.com/ganeshrevadi)
 - [Droid Sumit](https://github.com/droidsumit)
 - [asfaqahmed](https://github.com/asfaqahmed)
+-[Arin Mandal](https://github.com/arinmandal)
 - [Luke Nagy](https://github.com/NaglesWasTaken)
 - [Cássio Nhiemetz Guimarães](https://github.com/AngryPlayer04)
 - [Samuel Haile](https://github.com/samhaile7)
