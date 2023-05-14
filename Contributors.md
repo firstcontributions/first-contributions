@@ -60,6 +60,7 @@
 - [RaeEE454](https://github.com/RaeEE454)
 - [Manav Tore](https://github.com/manavtore)
 - [Leandro Robert](https://github.com/leanrobert)
+- [Adnan Mostafa](https://github.com/AdnanMostafa)
 - Jagdish Kancharapu
 - Paul Kenyanya Omweri
 - Manny G
