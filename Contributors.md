@@ -1620,5 +1620,6 @@
 - [Aftab N](https://github.com/aftabnabi)
 - [Phuong Nguyen](https://github.com/png261)
 - Aviya Atias
+- the floofe
 - <!-- prettier-ignore-end -->
 
