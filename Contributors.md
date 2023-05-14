@@ -626,6 +626,7 @@
 - [Iyyappan R](https://github.com/dvrsaran)
 - [Paul Tucker](https://github.com/PaulDavidTucker)
 - [Zinkue](https://github.com/Zinkue)
+- [Kane M] (https://kms-strategies.ghost.io)
 - [Rohit Yadav](https://www.linkedin.com/in/rohit-yadav-0852481b2/)
 - [Tyler Martin @HeyTylerMartin](https://github.com/HeyTylerMartin)
 - [Arshad Khan](https://github.com/The-Arshad-Khan)
