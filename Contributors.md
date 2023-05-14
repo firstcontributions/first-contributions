@@ -72,6 +72,7 @@
 - [Abtuly](https://github.com/Abtuly)
 - Tejas Chouhan
 - [Rohitha Yarlagadda](https://github.com/YRohitha)
+- [Piotr Awramiuk](https://github.com/portrecistajeden)
 - [Chinmay Bhalerao](https://github.com/ChinmayBH)
 - [Dunson](https://github.com/Dunson)
 - [Eugene](https://github.com/eugene0928)
