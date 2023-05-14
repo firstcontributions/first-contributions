@@ -799,6 +799,7 @@
 - [Matteo Bruscagnin](https://github.com/MBruscagnin)
 - [LaGanjaEsranja Yas Gawd](https://github.com/laganjaestranja)
 - [Bhaskar Sharma](https://github.com/bhaskarsharma10)
+- [Kirill Sergeevich Tarasov](https://github.com/bhaskarsharma10)
 - [Donatus Tamajong](https://github.com/Donatus)
 - [Rucha Daware](https://github.com/ruchadaware18)
 - [Prerit Agrawal](https://github.com/preritagrawal06)
