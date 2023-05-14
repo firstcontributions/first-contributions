@@ -24,6 +24,7 @@
 - [Jackeastern](https://github.com/Jackeastern)
 - [Aery Zhao](https://github.com/aeryzhao)
 - [nionyn](https://github.com/nionyn)
+- [exepag](https://github.com/exequielpagliari)
 - [SIDDHANT SAHU](https://github.com/siddhant660)
 - Gaurav Bhambhani
 - [Jan](https://github.com/JanR99)
