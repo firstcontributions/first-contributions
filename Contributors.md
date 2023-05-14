@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [Hastimal Shah](https://github.com/hasti)
 - [Akhil](https://github.com/Akhil-77)
 - Md Raquib 🔥🔥 (https://github.com/RaquibDox)
@@ -1448,6 +1449,7 @@
 - [James Christley](https://github.com/JamesChristley)
 - [Kavya](https://github.com/KavyaJampani)
 - [Sussurr](https://github.com/sussurr127)
+- [Khemchand](https://github.com/khemchand-twt11)
 - [Genle](https://github.com/gel-66)
 - [Aykut Bayram](https://github.com/arowana95)
 - [FjodorGit](https://github.com/FjodorGit)
@@ -1471,7 +1473,7 @@
 - [buriedBug](https://github.com/buriedBug)
 - [Harold Song](https://github.com/swyhrld)
 - [foliage21](https://github.com/foliage21)
-- [alkas](https://github.com/exalkas 'software engineer')
+- [alkas](https://github.com/exalkas "software engineer")
 - [Arun Kumar Marndi](https://github.com/arunkumarmarndi)
 - [Zullu Balti](https://github.com/ZulluBalti)
 - [Jordan Flanagan](https://github.com/jflaney23)
@@ -1623,4 +1625,3 @@
 - [Phuong Nguyen](https://github.com/png261)
 - Aviya Atias
 - <!-- prettier-ignore-end -->
-
