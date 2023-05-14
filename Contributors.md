@@ -26,6 +26,7 @@
 - [Aery Zhao](https://github.com/aeryzhao)
 - [nionyn](https://github.com/nionyn)
 - [SIDDHANT SAHU](https://github.com/siddhant660)
+- [William Hua](https://github.com/Weyum1234)
 - Gaurav Bhambhani
 - [Jan](https://github.com/JanR99)
 - [Vihaan Vijayvargiya](https://github.com/vihaanvijayvargiya)
