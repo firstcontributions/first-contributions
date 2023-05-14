@@ -1621,6 +1621,7 @@
 - [Adrian Gryń](https://github.com/Adrgryn)
 - [Aftab N](https://github.com/aftabnabi)
 - [Phuong Nguyen](https://github.com/png261)
+- [Vlad G](https://github.com/ead3471)
 - Aviya Atias
 - <!-- prettier-ignore-end -->
 
