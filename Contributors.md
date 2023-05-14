@@ -163,6 +163,7 @@
 - [Nicekloe](https://github.com/Nicekloe)
 - [preston176](https://github.com/preston176)
 - [Pritse](https://github.com/Pritse)
+- [Nazar Kopytko](https://github.com/NazarK7)
 - [Vittorio Pinti](https://github.com/vpinti)
 - [Amshu G M](https://github.com/AmshuGM)
 - [Emmanuel Okonkwo](https://github.com/mettad3v)
