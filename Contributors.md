@@ -31,6 +31,7 @@
 - [SIDDHANT SAHU](https://github.com/siddhant660)
 - [William Hua](https://github.com/Weyum1234)
 - Gaurav Bhambhani
+- [P1K5UP](https://github.com/P1K5UP)
 - [Jan](https://github.com/JanR99)
 - [Vihaan Vijayvargiya](https://github.com/vihaanvijayvargiya)
 - [Sandeep Kumar](https://github.com/SandeepKumar2024)
