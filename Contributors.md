@@ -1613,6 +1613,7 @@ chani-israel
 - [loite](https://github.com/loite)
 - [Pickwick Rudge](https://github.com/pickwick-rudge)
 - [safe rabbit](https://github.com/saferabbit/)
+- [James Stokke](https://github.com/jstokkeASU)
 - abdelfattah lutfi
 - [Abhiroop](https://github.com/Abhi-1200/)
 - [Gautham_Naidu](https://github.com/gautham2k3)
