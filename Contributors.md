@@ -1183,6 +1183,7 @@
 - [Gavin Meeker](https://github.com/gmeeker99)
 - [Alan](https://github.com/Alan-John-Byrne)
 - [Rekerito](https://github.com/Rxkerito)
+- [Kaushal Singh](https://github.com/Kaushal0709)
 - [Harkirat Cheema](https://github.com/harry-cheema07)
 - [Harshita Upadhyay](https://github.com/harshita130602)
 - [Satyam Rai](https://github.com/Satyam-R)
