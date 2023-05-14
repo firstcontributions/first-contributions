@@ -11,6 +11,7 @@
 - [Sarthak](https://github.com/sarthak2131)
 - [Fred Gerner](https://github.com/fgerner)
 - [Lucas Moyano](https://github.com/LucasEPK)
+- [Shruti Singh](https://github.com/shruti8302)
 - [Prabal Sharma](https://github.com/prabalsh19)
 - [JT Fox](https://github.com/jtfox142)
 - [Yuvraj Katkar](https://github.com/YuvrajKatkar)
