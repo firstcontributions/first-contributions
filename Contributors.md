@@ -35,6 +35,7 @@
 - [Aery Zhao](https://github.com/aeryzhao)
 - [Allan Robert Tan](https://github.com/eillanrt)
 - [nionyn](https://github.com/nionyn)
+- [exepag](https://github.com/exequielpagliari)
 - [SIDDHANT SAHU](https://github.com/siddhant660)
 - [William Hua](https://github.com/Weyum1234)
 - Gaurav Bhambhani
