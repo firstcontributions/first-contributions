@@ -1406,6 +1406,7 @@
 - [Dillan samano](https://github.com/DillanSamano)
 - [ayasono](https://github.com/Ayasono)
 - [Reshma]
+- [Nakinton Rungrueng](https://github.com/ItsChathai)
 - [Abdul Moiz Lakhani](https://github.com/abdulmoizlakhani)
 - [Xemio](https://github.com/xemioxd)
 - [izkizk8](https://github.com/izkizk8)
