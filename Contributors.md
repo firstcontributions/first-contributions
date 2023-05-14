@@ -1622,5 +1622,6 @@
 - [Aftab N](https://github.com/aftabnabi)
 - [Phuong Nguyen](https://github.com/png261)
 - Aviya Atias
+- [mgregoryc](https://github.com/mgregoryc)
 - <!-- prettier-ignore-end -->
 
