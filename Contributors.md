@@ -23,6 +23,7 @@
 - [Sakshi Raut](https://github.com/SakshiRaut674)
 - [Jackeastern](https://github.com/Jackeastern)
 - [Aery Zhao](https://github.com/aeryzhao)
+- [Allan Robert Tan](https://github.com/eillanrt)
 - [nionyn](https://github.com/nionyn)
 - [SIDDHANT SAHU](https://github.com/siddhant660)
 - Gaurav Bhambhani
@@ -1623,4 +1624,3 @@
 - [Phuong Nguyen](https://github.com/png261)
 - Aviya Atias
 - <!-- prettier-ignore-end -->
-
