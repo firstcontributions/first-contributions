@@ -62,6 +62,7 @@
 - [Michal Rosen] (https://github.com/Michal45550)
 - [PramodMa](https://github.cpm/pramodahetti)
 - [Shawn Harrison](https://github.com/thelazrus)
+-[Akshaya Parida] (https://github.com/akshayaparida)
 - [Haraprasad Nandi](https://github.com/Whiteflakes)
 - Steamed Hams
 - [Michael Johnston] (https://github.com/michaeljohnstoncode)
