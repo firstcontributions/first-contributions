@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Hastimal Shah](https://github.com/hasti)
+- [Zach Boquet](https://github.com/Kurokio)
 - [Akhil](https://github.com/Akhil-77)
 - Md Raquib 🔥🔥 (https://github.com/RaquibDox)
 - [Noriomusha](https://github.com/Noriomusha)
