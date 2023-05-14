@@ -382,6 +382,7 @@ chani-israel
 - [ItsRqtl](https://github.com/ItsRqtl)
 - [YShen](https://github.com/yshenfab)
 - [kdax12](https://github.com/kobadmitrii)
+- [Krishna Jangir](https://github.com/krishna062)
 - [Lorenzzz](https://github.com/lorenzzz)
 - [Muhammad Safi](https://github.com/safimuhammad)
 - [Matt Riccio](https://github.com/ricciomatt)
