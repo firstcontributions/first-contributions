@@ -58,6 +58,7 @@
 - [Ayush Modi](https://github.com/AyushModi123)
 - [Ioannis Linardos](https://github.com/yannislinardos)
 - [Michal Rosen] (https://github.com/Michal45550)
+- [Peter Tsai] (https://github.com/PeterCai7)
 - [PramodMa](https://github.cpm/pramodahetti)
 - [Shawn Harrison](https://github.com/thelazrus)
 - [Haraprasad Nandi](https://github.com/Whiteflakes)
