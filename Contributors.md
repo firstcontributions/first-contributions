@@ -58,6 +58,7 @@
 - [Leandro Robert](https://github.com/leanrobert)
 - Jagdish Kancharapu
 - Paul Kenyanya Omweri
+- Manny G
 - [Farzan Ekram](https://github.com/farzanekram07)
 - [Mike Tagg](https://github.com/mdtagg)
 - [Kriti Arora](https://github.com/kritiarora2003)
