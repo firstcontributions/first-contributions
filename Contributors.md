@@ -7,6 +7,7 @@
 - [Noriomusha](https://github.com/Noriomusha)
 -Utkarsh Shukla(https://github.com/utkrsh-shukla)
 - [Sarthak](https://github.com/sarthak2131)
+- [Fred Gerner](https://github.com/fgerner)
 - [Lucas Moyano](https://github.com/LucasEPK)
 - [Prabal Sharma](https://github.com/prabalsh19)
 - [JT Fox](https://github.com/jtfox142)
