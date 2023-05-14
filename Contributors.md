@@ -36,7 +36,6 @@
 - [Tobvl](https://github.com/Tobvl)
 - [Sudeep](https://github.com/srs-sudeep)
 - [Lenox Mangi](https://github.com/DrBake)
-- [Subhradip Bodhak](https://github.com/subhradip-bo)
 - -Yash Mishra
 - -Ashish Kumar Singh
 - [cybzzz](https://github.com/cybzzz)
