@@ -1279,6 +1279,7 @@ chani-israel
 - [Michael Fang](https://github.com/michaelfangtw)
 - [Jaguar Ek](https://github.com/GeraAlcantara)
 - [Ordin Zabek](https://github.com/ordinz)
+- [Maksim Ivanov](https://github.com/splincool)
 - [Natalie Lopez](https://github.com/Nlopez4)
 - [Pavan Bagwe](https://github.com/pavanb0)
 - [Reduan Masud](https://github.com/reduanmasud)
