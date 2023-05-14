@@ -11,7 +11,7 @@
 - [Prabal Sharma](https://github.com/prabalsh19)
 - [JT Fox](https://github.com/jtfox142)
 - [Yuvraj Katkar](https://github.com/YuvrajKatkar)
-- [Malki Malov] (https://github.com/MalkiMalov)
+- [Malki Malov](https://github.com/MalkiMalov)
 - [Gunjan Mishra](https://github.com/GunjanKMishra)
 - [Meenakshi Sivakumar](https://github.com/Meenakshi-Sivakumar)
 - [Swastik Bansal](https://github.com/swastikbansal)
