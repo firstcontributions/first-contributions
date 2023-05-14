@@ -295,6 +295,7 @@ chani-israel
 - [Thunderk3g](https://github.com/Thunderk3g)
 - [Gabriel Moraes](https://github.com/gabrielm33)
 - [Kiro Adel](https://github.com/Noobie7612)
+- [Jomiel Enriquez](https://github.com/jomielenriquez)
 - June Song
 - Grumbo
 - [khunsai06](https://github.com/khunsai06)
