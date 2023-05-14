@@ -1674,5 +1674,6 @@ chani-israel
 - [Viet Quoc Nguyen](https://github.com/viet2307)
 - [Phuong Nguyen](https://github.com/png261)
 - Aviya Atias
+- [Carlos Sais](https://github.com/csais3)
 - <!-- prettier-ignore-end -->
 
