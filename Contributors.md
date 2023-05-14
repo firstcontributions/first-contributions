@@ -38,6 +38,7 @@
 - [Tobvl](https://github.com/Tobvl)
 - [Sudeep](https://github.com/srs-sudeep)
 - [Lenox Mangi](https://github.com/DrBake)
+- [Jack O'Hare](https://github.com/JackOhare27)
 - -Yash Mishra
 - -Ashish Kumar Singh
 - [cybzzz](https://github.com/cybzzz)
