@@ -7,26 +7,26 @@
 
 É difícil. É sempre difícil fazer algo pela primeira vez. Especialmente quando se está a colaborar, errar não é algo agradável. Mas *open source* (código aberto) trata-se de colaboração e de trabalharmos juntos. Queremos simplificar a forma com que novos colaboradores *open source* aprendem e contribuem pela primeira vez.
 
-Ler artigos e ver tutoriais pode ajudar, mas nada melhor do que realmente "pôr a mão na massa" sem estragar nada. Este projeto visa simplificar a forma com que os novatos fazem a sua primeira contribuição. Lembra-te: quanto mais relaxado(a) estiveres, melhor aprenderás. Se quiseres fazer a tua primeira contribuição, segue os passos abaixo. Nós prometemos, será divertido.
+Ler artigos e ver tutoriais pode ajudar, mas nada melhor do que realmente "pôr a mão na massa" sem estragar nada. Este projecto visa simplificar a forma com que os novatos fazem a sua primeira contribuição. Lembre-se: quanto mais relaxado(a) estiveres, melhor aprenderás. Se quiseres fazer a tua primeira contribuição, siga os passos abaixo. Nós prometemos, será divertido.
 
 Se ainda não tens o git na tua máquina, [instala-o aqui]( https://help.github.com/articles/set-up-git/ ).
 
 ## Faz um Fork deste repositório
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork deste repositorio" />
 
-Faz um Fork ao clicares no botão "Fork" no topo desta página. Isto vai criar uma cópia deste repositório na tua conta.
+Faça o Fork clicando no botão "Fork" no topo desta página. Esta operação criará uma cópia deste repositório na tua conta.
 <br></br><br></br>
 ## Clone o repositório
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clonar este repositório" />
 
-Agora clone este repositório para a tua máquina. Carrega no botão "Clone or download" e, em seguida, clica no ícone "Copy to clipboard" para copiar a URL.
+Agora clone este repositório para a tua máquina local. Clique no botão "Clone or download" e, em seguida, clica no ícone "Copy to clipboard" para copiar a URL.
 
 Abre o teu terminal e executa o comando seguinte:
 ```
 git clone "url que copiou"
 ```
-onde "url que copiou" (sem as aspas) é a URL deste repositório. Consulta as etapas anteriores para obter a URL.
+onde "url que copiou" (sem as aspas) é a URL deste repositório. Consulte as etapas anteriores para obter a URL.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copiar URL" />
 
@@ -34,7 +34,7 @@ Por exemplo:
 ```
 git clone https://github.com/este-eh-voce/first-contributions.git
 ```
-onde "este-eh-voce" é o seu usuário do GitHub. Aqui estas a copiar o conteúdo do repositório first-contributions para o teu computador.
+onde "este-eh-voce" é o seu usuário do GitHub. Aqui estás a copiar o conteúdo do repositório first-contributions para o teu computador.
 
 ## Cria um Branch
 
@@ -43,7 +43,7 @@ Vá para o diretório do repositório no teu computador (caso ainda não estejas
 cd first-contributions
 ```
 
-Agora cria um Branch usando o comando `git checkout`:
+Agora crie um novo Branch usando o comando `git checkout`:
 ```
 git checkout -b <add-seu-nome>
 ```
@@ -56,7 +56,7 @@ Obs.: O nome do Branch não precisa de ter a sigla "add", mas neste caso é reco
 
 ## Efetua as alterações necessárias e faz um Commit
 
-Agora abre o ficheiro `Contributors.md` no teu editor de código, adiciona o teu nome nele e guarda o ficheiro. Se fores para o diretório do projeto e executar o comando `git status`, verás que há alterações. Adiciona essas alterações ao Branch que acabaste de criar utilizando o comando `git add`:
+Agora abra o ficheiro `Contributors.md` no teu editor de código, adiciona o teu nome nele e salve o ficheiro. Se fores para o directório do projeto e executar o comando `git status`, verás que há alterações. Adiciona essas alterações ao Branch que acabaste de criar utilizando o comando `git add`:
 ```
 git add Contributors.md
 ```
