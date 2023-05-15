@@ -1701,4 +1701,5 @@ chani-israel
 - [Lennart Pries](https://github.com/lennart02)
 - Aviya Atias
 - [Carlos Sais](https://github.com/csais3)
+- [Sameer Kumar singh](https://github.com/xvisierra)
 - <!-- prettier-ignore-end -->
