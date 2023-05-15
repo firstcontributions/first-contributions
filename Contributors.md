@@ -750,6 +750,7 @@ chani-israel
 - [Daniel Choike](https://github.com/danielchoike2)
 - [vanagas11](https://github.com/vanagas11)
 - [David K.](https://github.com/David-Killian)
+- [John Nam](https://github.com/johnnam1121)
 - [Chris D](https://github.com/nesdev85)
 - [Hippolyte Thomas](https://github.com/hippothomas)
 - [Alexis Gonzalez](https://github.com/Alex-is-Gonzalez)
