@@ -8,6 +8,7 @@
 - [Sarthak](https://github.com/sarthak2131)
 - [Lucas Moyano](https://github.com/LucasEPK)
 - [Prabal Sharma](https://github.com/prabalsh19)
+- [Raj Khanna](https://github.com/raj-khanna1)
 - [Yuvraj Katkar](https://github.com/YuvrajKatkar)
 - [Malki Malov] (https://github.com/MalkiMalov)
 - [Gunjan Mishra](https://github.com/GunjanKMishra)
