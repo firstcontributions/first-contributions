@@ -1,6 +1,7 @@
 # Contributors
 [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 <!-- prettier-ignore-start -->
+- [Milan Lakhani](https://github.com/milan-lakhani)
 - [Aditya patil](https://github.com/AdityaPatil111)
 - [Hastimal Shah](https://github.com/hasti)
 - [Zvirid Andrei](https://github.com/zviridandrei)
