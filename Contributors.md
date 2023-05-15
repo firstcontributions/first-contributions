@@ -14,6 +14,7 @@
 -Utkarsh Shukla(https://github.com/utkrsh-shukla)
 - [Sarthak](https://github.com/sarthak2131)
 - [Fred Gerner](https://github.com/fgerner)
+- [Lukasz Gzella](https://github.com/lukasgzella)
 - [Lucas Moyano](https://github.com/LucasEPK)
 - [Anand Raj](https://github.com/anand346)
 - [Shruti Singh](https://github.com/shruti8302)
