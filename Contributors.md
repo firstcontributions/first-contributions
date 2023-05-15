@@ -4,7 +4,7 @@
 - [Hastimal Shah](https://github.com/hasti)
 - [Akhil](https://github.com/Akhil-77)
 - Md Raquib 🔥🔥 (https://github.com/RaquibDox)
-- [IamMahfooz]
+- IamMahfooz
 - [Noriomusha](https://github.com/Noriomusha)
 - [Sarthak](https://github.com/sarthak2131)
 - [Lucas Moyano](https://github.com/LucasEPK)
