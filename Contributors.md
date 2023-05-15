@@ -329,6 +329,7 @@ chani-israel
 - [Arcturus](https://github.com/Arcturus-Motors)
 - Adithyanarayanan S
 - [Wesllen Alexandre](https://github.com/Wesllenbr)
+- [Adithya Bijoy](https://github.com/Adithya1902)
 - [Ikegah Oliver](https://github.com/oliverTwist2)
 - [Fumiya Shimada](https://github.com/smdhnz)
 - [derfabiannn](https://github.com/derfabiannn)
