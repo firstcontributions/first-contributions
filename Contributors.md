@@ -25,6 +25,7 @@
 - [Gunjan Mishra](https://github.com/GunjanKMishra)
 - [Meenakshi Sivakumar](https://github.com/Meenakshi-Sivakumar)
 - [Swastik Bansal](https://github.com/swastikbansal)
+- [Krutartha Nagesh] (https://github.com/krutartha)
 - [Vance Sama](https://github.com/VansRouges)
 - [Mushfiqur Rahman](https://github.com/mushfiq13)
 - [birendra07] (https://github.com/birendra07)
