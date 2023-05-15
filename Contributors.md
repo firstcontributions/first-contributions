@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Joyce YIMGA](https://github.com/ThilianaJoycy)
 - [Aditya patil](https://github.com/AdityaPatil111)
 - [Hastimal Shah](https://github.com/hasti)
 - [Zach Boquet](https://github.com/Kurokio)
