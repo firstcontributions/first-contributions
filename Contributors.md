@@ -365,6 +365,7 @@ chani-israel
 - [Musa Blackfrost](https://github.com/musagenius345)
 - [💻 Aline Bevilacqua ✨](https://github.com/Aliine98)
 - [Satyam singh](https://github.com/jirayanaruto)
+- [Gabor Toth](https://github.com/tgmaster80)
 - [Lior Haim](https://github.com/LiorHaimGit)
 - [Jacob Albert](https://github.com/jalbert90)
 - [Ruth Ikegah](https://github.com/Ruth-ikegah)
