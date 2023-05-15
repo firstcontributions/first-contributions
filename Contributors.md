@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Milan Lakhani](https://github.com/milan-lakhani)
 - [Aditya patil](https://github.com/AdityaPatil111)
+- [Andre Chua](https://github.com/andrechuakj)
 - [Hastimal Shah](https://github.com/hasti)
 - [Zvirid Andrei](https://github.com/zviridandrei)
 - [Zach Boquet](https://github.com/Kurokio)
