@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Milan Lakhani](https://github.com/milan-lakhani)
 - [Aditya patil](https://github.com/AdityaPatil111)
 - [Hastimal Shah](https://github.com/hasti)
 - [Zach Boquet](https://github.com/Kurokio)
