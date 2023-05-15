@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Aditya patil](https://github.com/AdityaPatil111)
+- [Andre Chua](https://github.com/andrechuakj)
 - [Hastimal Shah](https://github.com/hasti)
 - [Zach Boquet](https://github.com/Kurokio)
 - [Akhil](https://github.com/Akhil-77)
