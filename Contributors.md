@@ -33,6 +33,7 @@
 - [Jackeastern](https://github.com/Jackeastern)
 - [Chris Pan](https://github.com/szupzj18)
 - [Aery Zhao](https://github.com/aeryzhao)
+- [Pirajesh M R] (https://github.com/verz0)
 - [Allan Robert Tan](https://github.com/eillanrt)
 - [nionyn](https://github.com/nionyn)
 - [exepag](https://github.com/exequielpagliari)
