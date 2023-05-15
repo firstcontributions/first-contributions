@@ -134,6 +134,19 @@ For example:
 git switch -c add-alonzo-church
 ```
 
+We can also create a branch using
+
+git branch branch-name
+```
+
+git checkout branch-name
+```
+
+If you want to see that in which branch are you in:
+
+git branch
+```
+
 ## Make necessary changes and commit those changes
 
 Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
@@ -147,6 +160,12 @@ Add those changes to the branch you just created using the `git add` command:
 ```
 git add Contributors.md
 ```
+If you have changes or modified various files then directly use the commandmit will add all the files you have modified
+
+```
+git add .
+```
+
 Now commit those changes using the `git commit` command:
 
 ```
