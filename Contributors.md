@@ -1,5 +1,5 @@
 # Contributors
-
+[Shantanu Nautiyal](https://github.com/shantanunautiyal)
 <!-- prettier-ignore-start -->
 - [Aditya patil](https://github.com/AdityaPatil111)
 - [Hastimal Shah](https://github.com/hasti)
@@ -66,10 +66,12 @@
 - [Chana Ilani](https://github.com/chanafriedman)
 - [Gamapg](https://github.com/gamapg)
 - Balaji Sadanala
-- [Anastasiia Koba](https://github.com/anastasiia-koba) -[Rivki Zohar] (https://github.com/Rivki7)
+- [Anastasiia Koba](https://github.com/anastasiia-koba) 
+[Rivki Zohar](https://github.com/Rivki7)
 - [anchit jain](https://github.com/anchit85426)
 - [RaeEE454](https://github.com/RaeEE454)
 - [Manav Tore](https://github.com/manavtore)
+- [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 - [Leandro Robert](https://github.com/leanrobert)
 - [Adnan Mostafa](https://github.com/AdnanMostafa)
 - Jagdish Kancharapu
