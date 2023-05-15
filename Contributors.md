@@ -885,6 +885,7 @@ chani-israel
 - [Nick](https://github.com/comfythread)
 - [Srivathsan V](https://github.com/Srivathsan-V)
 - [Ivan Delgado](https://github.com/vndlgd)
+- [Janik B](https://github.com/zbakin)
 - [TJ Albertson](https://github.com/TJ-Albertson)
 - [Ruthik Jadhav](https://github.com/Ruthik130201)
 - [Don](https://github.com/Donlebon)
