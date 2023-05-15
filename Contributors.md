@@ -186,6 +186,7 @@
 - [xavierjimz](https://github.com/xavierjimz/)
 - [Satyam Nyati](https://github.com/satyamnyati)
 - [Trottie McQueen](https://github.com/trottiemcqueen)
+- [Yash Mistri](https://github.com/yashmistri/)
 - [mikmc](https://github.com/mik25)
 - [Jerry Yan](https://github.com/jerryy668)
 - [Chico Stick](https://github.com/ChicoStickowo)
