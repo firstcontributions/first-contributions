@@ -10,6 +10,7 @@
 -Utkarsh Shukla(https://github.com/utkrsh-shukla)
 - [Sarthak](https://github.com/sarthak2131)
 - [Fred Gerner](https://github.com/fgerner)
+- [Lukasz Gzella](https://github.com/lukasgzella)
 - [Lucas Moyano](https://github.com/LucasEPK)
 - [Shruti Singh](https://github.com/shruti8302)
 - [Prabal Sharma](https://github.com/prabalsh19)
