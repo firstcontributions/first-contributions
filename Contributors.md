@@ -204,6 +204,7 @@
 - [Jerry Yan](https://github.com/jerryy668)
 - [Chico Stick](https://github.com/ChicoStickowo)
 - [Juli Levi](https://github.com/julilll)
+- [Vishnu Gitta] (https://github.com/Vishnu-1703)
 - [Sam Joshua](https://github.com/Sam-Joshua-S)
 - [Jay Adeyina](https://github.com/Hyuuga81)
 - [Woon Koh](https://github.com/kohwdev)
