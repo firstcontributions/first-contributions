@@ -1241,6 +1241,7 @@ chani-israel
 - [Vinicius Antunes](https://github.com/vinicius-anp)
 - [Pat Browne](https://github.com/pbrowne011)
 - Monty
+- [Alasdair Hendry](https://github.com/alasdairhendry)
 - [Lucaremdev](https://github.com/lucaremdev)
 - [Anshuman Tiwari](https://github.com/at610505)
 - [Xaavan Dolence](https://github.com/XaavanDolence)
