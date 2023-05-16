@@ -1710,6 +1710,7 @@ chani-israel
 - Fubge(https://github.com/Fubge)
 - [wiwat](https://github.com/mostvivat)
 - [Adrian Gryń](https://github.com/Adrgryn)
+- [Lionel Guaregua](https://github.com/guaregua19)
 - [Aftab N](https://github.com/aftabnabi)
 - [Viet Quoc Nguyen](https://github.com/viet2307)
 - [Phuong Nguyen](https://github.com/png261)
