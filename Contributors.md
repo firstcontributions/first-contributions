@@ -12,7 +12,7 @@
 - Md Raquib 🔥🔥 (https://github.com/RaquibDox)
 - IamMahfooz
 - [Noriomusha](https://github.com/Noriomusha)
--Utkarsh Shukla(https://github.com/utkrsh-shukla)
+- Utkarsh Shukla(https://github.com/utkrsh-shukla)
 - [Sarthak](https://github.com/sarthak2131)
 - [Fred Gerner](https://github.com/fgerner)
 - [Lukasz Gzella](https://github.com/lukasgzella)
@@ -34,6 +34,7 @@
 - [Thamer](https://github.com/ThamerMalki)
 - [Saukar Manjunath](https://github.com/ManjunathSaukar)
 - [Kamal Koranga](https://github.com/Kamalkoranga)
+- [omi](https://github.com/omaru-ok)
 - [Gonzalo Berhouet](https://github.com/gonzalober)
 - [Michael McKnight](https://github.com/MichaelMcKnight)
 - [Letizia DI MAIO] (https://github.com/leta91)
@@ -78,7 +79,7 @@
 - [Chana Ilani](https://github.com/chanafriedman)
 - [Gamapg](https://github.com/gamapg)
 - Balaji Sadanala
-- [Anastasiia Koba](https://github.com/anastasiia-koba) 
+- [Anastasiia Koba](https://github.com/anastasiia-koba)
 [Rivki Zohar](https://github.com/Rivki7)
 - [anchit jain](https://github.com/anchit85426)
 - [RaeEE454](https://github.com/RaeEE454)
