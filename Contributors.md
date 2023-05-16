@@ -99,6 +99,7 @@
 - [Abtuly](https://github.com/Abtuly)
 - Tejas Chouhan
 - [Aasim Qureshi](https://github.com/itisaasim)
+-[Solmaz Arezoomandan](https://github.com/Soltechie)
 - [Rohitha Yarlagadda](https://github.com/YRohitha)
 - [Piotr Awramiuk](https://github.com/portrecistajeden)
 - [Chinmay Bhalerao](https://github.com/ChinmayBH)
