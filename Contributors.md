@@ -1,6 +1,7 @@
 # Contributors
 [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 <!-- prettier-ignore-start -->
+- [Abdullah Al MahMud](https://github.com/AbdullahWins)
 - [Milan Lakhani](https://github.com/milan-lakhani)
 - [Aditya patil](https://github.com/AdityaPatil111)
 - [Andre Chua](https://github.com/andrechuakj)
