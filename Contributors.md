@@ -244,6 +244,7 @@
 - Vineet Sirohi
 - Dewayne Austin
 - Shira Weissman
+- Vishesh
 - [Jenny_Quan](https://github.com/jennyq7)
 - [Sharon Kaufman](https://github.com/Sk-223)
 - [Divine Amunega](https://github.com/divineamunega)
