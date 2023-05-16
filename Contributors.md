@@ -528,6 +528,7 @@ chani-israel
 - [Nishant Kumar](https://github.com/thinkwithcode)
 - [Precious Enyi](https://github.com/enyipreshious)
 - [Pragathees](https://github.com/pragasekar)
+- [Thomas Blood](https://github.com/N0Heart)
 - [Thomas Jacka](https://github.com/TJacka)
 - [Brian Keimah](https://github.com/Keimah507)
 - [Sarper Özer](https://github.com/sarperozer)
