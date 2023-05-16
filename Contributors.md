@@ -1053,6 +1053,7 @@ chani-israel
 - [EvyatarEsterson🙂](https://github.com/EvyatarEsterson)
 - [Linnea Herzer](https://github.com/lynn109)
 - [isaacc16](https://github.com/isaacc16)
+- [YuHuang0525](https://github.com/YuHuang0525)
 - [runestextwa](https://github.com/runestextwa)
 - [Manolis](https://github.com/elmanol)
 - [cameron lee](https://github.com/cameronslee23)
