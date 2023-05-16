@@ -177,6 +177,7 @@
 - [James-Christie](https://github.com/James-Christie)
 - [ARYAN](https://github.com/aryanhr0001)
 - [CrazyOutOff](https://github.com/CrazyOutOff)
+- [Eric J](https://github.com/ej31415)
 - [Omkar](https://github.com/omkarb21)
 - [Matias Mansilla](https://github.com/MansillaM)
 - [Jackson McGillivary](https://github.com/Revenant70)
