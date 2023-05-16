@@ -14,7 +14,7 @@
 這份文件提供如何對遠端 repository 回復 commit。這項操作適用在你需要回復 commit，但你已經 push 到 Github。
 > 如果你想要回復 commit，根據這些步驟操作。
 
-### [修訂 commit](../amending-a-commit.md)
+### [修訂 commit](../amending-a-commit.np.md)
 這份文件教你如何在修訂在遠端的 commit。
 > 在你需要調整 commit 的時候使用這個。
 
@@ -34,11 +34,11 @@
 這份文件教你如何移動 commit 到另一個分支。
 > 跟著步驟移動 commit 到另一個分支。
 
-### [配置 git](../configuring-git.md)
+### [配置 git](../configuring-git.np.md)
 這份文件教你設定 git 的使用者資料與其他選項。
 > 閱讀這份文件讓你對 git 配置更有掌握。
 
-### [好用的連結](../Useful-links-for-further-learning.md)
+### [好用的連結](../Useful-links-for-further-learning.id.md)
 這份文件包含許多好用的部落格文章、網站、提示和小技巧，了解這些讓我們可以更容易上手。這一頁應該當做好用連結的索引，讓開源的新手還有想認識開源的人可以了解更多。
 
 ### [擠壓 commits](../squashing-commits.md)
