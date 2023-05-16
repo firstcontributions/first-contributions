@@ -1717,5 +1717,6 @@ chani-israel
 - Aviya Atias
 - [Carlos Sais](https://github.com/csais3)
 - [Sameer Kumar singh](https://github.com/xvisierra)
+- [Chang Heng U, Vincent](https://github.com/Vincc)
 - <!-- prettier-ignore-end -->
 - [Jimmy Batuhan](https://github.com/jimmybatuhan)
