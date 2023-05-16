@@ -1719,3 +1719,4 @@ chani-israel
 - [Sameer Kumar singh](https://github.com/xvisierra)
 - <!-- prettier-ignore-end -->
 - [Jimmy Batuhan](https://github.com/jimmybatuhan)
+- [Victor Chu](https://github.com/victorc9782)
