@@ -103,7 +103,7 @@ git push origin -u <your-new-branch-name>
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-আমি যথাশীঘ্র সম্ভব আপনার পরিবর্তনগুলো এই প্রজেক্টের মাস্টার ব্রাঞ্চে মার্জ (একত্রিত) করব। মার্জ (একত্রিত) করা সম্পন্ন হলে আপনি একটি নিশ্চিতকরণ ই-মেইল পাবেন।
+আমি যথাশীঘ্র সম্ভব আপনার পরিবর্তনগুলো এই প্রজেক্টের মাস্টার ব্রাঞ্চে মার্জ করব। মার্জ করা সম্পন্ন হলে আপনি একটি নিশ্চিতকরণ ই-মেইল পাবেন।
 
 ## এরপর কী করব?
 
