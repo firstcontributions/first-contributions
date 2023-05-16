@@ -49,6 +49,7 @@
 - [exepag](https://github.com/exequielpagliari)
 - [SIDDHANT SAHU](https://github.com/siddhant660)
 - [William Hua](https://github.com/Weyum1234)
+- [Sampath Vatsavaya](https://github.com/Sampath-Vatsavaya)
 - Gaurav Bhambhani
 - [P1K5UP](https://github.com/P1K5UP)
 - [Jan](https://github.com/JanR99)
