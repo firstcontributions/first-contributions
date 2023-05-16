@@ -62,6 +62,7 @@
 - [CultistOfTheEnd](https://github.com/NuxarianCookie)
 - [Chaya Kwin](https://github.com/ChayaKwin)
 - [Tobvl](https://github.com/Tobvl)
+- [Jordan Russo](https://github.com/Jordan-Russo)
 - [Code-Dreams](https://github.com/Code-Dreams)
 - [Sudeep](https://github.com/srs-sudeep)
 - [Showzaemon](https://github.com/Showzaemon)
