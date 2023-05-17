@@ -178,6 +178,7 @@
 - [ARYAN](https://github.com/aryanhr0001)
 - [CrazyOutOff](https://github.com/CrazyOutOff)
 - [Omkar](https://github.com/omkarb21)
+- [George Guo](https://github.com/Georges1n)
 - [Matias Mansilla](https://github.com/MansillaM)
 - [Jackson McGillivary](https://github.com/Revenant70)
 - [Srujan Geedipalli](https://github.com/Srujan273)
