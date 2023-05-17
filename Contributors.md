@@ -7,7 +7,7 @@
 - [Akhil](https://github.com/Akhil-77)
 - Md Raquib 🔥🔥 (https://github.com/RaquibDox)
 - [Noriomusha](https://github.com/Noriomusha)
--Utkarsh Shukla(https://github.com/utkrsh-shukla)
+-  Utkarsh Shukla(https://github.com/utkrsh-shukla)
 - [Sarthak](https://github.com/sarthak2131)
 - [Fred Gerner](https://github.com/fgerner)
 - [Lucas Moyano](https://github.com/LucasEPK)
