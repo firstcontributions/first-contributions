@@ -142,6 +142,7 @@
 - [Derek Young](https://github.com/derekpyoung)
 - [Pedro Braga](https://github.com/PedBraga)
 - [Dilshad](https://github.com/a-rustacean)
+- [Stephanie Wong] (https://github.com/steph-wong-15)
 - [Ganesh Revadi](https://github.com/ganeshrevadi)
 - [Droid Sumit](https://github.com/droidsumit)
 - [asfaqahmed](https://github.com/asfaqahmed)
