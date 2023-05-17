@@ -764,6 +764,7 @@ chani-israel
 - [Muneeb Shahid](https://github.com/muneeb706)
 - [Rami Shawwa](https://edbtz.com)
 - [Sibasis Panda](https://github.com/sibasispanda)
+- [Christopher Gibbon](https://github.com/crhisgbibon)
 - [Chhaganlaal](https://github.com/Chhaganlaal)
 - [Chandra Kiran](https://github.com/chandra-kiran1)
 - [Aryan Thakore](https://github.com/Aryan1982)
