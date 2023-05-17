@@ -333,6 +333,7 @@ chani-israel
 - [Davis Onyeoguzoro](https://github.com/Davisonyeas)
 - [jdszekeres](https://github.com/jdszekeres)
 - [Emilio Aranda](https://github.com/emiara)
+- [Marcelo Rockman](https://github.com/IItherockmanII)
 - [Thainara Antunes](https://github.com/thaiantunes)
 - [Luisa Nievas](https://github.com/lunievas)
 - [Anuj Kumar Karmakar](https://github.com/anujkkarmakar)
