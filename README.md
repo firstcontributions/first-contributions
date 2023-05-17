@@ -2,7 +2,6 @@
 
 ![ImageBanner](banner/banner.png)
 
-<br><br>
 
 #  First Contributions
 
