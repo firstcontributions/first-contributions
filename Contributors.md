@@ -25,6 +25,7 @@
 - [Yuvraj Katkar](https://github.com/YuvrajKatkar)
 - [Meghanath Reddy](https://github.com/meghanath852)
 - [Malki Malov](https://github.com/MalkiMalov)
+- [Kiara Hoheb](https://github.com/kxtara)
 - [Gunjan Mishra](https://github.com/GunjanKMishra)
 - [Meenakshi Sivakumar](https://github.com/Meenakshi-Sivakumar)
 - [Swastik Bansal](https://github.com/swastikbansal)
