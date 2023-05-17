@@ -16,6 +16,7 @@
 - Himanshu Tamta
 - [Sarthak](https://github.com/sarthak2131)
 - [Fred Gerner](https://github.com/fgerner)
+- [Tharindu Buwaneka](https://github.com/Tharindusb)
 - [Lukasz Gzella](https://github.com/lukasgzella)
 - [Lucas Moyano](https://github.com/LucasEPK)
 - [Anand Raj](https://github.com/anand346)
