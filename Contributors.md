@@ -1722,3 +1722,4 @@ chani-israel
 - [Sameer Kumar singh](https://github.com/xvisierra)
 - <!-- prettier-ignore-end -->
 - [Jimmy Batuhan](https://github.com/jimmybatuhan)
+- [Ahmed Magdy](https://github.com/amagdi65)
