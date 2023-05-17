@@ -1047,6 +1047,7 @@ chani-israel
 - [Phillip Yen](https://github.com/yphillip)
 - [kan01234](https://github.com/kan01234/)
 - [Mark DC95](https://github.com/MarkDC95)
+- [Selim](https://github.com/ssehriyar)
   Shrajan Jain
 - [lazylittlestar](https://github.com/lazylittlestar)
 - [japesjake](http://github.com/japesjake)
