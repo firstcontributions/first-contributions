@@ -190,6 +190,7 @@
 - [Rituraj](https://github.com/enrituraj)
 - [Rohit Mahesh](https://github.com/R041T)
 - [Nicekloe](https://github.com/Nicekloe)
+- [Yash Desai](https://github.com/yashdesoi)
 - [preston176](https://github.com/preston176)
 - [Pritse](https://github.com/Pritse)
 - [Nazar Kopytko](https://github.com/NazarK7)
