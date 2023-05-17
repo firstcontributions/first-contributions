@@ -6,6 +6,7 @@
 - [Andre Chua](https://github.com/andrechuakj)
 - [Divy Don](https://github.com/Divy312)
 - [Hastimal Shah](https://github.com/hasti)
+- [Alex Li](https://github.com/alexcode4ever)
 - [Zvirid Andrei](https://github.com/zviridandrei)
 - [Zach Boquet](https://github.com/Kurokio)
 - [Akhil](https://github.com/Akhil-77)
