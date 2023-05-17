@@ -1209,6 +1209,7 @@ chani-israel
 - [Shaik Abdul Wahid](https://github.com/Abdulwahid7027)
 - [Abhishek Singh](https://github.com/Abhisheksingh734)
 - [malleboina paramesh](https://github.com/MalleboinaParmesh/)
+- [Michal Lata](https://github.com/lata-michal)
 - [Ravi yadav](https://github.com/strange605)
 - [Santiago Fernandez](https://github.com/lostwalle268)
 - [thofa](https://github.com/musthofasyarifudin)
