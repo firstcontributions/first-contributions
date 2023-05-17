@@ -280,6 +280,7 @@ chani-israel
 - [Best wishes](https://github.com/SinusoidFunc)
 - [Temiwaji](https://github.com/Temiwaji)
 - [Venkatesh-KCET](https://github.com/Venkatesh-KCET)
+- [Jan](https://github.com/Ultr0x)
   [Abdulsamad Yusuf](https://github.com/samad13)
 - [Vivek Kumar](https://github.com/vivekkumar0037)
 - [Abhijeet](https://github.com/abhi-jeet-kumar)
