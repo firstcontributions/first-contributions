@@ -18,6 +18,7 @@
 - [Fred Gerner](https://github.com/fgerner)
 - [Lukasz Gzella](https://github.com/lukasgzella)
 - [Lucas Moyano](https://github.com/LucasEPK)
+- [John](https://github.com/duckheap)
 - [Anand Raj](https://github.com/anand346)
 - [Shruti Singh](https://github.com/shruti8302)
 - [Prabal Sharma](https://github.com/prabalsh19)
