@@ -290,6 +290,7 @@ chani-israel
 - [Sudhir Jaiswal](https://github.com/Coder-in-a-shell)
 - [Jeremy Santiago](https://github.com/sajeremy)
 - Devasya Rajguru
+- [Kumar Sanjay] (https://github.com/sanjay493)
 - Drax Bes
 - [Toby Frick](https://github.com/FrickTob)
 - [Vivek Kumar](https//github.com/zeal2end)
