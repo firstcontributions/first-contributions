@@ -7,9 +7,9 @@
 # <div dir="rtl">مساهمتك الأولى</div>
 
 <div dir="rtl">
-الصعوبة متوقعة عندما تبدأ بأي عمل جديد، خصوصاً إذا كان العمل يتضمن أشخاص آخرون، مما يجعل الوقوع في الخطأ مزعجا.
+الصعوبة متوقعة عندما تبدأ بأي عمل جديد، خصوصاً إذا كان العمل يتضمن أشخاص آخرون، مما يجعل الوقوع في الخطأ مزعجًا.
 <br>
-لكن المساهمة في مشاريع مفتوحة المصدر يتطلب ويتوقع الخطأ ولهذا السبب الآخرون سيساعدونك في تصحيح هذا الخطأ.
+لكن المساهمة في مشاريع مفتوحة المصدر يتطلب ويتوقع الخطأ ولهذا السبب سيساعدك الآخرون في تصحيح هذا الخطأ.
 <br>
 في هذا المشروع هدفنا هو تسهيل الطريق لمساهمتك الأولى.
 </div>
@@ -42,7 +42,7 @@
 </div>
 <img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 <div dir="rtl">
-افتح الطرفية واكتب الأمر التالي:
+افتح الطرفية وأُكتب الأمر التالي:
 </div>
 
 ```
@@ -110,7 +110,7 @@ git commit -m "Add <your-name> to Contributors list"
 
 ## <div dir="rtl"> ارفع التغييرات إلى github - Push changes to Github </div>
 
-<div dir="rtl">ارفع التغيررات عن طريق الأمر <code>git push</code></div>
+<div dir="rtl">ارفع التغييرات عن طريق الأمر <code>git push</code></div>
 
 ```
 git push origin "add-your-name"

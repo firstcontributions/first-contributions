@@ -9,17 +9,17 @@
 | <img alt="GitHub Desktop" src="https://cdn.icon-icons.com/icons2/2157/PNG/512/github_git_hub_logo_icon_132878.png" width="200"> | GitHub Command Line Interface (CLI) |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
 
-This is a guide for us the terminal nerds who wants to do everything in the terminal, and thanks to the [Github-CLI](https://cli.github.com/) we can achieve it, remember your first contribution should be fun, rewarding and a motivator just to keep going!
+This is a guide for us, the terminal nerds, who want to do everything in the terminal, and thanks to [Github-CLI](https://cli.github.com/), we can achieve it, remembering your first contribution should be fun, rewarding and a motivator to keep on going!
 
-This guide is a bit more challenging since we are not using any graphical interface at all, but still it's really fun and you can totally follow it!
+This guide is a bit more challenging since we are not using any graphical interface at all, but it's still really fun and you can definitely follow it!
 
 The first requisite is to have:
 - Git installed (how to install [git](https://git-scm.com/downloads))
 - Github account
 
-Now we need to install the github-cli tool in our system by following the [official documentation](https://github.com/cli/cli#installation)
+Now we need to install the `github-cli` tool in our system by following the [official documentation](https://github.com/cli/cli#installation)
 
-After that, we need to login in the CLI so enter this command: 
+After that, we need to login in the CLI, so enter this command: 
 ```bash 
 gh auth login
 ```
@@ -35,13 +35,13 @@ gh repo fork firstcontributions/first-contributions
 **Important: It will prompt you if you want to clone it as well, select the "yes" option**
 
 # Create your branch
-We will do this step with git, so we enter this command replacing the name with your name, for example:
+We will do this step with git, so enter this command replacing the name with your name, for example:
 ```bash 
 git switch -c add-john-doe
 ```
 
 # Make necessary changes and commit those changes 
-Now you can open `Contributors.md` file in a text editor, add your name to it. Put your name anywhere between the beginning and the end, now save the file.
+Now you can open `Contributors.md` file in a text editor and add your name to it. Put your name anywhere between the beginning and the end, then save the file.
 
 In the project directory execute `git status` and you will see the changes.
 ![image-git](https://camo.githubusercontent.com/a35c4722d7aab337eefc655d1488f7b4dc038508e6adaf5e88e2e052a976f010/68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f6769742d7374617475732e706e67)
@@ -86,7 +86,7 @@ You can use the command `gh status` to see your mentioned pull request in action
 
 ## Where to go from here?
 
-Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
+Congratulations! You have just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
 
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
 
