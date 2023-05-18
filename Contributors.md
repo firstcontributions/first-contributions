@@ -4,6 +4,7 @@
 [Omi](https://github.com/NormTurtle)
 <!-- prettier-ignore-start -->
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
+- [Ayush Agrawal](https://github.com/ayushag1505)
 - [aung thu gaming channel](https://github.com/trovel339)
 - [Adarsh Yadav](https://github.com/codebreaker0001)
 - [Milan Lakhani](https://github.com/milan-lakhani)
