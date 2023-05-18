@@ -165,6 +165,7 @@
 - [Rahul Dhavale](https://github.com/futureofworld)
 - [Harsh P V](https://github.com/harshpv07)
 - [Deepanshu Sharma](https://github.com/Deepanshu-Sharma-18)
+- [Leonardo Moura](https://github.com/leonardommascarenhas)
 - Sabya
 - Rio
 - Justin Valdez
