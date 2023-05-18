@@ -10,8 +10,7 @@
 - [Zach Boquet](https://github.com/Kurokio)
 - [Akhil](https://github.com/Akhil-77)
 - Md Raquib 🔥🔥 (https://github.com/RaquibDox)
-- IamJazz
-- Ilovebasketball
+- IamMahfooz
 - [Noriomusha](https://github.com/Noriomusha)
 -Utkarsh Shukla(https://github.com/utkrsh-shukla)
 - Himanshu Tamta
@@ -1723,3 +1722,4 @@ chani-israel
 - [Sameer Kumar singh](https://github.com/xvisierra)
 - <!-- prettier-ignore-end -->
 - [Jimmy Batuhan](https://github.com/jimmybatuhan)
+- [Kuanchieh Lien]https://github.com/jazzpujols34)
