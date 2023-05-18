@@ -324,6 +324,7 @@ chani-israel
 - [khunsai06](https://github.com/khunsai06)
 - [shivamxsurya](https://github.com/shivamxsurya)
   -Madhur Manan
+- Anthony Aljida
 - [Nelson Matenda 🚀](https://github.com/nelsonmatenda) -[Ayooluwa Aduwo](https://github.com/AduwoAyooluwa)
 - [m-foskett](https://github.com/m-foskett)
 - [Christopher Lopez](https://github.com/BedlaminGoliath)
