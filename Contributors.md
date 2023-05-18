@@ -23,7 +23,7 @@
 - IamMahfooz
 - [Noriomusha](https://github.com/Noriomusha)
 - Bhagyalakshmi
--Utkarsh Shukla(https://github.com/utkrsh-shukla)
+- Utkarsh Shukla(https://github.com/utkrsh-shukla)
 - Himanshu Tamta
 - [Andee Warren] (https://github.com/andeewarren)
 - [Sarthak](https://github.com/sarthak2131)
@@ -79,8 +79,7 @@
 - [Jan](https://github.com/JanR99)
 - [Oliver Beresford](https://github.com/OliverSBeresford)
 - [Vihaan Vijayvargiya](https://github.com/vihaanvijayvargiya)
-- [Sandeep Kumar](https://github.com/SandeepKumar2024)
--[Siddhant Chaturwedi](https://github.com/Sidhant2812)
+- [Sandeep Kumar](https://github.com/SandeepKumar2024) -[Siddhant Chaturwedi](https://github.com/Sidhant2812)
 - [Sagar Chaudhary](https://github.com/SAGARCODESTER)
 - [Bryan Bernardo](https://github.com/bernardo-bryan)
 - [rejmut](https://github.com/rejmut)
@@ -126,8 +125,7 @@
 - [Michal Rosen] (https://github.com/Michal45550)
 - [Peter Tsai] (https://github.com/PeterCai7)
 - [PramodMa](https://github.cpm/pramodahetti)
-- [Shawn Harrison](https://github.com/thelazrus)
--[Akshaya Parida] (https://github.com/akshayaparida)
+- [Shawn Harrison](https://github.com/thelazrus) -[Akshaya Parida] (https://github.com/akshayaparida)
 - [Haraprasad Nandi](https://github.com/Whiteflakes)
 - Steamed Hams
 - [Michael Johnston] (https://github.com/michaeljohnstoncode)
@@ -173,8 +171,7 @@
 - [Stephanie Wong] (https://github.com/steph-wong-15)
 - [Ganesh Revadi](https://github.com/ganeshrevadi)
 - [Droid Sumit](https://github.com/droidsumit)
-- [asfaqahmed](https://github.com/asfaqahmed)
--[Arin Mandal](https://github.com/arinmandal)
+- [asfaqahmed](https://github.com/asfaqahmed) -[Arin Mandal](https://github.com/arinmandal)
 - [Luke Nagy](https://github.com/NaglesWasTaken)
 - [Cássio Nhiemetz Guimarães](https://github.com/AngryPlayer04)
 - [Samuel Haile](https://github.com/samhaile7)
@@ -309,7 +306,7 @@
   [Chai](https://github.com/chaima449)
   [RishiKesh](https://github.com/Rishipan)
 - [YuHangSE](https://github.com/YuHangSE)
-chani-israel
+  chani-israel
 - [Thejas Bhat](https://github.com/tbpcoder)
 - [Negar Baharmand](https://github.com/negarbaharmand)
 - [Mahendra Kolhe](https://github.com/Mahikolhe23)
@@ -500,8 +497,7 @@ chani-israel
 - [Sim Dash](https://github.com/udashdon4)
 - [Harshal Jadhav](https://github.com/harshal2002)
 - [ATHARV POWALKAR AP07](https://github.com/07-Atharv)
-- [Noibisjunior](https://github.com/Noibisjunior)
--[Akash chakraborty](https://github.com/ak01a04sh)
+- [Noibisjunior](https://github.com/Noibisjunior) -[Akash chakraborty](https://github.com/ak01a04sh)
 - [John Park](https://github.com/shinopark)
 - [Shinzou Mahi](https://github.com/mahi-shinzou)
 - [Alan Rios](https://github.com/CoderioX)
@@ -1694,6 +1690,7 @@ chani-israel
 - [Rezaye Rabbi](https://github.com/rzrabbi)
 - [Areeb Ur Rehman Khan](https://github/Rehmanareeb)
 - [Sahil Gupta](https://github/Waahguptaji)
+- [Bryan Parmelee](https://github.com/bryanparmelee)
 - [Devin Catuns](https://github.com/dcat23)
 - [Andres F Cabezas Quicano](https://github.com/afcabezasq)
 - [Mirgiyasov Abubakr](https://github.com/abubakrmirgiyasov)
