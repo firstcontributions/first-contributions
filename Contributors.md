@@ -8,6 +8,7 @@
 - [Hastimal Shah](https://github.com/hasti)
 - [Zvirid Andrei](https://github.com/zviridandrei)
 - [Zach Boquet](https://github.com/Kurokio)
+- [HNA](https://github.com/HeinNaing)
 - [Akhil](https://github.com/Akhil-77)
 - Md Raquib 🔥🔥 (https://github.com/RaquibDox)
 - IamMahfooz
