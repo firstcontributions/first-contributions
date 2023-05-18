@@ -55,6 +55,7 @@
 - [SIDDHANT SAHU](https://github.com/siddhant660)
 - [Abheekrishna](https://github.com/Abheekrishna)
 - [William Hua](https://github.com/Weyum1234)
+- [Sampath Vatsavaya](https://github.com/Sampath-Vatsavaya)
 - Gaurav Bhambhani
 - [P1K5UP](https://github.com/P1K5UP)
 - [Jatin Bhatia](https://github.com/jatinb92)
