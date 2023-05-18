@@ -114,11 +114,11 @@ To ba ya a ma so gbogo yipada ti e se papo, e o gba iwifunni lori imeeli yin
 
 Ku ise oti pari boṣewa bisesenlo _fork -> clone -> edit -> PR_ bisesenlo ti o ma bapade ni ise asowopo
 
-Ṣe ayẹyẹ ilowosi yer 'ki o pin pẹlu' awọn ọkan ati awọn ọmọlẹyin nipasẹ lilọ’ si [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+Ṣe ayẹyẹ ilowosi yer 'ki o pin pẹlu' awọn ọkan ati awọn ọmọlẹyin nipasẹ lilọ’ si [web app](https://firstcontributions.github.io/#social-share).
 
 Ẹ lè darapọ̀ mọ́ àwọn òṣìṣẹ́ òṣìṣẹ́ wa tí kò já fáfá tí ẹ bá nílò ìrànlọ́wọ́ èyíkéyìí tàbí kí ẹ lè gba àlọ́ kankan. [Darapo](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-Bayi jẹ ki a bẹrẹ pẹlu' idasi' t' awọn iṣẹ akanṣe miiran. A ti ṣe akojọpọ awọn iṣẹ akanṣe pẹlu awọn ọran irọrun ti o le bẹrẹ. Ṣayẹwo [awon re](https://roshanjossey.github.io/first-contributions/#project-list).
+Bayi jẹ ki a bẹrẹ pẹlu' idasi' t' awọn iṣẹ akanṣe miiran. A ti ṣe akojọpọ awọn iṣẹ akanṣe pẹlu awọn ọran irọrun ti o le bẹrẹ. Ṣayẹwo [awon re](https://firstcontributions.github.io/#project-list).
 
 ### [Ptu le ka](../additional-material/git_workflow_scenarios/additional-material.md)
 
