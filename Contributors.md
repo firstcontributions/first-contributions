@@ -17,6 +17,7 @@
 - [Alex Li](https://github.com/alexcode4ever)
 - [Zvirid Andrei](https://github.com/zviridandrei)
 - [Zach Boquet](https://github.com/Kurokio)
+- [Manideep](https://github.com/Manideep519)
 - [Jonathan Kariuki](https://github.com/JonathanSecondGithub)
 - [Akhil](https://github.com/Akhil-77)
 - [Yash Patel](https://github.com/theyashpatel)
