@@ -1562,6 +1562,7 @@
 - [RobertoKreshna](https://github.com/RobertoKreshna)
 - [Ivan Israel](https://github.com/marehori)
 - [H-ADJI](https://github.com/H-ADJI)
+- [Erisae](https://github.com/Erisae)
 - [Tobias Jennert](https://github.com/tobijen)
 - [Sebitosh](https://github.com/Sebitosh)
 - [Ahmad Hassan](https://github.com/ah7255703)

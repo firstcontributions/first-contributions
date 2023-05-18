@@ -4,7 +4,7 @@
 
 ### [從你的 repository 刪除分支](../../git_worklow_scenarios/removing-branch-from-your-repository.md)
 這份文件教你如何從 repository 刪除分支。
-> 在做這些步驟前確定你的 pull request 是被合併的
+> 在做這些步驟前確定你的 pull request 是被合併的。
 
 ### [保持你的分叉與 repository 同步](../../git_workflow_scenarios/keeping-your-fork-synced-with-this-repository.md)
 這份文件提供保持分叉與原始 repository 同步的資料。這件事情是很重要的，因為有其他人會對 project 做出貢獻。
