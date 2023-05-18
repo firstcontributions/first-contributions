@@ -16,6 +16,7 @@
 -Utkarsh Shukla(https://github.com/utkrsh-shukla)
 - Himanshu Tamta
 - [Sarthak](https://github.com/sarthak2131)
+- [Pranit Mane](https://github.com/pranitmane)
 - [Fred Gerner](https://github.com/fgerner)
 - [Lukasz Gzella](https://github.com/lukasgzella)
 - [Lucas Moyano](https://github.com/LucasEPK)
