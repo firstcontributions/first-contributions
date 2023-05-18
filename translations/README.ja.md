@@ -101,11 +101,11 @@ GitHub上であなたのリポジトリに行くと、`Compare & pull request`�
 
 おめでとうございます！  コントリビューターとして重要な _フォーク -> クローン -> 編集 -> プルリクエスト_　の基本的なワークフローが完了しました。
 
-初のオープンソースへの貢献を祝って友達やフォロワーにそのことを[このウェブアプリ](https://roshanjossey.github.io/first-contributions/#social-share)を使ってシェアしましょう。
+初のオープンソースへの貢献を祝って友達やフォロワーにそのことを[このウェブアプリ](https://firstcontributions.github.io/#social-share)を使ってシェアしましょう。
 
 もし何かしら質問があるようでしたら[私たちのSlack team](https://firstcontributors.slack.com/join/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)に入ってください。
 
-他のプロジェクトへの貢献を始めましょう。簡単なイシューが立てられているプロジェクトのリストを作りました。ウェブアプリで[プロジェクトリスト](https://roshanjossey.github.io/first-contributions/#project-list)を確認て見てください。
+他のプロジェクトへの貢献を始めましょう。簡単なイシューが立てられているプロジェクトのリストを作りました。ウェブアプリで[プロジェクトリスト](https://firstcontributions.github.io/#project-list)を確認て見てください。
 
 ### [追加リソース](../additional-material/git_workflow_scenarios/additional-material.md)
 
