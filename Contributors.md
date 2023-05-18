@@ -2,6 +2,7 @@
 [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 <!-- prettier-ignore-start -->
 - [Milan Lakhani](https://github.com/milan-lakhani)
+- [Arturo López](https://github.com/arturolopeze)
 - [Aditya patil](https://github.com/AdityaPatil111)
 - [Andre Chua](https://github.com/andrechuakj)
 - [Divy Don](https://github.com/Divy312)
