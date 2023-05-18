@@ -117,11 +117,11 @@ Nan ba da jimawa ba zan magance duk canje-canjenku a wannan reshe. Za ku karɓi 
 
 Taya murna! Ka kawai karanta uwar garken -> kwafin fitarwa -> gyara -> Zazzage sabis na PR wanda koyaushe za ku hadu a matsayin mai ba da ku!
 
-Duba gudunmawar ku kuma ku raba ta tare da abokanku da mabiyanku ta ziyartar [app app](https://roshanjossey.github.io/first-contributions/#social-share).
+Duba gudunmawar ku kuma ku raba ta tare da abokanku da mabiyanku ta ziyartar [app app](https://firstcontributions.github.io/#social-share).
 
 Kuna iya shiga cikin ma'aikatan mu na abokantaka idan kuna buƙatar kowane taimako ko kuna da tambayoyi. [Haɗa ƙungiyar slack](https://join.slack.com/t/firstcontr🏴ibutors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWYZm
 
-Yanzu, bari mu fara da ba da gudummawa don wasu ayyuka. Mun tattara jerin ayyuka masu sauƙi da tattaunawa da za ku iya farawa. Duba [jerin ayyuka da aikace-aikacen yanar gizo](https://roshanjossey.github.io/first-contributions/#project-list).
+Yanzu, bari mu fara da ba da gudummawa don wasu ayyuka. Mun tattara jerin ayyuka masu sauƙi da tattaunawa da za ku iya farawa. Duba [jerin ayyuka da aikace-aikacen yanar gizo](https://firstcontributions.github.io/#project-list).
 
 
 ### [Ƙarin Material](../additional-material/git_workflow_scenarios/additional-material.md)

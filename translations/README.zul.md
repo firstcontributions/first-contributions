@@ -117,11 +117,11 @@ Ngokushesha ngizohlanganisa zonke izinguquko zakho zibe yigatsha eliyinhloko lap
 
 Siyakuhalalisela! Usanda kuqedela umshini ojwayelekile -> clone -> edit -> PR ukuhamba komsebenzi ozohlangana ngaso sonke isikhathi njengomnikelo!
 
-Gubha umnikelo wakho bese uwabelana nabangani bakho nabalandeli ngokuya kuhlelo [lokusebenza lewebhu](https://roshanjossey.github.io/first-contributions/#social-share).
+Gubha umnikelo wakho bese uwabelana nabangani bakho nabalandeli ngokuya kuhlelo [lokusebenza lewebhu](https://firstcontributions.github.io/#social-share).
 
 Ungakwazi ukujoyina ithimba lethu elihle uma kwenzeka udinga noma yiluphi usizo noma unemibuzo. [Joyina ithimba le-slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-Manje ake siqale ngokunikela ngeminye imiklamo. Senze uhlu lwamaphrojekthi ngezinkinga ezilula ongaqala ngazo. Hlola  [uhlu lwamaphrojekthi kuhlelo lokusebenza lewebhu .](https://roshanjossey.github.io/first-contributions/#project-list).
+Manje ake siqale ngokunikela ngeminye imiklamo. Senze uhlu lwamaphrojekthi ngezinkinga ezilula ongaqala ngazo. Hlola  [uhlu lwamaphrojekthi kuhlelo lokusebenza lewebhu .](https://firstcontributions.github.io/#project-list).
 
 ### [Izinto ezengeziwe](../additional-material/git_workflow_scenarios/additional-material.md)
 
