@@ -453,6 +453,7 @@ chani-israel
 - [Zaakir Kamar](https://github.com/ZaakirKamar)
 - [Chris Banks](https://github.com/Chrix197)
 - [Robert West](https://github.com/rolewest)
+- [Houssem_Brahem](https://github.com/HotPatates)
 - [Bedant Chhetri](https://github.com/bedantchh)
 - [Atahan Caldir](https://github.com/atahancaldir)
 - [taricov](https://github.com/taricov)
