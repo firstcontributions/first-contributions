@@ -12,7 +12,7 @@ Proyek ini memiliki tujuan yaitu untuk menyederhanakan dan membimbing pemula unt
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Apabila Anda belum menginstall git di komputer anda, [ install segera ](https://help.github.com/articles/set-up-git/).
+Apabila Anda belum menginstall git di komputer anda,  [ install segera ](https://help.github.com/articles/set-up-git/).
 
 ## *Fork* Repositori Ini
 
