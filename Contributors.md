@@ -1603,6 +1603,8 @@ chani-israel
 - [Jordan Flanagan](https://github.com/jflaney23)
 - [Ezra Koppel](https://github.com/ekoppel)
 - [Leanne Keenan](https://github.com/leannekeenan)
+- [Greg Recco](https://github.com/gregrecco67)
+<!-- prettier-ignore-end -->
 - [Em Mic](https://github.com/emmic)
 - [ebrower320](https://github.com/ebrower320)
 - [TobizzleLOL](https://github.com/TobizzleLOL)
