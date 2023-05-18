@@ -5,10 +5,10 @@
 
 # Kontribusi Pertama 
 
-Proyek ini memiliki tujuan yaitu untuk menyederhanakan dan membimbing pemula untuk membuat kontribusi pertamanya di Github. Jika Anda ingin membuat kontribusi pertama mu, ikuti langkah-langkah berikut.
+Proyek ini memiliki tujuan yaitu untuk menyederhanakan dan membimbing pemula untuk melakukan kontribusi pertamanya di Github. Jika Anda ingin membuat kontribusi pertama mu, ikuti langkah-langkah berikut.
 
 
-#### _Jika Anda tidak terbiasa dengan baris perintah, [di sini ada tutorial untuk menggunakan GUI.](#Tutorial-Menggunakan-Alat-Lain)_
+#### _Jika Anda tidak terbiasa dengan baris perintah(command line), [di sini ada tutorial untuk menggunakan GUI(antarmuka bergrafis).](#Tutorial-Menggunakan-Alat-Lain)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
@@ -66,7 +66,7 @@ git checkout -b add-alonzo-church
 
 ## Buat Perubahan yang Diperlukan Lalu Commit Perubahan Tersebut
 
-Sekarang buka Folder `Contributors.md` menggunakan teks editor, tambahkan nama Anda ke dalamnya. Jangan menambahkan pada awal atau akhir dari file. Simpan dimana saja di antaranya. Sekarang simpan filenya.
+Sekarang buka Folder `Contributors.md` menggunakan editor teks(Text editor), tambahkan nama Anda ke dalamnya. Jangan menambahkan pada awal atau akhir dari file. Simpan dimana saja di antaranya. Sekarang simpan filenya.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
@@ -123,15 +123,15 @@ Saya (pengelola) akan segera menggabungkan semua perubahan Anda ke cabang utama 
 
 Selamat! Anda baru saja menyelesaikan standar *fork* -> *clone* -> ubah -> *Pull Request* sebuah alur kerja yang akan sering Anda temui sebagai kontributor!
 
-Rayakan kontribusi Anda dan bagikan dengan teman dan pengikut Anda dengan membuka [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+Rayakan kontribusi Anda dan bagikan dengan teman dan pengikut Anda dengan membuka [web app](https://firstcontributions.github.io/#social-share).
 
 Anda dapat bergabung dengan tim slack kami jika membutuhkan bantuan atau memiliki pertanyaan. [Bergabung dengan tim slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-Sekarang, mari kita mulai dengan berkontribusi di proyek lain. Kami sudah menyusun daftar proyek dengan isu yang mudah dikerjakan sehingga Anda dapat segera memulai. Cek di [daftar proyek web app](https://roshanjossey.github.io/first-contributions/#project-list).
+Sekarang, mari kita mulai dengan berkontribusi di proyek lain. Kami sudah menyusun daftar proyek dengan isu yang mudah dikerjakan sehingga Anda dapat segera memulai. Cek di [daftar proyek web app](https://firstcontributions.github.io/#project-list).
 
 ## [ Materi tambahan ](../additional-material/translations/additional-material.id.md)
 
-## Tutorial Menggunakan Alat Lain
+## Tutorial Menggunakan Alat(tools) Lain
 
 
 | <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
