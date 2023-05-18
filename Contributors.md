@@ -27,6 +27,7 @@
 - Bhagyalakshmi
 - Utkarsh Shukla(https://github.com/utkrsh-shukla)
 - Himanshu Tamta
+[Mohit Yadav](https://github.com/ymohit1603)
 - [Andee Warren](https://github.com/andeewarren)
 - [Rima Nurkholifah](https://github.com/rimanurfah)
 - [Sarthak](https://github.com/sarthak2131)
