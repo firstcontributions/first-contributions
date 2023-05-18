@@ -153,6 +153,7 @@
 - [Luiz Augusto](https://github.com/luizAFS23)
 - [Lukas Haring](https://github.com/mrlukyman/first-contributions)
 - [Jai Vignesh](https://github.com/hsengiviaJ)
+  [Aastha Kumari](https://github.com/aasthak108)
 - [Ahsan Naqvi](https://github.com/s-ahsan-naqvi)
 - [Taha Parker](https://github.com/tahayparker)
 - [Syed Ayaan Ali](https://github.com/incognito-root)
