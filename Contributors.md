@@ -1387,6 +1387,7 @@ chani-israel
 - [Mohit Ishpunyani](https://github.com/16mi)
 - [Htet Aung Hlaing](https://github.com/DreamerChaserHAH)
 - [Milan Rai](https://github.com/Milanrai09)
+- [Samuel Adeoluwa](https://github.com/kodezero1)
 - [John Pay Seng](https://github.com/johnpayseng)
 - [Yucheng_Xiang](https://github.com/YC-Xiang)
 - [Vineet Erasala](https://github.com/deuxroux)
