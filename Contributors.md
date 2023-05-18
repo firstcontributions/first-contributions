@@ -9,6 +9,7 @@
 - [Zvirid Andrei](https://github.com/zviridandrei)
 - [Zach Boquet](https://github.com/Kurokio)
 - [Akhil](https://github.com/Akhil-77)
+- [Yash Patel](https://github.com/theyashpatel)
 - Md Raquib 🔥🔥 (https://github.com/RaquibDox)
 - IamMahfooz
 - [Noriomusha](https://github.com/Noriomusha)
