@@ -740,6 +740,7 @@ chani-israel
 - [Helix68](https://github.com/Helix68)
 - [NoteWaala](https://notewaala.com)
 - [Joshua Knorz](https://github.com/JoshKn)
+- [Max Sestero](https://github.com/msestero)
 - [Tri Pham](https://github.com/TriMPham98)
 - [Vishvesh Pratap Singh](https://github.com/Vish221)
 - [White Hat Gamer](https://GitHub.com/WhiteHatGamer)
