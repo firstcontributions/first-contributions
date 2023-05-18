@@ -359,6 +359,7 @@ chani-israel
 - [HOUSSAM666](https://github.com/HOUSSAM666)
 - [pradeep kc](https://github.com/pradeepkc11)
 - [Aryant Kumar](https://github.com/Aryant01)
+- [Stanislav Matšel](https://github.com/StanislavMachel)
 - [Davis Onyeoguzoro](https://github.com/Davisonyeas)
 - [jdszekeres](https://github.com/jdszekeres)
 - [Emilio Aranda](https://github.com/emiara)
