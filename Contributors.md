@@ -10,7 +10,8 @@
 - [Zach Boquet](https://github.com/Kurokio)
 - [Akhil](https://github.com/Akhil-77)
 - Md Raquib 🔥🔥 (https://github.com/RaquibDox)
-- IamMahfooz
+- IamJazz
+- Ilovebasketball
 - [Noriomusha](https://github.com/Noriomusha)
 -Utkarsh Shukla(https://github.com/utkrsh-shukla)
 - Himanshu Tamta
