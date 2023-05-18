@@ -1,15 +1,7 @@
-
-## First Contributions
-
-
-</h1>
-
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
-
-
 
 #### _Read this in [other languages](translations/Translations.md)._
 
@@ -81,10 +73,7 @@
 <kbd>[<img title="Hrvatski" alt="Hrvatski" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/hr.svg" width="22">](translations/README.hr.md)</kbd>
 <kbd>[<img title="پښتو" alt="پښتو" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/af.svg" width="22">](translations/README.ps.md)</kbd>
 
-
----
-
-
+# First Contributions
 
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
@@ -94,26 +83,6 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 #### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
-
----
-
-## Table of Contents
-
-- [First Contributions](#first-contributions)
-      - [_Read this in other languages._](#read-this-in-other-languages)
-      - [If you don't have git on your machine, install it.](#if-you-dont-have-git-on-your-machine-install-it)
-  - [Table of Contents](#table-of-contents)
-  - [Fork this repository](#fork-this-repository)
-  - [Clone the repository](#clone-the-repository)
-  - [Create a branch](#create-a-branch)
-  - [Make necessary changes and commit those changes](#make-necessary-changes-and-commit-those-changes)
-  - [Push changes to GitHub](#push-changes-to-github)
-  - [Submit your changes for review](#submit-your-changes-for-review)
-  - [Where to go from here?](#where-to-go-from-here)
-    - [Additional material](#additional-material)
-  - [Tutorials Using Other Tools](#tutorials-using-other-tools)
-
----
 
 ## Fork this repository
 
@@ -139,12 +108,10 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 For example:
 
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone git@github.com:this-is-you/first-contributions.git
 ```
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
-
----
 
 ## Create a branch
 
@@ -165,8 +132,6 @@ For example:
 ```
 git switch -c add-alonzo-church
 ```
----
-
 ## Make necessary changes and commit those changes
 
 Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
@@ -221,8 +186,6 @@ Now submit the pull request.
 
 Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
----
-
 ## Where to go from here?
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
@@ -234,10 +197,6 @@ You could join our slack team if you need any help or have any questions. [Join 
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 
 ### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
-
-
-
----
 
 ## Tutorials Using Other Tools
 
