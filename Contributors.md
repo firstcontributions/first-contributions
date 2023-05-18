@@ -1,5 +1,6 @@
 # Contributors
 [Shantanu Nautiyal](https://github.com/shantanunautiyal)
+[Omi](https://github.com/NormTurtle)
 <!-- prettier-ignore-start -->
 - [Adarsh Yadav](https://github.com/codebreaker0001)
 - [Milan Lakhani](https://github.com/milan-lakhani)
@@ -88,7 +89,7 @@
 - [Chana Ilani](https://github.com/chanafriedman)
 - [Gamapg](https://github.com/gamapg)
 - Balaji Sadanala
-- [Anastasiia Koba](https://github.com/anastasiia-koba) 
+- [Anastasiia Koba](https://github.com/anastasiia-koba)
 [Rivki Zohar](https://github.com/Rivki7)
 - [anchit jain](https://github.com/anchit85426)
 - [RaeEE454](https://github.com/RaeEE454)
