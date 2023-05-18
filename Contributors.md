@@ -1,4 +1,5 @@
 # Contributors
+
 [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 [Omi](https://github.com/NormTurtle)
 <!-- prettier-ignore-start -->
@@ -20,6 +21,7 @@
 - [Akhil](https://github.com/Akhil-77)
 - [Yash Patel](https://github.com/theyashpatel)
 - Md Raquib 🔥🔥 (https://github.com/RaquibDox)
+- [Shivam Singh](https://github.com/shivamks1998)
 - IamMahfooz
 - [Noriomusha](https://github.com/Noriomusha)
 - Bhagyalakshmi
@@ -1745,8 +1747,7 @@
 - [Sunil S. Singh](https://github.com/sssingh)
 - [Orion Wesson] (https://github.com/EnterOrion)
 - [San-ctuary](https://github.com/San-ctuary)
-- [Thiago Fukuyama Marcilli](https://github.com/ThiagoFukuyama)
--[Ayush Tibrewal](https://github.com/chromo4)
+- [Thiago Fukuyama Marcilli](https://github.com/ThiagoFukuyama) -[Ayush Tibrewal](https://github.com/chromo4)
 - [Rayner Susanto](https://github.com/raynersusanto0)
 - [Ahmed ElSaeed](https://github.com/asmpro7)
 - [Krishnaraja Sagar](https://krishnarajasagar.github.io)
