@@ -1113,6 +1113,7 @@ chani-israel
 - [saeed hersi](https://githhub.com/shersi32)
 - [Kaschae Freeman](https://github.com/kaschaefreeman)
 - [Vardeep Singh Sandhu](https://github.com/vardeep-sandhu)
+- [Christopher Loi](https://github.com/christopherloi)
 - [Moses Asiago](https://github.com/mozeago/)
 - [Wai Ho](https://github.com/hevi1991)
 - [Tosin Akinyemi](https://github.com/Tosin77/)
