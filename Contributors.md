@@ -23,6 +23,7 @@
 - [Lukasz Gzella](https://github.com/lukasgzella)
 - [Lucas Moyano](https://github.com/LucasEPK)
 - [Anand Raj](https://github.com/anand346)
+- [Fernando Pérez](https://github.com/fermop)
 - [Shruti Singh](https://github.com/shruti8302)
 - [Prabal Sharma](https://github.com/prabalsh19)
 - [JT Fox](https://github.com/jtfox142)
