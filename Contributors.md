@@ -25,6 +25,7 @@
 - [Nico Kemp](https://github.com/njrkemp1/)
 - [Ali Rasouli]
 - [Abhijit More]
+- [shreevaths1](https://github.com/shreevaths1)
 - [MiguelOrtsB](https://github.com/MiguelOrtsB)
 - [vishesh Sharma](https://github.com/Vishesh3569)
 - [Andrew Herring](https://github.com/Likethefish1520)
