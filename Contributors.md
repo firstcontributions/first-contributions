@@ -4,6 +4,7 @@
 [Omi](https://github.com/NormTurtle)
 <!-- prettier-ignore-start -->
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
+- [TM](https://github.com/Thint-Myat)
 - [aung thu gaming channel](https://github.com/trovel339)
 - [Adarsh Yadav](https://github.com/codebreaker0001)
 - [Milan Lakhani](https://github.com/milan-lakhani)
@@ -22,7 +23,6 @@
 - [Yash Patel](https://github.com/theyashpatel)
 - Md Raquib 🔥🔥 (https://github.com/RaquibDox)
 - [Shivam Singh](https://github.com/shivamks1998)
-- [TM] (https://github.com/Thint-Myat)
 - IamMahfooz
 - [Noriomusha](https://github.com/Noriomusha)
 - Bhagyalakshmi
