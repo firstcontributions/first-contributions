@@ -268,6 +268,7 @@
 - [Suparnojit Sarkar](https://github.com/suparnojit)
 - [Tushar GH](https://github.com/Tushar12222)
 - [DimCel](https://github.com/dimcel)
+- [Arun Avasi](https://github.com/ArunAvasi)
 - [Mirza Hilmi](https://github.com/MirzaHilmi/)
 - [Blane Winstead](https://github.com/BlaneWinstead)
 - [Festus Abiatar](https://github.com/abiatarfestus)
