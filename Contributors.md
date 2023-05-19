@@ -1784,6 +1784,7 @@
 - Aviya Atias
 - [Carlos Sais](https://github.com/csais3)
 - [Iris Mou](https://github.com/HXMou)
+- [Aman Chaudhary](https://github.com/amanpatel-dev)
 - <!-- prettier-ignore-end -->
 - [Sameer Kumar singh](https://github.com/xvisierra)
 - [Jimmy Batuhan](https://github.com/jimmybatuhan)
