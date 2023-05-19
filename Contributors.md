@@ -22,6 +22,7 @@
 - [Yash Patel](https://github.com/theyashpatel)
 - Md Raquib 🔥🔥 (https://github.com/RaquibDox)
 - [Shivam Singh](https://github.com/shivamks1998)
+- [Rakesh](https://github.com/rakeshcj)
 - IamMahfooz
 - [Noriomusha](https://github.com/Noriomusha)
 - Bhagyalakshmi
