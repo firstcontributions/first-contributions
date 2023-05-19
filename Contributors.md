@@ -38,6 +38,7 @@
 - [LinhNguyenLe2109](https://github.com/LinhNguyenLe2109)
 - [eest12](https://github.com/eest12)
 - [Tahrour Mustapha Aymen](https://github.com/Aymen-TM)
+- [Lazymo](https://github.com/Lazymo-Python)
 - [Blood Pirouette](https://github.com/Blood-Pirouette)
 - [Natasha Mundada]()
 - [Son Thanh Tran]
