@@ -194,6 +194,7 @@
 - [Rene Baribal](https://github.com/RiinSeresuto)
 - [Lalit Chaudhari](https://github.com/Lalit572)
 - [Anthon van Dijk](https://github.com/DyQ3HELOF1)
+- [Nicholas Mason](https://github.com/Aptenz)
 - [Gowri Priyanka](https://github.com/GowriPriyankaM)
 - [Gyaur](https://github.com/Gy4ur)
 - [Berdiguly Yaylymov](https://github.com/yaylymov)
