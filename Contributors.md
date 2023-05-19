@@ -9,6 +9,7 @@
 - [Milan Lakhani](https://github.com/milan-lakhani)
 - [Arturo López](https://github.com/arturolopeze)
 - [Aditya patil](https://github.com/AdityaPatil111)
+- [Vikas Wakde](https://github.com/VikasWakde)
 - [Andre Chua](https://github.com/andrechuakj)
 - [Sagar Bhat](https://github.com/codingsagar)
 - [Divy Don](https://github.com/Divy312)
