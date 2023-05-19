@@ -3,7 +3,9 @@
 [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 [Omi](https://github.com/NormTurtle)
 <!-- prettier-ignore-start -->
+- [Harsh Sharma](https://github.com/Harsh-Sharma123)
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
+
 - [aung thu gaming channel](https://github.com/trovel339)
 - [Adarsh Yadav](https://github.com/codebreaker0001)
 - [Milan Lakhani](https://github.com/milan-lakhani)
