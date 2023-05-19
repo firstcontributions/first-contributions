@@ -15,6 +15,7 @@
 - [Pranita Dane](https://github.com/pranita28Dane)
 - [Hastimal Shah](https://github.com/hasti)
 - [Alex Li](https://github.com/alexcode4ever)
+- [Ripul Handoo](https://github.com/RipulHandoo)
 - [Zvirid Andrei](https://github.com/zviridandrei)
 - [Zach Boquet](https://github.com/Kurokio)
 - [Jonathan Kariuki](https://github.com/JonathanSecondGithub)
