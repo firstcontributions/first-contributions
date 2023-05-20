@@ -266,6 +266,7 @@
 - [It's Meghanath again](https://github.com/meghanath852)
 - [Harish Rane](https://github.com/AzadRane)
 - [Glen Wojnar](https://github.com/glwo)
+- [Cristian Gomez](https://github.com/Cristian96g)
 - [Abhinav Thapa](https://github.com/abhinavthapa1998)
 - [Nathamuni](https://github.com/Nathamuni)
 - [Dheeraj Saraogi](https://github.com/dheerajsaraogi)
