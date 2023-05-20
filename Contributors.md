@@ -3,6 +3,7 @@
 [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 [Omi](https://github.com/NormTurtle)
 <!-- prettier-ignore-start -->
+
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
 - [aung thu gaming channel](https://github.com/trovel339)
 - [Adarsh Yadav](https://github.com/codebreaker0001)
@@ -21,6 +22,7 @@
 - [Akhil](https://github.com/Akhil-77)
 - [Yash Patel](https://github.com/theyashpatel)
 - Md Raquib 🔥🔥 (https://github.com/RaquibDox)
+- [Dheeraj Jha](https://github.com/Dheerajjha451)
 - [Shivam Singh](https://github.com/shivamks1998)
 - IamMahfooz
 - [Noriomusha](https://github.com/Noriomusha)
