@@ -11,6 +11,7 @@
 - [Aditya patil](https://github.com/AdityaPatil111)
 - [Andre Chua](https://github.com/andrechuakj)
 - [Sagar Bhat](https://github.com/codingsagar)
+- [Anand Lessard](https://github.com/nandofromthebando)
 - [Divy Don](https://github.com/Divy312)
 - [Pranita Dane](https://github.com/pranita28Dane)
 - [Hastimal Shah](https://github.com/hasti)
