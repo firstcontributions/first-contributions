@@ -112,6 +112,7 @@
 - [CultistOfTheEnd](https://github.com/NuxarianCookie)
 - [Chaya Kwin](https://github.com/ChayaKwin)
 - [Tobvl](https://github.com/Tobvl)
+- [Erik German](https://github.com/eriko13)
 - [Jordan Russo](https://github.com/Jordan-Russo)
 - [Code-Dreams](https://github.com/Code-Dreams)
 - [Sudeep](https://github.com/srs-sudeep)
