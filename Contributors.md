@@ -608,6 +608,7 @@
 - [Krishna-Kadu](https://github.com/KaiserKadu)
 - [Facundo Talavera](https://github.com/Fa2112)
 - [Timothy Chua](https://github.com/tdchua)
+- [Talha Mubarak](https://github.com/iam-talha-mubarak)
 - [Abu Usaid](https://github.com/AbuUsaid)
 - [Kasthuri-P](https://github.com/Kasthuri-P)
 - [Lucas Silva](https://github.com/lucca7r)
