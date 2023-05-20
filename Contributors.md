@@ -31,6 +31,7 @@
 - [Yash Patel](https://github.com/theyashpatel)
 - [Richi](https://github.com/Zerov1000)
 - Md Raquib 🔥🔥 (https://github.com/RaquibDox)
+- [Dheeraj Jha](https://github.com/Dheerajjha451)
 - [Shivam Singh](https://github.com/shivamks1998)
 - [Rakesh](https://github.com/rakeshcj)
 - IamMahfooz
