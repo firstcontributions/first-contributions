@@ -1747,6 +1747,7 @@
 - [RajrishiMitra](https://github.com/RajrishiMitra)
 - [Ravindu Hasantha](https://github.com/ravinduh)
 - [Aryashsaxena](https://github.com/aryashsaxena)
+- [Park Gyoungdo](https://github.com/rudeh1253)
 - Mythszj
 - [homefish](https://github.com/homefish)
 - [Sunil S. Singh](https://github.com/sssingh)
@@ -1789,5 +1790,4 @@
 - [Jimmy Batuhan](https://github.com/jimmybatuhan)
 - [Nivin](https://github.com/Nivin389)
 - [KuanChieh Lien](https://github.com/jazzpujols34)
-- AprilZhou
-- 
+- AprilZhou 
