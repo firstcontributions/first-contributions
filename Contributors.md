@@ -7,6 +7,7 @@
 - [aung thu gaming channel](https://github.com/trovel339)
 - [Adarsh Yadav](https://github.com/codebreaker0001)
 - [Milan Lakhani](https://github.com/milan-lakhani)
+- [Mayank Gautam]
 - [Arturo López](https://github.com/arturolopeze)
 - [Aditya patil](https://github.com/AdityaPatil111)
 - [Andre Chua](https://github.com/andrechuakj)
