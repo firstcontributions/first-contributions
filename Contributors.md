@@ -997,6 +997,7 @@
 - [Dimitrije Ilic](https://github.com/Dimitrije1970)
 - [Prathamesh Sable](https://github.com/prathameshks)
 - [Tejas Nanoti](https://github.com/Goldfish7718)
+- [Sugari1024](https://github.com/Sugari1024)
 - [Martarion](https://github.com/Martarion-Code)
 - [Martins Ngene](https://github.com/Martinsngene)
 - [vishal dhavale](https://github.com/vishu1893)
@@ -1790,4 +1791,4 @@
 - [Nivin](https://github.com/Nivin389)
 - [KuanChieh Lien](https://github.com/jazzpujols34)
 - AprilZhou
-- 
+
