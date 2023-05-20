@@ -11,6 +11,7 @@
 - [Milan Lakhani](https://github.com/milan-lakhani)
 - [Mayank Gautam]
 - [Arturo López](https://github.com/arturolopeze)
+- [Piyush Pawar](https://github.com/piyushpawar54)
 - [Aditya patil](https://github.com/AdityaPatil111)
 - [Vikas Wakde](https://github.com/VikasWakde)
 - [Andre Chua](https://github.com/andrechuakj)
