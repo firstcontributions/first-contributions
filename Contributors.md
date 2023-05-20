@@ -32,6 +32,7 @@
 - Himanshu Tamta
 [Mohit Yadav](https://github.com/ymohit1603)
 - [Andee Warren](https://github.com/andeewarren)
+- Igniseri
 - [Rima Nurkholifah](https://github.com/rimanurfah)
 - [Sarthak](https://github.com/sarthak2131)
 - [Pranit Mane](https://github.com/pranitmane)
