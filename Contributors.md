@@ -1814,6 +1814,7 @@
 - [Phuong Nguyen](https://github.com/png261)
 - [TKtjpk](https://github.com/TKtjpk)
 - [Lennart Pries](https://github.com/lennart02)
+- [Rochelle](https://github.com/RochelleNi)
 - Aviya Atias
 - kritika singh
 - [Carlos Sais](https://github.com/csais3)
