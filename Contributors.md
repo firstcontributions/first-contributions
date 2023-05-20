@@ -53,6 +53,7 @@
 - [Krutartha Nagesh](https://github.com/krutartha)
 - [Vance Sama](https://github.com/VansRouges)
 - [Mushfiqur Rahman](https://github.com/mushfiq13)
+- [colonia_duck](https://github.com/colonia-duck)
 - [birendra07](https://github.com/birendra07)
 - [Thamer](https://github.com/ThamerMalki)
 - [Julie Clegg](https:///github.com/jclegg31)
