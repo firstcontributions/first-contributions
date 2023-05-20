@@ -32,7 +32,6 @@
 - [Sarthak](https://github.com/sarthak2131)
 - [Pranit Mane](https://github.com/pranitmane)
 - [Fred Gerner](https://github.com/fgerner)
-- [yosephat harwindra](https://github.com/blackpossum)
 - [Rafiul Islam Refat](https://github.com/rirefat)
 - [Lukasz Gzella](https://github.com/lukasgzella)
 - [Lucas Moyano](https://github.com/LucasEPK)
