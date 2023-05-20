@@ -55,7 +55,7 @@
 - [Lukasz Gzella](https://github.com/lukasgzella)
 - [Lucas Moyano](https://github.com/LucasEPK)
 - [John](https://github.com/duckheap)
-- [Irfanul](https://github.com/Parjival)
+- [Irfan](https://github.com/Parjival)
 - [Nur Farah](https://github.com/Nur-farah)
 - [Anand Raj](https://github.com/anand346)
 - [Fernando Pérez](https://github.com/fermop)
