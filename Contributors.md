@@ -20,6 +20,7 @@
 - [Hastimal Shah](https://github.com/hasti)
 - [Aakash Sharma](https://github.com/Aakash447)
 - [Alex Li](https://github.com/alexcode4ever)
+- [Ripul Handoo](https://github.com/RipulHandoo)
 - [Zvirid Andrei](https://github.com/zviridandrei)
 - [Zach Boquet](https://github.com/Kurokio)
 - [Manideep](https://github.com/Manideep519)
