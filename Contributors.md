@@ -1318,6 +1318,7 @@
 - Monty
 - [Alasdair Hendry](https://github.com/alasdairhendry)
 - [Lucaremdev](https://github.com/lucaremdev)
+- [Richard Choi](https://github.com/choir27)
 - [Anshuman Tiwari](https://github.com/at610505)
 - [Xaavan Dolence](https://github.com/XaavanDolence)
 - [Libin Faby](https://github.com/libinfaby/)
