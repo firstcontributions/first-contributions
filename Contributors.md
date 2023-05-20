@@ -5,7 +5,7 @@
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 - [Omi](https://github.com/NormTurtle)
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
-
+- [Soy Eric](https://github.com/ibrahimeric)
 - [aung thu gaming channel](https://github.com/trovel339)
 - [Adarsh Yadav](https://github.com/codebreaker0001)
 - [Milan Lakhani](https://github.com/milan-lakhani)
