@@ -660,6 +660,7 @@
 - [JonDm07](https://github.com/JonDm07)
 - [Cedric Hannemann](https://github.com/cedhan)
 - [Didi M](https://github.com/Didi-M1)
+- [Kris Chen](https://github.com/Nagu2003)
 - [Henry Andrade](https://github.com/HenryAnd04)
 - [Devang Parekh](https://github.com/BravesDevs)
 - [Kiran Kuumar Mohanty](https://github.com/theluckiestsoul)
