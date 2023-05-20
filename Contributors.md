@@ -16,6 +16,7 @@
 - [Hastimal Shah](https://github.com/hasti)
 - [Alex Li](https://github.com/alexcode4ever)
 - [Zvirid Andrei](https://github.com/zviridandrei)
+- [Akshit Aggarwal](https://github.com/akshit-289)
 - [Zach Boquet](https://github.com/Kurokio)
 - [Jonathan Kariuki](https://github.com/JonathanSecondGithub)
 - [Akhil](https://github.com/Akhil-77)
