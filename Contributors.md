@@ -2,6 +2,7 @@
 
 [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 [Omi](https://github.com/NormTurtle)
+[Sara Insley] (https://github.com/sarai24)
 <!-- prettier-ignore-start -->
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
 - [aung thu gaming channel](https://github.com/trovel339)
