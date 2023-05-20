@@ -23,6 +23,7 @@
 - [Alex Li](https://github.com/alexcode4ever)
 - [Ripul Handoo](https://github.com/RipulHandoo)
 - [Zvirid Andrei](https://github.com/zviridandrei)
+- [Akshit Aggarwal](https://github.com/akshit-289)
 - [Zach Boquet](https://github.com/Kurokio)
 - [Manideep](https://github.com/Manideep519)
 - [Jonathan Kariuki](https://github.com/JonathanSecondGithub)
