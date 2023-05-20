@@ -378,6 +378,7 @@
 - June Song
 - Grumbo
 - [khunsai06](https://github.com/khunsai06)
+- [Franck Vienot] (https://github.com/antikkorps)
 - [shivamxsurya](https://github.com/shivamxsurya)
   -Madhur Manan
 - Anthony Aljida
