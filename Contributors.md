@@ -11,6 +11,7 @@
 - [Alen Chen](https://github.com/ChenYunyue)
 - [Milan Lakhani](https://github.com/milan-lakhani)
 - [Mayank Gautam]
+- [Himanshu Rai](https://github.com/HIMU-2001)
 - [Arturo López](https://github.com/arturolopeze)
 - [Piyush Pawar](https://github.com/piyushpawar54)
 - [Aditya patil](https://github.com/AdityaPatil111)
