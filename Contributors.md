@@ -131,6 +131,7 @@
 - [Jack O'Hare](https://github.com/JackOhare27)
 - [Shibi Ayyanar](https://github.com/Shibi-A)
 - [Thomas Mestdagh](https://github.com/thomasmestdagh)
+- [Veer Pratap](https://github.com/Veercodeprog)
 - -Yash Mishra
 - -Ashish Kumar Singh
 - [cybzzz](https://github.com/cybzzz)
