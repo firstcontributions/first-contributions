@@ -1829,7 +1829,7 @@
 - <!-- prettier-ignore-end -->
 - [Sameer Kumar singh](https://github.com/xvisierra)
 - [Jimmy Batuhan](https://github.com/jimmybatuhan)
-- [Nivin](https://github.com/Nivin389)
+- [Nivin](https://github.com/ilynivin)
 - [KuanChieh Lien](https://github.com/jazzpujols34)
 - [Rubin Bhandari](https://github.com/rubiin)
 - AprilZhou
