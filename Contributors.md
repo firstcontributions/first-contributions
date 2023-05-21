@@ -201,6 +201,7 @@
 - [Dilshad](https://github.com/a-rustacean)
 - [Stephanie Wong] (https://github.com/steph-wong-15)
 - [Ganesh Revadi](https://github.com/ganeshrevadi)
+- [George Nagy](https://github.com/NagyGeorge)
 - [Droid Sumit](https://github.com/droidsumit)
 - [asfaqahmed](https://github.com/asfaqahmed) -[Arin Mandal](https://github.com/arinmandal)
 - [Luke Nagy](https://github.com/NaglesWasTaken)
