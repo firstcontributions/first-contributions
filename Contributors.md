@@ -1786,6 +1786,7 @@
 - [Park Gyoungdo](https://github.com/rudeh1253)
 - Mythszj
 - [homefish](https://github.com/homefish)
+- [Heo Seungjin](https://github.com/peter-sjheo)
 - [Sunil S. Singh](https://github.com/sssingh)
 - [Orion Wesson] (https://github.com/EnterOrion)
 - [San-ctuary](https://github.com/San-ctuary)
