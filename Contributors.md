@@ -5,6 +5,7 @@
 - [Muhammad Haris](https://github.com/headlessNode)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 - [Omi](https://github.com/NormTurtle)
+- [Omoogun Olawale](https://github.com/olawale-o)
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
 - [Soy Eric](https://github.com/ibrahimeric)
 - [aung thu gaming channel](https://github.com/trovel339)
