@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
+- [Tanmay Kadam](https://github.com/tandamandali)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 - [Omi](https://github.com/NormTurtle)
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
