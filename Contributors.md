@@ -1707,6 +1707,7 @@
 - [Priyank Panchal](https://github.com/priyank-panchal)
 - [Akshay Thakur](https://github.com/popty)
 - [Abhinav Sharma](https://github.com/Abhinav2091)
+- [Shailesh Yadav](https://github.com/shaileshkryadav)
 - [Ajay Mehta](https://github.com/AIwithAj)
 - [Shreevaths](https://github.com/shreevaths1)
 - [Mateeh Ullah](https://github.com/MateehUllah)
