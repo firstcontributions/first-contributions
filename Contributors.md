@@ -720,6 +720,7 @@
 - [ManueldG](https://github.com/ManueldG)
 - [Junsu Park](https://github.com/junsupark94)
 - [Tanmay Pradhan](https://github.com/tanmaypradhan4112)
+- [Timon] (https://github.com/taaae)
 - [Chirag Goyal](https://github.com/ChiragGoyal98)
 - [Animesh Singh](https://github.com/Animesh0764)
 - [Meghanath Reddy](https://github.com/meghanath852)
