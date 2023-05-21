@@ -4,6 +4,7 @@
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 - [Omi](https://github.com/NormTurtle)
+- [Muhammed Fuhad](https://github.com/iammuhammedfuhad)
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
 - [Soy Eric](https://github.com/ibrahimeric)
 - [aung thu gaming channel](https://github.com/trovel339)
@@ -1835,4 +1836,3 @@
 - AprilZhou
 - [Mayank saini](https://github.com/Mayanksaini1234)
 - [Winnie Jeng](https://github.com/winniewjeng)
-
