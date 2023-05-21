@@ -4,6 +4,7 @@
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 - [Omi](https://github.com/NormTurtle)
+- [Vishal Kumar](https://github.com/vishal2045)
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
 - [Soy Eric](https://github.com/ibrahimeric)
 - [aung thu gaming channel](https://github.com/trovel339)
