@@ -1203,6 +1203,7 @@
 - [Jay Watson](https://github.com/jaypwatson)
 - [Valko](https://github/valkowo)
 - [Guilherme Rodrigo](https://github.com/rfguilherme)
+- [Muhammed Fuhad](https://github.com/iammuhammedfuhad)
 - [Victor Jackson](https://github.com/jackv9425)
 - [Julia Kuchle](https://github.com/JuliaGK)
 - [Saket Munda](https://github.com/SaketMunda)
