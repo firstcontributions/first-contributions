@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
+- [Muhammed Fuhad](https://github.com/iammuhammedfuhad)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 - [Omi](https://github.com/NormTurtle)
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
@@ -1835,4 +1836,3 @@
 - AprilZhou
 - [Mayank saini](https://github.com/Mayanksaini1234)
 - [Winnie Jeng](https://github.com/winniewjeng)
-- [Muhammed Fuhad](https://github.com/iammuhammedfuhad)
