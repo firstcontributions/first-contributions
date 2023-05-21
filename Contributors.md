@@ -29,6 +29,7 @@
 - [Divy Don](https://github.com/Divy312)
 - [Pranita Dane](https://github.com/pranita28Dane)
 - [Hastimal Shah](https://github.com/hasti)
+- [Veselin Velchev] (https://github.com/vesv)
 - [Aakash Sharma](https://github.com/Aakash447)
 - [Alex Li](https://github.com/alexcode4ever)
 - [Ripul Handoo](https://github.com/RipulHandoo)
