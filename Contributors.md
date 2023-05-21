@@ -36,6 +36,7 @@
 - [Zvirid Andrei](https://github.com/zviridandrei)
 - [Akshit Aggarwal](https://github.com/akshit-289)
 - [Zach Boquet](https://github.com/Kurokio)
+- [Ifeoluwa Aroboto] (https://github.com/IfeoluwaAroboto)
 - [Manideep](https://github.com/Manideep519)
 - [Jonathan Kariuki](https://github.com/JonathanSecondGithub)
 - [Akhil](https://github.com/Akhil-77)
