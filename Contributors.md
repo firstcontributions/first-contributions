@@ -266,6 +266,7 @@
 - [Yash Desai](https://github.com/yashdesoi)
 - [preston176](https://github.com/preston176)
 - [Pritse](https://github.com/Pritse)
+- [Vishal Lokam](https://github.com/VishalLokam)
 - [Nazar Kopytko](https://github.com/NazarK7)
 - [Mohamed Ghulam](https://github.com/mfg888)
 - [Vittorio Pinti](https://github.com/vpinti)
