@@ -167,6 +167,17 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 <details>
 <summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
 
+## Showing error while pushing 
+  
+   When pushing your code, there may be showing error in your terminal...
+<strong>'$ Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.'</strong>
+this is because GitHub changed authentication processes from a password to a token. I found the documentation to help you with this issue, Github now requires a token to push code.
+
+I found the official GitHub documentation that assisted me and a LinkedIn tutorial. I think these would be good resources for people experiencing the same problem.
+
+<img align="right" width="450" src="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token" alt="git status" />
+
+
 - ### Authentication Error
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
