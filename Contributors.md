@@ -1592,6 +1592,7 @@
 - [Dillan samano](https://github.com/DillanSamano)
 - [ayasono](https://github.com/Ayasono)
 - [Reshma]
+- [Vishal Chauhan](https://github.com/vishal8113)
 - [Nakinton Rungrueng](https://github.com/ItsChathai)
 - [Abdul Moiz Lakhani](https://github.com/abdulmoizlakhani)
 - [Xemio](https://github.com/xemioxd)
