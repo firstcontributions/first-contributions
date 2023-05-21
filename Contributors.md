@@ -19,6 +19,7 @@
 - [Arturo López](https://github.com/arturolopeze)
 - [Arslan Asghar](https://github.com/al-arslan)
 - [Piyush Pawar](https://github.com/piyushpawar54)
+- [Kuber Acharya](https://github.com/thekubera)
 - [Aditya patil](https://github.com/AdityaPatil111)
 - [Vikas Wakde](https://github.com/VikasWakde)
 - [Andre Chua](https://github.com/andrechuakj)
