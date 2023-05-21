@@ -205,6 +205,7 @@
 - [asfaqahmed](https://github.com/asfaqahmed) -[Arin Mandal](https://github.com/arinmandal)
 - [Luke Nagy](https://github.com/NaglesWasTaken)
 - [Giga Mania](https://github.com/giga-mania)
+- [NQW1105](https://github.com/NQW1105)
 - [Cássio Nhiemetz Guimarães](https://github.com/AngryPlayer04)
 - [Samuel Haile](https://github.com/samhaile7)
 - [Ankit Navaghare](https://github.com/Killua-22)
