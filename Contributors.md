@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 - [Omi](https://github.com/NormTurtle)
@@ -44,7 +45,7 @@
 - Bhagyalakshmi
 - Utkarsh Shukla(https://github.com/utkrsh-shukla)
 - Himanshu Tamta
-[Mohit Yadav](https://github.com/ymohit1603)
+  [Mohit Yadav](https://github.com/ymohit1603)
 - [Andee Warren](https://github.com/andeewarren)
 - Igniseri
 - [Rima Nurkholifah](https://github.com/rimanurfah)
@@ -1835,4 +1836,4 @@
 - AprilZhou
 - [Mayank saini](https://github.com/Mayanksaini1234)
 - [Winnie Jeng](https://github.com/winniewjeng)
-
+- [Dhruv patel](https://github.com/Dhruvn-patel)
