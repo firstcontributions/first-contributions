@@ -12,6 +12,7 @@
 - [aung thu gaming channel](https://github.com/trovel339)
 - [Adarsh Yadav](https://github.com/codebreaker0001)
 - [Alen Chen](https://github.com/ChenYunyue)
+- [Sushant Bhargav](https://github.com/BhargavSushant)
 - [Milan Lakhani](https://github.com/milan-lakhani)
 [Manas Anand Singh](https://github.com/MSAndromeda)
 - [Mayank Gautam]
