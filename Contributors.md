@@ -4,6 +4,7 @@
 
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Muhammad Haris](https://github.com/headlessNode)
+- [Bicky Singh Kushwaha](https://github.com/bickysingh80177)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 - [Omi](https://github.com/NormTurtle)
 - [Omoogun Olawale](https://github.com/olawale-o)
@@ -13,7 +14,7 @@
 - [Adarsh Yadav](https://github.com/codebreaker0001)
 - [Alen Chen](https://github.com/ChenYunyue)
 - [Milan Lakhani](https://github.com/milan-lakhani)
-[Manas Anand Singh](https://github.com/MSAndromeda)
+  [Manas Anand Singh](https://github.com/MSAndromeda)
 - [Mayank Gautam]
 - ![Joshua Ramat](https://github.com/joshuaramat)
 - [Arturo López](https://github.com/arturolopeze)
