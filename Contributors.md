@@ -4,6 +4,7 @@
 
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Muhammad Haris](https://github.com/headlessNode)
+- [AlexEG](https://github.com/AlexEG)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 - [Omi](https://github.com/NormTurtle)
 - [Omoogun Olawale](https://github.com/olawale-o)
