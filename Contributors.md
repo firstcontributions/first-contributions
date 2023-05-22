@@ -79,6 +79,7 @@
 - [Kiara Hoheb](https://github.com/kxtara)
 - [Gunjan Mishra](https://github.com/GunjanKMishra)
 - [Meenakshi Sivakumar](https://github.com/Meenakshi-Sivakumar)
+- [Khalid Jameer](https://github.com/kjameer0)
 - [Swastik Bansal](https://github.com/swastikbansal)
 - [Krutartha Nagesh](https://github.com/krutartha)
 - [Vance Sama](https://github.com/VansRouges)
