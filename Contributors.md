@@ -129,6 +129,7 @@
 - [Showzaemon](https://github.com/Showzaemon)
 - [Lenox Mangi](https://github.com/DrBake)
 - [Jack O'Hare](https://github.com/JackOhare27)
+- [Shayne Fawcett](https://github.com/sdfawcett)
 - [Shibi Ayyanar](https://github.com/Shibi-A)
 - [Thomas Mestdagh](https://github.com/thomasmestdagh)
 - -Yash Mishra
