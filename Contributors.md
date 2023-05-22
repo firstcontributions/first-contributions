@@ -37,6 +37,7 @@
 - [Akshit Aggarwal](https://github.com/akshit-289)
 - [Zach Boquet](https://github.com/Kurokio)
 - [Manideep](https://github.com/Manideep519)
+- [Ilay Eldar](https://github.com/ilayEldar24)
 - [Jonathan Kariuki](https://github.com/JonathanSecondGithub)
 - [Akhil](https://github.com/Akhil-77)
 - [Javier Ramirez](https://github.com/ramirezj129)
