@@ -8,6 +8,7 @@
 - [Omi](https://github.com/NormTurtle)
 - [Omoogun Olawale](https://github.com/olawale-o)
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
+- [Prerna Singh](https://github.com/PrernaSingh01)
 - [Soy Eric](https://github.com/ibrahimeric)
 - [aung thu gaming channel](https://github.com/trovel339)
 - [Adarsh Yadav](https://github.com/codebreaker0001)
