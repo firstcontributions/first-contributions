@@ -73,6 +73,7 @@
 - [JT Fox](https://github.com/jtfox142)
 - [Nadeem Ahmad](https://github.com/ahmadnadeem6236)
 - [Marshall Blatz](https://github.com/marshall-blatz)
+- [Aroboto Ifeoluwa](https://github.com/IfeoluwaAroboto)
 - [Yuvraj Katkar](https://github.com/YuvrajKatkar)
 - [Meghanath Reddy](https://github.com/meghanath852)
 - [Malki Malov](https://github.com/MalkiMalov)
