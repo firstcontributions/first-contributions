@@ -33,6 +33,7 @@
 - [Aakash Sharma](https://github.com/Aakash447)
 - [Alex Li](https://github.com/alexcode4ever)
 - [Ripul Handoo](https://github.com/RipulHandoo)
+-[Pritam Roy](https://github.com/Pritam1136)
 - [Zvirid Andrei](https://github.com/zviridandrei)
 - [Akshit Aggarwal](https://github.com/akshit-289)
 - [Zach Boquet](https://github.com/Kurokio)
