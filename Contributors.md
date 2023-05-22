@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+-[Shivam Gupta](https://github.com/Shivam-fibo)
 
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Muhammad Haris](https://github.com/headlessNode)
