@@ -401,6 +401,7 @@
 - [Christos Kontomitros](https://github.com/ckontomitros)
 - [Abdelrahman Elsayed](https://github.com/onepercentgold)
 - [mekonical22](https://github.com/mekonical22)
+- [luisrc722](https://github.com/luisrc722)
 - [Amrinder Singh](https://github.com/amrinder1189)
 - [Thunderk3g](https://github.com/Thunderk3g)
 - [Gabriel Moraes](https://github.com/gabrielm33)
