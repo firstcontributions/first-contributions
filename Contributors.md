@@ -1134,6 +1134,7 @@
 - [Laura Clark](https://github.com/lcmaximum)
 - [Callum Merritt](https://github.com/CallumMerritt)
 - [Laurat Hajrullaaga](https://github.com/laurathaga)
+- [Vivek Pradhan](https://medium.com/@vivekpradhan)
 - [Hiruna-Kumara](https://github.com/Hiruna-Kumara)
 - [Aman Kumar Pandey](https://github.com/amanpandey2101)
 - [Patil 2104](https://github.com/patil2104)
