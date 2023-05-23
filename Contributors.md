@@ -31,6 +31,7 @@
 - [Hastimal Shah](https://github.com/hasti)
 - [Veselin Velchev] (https://github.com/vesv)
 - [Aakash Sharma](https://github.com/Aakash447)
+- [Michael Christwin](https://github.com/michaelchristwin)
 - [Alex Li](https://github.com/alexcode4ever)
 - [Ripul Handoo](https://github.com/RipulHandoo)
 - [Zvirid Andrei](https://github.com/zviridandrei)
