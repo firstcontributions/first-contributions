@@ -66,6 +66,7 @@
 - [John](https://github.com/duckheap)
 - [Irfan](https://github.com/Parjival)
 - [Nur Farah](https://github.com/Nur-farah)
+- [Luis Brose](https://github.com/LuisBrose)
 - [Anand Raj](https://github.com/anand346)
 - [Fernando Pérez](https://github.com/fermop)
 - [Shruti Singh](https://github.com/shruti8302)
