@@ -13,7 +13,7 @@
 - [Adarsh Yadav](https://github.com/codebreaker0001)
 - [Alen Chen](https://github.com/ChenYunyue)
 - [Milan Lakhani](https://github.com/milan-lakhani)
-[Manas Anand Singh](https://github.com/MSAndromeda)
+  [Manas Anand Singh](https://github.com/MSAndromeda)
 - [Mayank Gautam]
 - ![Joshua Ramat](https://github.com/joshuaramat)
 - [Arturo López](https://github.com/arturolopeze)
@@ -128,7 +128,7 @@
 - [Sudeep](https://github.com/srs-sudeep)
 - [Showzaemon](https://github.com/Showzaemon)
 - [Lenox Mangi](https://github.com/DrBake)
-- [Jack O'Hare](https://github.com/JackOhare27)
+- [Jack O&#39;Hare](https://github.com/JackOhare27)
 - [Shibi Ayyanar](https://github.com/Shibi-A)
 - [Thomas Mestdagh](https://github.com/thomasmestdagh)
 - -Yash Mishra
@@ -299,7 +299,7 @@
 - [John Clapper](https://github.com/britzky)
 - [Maria Aurellia](https://github.com/mariaadannies)
 - [Sahood cv](https://github.com/sahoodcode)
-- [It's Meghanath again](https://github.com/meghanath852)
+- [It&#39;s Meghanath again](https://github.com/meghanath852)
 - [Harish Rane](https://github.com/AzadRane)
 - [Glen Wojnar](https://github.com/glwo)
 - [Cristian Gomez](https://github.com/Cristian96g)
@@ -1679,7 +1679,9 @@
 - [Ezra Koppel](https://github.com/ekoppel)
 - [Leanne Keenan](https://github.com/leannekeenan)
 - [Greg Recco](https://github.com/gregrecco67)
+
 <!-- prettier-ignore-end -->
+
 - [Em Mic](https://github.com/emmic)
 - [ebrower320](https://github.com/ebrower320)
 - [TobizzleLOL](https://github.com/TobizzleLOL)
@@ -1859,3 +1861,4 @@
 - [Mayank saini](https://github.com/Mayanksaini1234)
 - [Winnie Jeng](https://github.com/winniewjeng)
 - [Abbie Sims](https://github.com/abbiesims]
+- [John Sloan](https://github.com/jsphotos205)
