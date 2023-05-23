@@ -55,6 +55,7 @@
   [Mohit Yadav](https://github.com/ymohit1603)
 - [Andee Warren](https://github.com/andeewarren)
 - Igniseri
+- [Nicolai Nielsen](https://github.com/NicolaiNielsen)
 - [Rima Nurkholifah](https://github.com/rimanurfah)
 - [Karthik Bhandary](https://github.com/karthikbhandary2)
 - [Sarthak](https://github.com/sarthak2131)
