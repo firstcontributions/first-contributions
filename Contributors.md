@@ -3,11 +3,11 @@
 <!-- prettier-ignore-start -->
 
 - [Akhil](https://github.com/Akhil-77)
-- [Guchu Kelvin](https://github.com/kelvinguchu)
 - [Noriomusha](https://github.com/Noriomusha)
 - [Sarthak](https://github.com/sarthak2131)
 - [Prabal Sharma](https://github.com/prabalsh19)
 - [Yuvraj Katkar](https://github.com/YuvrajKatkar)
+- [Guchu Kelvin](https://github.com/kelvinguchu)
 - [Gunjan Mishra](https://github.com/GunjanKMishra)
 - [Swastik Bansal](https://github.com/swastikbansal)
 - [Mushfiqur Rahman](https://github.com/mushfiq13)
