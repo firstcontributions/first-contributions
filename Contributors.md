@@ -69,7 +69,7 @@
 - [Anand Raj](https://github.com/anand346)
 - [Fernando Pérez](https://github.com/fermop)
 - [Shruti Singh](https://github.com/shruti8302)
-- [Agastya Sharma](https://github.com/Agastya-07)
+- [Agastya SHARMA](https://github.com/Agastya-07)
 - [Prabal Sharma](https://github.com/prabalsh19)
 - [JT Fox](https://github.com/jtfox142)
 - [Nadeem Ahmad](https://github.com/ahmadnadeem6236)
