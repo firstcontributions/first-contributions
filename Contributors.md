@@ -551,7 +551,7 @@
 - [Noibisjunior](https://github.com/Noibisjunior) -[Akash chakraborty](https://github.com/ak01a04sh)
 - [John Park](https://github.com/shinopark)
 - [Shinzou Mahi](https://github.com/mahi-shinzou)
-- [Alan Rios](https://github.com/CoderioX)
+- [Alan Rios](https://github.com/riiosalan)
 - [lowgunnn](https://github.com/lowgunnn)
 - [Prasanth Prabakaran](https://github.com/prasanthprabakaran)
 - [Aroboto Ife](https://github.com/IfeoluwaAroboto)
