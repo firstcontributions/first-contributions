@@ -16,6 +16,7 @@
 [Manas Anand Singh](https://github.com/MSAndromeda)
 - [Mayank Gautam]
 - ![Joshua Ramat](https://github.com/joshuaramat)
+- [Tamsy Man](https://github.com/TamsyMan)
 - [Arturo López](https://github.com/arturolopeze)
 - [Arslan Asghar](https://github.com/al-arslan)
 - [Piyush Pawar](https://github.com/piyushpawar54)
