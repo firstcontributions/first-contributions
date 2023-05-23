@@ -228,6 +228,7 @@
 - [Harshit Gupta](https://github.com/curiousHG)
 - [Amanda Vien](https://github.com/amanduhkv)
 - [Shubham Singh](https://github.com/shibs-01)
+
 - [Vedant Adke](https://github.com/VedantAdke96)
 - [Mohummad Kazmi](https://github.com/mskazmi)
 - [Rene Baribal](https://github.com/RiinSeresuto)
@@ -709,6 +710,7 @@
 - [samarthbagga](https://github.com/samarthbagga)
 - [KratikJain10](https://github.com/KratikJain10)
 - Néstor Moreno
+- Shashank Singh
 - [Ronny Barahona](https://github.com/ronnyb378)
 - [Ronke Akinmosin](https://github.com/ronke-susan)
 - [RogueTM](https://github.com/RogueTMs)
