@@ -38,6 +38,7 @@
 - [Zach Boquet](https://github.com/Kurokio)
 - [Manideep](https://github.com/Manideep519)
 - [Jonathan Kariuki](https://github.com/JonathanSecondGithub)
+- [Junji](https://github.com/juunjii)
 - [Akhil](https://github.com/Akhil-77)
 - [Javier Ramirez](https://github.com/ramirezj129)
 - [Yash Patel](https://github.com/theyashpatel)
