@@ -49,6 +49,7 @@
 - [Rakesh](https://github.com/rakeshcj)
 - IamMahfooz
 - [Noriomusha](https://github.com/Noriomusha)
+- [Aditya Agarwal](https://github.com/adi790uu)
 - Bhagyalakshmi
 - Utkarsh Shukla(https://github.com/utkrsh-shukla)
 - Himanshu Tamta
