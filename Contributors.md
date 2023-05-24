@@ -3,7 +3,6 @@
 <!-- prettier-ignore-start -->
 
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
-- [Sazzad Hussain Farhaan](https://github.com/farhaan-sh)
 - [Muhammad Haris](https://github.com/headlessNode)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 - [Omi](https://github.com/NormTurtle)
@@ -14,7 +13,7 @@
 - [Adarsh Yadav](https://github.com/codebreaker0001)
 - [Alen Chen](https://github.com/ChenYunyue)
 - [Milan Lakhani](https://github.com/milan-lakhani)
-[Manas Anand Singh](https://github.com/MSAndromeda)
+- [Manas Anand Singh](https://github.com/MSAndromeda)
 - [Mayank Gautam]
 - ![Joshua Ramat](https://github.com/joshuaramat)
 - [Arturo López](https://github.com/arturolopeze)
@@ -23,6 +22,7 @@
 - [Kuber Acharya](https://github.com/thekubera)
 - [Aditya patil](https://github.com/AdityaPatil111)
 - [Vikas Wakde](https://github.com/VikasWakde)
+- :zzz: :sparkles: [Sazzad Hussain Farhaan](https://github.com/farhaan-sh) :sparkles: :zzz:
 - [Andre Chua](https://github.com/andrechuakj)
 - [Hans Ibarra](https://github.com/Falaxsa13)
 - [Sagar Bhat](https://github.com/codingsagar)
@@ -43,7 +43,7 @@
 - [Javier Ramirez](https://github.com/ramirezj129)
 - [Yash Patel](https://github.com/theyashpatel)
 - [Richi](https://github.com/Zerov1000)
-- Md Raquib 🔥🔥 (https://github.com/RaquibDox)
+- [Md Raquib](https://github.com/RaquibDox) 🔥🔥 
 - [Dheeraj Jha](https://github.com/Dheerajjha451)
 - [Shivam Singh](https://github.com/shivamks1998)
 - Kishan Monhoal
