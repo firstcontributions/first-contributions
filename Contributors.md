@@ -906,6 +906,7 @@
 - [Wajid Ali Tabassum](https://github.com/wajidalitabassum143)
 - [Saloni Modi](https://github.com/pineappleEnthusiast)
 - [Manvendra Prasad](https://github.com/Manv3ndra)
+- [Fabian Waterstrat](https://github.com/FabianWaterstrat)
 - [Abhinav Chaudhary](https://github.com/lan10rn)
 - [Saumya Upadhyay](https://github.com/Saumyaup11)
 - [Gordon Karlsson](https://github.com/gpkarlsson)
