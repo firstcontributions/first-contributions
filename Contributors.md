@@ -1845,6 +1845,7 @@
 - [Rochelle](https://github.com/RochelleNi)
 - Aviya Atias
 - kritika singh
+- [Tejesh Kumar] (https://github.com/zenc0derr)
 - [Carlos Sais](https://github.com/csais3)
 - [Iris Mou](https://github.com/HXMou)
 - [Pape Ngagne Ndiaye](https://github.com/PapisKang)
