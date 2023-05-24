@@ -14,6 +14,7 @@
 - [Alen Chen](https://github.com/ChenYunyue)
 - [Milan Lakhani](https://github.com/milan-lakhani)
 [Manas Anand Singh](https://github.com/MSAndromeda)
+- DH Yip (https://github.com/chachasoba/)
 - [Mayank Gautam]
 - ![Joshua Ramat](https://github.com/joshuaramat)
 - [Arturo López](https://github.com/arturolopeze)
