@@ -107,11 +107,11 @@ git push origin -u <your-new-branch-name>
 
 ## এরপর কী করব?
 
-আপনার অবদানের আনন্দ উপভোগ করুন এবং [ওয়েব অ্যাপ](https://roshanjossey.github.io/first-contributions/#social-share)-এর মাধ্যমে বন্ধু ও অনুসরণকারীদের সাথে শেয়ার করুন।
+আপনার অবদানের আনন্দ উপভোগ করুন এবং [ওয়েব অ্যাপ](https://firstcontributions.github.io/#social-share)-এর মাধ্যমে বন্ধু ও অনুসরণকারীদের সাথে শেয়ার করুন।
 
 কোনো সহায়তার প্রয়োজন হলে বা আপনার কোনো প্রশ্ন থাকলে আপনি আমাদের স্ল্যাক টিমে যুক্ত হতে পারেন। [স্ল্যাক টিমে যোগ দিন](https://firstcontributions.herokuapp.com)
 
-এখন আপনি অন্যান্য প্রজেক্টগুলোতেও অবদান রাখতে পারেন। আপনার সুবিধার্থে আমরা সহজ সমস্যা সম্বলিত প্রজেক্টগুলোর একটি তালিকা তৈরি করেছি। ওয়েব অ্যাপে [প্রজেক্টগুলোর তালিকা](https://roshanjossey.github.io/first-contributions/#project-list) দেখুন।
+এখন আপনি অন্যান্য প্রজেক্টগুলোতেও অবদান রাখতে পারেন। আপনার সুবিধার্থে আমরা সহজ সমস্যা সম্বলিত প্রজেক্টগুলোর একটি তালিকা তৈরি করেছি। ওয়েব অ্যাপে [প্রজেক্টগুলোর তালিকা](https://firstcontributions.github.io/#project-list) দেখুন।
 
 ### [ অতিরিক্ত উপাদানসমূহ ](../additional-material/git_workflow_scenarios/additional-material.md)
 
