@@ -262,6 +262,7 @@
 - [chamomil](https://github.com/chamomil)
 - [Rituraj](https://github.com/enrituraj)
 - [Rohit Mahesh](https://github.com/R041T)
+- [Matthew Coronado] (https://github.com/mattdamachine)
 - [Nicekloe](https://github.com/Nicekloe)
 - [Yash Desai](https://github.com/yashdesoi)
 - [preston176](https://github.com/preston176)
