@@ -710,6 +710,7 @@
 - [KratikJain10](https://github.com/KratikJain10)
 - Néstor Moreno
 - [Ronny Barahona](https://github.com/ronnyb378)
+- [Prakhar Thakur](https://github.com/itsprakhar)
 - [Ronke Akinmosin](https://github.com/ronke-susan)
 - [RogueTM](https://github.com/RogueTMs)
 - [jiwonqaz](https://github.com/jiwonqaz)
