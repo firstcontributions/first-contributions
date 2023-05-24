@@ -18,6 +18,7 @@
 - ![Joshua Ramat](https://github.com/joshuaramat)
 - [Arturo López](https://github.com/arturolopeze)
 - [Arslan Asghar](https://github.com/al-arslan)
+- [Ali Aizn](https://github.com/aliaizn)
 - [Piyush Pawar](https://github.com/piyushpawar54)
 - [Kuber Acharya](https://github.com/thekubera)
 - [Aditya patil](https://github.com/AdityaPatil111)
