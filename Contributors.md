@@ -17,6 +17,7 @@
 - [Mayank Gautam]
 - ![Joshua Ramat](https://github.com/joshuaramat)
 - [Arturo López](https://github.com/arturolopeze)
+- [Chloe Gavrilovic](https://github.com/cmgvc)
 - [Arslan Asghar](https://github.com/al-arslan)
 - [Piyush Pawar](https://github.com/piyushpawar54)
 - [Kuber Acharya](https://github.com/thekubera)
