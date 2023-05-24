@@ -48,6 +48,7 @@
 - Kishan Monhoal
 - [Rakesh](https://github.com/rakeshcj)
 - IamMahfooz
+- Akash Mishra
 - [Noriomusha](https://github.com/Noriomusha)
 - Bhagyalakshmi
 - Utkarsh Shukla(https://github.com/utkrsh-shukla)
