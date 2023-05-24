@@ -513,6 +513,7 @@
 - [Atahan Caldir](https://github.com/atahancaldir)
 - [taricov](https://github.com/taricov)
 - [harshiv ganwani](https://github.com/harshivg)
+- [Robert Chu](https://github.com/juroberttyb)
 - [ItsHidro](https://github.com/HidroGaming)
 - [Deviant-Liang](https://github.com/Deviant-Liang)
 - [Amit Pandey](https://github.com/Amit19057120)
