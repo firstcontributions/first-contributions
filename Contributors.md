@@ -72,6 +72,7 @@
 - [Prabal Sharma](https://github.com/prabalsh19)
 - [JT Fox](https://github.com/jtfox142)
 - [Nadeem Ahmad](https://github.com/ahmadnadeem6236)
+- [Chielota Miracle](https://github.com/chielota)
 - [Marshall Blatz](https://github.com/marshall-blatz)
 - [Yuvraj Katkar](https://github.com/YuvrajKatkar)
 - [Meghanath Reddy](https://github.com/meghanath852)
