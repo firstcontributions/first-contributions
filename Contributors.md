@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
+- [Sazzad Hussain Farhaan](https://github.com/farhaan-sh)
 - [Muhammad Haris](https://github.com/headlessNode)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 - [Omi](https://github.com/NormTurtle)
