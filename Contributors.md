@@ -58,6 +58,7 @@
 - [Rima Nurkholifah](https://github.com/rimanurfah)
 - [Karthik Bhandary](https://github.com/karthikbhandary2)
 - [Sarthak](https://github.com/sarthak2131)
+- [Gokhan Taskan](https://github.com/gokhantaskan)
 - [Pranit Mane](https://github.com/pranitmane)
 - [Fred Gerner](https://github.com/fgerner)
 - [Rafiul Islam Refat](https://github.com/rirefat)
