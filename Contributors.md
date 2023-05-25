@@ -221,6 +221,7 @@
 - [Cássio Nhiemetz Guimarães](https://github.com/AngryPlayer04)
 - [Samuel Haile](https://github.com/samhaile7)
 - [Ankit Navaghare](https://github.com/Killua-22)
+      
 - [Thien-Bao Bui](https://github.com/tbbui-732)
 - [Hatchie#47](https://github.com/Hatchie-47)
 - [SuJung Song](https://github.com/SONG-crystal)
@@ -228,6 +229,7 @@
 - [Harshit Gupta](https://github.com/curiousHG)
 - [Amanda Vien](https://github.com/amanduhkv)
 - [Shubham Singh](https://github.com/shibs-01)
+- [ parth mistry ](https://github.com/ACodewizard)
 - [Vedant Adke](https://github.com/VedantAdke96)
 - [Mohummad Kazmi](https://github.com/mskazmi)
 - [Rene Baribal](https://github.com/RiinSeresuto)
