@@ -42,6 +42,7 @@
 - [Javier Ramirez](https://github.com/ramirezj129)
 - [Yash Patel](https://github.com/theyashpatel)
 - [Richi](https://github.com/Zerov1000)
+- [Yogesh](https://github.com/yogesh784)
 - Md Raquib 🔥🔥 (https://github.com/RaquibDox)
 - [Dheeraj Jha](https://github.com/Dheerajjha451)
 - [Shivam Singh](https://github.com/shivamks1998)
