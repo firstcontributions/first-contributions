@@ -277,6 +277,7 @@
 - [Armon Astalis](https://github.com/armonastalis)
 - [Ross Silcott](https://github.com/RCSilcott)
 - [xavierjimz](https://github.com/xavierjimz/)
+Aaron
 - [Satyam Nyati](https://github.com/satyamnyati)
 - [Trottie McQueen](https://github.com/trottiemcqueen)
 - [Jyotiraditya Mishra](https://github.com/Jmishra49)
