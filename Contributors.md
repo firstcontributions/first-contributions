@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Saleh Zaidan](https://github.com/salehzaidan)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Muhammad Haris](https://github.com/headlessNode)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
