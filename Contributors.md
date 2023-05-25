@@ -87,6 +87,7 @@
 - [birendra07](https://github.com/birendra07)
 - [Thamer](https://github.com/ThamerMalki)
 - [Julie Clegg](https:///github.com/jclegg31)
+- [Khushi Mahule](https://github.com/Khushi-Mahule/first-contributions.git)
 - [Sharath](https://github.com/r-sharath)
 - [Saukar Manjunath](https://github.com/ManjunathSaukar)
 - [Kamal Koranga](https://github.com/Kamalkoranga)
