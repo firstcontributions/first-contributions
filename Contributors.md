@@ -13,7 +13,7 @@
 - [Adarsh Yadav](https://github.com/codebreaker0001)
 - [Alen Chen](https://github.com/ChenYunyue)
 - [Milan Lakhani](https://github.com/milan-lakhani)
-[Manas Anand Singh](https://github.com/MSAndromeda)
+  [Manas Anand Singh](https://github.com/MSAndromeda)
 - [Mayank Gautam]
 - ![Joshua Ramat](https://github.com/joshuaramat)
 - [Arturo López](https://github.com/arturolopeze)
@@ -184,6 +184,7 @@
 - [Rohitha Yarlagadda](https://github.com/YRohitha)
 - [Piotr Awramiuk](https://github.com/portrecistajeden)
 - [Chinmay Bhalerao](https://github.com/ChinmayBH)
+- [Fattah Samit](https://github.com/fattahsamit)
 - [Dunson](https://github.com/Dunson)
 - [Eugene](https://github.com/eugene0928)
 - [Mohamed El Jelali](https://github.com/AutarcieDevelop)
