@@ -6,6 +6,7 @@
 - [Muhammad Haris](https://github.com/headlessNode)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 - [Omi](https://github.com/NormTurtle)
+- [Vedant](https://github.com/syskey4603)
 - [Omoogun Olawale](https://github.com/olawale-o)
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
 - [Soy Eric](https://github.com/ibrahimeric)
