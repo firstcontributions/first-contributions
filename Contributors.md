@@ -44,6 +44,7 @@
 - [Richi](https://github.com/Zerov1000)
 - Md Raquib 🔥🔥 (https://github.com/RaquibDox)
 - [Dheeraj Jha](https://github.com/Dheerajjha451)
+- Timothy Fong (https://github.com/Timfon)
 - [Shivam Singh](https://github.com/shivamks1998)
 - Kishan Monhoal
 - [Rakesh](https://github.com/rakeshcj)
