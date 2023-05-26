@@ -153,6 +153,7 @@
 - Jagdish Kancharapu
 - Paul Kenyanya Omweri
 - Manny G
+- loh1468
 - [Farzan Ekram](https://github.com/farzanekram07)
 - [Mike Tagg](https://github.com/mdtagg)
 - [Shivam Kumar Yadav](https://github.com/Thesky9474)
