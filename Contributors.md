@@ -10,6 +10,7 @@
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
 - [Soy Eric](https://github.com/ibrahimeric)
 - [aung thu gaming channel](https://github.com/trovel339)
+- [Christian Sarmiento](https://github.com/xchaaan)
 - [Adarsh Yadav](https://github.com/codebreaker0001)
 - [Alen Chen](https://github.com/ChenYunyue)
 - [Milan Lakhani](https://github.com/milan-lakhani)
