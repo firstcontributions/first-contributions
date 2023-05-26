@@ -1832,6 +1832,7 @@
 - [Niek Jacobse](https://github.com/NiekJacobse)
 - [Zeeshan Khan](https://github.com/Klassy-Kartoon)
 - [Fazlı Berk Ördek](https://github.com/fazliberkordek)
+- [Hafid Haddaoui](https://github.com/Mangemort60)
 - Fubge(https://github.com/Fubge)
 - [wiwat](https://github.com/mostvivat)
 - [ojasvi](https://github.com/PoseidonSaan)
