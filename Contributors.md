@@ -546,6 +546,7 @@
 - [Titania Yan](https://github.com/TYan18)
 - [Pritam Ghosh](https://github.com/mrgpritam)
 - [Sim Dash](https://github.com/udashdon4)
+- [Jerome Mberia](https://github.com/JeromeMberia)🏄‍♂️
 - [Harshal Jadhav](https://github.com/harshal2002)
 - [ATHARV POWALKAR AP07](https://github.com/07-Atharv)
 - [Noibisjunior](https://github.com/Noibisjunior) -[Akash chakraborty](https://github.com/ak01a04sh)
