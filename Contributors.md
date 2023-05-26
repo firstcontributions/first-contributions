@@ -208,6 +208,7 @@
 - Megan Cooper (https://github.com/MegRCooper)
 - [Avishkaar](https://github.com/Avishkaar007)
 - [Derek Young](https://github.com/derekpyoung)
+- [Rohan Maindarkar](https://github.com/rohanmr)
 - [Pedro Braga](https://github.com/PedBraga)
 - [Dilshad](https://github.com/a-rustacean)
 - [Stephanie Wong] (https://github.com/steph-wong-15)
