@@ -997,6 +997,7 @@
 - [shaileshb](https://github.com/shaileshhb)
 - [clarai1](https://github.com/clarai1)
 - [Angie Bowen](https://github.com/AngelaBowen)
+- [Mehul_Darshni] (https://github.com/Cypher1002)
 - [Ayush Gupta](https://github.com/gupta07ayush)
 - [Victor F.](https://github.com/victorfyonemoto)
 - [Jasjot Singh](https://github.com/jasjotb)
