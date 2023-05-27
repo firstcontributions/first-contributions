@@ -25,6 +25,7 @@
 - [Andre Chua](https://github.com/andrechuakj)
 - [Hans Ibarra](https://github.com/Falaxsa13)
 - [Sagar Bhat](https://github.com/codingsagar)
+[Pritam Mukherjee]
 - [Anand Lessard](https://github.com/nandofromthebando)
 - [Divy Don](https://github.com/Divy312)
 - [Pranita Dane](https://github.com/pranita28Dane)
