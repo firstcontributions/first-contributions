@@ -11,6 +11,7 @@
 - [✌Husseini Mudi Profsain](https://github.com/Profsain)
 - [Omi](https://github.com/NormTurtle)
 - [Omoogun Olawale](https://github.com/olawale-o)
+- [Matthew West](https://github.com/MattWestGH)
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
 - [Prerna Singh](https://github.com/PrernaSingh01)
 - [Soy Eric](https://github.com/ibrahimeric)
