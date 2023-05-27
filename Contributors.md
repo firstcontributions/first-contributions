@@ -86,6 +86,7 @@
 - [Irfan](https://github.com/Parjival)
 - [Nur Farah](https://github.com/Nur-farah)
 - [Anand Raj](https://github.com/anand346)
+- [Adrian Camuti] (https://github.com/ApogeeAC)
 - [Fernando Pérez](https://github.com/fermop)
 - [Shruti Singh](https://github.com/shruti8302)
 - [Agastya SHARMA](https://github.com/Agastya-07)
