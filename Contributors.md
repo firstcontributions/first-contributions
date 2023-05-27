@@ -57,6 +57,7 @@
 - [Andee Warren](https://github.com/andeewarren)
 - Igniseri
 - [Rima Nurkholifah](https://github.com/rimanurfah)
+- [Sumit Dethe](https://github.com/sumitdethe27)
 - [Karthik Bhandary](https://github.com/karthikbhandary2)
 - [Sarthak](https://github.com/sarthak2131)
 - [Pranit Mane](https://github.com/pranitmane)
