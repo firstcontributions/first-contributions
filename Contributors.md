@@ -32,6 +32,7 @@
 - [Veselin Velchev] (https://github.com/vesv)
 - [Aakash Sharma](https://github.com/Aakash447)
 - [Alex Li](https://github.com/alexcode4ever)
+- [Uttam Shrestha](https://github.com/uttamshr10)
 - [Ripul Handoo](https://github.com/RipulHandoo)
 - [Zvirid Andrei](https://github.com/zviridandrei)
 - [Akshit Aggarwal](https://github.com/akshit-289)
