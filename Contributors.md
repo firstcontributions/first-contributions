@@ -53,6 +53,7 @@
 - [Akshit Aggarwal](https://github.com/akshit-289)
   [Prachi Chauhan](https://github.com/PrachiChauhan23)
 - [Zach Boquet](https://github.com/Kurokio)
+- [Ifeoluwa Aroboto] (https://github.com/IfeoluwaAroboto)
 - [Manideep](https://github.com/Manideep519)
 - [Ilay Eldar](https://github.com/ilayEldar24)
 - [Jonathan Kariuki](https://github.com/JonathanSecondGithub)
