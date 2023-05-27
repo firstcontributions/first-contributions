@@ -317,6 +317,7 @@
 - [Deepali Semwal](https://github.com/semwaldeepali)
 - [Ye Yint Myint Myat](https://github.com/yeyint-bee)
 - [John Clapper](https://github.com/britzky)
+- [Ofek Cohen](https://github.com/OfekCoh1)
 - [Maria Aurellia](https://github.com/mariaadannies)
 - [Sahood cv](https://github.com/sahoodcode)
 - [It's Meghanath again](https://github.com/meghanath852)
