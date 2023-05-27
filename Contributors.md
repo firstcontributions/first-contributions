@@ -1605,6 +1605,7 @@
 - [Xemio](https://github.com/xemioxd)
 - [izkizk8](https://github.com/izkizk8)
 - [sitaram_guduri]
+- [OneEyedPsychoGuy](https://github.com/OneEyedPsychoGuy)
 - [Kooddammn](https://github.com/Kooddammn)
 - [7exx](https://github.com/7exx)
 - [rakesh-kumar](https://github.com/Rakesh709)
