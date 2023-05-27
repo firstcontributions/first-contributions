@@ -214,6 +214,7 @@
 - Rio
 - Justin Valdez
 - Triparna Saha
+- Shashank Sangale
 - Megan Cooper (https://github.com/MegRCooper)
 - [Avishkaar](https://github.com/Avishkaar007)
 - [Derek Young](https://github.com/derekpyoung)
