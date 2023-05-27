@@ -805,6 +805,7 @@
 - [Muhammad Usman](https://github.com/zillBoy)
 - [Sahil Ahmed](https://github.com/PirateOfAndaman)
 - [Arman Kumar](Aditya@DevsocPI)
+- [Sascha X](https://github.com/solorisx)
 - [youngjun1227](https://github.com/youngjun1227)
 - [Preston Harms](https://github.com/R3dPnd)
 - [Tanishq Agarwal](https://github.com/Tanishq2807)
