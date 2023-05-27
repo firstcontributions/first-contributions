@@ -30,6 +30,7 @@
 - [Arturo López](https://github.com/arturolopeze)
 - [Chloe Gavrilovic](https://github.com/cmgvc)
 - [Arslan Asghar](https://github.com/al-arslan)
+- [Ali Aizn](https://github.com/aliaizn)
 - [Piyush Pawar](https://github.com/piyushpawar54)
 - [Kuber Acharya](https://github.com/thekubera)
 - [Aditya patil](https://github.com/AdityaPatil111)
