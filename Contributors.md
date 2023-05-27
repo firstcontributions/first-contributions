@@ -1122,6 +1122,7 @@
 - [Tejas Satpalkar](https://github.com/tejassatpalkar)
 - [Azzarox](https://github.com/azzarox)
 - [Aman Badone](https://github.com/amanbadone)
+- [Pavel Anchev](https://github.com/masive)
 - [Rishabh yaduwanshi](https://github.com/rishabhyaduwanshi)
 - [Suraj Patel](https://github.com/Surajpatel2003)
 - [Raghav Krishan Kedia](https://github.com/Raghav-Kedia)
