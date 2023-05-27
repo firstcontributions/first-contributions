@@ -78,6 +78,7 @@
 - [Sumit Dethe](https://github.com/sumitdethe27)
 - [Karthik Bhandary](https://github.com/karthikbhandary2)
 - [Sarthak](https://github.com/sarthak2131)
+- [Anirudh K Anil](https://github.com/anirudhka00)
 - [Pranit Mane](https://github.com/pranitmane)
 - [Fred Gerner](https://github.com/fgerner)
 - [Rafiul Islam Refat](https://github.com/rirefat)
