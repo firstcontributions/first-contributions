@@ -10,6 +10,7 @@
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 - [✌Husseini Mudi Profsain](https://github.com/Profsain)
 - [Omi](https://github.com/NormTurtle)
+- [Gauri Tripathi](https://github.com/GauriTr)
 - [Omoogun Olawale](https://github.com/olawale-o)
 - [Matthew West](https://github.com/MattWestGH)
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
