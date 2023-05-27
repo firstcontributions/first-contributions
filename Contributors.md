@@ -10,6 +10,7 @@
 - [Omoogun Olawale](https://github.com/olawale-o)
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
 - [Soy Eric](https://github.com/ibrahimeric)
+- [Elizabeth Czarny](https://github.com/Elizabeth-Cz)
 - [aung thu gaming channel](https://github.com/trovel339)
 - [Adarsh Yadav](https://github.com/codebreaker0001)
 - [Alen Chen](https://github.com/ChenYunyue)
