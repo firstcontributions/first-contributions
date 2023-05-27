@@ -94,6 +94,7 @@
 - [Jefferson Warnimont](https://github.com/JeffWarnimont)
 - [Michael McKnight](https://github.com/MichaelMcKnight)
 - [Letizia DI MAIO](https://github.com/leta91)
+- [Pranav](https://github.com/Pranav7651)
 - [Olaoye Muhammad-Nabeel](https://github.com/Developer-in-Tech)
 - [Nina Dijkstra](https://github.com/N-Dijkstra)
 - [Sakshi Raut](https://github.com/SakshiRaut674)
