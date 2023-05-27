@@ -552,6 +552,7 @@
 - [Krishna Jangir](https://github.com/krishna062)
 - [Lorenzzz](https://github.com/lorenzzz)
 - [Muhammad Safi](https://github.com/safimuhammad)
+- [Josh Broomfield] (https://github.com/Josh-Broomfield)
 - [Matt Riccio](https://github.com/ricciomatt)
 - [Vivoiswatching](https://github.com/vivoiswatching)
 - [Ameen](https://github.com/0-yohan)
