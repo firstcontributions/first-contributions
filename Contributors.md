@@ -13,7 +13,7 @@
 - [Adarsh Yadav](https://github.com/codebreaker0001)
 - [Alen Chen](https://github.com/ChenYunyue)
 - [Milan Lakhani](https://github.com/milan-lakhani)
-[Manas Anand Singh](https://github.com/MSAndromeda)
+- [Manas Anand Singh](https://github.com/MSAndromeda)
 - [Mayank Gautam]
 - ![Joshua Ramat](https://github.com/joshuaramat)
 - [Arturo López](https://github.com/arturolopeze)
@@ -52,7 +52,7 @@
 - Bhagyalakshmi
 - Utkarsh Shukla(https://github.com/utkrsh-shukla)
 - Himanshu Tamta
-  [Mohit Yadav](https://github.com/ymohit1603)
+- [Mohit Yadav](https://github.com/ymohit1603)
 - [Andee Warren](https://github.com/andeewarren)
 - Igniseri
 - [Rima Nurkholifah](https://github.com/rimanurfah)
@@ -131,13 +131,13 @@
 - [Jack O'Hare](https://github.com/JackOhare27)
 - [Shibi Ayyanar](https://github.com/Shibi-A)
 - [Thomas Mestdagh](https://github.com/thomasmestdagh)
-- -Yash Mishra
+- Yash Mishra
 - -Ashish Kumar Singh
 - [cybzzz](https://github.com/cybzzz)
 - NandaHein
 - [Raghav Sharma]()
 - [imariom](https://github.com/imariom)
-  -Hardik Sharma
+- Hardik Sharma
 - [Chana Ilani](https://github.com/chanafriedman)
 - [Gamapg](https://github.com/gamapg)
 - Balaji Sadanala
@@ -191,7 +191,7 @@
 - [Luiz Augusto](https://github.com/luizAFS23)
 - [Lukas Haring](https://github.com/mrlukyman/first-contributions)
 - [Jai Vignesh](https://github.com/hsengiviaJ)
-  [Aastha Kumari](https://github.com/aasthak108)
+- [Aastha Kumari](https://github.com/aasthak108)
 - [Ahsan Naqvi](https://github.com/s-ahsan-naqvi)
 - [Taha Parker](https://github.com/tahayparker)
 - [Syed Ayaan Ali](https://github.com/incognito-root)
@@ -364,7 +364,8 @@
 - [Temiwaji](https://github.com/Temiwaji)
 - [Venkatesh-KCET](https://github.com/Venkatesh-KCET)
 - [Jan](https://github.com/Ultr0x)
-  [Abdulsamad Yusuf](https://github.com/samad13)
+- [Pritam-Mukherjee](https://github.com/Pritam-2002)
+-  [Abdulsamad Yusuf](https://github.com/samad13)
 - [Vivek Kumar](https://github.com/vivekkumar0037)
 - [Abhijeet](https://github.com/abhi-jeet-kumar)
 - [Jagger Harness](https://github.com/jaggerharness)
