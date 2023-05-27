@@ -219,6 +219,7 @@
 - Triparna Saha
 - Shashank Sangale
 - Megan Cooper (https://github.com/MegRCooper)
+- Yash Talele
 - [Avishkaar](https://github.com/Avishkaar007)
 - [Derek Young](https://github.com/derekpyoung)
 - [Pedro Braga](https://github.com/PedBraga)
