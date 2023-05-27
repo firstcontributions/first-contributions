@@ -18,6 +18,7 @@
 - [Soy Eric](https://github.com/ibrahimeric)
 - [Elizabeth Czarny](https://github.com/Elizabeth-Cz)
 - [aung thu gaming channel](https://github.com/trovel339)
+- [Pranav Khismatrao](https://github.com/Pranav014)
 - [Adarsh Yadav](https://github.com/codebreaker0001)
 - [Alen Chen](https://github.com/ChenYunyue)
 - [Sushant Bhargav](https://github.com/BhargavSushant)
