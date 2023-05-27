@@ -1526,6 +1526,7 @@
 - [SR](https://githhub.com/suciuradu09)
 - [NickR](https://github.com/nikolayrbdev)
 - [James Whalen](https://github.com/jwhalen93)
+- [Sacha GV](https://github.com/MrSach)
 - [Rohan Jha](https://github.com/roxx30198)
 - [luking](https://github.com/alululululuer)
 - [wiki](https://github.com/alululululuer)
