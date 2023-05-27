@@ -33,6 +33,7 @@
 - [Kuber Acharya](https://github.com/thekubera)
 - [Aditya patil](https://github.com/AdityaPatil111)
 - [Vikas Wakde](https://github.com/VikasWakde)
+- [Adewale Kujore](https://github.com/Adewale66)
 - [Andre Chua](https://github.com/andrechuakj)
 - [Hans Ibarra](https://github.com/Falaxsa13)
 - [Sagar Bhat](https://github.com/codingsagar)
