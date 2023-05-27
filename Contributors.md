@@ -142,6 +142,7 @@
 - [Showzaemon](https://github.com/Showzaemon)
 - [Lenox Mangi](https://github.com/DrBake)
 - [Jack O'Hare](https://github.com/JackOhare27)
+- [Anthony Jared Greathouse](https://github.com/Jared-Greathouse)
 - [Shibi Ayyanar](https://github.com/Shibi-A)
 - [Thomas Mestdagh](https://github.com/thomasmestdagh)
 - [Veer Pratap](https://github.com/Veercodeprog)
