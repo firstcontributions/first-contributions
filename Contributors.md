@@ -1861,7 +1861,7 @@
 - [Jeffery Jiang](https://github.com/jeffery1995)
 - [Sherin Saji](https://github.com/sherinksaji)
 - [Hugo Schulz](https://github.com/HugoSchulz)
-- [Metehan Günen](https://github.com/Metrohan]
+- [Metehan Günen](https://github.com/Metrohan)
 - [northernbelle87](https://github.com/northernbelle87)
 - [Sujal Tangde] (https://github.com/sujaltangde/)
 - [Andres Ponciano] (https://github.com/AndresPonciano)
@@ -1883,6 +1883,7 @@
 - [TKtjpk](https://github.com/TKtjpk)
 - [Lennart Pries](https://github.com/lennart02)
 - [Rochelle](https://github.com/RochelleNi)
+- [iamnas](https://github.com/iamnas)
 - Aviya Atias
 - kritika singh
 - [John Möller](https://github.com/fyradur)
