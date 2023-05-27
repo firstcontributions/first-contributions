@@ -6,6 +6,7 @@
 - [Muhammad Haris](https://github.com/headlessNode)
 - [AlexEG](https://github.com/AlexEG)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
+- [✌Husseini Mudi Profsain](https://github.com/Profsain)
 - [Omi](https://github.com/NormTurtle)
 - [Omoogun Olawale](https://github.com/olawale-o)
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
