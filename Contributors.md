@@ -15,6 +15,7 @@
 - [Milan Lakhani](https://github.com/milan-lakhani)
 [Manas Anand Singh](https://github.com/MSAndromeda)
 - [Mayank Gautam]
+- [Armanya Maheshwari](https://github.com/arm-mahesh)
 - ![Joshua Ramat](https://github.com/joshuaramat)
 - [Arturo López](https://github.com/arturolopeze)
 - [Arslan Asghar](https://github.com/al-arslan)
