@@ -7,6 +7,7 @@
 - [Ilay Eldar](https://github.com/ilayEldar24)
 - [Muhammad Haris](https://github.com/headlessNode)
 - [AlexEG](https://github.com/AlexEG)
+- [emhofer] (https://github.com/emhofer)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 - [✌Husseini Mudi Profsain](https://github.com/Profsain)
 - [Omi](https://github.com/NormTurtle)
