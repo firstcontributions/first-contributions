@@ -71,6 +71,7 @@
   [Mohit Yadav](https://github.com/ymohit1603)
 - [Andee Warren](https://github.com/andeewarren)
 - Igniseri
+-  [hina javed](https://github.com/hinajaved123)
 - [Rima Nurkholifah](https://github.com/rimanurfah)
 - [Sumit Dethe](https://github.com/sumitdethe27)
 - [Karthik Bhandary](https://github.com/karthikbhandary2)
