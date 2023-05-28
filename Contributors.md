@@ -224,6 +224,7 @@
 - [Eugene](https://github.com/eugene0928)
 - [Mohamed El Jelali](https://github.com/AutarcieDevelop)
 - [Farshad](https://github.com/fa125had)
+-[Hadar Salame](https://github.com/HadarSalame)
 - [Luiz Augusto](https://github.com/luizAFS23)
 - [Lukas Haring](https://github.com/mrlukyman/first-contributions)
 - [Jai Vignesh](https://github.com/hsengiviaJ)
