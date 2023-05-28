@@ -85,6 +85,7 @@
 - [Rafiul Islam Refat](https://github.com/rirefat)
 - [Lukasz Gzella](https://github.com/lukasgzella)
 - [Shaik Mohammad Afzal](https://github.com/afzxlsgit)
+- [Khattab Sami Almoraihi](https://github.com/RealFSN)
 - [Lucas Moyano](https://github.com/LucasEPK)
 - [John](https://github.com/duckheap)
 - [Irfan](https://github.com/Parjival)
