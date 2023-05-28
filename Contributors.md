@@ -1854,6 +1854,7 @@
 - [Nipun Agarwal](https://github.com/nipunagarwal4235)
 - [obiwan04kanobi](https://github.com/obiwan04kanobi)
 - [Mickysingh](https://github.com/prabhjotsingh18)
+- [Cossette Alexis Gabuya](https://github.com/cossettealexis)
 - [karlmitterhauser](https://github.com/karlmitterhauser)
 - [RajrishiMitra](https://github.com/RajrishiMitra)
 - [Ravindu Hasantha](https://github.com/ravinduh)
