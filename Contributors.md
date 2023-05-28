@@ -37,6 +37,7 @@
 - [Vikas Wakde](https://github.com/VikasWakde)
 - [Adewale Kujore](https://github.com/Adewale66)
 - [Andre Chua](https://github.com/andrechuakj)
+- [Menua Bedrosian](hhtps://github.com/menuab)
 - [Hans Ibarra](https://github.com/Falaxsa13)
 - [Sagar Bhat](https://github.com/codingsagar)
 - [Anand Lessard](https://github.com/nandofromthebando)
