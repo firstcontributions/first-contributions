@@ -220,6 +220,7 @@
 - [Rohitha Yarlagadda](https://github.com/YRohitha)
 - [Piotr Awramiuk](https://github.com/portrecistajeden)
 - [Chinmay Bhalerao](https://github.com/ChinmayBH)
+- [Fattah Samit](https://github.com/fattahsamit)
 - [Dunson](https://github.com/Dunson)
 - [Eugene](https://github.com/eugene0928)
 - [Mohamed El Jelali](https://github.com/AutarcieDevelop)
