@@ -43,6 +43,7 @@
 - [Divy Don](https://github.com/Divy312)
 - [Pranita Dane](https://github.com/pranita28Dane)
 - [Hastimal Shah](https://github.com/hasti)
+- [Rohan Fulzele](https://github.com/Rohanfulzele)
 - [Veselin Velchev] (https://github.com/vesv)
 - [Aakash Sharma](https://github.com/Aakash447)
 - [Michael Christwin](https://github.com/michaelchristwin)
