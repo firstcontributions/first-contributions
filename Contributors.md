@@ -1598,6 +1598,7 @@
 - [UENO Takahiro](https://github.com/UENOTakahiro)
 - [Derick Tolentino](https://github.com/DerickT02)
 - [lemonadeseason](https://github.com/lemonadeseason)
+- [Rupheo](https://github.com/rupesh11101999)
 - [Alec Campos](https://github.com/Ajc1233)
 - [Tijme](https://github.com/7ijme)
 - [Bernard](https://github.com/kibathi)
