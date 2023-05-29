@@ -976,6 +976,7 @@
 - [Rahul chaurasiya](https://github.com/Rahul-chaurasiya?)
 - [Adèle Pluquet](https://github.com/apluquet)
 - [Avanish Shenoy](https://github.com/Ashenoy64)
+- [GeoM6Boxer](https://github.com/GeoM6Boxer)
 - [Jesús Córdova Núñez](https://github.com/antonyjes)
 - [Adrien ANTON LUDWIG](https://github.com/Adrien-ANTON-LUDWIG)
 - [Manish](https://github.com/manish-xyz)
