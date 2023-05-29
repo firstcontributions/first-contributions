@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Rex Cheng](https://github.com/lychengrex)
+- [Akshay Mundra](https://github.com/Akshay272003)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Ilay Eldar](https://github.com/ilayEldar24)
 - [Muhammad Haris](https://github.com/headlessNode)
