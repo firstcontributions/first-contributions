@@ -113,7 +113,7 @@
 - [Swastik Bansal](https://github.com/swastikbansal)
 - [Krutartha Nagesh](https://github.com/krutartha)
 - [Vance Sama](https://github.com/VansRouges)
-- [Aurelio Hernández López] (https://github.com/hernanes338)
+- [Aurelio Hernández López](https://github.com/hernanes338)
 - [Mushfiqur Rahman](https://github.com/mushfiq13)
 - [colonia_duck](https://github.com/colonia-duck)
 - [birendra07](https://github.com/birendra07)
