@@ -3,7 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Rex Cheng](https://github.com/lychengrex)
-- [Arun K S]https://github.com/arunks804)
+- [Arun K S](https://github.com/arunks804)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Ilay Eldar](https://github.com/ilayEldar24)
 - [Muhammad Haris](https://github.com/headlessNode)
