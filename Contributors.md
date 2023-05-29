@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Rex Cheng](https://github.com/lychengrex)
+- [Tamara Patterson](https://github.com/tamarabuilds)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Ilay Eldar](https://github.com/ilayEldar24)
 - [Muhammad Haris](https://github.com/headlessNode)
