@@ -67,6 +67,7 @@
 - [Shivam Singh](https://github.com/shivamks1998)
 - Kishan Monhoal
 - [Rakesh](https://github.com/rakeshcj)
+-  shlomo-michalovich
 - IamMahfooz
 - [Noriomusha](https://github.com/Noriomusha)
 - Bhagyalakshmi
