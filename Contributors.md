@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Sougrinoma Sawadogo](https://github.com/sougrinoma-sawadogo)
 - [Rex Cheng](https://github.com/lychengrex)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Ilay Eldar](https://github.com/ilayEldar24)
