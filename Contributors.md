@@ -366,6 +366,7 @@
 - [Aleks_Lucenko](https://github.com/alekslucenko)
 - Vineet Sirohi
 - Dewayne Austin
+- [Palisetti Chanikya](https://github.com/palisettychanikya)
 - Shira Weissman
 - Vishesh
 - [Jenny_Quan](https://github.com/jennyq7)
@@ -1919,4 +1920,3 @@
 - [Abbie Sims](https://github.com/abbiesims]
 - [Ahmad Abdelhameed](https://github.com/AhmadAbdElhameed)
 - [Ajitesh Kumar Singh](https://github.com/transyltooniaa)
-
