@@ -25,6 +25,7 @@
   [Manas Anand Singh](https://github.com/MSAndromeda)
 - [Mayank Gautam]
 - [Abhishek Kumar](https://github.com/abhishek-Roy22)
+- [Erika Cheyenne](https://github.com/ch-eyenne)
 - ![Joshua Ramat](https://github.com/joshuaramat)
 - [HP] (https://github.com/Black-Hwak)
 - [Arturo López](https://github.com/arturolopeze)
