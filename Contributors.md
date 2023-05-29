@@ -32,6 +32,7 @@
 - [Arslan Asghar](https://github.com/al-arslan)
 - [Ali Aizn](https://github.com/aliaizn)
 - [Piyush Pawar](https://github.com/piyushpawar54)
+- [Devojoyti Pal](https://github.com/Devojoytip)
 - [Kuber Acharya](https://github.com/thekubera)
 - [Aditya patil](https://github.com/AdityaPatil111)
 - [Vikas Wakde](https://github.com/VikasWakde)
