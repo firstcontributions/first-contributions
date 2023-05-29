@@ -1919,4 +1919,4 @@
 - [Abbie Sims](https://github.com/abbiesims]
 - [Ahmad Abdelhameed](https://github.com/AhmadAbdElhameed)
 - [Ajitesh Kumar Singh](https://github.com/transyltooniaa)
--[minesyw](https://github.com/shelter009)
+- [minesyw](https://github.com/shelter009)
