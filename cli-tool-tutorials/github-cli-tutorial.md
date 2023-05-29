@@ -86,7 +86,7 @@ You can use the command `gh status` to see your mentioned pull request in action
 
 ## Where to go from here?
 
-Congratulations! You have just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
+Congratulations!!! You have just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
 
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
 
