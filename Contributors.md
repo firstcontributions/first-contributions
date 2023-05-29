@@ -1369,6 +1369,7 @@
 - [Michal Lata](https://github.com/lata-michal)
 - [Ravi yadav](https://github.com/strange605)
 - [Santiago Fernandez](https://github.com/lostwalle268)
+- [Amit Sharma](https://github.com/amitsharma21)
 - [thofa](https://github.com/musthofasyarifudin)
 - [Jose Martinez](https://github.com/Jnmarti88/)
 - [Klee-cocow](https://github.com/Klee-cocow)
