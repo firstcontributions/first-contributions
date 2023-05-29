@@ -1919,5 +1919,5 @@
 - [Abbie Sims](https://github.com/abbiesims]
 - [Ahmad Abdelhameed](https://github.com/AhmadAbdElhameed)
 - [Ajitesh Kumar Singh](https://github.com/transyltooniaa)
-- .[Navaneeth Sreedharan](https://github.com/neogit017)
+- [Navaneeth Sreedharan](https://github.com/neogit017)
 
