@@ -1919,4 +1919,5 @@
 - [Abbie Sims](https://github.com/abbiesims]
 - [Ahmad Abdelhameed](https://github.com/AhmadAbdElhameed)
 - [Ajitesh Kumar Singh](https://github.com/transyltooniaa)
+- [R_Coding_Guy](https://github.com/Aqua0Coffin)
 
