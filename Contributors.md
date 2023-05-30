@@ -98,6 +98,7 @@
 - [Prabal Sharma](https://github.com/prabalsh19)
 - [JT Fox](https://github.com/jtfox142)
 - [Tindan Cletus](https://github.com/cletus-cyber)
+- [firesign2023](https://github.com/firesign2023)
 - [Nadeem Ahmad](https://github.com/ahmadnadeem6236)
 - [Chielota Miracle](https://github.com/chielota)
 - [Marshall Blatz](https://github.com/marshall-blatz)
