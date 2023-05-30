@@ -1048,6 +1048,7 @@
 - [Subrata Mondal](https://github.com/subratamondal1)
 - [Ayush Gupta](https://github.com/gupta07ayush)
 - [Victor F.](https://github.com/victorfyonemoto)
+- [alexvloure](https://github.com/alexvloure)
 - [Jasjot Singh](https://github.com/jasjotb)
 - [Andre Müller](https://github.com/Amueller36)
 - [Sassan Zomorodi](https://github.com/SassanZmd)
