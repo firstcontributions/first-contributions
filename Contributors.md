@@ -1865,7 +1865,8 @@
 - [Sunil S. Singh](https://github.com/sssingh)
 - [Orion Wesson] (https://github.com/EnterOrion)
 - [San-ctuary](https://github.com/San-ctuary)
-- [Thiago Fukuyama Marcilli](https://github.com/ThiagoFukuyama) -[Ayush Tibrewal](https://github.com/chromo4)
+- [Thiago Fukuyama Marcilli](https://github.com/ThiagoFukuyama)
+ -[Ayush Tibrewal](https://github.com/chromo4)
 - [Rayner Susanto](https://github.com/raynersusanto0)
 - [Ahmed ElSaeed](https://github.com/asmpro7)
 - [Krishnaraja Sagar](https://krishnarajasagar.github.io)
@@ -1877,7 +1878,7 @@
 - [Jeffery Jiang](https://github.com/jeffery1995)
 - [Sherin Saji](https://github.com/sherinksaji)
 - [Hugo Schulz](https://github.com/HugoSchulz)
-- [Metehan Günen](https://github.com/Metrohan]
+- [Metehan Günen](https://github.com/Metrohan)
 - [northernbelle87](https://github.com/northernbelle87)
 - [Sujal Tangde] (https://github.com/sujaltangde/)
 - [Andres Ponciano] (https://github.com/AndresPonciano)
@@ -1916,7 +1917,7 @@
 - AprilZhou
 - [Mayank saini](https://github.com/Mayanksaini1234)
 - [Winnie Jeng](https://github.com/winniewjeng)
-- [Abbie Sims](https://github.com/abbiesims]
+- [Abbie Sims](https://github.com/abbiesims)
 - [Ahmad Abdelhameed](https://github.com/AhmadAbdElhameed)
 - [Ajitesh Kumar Singh](https://github.com/transyltooniaa)
-
+- [Sneha N](https://github.com/sneha18073)
