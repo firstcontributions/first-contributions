@@ -215,7 +215,7 @@
 - [Abtuly](https://github.com/Abtuly)
 - Tejas Chouhan
 - [Luca Castronova] (https://github.com/lucastronova)
-- [Jay Singh] (https://github.com/JaySingh79	)
+- [Jay Singh](https://github.com/JaySingh79	)
 - [Aasim Qureshi](https://github.com/itisaasim)
 - [Solmaz Arezoomandan](https://github.com/Soltechie)
 - [Rohitha Yarlagadda](https://github.com/YRohitha)
