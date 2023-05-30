@@ -1422,6 +1422,7 @@
 - [Kevin](https://github.com/KevinIsCool79)
 - [Kkaminsk86](https://github.com/Kkaminsk86)
 - [grigaut](https://github.com/grigaut)
+- [Scott Knudsen](https://github.com/scottknudsen1)
 - [Sarat Kota](https://github.com/kotasarat)
 - [Rahul Badade](https://github.com/rahulb18)
 - [Gavin Meeker](https://github.com/gmeeker99)
