@@ -165,7 +165,7 @@
 - [Anthony Jared Greathouse](https://github.com/Jared-Greathouse)
 - [Shibi Ayyanar](https://github.com/Shibi-A)
 - [Thomas Mestdagh](https://github.com/thomasmestdagh)
-- [HanzalaSheikh] (https://github.com/HanzalaSheikh)
+- [HanzalaSheikh](https://github.com/HanzalaSheikh)
 - [Veer Pratap](https://github.com/Veercodeprog)
 - -Yash Mishra
 - -Ashish Kumar Singh
