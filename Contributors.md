@@ -12,6 +12,7 @@
 - [Omi](https://github.com/NormTurtle)
 - [Gauri Tripathi](https://github.com/GauriTr)
 - [Omoogun Olawale](https://github.com/olawale-o)
+- [Isaac Achenbach](https://github.com/isaacach)
 - [Matthew West](https://github.com/MattWestGH)
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
 - [Prerna Singh](https://github.com/PrernaSingh01)
