@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Devanshu Augusty](https://github.com/Devanshu-Augusty)
 - [Rex Cheng](https://github.com/lychengrex)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Ilay Eldar](https://github.com/ilayEldar24)
