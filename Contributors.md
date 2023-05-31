@@ -1033,6 +1033,7 @@
 - [Abhijith H](https://github.com/Abhijith-H13)
 - [Abhighyaa](https://github.com/Abhighyaa)
 - [Alfeu Xerinda](https://githhub.com/Hard-007)
+- [Adrián Torres](https://github.com/Adri0s)
 - [Darcano Iglicoffi](https://github.com/shmudivel)
 - [Xavier Sow](https://github.com/xaviersow)
 - [Miapp](https://github.com/MichalPKN)
