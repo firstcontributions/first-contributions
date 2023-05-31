@@ -232,6 +232,7 @@
 - [Taha Parker](https://github.com/tahayparker)
 - [Syed Ayaan Ali](https://github.com/incognito-root)
 - [Shivam Raj](https://github.com/SHIVAM-RAJ7)
+- [Tejasv Bhal](https://github.com/TejasvBHAL/)
 - [BigRexSoftware](https://github.com/bigrexsoftware)
 - [Rahul Dhavale](https://github.com/futureofworld)
 - [Harsh P V](https://github.com/harshpv07)
