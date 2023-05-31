@@ -28,6 +28,7 @@
 - ![Joshua Ramat](https://github.com/joshuaramat)
 - [HP] (https://github.com/Black-Hwak)
 - [Arturo López](https://github.com/arturolopeze)
+- [Nick Surferboy](https://github.com/Nick-surferboy)
 - [Chloe Gavrilovic](https://github.com/cmgvc)
 - [Arslan Asghar](https://github.com/al-arslan)
 - [Ali Aizn](https://github.com/aliaizn)
