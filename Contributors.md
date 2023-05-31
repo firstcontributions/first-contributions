@@ -74,7 +74,7 @@
 - Himanshu Tamta
   [Mohit Yadav](https://github.com/ymohit1603)
 - [Andee Warren](https://github.com/andeewarren)
-- [Igor Filgueira] https://github.com/igorfilgueira
+- [Igor Filgueira](https://github.com/igorfilgueira)
 - Igniseri
 - [Rima Nurkholifah](https://github.com/rimanurfah)
 - [Sumit Dethe](https://github.com/sumitdethe27)
