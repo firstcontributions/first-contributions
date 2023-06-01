@@ -169,6 +169,7 @@ Ti Kyi Khant
 - [Ahamed Saheer](https://github.com/saheer-ahamed)
 - [Etinosa Ekhator](https://github.com/Etinosa22)
 - [seongjunyeong](https://github.com/seongjunyeong)
+- [Elizabeth Kihuha](https://github.com/enjesh)
 - [jong-k](https://github.com/jong-k)
 - [Mohamed Ali Nor](https://github.com/IbnuAlii)
 - [Jungmw03](https://github.com/Jungmw03)
