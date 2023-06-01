@@ -47,8 +47,7 @@
 - [Aakash Sharma](https://github.com/Aakash447)
 - [Michael Christwin](https://github.com/michaelchristwin)
 - [Alex Li](https://github.com/alexcode4ever)
-- [Ripul Handoo](https://github.com/RipulHandoo)
--[Pritam Roy](https://github.com/Pritam1136)
+- [Ripul Handoo](https://github.com/RipulHandoo) -[Pritam Roy](https://github.com/Pritam1136)
 - [Zvirid Andrei](https://github.com/zviridandrei)
 - [Akshit Aggarwal](https://github.com/akshit-289)
   [Prachi Chauhan](https://github.com/PrachiChauhan23)
@@ -88,8 +87,7 @@
 - [Lucas Moyano](https://github.com/LucasEPK)
 - [John](https://github.com/duckheap)
 - [Irfan](https://github.com/Parjival)
-- [Nur Farah](https://github.com/Nur-farah)
--[eyitayo babatope](https://github.com/eyitayo-alt)
+- [Nur Farah](https://github.com/Nur-farah) -[eyitayo babatope](https://github.com/eyitayo-alt)
 - [Anand Raj](https://github.com/anand346)
 - [Adrian Camuti] (https://github.com/ApogeeAC)
 - [Fernando Pérez](https://github.com/fermop)
@@ -1371,6 +1369,7 @@
 - [Santiago Fernandez](https://github.com/lostwalle268)
 - [thofa](https://github.com/musthofasyarifudin)
 - [Jose Martinez](https://github.com/Jnmarti88/)
+- [Dexter Kong](http://github.com/dexico-gme)
 - [Klee-cocow](https://github.com/Klee-cocow)
 - [Gabriela](https://github.com/gabrysia97)
   [Spencer Gee](https://github.com/SpencerGee)
@@ -1919,4 +1918,3 @@
 - [Abbie Sims](https://github.com/abbiesims]
 - [Ahmad Abdelhameed](https://github.com/AhmadAbdElhameed)
 - [Ajitesh Kumar Singh](https://github.com/transyltooniaa)
-
