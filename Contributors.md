@@ -1918,5 +1918,6 @@
 - [Winnie Jeng](https://github.com/winniewjeng)
 - [Abbie Sims](https://github.com/abbiesims]
 - [Ahmad Abdelhameed](https://github.com/AhmadAbdElhameed)
-- [Ajitesh Kumar Singh](https://github.com/transyltooniaa)
+- [Ajitesh Kumar Singh
+- [gaeduf](https://github.com/gaeduf)
 
