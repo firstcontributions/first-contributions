@@ -6,6 +6,7 @@
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Ilay Eldar](https://github.com/ilayEldar24)
 - [Muhammad Haris](https://github.com/headlessNode)
+- [Vedang](https://github.com/vedang685)
 - [AlexEG](https://github.com/AlexEG)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 - [✌Husseini Mudi Profsain](https://github.com/Profsain)
