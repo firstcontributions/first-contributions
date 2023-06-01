@@ -1768,6 +1768,7 @@
 - [Shaneka Lewis](https://github.com/shanekalewis)
 - [Grego Pantelis](https://github.com/gregop)
 - [Pranjal Animesh](https://github.com/pranjalanimesh/)
+- [Bekzod Tolipov](https://github.com/BekzodTolipov)
 - [Guy Turevich](https://github.com/GuyTurevich)
 - [Ian Maestro](https://github.com/itsmaestro)
 - Peter Lustig
