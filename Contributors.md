@@ -11,7 +11,7 @@
 - [✌Husseini Mudi Profsain](https://github.com/Profsain)
 - [Omi](https://github.com/NormTurtle)
 - [Gauri Tripathi](https://github.com/GauriTr)
-- [Madhav Jaishi] (https://github.com/MadhavJaishi)
+- [Madhav Jaishi](https://github.com/MadhavJaishi)
 - [Omoogun Olawale](https://github.com/olawale-o)
 - [Matthew West](https://github.com/MattWestGH)
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
