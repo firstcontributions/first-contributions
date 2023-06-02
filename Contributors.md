@@ -4,6 +4,7 @@
 
 - [Rex Cheng](https://github.com/lychengrex)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
+- [Muhammad Noman] (https://github.com/znoman09)
 - [Ilay Eldar](https://github.com/ilayEldar24)
 - [Muhammad Haris](https://github.com/headlessNode)
 - [AlexEG](https://github.com/AlexEG)
