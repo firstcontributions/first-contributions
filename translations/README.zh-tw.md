@@ -85,6 +85,17 @@ git push origin <add-your-name>
 ```
 將 `<add-your-name>` 替換為之前新建的分支名稱。
 
+<details>
+<summary> <strong>如果在 push（發佈）过程中出 error（錯誤），點擊這裡</strong> </summary>
+
+- ### Authentication Error
+     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  去 [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) 學習如何生成新的 SSH 密匙以及配置。
+
+</details>
+
 ## 提出 Pull Request 將你/妳的修改供他人審閱
 
 前往先前自己 Fork 的 GitHub 儲存庫，會看到一個 `Compare & pull request` 的按鈕，點選該按鈕。

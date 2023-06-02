@@ -9,6 +9,8 @@
 
 你可以通过阅读文章和观看教程来得到帮助，但上手实操才是最好的学习方式。本项目旨在简化并指导初学者参与他们的第一次开源。记住：过程越轻松，学习效益越高。如果你想要做出第一次贡献，只需按照以下简单步骤操作即可。这将会是一个很有趣的过程 :)
 
+_如果你对 command line（命令行）不熟悉，请参考以下的 [GUI 工具教程](#使用其他工具的教程)。_
+
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 如果你的电脑上未安装 git, 请参考 [GitHub 文档](https://docs.github.com/cn/get-started/quickstart/set-up-git) 进行安装。
@@ -82,6 +84,17 @@ git commit -m "Add <你的名字> to Contributors list"
 git push origin <分支的名称>
 ```
 将 `<分支的名称>` 替换为之前新建的分支名称。
+
+<details>
+<summary> <strong>如果在 push（发布）过程中出 error（错误），点击这里</strong> </summary>
+
+- ### Authentication Error
+     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  去 [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) 学习如何生成新的 SSH 密匙以及配置。
+
+</details>
 
 ## 提出 Pull Request 将你的修改供他人审阅
 
