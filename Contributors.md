@@ -1916,7 +1916,8 @@
 - AprilZhou
 - [Mayank saini](https://github.com/Mayanksaini1234)
 - [Winnie Jeng](https://github.com/winniewjeng)
-- [Abbie Sims](https://github.com/abbiesims]
+- [Abbie Sims](https://github.com/abbiesims)
 - [Ahmad Abdelhameed](https://github.com/AhmadAbdElhameed)
 - [Ajitesh Kumar Singh](https://github.com/transyltooniaa)
+- [vivekanandOjha](https://github.com/vivekanandOjha)
 
