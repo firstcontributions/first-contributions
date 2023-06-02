@@ -1,6 +1,6 @@
 # Contributors
 
-<!-- prettier-ignore-start -->
+<!-- prettier-ignore-start and welcome -->
 
 - [Rex Cheng](https://github.com/lychengrex)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
