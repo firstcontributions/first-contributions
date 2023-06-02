@@ -1074,6 +1074,7 @@
 - [Brendon Rofe](https://github.com/brendon-rofe)
 - [Rakshit Gupta](https://github.com/rakshitgupta23)
 - [Cherlan-Miche PHILIPPE](https://github.com/LandoSansNom)
+  [Augustine George](https://github.com/augustine1252003)
 - [Dia Promod](https://github.com/diapromod)
 - [Sameera Dissanayaka](https://github.com/ceylonprogrammer)
 - [Chirag Chakraborty](https://github.com/noobchirag69)
