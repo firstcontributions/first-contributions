@@ -1741,6 +1741,7 @@
 - jake396
 - [Thomas Blood](https://github.com/N0Heart)
 - [Josiah Tesfu] (https://github.com/josiah-tesfu)
+- [Otavie Okuoyo](https://github.com/Otavie)
 - [Mathesukkj](https://github.com/mathesukkj)
 - [marken-0](https://github.com/marken-0)
 - [Sarah Ahmed](https://github.com/sah11-0)
