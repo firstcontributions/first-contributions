@@ -239,6 +239,7 @@
 - [Leonardo Moura](https://github.com/leonardommascarenhas)
 - Sabya
 - Rio
+- J3exellence
 - Justin Valdez
 - Triparna Saha
 - Shashank Sangale
