@@ -1799,6 +1799,7 @@
 - [Mike Reed](https://github.com/mreed5812)
 - [shibu5uke](https://github.com/shibu5uke)
 - [Animesh Kumar](https://github.com/wttc-nitr)
+- [Suhas Sumukh](https://github.com/suhasasumukh)
 - [Murilo Moraes Cabral](https://github.com/murilomcabral)
 - [Rudi O&#39;Kelly](https://github.com/Die-Meester)
 - [Ricardo Mello](https://github.com/ricardohsmello)
