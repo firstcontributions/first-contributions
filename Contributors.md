@@ -597,6 +597,7 @@
 - [JP Robbins](https://github.com/JP-Robbins)
 - [Prasanth Prabakaran](https://github.com/prasanthprabakaran)
 - [Aroboto Ife](https://github.com/IfeoluwaAroboto)
+- [Suraj Gupta](https://github.com/builtbysuraj)
 - [Atharv powalkar](https://github.com/07-Atharv)
 - [Jordan](https://github.com/chowweijun)
 - [Felipe](https://github.com/fsanchez1397)
