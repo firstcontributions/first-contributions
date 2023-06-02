@@ -191,6 +191,7 @@
 - Manny G
 - [Farzan Ekram](https://github.com/farzanekram07)
 - [Mike Tagg](https://github.com/mdtagg)
+[Mandeep](https://github.com/Mandeep-009)
 - [Shivam Kumar Yadav](https://github.com/Thesky9474)
 - [Kriti Arora](https://github.com/kritiarora2003)
 - [Rohit Shende](https://github.com/rohitshshende0)
