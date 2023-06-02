@@ -888,6 +888,7 @@
 - [Santiago Urbano](https://github.com/sanurb)
 - [સ્મિત કાછડીયા](https://github.com/smeekas)
 - [Nanikasi](https://github.com/nanikasi)
+- [Gustavo Cordeiro](https://github.com/gustavocordeiro23)
 - [Rao Khuram Shahzad](https://github.com/KhuramShahzad-5335)
 - [Nikita Mahamuni](https://github.com/Nikita0509/)
 - [Yash Deharia](https://github.com/yashdeharia)
