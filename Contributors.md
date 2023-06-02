@@ -8,6 +8,7 @@
 - [Muhammad Haris](https://github.com/headlessNode)
 - [AlexEG](https://github.com/AlexEG)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
+- [YMA](https://github.com/YimonA)
 - [✌Husseini Mudi Profsain](https://github.com/Profsain)
 - [Omi](https://github.com/NormTurtle)
 - [Gauri Tripathi](https://github.com/GauriTr)
