@@ -997,6 +997,7 @@
 - [Viggy Vanchinathan](https://github.com/vviggyy)
 - [Elizabeth Kihuha](https://github.com/enjesh)
 - [Dhanesh Phulphagar](https://github.com/darayn)
+- [Jack Heywood](https://github.com/jackheywood)
 - [Rishi Singh](https://github.com/mrsingh-rishi)
 - [Arpan Adlakhiya](https://github.com/mrr0b0t-0x1)
 - [Nia Ahmed](https://github.com/technialogy)
