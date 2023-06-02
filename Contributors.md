@@ -66,6 +66,7 @@
 - [Dheeraj Jha](https://github.com/Dheerajjha451)
 - [Shivam Singh](https://github.com/shivamks1998)
 - Kishan Monhoal
+- [ChSatyaSavith](https://github.com/ChSatyaSavith)
 - [Rakesh](https://github.com/rakeshcj)
 - IamMahfooz
 - [Noriomusha](https://github.com/Noriomusha)
