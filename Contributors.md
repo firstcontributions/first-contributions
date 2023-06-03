@@ -2071,6 +2071,7 @@ greeshmanth
 - [swarup_E7](https://github.com/swarupe7)
 - [Lasse_Buch](https://github.com/LasseBuchAspIT)
 - <!-- prettier-ignore-end -->
+- [Naveen Avula](https://github.com/Avula-Naveen)
 - [Sameer Kumar singh](https://github.com/xvisierra)
 - [Jimmy Batuhan](https://github.com/jimmybatuhan)
 - [Nivin](https://github.com/ilynivin)
