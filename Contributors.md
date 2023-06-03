@@ -599,6 +599,7 @@ Aaron
 - [Ayan Majumder](https://github.com/ayan910)
 - [Andrei Kuniutka](https://github.com/akuniutka)
 - [Zaakir Kamar](https://github.com/ZaakirKamar)
+- [Salman Akhtar](https://github.com/salmanakhtar57)
 - [Chris Banks](https://github.com/Chrix197)
 - [Robert West](https://github.com/rolewest)
 - [Houssem_Brahem](https://github.com/HotPatates)
