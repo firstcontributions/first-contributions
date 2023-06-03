@@ -81,6 +81,7 @@
 - [Andee Warren](https://github.com/andeewarren)
 - Igniseri
 - [Rima Nurkholifah](https://github.com/rimanurfah)
+- [PJ Angeloni 🔭🔬💻](https://github.com/PaoloJr90)
 - [Sumit Dethe](https://github.com/sumitdethe27)
 - [Karthik Bhandary](https://github.com/karthikbhandary2)
 - [Sarthak](https://github.com/sarthak2131)
