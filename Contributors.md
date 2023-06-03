@@ -2029,6 +2029,7 @@ Rishabh Pandey
 - [Sohan Palekar@DevsocPI]
 - [Sohan@DevsocPI]
 - [Ryan Murphy]
+- [Daniel Lee]
 - [Abdullahi Yusuf](https://github.com/abdullahiheart)
 - [Aleksandr Bochkarev](https://github.com/sash00k/)
 - [Dylan Messerly](https://github.com/CodeDTX11)
