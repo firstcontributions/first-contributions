@@ -17,6 +17,7 @@
 - [Damoon Darvishi](https://github.com/DamoonDarvishi)
 - [Omi](https://github.com/NormTurtle)
 - [Gauri Tripathi](https://github.com/GauriTr)
+- [Colin McKerracher](https://github.com/colmck)
 - [Omoogun Olawale](https://github.com/olawale-o)
 - [Matthew West](https://github.com/MattWestGH)
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
