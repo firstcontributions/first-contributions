@@ -5,6 +5,7 @@
 - [Aaron Newbigging](https://github.com/Pastasource)
 - [Rex Cheng](https://github.com/lychengrex)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
+- [Youssef Jrab](https://github.com/yjrab)
 - [Ilay Eldar](https://github.com/ilayEldar24)
 - [Zachary Murphy](https://github.com/ZacharyJTMurphy)
 - [Muhammad Haris](https://github.com/headlessNode)
