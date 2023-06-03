@@ -987,6 +987,7 @@ Aaron
 - [Manish Kumar](https://github.com/Manish-kumar-DEV)
 - [Nora Aguirre](https://github.com/nora-programadora)
 - [Vijay Aadhithya](https://github.com/vijayaadhithya2019rit)
+- [Kelvin Favarin](https://github.com/kelvinamaral)
 - [Guna Abola](https://github.com/g-abola)
 - [imckenzi3](https://github.com/imckenzi3)
 - [Ubirajara Almeida](https://github.com/ualmeida55)
