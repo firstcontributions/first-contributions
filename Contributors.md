@@ -1165,6 +1165,7 @@ Aaron
 - [Jesse Gerbrandt](https://github.com/Jgerbrandt)
 - [Aditya Singhal](https://github.com/adityaacse)
 - [PDPkrypto](https://github.com/kodevasse)
+- [Christopher Fitzgerald](https://github.com/christopherfitzgerald)
 - [Avaray](http://github.com/Avaray)
 - [Utsav Akash Naskar](https://github.com/Utsav1999)
 - [Anish Doshi](https://github.com/doshianish8)
