@@ -104,6 +104,7 @@
 - IamMahfooz
 - [nnminhtan](https://github.com/nnminhtan)
 - [Noriomusha](https://github.com/Noriomusha)
+- [Aditya Agarwal](https://github.com/adi790uu)
 - Bhagyalakshmi
 - Utkarsh Shukla(https://github.com/utkrsh-shukla)
 - Himanshu Tamta
