@@ -121,6 +121,7 @@
 - [Thamer](https://github.com/ThamerMalki)
 - [Lyubomir](https://github.com/LyubomirD)
 - [Julie Clegg](https:///github.com/jclegg31)
+- [Chan](https:///github.com/sitnyein)
 - [Sharath](https://github.com/r-sharath)
 - [Saukar Manjunath](https://github.com/ManjunathSaukar)
 - [Kamal Koranga](https://github.com/Kamalkoranga)
