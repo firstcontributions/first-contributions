@@ -137,6 +137,7 @@
 - [Adrian Camuti] (https://github.com/ApogeeAC)
 - [Phil] (https://github.com/psmail147)
 - [Fernando Pérez](https://github.com/fermop)
+- [Alok Desai](https://github.com/zoddTheImmortal)
 - [Shruti Singh](https://github.com/shruti8302)
 - [Agastya SHARMA](https://github.com/Agastya-07)
 - [Zhaoqi Xia](https://github.com/zhaoqix2)
