@@ -1329,6 +1329,7 @@ Aaron
 - [Keerthana Satheesh](https://github.com/Keerthana734)
 - [Shivram Venkatachalam](https://github.com/shivramvenkatachalam)
 - [LyffLyff](https://github.com/LyffLyff)
+- [Mchael Cole](https://github.com/ColemDev)
 - [Kunal Bisht](https://github.com/lanukk)
 - [Ethan Jausions](https://github.com/EthanJausions)
 - [mkosmo](https://github.com/mkosmo)
