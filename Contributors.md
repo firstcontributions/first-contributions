@@ -1948,6 +1948,7 @@ Aaron
 - [Dev Rishi Jain] (https://github.com/DevRishiJain)
 - [crestianiam](https://github.com/crestianiam)
 - [Wai Lee](https://github.com/halfwai)
+- [khadar vali](https://github.com/khadar1020)
 - [Niek Jacobse](https://github.com/NiekJacobse)
 - [Zeeshan Khan](https://github.com/Klassy-Kartoon)
 - [Fazlı Berk Ördek](https://github.com/fazliberkordek)
