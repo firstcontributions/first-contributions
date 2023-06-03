@@ -418,6 +418,7 @@ Aaron
 - [Jay Adeyina](https://github.com/Hyuuga81)
 - [Woon Koh](https://github.com/kohwdev)
 - [muralinet](https://github.com/muralinet/)
+- [Haylay Tsegab](https://github.com/HaylayTsegab/)
 - [dhanushgowdahm](https://github.com/dhanushgowdahm)
 - [roshaandev](https://github.com/roshaandev/)
 - [mrpgmr](https://github.com/https://github.com/mrpgmr67)
