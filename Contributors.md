@@ -40,6 +40,7 @@
 - [Siim Sink](https://github.com/sinkkkk)
 - [Mayank Gautam]
 - [Abhishek Kumar](https://github.com/abhishek-Roy22)
+- [Matt Jarrett](https://github.com/mvjarrett)
 - ![Joshua Ramat](https://github.com/joshuaramat)
 - [Sekinat Oyero](https://github.com/Sekinat-oyero)
 - [HP] (https://github.com/Black-Hwak)
