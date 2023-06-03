@@ -353,6 +353,7 @@ Aaron
 - [Glen Wojnar](https://github.com/glwo)
 - [Cristian Gomez](https://github.com/Cristian96g)
 - [Abhinav Thapa](https://github.com/abhinavthapa1998)
+- [Haroon Atif](https://github.com/Haroon-Atif)
 - [Nathamuni](https://github.com/Nathamuni)
 - [Dheeraj Saraogi](https://github.com/dheerajsaraogi)
 - [Tshenolo Mos](https://github.com/tshenolo)
