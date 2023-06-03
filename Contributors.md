@@ -788,6 +788,7 @@ Aaron
 - [Meghanath Reddy](https://github.com/meghanath852)
 - [Jeet Oza](https://github.com/Oza-Jeetkumar-Vishnubhai)
 - [Ayush Dodiya](https://github.com/AHD153)
+- [Jeremiah Oluwakoya](https://github.com/jriffs)(03 Jun 2023)
 - [KDE030617](https://github.com/KDE030617)
 - [starR-ight](https://github.com/StarR-ight)
 - [Leigh-Ola](https://github.com/Leigh-Ola)
