@@ -1613,6 +1613,7 @@ Aaron
 - [Ordin Zabek](https://github.com/ordinz)
 - [Maksim Ivanov](https://github.com/splincool)
 - [Natalie Lopez](https://github.com/Nlopez4)
+- [Leonardo Lima](https://github.com/leolimaf)
 - [Pavan Bagwe](https://github.com/pavanb0)
 - [Reduan Masud](https://github.com/reduanmasud)
 - [William Dutra](https://github.com/WilliamDutra)
