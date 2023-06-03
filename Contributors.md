@@ -41,6 +41,7 @@
 - [Mayank Gautam]
 - [Abhishek Kumar](https://github.com/abhishek-Roy22)
 - ![Joshua Ramat](https://github.com/joshuaramat)
+- [Sekinat Oyero](https://github.com/Sekinat-oyero)
 - [HP] (https://github.com/Black-Hwak)
 -[kavearhasi](https://github.com/kavearhasi)
 - [Arturo López](https://github.com/arturolopeze)
