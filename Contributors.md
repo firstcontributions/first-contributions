@@ -61,6 +61,7 @@
 - [Jonathan Kariuki](https://github.com/JonathanSecondGithub)
 - [Akhil](https://github.com/Akhil-77)
 - [Javier Ramirez](https://github.com/ramirezj129)
+- [Roger Massana](https://github.com/massanaRoger)
 - [Yash Patel](https://github.com/theyashpatel)
 - [Richi](https://github.com/Zerov1000)
 - [Noel Illing](https://github.com/nilling4)
