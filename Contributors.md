@@ -24,6 +24,7 @@
 - [Milan Lakhani](https://github.com/milan-lakhani)
   [Manas Anand Singh](https://github.com/MSAndromeda)
 - [Mayank Gautam]
+- [Aleksandar Atanasov](https://github.com/aleksandar-atanasov)
 - [Abhishek Kumar](https://github.com/abhishek-Roy22)
 - ![Joshua Ramat](https://github.com/joshuaramat)
 - [HP] (https://github.com/Black-Hwak)
