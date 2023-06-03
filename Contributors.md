@@ -82,6 +82,7 @@
 -[Pritam Roy](https://github.com/Pritam1136)
 - [Zvirid Andrei](https://github.com/zviridandrei)
 - [Akshit Aggarwal](https://github.com/akshit-289)
+- [Michele Carmagnani](https://github.com/jensengbg-michele-carmagnani)
   [Prachi Chauhan](https://github.com/PrachiChauhan23)
 - [Zach Boquet](https://github.com/Kurokio)
 - [Ifeoluwa Aroboto] (https://github.com/IfeoluwaAroboto)
