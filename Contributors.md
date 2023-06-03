@@ -1177,6 +1177,7 @@ Aaron
 - [Vladimir Cvejanov](https://github.com/VladenCode)
 - [Carlos Americo](https://github.com/caducoder)
 - [Suman Raj](https://github.com/the-suman)
+- [Fernando Bade](https://github.com/FernandoBade)
 - [Megan Moulos](https://github.com/meganmoulos/)
 - [Rodrigo Cortes](https://github.com/rocortes10)
 - [Thamsanqa Shabangu](https://github.com/Thamesssa)
