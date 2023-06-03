@@ -32,6 +32,7 @@
 - [Elizabeth Czarny](https://github.com/Elizabeth-Cz)
 - [Nibraz Rehaman](https://github.com/nibrazrehaman)
 - [aung thu gaming channel](https://github.com/trovel339)
+- [Agastaya Sharma](https://github.com/Agastaya23)
 - [Adarsh Yadav](https://github.com/codebreaker0001)
 - [Alen Chen](https://github.com/ChenYunyue)
 - [Sushant Bhargav](https://github.com/BhargavSushant)ß
