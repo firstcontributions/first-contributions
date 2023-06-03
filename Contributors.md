@@ -1919,4 +1919,5 @@
 - [Abbie Sims](https://github.com/abbiesims]
 - [Ahmad Abdelhameed](https://github.com/AhmadAbdElhameed)
 - [Ajitesh Kumar Singh](https://github.com/transyltooniaa)
+- [Jeremiah Oluwakoya](https://github.com/jriffs)(03 Jun 2023)
 
