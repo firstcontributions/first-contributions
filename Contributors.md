@@ -1343,6 +1343,7 @@
 - [Equan](https://github.com/equan4647)
 - [Mikhail Filin](https://github.com/Gortyser)
 - [Nataliya Kondranina](https://github.com/kondranina)
+- [Marcos Brito](https://github.com/marcos-brito)
 - [Mohammed Saad](https://github.com/msaad7777/)
 - [Devansh Baghel](https://github.com/devansh-baghel)
 - [Andres Olguin](https://github.com/Isadriendir48)
