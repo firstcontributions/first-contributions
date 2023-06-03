@@ -109,6 +109,7 @@
 - Himanshu Tamta
   [Mohit Yadav](https://github.com/ymohit1603)
 - [Andee Warren](https://github.com/andeewarren)
+- [Igor Filgueira](https://github.com/igorfilgueira)
 - Igniseri
 - [Rima Nurkholifah](https://github.com/rimanurfah)
 - [PJ Angeloni 🔭🔬💻](https://github.com/PaoloJr90)
