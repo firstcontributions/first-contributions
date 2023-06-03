@@ -128,6 +128,7 @@
 - [Lukasz Gzella](https://github.com/lukasgzella)
 - [Shaik Mohammad Afzal](https://github.com/afzxlsgit)
 - [Lucas Moyano](https://github.com/LucasEPK)
+- [Joy](https://github.com/aquaj0y)
 - [John](https://github.com/duckheap)
 - [Irfan](https://github.com/Parjival)
 - [Nur Farah](https://github.com/Nur-farah)
