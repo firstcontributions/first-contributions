@@ -123,6 +123,7 @@
 - [Rima Nurkholifah](https://github.com/rimanurfah)
 - [PJ Angeloni 🔭🔬💻](https://github.com/PaoloJr90)
 - [Sumit Dethe](https://github.com/sumitdethe27)
+- Prakhar Pradhan
 - [Karthik Bhandary](https://github.com/karthikbhandary2)
 - [Sarthak](https://github.com/sarthak2131)
 - [Anirudh K Anil](https://github.com/anirudhka00)
