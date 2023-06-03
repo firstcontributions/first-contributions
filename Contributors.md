@@ -144,6 +144,7 @@
 - [Yuvraj Katkar](https://github.com/YuvrajKatkar)
 - [Meghanath Reddy](https://github.com/meghanath852)
 - [Malki Malov](https://github.com/MalkiMalov)
+- [Ahmad Jajja](https://github.com/Ahmadjajja)
 - [Kiara Hoheb](https://github.com/kxtara)
 - [Adrew Kirts](https://github.com/Adrew-Kirts)
 - [Gunjan Mishra](https://github.com/GunjanKMishra)
