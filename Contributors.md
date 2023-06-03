@@ -561,6 +561,7 @@ Aaron
 - [Dmytro Malienik](https://github.com/dmalenik)
 - [Kaung Khant](https://github.com/KaungK2001)
 - [Kerim Kilic](https://github.com/kerim-kilic)
+- [Jean Zhao](https://github.com/JinxinZhao315)
 - [Sabarish Sridhar](https://github.com/sabarish-sridhar)
 - [Abisola Oluwaseun Olayinka](https://github.com/Abisola-O)
 - [Baljapalli Anshul](https://github.com/AnshulBaljapalli)
