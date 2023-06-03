@@ -13,6 +13,7 @@
 - [Gauri Tripathi](https://github.com/GauriTr)
 - [Omoogun Olawale](https://github.com/olawale-o)
 - [Matthew West](https://github.com/MattWestGH)
+- [Harshal Abak](https://github.com/Harshal662)
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
 - [Prerna Singh](https://github.com/PrernaSingh01)
 - [Soy Eric](https://github.com/ibrahimeric)
