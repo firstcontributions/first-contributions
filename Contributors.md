@@ -145,6 +145,7 @@
 - [P1K5UP](https://github.com/P1K5UP)
 - [Jatin Bhatia](https://github.com/jatinb92)
 - [Jeremy Rustandi] (https://github.com/jerstnd)
+- [ramhaidar](https://github.com/ramhaidar)
 - [Jan](https://github.com/JanR99)
 - [Oliver Beresford](https://github.com/OliverSBeresford)
 - [Vihaan Vijayvargiya](https://github.com/vihaanvijayvargiya)
