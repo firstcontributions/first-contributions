@@ -211,6 +211,7 @@
 - Jagdish Kancharapu
 - Paul Kenyanya Omweri
 - Manny G
+-[Bruno Souza](https://github.com/BrunoRammon)
 - [Farzan Ekram](https://github.com/farzanekram07)
 - [Mike Tagg](https://github.com/mdtagg)
 - [Shivam Kumar Yadav](https://github.com/Thesky9474)
