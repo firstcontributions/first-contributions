@@ -128,6 +128,7 @@
 - [Rafiul Islam Refat](https://github.com/rirefat)
 - [Lukasz Gzella](https://github.com/lukasgzella)
 - [Shaik Mohammad Afzal](https://github.com/afzxlsgit)
+- [Adarsh Agarwal]
 - [Lucas Moyano](https://github.com/LucasEPK)
 - [Joy](https://github.com/aquaj0y)
 - [John](https://github.com/duckheap)
