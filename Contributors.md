@@ -1985,6 +1985,7 @@ Aaron
 - [Edison Zhou](https://github.com/nosidezhou)
 - [harsh dewan]
 - [Loïc Franchina Loiseau]
+- [Selam Asnake](https://github.com/Haze-I)
 - [Chance Back](https://github.com/chanceback)
 - [Jiajun Xu](https://github.com/JiajunXu2)
 - [Harsh Srivastav](https://github.com/Harsh32044)
