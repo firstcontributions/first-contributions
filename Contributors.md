@@ -141,7 +141,7 @@
 - [Abheekrishna](https://github.com/Abheekrishna)
 - [William Hua](https://github.com/Weyum1234)
 - [Sampath Vatsavaya](https://github.com/Sampath-Vatsavaya)
-- Gaurav Bhambhani
+- [Gaurav Bhambhani]
 - [P1K5UP](https://github.com/P1K5UP)
 - [Jatin Bhatia](https://github.com/jatinb92)
 - [Jeremy Rustandi] (https://github.com/jerstnd)
@@ -166,13 +166,13 @@
 - [Shibi Ayyanar](https://github.com/Shibi-A)
 - [Thomas Mestdagh](https://github.com/thomasmestdagh)
 - [Veer Pratap](https://github.com/Veercodeprog)
-- -Yash Mishra
-- -Ashish Kumar Singh
+- [Yash Mishra]
+- [Ashish Kumar Singh]
 - [cybzzz](https://github.com/cybzzz)
-- NandaHein
+- [NandaHein]
 - [Raghav Sharma]()
 - [imariom](https://github.com/imariom)
-  -Hardik Sharma
+- [Hardik Sharma]
 - [Chana Ilani](https://github.com/chanafriedman)
 - [Gunj Joshi](https://github.com/gunjjoshi)
 - [Gamapg](https://github.com/gamapg)
