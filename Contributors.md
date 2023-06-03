@@ -768,6 +768,7 @@ Aaron
 - [Yash Bellary](https://github.com/bellaryyash23)
 - [Daniel Jeffrey Nibbs](https://github.com/Jeff-Nibbs)
 - [jeongwoo903](https://github.com/jeongwoo903)
+- [Seifeldin Mostafa](https://github.com/Seif-Elkasrawy)
 - [Tobys-Nap](https://github.com/TobysNap)
 - [albus-droid](https://github.com/albus-droid)
 - [Hussein Al-Muhtadee](https://github.com/whatzittoya)
