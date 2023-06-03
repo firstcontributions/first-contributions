@@ -886,6 +886,7 @@ Aaron
 - [Preston Harms](https://github.com/R3dPnd)
 - [Tanishq Agarwal](https://github.com/Tanishq2807)
 - Joseph Martinez
+- [Gerardo Franco](https://github.com/jgfranco)
 - [Michal Tomaszewski](https://github.com/mtom407)
 - [Dakota Kryzanowski](https://github.com/DakotaKry)
 - [Joshua Rodriguez😁](https://github.com/joshua-rdrgz)
