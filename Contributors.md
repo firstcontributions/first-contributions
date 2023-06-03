@@ -40,6 +40,7 @@
 - [Abhishek Kumar](https://github.com/abhishek-Roy22)
 - ![Joshua Ramat](https://github.com/joshuaramat)
 - [HP] (https://github.com/Black-Hwak)
+-[kavearhasi](https://github.com/kavearhasi)
 - [Arturo López](https://github.com/arturolopeze)
 - [Albert Arakelyan](https://github.com/AlbertArakelyan)
 - [Chloe Gavrilovic](https://github.com/cmgvc)
