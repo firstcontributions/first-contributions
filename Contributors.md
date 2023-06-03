@@ -17,6 +17,7 @@
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
 - [Prerna Singh](https://github.com/PrernaSingh01)
 - [Soy Eric](https://github.com/ibrahimeric)
+- [Mandeep Singhmar](https://github.com/Mandeepsinghmar)
 - [Elizabeth Czarny](https://github.com/Elizabeth-Cz)
 - [aung thu gaming channel](https://github.com/trovel339)
 - [Adarsh Yadav](https://github.com/codebreaker0001)
