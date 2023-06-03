@@ -1901,6 +1901,7 @@
 - [Lennart Pries](https://github.com/lennart02)
 - [Rochelle](https://github.com/RochelleNi)
 - Aviya Atias
+- Buggy
 - kritika singh
 - [John Möller](https://github.com/fyradur)
 - [Carlos Sais](https://github.com/csais3)
