@@ -998,6 +998,7 @@ Aaron
 - [Shravan Seth](https://github.com/ShravanSeth)
 - [Shaavi Gupta](https://github.com/ShaaviGupta)
 - [Sai Rohit](https://github.com/sairohit360)
+- [Patel Yash](https://github.com/yashp4858)
 - [Tammekand](https://github.com/Tammekand)
 - [James Anyalewechi](https://github.com/jamesgotech)
 - [Dibakar Upadhyaya](https://github.com/Dibakar01)
