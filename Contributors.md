@@ -299,6 +299,7 @@
 - [Omkar](https://github.com/omkarb21)
 - [Matias Mansilla](https://github.com/MansillaM)
 - [Jackson McGillivary](https://github.com/Revenant70)
+- [Luke Sandoval](https://github.com/Lukesan48)
 - [Srujan Geedipalli](https://github.com/Srujan273)
 - [Atharav](https://github.com/harshal-ishere)
 - [Arthur Krom](https://github.com/Arthur-Krom)
