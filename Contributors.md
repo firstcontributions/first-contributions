@@ -32,6 +32,7 @@ Hi  ..this  is shubham making my first contribution ...
 - [Savan Patel](https://github.com/SavanAghera)
 - [Ankit Verma] (https://github.com/ankitverma10203)
 - [Kin Leon Zinzombe] (https://github.com/zinzombe-kin)
+- Aditya srivastava
 - [Bojidar Vladimirov](https://github.com/BojkaV)
 - [Arpitha DV](https://github.com/krithidv/first-contributions)
 - [Iredox10](https://github.com/iredox10)
