@@ -217,6 +217,7 @@ ahihi tao la duy ne
 - Coding CTO (https://github.com/codingcto)
 - Yana
 - Lokesh
+- Aditya Srivastava
 - Muhammad Bilal (https://github.com/YunoGasasi9862)
 - [Arslan Jan Soomro] (http://github.com/arslan-soomro)
 - [Kamlesh Gehlot] (https://github.com/kamlesh-gehlot)
