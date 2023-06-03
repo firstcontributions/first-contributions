@@ -8,6 +8,7 @@
 - [Ilay Eldar](https://github.com/ilayEldar24)
 - [Zachary Murphy](https://github.com/ZacharyJTMurphy)
 - [Muhammad Haris](https://github.com/headlessNode)
+- [Vedang](https://github.com/vedang685)
 - [AlexEG](https://github.com/AlexEG)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 - [babujal]
