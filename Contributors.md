@@ -1,6 +1,6 @@
 # Contributors
 
-<!-- prettier-ignore-start -->
+<!-- prettier-ignore-start and welcome -->
 
 - [Aaron Newbigging](https://github.com/Pastasource)
 - [Rex Cheng](https://github.com/lychengrex)
