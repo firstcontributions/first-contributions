@@ -66,6 +66,7 @@
 - [Adewale Kujore](https://github.com/Adewale66)
 - [Sahil Chugh](https://github.com/sahil-1109)
 - [Andre Chua](https://github.com/andrechuakj)
+- [Menua Bedrosian](hhtps://github.com/menuab)
 - [Sunetra Bhowmick](https://github.com/kaiser-sb)
 - [Hans Ibarra](https://github.com/Falaxsa13)
 - [Sagar Bhat](https://github.com/codingsagar)
