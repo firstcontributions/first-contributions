@@ -135,6 +135,7 @@
 - [Yahya Benlafkih](https://github.com/ybenlafk)
 - [Sakshi Raut](https://github.com/SakshiRaut674)
 - [Saurabh Farkade](https://github.com/saurabh0413)
+- [Joseph Thrickoyickal Shyju](https://github.com/Joey-TS)
 - [Jackeastern](https://github.com/Jackeastern)
 - [Chris Pan](https://github.com/szupzj18)
 - [Aery Zhao](https://github.com/aeryzhao)
