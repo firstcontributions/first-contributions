@@ -907,6 +907,7 @@ Aaron
 - [HamzaB](https://github.com/waffletester)
 - [clickednebula3](https://github.com/clickednebula3)
 - [Shikhar Bhargava](https://github.com/shikharbsar)
+- [Adrian M.](https://github.com/MrPota2)
 - [Piyush Raviraj](https://github.com/Piyushraviraj2611)
 - [Dwayne Gibbs](https://dwaynegibbs.net)
 - [Angel Velasquez](https://github.com/angel-721)
