@@ -994,6 +994,7 @@ Aaron
 - [Sava Stanchev](https://github.com/sava-stanchev)
 - [Pranava Kumar Mishra](https://github.com/SatayS)
 - [kehero22698](https://github.com/kehero22698)
+- [Leonardo Alves] (https://github.com/LeonardoGomesAlves)
 - [yogesh](https://github.com/yogesh-0911)
 - [AlexDimov-04](https://github.com/AlexDimov-04)
 - [paras](https://github.com/paras9192)
