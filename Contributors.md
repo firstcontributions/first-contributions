@@ -1108,6 +1108,7 @@
 - [luv sharma](https://github.com/luvsharmag)
 - [Kamal raj](https://github.com/Kamalraj5544)
 - [Raj Patra](https://github.com/raj-patra)
+- [KyleMz DevOps](https://github.com/EtherSol)
 - [Alan Flores](https://github.com/AlanF20)
 - [Yemisrach](https://github.com/Yemisrach15)
 - [Aaryan Singh](https://github.com/Aaryan376)
