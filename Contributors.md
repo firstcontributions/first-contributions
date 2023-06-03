@@ -175,6 +175,7 @@
   -Hardik Sharma
 - [Chana Ilani](https://github.com/chanafriedman)
 - [Gunj Joshi](https://github.com/gunjjoshi)
+- [Jonathan Xu] (https://github.com/JonathanXu8)
 - [Gamapg](https://github.com/gamapg)
 - Balaji Sadanala
 - [Anastasiia Koba](https://github.com/anastasiia-koba)
