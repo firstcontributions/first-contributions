@@ -1330,6 +1330,7 @@ Aaron
 - [Ahmadk953](https://github.com/ahmadk953)
 - [Selim](https://github.com/ssehriyar)
   Shrajan Jain
+  [JaphethBear] (https://github.com/japhethbear)
 - [lazylittlestar](https://github.com/lazylittlestar)
 - [japesjake](http://github.com/japesjake)
 - [EvyatarEsterson🙂](https://github.com/EvyatarEsterson)
