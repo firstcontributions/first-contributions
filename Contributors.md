@@ -422,6 +422,7 @@ Aaron
 - [Aleks_Lucenko](https://github.com/alekslucenko)
 - Vineet Sirohi
 - Dewayne Austin
+- [Palisetti Chanikya](https://github.com/palisettychanikya)
 - Shira Weissman
 - Vishesh
 - [Jenny_Quan](https://github.com/jennyq7)
