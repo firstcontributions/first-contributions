@@ -57,6 +57,7 @@
 - [dasari Manoj](https://github.com/Manudasari265)
 - [Vikas Wakde](https://github.com/VikasWakde)
 - [Adewale Kujore](https://github.com/Adewale66)
+- [Sahil Chugh](https://github.com/sahil-1109)
 - [Andre Chua](https://github.com/andrechuakj)
 - [Sunetra Bhowmick](https://github.com/kaiser-sb)
 - [Hans Ibarra](https://github.com/Falaxsa13)
