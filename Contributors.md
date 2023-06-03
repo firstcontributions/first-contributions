@@ -932,6 +932,7 @@
 - [Ubirajara Almeida](https://github.com/ualmeida55)
 - [Shabana Naik](https://github.com/ShabanaNaik)
 - [Alex Sanzhanov](https://github.com/Sanzhanov)
+- [Matthew Cuan](https://github.com/matthewcuan)
 - [Aecio Neto](https://github.com/aecio-neto)
 - [Thaung Than Han](https://github.com/ThaungThanHan)
 - [Neha Jadhav](https://github.com/jadhavneha)
