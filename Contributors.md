@@ -137,6 +137,7 @@
 - [Prabal Sharma](https://github.com/prabalsh19)
 - [Eshan Shikarkahne](https://github.com/eshan-one)
 - [JT Fox](https://github.com/jtfox142)
+- [Pranshu Kedia](https://github.com/pranshu79)
 - [Tindan Cletus](https://github.com/cletus-cyber)
 - [Zalman Gagerman] (https://github.com/zalmang)
 - [Nadeem Ahmad](https://github.com/ahmadnadeem6236)
