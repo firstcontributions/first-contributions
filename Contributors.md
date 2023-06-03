@@ -35,6 +35,7 @@
 - [Sushant Bhargav](https://github.com/BhargavSushant)ß
 - [Milan Lakhani](https://github.com/milan-lakhani)
   [Manas Anand Singh](https://github.com/MSAndromeda)
+- [Siim Sink](https://github.com/sinkkkk)
 - [Mayank Gautam]
 - [Abhishek Kumar](https://github.com/abhishek-Roy22)
 - ![Joshua Ramat](https://github.com/joshuaramat)
