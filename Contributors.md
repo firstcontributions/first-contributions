@@ -347,6 +347,7 @@
 - [Srujan Geedipalli](https://github.com/Srujan273)
 - [Atharav](https://github.com/harshal-ishere)
 - [Arthur Krom](https://github.com/Arthur-Krom)
+- [Drinnan Sante](https://github.com/drinnansante)
 - [alonGitH](https://github.com/alonGitH)
 - [Simon Swopes](https://github.com/SpicyCircuit)
 - [Prathmesh Deshpande](https://github.com/prathm3)
