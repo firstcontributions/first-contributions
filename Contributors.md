@@ -1025,6 +1025,7 @@ Aaron
 - [Manish](https://github.com/manish-xyz)
 - [Anugrah Rachman](https://github.com/kidomega-byte/)
 - [Marc López Aiblinger](https://github.com/mlopezab)
+- [MarcosvAureliosl](https://github.com/marcosaureliosl)
 - [Hector Quemada](https://github.com/hdquemada)
 - [Maheen Saleh](https://github.com/maheensaleh)
 - [Lynn Zukerman](https://github.com/Lynndz3)
