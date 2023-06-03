@@ -116,12 +116,12 @@ git push origin <add-your-name>
 
 축하합니다! 앞으로 기여자로써 자주 사용하게될 기본 워크플로우, _포크(fork) -> 클론(clone) -> 수정(edit) -> 풀 요청(pull request)_, 를 완수하셨습니다!
 
-첫 기여에 대한 소식을 친구들 및 팔로워에게 [웹 앱](https://roshanjossey.github.io/first-contributions/#social-share)을 통해 공유해보세요.
+첫 기여에 대한 소식을 친구들 및 팔로워에게 [웹 앱](https://firstcontributions.github.io/#social-share)을 통해 공유해보세요.
 
 
 그리고 도움이 필요하거나 질문이 있다면 저희의 slack 에서 요청해보세요. → [slack 팀 가입하기](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 
-이제 다른 프로젝트에도 기여해보세요! 지금 바로 시작할 수 있는 난이도가 낮은 이슈들로 가득찬 목록이 있습니다. [웹앱의 프로젝트 목록](https://roshanjossey.github.io/first-contributions/#project-list)에서 확인해보세요.
+이제 다른 프로젝트에도 기여해보세요! 지금 바로 시작할 수 있는 난이도가 낮은 이슈들로 가득찬 목록이 있습니다. [웹앱의 프로젝트 목록](https://firstcontributions.github.io/#project-list)에서 확인해보세요.
 
 
 
