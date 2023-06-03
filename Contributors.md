@@ -1542,6 +1542,7 @@ Aaron
 - [Vinicius Antunes](https://github.com/vinicius-anp)
 - [Pat Browne](https://github.com/pbrowne011)
 - Monty
+- [Satyam singh](https://github.com/Satyam0327)
 - [Alasdair Hendry](https://github.com/alasdairhendry)
 - [Lucaremdev](https://github.com/lucaremdev)
 - [Richard Choi](https://github.com/choir27)
