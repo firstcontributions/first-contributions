@@ -54,6 +54,7 @@
 - [Ali Aizn](https://github.com/aliaizn)
 - [Mohammed Hashim K](https://github.com/mohammed-hashim-k)
 - [Piyush Pawar](https://github.com/piyushpawar54)
+- [Devojoyti Pal](https://github.com/Devojoytip)
 - [Kuber Acharya](https://github.com/thekubera)
 - [Luis Cepeda](https://github.com/LuisCepeda)
 - [Aditya patil](https://github.com/AdityaPatil111)
