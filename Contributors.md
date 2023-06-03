@@ -22,6 +22,7 @@
 - [Omoogun Olawale](https://github.com/olawale-o)
 - [Isaac Achenbach](https://github.com/isaacach)
 - [Matthew West](https://github.com/MattWestGH)
+- [Tanmai Kalisipudi](https://github.com/tanmaik)
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
 - [Norvillie Villaruel](https://github.com/nozky)
 - [Prerna Singh](https://github.com/PrernaSingh01)
