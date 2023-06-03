@@ -1888,6 +1888,7 @@ Aaron
 - [harsh dewan]
 - [Loïc Franchina Loiseau]
 - [Chance Back](https://github.com/chanceback)
+- [Jiajun Xu](https://github.com/JiajunXu2)
 - [Harsh Srivastav](https://github.com/Harsh32044)
 - [Jeffery Jiang](https://github.com/jeffery1995)
 - [Sherin Saji](https://github.com/sherinksaji)
