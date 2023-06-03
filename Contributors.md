@@ -1251,6 +1251,7 @@ Aaron
 - [Callum Merritt](https://github.com/CallumMerritt)
 - [Laurat Hajrullaaga](https://github.com/laurathaga)
 - [Vivek Pradhan](https://medium.com/@vivekpradhan)
+- [Nkondog Anselme Venceslas](http://github.com/nkanven)
 - [Hiruna-Kumara](https://github.com/Hiruna-Kumara)
 - [godwin-17](https://github.com/godwin-17)
 - [Aman Kumar Pandey](https://github.com/amanpandey2101)
