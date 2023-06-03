@@ -100,6 +100,7 @@
 - Kishan Monhoal
 - [Umberto Fasci](https://github.com/UmbertoFasci)
 - [Rakesh](https://github.com/rakeshcj)
+-  shlomo-michalovich
 - IamMahfooz
 - [nnminhtan](https://github.com/nnminhtan)
 - [Noriomusha](https://github.com/Noriomusha)
