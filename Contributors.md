@@ -47,7 +47,7 @@
 - [Mayank Gautam]
 - Rahul-Sharing
 - [Abhishek Kumar](https://github.com/abhishek-Roy22)
-- [Paulo Henrique Meneses](https://github.com/paulohenrique-gh)
+- [PH Meneses](https://github.com/paulohenrique-gh)
 - [Matt Jarrett](https://github.com/mvjarrett)
 - ![Joshua Ramat](https://github.com/joshuaramat)
 - [Sekinat Oyero](https://github.com/Sekinat-oyero)
