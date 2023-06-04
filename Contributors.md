@@ -1995,6 +1995,7 @@ Aaron
 - [DreiAABatterien](https://github.com/DreiAABatterien)
 - [QiPing Song](https://github.com/SongQiPing)
 - [loite](https://github.com/loite)
+- [Tim Hofmann](https://github.com/txmho)
 - [Pickwick Rudge](https://github.com/pickwick-rudge)
 - [safe rabbit](https://github.com/saferabbit/)
 - [James Stokke](https://github.com/jstokkeASU)
