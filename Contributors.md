@@ -249,6 +249,7 @@
 - [Gunj Joshi](https://github.com/gunjjoshi)
 - [Jonathan Xu] (https://github.com/JonathanXu8)
 - [Gamapg](https://github.com/gamapg)
+- [Hamid Q](https://github.com/hqureshi88)
 - Balaji Sadanala
 - [Anastasiia Koba](https://github.com/anastasiia-koba)
   [Rivki Zohar](https://github.com/Rivki7)
