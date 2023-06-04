@@ -1903,7 +1903,7 @@ Aaron
 - [Robin Muijs](https://github.com/RobinMuijs2000)
 - [Leon Neugum] (https://github.com/LeeNeu)
 - [Tochukwu Nwosa] (https://github.com/obere4u)
-- [Leon Neugum] (https://github.com/LeeNeu
+- [Leon Neugum] (https://github.com/LeeNeu)
 - [Guan Zhi Wang](https://github.com/joe94113)
 - Jing Yi
 - [Juan Ospina](https://github.com/juandaosp)
@@ -2019,7 +2019,8 @@ Aaron
 - [Sunil S. Singh](https://github.com/sssingh)
 - [Orion Wesson] (https://github.com/EnterOrion)
 - [San-ctuary](https://github.com/San-ctuary)
-- [Thiago Fukuyama Marcilli](https://github.com/ThiagoFukuyama) -[Ayush Tibrewal](https://github.com/chromo4)
+- [Thiago Fukuyama Marcilli](https://github.com/ThiagoFukuyama)
+ -[Ayush Tibrewal](https://github.com/chromo4)
 - [Rayner Susanto](https://github.com/raynersusanto0)
 - [Ahmed ElSaeed](https://github.com/asmpro7)
 - [Krishnaraja Sagar](https://krishnarajasagar.github.io)
@@ -2034,7 +2035,7 @@ greeshmanth
 - [Jeffery Jiang](https://github.com/jeffery1995)
 - [Sherin Saji](https://github.com/sherinksaji)
 - [Hugo Schulz](https://github.com/HugoSchulz)
-- [Metehan Günen](https://github.com/Metrohan]
+- [Metehan Günen](https://github.com/Metrohan)
 - [Tom Starkey](https://github.com/TomStarkey)
 - [northernbelle87](https://github.com/northernbelle87)
 - [Sujal Tangde] (https://github.com/sujaltangde/)
@@ -2071,7 +2072,6 @@ greeshmanth
 - [K B POOVANNA](https://github.com/kbpoovanna-007)
 - [swarup_E7](https://github.com/swarupe7)
 - [Lasse_Buch](https://github.com/LasseBuchAspIT)
-- <!-- prettier-ignore-end -->
 - [Naveen Avula](https://github.com/Avula-Naveen)
 - [Sameer Kumar singh](https://github.com/xvisierra)
 - [Jimmy Batuhan](https://github.com/jimmybatuhan)
@@ -2084,11 +2084,12 @@ greeshmanth
 - [Winnie Jeng](https://github.com/winniewjeng)
 - [Abbie Sims](https://github.com/abbiesims)
 - [Aviroop Jana](https://github.com/aviroopjana)
-- [Abbie Sims](https://github.com/abbiesims]
+- [Abbie Sims](https://github.com/abbiesims)
 - [Orson Leiziaga](https://github.com/KennethLG)
 - [Ahmad Abdelhameed](https://github.com/AhmadAbdElhameed)
 - [Ajitesh Kumar Singh](https://github.com/transyltooniaa)
 - [Dmitry Bespalov](https://github.com/b1gzer0)
-- [Abhishek Mishra] (https://github.com/Abhishek-0009/)
-
+- [Abhishek Mishra](https://github.com/Abhishek-0009/)
 - [Shuvkant Phanait](https://github.com/shuvkant)
+- [Sneha N](https://github.com/sneha18073)
+- <!-- prettier-ignore-end -->
