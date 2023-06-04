@@ -88,6 +88,7 @@
 - [Akshit Aggarwal](https://github.com/akshit-289)
 - [Anupam Chauhan](https://github.com/MLAI405)
 - [Prachi Chauhan](https://github.com/PrachiChauhan23)
+- [AF](https://github.com/affiasco)
 - [Zach Boquet](https://github.com/Kurokio)
 - [Ifeoluwa Aroboto] (https://github.com/IfeoluwaAroboto)
 - [Manideep](https://github.com/Manideep519)
