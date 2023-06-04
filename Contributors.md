@@ -107,7 +107,7 @@
 - Kishan Monhoal
 - [Umberto Fasci](https://github.com/UmbertoFasci)
 - [Rakesh](https://github.com/rakeshcj)
--  shlomo-michalovich
+- shlomo-michalovich
 - IamMahfooz
 - [nnminhtan](https://github.com/nnminhtan)
 - [Noriomusha](https://github.com/Noriomusha)
@@ -120,7 +120,7 @@
 - [Andee Warren](https://github.com/andeewarren)
 - [Igor Filgueira](https://github.com/igorfilgueira)
 - Igniseri
--  [hina javed](https://github.com/hinajaved123)
+- [hina javed](https://github.com/hinajaved123)
 - [Rima Nurkholifah](https://github.com/rimanurfah)
 - [PJ Angeloni 🔭🔬💻](https://github.com/PaoloJr90)
 - [Sumit Dethe](https://github.com/sumitdethe27)
@@ -162,6 +162,7 @@
 - [Yuvraj Katkar](https://github.com/YuvrajKatkar)
 - [Meghanath Reddy](https://github.com/meghanath852)
 - [Malki Malov](https://github.com/MalkiMalov)
+- [Abhay_Singh](https://github.com/abhay-bharat)
 - [Ahmad Jajja](https://github.com/Ahmadjajja)
 - [Kiara Hoheb](https://github.com/kxtara)
 - [Sadman Sakib](https://github.com/SADMAN30102001SAKIB)
