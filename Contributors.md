@@ -457,6 +457,7 @@ Aaron
 - [Ankit_Jaiswal](https://github.com/Ankit4j)
 - [Ayush_Chaudhari](https://github.com/the-bokya)
 - [Aleks_Lucenko](https://github.com/alekslucenko)
+- [Mohd Huzaifa](https://github.com/hawkeye359)
 - Vineet Sirohi
 - Dewayne Austin
 - [Palisetti Chanikya](https://github.com/palisettychanikya)
