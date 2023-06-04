@@ -7,6 +7,7 @@
 - [Mohd Farhan Nawaz](https://github.com/mohdfarhannawaz)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Youssef Jrab](https://github.com/yjrab)
+- [Isaiah Swain](https://github.com/imswain)
 - [Ilay Eldar](https://github.com/ilayEldar24)
 - [Zachary Murphy](https://github.com/ZacharyJTMurphy)
 - [Muhammad Haris](https://github.com/headlessNode)
