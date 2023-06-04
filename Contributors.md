@@ -18,6 +18,7 @@
 - [Amir Sefidgar](https://github.com/amstfn)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 - [babujal]
+- [Mufaddal Naguthanawala](https://github.com/muffymn)
 - [✌Husseini Mudi Profsain](https://github.com/Profsain)
 - [Damoon Darvishi](https://github.com/DamoonDarvishi)
 - [Omi](https://github.com/NormTurtle)
