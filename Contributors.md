@@ -117,6 +117,7 @@
 - Utkarsh Shukla(https://github.com/utkrsh-shukla)
 - Himanshu Tamta
   [Mohit Yadav](https://github.com/ymohit1603)
+  [Subhajit Chatterjee](https://github.com/subhajitchatterjee07)
 - [Andee Warren](https://github.com/andeewarren)
 - [Igor Filgueira](https://github.com/igorfilgueira)
 - Igniseri
