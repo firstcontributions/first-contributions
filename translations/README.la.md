@@ -103,11 +103,11 @@ git push origin <ຊື່ branch ຂອງທ່ານ>
 
 ## ຈະເຮັດຫຍັງຕໍ່ຫຼັງຈາກນີ້?
 ຍິນດີນຳ, ທ່ານໄດ້ປະຕິບັດຂັ້ນຕອນຂອງການເຮັດ contribute ຄື fork -> clone -> edit -> pull request ເຊິ່ງຂັ້ນຕອນຕ່າງໆເຫຼົ່ານີ້ເປັນສິ່ງທີ່ທ່ານຕອງໄດ້ພົບເມື່ອທ່ານເປັນ contributor
-ສະເຫຼີມສະຫຼອງໃຫ້ແກ່ການມີສ່ວນຮ່ວມຂອງທ່ານ, ຢ່າລືມແບ່ງປະສົບການທີ່ທ່ານໄດ້ຮັບໃຫ້ແກ່ໝູ່ເພື່ອນຂອງທ່ານ ໂດຍໄປທີ່ [ເວັບໄຊນີ້](https://roshanjossey.github.io/first-contributions/#social-share)
+ສະເຫຼີມສະຫຼອງໃຫ້ແກ່ການມີສ່ວນຮ່ວມຂອງທ່ານ, ຢ່າລືມແບ່ງປະສົບການທີ່ທ່ານໄດ້ຮັບໃຫ້ແກ່ໝູ່ເພື່ອນຂອງທ່ານ ໂດຍໄປທີ່ [ເວັບໄຊນີ້](https://firstcontributions.github.io/#social-share)
 
 ຫຼືຈະມີສ່ວນຮ່ວມກັບເຮົາຜ່ານ Slack ໃນກໍລະນີທີ່ທ່ານຕ້ອງການຄວາມຊ່ວຍເຫຼືອ ຫຼື ມີຂໍ້ສົງໄສໃດໆ [ເຂົ້າຮ່ວມ slack ກັບພວກເຮົາ](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 
-ຈາກນີ້ທ່ານສາມາດ contribute ໃຫ້ໂປຣເຈັກອື່ນໆໄດ້, ໂດຍທາງເຮົາໄດ້ເຮັດລາຍການໂປຣເຈັກທີ່ງ່າຍຕໍ່ການເລີ່ມຕົ້ນບາງສ່ວນໄວ້ໃຫ້ [ລາຍຊື່ໂປຣເຈັກທີ່ໜ້າສົນໃຈ](https://roshanjossey.github.io/first-contributions/#project-list)
+ຈາກນີ້ທ່ານສາມາດ contribute ໃຫ້ໂປຣເຈັກອື່ນໆໄດ້, ໂດຍທາງເຮົາໄດ້ເຮັດລາຍການໂປຣເຈັກທີ່ງ່າຍຕໍ່ການເລີ່ມຕົ້ນບາງສ່ວນໄວ້ໃຫ້ [ລາຍຊື່ໂປຣເຈັກທີ່ໜ້າສົນໃຈ](https://firstcontributions.github.io/#project-list)
 
 ### [ຂໍ້ມູນອື່ນໆເພີ່ມເຕີມ](../additional-material/git_workflow_scenarios/additional-material.md)
 

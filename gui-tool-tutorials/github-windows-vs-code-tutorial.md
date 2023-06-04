@@ -54,7 +54,7 @@ Paste the URL of your repository and press `Enter`. This will open up a File Exp
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-clone3.png" alt="Status popup" />
 
-You should see a status popup on the bottom right of Visual Studio Code. After it has finished, you can open up the cloned repository (now a folder on your machine) using the buttons in the dialog.
+You should see a status popup on the bottom right of Visual Studio Code. After it has finished, you can open up the cloned repository (now a folder on your machine) using the buttons in the dialog. 
 
 ## Create a branch
 
@@ -66,7 +66,7 @@ Open up the command palette again by pressing `F1`. Type in `branch` and select 
 
 Open `Contributors.md` and add your name anywhere in the file. This file contains GFM (GitHub Flavored Markdown) which is a proprietary flavor of the <a href="https://en.wikipedia.org/wiki/Markdown">markdown</a> syntax.
 
-Copy one of the other contributors&apos; lines and modify it with your name to make sure you get the syntax right - it can be picky.
+Copy one of the other contributors&apos; lines and modify it with your name to make sure you get the syntax right - it can be picky. Save file to register change.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-changes.png" alt="Add your name" />
 
