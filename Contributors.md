@@ -387,6 +387,7 @@
 - [chamomil](https://github.com/chamomil)
 - [Rituraj](https://github.com/enrituraj)
 - [Rohit Mahesh](https://github.com/R041T)
+- [Talha Tahir](https://github.com/talhatahir)
 - [Matthew Coronado] (https://github.com/mattdamachine)
 - [Nicekloe](https://github.com/Nicekloe)
 - [Yash Desai](https://github.com/yashdesoi)
