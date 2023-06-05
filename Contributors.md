@@ -67,6 +67,7 @@
 - [dasari Manoj](https://github.com/Manudasari265)
 - [Vikas Wakde](https://github.com/VikasWakde)
 - [Adewale Kujore](https://github.com/Adewale66)
+- [Emmanuel Garcia](https://github.com/mannygarcia720)
 - [Sahil Chugh](https://github.com/sahil-1109)
 - [Andre Chua](https://github.com/andrechuakj)
 - [Menua Bedrosian](hhtps://github.com/menuab)
