@@ -39,6 +39,7 @@
 - [Malaz Naquib](https://github.com/malaz-naquib)
 - [Agastaya Sharma](https://github.com/Agastaya23)
 - [Adarsh Yadav](https://github.com/codebreaker0001)
+- [Artem Yershov](https://github.com/YershovArt)
 - [Alen Chen](https://github.com/ChenYunyue)
 - [Sushant Bhargav](https://github.com/BhargavSushant)ß
 - [Milan Lakhani](https://github.com/milan-lakhani)
