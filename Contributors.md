@@ -20,6 +20,7 @@
 - [babujal]
 - [✌Husseini Mudi Profsain](https://github.com/Profsain)
 - [Damoon Darvishi](https://github.com/DamoonDarvishi)
+- [Shubham Tamrakar](https://github.com/shubham-tam)
 - [Omi](https://github.com/NormTurtle)
 - [Zalman Gagerman](https://github.com/zalmang)
 - [Gauri Tripathi](https://github.com/GauriTr)
