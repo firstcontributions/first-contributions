@@ -4,6 +4,7 @@
 
 - [Nandha Kumar](https://github.com/tnrock)
 - [Aaron Newbigging](https://github.com/Pastasource)
+- [Lion King](https://github.com/topmsdreamer)
 - [Rex Cheng](https://github.com/lychengrex)
 - [Mohd Farhan Nawaz](https://github.com/mohdfarhannawaz)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
