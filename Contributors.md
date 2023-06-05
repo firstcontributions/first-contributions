@@ -87,6 +87,7 @@
 - [Zvirid Andrei](https://github.com/zviridandrei)
 - [Akshit Aggarwal](https://github.com/akshit-289)
 - [Anupam Chauhan](https://github.com/MLAI405)
+- [bantas Serban] (https://github.com/serbantas)
 - [Prachi Chauhan](https://github.com/PrachiChauhan23)
 - [Zach Boquet](https://github.com/Kurokio)
 - [Ifeoluwa Aroboto] (https://github.com/IfeoluwaAroboto)
