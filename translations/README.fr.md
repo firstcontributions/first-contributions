@@ -47,7 +47,7 @@ Déplacez-vous dans le répertoire du projet nouvellement cloné (si vous n'y ê
 ```
 cd first-contributions
 ```
-Maintenant créez une branche avec le commande `git checkout` :
+Maintenant créez une branche avec la commande `git checkout` :
 ```
 git checkout -b <add-votre-nom>
 ```

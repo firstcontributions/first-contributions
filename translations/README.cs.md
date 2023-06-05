@@ -111,11 +111,11 @@ Brzy budou správci provádět zapracování vašich změn do hlavní (anglicky 
 
 Blahopřejeme! Právě jste dokončili standardní _fork -> clone -> edit ->_ průběh práce (anglicky *workflow*), se kterým se jako přispěvatel do projektů setkáte dennodenně.
 
-Oslavte svůj první příspěvek se svými přáteli a následovníky přes [webovou aplikaci](https://roshanjossey.github.io/first-contributions/#social-share).
+Oslavte svůj první příspěvek se svými přáteli a následovníky přes [webovou aplikaci](https://firstcontributions.github.io/#social-share).
 
 V případě, že byste měli jakékoliv otázky nebo potřebovali pomoct, můžete se [přidat k našemu Slack teamu](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-Nyní vám už nic nebrání v příspívání do ostatních projektů. Připravili jsme pro vás seznam projektů, které mají jednoduché záležitosti k vyřešení/naprogramování, se kterými můžete začít. Podívejte se [zde](https://roshanjossey.github.io/first-contributions/#project-list).
+Nyní vám už nic nebrání v příspívání do ostatních projektů. Připravili jsme pro vás seznam projektů, které mají jednoduché záležitosti k vyřešení/naprogramování, se kterými můžete začít. Podívejte se [zde](https://firstcontributions.github.io/#project-list).
 
 ### [Další materiály](../additional-material/git_workflow_scenarios/additional-material.md)
 
