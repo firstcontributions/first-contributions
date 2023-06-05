@@ -2090,5 +2090,6 @@ greeshmanth
 - [Ajitesh Kumar Singh](https://github.com/transyltooniaa)
 - [Dmitry Bespalov](https://github.com/b1gzer0)
 - [Abhishek Mishra] (https://github.com/Abhishek-0009/)
+- [Abizer Naseem] (https://github.com/Ab1z3r)
 
 - [Shuvkant Phanait](https://github.com/shuvkant)
