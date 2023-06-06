@@ -83,6 +83,7 @@
 - [Michael Christwin](https://github.com/michaelchristwin)
 - [Alex Li](https://github.com/alexcode4ever)
 - [Ripul Handoo](https://github.com/RipulHandoo)
+- [Rishabh Patel](https://github.com/rishabhr4)
 - [Pritam Roy](https://github.com/Pritam1136)
 - [Zvirid Andrei](https://github.com/zviridandrei)
 - [Akshit Aggarwal](https://github.com/akshit-289)
