@@ -181,6 +181,7 @@
 - [Lyubomir](https://github.com/LyubomirD)
 - [Bhav Kushwaha](https://github.com/bhavkushwaha)
 - [Julie Clegg](https:///github.com/jclegg31)
+- [Talha Jamal] (https://github.com/talhajamal11)
 - [Chan](https:///github.com/sitnyein)
 - [Sharath](https://github.com/r-sharath)
 - [Todd Johnston](https://github.com/ddotstone)
