@@ -1453,6 +1453,7 @@ Aaron
 - [Suhyeon Yu](https://github.com/RSuhyeon)
 - [Steven Williams](https://github.com/swilliams186)
 - [Rajat](https://github.com/alphadinu)
+- [Nick Valdez](https://github.com/nicholasvaldez)
 - [BestEggShell](https://github.com/BestEggShell)index
 - [Duy Dang](https://github.com/dqduy)
 - [Fitriningtyas](https://github.com/fitrifityanto)
