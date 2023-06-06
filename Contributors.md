@@ -83,7 +83,6 @@
 - [Michael Christwin](https://github.com/michaelchristwin)
 - [Alex Li](https://github.com/alexcode4ever)
 - [Ripul Handoo](https://github.com/RipulHandoo)
-- [Rishabh Patel](https://github.com/rishabhr4)
 - [Pritam Roy](https://github.com/Pritam1136)
 - [Zvirid Andrei](https://github.com/zviridandrei)
 - [Akshit Aggarwal](https://github.com/akshit-289)
@@ -111,6 +110,7 @@
 -  shlomo-michalovich
 - IamMahfooz
 - [nnminhtan](https://github.com/nnminhtan)
+- [Rishabh](https://github.com/rishabhr4)
 - [Noriomusha](https://github.com/Noriomusha)
 - [Aditya Agarwal](https://github.com/adi790uu)
 - Bhagyalakshmi
