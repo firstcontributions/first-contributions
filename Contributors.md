@@ -12,6 +12,7 @@
 - [Ilay Eldar](https://github.com/ilayEldar24)
 - [Devanshu Augusty](https://github.com/Devanshu-Augusty)
 - [Zachary Murphy](https://github.com/ZacharyJTMurphy)
+- [Andre Rodrigues](https://github.com/AndreRodrigues-dev)
 - [Muhammad Haris](https://github.com/headlessNode)
 - [Vedang](https://github.com/vedang685)
 - [AlexEG](https://github.com/AlexEG)
