@@ -323,6 +323,7 @@
 - J3exellence
 - Justin Valdez
 - Triparna Saha
+- [John Allen](https://github.com/johnallen1029)
 - Shashank Sangale
 - Megan Cooper (https://github.com/MegRCooper)
 - Yash Talele
