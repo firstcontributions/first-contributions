@@ -31,6 +31,7 @@
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
 - [Norvillie Villaruel](https://github.com/nozky)
 - [Prerna Singh](https://github.com/PrernaSingh01)
+- [Zach J Murphy](https://github.com/ZachJMurphy)
 - [Soy Eric](https://github.com/ibrahimeric)
 - [Mandeep Singhmar](https://github.com/Mandeepsinghmar)
 - [Elizabeth Czarny](https://github.com/Elizabeth-Cz)
