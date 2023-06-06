@@ -46,6 +46,7 @@
 - [Siim Sink](https://github.com/sinkkkk)
 - [Mayank Gautam]
 - Rahul-Sharing
+- [Tyler Lowe](https://github.com/TylerRLowe)
 - [Abhishek Kumar](https://github.com/abhishek-Roy22)
 - [Matt Jarrett](https://github.com/mvjarrett)
 - ![Joshua Ramat](https://github.com/joshuaramat)
