@@ -14,6 +14,7 @@
 - [Zachary Murphy](https://github.com/ZacharyJTMurphy)
 - [Muhammad Haris](https://github.com/headlessNode)
 - [Vedang](https://github.com/vedang685)
+- [Ismail Chikh Boubekeur](https://github.com/esmo-ts)
 - [AlexEG](https://github.com/AlexEG)
 - [Amir Sefidgar](https://github.com/amstfn)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
