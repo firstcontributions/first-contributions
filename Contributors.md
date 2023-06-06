@@ -1687,7 +1687,6 @@ Aaron
 - [luking](https://github.com/alululululuer)
 - [wiki](https://github.com/alululululuer)
 - [shinwookim](https://github.com/shinwookim)
-- [Samuel]
 - [HyeRoller](https://github.com/HyeRoller)
 - [ThankGod Ode](https://github.com/thankgodode)
 - [Vladimir Git](https://github.com/vladimirsgit)
