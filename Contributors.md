@@ -261,6 +261,7 @@
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 - [Leandro Robert](https://github.com/leanrobert)
 - [Adnan Mostafa](https://github.com/AdnanMostafa)
+- [Irakoze Yves](https://github.com/irakozetony/)
 - Jagdish Kancharapu
 - Paul Kenyanya Omweri
 - Manny G
@@ -934,7 +935,7 @@ Aaron
 - [Raghul D](https://github.com/Raghul18)
 - [Preston Harms](https://github.com/R3dPnd)
 - [Tanishq Agarwal](https://github.com/Tanishq2807)
-- [Vishnu MK](https://github.com/vishnu-mkv) 
+- [Vishnu MK](https://github.com/vishnu-mkv)
 - Joseph Martinez
 - [Gerardo Franco](https://github.com/jgfranco)
 - [Michal Tomaszewski](https://github.com/mtom407)
