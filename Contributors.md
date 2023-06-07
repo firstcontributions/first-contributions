@@ -9,6 +9,7 @@
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Anadu Godwin](https://github.com/AnaduCG)
 - [Youssef Jrab](https://github.com/yjrab)
+- [Christina Kim] (https://github.com/ckim115)
 - [Ilay Eldar](https://github.com/ilayEldar24)
 - [Devanshu Augusty](https://github.com/Devanshu-Augusty)
 - [Zachary Murphy](https://github.com/ZacharyJTMurphy)
