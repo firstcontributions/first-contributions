@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+- [Mohit Bhusal](https://github.com/mohitbhusal11)
 - [Nandha Kumar](https://github.com/tnrock)
 - [Aaron Newbigging](https://github.com/Pastasource)
 - [Rex Cheng](https://github.com/lychengrex)
