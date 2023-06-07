@@ -21,6 +21,7 @@
 - [✌Husseini Mudi Profsain](https://github.com/Profsain)
 - [Damoon Darvishi](https://github.com/DamoonDarvishi)
 - [Omi](https://github.com/NormTurtle)
+- [Roger](https://github.com/rogerkaplan)
 - [Zalman Gagerman](https://github.com/zalmang)
 - [Gauri Tripathi](https://github.com/GauriTr)
 - [Colin McKerracher](https://github.com/colmck)
