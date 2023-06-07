@@ -4,6 +4,7 @@
 
 - [Nandha Kumar](https://github.com/tnrock)
 - [Aaron Newbigging](https://github.com/Pastasource)
+- [Binit Kumar Shirsath](https://github.com/binitkumarshirsath)
 - [Rex Cheng](https://github.com/lychengrex)
 - [Mohd Farhan Nawaz](https://github.com/mohdfarhannawaz)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
