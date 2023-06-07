@@ -451,6 +451,7 @@ Aaron
 - [ZawMyoThantSin](https://github.com/ZawMyoThantSin)
 - [Takahiro Sato](https://github.com/takahiro-1227)
 - [Jitesh Pahwa](https://github.com/jiteshpahwa04)
+- [Sam Ahrens](https://github.com/samahrens)
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
 - [Dexter CCC](https://github.com/noau)
