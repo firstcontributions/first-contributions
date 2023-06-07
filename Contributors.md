@@ -150,6 +150,7 @@
 - [Agastya SHARMA](https://github.com/Agastya-07)
 - [Zhaoqi Xia](https://github.com/zhaoqix2)
 - [Prabal Sharma](https://github.com/prabalsh19)
+- [Jurica Mihin](https://github.com/mihinx1)
 - [Eshan Shikarkahne](https://github.com/eshan-one)
 - [JT Fox](https://github.com/jtfox142)
 - [Pranshu Kedia](https://github.com/pranshu79)
