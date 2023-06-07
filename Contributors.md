@@ -2084,11 +2084,11 @@ greeshmanth
 - [Winnie Jeng](https://github.com/winniewjeng)
 - [Abbie Sims](https://github.com/abbiesims)
 - [Aviroop Jana](https://github.com/aviroopjana)
-- [Abbie Sims](https://github.com/abbiesims]
+- [Abbie Sims] (https://github.com/abbiesims]
 - [Orson Leiziaga](https://github.com/KennethLG)
 - [Ahmad Abdelhameed](https://github.com/AhmadAbdElhameed)
 - [Ajitesh Kumar Singh](https://github.com/transyltooniaa)
 - [Dmitry Bespalov](https://github.com/b1gzer0)
-- [Abhishek Mishra] (https://github.com/Abhishek-0009/)
-
+- [Abhishek Mishra] (https://github.com/Abhishek-0009)
+- [Zyad Islam] (https://github.com/Zyad205)
 - [Shuvkant Phanait](https://github.com/shuvkant)
