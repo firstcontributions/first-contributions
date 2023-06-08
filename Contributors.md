@@ -65,6 +65,7 @@
 - [Aditya patil](https://github.com/AdityaPatil111)
 - [Aditya Datta](https://github.com/Aditya007Datta)
 - [dasari Manoj](https://github.com/Manudasari265)
+- [sz](https://github.come/shenrunzhang)
 - [Vikas Wakde](https://github.com/VikasWakde)
 - [Adewale Kujore](https://github.com/Adewale66)
 - [Sahil Chugh](https://github.com/sahil-1109)
