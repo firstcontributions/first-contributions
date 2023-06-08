@@ -468,6 +468,7 @@ Aaron
 - [Divine Amunega](https://github.com/divineamunega)
 - [Athos Mina](https://github.com/RoseSkullIXVI)
 - [Adam_Logman](https://github.com/adamlquman)
+- [hassanqadir](https://github.com/hassan-qadir)
 - [Jared Pope](https://github.com/jpope6)
 - [Anwar_Hossain](https://github.com/anwarhossain1)
 - [Techylawyer](https://github.com/Techylawyer)
