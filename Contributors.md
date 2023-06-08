@@ -364,7 +364,7 @@
 - [Hein Htun Zaw](https://github.com/yuu1994)
 - [Alifia Ghantiwala](https://github.com/aliflaila)
 - [David Umoru](https://github.com/davidumoru)
-  [Abhishek ](https://github.com/Abhi2359)
+-  [Abhishek ](https://github.com/Abhi2359)
 - [Billy Phan](https://github.com/bphan002)
 - [Vishisht Makkar](https://github.com/v-makkar)
 - [koya-tech](https://github.com/koya-tech)
@@ -546,7 +546,7 @@
 - June Song
 - Grumbo
 - [khunsai06](https://github.com/khunsai06)
-- [Franck Vienot] (https://github.com/antikkorps)
+- [Franck Vienot](https://github.com/antikkorps)
 - [shivamxsurya](https://github.com/shivamxsurya)
 - Madhur Manan
 - Anthony Aljida
@@ -1880,7 +1880,6 @@
 - [Ezra Koppel](https://github.com/ekoppel)
 - [Leanne Keenan](https://github.com/leannekeenan)
 - [Greg Recco](https://github.com/gregrecco67)
-<!-- prettier-ignore-end -->
 - [Em Mic](https://github.com/emmic)
 - [ebrower320](https://github.com/ebrower320)
 - [TobizzleLOL](https://github.com/TobizzleLOL)
@@ -2011,6 +2010,7 @@
 - [RajrishiMitra](https://github.com/RajrishiMitra)
 - [Ravindu Hasantha](https://github.com/ravinduh)
 - [Aryashsaxena](https://github.com/aryashsaxena)
+- [Esh]()
 - [Park Gyoungdo](https://github.com/rudeh1253)
 - Mythszj
 - [homefish](https://github.com/homefish)
@@ -2070,7 +2070,6 @@
 - [K B POOVANNA](https://github.com/kbpoovanna-007)
 - [swarup_E7](https://github.com/swarupe7)
 - [Lasse_Buch](https://github.com/LasseBuchAspIT)
-- <!-- prettier-ignore-end -->
 - [Naveen Avula](https://github.com/Avula-Naveen)
 - [Sameer Kumar singh](https://github.com/xvisierra)
 - [Jimmy Batuhan](https://github.com/jimmybatuhan)
@@ -2090,3 +2089,4 @@
 - [Dmitry Bespalov](https://github.com/b1gzer0)
 - [Abhishek Mishra] (https://github.com/Abhishek-0009/)
 - [Shuvkant Phanait](https://github.com/shuvkant)
+<!-- prettier-ignore-end -->
