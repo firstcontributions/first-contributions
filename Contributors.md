@@ -23,6 +23,7 @@
 - [Omi](https://github.com/NormTurtle)
 - [Zalman Gagerman](https://github.com/zalmang)
 - [Gauri Tripathi](https://github.com/GauriTr)
+- [Johann Sebastian Briñez Correa](https://github.com/Sebastianbc/)
 - [Colin McKerracher](https://github.com/colmck)
 - [Omoogun Olawale](https://github.com/olawale-o)
 - [Isaac Achenbach](https://github.com/isaacach)
