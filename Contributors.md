@@ -24,6 +24,7 @@
 - [Zalman Gagerman](https://github.com/zalmang)
 - [Gauri Tripathi](https://github.com/GauriTr)
 - [Colin McKerracher](https://github.com/colmck)
+- [Pierce Oxley] (https://github.com/Parcley27)
 - [Omoogun Olawale](https://github.com/olawale-o)
 - [Isaac Achenbach](https://github.com/isaacach)
 - [Matthew West](https://github.com/MattWestGH)
