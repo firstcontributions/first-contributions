@@ -66,6 +66,7 @@ ahihi tao la duy ne
 - [Tiantian Li](https://github.com/Arcohol)
 - [Acho1](https://github.com/achotal1)
 - [Thomas Carney](https://github.com/ThomasCarney315)
+- [Chinmay Trivedi](https://github.com/404-Definitely-Found)
 - [wai](https://github.com/WaiYanMinThaton)
 - [jeromepalayoor](https://github.com/jeromepalayoor)
 - [LJiaqingNick](https://github.com/LJiaqingNick)
