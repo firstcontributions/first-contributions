@@ -7,6 +7,7 @@
 - [Rex Cheng](https://github.com/lychengrex)
 - [Mohd Farhan Nawaz](https://github.com/mohdfarhannawaz)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
+- [Frosty2500](https://github.com/Frosty2500)
 - [Anadu Godwin](https://github.com/AnaduCG)
 - [Youssef Jrab](https://github.com/yjrab)
 - [Ilay Eldar](https://github.com/ilayEldar24)
