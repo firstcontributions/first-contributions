@@ -9,6 +9,7 @@
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Anadu Godwin](https://github.com/AnaduCG)
 - [Youssef Jrab](https://github.com/yjrab)
+- [Jacob Park](https://github.com/jhpark904)
 - [Ilay Eldar](https://github.com/ilayEldar24)
 - [Devanshu Augusty](https://github.com/Devanshu-Augusty)
 - [Zachary Murphy](https://github.com/ZacharyJTMurphy)
@@ -50,8 +51,7 @@
 - [Matt Jarrett](https://github.com/mvjarrett)
 - ![Joshua Ramat](https://github.com/joshuaramat)
 - [Sekinat Oyero](https://github.com/Sekinat-oyero)
-- [HP] (https://github.com/Black-Hwak)
--[kavearhasi](https://github.com/kavearhasi)
+- [HP] (https://github.com/Black-Hwak) -[kavearhasi](https://github.com/kavearhasi)
 - [Arturo López](https://github.com/arturolopeze)
 - [Albert Arakelyan](https://github.com/AlbertArakelyan)
 - [Chloe Gavrilovic](https://github.com/cmgvc)
@@ -107,7 +107,7 @@
 - Kishan Monhoal
 - [Umberto Fasci](https://github.com/UmbertoFasci)
 - [Rakesh](https://github.com/rakeshcj)
--  shlomo-michalovich
+- shlomo-michalovich
 - IamMahfooz
 - [nnminhtan](https://github.com/nnminhtan)
 - [Noriomusha](https://github.com/Noriomusha)
@@ -120,7 +120,7 @@
 - [Andee Warren](https://github.com/andeewarren)
 - [Igor Filgueira](https://github.com/igorfilgueira)
 - Igniseri
--  [hina javed](https://github.com/hinajaved123)
+- [hina javed](https://github.com/hinajaved123)
 - [Rima Nurkholifah](https://github.com/rimanurfah)
 - [PJ Angeloni 🔭🔬💻](https://github.com/PaoloJr90)
 - [Sumit Dethe](https://github.com/sumitdethe27)
@@ -138,8 +138,7 @@
 - [Joy](https://github.com/aquaj0y)
 - [John](https://github.com/duckheap)
 - [Irfan](https://github.com/Parjival)
-- [Nur Farah](https://github.com/Nur-farah)
--[eyitayo babatope](https://github.com/eyitayo-alt)
+- [Nur Farah](https://github.com/Nur-farah) -[eyitayo babatope](https://github.com/eyitayo-alt)
 - [Anand Raj](https://github.com/anand346)
 - [Adrian Camuti] (https://github.com/ApogeeAC)
 - [Phil] (https://github.com/psmail147)
@@ -263,11 +262,10 @@
 - [Adnan Mostafa](https://github.com/AdnanMostafa)
 - Jagdish Kancharapu
 - Paul Kenyanya Omweri
-- Manny G
--[Bruno Souza](https://github.com/BrunoRammon)
+- Manny G -[Bruno Souza](https://github.com/BrunoRammon)
 - [Farzan Ekram](https://github.com/farzanekram07)
 - [Mike Tagg](https://github.com/mdtagg)
-[Mandeep](https://github.com/Mandeep-009)
+  [Mandeep](https://github.com/Mandeep-009)
 - [Shivam Kumar Yadav](https://github.com/Thesky9474)
 - [Kriti Arora](https://github.com/kritiarora2003)
 - [Muhtasim Fuad Showmik](https://github.com/Muhtasim-Fuad-Showmik)
@@ -294,7 +292,7 @@
 - [Abtuly](https://github.com/Abtuly)
 - Tejas Chouhan
 - [Luca Castronova] (https://github.com/lucastronova)
-- [Jay Singh](https://github.com/JaySingh79	)
+- [Jay Singh](https://github.com/JaySingh79)
 - [Aasim Qureshi](https://github.com/itisaasim)
 - [Solmaz Arezoomandan](https://github.com/Soltechie)
 - [Rohitha Yarlagadda](https://github.com/YRohitha)
@@ -403,7 +401,7 @@
 - [Armon Astalis](https://github.com/armonastalis)
 - [Ross Silcott](https://github.com/RCSilcott)
 - [xavierjimz](https://github.com/xavierjimz/)
-Aaron
+  Aaron
 - [Satyam Nyati](https://github.com/satyamnyati)
 - [Trottie McQueen](https://github.com/trottiemcqueen)
 - [Jyotiraditya Mishra](https://github.com/Jmishra49)
@@ -934,7 +932,7 @@ Aaron
 - [Raghul D](https://github.com/Raghul18)
 - [Preston Harms](https://github.com/R3dPnd)
 - [Tanishq Agarwal](https://github.com/Tanishq2807)
-- [Vishnu MK](https://github.com/vishnu-mkv) 
+- [Vishnu MK](https://github.com/vishnu-mkv)
 - Joseph Martinez
 - [Gerardo Franco](https://github.com/jgfranco)
 - [Michal Tomaszewski](https://github.com/mtom407)
@@ -1874,7 +1872,7 @@ Aaron
 - [buriedBug](https://github.com/buriedBug)
 - [Harold Song](https://github.com/swyhrld)
 - [foliage21](https://github.com/foliage21)
-- [alkas](https://github.com/exalkas 'software engineer')
+- [alkas](https://github.com/exalkas "software engineer")
 - [Arun Kumar Marndi](https://github.com/arunkumarmarndi)
 - [Zullu Balti](https://github.com/ZulluBalti)
 - [Jordan Flanagan](https://github.com/jflaney23)
@@ -2023,7 +2021,7 @@ Aaron
 - [Rayner Susanto](https://github.com/raynersusanto0)
 - [Ahmed ElSaeed](https://github.com/asmpro7)
 - [Krishnaraja Sagar](https://krishnarajasagar.github.io)
-greeshmanth
+  greeshmanth
 - [Edison Zhou](https://github.com/nosidezhou)
 - [harsh dewan]
 - [Loïc Franchina Loiseau]
