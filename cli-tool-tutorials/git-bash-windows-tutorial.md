@@ -18,42 +18,42 @@ If you don't have Git Bash on your windows machine, [install it](https://git-scm
 
 ## Fork this repository
 
-Fork this repo by clicking on the fork button on the top right of this page.
+Fork this repo by clicking on the fork button located in the upper-right corner of this page.
 This will create a copy of this repository in your account.
 
 ## Clone the repository
 
-Now clone this repo to your machine.
+Now clone this repo to your machine(windows, linux or mac).
 
 IMPORTANT: DO NOT CLONE THE ORIGINAL REPO. Go to your fork and clone it.
 
-To clone the repo, click on "Code" and then copy the string down below.
+To clone the repo, click on "Code" and copy the url below.
 
 <img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-clone-1.png" alt="copy string" />
 
-Open the git bash application you just downloaded. It should look like the image down below if its on a windows machine.
+Open the git bash application you just downloaded. It should look like the image below if its on a windows machine.
 
 <img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-terminal-1.png" alt="open git bash terminal" />
 
-Go to the folder that you want to save this project on by uisng this command
+Change your directory to the folder you want to save this project on by using this command
 
 `cd <folder>`
 
 <img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-terminal-2.png" alt="cd into a folder" />
 
-Use the string you copied in the step above to clone the repository using this command
+Use the url you copied in the step above to clone the repository using this command
 
 `git clone <repo-url>`
 
 <img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-clone-2.png" alt="clone the repository" />
 
-Go to the directory where the repo is and open it up on vs code to make your changes.
+Open the cloned repo folder on vscode to make your changes.
 
 <img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-terminal-3.png" alt="cd into the newly cloned repo" />
 
 ## Create a branch
 
-Now create a branch by uing this simple command. This command not only creates a branch for you but also lets you switch to that branch.
+Now create a branch by using this simple command. This command does not only create a branch for you but also allow you to seamlessly switch to that branch.
 
 ```
 git checkout -b <branch-name>
@@ -83,7 +83,7 @@ First add the change you made to the staging area by using
 
 `git add file-name`
 
-Then write a commit message by sing this command
+Then write a commit message by using this command
 
 `git commit -m "Add your-name to Contributors list"`
 
