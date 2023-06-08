@@ -1704,6 +1704,7 @@ Aaron
 - [Opeyemi O.](https://github.com/lekeope)
 - [Flxcsx](https://github.com/flxcsx)
 - [Star-ho](https://github.com/Star-ho)
+- [Guerrero Vargas](https://github.com/guerrerovg)
 - [Bengisu Duru Goksu](https://github.com/bengisudurugoksu)
 - [SyntaxSavvy](https://github.com/SyntaxSavvy)
 - [mimmydev](https://github.com/mimmydev)
