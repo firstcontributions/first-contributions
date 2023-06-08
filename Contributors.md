@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start and welcome -->
-
+- [Vishal Chaudhary](https://github.com/VishalChaudhary-Github)
 - [Nandha Kumar](https://github.com/tnrock)
 - [Aaron Newbigging](https://github.com/Pastasource)
 - [Rex Cheng](https://github.com/lychengrex)
