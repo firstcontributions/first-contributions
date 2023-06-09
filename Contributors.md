@@ -13,6 +13,7 @@
 - [Devanshu Augusty](https://github.com/Devanshu-Augusty)
 - [Zachary Murphy](https://github.com/ZacharyJTMurphy)
 - [Muhammad Haris](https://github.com/headlessNode)
+- [Avinesh Rathore](https://github.com/Avinesh2)
 - [Vedang](https://github.com/vedang685)
 - [AlexEG](https://github.com/AlexEG)
 - [Amir Sefidgar](https://github.com/amstfn)
