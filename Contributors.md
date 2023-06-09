@@ -558,6 +558,7 @@ Aaron
 - [pradeep kc](https://github.com/pradeepkc11)
 - [Aryant Kumar](https://github.com/Aryant01)
 - [Stanislav Matšel](https://github.com/StanislavMachel)
+- [Krushna Kanta Rout](https://github.com/krushnarout90)
 - [Davis Onyeoguzoro](https://github.com/Davisonyeas)
 - [jdszekeres](https://github.com/jdszekeres)
 - [Emilio Aranda](https://github.com/emiara)
