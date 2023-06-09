@@ -5,6 +5,7 @@
 - [Nandha Kumar](https://github.com/tnrock)
 - [Aaron Newbigging](https://github.com/Pastasource)
 - [Rex Cheng](https://github.com/lychengrex)
+- [Ramon Ortega](https://github.com/RamonJOrtega)
 - [Mohd Farhan Nawaz](https://github.com/mohdfarhannawaz)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Anadu Godwin](https://github.com/AnaduCG)
