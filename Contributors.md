@@ -412,7 +412,7 @@ Aaron
 - [Jerry Yan](https://github.com/jerryy668)
 - [Chico Stick](https://github.com/ChicoStickowo)
 - [Juli Levi](https://github.com/julilll)
-- [Mayank Ratre](https://github.com/MAYANKRATRE10)
+- [Mayank Kumar Ratre](https://github.com/MAYANKRATRE10)
 - [Christo Grabowski](https://github.com/ChristoGrab)
 - [Vishnu Gitta] (https://github.com/Vishnu-1703)
 - [Sam Joshua](https://github.com/Sam-Joshua-S)
