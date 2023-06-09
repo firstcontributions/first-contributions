@@ -91,6 +91,7 @@
 - [Zach Boquet](https://github.com/Kurokio)
 - [Ifeoluwa Aroboto] (https://github.com/IfeoluwaAroboto)
 - [Manideep](https://github.com/Manideep519)
+- [Kizaki Ronggo](https://github.com/ronggothelast)
 - [Ilay Eldar](https://github.com/ilayEldar24)
 - [Jonathan Kariuki](https://github.com/JonathanSecondGithub)
 - [Junji](https://github.com/juunjii)
