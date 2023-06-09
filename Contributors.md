@@ -2063,6 +2063,7 @@ greeshmanth
 - Buggy
 - kritika singh
 - [Jeff Loop](https://github.com/jefferyloop)
+- [Daekyue](https://github.com/Daekyue)
 - [John Möller](https://github.com/fyradur)
 - [Carlos Sais](https://github.com/csais3)
 - [RanJinh](https://github.com/RanJinh)
