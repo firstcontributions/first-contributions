@@ -44,6 +44,7 @@
 - [Milan Lakhani](https://github.com/milan-lakhani)
   [Manas Anand Singh](https://github.com/MSAndromeda)
 - [Siim Sink](https://github.com/sinkkkk)
+- [Nitesh Saini](https://github.com/nitesh047)
 - [Mayank Gautam]
 - Rahul-Sharing
 - [Abhishek Kumar](https://github.com/abhishek-Roy22)
