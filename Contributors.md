@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+- [Annalea Layton](https://github.com/AnnaleaLayton)
 - [Nandha Kumar](https://github.com/tnrock)
 - [Aaron Newbigging](https://github.com/Pastasource)
 - [Rex Cheng](https://github.com/lychengrex)
