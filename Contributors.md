@@ -92,6 +92,7 @@
 - [Ifeoluwa Aroboto] (https://github.com/IfeoluwaAroboto)
 - [Manideep](https://github.com/Manideep519)
 - [Ilay Eldar](https://github.com/ilayEldar24)
+- [Milan Petrovic](https://github.com/m1kkY8)
 - [Jonathan Kariuki](https://github.com/JonathanSecondGithub)
 - [Junji](https://github.com/juunjii)
 - [Akhil](https://github.com/Akhil-77)
