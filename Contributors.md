@@ -1,8 +1,9 @@
 # Contributors
 
 <!-- prettier-ignore-start and welcome -->
--[Kalluri naveen](https://github.com/kalluri02002)
+
 - [Nandha Kumar](https://github.com/tnrock)
+- [Kalluri naveen](https://github.com/kalluri02002)
 - [Aaron Newbigging](https://github.com/Pastasource)
 - [Rex Cheng](https://github.com/lychengrex)
 - [Mohd Farhan Nawaz](https://github.com/mohdfarhannawaz)
