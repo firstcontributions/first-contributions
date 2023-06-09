@@ -16,6 +16,7 @@
 - [Vedang](https://github.com/vedang685)
 - [AlexEG](https://github.com/AlexEG)
 - [Amir Sefidgar](https://github.com/amstfn)
+- [Akash Upadhyay](https://github.com/MJakash)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 - [babujal]
 - [✌Husseini Mudi Profsain](https://github.com/Profsain)
