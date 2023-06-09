@@ -966,6 +966,7 @@ Aaron
 - [Akshay Soni](https://github.com/akshaysoni10)
 - [Denis Koshelev](https://github.com/kshpdr)
 - [youngjun1227](https://github.com/youngjun1227)
+- [Yaswanth Gosula](https://github.com/yashug)
 - [Ankit Gupta](https://github.com/Ankit-Gupta0)index
 - [Vinci Liu](https://github.com/vinciliu30)
 - [Veena P D](https://github.com/VeenaPD)
