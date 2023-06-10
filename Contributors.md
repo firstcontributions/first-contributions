@@ -1102,6 +1102,7 @@ Aaron
 - [Jesús Córdova Núñez](https://github.com/antonyjes)
 - [Adrien ANTON LUDWIG](https://github.com/Adrien-ANTON-LUDWIG)
 - [Manish](https://github.com/manish-xyz)
+- [Randolph C.](https://github.com/randolph-c)
 - [Anugrah Rachman](https://github.com/kidomega-byte/)
 - [Marc López Aiblinger](https://github.com/mlopezab)
 - [MarcosvAureliosl](https://github.com/marcosaureliosl)
