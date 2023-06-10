@@ -61,6 +61,7 @@
 - [Piyush Pawar](https://github.com/piyushpawar54)
 - [Devojoyti Pal](https://github.com/Devojoytip)
 - [Kuber Acharya](https://github.com/thekubera)
+- [Jo-pl](https://github.com/Jo-pl)
 - [Luis Cepeda](https://github.com/LuisCepeda)
 - [Aditya patil](https://github.com/AdityaPatil111)
 - [Aditya Datta](https://github.com/Aditya007Datta)
