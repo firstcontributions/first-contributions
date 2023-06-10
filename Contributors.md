@@ -65,6 +65,7 @@
 - [Mayank Gautam]
 - Tamanna
 - Rahul-Sharing
+- [Tyler Lowe](https://github.com/TylerRLowe)
 - [Abhishek Kumar](https://github.com/abhishek-Roy22)
 - [Irsyad](https://github.com/charIrsyad)
 - [Matt Jarrett](https://github.com/mvjarrett)
