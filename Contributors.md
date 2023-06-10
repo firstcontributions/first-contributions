@@ -802,6 +802,7 @@ Aaron
 - [kosen13](https://github.com/kosen13)
 - [K-Huynh](https://github.com/CheckeredCookie)
 - [DOngre Jaipal](https://github.com/Wolfjai513)
+- [Michael Hy](https://github.com/HyMike)
 - [Suman Parui](https://github.com/suman897)
 - [Noa Jakob](https://github.com/TrinityOfNJK)
 - [Rahul Tripathi](https://github.com/rahultripathi-dev)
