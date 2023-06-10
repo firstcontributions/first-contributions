@@ -15,6 +15,7 @@
 - [Muhammad Haris](https://github.com/headlessNode)
 - [Vedang](https://github.com/vedang685)
 - [AlexEG](https://github.com/AlexEG)
+- [Lê Đức Anh](https://github.com/ducanh2706)
 - [Amir Sefidgar](https://github.com/amstfn)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 - [babujal]
