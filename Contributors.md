@@ -164,7 +164,7 @@
 - [John](https://github.com/duckheap)
 - [Irfan](https://github.com/Parjival)
 - [Nur Farah](https://github.com/Nur-farah)
-- [eyitayo babatope](https://github.com/eyitayo-alt)
+-[eyitayo babatope](https://github.com/eyitayo-alt)
 - [Anand Raj](https://github.com/anand346)
 - [Adrian Camuti] (https://github.com/ApogeeAC)
 - [Phil] (https://github.com/psmail147)
