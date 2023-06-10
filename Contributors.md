@@ -391,6 +391,7 @@
 - [Gyaur](https://github.com/Gy4ur)
 - [Berdiguly Yaylymov](https://github.com/yaylymov)
 - [Mehboob Khan](https://github.com/Mehboob-Khan)
+- [Tyler Sunderland](https://github.com/ThatTyGuy)
 - [Samarpita Roy](https://github.com/SamarpitaRoy)
 - [Cuong Nguyen](https://github.com/nguyencuong1005)
 - [Hein Htun Zaw](https://github.com/yuu1994)
