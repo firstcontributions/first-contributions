@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start and welcome -->
 
 - [Nandha Kumar](https://github.com/tnrock)
+- [Steven Veal](https://github.com/DolphinBeans)
 - [Aaron Newbigging](https://github.com/Pastasource)
 - [Rex Cheng](https://github.com/lychengrex)
 - [Mohd Farhan Nawaz](https://github.com/mohdfarhannawaz)
