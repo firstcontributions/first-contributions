@@ -88,6 +88,7 @@
 - [Rajneesh Kumar](https://github.com/rajneeshgithub73)
 - [dasari Manoj](https://github.com/Manudasari265)
 - [Vikas Wakde](https://github.com/VikasWakde)
+- [Franz Ka](https://github.com/franzk)
 - [Adewale Kujore](https://github.com/Adewale66)
 - [Sahil Chugh](https://github.com/sahil-1109)
 - [Andre Chua](https://github.com/andrechuakj)
