@@ -432,6 +432,7 @@
 Aaron
 - [Satyam Nyati](https://github.com/satyamnyati)
 - [Trottie McQueen](https://github.com/trottiemcqueen)
+- [Shashank Handa](https://github.com/Shashank-Handa)
 - [Jyotiraditya Mishra](https://github.com/Jmishra49)
 - [Yash Mistri](https://github.com/yashmistri/)
 - [mikmc](https://github.com/mik25)
