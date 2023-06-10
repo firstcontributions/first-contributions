@@ -56,6 +56,7 @@
 - Tamanna
 - Rahul-Sharing
 - [Abhishek Kumar](https://github.com/abhishek-Roy22)
+- [Irsyad](https://github.com/charIrsyad)
 - [Matt Jarrett](https://github.com/mvjarrett)
 - ![Joshua Ramat](https://github.com/joshuaramat)
 - [Sekinat Oyero](https://github.com/Sekinat-oyero)
