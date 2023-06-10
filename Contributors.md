@@ -2128,6 +2128,7 @@ greeshmanth
 - [KuanChieh Lien](https://github.com/jazzpujols34)
 - [Rubin Bhandari](https://github.com/rubiin)
 - AprilZhou
+- [AIAM2601](https://github.com/AIAM2601)
 - [Mayank saini](https://github.com/Mayanksaini1234)
 - [Winnie Jeng](https://github.com/winniewjeng)
 - [Abbie Sims](https://github.com/abbiesims)
