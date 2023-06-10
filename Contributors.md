@@ -302,6 +302,7 @@
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 - [Leandro Robert](https://github.com/leanrobert)
 - [Adnan Mostafa](https://github.com/AdnanMostafa)
+- [Irakoze Yves](https://github.com/irakozetony/)
 - Jagdish Kancharapu
 - Paul Kenyanya Omweri
 - Manny G
