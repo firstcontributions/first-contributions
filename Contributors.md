@@ -34,6 +34,7 @@
 - [Damoon Darvishi](https://github.com/DamoonDarvishi)
 - [Shubham Tamrakar](https://github.com/shubham-tam)
 - [Omi](https://github.com/NormTurtle)
+- [Roger](https://github.com/rogerkaplan)
 - [Zalman Gagerman](https://github.com/zalmang)
 - [Gauri Tripathi](https://github.com/GauriTr)
 - [Kyaw Zay Ya] (https://github.com/kyawzayya2222)
