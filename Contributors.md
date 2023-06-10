@@ -141,6 +141,7 @@
 - Igniseri
 -  [hina javed](https://github.com/hinajaved123)
 - [Rima Nurkholifah](https://github.com/rimanurfah)
+- [Saksham Misra](https://github.com/vinfinity7)
 - [PJ Angeloni 🔭🔬💻](https://github.com/PaoloJr90)
 - [Sumit Dethe](https://github.com/sumitdethe27)
 - Prakhar Pradhan
