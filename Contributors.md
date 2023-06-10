@@ -21,6 +21,7 @@
 - [Amir Sefidgar](https://github.com/amstfn)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 - [babujal]
+- [Jack Gerry](https://github.com/JackGerry1)
 - [✌Husseini Mudi Profsain](https://github.com/Profsain)
 - [Damoon Darvishi](https://github.com/DamoonDarvishi)
 - [Omi](https://github.com/NormTurtle)
