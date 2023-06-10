@@ -7,6 +7,7 @@
 - [Steven Veal](https://github.com/DolphinBeans)
 - [Aaron Newbigging](https://github.com/Pastasource)
 - [Rex Cheng](https://github.com/lychengrex)
+- [Pavankalyan Nagulla](https://github.com/Pavan-Nagulla)
 - [Mohd Farhan Nawaz](https://github.com/mohdfarhannawaz)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Anadu Godwin](https://github.com/AnaduCG)
