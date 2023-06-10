@@ -547,6 +547,7 @@ Aaron
 - [Kumar Sanjay] (https://github.com/sanjay493)
 - Drax Bes
 - [Toby Frick](https://github.com/FrickTob)
+- [Aidan Stambaugh](https://github.com/aidsvm)
 - [Vivek Kumar](https//github.com/zeal2end)
 - [Darren Harris](https://github.com/theharriscode)
 - [Albert Jannsen Ramos](https://github.com/HuggableCapybara)
