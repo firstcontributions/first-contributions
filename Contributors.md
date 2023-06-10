@@ -447,6 +447,7 @@ Aaron
 - [Chico Stick](https://github.com/ChicoStickowo)
 - [Juli Levi](https://github.com/julilll)
 - [Christo Grabowski](https://github.com/ChristoGrab)
+- [Kazuya-san](https://github.com/Kazuya-san)
 - [Vishnu Gitta] (https://github.com/Vishnu-1703)
 - [Sam Joshua](https://github.com/Sam-Joshua-S)
 - [Jay Adeyina](https://github.com/Hyuuga81)
