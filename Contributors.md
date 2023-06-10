@@ -76,6 +76,7 @@
 - [Ali Aizn](https://github.com/aliaizn)
 - [Mohammed Hashim K](https://github.com/mohammed-hashim-k)
 - [Piyush Pawar](https://github.com/piyushpawar54)
+- [Elpidio Julian](https://github.com/Elpidio-Julian)
 - [Devojoyti Pal](https://github.com/Devojoytip)
 - [Kuber Acharya](https://github.com/thekubera)
 - [Jo-pl](https://github.com/Jo-pl)
