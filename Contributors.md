@@ -1114,6 +1114,7 @@ Aaron
 - [John Finley](https://github.com/jfinley6)
 - [Shivansh Guleria](https://github.com/ShivanshGuleria)
 - [Swaraj](https://github.com/swarajzz)
+- [Aleister Satkuna](https://github.com/Satku0)
 - [Merabtene Islam](https://github.com/merabtenei)
 - [Nawaraj karki](https://github.com/Nawarajkarki/)
 - [Gangadhar Reddy](https://github.com/gangadharreddy98)
