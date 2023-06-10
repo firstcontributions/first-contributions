@@ -35,6 +35,7 @@
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
 - [Norvillie Villaruel](https://github.com/nozky)
 - [Prerna Singh](https://github.com/PrernaSingh01)
+- Tamanna Niger Tuly
 - [Soy Eric](https://github.com/ibrahimeric)
 - [Mandeep Singhmar](https://github.com/Mandeepsinghmar)
 - [Elizabeth Czarny](https://github.com/Elizabeth-Cz)
@@ -49,6 +50,7 @@
   [Manas Anand Singh](https://github.com/MSAndromeda)
 - [Siim Sink](https://github.com/sinkkkk)
 - [Mayank Gautam]
+- Tamanna
 - Rahul-Sharing
 - [Abhishek Kumar](https://github.com/abhishek-Roy22)
 - [Matt Jarrett](https://github.com/mvjarrett)
