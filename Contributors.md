@@ -1579,6 +1579,7 @@ Aaron
 - [Revathi Vijayendran](https:github.com/vrrevi)
 - [Damon Xue](https://github.com/damonxue)
 - [Alex J](https://github.com/scjundev)
+- [Andre Perez Esq.](https://github.com/codeonrepeat)
 - [Marcos Santiago](https://github.com/Imaginarybandit)
 - [Honoris Gratias Ndereyimana. 😉](https://github.com/nhonorisg/)
 - [Alessandro Saggese 😎](https://github.com/asaggse/)
