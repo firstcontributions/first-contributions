@@ -93,6 +93,7 @@
 - [Aditya Datta](https://github.com/Aditya007Datta)
 - [Rajneesh Kumar](https://github.com/rajneeshgithub73)
 - [dasari Manoj](https://github.com/Manudasari265)
+- [sz](https://github.come/shenrunzhang)
 - [Vikas Wakde](https://github.com/VikasWakde)
 - [Franz Ka](https://github.com/franzk)
 - [Adewale Kujore](https://github.com/Adewale66)
