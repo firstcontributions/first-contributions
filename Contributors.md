@@ -83,6 +83,7 @@
 - [Pranita Dane](https://github.com/pranita28Dane)
 - [Hastimal Shah](https://github.com/hasti)
 - [Rohan Fulzele](https://github.com/Rohanfulzele)
+- [Rishit Mori](https://github.com/RishitMori)
 - [Veselin Velchev] (https://github.com/vesv)
 - [Aakash Sharma](https://github.com/Aakash447)
 - [Michael Christwin](https://github.com/michaelchristwin)
