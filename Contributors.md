@@ -2138,3 +2138,4 @@ greeshmanth
 - [Abhishek Mishra] (https://github.com/Abhishek-0009/)
 - [Shuvkant Phanait](https://github.com/shuvkant)
 - [Archit Gajjar](https://github.com/ArchitGajjar)
+- [Georges Del Favero](https://github.com/gdelfavero)
