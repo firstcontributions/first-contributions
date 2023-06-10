@@ -24,6 +24,7 @@
 - [babujal]
 - [Jack Gerry](https://github.com/JackGerry1)
 - [✌Husseini Mudi Profsain](https://github.com/Profsain)
+- [Vansh Rai Saini](https://github.com/vanshraisaini)
 - [Damoon Darvishi](https://github.com/DamoonDarvishi)
 - [Omi](https://github.com/NormTurtle)
 - [Zalman Gagerman](https://github.com/zalmang)
