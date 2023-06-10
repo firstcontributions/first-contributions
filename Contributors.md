@@ -2154,6 +2154,7 @@ greeshmanth
 - [Jimmy Batuhan](https://github.com/jimmybatuhan)
 - [Nivin](https://github.com/ilynivin)
 - [PARTHIBAN.B](https://github.com/parthibanb224)
+- [Rish Naya]
 - [KuanChieh Lien](https://github.com/jazzpujols34)
 - [Rubin Bhandari](https://github.com/rubiin)
 - AprilZhou
