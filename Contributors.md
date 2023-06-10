@@ -760,6 +760,7 @@ Aaron
 - [notdncly]() -[Arjun]
   [Hung Cai](https://github.com/Pro-vo-ker)
 - [Tally](https://github.com/tryintofindtally)
+- [Mohd Huzaifa](https://github.com/hawkeye359)
 - [Stephen Adesina](https://github.com/adstefnum)
 - [Loren Gayle](https://github.com/lorenzeo)
 - [Joel Lozano](https://github.com/joel-lozano)
