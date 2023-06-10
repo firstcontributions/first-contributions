@@ -134,6 +134,7 @@
 -  shlomo-michalovich
 - IamMahfooz
 - [nnminhtan](https://github.com/nnminhtan)
+- [Rishabh](https://github.com/rishabhr4)
 - [Noriomusha](https://github.com/Noriomusha)
 - [Aditya Agarwal](https://github.com/adi790uu)
 - Bhagyalakshmi
