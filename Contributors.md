@@ -550,6 +550,7 @@ Aaron
 - [almostJohn](https://github.com/almostJohn)
 - [KushalBosu](https://github.com/KushalBosu)
 - [Christos Kontomitros](https://github.com/ckontomitros)
+- [Reagan DeLong](https://github.com/ReaganDeLong)
 - [Abdelrahman Elsayed](https://github.com/onepercentgold)
 - [mekonical22](https://github.com/mekonical22)
 - [Osvaldo Trevino](https://github.com/Swixh)
