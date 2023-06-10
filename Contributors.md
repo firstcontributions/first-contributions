@@ -1072,6 +1072,7 @@ Aaron
 - [Christopher Gibbon](https://github.com/crhisgbibon)
 - [Chhaganlaal](https://github.com/Chhaganlaal)
 - [Chandra Kiran](https://github.com/chandra-kiran1)
+- [Sumeet Singh](https://github.com/SumeetSinghJi)
 - [Aryan Thakore](https://github.com/Aryan1982)
 - [Mykhailo Gavryliuk](https://github.com/Michael1249)
 - [Hamza Nehme](https://github.com/hnehme99)
