@@ -23,6 +23,7 @@
 - [Lê Đức Anh](https://github.com/ducanh2706)
 - [Amir Sefidgar](https://github.com/amstfn)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
+- [Fred Vuni](https://github.com/FREDVUNI)
 - [Muhammed Asif](https://github.com/ghostMan-pac)
 - [babujal]
 - [Jack Gerry](https://github.com/JackGerry1)
