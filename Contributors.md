@@ -2113,6 +2113,7 @@ greeshmanth
 - [Aftab N](https://github.com/aftabnabi)
 - [Viet Quoc Nguyen](https://github.com/viet2307)
 - [Phuong Nguyen](https://github.com/png261)
+  [Parth Boghani](https://github.com/Parthboghani)
 - [TKtjpk](https://github.com/TKtjpk)
 - [Lennart Pries](https://github.com/lennart02)
 - [Rochelle](https://github.com/RochelleNi)
