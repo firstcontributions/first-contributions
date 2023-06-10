@@ -934,7 +934,7 @@ Aaron
 - [Raghul D](https://github.com/Raghul18)
 - [Preston Harms](https://github.com/R3dPnd)
 - [Tanishq Agarwal](https://github.com/Tanishq2807)
-- [Vishnu MK](https://github.com/vishnu-mkv) 
+- [Vishnu MK](https://github.com/vishnu-mkv)
 - Joseph Martinez
 - [Gerardo Franco](https://github.com/jgfranco)
 - [Michal Tomaszewski](https://github.com/mtom407)
@@ -1821,6 +1821,7 @@ Aaron
 - [Ivan Israel](https://github.com/marehori)
 - [H-ADJI](https://github.com/H-ADJI)
 - [Erisae](https://github.com/Erisae)
+- [Angus Wu](https://github.com/anguswu1022)
 - [Tobias Jennert](https://github.com/tobijen)
 - [Sebitosh](https://github.com/Sebitosh)
 - [Ahmad Hassan](https://github.com/ah7255703)
