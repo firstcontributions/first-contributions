@@ -4,6 +4,7 @@
 
 - [Abhay Donga](https://github.com/AbhayDonga007)
 - [Nandha Kumar](https://github.com/tnrock)
+- [Somasekhar](https://github.com/SomuTech)
 - [Steven Veal](https://github.com/DolphinBeans)
 - [Aaron Newbigging](https://github.com/Pastasource)
 - [Rex Cheng](https://github.com/lychengrex)
