@@ -2116,6 +2116,7 @@ greeshmanth
 - [Christopher Perez Lebron] (https://github.com/ChrisPerezLebron)
 - [Dev Rishi Jain] (https://github.com/DevRishiJain)
 - [crestianiam](https://github.com/crestianiam)
+- [turm3r1c](https://github.com/turm3r1c)
 - [Wai Lee](https://github.com/halfwai)
 - [khadar vali](https://github.com/khadar1020)
 - [Niek Jacobse](https://github.com/NiekJacobse)
