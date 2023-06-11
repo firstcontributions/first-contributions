@@ -59,6 +59,7 @@
 - [Malaz Naquib](https://github.com/malaz-naquib)
 - [Agastaya Sharma](https://github.com/Agastaya23)
 - [Adarsh Yadav](https://github.com/codebreaker0001)
+- [Khushi Sharma](https://github.com/Khushisharma23)
 - [Artem Yershov](https://github.com/YershovArt)
 - [Alen Chen](https://github.com/ChenYunyue)
 - [MD Ahsan Habib](https://github.com/md-ahsanhabib)
