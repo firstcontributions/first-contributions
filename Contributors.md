@@ -418,6 +418,7 @@
 - [Billy Phan](https://github.com/bphan002)
 - [Vishisht Makkar](https://github.com/v-makkar)
 - [koya-tech](https://github.com/koya-tech)
+- [Kushagra Gupta](https://github.com/MistyRavager)
 - [James-Christie](https://github.com/James-Christie)
 - [ARYAN](https://github.com/aryanhr0001)
 - [CrazyOutOff](https://github.com/CrazyOutOff)
