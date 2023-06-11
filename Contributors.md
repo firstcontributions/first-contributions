@@ -132,6 +132,7 @@
 - [Javier Ramirez](https://github.com/ramirezj129)
 - [Roger Massana](https://github.com/massanaRoger)
 - [Yash Patel](https://github.com/theyashpatel)
+  Shreyash Verma
 - [Richi](https://github.com/Zerov1000)
 - [Noel Illing](https://github.com/nilling4)
 - Md Raquib 🔥🔥 (https://github.com/RaquibDox)
