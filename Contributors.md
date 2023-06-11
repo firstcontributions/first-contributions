@@ -253,6 +253,7 @@
 - [Sampath Vatsavaya](https://github.com/Sampath-Vatsavaya)
 - Gaurav Bhambhani
 - Marcel
+- Rajat (https://github.com/rajatrokde)
 -[Emre](https://github.com/etdesign)
 - [P1K5UP](https://github.com/P1K5UP)
 - [Jatin Bhatia](https://github.com/jatinb92)
