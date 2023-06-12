@@ -4,6 +4,7 @@
 
 - [Abhay Donga](https://github.com/AbhayDonga007)
 - [Nandha Kumar](https://github.com/tnrock)
+- [Alexandra Skopina](https://github.com/skopina-alexandra)
 - [Widdershins](https://github.com/Widdershins89)
 - [Steven Veal](https://github.com/DolphinBeans)
 - [Aaron Newbigging](https://github.com/Pastasource)
