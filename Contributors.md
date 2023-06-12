@@ -66,7 +66,6 @@
 - [Milan Lakhani](https://github.com/milan-lakhani)
   [Manas Anand Singh](https://github.com/MSAndromeda)
 - [Siim Sink](https://github.com/sinkkkk)
-- [Emilio Jimenez](https://github.com/ejimeneztech)
 - [Mayank Gautam]
 - Tamanna
 - Rahul-Sharing
@@ -1080,6 +1079,7 @@ Aaron
 - [Dibakar Upadhyaya](https://github.com/Dibakar01)
 - [Lamp Pigs](https://github.com/gdelr)
 - [Johan Kreivi](https://github.com/0h4y)
+- [Emilio Jimenez](https://github.com/ejimeneztech)
 - [Gaurav Patil](https://github.com/GauravPatil8778)
 - [Suryajith Ms](https://github.com/Suryajith32)
 - [Abhay Shak](https://github.com/Shaks20)
