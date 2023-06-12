@@ -34,6 +34,7 @@
 - [Vansh Rai Saini](https://github.com/vanshraisaini)
 - [Damoon Darvishi](https://github.com/DamoonDarvishi)
 - [Shubham Tamrakar](https://github.com/shubham-tam)
+- [Disha Vig](https://github.com/vigdisha)
 - [Omi](https://github.com/NormTurtle)
 - [Roger](https://github.com/rogerkaplan)
 - [Zalman Gagerman](https://github.com/zalmang)
