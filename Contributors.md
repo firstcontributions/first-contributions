@@ -2135,6 +2135,7 @@ greeshmanth
 - [Lennart Pries](https://github.com/lennart02)
 - [Rochelle](https://github.com/RochelleNi)
 - [Rakesh Pradhan](https://github.com/Rakeshpradhan1999)
+- [Grisha Suknikh](https://github.com/AbstractShief)
 - Aviya Atias
 - Buggy
 - kritika singh
