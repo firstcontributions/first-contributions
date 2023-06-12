@@ -1068,6 +1068,7 @@ Aaron
 - [Gustavo Cordeiro](https://github.com/gustavocordeiro23)
 - [Rao Khuram Shahzad](https://github.com/KhuramShahzad-5335)
 - [Nikita Mahamuni](https://github.com/Nikita0509/)
+- [Lakshya Mahawar](https://github.com/lakshyamahawar14)
 - [Yash Deharia](https://github.com/yashdeharia)
 - [Akshay Kudalkar](https://github.com/Akshaykk12)
 - [Shravan Seth](https://github.com/ShravanSeth)
@@ -2108,7 +2109,7 @@ greeshmanth
 - [Jeffery Jiang](https://github.com/jeffery1995)
 - [Sherin Saji](https://github.com/sherinksaji)
 - [Hugo Schulz](https://github.com/HugoSchulz)
-- [Metehan Günen](https://github.com/Metrohan]
+- [Metehan Günen](https://github.com/Metrohan)
 - [Tom Starkey](https://github.com/TomStarkey)
 - [northernbelle87](https://github.com/northernbelle87)
 - [Sujal Tangde] (https://github.com/sujaltangde/)
