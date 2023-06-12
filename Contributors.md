@@ -47,6 +47,7 @@
 - [Tanmai Kalisipudi](https://github.com/tanmaik)
 - [Muhammed Ali Özcan ](https://github.com/Rhipheus)
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
+[Ethan Bagunas](https://github.com/EthanBagunas)
 - [Norvillie Villaruel](https://github.com/nozky)
 - [Prerna Singh](https://github.com/PrernaSingh01)
 - Tamanna Niger Tuly
