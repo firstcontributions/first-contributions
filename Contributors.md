@@ -16,6 +16,7 @@
 - [Youssef Jrab](https://github.com/yjrab)
 - [Isaiah Swain](https://github.com/imswain)
 - [Ilay Eldar](https://github.com/ilayEldar24)
+- [Michele Specchia](https://github.com/MicheleSpecchia)
 - [Vaibhavharsoda](https://github.com/vaibhavharsoda)
 - [Devanshu Augusty](https://github.com/Devanshu-Augusty)
 - [Zachary Murphy](https://github.com/ZacharyJTMurphy)
