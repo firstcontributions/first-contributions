@@ -42,6 +42,7 @@
 - [Colin McKerracher](https://github.com/colmck)
 - [Omoogun Olawale](https://github.com/olawale-o)
 - [Isaac Achenbach](https://github.com/isaacach)
+- [Kiran Sadaye](https://github.com/kiran215)
 - [Leon Heinrich](https://github.com/LionLostInCode)
 - [Matthew West](https://github.com/MattWestGH)
 - [Tanmai Kalisipudi](https://github.com/tanmaik)
