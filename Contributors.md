@@ -71,6 +71,7 @@
 - Rahul-Sharing
 - [Tyler Lowe](https://github.com/TylerRLowe)
 - [Abhishek Kumar](https://github.com/abhishek-Roy22)
+  [Ethan Bagunas](https://github.com/EthanBagunas)
 - [Irsyad](https://github.com/charIrsyad)
 - [Matt Jarrett](https://github.com/mvjarrett)
 - ![Joshua Ramat](https://github.com/joshuaramat)
