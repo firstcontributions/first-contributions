@@ -782,6 +782,7 @@ Aaron
 - [Jane Okeke](https://github.com/nkechijane)
 - [eest12](https://github.com/eest12)
 - [Tahrour Mustapha Aymen](https://github.com/Aymen-TM)
+- [AndreaMontes] (https://github.com/andre83411)
 - [Lazymo](https://github.com/Lazymo-Python)
 - [Blood Pirouette](https://github.com/Blood-Pirouette)
 - Natasha Mundada
