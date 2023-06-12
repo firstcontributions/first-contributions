@@ -2173,4 +2173,5 @@ greeshmanth
 - [Abhishek Mishra] (https://github.com/Abhishek-0009/)
 - [Smit Raichura] (https://github.com/smit-raichura)
 - [Shuvkant Phanait](https://github.com/shuvkant)
+- [Hamilton Fantin](https://github.com/hfantin)
 - [Archit Gajjar](https://github.com/ArchitGajjar)
