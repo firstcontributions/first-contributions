@@ -1,0 +1,89 @@
+name: Auto-merge PRs
+on:
+  pull_request:
+    types: [opened, synchronize]
+
+jobs:
+  auto-merge:
+    runs-on: ubuntu-latest
+    steps:
+      # Check out the repository code
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      # Check if the pull request only modifies the CONTRIBUTORS.md file
+      - name: Check if PR only modifies CONTRIBUTORS.md
+        id: is_only_contributors_file_changed
+        run: |
+          # Get a list of files changed in the pull request
+          FILES_CHANGED=$(git diff --name-only HEAD HEAD~1)
+          # Check if the list of changed files only contains the CONTRIBUTORS.md file
+          if [[ "$FILES_CHANGED" == "CONTRIBUTORS.md" ]]; then
+            # Set the only_contributors output variable to 'true'
+            echo "::set-output name=only_contributors::true"
+          else
+            # Set the only_contributors output variable to 'false'
+            echo "::set-output name=only_contributors::false"
+          fi
+
+      # Merge the pull request if it only modifies the CONTRIBUTORS.md file
+      - name: Merge PR
+        id: merge_pr
+        if: steps.is_only_contributors_file_changed.outputs.only_contributors == 'true'
+        uses: actions/github-script@v5
+        with:
+          script: |
+            # Attempt to merge the pull request using the squash method
+            const response = await github.rest.pulls.merge({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: context.issue.number,
+              merge_method: "squash"
+            })
+            # Check if the merge was successful by checking the status code of the response
+            if (response.status === 200) {
+              # Set the merged output variable to 'true'
+              core.setOutput('merged', 'true')
+            } else {
+              # Set the merged output variable to 'false'
+              core.setOutput('merged', 'false')
+            }
+
+      # Post a comment on the pull request if it was successfully merged
+      - name: Post comment on successful merge
+        if: steps.is_only_contributors_file_changed.outputs.only_contributors == 'true' && steps.merge_pr.outputs.merged == 'true'
+        uses: actions/github-script@v5
+        with:
+          script: |
+            # Post a comment on the pull request using the createComment method
+            github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: "This pull request has been successfully merged. Thank you for your contribution!"
+            })
+
+      # Post a comment on the pull request if it was not merged automatically
+      - name: Post comment on PR if not merged automatically
+        if: steps.is_only_contributors_file_changed.outputs.only_contributors != 'true'
+        uses: actions/github-script@v5
+        with:
+          script: |
+            # Check if the pull request only modifies the CONTRIBUTORS.md file
+            if (steps.is_only_contributors_file_changed.outputs.only_contributors != 'true') {
+              # Post a comment on the pull request saying that it contains changes in other files too which requires review
+              github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: "This pull request contains changes in other files too which requires review."
+              })
+            } else {
+              # Post a comment on the pull request saying that it is on hold for review and should only modify the CONTRIBUTORS.md file and add a non-spam, non-offensive, and non-malicious link.
+              github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: "This pull request is on hold for review. Please make sure that it only modifies the `CONTRIBUTORS.md` file and adds a non-spam, non-offensive, and non-malicious link."
+              })
+            }
