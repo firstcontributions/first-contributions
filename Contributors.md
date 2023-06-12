@@ -974,6 +974,7 @@ Aaron
 - [Aryan Verma](https://github.com/aryanvarma7272)
 - [Vansh Pratap](https://github.com/vansh-pratap)
 - [Aadarsh Naik](https://github.com/aadarshnaik)
+- [Jacqlene Sifre](https://github.com/jss530)
 - [teventov5](https://github.com/teventov5)
 - [kevins0101](https://github.com/kevins0101)
 - [GivingMyBest](https://github.com/GivingMyBest)
