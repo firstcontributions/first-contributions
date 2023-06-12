@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start and welcome -->
 
 - [Abhay Donga](https://github.com/AbhayDonga007)
+-[Vanshika Bhargava](https://github.com/vanshika2910)
 - [Nandha Kumar](https://github.com/tnrock)
 - [Widdershins](https://github.com/Widdershins89)
 - [Steven Veal](https://github.com/DolphinBeans)
