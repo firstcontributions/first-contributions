@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+- [Vivek Kumar Shrivastav](https://github.com/Vivek-Kumar-Shrivastav)
 - [Abhay Donga](https://github.com/AbhayDonga007)
 - [Nandha Kumar](https://github.com/tnrock)
 - [Widdershins](https://github.com/Widdershins89)
