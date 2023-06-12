@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start and welcome -->
 
 - [Abhay Donga](https://github.com/AbhayDonga007)
+- [Jon Griggs](https://github.com/JonGriggs1773)
 - [Nandha Kumar](https://github.com/tnrock)
 - [Widdershins](https://github.com/Widdershins89)
 - [Steven Veal](https://github.com/DolphinBeans)
