@@ -25,10 +25,10 @@
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 - [Muhammed Asif](https://github.com/ghostMan-pac)
 - [babujal]
+- [Akmal Kamarudin](https://github.com/akmal-kamarudin)
 - [Jack Gerry](https://github.com/JackGerry1)
 - [✌Husseini Mudi Profsain](https://github.com/Profsain)
 - [Vansh Rai Saini](https://github.com/vanshraisaini)
-- [Akmal Kamarudin](https://github.com/akmal-kamarudin)
 - [Damoon Darvishi](https://github.com/DamoonDarvishi)
 - [Shubham Tamrakar](https://github.com/shubham-tam)
 - [Omi](https://github.com/NormTurtle)
