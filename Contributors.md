@@ -998,6 +998,7 @@ Aaron
 - Joseph Martinez
 - [Gerardo Franco](https://github.com/jgfranco)
 - [Michal Tomaszewski](https://github.com/mtom407)
+- [herucoro](https://github.com/herucoro)
 - [Dakota Kryzanowski](https://github.com/DakotaKry)
 - [Joshua Rodriguez😁](https://github.com/joshua-rdrgz)
 - [Bzucak12](https://github.com/Bzucak12/)
