@@ -103,6 +103,7 @@
 - [Menua Bedrosian](hhtps://github.com/menuab)
 - [Sunetra Bhowmick](https://github.com/kaiser-sb)
 - [Hans Ibarra](https://github.com/Falaxsa13)
+- [Josue Belarmino](https://github.com/geminitwo)
 - [Sagar Bhat](https://github.com/codingsagar)
 - [Anand Lessard](https://github.com/nandofromthebando)
 - [Divy Don](https://github.com/Divy312)
