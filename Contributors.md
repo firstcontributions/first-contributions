@@ -14,6 +14,7 @@
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Anadu Godwin](https://github.com/AnaduCG)
 - [Youssef Jrab](https://github.com/yjrab)
+- [Diego Rocha](https://github.com/RochaDiego04)
 - [Isaiah Swain](https://github.com/imswain)
 - [Ilay Eldar](https://github.com/ilayEldar24)
 - [Vaibhavharsoda](https://github.com/vaibhavharsoda)
