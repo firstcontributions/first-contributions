@@ -23,6 +23,7 @@
 - [Muhammad Haris](https://github.com/headlessNode)
 - [Vedang](https://github.com/vedang685)
 - [Ismail Chikh Boubekeur](https://github.com/esmo-ts)
+- [Thomas Marascia] (https://github.com/Sergeant-Southwest-Salad)
 - [AlexEG](https://github.com/AlexEG)
 - [Lê Đức Anh](https://github.com/ducanh2706)
 - [Amir Sefidgar](https://github.com/amstfn)
