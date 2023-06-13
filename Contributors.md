@@ -1833,6 +1833,7 @@ Aaron
 - [Jordan Feliphe](https://github.com/jordanrasgado)
 - [Danilo Monteiro](https://github.com/danzz32)
 - [Jash Karangiya 😎](https://github.com/jashkarangiya)
+- [Jihane Majdoul](https://github.com/jihane01)
 - [sumit Gupta](https://github.com/hisumitgupta)
 - [Anurag Sarkar](https://github.com/Anurag-Sarkar)
 - [Zeeshan Lone](https://github.com/still-learning-ev)
@@ -2174,3 +2175,4 @@ greeshmanth
 - [Smit Raichura] (https://github.com/smit-raichura)
 - [Shuvkant Phanait](https://github.com/shuvkant)
 - [Archit Gajjar](https://github.com/ArchitGajjar)
+
