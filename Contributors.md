@@ -20,6 +20,7 @@
 - [Devanshu Augusty](https://github.com/Devanshu-Augusty)
 - [Zachary Murphy](https://github.com/ZacharyJTMurphy)
 - [Raj Agrahari](https://github.com/RajAgrahari)
+- [Aviprit Shah](https://github.com/programmer765/)
 - [Muhammad Haris](https://github.com/headlessNode)
 - [Vedang](https://github.com/vedang685)
 - [Ismail Chikh Boubekeur](https://github.com/esmo-ts)
