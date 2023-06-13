@@ -11,6 +11,7 @@
 - [Rex Cheng](https://github.com/lychengrex)
 - [Pavankalyan Nagulla](https://github.com/Pavan-Nagulla)
 - [Mohd Farhan Nawaz](https://github.com/mohdfarhannawaz)
+- [Grant Growcott](https://github.com/GrantGrowcott)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Anadu Godwin](https://github.com/AnaduCG)
 - [Youssef Jrab](https://github.com/yjrab)
