@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start and welcome -->
-
+- [Amir Tallap](https://github.com/AmirTallap)
 - [Abhay Donga](https://github.com/AbhayDonga007)
 - [Nandha Kumar](https://github.com/tnrock)
 - [Widdershins](https://github.com/Widdershins89)
