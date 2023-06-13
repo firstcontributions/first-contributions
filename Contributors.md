@@ -335,6 +335,7 @@
 - [Nitin Chaudhary](https://github.com/AnCyNitinChaudhary)
 - [Rutvikjoshi63](https://github.com/rutvikjoshi63)
 - [Rohit Sarkar](https://github.com/rohit250799)
+- [Subhasish Panda](https://github.com/Codingpanda252)
 - [Amirkhan](https://github.com/torexanovich)
 - Shilat Ben David
 - [Noobility](https://github.com/Noobility)
