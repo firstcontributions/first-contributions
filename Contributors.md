@@ -1310,6 +1310,7 @@ Aaron
 - [Yemisrach](https://github.com/Yemisrach15)
 - [Aaryan Singh](https://github.com/Aaryan376)
 - [Han Ye Htun](https://github.com/sloth30799)
+- [Suzy Q](https://github.com/blakmagjick)
 - [Arjava Tripathi](https://github.com/ArjavaTripathi)
 - [Amit Roy](https://github.com/amitroy-thedev)
 - [Siddhi Khade](https://github.com/SiddhiKhade)
