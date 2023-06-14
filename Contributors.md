@@ -2172,5 +2172,6 @@ greeshmanth
 - [Ahnaf Al Islam](https://github.com/maskedhypocrite)
 - [Abhishek Mishra] (https://github.com/Abhishek-0009/)
 - [Smit Raichura] (https://github.com/smit-raichura)
+- [Potluru Chakradhar](https://github.com/Chakri341)
 - [Shuvkant Phanait](https://github.com/shuvkant)
 - [Archit Gajjar](https://github.com/ArchitGajjar)
