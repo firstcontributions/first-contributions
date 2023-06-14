@@ -87,6 +87,7 @@
 - [Elpidio Julian](https://github.com/Elpidio-Julian)
 - [Devojoyti Pal](https://github.com/Devojoytip)
 - [Kuber Acharya](https://github.com/thekubera)
+- [PurpleBored](https://github.com/purplebored)
 - [Jo-pl](https://github.com/Jo-pl)
 - [Luis Cepeda](https://github.com/LuisCepeda)
 - [Aditya patil](https://github.com/AdityaPatil111)
