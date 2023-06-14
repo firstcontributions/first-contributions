@@ -51,6 +51,7 @@
 - [Prerna Singh](https://github.com/PrernaSingh01)
 - Tamanna Niger Tuly
 - [Soy Eric](https://github.com/ibrahimeric)
+- [Rujen Maharjan](https://github.com/Rujenmrj)
 - [Mandeep Singhmar](https://github.com/Mandeepsinghmar)
 - [Elizabeth Czarny](https://github.com/Elizabeth-Cz)
 - [Nibraz Rehaman](https://github.com/nibrazrehaman)
