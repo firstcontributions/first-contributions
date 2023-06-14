@@ -30,6 +30,7 @@
 - [Muhammed Asif](https://github.com/ghostMan-pac)
 - [babujal]
 - [Jack Gerry](https://github.com/JackGerry1)
+- [Christoffer Back](https://github.com/backchristoffer)
 - [✌Husseini Mudi Profsain](https://github.com/Profsain)
 - [Vansh Rai Saini](https://github.com/vanshraisaini)
 - [Damoon Darvishi](https://github.com/DamoonDarvishi)
