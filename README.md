@@ -74,6 +74,8 @@
 <kbd>[<img title="پښتو" alt="پښتو" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/af.svg" width="22">](translations/README.ps.md)</kbd>
 <kbd>[<img title="Af-soomaali" alt="Somalia" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/so.svg" width="22">](translations/README.so.md)</kbd>
 <kbd>[<img title="india" alt="devagya" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/so.svg" width="22">](translations/README.so.md)</kbd>
+<kbd>[<img title="india" alt="devagya" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/so.svg" width="22">](translations/README.so.md)</kbd>
+<kbd>[<img title="india" alt="devagya" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/so.svg" width="22">](translations/README.so.md)</kbd>
 
 # First Contributions
 
