@@ -2052,6 +2052,7 @@ Aaron
 - [Aron Onditi](https://github.com/AronOnditi/)
 - [Will](https://github.com/GestaltEXE/)
 - [Scholar618](https://github.com/Scholar618)
+- Monkey D. Luffy and Buggy D. Clown
 - [Jamie Douglas](https://github.com/Jamelas)
 - [Whitris](https://github.com/Whitris)
 - [Julio](https://github.com/JulioC-19)
