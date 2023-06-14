@@ -2103,6 +2103,7 @@ greeshmanth
 - [Loïc Franchina Loiseau]
 - [Selam Asnake](https://github.com/Haze-I)
 - [Chance Back](https://github.com/chanceback)
+- [Joshua Y Adatoz](https://github.com/joshuayadatoz/)
 - [Jiajun Xu](https://github.com/JiajunXu2)
 - [Harsh Srivastav](https://github.com/Harsh32044)
 - [Jeffery Jiang](https://github.com/jeffery1995)
