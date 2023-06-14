@@ -253,6 +253,7 @@
 - [Sampath Vatsavaya](https://github.com/Sampath-Vatsavaya)
 - Gaurav Bhambhani
 - Marcel
+- Fátima Reyes (https://github.com/hauntologica)
 -[Emre](https://github.com/etdesign)
 - [P1K5UP](https://github.com/P1K5UP)
 - [Jatin Bhatia](https://github.com/jatinb92)
