@@ -143,6 +143,7 @@
 - [Rakesh](https://github.com/rakeshcj)
 -  shlomo-michalovich
 - IamMahfooz
+- [Shamil_Rasheed](https://github.com/Sillu8)
 - [nnminhtan](https://github.com/nnminhtan)
 - [Rishabh](https://github.com/rishabhr4)
 - [Noriomusha](https://github.com/Noriomusha)
