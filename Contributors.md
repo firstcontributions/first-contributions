@@ -3,7 +3,7 @@
 <!-- prettier-ignore-start and welcome -->
 
 - [Abhay Donga](https://github.com/AbhayDonga007)
-- [Amelia Lauth] (https://github.com/alauth22)
+- [Amelia Lauth](https://github.com/alauth22)
 - [Nandha Kumar](https://github.com/tnrock)
 - [Widdershins](https://github.com/Widdershins89)
 - [Steven Veal](https://github.com/DolphinBeans)
