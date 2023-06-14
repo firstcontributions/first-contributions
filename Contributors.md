@@ -68,6 +68,7 @@
 - [Siim Sink](https://github.com/sinkkkk)
 - [Mayank Gautam]
 - Tamanna
+- Rifa
 - Rahul-Sharing
 - [Tyler Lowe](https://github.com/TylerRLowe)
 - [Abhishek Kumar](https://github.com/abhishek-Roy22)
