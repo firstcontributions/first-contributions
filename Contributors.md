@@ -66,6 +66,7 @@
 - [Milan Lakhani](https://github.com/milan-lakhani)
   [Manas Anand Singh](https://github.com/MSAndromeda)
 - [Siim Sink](https://github.com/sinkkkk)
+- [Saleem Castle](https://github.com/SaleemCastle)
 - [Mayank Gautam]
 - Tamanna
 - Rahul-Sharing
