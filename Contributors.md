@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-Ayush Sisodia
+- [Ayush Sisodia](https://github.com/ayushsisodia7)
 - [Rex Cheng](https://github.com/lychengrex)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Ilay Eldar](https://github.com/ilayEldar24)
