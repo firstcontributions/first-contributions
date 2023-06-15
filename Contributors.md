@@ -5,6 +5,7 @@
 - [Abhay Donga](https://github.com/AbhayDonga007)
 - [Nandha Kumar](https://github.com/tnrock)
 - [Widdershins](https://github.com/Widdershins89)
+- [Md Saad Akhtar](https://github.com/akhtarmdsaad)
 - [Steven Veal](https://github.com/DolphinBeans)
 - [Aaron Newbigging](https://github.com/Pastasource)
 - [Lion King](https://github.com/topmsdreamer)
