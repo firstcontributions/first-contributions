@@ -89,6 +89,7 @@
 - [Kuber Acharya](https://github.com/thekubera)
 - [Jo-pl](https://github.com/Jo-pl)
 - [Luis Cepeda](https://github.com/LuisCepeda)
+- [s4dnex] (https://github.com/s4dnex)
 - [Aditya patil](https://github.com/AdityaPatil111)
 - [Ahmed Bay](https://github.com/itsbayahmed)
 - [Aditya Datta](https://github.com/Aditya007Datta)
