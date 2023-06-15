@@ -25,6 +25,7 @@
 - [Ismail Chikh Boubekeur](https://github.com/esmo-ts)
 - [AlexEG](https://github.com/AlexEG)
 - [Lê Đức Anh](https://github.com/ducanh2706)
+- [End](https://github.com/EndEmpire)
 - [Amir Sefidgar](https://github.com/amstfn)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 - [Muhammed Asif](https://github.com/ghostMan-pac)
