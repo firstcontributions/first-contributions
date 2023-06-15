@@ -13,6 +13,7 @@
 - [Mohd Farhan Nawaz](https://github.com/mohdfarhannawaz)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Anadu Godwin](https://github.com/AnaduCG)
+- [Amir Hashemi](https://github.com/seyyeddev)
 - [Youssef Jrab](https://github.com/yjrab)
 - [Isaiah Swain](https://github.com/imswain)
 - [Ilay Eldar](https://github.com/ilayEldar24)
