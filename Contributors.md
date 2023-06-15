@@ -404,6 +404,7 @@
 - [Anthon van Dijk](https://github.com/DyQ3HELOF1)
 - [Hamidreza Nasrabadi](https://github.com/Ariiima)
 - [Nicholas Mason](https://github.com/Aptenz)
+- [LexKorn](https://github.com/LexKorn)
 - [Gowri Priyanka](https://github.com/GowriPriyankaM)
 - [Gyaur](https://github.com/Gy4ur)
 - [Berdiguly Yaylymov](https://github.com/yaylymov)
