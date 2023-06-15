@@ -7,6 +7,7 @@
 - [Widdershins](https://github.com/Widdershins89)
 - [Steven Veal](https://github.com/DolphinBeans)
 - [Aaron Newbigging](https://github.com/Pastasource)
+- [Sharhabeel Morad](https://github.com/abelmorad)
 - [Lion King](https://github.com/topmsdreamer)
 - [Rex Cheng](https://github.com/lychengrex)
 - [Pavankalyan Nagulla](https://github.com/Pavan-Nagulla)
