@@ -6,6 +6,7 @@
 - [Nandha Kumar](https://github.com/tnrock)
 - [Widdershins](https://github.com/Widdershins89)
 - [Steven Veal](https://github.com/DolphinBeans)
+- [Muhammad Abdullahi](https://github.com/A-u-usman)
 - [Aaron Newbigging](https://github.com/Pastasource)
 - [Lion King](https://github.com/topmsdreamer)
 - [Rex Cheng](https://github.com/lychengrex)
