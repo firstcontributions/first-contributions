@@ -107,6 +107,7 @@
 - [Anand Lessard](https://github.com/nandofromthebando)
 - [Divy Don](https://github.com/Divy312)
 - [Nick Miles](https://github.com/kihno)
+- pragati
 - [Pranita Dane](https://github.com/pranita28Dane)
 - [Hastimal Shah](https://github.com/hasti)
 - [Rohan Fulzele](https://github.com/Rohanfulzele)
@@ -130,6 +131,7 @@
 - [Junji](https://github.com/juunjii)
 - [Akhil](https://github.com/Akhil-77)
 - [Javier Ramirez](https://github.com/ramirezj129)
+- 
 - [Roger Massana](https://github.com/massanaRoger)
 - [Yash Patel](https://github.com/theyashpatel)
 - [Richi](https://github.com/Zerov1000)
