@@ -23,6 +23,7 @@
 - [Muhammad Haris](https://github.com/headlessNode)
 - [Vedang](https://github.com/vedang685)
 - [Ismail Chikh Boubekeur](https://github.com/esmo-ts)
+- [Angelo Rafael Recio](https://github.com/AngeloRafael02)
 - [AlexEG](https://github.com/AlexEG)
 - [Lê Đức Anh](https://github.com/ducanh2706)
 - [Amir Sefidgar](https://github.com/amstfn)
