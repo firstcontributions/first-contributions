@@ -168,6 +168,7 @@
 - [dj1ch](https://github.com/dj1ch)
 - shlomo-michalovich
 - IamMahfooz
+Condor Sergiu
 - [nnminhtan](https://github.com/nnminhtan)
 - [Rishabh](https://github.com/rishabhr4)
 - [Noriomusha](https://github.com/Noriomusha)
