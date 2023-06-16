@@ -52,6 +52,7 @@
 - Tamanna Niger Tuly
 - [Soy Eric](https://github.com/ibrahimeric)
 - [Mandeep Singhmar](https://github.com/Mandeepsinghmar)
+- Sandeep kumar
 - [Elizabeth Czarny](https://github.com/Elizabeth-Cz)
 - [Nibraz Rehaman](https://github.com/nibrazrehaman)
 - [Zenith Anthony](https://github.com/Zenith1997)
