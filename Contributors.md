@@ -1025,6 +1025,7 @@ Aaron
 - [gonend](https://github.com/gonend)
 - [Bhuwan Paudel](https://github.com/bhuwanP69)
 - [nicoleeeeeeeeeeeeeeeee](https://github.com/nicoleeeeeeeeeeeeeeeee)
+- [otoyaaa](https://github.com/otoyaa)
 - [Aryan Verma](https://github.com/aryanvarma7272)
 - [Vansh Pratap](https://github.com/vansh-pratap)
 - [Aadarsh Naik](https://github.com/aadarshnaik)
