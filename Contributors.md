@@ -173,6 +173,7 @@
 - [Shaik Mohammad Afzal](https://github.com/afzxlsgit)
 - [Adarsh Agarwal]
 - [Lucas Moyano](https://github.com/LucasEPK)
+- [Kapil Vaishnav](https://github.com/kapil5849)
 - [Joy](https://github.com/aquaj0y)
 - [John](https://github.com/duckheap)
 - [Irfan](https://github.com/Parjival)
