@@ -239,6 +239,7 @@
 - [Thamer](https://github.com/ThamerMalki)
 - [Lyubomir](https://github.com/LyubomirD)
 - [Bhav Kushwaha](https://github.com/bhavkushwaha)
+- [Ipsita Dhar](https://github.com/ipsitadhar)
 - [Julie Clegg](https:///github.com/jclegg31)
 - [Chan](https:///github.com/sitnyein)
 - [Talha Jamal] (https://github.com/talhajamal11)
