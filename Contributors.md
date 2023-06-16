@@ -2183,6 +2183,7 @@ greeshmanth
 - [Jimmy Batuhan](https://github.com/jimmybatuhan)
 - [Nivin](https://github.com/ilynivin)
 - [PARTHIBAN.B](https://github.com/parthibanb224)
+- [Jojo Java] (https://github.com/Joawesome7)
 - [Rish Naya]
 - [KuanChieh Lien](https://github.com/jazzpujols34)
 - [Rubin Bhandari](https://github.com/rubiin)
@@ -2200,6 +2201,8 @@ greeshmanth
 - [Dmitry Bespalov](https://github.com/b1gzer0)
 - [Ahnaf Al Islam](https://github.com/maskedhypocrite)
 - [Abhishek Mishra] (https://github.com/Abhishek-0009/)
+
+- [Shuvkant Phanait](https://github.com/shuvkant)
 - [Smit Raichura] (https://github.com/smit-raichura)
 - [Shuvkant Phanait](https://github.com/shuvkant)
 - [Archit Gajjar](https://github.com/ArchitGajjar)
