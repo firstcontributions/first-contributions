@@ -37,6 +37,7 @@
 - [Omi](https://github.com/NormTurtle)
 - [Roger](https://github.com/rogerkaplan)
 - [Zalman Gagerman](https://github.com/zalmang)
+- [Ana Hartmann](https://github.com/anah85)
 - [Gauri Tripathi](https://github.com/GauriTr)
 - [Kyaw Zay Ya] (https://github.com/kyawzayya2222)
 - [Colin McKerracher](https://github.com/colmck)
