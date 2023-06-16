@@ -2109,6 +2109,7 @@ greeshmanth
 - [Sherin Saji](https://github.com/sherinksaji)
 - [Hugo Schulz](https://github.com/HugoSchulz)
 - [Metehan Günen](https://github.com/Metrohan]
+- [Sergi Jimeno](https://github.com/SergiJimeno]
 - [Tom Starkey](https://github.com/TomStarkey)
 - [northernbelle87](https://github.com/northernbelle87)
 - [Sujal Tangde] (https://github.com/sujaltangde/)
