@@ -1564,6 +1564,7 @@ Aaron
 - [Janhvi Singh](https://github.com/Janhvi52)
 - [Eberechi Omeje](https://github.com/beretests)
 - [Eduardo De La Rosa](https://github.com/EduardoDeLaR)
+- [Joy Whitney](https://github.com/Whitneyjoymuchira)
 - [Sumit Girwal](https://github.com/sumitgirwal)
 - [Ahsanul Mahbub Tanvir](https://github.com/tanvir-03)
 - [Kylin Schneider](https://github.com/KyeByeHi)
