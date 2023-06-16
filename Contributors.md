@@ -1928,6 +1928,7 @@ Aaron
 - [Nakinton Rungrueng](https://github.com/ItsChathai)
 - [Abdul Moiz Lakhani](https://github.com/abdulmoizlakhani)
 - [Xemio](https://github.com/xemioxd)
+- [Duwarakan](https://github.com/duwarakan)
 - [izkizk8](https://github.com/izkizk8)
 - [sitaram_guduri]
 - [OneEyedPsychoGuy](https://github.com/OneEyedPsychoGuy)
