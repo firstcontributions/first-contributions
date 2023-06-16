@@ -9,6 +9,7 @@
 - [Aaron Newbigging](https://github.com/Pastasource)
 - [Lion King](https://github.com/topmsdreamer)
 - [Rex Cheng](https://github.com/lychengrex)
+- [Harshwardhan Verma](https://github.com/justharxsh)
 - [Pavankalyan Nagulla](https://github.com/Pavan-Nagulla)
 - [Mohd Farhan Nawaz](https://github.com/mohdfarhannawaz)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
