@@ -833,6 +833,7 @@ Aaron
 - [Miguel Auccahuasi](https://github.com/sakugemiaru)
 - [Priyanshu Gourav Sarangi](https://github.com/pgs17)
 - [kosen13](https://github.com/kosen13)
+- [Michael Tripp](https://github.com/Mctripp10)
 - [K-Huynh](https://github.com/CheckeredCookie)
 - [DOngre Jaipal](https://github.com/Wolfjai513)
 - [Michael Hy](https://github.com/HyMike)
