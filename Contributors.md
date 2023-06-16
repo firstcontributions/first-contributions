@@ -831,6 +831,7 @@ Aaron
 - [Temitope Bamidele](https://github.com/bamidele42)
 - [Baga Sai Kiran](https://github.com/SKRam1024)
 - [Artur Linnik](https://github.com/ArturLinnik)
+- [Eilie Huxton](https://github.com/eilie01)
 - [aditya kumar prusti](https://github.com/aditya172004)
 - [Vishal Dhatrika](https://github.com/vishaldhatrika)
 - [Matthew Straughn](https://github.com/TealWater)
