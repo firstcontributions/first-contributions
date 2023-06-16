@@ -341,6 +341,7 @@
 -[Bruno Souza](https://github.com/BrunoRammon)
 - [Farzan Ekram](https://github.com/farzanekram07)
 - [Mike Tagg](https://github.com/mdtagg)
+- [Haina Weiben](https://github.com/hainaweiben)
 [Mandeep](https://github.com/Mandeep-009)
 - [Shivam Kumar Yadav](https://github.com/Thesky9474)
 - [Kriti Arora](https://github.com/kritiarora2003)
