@@ -34,6 +34,7 @@
 - [Sachin Kumar](https://github.com/pseudofool)
 - [Vedang](https://github.com/vedang685)
 - [Ismail Chikh Boubekeur](https://github.com/esmo-ts)
+- [Adhiraj Kar](https://github.com/adhirajkar3103)
 - [AlexEG](https://github.com/AlexEG)
 - [Sukhrob Yangibaev](https://github.com/sukhrobyangibaev)
 - [Lê Đức Anh](https://github.com/ducanh2706)
