@@ -233,6 +233,7 @@
 - [Gunjan Mishra](https://github.com/GunjanKMishra)
 - [Kishan Lokappa](https://github.com/lokappakishan)
 - [Meenakshi Sivakumar](https://github.com/Meenakshi-Sivakumar)
+- [Chris-Garciae](https://github.com/xxlusubuxx)
 - [Khalid Jameer](https://github.com/kjameer0)
 - [Swastik Bansal](https://github.com/swastikbansal)
 - [Krutartha Nagesh](https://github.com/krutartha)
