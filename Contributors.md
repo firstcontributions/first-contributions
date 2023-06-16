@@ -105,6 +105,7 @@
 - [Jo-pl](https://github.com/Jo-pl)
 - [Luis Cepeda](https://github.com/LuisCepeda)
 - [Aditya patil](https://github.com/AdityaPatil111)
+- [Rodrigo Blancas](https://github.com/rodblg)
 - [Ahmed Bay](https://github.com/itsbayahmed)
 - [Aditya Datta](https://github.com/Aditya007Datta)
 - [Rajneesh Kumar](https://github.com/rajneeshgithub73)
