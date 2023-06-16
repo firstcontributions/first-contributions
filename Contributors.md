@@ -114,6 +114,7 @@
 - [Hans Ibarra](https://github.com/Falaxsa13)
 - [Sagar Bhat](https://github.com/codingsagar)
 - [Anand Lessard](https://github.com/nandofromthebando)
+- [Rishi Bhatia](https://github.com/rbhatia4245)
 - [Divy Don](https://github.com/Divy312)
 - [Nick Miles](https://github.com/kihno)
 - [Pranita Dane](https://github.com/pranita28Dane)
