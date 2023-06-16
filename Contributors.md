@@ -22,6 +22,7 @@
 - [Youssef Jrab](https://github.com/yjrab)
 - [Akmal Kamarudin](https://github.com/akmal-kamarudin)
 - [Isaiah Swain](https://github.com/imswain)
+- [rentj1](https://github.com/rentj1)
 - [Ilay Eldar](https://github.com/ilayEldar24)
 - [Twalla] (https://github.com/twalla26)
 - [Vaibhavharsoda](https://github.com/vaibhavharsoda)
