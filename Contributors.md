@@ -2130,6 +2130,7 @@ Aaron
 - Mythszj
 - [homefish](https://github.com/homefish)
 - [Heo Seungjin](https://github.com/peter-sjheo)
+- [Win Aoyama](https://github.com/aoyama-codes)
 - [Sunil S. Singh](https://github.com/sssingh)
 - [Orion Wesson] (https://github.com/EnterOrion)
 - [San-ctuary](https://github.com/San-ctuary)
