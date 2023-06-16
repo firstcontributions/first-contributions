@@ -8,6 +8,7 @@
 - [Steven Veal](https://github.com/DolphinBeans)
 - [Aaron Newbigging](https://github.com/Pastasource)
 - [Lion King](https://github.com/topmsdreamer)
+- [elliezub](https://github.com/elliezub)
 - [Rex Cheng](https://github.com/lychengrex)
 - [Pavankalyan Nagulla](https://github.com/Pavan-Nagulla)
 - [Mohd Farhan Nawaz](https://github.com/mohdfarhannawaz)
