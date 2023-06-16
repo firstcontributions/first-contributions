@@ -40,6 +40,7 @@
 - [Gauri Tripathi](https://github.com/GauriTr)
 - [Kyaw Zay Ya] (https://github.com/kyawzayya2222)
 - [Colin McKerracher](https://github.com/colmck)
+- [Pierce Oxley] (https://github.com/Parcley27)
 - [Omoogun Olawale](https://github.com/olawale-o)
 - [Isaac Achenbach](https://github.com/isaacach)
 - [Leon Heinrich](https://github.com/LionLostInCode)
