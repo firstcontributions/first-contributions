@@ -2083,6 +2083,7 @@ Aaron
 - [safe rabbit](https://github.com/saferabbit/)
 - [James Stokke](https://github.com/jstokkeASU)
 - [Kenneth Atchon](https://github.com/KennethAtchon)
+- [Keane Dalisay](https://github.com/keanedalisay)
 - abdelfattah lutfi
 - [Ricky Huang](https://github.com/rickyhuang64623/first-contributions.git)
 - [nooneisyou] (https://github.com/No-Username003-0141592653589793238462)
