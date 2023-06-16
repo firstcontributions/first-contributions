@@ -26,6 +26,7 @@
 - [AlexEG](https://github.com/AlexEG)
 - [Lê Đức Anh](https://github.com/ducanh2706)
 - [Amir Sefidgar](https://github.com/amstfn)
+- [Joel Aliyu](https://github.com/joelali5)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 - [Muhammed Asif](https://github.com/ghostMan-pac)
 - [babujal]
