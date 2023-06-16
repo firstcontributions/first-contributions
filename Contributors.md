@@ -190,6 +190,7 @@
 - [Prabal Sharma](https://github.com/prabalsh19)
 - [Jurica Mihin](https://github.com/mihinx1)
 - [Eshan Shikarkahne](https://github.com/eshan-one)
+- [Donald Gjoka](https://github.com/DonaldGjoka)
 - [JT Fox](https://github.com/jtfox142)
 - [Pranshu Kedia](https://github.com/pranshu79)
 - [Tindan Cletus](https://github.com/cletus-cyber)
