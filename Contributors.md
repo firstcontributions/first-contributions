@@ -384,6 +384,7 @@
 - [Pedro Braga](https://github.com/PedBraga)
 - [Dilshad](https://github.com/a-rustacean)
 - [Stephanie Wong] (https://github.com/steph-wong-15)
+- [Solveig Årvik] (https://github.com/soar004)
 - [Ganesh Revadi](https://github.com/ganeshrevadi)
 - [George Nagy](https://github.com/NagyGeorge)
 - [Droid Sumit](https://github.com/droidsumit)
