@@ -2128,6 +2128,7 @@ Aaron
 - [Julio](https://github.com/JulioC-19)
 - [Adarsh Kannarath](https://github.com/AdarshKannarath)
 - [Lawson Tanner](https://github.com/Hornbag)
+- [Nils Schmidt](https://github.com/duk7292)
 - [Manuel Menendez](https://github.com/hudsonbay)
 - [Jorge Torres](https://github.com/jotorres1)
 - [Asmita Sagarkar](https://github.com/AsmitaSagarkar)
