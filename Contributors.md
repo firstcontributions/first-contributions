@@ -31,6 +31,7 @@
 - [Vedang](https://github.com/vedang685)
 - [Ismail Chikh Boubekeur](https://github.com/esmo-ts)
 - [AlexEG](https://github.com/AlexEG)
+- [Sukhrob Yangibaev](https://github.com/sukhrobyangibaev)
 - [Lê Đức Anh](https://github.com/ducanh2706)
 - [Amir Sefidgar](https://github.com/amstfn)
 - [Joel Aliyu](https://github.com/joelali5)
