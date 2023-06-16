@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start and welcome -->
 
 - [Abhay Donga](https://github.com/AbhayDonga007)
+- [Rushil Kumar](https://github.com/Rushilkr77)
 - [Nandha Kumar](https://github.com/tnrock)
 - [Kalluri naveen](https://github.com/kalluri02)
 - [Widdershins](https://github.com/Widdershins89)
