@@ -982,6 +982,7 @@ Aaron
 - [Li Feng](https://github.com/maplestarplayl)
 - [ManueldG](https://github.com/ManueldG)
 - [Junsu Park](https://github.com/junsupark94)
+- [Simon Grchevski](https://github.com/SimonGrchevski)
 - [Tanmay Pradhan](https://github.com/tanmaypradhan4112)
 - [Timon] (https://github.com/taaae)
 - [Chirag Goyal](https://github.com/ChiragGoyal98)
