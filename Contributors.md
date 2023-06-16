@@ -107,6 +107,7 @@
 - [Anand Lessard](https://github.com/nandofromthebando)
 - [Divy Don](https://github.com/Divy312)
 - [Nick Miles](https://github.com/kihno)
+- [Charles Freeborn](https://twitter.com/charliecodes)
 - [Pranita Dane](https://github.com/pranita28Dane)
 - [Hastimal Shah](https://github.com/hasti)
 - [Rohan Fulzele](https://github.com/Rohanfulzele)
