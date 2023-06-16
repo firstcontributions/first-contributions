@@ -84,6 +84,7 @@
 - [Siim Sink](https://github.com/sinkkkk)
 - [Nitesh Saini](https://github.com/nitesh047)
 - [Mayank Gautam]
+- [Mister-Raggs](https://github.com/Mister-Raggs/)
 - Tamanna
 - Rahul-Sharing
 - [Tyler Lowe](https://github.com/TylerRLowe)
