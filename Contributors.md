@@ -88,6 +88,7 @@
 - [Devojoyti Pal](https://github.com/Devojoytip)
 - [Kuber Acharya](https://github.com/thekubera)
 - [Jo-pl](https://github.com/Jo-pl)
+- [Adarsh Malviya](https://github.com/adarshmalviy)
 - [Luis Cepeda](https://github.com/LuisCepeda)
 - [Aditya patil](https://github.com/AdityaPatil111)
 - [Ahmed Bay](https://github.com/itsbayahmed)
