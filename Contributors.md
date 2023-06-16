@@ -481,6 +481,7 @@ Aaron
 - [Christo Grabowski](https://github.com/ChristoGrab)
 - [Vishnu Gitta] (https://github.com/Vishnu-1703)
 - [Sam Joshua](https://github.com/Sam-Joshua-S)
+- [Mayank Kumar Ratre](https://github.com/MAYANKRATRE10)
 - [Jay Adeyina](https://github.com/Hyuuga81)
 - [Woon Koh](https://github.com/kohwdev)
 - [sharkked🦇🦈](https://github.com/sharkked)
