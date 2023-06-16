@@ -174,6 +174,7 @@
 - [Sumit Dethe](https://github.com/sumitdethe27)
 - Prakhar Pradhan
 - [Karthik Bhandary](https://github.com/karthikbhandary2)
+- [Jay](https://github.com/fotmjay)
 - [Sarthak](https://github.com/sarthak2131)
 - [Anirudh K Anil](https://github.com/anirudhka00)
 - [Pranit Mane](https://github.com/pranitmane)
