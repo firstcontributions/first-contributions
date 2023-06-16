@@ -32,6 +32,7 @@
 - [Amir Sefidgar](https://github.com/amstfn)
 - [Joel Aliyu](https://github.com/joelali5)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
+- [Fred Vuni](https://github.com/FREDVUNI)
 - [Muhammed Asif](https://github.com/ghostMan-pac)
 - [babujal]
 - [Jack Gerry](https://github.com/JackGerry1)
