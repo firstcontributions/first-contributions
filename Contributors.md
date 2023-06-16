@@ -20,6 +20,7 @@
 - [Frosty2500](https://github.com/Frosty2500)
 - [Anadu Godwin](https://github.com/AnaduCG)
 - [Youssef Jrab](https://github.com/yjrab)
+- [Akmal Kamarudin](https://github.com/akmal-kamarudin)
 - [Isaiah Swain](https://github.com/imswain)
 - [Ilay Eldar](https://github.com/ilayEldar24)
 - [Twalla] (https://github.com/twalla26)
