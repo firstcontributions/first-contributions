@@ -1870,6 +1870,7 @@ Aaron
 - [Stephanie Boggs](https://github.com/boggsyweb)
 - [MBDUR12](https://github.com/MBDur12/)
 - [TaoTaoOoO](https://github.com/TaoTaoOoO)
+- [Gizmo572] (https://github.com/gizmo572)
 - [Avishkar Kotkar](https://github.com/kotkaravishkar)
 - [Marco Alvarado - 7Pixel](https://github.com/7pixel-cl)
 - [Vinod Patil](https://github.com/vinodpatildev)
