@@ -182,6 +182,7 @@
 - [Adarsh Agarwal]
 - [Lucas Moyano](https://github.com/LucasEPK)
 - [Joy](https://github.com/aquaj0y)
+- [Ayomide Ilesanmi](https://github.com/TheCodeGhinux)
 - [John](https://github.com/duckheap)
 - [Irfan](https://github.com/Parjival)
 - [Nur Farah](https://github.com/Nur-farah)
