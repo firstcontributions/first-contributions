@@ -62,7 +62,7 @@ git switch -c <your-new-branch-name>
 উদাহরণ :
 
 ```
-git switch -c add-alonzo-church
+git switch -c add-rahim-islam
 ```
 
 (ব্রাঞ্চের নামে _add_ শব্দটি যুক্ত থাকা জরুরী নয়। তবে এই ব্রাঞ্চের উদ্দেশ্য যেহেতু আপনার নাম তালিকাভুক্ত করা, সেহেতু _add_ শব্দটি যুক্ত থাকাই কাম্য।)
