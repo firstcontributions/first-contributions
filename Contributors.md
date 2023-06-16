@@ -202,6 +202,7 @@
 - [Meghanath Reddy](https://github.com/meghanath852)
 - [succsuccsucc](https://github.com/succsuccsucc)
 - [Malki Malov](https://github.com/MalkiMalov)
+- [Abdul Riyaz](https://gitub.com/abdulriiyaz)
 - [Ahmad Jajja](https://github.com/Ahmadjajja)
 - [Kiara Hoheb](https://github.com/kxtara)
 - [Sadman Sakib](https://github.com/SADMAN30102001SAKIB)
