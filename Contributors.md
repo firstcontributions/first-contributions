@@ -2114,6 +2114,7 @@ Aaron
 - [Tim Hofmann](https://github.com/txmho)
 - [Pickwick Rudge](https://github.com/pickwick-rudge)
 - [safe rabbit](https://github.com/saferabbit/)
+- [novicebutlove](https://github.com/NoviceButLove)
 - [James Stokke](https://github.com/jstokkeASU)
 - [Kenneth Atchon](https://github.com/KennethAtchon)
 - [Keane Dalisay](https://github.com/keanedalisay)
