@@ -6,6 +6,7 @@
 - [Abhay Donga](https://github.com/AbhayDonga007)
 - [Rushil Kumar](https://github.com/Rushilkr77)
 - [Nandha Kumar](https://github.com/tnrock)
+- [James Kelly](https://github.com/jkellymi)
 - [Kalluri naveen](https://github.com/kalluri02)
 - [Widdershins](https://github.com/Widdershins89)
 - [Sohail khan](https://github.com/sohail700)
