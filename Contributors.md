@@ -49,7 +49,7 @@
 - [Jack Gerry](https://github.com/JackGerry1)
 - [✌Husseini Mudi Profsain](https://github.com/Profsain)
 - [Vansh Rai Saini](https://github.com/vanshraisaini)
--[Sugam Goel](https://github.com/Sugamgoel28)
+- [Sugam Goel](https://github.com/Sugamgoel28)
 - [Damoon Darvishi](https://github.com/DamoonDarvishi)
 - [Shubham Tamrakar](https://github.com/shubham-tam)
 - [Disha Vig](https://github.com/vigdisha)
@@ -102,14 +102,14 @@
 - ![Joshua Ramat](https://github.com/joshuaramat)
 - [Sekinat Oyero](https://github.com/Sekinat-oyero)
 - [HP] (https://github.com/Black-Hwak)
--[kavearhasi](https://github.com/kavearhasi)
+- [kavearhasi](https://github.com/kavearhasi)
 - [Arturo López](https://github.com/arturolopeze)
 - [Albert Arakelyan](https://github.com/AlbertArakelyan)
 - [Chloe Gavrilovic](https://github.com/cmgvc)
 - [Arslan Asghar](https://github.com/al-arslan)
 - [Ali Ayed](https://github.com/iTzVoko)
 - [Ali Aizn](https://github.com/aliaizn)
--[Iury-Ferreira](https://github.com/Iuggy)
+- [Iury-Ferreira](https://github.com/Iuggy)
 - [Mohammed Hashim K](https://github.com/mohammed-hashim-k)
 - [Piyush Pawar](https://github.com/piyushpawar54)
 - [Elpidio Julian](https://github.com/Elpidio-Julian)
@@ -179,7 +179,7 @@
 - [dj1ch](https://github.com/dj1ch)
 - shlomo-michalovich
 - IamMahfooz
-Condor Sergiu
+  Condor Sergiu
 - [nnminhtan](https://github.com/nnminhtan)
 - [Rishabh](https://github.com/rishabhr4)
 - [Noriomusha](https://github.com/Noriomusha)
@@ -194,7 +194,7 @@ Condor Sergiu
 - [Igor Filgueira](https://github.com/igorfilgueira)
 - [Diogo Abreu](https://github.com/diogo-abreu123)
 - Igniseri
--  [hina javed](https://github.com/hinajaved123)
+- [hina javed](https://github.com/hinajaved123)
 - [Rima Nurkholifah](https://github.com/rimanurfah)
 - [Saksham Misra](https://github.com/vinfinity7)
 - [PJ Angeloni 🔭🔬💻](https://github.com/PaoloJr90)
@@ -297,7 +297,7 @@ Condor Sergiu
 - Gaurav Bhambhani
 - Marcel
 - Rajat (https://github.com/rajatrokde)
--[Emre](https://github.com/etdesign)
+- [Emre](https://github.com/etdesign)
 - [P1K5UP](https://github.com/P1K5UP)
 - [Jatin Bhatia](https://github.com/jatinb92)
 - [Jeremy Rustandi] (https://github.com/jerstnd)
@@ -2182,7 +2182,7 @@ Aaron
 - [Ahmed ElSaeed](https://github.com/asmpro7)
 - [Abhinav Yadav](https://github.com/AbhinavYdv)
 - [Krishnaraja Sagar](https://krishnarajasagar.github.io)
-greeshmanth
+  greeshmanth
 - [Edison Zhou](https://github.com/nosidezhou)
 - [harsh dewan]
 - [Loïc Franchina Loiseau]
