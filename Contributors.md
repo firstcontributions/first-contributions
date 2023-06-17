@@ -1305,6 +1305,7 @@ Aaron
 - [Martin Chachev](https://github.com/martytyty2098)
 - [shaileshb](https://github.com/shaileshhb)
 - [clarai1](https://github.com/clarai1)
+- [Kirill Panferov](https://github.com/Llirik93)
 - [Angie Bowen](https://github.com/AngelaBowen)
 - [Subrata Mondal](https://github.com/subratamondal1)
 - [Ayush Gupta](https://github.com/gupta07ayush)
