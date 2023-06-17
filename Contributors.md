@@ -269,6 +269,7 @@
 - [rejmut](https://github.com/rejmut)
 - [CultistOfTheEnd](https://github.com/NuxarianCookie)
 - [Chaya Kwin](https://github.com/ChayaKwin)
+- [Carlos Gabriel](https://github.com/carlosgabrielmf)
 - [Tobvl](https://github.com/Tobvl)
 - [Erik German](https://github.com/eriko13)
 - [Jordan Russo](https://github.com/Jordan-Russo)
