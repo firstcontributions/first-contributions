@@ -107,6 +107,7 @@
 - [Chloe Gavrilovic](https://github.com/cmgvc)
 - [Arslan Asghar](https://github.com/al-arslan)
 - [Ali Ayed](https://github.com/iTzVoko)
+- [rjk]
 - [Ali Aizn](https://github.com/aliaizn)
 -[Iury-Ferreira](https://github.com/Iuggy)
 - [Mohammed Hashim K](https://github.com/mohammed-hashim-k)
