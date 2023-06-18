@@ -48,6 +48,7 @@
 - [babujal]
 - [moodham](https://github.com/moodham)
 - [Jack Gerry](https://github.com/JackGerry1)
+- [Jack Galat] (https://github.com/JMGalati8)
 - [✌Husseini Mudi Profsain](https://github.com/Profsain)
 - [Vansh Rai Saini](https://github.com/vanshraisaini)
 -[Sugam Goel](https://github.com/Sugamgoel28)
