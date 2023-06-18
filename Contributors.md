@@ -11,6 +11,7 @@
 - [Widdershins](https://github.com/Widdershins89)
 - [Sohail khan](https://github.com/sohail700)
 - [Steven Veal](https://github.com/DolphinBeans)
+- [Muhammad Abdullahi](https://github.com/A-u-usman)
 - [Aaron Newbigging](https://github.com/Pastasource)
 - [Raymond Mason] (https://github.com/pepsibluefan2)
 - [Lion King](https://github.com/topmsdreamer)
