@@ -3,7 +3,7 @@
 We assume that you have already finished with the basic tutorial before coming here. This document will give you some additional information about advanced Git techniques.
 
 ### [Amending a commit](amending-a-commit.md)
-This document provides information about how to amend a commit on the remote repository.Amending a commit is a way to modify the most recent commit you have made in your current branch. This can be helpful if you need to edit the commit message or if you forgot to include changes in the commit. You can continue to amend a commit until you push it to the remote repository.
+This document provides information about how to amend a commit on the remote repository. Amending a commit is a way to modify the most recent commit you have made in your current branch. This can be helpful if you need to edit the commit message or if you forgot to include changes in the commit. You can continue to amend a commit until you push it to the remote repository.
 > Use this when you need to adjust a commit you made.
 
 ### [Configuring git](configuring-git.md)
@@ -46,4 +46,7 @@ This document provides information about how to undo a commit on your local repo
 This document is dedicated to all the tips and tricks websites, blog posts, and helpful sites that make our lives easier. They are a great reference to serve all of our needs, be it a beginner or an expert. This page should act as an index of all those useful links that would help everybody who is new in the open-source domain or someone who wants to learn more.
 
 ### [Creating a .gitignore file](creating-a-gitignore-file.md)
-This document explains what a .gitignore file does, why to use it and how to create a .gitignore file. This file is used in almost all git projects. It helps commit only the necessary files to git.
+This document explains what a .gitignore file does, why to use it and how to create a .gitignore file. This file is used in almost all git projects. It helps commit only necessary files to git.
+
+### [Storing Credentials](storing-credentials.md)
+This document explains how to store your credentials for repositories. This can be a security concern, so please follow the security policies of your place of work/study.
