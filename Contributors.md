@@ -418,6 +418,7 @@ Condor Sergiu
 - J3exellence
 - Justin Valdez
 - Triparna Saha
+- 
 - [John Allen](https://github.com/johnallen1029)
 - Shashank Sangale
 - Megan Cooper (https://github.com/MegRCooper)
@@ -534,6 +535,7 @@ Aaron
 - [Ofek Cohen](https://github.com/OfekCoh1)
 - [Maria Aurellia](https://github.com/mariaadannies)
 - [Sahood cv](https://github.com/sahoodcode)
+- [Ajay Rajput](https://github.com/AjaysingRajput)
 - [It's Meghanath again](https://github.com/meghanath852)
 - [Yiheng Chen](https://github.com/yi-heng-chen)
 - [Harish Rane](https://github.com/AzadRane)
@@ -2235,7 +2237,7 @@ greeshmanth
 - [Pape Ngagne Ndiaye](https://github.com/PapisKang)
 - [K B POOVANNA](https://github.com/kbpoovanna-007)
 - [swarup_E7](https://github.com/swarupe7)
-- [Lasse_Buch](https://github.com/LasseBuchAspIT)
+- [Lasse_Buch](https://github.com/LasseBuchAspIT)        
 - <!-- prettier-ignore-end -->
 - [Naveen Avula](https://github.com/Avula-Naveen)
 - [Sameer Kumar singh](https://github.com/xvisierra)
