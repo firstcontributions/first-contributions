@@ -288,6 +288,7 @@ Condor Sergiu
 - [Saukar Manjunath](https://github.com/ManjunathSaukar)
 - [Kamal Koranga](https://github.com/Kamalkoranga)
 - [Gonzalo Berhouet](https://github.com/gonzalober)
+- [Danielle Lewis] (https://github.com/daniellelewis14)
 - [Jefferson Warnimont](https://github.com/JeffWarnimont)
 - [Michael McKnight](https://github.com/MichaelMcKnight)
 - [Letizia DI MAIO](https://github.com/leta91)
