@@ -2007,6 +2007,7 @@ Aaron
 - [Nwoha Martins](https://github.com/martinsmind)
 - [Jeffrey Lamar](https://github.com/jlam)
 - [Mert Anil Deke](https://github.com/mertanildk)
+- [Pedro](https://github.com/marques-ds)
 - [Dosacat](https://github.com/dosacat)
 - [Aayush Goel](https://github.com/aayush-goel-04)
 - [Adrien Cokini](https://github.com/acokini)
