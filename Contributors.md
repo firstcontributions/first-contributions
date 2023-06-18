@@ -65,6 +65,7 @@
 - [Roger](https://github.com/rogerkaplan)
 - [MathiasS](https://github.com/mathiassei)
 - [Zalman Gagerman](https://github.com/zalmang)
+- [Ana Hartmann](https://github.com/anah85)
 - [Gauri Tripathi](https://github.com/GauriTr)
 - [Aman Raj](https://github.com/aman2000raj)
 - [Kyaw Zay Ya] (https://github.com/kyawzayya2222)
