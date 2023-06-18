@@ -2288,6 +2288,7 @@ greeshmanth
 - AprilZhou
 - [AIAM2601](https://github.com/AIAM2601)
 - [Md Sifat]
+- [Chas Howard](https://github.com/chas-howard)
 - [Mayank saini](https://github.com/Mayanksaini1234)
 - [Winnie Jeng](https://github.com/winniewjeng)
 - [Abbie Sims](https://github.com/abbiesims)
