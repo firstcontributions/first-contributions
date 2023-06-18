@@ -139,6 +139,7 @@
 - [Andrei Goldin](https://github.com/AndreiGoldin)
 - [Sahil Chugh](https://github.com/sahil-1109)
 - [Andre Chua](https://github.com/andrechuakj)
+- [Andrew Koning](https://github.com/drew-koning)
 - [Menua Bedrosian](hhtps://github.com/menuab)
 - [Anovaly](https://github.com/anovaly)
 - [Sunetra Bhowmick](https://github.com/kaiser-sb)
