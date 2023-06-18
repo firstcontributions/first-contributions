@@ -16,6 +16,7 @@
 - [Sohail khan](https://github.com/Sohail700)
 - [Rex Cheng](https://github.com/lychengrex)
 - [Pavankalyan Nagulla](https://github.com/Pavan-Nagulla)
+- [Reza Bari](https://github.com/RezaBari)
 - [Mohd Farhan Nawaz](https://github.com/mohdfarhannawaz)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Frosty2500](https://github.com/Frosty2500)
