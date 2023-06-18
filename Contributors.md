@@ -760,6 +760,7 @@ Aaron
 - [Jacob Albert](https://github.com/jalbert90)
 - [Ruth Ikegah](https://github.com/Ruth-ikegah)
 - [David Adesanya](https://github.com/dave-gith)
+- [Nero]
 - [Rishikesh Kanabar](https://github.com/RishikeshNK)
 - [Moheet Shendarkar](https://github.com/moheet333)
 - [Adrian Calleja](https://github.com/adrii0113)
