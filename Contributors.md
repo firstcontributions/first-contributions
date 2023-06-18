@@ -453,6 +453,7 @@ Condor Sergiu
 - Yash Talele
 - [Avishkaar](https://github.com/Avishkaar007)
 - [Derek Young](https://github.com/derekpyoung)
+- [Rishith PR](https://github.com/steel11256)
 - [Pedro Braga](https://github.com/PedBraga)
 - [Dilshad](https://github.com/a-rustacean)
 - [Stephanie Wong] (https://github.com/steph-wong-15)
