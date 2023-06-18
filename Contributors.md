@@ -124,6 +124,7 @@
 - [Devojoyti Pal](https://github.com/Devojoytip)
 - [Kuber Acharya](https://github.com/thekubera)
 - [Jo-pl](https://github.com/Jo-pl)
+- [Adarsh Malviya](https://github.com/adarshmalviy)
 - [Luis Cepeda](https://github.com/LuisCepeda)
 - [s4dnex] (https://github.com/s4dnex)
 - [Aditya patil](https://github.com/AdityaPatil111)
