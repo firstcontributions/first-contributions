@@ -136,6 +136,7 @@
 - [Anovaly](https://github.com/anovaly)
 - [Sunetra Bhowmick](https://github.com/kaiser-sb)
 - [Hans Ibarra](https://github.com/Falaxsa13)
+- [Josue Belarmino](https://github.com/geminitwo)
 - [Sagar Bhat](https://github.com/codingsagar)
 - [Anand Lessard](https://github.com/nandofromthebando)
 - [Rishi Bhatia](https://github.com/rbhatia4245)
