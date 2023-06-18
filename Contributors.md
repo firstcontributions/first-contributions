@@ -35,6 +35,7 @@
 - [Youssef Jrab](https://github.com/yjrab)
 - [Akmal Kamarudin](https://github.com/akmal-kamarudin)
 - [Onochie Peter Eze](https://github.com/RxZepet)
+- [Yamin Shihab](https://github.com/yamin-shihab)
 - [Isaiah Swain](https://github.com/imswain)
 - [rentj1](https://github.com/rentj1)
 - [Barathan Ganesh](https://github.com/brthngnsh)
@@ -91,7 +92,7 @@
 - [Muhammed Ali ﾃ奔can ](https://github.com/Rhipheus)
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
 - [Ursu Nicolae] (https://github.com/UrsuNicolae)
-- [Fajla Rabby](https://github.com/Fajla-Rabby) 
+- [Fajla Rabby](https://github.com/Fajla-Rabby)
 - [Norvillie Villaruel](https://github.com/nozky)
 - [Prerna Singh](https://github.com/PrernaSingh01)
 - Tamanna Niger Tuly
@@ -460,7 +461,7 @@ Condor Sergiu
 - J3exellence
 - Justin Valdez
 - Triparna Saha
-- 
+-
 - [John Allen](https://github.com/johnallen1029)
 - Shashank Sangale
 - Megan Cooper (https://github.com/MegRCooper)
@@ -2296,7 +2297,7 @@ greeshmanth
 - [Pape Ngagne Ndiaye](https://github.com/PapisKang)
 - [K B POOVANNA](https://github.com/kbpoovanna-007)
 - [swarup_E7](https://github.com/swarupe7)
-- [Lasse_Buch](https://github.com/LasseBuchAspIT)        
+- [Lasse_Buch](https://github.com/LasseBuchAspIT)
 - <!-- prettier-ignore-end -->
 - [Naveen Avula](https://github.com/Avula-Naveen)
 - [Sameer Kumar singh](https://github.com/xvisierra)
