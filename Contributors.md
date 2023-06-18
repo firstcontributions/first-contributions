@@ -60,6 +60,7 @@
 - [Omi](https://github.com/NormTurtle)
 - [Stefano 128423](https://github.com/128423)
 - [Roger](https://github.com/rogerkaplan)
+- [MathiasS](https://github.com/mathiassei)
 - [Zalman Gagerman](https://github.com/zalmang)
 - [Gauri Tripathi](https://github.com/GauriTr)
 - [Kyaw Zay Ya] (https://github.com/kyawzayya2222)
