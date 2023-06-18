@@ -30,6 +30,7 @@
 - [Anadu Godwin](https://github.com/AnaduCG)
 - [Youssef Jrab](https://github.com/yjrab)
 - [Akmal Kamarudin](https://github.com/akmal-kamarudin)
+- [Onochie Peter Eze](https://github.com/RxZepet)
 - [Isaiah Swain](https://github.com/imswain)
 - [rentj1](https://github.com/rentj1)
 - [Barathan Ganesh](https://github.com/brthngnsh)
