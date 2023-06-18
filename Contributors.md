@@ -4,6 +4,7 @@
 
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
 - [Vivek Kumar Shrivastav](https://github.com/Vivek-Kumar-Shrivastav)
+- [Rimma Kubanova](https://github.com/rimma-kubanova)
 - [Abhay Donga](https://github.com/AbhayDonga007)
 - [Rushil Kumar](https://github.com/Rushilkr77)
 - [Nandha Kumar](https://github.com/tnrock)
