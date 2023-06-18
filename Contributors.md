@@ -222,6 +222,7 @@ Condor Sergiu
 - [Adrian Camuti] (https://github.com/ApogeeAC)
 - [Phil] (https://github.com/psmail147)
 - [Fernando Pérez](https://github.com/fermop)
+- [Javier Fernandez](https://github.com/Pankeking)
 - [Alok Desai](https://github.com/zoddTheImmortal)
 - [Shruti Singh](https://github.com/shruti8302)
 - [Shashwat Yadav](https://github.com/Shashwat-y)
