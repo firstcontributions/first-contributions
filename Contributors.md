@@ -897,6 +897,7 @@ Aaron
 - [Rahul Tripathi](https://github.com/rahultripathi-dev)
 - [Khaled Jamal](https://github.com/IBWThunder)
 - [Hardvan](https://github.com/Hardvan)
+- [Mwizu] (https://github.com/Mwizu)
 - [GivingMyBest](https://github.com/GivingMyBest)
 - [Rinshadcp](https://github.com/rinshadcp)
 - Nishchal singh
