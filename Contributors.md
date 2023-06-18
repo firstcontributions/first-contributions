@@ -65,6 +65,7 @@
 - [MathiasS](https://github.com/mathiassei)
 - [Zalman Gagerman](https://github.com/zalmang)
 - [Gauri Tripathi](https://github.com/GauriTr)
+- [Aman Raj](https://github.com/aman2000raj)
 - [Kyaw Zay Ya] (https://github.com/kyawzayya2222)
 - [Mike Pazda] (https://https://github.com/mike-pazda)
 - [Colin McKerracher](https://github.com/colmck)
