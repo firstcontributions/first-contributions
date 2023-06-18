@@ -112,6 +112,7 @@
   [Manas Anand Singh](https://github.com/MSAndromeda)
 - [Siim Sink](https://github.com/sinkkkk)
 - [Nitesh Saini](https://github.com/nitesh047)
+- [Anuj Pathak] (https://github.com/theanujpathak)
 - [Mayank Gautam]
 - [Mister-Raggs](https://github.com/Mister-Raggs/)
 - Tamanna
