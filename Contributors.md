@@ -120,6 +120,7 @@
 - [Mister-Raggs](https://github.com/Mister-Raggs/)
 - Tamanna
 - Rahul-Sharing
+- [Dan Billson](https://github.com/danbillson)
 - [Tyler Lowe](https://github.com/TylerRLowe)
 - [Abhishek Kumar](https://github.com/abhishek-Roy22)
 - [Irsyad](https://github.com/charIrsyad)
