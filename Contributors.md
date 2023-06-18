@@ -18,6 +18,7 @@
 - [Pavankalyan Nagulla](https://github.com/Pavan-Nagulla)
 - [Reza Bari](https://github.com/RezaBari)
 - [Mohd Farhan Nawaz](https://github.com/mohdfarhannawaz)
+- [Tuhina Singh](https://github.com/ts1407)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Frosty2500](https://github.com/Frosty2500)
 - [Anadu Godwin](https://github.com/AnaduCG)
@@ -799,7 +800,7 @@ Aaron
 - [Titania Yan](https://github.com/TYan18)
 - [Pritam Ghosh](https://github.com/mrgpritam)
 - [Sim Dash](https://github.com/udashdon4)
-- [Jerome Mberia](https://github.com/JeromeMberia)🏄‍♂�?
+- [Jerome Mberia](https://github.com/JeromeMberia)🏄‍♂�?
 - [Harshal Jadhav](https://github.com/harshal2002)
 - [ATHARV POWALKAR AP07](https://github.com/07-Atharv)
 - [Noibisjunior](https://github.com/Noibisjunior) -[Akash chakraborty](https://github.com/ak01a04sh)
@@ -1129,7 +1130,7 @@ Aaron
 - [Dmitrii Sidenko](https://github.com/DmSide)
 - [Heloise Ouvry](https://github.com/heloiseouvry)
 - [Santiago Urbano](https://github.com/sanurb)
-- [સ્મિ�? કાછડીયા](https://github.com/smeekas)
+- [સ્મિ�? કાછડીયા](https://github.com/smeekas)
 - [Nanikasi](https://github.com/nanikasi)
 - [Gustavo Cordeiro](https://github.com/gustavocordeiro23)
 - [Rao Khuram Shahzad](https://github.com/KhuramShahzad-5335)
