@@ -231,6 +231,7 @@ Condor Sergiu
 - [Shruti Singh](https://github.com/shruti8302)
 - [Shashwat Yadav](https://github.com/Shashwat-y)
 - [Agastya SHARMA](https://github.com/Agastya-07)
+- [Shambhavee Srivastava](https://github.com/shambhaveesrivastava12)
 - [Zhaoqi Xia](https://github.com/zhaoqix2)
 - [Prabal Sharma](https://github.com/prabalsh19)
 - [Jurica Mihin](https://github.com/mihinx1)
