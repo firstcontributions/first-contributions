@@ -68,6 +68,7 @@
 - [Tanmai Kalisipudi](https://github.com/tanmaik)
 - [Muhammed Ali Özcan ](https://github.com/Rhipheus)
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
+- [Ursu Nicolae] (https://github.com/UrsuNicolae)
 - [Fajla Rabby](https://github.com/Fajla-Rabby) 
 - [Norvillie Villaruel](https://github.com/nozky)
 - [Prerna Singh](https://github.com/PrernaSingh01)
