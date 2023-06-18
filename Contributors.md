@@ -224,6 +224,7 @@ Condor Sergiu
 - [Shaik Mohammad Afzal](https://github.com/afzxlsgit)
 - [Adarsh Agarwal]
 - [Lucas Moyano](https://github.com/LucasEPK)
+- [Kapil Vaishnav](https://github.com/kapil5849)
 - [Joy](https://github.com/aquaj0y)
 - [Ayomide Ilesanmi](https://github.com/TheCodeGhinux)
 - [John](https://github.com/duckheap)
