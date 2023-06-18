@@ -2309,3 +2309,4 @@ greeshmanth
 - [Hamilton Fantin](https://github.com/hfantin)
 - [Archit Gajjar](https://github.com/ArchitGajjar)
 - [Georges Del Favero](https://github.com/gdelfavero)
+- [Hari Kiran](https://github.com/harikirank)
