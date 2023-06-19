@@ -2137,6 +2137,7 @@ Aaron
 - [Bekzod Tolipov](https://github.com/BekzodTolipov)
 - [Guy Turevich](https://github.com/GuyTurevich)
 - [Ian Maestro](https://github.com/itsmaestro)
+- [Song S.X.] (https://github.com/SirSX3)
 - Peter Lustig
 - [Nissrine Canina](https://github.com/Nissrine-Can)
 - [tomoo](https://github.com/Niwatori1192)
