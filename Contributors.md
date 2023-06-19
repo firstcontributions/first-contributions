@@ -1055,6 +1055,7 @@ Aaron
 - [Akshay Ballal](https://github.com/akballal)
 - [Htet Hlaing Win](https://github.com/dk292)
 - [Joshua Varghese](https://github.com/joshvarg)
+- [Jannis Cui](https://github.com/janniscui3)
 - [chowonbhin](https://github.com/chowonbhin)
 - [mimeosd](https://github.com/mimeosd)
 - [Jugal Alan](https://github.com/lyrnoxx)
