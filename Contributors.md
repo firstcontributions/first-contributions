@@ -141,6 +141,7 @@
 - [Elpidio Julian](https://github.com/Elpidio-Julian)
 - [Devojoyti Pal](https://github.com/Devojoytip)
 - [Kuber Acharya](https://github.com/thekubera)
+- [PurpleBored](https://github.com/purplebored)
 - [Jo-pl](https://github.com/Jo-pl)
 - [Adarsh Malviya](https://github.com/adarshmalviy)
 - [Luis Cepeda](https://github.com/LuisCepeda)
