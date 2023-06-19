@@ -1,7 +1,8 @@
 # Contributors
 
 <!-- prettier-ignore-start and welcome -->
-
+  
+- [Irfan Khan Sajid](https://github.com/irfankhansajid)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
 - [Vivek Kumar Shrivastav](https://github.com/Vivek-Kumar-Shrivastav)
 - [Rimma Kubanova](https://github.com/rimma-kubanova)
@@ -2327,6 +2328,7 @@ greeshmanth
 - [Gordon Ling]
 -[rajat](https://github.com/rajatrokde)
 - [Abhishek Mishra] (https://github.com/Abhishek-0009/)
+- [Irfan Khan Sajid](https://github.com/irfankhansajid)
 
 - [Shuvkant Phanait](https://github.com/shuvkant)
 - [Smit Raichura] (https://github.com/smit-raichura)
