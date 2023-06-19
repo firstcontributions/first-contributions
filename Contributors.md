@@ -129,6 +129,7 @@
 - [HP] (https://github.com/Black-Hwak)
 -[kavearhasi](https://github.com/kavearhasi)
 - [Arturo Lﾃｳpez](https://github.com/arturolopeze)
+-[Sai Sravani Vadali](https://github.com/vadalisravani)
 - [Albert Arakelyan](https://github.com/AlbertArakelyan)
 - [Chloe Gavrilovic](https://github.com/cmgvc)
 - [Arslan Asghar](https://github.com/al-arslan)
