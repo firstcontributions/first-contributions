@@ -11,6 +11,7 @@
 - [Nandha Kumar](https://github.com/tnrock)
 - [James Kelly](https://github.com/jkellymi)
 - [Kalluri naveen](https://github.com/kalluri02)
+- [Charu Pot](https://github.com/charu167)
 - [Hari Prasad] (https://github.com/itcodehery)
 - [Widdershins](https://github.com/Widdershins89)
 - [Dagmawi Yohannes](https://github.com/Dagmawi-Y)
