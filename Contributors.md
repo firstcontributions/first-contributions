@@ -11,6 +11,7 @@
 - [Rushil Kumar](https://github.com/Rushilkr77)
 - [Nandha Kumar](https://github.com/tnrock)
 - [James Kelly](https://github.com/jkellymi)
+- [Daniël Vos](https://github.com/DanielVos1992)
 - [Kalluri naveen](https://github.com/kalluri02)
 - [Hari Prasad] (https://github.com/itcodehery)
 - [Widdershins](https://github.com/Widdershins89)
