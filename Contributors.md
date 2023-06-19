@@ -833,6 +833,7 @@ Aaron
 - [Ayomipo Solaja](https://github.com/Ayomipo18)
 - [Kaleb Abiy](https://github.com/Kaleb-Abiy)
 - [Emily Chima](https://github.com/emilychima)
+- [Rafael K Yanto](https://github.com/izruff)
 - [Pwolber](https://github.com/pwolber)
 - [Moustapha Sambe](https://github.com/taphacoobams)
 - [Sudhir Bhandari](https://github.com/suasnomy/)
