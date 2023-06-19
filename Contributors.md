@@ -2327,6 +2327,7 @@ greeshmanth
 - [Gordon Ling]
 -[rajat](https://github.com/rajatrokde)
 - [Abhishek Mishra] (https://github.com/Abhishek-0009/)
+- [Muhammad Amri Nurfai](https://github.com/mhmadamrii)
 
 - [Shuvkant Phanait](https://github.com/shuvkant)
 - [Smit Raichura] (https://github.com/smit-raichura)
