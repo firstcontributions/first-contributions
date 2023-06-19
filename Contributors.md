@@ -2327,7 +2327,7 @@ greeshmanth
 - [Gordon Ling]
 -[rajat](https://github.com/rajatrokde)
 - [Abhishek Mishra] (https://github.com/Abhishek-0009/)
-
+- [Kovid Lakhera](https://github.com/divok11231)
 - [Shuvkant Phanait](https://github.com/shuvkant)
 - [Smit Raichura] (https://github.com/smit-raichura)
 - [Shuvkant Phanait](https://github.com/shuvkant)
