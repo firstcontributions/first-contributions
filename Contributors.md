@@ -1663,6 +1663,7 @@ Aaron
 - [Rajat Bhosale](https://github.com/RajatBhosale)
 - [Charandeep Singh](https://github.com/charandeepsinghb)
 - [SmashedFrenzy16](https://github.com/SmashedFrenzy16)
+- [Trishan Wagle](https://github.com/trishan9)
 - [Sumit Patil](https://github.com/Sumit70421)
 - [Suhyeon Yu](https://github.com/RSuhyeon)
 - [Steven Williams](https://github.com/swilliams186)
