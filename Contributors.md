@@ -2213,6 +2213,7 @@ Aaron
 - [QiPing Song](https://github.com/SongQiPing)
 - [loite](https://github.com/loite)
 - [Tim Hofmann](https://github.com/txmho)
+- [Edward Herrera](https://github.com/Edlenh)
 - [Pickwick Rudge](https://github.com/pickwick-rudge)
 - [safe rabbit](https://github.com/saferabbit/)
 - [novicebutlove](https://github.com/NoviceButLove)
