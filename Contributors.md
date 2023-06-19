@@ -112,6 +112,7 @@
 - [Khushi Sharma](https://github.com/Khushisharma23)
 - [Artem Yershov](https://github.com/YershovArt)
 - [Alen Chen](https://github.com/ChenYunyue)
+- [Hebert Macedo](https://github.com/HebertMacedo)
 - [MD Ahsan Habib](https://github.com/md-ahsanhabib)
 - [Sushant Bhargav](https://github.com/BhargavSushant)ﾃ
 - [Milan Lakhani](https://github.com/milan-lakhani)
