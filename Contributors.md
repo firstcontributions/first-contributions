@@ -32,6 +32,7 @@
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Frosty2500](https://github.com/Frosty2500)
 - [Anadu Godwin](https://github.com/AnaduCG)
+- [Amir Hashemi](https://github.com/seyyeddev)
 - [Youssef Jrab](https://github.com/yjrab)
 - [Akmal Kamarudin](https://github.com/akmal-kamarudin)
 - [Onochie Peter Eze](https://github.com/RxZepet)
