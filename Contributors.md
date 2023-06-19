@@ -31,6 +31,7 @@
 - [Mohd Farhan Nawaz](https://github.com/mohdfarhannawaz)
 - [Grant Growcott](https://github.com/GrantGrowcott)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
+- [Shubham Lalwani] (https://github.com/Shubham-777-bit)
 - [Frosty2500](https://github.com/Frosty2500)
 - [Anadu Godwin](https://github.com/AnaduCG)
 - [Amir Hashemi](https://github.com/seyyeddev)
