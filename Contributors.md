@@ -47,6 +47,7 @@
 - [Vaibhavharsoda](https://github.com/vaibhavharsoda)
 - [Devanshu Augusty](https://github.com/Devanshu-Augusty)
 - [Zachary Murphy](https://github.com/ZacharyJTMurphy)
+- [Govind S Nair](https://github.com/Govind-S-Nair)
 - [Raj Agrahari](https://github.com/RajAgrahari)
 - [Aviprit Shah](https://github.com/programmer765/)
 - [Muhammad Haris](https://github.com/headlessNode)
