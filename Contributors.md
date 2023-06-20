@@ -316,6 +316,7 @@ Condor Sergiu
 - [Bhav Kushwaha](https://github.com/bhavkushwaha)
 - [Ipsita Dhar](https://github.com/ipsitadhar)
 - [Julie Clegg](https:///github.com/jclegg31)
+- [Viviana Hirsch](https://github.com/inatempest)
 - [Chan](https:///github.com/sitnyein)
 - [Talha Jamal] (https://github.com/talhajamal11)
 - [Sharath](https://github.com/r-sharath)
