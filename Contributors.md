@@ -2360,4 +2360,5 @@ greeshmanth
 - [Hamilton Fantin](https://github.com/hfantin)
 - [Archit Gajjar](https://github.com/ArchitGajjar)
 - [Georges Del Favero](https://github.com/gdelfavero)
+- [yukiko bass](https://github.com/yukiko-bass)
 - [Hari Kiran](https://github.com/harikirank)
