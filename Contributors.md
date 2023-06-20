@@ -2220,6 +2220,7 @@ Aaron
 - [Julio](https://github.com/JulioC-19)
 - [Adarsh Kannarath](https://github.com/AdarshKannarath)
 - [Lawson Tanner](https://github.com/Hornbag)
+- [rohit singh](https://github.com/sinchan62)
 - [Nils Schmidt](https://github.com/duk7292)
 - [Manuel Menendez](https://github.com/hudsonbay)
 - [Jorge Torres](https://github.com/jotorres1)
