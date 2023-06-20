@@ -1752,6 +1752,7 @@ Aaron
 - [Wachukwu Emmanuel](https://github.com/Wach-E)
 - [Ibragim GK](https://github.com/Ibrapsico)
 - [Revathi Vijayendran](https:github.com/vrrevi)
+- [Khushi Kapoor](https://github.com/Khushik514)
 - [Damon Xue](https://github.com/damonxue)
 - [Alex J](https://github.com/scjundev)
 - [Andre Perez Esq.](https://github.com/codeonrepeat)
