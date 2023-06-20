@@ -873,6 +873,7 @@ Aaron
 - [Alan Rios](https://github.com/riiosalan)
 - [lowgunnn](https://github.com/lowgunnn)
 - [JP Robbins](https://github.com/JP-Robbins)
+- [Edmilson Ferreira](https://github.com/Edmilson95)
 - [Prasanth Prabakaran](https://github.com/prasanthprabakaran)
 - [Aroboto Ife](https://github.com/IfeoluwaAroboto)
 - [Suraj Gupta](https://github.com/builtbysuraj)
