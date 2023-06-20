@@ -89,6 +89,7 @@
 - [Isaac Achenbach](https://github.com/isaacach)
 - [Kiran Sadaye](https://github.com/kiran215)
 - [Leon Heinrich](https://github.com/LionLostInCode)
+- [EJ](https://github.com/3jc24)
 - [Matthew West](https://github.com/MattWestGH)
 - [Tanmai Kalisipudi](https://github.com/tanmaik)
 - [Muhammed Ali ﾃ奔can ](https://github.com/Rhipheus)
