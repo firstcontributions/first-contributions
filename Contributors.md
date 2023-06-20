@@ -49,6 +49,7 @@
 - [Zachary Murphy](https://github.com/ZacharyJTMurphy)
 - [Raj Agrahari](https://github.com/RajAgrahari)
 - [Aviprit Shah](https://github.com/programmer765/)
+- [Chavva Narayana Reddy](https://github.com/ChavvaNarayana)
 - [Muhammad Haris](https://github.com/headlessNode)
 - [Sachin Kumar](https://github.com/pseudofool)
 - [Vedang](https://github.com/vedang685)
