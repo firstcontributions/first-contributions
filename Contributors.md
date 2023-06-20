@@ -138,6 +138,7 @@
 -[kavearhasi](https://github.com/kavearhasi)
 - [Arturo Lﾃｳpez](https://github.com/arturolopeze)
 - [Albert Arakelyan](https://github.com/AlbertArakelyan)
+- [Luis Tapia Navarro](https://github.com/tapiadot)
 - [Chloe Gavrilovic](https://github.com/cmgvc)
 - [Arslan Asghar](https://github.com/al-arslan)
 - [Ali Ayed](https://github.com/iTzVoko)
