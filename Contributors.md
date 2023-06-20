@@ -4,6 +4,7 @@
 <!-- prettier-ignore-start and welcome -->
 
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
+- [Marcus Brandes](https://github.com/MarcusBBB)
 - [Vivek Kumar Shrivastav](https://github.com/Vivek-Kumar-Shrivastav)
 - [Rimma Kubanova](https://github.com/rimma-kubanova)
 - [Abhay Donga](https://github.com/AbhayDonga007)
@@ -69,7 +70,7 @@
 - [Jack Galat] (https://github.com/JMGalati8)
 - [笨粂usseini Mudi Profsain](https://github.com/Profsain)
 - [Vansh Rai Saini](https://github.com/vanshraisaini)
--[Sugam Goel](https://github.com/Sugamgoel28)
+- [Sugam Goel](https://github.com/Sugamgoel28)
 - [Damoon Darvishi](https://github.com/DamoonDarvishi)
 - [Shubham Tamrakar](https://github.com/shubham-tam)
 - [Disha Vig](https://github.com/vigdisha)
@@ -94,7 +95,7 @@
 - [Muhammed Ali ﾃ奔can ](https://github.com/Rhipheus)
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
 - [Ursu Nicolae] (https://github.com/UrsuNicolae)
-- [Fajla Rabby](https://github.com/Fajla-Rabby) 
+- [Fajla Rabby](https://github.com/Fajla-Rabby)
 - [Norvillie Villaruel](https://github.com/nozky)
 - [Prerna Singh](https://github.com/PrernaSingh01)
 - Tamanna Niger Tuly
@@ -206,7 +207,7 @@
 - [Junji](https://github.com/juunjii)
 - [Akhil](https://github.com/Akhil-77)
 - [Javier Ramirez](https://github.com/ramirezj129)
-- 
+-
 - [Roger Massana](https://github.com/massanaRoger)
 - [Yash Patel](https://github.com/theyashpatel)
   Shreyash Verma
@@ -472,7 +473,7 @@ Condor Sergiu
 - J3exellence
 - Justin Valdez
 - Triparna Saha
-- 
+-
 - [John Allen](https://github.com/johnallen1029)
 - Shashank Sangale
 - Megan Cooper (https://github.com/MegRCooper)
@@ -2321,7 +2322,7 @@ greeshmanth
 - [Pape Ngagne Ndiaye](https://github.com/PapisKang)
 - [K B POOVANNA](https://github.com/kbpoovanna-007)
 - [swarup_E7](https://github.com/swarupe7)
-- [Lasse_Buch](https://github.com/LasseBuchAspIT)        
+- [Lasse_Buch](https://github.com/LasseBuchAspIT)
 - <!-- prettier-ignore-end -->
 - [Naveen Avula](https://github.com/Avula-Naveen)
 - [Sameer Kumar singh](https://github.com/xvisierra)
