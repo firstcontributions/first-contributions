@@ -25,6 +25,7 @@
 - [Sohail khan](https://github.com/Sohail700)
 - [Gary Mejia](https://github.com/garymejia)
 - [Rex Cheng](https://github.com/lychengrex)
+- [Duff Isberg](https://github.com/wisberg)
 - [Harshwardhan Verma](https://github.com/justharxsh)
 - [Pavankalyan Nagulla](https://github.com/Pavan-Nagulla)
 - [Reza Bari](https://github.com/RezaBari)
