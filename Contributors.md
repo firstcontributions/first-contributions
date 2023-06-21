@@ -72,6 +72,7 @@
 -[Sugam Goel](https://github.com/Sugamgoel28)
 - [Damoon Darvishi](https://github.com/DamoonDarvishi)
 - [Shubham Tamrakar](https://github.com/shubham-tam)
+- [Aditya Dhanraj](https://github.com/shidozimenoshi)
 - [Disha Vig](https://github.com/vigdisha)
 - [Omi](https://github.com/NormTurtle)
 - [Stefano 128423](https://github.com/128423)
