@@ -1179,6 +1179,7 @@ Aaron
 - [Dwayne Gibbs](https://dwaynegibbs.net)
 - [Angel Velasquez](https://github.com/angel-721)
 - [Funkey](https://github.com/funkey-126)
+- [sayik](Says Hello world!)
 - [Tasnim@DevSocPI](https://github.com/tasnim496)
 - [AVINASH YADAV](https://github.com/Happylife10)
 - [Andrei Psait](https://github.com/psaitandrei)
