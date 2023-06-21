@@ -39,6 +39,7 @@
 - [Akmal Kamarudin](https://github.com/akmal-kamarudin)
 - [Onochie Peter Eze](https://github.com/RxZepet)
 - [Isaiah Swain](https://github.com/imswain)
+- [bemonteleone](https://github.com/bemonteleone)
 - [rentj1](https://github.com/rentj1)
 - [Barathan Ganesh](https://github.com/brthngnsh)
 - [Ilay Eldar](https://github.com/ilayEldar24)
