@@ -21,7 +21,7 @@ Faça um _Fork_ clicando no botão "_Fork_" no topo desta página, uma cópia de
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clonar este repositório" />
 
-Agora clone este repositório para a sua máquina. Clique no botão "_Clone or download_" e, em seguida, clique no ícone "_Copy to clipboard_" para copiar a URL.
+Agora clone este repositório para a sua máquina. Clique no botão "_Code_" e, em seguida, clique no ícone "_Copy to clipboard_" para copiar a URL.
 
 Abra um terminal e execute o seguinte comando do git:
 
@@ -103,7 +103,7 @@ Agora envie um _Pull Request_.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Envie o Pull Request" />
 
-Logo estará mesclando ('mergeando') as suas mudanças no _Branch_ principal (master) deste projeto. Você receberá um e-mail de notificação quando as alterações forem mescladas.
+Logo estará mesclando ('mergeando') as suas mudanças no _Branch_ principal (main) deste projeto. Você receberá um e-mail de notificação quando as alterações forem mescladas.
 
 ## Para onde ir a partir daqui?
 
