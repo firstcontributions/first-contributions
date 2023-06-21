@@ -2357,6 +2357,7 @@ greeshmanth
 - [Smit Raichura] (https://github.com/smit-raichura)
 - [Potluru Chakradhar](https://github.com/Chakri341)
 - [Shuvkant Phanait](https://github.com/shuvkant)
+- [John Thuo](https://github.com/john-thuo1)
 - [Hamilton Fantin](https://github.com/hfantin)
 - [Archit Gajjar](https://github.com/ArchitGajjar)
 - [Georges Del Favero](https://github.com/gdelfavero)
