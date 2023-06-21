@@ -1689,6 +1689,7 @@ Aaron
 - [Smayo-Sugaal](https://github.com/SumayoSugaal)
 - [kartikay7](https://github.com/kartikay7)
 - [Shalini Gupta](https://github.com/ShaliniGupta14)
+  [umarxd](https://github.com/umarxd)
 - [nikhilhex](https://github.com/nikhilhex)
 - [oacs](https://github.com/oacs)
   [Kai](https://github.com/1x55)
