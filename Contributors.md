@@ -2,7 +2,7 @@
 
 
 <!-- prettier-ignore-start and welcome -->
-
+[uthra](https://github.com/code-par-learn)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
 - [Vivek Kumar Shrivastav](https://github.com/Vivek-Kumar-Shrivastav)
 - [Rimma Kubanova](https://github.com/rimma-kubanova)
@@ -47,7 +47,7 @@
 - [Vaibhavharsoda](https://github.com/vaibhavharsoda)
 - [Devanshu Augusty](https://github.com/Devanshu-Augusty)
 - [Zachary Murphy](https://github.com/ZacharyJTMurphy)
-- [Raj Agrahari](https://github.com/RajAgrahari)
+- [Raj Agrahari](https://github.com/RajAgrahari)]
 - [Aviprit Shah](https://github.com/programmer765/)
 - [Muhammad Haris](https://github.com/headlessNode)
 - [Sachin Kumar](https://github.com/pseudofool)
