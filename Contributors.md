@@ -22,6 +22,7 @@
 - [Raymond Mason] (https://github.com/pepsibluefan2)
 - [Lion King](https://github.com/topmsdreamer)
 - [Olayinka Okanlawon](https://github.com/olayinkagrace)
+- [Evan Scott] (https://github.com/ejscott)
 - [Sohail khan](https://github.com/Sohail700)
 - [Gary Mejia](https://github.com/garymejia)
 - [Rex Cheng](https://github.com/lychengrex)
