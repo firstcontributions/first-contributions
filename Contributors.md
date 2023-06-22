@@ -779,6 +779,7 @@ Aaron
 - [Nero]
 - [Rishikesh Kanabar](https://github.com/RishikeshNK)
 - [Moheet Shendarkar](https://github.com/moheet333)
+- [Tamas Tony] (https://github.com/tonyTamas10)
 - [Adrian Calleja](https://github.com/adrii0113)
 - [Jon Sundin](https://github.com/jmsundin)
 - [Rose Rousseau](https://github.com/MapleRose))
