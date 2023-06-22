@@ -97,6 +97,7 @@
 - [Fajla Rabby](https://github.com/Fajla-Rabby) 
 - [Norvillie Villaruel](https://github.com/nozky)
 - [Prerna Singh](https://github.com/PrernaSingh01)
+- [Eti Gal-Or Mendelovich](https://github.com/etigame)
 - Tamanna Niger Tuly
 - [Soy Eric](https://github.com/ibrahimeric)
 - [Rukhjam](https://github.com/rukhjam)
