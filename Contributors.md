@@ -2139,6 +2139,7 @@ Aaron
 - Jing Yi
 - [Juan Ospina](https://github.com/juandaosp)
 - [Paaad]
+- [Jay Love](https://github.com/theonejlove)
 - [Pranjit Medhi](https://github.com/real-zit)
 - [Agent J](https://github.com/J-0110)
 - [Amy Lam](https://github.com/amyhoanglam)
