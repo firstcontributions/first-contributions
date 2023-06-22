@@ -2101,6 +2101,7 @@ Aaron
 - [aman404](https://github.com/aman404)
 - [Daniel Trogdon](https://github.com/dtrogdon91)
 - [buriedBug](https://github.com/buriedBug)
+- [temidayo omoyajowo](https://github.com/temideewan)
 - [Harold Song](https://github.com/swyhrld)
 - [foliage21](https://github.com/foliage21)
 - [alkas](https://github.com/exalkas 'software engineer')
