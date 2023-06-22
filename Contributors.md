@@ -75,6 +75,7 @@
 - [Disha Vig](https://github.com/vigdisha)
 - [Omi](https://github.com/NormTurtle)
 - [Stefano 128423](https://github.com/128423)
+-  Abdul Wahab
 - [Roger](https://github.com/rogerkaplan)
 - [MathiasS](https://github.com/mathiassei)
 - [Zalman Gagerman](https://github.com/zalmang)
