@@ -2,7 +2,7 @@
 
 
 <!-- prettier-ignore-start and welcome -->
-
+- [mohnd khalid](https://github.com/mkh-web)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
 - [Vivek Kumar Shrivastav](https://github.com/Vivek-Kumar-Shrivastav)
 - [Rimma Kubanova](https://github.com/rimma-kubanova)
@@ -206,7 +206,6 @@
 - [Junji](https://github.com/juunjii)
 - [Akhil](https://github.com/Akhil-77)
 - [Javier Ramirez](https://github.com/ramirezj129)
-- 
 - [Roger Massana](https://github.com/massanaRoger)
 - [Yash Patel](https://github.com/theyashpatel)
   Shreyash Verma
