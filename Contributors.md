@@ -10,6 +10,7 @@
 - [Uday Krishnan](https://github.com/udaykrishnan9302)
 - [Rushil Kumar](https://github.com/Rushilkr77)
 - [Nandha Kumar](https://github.com/tnrock)
+- [Aram Kazorian](https://github.com/aramk-hub)
 - [James Kelly](https://github.com/jkellymi)
 - [Kalluri naveen](https://github.com/kalluri02)
 - [Hari Prasad] (https://github.com/itcodehery)
