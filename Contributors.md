@@ -21,6 +21,7 @@
 - [Aaron Newbigging](https://github.com/Pastasource)
 - [Raymond Mason] (https://github.com/pepsibluefan2)
 - [Lion King](https://github.com/topmsdreamer)
+- [Joana Mateo](https://github.com/jojo-138)
 - [Olayinka Okanlawon](https://github.com/olayinkagrace)
 - [Sohail khan](https://github.com/Sohail700)
 - [Gary Mejia](https://github.com/garymejia)
