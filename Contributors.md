@@ -1094,6 +1094,7 @@ Aaron
 - [TurtleJay](https://github.com/TurtleJay)
 - [Hugo Calderon-Delgado](https://github.com/Hugo-cd925)
 - [Gaurav Giri](https://github.com/gaurovgiri)
+- [Gayan Hatharasinghe](https://github.com/codelahiru)
 - [T4EK](https://github.com/T4EK)
 - [Chiamaka Ezemba](https://github.com/ChiamakaUI)
 - [smdch](https://github.com/smdch)
