@@ -2361,3 +2361,4 @@ greeshmanth
 - [Archit Gajjar](https://github.com/ArchitGajjar)
 - [Georges Del Favero](https://github.com/gdelfavero)
 - [Hari Kiran](https://github.com/harikirank)
+- [Sebas Solís](https://github.com/sebas-sv)
