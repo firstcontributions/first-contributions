@@ -5,6 +5,7 @@
 
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
 - [Vivek Kumar Shrivastav](https://github.com/Vivek-Kumar-Shrivastav)
+- [Pradyumna Hedge](https://github.com/pradyumna-ph)
 - [Rimma Kubanova](https://github.com/rimma-kubanova)
 - [Abhay Donga](https://github.com/AbhayDonga007)
 - [Uday Krishnan](https://github.com/udaykrishnan9302)
