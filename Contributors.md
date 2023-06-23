@@ -51,6 +51,7 @@
 - [Aviprit Shah](https://github.com/programmer765/)
 - [Muhammad Haris](https://github.com/headlessNode)
 - [Sachin Kumar](https://github.com/pseudofool)
+- [Tim Dinh](https://github.com/timmiedinnie)
 - [Vedang](https://github.com/vedang685)
 - [kekeneit](https://github.com/kekeneit)
 - [Ismail Chikh Boubekeur](https://github.com/esmo-ts)
