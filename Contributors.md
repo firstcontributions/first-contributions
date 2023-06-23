@@ -1197,6 +1197,7 @@ Aaron
 - [Greg Omebije](https://github.com/gregomebije1)
 - [Dmitrii Sidenko](https://github.com/DmSide)
 - [Heloise Ouvry](https://github.com/heloiseouvry)
+- [Calen Cooper](https://github.com/CalenCoop)
 - [Santiago Urbano](https://github.com/sanurb)
 - [爼ｸ爿財ｪｮ爼ｿ爼? 爼歩ｪｾ爼巵ｪ｡爿爼ｯ爼ｾ](https://github.com/smeekas)
 - [Nanikasi](https://github.com/nanikasi)
