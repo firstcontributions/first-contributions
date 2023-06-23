@@ -1330,6 +1330,7 @@ Aaron
 - [Jack Heywood](https://github.com/jackheywood)
 - [Rishi Singh](https://github.com/mrsingh-rishi)
 - [Arpan Adlakhiya](https://github.com/mrr0b0t-0x1)
+- [Thibault Guilhem](https://github.com/ThibaultG94)
 - [Nia Ahmed](https://github.com/technialogy)
 - [Jonas Reiher](https://github.com/jonasreiher) -[Better Kayode](https://github.com/KayodeBetter)
 - [Stuart Bailey](https://github.com/stubailey18)
