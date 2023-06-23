@@ -62,7 +62,12 @@ git checkout -b engade-María-Soliña
 
 ## Fai os cambios necesarios e efectúa(*Commit*) deses cambios
 
-Agora abre o arquivo `Contributors.md` nun editor de texto, engade o teu nome e despois garda o arquivo. Se vas ó directorio do proxecto e executas `git status`, verás que hai modificacións. Agrega eses cambios ou modificacións usando o comando `git add`  tal como se amosa:
+Agora abre o arquivo `Contributors.md` nun editor de texto, engade o teu nome e despois garda o arquivo. Se vas ó directorio do proxecto e executas `git status`, verás que hai modificacións.
+
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+
+ Agrega eses cambios ou modificacións usando o comando `git add`  tal como se amosa:
+
 ```
 git add Contributors.md
 ```
