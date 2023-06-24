@@ -1180,6 +1180,7 @@ Aaron
 - [Stefano Mirazh9](https://github.com/mirazh-ds)
 - [Dakota Kryzanowski](https://github.com/DakotaKry)
 - [Joshua Rodriguez�](https://github.com/joshua-rdrgz)
+- [Otero Onderi](https://github.com/O-tero)
 - [Bzucak12](https://github.com/Bzucak12/)
 - [Aniket Anilkumar](https://github.com/a-aniket19)
 - [Grahanam](https://github.com/Grahanam)
