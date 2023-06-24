@@ -24,6 +24,7 @@
 - [Steven Veal](https://github.com/DolphinBeans)
 - [Muhammad Abdullahi](https://github.com/A-u-usman)
 - [Aaron Newbigging](https://github.com/Pastasource)
+- [heinAstonish](https://github.com/heinAstonish)
 - [Raymond Mason] (https://github.com/pepsibluefan2)
 - [Nathanaël V] (https://github.com/nathanael-v)
 - [Lion King](https://github.com/topmsdreamer)
