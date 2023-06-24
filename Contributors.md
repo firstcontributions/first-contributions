@@ -2,7 +2,7 @@
 
 
 <!-- prettier-ignore-start and welcome -->
-
+- [Turja](https://github.com/Zahidul-Turja)
 - [Samaila](https://github.com/samailamalima)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
 - [Ali Manzer](https://github.com/amanzer)
