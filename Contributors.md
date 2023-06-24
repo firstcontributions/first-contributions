@@ -1026,6 +1026,7 @@ Aaron
 - [Ritik Ranjan](https://github.com/ranjanritik5757)
 - [TesseractionCode](https://github.com/TesseractionCode)
 - [Jyotishmoy konwar](https://github.com/Jyotishmoy365)
+- [jhtorp] (https://github.com/jhtorp)
 - [Krishan-Kant-11](https://github.com/Krishan-Kant-11)
 - [KiriNeTo](https://github.com/KiriNeTo)
 - [BijoyJogi](https://github.com/BijoyJogi123)
