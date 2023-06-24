@@ -1731,6 +1731,7 @@ Aaron
 - [Kirill KHL](https://github.com/Kirill-HLB)
 - [thofa](https://github.com/musthofasyarifudin)
 - [Jose Martinez](https://github.com/Jnmarti88/)
+- [Judah Taylor] (https://github.com/Dauntless5452)
 - [Klee-cocow](https://github.com/Klee-cocow)
 - [Gabriela](https://github.com/gabrysia97)
   [Spencer Gee](https://github.com/SpencerGee)
