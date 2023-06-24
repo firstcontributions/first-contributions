@@ -17,6 +17,7 @@
 - [Widdershins](https://github.com/Widdershins89)
 - [Dagmawi Yohannes](https://github.com/Dagmawi-Y)
 - [Sohail khan](https://github.com/sohail700)
+- [Bhavish](https://github.com/Bhavish5)
 - [Steven Veal](https://github.com/DolphinBeans)
 - [Muhammad Abdullahi](https://github.com/A-u-usman)
 - [Aaron Newbigging](https://github.com/Pastasource)
