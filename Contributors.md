@@ -228,7 +228,6 @@
 - [Junji](https://github.com/juunjii)
 - [Akhil](https://github.com/Akhil-77)
 - [Javier Ramirez](https://github.com/ramirezj129)
-- 
 - [Roger Massana](https://github.com/massanaRoger)
 - [Yash Patel](https://github.com/theyashpatel)
   Shreyash Verma
