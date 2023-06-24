@@ -520,6 +520,7 @@ Condor Sergiu
 - [Shubham Singh](https://github.com/shibs-01)
 - [Pranay Ghuge](https://github.com/Pranay0205)
 - [Vedant Adke](https://github.com/VedantAdke96)
+- [Matthew Volpe](https://github.com/mVolpe94)
 - [Mohummad Kazmi](https://github.com/mskazmi)
 - [Rene Baribal](https://github.com/RiinSeresuto)
 - [Lalit Chaudhari](https://github.com/Lalit572)
