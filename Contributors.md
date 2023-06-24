@@ -2384,6 +2384,7 @@ greeshmanth
 - [Ahnaf Al Islam](https://github.com/maskedhypocrite)
 - [Gordon Ling]
 -[rajat](https://github.com/rajatrokde)
+- [Alistair Cannon](https://github.com/alistaircannon) 
 - [Abhishek Mishra] (https://github.com/Abhishek-0009/)
 - [Ashish Mali](https://github.com/ashish9719)
 - [Shuvkant Phanait](https://github.com/shuvkant)
