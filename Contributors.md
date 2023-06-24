@@ -2397,6 +2397,7 @@ greeshmanth
 - [Shuvkant Phanait](https://github.com/shuvkant)
 - [Hamilton Fantin](https://github.com/hfantin)
 - [Archit Gajjar](https://github.com/ArchitGajjar)
+- [Alex Bzdel](https://github.com/abzdel)
 - [Georges Del Favero](https://github.com/gdelfavero)
 - [Hari Kiran](https://github.com/harikirank)
 - [Sathwik R](https://github.com/cicada0007)
