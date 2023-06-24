@@ -74,6 +74,7 @@
 - [Shubham Tamrakar](https://github.com/shubham-tam)
 - [Disha Vig](https://github.com/vigdisha)
 - [Omi](https://github.com/NormTurtle)
+- [Samuel Osho](https://github.com/samthatcode)
 - [Stefano 128423](https://github.com/128423)
 - [Roger](https://github.com/rogerkaplan)
 - [MathiasS](https://github.com/mathiassei)
