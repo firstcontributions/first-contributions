@@ -23,6 +23,7 @@
 - [Lion King](https://github.com/topmsdreamer)
 - [Olayinka Okanlawon](https://github.com/olayinkagrace)
 - [Sohail khan](https://github.com/Sohail700)
+- [Amrita Sharma](https://github.com/amritash1403)
 - [Gary Mejia](https://github.com/garymejia)
 - [Rex Cheng](https://github.com/lychengrex)
 - [Harshwardhan Verma](https://github.com/justharxsh)
