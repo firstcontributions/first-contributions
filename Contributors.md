@@ -116,6 +116,7 @@
 - [Devop Parker](https://github.com/DevopParker)
 - [Isaac Achenbach](https://github.com/isaacach)
 - [Kiran Sadaye](https://github.com/kiran215)
+- [Olamide Adojutelegan](https://github.com/lamideado)
 - [Leon Heinrich](https://github.com/LionLostInCode)
 - [Matthew West](https://github.com/MattWestGH)
 - [Mengstab Ketemaw](https://github.com/mengstabketemaw)
