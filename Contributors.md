@@ -42,6 +42,7 @@
 - [rentj1](https://github.com/rentj1)
 - [Barathan Ganesh](https://github.com/brthngnsh)
 - [Ilay Eldar](https://github.com/ilayEldar24)
+- [Kithinji Brian](https://github.com/kithinjibrian)
 - [Twalla] (https://github.com/twalla26)
 - [Mustafa] (https://github.com/musti17)
 - [Vaibhavharsoda](https://github.com/vaibhavharsoda)
