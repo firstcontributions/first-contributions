@@ -100,6 +100,7 @@
 - [Colin McKerracher](https://github.com/colmck)
 - [Pierce Oxley] (https://github.com/Parcley27)
 - [Omoogun Olawale](https://github.com/olawale-o)
+- [Devop Parker](https://github.com/DevopParker)
 - [Isaac Achenbach](https://github.com/isaacach)
 - [Kiran Sadaye](https://github.com/kiran215)
 - [Leon Heinrich](https://github.com/LionLostInCode)
