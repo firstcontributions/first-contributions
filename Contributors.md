@@ -2341,6 +2341,7 @@ greeshmanth
 - Buggy
 - kritika singh
 - [Jeff Loop](https://github.com/jefferyloop)
+- [Simone Coslovich](https://github.com/simo2712)
 - [John Mﾃｶller](https://github.com/fyradur)
 - [Carlos Sais](https://github.com/csais3)
 - [Roberto Garcﾃｭa](https://github.com/Rivert97)
