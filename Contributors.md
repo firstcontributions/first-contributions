@@ -2014,6 +2014,7 @@ Aaron
 - [Aiden Emerling](https://github.com/DoctorSir)
 - [alphaprads](https://github.com/alphaprads)
 - [Ezequiel Magalhﾃ｣es](https://github.com/zeekias)
+- [Sandipan Mukherjee](https://github.com/SandipanIO)
 - [Jordan Feliphe](https://github.com/jordanrasgado)
 - [Danilo Monteiro](https://github.com/danzz32)
 - [Jash Karangiya �](https://github.com/jashkarangiya)
