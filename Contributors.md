@@ -157,6 +157,7 @@
 - [Tyler Lowe](https://github.com/TylerRLowe)
 - [Nikita Aleksandrov](https://github.com/AleksandrovDev)
 - [Abhishek Kumar](https://github.com/abhishek-Roy22)
+- [SnowZillin](https://github.com/SnowZillin)
 - [Irsyad](https://github.com/charIrsyad)
 - [Matt Jarrett](https://github.com/mvjarrett)
 - ![Joshua Ramat](https://github.com/joshuaramat)
