@@ -69,6 +69,7 @@
 - [Muhammad Haris](https://github.com/headlessNode)
 - [Favour Markson]((https://github.com/Markson17)
 - [Sachin Kumar](https://github.com/pseudofool)
+- [Tim Dinh](https://github.com/timmiedinnie)
 - [Vedang](https://github.com/vedang685)
 - [kekeneit](https://github.com/kekeneit)
 - [Ismail Chikh Boubekeur](https://github.com/esmo-ts)
