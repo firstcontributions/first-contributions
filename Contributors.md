@@ -33,6 +33,7 @@
 - [Raymond Mason] (https://github.com/pepsibluefan2)
 - [Nathanaël V] (https://github.com/nathanael-v)
 - [Lion King](https://github.com/topmsdreamer)
+- [Lanzi Danilo] (https://github.com/Tano73)
 - [Olayinka Okanlawon](https://github.com/olayinkagrace)
 - [Sohail khan](https://github.com/Sohail700)
 - [Gary Mejia](https://github.com/garymejia)
