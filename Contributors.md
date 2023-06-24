@@ -86,6 +86,7 @@
 - [Joel Aliyu](https://github.com/joelali5)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 - [Fred Vuni](https://github.com/FREDVUNI)
+- [Pedro AAP](https://github.com/paap-64)
 - [Muhammed Asif](https://github.com/ghostMan-pac)
 - [babujal]
 - [Shadows-Puppet]
