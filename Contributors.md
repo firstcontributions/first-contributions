@@ -61,7 +61,7 @@
 - [Vaibhavharsoda](https://github.com/vaibhavharsoda)
 - [Devanshu Augusty](https://github.com/Devanshu-Augusty)
 - [Zachary Murphy](https://github.com/ZacharyJTMurphy)
-- [Raj Agrahari](https://github.com/RajAgrahari)
+- [Raj Agrahari](https://github.com/RajAgrahari)]
 - [Aviprit Shah](https://github.com/programmer765/)
 - [Muhammad Haris](https://github.com/headlessNode)
 - [Favour Markson]((https://github.com/Markson17)
