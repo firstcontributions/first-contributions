@@ -2418,6 +2418,7 @@ greeshmanth
 - [Abbie Sims]  (https://github.com/abbiesims)
 - [Ismael Gadji](https://github.com/isma237)
 - [Orson Leiziaga](https://github.com/KennethLG)
+- [Kc Del](https://github.com/K-DEL1999)
 - [Ahmad Abdelhameed](https://github.com/AhmadAbdElhameed)
 - [Ajitesh Kumar Singh](https://github.com/transyltooniaa)
 - [Md Towhidul Islam](https://github.com/tawhidib)
