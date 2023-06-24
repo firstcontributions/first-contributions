@@ -622,6 +622,7 @@ Aaron
 - [Ofek Cohen](https://github.com/OfekCoh1)
 - [Maria Aurellia](https://github.com/mariaadannies)
 - [Sahood cv](https://github.com/sahoodcode)
+- [Lorelei Kelly](https://github.com/loleik)
 - [Ajay Rajput](https://github.com/AjaysingRajput)
 - [It's Meghanath again](https://github.com/meghanath852)
 - [Yiheng Chen](https://github.com/yi-heng-chen)
