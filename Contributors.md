@@ -1298,6 +1298,7 @@ Aaron
 - [Franklin Mensah](https://github.com/fiificode)
 - [sai-vivek-reddy](https://github.com/sai-vivek-reddy)
 - [Bright Odey](https://github.com/starburn-hub)
+- [Rudranil Ghosh](https://github.com/rudra1ghosh)
 - [Rahul chaurasiya](https://github.com/Rahul-chaurasiya?)
 - [Adﾃｨle Pluquet](https://github.com/apluquet)
 - [Avanish Shenoy](https://github.com/Ashenoy64)
