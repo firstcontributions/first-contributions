@@ -145,6 +145,7 @@
 - [HP] (https://github.com/Black-Hwak)
 -[kavearhasi](https://github.com/kavearhasi)
 - [Arturo Lﾃｳpez](https://github.com/arturolopeze)
+-[Sai Sravani Vadali](https://github.com/vadalisravani)
 - [Albert Arakelyan](https://github.com/AlbertArakelyan)
 - [Saifullah Khan] (https://github.com/unverifiedchaos5017)
 - [Chloe Gavrilovic](https://github.com/cmgvc)
