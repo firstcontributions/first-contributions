@@ -87,6 +87,7 @@
 - [Fred Vuni](https://github.com/FREDVUNI)
 - [Muhammed Asif](https://github.com/ghostMan-pac)
 - [babujal]
+- [Shadows-Puppet]
 - [moodham](https://github.com/moodham)
 - [Jack Gerry](https://github.com/JackGerry1)
 - [Jack Galat] (https://github.com/JMGalati8)
