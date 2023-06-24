@@ -1966,6 +1966,7 @@ Aaron
 - [Sathvik](https://github.com/Sathvik1007)
 - [SR](https://githhub.com/suciuradu09)
 - [NickR](https://github.com/nikolayrbdev)
+- [Jack O'Brien](https://github.com/jack-obrien)
 - [James Whalen](https://github.com/jwhalen93)
 - [Sacha GV](https://github.com/MrSach)
 - [Rohan Jha](https://github.com/roxx30198)
