@@ -21,6 +21,7 @@
 - [Kalluri naveen](https://github.com/kalluri02)
 - [Alfredo Carrion](https://github.com/carrionalfredo)
 - [Hari Prasad] (https://github.com/itcodehery)
+- [Ambroise Ngayinoko](https://github.com/Ambro19)
 - [Widdershins](https://github.com/Widdershins89)
 - [Dagmawi Yohannes](https://github.com/Dagmawi-Y)
 - [Sohail khan](https://github.com/sohail700)
