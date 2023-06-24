@@ -134,6 +134,7 @@
 - [Madhura Fulkar](https://github.com/madhurafulkar)
 - [Adarsh Yadav](https://github.com/codebreaker0001)
 - [Khushi Sharma](https://github.com/Khushisharma23)
+- [Ankit Somani](https://github.com/Ankit-Somani)
 - [Artem Yershov](https://github.com/YershovArt)
 - [Alen Chen](https://github.com/ChenYunyue)
 - [Hebert Macedo](https://github.com/HebertMacedo)
