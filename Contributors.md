@@ -2431,6 +2431,7 @@ greeshmanth
 - [Potluru Chakradhar](https://github.com/Chakri341)
 - [Mark Klocek](https://github.com/Tadon)
 - [Shuvkant Phanait](https://github.com/shuvkant)
+- [John Thuo](https://github.com/john-thuo1)
 - [Hamilton Fantin](https://github.com/hfantin)
 - [Archit Gajjar](https://github.com/ArchitGajjar)
 - [Alex Bzdel](https://github.com/abzdel)
