@@ -7,6 +7,7 @@
 - [Vivek Kumar Shrivastav](https://github.com/Vivek-Kumar-Shrivastav)
 - [Rimma Kubanova](https://github.com/rimma-kubanova)
 - [Abhay Donga](https://github.com/AbhayDonga007)
+  [Vinay Chitade](https://github.com/vcint)
 - [Uday Krishnan](https://github.com/udaykrishnan9302)
 - [Rushil Kumar](https://github.com/Rushilkr77)
 - [Ahmed Fatthi](https://github.com/AhmedFatthy1040)
