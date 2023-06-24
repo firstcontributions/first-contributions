@@ -49,6 +49,7 @@
 - [Shubham Lalwani] (https://github.com/Shubham-777-bit)
 - [Frosty2500](https://github.com/Frosty2500)
 - [Anadu Godwin](https://github.com/AnaduCG)
+- [Josh88x] (https://github.com/Josh88x)
 - [Amir Hashemi](https://github.com/seyyeddev)
 - [Youssef Jrab](https://github.com/yjrab)
 - [Akmal Kamarudin](https://github.com/akmal-kamarudin)
