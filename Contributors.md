@@ -102,6 +102,7 @@
 - [MathiasS](https://github.com/mathiassei)
 - [Zalman Gagerman](https://github.com/zalmang)
 - [Ana Hartmann](https://github.com/anah85)
+- [Dries Huybens](https://github.com/DRIESASTER)
 - [Gauri Tripathi](https://github.com/GauriTr)
 - [Touqeer Ali](https://github.com/TouqeerAli)
 - [Aman Raj](https://github.com/aman2000raj)
