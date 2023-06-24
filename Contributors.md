@@ -2354,6 +2354,7 @@ greeshmanth
 - [Ajitesh Kumar Singh](https://github.com/transyltooniaa)
 - [Md Towhidul Islam](https://github.com/tawhidib)
 - [Dmitry Bespalov](https://github.com/b1gzer0)
+- [Nikhil Patlolla](https://github.com/nikhilpatlolla)
 - [Igweonu Ebuka](https://github.com/EbukaTheDeveloper)
 - [Ahnaf Al Islam](https://github.com/maskedhypocrite)
 - [Gordon Ling]
