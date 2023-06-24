@@ -151,6 +151,7 @@
 - [Mayank Gautam]
 - [Mister-Raggs](https://github.com/Mister-Raggs/)
 - Tamanna
+- [Hassan Mahamat Djidda](https://github.com/hassan-djidda/)
 - Rahul-Sharing
   [Craigehton](https://github.com/craigehton)
 - [Tyler Lowe](https://github.com/TylerRLowe)
