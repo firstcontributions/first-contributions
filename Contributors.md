@@ -3,6 +3,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+- [Samaila](https://github.com/samailamalima)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
 - [Ali Manzer](https://github.com/amanzer)
 - [Vivek Kumar Shrivastav](https://github.com/Vivek-Kumar-Shrivastav)
