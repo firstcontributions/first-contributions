@@ -120,6 +120,7 @@
 - [Kiran Sadaye](https://github.com/kiran215)
 - [Olamide Adojutelegan](https://github.com/lamideado)
 - [Leon Heinrich](https://github.com/LionLostInCode)
+- [EJ](https://github.com/3jc24)
 - [Matthew West](https://github.com/MattWestGH)
 - [Mengstab Ketemaw](https://github.com/mengstabketemaw)
 - [Tanmai Kalisipudi](https://github.com/tanmaik)
