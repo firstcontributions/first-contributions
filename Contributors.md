@@ -2452,5 +2452,6 @@ greeshmanth
 - [Hari Kiran](https://github.com/harikirank)
 - [Tanmay Mathpal](https:/github.com/l3002)
 - [Sathwik R](https://github.com/cicada0007)
+- [Severn 7](https://github.com/severn777)
 - Check it out
 - [Jack Fitton](https://github.com/jackfitton112)
