@@ -93,6 +93,7 @@
 - [babujal]
 - [Shadows-Puppet]
 - [moodham](https://github.com/moodham)
+-[Diego Guisande](https://github.com/GuisandeGolfer)
 - [Jack Gerry](https://github.com/JackGerry1)
 - [Jack Galat] (https://github.com/JMGalati8)
 - [笨粂usseini Mudi Profsain](https://github.com/Profsain)
