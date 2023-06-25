@@ -3,6 +3,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+
 - [Samaila](https://github.com/samailamalima)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
 - [Ali Manzer](https://github.com/amanzer)
@@ -2447,3 +2448,4 @@ greeshmanth
 - [Sathwik R](https://github.com/cicada0007)
 - Check it out
 - [Jack Fitton](https://github.com/jackfitton112)
+- [Rituraj Jha](https://github.com/riturajreal)
