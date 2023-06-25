@@ -103,6 +103,7 @@
 - [Shubham Tamrakar](https://github.com/shubham-tam)
 - [Disha Vig](https://github.com/vigdisha)
 - [Omi](https://github.com/NormTurtle)
+- [Vinay Choudhary](https://github.com/compiler-king)
 - [Stefano 128423](https://github.com/128423)
 - [Shashank Kumar](https://github.com/Shashank-1986)
 - [Roger](https://github.com/rogerkaplan)
