@@ -6,6 +6,7 @@
 - [Samaila](https://github.com/samailamalima)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
 - [Ali Manzer](https://github.com/amanzer)
+- [Leon Kohli](https://github.com/leonkohli)
 - [Vivek Kumar Shrivastav](https://github.com/Vivek-Kumar-Shrivastav)
 - [Robert Garofalo](https://github.com/robertgarofalo)
 - [Rimma Kubanova](https://github.com/rimma-kubanova)
