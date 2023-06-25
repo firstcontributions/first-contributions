@@ -138,6 +138,7 @@
 - [Mandeep Singhmar](https://github.com/Mandeepsinghmar)
 - Sandeep kumar
 - [Elizabeth Czarny](https://github.com/Elizabeth-Cz)
+- Harsha Paladugu
 - [Nibraz Rehaman](https://github.com/nibrazrehaman)
 - [Zenith Anthony](https://github.com/Zenith1997)
 - [aung thu gaming channel](https://github.com/trovel339)
