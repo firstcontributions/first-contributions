@@ -730,6 +730,7 @@ Aaron
 - [max.jon](https://github.com/MaxJonssonDS)
 - [Sudhir Jaiswal](https://github.com/Coder-in-a-shell)
 - [Jeremy Santiago](https://github.com/sajeremy)
+- [Zaid dadani](https://github.com/zaiddadani)
 - Devasya Rajguru
 - [Kumar Sanjay] (https://github.com/sanjay493)
 - Drax Bes
