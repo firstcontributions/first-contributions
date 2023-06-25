@@ -134,6 +134,7 @@
 - [Prerna Singh](https://github.com/PrernaSingh01)
 - [Eti Gal-Or Mendelovich](https://github.com/etigame)
 - Tamanna Niger Tuly
+- [Aaryan Bhagat](https://github.com/AzureSky007)
 - [Soy Eric](https://github.com/ibrahimeric)
 - [Rukhjam](https://github.com/rukhjam)
 - [Mandeep Singhmar](https://github.com/Mandeepsinghmar)
