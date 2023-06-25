@@ -14,6 +14,7 @@
   [Vinay Chitade](https://github.com/vcint)
 - [Uday Krishnan](https://github.com/udaykrishnan9302)
 - [Rushil Kumar](https://github.com/Rushilkr77)
+- [Marcus Chung](https://github.com/msc9169)
 - [Ahmed Fatthi](https://github.com/AhmedFatthy1040)
 - [Nandha Kumar](https://github.com/tnrock)
 - [Aram Kazorian](https://github.com/aramk-hub)
