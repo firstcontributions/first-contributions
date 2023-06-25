@@ -1335,6 +1335,7 @@ Tanisha Kodam(https://github.com/Tanisha411)
   Cody LeRoy
   [Taylor Spencer](https://github.com/tspencer0917)
 - [Rahul Saha](https://github.com/Rahul10Saha)
+ - [Guilherme Moraes](https://github.com/guilhermemoraes1)
 - [Ashwin_Shenolikar](https://github.com/AshwinRS07/)
 - [Shaswat Satyam](https://github.com/shaswat-satyam)
 - [Vishal](https://github.com/VishalPraneeth)
