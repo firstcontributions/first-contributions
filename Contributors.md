@@ -187,6 +187,7 @@
 - [Arslan Asghar](https://github.com/al-arslan)
 - [Ali Ayed](https://github.com/iTzVoko)
 - [rjk]
+- [Mani](https://github.com/FulfilledMobileDev)
 - [Kanak Shakya] (https://github.com/Kanak1125)
 - [Ali Aizn](https://github.com/aliaizn)
 -[Iury-Ferreira](https://github.com/Iuggy)
