@@ -1,3 +1,4 @@
+
 # Contributors
 
 
@@ -2161,6 +2162,7 @@ Tanisha Kodam(https://github.com/Tanisha411)
 - [FjodorGit](https://github.com/FjodorGit)
 - [Prin Phongsavan](https://github.com/pphongsavan)
 - [William Liu](https://github.com/liuwllm)
+- [Tejas Bhardwaj](https://github.com/avibhardwaj233)
 - [Gilbert Adikankwu](https://github.com/functionguyy)
 - [Gambhir Sharma](https://github.com/gambhirsharma)
 - [Dalton-Leyian +254](https://github.com/Dalton-47)
