@@ -29,6 +29,7 @@
 - [Bhavish](https://github.com/Bhavish5)
 - [Steven Veal](https://github.com/DolphinBeans)
 - [Liam Coyle] (https://github.com/TWLG)
+- [Bryan Doan] (https://github.com/JellyfishSpot)
 - [Muhammad Abdullahi](https://github.com/A-u-usman)
 - [Aaron Newbigging](https://github.com/Pastasource)
 - [heinAstonish](https://github.com/heinAstonish)
