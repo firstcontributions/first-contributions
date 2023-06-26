@@ -3,6 +3,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+- [Bruno Rocha](https://github.com/Rochabrunos)
 - [Samaila](https://github.com/samailamalima)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
 - [Ali Manzer](https://github.com/amanzer)
