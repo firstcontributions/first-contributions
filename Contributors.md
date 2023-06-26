@@ -92,6 +92,7 @@
 - [Pedro AAP](https://github.com/paap-64)
 - [Muhammed Asif](https://github.com/ghostMan-pac)
 - [babujal]
+- [Hansi312](https://github.com/hansi312)
 - [Shadows-Puppet]
 - [moodham](https://github.com/moodham)
 -[Diego Guisande](https://github.com/GuisandeGolfer)
