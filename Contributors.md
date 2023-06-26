@@ -18,6 +18,7 @@
 - [Nandha Kumar](https://github.com/tnrock)
 - [Aram Kazorian](https://github.com/aramk-hub)
 - [James Kelly](https://github.com/jkellymi)
+- [Miles Asher](https://github.com/Miles-Asher)
 - [Daniël Vos](https://github.com/DanielVos1992)
 - [Kalluri naveen](https://github.com/kalluri02)
 - [Alfredo Carrion](https://github.com/carrionalfredo)
