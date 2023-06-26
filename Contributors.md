@@ -794,6 +794,7 @@ Aaron
 - [Brax Wong](https://github.com/BraxWong)
 - [ihMaecl](https://github.com/TheStrangerDoctor)
 - [Vaibhav Mahajan](https://github.com/vaibhav-3003)
+- [Nicholas Musto]
 - [Trebb99](https://github.com/Trebb99)
 - [Kushanth-Reddy](https://github.com/Kushanth-Reddy)
 - [Corey Oliver](https://github.com/CoreyOliver)
