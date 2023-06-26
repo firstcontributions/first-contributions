@@ -166,6 +166,7 @@
 - [Mayank Gautam]
 - [Mister-Raggs](https://github.com/Mister-Raggs/)
 - Tamanna
+Erupothu Venkatakishor
 - [Hassan Mahamat Djidda](https://github.com/hassan-djidda/)
 - Rahul-Sharing
   [Craigehton](https://github.com/craigehton)
