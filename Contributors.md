@@ -39,6 +39,7 @@
 - [Olayinka Okanlawon](https://github.com/olayinkagrace)
 - [Sohail khan](https://github.com/Sohail700)
 - [Gary Mejia](https://github.com/garymejia)
+- [Core447](https://github.com/Core447)
 - [Rex Cheng](https://github.com/lychengrex)
 - [Kamran Ali] (https://github.com/Kamibytes)
 - [Harshwardhan Verma](https://github.com/justharxsh)
