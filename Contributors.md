@@ -341,6 +341,7 @@ Condor Sergiu
 - [succsuccsucc](https://github.com/succsuccsucc)
 - [Malki Malov](https://github.com/MalkiMalov)
 - [Abdul Riyaz](https://gitub.com/abdulriiyaz)
+- [Telzhou618](https://github.com/telzhou618)
 - [Ahmad Jajja](https://github.com/Ahmadjajja)
 - [Kiara Hoheb](https://github.com/kxtara)
 - [Sadman Sakib](https://github.com/SADMAN30102001SAKIB)
