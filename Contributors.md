@@ -1740,6 +1740,7 @@ Tanisha Kodam(https://github.com/Tanisha411)
 - [Steven Williams](https://github.com/swilliams186)
 - [Rajat](https://github.com/alphadinu)
 - [Nick Valdez](https://github.com/nicholasvaldez)
+- [Anthony Miyagi](https://github.com/ans0ny)
 - [BestEggShell](https://github.com/BestEggShell)index
 - [Duy Dang](https://github.com/dqduy)
 - [Fitriningtyas](https://github.com/fitrifityanto)
