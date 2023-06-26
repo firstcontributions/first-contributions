@@ -1,8 +1,10 @@
 # Contributors
 
 
+
 <!-- prettier-ignore-start and welcome -->
 
+- [Gaurav Garg](https://github.com/gauravgarg-777)
 - [Samaila](https://github.com/samailamalima)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
 - [Ali Manzer](https://github.com/amanzer)
@@ -59,6 +61,7 @@
 - [Onochie Peter Eze](https://github.com/RxZepet)
 - [Isaiah Swain](https://github.com/imswain)
 - [Mayur Rathod](https://github.com/rmayur777)
+- [Gaurav Garg](https://github.com/gauravgarg-777)
 - [rentj1](https://github.com/rentj1)
 - [Barathan Ganesh](https://github.com/brthngnsh)
 - [Ilay Eldar](https://github.com/ilayEldar24)
