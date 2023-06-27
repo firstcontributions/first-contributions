@@ -132,7 +132,7 @@
 - [Muhammed Ali ﾃ奔can ](https://github.com/Rhipheus)
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
 - [Ursu Nicolae] (https://github.com/UrsuNicolae)
-- [Fajla Rabby](https://github.com/Fajla-Rabby) 
+- [Fajla Rabby](https://github.com/Fajla-Rabby)
 - [Norvillie Villaruel](https://github.com/nozky)
 - [Prerna Singh](https://github.com/PrernaSingh01)
 - [Eti Gal-Or Mendelovich](https://github.com/etigame)
@@ -522,7 +522,7 @@ Condor Sergiu
 - J3exellence
 - Justin Valdez
 - Triparna Saha
-- 
+-
 - [John Allen](https://github.com/johnallen1029)
 - Shashank Sangale
 - Megan Cooper (https://github.com/MegRCooper)
@@ -2403,7 +2403,7 @@ greeshmanth
 - [Pape Ngagne Ndiaye](https://github.com/PapisKang)
 - [K B POOVANNA](https://github.com/kbpoovanna-007)
 - [swarup_E7](https://github.com/swarupe7)
-- [Lasse_Buch](https://github.com/LasseBuchAspIT)        
+- [Lasse_Buch](https://github.com/LasseBuchAspIT)
 - <!-- prettier-ignore-end -->
 - [Naveen Avula](https://github.com/Avula-Naveen)
 - [Sameer Kumar singh](https://github.com/xvisierra)
@@ -2436,7 +2436,7 @@ greeshmanth
 - [Ahnaf Al Islam](https://github.com/maskedhyphttps://github.com/SayantanBar/first-contributions.gitocrite)
 - [Gordon Ling]
 -[rajat](https://github.com/rajatrokde)
-- [Alistair Cannon](https://github.com/alistaircannon) 
+- [Alistair Cannon](https://github.com/alistaircannon)
 - [Abhishek Mishra] (https://github.com/Abhishek-0009/)
 - [Ashish Mali](https://github.com/ashish9719)
 - [Shuvkant Phanait](https://github.com/shuvkant)
@@ -2454,3 +2454,4 @@ greeshmanth
 - [Sathwik R](https://github.com/cicada0007)
 - Check it out
 - [Jack Fitton](https://github.com/jackfitton112)
+- [Roysa Peguero](https://github.com/roysapeguero)
