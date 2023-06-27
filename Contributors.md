@@ -2454,4 +2454,3 @@ Contributors
 - [Sathwik R](https://github.com/cicada0007)
 - [Jack Fitton](https://github.com/jackfitton112)
 - [Qin Xun]( https://github.com/lvchenjia)
-- Daisy
