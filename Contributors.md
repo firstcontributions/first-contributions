@@ -555,6 +555,7 @@ Condor Sergiu
 - [Matthew Volpe](https://github.com/mVolpe94)
 - [Mohummad Kazmi](https://github.com/mskazmi)
 - [Rene Baribal](https://github.com/RiinSeresuto)
+- [Dana Batorova](https://github.com/Dana2024)
 - [Lalit Chaudhari](https://github.com/Lalit572)
 - [Anthon van Dijk](https://github.com/DyQ3HELOF1)
 - [Hamidreza Nasrabadi](https://github.com/Ariiima)
