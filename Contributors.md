@@ -228,6 +228,7 @@
 - [Pranita Dane](https://github.com/pranita28Dane)
 - [Hastimal Shah](https://github.com/hasti)
 - [Rohan Fulzele](https://github.com/Rohanfulzele)
+- [Taurai Mutimutema](https://github.com/rusiqe)
 - [nyinyisoe](https://github.com/nyinyisoe1981)
 - [Rishit Mori](https://github.com/RishitMori)
 - [Veselin Velchev] (https://github.com/vesv)
