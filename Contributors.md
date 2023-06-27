@@ -2374,6 +2374,7 @@ greeshmanth
 - [Niek Jacobse](https://github.com/NiekJacobse)
 - [Zeeshan Khan](https://github.com/Klassy-Kartoon)
 - [Fazlﾄｱ Berk ﾃ睦dek](https://github.com/fazliberkordek)
+- [JP Tugirimana] (https://github.com/JPTugirimana)
 - [Hafid Haddaoui](https://github.com/Mangemort60)
 - Fubge(https://github.com/Fubge)
 - [wiwat](https://github.com/mostvivat)
