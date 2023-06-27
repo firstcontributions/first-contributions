@@ -38,6 +38,7 @@
 - [Lanzi Danilo] (https://github.com/Tano73)
 - [Olayinka Okanlawon](https://github.com/olayinkagrace)
 - [Sohail khan](https://github.com/Sohail700)
+- [Jeet Debnaath](https://github.com/jxxt)
 - [Gary Mejia](https://github.com/garymejia)
 - [Rex Cheng](https://github.com/lychengrex)
 - [Kamran Ali] (https://github.com/Kamibytes)
