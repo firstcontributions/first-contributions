@@ -67,6 +67,7 @@
 - [FMami] (https://github.com/Fmami97)
 - [Mustafa] (https://github.com/musti17)
 - [Vaibhavharsoda](https://github.com/vaibhavharsoda)
+- [Alfonzo Church](https://github.com/ruphail)
 - [Devanshu Augusty](https://github.com/Devanshu-Augusty)
 - [Zachary Murphy](https://github.com/ZacharyJTMurphy)
 - [Raj Agrahari](https://github.com/RajAgrahari)]
