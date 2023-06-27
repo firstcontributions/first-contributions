@@ -631,6 +631,7 @@ Aaron
 - [Woon Koh](https://github.com/kohwdev)
 - [sharkkedｦ�洶�(https://github.com/sharkked)
 - [muralinet](https://github.com/muralinet/)
+- [0xMarsyas](https://github.com/0xMarsyas/)
 - [Haylay Tsegab](https://github.com/HaylayTsegab/)
 - [dhanushgowdahm](https://github.com/dhanushgowdahm)
 - [roshaandev](https://github.com/roshaandev/)
