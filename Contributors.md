@@ -404,6 +404,7 @@ Condor Sergiu
 - [Jeremy Rustandi] (https://github.com/jerstnd)
 - [Logan Nguyen](https://github.com/NBaLogn)
 - [Jan](https://github.com/JanR99)
+- [Caleb Bateman](https://github.com/Fizzaz)
 - [Muhammed Ibrahim](https://github.com/GreyOwl123)
 - [Oliver Beresford](https://github.com/OliverSBeresford)
 - [Vihaan Vijayvargiya](https://github.com/vihaanvijayvargiya)
