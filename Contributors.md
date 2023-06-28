@@ -189,6 +189,7 @@
 - [rjk]
 - [Kanak Shakya] (https://github.com/Kanak1125)
 - [Ali Aizn](https://github.com/aliaizn)
+- [Jaeyy166](https://github.com/Jaeyy166)
 -[Iury-Ferreira](https://github.com/Iuggy)
 - [Mohammed Hashim K](https://github.com/mohammed-hashim-k)
 - [Piyush Pawar](https://github.com/piyushpawar54)
@@ -2454,4 +2455,3 @@ greeshmanth
 - [Sathwik R](https://github.com/cicada0007)
 - Check it out
 - [Jack Fitton](https://github.com/jackfitton112)
-- [Jaeyy166](https://github.com/Jaeyy166)
