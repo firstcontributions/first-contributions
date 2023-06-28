@@ -52,6 +52,7 @@
 - [Frosty2500](https://github.com/Frosty2500)
 - [Anadu Godwin](https://github.com/AnaduCG)
 - [Josh88x] (https://github.com/Josh88x)
+- [Carlos Rodriguez] (https://github.com/cr2551)
 - [Amir Hashemi](https://github.com/seyyeddev)
 - [Youssef Jrab](https://github.com/yjrab)
 - [Akmal Kamarudin](https://github.com/akmal-kamarudin)
