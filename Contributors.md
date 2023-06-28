@@ -66,6 +66,7 @@
 - [Twalla] (https://github.com/twalla26)
 - [FMami] (https://github.com/Fmami97)
 - [Mustafa] (https://github.com/musti17)
+- [Priyansh Prajapat](https://github.com/oyepriyansh)
 - [Vaibhavharsoda](https://github.com/vaibhavharsoda)
 - [Devanshu Augusty](https://github.com/Devanshu-Augusty)
 - [Zachary Murphy](https://github.com/ZacharyJTMurphy)
