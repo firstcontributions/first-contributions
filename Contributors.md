@@ -2234,6 +2234,7 @@ Tanisha Kodam(https://github.com/Tanisha411)
 - [Ian Maestro](https://github.com/itsmaestro)
 - [Song S.X.] (https://github.com/SirSX3)
 - Peter Lustig
+- [Vinicius Boudakian Bressiani](https://github.com/viniciusBressiani)
 - [Nissrine Canina](https://github.com/Nissrine-Can)
 - [tomoo](https://github.com/Niwatori1192)
 - [Sushil Bhardwaj](https://github.com/Bazigar69)
