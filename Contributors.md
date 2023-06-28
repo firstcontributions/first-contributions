@@ -1900,6 +1900,7 @@ Aaron
 - [sebiflorinp](https://github.com/sebiflorinp)
 - [huixuphys](https://github.com/huixuphys)
 - [kowsik](https://github.com/timetoadd)
+- [Maxon Corvil ](https://github.com/Maxon-stackd)
 - [Sathvik](https://github.com/Sathvik1007)
 - [SR](https://githhub.com/suciuradu09)
 - [NickR](https://github.com/nikolayrbdev)
