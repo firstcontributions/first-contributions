@@ -16,6 +16,7 @@
 - [Rushil Kumar](https://github.com/Rushilkr77)
 - [Ahmed Fatthi](https://github.com/AhmedFatthy1040)
 - [Nandha Kumar](https://github.com/tnrock)
+- [Jachak Sekhon](https://github.com/jachaksekhon)
 - [Aram Kazorian](https://github.com/aramk-hub)
 - [James Kelly](https://github.com/jkellymi)
 - [Daniël Vos](https://github.com/DanielVos1992)
