@@ -9,6 +9,7 @@
 - [Vivek Kumar Shrivastav](https://github.com/Vivek-Kumar-Shrivastav)
 - [Robert Garofalo](https://github.com/robertgarofalo)
 - [Rimma Kubanova](https://github.com/rimma-kubanova)
+- [Josh Martinez](https://github.com/joshuaTayjo)
 - [Ibeh Mary-Anne](https://github.com/MARYANNE67)
 - [Abhay Donga](https://github.com/AbhayDonga007)
   [Vinay Chitade](https://github.com/vcint)
