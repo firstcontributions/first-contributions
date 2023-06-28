@@ -343,6 +343,7 @@ Condor Sergiu
 - [Abdul Riyaz](https://gitub.com/abdulriiyaz)
 - [Ahmad Jajja](https://github.com/Ahmadjajja)
 - [Kiara Hoheb](https://github.com/kxtara)
+- [Artem Osadchiy](https://github.com/Lightblash)
 - [Sadman Sakib](https://github.com/SADMAN30102001SAKIB)
 - [Adrew Kirts](https://github.com/Adrew-Kirts)
 - [Gunjan Mishra](https://github.com/GunjanKMishra)
