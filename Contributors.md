@@ -126,6 +126,7 @@
 - [Olamide Adojutelegan](https://github.com/lamideado)
 - [Leon Heinrich](https://github.com/LionLostInCode)
 - [EJ](https://github.com/3jc24)
+- [Raghunandan Gupta](https://github.com/Raghunandan16)
 - [Matthew West](https://github.com/MattWestGH)
 - [Mengstab Ketemaw](https://github.com/mengstabketemaw)
 - [Tanmai Kalisipudi](https://github.com/tanmaik)
