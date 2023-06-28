@@ -88,10 +88,10 @@ substituindo `<seu-nome>` pelo seu nome.
 Envie suas alterações usando o comando `git push`:
 
 ```
-git push origin <add-seu-nome>
+git push origin <nome-da-sua-branch>
 ```
 
-substituindo `<add-seu-nome>` pelo nome do _Branch_ que você criou anteriormente.
+substituindo `<nome-da-sua-branch>` pelo nome do _Branch_ que você criou anteriormente.
 
 ## Envie suas alterações para serem revisadas
 
