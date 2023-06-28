@@ -11,6 +11,7 @@
 - [Rimma Kubanova](https://github.com/rimma-kubanova)
 - [Ibeh Mary-Anne](https://github.com/MARYANNE67)
 - [Abhay Donga](https://github.com/AbhayDonga007)
+- [Seth Zwerling](https://github.com/SZwerling)
   [Vinay Chitade](https://github.com/vcint)
 - [Uday Krishnan](https://github.com/udaykrishnan9302)
 - [Rushil Kumar](https://github.com/Rushilkr77)
