@@ -1626,7 +1626,7 @@
 - [Xaavan Dolence](https://github.com/XaavanDolence)
 - [Libin Faby](https://github.com/libinfaby/)
 - [Kyle Starrett](https://github.com/akstarre)
-- [Amrit Rai](https://github.com/retrogtx)
+- [Amrit Rai](https://github.com/retrogtx) 
 - [Lily Clark](https://github.com/lilyclarkcodes)
 - [Nicolas Guruphat](https://github.com/NicolasGuruphat)
 - [Kenneth Presto](https://github.com/kennethportizpresto)
