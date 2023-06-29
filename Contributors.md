@@ -2,7 +2,7 @@
 
 
 <!-- prettier-ignore-start and welcome -->
-
+- [Dompeh Bright](https://github.com/kekeli-the-light)
 - [Samaila](https://github.com/samailamalima)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
 - [Ali Manzer](https://github.com/amanzer)
