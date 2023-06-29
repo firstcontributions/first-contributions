@@ -5,6 +5,7 @@
 
 - [Samaila](https://github.com/samailamalima)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
+- [Maneth Thimasha](https://github.com/Maneth-ii)
 - [Ali Manzer](https://github.com/amanzer)
 - [Vivek Kumar Shrivastav](https://github.com/Vivek-Kumar-Shrivastav)
 - [Robert Garofalo](https://github.com/robertgarofalo)
