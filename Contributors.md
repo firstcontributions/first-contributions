@@ -414,6 +414,7 @@ Condor Sergiu
 - [rejmut](https://github.com/rejmut)
 - [CultistOfTheEnd](https://github.com/NuxarianCookie)
 - [Chaya Kwin](https://github.com/ChayaKwin)
+- [Tehila Fried](https://github.com/TehilaFried)
 - [Chakorn Tangisirisatian] (https://github.com/TueyChagon)
 - [Tobvl](https://github.com/Tobvl)
 - [Erik German](https://github.com/eriko13)
