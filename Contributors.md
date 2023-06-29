@@ -2446,6 +2446,7 @@ greeshmanth
 - [Shuvkant Phanait](https://github.com/shuvkant)
 - [John Thuo](https://github.com/john-thuo1)
 - [Hamilton Fantin](https://github.com/hfantin)
+- [M. Haris Khan](https://github.com/hariskhan-hk)
 - [Archit Gajjar](https://github.com/ArchitGajjar)
 - [Alex Bzdel](https://github.com/abzdel)
 - [Georges Del Favero](https://github.com/gdelfavero)
