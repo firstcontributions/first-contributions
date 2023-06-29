@@ -3,6 +3,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+- [AndyS](https://github.com/AndyS-first)
 - [Samaila](https://github.com/samailamalima)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
 - [Ali Manzer](https://github.com/amanzer)
