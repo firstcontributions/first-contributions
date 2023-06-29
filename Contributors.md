@@ -53,6 +53,7 @@
 - [Anadu Godwin](https://github.com/AnaduCG)
 - [Josh88x] (https://github.com/Josh88x)
 - [Amir Hashemi](https://github.com/seyyeddev)
+- [Yasitha Gamage](https://github.com/Yasithalalanga)
 - [Youssef Jrab](https://github.com/yjrab)
 - [Akmal Kamarudin](https://github.com/akmal-kamarudin)
 - [Aaron Howard] (https://github.com/aaron-howard)
