@@ -177,6 +177,7 @@
 - [Matt Jarrett](https://github.com/mvjarrett)
 - ![Joshua Ramat](https://github.com/joshuaramat)
 - [Sekinat Oyero](https://github.com/Sekinat-oyero)
+- [Nakshatra](https://github.com/naxatra2)
 - [HP] (https://github.com/Black-Hwak)
 -[kavearhasi](https://github.com/kavearhasi)
 - [Arturo Lﾃｳpez](https://github.com/arturolopeze)
