@@ -3,6 +3,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+- [Nihal]
 - [Samaila](https://github.com/samailamalima)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
 - [Priyanshu Kumar Sinha](https://github.com/priyanshu9899)
