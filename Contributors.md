@@ -620,6 +620,7 @@ Condor Sergiu
 - [Kushagra Gupta](https://github.com/MistyRavager)
 - [James-Christie](https://github.com/James-Christie)
 - [ARYAN](https://github.com/aryanhr0001)
+- [Anthony Lorraine](https://github.com/AnthonyLorraine)
 - [CrazyOutOff](https://github.com/CrazyOutOff)
 - [Eric J](https://github.com/ej31415)
 - [Omkar](https://github.com/omkarb21)
