@@ -10,6 +10,7 @@
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
 - [Priyanshu Kumar Sinha](https://github.com/priyanshu9899)
 - [Vivek Kumar Shrivastav](https://github.com/Vivek-Kumar-Shrivastav)
+- [Abhijeet Yadav](https://github.com/thecodeblood)
 - [Robert Garofalo](https://github.com/robertgarofalo)
 - [Fernando Adames](https://github.com/FernandoAdames)
 - [Rimma Kubanova](https://github.com/rimma-kubanova)
