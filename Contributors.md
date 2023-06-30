@@ -10,6 +10,7 @@
 - [Priyanshu Kumar Sinha](https://github.com/priyanshu9899)
 - [Vivek Kumar Shrivastav](https://github.com/Vivek-Kumar-Shrivastav)
 - [Robert Garofalo](https://github.com/robertgarofalo)
+- [Fernando Adames](https://github.com/FernandoAdames)
 - [Rimma Kubanova](https://github.com/rimma-kubanova)
 - [Viraj Rai](https://github.com/viruop)
 - [Ibeh Mary-Anne](https://github.com/MARYANNE67)
