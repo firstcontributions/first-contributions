@@ -355,6 +355,7 @@ Condor Sergiu
 - [Pranit Mane](https://github.com/pranitmane)
 - [Fred Gerner](https://github.com/fgerner)
 - [LarkCoder](https://github.com/LarkCoder)
+- [Sean Leishman](https://github.com/Sean-Leishman)
 - [Rafiul Islam Refat](https://github.com/rirefat)
 - [Lukasz Gzella](https://github.com/lukasgzella)
 - [Shaik Mohammad Afzal](https://github.com/afzxlsgit)
