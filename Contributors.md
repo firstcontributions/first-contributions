@@ -416,6 +416,7 @@ Condor Sergiu
 - [Julie Clegg](https:///github.com/jclegg31)
 - [Viviana Hirsch](https://github.com/inatempest)
 - [Chan](https:///github.com/sitnyein)
+- [Mayar Abuzahra](https://github.com/Mayar-Abuzahra)
 - [Talha Jamal] (https://github.com/talhajamal11)
 - [Hien Phan](https://github.com/hienphan0111)
 - [Sharath](https://github.com/r-sharath)
