@@ -1123,6 +1123,7 @@ Aaron
 - [Kiran Kuumar Mohanty](https://github.com/theluckiestsoul)
 - [Adam Chen](https://github.com/adamchen151)
 - [Jonathan G Araya](https://github.com/Jonathana1106)
+- [Ian Ng](https://github.com/YanLamNg)
 - [Jeremy Gleason](https://github.com/jeremy-gleason)
 - [Felipe Seda](https://github.com/fseda)
 - [Chandra Behera](https://github.com/chandraonweb)
