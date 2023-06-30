@@ -240,6 +240,7 @@ Erupothu Venkatakishor
 - [Chloe Gavrilovic](https://github.com/cmgvc)
 - [Arslan Asghar](https://github.com/al-arslan)
 - [Ali Ayed](https://github.com/iTzVoko)
+- [Ernest Mucheru] (https://github.com/ernestmucheru)
 - [rjk]
 - [Daniela Basurto](https://github.com/daniela-basurto)
 - [Kanak Shakya] (https://github.com/Kanak1125)
