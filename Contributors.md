@@ -2449,9 +2449,9 @@ greeshmanth
 - [Archit Gajjar](https://github.com/ArchitGajjar)
 - [Alex Bzdel](https://github.com/abzdel)
 - [Georges Del Favero](https://github.com/gdelfavero)
+- [Gilr]
 - [Hari Kiran](https://github.com/harikirank)
 - [Tanmay Mathpal](https:/github.com/l3002)
 - [Sathwik R](https://github.com/cicada0007)
 - Check it out
-- [Gilr]
 - [Jack Fitton](https://github.com/jackfitton112)
