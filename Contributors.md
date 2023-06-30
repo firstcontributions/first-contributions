@@ -6,6 +6,7 @@
 - [Samaila](https://github.com/samailamalima)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
 - [robinofautumn](https://github.com/robinofautumn)
+- [Shivam K Singh](https://github.com/robinofautumn)
 - [Ali Manzer](https://github.com/amanzer)
 - [Vivek Kumar Shrivastav](https://github.com/Vivek-Kumar-Shrivastav)
 - [Robert Garofalo](https://github.com/robertgarofalo)
