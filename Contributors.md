@@ -66,6 +66,7 @@
 - [Rex Cheng](https://github.com/lychengrex)
 - [Ashish Kakade](https://github.com/Ash-47)
 - [Kamran Ali] (https://github.com/Kamibytes)
+- [Deepak Prasad](https://github.com/deepak-prasad19)
 - [Harshwardhan Verma](https://github.com/justharxsh)
 - [Pavankalyan Nagulla](https://github.com/Pavan-Nagulla)
 - [Reza Bari](https://github.com/RezaBari)
