@@ -45,6 +45,7 @@
 - [Joshua Mercadi](https://github.com/joshuanaguit-mercado)
 - [Steven Veal](https://github.com/DolphinBeans)
 - [Liam Coyle] (https://github.com/TWLG)
+- [Bryan Doan] (https://github.com/JellyfishSpot)
 - [Muhammad Abdullahi](https://github.com/A-u-usman)
 - [Aaron Newbigging](https://github.com/Pastasource)
 - [Ashish Muley](https://github.com/APMuley)
