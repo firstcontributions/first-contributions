@@ -2567,6 +2567,7 @@ greeshmanth
 - [Sathwik R](https://github.com/cicada0007)
 - [Arnold Mark](https://github.com/arnoldmark)
 - Check it out
+- [Bartłomiej Walecki](https://github.com/https://github.com/MedartN7)
 - [Jack Fitton](https://github.com/jackfitton112)
 - [Quincy Young](https://github.com/Quincynickyoung)
 - [Mic Adams](https://github.com/mic-adams-dev)
