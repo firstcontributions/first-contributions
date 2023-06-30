@@ -63,6 +63,7 @@
 - [Mohd Farhan Nawaz](https://github.com/mohdfarhannawaz)
 - [Ankur](https://github.com/ankurmaity05)
 - [Grant Growcott](https://github.com/GrantGrowcott)
+- [Matheus Brito](https://github.com/mjc-brito)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Shubham Lalwani] (https://github.com/Shubham-777-bit)
 - [Frosty2500](https://github.com/Frosty2500)
