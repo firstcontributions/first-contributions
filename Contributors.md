@@ -70,6 +70,7 @@
 - [Reza Bari](https://github.com/RezaBari)
 - [Mohd Farhan Nawaz](https://github.com/mohdfarhannawaz)
 - [Ankur](https://github.com/ankurmaity05)
+- [Anshul Choudhary](https://github.com/Ansh-King)
 - [Grant Growcott](https://github.com/GrantGrowcott)
 - [Matheus Brito](https://github.com/mjc-brito)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
