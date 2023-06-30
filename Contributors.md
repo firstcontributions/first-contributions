@@ -251,6 +251,7 @@ Erupothu Venkatakishor
 - [sz](https://github.come/shenrunzhang)
 - [Vikas Wakde](https://github.com/VikasWakde)
 - [Franz Ka](https://github.com/franzk)
+- [Akhtar Khan Ak](https://github.com/itzAk27)
 - [Adewale Kujore](https://github.com/Adewale66)
 - [Andrei Goldin](https://github.com/AndreiGoldin)
 - [Sahil Chugh](https://github.com/sahil-1109)
