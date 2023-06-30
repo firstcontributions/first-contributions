@@ -495,6 +495,7 @@ Condor Sergiu
   [Srilakshmi Potnuru](https://github.com/srilakshmipotnuru)
 - [Manav Tore](https://github.com/manavtore)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
+- [Vidhan Tamhankar](https://github.com/vidhan843426)
 - [Leandro Robert](https://github.com/leanrobert)
 - [Adnan Mostafa](https://github.com/AdnanMostafa)
 - [Irakoze Yves](https://github.com/irakozetony/)
