@@ -263,6 +263,7 @@ Erupothu Venkatakishor
 - [Nick Miles](https://github.com/kihno)
 - [Charles Freeborn](https://twitter.com/charliecodes)
 - [Pranita Dane](https://github.com/pranita28Dane)
+- [Nate McKenzie](https://github.com/NateMcKenzie)
 - [Hastimal Shah](https://github.com/hasti)
 - [Rohan Fulzele](https://github.com/Rohanfulzele)
 - [Taurai Mutimutema](https://github.com/rusiqe)
