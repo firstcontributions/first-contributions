@@ -359,6 +359,7 @@ Condor Sergiu
 - [Telzhou618](https://github.com/telzhou618)
 - [Ahmad Jajja](https://github.com/Ahmadjajja)
 - [Kiara Hoheb](https://github.com/kxtara)
+- [Artem Osadchiy](https://github.com/Lightblash)
 - [Sadman Sakib](https://github.com/SADMAN30102001SAKIB)
 - [Adrew Kirts](https://github.com/Adrew-Kirts)
 - [Gunjan Mishra](https://github.com/GunjanKMishra)
