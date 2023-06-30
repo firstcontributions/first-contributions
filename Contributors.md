@@ -2453,4 +2453,5 @@ greeshmanth
 - [Tanmay Mathpal](https:/github.com/l3002)
 - [Sathwik R](https://github.com/cicada0007)
 - Check it out
+- [Bartłomiej Walecki](https://github.com/https://github.com/MedartN7)
 - [Jack Fitton](https://github.com/jackfitton112)
