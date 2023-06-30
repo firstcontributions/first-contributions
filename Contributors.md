@@ -32,6 +32,7 @@
 - [Dagmawi Yohannes](https://github.com/Dagmawi-Y)
 - [Sohail khan](https://github.com/sohail700)
 - [Bhavish](https://github.com/Bhavish5)
+- [Joshua Mercadi](https://github.com/joshuanaguit-mercado)
 - [Steven Veal](https://github.com/DolphinBeans)
 - [Liam Coyle] (https://github.com/TWLG)
 - [Muhammad Abdullahi](https://github.com/A-u-usman)
