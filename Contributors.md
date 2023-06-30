@@ -105,6 +105,7 @@
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 - [Musraf Basheer](https://github.com/mbasheer04)
 - [Fred Vuni](https://github.com/FREDVUNI)
+- [antonpalermo](https://github.com/antonpalermo)
 - [Pedro AAP](https://github.com/paap-64)
 - [Muhammed Asif](https://github.com/ghostMan-pac)
 - [babujal]
