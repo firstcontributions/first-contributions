@@ -119,6 +119,7 @@
 - [Mike Pazda] (https://https://github.com/mike-pazda)
 - [Colin McKerracher](https://github.com/colmck)
 - [Pierce Oxley] (https://github.com/Parcley27)
+- [Sky Lin] (https://github.com/sky798lin)
 - [Omoogun Olawale](https://github.com/olawale-o)
 - [Devop Parker](https://github.com/DevopParker)
 - [Isaac Achenbach](https://github.com/isaacach)
