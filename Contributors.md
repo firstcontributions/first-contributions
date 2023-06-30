@@ -23,6 +23,7 @@
 - [Rushil Kumar](https://github.com/Rushilkr77)
 - [Vanessa Meyer](https://github.com/vansvones)
 - [Ahmed Fatthi](https://github.com/AhmedFatthy1040)
+- [NobiteK](https://github.com/NobiteK)
 - [Nandha Kumar](https://github.com/tnrock)
 - [Taufik Khan](https://github.com/Taufik041)
 - [Aram Kazorian](https://github.com/aramk-hub)
