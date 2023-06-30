@@ -219,6 +219,7 @@ Erupothu Venkatakishor
 - Rahul-Sharing
   [Craigehton](https://github.com/craigehton)
 - [Tyler Lowe](https://github.com/TylerRLowe)
+- [Serhat Sarı](https://github.com/Serhat-Sari)
 - [Nikita Aleksandrov](https://github.com/AleksandrovDev)
 - [Abhishek Kumar](https://github.com/abhishek-Roy22)
 - [SnowZillin](https://github.com/SnowZillin)
