@@ -359,6 +359,7 @@ Condor Sergiu
 - [Eshan Shikarkahne](https://github.com/eshan-one)
 - [Donald Gjoka](https://github.com/DonaldGjoka)
 - [JT Fox](https://github.com/jtfox142)
+- [Siddharth S](https://github.com/sssiddharth3030)
 - [Pranshu Kedia](https://github.com/pranshu79)
 - [Tindan Cletus](https://github.com/cletus-cyber)
 - [Zalman Gagerman] (https://github.com/zalmang)
