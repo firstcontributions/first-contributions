@@ -68,6 +68,7 @@
 - [Harshwardhan Verma](https://github.com/justharxsh)
 - [Pavankalyan Nagulla](https://github.com/Pavan-Nagulla)
 - [Reza Bari](https://github.com/RezaBari)
+- [Aries](https://urchinzhou.com)
 - [Mohd Farhan Nawaz](https://github.com/mohdfarhannawaz)
 - [Ankur](https://github.com/ankurmaity05)
 - [Anshul Choudhary](https://github.com/Ansh-King)
@@ -499,8 +500,8 @@ Condor Sergiu
 - [Orit Perlman]
 - Aditya Srivastava
 - [anchit jain](https://github.com/anchit85426)
--[RaeEE454](https://github.com/RaeEE454)
--[Clumsy Dog](https://github.com/clumsydog933)
+  -[RaeEE454](https://github.com/RaeEE454)
+  -[Clumsy Dog](https://github.com/clumsydog933)
   [Srilakshmi Potnuru](https://github.com/srilakshmipotnuru)
 - [Manav Tore](https://github.com/manavtore)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
