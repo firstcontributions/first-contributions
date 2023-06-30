@@ -54,6 +54,7 @@
 - [Gary Mejia](https://github.com/garymejia)
 - [Core447](https://github.com/Core447)
 - [Rex Cheng](https://github.com/lychengrex)
+- [Ashish Kakade](https://github.com/Ash-47)
 - [Kamran Ali] (https://github.com/Kamibytes)
 - [Harshwardhan Verma](https://github.com/justharxsh)
 - [Pavankalyan Nagulla](https://github.com/Pavan-Nagulla)
