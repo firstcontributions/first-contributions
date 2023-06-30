@@ -2489,6 +2489,7 @@ greeshmanth
 - [John Thuo](https://github.com/john-thuo1)
 - [Isaac Turner](https://github.com/spacey-sooty)
 - [Hamilton Fantin](https://github.com/hfantin)
+- [M. Haris Khan](https://github.com/hariskhan-hk)
 - [Archit Gajjar](https://github.com/ArchitGajjar)
 - [Alex Bzdel](https://github.com/abzdel)
 - [Georges Del Favero](https://github.com/gdelfavero)
