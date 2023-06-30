@@ -2452,6 +2452,7 @@ greeshmanth
 - [Mark Klocek](https://github.com/Tadon)
 - [Shuvkant Phanait](https://github.com/shuvkant)
 - [John Thuo](https://github.com/john-thuo1)
+- [Isaac Turner](https://github.com/spacey-sooty)
 - [Hamilton Fantin](https://github.com/hfantin)
 - [Archit Gajjar](https://github.com/ArchitGajjar)
 - [Alex Bzdel](https://github.com/abzdel)
