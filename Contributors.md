@@ -186,6 +186,7 @@
 - [Chloe Gavrilovic](https://github.com/cmgvc)
 - [Arslan Asghar](https://github.com/al-arslan)
 - [Ali Ayed](https://github.com/iTzVoko)
+- [Ernest Mucheru] (https://github.com/ernestmucheru)
 - [rjk]
 - [Kanak Shakya] (https://github.com/Kanak1125)
 - [Ali Aizn](https://github.com/aliaizn)
