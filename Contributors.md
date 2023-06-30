@@ -71,6 +71,7 @@
 - [Josh88x] (https://github.com/Josh88x)
 - [Carlos Rodriguez] (https://github.com/cr2551)
 - [Amir Hashemi](https://github.com/seyyeddev)
+- [Yasitha Gamage](https://github.com/Yasithalalanga)
 - [Youssef Jrab](https://github.com/yjrab)
 - [Akmal Kamarudin](https://github.com/akmal-kamarudin)
 - [Aaron Howard] (https://github.com/aaron-howard)
