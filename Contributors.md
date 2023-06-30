@@ -1295,6 +1295,7 @@ Tanisha Kodam(https://github.com/Tanisha411)
 - [M3tal M0nk3y](https://github.com/M3talM0nk3y)
 - [Akshay Soni](https://github.com/akshaysoni10)
 - [Denis Koshelev](https://github.com/kshpdr)
+- [Nikita Rvachev](https://github.com/rvnikita)
 - [youngjun1227](https://github.com/youngjun1227)
 - [Yaswanth Gosula](https://github.com/yashug)
 - [Ankit Gupta](https://github.com/Ankit-Gupta0)index
