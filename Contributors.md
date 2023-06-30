@@ -83,6 +83,7 @@
 - [Amir Hashemi](https://github.com/seyyeddev)
 - [Yasitha Gamage](https://github.com/Yasithalalanga)
 - [Youssef Jrab](https://github.com/yjrab)
+- [Matthew Tyson](https://github.com/nexusGM)
 - [Akmal Kamarudin](https://github.com/akmal-kamarudin)
 - [Aaron Howard] (https://github.com/aaron-howard)
 - [Onochie Peter Eze](https://github.com/RxZepet)
