@@ -2438,6 +2438,7 @@ Tanisha Kodam(https://github.com/Tanisha411)
 - [Krishnaraja Sagar](https://krishnarajasagar.github.io)
 greeshmanth
 - [Edison Zhou](https://github.com/nosidezhou)
+- [Roman Chashchin](https://github.com/Rom4ikchek)
 - [harsh dewan]
 - [Loﾃｯc Franchina Loiseau]
 - [Selam Asnake](https://github.com/Haze-I)
