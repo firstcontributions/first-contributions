@@ -28,6 +28,7 @@
 - [Aram Kazorian](https://github.com/aramk-hub)
 - [Akhil Raj](https://github.com/akhil-raj-git)
 - [James Kelly](https://github.com/jkellymi)
+- [Miles Asher](https://github.com/Miles-Asher)
 - [Daniël Vos](https://github.com/DanielVos1992)
 - [Rakesh Dharshanam]
 - [Kalluri naveen](https://github.com/kalluri02)
