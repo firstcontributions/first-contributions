@@ -132,6 +132,7 @@
 - [Fred Vuni](https://github.com/FREDVUNI)
 - [antonpalermo](https://github.com/antonpalermo)
 - [Pedro AAP](https://github.com/paap-64)
+- [Verglass](https://github.com/Verglass)
 - [Muhammed Asif](https://github.com/ghostMan-pac)
 - [babujal]
 - [Hansi312](https://github.com/hansi312)
