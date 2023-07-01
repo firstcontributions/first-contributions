@@ -427,6 +427,7 @@ Condor Sergiu
 - [Dhruv T]
 - [Thamer](https://github.com/ThamerMalki)
 - [Lyubomir](https://github.com/LyubomirD)
+- [Mitchell Gruner](https://github.com/MitchellGruner)
 - [Bhav Kushwaha](https://github.com/bhavkushwaha)
 - [Ipsita Dhar](https://github.com/ipsitadhar)
 - [Julie Clegg](https:///github.com/jclegg31)
