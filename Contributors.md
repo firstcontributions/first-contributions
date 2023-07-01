@@ -35,6 +35,7 @@
 - [James Kelly](https://github.com/jkellymi)
 - [Miles Asher](https://github.com/Miles-Asher)
 - [Daniël Vos](https://github.com/DanielVos1992)
+- [Zakaria Semlali](https://github.com/zakariasemlali)
 - [Rakesh Dharshanam]
 - [Kalluri naveen](https://github.com/kalluri02)
 - [Kondapalli Koyal](https://github.com/kondapalli19)
