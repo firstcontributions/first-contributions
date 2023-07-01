@@ -9,6 +9,7 @@
 - [Samaila](https://github.com/samailamalima)
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
+- [Divyanshu Pabia](https://github.com/Rekklessss)
 - [Ali Manzer](https://github.com/amanzer)
 - [Sean Keefe](https://github.com/SeanCKeefe13)
 - [Priyanshu Kumar Sinha](https://github.com/priyanshu9899)
