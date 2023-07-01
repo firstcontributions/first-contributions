@@ -335,6 +335,7 @@ Erupothu Venkatakishor
 - IamMahfooz
 Condor Sergiu
 - [nnminhtan](https://github.com/nnminhtan)
+- [Keo Magano](https://github.com/K-Magano)
 - [Rishabh](https://github.com/rishabhr4)
 - [Noriomusha](https://github.com/Noriomusha)
 - [Aditya Agarwal](https://github.com/adi790uu)
