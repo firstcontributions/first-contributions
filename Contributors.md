@@ -36,6 +36,7 @@
 - [Miles Asher](https://github.com/Miles-Asher)
 - [Daniël Vos](https://github.com/DanielVos1992)
 - [Rakesh Dharshanam]
+Ayush Purohit
 - [Kalluri naveen](https://github.com/kalluri02)
 - [Kondapalli Koyal](https://github.com/kondapalli19)
 - [Alfredo Carrion](https://github.com/carrionalfredo)
