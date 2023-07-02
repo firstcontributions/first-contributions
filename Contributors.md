@@ -767,4 +767,5 @@
 - [Ivan Israel](https://github.com/marehori)
 - [H-ADJI](https://github.com/H-ADJI)
 - [Vernon Piland](https://github.com/VernonPiland)
+- [Zharvis](https://github.com/Zharvis)
 <!-- prettier-ignore-end -->
