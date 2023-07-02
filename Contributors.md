@@ -5,6 +5,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+- [Harsh](https://github.com/harshvsri)
 - [Nihal]
 - [Samaila](https://github.com/samailamalima)
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
