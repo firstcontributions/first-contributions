@@ -24,6 +24,7 @@
   [Vinay Chitade](https://github.com/vcint)
 - [Uday Krishnan](https://github.com/udaykrishnan9302)
 - [robinofautumn](https://github.com/robinofautumn)
+- [Ananya Pratap Singh](https://github.com/AnanyaPratapSingh)
 - [Rushil Kumar](https://github.com/Rushilkr77)
 - [Vanessa Meyer](https://github.com/vansvones)
 - [Ahmed Fatthi](https://github.com/AhmedFatthy1040)
