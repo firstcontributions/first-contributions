@@ -66,6 +66,7 @@
 - [Sohail khan](https://github.com/Sohail700)
 - [Amrita Sharma](https://github.com/amritash1403)
 - [Gary Mejia](https://github.com/garymejia)
+- [Git Malmoer](https://github.com/GitMalmoer)
 - [Core447](https://github.com/Core447)
 - [Rex Cheng](https://github.com/lychengrex)
 - [Ashish Kakade](https://github.com/Ash-47)
