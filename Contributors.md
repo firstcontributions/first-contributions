@@ -67,6 +67,7 @@
   [Manas Anand Singh](https://github.com/MSAndromeda)
 - [Siim Sink](https://github.com/sinkkkk)
 - [Mayank Gautam]
+- [Sahithi Shastrula](https://github.com/Sahithishastrula)
 - Tamanna
 - Rahul-Sharing
 - [Tyler Lowe](https://github.com/TylerRLowe)
