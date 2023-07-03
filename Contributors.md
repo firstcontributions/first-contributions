@@ -1,7 +1,6 @@
 
 # Contributors
-
-
+Aishagojo
 
 <!-- prettier-ignore-start and welcome -->
 
