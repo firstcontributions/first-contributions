@@ -369,6 +369,7 @@ Condor Sergiu
 - [Veer Pratap](https://github.com/Veercodeprog)
 - -Yash Mishra
 - -Ashish Kumar Singh
+- -[Santiago Esteban Rodriguez](https://github.com/santimars/)
 - [cybzzz](https://github.com/cybzzz)
 - NandaHein
 - [Raghav Sharma]()
