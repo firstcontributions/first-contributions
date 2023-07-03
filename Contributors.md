@@ -372,6 +372,7 @@ Condor Sergiu
 - [Ayomide Ilesanmi](https://github.com/TheCodeGhinux)
 - [John](https://github.com/duckheap)
 - [Irfan](https://github.com/Parjival)
+- [Vibe-Coder] (https://github.com/vibe-coder)
 - [Nur Farah](https://github.com/Nur-farah)
 -[eyitayo babatope](https://github.com/eyitayo-alt)
 - [Anand Raj](https://github.com/anand346)
