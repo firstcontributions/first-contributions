@@ -299,6 +299,7 @@ Erupothu Venkatakishor
 - [Ripul Handoo](https://github.com/RipulHandoo)
 - [Pritam Roy](https://github.com/Pritam1136)
 - [Zvirid Andrei](https://github.com/zviridandrei)
+- [Abel Emmanuel Enemona](https://github.com/abellmanuell)
 - [Akshit Aggarwal](https://github.com/akshit-289)
   [Ajibowo Oluwaseun](https://github.com/EOluwaseun)
 - [Anupam Chauhan](https://github.com/MLAI405)
