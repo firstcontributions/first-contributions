@@ -256,6 +256,7 @@ Erupothu Venkatakishor
 - [PurpleBored](https://github.com/purplebored)
 - [Jo-pl](https://github.com/Jo-pl)
 - [Adarsh Malviya](https://github.com/adarshmalviy)
+- [Connor Antony](https://github.com/ConnorA19)
 - [Luis Cepeda](https://github.com/LuisCepeda)
 - [s4dnex] (https://github.com/s4dnex)
 - [Aditya patil](https://github.com/AdityaPatil111)
