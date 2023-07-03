@@ -69,6 +69,7 @@
 - [Core447](https://github.com/Core447)
 - [Rex Cheng](https://github.com/lychengrex)
 - [Ashish Kakade](https://github.com/Ash-47)
+- [Mathieu Corbett](https://github.com/mathieucorbett)
 - [Kamran Ali] (https://github.com/Kamibytes)
 - [Deepak Prasad](https://github.com/deepak-prasad19)
 - [Harshwardhan Verma](https://github.com/justharxsh)
