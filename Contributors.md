@@ -6,7 +6,7 @@
 <!-- prettier-ignore-start and welcome -->
 
 - [Nihal]
-- [Cayo Natalio-Polo](https://github.com/cayopolo)
+- [Cayo Natalio Polo](https://github.com/cayopolo)
 - [Samaila](https://github.com/samailamalima)
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
