@@ -145,6 +145,7 @@
 -[Sugam Goel](https://github.com/Sugamgoel28)
 - [Damoon Darvishi](https://github.com/DamoonDarvishi)
 - [Shubham Tamrakar](https://github.com/shubham-tam)
+- [Assaf Bardugo](https://github.com/AssafBardugo)
 - [Disha Vig](https://github.com/vigdisha)
 - [Omi](https://github.com/NormTurtle)
 - [Vinay Choudhary](https://github.com/compiler-king)
