@@ -397,6 +397,7 @@ Condor Sergiu
 - [psw](https://github.com/psw01)
 - [Nadeem Ahmad](https://github.com/ahmadnadeem6236)
 - [Chielota Miracle](https://github.com/chielota)
+- [Dev Joshi](https://github.com/De-J)
 - [Marshall Blatz](https://github.com/marshall-blatz)
 - [Chetan Waghade](https://github.com/wchetan)
 - [Aroboto Ifeoluwa](https://github.com/IfeoluwaAroboto)
