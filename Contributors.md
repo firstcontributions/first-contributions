@@ -43,6 +43,7 @@
 - [Hari Prasad] (https://github.com/itcodehery)
 - [Ambroise Ngayinoko](https://github.com/Ambro19)
 - [Pradyumna Hegde](https://github.com/pradyumna-ph)
+- [Sanjay Karthic](https://github.com/Leon-Skar)
 - [Widdershins](https://github.com/Widdershins89)
 - [Dagmawi Yohannes](https://github.com/Dagmawi-Y)
 - [Sohail khan](https://github.com/sohail700)
