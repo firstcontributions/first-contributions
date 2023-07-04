@@ -133,6 +133,7 @@
 - [antonpalermo](https://github.com/antonpalermo)
 - [Pedro AAP](https://github.com/paap-64)
 - [Muhammed Asif](https://github.com/ghostMan-pac)
+- [BierinetDev01](https://github.com/devnet01)
 - [babujal]
 - [Hansi312](https://github.com/hansi312)
 - [Shadows-Puppet]
