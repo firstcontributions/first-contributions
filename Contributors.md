@@ -2561,6 +2561,7 @@ greeshmanth
 - [M. Haris Khan](https://github.com/hariskhan-hk)
 - [Archit Gajjar](https://github.com/ArchitGajjar)
 - [Alex Bzdel](https://github.com/abzdel)
+- [Manish Dait](https://github.com/ManishDait)
 - [Georges Del Favero](https://github.com/gdelfavero)
 - [Gilr]
 - [Hari Kiran](https://github.com/harikirank)
