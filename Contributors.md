@@ -2499,6 +2499,7 @@ greeshmanth
 - Aviya Atias
 - Buggy
 - kritika singh
+- [biyam](https://github.com/biyamn)
 - [Jeff Loop](https://github.com/jefferyloop)
 - [Simone Coslovich](https://github.com/simo2712)
 - [John Mﾃｶller](https://github.com/fyradur)
