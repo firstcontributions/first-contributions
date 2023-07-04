@@ -2452,7 +2452,7 @@ Tanisha Kodam(https://github.com/Tanisha411)
 - [Ahmed ElSaeed](https://github.com/asmpro7)
 - [Abhinav Yadav](https://github.com/AbhinavYdv)
 - [Krishnaraja Sagar](https://krishnarajasagar.github.io)
-greeshmanth
+- greeshmanth
 - [Edison Zhou](https://github.com/nosidezhou)
 - [Roman Chashchin](https://github.com/Rom4ikchek)
 - [harsh dewan]
@@ -2568,9 +2568,9 @@ greeshmanth
 - [Tanmay Mathpal](https:/github.com/l3002)
 - [Sathwik R](https://github.com/cicada0007)
 - [Arnold Mark](https://github.com/arnoldmark)
-- Check it out
 - [Bartłomiej Walecki](https://github.com/https://github.com/MedartN7)
 - [Jack Fitton](https://github.com/jackfitton112)
 - [Shivam Thabe](https://github.com/shivamt24)
 - [Quincy Young](https://github.com/Quincynickyoung)
 - [Mic Adams](https://github.com/mic-adams-dev)
+- [Dut Kulang](https://github.com/dutkulang)
