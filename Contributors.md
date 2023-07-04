@@ -55,6 +55,7 @@
 - [Aaron Newbigging](https://github.com/Pastasource)
 - [Ashish Muley](https://github.com/APMuley)
 - [heinAstonish](https://github.com/heinAstonish)
+- [Mohamad Kazemiraz](https://github.com/mkazemiraz)
 - Tayler Schanks
 - [Raymond Mason] (https://github.com/pepsibluefan2)
 - [Nathanaël V] (https://github.com/nathanael-v)
