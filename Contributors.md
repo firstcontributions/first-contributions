@@ -8,6 +8,7 @@
 - [Nihal]
 - [Samaila](https://github.com/samailamalima)
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
+- [Kaan Çavdar](https://github.com/kaanncavdar)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
 - [Ali Manzer](https://github.com/amanzer)
 - [Sean Keefe](https://github.com/SeanCKeefe13)
