@@ -496,6 +496,7 @@ Condor Sergiu
 - [Lenox Mangi](https://github.com/DrBake)
 - [Jack O'Hare](https://github.com/JackOhare27)
 - [Anthony Jared Greathouse](https://github.com/Jared-Greathouse)
+- [Jared Becker](https://github.com/JaredBecker)
 - [Shibi Ayyanar](https://github.com/Shibi-A)
 - [Thomas Mestdagh](https://github.com/thomasmestdagh)
 - [HanzalaSheikh](https://github.com/HanzalaSheikh)
