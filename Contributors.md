@@ -37,6 +37,7 @@
 - [Daniël Vos](https://github.com/DanielVos1992)
 - [Rakesh Dharshanam]
 - [Kalluri naveen](https://github.com/kalluri02)
+- [Vishal Gangurde](https://github.com/Vishalg19)
 - [Kondapalli Koyal](https://github.com/kondapalli19)
 - [Alfredo Carrion](https://github.com/carrionalfredo)
 - [Samuel Cameron](https://github.com/samca2)
