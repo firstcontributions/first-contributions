@@ -6,7 +6,8 @@
 <!-- prettier-ignore-start and welcome -->
 
 - [Nihal]
-- [Samaila](https://github.com/samailamalima)
+- [marvin barrow](https://github.com/marvinadbarrow)
+- [Samaila](https://github.com/samailamalima) 
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
 - [Ali Manzer](https://github.com/amanzer)
