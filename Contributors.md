@@ -2573,4 +2573,5 @@ greeshmanth
 - [Jack Fitton](https://github.com/jackfitton112)
 - [Shivam Thabe](https://github.com/shivamt24)
 - [Quincy Young](https://github.com/Quincynickyoung)
+- [Pangeo](https://github.com/Pangeo02)
 - [Mic Adams](https://github.com/mic-adams-dev)
