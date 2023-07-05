@@ -532,6 +532,7 @@ Condor Sergiu
 - Jagdish Kancharapu
 - Paul Kenyanya Omweri
 - Manny G
+- Callum W
 -[Bruno Souza](https://github.com/BrunoRammon)
 - [Farzan Ekram](https://github.com/farzanekram07)
 - [Mike Tagg](https://github.com/mdtagg)
