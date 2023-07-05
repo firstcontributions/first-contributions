@@ -682,6 +682,7 @@ Condor Sergiu
 - [Vittorio Pinti](https://github.com/vpinti)
 - [Amshu G M](https://github.com/AmshuGM)
 - [Emmanuel Okonkwo](https://github.com/mettad3v)
+- [Emmanuel Dodoo](https://github.com/EmmanuelDodoo)
 - [braylonsteffen](https://github.com/braylonsteffen)
 - [Daniel Johnson](https://github.com/Dev-Dannie)
 - [Armon Astalis](https://github.com/armonastalis)
