@@ -265,6 +265,7 @@ Erupothu Venkatakishor
 - [Rajneesh Kumar](https://github.com/rajneeshgithub73)
 - [dasari Manoj](https://github.com/Manudasari265)
 - [sz](https://github.come/shenrunzhang)
+- [simisonic](https://github.com/Simisonic)
 - [Vikas Wakde](https://github.com/VikasWakde)
 - [Franz Ka](https://github.com/franzk)
 - [Akhtar Khan Ak](https://github.com/itzAk27)
