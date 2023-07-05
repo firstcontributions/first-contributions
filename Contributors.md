@@ -270,6 +270,7 @@ Erupothu Venkatakishor
 - [Akhtar Khan Ak](https://github.com/itzAk27)
 - [Adewale Kujore](https://github.com/Adewale66)
 - [Andrei Goldin](https://github.com/AndreiGoldin)
+[Kailer Delgado](https://github.com/kailerdelgado)
 - [Sahil Chugh](https://github.com/sahil-1109)
 - [Andre Chua](https://github.com/andrechuakj)
 - [Andrew Koning](https://github.com/drew-koning)
