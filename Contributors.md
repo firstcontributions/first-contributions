@@ -114,6 +114,7 @@
 - [Chavva Narayana Reddy](https://github.com/ChavvaNarayana)
 - [Muhammad Haris](https://github.com/headlessNode)
 - [Favour Markson]((https://github.com/Markson17)
+- [Thanh](https://github/ngminhthanh)
 - [Sachin Kumar](https://github.com/pseudofool)
 - [Priyanshu](https://github.com/cleverprogrammer77)
 - [Tim Dinh](https://github.com/timmiedinnie)
