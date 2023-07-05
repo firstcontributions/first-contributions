@@ -340,6 +340,7 @@ Condor Sergiu
 - [Aditya Agarwal](https://github.com/adi790uu)
 - Bhagyalakshmi
 - [StevenKamwaza](https://github.com/StevenKamwaza)
+- [palmcivet.eth](https://github.com/palmcivet7)
 - Utkarsh Shukla(https://github.com/utkrsh-shukla)
 - Himanshu Tamta
   [Mohit Yadav](https://github.com/ymohit1603)
