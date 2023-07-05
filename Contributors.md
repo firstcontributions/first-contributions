@@ -16,6 +16,7 @@
 - [Abhijeet Yadav](https://github.com/thecodeblood)
 - [Robert Garofalo](https://github.com/robertgarofalo)
 - [Fernando Adames](https://github.com/FernandoAdames)
+- [Yohannes Fishatsion](https://github.com/yohannes-teshale)
 - [Rimma Kubanova](https://github.com/rimma-kubanova)
 - [Viraj Rai](https://github.com/viruop)
 - [Ibeh Mary-Anne](https://github.com/MARYANNE67)
