@@ -663,6 +663,7 @@ Condor Sergiu
 - [Atharav](https://github.com/harshal-ishere)
 - [Arthur Krom](https://github.com/Arthur-Krom)
 - [Drinnan Sante](https://github.com/drinnansante)
+- [Austin Bates](https://github.com/Abates-95)
 - [alonGitH](https://github.com/alonGitH)
 - [Simon Swopes](https://github.com/SpicyCircuit)
 - [Prathmesh Deshpande](https://github.com/prathm3)
