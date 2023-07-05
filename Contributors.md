@@ -735,6 +735,7 @@ Aaron
 - [Dheeraj Saraogi](https://github.com/dheerajsaraogi)
 - [Tshenolo Mos](https://github.com/tshenolo)
 - [Sayak Mandal](https://github.com/Sayak-58)
+- [Balogun Malik ](https://github.com/BalogunMalikO)
 - [Suparnojit Sarkar](https://github.com/suparnojit)
 - [Tushar GH](https://github.com/Tushar12222)
 - [Mohammed Alshebr](https://github.com/MohammedAlshebr)
