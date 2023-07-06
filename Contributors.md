@@ -2562,6 +2562,7 @@ greeshmanth
 - [Archit Gajjar](https://github.com/ArchitGajjar)
 - [Alex Bzdel](https://github.com/abzdel)
 - [Georges Del Favero](https://github.com/gdelfavero)
+- [Rikesh Chhetri](https://github.com/Nomercy-ops)
 - [Gilr]
 - [Hari Kiran](https://github.com/harikirank)
 - [Bittu Benny](https://github.com/greyfox411)
