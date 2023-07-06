@@ -728,6 +728,7 @@ Aaron
 - [Harish Rane](https://github.com/AzadRane)
 - [Sai Krishnan](https://github.com/saikrishnanc77)
 - [Glen Wojnar](https://github.com/glwo)
+- [Maksym TopG](https://github.com/maxkrv)
 - [Cristian Gomez](https://github.com/Cristian96g)
 - [Abhinav Thapa](https://github.com/abhinavthapa1998)
 - [Haroon Atif](https://github.com/Haroon-Atif)
