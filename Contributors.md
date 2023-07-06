@@ -158,6 +158,7 @@
 - [Ana Hartmann](https://github.com/anah85)
 - [Dries Huybens](https://github.com/DRIESASTER)
 - [Gauri Tripathi](https://github.com/GauriTr)
+- [Viet Duc Vu](https://github.com/viet-duc-vu)
 - [Touqeer Ali](https://github.com/TouqeerAli)
 - [Aman Raj](https://github.com/aman2000raj)
 - [Kyaw Zay Ya] (https://github.com/kyawzayya2222)
