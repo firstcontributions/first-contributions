@@ -257,6 +257,7 @@ Erupothu Venkatakishor
 - [Jo-pl](https://github.com/Jo-pl)
 - [Adarsh Malviya](https://github.com/adarshmalviy)
 - [Luis Cepeda](https://github.com/LuisCepeda)
+- [Rafael Anguiano](https://github.com/rafael-anguiano)
 - [s4dnex] (https://github.com/s4dnex)
 - [Aditya patil](https://github.com/AdityaPatil111)
 - [Rodrigo Blancas](https://github.com/rodblg)
