@@ -57,6 +57,7 @@
 - [heinAstonish](https://github.com/heinAstonish)
 - Tayler Schanks
 - [Raymond Mason] (https://github.com/pepsibluefan2)
+- [Mansvi Kamble](https://github.com/22MansviK)
 - [Nathanaël V] (https://github.com/nathanael-v)
 - [muntazirgo] (https://github.com/muntazirgo)
 - [Lion King](https://github.com/topmsdreamer)
