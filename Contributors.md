@@ -4,7 +4,7 @@
 
 
 <!-- prettier-ignore-start and welcome -->
-
+-[Priti](https://github.com/morepriti131)
 - [Nihal]
 - [Samaila](https://github.com/samailamalima)
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
