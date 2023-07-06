@@ -21,6 +21,7 @@
 - [Ibeh Mary-Anne](https://github.com/MARYANNE67)
 - [Abhay Donga](https://github.com/AbhayDonga007)
 - [Seth Zwerling](https://github.com/SZwerling)
+- [Rashid Hussain](https://github.com/RashidHussain786)
   [Vinay Chitade](https://github.com/vcint)
 - [Uday Krishnan](https://github.com/udaykrishnan9302)
 - [robinofautumn](https://github.com/robinofautumn)
