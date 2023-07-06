@@ -112,6 +112,7 @@
 - [Raj Agrahari](https://github.com/RajAgrahari)]
 - [Aviprit Shah](https://github.com/programmer765/)
 - [Chavva Narayana Reddy](https://github.com/ChavvaNarayana)
+- [Satyam Agrawal](https://github.com/Asatyam)
 - [Muhammad Haris](https://github.com/headlessNode)
 - [Favour Markson]((https://github.com/Markson17)
 - [Sachin Kumar](https://github.com/pseudofool)
