@@ -880,6 +880,7 @@ Aaron
 - Adithyanarayanan S
 - [Wesllen Alexandre](https://github.com/Wesllenbr)
 - [Adithya Bijoy](https://github.com/Adithya1902)
+- [Philip Daudu](https://github.com/Philip-D21)
 - [Ikegah Oliver](https://github.com/oliverTwist2)
 - [Fumiya Shimada](https://github.com/smdhnz)
 - [derfabiannn](https://github.com/derfabiannn)
