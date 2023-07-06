@@ -119,6 +119,7 @@
 - [Tim Dinh](https://github.com/timmiedinnie)
 - [Vedang](https://github.com/vedang685)
 - [kekeneit](https://github.com/kekeneit)
+- [Simon Yuen] (https://github.com/syuen23)
 - [Ismail Chikh Boubekeur](https://github.com/esmo-ts)
 - [Adhiraj Kar](https://github.com/adhirajkar3103)
 - [AlexEG](https://github.com/AlexEG)
