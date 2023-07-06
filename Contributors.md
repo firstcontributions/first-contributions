@@ -7,6 +7,7 @@
 
 - [Nihal]
 - [Samaila](https://github.com/samailamalima)
+- [Adithyan-cb] (https://github.com/Adithyan-cb)
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
 - [Ali Manzer](https://github.com/amanzer)
