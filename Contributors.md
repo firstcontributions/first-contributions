@@ -298,6 +298,7 @@ Erupothu Venkatakishor
 - [Alex Li](https://github.com/alexcode4ever)
 - [Ripul Handoo](https://github.com/RipulHandoo)
 - [Pritam Roy](https://github.com/Pritam1136)
+- [Toru Yaginuma](https://github.com/t-yaginuma)
 - [Zvirid Andrei](https://github.com/zviridandrei)
 - [Akshit Aggarwal](https://github.com/akshit-289)
   [Ajibowo Oluwaseun](https://github.com/EOluwaseun)
