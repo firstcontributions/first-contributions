@@ -25,6 +25,7 @@
 - [Uday Krishnan](https://github.com/udaykrishnan9302)
 - [robinofautumn](https://github.com/robinofautumn)
 - [Rushil Kumar](https://github.com/Rushilkr77)
+- [Ratnesh Mishra](https://github.com/Ratnesh2003)
 - [Vanessa Meyer](https://github.com/vansvones)
 - [Ahmed Fatthi](https://github.com/AhmedFatthy1040)
 - [NobiteK](https://github.com/NobiteK)
