@@ -56,6 +56,7 @@
 - [Ashish Muley](https://github.com/APMuley)
 - [heinAstonish](https://github.com/heinAstonish)
 - Tayler Schanks
+- [Jan Carlo Juab] (https://github.com/mode-boyo)
 - [Raymond Mason] (https://github.com/pepsibluefan2)
 - [Nathanaël V] (https://github.com/nathanael-v)
 - [muntazirgo] (https://github.com/muntazirgo)
