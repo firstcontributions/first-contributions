@@ -4,7 +4,6 @@
 
 
 <!-- prettier-ignore-start and welcome -->
-
 - [Nihal]
 - [Samaila](https://github.com/samailamalima)
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
@@ -24,6 +23,7 @@
   [Vinay Chitade](https://github.com/vcint)
 - [Uday Krishnan](https://github.com/udaykrishnan9302)
 - [robinofautumn](https://github.com/robinofautumn)
+Hodaya Rachel
 - [Rushil Kumar](https://github.com/Rushilkr77)
 - [Vanessa Meyer](https://github.com/vansvones)
 - [Ahmed Fatthi](https://github.com/AhmedFatthy1040)
