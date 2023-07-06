@@ -78,6 +78,7 @@
 - [Mohd Farhan Nawaz](https://github.com/mohdfarhannawaz)
 - [Ankur](https://github.com/ankurmaity05)
 - [Anshul Choudhary](https://github.com/Ansh-King)
+- [Tharagaraman balaji](https://github.com/tharagaramanbalaji)
 - [Grant Growcott](https://github.com/GrantGrowcott)
 - [Matheus Brito](https://github.com/mjc-brito)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
