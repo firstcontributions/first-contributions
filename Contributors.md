@@ -23,6 +23,7 @@
 - [Seth Zwerling](https://github.com/SZwerling)
   [Vinay Chitade](https://github.com/vcint)
 - [Uday Krishnan](https://github.com/udaykrishnan9302)
+- [Shreyash A. Kamble](https://github.com/mrkshreyash)
 - [robinofautumn](https://github.com/robinofautumn)
 - [Rushil Kumar](https://github.com/Rushilkr77)
 - [Vanessa Meyer](https://github.com/vansvones)
