@@ -30,6 +30,7 @@
 - [NobiteK](https://github.com/NobiteK)
 - [Nandha Kumar](https://github.com/tnrock)
 - [Taufik Khan](https://github.com/Taufik041)
+- [thops1925](https://github.com/thops1925)
 - [Aram Kazorian](https://github.com/aramk-hub)
 - [Akhil Raj](https://github.com/akhil-raj-git)
 - [James Kelly](https://github.com/jkellymi)
