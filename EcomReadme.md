@@ -66,5 +66,5 @@ git add .
     }
   ```
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![LinkedIn Badge](https://img.shields.io/badge/:badgeContent)
 
