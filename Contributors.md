@@ -7,6 +7,7 @@
 
 - [Nihal]
 - [Samaila](https://github.com/samailamalima)
+- [Christopher Lumen](https://github.com/thops1925)
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
 - [Ali Manzer](https://github.com/amanzer)
@@ -30,7 +31,6 @@
 - [NobiteK](https://github.com/NobiteK)
 - [Nandha Kumar](https://github.com/tnrock)
 - [Taufik Khan](https://github.com/Taufik041)
-- [Christopher Lumen](https://github.com/thops1925)
 - [Aram Kazorian](https://github.com/aramk-hub)
 - [Akhil Raj](https://github.com/akhil-raj-git)
 - [James Kelly](https://github.com/jkellymi)
