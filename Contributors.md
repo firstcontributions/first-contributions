@@ -5,6 +5,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+- [Renny Harlin](https://github.com/RennyHarlin23)
 - [Nihal]
 - [Samaila](https://github.com/samailamalima)
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
