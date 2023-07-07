@@ -170,6 +170,7 @@
 - [Devop Parker](https://github.com/DevopParker)
 - [Nwankwo Ebube](https://github.com/EbubeDev)
 - [Isaac Achenbach](https://github.com/isaacach)
+- [Miguel Angel](https://github.com/mafdezmoreno)
 - [Kiran Sadaye](https://github.com/kiran215)
 - [Olamide Adojutelegan](https://github.com/lamideado)
 - [Leon Heinrich](https://github.com/LionLostInCode)
