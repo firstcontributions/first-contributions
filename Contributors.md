@@ -2574,4 +2574,5 @@ greeshmanth
 - [Shivam Thabe](https://github.com/shivamt24)
 - [Quincy Young](https://github.com/Quincynickyoung)
 - [Mic Adams](https://github.com/mic-adams-dev)
+- [add a new contributor]
 - [javaManiak](https://github.com/javaManiak)
