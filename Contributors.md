@@ -109,7 +109,7 @@
 - [Alfonzo Church](https://github.com/ruphail)
 - [Devanshu Augusty](https://github.com/Devanshu-Augusty)
 - [Zachary Murphy](https://github.com/ZacharyJTMurphy)
-- [Raj Agrahari](https://github.com/RajAgrahari)]
+- [Raj Agrahari](https://github.com/RajAgrahari)
 - [Aviprit Shah](https://github.com/programmer765/)
 - [Chavva Narayana Reddy](https://github.com/ChavvaNarayana)
 - [Muhammad Haris](https://github.com/headlessNode)
@@ -2574,3 +2574,4 @@ greeshmanth
 - [Shivam Thabe](https://github.com/shivamt24)
 - [Quincy Young](https://github.com/Quincynickyoung)
 - [Mic Adams](https://github.com/mic-adams-dev)
+- [Pranav Jeevan](https://github.com/jeevanpranav02)
