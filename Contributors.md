@@ -60,6 +60,7 @@
 - [Nathanaël V] (https://github.com/nathanael-v)
 - [muntazirgo] (https://github.com/muntazirgo)
 - [Lion King](https://github.com/topmsdreamer)
+- [Shifan Hirani](https://github.com/DenseMage)
 -[Nikolas Manuel](https://github.com/nikman21)
 - [Lanzi Danilo] (https://github.com/Tano73)
 - [Olayinka Okanlawon](https://github.com/olayinkagrace)
