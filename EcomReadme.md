@@ -8,3 +8,6 @@
 ```
 git push
 ```
+```
+git add .
+```
