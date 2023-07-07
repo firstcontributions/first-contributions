@@ -2574,4 +2574,4 @@ greeshmanth
 - [Shivam Thabe](https://github.com/shivamt24)
 - [Quincy Young](https://github.com/Quincynickyoung)
 - [Mic Adams](https://github.com/mic-adams-dev)
-- [Mann Bhanushali](https://github.com/Innomer)
+- [Mann](https://github.com/Innomer)
