@@ -1,8 +1,6 @@
-# This is bolded
-## This is bolded
-### This is bolded 
-You are working on a e-comm project, it is your responsibility to make a readme.md file, be creative and make a readme.md file for the project
-this is addedd as demo
-xyz
-![alt text]
-
+# This readme file is for testing purpose
+* Into to git
+* git vs github
+* Installation & setup
+* Git workflow & demo
+* 
