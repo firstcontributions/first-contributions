@@ -444,6 +444,7 @@ Condor Sergiu
 - [Danielle Lewis] (https://github.com/daniellelewis14)
 - [Jahang] (https://github.com/jppk12)
 - [Jefferson Warnimont](https://github.com/JeffWarnimont)
+- [Shyynux](https://github.com/shyynux)
 - [Michael McKnight](https://github.com/MichaelMcKnight)
 - [Letizia DI MAIO](https://github.com/leta91)
 - [Pranav](https://github.com/Pranav7651)
