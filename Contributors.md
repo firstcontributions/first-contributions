@@ -356,6 +356,7 @@ Condor Sergiu
 - Prakhar Pradhan
 - [Karthik Bhandary](https://github.com/karthikbhandary2)
 - [Jay](https://github.com/fotmjay)
+- [cbonet](https://github.com/cbonet)
 - [Sarthak](https://github.com/sarthak2131)
 - [Anirudh K Anil](https://github.com/anirudhka00)
 - [Pranit Mane](https://github.com/pranitmane)
