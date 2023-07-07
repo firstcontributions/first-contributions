@@ -715,6 +715,7 @@ Aaron
 - [Gunjan] (https://github.com/yogeesp)
 - [Hatem Alfarra](https://github.com/Hatem-Alfarra)
 - [Deepali Semwal](https://github.com/semwaldeepali)
+- [zyc](https://github.com/metazyc)
 - [Ye Yint Myint Myat](https://github.com/yeyint-bee)
 - [John Clapper](https://github.com/britzky)
 - [Carly Kiang](https://github.com/carlykiang)
