@@ -153,6 +153,7 @@
 - [Stefano 128423](https://github.com/128423)
 - [Shashank Kumar](https://github.com/Shashank-1986)
 - [Roger](https://github.com/rogerkaplan)
+- [Gab](https://github.com/waregagbagbo)
 - [MathiasS](https://github.com/mathiassei)
 - [Zalman Gagerman](https://github.com/zalmang)
 - [Ana Hartmann](https://github.com/anah85)
