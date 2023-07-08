@@ -331,6 +331,7 @@ Erupothu Venkatakishor
 - [Umberto Fasci](https://github.com/UmbertoFasci)
 - [Rakesh](https://github.com/rakeshcj)
 - [dj1ch](https://github.com/dj1ch)
+- Rajat Gupta
 - shlomo-michalovich
 - IamMahfooz
 Condor Sergiu
