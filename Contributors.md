@@ -1125,6 +1125,7 @@ Aaron
 - [Krishan-Walia](https://github.com/krishanwalia30)
 - [Krishna-Kadu](https://github.com/KaiserKadu)
 - [Facundo Talavera](https://github.com/Fa2112)
+- [Nolan Roth](https://github.com/n-roth12)
 - [Timothy Chua](https://github.com/tdchua)
 - [Abu Usaid](https://github.com/AbuUsaid)
 - [Kasthuri-P](https://github.com/Kasthuri-P)
