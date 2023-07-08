@@ -668,6 +668,7 @@ Condor Sergiu
 - [Prathmesh Deshpande](https://github.com/prathm3)
 - [chamomil](https://github.com/chamomil)
 - [Rituraj](https://github.com/enrituraj)
+- [Agniv Chakraborty](https://github.com/Agniv25)
 - [Rohit Mahesh](https://github.com/R041T)
 - [Talha Tahir](https://github.com/talhatahir)
 - [Matthew Coronado] (https://github.com/mattdamachine)
