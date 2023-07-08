@@ -4,7 +4,7 @@
 
 
 <!-- prettier-ignore-start and welcome -->
-
+- [Artin navidgoli](https://github.com/Artinnavidgoli)
 - [Nihal]
 - [Samaila](https://github.com/samailamalima)
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
