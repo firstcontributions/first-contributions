@@ -4,7 +4,7 @@
 
 
 <!-- prettier-ignore-start and welcome -->
-
+- [Yash](https://github.com/Yash-chotaliya)
 - [Nihal]
 - [Samaila](https://github.com/samailamalima)
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
