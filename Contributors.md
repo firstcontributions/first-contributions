@@ -4,7 +4,7 @@
 
 
 <!-- prettier-ignore-start and welcome -->
-
+- [EasewithTuts] (https://github.com/Easewithtuts)
 - [Nihal]
 - [Samaila](https://github.com/samailamalima)
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
