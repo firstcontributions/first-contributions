@@ -921,6 +921,7 @@ Aaron
 - [Fathi Abdi](https://github.com/Fathyy)
 - Oliver Warne
 - [Bamsejon](https://github.com/bamsejon)
+- [Isaac Lomax](https://github.com/1fn0t)
 - [Mohsin Nazakat](https://github.com/mohsinnazakat1)
 - [Anmol Matharu](https://github.com/anmolmatharu100)
 - [Chris E](https://github.com/cce2955)
