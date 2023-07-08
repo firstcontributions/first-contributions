@@ -124,6 +124,7 @@
 - [AlexEG](https://github.com/AlexEG)
 - [Kaden Pirmohamed](https://github.com/Lightmean03)
 - [Sukhrob Yangibaev](https://github.com/sukhrobyangibaev)
+- [Jen Taruno](https://github.com/jentaruno)
 - [Lﾃｪ ﾄ雪ｻｩc Anh](https://github.com/ducanh2706)
 - [Amir Sefidgar](https://github.com/amstfn)
 - [Joel Aliyu](https://github.com/joelali5)
