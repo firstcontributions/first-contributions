@@ -6,6 +6,7 @@
 <!-- prettier-ignore-start and welcome -->
 
 - [Nihal]
+- [Abhinandan Singh](https://github.com/Abhinandan-Singh)
 - [Samaila](https://github.com/samailamalima)
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
