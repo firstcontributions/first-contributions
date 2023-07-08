@@ -534,6 +534,7 @@ Condor Sergiu
 - Manny G
 -[Bruno Souza](https://github.com/BrunoRammon)
 - [Farzan Ekram](https://github.com/farzanekram07)
+- [aaron roberts] (https://github.com/darkmodeaaron)
 - [Mike Tagg](https://github.com/mdtagg)
 - [Haina Weiben](https://github.com/hainaweiben)
 [Mandeep](https://github.com/Mandeep-009)
