@@ -100,6 +100,7 @@ Ayush Purohit
 - [Harshwardhan Verma](https://github.com/justharxsh)
 - [Pavankalyan Nagulla](https://github.com/Pavan-Nagulla)
 - [Reza Bari](https://github.com/RezaBari)
+- [Mahendra Soni](https://github.com/mahi25soni/)
 - [Aries](https://urchinzhou.com)
 - [Mohd Farhan Nawaz](https://github.com/mohdfarhannawaz)
 - [Ankur](https://github.com/ankurmaity05)
