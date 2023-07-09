@@ -76,6 +76,7 @@ Ayush Purohit
 - [Lion King](https://github.com/topmsdreamer)
 -[Nikolas Manuel](https://github.com/nikman21)
 - [Lanzi Danilo] (https://github.com/Tano73)
+- [Arthur Ng] (https://github.com/arthurtng)
 - [Olayinka Okanlawon](https://github.com/olayinkagrace)
 - [Sohail khan](https://github.com/Sohail700)
 - [Amrita Sharma](https://github.com/amritash1403)
