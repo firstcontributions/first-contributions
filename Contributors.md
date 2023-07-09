@@ -51,6 +51,7 @@ Ayush Purohit
 - [Alfredo Carrion](https://github.com/carrionalfredo)
 - [Samuel Cameron](https://github.com/samca2)
 - [Hari Prasad] (https://github.com/itcodehery)
+- [Khushi](https://github.com/KhushiP098)
 - [Ambroise Ngayinoko](https://github.com/Ambro19)
 - [Pradyumna Hegde](https://github.com/pradyumna-ph)
 - [Widdershins](https://github.com/Widdershins89)
