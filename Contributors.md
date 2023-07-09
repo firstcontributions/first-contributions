@@ -618,6 +618,7 @@ Condor Sergiu
 - [Lukas Haring](https://github.com/mrlukyman/first-contributions)
 - [Jai Vignesh](https://github.com/hsengiviaJ)
   [Aastha Kumari](https://github.com/aasthak108)
+  [Tai Arima](https://github.com/taiarima)
   [Raj Sinha](https://github.com/r-a-j-s-i-n-h-a)
 - [Ahsan Naqvi](https://github.com/s-ahsan-naqvi)
 - [Taha Parker](https://github.com/tahayparker)
