@@ -6,6 +6,7 @@
 <!-- prettier-ignore-start and welcome -->
 
 - [Nihal]
+- [Sagar Shrivastava](https://github.com/learner-sagar)
 - [Samaila](https://github.com/samailamalima)
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
 - [Mohan Gowda T](https://github.com/mohangowdatdev)
