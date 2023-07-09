@@ -1714,6 +1714,7 @@ Tanisha Kodam(https://github.com/Tanisha411)
 - [Selim](https://github.com/ssehriyar)
   Shrajan Jain
   [JaphethBear] (https://github.com/japhethbear)
+  [SuriyM] (https://github.com/suriym)
 - [lazylittlestar](https://github.com/lazylittlestar)
 - [japesjake](http://github.com/japesjake)
 - [EvyatarEsterson凾](https://github.com/EvyatarEsterson)
