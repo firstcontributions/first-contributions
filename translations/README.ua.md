@@ -96,7 +96,7 @@ git push origin <add-your-name>
 
  Спочатку перейдіть на основну гілку.
  ```
- git checkout master
+ git checkout main
  ```
 
  Потім додайте мій репозиторій як `upstream remote url`:
@@ -109,11 +109,11 @@ git fetch upstream
 ```
 Тобто ви забираєте всі зміни з мого репозиторію. Тепер ви повинні об’єднати зміни, які прийшли з мого репозиторію, у вашу основну гілку.
 ```
-git rebase upstream/master
+git rebase upstream/main
 ```
 Цим ви приймаєте всі зміни до основної гілки. Якщо ви відправите зміни до GitHub, ваше відгалуження також буде містити ці зміни:
 ```
-git push origin master
+git push origin main
 ```
 Зауважте, що ви відправляєте зміни до віддаленого репозиторію, який був названий `origin`.
 
