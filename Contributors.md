@@ -28,6 +28,7 @@ MedicalWealth
 - [Rimma Kubanova](https://github.com/rimma-kubanova)
 - [Kuldip Chaudhary](https://github.com/KMchaudhary)
 - [Viraj Rai](https://github.com/viruop)
+- [Cristian Embleton](https://github.com/C3viche)
 - [Ibeh Mary-Anne](https://github.com/MARYANNE67)
 - [Mandy-cyber](https://github.com/Mandy-cyber)
 - [Abhay Donga](https://github.com/AbhayDonga007)
