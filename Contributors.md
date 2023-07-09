@@ -78,6 +78,7 @@ Ayush Purohit
 - [Gary Mejia](https://github.com/garymejia)
 - [Sai Dhanush Vankadari](https://github.com/saidhanushv/)
 - [Core447](https://github.com/Core447)
+- [Ayan Sarma](https://github.com/kiyoshi-87)
 - [Rex Cheng](https://github.com/lychengrex)
 - [Ashish Kakade](https://github.com/Ash-47)
 - [Kamran Ali] (https://github.com/Kamibytes)
