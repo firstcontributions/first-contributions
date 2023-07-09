@@ -11,6 +11,7 @@
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
 - [Ali Manzer](https://github.com/amanzer)
 - [Sean Keefe](https://github.com/SeanCKeefe13)
+- [roynov01](https://github.com/roynov01)
 - [Priyanshu Kumar Sinha](https://github.com/priyanshu9899)
 - [Vivek Kumar Shrivastav](https://github.com/Vivek-Kumar-Shrivastav)
 - [Abhijeet Yadav](https://github.com/thecodeblood)
@@ -134,6 +135,7 @@
 - [Pedro AAP](https://github.com/paap-64)
 - [Muhammed Asif](https://github.com/ghostMan-pac)
 - [babujal]
+
 - [Hansi312](https://github.com/hansi312)
 - [Shadows-Puppet]
 - [moodham](https://github.com/moodham)
