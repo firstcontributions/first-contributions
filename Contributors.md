@@ -318,6 +318,7 @@ Erupothu Venkatakishor
 - [Prachi Chauhan](https://github.com/PrachiChauhan23)
 - [Zee](https://github.com/zoptimizer)
 - [AF](https://github.com/affiasco)
+- [Nazianzenov](https://github.com/Nazianzenov)
 - [mxk devops](https://github.com/mxkdevops)
 - [Zach Boquet](https://github.com/Kurokio)
 - [Ifeoluwa Aroboto] (https://github.com/IfeoluwaAroboto)
