@@ -90,6 +90,7 @@ Ayush Purohit
 - [Ayan Sarma](https://github.com/kiyoshi-87)
 - [Rex Cheng](https://github.com/lychengrex)
 - [Ashish Kakade](https://github.com/Ash-47)
+- [Mathieu Corbett](https://github.com/mathieucorbett)
 - [Kamran Ali] (https://github.com/Kamibytes)
 - [Deepak Prasad](https://github.com/deepak-prasad19)
 - [Harshwardhan Verma](https://github.com/justharxsh)
