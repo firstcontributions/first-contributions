@@ -80,6 +80,7 @@
 - [Anshul Choudhary](https://github.com/Ansh-King)
 - [Grant Growcott](https://github.com/GrantGrowcott)
 - [Matheus Brito](https://github.com/mjc-brito)
+- [Patrick Cowden](https://github.com/ImagineAZ)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Shubham Lalwani] (https://github.com/Shubham-777-bit)
 - [Frosty2500](https://github.com/Frosty2500)
