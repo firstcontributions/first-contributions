@@ -2474,6 +2474,7 @@ greeshmanth
 - [Metehan Gﾃｼnen](https://github.com/Metrohan)
 - [Tom Starkey](https://github.com/TomStarkey)
 - [northernbelle87](https://github.com/northernbelle87)
+- [Haris Alghifary](https://github.com/Harisalghifary)
 - [Sujal Tangde] (https://github.com/sujaltangde/)
 - [Andres Ponciano] (https://github.com/AndresPonciano)
 - [Christopher Perez Lebron] (https://github.com/ChrisPerezLebron)
