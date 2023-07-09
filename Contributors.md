@@ -854,6 +854,7 @@ Aaron
 - Anthony Aljida
 - [Nelson Matenda 噫](https://github.com/nelsonmatenda) -[Ayooluwa Aduwo](https://github.com/AduwoAyooluwa)
 - [m-foskett](https://github.com/m-foskett)
+- [Rodrigo Zeck](https://github.com/zeckyon)
 - [Christopher Lopez](https://github.com/BedlaminGoliath)
 - [HOUSSAM666](https://github.com/HOUSSAM666)
 - [pradeep kc](https://github.com/pradeepkc11)
