@@ -144,6 +144,7 @@ Ayush Purohit
 - [Priyanshu](https://github.com/cleverprogrammer77)
 - [Tim Dinh](https://github.com/timmiedinnie)
 - [Vedang](https://github.com/vedang685)
+- [Sanjay](https://github.com/sadhu-sanjay)
 - [kekeneit](https://github.com/kekeneit)
 - [Ismail Chikh Boubekeur](https://github.com/esmo-ts)
 - [Adhiraj Kar](https://github.com/adhirajkar3103)
