@@ -11,6 +11,7 @@
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
 - [Ali Manzer](https://github.com/amanzer)
 - [Sean Keefe](https://github.com/SeanCKeefe13)
+- [Alexey Rubinchyk](https://github.com/rubinchyk)
 - [Priyanshu Kumar Sinha](https://github.com/priyanshu9899)
 - [Vivek Kumar Shrivastav](https://github.com/Vivek-Kumar-Shrivastav)
 - [Abhijeet Yadav](https://github.com/thecodeblood)
