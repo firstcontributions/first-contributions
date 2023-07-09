@@ -109,7 +109,7 @@
 - [Alfonzo Church](https://github.com/ruphail)
 - [Devanshu Augusty](https://github.com/Devanshu-Augusty)
 - [Zachary Murphy](https://github.com/ZacharyJTMurphy)
-- [Raj Agrahari](https://github.com/RajAgrahari)]
+- [Raj Agrahari](https://github.com/RajAgrahari)
 - [Aviprit Shah](https://github.com/programmer765/)
 - [Chavva Narayana Reddy](https://github.com/ChavvaNarayana)
 - [Muhammad Haris](https://github.com/headlessNode)
@@ -124,6 +124,7 @@
 - [AlexEG](https://github.com/AlexEG)
 - [Kaden Pirmohamed](https://github.com/Lightmean03)
 - [Sukhrob Yangibaev](https://github.com/sukhrobyangibaev)
+- [Muhammad Daffa](https://github.com/notquirrel)
 - [Lﾃｪ ﾄ雪ｻｩc Anh](https://github.com/ducanh2706)
 - [Amir Sefidgar](https://github.com/amstfn)
 - [Joel Aliyu](https://github.com/joelali5)
