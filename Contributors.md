@@ -13,6 +13,7 @@
 - [Sean Keefe](https://github.com/SeanCKeefe13)
 - [Priyanshu Kumar Sinha](https://github.com/priyanshu9899)
 - [Vivek Kumar Shrivastav](https://github.com/Vivek-Kumar-Shrivastav)
+- [Abdou-Raouf ATARMLA](https://github.com/fless-lab)
 - [Abhijeet Yadav](https://github.com/thecodeblood)
 - [Robert Garofalo](https://github.com/robertgarofalo)
 - [Fernando Adames](https://github.com/FernandoAdames)
