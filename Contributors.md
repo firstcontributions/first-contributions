@@ -200,6 +200,7 @@
 - [Malaz Naquib](https://github.com/malaz-naquib)
 - [Agastaya Sharma](https://github.com/Agastaya23)
 - [Madhura Fulkar](https://github.com/madhurafulkar)
+- [Madjour Amir](https://github.com/Amirmadjour)
 - [Adarsh Yadav](https://github.com/codebreaker0001)
 - [Khushi Sharma](https://github.com/Khushisharma23)
 - [Jermy Deer](https://github.com/JermyDeer)
