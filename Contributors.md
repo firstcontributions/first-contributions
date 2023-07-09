@@ -2498,6 +2498,7 @@ greeshmanth
 - [Rakesh Pradhan](https://github.com/Rakeshpradhan1999)
 - Aviya Atias
 - Buggy
+- Tara
 - kritika singh
 - [Jeff Loop](https://github.com/jefferyloop)
 - [Simone Coslovich](https://github.com/simo2712)
