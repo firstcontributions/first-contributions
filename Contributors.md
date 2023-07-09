@@ -23,6 +23,7 @@
 - [Robert Garofalo](https://github.com/robertgarofalo)
 - [Fernando Adames](https://github.com/FernandoAdames)
 - [Rimma Kubanova](https://github.com/rimma-kubanova)
+- [Kuldip Chaudhary](https://github.com/KMchaudhary)
 - [Viraj Rai](https://github.com/viruop)
 - [Ibeh Mary-Anne](https://github.com/MARYANNE67)
 - [Mandy-cyber](https://github.com/Mandy-cyber)
