@@ -19,6 +19,7 @@
 - [Rimma Kubanova](https://github.com/rimma-kubanova)
 - [Viraj Rai](https://github.com/viruop)
 - [Ibeh Mary-Anne](https://github.com/MARYANNE67)
+- [Mandy-cyber](https://github.com/Mandy-cyber)
 - [Abhay Donga](https://github.com/AbhayDonga007)
 - [Seth Zwerling](https://github.com/SZwerling)
   [Vinay Chitade](https://github.com/vcint)
