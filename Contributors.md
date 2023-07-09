@@ -18,6 +18,7 @@
 - [Fernando Adames](https://github.com/FernandoAdames)
 - [Rimma Kubanova](https://github.com/rimma-kubanova)
 - [Viraj Rai](https://github.com/viruop)
+- [Tevin Campbell](https://github.com/Troyzhenny)
 - [Ibeh Mary-Anne](https://github.com/MARYANNE67)
 - [Abhay Donga](https://github.com/AbhayDonga007)
 - [Seth Zwerling](https://github.com/SZwerling)
