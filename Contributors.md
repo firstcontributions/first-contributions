@@ -5,6 +5,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+- [Harsh](https://github.com/harshvsri)
 - [Nihal]
 - [Sagar Shrivastava](https://github.com/learner-sagar)
 - [Samaila](https://github.com/samailamalima)
