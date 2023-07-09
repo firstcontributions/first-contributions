@@ -75,6 +75,7 @@ Ayush Purohit
 - [Nathanaël V] (https://github.com/nathanael-v)
 - [muntazirgo] (https://github.com/muntazirgo)
 - [Lion King](https://github.com/topmsdreamer)
+- [Munene-m](https://github.com/munene-m)
 -[Nikolas Manuel](https://github.com/nikman21)
 - [Lanzi Danilo] (https://github.com/Tano73)
 - [Arthur Ng] (https://github.com/arthurtng)
