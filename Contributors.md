@@ -98,6 +98,7 @@ Ayush Purohit
 - [Grant Growcott](https://github.com/GrantGrowcott)
 - [Matheus Brito](https://github.com/mjc-brito)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
+- [Konark Chandra Kumar](https://github.com/Konark-2ez)
 - [Shubham Lalwani] (https://github.com/Shubham-777-bit)
 - [Frosty2500](https://github.com/Frosty2500)
 - [Anadu Godwin](https://github.com/AnaduCG)
