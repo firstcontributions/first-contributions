@@ -32,6 +32,7 @@ MedicalWealth
 - [Abhay Donga](https://github.com/AbhayDonga007)
 - [Seth Zwerling](https://github.com/SZwerling)
   [Vinay Chitade](https://github.com/vcint)
+- [jrheronn](https://github.com/jrheronn)
 - [Uday Krishnan](https://github.com/udaykrishnan9302)
 - [robinofautumn](https://github.com/robinofautumn)
 - [Rushil Kumar](https://github.com/Rushilkr77)
