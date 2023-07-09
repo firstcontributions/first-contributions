@@ -2522,7 +2522,8 @@ greeshmanth
 - [Pape Ngagne Ndiaye](https://github.com/PapisKang)
 - [K B POOVANNA](https://github.com/kbpoovanna-007)
 - [swarup_E7](https://github.com/swarupe7)
-- [Lasse_Buch](https://github.com/LasseBuchAspIT)        
+- [Lasse_Buch](https://github.com/LasseBuchAspIT)
+- [justforfun](https://github.com/justforfun0906)        
 - <!-- prettier-ignore-end -->
 - [Naveen Avula](https://github.com/Avula-Naveen)
 - [Sameer Kumar singh](https://github.com/xvisierra)
