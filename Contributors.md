@@ -111,11 +111,12 @@ Ayush Purohit
 - [FMami] (https://github.com/Fmami97)
 - [Mustafa] (https://github.com/musti17)
 - [Priyansh Prajapat](https://github.com/oyepriyansh)
+- [Meet Thummar](https://github.com/meet82386)
 - [Vaibhavharsoda](https://github.com/vaibhavharsoda)
 - [Alfonzo Church](https://github.com/ruphail)
 - [Devanshu Augusty](https://github.com/Devanshu-Augusty)
 - [Zachary Murphy](https://github.com/ZacharyJTMurphy)
-- [Raj Agrahari](https://github.com/RajAgrahari)]
+- [Raj Agrahari](https://github.com/RajAgrahari)
 - [Aviprit Shah](https://github.com/programmer765/)
 - [Chavva Narayana Reddy](https://github.com/ChavvaNarayana)
 - [Muhammad Haris](https://github.com/headlessNode)
