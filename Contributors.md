@@ -103,6 +103,7 @@ Ayush Purohit
 - [Anshul Choudhary](https://github.com/Ansh-King)
 - [Grant Growcott](https://github.com/GrantGrowcott)
 - [Matheus Brito](https://github.com/mjc-brito)
+- [Bellsofaba](https://github.com/bellsofaba)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Konark Chandra Kumar](https://github.com/Konark-2ez)
 - [Shubham Lalwani] (https://github.com/Shubham-777-bit)
