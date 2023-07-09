@@ -248,6 +248,7 @@ Athul
 - [Sushant Bhargav](https://github.com/BhargavSushant)ﾃ
 - [Milan Lakhani](https://github.com/milan-lakhani)
 - [Abhinay Pasupuleti](https://github.com/AbhinayPasupuleti)
+- [Jan Carlo Juab](https://github.com/mode-boyo)
   [Manas Anand Singh](https://github.com/MSAndromeda)
 - [Siim Sink](https://github.com/sinkkkk)
 - [Nitesh Saini](https://github.com/nitesh047)
