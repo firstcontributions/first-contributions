@@ -96,6 +96,7 @@
 - [Danish Ali](https://github.com/syedddanishalinaqvi)
 - [Isaiah Swain](https://github.com/imswain)
 - [Mayur Rathod](https://github.com/rmayur777)
+= [Marcio Oliveira](https://github.com/oliveiramarcio)
 - [rentj1](https://github.com/rentj1)
 - [Barathan Ganesh](https://github.com/brthngnsh)
 - [Ilay Eldar](https://github.com/ilayEldar24)
