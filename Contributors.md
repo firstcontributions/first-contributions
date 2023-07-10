@@ -5,6 +5,7 @@ MedicalWealth
 
 <!-- prettier-ignore-start and welcome -->
 
+- [Mayank Rituraj](https://github.com/IamRajMayank)
 - [Divyanshu Dhruv](https://github.com/divyanshudhruv)
 - [Harsh](https://github.com/harshvsri)
 - [Nihal]
