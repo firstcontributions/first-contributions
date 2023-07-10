@@ -74,6 +74,7 @@ Ayush Purohit
 - [Bryan Doan] (https://github.com/JellyfishSpot)
 - [Muhammad Abdullahi](https://github.com/A-u-usman)
 - [Aaron Newbigging](https://github.com/Pastasource)
+- [Bhautik Savaliya](https://github.com/gOgRABgEEK)
 - [Ashish Muley](https://github.com/APMuley)
 - [heinAstonish](https://github.com/heinAstonish)
 - Tayler Schanks
