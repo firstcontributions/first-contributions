@@ -52,6 +52,7 @@ MedicalWealth
 - [Satyam Karn](https://github.com/devCadet1)
 - [Daniël Vos](https://github.com/DanielVos1992)
 - [Zakaria Semlali](https://github.com/zakariasemlali)
+- [Bernard Frimpong](https://github.com/teflon40)
 - [Rakesh Dharshanam]
 Ayush Purohit
 - [Kalluri naveen](https://github.com/kalluri02)
