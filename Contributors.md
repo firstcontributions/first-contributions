@@ -16,6 +16,7 @@ MedicalWealth
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
 - [Divyanshu Pabia](https://github.com/Rekklessss)
 - [Ali Manzer](https://github.com/amanzer)
+- [Cem Enes Karakuş](https://github.com/karakuscem)
 - [Ayush Gupta](https://github.com/Rock-Shell)
 - [Sean Keefe](https://github.com/SeanCKeefe13)
 - [Priyanshu Kumar Sinha](https://github.com/priyanshu9899)
