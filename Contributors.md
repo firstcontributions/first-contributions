@@ -4,7 +4,7 @@ MedicalWealth
 
 
 <!-- prettier-ignore-start and welcome -->
-
+- [Ankita Patil](https://github.com/AnkitaPatil2002)
 - [Divyanshu Dhruv](https://github.com/divyanshudhruv)
 - [Harsh](https://github.com/harshvsri)
 - [Nihal]
