@@ -11,6 +11,7 @@ MedicalWealth
 - [Sagar Shrivastava](https://github.com/learner-sagar)
 - [Samaila](https://github.com/samailamalima)
 - [seung-u](https://github.com/seung-u)
+- [sangu](https://github.com/Sangappakatti-123)
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
 - [Mohan Gowda T](https://github.com/mohangowdatdev)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
