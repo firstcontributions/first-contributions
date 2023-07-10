@@ -24,6 +24,7 @@ MedicalWealth
 - [Abhijeet Yadav](https://github.com/thecodeblood)
 - [Robert Garofalo](https://github.com/robertgarofalo)
 - [Suryansh Srivastava]
+- [Daniele Gh](https://github.com/DanieleGh)
 - [Fernando Adames](https://github.com/FernandoAdames)
 - [Rimma Kubanova](https://github.com/rimma-kubanova)
 - [Kuldip Chaudhary](https://github.com/KMchaudhary)
