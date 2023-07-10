@@ -107,6 +107,7 @@ Ayush Purohit
 - [Ankur](https://github.com/ankurmaity05)
 - [Anshul Choudhary](https://github.com/Ansh-King)
 - [Grant Growcott](https://github.com/GrantGrowcott)
+- [Zainab Khan](https://github.com/ZnbKhan)
 - [Matheus Brito](https://github.com/mjc-brito)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Konark Chandra Kumar](https://github.com/Konark-2ez)
