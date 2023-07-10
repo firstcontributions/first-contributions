@@ -32,6 +32,7 @@ MedicalWealth
 - [Ibeh Mary-Anne](https://github.com/MARYANNE67)
 - [Mandy-cyber](https://github.com/Mandy-cyber)
 - [Abhay Donga](https://github.com/AbhayDonga007)
+- [Priyanka Gupta](https://github.com//priyanka1121)
 - [Seth Zwerling](https://github.com/SZwerling)
   [Vinay Chitade](https://github.com/vcint)
 - [Uday Krishnan](https://github.com/udaykrishnan9302)
