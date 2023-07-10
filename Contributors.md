@@ -30,6 +30,7 @@ MedicalWealth
 - [Viraj Rai](https://github.com/viruop)
 - [Cristian Embleton](https://github.com/C3viche)
 - [Ibeh Mary-Anne](https://github.com/MARYANNE67)
+- [Rane Jatin](https://github.com/Shiba-Tatsuya)
 - [Mandy-cyber](https://github.com/Mandy-cyber)
 - [Abhay Donga](https://github.com/AbhayDonga007)
 - [Seth Zwerling](https://github.com/SZwerling)
