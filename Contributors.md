@@ -6,6 +6,7 @@ MedicalWealth
 <!-- prettier-ignore-start and welcome -->
 
 - [Divyanshu Dhruv](https://github.com/divyanshudhruv)
+- [Talha Altaf](https://github.com/TalhaAltaf2914)
 - [Harsh](https://github.com/harshvsri)
 - [Nihal]
 - [Sagar Shrivastava](https://github.com/learner-sagar)
