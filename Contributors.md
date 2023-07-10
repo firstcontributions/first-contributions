@@ -14,6 +14,7 @@ MedicalWealth
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
 - [Mohan Gowda T](https://github.com/mohangowdatdev)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
+- [Vicky Raghuwanshi](https://github.com/Vicky-Raghuwanshi)
 - [Divyanshu Pabia](https://github.com/Rekklessss)
 - [Ali Manzer](https://github.com/amanzer)
 - [Ayush Gupta](https://github.com/Rock-Shell)
@@ -78,6 +79,7 @@ Ayush Purohit
 - [heinAstonish](https://github.com/heinAstonish)
 - Tayler Schanks
 - [Raymond Mason] (https://github.com/pepsibluefan2)
+
 - [Mansvi Kamble](https://github.com/22MansviK)
 - [Nathanaël V] (https://github.com/nathanael-v)
 - [muntazirgo] (https://github.com/muntazirgo)
