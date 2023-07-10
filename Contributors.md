@@ -584,6 +584,7 @@ Condor Sergiu
 - [Farzan Ekram](https://github.com/farzanekram07)
 - [Mike Tagg](https://github.com/mdtagg)
 - [Haina Weiben](https://github.com/hainaweiben)
+- [Koushik Romel](https://github.com/koushikromel)
 [Mandeep](https://github.com/Mandeep-009)
 [Tasha L](https://github.com/TashaNaps42)
 - [Shivam Kumar Yadav](https://github.com/Thesky9474)
