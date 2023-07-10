@@ -18,6 +18,7 @@ MedicalWealth
 - [Ali Manzer](https://github.com/amanzer)
 - [Ayush Gupta](https://github.com/Rock-Shell)
 - [Sean Keefe](https://github.com/SeanCKeefe13)
+  [Daniyal Imran](https://github.com/Daniyal-Imran09)
 - [Priyanshu Kumar Sinha](https://github.com/priyanshu9899)
 - [Vivek Kumar Shrivastav](https://github.com/Vivek-Kumar-Shrivastav)
 - [Aaryan](https://github.com/Aaryan0484)
