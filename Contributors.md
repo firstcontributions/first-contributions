@@ -25,6 +25,7 @@ MedicalWealth
 - [Robert Garofalo](https://github.com/robertgarofalo)
 - [Suryansh Srivastava]
 - [Fernando Adames](https://github.com/FernandoAdames)
+- [Manuel Albino](https://github.com/bin0o)
 - [Rimma Kubanova](https://github.com/rimma-kubanova)
 - [Kuldip Chaudhary](https://github.com/KMchaudhary)
 - [Viraj Rai](https://github.com/viruop)
