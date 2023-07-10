@@ -188,6 +188,7 @@
 - [Ali Ayed](https://github.com/iTzVoko)
 - [rjk]
 - [Kanak Shakya] (https://github.com/Kanak1125)
+- [Ricky Rick](https://github.com/ravirik)
 - [Ali Aizn](https://github.com/aliaizn)
 -[Iury-Ferreira](https://github.com/Iuggy)
 - [Mohammed Hashim K](https://github.com/mohammed-hashim-k)
