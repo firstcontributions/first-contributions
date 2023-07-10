@@ -5,6 +5,7 @@ MedicalWealth
 
 <!-- prettier-ignore-start and welcome -->
 
+- [Amine Djohar](https://github.com/aminedjohar)
 - [Divyanshu Dhruv](https://github.com/divyanshudhruv)
 - [Harsh](https://github.com/harshvsri)
 - [Nihal]
