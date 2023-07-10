@@ -12,6 +12,7 @@ MedicalWealth
 - [Samaila](https://github.com/samailamalima)
 - [seung-u](https://github.com/seung-u)
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
+- [Mitchyugan](https://github.com/MITCHYUGAN)
 - [Mohan Gowda T](https://github.com/mohangowdatdev)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
 - [Divyanshu Pabia](https://github.com/Rekklessss)
