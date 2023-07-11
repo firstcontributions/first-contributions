@@ -2420,6 +2420,7 @@ Hodaya Rachel
 - [Ian Maestro](https://github.com/itsmaestro)
 - [Song S.X.] (https://github.com/SirSX3)
 - Peter Lustig
+- Minne
 - Ray Li
   Elisheva Isachar
 - [Nissrine Canina](https://github.com/Nissrine-Can)
