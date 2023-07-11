@@ -1105,6 +1105,7 @@
 - [AndreaMontes] (https://github.com/andre83411)
 - [Lazymo](https://github.com/Lazymo-Python)
 - [Blood Pirouette](https://github.com/Blood-Pirouette)
+- [Westini] (https://github.com/Westini)
 - Natasha Mundada
 - Son Thanh Tran
 - Adrien
