@@ -45,7 +45,6 @@
 - [Ibeh Mary-Anne](https://github.com/MARYANNE67)
 - [Mandy-cyber](https://github.com/Mandy-cyber)
 - [Abhay Donga](https://github.com/AbhayDonga007)
-- [Dakouky ElMestapha]
 - [Seth Zwerling](https://github.com/SZwerling)
 - [Namrata Atmaram Utekar](https://github.com/Namratau)
   [Vinay Chitade](https://github.com/vcint)
