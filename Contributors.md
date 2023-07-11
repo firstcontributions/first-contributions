@@ -1226,6 +1226,7 @@ Hodaya Rachel
 - Karthikindex
 - Weverak
 - Crux
+- [Anshul Sinha](https://github.com/anshulshacks)
 - [Mcnores Samuel](https://github.com/Mcnores-Samuel)
 - [Anantha Krishnan T](https://github.com/NikkiLaud4)
 - [JonDm07](https://github.com/JonDm07)
