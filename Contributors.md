@@ -318,6 +318,7 @@ Hodaya Rachel
 - [Elpidio Julian](https://github.com/Elpidio-Julian)
 - [Devojoyti Pal](https://github.com/Devojoytip)
 - [Kuber Acharya](https://github.com/thekubera)
+- [David]
 - [PurpleBored](https://github.com/purplebored)
 - [Jo-pl](https://github.com/Jo-pl)
 - [Adarsh Malviya](https://github.com/adarshmalviy)
