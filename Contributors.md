@@ -2686,6 +2686,7 @@
 - [Rish Naya]
 - [KuanChieh Lien](https://github.com/jazzpujols34)
 - [Rubin Bhandari](https://github.com/rubiin)
+- [Victor Iseli](https://github.com/victoriselianalog)
 - AprilZhou
 - [AIAM2601](https://github.com/AIAM2601)
 - [Md Sifat]
