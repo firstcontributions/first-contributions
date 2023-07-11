@@ -5,6 +5,7 @@ MedicalWealth
 
 <!-- prettier-ignore-start and welcome -->
 
+- [RK Rajkumar](https://github.com/Rkrajkumar1996)
 - [Divyanshu Dhruv](https://github.com/divyanshudhruv)
 - [Harsh](https://github.com/harshvsri)
 - [Nihal]
