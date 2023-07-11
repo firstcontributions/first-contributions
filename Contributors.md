@@ -1586,6 +1586,7 @@ Hodaya Rachel
 - [Shifi Aloni](https://github.com/ShifiAloni)
 - [Sofie Borchgrevink](https://github.com/sofieborchgrevink)
 - [Miri Price](https://github.com/miriprice1)
+- [Stephan Becker](https://github.com/didactylos42)
 - [Karanjot Singh](https://karanjot.vercel.app)
 - [Sachit Khadka](https://github.com/Sachit56/first-contributions)
 - [SHUBHAM PATIDAR](https://www.linkedin.com/in/shubham-patidar-98ba5b148)
