@@ -629,6 +629,7 @@ Hodaya Rachel
 - [Vidhan Tamhankar](https://github.com/vidhan843426)
 - [Leandro Robert](https://github.com/leanrobert)
 - [Adnan Mostafa](https://github.com/AdnanMostafa)
+- [Jiwan Chaudhary](https://github.com/JiwanChaudhary)
 - [Irakoze Yves](https://github.com/irakozetony/)
 - Jagdish Kancharapu
 - Paul Kenyanya Omweri
