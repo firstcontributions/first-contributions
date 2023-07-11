@@ -66,6 +66,7 @@ Hodaya Rachel
 - [Taufik Khan](https://github.com/Taufik041)
 - [Malvika Jadhav](https://github.com/malvikajadhav)
 - [Aram Kazorian](https://github.com/aramk-hub)
+- [Anozie Chibuike](https://github.com/AnozieChibuike)
 - [Akhil Raj](https://github.com/akhil-raj-git)
 - [James Kelly](https://github.com/jkellymi)
 - [Miles Asher](https://github.com/Miles-Asher)
