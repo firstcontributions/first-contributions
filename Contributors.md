@@ -10,6 +10,7 @@ MedicalWealth
 - [Nihal]
 - [Sagar Shrivastava](https://github.com/learner-sagar)
 - [Samaila](https://github.com/samailamalima)
+  [Anirudh Hegde](https://github.com/Camel)
 - [seung-u](https://github.com/seung-u)
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
 - [Mohan Gowda T](https://github.com/mohangowdatdev)
@@ -24,6 +25,7 @@ MedicalWealth
 - [Abhijeet Yadav](https://github.com/thecodeblood)
 - [Robert Garofalo](https://github.com/robertgarofalo)
 - [Suryansh Srivastava]
+- 
 - [Fernando Adames](https://github.com/FernandoAdames)
 - [Rimma Kubanova](https://github.com/rimma-kubanova)
 - [Kuldip Chaudhary](https://github.com/KMchaudhary)
