@@ -9,6 +9,7 @@
 -[Dhairya Sehgal](https://github.com/DhairyaSehgal07)
 - [Samaila](https://github.com/samailamalima)
 - [seung-u](https://github.com/seung-u)
+- [Sergio Zavala](https://github.com/sezavala)
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
 - [Mohan Gowda T](https://github.com/mohangowdatdev)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
