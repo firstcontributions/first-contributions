@@ -512,6 +512,7 @@ Hodaya Rachel
 - [Aurelio Hern ﾃ｡ndez L ﾃｳ pez](https://github.com/hernanes338)
 - [Mushfiqur Rahman](https://github.com/mushfiq13)
 - [colonia_duck](https://github.com/colonia-duck)
+- [Kilo-zolo](https://github.com/Kilo-zolo)
 - [birendra07](https://github.com/birendra07)
 - [Dhruv T]
 - [Thamer](https://github.com/ThamerMalki)
