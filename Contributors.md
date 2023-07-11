@@ -8,6 +8,7 @@ MedicalWealth
 - [Divyanshu Dhruv](https://github.com/divyanshudhruv)
 - [Harsh](https://github.com/harshvsri)
 - [Nihal]
+- [Amit Avramvovich](https://github.com/amitavr)
 - [Sagar Shrivastava](https://github.com/learner-sagar)
 - [Samaila](https://github.com/samailamalima)
 - [seung-u](https://github.com/seung-u)
