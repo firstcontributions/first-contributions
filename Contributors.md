@@ -54,6 +54,7 @@ MedicalWealth
 - [Zakaria Semlali](https://github.com/zakariasemlali)
 - [Rakesh Dharshanam]
 Ayush Purohit
+- [Juan G. Saurith M.](https://github.com/MrZaurik)
 - [Kalluri naveen](https://github.com/kalluri02)
 - [Kondapalli Koyal](https://github.com/kondapalli19)
 -[Darshan A V]
