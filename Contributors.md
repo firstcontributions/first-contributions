@@ -10,7 +10,8 @@ MedicalWealth
 - [Nihal]
 - [Sagar Shrivastava](https://github.com/learner-sagar)
 - [Samaila](https://github.com/samailamalima)
-  [Anirudh Hegde](https://github.com/Anianonymous)
+
+- [Anirudh Hegde](https://github.com/Anianonymous)
 - [seung-u](https://github.com/seung-u)
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
 - [Mohan Gowda T](https://github.com/mohangowdatdev)
