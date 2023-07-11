@@ -54,7 +54,7 @@
 - [Uday Krishnan](https://github.com/udaykrishnan9302)
 - [Shreyash A. Kamble](https://github.com/mrkshreyash)
 - [robinofautumn](https://github.com/robinofautumn)
-Hodaya Rachel
+- Hodaya Rachel
 - [Rushil Kumar](https://github.com/Rushilkr77)
 - [Nikita-Nick Funk](https://github.com/SapphireNick)
 - [Vanessa Meyer](https://github.com/vansvones)
@@ -77,13 +77,11 @@ Hodaya Rachel
 - [Zakaria Semlali](https://github.com/zakariasemlali)
 - [Bernard Frimpong](https://github.com/teflon40)
 - [Rakesh Dharshanam]
-  Ayush Purohit
+   Ayush Purohit
 - [Kalluri naveen](https://github.com/kalluri02)
-
-- [Kondapalli Koyal](https://github.com/kondapalli19) -[Darshan A V]
-- [Miguel Jones](https://github.com/dice43)
 - [Kondapalli Koyal](https://github.com/kondapalli19)
--[Darshan A V]
+- Darshan A V
+- [Miguel Jones](https://github.com/dice43)
 - [Alfredo Carrion](https://github.com/carrionalfredo)
 - [Chaitanya Galla](https://github.com/gallachaitanya)
 - [Samuel Cameron](https://github.com/samca2)
