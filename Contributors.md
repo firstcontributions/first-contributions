@@ -40,6 +40,7 @@
 - [Abhay Donga](https://github.com/AbhayDonga007)
 - [Dakouky ElMestapha]
 - [Seth Zwerling](https://github.com/SZwerling)
+- [Namrata Atmaram Utekar](https://github.com/Namratau)
   [Vinay Chitade](https://github.com/vcint)
 - [jrheronn](https://github.com/jrheronn)
 - [Uday Krishnan](https://github.com/udaykrishnan9302)
