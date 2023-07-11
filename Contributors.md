@@ -2292,6 +2292,7 @@ Hodaya Rachel
 - [Ryan Short](https://github.com/RyanShort13110)
 - [Tiphaine Bertone](https://github.com/Kanda09)
 - [Ryan Wozniak](https://github.com/Ryan9468)
+- [Zselló András](https://github.com/omgzsa)
 - [Vishal Wankhede](https://github.com/vishalwankhede44)
 - [Mrigankar Sonowal](https://github.com/Mrigankar1134)
 - [Gemini Powell](https://github.com/GemAfaWell)
