@@ -10,7 +10,8 @@
 - [Hassan Kazeem]
 - [Sean Crumley](https://github.com/907VigiL)
 - [Sagar Shrivastava](https://github.com/learner-sagar)
--[Dhairya Sehgal](https://github.com/DhairyaSehgal07)
+- [Dhairya Sehgal](https://github.com/DhairyaSehgal07)
+- [AndyS](https://github.com/AndyS-first)
 - [Samaila](https://github.com/samailamalima)
 - [Anirudh Hegde](https://github.com/Anianonymous)
 - [seung-u](https://github.com/seung-u)
