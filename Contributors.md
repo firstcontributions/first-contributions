@@ -64,6 +64,7 @@ Hodaya Rachel
 - [Samuel Njoroge](https://github.com/Samuel-Njoroge)
 - [Nandha Kumar](https://github.com/tnrock)
 - [Taufik Khan](https://github.com/Taufik041)
+- [Malvika Jadhav](https://github.com/malvikajadhav)
 - [Aram Kazorian](https://github.com/aramk-hub)
 - [Akhil Raj](https://github.com/akhil-raj-git)
 - [James Kelly](https://github.com/jkellymi)
