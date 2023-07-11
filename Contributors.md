@@ -55,6 +55,7 @@ MedicalWealth
 - [Rakesh Dharshanam]
 Ayush Purohit
 - [Kalluri naveen](https://github.com/kalluri02)
+- [Miguel Jones](https://github.com/dice43)
 - [Kondapalli Koyal](https://github.com/kondapalli19)
 -[Darshan A V]
 - [Alfredo Carrion](https://github.com/carrionalfredo)
