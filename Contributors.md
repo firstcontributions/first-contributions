@@ -6,6 +6,7 @@ MedicalWealth
 <!-- prettier-ignore-start and welcome -->
 
 - [Divyanshu Dhruv](https://github.com/divyanshudhruv)
+  [Uchenna Adubasim](https://github.com/uche-wealth)
 - [Harsh](https://github.com/harshvsri)
 - [Nihal]
 - [Sagar Shrivastava](https://github.com/learner-sagar)
