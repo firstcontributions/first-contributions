@@ -79,6 +79,7 @@ Hodaya Rachel
 - [Ambroise Ngayinoko](https://github.com/Ambro19)
 - [Pradyumna Hegde](https://github.com/pradyumna-ph)
 - [Widdershins](https://github.com/Widdershins89)
+- [Sam Bishara](https://github.com/sammybishara)
 - [Dagmawi Yohannes](https://github.com/Dagmawi-Y)
 - [Sohail khan](https://github.com/sohail700)
 - [Atul kumar](https://github.com/atul262002)
