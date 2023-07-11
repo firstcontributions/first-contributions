@@ -1436,6 +1436,7 @@ Hodaya Rachel
 - [Adrian M.](https://github.com/MrPota2)
 - [Piyush Raviraj](https://github.com/Piyushraviraj2611)
 - [Dwayne Gibbs](https://dwaynegibbs.net)
+- [Madeline Hart](https://github.com/maddylessthanthree)
 - [Angel Velasquez](https://github.com/angel-721)
 - [Funkey](https://github.com/funkey-126)
 - [sayik](Says Hello world!)
