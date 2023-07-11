@@ -307,6 +307,7 @@ Hodaya Rachel
 - [Ernest Mucheru] (https://github.com/ernestmucheru)
 - [rjk]
 - [Daniela Basurto](https://github.com/daniela-basurto)
+- [Raju Bepary](https://github.com/rajubeparybd)
 - [Kanak Shakya] (https://github.com/Kanak1125)
 - [Ricky Rick](https://github.com/ravirik)
 - [Ali Aizn](https://github.com/aliaizn)
