@@ -2636,6 +2636,7 @@ Hodaya Rachel
 - Buggy
 - Tara
 - kritika singh
+- [biyam](https://github.com/biyamn)
 - [Jeff Loop](https://github.com/jefferyloop)
 - [Simone Coslovich](https://github.com/simo2712)
 - [John M ﾃｶ ller](https://github.com/fyradur)
