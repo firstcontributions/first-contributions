@@ -26,6 +26,7 @@
 - [Sean Keefe](https://github.com/SeanCKeefe13)
 - [roynov01](https://github.com/roynov01)
 - [Priyanshu Kumar Sinha](https://github.com/priyanshu9899)
+- [Anthony Chang](https://github.com/sprezzarete)
 - [Vivek Kumar Shrivastav](https://github.com/Vivek-Kumar-Shrivastav)
 - [Aaryan](https://github.com/Aaryan0484)
 - [Abhijeet Yadav](https://github.com/thecodeblood)
