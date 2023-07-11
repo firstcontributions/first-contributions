@@ -104,6 +104,7 @@ Hodaya Rachel
 - [Ashish Muley](https://github.com/APMuley)
 - [Mahdi Akbar](https://github.com/MrTbag)
 - [heinAstonish](https://github.com/heinAstonish)
+- [Mohamad Kazemiraz](https://github.com/mkazemiraz)
 - Tayler Schanks
 - [Shiv Kumar Choudhary] (https://github.com/chshiv)
 - [Raymond Mason] (https://github.com/pepsibluefan2)
