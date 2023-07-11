@@ -1519,6 +1519,7 @@ Hodaya Rachel
 - [wajih24](https://github.com/Wajih24)
 - [John Finley](https://github.com/jfinley6)
 - [Shivansh Guleria](https://github.com/ShivanshGuleria)
+- [Pranav Bawgikar](https://github.com/PranavBawgikar)
 - [Swaraj](https://github.com/swarajzz)
 - [Aleister Satkuna](https://github.com/Satku0)
 - [Merabtene Islam](https://github.com/merabtenei)
