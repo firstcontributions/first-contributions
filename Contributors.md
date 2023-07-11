@@ -87,6 +87,7 @@ Hodaya Rachel
 - [Khushi](https://github.com/KhushiP098)
 - [Ambroise Ngayinoko](https://github.com/Ambro19)
 - [Pradyumna Hegde](https://github.com/pradyumna-ph)
+- [Sanjay Karthic](https://github.com/Leon-Skar)
 - [Widdershins](https://github.com/Widdershins89)
 - [Sam Bishara](https://github.com/sammybishara)
 - [Dagmawi Yohannes](https://github.com/Dagmawi-Y)
