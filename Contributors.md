@@ -2469,6 +2469,7 @@ Hodaya Rachel
 - [Suhas Sumukh](https://github.com/suhasasumukh)
 - [Murilo Moraes Cabral](https://github.com/murilomcabral)
 - [Rudi O&#39;Kelly](https://github.com/Die-Meester)
+- [Razmelon](https://github.com/razmelon)
 - [Ricardo Mello](https://github.com/ricardohsmello)
 - [mohammadamin16](https://github.com/mohammadamin16)
 - [Rezaye Rabbi](https://github.com/rzrabbi)
