@@ -8,8 +8,8 @@ MedicalWealth
 - [Divyanshu Dhruv](https://github.com/divyanshudhruv)
 - [Harsh](https://github.com/harshvsri)
 - [Nihal]
-  [Howie](https://github.com/githubhow)
 - [Sagar Shrivastava](https://github.com/learner-sagar)
+- [Howie](https://github.com/githubhow)
 - [Samaila](https://github.com/samailamalima)
 - [seung-u](https://github.com/seung-u)
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
