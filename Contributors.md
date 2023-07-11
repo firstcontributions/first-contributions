@@ -304,6 +304,7 @@ Hodaya Rachel
 - Tamanna
   Erupothu Venkatakishor
 - [Hassan Mahamat Djidda](https://github.com/hassan-djidda/)
+- [Nathan Russell](https://github.com/NathanRRussell)
 - Rahul-Sharing
   [Craigehton](https://github.com/craigehton)
   CompDu
