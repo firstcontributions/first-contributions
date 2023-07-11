@@ -5,6 +5,7 @@ MedicalWealth
 
 <!-- prettier-ignore-start and welcome -->
 
+- [Hasan Emre Avarisli](https://github.com/emreavarisli)
 - [Divyanshu Dhruv](https://github.com/divyanshudhruv)
 - [Harsh](https://github.com/harshvsri)
 - [Nihal]
