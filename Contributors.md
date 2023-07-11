@@ -95,6 +95,7 @@ Hodaya Rachel
 - [Muhammad Abdullahi](https://github.com/A-u-usman)
 - [Aaron Newbigging](https://github.com/Pastasource)
 - [Ashish Muley](https://github.com/APMuley)
+- [Mahdi Akbar](https://github.com/MrTbag)
 - [heinAstonish](https://github.com/heinAstonish)
 - Tayler Schanks
 - [Shiv Kumar Choudhary] (https://github.com/chshiv)
