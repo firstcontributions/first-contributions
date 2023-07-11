@@ -1465,6 +1465,7 @@ Hodaya Rachel
 - [Shreyash Gupta](https://github.com/shreyash2610)
 - [Manish Kumar](https://github.com/Manish-kumar-DEV)
 - [Nora Aguirre](https://github.com/nora-programadora)
+- [Kwesi Danquah](https://github.com/kwescon1)
 - [Nay Myo Min](https://github.com/NayMyoMin)
 - [Vijay Aadhithya](https://github.com/vijayaadhithya2019rit)
 - [Kelvin Favarin](https://github.com/kelvinamaral)
