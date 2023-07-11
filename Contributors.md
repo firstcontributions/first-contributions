@@ -34,6 +34,7 @@
 - [Abhay Donga](https://github.com/AbhayDonga007)
 - [Seth Zwerling](https://github.com/SZwerling)
   [Vinay Chitade](https://github.com/vcint)
+- [jrheronn](https://github.com/jrheronn)
 - [Uday Krishnan](https://github.com/udaykrishnan9302)
 - [Shreyash A. Kamble](https://github.com/mrkshreyash)
 - [robinofautumn](https://github.com/robinofautumn)
