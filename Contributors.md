@@ -177,6 +177,7 @@ Hodaya Rachel
 - [Vedang](https://github.com/vedang685)
 - [Sanjay](https://github.com/sadhu-sanjay)
 - [kekeneit](https://github.com/kekeneit)
+- [Simon Yuen] (https://github.com/syuen23)
 - [Ismail Chikh Boubekeur](https://github.com/esmo-ts)
 - [Adhiraj Kar](https://github.com/adhirajkar3103)
 - [AlexEG](https://github.com/AlexEG)
