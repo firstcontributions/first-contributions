@@ -6,6 +6,7 @@
 - [Harsh](https://github.com/harshvsri)
 - [Nihal]
 - [Sagar Shrivastava](https://github.com/learner-sagar)
+-[Dhairya Sehgal](https://github.com/DhairyaSehgal07)
 - [Samaila](https://github.com/samailamalima)
 - [seung-u](https://github.com/seung-u)
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
