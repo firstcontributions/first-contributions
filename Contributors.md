@@ -1,5 +1,3 @@
-MedicalWealth
-
 # Contributors
 
 <!-- prettier-ignore-start and welcome -->
