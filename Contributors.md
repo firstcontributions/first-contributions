@@ -5,6 +5,7 @@
 - [Divyanshu Dhruv](https://github.com/divyanshudhruv)
 - [Harsh](https://github.com/harshvsri)
 - [Nihal]
+- [Hassan Kazeem]
 - [Sagar Shrivastava](https://github.com/learner-sagar)
 -[Dhairya Sehgal](https://github.com/DhairyaSehgal07)
 - [Samaila](https://github.com/samailamalima)
