@@ -2565,6 +2565,7 @@ MedicalWealth
 - [swarup_E7](https://github.com/swarupe7)
 - [Lasse_Buch](https://github.com/LasseBuchAspIT)
 - [justforfun](https://github.com/justforfun0906)
+- [prolenodev](https://github.com/prolenodev)
 - <!-- prettier-ignore-end -->
 - [Naveen Avula](https://github.com/Avula-Naveen)
 - [Sameer Kumar singh](https://github.com/xvisierra)
