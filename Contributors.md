@@ -2749,3 +2749,4 @@ Hodaya Rachel
 - [Qin Xun](https://github.com/lvchenjia)
 - [Sadim Mali](https://github.com/im-sad-im)
 - [Themms](https://github.com/themm-s)
+- [Gal Fudim](https://github.com/galfudim)
