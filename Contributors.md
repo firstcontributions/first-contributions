@@ -86,6 +86,7 @@
 - [Ashish Muley](https://github.com/APMuley)
 - [heinAstonish](https://github.com/heinAstonish)
 - Tayler Schanks
+- [Shiv Kumar Choudhary] (https://github.com/chshiv)
 - [Raymond Mason] (https://github.com/pepsibluefan2)
 - [Mansvi Kamble](https://github.com/22MansviK)
 - [Nathanaël V] (https://github.com/nathanael-v)
