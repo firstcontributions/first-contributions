@@ -2549,6 +2549,7 @@ Hodaya Rachel
 - [Heo Seungjin](https://github.com/peter-sjheo)
 - [Win Aoyama](https://github.com/aoyama-codes)
 - [Sunil S. Singh](https://github.com/sssingh)
+- [Fevin Patel] (https://github.com/fev1n)
 - [Orion Wesson] (https://github.com/EnterOrion)
 - [San-ctuary](https://github.com/San-ctuary)
 - [Thiago Fukuyama Marcilli](https://github.com/ThiagoFukuyama) -[Ayush Tibrewal](https://github.com/chromo4)
