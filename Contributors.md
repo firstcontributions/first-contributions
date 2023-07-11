@@ -36,6 +36,7 @@
 - [Shreyash A. Kamble](https://github.com/mrkshreyash)
 - [robinofautumn](https://github.com/robinofautumn)
 - [Rushil Kumar](https://github.com/Rushilkr77)
+- [Nikita-Nick Funk](https://github.com/SapphireNick)
 - [Vanessa Meyer](https://github.com/vansvones)
 - [Ahmed Fatthi](https://github.com/AhmedFatthy1040)
 - [Guido Xenpfonte](https://github.com/guidoxenofonte2005)
