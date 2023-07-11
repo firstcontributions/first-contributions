@@ -261,6 +261,7 @@ Athul
 - [Anuj Pathak] (https://github.com/theanujpathak)
 - [Mayank Gautam]
 - [Mister-Raggs](https://github.com/Mister-Raggs/)
+- [Aakash-Koirala](https://github.com/aakashkoirala17)
 - Tamanna
 Erupothu Venkatakishor
 - [Hassan Mahamat Djidda](https://github.com/hassan-djidda/)
