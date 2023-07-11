@@ -298,6 +298,7 @@
 - [rjk]
 - [Daniela Basurto](https://github.com/daniela-basurto)
 - [Kanak Shakya] (https://github.com/Kanak1125)
+- [Ricky Rick](https://github.com/ravirik)
 - [Ali Aizn](https://github.com/aliaizn)
 - [Jaeyy166](https://github.com/Jaeyy166) -[Iury-Ferreira](https://github.com/Iuggy)
 - [Mohammed Hashim K](https://github.com/mohammed-hashim-k)
