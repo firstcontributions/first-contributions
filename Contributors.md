@@ -1804,6 +1804,7 @@ Hodaya Rachel
 - [Stiliyan Stoyanov](https://github.com/StiliyanStoyanov)
 - [Ryo Muta](https://github.com/r-mutax)
 - [Niki](https://github.com/viwre)
+- [Bernard Bay](https://github.com/cdnia)
 - [Vignesh R](https://github.com/rv97)
 - [Murilo Barbosa](https://github.com/murilodab)
 - [Laura Clark](https://github.com/lcmaximum)
