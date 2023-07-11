@@ -2131,6 +2131,7 @@ Hodaya Rachel
 - [Justin Settle](https://github.com/justin-settle)
 - [Yuri Petrillo](https://github.com/yuripetrillo)
 - [Shreyash Kakde](https://github.com/Shreyashkakde1/)
+- [Gerardo Zenteno](https://github.com/GerardoBZentenoM)
 - [Anukul Pandey](https://github.com/anukulpandey)
 - [Julia Lopes](https://github.com/lrjulia)
 - [Kushal Lahoti](https://github.com/kushalnl7)
