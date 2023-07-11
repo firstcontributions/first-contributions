@@ -7,11 +7,12 @@ MedicalWealth
 
 - [Divyanshu Dhruv](https://github.com/divyanshudhruv)
 - [Harsh](https://github.com/harshvsri)
+
 - [Nihal]
 - [Sagar Shrivastava](https://github.com/learner-sagar)
 - [Samaila](https://github.com/samailamalima)
 - [seung-u](https://github.com/seung-u)
-- [Marci Prescott] (https://github.com/marciprescott)
+- [Marci Prescott] (https:github.com/marciprescott)
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
 - [Mohan Gowda T](https://github.com/mohangowdatdev)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
