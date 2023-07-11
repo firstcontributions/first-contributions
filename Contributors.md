@@ -1844,6 +1844,7 @@
 - [Saurabh Kurve](https://github.com/saurabhkurve)
 - [Evgeny Cheryomushkin](https://github.com/evgenycheryomushkin)
 - [Benny Tso](https://github.com/bennytso88)
+- [Varun Gole](https://github.com/MarcusAurelius29)
 - [rabcore](https://github.com/rabcore)
 - [Tom Magnus Petersen](https://github.com/vedrfoelnir)
 - [Jonas Engstr ﾃｶ m](https://github.com/takirami)
