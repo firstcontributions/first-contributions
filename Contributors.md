@@ -955,7 +955,7 @@ MedicalWealth
 - [Adrian Calleja](https://github.com/adrii0113)
 - [Jon Sundin](https://github.com/jmsundin)
 - [Rose Rousseau](https://github.com/MapleRose))
-- [Juan Aviles](https://github.com/Juan11211))
+- [Juan Aviles](https://github.com/Juan11211)
 - Ashutosh Pandey
 - [Fathi Abdi](https://github.com/Fathyy)
 - Oliver Warne
