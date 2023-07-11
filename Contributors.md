@@ -42,6 +42,7 @@ MedicalWealth
 - [Ahmed Fatthi](https://github.com/AhmedFatthy1040)
 - [Guido Xenpfonte](https://github.com/guidoxenofonte2005)
 - [NobiteK](https://github.com/NobiteK)
+- [Baraa Sayed](https://github.com/baraaashraf)
 - [Samuel Njoroge](https://github.com/Samuel-Njoroge)
 - [Nandha Kumar](https://github.com/tnrock)
 - [Taufik Khan](https://github.com/Taufik041)
