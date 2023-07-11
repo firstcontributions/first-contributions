@@ -292,6 +292,7 @@ Hodaya Rachel
 - [Hassan Mahamat Djidda](https://github.com/hassan-djidda/)
 - Rahul-Sharing
   [Craigehton](https://github.com/craigehton)
+  CompDu
 - [Tyler Lowe](https://github.com/TylerRLowe)
 - [Serhat Sarı](https://github.com/Serhat-Sari)
 - [Nikita Aleksandrov](https://github.com/AleksandrovDev)
