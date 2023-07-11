@@ -1450,6 +1450,7 @@ Hodaya Rachel
 - [Andrei Psait](https://github.com/psaitandrei)
 - [Helix68](https://github.com/Helix68)
 - [NoteWaala](https://notewaala.com)
+- [Nenad Marković](https://github.com/nenadmark)
 - [Joshua Knorz](https://github.com/JoshKn)
 - [Max Sestero](https://github.com/msestero)
 - [Tri Pham](https://github.com/TriMPham98)
