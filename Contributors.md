@@ -29,6 +29,7 @@
 - [Vivek Kumar Shrivastav](https://github.com/Vivek-Kumar-Shrivastav)
 - [Aaryan](https://github.com/Aaryan0484)
 - [Abhijeet Yadav](https://github.com/thecodeblood)
+- [A_Solo](https://github.com/ASolooo)
 - [Robert Garofalo](https://github.com/robertgarofalo)
 - [Suryansh Srivastava]
 - [Ali Shaharyar](https://github.com/ColSherwood)
