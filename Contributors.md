@@ -51,6 +51,7 @@ Hodaya Rachel
 - [Rushil Kumar](https://github.com/Rushilkr77)
 - [Nikita-Nick Funk](https://github.com/SapphireNick)
 - [Vanessa Meyer](https://github.com/vansvones)
+- [Matthew Garry] (https://github.com/mhgarry)
 - [Ahmed Fatthi](https://github.com/AhmedFatthy1040)
 - [Guido Xenpfonte](https://github.com/guidoxenofonte2005)
 - [NobiteK](https://github.com/NobiteK)
@@ -262,7 +263,7 @@ Hodaya Rachel
 - [Rukhjam](https://github.com/rukhjam)
 - [Mandeep Singhmar](https://github.com/Mandeepsinghmar)
 - Sandeep kumar
-- [Elizabeth Czarny](https://github.com/Elizabeth-Cz)
+- [Elizabeth Czarny](https://github.com/Elizabeth-Cz)git@github.com:mhgarry/first-contributions.git
 - Harsha Paladugu
 - [Nibraz Rehaman](https://github.com/nibrazrehaman)
 - [Zenith Anthony](https://github.com/Zenith1997)
