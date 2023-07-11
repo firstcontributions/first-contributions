@@ -185,7 +185,7 @@ Athul
 - [Shubham Tamrakar](https://github.com/shubham-tam)
 - [Disha Vig](https://github.com/vigdisha)
 - [Omi](https://github.com/NormTurtle)
-- [Vinay Choudhary](https://github.com/compiler-king)
+- [ElMestapha Dakouky](https://github.com/elm-dak)
 - [Samuel Osho](https://github.com/samthatcode)
 - [Charan Sai Pothabattula](https://github.com/charansaics)
 - [Stefano 128423](https://github.com/128423)
