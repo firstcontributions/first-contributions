@@ -346,6 +346,7 @@ Hodaya Rachel
 - [Charles Freeborn](https://twitter.com/charliecodes)
 - [Pranita Dane](https://github.com/pranita28Dane)
 - [Nate McKenzie](https://github.com/NateMcKenzie)
+- [Moritz Rose](https://github.com/moritzrose)
 - [Hastimal Shah](https://github.com/hasti)
 - [Rohan Fulzele](https://github.com/Rohanfulzele)
 - [Taurai Mutimutema](https://github.com/rusiqe)
