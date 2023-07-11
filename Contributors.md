@@ -2644,6 +2644,7 @@ Hodaya Rachel
 - [Alex Bzdel](https://github.com/abzdel)
 - [Georges Del Favero](https://github.com/gdelfavero)
 - [Gilr]
+- [Rajendra Aurelius Ritmanto](https://github.com/raoulius)
 - [Hari Kiran](https://github.com/harikirank)
 - [Bittu Benny](https://github.com/greyfox411)
 - [Tanmay Mathpal](https:/github.com/l3002)
