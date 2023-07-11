@@ -4,6 +4,7 @@
 - [Ankita Patil](https://github.com/AnkitaPatil2002)
 - [Divyanshu Dhruv](https://github.com/divyanshudhruv)
 - [Harsh](https://github.com/harshvsri)
+- [Shreyas](https://github.com/Shreyas4256)
 - [Nihal]
 - [Hassan Kazeem]
 - [Sagar Shrivastava](https://github.com/learner-sagar)
