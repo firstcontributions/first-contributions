@@ -202,6 +202,7 @@ Hodaya Rachel
 - [Vansh Rai Saini](https://github.com/vanshraisaini) -[Sugam Goel](https://github.com/Sugamgoel28)
 - [Damoon Darvishi](https://github.com/DamoonDarvishi)
 - [Shubham Tamrakar](https://github.com/shubham-tam)
+- [Aditya Dhanraj](https://github.com/shidozimenoshi)
 - [Disha Vig](https://github.com/vigdisha)
 - [Omi](https://github.com/NormTurtle)
 - [Vinay Choudhary](https://github.com/compiler-king)
