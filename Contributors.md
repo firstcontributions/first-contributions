@@ -45,6 +45,7 @@
 - [Uday Krishnan](https://github.com/udaykrishnan9302)
 - [Shreyash A. Kamble](https://github.com/mrkshreyash)
 - [robinofautumn](https://github.com/robinofautumn)
+Hodaya Rachel
 - [Rushil Kumar](https://github.com/Rushilkr77)
 - [Nikita-Nick Funk](https://github.com/SapphireNick)
 - [Vanessa Meyer](https://github.com/vansvones)
