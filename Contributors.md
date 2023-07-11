@@ -8,6 +8,7 @@
 - [Shreyas](https://github.com/Shreyas4256)
 - [Nihal]
 - [Hassan Kazeem]
+- [Sean Crumley](https://github.com/907VigiL)
 - [Sagar Shrivastava](https://github.com/learner-sagar)
 -[Dhairya Sehgal](https://github.com/DhairyaSehgal07)
 - [Samaila](https://github.com/samailamalima)
