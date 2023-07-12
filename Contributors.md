@@ -3,7 +3,7 @@
 <!-- prettier-ignore-start and welcome -->
 - [Ankita Patil](https://github.com/AnkitaPatil2002)
 - [Divyanshu Dhruv](https://github.com/divyanshudhruv)
-- fyfgvgvg
+- fyfgv
 - [Sean Crumley](https://github.com/907VigiL)
 - [Sagar Shrivastava](https://github.com/learner-sagar)
 - [Dhairya Sehgal](https://github.com/DhairyaSehgal07)
