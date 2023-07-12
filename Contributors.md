@@ -6,7 +6,7 @@
   [Uchenna Adubasim](https://github.com/uche-wealth)
 - [Harsh](https://github.com/harshvsri)
 - [Shreyas](https://github.com/Shreyas4256)
-- [Nihal]
+- [Nihal]df
 - [Iman] (https://github.com/iman2153)
 - [Hassan Kazeem]
 - [Sean Crumley](https://github.com/907VigiL)
