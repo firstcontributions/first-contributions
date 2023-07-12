@@ -1,5 +1,7 @@
 <!-- prettier-ignore-start and welcome -->
-  here are : 
+
+here are :
+
 - [Niko Hoffrén](https://github.com/nikohoffren)
 - [Shivam Puri](https://github.com/shivm29)
 - [Ankita Patil](https://github.com/AnkitaPatil2002)
@@ -85,7 +87,8 @@
 - [Rakesh Dharshanam]
 - [kiran date] (https://github.com/kirandate)
 
-   Ayush Purohit
+  Ayush Purohit
+
 - [Kalluri naveen](https://github.com/kalluri02)
 - [Anshul Kushwaha](https://github.com/sudo-anshul)
 - [Kondapalli Koyal](https://github.com/kondapalli19)
@@ -382,7 +385,7 @@
 - [Akhtar Khan Ak](https://github.com/itzAk27)
 - [Adewale Kujore](https://github.com/Adewale66)
 - [Andrei Goldin](https://github.com/AndreiGoldin)
-[Kailer Delgado](https://github.com/kailerdelgado)
+  [Kailer Delgado](https://github.com/kailerdelgado)
 - [Sahil Chugh](https://github.com/sahil-1109)
 - [Andre Chua](https://github.com/andrechuakj)
 - [Andrew Koning](https://github.com/drew-koning)
@@ -1174,7 +1177,7 @@
 - [Andrew Lamichhane](https://github.com/Andrew-LC)
 - [Ruphaa Ganesan](https://github.com/ruphaa)
 - Pulkit
--Avital Yair
+  -Avital Yair
 - [Dyomanjaro](https://github.com/Dyomanjaro)
 - [ANKIT VISHWAKARMA](https://github.com/ankitxcoding)
 - [unpluggedsam](https://github.com/unpluggedsam)
@@ -2456,7 +2459,7 @@
 - [temidayo omoyajowo](https://github.com/temideewan)
 - [Harold Song](https://github.com/swyhrld)
 - [foliage21](https://github.com/foliage21)
-- [alkas](https://github.com/exalkas "software engineer")
+- [alkas](https://github.com/exalkas 'software engineer')
 - [Arun Kumar Marndi](https://github.com/arunkumarmarndi)
 - [Zullu Balti](https://github.com/ZulluBalti)
 - [Jordan Flanagan](https://github.com/jflaney23)
@@ -2739,8 +2742,7 @@
 - [Ahnaf Al Islam](https://github.com/maskedhyphttps://github.com/SayantanBar/first-contributions.gitocrite)
 - [Gordon Ling]
 
-- [Kareem Ramadan](https://github.com/KareemElshafee)
--[rajat](https://github.com/rajatrokde)
+- [Kareem Ramadan](https://github.com/KareemElshafee) -[rajat](https://github.com/rajatrokde)
 
 - [Kareem Ramadan](https://github.com/KareemElshafee) -[rajat](https://github.com/rajatrokde)
 
@@ -2788,5 +2790,4 @@
 - [Faheem Mushtaq](https://github.com/FaheemOnHub)
 - [Rumi Prabhakar](https://github.com/Rumi-Prabhakar)
 - [satish choudhary](https://github.com/python-hacked)
-
-
+- [Rumi Kamioka](https://github.com/rk-kc)
