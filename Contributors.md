@@ -81,6 +81,7 @@
 - [Zakaria Semlali](https://github.com/zakariasemlali)
 - [Bernard Frimpong](https://github.com/teflon40)
 - [Rakesh Dharshanam]
+- [kiran date] (https://github.com/kirandate)
 
    Ayush Purohit
 - [Kalluri naveen](https://github.com/kalluri02)
