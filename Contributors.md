@@ -14,6 +14,7 @@ Here are :
   [Uchenna Adubasim](https://github.com/uche-wealth)
 - [Harsh](https://github.com/harshvsri)
 - [Shreyas](https://github.com/Shreyas4256)
+- [Eduardo Montano](https://github.com/edulol-1)
 - [Nihal]
 - [Keerthi Nannepamula](https://github.com/keerthinannepamula7)
 - [Iman] (https://github.com/iman2153)
