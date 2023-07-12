@@ -3,11 +3,7 @@
 <!-- prettier-ignore-start and welcome -->
 - [Ankita Patil](https://github.com/AnkitaPatil2002)
 - [Divyanshu Dhruv](https://github.com/divyanshudhruv)
-  [Uchenna Adubasim](https://github.com/uche-wealth)
-- [Harsh](https://github.com/harshvsri)
-- [Shreyas](https://github.com/Shreyas4256)
-- [Nihal]
-- [Hassan Kazeem]
+- testign with merger conflict
 - [Sean Crumley](https://github.com/907VigiL)
 - [Sagar Shrivastava](https://github.com/learner-sagar)
 - [Dhairya Sehgal](https://github.com/DhairyaSehgal07)
