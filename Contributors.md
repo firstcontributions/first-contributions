@@ -1,10 +1,14 @@
 <!-- prettier-ignore-start and welcome -->
+
+- [Niko Hoffrén](https://github.com/nikohoffren)
+- [Shivam Puri](https://github.com/shivm29)
 - [Ankita Patil](https://github.com/AnkitaPatil2002)
 - [Divyanshu Dhruv](https://github.com/divyanshudhruv)
   [Uchenna Adubasim](https://github.com/uche-wealth)
 - [Harsh](https://github.com/harshvsri)
 - [Shreyas](https://github.com/Shreyas4256)
 - [Nihal]
+- [Keerthi Nannepamula](https://github.com/keerthinannepamula7)
 - [Iman] (https://github.com/iman2153)
 - [Hassan Kazeem]
 - [Sean Crumley](https://github.com/907VigiL)
@@ -411,6 +415,7 @@
 - [Anupam Chauhan](https://github.com/MLAI405)
 - [Prachi Chauhan](https://github.com/PrachiChauhan23)
 - [Zee](https://github.com/zoptimizer)
+- [TunedayCodes](https://github.com/TunedayCodes)
 - [AF](https://github.com/affiasco)
 - [Nazianzenov](https://github.com/Nazianzenov)
 - [mxk devops](https://github.com/mxkdevops)
@@ -842,7 +847,7 @@
 - [Maria Aurellia](https://github.com/mariaadannies)
 - [Sahood cv](https://github.com/sahoodcode)
 - [Lorelei Kelly](https://github.com/loleik)
-- [jeremy](https://github.com/JheremeiArciaga)
+
 - [Ajay Rajput](https://github.com/AjaysingRajput)
 - [It&#39;s Meghanath again](https://github.com/meghanath852)
 - [Yiheng Chen](https://github.com/yi-heng-chen)
@@ -2689,6 +2694,7 @@
 - [Lasse_Buch](https://github.com/LasseBuchAspIT)
 - [justforfun](https://github.com/justforfun0906)
 - [prolenodev](https://github.com/prolenodev)
+
 - <!-- prettier-ignore-end -->
 - [Naveen Avula](https://github.com/Avula-Naveen)
 - [Sameer Kumar singh](https://github.com/xvisierra)
@@ -2726,6 +2732,9 @@
 - [Igweonu Ebuka](https://github.com/EbukaTheDeveloper)
 - [Ahnaf Al Islam](https://github.com/maskedhyphttps://github.com/SayantanBar/first-contributions.gitocrite)
 - [Gordon Ling]
+
+- [Kareem Ramadan](https://github.com/KareemElshafee)
+-[rajat](https://github.com/rajatrokde)
 
 - [Kareem Ramadan](https://github.com/KareemElshafee) -[rajat](https://github.com/rajatrokde)
 
@@ -2767,4 +2776,8 @@
 - [Qin Xun](https://github.com/lvchenjia)
 - [Sadim Mali](https://github.com/im-sad-im)
 - [Themms](https://github.com/themm-s)
+
 - [Nafi Rashid Rahim](https://github.com/NafiRahim)
+- [Kayson](https://github.com/Kayson896)
+- [Faheem Mushtaq](https://github.com/FaheemOnHub)
+
