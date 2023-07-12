@@ -174,6 +174,7 @@ here are :
 - [Anadu Godwin](https://github.com/AnaduCG)
 - [Milo Bauman] (https://github.com/mjearlb)
 - [Josh88x] (https://github.com/Josh88x)
+- [NewProgrammerAI] (https://github.com/NewProgrammerAI)
 - [Carlos Rodriguez] (https://github.com/cr2551)
 - [Amir Hashemi](https://github.com/seyyeddev)
 - [Yasitha Gamage](https://github.com/Yasithalalanga)
