@@ -15,6 +15,7 @@ here are :
 - [Hassan Kazeem]
 - [Sean Crumley](https://github.com/907VigiL)
 - [Sagar Shrivastava](https://github.com/learner-sagar)
+- [Usman Elahi](https://github.com/usmanelahi)
 - [Dhairya Sehgal](https://github.com/DhairyaSehgal07)
 - [AndyS](https://github.com/AndyS-first)
 - [Samaila](https://github.com/samailamalima)
