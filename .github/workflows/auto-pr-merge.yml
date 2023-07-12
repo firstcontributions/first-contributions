@@ -135,9 +135,9 @@ jobs:
               // Handle specific error cases based on status code
               if (error.status === 405 && error.response.data.message === "Pull Request is not mergeable") {
 
-                errMsg = `Hello @${context.payload.pull_request.user.login}, thank you for your pull request. We appreciate your contribution to the project. However, before we can merge it, there is a merge conflict with the target branch.
-                No worries! You can follow [this guide](https://github.com/firstcontributions/first-contributions/blob/main/additional-material/git_workflow_scenarios/resolving-merge-conflicts.md) on resolving merge conflicts.
-                Once you've fixed the conflicts and pushed your changes, the repository will check the changes you made and proceed with the merge if everything looks good.
+                errMsg = `Hello @${context.payload.pull_request.user.login}, thank you for your pull request. We appreciate your contribution to the project. However, before we can merge it, there is a merge conflict with the target branch. \n
+                No worries! You can follow [this guide](https://github.com/firstcontributions/first-contributions/blob/main/additional-material/git_workflow_scenarios/resolving-merge-conflicts.md) on resolving merge conflicts. 
+                Once you've fixed the conflicts and pushed your changes, the repository will check the changes you made and proceed with the merge if everything looks good. \n
                 If you have any questions or need further assistance, don't hesitate to reach out. We're here to help!`
 
               } else if (error.status === 409) {
