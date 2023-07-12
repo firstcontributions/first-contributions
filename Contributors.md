@@ -2780,4 +2780,6 @@
 - [Nafi Rashid Rahim](https://github.com/NafiRahim)
 - [Kayson](https://github.com/Kayson896)
 - [Faheem Mushtaq](https://github.com/FaheemOnHub)
+- [satish choudhary](https://github.com/python-hacked)
+
 
