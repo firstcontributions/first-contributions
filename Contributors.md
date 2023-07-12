@@ -2767,4 +2767,4 @@
 - [Qin Xun](https://github.com/lvchenjia)
 - [Sadim Mali](https://github.com/im-sad-im)
 - [Themms](https://github.com/themm-s)
-- [Nafi Rashid rahim](https://github.com/NafiRahim)
+- [Nafi Rashid Rahim](https://github.com/NafiRahim)
