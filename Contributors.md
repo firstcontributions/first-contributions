@@ -1,4 +1,6 @@
 <!-- prettier-ignore-start and welcome -->
+
+- [Niko Hoffrén](https://github.com/nikohoffren)
 - [Ankita Patil](https://github.com/AnkitaPatil2002)
 - [Divyanshu Dhruv](https://github.com/divyanshudhruv)
   [Uchenna Adubasim](https://github.com/uche-wealth)
@@ -223,7 +225,6 @@
 - [Jack Galat] (https://github.com/JMGalati8)
 - [笨粂 usseini Mudi Profsain](https://github.com/Profsain)
 - [Vansh Rai Saini](https://github.com/vanshraisaini) -[Sugam Goel](https://github.com/Sugamgoel28)
-
 - [Damoon Darvishi](https://github.com/DamoonDarvishi)
 - [Shubham Tamrakar](https://github.com/shubham-tam)
 - [Ritesh Mahato] (https://github.com/Ritesh1625)
@@ -270,7 +271,6 @@
 - [Ursu Nicolae] (https://github.com/UrsuNicolae)
 - [Fajla Rabby](https://github.com/Fajla-Rabby)
 - [Norvillie Villaruel](https://github.com/nozky)
-
 - [Prerna Singh](https://github.com/PrernaSingh01)
 - [Eti Gal-Or Mendelovich](https://github.com/etigame)
 - Tamanna Niger Tuly
@@ -2690,6 +2690,7 @@
 - [Lasse_Buch](https://github.com/LasseBuchAspIT)
 - [justforfun](https://github.com/justforfun0906)
 - [prolenodev](https://github.com/prolenodev)
+
 - <!-- prettier-ignore-end -->
 - [Naveen Avula](https://github.com/Avula-Naveen)
 - [Sameer Kumar singh](https://github.com/xvisierra)
@@ -2727,9 +2728,9 @@
 - [Igweonu Ebuka](https://github.com/EbukaTheDeveloper)
 - [Ahnaf Al Islam](https://github.com/maskedhyphttps://github.com/SayantanBar/first-contributions.gitocrite)
 - [Gordon Ling]
-
+- [Kareem Ramadan](https://github.com/KareemElshafee)
+-[rajat](https://github.com/rajatrokde)
 - [Kareem Ramadan](https://github.com/KareemElshafee) -[rajat](https://github.com/rajatrokde)
-
 - [Alistair Cannon](https://github.com/alistaircannon)
 - [Abhishek Mishra] (https://github.com/Abhishek-0009/)
 - [Ashish Mali](https://github.com/ashish9719)
