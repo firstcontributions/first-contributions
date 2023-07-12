@@ -240,6 +240,10 @@ Here are :
 - [babujal] -[Abhishek Agarwal]
 - [Hansi312](https://github.com/hansi312)
 - [Shadows-Puppet]
+Athul
+- [Jon Formantes](https://github.com/matui3)
+- [moodham](https://github.com/moodham)
+-[Diego Guisande](https://github.com/GuisandeGolfer)
   Athul
 - [moodham](https://github.com/moodham) -[Diego Guisande](https://github.com/GuisandeGolfer)
 - [Jack Gerry](https://github.com/JackGerry1)
