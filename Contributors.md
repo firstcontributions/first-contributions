@@ -189,6 +189,7 @@ Here are :
 - [Akmal Kamarudin](https://github.com/akmal-kamarudin)
 - [Aaron Howard] (https://github.com/aaron-howard)
 - [Onochie Peter Eze](https://github.com/RxZepet)
+-[Taylor Franklin](https://github.com/taylorgr92)
 - [Danish Ali](https://github.com/syedddanishalinaqvi)
 - [Isaiah Swain](https://github.com/imswain)
 - [Mayur Rathod](https://github.com/rmayur777)
