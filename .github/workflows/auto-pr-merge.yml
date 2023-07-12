@@ -49,6 +49,8 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
+            try {
+            
             // Attempt to merge the pull request using the squash method
              const response = await github.rest.pulls.merge({
               owner: context.repo.owner,
@@ -125,6 +127,42 @@ jobs:
                })
             }
 
+            } catch (error) {
+
+              let errMsg = "";
+              console.error("Error merging pull request:", error.message);
+
+              // Handle specific error cases based on status code
+              if (error.status === 405 && error.response.data.message === "Pull Request is not mergeable") {
+
+                errMsg = `Hello @${context.payload.pull_request.user.login}, thank you for your pull request. We appreciate your contribution to the project. However, before we can merge it, there is a merge conflict with the target branch.
+
+                No worries! You can follow [this guide](https://github.com/firstcontributions/first-contributions/blob/main/additional-material/git_workflow_scenarios/resolving-merge-conflicts.md) on resolving merge conflicts.
+                
+                Once you've fixed the conflicts and pushed your changes, the repository will check the changes you made and proceed with the merge if everything looks good.
+                
+                If you have any questions or need further assistance, don't hesitate to reach out. We're here to help!`
+
+              } else if (error.status === 409) {
+                console.error("The pull request has conflicts with the target branch. Resolve the conflicts before merging.");
+                let errMsg = "The pull request has conflicts with the target branch. Resolve the conflicts before merging.";
+
+              } else {
+                console.error("Something went wrong while merging the pull request.");
+                let errMsg = "Something went wrong while merging the pull request.";
+              }
+
+              // Post a comment on the pull request using the createComment method
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: errMsg
+               })
+
+              // Set GitHub Action as failed
+              core.setFailed(error.message);
+            }
 
 
 
