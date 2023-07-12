@@ -1405,6 +1405,7 @@ here are :
 - [Chiamaka Ezemba](https://github.com/ChiamakaUI)
 - [smdch](https://github.com/smdch)
 - [gonend](https://github.com/gonend)
+- [Jack Hodgson](https://github.com/jackhodgson) 
 - [Bhuwan Paudel](https://github.com/bhuwanP69)
 - [nicoleeeeeeeeeeeeeeeee](https://github.com/nicoleeeeeeeeeeeeeeeee)
 - [otoyaaa](https://github.com/otoyaa)
