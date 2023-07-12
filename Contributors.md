@@ -5,6 +5,7 @@
 - [Harsh](https://github.com/harshvsri)
 - [Shreyas](https://github.com/Shreyas4256)
 - [Nihal]
+- [Keerthi Nannepamula](https://github.com/keerthinannepamula7)
 - [Iman] (https://github.com/iman2153)
 - [Hassan Kazeem]
 - [Sean Crumley](https://github.com/907VigiL)
@@ -2769,3 +2770,4 @@
 - [Themms](https://github.com/themm-s)
 - [Nafi Rashid rahim](https://github.com/NafiRahim)
 - [Kayson](https://github.com/Kayson896)
+- [Faheem Mushtaq](https://github.com/FaheemOnHub)
