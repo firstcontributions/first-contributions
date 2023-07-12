@@ -722,7 +722,7 @@ Aaron
 - [Maria Aurellia](https://github.com/mariaadannies)
 - [Sahood cv](https://github.com/sahoodcode)
 - [Lorelei Kelly](https://github.com/loleik)
-- [jeremy to](https://github.com/JheremeiArciaga)
+- [jeremy ikaw](https://github.com/JheremeiArciaga)
 - [Ajay Rajput](https://github.com/AjaysingRajput)
 - [It's Meghanath again](https://github.com/meghanath852)
 - [Yiheng Chen](https://github.com/yi-heng-chen)
