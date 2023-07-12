@@ -38,6 +38,7 @@
 - [A_Solo](https://github.com/ASolooo)
 - [Robert Garofalo](https://github.com/robertgarofalo)
 - [Suryansh Srivastava]
+- [Ohis Samuel](https://github.com/ohizz)
 - [Noman Fareed](https://github.com/shnoman97)
 - [Ali Shaharyar](https://github.com/ColSherwood)
 - [Fernando Adames](https://github.com/FernandoAdames)
