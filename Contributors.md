@@ -82,6 +82,7 @@ here are :
 - [Anozie Chibuike](https://github.com/AnozieChibuike)
 - [Akhil Raj](https://github.com/akhil-raj-git)
 - [James Kelly](https://github.com/jkellymi)
+- [Francis Inegbenose]
 - [Miles Asher](https://github.com/Miles-Asher)
 - [Satyam Karn](https://github.com/devCadet1)
 - [Daniël Vos](https://github.com/DanielVos1992)
