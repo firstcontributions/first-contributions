@@ -2811,3 +2811,4 @@ Athul
 - [satish choudhary](https://github.com/python-hacked)
 - [Rumi Kamioka](https://github.com/rk-kc)
 - [Stepan Korobeynikov](https://github.com/korstep) -[Eryk Padziński](https://github.com/ErykPadzinski)
+- [Abdul Razzaq](https://github.com/razzaq-99)
