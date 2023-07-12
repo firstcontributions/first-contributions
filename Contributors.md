@@ -129,6 +129,7 @@
 - [Core447](https://github.com/Core447)
 - [Ayan Sarma](https://github.com/kiyoshi-87)
 - [Rex Cheng](https://github.com/lychengrex)
+- [Howie](https://github.com/githubhow)
 - [Ashish Kakade](https://github.com/Ash-47)
 - [Mathieu Corbett](https://github.com/mathieucorbett)
 - [Kamran Ali] (https://github.com/Kamibytes)
