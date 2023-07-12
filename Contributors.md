@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start and welcome -->
 
 - [Niko Hoffrén](https://github.com/nikohoffren)
+- [Shivam Puri](https://github.com/shivm29)
 - [Ankita Patil](https://github.com/AnkitaPatil2002)
 - [Divyanshu Dhruv](https://github.com/divyanshudhruv)
   [Uchenna Adubasim](https://github.com/uche-wealth)
