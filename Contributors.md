@@ -10,6 +10,7 @@ Here are :
 - [Shivam Puri](https://github.com/shivm29)
 - [Ankita Patil](https://github.com/AnkitaPatil2002)
 - [Divyanshu Dhruv](https://github.com/divyanshudhruv)
+- [Frederic carboneras](https://github.com/Frittenfred97)
   [Uchenna Adubasim](https://github.com/uche-wealth)
 - [Harsh](https://github.com/harshvsri)
 - [Shreyas](https://github.com/Shreyas4256)
