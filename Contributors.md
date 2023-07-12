@@ -3,6 +3,7 @@
 here are :
 
 - [Niko Hoffrén](https://github.com/nikohoffren)
+- [JackWinner](https:/github.com/winnerjack)
 - [Mishal Manzoor](https://github.com/mishal55)
 - [Shivam Puri](https://github.com/shivm29)
 - [Ankita Patil](https://github.com/AnkitaPatil2002)
@@ -2463,7 +2464,7 @@ here are :
 - [temidayo omoyajowo](https://github.com/temideewan)
 - [Harold Song](https://github.com/swyhrld)
 - [foliage21](https://github.com/foliage21)
-- [alkas](https://github.com/exalkas 'software engineer')
+- [alkas](https://github.com/exalkas "software engineer")
 - [Arun Kumar Marndi](https://github.com/arunkumarmarndi)
 - [Zullu Balti](https://github.com/ZulluBalti)
 - [Jordan Flanagan](https://github.com/jflaney23)
