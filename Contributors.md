@@ -24,6 +24,7 @@ here are :
 - [Samaila](https://github.com/samailamalima)
 - [Anirudh Hegde](https://github.com/Anianonymous)
 - [seung-u](https://github.com/seung-u)
+- [Hashir-ul-islam](https://github.com/HashCoder001)
 - [Sergio Zavala](https://github.com/sezavala)
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
 - [Shubham Swain](https://github.com/swain778)
