@@ -842,7 +842,7 @@
 - [Maria Aurellia](https://github.com/mariaadannies)
 - [Sahood cv](https://github.com/sahoodcode)
 - [Lorelei Kelly](https://github.com/loleik)
-- [jeremy](https://github.com/JheremeiArciaga)
+
 - [Ajay Rajput](https://github.com/AjaysingRajput)
 - [It&#39;s Meghanath again](https://github.com/meghanath852)
 - [Yiheng Chen](https://github.com/yi-heng-chen)
