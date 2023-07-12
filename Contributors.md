@@ -85,6 +85,7 @@
 
    Ayush Purohit
 - [Kalluri naveen](https://github.com/kalluri02)
+- [Anshul Kushwaha](https://github.com/sudo-anshul)
 - [Kondapalli Koyal](https://github.com/kondapalli19)
 - Darshan A V
 - [Miguel Jones](https://github.com/dice43)
