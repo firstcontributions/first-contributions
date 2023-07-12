@@ -3,6 +3,7 @@
 here are :
 
 - [Niko Hoffrén](https://github.com/nikohoffren)
+- [Mishal Manzoor](https://github.com/mishal55)
 - [Shivam Puri](https://github.com/shivm29)
 - [Ankita Patil](https://github.com/AnkitaPatil2002)
 - [Divyanshu Dhruv](https://github.com/divyanshudhruv)
