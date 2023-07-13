@@ -157,6 +157,7 @@ Here are :
 - [Bryan Doan] (https://github.com/JellyfishSpot)
 - [Muhammad Abdullahi](https://github.com/A-u-usman)
 - [Aaron Newbigging](https://github.com/Pastasource)
+- [Nathaniel Adiah](https:/github.com/nathanieladiah)
 - [Bhautik Savaliya](https://github.com/gOgRABgEEK)
 - [Ashish Muley](https://github.com/APMuley)
 - [Mahdi Akbar](https://github.com/MrTbag)
@@ -772,7 +773,7 @@ Here are :
 - J3exellence
 - Justin Valdez
 - Triparna Saha
-- 
+-
 - [John Allen](https://github.com/johnallen1029)
 - Shashank Sangale
 - Megan Cooper (https://github.com/MegRCooper)
