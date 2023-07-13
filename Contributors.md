@@ -25,6 +25,7 @@ Here are :
 - [Collins Ikechukwu](https://github.com/devcollinss)
 - [Sagar Shrivastava](https://github.com/learner-sagar)
 - [Usman Elahi](https://github.com/usmanelahi)
+- [Tyresz Brash](https://github.com/TyreszB)
 - [Dhairya Sehgal](https://github.com/DhairyaSehgal07)
 - [AndyS](https://github.com/AndyS-first)
 - [Samaila](https://github.com/samailamalima)
