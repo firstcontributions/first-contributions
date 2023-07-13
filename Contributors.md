@@ -50,6 +50,7 @@ Here are :
 - [seung-u](https://github.com/seung-u)
 - [Hashir-ul-islam](https://github.com/HashCoder001)
 - [Sergio Zavala](https://github.com/sezavala)
+- [Kaung Si Thu](https://github.com/kstiel)
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
 - [Venkatesh Reddy](https://github.com/venkateshreddy2003)
 - [Shubham Swain](https://github.com/swain778)
