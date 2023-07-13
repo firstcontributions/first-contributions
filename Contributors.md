@@ -248,7 +248,7 @@ Here are :
 Athul
 - [Jon Formantes](https://github.com/matui3)
 - [moodham](https://github.com/moodham)
--[Diego Guisande](https://github.com/GuisandeGolfer)
+  -[Diego Guisande](https://github.com/GuisandeGolfer)
   Athul
 - [moodham](https://github.com/moodham) -[Diego Guisande](https://github.com/GuisandeGolfer)
 - [Jack Gerry](https://github.com/JackGerry1)
@@ -412,6 +412,7 @@ Athul
 - [Andrew Koning](https://github.com/drew-koning)
 - [Menua Bedrosian](hhtps://github.com/menuab)
 - [Anovaly](https://github.com/anovaly)
+- [Yu-Shiang Hsiao](https://github.com/leonarwiz)
 - [Sunetra Bhowmick](https://github.com/kaiser-sb)
 - [Hans Ibarra](https://github.com/Falaxsa13)
 - [Josue Belarmino](https://github.com/geminitwo)
