@@ -63,6 +63,7 @@ Here are :
 - [Robert Garofalo](https://github.com/robertgarofalo)
 - [Suryansh Srivastava]
 - [Ohis Samuel](https://github.com/ohizz)
+- [Bharat Manral](https://github.com/iamBharatManral)
 - [Noman Fareed](https://github.com/shnoman97)
 - [Ali Shaharyar](https://github.com/ColSherwood)
 - [Fernando Adames](https://github.com/FernandoAdames)
