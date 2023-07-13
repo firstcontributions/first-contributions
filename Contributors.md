@@ -13,6 +13,7 @@ Here are :
 - [Shivam Puri](https://github.com/shivm29)
 - [Ankita Patil](https://github.com/AnkitaPatil2002)
 - [Divyanshu Dhruv](https://github.com/divyanshudhruv)
+- [Hitesh Maan](https://github.com/Hiteshmaan4444)
 - [Frederic carboneras](https://github.com/Frittenfred97)
   [Uchenna Adubasim](https://github.com/uche-wealth)
 - [Harsh](https://github.com/harshvsri)
