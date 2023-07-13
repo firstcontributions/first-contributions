@@ -115,12 +115,12 @@ Here are :
 - [James Kelly](https://github.com/jkellymi)
 - [Miles Asher](https://github.com/Miles-Asher)
 - [Satyam Karn](https://github.com/devCadet1)
+- [Angelo Bongiorno](https://github.com/AngeloBongiorno)
 - [Daniël Vos](https://github.com/DanielVos1992)
 - [Zakaria Semlali](https://github.com/zakariasemlali)
 - [Bernard Frimpong](https://github.com/teflon40)
 - [Rakesh Dharshanam]
 - [kiran date] (https://github.com/kirandate)
-
   Ayush Purohit
 - [Kalluri naveen](https://github.com/kalluri02)
 - [Anshul Kushwaha](https://github.com/sudo-anshul)
