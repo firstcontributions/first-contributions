@@ -5,6 +5,7 @@ Here are :
 - [JHong] (https://github.com/daechi73)
 - [Srikar](https://github.com/Srikar04)
 - [OkuM1](https://github.com/OkuM1)
+- [Benjamin Moreno](https://github.com/B3nnjy)
 - [Niko Hoffrén](https://github.com/nikohoffren)
 - [JackWinner](https:/github.com/winnerjack)
 - [abhishek](https://github.com/abhisheksakhare1000)
