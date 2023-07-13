@@ -278,6 +278,7 @@ Athul
 - [Gab](https://github.com/waregagbagbo)
 - [MathiasS](https://github.com/mathiassei)
 - [Zalman Gagerman](https://github.com/zalmang)
+- [Prateek Srivastava](https://github.com/prats-2311)
 - [Ana Hartmann](https://github.com/anah85)
 - [Dries Huybens](https://github.com/DRIESASTER)
 - [Gauri Tripathi](https://github.com/GauriTr)
