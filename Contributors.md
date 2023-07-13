@@ -5,6 +5,7 @@ Here are :
 
 - [Ketan Sahu](https://github.com/ketansahugit)
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
+-[Ruben Dario Duarte Anaya](https://github.com/ruben-duarte)
 - [Stavros Mastorakis](https://github.com/StavrosMast)
 - [Ryuunicorn](https://github.com/ryuun1corn)
 - [jayasekharreddy-telluri](https://github.com/jayasekharreddy-telluri)
@@ -31,6 +32,7 @@ Here are :
 - [Shreyas](https://github.com/Shreyas4256)
 - [Eduardo Montano](https://github.com/edulol-1)
 - [Nihal]
+-[Muberra Kurt](https://github.com/MuberraKurt)
 - [Keerthi Nannepamula](https://github.com/keerthinannepamula7)
 - [Iman] (https://github.com/iman2153)
 - [Hassan Kazeem]
@@ -49,6 +51,7 @@ Here are :
 - [seung-u](https://github.com/seung-u)
 - [Hashir-ul-islam](https://github.com/HashCoder001)
 - [Sergio Zavala](https://github.com/sezavala)
+- [Kaung Si Thu](https://github.com/kstiel)
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
 - [Venkatesh Reddy](https://github.com/venkateshreddy2003)
 - [Shubham Swain](https://github.com/swain778)
@@ -116,12 +119,12 @@ Here are :
 - [James Kelly](https://github.com/jkellymi)
 - [Miles Asher](https://github.com/Miles-Asher)
 - [Satyam Karn](https://github.com/devCadet1)
+- [Angelo Bongiorno](https://github.com/AngeloBongiorno)
 - [Daniël Vos](https://github.com/DanielVos1992)
 - [Zakaria Semlali](https://github.com/zakariasemlali)
 - [Bernard Frimpong](https://github.com/teflon40)
 - [Rakesh Dharshanam]
 - [kiran date] (https://github.com/kirandate)
-
   Ayush Purohit
 - [Kalluri naveen](https://github.com/kalluri02)
 - [Anshul Kushwaha](https://github.com/sudo-anshul)
@@ -807,6 +810,7 @@ Here are :
 - [Nicholas Mason](https://github.com/Aptenz)
 - [LexKorn](https://github.com/LexKorn)
 - [Gowri Priyanka](https://github.com/GowriPriyankaM)
+- [Pranav Modgil](https://github.com/Slygoross)
 - [Gyaur](https://github.com/Gy4ur)
 - [Berdiguly Yaylymov](https://github.com/yaylymov)
 - [Mehboob Khan](https://github.com/Mehboob-Khan)
@@ -2170,6 +2174,7 @@ Here are :
 - [Sarat Kota](https://github.com/kotasarat)
 - [Rahul Badade](https://github.com/rahulb18)
 - [Gavin Meeker](https://github.com/gmeeker99)
+- [Rafael Fuentes](https://github.com/RafaFuentesdev)
 - [Alan](https://github.com/Alan-John-Byrne)
 - [Rekerito](https://github.com/Rxkerito)
 - [Kaushal Singh](https://github.com/Kaushal0709)
@@ -2843,3 +2848,4 @@ Here are :
 - [LiamSpatola](https://github.com/LiamSpatola)
 - [Unwana Michael](https://github.com/lightnonstop)
 - [Shivam Rao](https://github.com/shivam-rao-official)
+- [Kalicharan Soundararajan](https://github.com/skccharan)
