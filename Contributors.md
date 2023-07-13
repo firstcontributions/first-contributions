@@ -117,6 +117,7 @@ Here are :
 - [Hari Prasad] (https://github.com/itcodehery)
 - [Khushi](https://github.com/KhushiP098)
 - [Ambroise Ngayinoko](https://github.com/Ambro19)
+  [Kenny](https://github.com/LeeAllenK)
 - [Pradyumna Hegde](https://github.com/pradyumna-ph)
 - [Sanjay Karthic](https://github.com/Leon-Skar)
 - [Widdershins](https://github.com/Widdershins89)
