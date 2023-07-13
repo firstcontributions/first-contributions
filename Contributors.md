@@ -809,6 +809,7 @@ Here are :
 - [Nicholas Mason](https://github.com/Aptenz)
 - [LexKorn](https://github.com/LexKorn)
 - [Gowri Priyanka](https://github.com/GowriPriyankaM)
+- [Pranav Modgil](https://github.com/Slygoross)
 - [Gyaur](https://github.com/Gy4ur)
 - [Berdiguly Yaylymov](https://github.com/yaylymov)
 - [Mehboob Khan](https://github.com/Mehboob-Khan)
