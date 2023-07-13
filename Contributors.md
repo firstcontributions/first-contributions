@@ -2836,6 +2836,7 @@ Athul
 - [Rumi Prabhakar](https://github.com/Rumi-Prabhakar)
 - [satish choudhary](https://github.com/python-hacked)
 - [Rumi Kamioka](https://github.com/rk-kc)
+- [jeff-tor](https://github.com/jeff-tor)
 - [Stepan Korobeynikov](https://github.com/korstep) -[Eryk Padziński](https://github.com/ErykPadzinski)
 - [Abdul Razzaq](https://github.com/razzaq-99)
 - [R.L.](https://github.com/theClawsmos)
