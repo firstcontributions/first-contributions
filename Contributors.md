@@ -27,6 +27,7 @@ Here are :
 - [Iman] (https://github.com/iman2153)
 - [Hassan Kazeem]
 - [Sean Crumley](https://github.com/907VigiL)
+- [Uday Surya](https://github.com/udaySuryaP)
 - [Collins Ikechukwu](https://github.com/devcollinss)
 - [Sagar Shrivastava](https://github.com/learner-sagar)
 - [Usman Elahi](https://github.com/usmanelahi)
