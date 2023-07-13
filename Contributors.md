@@ -15,6 +15,7 @@ Here are :
 - [abhishek](https://github.com/abhisheksakhare1000)
 - [Mishal Manzoor](https://github.com/mishal55)
 - [Shivam Puri](https://github.com/shivm29)
+- [Jake Hannahan](https://github.com/jake-hannahan)
 - [Ankita Patil](https://github.com/AnkitaPatil2003)
 - [Lebogang Mokoena](https://github.com/manLebza)
 - [Divyanshu Dhruv](https://github.com/divyanshudhruv)
