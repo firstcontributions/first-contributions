@@ -372,6 +372,7 @@ Here are :
 - Tamanna
   Erupothu Venkatakishor
 - [Hassan Mahamat Djidda](https://github.com/hassan-djidda/)
+- [VoxSkynned11] (https://github.com/VoxSkynned11/)
 - [Nathan Russell](https://github.com/NathanRRussell)
 - Rahul-Sharing
   [Craigehton](https://github.com/craigehton)
