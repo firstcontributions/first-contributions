@@ -5,6 +5,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+- [Abdessamad Bettal](https://github.com/abdessamadbettal)
 - [Nihal]
 - [Samaila](https://github.com/samailamalima)
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
