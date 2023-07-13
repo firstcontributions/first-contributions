@@ -4,6 +4,7 @@
 Here are :
 
 - [Ketan Sahu](https://github.com/ketansahugit)
+-[Pankti Shah](https://github.com/Pankti910)
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
 -[Ruben Dario Duarte Anaya](https://github.com/ruben-duarte)
 - [Stavros Mastorakis](https://github.com/StavrosMast)
