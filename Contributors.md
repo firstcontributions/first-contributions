@@ -4,7 +4,7 @@
 
 
 <!-- prettier-ignore-start and welcome -->
-
+- [Dheeraj verma](https://github.com/Dheerajverma2004)
 - [Nihal]
 - [Samaila](https://github.com/samailamalima)
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
@@ -233,9 +233,9 @@ Erupothu Venkatakishor
 - [Sekinat Oyero](https://github.com/Sekinat-oyero)
 - [Nakshatra](https://github.com/naxatra2)
 - [HP] (https://github.com/Black-Hwak)
--[kavearhasi](https://github.com/kavearhasi)
+- [kavearhasi](https://github.com/kavearhasi)
 - [Arturo Lﾃｳpez](https://github.com/arturolopeze)
--[Sai Sravani Vadali](https://github.com/vadalisravani)
+- [Sai Sravani Vadali](https://github.com/vadalisravani)
 - [Albert Arakelyan](https://github.com/AlbertArakelyan)
 - [Saifullah Khan] (https://github.com/unverifiedchaos5017)
 - [Chloe Gavrilovic](https://github.com/cmgvc)
@@ -247,7 +247,7 @@ Erupothu Venkatakishor
 - [Kanak Shakya] (https://github.com/Kanak1125)
 - [Ali Aizn](https://github.com/aliaizn)
 - [Jaeyy166](https://github.com/Jaeyy166)
--[Iury-Ferreira](https://github.com/Iuggy)
+- [Iury-Ferreira](https://github.com/Iuggy)
 - [Mohammed Hashim K](https://github.com/mohammed-hashim-k)
 - [Piyush Pawar](https://github.com/piyushpawar54)
 - [Elpidio Julian](https://github.com/Elpidio-Julian)
@@ -316,7 +316,7 @@ Erupothu Venkatakishor
 - [Junji](https://github.com/juunjii)
 - [Akhil](https://github.com/Akhil-77)
 - [Javier Ramirez](https://github.com/ramirezj129)
-[Raghav KR](https://github.com/RAG-KR)
+- [Raghav KR](https://github.com/RAG-KR)
 - [Roger Massana](https://github.com/massanaRoger)
 - [Yash Patel](https://github.com/theyashpatel)
   Shreyash Verma
