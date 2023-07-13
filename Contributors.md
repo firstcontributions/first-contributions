@@ -103,6 +103,7 @@ Here are :
 - [Samuel Njoroge](https://github.com/Samuel-Njoroge)
 - [Nandha Kumar](https://github.com/tnrock)
 - [Taufik Khan](https://github.com/Taufik041)
+- [Shuaib Ahmed Shaikh]
 - [Malvika Jadhav](https://github.com/malvikajadhav)
 - [Aram Kazorian](https://github.com/aramk-hub)
 - [Anozie Chibuike](https://github.com/AnozieChibuike)
