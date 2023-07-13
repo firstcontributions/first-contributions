@@ -109,6 +109,7 @@ Here are :
 - [Anshul Kushwaha](https://github.com/sudo-anshul)
 - [Kondapalli Koyal](https://github.com/kondapalli19)
 - Darshan A V
+- [Noora Nasrin VC](https://github.com/nooranasrin)
 - [Miguel Jones](https://github.com/dice43)
 - [Alfredo Carrion](https://github.com/carrionalfredo)
 - [Chaitanya Galla](https://github.com/gallachaitanya)
