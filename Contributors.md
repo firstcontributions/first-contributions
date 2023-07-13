@@ -825,6 +825,7 @@ Athul
 - [Eric J](https://github.com/ej31415)
 - [Omkar](https://github.com/omkarb21)
 - [Matias Mansilla](https://github.com/MansillaM)
+- [Rust-Soham] (https://github.com/Rust-soham)
 - [Jackson McGillivary](https://github.com/Revenant70)
 - [Luke Sandoval](https://github.com/Lukesan48)
 - [Srujan Geedipalli](https://github.com/Srujan273)
