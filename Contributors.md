@@ -36,6 +36,7 @@ Here are :
 - [Dhairya Sehgal](https://github.com/DhairyaSehgal07)
 - [AndyS](https://github.com/AndyS-first)
 - [Samaila](https://github.com/samailamalima)
+- [Snehasis Ghosh](https://github.com/Snehasis4321)
 - [Anirudh Hegde](https://github.com/Anianonymous)
 - [seung-u](https://github.com/seung-u)
 - [Hashir-ul-islam](https://github.com/HashCoder001)
