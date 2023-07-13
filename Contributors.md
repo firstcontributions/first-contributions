@@ -4,6 +4,7 @@ Here are :
 - [Ryuunicorn](https://github.com/ryuun1corn)
 - [jayasekharreddy-telluri](https://github.com/jayasekharreddy-telluri)
 - [V205Github](https://github.com/V205Github)
+- [Andrei Nicola](https://github.com/Nico7777777)
 - [JHong] (https://github.com/daechi73)
 - [Srikar](https://github.com/Srikar04)
 - [OkuM1](https://github.com/OkuM1)
