@@ -1996,6 +1996,7 @@ Athul
 - [Basant Singh Dobal  捉窶昨汳ｻ](https://github.com/basantsd)
 - [Jay Watson](https://github.com/jaypwatson)
 - [Valko](https://github/valkowo)
+- [Anney Omeje] (https://github.com/anneyomeje)
 - [Guilherme Rodrigo](https://github.com/rfguilherme)
 - [Victor Jackson](https://github.com/jackv9425)
 - [Julia Kuchle](https://github.com/JuliaGK)
