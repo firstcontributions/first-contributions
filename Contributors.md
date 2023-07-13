@@ -2,6 +2,7 @@
 
 Here are :
 - [V205Github](https://github.com/V205Github)
+- [JHong] (https://github.com/daechi73)
 - [Srikar](https://github.com/Srikar04)
 - [OkuM1](https://github.com/OkuM1)
 - [Niko Hoffrén](https://github.com/nikohoffren)
