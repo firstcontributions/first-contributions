@@ -105,11 +105,11 @@ Tidak lama lagi saya akan menggabungkan semua perubahan anda ke cawangan 'master
 
 Tahniah! Anda baru saja selesai melaksanakan standard _fork -> clone -> edit -> PR_ aliran kerja yang sering kamu akan terserempak sebagai seorang penyumbang!
 
-Raikan sumbangan kamu dan kongsi dengan rakan dan pengikut kamu dengan pergi ke [aplikasi web](https://roshanjossey.github.io/first-contributions/#social-share).
+Raikan sumbangan kamu dan kongsi dengan rakan dan pengikut kamu dengan pergi ke [aplikasi web](https://firstcontributions.github.io/#social-share).
 
 Anda boleh menyertai pasukan 'Slack' kami sekiranya anda memerlukan bantuan atau mempunyai sebarang soalan. [Sertai pasukan Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-Sekarang mari kita mulakan dengan menyumbang kepada projek lain. Kami telah menyusun senarai projek dengan isu mudah yang boleh anda mulakan. Semak [senarai projek dalam aplikasi web](https://roshanjossey.github.io/first-contributions/#project-list).
+Sekarang mari kita mulakan dengan menyumbang kepada projek lain. Kami telah menyusun senarai projek dengan isu mudah yang boleh anda mulakan. Semak [senarai projek dalam aplikasi web](https://firstcontributions.github.io/#project-list).
 
 ### [Bahan tambahan](../additional-material/git_workflow_scenarios/additional-material.md)
 

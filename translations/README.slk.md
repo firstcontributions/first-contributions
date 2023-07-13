@@ -105,11 +105,11 @@ Teraz predlož požiadavku na vytiahnutie.
 
 Gratulujem! Práve si dokončil štandardný _fork -> klon -> upraviť -> PR_ pracovný postup, ktorý sa často stretneš ako prispievateľ!
 
-Osláv svoj príspevok a zdieľaj ho so svojimi priateľmi a nasledníkmi [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+Osláv svoj príspevok a zdieľaj ho so svojimi priateľmi a nasledníkmi [web app](https://firstcontributions.github.io/#social-share).
 
 Môžeš sa pripojiť k nášmu slack tímu v prípade, že potrebuješ nejakú pomoc alebo máš nejaké otázky. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-Teraz začni s účasťou na iných projektoch. Vytvorili sme zoznam projektov s jednoduchými problémami, s ktorými môžeš začať. Pozri [zoznam projektov vo webovej aplikácii](https://roshanjossey.github.io/first-contributions/#project-list).
+Teraz začni s účasťou na iných projektoch. Vytvorili sme zoznam projektov s jednoduchými problémami, s ktorými môžeš začať. Pozri [zoznam projektov vo webovej aplikácii](https://firstcontributions.github.io/#project-list).
 
 ### [Dodatočný materiál](../additional-material/git_workflow_scenarios/additional-material.md)
 

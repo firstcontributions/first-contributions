@@ -114,11 +114,11 @@ Seuraavaksi mergeän muutoksesi tämän projektin master-branchiin. Tulet saamaa
 
 Onneksi olkoon! Olet juuri suorittanut tavanomaisen *Fork -> Clone -> Edit -> Pull Request* -työnkulun joka tulee vastaasi usein kontribuoijana!
 
-Juhlista kontribuutiotasi ja jaa se ystävillesi ja followereillesi menemällä [Web Appiin](https://roshanjossey.github.io/first-contributions/#social-share).
+Juhlista kontribuutiotasi ja jaa se ystävillesi ja followereillesi menemällä [Web Appiin](https://firstcontributions.github.io/#social-share).
 
 Voit liittyä Slack tiimiimme jos sinulla on kysyttävää. [Liity Slack tiimiin](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-Jos haluaisit kontribuoida muihin projekteihin, me olemme koonneet listan yksinkertaisista ensimmäisistä issueista työskenneltäväksesi. [Lista löytyy Web-Appistamme](https://roshanjossey.github.io/first-contributions/#project-list).
+Jos haluaisit kontribuoida muihin projekteihin, me olemme koonneet listan yksinkertaisista ensimmäisistä issueista työskenneltäväksesi. [Lista löytyy Web-Appistamme](https://firstcontributions.github.io/#project-list).
 
 ### [Lisämateriaaleja](../additional-material/git_workflow_scenarios/additional-material.md)
 

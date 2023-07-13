@@ -103,11 +103,11 @@ git push origin <add-your-branch-name>
 
 అభినందనలు! మీరు standard _fork -> clone -> edit -> PR_ workflow పూర్తి చేసాడు.
 
-మీ సహకారాన్ని జరుపుకుంటారు మరియు మీ స్నేహితులు మరియు అనుచరులతో దీన్ని [web app](https://roshanjossey.github.io/first-contributions/#social-share) కు వెళ్లండి.
+మీ సహకారాన్ని జరుపుకుంటారు మరియు మీ స్నేహితులు మరియు అనుచరులతో దీన్ని [web app](https://firstcontributions.github.io/#social-share) కు వెళ్లండి.
 
 మీరు ఏ సహాయం అవసరం లేదా ఏవైనా ప్రశ్నలు ఉంటే మీరు మా స్లాక్ జట్టులో చేరవచ్చు. [స్లాక్ జట్టులో చేరండి](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 
-ఇప్పుడు మీరు ఇతర ప్రాజెక్టులకు తోడ్పడటం ప్రారంభించండి. మీరు ప్రారంభించగల సులభమైన సమస్యలతో ప్రాజెక్టుల జాబితాను మేము సంకలనం చేసాము. [వెబ్ ప్రాజెక్టుల జాబితాలు](https://roshanjossey.github.io/first-contributions/#project-list) ను చూడండి.
+ఇప్పుడు మీరు ఇతర ప్రాజెక్టులకు తోడ్పడటం ప్రారంభించండి. మీరు ప్రారంభించగల సులభమైన సమస్యలతో ప్రాజెక్టుల జాబితాను మేము సంకలనం చేసాము. [వెబ్ ప్రాజెక్టుల జాబితాలు](https://firstcontributions.github.io/#project-list) ను చూడండి.
 
 ### [అదనపు విషయం](../additional-material/git_workflow_scenarios/additional-material.md)
 
