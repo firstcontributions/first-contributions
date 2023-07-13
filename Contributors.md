@@ -1206,6 +1206,7 @@ Athul
 - [unpluggedsam](https://github.com/unpluggedsam)
 - [LinhNguyenLe2109](https://github.com/LinhNguyenLe2109)
 - [Jane Okeke](https://github.com/nkechijane)
+  [Avishi Mittal](https://github.com/Avishi2511)
 - [eest12](https://github.com/eest12)
 - [Tahrour Mustapha Aymen](https://github.com/Aymen-TM)
 - [AndreaMontes] (https://github.com/andre83411)
