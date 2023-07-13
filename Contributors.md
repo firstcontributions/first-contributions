@@ -2802,3 +2802,4 @@ here are :
 - [satish choudhary](https://github.com/python-hacked)
 - [Rumi Kamioka](https://github.com/rk-kc)
 - [Stepan Korobeynikov](https://github.com/korstep)
+- [Jesse Ambler](https://github.com/jnrambler)
