@@ -4,6 +4,7 @@
 Here are :
 
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
+- [Stavros Mastorakis](https://github.com/StavrosMast)
 - [Ryuunicorn](https://github.com/ryuun1corn)
 - [jayasekharreddy-telluri](https://github.com/jayasekharreddy-telluri)
 - [V205Github](https://github.com/V205Github)
