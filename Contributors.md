@@ -9,6 +9,7 @@ Here are :
 -[Ruben Dario Duarte Anaya](https://github.com/ruben-duarte)
 - [Thiago Mandrik](https://github.com/thiagomandrik)
 - [Omkar A](https://github.com/mee-omi)
+- [Amritha P P](https://github.com/Amritha-07)
 - [Stavros Mastorakis](https://github.com/StavrosMast)
 - [Ryuunicorn](https://github.com/ryuun1corn)
 - [jayasekharreddy-telluri](https://github.com/jayasekharreddy-telluri)
