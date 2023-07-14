@@ -13,6 +13,7 @@
 - [Amritha P P](https://github.com/Amritha-07)
 - [Stavros Mastorakis](https://github.com/StavrosMast)
 - [Ryuunicorn](https://github.com/ryuun1corn)
+- [Shreshth Rajpal](https://github.com/shreshthr)
 - [jayasekharreddy-telluri](https://github.com/jayasekharreddy-telluri)
 - [V205Github](https://github.com/V205Github)
 - [Andrei Nicola](https://github.com/Nico7777777)
