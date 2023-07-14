@@ -10,6 +10,7 @@ Here are :
 - [Thiago Mandrik](https://github.com/thiagomandrik)
 - [Omkar A](https://github.com/mee-omi)
 - [Stavros Mastorakis](https://github.com/StavrosMast)
+- [irthifa](https://github.com/irthifa)
 - [Ryuunicorn](https://github.com/ryuun1corn)
 - [jayasekharreddy-telluri](https://github.com/jayasekharreddy-telluri)
 - [V205Github](https://github.com/V205Github)
