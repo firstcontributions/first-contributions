@@ -96,7 +96,20 @@ This will create a copy of this repository in your account.
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
 
-Open a terminal and run the following git command:
+Open a terminal and either navigate to the folder where you want to store the project or create a new folder. 
+For example, you can create a folder named 'first-contributions-folder' by running the following command:
+
+```
+mkdir first-contributions-folder
+```
+
+Navigate to the newly created folder using the cd command. For example:
+
+```
+cd first-contributions-folder
+```
+
+Now, run the following git command in the terminal:
 
 ```
 git clone "url you just copied"
