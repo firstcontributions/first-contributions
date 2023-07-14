@@ -398,6 +398,7 @@
   [Craigehton](https://github.com/craigehton)
   CompDu
 - [Tyler Lowe](https://github.com/TylerRLowe)
+- [William Beukelman](https://github.com/williambeukelman)
 - [Serhat Sarı](https://github.com/Serhat-Sari)
 - [Nikita Aleksandrov](https://github.com/AleksandrovDev)
 - [Dywa VaraPrasad](https://github.com/dywa-varaprasad)
