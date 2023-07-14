@@ -2859,7 +2859,8 @@
 - [satish choudhary](https://github.com/python-hacked)
 - [Rumi Kamioka](https://github.com/rk-kc)
 - [jeff-tor](https://github.com/jeff-tor)
-- [Stepan Korobeynikov](https://github.com/korstep) -[Eryk Padziński](https://github.com/ErykPadzinski)
+- [Stepan Korobeynikov](https://github.com/korstep)
+- [Eryk Padziński](https://github.com/ErykPadzinski)
 - [Abdul Razzaq](https://github.com/razzaq-99)
 - [R.L.](https://github.com/theClawsmos)
 - [Manish Cheepa] (https://github.com/manivsbh)
@@ -2876,6 +2877,8 @@
 - [Dylan Sturges](https://github.com/fadetoblack72)
 - [Gabriel Silvério](https://github.com/gsilverio7)
 - [Srivaths Aripirala](https://github.com/srivaths-ahr/)
-# [Sagar Gupta](https://github.com/sagargupta16)
+- [Sagar Gupta](https://github.com/sagargupta16)
+Anuj Pandey
+Priyanshi Dixit
 Oladipupo Ishola
 Priyanshi Dixit
