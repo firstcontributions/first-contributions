@@ -1174,6 +1174,7 @@
 - [Salman Akhtar](https://github.com/salmanakhtar57)
 - [Chris Banks](https://github.com/Chrix197)
 - [Robert West](https://github.com/rolewest)
+- [Weston Baker](https://github.com/westbestern)
 - [Houssem_Brahem](https://github.com/HotPatates)
 - [Bedant Chhetri](https://github.com/bedantchh)
 - [Atahan Caldir](https://github.com/atahancaldir)
