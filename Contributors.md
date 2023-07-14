@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+- [Sunny Kharwar](https://github.com/sunny4260)
 - [Ketan Sahu](https://github.com/ketansahugit)
 - [Pankti Shah](https://github.com/Pankti910)
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
@@ -2883,4 +2884,4 @@ Anuj Pandey
 Priyanshi Dixit
 Oladipupo Ishola
 Priyanshi Dixit
-- [Sunny Kharwar](https://github.com/sunny4260)
+
