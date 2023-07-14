@@ -2903,3 +2903,4 @@
 - [Priyanshi Dixit]
 - [Jesse Ambler](https://github.com/jnrambler)
 - [Akash](https://github.com/acfoss)
+- [Hugo](https://github.com/hhugoac)
