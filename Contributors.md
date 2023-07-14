@@ -8,6 +8,7 @@ Here are :
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
 -[Ruben Dario Duarte Anaya](https://github.com/ruben-duarte)
 - [Thiago Mandrik](https://github.com/thiagomandrik)
+- [Omkar A](https://github.com/mee-omi)
 - [Stavros Mastorakis](https://github.com/StavrosMast)
 - [Ryuunicorn](https://github.com/ryuun1corn)
 - [jayasekharreddy-telluri](https://github.com/jayasekharreddy-telluri)
