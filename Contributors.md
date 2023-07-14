@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start and welcome -->
 
 - [Ketan Sahu](https://github.com/ketansahugit)
+- [Susmitha](https://github.com/susmitha0902)
 - [Pankti Shah](https://github.com/Pankti910)
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
 - [Ruben Dario Duarte Anaya](https://github.com/ruben-duarte)
