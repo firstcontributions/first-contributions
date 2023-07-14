@@ -42,6 +42,7 @@ Here are :
 - [Keerthi Nannepamula](https://github.com/keerthinannepamula7)
 - [Zakria Jan](https://github.com/Xaki786)
 - [Iman] (https://github.com/iman2153)
+- [Latif Fetahaj] (https://github.com/latiffetahaj/)
 - [Hassan Kazeem]
 - [Sean Crumley](https://github.com/907VigiL)
 - [Ukpa Uchechi](https://github.com/uchechiukpa)
