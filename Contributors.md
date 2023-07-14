@@ -2865,3 +2865,4 @@ Here are :
 - [Rimsha Khan](https://github.com/RimshaK02)
 - [Smirnov Alexander](https://github.com/fredeom)
 - [Dylan Sturges](https://github.com/fadetoblack72)
+- [Gabriel Silvério](https://github.com/gsilverio7)
