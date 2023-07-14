@@ -2886,6 +2886,7 @@
 - [Srivaths Aripirala](https://github.com/srivaths-ahr/)
 - [Cheese QI](https://github.com/cheeseQI)
 - [Sagar Gupta](https://github.com/sagargupta16)
+- [Ayush Kishor](https://github.com/AyushKishor)
 - [Anuj Pandey]
 - [Priyanshi Dixit]
 - [Oladipupo Ishola]
