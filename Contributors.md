@@ -2254,6 +2254,7 @@ Here are :
 - [Damien Switzer](https://github.com/ThePinkFedora)
 - [Shize Gong](https://github.com/lzeee)
 - [Aditya Dafe](https://github.com/KaKashi1210)
+- [Sneha N] (https://github.com/sneha18073)
 - [Tharun Suresh](https://github.com/tharunsuresh-code)
 - [Sudipta Chatterjee](https://github.com/cuscat)
 - [Vishal Prakash](https://github.com/prakashvishal93)
