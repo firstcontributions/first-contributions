@@ -115,6 +115,7 @@ Here are :
 - [Ahmed Fatthi](https://github.com/AhmedFatthy1040)
 - [Gerlan](https://github.com/gerlanf)
 - [Guido Xenpfonte](https://github.com/guidoxenofonte2005)
+- [Melvin Jebasamuel](https://github.com/Mel28vin)
 - [NobiteK](https://github.com/NobiteK)
 - [Baraa Sayed](https://github.com/baraaashraf)
 - [Samuel Njoroge](https://github.com/Samuel-Njoroge)
