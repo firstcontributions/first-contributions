@@ -1666,6 +1666,7 @@
 - [Manvendra Prasad](https://github.com/Manv3ndra)
 - [Fabian Waterstrat](https://github.com/FabianWaterstrat)
 - [Abhinav Chaudhary](https://github.com/lan10rn)
+- [Shaurya Tripathi](https://github.com/shauryaa19)
 - [Saumya Upadhyay](https://github.com/Saumyaup11)
 - [Gordon Karlsson](https://github.com/gpkarlsson)
 - [Sava Stanchev](https://github.com/sava-stanchev)
