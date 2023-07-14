@@ -2,6 +2,17 @@
 
 A hotfix is a quick solution to address critical issues or bugs in a software project. It allows you to make necessary changes without disrupting the regular development flow. Here's a step-by-step guide on performing a hotfix in Git:
 
+## Guide Contents
+- [Identify the Hotfix](#identify-the-hotfix)
+- [Create a Hotfix Branch](#create-a-hotfix-branch)
+- [Make the Necessary Changes](#make-the-necessary-changes)
+- [Commit the Hotfix](#commit-the-hotfix)
+- [Publish the Hotfix Branch](#publish-the-hotfix-branch)
+- [Merge the Hotfix](#merge-the-hotfix)
+- [Tag the Hotfix](#tag-the-hotfix)
+- [Publish the Changes](#publish-the-changes)
+- [Cleanup](#cleanup)
+
 1. **Identify the Hotfix:** Determine the specific issue or bug that requires immediate attention. It's crucial to clearly understand the problem before proceeding with the hotfix.
 
 2. **Create a Hotfix Branch:** Create a new branch specifically for the hotfix. The branch should be based on the stable release branch that needs the fix. For example, if your stable branch is named "master," create a branch called "hotfix/issue-fix" or something similar.
