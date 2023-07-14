@@ -644,6 +644,7 @@
 - [Michael McKnight](https://github.com/MichaelMcKnight)
 - [Letizia DI MAIO](https://github.com/leta91)
 - [Pranav](https://github.com/Pranav7651)
+- [CornualGhost](https://github.com/cornualghost)
 - [Olaoye Muhammad-Nabeel](https://github.com/Developer-in-Tech)
 - [Nina Dijkstra](https://github.com/N-Dijkstra)
 - [Yahya Benlafkih](https://github.com/ybenlafk)
