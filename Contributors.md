@@ -2854,6 +2854,7 @@ Here are :
 - [Stepan Korobeynikov](https://github.com/korstep) -[Eryk Padziński](https://github.com/ErykPadzinski)
 - [Abdul Razzaq](https://github.com/razzaq-99)
 - [R.L.](https://github.com/theClawsmos)
+- [Manish Cheepa] (https://github.com/manivsbh)
 - [Vipul] (https://github.com/vipulbehalpande08)
 - [ecoArmGaming](https://github.com/ecoArcGaming)
 - [Anurag Kaushik](https://github.com/anuragkaushik10)
