@@ -2888,6 +2888,7 @@
 - [Dylan Sturges](https://github.com/fadetoblack72)
 - [Gabriel Silvério](https://github.com/gsilverio7)
 - [Srivaths Aripirala](https://github.com/srivaths-ahr/)
+- [Rafael Gomes](https://github.com/rafael1717y)
 - [Cheese QI](https://github.com/cheeseQI)
 - [Sagar Gupta](https://github.com/sagargupta16)
 - [Ayush Kishor](https://github.com/AyushKishor)
