@@ -792,6 +792,7 @@ Here are :
 - Yash Talele
 - [Avishkaar](https://github.com/Avishkaar007)
 - [Derek Young](https://github.com/derekpyoung)
+- [Burhan Barafwala](https://github.com/GenzBoss)
 - [Rishith PR](https://github.com/steel11256)
 - [Pedro Braga](https://github.com/PedBraga)
 - [Dilshad](https://github.com/a-rustacean)
