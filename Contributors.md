@@ -17,6 +17,7 @@
 - [Andrei Nicola](https://github.com/Nico7777777)
 - [JHong] (https://github.com/daechi73)
 - [Srikar](https://github.com/Srikar04)
+- [Dean Patterson] (https://github.com/deanp04)
 - [Sathya Anand](https://github.com/Saan-king)
 - [Hitesh Maan](https://github.com/Hiteshmaan4444)
 - [Denis Bondarev](https://github.com/TheNiska)
