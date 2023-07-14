@@ -2470,6 +2470,7 @@
 - [Anshul Dewangan](https://github.com/Anshul-04)
 - [Manish Rana](https://github.com/ranamaniz)
 - [Tarun Garg](https://github.com/Tarun110598)
+- [Felix Dawodu] (https://github.com/Felixdiamond)
 - [Harishankar Ravindran](https://github.com/jamessmith)
 - [CooperKozitza](https://github.com/CooperKozitza)
 - [Ahmed Mayara](https://github.com/ahmedmayara)
