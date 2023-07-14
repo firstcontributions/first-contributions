@@ -1,15 +1,15 @@
-[nikhil](https://github.com/adytr)
+# Contributors
+
 <!-- prettier-ignore-start and welcome -->
 
-Here are :
-
 - [Ketan Sahu](https://github.com/ketansahugit)
--[Pankti Shah](https://github.com/Pankti910)
+- [Pankti Shah](https://github.com/Pankti910)
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
--[Ruben Dario Duarte Anaya](https://github.com/ruben-duarte)
+- [Ruben Dario Duarte Anaya](https://github.com/ruben-duarte)
 - [Thiago Mandrik](https://github.com/thiagomandrik)
 - [Omkar A](https://github.com/mee-omi)
 - [Dheeraj Israni](https://github.com/dheeraj-israni)
+- [Amritha P P](https://github.com/Amritha-07)
 - [Stavros Mastorakis](https://github.com/StavrosMast)
 - [Ryuunicorn](https://github.com/ryuun1corn)
 - [jayasekharreddy-telluri](https://github.com/jayasekharreddy-telluri)
@@ -38,14 +38,14 @@ Here are :
 - [Eduardo Montano](https://github.com/edulol-1)
 - [Nihal]
 - [Mert Kjaer](https://github.com/rmertkayaer)
--[Muberra Kurt](https://github.com/MuberraKurt)
+- [Muberra Kurt](https://github.com/MuberraKurt)
 - [Keerthi Nannepamula](https://github.com/keerthinannepamula7)
 - [Zakria Jan](https://github.com/Xaki786)
 - [Iman] (https://github.com/iman2153)
 - [Hassan Kazeem]
 - [Sean Crumley](https://github.com/907VigiL)
 - [Ukpa Uchechi](https://github.com/uchechiukpa)
--[Apoorva Mamindla](https://github.com/ApoorvaM16)
+- [Apoorva Mamindla](https://github.com/ApoorvaM16)
 - [Uday Surya](https://github.com/udaySuryaP)
 - [Collins Ikechukwu](https://github.com/devcollinss)
 - [Sagar Shrivastava](https://github.com/learner-sagar)
@@ -2860,7 +2860,8 @@ Here are :
 - [satish choudhary](https://github.com/python-hacked)
 - [Rumi Kamioka](https://github.com/rk-kc)
 - [jeff-tor](https://github.com/jeff-tor)
-- [Stepan Korobeynikov](https://github.com/korstep) -[Eryk Padziński](https://github.com/ErykPadzinski)
+- [Stepan Korobeynikov](https://github.com/korstep)
+- [Eryk Padziński](https://github.com/ErykPadzinski)
 - [Abdul Razzaq](https://github.com/razzaq-99)
 - [R.L.](https://github.com/theClawsmos)
 - [Manish Cheepa] (https://github.com/manivsbh)
@@ -2877,3 +2878,8 @@ Here are :
 - [Dylan Sturges](https://github.com/fadetoblack72)
 - [Gabriel Silvério](https://github.com/gsilverio7)
 - [Srivaths Aripirala](https://github.com/srivaths-ahr/)
+- [Sagar Gupta](https://github.com/sagargupta16)
+Anuj Pandey
+Priyanshi Dixit
+Oladipupo Ishola
+Priyanshi Dixit
