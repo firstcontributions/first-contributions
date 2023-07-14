@@ -41,6 +41,7 @@ Here are :
 - [Hassan Kazeem]
 - [Sean Crumley](https://github.com/907VigiL)
 - [Ukpa Uchechi](https://github.com/uchechiukpa)
+-[Apoorva Mamindla](https://github.com/ApoorvaM16)
 - [Uday Surya](https://github.com/udaySuryaP)
 - [Collins Ikechukwu](https://github.com/devcollinss)
 - [Sagar Shrivastava](https://github.com/learner-sagar)
