@@ -171,7 +171,7 @@ Here are :
 - [Mansvi Kamble](https://github.com/22MansviK)
 - [Nathanaël V] (https://github.com/nathanael-v)
 - [muntazirgo] (https://github.com/muntazirgo)
-  [Kevin B]
+  [Nobilisfur1]
 - [Maayan] (https://github.com/maayan1)
 - [Lion King](https://github.com/topmsdreamer)
 - [Munene-m](https://github.com/munene-m) -[Nikolas Manuel](https://github.com/nikman21)
