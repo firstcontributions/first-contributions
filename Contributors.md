@@ -97,6 +97,7 @@ Here are :
 - [Seth Zwerling](https://github.com/SZwerling)
 - [Namrata Atmaram Utekar](https://github.com/Namratau)
   [Vinay Chitade](https://github.com/vcint)
+  [Pradeep Verma](https://github.com/pradeepkv012)
 - [jrheronn](https://github.com/jrheronn)
 - [Uday Krishnan](https://github.com/udaykrishnan9302)
 - [Shreyash A. Kamble](https://github.com/mrkshreyash)
