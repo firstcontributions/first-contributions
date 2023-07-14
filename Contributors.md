@@ -396,6 +396,7 @@ Here are :
 - [Abhishek Kumar](https://github.com/abhishek-Roy22)
 - [SnowZillin](https://github.com/SnowZillin)
 - [Irsyad](https://github.com/charIrsyad)
+- [Latif Fetahaj](https://github.com/latiffetahaj)
 - [Matt Jarrett](https://github.com/mvjarrett)
 - ![Joshua Ramat](https://github.com/joshuaramat)
 - [Sekinat Oyero](https://github.com/Sekinat-oyero)
