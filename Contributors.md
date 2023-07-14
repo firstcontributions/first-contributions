@@ -2751,6 +2751,7 @@ Here are :
 - Buggy
 - Tara
 - kritika singh
+- [George](https://github.com/gsgxnet)
 - [biyam](https://github.com/biyamn)
 - [Jeff Loop](https://github.com/jefferyloop)
 - [Simone Coslovich](https://github.com/simo2712)
