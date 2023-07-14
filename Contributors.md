@@ -2882,6 +2882,7 @@
 - [Dylan Sturges](https://github.com/fadetoblack72)
 - [Gabriel Silvério](https://github.com/gsilverio7)
 - [Srivaths Aripirala](https://github.com/srivaths-ahr/)
+- [Cheese QI](https://github.com/cheeseQI)
 - [Sagar Gupta](https://github.com/sagargupta16)
 Anuj Pandey
 Priyanshi Dixit
