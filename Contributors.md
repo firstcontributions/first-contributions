@@ -1656,6 +1656,7 @@
 - [Shaswat Satyam](https://github.com/shaswat-satyam)
 - [Vishal](https://github.com/VishalPraneeth)
 - [Sadiq Siraj Ebrahim](https://github.com/sadiqebrahim)
+- [Margaret Teague](https://github.com/margaret-in-cali)
 - [Wajid Ali Tabassum](https://github.com/wajidalitabassum143)
 - [Saloni Modi](https://github.com/pineappleEnthusiast)
 - [Manvendra Prasad](https://github.com/Manv3ndra)
