@@ -37,6 +37,7 @@ Here are :
 - [Mert Kjaer](https://github.com/rmertkayaer)
 -[Muberra Kurt](https://github.com/MuberraKurt)
 - [Keerthi Nannepamula](https://github.com/keerthinannepamula7)
+- [Zakria Jan](https://github.com/Xaki786)
 - [Iman] (https://github.com/iman2153)
 - [Hassan Kazeem]
 - [Sean Crumley](https://github.com/907VigiL)
