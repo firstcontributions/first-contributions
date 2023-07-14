@@ -7,6 +7,7 @@ Here are :
 -[Pankti Shah](https://github.com/Pankti910)
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
 -[Ruben Dario Duarte Anaya](https://github.com/ruben-duarte)
+- [Thiago Mandrik](https://github.com/thiagomandrik)
 - [Stavros Mastorakis](https://github.com/StavrosMast)
 - [Ryuunicorn](https://github.com/ryuun1corn)
 - [jayasekharreddy-telluri](https://github.com/jayasekharreddy-telluri)
