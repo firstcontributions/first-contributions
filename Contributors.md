@@ -331,6 +331,7 @@
 - [Sky Lin] (https://github.com/sky798lin)
 - [Omoogun Olawale](https://github.com/olawale-o)
 - [Devop Parker](https://github.com/DevopParker)
+- [Michal Varga](https://github.com/michalvargaa)
 - [Nwankwo Ebube](https://github.com/EbubeDev)
 - [Isaac Achenbach](https://github.com/isaacach)
 - [Miguel Angel](https://github.com/mafdezmoreno)
