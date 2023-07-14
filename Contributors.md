@@ -106,6 +106,7 @@
 - [Nikos Serepas](https://github.com/nikossrp)
 - [Abhay Donga](https://github.com/AbhayDonga007)
 - [Nathan Budiman](https://github.com/JBudiman00)
+- [Armand Cismaru](https://github.com/armandcismaru)
 - [Seth Zwerling](https://github.com/SZwerling)
 - [Namrata Atmaram Utekar](https://github.com/Namratau)
   [Vinay Chitade](https://github.com/vcint)
