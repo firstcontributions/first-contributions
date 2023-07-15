@@ -571,6 +571,7 @@
 - [Joy](https://github.com/aquaj0y)
 - [Ayomide Ilesanmi](https://github.com/TheCodeGhinux)
 - [John](https://github.com/duckheap)
+- [Chandranil Bakshi](https://github.com/chandranilbakshi)
 - [Irfan](https://github.com/Parjival)
 - [Nur Farah](https://github.com/Nur-farah) -[eyitayo babatope](https://github.com/eyitayo-alt)
 - [Anand Raj](https://github.com/anand346)
