@@ -4,6 +4,7 @@
 
 - [Karan Goyal](https://github.com/goyalkaran)
 - [Mahmoud Khalifa](https://github.com/mahmoudkhalifah)
+- [Abdullah Naseer](https://github.com/ABNaseer)
 - [Ketan Sahu](https://github.com/ketansahugit)
 - [Susmitha](https://github.com/susmitha0902)
 - [Mas Muhammadun Zahid](https://github.com/masza1)
