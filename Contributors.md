@@ -1,11 +1,13 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
+
 - [DimCel](https://github.com/dimcel)
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
 - [Ayush_Chaudhari](https://github.com/the-bokya)
 - [Aleks_Lucenko](https://github.com/alekslucenko)
+- [Nawaraj Karki ] (escaping the rat race)
 - Brijesh Roy - https://github.com/brijeshroy
 - [Raj sharma](https://github.com/lluciferr)
 - [Conaitus](https://github.com/conaitus)
