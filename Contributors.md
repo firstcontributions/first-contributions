@@ -370,6 +370,9 @@
 - [Tanmai Kalisipudi](https://github.com/tanmaik)
 - [Muhammed Ali ﾃ奔 can ](https://github.com/Rhipheus)
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
+- [Daniel Evans](https://github.com/devanssound)
+- [Ursu Nicolae] (https://github.com/UrsuNicolae)
+- [Fajla Rabby](https://github.com/Fajla-Rabby) 
 - [Ursu Nicolae](https://github.com/UrsuNicolae)
 - [Fajla Rabby](https://github.com/Fajla-Rabby)
 - [Norvillie Villaruel](https://github.com/nozky)
@@ -649,6 +652,7 @@
 - [Krutartha Nagesh](https://github.com/krutartha)
 - [Vance Sama](https://github.com/VansRouges)
 - [Nived Km]
+- [Aurelio Hernﾃ｡ndez Lﾃｳpez](https://github.com/hernanes338)
 - [Aurelio Hern ﾃ｡ndez L ﾃｳ pez](https://github.com/hernanes338)
 - [Mushfiqur Rahman](https://github.com/mushfiq13)
 - [colonia_duck](https://github.com/colonia-duck)
@@ -700,6 +704,7 @@
 - [Sampath Vatsavaya](https://github.com/Sampath-Vatsavaya)
 - Gaurav Bhambhani
 - Marcel
+- Rajat (https://github.com/rajatrokde)
 - [Rajat](https://github.com/rajatrokde)
 - [Emre](https://github.com/etdesign)
 - [P1K5UP](https://github.com/P1K5UP)
@@ -711,6 +716,7 @@
 - [Muhammed Ibrahim](https://github.com/GreyOwl123)
 - [Oliver Beresford](https://github.com/OliverSBeresford)
 - [Vihaan Vijayvargiya](https://github.com/vihaanvijayvargiya)
+- [Sandeep Kumar](https://github.com/SandeepKumar2024) 
 - [Sandeep Kumar](https://github.com/SandeepKumar2024)
 - [Siddhant Chaturwedi](https://github.com/Sidhant2812)
 - [Sagar Chaudhary](https://github.com/SAGARCODESTER)
@@ -834,7 +840,6 @@
 - J3exellence
 - Justin Valdez
 - Triparna Saha
--
 - [John Allen](https://github.com/johnallen1029)
 - Shashank Sangale
 - [Megan Cooper](https://github.com/MegRCooper)
@@ -1785,6 +1790,7 @@
 - [Ikako Core](https://github.com/irakli777irakli)
 - [Julian Macioce](https://github.com/JMacioce)
 - [Matteo Bruscagnin](https://github.com/MBruscagnin)
+- [Daniel Evans](https://github.com/devanssound)
 - [LaGanjaEsranja Yas Gawd](https://github.com/laganjaestranja)
 - [Ayan Chakraborty](https://github.com/replayan)
 - [Bhaskar Sharma](https://github.com/bhaskarsharma10)
