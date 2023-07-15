@@ -10,6 +10,7 @@
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
 - [Ruben Dario Duarte Anaya](https://github.com/ruben-duarte)
 - [Prathiksha Kamath](https://github.com/prathikshakamath)
+- [Rujuta Vivek Vaidya](https://github.com/rvaidya2)
 - [Thiago Mandrik](https://github.com/thiagomandrik)
 - [Omkar A](https://github.com/mee-omi)
 - [sogho37](https://github.com/sogho37)
