@@ -536,6 +536,7 @@
 - [nnminhtan](https://github.com/nnminhtan)
 - [Keo Magano](https://github.com/K-Magano)
 - [Rishabh](https://github.com/rishabhr4)
+- [Francesco Sciabbarrasi](https://github.com/FrancescoSciab)
 - [Noriomusha](https://github.com/Noriomusha)
 - [Aditya Agarwal](https://github.com/adi790uu)
 - Bhagyalakshmi
