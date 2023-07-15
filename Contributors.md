@@ -95,6 +95,7 @@
 - [Vicky Raghuwanshi](https://github.com/Vicky-Raghuwanshi)
 - [Divyanshu Pabia](https://github.com/Rekklessss)
 - [Ali Manzer](https://github.com/amanzer)
+- [Kyaw Swar Min Lwin](https://github.com/daburndev)
 - [Cem Enes Karakuş](https://github.com/karakuscem)
 - [Ayush Gupta](https://github.com/Rock-Shell)
 - [Sean Keefe](https://github.com/SeanCKeefe13)
