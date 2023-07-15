@@ -42,6 +42,7 @@
 - [Hitesh Maan](https://github.com/Hiteshmaan4444)
 - [Frederic carboneras](https://github.com/Frittenfred97)
   [Uchenna Adubasim](https://github.com/uche-wealth)
+- [Ashish Jadhav](https://github.com/AshishJadhav45)
 - [Harsh](https://github.com/harshvsri)
 - [Shreyas](https://github.com/Shreyas4256)
 - [Eduardo Montano](https://github.com/edulol-1)
