@@ -5,6 +5,7 @@ Here are :
 
 - [Ketan Sahu](https://github.com/ketansahugit)
 -[Pankti Shah](https://github.com/Pankti910)
+-[Latif Fetahaj](https://github.com/latiffetahaj)
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
 -[Ruben Dario Duarte Anaya](https://github.com/ruben-duarte)
 - [Thiago Mandrik](https://github.com/thiagomandrik)
