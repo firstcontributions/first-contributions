@@ -2,6 +2,8 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+
+- [Binod Nagarkoti](https://github.com/BinodNagarkoti)
 - [Ketan Sahu](https://github.com/ketansahugit)
 - [Susmitha](https://github.com/susmitha0902)
 - [Mas Muhammadun Zahid](https://github.com/masza1)
