@@ -2900,6 +2900,7 @@
 - [Rumi Prabhakar](https://github.com/Rumi-Prabhakar)
 - [satish choudhary](https://github.com/python-hacked)
 - [Rumi Kamioka](https://github.com/rk-kc)
+- [Barbonell](https://github.com/barbonell)
 - [jeff-tor](https://github.com/jeff-tor)
 - [Stepan Korobeynikov](https://github.com/korstep)
 - [Eryk Padziński](https://github.com/ErykPadzinski)
