@@ -25,6 +25,7 @@
 - [M4h4nk4l1](https://github.com/m4h4nk4l1)
 - [JHong](https://github.com/daechi73)
 - [Srikar](https://github.com/Srikar04)
+- [Junqing Chen](https://github.com/Infinity12306)
 - [Temitope Sam](https://github.com/Temitopesam)
 - [Dean Patterson](https://github.com/deanp04)
 - [Sathya Anand](https://github.com/Saan-king)
