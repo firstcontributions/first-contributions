@@ -2936,5 +2936,6 @@
 - [Hugo Alonzo](https://github.com/hhugoac)
 - [Erick Sutil](https://github.com/erbsutil)
 - [Grace Patlewicz](https://github.com/g-patlewicz)
+- [Zach Meszaros](https://github.com/t3hPoundcake)
 - [Yarendra Sharma](https://github.com/Yarendra)
 - [Manjil Thapa](https://github.com/Manjil-Thapa)
