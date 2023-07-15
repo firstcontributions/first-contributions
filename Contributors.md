@@ -1901,6 +1901,7 @@
 - [Yash Thakur](https://github.com/philomathaf)
 - [Aranamor](https://github.com/aranamor)
 - [Efemena](https://github.com/Festivemena)
+- [Đặng Hoàng Minh](https://github.com/minhhoccode111)
 - [Cedrick AHOUANGANSI](https://github.com/Cedrick-ah)
 - [PremiumCesium](https://github.com/PremiumCesium)
 - [Rajarshi Bhattacharya](https://github.com/rajarshi023)
