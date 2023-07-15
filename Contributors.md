@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+- [Karan Goyal](https://github.com/goyalkaran)
 - [Mahmoud Khalifa](https://github.com/mahmoudkhalifah)
 - [Ketan Sahu](https://github.com/ketansahugit)
 - [Susmitha](https://github.com/susmitha0902)
@@ -24,6 +25,7 @@
 - [jayasekharreddy-telluri](https://github.com/jayasekharreddy-telluri)
 - [V205Github](https://github.com/V205Github)
 - [Andrei Nicola](https://github.com/Nico7777777)
+- [Priya Jani](https://github.com/priyajani028)
 - [M4h4nk4l1](https://github.com/m4h4nk4l1)
 - [JHong](https://github.com/daechi73)
 - [Srikar](https://github.com/Srikar04)
