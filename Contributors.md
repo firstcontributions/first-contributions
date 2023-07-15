@@ -287,7 +287,7 @@ Condor Sergiu
 - [Igor Filgueira](https://github.com/igorfilgueira)
 - [Diogo Abreu](https://github.com/diogo-abreu123)
 - Igniseri
--  [hina javed](https://github.com/hinajaved123)
+- [hina javed](https://github.com/hinajaved123)
 - [Rima Nurkholifah](https://github.com/rimanurfah)
 - [Saksham Misra](https://github.com/vinfinity7)
 - [PJ Angeloni 発溌捗](https://github.com/PaoloJr90)
@@ -311,7 +311,7 @@ Condor Sergiu
 - [John](https://github.com/duckheap)
 - [Irfan](https://github.com/Parjival)
 - [Nur Farah](https://github.com/Nur-farah)
--[eyitayo babatope](https://github.com/eyitayo-alt)
+- [eyitayo babatope](https://github.com/eyitayo-alt)
 - [Anand Raj](https://github.com/anand346)
 - [Adrian Camuti] (https://github.com/ApogeeAC)
 - [Phil] (https://github.com/psmail147)
@@ -354,7 +354,7 @@ Condor Sergiu
 - [Swastik Bansal](https://github.com/swastikbansal)
 - [Krutartha Nagesh](https://github.com/krutartha)
 - [Vance Sama](https://github.com/VansRouges)
--[Nived Km]
+- [Nived Km]
 - [Aurelio Hernﾃ｡ndez Lﾃｳpez](https://github.com/hernanes338)
 - [Mushfiqur Rahman](https://github.com/mushfiq13)
 - [colonia_duck](https://github.com/colonia-duck)
@@ -399,7 +399,7 @@ Condor Sergiu
 - Gaurav Bhambhani
 - Marcel
 - Rajat (https://github.com/rajatrokde)
--[Emre](https://github.com/etdesign)
+- [Emre](https://github.com/etdesign)
 - [P1K5UP](https://github.com/P1K5UP)
 - [Jatin Bhatia](https://github.com/jatinb92)
 - [Jeremy Rustandi] (https://github.com/jerstnd)
@@ -408,7 +408,8 @@ Condor Sergiu
 - [Muhammed Ibrahim](https://github.com/GreyOwl123)
 - [Oliver Beresford](https://github.com/OliverSBeresford)
 - [Vihaan Vijayvargiya](https://github.com/vihaanvijayvargiya)
-- [Sandeep Kumar](https://github.com/SandeepKumar2024) -[Siddhant Chaturwedi](https://github.com/Sidhant2812)
+- [Sandeep Kumar](https://github.com/SandeepKumar2024) 
+- [Siddhant Chaturwedi](https://github.com/Sidhant2812)
 - [Sagar Chaudhary](https://github.com/SAGARCODESTER)
 - [Rudy Trinidad](https://github.com/RDLTC)
 - [Bryan Bernardo](https://github.com/bernardo-bryan)
