@@ -12,6 +12,7 @@
 - [Omkar A](https://github.com/mee-omi)
 - [Dheeraj Israni](https://github.com/dheeraj-israni)
 - [Amritha P P](https://github.com/Amritha-07)
+- [Gerum HaileLincoln](https://github.com/qraztec)
 - [Stavros Mastorakis](https://github.com/StavrosMast)
 - [Ryuunicorn](https://github.com/ryuun1corn)
 - [Shreshth Rajpal](https://github.com/shreshthr)
