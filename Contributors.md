@@ -2590,6 +2590,7 @@
 - [Guan Zhi Wang](https://github.com/joe94113)
 - [Rohit Poduval](https://github.com/RohitPoduval1)
 - [Jing Yi]
+- [Gabriel]
 - [Juan Ospina](https://github.com/juandaosp)
 - [Paaad]
 - [Jay Love](https://github.com/theonejlove)
