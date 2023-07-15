@@ -5,6 +5,7 @@
 - [Ketan Sahu](https://github.com/ketansahugit)
 - [Susmitha](https://github.com/susmitha0902)
 - [Mas Muhammadun Zahid](https://github.com/masza1)
+- [Michael Hutchinson](https://github.com/Michael-Hutchinson)
 - [Pankti Shah](https://github.com/Pankti910)
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
 - [Ruben Dario Duarte Anaya](https://github.com/ruben-duarte)
