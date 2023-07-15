@@ -1,6 +1,8 @@
 # Contributors
 
 <!-- prettier-ignore-start and welcome -->
+
+- [Sunny Kharwar](https://github.com/sunny4260)
 - [Dheeraj verma](https://github.com/Dheerajverma2004)
 - [Binod Nagarkoti](https://github.com/BinodNagarkoti)
 - [Ketan Sahu](https://github.com/ketansahugit)
