@@ -519,6 +519,7 @@
 - [Prachi Chauhan](https://github.com/PrachiChauhan23)
 - [Zee](https://github.com/zoptimizer)
 - [Odebode Oluwatimilehin](https://github.com/timiwritescode)
+- [Oduola Kamol](https://github.com/hinzullah)
 - [TunedayCodes](https://github.com/TunedayCodes)
 - [AF](https://github.com/affiasco)
 - [Nazianzenov](https://github.com/Nazianzenov)
