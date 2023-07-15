@@ -131,6 +131,7 @@
 - [Tanmai Kalisipudi](https://github.com/tanmaik)
 - [Muhammed Ali ﾃ奔can ](https://github.com/Rhipheus)
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
+- [Daniel Evans](https://github.com/devanssound)
 - [Ursu Nicolae] (https://github.com/UrsuNicolae)
 - [Fajla Rabby](https://github.com/Fajla-Rabby) 
 - [Norvillie Villaruel](https://github.com/nozky)
