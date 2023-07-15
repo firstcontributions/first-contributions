@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+- [Karan Goyal](https://github.com/goyalkaran)
 - [Mahmoud Khalifa](https://github.com/mahmoudkhalifah)
 - [Ketan Sahu](https://github.com/ketansahugit)
 - [Susmitha](https://github.com/susmitha0902)
