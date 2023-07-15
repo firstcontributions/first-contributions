@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+- [Lam Hoang Phuc](https://github.com/PLH2812)
 - [Karan Goyal](https://github.com/goyalkaran)
 - [Mahmoud Khalifa](https://github.com/mahmoudkhalifah)
 - [Abdullah Naseer](https://github.com/ABNaseer)
