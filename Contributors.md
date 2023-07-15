@@ -1261,7 +1261,8 @@
 - [Andrew Lamichhane](https://github.com/Andrew-LC)
 - [Ruphaa Ganesan](https://github.com/ruphaa)
 - Pulkit
-  -Avital Yair
+- Avital Yair
+- Johnmicheal Uzendu
 - [Dyomanjaro](https://github.com/Dyomanjaro)
 - [ANKIT VISHWAKARMA](https://github.com/ankitxcoding)
 - [unpluggedsam](https://github.com/unpluggedsam)
