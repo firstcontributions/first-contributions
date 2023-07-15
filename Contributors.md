@@ -65,6 +65,7 @@
 - [Alexey Usachov](https://github.com/alexey-dev)
 - [Sean Crumley](https://github.com/907VigiL)
 - [Ukpa Uchechi](https://github.com/uchechiukpa)
+- [Siddesh Sasane](https://github.com/Siddesh42)
 - [Apoorva Mamindla](https://github.com/ApoorvaM16)
 - [Uday Surya](https://github.com/udaySuryaP)
 - [Collins Ikechukwu](https://github.com/devcollinss)
