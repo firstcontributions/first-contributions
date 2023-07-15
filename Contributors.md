@@ -2075,6 +2075,7 @@
 - [Sumit Girwal](https://github.com/sumitgirwal)
 - [Ahsanul Mahbub Tanvir](https://github.com/tanvir-03)
 - [Kylin Schneider](https://github.com/KyeByeHi)
+- [Brian Bonifacio](https://github.com/Hapinace)
 - [King John](https://github.com/KingJohn-german)
 - [Rifqi](https://github.com/mrifqip29)
 - [Iorvera](https://github.com/iorvera1/first-contributions)
