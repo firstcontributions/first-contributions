@@ -131,7 +131,7 @@
 - [Tanmai Kalisipudi](https://github.com/tanmaik)
 - [Muhammed Ali ﾃ奔can ](https://github.com/Rhipheus)
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
-- [Ursu Nicolae] (https://github.com/UrsuNicolae)
+- [Ursu Nicolae](https://github.com/UrsuNicolae)
 - [Fajla Rabby](https://github.com/Fajla-Rabby) 
 - [Norvillie Villaruel](https://github.com/nozky)
 - [Prerna Singh](https://github.com/PrernaSingh01)
@@ -523,7 +523,6 @@ Condor Sergiu
 - J3exellence
 - Justin Valdez
 - Triparna Saha
-- 
 - [John Allen](https://github.com/johnallen1029)
 - Shashank Sangale
 - Megan Cooper (https://github.com/MegRCooper)
@@ -1418,6 +1417,7 @@ Tanisha Kodam(https://github.com/Tanisha411)
 - [Ikako Core](https://github.com/irakli777irakli)
 - [Julian Macioce](https://github.com/JMacioce)
 - [Matteo Bruscagnin](https://github.com/MBruscagnin)
+- [Daniel Evans](https://github.com/devanssound)
 - [LaGanjaEsranja Yas Gawd](https://github.com/laganjaestranja)
 - [Ayan Chakraborty](https://github.com/replayan)
 - [Bhaskar Sharma](https://github.com/bhaskarsharma10)
