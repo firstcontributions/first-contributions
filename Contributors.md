@@ -265,6 +265,7 @@
 - [Alfonzo Church](https://github.com/ruphail)
 - [Devanshu Augusty](https://github.com/Devanshu-Augusty)
 - [Zachary Murphy](https://github.com/ZacharyJTMurphy)
+- [Amaan Khan](https://github.com/amaan-kh)
 - [Raj Agrahari](https://github.com/RajAgrahari)
 - [Aviprit Shah](https://github.com/programmer765/)
 - [Chavva Narayana Reddy](https://github.com/ChavvaNarayana)
