@@ -10,6 +10,7 @@
 - [Mas Muhammadun Zahid](https://github.com/masza1)
 - [Chris Raddatz](https://github.com/Chris-Raddatz)
 - [Michael Hutchinson](https://github.com/Michael-Hutchinson)
+- [Gabriel E. Ramirez](https://github.com/GERamirez03)
 - [Pankti Shah](https://github.com/Pankti910)
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
 - [Ruben Dario Duarte Anaya](https://github.com/ruben-duarte)
