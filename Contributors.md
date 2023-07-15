@@ -1,8 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start and welcome -->
-
-
+- [Dheeraj verma](https://github.com/Dheerajverma2004)
 - [Binod Nagarkoti](https://github.com/BinodNagarkoti)
 - [Ketan Sahu](https://github.com/ketansahugit)
 - [Susmitha](https://github.com/susmitha0902)
@@ -302,13 +301,12 @@
   Athul
 - [Jon Formantes](https://github.com/matui3)
 - [moodham](https://github.com/moodham)
-  -[Diego Guisande](https://github.com/GuisandeGolfer)
-  Athul
-- [moodham](https://github.com/moodham) -[Diego Guisande](https://github.com/GuisandeGolfer)
+- [Diego Guisande](https://github.com/GuisandeGolfer)
 - [Jack Gerry](https://github.com/JackGerry1)
 - [Jack Galat] (https://github.com/JMGalati8)
-- [笨粂 usseini Mudi Profsain](https://github.com/Profsain)
-- [Vansh Rai Saini](https://github.com/vanshraisaini) -[Sugam Goel](https://github.com/Sugamgoel28)
+- [笨粂usseini Mudi Profsain](https://github.com/Profsain)
+- [Vansh Rai Saini](https://github.com/vanshraisaini)
+- [Sugam Goel](https://github.com/Sugamgoel28)
 - [Damoon Darvishi](https://github.com/DamoonDarvishi)
 - [Shubham Tamrakar](https://github.com/shubham-tam)
 - [Ritesh Mahato] (https://github.com/Ritesh1625)
@@ -418,8 +416,10 @@
 - ![Joshua Ramat](https://github.com/joshuaramat)
 - [Sekinat Oyero](https://github.com/Sekinat-oyero)
 - [Nakshatra](https://github.com/naxatra2)
-- [HP] (https://github.com/Black-Hwak) -[kavearhasi](https://github.com/kavearhasi)
-- [Arturo L ﾃｳ pez](https://github.com/arturolopeze) -[Sai Sravani Vadali](https://github.com/vadalisravani)
+- [HP] (https://github.com/Black-Hwak)
+- [kavearhasi](https://github.com/kavearhasi)
+- [Arturo Lﾃｳpez](https://github.com/arturolopeze)
+- [Sai Sravani Vadali](https://github.com/vadalisravani)
 - [Albert Arakelyan](https://github.com/AlbertArakelyan)
 - [Saifullah Khan] (https://github.com/unverifiedchaos5017)
 - [Chloe Gavrilovic](https://github.com/cmgvc)
@@ -432,7 +432,8 @@
 - [Kanak Shakya] (https://github.com/Kanak1125)
 - [Ricky Rick](https://github.com/ravirik)
 - [Ali Aizn](https://github.com/aliaizn)
-- [Jaeyy166](https://github.com/Jaeyy166) -[Iury-Ferreira](https://github.com/Iuggy)
+- [Jaeyy166](https://github.com/Jaeyy166)
+- [Iury-Ferreira](https://github.com/Iuggy)
 - [Mohammed Hashim K](https://github.com/mohammed-hashim-k)
 - [Piyush Pawar](https://github.com/piyushpawar54)
 - [Elpidio Julian](https://github.com/Elpidio-Julian)
@@ -518,7 +519,7 @@
 - [Akhil](https://github.com/Akhil-77)
 - [Vishwanath]
 - [Javier Ramirez](https://github.com/ramirezj129)
-  [Raghav KR](https://github.com/RAG-KR)
+- [Raghav KR](https://github.com/RAG-KR)
 - [Roger Massana](https://github.com/massanaRoger)
 - [Yash Patel](https://github.com/theyashpatel)
   Shreyash Verma
