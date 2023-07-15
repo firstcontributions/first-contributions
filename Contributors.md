@@ -114,6 +114,7 @@
 - [Javier Luengo](https://github.com/fraluegut)
 - [Ali Shaharyar](https://github.com/ColSherwood)
 - [Fernando Adames](https://github.com/FernandoAdames)
+- [Manuel Albino](https://github.com/bin0o)
 - [Yohannes Fishatsion](https://github.com/yohannes-teshale)
 - [Rimma Kubanova](https://github.com/rimma-kubanova)
 - [Kuldip Chaudhary](https://github.com/KMchaudhary)
