@@ -8,6 +8,7 @@
 - [Pankti Shah](https://github.com/Pankti910)
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
 - [Ruben Dario Duarte Anaya](https://github.com/ruben-duarte)
+- [Prathiksha Kamath](https://github.com/prathikshakamath)
 - [Thiago Mandrik](https://github.com/thiagomandrik)
 - [Omkar A](https://github.com/mee-omi)
 - [sogho37](https://github.com/sogho37)
