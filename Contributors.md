@@ -2901,6 +2901,7 @@
 - [Kayson](https://github.com/Kayson896)
 - [Faheem Mushtaq](https://github.com/FaheemOnHub)
 - [Rumi Prabhakar](https://github.com/Rumi-Prabhakar)
+- [Pickels](https://github.com/pickels)
 - [satish choudhary](https://github.com/python-hacked)
 - [Rumi Kamioka](https://github.com/rk-kc)
 - [Barbonell](https://github.com/barbonell)
