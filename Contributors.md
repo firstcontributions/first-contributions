@@ -41,6 +41,7 @@
 - [Ankita Patil](https://github.com/AnkitaPatil2003)
 - [Lebogang Mokoena](https://github.com/manLebza)
 - [Divyanshu Dhruv](https://github.com/divyanshudhruv)
+- [Talha Altaf](https://github.com/TalhaAltaf2914)
 - [Hitesh Maan](https://github.com/Hiteshmaan4444)
 - [Frederic carboneras](https://github.com/Frittenfred97)
   [Uchenna Adubasim](https://github.com/uche-wealth)
