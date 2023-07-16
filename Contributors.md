@@ -952,6 +952,7 @@
 - [ARYAN](https://github.com/aryanhr0001)
 - [Anthony Lorraine](https://github.com/AnthonyLorraine)
 - [CrazyOutOff](https://github.com/CrazyOutOff)
+- [Mahesh Sudhakar](https://github.com/smahesh2694)
 - [Eric J](https://github.com/ej31415)
 - [Omkar](https://github.com/omkarb21)
 - [Matias Mansilla](https://github.com/MansillaM)
