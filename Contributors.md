@@ -267,6 +267,7 @@
 - [Shubham Lalwani](https://github.com/Shubham-777-bit)
 - [Frosty2500](https://github.com/Frosty2500)
 - [Anadu Godwin](https://github.com/AnaduCG)
+- [honii_00](https://github.com/honii-00)
 - [Milo Bauman](https://github.com/mjearlb)
 - [Josh88x](https://github.com/Josh88x)
 - [NewProgrammerAI](https://github.com/NewProgrammerAI)
