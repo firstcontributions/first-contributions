@@ -41,6 +41,7 @@
 - [V205Github](https://github.com/V205Github)
 - [Andrei Nicola](https://github.com/Nico7777777)
 - [Priya Jani](https://github.com/priyajani028)
+- [lxmwaniky](https://github.com/lxmwaniky)
 - [M4h4nk4l1](https://github.com/m4h4nk4l1)
 - [JHong](https://github.com/daechi73)
 - [Srikar](https://github.com/Srikar04)
