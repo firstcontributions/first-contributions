@@ -101,6 +101,7 @@
 - [Hashir-ul-islam](https://github.com/HashCoder001)
 - [Sergio Zavala](https://github.com/sezavala)
 - [Kaung Si Thu](https://github.com/kstiel)
+  [jithangowda](https://github.com/jithangowda)
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
 - [Venkatesh Reddy](https://github.com/venkateshreddy2003)
 - [Shubham Swain](https://github.com/swain778)
