@@ -3021,6 +3021,7 @@
 - [Oladipupo Ishola]
 - [Priyanshi Dixit]
 - [Jesse Ambler](https://github.com/jnrambler)
+- [Irvene Kwambana](https://github.com/irvinehawks)
 - [Akash](https://github.com/acfoss)
 - [Hugo Alonzo](https://github.com/hhugoac)
 - [Erick Sutil](https://github.com/erbsutil)
