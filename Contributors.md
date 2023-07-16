@@ -89,6 +89,7 @@
 - [Tyresz Brash](https://github.com/TyreszB)
 - [Dhairya Sehgal](https://github.com/DhairyaSehgal07)
 - [AndyS](https://github.com/AndyS-first)
+- [Aleksei Gordienko](https://github.com/AlekseiGor)
 - [Samaila](https://github.com/samailamalima)
 - [Christopher Lumen](https://github.com/thops1925)
 - [Prashanth](https://github.com/Tamilanth)
