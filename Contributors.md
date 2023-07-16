@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+- [Abhinna] (https://github.com/abhinnachandra/first-contributions-a)
 - [NeverW8](https://github.com/NeverW8)
 - [Mr Weis] (https://github.com/werelouis)
 - [Lam Hoang Phuc](https://github.com/PLH2812)
