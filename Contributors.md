@@ -60,6 +60,7 @@
 - [Shreyas](https://github.com/Shreyas4256)
 - [Eduardo Montano](https://github.com/edulol-1)
 - [Nihal]
+- [Connor Lyttle](https://github.com/LyttleGC)
 - [Sebastien Pingal](https://github.com/sebastienpingal)
 - [Mert Kjaer](https://github.com/rmertkayaer)
 - [Muberra Kurt](https://github.com/MuberraKurt)
