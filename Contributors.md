@@ -1130,6 +1130,8 @@
 - [Aryant Kumar](https://github.com/Aryant01)
 - [Shakil Islam](https://github.com/pr0xy-exe)
 - [Dhruv Jadvani](https://github.com/dhruvjadvani1)
+- [Simran](https://github.com/Simran2404)
+- [Stanislav Matﾅ｡el](https://github.com/StanislavMachel)
 - [Stanislav Mat ﾅ｡el](https://github.com/StanislavMachel)
 - [Davis Onyeoguzoro](https://github.com/Davisonyeas)
 - [jdszekeres](https://github.com/jdszekeres)
