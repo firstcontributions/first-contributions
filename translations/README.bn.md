@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-# প্রথম অবদান
+# প্রথম অবদানসমূহ
 
 প্রথমবারের মতো কোনো কাজ করতে গেলে তা কঠিন বলেই মনে হবে। আর আপনি যদি অন্যদের কাজে সহযোগিতা করেন, তাহলে ভুলভ্রান্তিগুলো অত্যন্ত বিব্রতকর। অথচ 'ওপেন সোর্স'-এর মূল বিষয়টিই হচ্ছে পারস্পরিক সহযোগিতা ও একত্রে কাজ করা। আমরা চাই ওপেন সোর্সে অবদান রাখতে ইচ্ছুক নবীনরা যেন সহজেই শিখতে পারে এবং প্রথমবারের মতো তাদের অবদান রাখতে পারে।
 
