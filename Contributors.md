@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 <!-- prettier-ignore-start and welcome -->
 - [Mr Weis] (https://github.com/werelouis)
@@ -2999,3 +2999,4 @@
 - [Ahmed el Ahmmar](https://github.com/ahmedelahmmar)
 - [YiyangCC](https://github.com/yiyangcc)
 - [Gerald Wala](https://github.com/G-ala-Hub)
+- [Coconaatti](https://github.com/Coconaatti)
