@@ -4,6 +4,7 @@
 
 - [Guillermo Ramirez](https://github.com/gmoramirezvilla)
 - [MarcelvanW](https://github.com/MarcelvanW)
+- [Dennis -c4nviz- Knorr](https://github.com/c4nviz)
 - [Abhinna] (https://github.com/abhinnachandra/first-contributions-a)
 - [NeverW8](https://github.com/NeverW8)
 - [Franz Tiongson](https://github.com/versacodes)
