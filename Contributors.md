@@ -103,6 +103,7 @@
 - [Shubham Swain](https://github.com/swain778)
 - [Mohan Gowda T](https://github.com/mohangowdatdev)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
+- [Marcus Brandes](https://github.com/MarcusBBB)
 - [Vicky Raghuwanshi](https://github.com/Vicky-Raghuwanshi)
 - [Divyanshu Pabia](https://github.com/Rekklessss)
 - [Ali Manzer](https://github.com/amanzer)
