@@ -202,6 +202,7 @@
 - [Pradyumna Hegde](https://github.com/pradyumna-ph)
 - [Sanjay Karthic](https://github.com/Leon-Skar)
 - [Widdershins](https://github.com/Widdershins89)
+- [Md Saad Akhtar](https://github.com/akhtarmdsaad)
 - [Sam Bishara](https://github.com/sammybishara)
 - [Dagmawi Yohannes](https://github.com/Dagmawi-Y)
 - [Sohail khan](https://github.com/sohail700)
