@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+- [Guillermo Ramirez](https://github.com/gmoramirezvilla)
 - [Abhinna] (https://github.com/abhinnachandra/first-contributions-a)
 - [NeverW8](https://github.com/NeverW8)
 - [Mr Weis] (https://github.com/werelouis)
@@ -2959,6 +2960,7 @@
 - [Taher Ali](https://github.com/TA-800)
 - [Bartłomiej Walecki](https://github.com/https://github.com/MedartN7)
 - [Jack Fitton](https://github.com/jackfitton112)
+- [Guillermo Ramirez](https://github.com/gmoramirezvilla)
 - [Roysa Peguero](https://github.com/roysapeguero)
 - [Shivam Thabe](https://github.com/shivamt24)
 - [Quincy Young](https://github.com/Quincynickyoung)
