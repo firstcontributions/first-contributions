@@ -80,6 +80,7 @@
 - [Uday Surya](https://github.com/udaySuryaP)
 - [Collins Ikechukwu](https://github.com/devcollinss)
 - [Sagar Shrivastava](https://github.com/learner-sagar)
+- [Muhammad Hashaam Iftekhar] (https://github.com/iftekhar-khokhar)
 - [Usman Elahi](https://github.com/usmanelahi)
 - [Tyresz Brash](https://github.com/TyreszB)
 - [Dhairya Sehgal](https://github.com/DhairyaSehgal07)
