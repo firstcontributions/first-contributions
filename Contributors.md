@@ -200,6 +200,7 @@
 - [testdd-ui](https://github.com/testdd-ui)
 - [Joshua Mercadi](https://github.com/joshuanaguit-mercado)
 - [Steven Veal](https://github.com/DolphinBeans)
+- [Bakhshi Zulfiqar](https://github.com/BakhshiZ)
 - [Liam Coyle](https://github.com/TWLG)
 - [Bryan Doan](https://github.com/JellyfishSpot)
 - [Muhammad Abdullahi](https://github.com/A-u-usman)
