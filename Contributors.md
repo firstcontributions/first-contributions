@@ -79,6 +79,7 @@
 - [Dhairya Sehgal](https://github.com/DhairyaSehgal07)
 - [AndyS](https://github.com/AndyS-first)
 - [Samaila](https://github.com/samailamalima)
+- [Christopher Lumen](https://github.com/thops1925)
 - [Prashanth](https://github.com/Tamilanth)
 - [Snehasis Ghosh](https://github.com/Snehasis4321)
 - [Anirudh Hegde](https://github.com/Anianonymous)
