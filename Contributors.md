@@ -1792,6 +1792,7 @@
 - [Nawaraj karki](https://github.com/Nawarajkarki/)
 - [Gangadhar Reddy](https://github.com/gangadharreddy98)
 - [Shaan Walia](https://github.com/mxixqc)
+- [Obisike Treasure](https://github.com/otrex)
 - [Franklin Mensah](https://github.com/fiificode)
 - [sai-vivek-reddy](https://github.com/sai-vivek-reddy)
 - [Bright Odey](https://github.com/starburn-hub)
