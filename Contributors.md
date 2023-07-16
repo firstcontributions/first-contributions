@@ -3021,6 +3021,7 @@
 - [Akash](https://github.com/acfoss)
 - [Hugo Alonzo](https://github.com/hhugoac)
 - [Erick Sutil](https://github.com/erbsutil)
+- [Moiz Fayyaz](https://github.com/moizfayyaz1)
 - [Grace Patlewicz](https://github.com/g-patlewicz)
 - [Zach Meszaros](https://github.com/t3hPoundcake)
 - [Yarendra Sharma](https://github.com/Yarendra)
