@@ -206,6 +206,7 @@
 - [heinAstonish](https://github.com/heinAstonish)
 - [Mohamad Kazemiraz](https://github.com/mkazemiraz)
 - Tayler Schanks
+- [Chris M](https://github.com/Cmendence)
 - [Shiv Kumar Choudhary](https://github.com/chshiv)
 - [Raymond Mason](https://github.com/pepsibluefan2)
 - [Mansvi Kamble](https://github.com/22MansviK)
