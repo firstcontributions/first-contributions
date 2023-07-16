@@ -550,6 +550,7 @@
 - [Lennox Namasaka](https://github.com/NamasakaLennox)
 - [Ilay Eldar](https://github.com/ilayEldar24)
 - [Jonathan Kariuki](https://github.com/JonathanSecondGithub)
+- [Rivky](https://github.com/Rivky-f)
 - [Junji](https://github.com/juunjii)
 - [Akhil](https://github.com/Akhil-77)
 - [Vishwanath]
@@ -716,6 +717,7 @@
 - [Abheekrishna](https://github.com/Abheekrishna)
 - [William Hua](https://github.com/Weyum1234)
 - [Sampath Vatsavaya](https://github.com/Sampath-Vatsavaya)
+-  
 - Gaurav Bhambhani
 - Marcel
 - Rajat (https://github.com/rajatrokde)
