@@ -1564,6 +1564,7 @@
 - [Tanisha Kodam](https://github.com/Tanisha411)
 - [Dmitry Golovach](https://github.com/dagolovach)
 - [Collins Mbaka](https://github.com/Collinsmbaka)
+- [Kristof Barczikay](https://github.com/KingKristof2002)
 - [yutakdv](https://github.com/yutakdv)
 - [TurtleJay](https://github.com/TurtleJay)
 - [Hugo Calderon-Delgado](https://github.com/Hugo-cd925)
