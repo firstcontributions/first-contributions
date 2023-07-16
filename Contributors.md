@@ -1334,6 +1334,7 @@
 - [Tally](https://github.com/tryintofindtally)
 - [Denis274](https://github.com/thedenis274)
 - [Mohd Huzaifa](https://github.com/hawkeye359)
+- [Christopher Wong](https://github.com/WongaMongo)
 - [Stephen Adesina](https://github.com/adstefnum)
 - [Loren Gayle](https://github.com/lorenzeo)
 - [Joel Lozano](https://github.com/joel-lozano)
