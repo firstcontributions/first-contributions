@@ -236,6 +236,7 @@
 - [Sohail khan](https://github.com/Sohail700)
 - [Amrita Sharma](https://github.com/amritash1403)
 - [Gary Mejia](https://github.com/garymejia)
+- [Nikoloz Kiladze](https://github.com/blackwhissh)
 - [Sai Dhanush Vankadari](https://github.com/saidhanushv/)
 - [Core447](https://github.com/Core447)
 - [Ayan Sarma](https://github.com/kiyoshi-87)
