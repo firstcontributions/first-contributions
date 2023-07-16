@@ -2930,6 +2930,7 @@
 - [Taher Ali](https://github.com/TA-800)
 - [Bartłomiej Walecki](https://github.com/https://github.com/MedartN7)
 - [Jack Fitton](https://github.com/jackfitton112)
+- [Roysa Peguero](https://github.com/roysapeguero)
 - [Shivam Thabe](https://github.com/shivamt24)
 - [Quincy Young](https://github.com/Quincynickyoung)
 - [Dung Tran](https://github.com/Benkaz3)
