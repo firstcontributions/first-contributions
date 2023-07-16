@@ -18,6 +18,7 @@
 - [Pankti Shah](https://github.com/Pankti910)
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
 - [Ruben Dario Duarte Anaya](https://github.com/ruben-duarte)
+- [Piyush Deshmukh](https://github.com/Piyush-Deshmukh)
 - [Prathiksha Kamath](https://github.com/prathikshakamath)
 - [Rujuta Vivek Vaidya](https://github.com/rvaidya2)
 - [Thiago Mandrik](https://github.com/thiagomandrik)
@@ -3004,4 +3005,3 @@
 - [Gerald Wala](https://github.com/G-ala-Hub)
 - [Coconaatti](https://github.com/Coconaatti)
 - [Asif Malik](https://github.com/asifmalik78)
-- [Deepak Shreevastava](https://github.com/fullydeepak)
