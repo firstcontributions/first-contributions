@@ -123,6 +123,7 @@
 - [Manuel Albino](https://github.com/bin0o)
 - [Yohannes Fishatsion](https://github.com/yohannes-teshale)
 - [Rimma Kubanova](https://github.com/rimma-kubanova)
+- [Karthik Bommineni](https://github.com/karthik-bommineni)
 - [Kuldip Chaudhary](https://github.com/KMchaudhary)
 - [Viraj Rai](https://github.com/viruop)
 - [Hardik Balwani](https://github.com/Hardikbalwani)
