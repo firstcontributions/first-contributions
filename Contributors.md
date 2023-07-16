@@ -271,6 +271,7 @@
 - [Shubham Lalwani](https://github.com/Shubham-777-bit)
 - [Frosty2500](https://github.com/Frosty2500)
 - [Anadu Godwin](https://github.com/AnaduCG)
+- [Ahmed Yussuf](https://github.com/4hm3d57)
 - [honii_00](https://github.com/honii-00)
 - [Milo Bauman](https://github.com/mjearlb)
 - [Josh88x](https://github.com/Josh88x)
@@ -2815,7 +2816,7 @@
 - [Ahmed ElSaeed](https://github.com/asmpro7)
 - [Abhinav Yadav](https://github.com/AbhinavYdv)
 - [Krishnaraja Sagar](https://krishnarajasagar.github.io)
-  [greeshmanth]
+  greeshmanth
 - [Edison Zhou](https://github.com/nosidezhou)
 - [Roman Chashchin](https://github.com/Rom4ikchek)
 - [harsh dewan]
