@@ -6,6 +6,7 @@
 - [MarcelvanW](https://github.com/MarcelvanW)
 - [Abhinna] (https://github.com/abhinnachandra/first-contributions-a)
 - [NeverW8](https://github.com/NeverW8)
+- [Franz Tiongson](https://github.com/versacodes)
 - [Mr Weis] (https://github.com/werelouis)
 - [Lam Hoang Phuc](https://github.com/PLH2812)
 - [Karan Goyal](https://github.com/goyalkaran)
