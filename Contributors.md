@@ -208,6 +208,7 @@
 - [Sam Bishara](https://github.com/sammybishara)
 - [Dagmawi Yohannes](https://github.com/Dagmawi-Y)
 - [Sohail khan](https://github.com/sohail700)
+- [Serg Tito](https://github.com/SergTito)
 - [Atul kumar](https://github.com/atul262002)
 - [Bhavish](https://github.com/Bhavish5)
 - [testdd-ui](https://github.com/testdd-ui)
