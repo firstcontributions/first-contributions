@@ -417,6 +417,7 @@
 - [Madhav Kumar](https://github.com/miniMaddy)
 - [Madjour Amir](https://github.com/Amirmadjour)
 - [Adarsh Yadav](https://github.com/codebreaker0001)
+- [Shailendra Singh](https://github.com/shailendraSshekhawat)
 - [Khushi Sharma](https://github.com/Khushisharma23)
 - [Jermy Deer](https://github.com/JermyDeer)
 - [Ankit Somani](https://github.com/Ankit-Somani)
