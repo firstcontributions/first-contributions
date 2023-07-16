@@ -5,6 +5,7 @@
 - [Lam Hoang Phuc](https://github.com/PLH2812)
 - [Karan Goyal](https://github.com/goyalkaran)
 - [Mahmoud Khalifa](https://github.com/mahmoudkhalifah)
+- [Rangan Das](https://github.com/RanganDas)
 - [Abdullah Naseer](https://github.com/ABNaseer)
 - [Ketan Sahu](https://github.com/ketansahugit)
 - [Susmitha](https://github.com/susmitha0902)
