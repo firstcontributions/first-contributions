@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start and welcome -->
-
+- [Mr Weis] (https://github.com/werelouis)
 - [Lam Hoang Phuc](https://github.com/PLH2812)
 - [Karan Goyal](https://github.com/goyalkaran)
 - [Mahmoud Khalifa](https://github.com/mahmoudkhalifah)
