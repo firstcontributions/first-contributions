@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start and welcome -->
 
 - [Guillermo Ramirez](https://github.com/gmoramirezvilla)
+- [Luis Gonzalez] (https://github.com/luisagcenteno84)
 - [MarcelvanW](https://github.com/MarcelvanW)
 - [Abhinna] (https://github.com/abhinnachandra/first-contributions-a)
 - [NeverW8](https://github.com/NeverW8)
