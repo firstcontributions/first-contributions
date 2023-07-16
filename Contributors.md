@@ -165,6 +165,7 @@
 - [Baraa Sayed](https://github.com/baraaashraf)
 - [Samuel Njoroge](https://github.com/Samuel-Njoroge)
 - [Nandha Kumar](https://github.com/tnrock)
+- [Kunal Garg](https://github.com/KunalG-Zol)
 - [Taufik Khan](https://github.com/Taufik041)
 - [Shuaib Ahmed Shaikh]
 - [Malvika Jadhav](https://github.com/malvikajadhav)
