@@ -1,6 +1,8 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start and welcome -->
+
+- [NeverW8](https://github.com/NeverW8)
 - [Mr Weis] (https://github.com/werelouis)
 - [Lam Hoang Phuc](https://github.com/PLH2812)
 - [Karan Goyal](https://github.com/goyalkaran)
