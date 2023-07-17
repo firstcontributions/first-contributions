@@ -3078,5 +3078,5 @@
 - [kirans0325](https://github.com/kirans0325)
 [iamrishabhmehrotra](https://github.com/iamrishabhmehrotra)
 - [Eyoel Tekle] (https://github.com/EYOELTEKLE)
-- KasSkadi (https://github.com/KasSkadi)
+- [KasSkadi] (https://github.com/KasSkadi)
 - [Simagdo](https://github.com/simagdo)
