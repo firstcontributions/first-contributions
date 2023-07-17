@@ -3054,6 +3054,6 @@
 -   [Vince Onochie](https://github.com/Vince155)
 -   [Ali Shata](https://github.com/alishata128)
 -   [Jay Thalluri](https://github.com/JThalluri)
+-   [Jitendra Jaria](https://github.com/jitendrajaria)
 -   [Matthew Reeve](https://github.com/mreeve 'software engineer')
 -   [hjliag](https://github.com/hjliag)
-
