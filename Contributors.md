@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start and welcome -->
 
 - [Guillermo Ramirez](https://github.com/gmoramirezvilla)
+- [Luis Gonzalez] (https://github.com/luisagcenteno84)
   [Sneha prajapati](https://github.com/snepraj2709)
 - [Alex Shefer](https://github.com/AlexShefer)
 - [MarcelvanW](https://github.com/MarcelvanW)
@@ -34,6 +35,7 @@
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
 - [Ruben Dario Duarte Anaya](https://github.com/ruben-duarte)
 - [Piyush Deshmukh](https://github.com/Piyush-Deshmukh)
+- [Nishchey](https://github.com/Ek-Nishchey)
 - [Prathiksha Kamath](https://github.com/prathikshakamath)
 - [Rujuta Vivek Vaidya](https://github.com/rvaidya2)
 - [Thiago Mandrik](https://github.com/thiagomandrik)
@@ -80,6 +82,7 @@
 - [Harsh](https://github.com/harshvsri)
 - [Shreyas](https://github.com/Shreyas4256)
 - [Eduardo Montano](https://github.com/edulol-1)
+- [Shubham Gangpuri](https://github.com/shubham-gangpuri)
 - [Taimoor](github.com/taiimrr)
 - [Nihal]()
 - [Connor Lyttle](https://github.com/LyttleGC)
@@ -366,8 +369,6 @@
 - [babujal]()
 - [Abhishek Agarwal]()
 - [Hansi312](https://github.com/hansi312)
-- [Shadows-Puppet]()
-- [Athul]()
 - [Jon Formantes](https://github.com/matui3)
 - [moodham](https://github.com/moodham)
 - [Diego Guisande](https://github.com/GuisandeGolfer)
@@ -1232,6 +1233,7 @@
 - [Gustave Coulombe](https://github.com/Oddball777)
 - [Utkarsh Jambhulkar](https://github.com/U-J-007)
 - [Musa Blackfrost](https://github.com/musagenius345)
+- [Hutama Trirahmanto](https://github.com/hutamatr)
 - [ 捗 Aline Bevilacqua 笨ｨ](https://github.com/Aliine98)
 - [Satyam singh](https://github.com/jirayanaruto)
 - [Gabor Toth](https://github.com/tgmaster80)
@@ -2674,6 +2676,7 @@
 - [Ezra Koppel](https://github.com/ekoppel)
 - [Leanne Keenan](https://github.com/leannekeenan)
 - [Greg Recco](https://github.com/gregrecco67)
+- [wmlcry](https://github.com/wmlcry)
 
 <!-- prettier-ignore-end -->
 
@@ -2994,6 +2997,7 @@
 - [Dung Tran](https://github.com/Benkaz3)
 - [Mic Adams](https://github.com/mic-adams-dev)
 - [Kyota](https://github.com/khatakey)
+- [SelormDev](https://github.com/SelormDev)
 - [Prashant Kumar Gupta](https://github.com/Prashant-Kumar-321)
 - [Anurag Unnikannan](https://github.com/anuragunnikannan)
 - [Qin Xun](https://github.com/lvchenjia)
@@ -3071,3 +3075,6 @@
 - [hjliag](https://github.com/hjliag)
 - [tonymendes](https://github.com/TonyMendes)
 - [kirans0325](https://github.com/kirans0325)
+[iamrishabhmehrotra](https://github.com/iamrishabhmehrotra)
+- [Eyoel Tekle] (https://github.com/EYOELTEKLE)
+- KasSkadi (https://github.com/KasSkadi)
