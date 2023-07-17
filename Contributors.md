@@ -7,6 +7,7 @@
 -   [MarcelvanW](https://github.com/MarcelvanW)
 -   [Dennis Knorr](https://github.com/c4nviz)
 -   [Brian Vose](https://github.com/Banzubie)
+-   [Shiro Yukami](https://github.com/Shiro-cha)
 -   [Abhinna] (https://github.com/abhinnachandra/first-contributions-a)
 -   [NeverW8](https://github.com/NeverW8)
 -   [Franz Tiongson](https://github.com/versacodes)
