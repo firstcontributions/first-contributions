@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 <!-- prettier-ignore-start and welcome -->
 
@@ -134,6 +134,7 @@
 -   [Shraddha Singh](https://github.com/Shraddhasings)
 -   [WinnerJack](https://github.com/winnerjack)
 -   [Aaryan](https://github.com/Aaryan0484)
+-   [Robert Chicas](https://github.com/Caschir)
 -   [Abhijeet Yadav](https://github.com/thecodeblood)
 -   [A_Solo](https://github.com/ASolooo)
 -   [Robert Garofalo](https://github.com/robertgarofalo)
