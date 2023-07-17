@@ -2674,6 +2674,7 @@
 - [Ezra Koppel](https://github.com/ekoppel)
 - [Leanne Keenan](https://github.com/leannekeenan)
 - [Greg Recco](https://github.com/gregrecco67)
+- [wmlcry](https://github.com/wmlcry)
 
 <!-- prettier-ignore-end -->
 
