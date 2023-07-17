@@ -369,6 +369,7 @@
 - [Hansi312](https://github.com/hansi312)
 - [Shadows-Puppet]
 - Athul
+-[RAN-GAN](https://github.com/RAN-GAN)
 - [Jon Formantes](https://github.com/matui3)
 - [moodham](https://github.com/moodham)
 - [Diego Guisande](https://github.com/GuisandeGolfer)
