@@ -97,6 +97,7 @@
 -   [Apoorva Mamindla](https://github.com/ApoorvaM16)
 -   [Uday Surya](https://github.com/udaySuryaP)
 -   [Collins Ikechukwu](https://github.com/devcollinss)
+-   [Anik](https://github.com/heyanik)
 -   [Sagar Shrivastava](https://github.com/learner-sagar)
 -   [Muhammad Hashaam Iftekhar] (https://github.com/iftekhar-khokhar)
 -   [Usman Elahi](https://github.com/usmanelahi)
