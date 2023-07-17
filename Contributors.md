@@ -76,6 +76,7 @@
 -   [Harsh](https://github.com/harshvsri)
 -   [Shreyas](https://github.com/Shreyas4256)
 -   [Eduardo Montano](https://github.com/edulol-1)
+-   [Taimoor](github.com/taiimrr)
 -   [Nihal]
 -   [Connor Lyttle](https://github.com/LyttleGC)
 -   [Sebastien Pingal](https://github.com/sebastienpingal)
