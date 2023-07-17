@@ -3009,6 +3009,7 @@
 - [Rumi Kamioka](https://github.com/rk-kc)
 - [Barbonell](https://github.com/barbonell)
 - [jeff-tor](https://github.com/jeff-tor)
+- [Sam Jones](https://github.com/Sam-wisest)
 - [Steven-Ng](https://github.com/stevenjosh011000)
 - [Stepan Korobeynikov](https://github.com/korstep)
 - [Eryk Padziński](https://github.com/ErykPadzinski)
