@@ -34,6 +34,7 @@
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
 - [Ruben Dario Duarte Anaya](https://github.com/ruben-duarte)
 - [Piyush Deshmukh](https://github.com/Piyush-Deshmukh)
+- [Nishchey](https://github.com/Ek-Nishchey)
 - [Prathiksha Kamath](https://github.com/prathikshakamath)
 - [Rujuta Vivek Vaidya](https://github.com/rvaidya2)
 - [Thiago Mandrik](https://github.com/thiagomandrik)
