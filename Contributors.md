@@ -27,6 +27,7 @@
 - [Davinder Singh](https://github.com/Davinder00)
 - [Jayesh Bafna]
 - [Mas Muhammadun Zahid](https://github.com/masza1)
+- [Haridev S](https://github.com/haridev98)
 - [Chris Raddatz](https://github.com/Chris-Raddatz)
 - [Michael Hutchinson](https://github.com/Michael-Hutchinson)
 - [Gabriel E. Ramirez](https://github.com/GERamirez03)
