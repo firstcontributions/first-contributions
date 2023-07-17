@@ -1231,6 +1231,7 @@
 - [Gustave Coulombe](https://github.com/Oddball777)
 - [Utkarsh Jambhulkar](https://github.com/U-J-007)
 - [Musa Blackfrost](https://github.com/musagenius345)
+- [Hutama Trirahmanto](https://github.com/hutamatr)
 - [ 捗 Aline Bevilacqua 笨ｨ](https://github.com/Aliine98)
 - [Satyam singh](https://github.com/jirayanaruto)
 - [Gabor Toth](https://github.com/tgmaster80)
