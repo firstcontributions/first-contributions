@@ -28,6 +28,7 @@
 - [Susmitha](https://github.com/susmitha0902)
 - [Davinder Singh](https://github.com/Davinder00)
 - [Jayesh Bafna]()
+- [Ayush Mehrotra](https://github.com/Ayushoopp)
 - [Mas Muhammadun Zahid](https://github.com/masza1)
 - [Haridev S](https://github.com/haridev98)
 - [Chris Raddatz](https://github.com/Chris-Raddatz)
