@@ -3078,3 +3078,4 @@
 [iamrishabhmehrotra](https://github.com/iamrishabhmehrotra)
 - [Eyoel Tekle] (https://github.com/EYOELTEKLE)
 - KasSkadi (https://github.com/KasSkadi)
+- [Simagdo](https://github.com/simagdo)
