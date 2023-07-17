@@ -102,6 +102,7 @@
 -   [AndyS](https://github.com/AndyS-first)
 -   [Aleksei Gordienko](https://github.com/AlekseiGor)
 -   [Samaila](https://github.com/samailamalima)
+-   [Tan Hoang](https://github.com/tanhm12)
 -   [Christopher Lumen](https://github.com/thops1925)
 -   [Prashanth](https://github.com/Tamilanth)
 -   [Snehasis Ghosh](https://github.com/Snehasis4321)
