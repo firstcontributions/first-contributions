@@ -7,6 +7,7 @@
 -   [MarcelvanW](https://github.com/MarcelvanW)
 -   [Dennis Knorr](https://github.com/c4nviz)
 -   [Brian Vose](https://github.com/Banzubie)
+-   [Shiro Yukami](https://github.com/Shiro-cha)
 -   [Abhinna] (https://github.com/abhinnachandra/first-contributions-a)
 -   [NeverW8](https://github.com/NeverW8)
 -   [Franz Tiongson](https://github.com/versacodes)
@@ -76,6 +77,7 @@
 -   [Harsh](https://github.com/harshvsri)
 -   [Shreyas](https://github.com/Shreyas4256)
 -   [Eduardo Montano](https://github.com/edulol-1)
+-   [Taimoor](github.com/taiimrr)
 -   [Nihal]
 -   [Connor Lyttle](https://github.com/LyttleGC)
 -   [Sebastien Pingal](https://github.com/sebastienpingal)
@@ -3061,3 +3063,4 @@
 -   [Ralph Bido](https://github.com/ralphbido89 'WGU')
 -   [hjliag](https://github.com/hjliag)
 -   [tonymendes](https://github.com/TonyMendes)
+-   [kirans0325](https://github.com/kirans0325)
