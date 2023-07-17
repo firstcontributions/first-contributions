@@ -192,6 +192,7 @@
 -   [Guido Xenpfonte](https://github.com/guidoxenofonte2005)
 -   [Melvin Jebasamuel](https://github.com/Mel28vin)
 -   [NobiteK](https://github.com/NobiteK)
+-   [NobiteK](https://github.com/T-tech26)
 -   [Baraa Sayed](https://github.com/baraaashraf)
 -   [Samuel Njoroge](https://github.com/Samuel-Njoroge)
 -   [Nandha Kumar](https://github.com/tnrock)
