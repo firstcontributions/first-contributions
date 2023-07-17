@@ -19,6 +19,7 @@
 - [Karan Goyal](https://github.com/goyalkaran)
 - [Mahmoud Khalifa](https://github.com/mahmoudkhalifah)
 - [Abhishek Bhave](https://github.com/abhishekbhave26)
+- [Rahul Patil](https://github.com/rahulpatil9498)
 - [Rangan Das](https://github.com/RanganDas)
 - [Abdullah Naseer](https://github.com/ABNaseer)
 - [Ketan Sahu](https://github.com/ketansahugit)
