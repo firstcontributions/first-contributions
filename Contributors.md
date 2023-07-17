@@ -1435,6 +1435,7 @@
 -   [nukhes](https://github.com/nukhes)
 -   [Ayush Agrawal](https://github.com/ayushag1505)
 -   [Mahdi Taleghani](https://github.com/mmte)
+    [Shane Carson](https://github.com/shanecarson98)
 -   [aditya kumar prusti](https://github.com/aditya172004)
 -   [Bishal](https://github.com/bishalneopaney)
 -   [Yash Bellary](https://github.com/bellaryyash23)
