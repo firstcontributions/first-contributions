@@ -14,6 +14,7 @@
 - [Franz Tiongson](https://github.com/versacodes)
 - [Mr Weis] (https://github.com/werelouis)
 - [Lam Hoang Phuc](https://github.com/PLH2812)
+- [Janu](https://github.com/Janu12001)
 - [Chandan Kumar Buyyala](https://github.com/chandankumar166)
 - [Karan Goyal](https://github.com/goyalkaran)
 - [Mahmoud Khalifa](https://github.com/mahmoudkhalifah)
