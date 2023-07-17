@@ -3036,6 +3036,7 @@
 -   [Grace Patlewicz](https://github.com/g-patlewicz)
 -   [Zach Meszaros](https://github.com/t3hPoundcake)
 -   [Yarendra Sharma](https://github.com/Yarendra)
+-   [Oualid El-feraoui](https://github.com/z3aibila)
 -   [Manjil Thapa](https://github.com/Manjil-Thapa)
 -   [Tejas V](https://github.com/tejas-on-git)
 -   [Peter S]
