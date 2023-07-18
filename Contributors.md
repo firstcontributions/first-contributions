@@ -197,6 +197,7 @@
 -   [Ruchika Das](https://github.com/Ruchi016)
     [Abdulmumeen Ibrahim](https://github.com/Adebayoibrahim)
 -   [Rushil Kumar](https://github.com/Rushilkr77)
+-   [Abdul-sobur Ademoye](https://github.com/Amitabh139)
 -   [Nikita-Nick Funk](https://github.com/SapphireNick)
 -   [Vanessa Meyer](https://github.com/vansvones)
 -   [Matthew Garry](https://github.com/mhgarry)
