@@ -2,11 +2,14 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+
+-   [Ch Asha Sai Deepika](https://github.com/Deepika2002)
 -   [Elia Volpi](https://github.com/creambrunette)
 -   [Wandie Innocent](https://github.com/wandieinnocents)
 -   [Gregory Morales](https://github.com/gregory-mc)
 -   [faiziverse](https://github.com/faiziverse)
 -   [Guillermo Ramirez](https://github.com/gmoramirezvilla)
+-   [grkaym](https://github.com/grkaym)
 -   [Ali Habibian](https://github.com/ali-habibian)
 -   [Abhishek Thakur](https://github.com/iamabhishekt)
 -   [Jason Wang](https://github.com/JasonWang1125)
@@ -131,6 +134,7 @@
 -   [Aleksei Gordienko](https://github.com/AlekseiGor)
 -   [Samaila](https://github.com/samailamalima)
 -   [Tan Hoang](https://github.com/tanhm12)
+-   [Souvik Daw](https://github.com/Souvik-Daw)
 -   [Christopher Lumen](https://github.com/thops1925)
 -   [Prashanth](https://github.com/Tamilanth)
 -   [Snehasis Ghosh](https://github.com/Snehasis4321)
@@ -166,6 +170,7 @@
 -   [Abhijeet Yadav](https://github.com/thecodeblood)
 -   [A_Solo](https://github.com/ASolooo)
 -   [Robert Garofalo](https://github.com/robertgarofalo)
+-   [Suhasini Srivastava](https://github.com/suhasinisrivastava)
 -   [Suryansh Srivastava]()
 -   [Ohis Samuel](https://github.com/ohizz)
 -   [Bharat Manral](https://github.com/iamBharatManral)
@@ -3992,4 +3997,5 @@
 - [Lewis Pour](https://github.com/lewispour)
 - [Gabriele Zigurella](https://github.com/gzigurella)
 - [Huynh Khoa](https://github.com/HuynhKhoa1601)
+- [Tung Hohin](https://github.com/Tunghohin)
 <!-- prettier-ignore-end -->
