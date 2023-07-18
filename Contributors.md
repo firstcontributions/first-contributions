@@ -2193,6 +2193,7 @@
 -   [Guilherme Rodrigo](https://github.com/rfguilherme)
 -   [Victor Jackson](https://github.com/jackv9425)
 -   [Julia Kuchle](https://github.com/JuliaGK)
+-   [Gayatri] (https://github.com/protonmail567)
 -   [Saket Munda](https://github.com/SaketMunda)
 -   [Marek Wasilczuk](https://github.com/tw-mwasilczuk)
 -   [John-Paul Wernecke](https://github.com/Revicx)
