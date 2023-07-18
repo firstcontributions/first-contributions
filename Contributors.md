@@ -18,6 +18,7 @@
 -   [MarcelvanW](https://github.com/MarcelvanW)
 -   [Dennis Knorr](https://github.com/c4nviz)
 -   [Brian Vose](https://github.com/Banzubie)
+-   [Mohnish Gupta](https://github.com/moho07)
 -   [Shiro Yukami](https://github.com/Shiro-cha)
 -   [Suro Dey](https://github.com/deysurajit)
 -   [Abhinna](https://github.com/abhinnachandra/first-contributions-a)
