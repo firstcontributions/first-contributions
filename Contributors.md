@@ -3905,4 +3905,5 @@
 - [YasanLakmalH](https://github.com/YasanLakmalH)
 - [Lewis Pour](https://github.com/lewispour)
 - [Gabriele Zigurella](https://github.com/gzigurella)
+- [Huynh Khoa](https://github.com/HuynhKhoa1601)
 <!-- prettier-ignore-end -->
