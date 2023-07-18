@@ -15,6 +15,7 @@
 -   [Brian Vose](https://github.com/Banzubie)
 -   [Shiro Yukami](https://github.com/Shiro-cha)
 -   [Abhinna](https://github.com/abhinnachandra/first-contributions-a)
+-   [Plode Vanichaka](https://github.com/plode-v)
 -   [NeverW8](https://github.com/NeverW8)
 -   [Franz Tiongson](https://github.com/versacodes)
 -   [Mr Weis](https://github.com/werelouis)
