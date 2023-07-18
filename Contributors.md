@@ -56,6 +56,7 @@
 - [Ashish Jadhav](https://github.com/AshishJadhav45)
 - [Harsh](https://github.com/harshvsri)
 - [Shreyas](https://github.com/Shreyas4256)
+- [Andrew Adams](https://github.com/andrewalufkin)
 - [Eduardo Montano](https://github.com/edulol-1)
 - [Nihal]
 - [Mert Kjaer](https://github.com/rmertkayaer)
