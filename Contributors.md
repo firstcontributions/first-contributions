@@ -112,6 +112,7 @@
 -   [Iman](https://github.com/iman2153)
 -   [Hassan Kazeem]()
 -   [Shachi Jain](https://github.com/jnshachi)
+-   [Ayush Rochlani](https://github.com/aroch17)
 -   [Alexey Usachov](https://github.com/alexey-dev)
 -   [Sean Crumley](https://github.com/907VigiL)
 -   [Ukpa Uchechi](https://github.com/uchechiukpa)
