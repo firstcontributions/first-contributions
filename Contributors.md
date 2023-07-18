@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+- [Youngsoo Kim](https://github.com/youngsoo-math)
 - [Yavuz Yildiz](https://github.com/YVZYLDZ11)
 - [Wilyendri Duran](https://github.com/wilyendri)
 - [Mahmoud Khalifa](https://github.com/mahmoudkhalifah)
