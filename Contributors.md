@@ -66,6 +66,7 @@
 -   [M4h4nk4l1](https://github.com/m4h4nk4l1)
 -   [JHong](https://github.com/daechi73)
 -   [Srikar](https://github.com/Srikar04)
+-   [Mandar Bapat](https://github.com/MandarBapat)
 -   [Bhawani-Rajput](https://github.com/Bhawani-Rajput)
 -   [Junqing Chen](https://github.com/Infinity12306)
 -   [Temitope Sam](https://github.com/Temitopesam)
