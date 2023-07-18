@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start and welcome -->
 
 -   [Elia Volpi](https://github.com/creambrunette)
+-   [Abdul Rehman Khan](https://github.com/abdulrehmanuni)
 -   [faiziverse](https://github.com/faiziverse)
 -   [Guillermo Ramirez](https://github.com/gmoramirezvilla)
 -   [Ali Habibian](https://github.com/ali-habibian)
