@@ -1,3 +1,7 @@
+A README.md file is a commonly used filename for a text file in Markdown format that provides information and instructions about a particular project or repository. The ".md" extension stands for Markdown, which is a lightweight markup language used for formatting text.
+
+The purpose of a README.md file is to serve as documentation for developers, collaborators, or users who come across a project. It typically resides in the root directory of a project repository on platforms like GitHub, GitLab, or Bitbucket. When someone visits a project's repository, the README.md file is often the first document they encounter.
+
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
