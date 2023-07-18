@@ -1781,6 +1781,7 @@
 -   [Rishith PR](https://github.com/steel11256)
 -   [Pedro Braga](https://github.com/PedBraga)
 -   [Dilshad](https://github.com/a-rustacean)
+Eln Far
 -   [Stephanie Wong](https://github.com/steph-wong-15)
 -   [Solveig ﾃ vik](https://github.com/soar004)
 -   [Ganesh Revadi](https://github.com/ganeshrevadi)
