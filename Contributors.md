@@ -37,6 +37,7 @@
 -   [Abhishri Medewar](https://github.com/abhamedewar)
 -   [Davinder Singh](https://github.com/Davinder00)
 -   [Jayesh Bafna]()
+-   [Andika Radityatama](https://github.com/andikaraditya)
 -   [Ayush Mehrotra](https://github.com/Ayushoopp)
 -   [Mas Muhammadun Zahid](https://github.com/masza1)
 -   [Haridev S](https://github.com/haridev98)
