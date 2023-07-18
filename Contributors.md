@@ -165,6 +165,7 @@
 -   [Abhijeet Yadav](https://github.com/thecodeblood)
 -   [A_Solo](https://github.com/ASolooo)
 -   [Robert Garofalo](https://github.com/robertgarofalo)
+-   [Suhasini Srivastava](https://github.com/suhasinisrivastava)
 -   [Suryansh Srivastava]()
 -   [Ohis Samuel](https://github.com/ohizz)
 -   [Bharat Manral](https://github.com/iamBharatManral)
