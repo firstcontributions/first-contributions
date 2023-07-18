@@ -229,6 +229,7 @@
 -   [Samuel Cameron](https://github.com/samca2)
 -   [Hari Prasad](https://github.com/itcodehery)
 -   [Khushi](https://github.com/KhushiP098)
+-   [Lucas Sebastian](https://github.com/LucaxSebastian)
 -   [Ambroise Ngayinoko](https://github.com/Ambro19)
 -   [Sahil Ohe](https://github.com/sahilohe)
     [Kenny](https://github.com/LeeAllenK)
