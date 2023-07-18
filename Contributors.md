@@ -4,6 +4,7 @@
 
 -   [Guillermo Ramirez](https://github.com/gmoramirezvilla)
 -   [Ali Habibian](https://github.com/ali-habibian)
+-   [Abhishek Thakur](https://github.com/iamabhishekt)
 -   [Jason Wang](https://github.com/JasonWang1125)
 -   [Shravan Revanna](https://github.com/myselfshravan)
 -   [Snathu](https://github.com/Snathu52)
