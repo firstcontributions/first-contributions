@@ -15,6 +15,7 @@
 -   [Dennis Knorr](https://github.com/c4nviz)
 -   [Brian Vose](https://github.com/Banzubie)
 -   [Shiro Yukami](https://github.com/Shiro-cha)
+-   [Suro Dey](https://github.com/deysurajit)
 -   [Abhinna](https://github.com/abhinnachandra/first-contributions-a)
 -   [Plode Vanichaka](https://github.com/plode-v)
 -   [NeverW8](https://github.com/NeverW8)
