@@ -39,6 +39,7 @@
 - [Clinton Otse](https://github.com/DhanteyUD)
 - [Ankur Dubey](https://github.com/RagedPanda)
 - [ashish lotake](https://github.com/ashishlotake)
+- [LaQuan](https://github.com/LaQuannT)
 - [Atakan Pars](https://github.com/AP9747)
 - [Kiran Aziz](https://github.com/kiranaziz)
 - [Jana Hafez](https://github.com/JanaHafez1)
