@@ -663,6 +663,7 @@
 -   [cbonet](https://github.com/cbonet)
 -   [Sarthak](https://github.com/sarthak2131)
 -   [Anirudh K Anil](https://github.com/anirudhka00)
+-   [Shana Edouard](https://github.com/snowywombat)
 -   [Pranit Mane](https://github.com/pranitmane)
 -   [Fred Gerner](https://github.com/fgerner)
 -   [LarkCoder](https://github.com/LarkCoder)
