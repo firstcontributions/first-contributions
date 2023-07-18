@@ -4,6 +4,7 @@
 
 
 - [Mahmoud Khalifa](https://github.com/mahmoudkhalifah)
+- [Maria Clara Rocha](https://github.com/mariaclararcs)
 - [Ketan Sahu](https://github.com/ketansahugit)
 - [Susmitha](https://github.com/susmitha0902)
 - [Mas Muhammadun Zahid](https://github.com/masza1)
