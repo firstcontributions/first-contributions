@@ -1990,6 +1990,7 @@
 -   [Tejas Nanoti](https://github.com/Goldfish7718)
 -   [Sugari1024](https://github.com/Sugari1024)
 -   [Martarion](https://github.com/Martarion-Code)
+-   [Yasin Alpay](https://github.com/yalpay)
 -   [Martins Ngene](https://github.com/Martinsngene)
 -   [vishal dhavale](https://github.com/vishu1893)
 -   [Subhajit Mahata](https://github.com/subhajitkp007)
