@@ -2,6 +2,8 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+
+-   [Ch Asha Sai Deepika](https://github.com/Deepika2002)
 -   [Elia Volpi](https://github.com/creambrunette)
 -   [Wandie Innocent](https://github.com/wandieinnocents)
 -   [Gregory Morales](https://github.com/gregory-mc)
