@@ -35,6 +35,7 @@
 - [Gaurav Nahata](https://github.com/GauravN123)
 - [Priyanka Singh](https://github.com/priyanka2710singhs)
 - [Andika Eka Kurnia](https://github.com/dikdns)
+- [Brian Twene](https://github.com/briantwene)
 - [Idobaba](https://github.com/Idsunny13)
 - [Clinton Otse](https://github.com/DhanteyUD)
 - [Ankur Dubey](https://github.com/RagedPanda)
