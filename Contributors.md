@@ -3430,6 +3430,7 @@
 -   [Xavier Mitault](https://github.com/Saverio976)
 -   [Anubhav Adhikari](https://github.com/anubhav1206)
 -   [cdkher2](https://github.com/cdkher2)
+-   [Jason Braswell](https://github.com/0xdebaser)
 -   [zoomgy](https://github.com/zoomgy)
 -   [Ryan Short](https://github.com/RyanShort13110)
 -   [Tiphaine Bertone](https://github.com/Kanda09)
