@@ -564,6 +564,7 @@
 -   [Sunetra Bhowmick](https://github.com/kaiser-sb)
 -   [Hans Ibarra](https://github.com/Falaxsa13)
 -   [Josue Belarmino](https://github.com/geminitwo)
+-   [Eduardo Bulsoni](https://github.com/egbulsoni)
 -   [Sagar Bhat](https://github.com/codingsagar)
 -   [Khalil Shariff](https://github.com/Khaleelhabeeb)
 -   [Anand Lessard](https://github.com/nandofromthebando)
