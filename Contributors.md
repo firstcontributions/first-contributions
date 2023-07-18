@@ -30,6 +30,7 @@
 -   [Adham Ahmed](https://github.com/adhamahmad)
 -   [Ketan Sahu](https://github.com/ketansahugit)
 -   [Susmitha](https://github.com/susmitha0902)
+-   [Abhishri Medewar](https://github.com/abhamedewar)
 -   [Davinder Singh](https://github.com/Davinder00)
 -   [Jayesh Bafna]()
 -   [Ayush Mehrotra](https://github.com/Ayushoopp)
