@@ -1108,6 +1108,7 @@
 - [tsX369](https://github.com/tsX369)
 - [Gavin Barnes](https://github.com/cantidosan)
 - [Manu Peralta](https://github.com/manuperalta)
+- [Phil Manning](https://github.com/pjmanning)
 - [Roger Oporta Perez](https://github.com/rogeralbp)
 - [Sejal Mishra](https://github.com/sejalmishra)
 - [Lynn Mitchell](https://github.com/lynn7mitchell)
