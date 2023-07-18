@@ -57,6 +57,7 @@
 - [Gurpreet Singh](https://github.com/gurpreet78371)
 - [Byeongun Park](https://github.com/bupark82)
 - [Neeltyper001](https://github.com/Neeltyper001/)
+- [Coup3z-pixel](https://github.com/Coup3z-pixel)
 - [The Gaming Warlord](github.com/Kyoshi7)
 - [bjp9527](github.com/bjp9527)
 - [Ayush Goel](https://github.com/goelayush89)
