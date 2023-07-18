@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+-   [stbestichhh](https://github.com/stbestichhh)
 -   [Elia Volpi](https://github.com/creambrunette)
 -   [Guillermo Ramirez](https://github.com/gmoramirezvilla)
 -   [Ali Habibian](https://github.com/ali-habibian)
