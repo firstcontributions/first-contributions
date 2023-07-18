@@ -131,6 +131,7 @@
 -   [Aleksei Gordienko](https://github.com/AlekseiGor)
 -   [Samaila](https://github.com/samailamalima)
 -   [Tan Hoang](https://github.com/tanhm12)
+-   [Souvik Daw](https://github.com/Souvik-Daw)
 -   [Christopher Lumen](https://github.com/thops1925)
 -   [Prashanth](https://github.com/Tamilanth)
 -   [Snehasis Ghosh](https://github.com/Snehasis4321)
