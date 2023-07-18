@@ -1186,6 +1186,7 @@
 -   [Mustafa](https://github.com/musti17)
 -   [Priyansh Prajapat](https://github.com/oyepriyansh)
 -   [Edidiong Etok](https://github.com/edidee)
+-   [Felipe Campelo](https://github.com/feed0)
 -   [Radhika Jhunjhunwala](https://github.com/Radhikajjw)
 -   [Meet Thummar](https://github.com/meet82386)
 -   [Vaibhavharsoda](https://github.com/vaibhavharsoda)
