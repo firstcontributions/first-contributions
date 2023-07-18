@@ -1994,6 +1994,7 @@
 -   [Sudhir Jaiswal](https://github.com/Coder-in-a-shell)
 -   [Jeremy Santiago](https://github.com/sajeremy)
 -   Devasya Rajguru
+-   [Deniz Bayramoglu] (https://github.com/denizbee)
 -   [Kumar Sanjay](https://github.com/sanjay493)
 -   Drax Bes
 -   [Toby Frick](https://github.com/FrickTob)
