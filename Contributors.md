@@ -3904,4 +3904,5 @@
 - [Erman Celik](https://github.com/celikerman)
 - [YasanLakmalH](https://github.com/YasanLakmalH)
 - [Lewis Pour](https://github.com/lewispour)
+- [Gabriele Zigurella](https://github.com/gzigurella)
 <!-- prettier-ignore-end -->
