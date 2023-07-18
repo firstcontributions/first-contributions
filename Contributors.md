@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start and welcome -->
 
 - [Yavuz Yildiz](https://github.com/YVZYLDZ11)
+- [Wilyendri Duran](https://github.com/wilyendri)
 - [Mahmoud Khalifa](https://github.com/mahmoudkhalifah)
 - [Maria Clara Rocha](https://github.com/mariaclararcs)
 - [Ketan Sahu](https://github.com/ketansahugit)
