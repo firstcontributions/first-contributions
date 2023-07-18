@@ -3,8 +3,8 @@
 <!-- prettier-ignore-start and welcome -->
 
 -   [Elia Volpi](https://github.com/creambrunette)
--   [Gregory Morales](https://github.com/gregory-mc)
 -   [Wandie Innocent](https://github.com/wandieinnocents)
+-   [Gregory Morales](https://github.com/gregory-mc)
 -   [faiziverse](https://github.com/faiziverse)
 -   [Guillermo Ramirez](https://github.com/gmoramirezvilla)
 -   [Ali Habibian](https://github.com/ali-habibian)
