@@ -899,7 +899,7 @@
 -   [Luca Castronova](https://github.com/lucastronova)
 -   [Jay Singh](https://github.com/JaySingh79)
 -   [Champion](https://github.com/champion-chenpeng)
--   W Fritz
+-   W. Fritz
 -   [Aasim Qureshi](https://github.com/itisaasim)
 -   [Solmaz Arezoomandan](https://github.com/Soltechie)
 -   [Rohitha Yarlagadda](https://github.com/YRohitha)
