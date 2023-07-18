@@ -42,6 +42,7 @@
 -   [Susmitha](https://github.com/susmitha0902)
 -   [Abhishri Medewar](https://github.com/abhamedewar)
 -   [Davinder Singh](https://github.com/Davinder00)
+-   [Gonzalo Cugiani](https://github.com/escummy)
 -   [Jayesh Bafna]()
 -   [Ayush Mehrotra](https://github.com/Ayushoopp)
 -   [Mas Muhammadun Zahid](https://github.com/masza1)
