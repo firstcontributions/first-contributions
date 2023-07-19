@@ -258,6 +258,7 @@
 - [Matthew Tyson](https://github.com/nexusGM)
 - [Mayank Sahai](https://github.com/mayank-sahai)
 - [Akmal Kamarudin](https://github.com/akmal-kamarudin)
+- [Kaustubh Upadhyay](https://github.com/Kaustubh2904)
 - [Aaron Howard](https://github.com/aaron-howard)
 - [Onochie Peter Eze](https://github.com/RxZepet)
 - [Alex Rocha](https://github.com/alexcrocha)
