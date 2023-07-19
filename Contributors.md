@@ -13,6 +13,7 @@
 - [Mahmoud Khalifa](https://github.com/mahmoudkhalifah)
 - [Eric Obeng](https://github.com/Eric-Obeng)
 - [Maria Clara Rocha](https://github.com/mariaclararcs)
+- [Aman Sayyad](https://github.com/amansayyad2003)
 - [Ketan Sahu](https://github.com/ketansahugit)
 - [Susmitha](https://github.com/susmitha0902)
 - [Shruti](https://github.com/Shruti3118)
