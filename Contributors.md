@@ -23,6 +23,7 @@
 - [Thiago Mandrik](https://github.com/thiagomandrik)
 - [Omkar A](https://github.com/mee-omi)
 - [sogho37](https://github.com/sogho37)
+- [linre-90](https://github.com/linre-90)
 - [Victor Gomenza](https://github.com/Viguitars)
 - [Dheeraj Israni](https://github.com/dheeraj-israni)
 - [Amritha P P](https://github.com/Amritha-07)
