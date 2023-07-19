@@ -37,6 +37,7 @@
 - [JHong](https://github.com/daechi73)
 - [Srikar](https://github.com/Srikar04)
 - [Nilufar Adat] (https://github.com/Nil19)
+- [Pranay Varma] (https://github.com/pranay-0512)
 - [Junqing Chen](https://github.com/Infinity12306)
 - [Temitope Sam](https://github.com/Temitopesam)
 - [Dean Patterson](https://github.com/deanp04)
@@ -258,6 +259,7 @@
 - [Matthew Tyson](https://github.com/nexusGM)
 - [Mayank Sahai](https://github.com/mayank-sahai)
 - [Akmal Kamarudin](https://github.com/akmal-kamarudin)
+- [Kaustubh Upadhyay](https://github.com/Kaustubh2904)
 - [Aaron Howard](https://github.com/aaron-howard)
 - [Onochie Peter Eze](https://github.com/RxZepet)
 - [Alex Rocha](https://github.com/alexcrocha)
@@ -4847,5 +4849,6 @@ Eln Far
 - [Jessica Felton](https://github.com/fuzzyJess)
 - [Itamar Junior](https://github.com/codeitamarjr)
 - [Tharun Jayaprasad](https://github.com/Tharun-Jayaprasad)
+- [Syed Mohammed Imad](https://github.com/imad000007)
 - [Sourjya Sarkar](https://github.com/OrientsVictor)
 <!-- prettier-ignore-end -->
