@@ -225,6 +225,7 @@
 - [Shiv Kumar Choudhary](https://github.com/chshiv)
 - [Raymond Mason](https://github.com/pepsibluefan2)
 - [Mansvi Kamble](https://github.com/22MansviK)
+- [feelthatvib3](https://github.com/feelthatvib3)
 - [Nathanaël V](https://github.com/nathanael-v)
 - [muntazirgo](https://github.com/muntazirgo)
 - [Nobilisfur1]
