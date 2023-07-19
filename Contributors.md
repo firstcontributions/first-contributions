@@ -37,6 +37,7 @@
 - [JHong](https://github.com/daechi73)
 - [Srikar](https://github.com/Srikar04)
 - [Nilufar Adat] (https://github.com/Nil19)
+- [Pranay Varma] (https://github.com/pranay-0512)
 - [Junqing Chen](https://github.com/Infinity12306)
 - [Temitope Sam](https://github.com/Temitopesam)
 - [Dean Patterson](https://github.com/deanp04)
