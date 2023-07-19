@@ -62,6 +62,7 @@
 - [Shivam Puri](https://github.com/shivm29)
 - [Jake Hannahan](https://github.com/jake-hannahan)
 - [Ankita Patil](https://github.com/AnkitaPatil2003)
+- [Ritesh Mandal](https://github.com/mritesh776)
 - [Lebogang Mokoena](https://github.com/manLebza)
 - [Divyanshu Dhruv](https://github.com/divyanshudhruv)
 - [Talha Altaf](https://github.com/TalhaAltaf2914)
