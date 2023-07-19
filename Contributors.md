@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+- [HENCHIR Hatem](https://github.com/hatemhenchir)
 - [Youngsoo Kim](https://github.com/youngsoo-math)
 - [Yavuz Yildiz](https://github.com/YVZYLDZ11)
 - [Wilyendri Duran](https://github.com/wilyendri)
