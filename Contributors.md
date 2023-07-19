@@ -47,6 +47,7 @@
 - [Benjamin Moreno](https://github.com/B3nnjy)
 - [Niko Hoffrén](https://github.com/nikohoffren)
 - [JackWinner](https:/github.com/winnerjack)
+- [Boluwatife-Adeyemi](https://github.com/FinzyPHINZY)
 - [akbarsiddiq](https://github.com/akbarsiddiq)
 - [abhishek](https://github.com/abhisheksakhare1000)
 - [Shiyam Adhithya](https://github.com/Shiyam7)
