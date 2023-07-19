@@ -18,6 +18,7 @@
 - [Pankti Shah](https://github.com/Pankti910)
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
 - [Ruben Dario Duarte Anaya](https://github.com/ruben-duarte)
+- [Rian Negreiros Dos Santos](https://github.com/RianNegreiros)
 - [Prathiksha Kamath](https://github.com/prathikshakamath)
 - [Rujuta Vivek Vaidya](https://github.com/rvaidya2)
 - [Thiago Mandrik](https://github.com/thiagomandrik)
