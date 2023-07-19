@@ -10,6 +10,7 @@
 - [Maria Clara Rocha](https://github.com/mariaclararcs)
 - [Ketan Sahu](https://github.com/ketansahugit)
 - [Susmitha](https://github.com/susmitha0902)
+- [Shruti](https://github.com/Shruti3118)
 - [J Jones](https://github.com/jjones40)
 - [Mas Muhammadun Zahid](https://github.com/masza1)
 - [Michael Hutchinson](https://github.com/Michael-Hutchinson)
