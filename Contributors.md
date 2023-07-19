@@ -22,6 +22,7 @@
 - [Mas Muhammadun Zahid](https://github.com/masza1)
 - [Michael Hutchinson](https://github.com/Michael-Hutchinson)
 - [Pankti Shah](https://github.com/Pankti910)
+- [amihere](https://github.com/amihere)
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
 - [Ruben Dario Duarte Anaya](https://github.com/ruben-duarte)
 - [Rian Negreiros Dos Santos](https://github.com/RianNegreiros)
@@ -124,7 +125,6 @@
 - [Anthony Chang](https://github.com/sprezzarete)
 - [Vivek Kumar Shrivastav](https://github.com/Vivek-Kumar-Shrivastav)
 - [WinnerJack](https://github.com/winnerjack)
-- [subhojeet chowdhury](https://github.com/subhojeet-chowdhury)
 - [Aaryan](https://github.com/Aaryan0484)
 - [Abhijeet Yadav](https://github.com/thecodeblood)
 - [A_Solo](https://github.com/ASolooo)
@@ -4880,7 +4880,7 @@
 - [ak](https://github.com)
 - [ng](https://github.com/joeng-ng)
 - [Isha Chauhan](https://github.com/izha135)
-- [Jeff Chang](https://github.com/jeffmchang)
+-[Thamsanqa Mpofu](https://github.com/Thamue1892)
+-[Jeff Chang](https://github.com/jeffmchang)
 
 <!-- prettier-ignore-end -->
--[Thamsanqa Mpofu](https://github.com/Thamue1892)
