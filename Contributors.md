@@ -1,6 +1,8 @@
 # Contributors
 
 <!-- prettier-ignore-start and welcome -->
+- [Med Noor](https://github.com/mednoor890)
+- [Maciej Buračok](https://github.com/maciejburacok)
 - [DenisPilnik](https://github.com/DenisPilnik)
 - [HENCHIR Hatem](https://github.com/hatemhenchir)
 - [Mehul Dalal](https://github.com/MehulD96)
