@@ -10,6 +10,7 @@
 - [Yavuz Yildiz](https://github.com/YVZYLDZ11)
 - [Wilyendri Duran](https://github.com/wilyendri)
 - [Mahmoud Khalifa](https://github.com/mahmoudkhalifah)
+- [Eric Obeng](https://github.com/Eric-Obeng)
 - [Maria Clara Rocha](https://github.com/mariaclararcs)
 - [Ketan Sahu](https://github.com/ketansahugit)
 - [Susmitha](https://github.com/susmitha0902)
