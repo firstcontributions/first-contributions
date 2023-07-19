@@ -68,6 +68,7 @@
 - [Frederic carboneras](https://github.com/Frittenfred97)
   [Uchenna Adubasim](https://github.com/uche-wealth)
 - [Ashish Jadhav](https://github.com/AshishJadhav45)
+- [Akinloluwa Olumuyide](https://github.com/pick-cee)
 - [Harsh](https://github.com/harshvsri)
 - [Shreyas](https://github.com/Shreyas4256)
 - [Andrew Adams](https://github.com/andrewalufkin)
