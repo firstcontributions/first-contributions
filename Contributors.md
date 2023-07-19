@@ -26,6 +26,7 @@
 - [Thiago Mandrik](https://github.com/thiagomandrik)
 - [Omkar A](https://github.com/mee-omi)
 - [sogho37](https://github.com/sogho37)
+- [YairZach](https://github.com/YairZach)
 - [linre-90](https://github.com/linre-90)
 - [MwangiJim](https://github.com/MwangiJim)
 - [Victor Gomenza](https://github.com/Viguitars)
