@@ -51,6 +51,7 @@
 - [JackWinner](https:/github.com/winnerjack)
 - [akbarsiddiq](https://github.com/akbarsiddiq)
 - [abhishek](https://github.com/abhisheksakhare1000)
+- [Luke Yengopal](https://github.com/chilledoutluke)
 - [Shiyam Adhithya](https://github.com/Shiyam7)
 - [Mishal Manzoor](https://github.com/mishal55)
 - [Shivam Puri](https://github.com/shivm29)
