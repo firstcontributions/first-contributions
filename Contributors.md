@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 - [Kevin Rifel Kaiser] (https://github.com/kevinRifelKaiser)
+- [Roy Ataya] (https://github.com/RoyAtaya)
 - [Lacatus Ciprian] (https://github.com/ciprilacatus)
 - [Aman Kumar Nayak](https://github.com/amankumarnayak)
 - [Med Noor](https://github.com/mednoor890)
