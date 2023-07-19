@@ -124,7 +124,6 @@
 - [Anthony Chang](https://github.com/sprezzarete)
 - [Vivek Kumar Shrivastav](https://github.com/Vivek-Kumar-Shrivastav)
 - [WinnerJack](https://github.com/winnerjack)
-- [subhojeet chowdhury](https://github.com/subhojeet-chowdhury)
 - [Aaryan](https://github.com/Aaryan0484)
 - [Abhijeet Yadav](https://github.com/thecodeblood)
 - [A_Solo](https://github.com/ASolooo)
@@ -4881,3 +4880,4 @@
 <!-- prettier-ignore-end -->
 - [ng](https://github.com/joeng-ng)
 - [Isha Chauhan](https://github.com/izha135)
+-[Thamsanqa Mpofu](https://github.com/Thamue1892)  
