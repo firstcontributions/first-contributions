@@ -2997,6 +2997,7 @@
 -   [Manolis](https://github.com/elmanol)
 -   [cameron lee](https://github.com/cameronslee23)
 -   [Bambam320](https://github.com/Bambam320)
+    [Warchafter](http://github.com/Warchafter)
 -   [Simonky Salinas](https://github.com/Simonkys)
 -   [Arunava Mondal](https://github.com/arunava6M)
 -   [mrzlsptzr](https://github.com/mrzlsptzr)
