@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start and welcome -->
+- [Aman Kumar Nayak](https://github.com/amankumarnayak)
 - [Med Noor](https://github.com/mednoor890)
 - [Maciej Buračok](https://github.com/maciejburacok)
 - [DenisPilnik](https://github.com/DenisPilnik)
