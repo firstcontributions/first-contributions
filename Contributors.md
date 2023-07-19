@@ -4843,4 +4843,5 @@ Eln Far
 - [Joseph Wehby](https://github.com/josephwehby) 
 - [Cristian Valenciano](https://github.com/cvalencianou)
 - [Jessica Felton](https://github.com/fuzzyJess)
+- [Itamar Junior](https://github.com/codeitamarjr)
 <!-- prettier-ignore-end -->
