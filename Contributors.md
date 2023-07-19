@@ -1760,7 +1760,6 @@
 -   [Luca Castronova](https://github.com/lucastronova)
 -   [Jay Singh](https://github.com/JaySingh79)
 -   [Champion](https://github.com/champion-chenpeng)
--   W. Fritz
 -   [Aasim Qureshi](https://github.com/itisaasim)
 -   [Solmaz Arezoomandan](https://github.com/Soltechie)
 -   [Rohitha Yarlagadda](https://github.com/YRohitha)
@@ -4855,7 +4854,7 @@ Eln Far
 - [Huynh Khoa](https://github.com/HuynhKhoa1601)
 - [Tung Hohin](https://github.com/Tunghohin)
 - [Gaurav Yawale](https://github.com/gauravyawale)
-- [Joseph Wehby](https://github.com/josephwehby) 
+- [Joseph Wehby](https://github.com/josephwehby)
 - [Cristian Valenciano](https://github.com/cvalencianou)
 - [Jessica Felton](https://github.com/fuzzyJess)
 - [Itamar Junior](https://github.com/codeitamarjr)
