@@ -503,6 +503,7 @@
 - [Andrei Goldin](https://github.com/AndreiGoldin)
   [Kailer Delgado](https://github.com/kailerdelgado)
 - [Sahil Chugh](https://github.com/sahil-1109)
+-[Manan Mehta](https://github.com/MananMehta1404)
 - [Andre Chua](https://github.com/andrechuakj)
 - [Andrew Koning](https://github.com/drew-koning)
 - [Menua Bedrosian](hhtps://github.com/menuab)
