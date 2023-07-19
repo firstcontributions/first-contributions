@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start and welcome -->
+- [Lacatus Ciprian] (https://github.com/ciprilacatus)
 - [Aman Kumar Nayak](https://github.com/amankumarnayak)
 - [Med Noor](https://github.com/mednoor890)
 - [Maciej Buračok](https://github.com/maciejburacok)
