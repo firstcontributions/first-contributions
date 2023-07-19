@@ -4882,5 +4882,6 @@
 - [Isha Chauhan](https://github.com/izha135)
 - [Thamsanqa Mpofu](https://github.com/Thamue1892)
 - [Jeff Chang](https://github.com/jeffmchang)
+- [Yisacc Aberham](https://github.com/yisacc)
 
 <!-- prettier-ignore-end -->
