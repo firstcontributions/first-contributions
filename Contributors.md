@@ -83,6 +83,7 @@
 - [Iman](https://github.com/iman2153)
 - [Hassan Kazeem]
 - [Alexey Usachov](https://github.com/alexey-dev)
+  Antoney Malcolm
 - [Sean Crumley](https://github.com/907VigiL)
 - [Ukpa Uchechi](https://github.com/uchechiukpa)
 - [Apoorva Mamindla](https://github.com/ApoorvaM16)
