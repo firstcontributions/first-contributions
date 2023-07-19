@@ -4605,6 +4605,7 @@
 - [Texas Tangler](https://github.com/Texas-Tangler)
 - [Justin Zijlstra](https://github.com/justinzijlstra)
 - [Mushlih Almubarak](https://github.com/mushlih-almubarak)
+- [leo lewis](https://github.com/leoflewis)
 - [Maina Kibe](hhtp://github.com/Mainakibe)
 - [jannickbath](https://github.com/jannickbath)
 - [ZigRazor](https://github.com/ZigRazor)
