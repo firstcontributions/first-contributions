@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start and welcome -->
+- [Maciej Buračok](https://github.com/maciejburacok)
 - [DenisPilnik](https://github.com/DenisPilnik)
 - [HENCHIR Hatem](https://github.com/hatemhenchir)
 - [Mehul Dalal](https://github.com/MehulD96)
