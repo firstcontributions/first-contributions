@@ -2330,6 +2330,7 @@ Eln Far
 -   [Daniel Jeffrey Nibbs](https://github.com/Jeff-Nibbs)
 -   [Kārlis Siders](https://github.com/xid-er)
 -   [jeongwoo903](https://github.com/jeongwoo903)
+-   [paradoxskin](https://github.com/paradoxskin)
 -   [fischertom](https://github.com/fischertom)
 -   [Seifeldin Mostafa](https://github.com/Seif-Elkasrawy)
 -   [Tobys-Nap](https://github.com/TobysNap)
