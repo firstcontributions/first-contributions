@@ -1,11 +1,11 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start and welcome -->
-
-- [Kevin Rifel Kaiser] (https://github.com/kevinRifelKaiser)
-- [Gaurav Dhiman] (https://github.com/gauravdhiman217)
-- [Roy Ataya] (https://github.com/RoyAtaya)
-- [Lacatus Ciprian] (https://github.com/ciprilacatus)
+- [Otso Veisterä](https://github.com/OtsoBear)
+- [Kevin Rifel Kaiser](https://github.com/kevinRifelKaiser)
+- [Gaurav Dhiman](https://github.com/gauravdhiman217)
+- [Roy Ataya](https://github.com/RoyAtaya)
+- [Lacatus Ciprian](https://github.com/ciprilacatus)
 - [Aman Kumar Nayak](https://github.com/amankumarnayak)
 - [Ankit Kumar Roshan](https://github.com/akr99799)
 - [Med Noor](https://github.com/mednoor890)
