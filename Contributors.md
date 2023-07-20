@@ -4890,4 +4890,5 @@
 - [Jeff Chang](https://github.com/jeffmchang)
 - [Yisacc Aberham](https://github.com/yisacc)
 - [Rowell Dinolan](https://github.com/rowelld)
+- [JohnSimith](https://github.com/JohnSimith)
 <!-- prettier-ignore-end -->
