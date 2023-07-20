@@ -887,6 +887,7 @@
 - [Wandie Innocent](https://github.com/wandieinnocents)
 - [Gregory Morales](https://github.com/gregory-mc)
 - [faiziverse](https://github.com/faiziverse)
+- [kanosy88](https://github.com/kanosy88)
 - [Guillermo Ramirez](https://github.com/gmoramirezvilla)
 - [grkaym](https://github.com/grkaym)
 - [Ali Habibian](https://github.com/ali-habibian)
