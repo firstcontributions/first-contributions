@@ -4912,7 +4912,7 @@
 - [JohnSimith](https://github.com/JohnSimith)
 - [Sonja Kitanoska](https://github.com/Sonja-Kitanoska)
 - [Zelda Mazur](https://github.com/ZeldaMazzy)
-- [kanosy88](https://github.com/kanosy88)
+- [kanosy](https://github.com/kanosy88)
 
   <!-- prettier-ignore-end -->
   Adan Navejas
