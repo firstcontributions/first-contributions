@@ -4914,6 +4914,7 @@
 - [Yisacc Aberham](https://github.com/yisacc)
 - [Rowell Dinolan](https://github.com/rowelld)
 - [JohnSimith](https://github.com/JohnSimith)
+- [Sree Kumar](https://github.com/weebees)
 - [Sonja Kitanoska](https://github.com/Sonja-Kitanoska)
 - [Zelda Mazur](https://github.com/ZeldaMazzy)
 - [kanosy88](https://github.com/kanosy88)
