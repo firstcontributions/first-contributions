@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 - [Otso Veisterä](https://github.com/OtsoBear)
+- [Maciej Mackowiak](https://github.com/MaciejMathiasMackowiak)
 - [Faheem Khan](https://github.com/FaheemKhan0817)
 - [Kevin Rifel Kaiser](https://github.com/kevinRifelKaiser)
 - [Gaurav Dhiman](https://github.com/gauravdhiman217)
@@ -887,6 +888,7 @@
 - [Wandie Innocent](https://github.com/wandieinnocents)
 - [Gregory Morales](https://github.com/gregory-mc)
 - [faiziverse](https://github.com/faiziverse)
+- [kanosy88](https://github.com/kanosy88)
 - [Guillermo Ramirez](https://github.com/gmoramirezvilla)
 - [grkaym](https://github.com/grkaym)
 - [Ali Habibian](https://github.com/ali-habibian)
@@ -4916,6 +4918,8 @@
 - [Zelda Mazur](https://github.com/ZeldaMazzy)
 - [kanosy88](https://github.com/kanosy88)
 - [Mithilesh Kumar Patel](https://github.com/mithilesh-patel)
+- [Arnav Modanwal](https://github.com/Arnav1145)
+- [Zyon Zarhaf](https://github.com/zyonzarhaf)
 
   <!-- prettier-ignore-end -->
   Adan Navejas
