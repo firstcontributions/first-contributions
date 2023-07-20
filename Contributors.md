@@ -82,6 +82,7 @@
 - [Jake Hannahan](https://github.com/jake-hannahan)
 - [Ankita Patil](https://github.com/AnkitaPatil2003)
 - [Ritesh Mandal](https://github.com/mritesh776)
+- [Chandrakant Dubey](https://github.com/chandrakantdubey)
 - [Lebogang Mokoena](https://github.com/manLebza)
 - [Divyanshu Dhruv](https://github.com/divyanshudhruv)
 - [Talha Altaf](https://github.com/TalhaAltaf2914)
