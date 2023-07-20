@@ -54,6 +54,7 @@
 - [Stavros Mastorakis](https://github.com/StavrosMast)
 - [Panagiotis Bellias](https://github.com/panagiotisbellias)
 - [Ryuunicorn](https://github.com/ryuun1corn)
+- [Dominic van Almsick](https://github.com/dominicva)
 - [Shreshth Rajpal](https://github.com/shreshthr)
 - [jayasekharreddy-telluri](https://github.com/jayasekharreddy-telluri)
 - [V205Github](https://github.com/V205Github)
@@ -4915,4 +4916,4 @@
   <!-- prettier-ignore-end -->
   Adan Navejas
 - [Saint-Yellow Huang Jionghui](https://github.com/saint-yellow)
-- 
+-
