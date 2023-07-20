@@ -44,7 +44,7 @@
 - [sogho37](https://github.com/sogho37)
 - [YairZach](https://github.com/YairZach)
 - [linre-90](https://github.com/linre-90)
-- [Giridhar] (https://github.com/giridhar04)
+- [Giridhar](https://github.com/giridhar04)
 - [rohitrana-R](https://github.com/rohitrana-R)
 - [MwangiJim](https://github.com/MwangiJim)
 - [Victor Gomenza](https://github.com/Viguitars)
@@ -396,7 +396,6 @@
 - [Candy21]()
 - [Mike Pazda](https://https://github.com/mike-pazda)
 - [Colin McKerracher](https://github.com/colmck)
-
 - [Pierce Oxley](https://github.com/Parcley27)
 - [Sky Lin](https://github.com/sky798lin)
 - [Omoogun Olawale](https://github.com/olawale-o)
@@ -4895,7 +4894,7 @@
 - [Tharun Jayaprasad](https://github.com/Tharun-Jayaprasad)
 - [Syed Mohammed Imad](https://github.com/imad000007)
 - [Sourjya Sarkar](https://github.com/OrientsVictor)
-- [SandeepV2] (https://github.com/sandeepV2)
+- [SandeepV2](https://github.com/sandeepV2)
 - [Sivanandan A C](https://github.com/siva4it)
 - [Manfred Rosenboom](https://github.com/maroph)
 - [Anubhav](https://github.com/RajAnubhav)
@@ -4913,6 +4912,7 @@
 - [JohnSimith](https://github.com/JohnSimith)
 - [Sonja Kitanoska](https://github.com/Sonja-Kitanoska)
 - [Zelda Mazur](https://github.com/ZeldaMazzy)
+- [kanosy88](https://github.com/kanosy88)
 
   <!-- prettier-ignore-end -->
   Adan Navejas
