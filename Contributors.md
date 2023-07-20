@@ -885,6 +885,7 @@
 - [Wandie Innocent](https://github.com/wandieinnocents)
 - [Gregory Morales](https://github.com/gregory-mc)
 - [faiziverse](https://github.com/faiziverse)
+- [kanosy88](https://github.com/kanosy88)
 - [Guillermo Ramirez](https://github.com/gmoramirezvilla)
 - [grkaym](https://github.com/grkaym)
 - [Ali Habibian](https://github.com/ali-habibian)
@@ -4912,7 +4913,6 @@
 - [JohnSimith](https://github.com/JohnSimith)
 - [Sonja Kitanoska](https://github.com/Sonja-Kitanoska)
 - [Zelda Mazur](https://github.com/ZeldaMazzy)
-- [kanosy](https://github.com/kanosy88)
 
   <!-- prettier-ignore-end -->
   Adan Navejas
