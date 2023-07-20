@@ -276,6 +276,7 @@
 - [Frosty2500](https://github.com/Frosty2500)
 - [Anadu Godwin](https://github.com/AnaduCG)
 - [Milo Bauman](https://github.com/mjearlb)
+- [Jay Aggarwal](https://github.com/jay9358)
 - [Josh88x](https://github.com/Josh88x)
 - [NewProgrammerAI](https://github.com/NewProgrammerAI)
 - [Carlos Rodriguez](https://github.com/cr2551)
