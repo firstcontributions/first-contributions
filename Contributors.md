@@ -4908,7 +4908,9 @@
 - [Yisacc Aberham](https://github.com/yisacc)
 - [Rowell Dinolan](https://github.com/rowelld)
 - [JohnSimith](https://github.com/JohnSimith)
-- [Sonja Kitanoska] (https://github.com/Sonja-Kitanoska)
+- [Sonja Kitanoska](https://github.com/Sonja-Kitanoska)
+- [Zelda Mazur](https://github.com/ZeldaMazzy)
+
   <!-- prettier-ignore-end -->
   Adan Navejas
 - [Saint-Yellow Huang Jionghui](https://github.com/saint-yellow)
