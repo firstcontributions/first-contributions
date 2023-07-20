@@ -102,6 +102,7 @@
 - [Keerthi Nannepamula](https://github.com/keerthinannepamula7)
 - [Zakria Jan](https://github.com/Xaki786)
 - [Iman](https://github.com/iman2153)
+- [Fasasi Qasim](https://github.com/fasas1)
 - [Hassan Kazeem]()
 - [Alexey Usachov](https://github.com/alexey-dev)
   Antoney Malcolm
