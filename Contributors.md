@@ -120,6 +120,7 @@
 - [Usman Elahi](https://github.com/usmanelahi)
 - [Tyresz Brash](https://github.com/TyreszB)
 - [Dhairya Sehgal](https://github.com/DhairyaSehgal07)
+- [Dhafir Khalaf](https://github.com/Dhafir-khalaf)
 - [AndyS](https://github.com/AndyS-first)
 - [Samaila](https://github.com/samailamalima)
 - [Prashanth](https://github.com/Tamilanth)
