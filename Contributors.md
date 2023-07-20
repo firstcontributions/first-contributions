@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 - [Otso Veisterä](https://github.com/OtsoBear)
+- [Maciej Mackowiak](https://github.com/MaciejMathiasMackowiak)
 - [Faheem Khan](https://github.com/FaheemKhan0817)
 - [Kevin Rifel Kaiser](https://github.com/kevinRifelKaiser)
 - [Gaurav Dhiman](https://github.com/gauravdhiman217)
@@ -4917,6 +4918,7 @@
 - [Zelda Mazur](https://github.com/ZeldaMazzy)
 - [kanosy88](https://github.com/kanosy88)
 - [Arnav Modanwal](https://github.com/Arnav1145)
+- [Zyon Zarhaf](https://github.com/zyonzarhaf)
 
   <!-- prettier-ignore-end -->
   Adan Navejas
