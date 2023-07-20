@@ -100,6 +100,7 @@
   Antoney Malcolm
 - [Sean Crumley](https://github.com/907VigiL)
 - [Ukpa Uchechi](https://github.com/uchechiukpa)
+- [Adrien Brune](https://github.com/Ooxz)
 - [Apoorva Mamindla](https://github.com/ApoorvaM16)
 - [Uday Surya](https://github.com/udaySuryaP)
 - [Collins Ikechukwu](https://github.com/devcollinss)
