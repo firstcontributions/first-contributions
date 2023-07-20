@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 <!-- prettier-ignore-start and welcome -->
 - [Kevin Rifel Kaiser] (https://github.com/kevinRifelKaiser)
@@ -22,6 +22,7 @@
 - [Susmitha](https://github.com/susmitha0902)
 - [Shruti](https://github.com/Shruti3118)
 - [Andrii Kliuiko](https://github.com/andrUIko)
+- [Arun Rao](https://github.com/arunkrao)
 - [J Jones](https://github.com/jjones40)
 - [Mas Muhammadun Zahid](https://github.com/masza1)
 - [Michael Hutchinson](https://github.com/Michael-Hutchinson)
