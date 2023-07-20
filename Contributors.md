@@ -4909,4 +4909,4 @@
 - [Sonja Kitanoska] (https://github.com/Sonja-Kitanoska)
   <!-- prettier-ignore-end -->
   Adan Navejas
-  Saint-Yellow Huang Jionghui (https://github.com/saint-yellow)
+- [Saint-Yellow Huang Jionghui](https://github.com/saint-yellow)
