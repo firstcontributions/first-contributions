@@ -13,6 +13,7 @@
 - [Ankit Kumar Roshan](https://github.com/akr99799)
 - [Med Noor](https://github.com/mednoor890)
 - [DenisPilnik](https://github.com/DenisPilnik)
+- [Patrick Djemba TchounkE](https://github.com/patrickDjembat)
 - [HENCHIR Hatem](https://github.com/hatemhenchir)
 - [Mehul Dalal](https://github.com/MehulD96)
 - [Youngsoo Kim](https://github.com/youngsoo-math)
