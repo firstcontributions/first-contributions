@@ -1,11 +1,11 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start and welcome -->
-
-- [Kevin Rifel Kaiser] (https://github.com/kevinRifelKaiser)
-- [Gaurav Dhiman] (https://github.com/gauravdhiman217)
-- [Roy Ataya] (https://github.com/RoyAtaya)
-- [Lacatus Ciprian] (https://github.com/ciprilacatus)
+- [Otso Veisterä](https://github.com/OtsoBear)
+- [Kevin Rifel Kaiser](https://github.com/kevinRifelKaiser)
+- [Gaurav Dhiman](https://github.com/gauravdhiman217)
+- [Roy Ataya](https://github.com/RoyAtaya)
+- [Lacatus Ciprian](https://github.com/ciprilacatus)
 - [Aman Kumar Nayak](https://github.com/amankumarnayak)
 - [Ankit Kumar Roshan](https://github.com/akr99799)
 - [Med Noor](https://github.com/mednoor890)
@@ -82,6 +82,7 @@
 - [Jake Hannahan](https://github.com/jake-hannahan)
 - [Ankita Patil](https://github.com/AnkitaPatil2003)
 - [Ritesh Mandal](https://github.com/mritesh776)
+- [Chandrakant Dubey](https://github.com/chandrakantdubey)
 - [Lebogang Mokoena](https://github.com/manLebza)
 - [Divyanshu Dhruv](https://github.com/divyanshudhruv)
 - [Talha Altaf](https://github.com/TalhaAltaf2914)
@@ -148,6 +149,7 @@
 - [Bharat Manral](https://github.com/iamBharatManral)
 - [Noman Fareed](https://github.com/shnoman97)
 - [Javier Luengo](https://github.com/fraluegut)
+- [Haripriya](https://github.com/haripriya-r17)
 - [Ali Shaharyar](https://github.com/ColSherwood)
 - [Fernando Adames](https://github.com/FernandoAdames)
 - [Yohannes Fishatsion](https://github.com/yohannes-teshale)
@@ -4904,6 +4906,7 @@
 - [Yisacc Aberham](https://github.com/yisacc)
 - [Rowell Dinolan](https://github.com/rowelld)
 - [JohnSimith](https://github.com/JohnSimith)
+- [Sonja Kitanoska] (https://github.com/Sonja-Kitanoska)
   <!-- prettier-ignore-end -->
   Adan Navejas
 - [Saint-Yellow Huang Jionghui](https://github.com/saint-yellow)
