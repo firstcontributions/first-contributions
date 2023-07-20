@@ -4889,7 +4889,7 @@
 - [SandeepV2] (https://github.com/sandeepV2)
 - [Sivanandan A C](https://github.com/siva4it)
 - [Manfred Rosenboom](https://github.com/maroph)
--[BIrma Alfred](https://github.com/BirmaAlfred)
+- [BIrma Alfred](https://github.com/BirmaAlfred)
 - [Anubhav](https://github.com/RajAnubhav)
 - [Alex63rm](https://github.com/alex63rm)
 - [Yacos](https://github.com/Yacoubou-seidou)
