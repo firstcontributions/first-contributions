@@ -4923,6 +4923,7 @@
 - [Mithilesh Kumar Patel](https://github.com/mithilesh-patel)
 - [Arnav Modanwal](https://github.com/Arnav1145)
 - [Zyon Zarhaf](https://github.com/zyonzarhaf)
+- [Vikrant A P](https://github.com/hexavik)
 
   <!-- prettier-ignore-end -->
   Adan Navejas
