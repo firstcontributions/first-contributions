@@ -46,6 +46,7 @@
 - [Amritha P P](https://github.com/Amritha-07)
 - [Gerum HaileLincoln](https://github.com/qraztec)
 - [Stavros Mastorakis](https://github.com/StavrosMast)
+- [Panagiotis Bellias](https://github.com/panagiotisbellias)
 - [Ryuunicorn](https://github.com/ryuun1corn)
 - [Shreshth Rajpal](https://github.com/shreshthr)
 - [jayasekharreddy-telluri](https://github.com/jayasekharreddy-telluri)
