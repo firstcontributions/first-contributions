@@ -1,7 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start and welcome -->
-- [Maciej Buračok](https://github.com/maciejburacok)
+- [Maciej Buračok]()
 - [Otso Veisterä](https://github.com/OtsoBear)
 - [Maciej Mackowiak](https://github.com/MaciejMathiasMackowiak)
 - [Faheem Khan](https://github.com/FaheemKhan0817)
