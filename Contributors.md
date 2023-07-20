@@ -4916,6 +4916,7 @@
 - [Sonja Kitanoska](https://github.com/Sonja-Kitanoska)
 - [Zelda Mazur](https://github.com/ZeldaMazzy)
 - [kanosy88](https://github.com/kanosy88)
+- [Arnav Modanwal](https://github.com/Arnav1145)
 
   <!-- prettier-ignore-end -->
   Adan Navejas
