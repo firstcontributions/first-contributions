@@ -41,6 +41,7 @@
 - [YairZach](https://github.com/YairZach)
 - [linre-90](https://github.com/linre-90)
 - [Giridhar] (https://github.com/giridhar04)
+- [rohitrana-R](https://github.com/rohitrana-R)
 - [MwangiJim](https://github.com/MwangiJim)
 - [Victor Gomenza](https://github.com/Viguitars)
 - [Dheeraj Israni](https://github.com/dheeraj-israni)
@@ -387,7 +388,7 @@
 - [Candy21]()
 - [Mike Pazda](https://https://github.com/mike-pazda)
 - [Colin McKerracher](https://github.com/colmck)
-- [rohitrana-R](https://github.com/rohitrana-R)
+
 - [Pierce Oxley](https://github.com/Parcley27)
 - [Sky Lin](https://github.com/sky798lin)
 - [Omoogun Olawale](https://github.com/olawale-o)
