@@ -25,6 +25,7 @@
 - [Andrii Kliuiko](https://github.com/andrUIko)
 - [Arun Rao](https://github.com/arunkrao)
 - [J Jones](https://github.com/jjones40)
+- [elit-123](https://github.com/elit-123)
 - [Mas Muhammadun Zahid](https://github.com/masza1)
 - [Michael Hutchinson](https://github.com/Michael-Hutchinson)
 - [Pankti Shah](https://github.com/Pankti910)
