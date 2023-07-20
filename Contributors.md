@@ -1018,7 +1018,7 @@
 - [Prashanth](https://github.com/Tamilanth)
 - [Snehasis Ghosh](https://github.com/Snehasis4321)
 - [Anirudh Hegde](https://github.com/Anianonymous)
-- [Cara McAvinchey](https://github.com/CaraMcAvinchey)
+- [Cara](https://github.com/CaraMcAvinchey)
 - [seung-u](https://github.com/seung-u)
 - [Ashi San](https://github.com/AshiSan)
 - [Hashir-ul-islam](https://github.com/HashCoder001)
