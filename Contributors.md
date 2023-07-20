@@ -18,6 +18,7 @@
 - [Yavuz Yildiz](https://github.com/YVZYLDZ11)
 - [Wilyendri Duran](https://github.com/wilyendri)
 - [Mahmoud Khalifa](https://github.com/mahmoudkhalifah)
+- [James Alan Cone] (https://github.com/jacone626/)
 - [MoharTry](https://github.com/MoharTry)
 - [Eric Obeng](https://github.com/Eric-Obeng)
 - [Maria Clara Rocha](https://github.com/mariaclararcs)
