@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 - [Otso Veisterä](https://github.com/OtsoBear)
+- [Faheem Khan](https://github.com/FaheemKhan0817)
 - [Kevin Rifel Kaiser](https://github.com/kevinRifelKaiser)
 - [Gaurav Dhiman](https://github.com/gauravdhiman217)
 - [Roy Ataya](https://github.com/RoyAtaya)
