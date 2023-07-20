@@ -395,6 +395,7 @@
 - [Miguel Angel](https://github.com/mafdezmoreno)
 - [Kiran Sadaye](https://github.com/kiran215)
 - [Olamide Adojutelegan](https://github.com/lamideado)
+- [Jenith Rajlawat](https://github.com/Jenith-rajlawat)
 - [Leon Heinrich](https://github.com/LionLostInCode)
 - [EJ](https://github.com/3jc24)
 - [Eleazu Osita Ibe](https://github.com/BlackBond06)
