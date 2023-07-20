@@ -1287,6 +1287,7 @@
 - [Hansi312](https://github.com/hansi312)
 - [Jon Formantes](https://github.com/matui3)
 - [moodham](https://github.com/moodham)
+- [Michael-c7](https://github.com/Michael-c7)
 - [Diego Guisande](https://github.com/GuisandeGolfer)
 - [Patrick Colon](https://github.com/patjcolon)
 - [moodham](https://github.com/moodham)
