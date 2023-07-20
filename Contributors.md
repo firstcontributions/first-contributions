@@ -40,6 +40,7 @@
 - [sogho37](https://github.com/sogho37)
 - [YairZach](https://github.com/YairZach)
 - [linre-90](https://github.com/linre-90)
+- [Giridhar] (https://github.com/giridhar04)
 - [MwangiJim](https://github.com/MwangiJim)
 - [Victor Gomenza](https://github.com/Viguitars)
 - [Dheeraj Israni](https://github.com/dheeraj-israni)
