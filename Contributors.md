@@ -148,6 +148,7 @@
 - [Bharat Manral](https://github.com/iamBharatManral)
 - [Noman Fareed](https://github.com/shnoman97)
 - [Javier Luengo](https://github.com/fraluegut)
+- [Haripriya](https://github.com/haripriya-r17)
 - [Ali Shaharyar](https://github.com/ColSherwood)
 - [Fernando Adames](https://github.com/FernandoAdames)
 - [Yohannes Fishatsion](https://github.com/yohannes-teshale)
