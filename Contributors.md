@@ -4916,6 +4916,7 @@
 - [Sonja Kitanoska](https://github.com/Sonja-Kitanoska)
 - [Zelda Mazur](https://github.com/ZeldaMazzy)
 - [kanosy88](https://github.com/kanosy88)
+- [Eli Ralph Rosael](https://github.com/coder-ralph)
 
   <!-- prettier-ignore-end -->
   Adan Navejas
