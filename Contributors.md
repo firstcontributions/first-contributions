@@ -4844,6 +4844,7 @@
 - [Islam Kamel](https://github.com/islam-kamel)
 - [Kevin Htun](https://github.com/kkhtun)
 - [Ning Lee](https://github.com/ninglee47)
+- [Arshad Manzoor](https://github.com/arsdmnzr)
 - [Akram Ghanem](https://github.com/barribarri20)
 - [Elifraha Natai](https://github.com/elifraha)
 - [Ajith P. Kumar](https://github.com/JOSHI-owo)
