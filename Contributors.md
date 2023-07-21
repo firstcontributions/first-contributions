@@ -188,6 +188,7 @@
 - [Seth Zwerling](https://github.com/SZwerling)
 - [Namrata Atmaram Utekar](https://github.com/Namratau)
 - [Vinay Chitade](https://github.com/vcint)
+- [Emanuele Leyland](https://github.com/emanueleleyland)
 - [Pradeep Verma](https://github.com/pradeepkv012)
 - [jrheronn](https://github.com/jrheronn)
 - [Uday Krishnan](https://github.com/udaykrishnan9302)
