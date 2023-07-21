@@ -16,6 +16,7 @@
 - [Aman Kumar Nayak](https://github.com/amankumarnayak)
 - [Ankit Kumar Roshan](https://github.com/akr99799)
 - [Med Noor](https://github.com/mednoor890)
+- [Logan Hagen](https://github.com/loganhagen)
 - [DenisPilnik](https://github.com/DenisPilnik)
 - [Patrick Djemba TchounkE](https://github.com/patrickDjembat)
 - [HENCHIR Hatem](https://github.com/hatemhenchir)
