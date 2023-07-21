@@ -1515,6 +1515,7 @@
 - [Nazianzenov](https://github.com/Nazianzenov)
 - [mxk devops](https://github.com/mxkdevops)
 - [Zach Boquet](https://github.com/Kurokio)
+- Allan Muchemi
 - [Ricardo Ribeiro](https://github.com/kaitozr)
 - [Ifeoluwa Aroboto](https://github.com/IfeoluwaAroboto)
 - [dhwaneelkapadia](https://github.com/dhwaneelkapadia)
