@@ -4950,6 +4950,7 @@
 - [Hazimi Md Nazri](https://github.com/hazimimdnazri)
 - [Will Thong](https://github.com/willthong)
 - [Kenny Lee](https://github.com/kenny-wq)
+- [Tiago Tavares](https://github.com/bigtava)
 
   <!-- prettier-ignore-end -->
 
