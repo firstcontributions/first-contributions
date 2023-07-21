@@ -4932,6 +4932,7 @@
 - [Mithilesh Kumar Patel](https://github.com/mithilesh-patel)
 - [Arnav Modanwal](https://github.com/Arnav1145)
 - [Zyon Zarhaf](https://github.com/zyonzarhaf)
+- [John Nance](https://github.com/johncodes1987)
 - [Vikrant A P](https://github.com/hexavik)
 - [Hazimi Md Nazri](https://github.com/hazimimdnazri)
 - [Will Thong](https://github.com/willthong)
