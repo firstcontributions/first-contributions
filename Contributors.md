@@ -1150,7 +1150,7 @@
 - [Lucas Sebastian](https://github.com/LucaxSebastian)
 - [Ambroise Ngayinoko](https://github.com/Ambro19)
 - [Sahil Ohe](https://github.com/sahilohe)
-  [Kenny](https://github.com/LeeAllenK)
+- [Kenny](https://github.com/LeeAllenK)
 - [Pradyumna Hegde](https://github.com/pradyumna-ph)
 - [Sanjay Karthic](https://github.com/Leon-Skar)
 - [Widdershins](https://github.com/Widdershins89)
@@ -5363,5 +5363,4 @@
 -   [Yaser Syed](https://github.com/yasersyed)
 -   [Amreet Khuntia](https://github.com/AmreetKumarkhuntia)
 -   [Abhishek Srinivasan](https://github.com/iamabhshk 'Software Engineer')
-
-
+-   [Karol Mądraszek](https://github.com/KarolMadraszek)
