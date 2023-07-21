@@ -4905,6 +4905,7 @@
 - [Cristian Valenciano](https://github.com/cvalencianou)
 - [Jessica Felton](https://github.com/fuzzyJess)
 - [Itamar Junior](https://github.com/codeitamarjr)
+- [Saša Petalinkar] (https://github.com/sasa5linkar)
 - [Tharun Jayaprasad](https://github.com/Tharun-Jayaprasad)
 - [Syed Mohammed Imad](https://github.com/imad000007)
 - [Sourjya Sarkar](https://github.com/OrientsVictor)
