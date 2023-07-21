@@ -4913,7 +4913,7 @@
 - [JohnSimith](https://github.com/JohnSimith)
 - [Sonja Kitanoska](https://github.com/Sonja-Kitanoska)
 - [Zelda Mazur](https://github.com/ZeldaMazzy)
-
+- [cat hero](https://github.com/cat-hero)
   <!-- prettier-ignore-end -->
   Adan Navejas
 - [Saint-Yellow Huang Jionghui](https://github.com/saint-yellow)
