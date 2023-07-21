@@ -76,9 +76,9 @@
 
 # First Contributions
 
-This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+This project aims to simplify and provide guidance for beginners making their first contribution. If you are looking to make your first contribution, follow the steps below.
 
-_If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
+_If you're not comfortable with the command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
@@ -87,8 +87,7 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 
 ## Fork this repository
 
-Fork this repository by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
 
 ## Clone the repository
 
@@ -177,7 +176,7 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 
 ## Submit your changes for review
 
-If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on the button.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
