@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 - [Hrushikesh](https://github.com/FlashBang-000X)
+- [Brendon Crave](https://github.com/bcrave)
 - [Maciej Buračok](https://github.com/maciejburacok)
 - [Ashish Jadhav](https://github.com/ashish082003)
 - [Otso Veisterä](https://github.com/OtsoBear)
