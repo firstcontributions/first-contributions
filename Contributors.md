@@ -700,6 +700,7 @@
 - [Krutartha Nagesh](https://github.com/krutartha)
 - [Vance Sama](https://github.com/VansRouges)
 - [Nived Km]()
+- [BIrma Alfred](https://github.com/BirmaAlfred)
 - [Aurelio Hern ﾃ｡ndez L ﾃｳ pez](https://github.com/hernanes338)
 - [Mushfiqur Rahman](https://github.com/mushfiq13)
 - [colonia_duck](https://github.com/colonia-duck)
