@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start and welcome -->
+
 - [Maciej Buračok](https://github.com/maciejburacok)
 - [Ashish Jadhav](https://github.com/ashish082003)
 - [Otso Veisterä](https://github.com/OtsoBear)
@@ -98,6 +99,7 @@
 - [Uchenna Adubasim](https://github.com/uche-wealth)
 - [Ashish Jadhav](https://github.com/AshishJadhav45)
 - [Akinloluwa Olumuyide](https://github.com/pick-cee)
+- [Bhaskar Sahu](https://github.com/Bhaskarsahu23)
 - [Harsh](https://github.com/harshvsri)
 - [Shreyas](https://github.com/Shreyas4256)
 - [Andrew Adams](https://github.com/andrewalufkin)
@@ -3610,7 +3612,7 @@
 - [temidayo omoyajowo](https://github.com/temideewan)
 - [Harold Song](https://github.com/swyhrld)
 - [foliage21](https://github.com/foliage21)
-- [alkas](https://github.com/exalkas "software engineer")
+- [alkas](https://github.com/exalkas 'software engineer')
 - [Arun Kumar Marndi](https://github.com/arunkumarmarndi)
 - [Zullu Balti](https://github.com/ZulluBalti)
 - [Jordan Flanagan](https://github.com/jflaney23)
@@ -4941,6 +4943,8 @@
 - [Will Thong](https://github.com/willthong)
 
   <!-- prettier-ignore-end -->
+
   Adan Navejas
+
 - [Saint-Yellow Huang Jionghui](https://github.com/saint-yellow)
 -
