@@ -4609,6 +4609,7 @@
 - [Saiyam Jain](https://github.com/itzsamdev)
 - [Boluwatife Ladeinde](https://github.com/boluwatifeee)
 - [Jhon Arias](https://github.com/jhonfredi)
+- [Simon Random](https://github.com/random-guyy)
 - [Muinde Nthusi](https://github.com/nthusi)
 - [Hemant Ajmera](https://github.com/HemantAjmera)
 - [Nathaniel Vo](https://github.com/midnightslushie)
