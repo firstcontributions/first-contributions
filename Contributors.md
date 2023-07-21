@@ -4927,6 +4927,7 @@
 - [Manfred Rosenboom](https://github.com/maroph)
 - [Anubhav](https://github.com/RajAnubhav)
 - [Rakshit](https://github.com/rakshit068)
+- [Crystal Martel](https://github.com/martelc)
 <!-- prettier-ignore-end -->
 - [Alex63rm](https://github.com/alex63rm)
 - [Yacos](https://github.com/Yacoubou-seidou)
