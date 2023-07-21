@@ -4926,6 +4926,7 @@
 - [Arnav Modanwal](https://github.com/Arnav1145)
 - [Zyon Zarhaf](https://github.com/zyonzarhaf)
 - [Vikrant A P](https://github.com/hexavik)
+- [Hazimi Md Nazri](https://github.com/hazimimdnazri)
 
   <!-- prettier-ignore-end -->
   Adan Navejas
