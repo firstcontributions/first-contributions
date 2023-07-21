@@ -4930,6 +4930,7 @@
 - [Zyon Zarhaf](https://github.com/zyonzarhaf)
 - [Vikrant A P](https://github.com/hexavik)
 - [Hazimi Md Nazri](https://github.com/hazimimdnazri)
+- [Will Thong](https://github.com/willthong)
 
   <!-- prettier-ignore-end -->
   Adan Navejas
