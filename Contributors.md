@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 - [Maciej Buračok](https://github.com/maciejburacok)
+- [Ashish Jadhav](https://github.com/ashish082003)
 - [Otso Veisterä](https://github.com/OtsoBear)
 - [Maciej Mackowiak](https://github.com/MaciejMathiasMackowiak)
 - [Faheem Khan](https://github.com/FaheemKhan0817)
