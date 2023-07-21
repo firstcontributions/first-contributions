@@ -4944,6 +4944,7 @@
 - [Vikrant A P](https://github.com/hexavik)
 - [Hazimi Md Nazri](https://github.com/hazimimdnazri)
 - [Will Thong](https://github.com/willthong)
+- [Kenny Lee](https://github.com/kenny-wq)
 
   <!-- prettier-ignore-end -->
 
