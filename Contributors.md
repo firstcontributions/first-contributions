@@ -2398,6 +2398,7 @@
 - [Nolan Roth](https://github.com/n-roth12)
 - [Timothy Chua](https://github.com/tdchua)
 - [Abu Usaid](https://github.com/AbuUsaid)
+- [Taylor Crouch](https://github.com/TaylorC19)
 - [Kasthuri-P](https://github.com/Kasthuri-P)
 - [Lucas Silva](https://github.com/lucca7r)
 - [Paul Sunny Isogon](https://github.com/Hexx00r)
