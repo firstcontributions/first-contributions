@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 <!-- prettier-ignore-start and welcome -->
 - [Hrushikesh](https://github.com/FlashBang-000X)
@@ -26,6 +26,7 @@
 - [Youngsoo Kim](https://github.com/youngsoo-math)
 - [Yavuz Yildiz](https://github.com/YVZYLDZ11)
 - [Wilyendri Duran](https://github.com/wilyendri)
+- [Patrice Alan](https://github.com/PatriceAlan/)
 - [Mahmoud Khalifa](https://github.com/mahmoudkhalifah)
 - [James Alan Cone] (https://github.com/jacone626/)
 - [MoharTry](https://github.com/MoharTry)
