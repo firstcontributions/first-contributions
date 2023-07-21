@@ -2167,6 +2167,7 @@
 - [Lior Haim](https://github.com/LiorHaimGit)
 - [Jacob Albert](https://github.com/jalbert90)
 - [Ruth Ikegah](https://github.com/Ruth-ikegah)
+- [Samuel Alli](https://github.com/Ruth-ikegah)
 - [David Adesanya](https://github.com/dave-gith)
 - [Nero]()
 - [Rishikesh Kanabar](https://github.com/RishikeshNK)
