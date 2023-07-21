@@ -85,6 +85,7 @@
 - [abhishek](https://github.com/abhisheksakhare1000)
 - [Luke Yengopal](https://github.com/chilledoutluke)
 - [Shiyam Adhithya](https://github.com/Shiyam7)
+- [Juan Cortes](https://github.com/jp-cortes)
 - [Mishal Manzoor](https://github.com/mishal55)
 - [Shivam Puri](https://github.com/shivm29)
 - [Jake Hannahan](https://github.com/jake-hannahan)
