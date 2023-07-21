@@ -2415,6 +2415,7 @@
 - [Taylor Crouch](https://github.com/TaylorC19)
 - [Kasthuri-P](https://github.com/Kasthuri-P)
 - [Lucas Silva](https://github.com/lucca7r)
+- [Reudy Guerrero](https://github.com/ReudyMiguel20)
 - [Paul Sunny Isogon](https://github.com/Hexx00r)
 - [Jess]()
 - [Ritik Ranjan](https://github.com/ranjanritik5757)
