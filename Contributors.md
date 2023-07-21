@@ -236,6 +236,7 @@
 - [Bhavish](https://github.com/Bhavish5)
 - [testdd-ui](https://github.com/testdd-ui)
 - [Joshua Mercadi](https://github.com/joshuanaguit-mercado)
+- [Kapil Sarma](https://github.com/kapilsarma2002)
 - [Steven Veal](https://github.com/DolphinBeans)
 - [Liam Coyle](https://github.com/TWLG)
 - [Bryan Doan](https://github.com/JellyfishSpot)
