@@ -17,6 +17,7 @@
 - [Lacatus Ciprian](https://github.com/ciprilacatus)
 - [Aman Kumar Nayak](https://github.com/amankumarnayak)
 - [Ankit Kumar Roshan](https://github.com/akr99799)
+- [Maisha Mir](https://github.com/maishamir)
 - [Med Noor](https://github.com/mednoor890)
 - [Logan Hagen](https://github.com/loganhagen)
 - [Gerardo Arriaza Pantaleon](https://github.com/GerardoAP22)
