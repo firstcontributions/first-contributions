@@ -17,6 +17,7 @@
 - [Kevin Paul](https://github.com/kevinpaul468)
 - [Krishnal Baarochiya](https://github.com/killshotroxs)
 - [Maciej Mackowiak](https://github.com/MaciejMathiasMackowiak)
+- [Muhammad Hayat](https://github.com/hayat10x)
 - [Faheem Khan](https://github.com/FaheemKhan0817)
 - [Kevin Rifel Kaiser](https://github.com/kevinRifelKaiser)
 - [Syed Mudassir Ali](https://github.com/Mudassir10X)
