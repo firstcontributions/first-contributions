@@ -32,6 +32,7 @@
 - [Logan Hagen](https://github.com/loganhagen)
 - [Abdul Hashim Anshad](https://github.com/anshadanchu368)
 - [Macie White](https://github.com/MacieWhite/)
+- [David Deng](https://github.com/LazySheeep)
 - [Gerardo Arriaza Pantaleon](https://github.com/GerardoAP22)
 - [DenisPilnik](https://github.com/DenisPilnik)
 - [Patrick Djemba TchounkE](https://github.com/patrickDjembat)
