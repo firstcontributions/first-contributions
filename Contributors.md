@@ -5336,6 +5336,7 @@
 - [satish choudhary](https://github.com/python-hacked)
 - [Rumi Kamioka](https://github.com/rk-kc)
 - [Barbonell](https://github.com/barbonell)
+- [darKnight] (https://github.com/darknight)
 - [jeff-tor](https://github.com/jeff-tor)
 - [Sam Jones](https://github.com/Sam-wisest)
 - [Steven-Ng](https://github.com/stevenjosh011000)
