@@ -4504,6 +4504,7 @@
 - [Obaida HY](https://github.com/ObaidaHY)
 - [Augustin Lima](https://github.com/aaugustinlima)
 - [PerpetualPenguin](https://github.com/PerpetualPenguin)
+- [MattOsborn](https://github.com/Matt-Osborn)
 - [Tanu222](https://github.com/Tanu222)
 - [yamatonao](https://github.com/yamatonao)
 - [andrewkuhl](https://github.com/andrewkuhl)
