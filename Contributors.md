@@ -39,6 +39,7 @@
 - [DenisPilnik](https://github.com/DenisPilnik)
 - [Patrick Djemba TchounkE](https://github.com/patrickDjembat)
 - [HENCHIR Hatem](https://github.com/hatemhenchir)
+- [Emilio Palmerini](https://github.com/emiliopalmerini)
 - [Mehul Dalal](https://github.com/MehulD96)
 - [Youngsoo Kim](https://github.com/youngsoo-math)
 - [Yavuz Yildiz](https://github.com/YVZYLDZ11)
