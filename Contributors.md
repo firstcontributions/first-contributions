@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+-[Piyush](https://github.com/PiyushBora0-0)
 - [Dio Azril](https://github.com/PenCakeFuNnY)
 - [Hrushikesh](https://github.com/FlashBang-000X)
 - [Akshay Vijaykumar](https://github.com/Akshay-VK)
