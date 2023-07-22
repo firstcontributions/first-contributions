@@ -2,6 +2,9 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+-[Piyush](https://github.com/PiyushBora0-0)
+
+
 - [Dio Azril](https://github.com/PenCakeFuNnY)
 - [Hrushikesh](https://github.com/FlashBang-000X)
 - [Akshay Vijaykumar](https://github.com/Akshay-VK)
@@ -26,6 +29,7 @@
 - [Maisha Mir](https://github.com/maishamir)
 - [Med Noor](https://github.com/mednoor890)
 - [Logan Hagen](https://github.com/loganhagen)
+- [Abdul Hashim Anshad](https://github.com/anshadanchu368)
 - [Macie White](https://github.com/MacieWhite/)
 - [Gerardo Arriaza Pantaleon](https://github.com/GerardoAP22)
 - [DenisPilnik](https://github.com/DenisPilnik)
@@ -43,6 +47,7 @@
 - [Eric Obeng](https://github.com/Eric-Obeng)
 - [Jing Cao](https://github.com/peoplemakeculture)
 - [Maria Clara Rocha](https://github.com/mariaclararcs)
+- [Produnya(PD)] (https://github.com/PDgaming)
 - [Aman Sayyad](https://github.com/amansayyad2003)
 - [Monyuy Divine](https://github.com/divinebootable)
 - [Ketan Sahu](https://github.com/ketansahugit)
@@ -96,6 +101,7 @@
 - [Dean Patterson](https://github.com/deanp04)
 - [Sathya Anand](https://github.com/Saan-king)
 - [Hitesh Maan](https://github.com/Hiteshmaan4444)
+- [Ezekiel Martinez](https://github.com/zpmarti)
 - [Denis Bondarev](https://github.com/TheNiska)
 - [Benjamin Moreno](https://github.com/B3nnjy)
 - [Niko Hoffrén](https://github.com/nikohoffren)
