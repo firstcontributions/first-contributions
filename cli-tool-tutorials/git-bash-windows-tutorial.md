@@ -35,6 +35,14 @@ Open the git bash application you just downloaded. It should look like the image
 
 <img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-terminal-1.png" alt="open git bash terminal" />
 
+Now you need to set your name and email. This step is imporpant because every commit you will create uses this
+information.
+```
+git config --global user.name "your username"
+git config --global user.email youremail@example.com
+```
+Replace username with your name and the example email with yours.
+
 Go to the folder that you want to save this project on by uisng this command
 
 `cd <folder>`
