@@ -844,6 +844,7 @@
 - [Manny G]()
 - [Bruno Souza](https://github.com/BrunoRammon)
 - [Farzan Ekram](https://github.com/farzanekram07)
+- [RedBeret](https://github.com/RedBeret)
 - [aaron roberts](https://github.com/darkmodeaaron)
 - [Mike Tagg](https://github.com/mdtagg)
 - [Haina Weiben](https://github.com/hainaweiben)
