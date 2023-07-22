@@ -16,6 +16,7 @@
 - [Syed Mudassir Ali](https://github.com/Mudassir10X)
 - [Gaurav Dhiman](https://github.com/gauravdhiman217)
 - [Roy Ataya](https://github.com/RoyAtaya)
+- [Hannes Albert](https://github.com/w8ste)
 - [Oluwatobi Sofela](https://github.com/oluwatobiss)
 - [Lacatus Ciprian](https://github.com/ciprilacatus)
 - [Aman Kumar Nayak](https://github.com/amankumarnayak)
