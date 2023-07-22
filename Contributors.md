@@ -159,6 +159,7 @@
 - [Divyanshu Pabia](https://github.com/Rekklessss)
 - [Ali Manzer](https://github.com/amanzer)
 - [Li Xing Yin](https://github.com/lixingyin)
+- [Fawaz khan](https://github.com/Fawaz-Khan-R)
 - [Cem Enes Karakuş](https://github.com/karakuscem)
 - [Ayush Gupta](https://github.com/Rock-Shell)
 - [Sean Keefe](https://github.com/SeanCKeefe13)
