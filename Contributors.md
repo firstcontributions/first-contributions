@@ -7,6 +7,7 @@
 - [Akshay Vijaykumar](https://github.com/Akshay-VK)
 - [Brendon Crave](https://github.com/bcrave)
 - [Maciej Buračok](https://github.com/maciejburacok)
+- [Joel Joseph Raju](https://github.com/Joel-Joseph-Raju)
 - [Ashish Jadhav](https://github.com/ashish082003)
 - [Otso Veisterä](https://github.com/OtsoBear)
 - [Kevin Paul](https://github.com/kevinpaul468)
