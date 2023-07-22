@@ -2156,6 +2156,7 @@
 - [Aryant Kumar](https://github.com/Aryant01)
 - [Shakil Islam](https://github.com/pr0xy-exe)
 - [Dhruv Jadvani](https://github.com/dhruvjadvani1)
+- [Collin O'Conner](https://github.com/Croconner)
 - [Simran](https://github.com/Simran2404)
 - [Stanislav Mat ﾅ｡el](https://github.com/StanislavMachel)
 - [Stanislav Mat ﾅ｡el](https://github.com/StanislavMachel)
