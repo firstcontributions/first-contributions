@@ -36,6 +36,7 @@
 - [Yavuz Yildiz](https://github.com/YVZYLDZ11)
 - [Wilyendri Duran](https://github.com/wilyendri)
 - [Patrice Alan](https://github.com/PatriceAlan/)
+- [Fayez Bajjali](https://github.com/beetlejuice16)
 - [Mahmoud Khalifa](https://github.com/mahmoudkhalifah)
 - [James Alan Cone](https://github.com/jacone626/)
 - [MoharTry](https://github.com/MoharTry)
