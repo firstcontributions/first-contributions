@@ -240,6 +240,7 @@
 - [Noora Nasrin VC](https://github.com/nooranasrin)
 - [Miguel Jones](https://github.com/dice43)
 - [Alfredo Carrion](https://github.com/carrionalfredo)
+- [Michelle Ndiangui](https://github.com/MuthoniMN)
 - [Chaitanya Galla](https://github.com/gallachaitanya)
 - [Samuel Cameron](https://github.com/samca2)
 - [Hari Prasad](https://github.com/itcodehery)
