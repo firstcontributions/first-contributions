@@ -9,6 +9,7 @@
 - [Maciej Buračok](https://github.com/maciejburacok)
 - [Ashish Jadhav](https://github.com/ashish082003)
 - [Otso Veisterä](https://github.com/OtsoBear)
+- [Kevin Paul](https://github.com/kevinpaul468)
 - [Krishnal Baarochiya](https://github.com/killshotroxs)
 - [Maciej Mackowiak](https://github.com/MaciejMathiasMackowiak)
 - [Faheem Khan](https://github.com/FaheemKhan0817)
