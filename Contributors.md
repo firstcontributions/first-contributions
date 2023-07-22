@@ -19,6 +19,7 @@
 - [Ankit Kumar Roshan](https://github.com/akr99799)
 - [Med Noor](https://github.com/mednoor890)
 - [Logan Hagen](https://github.com/loganhagen)
+- [Gerardo Arriaza Pantaleon](https://github.com/GerardoAP22)
 - [DenisPilnik](https://github.com/DenisPilnik)
 - [Patrick Djemba TchounkE](https://github.com/patrickDjembat)
 - [HENCHIR Hatem](https://github.com/hatemhenchir)
