@@ -255,6 +255,7 @@
 - [Kapil Sarma](https://github.com/kapilsarma2002)
 - [Steven Veal](https://github.com/DolphinBeans)
 - [Liam Coyle](https://github.com/TWLG)
+- [Abderrahim Zebiri](https://github.com/zebiriabderrahim)
 - [Bryan Doan](https://github.com/JellyfishSpot)
 - [Muhammad Abdullahi](https://github.com/A-u-usman)
 - [Aaron Newbigging](https://github.com/Pastasource)
