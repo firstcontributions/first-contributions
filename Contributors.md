@@ -21,6 +21,7 @@
 - [Maisha Mir](https://github.com/maishamir)
 - [Med Noor](https://github.com/mednoor890)
 - [Logan Hagen](https://github.com/loganhagen)
+- [Macie White](https://github.com/MacieWhite/)
 - [Gerardo Arriaza Pantaleon](https://github.com/GerardoAP22)
 - [DenisPilnik](https://github.com/DenisPilnik)
 - [Patrick Djemba TchounkE](https://github.com/patrickDjembat)
