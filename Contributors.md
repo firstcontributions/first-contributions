@@ -2822,6 +2822,7 @@
 - [Wid Suba](https://github.com/Megalodonix)
 - [Andres Emedan](https://github.com/andresemedan)
 - [Abhiram Reddy Mungi](https://github.com/AbhiramMngi)
+  [laniecodes]()
 - [Ikako Core](https://github.com/irakli777irakli)
 - [Julian Macioce](https://github.com/JMacioce)
 - [Matteo Bruscagnin](https://github.com/MBruscagnin)
