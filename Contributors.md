@@ -15,6 +15,7 @@
 - [Kevin Rifel Kaiser](https://github.com/kevinRifelKaiser)
 - [Syed Mudassir Ali](https://github.com/Mudassir10X)
 - [Gaurav Dhiman](https://github.com/gauravdhiman217)
+- [Hannes Albert](https://github.com/w8ste)
 - [Roy Ataya](https://github.com/RoyAtaya)
 - [Oluwatobi Sofela](https://github.com/oluwatobiss)
 - [Lacatus Ciprian](https://github.com/ciprilacatus)
