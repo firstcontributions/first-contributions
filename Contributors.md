@@ -96,6 +96,7 @@
 - [Dean Patterson](https://github.com/deanp04)
 - [Sathya Anand](https://github.com/Saan-king)
 - [Hitesh Maan](https://github.com/Hiteshmaan4444)
+- [Ezekiel Martinez](https://github.com/zpmarti)
 - [Denis Bondarev](https://github.com/TheNiska)
 - [Benjamin Moreno](https://github.com/B3nnjy)
 - [Niko Hoffrén](https://github.com/nikohoffren)
