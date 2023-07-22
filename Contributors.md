@@ -5414,3 +5414,4 @@
 - [Vipin K] (https://github.com/vipin-kunam/)
 - [Sumit Singh Deode] (https://github.com/deodesumitsingh)
 - [Ellis Pax Mapakama] (https://github.com/ellispax)
+- [hhariss] (https://github.com/hhariss)
