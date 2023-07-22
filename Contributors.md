@@ -47,6 +47,7 @@
 - [Dhanish Mehta](https://github.com/DhanishMehta)
 - [Susmitha](https://github.com/susmitha0902)
 - [Shruti](https://github.com/Shruti3118)
+- [Rejo](https://github.com/Rejo12)
 - [Andrii Kliuiko](https://github.com/andrUIko)
 - [Arun Rao](https://github.com/arunkrao)
 - [Ryan Keemink](https://github.com/ryank2001)
