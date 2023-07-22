@@ -5367,6 +5367,7 @@
 - [Priyanshi Dixit]
 - [Oladipupo Ishola]
 - [Priyanshi Dixit]
+- [Mark Wright]
 - [Jesse Ambler](https://github.com/jnrambler)
 - [Irvene Kwambana](https://github.com/irvinehawks)
 - [Akash](https://github.com/acfoss)
