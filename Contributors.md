@@ -106,6 +106,7 @@
 - [Denis Bondarev](https://github.com/TheNiska)
 - [Benjamin Moreno](https://github.com/B3nnjy)
 - [Niko Hoffrén](https://github.com/nikohoffren)
+- [Rishabh Mehrotra](https://github.com/imrishabhmehrotra)
 - [JackWinner](https:/github.com/winnerjack)
 - [Boluwatife-Adeyemi](https://github.com/FinzyPHINZY)
 - [akbarsiddiq](https://github.com/akbarsiddiq)
