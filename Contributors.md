@@ -2394,6 +2394,7 @@
 - [Nishant Kumar](https://github.com/thinkwithcode)
 - [IwannaToCode](https://github.com/iwannatocode)
 - [Precious Enyi](https://github.com/enyipreshious)
+- [Mamoudou DIALLO](https://github.com/Mah224Moud)
 - [Pragathees](https://github.com/pragasekar)
 - [Thomas Jacka](https://github.com/TJacka)
 - [Brian Keimah](https://github.com/Keimah507)
