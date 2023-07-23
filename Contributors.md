@@ -22,6 +22,7 @@
 - [Junaid Ahmed](https://github.com/JunaidAhmedSoomro)
 - [Muhammad Hayat](https://github.com/hayat10x)
 - [Faheem Khan](https://github.com/FaheemKhan0817)
+- [Nguezet Kenfack Jordan Junior](https://github.com/wintercodeNKJJ)
 - [Shahriar Rahat](https://github.com/ShahriarRahat)
 - [Kevin Rifel Kaiser](https://github.com/kevinRifelKaiser)
 - [Syed Mudassir Ali](https://github.com/Mudassir10X)
