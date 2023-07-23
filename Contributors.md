@@ -28,6 +28,7 @@
 - [Oluwatobi Sofela](https://github.com/oluwatobiss)
 - [Lacatus Ciprian](https://github.com/ciprilacatus)
 - [Aman Kumar Nayak](https://github.com/amankumarnayak)
+- [Daniel Julius Stein](https://github.com/danieljuliusstein)
 - [Ankit Kumar Roshan](https://github.com/akr99799)
 - [Maisha Mir](https://github.com/maishamir)
 - [Med Noor](https://github.com/mednoor890)
