@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
-- [Piyush](https://github.com/PiyushBora0-0)
+-[Piyush](https://github.com/PiyushBora0-0)
 - [Tanupreet](https://github.com/tanupreet121)
 - [Himesh](https://github.com/Himesh9512)
 - [d a n i e l](https://github.com/Real-Artisan)
