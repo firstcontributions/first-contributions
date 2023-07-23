@@ -5462,3 +5462,4 @@ MadKingWorks
 - [*Nicki Stylez*] (https://github.com/anickacodes)
 - [Bushido] (https://github.com/Bushido2404)
 - [Pam] (https://github.com/patacsilpam)
+- [Kacper] (https://github.com/kaspi174)
