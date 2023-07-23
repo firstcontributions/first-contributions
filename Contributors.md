@@ -5420,6 +5420,7 @@
 - [hjliag](https://github.com/hjliag)
 - [tonymendes](https://github.com/TonyMendes)
 - [kirans0325](https://github.com/kirans0325)
+- [Pam] (https://github.com/patacsilpam)
   [iamrishabhmehrotra](https://github.com/iamrishabhmehrotra)
 - [Eyoel Tekle] (https://github.com/EYOELTEKLE)
 - [KasSkadi](https://github.com/KasSkadi)
@@ -5454,4 +5455,3 @@
 - Zhang Kai
 - [*Nicki Stylez*] (https://github.com/anickacodes)
 - [Bushido] (https://github.com/Bushido2404)
-- [Pam] (https://github.com/patacsilpam)
