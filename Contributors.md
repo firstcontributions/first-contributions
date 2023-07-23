@@ -1418,6 +1418,7 @@
 - [Tamanna Niger Tuly]()
 - [R M Shaizal]()
 - [Aaryan Bhagat](https://github.com/AzureSky007)
+- [Yashas Donthi](https://github.com/coolyashas)
 - [Aishat Adewoyin](https://github.com/Aishat452)
 - [Soy Eric](https://github.com/ibrahimeric)
 - [Arpan Srivastava](https://github.com/Arpan3323)
