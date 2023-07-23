@@ -9,6 +9,7 @@
 - [Krishnal Baarochiya](https://github.com/killshotroxs)
 - [Maciej Mackowiak](https://github.com/MaciejMathiasMackowiak)
 - [Faheem Khan](https://github.com/FaheemKhan0817)
+- [Nguezet Kenfack Jordan Junior](https://github.com/wintercodeNKJJ)
 - [Kevin Rifel Kaiser](https://github.com/kevinRifelKaiser)
 - [Syed Mudassir Ali](https://github.com/Mudassir10X)
 - [Gaurav Dhiman](https://github.com/gauravdhiman217)
