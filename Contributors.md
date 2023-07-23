@@ -599,6 +599,7 @@
 - [Andrew Koning](https://github.com/drew-koning)
 - [Menua Bedrosian](hhtps://github.com/menuab)
 - [Anovaly](https://github.com/anovaly)
+- AncientHeroX
 - [Yu-Shiang Hsiao](https://github.com/leonarwiz)
 - [Sunetra Bhowmick](https://github.com/kaiser-sb)
 - [Hans Ibarra](https://github.com/Falaxsa13)
