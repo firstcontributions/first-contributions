@@ -5388,6 +5388,7 @@
 - [Ahmed el Ahmmar](https://github.com/ahmedelahmmar)
 - [YiyangCC](https://github.com/yiyangcc)
 - [Gerald Wala](https://github.com/G-ala-Hub)
+- [Bruce-liushaopeng](https://github.com/Bruce-liushaopeng)
 - [Coconaatti](https://github.com/Coconaatti)
 - [Asif Malik](https://github.com/asifmalik78)
 - [KKoichi276052](https://github.com/KKoichi276052)
