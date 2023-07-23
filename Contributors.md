@@ -5452,6 +5452,7 @@
 - [Sumit Singh Deode] (https://github.com/deodesumitsingh)
 - [Ellis Pax Mapakama] (https://github.com/ellispax)
 - [hhariss] (https://github.com/hhariss)
+- [Joseph Mariga] (https://github.com/Mariga94)
 - [Yaya Mohamed](https://github.com/Yaya12085)
 - [Vivek Sharma] (https://github.com/viveksharma1809)
 - [**Aryan Karma**] (https://github.com/aryankarma)
@@ -5464,3 +5465,4 @@ MadKingWorks
 - [Bushido] (https://github.com/Bushido2404)
 - [Pam] (https://github.com/patacsilpam)
 - [Kacper] (https://github.com/kaspi174)
+
