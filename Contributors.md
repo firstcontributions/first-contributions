@@ -20,6 +20,7 @@
 - [Junaid Ahmed](https://github.com/JunaidAhmedSoomro)
 - [Muhammad Hayat](https://github.com/hayat10x)
 - [Faheem Khan](https://github.com/FaheemKhan0817)
+- [Shahriar Rahat](https://github.com/ShahriarRahat)
 - [Kevin Rifel Kaiser](https://github.com/kevinRifelKaiser)
 - [Syed Mudassir Ali](https://github.com/Mudassir10X)
 - [Gaurav Dhiman](https://github.com/gauravdhiman217)
