@@ -2132,6 +2132,7 @@
 - [Aidan Stambaugh](https://github.com/aidsvm)
 - [Vivek Kumar](https//github.com/zeal2end)
 - [Darren Harris](https://github.com/theharriscode)
+- [christian amarildo](https://github.com/christian-amarildo)
 - [Albert Jannsen Ramos](https://github.com/HuggableCapybara)
 - [Raj-101](https://github.com/Raj-101)
 - [Ankit-0369](https://github.com/ankit-0369)
