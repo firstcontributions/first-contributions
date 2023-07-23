@@ -4,6 +4,7 @@
 
 -[Piyush](https://github.com/PiyushBora0-0)
 - [Himesh](https://github.com/Himesh9512)
+- [d a n i e l](https://github.com/Real-Artisan)
 - [Vaalarivan](https://github.com/Vaalarivan2002)
 - [@mobeendev-WebDeveloper-PHP-Symfony-Laravel-APIs-Git](https://github.com/mobeendev)
 - [Dio Azril](https://github.com/PenCakeFuNnY)
