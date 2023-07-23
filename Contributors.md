@@ -5435,3 +5435,4 @@
 - [Aditya Navphule](https://github.com/adityanav123)
 - [arenodi](https://github.com/arenodi)
 - Zhang Kai
+- [*Nicki Stylez*] (https://github.com/anickacodes)
