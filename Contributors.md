@@ -460,6 +460,7 @@
 - [Aman Raj](https://github.com/aman2000raj)
 - [Kyaw Zay Ya](https://github.com/kyawzayya2222)
 - [Candy21]()
+- [Cindy Wetzel](https://github.com/thialee)
 - [Mike Pazda](https://https://github.com/mike-pazda)
 - [Colin McKerracher](https://github.com/colmck)
 - [Pierce Oxley](https://github.com/Parcley27)
