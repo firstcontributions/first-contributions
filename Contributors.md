@@ -3340,6 +3340,7 @@
 - [Gavin Meeker](https://github.com/gmeeker99)
 - [Rafael Fuentes](https://github.com/RafaFuentesdev)
 - [Alan](https://github.com/Alan-John-Byrne)
+- [Adel](https://github.com/adel-a
 - [Rekerito](https://github.com/Rxkerito)
 - [Kaushal Singh](https://github.com/Kaushal0709)
 - [Harkirat Cheema](https://github.com/harry-cheema07)
