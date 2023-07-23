@@ -14,6 +14,7 @@
 - [Yan](https://github.com/yantong1775)
 - [Maciej Buračok](https://github.com/maciejburacok)
 - [Alex Rezkalla](https://github.com/DevAlex89)
+- [Alejandra Reyes](https://github.com/alereyes18)
 - [Joel Joseph Raju](https://github.com/Joel-Joseph-Raju)
 - [Ashish Jadhav](https://github.com/ashish082003)
 - Alan J Bibins
