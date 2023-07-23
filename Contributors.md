@@ -14,6 +14,7 @@
 - [Joel Joseph Raju](https://github.com/Joel-Joseph-Raju)
 - [Ashish Jadhav](https://github.com/ashish082003)
 - Alan J Bibins
+- [hrshere](https://github.com/hrshere)
 - [Otso Veisterä](https://github.com/OtsoBear)
 - [Kevin Paul](https://github.com/kevinpaul468)
 - [Krishnal Baarochiya](https://github.com/killshotroxs)
