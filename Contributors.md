@@ -159,6 +159,7 @@
 - [Alexey Usachov](https://github.com/alexey-dev)
   Antoney Malcolm
 - [Sean Crumley](https://github.com/907VigiL)
+  [Bhavya Wadhwa](https://github.com/bhavuu)
 - [Ukpa Uchechi](https://github.com/uchechiukpa)
 - [Adrien Brune](https://github.com/Ooxz)
 - [Apoorva Mamindla](https://github.com/ApoorvaM16)
