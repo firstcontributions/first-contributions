@@ -150,6 +150,7 @@
 - [Andrew Adams](https://github.com/andrewalufkin)
 - [Eduardo Montano](https://github.com/edulol-1)
 - [Nihal]()
+- [Anant Choubey](https://github.com/theanantchoubey)
 - [Mert Kjaer](https://github.com/rmertkayaer)
 - [Muberra Kurt](https://github.com/MuberraKurt)
 - [Keerthi Nannepamula](https://github.com/keerthinannepamula7)
