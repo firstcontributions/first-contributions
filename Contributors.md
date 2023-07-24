@@ -5495,6 +5495,7 @@
 - [Abdulmomen Ghalkha](https://github.com/Abdulmomen96)
 - [arenodi](https://github.com/arenodi)
 - [Clyaing](https://github.com/clyaing)
+- [Faraz Ahmad](https://github.com/fzee999)
 MadKingWorks
 - Zhang Kai
 - [*Nicki Stylez*] (https://github.com/anickacodes)
