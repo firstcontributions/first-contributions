@@ -5484,3 +5484,4 @@ MadKingWorks
 - [Kacper] (https://github.com/kaspi174)
 - [Manishak798] (https://github.com/Manishak798) 
  -[Nitesh Kushwaha] (https://github.com/niteshim0)
+- [Rene Ruano] (https://github.com/dantes2695)
