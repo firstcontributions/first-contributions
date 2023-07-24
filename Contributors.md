@@ -5429,3 +5429,4 @@
 - [Vivek Sharma] (https://github.com/viveksharma1809)
 - [**Aryan Karma**] (https://github.com/aryankarma)
 - [Aditya Navphule](https://github.com/adityanav123)
+- [Solomon A](https://github.com/cruiz007)
