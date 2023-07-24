@@ -61,6 +61,7 @@
 - [HENCHIR Hatem](https://github.com/hatemhenchir)
 - [Emilio Palmerini](https://github.com/emiliopalmerini)
 - [Mehul Dalal](https://github.com/MehulD96)
+- [Thor L](https://github.com/thormander)
 - [Youngsoo Kim](https://github.com/youngsoo-math)
 - [Yavuz Yildiz](https://github.com/YVZYLDZ11)
 - [Wilyendri Duran](https://github.com/wilyendri)
