@@ -132,6 +132,7 @@
 - [Dean Patterson](https://github.com/deanp04)
 - [Sathya Anand](https://github.com/Saan-king)
 - [Hitesh Maan](https://github.com/Hiteshmaan4444)
+- [Oleksandr Wojtyla](https://github.com/pologora)
 - [Ezekiel Martinez](https://github.com/zpmarti)
 - [Denis Bondarev](https://github.com/TheNiska)
 - [Benjamin Moreno](https://github.com/B3nnjy)
