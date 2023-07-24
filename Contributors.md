@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 <!-- prettier-ignore-start and welcome -->
 - [Ruairi Coleman](https://github.com/RuairiColeman)
@@ -54,6 +54,7 @@
 - [Maisha Mir](https://github.com/maishamir)
 - [Med Noor](https://github.com/mednoor890)
 - [Logan Hagen](https://github.com/loganhagen)
+- [Alex Parchment] (https://github.com/OscarMilde)
 - [Abdul Hashim Anshad](https://github.com/anshadanchu368)
 - [Macie White](https://github.com/MacieWhite/)
 - [David Deng](https://github.com/LazySheeep)
