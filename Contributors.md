@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start and welcome -->
+- [Ruairi Coleman](https://github.com/RuairiColeman)
 - [Binaya Batas] (https://github.com/binaya-batas)
 - [kishan singh](https://github.com/KISHAsingh43)
 - [Piyush](https://github.com/PiyushBora0-0)
