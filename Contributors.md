@@ -265,6 +265,7 @@
 - [James Kelly](https://github.com/jkellymi)
 - [Miles Asher](https://github.com/Miles-Asher)
 - [Satyam Karn](https://github.com/devCadet1)
+- [Zero3River](https://github.com/Zero3River)
 - [Angelo Bongiorno](https://github.com/AngeloBongiorno)
 - [Daniël Vos](https://github.com/DanielVos1992)
 - [Zakaria Semlali](https://github.com/zakariasemlali)
