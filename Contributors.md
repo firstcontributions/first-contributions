@@ -146,6 +146,7 @@
 - [Juan Cortes](https://github.com/jp-cortes)
 - [Mishal Manzoor](https://github.com/mishal55)
 - [Shivam Puri](https://github.com/shivm29)
+  [Kartavya Chauhan](https://github.com/KartavyaChauhan236)
 - [Jake Hannahan](https://github.com/jake-hannahan)
 - [Ankita Patil](https://github.com/AnkitaPatil2003)
 - [Ritesh Mandal](https://github.com/mritesh776)
