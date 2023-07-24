@@ -1879,6 +1879,7 @@
 - [Solmaz Arezoomandan](https://github.com/Soltechie)
 - [Rohitha Yarlagadda](https://github.com/YRohitha)
 - [Piotr Awramiuk](https://github.com/portrecistajeden)
+-[Zander van Bruggen] (https://github.com/ZandervB/first-contributions)
 - [Chinmay Bhalerao](https://github.com/ChinmayBH)
 - [Dunson](https://github.com/Dunson)
 - [Eugene](https://github.com/eugene0928)
