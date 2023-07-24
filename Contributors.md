@@ -46,6 +46,7 @@
 - [Hannes Albert](https://github.com/w8ste)
 - [Muhammad Faizan](https://github.com/MFaizan11)
 - [Roy Ataya](https://github.com/RoyAtaya)
+- [Sarah Clark] (https://github.com/sarosy18)
 - [Oluwatobi Sofela](https://github.com/oluwatobiss)
 - [Lacatus Ciprian](https://github.com/ciprilacatus)
 - [Aman Kumar Nayak](https://github.com/amankumarnayak)
