@@ -12,7 +12,7 @@
 - [Joseph Abuanor](https://github.com/JosephAbuanor)
 - [Dio Azril](https://github.com/PenCakeFuNnY)
 - [Hrushikesh](https://github.com/FlashBang-000X)
-- [Akshay Vijaykumar](https://github.com/Akshay-VK)
+- [Yashita Sharma] (https://github.com/Yashita1512)
 - [Brendon Crave](https://github.com/bcrave)
 - [Yan](https://github.com/yantong1775)
 - [Maciej Buračok](https://github.com/maciejburacok)
