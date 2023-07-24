@@ -5515,3 +5515,4 @@ MadKingWorks
 [def]: https://github.com/KISHAsingh43
 - [sh4mia] https://github.com/sh4mia
 - [Gökhan Alkacir](https://github.com/Sacquer)
+- [Diego Castillo](https://github.com/diegotony)
