@@ -102,6 +102,7 @@
 - [Omkar A](https://github.com/mee-omi)
 - [sogho37](https://github.com/sogho37)
 - [YairZach](https://github.com/YairZach)
+Jhalak Aggarwal (https://github.com/jhalakaggarwal)
 - [linre-90](https://github.com/linre-90)
 - [Giridhar](https://github.com/giridhar04)
 - [rohitrana-R](https://github.com/rohitrana-R)
