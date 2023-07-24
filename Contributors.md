@@ -2,7 +2,8 @@
 
 <!-- prettier-ignore-start and welcome -->
 - [Binaya Batas] (https://github.com/binaya-batas)
--[Piyush](https://github.com/PiyushBora0-0)
+- [kishan singh](https://github.com/KISHAsingh43)
+- [Piyush](https://github.com/PiyushBora0-0)
 - [Tanupreet](https://github.com/tanupreet121)
 - [Himesh](https://github.com/Himesh9512)
 - [d a n i e l](https://github.com/Real-Artisan)
@@ -5486,3 +5487,5 @@ MadKingWorks
 - [Manishak798] (https://github.com/Manishak798) 
  -[Nitesh Kushwaha] (https://github.com/niteshim0)
 - [Rene Ruano] (https://github.com/dantes2695)
+
+[def]: https://github.com/KISHAsingh43
