@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start and welcome -->
+- [Binaya Batas] (https://github.com/binaya-batas)
 -[Piyush](https://github.com/PiyushBora0-0)
 - [Tanupreet](https://github.com/tanupreet121)
 - [Himesh](https://github.com/Himesh9512)
