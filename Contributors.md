@@ -104,7 +104,7 @@
 - [Dominic van Almsick](https://github.com/dominicva)
 - [Shreshth Rajpal](https://github.com/shreshthr)
 - [jayasekharreddy-telluri](https://github.com/jayasekharreddy-telluri)
-- [V205Github](https://github.com/V205Github)
+- [V205Arduino](https://github.com/V205Arduino)
 - [Andrei Nicola](https://github.com/Nico7777777)
 - [Sushovan_Paul](https://github.com/sushovanpaul07)
 - [Arsal Uddin](https://github.com/Arsaluddin)
