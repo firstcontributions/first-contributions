@@ -5428,6 +5428,7 @@
 - [Akash](https://github.com/acfoss)
 - [Hugo Alonzo](https://github.com/hhugoac)
 - [Erick Sutil](https://github.com/erbsutil)
+- [Olajide Balogun](https://github.com/Olajidecodez)
 - [Moiz Fayyaz](https://github.com/moizfayyaz1)
 - [Grace Patlewicz](https://github.com/g-patlewicz)
 - [Zach Meszaros](https://github.com/t3hPoundcake)
@@ -5502,5 +5503,5 @@ MadKingWorks
  -[Nitesh Kushwaha] (https://github.com/niteshim0)
 - [Rene Ruano] (https://github.com/dantes2695)
 - [Agbaje Olayiwola] (https://github.com/AgbajeOlayiwola)
-
+-
 [def]: https://github.com/KISHAsingh43
