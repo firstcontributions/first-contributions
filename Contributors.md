@@ -322,6 +322,7 @@
 - [muntazirgo](https://github.com/muntazirgo)
 - [Nobilisfur1]
 - [Rakshit](https://github.com/rakshit068)
+- [Christopher Pimentel](https://github.com/Krisstopher15)
 - [Maayan](https://github.com/maayan1)
 - [Lion King](https://github.com/topmsdreamer)
 - [Munene-m](https://github.com/munene-m)
