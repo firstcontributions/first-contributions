@@ -102,6 +102,7 @@
 - [linre-90](https://github.com/linre-90)
 - [Giridhar](https://github.com/giridhar04)
 - [rohitrana-R](https://github.com/rohitrana-R)
+- [jmgav03](https://github.com/jmgav03)
 - [MwangiJim](https://github.com/MwangiJim)
 - [Victor Gomenza](https://github.com/Viguitars)
 - [Dheeraj Israni](https://github.com/dheeraj-israni)
