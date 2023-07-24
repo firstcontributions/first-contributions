@@ -1120,6 +1120,7 @@
 - [Anirudh Hegde](https://github.com/Anianonymous)
 - [Cara](https://github.com/CaraMcAvinchey)
 - [seung-u](https://github.com/seung-u)
+- [Arislothle] ()
 - [Ashi San](https://github.com/AshiSan)
 - [Hashir-ul-islam](https://github.com/HashCoder001)
 - [Sergio Zavala](https://github.com/sezavala)
