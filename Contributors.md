@@ -19,6 +19,7 @@
 - [Alejandra Reyes](https://github.com/alereyes18)
 - [Joel Joseph Raju](https://github.com/Joel-Joseph-Raju)
 - [Ashish Jadhav](https://github.com/ashish082003)
+- [Muhammad Rumi](https://github.com/Muhammad-Rumi) 
 - Alan J Bibins
 - [hrshere](https://github.com/hrshere)
 - [Otso Veisterä](https://github.com/OtsoBear)
