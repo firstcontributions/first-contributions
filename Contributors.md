@@ -958,6 +958,7 @@
 - [Leonardo Moura](https://github.com/leonardommascarenhas)
 - [Sabya]()
 - [Rio]()
+- [Phoenix Parisian](https://github.com/phoenixparisian)
 - [J3exellence]()
 - [Justin Valdez]()
 - [Triparna Saha]()
