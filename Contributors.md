@@ -213,6 +213,7 @@
 - [Robert Garofalo](https://github.com/robertgarofalo)
 - [Ari Zaravelis]
 - [Suryansh Srivastava]
+- [Kasienka](https://github.com/jaKasienka)
 - [Ohis Samuel](https://github.com/ohizz)
 - [Bharat Manral](https://github.com/iamBharatManral)
 - [Noman Fareed](https://github.com/shnoman97)
