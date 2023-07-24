@@ -24,6 +24,7 @@
 - Alan J Bibins
 - [hrshere](https://github.com/hrshere)
 - [Otso Veisterä](https://github.com/OtsoBear)
+- [James Bradley](https://github.com/sovarezza)
 - [Kevin Paul](https://github.com/kevinpaul468)
 - [Krishnal Baarochiya](https://github.com/killshotroxs)
 - [Maciej Mackowiak](https://github.com/MaciejMathiasMackowiak)
