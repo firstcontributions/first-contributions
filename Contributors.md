@@ -1440,6 +1440,7 @@
 - [Eti Gal-Or Mendelovich](https://github.com/etigame)
 - [Tamanna Niger Tuly]()
 - [R M Shaizal]()
+- [Eli Solow](https://github.com/so7ow)
 - [Aaryan Bhagat](https://github.com/AzureSky007)
 - [Yashas Donthi](https://github.com/coolyashas)
 - [Aishat Adewoyin](https://github.com/Aishat452)
