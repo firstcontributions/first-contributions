@@ -6,6 +6,7 @@
 - [kishan singh](https://github.com/KISHAsingh43)
 - [Piyush](https://github.com/PiyushBora0-0)
 - [Tanupreet](https://github.com/tanupreet121)
+- [Manuel Waltschek](https://github.com/manuelwaltschek)
 - [Himesh](https://github.com/Himesh9512)
 - [d a n i e l](https://github.com/Real-Artisan)
 - [Jacob Matthew Ervin Ide](https://github.com/ihavemadefire)
