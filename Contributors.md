@@ -3192,6 +3192,7 @@
 - [Gayatri] (https://github.com/protonmail567)
 - [Saket Munda](https://github.com/SaketMunda)
 - [Marek Wasilczuk](https://github.com/tw-mwasilczuk)
+- [Wasim Shah] (https://github.com/wasimshah846)
 - [John-Paul Wernecke](https://github.com/Revicx)
 - [Harshavardhan Kolhatkar](https://github.com/EvilGenius1010)
 - [Shynee](https://github.com/Shynee1)
