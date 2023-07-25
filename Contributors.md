@@ -853,6 +853,7 @@
 - [Aery Zhao](https://github.com/aeryzhao)
 - [Pirajesh M R](https://github.com/verz0)
 - [Ketan Parmar](https://github.com/KetanParmar02)
+- [Kavita-Dhole](https://github.com/Kavita-Dhole)
 - [Allan Robert Tan](https://github.com/eillanrt)
 - [nionyn](https://github.com/nionyn)
 - [Guanyu Wang](https://github.com/GuanyuWang1234)
