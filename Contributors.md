@@ -1477,6 +1477,7 @@
 - [Khushi Sharma](https://github.com/Khushisharma23)
 - [Jermy Deer](https://github.com/JermyDeer)
 - [Ankit Somani](https://github.com/Ankit-Somani)
+- [Lutfia Omar](https://github.com/lutfiaomarr)
 - [Artem Yershov](https://github.com/YershovArt)
 - [Alen Chen](https://github.com/ChenYunyue)
 - [Ross Brown](https://github.com/ross-brown)
