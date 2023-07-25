@@ -22,6 +22,7 @@
 - [Yashita Sharma] (https://github.com/Yashita1512)
 - [Brendon Crave](https://github.com/bcrave)
 - [Yan](https://github.com/yantong1775)
+- [Tom Walter](https://github.com/tom-walter)
 - [Salma Abdallah](https://github.com/safacade009)
 - [Maciej Buračok](https://github.com/maciejburacok)
 - [Alex Rezkalla](https://github.com/DevAlex89)
