@@ -29,6 +29,7 @@
 - [Salma Abdallah](https://github.com/safacade009)
 - [Maciej Buračok](https://github.com/maciejburacok)
 - [Alex Rezkalla](https://github.com/DevAlex89)
+- [Rita Nkem Daniel](https://github.com/RitaDee)
 - [Meghna Kyatham](https://github.com/meghnakyatham/first-contributions.git)
 - [RKup](https://github.com/ralfkuepper)
 - [Alejandra Reyes](https://github.com/alereyes18)
