@@ -4062,6 +4062,7 @@
 - [Arash Andishgar](https://github.com/arashandishgar)
 - [Michael Silverman](https://github.com/msilverman-va)
 - [Susan Shilbi](https://github.com/susan7shilbi)
+- [smschijf](https://github.com/smschijf)
 - [Quan Jiang](https://github.com/JQuan1999)
 - [Sarah](https://github.com/mintyeucalyptus)
 - [Levi Francis](https://github.com/leevigh)
