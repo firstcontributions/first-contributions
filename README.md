@@ -96,7 +96,7 @@ This will create a copy of this repository in your account.
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
 
-Open a terminal and run the following git command:
+Open a terminal go into the folder in which you want to place the code and run the following git command:
 
 ```
 git clone "url you just copied"
@@ -212,3 +212,5 @@ Now let's get you started with contributing to other projects. We've compiled a 
     <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
   </a>
 </p>
+
+
