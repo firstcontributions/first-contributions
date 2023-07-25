@@ -21,6 +21,7 @@
 - [@mobeendev-WebDeveloper-PHP-Symfony-Laravel-APIs-Git](https://github.com/mobeendev)
 - [Joseph Abuanor](https://github.com/JosephAbuanor)
 - [Dio Azril](https://github.com/PenCakeFuNnY)
+- [Ronny Rusten](https://github.com/RonnyRusten)
 - [Hrushikesh](https://github.com/FlashBang-000X)
 - [Yashita Sharma] (https://github.com/Yashita1512)
 - [Brendon Crave](https://github.com/bcrave)
