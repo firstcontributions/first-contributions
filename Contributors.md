@@ -74,6 +74,7 @@
 - [Fayez Bajjali](https://github.com/beetlejuice16)
 - [Mahmoud Khalifa](https://github.com/mahmoudkhalifah)
 - [James Alan Cone](https://github.com/jacone626/)
+- [Yakobus-Mardi](https://github.com/Yakobus-Mardi)
   [Muhammad Hanzala](https://github.com/MHanzzala)
 - [MoharTry](https://github.com/MoharTry)
 - [Eric Obeng](https://github.com/Eric-Obeng)
