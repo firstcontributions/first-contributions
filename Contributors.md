@@ -75,6 +75,7 @@
 - [Khiran](https://github.com/Khiran0320)
 - [HENCHIR Hatem](https://github.com/hatemhenchir)
 - [Emilio Palmerini](https://github.com/emiliopalmerini)
+- [Musa-Sina-Ertugrul](https://github.com/Musa-Sina-Ertugrul)
 - [Mehul Dalal](https://github.com/MehulD96)
 - [Thor L](https://github.com/thormander)
 - [Youngsoo Kim](https://github.com/youngsoo-math)
