@@ -5546,4 +5546,3 @@
 - [Solomon A](https://github.com/cruiz007)
 - [Durmus Demirtas](https://github.com/demirtasdurmus)
 - [Jojo Skosana](https://github.com/Jay-Jay23)
-- [Burak Diker](https://github.com/dburak)
