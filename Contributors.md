@@ -29,6 +29,7 @@
 - [Ashish Jadhav](https://github.com/ashish082003)
 - [Muhammad Rumi](https://github.com/Muhammad-Rumi) 
 - Alan J Bibins
+- espy geet
 - [hrshere](https://github.com/hrshere)
 - [Otso Veisterä](https://github.com/OtsoBear)
 - [James Bradley](https://github.com/sovarezza)
