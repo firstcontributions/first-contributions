@@ -46,6 +46,7 @@
 - [Syed Mudassir Ali](https://github.com/Mudassir10X)
 - [Gaurav Dhiman](https://github.com/gauravdhiman217)
 - [Hannes Albert](https://github.com/w8ste)
+- [Luqman Salad](https://github.com/luqman-salad)
 - [Muhammad Faizan](https://github.com/MFaizan11)
 - [Roy Ataya](https://github.com/RoyAtaya)
 - [Sarah Clark] (https://github.com/sarosy18)
