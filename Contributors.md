@@ -1182,6 +1182,7 @@
 - [Robert Garofalo](https://github.com/robertgarofalo)
 - [Suhasini Srivastava](https://github.com/suhasinisrivastava)
 - [Suryansh Srivastava]()
+- [Christian Bates](https://github.com/cjbates02)
 - [Ohis Samuel](https://github.com/ohizz)
 - [Bharat Manral](https://github.com/iamBharatManral)
 - [Noman Fareed](https://github.com/shnoman97)
