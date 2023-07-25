@@ -50,6 +50,7 @@
 - [Nguezet Kenfack Jordan Junior](https://github.com/wintercodeNKJJ)
 - [Shahriar Rahat](https://github.com/ShahriarRahat)
 - [Kevin Rifel Kaiser](https://github.com/kevinRifelKaiser)
+- [SirPlutypas](https://github.com/SirPlutypas)
 - [Syed Mudassir Ali](https://github.com/Mudassir10X)
 - [Gaurav Dhiman](https://github.com/gauravdhiman217)
 - [Hannes Albert](https://github.com/w8ste)
