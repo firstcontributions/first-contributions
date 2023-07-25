@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start and welcome -->
+- [Areeb Fazli](https://github.com/areebfazli) 
 - [Hussain Murtaza](https://github.com/Hussain760)
 - [Ruairi Coleman](https://github.com/RuairiColeman)
 - [Binaya Batas] (https://github.com/binaya-batas)
