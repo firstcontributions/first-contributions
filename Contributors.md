@@ -5530,3 +5530,4 @@ MadKingWorks
 - [Goh Ivan](https://github.com/gysiang)
 - [Fitrah Munir](https://github.com/fitrahfm)
 - [Solomon A](https://github.com/cruiz007)
+- [Durmus Demirtas](https://github.com/demirtasdurmus)
