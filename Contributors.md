@@ -77,6 +77,7 @@
 - [Patrick Djemba TchounkE](https://github.com/patrickDjembat)
 - [Khiran](https://github.com/Khiran0320)
 - [HENCHIR Hatem](https://github.com/hatemhenchir)
+- [Firas Roggai](https://github.com/firasRoggai)
 - [Emilio Palmerini](https://github.com/emiliopalmerini)
 - [Musa-Sina-Ertugrul](https://github.com/Musa-Sina-Ertugrul)
 - [Mehul Dalal](https://github.com/MehulD96)
