@@ -5528,3 +5528,4 @@ MadKingWorks
 - [Souleymane Bah](https://github.com/KET752SBAH/f)
 - [Goh Ivan](https://github.com/gysiang)
 - [Fitrah Munir](https://github.com/fitrahfm)
+- [Solomon A](https://github.com/cruiz007)
