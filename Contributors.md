@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+- [Jason Bohlinger](https://github.com/jason-bohlinger)
 - [Areeb Fazli](https://github.com/areebfazli)
 - [Amarjit Singh Arora] (https://github.com/asarora72)
 - [Hussain Murtaza](https://github.com/Hussain760)
