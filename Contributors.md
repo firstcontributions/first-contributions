@@ -2997,6 +2997,7 @@
 - [Rodrigo Cortes](https://github.com/rocortes10)
 - [Thamsanqa Shabangu](https://github.com/Thamesssa)
 - [Peter Hansteen](https://github.com/pitrh)
+[Qin Ren](https://github.com/gezige)
 - [Pranjal Jaiswal](https://github.com/pranjaljaiswal10)
 - [Brendon Rofe](https://github.com/brendon-rofe)
 - [Rakshit Gupta](https://github.com/rakshitgupta23)
@@ -5548,3 +5549,4 @@
 - [Jojo Skosana](https://github.com/Jay-Jay23)
 - [Burak Diker](https://github.com/dburak)
 - [Solanum] (https://github.com/ClairVauxBernardus)
+
