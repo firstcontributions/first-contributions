@@ -72,6 +72,7 @@
 - [Gerardo Arriaza Pantaleon](https://github.com/GerardoAP22)
 - [DenisPilnik](https://github.com/DenisPilnik)
 - [Patrick Djemba TchounkE](https://github.com/patrickDjembat)
+- [Khiran](https://github.com/Khiran0320)
 - [HENCHIR Hatem](https://github.com/hatemhenchir)
 - [Emilio Palmerini](https://github.com/emiliopalmerini)
 - [Mehul Dalal](https://github.com/MehulD96)
