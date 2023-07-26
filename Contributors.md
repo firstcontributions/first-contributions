@@ -125,6 +125,7 @@
 -   [J Jones](https://github.com/jjones40)
 -   [elit-123](https://github.com/elit-123)
 -   [Mas Muhammadun Zahid](https://github.com/masza1)
+    [Alade Idris Tolani](https://github.com/dristol)
 -   [Michael Hutchinson](https://github.com/Michael-Hutchinson)
 -   [Pankti Shah](https://github.com/Pankti910)
 -   [amihere](https://github.com/amihere)
