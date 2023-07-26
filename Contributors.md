@@ -9,6 +9,7 @@
 - [Binaya Batas] (https://github.com/binaya-batas)
 - [kishan singh](https://github.com/KISHAsingh43)
 - [Piyush](https://github.com/PiyushBora0-0)
+- [Soni](https://github.com/khushsoni)
 - [Tanupreet](https://github.com/tanupreet121)
 - [Manuel Waltschek](https://github.com/manuelwaltschek)
 - [Himesh](https://github.com/Himesh9512)
