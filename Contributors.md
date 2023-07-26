@@ -2,16 +2,17 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+- [Akshat Sharma](https://github.com/akshatsharma1290)
 - [SamTime101](https://github.com/samTime101)
 - [Mia](https://github.com/SerikiAyodele)
 -   [raazvardhan](https://github.com/raazvardhan)
 -   [cosplayy](https://github.com/cosplayy)
 -   [Jason Bohlinger](https://github.com/jason-bohlinger)
 -   [Areeb Fazli](https://github.com/areebfazli)
--   [Amarjit Singh Arora] (https://github.com/asarora72)
+-   [Amarjit Singh Arora](https://github.com/asarora72)
 -   [Hussain Murtaza](https://github.com/Hussain760)
 -   [Ruairi Coleman](https://github.com/RuairiColeman)
--   [Binaya Batas] (https://github.com/binaya-batas)
+-   [Binaya Batas](https://github.com/binaya-batas)
 -   [Adarsh K](https://github.com/adrshk)
 -   [kishan singh](https://github.com/KISHAsingh43)
 -   [Piyush](https://github.com/PiyushBora0-0)
