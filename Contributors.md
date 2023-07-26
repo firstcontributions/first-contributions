@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+- [Mia](https://github.com/SerikiAyodele)
 -   [raazvardhan](https://github.com/raazvardhan)
 -   [cosplayy](https://github.com/cosplayy)
 -   [Jason Bohlinger](https://github.com/jason-bohlinger)
