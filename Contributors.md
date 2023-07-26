@@ -160,6 +160,7 @@
 -   [jayasekharreddy-telluri](https://github.com/jayasekharreddy-telluri)
 -   [V205Arduino](https://github.com/V205Arduino)
 -   [Andrei Nicola](https://github.com/Nico7777777)
+-   [Eni Zeza](https://github.com/enizeza)
 -   [Sushovan_Paul](https://github.com/sushovanpaul07)
 -   [Arsal Uddin](https://github.com/Arsaluddin)
 -   [M4h4nk4l1](https://github.com/m4h4nk4l1)
