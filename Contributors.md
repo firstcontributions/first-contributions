@@ -997,6 +997,7 @@
 -   [Luiz Augusto](https://github.com/luizAFS23)
 -   [Lukas Haring](https://github.com/mrlukyman/first-contributions)
 -   [Jai Vignesh](https://github.com/hsengiviaJ)
+-   [Firdaus Johari](https://github.com/mofirdaus)
 -   [Aastha Kumari](https://github.com/aasthak108)
 -   [Tai Arima](https://github.com/taiarima)
 -   [Raj Sinha](https://github.com/r-a-j-s-i-n-h-a)
