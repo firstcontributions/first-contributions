@@ -65,6 +65,7 @@
 -   [Malik Faayez Muhammad](https://github.com/MFaayez)
 -   [Muhammad Hayat](https://github.com/hayat10x)
 -   [Faheem Khan](https://github.com/FaheemKhan0817)
+-   [Mattia Metzler](https://github.com/MaGaMe19)
 -   [Nguezet Kenfack Jordan Junior](https://github.com/wintercodeNKJJ)
 -   [Shahriar Rahat](https://github.com/ShahriarRahat)
 -   [Kevin Rifel Kaiser](https://github.com/kevinRifelKaiser)
