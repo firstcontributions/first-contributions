@@ -29,6 +29,7 @@
 -   [Jacob Matthew Ervin Ide](https://github.com/ihavemadefire)
 -   [Josh Gumerove](https://github.com/joshgumerove)
 -   [Usman Qasim](https://github.com/UsmanQasim)
+-   [Ali Ezzeddine](https://github.com/alkezz)
 -   [Vaalarivan](https://github.com/Vaalarivan2002)
 -   [@mobeendev-WebDeveloper-PHP-Symfony-Laravel-APIs-Git](https://github.com/mobeendev)
 -   [rahul-sharma-rahul.n.sharma511@gmail.com](https://github.com/rahulsharma511)
