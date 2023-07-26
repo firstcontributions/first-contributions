@@ -5497,5 +5497,6 @@ MadKingWorks
 - [Manishak798] (https://github.com/Manishak798) 
  -[Nitesh Kushwaha] (https://github.com/niteshim0)
 - [Rene Ruano] (https://github.com/dantes2695)
+- [Firdaus Johari](https://github.com/mofirdaus)
 
 [def]: https://github.com/KISHAsingh43
