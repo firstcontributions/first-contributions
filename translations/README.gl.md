@@ -74,7 +74,7 @@ git add Contributors.md
 
 Agora podes facer commit sobre os cambios co comando `git commit`
 ```
-git commit -m "Add <o-teu-nome> to Contributors list"
+git commit -m "Add <o-teu-nome> to Contributo
 ```
 cambiando `<o-teu-nome>` polo teu nome.
 
