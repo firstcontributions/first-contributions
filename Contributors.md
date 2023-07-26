@@ -371,6 +371,7 @@
 -   [Mansvi Kamble](https://github.com/22MansviK)
 -   [feelthatvib3](https://github.com/feelthatvib3)
 -   [Nathanaël V](https://github.com/nathanael-v)
+-   [Sandry](https://github.com/sandry24)
 -   [muntazirgo](https://github.com/muntazirgo)
 -   [Nobilisfur1]
 -   [Rakshit](https://github.com/rakshit068)
