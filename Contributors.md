@@ -10,6 +10,7 @@
 - [d a n i e l](https://github.com/Real-Artisan)
 - [Usman Qasim](https://github.com/UsmanQasim)
 - [Vaalarivan](https://github.com/Vaalarivan2002)
+- [Firdaus Johari](https://github.com/mofirdaus)
 - [@mobeendev-WebDeveloper-PHP-Symfony-Laravel-APIs-Git](https://github.com/mobeendev)
 - [Joseph Abuanor](https://github.com/JosephAbuanor)
 - [Dio Azril](https://github.com/PenCakeFuNnY)
@@ -5497,6 +5498,5 @@ MadKingWorks
 - [Manishak798] (https://github.com/Manishak798) 
  -[Nitesh Kushwaha] (https://github.com/niteshim0)
 - [Rene Ruano] (https://github.com/dantes2695)
-- [Firdaus Johari](https://github.com/mofirdaus)
 
 [def]: https://github.com/KISHAsingh43
