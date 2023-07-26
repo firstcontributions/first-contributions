@@ -4742,6 +4742,7 @@
 - [Sierra Wanzer](https://github.com/SieDoesTech)
 - [Ayisha Alli](https://github.com/AyishaAlli)
 - [Saiyam Jain](https://github.com/itzsamdev)
+Aadi Deshmukh
 - [Boluwatife Ladeinde](https://github.com/boluwatifeee)
 - [Jhon Arias](https://github.com/jhonfredi)
 - [Simon Random](https://github.com/random-guyy)
