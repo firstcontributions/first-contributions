@@ -18,6 +18,7 @@
 -   [kishan singh](https://github.com/KISHAsingh43)
 -   [Piyush](https://github.com/PiyushBora0-0)
 -   [Tanupreet](https://github.com/tanupreet121)
+-   [Ankit Dutta](https://github.com/AnkitDutta)
 -   [Manuel Waltschek](https://github.com/manuelwaltschek)
 -   [Himesh](https://github.com/Himesh9512)
 -   [Noah Fasser](https://github.com/D3rZ3ug3)
