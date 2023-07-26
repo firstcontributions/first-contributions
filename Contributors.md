@@ -14,6 +14,7 @@
 -   [Hussain Murtaza](https://github.com/Hussain760)
 -   [Ruairi Coleman](https://github.com/RuairiColeman)
 -   [Binaya Batas](https://github.com/binaya-batas)
+-   [Md Faizan Khan](https://github.com/thefznkhan)
 -   [Adarsh K](https://github.com/adrshk)
 -   [kishan singh](https://github.com/KISHAsingh43)
 -   [Piyush](https://github.com/PiyushBora0-0)
