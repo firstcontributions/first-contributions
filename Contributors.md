@@ -20,6 +20,7 @@
 -   [Usman Qasim](https://github.com/UsmanQasim)
 -   [Vaalarivan](https://github.com/Vaalarivan2002)
 -   [@mobeendev-WebDeveloper-PHP-Symfony-Laravel-APIs-Git](https://github.com/mobeendev)
+-   [rahul-sharma-rahul.n.sharma511@gmail.com](https://github.com/rahulsharma511)
 -   [Joseph Abuanor](https://github.com/JosephAbuanor)
 -   [Dio Azril](https://github.com/PenCakeFuNnY)
 -   [Ronny Rusten](https://github.com/RonnyRusten)
