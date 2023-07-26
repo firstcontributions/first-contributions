@@ -1283,6 +1283,7 @@
 -   [Chaitanya Galla](https://github.com/gallachaitanya)
 -   [Samuel Cameron](https://github.com/samca2)
 -   [Hari Prasad](https://github.com/itcodehery)
+-   [Lucia Aydin](https://github.com/Lucia-Ay)
 -   [Khushi](https://github.com/KhushiP098)
 -   [Lucas Sebastian](https://github.com/LucaxSebastian)
 -   [Ambroise Ngayinoko](https://github.com/Ambro19)
