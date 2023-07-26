@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start and welcome -->
 
 - [JaeRyung Hong](https://github.com/Jar199)
+-   [shlomo friedman](https://github.com/flipityflop)
 - [Akshat Sharma](https://github.com/akshatsharma1290)
 - [SamTime101](https://github.com/samTime101)
 - [Mia](https://github.com/SerikiAyodele)
