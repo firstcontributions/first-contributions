@@ -5595,5 +5595,5 @@ Aadi Deshmukh
     [Dan Calabia] (https://github.com/DandarandanEC)
     [Carlos Grajeda] (https://github.com/grajedacarlos)
 -   [Rabab Shayra] (https://github.com/Rababdhruba1996)
+-   [Gabriel Mackenzie] (https://github.com/Kenn-243)
 - [Romeo Noveanre](https://github.com/kraken-afk)
--   [Ken] (https://github.com/Kenn-243)
