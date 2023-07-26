@@ -222,6 +222,7 @@
 -   [Snehasis Ghosh](https://github.com/Snehasis4321)
 -   [Anirudh Hegde](https://github.com/Anianonymous)
 -   [seung-u](https://github.com/seung-u)
+-   [Abe Lincoln]
 -   [Ashi San](https://github.com/AshiSan)
 -   [Hashir-ul-islam](https://github.com/HashCoder001)
 -   [Sergio Zavala](https://github.com/sezavala)
