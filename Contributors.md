@@ -5570,4 +5570,5 @@ Aadi Deshmukh
 -   [Burak Diker](https://github.com/dburak)
 -   [Solanum] (https://github.com/ClairVauxBernardus)
 -   [philip0000000] (https://github.com/philip0000000)
+-   [Md. Faridul Hassan] (https://github.com/faridulhassan)
 -   [MrDiamond007] (https://github.com/MrDiamond007)
