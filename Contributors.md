@@ -5552,6 +5552,7 @@ Aadi Deshmukh
     MadKingWorks
 -   Zhang Kai
 -   [*Nicki Stylez*] (https://github.com/anickacodes)
+    [Charles Fei Wang] (https://github.com/CharlesFeiWang)
 -   [Raul Bazan](https://github.com/RaulBSanchez)
 -   [Bushido] (https://github.com/Bushido2404)
 -   [Pam] (https://github.com/patacsilpam)
