@@ -4912,6 +4912,7 @@
 - [ak](https://github.com)
 - [Huxixiaohai](https://github.com/Huxixiaohai)
 - [ng](https://github.com/joeng-ng)
+- [Mia](https://github.com/SerikiAyodele)
 - [Isha Chauhan](https://github.com/izha135)
 - [Thamsanqa Mpofu](https://github.com/Thamue1892)
 - [Jeff Chang](https://github.com/jeffmchang)
