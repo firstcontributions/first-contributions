@@ -1741,6 +1741,7 @@
 -   [Lukasz Gzella](https://github.com/lukasgzella)
 -   [Shaik Mohammad Afzal](https://github.com/afzxlsgit)
 -   [Adarsh Agarwal]()
+-   [Djamel Bougouffa](https://github.com/Strawbang)
 -   [Lucas Moyano](https://github.com/LucasEPK)
 -   [Kapil Vaishnav](https://github.com/kapil5849)
 -   [Joy](https://github.com/aquaj0y)
