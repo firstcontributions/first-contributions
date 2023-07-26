@@ -424,6 +424,7 @@
 -   [Alex Rocha](https://github.com/alexcrocha)
 -   [Taylor Franklin](https://github.com/taylorgr92)
 -   [Danish Ali](https://github.com/syedddanishalinaqvi)
+-   [Yasin Price](https://github.com/YsPrice)
 -   [Isaiah Swain](https://github.com/imswain)
 -   [Mayur Rathod](https://github.com/rmayur777)
 -   [Marcio Oliveira](https://github.com/oliveiramarcio)
