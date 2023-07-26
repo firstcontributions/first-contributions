@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+- [SamTime101](https://github.com/samTime101)
 - [Mia](https://github.com/SerikiAyodele)
 -   [raazvardhan](https://github.com/raazvardhan)
 -   [cosplayy](https://github.com/cosplayy)
