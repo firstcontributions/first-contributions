@@ -31,7 +31,7 @@
 - [babujal]
 - [Jack Gerry](https://github.com/JackGerry1)
 - [✌Husseini Mudi Profsain](https://github.com/Profsain)
-- [MerlinDaily] (https://github.com/MerlinDaily)
+- [MerlinDaily](https://github.com/MerlinDaily)
 - [Vansh Rai Saini](https://github.com/vanshraisaini)
 - [Damoon Darvishi](https://github.com/DamoonDarvishi)
 - [Shubham Tamrakar](https://github.com/shubham-tam)
