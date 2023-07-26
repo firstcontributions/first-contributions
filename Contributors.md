@@ -5,6 +5,7 @@
 - [Akshat Sharma](https://github.com/akshatsharma1290)
 - [SamTime101](https://github.com/samTime101)
 - [Mia](https://github.com/SerikiAyodele)
+- [Shadmehr](https://github.com/shadmehr-salehi)
 -   [raazvardhan](https://github.com/raazvardhan)
 -   [cosplayy](https://github.com/cosplayy)
 -   [Jason Bohlinger](https://github.com/jason-bohlinger)
