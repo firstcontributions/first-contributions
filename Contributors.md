@@ -293,6 +293,7 @@
 - [Yohannes Fishatsion](https://github.com/yohannes-teshale)
 - [Rimma Kubanova](https://github.com/rimma-kubanova)
 - [Kuldip Chaudhary](https://github.com/KMchaudhary)
+- [Roshan Prakash](https://github.com/abioticgenius)
 - [Viraj Rai](https://github.com/viruop)
 - [Hardik Balwani](https://github.com/Hardikbalwani)
   [Emiliano Jimenez Guadarrama](https://github.com/Emiliano1919)
