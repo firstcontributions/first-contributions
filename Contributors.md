@@ -5654,5 +5654,7 @@ Aadi Deshmukh
 - [Tommy Tsui](https://github.com/tomitsui123)
 - [Enrica Melissa Panjaitan](https://github.com/marinebubble)
 - [Nachiketh s H](https://github.com/nachiketh25)
+- [sk](https://github.com/kolachinas)
 - [John Feng](https://github.com/johnnykfeng)
 - [Ze Jin](https://github.com/paradoxtown)
+
