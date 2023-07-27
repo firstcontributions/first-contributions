@@ -694,6 +694,7 @@
 - [Anovaly](https://github.com/anovaly)
 - AncientHeroX
 - [Yu-Shiang Hsiao](https://github.com/leonarwiz)
+- [Josiah Parkhill](https://github.com/parkhilljosiah)
 - [Sunetra Bhowmick](https://github.com/kaiser-sb)
 - [Hans Ibarra](https://github.com/Falaxsa13)
 - [Josue Belarmino](https://github.com/geminitwo)
