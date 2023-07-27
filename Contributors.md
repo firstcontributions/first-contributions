@@ -71,6 +71,7 @@
 - [Maciej Mackowiak](https://github.com/MaciejMathiasMackowiak)
 - [Junaid Ahmed](https://github.com/JunaidAhmedSoomro)
 - [Malik Faayez Muhammad](https://github.com/MFaayez)
+- [Okorie Chinwenma](https://github.com/Chinwenma)
 - [Muhammad Hayat](https://github.com/hayat10x)
 - [Faheem Khan](https://github.com/FaheemKhan0817)
 - [Mattia Metzler](https://github.com/MaGaMe19)
