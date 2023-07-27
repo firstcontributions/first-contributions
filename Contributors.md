@@ -4,7 +4,7 @@
 - [Drew Kemp](https://github.com/past-tense-of-draw)
 - [Michelle Rimpson](https://github.com/Msrimpson)
 - [JaeRyung Hong](https://github.com/Jar199)
-- [Merlin Daily] (https://github.com/MerlinDaily)
+- [Merlin Daily](https://github.com/MerlinDaily)
 - [Amitesh Veeragattam] (https://github.com/AmiteshDN)
 - [shlomo friedman](https://github.com/flipityflop)
 - [Akshat Sharma](https://github.com/akshatsharma1290)
