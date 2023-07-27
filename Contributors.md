@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+- [Michelle Rimpson](https://github.com/Msrimpson)
 - [JaeRyung Hong](https://github.com/Jar199)
 -   [shlomo friedman](https://github.com/flipityflop)
 - [Akshat Sharma](https://github.com/akshatsharma1290)
