@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start and welcome -->
+
 - [Drew Kemp](https://github.com/past-tense-of-draw)
 - [Michelle Rimpson](https://github.com/Msrimpson)
 - [JaeRyung Hong](https://github.com/Jar199)
@@ -83,6 +84,7 @@
 - [Muhammad Faizan](https://github.com/MFaizan11)
 - [Roy Ataya](https://github.com/RoyAtaya)
 - [Sarah Clark] (https://github.com/sarosy18)
+- [Rishabh Chauhan] (https://github.com/Rishabh1662)
 - [Oluwatobi Sofela](https://github.com/oluwatobiss)
 - [Lacatus Ciprian](https://github.com/ciprilacatus)
 - [Aman Kumar Nayak](https://github.com/amankumarnayak)
