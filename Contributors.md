@@ -779,6 +779,7 @@
 - [Igor Filgueira](https://github.com/igorfilgueira)
 - [Diogo Abreu](https://github.com/diogo-abreu123)
 - [Igniseri]()
+- [Sugam Sareen](https://github.com/ssugam10)
 - [hina javed](https://github.com/hinajaved123)
 - [Rima Nurkholifah](https://github.com/rimanurfah)
 - [Saksham Misra](https://github.com/vinfinity7)
