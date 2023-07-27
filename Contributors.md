@@ -29,6 +29,7 @@
 - [Piyush](https://github.com/PiyushBora0-0)
 - [Roy William](https://github.com/cptroykeith)
 - [Tanupreet](https://github.com/tanupreet121)
+- [Muniraj](https://github.com/Muniraj01)
 - [Ankit Dutta](https://github.com/AnkitDutta)
 - [Manuel Waltschek](https://github.com/manuelwaltschek)
 - [Himesh](https://github.com/Himesh9512)
