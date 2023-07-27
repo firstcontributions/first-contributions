@@ -4,7 +4,6 @@
 - [Drew Kemp](https://github.com/past-tense-of-draw)
 - [Michelle Rimpson](https://github.com/Msrimpson)
 - [JaeRyung Hong](https://github.com/Jar199)
-- [Merlin Daily](https://github.com/MerlinDaily)
 - [Amitesh Veeragattam] (https://github.com/AmiteshDN)
 - [shlomo friedman](https://github.com/flipityflop)
 - [Akshat Sharma](https://github.com/akshatsharma1290)
@@ -510,8 +509,13 @@
 - [Tuangpi](https://github.com/Tuangpi)
 - [Diego Guisande](https://github.com/GuisandeGolfer)
 - [Jack Gerry](https://github.com/JackGerry1)
+<<<<<<< HEAD
+- [✌Husseini Mudi Profsain](https://github.com/Profsain)
+- [MerlinDaily](https://github.com/MerlinDaily)
+=======
 - [Jack Galat](https://github.com/JMGalati8)
 - [笨粂 usseini Mudi Profsain](https://github.com/Profsain)
+>>>>>>> main
 - [Vansh Rai Saini](https://github.com/vanshraisaini)
 - [Sugam Goel](https://github.com/Sugamgoel28)
 - [Damoon Darvishi](https://github.com/DamoonDarvishi)
