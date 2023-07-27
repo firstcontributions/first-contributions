@@ -4,6 +4,7 @@
 
 - [Michelle Rimpson](https://github.com/Msrimpson)
 - [JaeRyung Hong](https://github.com/Jar199)
+- [Amitesh Veeragattam] (https://github.com/AmiteshDN)
 -   [shlomo friedman](https://github.com/flipityflop)
 - [Akshat Sharma](https://github.com/akshatsharma1290)
 - [SamTime101](https://github.com/samTime101)
