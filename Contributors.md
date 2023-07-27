@@ -4125,6 +4125,7 @@
 - [Levi Francis](https://github.com/leevigh)
 - [Eiyad Ziyadah](https://github.com/eziyadah)
 - [VaradC](https://github.com/cvarad96)
+- [Zyrus Lee Inso](https://github.com/zyrusinso)
 - [Collins Self](https://github.com/collins-self)
 - [veasnawt](https://github.com/veasnawt)
 - [Anthony Mwaura](https://github.com/Anthony11-hub)
