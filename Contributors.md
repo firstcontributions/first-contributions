@@ -177,6 +177,7 @@
 - [V205Arduino](https://github.com/V205Arduino)
 - [Andrei Nicola](https://github.com/Nico7777777)
 - [Eni Zeza](https://github.com/enizeza)
+- [Sean Cooper](https://github.com/scoops52)
 - [Sushovan_Paul](https://github.com/sushovanpaul07)
 - [Arsal Uddin](https://github.com/Arsaluddin)
 - [M4h4nk4l1](https://github.com/m4h4nk4l1)
