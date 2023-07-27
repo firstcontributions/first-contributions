@@ -8,6 +8,7 @@
 - [JaeRyung Hong](https://github.com/Jar199)
 - [Amitesh Veeragattam] (https://github.com/AmiteshDN)
 - [Ayush Dabas](https://github.com/Ayush-Dabas) 
+- [Nana](https://github.com/MerlinDaily)
 - [shlomo friedman](https://github.com/flipityflop)
 - [Akshat Sharma](https://github.com/akshatsharma1290)
 - [SamTime101](https://github.com/samTime101)
