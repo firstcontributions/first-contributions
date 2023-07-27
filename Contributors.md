@@ -5530,6 +5530,7 @@ Aadi Deshmukh
 - [Cheese QI](https://github.com/cheeseQI)
 - [Sagar Gupta](https://github.com/sagargupta16)
 - [Ayush Kishor](https://github.com/AyushKishor)
+- [Darknuno](https://github.com/Darknuno14)
 - [Anuj Pandey]
 - [Priyanshi Dixit]
 - [Oladipupo Ishola]
@@ -5649,3 +5650,4 @@ Aadi Deshmukh
 - [Tommy Tsui](https://github.com/tomitsui123)
 - [Enrica Melissa Panjaitan](https://github.com/marinebubble)
 - [Nachiketh s H](https://github.com/nachiketh25)
+
