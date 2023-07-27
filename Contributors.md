@@ -34,6 +34,7 @@
 - [d a n i e l](https://github.com/Real-Artisan)
 - [Jacob Matthew Ervin Ide](https://github.com/ihavemadefire)
 - [Josh Gumerove](https://github.com/joshgumerove)
+- [Aisha Idowu](https://github.com/AishaIdowu)
 - [Usman Qasim](https://github.com/UsmanQasim)
 - [Ali Ezzeddine](https://github.com/alkezz)
 - [Vaalarivan](https://github.com/Vaalarivan2002)
