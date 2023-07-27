@@ -19,6 +19,7 @@
 -   [Binaya Batas](https://github.com/binaya-batas)
 -   [Md Faizan Khan](https://github.com/thefznkhan)
 -   [Adarsh K](https://github.com/adrshk)
+-   [Amal pb](https://github.com/meamalpb)
 -   [kishan singh](https://github.com/KISHAsingh43)
 -   [Piyush](https://github.com/PiyushBora0-0)
 -   [Tanupreet](https://github.com/tanupreet121)
@@ -253,7 +254,7 @@
 -   [Divyansh Pratap Singh](https://github.com/divyansh2375)
 -   [Vicky Raghuwanshi](https://github.com/Vicky-Raghuwanshi)
 -   [Divyanshu Pabia](https://github.com/Rekklessss)
--   [Michael Breen-McKay](https://github.com/mikebreenmckay) 
+-   [Michael Breen-McKay](https://github.com/mikebreenmckay)
 -   [Ali Manzer](https://github.com/amanzer)
 -   [Li Xing Yin](https://github.com/lixingyin)
 -   [Fawaz khan](https://github.com/Fawaz-Khan-R)
@@ -5622,3 +5623,4 @@ Aadi Deshmukh
 - [Pawel Jarecki](https://github.com/Paveu99)
 - [Lynelle Herrera](https://github.com/lcamp118)
 - [Tommy Tsui](https://github.com/tomitsui123)
+
