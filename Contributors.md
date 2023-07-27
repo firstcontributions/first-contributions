@@ -5445,6 +5445,7 @@ Aadi Deshmukh
 -   [Georges Del Favero](https://github.com/gdelfavero)
 -   [Rikesh Chhetri](https://github.com/Nomercy-ops)
 -   [Gilr]
+-   [Leonardo Yuseff](https://github.com/paradox333)
 -   [Rajendra Aurelius Ritmanto](https://github.com/raoulius)
 -   [Hari Kiran](https://github.com/harikirank)
 -   [Bittu Benny](https://github.com/greyfox411)
