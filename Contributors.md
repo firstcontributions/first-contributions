@@ -41,6 +41,7 @@
 - [Usman Qasim](https://github.com/UsmanQasim)
 - [Ali Ezzeddine](https://github.com/alkezz)
 - [Vaalarivan](https://github.com/Vaalarivan2002)
+- [Ritvik Biswas] (https://github.com/ritvikbiswas)
 - [@mobeendev-WebDeveloper-PHP-Symfony-Laravel-APIs-Git](https://github.com/mobeendev)
 - [rahul-sharma-rahul.n.sharma511@gmail.com](https://github.com/rahulsharma511)
 - [Joseph Abuanor](https://github.com/JosephAbuanor)
