@@ -286,6 +286,7 @@
 -   [Kuldip Chaudhary](https://github.com/KMchaudhary)
 -   [Viraj Rai](https://github.com/viruop)
 -   [Hardik Balwani](https://github.com/Hardikbalwani)
+    [Emiliano Jimenez Guadarrama](https://github.com/Emiliano1919)
 -   [Cristian Embleton](https://github.com/C3viche)
 -   [Meghal Shah](https://github.com/Meghal2103)
 -   [Ibeh Mary-Anne](https://github.com/MARYANNE67)
