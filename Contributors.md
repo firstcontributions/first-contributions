@@ -6,6 +6,7 @@
 - [Jason Morofsky](https://github.com/jmorofsky)
 - [Ian Thomas](https://github.com/e-n-thomas)
 - [Michelle Rimpson](https://github.com/Msrimpson)
+- [Cisco Merchan](https://github.com/CiscoMerchan)
 - [JaeRyung Hong](https://github.com/Jar199)
 - [Amitesh Veeragattam] (https://github.com/AmiteshDN)
 - [Ayush Dabas](https://github.com/Ayush-Dabas)
