@@ -325,6 +325,7 @@
 - [Shreyash A. Kamble](https://github.com/mrkshreyash)
 - [robinofautumn](https://github.com/robinofautumn)
 - [Hodaya Rachel]()
+- [Elisha Daniels]()
 - [Ruchika Das](https://github.com/Ruchi016)
 - [Rushil Kumar](https://github.com/Rushilkr77)
 - [Nikita-Nick Funk](https://github.com/SapphireNick)
