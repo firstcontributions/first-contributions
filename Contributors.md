@@ -594,6 +594,7 @@
 - [Norvillie Villaruel](https://github.com/nozky)
 - [Prerna Singh](https://github.com/PrernaSingh01)
 - [Eti Gal-Or Mendelovich](https://github.com/etigame)
+- [Dimitris Zoumpakis](https://github.com/ZoumpakisDimitris)
 - [Tamanna Niger Tuly]()
 - [Séverine Dorimond Pereira](https://github.com/sdp971)
 - [Francesco S.](https://github.com/sapiaf)
