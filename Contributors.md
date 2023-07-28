@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start and welcome -->
 
 - [Christophe Debove](https://github.com/ChristopheDEBOVE)
+- [Nicholas Ang](https://github.com/angnicholas/)
 - [Drew Kemp](https://github.com/past-tense-of-draw)
 - [Walid Maouche] (https://github.com/walidmaouche)
 - [Jason Morofsky](https://github.com/jmorofsky)
