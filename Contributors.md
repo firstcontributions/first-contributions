@@ -97,6 +97,7 @@
 - [Faheem Khan](https://github.com/FaheemKhan0817)
 - [Mattia Metzler](https://github.com/MaGaMe19)
 - [Nguezet Kenfack Jordan Junior](https://github.com/wintercodeNKJJ)
+- [Lamak-Shahiwala](https://github.com/lamak-shahiwala)
 - [Shahriar Rahat](https://github.com/ShahriarRahat)
 - [Kevin Rifel Kaiser](https://github.com/kevinRifelKaiser)
 - [Austin Melancon](https://github.com/armelan1)
