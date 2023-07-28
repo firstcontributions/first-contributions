@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start and welcome -->
 
 - [Drew Kemp](https://github.com/past-tense-of-draw)
+- [Walid Maouche] (https://github.com/walidmaouche)
 - [Jason Morofsky](https://github.com/jmorofsky)
 - [Ian Thomas](https://github.com/e-n-thomas)
 - [Michelle Rimpson](https://github.com/Msrimpson)
