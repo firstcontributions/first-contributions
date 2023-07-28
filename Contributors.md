@@ -14,6 +14,7 @@
 - [Akshat Sharma](https://github.com/akshatsharma1290)
 - [SamTime101](https://github.com/samTime101)
 - [Mia](https://github.com/SerikiAyodele)
+- [Donovan Gibson](https://github.com/Dgibson89)
 - [Shadmehr](https://github.com/shadmehr-salehi)
 - [Sunshine Moua] (https://github.com/sunshinemoua)
 - [raazvardhan](https://github.com/raazvardhan)
