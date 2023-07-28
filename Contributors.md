@@ -2924,6 +2924,7 @@
 - [Aaron Trinh](https://github.com/AaronTrinh)
 - [Deepali Sayana](https://github.com/deepseas07)
 - [Sayan Bose](https://github.com/sayanbose1)
+- [Alex Levinson](https://github.com/alcl00)
 - [Andr ﾃｩ Carvalhal](https://github.com/ANDREC1986)
 - [Cody LeRoy]()
 - [Taylor Spencer](https://github.com/tspencer0917)
