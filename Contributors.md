@@ -5663,9 +5663,11 @@ Aadi Deshmukh
 - [Robbyn Tongue](https://github.com/RTongue)
 - [Enrica Melissa Panjaitan](https://github.com/marinebubble)
 - [Nachiketh s H](https://github.com/nachiketh25)
+- [**Paras Aggarwal**](https://github.com/Paraass)
 - [sk](https://github.com/kolachinas)
 - [John Feng](https://github.com/johnnykfeng)
 - [Ze Jin](https://github.com/paradoxtown)
 - [Emmanuel Mora](https://github.com/emmamm05)
 -[Elyas Shamal](https://github.com/ElyasShamal)
 - [Deepanshu](https://github.com/deepanshu0304)
+
