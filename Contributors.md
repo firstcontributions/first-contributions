@@ -64,6 +64,7 @@
 - [Maciej Buračok](https://github.com/maciejburacok)
 - [Alex Rezkalla](https://github.com/DevAlex89)
 - [Rita Nkem Daniel](https://github.com/RitaDee)
+- [Kurisu015](https://github.com/km-kurisu)
 - [Meghna Kyatham](https://github.com/meghnakyatham/first-contributions.git)
 - [RKup](https://github.com/ralfkuepper)
 - [Alejandra Reyes](https://github.com/alereyes18)
