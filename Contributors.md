@@ -129,6 +129,7 @@
 - [Musa-Sina-Ertugrul](https://github.com/Musa-Sina-Ertugrul)
 - [Mehul Dalal](https://github.com/MehulD96)
 - [Thor L](https://github.com/thormander)
+- [Abdallah Amir Monir](https://github.com/Zerobrofan)
 - [Youngsoo Kim](https://github.com/youngsoo-math)
 - [Yavuz Yildiz](https://github.com/YVZYLDZ11)
 - [Wilyendri Duran](https://github.com/wilyendri)
