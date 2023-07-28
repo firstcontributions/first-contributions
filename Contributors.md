@@ -4,6 +4,7 @@
 
 - [Christophe Debove](https://github.com/ChristopheDEBOVE)
 - [Nicholas Ang](https://github.com/angnicholas/)
+- [Casey Kawamura](https://github.com/SOMUCHDOG)
 - [Drew Kemp](https://github.com/past-tense-of-draw)
 - [Walid Maouche] (https://github.com/walidmaouche)
 - [Jason Morofsky](https://github.com/jmorofsky)
