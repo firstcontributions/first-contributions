@@ -3571,6 +3571,7 @@
 - [Aayushmaan Mishra](https://github.com/AayushmaanMishra)
 - [Devashish Chakraborty](https://github.com/devashishchakraborty)
 - [Brian Bossy](https://github.com/Brian123-del)
+- [JA](https://github.com/Jauble)
 - [Zach Grant](https://github.com/BlindJuly)
 - [Piyush Kukade](https://github.com/piyushk1)
 - [Mike Thompson](https://github.com/lastchance1228)
