@@ -16,6 +16,7 @@
 - [Ayush Dabas](https://github.com/Ayush-Dabas)
 - [Nana](https://github.com/MerlinDaily)
 - [Chirag](https://github.com/ChiragJain15)
+- [Sean Hogarty] (https://github.com/shogarty)
 - [shlomo friedman](https://github.com/flipityflop)
 -  [Mayna S](https://github.com/mayanashit)
 [Akshat Sharma](https://github.com/akshatsharma1290)
