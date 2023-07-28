@@ -5652,6 +5652,7 @@ Aadi Deshmukh
 - [Gökhan Alkacir](https://github.com/Sacquer)
 - [Souleymane Bah](https://github.com/KET752SBAH/f)
 - [Goh Ivan](https://github.com/gysiang)
+- [FrancXPT](https://github.com/FrancXPT)
 - [Fitrah Munir](https://github.com/fitrahfm)
 - [Solomon A](https://github.com/cruiz007)
 - [Durmus Demirtas](https://github.com/demirtasdurmus)
