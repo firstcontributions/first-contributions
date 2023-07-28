@@ -103,6 +103,7 @@
 - [SirPlutypas](https://github.com/SirPlutypas)
 - [Syed Mudassir Ali](https://github.com/Mudassir10X)
 - [Gaurav Dhiman](https://github.com/gauravdhiman217)
+- [Bastian Springmann](https://github.com/bspringm)
 - [Hannes Albert](https://github.com/w8ste)
 - [Luqman Salad](https://github.com/luqman-salad)
 - [Muhammad Faizan](https://github.com/MFaizan11)
