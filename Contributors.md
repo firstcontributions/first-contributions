@@ -178,7 +178,6 @@
 - [Sharvil Potdar@Devsoc PI](https://github.com/SMP111)
 - [Faisal Saifi](https://github.com/faisalsaifii)
 - Leon
-- [Cody Johnson] (https://github.com/codyjohnsontx)
 - [Sarthak Jain@DevsocPI] (https://github.com/GurglingHammer)
 - [Vishal Kanwar](https://github.com/Kanvi1)
 - Aniket Sonawane @Devsoc
@@ -663,6 +662,7 @@
 - [Tanish Jadhav](https://github.com/tanish20j)
 - [Rishabh Gist](https://github.com/rishabhgist)
 - [Satyasuranjeet](https://github.com/Satyasuranjeet)
+- [Cody Johnson] (https://github.com/codyjohnsontx)
 - [Ritwika Das](www.linkedin.com/in/ritwika-das-1510a4207)
 - [Matt King](https://github.com/imattking)
 - [Anya McDonald](https://github.com/anyahush)
