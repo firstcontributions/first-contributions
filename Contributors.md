@@ -8,6 +8,7 @@
 - [Drew Kemp](https://github.com/past-tense-of-draw)
 - [Walid Maouche] (https://github.com/walidmaouche)
 - [Jason Morofsky](https://github.com/jmorofsky)
+- [Bruno Gianini](https://github.com/skaail)
 - [Ian Thomas](https://github.com/e-n-thomas)
 - [Monique Parnis](https://github.com/MoniPar)
 - [Michelle Rimpson](https://github.com/Msrimpson)
