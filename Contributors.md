@@ -228,6 +228,7 @@
 - [Bhaskar Sahu](https://github.com/Bhaskarsahu23)
 - [Harsh](https://github.com/harshvsri)
 - [Hailey Sellars](https://github.com/hlysllrs)
+- [Yuzana Win](https://github.com/Cherry-theCSStudent)
 - [Shreyas](https://github.com/Shreyas4256)
 - [Andrew Adams](https://github.com/andrewalufkin)
 - [Eduardo Montano](https://github.com/edulol-1)
