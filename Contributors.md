@@ -1,4 +1,4 @@
-  # Contributors
+G  # Contributors
 <!-- prettier-ignore-start -->
 - [miguel-sr] (https://github.com/miguel-sr)
 - [rutubha](https://github.com/rutubha)
@@ -3217,3 +3217,4 @@ Ayan Das
 - [Kyosuke](https://github.com/Kyosuke-Kaneko)
 - [prashantj](https://github.com/prashantnot75)
 - [Arijit De](https://github.com/arijitde92)
+- [Arkadiusz Drężek] (https://github.com/ArkadiuszDrezek)
