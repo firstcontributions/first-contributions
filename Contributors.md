@@ -417,6 +417,7 @@
 - [Raymond Mason](https://github.com/pepsibluefan2)
 - [Mansvi Kamble](https://github.com/22MansviK)
 - [feelthatvib3](https://github.com/feelthatvib3)
+- [Noah Bird](https://github.com/nbird33)
 - [Nathanaël V](https://github.com/nathanael-v)
 - [Sandry](https://github.com/sandry24)
 - [muntazirgo](https://github.com/muntazirgo)
