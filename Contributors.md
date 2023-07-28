@@ -8,6 +8,7 @@
 - [Walid Maouche] (https://github.com/walidmaouche)
 - [Jason Morofsky](https://github.com/jmorofsky)
 - [Ian Thomas](https://github.com/e-n-thomas)
+- [Monique Parnis](https://github.com/MoniPar)
 - [Michelle Rimpson](https://github.com/Msrimpson)
 - [Cisco Merchan](https://github.com/CiscoMerchan)
 - [JaeRyung Hong](https://github.com/Jar199)
