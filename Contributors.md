@@ -5421,6 +5421,7 @@ Aadi Deshmukh
 - [justforfun](https://github.com/justforfun0906)
 - [prolenodev](https://github.com/prolenodev)
 - [Wazaxib](https://github.com/Wazaxib)
+- [Df0a](https://github.com/df0a)
 - <!-- prettier-ignore-end -->
 - [Naveen Avula](https://github.com/Avula-Naveen)
 - [Sameer Kumar singh](https://github.com/xvisierra)
