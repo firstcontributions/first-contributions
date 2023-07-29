@@ -14,6 +14,7 @@
 - [Hiramatsu Yuusuke](https://github.com/hiramatsuyuusuke)
 - [Michelle Rimpson](https://github.com/Msrimpson)
 - [Cisco Merchan](https://github.com/CiscoMerchan)
+- [Deola Richard](https://github.com/DeolaRichard)
 - [JaeRyung Hong](https://github.com/Jar199)
 - [Amitesh Veeragattam] (https://github.com/AmiteshDN)
 - [Ayush Dabas](https://github.com/Ayush-Dabas)
