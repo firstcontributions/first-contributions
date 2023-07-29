@@ -4949,6 +4949,7 @@ Aadi Deshmukh
 - [Arthur Gartner](https://github.com/ArthurGartner)
 - [Ye Pyae Aung](github.com/YePyaeAung)
 - [Omar Hosam](https://github.com/OmarHosam)
+- [firefiber](https://github.com/firefiber)
 - [Inf1ntius_1309](github.com/inf1nitius1309)
 - [Soyas Limbu](https://github.com/soyas07)
 - [Akshat Sharma](github.com/akshatcoder-hash)
