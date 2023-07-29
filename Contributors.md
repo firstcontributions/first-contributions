@@ -81,6 +81,7 @@
 - [Brendon Crave](https://github.com/bcrave)
 - [Sravanthi Sunkaraneni](https://github.com/SrvS26)
 - [Wanderson Aldo](https://github.com/wanderson77)
+- [Colin Machajewski](https://github.com/colinwebdev)
 - [Yan](https://github.com/yantong1775)
 - [Tom Walter](https://github.com/tom-walter)
 - [Salma Abdallah](https://github.com/safacade009)
