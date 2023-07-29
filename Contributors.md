@@ -153,6 +153,7 @@
 - [Jing Cao](https://github.com/peoplemakeculture)
 - [Maria Clara Rocha](https://github.com/mariaclararcs)
 - [Produnya(PD)] (https://github.com/PDgaming)
+- [Narendra Maurya] (https://github.com/Narennnnn)
 - [Aman Sayyad](https://github.com/amansayyad2003)
 - [Monyuy Divine](https://github.com/divinebootable)
 - [Ketan Sahu](https://github.com/ketansahugit)
