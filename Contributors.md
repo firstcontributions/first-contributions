@@ -11,6 +11,7 @@
 - [Bruno Gianini](https://github.com/skaail)
 - [Ian Thomas](https://github.com/e-n-thomas)
 - [Monique Parnis](https://github.com/MoniPar)
+- [Hiramatsu Yuusuke](https://github.com/hiramatsuyuusuke)
 - [Michelle Rimpson](https://github.com/Msrimpson)
 - [Cisco Merchan](https://github.com/CiscoMerchan)
 - [JaeRyung Hong](https://github.com/Jar199)
