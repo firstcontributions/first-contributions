@@ -3066,6 +3066,7 @@
 - [Martin Chachev](https://github.com/martytyty2098)
 - [shaileshb](https://github.com/shaileshhb)
 - [clarai1](https://github.com/clarai1)
+- [Milena Thibault](https://github.com/Milena-elise)
 - [Kirill Panferov](https://github.com/Llirik93)
 - [Angie Bowen](https://github.com/AngelaBowen)
 - [Subrata Mondal](https://github.com/subratamondal1)
