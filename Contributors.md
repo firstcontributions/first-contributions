@@ -395,7 +395,7 @@
 - [Kondapalli Koyal](https://github.com/kondapalli19)
 - [Luke Birkett](https://github.com/LukeBirkett)
 - [Darshan A V]()
-- [Rishabh Singh Bish](https://github.com/CurlyRishabh)
+- [Rishabh Singh Bisht](https://github.com/CurlyRishabh)
 - [Noora Nasrin VC](https://github.com/nooranasrin)
 - [Miguel Jones](https://github.com/dice43)
 - [Alfredo Carrion](https://github.com/carrionalfredo)
