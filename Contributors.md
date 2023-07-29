@@ -3131,6 +3131,7 @@
 - [Avaray](http://github.com/Avaray)
 - [Utsav Akash Naskar](https://github.com/Utsav1999)
 - [Anish Doshi](https://github.com/doshianish8)
+- [Saurabh Singh](https://github.com/Saurabh8527)
 - [Saurabh Sinha](https://github.com/sinhasaurabh3104)
 - [Nisha Shastry](https://github.com/nishashastry)
 - [Girish Nair](https://github.com/javagirish)
