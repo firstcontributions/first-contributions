@@ -402,6 +402,7 @@
 - [Chaitanya Galla](https://github.com/gallachaitanya)
 - [Samuel Cameron](https://github.com/samca2)
 - [Hari Prasad](https://github.com/itcodehery)
+- [Lalit Kumar Verma](https://github.com/lalit2506verma)
 - [Khushi](https://github.com/KhushiP098)
 - [Ambroise Ngayinoko](https://github.com/Ambro19)
 - [Sahil Ohe](https://github.com/sahilohe)
