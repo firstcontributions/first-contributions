@@ -589,6 +589,7 @@
 - [Devop Parker](https://github.com/DevopParker)
 - [Michal Varga](https://github.com/michalvargaa)
 - [Nwankwo Ebube](https://github.com/EbubeDev)
+- [Chukwuani Stephen](https://github.com/chukwuani)
 - [Isaac Achenbach](https://github.com/isaacach)
 - [Miguel Angel](https://github.com/mafdezmoreno)
 - [Kiran Sadaye](https://github.com/kiran215)
