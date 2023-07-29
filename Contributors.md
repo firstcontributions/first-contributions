@@ -420,7 +420,7 @@ Ti Kyi Khant
 - [Subhajit Mahata](https://github.com/subhajitkp007)
 - [Yashvardhan Agnihotri](https://github.com/25011908vardhan)
 - [Priyadarshini Sharma](https://github.com/PriyadarshiniSharma)
-- [Melvin Welton] https://github.com/melwel74
+- [Melvin Welton](https://github.com/melwel74)
 - [luv sharma](https://github.com/luvsharmag)
 - [Kamal raj](https://github.com/Kamalraj5544)
 - [Raj Patra](https://github.com/raj-patra)
