@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start and welcome Priyanshu Maurya  Priyanshu Maurya-->
-
+- [Steve Fernandez](https:github.com/fossbin)
 - [Christophe Debove](https://github.com/ChristopheDEBOVE)
 - [Nicholas Ang](https://github.com/angnicholas/)
 - [Casey Kawamura](https://github.com/SOMUCHDOG)
@@ -3447,7 +3447,6 @@
 - [Gerardo Barcenas](https://github.com/gbarcenasjr)
 - [Shaik Abdul Wahid](https://github.com/Abdulwahid7027)
 - [Abhishek Singh](https://github.com/Abhisheksingh734)
-- [Sayani Sen] (https://github.com/SayaniSen2022)
 - [malleboina paramesh](https://github.com/MalleboinaParmesh/)
 - [Michal Lata](https://github.com/lata-michal)
 - [Ravi yadav](https://github.com/strange605)
