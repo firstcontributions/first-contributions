@@ -687,6 +687,7 @@
 - [Saifullah Khan](https://github.com/unverifiedchaos5017)
 - [Chloe Gavrilovic](https://github.com/cmgvc)
 - [Arslan Asghar](https://github.com/al-arslan)
+- [Tanmay Darekar](https://github.com/Tanmay7586)
 - [Ali Ayed](https://github.com/iTzVoko)
 - [Ernest Mucheru](https://github.com/ernestmucheru)
 - [rjk]()
