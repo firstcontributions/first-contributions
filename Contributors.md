@@ -58,6 +58,7 @@
 - [Himesh](https://github.com/Himesh9512)
 - [Noah Fasser](https://github.com/D3rZ3ug3)
 - [Param Thakkar](https://github.com/ParamThakkar123)
+- [Alex van den Berg](https://github.com/Ap3xY)
 - [Dilanya](https://github.com/Dilanya)
 - [d a n i e l](https://github.com/Real-Artisan)
 - [Jacob Matthew Ervin Ide](https://github.com/ihavemadefire)
