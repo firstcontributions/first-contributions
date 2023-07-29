@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start and welcome Priyanshu Maurya  Priyanshu Maurya-->
 - [Steve Fernandez](https:github.com/fossbin)
+- [Oscar Gongora](https://github.com/oscargongora)
 - [Christophe Debove](https://github.com/ChristopheDEBOVE)
 - [Nicholas Ang](https://github.com/angnicholas/)
 - [Casey Kawamura](https://github.com/SOMUCHDOG)
