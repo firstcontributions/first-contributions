@@ -19,6 +19,7 @@
 - [Amitesh Veeragattam] (https://github.com/AmiteshDN)
 - [Ayush Dabas](https://github.com/Ayush-Dabas)
 - [Nana](https://github.com/MerlinDaily)
+- [Nitish sharma](https://github.com/Nitz2611)
 - [Chirag](https://github.com/ChiragJain15)
 - [Sean Hogarty] (https://github.com/shogarty)
 - [shlomo friedman](https://github.com/flipityflop)
