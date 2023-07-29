@@ -5377,6 +5377,7 @@ Aadi Deshmukh
 - [Cossette Alexis Gabuya](https://github.com/cossettealexis)
 - [karlmitterhauser](https://github.com/karlmitterhauser)
 - [RajrishiMitra](https://github.com/RajrishiMitra)
+- [Xavier DeVore](https://github.com/xdevore)
 - [Ravindu Hasantha](https://github.com/ravinduh)
 - [Aryashsaxena](https://github.com/aryashsaxena)
 - [Vidhan Tamhankar](https://github.com/vidhan843426)
