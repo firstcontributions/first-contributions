@@ -637,6 +637,7 @@
 - [Adarsh Yadav](https://github.com/codebreaker0001)
 - [Khushi Sharma](https://github.com/Khushisharma23)
 - [Jermy Deer](https://github.com/JermyDeer)
+- [Israr Ahmed](https://github.com/Israr-11) 
 - [Ankit Somani](https://github.com/Ankit-Somani)
 - [Artem Yershov](https://github.com/YershovArt)
 - [Alen Chen](https://github.com/ChenYunyue)
