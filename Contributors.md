@@ -1,6 +1,6 @@
 # Contributors
 
-<!-- prettier-ignore-start and welcome Priyanshu Maurya  -->
+<!-- prettier-ignore-start and welcome Priyanshu Maurya  Priyanshu Maurya-->
 
 - [Christophe Debove](https://github.com/ChristopheDEBOVE)
 - [Nicholas Ang](https://github.com/angnicholas/)
