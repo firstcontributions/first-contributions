@@ -28,6 +28,7 @@
 - [Akshat Sharma](https://github.com/akshatsharma1290)
 - [SamTime101](https://github.com/samTime101)
 - [Muskan Sah](https://github.com/Lily3-2)
+- [Varsh](https://github.com/Varshaav16)
 - [Mia](https://github.com/SerikiAyodele)
 - [Tymon Sobiech](https://github.com/4Tek4)
 - [Donovan Gibson](https://github.com/Dgibson89)
