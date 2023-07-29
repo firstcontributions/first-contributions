@@ -5705,3 +5705,4 @@ Aadi Deshmukh
 -[Penghang Yu](https://github.com/demonph10)
 - [Chris Dowd](https://github.com/ChrisDowdDeveloper)
 - [Leo Rodriguez](https://github.com/leorod90)
+- [Afuza Pratama](https://github.com/afuzapratama)
