@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start and welcome Priyanshu Maurya  Priyanshu Maurya-->
 - [Steve Fernandez](https:github.com/fossbin)
 - [Oscar Gongora](https://github.com/oscargongora)
+- [tryptophan36] (https://github.com/tryptophan36)
 - [Christophe Debove](https://github.com/ChristopheDEBOVE)
 - [Nicholas Ang](https://github.com/angnicholas/)
 - [Casey Kawamura](https://github.com/SOMUCHDOG)
@@ -394,6 +395,7 @@
 - [Kondapalli Koyal](https://github.com/kondapalli19)
 - [Luke Birkett](https://github.com/LukeBirkett)
 - [Darshan A V]()
+- [Rishabh Singh Bisht](https://github.com/CurlyRishabh)
 - [Noora Nasrin VC](https://github.com/nooranasrin)
 - [Miguel Jones](https://github.com/dice43)
 - [Alfredo Carrion](https://github.com/carrionalfredo)
@@ -401,6 +403,7 @@
 - [Chaitanya Galla](https://github.com/gallachaitanya)
 - [Samuel Cameron](https://github.com/samca2)
 - [Hari Prasad](https://github.com/itcodehery)
+- [Lalit Kumar Verma](https://github.com/lalit2506verma)
 - [Khushi](https://github.com/KhushiP098)
 - [Ambroise Ngayinoko](https://github.com/Ambro19)
 - [Sahil Ohe](https://github.com/sahilohe)
