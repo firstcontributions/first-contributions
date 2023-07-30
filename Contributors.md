@@ -707,6 +707,7 @@
 - [rjk]()
 - [Daniela Basurto](https://github.com/daniela-basurto)
 - [Raju Bepary](https://github.com/rajubeparybd)
+- [Shaktishankar Acharya](https://github.com/ssacharya2002)
 - [Kanak Shakya](https://github.com/Kanak1125)
 - [Ricky Rick](https://github.com/ravirik)
 - [Ali Aizn](https://github.com/aliaizn)
