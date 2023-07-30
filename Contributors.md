@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start and welcome Priyanshu Maurya  Priyanshu Maurya-->
+- [Hao Xu](https://github.com/haohxu/)
 - [Steve Fernandez](https:github.com/fossbin)
 - [wLUOw](https://github.com/wLUOw)
 - [Oscar Gongora](https://github.com/oscargongora)
