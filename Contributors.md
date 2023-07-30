@@ -6,6 +6,7 @@ x# Contributors
 - [Albin N J](https://github.com/AlbinN-J)
 - [kyrill belomenov](https://github.com/kybe236)
 - [craigardy]
+- [Dinesh Tyagi](https://github.com/Dinesht04)
 - [Meraduro](https://github.com/Meraduro)
 - [erdemy885](https://github.com/erdemy885)
 - [AayushPaigwar](https://github.com/AayushPaigwar)
