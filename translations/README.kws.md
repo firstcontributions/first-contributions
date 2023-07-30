@@ -119,11 +119,11 @@ Hivi karibuni nitakuwa kuunganisha mabadiliko yako yote kwenye tawi la mradi huu
 
 Hongera! Wewe umekamilisha fomu ya kawaida *fork -> clone -> hariri -> pull request* ambayo unakutana mara nyingi kama mchangiaji!
 
-Sherehe mchango wako na uwashiriki na marafiki zako na wafuasi kwa kwenda kwenye [programu ya wavuti](https://roshanjossey.github.io/first-contributions/#social-share).
+Sherehe mchango wako na uwashiriki na marafiki zako na wafuasi kwa kwenda kwenye [programu ya wavuti](https://firstcontributions.github.io/#social-share).
 
 Unaweza kujiunga na timu yetu ya slack ikiwa unahitaji msaada wowote au una maswali yoyote. [Jiunge na timu ya slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-Sasa hebu tuanze uanze na kuchangia kwenye miradi mingine. Tumeandika orodha ya miradi na masuala rahisi unaweza kuanza. Angalia [orodha ya miradi katika programu ya wavuti](https://roshanjossey.github.io/first-contributions/#project-list).
+Sasa hebu tuanze uanze na kuchangia kwenye miradi mingine. Tumeandika orodha ya miradi na masuala rahisi unaweza kuanza. Angalia [orodha ya miradi katika programu ya wavuti](https://firstcontributions.github.io/#project-list).
 
 ### [Nyenzo za ziada](../additional-material/git_workflow_scenarios/additional-material.md)
 

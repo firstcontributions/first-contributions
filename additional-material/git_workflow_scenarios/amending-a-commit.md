@@ -46,3 +46,20 @@ But since what we want to achieve here is to amend the previous commit, we would
 * Push your changes with ```git push origin <branch-name>```
 
 That way, both changes would be in one single commit.
+
+## Modifying commits on remote
+
+If the commit that you like to amend has been already pushed to the remote, amending this commit will lead to your local history being diverged from the remote (since you basically create a new commit and replace the amended one). Since you want to change the commit on the remote, you need to overwrite the remotes history on your branch. To achieve that, follow the same procedure as described above, but use force push when pushing your commit to the remote.
+
+> **Warning**  
+> Force pushing to the remote will overwrite (and discard) changes on the remote and only keep your pushed commits. Changes on the remote, that other team members did in the meantime, will be overwritten as well.
+
+This is how you modify the last recent commit on the remote:
+
+```bash
+git add <your changed files>
+git commit --amend -m "followed by your new commit message"
+git push --force
+```
+
+> Using `--force-with-lease` is a safer option instead of `--force` which avoids overwriting other people's changes on the remote branch (if you do not intend to do so).
