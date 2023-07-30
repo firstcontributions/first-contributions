@@ -218,6 +218,7 @@ Adwai
 - [Rusiru Anupama](https://github.com/rus1ru)
 - [Vong Visalsambath](https://github.com/vongvisalsambath)
 - [Kumar Raj Gupta]
+- [amin hassan](https://github.com/killshot2000)
 - [liang qiao](https://github.com/qiaolian9)
 - [Ayush Sharma](https://github.com/ayushsharma08)
 - [Sarthak Dobriyal](https://github.com/high-prog)
