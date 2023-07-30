@@ -2784,6 +2784,7 @@ Subhajit Bera
 - [colonia_duck](https://github.com/colonia-duck)
 - [Kilo-zolo](https://github.com/Kilo-zolo)
 - [birendra07](https://github.com/birendra07)
+- [Sanchi Singh](https://github.com/sanchisingh01)
 - [Dhruv T]()
 - [Thamer](https://github.com/ThamerMalki)
 - [Lyubomir](https://github.com/LyubomirD)
