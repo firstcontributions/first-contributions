@@ -7,6 +7,7 @@ x# Contributors
 - [Albin N J](https://github.com/AlbinN-J)
 - [kyrill belomenov](https://github.com/kybe236)
 - [craigardy]
+- [Shivadharshan Lingeswaran] (https://github.com/XoxRumbleLorexoX)
 - [Bipul Lamsal](https://github.com/BipulLamsal)
 - [Dinesh Tyagi](https://github.com/Dinesht04)
 - [Meraduro](https://github.com/Meraduro)
