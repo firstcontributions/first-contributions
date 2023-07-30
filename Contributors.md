@@ -6650,3 +6650,4 @@ Aadi Deshmukh
 - [CodeBears](<https://github.com/CodeBears>)
 - [Tienux] (https://github.com/Tienux)
 - [Sree Pavan] (https://github.com/Sree-Pavan)
+- [Dorian Chenard] (https://github.com/dorianche)
