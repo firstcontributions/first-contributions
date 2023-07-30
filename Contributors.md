@@ -4859,5 +4859,5 @@ Eln Far
 - [Sivanandan A C](https://github.com/siva4it)
 - [Manfred Rosenboom] (https://github.com/maroph)
 - [Anubhav](https://github.com/RajAnubhav)
--[Joseph Rana](https://github.com/josephrana11)
+-[Joseph Rana Magar](https://github.com/josephrana11)
 <!-- prettier-ignore-end -->
