@@ -243,7 +243,7 @@ Adwai
 - [Xanthium]
 - [Urvi]
 - [Dhemeira](https://github.com/dhemeira)
-- [Anindo Sarker](https://github.com/anindosarker/)
+f- [Anindo Sarker](https://github.com/anindosarker/)
 - [Codey Gallup](https://github.com/Codeyg12)
 - [Charles Showalter](https://github.com/WorldDrknss)
 - [Kamal Bisht](https://github.com/bisht-xp)
