@@ -276,6 +276,7 @@ JUnaid jamshed from nellikkuth
 - [ClameSys](https://github.com/clamesys)
 - [Ahmed Mohamed](https://github.com/bego00)
 - Amro Rehawi
+- [Brian Morse](https://github.com/BrianMorse1/)
 - [Nikhil Chauhan](https://github.com/Nikhilchauhan3011)
 - [Siddharth Mishra](https://github.com/sid760)
 - [Jayavardhan, Pathella](https://github.com/Jayavardhan108)
