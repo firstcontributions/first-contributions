@@ -5224,6 +5224,7 @@ Subhajit Bera
 - [Devin Moreland](https://github.com/devinmoreland20)
 - [dasl3on](https://github.com/dasl3on)
 - [E Rod](https://github.com/Proximacentauri-b)
+- [Sugary Candybar](https://github.com/sugarycandybar)
 - [Ahmed Nasr](https://github.com/NotAhmedNasr)
 - [Sourabh Patel](https://github.com/getmeapencil)
 - [Ajala Marvellous](https://github.com/ajalamarvellous)
