@@ -1225,6 +1225,7 @@ Subhajit Bera
 - [Priyanshu Kumar Sinha](https://github.com/priyanshu9899)
 - [Anthony Chang](https://github.com/sprezzarete)
 - [Vivek Kumar Shrivastav](https://github.com/Vivek-Kumar-Shrivastav)
+- [Nimrod Daniel Maayan](https://github.com/nimroddanielmaayan)
 - [WinnerJack](https://github.com/winnerjack)
 - [Aaryan](https://github.com/Aaryan0484)
 - [Abhijeet Yadav](https://github.com/thecodeblood)
