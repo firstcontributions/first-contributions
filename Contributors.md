@@ -6,6 +6,7 @@ x# Contributors
 - [Albin N J](https://github.com/AlbinN-J)
 - [kyrill belomenov](https://github.com/kybe236)
 - [craigardy]
+- [Bipul Lamsal](https://github.com/BipulLamsal)
 - [Dinesh Tyagi](https://github.com/Dinesht04)
 - [Meraduro](https://github.com/Meraduro)
 - [erdemy885](https://github.com/erdemy885)
@@ -67,11 +68,11 @@ x# Contributors
 - [Sandeep Gorule] (https://github.com/sandeepgorule)
 - [Jintao Forone] (https://github.com/jintaoforone)
 - [Katherine Robles] (https://github.com/KMR1221)
-  [Ayo Michaels] (https://github.com/ayomichaels)
-  [Zane]
-  [Deepika Indran](https://github.com/deepiikaa24)
+- [Ayo Michaels] (https://github.com/ayomichaels)
+- [Zane]
+- [Deepika Indran](https://github.com/deepiikaa24)
 - [Brijesh Yadav] (https://github.com/ibrijesh)
-  [Oscar Juarez] (https://github.com/OscarJO20)
+- [Oscar Juarez] (https://github.com/OscarJO20)
 - [Nikita] (https://github.com/humanbelnik)
 - [Vilas] (https://github.com/villAsh)
 - [Anand] (https://github.com/AK4266)
@@ -82,12 +83,12 @@ x# Contributors
 - [Raihan Shezan] (https://github.com/RaihanShezan)
 - [Arshad Sheik]
 - [PRINCE DOSHI]
--[Mohamed Heggi](https://github.com/mtheggi)
+- [Mohamed Heggi](https://github.com/mtheggi)
 - [Nicholas Hwang]
 - [Aaqib Javaid] (https://github.com/aaqib605)
 - [Thea SF] (https://github.com/thea-sf)
 - [Leon Albert] (https://github.com/leonn00albert)
-[HMT] (https://github.com/HtetAungThan)
+- [HMT] (https://github.com/HtetAungThan)
 - [Farooq Javed] (https://github.com/farooqjaved)
 - [f4rukyldrm](https://github.com/f4rukyldrm)
 - [Siddhant Patil] (https://github.com/Sid-Pat)
@@ -238,7 +239,7 @@ Adwai
 - [kodingkin]
 - [akele-guzay]
 - [Xanthium]
--[Urvi]
+- [Urvi]
 - [Dhemeira](https://github.com/dhemeira)
 - [Anindo Sarker](https://github.com/anindosarker/)
 - [Codey Gallup](https://github.com/Codeyg12)
@@ -728,7 +729,7 @@ Subhajit Bera
 - [Srini] (https://github.com/ssiripuram)
 - [Satya Barghav](https://github.com/satyabarghav)
 - [Ralph Virtucio](https://github.com/ralphvirtucio)
-  [Yashkumar Nemane](https://github.com/yashnemane)
+- [Yashkumar Nemane](https://github.com/yashnemane)
 - [Manoj Maurya](https://github.com/manojmaurya17)
 - [Tristan Norman](https://github.com/TristarCA)
 - [Priyanka Mary Christine](https://github.com/marycpriyanka)
