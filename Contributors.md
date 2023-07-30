@@ -3492,7 +3492,8 @@ Subhajit Bera
 - [Mwizu](https://github.com/Mwizu)
 - [GivingMyBest](https://github.com/GivingMyBest)
 - [Rinshadcp](https://github.com/rinshadcp)
-- [Nishchal singh]()
+- [Mihye Bang](https://github.com/mihye-bang)  
+- Nishchal singh
 - [zoey-yjj](https://github.com/zoey-yjj)
 - [Jetro Tubia](https://github.com/jetro-tubia)
 - [Abdul Hasib](https://github.com/abdulhasibn)
