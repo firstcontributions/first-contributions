@@ -6638,4 +6638,5 @@ Aadi Deshmukh
 - [Karl Santos] (https://github.com/santoskarl19)
 - [rajat] (https://github.com/gapirajat)
 - [Zixiang Wei] (<https://github.com/Karenina-na>)
+- [CodeBears](<https://github.com/CodeBears>)
 - [Tienux] (https://github.com/Tienux)
