@@ -1000,6 +1000,7 @@ Subhajit Bera
 - [Otso Veisterä](https://github.com/OtsoBear)
 - [A. Park](https://github.com/parkshub)
 - [James Bradley](https://github.com/sovarezza)
+- [Katharina Ni](https://github.com/k4th4)
 - [Ishana Shinde](https://github.com/ishana7)
 - [Kevin Paul](https://github.com/kevinpaul468)
 - [Krishnal Baarochiya](https://github.com/killshotroxs)
