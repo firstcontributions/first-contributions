@@ -6094,6 +6094,7 @@ Aadi Deshmukh
 - [Sivanandan A C](https://github.com/siva4it)
 - [Manfred Rosenboom](https://github.com/maroph)
 - [Anubhav](https://github.com/RajAnubhav)
+- [Joseph Rana Magar](https://github.com/josephrana11)
 - [Rakshit](https://github.com/rakshit068)
 - [Crystal Martel](https://github.com/martelc)
 
