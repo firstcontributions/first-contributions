@@ -4130,6 +4130,7 @@ Subhajit Bera
 - [Md Shamrat Hossain](https://github.com/shamratPG)
 - [Aviraj Saxena](https://github.com/theavirajsaxena)
 - [Tim Raphael](https://github.com/Tim-Raphael)
+- [Siddharth Nair](https://github.com/siddharth-nair-2)
 - [Adugna Tadesse](https://github.com/Adugnatad)
 - [Allesandria Bugatti](https://github.com/Abargallo19)
 - [shrthk-7](https://github.com/shrthk-7)
