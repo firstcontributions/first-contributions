@@ -1,5 +1,5 @@
 # Contributors
-<!-- prettier-ignore-start -->
+!-- prettier-ignore-start -->
 - [Antyss77](https://github.com/Antyss77)
 - [OmriOn] (https://github.com/OmriOn)
 - [guillemboada](https://github.com/guillemboada)
@@ -558,6 +558,7 @@ JUnaid jamshed from nellikkuth
 ########################################TEJAS%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 - [Md Samsul Alam] (https://github.com/Samsul-Alam-STP)
 - [Kanhaiya gaivt VSC]
+- [Ansab Ebad] (https://github.com/ansab9588)
 - [Alexis Torosina] (https://github.com/alexistorosina1)
 - [Amir babazadeh](https://github.com/amirgit92)
 - [Shreyash Chavhan](https://github.com/shreyash184)
