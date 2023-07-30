@@ -105,6 +105,7 @@ Adwai
 - [Samrat Ghosh](https://github.com/samratghosh291)
 - [Lee Eros Galaad Dias de Moura](https://github.com/LeeEros)
 - [Luke Wardle] (https://github.com/LukeWardle)
+- [Chris Mulvihill](https://github.com/MulChris13/)
 - [Peter Ludwig] (https://github.com/peterdanludwig)
 - [Krishnakumar V] (https://github.com/krishkdev)
 - [Wojciech Żółkowski] (https://github.com/wer08)
