@@ -11,6 +11,7 @@ x# Contributors
 - [AayushPaigwar](https://github.com/AayushPaigwar)
 - [BhavyaNarnoli](https://github.com/bhavyanarnoli)
   [Maahnoor](https://github.com/Maahnoor)
+  [giorgivashakmadze]https://github.com/giorgivashakmadze
 - [Bertin](https://github.com/goerlibe)
 - [mnj-gh](https://github.com/mnj-gh)
 - [yuxm](https://github.com/yux-m)
