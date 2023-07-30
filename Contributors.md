@@ -82,6 +82,7 @@ x# Contributors
 - [PRINCE DOSHI]
 -[Mohamed Heggi](https://github.com/mtheggi)
 - [Nicholas Hwang]
+- [Aaqib Javaid] (https://github.com/aaqib605)
 - [Thea SF] (https://github.com/thea-sf)
 - [Leon Albert] (https://github.com/leonn00albert)
 [HMT] (https://github.com/HtetAungThan)
