@@ -5742,3 +5742,4 @@ Aadi Deshmukh
 - [abuttifulpigeon] (https://github.com/abuttifulpigeon)
 - [Joan Cermeño] (https://github.com/TheJoan684)
 - [Lucas Wang] (https://github.com/lucaswang750)
+- [Karl Santos] (https://github.com/santoskarl19)
