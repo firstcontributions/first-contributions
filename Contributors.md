@@ -219,6 +219,7 @@
 - [Arsal Uddin](https://github.com/Arsaluddin)
 - [M4h4nk4l1](https://github.com/m4h4nk4l1)
 - [JHong](https://github.com/daechi73)
+- [JialingYe (Jade)](https://github.com/jialingye)
 - [Srikar](https://github.com/Srikar04)
 - [Nilufar Adat](https://github.com/Nil19)
 - [Pranay Varma](https://github.com/pranay-0512)
