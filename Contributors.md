@@ -963,6 +963,7 @@ Subhajit Bera
 - [d a n i e l](https://github.com/Real-Artisan)
 - [Jacob Matthew Ervin Ide](https://github.com/ihavemadefire)
 - [Josh Gumerove](https://github.com/joshgumerove)
+- [Mr Gibson] 
 - [Aisha Idowu](https://github.com/AishaIdowu)
 - [Usman Qasim](https://github.com/UsmanQasim)
 - [Ali Ezzeddine](https://github.com/alkezz)
