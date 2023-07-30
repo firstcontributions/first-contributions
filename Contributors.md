@@ -5552,6 +5552,7 @@ Subhajit Bera
 - [OrnellaTchinda](https://github.com/OrnellaTchinda)
 - [Brendon Wright](https://github.com/BrendonW250)
 - [Olubukunmi Olufemi](https://github.com/PhemiT)
+- [Kousik Talluri](https://github.com/Kousik55/)
 - [Computatrum](https://github.com/Computatrums)
 - [Gideon Koech](https://github.com/giddyk)
 - [OnkelPony](https://github.com/OnkelPony)
