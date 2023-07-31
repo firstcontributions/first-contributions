@@ -34,7 +34,7 @@ x# Contributors
   [giorgivashakmadze](https://github.com/giorgivashakmadze)
 - [Bertin](https://github.com/goerlibe)
 - [Monika Garg](https://github.com/gargmonika)
--  [George Baraza](https://github.com/Georgeprog-275)
+- [George Baraza](https://github.com/Georgeprog-275)
 - [mnj-gh](https://github.com/mnj-gh)
 - [yuxm](https://github.com/yux-m)
 - [Talha Yousuf](https://github.com/talhayousuff)
@@ -128,6 +128,7 @@ x# Contributors
 - [Roman Potapov](https://github.com/potap75
   Adwai
 - [Adeisda Leye](https://github.com/usernameisleye)
+- [Augustas Aujezes](https://github.com/aujezus)
 - [Måns Abrahamsson](https://github.com/pad918)
 - [André Yano](https://github.com/yanohue)
 - [Abhinav Tyagi](https://github.com/abhityagi12)
@@ -6623,7 +6624,7 @@ Aadi Deshmukh
 - [Faraz Ahmad](https://github.com/fzee999)
   MadKingWorks
 - Zhang Kai
-- [*Nicki Stylez*](https://github.com/anickacodes)
+- [_Nicki Stylez_](https://github.com/anickacodes)
   [Charles Fei Wang](https://github.com/CharlesFeiWang)
 - [Raul Bazan](https://github.com/RaulBSanchez)
 - [Bushido](https://github.com/Bushido2404)
@@ -6689,7 +6690,7 @@ Aadi Deshmukh
 - [Lucas Wang](https://github.com/lucaswang750)
 - [Karl Santos](https://github.com/santoskarl19)
 - [rajat](https://github.com/gapirajat)
-- [Zixiang Wei](<https://github.com/Karenina-na>)
+- [Zixiang Wei](https://github.com/Karenina-na)
 - [CodeBears](https://github.com/CodeBears)
 - [Tienux](https://github.com/Tienux)
 - [Sree Pavan](https://github.com/Sree-Pavan)
