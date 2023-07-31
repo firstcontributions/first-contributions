@@ -18,6 +18,7 @@ x# Contributors
 - [yuxm](https://github.com/yux-m)
 - [Talha Yousuf](https://github.com/talhayousuff)
 - [DivyaAgrawal](https://github.com/divyaagrawal877)
+- [hari](https://github.com/harisahu)
 - [Mukul Padwal](https://github.com/mukulpadwal)
 - [Brandonawan](https://github.com/Brandonawan)
 - [JohnLc12-9](https://github.com/JohnLc12-9)
