@@ -6669,10 +6669,10 @@ Aadi Deshmukh
 - [Zixiang Wei] (<https://github.com/Karenina-na>)
 - [CodeBears](https://github.com/CodeBears)
 - [Tienux] (https://github.com/Tienux)
+- [Harsha M R]
 - [Sree Pavan] (https://github.com/Sree-Pavan)
 - [Dorian Chenard] (https://github.com/dorianche)
 - [Serkan Sacma] (https://github.com/srkans)
 - [mohammed_alj] (https://github.com/mohammed-alj2)
 - [Rahul Anand] (https://github.com/rahulanand90)
 - [Vishal Yadav] (https://github.com/aham-vishal-yadav)
-- [Harsha M R] (https://github.com/Harsha-Robosoft)
