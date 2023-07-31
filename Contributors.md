@@ -92,6 +92,7 @@ x# Contributors
 - [Aaqib Javaid] (https://github.com/aaqib605)
 - [Thea SF] (https://github.com/thea-sf)
 - [Leon Albert] (https://github.com/leonn00albert)
+- [ztest95] (https://github.com/ztest95)
 - [HMT] (https://github.com/HtetAungThan)
 - [Farooq Javed] (https://github.com/farooqjaved)
 - [f4rukyldrm](https://github.com/f4rukyldrm)
