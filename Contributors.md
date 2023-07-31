@@ -481,6 +481,7 @@ x# Contributors
 - [lezzthanthree](https://github.com/lezzthanthree)
 - [Sunny Singh](https://github.com/sunny-k-singh) -[Vikas Rathod](https://github.com/vikasrathod4299) -[Vivek Khandekar] -[Shubham Shrimant](https://github.com/shubhamshrimant) -[Yeswanth Sai Inturi] -[Håvard Garsrud](https://github.com/HaavGa)
 - [Tridev Verma](https://github.com/tridevVerma) -[Pratik Patil](https://github.com/pratikjpatil)
+- [AJ Dorfman] (https://github.com/TheeDorf)
 - [Vinicius Kayo](https://github.com/vkskayo)
 - [Davide De Leonardis](https://github.com/DavideDeLeonardis)
 - [Tarun Mankar](https://github.com/tarunmankar)
