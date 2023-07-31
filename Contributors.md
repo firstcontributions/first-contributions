@@ -6664,4 +6664,5 @@ Aadi Deshmukh
 - [Dorian Chenard] (https://github.com/dorianche)
 - [Serkan Sacma] (https://github.com/srkans)
 - [mohammed_alj] (https://github.com/mohammed-alj2)
+- [Rahul Anand] (https://github.com/rahulanand90)
 - [Vishal Yadav] (https://github.com/aham-vishal-yadav)
