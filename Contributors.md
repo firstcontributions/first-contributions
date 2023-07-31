@@ -8,6 +8,7 @@ x# Contributors
 - [guillemboada](https://github.com/guillemboada)
 - [Albin N J](https://github.com/AlbinN-J)
 - [kyrill belomenov](https://github.com/kybe236)
+- [Manzil Shrestha](https://github.com/777Mnzl)
 - [craigardy]
 - [lupitacode](https://github.com/lupitacode)
 - [Shivadharshan Lingeswaran] (https://github.com/XoxRumbleLorexoX)
