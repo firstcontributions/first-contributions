@@ -23,6 +23,7 @@ x# Contributors
   [giorgivashakmadze]https://github.com/giorgivashakmadze
 - [Bertin](https://github.com/goerlibe)
 - [Monika Garg](https://github.com/gargmonika)
+  [George Baraza] (https://github.com/Georgeprog-275)
 - [mnj-gh](https://github.com/mnj-gh)
 - [yuxm](https://github.com/yux-m)
 - [Talha Yousuf](https://github.com/talhayousuff)
