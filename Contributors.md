@@ -335,6 +335,7 @@ x# Contributors
 - [VulcanWM](https://github.com/VulcanWM)
 - [Aditya Singh](https://github.com/adityasingh22)
 - [Michael Picc](https://github.com/Michael-Picc)
+
 # [Steven Wong](https://github.com/ycstevenwong)
 
 # [V1K1NGbg](https://github.com/V1K1NGbg)
@@ -6605,6 +6606,7 @@ Aadi Deshmukh
 - [Anisah Mohamud](https://github.com/aniwin)
 - [Abdulmomen Ghalkha](https://github.com/Abdulmomen96)
 - [Reuben](https://github.com/watchmego)
+- [David Luo](https://github.com/dl423)
 - [arenodi](https://github.com/arenodi)
 - [Clyaing](https://github.com/clyaing)
 - [Munira Omer](https://github.com/munniomer)
