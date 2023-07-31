@@ -489,6 +489,7 @@ x# Contributors
 - [Gannon Rowlan]
 - [Jonathon Black]
 - [Litmanennn]
+- [Kunj Patel](https://github.com/Kunj-Patel)
 - [Tu Nguyen](https://github.com/TerryN12)
 - [Alan Wu](https://github.com/lameast)
 - [Ananda Perumal Balaji](https://github.com/anand-pb)
