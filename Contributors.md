@@ -25,6 +25,7 @@ x# Contributors
 - [yuxm](https://github.com/yux-m)
 - [Talha Yousuf](https://github.com/talhayousuff)
 - [DivyaAgrawal](https://github.com/divyaagrawal877)
+- [hari](https://github.com/harisahu)
 - [Mukul Padwal](https://github.com/mukulpadwal)
 - [Ronald van Gelder](https://github.com/rvangelder11)
 - [Brandonawan](https://github.com/Brandonawan)
