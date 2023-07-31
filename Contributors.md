@@ -14,6 +14,7 @@ x# Contributors
 - [Manzil Shrestha](https://github.com/777Mnzl)
 - [craigardy]
 - [lupitacode](https://github.com/lupitacode)
+- [Thalachanar] (https://github.com/Thalachanar)
 - [gmartineza](https://github.com/gmartineza)
 - [Shivadharshan Lingeswaran] (https://github.com/XoxRumbleLorexoX)
 - [K B]
