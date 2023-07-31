@@ -328,7 +328,7 @@ x# Contributors
 - EDWINA DSOUZA
 - [VulcanWM](https://github.com/VulcanWM)
 - [Aditya Singh](https://github.com/adityasingh22)
-
+- [Michael Picc](https://github.com/Michael-Picc)
 # [Steven Wong](https://github.com/ycstevenwong)
 
 # [V1K1NGbg](https://github.com/V1K1NGbg)
