@@ -3,18 +3,24 @@ x# Contributors
 
 - [Antyss77](https://github.com/Antyss77)
 - [Pavlos Orfanidis](https://github.com/porfanid)
+- [Deepak](https://github.com/ldpacl)
 - [Ryuuren](https://github.com/Ryuuren)
 - [OmriOn](https://github.com/OmriOn)
 - [Abhay Pratap Singh](https://github.com/AbhaysCode)
 - [guillemboada](https://github.com/guillemboada)
 - [Albin N J](https://github.com/AlbinN-J)
 - [Ayoubrabiya](https://github.com/Ayoubrabiae)
+- [Akash Suresh Ghadge](https://github.com/akashghadge)
 - [kyrill belomenov](https://github.com/kybe236)
 - [Manzil Shrestha](https://github.com/777Mnzl)
 - [craigardy](https://github.com/craigardy)
 - [lupitacode](https://github.com/lupitacode)
 - [Shivadharshan Lingeswaran](https://github.com/XoxRumbleLorexoX)
+- [Thalachanar] (https://github.com/Thalachanar)
+- [gmartineza](https://github.com/gmartineza)
+- [Shivadharshan Lingeswaran] (https://github.com/XoxRumbleLorexoX)
 - [K B]
+- [Jake Campbell] (https://github.com/margielajake)
 - [Daniel Rashi](https://github.com/dani-ras)
 - [Chukwuemeka Ochuba](https://github.com/Donmark2k)
 - [Bipul Lamsal](https://github.com/BipulLamsal)
@@ -61,6 +67,7 @@ x# Contributors
 - [Nitesh Singh Solanki](https://github.com/onlyniteshsingh)
 - [Sayanti Dey](https://github.com/sayandigital)
 - [Joel Samaniego](https://github.com/samajoel)
+- [David Payne] (https://github.com/davpayne)
 - [Abhay Kukade]
 - [Ezgi Ozgan](https://github.com/EzgiOzgan)
 - [Oddballlnner](https://github.com/Oddballlnner)
@@ -140,6 +147,7 @@ x# Contributors
 - [Emily Lubkert](https://github.com/emilylubkert)
 - [Lauris Macans](https://github.com/lauriselvijs)
 - [Ranjan Shitole](https://github.com/ranjan2829)
+- [codewithashwin.me] (https://github.com/prashwinrao)
 - [Pierre Corazo Cesario](https://github.com/PScoriae)
 - [Alejandro Gonzalez Montalvo](https://github.com/Ajelandro19)
 - [Petar Petrovic](https://github.com/GameExplorer)
@@ -295,6 +303,7 @@ x# Contributors
 - **[Sadman Salim Nipun](https://github.com/nipun333)**
 - [ClameSys](https://github.com/clamesys)
 - [Ahmed Mohamed](https://github.com/bego00)
+- [Nikhil Rajan] (https://github.com/nr-3)
 - Amro Rehawi
 - [Brian Morse](https://github.com/BrianMorse1/)
 - [Nikhil Chauhan](https://github.com/Nikhilchauhan3011)
@@ -332,6 +341,7 @@ x# Contributors
 - [VulcanWM](https://github.com/VulcanWM)
 - [Aditya Singh](https://github.com/adityasingh22)
 - [Michael Picc](https://github.com/Michael-Picc)
+
 # [Steven Wong](https://github.com/ycstevenwong)
 
 # [V1K1NGbg](https://github.com/V1K1NGbg)
@@ -473,6 +483,7 @@ x# Contributors
 - [lezzthanthree](https://github.com/lezzthanthree)
 - [Sunny Singh](https://github.com/sunny-k-singh) -[Vikas Rathod](https://github.com/vikasrathod4299) -[Vivek Khandekar] -[Shubham Shrimant](https://github.com/shubhamshrimant) -[Yeswanth Sai Inturi] -[Håvard Garsrud](https://github.com/HaavGa)
 - [Tridev Verma](https://github.com/tridevVerma) -[Pratik Patil](https://github.com/pratikjpatil)
+- [AJ Dorfman] (https://github.com/TheeDorf)
 - [Vinicius Kayo](https://github.com/vkskayo)
 - [Davide De Leonardis](https://github.com/DavideDeLeonardis)
 - [Tarun Mankar](https://github.com/tarunmankar)
@@ -629,9 +640,7 @@ x# Contributors
 - [Khushbu Sinha](https://github.com/khushbuSinha29)
 - [David Zurita](https://github.com/DaveSticks)
 - [RAGHU S](https://github.com/raghu-007)
-
-# [Santosh Bhandari](https://github.com/santoshvandari)
-
+- [Santosh Bhandari](https://github.com/santoshvandari)
 - [Brynjar](https://github.com/binnih)
 - [Shashank Shet](https://github.com/shashankshet)
 - [Abhishek Shetty](https://github.com/bobbyy16)
@@ -4907,6 +4916,7 @@ x# Contributors
 - [Andrei Fabian Pop](https://github.com/Andrei-Fabian-Pop)
 - [Frostbyte]
 - [Tommy]
+- [Opeyemi Bello] (https://github.com/iambelloopeyemi)
 - [Pujya Preyans]()
 - [Jesus Elizalde](https://github.com/Jesus-Elizalde)
 - [Fergus Maclean](https://github.com/fergusmac1)
@@ -6602,6 +6612,7 @@ Aadi Deshmukh
 - [Anisah Mohamud](https://github.com/aniwin)
 - [Abdulmomen Ghalkha](https://github.com/Abdulmomen96)
 - [Reuben](https://github.com/watchmego)
+- [David Luo](https://github.com/dl423)
 - [arenodi](https://github.com/arenodi)
 - [Clyaing](https://github.com/clyaing)
 - [Munira Omer](https://github.com/munniomer)
