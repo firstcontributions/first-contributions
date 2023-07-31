@@ -3996,6 +3996,7 @@ x# Contributors
 - [LaGanjaEsranja Yas Gawd](https://github.com/laganjaestranja)
 - [Ayan Chakraborty](https://github.com/replayan)
 - [Bhaskar Sharma](https://github.com/bhaskarsharma10)
+- [Huzaifa Sabah](https://github.com/erierintegral77)
 - [Kirill Sergeevich Tarasov](https://github.com/bhaskarsharma10)
 - [Donatus Tamajong](https://github.com/Donatus)
 - [Rucha Daware](https://github.com/ruchadaware18)
