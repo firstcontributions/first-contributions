@@ -12,6 +12,7 @@ x# Contributors
 - [lupitacode](https://github.com/lupitacode)
 - [Shivadharshan Lingeswaran] (https://github.com/XoxRumbleLorexoX)
 - [K B]
+- [Daniel Rashi](https://github.com/dani-ras)
 - [Bipul Lamsal](https://github.com/BipulLamsal)
 - [Dinesh Tyagi](https://github.com/Dinesht04)
 - [Meraduro](https://github.com/Meraduro)
