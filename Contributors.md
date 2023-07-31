@@ -58,6 +58,7 @@ x# Contributors
 - [Nadine Oka] (https://github.com/nadineoka)
 - [Neeraj Pillai] (https://github.com/Neeraj1213)
 - [Relc]
+- [David Payne] (https://github.com/davpayne)
 - [Nitesh Singh Solanki] (https://github.com/onlyniteshsingh)
 - [Sayanti Dey] (https://github.com/sayandigital)
 - [Joel Samaniego] (https://github.com/samajoel)
