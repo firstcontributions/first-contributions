@@ -25,6 +25,7 @@ x# Contributors
 - [Talha Yousuf](https://github.com/talhayousuff)
 - [DivyaAgrawal](https://github.com/divyaagrawal877)
 - [Mukul Padwal](https://github.com/mukulpadwal)
+- [Ronald van Gelder](https://github.com/rvangelder11)
 - [Brandonawan](https://github.com/Brandonawan)
 - [JohnLc12-9](https://github.com/JohnLc12-9)
 - [Abhishek Tilkar](https://github.com/abhishektilkar)
