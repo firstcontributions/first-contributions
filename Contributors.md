@@ -407,6 +407,7 @@ x# Contributors
 - [Josh Needleman](https://github.com/JNeed)
 - [Traviathan](https://github.com/traviathan)
 - [Harmish Patel](https://github.com/harmishpatel21)
+- [arifi zx](https://github.com/arifizx)
 - [Ivan Mizz]
 - [PramodhTVK]
 - [Tushar Gupta](https://github.com/tushar-corbic)
