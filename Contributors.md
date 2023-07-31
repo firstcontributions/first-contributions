@@ -300,6 +300,7 @@ x# Contributors
 - **[Sadman Salim Nipun](https://github.com/nipun333)**
 - [ClameSys](https://github.com/clamesys)
 - [Ahmed Mohamed](https://github.com/bego00)
+- [Nikhil Rajan] (https://github.com/nr-3)
 - Amro Rehawi
 - [Brian Morse](https://github.com/BrianMorse1/)
 - [Nikhil Chauhan](https://github.com/Nikhilchauhan3011)
