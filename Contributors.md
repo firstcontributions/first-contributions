@@ -13,6 +13,7 @@ x# Contributors
 - [Shivadharshan Lingeswaran] (https://github.com/XoxRumbleLorexoX)
 - [K B]
 - [Daniel Rashi](https://github.com/dani-ras)
+- [Chukwuemeka Ochuba](https://github.com/Donmark2k)
 - [Bipul Lamsal](https://github.com/BipulLamsal)
 - [Dinesh Tyagi](https://github.com/Dinesht04)
 - [Meraduro](https://github.com/Meraduro)
