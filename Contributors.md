@@ -16,6 +16,7 @@ x# Contributors
 - [gmartineza](https://github.com/gmartineza)
 - [Shivadharshan Lingeswaran] (https://github.com/XoxRumbleLorexoX)
 - [K B]
+- [Jake Campbell] (https://github.com/margielajake)
 - [Daniel Rashi](https://github.com/dani-ras)
 - [Chukwuemeka Ochuba](https://github.com/Donmark2k)
 - [Bipul Lamsal](https://github.com/BipulLamsal)
