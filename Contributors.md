@@ -11,6 +11,7 @@ x# Contributors
 - [Manzil Shrestha](https://github.com/777Mnzl)
 - [craigardy]
 - [lupitacode](https://github.com/lupitacode)
+- [gmartineza](https://github.com/gmartineza)
 - [Shivadharshan Lingeswaran] (https://github.com/XoxRumbleLorexoX)
 - [K B]
 - [Daniel Rashi](https://github.com/dani-ras)
