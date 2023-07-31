@@ -3825,6 +3825,7 @@ x# Contributors
 - [Lakshya Mahawar](https://github.com/lakshyamahawar14)
 - [Yash Deharia](https://github.com/yashdeharia)
 - [Akshay Kudalkar](https://github.com/Akshaykk12)
+- [Griffin Engel](https://github.com/CoreSNK)
 - [Shravan Seth](https://github.com/ShravanSeth)
 - [Shaavi Gupta](https://github.com/ShaaviGupta)
 - [Sai Rohit](https://github.com/sairohit360)
