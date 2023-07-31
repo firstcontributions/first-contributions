@@ -2,6 +2,7 @@ x# Contributors
 !-- prettier-ignore-start -->
 
 - [Antyss77](https://github.com/Antyss77)
+- [Deepak](https://github.com/ldpacl)
 - [Ryuuren](https://github.com/Ryuuren)
 - [OmriOn] (https://github.com/OmriOn)
 - [Abhay Pratap Singh](https://github.com/AbhaysCode)
