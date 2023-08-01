@@ -15,6 +15,7 @@ x# Contributors
 - [Adekilekun Abdullahi](https://github.com/adekilekunabdullahi)
 - [kyrill belomenov](https://github.com/kybe236)
 - [Manzil Shrestha](https://github.com/777Mnzl)
+- 👾 [Asia Le](https://github.com/le-as-a) 🧙🏼‍♀️
 - [Jigar Thummar](https://github.com/jigarthummar)
 - [lupitacode](https://github.com/lupitacode)
 - [Shivadharshan Lingeswaran](https://github.com/XoxRumbleLorexoX)
