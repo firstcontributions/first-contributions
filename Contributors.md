@@ -53,6 +53,7 @@ Oatimeany
 - [SimoneZh](https://github.com/SimoneZh)
 - [Moreshwar Rajan Nabar](https://github.com/moreshwarnabar)
 - [darkGhost](https://github.com/darkGhost3108)
+- [ryantra] (https://github.com/ryantra)
 - [shinobi3142](https://github.com/darkGhost3142)
 - [iamroshankr](https://github.com/iamroshankr)
 - [Aaryaveer Rajput](https://github.com/AKR-2803)
