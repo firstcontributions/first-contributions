@@ -36,6 +36,7 @@ x# Contributors
 - [AayushPaigwar](https://github.com/AayushPaigwar)
 - [BhavyaNarnoli](https://github.com/bhavyanarnoli)
   [Maahnoor](https://github.com/Maahnoor)
+  [Sadai]
   [giorgivashakmadze](https://github.com/giorgivashakmadze)
   [Aaryan Chaudhary](https://github.com/AaryanChy)
 - [Bertin](https://github.com/goerlibe)
