@@ -6731,3 +6731,4 @@ Aadi Deshmukh
 - [Harsha M R](https://github.com/Harsha-Robosoft)
 - [Gathik Jindal](https://github.com/boom-29)
 - [Aiyanna Tiangco](https://github.com/yankipls-a11y)
+- [Mayur Patoliya](https://github.com/coder-mayurpatoliya)
