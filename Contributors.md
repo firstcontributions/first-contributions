@@ -1,6 +1,5 @@
 x# Contributors
 !-- prettier-ignore-start -->
-
 - [Antyss77](https://github.com/Antyss77)
 - [Alvin Escobar](https://github.com/GitAlvinLine)
 - [Pavlos Orfanidis](https://github.com/porfanid)
@@ -367,6 +366,7 @@ Oatimeany
 - [ervinaservinas](https://github.com/ervinaservinas)
 - [Karthik Sankar](https://github.com/emergenitro/)
 - [PantherBoop](https://github.com/PantherBoop)
+- [Wasin Silakong](https://github.com/WasinUddy)
 - [Ali Rasouli]
 - [Abhijit More]
 - [Sinjin John]
