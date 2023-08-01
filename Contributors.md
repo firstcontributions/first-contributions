@@ -104,6 +104,7 @@ Oatimeany
 - [Zane]
 - [Deepika Indran](https://github.com/deepiikaa24)
 - [Brijesh Yadav](https://github.com/ibrijesh)
+- [Oladimeji Adeyemi](https://github.com/Crestward)
 - [Oscar Juarez](https://github.com/OscarJO20)
 - [Nikita](https://github.com/humanbelnik)
 - [Vilas](https://github.com/villAsh)
