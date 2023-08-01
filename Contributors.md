@@ -14,7 +14,7 @@ x# Contributors
 - [Akash Suresh Ghadge](https://github.com/akashghadge)
 - [kyrill belomenov](https://github.com/kybe236)
 - [Manzil Shrestha](https://github.com/777Mnzl)
-- [craigardy](https://github.com/craigardy)
+- [Jigar Thummar](https://github.com/jigarthummar)
 - [lupitacode](https://github.com/lupitacode)
 - [Shivadharshan Lingeswaran](https://github.com/XoxRumbleLorexoX)
 - [Thalachanar] (https://github.com/Thalachanar)
@@ -44,6 +44,7 @@ x# Contributors
 - [hari](https://github.com/harisahu)
 - [Mukul Padwal](https://github.com/mukulpadwal)
 - [Ronald van Gelder](https://github.com/rvangelder11)
+Oatimeany
 - [Brandonawan](https://github.com/Brandonawan)
 - [JohnLc12-9](https://github.com/JohnLc12-9)
   [Olanrewaju Ibrahim](https://github.com/9jadeveloper)
