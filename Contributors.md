@@ -478,6 +478,7 @@ Oatimeany
 - [Tomas Carrasco](https://github.com/tomascarrascoo)
 - [Di Liu](https://github.com/liudi4046)
 - [VIBHINN SINGHAL](https://github.com/VibhinnS)
+- [Arsh Tripathi](https://github.com/arsh-tripathi)
 - [Saieeash Reddy](https://github.com/SaieeashReddy23)
 - [Panth Shah](https://github.com/Panth1823)
 - [Gaurav-Chnadwani](https://github.com/GauravChandwani12)
