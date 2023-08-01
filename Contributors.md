@@ -8,6 +8,7 @@ x# Contributors
 - [Ryuuren](https://github.com/Ryuuren)
 - [OmriOn](https://github.com/OmriOn)
 - [Abhay Pratap Singh](https://github.com/AbhaysCode)
+- [Metcalfe](https://github.com/MetcalfeWal)
 - [guillemboada](https://github.com/guillemboada)
 - [Albin N J](https://github.com/AlbinN-J)
 - [Ayoubrabiya](https://github.com/Ayoubrabiae)
