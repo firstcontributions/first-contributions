@@ -33,6 +33,7 @@ x# Contributors
 - [BhavyaNarnoli](https://github.com/bhavyanarnoli)
   [Maahnoor](https://github.com/Maahnoor)
   [giorgivashakmadze](https://github.com/giorgivashakmadze)
+  [Aaryan Chaudhary](https://github.com/AaryanChy)
 - [Bertin](https://github.com/goerlibe)
 - [Monika Garg](https://github.com/gargmonika)
 - [George Baraza](https://github.com/Georgeprog-275)
