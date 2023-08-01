@@ -2,6 +2,7 @@ x# Contributors
 !-- prettier-ignore-start -->
 
 - [Antyss77](https://github.com/Antyss77)
+- [Alvin Escobar](https://github.com/GitAlvinLine)
 - [Pavlos Orfanidis](https://github.com/porfanid)
 - [Deepak](https://github.com/ldpacl)
 - [Ryuuren](https://github.com/Ryuuren)
