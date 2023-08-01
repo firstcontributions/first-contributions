@@ -6720,3 +6720,4 @@ Aadi Deshmukh
 - [wuko233](https://github.com/wuko233)
 - [Vance Trevino](https://github.com/vancetrevino)
 - [Harsha M R] (https://github.com/Harsha-Robosoft)
+- [Gathik Jindal] (https://github.com/boom-29)
