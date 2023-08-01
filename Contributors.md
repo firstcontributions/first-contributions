@@ -6639,6 +6639,7 @@ Aadi Deshmukh
 - [Faraz Ahmad](https://github.com/fzee999)
   MadKingWorks
 - Zhang Kai
+- Pragyanshi roy
 - [_Nicki Stylez_](https://github.com/anickacodes)
   [Charles Fei Wang](https://github.com/CharlesFeiWang)
 - [Raul Bazan](https://github.com/RaulBSanchez)
