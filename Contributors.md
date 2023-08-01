@@ -2274,6 +2274,7 @@ Oatimeany
 - [Kunal Garg](https://github.com/KunalG-Zol)
 - [Taufik Khan](https://github.com/Taufik041)
 - [Shuaib Ahmed Shaikh]()
+- [ChaitanyaJx](https://github.com/ChaitanyaJx)
 - [Malvika Jadhav](https://github.com/malvikajadhav)
 - [Aram Kazorian](https://github.com/aramk-hub)
 - [Anozie Chibuike](https://github.com/AnozieChibuike)
