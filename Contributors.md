@@ -6737,3 +6737,4 @@ Aadi Deshmukh
 - [Gathik Jindal](https://github.com/boom-29)
 - [Aiyanna Tiangco](https://github.com/yankipls-a11y)
 - [Mayur Patoliya](https://github.com/coder-mayurpatoliya)
+- [Thomas Hellin](https://github.com/heltho)
