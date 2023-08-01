@@ -12,6 +12,7 @@ x# Contributors
 - [Albin N J](https://github.com/AlbinN-J)
 - [Ayoubrabiya](https://github.com/Ayoubrabiae)
 - [Akash Suresh Ghadge](https://github.com/akashghadge)
+- [Adekilekun Abdullahi](https://github.com/adekilekunabdullahi)
 - [kyrill belomenov](https://github.com/kybe236)
 - [Manzil Shrestha](https://github.com/777Mnzl)
 - [Jigar Thummar](https://github.com/jigarthummar)
@@ -6723,3 +6724,5 @@ Aadi Deshmukh
 - [Harsha M R](https://github.com/Harsha-Robosoft)
 - [Gathik Jindal](https://github.com/boom-29)
 - [Grant Cary](https://github.com/grantcary)
+- [Harsha M R](https://github.com/Harsha-Robosoft)
+- [Gathik Jindal](https://github.com/boom-29)
