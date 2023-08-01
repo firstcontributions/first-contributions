@@ -14,7 +14,7 @@ x# Contributors
 - [Akash Suresh Ghadge](https://github.com/akashghadge)
 - [kyrill belomenov](https://github.com/kybe236)
 - [Manzil Shrestha](https://github.com/777Mnzl)
-- [craigardy](https://github.com/craigardy)
+- [Jigar Thummar](https://github.com/jigarthummar)
 - [lupitacode](https://github.com/lupitacode)
 - [Shivadharshan Lingeswaran](https://github.com/XoxRumbleLorexoX)
 - [Thalachanar] (https://github.com/Thalachanar)
