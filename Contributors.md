@@ -23,6 +23,7 @@ x# Contributors
 - [Shivadharshan Lingeswaran] (https://github.com/XoxRumbleLorexoX)
 - [K B]
 - [Abel Tesfa] (https://github.com/abeltesfa)
+- [bencas21] (https://github.com/bencas21)
 - [Jake Campbell] (https://github.com/margielajake)
 - [Daniel Rashi](https://github.com/dani-ras)
 - [Chukwuemeka Ochuba](https://github.com/Donmark2k)
