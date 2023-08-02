@@ -6765,3 +6765,4 @@ Aadi Deshmukh
 - [Ivan Potgieter](https://github.com/IvanPotgieter01)
 - [Maciej Jankowski](https://github.com/maciej-jankowskii)
 - [Sup3rKringe](https://github.com/Sup3rKringe)
+- [Ezeliora Godsfavour](https://github.com/favy-codez)
