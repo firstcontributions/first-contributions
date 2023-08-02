@@ -1,7 +1,8 @@
-x# Contributors
-!-- prettier-ignore-start --> -[HacFlix](https://github.com/HacFlix)
+# Contributors
+!-- prettier-ignore-start -->
+- [HacFlix](https://github.com/HacFlix)
 - [Zaid Ismail Asvat Alias Vader](https://github.com/Vader980)
--[HI]
+- [Omphile Mokhuane](https://github.com/OmphileMokhuane/OmphileMokhuane)
 - [Tasmiyah Nakooda](https://github.com/nakoodatasmiyah)
 - [Antyss77](https://github.com/Antyss77)
 - [Alvin Escobar](https://github.com/GitAlvinLine)
@@ -3381,6 +3382,7 @@ x# Contributors
 - [Samuel Alli](https://github.com/Ruth-ikegah)
 - [David Adesanya](https://github.com/dave-gith)
 - [Nero]()
+- [Abbdulrasaq Taofeeq](https://github.com/olareign)
 - [Rishikesh Kanabar](https://github.com/RishikeshNK)
 - [Moheet Shendarkar](https://github.com/moheet333)
 - [Tamas Tony](https://github.com/tonyTamas10)
@@ -6765,3 +6767,4 @@ Aadi Deshmukh
 - [Ivan Potgieter](https://github.com/IvanPotgieter01)
 - [Maciej Jankowski](https://github.com/maciej-jankowskii)
 - [Sup3rKringe](https://github.com/Sup3rKringe)
+- [Ezeliora Godsfavour](https://github.com/favy-codez)
