@@ -1,6 +1,7 @@
 x# Contributors
 !-- prettier-ignore-start -->
 
+- [Tasmiyah Nakooda](https://github.com/nakoodatasmiyah)
 - [Antyss77](https://github.com/Antyss77)
 - [Deepak](https://github.com/ldpacl)
 - [Ryuuren](https://github.com/Ryuuren)
