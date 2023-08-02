@@ -2397,6 +2397,7 @@ Oatimeany
 - [Josh88x](https://github.com/Josh88x)
 - [NewProgrammerAI](https://github.com/NewProgrammerAI)
 - [Carlos Rodriguez](https://github.com/cr2551)
+- [Arischvaran Puvanesvaran](https://github.com/Arisch24)
 - [Amir Hashemi](https://github.com/seyyeddev)
 - [Yasitha Gamage](https://github.com/Yasithalalanga)
 - [Youssef Jrab](https://github.com/yjrab)
