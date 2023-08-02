@@ -1,6 +1,6 @@
 x# Contributors
-!-- prettier-ignore-start -->
--[BiswaJit-rd](https://github.com/BiswaJit-rd)
+!-- prettier-ignore-start --> -[HacFlix](https://github.com/HacFlix)
+
 - [Antyss77](https://github.com/Antyss77)
 - [Alvin Escobar](https://github.com/GitAlvinLine)
 - [Pavlos Orfanidis](https://github.com/porfanid)
@@ -51,7 +51,7 @@ x# Contributors
 - [hari](https://github.com/harisahu)
 - [Mukul Padwal](https://github.com/mukulpadwal)
 - [Ronald van Gelder](https://github.com/rvangelder11)
-Oatimeany
+  Oatimeany
 - [Brandonawan](https://github.com/Brandonawan)
 - [JohnLc12-9](https://github.com/JohnLc12-9)
   [Olanrewaju Ibrahim](https://github.com/9jadeveloper)
@@ -6718,7 +6718,7 @@ Aadi Deshmukh
 - [Karl Santos](https://github.com/santoskarl19)
 - [Ege Dogukan Seven](https://github.com/EgeDogukan)
 - [rajat](https://github.com/gapirajat)
-- [Zixiang Wei](<https://github.com/Karenina-na>)
+- [Zixiang Wei](https://github.com/Karenina-na)
 - [abuttifulpigeon](https://github.com/abuttifulpigeon)
 - [Joan Cermeño](https://github.com/TheJoan684)
 - [Lucas Wang](https://github.com/lucaswang750)
