@@ -172,6 +172,7 @@
 - [Riley Livingston](https://github.com/Riley-livingston)
 - [Quentin Ng](https://github.com/kwantaing)
 - [Emily Lubkert](https://github.com/emilylubkert)
+  [ChrisTheDev259](https://github.com/ChrisTheDev259)
 - [Lauris Macans](https://github.com/lauriselvijs)
 - [Ranjan Shitole](https://github.com/ranjan2829)
 - [codewithashwin.me] (https://github.com/prashwinrao)
