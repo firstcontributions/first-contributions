@@ -6756,3 +6756,4 @@ Aadi Deshmukh
 - [Rafi David](https://github.com/rafisce)
 - [Hendi Noviansyah](https://github.com/Hendi-arch)
 - [Ivan Potgieter](https://github.com/IvanPotgieter01)
+- [Maciej Jankowski](https://github.com/maciej-jankowskii)
