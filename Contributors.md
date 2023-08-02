@@ -212,6 +212,7 @@ x# Contributors
 - [Luiz Carlos Jr](https://github.com/lcsjunior)
 - [Rifky Maulana](https://github.com/Rifkymaulana)
 - [Complexlity](https://github.com/Complexlity)
+- [lewdguri](https://github.com/lewdguri)
 - [Dev Abhiram](https://github.com/Dev-29)
 - [Dibyajyoti Ganguly](https://github.com/Dibyajyoti2002)
 - [Himtome1](https://github.com/Himtome1))
