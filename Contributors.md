@@ -1988,6 +1988,7 @@ x# Contributors
 - [Manav Tore](https://github.com/manavtore)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 - [Vidhan Tamhankar](https://github.com/vidhan843426)
+- Leon Mostert
 - [Leandro Robert](https://github.com/leanrobert)
 - [Adnan Mostafa](https://github.com/AdnanMostafa)
 - [Jiwan Chaudhary](https://github.com/JiwanChaudhary)
