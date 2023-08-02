@@ -19,11 +19,11 @@ Se non hai git sul tuo computer, [installalo]( https://help.github.com/articles/
 Forka questa _repo_ (abbreviazione di _repository_, ossia una cartella) cliccando sul bottone **_fork_** in cima alla pagina.
 Questo creerà una copia di questa repository nel tuo account.
 
-## Clona la repository
+## Scarica la repository
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Ora clona questa repo nel tuo computer. Clicca sul pulsante per clonare e poi copia l'url.
+Ora scarica (*clone*) questa repo nel tuo computer. Clicca sul pulsante per scaricare e poi copia l'url.
 
 Apri il terminale e lancia il seguente comando:
 
@@ -40,14 +40,14 @@ git clone https://github.com/questo-sei-tu/first-contributions.git
 ```
 dove `questo-sei-tu` è il tuo username GitHub. Qui stai copiando il contenuto della repository da GitHub al tuo computer.
 
-## Crea un branch
+## Crea un ramo (*Branch*)
 
 Entra nella directory della repository (se non lo hai già fatto):
 
 ```
 cd first-contributions
 ```
-Ora crea un branch usando il comando `git checkout -b`:
+Ora crea un ramo (*branch*) usando il comando `git checkout -b`:
 ```
 git checkout -b <aggiungi-il-tuo-nome>
 ```
@@ -72,9 +72,9 @@ git commit -m "Add <il-tuo-nome> to Contributors list"
 ```
 cambiando `<il-tuo-nome>` con il tuo nome.
 
-## Invia le modifiche a GitHub
+## Invia (*Push*) le modifiche a GitHub
 
-Invia le tue modifiche con il comando `git push`:
+Invia (*push*) le tue modifiche con il comando `git push`:
 ```
 git push origin <aggiungi-il-tuo-nome>
 ```
