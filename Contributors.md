@@ -6715,6 +6715,7 @@ Aadi Deshmukh
 - [Harsha M R](https://github.com/Harsha-Robosoft)
 - [Lucas Wang](https://github.com/lucaswang750)
 - [Karl Santos](https://github.com/santoskarl19)
+- [Ege Dogukan Seven](https://github.com/EgeDogukan)
 - [rajat](https://github.com/gapirajat)
 - [Zixiang Wei](<https://github.com/Karenina-na>)
 - [abuttifulpigeon](https://github.com/abuttifulpigeon)
