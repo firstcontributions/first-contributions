@@ -23,6 +23,7 @@
 - [Adekilekun Abdullahi](https://github.com/adekilekunabdullahi)
 - [kyrill belomenov](https://github.com/kybe236)
 - [Manzil Shrestha](https://github.com/777Mnzl)
+- [Manu Perez] (https://github.com/ManuPer3z)
 - 👾 [Asia Le](https://github.com/le-as-a) 🧙🏼‍♀️
 - [Jigar Thummar](https://github.com/jigarthummar)
 - [lupitacode](https://github.com/lupitacode)
