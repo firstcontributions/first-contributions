@@ -80,6 +80,7 @@ ahihi tao la duy ne
 - [Bikal Koju] ()
 - [Marc Aguilar]
 - [Shaireen Alexis Moncada](https://github.com/shaiweeeen)
+- [Ranmini Manditha](https://github.com/RanminiManditha)
 - [Joshua Maciel](https://github.com/JoshM-Yoru)
 - [Matthew Wang](https://github.com/mw3071)
 - [Mohamed Ben Taher] (https://github.com/MohamedBenTaher)
