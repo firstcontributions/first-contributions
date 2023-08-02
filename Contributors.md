@@ -142,7 +142,8 @@ x# Contributors
 - [Jason Bodzy](https://github.com/jasonbodzy)
 - [Alex McDonald](https://github.com/AMcDonald12)
 - [Roman Potapov](https://github.com/potap75
-  Adwai
+- Adwai
+- [Ranmini Manditha](https://github.com/RanminiManditha)
 - [Adeisda Leye](https://github.com/usernameisleye)
 - [Augustas Aujezes](https://github.com/aujezus)
 - [Måns Abrahamsson](https://github.com/pad918)
