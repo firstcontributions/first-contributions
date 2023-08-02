@@ -1187,6 +1187,7 @@ x# Contributors
 - [Daren Coladilla](https://github.com/darenjob26)
 - [Rishabh Mehrotra](https://github.com/imrishabhmehrotra)
 - [JackWinner](https:/github.com/winnerjack)
+- [Rambabu Patidar](https://github.com/rambabu-patidar)
 - [Boluwatife-Adeyemi](https://github.com/FinzyPHINZY)
 - [akbarsiddiq](https://github.com/akbarsiddiq)
 - [abhishek](https://github.com/abhisheksakhare1000)
