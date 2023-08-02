@@ -1334,6 +1334,7 @@
 - [Matthew Garry](https://github.com/mhgarry)
 - [Patrick Rooney](https://github.com/patrickrooney09)
 - [Ahmed Fatthi](https://github.com/AhmedFatthy1040)
+- [Igor Santos](https://github.com/igorsantos13)
 - [Gerlan](https://github.com/gerlanf)
 - [Guido Xenpfonte](https://github.com/guidoxenofonte2005)
 - [Melvin Jebasamuel](https://github.com/Mel28vin)
