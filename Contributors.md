@@ -2342,6 +2342,7 @@ Oatimeany
 - [Nathaniel Adiah](https:/github.com/nathanieladiah)
 - [Bhautik Savaliya](https://github.com/gOgRABgEEK)
 - [Ashish Muley](https://github.com/APMuley)
+- [Karen Du](https://github.com/piecanoe)
 - [Mahdi Akbar](https://github.com/MrTbag)
 - [heinAstonish](https://github.com/heinAstonish)
 - [Mohamad Kazemiraz](https://github.com/mkazemiraz)
