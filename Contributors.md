@@ -1,5 +1,7 @@
-x# Contributors
-!-- prettier-ignore-start --> -[HacFlix](https://github.com/HacFlix)
+# Contributors
+!-- prettier-ignore-start -->
+- [HacFlix](https://github.com/HacFlix)
+- [Zaid Ismail Asvat Alias Vader](https://github.com/Vader980)
 - [Omphile Mokhuane](https://github.com/OmphileMokhuane/OmphileMokhuane)
 - [Tasmiyah Nakooda](https://github.com/nakoodatasmiyah)
 - [Antyss77](https://github.com/Antyss77)
