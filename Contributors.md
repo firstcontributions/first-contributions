@@ -1,5 +1,6 @@
 x# Contributors
 !-- prettier-ignore-start -->
+-[BiswaJit-rd](https://github.com/BiswaJit-rd)
 - [Antyss77](https://github.com/Antyss77)
 - [Alvin Escobar](https://github.com/GitAlvinLine)
 - [Pavlos Orfanidis](https://github.com/porfanid)
