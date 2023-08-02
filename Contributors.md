@@ -131,6 +131,7 @@ Oatimeany
 - [Leon Albert](https://github.com/leonn00albert)
 - [ztest95](https://github.com/ztest95)
 - [HMT](https://github.com/HtetAungThan)
+- [Alowree](https://github.com/Alowree)
 - [Farooq Javed](https://github.com/farooqjaved)
 - [f4rukyldrm](https://github.com/f4rukyldrm)
 - [Siddhant Patil](https://github.com/Sid-Pat)
