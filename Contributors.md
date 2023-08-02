@@ -6720,6 +6720,7 @@ Aadi Deshmukh
 - [sholeh](https://github.com/sholeh007)
 - [Penghang Yu](https://github.com/demonph10)
 - Meeeees
+- [Pradeep Mehta]
 - [Ebrahim Haji](https://github.com/ebrahim95)
 - [Chris Dowd](https://github.com/ChrisDowdDeveloper)
 - [Mees](https://github.com/Meeeees)
