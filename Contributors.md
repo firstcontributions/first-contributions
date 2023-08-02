@@ -6771,3 +6771,4 @@ Aadi Deshmukh
 - [Maciej Jankowski](https://github.com/maciej-jankowskii)
 - [Sup3rKringe](https://github.com/Sup3rKringe)
 - [Ezeliora Godsfavour](https://github.com/favy-codez)
+- [Swapnil Satardey](https://github.com/swapnilsatardey)
