@@ -3380,6 +3380,7 @@ x# Contributors
 - [Samuel Alli](https://github.com/Ruth-ikegah)
 - [David Adesanya](https://github.com/dave-gith)
 - [Nero]()
+- [Abbdulrasaq Taofeeq](https://github.com/olareign)
 - [Rishikesh Kanabar](https://github.com/RishikeshNK)
 - [Moheet Shendarkar](https://github.com/moheet333)
 - [Tamas Tony](https://github.com/tonyTamas10)
