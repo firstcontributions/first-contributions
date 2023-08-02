@@ -1,0 +1,47 @@
+# Χρήσιμοι Σύνδεσμοι
+
+Αυτό το έγγραφο αφιερώνεται σε όλους τους ιστότοπους με συμβουλές και κόλπα, αναρτήσεις σε ιστολόγια και χρήσιμους ιστότοπους που κάνουν τη ζωή μας πιο εύκολη. Αποτελούν μια εξαιρετική αναφορά για να καλύψουν όλες τις ανάγκες μας, είτε είμαστε αρχάριοι είτε ειδικοί. Αυτή η σελίδα θα πρέπει να λειτουργεί ως ένας δείκτης για όλους αυτούς τους χρήσιμους συνδέσμους που θα βοηθήσουν όλους όσους είναι νέοι στον τομέα του ανοιχτού λογισμικού ή όσους θέλουν να μάθουν περισσότερα.
+
+## Η Λίστα
+1.  [Διαδραστικό εκπαιδευτικό μάθημα για το Git](https://try.github.io)
+2.  [Βίντεο: Εισαγωγή στο Git και το GitHub για αρχάριους από το freecodecamp](https://www.youtube.com/watch?v=RGOj5yH7evk)
+3.  [Ο απλός οδηγός του git](http://rogerdudler.github.io/git-guide/)
+4.  [Πώς να αναιρέσετε, να διορθώσετε ή να αφαιρέσετε αναθέσεις στο git](http://sethrobertson.github.io/GitFixUm/fixup.html)
+5.  [Εκπαιδευτικό μάθημα για το Git και το GitHub μεταφρασμένο σε πολλές γλώσσες](https://github.com/Roshanjossey/first-contributions)
+6.  [Συγχώνευση συγκρούσεων (Merge Conflicts)](https://www.git-tower.com/learn/git/ebook/en/command-line/advanced-topics/merge-conflicts)
+7.  [Επίλυση συγχώνευσης συγκρούσεων (Resolving Merge Conflicts)](https://githowto.com/resolving_conflicts)
+8. [Βασικές αρχές του Git - Ο απλός γρήγορος οδηγός έναρξης](https://blog.praveen.science/basics-of-git-the-quick-start-guide/)
+9. [Πρότυπα Git που ακολουθούνται στον τρόπο εφαρμογής Spotify Agile Methodology](https://blog.praveen.science/git-standards-followed-in-our-way-of-spotify-agile-methodolgy/)
+10. [Συντομεύσεις Git](https://blog.praveen.science/git-shortcuts/)
+11.  [Επίσημο φύλλο απατηλών Git σε πολλές γλώσσες](https://services.github.com/on-demand/resources/cheatsheets)
+12.  [Φύλλο απατηλών Git από την Tower](https://www.git-tower.com/learn/cheat-sheets/git)
+13.  [Συνηθισμένα προβλήματα με το Git](https://www.codementor.io/citizen428/git-tutorial-10-common-git-problems-and-how-to-fix-them-aajv0katd)
+14. [Επαναβάθμιση (Git Rebase)](https://blog.gitprime.com/git-rebase-an-illustrated-guide/)
+15. [Οδηγός αρχαρίων για την επαναβάθμιση (Rebasing) και τη συμπίεση (Squashing)](https://github.com/servo/servo/wiki/Beginner%27s-guide-to-rebasing-and-squashing)
+16. [Φύλλο απατηλών Git που εμφανίζει συσχετίσεις μεταξύ εντολών και αρχείων](http://ndpsoftware.com/git-cheatsheet.html)
+17. [Πώς να συνεισφέρετε](https://opensource.guide/how-to-contribute/)
+18. [Ξεκινώντας με το Ανοικτό Λογισμικό](https://github.com/OpenSourceHelpCommunity/Getting-Started-With-Contributing-to-Open-Sources)
+19. [Πώς να συνεισφέρετε](https://github.com/freeCodeCamp
+
+/how-to-contribute-to-open-source)
+20. [Οδηγοί Git από την Atlassian](https://www.atlassian.com/git)
+21. [Αξιολογήσεις αιτημάτων ενσωμάτωσης (Pull request reviews)](https://help.github.com/articles/about-pull-request-reviews/)
+22. [Ένα άλλο διαδραστικό μάθημα για το Git](https://learngitbranching.js.org/)
+23. [Φύλλο απατηλών για τη γραμμή εντολών του Git](https://gist.github.com/davfre/8313299)
+24. [Βιβλία Προγραμματισμού](https://github.com/EbookFoundation/free-programming-books)
+25. [Ηλεκτρονικό βιβλίο με επαγγελματικές συμβουλές και μυστικά](https://goalkicker.com/GitBook/GitProfessionalTipsSecrets.pdf)
+26. [Οδηγός για τους απλούς κανόνες για να γίνετε επαγγελματίας στο Git](https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f)
+27. [Σημείωση για τα μηνύματα δεσμεύσεων (commit messages) του Git](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+28. [5 Χρήσιμες Συμβουλές για Καλύτερα Μηνύματα Δεσμεύσεων (Commit Messages)](https://thoughtbot.com/blog/5-useful-tips-for-a-better-commit-message)
+29. [Έλεγχος Εκδόσεων με το Git](https://ourcodingclub.github.io/2017/02/27/git.html)
+30. [Έλεγχος Εκδόσεων με το Git](https://www.udacity.com/course/version-control-with-git--ud123)
+31. [Επιθεώρηση του μαθήματος του Coursera από την Google](https://www.coursera.org/learn/introduction-git-github)
+32. [Χρήση του Έλεγχου Εκδόσεων στο VS Code](https://code.visualstudio.com/docs/editor/versioncontrol)
+33. [Git vs Github: Ποια είναι η διαφορά και πώς να ξεκινήσετε με και τα δύο](https://kinsta.com/knowledgebase/git-vs-github/)
+34. [Οδηγοί Hello World από το Github](https://guides.github.com/activities/hello-world/)
+35. [Πώς να χρησιμοποιήσετε το GitHub](https://www.edureka.co/blog/how-to-use-github/)
+36. [10 Ημέρες του Git και του Github](https://github.com/Asabeneh/10-days-of-git-and-github)
+37. [Συντομεύσεις πληκτρολογίου για το Github](https://docs.github.com/en/get-started/using-github/keyboard-shortcuts)
+38. [Πλήρης Οδηγός Git και GitHub από τον Kunal Kushwaha](https://www.youtube.com/watch?v=apGV9Kg7ics&ab_channel=KunalKushwaha)
+39. [Φύλλο απατηλών για τη ροή εργασίας (Git workflow)](https://drive.google.com/uc?export=download&id=1QPRh5YmqQm4DFfitelPYlBTWC2I6tTTM)
+Συνεχίστε να προσθέτετε περισσότερους συνδέσμους που θεωρείτε χρήσιμους.
