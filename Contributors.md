@@ -1,6 +1,6 @@
 x# Contributors
 !-- prettier-ignore-start --> -[HacFlix](https://github.com/HacFlix)
-
+- [Omphile Mokhuane](https://github.com/OmphileMokhuane/OmphileMokhuane)
 - [Tasmiyah Nakooda](https://github.com/nakoodatasmiyah)
 - [Antyss77](https://github.com/Antyss77)
 - [Alvin Escobar](https://github.com/GitAlvinLine)
