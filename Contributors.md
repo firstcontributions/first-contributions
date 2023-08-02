@@ -6740,3 +6740,4 @@ Aadi Deshmukh
 - [Aiyanna Tiangco](https://github.com/yankipls-a11y)
 - [Mayur Patoliya](https://github.com/coder-mayurpatoliya)
 - [Thomas Hellin](https://github.com/heltho)
+- [Rafi David](https://github.com/rafisce)
