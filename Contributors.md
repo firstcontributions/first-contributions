@@ -2583,6 +2583,7 @@ x# Contributors
 - [Jan Carlo Juab](https://github.com/mode-boyo)
   [Manas Anand Singh](https://github.com/MSAndromeda)
 - [Siim Sink](https://github.com/sinkkkk)
+- [Abdelrahman Elsayed](https://github.com/abdlrhmnelsyed)
 - [Nitesh Saini](https://github.com/nitesh047)
 - [Anuj Pathak](https://github.com/theanujpathak)
 - [Mayank Gautam]()
