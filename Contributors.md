@@ -1,6 +1,6 @@
 x# Contributors
 !-- prettier-ignore-start --> -[HacFlix](https://github.com/HacFlix)
-
+- [Zaid Ismail Asvat Alias Vader](https://github.com/Vader980)
 - [Tasmiyah Nakooda](https://github.com/nakoodatasmiyah)
 - [Antyss77](https://github.com/Antyss77)
 - [Alvin Escobar](https://github.com/GitAlvinLine)
