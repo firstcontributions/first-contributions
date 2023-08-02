@@ -2674,6 +2674,7 @@ x# Contributors
 - [Rishi Bhatia](https://github.com/rbhatia4245)
 - [Divy Don](https://github.com/Divy312)
 - [Nick Miles](https://github.com/kihno)
+- [Nagy Boldizsar](https://github.com/nbozsi)
 - [Charles Freeborn](https://twitter.com/charliecodes)
 - [Pranita Dane](https://github.com/pranita28Dane)
 - [Nate McKenzie](https://github.com/NateMcKenzie)
