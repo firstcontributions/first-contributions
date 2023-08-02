@@ -13,6 +13,7 @@ x# Contributors
 - [guillemboada](https://github.com/guillemboada)
 - [Albin N J](https://github.com/AlbinN-J)
 - [Ayoubrabiya](https://github.com/Ayoubrabiae)
+- [Breazycodes] (https://github.com/Breazycodes)
 - [sailorworks](https://github.com/sailorworks)
 - [Akash Suresh Ghadge](https://github.com/akashghadge)
 - [Adekilekun Abdullahi](https://github.com/adekilekunabdullahi)
