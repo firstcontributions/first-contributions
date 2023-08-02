@@ -4029,6 +4029,7 @@ x# Contributors
 - [Matteo Bruscagnin](https://github.com/MBruscagnin)
 - [Daniel Evans](https://github.com/devanssound)
 - [LaGanjaEsranja Yas Gawd](https://github.com/laganjaestranja)
+- [Francesco Scavello](https://github.com/Scavix)
 - [Ayan Chakraborty](https://github.com/replayan)
 - [Bhaskar Sharma](https://github.com/bhaskarsharma10)
 - [Huzaifa Sabah](https://github.com/erierintegral77)
