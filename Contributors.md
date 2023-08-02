@@ -67,6 +67,7 @@ x# Contributors
 - [shinobi3142](https://github.com/darkGhost3142)
 - [iamroshankr](https://github.com/iamroshankr)
 - [Aaryaveer Rajput](https://github.com/AKR-2803)
+- [Raphael Monte](https://github.com/rmonte)
 - [SpongeJohnSquareLennon](https://github.com/SpongeJohnSquareLennon)
 - [Anand Kumar](https://github.com/Whitedevil4648)
 - [Shaikh Sohel](https://github.com/ShaikhSohel1)
