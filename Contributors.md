@@ -1,6 +1,7 @@
 x# Contributors
 !-- prettier-ignore-start --> -[HacFlix](https://github.com/HacFlix)
 
+- [Tasmiyah Nakooda](https://github.com/nakoodatasmiyah)
 - [Antyss77](https://github.com/Antyss77)
 - [Alvin Escobar](https://github.com/GitAlvinLine)
 - [Pavlos Orfanidis](https://github.com/porfanid)
@@ -213,6 +214,7 @@ x# Contributors
 - [Luiz Carlos Jr](https://github.com/lcsjunior)
 - [Rifky Maulana](https://github.com/Rifkymaulana)
 - [Complexlity](https://github.com/Complexlity)
+- [lewdguri](https://github.com/lewdguri)
 - [Dev Abhiram](https://github.com/Dev-29)
 - [Dibyajyoti Ganguly](https://github.com/Dibyajyoti2002)
 - [Himtome1](https://github.com/Himtome1))
@@ -1988,6 +1990,7 @@ x# Contributors
 - [Manav Tore](https://github.com/manavtore)
 - [Shantanu Nautiyal](https://github.com/shantanunautiyal)
 - [Vidhan Tamhankar](https://github.com/vidhan843426)
+- Leon Mostert
 - [Leandro Robert](https://github.com/leanrobert)
 - [Adnan Mostafa](https://github.com/AdnanMostafa)
 - [Jiwan Chaudhary](https://github.com/JiwanChaudhary)
@@ -3291,6 +3294,7 @@ x# Contributors
 - [Abdelrahman Elsayed](https://github.com/onepercentgold)
 - [mekonical22](https://github.com/mekonical22)
 - [Osvaldo Trevino](https://github.com/Swixh)
+- [Trevor Messenger]()
 - [Amrinder Singh](https://github.com/amrinder1189)
 - [Thunderk3g](https://github.com/Thunderk3g)
 - [Gabriel Moraes](https://github.com/gabrielm33)
@@ -6755,3 +6759,5 @@ Aadi Deshmukh
 - [Rafi David](https://github.com/rafisce)
 - [Hendi Noviansyah](https://github.com/Hendi-arch)
 - [Ivan Potgieter](https://github.com/IvanPotgieter01)
+- [Maciej Jankowski](https://github.com/maciej-jankowskii)
+- [Sup3rKringe](https://github.com/Sup3rKringe)
