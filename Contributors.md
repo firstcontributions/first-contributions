@@ -28,6 +28,7 @@
 - [Manu Perez] (https://github.com/ManuPer3z)
 - 👾 [Asia Le](https://github.com/le-as-a) 🧙🏼‍♀️
 - [Jigar Thummar](https://github.com/jigarthummar)
+- [Karan pal](https://github.com/Karanpal97)
 - [lupitacode](https://github.com/lupitacode)
 - [Shivadharshan Lingeswaran](https://github.com/XoxRumbleLorexoX)
 - [Deepak Shukla](https://github.com/Flames004)
