@@ -1,6 +1,7 @@
 # Contributors
 !-- prettier-ignore-start -->
 - [Walter Goad](https://github.com/Goadlife1)
+- [Sanket Jaipuriar](https://github.com/RubyShanks)
 - [HacFlix](https://github.com/HacFlix)
 - [Zaid Ismail Asvat Alias Vader](https://github.com/Vader980)
 - [Omphile Mokhuane](https://github.com/OmphileMokhuane/OmphileMokhuane)
