@@ -17,6 +17,7 @@
 - [guillemboada](https://github.com/guillemboada)
 - [Albin N J](https://github.com/AlbinN-J)
 - [Ayoubrabiya](https://github.com/Ayoubrabiae)
+- [Kgotso Makhalimele](https://github.com/kgotsosm)
 - [Breazycodes] (https://github.com/Breazycodes)
 - [sailorworks](https://github.com/sailorworks)
 - [Akash Suresh Ghadge](https://github.com/akashghadge)
