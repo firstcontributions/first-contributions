@@ -97,6 +97,7 @@
 - [Ibi Eldahuk](https://github.com/ibieldahuk)
 - [Neeraj Pillai](https://github.com/Neeraj1213)
 - [Relc]
+- [Navin Yadav](https://github.com/naviny058)
 - [Nitesh Singh Solanki](https://github.com/onlyniteshsingh)
 - [Sayanti Dey](https://github.com/sayandigital)
 - [Joel Samaniego](https://github.com/samajoel)
