@@ -16,6 +16,7 @@
 - [Dewald](https://github.com/HaloBoss777)
 - [guillemboada](https://github.com/guillemboada)
 - [Albin N J](https://github.com/AlbinN-J)
+- [Kgotso Makhalimele](https://github.com/kgotsosm)
 - [Ayoubrabiya](https://github.com/Ayoubrabiae)
 - [Breazycodes] (https://github.com/Breazycodes)
 - [sailorworks](https://github.com/sailorworks)
