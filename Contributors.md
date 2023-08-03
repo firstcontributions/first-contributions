@@ -6796,6 +6796,7 @@ Aadi Deshmukh
 - [Harsha M R](https://github.com/Harsha-Robosoft)
 - [Gathik Jindal](https://github.com/boom-29)
 - [Aiyanna Tiangco](https://github.com/yankipls-a11y)
+- [UmbrelFan1](https://github.com/MyUmbrel)
 - [Mayur Patoliya](https://github.com/coder-mayurpatoliya)
 - [Thomas Hellin](https://github.com/heltho)
 - [Rafi David](https://github.com/rafisce)
