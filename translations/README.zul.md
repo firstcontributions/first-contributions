@@ -6,18 +6,15 @@
 
 # Iminikelo Yokuqala
 
+Sifuna ukusiza nokubonisa abanikeli abasha indlela yokuqala ngokunikela. Uma ufuna ukunikela kokuqala, landela lezinyathelo ezilandelayo.
 
-Kulukhuni. Kuhlale kunzima okokuqala lapho wenza okuthile. Ikakhulukazi uma ubambisana, ukwenza amaphutha akuyona into ekhululekile. Sifuna ukwenza lula ukuthi abanikeli abasha abavulekile bafunde futhi bahlanganyele okokuqala.
-
-Ukufunda izihloko nokufundiswa kokubuka kungasiza, kodwa yini engcono kunokwenza okwamanje izinto ezenzakalweni? Le phrojekthi ihlose ukunikeza isiqondiso nokwenza ukuthi abaqalayo benze indlela yabo yokuqala. Uma ubheka ukwenza umnikelo wakho wokuqala, landela izinyathelo ezingezansi.
-
-#### *Uma ungakhululekile ngomugqa womyalo, [nansi izifundo ezisebenzisa amathuluzi we-GUI.](#Izinto-ezengeziwe)*
+#### *Uma ungakhululekile ngomugqa womyalo, [nazi izifundo ezisebenzisa amathuluzi we-GUI.](#Izinto-ezengeziwe)*
 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 
-Uma ungenayo i-git kumshini wakho, [faka]( https://help.github.com/articles/set-up-git/).
+Uma ungenayo i-git kumshini wakho, [ifake]( https://help.github.com/articles/set-up-git/).
 
 ## Fometha le ndawo yokugcina
 
@@ -45,7 +42,7 @@ Ngokwesibonelo:
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-iphi this-is-youigama lomsebenzisi lakho le-GitHub. Lapha ukopisha okuqukethwe kokulondoloza kokuqala ku-GitHub kwikhompyutha yakho.
+La kubalwe `this-is-you` faka i-username yakho yaku GitHub. Lapha ukopisha okuqukethwe kokulondoloza kokuqala ku-GitHub kwikhompyutha yakho.
 
 ## Dala igatsha
 
@@ -66,7 +63,7 @@ Ngokwesibonelo
 ```
 git checkout -b engeza-adam-kowalski
 ```
-(Igama legatsha ayidingi ukuba izwi engeza kuwo, kodwa into enengqondo ukufaka ngoba inhloso yaleli gatsha ukwengeza igama lakho uhlu.)
+(Igama legatsha alidingi ukuba izwi engeza kuwo, kodwa into enengqondo ukufaka ngoba inhloso yaleli gatsha ukwengeza igama lakho uhlu.)
 
 ## Yenza ushintsho oludingekile bese wenza lezo zinguquko
 
@@ -93,13 +90,13 @@ ukufaka esikhundleni `<your-name>` ngegama lakho.
 
 ## Shintsha izinguquko ku-GitHub
 
-Pushisa izinguquko zakho usebenzisa umyalo `git push`:
+Pusha izinguquko zakho ngokusebenzisa umyalo `git push`:
 
 ```
 git push origin <add-your-branch-name>
 ```
 
-kufaka esikhundleni `<add-your-branch-name>` segama legatsha owadala ngaphambilini.
+kufaka esikhundleni `<add-your-branch-name>` igama legatsha owadala ngaphambilini.
 
 ## Thumela izinguquko zakho ukuze zibuyekezwe
 
@@ -111,7 +108,7 @@ Manje thumela isicelo sokudonsa.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Ngokushesha ngizohlanganisa zonke izinguquko zakho zibe yigatsha eliyinhloko laphrojekthi. Uzothola i-imeyili yesaziso uma izinguquko sezihlanganisiwe.
+Ngizohlanganisa zonke izinguquko zakho ngokushesha zibe yigatsha eliyinhloko laphrojekthi. Uzothola i-imeyili yesaziso uma izinguquko sezihlanganisiwe.
 
 ## Ungaphi lapho?
 
