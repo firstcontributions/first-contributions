@@ -166,6 +166,7 @@
 - [Roman Potapov](https://github.com/potap75
 - Adwai
 - [Ranmini Manditha](https://github.com/RanminiManditha)
+- [Kalani Jones](https://github.com/kalaniJ94/)
 - [Adeisda Leye](https://github.com/usernameisleye)
 - [Augustas Aujezes](https://github.com/aujezus)
 - [Måns Abrahamsson](https://github.com/pad918)
