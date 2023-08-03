@@ -1,5 +1,7 @@
 # Contributors
+
 !-- prettier-ignore-start -->
+
 - [Walter Goad](https://github.com/Goadlife1)
 - [Sanket Jaipuriar](https://github.com/RubyShanks)
 - [HacFlix](https://github.com/HacFlix)
@@ -6753,6 +6755,7 @@ Aadi Deshmukh
 - [Rawan Mahdi](https://github.com/rawanmahdi)
 - [abuttifulpigeon](https://github.com/abuttifulpigeon)
 - [Joan Cermeño](https://github.com/TheJoan684)
+- [Akash Prasad](https://github.com/AKASH-PRASAD7)
 - [Harsha M R](https://github.com/Harsha-Robosoft)
 - [Lucas Wang](https://github.com/lucaswang750)
 - [Karl Santos](https://github.com/santoskarl19)
