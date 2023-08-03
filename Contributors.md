@@ -30,6 +30,7 @@
 - [Jigar Thummar](https://github.com/jigarthummar)
 - [lupitacode](https://github.com/lupitacode)
 - [Shivadharshan Lingeswaran](https://github.com/XoxRumbleLorexoX)
+- [Deepak Shukla](https://github.com/Flames004)
 - [Thalachanar] (https://github.com/Thalachanar)
 - [gmartineza](https://github.com/gmartineza)
 - [Shivadharshan Lingeswaran] (https://github.com/XoxRumbleLorexoX)
