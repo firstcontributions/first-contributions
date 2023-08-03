@@ -13,6 +13,7 @@
 - [Pavlos Orfanidis](https://github.com/porfanid)
 - [Deepak](https://github.com/ldpacl)
 - [Ryuuren](https://github.com/Ryuuren)
+- [RanjanTheDoer](https://github.com/RanjanTheDoer)
 - [OmriOn](https://github.com/OmriOn)
 - [Abhay Pratap Singh](https://github.com/AbhaysCode)
 - [Metcalfe](https://github.com/MetcalfeWal)
