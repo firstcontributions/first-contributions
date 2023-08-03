@@ -6755,6 +6755,7 @@ Aadi Deshmukh
 - [Rawan Mahdi](https://github.com/rawanmahdi)
 - [abuttifulpigeon](https://github.com/abuttifulpigeon)
 - [Joan Cermeño](https://github.com/TheJoan684)
+- [Akash Prasad](https://github.com/AKASH-PRASAD7)
 - [Harsha M R](https://github.com/Harsha-Robosoft)
 - [Lucas Wang](https://github.com/lucaswang750)
 - [Karl Santos](https://github.com/santoskarl19)
@@ -6798,4 +6799,3 @@ Aadi Deshmukh
 - [Xander Clemens](https://github.com/XanderRubio)
 - [Candy](https://github.com/candiii)
 - [Joanna](https://github.com/jgmbl)
-- [Akash Prasad](https://github.com/AKASH-PRASAD7)
