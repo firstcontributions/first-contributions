@@ -6207,6 +6207,7 @@ Aadi Deshmukh
 - [Yisacc Aberham](https://github.com/yisacc)
 - [Rowell Dinolan](https://github.com/rowelld)
 - [JohnSimith](https://github.com/JohnSimith)
+<<<<<<< Updated upstream
 - [Sree Kumar](https://github.com/weebees)
 - [Sonja Kitanoska](https://github.com/Sonja-Kitanoska)
 - [Huda Sajjad](https://github.com/h-s-99)
@@ -6784,3 +6785,8 @@ Aadi Deshmukh
 - [Pratiksha](https://github.com/Pratiksha1309)
 - [MKremnev](https://github.com/mkremnev)
 - [Swapnil Satardey](https://github.com/swapnilsatardey)
+=======
+- [Ngo Phu Hien](https://github.com/flopffygrape)
+<!-- prettier-ignore-end -->
+Adan Navejas
+>>>>>>> Stashed changes
