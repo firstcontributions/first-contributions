@@ -15,6 +15,7 @@
 - [Metcalfe](https://github.com/MetcalfeWal)
 - [devsaga22](https://github.com/devsaga22)
 - [Dewald](https://github.com/HaloBoss777)
+- [Balaji Jegadeesh](https://github.com/Vbj1808)
 - [guillemboada](https://github.com/guillemboada)
 - [Albin N J](https://github.com/AlbinN-J)
 - [Ayoubrabiya](https://github.com/Ayoubrabiae)
