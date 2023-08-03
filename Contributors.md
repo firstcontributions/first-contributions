@@ -1177,6 +1177,7 @@
 - [Shreshth Rajpal](https://github.com/shreshthr)
 - [jayasekharreddy-telluri](https://github.com/jayasekharreddy-telluri)
 - [V205Arduino](https://github.com/V205Arduino)
+- [Viktor Mihalyi](https://github.com/benchov)
 - [Andrei Nicola](https://github.com/Nico7777777)
 - [Eni Zeza](https://github.com/enizeza)
 - [Sean Cooper](https://github.com/scoops52)
