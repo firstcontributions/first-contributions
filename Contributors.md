@@ -23,6 +23,7 @@
 - [sailorworks](https://github.com/sailorworks)
 - [Akash Suresh Ghadge](https://github.com/akashghadge)
 - [Adekilekun Abdullahi](https://github.com/adekilekunabdullahi)
+- [Ripa] (https://github.com/riparuk)
 - [kyrill belomenov](https://github.com/kybe236)
 - [Manzil Shrestha](https://github.com/777Mnzl)
 - [Manu Perez] (https://github.com/ManuPer3z)
