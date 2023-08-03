@@ -44,6 +44,7 @@
 - [gmartineza](https://github.com/gmartineza)
 - [Shivadharshan Lingeswaran] (https://github.com/XoxRumbleLorexoX)
 - [K B]
+  [JP] (https://github.com/jonathanpreston)
 - [Saikiran6694]
 - [Abel Tesfa] (https://github.com/abeltesfa)
 - [bencas21] (https://github.com/bencas21)
