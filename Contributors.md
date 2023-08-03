@@ -1,5 +1,7 @@
 # Contributors
+
 !-- prettier-ignore-start -->
+
 - [Walter Goad](https://github.com/Goadlife1)
 - [Sanket Jaipuriar](https://github.com/RubyShanks)
 - [HacFlix](https://github.com/HacFlix)
@@ -6796,3 +6798,4 @@ Aadi Deshmukh
 - [Xander Clemens](https://github.com/XanderRubio)
 - [Candy](https://github.com/candiii)
 - [Joanna](https://github.com/jgmbl)
+- [Akash Prasad](https://github.com/AKASH-PRASAD7)
