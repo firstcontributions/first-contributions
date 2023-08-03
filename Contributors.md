@@ -3957,6 +3957,7 @@
 - [Alex Levinson](https://github.com/alcl00)
 - [Andr ﾃｩ Carvalhal](https://github.com/ANDREC1986)
 - [Cody LeRoy]()
+- [Ebrahim Naveed]
 - [Taylor Spencer](https://github.com/tspencer0917)
 - [Rahul Saha](https://github.com/Rahul10Saha)
 - [Guilherme Moraes](https://github.com/guilhermemoraes1)
