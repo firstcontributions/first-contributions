@@ -2060,6 +2060,7 @@
 - [Noobility](https://github.com/Noobility)
 - [Abtuly](https://github.com/Abtuly)
 - Tejas Chouhan
+- [DioDoesNotCare](https://github.com/DioDoesNotCare/first-contributions)
 - [Luca Castronova](https://github.com/lucastronova)
 - [Jay Singh](https://github.com/JaySingh79)
 - [Champion](https://github.com/champion-chenpeng)
