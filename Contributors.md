@@ -418,6 +418,7 @@
 - [Sinjin John]
 - [Vishnu Bansal](https://github.com/vishnubansal001)
 - [Piyush Yadav](https://github.com/piyush-0013)
+- [Svn1x](https://github.com/svn1x)
 - [Emiliano López](https://github.com/emilianolch)
 - [MiguelOrtsB](https://github.com/MiguelOrtsB)
 - [Yuwanita](https://github.com/Yunawitap/)
