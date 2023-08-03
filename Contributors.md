@@ -575,6 +575,7 @@
 - [Prasad Joshi](https://github.com/predatorprasad)
 - [Anant shukla](https://github.com/Anantshukla007)
 - [Ritika Mandal](https://github.com/Ritika1705)
+- [Nethsaral](https://github.com/Nethsara)
   [Aniket Gupta]
 - [Sumit Kumar](https://github.com/sumit970)
 - [Louie Andrew Capulso](https://github.com/azeunkn0wn)
