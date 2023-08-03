@@ -183,6 +183,7 @@
 - [Peter Ludwig](https://github.com/peterdanludwig)
 - [Krishnakumar V](https://github.com/krishkdev)
 - [Wojciech Żółkowski](https://github.com/wer08)
+- [Rahel Kemal](https://github.com/rahelskemal)
 - [James Ochapa](https://github.com/Ocee1)
 - [James Smead](https://github.com/jsmead39)
 - [Riley Livingston](https://github.com/Riley-livingston)
