@@ -142,7 +142,7 @@ git checkout -b your-new-branch-name
 For example:
 
 ```
-git checkout -b add-alonzo-church
+git checkout -b add-alonzo-church 
 ```
 
 ## Make necessary changes and commit those changes
