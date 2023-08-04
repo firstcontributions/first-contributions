@@ -13,6 +13,7 @@
 - [Omphile Mokhuane](https://github.com/OmphileMokhuane/OmphileMokhuane)
 - [Tasmiyah Nakooda](https://github.com/nakoodatasmiyah)
 - [Antyss77](https://github.com/Antyss77)
+-[Anurag](https://github.com/dot-D69)
 - [Alvin Escobar](https://github.com/GitAlvinLine)
 - [Pavlos Orfanidis](https://github.com/porfanid)
 - [Deepak](https://github.com/ldpacl)
