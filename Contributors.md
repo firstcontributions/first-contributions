@@ -189,6 +189,7 @@
 - [Samrat Ghosh](https://github.com/samratghosh291)
 - [Lee Eros Galaad Dias de Moura](https://github.com/LeeEros)
 - [Luke Wardle](https://github.com/LukeWardle)
+- [Lukas Howlett](https://github.com/Lukas-Howlett)
 - [Chris Mulvihill](https://github.com/MulChris13/)
 - [Peter Ludwig](https://github.com/peterdanludwig)
 - [Krishnakumar V](https://github.com/krishkdev)
