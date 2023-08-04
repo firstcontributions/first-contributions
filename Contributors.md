@@ -6842,3 +6842,4 @@ Aadi Deshmukh
 - [VitaminZ0](https://github.com/VitaminZ0)
 - [Peanut086](https://github.com/Peanut086)
 - [GargiMittal](https://github.com/GargiMittal)
+- [RiddhaBose](https://github.com/boseriddha)
