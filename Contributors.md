@@ -1770,6 +1770,7 @@
 - [Moritz Rose](https://github.com/moritzrose)
 - [Hastimal Shah](https://github.com/hasti)
 - [Rohan Fulzele](https://github.com/Rohanfulzele)
+- [Christine LuBean](https://github.com/christinelubean)
 - [Taurai Mutimutema](https://github.com/rusiqe)
 - [nyinyisoe](https://github.com/nyinyisoe1981)
 - [Rishit Mori](https://github.com/RishitMori)
