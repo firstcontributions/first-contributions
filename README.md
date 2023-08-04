@@ -134,16 +134,6 @@ For example:
 git switch -c add-alonzo-church
 ```
 
-If the `git switch` doesn't work, try the command below:
-```
-git checkout -b your-new-branch-name
-```
-
-For example:
-
-```
-git checkout -b add-alonzo-church 
-```
 
 ## Make necessary changes and commit those changes
 
