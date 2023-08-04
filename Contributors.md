@@ -6825,9 +6825,6 @@ Aadi Deshmukh
 - [Tamajit Das](https://github.com/devdas98)
 - [VitaminZ0](https://github.com/VitaminZ0)
 - [Peanut086](https://github.com/Peanut086)
-<<<<<<< HEAD
 - [Gokulkrish5](https://github.com/Gokulkrish5)
 - 
-=======
->>>>>>> 7c45924c8ba1ee6532c46d27a5893f2946231522
 
