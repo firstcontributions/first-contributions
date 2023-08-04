@@ -4,6 +4,7 @@
 
 - [Walter Goad](https://github.com/Goadlife1)
 - [David Alexander](https://github.com/ogiorgil)
+- [Jigyasa Singhal](https://github.com/jigyasaSinghal)
 - [Sanket Jaipuriar](https://github.com/RubyShanks)
 - [HacFlix](https://github.com/HacFlix)
 - [Zaid Ismail Asvat Alias Vader](https://github.com/Vader980)
@@ -6735,6 +6736,7 @@ Aadi Deshmukh
 - [Md. Faridul Hassan](https://github.com/faridulhassan)
 - [MrDiamond007](https://github.com/MrDiamond007)
 - [Dan Calabia](https://github.com/DandarandanEC)
+- [Siddharth](https://github.com/Siddhart899)
 - [Carlos Grajeda](https://github.com/grajedacarlos)
 - [Rabab Shayra](https://github.com/Rababdhruba1996)
 - [Gabriel Mackenzie](https://github.com/Kenn-243)
@@ -6822,4 +6824,7 @@ Aadi Deshmukh
 - [Gardner](https://github.com/gardnerdev)
 - [Tamajit Das](https://github.com/devdas98)
 - [VitaminZ0](https://github.com/VitaminZ0)
+- [Peanut086](https://github.com/Peanut086)
 - [Gokulkrish5](https://github.com/Gokulkrish5)
+
+
