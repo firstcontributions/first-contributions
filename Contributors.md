@@ -6797,6 +6797,7 @@ Aadi Deshmukh
 - [CodeBears](https://github.com/CodeBears)
 - [Tienux](https://github.com/Tienux)
 - [Sree Pavan](https://github.com/Sree-Pavan)
+- [Vipin Kumar Yadav](https://github.com/vy211)
 - [Dorian Chenard](https://github.com/dorianche)
 - [Serkan Sacma](https://github.com/srkans)
 - [mohammed_alj](https://github.com/mohammed-alj2)
