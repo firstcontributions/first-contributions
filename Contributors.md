@@ -102,6 +102,7 @@
 - [Mohammad Haaris Javed](https://github.com/haaris272k)
 - [Watrgoat](https://github.com/watrgoat)
 - Robonova 8)
+- Ume-Salma
 - [Brenden Blake](https://github.com/blakebt)
 - [Nadine Oka](https://github.com/nadineoka)
 - [Ibi Eldahuk](https://github.com/ibieldahuk)
