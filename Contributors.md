@@ -88,6 +88,7 @@
 - [ryantra] (https://github.com/ryantra)
 - [shinobi3142](https://github.com/darkGhost3142)
 - [iamroshankr](https://github.com/iamroshankr)
+- [KumBrian](https://github.com/KumBrian)
 - [Aaryaveer Rajput](https://github.com/AKR-2803)
 - [Raphael Monte](https://github.com/rmonte)
 - [SpongeJohnSquareLennon](https://github.com/SpongeJohnSquareLennon)
