@@ -6749,6 +6749,7 @@ Aadi Deshmukh
 - [Rishabh Sarang](https://github.com/Rishabh-Sarang)
 - [Robbyn Tongue](https://github.com/RTongue)
 - [Enrica Melissa Panjaitan](https://github.com/marinebubble)
+- [Xander Vaes](https://github.com/XanderV-2158642)
 - [Nachiketh s H](https://github.com/nachiketh25)
 - [Paras Aggarwal](https://github.com/Paraass)
 - [sk](https://github.com/kolachinas)
