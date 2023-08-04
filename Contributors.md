@@ -6754,6 +6754,7 @@ Aadi Deshmukh
 - [sholeh](https://github.com/sholeh007)
 - [Penghang Yu](https://github.com/demonph10)
 - Meeeees
+- [Spencer Pepper](https://github.com/spencerpepper)
 - [Pradeep Mehta]
 - [Ebrahim Haji](https://github.com/ebrahim95)
 - [Chris Dowd](https://github.com/ChrisDowdDeveloper)
