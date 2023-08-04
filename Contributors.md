@@ -6735,6 +6735,7 @@ Aadi Deshmukh
 - [Md. Faridul Hassan](https://github.com/faridulhassan)
 - [MrDiamond007](https://github.com/MrDiamond007)
 - [Dan Calabia](https://github.com/DandarandanEC)
+- [Siddharth](https://github.com/Siddhart899)
 - [Carlos Grajeda](https://github.com/grajedacarlos)
 - [Rabab Shayra](https://github.com/Rababdhruba1996)
 - [Gabriel Mackenzie](https://github.com/Kenn-243)
