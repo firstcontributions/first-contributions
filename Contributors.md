@@ -3,6 +3,7 @@
 !-- prettier-ignore-start -->
 
 - [Walter Goad](https://github.com/Goadlife1)
+- [David Alexander](https://github.com/ogiorgil)
 - [Sanket Jaipuriar](https://github.com/RubyShanks)
 - [HacFlix](https://github.com/HacFlix)
 - [Zaid Ismail Asvat Alias Vader](https://github.com/Vader980)
