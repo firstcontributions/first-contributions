@@ -4,6 +4,7 @@
 
 - [Walter Goad](https://github.com/Goadlife1)
 - [David Alexander](https://github.com/ogiorgil)
+- [Jigyasa Singhal](https://github.com/jigyasaSinghal)
 - [Sanket Jaipuriar](https://github.com/RubyShanks)
 - [HacFlix](https://github.com/HacFlix)
 - [Zaid Ismail Asvat Alias Vader](https://github.com/Vader980)
