@@ -6849,6 +6849,7 @@ Aadi Deshmukh
 - [YuKyungKim](https://github.com/KimYuKyung16)
 - [Gardner](https://github.com/gardnerdev)
 - [Tamajit Das](https://github.com/devdas98)
+- [Lam Hoang](https://github.com/lamrhoang)
 - [VitaminZ0](https://github.com/VitaminZ0)
 - [Peanut086](https://github.com/Peanut086)
 - [GargiMittal](https://github.com/GargiMittal)
