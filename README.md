@@ -133,6 +133,18 @@ For example:
 ```
 git switch -c add-alonzo-church
 ```
+
+If the `git switch` doesn't work, try the command below:
+```
+git checkout -b your-new-branch-name
+```
+
+For example:
+
+```
+git checkout -b add-alonzo-church
+```
+
 ## Make necessary changes and commit those changes
 
 Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
