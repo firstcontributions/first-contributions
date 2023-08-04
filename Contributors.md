@@ -2112,6 +2112,7 @@
 - [Ch Asha Sai Deepika](https://github.com/Deepika2002)
 - [Elia Volpi](https://github.com/creambrunette)
 - [Wandie Innocent](https://github.com/wandieinnocents)
+- [Logan Mclachlan](https://github.com/LoganGMclachlan)
 - [Gregory Morales](https://github.com/gregory-mc)
 - [faiziverse](https://github.com/faiziverse)
 - [kanosy88](https://github.com/kanosy88)
