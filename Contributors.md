@@ -2,6 +2,7 @@
 
 !-- prettier-ignore-start -->
 - [Rohit Chaware](https://github.com/R4Rohit23)
+- [Hammad](https://github.com/7ammad404)
 - [MH Gaming](https://github.com/MHGamingINC)
 - [Shahzaib Iqbal](https://github.com/Shahzaib-Iqbal-1057)
 - [Abdul Lathif Shaik](https://github.com/lathifshaik)
