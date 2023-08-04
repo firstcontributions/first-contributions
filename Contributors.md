@@ -12,6 +12,7 @@
 - [Alvin Escobar](https://github.com/GitAlvinLine)
 - [Pavlos Orfanidis](https://github.com/porfanid)
 - [Deepak](https://github.com/ldpacl)
+- [Samuel Lanteigne](https://github.com/Samlant)
 - [Ryuuren](https://github.com/Ryuuren)
 - [RanjanTheDoer](https://github.com/RanjanTheDoer)
 - [OmriOn](https://github.com/OmriOn)
