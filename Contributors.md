@@ -52,6 +52,7 @@
 - [Shivadharshan Lingeswaran] (https://github.com/XoxRumbleLorexoX)
 - [K B]
   [JP] (https://github.com/jonathanpreston)
+  [Vincent Mintv] (https://github/MintV-Vincent)
 - [Saikiran6694]
 - [Abel Tesfa] (https://github.com/abeltesfa)
 - [bencas21] (https://github.com/bencas21)
