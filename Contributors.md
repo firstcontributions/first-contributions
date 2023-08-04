@@ -78,6 +78,7 @@
 - [Monika Garg](https://github.com/gargmonika)
 - [George Baraza](https://github.com/Georgeprog-275)
 - [mnj-gh](https://github.com/mnj-gh)
+- [7e6i](https://github.com/7e6i)
 - [yuxm](https://github.com/yux-m)
 - [Talha Yousuf](https://github.com/talhayousuff)
 - [DivyaAgrawal](https://github.com/divyaagrawal877)
