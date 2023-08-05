@@ -3,6 +3,7 @@
 !-- prettier-ignore-start -->
 - [Rohit Chaware](https://github.com/R4Rohit23)
 - [Hammad](https://github.com/7ammad404)
+- [Vinil Jose](https://github.com/viniljose)
 - [Emmanuel Ogheneovo Awefada](https://github.com/EmmanuelOvo-js)
 - [Mohamad Oghli](https://github.com/mohammad-oghli)
 - [MH Gaming](https://github.com/MHGamingINC)
@@ -4067,6 +4068,7 @@
 - [Karanjot Singh](https://karanjot.vercel.app)
 - [Sachit Khadka](https://github.com/Sachit56/first-contributions)
 - [SHUBHAM PATIDAR](https://www.linkedin.com/in/shubham-patidar-98ba5b148)
+- [Yousef Alaa](https://github.com/masaftic)
 - [Apurv Tiwari](https://github.com/Mahakal0123)
 - [Prasoon Kumar](https://github.com/Honey2339)
 - [Ajith R Thampi](https://github.com/ajithrthampi)
