@@ -2145,6 +2145,7 @@
 - [grkaym](https://github.com/grkaym)
 - [Ali Habibian](https://github.com/ali-habibian)
 - [Abhishek Thakur](https://github.com/iamabhishekt)
+- [Rajveer Hayer](https://github.com/RajveerHayer09)
 - [Jason Wang](https://github.com/JasonWang1125)
 - [Shravan Revanna](https://github.com/myselfshravan)
 - [Snathu](https://github.com/Snathu52)
