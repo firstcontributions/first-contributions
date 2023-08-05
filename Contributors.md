@@ -6865,3 +6865,4 @@ Aadi Deshmukh
 - [Madhan13K](https://github.com/Madhan13K)
 - [Rina Reimer](https://github.com/rina-reimer)
 - [Brandon (Zhihao) Lu]()
+- [Sujatro Bhadra](https://github.com/sujatrobhadra)
