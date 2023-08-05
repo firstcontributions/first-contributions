@@ -158,6 +158,7 @@
 - [Ayo Michaels](https://github.com/ayomichaels)
 - [Zane]
 - [Deepika Indran](https://github.com/deepiikaa24)
+- [Solomon Onwuasoanya](https://github.com/dybran)
 - [Brijesh Yadav](https://github.com/ibrijesh)
 - [Oladimeji Adeyemi](https://github.com/Crestward)
 - [Oscar Juarez](https://github.com/OscarJO20)
