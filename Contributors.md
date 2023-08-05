@@ -6873,3 +6873,4 @@ Aadi Deshmukh
 - [Rina Reimer](https://github.com/rina-reimer)
 - [Brandon (Zhihao) Lu]()
 - [Sujatro Bhadra](https://github.com/sujatrobhadra)
+- [Aritra Chakraborty](https://github.com/aritraChakraborty101)
