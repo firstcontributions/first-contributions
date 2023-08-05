@@ -4895,7 +4895,7 @@
 - [Albert Xing](https://github.com/xingalbert)
 - [Lionel Ritchie](https://github.com/lionelritchie29)
 - [Diego Uchoa Neves](https://github.com/diego-uchoa)
-- [James Christley](https://github.com/JamesChristley)
+- [James Christley](https://github.com/JamesChristley
 - [Kavya](https://github.com/KavyaJampani)
 - [Sussurr](https://github.com/sussurr127)
 - [Khemchand](https://github.com/khemchand-twt11)
@@ -4905,6 +4905,7 @@
 - [Prin Phongsavan](https://github.com/pphongsavan)
 - [William Liu](https://github.com/liuwllm)
 - [AK](https://github.com/onefastcat)
+- [Muhammad Rizwan](https://github.com/rizwanmoulvi)
 - [Tejas Bhardwaj](https://github.com/avibhardwaj233)
 - [Gilbert Adikankwu](https://github.com/functionguyy)
 - [Gambhir Sharma](https://github.com/gambhirsharma)
