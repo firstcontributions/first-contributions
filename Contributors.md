@@ -2302,6 +2302,7 @@
 - [WinnerJack](https://github.com/winnerjack)
 - [Aaryan](https://github.com/Aaryan0484)
 - [Robert Chicas](https://github.com/Caschir)
+- [Andreev Semen](https://github.com/XCemaXX)
 - [Abhijeet Yadav](https://github.com/thecodeblood)
 - [A_Solo](https://github.com/ASolooo)
 - [Robert Garofalo](https://github.com/robertgarofalo)
