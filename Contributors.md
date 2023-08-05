@@ -3159,6 +3159,7 @@
 - [koya-tech](https://github.com/koya-tech)
 - [Kushagra Gupta](https://github.com/MistyRavager)
 - [James-Christie](https://github.com/James-Christie)
+- [Ritesh-Hajare] (https://github.com/RiteshHajare)
 - [ARYAN](https://github.com/aryanhr0001)
 - [Anthony Lorraine](https://github.com/AnthonyLorraine)
 - [CrazyOutOff](https://github.com/CrazyOutOff)
