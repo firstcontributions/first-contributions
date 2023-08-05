@@ -6,7 +6,7 @@ Terkadang Anda ingin menghapus file dari Git, tetapi Anda tidak ingin menghapusn
 
 ## Apa yang terjadi?
 
-Git tidak akan lagi melacak perubahan pada file yang dihapus. Sedangakn untuk Git, file ini sudah tidak ada lagi. Jika Anda mencari file tersebut di disk Anda, Anda melihat bahwa file itu masih ada.
+Git tidak akan lagi melacak perubahan pada file yang dihapus. Sedangakan untuk Git, file ini sudah tidak ada lagi. Jika Anda mencari file tersebut di disk Anda, Anda melihat bahwa file itu masih ada.
 
 Pada contoh di atas, kita menggunakan flag `--cached`. Jika kita tidak menggunakannya, Git juga akan menghapus file tersebut dari disk kita.
 
@@ -18,6 +18,6 @@ Jika sekarang kita membuat komit dengan `git commit -m "Hapus file1.js"` dan kir
 
   `git rm file1.js file2.js file3.js --cached`
 
-- Anda dapat menggunakan wildcard (\*) untuk menghapus file yang serupa. Misalnya, untuk menghapus semua file .txt dari repositori Anda, gunakan perintah:
+- Anda dapat menggunakan wildcard (\*) untuk menghapus file serupa. Misalnya, untuk menghapus semua file .txt dari repositori Anda, gunakan perintah:
 
   `git rm *.txt --cached`
