@@ -4896,6 +4896,7 @@
 - [Lionel Ritchie](https://github.com/lionelritchie29)
 - [Diego Uchoa Neves](https://github.com/diego-uchoa)
 - [James Christley](https://github.com/JamesChristley)
+- [Muhammad Rizwan](https://github.com/rizwanmoulvi)
 - [Kavya](https://github.com/KavyaJampani)
 - [Sussurr](https://github.com/sussurr127)
 - [Khemchand](https://github.com/khemchand-twt11)
