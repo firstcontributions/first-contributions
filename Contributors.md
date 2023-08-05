@@ -1,6 +1,7 @@
 x# Contributors
 !-- prettier-ignore-start -->
 - [Antyss77](https://github.com/Antyss77)
+- [leohchoi](https://github.com/leohchoi)
 - [OmriOn] (https://github.com/OmriOn)
 - [Abhay Pratap Singh](https://github.com/AbhaysCode)
 - [guillemboada](https://github.com/guillemboada)
