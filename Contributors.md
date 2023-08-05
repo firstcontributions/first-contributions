@@ -1,6 +1,7 @@
 # Contributors
 
 !-- prettier-ignore-start -->
+- [Allan Moura](https://github.com/allansmora/)
 - [Rohit Chaware](https://github.com/R4Rohit23)
 - [Hammad](https://github.com/7ammad404)
 - [Vinil Jose](https://github.com/viniljose)
