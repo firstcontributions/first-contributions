@@ -125,6 +125,7 @@
 - [Joel Samaniego](https://github.com/samajoel)
 - [David Payne] (https://github.com/davpayne)
 - [Abhay Kukade]
+- [Matthew Barhou](https://github.com/MattBarhou)
 - [Ezgi Ozgan](https://github.com/EzgiOzgan)
 - [Oddballlnner](https://github.com/Oddballlnner)
 - [Kobby-Jones](https://github.com/Kobby-Jones)
