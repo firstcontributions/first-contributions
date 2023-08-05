@@ -6862,5 +6862,6 @@ Aadi Deshmukh
 - [Madhan-Kumar-M](https://github.com/Madhan13K)
 - [SrujanRathod](https://github.com/srujan10000)
 - [YLS](https://github.com/harrywinchester)
+- [Madhan13K](https://github.com/Madhan13K)
 - [Rina Reimer](https://github.com/rina-reimer)
 - [Brandon (Zhihao) Lu]()
