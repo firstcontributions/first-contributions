@@ -235,6 +235,7 @@
 - [Rohit Jain](https://github.com/abcrohit)
 - [Anubhav Saxena](https://github.com/AnubhavSaxena3)
 - [Estela Miria Kulibaba](https://github.com/miriestela)
+- [Manik Malhotra](https://github.com/malhotramanik)
 - [Valdenir Telesca](https://github.com/Valdenir-Telesca)
 - [Nick](https://github.com/nickkl)
 - [Nick Houlahan](https://github.com/nickhoulahan)
