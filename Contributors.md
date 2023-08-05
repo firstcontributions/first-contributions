@@ -3006,6 +3006,7 @@
 - [Hardik Sharma]()
 - [Luis Carrera](https://github.com/DesNDev22)
 - [Chana Ilani](https://github.com/chanafriedman)
+- [jonascencio] (https://github.com/jonascencio)
 - [Gunj Joshi](https://github.com/gunjjoshi)
 - [Jonathan Xu](https://github.com/JonathanXu8)
 - [Gamapg](https://github.com/gamapg)
