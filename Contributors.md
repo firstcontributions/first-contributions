@@ -9,6 +9,7 @@
 - [MH Gaming](https://github.com/MHGamingINC)
 - [Victor Ikeme] (https://github.com/CloudIkeme)
 - [Shahzaib Iqbal](https://github.com/Shahzaib-Iqbal-1057)
+- [Kaif Arslan](https://github.com/KaifArslan)
 - [Abdul Lathif Shaik](https://github.com/lathifshaik)
 - [Walter Goad](https://github.com/Goadlife1)
 - [David Alexander](https://github.com/ogiorgil)
