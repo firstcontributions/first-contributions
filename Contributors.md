@@ -191,6 +191,7 @@ Franco Lai
 - [Katherine Robles](https://github.com/KMR1221)
 - [Ayo Michaels](https://github.com/ayomichaels)
 - [Zane]
+- [harry2262](https://github.com/harry2262)
 - [Deepika Indran](https://github.com/deepiikaa24)
 - [Solomon Onwuasoanya](https://github.com/dybran)
 - [Brijesh Yadav](https://github.com/ibrijesh)
