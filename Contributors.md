@@ -1,6 +1,9 @@
 # Contributors
 
 !-- prettier-ignore-start -->
+
+* [Mark Tu](https://github.com/MarksTheme)
+
 - [Allan Moura](https://github.com/allansmora/)
 - [Rishav Rajak](https://github.com/rik030)
 - [Nikita Von] (https://github.com/plskncktff)
