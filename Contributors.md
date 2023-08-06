@@ -59,6 +59,7 @@
 - [Shuaibu Abdulkadir](https://github.com/shuaibu222)
 Franco Lai
 - [Dewald](https://github.com/HaloBoss777)
+- [AMIT VERMA](https://github.com/Geekverma)
 - [Balaji Jegadeesh](https://github.com/Vbj1808)
 - [guillemboada](https://github.com/guillemboada)
 - [Albin N J](https://github.com/AlbinN-J)
