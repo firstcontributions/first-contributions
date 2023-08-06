@@ -3,6 +3,7 @@
 !-- prettier-ignore-start -->
 - [Thura Hein](https://github.com/thurahein123)
 
+- [James Ridgeway(https://github.com/jaridgeway)
 * [Mark Tu](https://github.com/MarksTheme)
 - [Priyanshu Chaudhary](https://github.com/ChaudharyPriyanshu88)
 - [Allan Moura](https://github.com/allansmora/)
