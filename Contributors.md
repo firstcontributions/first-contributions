@@ -6883,3 +6883,4 @@ Aadi Deshmukh
 - [Sujatro Bhadra](https://github.com/sujatrobhadra)
 - [Aritra Chakraborty](https://github.com/aritraChakraborty101)
 - [Anthony Chen] (https://github.com/Achen2089)
+- [Gustavo Canseco] (https://github.com/guss89)
