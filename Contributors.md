@@ -15,8 +15,9 @@
 - [Sangamesh Math](https://github.com/sangamesh-Math)
 - [Vinil Jose](https://github.com/viniljose)
 - [Emmanuel Ogheneovo Awefada](https://github.com/EmmanuelOvo-js)
+-[Emmanuel Ogheneovo Awefada](https://github.com/yasirmb)
 - [Mohamad Oghli](https://github.com/mohammad-oghli)
-- [MH Gaming](https://github.com/MHGamingINC)
+-
 - [Victor Ikeme] (https://github.com/CloudIkeme)
 - [Shahzaib Iqbal](https://github.com/Shahzaib-Iqbal-1057)
 - [Kaif Arslan](https://github.com/KaifArslan)
