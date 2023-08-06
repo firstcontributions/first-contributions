@@ -323,6 +323,7 @@ Franco Lai
 - [Abhishek Shukla](https://github.com/abss123)
 - [Adam Smith](https://github.com/Roadlyfe)
 - [Daniel Leinweber](https://github.com/daniel-leinweber)
+- [Alex Chaussaroux](https://github.com/ALEXchauss63)
 - [0126kjw](https://github.com/0126kjw)
 - [Joseph Ani](https://github.com/joe-ani)
 - [harshvir potpose](https://github.com/akagami-harsh)
