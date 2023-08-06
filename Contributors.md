@@ -103,6 +103,7 @@
 - [Ronald van Gelder](https://github.com/rvangelder11)
   Oatimeany
 - [Brandonawan](https://github.com/Brandonawan)
+- [Mohit Manglani](https://github.com/mohitmanglani2906)
 - [Patricia Muyambiri] (https://github.com/Trish-Muyambiri)
 - [JohnLc12-9](https://github.com/JohnLc12-9)
   [Olanrewaju Ibrahim](https://github.com/9jadeveloper)
