@@ -5951,6 +5951,7 @@ Aadi Deshmukh
 - [Jhon Arias](https://github.com/jhonfredi)
 - [Simon Random](https://github.com/random-guyy)
 - [Muinde Nthusi](https://github.com/nthusi)
+- [Kumani Kidd] (https://github.com/amancalledkidd)
 - [Hemant Ajmera](https://github.com/HemantAjmera)
 - [Nathaniel Vo](https://github.com/midnightslushie)
 - [Lucas Frigo de Souza](https://github.com/lfrigodesouza)
