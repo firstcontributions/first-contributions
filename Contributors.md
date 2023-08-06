@@ -5,6 +5,7 @@
 * [Mark Tu](https://github.com/MarksTheme)
 
 - [Allan Moura](https://github.com/allansmora/)
+- [Raghav Garg] (https://github.com/GargRaghav17)
 - [Rishav Rajak](https://github.com/rik030)
 - [Nikita Von] (https://github.com/plskncktff)
 - [Nathan Moehlmann](https://github.com/nmoehlmann/)
