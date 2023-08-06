@@ -168,6 +168,24 @@ jobs:
         uses: actions/github-script@v5
         with:
           script: |
+            // Fetch the list of comments for the current pull request
+            const comments = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+            });
+
+            // Find the previous comment made by the GitHub Action
+            const actionComment = comments.data.find(comment => comment.user.login === 'github-actions[bot]');
+
+            // If the previous comment exists, delete it
+            if (actionComment) {
+              await github.rest.issues.deleteComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: actionComment.id,
+              });
+            }
             const body = `Thank you for your pull request. This pull request contains changes in files which requires review. The following files were changed:\n\n  ${process.env.files_changed.trim() ? `\n\n${process.env.files_changed.trim().split(' ').map(file => `- ${file}`).join('\n')}` : ''}`
             github.rest.issues.createComment({
               owner: context.repo.owner,
