@@ -48,6 +48,7 @@
 - [Abhay Pratap Singh](https://github.com/AbhaysCode)
 - [Metcalfe](https://github.com/MetcalfeWal)
 - [devsaga22](https://github.com/devsaga22)
+Franco Lai
 - [Dewald](https://github.com/HaloBoss777)
 - [Balaji Jegadeesh](https://github.com/Vbj1808)
 - [guillemboada](https://github.com/guillemboada)
