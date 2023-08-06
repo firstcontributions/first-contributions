@@ -174,10 +174,13 @@ jobs:
               repo: context.repo.repo,
               issue_number: context.issue.number,
             });
+            console.log(comments)
 
             // Find the previous comment made by the GitHub Action
             const actionComment = comments.data.find(comment => comment.user.login === 'github-actions[bot]');
 
+            console.log(actionComment)
+            
             // If the previous comment exists, delete it
             if (actionComment) {
               await github.rest.issues.deleteComment({
