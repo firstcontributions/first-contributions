@@ -4441,6 +4441,7 @@
 - [John-Paul Wernecke](https://github.com/Revicx)
 - [Harshavardhan Kolhatkar](https://github.com/EvilGenius1010)
 - [Shynee](https://github.com/Shynee1)
+- [divyasree-a](https://github.com/divyasree-a)
 - [Ashmeet Singh Monga](https://github.com/ashmeetsmonga)
 - [Tom Davis](https://github.com/tomjdavis4)
 - [Sahl Abdelrahman](https://github.com/sahl-a)
