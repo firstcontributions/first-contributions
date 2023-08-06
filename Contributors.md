@@ -785,7 +785,7 @@
 - [Bartłomiej Góra](https://github.com/bartgora)
 - [AlexRussss]
   Subhajit Bera
-
+- [Shaikh Soheil](https://github.com/soheilsheikh)
 # mansi :)
 
 -[Prayrit Srivastava](https://github.com/prayrit-srivastava)
