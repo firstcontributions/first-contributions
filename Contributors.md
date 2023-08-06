@@ -109,6 +109,7 @@ Franco Lai
 - [DivyaAgrawal](https://github.com/divyaagrawal877)
 - [hari](https://github.com/harisahu)
 - [Eduard Gheorghe](https://github.com/eduardgheorghe)
+- [Flamsaur](https://github.com/flamsaur)
 - [Mukul Padwal](https://github.com/mukulpadwal)
 - [Ronald van Gelder](https://github.com/rvangelder11)
   Oatimeany
