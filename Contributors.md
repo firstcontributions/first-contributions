@@ -1614,6 +1614,7 @@
 - [Sugam Goel](https://github.com/Sugamgoel28)
 - [Damoon Darvishi](https://github.com/DamoonDarvishi)
 - [Shubham Tamrakar](https://github.com/shubham-tam)
+- [Miguel Ferreira](https://github.com/MiguelF07)
 - [Ritesh Mahato](https://github.com/Ritesh1625)
 - [Disha Vig](https://github.com/vigdisha)
 - [Omi](https://github.com/NormTurtle)
