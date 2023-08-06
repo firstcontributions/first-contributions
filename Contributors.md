@@ -1,4 +1,4 @@
-# Contributors
+*# Contributors*
 
 !-- prettier-ignore-start -->
 - [Thura Hein](https://github.com/thurahein123)
@@ -39,6 +39,7 @@
 - [Antyss77](https://github.com/Antyss77)
 - [leohchoi](https://github.com/leohchoi)
 - [OmriOn] (https://github.com/OmriOn)
+- water
 - [Aakash Rajbhar](https://github.com/Aakash-Rajbhar)
 -[Anurag](https://github.com/dot-D69)
 - [Alvin Escobar](https://github.com/GitAlvinLine)
