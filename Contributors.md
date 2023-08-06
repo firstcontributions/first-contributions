@@ -726,6 +726,7 @@ Franco Lai
 - [Chirag Chouhan](https://github.com/Chirag-0)
 - [Samantha Madderom]
   Joni
+- [Andrea Leoni](https://github.com/andreleo02)
 - [Zackry Langford](https://github.com/zackrylangford)
 - [Kern Jacobo](https://github.com/kernpinoy)
 - [Arsalan](https://github.com/uddinArsalan)
