@@ -157,10 +157,6 @@ jobs:
               core.setFailed(error.message);
             }
 
-
-
-
-
       # Post a comment on the pull request if it was not merged automatically
       - name: Post comment on PR if not merged automatically
         # Check if the pull request only modifies the CONTRIBUTORS.md file
@@ -168,6 +164,25 @@ jobs:
         uses: actions/github-script@v5
         with:
           script: |
+            // fetch the list of comments for the current pull request
+            const comments = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+            });
+
+            // find the previous comment made by the GitHub Action
+            const actionComment = comments.data.find(comment => comment.user.login === 'github-actions[bot]');
+
+            // if the previous comment exists, delete it
+            if (actionComment) {
+              await github.rest.issues.deleteComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: actionComment.id,
+              });
+            }
+            // add comment about change in the PR
             const body = `Thank you for your pull request. This pull request contains changes in files which requires review. The following files were changed:\n\n  ${process.env.files_changed.trim() ? `\n\n${process.env.files_changed.trim().split(' ').map(file => `- ${file}`).join('\n')}` : ''}`
             github.rest.issues.createComment({
               owner: context.repo.owner,
