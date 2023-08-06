@@ -1,6 +1,7 @@
 # Contributors
 
 !-- prettier-ignore-start -->
+- [Thura Hein](https://github.com/thurahein123)
 - [Allan Moura](https://github.com/allansmora/)
 - [Nikita Von] (https://github.com/plskncktff)
 - [Nathan Moehlmann](https://github.com/nmoehlmann/)
