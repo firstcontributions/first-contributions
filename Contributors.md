@@ -16,6 +16,7 @@
 - [Kaif Arslan](https://github.com/KaifArslan)
 - [Abdul Lathif Shaik](https://github.com/lathifshaik)
 - [Walter Goad](https://github.com/Goadlife1)
+- [TriMadon](https://github.com/TriMadon)
 - [David Alexander](https://github.com/ogiorgil)
 - [Jigyasa Singhal](https://github.com/jigyasaSinghal)
 - [Moses Onche](https://github.com/Moses-Onche)
