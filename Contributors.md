@@ -2,6 +2,7 @@
 
 !-- prettier-ignore-start -->
 - [Allan Moura](https://github.com/allansmora/)
+- [Nikita Von] (https://github.com/plskncktff)
 - [Nathan Moehlmann](https://github.com/nmoehlmann/)
 - [Rohit Chaware](https://github.com/R4Rohit23)
 - [Hammad](https://github.com/7ammad404)
