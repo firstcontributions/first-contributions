@@ -7,6 +7,7 @@
 
 - [Allan Moura](https://github.com/allansmora/)
 - [LJ](https://github.com/ljolly30)
+- [Sai](https://github.com/sai-krishna-git)
 - [Raghav Garg] (https://github.com/GargRaghav17)
 - [Rishav Rajak](https://github.com/rik030)
 - [Nikita Von] (https://github.com/plskncktff)
