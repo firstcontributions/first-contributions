@@ -16,6 +16,7 @@
 - [Nathan Moehlmann](https://github.com/nmoehlmann/)
 - [Rohit Chaware](https://github.com/R4Rohit23)
 - [Ankur Verma](https://github.com/ankur55220/)
+- [Sumit Verma](https://github.com/SumitVerma2411)
 - [Hammad](https://github.com/7ammad404)
 - [Sangamesh Math](https://github.com/sangamesh-Math)
 - [Vinil Jose](https://github.com/viniljose)
