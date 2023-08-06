@@ -89,6 +89,7 @@ Franco Lai
   [Vincent Mintv] (https://github/MintV-Vincent)
 - [Saikiran6694]
 - [Harsha Jagannathan] (https://github.com/Harsha-Jagan)
+- [zihad18] (https://github.com/zihad18)
 - [Abel Tesfa] (https://github.com/abeltesfa)
 - [bencas21] (https://github.com/bencas21)
 - [Jake Campbell] (https://github.com/margielajake)
