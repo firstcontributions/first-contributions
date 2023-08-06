@@ -5,6 +5,7 @@
 - [Nikita Von] (https://github.com/plskncktff)
 - [Nathan Moehlmann](https://github.com/nmoehlmann/)
 - [Rohit Chaware](https://github.com/R4Rohit23)
+- [Ankur Verma](https://github.com/ankur55220/)
 - [Hammad](https://github.com/7ammad404)
 - [Vinil Jose](https://github.com/viniljose)
 - [Emmanuel Ogheneovo Awefada](https://github.com/EmmanuelOvo-js)
