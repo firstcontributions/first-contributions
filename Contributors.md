@@ -8,6 +8,7 @@
 - [Raghav Garg] (https://github.com/GargRaghav17)
 - [Rishav Rajak](https://github.com/rik030)
 - [Nikita Von] (https://github.com/plskncktff)
+- [Nurain Bamidele-Jnr](https://github.com/Adexbam02)
 - [Nathan Moehlmann](https://github.com/nmoehlmann/)
 - [Rohit Chaware](https://github.com/R4Rohit23)
 - [Ankur Verma](https://github.com/ankur55220/)
