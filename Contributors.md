@@ -37,6 +37,8 @@
 - [Kamil Ogonowski](https://github.com/KamilOgonowski)
 - [Damion Voshall](https://github.com/DamoFD)
 - [Antyss77](https://github.com/Antyss77)
+- [leohchoi](https://github.com/leohchoi)
+- [OmriOn] (https://github.com/OmriOn)
 - [Aakash Rajbhar](https://github.com/Aakash-Rajbhar)
 -[Anurag](https://github.com/dot-D69)
 - [Alvin Escobar](https://github.com/GitAlvinLine)
@@ -49,6 +51,7 @@
 - [Abhay Pratap Singh](https://github.com/AbhaysCode)
 - [Metcalfe](https://github.com/MetcalfeWal)
 - [devsaga22](https://github.com/devsaga22)
+- [Shuaibu Abdulkadir](https://github.com/shuaibu222)
 Franco Lai
 - [Dewald](https://github.com/HaloBoss777)
 - [Balaji Jegadeesh](https://github.com/Vbj1808)
@@ -6912,3 +6915,4 @@ Aadi Deshmukh
 - [Aritra Chakraborty](https://github.com/aritraChakraborty101)
 - [Anthony Chen] (https://github.com/Achen2089)
 - [Gustavo Canseco] (https://github.com/guss89)
+- [Prashant Singh](https://github.com/prashant5025)
