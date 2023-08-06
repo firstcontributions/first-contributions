@@ -1,6 +1,7 @@
 # Contributors
 
 !-- prettier-ignore-start -->
+- [Thura Hein](https://github.com/thurahein123)
 
 * [Mark Tu](https://github.com/MarksTheme)
 
