@@ -15,7 +15,7 @@
 - [Sangamesh Math](https://github.com/sangamesh-Math)
 - [Vinil Jose](https://github.com/viniljose)
 - [Emmanuel Ogheneovo Awefada](https://github.com/EmmanuelOvo-js)
--[Emmanuel Ogheneovo Awefada](https://github.com/yasirmb)
+-[Yasir Mb](https://github.com/yasirmb)
 - [Mohamad Oghli](https://github.com/mohammad-oghli)
 -
 - [Victor Ikeme] (https://github.com/CloudIkeme)
