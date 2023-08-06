@@ -38,6 +38,8 @@
 - [Kamil Ogonowski](https://github.com/KamilOgonowski)
 - [Damion Voshall](https://github.com/DamoFD)
 - [Antyss77](https://github.com/Antyss77)
+- [leohchoi](https://github.com/leohchoi)
+- [OmriOn] (https://github.com/OmriOn)
 - [Aakash Rajbhar](https://github.com/Aakash-Rajbhar)
 -[Anurag](https://github.com/dot-D69)
 - [Alvin Escobar](https://github.com/GitAlvinLine)
@@ -50,6 +52,7 @@
 - [Abhay Pratap Singh](https://github.com/AbhaysCode)
 - [Metcalfe](https://github.com/MetcalfeWal)
 - [devsaga22](https://github.com/devsaga22)
+- [Shuaibu Abdulkadir](https://github.com/shuaibu222)
 Franco Lai
 - [Dewald](https://github.com/HaloBoss777)
 - [Balaji Jegadeesh](https://github.com/Vbj1808)
@@ -98,6 +101,7 @@ Franco Lai
 - [BhavyaNarnoli](https://github.com/bhavyanarnoli)
   [Maahnoor](https://github.com/Maahnoor)
   [Sadai]
+  water
   [giorgivashakmadze](https://github.com/giorgivashakmadze)
   [Aaryan Chaudhary](https://github.com/AaryanChy)
 - [Bertin](https://github.com/goerlibe)
@@ -110,6 +114,7 @@ Franco Lai
 - [DivyaAgrawal](https://github.com/divyaagrawal877)
 - [hari](https://github.com/harisahu)
 - [Eduard Gheorghe](https://github.com/eduardgheorghe)
+- [Flamsaur](https://github.com/flamsaur)
 - [Mukul Padwal](https://github.com/mukulpadwal)
 - [Ronald van Gelder](https://github.com/rvangelder11)
   Oatimeany
@@ -321,6 +326,7 @@ Franco Lai
 - [Abhishek Shukla](https://github.com/abss123)
 - [Adam Smith](https://github.com/Roadlyfe)
 - [Daniel Leinweber](https://github.com/daniel-leinweber)
+- [Alex Chaussaroux](https://github.com/ALEXchauss63)
 - [0126kjw](https://github.com/0126kjw)
 - [Joseph Ani](https://github.com/joe-ani)
 - [harshvir potpose](https://github.com/akagami-harsh)
@@ -2023,6 +2029,7 @@ Franco Lai
 - [Jeremy Rustandi](https://github.com/jerstnd)
 - [Logan Nguyen](https://github.com/NBaLogn)
 - [Jan](https://github.com/JanR99)
+- Sim
 - [Caleb Bateman](https://github.com/Fizzaz)
 - [Muhammed Ibrahim](https://github.com/GreyOwl123)
 - [Oliver Beresford](https://github.com/OliverSBeresford)
@@ -6912,3 +6919,5 @@ Aadi Deshmukh
 - [Aritra Chakraborty](https://github.com/aritraChakraborty101)
 - [Anthony Chen] (https://github.com/Achen2089)
 - [Gustavo Canseco] (https://github.com/guss89)
+- [Prashant Singh](https://github.com/prashant5025)
+- [Tristan Bierig](https://github.com/TristanBierig)
