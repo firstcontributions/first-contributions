@@ -6931,4 +6931,5 @@ Aadi Deshmukh
 - [Gustavo Canseco] (https://github.com/guss89)
 - [Prashant Singh](https://github.com/prashant5025)
 - [Tristan Bierig](https://github.com/TristanBierig)
-- [Federico Burna](https://github.com/McDreamu) 
+- [Federico Burna](https://github.com/McDreamu)
+- [Rafael Jose Vizconde](https://github.com/plutoxyium)
