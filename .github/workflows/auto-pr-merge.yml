@@ -31,8 +31,8 @@ jobs:
             "https://api.github.com/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files" | \
             jq -r '.[].filename')
           FILES_CHANGED=$(echo $PR_FILES | tr '\n' ' ')
-          ADDITIONS = github.event.pull_request.additions
-          DELETIONS = github.event.pull_request.deletions
+          ADDITIONS=$(github.event.pull_request.additions)
+          DELETIONS=$(github.event.pull_request.deletions)
 
           echo "files_changed=$FILES_CHANGED" >> $GITHUB_ENV
           echo "additions=$ADDITIONS" >> $GITHUB_ENV
