@@ -168,33 +168,32 @@ jobs:
         uses: actions/github-script@v5
         with:
           script: |
-            // Fetch the list of comments for the current pull request
-            const comments = await github.rest.issues.listComments({
+            // get the existing comments.
+            const {data: comments} = await github.rest.issues.listComments({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              issue_number: context.issue.number,
-            });
-            console.log(comments)
+              issue_number: context.payload.number,
+            })
 
-            // Find the previous comment made by the GitHub Action
-            const actionComment = comments.data.find(comment => comment.user.login === 'github-actions[bot]');
+            // find any comment already made by the bot.                                                                                                    
+            const botComment = comments.find(comment => comment.user.login === 'github-actions[bot]')                                                                       
 
-            console.log(actionComment)
-            
-            // If the previous comment exists, delete it
-            if (actionComment) {
-              await github.rest.issues.deleteComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                comment_id: actionComment.id,
+            const body = `Thank you for your pull request. This pull request contains changes in files which requires review. The following files were changed:\n\n  ${process.env.files_changed.trim() ? `\n\n${process.env.files_changed.trim().split(' ').map(file => `- ${file}`).join('\n')}` : ''}`
+
+            if (botComment) {
+                await github.rest.issues.updateComment({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  comment_id: botComment.id,
+                  body: body
+                })
+              } else {
+                            github.rest.issues.createComment({
+                            owner: context.repo.owner,
+                            repo: context.repo.repo,
+                            issue_number: context.issue.number,
+                            body: body
               });
             }
-            const body = `Thank you for your pull request. This pull request contains changes in files which requires review. The following files were changed:\n\n  ${process.env.files_changed.trim() ? `\n\n${process.env.files_changed.trim().split(' ').map(file => `- ${file}`).join('\n')}` : ''}`
-            github.rest.issues.createComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.issue.number,
-              body: body
-            });
             
           github-token: ${{ secrets.GITHUB_TOKEN }}
