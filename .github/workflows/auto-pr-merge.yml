@@ -31,8 +31,20 @@ jobs:
             "https://api.github.com/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files" | \
             jq -r '.[].filename')
           FILES_CHANGED=$(echo $PR_FILES | tr '\n' ' ')
+          ADDITIONS = github.event.pull_request.additions
+          DELETIONS = github.event.pull_request.deletions
 
           echo "files_changed=$FILES_CHANGED" >> $GITHUB_ENV
+          echo "additions=$ADDITIONS" >> $GITHUB_ENV
+          echo "deletions=$DELETIONS" >> $GITHUB_ENV
+
+          if [[ $ADDITIONS == 1 && $DELETIONS == 0 ]]; then
+            echo "one_line_change=true" >> $GITHUB_ENV
+          elif [[ $ADDITIONS == 2 && $DELETIONS == 1 ]]; then
+            echo "one_line_change==true" >> $GITHUB_ENV
+          else
+            echo "one_line_change==false" >> $GITHUB_ENV
+          fi
           
           if [[ "${FILES_CHANGED// /}" == "Contributors.md" ]]; then
 
