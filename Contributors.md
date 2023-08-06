@@ -6,6 +6,7 @@
 
 - [Allan Moura](https://github.com/allansmora/)
 - [Raghav Garg] (https://github.com/GargRaghav17)
+- [LJ](https://github.com/ljolly30)
 - [Rishav Rajak](https://github.com/rik030)
 - [Nikita Von] (https://github.com/plskncktff)
 - [Nurain Bamidele-Jnr](https://github.com/Adexbam02)
