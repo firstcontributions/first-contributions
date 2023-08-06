@@ -9,6 +9,7 @@
 - [LJ](https://github.com/ljolly30)
 - [Raghav Garg] (https://github.com/GargRaghav17)
 - [Rishav Rajak](https://github.com/rik030)
+- [Flamsaur](https://github.com/flamsaur)
 - [Nikita Von] (https://github.com/plskncktff)
 - [Nurain Bamidele-Jnr](https://github.com/Adexbam02)
 - [Nathan Moehlmann](https://github.com/nmoehlmann/)
