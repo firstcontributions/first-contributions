@@ -4,7 +4,7 @@
 - [Thura Hein](https://github.com/thurahein123)
 
 * [Mark Tu](https://github.com/MarksTheme)
-
+- [Priyanshu Chaudhary](https://github.com/ChaudharyPriyanshu88)
 - [Allan Moura](https://github.com/allansmora/)
 - [LJ](https://github.com/ljolly30)
 - [Sai](https://github.com/sai-krishna-git)
