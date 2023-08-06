@@ -42,6 +42,7 @@
 - [Antyss77](https://github.com/Antyss77)
 - [leohchoi](https://github.com/leohchoi)
 - [OmriOn] (https://github.com/OmriOn)
+- [Sumit](https://github.com/MCUxKILLER)
 - [Aakash Rajbhar](https://github.com/Aakash-Rajbhar)
 -[Anurag](https://github.com/dot-D69)
 - [Alvin Escobar](https://github.com/GitAlvinLine)
