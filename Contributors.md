@@ -77,6 +77,7 @@
 - [Bipul Lamsal](https://github.com/BipulLamsal)
 - [Dinesh Tyagi](https://github.com/Dinesht04)
 - [Kiran](https://github.com/Kiran1810)
+- [Dom Caracappa](https://github.com/Dom-Caracappa)
 - [Meraduro](https://github.com/Meraduro)
 - [erdemy885](https://github.com/erdemy885)
 - [AayushPaigwar](https://github.com/AayushPaigwar)
