@@ -6781,6 +6781,7 @@ Aadi Deshmukh
 - [Ellis Pax Mapakama](https://github.com/ellispax)
 - [hhariss](https://github.com/hhariss)
 - [Joseph Mariga](https://github.com/Mariga94)
+- [Thomas Luo](https://github.com/Qibaoooo)
 - [Yaya Mohamed](https://github.com/Yaya12085)
 - [Vivek Sharma](https://github.com/viveksharma1809)
 - [**Aryan Karma**](https://github.com/aryankarma)
