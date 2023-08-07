@@ -6360,9 +6360,7 @@ Aadi Deshmukh
 -  [Will Thong](https://github.com/willthong)
 -  [Kenny Lee](https://github.com/kenny-wq)
 -  [Tiago Tavares](https://github.com/bigtava)
-
-   <!-- prettier-ignore-end -->
-
+-  [Kingsley Awoke](https://github.com/kingsleyAwoke)
 -  [Em Mic](https://github.com/emmic)
 -  [ebrower320](https://github.com/ebrower320)
 -  [TobizzleLOL](https://github.com/TobizzleLOL)
