@@ -207,6 +207,7 @@
 -  [Jerom Jo](https://github.com/lordgrim18)
 -  [Aryan Karayi](https://github.com/aryankarayi)
 -  [Ankitjt](https://github.com/ankitjt)
+-  [Roger Nguyen](https://github.com/rqnguyen100)
 -  [Rajesh Arora](https://github.com/rajesharora2801)
    [Matheus]
 -  [K4ZULI](https://github.com/superflyguy81)
