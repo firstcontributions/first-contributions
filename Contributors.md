@@ -16,6 +16,7 @@
 -  [LJ](https://github.com/ljolly30)
 -  [Sai](https://github.com/sai-krishna-git)
 -  [Raghav Garg] (https://github.com/GargRaghav17)
+-  [Paraton Suryo Prayogo] (https://github.com/paratonsp)
 -  [Rishav Rajak](https://github.com/rik030)
 -  [Flamsaur](https://github.com/flamsaur)
 -  [Nikita Von] (https://github.com/plskncktff)
