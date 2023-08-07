@@ -619,6 +619,7 @@
 -  [Yash Savla](https://github.com/yashsavla9)
 -  [Benjamin Chenevey](https://github.com/Bchenevey)
 -  [Shreyash Somvanshi](https://github.com/ShreyashSomvanshi)
+-  [Rithesh kunchakuri](https://github.com/rithesh6)
 -  [RobbiDev](https://github.com/RobbiDev)
 -  [lezzthanthree](https://github.com/lezzthanthree)
 -  [Sunny Singh](https://github.com/sunny-k-singh) -[Vikas Rathod](https://github.com/vikasrathod4299) -[Vivek Khandekar] -[Shubham Shrimant](https://github.com/shubhamshrimant) -[Yeswanth Sai Inturi] -[Håvard Garsrud](https://github.com/HaavGa)
