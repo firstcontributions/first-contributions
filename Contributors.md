@@ -790,6 +790,7 @@
 -  [Kent](https://github.com/kkentt)
 -  [Sergio Gomez](https://github.com/Sdagomez)
 -  [Ujjwal Saxena](https://github.com/Ujjwal-S)
+-  [Chella](https://github.com/thiyagutenysen)
 -  [Iaroslav Pokataev](https://github.com/jar7nt)
 -  [Gift Ibe](https://github.com/giftibe)
 -  [Divyom](https://github.com/Waro0N/)
