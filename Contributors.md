@@ -236,6 +236,7 @@
 -  [Aaqib Javaid](https://github.com/aaqib605)
 -  [Thea SF](https://github.com/thea-sf)
 -  [Leon Albert](https://github.com/leonn00albert)
+   [Cole B]
 -  [ztest95](https://github.com/ztest95)
 -  [HMT](https://github.com/HtetAungThan)
 -  [Alowree](https://github.com/Alowree)
