@@ -5,7 +5,7 @@
 
 # Πρώτες Συνεισφορές
 
-|<img alt="Sublime Merge" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/sublime-merge.png" width="200">|Πελάτης Git Sublime Merge|
+|<img alt="Sublime Merge" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/sublime-merge.png" width="200">|Sublime Merge Git Client|
 |---|---|
 
 Είναι δύσκολο. Είναι πάντα δύσκολο, όταν κάνετε κάτι για πρώτη φορά. Ειδικά όταν συνεργάζεστε ή δοκιμάζετε κάτι νέο, οι λάθος δεν είναι ένα άνετο πράγμα. Αλλά ο ανοικτός κώδικας είναι όλος για τη συνεργασία και την εργασία μαζί. Ήθελαν να απλοποιήσουν τον τρόπο με τον οποίο οι νέοι συνεισφέροντες ανοικτού κώδικα μαθαίνουν και συνεισφέρουν για πρώτη φορά.
