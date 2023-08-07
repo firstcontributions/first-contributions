@@ -49,7 +49,7 @@
 ή 
 Πλοηγηθείτε στο Αποθετήριο -> Δημιουργία Παρακλαδιού
 
-Δώστε όνομα στο κλαδί σας "προσθήκη-του-όνοματός-σας", για παράδειγμα: "προσθήκη-της-Άννας-Σοφίας"
+Δώστε όνομα στο παρακλάδι σας "προσθήκη-του-όνοματός-σας", για παράδειγμα: "προσθήκη-της-Άννας-Σοφίας"
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/sm-branch.png" alt="name your branch" />
 
