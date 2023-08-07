@@ -25,6 +25,7 @@
 -  [Paraton Suryo Prayogo] (https://github.com/paratonsp)
 -  [Rishav Rajak](https://github.com/rik030)
 -  [Flamsaur](https://github.com/flamsaur)
+-  [Angel Arias](https://github.com/aaridoms)
 -  [Nikita Von] (https://github.com/plskncktff)
 -  [Nurain Bamidele-Jnr](https://github.com/Adexbam02)
 -  [Nathan Moehlmann](https://github.com/nmoehlmann/)
