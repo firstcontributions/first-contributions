@@ -6962,3 +6962,4 @@ Aadi Deshmukh
 -  [Stefan Weber](https://github.com/swebe3qn)
 -  [Leyun Fu](https://github.com/leyunn)
 -  [Munaim Khan](https://github.com/munaimpro/)
+-  [Shelton Shamuyarira](https://github.com/sheltshamu/)
