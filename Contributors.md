@@ -499,6 +499,7 @@ Franco Lai
 - [Pratima Adhikari](https://github.com/Prateema1)
 - [Sourav Mazumdar](https://github.com/SouravM9)
 - [Ethan Kuhrts](https://github.com/ethankuhrts)
+- [harry2262](https://github.com/harry2262)
 - [Gavin D'mello](https://github.com/GavinDmello97)
 - [Dreem Hai](https://github.com/dreemhai)
 - [SIBOMANA GLORRY](https://github.com/WHITELOTUS0)
