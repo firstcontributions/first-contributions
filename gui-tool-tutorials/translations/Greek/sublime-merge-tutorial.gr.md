@@ -114,5 +114,5 @@
 
 ### [Επιπλέον υλικό](../additional-material/git_workflow_senarios/additional-material.md)
 
-## Φροντιστήρια με Άλλα Εργαλεία
+## Εκπαιδευτικό υλικό για Άλλα Εργαλεία
 [Επιστροφή στην κύρια σελίδα](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
