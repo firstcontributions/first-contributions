@@ -475,11 +475,7 @@
 -  [VulcanWM](https://github.com/VulcanWM)
 -  [Aditya Singh](https://github.com/adityasingh22)
 -  [Michael Picc](https://github.com/Michael-Picc)
-
-# [Steven Wong](https://github.com/ycstevenwong)
-
-# [V1K1NGbg](https://github.com/V1K1NGbg)
-
+-  [harry2262](https://github.com/harry2262)
 -  [DanexQ](https://github.com/DanexQ)
 -  [Oyinkansola Shoroye](https://github.com/teqbaddie)
 -  [Sadman Salim Nipun ⭐](https://github.com/nipun333)
