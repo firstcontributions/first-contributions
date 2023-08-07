@@ -5642,6 +5642,7 @@
 - [Neha Santani](https://github.com/NehaSantani)
 - [Alex Folayan](https://github.com/Knice2)
 - [Filip Koci](https://github.com/sos321)
+- [Fabio Polito](https://github.com/FabioPolito24)
 - [Juan Rodriguez](https://github.com/jrodriguezarc)
 - [Ng Zi Yuan](https://github.com/BallisticHawk)
 - [Gatlin Cruz](https://github.com/gatlincruz2)
