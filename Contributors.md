@@ -1,5 +1,5 @@
 # Contributors
-
+-  [Roy Naeim](https://github.com/roysnaim/)
 !-- prettier-ignore-start -->
 -  [Mahesh Sharma](https://github.com/maheshsvm)
 -  [Thura Hein](https://github.com/thurahein123)
