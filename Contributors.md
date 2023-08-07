@@ -8,6 +8,7 @@
 
 *  [Mark Tu](https://github.com/MarksTheme)
 
+   [Erikc Avalos MrLAIF](https://github.com/MrLAIF)
 -  [Vishwambhar Prajapati](https://github.com/vishwa099)
 -  [Priyanshu Chaudhary](https://github.com/ChaudharyPriyanshu88)
 -  [Allan Moura](https://github.com/allansmora/)
