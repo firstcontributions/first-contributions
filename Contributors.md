@@ -6937,3 +6937,4 @@ Aadi Deshmukh
 -  [Tristan Bierig](https://github.com/TristanBierig)
 -  [Federico Burna](https://github.com/McDreamu)
 -  [Rafael Jose Vizconde](https://github.com/plutoxyium)
+-  [David Goodwin](https://github.com/onyxius)
