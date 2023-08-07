@@ -1482,6 +1482,7 @@
 -  [Rishabh Singh Bisht](https://github.com/CurlyRishabh)
 -  [Noora Nasrin VC](https://github.com/nooranasrin)
 -  [Miguel Jones](https://github.com/dice43)
+-  [Chris Watson](https://github.com/c-watson7)
 -  [Alfredo Carrion](https://github.com/carrionalfredo)
 -  [Michelle Ndiangui](https://github.com/MuthoniMN)
 -  [Chaitanya Galla](https://github.com/gallachaitanya)
