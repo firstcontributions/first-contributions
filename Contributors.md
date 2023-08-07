@@ -1,6 +1,7 @@
 # Contributors
 -  [Roy Naeim](https://github.com/roysnaim/)
 !-- prettier-ignore-start -->
+-  [Ahmed Abubakar](https://github.com/AhmedAbIb)
 -  [Mahesh Sharma](https://github.com/maheshsvm)
 -  [Suly Flachberger](https://github.com/suly520/)
 -  [Thura Hein](https://github.com/thurahein123)
