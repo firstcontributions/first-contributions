@@ -1064,9 +1064,7 @@
 -  [Tachaan](https://github.com/Tachaan) -[Saumya Shah](https://github.com/Saumya40-codes)
 -  [C0LDRAM3N](https://github.com/C0LDRAM3N)
 -  [Kartavya Makwana](https://github.com/kartavyamakwana)
-
-<!-- prettier-ignore-start and welcome Priyanshu Maurya  Priyanshu Maurya-->
-
+-  [Chella](https://github.com/thiyagutenysen)
 -  [Hao Xu](https://github.com/haohxu/)
 -  [Steve Fernandez](https:github.com/fossbin)
 -  [wLUOw](https://github.com/wLUOw)
