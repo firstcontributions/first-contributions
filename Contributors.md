@@ -1,4 +1,5 @@
 # Contributors
+- [Ayico](https://github.com/Ayico)
 -  [Roy Naeim](https://github.com/roysnaim/)
 !-- prettier-ignore-start -->
 -  [Mahesh Sharma](https://github.com/maheshsvm)
