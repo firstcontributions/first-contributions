@@ -28,6 +28,7 @@
 -  [Sonu Kumar] (https://github.com/sonukumar7258)
 -  [Ankur Verma](https://github.com/Divyangchauhan/)
 -  [Divyang Chauhan](https://github.com/ankur55220/)
+-  [Dhruv Patel](https://github.com/Dhruv-Pattel)
 -  [Sumit Verma](https://github.com/SumitVerma2411)
 -  [Hammad](https://github.com/7ammad404)
 -  [John](https://github.com/jjo21)
