@@ -89,6 +89,8 @@ jobs:
                 const slack_logo = "https://edent.github.io/SuperTinyIcons/images/svg/slack.svg"
                 const twitter_logo = "https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg"
                 const fb_logo = "https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg"
+                const reddit_logo = "https://edent.github.io/SuperTinyIcons/images/svg/reddit.svg"
+
 
                 const getMergeMessage = (username) => {
                   const greeting = `Hello @${username}, congratulations! You've successfully submitted a pull request. 🎉`;
