@@ -2561,6 +2561,7 @@
 -  [Mayur Rathod](https://github.com/rmayur777)
 -  [Marcio Oliveira](https://github.com/oliveiramarcio)
 -  [rentj1](https://github.com/rentj1)
+-  [Briacis](https://github.com/Briacis)
 -  [Barathan Ganesh](https://github.com/brthngnsh)
 -  [Ilay Eldar](https://github.com/ilayEldar24)
 -  [Al Jaber](https://github.com/aljaber131)
