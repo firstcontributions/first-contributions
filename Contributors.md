@@ -38,6 +38,7 @@
 -  [Walter Goad](https://github.com/Goadlife1)
 -  [TriMadon](https://github.com/TriMadon)
 -  [David Alexander](https://github.com/ogiorgil)
+-  [Edgar Ray Tuyor](https://github.com/edray28)
 -  [Jigyasa Singhal](https://github.com/jigyasaSinghal)
 -  [Moses Onche](https://github.com/Moses-Onche)
 -  [Sanket Jaipuriar](https://github.com/RubyShanks)
