@@ -1,7 +1,7 @@
 # Contributors
 
 !-- prettier-ignore-start -->
-
+-  [Mahesh Sharma](https://github.com/maheshsvm)
 -  [Thura Hein](https://github.com/thurahein123)
 -  [Seol] (https://github.com/JG-0204)
 -  [James Ridgeway(https://github.com/jaridgeway)
