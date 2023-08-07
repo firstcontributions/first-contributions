@@ -5619,6 +5619,7 @@
 - [Krishna Sethiya](https://github.com/INFORTER0731)
 - [Pedro Henrique Pereira Gonçalves](https://github.com/PedroHPG)
 - [David Miller](https://github.com/davidmiller2013)
+- [Sumit Sinha](https://github.com/sumit298)
 - [Bjørnar Otterlei](https://github.com/Bcdo)
 - [benqhdri](https://github.com/benqhdri)
 - [UvrajSB](https://github.com/UvrajSB)
@@ -6952,3 +6953,4 @@ Aadi Deshmukh
 -  [Rafael Jose Vizconde](https://github.com/plutoxyium)
 -  [David Goodwin](https://github.com/onyxius)
 -  [Dilsad Kut] (https://github.com/dilsadkutt)
+
