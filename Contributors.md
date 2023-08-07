@@ -134,6 +134,7 @@
    [giorgivashakmadze](https://github.com/giorgivashakmadze)
    [Aaryan Chaudhary](https://github.com/AaryanChy)
 -  [Bertin](https://github.com/goerlibe)
+-  [Ski11](https://github.com/Ski11-pro/)
 -  [Monika Garg](https://github.com/gargmonika)
 -  [George Baraza](https://github.com/Georgeprog-275)
 -  [mnj-gh](https://github.com/mnj-gh)
