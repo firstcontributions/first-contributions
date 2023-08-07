@@ -121,7 +121,6 @@
 - [Ayo Michaels](https://github.com/ayomichaels)
 - [Zane]
 - [Deepika Indran](https://github.com/deepiikaa24)
-- [Chella](https://github.com/thiyagutenysen)
 - [Brijesh Yadav](https://github.com/ibrijesh)
 - [Oladimeji Adeyemi](https://github.com/Crestward)
 - [Oscar Juarez](https://github.com/OscarJO20)
@@ -1091,6 +1090,7 @@
 - [Muhammad Faizan](https://github.com/MFaizan11)
 - [Roy Ataya](https://github.com/RoyAtaya)
 - [Sarah Clark](https://github.com/sarosy18)
+- [Chella](https://github.com/thiyagutenysen)
 - [Jayasimha Reddy K](https://github.com/jayasimhag)
 - [Rishabh Chauhan](https://github.com/Rishabh1662)
 - [Oluwatobi Sofela](https://github.com/oluwatobiss)
