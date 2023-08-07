@@ -102,6 +102,7 @@
    [JP] (https://github.com/jonathanpreston)
    [Vincent Mintv] (https://github/MintV-Vincent)
 -  [Saikiran6694]
+-  [Keiran Barnes] (https://github.com/BingBlingBoy)
 -  [Harsha Jagannathan] (https://github.com/Harsha-Jagan)
 -  [zihad18] (https://github.com/zihad18)
 -  [Abel Tesfa] (https://github.com/abeltesfa)
