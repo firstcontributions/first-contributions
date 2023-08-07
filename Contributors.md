@@ -326,6 +326,7 @@
 -  [Gifty Afful](https://github.com/giftycad)
 -  [Yali Kagan](https://github.com/yalikagan1)
 -  [Shuvajit Mahanta](https://github.com/Shuva15)🙏
+-  [Muhammad Zidan Fatonie](https://github.com/mzf11125)👋
 -  [Hugo Serra](https://github.com/NoObX17)
 -  [Aman Chauhan](https://github.com/Aman-JR)
 -  [Matheus de Alcântara](https://github.com/thecobsb)
