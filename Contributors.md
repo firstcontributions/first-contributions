@@ -30,7 +30,7 @@
 -  [Vinil Jose](https://github.com/viniljose)
 -  [Emmanuel Ogheneovo Awefada](https://github.com/EmmanuelOvo-js) -[Yasir Mb](https://github.com/yasirmb)
 -  [Mohamad Oghli](https://github.com/mohammad-oghli)
--
+-  [Bhushan Nalawade] (https://github.com/BhushanNalawade/first-contributions)
 -  [Victor Ikeme] (https://github.com/CloudIkeme)
 -  [Shahzaib Iqbal](https://github.com/Shahzaib-Iqbal-1057)
 -  [Kaif Arslan](https://github.com/KaifArslan)
