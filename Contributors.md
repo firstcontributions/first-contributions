@@ -1064,7 +1064,7 @@
 -  [Axorax](https://github.com/axorax)
 -  [sancoLgates](https://github.com/sancoLgates)
 -  [Gabriel Bellasco](https://github.com/GabrielBellasco)
--  [Will Morrisette] (https://github.com/willmorrisette/)
+-  [Will Morrisette](https://github.com/willmorrisette)
 -  [Omar Gabriel](https://github.com/omargabrielaguilar)
 -  [Gavin Levis](https://github.com/GLevis)
 -  [Richard McCormick](https://github.com/rmccormick314)
