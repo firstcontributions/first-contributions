@@ -10,7 +10,7 @@ Git tidak akan lagi melacak perubahan pada file yang dihapus. Bagi Git, file ini
 
 Pada contoh di atas, kita menggunakan flag `--cached`. Jika kita tidak menggunakannya, Git juga akan menghapus file tersebut dari disk kita.
 
-Jika sekarang kita membuat komit dengan `git commit -m "Hapus file1.js"` dan mengkirimkanya ke repositori jarak jauh dengan perintah `git push origin master`, file tersebut juga akan dihapus dari repositori jarak jauh.
+Jika sekarang kita membuat komit dengan `git commit -m "Hapus file1.js"` dan mengirimkannya ke repositori jarak jauh dengan perintah `git push origin master`, file tersebut juga akan dihapus dari repositori jarak jauh.
 
 ## Opsi tambahan
 
