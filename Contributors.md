@@ -2,6 +2,7 @@
 -  [Roy Naeim](https://github.com/roysnaim/)
 !-- prettier-ignore-start -->
 -  [Mahesh Sharma](https://github.com/maheshsvm)
+-  [Suly Flachberger](https://github.com/suly520/)
 -  [Thura Hein](https://github.com/thurahein123)
 -  [Seol] (https://github.com/JG-0204)
 -  [James Ridgeway(https://github.com/jaridgeway)
