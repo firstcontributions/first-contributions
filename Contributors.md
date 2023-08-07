@@ -191,7 +191,6 @@ Franco Lai
 - [Katherine Robles](https://github.com/KMR1221)
 - [Ayo Michaels](https://github.com/ayomichaels)
 - [Zane]
-- [harry2262](https://github.com/harry2262)
 - [Deepika Indran](https://github.com/deepiikaa24)
 - [Solomon Onwuasoanya](https://github.com/dybran)
 - [Brijesh Yadav](https://github.com/ibrijesh)
@@ -6577,6 +6576,7 @@ Aadi Deshmukh
 - [RanJinh](https://github.com/RanJinh)
 - [Gourav](https://github.com/Gourav2609)
 - [Iris Mou](https://github.com/HXMou)
+- [harry2262](https://github.com/harry2262)
 - [Pape Ngagne Ndiaye](https://github.com/PapisKang)
 - [K B POOVANNA](https://github.com/kbpoovanna-007)
 - [swarup_E7](https://github.com/swarupe7)
