@@ -14,7 +14,7 @@
 
 ## Sublime Merge
 
-Λήψη του [Sublime Merge](https://www.sublimemerge.com/), Εγκαταστήστε το και ανοίξτε το.
+Κατεβάστε το [Sublime Merge](https://www.sublimemerge.com/), εγκαταστήστε το και ανοίξτε το.
 
 ## Διακλάδωση (Fork) αυτού του αποθετηρίου
 
