@@ -127,6 +127,7 @@
 -  [7e6i](https://github.com/7e6i)
 -  [yuxm](https://github.com/yux-m)
 -  [Talha Yousuf](https://github.com/talhayousuff)
+-  [olavlan](https://github.com/olavlan)
 -  [DivyaAgrawal](https://github.com/divyaagrawal877)
 -  [hari](https://github.com/harisahu)
 -  [Eduard Gheorghe](https://github.com/eduardgheorghe)
