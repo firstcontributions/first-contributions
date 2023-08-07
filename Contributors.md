@@ -6971,3 +6971,4 @@ Aadi Deshmukh
 -  [Leyun Fu](https://github.com/leyunn)
 -  [Munaim Khan](https://github.com/munaimpro/)
 -  [Shelton Shamyarira] (https://github.com/sheltshamu)
+-  [Artem Streltsov] (https://github.com/arstrel)
