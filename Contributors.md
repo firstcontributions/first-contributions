@@ -3252,6 +3252,7 @@
 -  [Mohamed Ghulam](https://github.com/mfg888)
 -  [Vittorio Pinti](https://github.com/vpinti)
 -  [Amshu G M](https://github.com/AmshuGM)
+-  [Elizaveta S](https://github.com/elizaveta-sm)
 -  [Emmanuel Okonkwo](https://github.com/mettad3v)
 -  [Emmanuel Dodoo](https://github.com/EmmanuelDodoo)
 -  [braylonsteffen](https://github.com/braylonsteffen)
