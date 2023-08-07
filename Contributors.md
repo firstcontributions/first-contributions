@@ -12,6 +12,7 @@
 [ELLWIL](https://github.com/ellwil)
 -  [Priyanshu Chaudhary](https://github.com/ChaudharyPriyanshu88)
 -  [Allan Moura](https://github.com/allansmora/)
+-  [Abdulhakeem Abdulazeez](https://github.com/blaqhakym/)
 -  [LJ](https://github.com/ljolly30)
 -  [Sai](https://github.com/sai-krishna-git)
 -  [Raghav Garg] (https://github.com/GargRaghav17)
