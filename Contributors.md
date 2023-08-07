@@ -902,6 +902,7 @@
 -  [Siddharth Rathore](https://github.com/s1dbugs)
 -  [Harsh Kumar Raj](https://github.com/harshkumarraj)
 -  [Srini](https://github.com/ssiripuram)
+-  [Pieta9221](https://github.com/pieta9221)
 -  [Satya Barghav](https://github.com/satyabarghav)
 -  [Ralph Virtucio](https://github.com/ralphvirtucio)
 -  [Yashkumar Nemane](https://github.com/yashnemane)
