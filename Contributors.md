@@ -14,6 +14,7 @@
 -  [Tasnim Ahmed Auntik](https://github.com/taauntik)
 -  [Waleed Abu Kaf](https://github.com/waleedab1)
 -  [C0deFreak](https://github.com/C0deFreak)
+-  [Yll Berisha](https://github.com/yllberisha)
 -  [Raghav Sharma](https://github.com/Redclawww)
 -  [Suly Flachberger](https://github.com/suly520/)
 -  [Kirti Kamal](https://github.com/kirtikamal)
