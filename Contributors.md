@@ -42,6 +42,7 @@
 -  [Sumit Verma](https://github.com/SumitVerma2411)
 -  [Hammad](https://github.com/7ammad404)
 -  [John](https://github.com/jjo21)
+-  [Siddharth Kambli](https://github.com/sidk524)
 -  [Ben Gunderson] (https://github.com/BenjaminG182)
 -  [Sangamesh Math](https://github.com/sangamesh-Math)
 -  [Vinil Jose](https://github.com/viniljose)
