@@ -62,6 +62,7 @@
 -  [Edgar Ray Tuyor](https://github.com/edray28)
 -  [Jigyasa Singhal](https://github.com/jigyasaSinghal)
 -  [Moses Onche](https://github.com/Moses-Onche)
+-  [Julian Kalman](https://github.com/jkalman08)
 -  [Sanket Jaipuriar](https://github.com/RubyShanks)
 -  [HacFlix](https://github.com/HacFlix)
 -  [Zaid Ismail Asvat Alias Vader](https://github.com/Vader980)
