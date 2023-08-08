@@ -6957,6 +6957,7 @@ Aadi Deshmukh
 -  [Gardner](https://github.com/gardnerdev)
 -  [Tamajit Das](https://github.com/devdas98)
 -  [Lam Hoang](https://github.com/lamrhoang)
+-  [Shinobu KissShot](https://github.com/KIssShot-Shinobu)
 -  [VitaminZ0](https://github.com/VitaminZ0)
 -  [Peanut086](https://github.com/Peanut086)
 -  [GargiMittal](https://github.com/GargiMittal)
