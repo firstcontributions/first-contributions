@@ -14,15 +14,13 @@ jobs:
       issues: write
       
     steps:
-      
       # Check out the repository code
       - name: Checkout code
         uses: actions/checkout@v2
         with:
           ref: ${{ github.event.pull_request.head.sha }}
           fetch-depth: 2
-        
-      # Check if the pull request only modifies the Contributors.md file
+
       - name: Check if PR only modifies Contributors.md
         id: is_only_contributors_file_changed
         run: |
@@ -41,15 +39,31 @@ jobs:
             echo "only_contributors=false" >> $GITHUB_ENV
           fi
 
+      - name: Check if PR has only one line change
+        run: |
+          ADDITIONS=${{ github.event.pull_request.additions }}
+          DELETIONS=${{ github.event.pull_request.deletions }}
+
+          echo "additions=$ADDITIONS" >> $GITHUB_ENV
+          echo "deletions=$DELETIONS" >> $GITHUB_ENV
+
+          if [[ $ADDITIONS == 1 && $DELETIONS == 0 ]]; then
+            echo "one_line_change=true" >> $GITHUB_ENV
+          elif [[ $ADDITIONS == 2 && $DELETIONS == 1 ]]; then
+            echo "one_line_change=true" >> $GITHUB_ENV
+          else
+            echo "one_line_change=false" >> $GITHUB_ENV
+          fi
+
       # Merge the pull request if it only modifies the Contributors.md file or if it fail to do then drop failure message as post 
       - name: Merge PR
         id: merge_pr
-        if: env.only_contributors == 'true'
+        if: env.only_contributors == 'true' && env.one_line_change == 'true'
         uses: actions/github-script@v5
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            try{
+            try {
             // Attempt to merge the pull request using the squash method
              const response = await github.rest.pulls.merge({
               owner: context.repo.owner,
