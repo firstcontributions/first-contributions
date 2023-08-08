@@ -1,7 +1,6 @@
 # Contributors
 -  [Roy Naeim](https://github.com/roysnaim/)
 !-- prettier-ignore-start -->
--  [Ahmed Abubakar](https://github.com/AhmedAbIb)
 -  [Mahesh Sharma](https://github.com/maheshsvm)
 -  [Suly Flachberger](https://github.com/suly520/)
 -  [Thura Hein](https://github.com/thurahein123)
@@ -6963,3 +6962,4 @@ Aadi Deshmukh
 -  [Stefan Weber](https://github.com/swebe3qn)
 -  [Leyun Fu](https://github.com/leyunn)
 -  [Munaim Khan](https://github.com/munaimpro/)
+-  [Ahmed Abubakar](https://github.com/AhmedAbIb)
