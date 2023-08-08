@@ -3855,6 +3855,7 @@
 -  [N ﾃｩ stor Moreno]()
 -  [Shashank Singh]()
 -  [Ronny Barahona](https://github.com/ronnyb378)
+-  [Verneri Turunen](https://github.com/turunenv)
 -  [Prakhar Thakur](https://github.com/itsprakhar)
 -  [Ronke Akinmosin](https://github.com/ronke-susan)
 -  [RogueTM](https://github.com/RogueTMs)
