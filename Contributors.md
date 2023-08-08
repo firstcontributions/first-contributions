@@ -6291,6 +6291,7 @@ Aadi Deshmukh
 - [Triss Marsh](https://github.com/distriss)
 - [Rohith Reddy Mada](https://github.com/rohithmada00)
 - [Emily Chin](https://github.com/mremily9)
+- [Pritam Ravani](https://github.com/pritam-ravani)
 - [Loud Deedee](https://github.com/adeolad)
 - [Sebastian Neumeier](https://github.com/test123-all)
 - [Sebastian Vasile](https://github.com/svasile8)
