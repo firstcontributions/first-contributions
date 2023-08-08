@@ -263,6 +263,7 @@
 - [Vasu Aggarwal](https://github.com/Vasu-Aggarwal283)
 - [Prasang Gupta](https://github.com/prasang-gupta)
 - [nnhjs](https://github.com/nnhjs)
+- Dustin Yochim
 - [Black Knight](https://github.com/BlacKnight-RH)
 - [Iftikhar Yar Khan](https://github.com/iftikharyk)
 - [Jasleen Kaur Bhatia](https://github.com/Jasleen-001)
