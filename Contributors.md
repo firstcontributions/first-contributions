@@ -4,6 +4,7 @@
 - [itaypanda](https://github.com/itaypanda)
 -  [Roy Naeim](https://github.com/roysnaim/)
 !-- prettier-ignore-start -->
+-  [Roy Naeim](https://github.com/roysnaim/)
 -  [Justin Brown](https://github.com/macronym)
 -  [Mahesh Sharma](https://github.com/maheshsvm)
 -  [Prakash Bhandari](https://github.com/dev-scripts)
@@ -7031,3 +7032,4 @@ Aadi Deshmukh
 -  [Harsh Sharma](https://github.com/harshsharma-11)
 -  [Skaner](https://github.com/SkaneroOo)
 -  [Abdelrahman Ramadan](https://github.com/ARamadan123)
+-  [Przemek Zacheja](https://github.com/PrzemekZacheja)
