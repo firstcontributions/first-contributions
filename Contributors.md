@@ -32,6 +32,7 @@
 -  [Flamsaur](https://github.com/flamsaur)
 -  [Angel Arias](https://github.com/aaridoms)
 -  [Nikita Von] (https://github.com/plskncktff)
+-  [Pushkar Sutar] (https://github.com/pushkarr999)
 -  [Nurain Bamidele-Jnr](https://github.com/Adexbam02)
 -  [Nathan Moehlmann](https://github.com/nmoehlmann/)
 -  [defaultroot](https://github.com/defaultroot1)
