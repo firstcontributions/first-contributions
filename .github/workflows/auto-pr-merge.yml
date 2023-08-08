@@ -157,10 +157,6 @@ jobs:
               core.setFailed(error.message);
             }
 
-
-
-
-
       # Post a comment on the pull request if it was not merged automatically
       - name: Post comment on PR if not merged automatically
         # Check if the pull request only modifies the CONTRIBUTORS.md file
@@ -168,12 +164,32 @@ jobs:
         uses: actions/github-script@v5
         with:
           script: |
-            const body = `Thank you for your pull request. This pull request contains changes in files which requires review. The following files were changed:\n\n  ${process.env.files_changed.trim() ? `\n\n${process.env.files_changed.trim().split(' ').map(file => `- ${file}`).join('\n')}` : ''}`
-            github.rest.issues.createComment({
+            // get the existing comments.
+            const {data: comments} = await github.rest.issues.listComments({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              issue_number: context.issue.number,
-              body: body
-            });
+              issue_number: context.payload.number,
+            })
+
+            // find any comment already made by the bot.                                                                                                    
+            const botComment = comments.find(comment => comment.user.login === 'github-actions[bot]')                                                                       
+
+            const body = `Thank you for your pull request. This pull request contains changes in files which requires review. The following files were changed:\n\n  ${process.env.files_changed.trim() ? `\n\n${process.env.files_changed.trim().split(' ').map(file => `- ${file}`).join('\n')}` : ''}`
+
+            if (botComment) {
+              await github.rest.issues.updateComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: botComment.id,
+                body: body
+              })
+            } else {
+                await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: body
+              });
+            }
             
           github-token: ${{ secrets.GITHUB_TOKEN }}
