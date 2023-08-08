@@ -22,6 +22,7 @@
 -  [Rajesh Jain](https://github.com/rajeshcjain)
 -  [Emin] (https://github.com/Backooo)
 -  [LJ](https://github.com/ljolly30)
+-  [Gaurav Singh](https://github.com/gauravsingh-code)
 -  [Sai](https://github.com/sai-krishna-git)
 -  [Raghav Garg] (https://github.com/GargRaghav17)
 -  [Paraton Suryo Prayogo] (https://github.com/paratonsp)
