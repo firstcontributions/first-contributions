@@ -4,9 +4,14 @@
 
 -  [Roy Naeim](https://github.com/roysnaim/)
 !-- prettier-ignore-start -->
+-  [Justin Brown](https://github.com/macronym)
 -  [Mahesh Sharma](https://github.com/maheshsvm)
 -  [Prakash Bhandari](https://github.com/dev-scripts)
 -  [Mukund Thakur](https://github.com/Mukund05)
+-  [Tasnim Ahmed Auntik](https://github.com/taauntik)
+-  [Waleed Abu Kaf](https://github.com/waleedab1)
+-  [C0deFreak](https://github.com/C0deFreak)
+-  [Raghav Sharma](https://github.com/Redclawww)
 -  [Suly Flachberger](https://github.com/suly520/)
 -  [Kirti Kamal](https://github.com/kirtikamal)
 -  [Thura Hein](https://github.com/thurahein123)
@@ -7025,3 +7030,4 @@ Aadi Deshmukh
 -  [Dhyey Bhalani](https://github.com/dhyeybhalani)
 -  [Harsh Sharma](https://github.com/harshsharma-11)
 -  [Skaner](https://github.com/SkaneroOo)
+-  [Abdelrahman Ramadan](https://github.com/ARamadan123)
