@@ -3,6 +3,7 @@
 -  [Roy Naeim](https://github.com/roysnaim/)
 !-- prettier-ignore-start -->
 -  [Mahesh Sharma](https://github.com/maheshsvm)
+-  [Prakash Bhandari](https://github.com/dev-scripts)
 -  [Suly Flachberger](https://github.com/suly520/)
 -  [Thura Hein](https://github.com/thurahein123)
 -  [Seol] (https://github.com/JG-0204)
