@@ -1407,6 +1407,7 @@
 -  [Abe Lincoln]
 -  [Ashi San](https://github.com/AshiSan)
 -  [Hashir-ul-islam](https://github.com/HashCoder001)
+-  [Nguyen Tran Hoang Thang](https://github.com/NguyenTranHoangThang)
 -  [Sergio Zavala](https://github.com/sezavala)
 -  [Kaung Si Thu](https://github.com/kstiel)
 -  [Manmit Arvind Tiwade](https://github.com/Manmit124)
