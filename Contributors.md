@@ -5,6 +5,7 @@
 !-- prettier-ignore-start -->
 -  [Mahesh Sharma](https://github.com/maheshsvm)
 -  [Prakash Bhandari](https://github.com/dev-scripts)
+-  [Mukund Thakur](https://github.com/Mukund05)
 -  [Suly Flachberger](https://github.com/suly520/)
 -  [Kirti Kamal](https://github.com/kirtikamal)
 -  [Thura Hein](https://github.com/thurahein123)
