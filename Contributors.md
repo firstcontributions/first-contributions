@@ -1,13 +1,19 @@
 # Contributors
 - [Mst Surnaly Akter](https://github.com/mstsurnalyakter)
 - [Ayico](https://github.com/Ayico)
-
+- [itaypanda](https://github.com/itaypanda)
 -  [Roy Naeim](https://github.com/roysnaim/)
 !-- prettier-ignore-start -->
 -  [Nona Anderson](https://github.com/nonaanderson)
+-  [Roy Naeim](https://github.com/roysnaim/)
+-  [Justin Brown](https://github.com/macronym)
 -  [Mahesh Sharma](https://github.com/maheshsvm)
 -  [Prakash Bhandari](https://github.com/dev-scripts)
 -  [Mukund Thakur](https://github.com/Mukund05)
+-  [Tasnim Ahmed Auntik](https://github.com/taauntik)
+-  [Waleed Abu Kaf](https://github.com/waleedab1)
+-  [C0deFreak](https://github.com/C0deFreak)
+-  [Raghav Sharma](https://github.com/Redclawww)
 -  [Suly Flachberger](https://github.com/suly520/)
 -  [Kirti Kamal](https://github.com/kirtikamal)
 -  [Thura Hein](https://github.com/thurahein123)
@@ -70,6 +76,7 @@
 -  [Julian Kalman](https://github.com/jkalman08)
 -  [Sanket Jaipuriar](https://github.com/RubyShanks)
 -  [HacFlix](https://github.com/HacFlix)
+-  [Lucas Duong](https://github.com/lukasd181)
 -  [Zaid Ismail Asvat Alias Vader](https://github.com/Vader980)
 -  [Omphile Mokhuane](https://github.com/OmphileMokhuane/OmphileMokhuane)
 -  [Tasmiyah Nakooda](https://github.com/nakoodatasmiyah)
@@ -207,6 +214,7 @@
 -  [Abhay Kukade]
 -  [Matthew Barhou](https://github.com/MattBarhou)
 - [Vishnu Mohandas]
+-  [Mohit Soni](https://github.com/mohit718)
 -  [Ezgi Ozgan](https://github.com/EzgiOzgan)
 -  [Oddballlnner](https://github.com/Oddballlnner)
 -  [Kobby-Jones](https://github.com/Kobby-Jones)
@@ -5654,6 +5662,7 @@
 - [Vaibhav Gaydhane](https://github.com/Vaibhav11002)
 - [SaadChaay](https://github.com/saadchaay)
 - [Chris Naugle](https://github.com/crn717)
+- [Anurag Singh](https://github.com/Ovalelephant35)
 - [AnujSharma](https://github.com/Anujsharma0307)
 - [Pete Darinzo](https://github.com/PeteDarinzo)
 - [Petya Angelova](https://github.com/bpetya44)
@@ -7022,3 +7031,8 @@ Aadi Deshmukh
 -  [Shweta Misra](https://github.com/shweta-24)
 -  [chenhuamin9527](https://github.com/chenhuamin9527)
 -  [behkkheng](https://github.com/behkkheng)
+-  [Dhyey Bhalani](https://github.com/dhyeybhalani)
+-  [Harsh Sharma](https://github.com/harshsharma-11)
+-  [Skaner](https://github.com/SkaneroOo)
+-  [Abdelrahman Ramadan](https://github.com/ARamadan123)
+-  [Przemek Zacheja](https://github.com/PrzemekZacheja)
