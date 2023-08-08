@@ -8,6 +8,7 @@
 -  [Prakash Bhandari](https://github.com/dev-scripts)
 -  [Mukund Thakur](https://github.com/Mukund05)
 -  [Tasnim Ahmed Auntik](https://github.com/taauntik)
+-  [Waleed Abu Kaf](https://github.com/waleedab1)
 -  [Suly Flachberger](https://github.com/suly520/)
 -  [Kirti Kamal](https://github.com/kirtikamal)
 -  [Thura Hein](https://github.com/thurahein123)
