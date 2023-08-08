@@ -36,6 +36,7 @@
 -  [Rishav Rajak](https://github.com/rik030)
 -  [Flamsaur](https://github.com/flamsaur)
 -  [Angel Arias](https://github.com/aaridoms)
+-  [Lauren Senwo](https://github.com/laurensenwo)
 -  [Nikita Von] (https://github.com/plskncktff)
 -  [Pushkar Sutar] (https://github.com/pushkarr999)
 -  [Nurain Bamidele-Jnr](https://github.com/Adexbam02)
