@@ -4,6 +4,7 @@
 
 -  [Roy Naeim](https://github.com/roysnaim/)
 !-- prettier-ignore-start -->
+-  [Nona Anderson](https://github.com/nonaanderson)
 -  [Mahesh Sharma](https://github.com/maheshsvm)
 -  [Prakash Bhandari](https://github.com/dev-scripts)
 -  [Mukund Thakur](https://github.com/Mukund05)
