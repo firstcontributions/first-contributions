@@ -6979,3 +6979,4 @@ Aadi Deshmukh
 -  [Munaim Khan](https://github.com/munaimpro/)
 -  [Shelton Shamyarira] (https://github.com/sheltshamu)
 -  [Artem Streltsov] (https://github.com/arstrel)
+-  [Jhass Theisen](https://github.com/jhatheisen)
