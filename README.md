@@ -183,11 +183,11 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://github.com/divyanshudhruv/First-Contribution/assets/71079602/55928bef-e6fb-4554-8c05-79a9f9bd9d14" />
 
 Now submit the pull request.
 
-<img style="float: right;" src="https://github.com/divyanshudhruv/First-Contribution/assets/71079602/190a99f7-e3c1-457e-966d-ebe0c3e1fd28" alt="submit pull request" />
+<img style="float: right;" src="https://github.com/divyanshudhruv/First-Contribution/assets/71079602/8449610f-dfdb-4aca-a72f-c415bcd36c1a" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
