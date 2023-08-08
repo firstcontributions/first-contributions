@@ -5653,6 +5653,7 @@
 - [Vaibhav Gaydhane](https://github.com/Vaibhav11002)
 - [SaadChaay](https://github.com/saadchaay)
 - [Chris Naugle](https://github.com/crn717)
+- [Anurag Singh](https://github.com/Ovalelephant35)
 - [AnujSharma](https://github.com/Anujsharma0307)
 - [Pete Darinzo](https://github.com/PeteDarinzo)
 - [Petya Angelova](https://github.com/bpetya44)
