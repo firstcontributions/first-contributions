@@ -2,8 +2,8 @@
 - [Mst Surnaly Akter](https://github.com/mstsurnalyakter)
 - [Ayico](https://github.com/Ayico)
 
--  [Roy Naeim](https://github.com/roysnaim/)
 !-- prettier-ignore-start -->
+-  [Roy Naeim](https://github.com/roysnaim/)
 -  [Justin Brown](https://github.com/macronym)
 -  [Mahesh Sharma](https://github.com/maheshsvm)
 -  [Prakash Bhandari](https://github.com/dev-scripts)
@@ -7029,3 +7029,4 @@ Aadi Deshmukh
 -  [Dhyey Bhalani](https://github.com/dhyeybhalani)
 -  [Harsh Sharma](https://github.com/harshsharma-11)
 -  [Abdelrahman Ramadan](https://github.com/ARamadan123)
+-  [Przemek Zacheja](https://github.com/PrzemekZacheja)
