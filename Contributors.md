@@ -4,6 +4,7 @@
 
 -  [Roy Naeim](https://github.com/roysnaim/)
 !-- prettier-ignore-start -->
+-  [Shivam Rajput]
 -  [Justin Brown](https://github.com/macronym)
 -  [Mahesh Sharma](https://github.com/maheshsvm)
 -  [Prakash Bhandari](https://github.com/dev-scripts)
