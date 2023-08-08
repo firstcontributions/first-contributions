@@ -69,6 +69,7 @@
 -  [Moses Onche](https://github.com/Moses-Onche)
 -  [Julian Kalman](https://github.com/jkalman08)
 -  [Sanket Jaipuriar](https://github.com/RubyShanks)
+-  [Lauren Senwo](https://github.com/laurensenwo)
 -  [HacFlix](https://github.com/HacFlix)
 -  [Zaid Ismail Asvat Alias Vader](https://github.com/Vader980)
 -  [Omphile Mokhuane](https://github.com/OmphileMokhuane/OmphileMokhuane)
