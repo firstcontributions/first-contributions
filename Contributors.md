@@ -6964,6 +6964,7 @@ Aadi Deshmukh
 -  [MKremnev](https://github.com/mkremnev)
 -  [Swapnil Satardey](https://github.com/swapnilsatardey)
 -  [Xander Clemens](https://github.com/XanderRubio)
+-  [Akash Singh](https://github.com/akssingh0102)
 -  [Candy](https://github.com/candiii)
 -  [Joanna](https://github.com/jgmbl)
 -  [YuKyungKim](https://github.com/KimYuKyung16)
