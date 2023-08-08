@@ -113,6 +113,7 @@
 -  [gmartineza](https://github.com/gmartineza)
 -  [Shivadharshan Lingeswaran] (https://github.com/XoxRumbleLorexoX)
 -  [Zahradeen Muazu] (https://github.com/itxdeeni)
+-  [rn-consider] (https://github.com/rn-consider)
 -  [K B]
    [JP] (https://github.com/jonathanpreston)
    [Vincent Mintv] (https://github/MintV-Vincent)
