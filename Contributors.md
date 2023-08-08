@@ -6980,3 +6980,4 @@ Aadi Deshmukh
 -  [Shelton Shamyarira] (https://github.com/sheltshamu)
 -  [Artem Streltsov] (https://github.com/arstrel)
 -  [Jhass Theisen](https://github.com/jhatheisen)
+-  [catslashbin](https://github.com/catslashbin)
