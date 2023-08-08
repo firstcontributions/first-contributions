@@ -6,8 +6,8 @@
 -  [Suly Flachberger](https://github.com/suly520/)
 -  [Thura Hein](https://github.com/thurahein123)
 -  [Seol] (https://github.com/JG-0204)
--  [James Ridgeway(https://github.com/jaridgeway)
-
+-  [James Ridgeway] (https://github.com/jaridgeway)
+-  [Melvin Chen] (https://github.com/mchen610)
 *  [Mark Tu](https://github.com/MarksTheme)
 -  [Erikc Avalos MrLAIF](https://github.com/MrLAIF)
 -  [Vishwambhar Prajapati](https://github.com/vishwa099)
