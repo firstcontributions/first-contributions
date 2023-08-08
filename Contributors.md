@@ -2909,6 +2909,7 @@
 -  [palmcivet.eth](https://github.com/palmcivet7)
 -  [Utkarsh Shukla](https://github.com/utkrsh-shukla)
 -  [Himanshu Tamta]()
+   [Denis Denisenko]("SugarDIDI")
 -  [Mohit Yadav](https://github.com/ymohit1603)
 -  [Subhajit Chatterjee](https://github.com/subhajitchatterjee07)
 -  [Andee Warren](https://github.com/andeewarren)
