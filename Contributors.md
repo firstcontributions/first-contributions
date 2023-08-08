@@ -101,6 +101,7 @@
 -  [Manzil Shrestha](https://github.com/777Mnzl)
 -  [Manu Perez] (https://github.com/ManuPer3z)
 -  👾 [Asia Le](https://github.com/le-as-a) 🧙🏼‍♀️
+-  [Tanmayie Patil]
 -  [Jigar Thummar](https://github.com/jigarthummar)
 -  [Karan pal](https://github.com/Karanpal97)
 -  [Rachit Srivastava](https://github.com/El-djaBlo)
