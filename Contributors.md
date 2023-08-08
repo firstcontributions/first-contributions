@@ -1384,6 +1384,7 @@
 -  [AndyS](https://github.com/AndyS-first)
 -  [Samaila](https://github.com/samailamalima)
 -  [Chas](https://github.com/hugginsc10)
+-  [XoEvn](https://github.com/XoEvn)
 -  [Tyranties](https://github.com/Tyranties)
 -  [Prashanth](https://github.com/Tamilanth)
 -  [Snehasis Ghosh](https://github.com/Snehasis4321)
