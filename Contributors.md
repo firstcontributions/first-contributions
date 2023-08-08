@@ -16,6 +16,7 @@
 [ELLWIL](https://github.com/ellwil)
 -  [Priyanshu Chaudhary](https://github.com/ChaudharyPriyanshu88)
 -  [Roshan Goswami](https://github.com/csengineer1990)
+-  [Rupesh Sreeraman](https://github.com/rupeshs)
 -  [Steve Turner](https://github.com/steveturner1183)
 -  [Xyrelle Ebol](https://github.com/xebol)
 -  [Allan Moura](https://github.com/allansmora/)
