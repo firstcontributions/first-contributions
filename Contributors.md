@@ -5,6 +5,7 @@
 -  [Roy Naeim](https://github.com/roysnaim/)
 !-- prettier-ignore-start -->
 -  Shivam Rajput
+-  [Ibra Zeno](https://github.com/Ibra-Zeno)
 -  [Nona Anderson](https://github.com/nonaanderson)
 -  [Roy Naeim](https://github.com/roysnaim/)
 -  [Justin Brown](https://github.com/macronym)
