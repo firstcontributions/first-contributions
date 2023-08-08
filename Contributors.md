@@ -213,6 +213,7 @@
 -  [Abhay Kukade]
 -  [Matthew Barhou](https://github.com/MattBarhou)
 - [Vishnu Mohandas]
+-  [Mohit Soni](https://github.com/mohit718)
 -  [Ezgi Ozgan](https://github.com/EzgiOzgan)
 -  [Oddballlnner](https://github.com/Oddballlnner)
 -  [Kobby-Jones](https://github.com/Kobby-Jones)
