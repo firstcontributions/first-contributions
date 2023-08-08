@@ -1,4 +1,4 @@
-[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+![image](https://github.com/divyanshudhruv/First-Contribution/assets/71079602/1838021c-82f6-4596-8ec0-c4704f72a508)[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
@@ -81,7 +81,8 @@ This project aims to simplify and guide the way beginners make their first contr
 _If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+
+<img align="right" width="300" src="https://github.com/divyanshudhruv/First-Contribution/assets/71079602/0d92dc3b-f7aa-45da-8b8b-2ff1f5845b1c" alt="fork this repository" />
 
 #### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
@@ -92,7 +93,8 @@ This will create a copy of this repository in your account.
 
 ## Clone the repository
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+
+<img align="right" width="300" src="https://github.com/divyanshudhruv/First-Contribution/assets/71079602/5ab50cf7-a339-4caa-ba50-9e707039cf22" alt="clone this repository" />
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
 
@@ -104,7 +106,9 @@ git clone "url you just copied"
 
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+
+
+<img align="right" width="300" src="https://github.com/divyanshudhruv/First-Contribution/assets/71079602/4ef1c558-191c-4923-afd6-71f2a0c5c9ff" alt="copy URL to clipboard" />
 
 For example:
 
