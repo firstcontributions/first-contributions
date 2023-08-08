@@ -140,6 +140,7 @@
 -  [Ski11](https://github.com/Ski11-pro/)
 -  [Monika Garg](https://github.com/gargmonika)
 -  [George Baraza](https://github.com/Georgeprog-275)
+-  [Carlos Frank] (https://github.com/cjfrankcodes)
 -  [mnj-gh](https://github.com/mnj-gh)
 -  [7e6i](https://github.com/7e6i)
 -  [yuxm](https://github.com/yux-m)
