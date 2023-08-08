@@ -196,6 +196,7 @@
 -  [David Payne] (https://github.com/davpayne)
 -  [Abhay Kukade]
 -  [Matthew Barhou](https://github.com/MattBarhou)
+- [Vishnu Mohandas]
 -  [Ezgi Ozgan](https://github.com/EzgiOzgan)
 -  [Oddballlnner](https://github.com/Oddballlnner)
 -  [Kobby-Jones](https://github.com/Kobby-Jones)
