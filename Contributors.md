@@ -4,6 +4,7 @@
 - [itaypanda](https://github.com/itaypanda)
 -  [Roy Naeim](https://github.com/roysnaim/)
 !-- prettier-ignore-start -->
+-  [Nona Anderson](https://github.com/nonaanderson)
 -  [Roy Naeim](https://github.com/roysnaim/)
 -  [Justin Brown](https://github.com/macronym)
 -  [Mahesh Sharma](https://github.com/maheshsvm)
