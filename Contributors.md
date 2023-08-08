@@ -6991,6 +6991,7 @@ Aadi Deshmukh
 -  [Munaim Khan](https://github.com/munaimpro/)
 -  [Shelton Shamyarira] (https://github.com/sheltshamu)
 -  [Artem Streltsov] (https://github.com/arstrel)
+-  [Bool Zhang](https://github.com/zhangbool)
 -  [Jhass Theisen](https://github.com/jhatheisen)
 -  [catslashbin](https://github.com/catslashbin)
 -  [cylmsun](https://github.com/cylmsun)
