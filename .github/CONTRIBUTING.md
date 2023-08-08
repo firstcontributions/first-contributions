@@ -38,6 +38,7 @@ If you're making changes to a translation, please request a review from our prev
 | Chhattisgarhi | [Chhattisgarhi](../translations/README.hne.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/54806739?s=400&v=4" alt="@pradyyadav" />](https://github.com/pradyyadav) |
 | Magyar | [Hungarian](../translations/README.hu.md) | []() |
 | Armenian | [Armenian](../translations/README.hy.md) | []() |
+// I, CrystalCowboy contributed to this code
 | Indonesian | [Indonesian](../translations/README.id.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/315048?s=460&v=4" alt="@hahn" />](https://github.com/hahn) |
 | Igbo | [Igbo](../translations/README.igb.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/36197725?v=4" alt="@zecollokaris" />](https://github.com/zecollokaris) []() |
 | Italiano | [Italian](../translations/README.it.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/22260641?s=460&v=4" alt="@platipo" />](https://github.com/platipo) |
