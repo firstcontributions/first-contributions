@@ -3625,6 +3625,7 @@
 -  [DineshVeguru](https://github.com/dineshveguru)
 -  [ambresh biradar](https://github.com/ambreshbiradar9)
 -  [Alex Martinez](https://github.com/MartinezTech)
+-  [HDDev8](https://github.com/HDDev8)
 -  [Kunal Kashyap](https://github.com/kashyap142)
 -  [Chammoun Chakhap](https://github.com/ChammounC)
 -  [Titania Yan](https://github.com/TYan18)
