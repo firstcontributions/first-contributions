@@ -1,7 +1,8 @@
 # Contributors
 - [Mst Surnaly Akter](https://github.com/mstsurnalyakter)
 - [Ayico](https://github.com/Ayico)
-
+- [itaypanda](https://github.com/itaypanda)
+-  [Roy Naeim](https://github.com/roysnaim/)
 !-- prettier-ignore-start -->
 -  [Roy Naeim](https://github.com/roysnaim/)
 -  [Justin Brown](https://github.com/macronym)
@@ -11,6 +12,7 @@
 -  [Tasnim Ahmed Auntik](https://github.com/taauntik)
 -  [Waleed Abu Kaf](https://github.com/waleedab1)
 -  [C0deFreak](https://github.com/C0deFreak)
+-  [Raghav Sharma](https://github.com/Redclawww)
 -  [Suly Flachberger](https://github.com/suly520/)
 -  [Kirti Kamal](https://github.com/kirtikamal)
 -  [Thura Hein](https://github.com/thurahein123)
@@ -7028,5 +7030,6 @@ Aadi Deshmukh
 -  [behkkheng](https://github.com/behkkheng)
 -  [Dhyey Bhalani](https://github.com/dhyeybhalani)
 -  [Harsh Sharma](https://github.com/harshsharma-11)
+-  [Skaner](https://github.com/SkaneroOo)
 -  [Abdelrahman Ramadan](https://github.com/ARamadan123)
 -  [Przemek Zacheja](https://github.com/PrzemekZacheja)
