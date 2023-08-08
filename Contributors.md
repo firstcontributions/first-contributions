@@ -75,6 +75,7 @@
 -  [Julian Kalman](https://github.com/jkalman08)
 -  [Sanket Jaipuriar](https://github.com/RubyShanks)
 -  [HacFlix](https://github.com/HacFlix)
+-  [Lucas Duong](https://github.com/lukasd181)
 -  [Zaid Ismail Asvat Alias Vader](https://github.com/Vader980)
 -  [Omphile Mokhuane](https://github.com/OmphileMokhuane/OmphileMokhuane)
 -  [Tasmiyah Nakooda](https://github.com/nakoodatasmiyah)
