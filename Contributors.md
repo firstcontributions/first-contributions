@@ -735,6 +735,7 @@
 - [MK Saba](https://github.com/mksaba)
 - Ishwari Pillay
 - Jiang J
+- [Pritam Das](https://github.com/4ritam)
 - [Dinesh Dhanji](https://github.com/DineshDhanji)
 - [promax1113](https://github.com/promax1113)
 - [ganximi](https://github.com/ganximi)
