@@ -35,6 +35,7 @@
 - [pradeep kc](https://github.com/pradeepkc11)
 - [Aryant Kumar](https://github.com/Aryant01)
 - [Aurin Yang] (https://github.com/AurinYang)
+- [Dilmurod Abdusamadov] (https://github.com/thisisdilmurod)
 - [jdszekeres](https://github.com/jdszekeres)
 - [Anuj Kumar Karmakar](https://github.com/anujkkarmakar)
 - [Angel Umeh](https://github.com/akcumeh)
