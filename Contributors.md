@@ -176,6 +176,7 @@
 - [Anjali](https://github.com/anjali-sambargi)
 - [Khushi Jashnani](https://github.com/khushijashnani)
 - [Liza Yemini](https://github.com/LizaYemini)
+- [Arun Rag](https://github.com/arunraghuram)
 - [Clifford Mapesa](https://github.com/droffilc1)
 - [Tarun Mankar](https://github.com/tarunmankar)
 - [Abbey Santos](https://github.com/AbbeyIT)
