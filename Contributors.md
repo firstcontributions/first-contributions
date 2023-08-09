@@ -21,6 +21,7 @@
 - [Venkatesh-KCET](https://github.com/Venkatesh-KCET)
 - [namedmichi](https://github.com/namedmichi)
 - [arunraghuram](https://github.com/arunraghuram)
+- [jdavidc123](https://github.com/jdavidc123)
 - [gyanash.ekka](https://github.com/gyanAsh)
 - [raghvendra.singh](https://github.com/Raghvendra-Singh-Shekhawat)
 - [Darren Harris](https://github.com/theharriscode)
