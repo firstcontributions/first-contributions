@@ -321,6 +321,7 @@
 - [Michael Silverman](https://github.com/msilverman-va)
 - [Susan Shilbi](https://github.com/susan7shilbi)
 - [smschijf](https://github.com/smschijf)
+- [mst4r1o](https://github.com/mst4r1o)
 - [Quan Jiang](https://github.com/JQuan1999)
 - [Sarah](https://github.com/mintyeucalyptus)
 - [Levi Francis](https://github.com/leevigh)
