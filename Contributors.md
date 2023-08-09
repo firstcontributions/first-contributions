@@ -397,6 +397,7 @@
 - [Abdullah Qasim](https://github.com/Abdullahqasim75)
 - [Filip Telente](https://github.com/aminta5)
 - [v-raikar](https://github.com/vraikar-git)
+- [Arpit Jain](https://github.com/arpit9616)
 - [Bakul Gupta](https://github.com/Bakul-G)
 - [Jarren Juan](https://github.com/JarrenJuan)
 - [ajTronic](https://github.com/ajTronic)
