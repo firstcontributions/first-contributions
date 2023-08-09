@@ -6,6 +6,7 @@
   Shivam Rajput
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
 - [Ayush_Chaudhari](https://github.com/the-bokya)
+- [Elangovan](https://github.com/elango5292)
 - [Nayan Jyoti Das](https://github.com/njdasa)
 - [Aleks_Lucenko](https://github.com/alekslucenko)
 - [Brijesh Roy](https://github.com/brijeshroy)
