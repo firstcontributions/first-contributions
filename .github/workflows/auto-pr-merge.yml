@@ -107,7 +107,7 @@ jobs:
                 const twitter_logo = "https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg"
                 const fb_logo = "https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg"
                 const linkedin_logo = "https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg";
-                const dev_logo = "https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg";
+                const dev_logo = "https://edent.github.io/SuperTinyIcons/images/svg/dev_to.svg";
 
 
 
