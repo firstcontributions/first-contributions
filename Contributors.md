@@ -1,6 +1,7 @@
 # Contributors
 
 - [DimCel](https://github.com/dimcel)
+- [Umesh Savaliya](https://github.com/Umesh-WW)
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
 - [Ayush_Chaudhari](https://github.com/the-bokya)
