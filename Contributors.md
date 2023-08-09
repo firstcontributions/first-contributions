@@ -1,6 +1,7 @@
 # Contributors
 
 - [DimCel](https://github.com/dimcel)
+- [Umesh Savaliya](https://github.com/Umesh-WW)
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
   Shivam Rajput
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
