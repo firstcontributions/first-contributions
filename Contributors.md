@@ -1,6 +1,7 @@
 # Contributors
 
 - [DimCel](https://github.com/dimcel)
+- [Umesh Savaliya](https://github.com/Umesh-WW)
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
   Shivam Rajput
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
@@ -129,6 +130,7 @@
 - [Jana Hafez](https://github.com/JanaHafez1)
 - [Ramil Algayev](https://github.com/EuropeanMosquito)
 - [Anjali](https://github.com/anjali-sambargi)
+- [Shrestha Tripathi](https://github.com/shrestha-tripathi)
 - [Federico Podesta](https://github.com/FedePodesta)
 - [Chiara Di Sano](https://github.com/KikiDotPy)
 - [Chetan Dhongade](https://github.com/binary-ibex)
