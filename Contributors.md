@@ -15,6 +15,7 @@
 - [Raj sharma](https://github.com/lluciferr)
 - [Conaitus](https://github.com/conaitus)
 - [YuHangSE](https://github.com/YuHangSE)
+- [Fedex Pope1](https://github.com/FedexPope1)
 - [S0lci70](https://github.com/s0lci700)
 - [Thejas Bhat](https://github.com/tbpcoder)
 - [Mahendra Kolhe](https://github.com/Mahikolhe23)
