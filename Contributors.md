@@ -285,6 +285,7 @@
 - [nnhjs](https://github.com/nnhjs)
 - Dustin Yochim
 - [Black Knight](https://github.com/BlacKnight-RH)
+- [Anurag Roy](https://github.com/NextThread)
 - [Iftikhar Yar Khan](https://github.com/iftikharyk)
 - [Jasleen Kaur Bhatia](https://github.com/Jasleen-001)
 - [Sadeed-pv](https://Github.com/Sadeedpv)
