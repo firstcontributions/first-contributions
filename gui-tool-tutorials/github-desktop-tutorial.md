@@ -16,7 +16,7 @@ If you don't have GitHub Desktop on your machine, [install it](https://desktop.g
 
 If you're using a version of GitHub desktop before 1.0, [refer this tutorial](github-desktop-old-version-tutorial.md).
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://user-images.githubusercontent.com/71079602/258990481-0d92dc3b-f7aa-45da-8b8b-2ff1f5845b1c.png" alt="fork this repository" />
 
 ## Fork this repository
 
@@ -31,7 +31,7 @@ IMPORTANT: DO NOT CLONE THE ORIGINAL REPO. Go to your fork and clone it.
 
 To clone the repo, click on "Clone or Download" and then click on "Open in Desktop".
 
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-clonetodesktop.png" alt="clone this repository" />
+<img width="400px" src="https://github.com/divyanshudhruv/First-Contribution/assets/71079602/eba1e26e-427d-488e-9891-f442ad8be433" alt="clone this repository" />
 
 A pop up window will open. Click on "Open GitHubDesktop.exe".
 
@@ -95,11 +95,11 @@ Click the `Publish` button on the top right.
 
 If you go to your repository on github, you'll see `Compare & pull request` button. click on that button.
 
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/compare-and-pull.png" alt="create a pull request" />
+<img src="https://user-images.githubusercontent.com/71079602/258994461-55928bef-e6fb-4554-8c05-79a9f9bd9d14.png" alt="create a pull request" />
 
 Now submit the pull request.
 
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/submit-pull-request.png" alt="submit pull request" />
+<img src="https://github.com/divyanshudhruv/First-Contribution/assets/71079602/6fd0a1e1-ed0d-43c3-a1c5-a097e393a599" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
