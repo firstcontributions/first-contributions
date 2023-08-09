@@ -231,6 +231,7 @@
 - [Mohammad Abdullah](https://github.com/abdullah2202)
 - [CYCNO](https://github.com/CYCNO)
 - [Carleii](https://github.com/carleii)
+- [Carlos Henrique](https://github.com/dorettoartesp)
 - [Tauhid Patel](https://github.com/tauhidpatel)
 - [Ervin Natareno](https://github.com/ervn12)
 - [Praveen-Parthanaboina](https://github.com/ppraveen11/first-contributions)
