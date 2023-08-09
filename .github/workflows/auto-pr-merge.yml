@@ -99,7 +99,7 @@ jobs:
                 const fb_share_link = 'https://www.facebook.com/sharer/sharer.php?u=https://roshanjossey.github.io/first-contributions&quote=Yay%21%20I%20just%20made%20my%20first%20open%20source%20contribution%20with%20First%20Contributions.%20You%20can%20too,%20by%20following%20a%20simple%20tutorial%20at%20https%3A//goo.gl/66Axwe&hashtag=%23OpenSource'
                 const reddit_link = 'https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Ffirstcontributions%2Ffirst-contributions&title=Learn%20how%20to%20contribute%20to%20open%20source%20projects%20in%205%20minutes'
                 const linkedin_share_link = 'https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/firstcontributions/first-contributions';
-                const dev_share_link = "https://dev.to/new?prefill=I%20just%20made%20my%20first%20open%20source%20contribution%20with%20First%20Contributions.%20You%20can%20too,%20by%20following%20a%20simple%20tutorial%20at%20https://github.com/firstcontributions/first-contributions";
+                const dev_share_link = "https://dev.to/new?prefill=---%0Atitle%3A%20First%20Contributions%3A%20learn%20how%20to%20contribute%20to%20open%20source%20projects%0Apublished%3A%20true%0Atags%3A%20opensource%2C%20beginners%2C%20tutorial%0A---%0A%0AI%20followed%20the%20hands-on%20tutorial%20in%20the%20Readme%20of%20first%20contributions%20and%20made%20my%20first%20pull%20request%20to%20the%20same%20repo.%0A%0A%0A%7B%25%20embed%20https%3A%2F%2Fgithub.com%2Ffirstcontributions%2Ffirst-contributions%20%25%7D";
 
 
                 // social logo
