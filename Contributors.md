@@ -514,6 +514,7 @@
 - [Preshtha Garg](https://github.com/preshthagarg)
 - [Jon Oden](https://github.com/TheJonOden)
 - [Chirag Vadhavana](https://github.com/Ckm54)
+- [Daphne Lam](https://github.com/remnantsofred)
 - [Keith Jackson](https://github.com/KJackson50)
 - [Sai nikhil G](https://github.com/Evolve-03)
 - [Kartikey Tandon](https://github.com/kartikeytandon)
