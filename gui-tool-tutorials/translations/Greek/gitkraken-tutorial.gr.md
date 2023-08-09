@@ -43,7 +43,7 @@
 
 Κάντε κλικ στο κουμπί παρακλαδιού στη γραμμή εργαλείων.
 
-Ονομάστε το κλαδί σας "προσθήκη-του-ονόματός-σας", για παράδειγμα: "προσθήκη-ονόματος-William-Sutton"
+Ονομάστε το παρακλάδι σας "προσθήκη-του-ονόματός-σας", για παράδειγμα: "προσθήκη-ονόματος-William-Sutton"
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-branch.png" alt="name your branch" />
 
