@@ -24,6 +24,7 @@
 - [raghvendra.singh](https://github.com/Raghvendra-Singh-Shekhawat)
 - [Darren Harris](https://github.com/theharriscode)
 - [Raj-101](https://github.com/Raj-101)
+- [Samrat Dutta](https://github.com/DStarRaj)
 - [Summer Babel](https://github.com/sumerbabel)
 - [Amit Kumar](https://github.com/amitthecoder)
 - [almostJohn](https://github.com/almostJohn)
