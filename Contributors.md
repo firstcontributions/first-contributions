@@ -2,6 +2,7 @@
 
 - [DimCel](https://github.com/dimcel)
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
+  Shivam Rajput
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
 - [Ayush_Chaudhari](https://github.com/the-bokya)
 - [Aleks_Lucenko](https://github.com/alekslucenko)
@@ -61,7 +62,7 @@
 - [Moheet Shendarkar](https://github.com/moheet333)
 - [Adrian Calleja](https://github.com/adrii0113)
 - [Jon Sundin](https://github.com/jmsundin)
-- [Rose Rousseau]((https://github.com/MapleRose))
+- [Rose Rousseau](<(https://github.com/MapleRose)>)
 - [cqdev-fusion](https://github.com/cqdev-fusion)
 - [Vyoam Yadav](https://github.com/ambiguousphoton)
 - [Sean Corzo](https://github.com/scorzo)
@@ -86,6 +87,7 @@
 - [solankybasant](https://github.com/solankybasant)
 - [Ahmad Bilesanmi](https://github.com/bilesanmiahmad)
 - [Brandon Cole](https://github.com/realbcole)
+- [applo susheng](https://github.com/applo-susheng 'test')
 - [Koninika Tarafdar](https://github.com/Koninikax)
 - [Karthikeyan Nambivinayagam](https://github.com/Karthikn-n)
 - [Provab Mongchaw Khyang](https://github.com/notmongchaw)
@@ -425,6 +427,7 @@
 - [Prajjwal Mishra](https://github.com/p-mishra1)
 - [Josue Chavez](https://github.com/chjosue80)
 - [Russell Martinez](https://github.com/hrussellm)
+- [Pranav Shirole](https://github.com/thelegend2742069)
 - [Adam Anderson](https://github.com/developer-3)
 - [Khai Nguyen](https://github.com/xkhainguyen)
 - [Gulcar](https://github.com/Gulcar)
@@ -664,6 +667,7 @@
 - [Nancy Chaudhry](https://github.com/chaudhryna)
 - [Arnav Negi](https://github.com/Arnav-Negi)
 - [Turry](https://github.com/Oh-Turry)
+- [Shinobu KissShot](https://github.com/KIssShot-Shinobu)
 - [Kieran Brady](https://github.com/kb1107)
 - [Brittany Tinnin](https://github.com/TinninBrittany)
 - [Adam Stephens](https://github.com/stender11)
@@ -702,3 +706,7 @@
 - [Victor Maia](https://github.com/victooooor)
 - [joejoeelephant](https://github.com/joejoeelephant)
 - [Dastageer HC](https://github.com/dastageer-hc)
+- [Serhat Bağlam]([https://github.com/Rserhat01)
+- Jiang J
+- [Dinesh Dhanji](https://github.com/DineshDhanji)
+- [promax1113](https://github.com/promax1113)
