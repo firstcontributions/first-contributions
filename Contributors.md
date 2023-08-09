@@ -671,6 +671,7 @@
 - [Okeke Kenechukwu](https://github.com/kenekc18)
 - [Ankit Sharma](https://github.com/Sabretooth1405)
 - [Jehu Barbee](https://github.com/jehubarbee)
+- [cfritchie](https://github.com/flwrr)
 - [mdelrosa](https://github.com/mdelrosa)
 - [Dimple Jain](https://github.com/dimplehoney)
 - [Yogesh G](https://github.com/yogeshgunasekaran)
