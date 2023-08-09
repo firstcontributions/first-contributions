@@ -473,6 +473,7 @@
 - [Sanjaya J Shetty](https://github.com/SanjayShetty01)
 - [mouss3abbb](https://github.com/mouss3abbb)
 - [Eric Neves](https://github.com/EricNeves)
+- [Nguyen Pham](https://github.com/giacnguyenbmt)
 - [Yasar Nazzarian](https://github.com/Yasar2019)
 - [Felipe Videira](https://github.com/felipe-videira)
 - [Uday Mehtani](https://github.com/uday03meh)
