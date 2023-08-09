@@ -666,6 +666,7 @@
 - [Amr Ashebo](https://github.com/amr8644)
 - [Okoye Victor](https://github.com/ChuloWay)
 - [E Stanzah](https://github.com/edwstanzah)
+- [Gleb Kan(https://github.com/practicalgnome)]
 - [Rahul Anand](https://github.com/rnand)
 - [Kalu Agu Kalu](https://github.com/Godswilly)
 - [Shiv Prasad Sharma](https://github.com/spsharma16)
@@ -712,6 +713,7 @@
 - [Ling Xiao](https://github.com/lingxiao14122)
 - [Pongking](https://github.com/Pongking)
 - [Victor Maia](https://github.com/victooooor)
+- [Haneen](https://github.com/han1py)
 - [joejoeelephant](https://github.com/joejoeelephant)
 - [Dastageer HC](https://github.com/dastageer-hc)
 - [Serhat Bağlam]([https://github.com/Rserhat01)
