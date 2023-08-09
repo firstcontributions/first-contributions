@@ -83,7 +83,7 @@ jobs:
                 const slack_invite_url = 'https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w'
                 const twitter_tweet_share = 'https://twitter.com/intent/tweet?text=Yay%21%20I%20just%20made%20my%20first%20open%20source%20contribution%20with%20@1stcontribution.%20You%20can%20too%20at%20https%3A//goo.gl/66Axwe%0A&hashtags=OpenSource,CodeNewbie'
                 const fb_share_link = 'https://www.facebook.com/sharer/sharer.php?u=https://roshanjossey.github.io/first-contributions&quote=Yay%21%20I%20just%20made%20my%20first%20open%20source%20contribution%20with%20First%20Contributions.%20You%20can%20too,%20by%20following%20a%20simple%20tutorial%20at%20https%3A//goo.gl/66Axwe&hashtag=%23OpenSource'
-                const linkedin_share_link = 'https://www.linkedin.com/sharing/share-offsite/?url=https://firstcontributions.github.io';
+                const linkedin_share_link = 'https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/firstcontributions/first-contributions';
 
 
                 // social logo
