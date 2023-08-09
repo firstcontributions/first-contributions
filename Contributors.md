@@ -700,6 +700,7 @@
 - [adamsocki](https://github.com/adamsocki)
 - [Yatee Singh](https://github.com/yatee-singh)
 - [Atharva Pardeshi](https://github.com/SazedWorldbringer)
+- [Aditya Patel](https://github.com/thepateladitya)
 - [Ling Xiao](https://github.com/lingxiao14122)
 - [Pongking](https://github.com/Pongking)
 - [Victor Maia](https://github.com/victooooor)
