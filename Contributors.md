@@ -398,6 +398,7 @@
 - [Andrew Muiruri](https://github.com/AndrewMMai)
 - [Angela Johnson](https://github.com/angieloux)
 - [Abdullah Qasim](https://github.com/Abdullahqasim75)
+- [Leandro Luna](https://github.com/LeandroLuna)
 - [Filip Telente](https://github.com/aminta5)
 - [v-raikar](https://github.com/vraikar-git)
 - [Arpit Jain](https://github.com/arpit9616)
