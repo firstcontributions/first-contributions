@@ -6,6 +6,7 @@
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
   Shivam Rajput
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
+- [Jason Gratiot] (https://github.com/jason-gratiot)
 - [Ayush_Chaudhari](https://github.com/the-bokya)
 - [Elangovan](https://github.com/elango5292)
 - [Nayan Jyoti Das](https://github.com/njdasa)
