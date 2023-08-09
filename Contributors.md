@@ -659,6 +659,7 @@
 - [Chris Morin](https://github.com/christophermorin)
 - [Redekian](https://github.com/Redekian)
 - [ritik jain](https://github.com/RJ025)
+- [Lucas Fama](https://github.com/lucasfama)
 - [Kirk Corwin](https://github.com/KirkCorwin)
 - [Sekamatte Soul Solomon](https://github.com/SoulSolomon21)
 - [Narhzih](https://github.com/narhzih)
