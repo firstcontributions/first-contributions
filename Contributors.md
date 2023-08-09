@@ -62,6 +62,7 @@
 - [Rose Rousseau]((https://github.com/MapleRose))
 - [cqdev-fusion](https://github.com/cqdev-fusion)
 - [Vyoam Yadav](https://github.com/ambiguousphoton)
+- [Sean Corzo](https://github.com/scorzo)
 - [Ravindra Reddy](https://github.com/ravindra135)
 - [Sagar Sharma](https://github.com/sagar-io)
 - [Stefan Baciu](https://github.com/StefanCodru)
