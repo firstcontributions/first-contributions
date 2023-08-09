@@ -66,6 +66,7 @@
 - [Vyoam Yadav](https://github.com/ambiguousphoton)
 - [Sean Corzo](https://github.com/scorzo)
 - [Angela S](https://github.com/angelasrsh)
+- [Khawaja Muhammad Bilal](https://github.com/beelal-k)
 - [Ravindra Reddy](https://github.com/ravindra135)
 - [Sagar Sharma](https://github.com/sagar-io)
 - [Stefan Baciu](https://github.com/StefanCodru)
