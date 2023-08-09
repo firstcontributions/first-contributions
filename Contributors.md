@@ -426,6 +426,7 @@
 - [Prajjwal Mishra](https://github.com/p-mishra1)
 - [Josue Chavez](https://github.com/chjosue80)
 - [Russell Martinez](https://github.com/hrussellm)
+- [Pranav Shirole](https://github.com/thelegend2742069)
 - [Adam Anderson](https://github.com/developer-3)
 - [Khai Nguyen](https://github.com/xkhainguyen)
 - [Gulcar](https://github.com/Gulcar)
@@ -702,3 +703,4 @@
 - [Victor Maia](https://github.com/victooooor)
 - [joejoeelephant](https://github.com/joejoeelephant)
 - [Dastageer HC](https://github.com/dastageer-hc)
+- [Serhat Bağlam]([https://github.com/Rserhat01)
