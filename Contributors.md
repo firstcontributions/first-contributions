@@ -591,6 +591,7 @@
 - [Martin Parodi](https://github.com/mparodi3391)
 - [John Sebastian](https://github.com/CapedBaldie)
 - [Ester Guri](https://github.com/esterguri)
+- [FelixArhel] (https://github.com/Kowalski25)
 - [Caroline J. Dale](https://github.com/carolinejdale)
 - [Kalil Thompson](https://github.com/PROFLAYTON9)
 - [Sharad Arora](https://github.com/Sharad910)
