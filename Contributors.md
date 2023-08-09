@@ -240,6 +240,7 @@
 - [Carleii](https://github.com/carleii)
 - [Carlos Henrique](https://github.com/dorettoartesp)
 - [Tauhid Patel](https://github.com/tauhidpatel)
+- [Fateme Ghalandari](https://github.com/FatemeGhalandari)
 - [Ervin Natareno](https://github.com/ervn12)
 - [Praveen-Parthanaboina](https://github.com/ppraveen11/first-contributions)
 - [Andy Qin](https://github.com/qin-andrew123)
