@@ -37,6 +37,7 @@
 - [jdszekeres](https://github.com/jdszekeres)
 - [Anuj Kumar Karmakar](https://github.com/anujkkarmakar)
 - [Angel Umeh](https://github.com/akcumeh)
+Nayan Jyoti Das
 - [Anthony Capecci](https://github.com/AnthonyCap13)
 - [rmknan] (https://github.com/rmknan)
 - [Vaibhav Mahajan](https://github.com/vaibhav-3003)
