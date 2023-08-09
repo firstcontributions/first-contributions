@@ -712,8 +712,7 @@
 - [Victor Maia](https://github.com/victooooor)
 - [joejoeelephant](https://github.com/joejoeelephant)
 - [Dastageer HC](https://github.com/dastageer-hc)
-- [Haneeen](https://github.com/han1py)
-- [Serhat Bağlam](https://github.com/Rserhat01)
+- [Serhat Bağlam]([https://github.com/Rserhat01)
 - [MK Saba](https://github.com/mksaba)
 - Jiang J
 - [Dinesh Dhanji](https://github.com/DineshDhanji)
