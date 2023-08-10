@@ -216,6 +216,7 @@
 - [Himanshu Dubey](https://github.com/sorted-hd)
 - [Andreu Gonzalez](https://github.com/andreu-g)
 - [Anjali](https://github.com/anjali-sambargi)
+- [NandishM](https://github.com/NandishM0618)
 - [Khushi Jashnani](https://github.com/khushijashnani)
 - [Liza Yemini](https://github.com/LizaYemini)
 - [Arun Rag](https://github.com/arunraghuram)
