@@ -1,5 +1,6 @@
 # Contributors
 
+- [Vladimir Gragert](https://github.com/GragertVD)
 - [Gaurav Bisht](https://github.com/iamgauravbisht)
 - [KentuckySato](https://github.com/KentuckySato)
 - [DimCel](https://github.com/dimcel)
