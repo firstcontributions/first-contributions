@@ -47,6 +47,7 @@
 - [Summer Babel](https://github.com/sumerbabel)
 - [Amit Kumar](https://github.com/amitthecoder)
 - [almostJohn](https://github.com/almostJohn)
+- [Joel Tomy](https://github.com/joeljtomy)
 - [Abdelrahman Elsayed](https://github.com/onepercentgold)
 - [Muhammed Abdulhakeem](https://github.com/ennas-de/)
 - [Gabriel Moraes](https://github.com/gabrielm33)
