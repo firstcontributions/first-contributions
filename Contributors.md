@@ -8,6 +8,7 @@
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
 - Shivam Rajput
 - Deepak Thorat
+- Alvaro Lucas
 - [AlbertHoxha](https://github.com/alberthoxha)
 - Johnny
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
