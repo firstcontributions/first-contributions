@@ -83,6 +83,7 @@
 - [cqdev-fusion](https://github.com/cqdev-fusion)
 - [Vyoam Yadav](https://github.com/ambiguousphoton)
 - [Sean Corzo](https://github.com/scorzo)
+- [James So](https://github.com/JamesSo1)
 - [Khawaja Muhammad Bilal](https://github.com/beelal-k)
 - [Angela S](https://github.com/angelasrsh)
 - [Ravindra Reddy](https://github.com/ravindra135)
