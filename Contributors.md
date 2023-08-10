@@ -780,3 +780,4 @@
 - [Quan Do](https://github.com/dodangquan123)
 - [Paerarason](https://github.com/paerarason)
 - [want2012](https://github.com/want2012)
+- [Adilet Baimyrza](https://github.com/AdiletBaimyrza)
