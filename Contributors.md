@@ -166,6 +166,7 @@
 - [Chetan Dhongade](https://github.com/binary-ibex)
 - [Filippo Ghirardini](https://github.com/filoghira)
 - [Henry Arboladora](https://github.com/Henry-Arb)
+- [Sherman Tay](https://github.com/ShermsRL)
 - [Roopaksh](https://github.com/Roopaksh1)
 - [Sahil Jawale](https://github.com/Sahiljawale54)
 - [ofcwork53](https://github.com/ofcwork53)
