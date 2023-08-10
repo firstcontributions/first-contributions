@@ -297,6 +297,7 @@
 - [Rohan Abraham](https://github.com/RohanSAbraham)
 - [Nayan Pasari](https://github.com/npasari)
 - [Ainara Arevalo](https://github.com/ainaraap)
+- [Alfanso Elric](fullmetal alchemist brotherhood)🔥
 - [Sushant Pargaonkar](https://github.com/sushant-97)
 - [Dwipa Al-Farisi](https://github.com/dwipaalfarisi)
 - [Linda Seiter](https://github.com/lseiter)
