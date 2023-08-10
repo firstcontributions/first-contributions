@@ -13,7 +13,8 @@
 - [AlbertHoxha](https://github.com/alberthoxha)
 - Johnny
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
-- [Jason Gratiot] (https://github.com/jason-gratiot)
+- [ZlatislavZ](https://github.com/ZlatislavZ)
+- [Jason Gratiot](https://github.com/jason-gratiot)
 - [Yiwen Tseng](https://github.com/gecko0127)
 - [Ayush_Chaudhari](https://github.com/the-bokya)
 - [Nihar Hegde](https://github.com/nihar-hegde)
