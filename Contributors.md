@@ -5,7 +5,8 @@
 - [Lokesh Choudhary](https://github.com/lokeshchoudharyprogrammer)
 - [Umesh Savaliya](https://github.com/Umesh-WW)
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
-  Deepak Thorat
+- Shivam Rajput
+- Deepak Thorat
   [Johnny]
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
 - [Jason Gratiot] (https://github.com/jason-gratiot)
