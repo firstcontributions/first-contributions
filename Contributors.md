@@ -1,13 +1,17 @@
 # Contributors
 
+- [Gaurav Bisht](https://github.com/iamgauravbisht)
 - [KentuckySato](https://github.com/KentuckySato)
 - [DimCel](https://github.com/dimcel)
 - [ABHISHEK SHARMA](https://github.com/AbhishekSharma6903)
 - [Lokesh Choudhary](https://github.com/lokeshchoudharyprogrammer)
 - [Umesh Savaliya](https://github.com/Umesh-WW)
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
-  Shivam Rajput
-  [Johnny]
+- Shivam Rajput
+- Deepak Thorat
+- Alvaro Lucas
+- [AlbertHoxha](https://github.com/alberthoxha)
+- Johnny
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
 - [Jason Gratiot] (https://github.com/jason-gratiot)
 - [Yiwen Tseng](https://github.com/gecko0127)
@@ -174,6 +178,7 @@
 - [Matt De Vries](https://github.com/DeVriesMatt)
 - [Hargovind Singh](https://github.com/GovindProMax)
 - [Jason Wilson](https://github.com/WilsonJhub)
+- [Connor Jones](https://github.com/CJDevelops)
 - [Alexander Castillo](https://github.com/Jhuiice)
 - [Connor Rokos](https://github.com/c-rokos)
 - [Awais Ahmad](https://github.com/IMAWAISAHMAD)
@@ -305,6 +310,7 @@
 - [nnhjs](https://github.com/nnhjs)
 - Dustin Yochim
 - [Black Knight](https://github.com/BlacKnight-RH)
+- [Anurag Roy](https://github.com/NextThread)
 - [Iftikhar Yar Khan](https://github.com/iftikharyk)
 - [Jasleen Kaur Bhatia](https://github.com/Jasleen-001)
 - [Sadeed-pv](https://Github.com/Sadeedpv)
@@ -771,3 +777,4 @@
 - zzz
 - [Quan Do](https://github.com/dodangquan123)
 - [Paerarason](https://github.com/paerarason)
+- [want2012](https://github.com/want2012)
