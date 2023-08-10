@@ -665,6 +665,7 @@
 - [Gowri Sankar Kalla] (https://github.com/sankarkalla2)
 - [UvrajSB](https://github.com/UvrajSB)
 - [Ashmit Chamoli](https://github.com/ashmitchamoli)
+- [Manish Bhusal](https://github.com/manish-bhusal/)
 - [Prajwal](https://github.com/prajwalbandak)
 - [Neha Santani](https://github.com/NehaSantani)
 - [Alex Folayan](https://github.com/Knice2)
