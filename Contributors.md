@@ -765,3 +765,4 @@
 - [Negan Nguyen](https://github.com/nenene1812)
 - zzz
 - [Quan Do](https://github.com/dodangquan123)
+- [Paerarason](https://github.com/paerarason)
