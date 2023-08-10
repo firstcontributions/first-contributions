@@ -1,5 +1,7 @@
 # Contributors
 
+- [mgrTutka] (https://github.com/mgrTutka)
+- [Vladimir Gragert](https://github.com/GragertVD)
 - [Gaurav Bisht](https://github.com/iamgauravbisht)
 - [KentuckySato](https://github.com/KentuckySato)
 - [DimCel](https://github.com/dimcel)
@@ -39,6 +41,7 @@
 - [arunraghuram](https://github.com/arunraghuram)
 - [jdavidc123](https://github.com/jdavidc123)
 - [gyanash.ekka](https://github.com/gyanAsh)
+- [Sha1nal](https://github.com/Sha1nal/)
 - [raghvendra.singh](https://github.com/Raghvendra-Singh-Shekhawat)
 - [Darren Harris](https://github.com/theharriscode)
 - [Raj-101](https://github.com/Raj-101)
@@ -47,6 +50,7 @@
 - [Summer Babel](https://github.com/sumerbabel)
 - [Amit Kumar](https://github.com/amitthecoder)
 - [almostJohn](https://github.com/almostJohn)
+- [Joel Tomy](https://github.com/joeljtomy)
 - [Abdelrahman Elsayed](https://github.com/onepercentgold)
 - [Muhammed Abdulhakeem](https://github.com/ennas-de/)
 - [Gabriel Moraes](https://github.com/gabrielm33)
@@ -294,6 +298,7 @@
 - [Rohan Abraham](https://github.com/RohanSAbraham)
 - [Nayan Pasari](https://github.com/npasari)
 - [Ainara Arevalo](https://github.com/ainaraap)
+- [Alfanso Elric](fullmetal alchemist brotherhood)🔥
 - [Sushant Pargaonkar](https://github.com/sushant-97)
 - [Dwipa Al-Farisi](https://github.com/dwipaalfarisi)
 - [Linda Seiter](https://github.com/lseiter)
@@ -782,7 +787,7 @@
 - [MertKy](https://github.com/MertKy/)
 - [Lorraine](https://github.com/WambiruL)
 - [Negan Nguyen](https://github.com/nenene1812)
-- zzz
+- [Chen Jiang](https://github.com/LuluLalaJ)
 - [Quan Do](https://github.com/dodangquan123)
 - [Paerarason](https://github.com/paerarason)
 - [want2012](https://github.com/want2012)
@@ -791,4 +796,4 @@
 - [salaminipples](https://github.com/salaminipples)
 - [bucked404](https://github.com/bucked404)
 - [Izzy](https://github.com/IzzyPrime)
-
+- [Peytonjc](https://github.com/peytonjc)
