@@ -723,6 +723,7 @@
 - [Nancy Chaudhry](https://github.com/chaudhryna)
 - [Arnav Negi](https://github.com/Arnav-Negi)
 - [Turry](https://github.com/Oh-Turry)
+- [Naveen](https://github.com/Naveen-McDev)
 - [Shinobu KissShot](https://github.com/KIssShot-Shinobu)
 - [Kieran Brady](https://github.com/kb1107)
 - [Brittany Tinnin](https://github.com/TinninBrittany)
@@ -790,3 +791,4 @@
 - [salaminipples](https://github.com/salaminipples)
 - [bucked404](https://github.com/bucked404)
 - [Izzy](https://github.com/IzzyPrime)
+
