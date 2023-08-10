@@ -139,6 +139,7 @@
 - [Cristian Embleton](https://github.com/C3viche)
 - [Meghal Shah](https://github.com/Meghal2103)
 - [Ibeh Mary-Anne](https://github.com/MARYANNE67)
+- [Christian Decker](https://github.com/cmdecker95)
 - [Mandy-cyber](https://github.com/Mandy-cyber)
 - [Nikos Serepas](https://github.com/nikossrp)
 - [Abhay Donga](https://github.com/AbhayDonga007)
