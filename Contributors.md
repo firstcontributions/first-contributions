@@ -1,5 +1,6 @@
 # Contributors
 
+- [KentuckySato](https://github.com/KentuckySato)
 - [DimCel](https://github.com/dimcel)
 - [Lokesh Choudhary](https://github.com/lokeshchoudharyprogrammer)
 - [Umesh Savaliya](https://github.com/Umesh-WW)
