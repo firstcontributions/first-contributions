@@ -787,4 +787,5 @@
 - [Adilet Baimyrza](https://github.com/AdiletBaimyrza)
 - [Tsveto](https://github.com/Sclipper)
 - [salaminipples](https://github.com/salaminipples)
+- [bucked404](https://github.com/bucked404)
 - [Izzy](https://github.com/IzzyPrime)
