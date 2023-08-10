@@ -612,6 +612,7 @@
 - [wlftuc](https://github.com/wlftuc)
 - [Sarang S](https://github.com/saaarangs)
 - [Martin Parodi](https://github.com/mparodi3391)
+- [Ju Kaifeng](https://github.com/dllcnx)
 - [John Sebastian](https://github.com/CapedBaldie)
 - [Ester Guri](https://github.com/esterguri)
 - [FelixArhel] (https://github.com/Kowalski25)
