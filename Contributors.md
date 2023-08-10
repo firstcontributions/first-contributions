@@ -147,6 +147,7 @@
 - [Clinton Otse](https://github.com/DhanteyUD)
 - [Ankur Dubey](https://github.com/RagedPanda)
 - [ashish lotake](https://github.com/ashishlotake)
+- [Nwanze Ebube] (https://github.com/Poeticrow)
 - [LaQuan](https://github.com/LaQuannT)
 - [Atakan Pars](https://github.com/AP9747)
 - [Kiran Aziz](https://github.com/kiranaziz)
