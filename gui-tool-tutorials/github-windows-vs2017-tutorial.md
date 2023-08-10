@@ -16,7 +16,7 @@ If you don't have Visual Studio 2017 on your machine, [install it](https://www.v
 
 ## Fork this repository
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://github.com/divyanshudhruv/First-Contribution/assets/71079602/6646d868-806b-4ae2-8bc5-7b4abe322b15" alt="fork this repository" />
 
 Fork this repository by clicking on the fork button on the top of this page. This will create of copy of this repository in your GitHub account.
 
@@ -25,8 +25,7 @@ GitHub keeps track of the relationship between your repo and the one you forked 
 Most top-level GitHub repos (i.e. ones not forked from any other repo) have a small core team of people who can directly commit changes.  All other contributors must fork the repo and make changes in the fork, then create a Pull Request to ask for their changes to be merged back into the top-level repo. If the top-level repo administrator likes the changes they will be merged and you will gain instant fame and fortune!  More on how to do that later.
 
 ## Clone your repository
-
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://user-images.githubusercontent.com/71079602/258990536-5ab50cf7-a339-4caa-ba50-9e707039cf22.png" alt="clone this repository" />
 
 The next step is to clone your repo down to your machine so you can begin making changes. Visual Studio needs the URL of your repo, so click the "clone" button and then click the "copy to clipboard" icon.
 
@@ -117,11 +116,12 @@ At this point you have completed your change but it still only resides in your r
 
 In your repo on GitHub you'll see the `Compare & pull request` button next to the new branch notification. Click on that button.
 
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/compare-and-pull.png" alt="create a pull request" />
+<img src="https://user-images.githubusercontent.com/71079602/258994461-55928bef-e6fb-4554-8c05-79a9f9bd9d14.png" alt="create a pull request" />
 
 Now submit the pull request.
+![image]
 
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/submit-pull-request.png" alt="submit pull request" />
+<img src="https://github.com/divyanshudhruv/First-Contribution/assets/71079602/a1fe12c7-65e2-429e-a284-3fae504ceaa5" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
