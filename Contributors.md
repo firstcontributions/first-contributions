@@ -8,6 +8,7 @@
 - [Umesh Savaliya](https://github.com/Umesh-WW)
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
 - Shivam Rajput
+- [dh-tester](https://github.com/dh-tester)
 - Deepak Thorat
 - Alvaro Lucas
 - [AlbertHoxha](https://github.com/alberthoxha)
