@@ -345,6 +345,7 @@
 - [Zain Ul-Abdeen](https://github.com/Zidan2k9)
 - [Amir Soleimanian](https://github.com/CoachAlpha)
 - [Moses Samanhyia](https://github.com/starlabelgh)
+- [Nick Hankins](https://github.com/nhankins)
 - [Matthew McCane](https://github.com/DakuwoN)
 - [Rishikesh S](https://github.com/Rhilok)
 - [Moses Fawole](https://github.com/mosesfawole)
