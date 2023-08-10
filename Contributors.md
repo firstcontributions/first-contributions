@@ -11,6 +11,7 @@
 - [Jason Gratiot] (https://github.com/jason-gratiot)
 - [Yiwen Tseng](https://github.com/gecko0127)
 - [Ayush_Chaudhari](https://github.com/the-bokya)
+- [Nihar Hegde](https://github.com/nihar-hegde)
 - [Elangovan](https://github.com/elango5292)
 - [Nayan Jyoti Das](https://github.com/njdasa)
 - [Aleks_Lucenko](https://github.com/alekslucenko)
