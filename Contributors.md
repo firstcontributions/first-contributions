@@ -112,6 +112,7 @@
 - [Brandon Cole](https://github.com/realbcole)
 - [applo susheng](https://github.com/applo-susheng "test")
 - [Koninika Tarafdar](https://github.com/Koninikax)
+- [Nagaraj Poojari](https://github.com/nagarajRPoojari)
 - [Karthikeyan Nambivinayagam](https://github.com/Karthikn-n)
 - [Provab Mongchaw Khyang](https://github.com/notmongchaw)
 - [Aliraza Khan](https://github.com/itsarkcodes)
