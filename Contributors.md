@@ -178,6 +178,7 @@
 - [Matt De Vries](https://github.com/DeVriesMatt)
 - [Hargovind Singh](https://github.com/GovindProMax)
 - [Jason Wilson](https://github.com/WilsonJhub)
+- [Connor Jones](https://github.com/CJDevelops)
 - [Alexander Castillo](https://github.com/Jhuiice)
 - [Connor Rokos](https://github.com/c-rokos)
 - [Awais Ahmad](https://github.com/IMAWAISAHMAD)
