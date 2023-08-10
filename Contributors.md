@@ -8,7 +8,8 @@
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
 - Shivam Rajput
 - Deepak Thorat
-  [Johnny]
+- [AlbertHoxha](https://github.com/alberthoxha)
+- Johnny
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
 - [Jason Gratiot] (https://github.com/jason-gratiot)
 - [Yiwen Tseng](https://github.com/gecko0127)
