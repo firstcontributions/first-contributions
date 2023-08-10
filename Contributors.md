@@ -724,6 +724,7 @@
 - [mdelrosa](https://github.com/mdelrosa)
 - [Dimple Jain](https://github.com/dimplehoney)
 - [Yogesh G](https://github.com/yogeshgunasekaran)
+- [imjacobtw](https://github.com/imjacobtw)
 - [Keisha Shanice](https://github.com/KeishaShanice)
 - [Maxwell Calkin](https://github.com/MaxwellCalkin)
 - [Luna Bean](https://github.com/Luna-Bean)
