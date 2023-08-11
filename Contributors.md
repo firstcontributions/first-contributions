@@ -21,6 +21,7 @@
 - Deepak Thorat
 - Alvaro Lucas
 - [Vijay Vardhan](https://github.com/vijayvardhan6)
+- [AbdulRehman Mangral](https://github.com/armangral)
 - [Presh Jindal](https://github.com/PreshJindal)
 - [AlbertHoxha](https://github.com/alberthoxha)
 - Johnny
