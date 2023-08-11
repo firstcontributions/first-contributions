@@ -1,6 +1,7 @@
 # Contributors
 
 - [Bhanu Singh] (https://github.com/bhanusingh008)
+- [Harsh Kumar Singh] (https://github.com/dragoon4890)
 - [Harshit Kumar] (https://github.com/harshitkk11)
 - [mgrTutka] (https://github.com/mgrTutka)
 - [Fabi]
