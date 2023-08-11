@@ -705,6 +705,7 @@
 - [Gowri Sankar Kalla] (https://github.com/sankarkalla2)
 - [UvrajSB](https://github.com/UvrajSB)
 - [Ashmit Chamoli](https://github.com/ashmitchamoli)
+- [Jassim](https://github.com/jassim-ibrahim-13)
 - [Manish Bhusal](https://github.com/manish-bhusal/)
 - [Prajwal](https://github.com/prajwalbandak)
 - [Neha Santani](https://github.com/NehaSantani)
