@@ -1,5 +1,6 @@
 # Contributors
 
+- [Harshit Kumar] (https://github.com/harshitkk11)
 - [mgrTutka] (https://github.com/mgrTutka)
 - [Fabi]
 - [Vladimir Gragert](https://github.com/GragertVD)
@@ -13,6 +14,7 @@
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
 - Shivam Rajput
 - [dh-tester](https://github.com/dh-tester)
+- [Manoah Luka](https://github.com/manoahLinks)
 - Deepak Thorat
 - Alvaro Lucas
 - [AlbertHoxha](https://github.com/alberthoxha)
@@ -25,6 +27,7 @@
 - [Nihar Hegde](https://github.com/nihar-hegde)
 - [Elangovan](https://github.com/elango5292)
 - [Nayan Jyoti Das](https://github.com/njdasa)
+- [Dhruvabhat24](https://github.com/Dhruvabhat24)
 - [Aleks_Lucenko](https://github.com/alekslucenko)
 - [Brijesh Roy](https://github.com/brijeshroy)
 - [Moncef Meharzi](https://github.com/Moncef-Mhz)
@@ -43,6 +46,7 @@
 - [namedmichi](https://github.com/namedmichi)
 - [arunraghuram](https://github.com/arunraghuram)
 - [jdavidc123](https://github.com/jdavidc123)
+- [Fede-26](https://github.com/Fede-26)
 - [gyanash.ekka](https://github.com/gyanAsh)
 - [Sha1nal](https://github.com/Sha1nal/)
 - [raghvendra.singh](https://github.com/Raghvendra-Singh-Shekhawat)
@@ -95,6 +99,7 @@
 - [Bolajoko Bolaji](https://github.com/Bolaji06)
 - [Dany S](https://github.com/dan77272)
 - [Ruth Ikegah](https://github.com/Ruth-ikegah)
+- [Marcelo Bragança](https://github.com/mvrcelitos)
 - [Rishikesh Kanabar](https://github.com/RishikeshNK)
 - [Moheet Shendarkar](https://github.com/moheet333)
 - [Adrian Calleja](https://github.com/adrii0113)
@@ -445,6 +450,7 @@
 - [TheLaziestDog](https://github.com/TheLaziestDog)
 - [Nur Hamid](https://github.com/nurhamidqq)
 - [Harsh Gupta](https://github.com/Harsh3341)
+- [Lau Chung Yuen](https://github.com/s050425b)
 - [Taylor Hartsfield](https://github.com/TaylorHartsfield)
 - [Iano Njuguna](https://github.com/IanoNjuguna)
 - [Mahaveer Jain](https://github.com/mahaveer82)
@@ -774,6 +780,7 @@
 - [Yatee Singh](https://github.com/yatee-singh)
 - [Atharva Pardeshi](https://github.com/SazedWorldbringer)
 - [Khai Tran](https://github.com/minhkhai2005)
+  [Calen Shirfield](https://github.com/CalenShirfield)   
 - [Aditya Patel](https://github.com/thepateladitya)
 - [Ling Xiao](https://github.com/lingxiao14122)
 - [Pongking](https://github.com/Pongking)
@@ -812,6 +819,8 @@
 - [ljunya](https://github.com/ljy18)
 - [wissensalt](https://github.com/wissensalt)
 - [sprvgt](https://github.com/sprvgt)
+- [AhmadMustafa01](https://github.com/AhmadMustafa01)
 - [jithinphilip](https://github.com/jithinphilip347)
 - [michik0](https://github.com/michik0)
 - [TimotheeMarreroMeyer](https://github.com/TimotheeMarreroMeyer)
+- Jack
