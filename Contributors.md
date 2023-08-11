@@ -111,6 +111,7 @@
 - [Vyoam Yadav](https://github.com/ambiguousphoton)
 - [Sean Corzo](https://github.com/scorzo)
 - [James So](https://github.com/JamesSo1)
+- [FOUR_BITS] (https://github.com/FOUR-BITS-28)
 - [Khawaja Muhammad Bilal](https://github.com/beelal-k)
 - [Angela S](https://github.com/angelasrsh)
 - [Ravindra Reddy](https://github.com/ravindra135)
