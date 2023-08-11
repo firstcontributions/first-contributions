@@ -1,6 +1,8 @@
 # Contributors
 
+- [Harshit Kumar] (https://github.com/harshitkk11)
 - [mgrTutka] (https://github.com/mgrTutka)
+- [Fabi]
 - [Vladimir Gragert](https://github.com/GragertVD)
 - [Gaurav Bisht](https://github.com/iamgauravbisht)
 - [KentuckySato](https://github.com/KentuckySato)
@@ -12,6 +14,7 @@
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
 - Shivam Rajput
 - [dh-tester](https://github.com/dh-tester)
+- [Manoah Luka](https://github.com/manoahLinks)
 - Deepak Thorat
 - Alvaro Lucas
 - [AlbertHoxha](https://github.com/alberthoxha)
@@ -444,6 +447,7 @@
 - [TheLaziestDog](https://github.com/TheLaziestDog)
 - [Nur Hamid](https://github.com/nurhamidqq)
 - [Harsh Gupta](https://github.com/Harsh3341)
+- [Lau Chung Yuen](https://github.com/s050425b)
 - [Taylor Hartsfield](https://github.com/TaylorHartsfield)
 - [Iano Njuguna](https://github.com/IanoNjuguna)
 - [Mahaveer Jain](https://github.com/mahaveer82)
@@ -800,6 +804,7 @@
 - [Paerarason](https://github.com/paerarason)
 - [want2012](https://github.com/want2012)
 - [Adilet Baimyrza](https://github.com/AdiletBaimyrza)
+- [LionKang] (https://github.com/Lion-Kang)
 - [Tsveto](https://github.com/Sclipper)
 - [salaminipples](https://github.com/salaminipples)
 - [bucked404](https://github.com/bucked404)
@@ -812,3 +817,6 @@
 - [sprvgt](https://github.com/sprvgt)
 - [michik0](https://github.com/michik0)
 - [AhmadMustafa01](https://github.com/AhmadMustafa01)
+- [jithinphilip](https://github.com/jithinphilip347)
+- [michik0](https://github.com/michik0)
+
