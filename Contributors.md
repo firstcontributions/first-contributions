@@ -44,6 +44,7 @@
 - [S0lci70](https://github.com/s0lci700)
 - [Thejas Bhat](https://github.com/tbpcoder)
 - [Mahendra Kolhe](https://github.com/Mahikolhe23)
+- [Tristan Hoffay](https://github.com/TristanHoffay)
 - [Best wishes](https://github.com/SinusoidFunc)
 - [Venkatesh-KCET](https://github.com/Venkatesh-KCET)
 - [namedmichi](https://github.com/namedmichi)
