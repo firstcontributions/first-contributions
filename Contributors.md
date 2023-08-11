@@ -388,6 +388,7 @@
 - [Destiny O&#39;Connor](https://github.com/SuperDeafveloper)
 - [Debaili Madani Samy](https://github.com/samdem-ai)
 - [Ashley-Chen](https://github.com/ashlchen)
+- [Selase Perry Zuttah](https://github.com/Mims20)
 - [Todi Rahmat](https://github.com/todikun)
 - [Suraj Sajwan](https://github.com/Sajwan055)
 - [Vivek Tiwari](https://github.com/probablyvivek)
