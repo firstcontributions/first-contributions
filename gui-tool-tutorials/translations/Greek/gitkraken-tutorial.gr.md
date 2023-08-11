@@ -53,9 +53,16 @@
 
 Εάν έχετε το αποθετήριο ανοικτό στο GitKraken, θα δείτε ότι υπάρχουν αλλαγές. Ελέγξτε και κάντε stage αυτές τις αλλαγές επιλέγοντας την νεότερη δέσμευση που είναι σημειωμένη με "// WIP" και τον αριθμό των αρχείων που έχουν αλλάξει και τον τύπο της αλλαγής.
 
+<img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-edit.png" alt="edit some file(s)" />
+
+
 Επανεξετάστε τα αρχεία που έχουν αλλάξει και αποφασίστε τι θέλετε να τα κάνετε stage. Το staging είναι σημαντικό για να πείτε στο Git ακριβώς ποιες αλλαγές αρχείων θέλετε να συσχετίσετε με αυτήν τη δέσμευση.
 
+<img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-stage.png" alt="stage your changes" />
+
 Αφού έχετε ένα καλό μήνυμα δεσμεύσεως ("Προσθήκη <του-ονόματός-σας> στη λίστα συνεισφερόντων" ακούγεται ωραίο και περιγραφικό) και είστε ικανοποιημένοι με τις αλλαγές σας, μπορείτε να πατήσετε "Stage όλων των αλλαγών" για να κάνετε stage όλα όσα έχουν τροποποιηθεί ή "Stage αρχείου" για να κάνετε stage ένα μεμονωμένο αρχείο.
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-commit.png" alt="clone this repository" />
 
 Εάν αλλάξετε γνώμη, μπορείτε να ακυρώσετε το staging αυτών των αλλαγών ή να τις απορρίψετε εντελώς.
 ΠΡΟΕΙΔΟΠΟΙΗΣΗ: Όπως υποδηλώνει η λέξη απόρριψη, αυτή είναι μια καταστροφική λειτουργία. Κάντε αυτό μόνο εάν δεν θέλετε καμία αλλαγή από το αποθετήριο στο οποίο βρίσκεστε.
@@ -66,7 +73,11 @@
 
 ## Ανέβασμα αλλαγών στο GitHub
 
+<img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-push.png" alt="push your changes" />
+
 Πατήστε το κουμπί Ανέβασμα στη γραμμή εργαλείων.
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-origin.png" alt="origin or branch" />
 
 Υποβάλετε αλλαγές στο παρακλάδι origin εάν θέλετε οι αλλαγές να αντανακλούν απευθείας στον παρακλάδι master, διαφορετικά επιλέξτε το κατάλληλο παρακλάδι που θέλετε να ανεβάσετε.
 
@@ -74,7 +85,11 @@
 
 Εάν πάτε στο αποθετήριο σας στο github, θα δείτε το κουμπί "Σύγκριση & αίτηση εξαγωγής". Κάντε κλικ σε αυτό το κουμπί.
 
+<img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/compare-and-pull.png" alt="create a pull request" />
+
 Τώρα υποβάλετε το αίτημα εξαγωγής.
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/submit-pull-request.png" alt="submit pull request" />
 
 Σύντομα θα ενσωματώσω όλες τις αλλαγές σας στον κύριο παρακλάδι αυτού του έργου. Θα λάβετε μια ειδοποίηση με ηλεκτρονικό ταχυδρομείο αφού οι αλλαγές έχουν ενσωματωθεί.
 
