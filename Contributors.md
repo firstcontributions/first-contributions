@@ -1,5 +1,6 @@
 # Contributors
 
+- [Harshit Kumar] (https://github.com/harshitkk11)
 - [mgrTutka] (https://github.com/mgrTutka)
 - [Fabi]
 - [Vladimir Gragert](https://github.com/GragertVD)
