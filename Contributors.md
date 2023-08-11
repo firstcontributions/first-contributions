@@ -5,6 +5,7 @@
 - [mgrTutka] (https://github.com/mgrTutka)
 - [Fabi]
 - [Vladimir Gragert](https://github.com/GragertVD)
+- [Zezenta](https://github.com/Zezenta)
 - [Sawyer Nicastro](https://github.com/SawyerNic)
 - [Gaurav Bisht](https://github.com/iamgauravbisht)
 - [KentuckySato](https://github.com/KentuckySato)
