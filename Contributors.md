@@ -36,6 +36,7 @@
 - [Nihar Hegde](https://github.com/nihar-hegde)
 - [Elangovan](https://github.com/elango5292)
 - [Nayan Jyoti Das](https://github.com/njdasa)
+- [Ujjwal Goyal](https://github.com/madhurgoyal19)
 - [Dhruvabhat24](https://github.com/Dhruvabhat24)
 - [Aleks_Lucenko](https://github.com/alekslucenko)
 - [Brijesh Roy](https://github.com/brijeshroy)
