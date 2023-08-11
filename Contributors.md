@@ -1,4 +1,5 @@
 # Contributors
+- [Alok Tamrakar](https://github.com/TammyAlok2)
 - [Ayico](https://github.com/Ayico)
 -  [Roy Naeim](https://github.com/roysnaim/)
 !-- prettier-ignore-start -->
