@@ -15,6 +15,7 @@
 - [Lokesh Choudhary](https://github.com/lokeshchoudharyprogrammer)
 - [Umesh Savaliya](https://github.com/Umesh-WW)
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
+- [Chris Nieves] (https://github.com/nievescs20)
 - Shivam Rajput
 - [dh-tester](https://github.com/dh-tester)
 - [Manoah Luka](https://github.com/manoahLinks)
@@ -795,7 +796,7 @@
 - [Yatee Singh](https://github.com/yatee-singh)
 - [Atharva Pardeshi](https://github.com/SazedWorldbringer)
 - [Khai Tran](https://github.com/minhkhai2005)
-  [Calen Shirfield](https://github.com/CalenShirfield)   
+  [Calen Shirfield](https://github.com/CalenShirfield)
 - [Aditya Patel](https://github.com/thepateladitya)
 - [Ling Xiao](https://github.com/lingxiao14122)
 - [Pongking](https://github.com/Pongking)
