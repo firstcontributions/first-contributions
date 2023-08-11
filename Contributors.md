@@ -90,6 +90,7 @@
 - [Satyam singh](https://github.com/jirayanaruto)
 - [Lior Haim](https://github.com/LiorHaimGit)
 - [Jacob Albert](https://github.com/jalbert90)
+- [Bolajoko Bolaji](https://github.com/Bolaji06)
 - [Dany S](https://github.com/dan77272)
 - [Ruth Ikegah](https://github.com/Ruth-ikegah)
 - [Rishikesh Kanabar](https://github.com/RishikeshNK)
