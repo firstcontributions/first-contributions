@@ -90,6 +90,7 @@
 - [Satyam singh](https://github.com/jirayanaruto)
 - [Lior Haim](https://github.com/LiorHaimGit)
 - [Jacob Albert](https://github.com/jalbert90)
+- [Bolajoko Bolaji](https://github.com/Bolaji06)
 - [Dany S](https://github.com/dan77272)
 - [Ruth Ikegah](https://github.com/Ruth-ikegah)
 - [Rishikesh Kanabar](https://github.com/RishikeshNK)
@@ -321,6 +322,7 @@
 - [Prasang Gupta](https://github.com/prasang-gupta)
 - [nnhjs](https://github.com/nnhjs)
 - Dustin Yochim
+- Zachary Odom
 - [Black Knight](https://github.com/BlacKnight-RH)
 - [Anurag Roy](https://github.com/NextThread)
 - [Iftikhar Yar Khan](https://github.com/iftikharyk)
@@ -480,6 +482,7 @@
 - [Prajjwal Mishra](https://github.com/p-mishra1)
 - [Josue Chavez](https://github.com/chjosue80)
 - [Russell Martinez](https://github.com/hrussellm)
+- [Sirildo](https://github.com/sirildo)
 - [Pranav Shirole](https://github.com/thelegend2742069)
 - [Adam Anderson](https://github.com/developer-3)
 - [Khai Nguyen](https://github.com/xkhainguyen)
