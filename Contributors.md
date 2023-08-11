@@ -1,8 +1,9 @@
 # Contributors
 
-- [Bhanu Singh] (https://github.com/bhanusingh008)
-- [Harshit Kumar] (https://github.com/harshitkk11)
-- [mgrTutka] (https://github.com/mgrTutka)
+- [Bhanu Singh](https://github.com/bhanusingh008)
+- [Lasindu Weerasinghe](https://github.com/LassazVegaz)
+- [Harshit Kumar](https://github.com/harshitkk11)
+- [mgrTutka](https://github.com/mgrTutka)
 - [Fabi]
 - [Vladimir Gragert](https://github.com/GragertVD)
 - [Sawyer Nicastro](https://github.com/SawyerNic)
