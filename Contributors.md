@@ -599,6 +599,7 @@
 - [Sasha Iwanczuk](https://github.com/sashaiwan)
 - [Mazhar Ansari](https://github.com/MJCoder15)
 - [Kenny Pearson](https://github.com/kenwoodp)
+- [Kira Tubo](https://github.com/ktubo/)
 - [Roger Stafford](https://github.com/rogerstafforducl)
 - [Fernando Unger](https://github.com/fernandounger/)
 - [Samukelo Ngidi](https://github.com/SamukeloNgidi)
