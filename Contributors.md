@@ -800,6 +800,7 @@
 - [Paerarason](https://github.com/paerarason)
 - [want2012](https://github.com/want2012)
 - [Adilet Baimyrza](https://github.com/AdiletBaimyrza)
+- [LionKang] (https://github.com/Lion-Kang)
 - [Tsveto](https://github.com/Sclipper)
 - [salaminipples](https://github.com/salaminipples)
 - [bucked404](https://github.com/bucked404)
