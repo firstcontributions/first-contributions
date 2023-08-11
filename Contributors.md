@@ -140,6 +140,8 @@
 - [Sanket patil](https://github.com/sanket1one)
 - [Eliza Huang](https://github.com/elizahuang/)
 - [Alvin Su](https://github.com/aksu-github)
+- [Carmina Lamit](https://github.com/carminalamit)
+- [Andrew Stringfellow](https://github.com/andrewstring)
 - [Andrew Stringfellow](https://github.com/andrewstring)
 - [Ayush Bharatiya](https://github.com/ayush9492)
 - [Yaseer Tasleem](https://github.com/yaseer-13)
