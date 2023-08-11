@@ -93,6 +93,7 @@
 - [Surafel fikru](https://github.com/arist76)
 - [Aasim Qureshi](https://github.com/AasimxQureshi)
 - [Kerim Kilic](https://github.com/kerim-kilic)
+- [Rishav Majumdar](https://github.com/Rishav273)
 - [Abisola Oluwaseun Olayinka](https://github.com/Abisola-O)
 - [Baljapalli Anshul](https://github.com/AnshulBaljapalli)
 - [Vansh Arora](https://github.com/vansharora03)
