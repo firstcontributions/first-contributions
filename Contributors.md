@@ -845,3 +845,4 @@
 - [gunay-h](https://github.com/gunay-h)
 - [Exia](https://github.com/ooexiaoo)
 - [jjhen99](https://github.com/jjhen99)
+- [Jeff Araujo](https://github.com/jeffara)
