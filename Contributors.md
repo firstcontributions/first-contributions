@@ -599,6 +599,7 @@
 - [Sasha Iwanczuk](https://github.com/sashaiwan)
 - [Mazhar Ansari](https://github.com/MJCoder15)
 - [Kenny Pearson](https://github.com/kenwoodp)
+- [Kira Tubo](https://github.com/ktubo/)
 - [Roger Stafford](https://github.com/rogerstafforducl)
 - [Fernando Unger](https://github.com/fernandounger/)
 - [Samukelo Ngidi](https://github.com/SamukeloNgidi)
@@ -807,4 +808,7 @@
 - [jerjjj](https://github.com/jerjjj)
 - [ljunya](https://github.com/ljy18)
 - [wissensalt](https://github.com/wissensalt)
+- [sprvgt](https://github.com/sprvgt)
+- [michik0](https://github.com/michik0)
+
 - [jithinphilip](https://github.com/jithinphilip347)
