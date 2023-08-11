@@ -14,6 +14,7 @@
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
 - Shivam Rajput
 - [dh-tester](https://github.com/dh-tester)
+- [Dhruvabhat24](https://github.com/Dhruvabhat24)
 - [Manoah Luka](https://github.com/manoahLinks)
 - Deepak Thorat
 - Alvaro Lucas
