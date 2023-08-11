@@ -482,6 +482,7 @@
 - [Prajjwal Mishra](https://github.com/p-mishra1)
 - [Josue Chavez](https://github.com/chjosue80)
 - [Russell Martinez](https://github.com/hrussellm)
+- [Sirildo](https://github.com/sirildo)
 - [Pranav Shirole](https://github.com/thelegend2742069)
 - [Adam Anderson](https://github.com/developer-3)
 - [Khai Nguyen](https://github.com/xkhainguyen)
