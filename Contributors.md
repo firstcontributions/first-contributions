@@ -17,6 +17,7 @@
 - [Manoah Luka](https://github.com/manoahLinks)
 - Deepak Thorat
 - Alvaro Lucas
+- [Presh Jindal](https://github.com/PreshJindal)
 - [AlbertHoxha](https://github.com/alberthoxha)
 - Johnny
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
