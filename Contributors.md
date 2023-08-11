@@ -793,6 +793,7 @@
 - [Quan Do](https://github.com/dodangquan123)
 - [Paerarason](https://github.com/paerarason)
 - [want2012](https://github.com/want2012)
+- [LionKang] (https://github.com/Lion-Kang)
 - [Adilet Baimyrza](https://github.com/AdiletBaimyrza)
 - [Tsveto](https://github.com/Sclipper)
 - [salaminipples](https://github.com/salaminipples)
