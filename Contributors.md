@@ -27,6 +27,7 @@
 - [Nihar Hegde](https://github.com/nihar-hegde)
 - [Elangovan](https://github.com/elango5292)
 - [Nayan Jyoti Das](https://github.com/njdasa)
+- [Dhruvabhat24](https://github.com/Dhruvabhat24)
 - [Aleks_Lucenko](https://github.com/alekslucenko)
 - [Brijesh Roy](https://github.com/brijeshroy)
 - [Moncef Meharzi](https://github.com/Moncef-Mhz)
