@@ -819,7 +819,6 @@
 - [ljunya](https://github.com/ljy18)
 - [wissensalt](https://github.com/wissensalt)
 - [sprvgt](https://github.com/sprvgt)
-- [michik0](https://github.com/michik0)
 - [AhmadMustafa01](https://github.com/AhmadMustafa01)
 - [jithinphilip](https://github.com/jithinphilip347)
 - [michik0](https://github.com/michik0)
