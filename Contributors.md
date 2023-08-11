@@ -802,3 +802,4 @@
 - [Izzy](https://github.com/IzzyPrime)
 - [Peytonjc](https://github.com/peytonjc)
 - [Xianyxu] (https://github.com/xianyxu)
+- [Michiko](https://github.com/michik0)
