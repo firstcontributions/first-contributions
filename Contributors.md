@@ -626,6 +626,7 @@
 - [Jeff Ni](https://github.com/nijeff27)
 - [Sarthak Kumar](https://github.com/sarthak503)
 - [Mårten Sjöberg](https://github.com/tikktakk79)
+- [Nabeel Rajabali](https://github.com/Nabstar3)
 - [Alejandro Ramirez Jr.](https://github.com/AlejandroRamirezJr)
 - [Francisca Suarez](https://github.com/franciisca)
 - [careyuyu](https://github.com/careyuyu)
