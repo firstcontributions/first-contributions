@@ -321,6 +321,7 @@
 - [Prasang Gupta](https://github.com/prasang-gupta)
 - [nnhjs](https://github.com/nnhjs)
 - Dustin Yochim
+- Zachary Odom
 - [Black Knight](https://github.com/BlacKnight-RH)
 - [Anurag Roy](https://github.com/NextThread)
 - [Iftikhar Yar Khan](https://github.com/iftikharyk)
