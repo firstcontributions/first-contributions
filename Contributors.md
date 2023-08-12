@@ -782,6 +782,7 @@
 - [Brittany Tinnin](https://github.com/TinninBrittany)
 - [Adam Stephens](https://github.com/stender11)
 - [S RAMANAN](https://github.com/S-Ramanan)
+- [Gu Octans](https://github.com/tjxn230)
 - [HirakinAndr](https://github.com/HirakinAndr)
 - [Karthik Murali](https://github.com/karthikmurali60)
 - [Roberto Saliola](https://github.com/Roberto286)
