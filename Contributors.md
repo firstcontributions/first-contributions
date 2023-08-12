@@ -22,6 +22,7 @@
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
 - [Chris Nieves] (https://github.com/nievescs20)
 - Shivam Rajput
+- [snghvineet]
 - [dh-tester](https://github.com/dh-tester)
 - [Manoah Luka](https://github.com/manoahLinks)
 - Deepak Thorat
