@@ -8,6 +8,7 @@
 - [mgrTutka] (https://github.com/mgrTutka)
 - [Fabi]
 - [Vladimir Gragert](https://github.com/GragertVD)
+- [Ankit Kumar Jaipuriar](https://github.com/Ankit-Jaipuriar) 
 - [Michael Seutin](https://github.com/MSeutin)
 - [Zezenta](https://github.com/Zezenta)
 - [Sawyer Nicastro](https://github.com/SawyerNic)
