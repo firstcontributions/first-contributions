@@ -797,6 +797,7 @@
 - [Jehu Barbee](https://github.com/jehubarbee)
 - [cfritchie](https://github.com/flwrr)
 - [Om Magdum](https://github.com/ommagdum)
+- [Wises Kesom](https://github.com/bztoy)
 - [mdelrosa](https://github.com/mdelrosa)
 - [Dimple Jain](https://github.com/dimplehoney)
 - [Yogesh G](https://github.com/yogeshgunasekaran)
