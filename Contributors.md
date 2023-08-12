@@ -67,6 +67,7 @@
 - [namedmichi](https://github.com/namedmichi)
 - [arunraghuram](https://github.com/arunraghuram)
 - [jdavidc123](https://github.com/jdavidc123)
+- [jehoshua-fmstudio-id](https://github.com/fanmadestudio)
 - [Fede-26](https://github.com/Fede-26)
 - [gyanash.ekka](https://github.com/gyanAsh)
 - [Sha1nal](https://github.com/Sha1nal/)
