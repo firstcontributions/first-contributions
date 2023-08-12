@@ -78,6 +78,7 @@
 - [Amit Kumar](https://github.com/amitthecoder)
 - [almostJohn](https://github.com/almostJohn)
 - [Joel Tomy](https://github.com/joeljtomy)
+- [Shikhar Soni] (https://github.com/shikharsoni07)
 - [Abdelrahman Elsayed](https://github.com/onepercentgold)
 - [Muhammed Abdulhakeem](https://github.com/ennas-de/)
 - [Gabriel Moraes](https://github.com/gabrielm33)
