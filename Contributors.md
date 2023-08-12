@@ -29,6 +29,7 @@
 - [AlbertHoxha](https://github.com/alberthoxha)
 - Johnny
 - Isaias Cuvula
+- [Lyu You](https://github.com/HelloBug1)
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
 - [ZlatislavZ](https://github.com/ZlatislavZ)
 - [Jason Gratiot](https://github.com/jason-gratiot)
