@@ -11,7 +11,6 @@
 - [Harshit Kumar] (https://github.com/harshitkk11)
 - [mgrTutka] (https://github.com/mgrTutka)
 - [Fabi]
-- [Shashank Hebbar](https://github.com/quantumflo) 
 - [Vladimir Gragert](https://github.com/GragertVD)
 - [Ankit Kumar Jaipuriar](https://github.com/Ankit-Jaipuriar) 
 - [Michael Seutin](https://github.com/MSeutin)
