@@ -889,6 +889,7 @@
 - [Raven-July](https://github.com/Raven-July)
 - [Ayush Desai](https://github.com/Ayush-desaii)
 - [UntoldGam](HTTPS://github.com/UntoldGam)
+Jaytrox
 - [Bemdoo Maor](https://github.com/MaorBemdoo)
 - [Omri Klein](https://github.com/omriklein)
 - [Sudershan Ganesan] (https://github.com/gksudershan)
