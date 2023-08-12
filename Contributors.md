@@ -864,3 +864,4 @@
 - [Jeff Araujo](https://github.com/jeffara)
 - [Jaroshevskii 🏳️‍🌈](https://github.com/jaroshevskii)
 - [Raven-July](https://github.com/Raven-July)
+- [Ayush Desai](https://github.com/Ayush-desaii)
