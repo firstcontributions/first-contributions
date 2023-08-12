@@ -18,6 +18,7 @@
 - [TaiBiscuit](https://github.com/TaiBiscuit)
 - [DimCel](https://github.com/dimcel)
 - [IRQD](https://github.com/irqd)
+- [Shamiya](https://github.com/shamiya)
 - [ABHISHEK SHARMA](https://github.com/AbhishekSharma6903)
 - [Lokesh Choudhary](https://github.com/lokeshchoudharyprogrammer)
 - [Umesh Savaliya](https://github.com/Umesh-WW)
