@@ -233,6 +233,7 @@
 - [Abhijeet Das Gupta](https://github.com/abhijelly)
 - [Anika Roy](https://github.com/Anika-Roy)
 - [Ebenezer Akhonya](https://github.com/Itsfoss0)
+- [Sujit Akulwar](https://github.com/SujitAkulwar)
 - [Olaoluwa Ajanaku](https://github.com/0laolu)
 - [DannyLin](https://github.com/danny-lin714)
 - [Shreya Dasgupta](https://github.com/shreyadg56)
