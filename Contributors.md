@@ -140,6 +140,7 @@
 - [Moussa GUENANI](https://github.com/moussague)
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
 - [Malavya Raval](https://github.com/MalavyaRaval)
+- [Levin Baria](https://github.com/levinbaria)
 - [José Ortiz-Ocampo](https://github.com/jhortizo)
 - [Curtis Aliwah](https://github.com/Aliwah1403)
 - [Oluwaseun Adesina](https://github.com/oluwaseun-Adesina)
