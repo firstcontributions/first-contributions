@@ -25,6 +25,7 @@
 - [Manoah Luka](https://github.com/manoahLinks)
 - Deepak Thorat
 - Alvaro Lucas
+- [Jess Vincent](https://github.com/hahardee0403)
 - [Vijay Vardhan](https://github.com/vijayvardhan6)
 - [AbdulRehman Mangral](https://github.com/armangral)
 - [Presh Jindal](https://github.com/PreshJindal)
@@ -231,7 +232,7 @@
 - [Jessica Clarita Halim](https://github.com/jessicaclarita)
 - [Ricardo Chairez](https://github.com/RicardoChairez)
 - [Dean Cabral](https://github.com/DeanCabral)
-[mohammad karimi](https://github.com/mohammad0914)
+  [mohammad karimi](https://github.com/mohammad0914)
 - [mhb-flh](https://github.com/mhb-flh)
 - [XYZscratcher](https://github.com/XYZscratcher)
 - [Agus Deo Saputra Utama](https://github.com/agusdeo)
