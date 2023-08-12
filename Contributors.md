@@ -31,6 +31,7 @@
 - [AlbertHoxha](https://github.com/alberthoxha)
 - Johnny
 - Isaias Cuvula
+- [Vishwajeet Sharma](https://github.com/vishusharmaX)
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
 - [ZlatislavZ](https://github.com/ZlatislavZ)
 - [Jason Gratiot](https://github.com/jason-gratiot)
