@@ -1,6 +1,7 @@
 # Contributors
 
 - [Yaroslav Baienko] (https://github.com/YaroslavBaienko)
+- [motongxue](https://github.com/motongxue)
 - [Bhanu Singh] (https://github.com/bhanusingh008)
 - [Lasindu Weerasinghe](https://github.com/LassazVegaz)
 - [Harsh Kumar Singh] (https://github.com/dragoon4890)
