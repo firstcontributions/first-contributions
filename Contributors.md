@@ -37,6 +37,7 @@
 - [snghvineet]
 - [dh-tester](https://github.com/dh-tester)
 - [Manoah Luka](https://github.com/manoahLinks)
+- [Vivek Ranjan Saho](https://github.com/vivekranjansahoo)
 - Deepak Thorat
 - Alvaro Lucas
 - [Vijay Vardhan](https://github.com/vijayvardhan6)
