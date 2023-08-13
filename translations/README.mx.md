@@ -52,14 +52,14 @@ Cambia al directorio del repositorio en tu equipo (si es que no estás ahí ya).
 cd first-contributions
 ```
 
-Ahora crea una rama (*branch*) usando el comando  `git checkout`:
+Ahora crea una rama (*branch*) usando el comando  `git switch`:
 ```
-git checkout -b <añade tu nombre>
+git switch -c <añade tu nombre>
 ```
 
 Por ejemplo:
 ```
-git checkout -b add-juan-perez
+git switch -c add-juan-perez
 ```
 (El nombre de la rama no tiene porqué contener la palabra *add*, pero es razonable que lo tenga porque el objetivo de esta rama es añadir tu nombre a la lista.)
 
