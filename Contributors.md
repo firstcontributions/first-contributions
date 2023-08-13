@@ -14,6 +14,7 @@
 - [Fabi]
 - [Jorge Cano]
 - [jungle-kai] (https://github.com/jungle-kai)
+- [Jahnavi-Solanki](https://github.com/Jahnavi-Solanki)
 - [TimedOut1800] (https://github.com/TimedOut1800)
 - [Shashank Hebbar](https://github.com/quantumflo) 
 - [Vladimir Gragert](https://github.com/GragertVD)
@@ -27,7 +28,10 @@
 - [DimCel](https://github.com/dimcel)
 - [YungBenn](https://github.com/YungBenn)
 - [IRQD](https://github.com/irqd)
-- [ROSELLE] (https://github.com/deleonroselle21) 
+- [Praise Idowu](https://github.com/praise002)
+- [ROSELLE] (https://github.com/deleonroselle21)
+- [Alam Jamal] (https://github.com/alamjamal)
+- [Deep Kumawat] (https://github.com/Deep-Kumawat)
 - [Shamiya](https://github.com/shamiya)
 - [ABHISHEK SHARMA](https://github.com/AbhishekSharma6903)
 - [Lokesh Choudhary](https://github.com/lokeshchoudharyprogrammer)
@@ -40,6 +44,7 @@
 - [Manoah Luka](https://github.com/manoahLinks)
 - [Vivek Ranjan Saho](https://github.com/vivekranjansahoo)
 - Deepak Thorat
+- [Samuel Ribeiro de Souza](https://github.com/samuelsouzzza)
 - Alvaro Lucas
 - [Vijay Vardhan](https://github.com/vijayvardhan6)
 - [AbdulRehman Mangral](https://github.com/armangral)
@@ -47,6 +52,7 @@
 - [AlbertHoxha](https://github.com/alberthoxha)
 - Johnny
 - Isaias Cuvula
+- [Awofiranye Sherif] (https://github.com/iAmSherifCodes)
 - [Vishwajeet Sharma](https://github.com/vishusharmaX)
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
 - [ZlatislavZ](https://github.com/ZlatislavZ)
@@ -194,6 +200,7 @@
 - [Jesus Elizalde](https://github.com/Jesus-Elizalde)
 - [Fergus Maclean](https://github.com/fergusmac1)
 - [Rizkian Akbar Juniansyah](https://github.com/rizkianakbar)
+- [Dalin Stone](https://github.com/dalinkstone)
 - [Christian Sanchez](https://github.com/digitalghost-dev)
 - [Dany Nghaywe](https://github.com/DanyNghaywe)
 - [Dev-Ogechi](https://github.com/Dev-Ogechi)
@@ -268,6 +275,7 @@
 - [RAJMISHRA](https://github.com/rajmishra-47)
 - [William Owusu](https://github.com/Willowusu)
 - [Mariah Laqua](https://github.com/mariahlaqua)
+- [Allan Yip](https://github.com/papatekken)
 - [Himanshu Dubey](https://github.com/sorted-hd)
 - [Andreu Gonzalez](https://github.com/andreu-g)
 - [Anjali](https://github.com/anjali-sambargi)
@@ -775,6 +783,7 @@
 - [Abhijeet Jain](https://github.com/abhijeetj100)
 - [Aditya Narayan](https://github.com/adityanarayanm095)
 - [Yash Amode](https://github.com/yashamode)
+- [Zaid Kaladia] (https://github.com/zaidkaladia)
 - [sussyamogus5](https://github.com/sussyamogus5)
 - [André Lucas C. da Silva](https://github.com/AndreLucas9310)
 - [secondary-smiles](https://github.com/secondary-smiles)
@@ -873,6 +882,7 @@
 - [Peytonjc](https://github.com/peytonjc)
 - [Xianyxu] (https://github.com/xianyxu)
 - [jerjjj](https://github.com/jerjjj)
+- [raphaeling](https://github.com/raphaeling)
 - [ljunya](https://github.com/ljy18)
 - [wissensalt](https://github.com/wissensalt)
 - [sprvgt](https://github.com/sprvgt)
@@ -897,4 +907,3 @@ Jaytrox
 - [Omri Klein](https://github.com/omriklein)
 - [Sudershan Ganesan] (https://github.com/gksudershan)
 - [yz-54](https://github.com/yz-54)
-- [Zaid Kaladia] (https://github.com/zaidkaladia)
