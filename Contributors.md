@@ -7,6 +7,7 @@
 - [motongxue](https://github.com/motongxue)
 - [Miles Eng](https://github.com/milesreng)
 - [Bhanu Singh] (https://github.com/bhanusingh008)
+- [Eze-DP] (https://github.com/Eze-DP)
 - [Lasindu Weerasinghe](https://github.com/LassazVegaz)
 - [Harsh Kumar Singh] (https://github.com/dragoon4890)
 - [Harshit Kumar] (https://github.com/harshitkk11)
