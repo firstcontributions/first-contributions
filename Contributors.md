@@ -16,6 +16,7 @@
 - King William [https://github.com/seanapowi]
 - [Jorge Cano]
 - [Wayne G] (https://github.com/wehyn)
+- [Gonca Negis] (https://github.com/goncanegis/)
 - [jungle-kai] (https://github.com/jungle-kai)
 - [Jahnavi-Solanki](https://github.com/Jahnavi-Solanki)
 - [TimedOut1800] (https://github.com/TimedOut1800)
