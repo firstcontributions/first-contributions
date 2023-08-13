@@ -48,6 +48,7 @@
 - [AlbertHoxha](https://github.com/alberthoxha)
 - Johnny
 - Isaias Cuvula
+- [Awofiranye Sherif] (https://github.com/iAmSherifCodes)
 - [Vishwajeet Sharma](https://github.com/vishusharmaX)
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
 - [ZlatislavZ](https://github.com/ZlatislavZ)
