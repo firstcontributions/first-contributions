@@ -64,6 +64,7 @@
 - [Awofiranye Sherif] (https://github.com/iAmSherifCodes)
 - [Vishwajeet Sharma](https://github.com/vishusharmaX)
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
+- [Niranjan B.](https://github.com/niranjan-19)
 - [ZlatislavZ](https://github.com/ZlatislavZ)
 - [Jason Gratiot](https://github.com/jason-gratiot)
 - [Yiwen Tseng](https://github.com/gecko0127)
