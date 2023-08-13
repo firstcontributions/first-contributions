@@ -14,6 +14,7 @@
 - [Fabi]
 - [Jorge Cano]
 - [jungle-kai] (https://github.com/jungle-kai)
+- [Jahnavi-Solanki](https://github.com/Jahnavi-Solanki)
 - [TimedOut1800] (https://github.com/TimedOut1800)
 - [Shashank Hebbar](https://github.com/quantumflo) 
 - [Vladimir Gragert](https://github.com/GragertVD)
