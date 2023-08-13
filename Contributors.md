@@ -365,6 +365,7 @@
 - [Nayan Pasari](https://github.com/npasari)
 - [Ainara Arevalo](https://github.com/ainaraap)
 - [Alfanso Elric](fullmetal alchemist brotherhood)🔥
+- [Kunal Kumar](https://github.com/kunalkumar37)
 - [Sushant Pargaonkar](https://github.com/sushant-97)
 - [Dwipa Al-Farisi](https://github.com/dwipaalfarisi)
 - [Linda Seiter](https://github.com/lseiter)
