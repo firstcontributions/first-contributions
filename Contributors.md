@@ -16,7 +16,7 @@
 - [Harshit Kumar] (https://github.com/harshitkk11)
 - [mgrTutka] (https://github.com/mgrTutka)
 - [Fabi]
-- [Jitendra Lohani] (https://github.com/jitendra-01)
+- [Jitendra Lohani] (https://github.com/jitendra-01) 
 - King William [https://github.com/seanapowi]
 - [Prabhat Saxena] (https://github.com/xx-VIRUS-xx)
 - [Jorge Cano]
