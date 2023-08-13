@@ -6,6 +6,7 @@
 - [efrxngg](https://github.com/efrxngg)
 - [Yaroslav Baienko] (https://github.com/YaroslavBaienko)
 - [motongxue](https://github.com/motongxue)
+- [Prajjwal Kumar] (https://github.com/eisemsi2)
 - [Miles Eng](https://github.com/milesreng)
 - [Bhanu Singh] (https://github.com/bhanusingh008)
 - [Eze-DP] (https://github.com/Eze-DP)
