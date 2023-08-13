@@ -13,6 +13,7 @@
 - [Harshit Kumar] (https://github.com/harshitkk11)
 - [mgrTutka] (https://github.com/mgrTutka)
 - [Fabi]
+- King William [https://github.com/seanapowi]
 - [Jorge Cano]
 - [jungle-kai] (https://github.com/jungle-kai)
 - [Jahnavi-Solanki](https://github.com/Jahnavi-Solanki)
