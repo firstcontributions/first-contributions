@@ -859,6 +859,7 @@
 - [Pritam Das](https://github.com/4ritam)
 - [Dinesh Dhanji](https://github.com/DineshDhanji)
 - [promax1113](https://github.com/promax1113)
+- [Xamss](https://github.com/Xamss)
 - [ganximi](https://github.com/ganximi)
 - [OmegaDL2](https://github.com/OmegaDL2)
 - [Popperda](https://github.com/popperda/)
