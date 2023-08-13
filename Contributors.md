@@ -41,6 +41,7 @@
 - [Manoah Luka](https://github.com/manoahLinks)
 - [Vivek Ranjan Saho](https://github.com/vivekranjansahoo)
 - Deepak Thorat
+- [Samuel Ribeiro de Souza](https://github.com/samuelsouzzza)
 - Alvaro Lucas
 - [Vijay Vardhan](https://github.com/vijayvardhan6)
 - [AbdulRehman Mangral](https://github.com/armangral)
