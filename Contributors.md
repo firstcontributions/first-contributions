@@ -1,5 +1,7 @@
 # Contributors
-- [Tarik Teshome] (https://github.com/tarik350)
+
+- [Tarik Teshome](https://github.com/tarik350)
+- [Pavanemani] (https://github.com/p1kalys)
 - [Kaushal Ganatra] (https://github.com/KaushalGanatra)
 - [chetannada](https://github.com/chetannada)
 - [SaswatSahu] (https://github.com/Raphel6969)
@@ -15,7 +17,10 @@
 - [Harshit Kumar] (https://github.com/harshitkk11)
 - [mgrTutka] (https://github.com/mgrTutka)
 - [Fabi]
+- [Jitendra Lohani] (https://github.com/jitendra-01) 
+- [Manu] (https://github.com/thunderbolt004)
 - King William [https://github.com/seanapowi]
+- [Prabhat Saxena] (https://github.com/xx-VIRUS-xx)
 - [Jorge Cano]
 - [Wayne G](https://github.com/wehyn)
 - [Alok Tamrakar](https://github.com/TammyAlok2)
@@ -55,6 +60,8 @@
 - Deepak Thorat
 - [Samuel Ribeiro de Souza](https://github.com/samuelsouzzza)
 - Alvaro Lucas
+- [StefKal] (https://github.com/StefKal)
+- Sri Vardhana Korada(https://github.com/srivardhanakorada)
 - [Vijay Vardhan](https://github.com/vijayvardhan6)
 - [AbdulRehman Mangral](https://github.com/armangral)
 - [Presh Jindal](https://github.com/PreshJindal)
@@ -80,6 +87,7 @@
 - [Raj sharma](https://github.com/lluciferr)
 - [Conaitus](https://github.com/conaitus)
 - [OpherM](https://github.com/OpherM)
+- [Jakub Radziejewski](https://github.com/jradziejewski)
 - [Abdessamad Bettal](https://github.com/abdessamadbettal)
 - [Harish Kukka](https://github.com/AlphaCeph-C3)
 - [YuHangSE](https://github.com/YuHangSE)
@@ -916,6 +924,7 @@
 - [Jaroshevskii 🏳️‍🌈](https://github.com/jaroshevskii)
 - [Raven-July](https://github.com/Raven-July)
 - [Ayush Desai](https://github.com/Ayush-desaii)
+- [Nilreboot](https://github.com/NilReboot/)
 - [UntoldGam](HTTPS://github.com/UntoldGam)
 Jaytrox
 - [Bemdoo Maor](https://github.com/MaorBemdoo)
