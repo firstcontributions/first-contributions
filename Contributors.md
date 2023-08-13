@@ -1,6 +1,9 @@
 # Contributors
 
 - [chetannada](https://github.com/chetannada)
+- *************************************************************************
+- [Sanjiv Kushwaha] (https://github.com/sanjiv0286)
+- **************************************************************************
 - [SaswatSahu] (https://github.com/Raphel6969)
 - [efrxngg](https://github.com/efrxngg)
 - [Yaroslav Baienko] (https://github.com/YaroslavBaienko)
@@ -851,9 +854,6 @@
 - [MK Saba](https://github.com/mksaba)
 - Ishwari Pillay
 - Jiang J
-- *****************************************************************
-- [Sanjiv Kushwaha] (https://github.com/sanjiv0286)
-- **************************************************************************
 - Poorvaja Satha Sivam
 - Endangered358
 - [CaitlinIsShort](https://github.com/caitlinisshort)
