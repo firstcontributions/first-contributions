@@ -27,6 +27,7 @@
 - [DimCel](https://github.com/dimcel)
 - [YungBenn](https://github.com/YungBenn)
 - [IRQD](https://github.com/irqd)
+- [Praise Idowu](https://github.com/praise002)
 - [ROSELLE] (https://github.com/deleonroselle21) 
 - [Shamiya](https://github.com/shamiya)
 - [ABHISHEK SHARMA](https://github.com/AbhishekSharma6903)
