@@ -1,5 +1,6 @@
 # Contributors
 
+- [Tarik Teshome] (https://github.com/tarik350)
 - [Kaushal Ganatra] (https://github.com/KaushalGanatra)
 - [chetannada](https://github.com/chetannada)
 - [SaswatSahu] (https://github.com/Raphel6969)
