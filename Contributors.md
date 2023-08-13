@@ -919,3 +919,4 @@ Jaytrox
 - [eroniuum]
 - [Zaid Kaladia] (https://github.com/zaidkaladia)
 - [Siddharth Vasu] (https://github.com/sidvasu)
+- [cweitong] (https://github.com/cwt0213)
