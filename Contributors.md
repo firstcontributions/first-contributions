@@ -16,7 +16,8 @@
 - [Fabi]
 - King William [https://github.com/seanapowi]
 - [Jorge Cano]
-- [Wayne G] (https://github.com/wehyn)
+- [Wayne G](https://github.com/wehyn)
+- [Alok Tamrakar](https://github.com/TammyAlok2)
 - haneesh byreddy
 - [Gonca Negis] (https://github.com/goncanegis/)
 - [jungle-kai] (https://github.com/jungle-kai)
