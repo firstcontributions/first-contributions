@@ -896,3 +896,4 @@ Jaytrox
 - [Omri Klein](https://github.com/omriklein)
 - [Sudershan Ganesan] (https://github.com/gksudershan)
 - [yz-54](https://github.com/yz-54)
+- [Zaid Kaladia] (https://github.com/zaidkaladia)
