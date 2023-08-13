@@ -85,6 +85,7 @@
 - [Raj sharma](https://github.com/lluciferr)
 - [Conaitus](https://github.com/conaitus)
 - [OpherM](https://github.com/OpherM)
+- [Jakub Radziejewski](https://github.com/jradziejewski)
 - [Abdessamad Bettal](https://github.com/abdessamadbettal)
 - [Harish Kukka](https://github.com/AlphaCeph-C3)
 - [YuHangSE](https://github.com/YuHangSE)
