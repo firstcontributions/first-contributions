@@ -914,3 +914,4 @@ Jaytrox
 - [eroniuum]
 - [Zaid Kaladia] (https://github.com/zaidkaladia)
 - [Siddharth Vasu] (https://github.com/sidvasu)
+- [hawkingwallct](https://github.com/hawkingwallct)
