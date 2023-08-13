@@ -847,6 +847,7 @@
 - Jiang J
 - Poorvaja Satha Sivam
 - Endangered358
+- [CaitlinIsShort](https://github.com/caitlinisshort)
 - [Pritam Das](https://github.com/4ritam)
 - [Dinesh Dhanji](https://github.com/DineshDhanji)
 - [promax1113](https://github.com/promax1113)
