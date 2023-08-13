@@ -24,6 +24,7 @@
 -  [Nurain Bamidele-Jnr](https://github.com/Adexbam02)
 -  [Nathan Moehlmann](https://github.com/nmoehlmann/)
 -  [defaultroot](https://github.com/defaultroot1)
+[Manu](https://github.com/thunderbolt004)
 -  [Rohit Chaware](https://github.com/R4Rohit23)
 -  [Sonu Kumar] (https://github.com/sonukumar7258)
 -  [Ankur Verma](https://github.com/Divyangchauhan/)
