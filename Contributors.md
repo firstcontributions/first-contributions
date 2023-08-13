@@ -905,5 +905,6 @@ Jaytrox
 - [Omri Klein](https://github.com/omriklein)
 - [Sudershan Ganesan] (https://github.com/gksudershan)
 - [yz-54](https://github.com/yz-54)
+- [eroniuum]
 - [Zaid Kaladia] (https://github.com/zaidkaladia)
 - [Siddharth Vasu] (https://github.com/sidvasu)
