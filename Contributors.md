@@ -794,6 +794,7 @@
 - [Abhijeet Jain](https://github.com/abhijeetj100)
 - [Aditya Narayan](https://github.com/adityanarayanm095)
 - [Yash Amode](https://github.com/yashamode)
+- [Zaid Kaladia] (https://github.com/zaidkaladia)
 - [sussyamogus5](https://github.com/sussyamogus5)
 - [André Lucas C. da Silva](https://github.com/AndreLucas9310)
 - [secondary-smiles](https://github.com/secondary-smiles)
@@ -802,6 +803,7 @@
 - [Amr Ashebo](https://github.com/amr8644)
 - [Okoye Victor](https://github.com/ChuloWay)
 - [E Stanzah](https://github.com/edwstanzah)
+- [Zaid Kaladia](https://github.com/zaidkaladia)
 - [Gleb Kan](https://github.com/practicalgnome)
 - [Rahul Anand](https://github.com/rnand)
 - [Kalu Agu Kalu](https://github.com/Godswilly)
@@ -919,6 +921,5 @@ Jaytrox
 - [Sudershan Ganesan] (https://github.com/gksudershan)
 - [yz-54](https://github.com/yz-54)
 - [eroniuum]
-- [Zaid Kaladia] (https://github.com/zaidkaladia)
 - [Siddharth Vasu] (https://github.com/sidvasu)
 - [Flyaway] (https://github.com/kayua27)
