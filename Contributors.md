@@ -55,6 +55,7 @@
 - Deepak Thorat
 - [Samuel Ribeiro de Souza](https://github.com/samuelsouzzza)
 - Alvaro Lucas
+- Sri Vardhana Korada(https://github.com/srivardhanakorada)
 - [Vijay Vardhan](https://github.com/vijayvardhan6)
 - [AbdulRehman Mangral](https://github.com/armangral)
 - [Presh Jindal](https://github.com/PreshJindal)
