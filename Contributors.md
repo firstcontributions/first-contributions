@@ -66,6 +66,7 @@
 - [Parthiv Parmar](https://github.com/parthiv011)
 - [snghvineet]
 - [dh-tester](https://github.com/dh-tester)
+- [Gaurav Deep](https://github.com/GAURAV-DEEP01)
 - [Manoah Luka](https://github.com/manoahLinks)
 - [Vivek Ranjan Saho](https://github.com/vivekranjansahoo)
 - Deepak Thorat
