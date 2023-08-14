@@ -1,6 +1,6 @@
 # Contributors
 
-- [Kaushal Ganatra] (https:github.com/KaushalGanatra)
+- [Kaushal Ganatra] (https://github.com/KaushalGanatra)
 - [chetannada](https://github.com/chetannada)
 - [SaswatSahu] (https://github.com/Raphel6969)
 - [efrxngg](https://github.com/efrxngg)
