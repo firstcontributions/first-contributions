@@ -520,6 +520,7 @@
 - [Uday](https://github.com/udaysonyy)
 - [Andrew Muiruri](https://github.com/AndrewMMai)
 - [Angela Johnson](https://github.com/angieloux)
+- [Sunku Preetham](https://github.com/s-preetham)
 - [Abdullah Qasim](https://github.com/Abdullahqasim75)
 - [Leandro Luna](https://github.com/LeandroLuna)
 - [Filip Telente](https://github.com/aminta5)
