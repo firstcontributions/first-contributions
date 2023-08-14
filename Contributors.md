@@ -1,7 +1,8 @@
 # Contributors
-
 - [Chintan Rupareliya](https://github.com/chintanrupareliya)
 - [Yoel Kraitman](https://github.com/yoelKraitman)
+- [Saptarshi Mandal](https://github.com/saptoh)
+- [Chintan Rupareliya](https://github.com/chintanrupareliya)
 - [Harsh Kishorani](https://github.com/HarshKishorani)
 - [Tarik Teshome](https://github.com/tarik350)
 - Yushan
