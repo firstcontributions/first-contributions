@@ -3,6 +3,7 @@
 - [Chintan Rupareliya](https://github.com/chintanrupareliya)
 - [Yoel Kraitman](https://github.com/yoelKraitman)
 - [Harsh Kishorani](https://github.com/HarshKishorani)
+- [Md. Saidul Islam](https://github.com/Saidul-1)
 - [Tarik Teshome](https://github.com/tarik350)
 - Yushan
 - [Pavanemani] (https://github.com/p1kalys)
