@@ -14,6 +14,7 @@
 - [efrxngg](https://github.com/efrxngg)
 - [Yaroslav Baienko] (https://github.com/YaroslavBaienko)
 - [motongxue](https://github.com/motongxue)
+- [Zombie12k] (https://github.com/Zombie12k)
 - [Prajjwal Kumar] (https://github.com/eisemsi2)
 - [Miles Eng](https://github.com/milesreng)
 - [Bhanu Singh] (https://github.com/bhanusingh008)
