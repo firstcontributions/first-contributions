@@ -945,3 +945,4 @@
 - [Art Villareal] (https://github.com/Bushido-Art)
 - [Daniel Kaijzer] (https://github.com/danielkaijzer)
 - [Ephraim Beltran] (https://github.com/ephraim-beltran)
+- [heywhf] (https://github.com/heywhf)
