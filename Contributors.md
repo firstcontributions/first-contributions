@@ -50,6 +50,7 @@
 - [IRQD](https://github.com/irqd)
 - [Praise Idowu](https://github.com/praise002)
 - [ROSELLE] (https://github.com/deleonroselle21)
+- [Rose Must](https://github.com/the-rose-bride)
 - [Alam Jamal] (https://github.com/alamjamal)
 - [Deep Kumawat] (https://github.com/Deep-Kumawat)
 - [Shamiya](https://github.com/shamiya)
