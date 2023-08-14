@@ -1,6 +1,7 @@
 # Contributors
 
 - [Chintan Rupareliya](https://github.com/chintanrupareliya)
+- [Yoel Kraitman](https://github.com/yoelKraitman)
 - [Harsh Kishorani](https://github.com/HarshKishorani)
 - [Tarik Teshome](https://github.com/tarik350)
 - [Pavanemani] (https://github.com/p1kalys)
