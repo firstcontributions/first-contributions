@@ -955,6 +955,7 @@
 - [Art Villareal] (https://github.com/Bushido-Art)
 - [Daniel Kaijzer] (https://github.com/danielkaijzer)
 - [Ephraim Beltran] (https://github.com/ephraim-beltran)
+- [heywhf] (https://github.com/heywhf)
 - [Praveen Pandi] (https://github.com/PravinPandi)
 - [BeesyBumbleBee](https://github.com/BeesyBumbleBee)
 - [Carry Lee] (https://github.com/Nuaza)
