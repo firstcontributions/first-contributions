@@ -627,6 +627,7 @@
 - [Shivam Singh](https://github.com/shivamsinghydv)
 - [Catalin Petrovici](https://github.com/catalinpetrovici24)
 - [Alphonsus Okoli](https://github.com/alphamanium)
+- [Niveditha T](https://github.com/nivedt)
 - [Elias Dzobo](https://github.com/elias-dzobo)
 - [Nuri Kim](https://github.com/nurikimchi)
 - [lihanspace &#x1f44b;](https://github.com/lihanspace)
