@@ -7,6 +7,7 @@
 - [Md. Saidul Islam](https://github.com/Saidul-1)
 - [Tarik Teshome](https://github.com/tarik350)
 - Yushan
+- [Campego](https://github.com/Campego)
 - [Pavanemani] (https://github.com/p1kalys)
 - [Yohancnc] (https://github.com/yohan-cnc)
 - [Kaushal Ganatra] (https://github.com/KaushalGanatra)
@@ -968,3 +969,4 @@
 - [Carry Lee] (https://github.com/Nuaza)
 - [Furkan Dogmus] (https://github.com/furkandogmus)
 - [yuchenlogin] (https://github.com/yuchenlogin)
+- [Furkan Dogmus] (https://github.com/furkandogmus)
