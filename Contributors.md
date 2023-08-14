@@ -869,6 +869,7 @@
 - [Yusuf Rabiu](https://github.com/stackkrocket)
 - [Eric VanSchagen](https://github.com/bojangles86)
 - [Luck Tran](https://github.com/lucktran)
+- [Brandon Agil](https://github.com/Brandonagil)
 - [Electro](https://github.com/Electro-Magnet45)
 - [Nuwan Sudusinghe](https://github.com/ArcReactive)
 - [Richi Rodriguez](https://github.com/RichiRodriguez)
