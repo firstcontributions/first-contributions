@@ -187,6 +187,7 @@
 - [Anukam Chidalu](https://github.com/daluclemas)
 - [Simon](https://github.com/simjkx)
 - [Moussa GUENANI](https://github.com/moussague)
+- [Ritabrata Das](https://github.com/the-indian-dev)
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
 - [Malavya Raval](https://github.com/MalavyaRaval)
 - [Levin Baria](https://github.com/levinbaria)
