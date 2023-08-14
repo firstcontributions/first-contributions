@@ -935,6 +935,7 @@
 - [Jaroshevskii 🏳️‍🌈](https://github.com/jaroshevskii)
 - [Raven-July](https://github.com/Raven-July)
 - [Ayush Desai](https://github.com/Ayush-desaii)
+- [Ali Rasooli](https://github.com/Aliarm79)
 - [Nilreboot](https://github.com/NilReboot/)
 - [UntoldGam](HTTPS://github.com/UntoldGam)
   Jaytrox
