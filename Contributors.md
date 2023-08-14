@@ -970,3 +970,4 @@
 - [yuchenlogin] (https://github.com/yuchenlogin)
 - [Furkan Dogmus] (https://github.com/furkandogmus)
 - [Yakov Donde] (https://github.com/yakovdonde)
+- [Amanda Monteiro] (https://github.com/armontei)
