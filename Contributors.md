@@ -984,3 +984,4 @@
 - [tenere](https://github.com/000tenere000)
 - [batuhankzn](https://github.com/batuhankzn)
 - [Sinan Balıbey](https://github.com/sinanbalibey)
+- [Taylor Cottrell](https://github.com/tlcottr)
