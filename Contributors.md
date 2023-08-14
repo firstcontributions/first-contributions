@@ -151,6 +151,7 @@
 - [Dilmurod Abdusamadov](https://github.com/thisisdilmurod)
 - [jdszekeres](https://github.com/jdszekeres)
 - [Anuj Kumar Karmakar](https://github.com/anujkkarmakar)
+- [ElectroGamesDev](https://github.com/ElectroGamesDev)
 - [Angel Umeh](https://github.com/akcumeh)
 - [Nayan Jyoti Das](https://github.com/njdasa)
 - [Anthony Capecci](https://github.com/AnthonyCap13)
