@@ -46,6 +46,7 @@
 - [Gaurav Bisht](https://github.com/iamgauravbisht)
 - [KentuckySato](https://github.com/KentuckySato)
 - [TaiBiscuit](https://github.com/TaiBiscuit)
+- [bce](https://github.com/barkancanerdogdu)
 - [DimCel](https://github.com/dimcel)
 - [YungBenn](https://github.com/YungBenn)
 - [IRQD](https://github.com/irqd)
