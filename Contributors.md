@@ -42,6 +42,7 @@
 - [Wayne G](https://github.com/wehyn)
 - [Alok Tamrakar](https://github.com/TammyAlok2)
 - haneesh byreddy
+- [Daagni] (https://github.com/Daagni)
 - [Gonca Negis] (https://github.com/goncanegis/)
 - [jungle-kai] (https://github.com/jungle-kai)
 - [Jahnavi-Solanki](https://github.com/Jahnavi-Solanki)
