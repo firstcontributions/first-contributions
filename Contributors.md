@@ -156,6 +156,7 @@
 - [Aasim Qureshi](https://github.com/AasimxQureshi)
 - [Kerim Kilic](https://github.com/kerim-kilic)
 - [Rishav Majumdar](https://github.com/Rishav273)
+- [Steffen Vogler](https://github.com/St3V0Bay)
 - [Abisola Oluwaseun Olayinka](https://github.com/Abisola-O)
 - [Baljapalli Anshul](https://github.com/AnshulBaljapalli)
 - [Vansh Arora](https://github.com/vansharora03)
