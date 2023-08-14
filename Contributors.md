@@ -941,6 +941,7 @@
 - [Omri Klein](https://github.com/omriklein)
 - [Sudershan Ganesan] (https://github.com/gksudershan)
 - [yz-54](https://github.com/yz-54)
+- [DarrenKwonDev](https://github.com/DarrenKwonDev)
 - [eroniuum]
 - [Siddharth Vasu] (https://github.com/sidvasu)
 - [cweitong] (https://github.com/cwt0213)
