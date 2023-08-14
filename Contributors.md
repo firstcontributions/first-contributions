@@ -728,6 +728,7 @@
 - [Brittany Tinnin](https://github.com/TinninBrittany)
 - [Adam Stephens](https://github.com/stender11)
 - [HirakinAndr](https://github.com/HirakinAndr)
+- [Brandon Agil](https://github.com/Brandonagil)
 - [Karthik Murali](https://github.com/karthikmurali60)
 - [Roberto Saliola](https://github.com/Roberto286)
 - [Yusuf Rabiu](https://github.com/stackkrocket)
