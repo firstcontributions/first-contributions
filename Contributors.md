@@ -18,6 +18,7 @@
 - [Sanjiv Kushwaha] **************************************
 - [efrxngg](https://github.com/efrxngg)
 - [Yaroslav Baienko] (https://github.com/YaroslavBaienko)
+- [Devansh Behl](https://github.com/behldevansh)
 - [motongxue](https://github.com/motongxue)
 - [Zombie12k] (https://github.com/Zombie12k)
 - [Prajjwal Kumar] (https://github.com/eisemsi2)
