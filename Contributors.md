@@ -78,6 +78,7 @@
 - [Alex Rezkalla](https://github.com/DevAlex89)
 - [Rita Nkem Daniel](https://github.com/RitaDee)
 - [Kurisu015](https://github.com/km-kurisu)
+- [Aastha Gadhvi](https://github.com/Aastha-Gadhvi)
 - [Meghna Kyatham](https://github.com/meghnakyatham/first-contributions.git)
 - [RKup](https://github.com/ralfkuepper)
 - [Alejandra Reyes](https://github.com/alereyes18)
