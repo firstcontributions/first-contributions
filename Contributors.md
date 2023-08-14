@@ -54,6 +54,7 @@
 - [DimCel](https://github.com/dimcel)
 - [YungBenn](https://github.com/YungBenn)
 - [IRQD](https://github.com/irqd)
+- [Hans](https://github.com/HansMbua)
 - [Praise Idowu](https://github.com/praise002)
 - [ROSELLE] (https://github.com/deleonroselle21)
 - [Rose Must](https://github.com/the-rose-bride)
