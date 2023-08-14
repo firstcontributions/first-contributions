@@ -1,5 +1,6 @@
 # Contributors
 - [Chintan Rupareliya](https://github.com/chintanrupareliya)
+- [Rajadurai Balamurugan](https://github.com/rajadurai2)
 - [Yoel Kraitman](https://github.com/yoelKraitman)
 - [Saptarshi Mandal](https://github.com/saptoh)
 - [Chintan Rupareliya](https://github.com/chintanrupareliya)
