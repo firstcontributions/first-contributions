@@ -23,6 +23,7 @@
 - [Prajjwal Kumar] (https://github.com/eisemsi2)
 - [Miles Eng](https://github.com/milesreng)
 - [Bhanu Singh] (https://github.com/bhanusingh008)
+- [Kashyap Patel] (https://github.com/kashyap5551)
 - [Eze-DP] (https://github.com/Eze-DP)
 - [Lasindu Weerasinghe](https://github.com/LassazVegaz)
 - [Harsh Kumar Singh] (https://github.com/dragoon4890)
