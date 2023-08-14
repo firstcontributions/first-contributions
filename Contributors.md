@@ -956,4 +956,5 @@
 - [Daniel Kaijzer] (https://github.com/danielkaijzer)
 - [Ephraim Beltran] (https://github.com/ephraim-beltran)
 - [Praveen Pandi] (https://github.com/PravinPandi)
+- [BeesyBumbleBee](https://github.com/BeesyBumbleBee)
 - [Carry Lee] (https://github.com/Nuaza)
