@@ -632,6 +632,7 @@
 - [Joel van der Boom](https://github.com/joelvdb)
 - [Nidhi Bangera](https://github.com/nidhi-17)
 - [Lachlan Liu](https://github.com/sixthmagnitudestar)
+- [Georgii Musikhin](https://github.com/georgii-musikhin)
 - [Vardaan Aggarwal](https://github.com/VardaanAggarwal)
 - [Tom Yotwongjai](https://github.com/tomyotwongjai)
 - [Wojtek Rokicki](https://github.com/Wojtek-Rokicki)
