@@ -989,6 +989,7 @@
 - [Daniel Kaijzer] (https://github.com/danielkaijzer)
 - [Ephraim Beltran] (https://github.com/ephraim-beltran)
 - [heywhf] (https://github.com/heywhf)
+- [aoi-hiraeth] (https://github.com/aoi-hiraeth)
 - [Praveen Pandi] (https://github.com/PravinPandi)
 - [BeesyBumbleBee](https://github.com/BeesyBumbleBee)
 - [Carry Lee] (https://github.com/Nuaza)
