@@ -39,6 +39,7 @@
 - [Manu] (https://github.com/thunderbolt004)
 - King William [https://github.com/seanapowi]
 - [Prabhat Saxena] (https://github.com/xx-VIRUS-xx)
+- [Conner Luff]
 - [Jamey Bryce](https://github.com/jameydev)
 - [Jorge Cano]
 - [Wayne G](https://github.com/wehyn)
