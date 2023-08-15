@@ -13,6 +13,7 @@
 - Yushan
 - [Ali Shan Ahmad](https://github.com/alishanahmad907)
 - [Campego](https://github.com/Campego)
+- [David-S] (https://github.com/Deastyn)
 - [Pavanemani] (https://github.com/p1kalys)
 - [FTyumin] (https://github.com/FTyumin)
 - [Yohancnc] (https://github.com/yohan-cnc)
