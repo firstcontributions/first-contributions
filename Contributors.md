@@ -300,6 +300,7 @@
 - [The Gaming Warlord](github.com/Kyoshi7)
 - [bjp9527](github.com/bjp9527)
 - [Ayush Goel](https://github.com/goelayush89)
+- [Pi HZ](https://github.com/PHZ20040126)
 - [Ayush Goel](https://github.com/PHZ20040126)
 - [Jiseeeh](https://github.com/Jiseeeh)
 - [Matt De Vries](https://github.com/DeVriesMatt)
