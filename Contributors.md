@@ -926,6 +926,7 @@
 - [Serhat Bağlam](https://github.com/Rserhat01)
 - [MK Saba](https://github.com/mksaba)
 - [Aniket Negi](https://github.com/theaniketnegi)
+- [Kamari M.](https://github.com/Kamari93)
 - Ishwari Pillay
 - Jiang J
 - Poorvaja Satha Sivam
