@@ -498,6 +498,7 @@
 - [Moses Fawole](https://github.com/mosesfawole)
 - [Paresh Mestry](https://github.com/im-pareshm)
 - [AungMyatThu](https://github.com/Aung67890)
+- [John Reiner](https://github.com/john-reiner)
 - [Abhijith M S](https://github.com/AMS003010)
 - [Abigel Asteraye](https://github.com/simplectasy)
 - [Manishak798](https://github.com/Manishak798)
