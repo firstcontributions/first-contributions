@@ -988,6 +988,7 @@
 - [yz-54](https://github.com/yz-54)
 - [DarrenKwonDev](https://github.com/DarrenKwonDev)
 - [eroniuum]
+- [bananapretzel](https://github.com/bananapretzel)
 - [Siddharth Vasu] (https://github.com/sidvasu)
 - [cweitong] (https://github.com/cwt0213)
 - [hawkingwallct](https://github.com/hawkingwallct)
