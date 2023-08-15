@@ -1,4 +1,5 @@
 # Contributors
+
 - [kobe-yang](https://github.com/kobe-yang)
 - [Chintan Rupareliya](https://github.com/chintanrupareliya)
 - [Rajadurai Balamurugan](https://github.com/rajadurai2)
@@ -17,7 +18,7 @@
 - [chetannada](https://github.com/chetannada)
 - [Anudari Gereltod](https://github.com/AnudariG)
 - [SaswatSahu] (https://github.com/Raphel6969)
-- [Sanjiv Kushwaha] **************************************
+- [Sanjiv Kushwaha] ******************\*\*******************
 - [efrxngg](https://github.com/efrxngg)
 - [Yaroslav Baienko] (https://github.com/YaroslavBaienko)
 - [Devansh Behl](https://github.com/behldevansh)
@@ -34,7 +35,7 @@
 - [Harshit Kumar] (https://github.com/harshitkk11)
 - [mgrTutka] (https://github.com/mgrTutka)
 - [Fabi]
-- [Jitendra Lohani] (https://github.com/jitendra-01) 
+- [Jitendra Lohani] (https://github.com/jitendra-01)
 - [Ankit Shrungare] (https://github.com/Ankitshru)
 - [Manu] (https://github.com/thunderbolt004)
 - King William [https://github.com/seanapowi]
@@ -315,6 +316,7 @@
 - [mhb-flh](https://github.com/mhb-flh)
 - [XYZscratcher](https://github.com/XYZscratcher)
 - [Agus Deo Saputra Utama](https://github.com/agusdeo)
+- [rk26](https://github.com/SivaRK26)
 - [Shubham Sigdar #100Devs](https://github.com/shubhamsigdar1)
 - [David Galvez Valverde](https://github.com/davidgalvez)
 - [Harihara Subramanian](https://github.com/HariharaSubramanianM)
