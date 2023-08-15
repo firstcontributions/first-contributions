@@ -1007,3 +1007,4 @@
 - [Muhammad Maarij Zeeshan](https://github.com/muhammad-maarij-zeeshan)
 - [Ebrar Altunkaynak](https://github.com/ebrardev)
 - [Dilan Kaya](https://github.com/DilanKaya127)
+- [Wilson Chin](https://github.com/shitofshit)
