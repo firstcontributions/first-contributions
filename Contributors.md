@@ -330,6 +330,7 @@
 - [ARKARLIN](https://github.com/christopher4RY)
 - [RAJMISHRA](https://github.com/rajmishra-47)
 - [William Owusu](https://github.com/Willowusu)
+- [Patel Divyesh](https://github.com/pateldivyesh1323)
 - [Mariah Laqua](https://github.com/mariahlaqua)
 - [Allan Yip](https://github.com/papatekken)
 - [Himanshu Dubey](https://github.com/sorted-hd)
