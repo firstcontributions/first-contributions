@@ -9,7 +9,6 @@
 - [Harsh Kishorani](https://github.com/HarshKishorani)
 - [Md. Saidul Islam](https://github.com/Saidul-1)
 - [Tarik Teshome](https://github.com/tarik350)
-- [Owusu Ansah](https://github.com/qquarjo)
 - Yushan
 - [Ali Shan Ahmad](https://github.com/alishanahmad907)
 - [Campego](https://github.com/Campego)
