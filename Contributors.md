@@ -12,8 +12,10 @@
 - [Owusu Ansah] (https://github.com/qquarjo)
 - Yushan
 - [david-s]()
+- Abhilash Mohanty
 - [Ali Shan Ahmad](https://github.com/alishanahmad907)
 - [Campego](https://github.com/Campego)
+- [David-S] (https://github.com/Deastyn)
 - [Pavanemani] (https://github.com/p1kalys)
 - [FTyumin] (https://github.com/FTyumin)
 - [Yohancnc] (https://github.com/yohan-cnc)
@@ -300,6 +302,7 @@
 - [The Gaming Warlord](github.com/Kyoshi7)
 - [bjp9527](github.com/bjp9527)
 - [Ayush Goel](https://github.com/goelayush89)
+- [Pi HZ](https://github.com/PHZ20040126)
 - [Ayush Goel](https://github.com/PHZ20040126)
 - [Jiseeeh](https://github.com/Jiseeeh)
 - [Matt De Vries](https://github.com/DeVriesMatt)
@@ -664,6 +667,7 @@
 - [Joel van der Boom](https://github.com/joelvdb)
 - [Nidhi Bangera](https://github.com/nidhi-17)
 - [Lachlan Liu](https://github.com/sixthmagnitudestar)
+- [Kolten Edward](https://github.com/kdten)
 - [Georgii Musikhin](https://github.com/georgii-musikhin)
 - [Vardaan Aggarwal](https://github.com/VardaanAggarwal)
 - [Tom Yotwongjai](https://github.com/tomyotwongjai)
@@ -934,6 +938,7 @@
 - Jiang J
 - Poorvaja Satha Sivam
 - Endangered358
+- [Unnikrishnan Namboothiri](https://github.com/unnikrishnanNam)
 - [freezerbox](https://github.com/freezerbox1)
 - [CaitlinIsShort](https://github.com/caitlinisshort)
 - [Pritam Das](https://github.com/4ritam)
@@ -991,6 +996,7 @@
 - [yz-54](https://github.com/yz-54)
 - [DarrenKwonDev](https://github.com/DarrenKwonDev)
 - [eroniuum]
+- ValyaLB
 - [bananapretzel](https://github.com/bananapretzel)
 - [Siddharth Vasu] (https://github.com/sidvasu)
 - [cweitong] (https://github.com/cwt0213)
@@ -1023,4 +1029,5 @@
 - [K S Sai Teja](https://github.com/kssaiteja)
 - [Buse Dağıdır](https://github.com/busedagidir)
 - [Agunbiade Aishat](https://github.com/yeeshadev)
+- [Matthew Weigand] (https://github.com/MatthewWeigand99)
 - [A K M Jubaeir Islam](https://github.com/Zubiii333)
