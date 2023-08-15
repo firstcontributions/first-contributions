@@ -1,4 +1,5 @@
 # Contributors
+- [MoinJulian](https://github.com/moinjulian)
 - [ahmedhgabr](https://github.com/ahmedhgabr)
 - [Kshitij Varma](https://github.com/KshitijVarma21)
 - [kobe-yang](https://github.com/kobe-yang)
