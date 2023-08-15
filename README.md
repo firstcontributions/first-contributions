@@ -111,6 +111,12 @@ For example:
 git clone git@github.com:this-is-you/first-contributions.git
 ```
 
+Or you can use a url base or just copy the url at the top of your current browser:
+
+```
+git clone https://github.com/this-is-you/first-contributions
+```
+
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
 ## Create a branch
@@ -125,6 +131,12 @@ Now create a branch using the `git switch` command:
 
 ```
 git switch -c your-new-branch-name
+```
+
+OR use
+
+```
+git branch -b your-new-branch-name
 ```
 
 For example:
