@@ -11,8 +11,7 @@
 - [Tarik Teshome](https://github.com/tarik350)
 - [Owusu Ansah] (https://github.com/qquarjo)
 - Yushan
-
-Abhilash Mohanty
+- Abhilash Mohanty
 - [Ali Shan Ahmad](https://github.com/alishanahmad907)
 - [Campego](https://github.com/Campego)
 - [David-S] (https://github.com/Deastyn)
