@@ -48,6 +48,7 @@
 - [Conner Luff]
 - [Jamey Bryce](https://github.com/jameydev)
 - [Jorge Cano]
+- [Anish Tuteja](https://github.com/AnishTuteja)
 - [Wayne G](https://github.com/wehyn)
 - [Alok Tamrakar](https://github.com/TammyAlok2)
 - haneesh byreddy
