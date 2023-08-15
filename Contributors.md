@@ -930,6 +930,7 @@
 - Jiang J
 - Poorvaja Satha Sivam
 - Endangered358
+- [freezerbox](https://github.com/freezerbox1)
 - [CaitlinIsShort](https://github.com/caitlinisshort)
 - [Pritam Das](https://github.com/4ritam)
 - [Dinesh Dhanji](https://github.com/DineshDhanji)
