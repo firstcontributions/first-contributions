@@ -937,6 +937,7 @@
 - [MK Saba](https://github.com/mksaba)
 - [Aniket Negi](https://github.com/theaniketnegi)
 - [Kamari M.](https://github.com/Kamari93)
+- [Moataz Amr](https://github.com/moataz77716)
 - Ishwari Pillay
 - Jiang J
 - Poorvaja Satha Sivam
