@@ -800,6 +800,7 @@
 - [Sanjog Rijal](https://github.com/SanjogRijal)
 - [Daniel Gaerber](https://github.com/Gandagorn)
 - [dbsaw](https://github.com/dbsaw)
+- [Grace Sun](https://github.com/grace-sun-shine)
 - [Badran GUELLIM](https://github.com/bdrnglm)
 - [Chibuokem Obiegbulem](https://github.com/bu-okem)
 - [Akshay Kumbarwar](https://github.com/aks14075032)
