@@ -233,6 +233,7 @@
 - [Moussa GUENANI](https://github.com/moussague)
 - [Ritabrata Das](https://github.com/the-indian-dev)
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
+- [Christian Hicks] (https://github.com/chicks-dev)
 - [Malavya Raval](https://github.com/MalavyaRaval)
 - [Levin Baria](https://github.com/levinbaria)
 - [José Ortiz-Ocampo](https://github.com/jhortizo)
