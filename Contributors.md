@@ -12,7 +12,7 @@
 - [Owusu Ansah] (https://github.com/qquarjo)
 - Yushan
 - [Ali Shan Ahmad](https://github.com/alishanahmad907)
-- [Campego](https://github.com/Campego)
+n [Campego](https://github.com/Campego)
 - [David-S] (https://github.com/Deastyn)
 - [Pavanemani] (https://github.com/p1kalys)
 - [FTyumin] (https://github.com/FTyumin)
@@ -935,6 +935,7 @@
 - Jiang J
 - Poorvaja Satha Sivam
 - Endangered358
+- [Kushan Arora](https://github.com/kushan23)
 - [freezerbox](https://github.com/freezerbox1)
 - [CaitlinIsShort](https://github.com/caitlinisshort)
 - [Pritam Das](https://github.com/4ritam)
