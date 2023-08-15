@@ -1,4 +1,5 @@
 # Contributors
+- [ahmedhgabr](https://github.com/ahmedhgabr)
 - [Kshitij Varma](https://github.com/KshitijVarma21)
 - [kobe-yang](https://github.com/kobe-yang)
 - [Chintan Rupareliya](https://github.com/chintanrupareliya)
@@ -37,13 +38,13 @@
 - [Ankit Mehra] (https://github.com/Ankit-Mehra)
 - [Prajjwal Kumar] (https://github.com/eisemsi2)
 - [Miles Eng](https://github.com/milesreng)
-- [Bhanu Singh] (https://github.com/bhanusingh008)
-- [Kashyap Patel] (https://github.com/kashyap5551)
-- [Eze-DP] (https://github.com/Eze-DP)
+- [Bhanu Singh](https://github.com/bhanusingh008)
+- [Kashyap Patel](https://github.com/kashyap5551)
+- [Eze-DP](https://github.com/Eze-DP)
 - [Lasindu Weerasinghe](https://github.com/LassazVegaz)
 - [Harsh Kumar Singh] (https://github.com/dragoon4890)
 - [Harshit Kumar] (https://github.com/harshitkk11)
-- [mgrTutka] (https://github.com/mgrTutka)
+- [mgrTutka](https://github.com/mgrTutka)
 - [Fabi]
 - [Jitendra Lohani] (https://github.com/jitendra-01)
 - [Ankit Shrungare] (https://github.com/Ankitshru)
@@ -88,7 +89,7 @@
 - [Lokesh Choudhary](https://github.com/lokeshchoudharyprogrammer)
 - [Umesh Savaliya](https://github.com/Umesh-WW)
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
-- [Chris Nieves] (https://github.com/nievescs20)
+- [Chris Nieves](https://github.com/nievescs20)
 - [Divyasri Makineni]
 - Shivam Rajput
 - [Parthiv Parmar](https://github.com/parthiv011)
@@ -100,7 +101,7 @@
 - Deepak Thorat
 - [Samuel Ribeiro de Souza](https://github.com/samuelsouzzza)
 - Alvaro Lucas
-- [StefKal] (https://github.com/StefKal)
+- [StefKal](https://github.com/StefKal)
 - Sri Vardhana Korada(https://github.com/srivardhanakorada)
 - [Vijay Vardhan](https://github.com/vijayvardhan6)
 - [AbdulRehman Mangral](https://github.com/armangral)
@@ -108,7 +109,7 @@
 - [AlbertHoxha](https://github.com/alberthoxha)
 - Johnny
 - Isaias Cuvula
-- [Awofiranye Sherif] (https://github.com/iAmSherifCodes)
+- [Awofiranye Sherif](https://github.com/iAmSherifCodes)
 - [Vishwajeet Sharma](https://github.com/vishusharmaX)
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
 - [Niranjan B.](https://github.com/niranjan-19)
