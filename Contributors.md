@@ -912,6 +912,7 @@
 - [Dastageer HC](https://github.com/dastageer-hc)
 - [Serhat Bağlam](https://github.com/Rserhat01)
 - [MK Saba](https://github.com/mksaba)
+- [Aniket Negi](https://github.com/theaniketnegi)
 - Ishwari Pillay
 - Jiang J
 - Poorvaja Satha Sivam
