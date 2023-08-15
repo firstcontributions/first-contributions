@@ -25,11 +25,12 @@
 - [chetannada](https://github.com/chetannada)
 - [Anudari Gereltod](https://github.com/AnudariG)
 - [SaswatSahu] (https://github.com/Raphel6969)
-- [Sanjiv Kushwaha] **************************************
+- [Sanjiv Kushwaha] ******************\*\*******************
 - [efrxngg](https://github.com/efrxngg)
 - [Tiago404](https://github.com/Tiago404)
 - [Yaroslav Baienko] (https://github.com/YaroslavBaienko)
 - [Devansh Behl](https://github.com/behldevansh)
+- [Vaishnavi](https://github.com/Vaishnavikv2)
 - [motongxue](https://github.com/motongxue)
 - [lentucky](https://github.com/lentucky)
 - [Zombie12k] (https://github.com/Zombie12k)
@@ -44,7 +45,7 @@
 - [Harshit Kumar] (https://github.com/harshitkk11)
 - [mgrTutka] (https://github.com/mgrTutka)
 - [Fabi]
-- [Jitendra Lohani] (https://github.com/jitendra-01) 
+- [Jitendra Lohani] (https://github.com/jitendra-01)
 - [Ankit Shrungare] (https://github.com/Ankitshru)
 - [Manu] (https://github.com/thunderbolt004)
 - King William [https://github.com/seanapowi]
