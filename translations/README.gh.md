@@ -57,78 +57,79 @@ git checkout -b add-quarjo-wusu
 ```
 (Ɛnsɛ sɛ baa dwumadibea din no kura asɛmfua *add*, nanso ntease wom sɛ wode bɛka ho efisɛ baa dwumadibea yi atirimpɔw ne sɛ wode wo din bɛka list bi ho.)
 
-## Make Necessary Changes and Commit Them
+## Yɛ Nsakrae a Ɛho Hia na Fa Hyɛ
 
-Now, open the `Contributors.md` file in a text editor, add your name, and save the file. If you open the command prompt and run the `git status` command, you will see that there are modifications. Add these modifications to the branch you just created using the `git add` command:
+Afei, bue `Contributors.md` fael no wɔ text editor mu, fa wo din ka ho, na sie fael no. Sɛ wobue ahyɛdeɛ no na wo tu `git status` ahyɛdeɛ no a, wobɛhunu sɛ nsakraeɛ bi wɔ hɔ. Fa nsakrae yi ka baa dwumadibea a woayɛ nkyɛe no ho denam `git add` ahyɛde no so:
 ```
 git add Contributors.md
 ```
 
-Now commit these changes using the `git commit` command:
+Afei fa `git commit` ahyɛdeɛ no yɛ nsakraeɛ yi:
 ```
-git commit -m "Add <your-name> to Contributors list"
+git commit -m "Add <wo-din> kɔ Contributors list no so"
 ```
-replace `<your-name>` with your name.
+fa wo din si `<wo-din>` ananmu.
 
-## Push Changes to GitHub
+## Pia Nsakraeɛ kɔ GitHub
 
-Push your changes using the `git push` command:
+Fa `git push` ahyɛdeɛ no pia wo nsakraeɛ no:
 ```
-git push origin <add-your-name>
+git push origin <fa-wo-din ka ho>
 ```
-replace `<add-your-name>` with the name of the branch you created earlier.
+fa baa dwumadibea a woadi kan abɔ no din si `<fa-wo-din ka ho>` ananmu.
 
-## Submit Your Changes for Review
+## Fa Wo Nsakrae no Mena ma Wɔnhwɛ Mu
 
-If you visit your repository on GitHub, you will see a `Compare & pull request` button. Click on this button.
+Sɛ wokɔ wo akoraeɛ wɔ GitHub so a, wobɛhunu `Fa toto ho.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-Now submit the pull request.
+Afei fa twetwe adesrɛ no kɔma.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-I will merge all your changes into the main branch of this project soon. You will receive a notification email once the merge is complete.
+Mebɛka mo nsakraeɛ nyinaa abom ayɛ adwuma yi baa dwumadibea titiriw no nnansa yi ara. Wo nsa bɛka amanneɛbɔ email bere a wɔawie nkabom no.
 
-The main branch of your fork will not be modified at this point. To keep your fork synchronized with mine, follow these steps.
+Wɔrensakra wo fork no nkorabata titiriw no wɔ saa bere yi mu. Sɛnea ɛbɛyɛ a wo fork no ne me de no bɛkɔ so ayɛ pɛ a, di anammɔn yi akyi.
 
-## Keep Your Fork Synchronized with This Repository
+## Ma Wo Fork no ne Saa Adekorabea Yi Nhyia
 
-First, switch to the main branch:
+Nea edi kan no, dan kɔ baa dwumadibea titiriw no so:
 ```
 git checkout main
 ```
 
-And add my repository URL as the `upstream remote url`:
+Na fa me akoraeɛ URL no ka ho sɛ `upstream akyirikyiri url`:
 ```
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
-This is a way to tell Git that another version of this repository exists at the specified address, and we call it `upstream`. Once the changes are merged, look for the new version of my repository:
+Wei yɛ ɔkwan a yɛbɛfa so aka akyerɛ Git sɛ saa akoraeɛ yi nkyerɛaseɛ foforɔ wɔ hɔ wɔ address a wɔakyerɛ no so, na yɛfrɛ no `upstream`. Sɛ wɔka nsakraeɛ no bom wie a, hwehwɛ me akoraeɛ no foforɔ no:
 ```
 git fetch upstream
 ```
 
-Here we are fetching all the changes in my upstream branch. Now you need to merge the new revision of my repository with your main branch:
+Ɛha na yɛrefa nsakraeɛ a ɛwɔ me baa dwumadibea a ɛwɔ soro no nyinaa aba.Afei ɛsɛ sɛ wode me akorae no mu nsakrae foforo no bom ne wo baa dwumadibea titiriw no:
 ```
 git rebase upstream/main
 ```
-Here we are applying all the changes you fetched to your main branch. If you push the main branch now, your fork will also have the changes:
+Ɛha na yɛde nsakraeɛ a wode baa wo baa dwumadibea kɛseɛ no nyinaa redi dwuma.Sɛ wopia baa dwumadibea kɛse no mprempren a, wo kyɛnsee no nso benya nsakrae ahorow no:
+
 ```
 git push origin main
 ```
-Warning: This time, you're pushing to the remote repository called origin.
+Kɔkɔbɔ: Saa bere yi de, worepia akɔ akyirikyiri adekorabea a wɔfrɛ no origin no so.
 
-At this point, I merged your `<add-your-name>` branch with my main branch, and you merged my main branch with your main branch. Your `<add-your-name>` branch is no longer needed, so you can delete it:
+Saa bere yi, mede wo `<fa-wo-din ka ho>` baa dwumadibea no kaa me baa dwumadibea kɛse no ho, na wo nso wode me baa dwumadibea kɛse no kaa wo baa dwumadibea titiriw no ho. Wo `<fa-wo-din ka ho>` baa dwumadibea no ho nhia bio, enti wubetumi apopa:
 ```
 git branch -d <add-your-name>
 ```
-and you can also delete its remote version:
+na wubetumi nso apopa ne akyirikyiri nkyerɛase no:
 ```
 git push origin --delete <add-your-name>
 ```
-This is not necessary, but the branch name indicates that its purpose is quite specific. Its lifespan can be short.
+Eyi ho nhia, nanso baa dwumadibea no din kyerɛ sɛ n’atirimpɔw yɛ pɔtee koraa. Ne nkwa nna betumi ayɛ tiaa.
 
-## Tutorials Using Other Tools
+## Nkyerɛkyerɛ a Wɔde Nnwinnade Afoforo Di Dwuma
 
 | <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></
 
@@ -136,6 +137,6 @@ a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
 
-## What's Next?
+## Nea Ɛdi Akyi?
 
 You can also join our team on Slack in case you need help or have any questions. [Join the team on Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
