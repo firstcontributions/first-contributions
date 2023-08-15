@@ -38,6 +38,7 @@
 - [Ankit Mehra] (https://github.com/Ankit-Mehra)
 - [Prajjwal Kumar] (https://github.com/eisemsi2)
 - [Miles Eng](https://github.com/milesreng)
+- [Nicholas Pop](https://github.com/Cocovert1)
 - [Bhanu Singh](https://github.com/bhanusingh008)
 - [Kashyap Patel](https://github.com/kashyap5551)
 - [Eze-DP](https://github.com/Eze-DP)
