@@ -1018,6 +1018,7 @@
 - [yuchenlogin] (https://github.com/yuchenlogin)
 - [Furkan Dogmus] (https://github.com/furkandogmus)
 - [Yakov Donde] (https://github.com/yakovdonde)
+- [Eray Ates](https://github.com/erayates)
 - [Nehal chaudhary] (https://github.com/neh666)
 - [Amanda Monteiro] (https://github.com/armontei)
 - [Archer Chen] (https://github.com/chenyongchangg)
