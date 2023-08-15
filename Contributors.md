@@ -12,7 +12,7 @@
 - [Owusu Ansah] (https://github.com/qquarjo)
 - Yushan
 - [Ali Shan Ahmad](https://github.com/alishanahmad907)
-n [Campego](https://github.com/Campego)
+- [Campego](https://github.com/Campego)
 - [David-S] (https://github.com/Deastyn)
 - [Pavanemani] (https://github.com/p1kalys)
 - [FTyumin] (https://github.com/FTyumin)
