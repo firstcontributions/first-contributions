@@ -24,6 +24,7 @@
 - [Yaroslav Baienko] (https://github.com/YaroslavBaienko)
 - [Devansh Behl](https://github.com/behldevansh)
 - [motongxue](https://github.com/motongxue)
+- [lentucky](https://github.com/lentucky)
 - [Zombie12k] (https://github.com/Zombie12k)
 - [Ankit Mehra] (https://github.com/Ankit-Mehra)
 - [Prajjwal Kumar] (https://github.com/eisemsi2)
