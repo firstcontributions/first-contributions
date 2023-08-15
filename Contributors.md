@@ -19,6 +19,7 @@
 - [SaswatSahu] (https://github.com/Raphel6969)
 - [Sanjiv Kushwaha] **************************************
 - [efrxngg](https://github.com/efrxngg)
+- [Tiago404](https://github.com/Tiago404)
 - [Yaroslav Baienko] (https://github.com/YaroslavBaienko)
 - [Devansh Behl](https://github.com/behldevansh)
 - [motongxue](https://github.com/motongxue)
