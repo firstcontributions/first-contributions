@@ -26,6 +26,7 @@
 - [Manu] (https://github.com/thunderbolt004)
 - King William [https://github.com/seanapowi]
 - [Prabhat Saxena] (https://github.com/xx-VIRUS-xx)
+- [Conner Luff]
 - [Jorge Cano]
 - [Wayne G](https://github.com/wehyn)
 - [Alok Tamrakar](https://github.com/TammyAlok2)
