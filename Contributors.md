@@ -1004,6 +1004,7 @@
 - [Furkan Dogmus] (https://github.com/furkandogmus)
 - [Yakov Donde] (https://github.com/yakovdonde)
 - [Amanda Monteiro] (https://github.com/armontei)
+- [Archer Chen] (https://github.com/chenyongchangg)
 - [brandobogar](https://github.com/brandobogar)
 - [tenere](https://github.com/000tenere000)
 - [batuhankzn](https://github.com/batuhankzn)
