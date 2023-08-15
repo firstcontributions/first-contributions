@@ -1,4 +1,5 @@
 # Contributors
+- [Kshitij Varma](https://github.com/KshitijVarma21)
 - [Chintan Rupareliya](https://github.com/chintanrupareliya)
 - [Yoel Kraitman](https://github.com/yoelKraitman)
 - [Saptarshi Mandal](https://github.com/saptoh)
