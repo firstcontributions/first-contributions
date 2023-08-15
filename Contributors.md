@@ -634,6 +634,7 @@
 - [Oluwaseyi Aimudo](https://github.com/Oluwaseyi123)
 - [PaingThuHtwe](https://github.com/paingthuhtwe)
 - [David Kitavi](https://github.com/kitavidavis)
+- [Shayan Faghihi](https://github.com/ShayanFaghihi)
 - [Pelumi Olawole](https://github.com/pelumiolawole)
 - [David Enders](https://github.com/davidenders11)
 - [Andrew Arkwright](https://github.com/AndrewArkwright)
