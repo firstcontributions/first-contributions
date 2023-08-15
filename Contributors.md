@@ -334,6 +334,7 @@
 - [Allan Yip](https://github.com/papatekken)
 - [Himanshu Dubey](https://github.com/sorted-hd)
 - [Andreu Gonzalez](https://github.com/andreu-g)
+- [Skanda N](https://github.com/heyskanda)
 - [Anjali](https://github.com/anjali-sambargi)
 - [NandishM](https://github.com/NandishM0618)
 - [Khushi Jashnani](https://github.com/khushijashnani)
