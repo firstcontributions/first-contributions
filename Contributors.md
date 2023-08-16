@@ -842,3 +842,4 @@
 - [gunay-h](https://github.com/gunay-h)
 - [Exia](https://github.com/ooexiaoo)
 - [jjhen99](https://github.com/jjhen99)
+- [MichaelSoto95](https://github.com/MichaelSoto95)
