@@ -51,6 +51,7 @@
 - [Ankit Mehra](https://github.com/Ankit-Mehra)
 - [Prajjwal Kumar](https://github.com/eisemsi2)
 - [Miles Eng](https://github.com/milesreng)
+- [Cosmo Kramer](https://github.com/alexpi007)
 - [Nicholas Pop](https://github.com/Cocovert1)
 - [Bhanu Singh](https://github.com/bhanusingh008)
 - [Kashyap Patel](https://github.com/kashyap5551)
