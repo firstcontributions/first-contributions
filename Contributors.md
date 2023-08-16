@@ -15,6 +15,7 @@
 - [Tarik Teshome](https://github.com/tarik350)
 - [Owusu Ansah] (https://github.com/qquarjo)
 - Yushan
+- [Chase West] https://github.com/chase-west
 - [david-s]()
 - Abhilash Mohanty
 - [Ali Shan Ahmad](https://github.com/alishanahmad907)
