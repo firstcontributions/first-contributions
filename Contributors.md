@@ -1054,3 +1054,4 @@
 - [Valentyn Chernetskyi](https://github.com/Valik3201)
 - [solola David](https://github.com/LetcodeitwithDave)
 - [Grace Kim](https://github.com/gracekim1217)
+- [Venkates Challa](https://github.com/vensablue192)
