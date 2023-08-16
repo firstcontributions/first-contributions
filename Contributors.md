@@ -78,6 +78,7 @@
 - [lulusaikou](https://github.com/lulusaikou)
 - [Sawyer Nicastro](https://github.com/SawyerNic)
 - [Gaurav Bisht](https://github.com/iamgauravbisht)
+- [Praful Nigam](https://github.com/prafulnigam)
 - [KentuckySato](https://github.com/KentuckySato)
 - [TaiBiscuit](https://github.com/TaiBiscuit)
 - [bce](https://github.com/barkancanerdogdu)
