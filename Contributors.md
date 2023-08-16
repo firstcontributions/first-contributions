@@ -148,6 +148,7 @@
 - [Raj sharma](https://github.com/lluciferr)
 - [Conaitus](https://github.com/conaitus)
 - [OpherM](https://github.com/OpherM)
+- [Sadegh Qarehgholpaghi](https://github.com/im-zack)
 - [Jakub Radziejewski](https://github.com/jradziejewski)
 - [Abdessamad Bettal](https://github.com/abdessamadbettal)
 - [Stoica Claudiu](https://github.com/llr3v0ll)
