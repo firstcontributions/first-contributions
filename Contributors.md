@@ -73,6 +73,7 @@
 - [Ankit Kumar Jaipuriar](https://github.com/Ankit-Jaipuriar)
 - [Michael Seutin](https://github.com/MSeutin)
 - [Zezenta](https://github.com/Zezenta)
+- [lulusaikou](https://github.com/lulusaikou)
 - [Sawyer Nicastro](https://github.com/SawyerNic)
 - [Gaurav Bisht](https://github.com/iamgauravbisht)
 - [KentuckySato](https://github.com/KentuckySato)
