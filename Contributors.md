@@ -1,5 +1,6 @@
 # Contributors
 - [Agung Saputra](https://github.com/Agung1606)
+- [Quddus Rahman](https://github.com/SomthingInteresting)
 - [MoinJulian](https://github.com/moinjulian)
 - [ahmedhgabr](https://github.com/ahmedhgabr)
 - [Kshitij Varma](https://github.com/KshitijVarma21)
