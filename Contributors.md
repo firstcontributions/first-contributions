@@ -1043,6 +1043,7 @@
 - [Sinan Balıbey](https://github.com/sinanbalibey)
 - [Taylor Cottrell](https://github.com/tlcottr)
 - [HWu](https://github.com/Aucannot)
+- [Dbecausing](https://github.com/dbecausing)
 - [heywhf](https://github.com/heywhf)
 - [Muhammad Maarij Zeeshan](https://github.com/muhammad-maarij-zeeshan)
 - [Ebrar Altunkaynak](https://github.com/ebrardev)
