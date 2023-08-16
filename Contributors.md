@@ -992,4 +992,3 @@
 - [Taylor Cottrell](https://github.com/tlcottr)
 - [HWu](https://github.com/Aucannot)
 - [heywhf](https://github.com/heywhf)
-- [wangrui](https://github.com/pistil-K)
