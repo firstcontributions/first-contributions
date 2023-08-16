@@ -55,6 +55,7 @@
 - [Harshit Kumar] (https://github.com/harshitkk11)
 - [mgrTutka](https://github.com/mgrTutka)
 - [Fabi]
+- [LiuZK36shigure](https://github.com/LiuZK36shigure)
 - [Jitendra Lohani] (https://github.com/jitendra-01)
 - [Ankit Shrungare] (https://github.com/Ankitshru)
 - [Manu] (https://github.com/thunderbolt004)
