@@ -65,6 +65,7 @@
 - [Conner Luff]
 - [Jamey Bryce](https://github.com/jameydev)
 - [Jorge Cano]
+- [Arda Dönmez](https://github.com/Kashidex)
 - [Anish Tuteja](https://github.com/AnishTuteja)
 - [Wayne G](https://github.com/wehyn)
 - [Alok Tamrakar](https://github.com/TammyAlok2)
