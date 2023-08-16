@@ -886,6 +886,7 @@
 - [Abhijeet Jain](https://github.com/abhijeetj100)
 - [Aditya Narayan](https://github.com/adityanarayanm095)
 - [Yash Amode](https://github.com/yashamode)
+- [Ordinary A](https://github.com/ordinary-A)
 - [Zaid Kaladia] (https://github.com/zaidkaladia)
 - [sussyamogus5](https://github.com/sussyamogus5)
 - [André Lucas C. da Silva](https://github.com/AndreLucas9310)
