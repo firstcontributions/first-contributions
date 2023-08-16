@@ -1063,6 +1063,7 @@
 - [HWu](https://github.com/Aucannot)
 - [Dbecausing](https://github.com/dbecausing)
 - [heywhf](https://github.com/heywhf)
+- [Ritam Chatterjee](https://github.com/regnna)
 - [Muhammad Maarij Zeeshan](https://github.com/muhammad-maarij-zeeshan)
 - [Ebrar Altunkaynak](https://github.com/ebrardev)
 - [Dilan Kaya](https://github.com/DilanKaya127)
