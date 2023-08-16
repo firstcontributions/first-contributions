@@ -15,6 +15,7 @@
 - [Harsh Kishorani](https://github.com/HarshKishorani)
 - [Md. Saidul Islam](https://github.com/Saidul-1)
 - [Tarik Teshome](https://github.com/tarik350)
+- [pistil-K](https://github.com/pistil-K)
 - [Christian Decker](https://github.com/cmdecker95)
 - [Owusu Ansah] (https://github.com/qquarjo)
 - Yushan
