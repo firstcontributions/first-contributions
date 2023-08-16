@@ -19,7 +19,8 @@
 - [Christian Decker](https://github.com/cmdecker95)
 - [Owusu Ansah](https://github.com/qquarjo)
 - Yushan
-- [Chase West](https://github.com/chase-west)
+- [Sahil Gaikwad](https://github.com/Sahilgaik)
+- [Chase West] https://github.com/chase-west
 - [david-s]()
 - Abhilash Mohanty
 - [Ali Shan Ahmad](https://github.com/alishanahmad907)
@@ -345,6 +346,7 @@
 - [Ricardo Chairez](https://github.com/RicardoChairez)
 - [Dean Cabral](https://github.com/DeanCabral)
   [mohammad karimi](https://github.com/mohammad0914)
+- [Muhammad Hussain](https://github.com/Hussain-Javed-K213584)
 - [mhb-flh](https://github.com/mhb-flh)
 - [XYZscratcher](https://github.com/XYZscratcher)
 - [Agus Deo Saputra Utama](https://github.com/agusdeo)
@@ -885,7 +887,8 @@
 - [Abhijeet Jain](https://github.com/abhijeetj100)
 - [Aditya Narayan](https://github.com/adityanarayanm095)
 - [Yash Amode](https://github.com/yashamode)
-- [Zaid Kaladia](https://github.com/zaidkaladia)
+- [Ordinary A](https://github.com/ordinary-A)
+- [Zaid Kaladia] (https://github.com/zaidkaladia)
 - [sussyamogus5](https://github.com/sussyamogus5)
 - [André Lucas C. da Silva](https://github.com/AndreLucas9310)
 - [secondary-smiles](https://github.com/secondary-smiles)
@@ -1069,3 +1072,4 @@
 - [solola David](https://github.com/LetcodeitwithDave)
 - [Grace Kim](https://github.com/gracekim1217)
 - [Venkates Challa](https://github.com/vensablue192)
+- [Ridwan Oladapo](https://github.com/theridwanoladapo)
