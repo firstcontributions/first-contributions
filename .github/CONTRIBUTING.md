@@ -25,7 +25,6 @@ If you're making changes to a translation, please request a review from our prev
 | المصرية | [Egyptian](../translations/README.eg.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/12827629?s=460&v=4" alt="@MichaelKMalak" />](https://github.com/MichaelKMalak) |
 | English (Pirate) | [English (Pirate)](../translations/README.en-pirate.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/956290?s=460&v=4" alt="@lukeoliff" />](https://github.com/lukeoliff) |
 | Español | [Spanish](../translations/README.es.md) | [<img width="100" src="https://avatars3.githubusercontent.com/u/16923944?s=460&v=4" alt="@yirini" />](https://github.com/yirini) [<img width="100" src="https://avatars.githubusercontent.com/u/10425834?v=4" alt="@aaossa" />](https://github.com/aaossa) | [<img width="100" src="https://avatars.githubusercontent.com/u/98999805?v=4" alt="@santimars" />](https://github.com/santimars)|
-
 | فارسی | [Persian](../translations/README.fa.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/20030805?s=460&v=4" alt="@ThirdScript" />](https://github.com/ThirdScript) |
 | Finnish | [Finnish](../translations/README.fi.md) | []() |
 | Français | [French](../translations/README.fr.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/13402464?s=460&v=4" alt="@LePetitRenard" />](https://github.com/LePetitRenard) |
