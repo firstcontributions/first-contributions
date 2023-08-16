@@ -997,6 +997,7 @@
 - [Tsveto](https://github.com/Sclipper)
 - [salaminipples](https://github.com/salaminipples)
 - [bucked404](https://github.com/bucked404)
+[root-Manas](https:/github.com/root-Manas)
 - [Izzy](https://github.com/IzzyPrime)
 - [Peytonjc](https://github.com/peytonjc)
 - [Xianyxu](https://github.com/xianyxu)
@@ -1078,3 +1079,4 @@
 - [Venkates Challa](https://github.com/vensablue192)
 - [Ridwan Oladapo](https://github.com/theridwanoladapo)
 - [MichaelSoto95](https://github.com/MichaelSoto95)
+- [shilinwang](https://github.com/crzwzy)
