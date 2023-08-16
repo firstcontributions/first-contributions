@@ -499,6 +499,7 @@
 - [Moses Samanhyia](https://github.com/starlabelgh)
 - [Nick Hankins](https://github.com/nhankins)
 - [Matthew McCane](https://github.com/DakuwoN)
+- [Kade Levien](https://github.com/levienk)
 - [Rishikesh S](https://github.com/Rhilok)
 - [Moses Fawole](https://github.com/mosesfawole)
 - [Paresh Mestry](https://github.com/im-pareshm)
