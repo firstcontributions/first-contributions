@@ -485,6 +485,7 @@
 - [Jasleen Kaur Bhatia](https://github.com/Jasleen-001)
 - [Sadeed-pv](https://Github.com/Sadeedpv)
 - [Kartikeya Agate](https://github.com/agatekartik)
+- [Pawan]
 - [Emanuel181](https://github.com/Emanuel181)
 - [Aakriti Malla](https://github.com/Aakriti-malla)
 - [Shantanu Mane](https://github.com/RndmCodeWorkshop)
