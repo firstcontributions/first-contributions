@@ -1050,3 +1050,4 @@
 - [A K M Jubaeir Islam](https://github.com/Zubiii333)
 - [Ian Hart](https://github.com/ianahart)
 - [Valentyn Chernetskyi](https://github.com/Valik3201)
+- [solola David](https://github.com/LetcodeitwithDave)
