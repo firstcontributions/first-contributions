@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start and welcome -->
-
+- [Santiago Rodriguez](https://github.com/santimars)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
 - [Vivek Kumar Shrivastav](https://github.com/Vivek-Kumar-Shrivastav)
 - [Rimma Kubanova](https://github.com/rimma-kubanova)
