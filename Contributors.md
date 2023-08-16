@@ -40,6 +40,7 @@
 - [Vaishnavi](https://github.com/Vaishnavikv2)
 - [motongxue](https://github.com/motongxue)
 - [lentucky](https://github.com/lentucky)
+- [Abhishek Subba](https://github.com/original-subbaman)
 - [Zombie12k] (https://github.com/Zombie12k)
 - [Ankit Mehra] (https://github.com/Ankit-Mehra)
 - [Prajjwal Kumar] (https://github.com/eisemsi2)
