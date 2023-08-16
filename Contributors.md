@@ -65,6 +65,7 @@
 - [Prabhat Saxena](https://github.com/xx-VIRUS-xx)
 - Conner Luff
 - [Jamey Bryce](https://github.com/jameydev)
+[Jatin Sood]
 - [Jorge Cano]
 - [Arda Dönmez](https://github.com/Kashidex)
 - [Anish Tuteja](https://github.com/AnishTuteja)
