@@ -1082,6 +1082,7 @@
 - [Ebrar Altunkaynak](https://github.com/ebrardev)
 - [Dilan Kaya](https://github.com/DilanKaya127)
 - [Wilson Chin](https://github.com/shitofshit)
+- [JayeLee17](https://github.com/JayeLee17)
 - [K S Sai Teja](https://github.com/kssaiteja)
 - [Buse Dağıdır](https://github.com/busedagidir)
 - [Agunbiade Aishat](https://github.com/yeeshadev)
@@ -1104,8 +1105,4 @@
 - [Enverhan Oksuz](https://github.com/enverhann)
 - [sognatoreZ](https://github.com/sognatoreZ)
 
-
-
-
-- [JayeLee17](https://github.com/JayeLee17)
 
