@@ -23,6 +23,7 @@
 - [Saptarshi Mandal](https://github.com/saptoh)
 - [Chintan Rupareliya](https://github.com/chintanrupareliya)
 - [Harsh Kishorani](https://github.com/HarshKishorani)
+- [Tanitolorun Akinyemi](https://github.com/buddingdevT)
 - [Md. Saidul Islam](https://github.com/Saidul-1)
 - [Tarik Teshome](https://github.com/tarik350)
 - [pistil-K](https://github.com/pistil-K)
