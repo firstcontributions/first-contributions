@@ -684,6 +684,7 @@
 - [Monu Neolia](https://github.com/neolia-monu)
 - [Lekha Sathvik](https://github.com/dlsathvik04)
 - [Melvin Ng](https://github.com/melvincwng)
+- [Andrew Taylor](https://github.com/andrewtaylor11)
 - [Tomotaka Suzuki](https://github.com/onarimon-programmer)
 - [kanazawazawa](https://github.com/kanazawazawa)
 - [anelevo](https://github.com/Anelevo)
