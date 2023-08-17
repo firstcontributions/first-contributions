@@ -1117,3 +1117,4 @@
 - [Prajwal-patil](https://github.com/praj-mkdir)
 - [Yemi Kudaisi](https://github.com/yemikudaisi)
 - [Adhitya Hasan](https://github.com/SanH16)
+- [Batuhan Karakaya](https://github.com/batuhannnkarakaya)
