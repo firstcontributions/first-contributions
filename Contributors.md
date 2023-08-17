@@ -66,6 +66,7 @@
 - [Abhishek Subba](https://github.com/original-subbaman)
 - [Zombie12k](https://github.com/Zombie12k)
 - [Ankit Mehra](https://github.com/Ankit-Mehra)
+- [Linus404](https://github.com/Linus404)
 - [Prajjwal Kumar](https://github.com/eisemsi2)
 - [Miles Eng](https://github.com/milesreng)
 - [Cosmo Kramer](https://github.com/alexpi007)
