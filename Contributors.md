@@ -1047,6 +1047,7 @@
 - [DarrenKwonDev](https://github.com/DarrenKwonDev)
 - eroniuum
 - ValyaLB
+- [Eyal Haimov](htpps://github.com/blindka)
 - [bananapretzel](https://github.com/bananapretzel)
 - [Siddharth Vasu](https://github.com/sidvasu)
 - [cweitong](https://github.com/cwt0213)
@@ -1104,4 +1105,3 @@
 - [Enverhan Oksuz](https://github.com/enverhann)
 - [sognatoreZ](https://github.com/sognatoreZ)
 - [Prajwal-patil](https://github.com/praj-mkdir)
-- [Eyal Haimov](htpps://github.com/blindka)
