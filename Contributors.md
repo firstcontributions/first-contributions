@@ -346,6 +346,7 @@
 - [Jason Wilson](https://github.com/WilsonJhub)
 - [Connor Jones](https://github.com/CJDevelops)
 - [Alexander Castillo](https://github.com/Jhuiice)
+- [Konrad Sosna](https://github.com/KonradSosna)
 - [Connor Rokos](https://github.com/c-rokos)
 - [Awais Ahmad](https://github.com/IMAWAISAHMAD)
 - [Patrick Zeitlmayr](https://github.com/PatrickZe)
