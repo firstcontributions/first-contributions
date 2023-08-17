@@ -10,6 +10,7 @@
 - [Chintan Rupareliya](https://github.com/chintanrupareliya)
 - [Anthony Genovese](https://github.com/anthonygenovese)
 - [Rajadurai Balamurugan](https://github.com/rajadurai2)
+- [Jhonatan Medina](https://github.com/gamatatsu0)
 - [Kushan Arora](https://github.com/kushan23)
 - [Esrael Geremew](https://github.com/esrael-github)
 - [Yoel Kraitman](https://github.com/yoelKraitman)
