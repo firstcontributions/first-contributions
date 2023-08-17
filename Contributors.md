@@ -4,6 +4,7 @@
 - [Moh Ikhwan](https://github.com/mohikhwan)
 - [Cwj900](https://github.com/Cwj900)
 - [Sutan Arief](https://github.com/sutanarief)
+- [Manav Joshi](https://github.com/ManavJoshi111)
 - [Yusufhan Sacak](https://github.com/JosephDoUrden)
 - [Quddus Rahman](https://github.com/SomthingInteresting)
 - [MoinJulian](https://github.com/moinjulian)
