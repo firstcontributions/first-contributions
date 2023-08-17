@@ -25,6 +25,7 @@
 - [Esrael Geremew](https://github.com/esrael-github)
 - [Yoel Kraitman](https://github.com/yoelKraitman)
 - [HeavensDecree](https://github.com/sgly2004)
+- [Hans Liu](https://github.com/HansLiu111)
 - [Robert Kovalcuk](https://github.com/Robert-Kovalcuk)
 - [Saptarshi Mandal](https://github.com/saptoh)
 - [Chintan Rupareliya](https://github.com/chintanrupareliya)
