@@ -1,6 +1,7 @@
 # Contributors
 - [Agung Saputra](https://github.com/Agung1606)
 - [Cwj900](https://github.com/Cwj900)
+- [Sutan Arief](https://github.com/sutanarief)
 - [Quddus Rahman](https://github.com/SomthingInteresting)
 - [MoinJulian](https://github.com/moinjulian)
 - [Val Schuman](https://github.com/rand0mbits)
