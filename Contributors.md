@@ -63,6 +63,7 @@
 - [motongxue](https://github.com/motongxue)
 - [lentucky](https://github.com/lentucky)
 - [Samy Cachon]
+- buyiweiran
 - [Abhishek Subba](https://github.com/original-subbaman)
 - [Zombie12k](https://github.com/Zombie12k)
 - [Ankit Mehra](https://github.com/Ankit-Mehra)
@@ -88,7 +89,7 @@
 - [Prabhat Saxena](https://github.com/xx-VIRUS-xx)
 - Conner Luff
 - [Jamey Bryce](https://github.com/jameydev)
-[Jatin Sood]
+  [Jatin Sood]
 - [Jorge Cano]
 - [Arda Dönmez](https://github.com/Kashidex)
 - [Anish Tuteja](https://github.com/AnishTuteja)
@@ -1029,7 +1030,7 @@
 - [Tsveto](https://github.com/Sclipper)
 - [salaminipples](https://github.com/salaminipples)
 - [bucked404](https://github.com/bucked404)
-[root-Manas](https:/github.com/root-Manas)
+  [root-Manas](https:/github.com/root-Manas)
 - [Izzy](https://github.com/IzzyPrime)
 - [Peytonjc](https://github.com/peytonjc)
 - [Xianyxu](https://github.com/xianyxu)
