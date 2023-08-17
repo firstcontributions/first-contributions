@@ -1,6 +1,7 @@
 # Contributors
 - [Agung Saputra](https://github.com/Agung1606)
 - [Abdullah Sulaiman](https://github.com/CodeMage-x)
+- [Ayushi Awasthi](https://github.com/Ayushi3023)
 - [Moh Ikhwan](https://github.com/mohikhwan)
 - [Cwj900](https://github.com/Cwj900)
 - [Sutan Arief](https://github.com/sutanarief)
