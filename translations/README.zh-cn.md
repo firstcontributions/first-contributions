@@ -9,9 +9,11 @@
 
 你可以通过阅读文章和观看教程来得到帮助，但上手实操才是最好的学习方式。本项目旨在简化并指导初学者参与他们的第一次开源。记住：过程越轻松，学习效益越高。如果你想要做出第一次贡献，只需按照以下简单步骤操作即可。这将会是一个很有趣的过程 :)
 
+_如果你不熟悉命令行，这里有[使用GUI工具的教程](#tutorials-using-other-tools)_。
+
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-如果你的电脑上未安装 git, 请参考 [GitHub 文档](https://docs.github.com/cn/get-started/quickstart/set-up-git) 进行安装。
+#### 如果你的电脑上未安装 git, 请参考 [GitHub 文档](https://docs.github.com/cn/get-started/quickstart/set-up-git) 进行安装。
 
 ## Fork（复制）本代码仓库
 
@@ -83,6 +85,17 @@ git push origin <分支的名称>
 ```
 将 `<分支的名称>` 替换为之前新建的分支名称。
 
+<details>
+<summary> <strong>如果在推送时出现任何错误，请点击这里：</strong> </summary>
+
+- ### 认证错误
+     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  请前往[GitHub的教程](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)，了解如何生成和配置SSH密钥到你的账户。
+
+</details>
+
 ## 提出 Pull Request 将你的修改供他人审阅
 
 前往你的 Github 代码仓库，你会看到一个 `Compare & pull request` 的按钮。点击该按钮。
@@ -104,6 +117,8 @@ git push origin <分支的名称>
 如果有任何疑问或想获得更多协助，欢迎加入我们的 [Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)！
 
 还在等什么，马上加入到其他项目的开发中去吧！为了方便你快速上手，我们收集了当前流行的众多代码仓库中，适合初学者解决的[问题列表](https://firstcontributions.github.io/#project-list)。
+
+### [附加材料](additional-material/git_workflow_scenarios/additional-material.md)
 
 ## 使用其他工具的教程
 
