@@ -1047,7 +1047,6 @@
 - [DarrenKwonDev](https://github.com/DarrenKwonDev)
 - eroniuum
 - ValyaLB
-- [Eyal Haimov](htpps://github.com/blindka)
 - [bananapretzel](https://github.com/bananapretzel)
 - [Siddharth Vasu](https://github.com/sidvasu)
 - [cweitong](https://github.com/cwt0213)
@@ -1055,6 +1054,7 @@
 - [Flyaway](https://github.com/kayua27)
 - Aaditya Singh
 - Laurens Himself
+- [Eyal-Haimov](htpps://github.com/blindka)
 - [Art Villareal](https://github.com/Bushido-Art)
 - [Daniel Kaijzer](https://github.com/danielkaijzer)
 - [Ephraim Beltran](https://github.com/ephraim-beltran)
