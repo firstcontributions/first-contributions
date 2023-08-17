@@ -39,6 +39,7 @@
 - [Sahil Gaikwad](https://github.com/Sahilgaik)
 - [Chase West] https://github.com/chase-west
 - [david-s]()
+- [Santiago Rodriguez](https://github.com/santimars)
 - Abhilash Mohanty
 - [Ayushman Singh](https://github.com/ayushman101)
 - [Ali Shan Ahmad](https://github.com/alishanahmad907)
