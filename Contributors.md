@@ -1052,6 +1052,7 @@
 - [hawkingwallct](https://github.com/hawkingwallct)
 - [Flyaway](https://github.com/kayua27)
 - Aaditya Singh
+- Laurens Himself
 - [Art Villareal](https://github.com/Bushido-Art)
 - [Daniel Kaijzer](https://github.com/danielkaijzer)
 - [Ephraim Beltran](https://github.com/ephraim-beltran)
