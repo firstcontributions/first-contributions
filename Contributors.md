@@ -22,6 +22,7 @@
 - [Christian Decker](https://github.com/cmdecker95)
 - [Owusu Ansah](https://github.com/qquarjo)
 - Yushan
+- [Abdi Jama](https://github.com/ajama21/)
 - [Sahil Gaikwad](https://github.com/Sahilgaik)
 - [Chase West] https://github.com/chase-west
 - [david-s]()
