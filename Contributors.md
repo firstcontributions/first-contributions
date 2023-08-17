@@ -14,6 +14,7 @@
 - [ahmedhgabr](https://github.com/ahmedhgabr)
 - [Kshitij Varma](https://github.com/KshitijVarma21)
 - [kobe-yang](https://github.com/kobe-yang)
+- [CL](https://github.com/Radar3759)
 - [Chintan Rupareliya](https://github.com/chintanrupareliya)
 - [Anthony Genovese](https://github.com/anthonygenovese)
 - [Rajadurai Balamurugan](https://github.com/rajadurai2)
