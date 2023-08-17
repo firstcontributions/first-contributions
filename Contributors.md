@@ -32,6 +32,7 @@
 - [Chase West] https://github.com/chase-west
 - [david-s]()
 - Abhilash Mohanty
+- [Ayushman Singh](https://github.com/ayushman101)
 - [Ali Shan Ahmad](https://github.com/alishanahmad907)
 - [Abdullah Hazuri](https://github.com/abdhazouri00)
 - [BilgehanMehmet](https://github.com/BilgehanMehmet)
