@@ -53,6 +53,7 @@
 - [Vaishnavi](https://github.com/Vaishnavikv2)
 - [motongxue](https://github.com/motongxue)
 - [lentucky](https://github.com/lentucky)
+- [Samy Cachon]
 - [Abhishek Subba](https://github.com/original-subbaman)
 - [Zombie12k](https://github.com/Zombie12k)
 - [Ankit Mehra](https://github.com/Ankit-Mehra)
