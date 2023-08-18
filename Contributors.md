@@ -48,7 +48,6 @@
 - [Chase West] <https://github.com/chase-west>
 - [david-s]()
 - [Santiago Rodriguez](https://github.com/santimars)
-- [Muhammed Faheem](https://github.com/faheem-cmd)
 - Abhilash Mohanty
 - [Ayushman Singh](https://github.com/ayushman101)
 - [Ali Shan Ahmad](https://github.com/alishanahmad907)
