@@ -9,6 +9,7 @@
 - [Ayushi Awasthi](https://github.com/Ayushi3023)
 - [Moh Ikhwan](https://github.com/mohikhwan)
 - [Cwj900](https://github.com/Cwj900)
+- [AdvaitSan](https://github.com/AdvaitSan)
 - [Abdelrhman Abdallah](https://github.com/abdelrhman-abdallah)
 - [Sutan Arief](https://github.com/sutanarief)
 - [Manav Joshi](https://github.com/ManavJoshi111)
