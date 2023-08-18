@@ -600,6 +600,7 @@
 - [George Potonov](https://github.com/Maritornez)
 - [Ahmed Alaedi](https://github.com/aalsaedi265)
 - [Abubakr Mamajonov](https://github.com/Abubakr1710)
+- [Madhav Ganesan](https://github.com/MadGanGithub)
 - [S. M. Sajid Hasan Shanta](https://github.com/SajidHShanta)
 - [stingermissile](https://github.com/stingermissile)
 - [Ojash Kushwaha](https://github.com/OjashKush)
