@@ -66,6 +66,7 @@
 - [Anudari Gereltod](https://github.com/AnudariG)
 - [SaswatSahu](https://github.com/Raphel6969)
 - [Sanjiv Kushwaha] ********\*\*********\*\*********\*\*********
+- Sumitra Sharma (https://github.com/heygauri)
 - [efrxngg](https://github.com/efrxngg)
 - [Tiago404](https://github.com/Tiago404)
 - [Yaroslav Baienko](https://github.com/YaroslavBaienko)
