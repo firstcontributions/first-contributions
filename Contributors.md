@@ -316,6 +316,7 @@
 - [Gargi Sontakke](https://github.com/gargi-so)
 - [Anushree Singhal](https://github.com/anushreee666)
 - [Idzanaagi](https://github.com/Idzanaagi)
+- [metsu971](https://github.com/metsu971)
 - [Andrei Fabian Pop](https://github.com/Andrei-Fabian-Pop)
 - [Jesus Elizalde](https://github.com/Jesus-Elizalde)
 - [Fergus Maclean](https://github.com/fergusmac1)
