@@ -110,6 +110,7 @@
 - [Alok Tamrakar](https://github.com/TammyAlok2)
 - haneesh byreddy
 - [Daagni](https://github.com/Daagni)
+- [Alex W](https://github.com/yw3762)
 - [Gonca Negis](https://github.com/goncanegis/)
 - [jungle-kai](https://github.com/jungle-kai)
 - [Nuhaj Aziz](https://github.com/Naz1804/)
@@ -1089,7 +1090,6 @@
 - [bananapretzel](https://github.com/bananapretzel)
 - [Siddharth Vasu](https://github.com/sidvasu)
 - [cweitong](https://github.com/cwt0213)
-- [hawkingwallct](https://github.com/hawkingwallct)
 - [Flyaway](https://github.com/kayua27)
 - Aaditya Singh
 - Laurens Himself
