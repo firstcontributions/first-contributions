@@ -1169,3 +1169,4 @@
 - Ash
 - [Ared Xiao](https://github.com/Ared-go)
 - [Anirudha Patil](https://github.com/AnirudhaPatil-1)
+- [Titouan Baron](https://github.com/HowlyBlood)
