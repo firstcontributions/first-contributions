@@ -214,6 +214,7 @@
 - [Achyutha S Bharadwaj](https://github.com/AchyuthaSBharadwaj)
 - [Muhammed Abdulhakeem](https://github.com/ennas-de/)
 - [Gabriel Moraes](https://github.com/gabrielm33)
+- [Farhan Aslam](https://github.com/farhanch67)
 - [Ubonisrael Akpanudoh](https://github.com/ubonisrael)
 - [Kiro Adel](https://github.com/Noobie7612)
 - [khunsai06](https://github.com/khunsai06)
