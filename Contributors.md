@@ -1,6 +1,7 @@
 # Contributors
 - [Nabina Mallik](https://github.com/nabinamallik)
 - [Amardeep Ranjan] (https://github.com/amardeep911)
+- [Troy Krause] (https://github.com/ST10248581 )
 - [Agung Saputra](https://github.com/Agung1606)
 - [Abdullah Sulaiman](https://github.com/CodeMage-x)
 - [Ayushi Awasthi](https://github.com/Ayushi3023)
