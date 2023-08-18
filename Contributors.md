@@ -1,4 +1,5 @@
 # Contributors
+
 - [Nabina Mallik](https://github.com/nabinamallik)
 - [Amardeep Ranjan] (https://github.com/amardeep911)
 - [Troy Krause] (https://github.com/ST10248581 )
@@ -7,6 +8,7 @@
 - [Ayushi Awasthi](https://github.com/Ayushi3023)
 - [Moh Ikhwan](https://github.com/mohikhwan)
 - [Cwj900](https://github.com/Cwj900)
+- [Abdelrhman Abdallah](https://github.com/abdelrhman-abdallah)
 - [Sutan Arief](https://github.com/sutanarief)
 - [Manav Joshi](https://github.com/ManavJoshi111)
 - [Yusufhan Sacak](https://github.com/JosephDoUrden)
@@ -61,7 +63,7 @@
 - [chetannada](https://github.com/chetannada)
 - [Anudari Gereltod](https://github.com/AnudariG)
 - [SaswatSahu](https://github.com/Raphel6969)
-- [Sanjiv Kushwaha] ******************\*\*******************
+- [Sanjiv Kushwaha] ********\*\*********\*\*********\*\*********
 - [efrxngg](https://github.com/efrxngg)
 - [Tiago404](https://github.com/Tiago404)
 - [Yaroslav Baienko](https://github.com/YaroslavBaienko)
@@ -97,7 +99,7 @@
 - [Prabhat Saxena](https://github.com/xx-VIRUS-xx)
 - Conner Luff
 - [Jamey Bryce](https://github.com/jameydev)
-[Jatin Sood]
+  [Jatin Sood]
 - [Jorge Cano]
 - [Arda Dönmez](https://github.com/Kashidex)
 - [Anish Tuteja](https://github.com/AnishTuteja)
@@ -195,7 +197,7 @@
 - [Best wishes](https://github.com/SinusoidFunc)
 - [Venkatesh-KCET](https://github.com/Venkatesh-KCET)
 - [namedmichi](https://github.com/namedmichi)
-- *Muhammad Zain ul Abideen*
+- _Muhammad Zain ul Abideen_
 - [arunraghuram](https://github.com/arunraghuram)
 - [jdavidc123](https://github.com/jdavidc123)
 - [jehoshua-fmstudio-id](https://github.com/fanmadestudio)
@@ -1041,7 +1043,7 @@
 - [Tsveto](https://github.com/Sclipper)
 - [salaminipples](https://github.com/salaminipples)
 - [bucked404](https://github.com/bucked404)
-[root-Manas](https:/github.com/root-Manas)
+  [root-Manas](https:/github.com/root-Manas)
 - [Izzy](https://github.com/IzzyPrime)
 - [Peytonjc](https://github.com/peytonjc)
 - [Xianyxu](https://github.com/xianyxu)
