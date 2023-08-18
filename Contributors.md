@@ -997,6 +997,7 @@
 - [Shreyes Gadwalkar](https://github.com/ShreyesGadwalkar)
 - [Namit Saxena](https://github.com/oddball1123)
 - [Abhinav](https://github.com/malteezy)
+- [Anurag Sisodiya](https://github.com/ANURAGSISODIYAA)
 - [Felicia H](https://github.com/coder02603)
 - [Ejaz Khan](https://github.com/ejazkhan172)
 - [donkeeman](https://github.com/donkeeman)
