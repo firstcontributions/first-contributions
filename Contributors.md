@@ -17,6 +17,7 @@
 - [Rahul OR](https://github.com/rahul0070050)
 - [MoinJulian](https://github.com/moinjulian)
 - [Val Schuman](https://github.com/rand0mbits)
+- [Maxwell Kambona](https://github.com/camus60)
 - [ahmedhgabr](https://github.com/ahmedhgabr)
 - [Rudra-Garg](https://github.com/Rudra-Garg)
 - [Kshitij Varma](https://github.com/KshitijVarma21)
