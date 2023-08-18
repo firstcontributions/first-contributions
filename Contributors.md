@@ -644,6 +644,7 @@
 - [Jana Samson](https://github.com/jajasam)
 - [Andrew Chang](https://github.com/AndrewChang2025)
 - [Uday](https://github.com/udaysonyy)
+- [Chameli R](https://github.com/chameli-bit)
 - [Andrew Muiruri](https://github.com/AndrewMMai)
 - [Angela Johnson](https://github.com/angieloux)
 - [Sunku Preetham](https://github.com/s-preetham)
