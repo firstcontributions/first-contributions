@@ -1,8 +1,10 @@
 # Contributors
+
 - [Nabina Mallik](https://github.com/nabinamallik)
-- [Amardeep Ranjan] (https://github.com/amardeep911)
-- [Troy Krause] (https://github.com/ST10248581 )
+- [Amardeep Ranjan](https://github.com/amardeep911)
+- [Troy Krause](https://github.com/ST10248581 )
 - [Agung Saputra](https://github.com/Agung1606)
+- [Damjan Djukic](https://github.com/DamiGbs)
 - [Abdullah Sulaiman](https://github.com/CodeMage-x)
 - [Ayushi Awasthi](https://github.com/Ayushi3023)
 - [Moh Ikhwan](https://github.com/mohikhwan)
@@ -42,7 +44,7 @@
 - [Jessica Vaughn](https://github.com/jessicavaughn619)
 - [Abdi Jama](https://github.com/ajama21/)
 - [Sahil Gaikwad](https://github.com/Sahilgaik)
-- [Chase West] https://github.com/chase-west
+- [Chase West] <https://github.com/chase-west>
 - [david-s]()
 - [Santiago Rodriguez](https://github.com/santimars)
 - [Muhammed Faheem](https://github.com/faheem-cmd)
@@ -149,7 +151,7 @@
 - Deepak Thorat
 - [Samuel Ribeiro de Souza](https://github.com/samuelsouzzza)
 - Alvaro Lucas
-- Nisha Sahu (https://github.com/nishaSahuU)
+- Nisha Sahu (<https://github.com/nishaSahuU>)
 - [StefKal](https://github.com/StefKal)
 - [Sri Vardhana Korada](https://github.com/srivardhanakorada)
 - [Vijay Vardhan](https://github.com/vijayvardhan6)
@@ -935,7 +937,7 @@
 - [Aditya Narayan](https://github.com/adityanarayanm095)
 - [Yash Amode](https://github.com/yashamode)
 - [Ordinary A](https://github.com/ordinary-A)
-- [Zaid Kaladia] (https://github.com/zaidkaladia)
+- [Zaid Kaladia] (<https://github.com/zaidkaladia>)
 - [sussyamogus5](https://github.com/sussyamogus5)
 - [André Lucas C. da Silva](https://github.com/AndreLucas9310)
 - [secondary-smiles](https://github.com/secondary-smiles)
@@ -1143,6 +1145,6 @@
 - [CrLeCook](https://github.com/CrLeCook)
 - [Cihat Dayı](https://github.com/cihatdayi)
 - [7-Golden](https://github.com/7-Golden)
-- [Harish Kanna] (https://github.com/Pekka20123)
+- [Harish Kanna] (<https://github.com/Pekka20123>)
 - [Brian Neisen](https://github.com/warmage12354)
 - [Ared Xiao](https://github.com/Ared-go)
