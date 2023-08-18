@@ -5,6 +5,7 @@
 - [Troy Krause](https://github.com/ST10248581 )
 - [Agung Saputra](https://github.com/Agung1606)
 - [Damjan Djukic](https://github.com/DamiGbs)
+- [Ayush Kumar Sinha](https://github.com/aks151)
 - [Abdullah Sulaiman](https://github.com/CodeMage-x)
 - [Ayushi Awasthi](https://github.com/Ayushi3023)
 - [Moh Ikhwan](https://github.com/mohikhwan)
