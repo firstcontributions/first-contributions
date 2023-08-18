@@ -169,6 +169,7 @@
 - Johnny
 - Isaias Cuvula
 - [Awofiranye Sherif](https://github.com/iAmSherifCodes)
+- [Devang Yadav](https://github.com/DevangYv-999)
 - [Vishwajeet Sharma](https://github.com/vishusharmaX)
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
 - [Niranjan B.](https://github.com/niranjan-19)
