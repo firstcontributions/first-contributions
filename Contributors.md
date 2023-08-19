@@ -663,6 +663,7 @@
 - [Shivam Singh](https://github.com/CommData)
 - [Steven Hastings](https://github.com/gitHasty-0321)
 - [Prakhar Dubey](https://github.com/prakhardubey2002)
+- [Lucifer Morningstar](https://github.com/ItsReallyLucifer)
 - [Timi Adenuga](https://github.com/Thi-mee)
 - [Tommy Seamans](https://github.com/tseamans1214)
 - [Minki Beak](https://github.com/miinkeee)
