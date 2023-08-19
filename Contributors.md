@@ -1,11 +1,10 @@
 # Contributors
 
-
 - [Nabina Mallik](https://github.com/nabinamallik)
 - [Imran Khan](https://github.com/binary-amigo)
 - [Viraj Parikh](https://github.com/VirajYParikh)
 - [Amardeep Ranjan](https://github.com/amardeep911)
-- [Troy Krause](https://github.com/ST10248581 )
+- [Troy Krause](https://github.com/ST10248581)
 - [Agung Saputra](https://github.com/Agung1606)
 - [Damjan Djukic](https://github.com/DamiGbs)
 - [Ayush Kumar Sinha](https://github.com/aks151)
@@ -76,7 +75,7 @@
 - [chetannada](https://github.com/chetannada)
 - [Anudari Gereltod](https://github.com/AnudariG)
 - [SaswatSahu](https://github.com/Raphel6969)
-- [Sanjiv Kushwaha] ********\*\*********\*\*********\*\*********
+- [Sanjiv Kushwaha] **\*\*\*\***\*\***\*\*\*\***\*\***\*\*\*\***\*\***\*\*\*\***
 - Sumitra Sharma (https://github.com/heygauri)
 - [efrxngg](https://github.com/efrxngg)
 - [Tiago404](https://github.com/Tiago404)
@@ -475,7 +474,7 @@
 - [Jordan Garvey](https://github.com/jordangarvey)
 - [Eylon Saadon](https://github.com/EylonSaadon)
 - [Volodymyr Korostelov] (https://github.com/dtVlad)
-- [Praneeth] 
+- [Praneeth]
 - [Amos Mwongela](https://github.com/4ouR04)
 - [Ndalegh Noela](https://github.com/ndaleghnoelalummbah/first-contributions.git)
 - [Vikas Adhikari](https://gimage.pngithub.com/VikasAdhikari07)
@@ -526,6 +525,7 @@
 - [Alfanso Elric](fullmetal alchemist brotherhood)🔥
 - [Eagledb14](https://github.com/eagledb14)
 - [Kunal Kumar](https://github.com/kunalkumar37)
+- [Vinay Kokate](https://github.com/VinayKokate22)
 - [Sushant Pargaonkar](https://github.com/sushant-97)
 - [Dwipa Al-Farisi](https://github.com/dwipaalfarisi)
 - [Linda Seiter](https://github.com/lseiter)
