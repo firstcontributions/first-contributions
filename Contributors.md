@@ -1195,3 +1195,4 @@
 - [Deepaprakash K](https://github.com/averagestud)
 - [WADA Yusuke](https://github.com/wxy-zzz)
 - [Kartik](https://github.com/Kartik1932)
+- [Magframed](https://github.com/SarthakH19)
