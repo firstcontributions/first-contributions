@@ -49,6 +49,7 @@
 - [Tarik Teshome](https://github.com/tarik350)
 - [pistil-K](https://github.com/pistil-K)
 - [Christian Decker](https://github.com/cmdecker95)
+- [Senjith P](https://github.com/SenjithP)
 - [Owusu Ansah](https://github.com/qquarjo)
 - Yushan
 - [Jessica Vaughn](https://github.com/jessicavaughn619)
