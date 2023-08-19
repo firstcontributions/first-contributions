@@ -38,6 +38,7 @@
 - [Kushan Arora](https://github.com/kushan23)
 - [Esrael Geremew](https://github.com/esrael-github)
 - [Yoel Kraitman](https://github.com/yoelKraitman)
+- [Syed_Mansoor](https://github.com/mansoor17syed)
 - [HeavensDecree](https://github.com/sgly2004)
 - [Hans Liu](https://github.com/HansLiu111)
 - [Robert Kovalcuk](https://github.com/Robert-Kovalcuk)
