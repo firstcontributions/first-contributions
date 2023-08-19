@@ -699,6 +699,7 @@
 - [Godswill Omonkhodion](https://github.com/Owillz01)
 - [Sean Chua](https://github.com/SeansC12)
 - [Srajan Deo Jain](https://github.com/SrajanDJain)
+- [KRTechZen] (https://github.com/KRTechZen)
 - [Shashwat Pragya](https://github.com/shashwat183)
 - [host-glitch](https://github.com/host-glitch)
 - [Aenq](https://github.com/aenq)
