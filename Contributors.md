@@ -406,6 +406,7 @@
   [mohammad karimi](https://github.com/mohammad0914)
 - [Muhammad Hussain](https://github.com/Hussain-Javed-K213584)
 - [mhb-flh](https://github.com/mhb-flh)
+- [kaz06](https://github.com/kaz06)
 - [XYZscratcher](https://github.com/XYZscratcher)
 - [Agus Deo Saputra Utama](https://github.com/agusdeo)
 - [Viraj Rajderkar](https://github.com/VirajRaj0)
