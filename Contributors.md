@@ -47,7 +47,7 @@
 - [Tanitolorun Akinyemi](https://github.com/buddingdevT)
 - [Md. Saidul Islam](https://github.com/Saidul-1)
 - [Tarik Teshome](https://github.com/tarik350)
-- [Vinayak Venugopal](https://github.com/vinayakvenugopal)
+- [Vinayak Venugopal ](https://github.com/vinayakvenugopal)
 - [pistil-K](https://github.com/pistil-K)
 - [Christian Decker](https://github.com/cmdecker95)
 - [Senjith P](https://github.com/SenjithP)
