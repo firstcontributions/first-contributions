@@ -1177,3 +1177,4 @@
 - [Anirudha Patil](https://github.com/AnirudhaPatil-1)
 - [Titouan Baron](https://github.com/HowlyBlood)
 - [Mack Osborne](https://github.com/mackosborne)
+- [Arief Rahman](https://github.com/rahmanarief21)
