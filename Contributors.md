@@ -5,6 +5,7 @@
 
 * [Mark Tu](https://github.com/MarksTheme)
 
+- [tur461](https://github.com/tur461/)
 - [Allan Moura](https://github.com/allansmora/)
 - [LJ](https://github.com/ljolly30)
 - [Raghav Garg] (https://github.com/GargRaghav17)
