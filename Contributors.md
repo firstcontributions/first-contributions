@@ -472,6 +472,7 @@
 - [Eve Tanios](https://github.com/etanios03)
 - [Jordan Garvey](https://github.com/jordangarvey)
 - [Eylon Saadon](https://github.com/EylonSaadon)
+- [Volodymyr Korostelov] (https://github.com/dtVlad)
 - [Praneeth] 
 - [Amos Mwongela](https://github.com/4ouR04)
 - [Ndalegh Noela](https://github.com/ndaleghnoelalummbah/first-contributions.git)
