@@ -1,1 +1,2 @@
-console.log(""First contri")
+console.log("First contri")
+console.log("Yay!")
