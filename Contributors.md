@@ -10,6 +10,7 @@
 - [Damjan Djukic](https://github.com/DamiGbs)
 - [Ayush Kumar Sinha](https://github.com/aks151)
 - [Abdullah Sulaiman](https://github.com/CodeMage-x)
+- [Muhammad Usman](https://github.com/MuhammadUsman15/first-contributions)
 - [Vatsal Chauhan](https://github.com/chauhanvats3)
 - [Ayushi Awasthi](https://github.com/Ayushi3023)
 - [Moh Ikhwan](https://github.com/mohikhwan)
