@@ -1,6 +1,7 @@
 # Contributors
 
 - [Nabina Mallik](https://github.com/nabinamallik)
+- [Imran Khan](https://github.com/binary-amigo)
 - [Viraj Parikh](https://github.com/VirajYParikh)
 - [Amardeep Ranjan](https://github.com/amardeep911)
 - [Troy Krause](https://github.com/ST10248581 )
