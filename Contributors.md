@@ -1019,6 +1019,7 @@
 - [imjacobtw](https://github.com/imjacobtw)
 - [Keisha Shanice](https://github.com/KeishaShanice)
 - [Maxwell Calkin](https://github.com/MaxwellCalkin)
+- [Sonjay Lake](https://github.com/SonjayLake)
 - [Luna Bean](https://github.com/Luna-Bean)
 - [Suauzureg](https://github.com/Suauzureg)
 - [Duc Dong](https://github.com/ducdongmg)
