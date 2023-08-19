@@ -1192,3 +1192,4 @@
 - [Arief Rahman](https://github.com/rahmanarief21)
 - [Jobayer Rahman](https://github.com/Jobayer98)
 - [Deepaprakash K](https://github.com/averagestud)
+- [WADA Yusuke](https://github.com/wxy-zzz)
