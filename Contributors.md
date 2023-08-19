@@ -85,6 +85,7 @@
 - [Devansh Behl](https://github.com/behldevansh)
 - [Vaishnavi](https://github.com/Vaishnavikv2)
 - [motongxue](https://github.com/motongxue)
+- [Mrinmay Das](https://github.com/DON2604)
 - [lentucky](https://github.com/lentucky)
 - [Vikas Parmar](https://github.com/vikas-parmar)
 - [Samy Cachon]
