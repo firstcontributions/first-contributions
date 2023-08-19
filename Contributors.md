@@ -78,7 +78,7 @@
 - [chetannada](https://github.com/chetannada)
 - [Anudari Gereltod](https://github.com/AnudariG)
 - [SaswatSahu](https://github.com/Raphel6969)
-- [Sanjiv Kushwaha] ********\*\*********\*\*********\*\*********
+- [Sanjiv Kushwaha]
 - Sumitra Sharma (https://github.com/heygauri)
 - [efrxngg](https://github.com/efrxngg)
 - [Tiago404](https://github.com/Tiago404)
@@ -108,6 +108,7 @@
 - [Harshit Kumar](https://github.com/harshitkk11)
 - [mgrTutka](https://github.com/mgrTutka)
 - Fabi
+- [Niet](https://github.com/nietus)
 - [WYYY](https://github.com/Justnoones)
 - [LiuZK36shigure](https://github.com/LiuZK36shigure)
 - [Jitendra Lohani](https://github.com/jitendra-01)
