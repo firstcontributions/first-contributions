@@ -186,6 +186,7 @@
 - [ZlatislavZ](https://github.com/ZlatislavZ)
 - [Jason Gratiot](https://github.com/jason-gratiot)
 - [Yiwen Tseng](https://github.com/gecko0127)
+- [SolomonChidera](https://github.com/SolomonChidera)
 - [Ayush_Chaudhari](https://github.com/the-bokya)
 - [Nihar Hegde](https://github.com/nihar-hegde)
 - [Elangovan](https://github.com/elango5292)
