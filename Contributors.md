@@ -1,11 +1,10 @@
 # Contributors
 
-
 - [Nabina Mallik](https://github.com/nabinamallik)
 - [Imran Khan](https://github.com/binary-amigo)
 - [Viraj Parikh](https://github.com/VirajYParikh)
 - [Amardeep Ranjan](https://github.com/amardeep911)
-- [Troy Krause](https://github.com/ST10248581 )
+- [Troy Krause](https://github.com/ST10248581)
 - [Agung Saputra](https://github.com/Agung1606)
 - [Damjan Djukic](https://github.com/DamiGbs)
 - [Ayush Kumar Sinha](https://github.com/aks151)
@@ -55,7 +54,7 @@
 - [Jessica Vaughn](https://github.com/jessicavaughn619)
 - [Abdi Jama](https://github.com/ajama21/)
 - [Sahil Gaikwad](https://github.com/Sahilgaik)
-- [Chase West] <https://github.com/chase-west>
+- [Chase West] [https://github.com/chase-west](https://github.com/chase-west)
 - [david-s]()
 - [Santiago Rodriguez](https://github.com/santimars)
 - [Muhammed Faheem](https://github.com/faheem-cmd)
@@ -167,7 +166,7 @@
 - Deepak Thorat
 - [Samuel Ribeiro de Souza](https://github.com/samuelsouzzza)
 - Alvaro Lucas
-- Nisha Sahu (<https://github.com/nishaSahuU>)
+- Nisha Sahu ([https://github.com/nishaSahuU](https://github.com/nishaSahuU))
 - [StefKal](https://github.com/StefKal)
 - [Sri Vardhana Korada](https://github.com/srivardhanakorada)
 - [Vijay Vardhan](https://github.com/vijayvardhan6)
@@ -286,7 +285,7 @@
 - [Moheet Shendarkar](https://github.com/moheet333)
 - [Adrian Calleja](https://github.com/adrii0113)
 - [Jon Sundin](https://github.com/jmsundin)
-- [Rose Rousseau](<(https://github.com/MapleRose)>)
+- [Rose Rousseau](https://github.com/MapleRose))
 - [cqdev-fusion](https://github.com/cqdev-fusion)
 - [Vyoam Yadav](https://github.com/ambiguousphoton)
 - [Sean Corzo](https://github.com/scorzo)
@@ -470,7 +469,7 @@
 - [Eve Tanios](https://github.com/etanios03)
 - [Jordan Garvey](https://github.com/jordangarvey)
 - [Eylon Saadon](https://github.com/EylonSaadon)
-- [Praneeth] 
+- [Praneeth]
 - [Amos Mwongela](https://github.com/4ouR04)
 - [Ndalegh Noela](https://github.com/ndaleghnoelalummbah/first-contributions.git)
 - [Vikas Adhikari](https://gimage.pngithub.com/VikasAdhikari07)
@@ -964,7 +963,7 @@
 - [Aditya Narayan](https://github.com/adityanarayanm095)
 - [Yash Amode](https://github.com/yashamode)
 - [Ordinary A](https://github.com/ordinary-A)
-- [Zaid Kaladia] (<https://github.com/zaidkaladia>)
+- [Zaid Kaladia] ([https://github.com/zaidkaladia](https://github.com/zaidkaladia))
 - [sussyamogus5](https://github.com/sussyamogus5)
 - [André Lucas C. da Silva](https://github.com/AndreLucas9310)
 - [secondary-smiles](https://github.com/secondary-smiles)
@@ -1176,7 +1175,7 @@
 - [CrLeCook](https://github.com/CrLeCook)
 - [Cihat Dayı](https://github.com/cihatdayi)
 - [7-Golden](https://github.com/7-Golden)
-- [Harish Kanna] (<https://github.com/Pekka20123>)
+- [Harish Kanna] ([https://github.com/Pekka20123](https://github.com/Pekka20123))
 - [Brian Neisen](https://github.com/warmage12354)
 - Ash
 - [Ared Xiao](https://github.com/Ared-go)
@@ -1185,3 +1184,4 @@
 - [Mack Osborne](https://github.com/mackosborne)
 - [Arief Rahman](https://github.com/rahmanarief21)
 - [Jobayer Rahman](https://github.com/Jobayer98)
+- [Kehila Anis](https://github.com/AnisKehila "Kehila Anis")
