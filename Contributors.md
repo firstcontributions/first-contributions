@@ -1226,3 +1226,4 @@ FranciscoFB7
 - [Ron](https://github.com/Ron-Ash)
 - [Shawn Wu](https://github.com/ShawnWu33)
 - [Jan Szymkiewicz](https://github.com/szymkjan)
+- [Nurul Ihsan Hariz Pratama](https://github.com/nurihsan95)
