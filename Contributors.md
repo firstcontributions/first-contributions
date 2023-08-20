@@ -5,6 +5,7 @@
 - [Imran Khan](https://github.com/binary-amigo)
 - [Viraj Parikh](https://github.com/VirajYParikh)
 FranciscoFB7
+- [Jesreel](https://github.com/JesCodeMar)
 - [Christopher Semler](https://github.com/SEM7AC)
 - [Amardeep Ranjan](https://github.com/amardeep911)
 - [Troy Krause](https://github.com/ST10248581 )
