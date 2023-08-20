@@ -138,6 +138,7 @@ FranciscoFB7
   [Jatin Sood]
 - [Jorge Cano]
 - [Arda Dönmez](https://github.com/Kashidex)
+- [Uthman Bashir Dantata](https://github.com/uthmandantata)
 - [Anish Tuteja](https://github.com/AnishTuteja)
 - [Wayne G](https://github.com/wehyn)
 - [Alok Tamrakar](https://github.com/TammyAlok2)
