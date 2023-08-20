@@ -52,6 +52,7 @@ FranciscoFB7
 - [Gerry Aballa](https://github.com/Gerry-Aballa)
 - [Syed_Mansoor](https://github.com/mansoor17syed)
 - [HeavensDecree](https://github.com/sgly2004)
+- [Pranav Kumar](https://github.com/PranavKumar512)
 - [Hans Liu](https://github.com/HansLiu111)
 - [Robert Kovalcuk](https://github.com/Robert-Kovalcuk)
 - [Yusuf Ansari](https://github.com/Yusuf80216)
@@ -1230,4 +1231,4 @@ FranciscoFB7
 - [Shawn Wu](https://github.com/ShawnWu33)
 - [Jan Szymkiewicz](https://github.com/szymkjan)
 - [Nurul Ihsan Hariz Pratama](https://github.com/nurihsan95)
-- [Mehmet Bacık](https://github.com/mehmetbacik)
+
