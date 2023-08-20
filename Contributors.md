@@ -6,7 +6,6 @@
 - [Viraj Parikh](https://github.com/VirajYParikh)
 FranciscoFB7
 - [Jesreel](https://github.com/JesCodeMar)
-- [Gerry Aballa](https://github.com/Gerry-Aballa)
 - [Christopher Semler](https://github.com/SEM7AC)
 - [Amardeep Ranjan](https://github.com/amardeep911)
 - [Troy Krause](https://github.com/ST10248581 )
@@ -47,6 +46,7 @@ FranciscoFB7
 - [Balaji Palani](https://github.com/balajimca1410)
 - [Esrael Geremew](https://github.com/esrael-github)
 - [Yoel Kraitman](https://github.com/yoelKraitman)
+- [Gerry Aballa](https://github.com/Gerry-Aballa)
 - [Syed_Mansoor](https://github.com/mansoor17syed)
 - [HeavensDecree](https://github.com/sgly2004)
 - [Hans Liu](https://github.com/HansLiu111)
