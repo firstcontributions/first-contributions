@@ -66,6 +66,7 @@ FranciscoFB7
 - [Senjith P](https://github.com/SenjithP)
 - [Owusu Ansah](https://github.com/qquarjo)
 - Yushan
+- [Vivek Chaprana](https://github.com/vivek-chaprana)
 - [Jessica Vaughn](https://github.com/jessicavaughn619)
 - [Abdi Jama](https://github.com/ajama21/)
 - [Sahil Gaikwad](https://github.com/Sahilgaik)
