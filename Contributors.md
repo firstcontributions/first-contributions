@@ -14,6 +14,7 @@ FranciscoFB7
 - [Shyamanta Kalita](https://github.com/ShyamantaKalita)
 - [Purya Behzadpur](https://github.com/puryabzp)
 - [Agung Saputra](https://github.com/Agung1606)
+- [Uloka Ngozi] (https://github.com/Gifftybabe)
 - [Damjan Djukic](https://github.com/DamiGbs)
 - [Ayush Kumar Sinha](https://github.com/aks151)
 - [Abdullah Sulaiman](https://github.com/CodeMage-x)
