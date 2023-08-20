@@ -73,6 +73,7 @@ FranciscoFB7
 - [Sahil Gaikwad](https://github.com/Sahilgaik)
 - [Chase West] <https://github.com/chase-west>
 - [david-s]()
+- [JayAyTee](https://github.com/JayAyTee)
 - [Santiago Rodriguez](https://github.com/santimars)
 - [Muhammed Faheem](https://github.com/faheem-cmd)
 - Abhilash Mohanty
