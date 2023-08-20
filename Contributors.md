@@ -8,6 +8,7 @@ FranciscoFB7
 - [Christopher Semler](https://github.com/SEM7AC)
 - [Amardeep Ranjan](https://github.com/amardeep911)
 - [Troy Krause](https://github.com/ST10248581 )
+- [Shyamanta Kalita](https://github.com/ShyamantaKalita)
 - [Agung Saputra](https://github.com/Agung1606)
 - [Damjan Djukic](https://github.com/DamiGbs)
 - [Ayush Kumar Sinha](https://github.com/aks151)
