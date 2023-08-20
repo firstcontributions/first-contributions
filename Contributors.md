@@ -652,6 +652,7 @@ FranciscoFB7
 - [Vivek Tiwari](https://github.com/probablyvivek)
 - [Saran-pariyar](https://github.com/Saran-pariyar)
 - [hyr2](https://github.com/hyr2)
+- [Bananahexagon](https://github.com/Bananahexagon)
 - [Milo Roberts](https://github.com/MiloRoberts)
 - [momoka-kawaguchi](https://github.com/momoka-kawaguchi)
 - [Sam Ahsan](https://github.com/purpup)
