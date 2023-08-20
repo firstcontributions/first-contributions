@@ -1219,3 +1219,4 @@ FranciscoFB7
 - [Gilbert Ozioma](https://github.com/gilbertozioma)
 - [Ron](https://github.com/Ron-Ash)
 - [Shawn Wu](https://github.com/ShawnWu33)
+- [Jan Szymkiewicz](https://github.com/szymkjan)
