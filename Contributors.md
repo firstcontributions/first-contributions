@@ -31,6 +31,7 @@ FranciscoFB7
 - [Rudra-Garg](https://github.com/Rudra-Garg)
 - [Kshitij Varma](https://github.com/KshitijVarma21)
 - [kobe-yang](https://github.com/kobe-yang)
+- [Vikas-Bagri](https://github.com/BagriVikas)
 - [astromerov](https://github.com/astromerov)
 - [CL](https://github.com/Radar3759)
 - [Ahmed Jameel](https://github.com/ahmedjameel1)
