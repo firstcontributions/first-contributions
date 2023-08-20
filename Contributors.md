@@ -220,6 +220,7 @@ FranciscoFB7
 - [Coshy](https://github.com/Coshy115)
 - [ftkris](https://github.com/christianftk)
 - [Mahendra Kolhe](https://github.com/Mahikolhe23)
+- [Gabriel Silva Lima](https://github.com/gabriellimma)
 - [Tristan Hoffay](https://github.com/TristanHoffay)
 - [Best wishes](https://github.com/SinusoidFunc)
 - [Venkatesh-KCET](https://github.com/Venkatesh-KCET)
