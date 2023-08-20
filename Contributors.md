@@ -1225,6 +1225,7 @@ FranciscoFB7
 - [Kushal](https://github.com/kushal-p1699)
 - [Gilbert Ozioma](https://github.com/gilbertozioma)
 - [Ron](https://github.com/Ron-Ash)
+- [Yoloyoda](https://github.com/Yoloyoda)
 - [Shawn Wu](https://github.com/ShawnWu33)
 - [Jan Szymkiewicz](https://github.com/szymkjan)
 - [Nurul Ihsan Hariz Pratama](https://github.com/nurihsan95)
