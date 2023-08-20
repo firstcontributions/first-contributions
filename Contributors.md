@@ -193,6 +193,7 @@ FranciscoFB7
 - [AbdulRehman Mangral](https://github.com/armangral)
 - [Presh Jindal](https://github.com/PreshJindal)
 - [AlbertHoxha](https://github.com/alberthoxha)
+- [Iamsidar07](https://github.com/iamsidar07)
 - Johnny
 - Isaias Cuvula
 - [Awofiranye Sherif](https://github.com/iAmSherifCodes)
