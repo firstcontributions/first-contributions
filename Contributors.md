@@ -68,6 +68,7 @@ FranciscoFB7
 - [Christian Decker](https://github.com/cmdecker95)
 - [Senjith P](https://github.com/SenjithP)
 - [Owusu Ansah](https://github.com/qquarjo)
+- [Ilias Dimopoulos](https://github.com/IliasDimopoulos99)
 - Yushan
 - [Vivek Chaprana](https://github.com/vivek-chaprana)
 - [Jessica Vaughn](https://github.com/jessicavaughn619)
