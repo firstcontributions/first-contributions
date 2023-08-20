@@ -66,6 +66,7 @@
 - [Abdullah Hazuri](https://github.com/abdhazouri00)
 - [BilgehanMehmet](https://github.com/BilgehanMehmet)
 - [Campego](https://github.com/Campego)
+- [Samagra Barnwal](https://github.com/samagrabarnwal)
 - [David-S](https://github.com/Deastyn)
 - [Pavanemani](https://github.com/p1kalys)
 - [FTyumin](https://github.com/FTyumin)
