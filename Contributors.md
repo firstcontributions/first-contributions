@@ -4,6 +4,7 @@
 - [Nabina Mallik](https://github.com/nabinamallik)
 - [Imran Khan](https://github.com/binary-amigo)
 - [Viraj Parikh](https://github.com/VirajYParikh)
+FranciscoFB7
 - [Amardeep Ranjan](https://github.com/amardeep911)
 - [Troy Krause](https://github.com/ST10248581 )
 - [Agung Saputra](https://github.com/Agung1606)
@@ -1205,4 +1206,5 @@
 - [WADA Yusuke](https://github.com/wxy-zzz)
 - [Kartik](https://github.com/Kartik1932)
 - [Kushal](https://github.com/kushal-p1699)
+- [Gilbert Ozioma](https://github.com/gilbertozioma)
 - [Ron](https://github.com/Ron-Ash)
