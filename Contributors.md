@@ -1188,6 +1188,7 @@ FranciscoFB7
 - [Eliptik1](https://github.com/eliptik1)
 - Anchal
 - [sognatoreZ](https://github.com/sognatoreZ)
+- [Bolade Akinbode Akinniyi](https://github.com/beedyboy)
 - [Prajwal-patil](https://github.com/praj-mkdir)
 - [Yemi Kudaisi](https://github.com/yemikudaisi)
 - [Adhitya Hasan](https://github.com/SanH16)
