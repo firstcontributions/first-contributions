@@ -9,6 +9,7 @@ FranciscoFB7
 - [Gerry Aballa](https://github.com/Gerry-Aballa)
 - [Akash Raj](https://github.com/akashroshiv)
 - [Christopher Semler](https://github.com/SEM7AC)
+- [Benjamin Hack](https://github.com/benhhack)
 - [Amardeep Ranjan](https://github.com/amardeep911)
 - [Troy Krause](https://github.com/ST10248581 )
 - [Shyamanta Kalita](https://github.com/ShyamantaKalita)
