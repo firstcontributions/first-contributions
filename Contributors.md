@@ -85,6 +85,7 @@ FranciscoFB7
 - [Owusu Ansah](https://github.com/qquarjo)
 - [Ilias Dimopoulos](https://github.com/IliasDimopoulos99)
 - Yushan
+- [Sohrab Kazak](https://github.com/CosmicParadoxDragon)
 - [Vivek Chaprana](https://github.com/vivek-chaprana)
 - [Jessica Vaughn](https://github.com/jessicavaughn619)
 - [Abdi Jama](https://github.com/ajama21/)
