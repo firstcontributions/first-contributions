@@ -1,16 +1,15 @@
 # Contributors
 
-
 - [Nabina Mallik](https://github.com/nabinamallik)
 - [Imran Khan](https://github.com/binary-amigo)
 - [Viraj Parikh](https://github.com/VirajYParikh)
-FranciscoFB7
+  FranciscoFB7
 - [Jesreel](https://github.com/JesCodeMar)
 - [Gerry Aballa](https://github.com/Gerry-Aballa)
 - [Akash Raj](https://github.com/akashroshiv)
 - [Christopher Semler](https://github.com/SEM7AC)
 - [Amardeep Ranjan](https://github.com/amardeep911)
-- [Troy Krause](https://github.com/ST10248581 )
+- [Troy Krause](https://github.com/ST10248581)
 - [Shyamanta Kalita](https://github.com/ShyamantaKalita)
 - [Purya Behzadpur](https://github.com/puryabzp)
 - [Manoj Kumar](https://github.com/iamsidar07)
@@ -33,6 +32,7 @@ FranciscoFB7
 - [Rahul OR](https://github.com/rahul0070050)
 - [MoinJulian](https://github.com/moinjulian)
 - [Val Schuman](https://github.com/rand0mbits)
+- [M Abdul Azeez](https://github.com/Abdul-Azeez060)
 - [Maxwell Kambona](https://github.com/camus60)
 - [ahmedhgabr](https://github.com/ahmedhgabr)
 - [Niroshan Sandeepa](https://github.com/niroshansandeepa)
@@ -1243,4 +1243,3 @@ FranciscoFB7
 - [Nurul Ihsan Hariz Pratama](https://github.com/nurihsan95)
 - [Shin You](https://github.com/a5512167086)
 - [Nguyễn Đức Khải](https://github.com/KhaiNguyenDuc)
-
