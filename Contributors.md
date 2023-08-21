@@ -1266,4 +1266,4 @@ FranciscoFB7
 - [Nguyễn Đức Khải](https://github.com/KhaiNguyenDuc)
 - [Ritch Johan Jefferson](https://github.com/jeffersonfed)
 - [Mike Manoti Nyambega](https://github.com/manotim)
-
+- [Aadith Lasar](https://github.com/aadithlasar)
