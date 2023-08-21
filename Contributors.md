@@ -1052,6 +1052,7 @@ FranciscoFB7
 - [Brandon Agil](https://github.com/Brandonagil)
 - [Electro](https://github.com/Electro-Magnet45)
 - [Nuwan Sudusinghe](https://github.com/ArcReactive)
+- [Omitogun Sherifat](https://github.com/Adejokemi)
 - [Richi Rodriguez](https://github.com/RichiRodriguez)
 - [Okeke Kenechukwu](https://github.com/kenekc18)
 - [Ankit Sharma](https://github.com/Sabretooth1405)
