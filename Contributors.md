@@ -190,7 +190,6 @@ FranciscoFB7
 - [AbdulRehman Mangral](https://github.com/armangral)
 - [Presh Jindal](https://github.com/PreshJindal)
 - [AlbertHoxha](https://github.com/alberthoxha)
-- [Iamsidar07](https://github.com/iamsidar07)
 - Johnny
 - Isaias Cuvula
 - [Awofiranye Sherif](https://github.com/iAmSherifCodes)
@@ -1222,3 +1221,4 @@ FranciscoFB7
 - [Ron](https://github.com/Ron-Ash)
 - [Shawn Wu](https://github.com/ShawnWu33)
 - [Jan Szymkiewicz](https://github.com/szymkjan)
+- [Iamsidar07](https://github.com/iamsidar07)
