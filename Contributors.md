@@ -1255,4 +1255,5 @@ FranciscoFB7
 - [Shin You](https://github.com/a5512167086)
 - [Nguyễn Đức Khải](https://github.com/KhaiNguyenDuc)
 - [Ritch Johan Jefferson](https://github.com/jeffersonfed)
+- [Mike Manoti Nyambega](https://github.com/manotim)
 
