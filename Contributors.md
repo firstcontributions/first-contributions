@@ -642,6 +642,7 @@ FranciscoFB7
 - [Eiyad Ziyadah](https://github.com/eziyadah)
 - [VaradC](https://github.com/cvarad96)
 - [Zyrus Lee Inso](https://github.com/zyrusinso)
+- [Luiza Kuze](https://github.com/luizakuze)
 - [Collins Self](https://github.com/collins-self)
 - [veasnawt](https://github.com/veasnawt)
 - [Anthony Mwaura](https://github.com/Anthony11-hub)
