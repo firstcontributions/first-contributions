@@ -13,6 +13,7 @@ FranciscoFB7
 - [Troy Krause](https://github.com/ST10248581 )
 - [Shyamanta Kalita](https://github.com/ShyamantaKalita)
 - [Purya Behzadpur](https://github.com/puryabzp)
+- [Manoj Kumar](https://github.com/iamsidar07)
 - [Agung Saputra](https://github.com/Agung1606)
 - [Uloka Ngozi] (https://github.com/Gifftybabe)
 - [Damjan Djukic](https://github.com/DamiGbs)
