@@ -1,17 +1,16 @@
 # Contributors
 
-
 - [Nabina Mallik](https://github.com/nabinamallik)
 - [Imran Khan](https://github.com/binary-amigo)
 - [Viraj Parikh](https://github.com/VirajYParikh)
-FranciscoFB7
+  FranciscoFB7
 - [Jesreel](https://github.com/JesCodeMar)
 - [Gerry Aballa](https://github.com/Gerry-Aballa)
 - [Akash Raj](https://github.com/akashroshiv)
 - [Christopher Semler](https://github.com/SEM7AC)
 - [Benjamin Hack](https://github.com/benhhack)
 - [Amardeep Ranjan](https://github.com/amardeep911)
-- [Troy Krause](https://github.com/ST10248581 )
+- [Troy Krause](https://github.com/ST10248581)
 - [Shyamanta Kalita](https://github.com/ShyamantaKalita)
 - [Purya Behzadpur](https://github.com/puryabzp)
 - [Manoj Kumar](https://github.com/iamsidar07)
@@ -1252,5 +1251,5 @@ FranciscoFB7
 - [Anant Agarwal] (https://github.com/ThisMonkeysGoneToHeaven)
 - [Shin You](https://github.com/a5512167086)
 - [Nguyễn Đức Khải](https://github.com/KhaiNguyenDuc)
+- [Abdul Azeez](https://github.com/Abdul-Azeez060)
 - [Ritch Johan Jefferson](https://github.com/jeffersonfed)
-
