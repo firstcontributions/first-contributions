@@ -341,6 +341,7 @@ FranciscoFB7
 - [James So](https://github.com/JamesSo1)
 - [FOUR_BITS](https://github.com/FOUR-BITS-28)
 - [Khawaja Muhammad Bilal](https://github.com/beelal-k)
+- [masood shalele adamu] (https://github.com/kwasa123)
 - [Angela S](https://github.com/angelasrsh)
 - [Subhranshu Sekhar khilar](https://github.com/Susekh)
 - [Ravindra Reddy](https://github.com/ravindra135)
