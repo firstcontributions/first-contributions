@@ -1249,6 +1249,7 @@ FranciscoFB7
 - [Shawn Wu](https://github.com/ShawnWu33)
 - [Jan Szymkiewicz](https://github.com/szymkjan)
 - [Nurul Ihsan Hariz Pratama](https://github.com/nurihsan95)
+- [Anant Agarwal] (https://github.com/ThisMonkeysGoneToHeaven)
 - [Shin You](https://github.com/a5512167086)
 - [Nguyễn Đức Khải](https://github.com/KhaiNguyenDuc)
 - [Ritch Johan Jefferson](https://github.com/jeffersonfed)
