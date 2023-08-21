@@ -32,6 +32,7 @@ FranciscoFB7
 - [AdvaitSan](https://github.com/AdvaitSan)
 - [Abdelrhman Abdallah](https://github.com/abdelrhman-abdallah)
 - [Sutan Arief](https://github.com/sutanarief)
+- [Prabal Goyal](https://github.com/prabal-goyal)
 - [Manav Joshi](https://github.com/ManavJoshi111)
 - [Yusufhan Sacak](https://github.com/JosephDoUrden)
 - [Quddus Rahman](https://github.com/SomthingInteresting)
