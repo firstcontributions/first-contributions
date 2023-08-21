@@ -1192,6 +1192,7 @@ FranciscoFB7
 - [Amanda Monteiro](https://github.com/armontei)
 - [Archer Chen](https://github.com/chenyongchangg)
 - [brandobogar](https://github.com/brandobogar)
+- [Maral Yousefi](https://github.com/Marall-Y)
 - [tenere](https://github.com/000tenere000)
 - [batuhankzn](https://github.com/batuhankzn)
 - [Sinan Balıbey](https://github.com/sinanbalibey)
