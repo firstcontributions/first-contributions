@@ -929,6 +929,7 @@ FranciscoFB7
 - [w1ck-3d](https://github.com/w1ck-3d)
 - [Kalil Thompson](https://github.com/PROFLAYTON9)
 - [Sharad Arora](https://github.com/Sharad910)
+- [Malay Tiwari](https://github.com/Malayt04)
 - [Ahmed Zougari](https://github.com/zougari47)
 - [Akhilan Ganesh](https://github.com/akhilanganesh)
 - [Joseph Lopes](https://github.com/josephlopes)
