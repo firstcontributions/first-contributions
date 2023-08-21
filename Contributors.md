@@ -957,6 +957,7 @@ FranciscoFB7
 - [Sanjog Rijal](https://github.com/SanjogRijal)
 - [Daniel Gaerber](https://github.com/Gandagorn)
 - [dbsaw](https://github.com/dbsaw)
+- [Cezary](https://github.com/CM43210)
 - [Grace Sun](https://github.com/grace-sun-shine)
 - [Badran GUELLIM](https://github.com/bdrnglm)
 - [Chibuokem Obiegbulem](https://github.com/bu-okem)
