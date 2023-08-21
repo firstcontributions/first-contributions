@@ -25,6 +25,7 @@ FranciscoFB7
 - [Abdullah Sulaiman](https://github.com/CodeMage-x)
 - [Muhammad Usman](https://github.com/MuhammadUsman15/first-contributions)
 - [Vatsal Chauhan](https://github.com/chauhanvats3)
+- [Advika Bhat](https://github.com/Advika101)
 - [Ayushi Awasthi](https://github.com/Ayushi3023)
 - [Moh Ikhwan](https://github.com/mohikhwan)
 - [Cwj900](https://github.com/Cwj900)
