@@ -81,6 +81,7 @@ FranciscoFB7
 - [JayAyTee](https://github.com/JayAyTee)
 - [Santiago Rodriguez](https://github.com/santimars)
 - [Muhammed Faheem](https://github.com/faheem-cmd)
+- [Denis Perevertov](https://github.com/denis-perevertov)
 - Abhilash Mohanty
 - [Ayushman Singh](https://github.com/ayushman101)
 - [Joey Harper](https://github.com/PapaJoe24)
