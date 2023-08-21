@@ -32,7 +32,6 @@
 - [Rahul OR](https://github.com/rahul0070050)
 - [MoinJulian](https://github.com/moinjulian)
 - [Val Schuman](https://github.com/rand0mbits)
-- [M Abdul Azeez](https://github.com/Abdul-Azeez060)
 - [Maxwell Kambona](https://github.com/camus60)
 - [ahmedhgabr](https://github.com/ahmedhgabr)
 - [Niroshan Sandeepa](https://github.com/niroshansandeepa)
@@ -1243,3 +1242,4 @@
 - [Nurul Ihsan Hariz Pratama](https://github.com/nurihsan95)
 - [Shin You](https://github.com/a5512167086)
 - [Nguyễn Đức Khải](https://github.com/KhaiNguyenDuc)
+- [M Abdul Azeez](https://github.com/Abdul-Azeez060)
