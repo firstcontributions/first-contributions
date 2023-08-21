@@ -2,6 +2,7 @@
 
 
 - [Nabina Mallik](https://github.com/nabinamallik)
+- [Aditya Sagave](https://github.com/AdityaSagave)
 - [Imran Khan](https://github.com/binary-amigo)
 - [Viraj Parikh](https://github.com/VirajYParikh)
 FranciscoFB7
