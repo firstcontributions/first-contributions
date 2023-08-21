@@ -1240,4 +1240,5 @@ FranciscoFB7
 - [Shawn Wu](https://github.com/ShawnWu33)
 - [Jan Szymkiewicz](https://github.com/szymkjan)
 - [Nurul Ihsan Hariz Pratama](https://github.com/nurihsan95)
+- [Shin You](https://github.com/a5512167086)
 
