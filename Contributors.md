@@ -60,6 +60,7 @@ FranciscoFB7
 - [CL](https://github.com/Radar3759)
 - [Ahmed Jameel](https://github.com/ahmedjameel1)
 - [Chintan Rupareliya](https://github.com/chintanrupareliya)
+- [Sourav Singh](https://github.com/hydradocs)
 - [Anthony Genovese](https://github.com/anthonygenovese)
 - [Rajadurai Balamurugan](https://github.com/rajadurai2)
 - [Jhonatan Medina](https://github.com/gamatatsu0)
