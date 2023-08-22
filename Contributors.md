@@ -1279,4 +1279,5 @@ FranciscoFB7
 - [DS-X1](https://github.com/DS-X1)
 - [Mike Manoti Nyambega](https://github.com/manotim)
 - [Huukiet Kevin Huynh](https://github.com/hukkhuynh)
+- [Nguyen Minh Hieu](https://github.com/nm-hieu)
 
