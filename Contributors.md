@@ -6,6 +6,7 @@
 - [Kshitij Varma](https://github.com/KshitijVarma21)
 - [kobe-yang](https://github.com/kobe-yang)
 - [Chintan Rupareliya](https://github.com/chintanrupareliya)
+- [Sourav Singh](https://github.com/hydradocs)
 - [Anthony Genovese](https://github.com/anthonygenovese)
 - [Rajadurai Balamurugan](https://github.com/rajadurai2)
 - [Kushan Arora](https://github.com/kushan23)
