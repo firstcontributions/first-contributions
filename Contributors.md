@@ -684,6 +684,7 @@ FranciscoFB7
 - [Zyrus Lee Inso](https://github.com/zyrusinso)
 - [Collins Self](https://github.com/collins-self)
 - [veasnawt](https://github.com/veasnawt)
+- [Bertczyk](https://github.com/Bertczyk)
 - [Anthony Mwaura](https://github.com/Anthony11-hub)
 - [Vansh Chopra](https://github.com/vanshavenger)
 - [Julie S](https://github.com/Julie-S2020)
