@@ -223,6 +223,7 @@ FranciscoFB7
 - Alvaro Lucas
 - Nisha Sahu (<https://github.com/nishaSahuU>)
 - [StefKal](https://github.com/StefKal)
+- [drremo1](https://github.com/drremo1)
 - [Sri Vardhana Korada](https://github.com/srivardhanakorada)
 - [Vijay Vardhan](https://github.com/vijayvardhan6)
 - [AbdulRehman Mangral](https://github.com/armangral)
