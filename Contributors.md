@@ -26,6 +26,7 @@ FranciscoFB7
 - [Pixel Bit](https://github.com/Mproot)
 - [Abdullah Sulaiman](https://github.com/CodeMage-x)
 - [Muhammad Usman](https://github.com/MuhammadUsman15/first-contributions)
+- [Shawn Stanley] (https://github.com/shawnstanley123/first-contributions)
 - [Vatsal Chauhan](https://github.com/chauhanvats3)
 - [Advika Bhat](https://github.com/Advika101)
 - [Ayushi Awasthi](https://github.com/Ayushi3023)
@@ -33,7 +34,7 @@ FranciscoFB7
 - [Cwj900](https://github.com/Cwj900)
 - [AdvaitSan](https://github.com/AdvaitSan)
 - [Abdelrhman Abdallah](https://github.com/abdelrhman-abdallah)
-- [Sutan Arief](https://github.com/sutanarief)
+- [Sutan Arief](https://github.com/sutanarief)s
 - [Prabal Goyal](https://github.com/prabal-goyal)
 - [Manav Joshi](https://github.com/ManavJoshi111)
 - [Yusufhan Sacak](https://github.com/JosephDoUrden)
