@@ -20,6 +20,7 @@ FranciscoFB7
 - [Shyamanta Kalita](https://github.com/ShyamantaKalita)
 - [Jerico Franco](https://github.com/cout05)
 - [Purya Behzadpur](https://github.com/puryabzp)
+- [Chaitanya Emani](https://github.com/ChaitanyaEmani)
 - [Manoj Kumar](https://github.com/iamsidar07)
 - [Agung Saputra](https://github.com/Agung1606)
 - [Uloka Ngozi] (https://github.com/Gifftybabe)
