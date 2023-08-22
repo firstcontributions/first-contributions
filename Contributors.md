@@ -368,7 +368,7 @@ FranciscoFB7
 - [Sagar Sharma](https://github.com/sagar-io)
 - [Stefan Baciu](https://github.com/StefanCodru)
 - [Ange-Emmanuel Kouakou](https://github.com/SolarBlaze)
-- [Ioan Circiumaru](https://github.com/circiumaruioan)
+https://github.com/Krushna-Nanda/first-contributions.git- [Ioan Circiumaru](https://github.com/circiumaruioan)
 - [Lucas Vieira Ribeiro](https://github.com/Lucas-Vieira-R/)
 - [Quentin Ramsay](https://github.com/QuentinRamsay/)
 - [Anukam Chidalu](https://github.com/daluclemas)
@@ -749,7 +749,7 @@ FranciscoFB7
 - [Bakul Gupta](https://github.com/Bakul-G)
 - [Jarren Juan](https://github.com/JarrenJuan)
 - [ajTronic](https://github.com/ajTronic)
-- [Bo Jangles](https://github.com/Bo-Jangles)
+- [Bo Jangles](https://github.com/Bo-Jangles)https://github.com/Krushna-Nanda/first-contributions.githttps://github.com/Krushna-Nanda/first-contributions.git
 - [Lewis Rye](https://github.com/LewisRye)
 - [TheLaziestDog](https://github.com/TheLaziestDog)
 - [Nur Hamid](https://github.com/nurhamidqq)
@@ -1303,4 +1303,4 @@ FranciscoFB7
 - [nami773](https://github.com/nami773/)
 - [tencho12] (https://github.com/tencho12/)
 - [Sourabh_Singh] (https://github.com/Sourabh20022002)
-
+- [krushna_nanda](https://github.com/Krushna-Nanda)
