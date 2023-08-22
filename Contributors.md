@@ -712,6 +712,7 @@ FranciscoFB7
 - [Pacifique Ntahurunga](https://github.com/npacifique)
 - [invalid](https://github.com/whoisYoges)
 - [Ahnge](https://github.com/ahnge)
+- [Annamarie San Diego] (https://github.com/amsandiego)
 - [Prasannajeet Pradhan](https://github.com/prasannajeet2002)
 - [Shivam Singh](https://github.com/CommData)
 - [Steven Hastings](https://github.com/gitHasty-0321)
