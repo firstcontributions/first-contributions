@@ -1265,6 +1265,7 @@ FranciscoFB7
 - [Bolade Akinbode Akinniyi](https://github.com/beedyboy)
 - [Prajwal-patil](https://github.com/praj-mkdir)
 - [Yemi Kudaisi](https://github.com/yemikudaisi)
+- Jack Daniels
 - [Adhitya Hasan](https://github.com/SanH16)
 - [CrLeCook](https://github.com/CrLeCook)
 - [Cihat Dayı](https://github.com/cihatdayi)
