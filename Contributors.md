@@ -1286,4 +1286,5 @@ FranciscoFB7
 - [Mike Manoti Nyambega](https://github.com/manotim)
 - [Huukiet Kevin Huynh](https://github.com/hukkhuynh)
 - [Nguyen Minh Hieu](https://github.com/nm-hieu)
+- [nami773](https://github.com/nami773/)
 
