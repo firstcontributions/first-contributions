@@ -12,6 +12,7 @@ FranciscoFB7
 - [Amardeep Ranjan](https://github.com/amardeep911)
 - [Troy Krause](https://github.com/ST10248581 )
 - [Shyamanta Kalita](https://github.com/ShyamantaKalita)
+- [Jerico Franco](https://github.com/cout05)
 - [Purya Behzadpur](https://github.com/puryabzp)
 - [Manoj Kumar](https://github.com/iamsidar07)
 - [Agung Saputra](https://github.com/Agung1606)
