@@ -52,6 +52,7 @@ FranciscoFB7
 - [KB Lor](https://github.com/kblor0324)
 - [Najeeb Yusuf](https://github.com/jeebulla/final-Portfolio)
 - [kobe-yang](https://github.com/kobe-yang)
+- [csamid](https://github.com/csamid)
 - [Vikas-Bagri](https://github.com/BagriVikas)
 - [astromerov](https://github.com/astromerov)
 - [CL](https://github.com/Radar3759)
