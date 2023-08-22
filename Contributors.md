@@ -176,6 +176,7 @@ FranciscoFB7
 - [Shashank Hebbar](https://github.com/quantumflo)
 - [Vladimir Gragert](https://github.com/GragertVD)
 - [Ankit Kumar Jaipuriar](https://github.com/Ankit-Jaipuriar)
+- [Nguyen Minh Chien](https://github.com/Chien179)
 - [Michael Seutin](https://github.com/MSeutin)
 - [Zezenta](https://github.com/Zezenta)
 - [lulusaikou](https://github.com/lulusaikou)
