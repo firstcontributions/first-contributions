@@ -5435,7 +5435,6 @@ Jhalak Aggarwal (https://github.com/jhalakaggarwal)
 - [Oladipupo Ishola]
 - [Priyanshi Dixit]
 - [Mark Wright]
-- [Fernando Barbosa Rodrigues](https://github.com/jnrambler)
 - [Jesse Ambler](https://github.com/jnrambler)
 - [Irvene Kwambana](https://github.com/irvinehawks)
 - [Akash](https://github.com/acfoss)
