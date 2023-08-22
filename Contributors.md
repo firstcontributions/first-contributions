@@ -1270,4 +1270,4 @@ FranciscoFB7
 - [Ritch Johan Jefferson](https://github.com/jeffersonfed)
 - [DS-X1](https://github.com/DS-X1)
 - [Mike Manoti Nyambega](https://github.com/manotim)
-
+- [Brian Johnson](https://github.com/bjohnson360)
