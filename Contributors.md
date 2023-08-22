@@ -3,6 +3,7 @@
 
 - [Deepu](https://github.com/blackbeard002)
 - [drwho](https://github.com/drwho)
+- [Khairunnisa](https://github.com/khairnsaa)
 - [Nabina Mallik](https://github.com/nabinamallik)
 - [Aditya Sagave](https://github.com/AdityaSagave)
 - [Jaroslav Světlík](https://github.com/Landerik2909)
