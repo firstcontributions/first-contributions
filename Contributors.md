@@ -767,6 +767,7 @@ FranciscoFB7
 - [Jay Knowles](https://github.com/jayrkyd)
 - [Cole Robinson](https://github.com/Col-R)
 - [Zach Adkins](https://github.com/zaa94/)
+- [Megan May](https://github.com/mooogz)
 - [Ali Rihan](https://github.com/a13r1)
 - [Wairimu Ian](https://github.com/wairimu-ian)
 - [Tomer Lev](https://github.com/tomerlev001)
