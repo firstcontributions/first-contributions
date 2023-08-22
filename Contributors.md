@@ -878,6 +878,7 @@ FranciscoFB7
 - [Collins Kiplangat](https://github.com/chiragvadhavana)
 - [Afzal Ansari](https://github.com/dev-afzalansari)
 - [Tarakeswar Mondal](https://github.com/tarakes)
+- [Paolo Crisalli] (https://github.com/Cris-Paolo)
 - [Luke Herbst](https://github.com/LukeHerbst)
 - [Shravan Garg](https://github.com/shravan-garg)
 - [Sachin parihar](https://github.com/sachinparihar)
