@@ -22,6 +22,7 @@ FranciscoFB7
 - [Troy Krause](https://github.com/ST10248581 )
 - [Shyamanta Kalita](https://github.com/ShyamantaKalita)
 - [Jerico Franco](https://github.com/cout05)
+- [Jatin Jindal](https://github.com/vercetti322)
 - [Purya Behzadpur](https://github.com/puryabzp)
 - [Chaitanya Emani](https://github.com/ChaitanyaEmani)
 - [Manoj Kumar](https://github.com/iamsidar07)
