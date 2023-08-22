@@ -2,6 +2,7 @@
 
 
 - [Deepu](https://github.com/blackbeard002)
+- [Daan V] (https://github.com/banzaai) 
 - [drwho](https://github.com/drwho)
 - [Khairunnisa](https://github.com/khairnsaa)
 - [Nabina Mallik](https://github.com/nabinamallik)
