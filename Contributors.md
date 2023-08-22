@@ -1242,6 +1242,7 @@ FranciscoFB7
 - [K S Sai Teja](https://github.com/kssaiteja)
 - [Venkatraj](https://github.com/ivenkatraj)
 - [Buse Dağıdır](https://github.com/busedagidir)
+- [Jake Abed](https://github.com/jake-abed)
 - [Agunbiade Aishat](https://github.com/yeeshadev)
 - [A K M Jubaeir Islam](https://github.com/Zubiii333)
 - [Sri Ram Gowd Vuppala](https://github.com/velvet-thunder-cmd)
