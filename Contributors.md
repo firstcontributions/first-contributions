@@ -2,6 +2,7 @@
 
 
 - [Deepu](https://github.com/blackbeard002)
+- [Omar Abdelgawad](https://github.com/omar-abdelgawad)
 - [Daan V] (https://github.com/banzaai) 
 - [drwho](https://github.com/drwho)
 - [Khairunnisa](https://github.com/khairnsaa)
