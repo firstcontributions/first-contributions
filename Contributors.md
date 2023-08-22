@@ -1,6 +1,6 @@
 # Contributors
 
-
+- [Amit singh](https://github.com/technicalamit8055)
 - [Deepu](https://github.com/blackbeard002)
 - [drwho](https://github.com/drwho)
 - [Nabina Mallik](https://github.com/nabinamallik)
