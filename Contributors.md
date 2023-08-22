@@ -22,6 +22,7 @@ FranciscoFB7
 - [Troy Krause](https://github.com/ST10248581 )
 - [Shyamanta Kalita](https://github.com/ShyamantaKalita)
 - [Jerico Franco](https://github.com/cout05)
+- [Jatin Jindal](https://github.com/vercetti322)
 - [Purya Behzadpur](https://github.com/puryabzp)
 - [Chaitanya Emani](https://github.com/ChaitanyaEmani)
 - [Manoj Kumar](https://github.com/iamsidar07)
@@ -1264,6 +1265,7 @@ FranciscoFB7
 - [Bolade Akinbode Akinniyi](https://github.com/beedyboy)
 - [Prajwal-patil](https://github.com/praj-mkdir)
 - [Yemi Kudaisi](https://github.com/yemikudaisi)
+- Jack Daniels
 - [Adhitya Hasan](https://github.com/SanH16)
 - [CrLeCook](https://github.com/CrLeCook)
 - [Cihat Dayı](https://github.com/cihatdayi)
