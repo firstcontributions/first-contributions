@@ -624,6 +624,7 @@ https://github.com/Krushna-Nanda/first-contributions.git- [Ioan Circiumaru](http
 - [Kunal Kumar](https://github.com/kunalkumar37)
 - [Vinay Kokate](https://github.com/VinayKokate22)
 - [Sushant Pargaonkar](https://github.com/sushant-97)
+- [Sabelo Mkhwanazi](https://github.com/SabeloMkhwanzi)
 - [Dwipa Al-Farisi](https://github.com/dwipaalfarisi)
 - [Linda Seiter](https://github.com/lseiter)
 - [Adam Ralph](https://github.com/adamjralph)
