@@ -133,6 +133,7 @@
 - [BilgehanMehmet](https://github.com/BilgehanMehmet)
 - [Henry Blackburn](https://github.com/Heno08)
 - [Campego](https://github.com/Campego)
+- [Samagra Barnwal](https://github.com/samagrabarnwal)
 - [David-S](https://github.com/Deastyn)
 - [Jemz](https://github.com/jmlinks)
 - [Pavanemani](https://github.com/p1kalys)
