@@ -17,6 +17,7 @@
 FranciscoFB7
 - [Jesreel](https://github.com/JesCodeMar)
 - [Gerry Aballa](https://github.com/Gerry-Aballa)
+- [Cassandra] (https://github.com/codingcass)
 - [Akash Raj](https://github.com/akashroshiv)
 - [Christopher Semler](https://github.com/SEM7AC)
 - [Bethel Enunwa](https://github.com/betheltoni)
