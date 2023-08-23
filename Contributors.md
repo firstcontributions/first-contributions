@@ -1,5 +1,6 @@
 # Contributors
 
+- [Linford] (https://github.com/Linf0rd)
 - [Amit singh](https://github.com/technicalamit8055)
 
 - [prafitradimas](https://github.com/prafitradimas)
