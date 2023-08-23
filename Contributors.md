@@ -1321,6 +1321,7 @@ https://github.com/Krushna-Nanda/first-contributions.git- [Ioan Circiumaru](http
 - [yesiyuan] (https://github.com/sakura-ysy)
 - [nami773](https://github.com/nami773/)
 - [tencho12] (https://github.com/tencho12/)
+- [vidyasagarbhargava](https://github.com/vidyasagarbhargava)
 - [Sourabh_Singh] (https://github.com/Sourabh20022002)
 - [krushna_nanda](https://github.com/Krushna-Nanda)
 - [Eric Huang](https://github.com/erich2s)
