@@ -73,6 +73,7 @@
 - [kobe-yang](https://github.com/kobe-yang)
 - [csamid](https://github.com/csamid)
 - [Vikas-Bagri](https://github.com/BagriVikas)
+- [jplsanchez] (https://github.com/jplsanchez)
 - [Faniriantsoa-RANDRIAHARIMINO] (https://github.com/Faniry1015)
 - [astromerov](https://github.com/astromerov)
 - [CL](https://github.com/Radar3759)
