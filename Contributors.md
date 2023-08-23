@@ -12,6 +12,7 @@
 - [Youssef Jrab](https://github.com/yjrab)
 - [Ilay Eldar](https://github.com/ilayEldar24)
 - [Devanshu Augusty](https://github.com/Devanshu-Augusty)
+- [Ramon Ortega](https://github.com/RamonJOrtega)
 - [Zachary Murphy](https://github.com/ZacharyJTMurphy)
 - [Muhammad Haris](https://github.com/headlessNode)
 - [Vedang](https://github.com/vedang685)
