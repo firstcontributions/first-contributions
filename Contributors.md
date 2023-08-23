@@ -1,5 +1,7 @@
 # Contributors
 
+- [Nabina Mallik](https://github.com/nabinamallik)
+- [Taieb Hossain](https://github.com/hossain909)
 - [Linford] (https://github.com/Linf0rd)
 - [Amit singh](https://github.com/technicalamit8055)
 
