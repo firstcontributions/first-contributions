@@ -104,6 +104,7 @@ FranciscoFB7
 - [Owusu Ansah](https://github.com/qquarjo)
 - [Ilias Dimopoulos](https://github.com/IliasDimopoulos99)
 - Yushan
+- Shiraku Yanai
 - [Sohrab Kazak](https://github.com/CosmicParadoxDragon)
 - [Vivek Chaprana](https://github.com/vivek-chaprana)
 -[Lakshya Agarwal](https://github.com/lakshya6378)
