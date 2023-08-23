@@ -80,6 +80,7 @@ FranciscoFB7
 - [Balaji Palani](https://github.com/balajimca1410)
 - [Esrael Geremew](https://github.com/esrael-github)
 - waiyan
+- [Fernando Barbos](https://github.com/Fernando7181)
 - [Yoel Kraitman](https://github.com/yoelKraitman)
 - [Gerry Aballa](https://github.com/Gerry-Aballa)
 - [Syed_Mansoor](https://github.com/mansoor17syed)
