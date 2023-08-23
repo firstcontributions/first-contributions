@@ -1,5 +1,6 @@
 # Contributors
 
+- [Amit singh](https://github.com/technicalamit8055)
 
 - [prafitradimas](https://github.com/prafitradimas)
 - [Deepu](https://github.com/blackbeard002)
