@@ -1307,6 +1307,7 @@ https://github.com/Krushna-Nanda/first-contributions.git- [Ioan Circiumaru](http
 - [Bolade Akinbode Akinniyi](https://github.com/beedyboy)
 - [Prajwal-patil](https://github.com/praj-mkdir)
 - [Yemi Kudaisi](https://github.com/yemikudaisi)
+- [Batuhan Karakaya](https://github.com/batuhannnkarakaya)
 - [Mehmet Bacık](https://github.com/mehmetbacik)
 - [Mehmet Bacık](https://github.com/mehmetbacik)
 - Jack Daniels
