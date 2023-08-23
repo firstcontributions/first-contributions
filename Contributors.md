@@ -1,6 +1,7 @@
 # Contributors
 
 
+- [prafitradimas](https://github.com/prafitradimas)
 - [Deepu](https://github.com/blackbeard002)
 - [César Henrique](https://github.com/cesarhenrq)
 - [Omar Abdelgawad](https://github.com/omar-abdelgawad)
@@ -45,6 +46,7 @@ FranciscoFB7
 - [Moh Ikhwan](https://github.com/mohikhwan)
 - [Cwj900](https://github.com/Cwj900)
 - [AdvaitSan](https://github.com/AdvaitSan)
+- [Lalitha Lakshmiraju](https://github.com/lalithasj)
 - [Abdelrhman Abdallah](https://github.com/abdelrhman-abdallah)
 - [Sutan Arief](https://github.com/sutanarief)s
 - [Prabal Goyal](https://github.com/prabal-goyal)
@@ -102,6 +104,7 @@ FranciscoFB7
 - [Owusu Ansah](https://github.com/qquarjo)
 - [Ilias Dimopoulos](https://github.com/IliasDimopoulos99)
 - Yushan
+- Shiraku Yanai
 - [Sohrab Kazak](https://github.com/CosmicParadoxDragon)
 - [Vivek Chaprana](https://github.com/vivek-chaprana)
 -[Lakshya Agarwal](https://github.com/lakshya6378)
@@ -120,6 +123,7 @@ FranciscoFB7
 - [Ali Shan Ahmad](https://github.com/alishanahmad907)
 - [Abdullah Hazuri](https://github.com/abdhazouri00)
 - [BilgehanMehmet](https://github.com/BilgehanMehmet)
+- [Henry Blackburn](https://github.com/Heno08)
 - [Campego](https://github.com/Campego)
 - [David-S](https://github.com/Deastyn)
 - [Jemz](https://github.com/jmlinks)
@@ -274,6 +278,7 @@ FranciscoFB7
 - [Stoica Claudiu](https://github.com/llr3v0ll)
 - [Harish Kukka](https://github.com/AlphaCeph-C3)
 - [Manikanta Adupa](https://github.com/manikanta-adupa)
+- [Uppu Karthikeya](https://github.com/Karthikeya0612)
 - [YuHangSE](https://github.com/YuHangSE)
 - [Ankit Suman](https://github.com/ankit-suman-07)
 - [Fedex Pope1](https://github.com/FedexPope1)
@@ -1284,6 +1289,7 @@ FranciscoFB7
 - [Harish Kanna] (<https://github.com/Pekka20123>)
 - [Brian Neisen](https://github.com/warmage12354)
 - Ash
+- [Henry Blackburn](https://github.com/Heno08)
 - [Ared Xiao](https://github.com/Ared-go)
 - [MSN16]
 - [Anirudha Patil](https://github.com/AnirudhaPatil-1)
@@ -1309,7 +1315,7 @@ FranciscoFB7
 - [Mike Manoti Nyambega](https://github.com/manotim)
 - [Huukiet Kevin Huynh](https://github.com/hukkhuynh)
 - [Nguyen Minh Hieu](https://github.com/nm-hieu)
-- [YeSiyuan](https://github.com/sakura-ysy)
+- [yesiyuan] (https://github.com/sakura-ysy)
 - [nami773](https://github.com/nami773/)
 - [tencho12] (https://github.com/tencho12/)
 - [Sourabh_Singh] (https://github.com/Sourabh20022002)
@@ -1321,3 +1327,5 @@ FranciscoFB7
 - [Yash Patel](https://github.com)
 - [Okoye Johnpaul](https://github.com/jaypee15)
 - [nonsleep1](https://github.com/nonsleep1)
+- [nonsleep1](https://github.com/nonsleep1)
+
