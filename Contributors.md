@@ -1322,6 +1322,7 @@ https://github.com/Krushna-Nanda/first-contributions.git- [Ioan Circiumaru](http
 - [Nguyễn Đức Khải](https://github.com/KhaiNguyenDuc)
 - [Abdul Azeez](https://github.com/Abdul-Azeez060)
 - [Ritch Johan Jefferson](https://github.com/jeffersonfed)
+- [Ross Woods](https://github.com/RossCWoods)
 - [DS-X1](https://github.com/DS-X1)
 - [Mike Manoti Nyambega](https://github.com/manotim)
 - [Aadith Lasar](https://github.com/aadithlasar)
