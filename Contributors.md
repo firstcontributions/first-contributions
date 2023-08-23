@@ -1315,3 +1315,4 @@ FranciscoFB7
 - [黄士崧] (https://github.com/erich2s)
 - [Marco] (https://github.com/mrk-qa)
 - [Egor Kalinin](https://github.com/egorii87)
+- [Yatrik](https://github.com/yatrik-s)
