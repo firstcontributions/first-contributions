@@ -1321,6 +1321,7 @@ https://github.com/Krushna-Nanda/first-contributions.git- [Ioan Circiumaru](http
 - [yesiyuan] (https://github.com/sakura-ysy)
 - [nami773](https://github.com/nami773/)
 - [tencho12] (https://github.com/tencho12/)
+- [nazmus-saqib008] (https://github.com/nazmus-saqib008)
 - [Komsan21](https://github.com/komsan21)
 - [Md. Rakibul Islam](https://github.com/Rakib1415/)
 - [vidyasagarbhargava](https://github.com/vidyasagarbhargava)
