@@ -1316,4 +1316,5 @@ FranciscoFB7
 - [Marco] (https://github.com/mrk-qa)
 - [Egor Kalinin](https://github.com/egorii87)
 - [Yatrik](https://github.com/yatrik-s)
+- [Yash Patel](https://github.com)
 - [nonsleep1](https://github.com/nonsleep1)
