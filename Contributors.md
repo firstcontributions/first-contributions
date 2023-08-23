@@ -4,8 +4,8 @@
 - [Taieb Hossain](https://github.com/hossain909)
 - [Linford] (https://github.com/Linf0rd)
 - [Amit singh](https://github.com/technicalamit8055)
+- [Franco Lu](https://github.com/franco2002lu)
 - [Pranay Choubey](https://github.com/CaesarMouse)
-
 - [prafitradimas](https://github.com/prafitradimas)
 - [Deepu](https://github.com/blackbeard002)
 - [César Henrique](https://github.com/cesarhenrq)
