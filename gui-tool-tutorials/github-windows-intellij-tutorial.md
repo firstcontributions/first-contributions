@@ -13,6 +13,9 @@ It's hard. It's always hard the first time you do something. Especially when you
 
 Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are, the better you learn. If you are looking for making your first contribution, just follow the simple steps below. We promise you, it will be fun.
 
+# Intellij idea
+A <strong>Java IDE</strong> is a combined creation setting that you can use to create, modify, troubleshoot, and then construct code, and then then distribute your application.
+
 If you don't have IntelliJ IDEA on your machine, [install it](https://www.jetbrains.com/idea/download/#section=windows).
 
 **Notice:** This tutorial was made using IntelliJ IDEA (Version 2019.3.2) on a Windows 10 machine. Later in this tutorial we will make use of some keyboard shortcuts. These may differ on other operating systems (macOS/Linux).

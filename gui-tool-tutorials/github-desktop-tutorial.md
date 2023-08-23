@@ -12,6 +12,9 @@ It's hard. It's always hard the first time you do something. Especially when you
 
 Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
 
+# Github Desktop
+<strong>GitHub Desktop</strong> is a graphical user interface (GUI) that allows you to interact with GitHub without using the command line or a web browser.
+
 If you don't have GitHub Desktop on your machine, [install it](https://desktop.github.com/).
 
 If you're using a version of GitHub desktop before 1.0, [refer this tutorial](github-desktop-old-version-tutorial.md).

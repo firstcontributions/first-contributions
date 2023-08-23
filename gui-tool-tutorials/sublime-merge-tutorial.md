@@ -15,6 +15,7 @@ Reading articles & watching tutorials can help, but what comes better than actua
 
 
 ## Sublime Merge
+Another alternative for [Visual Studio Code](./github-windows-vs-code-tutorial.md)
 
 Download [Sublime Merge](https://www.sublimemerge.com/), Install and open it.
 

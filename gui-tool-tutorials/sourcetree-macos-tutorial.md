@@ -15,6 +15,7 @@ Reading articles & watching tutorials can help, but what comes better than actua
 
 
 ## Sourcetree
+Sourcetree is a simple Git GUI that helps you visualize and manage your repositories so you can focus on coding. If not sure go for [gitkraken](./gitkraken-tutorial.md)
 
 Please note, this tutorial is for MacOS. It is similar with Sourcetree on Windows but some things may look different.
 <!--

@@ -15,6 +15,7 @@ Reading articles & watching tutorials can help, but what comes better than actua
 
 
 ## Git Kraken
+GitKraken is a graphical user interface (GUI) for Git, a version control system. It has a more modern user interface with a focus on visualization, is has extra features like such as interactive rebase, code review, and issue tracking, compared to atlassian source tree.
 
 Download [GitKraken](https://www.gitkraken.com), Install and open it.
 

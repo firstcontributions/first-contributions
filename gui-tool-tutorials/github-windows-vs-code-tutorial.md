@@ -13,6 +13,9 @@ It's hard. It's always hard the first time you do something. Especially when you
 
 Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are, the better you learn. If you are looking for making your first contribution, just follow the simple steps below. We promise you, it will be fun.
 
+# Visual Studio Code
+Similar to Visual Studio, but not a full IDE, but you can add extensions to make it one. It is also more customizable than Visual Studio and has a faster load time.
+
 If you don't have Visual Studio Code on your machine, [install it](https://code.visualstudio.com/download).
 
 **Notice:** This tutorial was made using Visual Studio Code (Version 1.27.2) on a Windows 10 machine. Later in this tutorial we will make use of some keyboard shortcuts. These may differ on other operating systems (macOS/Linux) as well as keyboard language (UK, DE, etc). You can go through your list of shortcuts by searching "shortcut" in the Command Palette.
