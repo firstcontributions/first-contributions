@@ -65,6 +65,7 @@ FranciscoFB7
 - [kobe-yang](https://github.com/kobe-yang)
 - [csamid](https://github.com/csamid)
 - [Vikas-Bagri](https://github.com/BagriVikas)
+- [Faniriantsoa-RANDRIAHARIMINO] (https://github.com/Faniry1015)
 - [astromerov](https://github.com/astromerov)
 - [CL](https://github.com/Radar3759)
 - [Ahmed Jameel](https://github.com/ahmedjameel1)
