@@ -1314,3 +1314,4 @@ FranciscoFB7
 - [Eric Huang] (https://github.com/erich2s)
 - [黄士崧] (https://github.com/erich2s)
 - [Marco] (https://github.com/mrk-qa)
+- [Egor Kalinin](https://github.com/egorii87)
