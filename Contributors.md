@@ -17,6 +17,7 @@
 FranciscoFB7
 - [Jesreel](https://github.com/JesCodeMar)
 - [Gerry Aballa](https://github.com/Gerry-Aballa)
+- [Cassandra] (https://github.com/codingcass)
 - [Akash Raj](https://github.com/akashroshiv)
 - [Christopher Semler](https://github.com/SEM7AC)
 - [Bethel Enunwa](https://github.com/betheltoni)
@@ -24,6 +25,7 @@ FranciscoFB7
 - [Amardeep Ranjan](https://github.com/amardeep911)
 - [Troy Krause](https://github.com/ST10248581 )
 - [Shyamanta Kalita](https://github.com/ShyamantaKalita)
+-[saksham saha](mendacium-a11y)
 - [Jerico Franco](https://github.com/cout05)
 - [Jatin Jindal](https://github.com/vercetti322)
 - [Purya Behzadpur](https://github.com/puryabzp)
@@ -121,6 +123,7 @@ FranciscoFB7
 - [David-S](https://github.com/Deastyn)
 - [Jemz](https://github.com/jmlinks)
 - [Pavanemani](https://github.com/p1kalys)
+- [Prashik Gavali](https://github.com/prashikGavali)
 - [FTyumin](https://github.com/FTyumin)
 - [Yohancnc](https://github.com/yohan-cnc)
 - [Tanmay kute](https://github.com/Tkute0401)
@@ -1308,3 +1311,7 @@ FranciscoFB7
 - [tencho12] (https://github.com/tencho12/)
 - [Sourabh_Singh] (https://github.com/Sourabh20022002)
 - [sean85120] (https://github.com/sean85120)
+- [Eric Huang] (https://github.com/erich2s)
+- [黄士崧] (https://github.com/erich2s)
+- [Marco] (https://github.com/mrk-qa)
+
