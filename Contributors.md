@@ -460,6 +460,7 @@
 - [Brian Twene](https://github.com/briantwene)
 - [Idobaba](https://github.com/Idsunny13)
 - [Clinton Otse](https://github.com/DhanteyUD)
+- [SzyJar](https://github.com/SzyJar)
 - [Ankur Dubey](https://github.com/RagedPanda)
 - [ashish lotake](https://github.com/ashishlotake)
 - [Nwanze Ebube](https://github.com/Poeticrow)
