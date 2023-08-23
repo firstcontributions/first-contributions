@@ -1307,7 +1307,7 @@ FranciscoFB7
 - [Mike Manoti Nyambega](https://github.com/manotim)
 - [Huukiet Kevin Huynh](https://github.com/hukkhuynh)
 - [Nguyen Minh Hieu](https://github.com/nm-hieu)
-- [YeSiyuan] (https://github.com/sakura-ysy)
+- [yesiyuan] (https://github.com/sakura-ysy)
 - [nami773](https://github.com/nami773/)
 - [tencho12] (https://github.com/tencho12/)
 - [Sourabh_Singh] (https://github.com/Sourabh20022002)
