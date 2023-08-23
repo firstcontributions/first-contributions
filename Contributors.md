@@ -1335,6 +1335,7 @@ https://github.com/Krushna-Nanda/first-contributions.git- [Ioan Circiumaru](http
 - [Nurul Ihsan Hariz Pratama](https://github.com/nurihsan95)
 - [Anant Agarwal] (https://github.com/ThisMonkeysGoneToHeaven)
 - [Shin You](https://github.com/a5512167086)
+- [Paul Ragsac](https://github.com/Chifuuyu)
 - [Nguyễn Đức Khải](https://github.com/KhaiNguyenDuc)
 - [Navin Kumar](https://github.com/ns-0437)
 - [James Ngugi](https://github.com/JamesK254)
