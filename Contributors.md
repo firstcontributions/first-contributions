@@ -46,6 +46,7 @@ FranciscoFB7
 - [Moh Ikhwan](https://github.com/mohikhwan)
 - [Cwj900](https://github.com/Cwj900)
 - [AdvaitSan](https://github.com/AdvaitSan)
+- [Lalitha Lakshmiraju](https://github.com/lalithasj)
 - [Abdelrhman Abdallah](https://github.com/abdelrhman-abdallah)
 - [Sutan Arief](https://github.com/sutanarief)s
 - [Prabal Goyal](https://github.com/prabal-goyal)
