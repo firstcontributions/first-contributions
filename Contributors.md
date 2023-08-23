@@ -1320,6 +1320,7 @@ https://github.com/Krushna-Nanda/first-contributions.git- [Ioan Circiumaru](http
 - [Anant Agarwal] (https://github.com/ThisMonkeysGoneToHeaven)
 - [Shin You](https://github.com/a5512167086)
 - [Nguyễn Đức Khải](https://github.com/KhaiNguyenDuc)
+- [Navin Kumar](https://github.com/ns-0437)
 - [James Ngugi](https://github.com/JamesK254)
 - [M Abdul Azeez](https://github.com/Abdul-Azeez060)
 - [Abdul Azeez](https://github.com/Abdul-Azeez060)
