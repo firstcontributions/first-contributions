@@ -17,7 +17,7 @@
 - [Matej Rada](https://github.com/predyy)
 - [Sanjeev Kumar Sahoo](https://github.com/sanjeevkumar321)
 - [Viraj Parikh](https://github.com/VirajYParikh)
-FranciscoFB7
+  FranciscoFB7
 - [Jesreel](https://github.com/JesCodeMar)
 - [Gerry Aballa](https://github.com/Gerry-Aballa)
 - [Cassandra] (https://github.com/codingcass)
@@ -26,7 +26,7 @@ FranciscoFB7
 - [Bethel Enunwa](https://github.com/betheltoni)
 - [Benjamin Hack](https://github.com/benhhack)
 - [Amardeep Ranjan](https://github.com/amardeep911)
-- [Troy Krause](https://github.com/ST10248581 )
+- [Troy Krause](https://github.com/ST10248581)
 - [Shyamanta Kalita](https://github.com/ShyamantaKalita)
 -[saksham saha](mendacium-a11y)
 - [Jerico Franco](https://github.com/cout05)
@@ -1320,6 +1320,7 @@ https://github.com/Krushna-Nanda/first-contributions.git- [Ioan Circiumaru](http
 - [Anant Agarwal] (https://github.com/ThisMonkeysGoneToHeaven)
 - [Shin You](https://github.com/a5512167086)
 - [Nguyễn Đức Khải](https://github.com/KhaiNguyenDuc)
+- [Abdul Azeez](https://github.com/Abdul-Azeez060)
 - [Ritch Johan Jefferson](https://github.com/jeffersonfed)
 - [DS-X1](https://github.com/DS-X1)
 - [Mike Manoti Nyambega](https://github.com/manotim)
