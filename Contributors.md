@@ -22,7 +22,7 @@
 - [Viraj Parikh](https://github.com/VirajYParikh)
   FranciscoFB7
 - [Doug Bostick] (https://github.com/dougbostick)
-
+- [Ayotheking] (https://github.com/ayothekingg)
 - [Jesreel](https://github.com/JesCodeMar)
 - [Gerry Aballa](https://github.com/Gerry-Aballa)
 - [Cassandra] (https://github.com/codingcass)
