@@ -57,6 +57,7 @@
 - [Sutan Arief](https://github.com/sutanarief)s
 - [Prabal Goyal](https://github.com/prabal-goyal)
 - [Manav Joshi](https://github.com/ManavJoshi111)
+- [Shiven Garia](https://github.com/Shiven0504)
 - [Yusufhan Sacak](https://github.com/JosephDoUrden)
 - [Quddus Rahman](https://github.com/SomthingInteresting)
 - [Rahul OR](https://github.com/rahul0070050)
