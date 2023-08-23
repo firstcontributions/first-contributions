@@ -10,7 +10,7 @@
 - [Deepu](https://github.com/blackbeard002)
 - [César Henrique](https://github.com/cesarhenrq)
 - [Omar Abdelgawad](https://github.com/omar-abdelgawad)
-- [Daan V] (https://github.com/banzaai) 
+- [Daan V] (https://github.com/banzaai)
 - [drwho](https://github.com/drwho)
 - [Khairunnisa](https://github.com/khairnsaa)
 - [Nabina Mallik](https://github.com/nabinamallik)
@@ -30,8 +30,7 @@
 - [Benjamin Hack](https://github.com/benhhack)
 - [Amardeep Ranjan](https://github.com/amardeep911)
 - [Troy Krause](https://github.com/ST10248581)
-- [Shyamanta Kalita](https://github.com/ShyamantaKalita)
--[saksham saha](mendacium-a11y)
+- [Shyamanta Kalita](https://github.com/ShyamantaKalita) -[saksham saha](mendacium-a11y)
 - [Jerico Franco](https://github.com/cout05)
 - [Jatin Jindal](https://github.com/vercetti322)
 - [Purya Behzadpur](https://github.com/puryabzp)
@@ -45,6 +44,7 @@
 - [Abdullah Sulaiman](https://github.com/CodeMage-x)
 - [Muhammad Usman](https://github.com/MuhammadUsman15/first-contributions)
 - [Shawn Stanley](https://github.com/shawnstanley123/first-contributions)
+- [Marquis Sampson] (https://github.com/Marquis4484/first-contributions)
 - [Saniket More](https://github.com/saniketmore)
 - [Vatsal Chauhan](https://github.com/chauhanvats3)
 - [Advika Bhat](https://github.com/Advika101)
@@ -105,8 +105,7 @@
 - [Shada Daab](https://github.com/shadatr)
 - [Tanitolorun Akinyemi](https://github.com/buddingdevT)
 - [Md. Saidul Islam](https://github.com/Saidul-1)
-- [Tarik Teshome](https://github.com/tarik350)
--[Maddineni Ramkumar](https://github.com/RamMaddineni)
+- [Tarik Teshome](https://github.com/tarik350) -[Maddineni Ramkumar](https://github.com/RamMaddineni)
 - [Vinayak Venugopal ](https://github.com/vinayakvenugopal)
 - [pistil-K](https://github.com/pistil-K)
 - [Christian Decker](https://github.com/cmdecker95)
@@ -118,8 +117,7 @@
 - Shiraku Yanai
 - [codedevrob] (https://github.com/codedevrob0)
 - [Sohrab Kazak](https://github.com/CosmicParadoxDragon)
-- [Vivek Chaprana](https://github.com/vivek-chaprana)
--[Lakshya Agarwal](https://github.com/lakshya6378)
+- [Vivek Chaprana](https://github.com/vivek-chaprana) -[Lakshya Agarwal](https://github.com/lakshya6378)
 - [Jessica Vaughn](https://github.com/jessicavaughn619)
 - [Abdi Jama](https://github.com/ajama21/)
 - [Sahil Gaikwad](https://github.com/Sahilgaik)
@@ -150,7 +148,7 @@
 - [chetannada](https://github.com/chetannada)
 - [Anudari Gereltod](https://github.com/AnudariG)
 - [SaswatSahu](https://github.com/Raphel6969)
-- [Sanjiv Kushwaha] ********\*\*********\*\*********\*\*********
+- [Sanjiv Kushwaha] **\*\*\*\***\*\***\*\*\*\***\*\***\*\*\*\***\*\***\*\*\*\***
 - [Sumitra Sharma](https://github.com/heygauri)
 - [Alex W](https://github.com/yw3762)
 - [Sanjiv Kushwaha]
@@ -400,7 +398,7 @@
 - [Sagar Sharma](https://github.com/sagar-io)
 - [Stefan Baciu](https://github.com/StefanCodru)
 - [Ange-Emmanuel Kouakou](https://github.com/SolarBlaze)
-https://github.com/Krushna-Nanda/first-contributions.git- [Ioan Circiumaru](https://github.com/circiumaruioan)
+  https://github.com/Krushna-Nanda/first-contributions.git- [Ioan Circiumaru](https://github.com/circiumaruioan)
 - [Lucas Vieira Ribeiro](https://github.com/Lucas-Vieira-R/)
 - [Quentin Ramsay](https://github.com/QuentinRamsay/)
 - [Anukam Chidalu](https://github.com/daluclemas)
@@ -1377,5 +1375,3 @@ https://github.com/Krushna-Nanda/first-contributions.git- [Ioan Circiumaru](http
 - [Okoye Johnpaul](https://github.com/jaypee15)
 - [nonsleep1](https://github.com/nonsleep1)
 - [nonsleep1](https://github.com/nonsleep1)
-
-
