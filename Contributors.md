@@ -1340,6 +1340,7 @@
 - [Sai Surya] (https://github.com/surya304)
 - [Jan Szymkiewicz](https://github.com/szymkjan)
 - [Nurul Ihsan Hariz Pratama](https://github.com/nurihsan95)
+- [Mehmet Bacık](https://github.com/mehmetbacik)
 - [Anant Agarwal] (https://github.com/ThisMonkeysGoneToHeaven)
 - [Shin You](https://github.com/a5512167086)
 - [Paul Ragsac](https://github.com/Chifuuyu)
