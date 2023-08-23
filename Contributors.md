@@ -165,6 +165,7 @@
 - [lentucky](https://github.com/lentucky)
 - [Vikas Parmar](https://github.com/vikas-parmar)
 - [Samy Cachon]
+- buyiweiran
 - [Abhishek Subba](https://github.com/original-subbaman)
 - [Zombie12k](https://github.com/Zombie12k)
 - [Ankit Mehra](https://github.com/Ankit-Mehra)
