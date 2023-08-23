@@ -370,6 +370,7 @@
 - [Bolajoko Bolaji](https://github.com/Bolaji06)
 - [Dany S](https://github.com/dan77272)
 - [Ruth Ikegah](https://github.com/Ruth-ikegah)
+- [Adeeb Alkahat](https://github.com/AdeebAlk)
 - [Marcelo Bragança](https://github.com/mvrcelitos)
 - [Rishikesh Kanabar](https://github.com/RishikeshNK)
 - [Moheet Shendarkar](https://github.com/moheet333)
