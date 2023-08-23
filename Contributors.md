@@ -151,6 +151,7 @@ FranciscoFB7
 - [Ankit Mehra](https://github.com/Ankit-Mehra)
 - [Linus404](https://github.com/Linus404)
 - [Prajjwal Kumar](https://github.com/eisemsi2)
+- [Nishi](https://github.com/nishim2019)
 - [Miles Eng](https://github.com/milesreng)
 - [Muhammed Faheem](https://github.com/faheem-cmd)
 - [Cosmo Kramer](https://github.com/alexpi007)
