@@ -2,6 +2,7 @@
 
 - [Linford] (https://github.com/Linf0rd)
 - [Amit singh](https://github.com/technicalamit8055)
+- [Pranay Choubey](https://github.com/CaesarMouse)
 
 - [prafitradimas](https://github.com/prafitradimas)
 - [Deepu](https://github.com/blackbeard002)
