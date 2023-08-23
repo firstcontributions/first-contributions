@@ -123,6 +123,7 @@ FranciscoFB7
 - [Ali Shan Ahmad](https://github.com/alishanahmad907)
 - [Abdullah Hazuri](https://github.com/abdhazouri00)
 - [BilgehanMehmet](https://github.com/BilgehanMehmet)
+- [Henry Blackburn](https://github.com/Heno08)
 - [Campego](https://github.com/Campego)
 - [David-S](https://github.com/Deastyn)
 - [Jemz](https://github.com/jmlinks)
@@ -1288,6 +1289,7 @@ FranciscoFB7
 - [Harish Kanna] (<https://github.com/Pekka20123>)
 - [Brian Neisen](https://github.com/warmage12354)
 - Ash
+- [Henry Blackburn](https://github.com/Heno08)
 - [Ared Xiao](https://github.com/Ared-go)
 - [MSN16]
 - [Anirudha Patil](https://github.com/AnirudhaPatil-1)
