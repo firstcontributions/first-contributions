@@ -1319,6 +1319,7 @@ FranciscoFB7
 - [nami773](https://github.com/nami773/)
 - [tencho12] (https://github.com/tencho12/)
 - [Sourabh_Singh] (https://github.com/Sourabh20022002)
+- [Eric Huang](https://github.com/erich2s)
 - [sean85120] (https://github.com/sean85120)
 - [Eric Huang] (https://github.com/erich2s)
 - [黄士崧] (https://github.com/erich2s)
