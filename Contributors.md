@@ -21,6 +21,7 @@
 - [Sanjeev Kumar Sahoo](https://github.com/sanjeevkumar321)
 - [Viraj Parikh](https://github.com/VirajYParikh)
   FranciscoFB7
+- [Doug Bostick] (https://github.com/dougbostick)
 - [Jesreel](https://github.com/JesCodeMar)
 - [Gerry Aballa](https://github.com/Gerry-Aballa)
 - [Cassandra] (https://github.com/codingcass)
