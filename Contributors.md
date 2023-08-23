@@ -104,6 +104,7 @@ FranciscoFB7
 - [Christian Decker](https://github.com/cmdecker95)
 - [Senjith P](https://github.com/SenjithP)
 - [Owusu Ansah](https://github.com/qquarjo)
+- [Yushan]
 - [Ilias Dimopoulos](https://github.com/IliasDimopoulos99)
 - Yushan
 - Shiraku Yanai
@@ -113,13 +114,14 @@ FranciscoFB7
 - [Jessica Vaughn](https://github.com/jessicavaughn619)
 - [Abdi Jama](https://github.com/ajama21/)
 - [Sahil Gaikwad](https://github.com/Sahilgaik)
-- [Chase West] <https://github.com/chase-west>
+- [Chase West](https://github.com/chase-west)
 - [david-s]()
 - [JayAyTee](https://github.com/JayAyTee)
 - [Santiago Rodriguez](https://github.com/santimars)
 - [Muhammed Faheem](https://github.com/faheem-cmd)
+- [Abhilash Mohanty]
 - [Denis Perevertov](https://github.com/denis-perevertov)
-- Abhilash Mohanty
+- [Abhilash Mohanty]
 - [Ayushman Singh](https://github.com/ayushman101)
 - [Joey Harper](https://github.com/PapaJoe24)
 - [Ali Shan Ahmad](https://github.com/alishanahmad907)
@@ -138,9 +140,11 @@ FranciscoFB7
 - [chetannada](https://github.com/chetannada)
 - [Anudari Gereltod](https://github.com/AnudariG)
 - [SaswatSahu](https://github.com/Raphel6969)
+- [Sanjiv Kushwaha] ********\*\*********\*\*********\*\*********
+- [Sumitra Sharma](https://github.com/heygauri)
 - [Alex W](https://github.com/yw3762)
 - [Sanjiv Kushwaha]
-- Sumitra Sharma (https://github.com/heygauri)
+- [Sumitra Sharma](https://github.com/heygauri)
 - [efrxngg](https://github.com/efrxngg)
 - [Ahmed ezealdean (https://github.com/codezol)]
 - [Tiago404](https://github.com/Tiago404)
@@ -171,6 +175,7 @@ FranciscoFB7
 - [Harshit Kumar](https://github.com/harshitkk11)
 - [Abacus159](https://github.com/Abacus159)
 - [mgrTutka](https://github.com/mgrTutka)
+- [Fabi]
 - Fabi
 - [Niet](https://github.com/nietus)
 - [WYYY](https://github.com/Justnoones)
@@ -181,7 +186,7 @@ FranciscoFB7
 - [Mandy]
 - King William [https://github.com/seanapowi]
 - [Prabhat Saxena](https://github.com/xx-VIRUS-xx)
-- Conner Luff
+- [Conner Luff]
 - [Jamey Bryce](https://github.com/jameydev)
   [Jatin Sood]
 - [Jorge Cano]
@@ -190,7 +195,7 @@ FranciscoFB7
 - [Anish Tuteja](https://github.com/AnishTuteja)
 - [Wayne G](https://github.com/wehyn)
 - [Alok Tamrakar](https://github.com/TammyAlok2)
-- haneesh byreddy
+- [haneesh byreddy]
 - [Daagni](https://github.com/Daagni)
 - [Gonca Negis](https://github.com/goncanegis/)
 - [jungle-kai](https://github.com/jungle-kai)
@@ -230,17 +235,17 @@ FranciscoFB7
 - [Umesh Savaliya](https://github.com/Umesh-WW)
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
 - [Chris Nieves](https://github.com/nievescs20)
-- Divyasri Makineni
-- Shivam Rajput
+- [Divyasri Makineni]
+- [Shivam Rajput]
 - [Parthiv Parmar](https://github.com/parthiv011)
 - [snghvineet]
 - [dh-tester](https://github.com/dh-tester)
 - [Gaurav Deep](https://github.com/GAURAV-DEEP01)
 - [Manoah Luka](https://github.com/manoahLinks)
 - [Vivek Ranjan Saho](https://github.com/vivekranjansahoo)
-- Deepak Thorat
+- [Deepak Thorat]
 - [Samuel Ribeiro de Souza](https://github.com/samuelsouzzza)
-- Alvaro Lucas
+- [Alvaro Lucas]
 - Nisha Sahu (<https://github.com/nishaSahuU>)
 - [StefKal](https://github.com/StefKal)
 - [drremo1](https://github.com/drremo1)
@@ -249,8 +254,8 @@ FranciscoFB7
 - [AbdulRehman Mangral](https://github.com/armangral)
 - [Presh Jindal](https://github.com/PreshJindal)
 - [AlbertHoxha](https://github.com/alberthoxha)
-- Johnny
-- Isaias Cuvula
+- [Johnny]
+- [Isaias Cuvula]
 - [Awofiranye Sherif](https://github.com/iAmSherifCodes)
 - [Devang Yadav](https://github.com/DevangYv-999)
 - [Vishwajeet Sharma](https://github.com/vishusharmaX)
