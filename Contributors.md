@@ -563,6 +563,7 @@ https://github.com/Krushna-Nanda/first-contributions.git- [Ioan Circiumaru](http
 - [Ndalegh Noela](https://github.com/ndaleghnoelalummbah/first-contributions.git)
 - [Vikas Adhikari](https://gimage.pngithub.com/VikasAdhikari07)
 - [TJ Ries](https://github.com/tj-ries)
+- [Nina King Skyttmo](https://github.com/ninaskyttis)
 - [Harsh Raghuwanshi](https://github.com/harsha094)
 - [Jay](https://github.com/jaghara)
 - [Mohammad Iqbal](https://github.com/iqmd)
