@@ -9,7 +9,7 @@
 - [chetannada](https://github.com/chetannada)
 - [Anudari Gereltod](https://github.com/AnudariG)
 - [SaswatSahu] (https://github.com/Raphel6969)
-- [Sanjiv Kushwaha] **************************************
+- [Sanjiv Kushwaha] **\*\*\*\***\*\***\*\*\*\***\*\***\*\*\*\***\*\***\*\*\*\***
 - [efrxngg](https://github.com/efrxngg)
 - [Yaroslav Baienko] (https://github.com/YaroslavBaienko)
 - [motongxue](https://github.com/motongxue)
@@ -22,7 +22,7 @@
 - [Harshit Kumar] (https://github.com/harshitkk11)
 - [mgrTutka] (https://github.com/mgrTutka)
 - [Fabi]
-- [Jitendra Lohani] (https://github.com/jitendra-01) 
+- [Jitendra Lohani] (https://github.com/jitendra-01)
 - [Manu] (https://github.com/thunderbolt004)
 - King William [https://github.com/seanapowi]
 - [Prabhat Saxena] (https://github.com/xx-VIRUS-xx)
@@ -953,3 +953,4 @@
 - [Daniel Kaijzer] (https://github.com/danielkaijzer)
 - [Ephraim Beltran] (https://github.com/ephraim-beltran)
 - [Carry Lee] (https://github.com/Nuaza)
+- [Mathew 'Jason' Jeong] (http://github.com/kimchieater)
