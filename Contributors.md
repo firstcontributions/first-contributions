@@ -115,7 +115,8 @@
 - [Senjith P](https://github.com/SenjithP)
 - [Owusu Ansah](https://github.com/qquarjo)
 - [Yushan]
-- [Ilias Dimopoulos](https://github.com/IliasDimopoulos99)
+- [Guilherme Nunes](https://github.com/guilhermenunes25)
+ [Ilias Dimopoulos](https://github.com/IliasDimopoulos99)
 - Yushan
 - Shiraku Yanai
 - [codedevrob] (https://github.com/codedevrob0)
