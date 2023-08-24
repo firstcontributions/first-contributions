@@ -774,6 +774,7 @@
 - [Shivam Singh](https://github.com/CommData)
 - [Steven Hastings](https://github.com/gitHasty-0321)
 - [Prakhar Dubey](https://github.com/prakhardubey2002)
+- [Nitin Gururaj](https://github.com/nitingururajk)
 - [Lucifer Morningstar](https://github.com/ItsReallyLucifer)
 - [Timi Adenuga](https://github.com/Thi-mee)
 - [Tommy Seamans](https://github.com/tseamans1214)
