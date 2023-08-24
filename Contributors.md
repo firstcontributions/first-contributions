@@ -80,6 +80,7 @@
 - [jplsanchez] (https://github.com/jplsanchez)
 - [Faniriantsoa-RANDRIAHARIMINO] (https://github.com/Faniry1015)
 - [astromerov](https://github.com/astromerov)
+- [Prionage](https://github.com/Prionage/first-contributions)
 - [CL](https://github.com/Radar3759)
 - [Ahmed Jameel](https://github.com/ahmedjameel1)
 - [Chintan Rupareliya](https://github.com/chintanrupareliya)
