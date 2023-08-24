@@ -186,6 +186,7 @@
 - [Miles Eng](https://github.com/milesreng)
 - [Muhammed Faheem](https://github.com/faheem-cmd)
 - [Cosmo Kramer](https://github.com/alexpi007)
+- [Frank Zhao](https://github.com/Frankbz)
 - [Nicholas Pop](https://github.com/Cocovert1)
 - [Bhanu Singh](https://github.com/bhanusingh008)
 - [Kashyap Patel](https://github.com/kashyap5551)
