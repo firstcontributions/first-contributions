@@ -218,6 +218,7 @@
 - [Gonca Negis](https://github.com/goncanegis/)
 - [jungle-kai](https://github.com/jungle-kai)
 - [Nuhaj Aziz](https://github.com/Naz1804/)
+- [Ayush Mourya](https://github.com/ayushmourya/)
 - [Jahnavi-Solanki](https://github.com/Jahnavi-Solanki)
 - [TimedOut1800](https://github.com/TimedOut1800)
 - [Shashank Hebbar](https://github.com/quantumflo)
