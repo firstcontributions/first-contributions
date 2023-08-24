@@ -10,6 +10,7 @@
 - [prafitradimas](https://github.com/prafitradimas)
 - [Deepu](https://github.com/blackbeard002)
 - [César Henrique](https://github.com/cesarhenrq)
+- [Juan Olvera](https://github.com/juanolveraruiz)
 - [Omar Abdelgawad](https://github.com/omar-abdelgawad)
 - [Yunis Aslan](https://github.com/YunisAslan)
 - [Daan V] (https://github.com/banzaai)
