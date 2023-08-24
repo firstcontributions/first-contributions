@@ -1368,6 +1368,7 @@
 - [Ritch Johan Jefferson](https://github.com/jeffersonfed)
 - [Ross Woods](https://github.com/RossCWoods)
 - [DS-X1](https://github.com/DS-X1)
+- [Ethan Eckert](https://github.com/eth9n-dev)
 - [Mike Manoti Nyambega](https://github.com/manotim)
 - [Aadith Lasar](https://github.com/aadithlasar)
 - [Brian Johnson](https://github.com/bjohnson360)
