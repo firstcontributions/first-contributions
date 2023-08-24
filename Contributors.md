@@ -360,6 +360,7 @@
 - [ElectroGamesDev](https://github.com/ElectroGamesDev)
 - [Angel Umeh](https://github.com/akcumeh)
 - [Nayan Jyoti Das](https://github.com/njdasa)
+- [Script Doodle](https://github.com/script-doodle)
 - [Anthony Capecci](https://github.com/AnthonyCap13)
 - [rmknan](https://github.com/rmknan)
 - [Vaibhav Mahajan](https://github.com/vaibhav-3003)
