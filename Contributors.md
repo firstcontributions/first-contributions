@@ -733,6 +733,7 @@
 - [Collins Self](https://github.com/collins-self)
 - [veasnawt](https://github.com/veasnawt)
 - [Bertczyk](https://github.com/Bertczyk)
+- [Rohit Kumar](https://github.com/Ironblade1)
 - [Anthony Mwaura](https://github.com/Anthony11-hub)
 - [Vansh Chopra](https://github.com/vanshavenger)
 - [Julie S](https://github.com/Julie-S2020)
