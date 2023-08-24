@@ -5,6 +5,7 @@
 - [Taieb Hossain](https://github.com/hossain909)
 - [Linford] (https://github.com/Linf0rd)
 - [Lucas] (http://github.com/zed118)
+- [Pratap Singh Sisodia](https://github.com/prataps135)
 - [Amit singh](https://github.com/technicalamit8055)
 - [Franco Lu](https://github.com/franco2002lu)
 - [Pranay Choubey](https://github.com/CaesarMouse)
