@@ -66,6 +66,7 @@ FranciscoFB7
 - [csamid](https://github.com/csamid)
 - [Vikas-Bagri](https://github.com/BagriVikas)
 - [astromerov](https://github.com/astromerov)
+- [Prionage](https://github.com/Prionage/first-contributions)
 - [CL](https://github.com/Radar3759)
 - [Ahmed Jameel](https://github.com/ahmedjameel1)
 - [Chintan Rupareliya](https://github.com/chintanrupareliya)
