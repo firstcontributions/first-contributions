@@ -74,6 +74,7 @@
 - [Niroshan Sandeepa](https://github.com/niroshansandeepa)
 - [Rudra-Garg](https://github.com/Rudra-Garg)
 - [Kshitij Varma](https://github.com/KshitijVarma21)
+- [Edward Renton](https://github.com/edwardrenton)
 - [KB Lor](https://github.com/kblor0324)
 - [Najeeb Yusuf](https://github.com/jeebulla/final-Portfolio)
 - [kobe-yang](https://github.com/kobe-yang)
