@@ -688,6 +688,7 @@
 - [Sophearoth Prum](https://github.com/biscuit-lee)
 - [Abhiram Santhosh](https://github.com/mayopik)
 - [Brian Muimi](https://github.com/brianmuimi)
+- [Talha](https://github.com/talha4real)
 - [Sudeshna Saha](https://github.com/sudeshna-s03)
 - [Bibin Biju](https://github.com/bib265)
 - [zukizukizuki](https://github.com/zukizukizuki)
