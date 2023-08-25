@@ -1,12 +1,14 @@
 # Contributors
+
 -[Ajay](https://github.com/ajay-k12)
-- [Vaibhav_Shukla](https://github.com/mvaibhav77)
--[Akshit-Zom](https://github.com/Akshit-Zom)
+
+- [Vaibhav_Shukla](https://github.com/mvaibhav77) -[Akshit-Zom](https://github.com/Akshit-Zom)
 - [Nabina Mallik](https://github.com/nabinamallik)
 - [Taieb Hossain](https://github.com/hossain909)
 - [Linford] (https://github.com/Linf0rd)
 - [Lucas] (http://github.com/zed118)
 - [Pratap Singh Sisodia](https://github.com/prataps135)
+- [Shreyam ]
 - [Amit singh](https://github.com/technicalamit8055)
 - [Franco Lu](https://github.com/franco2002lu)
 - [Pranay Choubey](https://github.com/CaesarMouse)
@@ -28,7 +30,7 @@
 - [Viraj Parikh](https://github.com/VirajYParikh)
   FranciscoFB7
 - [Doug Bostick] (https://github.com/dougbostick)
-- [Jesus  Rivas](https://github.com/jesuswrivas)
+- [Jesus Rivas](https://github.com/jesuswrivas)
 
 - [Jesreel](https://github.com/JesCodeMar)
 - [Gerry Aballa](https://github.com/Gerry-Aballa)
@@ -128,7 +130,7 @@
 - [Yushan]
 - [Arpit Burgess](https://github.com/arpitburgess)
 - [Guilherme Nunes](https://github.com/guilhermenunes25)
- [Ilias Dimopoulos](https://github.com/IliasDimopoulos99)
+  [Ilias Dimopoulos](https://github.com/IliasDimopoulos99)
 - Yushan
 - Shiraku Yanai
 - [codedevrob] (https://github.com/codedevrob0)
@@ -146,7 +148,7 @@
 - [Abhilash Mohanty]
 - [Denis Perevertov](https://github.com/denis-perevertov)
 - [Abhilash Mohanty]
-[Fran Racic](https://github.com/franracic)
+  [Fran Racic](https://github.com/franracic)
 - [Ayushman Singh](https://github.com/ayushman101)
 - [Joey Harper](https://github.com/PapaJoe24)
 - [Ali Shan Ahmad](https://github.com/alishanahmad907)
@@ -1414,8 +1416,7 @@
 - [nonsleep1](https://github.com/nonsleep1)
 - [nonsleep1](https://github.com/nonsleep1)
 - [Vikbobvia](https://github.com/Vikbobvia/first-contributions)
-- [Hadi](https://github.com/morhadi/first-contributions)
--[Sajal Rastogi](https://github.com/Sajalrastogi89/first-contributions)
+- [Hadi](https://github.com/morhadi/first-contributions) -[Sajal Rastogi](https://github.com/Sajalrastogi89/first-contributions)
 - [Noah Velasco](https://github.com/noahvelasco)
 - [张丹婷](https://github.com/JOOLLIEE)
 - [Antonio Molina] (https://github.com/antwan1)
