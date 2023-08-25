@@ -1423,6 +1423,7 @@
 - [Vikbobvia](https://github.com/Vikbobvia/first-contributions)
 - [Hadi](https://github.com/morhadi/first-contributions)
 -[Sajal Rastogi](https://github.com/Sajalrastogi89/first-contributions)
+- [Discimu](https://github.com/Discimu657/los)
 - [Noah Velasco](https://github.com/noahvelasco)
 - [张丹婷](https://github.com/JOOLLIEE)
 - [Antonio Molina] (https://github.com/antwan1)
