@@ -679,6 +679,7 @@
 - [nnhjs](https://github.com/nnhjs)
 - Dustin Yochim
 - Zachary Odom
+- [Manish Kumar](https://github.com/Mindlord-rex)
 - [Black Knight](https://github.com/BlacKnight-RH)
 - [Alexb017](https://github.com/alexb017)
 - [Anurag Roy](https://github.com/NextThread)
