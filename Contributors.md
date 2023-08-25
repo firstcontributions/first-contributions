@@ -785,6 +785,7 @@
 - [Abhishek Mahalunge](https://github.com/ABHISHEKMAHALUNGE)
 - [Akash Jaiswal](https://github.com/akashjaiswal797112)
 - [VineBoomSoundEffect](https://github.com/VineBoomSoundEffect)
+- [Farlen Ureña](https://github.com/FarlenUrena)
 - [James Barry](https://github.com/jim-jbarry)
 - [George Potonov](https://github.com/Maritornez)
 - [Ahmed Alaedi](https://github.com/aalsaedi265)
