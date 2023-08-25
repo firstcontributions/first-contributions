@@ -833,6 +833,7 @@
 - [Arjun M](https://github.com/arjunm2305)
 - [Brandon Bondig](https://github.com/brandonbondig)
 - [Songha Chheo](https://github.com/songhachheo)
+- [Hex] (https://github.com/HexLTD)
 - [Rishika Sinha](https://github.com/rishikasinha7)
 - [Achyut Neupane](http://github.com/achyutkneupane)
 - [Spencer V](https://github.com/Spencerv1/first-contributions)
