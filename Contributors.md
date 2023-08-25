@@ -3,7 +3,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
-- [turja] ()
+- [Zahidul Islam turja] ()
 
 - [Samaila](https://github.com/samailamalima)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
