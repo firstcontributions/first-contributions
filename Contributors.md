@@ -12,6 +12,7 @@
 - [Pranay Choubey](https://github.com/CaesarMouse)
 - [prafitradimas](https://github.com/prafitradimas)
 - [Deepu](https://github.com/blackbeard002)
+- [Aditya](https://github.com/adityasd314)
 - [César Henrique](https://github.com/cesarhenrq)
 - [Omar Abdelgawad](https://github.com/omar-abdelgawad)
 - [Yunis Aslan](https://github.com/YunisAslan)
