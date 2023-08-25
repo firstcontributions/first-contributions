@@ -48,6 +48,7 @@
 - [Uloka Ngozi] (https://github.com/Gifftybabe)
 - [Damjan Djukic](https://github.com/DamiGbs)
 - [Ayush Kumar Sinha](https://github.com/aks151)
+- [John Mburu](https://github.com/techstrix)
 - [Pixel Bit](https://github.com/Mproot)
 - [Abdullah Sulaiman](https://github.com/CodeMage-x)
 - [Muhammad Usman](https://github.com/MuhammadUsman15/first-contributions)
