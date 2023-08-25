@@ -1122,6 +1122,7 @@
 - [Gleb Kan](https://github.com/practicalgnome)
 - [Rahul Anand](https://github.com/rnand)
 - [Kalu Agu Kalu](https://github.com/Godswilly)
+- [Harrison Molloy](https://github.com/harrisonmolloy)
 - [Shiv Prasad Sharma](https://github.com/spsharma16)
 - [Sergio Garcia](https://github.com/sgarciagallego)
 - [Hamza Jamshed](https://github.com/Sassyprogrammer1)
