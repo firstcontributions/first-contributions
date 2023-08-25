@@ -446,6 +446,7 @@
 - [Malavya Raval](https://github.com/MalavyaRaval)
 - [Levin Baria](https://github.com/levinbaria)
 - [José Ortiz-Ocampo](https://github.com/jhortizo)
+- [Sávio Costa Silva](https://github.com/saviocosta01)
 - [Curtis Aliwah](https://github.com/Aliwah1403)
 - [AM](https://github.com/AMoczar)
 - [Oluwaseun Adesina](https://github.com/oluwaseun-Adesina)
