@@ -201,6 +201,7 @@
 - [Harshit Kumar](https://github.com/harshitkk11)
 - [Abacus159](https://github.com/Abacus159)
 - [mgrTutka](https://github.com/mgrTutka)
+- [kurtisolo](https://github.com/kurtisolo)
 - [Fabi]
 - Fabi
 - [Niet](https://github.com/nietus)
