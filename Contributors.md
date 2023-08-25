@@ -284,6 +284,7 @@
 - [Presh Jindal](https://github.com/PreshJindal)
 - [AlbertHoxha](https://github.com/alberthoxha)
 - [Johnny]
+- [Ocean Berlinghieri](https://github.com/OceanBerlinghieri)
 - [Isaias Cuvula]
 - [Awofiranye Sherif](https://github.com/iAmSherifCodes)
 - [Devang Yadav](https://github.com/DevangYv-999)
