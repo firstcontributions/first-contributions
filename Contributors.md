@@ -312,6 +312,7 @@
 - [Moncef Meharzi](https://github.com/Moncef-Mhz)
 - [Raj sharma](https://github.com/lluciferr)
 - [Conaitus](https://github.com/conaitus)
+- [Andrea Garces](https://github.com/AGarcesS)
 - [OpherM](https://github.com/OpherM)
 - [Sadegh Qarehgholpaghi](https://github.com/im-zack)
 - [Jakub Radziejewski](https://github.com/jradziejewski)
