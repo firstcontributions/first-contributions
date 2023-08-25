@@ -374,6 +374,7 @@
 - [Vaibhav Mahajan](https://github.com/vaibhav-3003)
 - [Kushanth-Reddy](https://github.com/Kushanth-Reddy)
 - [Wesllen Alexandre](https://github.com/Wesllenbr)
+- [EDEXADE](https://github.com/404)
 - [Ikegah Oliver](https://github.com/oliverTwist2)
 - [derfabiannn](https://github.com/derfabiannn)
 - [Aryaman Pathak](https://github.com/aryamanpathak2022)
