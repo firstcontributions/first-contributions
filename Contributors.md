@@ -160,6 +160,7 @@
 - [Fran Racic](https://github.com/franracic)
 - [Ayushman Singh](https://github.com/ayushman101)
 - [Joey Harper](https://github.com/PapaJoe24)
+- [AresLOLXD](https://github.com/AresLOLXD)
 - [Ali Shan Ahmad](https://github.com/alishanahmad907)
 - [Abdullah Hazuri](https://github.com/abdhazouri00)
 - [BilgehanMehmet](https://github.com/BilgehanMehmet)
