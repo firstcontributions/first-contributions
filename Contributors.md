@@ -1,6 +1,7 @@
 # Contributors
 -[Ajay](https://github.com/ajay-k12)
- -[Akshit-Zom](https://github.com/Akshit-Zom)
+- [Vaibhav_Shukla](https://github.com/mvaibhav77)
+-[Akshit-Zom](https://github.com/Akshit-Zom)
 - [Nabina Mallik](https://github.com/nabinamallik)
 - [Taieb Hossain](https://github.com/hossain909)
 - [Linford] (https://github.com/Linf0rd)
