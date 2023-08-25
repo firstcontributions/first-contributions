@@ -32,6 +32,7 @@
 - [Gerry Aballa](https://github.com/Gerry-Aballa)
 - [Cassandra] (https://github.com/codingcass)
 - [Akash Raj](https://github.com/akashroshiv)
+- [Arpit Goswami](https://github.com/arpitgoswami)
 - [Christopher Semler](https://github.com/SEM7AC)
 - [Bethel Enunwa](https://github.com/betheltoni)
 - [Benjamin Hack](https://github.com/benhhack)
