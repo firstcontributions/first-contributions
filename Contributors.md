@@ -3,7 +3,7 @@
 - [Ajay](https://github.com/ajay-k12)
 - [Annarhysa Albert](https://github.com/Annarhysa)
 - [Vaibhav_Shukla](https://github.com/mvaibhav77)
--[Akshit-Zom](https://github.com/Akshit-Zom)
+- [Akshit-Zom](https://github.com/Akshit-Zom)
 - [Nabina Mallik](https://github.com/nabinamallik)
 - [Taieb Hossain](https://github.com/hossain909)
 - [Linford](https://github.com/Linf0rd)
@@ -1436,3 +1436,4 @@
 - [Antonio Molina] (https://github.com/antwan1)
 - [Maxwell Voorhes] (https://github.com/mvoorhes)
 - [Dut] (https://github.com/Dut-git)
+- [Jerson] (https://github.com/JersonQA)
