@@ -46,6 +46,7 @@
 - [Jerico Franco](https://github.com/cout05)
 - [Jatin Jindal](https://github.com/vercetti322)
 - [Purya Behzadpur](https://github.com/puryabzp)
+- [Luke DiPerna](https://github.com/luke-lite)
 - [Chaitanya Emani](https://github.com/ChaitanyaEmani)
 - [Manoj Kumar](https://github.com/iamsidar07)
 - [Agung Saputra](https://github.com/Agung1606)
