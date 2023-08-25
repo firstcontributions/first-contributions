@@ -825,6 +825,7 @@
 - [Vivian Arevalo](https://github.com/vivian-mca)
 - [Purnima Kumar](https://github.com/Purnima-1)
 - [Jason Jia](https://github.com/jasonjiajs)
+- [Mehdi] (https://github.com/pyr33x)
 - [Dhrumi Shah](https://github.com/dhrumishah)
 - [Julian](https://github.com/JulianToppo)
 - [Kiran Kumar](https://github.com/CodingKiran)
