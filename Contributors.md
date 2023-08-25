@@ -31,7 +31,7 @@
   FranciscoFB7
 - [Doug Bostick] (https://github.com/dougbostick)
 - [Jesus  Rivas](https://github.com/jesuswrivas)
-
+- [Himamsu Marellapudi](https://github.com/marellapudihimamsu)
 - [Jesreel](https://github.com/JesCodeMar)
 - [Gerry Aballa](https://github.com/Gerry-Aballa)
 - [Cassandra] (https://github.com/codingcass)
