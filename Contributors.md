@@ -1,5 +1,6 @@
 # Contributors
 -[Ajay](https://github.com/ajay-k12)
+-[Annarhysa Albert](https://github.com/Annarhysa)
 - [Vaibhav_Shukla](https://github.com/mvaibhav77)
 -[Akshit-Zom](https://github.com/Akshit-Zom)
 - [Nabina Mallik](https://github.com/nabinamallik)
