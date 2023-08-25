@@ -1,4 +1,5 @@
 # Contributors
+- [Akshatha](https://github.com/nayakan)
 - [Ajay](https://github.com/ajay-k12)
 - [Annarhysa Albert](https://github.com/Annarhysa)
 - [Vaibhav_Shukla](https://github.com/mvaibhav77)
@@ -1425,7 +1426,7 @@
 - [nonsleep1](https://github.com/nonsleep1)
 - [Vikbobvia](https://github.com/Vikbobvia/first-contributions)
 - [Hadi](https://github.com/morhadi/first-contributions)
--[Sajal Rastogi](https://github.com/Sajalrastogi89/first-contributions)
+- [Sajal Rastogi](https://github.com/Sajalrastogi89/first-contributions)
 - [Discimu](https://github.com/Discimu657/los)
 - [Noah Velasco](https://github.com/noahvelasco)
 - [张丹婷](https://github.com/JOOLLIEE)
