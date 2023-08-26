@@ -2,6 +2,7 @@
 - [Akshatha](https://github.com/nayakan)
 - [Wenricx](https://github.com/Wenricx)
 - [Ajay](https://github.com/ajay-k12)
+- [tamilbharathi](https://github.com/tamil-code)
 - [Annarhysa Albert](https://github.com/Annarhysa)
 - [Vaibhav_Shukla](https://github.com/mvaibhav77)
 -[Akshit-Zom](https://github.com/Akshit-Zom)
