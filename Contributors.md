@@ -12,6 +12,7 @@
 - [Vaibhav_Shukla](https://github.com/mvaibhav77)
 -[ShreyaM](https://github.com/shreya-markhedkar)
 -[Akshit-Zom](https://github.com/Akshit-Zom)
+- [Agnik Bakshi](https://github.com/Agnik7)
 - [Nabina Mallik](https://github.com/nabinamallik)
 - [Sourabh Girdhar] (https://github.com/girdharsourabh)
 - [Taieb Hossain](https://github.com/hossain909)
