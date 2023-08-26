@@ -16,6 +16,7 @@
 - [Taieb Hossain](https://github.com/hossain909)
 - [Linford](https://github.com/Linf0rd)
 - [Lucas](http://github.com/zed118)
+- [Glitched Nexus](https://github.com/GlitchedNexus)
 - [KiranJais](https://github.com/alkrona)
 - [Andy Iyer](https://github.com/aiyervenkat) 
 - [formido](https://github.com/PKS-formido)
