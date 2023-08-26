@@ -21,6 +21,7 @@
 - [Lucas](http://github.com/zed118)
 - [Glitched Nexus](https://github.com/GlitchedNexus)
 - [KiranJais](https://github.com/alkrona)
+- [Faris Bazdar](https://github.com/Gilgameshgb-1)
 - [Andy Iyer](https://github.com/aiyervenkat) 
 - [formido](https://github.com/PKS-formido)
 - [curlylemon](https://github.com/curlylemon)
