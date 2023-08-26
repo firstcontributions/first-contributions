@@ -721,6 +721,7 @@
 - [Talha](https://github.com/talha4real)
 - [Sudeshna Saha](https://github.com/sudeshna-s03)
 - [Bibin Biju](https://github.com/bib265)
+- [Rapzy](https://github.com/SarjyantShrestha)
 - [zukizukizuki](https://github.com/zukizukizuki)
 - [Mohammad Arfizur Rahman](https://github.com/arfizurrahman)
 - [Oussama Bernou](https://github.com/0ussamaBernou)
