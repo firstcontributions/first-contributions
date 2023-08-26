@@ -913,6 +913,7 @@
 - [Oluwaseyi Aimudo](https://github.com/Oluwaseyi123)
 - [PaingThuHtwe](https://github.com/paingthuhtwe)
 - [David Kitavi](https://github.com/kitavidavis)
+- [Theresa Barkasy](https://github.com/thatreligionmajor)
 - [Shayan Faghihi](https://github.com/ShayanFaghihi)
 - [Pelumi Olawole](https://github.com/pelumiolawole)
 - [David Enders](https://github.com/davidenders11)
