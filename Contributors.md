@@ -38,6 +38,7 @@
 - [AbinDas](https://github.com/abindas123)
 - [Jesreel](https://github.com/JesCodeMar)
 - [Gerry Aballa](https://github.com/Gerry-Aballa)
+- [David Bright](https://github.com/davebiddy/)
 - [Cassandra](https://github.com/codingcass)
 - [Akash Raj](https://github.com/akashroshiv)
 - [Arpit Goswami](https://github.com/arpitgoswami)
