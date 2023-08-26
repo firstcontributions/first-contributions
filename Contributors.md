@@ -73,6 +73,7 @@
 - [Ayushi Awasthi](https://github.com/Ayushi3023)
 - [Moh Ikhwan](https://github.com/mohikhwan)
 - [Cwj900](https://github.com/Cwj900)
+- [Ritik](https://github.com/ritikkumar-agrawal)
 - [AdvaitSan](https://github.com/AdvaitSan)
 - [Lalitha Lakshmiraju](https://github.com/lalithasj)
 - [Abdelrhman Abdallah](https://github.com/abdelrhman-abdallah)
