@@ -1180,6 +1180,7 @@
 - [Eric VanSchagen](https://github.com/bojangles86)
 - [Luck Tran](https://github.com/lucktran)
 - [Brandon Agil](https://github.com/Brandonagil)
+- [WambuaJoe] (https://github.com/WambuaJoe)
 - [Electro](https://github.com/Electro-Magnet45)
 - [Nuwan Sudusinghe](https://github.com/ArcReactive)
 - [Omitogun Sherifat](https://github.com/Adejokemi)
