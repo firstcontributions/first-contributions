@@ -1,4 +1,5 @@
 # Contributors
+- [alfaz](https://github.com/alfazakash)
 - [Akshatha](https://github.com/nayakan)
 - [Alexis L](https://github.com/akelee)
 - [Aryaman](https://github.com/SilianRail)
