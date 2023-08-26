@@ -53,6 +53,7 @@
 - [Troy Krause](https://github.com/ST10248581)
 - [Shyamanta Kalita](https://github.com/ShyamantaKalita)
 - [saksham saha](mendacium-a11y)
+- [Imad Ahmad] (https://github.com/imadahmad97)
 - [Jerico Franco](https://github.com/cout05)
 - [Jatin Jindal](https://github.com/vercetti322)
 - [Purya Behzadpur](https://github.com/puryabzp)
