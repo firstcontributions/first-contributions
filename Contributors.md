@@ -216,6 +216,7 @@
 - [Lasindu Weerasinghe](https://github.com/LassazVegaz)
 - [Harsh Kumar Singh](https://github.com/dragoon4890)
 - [Harshit Kumar](https://github.com/harshitkk11)
+- [Lawrence Balaguer](https://github.com/rl-balaguer)
 - [Abacus159](https://github.com/Abacus159)
 - [mgrTutka](https://github.com/mgrTutka)
 - [kurtisolo](https://github.com/kurtisolo)
