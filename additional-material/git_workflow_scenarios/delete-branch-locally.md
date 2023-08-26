@@ -1,19 +1,25 @@
 # Deleting a locally created Branch
 
-This will be handy when you accidentally misspelled a branch name.
+Deleting a locally created branch comes in handy when you have made an unchangeable mistake in that branch.
 
-This can be done in *3* ways
+Deleting a local branch can be performed in **3** ways:
 
-```
-git branch -D <branch_name>
-```
+- ```bash
+    git branch -D <branch_name>
+  ```
 
-```
-git branch --delete --force <branch_name>  # Same as -D
-```
 
-```
-git branch --delete  <branch_name>         # Error on unmerge
-```
+- ```
+    git branch --delete --force <branch_name>  # Same as -D
+  ```
 
--D stands for --delete --force which will delete the branch even it's not merged (force delete), but you can also use -d which stands for --delete which throws an error respective of the branch merge status...
+
+- ```
+    git branch --delete  <branch_name>         # Error on unmerge
+  ```
+
+### Note
+ The `-D` stands for `--delete --force` which will delete the branch even it's not merged (force delete).
+ However, you can also use `-d` which stands for `--delete` which throws an error respective of the branch merge status.
+
+ Happy Coding!!
