@@ -1464,3 +1464,4 @@
 - [nagash93] (https://github.com/nagash93)
 -[AnojKJayan] (https://github.com/Anojlex)
 - [Baroloker] (https://github.com/Baroloker)
+-[Aditya Singh] (https://github.com/VisionaryCodeX)
