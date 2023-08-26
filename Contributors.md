@@ -1,6 +1,7 @@
 # Contributors
 - [Akshatha](https://github.com/nayakan)
 - [Dheeraj_Kumar_Bhaskar](https://github.com/dheerajkrbhaskar)
+- [Aditya Singh] (https://github.com/VisionaryCodeX)
 - [Wenricx](https://github.com/Wenricx)
 - [Ajay](https://github.com/ajay-k12)
 - [tamilbharathi](https://github.com/tamil-code)
