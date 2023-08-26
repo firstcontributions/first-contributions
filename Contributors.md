@@ -54,6 +54,7 @@
 - [EDEXADE](https://github.com/404)
 - [Doug Bostick](https://github.com/dougbostick)
 - [Jesus  Rivas](https://github.com/jesuswrivas)
+- [Ezi codes](https://github.com/Ezi-code)
 - [Himamsu Marellapudi](https://github.com/marellapudihimamsu)
 - [AbinDas](https://github.com/abindas123)
 - [Jesreel](https://github.com/JesCodeMar)
