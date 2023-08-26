@@ -357,6 +357,7 @@
 - [Harish Kukka](https://github.com/AlphaCeph-C3)
 - [Manikanta Adupa](https://github.com/manikanta-adupa)
 - [Uppu Karthikeya](https://github.com/Karthikeya0612)
+- [Syed Ashraf](https://github.com/syed-ashraf09)
 - [YuHangSE](https://github.com/YuHangSE)
 - [Ankit Suman](https://github.com/ankit-suman-07)
 - [Fedex Pope1](https://github.com/FedexPope1)
