@@ -1395,8 +1395,6 @@
 - [Prajwal-patil](https://github.com/praj-mkdir)
 - [Yemi Kudaisi](https://github.com/yemikudaisi)
 - [Batuhan Karakaya](https://github.com/batuhannnkarakaya)
-- [Mehmet Bacık](https://github.com/mehmetbacik)
-- [Mehmet Bacık](https://github.com/mehmetbacik)
 - Jack Daniels
 - [Adhitya Hasan](https://github.com/SanH16)
 - [CrLeCook](https://github.com/CrLeCook)
