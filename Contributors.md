@@ -34,6 +34,7 @@
 - [Sanjeev Kumar Sahoo](https://github.com/sanjeevkumar321)
 - [Viraj Parikh](https://github.com/VirajYParikh)
 - FranciscoFB7
+- [EDEXADE](https://github.com/404)
 - [Doug Bostick](https://github.com/dougbostick)
 - [Jesus  Rivas](https://github.com/jesuswrivas)
 - [Himamsu Marellapudi](https://github.com/marellapudihimamsu)
