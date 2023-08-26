@@ -1,5 +1,6 @@
 # Contributors
 - [Akshatha](https://github.com/nayakan)
+- [Alexis L](https://github.com/akelee)
 - [Aryaman](https://github.com/SilianRail)
 - [Dheeraj_Kumar_Bhaskar](https://github.com/dheerajkrbhaskar)
 - [Youha Shin] (https://github.com/youha-shin)
