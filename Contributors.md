@@ -24,6 +24,7 @@
 - [Franco Lu](https://github.com/franco2002lu)
 - [Pranay Choubey](https://github.com/CaesarMouse)
 - [prafitradimas](https://github.com/prafitradimas)
+- [steve3535](https://github.com/steve3535)
 - [Deepu](https://github.com/blackbeard002)
 - [Aditya](https://github.com/adityasd314)
 - [guiqpinto](https://github.com/guiqpinto)
