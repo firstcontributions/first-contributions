@@ -1447,3 +1447,4 @@
 - [Maxwell Voorhes] (https://github.com/mvoorhes)
 - [Dut] (https://github.com/Dut-git)
 - [nagash93] (https://github.com/nagash93)
+- [Baroloker-Vixerunt](https://github.com/Baroloker)
