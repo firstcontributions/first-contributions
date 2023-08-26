@@ -21,6 +21,7 @@
 - [prafitradimas](https://github.com/prafitradimas)
 - [Deepu](https://github.com/blackbeard002)
 - [Aditya](https://github.com/adityasd314)
+- [guiqpinto](https://github.com/guiqpinto)
 - [Harsh Dhama](https://github.com/Harsh-d-lab)
 - [uyk23] (https://github.com/uyk23)
 - [César Henrique](https://github.com/cesarhenrq)
