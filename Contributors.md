@@ -1336,6 +1336,7 @@
 - [Sagar Shelke](https://github.com/seeprogramming)
 - [Wilson Chin](https://github.com/shitofshit)
 - [JayeLee17](https://github.com/JayeLee17)
+- [Niranjan Khedkar](https://github.com/Niranjan2048)
 - [K S Sai Teja](https://github.com/kssaiteja)
 - Matty
 - [Venkatraj](https://github.com/ivenkatraj)
