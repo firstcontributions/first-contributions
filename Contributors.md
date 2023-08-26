@@ -171,6 +171,7 @@
 - [Abhilash Mohanty]
 - [Denis Perevertov](https://github.com/denis-perevertov)
 - [Abhilash Mohanty]
+- [Aaryan Poria] (https://github.com/Aaryan-Poria)
 - [Fran Racic](https://github.com/franracic)
 - [Ayushman Singh](https://github.com/ayushman101)
 - [Joey Harper](https://github.com/PapaJoe24)
