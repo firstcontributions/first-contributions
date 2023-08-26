@@ -163,6 +163,7 @@
 - [Guilherme Nunes](https://github.com/guilhermenunes25)
 - [Ilias Dimopoulos](https://github.com/IliasDimopoulos99)
 - Yushan
+- [Vidyasagar Yadav](https://github.com/VidyasagarYadav)
 - Shiraku Yanai
 - [codedevrob](https://github.com/codedevrob0)
 - [Sohrab Kazak](https://github.com/CosmicParadoxDragon)
