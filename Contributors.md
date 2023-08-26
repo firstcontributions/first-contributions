@@ -158,6 +158,7 @@
 - [Karlos Eduardo Kaminski](https://github.com/KarlosEKaminski)
 - [JayAyTee](https://github.com/JayAyTee)
 - [Santiago Rodriguez](https://github.com/santimars)
+- [DarkModeDevotee](https://github.com/DarkModeDevotee)
 - [Muhammed Faheem](https://github.com/faheem-cmd)
 - [Abhilash Mohanty]
 - [Denis Perevertov](https://github.com/denis-perevertov)
