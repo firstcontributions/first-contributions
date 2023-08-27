@@ -7,6 +7,7 @@
 - [Dheeraj_Kumar_Bhaskar](https://github.com/dheerajkrbhaskar)
 - [Youha Shin] (https://github.com/youha-shin)
 - [Wenricx](https://github.com/Wenricx)
+- [Shashank Dutt](https://github.com/shashankduttmr)
 - [Ajay](https://github.com/ajay-k12)
 - [tamilbharathi](https://github.com/tamil-code)
 - [Aditya Singh] (https://github.com/VisionaryCodeX)
