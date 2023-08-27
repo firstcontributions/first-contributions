@@ -1418,6 +1418,7 @@
 - [7-Golden](https://github.com/7-Golden)
 - [Harish Kanna] (<https://github.com/Pekka20123>)
 - [Brian Neisen](https://github.com/warmage12354)
+- [Tango992] (https://github.com/Tango992)
 - Ash
 - [Henry Blackburn](https://github.com/Heno08)
 - [Ared Xiao](https://github.com/Ared-go)
