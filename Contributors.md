@@ -2,6 +2,7 @@
 
 - [Carlos Guerrero] (https://github.com/carlosguealv)
 - [Zhiyuan](https://github.com/Zhiyuan-Jerry-Yang)
+- [Chad Mc Adams](https://github.com/chadthecoder)
 - [keval](https://github.com/kevalshah0601).
 - [alfaz](https://github.com/alfazakash)
 - [Akshatha](https://github.com/nayakan)
