@@ -38,6 +38,7 @@
 - [uyk23] (https://github.com/uyk23)
 - [César Henrique](https://github.com/cesarhenrq)
 - [Omar Abdelgawad](https://github.com/omar-abdelgawad)
+- [Felipe Moriones](https://github.com/Moriones20)
 - [Yunis Aslan](https://github.com/YunisAslan)
 - [Daan V](https://github.com/banzaai)
 - [drwho](https://github.com/drwho)
