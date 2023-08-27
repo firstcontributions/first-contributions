@@ -642,6 +642,7 @@
 - [Dwipa Al-Farisi](https://github.com/dwipaalfarisi)
 - [Linda Seiter](https://github.com/lseiter)
 - [Adam Ralph](https://github.com/adamjralph)
+- [Ben Tsai](https://github.com/benwhite0820)
 - [Claro Alvino](https://github.com/alvinoc)
 - [Rohit Yadav](https://github.com/devrohityadav)
 - [Arun Kumar](https://github.com/ArunKumar-07)
