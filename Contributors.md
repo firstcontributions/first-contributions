@@ -42,6 +42,7 @@
 - [guiqpinto](https://github.com/guiqpinto)
 - [Harsh Dhama](https://github.com/Harsh-d-lab)
 - [uyk23] (https://github.com/uyk23)
+- [Saksham Avasthi](https://github.com/dumaloo)
 - [César Henrique](https://github.com/cesarhenrq)
 - [Omar Abdelgawad](https://github.com/omar-abdelgawad)
 - [Felipe Moriones](https://github.com/Moriones20)
