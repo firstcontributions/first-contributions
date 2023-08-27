@@ -9,6 +9,7 @@
 - [Wenricx](https://github.com/Wenricx)
 - [Shashank Dutt](https://github.com/shashankduttmr)
 - [Ajay](https://github.com/ajay-k12)
+- [ronnelg](https://github.com/ronzron)
 - [tamilbharathi](https://github.com/tamil-code)
 - [Aditya Singh] (https://github.com/VisionaryCodeX)
 - [Annarhysa Albert](https://github.com/Annarhysa)
