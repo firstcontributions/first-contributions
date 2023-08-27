@@ -46,6 +46,7 @@
 - [Nabina Mallik](https://github.com/nabinamallik)
 - [Aditya Sagave](https://github.com/AdityaSagave)
 - [Jaroslav Světlík](https://github.com/Landerik2909)
+- [Gabriel Vera](https://github.com/uhhhgabe)
 - [Imran Khan](https://github.com/binary-amigo)
 - [Matej Rada](https://github.com/predyy)
 - [Sanjeev Kumar Sahoo](https://github.com/sanjeevkumar321)
