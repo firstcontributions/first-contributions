@@ -60,6 +60,7 @@
 - [Matej Rada](https://github.com/predyy)
 - [Sanjeev Kumar Sahoo](https://github.com/sanjeevkumar321)
 - [Viraj Parikh](https://github.com/VirajYParikh)
+- [Rajeswari Kuppusamy](https://github.com/rajeswarikuppusamy18)
 - FranciscoFB7
 - [EDEXADE](https://github.com/404)
 - [Doug Bostick](https://github.com/dougbostick)
