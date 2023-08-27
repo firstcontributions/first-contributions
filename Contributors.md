@@ -80,6 +80,7 @@
 - [saksham saha](mendacium-a11y)
 - [Imad Ahmad] (https://github.com/imadahmad97)
 - [Jerico Franco](https://github.com/cout05)
+- [Sacré MBIKU MUKWAKANI](https://github.com/Sacre-MBIKU-WAKANE)
 - [Jatin Jindal](https://github.com/vercetti322)
 - [Purya Behzadpur](https://github.com/puryabzp)
 - [Luke DiPerna](https://github.com/luke-lite)
