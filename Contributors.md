@@ -2,7 +2,6 @@
 - [Zhiyuan](https://github.com/Zhiyuan-Jerry-Yang)
 - [alfaz](https://github.com/alfazakash)
 - [Akshatha](https://github.com/nayakan)
-- [Atharva](https://github.com/Odin5133)
 - [Alexis L](https://github.com/akelee)
 - [Aryaman](https://github.com/SilianRail)
 - [Dheeraj_Kumar_Bhaskar](https://github.com/dheerajkrbhaskar)
@@ -57,6 +56,7 @@
 - [Matej Rada](https://github.com/predyy)
 - [Sanjeev Kumar Sahoo](https://github.com/sanjeevkumar321)
 - [Viraj Parikh](https://github.com/VirajYParikh)
+- [Atharva](https://github.com/Odin5133)
 - FranciscoFB7
 - [EDEXADE](https://github.com/404)
 - [Doug Bostick](https://github.com/dougbostick)
