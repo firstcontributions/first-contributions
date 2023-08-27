@@ -24,6 +24,7 @@
 - [Taieb Hossain](https://github.com/hossain909)
 - [Yukun Xi](https://github.com/MichaelXi3)
 - [Linford](https://github.com/Linf0rd)
+- [Khesehang Samsohnag Limbu](https://github.com/khesehang)
 - [Lucas](http://github.com/zed118)
 - [Glitched Nexus](https://github.com/GlitchedNexus)
 - [KiranJais](https://github.com/alkrona)
