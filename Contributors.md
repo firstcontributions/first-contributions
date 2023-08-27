@@ -17,6 +17,7 @@
 - [Nabina Mallik](https://github.com/nabinamallik)
 - [Sourabh Girdhar] (https://github.com/girdharsourabh)
 - [Taieb Hossain](https://github.com/hossain909)
+- [Yukun Xi](https://github.com/MichaelXi3)
 - [Linford](https://github.com/Linf0rd)
 - [Lucas](http://github.com/zed118)
 - [Glitched Nexus](https://github.com/GlitchedNexus)
