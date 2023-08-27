@@ -5,6 +5,7 @@
 - [Alexis L](https://github.com/akelee)
 - [Aryaman](https://github.com/SilianRail)
 - [Dheeraj_Kumar_Bhaskar](https://github.com/dheerajkrbhaskar)
+- [Amit Rana](https://github.com/HUMBLEF0OL)
 - [Youha Shin] (https://github.com/youha-shin)
 - [Wenricx](https://github.com/Wenricx)
 - [Agnik Bakshi](https://github.com/Agnik7)
