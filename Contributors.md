@@ -47,6 +47,7 @@
 - [steve3535](https://github.com/steve3535)
 - [Deepu](https://github.com/blackbeard002)
 - [Aditya](https://github.com/adityasd314)
+- [Farhan](https://github.com/mdfarhananwar)
 - [guiqpinto](https://github.com/guiqpinto)
 - [Harsh Dhama](https://github.com/Harsh-d-lab)
 - [uyk23] (https://github.com/uyk23)
