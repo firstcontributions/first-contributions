@@ -2,6 +2,7 @@
 - [Zhiyuan](https://github.com/Zhiyuan-Jerry-Yang)
 - [alfaz](https://github.com/alfazakash)
 - [Akshatha](https://github.com/nayakan)
+- [Atharva](https://github.com/Odin5133)
 - [Alexis L](https://github.com/akelee)
 - [Aryaman](https://github.com/SilianRail)
 - [Dheeraj_Kumar_Bhaskar](https://github.com/dheerajkrbhaskar)
