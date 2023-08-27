@@ -7,6 +7,7 @@
 - [Dheeraj_Kumar_Bhaskar](https://github.com/dheerajkrbhaskar)
 - [Youha Shin] (https://github.com/youha-shin)
 - [Wenricx](https://github.com/Wenricx)
+- [Agnik Bakshi](https://github.com/Agnik7)
 - [Shashank Dutt](https://github.com/shashankduttmr)
 - [Ajay](https://github.com/ajay-k12)
 - [ronnelg](https://github.com/ronzron)
