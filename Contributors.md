@@ -10,6 +10,7 @@
 - [Dheeraj_Kumar_Bhaskar](https://github.com/dheerajkrbhaskar)
 - [Amit Rana](https://github.com/HUMBLEF0OL)
 - [Youha Shin] (https://github.com/youha-shin)
+- [Kierznowski] (https://github.com/Kierznowski)
 - [Vinay Anand Lodhi](https://github.com/VinayLodhi1712)(VinayLodhi1712)
 - [Wenricx](https://github.com/Wenricx)
 - [Agnik Bakshi](https://github.com/Agnik7)
