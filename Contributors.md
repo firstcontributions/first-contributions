@@ -7,6 +7,7 @@
 - [Dheeraj_Kumar_Bhaskar](https://github.com/dheerajkrbhaskar)
 - [Amit Rana](https://github.com/HUMBLEF0OL)
 - [Youha Shin] (https://github.com/youha-shin)
+- [Vinay Anand Lodhi](https://github.com/VinayLodhi1712)(VinayLodhi1712)
 - [Wenricx](https://github.com/Wenricx)
 - [Agnik Bakshi](https://github.com/Agnik7)
 - [Shashank Dutt](https://github.com/shashankduttmr)
@@ -1498,4 +1499,4 @@
 -[Synergy5761](https://github.com/Synergy5761)
 -[JayWhy5] (https://github.com/JayWhy5/JayWhy5.github.io)
 -[laariane](https://github.com/laariane/)
--[GiorgioCode] (https://github.com/GiorgioCode)
+
