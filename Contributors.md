@@ -9,6 +9,7 @@
 - [keval](https://github.com/kevalshah0601).
 - [alfaz](https://github.com/alfazakash)
 - [Vrund_Raval](https://github.com/vrundraval24)
+- [Conor Kirby](https://gitbub.com/ckirby19)
 - [Akshatha](https://github.com/nayakan)
 - [Alexis L](https://github.com/akelee)
 - [Vinay Kumar](https://github.com/n4ryn)
