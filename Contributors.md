@@ -14,7 +14,7 @@
 - [Aryaman](https://github.com/SilianRail)
 - [Dheeraj_Kumar_Bhaskar](https://github.com/dheerajkrbhaskar)
 - [Agnes Olorundare](https://github.com/Agnes4Him)
-- [Rakesh Ganneboina](https://github.com/rakeshganneboina)
+- [Rakesh-Ganneboina](https://github.com/rakeshganneboina)
 - [Amit Rana](https://github.com/HUMBLEF0OL)
 - [Youha Shin] (https://github.com/youha-shin)
 - [Rahul Baskey](https://github.com/RahulBRB)
