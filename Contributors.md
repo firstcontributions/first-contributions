@@ -11,6 +11,7 @@
 - [Vrund_Raval](https://github.com/vrundraval24)
 - [Akshatha](https://github.com/nayakan)
 - [Alexis L](https://github.com/akelee)
+- [Evans Maina](https://github.com/evanssmaina)
 - [Aryaman](https://github.com/SilianRail)
 - [Dheeraj_Kumar_Bhaskar](https://github.com/dheerajkrbhaskar)
 - [Agnes Olorundare](https://github.com/Agnes4Him)
