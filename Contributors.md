@@ -1375,6 +1375,7 @@ TJanz
 - [yuchenlogin](https://github.com/yuchenlogin)
 - [Furkan Dogmus](https://github.com/furkandogmus)
 - [Yakov Donde](https://github.com/yakovdonde)
+- [Gabe Cano](https://github.com/gabecano4308)
 - [Eray Ates](https://github.com/erayates)
 - [Srajal Sawner](https://github.com/Srajal16)
 - [Nehal chaudhary](https://github.com/neh666)
