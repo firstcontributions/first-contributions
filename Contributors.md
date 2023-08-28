@@ -3,6 +3,7 @@
 - [Kosumo] (https://github.com/masumo)
 - [Carlos Guerrero] (https://github.com/carlosguealv)
 - [Zhiyuan](https://github.com/Zhiyuan-Jerry-Yang)
+- [Abhay Jain](https://github.com/MentallyCramped)
 - [Juan Carlos](https://github.com/pads-sama)
 - [Chad Mc Adams](https://github.com/chadthecoder)
 - [keval](https://github.com/kevalshah0601).
