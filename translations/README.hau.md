@@ -1,134 +1,92 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-# Kyauta ta Farko
+# Sakamakon Fara (First Contributions)
 
-Yana da wahala. Yana da wahala lokacin da kuka fara yin wani abu. Musamman lokacin da kuke mu'amala, yin kuskure ba abu ne mai kyau ba. Muna son ƙirƙirar buɗaɗɗen hanya don sababbin mutane don koyo kuma su shiga a karon farko.
+'mai nauyin. Kuma mai nauyi ne da nake nauyin duk wanda aka yi amfani da shi a cikin lokaci na farko. Kawai idan za ka iya ƙara sako, ƙara wasu ƙwakwalwa ba shi da damuwa. Mukeyi damuwa muku domin zama daidai a yin sakon Fara mafi dukkan 'yan al'amura da suke nauyin gare ku.
 
-Karatun labarai da koyawa kan layi na iya taimaka muku, amma menene ya fi yin ainihin abin? Manufar wannan aikin shine don ba da jagora & ba da damar mutane su fara ba da gudummawa. Idan kuna neman ba da gudummawarku ta farko, bi matakan da ke ƙasa.
+Ku tattauna rubuce da ku sauko sauran tushen Open Source zaku iya tattauna ne, amma mey kwa kwa ga yadda ku yi aiki ne? Mukeyi damuwa muku ya tabbata, da maki mukeyi damuwa mu ma ƙara damuwa a yi amfani da karan ku a sama amfani da shi a cikin wata zazzaga. Idan kana so ka yi amfani da fara kara nauyinka, kuna sauko dukkan harkokin nan.
 
-#### *Idan ba kwa son alamomin doka, [Anan akwai koyawa ta amfani da kayan aikin GUI.](#Koyo-don-amfani-wasu)*
+#### *Idan ba ku da damuwa da tallafi na cikin karfi, [Allah ya tabbata zuwa masu tashoshin kariya.](#Tutorials-Usin'-Other-Tools)*
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Idan ba ku da inji a kan injin ku, [shigar da shi]( https://help.github.com/articles/set-up-git/).
+Idan ba ku da Git a cikin kasa naka, [sake sauraron shi](https://help.github.com/articles/set-up-git/).
 
+## Sake sauko wannan repository
 
-## Cire wannan babban fayil ɗin
+Sauko wannan repo ta cikin dafafar, [sa na'urorin sa a sama](https://github.com/ellerbrock/open-source-badges/).
+Wannan za a iya zama nake sabo ta wannan hanyar a cikin asusunka.
 
-Cire wannan repo ta danna maɓallin thumbnail a saman wannan shafin. Wannan zai haifar da ajiyar tsaro guda ɗaya a cikin asusunku.
-
-## Yana rufe wurin ajiya
+## Sauko repository
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Yanzu maye gurbin repo akan injin ku. Je zuwa asusun GitHub ɗin ku, buɗe repo don dannawa, danna maɓallin clone sannan danna gunkin alamar.
+Yanzu sauko wannan repo ta kasa. Zuba zuwa asusun GitHub, ƙare ku ta sauraron shi 'yan ta'amirar saukan, kuma sauraron alamar *copy to clipboard*.
 
-Bude tasha kuma gudanar da umarni mai zuwa:
-
-```
-git clone "url you just copied"
-```
-
-inda "url ɗin da kuka kwafi" (ba tare da alamar magana ba) shine url don ajiya anan (ƙarshen wannan aikin). Duba matakan da suka gabata don samun url.
-
+Dubawa tsarin a cikin terminal, kuma sake sauran git na da shi:
+aminin cewa "url ku ci" (ba ma'aikata hannu ƙarancinshi) shi ne adireshin wannan repository (ci gaba cikin hanyar na ta wannan project). Ku duba zuwa kusa gaba ta kai tsaye adireshin.
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Misali:
-
-```
-git clone https://github.com/this-is-you/first-contributions.git
-```
-
-inda `this-is-you` shine sunan mai amfani na GitHub. Anan, kuna kwafin abun ciki na ainihin gudummawar GitHub akan kwamfutarka.
-
-## Ƙirƙiri reshe
-
-Canja zuwa tsarin shugabanci akan kwamfutarka (idan ba ku da shi a can):
-
-```
-cd na farko-gudunmawar
-```
-
-Yanzu, ƙirƙiri reshe ta amfani da umarnin 'git checkout':
-
-```
-git checkout -b <ƙara-sabon-reshe-name>
-```
-
+Inda `this-be-ye` shi ne sunan username ku a GitHub. Nan kana sauran lambobin ƙwaƙwalwan sako na ci gaba tare da ake yi amfani da shi a GitHub zuwa cikin kompiyuta ta kasa.
+## Shiga jerin
+Canza zuwa jerin wakili na wannan repository a cikin kompiyuta ku (idan ba ka kawo cikin gaba):
+Yanzu shiga jerin jerin ta shi tare da amfani da maki daga wani kwayar git na 'shiga jerin':
+Yanzu shiga jerin jerin ta shi tare da amfani da maki daga wani kwayar git na 'shiga jerin':
 Misali:
+(Kowacce sunan jerin ba a iya rubuta shi ne, amma shi ne wani abu mai damu da sauransu da samar da yadda za ku yi amfani dashi.)
+## Yi maganar da sauran canzawa kuma ka tallafa wadannan canzawa
 
-```
-git checkout -b add-alonzo-church
-```
-
-(Sunan reshen ba lallai ba ne a saka kalmar a cikinsa, amma yana da mahimmanci ku haɗa shi saboda manufar wannan reshen shine ƙara sunan ku a cikin jerin sunayen).
-
-## Yi canje-canjen da suka dace kuma ku canza waɗannan canje-canje
-
-
-Yanzu buɗe fayil ɗin `Contributors.md` a editan rubutu, ƙara sunan ku gare shi. Ana haɗe shi zuwa farkon ko ƙarshen fayil ɗin. Saka shi wani wuri a tsakanin. Yanzu ajiye fayil ɗin.
+Yanzu duba fayiloli `Contributors.md` ta cikin wadannan canzawa, tallafa sunan ku a cikin shi. Ka ba shi akan filin ƙasa ko na biyu ba. Zuba shi a cikin wani aiki.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-Idan ka je kundin kundin kamfani kuma ka aiwatar da umurnin 'git status', za ka ga cewa akwai canje-canje.
+Idan ku zo zuwa tsarin na project, ku duba damuwa da sauran canzawa.
+
+Sakon wadannan canzawa a kan jerin ku tare da 'yan kara git na amfani da karan ku a cikin git na amfani da shi:
 
 
-Ƙara waɗannan canje-canje zuwa reshen da kuka ƙirƙira ta amfani da umarnin 'git add':
+Yanzu yi maganar da sauran canzawa ta cikin git na amfani da karan ku a cikin git na amfani da shi:
 
-```
-git ƙara Masu ba da gudummawa.md
-```
+Idan aka fito `<sunanka>` ta yadda ake yi wa ku.
 
-Yanzu aiwatar da canje-canje ta amfani da umarnin 'git Committee':
+## Baɗa damuwa akan GitHub
 
-```
-git commit -m "Ƙara <sunan ku> zuwa lissafin Masu ba da gudummawa"
-```
-Sauya `<sunan ku>' da sunan ku.
-
-## Tura duk waɗannan canje-canje zuwa GitHub
+Damuwa damuwa akan damuwa ta amfani da alamar `git push`:
 
 
-Yi canje-canjen ku ta amfani da umarnin 'git push':
+Karanta `<add-yer-branch-name>` da sunan jerin ku a yau ma.
 
-```
-git tura asalin <ƙara-sunan-reshen ku>
-```
+## Sake damuwa canzawar ku don damuwa
 
-Sauya `<add-your-reshen-name>` da sunan reshe da kuka ƙirƙira a baya.
-
-## Ƙaddamar da canje-canjenku don dubawa
-
-
-Idan kun je wurin ajiyar ku akan GitHub, zaku ga maɓallin 'Compare & ja buƙatar'. Danna maɓallin.
+Idan ku zo zuwa GitHub na ku, ku za ku gwada da wani mafarki mai fito  `Hada & damuwa canzawar` zai zama a cikin farin ciki.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-Yanzu, yi buƙatar.
+Yanzu yi damuwa damuwa akan canzawar.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Nan ba da jimawa ba zan magance duk canje-canjenku a wannan reshe. Za ku karɓi saƙon sanarwa a duk lokacin da aka yi canji.
+Bayan an shigo ku zama na kara biyewa dukan damuwa a cikin harshe ta project domin da ku mai gudun ku. Ku zai dawo ku da wata alamar email bayan damuwa za'a ci gaba da kawo damuwa.
 
-## Ina zan je daga nan?
+## Inda za ku iya taimakonmu daga nan?
 
-Taya murna! Ka kawai karanta uwar garken -> kwafin fitarwa -> gyara -> Zazzage sabis na PR wanda koyaushe za ku hadu a matsayin mai ba da ku!
+Dan uwa! Ku damuwa na canzawa na nufin _fork -> clone -> edit -> PR_ tare da yadda za ku yi aiki a matsayin mai damuwa!
 
-Duba gudunmawar ku kuma ku raba ta tare da abokanku da mabiyanku ta ziyartar [app app](https://firstcontributions.github.io/#social-share).
+Mai yawa! Ku saukar damuwa ku kuma bayyana shi tare da abin da ku taimaka a hankali ko a kan kowane fagen ku ta Twitter ko Facebook ta sake zuwa [Wannan hanyar a](https://firstcontributions.github.io/#social-share).
 
-Kuna iya shiga cikin ma'aikatan mu na abokantaka idan kuna buƙatar kowane taimako ko kuna da tambayoyi. [Haɗa ƙungiyar slack](https://join.slack.com/t/firstcontr🏴ibutors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWYZm
+Ku iya taimakawa da mu a kan yi amfani tare da kan ku ko kuma ku 'ya'ya ga mu domin aiko mana ko don sauraren fita. [Taimakam mu na kan ku](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-Yanzu, bari mu fara da ba da gudummawa don wasu ayyuka. Mun tattara jerin ayyuka masu sauƙi da tattaunawa da za ku iya farawa. Duba [jerin ayyuka da aikace-aikacen yanar gizo](https://firstcontributions.github.io/#project-list).
+Yanzu ku yi ɗaukar ku taimakawa da ɗaukaka da sauraren ayyukan ku. Mu daura shirye-shiryen sauran ayyukan na da sauran kamfanonin da zaku iya aiki dashi a cikin wata fara ƙara a shirye-shiryen a cikin wannan [Fasalin kashi](../additional-material/git_workflow_scenarios/additional-material.md).
 
-
-### [Ƙarin Material](../additional-material/git_workflow_scenarios/additional-material.md)
-
-## Ilimi da amfani da sauran kayan
+## Tutorials Usin' Other Tools
 
 | <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
+
+
 
