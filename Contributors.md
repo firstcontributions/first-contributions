@@ -538,6 +538,7 @@ TJanz
 - [Yaseer Tasleem](https://github.com/yaseer-13)
 - [Junaid Eqbal](https://github.com/junaideqbal)
 - [Mike Gabriel](https://github.com/MaxMike47)
+- [Vinay Gawade](https://github.com/vinugawade)
 - [Rahul Satpute](https://github.com/rahulsatpute9960)
 - [Siqi Liu](https://github.com/leowrites/)
 - [Gargi Sontakke](https://github.com/gargi-so)
