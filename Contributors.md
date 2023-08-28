@@ -1,5 +1,6 @@
 # Contributors
 
+- [Kosumo] (https://github.com/masumo)
 - [Carlos Guerrero] (https://github.com/carlosguealv)
 - [Zhiyuan](https://github.com/Zhiyuan-Jerry-Yang)
 - [Juan Carlos](https://github.com/pads-sama)
