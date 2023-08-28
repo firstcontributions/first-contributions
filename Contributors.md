@@ -97,6 +97,7 @@
 - [Troy Krause](https://github.com/ST10248581)
 - [Shyamanta Kalita](https://github.com/ShyamantaKalita)
 - [saksham saha](mendacium-a11y)
+- [Soham thodge](https://github.com/kronos2003)
 - [Imad Ahmad] (https://github.com/imadahmad97)
 - [Jerico Franco](https://github.com/cout05)
 - [Sacré MBIKU MUKWAKANI](https://github.com/Sacre-MBIKU-WAKANE)
