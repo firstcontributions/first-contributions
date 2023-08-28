@@ -10,6 +10,7 @@
 - [Alexis L](https://github.com/akelee)
 - [Aryaman](https://github.com/SilianRail)
 - [Dheeraj_Kumar_Bhaskar](https://github.com/dheerajkrbhaskar)
+- [Agnes Olorundare](https://github.com/Agnes4Him)
 - [Amit Rana](https://github.com/HUMBLEF0OL)
 - [Youha Shin] (https://github.com/youha-shin)
 - [Kierznowski] (https://github.com/Kierznowski)
