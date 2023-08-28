@@ -157,6 +157,7 @@
 - [Robert Kovalcuk](https://github.com/Robert-Kovalcuk)
 - [Yusuf Ansari](https://github.com/Yusuf80216)
 - [Saptarshi Mandal](https://github.com/saptoh)
+TJanz
 - [Chintan Rupareliya](https://github.com/chintanrupareliya)
 - [Harsh Kishorani](https://github.com/HarshKishorani)
 - [Shada Daab](https://github.com/shadatr)
