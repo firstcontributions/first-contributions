@@ -1209,6 +1209,7 @@ TJanz
 - [Steve Behm](https://github.com/SteveBehm)
 - [Abhay](https://github.com/abhay1704)
 - [Amr Ashebo](https://github.com/amr8644)
+- [Indranil Dutta](https://github.com/toindranildutta)
 - [Okoye Victor](https://github.com/ChuloWay)
 - [E Stanzah](https://github.com/edwstanzah)
 - [Zaid Kaladia](https://github.com/zaidkaladia)
