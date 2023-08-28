@@ -1512,6 +1512,7 @@ TJanz
 - [Sajal Rastogi](https://github.com/Sajalrastogi89/first-contributions)
 - [Discimu](https://github.com/Discimu657/los)
 - [Noah Velasco](https://github.com/noahvelasco)
+-[Daniel Brazel](https://github.com/ahkian)
 - [张丹婷](https://github.com/JOOLLIEE)
 - [Antonio Molina] (https://github.com/antwan1)
 - [Maxwell Voorhes] (https://github.com/mvoorhes)
@@ -1529,4 +1530,3 @@ TJanz
 -[Saanidhya Singh](https://github.com/Saani765)
 -[Nicholas Ndolo](https://github.com/nicholasndolo)
 -[Soap Opera](https://github.com/soapopera12)
-
