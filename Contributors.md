@@ -27,6 +27,7 @@
 - [Aditya Singh] (https://github.com/VisionaryCodeX)
 - [Annarhysa Albert](https://github.com/Annarhysa)
 - [Vaibhav_Shukla](https://github.com/mvaibhav77)
+- [Juan Pablo Sanchez](https://github.com/juanopsan)
 - [ShreyaM](https://github.com/shreya-markhedkar)
 - [Akshit-Zom](https://github.com/Akshit-Zom)
 - [Nabina Mallik](https://github.com/nabinamallik)
