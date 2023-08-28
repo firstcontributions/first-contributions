@@ -1516,5 +1516,6 @@
 -[JayWhy5] (https://github.com/JayWhy5/JayWhy5.github.io)
 -[laariane](https://github.com/laariane/)
 -[Saanidhya Singh](https://github.com/Saani765)
+-[Nicholas Ndolo](https://github.com/nicholasndolo)
 -[Soap Opera](https://github.com/soapopera12)
 
