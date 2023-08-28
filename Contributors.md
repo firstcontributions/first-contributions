@@ -864,6 +864,7 @@ TJanz
 - [Max De La Rosa Toro](https://github.com/mdelarosatoro)
 - [Akshat Kumar](https://github.com/Akshatkumar4433)
 - [Chetan Nair](https://github.com/ChetanNair)
+  [Nikita Zubairov](https://github.com/Nikitaz1410)
 - [Sitaram Pal](https://github.com/sitaram2011)
 - [Thad](https://github.com/adminprivileges)
 - [Renad AlKhawatreh](https://github.com/Rnad95)
