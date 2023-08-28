@@ -21,6 +21,7 @@
 - [Pratap Singh Sisodia](https://github.com/prataps135)
 - [Amit singh](https://github.com/technicalamit8055)
 - [Franco Lu](https://github.com/franco2002lu)
+- [Simon Lowe](https://github.com/LoweSimon)
 - [Pranay Choubey](https://github.com/CaesarMouse)
 - [prafitradimas](https://github.com/prafitradimas)
 - [Deepu](https://github.com/blackbeard002)
