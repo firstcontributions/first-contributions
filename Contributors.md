@@ -1514,4 +1514,4 @@
 -[JayWhy5] (https://github.com/JayWhy5/JayWhy5.github.io)
 -[laariane](https://github.com/laariane/)
 -[Saanidhya Singh](https://github.com/Saani765)
-
+-[Simardeep Singh](https://github.com/SimardeepSingh-zsh)
