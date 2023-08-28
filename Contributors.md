@@ -49,6 +49,7 @@
 - [Jo Galeon](https://github.com/jogaleon)
 - [Amit singh](https://github.com/technicalamit8055)
 - [Franco Lu](https://github.com/franco2002lu)
+- [Simon Lowe](https://github.com/LoweSimon)
 - [Pranay Choubey](https://github.com/CaesarMouse)
 - [prafitradimas](https://github.com/prafitradimas)
 - [steve3535](https://github.com/steve3535)
