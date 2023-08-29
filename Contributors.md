@@ -67,6 +67,7 @@
 - [Pratap Singh Sisodia](https://github.com/prataps135)
 - [Jo Galeon](https://github.com/jogaleon)
 - [Amit singh](https://github.com/technicalamit8055)
+- [John Ly] (https://github.com/johnly17)
 - [CJ Bauzon](https://github.com/cbauzon)
 - [Enikuomehin David](https://github.com/eniiku)
 - [Franco Lu](https://github.com/franco2002lu)
