@@ -15,6 +15,7 @@
 - [Vrund_Raval](https://github.com/vrundraval24)
 - [Conor Kirby](https://gitbub.com/ckirby19)
 - [Akshatha](https://github.com/nayakan)
+- [Rich C](https://github.com/Supergnarlyted)
 - [Alexis L](https://github.com/akelee)
 - [Vinay Kumar](https://github.com/n4ryn)
 - [Nilanshu Yadav](https://github.com/Nilanshuyadav)
