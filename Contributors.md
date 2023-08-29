@@ -376,7 +376,7 @@ TJanz
 - [Deepak Thorat]
 - [Samuel Ribeiro de Souza](https://github.com/samuelsouzzza)
 - [Alvaro Lucas]
-- Nisha Sahu ([https://github.com/nishaSahuU](https://github.com/nishaSahuU))
+- [Nisha Sahu](https://github.com/nishaSahuU](https://github.com/nishaSahuU))
 - [StefKal](https://github.com/StefKal)
 - [drremo1](https://github.com/drremo1)
 - [Sri Vardhana Korada](https://github.com/srivardhanakorada)
