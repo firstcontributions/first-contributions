@@ -1551,4 +1551,4 @@ TJanz
 -[Nicholas Ndolo](https://github.com/nicholasndolo)
 -[Soap Opera](https://github.com/soapopera12)
 -[Pritam Gayen](https://github.com/pritam0721)
-
+-[Sergey Rudenko](https://github.com/der-fanatiker)
