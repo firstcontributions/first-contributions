@@ -4,6 +4,7 @@
 - [Kosumo] (https://github.com/masumo)
 - [Carlos Guerrero] (https://github.com/carlosguealv)
 - [Zhiyuan](https://github.com/Zhiyuan-Jerry-Yang)
+- [Min Kim](https://github.com/Kim-Min-K)
 - [Abhay Jain](https://github.com/MentallyCramped)
 - [Juan Carlos](https://github.com/pads-sama)
 - [Chad Mc Adams](https://github.com/chadthecoder)
