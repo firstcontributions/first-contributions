@@ -14,6 +14,7 @@
 - [Akshatha](https://github.com/nayakan)
 - [Alexis L](https://github.com/akelee)
 - [Vinay Kumar](https://github.com/n4ryn)
+- [Nilanshu Yadav](https://github.com/Nilanshuyadav)
 - [Chen Zhang](https://github.com/leviosacz)
 - [Aryaman](https://github.com/SilianRail)
 - [Dheeraj_Kumar_Bhaskar](https://github.com/dheerajkrbhaskar)
