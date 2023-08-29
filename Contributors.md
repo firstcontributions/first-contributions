@@ -1,6 +1,7 @@
 # Contributors
 
 - [Willy Wonka](https://github.com/massablaise)
+- [Sandeep Sharma](https://github.com/amrahs02/)
 - [Kosumo] (https://github.com/masumo)
 - [Carlos Guerrero] (https://github.com/carlosguealv)
 - [Zhiyuan](https://github.com/Zhiyuan-Jerry-Yang)
