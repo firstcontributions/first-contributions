@@ -11,6 +11,8 @@
 - [Akshatha](https://github.com/nayakan)
 - [Alexis L](https://github.com/akelee)
 - [Aryaman](https://github.com/SilianRail)
+- [Joost](https://github.com/jvdputten)
+- [Joost-2](https://github.com/jvdputten)
 - [Dheeraj_Kumar_Bhaskar](https://github.com/dheerajkrbhaskar)
 - [Agnes Olorundare](https://github.com/Agnes4Him)
 - [Amit Rana](https://github.com/HUMBLEF0OL)
