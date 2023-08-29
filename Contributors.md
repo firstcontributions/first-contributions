@@ -1,5 +1,5 @@
 # Contributors
-- [Maciej Buračok](https://github.com/maciejburacok)
+- [MaciejBuračok](https://github.com/maciejburacok)
 - [Willy Wonka](https://github.com/massablaise)
 - [Kosumo] (https://github.com/masumo)
 - [Carlos Guerrero] (https://github.com/carlosguealv)
