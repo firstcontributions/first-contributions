@@ -1,5 +1,4 @@
 # Contributors
-
 - [Willy Wonka](https://github.com/massablaise)
 - [Kosumo] (https://github.com/masumo)
 - [Carlos Guerrero] (https://github.com/carlosguealv)
@@ -17,6 +16,7 @@
 - [Akshatha](https://github.com/nayakan)
 - [Alexis L](https://github.com/akelee)
 - [Vinay Kumar](https://github.com/n4ryn)
+- [Olive Uzoma](https://github.com/uzomaolive)
 - [Nilanshu Yadav](https://github.com/Nilanshuyadav)
 - [Chen Zhang](https://github.com/leviosacz)
 - [Aryaman](https://github.com/SilianRail)
