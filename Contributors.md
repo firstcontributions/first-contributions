@@ -32,6 +32,7 @@
 - [Wenricx](https://github.com/Wenricx)
 - [Agnik Bakshi](https://github.com/Agnik7)
 - [Shashank Dutt](https://github.com/shashankduttmr)
+- [Rodrigo_Souza](https://github.com/rmartinsdesouza)
 - [Ajay](https://github.com/ajay-k12)
 - [Daniel] (https://github.com/dcgran)
 - [mohamed] (...)
