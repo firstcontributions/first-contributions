@@ -35,6 +35,7 @@
 - [Ajay](https://github.com/ajay-k12)
 - [Daniel] (https://github.com/dcgran)
 - [mohamed] (...)
+- [Christopher Bailey] (https://github.com/Chris7007)
 - [ronnelg](https://github.com/ronzron)
 - [ceri555](https://github.com/Ceri555)
 - [tamilbharathi](https://github.com/tamil-code)
