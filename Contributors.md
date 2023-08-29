@@ -733,6 +733,7 @@ TJanz
 - [Sanjeeban Mukhopadhyay](https://github.com/sanjeeban5644)
 - [Prasanna Rajaram](https://github.com/prasannarajaram)
 - [Monteiro H.](https://github.com/monteiroh)
+- [Choco Donut](https://github.com/chocodonut-c)
 - [Himanshu Tiwari](https://github.com/ozymandias9876)
 - [Monteiro H.](https://github.com/monteiroh)
 - [djfor5](https://github.com/djfor5)
