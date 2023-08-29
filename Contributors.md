@@ -1553,6 +1553,7 @@ TJanz
 -[kevoinno] (https://github.com/kevoinno)
 -[Synergy5761](https://github.com/Synergy5761)
 -[JayWhy5] (https://github.com/JayWhy5/JayWhy5.github.io)
+-[Priyanshu Mishra] (https://github.com/dev-Priyanshu07)
 -[laariane](https://github.com/laariane/)
 -[Saanidhya Singh](https://github.com/Saani765)
 -[July-Fang2000](https://github.com/July-Fang2000)
