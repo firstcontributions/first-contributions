@@ -71,6 +71,7 @@
 - [Pranay Choubey](https://github.com/CaesarMouse)
 - [prafitradimas](https://github.com/prafitradimas)
 - [kian3158](https://github.com/kian3158)
+- [Nikola Dojcinovic](https://github.com/NikolaD93)
 - [steve3535](https://github.com/steve3535)
 - [Deepu](https://github.com/blackbeard002)
 - [Aditya](https://github.com/adityasd314)
