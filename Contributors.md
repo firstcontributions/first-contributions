@@ -4,7 +4,7 @@
 - [Kosumo] (https://github.com/masumo)
 - [Carlos Guerrero] (https://github.com/carlosguealv)
 - [Zhiyuan](https://github.com/Zhiyuan-Jerry-Yang)
-- [Anuj Mohite] (https://github.com/anujrmohite)
+- [Anuj Mohite](https://github.com/anujrmohite)
 - [double835](https://github.com/double835)
 - [Min Kim](https://github.com/Kim-Min-K)
 - [Anushthan Saxena](https://github.com/AnushthanS)
