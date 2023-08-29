@@ -800,7 +800,7 @@ TJanz
 - [Kartikeya Agate](https://github.com/agatekartik)
 - [Pawan]
 - [Emanuel181](https://github.com/Emanuel181)
-- [Nikola Golubovic](https://github.com/NikolaGolubovic)
+- [Nikola Golubović](https://github.com/NikolaGolubovic)
 - [Aakriti Malla](https://github.com/Aakriti-malla)
 - [Shantanu Mane](https://github.com/RndmCodeWorkshop)
 - [Brady Camp](https://github.com/bradyjcamp)
