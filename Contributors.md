@@ -102,6 +102,7 @@
 - [Sanjeev Kumar Sahoo](https://github.com/sanjeevkumar321)
 - [Viraj Parikh](https://github.com/VirajYParikh)
 - [Rajeswari Kuppusamy](https://github.com/rajeswarikuppusamy18)
+- [Jordan Fortin](https://github.com/Hazey8709)
 - FranciscoFB7
 - [EDEXADE](https://github.com/404)
 - [LIELB](https://github.com/lielbidago)
@@ -1571,4 +1572,3 @@ TJanz
 -[Pritam Gayen](https://github.com/pritam0721)
 -[korECM](https://github.com/korECM)
 -[Monsef123](https://github.com/monsef123)
-
