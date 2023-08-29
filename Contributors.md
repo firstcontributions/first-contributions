@@ -1274,6 +1274,7 @@ TJanz
 - [Eric VanSchagen](https://github.com/bojangles86)
 - [Luck Tran](https://github.com/lucktran)
 - [Brandon Agil](https://github.com/Brandonagil)
+- [Mujtaba Nagash](https://github.com/bitstream77)
 - [WambuaJoe] (https://github.com/WambuaJoe)
 - [Electro](https://github.com/Electro-Magnet45)
 - [Nuwan Sudusinghe](https://github.com/ArcReactive)
