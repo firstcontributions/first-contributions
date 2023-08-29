@@ -34,6 +34,7 @@
 - [Daniel] (https://github.com/dcgran)
 - [mohamed] (...)
 - [ronnelg](https://github.com/ronzron)
+- [ceri555](https://github.com/Ceri555)
 - [tamilbharathi](https://github.com/tamil-code)
 - [Aditya Singh] (https://github.com/VisionaryCodeX)
 - [Annarhysa Albert](https://github.com/Annarhysa)
