@@ -60,6 +60,7 @@
 - [Pratap Singh Sisodia](https://github.com/prataps135)
 - [Jo Galeon](https://github.com/jogaleon)
 - [Amit singh](https://github.com/technicalamit8055)
+- [CJ Bauzon](https://github.com/cbauzon)
 - [Franco Lu](https://github.com/franco2002lu)
 - [Simon Lowe](https://github.com/LoweSimon)
 - [Pranay Choubey](https://github.com/CaesarMouse)
