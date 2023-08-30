@@ -62,6 +62,7 @@
 - [Faris Bazdar](https://github.com/Gilgameshgb-1)
 - [Andy Iyer](https://github.com/aiyervenkat)
 - [formido](https://github.com/PKS-formido)
+- [Jay Cole](https://github.com/3colej20)
 - [curlylemon](https://github.com/curlylemon)
 - [Diego Pavan](https://github.com/CrzYEs7)
 - [Pratap Singh Sisodia](https://github.com/prataps135)
