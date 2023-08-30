@@ -24,6 +24,7 @@
 - [Rich C](https://github.com/Supergnarlyted)
 - [PikkuJane](https://github.com/PikkuJanne)
 - [Alexis L](https://github.com/akelee)
+- [sem9508](https://github.com/sem9508)
 - [Vinay Kumar](https://github.com/n4ryn)
 - [Nilanshu Yadav](https://github.com/Nilanshuyadav)
 - [Vivek Kumar] (https://github.com/vickvey)
