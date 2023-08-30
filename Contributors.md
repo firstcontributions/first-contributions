@@ -1567,6 +1567,7 @@ TJanz
 - [Noah Velasco](https://github.com/noahvelasco)
 - [张丹婷](https://github.com/JOOLLIEE)
 - [Antonio Molina] (https://github.com/antwan1)
+- [Willaumez Logan](https://github.com/LoganWillaumez)
 - [Maxwell Voorhes] (https://github.com/mvoorhes)
 - [Dut] (https://github.com/Dut-git)
 - [nagash93] (https://github.com/nagash93)
