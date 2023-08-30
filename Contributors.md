@@ -1513,6 +1513,7 @@ TJanz
 - [Sushmoy Hossain](https://github.com/imsushmoy)
 - [Deepaprakash K](https://github.com/averagestud)
 - [WADA Yusuke](https://github.com/wxy-zzz)
+- [LooseJaguar](https://github.com/LooseJaguar)
 - [Kartik](https://github.com/Kartik1932)
 - [Magframed](https://github.com/SarthakH19)
 - [Kushal](https://github.com/kushal-p1699)
@@ -1594,4 +1595,3 @@ TJanz
 -[Monsef123](https://github.com/monsef123)
 -[KislayaSrivastava](https://github.com/KislayaSrivastava)
 -[Phan Thanh Nghia](https://github.com/nghiaphan177)
-
