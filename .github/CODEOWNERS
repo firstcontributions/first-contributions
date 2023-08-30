@@ -1,124 +1,218 @@
-# The default owner of any file is Roshanjossey
+# The default code owner is Roshanjossey as he is the owner of the repo
+
 * @Roshanjossey
 
-.gitignore @nimroddanielmaayan @Roshanjossey
-.prettierignore @theyashpatel @Cyddharth-Gupta
-CODE_OF_CONDUCT.md @Roshanjossey
-LICENSE @Roshanjossey
-README.md @ @Nur-farah @annania @diegocasmo @JacobKerames @firstcontributions-bot @Roshanjossey @ilynivin @nukhes @anshulk @Zhang-Xiyue @moncef
-.github/CONTRIBUTING.md @Roshanjossey
-.github/FUNDING.yml @Roshanjossey
-.github/ISSUE_TEMPLATE.md @Roshanjossey
-additional-material/Things a non Programmer can do.md @FadiNeh @konjoinfinity @firstcontributions-bot @Roshanjossey
-cli-tool-tutorials/git-bash-windows-tutorial.md @dostonnabotov @Roshanjossey
-cli-tool-tutorials/github-cli-tutorial.md @Roshanjossey @SmashedFrenzy16 @CodeMaster7000
-gui-tool-tutorials/github-desktop-old-version-tutorial.md @Roshanjossey
-gui-tool-tutorials/github-desktop-tutorial.md @dostonnabotov @Roshanjossey
-gui-tool-tutorials/github-windows-intellij-tutorial.md @Shiven0504 @Roshanjossey
-gui-tool-tutorials/github-windows-vs-code-tutorial.md @gitmark @Roshanjossey @efemena
-gui-tool-tutorials/github-windows-vs2017-tutorial.md @Roshanjossey
-gui-tool-tutorials/gitkraken-tutorial.md @Roshanjossey
-gui-tool-tutorials/sourcetree-macos-tutorial.md @Roshanjossey
-gui-tool-tutorials/sublime-merge-tutorial.md @Roshanjossey
-translations/README.afk.md @Roshanjossey @hussein
-translations/README.al.md @Roshanjossey
-translations/README.am.md @miriprice1 @Roshanjossey @hussein
-translations/README.ar.md @ @han1py @Roshanjossey @ahmadhasankhan
-translations/README.aze.md @Roshanjossey
-translations/README.bg.md @Roshanjossey @ZlatislavZ @hussein
-translations/README.bih.md @Roshanjossey
-translations/README.bn.md @ @Roshanjossey @kmshariat @hussein
-translations/README.by.md @Roshanjossey
-translations/README.ca.md @Roshanjossey @OmegaDL2 @hussein
-translations/README.cs.md @smeglofus @hussein @Roshanjossey
-translations/README.da.md @hussein @Roshanjossey
-translations/README.de.md @Roshanjossey @leo @WebSnke @abishanaru
-translations/README.ec.md @diegocasmo
-translations/README.eg.md @hussein @Roshanjossey @ahmadhasankhan
-translations/README.en-pirate.md @hussein @Roshanjossey
-translations/README.es.md @hussein @Roshanjossey
-translations/README.fa.md @Roshanjossey
-translations/README.fi.md @hussein @Roshanjossey
-translations/README.fil.md @cda
-translations/README.fr.md @deschcla @Roshanjossey @timothee-marreromeyer
-translations/README.ge.md @Roshanjossey
-translations/README.gl.md @Roshanjossey @blackwhissh
-translations/README.gr.md @hussein @Roshanjossey
-translations/README.guj.md @hussein @Roshanjossey
-translations/README.hau.md @hussein @Roshanjossey
-translations/README.hb.md @hussein @Roshanjossey
-translations/README.hi.md @Pritam28877 @hussein @Roshanjossey @adityatheoctocatdev
-translations/README.hne.md @hussein @Roshanjossey
-translations/README.hr.md @Roshanjossey
-translations/README.hu.md @Roshanjossey
-translations/README.hy.md @Roshanjossey
-translations/README.id.md @hussein @Rima @Roshanjossey @PaulTitto @ahsanzizan
-translations/README.igb.md @hussein @Roshanjossey
-translations/README.it.md @Andrea @Roshanjossey
-translations/README.ja.md @yuki @hussein @Roshanjossey
-translations/README.ka.md @hussein @Roshanjossey
-translations/README.ko.md @hussein @Roshanjossey
-translations/README.kws.md @hussein @Roshanjossey
-translations/README.kz.md @Roshanjossey
-translations/README.la.md @hussein @Roshanjossey
-translations/README.lt.md @hussein @Roshanjossey
-translations/README.lv.md @Roshanjossey
-translations/README.me.md @Roshanjossey
-translations/README.mk.md @hussein @Roshanjossey
-translations/README.ml.md @Roshanjossey @aravindsomaraj
-translations/README.mm_unicode.md @Roshanjossey
-translations/README.mr.md @hussein @Roshanjossey
-translations/README.mx.md @lupitacode @Juarpla @hussein @Roshanjossey
-translations/README.my.md @hussein @Roshanjossey
-translations/README.nl.md @hussein @Roshanjossey
-translations/README.no.md @Roshanjossey
-translations/README.np.md @samTime101 @hussein @Roshanjossey
-translations/README.od.md @Gautham
-translations/README.pb.md @Roshanjossey
-translations/README.pl.md @hussein @Roshanjossey @wolekhenryk
-translations/README.ps.md @Roshanjossey
-translations/README.pt-pt.md @bin0o @hussein @Roshanjossey @imariom
-translations/README.pt_br.md @hussein @Caixetadev @Roshanjossey
-translations/README.pus.md @Roshanjossey
-translations/README.ro.md @hussein @Roshanjossey
-translations/README.ru.md @Roshanjossey @AlexanderPotapkov
-translations/README.se.md @hussein @Roshanjossey
-translations/README.si.md @Roshanjossey
-translations/README.sindhi.md @Roshanjossey
-translations/README.sk.md @Roshanjossey @hussein
-translations/README.sl.md @Roshanjossey @hussein
-translations/README.slk.md @Roshanjossey @hussein
-translations/README.so.md @Nur-farah
-translations/README.sr.md @Roshanjossey
-translations/README.ta.md @Roshanjossey
-translations/README.te.md @SaakiBhojanam @Roshanjossey @hussein
-translations/README.th.md @naiithink @Roshanjossey @hussein
-translations/README.tl.md @Roshanjossey
-translations/README.tr.md @Roshanjossey @hussein
-translations/README.ua.md @Roshanjossey
-translations/README.un-aln.md @Roshanjossey
-translations/README.ur.md @TouqeerAli @Roshanjossey
-translations/README.uz.md @ @Roshanjossey
-translations/README.vn.md @Roshanjossey @chrisdev188 @hussein @nii236
-translations/README.yor.md @Roshanjossey @hussein
-translations/README.zh-cn.md @PencilNavigator @Zhang-Xiyue @Roshanjossey @hussein
-translations/README.zh-tw.md @Roshanjossey @hussein
-translations/README.zul.md @Roshanjossey @hussein
-translations/Translations.md @Palwisha-18 @Roshanjossey @Nur-farah @Gautham
-.github/ISSUE_TEMPLATE/issue-template.md @Roshanjossey
-.github/workflows/auto-pr-merge.yml @esh @AnuragRoy485 @rossana87 @Rohanvp07 @Roshanjossey
-additional-material/git_workflow_scenarios/Useful-links-for-further-learning.md @Roshanjossey
-additional-material/git_workflow_scenarios/additional-material.md @sathwikgaddi @michaelstuffer98 @JG1111 @deepak1067 @Gichbuoy @Roshanjossey
-additional-material/git_workflow_scenarios/amending-a-commit.md @michaelstuffer98 @Roshanjossey
-additional-material/git_workflow_scenarios/check-commit-log.md @Roshanjossey
-additional-material/git_workflow_scenarios/configuring-git.md @Roshanjossey
-additional-material/git_workflow_scenarios/creating-a-gitignore-file.md @Roshanjossey
-additional-material/git_workflow_scenarios/delete-branch-locally.md @Roshanjossey
-additional-material/git_workflow_scenarios/gitflow.md @Roshanjossey
-additional-material/git_workflow_scenarios/installing-git-ubuntu.md @devshittu @abdulhakeem
-additional-material/git_workflow_scenarios/keeping-your-fork-synced-with-this-repository.md @Roshanjossey
-additional-material/git_workflow_scenarios/moving-a-commit-to-a-different-branch.md @Roshanjossey
-additional-material/git_workflow_scenarios/removing-a-file.md @Roshanjossey
-additional-material/git_workflow_scenarios/removing-branch-from-your-repository.md @Roshanjossey
 
+# Code owners for each file are the persons who commited to them
+/.gitignore @nimroddanielmaayan @Roshanjossey
+/.prettierignore @theyashpatel @Cyddharth-Gupta
+/CODE_OF_CONDUCT.md @Roshanjossey
+/LICENSE @Roshanjossey
+/README.md @ @Nur-farah @annania @diegocasmo @JacobKerames @firstcontributions-bot @Roshanjossey @ilynivin @nukhes @anshulk @Zhang-Xiyue @moncef
+/.github/CONTRIBUTING.md @Roshanjossey
+/.github/FUNDING.yml @Roshanjossey
+/.github/ISSUE_TEMPLATE.md @Roshanjossey
+/additional-material/Things a non Programmer can do.md @FadiNeh @konjoinfinity @firstcontributions-bot @Roshanjossey
+/cli-tool-tutorials/git-bash-windows-tutorial.md @dostonnabotov @Roshanjossey
+/cli-tool-tutorials/github-cli-tutorial.md @Roshanjossey @SmashedFrenzy16 @CodeMaster7000
+/gui-tool-tutorials/github-desktop-old-version-tutorial.md @Roshanjossey
+/gui-tool-tutorials/github-desktop-tutorial.md @dostonnabotov @Roshanjossey
+/gui-tool-tutorials/github-windows-intellij-tutorial.md @Shiven0504 @Roshanjossey
+/gui-tool-tutorials/github-windows-vs-code-tutorial.md @gitmark @Roshanjossey @efemena
+/gui-tool-tutorials/github-windows-vs2017-tutorial.md @Roshanjossey
+/gui-tool-tutorials/gitkraken-tutorial.md @Roshanjossey
+/gui-tool-tutorials/sourcetree-macos-tutorial.md @Roshanjossey
+/gui-tool-tutorials/sublime-merge-tutorial.md @Roshanjossey
+/translations/README.afk.md @Roshanjossey @hussein
+/translations/README.al.md @Roshanjossey
+/translations/README.am.md @miriprice1 @Roshanjossey @hussein
+/translations/README.ar.md @ @han1py @Roshanjossey @ahmadhasankhan
+/translations/README.aze.md @Roshanjossey
+/translations/README.bg.md @Roshanjossey @ZlatislavZ @hussein
+/translations/README.bih.md @Roshanjossey
+/translations/README.bn.md @ @Roshanjossey @kmshariat @hussein
+/translations/README.by.md @Roshanjossey
+/translations/README.ca.md @Roshanjossey @OmegaDL2 @hussein
+/translations/README.cs.md @smeglofus @hussein @Roshanjossey
+/translations/README.da.md @hussein @Roshanjossey
+/translations/README.de.md @Roshanjossey @leo @WebSnke @abishanaru
+/translations/README.ec.md @diegocasmo
+/translations/README.eg.md @hussein @Roshanjossey @ahmadhasankhan
+/translations/README.en-pirate.md @hussein @Roshanjossey
+/translations/README.es.md @hussein @Roshanjossey
+/translations/README.fa.md @Roshanjossey
+/translations/README.fi.md @hussein @Roshanjossey
+/translations/README.fil.md @cda
+/translations/README.fr.md @deschcla @Roshanjossey @timothee-marreromeyer
+/translations/README.ge.md @Roshanjossey
+/translations/README.gl.md @Roshanjossey @blackwhissh
+/translations/README.gr.md @hussein @Roshanjossey
+/translations/README.guj.md @hussein @Roshanjossey
+/translations/README.hau.md @hussein @Roshanjossey
+/translations/README.hb.md @hussein @Roshanjossey
+/translations/README.hi.md @Pritam28877 @hussein @Roshanjossey @adityatheoctocatdev
+/translations/README.hne.md @hussein @Roshanjossey
+/translations/README.hr.md @Roshanjossey
+/translations/README.hu.md @Roshanjossey
+/translations/README.hy.md @Roshanjossey
+/translations/README.id.md @hussein @Rima @Roshanjossey @PaulTitto @ahsanzizan
+/translations/README.igb.md @hussein @Roshanjossey
+/translations/README.it.md @Andrea @Roshanjossey
+/translations/README.ja.md @yuki @hussein @Roshanjossey
+/translations/README.ka.md @hussein @Roshanjossey
+/translations/README.ko.md @hussein @Roshanjossey
+/translations/README.kws.md @hussein @Roshanjossey
+/translations/README.kz.md @Roshanjossey
+/translations/README.la.md @hussein @Roshanjossey
+/translations/README.lt.md @hussein @Roshanjossey
+/translations/README.lv.md @Roshanjossey
+/translations/README.me.md @Roshanjossey
+/translations/README.mk.md @hussein @Roshanjossey
+/translations/README.ml.md @Roshanjossey @aravindsomaraj
+/translations/README.mm_unicode.md @Roshanjossey
+/translations/README.mr.md @hussein @Roshanjossey
+/translations/README.mx.md @lupitacode @Juarpla @hussein @Roshanjossey
+/translations/README.my.md @hussein @Roshanjossey
+/translations/README.nl.md @hussein @Roshanjossey
+/translations/README.no.md @Roshanjossey
+/translations/README.np.md @samTime101 @hussein @Roshanjossey
+/translations/README.od.md @Gautham
+/translations/README.pb.md @Roshanjossey
+/translations/README.pl.md @hussein @Roshanjossey @wolekhenryk
+/translations/README.ps.md @Roshanjossey
+/translations/README.pt-pt.md @bin0o @hussein @Roshanjossey @imariom
+/translations/README.pt_br.md @hussein @Caixetadev @Roshanjossey
+/translations/README.pus.md @Roshanjossey
+/translations/README.ro.md @hussein @Roshanjossey
+/translations/README.ru.md @Roshanjossey @AlexanderPotapkov
+/translations/README.se.md @hussein @Roshanjossey
+/translations/README.si.md @Roshanjossey
+/translations/README.sindhi.md @Roshanjossey
+/translations/README.sk.md @Roshanjossey @hussein
+/translations/README.sl.md @Roshanjossey @hussein
+/translations/README.slk.md @Roshanjossey @hussein
+/translations/README.so.md @Nur-farah
+/translations/README.sr.md @Roshanjossey
+/translations/README.ta.md @Roshanjossey
+/translations/README.te.md @SaakiBhojanam @Roshanjossey @hussein
+/translations/README.th.md @naiithink @Roshanjossey @hussein
+/translations/README.tl.md @Roshanjossey
+/translations/README.tr.md @Roshanjossey @hussein
+/translations/README.ua.md @Roshanjossey
+/translations/README.un-aln.md @Roshanjossey
+/translations/README.ur.md @TouqeerAli @Roshanjossey
+/translations/README.uz.md @ @Roshanjossey
+/translations/README.vn.md @Roshanjossey @chrisdev188 @hussein @nii236
+/translations/README.yor.md @Roshanjossey @hussein
+/translations/README.zh-cn.md @PencilNavigator @Zhang-Xiyue @Roshanjossey @hussein
+/translations/README.zh-tw.md @Roshanjossey @hussein
+/translations/README.zul.md @Roshanjossey @hussein
+/translations/Translations.md @Palwisha-18 @Roshanjossey @Nur-farah @Gautham
+/.github/ISSUE_TEMPLATE/issue-template.md @Roshanjossey
+/.github/workflows/auto-pr-merge.yml @esh @AnuragRoy485 @rossana87 @Rohanvp07 @Roshanjossey
+/additional-material/git_workflow_scenarios/Useful-links-for-further-learning.md @Roshanjossey
+/additional-material/git_workflow_scenarios/additional-material.md @sathwikgaddi @michaelstuffer98 @JG1111 @deepak1067 @Gichbuoy @Roshanjossey
+/additional-material/git_workflow_scenarios/amending-a-commit.md @michaelstuffer98 @Roshanjossey
+/additional-material/git_workflow_scenarios/check-commit-log.md @Roshanjossey
+/additional-material/git_workflow_scenarios/configuring-git.md @Roshanjossey
+/additional-material/git_workflow_scenarios/creating-a-gitignore-file.md @Roshanjossey
+/additional-material/git_workflow_scenarios/delete-branch-locally.md @Roshanjossey
+/additional-material/git_workflow_scenarios/gitflow.md @Roshanjossey
+/additional-material/git_workflow_scenarios/installing-git-ubuntu.md @devshittu @abdulhakeem
+/additional-material/git_workflow_scenarios/keeping-your-fork-synced-with-this-repository.md @Roshanjossey
+/additional-material/git_workflow_scenarios/moving-a-commit-to-a-different-branch.md @Roshanjossey
+/additional-material/git_workflow_scenarios/removing-a-file.md @Roshanjossey
+/additional-material/git_workflow_scenarios/removing-branch-from-your-repository.md @Roshanjossey
+/additional-material/git_workflow_scenarios/resetting-a-branch.md @Roshanjossey
+/additional-material/git_workflow_scenarios/resetting-a-commit.md @Roshanjossey
+/additional-material/git_workflow_scenarios/resolving-merge-conflicts.md @Roshanjossey
+/additional-material/git_workflow_scenarios/reverting-a-commit.md @Roshanjossey
+/additional-material/git_workflow_scenarios/squashing-commits.md @Roshanjossey
+/additional-material/git_workflow_scenarios/stashing-a-file.md @Roshanjossey
+/additional-material/git_workflow_scenarios/storing-credentials.md @JG1111
+/additional-material/git_workflow_scenarios/undoing-a-commit.md @Roshanjossey
+/additional-material/git_workflow_scenarios/why-using-branches.md @Roshanjossey
+/additional-material/translations/Belarusian/Useful-links-for-further-learning.by.md @Roshanjossey
+/additional-material/translations/Belarusian/additional-material.by.md @Roshanjossey
+/additional-material/translations/Belarusian/amending-a-commit.by.md @Roshanjossey
+/additional-material/translations/Belarusian/configuring-git.by.md @Roshanjossey
+/additional-material/translations/Belarusian/keeping-your-fork-synced-with-this-repository.by.md @Roshanjossey
+/additional-material/translations/Belarusian/moving-a-commit-to-a-different-branch.by.md @Roshanjossey
+/additional-material/translations/Belarusian/removing-a-file.by.md @Roshanjossey
+/additional-material/translations/Belarusian/removing-branch-from-your-repository.by.md @Roshanjossey
+/additional-material/translations/Belarusian/resolving-merge-conflicts.by.md @Roshanjossey
+/additional-material/translations/Belarusian/reverting-a-commit.by.md @Roshanjossey
+/additional-material/translations/Belarusian/squashing-commits.by.md @Roshanjossey
+/additional-material/translations/Belarusian/stashing-a-file.by.md @Roshanjossey
+/additional-material/translations/Belarusian/undoing-a-commit.by.md @Roshanjossey
+/additional-material/translations/Chinese/additional-material.zh-cn.md @Erisae
+/additional-material/translations/Chinese/addtional-material.cht.md @Roshanjossey @Erisae @HXMou
+/additional-material/translations/French/additional-material.fr.md @Roshanjossey
+/additional-material/translations/French/amending-a-commit.fr.md @Roshanjossey
+/additional-material/translations/Greek/git_workflow_scenarios/additional-material.gr.md @porfanid
+/additional-material/translations/Greek/git_workflow_scenarios/amending-a-commit.gr.md @porfanid
+/additional-material/translations/Hindi/moving-a-commit-to-a-different-branch.hi.md @Roshanjossey
+/additional-material/translations/Hindi/nepali.np.md @Roshanjossey
+/additional-material/translations/Hindi/removing-a-file.hi.md @Roshanjossey
+/additional-material/translations/Hindi/removing-branch-from-your-repository.hi.md @Roshanjossey
+/additional-material/translations/Indonesian/additional-material.id.md @Roshanjossey
+/additional-material/translations/Indonesian/removing-a-file.id.md @Roshanjossey
+/additional-material/translations/Italian/removing-a-file.it.md @Roshanjossey
+/additional-material/translations/Korean/additional-material.ko.md @Roshanjossey @mihye
+/additional-material/translations/Korean/amending-a-commit.ko.md @Roshanjossey
+/additional-material/translations/Korean/keeping-your-fork-synced-with-this-repository.ko.md @Roshanjossey
+/additional-material/translations/Korean/moving-a-commit-to-a-different-branch.ko.md @Roshanjossey
+/additional-material/translations/Korean/removing-branch-from-your-repository.ko.md @Roshanjossey
+/additional-material/translations/Korean/resolving-merge-conflicts.ko.md @Roshanjossey
+/additional-material/translations/Korean/reverting-a-commit.ko.md @Roshanjossey
+/additional-material/translations/Korean/undoing-a-commit.ko.md @Roshanjossey
+/additional-material/translations/Portuguese/additional-material.pt_br.md @Roshanjossey
+/additional-material/translations/Portuguese/amending-a-commit.pt_br.md @Roshanjossey
+/additional-material/translations/Portuguese/confinguring-git.pt-br.md @Roshanjossey @jatin
+/additional-material/translations/Portuguese/keeping-your-fork-synced-with-this-repository.pt_br.md @Roshanjossey
+/additional-material/translations/Portuguese/moving-a-commit-to-a-different-branch.pt_br.md @Roshanjossey
+/additional-material/translations/Portuguese/removing-a-file.pt_br.md @Roshanjossey
+/additional-material/translations/Portuguese/removing-branch-from-your-repository.pt_br.md @Roshanjossey
+/additional-material/translations/Russian/additional-material.ru.md @Roshanjossey
+/additional-material/translations/Russian/amending-a-commit.ru.md @Roshanjossey
+/additional-material/translations/Russian/configuring-git.ru.md @Roshanjossey
+/additional-material/translations/Russian/moving-a-commit-to-a-different-branch.ru.md @Roshanjossey
+/additional-material/translations/Russian/removing-a-file.ru.md @Roshanjossey
+/additional-material/translations/Slovenian/additional-material.sl.md @Roshanjossey
+/additional-material/translations/Slovenian/amending-a-commit.sl.md @Roshanjossey
+/additional-material/translations/Slovenian/configuring-git.sl.md @Roshanjossey
+/additional-material/translations/Slovenian/keeping-your-fork-synced-with-this-repository.sl.md @Roshanjossey
+/additional-material/translations/Slovenian/moving-a-commit-to-a-different-branch.sl.md @Roshanjossey
+/additional-material/translations/Slovenian/removing-a-file.sl.md @Roshanjossey
+/additional-material/translations/Slovenian/removing-branch-from-your-repository.sl.md @Roshanjossey
+/additional-material/translations/Slovenian/resolving-merge-conflicts.sl.md @Roshanjossey
+/additional-material/translations/Slovenian/reverting-a-commit.sl.md @Roshanjossey
+/additional-material/translations/Slovenian/squashing-commits.sl.md @Roshanjossey
+/additional-material/translations/Slovenian/stashing-a-file.sl.md @Roshanjossey
+/additional-material/translations/Slovenian/undoing-a-commit.sl.md @Roshanjossey
+/additional-material/translations/Tamil/additional-material.ta.md @asfaqahmed
+/additional-material/translations/Ukrainian/removing-a-file.ua.md @Roshanjossey
+/additional-material/translations/Urdu/additional-material.ur.md @Roshanjossey
+/additional-material/translations/Urdu/amending-a-commit.ur.md @Roshanjossey
+/additional-material/translations/Useful-links-for-further-learning.id.md @Roshanjossey
+/additional-material/translations/Vietnamese/resolving-merge-conflicts.vi.md @Roshanjossey
+/additional-material/translations/additional-material.np.md @Roshanjossey
+/additional-material/translations/amending-a-commit.fa.md @alumen2101
+/additional-material/translations/amending-a-commit.np.md @Roshanjossey
+/additional-material/translations/configuring-git.np.md @Roshanjossey
+/additional-material/translations/delete-branch-locally.fa.md @Roshanjossey
+/gui-tool-tutorials/translations/Greek/gitkraken-tutorial.gr.md @porfanid
+/gui-tool-tutorials/translations/Greek/sublime-merge-tutorial.gr.md @porfanid
+/gui-tool-tutorials/translations/github-desktop-tutorial.ng_yr.md @Roshanjossey @dostonnabotov
+/gui-tool-tutorials/translations/github-desktop-tutorial.pt_br.md @Roshanjossey @dostonnabotov
+/gui-tool-tutorials/translations/github-windows-intellij-tutorial.pt_br.md @Roshanjossey @hussein
+/gui-tool-tutorials/translations/github-windows-vs-code-tutorial-hi.md @Roshanjossey
+/gui-tool-tutorials/translations/github-windows-vs-code-tutorial.pt_br.md @Roshanjossey
+/gui-tool-tutorials/translations/github-windows-vs-code-tutorial_id.md @Roshanjossey
+/gui-tool-tutorials/translations/github-windows-vs-code-tutorial_pt_br.md @Roshanjossey
+/gui-tool-tutorials/translations/github-windows-vs2017-tutorial.pt_br.md @Roshanjossey
+/gui-tool-tutorials/translations/gitkraken-tutorial-es.md @GowtherZa
+/gui-tool-tutorials/translations/gitkraken-tutorial.pt-br.md @Roshanjossey
+
+# setting the owner of contributors.md to none as the bot must be able to accept the changes
 /Contributors.md
