@@ -1572,6 +1572,7 @@ TJanz
 - [nagash93] (https://github.com/nagash93)
   -[AnojKJayan] (https://github.com/Anojlex)
 - [Baroloker] (https://github.com/Baroloker)
+- [Anuoluwapo]
   -[monisha-82] (https://github.com/monisha-82)
   [franxxu] (https://github.com/franxxu)
 - [RiddlemanMVP] (https://github.com/RiddlemanMVP)
