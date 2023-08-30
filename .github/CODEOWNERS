@@ -1,0 +1,10 @@
+# The default owner of any file is Roshanjossey
+* @Roshanjossey
+
+/translations/README.gr.md @porfanid @adreaskar
+
+/translations/README.fil.md @CDA
+/translations/README.ar.md @Megalodonix
+/translations/README.bg.md @Zlatislav
+# removing the owner from the COntributors.md file so that the bot can automatically merge the branch in case a branch protection rule is applied
+/Contributors.md
