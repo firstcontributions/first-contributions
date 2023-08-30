@@ -781,6 +781,7 @@ TJanz
 - [Rahul Roy](https://github.com/RAHULRo)
 - [Celal Kincros](https://github.com/CelalKincross)
 - [Alex Colvin](https://github.com/alex-colvin)
+- [Chris Lee](https://github.com/chris-sang-lee)
 - [Megha Juneja](https://github.com/mjunej)
 - [The Singularity is Near](https://github.com/standardAI)
 - [Erica Layton](https://github.com/BeeperDev)
