@@ -567,7 +567,6 @@ TJanz
 - [Brandon Cole](https://github.com/realbcole)
 - [applo susheng](https://github.com/applo-susheng "test")
 - [Koninika Tarafdar](https://github.com/Koninikax)
-- [amir hossein](https://github.com/amir-hossein-karimi)
 - [Nagaraj Poojari](https://github.com/nagarajRPoojari)
 - [Karthikeyan Nambivinayagam](https://github.com/Karthikn-n)
 - [Provab Mongchaw Khyang](https://github.com/notmongchaw)
