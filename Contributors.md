@@ -18,6 +18,7 @@
 - [Conor Kirby](https://gitbub.com/ckirby19)
 - [Akshatha](https://github.com/nayakan)
 - [Rich C](https://github.com/Supergnarlyted)
+- [PikkuJane](https://github.com/PikkuJanne)
 - [Alexis L](https://github.com/akelee)
 - [Vinay Kumar](https://github.com/n4ryn)
 - [Nilanshu Yadav](https://github.com/Nilanshuyadav)
