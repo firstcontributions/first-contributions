@@ -2,6 +2,7 @@
 
 - [Willy Wonka](https://github.com/massablaise)
 - [Kosumo] (https://github.com/masumo)
+- [Asiya](https://github.com/Asiyaa22)
 - [Isabell Luo] (https://github.com/117Isabell)
 - [Carlos Guerrero] (https://github.com/carlosguealv)
 - [Zhiyuan](https://github.com/Zhiyuan-Jerry-Yang)
