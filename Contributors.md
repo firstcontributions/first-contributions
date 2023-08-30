@@ -86,6 +86,7 @@
 - [Enikuomehin David](https://github.com/eniiku)
 - [Franco Lu](https://github.com/franco2002lu)
 - [Simon Lowe](https://github.com/LoweSimon)
+- [Nashwa] (https://github.com/siddiquen)
 - [Pranay Choubey](https://github.com/CaesarMouse)
 - [prafitradimas](https://github.com/prafitradimas)
 - [kian3158](https://github.com/kian3158)
