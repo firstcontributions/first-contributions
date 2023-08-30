@@ -20,6 +20,7 @@
 - [numptidumpti] 
 - [alfaz](https://github.com/alfazakash)
 - [Vrund_Raval](https://github.com/vrundraval24)
+- [Niraj Kumar](https://github.com/infinitecreator)
 - [Conor Kirby](https://gitbub.com/ckirby19)
 - [Akshatha](https://github.com/nayakan)
 - [Rich C](https://github.com/Supergnarlyted)
