@@ -39,6 +39,7 @@
 - [Ajay](https://github.com/ajay-k12)
 - [Daniel] (https://github.com/dcgran)
 - [mohamed] (...)
+- [Omar] (https://github.com/Omarr-kh)
 - [ronnelg](https://github.com/ronzron)
 - [ceri555](https://github.com/Ceri555)
 - [tamilbharathi](https://github.com/tamil-code)
