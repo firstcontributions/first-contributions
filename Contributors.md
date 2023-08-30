@@ -9,6 +9,7 @@
 - [Anuj Mohite](https://github.com/anujrmohite)
 - [double835](https://github.com/double835)
 - [Tasneem Ayham](https://github.com/Coding-Queen89/)
+- [Brian Fernandez](https://github.com/br14n-sol)
 - [Min Kim](https://github.com/Kim-Min-K)
 - [Akshit Rawat](https://github.com/akshitrawat1)
 - [Anushthan Saxena](https://github.com/AnushthanS)
