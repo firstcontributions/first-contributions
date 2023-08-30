@@ -57,6 +57,7 @@
 - [Linford](https://github.com/Linf0rd)
 - [Khesehang Samsohnag Limbu](https://github.com/khesehang)
 - [Lucas](http://github.com/zed118)
+- [Tania](https://github.com/zzmoni)
 - [Iniyan](https://github.com/ini1307)
 - [Glitched Nexus](https://github.com/GlitchedNexus)
 - [KiranJais](https://github.com/alkrona)
