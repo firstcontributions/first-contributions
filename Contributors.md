@@ -1,5 +1,5 @@
 # Contributors
-
+  [Josh H](https://github.com/GoodGuyHeffy)
 - [Willy Wonka](https://github.com/massablaise)
 - [Kosumo] (https://github.com/masumo)
 - [Isabell Luo] (https://github.com/117Isabell)
