@@ -1,10 +1,124 @@
 # The default owner of any file is Roshanjossey
 * @Roshanjossey
 
-/translations/README.gr.md @porfanid @adreaskar
+.gitignore @nimroddanielmaayan @Roshanjossey
+.prettierignore @theyashpatel @Cyddharth-Gupta
+CODE_OF_CONDUCT.md @Roshanjossey
+LICENSE @Roshanjossey
+README.md @ @Nur-farah @annania @diegocasmo @JacobKerames @firstcontributions-bot @Roshanjossey @ilynivin @nukhes @anshulk @Zhang-Xiyue @moncef
+.github/CONTRIBUTING.md @Roshanjossey
+.github/FUNDING.yml @Roshanjossey
+.github/ISSUE_TEMPLATE.md @Roshanjossey
+additional-material/Things a non Programmer can do.md @FadiNeh @konjoinfinity @firstcontributions-bot @Roshanjossey
+cli-tool-tutorials/git-bash-windows-tutorial.md @dostonnabotov @Roshanjossey
+cli-tool-tutorials/github-cli-tutorial.md @Roshanjossey @SmashedFrenzy16 @CodeMaster7000
+gui-tool-tutorials/github-desktop-old-version-tutorial.md @Roshanjossey
+gui-tool-tutorials/github-desktop-tutorial.md @dostonnabotov @Roshanjossey
+gui-tool-tutorials/github-windows-intellij-tutorial.md @Shiven0504 @Roshanjossey
+gui-tool-tutorials/github-windows-vs-code-tutorial.md @gitmark @Roshanjossey @efemena
+gui-tool-tutorials/github-windows-vs2017-tutorial.md @Roshanjossey
+gui-tool-tutorials/gitkraken-tutorial.md @Roshanjossey
+gui-tool-tutorials/sourcetree-macos-tutorial.md @Roshanjossey
+gui-tool-tutorials/sublime-merge-tutorial.md @Roshanjossey
+translations/README.afk.md @Roshanjossey @hussein
+translations/README.al.md @Roshanjossey
+translations/README.am.md @miriprice1 @Roshanjossey @hussein
+translations/README.ar.md @ @han1py @Roshanjossey @ahmadhasankhan
+translations/README.aze.md @Roshanjossey
+translations/README.bg.md @Roshanjossey @ZlatislavZ @hussein
+translations/README.bih.md @Roshanjossey
+translations/README.bn.md @ @Roshanjossey @kmshariat @hussein
+translations/README.by.md @Roshanjossey
+translations/README.ca.md @Roshanjossey @OmegaDL2 @hussein
+translations/README.cs.md @smeglofus @hussein @Roshanjossey
+translations/README.da.md @hussein @Roshanjossey
+translations/README.de.md @Roshanjossey @leo @WebSnke @abishanaru
+translations/README.ec.md @diegocasmo
+translations/README.eg.md @hussein @Roshanjossey @ahmadhasankhan
+translations/README.en-pirate.md @hussein @Roshanjossey
+translations/README.es.md @hussein @Roshanjossey
+translations/README.fa.md @Roshanjossey
+translations/README.fi.md @hussein @Roshanjossey
+translations/README.fil.md @cda
+translations/README.fr.md @deschcla @Roshanjossey @timothee-marreromeyer
+translations/README.ge.md @Roshanjossey
+translations/README.gl.md @Roshanjossey @blackwhissh
+translations/README.gr.md @hussein @Roshanjossey
+translations/README.guj.md @hussein @Roshanjossey
+translations/README.hau.md @hussein @Roshanjossey
+translations/README.hb.md @hussein @Roshanjossey
+translations/README.hi.md @Pritam28877 @hussein @Roshanjossey @adityatheoctocatdev
+translations/README.hne.md @hussein @Roshanjossey
+translations/README.hr.md @Roshanjossey
+translations/README.hu.md @Roshanjossey
+translations/README.hy.md @Roshanjossey
+translations/README.id.md @hussein @Rima @Roshanjossey @PaulTitto @ahsanzizan
+translations/README.igb.md @hussein @Roshanjossey
+translations/README.it.md @Andrea @Roshanjossey
+translations/README.ja.md @yuki @hussein @Roshanjossey
+translations/README.ka.md @hussein @Roshanjossey
+translations/README.ko.md @hussein @Roshanjossey
+translations/README.kws.md @hussein @Roshanjossey
+translations/README.kz.md @Roshanjossey
+translations/README.la.md @hussein @Roshanjossey
+translations/README.lt.md @hussein @Roshanjossey
+translations/README.lv.md @Roshanjossey
+translations/README.me.md @Roshanjossey
+translations/README.mk.md @hussein @Roshanjossey
+translations/README.ml.md @Roshanjossey @aravindsomaraj
+translations/README.mm_unicode.md @Roshanjossey
+translations/README.mr.md @hussein @Roshanjossey
+translations/README.mx.md @lupitacode @Juarpla @hussein @Roshanjossey
+translations/README.my.md @hussein @Roshanjossey
+translations/README.nl.md @hussein @Roshanjossey
+translations/README.no.md @Roshanjossey
+translations/README.np.md @samTime101 @hussein @Roshanjossey
+translations/README.od.md @Gautham
+translations/README.pb.md @Roshanjossey
+translations/README.pl.md @hussein @Roshanjossey @wolekhenryk
+translations/README.ps.md @Roshanjossey
+translations/README.pt-pt.md @bin0o @hussein @Roshanjossey @imariom
+translations/README.pt_br.md @hussein @Caixetadev @Roshanjossey
+translations/README.pus.md @Roshanjossey
+translations/README.ro.md @hussein @Roshanjossey
+translations/README.ru.md @Roshanjossey @AlexanderPotapkov
+translations/README.se.md @hussein @Roshanjossey
+translations/README.si.md @Roshanjossey
+translations/README.sindhi.md @Roshanjossey
+translations/README.sk.md @Roshanjossey @hussein
+translations/README.sl.md @Roshanjossey @hussein
+translations/README.slk.md @Roshanjossey @hussein
+translations/README.so.md @Nur-farah
+translations/README.sr.md @Roshanjossey
+translations/README.ta.md @Roshanjossey
+translations/README.te.md @SaakiBhojanam @Roshanjossey @hussein
+translations/README.th.md @naiithink @Roshanjossey @hussein
+translations/README.tl.md @Roshanjossey
+translations/README.tr.md @Roshanjossey @hussein
+translations/README.ua.md @Roshanjossey
+translations/README.un-aln.md @Roshanjossey
+translations/README.ur.md @TouqeerAli @Roshanjossey
+translations/README.uz.md @ @Roshanjossey
+translations/README.vn.md @Roshanjossey @chrisdev188 @hussein @nii236
+translations/README.yor.md @Roshanjossey @hussein
+translations/README.zh-cn.md @PencilNavigator @Zhang-Xiyue @Roshanjossey @hussein
+translations/README.zh-tw.md @Roshanjossey @hussein
+translations/README.zul.md @Roshanjossey @hussein
+translations/Translations.md @Palwisha-18 @Roshanjossey @Nur-farah @Gautham
+.github/ISSUE_TEMPLATE/issue-template.md @Roshanjossey
+.github/workflows/auto-pr-merge.yml @esh @AnuragRoy485 @rossana87 @Rohanvp07 @Roshanjossey
+additional-material/git_workflow_scenarios/Useful-links-for-further-learning.md @Roshanjossey
+additional-material/git_workflow_scenarios/additional-material.md @sathwikgaddi @michaelstuffer98 @JG1111 @deepak1067 @Gichbuoy @Roshanjossey
+additional-material/git_workflow_scenarios/amending-a-commit.md @michaelstuffer98 @Roshanjossey
+additional-material/git_workflow_scenarios/check-commit-log.md @Roshanjossey
+additional-material/git_workflow_scenarios/configuring-git.md @Roshanjossey
+additional-material/git_workflow_scenarios/creating-a-gitignore-file.md @Roshanjossey
+additional-material/git_workflow_scenarios/delete-branch-locally.md @Roshanjossey
+additional-material/git_workflow_scenarios/gitflow.md @Roshanjossey
+additional-material/git_workflow_scenarios/installing-git-ubuntu.md @devshittu @abdulhakeem
+additional-material/git_workflow_scenarios/keeping-your-fork-synced-with-this-repository.md @Roshanjossey
+additional-material/git_workflow_scenarios/moving-a-commit-to-a-different-branch.md @Roshanjossey
+additional-material/git_workflow_scenarios/removing-a-file.md @Roshanjossey
+additional-material/git_workflow_scenarios/removing-branch-from-your-repository.md @Roshanjossey
 
-/translations/README.fil.md @CDA
-/translations/README.ar.md @Megalodonix
-/translations/README.bg.md @Zlatislav
-# removing the owner from the COntributors.md file so that the bot can automatically merge the branch in case a branch protection rule is applied
 /Contributors.md
