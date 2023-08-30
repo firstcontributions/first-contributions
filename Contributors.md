@@ -1132,6 +1132,7 @@ TJanz
 - [Nabeel Rajabali](https://github.com/Nabstar3)
 - [Alejandro Ramirez Jr.](https://github.com/AlejandroRamirezJr)
 - [Francisca Suarez](https://github.com/franciisca)
+- [Adit Rastogi](https://github.com/RastogiAdit)
 - [careyuyu](https://github.com/careyuyu)
 - [Priyangshu Sarkar](https://github.com/Priyangshu28)
 - [Paúl Millanes](https://github.com/PaulMilMor)
