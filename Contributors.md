@@ -1513,7 +1513,7 @@ TJanz
 - [Sushmoy Hossain](https://github.com/imsushmoy)
 - [Deepaprakash K](https://github.com/averagestud)
 - [WADA Yusuke](https://github.com/wxy-zzz)
-- [LooseJaguar](https://github.com/LooseJaguar)
+- [LooseJaguar](https://github.com/LooseJaguar):cat2:
 - [Kartik](https://github.com/Kartik1932)
 - [Magframed](https://github.com/SarthakH19)
 - [Kushal](https://github.com/kushal-p1699)
