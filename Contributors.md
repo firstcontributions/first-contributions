@@ -1186,6 +1186,7 @@ TJanz
 - [Christine Lin](https://github.com/christinelin8)
 - [Joel Tony](https://github.com/jay-tau)
 - [G Jeevika](https://github.com/Gjeev)
+- [Aaditi Mehta](https://github.com/aaditim18)
 - [Tim Leung](https://github.com/timleungtech)
 - [wlftuc](https://github.com/wlftuc)
 - [Sarang S](https://github.com/saaarangs)
