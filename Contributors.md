@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Sudesh Sachintha](https://github.com/Sachintha-dev)
 - [Abhi Bhullar](https://github.com/userabhibhullar)
@@ -17,6 +17,7 @@
 - [Robert McCall[(https://github.com/Polderrider)
 - [Brian Fernandez](https://github.com/br14n-sol)
 - [Min Kim](https://github.com/Kim-Min-K)
+- [Achal](https://github.com/achal-00)
 - [Akshit Rawat](https://github.com/akshitrawat1)
 - [Anushthan Saxena](https://github.com/AnushthanS)
 - [Abhay Jain](https://github.com/MentallyCramped)
