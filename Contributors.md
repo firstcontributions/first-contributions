@@ -7,6 +7,7 @@
 - [Carlos Guerrero] (https://github.com/carlosguealv)
 - [Zhiyuan](https://github.com/Zhiyuan-Jerry-Yang)
 - [Harpreet Singh Sahota](https://github.com/happysahota)
+- [kevin1010607](https://github.com/kevin1010607)
 - [Anuj Mohite](https://github.com/anujrmohite)
 - [double835](https://github.com/double835)
 - [Tasneem Ayham](https://github.com/Coding-Queen89/)
