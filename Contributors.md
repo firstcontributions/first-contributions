@@ -419,6 +419,7 @@ TJanz
 - [Vijay Vardhan](https://github.com/vijayvardhan6)
 - [AbdulRehman Mangral](https://github.com/armangral)
 - [Presh Jindal](https://github.com/PreshJindal)
+- [Aidan Roraback](https://github.com/Meester-Moo)
 - [AlbertHoxha](https://github.com/alberthoxha)
 - [Johnny]
 - [Ocean Berlinghieri](https://github.com/OceanBerlinghieri)
