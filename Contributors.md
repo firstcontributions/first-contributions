@@ -9,6 +9,7 @@
 - [keval](https://github.com/kevalshah0601).
 - [alfaz](https://github.com/alfazakash)
 - [Vrund_Raval](https://github.com/vrundraval24)
+- [shyam kumar](https://github.com/whoshyam)
 - [Akshatha](https://github.com/nayakan)
 - [Alexis L](https://github.com/akelee)
 - [Aryaman](https://github.com/SilianRail)
