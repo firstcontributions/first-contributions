@@ -378,6 +378,7 @@ TJanz
 - [KentuckySato](https://github.com/KentuckySato)
 - [TaiBiscuit](https://github.com/TaiBiscuit)
 - evan
+- [Henrique Araújo](https://github.com/henriquearaujo-98)
 - [bce](https://github.com/barkancanerdogdu)
 - [DimCel](https://github.com/dimcel)
 - [YungBenn](https://github.com/YungBenn)
