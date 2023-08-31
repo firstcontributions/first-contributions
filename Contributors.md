@@ -271,6 +271,7 @@ TJanz
 - [JayAyTee](https://github.com/JayAyTee)
 - [Santiago Rodriguez](https://github.com/santimars)
 - [DarkModeDevotee](https://github.com/DarkModeDevotee)
+- [AlfredPaguio](https://github.com/AlfredPaguio)
 - [Muhammed Faheem](https://github.com/faheem-cmd)
 - [Abhilash Mohanty]
 - [Denis Perevertov](https://github.com/denis-perevertov)
@@ -1620,5 +1621,5 @@ TJanz
 - [KislayaSrivastava](https://github.com/KislayaSrivastava)
 - [Phan Thanh Nghia](https://github.com/nghiaphan177)
 - [Vikram Sai Simha] (https://github.com/paramzvik)
-
+-[Byte-001] (https://github.com/Byte-001)
 
