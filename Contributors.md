@@ -943,6 +943,7 @@ TJanz
 - [Prasannajeet Pradhan](https://github.com/prasannajeet2002)
 - [Shivam Singh](https://github.com/CommData)
 - [Steven Hastings](https://github.com/gitHasty-0321)
+- [Markus Kehle](https://github.com/toni6)
 - [Prakhar Dubey](https://github.com/prakhardubey2002)
 - [Nitin Gururaj](https://github.com/nitingururajk)
 - [Lucifer Morningstar](https://github.com/ItsReallyLucifer)
