@@ -17,7 +17,8 @@
 - [Juan Carlos](https://github.com/pads-sama)
 - [Chad Mc Adams](https://github.com/chadthecoder)
 - [keval](https://github.com/kevalshah0601).
-- [numptidumpti] 
+- [numptidumpti]
+- [Earl Chase](https://github.com/VictorHugoPilled)
 - [alfaz](https://github.com/alfazakash)
 - [Vrund_Raval](https://github.com/vrundraval24)
 - [Niraj Kumar](https://github.com/infinitecreator)
