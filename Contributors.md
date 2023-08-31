@@ -1,5 +1,6 @@
 # Contributors
 
+- [Sudesh Sachintha](https://github.com/Sachintha-dev)
 - [Abhi Bhullar](https://github.com/userabhibhullar)
 - [Willy Wonka](https://github.com/massablaise)
 - [Kosumo] (https://github.com/masumo)
