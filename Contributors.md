@@ -997,6 +997,7 @@ TJanz
 - [James Jeffreys](https://github.com/jamesjeffreys)
 - [Md Ashiqur Rahman](https://github.com/mdashikar)
 - [Md Anisur Rahman](https://github.com/a-n-i-s)
+- [Nehoray Regimov](https://github.com/nehoray669)
 - [Nurlis Kimbiletov](https://github.com/Nurlis03)
 - [Jay Knowles](https://github.com/jayrkyd)
 - [Cole Robinson](https://github.com/Col-R)
