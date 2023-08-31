@@ -111,6 +111,7 @@
 - [Yunis Aslan](https://github.com/YunisAslan)
 - [Daan V](https://github.com/banzaai)
 - [drwho](https://github.com/drwho)
+- [Tyler Kinkade](https://github.com/tynkd)
 - [Khairunnisa](https://github.com/khairnsaa)
 - [Chantal Chicheko](https://github.com/mademoiselle-chantal)
 - [Nabina Mallik](https://github.com/nabinamallik)
