@@ -2,6 +2,7 @@
 
 - [Willy Wonka](https://github.com/massablaise)
 - [Kosumo] (https://github.com/masumo)
+- [Neel Contractor] (https://github.com/NeelContractor)
 - [Asiya](https://github.com/Asiyaa22)
 - [Isabell Luo] (https://github.com/117Isabell)
 - [Carlos Guerrero] (https://github.com/carlosguealv)
