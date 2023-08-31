@@ -1538,6 +1538,7 @@ TJanz
 - [Mack Osborne](https://github.com/mackosborne)
 - [Arief Rahman](https://github.com/rahmanarief21)
 - [Jobayer Rahman](https://github.com/Jobayer98)
+- [Naufal Faqih K R](https://github.com/NaufR)
 - [Sushmoy Hossain](https://github.com/imsushmoy)
 - [Deepaprakash K](https://github.com/averagestud)
 - [WADA Yusuke](https://github.com/wxy-zzz)
