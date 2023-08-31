@@ -599,6 +599,7 @@ TJanz
 - [Rahul Satpute](https://github.com/rahulsatpute9960)
 - [Siqi Liu](https://github.com/leowrites/)
 - [Gargi Sontakke](https://github.com/gargi-so)
+- [Mark Bagby](https://github.com/m-bagby)
 - [Anushree Singhal](https://github.com/anushreee666)
 - [Idzanaagi](https://github.com/Idzanaagi)
 - [metsu971](https://github.com/metsu971)
