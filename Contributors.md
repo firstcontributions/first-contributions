@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Sudesh Sachintha](https://github.com/Sachintha-dev)
 - [Abhi Bhullar](https://github.com/userabhibhullar)
@@ -1619,4 +1619,5 @@ TJanz
 -[KislayaSrivastava](https://github.com/KislayaSrivastava)
 -[Phan Thanh Nghia](https://github.com/nghiaphan177)
 -[Vikram Sai Simha] (https://github.com/paramzvik)
+-[Byte-001] (https://github.com/Byte-001)
 
