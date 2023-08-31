@@ -1449,6 +1449,7 @@ TJanz
 - [Yakov Donde](https://github.com/yakovdonde)
 - [Gabe Cano](https://github.com/gabecano4308)
 - [Eray Ates](https://github.com/erayates)
+- [Alfonso de Mora Navarro](https://github.com/demora33)
 - [Srajal Sawner](https://github.com/Srajal16)
 - [Nehal chaudhary](https://github.com/neh666)
 - [Amanda Monteiro](https://github.com/armontei)
