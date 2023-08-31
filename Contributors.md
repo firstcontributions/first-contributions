@@ -252,6 +252,7 @@ TJanz
 - [Christian Decker](https://github.com/cmdecker95)
 - [Senjith P](https://github.com/SenjithP)
 - [Owusu Ansah](https://github.com/qquarjo)
+- [Brent Gratias](https://github.com/bgratias)
 - [Yushan]
 - [Arpit Burgess](https://github.com/arpitburgess)
 - [Guilherme Nunes](https://github.com/guilhermenunes25)
