@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Sudesh Sachintha](https://github.com/Sachintha-dev)
 - [Abhi Bhullar](https://github.com/userabhibhullar)
@@ -271,6 +271,7 @@ TJanz
 - [JayAyTee](https://github.com/JayAyTee)
 - [Santiago Rodriguez](https://github.com/santimars)
 - [DarkModeDevotee](https://github.com/DarkModeDevotee)
+- [AlfredPaguio](https://github.com/AlfredPaguio)
 - [Muhammed Faheem](https://github.com/faheem-cmd)
 - [Abhilash Mohanty]
 - [Denis Perevertov](https://github.com/denis-perevertov)
