@@ -96,6 +96,7 @@
 - [Faris Bazdar](https://github.com/Gilgameshgb-1)
 - [Andy Iyer](https://github.com/aiyervenkat)
 - [formido](https://github.com/PKS-formido)
+- [Anuron Dutta](https://github.com/AnuronDutta)
 - [Joseph Lawson](https://github.com/jlaws710)
 - [Jay Cole](https://github.com/3colej20)
 - [Keisuke Miura](https://github.com/behindthemac)
