@@ -1028,6 +1028,7 @@ TJanz
 - [José Arias Canto](https://github.com/joseearias)
 - [Godswill Omonkhodion](https://github.com/Owillz01)
 - [Sean Chua](https://github.com/SeansC12)
+- [Farook Khan](https://github.com/millfields99)
 - [Srajan Deo Jain](https://github.com/SrajanDJain)
 - [KRTechZen] (https://github.com/KRTechZen)
 - [Shashwat Pragya](https://github.com/shashwat183)
