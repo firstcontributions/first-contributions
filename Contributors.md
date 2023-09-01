@@ -54,6 +54,7 @@
 - [Dheeraj_Kumar_Bhaskar](https://github.com/dheerajkrbhaskar)
   [Dallas Freeman](https://github.com/dzfreem)
 - [Govind S Nair](https://github.com/g0v1ndN)
+- [Dawson Voth](https://github.com/dawsonvoth1)
 - [Agnes Olorundare](https://github.com/Agnes4Him)
 - [Rakesh-Ganneboina](https://github.com/rakeshganneboina)
 - [Amit Rana](https://github.com/HUMBLEF0OL)
