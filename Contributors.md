@@ -1573,6 +1573,7 @@ TJanz
 - [Brian Johnson](https://github.com/bjohnson360)
 - [Huukiet Kevin Huynh](https://github.com/hukkhuynh)
 - [Nguyen Minh Hieu](https://github.com/nm-hieu)
+- [Rajiv Paul](https://github.com/rajiv-paul)
 - [Mahfy3w]()
 - [yesiyuan] (https://github.com/sakura-ysy)
 - [nami773](https://github.com/nami773/)
