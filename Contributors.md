@@ -722,6 +722,7 @@ TJanz
 - [Liza Yemini](https://github.com/LizaYemini)
 - [Arun Rag](https://github.com/arunraghuram)
 - [Apoorv Srivastava](https://github.com/apoorv50)
+- [CentreMetre](https://github.com/CentreMetre)
 - [Clifford Mapesa](https://github.com/droffilc1)
 - [Nicholas Jarvis](https://github.com/Jarvis-04)
 - [Tarun Mankar](https://github.com/tarunmankar)
