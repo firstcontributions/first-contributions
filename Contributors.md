@@ -1108,6 +1108,7 @@ TJanz
 - [Srilakshmi Ramesh](https://github.com/srilaks001)
 - [incalescence](https://github.com/incalescence)
 - [Guillermo Velázquez Falcone](https://github.com/guilleVF)
+- [Daniel Harris](https://github.com/danh686)
 - [Jonathan Adithya](https://github.com/jo-adithya)
 - [Sage Writ](https://github.com/sagewrit)
 - [Sebastian W](https://github.com/sebastianwhyte)
