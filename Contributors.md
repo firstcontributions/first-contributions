@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [John Jomar Dimaunahan](https://github.com/DJohnJomar)
+- [Muhamad Firdaus Bin Mohd Razali](https://github.com/ausrazali)
 - [Sudesh Sachintha](https://github.com/Sachintha-dev)
 - [Bhavini Rathod] (https://github.com/rb2001)
 - [Abhi Bhullar](https://github.com/userabhibhullar)
