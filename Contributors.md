@@ -1558,6 +1558,7 @@ TJanz
 - [Sai Surya] (https://github.com/surya304)
 - Vino
 - [Jan Szymkiewicz](https://github.com/szymkjan)
+- [Michal Jachman](https://github.com/mjachman)
 - [Nurul Ihsan Hariz Pratama](https://github.com/nurihsan95)
 - [Mehmet Bacık](https://github.com/mehmetbacik)
 - [Anant Agarwal] (https://github.com/ThisMonkeysGoneToHeaven)
