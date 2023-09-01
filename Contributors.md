@@ -438,6 +438,7 @@ TJanz
 - [AlbertHoxha](https://github.com/alberthoxha)
 - [Johnny]
 - [Ocean Berlinghieri](https://github.com/OceanBerlinghieri)
+- [Anurag Yadav](https://github.com/harry427903)
 - [Isaias Cuvula]
 - [Awofiranye Sherif](https://github.com/iAmSherifCodes)
 - [Devang Yadav](https://github.com/DevangYv-999)
