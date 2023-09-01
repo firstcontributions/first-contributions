@@ -1319,6 +1319,7 @@ TJanz
 - [Kalu Agu Kalu](https://github.com/Godswilly)
 - [Harrison Molloy](https://github.com/harrisonmolloy)
 - [Shiv Prasad Sharma](https://github.com/spsharma16)
+- [Gsn Mithra](https://github.com/GsnMithra)
 - [Sergio Garcia](https://github.com/sgarciagallego)
 - [Hamza Jamshed](https://github.com/Sassyprogrammer1)
 - [Jack Buckley](https://github.com/jack-r-buckley/)
@@ -1652,4 +1653,3 @@ TJanz
 -[Super Villain]
 -[Byte-001] (https://github.com/Byte-001)
 -[Vijay KV](https://github.com/Vijaykv5)
-
