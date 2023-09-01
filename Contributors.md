@@ -1108,6 +1108,7 @@ TJanz
 - [Sebastian W](https://github.com/sebastianwhyte)
 - [Aditya Aggarwal](https://github.com/WhackyBoyg0d)
 - [Preshtha Garg](https://github.com/preshthagarg)
+- [Rohan Biswas](https://github.com/rohanpranto)
 - [Jon Oden](https://github.com/TheJonOden)
 - [Chirag Vadhavana](https://github.com/Ckm54)
 - [Daphne Lam](https://github.com/remnantsofred)
