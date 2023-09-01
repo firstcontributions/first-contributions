@@ -8,6 +8,7 @@
 - [Abhi Bhullar](https://github.com/userabhibhullar)
 - [Willy Wonka](https://github.com/massablaise)
 - [Kosumo] (https://github.com/masumo)
+- [Dorial Quintyne] (https://github.com/doriquinnn)
 - [Philip Newby] (https://github.com/pnewby060)
 - [Neel Contractor] (https://github.com/NeelContractor)
 - [Asiya](https://github.com/Asiyaa22)
@@ -1642,4 +1643,3 @@ TJanz
 -[Vikram Sai Simha] (https://github.com/paramzvik)
 -[Super Villain]
 -[Byte-001] (https://github.com/Byte-001)
-
