@@ -1552,6 +1552,7 @@ TJanz
 - [Yoloyoda](https://github.com/Yoloyoda)
 - [Shawn Wu](https://github.com/ShawnWu33)
 - [Sai Surya] (https://github.com/surya304)
+- Vino
 - [Jan Szymkiewicz](https://github.com/szymkjan)
 - [Nurul Ihsan Hariz Pratama](https://github.com/nurihsan95)
 - [Mehmet Bacık](https://github.com/mehmetbacik)
