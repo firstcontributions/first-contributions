@@ -96,6 +96,7 @@
 - [formido](https://github.com/PKS-formido)
 - [Joseph Lawson](https://github.com/jlaws710)
 - [Jay Cole](https://github.com/3colej20)
+- [Keisuke Miura](https://github.com/behindthemac)
 - [curlylemon](https://github.com/curlylemon)
 - [Diego Pavan](https://github.com/CrzYEs7)
 - [Pratap Singh Sisodia](https://github.com/prataps135)
