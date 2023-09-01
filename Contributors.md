@@ -663,6 +663,7 @@ TJanz
 - [Pi HZ](https://github.com/PHZ20040126)
 - [Ayush Goel](https://github.com/PHZ20040126)
 - [Jiseeeh](https://github.com/Jiseeeh)
+- [Brady Starling](https://github.com/Swingbiter)
 - [Matt De Vries](https://github.com/DeVriesMatt)
 - [Hargovind Singh](https://github.com/GovindProMax)
 - [Jason Wilson](https://github.com/WilsonJhub)
