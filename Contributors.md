@@ -696,6 +696,7 @@ TJanz
 - [Connor Rokos](https://github.com/c-rokos)
 - [Awais Ahmad](https://github.com/IMAWAISAHMAD)
 - [Patrick Zeitlmayr](https://github.com/PatrickZe)
+- [Patrick Ha](https://github.com/patrickha55)
 - [Abhijeet Das Gupta](https://github.com/abhijelly)
 - [Anika Roy](https://github.com/Anika-Roy)
 - [Ebenezer Akhonya](https://github.com/Itsfoss0)
