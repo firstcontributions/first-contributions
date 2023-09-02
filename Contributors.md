@@ -856,6 +856,7 @@ TJanz
 - [Sadeed-pv](https://Github.com/Sadeedpv)
 - [Kartikeya Agate](https://github.com/agatekartik)
 - [Pawan]
+- [Priscila Caruso](https://github.com/priscaruso)
 - [Emanuel181](https://github.com/Emanuel181)
 - [Nikola Golubović](https://github.com/NikolaGolubovic)
 - [Aakriti Malla](https://github.com/Aakriti-malla)
