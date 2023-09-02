@@ -154,6 +154,7 @@
 - FranciscoFB7
 - [EDEXADE](https://github.com/404)
 - [LIELB](https://github.com/lielbidago)
+- [GILLES ADJROLOH](https://github.com/GillesAdjroloh9)
 - [Doug Bostick](https://github.com/dougbostick)
 - [Jesus  Rivas](https://github.com/jesuswrivas)
 - [Darambazar Naranbaatar](https://github.com/Darmaa-YoLo)
