@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [John Jomar Dimaunahan](https://github.com/DJohnJomar)
 - [Muhamad Firdaus Bin Mohd Razali](https://github.com/ausrazali)
@@ -1660,4 +1660,4 @@ TJanz
 -[Byte-001] (https://github.com/Byte-001)
 -[Farras El-Fahd](https://github.com/farraselfahd)
 -[Vijay KV](https://github.com/Vijaykv5)
-
+-[Carlo Inserra](https://github.com/Carleoinserra)
