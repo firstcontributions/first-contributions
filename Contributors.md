@@ -1597,6 +1597,7 @@ TJanz
 - [Ritch Johan Jefferson](https://github.com/jeffersonfed)
 - [Ross Woods](https://github.com/RossCWoods)
 - [DS-X1](https://github.com/DS-X1)
+- [Nilendra Singh]
 - [Ethan Eckert](https://github.com/eth9n-dev)
 - [Mike Manoti Nyambega](https://github.com/manotim)
 - [Aadith Lasar](https://github.com/aadithlasar)
@@ -1663,4 +1664,5 @@ TJanz
 -[Farras El-Fahd](https://github.com/farraselfahd)
 -[Vijay KV](https://github.com/Vijaykv5)
 - [Anurag]
+
 
