@@ -190,6 +190,7 @@
 - [Pixel Bit](https://github.com/Mproot)
 - [Abdullah Sulaiman](https://github.com/CodeMage-x)
 - [Muhammad Usman](https://github.com/MuhammadUsman15/first-contributions)
+- [Mohammed Sajid](https://github.com/sajid-31/first-contributions)
 - [Shawn Stanley](https://github.com/shawnstanley123/first-contributions)
 - [Marquis Sampson](https://github.com/Marquis4484/first-contributions)
 - [Saniket More](https://github.com/saniketmore)
