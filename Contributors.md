@@ -4,6 +4,7 @@
 - [Muhamad Firdaus Bin Mohd Razali](https://github.com/ausrazali)
 - [Yashwanth B M](https://github.com/yashwanth-gh/)
 - [Sudesh Sachintha](https://github.com/Sachintha-dev)
+- [Madhur Aggarwal](https://github.com/MadhurAggarwal)
 - [Bhavini Rathod] (https://github.com/rb2001)
 - [Dileep K] (https://github.com/dileepk706)
 - [Abhi Bhullar](https://github.com/userabhibhullar)
