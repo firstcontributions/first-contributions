@@ -146,6 +146,7 @@
 - [Sanjeev Kumar Sahoo](https://github.com/sanjeevkumar321)
 - [Viraj Parikh](https://github.com/VirajYParikh)
 - [Rajeswari Kuppusamy](https://github.com/rajeswarikuppusamy18)
+- [Divyanshu Bansal](https://github.com/MistyDragon7)
 - FranciscoFB7
 - [EDEXADE](https://github.com/404)
 - [LIELB](https://github.com/lielbidago)
