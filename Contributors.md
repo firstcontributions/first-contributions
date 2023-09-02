@@ -553,6 +553,7 @@ TJanz
 - [Abisola Oluwaseun Olayinka](https://github.com/Abisola-O)
 - [Baljapalli Anshul](https://github.com/AnshulBaljapalli)
 - [Vansh Arora](https://github.com/vansharora03)
+- [Wes Davis] (https://github.com/lbcwes86)
 - [Rohit Tokala](https://github.com/rtokala14)
 - [Utkarsh Jambhulkar](https://github.com/U-J-007)
 - [Febin Nelson P](https://github.com/fbn776)
