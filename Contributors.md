@@ -16,6 +16,7 @@
 - [Neel Contractor] (https://github.com/NeelContractor)
 - [Asiya](https://github.com/Asiyaa22)
 - [Isabell Luo] (https://github.com/117Isabell)
+- [Noel Young] (git@github.com:noeljyoung)
 - [Carlos Guerrero] (https://github.com/carlosguealv)
 - [Zhiyuan](https://github.com/Zhiyuan-Jerry-Yang)
 - [Harpreet Singh Sahota](https://github.com/happysahota)
