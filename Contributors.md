@@ -1658,6 +1658,7 @@ TJanz
 -[Priyanshu Mishra] (https://github.com/dev-Priyanshu07)
 -[laariane](https://github.com/laariane/)
 -[Saanidhya Singh](https://github.com/Saani765)
+-[jerapepe](https://github.com/jerapepe)
 -[July-Fang2000](https://github.com/July-Fang2000)
 -[Nicholas Ndolo](https://github.com/nicholasndolo)
 -[Soap Opera](https://github.com/soapopera12)
