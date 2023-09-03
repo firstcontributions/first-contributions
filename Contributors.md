@@ -1684,6 +1684,7 @@
 - [Cemus](https://github.com/Cemus)
 - [franxxu] (https://github.com/franxxu)
 - [RiddlemanMVP] (https://github.com/RiddlemanMVP)
+- [Vigneshwaran](https://github.com/neshvig10)
 - [Malewoo Eli](https://github.com/Malewooo16)
 - [janjarobo](https://github.com/janjarobo)
 - [Simardeep Singh](https://github.com/SimardeepSingh-zsh)
