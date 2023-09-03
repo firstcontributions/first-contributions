@@ -1374,6 +1374,7 @@ TJanz
 - [Shruti Gupta](https://github.com/shrutiiigupta)
 - [Wises Kesom](https://github.com/bztoy)
 - [mdelrosa](https://github.com/mdelrosa)
+- [Ken Laurence Martinez](https://github.com/Kennn69420)
 - [Dimple Jain](https://github.com/dimplehoney)
 - [Yogesh G](https://github.com/yogeshgunasekaran)
 - [imjacobtw](https://github.com/imjacobtw)
