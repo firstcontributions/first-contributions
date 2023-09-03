@@ -185,6 +185,7 @@
 - [Meet Merchant](https://github.com/meetmerchant)
 - [David Bright](https://github.com/davebiddy/)
 - [Cassandra](https://github.com/codingcass)
+- [Arne Rief](https://github.com/Arrief)
 - [Akash Raj](https://github.com/akashroshiv)
 - [Arpit Goswami](https://github.com/arpitgoswami)
 - [Christopher Semler](https://github.com/SEM7AC)
