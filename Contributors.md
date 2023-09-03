@@ -1644,6 +1644,7 @@
 - [krushna_nanda](https://github.com/Krushna-Nanda)
 - [Eric Huang](https://github.com/erich2s)
 - [sean85120] (https://github.com/sean85120)
+- [Hernani Domingo](https://github.com/domingohernani)
 - [Eric Huang](https://github.com/erich2s)
 - [黄士崧](https://github.com/erich2s)
 - [Marco] (https://github.com/mrk-qa)
