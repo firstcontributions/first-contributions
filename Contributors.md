@@ -719,6 +719,7 @@
 - [Neeltyper001](https://github.com/Neeltyper001/)
 - [Coup3z-pixel](https://github.com/Coup3z-pixel)
 - [The Gaming Warlord](github.com/Kyoshi7)
+- [stornev] (https://github.com/stornev)
 - [bjp9527](github.com/bjp9527)
 - [Aravindraj Ganesan](https://github.com/Aravindraj27)
 - [Ayush Goel](https://github.com/goelayush89)
