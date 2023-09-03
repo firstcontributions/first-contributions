@@ -5,6 +5,7 @@
 - [John Jomar Dimaunahan](https://github.com/DJohnJomar)
 - [Muhamad Firdaus Bin Mohd Razali](https://github.com/ausrazali)
 - [Yashwanth B M](https://github.com/yashwanth-gh/)
+- [Rohan Chauhan](https://github.com/rA9k)
 - [Sudesh Sachintha](https://github.com/Sachintha-dev)
 - [Judy Ann Flores](https://github.com/JudyAPF)
 - [Madhur Aggarwal](https://github.com/MadhurAggarwal)
