@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [xiunian](https://xiunian.github.io)
+- [Anand-Vardhan-Shekhar](https://github.com/anandvardhan09)
 - [Nicholas-Garbutt](https://github.com/Nicholas-Garbutt)
 - [John Jomar Dimaunahan](https://github.com/DJohnJomar)
 - [Muhamad Firdaus Bin Mohd Razali](https://github.com/ausrazali)
