@@ -119,6 +119,7 @@
 - [Jay Cole](https://github.com/3colej20)
 - [Keisuke Miura](https://github.com/behindthemac)
 - [curlylemon](https://github.com/curlylemon)
+- [Nulzn](https://github.com/Nulzn)
 - [Diego Pavan](https://github.com/CrzYEs7)
 - [Pratap Singh Sisodia](https://github.com/prataps135)
 - [Jo Galeon](https://github.com/jogaleon)
