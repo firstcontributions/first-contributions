@@ -130,6 +130,7 @@
 - [Nulzn](https://github.com/Nulzn)
 - [Diego Pavan](https://github.com/CrzYEs7)
 - [Pratap Singh Sisodia](https://github.com/prataps135)
+- [Esteban Block](https://github.com/NoNameNeeded4now)
 - [Jo Galeon](https://github.com/jogaleon)
 - [Amit singh](https://github.com/technicalamit8055)
   [rivera]
