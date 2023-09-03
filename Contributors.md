@@ -21,6 +21,7 @@
 - [Gustavo Passarella] (https://github.com/Gunnar50)
 - [Philip Newby] (https://github.com/pnewby060)
 - [Neel Contractor] (https://github.com/NeelContractor)
+- [Vasco Ceti] (https://github.com/elperez365)
 - [Asiya](https://github.com/Asiyaa22)
 - [Isabell Luo] (https://github.com/117Isabell)
 - [Noel Young] (git@github.com:noeljyoung)
