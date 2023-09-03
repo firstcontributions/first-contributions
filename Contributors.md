@@ -2,6 +2,7 @@
 - [nupoor kedare](https://github.com/nupoorkedare2002)
 - [Josh H](https://github.com/GoodGuyHeffy)
 - [xiunian](https://xiunian.github.io)
+- [Trustbycode] (https://github.com/trustbycode/)
 - [Anand-Vardhan-Shekhar](https://github.com/anandvardhan09)
 - [Nicholas-Garbutt](https://github.com/Nicholas-Garbutt)
 - [John Jomar Dimaunahan](https://github.com/DJohnJomar)
