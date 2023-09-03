@@ -6,39 +6,39 @@
 
 # Il primo contributo
 
-È dura. È sempre difficile fare qualcosa per la prima volta. Specialmente quando si sta collaborando, sbagliare ci mette a disagio. Ma l'open source si basa sulla collaborazione e sul lavorare insieme. Pertanto volevamo semplificare il modo in cui i nuovi collaboratori imparano e contribuiscono per la prima volta a progetti open-source.
+Questo progetto punta a semplificare e guidare il modo in cui i neofiti realizzano i loro primi contributi. Se stai cercando di dare il tuo primo contributo, segui i passi elencati qui sotto.
 
-Leggere articoli e guardare tutorial può essere utile, ma cosa c'è di meglio che provare a fare effettivamente le cose sul campo? Questo progetto punta ad essere una guida per i meno esperti. Ricorda: più sei rilassato, meglio imparerai. Se vuoi contribuire per la prima volta, segui i semplici passi elencati qui sotto. Ti promettiamo che sarà divertente.
+_Se non ti senti a tuo agio con la linea di comando, [qui ci sono tutorials che utilizzano strumenti con interfaccia grafia.](#tutorials-using-other-tools)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Se non hai git sul tuo computer, [installalo]( https://help.github.com/articles/set-up-git/).
+#### Se non hai git sul tuo computer, [installalo](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
-## Forka questa repository
+## Crea un fork di questo repository
 
-Forka questa _repo_ (abbreviazione di _repository_, ossia una cartella) cliccando sul bottone **_fork_** in cima alla pagina.
-Questo creerà una copia di questa repository nel tuo account.
+Crea un fork di questo _repo_ (abbreviazione di _repository_, ossia una cartella) cliccando sul bottone _fork_ in cima alla pagina.
+Questo creerà una copia di questo repository nel tuo account.
 
-## Scarica la repository
+## Clona il repository
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Ora scarica (*clone*) questa repo nel tuo computer. Clicca sul pulsante per scaricare e poi copia l'url.
+Ora clona questo repo nel tuo computer. Vai sul tuo account GitHub, apri il repository di cui hai creato il fork, clicca sul pulsante _code_ e poi clicca l'icona _copy to clipboard_ .
 
 Apri il terminale e lancia il seguente comando:
 
 ```
 git clone "url appena copiato"
 ```
-dove "url appena copiato" (senza le virgolette) è l'url di questa repository. Leggi i passaggi precedenti per ottenere l'url.
+dove "url appena copiato" (senza le virgolette) è l'url di questo repository. Leggi i passaggi precedenti per ottenere l'url.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Per esempio:
 ```
-git clone https://github.com/questo-sei-tu/first-contributions.git
+git clone git@github.com:questo-sei-tu/first-contributions.git
 ```
-dove `questo-sei-tu` è il tuo username GitHub. Qui stai copiando il contenuto della repository da GitHub al tuo computer.
+dove `questo-sei-tu` è il tuo username GitHub. Qui stai copiando il contenuto del repository da GitHub al tuo computer.
 
 ## Crea un ramo (*Branch*)
 
@@ -47,38 +47,42 @@ Entra nella directory della repository (se non lo hai già fatto):
 ```
 cd first-contributions
 ```
-Ora crea un ramo (*branch*) usando il comando `git checkout -b`:
+Ora crea un ramo (*branch*) usando il comando `git switch`:
 ```
-git checkout -b <aggiungi-il-tuo-nome>
+git switch -c nome-del-nuovo-branch
 ```
 
 Ad esempio:
 ```
-git checkout -b aggiungi-alonzo-church
+git switch -c aggiungi-alonzo-church
 ```
-(Non è necessario inserire la parola *aggiungi* nel nome del branch, ma in questo caso è ragionevole includerlo poiché lo scopo di questo branch è aggiungere il tuo nome alla lista. 
-Lo scopo di nominare un branch è descrivere le modifiche che andremo ad effettuare, il nome deve essere quindi descrittivo e non generale per facilitare il team con cui si collabora.)
 
 ## Fai le modifiche necessarie e crea un commit
 
-Ora apri il file `Contributors.md` in un editor, inserisci il tuo nome. Non aggiungerlo all'inizio o alla fine del file ma in un qualsiasi punto nel mezzo. Ora salva il file. Se vai nella directory del progetto ed esegui il comando `git status`, vedrai quali sono i cambiamenti. Aggiungi le modifiche al branch appena creato usando il comando `git add`:
+Ora apri il file `Contributors.md` in un editor di testo, inserisci il tuo nome. Non aggiungerlo all'inizio o alla fine del file. Inseriscilo in un qualsiasi punto nel mezzo. Ora, salva il file. 
+
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+
+Se vai nella directory del progetto ed esegui il comando `git status`, vedrai che ci sono delle modifiche. 
+
+Aggiungi queste modifiche al branch appena creato usando il comando `git add`:
 ```
 git add Contributors.md
 ```
 
-Crea ora una commit che includa le modifiche da te fatte, usando `git commit`:
+Crea ora un commit, che includa le modifiche da te fatte, usando il comando `git commit`:
 ```
-git commit -m "Add <il-tuo-nome> to Contributors list"
+git commit -m "Add il-tuo-nome to Contributors list"
 ```
-cambiando `<il-tuo-nome>` con il tuo nome.
+sostituendo `il-tuo-nome` con il tuo nome.
 
 ## Invia (*Push*) le modifiche a GitHub
 
 Invia (*push*) le tue modifiche con il comando `git push`:
 ```
-git push origin <aggiungi-il-tuo-nome>
+git push -u origin il-tuo-branch
 ```
-sostituendo `<aggiungi-il-tuo-nome>` con il nome del branch creato prima.
+sostituendo `il-tuo-branch` con il nome del branch creato prima.
 
 ## Invia i tuoi cambiamenti per una revisione
 
@@ -92,9 +96,42 @@ Ora invia la pull request.
 
 Presto avrò incorporato (*merge*) tutti i tuoi cambiamenti nel master branch di questo progetto. Ti arriverà una mail di notifica una volta che le modifiche saranno state accettate.
 
-### [ Prossimi passi ](../additional-material/git_workflow_scenarios/additional-material.md)
+<details>
+<summary> <strong>Se dovessi avere degli errore durante l'invio delle modifiche (*push*), clicca qui:</strong> </summary>
 
-## Tutorial usando altri tool
+- ### Errori di autenticazione
+     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  Vai a [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) per generare e configurare una chiave SSH per il tuo account.
+
+</details>
+
+## Invia le tue modifiche per la revisione
+
+Se vai nel tuo repository su GitHub, vedrai un pulsante con scritto `Compare & pull request` . Clicca su quel bottone.
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+
+Ora invia la richiesta (*pull request*).
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+
+A breve unirò tutte le tue modifiche nel ramo principale di questo progetto. Riceverai una notifica via email una volta che i cambiamenti saranno stati uniti.
+
+## Da qui, cosa si può fare?
+
+Congratulazioni! Hai appena completato il workflow standard _fork -> clone -> edit -> pull request_ che incontrerai spesso come contributore!
+
+Celebra il tuo contributo e condividilo con i tuoi amici e followers sulla [web app](https://firstcontributions.github.io/#social-share).
+
+Puoi unirti al nostro gruppo slack se ti dovesse servire aiuto o se dovessi avere qualsiasi domanda. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w).
+
+Inizia ora a contribuire ad altri progetti. Abbiamo compilato una lista di progetti con facili problemi (*issues*) da cui puoi iniziare. Controlla [la lista di progetti nella web app](https://firstcontributions.github.io/#project-list).
+
+### [Materiali aggiuntivi](additional-material/git_workflow_scenarios/additional-material.md)
+
+## Tutorial usando altri strumenti
 
 | <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | --- | --- | --- | --- | --- | --- |
