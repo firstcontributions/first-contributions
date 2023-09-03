@@ -504,6 +504,7 @@
 - [Ujjwal Goyal](https://github.com/madhurgoyal19)
 - [Dhruvabhat24](https://github.com/Dhruvabhat24)
 - [Dane Becker](https://github.com/DaneBex)
+- [Matteo Cusin](https://github.com/MatteoCus)
 - [Aleks_Lucenko](https://github.com/alekslucenko)
 - [Brijesh Roy](https://github.com/brijeshroy)
 - [Moncef Meharzi](https://github.com/Moncef-Mhz)
