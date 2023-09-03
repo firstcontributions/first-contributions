@@ -1681,6 +1681,7 @@
 - [monisha-82] (https://github.com/monisha-82)
 - [franxxu] (https://github.com/franxxu)
 - [RiddlemanMVP] (https://github.com/RiddlemanMVP)
+- [Sergey Rudenko](https://github.com/der-fanatiker)
 - [Deepak Sah](https://github.com/deepakkumar1983) 
 - [Tareef Iman](https://github.com/TareefIman)
 - [Lai Yu-Chiao](https://github.com/joelai0101)
