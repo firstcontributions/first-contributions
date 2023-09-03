@@ -77,6 +77,7 @@
 - [Dallas Freeman](https://github.com/dzfreem)
 - [Fr3nchTony](https://github.com/Fr3nchTony)
 - [Govind S Nair](https://github.com/g0v1ndN)
+- [Barkha Yadav](https://github.com/barkhayadav12)
 - [Dawson Voth](https://github.com/dawsonvoth1)
 - [Agnes Olorundare](https://github.com/Agnes4Him)
 - [Rakesh-Ganneboina](https://github.com/rakeshganneboina)
