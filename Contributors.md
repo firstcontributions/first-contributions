@@ -997,6 +997,7 @@
 - [Sam Ahsan](https://github.com/purpup)
 - [Abhishek Mahalunge](https://github.com/ABHISHEKMAHALUNGE)
 - [Akash Jaiswal](https://github.com/akashjaiswal797112)
+- [Verocayden](https://github.com/Verocayden)
 - [VineBoomSoundEffect](https://github.com/VineBoomSoundEffect)
 - [Farlen Ureña](https://github.com/FarlenUrena)
 - [James Barry](https://github.com/jim-jbarry)
