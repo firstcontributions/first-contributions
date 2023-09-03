@@ -1693,6 +1693,7 @@ TJanz
 -[Farras El-Fahd](https://github.com/farraselfahd)
 -[Vijay KV](https://github.com/Vijaykv5)
 - [Anurag]
+- [Brynn Andrew] (https://github.com/brynnandrew/)
 -[Huy Hoang Minh Cu](https://github.com/CuHuyHoangMinh)
 -[tokyo4j](https://github.com/tokyo4j)
 - [Yusuf Corlu](https://github.com/yusuf-corlu)
