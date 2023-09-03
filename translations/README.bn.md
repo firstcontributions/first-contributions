@@ -93,6 +93,19 @@ git push origin -u <your-new-branch-name>
 
 এক্ষেত্রে `<your-new-branch-name>`-এর বদলে পূর্বে আপনার তৈরি ব্রাঞ্চের নাম লিখুন।
 
+<details>
+<summary> <strong>পুশ করতে সমস্যা হলে এখানে ক্লিক করুন:</strong> </summary>
+
+- ### অথ্যানটিকেশনে সমস্যা
+     <pre>remote: পাসওয়ার্ড অথ্যানটিকেশনের সাপোর্ট আগস্ট ১৩, ২০২১ থেকে আর নেই। Personal access token ব্যাবহার করুন।
+  remote: https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ তে আরো তথ্য পাবেন।
+  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) এ আপনার একাউন্টে SSH key generation এবং configuration
+  এর আরো তথ্য পাবেন।
+
+</details>
+
+
 ## রিভিউয়ের জন্য আপনার পরিবর্তনগুলো জমা দিন
 
 আপনার গিটহাব রিপোজিটরিতে `Compare & pull request` বাটনে ক্লিক করুন।
