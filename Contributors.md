@@ -1683,6 +1683,7 @@
 - [Cemus](https://github.com/Cemus)
 - [franxxu] (https://github.com/franxxu)
 - [RiddlemanMVP] (https://github.com/RiddlemanMVP)
+- [Simardeep Singh](https://github.com/SimardeepSingh-zsh)
 - [Sebastian Barison](https://github.com/Sbarison)
 - [Evan Glaze](https://github.com/The-Angry-Bagel)
 - ming3
