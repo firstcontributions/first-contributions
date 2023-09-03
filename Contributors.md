@@ -1691,6 +1691,7 @@
 - [Monsef123](https://github.com/monsef123)
 - [KislayaSrivastava](https://github.com/KislayaSrivastava)
 - [Phan Thanh Nghia](https://github.com/nghiaphan177)
+- [Willie M. Bonavente](https://github.com/williebonavente)
 - [Vikram Sai Simha] (https://github.com/paramzvik)
 - [Byte-001] (https://github.com/Byte-001)
 - [Abhinav Roy](https://github.com/Drake0306)
