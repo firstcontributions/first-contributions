@@ -21,7 +21,9 @@
 - [Gustavo Passarella] (https://github.com/Gunnar50)
 - [Philip Newby] (https://github.com/pnewby060)
 - [Neel Contractor] (https://github.com/NeelContractor)
+- [Vasco Ceti] (https://github.com/elperez365)
 - [Asiya](https://github.com/Asiyaa22)
+- psuuc-mvgo
 - [Isabell Luo] (https://github.com/117Isabell)
 - [Noel Young] (git@github.com:noeljyoung)
 - [Carlos Guerrero] (https://github.com/carlosguealv)
@@ -437,6 +439,7 @@ TJanz
 - [Umesh Savaliya](https://github.com/Umesh-WW)
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
 - [Chris Nieves](https://github.com/nievescs20)
+- [Harunur Rashid](https://github.com/harunBdtask)
 - [Divyasri Makineni]
 - [Shivam Rajput]
 - [Parthiv Parmar](https://github.com/parthiv011)
@@ -548,6 +551,7 @@ TJanz
 - [Anuj Kumar Karmakar](https://github.com/anujkkarmakar)
 - [ElectroGamesDev](https://github.com/ElectroGamesDev)
 - [Angel Umeh](https://github.com/akcumeh)
+- [Mehran Faraji](https://github.com/mehranfaraji)
 - [Nayan Jyoti Das](https://github.com/njdasa)
 - [Script Doodle](https://github.com/script-doodle)
 - [Anthony Capecci](https://github.com/AnthonyCap13)
@@ -1688,9 +1692,10 @@ TJanz
 - [Anurag]
 -[Huy Hoang Minh Cu](https://github.com/CuHuyHoangMinh)
 -[tokyo4j](https://github.com/tokyo4j)
--[Isaaiah Clifford Opoku](https://github.com/Clifftech123)
+--[Isaaiah Clifford Opoku](https://github.com/Clifftech123)
 -[JamesfSmith](https://github.com/Jfsmith7125)
 -[Anh Duong](https://github.com/anhskrttt)
+-[Eshita Ojha](https://github.com/XXeshitaXX)
+-[Joshua Zhang](https://github.com/Teddygat0r)
 -[Binks123](https://github.com/Binks123)
-
 
