@@ -539,6 +539,7 @@
 - [Abhijit Pandey](https://github.com/ha-bhai-noob-hoon)
 - [Samrat Dutta](https://github.com/thecandylane)
 - [Summer Babel](https://github.com/sumerbabel)
+  [Nils Dev] (https://github.com/nilsDev)
 - [Amit Kumar](https://github.com/amitthecoder)
 - [almostJohn](https://github.com/almostJohn)
 - [Joel Tomy](https://github.com/joeljtomy)
