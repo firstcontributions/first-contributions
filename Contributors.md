@@ -1518,6 +1518,7 @@
 - [hawkingwallct](https://github.com/hawkingwallct)
 - [Flyaway](https://github.com/kayua27)
 - Aaditya Singh
+- [Mathew 'Jason' Jeong](http://github.com/kimchieater)
 - Laurens Himself
 - [Eyal-Haimov](htpps://github.com/blindka)
 - [Art Villareal](https://github.com/Bushido-Art)
