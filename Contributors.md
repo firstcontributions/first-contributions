@@ -1625,6 +1625,7 @@
 - [Ritch Johan Jefferson](https://github.com/jeffersonfed)
 - [Ross Woods](https://github.com/RossCWoods)
 - [DS-X1](https://github.com/DS-X1)
+- [Nilendra Singh]
 - [Ethan Eckert](https://github.com/eth9n-dev)
 - [Mike Manoti Nyambega](https://github.com/manotim)
 - [Aadith Lasar](https://github.com/aadithlasar)
@@ -1706,4 +1707,5 @@
 -[Eshita Ojha](https://github.com/XXeshitaXX)
 -[Joshua Zhang](https://github.com/Teddygat0r)
 -[Binks123](https://github.com/Binks123)
+
 
