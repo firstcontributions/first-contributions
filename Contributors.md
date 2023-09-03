@@ -68,6 +68,8 @@
 - [Vivek Kumar] (https://github.com/vickvey)
 - [Chen Zhang](https://github.com/leviosacz)
 - [Aryaman](https://github.com/SilianRail)
+- [Joost](https://github.com/jvdputten)
+- [Joost-2](https://github.com/jvdputten)
 - [Dheeraj_Kumar_Bhaskar](https://github.com/dheerajkrbhaskar)
 - [Dallas Freeman](https://github.com/dzfreem)
 - [Fr3nchTony](https://github.com/Fr3nchTony)
