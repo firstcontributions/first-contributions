@@ -1519,6 +1519,7 @@
 - [cweitong](https://github.com/cwt0213)
 - [hawkingwallct](https://github.com/hawkingwallct)
 - [Flyaway](https://github.com/kayua27)
+- Tochiahan
 - Aaditya Singh
 - [Mathew 'Jason' Jeong](http://github.com/kimchieater)
 - Laurens Himself
