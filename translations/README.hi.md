@@ -114,7 +114,7 @@ git push origin <अपनी-शाखा-का-नाम-जोड़ें>
 
 अपने पहले योगदान की खुशी में जश्न मनाएं तथा इसे [वेब एप्प](https://firstcontributions.github.io/#social-share) के जरिये अपने मित्रों के साथ शेयर करें। 
 
-आप हमारी स्लैक टीम को ज्वाइन कर सकते हैं यदि आपको कुछ मदद चाहिए या आपके कोई प्रश्न हों । [स्लैक पे ज्वाइन करें](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
+आप हमारी स्लैक टीम को ज्वाइन कर सकते हैं यदि आपको कुछ मदद चाहिए या आपके कोई प्रश्न हों । [स्लैक पे ज्वाइन करें](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w)
 
 अब आप अन्य प्रोजेक्ट्स पर योगदान कर सकते हैं, तो चलिए शुरू करते हैं! हमने आपके लिए एक प्रोजेक्ट्स की सूचि तैयार की है जहाँ सरल इश्यूज हैं । आप चाहें तो वहाँ से आरम्भ कर सकते हैं । [प्रोजेक्ट्स कि लिस्ट](https://firstcontributions.github.io/#project-list)
 
