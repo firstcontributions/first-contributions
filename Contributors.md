@@ -1,14 +1,18 @@
 ﻿# Contributors
 
 - [xiunian](https://xiunian.github.io)
+- [Anand-Vardhan-Shekhar](https://github.com/anandvardhan09)
 - [Nicholas-Garbutt](https://github.com/Nicholas-Garbutt)
 - [John Jomar Dimaunahan](https://github.com/DJohnJomar)
 - [Muhamad Firdaus Bin Mohd Razali](https://github.com/ausrazali)
 - [Yashwanth B M](https://github.com/yashwanth-gh/)
+- [Rohan Chauhan](https://github.com/rA9k)
+- [Joanna Marie Areniego](https://github.com/JoannaMarieAreniego)
 - [Sudesh Sachintha](https://github.com/Sachintha-dev)
 - [Judy Ann Flores](https://github.com/JudyAPF)
 - [Madhur Aggarwal](https://github.com/MadhurAggarwal)
 - [Bhavini Rathod] (https://github.com/rb2001)
+- [Chyunjet] (https://github.com/Jetyun)
 - [Dileep K] (https://github.com/dileepk706)
 - [Abhi Bhullar](https://github.com/userabhibhullar)
 -[Efon God'stime](https://github.com/efongodstime)
@@ -19,7 +23,9 @@
 - [Gustavo Passarella] (https://github.com/Gunnar50)
 - [Philip Newby] (https://github.com/pnewby060)
 - [Neel Contractor] (https://github.com/NeelContractor)
+- [Vasco Ceti] (https://github.com/elperez365)
 - [Asiya](https://github.com/Asiyaa22)
+- psuuc-mvgo
 - [Isabell Luo] (https://github.com/117Isabell)
 - [Noel Young] (git@github.com:noeljyoung)
 - [Carlos Guerrero] (https://github.com/carlosguealv)
@@ -76,6 +82,7 @@
 - [Agnik Bakshi](https://github.com/Agnik7)
 - [Shashank Dutt](https://github.com/shashankduttmr)
 - [Rodrigo_Souza](https://github.com/rmartinsdesouza)
+- [Johar Khan](https://github.com/joharkhan99)
 - [Ajay](https://github.com/ajay-k12)
 - [Daniel] (https://github.com/dcgran)
 - [mohamed] (...)
@@ -116,6 +123,7 @@
 - [Pratap Singh Sisodia](https://github.com/prataps135)
 - [Jo Galeon](https://github.com/jogaleon)
 - [Amit singh](https://github.com/technicalamit8055)
+  [rivera]
 - [John Ly] (https://github.com/johnly17)
 - [CJ Bauzon](https://github.com/cbauzon)
 - [Enikuomehin David](https://github.com/eniiku)
@@ -148,6 +156,7 @@
 - [Khairunnisa](https://github.com/khairnsaa)
 - [Chantal Chicheko](https://github.com/mademoiselle-chantal)
 - [Nabina Mallik](https://github.com/nabinamallik)
+- [Abdulsalam Baruwa](https://github.com/dmystical-coder)
 - [Aditya Sagave](https://github.com/AdityaSagave)
 - [Jaroslav Světlík](https://github.com/Landerik2909)
 - [Gabriel Vera](https://github.com/uhhhgabe)
@@ -433,6 +442,7 @@ TJanz
 - [Umesh Savaliya](https://github.com/Umesh-WW)
 - [JoshuaMarkle](https://github.com/JoshuaMarkle)
 - [Chris Nieves](https://github.com/nievescs20)
+- [Harunur Rashid](https://github.com/harunBdtask)
 - [Divyasri Makineni]
 - [Shivam Rajput]
 - [Parthiv Parmar](https://github.com/parthiv011)
@@ -544,6 +554,7 @@ TJanz
 - [Anuj Kumar Karmakar](https://github.com/anujkkarmakar)
 - [ElectroGamesDev](https://github.com/ElectroGamesDev)
 - [Angel Umeh](https://github.com/akcumeh)
+- [Mehran Faraji](https://github.com/mehranfaraji)
 - [Nayan Jyoti Das](https://github.com/njdasa)
 - [Script Doodle](https://github.com/script-doodle)
 - [Anthony Capecci](https://github.com/AnthonyCap13)
@@ -1596,6 +1607,7 @@ TJanz
 - [Mustafa](https://github.com/envoydead7)
 - [Yoloyoda](https://github.com/Yoloyoda)
 - [Shawn Wu](https://github.com/ShawnWu33)
+- [Donn Jayson Quinto] (https://github.com/dawnj26)
 - [Sai Surya] (https://github.com/surya304)
 - Vino
 - [Jan Szymkiewicz](https://github.com/szymkjan)
@@ -1683,7 +1695,11 @@ TJanz
 - [Anurag]
 -[Huy Hoang Minh Cu](https://github.com/CuHuyHoangMinh)
 -[tokyo4j](https://github.com/tokyo4j)
--[Isaaiah Clifford Opoku](https://github.com/Clifftech123)
+--[Isaaiah Clifford Opoku](https://github.com/Clifftech123)
 -[JamesfSmith](https://github.com/Jfsmith7125)
 -[Anh Duong](https://github.com/anhskrttt)
--[Joy Boy] (https://github.com/joyboyid)
+- [Joy Boy](https://github.com/joyboyid)
+-[Eshita Ojha](https://github.com/XXeshitaXX)
+-[Joshua Zhang](https://github.com/Teddygat0r)
+-[Binks123](https://github.com/Binks123)
+
