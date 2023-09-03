@@ -573,6 +573,7 @@
 - [Ahmad Hassan](https://github.com/MrAhmadHassan)
 - [Dilmurod Abdusamadov](https://github.com/thisisdilmurod)
 - [jdszekeres](https://github.com/jdszekeres)
+- [Tung Le Thanh](https://github.com/tung-le)
 - [Anuj Kumar Karmakar](https://github.com/anujkkarmakar)
 - [ElectroGamesDev](https://github.com/ElectroGamesDev)
 - [Angel Umeh](https://github.com/akcumeh)
