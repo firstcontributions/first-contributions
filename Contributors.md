@@ -155,6 +155,7 @@
 - [Khairunnisa](https://github.com/khairnsaa)
 - [Chantal Chicheko](https://github.com/mademoiselle-chantal)
 - [Nabina Mallik](https://github.com/nabinamallik)
+- [Abdulsalam Baruwa](https://github.com/dmystical-coder)
 - [Aditya Sagave](https://github.com/AdityaSagave)
 - [Jaroslav Světlík](https://github.com/Landerik2909)
 - [Gabriel Vera](https://github.com/uhhhgabe)
