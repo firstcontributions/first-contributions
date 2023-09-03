@@ -94,6 +94,7 @@
 - [Johar Khan](https://github.com/joharkhan99)
 - [Ajay](https://github.com/ajay-k12)
 - [Daniel] (https://github.com/dcgran)
+- [gaagly] (I have added this data using termux on android)
 - [mohamed] (...)
 - [Omar] (https://github.com/Omarr-kh)
 - [ronnelg](https://github.com/ronzron)
