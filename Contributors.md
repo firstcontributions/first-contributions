@@ -1676,6 +1676,7 @@
 - [monisha-82] (https://github.com/monisha-82)
 - [franxxu] (https://github.com/franxxu)
 - [RiddlemanMVP] (https://github.com/RiddlemanMVP)
+- [Tareef Iman](https://github.com/TareefIman)
 - [Lai Yu-Chiao](https://github.com/joelai0101)
 - [Eric Larson](https://github.com/larsoneric)
 - [ermakmx](https://github.com/ermakmx)
