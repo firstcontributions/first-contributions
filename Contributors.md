@@ -8,6 +8,7 @@
 - [Yashwanth B M](https://github.com/yashwanth-gh/)
 - [Rohan Chauhan](https://github.com/rA9k)
 - [Joanna Marie Areniego](https://github.com/JoannaMarieAreniego)
+- [Mohit Jaiswal](https://github.com/mohitjais)
 - [Sudesh Sachintha](https://github.com/Sachintha-dev)
 - [Judy Ann Flores](https://github.com/JudyAPF)
 - [Madhur Aggarwal](https://github.com/MadhurAggarwal)
@@ -1611,7 +1612,6 @@
 - [Shawn Wu](https://github.com/ShawnWu33)
 - [Donn Jayson Quinto] (https://github.com/dawnj26)
 - [Sai Surya] (https://github.com/surya304)
-- Vino
 - [Jan Szymkiewicz](https://github.com/szymkjan)
 - [Michal Jachman](https://github.com/mjachman)
 - [Nurul Ihsan Hariz Pratama](https://github.com/nurihsan95)
