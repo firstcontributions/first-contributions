@@ -1669,6 +1669,7 @@
 - [Sajal Rastogi](https://github.com/Sajalrastogi89/first-contributions)
 - [Discimu](https://github.com/Discimu657/los)
 - [Noah Velasco](https://github.com/noahvelasco)
+-[Daniel Brazel](https://github.com/ahkian)
 - [张丹婷](https://github.com/JOOLLIEE)
 - [howareyouandyou](https://github.com/howareyouandyou)
 - [Antonio Molina] (https://github.com/antwan1)
