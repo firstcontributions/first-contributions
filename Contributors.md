@@ -1308,6 +1308,7 @@
 - [Cezary](https://github.com/CM43210)
 - [Grace Sun](https://github.com/grace-sun-shine)
 - [Badran GUELLIM](https://github.com/bdrnglm)
+- [Davide Sias](https://github.com/DavideSias)
 - [Chibuokem Obiegbulem](https://github.com/bu-okem)
 - [Akshay Kumbarwar](https://github.com/aks14075032)
 - [Nikhil Narla](https://github.com/nikhilnarla)
