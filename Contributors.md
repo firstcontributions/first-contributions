@@ -10,6 +10,7 @@
 - [Muhamad Firdaus Bin Mohd Razali](https://github.com/ausrazali)
 - [Yashwanth B M](https://github.com/yashwanth-gh/)
 - [Rohan Chauhan](https://github.com/rA9k)
+- [Pina Sunil](https://github.com/PinaSunil)
 - [Joanna Marie Areniego](https://github.com/JoannaMarieAreniego)
 - [Sudesh Sachintha](https://github.com/Sachintha-dev)
 - [Judy Ann Flores](https://github.com/JudyAPF)
