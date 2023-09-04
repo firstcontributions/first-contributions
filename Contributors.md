@@ -75,6 +75,7 @@
 - [Vrund_Raval](https://github.com/vrundraval24)
 - [Niraj Kumar](https://github.com/infinitecreator)
 - [Conor Kirby](https://gitbub.com/ckirby19)
+- [Rishul](https://github.com/Rishul2003)
 - [shyam kumar](https://github.com/whoshyam)
 - [Akshatha](https://github.com/nayakan)
 - [Rich C](https://github.com/Supergnarlyted)
