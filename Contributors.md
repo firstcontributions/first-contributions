@@ -45,6 +45,7 @@
 - [kevin1010607](https://github.com/kevin1010607)
 - [Anuj Mohite](https://github.com/anujrmohite)
 - [double835](https://github.com/double835)
+- [Agrim Saharia](https://github.com/agrimsaharia)
 - [Ethan Strain](https://github.com/ethan-strain)
 - [Tasneem Ayham](https://github.com/Coding-Queen89/)
 - [Robert McCall](https://github.com/Polderrider)
