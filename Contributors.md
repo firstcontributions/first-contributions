@@ -1784,6 +1784,7 @@
 -[Joshua Zhang](https://github.com/Teddygat0r)
 -[Binks123](https://github.com/Binks123)
 - [Sandesh Dhamangaonkar](https://github.com/sandeshpd)
+- [Cesar Silva](https://github.com/cesarsdcf)
 
 
 
@@ -1794,4 +1795,3 @@
 - [KhaingKyawMin] (https://github.com/kkm1991)
 - [kaif-khan](https://github.com/shadowfaxx1)
 - [Double-think](https://github.com/doublethink-bps)
-- [Cesar Silva](https://github.com/cesarsdcf)
