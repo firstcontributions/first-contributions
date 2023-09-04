@@ -312,6 +312,7 @@
 - [Saptarshi Mandal](https://github.com/saptoh)
 - TJanz
 - [Chintan Rupareliya](https://github.com/chintanrupareliya)
+- [Aman Kumar](https://github.com/AmanKumar6603)
 - [Harsh Kishorani](https://github.com/HarshKishorani)
 - [Shada Daab](https://github.com/shadatr)
 - [Tanitolorun Akinyemi](https://github.com/buddingdevT)
