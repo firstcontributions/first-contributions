@@ -2,6 +2,7 @@
 - [nupoor kedare](https://github.com/nupoorkedare2002)
 - [Josh H](https://github.com/GoodGuyHeffy)
 - [xiunian](https://xiunian.github.io)
+- [Neeraj Reddy](https://github.com/NeerajReddyK)
 - [[Trustbycode]](https://github.com/trustbycode/)
 - [Trustbycode] (https://github.com/trustbycode/)
 - [Anand-Vardhan-Shekhar](https://github.com/anandvardhan09)
