@@ -39,6 +39,7 @@
 - psuuc-mvgo
 -psuuc-acbascos
 -psuuc-jbgarcia
+-psuuc-larajean
 - PSUUC-IGappe (https://github.com/MrNewtothis)
 - [Isabell Luo] (https://github.com/117Isabell)
 - [Noel Young] (git@github.com:noeljyoung)
@@ -1791,4 +1792,5 @@
 - [Nicholas Garbutt] (https://github.com/Nicholas-Garbutt)
 - [Carlo Inserra](https://github.com/Carleoinserra)
 - [KhaingKyawMin] (https://github.com/kkm1991)
+- [kaif-khan](https://github.com/shadowfaxx1)
 - [Double-think](https://github.com/doublethink-bps)
