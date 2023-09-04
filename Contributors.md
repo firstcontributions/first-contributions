@@ -148,6 +148,7 @@
 - [rivera]
 - [John Ly] (https://github.com/johnly17)
 - [CJ Bauzon](https://github.com/cbauzon)
+- [Abhinav Deep](https://github.com/abhinav-deep)
 - [Enikuomehin David](https://github.com/eniiku)
 - [Franco Lu](https://github.com/franco2002lu)
 - [Simon Lowe](https://github.com/LoweSimon)
