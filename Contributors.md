@@ -1090,6 +1090,7 @@
 - [Jay Knowles](https://github.com/jayrkyd)
 - [Cole Robinson](https://github.com/Col-R)
 - [Zach Adkins](https://github.com/zaa94/)
+- [Nandana Babu](https://github.com/NanduNanduz)
 - [Megan May](https://github.com/mooogz)
 - [Ali Rihan](https://github.com/a13r1)
 - [Wairimu Ian](https://github.com/wairimu-ian)
