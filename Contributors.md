@@ -25,7 +25,7 @@
 - [Dileep K] (https://github.com/dileepk706)
 - [Abhi Bhullar](https://github.com/userabhibhullar)
   [Noviath61] (https://github.com/Noviath61)
-- [Mac McHam] (https://github.com/macmcham)
+Mac McHam
 - [gaagly] ( termux ke through dusribranch banai hai)
 - [gaagly] (This one is added directly from vscode app_ branch teesri branch)
 - [Efon God'stime](https://github.com/efongodstime)
