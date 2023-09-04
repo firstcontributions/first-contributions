@@ -115,6 +115,7 @@ Mac McHam
 - [Jonathan Santiago](https://github.com/JSantiago0317)
 - [sem9508](https://github.com/sem9508)
 - [Vinay Kumar](https://github.com/n4ryn)
+- [AShotOfCode]
 - [Olive Uzoma](https://github.com/uzomaolive)
 - [Nilanshu Yadav](https://github.com/Nilanshuyadav)
 - [Vivek Kumar] (https://github.com/vickvey)
