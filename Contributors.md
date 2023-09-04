@@ -4,6 +4,7 @@
 - [xiunian](https://xiunian.github.io)
 - [[Trustbycode]](https://github.com/trustbycode/)
 - [Trustbycode] (https://github.com/trustbycode/)
+- [Siddant-Tripathi] (https://https://github.com/trisid12/)
 - [Anand-Vardhan-Shekhar](https://github.com/anandvardhan09)
 - [Nicholas-Garbutt](https://github.com/Nicholas-Garbutt)
 - [John Jomar Dimaunahan](https://github.com/DJohnJomar)
