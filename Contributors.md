@@ -380,6 +380,7 @@
 - [Samy Cachon]
 - buyiweiran
 - [Abhishek Subba](https://github.com/original-subbaman)
+- [Devak Sharma](https://github.com/devakSharma)
 - [Zombie12k](https://github.com/Zombie12k)
 - [Ankit Mehra](https://github.com/Ankit-Mehra)
 - [Linus404](https://github.com/Linus404)
