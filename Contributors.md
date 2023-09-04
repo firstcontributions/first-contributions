@@ -55,6 +55,7 @@
 - [Chad Mc Adams](https://github.com/chadthecoder)
 - [keval](https://github.com/kevalshah0601).
 - [numptidumpti]
+- [Hardik Shrestha] (https://github.com/Mahkxai)
 - [Anubhav Kulshreshtha](https://github.com/anubhav1450)
 - [Robert Bledsaw III](https://github.com/rbledsaw3)
 - [Earl Chase](https://github.com/VictorHugoPilled)
