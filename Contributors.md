@@ -16,6 +16,7 @@
 - [Rohan Chauhan](https://github.com/rA9k)
 - [Pina Sunil](https://github.com/PinaSunil)
 - [Joanna Marie Areniego](https://github.com/JoannaMarieAreniego)
+- [Brian Oktavec] (https://github.com/boktavec)
 - [Tanvi G](https://github.com/Tanvi3103)
 - [Kimandu Ndung'u](https://github.com/DixonKimandu)
 - [Sudesh Sachintha](https://github.com/Sachintha-dev)
