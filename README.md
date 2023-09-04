@@ -133,6 +133,7 @@ For example:
 ```
 git switch -c add-alonzo-church
 ```
+Lilith: )
 
 ## Make necessary changes and commit those changes
 
