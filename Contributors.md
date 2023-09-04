@@ -31,8 +31,8 @@
 - [Asiya](https://github.com/Asiyaa22)
 - psuuc-mvgo
   -psuuc-acbascos
-- [Isabell Luo] (https://github.com/117Isabell)
   psuuc-mlttadeja
+- [Isabell Luo] (https://github.com/117Isabell)
 - [Noel Young] (git@github.com:noeljyoung)
 - [Carlos Guerrero] (https://github.com/carlosguealv)
 - [Zhiyuan](https://github.com/Zhiyuan-Jerry-Yang)
