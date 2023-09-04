@@ -6,6 +6,7 @@
 - [Trustbycode] (https://github.com/trustbycode/)
 - [Anand-Vardhan-Shekhar](https://github.com/anandvardhan09)
 - [Nicholas-Garbutt](https://github.com/Nicholas-Garbutt)
+- [Chirag Gupta](https://github.com/chirag-9121)
 - [John Jomar Dimaunahan](https://github.com/DJohnJomar)
 - [Muhamad Firdaus Bin Mohd Razali](https://github.com/ausrazali)
 - [Yashwanth B M](https://github.com/yashwanth-gh/)
