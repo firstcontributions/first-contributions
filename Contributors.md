@@ -21,6 +21,7 @@
 - [Efon God'stime](https://github.com/efongodstime)
 - [Sujal suri](https://github.com/sujal-suri)
 - [Willy Wonka](https://github.com/massablaise)
+- [Patricia Dinh](https://github.com/phdinh)
 - [Kosumo] (https://github.com/masumo)
 - [Mark Bloomfield] (https://github.com/mjbloomfield)
 - [Gustavo Passarella] (https://github.com/Gunnar50)
