@@ -357,6 +357,7 @@
 - [Yohancnc](https://github.com/yohan-cnc)
 - [Tanmay kute](https://github.com/Tkute0401)
 - [Kaushal Ganatra](https://github.com/KaushalGanatra)
+- [Devak Sharma](https://github.com/devakSharma)
 - [Keshav Bhatia](https://github.com/21219keshav)
 - [chetannada](https://github.com/chetannada)
 - [ImprovedKai]
@@ -380,7 +381,6 @@
 - [Samy Cachon]
 - buyiweiran
 - [Abhishek Subba](https://github.com/original-subbaman)
-- [Devak Sharma](https://github.com/devakSharma)
 - [Zombie12k](https://github.com/Zombie12k)
 - [Ankit Mehra](https://github.com/Ankit-Mehra)
 - [Linus404](https://github.com/Linus404)
