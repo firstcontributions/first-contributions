@@ -1794,3 +1794,4 @@
 - [KhaingKyawMin] (https://github.com/kkm1991)
 - [kaif-khan](https://github.com/shadowfaxx1)
 - [Double-think](https://github.com/doublethink-bps)
+- [Manuel Zorrilla](https://github.com/manuelzorrilladev)
