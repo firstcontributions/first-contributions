@@ -49,11 +49,19 @@
 - [Vasco Ceti] (https://github.com/elperez365)
 - [Asiya](https://github.com/Asiyaa22)
 - psuuc-mvgo
+
   -psuuc-acbascos
   -psuuc-jbgarcia
   -psuuc-larajean
   -psuuc-rscabico
   -psuuc-mltadeja
+
+-psuuc-acbascos
+-psuuc-jbgarcia
+-psuuc-larajean
+-psuuc-rscabico
+- psuuc-nbcamatayan
+
 - PSUUC-IGappe (https://github.com/MrNewtothis)
 - [Isabell Luo] (https://github.com/117Isabell)
 - [Noel Young] (git@github.com:noeljyoung)
@@ -209,6 +217,7 @@
 - [Abdulsalam Baruwa](https://github.com/dmystical-coder)
 - [Aditya Sagave](https://github.com/AdityaSagave)
 - [Jaroslav Světlík](https://github.com/Landerik2909)
+- [Orion Ford](https://github.com/onlyoneorion)
 - [Gabriel Vera](https://github.com/uhhhgabe)
 - [Tim Ngeno](https://github.com/tim-ngeno)
 - [Imran Khan](https://github.com/binary-amigo)
