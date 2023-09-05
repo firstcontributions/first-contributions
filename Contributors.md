@@ -1539,4 +1539,6 @@ TJanz
 -[Saanidhya Singh](https://github.com/Saani765)
 -[Nicholas Ndolo](https://github.com/nicholasndolo)
 -[Soap Opera](https://github.com/soapopera12)
+- [Jack Dant](https://github.com/J-Saladev)
+
 
