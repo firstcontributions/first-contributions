@@ -22,6 +22,7 @@
 - [Yashwanth B M](https://github.com/yashwanth-gh/)
 - [Rohan Chauhan](https://github.com/rA9k)
 - [Milton Wiklund](https://github.com/wiklunden)
+- [Lavanya Mishra](https://github.com/chessmadridista)
 - [Pina Sunil](https://github.com/PinaSunil)
 - [Joanna Marie Areniego](https://github.com/JoannaMarieAreniego)
 - [Brian Oktavec] (https://github.com/boktavec)
