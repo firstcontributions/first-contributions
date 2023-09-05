@@ -11,6 +11,7 @@
 - [Siddant-Tripathi] (https://https://github.com/trisid12/)
 - [Kalender Toptas](https://github.com/toptaskalender)
 - [Anand-Vardhan-Shekhar](https://github.com/anandvardhan09)
+- [Suhas B G](https://github.com/SuhasBG)
 - [Nicholas-Garbutt](https://github.com/Nicholas-Garbutt)
 - [Chirag Gupta](https://github.com/chirag-9121)
 - [John Jomar Dimaunahan](https://github.com/DJohnJomar)
