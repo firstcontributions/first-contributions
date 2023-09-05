@@ -129,6 +129,7 @@ Mac McHam
 - [mohamed] (...)
 - [Omar] (https://github.com/Omarr-kh)
 - [ronnelg](https://github.com/ronzron)
+- [Naol Melesse](https://github.com/naolmelesse)
 - [ceri555](https://github.com/Ceri555)
 - [tamilbharathi](https://github.com/tamil-code)
 - [Aditya Singh] (https://github.com/VisionaryCodeX)
