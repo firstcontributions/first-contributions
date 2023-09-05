@@ -116,6 +116,7 @@ Mac McHam
 - [Agnes Olorundare](https://github.com/Agnes4Him)
 - [Rakesh-Ganneboina](https://github.com/rakeshganneboina)
 - [Amit Rana](https://github.com/HUMBLEF0OL)
+- [Rahul Nishad](https://github.com/rahul11nishad)
 - [Youha Shin] (https://github.com/youha-shin)
 - [Rahul Baskey](https://github.com/RahulBRB)
 - [Kierznowski] (https://github.com/Kierznowski)
