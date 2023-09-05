@@ -86,6 +86,7 @@ Mac McHam
 - [Chad Mc Adams](https://github.com/chadthecoder)
 - [keval](https://github.com/kevalshah0601).
 - [numptidumpti]
+- [pizzanapoletana](https://github.com/pizzanapoletana)
 - [Olle Brattwall](https://github.com/OlleBrattwall)
 - [Hardik Shrestha] (https://github.com/Mahkxai)
 - [Anubhav Kulshreshtha](https://github.com/anubhav1450)
