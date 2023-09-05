@@ -1,5 +1,6 @@
 # Contributors
 - [Abdulhadi5692HDI2-3](https://github.com/Abdulhadi5692HDI2-3)
+- [Anirudh Duggal](https://github.com/AniswagMC)
 - [nupoor kedare](https://github.com/nupoorkedare2002)
 - [Josh H](https://github.com/GoodGuyHeffy)
 - [xiunian](https://xiunian.github.io)
