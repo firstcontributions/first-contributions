@@ -52,6 +52,7 @@ Mac McHam
 -psuuc-jbgarcia
 -psuuc-larajean
 -psuuc-rscabico
+- psuuc-nbcamatayan
 - PSUUC-IGappe (https://github.com/MrNewtothis)
 - [Isabell Luo] (https://github.com/117Isabell)
 - [Noel Young] (git@github.com:noeljyoung)
