@@ -3,6 +3,7 @@
 - [Anirudh Duggal](https://github.com/AniswagMC)
 - [nupoor kedare](https://github.com/nupoorkedare2002)
 - [Josh H](https://github.com/GoodGuyHeffy)
+- [Derrick Paul Zamora Hua](https://github.com/derrickhua)
 - [Marcel Ruth] (https://github.com/MarcelRuth)
 - [xiunian](https://xiunian.github.io)
 - [Prajjwal Sharma](https://github.com/CodeWithPrajjwal)
