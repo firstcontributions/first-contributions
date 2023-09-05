@@ -5,6 +5,7 @@
 - [Josh H](https://github.com/GoodGuyHeffy)
 - [Marcel Ruth] (https://github.com/MarcelRuth)
 - [xiunian](https://xiunian.github.io)
+- [Prajjwal Sharma](https://github.com/CodeWithPrajjwal)
 - [sudeepbm](https://github.com/sudeepbm)
 - [[Trustbycode]](https://github.com/trustbycode/)
 - [Trustbycode] (https://github.com/trustbycode/)
