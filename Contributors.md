@@ -1807,3 +1807,4 @@ Mac McHam
 - [Double-think](https://github.com/doublethink-bps)
 - [Manuel Zorrilla](https://github.com/manuelzorrilladev)
 - [Kashish Jain](https://github.com/jkashish18)
+- [Pratik Warhade](https://github.com/nexuspy)
