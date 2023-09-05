@@ -12,14 +12,14 @@ Te9rra ma9alate wa les tutos te9derre te3awonek, bessah wache howa afdel mine te
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="embrancher ce repertoire" />
 
-Si vous n'avez pas git sur votre ordinateur, [ installez-le ]( https://help.github.com/articles/set-up-git/ ).
+Wolla ma3endekche git fel ordinateur ta3ek, [ tell3ou be rabet ]( https://help.github.com/articles/set-up-git/ ).
 
-## Embranchez ce répertoire (aussi appelé un Fork)
+## Forker hadda el garage (ne3aytoulou tani Fork)
 
-Embranchez ce répertoire en cliquant sur le bouton de fork en haut de la page.
-Cela va créer une copie du répertoire sur votre compte.
+Forker el garage ki teklicker 3ala zire Fork el fow9e ta3 el safeha.
+Hada rah yecrée nousskha tabe9 el assel ta3 el garage fi github ta3ek.
 
-## Clonez ce répertoire
+## Cloner el garage 3andek fel PC
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clonez ce répertoire" />
 
