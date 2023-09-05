@@ -8,7 +8,7 @@
 
 Dayemen kayen mochkile ki nebdaw hadja men el bidaya. El khawof ta3 edire khatae daymen machi melih, khousousan ki techarek fi el code. Bessah 3alem el tatbi9ate el hourine mawdjoud bache etcharek wo tekhdem fi madjmou3a. Tani, Rana habine nebsstou el ta3lime ta3 el moucharraka el djadidda fel tatbi9ate el hourra bi ta3lime kifache techarek lil merra el oulla.  
 
-Lire des articles et des tutoriels peut aider, mais qu'y a-t-il de mieux que d'essayer sans pouvoir faire d'erreurs ? Ce projet a pour ambition de fournir des conseils et simplifier la manière dont les apprentis font leur première contribution. Souvenez-vous : plus vous êtes serein, mieux vous apprenez. Si vous aspirez à faire votre première contribution, suivez tout simplement les étapes suivantes. Promis, ce sera amusant.
+Te9rra ma9alate wa les tutos te9derre te3awonek, bessah wache howa afdel mine tehawolle tessiyi bela ma eddire akhtae ? Hadda el machrou3 medyoure bache yaa3ti nassaihe wo y ssahel tari9ate kifache li maya3rfouche bache eydirrou el moucharaka el oulla ta3houme. Etfekare : 9edma tekoune alaise, plus tet3alem bezaf. Wolla rak hab etcharek lel merra el oulla, teba3 el khtouwate el djaya. Wallah, rah tekoune moussaliya.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="embrancher ce repertoire" />
 
