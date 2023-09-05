@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [John Jomar Dimaunahan](https://github.com/DJohnJomar)
 - [Muhamad Firdaus Bin Mohd Razali](https://github.com/ausrazali)
@@ -21,6 +21,7 @@
 - [Harpreet Singh Sahota](https://github.com/happysahota)
 - [kevin1010607](https://github.com/kevin1010607)
 - [Anuj Mohite](https://github.com/anujrmohite)
+- [Vincent L](https://github.com/VincentLim-Dev)
 - [double835](https://github.com/double835)
 - [Tasneem Ayham](https://github.com/Coding-Queen89/)
 - [Robert McCall[(https://github.com/Polderrider)
