@@ -81,6 +81,7 @@ Mac McHam
 - [alfaz](https://github.com/alfazakash)
 - [Vrund_Raval](https://github.com/vrundraval24)
 - [Niraj Kumar](https://github.com/infinitecreator)
+- [prashant](https://github.com/prashant)
 - [Conor Kirby](https://gitbub.com/ckirby19)
 - [Rishul](https://github.com/Rishul2003)
 - [shyam kumar](https://github.com/whoshyam)
