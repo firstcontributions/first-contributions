@@ -57,6 +57,7 @@ Mac McHam
 - [Isabell Luo] (https://github.com/117Isabell)
 - [Noel Young] (git@github.com:noeljyoung)
 - [Carlos Guerrero] (https://github.com/carlosguealv)
+- [aikoo7] (https://github.com/aikooo7)
 - [Zhiyuan](https://github.com/Zhiyuan-Jerry-Yang)
 - [Harpreet Singh Sahota](https://github.com/happysahota)
 - [kevin1010607](https://github.com/kevin1010607)
