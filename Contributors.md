@@ -365,6 +365,7 @@ Mac McHam
 - [Sohrab Kazak](https://github.com/CosmicParadoxDragon)
 - [Vivek Chaprana](https://github.com/vivek-chaprana)
 - [Vishal Kushwaha](https://github.com/grandeurkoe)
+-Haleema Tallat https://github.com/haleematallat
 - [Lakshya Agarwal](https://github.com/lakshya6378)
 - [Chandan Sahu] (https://github.com/ChandanSahu98)
 - [Jessica Vaughn](https://github.com/jessicavaughn619)
