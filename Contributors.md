@@ -438,6 +438,7 @@ Mac McHam
 - [kurtisolo](https://github.com/kurtisolo)
 - [Fabi]
 - Fabi
+- [Tigran-Agekyan] (https://github.com/TigranAgekyan)
 - [Niet](https://github.com/nietus)
 - [WYYY](https://github.com/Justnoones)
 - [LiuZK36shigure](https://github.com/LiuZK36shigure)
