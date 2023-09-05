@@ -1445,6 +1445,7 @@ Mac McHam
 - [Dimple Jain](https://github.com/dimplehoney)
 - [Yogesh G](https://github.com/yogeshgunasekaran)
 - [imjacobtw](https://github.com/imjacobtw)
+- [Monica Ave](https://github.com/AveMonica)
 - [Keisha Shanice](https://github.com/KeishaShanice)
 - [Maxwell Calkin](https://github.com/MaxwellCalkin)
 - [Sonjay Lake](https://github.com/SonjayLake)
