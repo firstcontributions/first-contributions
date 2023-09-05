@@ -1805,6 +1805,7 @@ Mac McHam
 - [Carlo Inserra](https://github.com/Carleoinserra)
 - [KhaingKyawMin] (https://github.com/kkm1991)
 - [kaif-khan](https://github.com/shadowfaxx1)
+- [asad-ahmed](https://github.com/asadjalbani)
 - [Double-think](https://github.com/doublethink-bps)
 - [Manuel Zorrilla](https://github.com/manuelzorrilladev)
 - [Kashish Jain](https://github.com/jkashish18)
