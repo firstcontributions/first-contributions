@@ -397,6 +397,7 @@ Mac McHam
 - [Samagra Barnwal](https://github.com/samagrabarnwal)
 - [David-S](https://github.com/Deastyn)
 - [Jemz](https://github.com/jmlinks)
+- [hebizakana](https://github.com/hebizakana)
 - [Pavanemani](https://github.com/p1kalys)
 - [Prashik Gavali](https://github.com/prashikGavali)
 - [FTyumin](https://github.com/FTyumin)
