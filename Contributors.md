@@ -3,6 +3,7 @@
 - [Anirudh Duggal](https://github.com/AniswagMC)
 - [nupoor kedare](https://github.com/nupoorkedare2002)
 - [Josh H](https://github.com/GoodGuyHeffy)
+- [Marcel Ruth] (https://github.com/MarcelRuth)
 - [xiunian](https://xiunian.github.io)
 - [sudeepbm](https://github.com/sudeepbm)
 - [[Trustbycode]](https://github.com/trustbycode/)
