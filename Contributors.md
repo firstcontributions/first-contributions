@@ -43,6 +43,7 @@ Mac McHam
 - [Willy Wonka](https://github.com/massablaise)
 - [Patricia Dinh](https://github.com/phdinh)
 - [Kosumo] (https://github.com/masumo)
+- [Frederick] (https://github.com/fredsn0tDead)
 - [Mark Bloomfield] (https://github.com/mjbloomfield)
 - [Gustavo Passarella] (https://github.com/Gunnar50)
 - [Philip Newby] (https://github.com/pnewby060)
