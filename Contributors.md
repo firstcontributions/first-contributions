@@ -1812,7 +1812,7 @@ Mac McHam
 - [Sandesh Dhamangaonkar](https://github.com/sandeshpd)
 - [Cesar Silva](https://github.com/cesarsdcf)
 -[Jesus Sanchez](https://github.com/Jesus1Sanchez)
-
+- [Nwajei Edgar](https://github.com/Otakuwind)
 
 
 - [medzo-kali](https://github.com/medzo-kali)
