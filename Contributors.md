@@ -1711,6 +1711,7 @@
 - [AnojKJayan] (https://github.com/Anojlex)
 - [Baroloker] (https://github.com/Baroloker)
 - [Anuoluwapo]
+- [Harsha] (https://github.com/Harsha-10)
 - [monisha-82] (https://github.com/monisha-82)
 - [Cemus](https://github.com/Cemus)
 - [franxxu] (https://github.com/franxxu)
