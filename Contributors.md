@@ -3,7 +3,6 @@
 - [Sudesh Sachintha](https://github.com/Sachintha-dev)
 - [Abhi Bhullar](https://github.com/userabhibhullar)
 - [Willy Wonka](https://github.com/massablaise)
-- [Felipe Arruda](https://github.com/FelipeArruda)
 - [Kosumo] (https://github.com/masumo)
 - [Neel Contractor] (https://github.com/NeelContractor)
 - [Asiya](https://github.com/Asiyaa22)
@@ -1617,4 +1616,5 @@ TJanz
 -[KislayaSrivastava](https://github.com/KislayaSrivastava)
 -[Phan Thanh Nghia](https://github.com/nghiaphan177)
 -[Vikram Sai Simha] (https://github.com/paramzvik)
+- [Felipe Arruda](https://github.com/FelipeArruda)
 
