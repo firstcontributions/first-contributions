@@ -181,6 +181,7 @@ Mac McHam
 - [Sudarshan Zunja] (https://github.com/sudarshan710)
 - [Gsn Mithra] (https://github.com/GsnMithra)
 - [steve3535](https://github.com/steve3535)
+- [ShivaPatel](https://github.com/Patelshiva000)
 - [Deepu](https://github.com/blackbeard002)
 - [Percival Aceron](https://github.com/perci-aceron)
 - [Aditya](https://github.com/adityasd314)
