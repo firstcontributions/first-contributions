@@ -388,6 +388,7 @@ Mac McHam
 - [Lakshya Agarwal](https://github.com/lakshya6378)
 - [Chandan Sahu] (https://github.com/ChandanSahu98)
 - [Jessica Vaughn](https://github.com/jessicavaughn619)
+- [Alexander Konnaris](https://github.com/alexkonnaris)
 - [Abdi Jama](https://github.com/ajama21/)
 - [kenken](https://github.com/kenfaz)
 - [Sahil Gaikwad](https://github.com/Sahilgaik)
