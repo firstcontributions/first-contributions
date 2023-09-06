@@ -181,6 +181,7 @@
 - [Arpit Goswami](https://github.com/arpitgoswami)
 - [Christopher Semler](https://github.com/SEM7AC)
 - [21-UR-0241]
+- [Parinas]
 - [Porti](https://github.com/PortiESP)
 - [Bethel Enunwa](https://github.com/betheltoni)
 - [Benjamin Hack](https://github.com/benhhack)
