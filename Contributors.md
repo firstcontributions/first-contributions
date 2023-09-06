@@ -116,6 +116,7 @@
 - [curlylemon](https://github.com/curlylemon)
 - [Diego Pavan](https://github.com/CrzYEs7)
 - [Pratap Singh Sisodia](https://github.com/prataps135)
+- [AShotOfCode]
 - [Jo Galeon](https://github.com/jogaleon)
 - [Amit singh](https://github.com/technicalamit8055)
   [rivera]
