@@ -1411,6 +1411,7 @@ Mac McHam
 - [Narhzih](https://github.com/narhzih)
 - [Loveth Tee](https://github.com/LovethTee)
 - [David](https://github.com/DavidZhu1388)
+- [Pierre Puchaud](https://github.com/Ipuch)
 - [ShireenShaikh](https://github.com/toasted-breads)
 - [Harish Thakur](https://github.com/harish445)
 - [Adelaide Nxumalo](https://github.com/anxumalo)
