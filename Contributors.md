@@ -1,5 +1,5 @@
 # Contributors
-- [Utsho de Bravestone](https://github.com/utkar1995)
+- [utkar1995](https://github.com/utkar1995)
 - [Utsho de Bravestone](https://github.com/utshodebravestone)
 - [John Virgil Carvajal](https://github.com/DarcMattz)
 - [Abdulhadi5692HDI2-3](https://github.com/Abdulhadi5692HDI2-3)
