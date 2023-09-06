@@ -115,6 +115,7 @@ Mac McHam
 - [Alexis L](https://github.com/akelee)
 - [Evans Maina](https://github.com/evanssmaina)
 - [LooseJaguar](https://github.com/LooseJaguar):cat2:
+[AShotOfCode]
 - [Jonathan Santiago](https://github.com/JSantiago0317)
 - [sem9508](https://github.com/sem9508)
 - [Vinay Kumar](https://github.com/n4ryn)
