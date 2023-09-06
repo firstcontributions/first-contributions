@@ -10,6 +10,7 @@
 - [morat](https://github.com/unfortunate-conflict-of-evidence)
 - [Marcel Ruth] (https://github.com/MarcelRuth)
 - [xiunian](https://xiunian.github.io)
+- [Leonardo Rodriguez](https://github.com/LRodriguez92)
 - [Prajjwal Sharma](https://github.com/CodeWithPrajjwal)
 - [sudeepbm](https://github.com/sudeepbm)
 -[christian inyekaka](https://github.com/chrisBokotaII)
