@@ -144,6 +144,7 @@ Mac McHam
 - [Daniel] (https://github.com/dcgran)
 - [gaagly] (I have added this data using termux on android)
 - [mohamed] (...)
+- [Christopher Bailey] (https://github.com/Chris7007)
 - [Omar] (https://github.com/Omarr-kh)
 - [ronnelg](https://github.com/ronzron)
 - [Naol Melesse](https://github.com/naolmelesse)
