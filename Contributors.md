@@ -12,6 +12,7 @@
 - [xiunian](https://xiunian.github.io)
 - [Prajjwal Sharma](https://github.com/CodeWithPrajjwal)
 - [sudeepbm](https://github.com/sudeepbm)
+-[christian inyekaka](https://github.com/chrisBokotaII)
 - [[Trustbycode]](https://github.com/trustbycode/)
 - [Trustbycode] (https://github.com/trustbycode/)
 - [Siddant-Tripathi] (https://https://github.com/trisid12/)
