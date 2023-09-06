@@ -1,6 +1,7 @@
 # Contributors
 - [utkar1995](https://github.com/utkar1995)
 - [Utsho de Bravestone](https://github.com/utshodebravestone)
+- [Dilusha Hesaranga](https://github.com/DilushaHesaranga)
 - [John Virgil Carvajal](https://github.com/DarcMattz)
 - [Abdulhadi5692HDI2-3](https://github.com/Abdulhadi5692HDI2-3)
 - [Anirudh Duggal](https://github.com/AniswagMC)
@@ -10,8 +11,10 @@
 - [morat](https://github.com/unfortunate-conflict-of-evidence)
 - [Marcel Ruth] (https://github.com/MarcelRuth)
 - [xiunian](https://xiunian.github.io)
+- [Leonardo Rodriguez](https://github.com/LRodriguez92)
 - [Prajjwal Sharma](https://github.com/CodeWithPrajjwal)
 - [sudeepbm](https://github.com/sudeepbm)
+-[christian inyekaka](https://github.com/chrisBokotaII)
 - [[Trustbycode]](https://github.com/trustbycode/)
 - [Trustbycode] (https://github.com/trustbycode/)
 - [Siddant-Tripathi] (https://https://github.com/trisid12/)
@@ -26,6 +29,7 @@
 - [Yashwanth B M](https://github.com/yashwanth-gh/)
 - [Rohan Chauhan](https://github.com/rA9k)
 - [Milton Wiklund](https://github.com/wiklunden)
+- [Robert Vittozzi](http://github.com/rvittozzi)
 - [Lavanya Mishra](https://github.com/chessmadridista)
 - [Pina Sunil](https://github.com/PinaSunil)
 - [Joanna Marie Areniego](https://github.com/JoannaMarieAreniego)
@@ -142,6 +146,7 @@ Mac McHam
 - [Daniel] (https://github.com/dcgran)
 - [gaagly] (I have added this data using termux on android)
 - [mohamed] (...)
+- [Christopher Bailey] (https://github.com/Chris7007)
 - [Omar] (https://github.com/Omarr-kh)
 - [ronnelg](https://github.com/ronzron)
 - [Naol Melesse](https://github.com/naolmelesse)
@@ -197,6 +202,7 @@ Mac McHam
 - [Nikola Dojcinovic](https://github.com/NikolaD93)
 - [Sudarshan Zunja] (https://github.com/sudarshan710)
 - [Gsn Mithra] (https://github.com/GsnMithra)
+- [AngelitoSolis]
 - [steve3535](https://github.com/steve3535)
 - [ShivaPatel](https://github.com/Patelshiva000)
 - [Deepu](https://github.com/blackbeard002)
@@ -253,6 +259,7 @@ Mac McHam
 -[markneil]
 - [Arpit Goswami](https://github.com/arpitgoswami)
 - [Christopher Semler](https://github.com/SEM7AC)
+- [Parinas]
 - [Porti](https://github.com/PortiESP)
 - [Bethel Enunwa](https://github.com/betheltoni)
 - [Benjamin Hack](https://github.com/benhhack)
@@ -1541,6 +1548,7 @@ Mac McHam
 - [Chen Jiang](https://github.com/LuluLalaJ)
 - [Quan Do](https://github.com/dodangquan123)
 - [Paerarason](https://github.com/paerarason)
+- [Junkai Ji](http://github.com/swampholyten)
 - [want2012](https://github.com/want2012)
 - [Adilet Baimyrza](https://github.com/AdiletBaimyrza)
 - [LionKang](https://github.com/Lion-Kang)
@@ -1850,3 +1858,7 @@ Mac McHam
 - [andole xavier](https://github.com/jaarabytes)
 - [Caleb Coggins](https://github.com/OnlyPolygon)
 -[Nand Kishore Singh](https://github.com/NandEnigmaCode/NandEnigmaCode.git)
+
+- [jsj8051](https://github.com/jsj8051)
+- [Frank](https://github.com/Frank40790)
+
