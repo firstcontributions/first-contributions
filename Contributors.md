@@ -712,6 +712,7 @@ Mac McHam
 - [Ritabrata Das](https://github.com/the-indian-dev)
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
 - [Christian Hicks](https://github.com/chicks-dev)
+- [Thorben Buenger](https://github.com/FourtySeven047)
 - [Malavya Raval](https://github.com/MalavyaRaval)
 - [Levin Baria](https://github.com/levinbaria)
 - [José Ortiz-Ocampo](https://github.com/jhortizo)
