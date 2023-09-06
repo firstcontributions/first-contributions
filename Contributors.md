@@ -6,6 +6,7 @@
 - [nupoor kedare](https://github.com/nupoorkedare2002)
 - [Josh H](https://github.com/GoodGuyHeffy)
 - [Derrick Paul Zamora Hua](https://github.com/derrickhua)
+- [morat](https://github.com/unfortunate-conflict-of-evidence)
 - [Marcel Ruth] (https://github.com/MarcelRuth)
 - [xiunian](https://xiunian.github.io)
 - [Prajjwal Sharma](https://github.com/CodeWithPrajjwal)
