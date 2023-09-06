@@ -28,6 +28,7 @@
 - [Yashwanth B M](https://github.com/yashwanth-gh/)
 - [Rohan Chauhan](https://github.com/rA9k)
 - [Milton Wiklund](https://github.com/wiklunden)
+- [Ori Rose](https://github.com/oriodev)
 - [Robert Vittozzi](http://github.com/rvittozzi)
 - [Lavanya Mishra](https://github.com/chessmadridista)
 - [Pina Sunil](https://github.com/PinaSunil)
