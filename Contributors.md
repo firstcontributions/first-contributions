@@ -116,7 +116,6 @@
 - [curlylemon](https://github.com/curlylemon)
 - [Diego Pavan](https://github.com/CrzYEs7)
 - [Pratap Singh Sisodia](https://github.com/prataps135)
-- [AShotOfCode]
 - [Jo Galeon](https://github.com/jogaleon)
 - [Amit singh](https://github.com/technicalamit8055)
   [rivera]
@@ -180,7 +179,6 @@
 - [Akash Raj](https://github.com/akashroshiv)
 - [Arpit Goswami](https://github.com/arpitgoswami)
 - [Christopher Semler](https://github.com/SEM7AC)
-- [21-UR-0241]
 - [Parinas]
 - [Porti](https://github.com/PortiESP)
 - [Bethel Enunwa](https://github.com/betheltoni)
