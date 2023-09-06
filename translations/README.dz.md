@@ -1,4 +1,4 @@
-[![L'amour du logiciel libre](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Houb el tatbi9ate el hourra](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
@@ -6,7 +6,7 @@
 
 # awel mouchraka
 
-Dayemen kayen mochkile ki nebdaw hadja men el bidaya. El khawof ta3 edire khatae daymen machi melih, khousousan ki techarek fi el code. Bessah 3alem el tatbi9ate el hourine mawdjoud bache etcharek wo tekhdem fi madjmou3a. Tani, Rana habine nebsstou el ta3lime ta3 el moucharraka el djadidda fel tatbi9ate el hourra bi ta3lime kifache techarek lil merra el oulla.  
+Dayemen kayen mochkile ki nebdaw hadja men el bidaya. El khawof ta3 edire khatae daymen machi melih, khousousan ki techarek fi el code. Bessah 3alem el tatbi9ate el hourine mawodjoud bache etcharek wo tekhdem fi madjemou3a. Tani, Rana habine nebesstou el ta3lime ta3 el moucharraka el djadidda fel tatbi9ate el hourra bi ta3lime kifache techarek lil merra el oulla.  
 
 Te9rra ma9alate wa les tutos te9derre te3awonek, bessah wache howa afdel mine tehawolle tessiyi bela ma eddire akhtae ? Hadda el machrou3 medyoure bache yaa3ti nassaihe wo y ssahel tari9ate kifache li maya3rfouche bache eydirrou el moucharaka el oulla ta3houme. Etfekare : 9edma tekoune alaise, plus tet3alem bezaf. Wolla rak hab etcharek lel merra el oulla, teba3 el khtouwate el djaya. Wallah, rah tekoune moussaliya.
 
@@ -19,26 +19,27 @@ Wolla ma3endekche git fel ordinateur ta3ek, [ tell3ou be rabet ]( https://help.g
 Forker el garage ki teklicker 3ala zire Fork el fow9e ta3 el safeha.
 Hada rah yecrée nousskha tabe9 el assel ta3 el garage fi github ta3ek.
 
-## Cloner el garage 3andek fel PC
+## Enssoukhe el garage 3andek fel PC
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clonez ce répertoire" />
 
-Maintenant, clonez ce répertoire sur votre ordinateur. Cliquez sur le bouton clone puis cliquez sur l'icone *copier dans le presse-papier*.
+Dourka, enssoukhe hada el garage 3ala el PC diyalek. Clické 3ala el zire enssoukhe menba3ede eclicker 3ala l'icone *copié fi presse papier ta3ek*.
 
-Ouvrez une invite de commande (si vous êtes sous Windows) ou un terminal (si vous êtes sous MacOS ou Linux) et exécutez les commandes git suivantes :
+Eftah la console ta3 les commandes (ida rak fi windows) wola el terminale (ida rak fi MacOS ou Linux) menba3de cheghale lé commandes git el taliya :
 
 ```
-git clone "l'url que vous venez de copier"
+git clone "l'url eli copietha dourk berk"
 ```
-où "l'url que vous venez de copier" (sans les guillemets) est l'url du répertoire. Voir la section précédente afin d'obtenir l'url.
+wine "l'url eli copietha dourk berk" (bela lé guillemets) hiya l'url ta3 el garage. chouf fi eli fate men 9abel bache tethassel 3ala l'url.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copier l'URL dans le presse-papier" />
 
-Par exemple :
+Mithale :
 ```
-git clone https://github.com/votre-nom-d-utilisateur/first-contributions.git
+git clone https://github.com/issem-el-mousstakhdem-ta3ek/first-contributions.git
 ```
-où `votre-nom-d-utilisateur` est votre nom d'utilisateur GitHub. Ici vous êtes en train de copier le contenu du répertoire `first-contributions` depuis GitHub sur votre ordinateur.
+
+wine `issem-el-mousstakhdem-ta3ek` howa issem el mousstakhdem ta3 el compte ta3ek github, hena rak tecopier ga3 el mouhtawa ta3 el garage `first-contributions` mine Github lel PC diyalek.
 
 ## Créez une branche
 
