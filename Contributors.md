@@ -1843,5 +1843,6 @@ Mac McHam
 - [Manuel Zorrilla](https://github.com/manuelzorrilladev)
 - [Kashish Jain](https://github.com/jkashish18)
 - [wikara gunawan](https://github.com/lactobacil)
+- [TechTaleFusion](https://daswealth-okikiola.github.io/My-Website/)
 - [andole xavier](https://github.com/jaarabytes)
 - [Caleb Coggins](https://github.com/OnlyPolygon)
