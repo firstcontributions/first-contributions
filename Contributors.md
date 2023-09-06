@@ -854,6 +854,7 @@ Mac McHam
 - [Vinit Hemadri](https://github.com/Vinitvh)
 - [Prayag](https://github.com/Prayag-09)
 - [Ballween](https://github.com/Ballween)
+- [peter parker](https://github.com/pete)
 - [Peace Oghenevwefe](https://github.com/Peazzycole)
 - [Mahreen Abedin](https://github.com/Mahreenn)
 - [SM. Mostafa Jamal](https://github.com/sm-mostafajamal)
