@@ -534,6 +534,7 @@ Mac McHam
 - [Shivam Rajput]
 - [Parthiv Parmar](https://github.com/parthiv011)
 - [snghvineet]
+- [DanAldrin]
 - [dh-tester](https://github.com/dh-tester)
 - [shivang](https://github.com/shiv6789)
 - [Gaurav Deep](https://github.com/GAURAV-DEEP01)
