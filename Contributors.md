@@ -27,6 +27,7 @@
 - [Rohan Chauhan](https://github.com/rA9k)
 - [Milton Wiklund](https://github.com/wiklunden)
 - [Robert Vittozzi](http://github.com/rvittozzi)
+- [Tigran Muradyan](https://github.com/gitananun)
 - [Lavanya Mishra](https://github.com/chessmadridista)
 - [Pina Sunil](https://github.com/PinaSunil)
 - [Joanna Marie Areniego](https://github.com/JoannaMarieAreniego)
