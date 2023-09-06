@@ -1844,3 +1844,4 @@ Mac McHam
 - [Kashish Jain](https://github.com/jkashish18)
 - [wikara gunawan](https://github.com/lactobacil)
 - [andole xavier](https://github.com/jaarabytes)
+- [Caleb Coggins](https://github.com/OnlyPolygon)
