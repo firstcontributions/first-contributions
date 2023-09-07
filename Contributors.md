@@ -1854,7 +1854,7 @@ Mac McHam
 - [Cesar Silva](https://github.com/cesarsdcf)
 -[Jesus Sanchez](https://github.com/Jesus1Sanchez)
 
-
+- [Hiral Soni](https://github.com/hiralsonip)
 
 - [medzo-kali](https://github.com/medzo-kali)
 
@@ -1870,7 +1870,7 @@ Mac McHam
 - [TechTaleFusion](https://daswealth-okikiola.github.io/My-Website/)
 - [andole xavier](https://github.com/jaarabytes)
 - [Caleb Coggins](https://github.com/OnlyPolygon)
+- [Lloyd](https://github.com/LloydAAmaranto)
 -[Nand Kishore Singh](https://github.com/NandEnigmaCode/NandEnigmaCode.git)
 - [jsj8051](https://github.com/jsj8051)
 - [Frank](https://github.com/Frank40790)
-- [Lloyd](https://github.com/LloydAAmaranto)
