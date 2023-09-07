@@ -7,6 +7,7 @@
 - [Abdulhadi5692HDI2-3](https://github.com/Abdulhadi5692HDI2-3)
 - [Anirudh Duggal](https://github.com/AniswagMC)
 - [nupoor kedare](https://github.com/nupoorkedare2002)
+- [Kushagra Anand](https://github.com/Kusha008)
 - [Josh H](https://github.com/GoodGuyHeffy)
 - [Derrick Paul Zamora Hua](https://github.com/derrickhua)
 - [morat](https://github.com/unfortunate-conflict-of-evidence)
