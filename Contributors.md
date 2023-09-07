@@ -13,7 +13,7 @@ KOR EU WEI
 - [Josh H](https://github.com/GoodGuyHeffy)
 - [Derrick Paul Zamora Hua](https://github.com/derrickhua)
 - [morat](https://github.com/unfortunate-conflict-of-evidence)
--[Alleah Lyzet Ulpindo](https://github.com/psuuc-alsulpindo)
+- [Alleah Lyzet Ulpindo](https://github.com/psuuc-alsulpindo)
 - [Marcel Ruth] (https://github.com/MarcelRuth)
 - [xiunian](https://xiunian.github.io)
 - [Leonardo Rodriguez](https://github.com/LRodriguez92)
@@ -22,7 +22,7 @@ KOR EU WEI
 - [Jacob Turner](https://github.com/unsounddabbit)
 - [Sahadev Bhaganagare](https://github.com/Sahadev18)
 - [sudeepbm](https://github.com/sudeepbm)
--[christian inyekaka](https://github.com/chrisBokotaII)
+- [christian inyekaka](https://github.com/chrisBokotaII)
 - [[Trustbycode]](https://github.com/trustbycode/)
 - [Trustbycode] (https://github.com/trustbycode/)
 - [Siddant-Tripathi] (https://https://github.com/trisid12/)
@@ -75,11 +75,11 @@ Mac McHam
 - [Vasco Ceti] (https://github.com/elperez365)
 - [Asiya](https://github.com/Asiyaa22)
 - psuuc-mvgo
--psuuc-acbascos
--psuuc-jbgarcia
--psuuc-cvdrazo
--psuuc-larajean
--psuuc-rscabico
+- psuuc-acbascos
+- psuuc-jbgarcia
+- psuuc-cvdrazo
+- psuuc-larajean
+- psuuc-rscabico
 - psuuc-nbcamatayan
 - PSUUC-IGappe (https://github.com/MrNewtothis)
 - [Isabell Luo] (https://github.com/117Isabell)
@@ -272,7 +272,7 @@ Mac McHam
 - [Cassandra](https://github.com/codingcass)
 - [Arne Rief](https://github.com/Arrief)
 - [Akash Raj](https://github.com/akashroshiv)
--[markneil]
+- [markneil]
 - [Arpit Goswami](https://github.com/arpitgoswami)
 - [Christopher Semler](https://github.com/SEM7AC)
 - [Parinas]
@@ -393,7 +393,7 @@ Mac McHam
 - [Sohrab Kazak](https://github.com/CosmicParadoxDragon)
 - [Vivek Chaprana](https://github.com/vivek-chaprana)
 - [Vishal Kushwaha](https://github.com/grandeurkoe)
--Haleema Tallat https://github.com/haleematallat
+- Haleema Tallat https://github.com/haleematallat
 - [Lakshya Agarwal](https://github.com/lakshya6378)
 - [Chandan Sahu] (https://github.com/ChandanSahu98)
 - [Jessica Vaughn](https://github.com/jessicavaughn619)
@@ -634,7 +634,7 @@ Mac McHam
 - [Abhijit Pandey](https://github.com/ha-bhai-noob-hoon)
 - [Samrat Dutta](https://github.com/thecandylane)
 - [Summer Babel](https://github.com/sumerbabel)
-  [Nils Dev] (https://github.com/nilsDev)
+- [Nils Dev] (https://github.com/nilsDev)
 - [Amit Kumar](https://github.com/amitthecoder)
 - [almostJohn](https://github.com/almostJohn)
 - [Joel Tomy](https://github.com/joeljtomy)
@@ -1846,23 +1846,23 @@ Mac McHam
 - [Abhinav Roy](https://github.com/Drake0306)
 - [Mathanraj T](https://github.com/mathanraj0601)
 - [JP Hu](https://github.com/hu260456)
--[Farras El-Fahd](https://github.com/farraselfahd)
--[Vijay KV](https://github.com/Vijaykv5)
+- [Farras El-Fahd](https://github.com/farraselfahd)
+- [Vijay KV](https://github.com/Vijaykv5)
 - [Anurag]
 - [Brynn Andrew] (https://github.com/brynnandrew/)
--[Huy Hoang Minh Cu](https://github.com/CuHuyHoangMinh)
--[tokyo4j](https://github.com/tokyo4j)
+- [Huy Hoang Minh Cu](https://github.com/CuHuyHoangMinh)
+- [tokyo4j](https://github.com/tokyo4j)
 - [Yusuf Corlu](https://github.com/yusuf-corlu)
---[Isaaiah Clifford Opoku](https://github.com/Clifftech123)
--[JamesfSmith](https://github.com/Jfsmith7125)
--[Anh Duong](https://github.com/anhskrttt)
+- [Isaaiah Clifford Opoku](https://github.com/Clifftech123)
+- [JamesfSmith](https://github.com/Jfsmith7125)
+- [Anh Duong](https://github.com/anhskrttt)
 - [Joy Boy](https://github.com/joyboyid)
--[Eshita Ojha](https://github.com/XXeshitaXX)
--[Joshua Zhang](https://github.com/Teddygat0r)
--[Binks123](https://github.com/Binks123)
+- [Eshita Ojha](https://github.com/XXeshitaXX)
+- [Joshua Zhang](https://github.com/Teddygat0r)
+- [Binks123](https://github.com/Binks123)
 - [Sandesh Dhamangaonkar](https://github.com/sandeshpd)
 - [Cesar Silva](https://github.com/cesarsdcf)
--[Jesus Sanchez](https://github.com/Jesus1Sanchez)
+- [Jesus Sanchez](https://github.com/Jesus1Sanchez)
 
 - [Hiral Soni](https://github.com/hiralsonip)
 
@@ -1880,7 +1880,7 @@ Mac McHam
 - [TechTaleFusion](https://daswealth-okikiola.github.io/My-Website/)
 - [andole xavier](https://github.com/jaarabytes)
 - [Caleb Coggins](https://github.com/OnlyPolygon)
--[Nand Kishore Singh](https://github.com/NandEnigmaCode/NandEnigmaCode.git)
+- [Nand Kishore Singh](https://github.com/NandEnigmaCode/NandEnigmaCode.git)
 - [jsj8051](https://github.com/jsj8051)
 - [Frank](https://github.com/Frank40790)
 
