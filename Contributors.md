@@ -1470,6 +1470,7 @@ Mac McHam
 - [Abhay](https://github.com/abhay1704)
 - [Amr Ashebo](https://github.com/amr8644)
 - [Indranil Dutta](https://github.com/toindranildutta)
+- [Rick Auch](https://github.com/mekaneck)
 - [Okoye Victor](https://github.com/ChuloWay)
 - [E Stanzah](https://github.com/edwstanzah)
 - [Zaid Kaladia](https://github.com/zaidkaladia)
@@ -1894,4 +1895,3 @@ Mac McHam
 - [Frank](https://github.com/Frank40790)
 - [Lillyann](https://github.com/lcelisse)
 - [Abdourahmane Jalloh](https://github.com/aradradev)
-
