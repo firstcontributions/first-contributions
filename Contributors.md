@@ -58,6 +58,7 @@ Mac McHam
 - [Efon God'stime](https://github.com/efongodstime)
 - [Sujal suri](https://github.com/sujal-suri)
 - [Willy Wonka](https://github.com/massablaise)
+- [Melinda Cortez](https://github.com/Solita43)
 - [Patricia Dinh](https://github.com/phdinh)
 - [Kosumo] (https://github.com/masumo)
 - [Frederick] (https://github.com/fredsn0tDead)
