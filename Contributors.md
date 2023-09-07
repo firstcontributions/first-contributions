@@ -648,6 +648,7 @@ Mac McHam
 - [Aurin Yang](https://github.com/AurinYang)
 - [Ahmad Hassan](https://github.com/MrAhmadHassan)
 - [Dilmurod Abdusamadov](https://github.com/thisisdilmurod)
+- [Cedric Joel Cayaban](https://github.com/cedric-cayaban)
 - [jdszekeres](https://github.com/jdszekeres)
 - [Tung Le Thanh](https://github.com/tung-le)
 - [Anuj Kumar Karmakar](https://github.com/anujkkarmakar)
