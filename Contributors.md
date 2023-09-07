@@ -2,6 +2,7 @@
 - [Saurabh Padman](https://github.com/spirus-dev)
 - [Samuel Betancourt](https://github.com/Leumas80) <img title="Leumas80" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ve.svg" width="22">
 - [Utsho de Bravestone](https://github.com/utshodebravestone)
+- [piyush Dadgal](https://github.com/Piyush0618)
 - [Dilusha Hesaranga](https://github.com/DilushaHesaranga)
 - [John Virgil Carvajal](https://github.com/DarcMattz)
 - [Abdulhadi5692HDI2-3](https://github.com/Abdulhadi5692HDI2-3)
