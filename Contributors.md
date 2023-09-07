@@ -61,6 +61,7 @@ KOR EU WEI
   [Noviath61] (https://github.com/Noviath61)
   [aayush920](https://github.com/aayush920)
 Mac McHam
+- [Akhil A] (https://github.com/Akhil-A0402)
 - [gaagly] ( termux ke through dusribranch banai hai)
 - [gaagly] (This one is added directly from vscode app_ branch teesri branch)
 - [Efon God'stime](https://github.com/efongodstime)
