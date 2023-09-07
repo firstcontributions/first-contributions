@@ -14,6 +14,7 @@
 - [Marcel Ruth] (https://github.com/MarcelRuth)
 - [xiunian](https://xiunian.github.io)
 - [Leonardo Rodriguez](https://github.com/LRodriguez92)
+- [Ryan Lembo-Ehms](https://github.com/rjle301)
 - [Prajjwal Sharma](https://github.com/CodeWithPrajjwal)
 - [Jacob Turner](https://github.com/unsounddabbit)
 - [Sahadev Bhaganagare](https://github.com/Sahadev18)
