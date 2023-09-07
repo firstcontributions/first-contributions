@@ -1334,6 +1334,7 @@ Mac McHam
 - [UsernameNotCopied](https://github.com/UsernameNotCopied/)
 - [Ishaan Kapoor](https://github.com/kapoor-ishaan/)
 - [Sunny Hemdev](https://github.com/sunny151091/)
+- [Sanyam Mahajan](https://github.com/09-hrick/)
 - [Joshi Bhavya](https://github.com/Bhavya0304)
 - [Bolaji Motayo](https://github.com/Bolaji-Motayo)
 - [Donald Lv](https://github.com/SpadeInTheDirt)
