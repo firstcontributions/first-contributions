@@ -8,6 +8,7 @@ KOR EU WEI
 - [John Virgil Carvajal](https://github.com/DarcMattz)
 - [Abdulhadi5692HDI2-3](https://github.com/Abdulhadi5692HDI2-3)
 - [Anirudh Duggal](https://github.com/AniswagMC)
+- [Itay Saban](https://github.com/itaysaban)
 - [nupoor kedare](https://github.com/nupoorkedare2002)
 - [Kushagra Anand](https://github.com/Kusha008)
 - [Josh H](https://github.com/GoodGuyHeffy)
