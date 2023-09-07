@@ -1892,4 +1892,5 @@ Mac McHam
 - [jsj8051](https://github.com/jsj8051)
 - [Frank](https://github.com/Frank40790)
 - [Lillyann](https://github.com/lcelisse)
+- [Abdourahmane Jalloh](https://github.com/aradradev)
 
