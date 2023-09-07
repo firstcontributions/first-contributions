@@ -1,5 +1,6 @@
 # Contributors
 - [Saurabh Padman](https://github.com/spirus-dev)
+- [Samuel Betancourt](https://github.com/Leumas80) <img title="Leumas80" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ve.svg" width="22">
 - [Utsho de Bravestone](https://github.com/utshodebravestone)
 - [Dilusha Hesaranga](https://github.com/DilushaHesaranga)
 - [John Virgil Carvajal](https://github.com/DarcMattz)
