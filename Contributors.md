@@ -1854,7 +1854,7 @@ Mac McHam
 - [Cesar Silva](https://github.com/cesarsdcf)
 -[Jesus Sanchez](https://github.com/Jesus1Sanchez)
 
-
+- [Hiral Soni](https://github.com/hiralsonip)
 
 - [medzo-kali](https://github.com/medzo-kali)
 
@@ -1873,3 +1873,4 @@ Mac McHam
 -[Nand Kishore Singh](https://github.com/NandEnigmaCode/NandEnigmaCode.git)
 - [jsj8051](https://github.com/jsj8051)
 - [Frank](https://github.com/Frank40790)
+
