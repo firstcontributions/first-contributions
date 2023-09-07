@@ -1797,6 +1797,7 @@ Mac McHam
 - [Maxwell Voorhes] (https://github.com/mvoorhes)
 - [Dut] (https://github.com/Dut-git)
 - [nagash93] (https://github.com/nagash93)
+- [Ajax](https://github.com)
 - [AnojKJayan] (https://github.com/Anojlex)
 - [Baroloker] (https://github.com/Baroloker)
 - [Anuoluwapo]
