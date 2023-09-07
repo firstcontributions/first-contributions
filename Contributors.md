@@ -344,6 +344,7 @@ Mac McHam
 - [astromerov](https://github.com/astromerov)
 - [Prionage](https://github.com/Prionage/first-contributions)
 - [CL](https://github.com/Radar3759)
+- [Jame Bryan](https://github.com/jame0925)
 - [Ahmed Jameel](https://github.com/ahmedjameel1)
 - [Chintan Rupareliya](https://github.com/chintanrupareliya)
 - [Sourav Singh](https://github.com/hydradocs)
