@@ -134,6 +134,7 @@ Mac McHam
 - [Chen Zhang](https://github.com/leviosacz)
 - [Aryaman](https://github.com/SilianRail)
 - [Joost](https://github.com/jvdputten)
+- [JaxylViernes]
 - [Joost-2](https://github.com/jvdputten)
 - [Dheeraj_Kumar_Bhaskar](https://github.com/dheerajkrbhaskar)
 - [Dallas Freeman](https://github.com/dzfreem)
