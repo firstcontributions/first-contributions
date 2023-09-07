@@ -64,6 +64,7 @@ Mac McHam
 - [Sujal suri](https://github.com/sujal-suri)
 - [Willy Wonka](https://github.com/massablaise)
 - [Melinda Cortez](https://github.com/Solita43)
+- [Dominik](https://github.com/dominikstas)
 - [Patricia Dinh](https://github.com/phdinh)
 - [Kosumo] (https://github.com/masumo)
 - [Frederick] (https://github.com/fredsn0tDead)
