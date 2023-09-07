@@ -212,6 +212,7 @@ Mac McHam
 - [prafitradimas](https://github.com/prafitradimas)
 - [kian3158](https://github.com/kian3158)
 - [Nikola Dojcinovic](https://github.com/NikolaD93)
+- [Jade Ifurung](https://github.com/jadeifurung)
 - [Sudarshan Zunja] (https://github.com/sudarshan710)
 - [Gsn Mithra] (https://github.com/GsnMithra)
 - [AngelitoSolis]
