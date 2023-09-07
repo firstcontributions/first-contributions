@@ -46,6 +46,7 @@ KOR EU WEI
 - [Brian Oktavec] (https://github.com/boktavec)
 - [Tanvi G](https://github.com/Tanvi3103)
 - [Kimandu Ndung'u](https://github.com/DixonKimandu)
+- [Hernani Domingo](https://github.com/hernanidomingo)
 - [jdcantorna]
 - [Sharanabasava] (https://github.com/Sharan-14)
 - [Sudesh Sachintha](https://github.com/Sachintha-dev)
