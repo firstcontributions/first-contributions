@@ -337,6 +337,7 @@ Mac McHam
 - [KB Lor](https://github.com/kblor0324)
 - [Najeeb Yusuf](https://github.com/jeebulla/final-Portfolio)
 - [kobe-yang](https://github.com/kobe-yang)
+- [Shey Al](https://github.com/Milksheyke/)
 - [csamid](https://github.com/csamid)
 - [Vikas-Bagri](https://github.com/BagriVikas)
 - [jplsanchez](https://github.com/jplsanchez)
