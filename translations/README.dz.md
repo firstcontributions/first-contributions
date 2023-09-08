@@ -100,17 +100,19 @@ Fi zamen saghire rah en fuzioné el taghyérates ta3ek me3a el fare3 main ta3 el
 El far3e main ta3ek marahe yessralou hata taghyiére lel ane. Bache main ta3ek yekoune moutwafek me3a ta3i, lazem tabe3 hadou lé étapes :
 
 ## Gardez votre embranchement synchronisé avec ce répertoire
+## Khelli el main ta3ek synchronisé me3a hada el garage
 
- D'abord, basculez sur la branche main
+ Bache tebda, rouhe lel fare3 main
  ```
  git checkout main
  ```
 
- Et ajouter l'url de mon répertoire comme  `upstream remote url` :
+ Zide l'url ta3 el garage ta3ek ki `upstream remote url` :
 ```
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
-Ceci est une manière de dire à git qu'une autre version de ce répertoire existe à l'adresse spécifiée et que nous l'appelons  `upstream`. Une fois les modifications fusionnées, cherchez la nouvelle version de mon répertoire :
+
+Hada rah tekoune tarika bache te9oule lel git beli kayen version wahdoukhera texister bi had el 3ounwane wo nettb9ou a3lihe `upstream`. Ghire el tagheyérates tet fuzionna, hawosse 3ala la version djedidda ta3 el garrage ta3i :
 ```
 git fetch upstream
 ```
