@@ -81,6 +81,7 @@ Mac McHam
 - [Akhil A] (https://github.com/Akhil-A0402)
 - [gaagly] ( termux ke through dusribranch banai hai)
 -[Dessa Fe Gallito](https://github.com/dessafe)
+-[Elijah Macatiag](https://github.com/ejmacatiag)
 - [gaagly] (This one is added directly from vscode app_ branch teesri branch)
 - [Efon God'stime](https://github.com/efongodstime)
 - [Sujal suri](https://github.com/sujal-suri)
