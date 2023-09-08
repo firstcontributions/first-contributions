@@ -15,7 +15,7 @@ diverse, inclusive, and healthy community.
 
 ## Our Standards
 
-Examples of behavior that contributes to a positive environment for our
+Examples of behaviors that contributes to a positive environment for our
 community include:
 
 * Demonstrating empathy and kindness toward other people
@@ -59,7 +59,7 @@ representative at an online or offline event.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
+Instances of any sort of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
 firstcontributions@gmail.com.
 All complaints will be reviewed and investigated promptly and fairly.
