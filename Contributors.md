@@ -825,6 +825,7 @@ Mac McHam
 - [David Galvez Valverde](https://github.com/davidgalvez)
 - [Harihara Subramanian](https://github.com/HariharaSubramanianM)
 - [Kyle Young](https://github.com/KyleYoung69)
+- [Kyle Divinus Casing](https://github.com/KyleDivinus/first-contributions.git)
 - [Andrea Fajardo Gutiérrez](https://github.com/ItsAndrea)
 - [Ibrahim Bin Mansur](https://github.com/ibrahimmansur4)
 - [Daniel Evaristo](https://github.com/djse10/)
