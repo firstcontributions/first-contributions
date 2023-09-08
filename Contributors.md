@@ -331,6 +331,7 @@ Mac McHam
 - [Mohammed Sajid](https://github.com/sajid-31/first-contributions)
 - [Shawn Stanley](https://github.com/shawnstanley123/first-contributions)
 - [Marquis Sampson](https://github.com/Marquis4484/first-contributions)
+- [Parthasarathi Mahana](https://github.com/ParthasarathiMahana)
 - [Saniket More](https://github.com/saniketmore)
 - [Vatsal Chauhan](https://github.com/chauhanvats3)
 - [Advika Bhat](https://github.com/Advika101)
