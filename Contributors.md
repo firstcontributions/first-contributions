@@ -135,6 +135,7 @@ Mac McHam
 - [prashant](https://github.com/prashant)
 - [Conor Kirby](https://gitbub.com/ckirby19)
 - [Rishul](https://github.com/Rishul2003)
+- [Dan Chui](https://github.com/dan-chui)
 - [shyam kumar](https://github.com/whoshyam)
 - [Akshatha](https://github.com/nayakan)
 - [Ahmad Shah Donishyar](https://github.com/donishyar)
