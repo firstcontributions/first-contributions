@@ -3,7 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-# Առաջին ներդրումը նախագծում
+
+# Առաջին ներդրումը նախագծում:
 
 Դա բարդ է. Դժվար է առաջին անգամ ինչ-որ բան անելիս, հատկապես երբ համագործակցում ես ուրիշների հետ, քանի որ սխալվելն ամենևին էլ հաճելի չէ։ Մեր նպատակն է պարզեցնել, թե ինչպես են նոր _open source_ ներդրողները սովորում և առաջին անգամ ներդրում կատարում:
 
