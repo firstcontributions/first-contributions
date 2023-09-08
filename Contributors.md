@@ -5,6 +5,8 @@
 - [Utsho de Bravestone](https://github.com/utshodebravestone)
 - [piyush Dadgal](https://github.com/Piyush0618)
 KOR EU WEI
+
+- [Allen James Alvaro](https://github.com/AllenJamesAlvaro)
 - [Dilusha Hesaranga](https://github.com/DilushaHesaranga)
 - [Arber Lisaj](https://github.com/arberlisaj)
 - [John Virgil Carvajal](https://github.com/DarcMattz)
