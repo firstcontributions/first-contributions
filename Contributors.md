@@ -1,4 +1,5 @@
 # Contributors
+- [Younsi Farouk](https://github.com/pharouqy)
 - [nupoor kedare](https://github.com/nupoorkedare2002)
 - [Josh H](https://github.com/GoodGuyHeffy)
 - [xiunian](https://xiunian.github.io)
