@@ -310,6 +310,7 @@ Mac McHam
 - [Bethel Enunwa](https://github.com/betheltoni)
 - [Benjamin Hack](https://github.com/benhhack)
 - [Amardeep Ranjan](https://github.com/amardeep911)
+- [Christian Wheeler](https://github.com/Wheeler-Christian)
 - [Troy Krause](https://github.com/ST10248581)
 - [Shyamanta Kalita](https://github.com/ShyamantaKalita)
 - [saksham saha](mendacium-a11y)
