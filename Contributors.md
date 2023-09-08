@@ -522,6 +522,7 @@ Mac McHam
 - Fabi
 - [Tigran-Agekyan] (https://github.com/TigranAgekyan)
 - [Niet](https://github.com/nietus)
+- [RebelCat](https://github.com/RebelCat12)
 - [WYYY](https://github.com/Justnoones)
 - [LiuZK36shigure](https://github.com/LiuZK36shigure)
 - [Jitendra Lohani](https://github.com/jitendra-01)
