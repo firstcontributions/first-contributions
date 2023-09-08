@@ -121,6 +121,7 @@ Mac McHam
 - [Ethan Strain](https://github.com/ethan-strain)
 - [Tasneem Ayham](https://github.com/Coding-Queen89/)
 - [Robert McCall](https://github.com/Polderrider)
+- [Terry] (https://github.com/Chebz23)
 - [Harish H](https://github.com/harishhamilpur)
 - [Brian Fernandez](https://github.com/br14n-sol)
 - [Min Kim](https://github.com/Kim-Min-K)
