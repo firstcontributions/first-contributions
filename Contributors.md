@@ -122,6 +122,7 @@ Mac McHam
 - [Agrim Saharia](https://github.com/agrimsaharia)
 - [Ethan Strain](https://github.com/ethan-strain)
 - [Tasneem Ayham](https://github.com/Coding-Queen89/)
+- [Ian Harmon](https://github.com/waddlesmcsqueezy)
 - [Robert McCall](https://github.com/Polderrider)
 - [Terry] (https://github.com/Chebz23)
 - [Harish H](https://github.com/harishhamilpur)
