@@ -41,58 +41,63 @@ git clone https://github.com/issem-el-mousstakhdem-ta3ek/first-contributions.git
 
 wine `issem-el-mousstakhdem-ta3ek` howa issem el mousstakhdem ta3 el compte ta3ek github, hena rak tecopier ga3 el mouhtawa ta3 el garage `first-contributions` mine Github lel PC diyalek.
 
-## Créez une branche
+## ecré far3e
 
-Déplacez-vous dans le répertoire du projet nouvellement cloné (si vous n'y êtes pas encore) :
+Rouhe lel garage ta3 el projet eli créyitou djedide mousstenssakhe (edha marakeche déja fih)
 
 ```
 cd first-contributions
 ```
-Maintenant créez une branche avec la commande `git checkout` :
+
+Dourka ecréyé far3e be la commande `git checkout` :
+
 ```
 git checkout -b <add-votre-nom>
 ```
 
-Par exemple :
+Mithale :
 ```
 git checkout -b add-koffi-sani
 ```
 (Le nom de la branche n'a pas besoin de contenir le terme *add*, mais c'est raisonnable de l'inclure parce que l'objectif de cette branche est d'ajouter votre nom à une liste.)
+(Esseme el far3e mayahtajeche yekoune fih kelmete *add*, mé hadja meliha loukane yekoune fih hadef lel fare3 wo tezide esseme diyalek lel lista.)
 
-## Effectuez les modifications nécessaires et engagez-les
+## Dire el taghyirate el mouhima é kemle fiha
 
-Maintenant, ouvrez le fichier `Contributors.md` dans un éditeur de texte, ajoutez-y votre nom, et enregistrez-le. Si vous ouvrez l'invite de commande et vous exécutez la commande  `git status`, vous verrez qu'il y a des modifications. Ajoutez ces modifications à la branche que vous venez de créer avec la commande  `git add` :
+Dourka, efteh el féchiyé `Contributors.md` fi un editeur de text, zid fih assmek, menba3de ahfedou, Idha fetehte le terminal ou derte la commande `git status`, rah etchouf beli kayen taghyérates.Zid hadouk al taghiyérates lel far3e eli créyeteho men 9bel be la commande `git add` :
 ```
 git add Contributors.md
 ```
 
-Maintenant engagez ces modifications avec la commande `git commit`:
+Dourka, kemel commité hadouk lé etaghyérates be la commande `git commit`:
 ```
 git commit -m "Add <votre-nom> to Contributors list"
 ```
 en remplaçant `<votre-nom>` par votre nom.
+Ghéyere `<votre-nom>` bel assem diyalek.
 
-## Poussez les modifications vers GitHub
+## Eb3athe el tagheyérates fi github
 
-Poussez vos modifications avec la commande `git push` :
+Ebe3athes el taghyérates diyalek be la commande `git push` :
 ```
 git push origin <add-votre-nom>
 ```
-en remplaçant `<add-votre-nom>` avec le nom de la branche précédemment créée.
+Bedel `<add-votre-nom>` be esseme el far3e eli créyeteha men 9abel.
 
 ## Soumettez vos changements pour révision
+## Présenté el taghyérates ta3ek lel fahsse
 
-Si vous visitez votre répertoire sur Github, vous verrez un bouton  `Compare & pull request`.  Cliquez sur ce bouton.
+Idha rahet lel garage repertoire diyalek 3ala git hub, rah etchouffe beli kayen zire `Compare & pull request`, éclické 3ala el zire hadek.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-Maintenant soumettez la demande de tirage.
+Dourka présenter el talebe diyalek lel fahsse.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Sous peu j'aurai fusionné toutes vos modifications avec la branche main de ce projet. Vous recevrez un mail de notification dès que la fusion sera effectuée.
+Fi zamen saghire rah en fuzioné el taghyérates ta3ek me3a el fare3 main ta3 el projet hada, Yewosselek rissala ta3 el taghyérates ghire ki tendare la fusion kamel.
 
-La branche main de votre embranchement ne subira pas de modification à cet instant. Pour que votre embranchement soit synchronisé avec le mien, suivez les étapes suivantes.
+El far3e main ta3ek marahe yessralou hata taghyiére lel ane. Bache main ta3ek yekoune moutwafek me3a ta3i, lazem tabe3 hadou lé étapes :
 
 ## Gardez votre embranchement synchronisé avec ce répertoire
 
