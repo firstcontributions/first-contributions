@@ -22,6 +22,7 @@ KOR EU WEI
 - [xiunian](https://xiunian.github.io)
 - [Leonardo Rodriguez](https://github.com/LRodriguez92)
 - [Ryan Lembo-Ehms](https://github.com/rjle301)
+- [xinyuan.huang](https://github.com/xinyuan4android)
 - [Prajjwal Sharma](https://github.com/CodeWithPrajjwal)
 - [Jacob Turner](https://github.com/unsounddabbit)
 - [Sahadev Bhaganagare](https://github.com/Sahadev18)
