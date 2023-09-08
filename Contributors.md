@@ -105,6 +105,7 @@ Mac McHam
 - [Brian Fernandez](https://github.com/br14n-sol)
 - [Min Kim](https://github.com/Kim-Min-K)
 - [Achal](https://github.com/achal-00)
+- [Cindy Marie Aspiras](https://github.com/Cindyasp)
 - [Gideon-Buba](https://github.com/Gideon-Buba)
 - [Akshit Rawat](https://github.com/akshitrawat1)
 - [Anushthan Saxena](https://github.com/AnushthanS)
