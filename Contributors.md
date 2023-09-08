@@ -67,6 +67,7 @@ KOR EU WEI
 - [Kimandu Ndung'u](https://github.com/DixonKimandu)
 - [Hernani Domingo](https://github.com/hernanidomingo)
 - [jdcantorna]
+- [Nandhu Sathish] (https://github.com/NandhuSathish)
 - [Sharanabasava] (https://github.com/Sharan-14)
 - [Sudesh Sachintha](https://github.com/Sachintha-dev)
 - [Judy Ann Flores](https://github.com/JudyAPF)
