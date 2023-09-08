@@ -52,6 +52,7 @@ KOR EU WEI
 - [Rohan Chauhan](https://github.com/rA9k)
 - [Kathleen Sison](https://github.com/hellacee)
 - [Milton Wiklund](https://github.com/wiklunden)
+- [Ryan King Ballesteros](https://github.com/n4yr25)
 - [Ori Rose](https://github.com/oriodev)
 - [Robert Vittozzi](http://github.com/rvittozzi)
 - [Lavanya Mishra](https://github.com/chessmadridista)
