@@ -100,6 +100,7 @@ Mac McHam
 -psuuc-cvdrazo
 -psuuc-larajean
 -psuuc-rscabico
+-psuuc-ajrgacrcia
 - psuuc-nbcamatayan
 - PSUUC-IGappe (https://github.com/MrNewtothis)
 - [Isabell Luo] (https://github.com/117Isabell)
