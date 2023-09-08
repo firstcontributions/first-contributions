@@ -1915,4 +1915,5 @@ Akash Abraham
 - [Frank](https://github.com/Frank40790)
 - [Lillyann](https://github.com/lcelisse)
 - [Abdourahmane Jalloh](https://github.com/aradradev)
+- [pipTyrannical](https://github.com/piptyrannical)
 
