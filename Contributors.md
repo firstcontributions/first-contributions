@@ -6,6 +6,7 @@
 - [piyush Dadgal](https://github.com/Piyush0618)
 KOR EU WEI
 - [Dilusha Hesaranga](https://github.com/DilushaHesaranga)
+- [Arber Lisaj](https://github.com/arberlisaj)
 - [John Virgil Carvajal](https://github.com/DarcMattz)
 - [Emir Ertörer](https://github.com/EmirErtorer)
 - [Abdulhadi5692HDI2-3](https://github.com/Abdulhadi5692HDI2-3)
