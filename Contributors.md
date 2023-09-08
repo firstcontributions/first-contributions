@@ -134,6 +134,7 @@ Mac McHam
 - [Rishul](https://github.com/Rishul2003)
 - [shyam kumar](https://github.com/whoshyam)
 - [Akshatha](https://github.com/nayakan)
+- [Ahmad Shah Donishyar](https://github.com/donishyar)
 - [Rich C](https://github.com/Supergnarlyted)
 - [PikkuJane](https://github.com/PikkuJanne)
 - [Alexis L](https://github.com/akelee)
