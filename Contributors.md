@@ -36,6 +36,7 @@ KOR EU WEI
 - [Suhas B G](https://github.com/SuhasBG)
 - [Nicholas-Garbutt](https://github.com/Nicholas-Garbutt)
 - [Vita Golubovska](https://github.com/Golubko)
+- [Jason Betsargon](https://github.com/JasonBet)
 - [Chirag Gupta](https://github.com/chirag-9121)
 - [John Jomar Dimaunahan](https://github.com/DJohnJomar)
 - [Muhamad Firdaus Bin Mohd Razali](https://github.com/ausrazali)
