@@ -14,6 +14,7 @@ KOR EU WEI
 - [nupoor kedare](https://github.com/nupoorkedare2002)
 - [Kushagra Anand](https://github.com/Kusha008)
 - [Josh H](https://github.com/GoodGuyHeffy)
+- [Luis E](https://github.com/lewis-boy)
 - [Derrick Paul Zamora Hua](https://github.com/derrickhua)
 - [morat](https://github.com/unfortunate-conflict-of-evidence)
 -[Alleah Lyzet Ulpindo](https://github.com/psuuc-alsulpindo)
