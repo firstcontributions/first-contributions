@@ -187,11 +187,11 @@ Now submit the pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
+Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been 
 
 ## Where to go from here?
 
-Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
+ You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
 
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
 

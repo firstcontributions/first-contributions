@@ -265,6 +265,7 @@ Mac McHam
 - [ChaitanyaKatti](https://github.com/ChaitanyaKatti)
 - [César Henrique](https://github.com/cesarhenrq)
 - [Omar Abdelgawad](https://github.com/omar-abdelgawad)
+- [Cindy Marie Aspiras](https://github.com/Cindyasp)
 - [Felipe Moriones](https://github.com/Moriones20)
 - [Yunis Aslan](https://github.com/YunisAslan)
 - [Daan V](https://github.com/banzaai)
