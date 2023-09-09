@@ -82,6 +82,7 @@ KOR EU WEI
 - [Ori Rose](https://github.com/oriodev)
 - [Robert Vittozzi](http://github.com/rvittozzi)
 - [Lavanya Mishra](https://github.com/chessmadridista)
+- [Erik Vargas](https://github.com/erikAlberto)
 - [Pina Sunil](https://github.com/PinaSunil)
 - [Joanna Marie Areniego](https://github.com/JoannaMarieAreniego)
 - [Chance Justine Bragais] (https://github.com/Chancelemagne22)
