@@ -134,6 +134,7 @@ Mac McHam
 -psuuc-ajrgacrcia
 - psuuc-nbcamatayan
 -psuuc-manaois
+-amado-tristan
 -psuuc-fernandez
 -psuuc-jcsbayan
 -psuuc-vmgabriel
