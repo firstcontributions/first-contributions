@@ -303,6 +303,7 @@ Mac McHam
 - [Rajeswari Kuppusamy](https://github.com/rajeswarikuppusamy18)
 - [Jordan Fortin](https://github.com/Hazey8709)
 - [Divyanshu Bansal](https://github.com/MistyDragon7)
+- [Sudhir Singh Shekhawat](https://github.com/sudhirsinghshekhawat)
 - FranciscoFB7
 - [EDEXADE](https://github.com/404)
 - [LIELB](https://github.com/lielbidago)
