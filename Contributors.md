@@ -882,6 +882,7 @@ Mac McHam
 - [Dylan Madhani](https://github.com/dylanmad)
 - [Sherman Tay](https://github.com/ShermsRL)
 - [Roopaksh](https://github.com/Roopaksh1)
+- [MenardMacabulos]
 - [Sahil Jawale](https://github.com/Sahiljawale54)
 - [ofcwork53](https://github.com/ofcwork53)
 - [Gurpreet Singh](https://github.com/gurpreet78371)
