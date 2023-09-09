@@ -48,6 +48,7 @@ KOR EU WEI
 - [Anand-Vardhan-Shekhar](https://github.com/anandvardhan09)
 - [Janela Tamayo](https://github.com/Jajanela)
 - [Suhas B G](https://github.com/SuhasBG)
+- [Vincent Cueva](https://github.com/VincentCueva)
 - [Nicholas-Garbutt](https://github.com/Nicholas-Garbutt)
 - [Vita Golubovska](https://github.com/Golubko)
 - [Jason Betsargon](https://github.com/JasonBet)
