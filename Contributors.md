@@ -1576,6 +1576,7 @@ Akash Abraham
 - Jiang J
 - Poorvaja Satha Sivam
 - Endangered358
+- [AMD345](https://github.com/AMD345)
 - [PeKaStLa](https://github.com/PeKaStLa/)
 - [Alamin](https://github.com/AlaminPu1007)
 - [Irfan Ali](https://github.com/irfanali1995/irfanali1995)
