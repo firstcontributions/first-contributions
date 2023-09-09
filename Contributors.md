@@ -29,6 +29,7 @@ KOR EU WEI
 - [nupoor kedare](https://github.com/nupoorkedare2002)
 - [Kushagra Anand](https://github.com/Kusha008)
 - [Dhanusya Sanjeev Kumar](https://github.com/sanjeev003)(https://twitter.com/SanjeevKumarDG)
+- [Johnny](https://github.com/JensenOcampo)
 - [Josh H](https://github.com/GoodGuyHeffy)
 - [Tanishq P](https://github.com/tqpatil)
 - [Luis E](https://github.com/lewis-boy)
