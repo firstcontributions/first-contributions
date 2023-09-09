@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Ferhat Cekim](https://github.com/ferferx)
 - [Saurabh Padman](https://github.com/spirus-dev)
 - [Samuel Betancourt](https://github.com/Leumas80) <img title="Leumas80" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ve.svg" width="22">
@@ -7,7 +7,9 @@
 - [Muhammed Mifthah](https://github.com/Mifthah99)
 KOR EU WEI
 - [Keannu Angelo Ramos](https://github.com/KeanCodex)
+- [Joshua Reitz](http://github.com/jreitz2)
 - [Joel Gutlay](https://github.com/Livsn06)
+- [Benz Aaron Medrano](https://github.com/Luckyyy28)
 - [Allen James Alvaro](https://github.com/AllenJalvaro)
 - [Dilusha Hesaranga](https://github.com/DilushaHesaranga)
 - [Christopherson Carpio](https://github.com/tope0731)
@@ -15,6 +17,7 @@ KOR EU WEI
 - [Alice Zandra Eya](https://github.com/AliceEya)
 - [John Virgil Carvajal](https://github.com/DarcMattz)
 - [Jaidie Lampa](https://github.com/jaidie-lampa)
+- [Melanie Nozuelo](https://github.com/Melanienozuelo)
 - [Emir Ertörer](https://github.com/EmirErtorer)
 - [Abdulhadi5692HDI2-3](https://github.com/Abdulhadi5692HDI2-3)
 - [Anirudh Duggal](https://github.com/AniswagMC)
@@ -117,6 +120,7 @@ Mac McHam
 - [Neel Contractor] (https://github.com/NeelContractor)
 - [Vasco Ceti] (https://github.com/elperez365)
 - [Asiya](https://github.com/Asiyaa22)
+- finnbranch-jann
 - psuuc-mvgo
 -egulbinado
 -psuuc-acbascos
@@ -129,6 +133,7 @@ Mac McHam
 -psuuc-manaois
 -psuuc-fernandez
 -psuuc-jcsbayan
+-psuuc-vmgabriel
 - [psuuc-jepllamas]
 - PSUUC-IGappe (https://github.com/MrNewtothis)
 - [Isabell Luo] (https://github.com/117Isabell)
@@ -345,6 +350,7 @@ Mac McHam
 - [Christian Wheeler](https://github.com/Wheeler-Christian)
 - [Troy Krause](https://github.com/ST10248581)
 - [Shyamanta Kalita](https://github.com/ShyamantaKalita)
+- [Shubhankar Kaushik](https://github.com/Shubhankar2003)
 - [saksham saha](mendacium-a11y)
 - [Fatima Hassan](https://github.com/FatimaHassan26)
 - [Soham thodge](https://github.com/kronos2003)
