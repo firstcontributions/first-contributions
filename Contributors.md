@@ -1966,5 +1966,5 @@ Akash Abraham
 - [Lillyann](https://github.com/lcelisse)
 - [Abdourahmane Jalloh](https://github.com/aradradev)
 - [pipTyrannical](https://github.com/piptyrannical)
-
 - [Naufal Alief](https://github.com/naufalalief)
+- [Maricriz Canillas](https://github.com/MaricrizCanillas)
