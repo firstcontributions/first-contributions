@@ -606,6 +606,7 @@ Mac McHam
 - [YungBenn](https://github.com/YungBenn)
 - [IRQD](https://github.com/irqd)
 - [Hans](https://github.com/HansMbua)
+- [Jericho Cansino](https://github.com/JerichoCansino/first-contributions.git)
 - [Praise Idowu](https://github.com/praise002)
 - [ROSELLE](https://github.com/deleonroselle21)
 - [Joel Rosas](https://github.com/dersck)
