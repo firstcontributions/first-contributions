@@ -1823,6 +1823,7 @@ Akash Abraham
 - [CrLeCook](https://github.com/CrLeCook)
 - [Cihat Dayı](https://github.com/cihatdayi)
 - [7-Golden](https://github.com/7-Golden)
+- [Hector Cabrera](https://github.com/HectorJCS)
 - [Harish Kanna] ([https://github.com/Pekka20123](https://github.com/Pekka20123))
 - [Brian Neisen](https://github.com/warmage12354)
 - [Tango992] (https://github.com/Tango992)
