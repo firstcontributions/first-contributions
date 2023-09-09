@@ -565,6 +565,7 @@ Mac McHam
 - [mgrTutka](https://github.com/mgrTutka)
 - [kurtisolo](https://github.com/kurtisolo)
 - [Fabi]
+- [Leynard Guinumtad]
 - Fabi
 - [Tigran-Agekyan] (https://github.com/TigranAgekyan)
 - [Niet](https://github.com/nietus)
