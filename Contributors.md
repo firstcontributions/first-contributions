@@ -40,6 +40,7 @@ KOR EU WEI
 - [Dio Rizqi](https://github.com/diorizqi404)
 -[Alleah Lyzet Ulpindo](https://github.com/psuuc-alsulpindo)
 - [Marcel Ruth] (https://github.com/MarcelRuth)
+- [MichaelAngelo]
 - [xiunian](https://xiunian.github.io)
 - [Leonardo Rodriguez](https://github.com/LRodriguez92)
 - [Ryan Lembo-Ehms](https://github.com/rjle301)
