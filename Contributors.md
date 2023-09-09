@@ -152,6 +152,7 @@ Mac McHam
 -psuuc-rdtsongalla
 - psuuc-rjnbarrientos (https://github.com/psuuc-rjnbarrientos)
 - PSUUC-IGappe (https://github.com/MrNewtothis)
+-psuuc-micopaliwen
 - [Isabell Luo] (https://github.com/117Isabell)
 - [Noel Young] (git@github.com:noeljyoung)
 - [Carlos Guerrero] (https://github.com/carlosguealv)
@@ -1998,3 +1999,4 @@ Akash Abraham
 - [pipTyrannical](https://github.com/piptyrannical)
 
 - [Naufal Alief](https://github.com/naufalalief)
+
