@@ -70,6 +70,7 @@ KOR EU WEI
 - [Hernani Domingo](https://github.com/hernanidomingo)
 - [jdcantorna]
 - [Nandhu Sathish] (https://github.com/NandhuSathish)
+- [Reign Cyril De Vera] (https://github.com/reign-cyril-de-vera)
 - [Sharanabasava] (https://github.com/Sharan-14)
 - [Sudesh Sachintha](https://github.com/Sachintha-dev)
 - [Judy Ann Flores](https://github.com/JudyAPF)
