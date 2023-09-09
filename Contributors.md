@@ -16,6 +16,7 @@ KOR EU WEI
 - [Alice Zandra Eya](https://github.com/AliceEya)
 - [John Virgil Carvajal](https://github.com/DarcMattz)
 - [Jaidie Lampa](https://github.com/jaidie-lampa)
+- [Melanie Nozuelo](https://github.com/Melanienozuelo)
 - [Emir Ertörer](https://github.com/EmirErtorer)
 - [Abdulhadi5692HDI2-3](https://github.com/Abdulhadi5692HDI2-3)
 - [Anirudh Duggal](https://github.com/AniswagMC)
