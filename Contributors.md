@@ -19,6 +19,7 @@ KOR EU WEI
 - [Abdulhadi5692HDI2-3](https://github.com/Abdulhadi5692HDI2-3)
 - [Anirudh Duggal](https://github.com/AniswagMC)
 - [Itay Saban](https://github.com/itaysaban)
+- [janrix](https://github.com/rixsum)
 - [Anirudh SJ](https://github.com/ANIRUDH-SJ)
 - [nupoor kedare](https://github.com/nupoorkedare2002)
 - [Kushagra Anand](https://github.com/Kusha008)
