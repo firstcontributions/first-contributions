@@ -48,6 +48,7 @@ KOR EU WEI
 - [Sahadev Bhaganagare](https://github.com/Sahadev18)
 - [sudeepbm](https://github.com/sudeepbm)
 - [Tommy](https://github.com/tommypurcell)
+- Ethan
 - [christian inyekaka](https://github.com/chrisBokotaII)
 - [Laissa Nicole dela Cruz](https://github.com/LaissaNicole)
 - [[Trustbycode]](https://github.com/trustbycode/)
@@ -105,7 +106,7 @@ KOR EU WEI
 - [FjOrtega]
   [Noviath61] (https://github.com/Noviath61)
   [aayush920](https://github.com/aayush920)
-Mac McHam
+  Mac McHam
 - [Akhil A] (https://github.com/Akhil-A0402)
 - [gaagly] ( termux ke through dusribranch banai hai)
 -[Dessa Fe Gallito](https://github.com/dessafe)
@@ -1973,11 +1974,8 @@ Akash Abraham
 - [Sandesh Dhamangaonkar](https://github.com/sandeshpd)
 - [Cesar Silva](https://github.com/cesarsdcf)
 -[Jesus Sanchez](https://github.com/Jesus1Sanchez)
-
 - [Hiral Soni](https://github.com/hiralsonip)
-
 - [medzo-kali](https://github.com/medzo-kali)
-
 - [Nicholas Garbutt] (https://github.com/Nicholas-Garbutt)
 - [Carlo Inserra](https://github.com/Carleoinserra)
 - [KhaingKyawMin] (https://github.com/kkm1991)
@@ -1996,5 +1994,4 @@ Akash Abraham
 - [Lillyann](https://github.com/lcelisse)
 - [Abdourahmane Jalloh](https://github.com/aradradev)
 - [pipTyrannical](https://github.com/piptyrannical)
-
 - [Naufal Alief](https://github.com/naufalalief)
