@@ -132,6 +132,7 @@ Mac McHam
 -psuuc-manaois
 -psuuc-fernandez
 -psuuc-jcsbayan
+-psuuc-vmgabriel
 - [psuuc-jepllamas]
 - PSUUC-IGappe (https://github.com/MrNewtothis)
 - [Isabell Luo] (https://github.com/117Isabell)
