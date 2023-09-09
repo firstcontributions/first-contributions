@@ -436,6 +436,7 @@ Mac McHam
 - [Esrael Geremew](https://github.com/esrael-github)
 - [MD Irfan Salim](https://github.com/irfan2577)
 - waiyan
+-[rochellealarcio](https://github.com/rochellealarcio)
 - [Fernando Barbos](https://github.com/Fernando7181)
 - [Yoel Kraitman](https://github.com/yoelKraitman)
 - [Ashish Behera](https://github.com/ashish1089)
