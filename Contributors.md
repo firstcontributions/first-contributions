@@ -8,7 +8,7 @@
 KOR EU WEI
 - [Keannu Angelo Ramos](https://github.com/KeanCodex)
 - [Joel Gutlay](https://github.com/Livsn06)
-Benz Aaron Medrano
+- [Benz Aaron Medrano](https://github.com/Luckyyy28)
 - [Allen James Alvaro](https://github.com/AllenJalvaro)
 - [Dilusha Hesaranga](https://github.com/DilushaHesaranga)
 - [Christopherson Carpio](https://github.com/tope0731)
