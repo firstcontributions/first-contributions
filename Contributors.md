@@ -7,7 +7,7 @@
 - [piyush Dadgal](https://github.com/Piyush0618)
 - [Muhammed Mifthah](https://github.com/Mifthah99)
   KOR EU WEI
-- [Aniket Raj](https://github.com/Aniketraj19)
+- [Aniket Raj Verma](https://github.com/Aniketraj19)
 - [Dilusha Hesaranga](https://github.com/DilushaHesaranga)
 - [Christopherson Carpio](https://github.com/tope0731)
 - [Arber Lisaj](https://github.com/arberlisaj)
