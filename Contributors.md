@@ -47,6 +47,7 @@ KOR EU WEI
 - [Meynard Velaso](https://github.com/MVelasco21)
 - [Anand-Vardhan-Shekhar](https://github.com/anandvardhan09)
 - [Suhas B G](https://github.com/SuhasBG)
+- [Vincent Cueva](https://github.com/VincentCueva)
 - [Nicholas-Garbutt](https://github.com/Nicholas-Garbutt)
 - [Vita Golubovska](https://github.com/Golubko)
 - [Jason Betsargon](https://github.com/JasonBet)
