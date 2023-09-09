@@ -113,6 +113,7 @@ Mac McHam
 -psuuc-larajean
 -psuuc-rscabico
 - psuuc-nbcamatayan
+-psuuc-manaois
 - PSUUC-IGappe (https://github.com/MrNewtothis)
 - [Isabell Luo] (https://github.com/117Isabell)
 - [Noel Young] (git@github.com:noeljyoung)
