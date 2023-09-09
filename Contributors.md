@@ -51,6 +51,7 @@ KOR EU WEI
 - [Trustbycode] (https://github.com/trustbycode/)
 - [Siddant-Tripathi] (https://https://github.com/trisid12/)
 - [Ravi-Kumar] (https://github.com/DevGyaani)
+  [Elijah Venisse Tabalba](https://github.com/ElijahVenisse)
 - [Kalender Toptas](https://github.com/toptaskalender)
 - [SeungYong Kim](https://github.com/astrataraxia)
 - [Meynard Velaso](https://github.com/MVelasco21)
