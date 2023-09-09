@@ -2008,5 +2008,5 @@ Akash Abraham
 - [Lillyann](https://github.com/lcelisse)
 - [Abdourahmane Jalloh](https://github.com/aradradev)
 - [pipTyrannical](https://github.com/piptyrannical)
-
+- [Jacob Folch](https://github.com/jfs-jfs)
 - [Naufal Alief](https://github.com/naufalalief)
