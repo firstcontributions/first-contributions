@@ -7,6 +7,7 @@
 - [Muhammed Mifthah](https://github.com/Mifthah99)
 KOR EU WEI
 - [Keannu Angelo Ramos](https://github.com/KeanCodex)
+- [Joshua Reitz](http://github.com/jreitz2)
 - [Joel Gutlay](https://github.com/Livsn06)
 - [Benz Aaron Medrano](https://github.com/Luckyyy28)
 - [Allen James Alvaro](https://github.com/AllenJalvaro)
