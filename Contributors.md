@@ -131,6 +131,7 @@ Mac McHam
 -psuuc-acbascos
 -psuuc-jbgarcia
 -michdborja-Mdeborja
+-psuhiquiana-richard
 -psuuc-cvdrazo
 -psuuc-larajean
 -psuuc-rscabico
@@ -998,6 +999,7 @@ Mac McHam
 - [Eylon Saadon](https://github.com/EylonSaadon)
 - [Volodymyr Korostelov] (https://github.com/dtVlad)
 - [Praneeth]
+- [IsNoah]
 - [hemanth Rcahapalli]
 - [ReineW](https://github.com/reinew)
 - [Amos Mwongela](https://github.com/4ouR04)
