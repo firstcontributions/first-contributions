@@ -11,6 +11,7 @@ KOR EU WEI
 - [Arber Lisaj](https://github.com/arberlisaj)
 - [Alice Zandra Eya](https://github.com/AliceEya)
 - [John Virgil Carvajal](https://github.com/DarcMattz)
+- [Jaidie Lampa](https://github.com/jaidie-lampa)
 - [Emir Ertörer](https://github.com/EmirErtorer)
 - [Abdulhadi5692HDI2-3](https://github.com/Abdulhadi5692HDI2-3)
 - [Anirudh Duggal](https://github.com/AniswagMC)
@@ -48,6 +49,7 @@ KOR EU WEI
 - [Anand-Vardhan-Shekhar](https://github.com/anandvardhan09)
 - [Janela Tamayo](https://github.com/Jajanela)
 - [Suhas B G](https://github.com/SuhasBG)
+- [Vincent Cueva](https://github.com/VincentCueva)
 - [Nicholas-Garbutt](https://github.com/Nicholas-Garbutt)
 - [Vita Golubovska](https://github.com/Golubko)
 - [Jason Betsargon](https://github.com/JasonBet)
@@ -59,6 +61,7 @@ KOR EU WEI
 - [Kathleen Sison](https://github.com/hellacee)
 - [Milton Wiklund](https://github.com/wiklunden)
 - [Ryan King Ballesteros](https://github.com/n4yr25)
+- [Bea Rizza Conag](https://github.com/beaconag)
 - [Ori Rose](https://github.com/oriodev)
 - [Robert Vittozzi](http://github.com/rvittozzi)
 - [Lavanya Mishra](https://github.com/chessmadridista)
@@ -113,11 +116,17 @@ Mac McHam
 -psuuc-larajean
 -psuuc-rscabico
 - psuuc-nbcamatayan
+-psuuc-manaois
+-psuuc-fernandez
 - PSUUC-IGappe (https://github.com/MrNewtothis)
 - [Isabell Luo] (https://github.com/117Isabell)
 - [Noel Young] (git@github.com:noeljyoung)
 - [Carlos Guerrero] (https://github.com/carlosguealv)
+
 - [Marie Del Rosario](https://github.com/psuuc-mddelrosario)
+
+- [Steve Conteh] (https://github.com/steveconteh)
+
 - [Cindy Aspiras](https://github.com/cmfasp)
 - [aikoo7] (https://github.com/aikooo7)
 - [Zhiyuan](https://github.com/Zhiyuan-Jerry-Yang)
@@ -140,6 +149,7 @@ Mac McHam
 - [Gideon-Buba](https://github.com/Gideon-Buba)
 - [Akshit Rawat](https://github.com/akshitrawat1)
 - [Anushthan Saxena](https://github.com/AnushthanS)
+- [Pratham Chauhan](https://github.com/Pratham271)
 - [Abhay Jain](https://github.com/MentallyCramped)
 - [Juan Carlos](https://github.com/pads-sama)
 - [Chad Mc Adams](https://github.com/chadthecoder)
