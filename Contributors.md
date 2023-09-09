@@ -67,6 +67,7 @@ KOR EU WEI
 - [Milton Wiklund](https://github.com/wiklunden)
 - [Ryan King Ballesteros](https://github.com/n4yr25)
 - [Bea Rizza Conag](https://github.com/beaconag)
+- [Camelajaen](https://github.com/Camelajaen)
 - [Ori Rose](https://github.com/oriodev)
 - [Robert Vittozzi](http://github.com/rvittozzi)
 - [Lavanya Mishra](https://github.com/chessmadridista)
