@@ -1949,3 +1949,4 @@ Akash Abraham
 - [Abdourahmane Jalloh](https://github.com/aradradev)
 - [pipTyrannical](https://github.com/piptyrannical)
 
+- [Naufal Alief](https://github.com/naufalalief)
