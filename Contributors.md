@@ -277,6 +277,7 @@ Mac McHam
 - [Sooraj Varrma](https://github.com/soorajvarrma)
 - [Iniyan](https://github.com/ini1307)
 - [Glitched Nexus](https://github.com/GlitchedNexus)
+- [Sparsh Manni](https://github.com/sparshmanni)
 - [KiranJais](https://github.com/alkrona)
 - [rustab](https://github.com/rustab)
 - [Faris Bazdar](https://github.com/Gilgameshgb-1)
