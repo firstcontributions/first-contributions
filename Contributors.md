@@ -118,6 +118,7 @@ Mac McHam
 - [Carlos Guerrero] (https://github.com/carlosguealv)
 - [Cindy Aspiras](https://github.com/cmfasp)
 - [aikoo7] (https://github.com/aikooo7)
+- psuurd-pauletpajo
 - [Zhiyuan](https://github.com/Zhiyuan-Jerry-Yang)
 - [Harpreet Singh Sahota](https://github.com/happysahota)
 - [kevin1010607](https://github.com/kevin1010607)
