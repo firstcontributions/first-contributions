@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Ferhat Cekim](https://github.com/ferferx)
 - [Saurabh Padman](https://github.com/spirus-dev)
 - [Samuel Betancourt](https://github.com/Leumas80) <img title="Leumas80" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ve.svg" width="22">
@@ -19,6 +19,7 @@ KOR EU WEI
 - [Abdulhadi5692HDI2-3](https://github.com/Abdulhadi5692HDI2-3)
 - [Anirudh Duggal](https://github.com/AniswagMC)
 - [Itay Saban](https://github.com/itaysaban)
+- [janrix](https://github.com/rixsum)
 - [Anirudh SJ](https://github.com/ANIRUDH-SJ)
 - [nupoor kedare](https://github.com/nupoorkedare2002)
 - [Kushagra Anand](https://github.com/Kusha008)
@@ -66,6 +67,7 @@ KOR EU WEI
 - [Milton Wiklund](https://github.com/wiklunden)
 - [Ryan King Ballesteros](https://github.com/n4yr25)
 - [Bea Rizza Conag](https://github.com/beaconag)
+- [Camelajaen](https://github.com/Camelajaen)
 - [Ori Rose](https://github.com/oriodev)
 - [Robert Vittozzi](http://github.com/rvittozzi)
 - [Lavanya Mishra](https://github.com/chessmadridista)
@@ -77,6 +79,7 @@ KOR EU WEI
 - [Kimandu Ndung'u](https://github.com/DixonKimandu)
 - [Hernani Domingo](https://github.com/hernanidomingo)
 - [jdcantorna]
+- [Sreekumar Krishnan](https://github.com/SreekumarKrishnan)
 - [Nandhu Sathish] (https://github.com/NandhuSathish)
 - [Reign Cyril De Vera] (https://github.com/reign-cyril-de-vera)
 - [Sharanabasava] (https://github.com/Sharan-14)
@@ -122,6 +125,7 @@ Mac McHam
 - psuuc-nbcamatayan
 -psuuc-manaois
 -psuuc-fernandez
+-psuuc-jcsbayan
 - [psuuc-jepllamas]
 - PSUUC-IGappe (https://github.com/MrNewtothis)
 - [Isabell Luo] (https://github.com/117Isabell)
@@ -1957,4 +1961,4 @@ Akash Abraham
 - [pipTyrannical](https://github.com/piptyrannical)
 
 - [Naufal Alief](https://github.com/naufalalief)
-- [Younsi Farouk](https://github.com/pharouqy)
+- [Farouk Younsi](https://github.com/pharouqy)
