@@ -99,6 +99,7 @@ KOR EU WEI
 - [Dileep K] (https://github.com/dileepk706)
 - [Anish Patel] (https://github.com/codeanish)
 - [Abhi Bhullar](https://github.com/userabhibhullar)
+- [FjOrtega]
   [Noviath61] (https://github.com/Noviath61)
   [aayush920](https://github.com/aayush920)
 Mac McHam
