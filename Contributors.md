@@ -1910,7 +1910,7 @@ Akash Abraham
 - [Mathanraj T](https://github.com/mathanraj0601)
 - [JP Hu](https://github.com/hu260456)
 -[Farras El-Fahd](https://github.com/farraselfahd)
-- -[Christian Mark Velbis](https://github.com/psuuc-cmvelbis)
+-[Christian Mark Velbis](https://github.com/psuuc-cmvelbis)
 -[Vijay KV](https://github.com/Vijaykv5)
 - [Anurag]
 - [Brynn Andrew] (https://github.com/brynnandrew/)
