@@ -130,6 +130,7 @@ Mac McHam
 -psuuc-acbascos
 -psuuc-jbgarcia
 -michdborja-Mdeborja
+-psuhiquiana-richard
 -psuuc-cvdrazo
 -psuuc-larajean
 -psuuc-rscabico
