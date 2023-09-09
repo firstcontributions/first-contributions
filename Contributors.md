@@ -118,6 +118,7 @@ Mac McHam
 - [Vinay Kumar](https://github.com/n4ryn)
 - [Olive Uzoma](https://github.com/uzomaolive)
 - [Nilanshu Yadav](https://github.com/Nilanshuyadav)
+- crtz-rusty
 - [Vivek Kumar] (https://github.com/vickvey)
 - [Chen Zhang](https://github.com/leviosacz)
 - lpezbranch-Rusty
