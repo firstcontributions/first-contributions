@@ -46,6 +46,7 @@ KOR EU WEI
 - [SeungYong Kim](https://github.com/astrataraxia)
 - [Meynard Velaso](https://github.com/MVelasco21)
 - [Anand-Vardhan-Shekhar](https://github.com/anandvardhan09)
+- [Janela Tamayo](https://github.com/Jajanela)
 - [Suhas B G](https://github.com/SuhasBG)
 - [Nicholas-Garbutt](https://github.com/Nicholas-Garbutt)
 - [Vita Golubovska](https://github.com/Golubko)
@@ -75,6 +76,7 @@ KOR EU WEI
 - [Sudesh Sachintha](https://github.com/Sachintha-dev)
 - [Judy Ann Flores](https://github.com/JudyAPF)
 - [Jyra Villanueva](https://github.com/Jyra-Villanueva)
+- [Lance Jericho Salcedo](https://github.com/jausalcedo)
 - [Madhur Aggarwal](https://github.com/MadhurAggarwal)
 - [Bhavini Rathod] (https://github.com/rb2001)
 - [Chyunjet] (https://github.com/Jetyun)
@@ -111,6 +113,7 @@ Mac McHam
 -psuuc-larajean
 -psuuc-rscabico
 - psuuc-nbcamatayan
+-psuuc-manaois
 - PSUUC-IGappe (https://github.com/MrNewtothis)
 - [Isabell Luo] (https://github.com/117Isabell)
 - [Noel Young] (git@github.com:noeljyoung)
