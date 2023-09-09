@@ -1924,11 +1924,9 @@ Akash Abraham
 - [Sandesh Dhamangaonkar](https://github.com/sandeshpd)
 - [Cesar Silva](https://github.com/cesarsdcf)
 -[Jesus Sanchez](https://github.com/Jesus1Sanchez)
-- 
 - [Hiral Soni](https://github.com/hiralsonip)
-- [rixsum]
+- [rixsum] (https://github.com/rixsum)
 - [medzo-kali](https://github.com/medzo-kali)
-
 - [Nicholas Garbutt] (https://github.com/Nicholas-Garbutt)
 - [Carlo Inserra](https://github.com/Carleoinserra)
 - [KhaingKyawMin] (https://github.com/kkm1991)
