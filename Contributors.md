@@ -392,6 +392,7 @@ Mac McHam
 - [Sutan Arief](https://github.com/sutanarief)s
 - [Muhammad Atif](https://github.com/Atif-11).
 - [Prabal Goyal](https://github.com/prabal-goyal)
+- [Munirah Khalid](https://github.com/MunirahKhalid)
 - [Manav Joshi](https://github.com/ManavJoshi111)
 - [Shiven Garia](https://github.com/Shiven0504)
 - [Yusufhan Sacak](https://github.com/JosephDoUrden)
