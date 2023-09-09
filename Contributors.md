@@ -6,6 +6,8 @@
 - [piyush Dadgal](https://github.com/Piyush0618)
 - [Muhammed Mifthah](https://github.com/Mifthah99)
 KOR EU WEI
+
+- [Allen James Alvaro](https://github.com/AllenJamesAlvaro)
 - [Dilusha Hesaranga](https://github.com/DilushaHesaranga)
 - [Christopherson Carpio](https://github.com/tope0731)
 - [Arber Lisaj](https://github.com/arberlisaj)
