@@ -20,6 +20,7 @@ KOR EU WEI
 - [Kushagra Anand](https://github.com/Kusha008)
 - [Dhanusya Sanjeev Kumar](https://github.com/sanjeev003)(https://twitter.com/SanjeevKumarDG)
 - [Josh H](https://github.com/GoodGuyHeffy)
+- [Tanishq P](https://github.com/tqpatil)
 - [Luis E](https://github.com/lewis-boy)
 - [Derrick Paul Zamora Hua](https://github.com/derrickhua)
 - [morat](https://github.com/unfortunate-conflict-of-evidence)
