@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Ferhat Cekim](https://github.com/ferferx)
 - [Saurabh Padman](https://github.com/spirus-dev)
 - [Samuel Betancourt](https://github.com/Leumas80) <img title="Leumas80" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ve.svg" width="22">
@@ -6,6 +6,9 @@
 - [piyush Dadgal](https://github.com/Piyush0618)
 - [Muhammed Mifthah](https://github.com/Mifthah99)
 KOR EU WEI
+- [Keannu Angelo Ramos](https://github.com/KeanCodex)
+- [Joel Gutlay](https://github.com/Livsn06)
+- [Allen James Alvaro](https://github.com/AllenJalvaro)
 - [Dilusha Hesaranga](https://github.com/DilushaHesaranga)
 - [Christopherson Carpio](https://github.com/tope0731)
 - [Arber Lisaj](https://github.com/arberlisaj)
@@ -46,6 +49,7 @@ KOR EU WEI
 - [Kalender Toptas](https://github.com/toptaskalender)
 - [SeungYong Kim](https://github.com/astrataraxia)
 - [Meynard Velaso](https://github.com/MVelasco21)
+- [Noreen Comesario](https://github.com/noreencomesario)
 - [Anand-Vardhan-Shekhar](https://github.com/anandvardhan09)
 - [Janela Tamayo](https://github.com/Jajanela)
 - [Suhas B G](https://github.com/SuhasBG)
@@ -118,6 +122,7 @@ Mac McHam
 - psuuc-nbcamatayan
 -psuuc-manaois
 -psuuc-fernandez
+- [psuuc-jepllamas]
 - PSUUC-IGappe (https://github.com/MrNewtothis)
 - [Isabell Luo] (https://github.com/117Isabell)
 - [Noel Young] (git@github.com:noeljyoung)
@@ -1909,6 +1914,7 @@ Akash Abraham
 - [Mathanraj T](https://github.com/mathanraj0601)
 - [JP Hu](https://github.com/hu260456)
 -[Farras El-Fahd](https://github.com/farraselfahd)
+-[Christian Mark Velbis](https://github.com/psuuc-cmvelbis)
 -[Vijay KV](https://github.com/Vijaykv5)
 - [Anurag]
 - [Brynn Andrew] (https://github.com/brynnandrew/)
@@ -1949,3 +1955,4 @@ Akash Abraham
 - [Abdourahmane Jalloh](https://github.com/aradradev)
 - [pipTyrannical](https://github.com/piptyrannical)
 
+- [Naufal Alief](https://github.com/naufalalief)
