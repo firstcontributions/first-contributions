@@ -52,7 +52,7 @@ cd first-contributions
 Dourka ecréyé far3e be la commande `git checkout` :
 
 ```
-git checkout -b <add-votre-nom>
+git checkout -b <add-essem-diyalek>
 ```
 
 Mithale :
@@ -71,17 +71,17 @@ git add Contributors.md
 Dourka, kemel commité hadouk étaghyérates be la commande `git commit`:
 
 ```
-git commit -m "Add <votre-nom> to Contributors list"
+git commit -m "Add <essem-diyalek> to Contributors list"
 ```
-Ghéyere `<votre-nom>` bel assem diyalek.
+Ghéyere `<essem-diyalek>` bel assem diyalek.
 
 ## Eb3athe el tagheyérates fi github
 
 Ebe3athes el taghyérates diyalek be la commande `git push` :
 ```
-git push origin <add-votre-nom>
+git push origin <add-essem-diyalek>
 ```
-Bedel `<add-votre-nom>` be esseme el far3e eli créyeteho men 9abel.
+Bedel `<add-essem-diyalek>` be esseme el far3e eli créyeteho men 9abel.
 
 ## Présenté el taghyérates ta3ek lel fahsse
 
@@ -124,14 +124,14 @@ git push origin main
 ```
 Tahedire: Hadi el khetra, rah tebe3aye el garage el be3ide eli assmou origin.
 
-Fi hade el marhala rani fusionite el far3e `<add-votre-nom>` me3a el far3e main, wo enta fusionite el far3e main ta3i me3a el far3e main ta3ek. el far3e `<add-votre-nom>` maraheche nahtajouhe, edane te9dere tessuprimihe :
+Fi hade el marhala rani fusionite el far3e `<add-essem-diyalek>` me3a el far3e main, wo enta fusionite el far3e main ta3i me3a el far3e main ta3ek. el far3e `<add-essem-diyalek>` maraheche nahtajouhe, edane te9dere tessuprimihe :
 
 ```
-git branch -d <add-votre-nom>
+git branch -d <add-essem-diyalek>
 ```
 wa aydan te9dere tenihi la version ta3ou fel far3e el be3ide tani :
 ```
-git push origin --delete <add-votre-nom>
+git push origin --delete <add-essem-diyalek>
 ```
 Wache cheft henaya machi darouri, bessah assem el far3e yewori beli el hadef rahe moukhassasse.
 
