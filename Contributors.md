@@ -80,6 +80,7 @@ KOR EU WEI
 - [Ryan King Ballesteros](https://github.com/n4yr25)
 - [Bea Rizza Conag](https://github.com/beaconag)
 - [Camelajaen](https://github.com/Camelajaen)
+- [Nicholas Gutierrez](https://github.com/nicholasg2001)
 - [angelamagno](https://github.com/angelamagno)
 - [Ori Rose](https://github.com/oriodev)
 - [Robert Vittozzi](http://github.com/rvittozzi)
