@@ -17,6 +17,7 @@ KOR EU WEI
 - [Jaidie Lampa](https://github.com/jaidie-lampa)
 - [Vina Marie](https://github.com/psuuc-vmgabriel)
 
+
 - [Emir Ertörer](https://github.com/EmirErtorer)
 - [Abdulhadi5692HDI2-3](https://github.com/Abdulhadi5692HDI2-3)
 - [Anirudh Duggal](https://github.com/AniswagMC)
