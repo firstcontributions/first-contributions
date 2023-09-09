@@ -36,6 +36,7 @@ KOR EU WEI
 - [Josh H](https://github.com/GoodGuyHeffy)
 - [Tanishq P](https://github.com/tqpatil)
 - [Luis E](https://github.com/lewis-boy)
+- [Omar Eid] (https://github.com/OmarEid451)
 - [Derrick Paul Zamora Hua](https://github.com/derrickhua)
 - [morat](https://github.com/unfortunate-conflict-of-evidence)
 - [Dio Rizqi](https://github.com/diorizqi404)
