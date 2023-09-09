@@ -806,6 +806,7 @@ Mac McHam
 - [James So](https://github.com/JamesSo1)
 - [FOUR_BITS](https://github.com/FOUR-BITS-28)
 - [Khawaja Muhammad Bilal](https://github.com/beelal-k)
+- [kingtzy23](https://github.com/first-contributions.git/kingtzy23)
 - [masood shalele adamu] (https://github.com/kwasa123)
 - [Angela S](https://github.com/angelasrsh)
 - [Subhranshu Sekhar khilar](https://github.com/Susekh)
