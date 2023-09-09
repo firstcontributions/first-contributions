@@ -906,6 +906,7 @@ Mac McHam
 - [MenardMacabulos]
 - [Sahil Jawale](https://github.com/Sahiljawale54)
 - [ofcwork53](https://github.com/ofcwork53)
+- [Neaz Mahmood](https://github.com/Neaz-Mahmood)
 - [Gurpreet Singh](https://github.com/gurpreet78371)
 - [Byeongun Park](https://github.com/bupark82)
 - [Neeltyper001](https://github.com/Neeltyper001/)
