@@ -86,6 +86,7 @@ KOR EU WEI
 - [Sharanabasava] (https://github.com/Sharan-14)
 - [Sudesh Sachintha](https://github.com/Sachintha-dev)
 - [Judy Ann Flores](https://github.com/JudyAPF)
+- [Dessamine Almuete](https://github.com/dalmuete)
 - [Jyra Villanueva](https://github.com/Jyra-Villanueva)
 - [Lance Jericho Salcedo](https://github.com/jausalcedo)
 - [Madhur Aggarwal](https://github.com/MadhurAggarwal)
@@ -118,6 +119,7 @@ Mac McHam
 - [Vasco Ceti] (https://github.com/elperez365)
 - [Asiya](https://github.com/Asiyaa22)
 - psuuc-mvgo
+-egulbinado
 -psuuc-acbascos
 -psuuc-jbgarcia
 -psuuc-cvdrazo
@@ -126,6 +128,7 @@ Mac McHam
 - psuuc-nbcamatayan
 -psuuc-manaois
 -psuuc-fernandez
+-psuuc-jcsbayan
 - [psuuc-jepllamas]
 - PSUUC-IGappe (https://github.com/MrNewtothis)
 - [Isabell Luo] (https://github.com/117Isabell)
