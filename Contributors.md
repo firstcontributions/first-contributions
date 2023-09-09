@@ -46,6 +46,7 @@ KOR EU WEI
 - [sudeepbm](https://github.com/sudeepbm)
 - [Tommy](https://github.com/tommypurcell)
 - [christian inyekaka](https://github.com/chrisBokotaII)
+- [Laissa Nicole dela Cruz](https://github.com/LaissaNicole)
 - [[Trustbycode]](https://github.com/trustbycode/)
 - [Trustbycode] (https://github.com/trustbycode/)
 - [Siddant-Tripathi] (https://https://github.com/trisid12/)
@@ -121,21 +122,26 @@ Mac McHam
 - [Neel Contractor] (https://github.com/NeelContractor)
 - [Vasco Ceti] (https://github.com/elperez365)
 - [Asiya](https://github.com/Asiyaa22)
+- rustycl-rusty
 - finnbranch-jann
 - psuuc-mvgo
 -egulbinado
 -psuuc-acbascos
 -psuuc-jbgarcia
+-michdborja-Mdeborja
 -psuuc-cvdrazo
 -psuuc-larajean
 -psuuc-rscabico
 -psuuc-ajrgacrcia
 - psuuc-nbcamatayan
 -psuuc-manaois
+-amado-tristan
 -psuuc-fernandez
 -psuuc-jcsbayan
 -psuuc-vmgabriel
+-psuuc-lilibagcal
 - [psuuc-jepllamas]
+-psuuc-rdtsongalla
 - PSUUC-IGappe (https://github.com/MrNewtothis)
 - [Isabell Luo] (https://github.com/117Isabell)
 - [Noel Young] (git@github.com:noeljyoung)
@@ -384,6 +390,7 @@ Mac McHam
 - [Advika Bhat](https://github.com/Advika101)
 - [Ayushi Awasthi](https://github.com/Ayushi3023)
 - [Moh Ikhwan](https://github.com/mohikhwan)
+- [JudgeIsaac]
 - [Cwj900](https://github.com/Cwj900)
 - [Ritik](https://github.com/ritikkumar-agrawal)
 - [AdvaitSan](https://github.com/AdvaitSan)
@@ -606,6 +613,7 @@ Mac McHam
 - [YungBenn](https://github.com/YungBenn)
 - [IRQD](https://github.com/irqd)
 - [Hans](https://github.com/HansMbua)
+- [Jericho Cansino](https://github.com/JerichoCansino/first-contributions.git)
 - [Praise Idowu](https://github.com/praise002)
 - [ROSELLE](https://github.com/deleonroselle21)
 - [Joel Rosas](https://github.com/dersck)
