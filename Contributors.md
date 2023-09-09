@@ -46,6 +46,7 @@ KOR EU WEI
 - [sudeepbm](https://github.com/sudeepbm)
 - [Tommy](https://github.com/tommypurcell)
 - [christian inyekaka](https://github.com/chrisBokotaII)
+- [Laissa Nicole dela Cruz](https://github.com/LaissaNicole)
 - [[Trustbycode]](https://github.com/trustbycode/)
 - [Trustbycode] (https://github.com/trustbycode/)
 - [Siddant-Tripathi] (https://https://github.com/trisid12/)
@@ -116,6 +117,7 @@ Mac McHam
 - [Frederick] (https://github.com/fredsn0tDead)
 - [Mark Bloomfield] (https://github.com/mjbloomfield)
 - [Gustavo Passarella] (https://github.com/Gunnar50)
+- [Matthew De Vera] (https://github.com/Matmat01-droid)
 - [Philip Newby] (https://github.com/pnewby060)
 - [Neel Contractor] (https://github.com/NeelContractor)
 - [Vasco Ceti] (https://github.com/elperez365)
@@ -125,6 +127,7 @@ Mac McHam
 -egulbinado
 -psuuc-acbascos
 -psuuc-jbgarcia
+-michdborja-Mdeborja
 -psuuc-cvdrazo
 -psuuc-larajean
 -psuuc-rscabico
@@ -142,6 +145,7 @@ Mac McHam
 - [Steve Conteh] (https://github.com/steveconteh)
 - [Cindy Aspiras](https://github.com/cmfasp)
 - [aikoo7] (https://github.com/aikooo7)
+- psuurd-pauletpajo
 - [Zhiyuan](https://github.com/Zhiyuan-Jerry-Yang)
 - [Harpreet Singh Sahota](https://github.com/happysahota)
 - [kevin1010607](https://github.com/kevin1010607)
@@ -350,6 +354,7 @@ Mac McHam
 - [Christian Wheeler](https://github.com/Wheeler-Christian)
 - [Troy Krause](https://github.com/ST10248581)
 - [Shyamanta Kalita](https://github.com/ShyamantaKalita)
+- [Shubhankar Kaushik](https://github.com/Shubhankar2003)
 - [saksham saha](mendacium-a11y)
 - [Fatima Hassan](https://github.com/FatimaHassan26)
 - [Soham thodge](https://github.com/kronos2003)
@@ -389,6 +394,7 @@ Mac McHam
 - [Sutan Arief](https://github.com/sutanarief)s
 - [Muhammad Atif](https://github.com/Atif-11).
 - [Prabal Goyal](https://github.com/prabal-goyal)
+- [Munirah Khalid](https://github.com/MunirahKhalid)
 - [Manav Joshi](https://github.com/ManavJoshi111)
 - [Shiven Garia](https://github.com/Shiven0504)
 - [Yusufhan Sacak](https://github.com/JosephDoUrden)
@@ -1210,6 +1216,7 @@ Mac McHam
 - [Jarren Juan](https://github.com/JarrenJuan)
 - [ajTronic](https://github.com/ajTronic)
 - [Bo Jangles](https://github.com/Bo-Jangles)https://github.com/Krushna-Nanda/first-contributions.githttps://github.com/Krushna-Nanda/first-contributions.git
+- [Rafael Gomes](https://github.com/rafaelfagomes)
 - [Lewis Rye](https://github.com/LewisRye)
 - [philipAthanasopoulos](https://github.com/philipAthanasopoulos)
 - [TheLaziestDog](https://github.com/TheLaziestDog)
