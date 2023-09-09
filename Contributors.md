@@ -123,7 +123,11 @@ Mac McHam
 - [Isabell Luo] (https://github.com/117Isabell)
 - [Noel Young] (git@github.com:noeljyoung)
 - [Carlos Guerrero] (https://github.com/carlosguealv)
+
+- [Marie Del Rosario](https://github.com/psuuc-mddelrosario)
+
 - [Steve Conteh] (https://github.com/steveconteh)
+
 - [Cindy Aspiras](https://github.com/cmfasp)
 - [aikoo7] (https://github.com/aikooo7)
 - [Zhiyuan](https://github.com/Zhiyuan-Jerry-Yang)
@@ -137,6 +141,7 @@ Mac McHam
 - [Ian Harmon](https://github.com/waddlesmcsqueezy)
 - [Robert McCall](https://github.com/Polderrider)
 - [Terry] (https://github.com/Chebz23)
+
 - [Harish H](https://github.com/harishhamilpur)
 - [Brian Fernandez](https://github.com/br14n-sol)
 - [Min Kim](https://github.com/Kim-Min-K)
