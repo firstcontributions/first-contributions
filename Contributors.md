@@ -268,6 +268,7 @@ Mac McHam
 - [CJ Bauzon](https://github.com/cbauzon)
 - [Abhinav Deep](https://github.com/abhinav-deep)
 - [Enikuomehin David](https://github.com/eniiku)
+- cessybranch-princess
 - [Franco Lu](https://github.com/franco2002lu)
 - [Simon Lowe](https://github.com/LoweSimon)
 - [Nashwa] (https://github.com/siddiquen)
