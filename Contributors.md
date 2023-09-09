@@ -118,6 +118,7 @@ Mac McHam
 - [Nilanshu Yadav](https://github.com/Nilanshuyadav)
 - [Vivek Kumar] (https://github.com/vickvey)
 - [Chen Zhang](https://github.com/leviosacz)
+- lpezbranch-Rusty
 - [Aryaman](https://github.com/SilianRail)
 - [Joost](https://github.com/jvdputten)
 - [Joost-2](https://github.com/jvdputten)
