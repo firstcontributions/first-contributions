@@ -7,7 +7,6 @@
 - [Utsho de Bravestone](https://github.com/utshodebravestone)
 - [piyush Dadgal](https://github.com/Piyush0618)
 - [Muhammed Mifthah](https://github.com/Mifthah99)
-KOR EU WEI
 - [Keannu Angelo Ramos](https://github.com/KeanCodex)
 - [Joshua Reitz](http://github.com/jreitz2)
 - [Joel Gutlay](https://github.com/Livsn06)
@@ -77,6 +76,7 @@ KOR EU WEI
 - [Ryan King Ballesteros](https://github.com/n4yr25)
 - [Bea Rizza Conag](https://github.com/beaconag)
 - [Camelajaen](https://github.com/Camelajaen)
+- [angelamagno](https://github.com/angelamagno)
 - [Ori Rose](https://github.com/oriodev)
 - [Robert Vittozzi](http://github.com/rvittozzi)
 - [Lavanya Mishra](https://github.com/chessmadridista)
