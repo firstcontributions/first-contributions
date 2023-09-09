@@ -6,6 +6,7 @@
 - [piyush Dadgal](https://github.com/Piyush0618)
 - [Muhammed Mifthah](https://github.com/Mifthah99)
 KOR EU WEI
+- [Keannu Angelo Ramos](https://github.com/KeanCodex)
 - [Joel Gutlay](https://github.com/Livsn06)
 - [Allen James Alvaro](https://github.com/AllenJalvaro)
 - [Dilusha Hesaranga](https://github.com/DilushaHesaranga)
