@@ -1,3 +1,4 @@
+git add Contributors.md
 # Contributors
 - [Ferhat Cekim](https://github.com/ferferx)
 - [Saurabh Padman](https://github.com/spirus-dev)
@@ -12,6 +13,7 @@ KOR EU WEI
 - [Alice Zandra Eya](https://github.com/AliceEya)
 - [John Virgil Carvajal](https://github.com/DarcMattz)
 - [Emir Ertörer](https://github.com/EmirErtorer)
+- []
 - [Abdulhadi5692HDI2-3](https://github.com/Abdulhadi5692HDI2-3)
 - [Anirudh Duggal](https://github.com/AniswagMC)
 - [Itay Saban](https://github.com/itaysaban)
@@ -488,6 +490,7 @@ Mac McHam
 - [Devansh Behl](https://github.com/behldevansh)
 - [Vaishnavi](https://github.com/Vaishnavikv2)
 - [motongxue](https://github.com/motongxue)
+- [Piolo Umayam](https://github.com/odiplays)
 - [Mrinmay Das](https://github.com/DON2604)
 - [lentucky](https://github.com/lentucky)
 - [Vikas Parmar](https://github.com/vikas-parmar)
@@ -672,7 +675,7 @@ Mac McHam
 - [Abhijit Pandey](https://github.com/ha-bhai-noob-hoon)
 - [Samrat Dutta](https://github.com/thecandylane)
 - [Summer Babel](https://github.com/sumerbabel)
-  [Nils Dev] (https://github.com/nilsDev)
+- [Nils Dev] (https://github.com/nilsDev)
 - [Amit Kumar](https://github.com/amitthecoder)
 - [almostJohn](https://github.com/almostJohn)
 - [Joel Tomy](https://github.com/joeljtomy)
@@ -738,7 +741,7 @@ Mac McHam
 - [Moheet Shendarkar](https://github.com/moheet333)
 - [Adrian Calleja](https://github.com/adrii0113)
 - [Jon Sundin](https://github.com/jmsundin)
-- [Rose Rousseau](https://github.com/MapleRose))
+- [Rose Rousseau](https://github.com/MapleRose)
 - [cqdev-fusion](https://github.com/cqdev-fusion)
 - [Vyoam Yadav](https://github.com/ambiguousphoton)
 - [Sean Corzo](https://github.com/scorzo)
