@@ -4,7 +4,7 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# awel mouchraka
+# Awel mouchraka 🇩🇿
 
 Dayemen kayen mochkile ki nebdaw hadja men el bidaya. El khawof ta3 edire khatae daymen machi melih, khousousan ki techarek fi el code. Bessah 3alem el tatbi9ate el hourine mawodjoud bache etcharek wo tekhdem fi madjemou3a. Tani, Rana habine nebesstou el ta3lime ta3 el moucharraka el djadidda fel tatbi9ate el hourra bi ta3lime kifache techarek lil merra el oulla.  
 
@@ -93,9 +93,9 @@ Dourka présenter el talebe diyalek lel fahsse.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Fi zamen saghire rah en fuzioné el taghyérates ta3ek me3a el fare3 main ta3 el projet hada, Yewosselek rissala ta3 el taghyérates ghire ki tendare la fusion kamel.
+Fi zamen saghire rah ene fuzioné el taghyérates ta3ek me3a el fare3 main ta3 el projet hada, Yewosselek rissala ta3 el taghyérates ghire ki tendare la fusion kamel.
 
-El far3e main ta3ek marahe yessralou hata taghyiére lel ane. Bache main ta3ek yekoune moutwafek me3a ta3i, lazem tabe3 hadou lé étapes :
+El far3e main ta3ek marahe yessralou hata taghyiére lel ane. Bache main ta3ek yekoune moutwafek me3a ta3i, lazem tabe3 hadou lé el khoutouwates :
 
 ## Khelli el main ta3ek synchronisé me3a hada el garage
 
@@ -122,9 +122,9 @@ Henya rahe neteb9ou ga3 el taghyérates eli rak tehawosse a 3lihoume fel far3e m
 ```
 git push origin main
 ```
-Tahdire: Hadi el khetra, rah tebe3aye el garage el be3ide eli assmou origin.
+Tahedire: Hadi el khetra, rah tebe3aye el garage el be3ide eli assmou origin.
 
-Fi hade el marhala rani fusionite el far3e `<add-votre-nom>` me3a el far3e main, wa enta fusionite el far3e main ta3i me3a el far3e main ta3ek. el far3e `<add-votre-nom>` maraheche nahtajouhe, edane te9dere tessuprimihe :
+Fi hade el marhala rani fusionite el far3e `<add-votre-nom>` me3a el far3e main, wo enta fusionite el far3e main ta3i me3a el far3e main ta3ek. el far3e `<add-votre-nom>` maraheche nahtajouhe, edane te9dere tessuprimihe :
 
 ```
 git branch -d <add-votre-nom>
