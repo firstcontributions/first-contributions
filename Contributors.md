@@ -436,7 +436,6 @@ Mac McHam
 - [Esrael Geremew](https://github.com/esrael-github)
 - [MD Irfan Salim](https://github.com/irfan2577)
 - waiyan
--[rochellealarcio](https://github.com/rochellealarcio)
 - [Fernando Barbos](https://github.com/Fernando7181)
 - [Yoel Kraitman](https://github.com/yoelKraitman)
 - [Ashish Behera](https://github.com/ashish1089)
@@ -556,6 +555,7 @@ Mac McHam
 - [Kashyap Patel](https://github.com/kashyap5551)
 - [Ajaydeep Singh](https://github.com/Ajay1-me)
 - [Eze-DP](https://github.com/Eze-DP)
+- [Leynard Guinumtad](https://github.com/leynardguinumtad)
 - [Michael Rago] (https://github.com/michaeljamesrago)
 - [Lasindu Weerasinghe](https://github.com/LassazVegaz)
 - [Harsh Kumar Singh](https://github.com/dragoon4890)
@@ -886,7 +886,6 @@ Mac McHam
 - [Dylan Madhani](https://github.com/dylanmad)
 - [Sherman Tay](https://github.com/ShermsRL)
 - [Roopaksh](https://github.com/Roopaksh1)
-- [MenardMacabulos]
 - [Sahil Jawale](https://github.com/Sahiljawale54)
 - [ofcwork53](https://github.com/ofcwork53)
 - [Gurpreet Singh](https://github.com/gurpreet78371)
