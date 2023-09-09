@@ -141,6 +141,7 @@ Mac McHam
 -psuuc-vmgabriel
 -psuuc-lilibagcal
 - [psuuc-jepllamas]
+-psuuc-rdtsongalla
 - PSUUC-IGappe (https://github.com/MrNewtothis)
 - [Isabell Luo] (https://github.com/117Isabell)
 - [Noel Young] (git@github.com:noeljyoung)
