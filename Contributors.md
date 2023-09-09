@@ -9,12 +9,14 @@ KOR EU WEI
 - [Keannu Angelo Ramos](https://github.com/KeanCodex)
 - [Joel Gutlay](https://github.com/Livsn06)
 - [Allen James Alvaro](https://github.com/AllenJalvaro)
-- [Dilusha Hesaranga](https://github.com/DilushaHesaranga)
+- [Dilusha Hesaranga][def]
 - [Christopherson Carpio](https://github.com/tope0731)
 - [Arber Lisaj](https://github.com/arberlisaj)
 - [Alice Zandra Eya](https://github.com/AliceEya)
 - [John Virgil Carvajal](https://github.com/DarcMattz)
 - [Jaidie Lampa](https://github.com/jaidie-lampa)
+- [Vina Marie](https://github.com/psuuc-vmgabriel)
+
 - [Emir Ertörer](https://github.com/EmirErtorer)
 - [Abdulhadi5692HDI2-3](https://github.com/Abdulhadi5692HDI2-3)
 - [Anirudh Duggal](https://github.com/AniswagMC)
@@ -1960,3 +1962,6 @@ Akash Abraham
 - [pipTyrannical](https://github.com/piptyrannical)
 
 - [Naufal Alief](https://github.com/naufalalief)
+
+
+[def]: https://github.com/DilushaHesaranga
