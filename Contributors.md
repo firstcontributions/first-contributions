@@ -1,4 +1,5 @@
 # Contributors
+-[Francis Alex Darang](https://github.com/HappyCodingss)
 - [Ryudai Takai](https://github.com/ryudaitakai)
 - [Ferhat Cekim](https://github.com/ferferx)
 - [Saurabh Padman](https://github.com/spirus-dev)
