@@ -2026,7 +2026,7 @@ Akash Abraham
 - [Abdourahmane Jalloh](https://github.com/aradradev)
 - [pipTyrannical](https://github.com/piptyrannical)
 - [Guru Deep Kuwar](https://github.com/gurudeepkuwar)
-
+- [Artur Torretti] (https://github.com/Atorretti)
 - [Naufal Alief](https://github.com/naufalalief)
 - [Kokonico](https://github.com/Kokonico)
 - [Rajan Raj](https://github.com/rajanraj2)
