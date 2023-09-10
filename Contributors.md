@@ -21,6 +21,7 @@ KOR EU WEI
 - [Dilusha Hesaranga](https://github.com/DilushaHesaranga)
 - [Christopherson Carpio](https://github.com/tope0731)
 - [Arber Lisaj](https://github.com/arberlisaj)
+- [Vivek Vr](https://github.com/dcompanykrish)
 - [Alice Zandra Eya](https://github.com/AliceEya)
 - [John Virgil Carvajal](https://github.com/DarcMattz)
 - [Jaidie Lampa](https://github.com/jaidie-lampa)
