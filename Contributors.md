@@ -146,6 +146,7 @@ Mac McHam
 - [Neel Contractor] (https://github.com/NeelContractor)
 - [Vasco Ceti] (https://github.com/elperez365)
 - [Asiya](https://github.com/Asiyaa22)
+- [Naik Mubashir](https://github.com/naikmubashir)
 - Divine Ferrer
 - ttanguilig-tyrone
 - KennethBranch-Kenneth
