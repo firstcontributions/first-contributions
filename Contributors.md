@@ -47,6 +47,7 @@ Mac McHam
 - [Frederick] (https://github.com/fredsn0tDead)
 - [Mark Bloomfield] (https://github.com/mjbloomfield)
 - [Gustavo Passarella] (https://github.com/Gunnar50)
+- [Matthew De Vera] (https://github.com/Matmat01-droid)
 - [Philip Newby] (https://github.com/pnewby060)
 - [Neel Contractor] (https://github.com/NeelContractor)
 - [Vasco Ceti] (https://github.com/elperez365)
