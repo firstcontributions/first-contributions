@@ -2016,6 +2016,7 @@ Akash Abraham
 - [Lillyann](https://github.com/lcelisse)
 - [Abdourahmane Jalloh](https://github.com/aradradev)
 - [pipTyrannical](https://github.com/piptyrannical)
+- [Guru Deep Kuwar](https://github.com/gurudeepkuwar)
 
 - [Naufal Alief](https://github.com/naufalalief)
 - [Kokonico](https://github.com/Kokonico)
