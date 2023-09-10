@@ -1,6 +1,7 @@
 # Contributors
 -[Francis Alex Darang](https://github.com/HappyCodingss)
 - [Ryudai Takai](https://github.com/ryudaitakai)
+- [Vikas Mishra](https://github.com/vikas-mshra)
 - [Mohamed Atta](https://github.com/MohamedAtta-AI)
 - [Ferhat Cekim](https://github.com/ferferx)
 Mahmoud Mirghani
