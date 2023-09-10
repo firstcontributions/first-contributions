@@ -75,6 +75,7 @@ KOR EU WEI
 - [Noreen Comesario](https://github.com/noreencomesario)
 - [Anand-Vardhan-Shekhar](https://github.com/anandvardhan09)
 - [Janela Tamayo](https://github.com/Jajanela)
+- Atharva Gaikwad
 - [Suhas B G](https://github.com/SuhasBG)
 - [Vincent Cueva](https://github.com/VincentCueva)
 - [Nicholas-Garbutt](https://github.com/Nicholas-Garbutt)
@@ -146,6 +147,7 @@ Mac McHam
 - [Neel Contractor] (https://github.com/NeelContractor)
 - [Vasco Ceti] (https://github.com/elperez365)
 - [Asiya](https://github.com/Asiyaa22)
+- [Naik Mubashir](https://github.com/naikmubashir)
 - Divine Ferrer
 - ttanguilig-tyrone
 - KennethBranch-Kenneth
