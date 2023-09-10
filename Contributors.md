@@ -28,6 +28,7 @@ KOR EU WEI
 - [Melanie Nozuelo](https://github.com/Melanienozuelo)
 - [Emir Ertörer](https://github.com/EmirErtorer)
 - [Abdulhadi5692HDI2-3](https://github.com/Abdulhadi5692HDI2-3)
+- [Yvick Miossec] (https://github.com/879hun675tgfoO098)
 - [Maricriz Canillas](https://github.com/MaricrizCanillas) 
 - [Anirudh Duggal](https://github.com/AniswagMC)
 - [Itay Saban](https://github.com/itaysaban)
