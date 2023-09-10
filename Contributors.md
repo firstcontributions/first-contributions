@@ -10,6 +10,7 @@
 - [Muhammed Mifthah](https://github.com/Mifthah99)
 KOR EU WEI
 - [Keannu Angelo Ramos](https://github.com/KeanCodex)
+- [Sagar Pant](https://github.com/Sagar-Pant-2k2)
 - [Joshua Reitz](http://github.com/jreitz2)
 - [Eashan Kotha](https://github.com/ekotha)
 - [Joel Gutlay](https://github.com/Livsn06)
