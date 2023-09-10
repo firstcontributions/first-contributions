@@ -377,6 +377,7 @@ Mac McHam
 - [Parinas]
 - [Porti](https://github.com/PortiESP)
 - [Bethel Enunwa](https://github.com/betheltoni)
+Nikhil R
 - [Benjamin Hack](https://github.com/benhhack)
 - [Amardeep Ranjan](https://github.com/amardeep911)
 - [Christian Wheeler](https://github.com/Wheeler-Christian)
