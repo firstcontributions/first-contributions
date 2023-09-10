@@ -66,6 +66,7 @@ PRAJOT
 - [Prajjwal Sharma](https://github.com/CodeWithPrajjwal)
 - [Jacob Turner](https://github.com/unsounddabbit)
 - [Sahadev Bhaganagare](https://github.com/Sahadev18)
+- [Eitan Schwartz] (https://github.com/eitan07)
 - [sudeepbm](https://github.com/sudeepbm)
 - [Tommy](https://github.com/tommypurcell)
 - [christian inyekaka](https://github.com/chrisBokotaII)
