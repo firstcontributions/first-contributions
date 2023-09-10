@@ -27,6 +27,7 @@ KOR EU WEI
 - [John Virgil Carvajal](https://github.com/DarcMattz)
 - [Jaidie Lampa](https://github.com/jaidie-lampa)
 - [Samuel Akongbota](https://github.com/Reysam2)
+- [Ayush Mhetre](https://github.com/mhetreayush)
 - [Melanie Nozuelo](https://github.com/Melanienozuelo)
 - [Emir Ertörer](https://github.com/EmirErtorer)
 - [Abdulhadi5692HDI2-3](https://github.com/Abdulhadi5692HDI2-3)
