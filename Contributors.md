@@ -2015,3 +2015,4 @@ Akash Abraham
 
 - [Naufal Alief](https://github.com/naufalalief)
 - [Kokonico](https://github.com/Kokonico)
+- [Farouk Younsi](https://github.com/pharouqy)
