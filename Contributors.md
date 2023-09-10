@@ -159,6 +159,7 @@ Mac McHam
 -psuuc-fernandez
 -psuuc-jcsbayan
 -psuuc-vmgabriel
+- [Logan .B (logabe)] (https://github.com/logabe)
 -psuuc-lilibagcal
 - [psuuc-jepllamas]
 -psuuc-rdtsongalla
