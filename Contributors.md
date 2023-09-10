@@ -110,7 +110,8 @@ KOR EU WEI
 - [Bhavini Rathod] (https://github.com/rb2001)
 - [Chyunjet] (https://github.com/Jetyun)
 - [Dileep K] (https://github.com/dileepk706)
-- [Anish Patel] (https://github.com/codeanish)
+- [Anish Patel] (https://github.com/codeanis)
+- [Debamoy Datta] (https://github.com/Debamoy)
 - [Abhi Bhullar](https://github.com/userabhibhullar)
 - [FjOrtega]
   [Noviath61] (https://github.com/Noviath61)
