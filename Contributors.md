@@ -10,6 +10,7 @@
 - [piyush Dadgal](https://github.com/Piyush0618)
 - [Muhammed Mifthah](https://github.com/Mifthah99)
 KOR EU WEI
+- [Arjun A Chandran](https://github.com/Arjun-A3)
 - [Keannu Angelo Ramos](https://github.com/KeanCodex)
 - [Sagar Pant](https://github.com/Sagar-Pant-2k2)
 - [Joshua Reitz](http://github.com/jreitz2)
