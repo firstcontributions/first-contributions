@@ -75,6 +75,7 @@ KOR EU WEI
 - [Noreen Comesario](https://github.com/noreencomesario)
 - [Anand-Vardhan-Shekhar](https://github.com/anandvardhan09)
 - [Janela Tamayo](https://github.com/Jajanela)
+- Atharva Gaikwad
 - [Suhas B G](https://github.com/SuhasBG)
 - [Vincent Cueva](https://github.com/VincentCueva)
 - [Nicholas-Garbutt](https://github.com/Nicholas-Garbutt)
