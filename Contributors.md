@@ -11,6 +11,7 @@
 KOR EU WEI
 - [Keannu Angelo Ramos](https://github.com/KeanCodex)
 - [Joshua Reitz](http://github.com/jreitz2)
+- [Eashan Kotha](https://github.com/ekotha)
 - [Joel Gutlay](https://github.com/Livsn06)
 - [JuliusArden12](https://github.com/JuliusArden12)
 - [Benz Aaron Medrano](https://github.com/Luckyyy28)
