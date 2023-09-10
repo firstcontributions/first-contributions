@@ -16,6 +16,7 @@ PRAJOT
 - [Keannu Angelo Ramos](https://github.com/KeanCodex)
 - [Sagar Pant](https://github.com/Sagar-Pant-2k2)
 - [Joshua Reitz](http://github.com/jreitz2)
+- [Shailesh Negi](https://github.com/negishailesh)
 - [Eashan Kotha](https://github.com/ekotha)
 - [Joel Gutlay](https://github.com/Livsn06)
 - [JuliusArden12](https://github.com/JuliusArden12)
