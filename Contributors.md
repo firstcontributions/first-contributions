@@ -11,6 +11,7 @@ Mahmoud Mirghani
 - [piyush Dadgal](https://github.com/Piyush0618)
 - [Muhammed Mifthah](https://github.com/Mifthah99)
 KOR EU WEI
+PRAJOT
 - [Arjun A Chandran](https://github.com/Arjun-A3)
 - [Keannu Angelo Ramos](https://github.com/KeanCodex)
 - [Sagar Pant](https://github.com/Sagar-Pant-2k2)
