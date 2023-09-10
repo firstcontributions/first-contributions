@@ -1965,6 +1965,7 @@ Akash Abraham
 - [JayWhy5] (https://github.com/JayWhy5/JayWhy5.github.io)
 - [Priyanshu Mishra] (https://github.com/dev-Priyanshu07)
 - [laariane](https://github.com/laariane/)
+- [Zaki Dawrey](https://github.com/zaki-dawrey)
 - [Saanidhya Singh](https://github.com/Saani765)
 - [Mathanraj T](https://github.com/mathanraj0601)
 - [July-Fang2000](https://github.com/July-Fang2000)
