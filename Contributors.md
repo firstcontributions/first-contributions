@@ -9,6 +9,7 @@ Mahmoud Mirghani
 - [Saurabh Padman](https://github.com/spirus-dev)
 - [Samuel Betancourt](https://github.com/Leumas80) <img title="Leumas80" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ve.svg" width="22">
 - [Utsho de Bravestone](https://github.com/utshodebravestone)
+- [Francis MD](https://github.com/Francis-MD)
 - [Roney Moon](https://github.com/roneymoon)
 - [Geetika Jhanji](https://github.com/geetikajhanji11)
 - [piyush Dadgal](https://github.com/Piyush0618)
