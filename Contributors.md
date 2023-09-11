@@ -1,5 +1,6 @@
 # Contributors
 -[Ritin Tiwari](https://github.com/ritin0204)
+JialingYU
 -[Francis Alex Darang](https://github.com/HappyCodingss)
 - [Ryudai Takai](https://github.com/ryudaitakai)
 - [Vikas Mishra](https://github.com/vikas-mshra)
