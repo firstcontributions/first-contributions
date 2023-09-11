@@ -820,6 +820,7 @@ Nikhil R
 - [Script Doodle](https://github.com/script-doodle)
 - [Anthony Capecci](https://github.com/AnthonyCap13)
 - [rmknan](https://github.com/rmknan)
+- [Kevin Chen] (https://github.com/kevin5112)
 - [Vaibhav Mahajan](https://github.com/vaibhav-3003)
 - [Kushanth-Reddy](https://github.com/Kushanth-Reddy)
 - [Wesllen Alexandre](https://github.com/Wesllenbr)
