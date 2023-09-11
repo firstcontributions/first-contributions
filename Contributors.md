@@ -9,6 +9,7 @@ JialingYU
 - [Ferhat Cekim](https://github.com/ferferx)
 - [Ansil M B](https://github.com/ansilmbabl)
 - [happy-harsh](https://github.com/happy-harsh)
+- [Valery Bonneau](https://github.com/ValeryBonneau)
 Mahmoud Mirghani
 - ➡️ [Armatys Konrad](https://github.com/karmatys8) ⬅️
 - [Saurabh Padman](https://github.com/spirus-dev)
