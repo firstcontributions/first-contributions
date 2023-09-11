@@ -1204,6 +1204,7 @@ Mac McHam
 - [Tom Yotwongjai](https://github.com/tomyotwongjai)
 - [Wojtek Rokicki](https://github.com/Wojtek-Rokicki)
 - [Aaron Reynolds](https://github.com/areyn77463)
+- [Jericho Surop](https://github.com/Jeriko0)
 - [Terra Hanks](https://github.com/vampyteuth)
 - [Georgie Conway](https://github.com/dopeantelope)
 - [Victory Quiah](https://github.com/vquiah)
