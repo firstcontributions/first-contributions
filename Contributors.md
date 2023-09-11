@@ -1,5 +1,6 @@
 # Contributors
 -[Francis Alex Darang](https://github.com/HappyCodingss)
+- [Arvind Tawker] (https://github.com/Arvind-t33)
 - [Ryudai Takai](https://github.com/ryudaitakai)
 - [Vikas Mishra](https://github.com/vikas-mshra)
 - [Mohamed Atta](https://github.com/MohamedAtta-AI)
