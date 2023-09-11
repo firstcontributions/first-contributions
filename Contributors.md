@@ -34,6 +34,7 @@ KOR EU WEI
 - [Leonardo Rodriguez](https://github.com/LRodriguez92)
 - [Ryan Lembo-Ehms](https://github.com/rjle301)
 - [xinyuan.huang](https://github.com/xinyuan4android)
+- [Harishvj07](https://github.com/Harishvj07)
 - [Poompak Kusawat](https://github.com/poomkusa)
 - [Prajjwal Sharma](https://github.com/CodeWithPrajjwal)
 - [Jacob Turner](https://github.com/unsounddabbit)
