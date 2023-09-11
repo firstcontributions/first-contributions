@@ -212,6 +212,7 @@ Mac McHam
 - [Olive Uzoma](https://github.com/uzomaolive)
 - [Nilanshu Yadav](https://github.com/Nilanshuyadav)
 - [Judzzzz](https://github.com/Judzzzz)
+  [MacayanRochel](https://github.com/MacayanRochel)
 - [Vivek Kumar] (https://github.com/vickvey)
 - [Chen Zhang](https://github.com/leviosacz)
 - [Aryaman](https://github.com/SilianRail)
