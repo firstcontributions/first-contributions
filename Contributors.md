@@ -2039,9 +2039,9 @@ Akash Abraham
 - [Abdourahmane Jalloh](https://github.com/aradradev)
 - [pipTyrannical](https://github.com/piptyrannical)
 - [Guru Deep Kuwar](https://github.com/gurudeepkuwar)
-
 - [Naufal Alief](https://github.com/naufalalief)
 - [Kokonico](https://github.com/Kokonico)
 - [Rajan Raj](https://github.com/rajanraj2)
 - [Jack Sun](https://github.com/jackzsun)
 - [Anih-Patrick Ugochukwu](https://github.com/anihpatrickugo/)
+- [Lazerick Lever] (https://github.com/https://github.com/lqlever)
