@@ -27,6 +27,7 @@ PRAJOT
 - [Allen James Alvaro](https://github.com/AllenJalvaro)
 - [Dilusha Hesaranga](https://github.com/DilushaHesaranga)
 - [Christopherson Carpio](https://github.com/tope0731)
+- [Vineeth Lakshminarayanan](https://github.com/vilakshminar)
 - [Arber Lisaj](https://github.com/arberlisaj)
 - [Vivek Vr](https://github.com/dcompanykrish)
 - [Alice Zandra Eya](https://github.com/AliceEya)
