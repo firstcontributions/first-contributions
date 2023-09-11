@@ -1,6 +1,5 @@
 # Contributors
 -[Francis Alex Darang](https://github.com/HappyCodingss)
-- [Arvind Tawker] (https://github.com/Arvind-t33)
 - [Ryudai Takai](https://github.com/ryudaitakai)
 - [Vikas Mishra](https://github.com/vikas-mshra)
 - [Mohamed Atta](https://github.com/MohamedAtta-AI)
@@ -15,6 +14,7 @@ Mahmoud Mirghani
 - [Muhammed Mifthah](https://github.com/Mifthah99)
 KOR EU WEI
 PRAJOT
+- [Ameer jafar](https://github.com/Ameerjafar)
 - [Leandro Henrique Barbosa](https://github.com/leandrohbar)
 - [Arjun A Chandran](https://github.com/Arjun-A3)
 - [Keannu Angelo Ramos](https://github.com/KeanCodex)
@@ -2052,3 +2052,4 @@ Akash Abraham
 - [Rajan Raj](https://github.com/rajanraj2)
 - [Jack Sun](https://github.com/jackzsun)
 - [Anih-Patrick Ugochukwu](https://github.com/anihpatrickugo/)
+- [Arvind Tawker] (https://github.com/Arvind-t33)
