@@ -38,6 +38,7 @@ PRAJOT
 - [Christopherson Carpio](https://github.com/tope0731)
 - [Charith Maddoju](https://github.com/charithmaddoju)
 - [Arber Lisaj](https://github.com/arberlisaj)
+- [Marek Mazij](https://github.com/Mrk-Mzj)
 - [Vivek Vr](https://github.com/dcompanykrish)
 - [Alice Zandra Eya](https://github.com/AliceEya)
 - [John Virgil Carvajal](https://github.com/DarcMattz)
