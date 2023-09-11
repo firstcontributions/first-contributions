@@ -1684,6 +1684,7 @@ Akash Abraham
 - [Sonjay Lake](https://github.com/SonjayLake)
 - [Luna Bean](https://github.com/Luna-Bean)
 - [Suauzureg](https://github.com/Suauzureg)
+- Derek Swanson
 - [Duc Dong](https://github.com/ducdongmg)
 - [Amna Ahmed](https://github.com/nono5342)
 - [Shreyes Gadwalkar](https://github.com/ShreyesGadwalkar)
