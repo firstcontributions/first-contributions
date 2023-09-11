@@ -14,6 +14,7 @@ Mahmoud Mirghani
 - [Muhammed Mifthah](https://github.com/Mifthah99)
 KOR EU WEI
 PRAJOT
+- [Leandro Henrique Barbosa](https://github.com/leandrohbar)
 - [Arjun A Chandran](https://github.com/Arjun-A3)
 - [Keannu Angelo Ramos](https://github.com/KeanCodex)
 - [Sagar Pant](https://github.com/Sagar-Pant-2k2)
