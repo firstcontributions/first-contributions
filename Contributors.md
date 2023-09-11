@@ -6,6 +6,7 @@
 - [Ferhat Cekim](https://github.com/ferferx)
 - [happy-harsh](https://github.com/happy-harsh)
 Mahmoud Mirghani
+- ➡️ [Armatys Konrad](https://github.com/karmatys8) ⬅️
 - [Saurabh Padman](https://github.com/spirus-dev)
 - [Samuel Betancourt](https://github.com/Leumas80) <img title="Leumas80" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ve.svg" width="22">
 - [Utsho de Bravestone](https://github.com/utshodebravestone)
