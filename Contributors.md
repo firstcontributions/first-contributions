@@ -155,6 +155,7 @@ Mac McHam
 - [Akash D Mane](https://github.com/akashmane17)
 - [Dominik](https://github.com/dominikstas)
 - [Patricia Dinh](https://github.com/phdinh)
+- olgaTheCreator
 - -psuuc-jayremy
 - [Kosumo] (https://github.com/masumo)
 - [Frederick] (https://github.com/fredsn0tDead)
