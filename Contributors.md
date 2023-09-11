@@ -1,4 +1,5 @@
 # Contributors
+- [Fahaad Al Abbadi](https://github.com/fahaad-abbadi)
 -[Ritin Tiwari](https://github.com/ritin0204)
 JialingYU
 -[Francis Alex Darang](https://github.com/HappyCodingss)
