@@ -1,5 +1,5 @@
 # Contributors
--[Francis Alex Darang](https://github.com/HappyCodingss)
+- [Francis Alex Darang](https://github.com/HappyCodingss)
 - [Ryudai Takai](https://github.com/ryudaitakai)
 - [Vikas Mishra](https://github.com/vikas-mshra)
 - [Mohamed Atta](https://github.com/MohamedAtta-AI)
@@ -14,6 +14,7 @@ Mahmoud Mirghani
 - [Muhammed Mifthah](https://github.com/Mifthah99)
 KOR EU WEI
 PRAJOT
+- [Ameer jafar](https://github.com/Ameerjafar)
 - [Leandro Henrique Barbosa](https://github.com/leandrohbar)
 - [Arjun A Chandran](https://github.com/Arjun-A3)
 - [Keannu Angelo Ramos](https://github.com/KeanCodex)
