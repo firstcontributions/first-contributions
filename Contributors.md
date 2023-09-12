@@ -2087,3 +2087,4 @@ Akash Abraham
 - [Brenna Clark](https://github.com/brennacclark)
 - [Vinicius Lopes] (https://github.com/frenziedcode)
 - [tong822218](https://github.com/tong822218)
+- [Sufiyan Malek](https://github.com/sufimalek)
