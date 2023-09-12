@@ -2104,3 +2104,4 @@ Akash Abraham
 - [Aishwarya Sahu](https://github.com/ashesash)
 - [Joey Santos] (https://github.com/Santeezy7).
 - [Affen_Herzog](https://github.com/AffenHerzog)
+- [Joseph Parish](https://github.com/JosephParish)
