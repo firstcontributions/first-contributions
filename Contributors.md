@@ -28,6 +28,7 @@ PRAJOT
 - [Leandro Henrique Barbosa](https://github.com/leandrohbar)
 - [Arjun A Chandran](https://github.com/Arjun-A3)
 - [Keannu Angelo Ramos](https://github.com/KeanCodex)
+- [Joel Jefferson](https://github.com/JoelJefferson2004)
 - [Sagar Pant](https://github.com/Sagar-Pant-2k2)
 - [Joshua Reitz](http://github.com/jreitz2)
 - [Shailesh Negi](https://github.com/negishailesh)
