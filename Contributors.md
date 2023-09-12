@@ -95,6 +95,7 @@ PRAJOT
 - [Eitan Schwartz] (https://github.com/eitan07)
 - [sudeepbm](https://github.com/sudeepbm)
 - [Tommy](https://github.com/tommypurcell)
+- [Gabriel Achille](https://github.com/gabrielachille)
 - [christian inyekaka](https://github.com/chrisBokotaII)
 - [Laissa Nicole dela Cruz](https://github.com/LaissaNicole)
 - [[Trustbycode]](https://github.com/trustbycode/)
