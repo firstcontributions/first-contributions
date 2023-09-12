@@ -1,0 +1,119 @@
+﻿Git Adventure
+1. Create a GitHub account
+2. Make a repository
+3. Add a file to the repository
+
+
+
+
+
+
+A "repo" or repository is a storage space where your project lives. It can contain folders, files, images—basically, anything your project needs. Repos can exist both locally on your computer and remotely on a server, often hosted by services like GitHub or GitLab. It's the central hub where all versions of your project files are stored and managed.
+Git Cloning
+What it is: Creating a local copy of a remote repository on your computer.
+
+
+Command:
+git clone <repository_url>
+
+
+Plain English: "Hey Git, make a copy of this project so I can work on it locally."
+
+
+Branching vs. Forking
+Branching: Creating a new 'lane' within the same project for isolated work. Easy to merge back.
+
+
+Forking: Making an independent copy of the entire project. Requires approval to merge changes back into the original.
+
+
+Branching is for isolated work within the same repo; forking is for creating a separate, independent repo.
+
+
+Git Forking
+What it is: Creating your own remote copy of someone else's remote repository.
+
+
+Platform Action: Usually done via GitHub or GitLab; you'll click a "Fork" button.
+
+
+Plain English: "I want my own version of this project online so I can make changes without affecting the original."
+
+
+Git Branching
+What it is: Creating a new 'line of development' or 'branch' from the current one.
+
+
+Command to Create a New Branch:
+git branch <new_branch_name>
+
+
+Command to Switch to the New Branch:
+git checkout <new_branch_name>
+
+
+Combined Command to Create and Switch in One Step:
+git checkout -b <new_branch_name>
+
+
+Plain English: "Let me work on a new set of features or fixes without messing with the main project. Once I'm done, we can combine the changes."
+
+
+Creating a new branch allows you to work on features, fixes, or experiments without affecting the main or other branches. You can later merge these changes into the main branch or any other branch.
+
+
+
+
+Git Adding
+What it is: Staging changes you've made for commit.
+
+
+Command:
+git add <file_name>
+
+
+or to add all:
+git add .
+
+
+Plain English: "Hey Git, I want to save these changes, get them ready."
+
+
+Git Committing
+What it is: Saving a snapshot of staged changes locally.
+
+
+Command:
+git commit -m "Commit message here"
+
+
+Plain English: "Save these staged changes and label them with a message so we know what we did."
+
+
+Git Pushing
+What it is: Sending your committed changes to a remote repository.
+
+
+Command:
+git push origin <branch_name>
+
+
+Plain English: "I've saved changes locally, now update the online version with these changes."
+
+
+Git Merging
+What it is: Combining changes from one branch into another.
+
+
+Commands:
+
+
+First, switch to the branch you want to merge into:
+git checkout <target_branch>
+
+
+Then merge:
+git merge <source_branch>
+
+
+Plain English: "Take the changes from this branch and combine them with that branch."
