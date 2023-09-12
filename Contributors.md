@@ -7,6 +7,7 @@ JialingYU
 - [Nikosbatz](https://github.com/Nikosbatz)
 - [sourav kumar panda] (https://github.com/Sourav-Kumar-Panda)
 - [Ryudai Takai](https://github.com/ryudaitakai)
+- [Faraz Sharifi](https://github.com/FarazShin) 😰
 - [Vikas Mishra](https://github.com/vikas-mshra)
 - [Mohamed Atta](https://github.com/MohamedAtta-AI)
 - [Ferhat Cekim](https://github.com/ferferx)
