@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start and welcome -->
 
 - [Nihal]
+- [Pankaj Singh](https://github.com/PankajSingh10)
 - [Samaila](https://github.com/samailamalima)
 - [Manmit Arvind Tiwade](https://github.com/Manmit124)
 - [Divyansh Pratap Singh](https://github.com/divyansh2375)
@@ -20,7 +21,6 @@
 - [Seth Zwerling](https://github.com/SZwerling)
   [Vinay Chitade](https://github.com/vcint)
 - [Uday Krishnan](https://github.com/udaykrishnan9302)
-- [Pankaj Singh](https://github.com/PankajSingh10)
 - [robinofautumn](https://github.com/robinofautumn)
 - [Rushil Kumar](https://github.com/Rushilkr77)
 - [Vanessa Meyer](https://github.com/vansvones)
