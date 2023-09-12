@@ -1570,6 +1570,7 @@ Akash Abraham
 - [Joseph Lopes](https://github.com/josephlopes)
 - [Sanjog Rijal](https://github.com/SanjogRijal)
 - [Daniel Gaerber](https://github.com/Gandagorn)
+- [Martin Orue](https://github.com/martinorue)
 - [dbsaw](https://github.com/dbsaw)
 - [Cezary](https://github.com/CM43210)
 - [Grace Sun](https://github.com/grace-sun-shine)
