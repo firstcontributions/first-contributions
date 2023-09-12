@@ -120,6 +120,7 @@ PRAJOT
 - [Nicholas Gutierrez](https://github.com/nicholasg2001)
 - [angelamagno](https://github.com/angelamagno)
 - [Ori Rose](https://github.com/oriodev)
+- [Lisa Sun](https://github.com/sklisa)
 - [Mengde Wang](https://github.com/wangme88)
 - [Robert Vittozzi](http://github.com/rvittozzi)
 - [Lavanya Mishra](https://github.com/chessmadridista)
