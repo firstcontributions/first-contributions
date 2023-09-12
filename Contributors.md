@@ -21,8 +21,9 @@ Mahmoud Mirghani
 - [Utsho de Bravestone](https://github.com/utshodebravestone)
 - [Francis MD](https://github.com/Francis-MD)
 - [Roney Moon](https://github.com/roneymoon)
-- [Geetika Jhanji](https://github.com/geetikajhanji11)
+- [Geetika Jhanji](https://github.comgit/geetikajhanji11)
 - [piyush Dadgal](https://github.com/Piyush0618)
+- [arshid bhat](https://github.com/bhatarshid)
 - [Muhammed Mifthah](https://github.com/Mifthah99)
 - [Ben Hur](https://github.com/BenHur28)
 KOR EU WEI
