@@ -122,6 +122,7 @@ PRAJOT
 - [angelamagno](https://github.com/angelamagno)
 - [Ori Rose](https://github.com/oriodev)
 - [Lisa Sun](https://github.com/sklisa)
+- [Prem Rajendran](https://github.com/Pr3mR4jendran)
 - [Mengde Wang](https://github.com/wangme88)
 - [Robert Vittozzi](http://github.com/rvittozzi)
 - [Lavanya Mishra](https://github.com/chessmadridista)
