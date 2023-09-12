@@ -657,6 +657,7 @@ Nikhil R
 - [Prabhat Saxena](https://github.com/xx-VIRUS-xx)
 - [Conner Luff]
 - [Jamey Bryce](https://github.com/jameydev)
+- [Nenos Hu](https://github.com/Nenos-Hu)
 - [Jatin Sood]
 - [Jorge Cano]
 - [Arda Dönmez](https://github.com/Kashidex)
