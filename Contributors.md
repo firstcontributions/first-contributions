@@ -441,6 +441,7 @@ Nikhil R
 - [Dishan Ifte Nabil](https://github.com/dishan-1562)
 - [Imad Ahmad] (https://github.com/imadahmad97)
 - [Jerico Franco](https://github.com/cout05)
+- [James Yuill](https://github.com/jamesyuill)
 - [Sacré MBIKU MUKWAKANI](https://github.com/Sacre-MBIKU-WAKANE)
 - [Jatin Jindal](https://github.com/vercetti322)
 - [Purya Behzadpur](https://github.com/puryabzp)
