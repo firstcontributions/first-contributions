@@ -126,6 +126,7 @@ PRAJOT
 - [Mengde Wang](https://github.com/wangme88)
 - [Robert Vittozzi](http://github.com/rvittozzi)
 - [Lavanya Mishra](https://github.com/chessmadridista)
+- [Himanshu Pal](https://github.com/Himanshupal0001)
 - [Erik Vargas](https://github.com/erikAlberto)
 - [Pina Sunil](https://github.com/PinaSunil)
 - [Joanna Marie Areniego](https://github.com/JoannaMarieAreniego)
