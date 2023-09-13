@@ -36,6 +36,8 @@ jobs:
           # set the output 
           echo "pr_files=$PR_FILES" >> "$GITHUB_OUTPUT"
 
+          echo "$PR_FILES";
+
       # Check if the pull request only modifies the Contributors.md file
       - name: Check only Contributors.md file modified
         id: check_num_of_files_modified_step
