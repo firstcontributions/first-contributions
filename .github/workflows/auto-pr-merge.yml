@@ -73,39 +73,39 @@ jobs:
             echo "only_contributors=false" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Check if PR only modifies Contributors.md
-        id: is_only_contributors_file_changed
+      # Run only if there only Contributors.md file modified in the PR
+      - name: Check only one line modified in Contributors.md
+        id: check_num_of_lines_modified_step
+        if: env.only_contributors == 'true'
         run: |
-          # Get a list of files changed in the pull request
-          PR_FILES=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-            "https://api.github.com/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files" | \
-            jq -r '.[].filename')
-          FILES_CHANGED=$(echo $PR_FILES | tr '\n' ' ')
+          # check only one line edited in Contributors.md file
 
-          echo "files_changed=$FILES_CHANGED" >> $GITHUB_ENV
-          
-          if [[ "${FILES_CHANGED// /}" == "Contributors.md" ]]; then
+          # Extract the additions and changes fields from the API response
+          ADDITIONS=$(echo "$pr_files_url" | jq '.[] | select(.filename == "Contributors.md") | .additions')
+          CHANGES=$(echo "$pr_files_url" | jq '.[] | select(.filename == "Contributors.md") | .changes')
+          DELETIONS=$(echo "$pr_files_url" | jq '.[] | select(.filename == "Contributors.md") | .deletions')
 
-            echo "only_contributors=true" >> $GITHUB_ENV
+          # check only one line added, or only one line changed, or only one line deleted and one line added which makes 2 number of changes in Contributors.md file
+
+          if [[ ( $ADDITIONS -eq 1 && $CHANGES -eq 1 && $DELETIONS -eq 0 ) || ( $ADDITIONS -eq 1 && $CHANGES -eq 2 && $DELETIONS -eq 1 ) ]]; then
+
+            # add to job output
+            echo "only_one_line_edited=true" >> "$GITHUB_OUTPUT"
+
+            # env variable
+            echo "only_one_line_edited=true" >> $GITHUB_ENV
+
           else
-            echo "only_contributors=false" >> $GITHUB_ENV
+
+            # More than one line was edited in Contributors.md file
+            echo "only_one_line_edited=false" >> "$GITHUB_OUTPUT"
+
+            echo "only_one_line_edited=false" >> $GITHUB_ENV
+
           fi
 
-      - name: Check if PR has only one line change
-        run: |
-          ADDITIONS=${{ github.event.pull_request.additions }}
-          DELETIONS=${{ github.event.pull_request.deletions }}
-
-          echo "additions=$ADDITIONS" >> $GITHUB_ENV
-          echo "deletions=$DELETIONS" >> $GITHUB_ENV
-
-          if [[ $ADDITIONS == 1 && $DELETIONS == 0 ]]; then
-            echo "one_line_change=true" >> $GITHUB_ENV
-          elif [[ $ADDITIONS == 2 && $DELETIONS == 1 ]]; then
-            echo "one_line_change=true" >> $GITHUB_ENV
-          else
-            echo "one_line_change=false" >> $GITHUB_ENV
-          fi
+        env:
+          pr_files_url: env.pr_files
 
       # Merge the pull request if it only modifies the Contributors.md file or if it fail to do then drop failure message as post 
       - name: Merge PR
