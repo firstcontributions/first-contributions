@@ -1,8 +1,9 @@
 # Contributors
 - [Fahaad Al Abbadi](https://github.com/fahaad-abbadi)
 - [Sarthak Raj](https://github.com/sarthak-devel)
-
+- [manymogo](https://github.com/manymogo)
 - [Tyler Barlow] (https://github.com/barlowtyler96)
+- [Daniel Albano III] (https://github.com/danielalbano3)
 - [Russell Chan] (https://github.com/tenderfoot-scout)
 -[Ritin Tiwari](https://github.com/ritin0204)
 JialingYU
@@ -53,6 +54,7 @@ PRAJOT
 - [Sagar Pant](https://github.com/Sagar-Pant-2k2)
 - [Joshua Reitz](http://github.com/jreitz2)
 - [Shailesh Negi](https://github.com/negishailesh)
+- [Mananshu Mandaliya](https://github.com/MananshuMandaliya)
 - [Eashan Kotha](https://github.com/ekotha)
 - [dysonsphere](https://github.com/Dysonsphere42)
 - [Joel Gutlay](https://github.com/Livsn06)
@@ -233,6 +235,7 @@ Mac McHam
 -psuuc-manaois
 -amado-tristan
 -psuuc-fernandez
+-Bealu Girma
 -psuuc-jcsbayan
 -psuuc-vmgabriel
 - [Logan .B (logabe)] (https://github.com/logabe)
@@ -1220,6 +1223,7 @@ Nikhil R
 - [Leron Tonge](https://github.com/lerontonge)
 - [Jack Ma](https://github.com/KingJacM)
 - [Angel Nieto](https://github.com/N-a290)
+- [Larmix](https://github.com/larmix0)
 - [blackbrokkoli](https://github.com/blackbrokkoli)
 - [Avinash Karmjit](https://github.com/avi465)
 - [Nozomu Ohno](https://github.com/nohno23)
