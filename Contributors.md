@@ -2139,5 +2139,6 @@ Akash Abraham
 - [Oscar Vaquera](https://github.com/vaqueraoscar0)
 - [Ronaldi] (https://github.com/RonaldiVX1)
 - [lazym0on] (https://github.com/lazym0on)
+- [Aditya Kumar] (https://github.com/AdityasGtHub)
 - [Jax Hax] (https://github.com/Jax-Hax)
 - [Vishwaksen] (https://github.com/vishwaksen-1)
