@@ -1235,6 +1235,7 @@ Nikhil R
 - [Nick Hankins](https://github.com/nhankins)
 - [Matthew McCane](https://github.com/DakuwoN)
 - [Kade Levien](https://github.com/levienk)
+- [Bryan Thompson](https://github.com/bthompson104)
 - [Rishikesh S](https://github.com/Rhilok)
 - [Moses Fawole](https://github.com/mosesfawole)
 - [Paresh Mestry](https://github.com/im-pareshm)
