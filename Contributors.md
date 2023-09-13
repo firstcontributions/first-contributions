@@ -5,6 +5,7 @@
 JialingYU
 -[Francis Alex Darang](https://github.com/HappyCodingss)
 -[Felipe Penner dos Santos](https://github.com/Ainasas)
+- [Zavier Chambers](https://github.com/ZavierChambers)
 - [Usenmfon Uko](https://github.com/Usenmfon)
 - [Nikosbatz](https://github.com/Nikosbatz)
 - [sourav kumar panda] (https://github.com/Sourav-Kumar-Panda)
