@@ -34,7 +34,7 @@ jobs:
             "https://api.github.com/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files")
             
           # Trim leading and trailing whitespaces
-          PR_FILES=$(echo $PR_FILES | xargs)
+          PR_FILES=$(echo $PR_FILES )
           echo $PR_FILES
           
           # set the output 
