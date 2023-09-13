@@ -392,7 +392,7 @@ jobs:
 
     permissions:
       # only permission to post comment
-      issues: write
+      pull-requests: write
 
     env:
       get_pr_files: ${{needs.check-modified-files-and-content.outputs.pr_files }}
