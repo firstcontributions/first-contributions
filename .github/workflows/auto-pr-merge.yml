@@ -52,7 +52,7 @@ jobs:
           #FIXME: fix the logic for storing file name; currently, if there is space in the file name, it will be stored as two different files in the output. e.g "File name.md" will be stored as "File" and "name.md
           
           # file names as list
-          FILES_CHANGED_LIST=$(echo "$FILES_CHANGED")
+          FILES_CHANGED_LIST=$(echo "$FILES_CHANGED" | xargs)
           echo "After FILES_CHANGED_LIST"
           echo "$FILES_CHANGED_LIST"
           # file names stored in output
