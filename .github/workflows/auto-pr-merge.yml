@@ -402,13 +402,13 @@ jobs:
       files_changed: ${{ needs.check-modified-files-and-content.outputs.files_changed }}
 
       # output from check-non-safe-content job
-      is_safe_contents: ${{ check-non-safe-content.outputs.is_safe_contents }}
+      is_safe_contents: ${{ needs.check-non-safe-content.outputs.is_safe_contents }}
 
       # output from merge-pr job
-      is_pr_mergeable: ${{ merge-pr.outputs.is_pr_mergeable }}
-      merge_check_error_message: ${{ merge-pr.outputs.merge_check_error_message }}
-      is_merged_successfully: ${{ merge-pr.outputs.is_merged_successfully }}
-      merge_error_message: ${{ merge-pr.outputs.merge_error_message }}
+      is_pr_mergeable: ${{ needs.merge-pr.outputs.is_pr_mergeable }}
+      merge_check_error_message: ${{ needs.merge-pr.outputs.merge_check_error_message }}
+      is_merged_successfully: ${{ needs.merge-pr.outputs.is_merged_successfully }}
+      merge_error_message: ${{ needs.merge-pr.outputs.merge_error_message }}
 
     steps:
       - name: Checkout to PR branch
