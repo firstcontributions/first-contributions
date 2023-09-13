@@ -35,6 +35,7 @@ jobs:
             
           # Trim leading and trailing whitespaces
           PR_FILES=$(echo $PR_FILES | xargs)
+          echo $PR_FILES
           
           # set the output 
           echo "pr_files=$PR_FILES" >> $GITHUB_OUTPUT
