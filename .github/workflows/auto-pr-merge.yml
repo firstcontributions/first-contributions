@@ -47,7 +47,7 @@ jobs:
         id: check_num_of_files_modified_step
         run: |
           # Extract the filenames from the API response
-          FILES_CHANGED=$(echo '${{ fromJSON(env.pr_files) }}' | jq -r '.[].filename')
+          FILES_CHANGED=$(echo '${{ toJSON(env.pr_files) }}' | jq -r '.[].filename')
           echo "After the getting list of filesname"
           #FIXME: fix the logic for storing file name; currently, if there is space in the file name, it will be stored as two different files in the output. e.g "File name.md" will be stored as "File" and "name.md
           
