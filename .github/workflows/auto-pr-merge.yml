@@ -32,9 +32,9 @@ jobs:
           # Get a list of files changed in the pull request
           PR_FILES=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
             "https://api.github.com/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files")
-          echo "$PR_FILES" | jq .
+            
           # Trim leading and trailing whitespaces
-          PR_FILES=$(echo $PR_FILES | xargs)
+          PR_FILES=$(echo "${{ fromJSON(PR_FILES) }} )
           
           # set the output 
           echo "pr_files=$PR_FILES" >> "$GITHUB_OUTPUT"
