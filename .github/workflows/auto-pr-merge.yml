@@ -53,32 +53,34 @@ jobs:
           echo $FILES_CHANGED
           echo "Above is list of file changed 
           echo "After the getting list of filesname"
-          #FIXME: fix the logic for storing file name; currently, if there is space in the file name, it will be stored as two different files in the output. e.g "File name.md" will be stored as "File" and "name.md
+          
+          # FIXME: fix the logic for storing file name; currently, if there is space in the file name, it will be stored as two different files in the output. e.g "File name.md" will be stored as "File" and "name.md
           
           # file names as list
-          FILES_CHANGED_LIST=$(echo "$FILES_CHANGED" | xargs)
-          echo "After FILES_CHANGED_LIST"
-          echo "$FILES_CHANGED_LIST"
-          echo "$FILES_CHANGED_LIST"
+          FILES_CHANGED_LIST=$(echo "variable - $FILES_CHANGED" | xargs)
+          echo "string only - After FILES_CHANGED_LIST"
+          echo "variable - $FILES_CHANGED_LIST"
+          echo "variable - $FILES_CHANGED_LIST"
           # file names stored in output
           echo "files_changed=$FILES_CHANGED_LIST" >> "$GITHUB_OUTPUT"
-          echo "$files_changed"
+          echo "output variable and below is without quote - $files_changed"
           echo $files_changed
           # file names stored in env
           echo "files_changed=$FILES_CHANGED_LIST" >> $GITHUB_ENV
-
+          echo "env variable and below is without quote - $files_changed"
           # Look for Contributors.md file in the list of files changed
           if [[ "${FILES_CHANGED_LIST// /}" == "Contributors.md" ]]; then
 
             # share output with other workflow
             echo "only_contributors=true" >> "$GITHUB_OUTPUT" 
-            echo "$only_contributors"
+            echo "env variable - $only_contributors"
+            echo "I am inside if when there is a contribution file. "
 
             # Content added to Contributors.md file
             CONTRIBUTORS_MD_CONTENT=$(echo "$PR_FILES" | jq -r '.[].patch')
 
             echo $CONTRIBUTORS_MD_CONTENT
-            echo "$CONTRIBUTORS_MD_CONTENT"
+            echo "print content variable and above as well - $CONTRIBUTORS_MD_CONTENT"
 
             echo "contributors_md_content=$CONTRIBUTORS_MD_CONTENT" >> "$GITHUB_OUTPUT"
 
