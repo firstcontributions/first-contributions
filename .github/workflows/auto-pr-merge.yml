@@ -37,7 +37,7 @@ jobs:
           PR_FILES=$(echo $PR_FILES | xargs)
           
           # set the output 
-          echo "pr_files=$PR_FILES" >> "$GITHUB_OUTPUT"
+          echo "pr_files=$PR_FILES" >> $GITHUB_OUTPUT
 
           # set the env for this job
           echo "pr_files=$PR_FILES" >> $GITHUB_ENV
