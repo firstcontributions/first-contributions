@@ -617,6 +617,7 @@ Nikhil R
 - [Alex W](https://github.com/yw3762)
 - [Sanjiv Kushwaha]
 - [Sumitra Sharma](https://github.com/heygauri)
+- [Tyler Idzerda} (https://github.com/idzerda-tyler)
 - [efrxngg](https://github.com/efrxngg)
 - [Ahmed ezealdean (https://github.com/codezol)]
 - [Tiago404](https://github.com/Tiago404)
