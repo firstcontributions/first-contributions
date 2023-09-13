@@ -44,10 +44,10 @@ jobs:
 
       - name: debug the pr_file
         run: | 
-          # echo "$pr_files"
-          echo "${{ env.pr_files }}"
-          echo "${{ fromJSON(env.pr_files) }}
-          echo "${{ toJSON(env.pr_files) }}"
+          echo "$pr_files"
+          # echo "${{ env.pr_files }}"
+          # echo "${{ fromJSON(env.pr_files) }}
+          # echo "${{ toJSON(env.pr_files) }}"
           
       # Check if the pull request only modifies the Contributors.md file
       - name: Check only Contributors.md file modified
