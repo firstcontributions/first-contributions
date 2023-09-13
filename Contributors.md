@@ -1,5 +1,6 @@
 # Contributors
 - [Fahaad Al Abbadi](https://github.com/fahaad-abbadi)
+- [Tyler Barlow] (https://github.com/barlowtyler96)
 - [Russell Chan] (https://github.com/tenderfoot-scout)
 -[Ritin Tiwari](https://github.com/ritin0204)
 JialingYU
