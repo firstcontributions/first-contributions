@@ -134,7 +134,7 @@ jobs:
           fi
 
         env:
-          pr_files_url: env.pr_files
+          pr_files_url: ${{env.pr_files}}
 
   # Job for checking offensive and malicious links
   check-non-safe-content:
