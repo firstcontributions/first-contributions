@@ -2113,3 +2113,4 @@ Akash Abraham
 - [Joseph Parish](https://github.com/JosephParish)
 - [Ibrahim Alfa](https://github.com/I-Alpha)
 - [Oscar Vaquera](https://github.com/vaqueraoscar0)
+- [Ronaldi] (https://github.com/RonaldiVX1)
