@@ -101,13 +101,13 @@ jobs:
           # check only one line edited in Contributors.md file
 
           # Extract the additions and changes fields from the API response
-          ADDITIONS=$(echo $pr_files_url | jq '.[] | select(.filename == "Contributors.md") | .additions')
+          ADDITIONS=$(echo '$pr_files_url' | jq '.[] | select(.filename == "Contributors.md") | .additions')
           echo "$ADDITIONS"
           echo $ADDITIONS
-          CHANGES=$(echo $pr_files_url | jq '.[] | select(.filename == "Contributors.md") | .changes')
+          CHANGES=$(echo '$pr_files_url' | jq '.[] | select(.filename == "Contributors.md") | .changes')
           echo $CHANGES
           echo "$CHANGES"
-          DELETIONS=$(echo $pr_files_url | jq '.[] | select(.filename == "Contributors.md") | .deletions')
+          DELETIONS=$(echo '$pr_files_url' | jq '.[] | select(.filename == "Contributors.md") | .deletions')
           echo $DELETIONS
           echo "$DELETIONS"
 
