@@ -1220,6 +1220,7 @@ Nikhil R
 - [Leron Tonge](https://github.com/lerontonge)
 - [Jack Ma](https://github.com/KingJacM)
 - [Angel Nieto](https://github.com/N-a290)
+- [Larmix](https://github.com/larmix0)
 - [blackbrokkoli](https://github.com/blackbrokkoli)
 - [Avinash Karmjit](https://github.com/avi465)
 - [Nozomu Ohno](https://github.com/nohno23)
