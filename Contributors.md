@@ -36,6 +36,7 @@ Mahmoud Mirghani
 - [arshid bhat](https://github.com/bhatarshid)
 - [Muhammed Mifthah](https://github.com/Mifthah99)
 - [Ben Hur](https://github.com/BenHur28)
+- [Lion Yakubov](https://github.com/Lion011095)
 KOR EU WEI
 PRAJOT
 - Andrew Pun
