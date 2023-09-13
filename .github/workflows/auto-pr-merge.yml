@@ -8,17 +8,16 @@ on:
 jobs:
   # Job for checking all modified files PR
   check-modified-files-and-content:
-    id: check_files_modified_step
     runs-on: ubuntu-latest
     permissions:
       contents: read
 
     outputs:
-      pr_files: ${{ steps.check_files_modified_step.outputs.pr_files }}
-      files_changed: ${{ steps.check_files_modified_step.outputs.files_changed }}
-      is_only_contributors_file_changed: ${{ steps.check_files_modified_step.outputs.only_contributors }}
-      is_only_one_line_modified: ${{ steps.check_files_modified_step.outputs.only_one_line_edited }}
-      contributors_md_content: ${{ steps.check_files_modified_step.outputs.contributors_md_content }}
+      pr_files: ${{ steps.check-modified-files-and-content.outputs.pr_files }}
+      files_changed: ${{ steps.check-modified-files-and-content.outputs.files_changed }}
+      is_only_contributors_file_changed: ${{ steps.check-modified-files-and-content.outputs.only_contributors }}
+      is_only_one_line_modified: ${{ steps.check-modified-files-and-content.outputs.only_one_line_edited }}
+      contributors_md_content: ${{ steps.check-modified-files-and-content.outputs.contributors_md_content }}
 
     steps:
       - name: Checkout to PR branch
@@ -110,7 +109,6 @@ jobs:
   # Job for checking offensive and malicious links
   check-non-safe-content:
     if: env.get_is_only_contributors_file_changed == 'true' && get_is_only_one_line_modified = 'true'
-    id: check_non_safe_content_step
     # job run after completion of this job
     needs: check-modified-files-and-content
 
@@ -121,14 +119,14 @@ jobs:
       contents: read
 
     outputs:
-      is_safe_contents: ${{ steps.check_non_safe_content_step.outputs.is_safe_contents }}
-      # replaced_safe_contents: ${{ steps.check_non_safe_content_step.outputs.replaced_safe_contents }}
+      is_safe_contents: ${{ steps.check-non-safe-content.outputs.is_safe_contents }}
+      # replaced_safe_contents: ${{ steps.check-non-safe-content.outputs.replaced_safe_contents }}
 
     env:
-      get_pr_files: ${{needs.check_files_modified_step.outputs.pr_files }}
-      get_is_only_contributors_file_changed: ${{ needs.check_files_modified_step.outputs.only_contributors }}
-      get_is_only_one_line_modified: ${{ needs.check_files_modified_step.outputs.only_one_line_edited }}
-      get_contributors_md_content: ${{ needs.check_files_modified_step.outputs.contributors_md_content }}
+      get_pr_files: ${{needs.check-modified-files-and-content.outputs.pr_files }}
+      get_is_only_contributors_file_changed: ${{ needs.check-modified-files-and-content.outputs.only_contributors }}
+      get_is_only_one_line_modified: ${{ needs.check-modified-files-and-content.outputs.only_one_line_edited }}
+      get_contributors_md_content: ${{ needs.check-modified-files-and-content.outputs.contributors_md_content }}
 
     steps:
       - name: Separate the texts and links from the content
@@ -225,7 +223,6 @@ jobs:
 
   merge-pr:
     if: env.is_safe_contents_text == 'true' && env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true'
-    id: merge_pr_step
     # job run after completion of this job
     needs: [check-modified-files-and-content, check-non-safe-content]
 
@@ -238,14 +235,14 @@ jobs:
     outputs:
       is_pr_mergeable: ${{ steps.check_mergeability.outputs.is_pr_mergeable }}
       merge_check_error_message: ${{ steps.check_mergeability.outputs.merge_check_error_message }}
-      is_merged_successfully: ${{ steps.merge_pr_step.outputs.is_merged_successfully }}
-      merge_error_message: ${{ steps.merge_pr_step.outputs.merge_error_message }}
+      is_merged_successfully: ${{ steps.merge-pr.outputs.is_merged_successfully }}
+      merge_error_message: ${{ steps.merge-pr.outputs.merge_error_message }}
 
     env:
-      get_pr_files: ${{needs.check_files_modified_step.outputs.pr_files }}
-      get_is_only_contributors_file_changed: ${{ needs.check_files_modified_step.outputs.only_contributors }}
-      get_is_only_one_line_modified: ${{ needs.check_files_modified_step.outputs.only_one_line_edited }}
-      get_contributors_md_content: ${{ needs.check_files_modified_step.outputs.contributors_md_content }}
+      get_pr_files: ${{needs.check-modified-files-and-content.outputs.pr_files }}
+      get_is_only_contributors_file_changed: ${{ needs.check-modified-files-and-content.outputs.only_contributors }}
+      get_is_only_one_line_modified: ${{ needs.check-modified-files-and-content.outputs.only_one_line_edited }}
+      get_contributors_md_content: ${{ needs.check-modified-files-and-content.outputs.contributors_md_content }}
 
     steps:
       #Check mergeability of PR 
@@ -348,7 +345,6 @@ jobs:
               }
 
   post-comment:
-    id: post_comment_step
     # job run after completion of this job
     needs: [check-modified-files-and-content, merge-pr]
 
@@ -359,20 +355,20 @@ jobs:
       issues: write
 
     env:
-      get_pr_files: ${{needs.check_files_modified_step.outputs.pr_files }}
-      get_is_only_contributors_file_changed: ${{ needs.check_files_modified_step.outputs.only_contributors }}
-      get_is_only_one_line_modified: ${{ needs.check_files_modified_step.outputs.only_one_line_edited }}
-      get_contributors_md_content: ${{ needs.check_files_modified_step.outputs.contributors_md_content }}
-      files_changed: ${{ needs.check_files_modified_step.outputs.files_changed }}
+      get_pr_files: ${{needs.check-modified-files-and-content.outputs.pr_files }}
+      get_is_only_contributors_file_changed: ${{ needs.check-modified-files-and-content.outputs.only_contributors }}
+      get_is_only_one_line_modified: ${{ needs.check-modified-files-and-content.outputs.only_one_line_edited }}
+      get_contributors_md_content: ${{ needs.check-modified-files-and-content.outputs.contributors_md_content }}
+      files_changed: ${{ needs.check-modified-files-and-content.outputs.files_changed }}
 
       # output from check-non-safe-content job
-      is_safe_contents: ${{ check-non-safe-content.check_non_safe_content_step.outputs.is_safe_contents }}
+      is_safe_contents: ${{ check-non-safe-content.check-non-safe-content.outputs.is_safe_contents }}
 
       # output from merge-pr job
-      is_pr_mergeable: ${{ merge-pr.merge_pr_step.outputs.is_pr_mergeable }}
-      merge_check_error_message: ${{ merge-pr.merge_pr_step.outputs.merge_check_error_message }}
-      is_merged_successfully: ${{ needs.merge_pr_step.outputs.is_merged_successfully }}
-      merge_error_message: ${{ needs.merge_pr_step.outputs.merge_error_message }}
+      is_pr_mergeable: ${{ merge-pr.merge-pr.outputs.is_pr_mergeable }}
+      merge_check_error_message: ${{ merge-pr.merge-pr.outputs.merge_check_error_message }}
+      is_merged_successfully: ${{ needs.merge-pr.outputs.is_merged_successfully }}
+      merge_error_message: ${{ needs.merge-pr.outputs.merge_error_message }}
 
     steps:
       - name: Checkout to PR branch
