@@ -537,6 +537,7 @@ Nikhil R
 - [Esrael Geremew](https://github.com/esrael-github)
 - [MD Irfan Salim](https://github.com/irfan2577)
 - waiyan
+- [Hritik Jena](https://github.com/hritikjena)
 -[rochellealarcio](https://github.com/rochellealarcio)
 - [Fernando Barbos](https://github.com/Fernando7181)
 - [Yoel Kraitman](https://github.com/yoelKraitman)
