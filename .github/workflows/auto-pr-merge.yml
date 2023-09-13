@@ -40,7 +40,7 @@ jobs:
           echo "pr_files=$PR_FILES" >> "$GITHUB_OUTPUT"
 
           # set the env for this job
-          echo "pr_files=$PR_FILES" >> "$GITHUB_ENV"
+          echo "pr_files=$PR_FILES" >> $GITHUB_ENV
 
           echo "$PR_FILES";
 
