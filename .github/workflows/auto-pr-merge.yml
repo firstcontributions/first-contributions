@@ -295,6 +295,24 @@ jobs:
             } catch (error) {
               console.error("Error checking mergeability:", error.message);
             }
+      # Close the PR if it contains offensive content
+      - name: Close PR if it contains offensive content
+        if: env.is_safe_contents == 'false'
+        uses: actions/github-script@v5
+        with:
+          script: |
+            try{
+              github.rest.pulls.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: context.issue.number,
+                state: 'closed'
+              });
+
+            } catch (error) {
+              console.error("Error closing pull request:", error.message);
+            }
+            
       # Merge the pull request if it only modifies the Contributors.md file or if it fail to do then drop failure message as post 
       - name: Merge PR
         id: merge_pr
