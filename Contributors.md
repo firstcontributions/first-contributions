@@ -8,6 +8,7 @@
 JialingYU
 -[Francis Alex Darang](https://github.com/HappyCodingss)
 -[Felipe Penner dos Santos](https://github.com/Ainasas)
+- [Torsten Bergersen] (https://github.com/torstenbergersen)
 - [Zavier Chambers](https://github.com/ZavierChambers)
 - [Usenmfon Uko](https://github.com/Usenmfon)
 - [Nikosbatz](https://github.com/Nikosbatz)
@@ -17,7 +18,7 @@ JialingYU
 - [Faraz Sharifi](https://github.com/FarazShin) 😰
 - [Vikas Mishra](https://github.com/vikas-mshra)
 - Meraj Sheikh
-- Bennett Wilbert 
+- Bennett Wilbert
 - [Mohamed Atta](https://github.com/MohamedAtta-AI)
 - [hoeoek](https://github.com/hoeoek)
 - [Tom John](https://github.com/Jayjokeer)
@@ -77,7 +78,7 @@ PRAJOT
 - [Aditi Deshpande](https://github.com/Aditi002-holo)
 - [Abdulhadi5692HDI2-3](https://github.com/Abdulhadi5692HDI2-3)
 - [Yvick Miossec] (https://github.com/879hun675tgfoO098)
-- [Maricriz Canillas](https://github.com/MaricrizCanillas) 
+- [Maricriz Canillas](https://github.com/MaricrizCanillas)
 - [Letícia Aguiar](https://github.com/letsaguiar)
 - [Anirudh Duggal](https://github.com/AniswagMC)
 - [Itay Saban](https://github.com/itaysaban)
@@ -381,7 +382,7 @@ Mac McHam
 - [Esteban Block](https://github.com/NoNameNeeded4now)
 - [Jo Galeon](https://github.com/jogaleon)
 - [Amit singh](https://github.com/technicalamit8055)
-- [Devon Dixon] (https://github.com/DevonTD) 
+- [Devon Dixon] (https://github.com/DevonTD)
 - [rivera]
 - [John Ly] (https://github.com/johnly17)
 - [CJ Bauzon](https://github.com/cbauzon)
@@ -2045,7 +2046,7 @@ Akash Abraham
 - ming3
 - [Michael Joyce] (https://github.com/m-r-joyce)
 - [Sergey Rudenko](https://github.com/der-fanatiker)
-- [Deepak Sah](https://github.com/deepakkumar1983) 
+- [Deepak Sah](https://github.com/deepakkumar1983)
 - [Tareef Iman](https://github.com/TareefIman)
 - [Lai Yu-Chiao](https://github.com/joelai0101)
 - [Eric Larson](https://github.com/larsoneric)
