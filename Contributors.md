@@ -66,6 +66,7 @@ PRAJOT
 - [Jaidie Lampa](https://github.com/jaidie-lampa)
 - [Samuel Akongbota](https://github.com/Reysam2)
 - [Ayush Mhetre](https://github.com/mhetreayush)
+- [Brian Mehrens](https://github.com/brianmehrens)
 - [Melanie Nozuelo](https://github.com/Melanienozuelo)
 - [Emir Ertörer](https://github.com/EmirErtorer)
 - [Aditi Deshpande](https://github.com/Aditi002-holo)
