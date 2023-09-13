@@ -1,5 +1,6 @@
 # Contributors
 - [Fahaad Al Abbadi](https://github.com/fahaad-abbadi)
+- [Sarthak Raj](https://github.com/sarthak-devel)
 - [manymogo](https://github.com/manymogo)
 - [Tyler Barlow] (https://github.com/barlowtyler96)
 - [Daniel Albano III] (https://github.com/danielalbano3)
