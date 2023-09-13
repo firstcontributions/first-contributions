@@ -120,16 +120,26 @@ jobs:
 
             # add to job output
             echo "only_one_line_edited=true" >> "$GITHUB_OUTPUT"
+            echo $only_one_line_edited
+            echo "Above is github output"
 
             # env variable
             echo "only_one_line_edited=true" >> $GITHUB_ENV
+            echo $only_one_line_edited
+            echo "env variable above"
 
           else
 
             # More than one line was edited in Contributors.md file
             echo "only_one_line_edited=false" >> "$GITHUB_OUTPUT"
 
+            echo $only_one_line_edited
+            echo "Above is github output"
+
             echo "only_one_line_edited=false" >> $GITHUB_ENV
+            
+            echo $only_one_line_edited
+            echo "env variable above"
 
           fi
 
