@@ -88,6 +88,7 @@ PRAJOT
 -[Alleah Lyzet Ulpindo](https://github.com/psuuc-alsulpindo)
 - [Marcel Ruth] (https://github.com/MarcelRuth)
 - [MichaelAngelo]
+- [Tundekuzco](https://github.com/tundekuzco)
 - [xiunian](https://xiunian.github.io)
 - [Leonardo Rodriguez](https://github.com/LRodriguez92)
 - [Ryan Lembo-Ehms](https://github.com/rjle301)
