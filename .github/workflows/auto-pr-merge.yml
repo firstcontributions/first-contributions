@@ -413,19 +413,19 @@ jobs:
         uses: actions/github-script@v5
         with:
           script: |
-          try{
-              const body = `Thank you for your pull request. This pull request contains changes in files which requires review. The following files were changed:\n\n  ${process.env.files_changed.trim() ? `\n\n${process.env.files_changed.trim().split(' ').map(file => `- ${file}`).join('\n')}` : ''}`
-              github.rest.issues.createComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: context.issue.number,
-                body: body
-              });
-
-            } catch (error) {
-              console.error("Error posting comment:", error.message);
-            }
-        github-token: ${{ secrets.GITHUB_TOKEN }}
+            try{
+                const body = `Thank you for your pull request. This pull request contains changes in files which requires review. The following files were changed:\n\n  ${process.env.files_changed.trim() ? `\n\n${process.env.files_changed.trim().split(' ').map(file => `- ${file}`).join('\n')}` : ''}`
+                github.rest.issues.createComment({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: context.issue.number,
+                  body: body
+                });
+  
+              } catch (error) {
+                console.error("Error posting comment:", error.message);
+              }
+          github-token: ${{ secrets.GITHUB_TOKEN }}
 
       # Add review label to PR if there are multiple files changed
       - name: Add review label to PR
@@ -433,19 +433,19 @@ jobs:
         uses: actions/github-script@v5
         with:
           script: |
-          try{
-              github.rest.issues.addLabels({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: context.issue.number,
-                labels: [":woman_technologist: waiting for review"]
-              });
-
-            } catch (error) {
-              console.error("Error adding label:", error.message);
-            }
-
-        github-token: ${{ secrets.GITHUB_TOKEN }}
+            try{
+                github.rest.issues.addLabels({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: context.issue.number,
+                  labels: [":woman_technologist: waiting for review"]
+                });
+  
+              } catch (error) {
+                console.error("Error adding label:", error.message);
+              }
+  
+          github-token: ${{ secrets.GITHUB_TOKEN }}
 
       # Post comment on merge conflict when PR only modifies single line in Contributors.md file
       - name: Post comment on merge conflict
