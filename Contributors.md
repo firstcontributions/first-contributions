@@ -11,6 +11,7 @@ JialingYU
 - [Param Birje](https://github.com/parambirje)
 - [Faraz Sharifi](https://github.com/FarazShin) 😰
 - [Vikas Mishra](https://github.com/vikas-mshra)
+- Meraj Sheikh
 - [Mohamed Atta](https://github.com/MohamedAtta-AI)
 - [hoeoek](https://github.com/hoeoek)
 - [Tom John](https://github.com/Jayjokeer)
