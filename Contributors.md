@@ -20,6 +20,7 @@ JialingYU
 - Meraj Sheikh
 - Bennett Wilbert 
 - [Mohamed Atta](https://github.com/MohamedAtta-AI)
+- [Waleed Tariq](https://www.github.com/waleed-tariq)
 - [hoeoek](https://github.com/hoeoek)
 - [Tom John](https://github.com/Jayjokeer)
 - [Ferhat Cekim](https://github.com/ferferx)
