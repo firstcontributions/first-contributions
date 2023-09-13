@@ -223,6 +223,78 @@ jobs:
             console.error("Error checking texts:", error.message);
           }
 
+  merge-pr:
+    if: env.is_safe_contents_text == 'true' && env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true'
+    id: merge_pr_step
+    # job run after completion of this job
+    needs: [check-modified-files-and-content, check-non-safe-content]
+
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      pull-requests: write
+
+    outputs:
+      is_pr_mergeable: ${{ steps.check_mergeability.outputs.is_pr_mergeable }}
+      merge_check_error_message: ${{ steps.check_mergeability.outputs.merge_check_error_message }}
+      is_merged_successfully: ${{ steps.merge_pr_step.outputs.is_merged_successfully }}
+      merge_error_message: ${{ steps.merge_pr_step.outputs.merge_error_message }}
+
+    env:
+      get_pr_files: ${{needs.check_files_modified_step.outputs.pr_files }}
+      get_is_only_contributors_file_changed: ${{ needs.check_files_modified_step.outputs.only_contributors }}
+      get_is_only_one_line_modified: ${{ needs.check_files_modified_step.outputs.only_one_line_edited }}
+      get_contributors_md_content: ${{ needs.check_files_modified_step.outputs.contributors_md_content }}
+
+    steps:
+      #Check mergeability of PR 
+      - name: Check mergeability 
+        id: check_mergeability
+        uses: actions/github-script@v5
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            try{
+
+              const {owner, repo} = context.repo;
+              const pull_number = context.issue.number;
+
+              let mergeable;
+
+              let retries = 0;
+              const maxRetries = 3; // Maximum number of retries
+
+              // Keep checking the mergeability of the pull request until it is no longer null
+              while (mergeable === null && retries < maxRetries) {
+
+                const {data: pullRequest} = await github.rest.pulls.get({
+                  owner,
+                  repo,
+                  pull_number
+                });
+
+                mergeable = pullRequest.mergeable;
+
+                if (mergeable === null) {
+                  // Wait 3 seconds before retrying the request
+                  await new Promise(resolve => setTimeout(resolve, 3000));
+                  retries++;
+                }
+              }
+
+              if(retries === maxRetries) {
+                console.log('Maximum number of retries exceeded. Mergeability is still null.')
+                core.setOutput('is_pr_mergeable', false);
+                core.setOutput('merge_check_error_message', 'Maximum number of retries exceeded. Mergeability is still null.');
+              } else {
+                console.log('Mergeability of the pull request:', mergeable)
+                core.setOutput('is_merged_successfully', true);
+              }
+
+            } catch (error) {
+              console.error("Error checking mergeability:", error.message);
+            }
       # Merge the pull request if it only modifies the Contributors.md file or if it fail to do then drop failure message as post 
       - name: Merge PR
         id: merge_pr
