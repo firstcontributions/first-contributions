@@ -279,6 +279,7 @@ Mac McHam
 - [LooseJaguar](https://github.com/LooseJaguar):cat2:
 [AShotOfCode]
 - [Jonathan Santiago](https://github.com/JSantiago0317)
+- [Yafet Tekleab] (https://github.com/Yafet2557)
 - [sem9508](https://github.com/sem9508)
 - [Vinay Kumar](https://github.com/n4ryn)
 - [AShotOfCode]
