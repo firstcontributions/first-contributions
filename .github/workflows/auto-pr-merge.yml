@@ -107,6 +107,122 @@ jobs:
         env:
           pr_files_url: env.pr_files
 
+  # Job for checking offensive and malicious links
+  check-non-safe-content:
+    if: env.get_is_only_contributors_file_changed == 'true' && get_is_only_one_line_modified = 'true'
+    id: check_non_safe_content_step
+    # job run after completion of this job
+    needs: check-modified-files-and-content
+
+    runs-on: ubuntu-latest
+
+    permissions:
+      # Only read permission to Github token
+      contents: read
+
+    outputs:
+      is_safe_contents: ${{ steps.check_non_safe_content_step.outputs.is_safe_contents }}
+      # replaced_safe_contents: ${{ steps.check_non_safe_content_step.outputs.replaced_safe_contents }}
+
+    env:
+      get_pr_files: ${{needs.check_files_modified_step.outputs.pr_files }}
+      get_is_only_contributors_file_changed: ${{ needs.check_files_modified_step.outputs.only_contributors }}
+      get_is_only_one_line_modified: ${{ needs.check_files_modified_step.outputs.only_one_line_edited }}
+      get_contributors_md_content: ${{ needs.check_files_modified_step.outputs.contributors_md_content }}
+
+    steps:
+      - name: Separate the texts and links from the content
+        id: separate_text_and_links_from_content
+        run: |
+          # get only the contents added in the PR 
+          only_added_contents=$(echo "$get_contributors_md_content" | grep -oP '(?<=\+)(.*)(?=\n)')
+
+          # get only the texts and links from the contents
+          #only_added_links=$(echo "$only_added_contents" | grep -oP '(https?://)?(www\.)?[\w-]+\.[\w-]+(/[-\w./?%&=]*)?') 
+          only_added_links=$(echo "$only_added_contents" | grep -oP '(https?://)?(www\.)?[\w-]+\.[\w-]+(/[-\w./?%&=]*)?' | tr '\n' ' ')
+
+          # split the links into array
+          array_of_threat_links=($only_added_links)
+
+          # Extract text from the only_added_contents variable while ignoring links
+          only_added_texts=$(echo "$only_added_contents" | grep -vE "$only_added_links" | grep -oP '[\w\s]+')
+
+          # console log the texts and links
+          echo "only_added_texts=$only_added_texts" 
+          echo "only_added_links=$only_added_links"
+
+          # set the env variables
+          echo "only_added_texts=$only_added_texts" >> $GITHUB_ENV
+          echo "only_added_links=$only_added_links" >> $GITHUB_ENV
+
+          # set env variables for array of links
+          echo "array_of_threat_links=${array_of_threat_links[@]}" >> $GITHUB_ENV
+
+      #FIXME: There are no strict and reliable ways to check if the links are safe or not. The current implementation is using Google's Safe Browsing API to check if the links are safe. However, this is not a reliable solution as it only checks for the links that are already reported as malicious. We need to find a better solution for this.
+      # - name: Check if the links are safe
+      #   id: check_if_links_are_safe
+      #   with:
+      #     script: |
+      #       # check with the Google's Safe Browsing API
+      #       try{
+      #         const response = await fetch('https://safebrowsing.googleapis.com/v4/threatMatches:find?key=${{ secrets.GOOGLE_SAFE_BROWSING_API_KEY }}', {
+      #           method: 'POST',
+      #           body: JSON.stringify({
+      #             client: {
+      #               clientId: 'first-contributions',
+      #               clientVersion: '1.0.0'
+      #             },
+      #             threatInfo: {
+      #               threatTypes: ['MALWARE', 'SOCIAL_ENGINEERING', 'UNWANTED_SOFTWARE', 'POTENTIALLY_HARMFUL_APPLICATION'],
+      #               platformTypes: ['ANY_PLATFORM'],
+      #               threatEntryTypes: ['URL'],
+      #               "threatEntries": [
+      #                 for url in "${{ env.array_of_threat_links }}" {
+      #                   {
+      #                     "url": "${{ url }}",
+      #                   }
+      #                 }
+      #               ]
+      #             }
+      #           })
+      #         })
+
+      #         const data = await response.json()
+
+      #         // check if the response is empty
+      #         if (data.matches.length === 0) {
+      #           console.log('No threats found in the links')
+      #           core.setOutput('is_safe_contents_link', true)
+      #         } else {
+      #           console.log('Threats found in the links')
+      #           core.setOutput('is_safe_contents_link', false)
+      #         }
+      #       } catch (error) {
+      #         console.error("Error checking links:", error.message);
+      #       }
+
+      - name: Check inappropriate words in the texts
+        id: check_inappropriate_words
+        if: env.is_safe_contents_link == 'true'
+        run: |
+          # check if the texts contains inappropriate words
+          try{
+            const response = await fetch('https://www.purgomalum.com/service/containsprofanity?text=${{ env.only_added_texts }}')
+
+            const data = await response.text()
+
+            // check if the response is empty
+            if (data === 'false') {
+              console.log('No inappropriate words found in the texts')
+              core.setOutput('is_safe_contents_text', true)
+            } else {
+              console.log('Inappropriate words found in the texts')
+              core.setOutput('is_safe_contents_text', false)
+            }
+          } catch (error) {
+            console.error("Error checking texts:", error.message);
+          }
+
       # Merge the pull request if it only modifies the Contributors.md file or if it fail to do then drop failure message as post 
       - name: Merge PR
         id: merge_pr
