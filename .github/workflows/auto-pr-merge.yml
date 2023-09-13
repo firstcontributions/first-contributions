@@ -99,7 +99,10 @@ jobs:
         if: env.only_contributors == 'true'
         run: |
           # check only one line edited in Contributors.md file
-
+          echo "$pr_files_url"
+          echo $pr_files_url
+          echo '$pr_files_url'
+          echo "first is double quote, then without then single quote"
           # Extract the additions and changes fields from the API response
           ADDITIONS=$(echo '$pr_files_url' | jq '.[] | select(.filename == "Contributors.md") | .additions')
           echo "$ADDITIONS"
