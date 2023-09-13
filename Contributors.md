@@ -12,6 +12,7 @@ JialingYU
 - [Faraz Sharifi](https://github.com/FarazShin) 😰
 - [Vikas Mishra](https://github.com/vikas-mshra)
 - [Mohamed Atta](https://github.com/MohamedAtta-AI)
+- [hoeoek](https://github.com/hoeoek)
 - [Tom John](https://github.com/Jayjokeer)
 - [Ferhat Cekim](https://github.com/ferferx)
 - [Ansil M B](https://github.com/ansilmbabl)
