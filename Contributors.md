@@ -297,6 +297,7 @@
 - [alonGitH](https://github.com/alonGitH)
 - [Simon Swopes](https://github.com/SpicyCircuit)
 - [Prathmesh Deshpande](https://github.com/prathm3)
+- [Vlad Firsov](https://github.com/LemanRus/)
 - [chamomil](https://github.com/chamomil)
 - [Rituraj](https://github.com/enrituraj)
 - [Rohit Mahesh](https://github.com/R041T)
