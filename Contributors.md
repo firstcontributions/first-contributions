@@ -233,6 +233,7 @@ Mac McHam
 -psuuc-manaois
 -amado-tristan
 -psuuc-fernandez
+-Bealu Girma
 -psuuc-jcsbayan
 -psuuc-vmgabriel
 - [Logan .B (logabe)] (https://github.com/logabe)
