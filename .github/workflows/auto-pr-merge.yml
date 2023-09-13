@@ -46,7 +46,7 @@ jobs:
       - name: Check only Contributors.md file modified
         id: check_num_of_files_modified_step
         run: |
-          echo ${{ toJSON(env.pr_files) }}
+          echo ${{ toJSON(env.pr_files) }} | jq .
           # Extract the filenames from the API response
           FILES_CHANGED=$(echo '${{ toJSON(env.pr_files ) }}' | jq '.[].filename')
           echo "After the getting list of filesname"
