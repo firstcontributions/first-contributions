@@ -1,5 +1,6 @@
 # Contributors
 - [Fahaad Al Abbadi](https://github.com/fahaad-abbadi)
+- [Russell Chan] (https://github.com/tenderfoot-scout)
 -[Ritin Tiwari](https://github.com/ritin0204)
 JialingYU
 -[Francis Alex Darang](https://github.com/HappyCodingss)
