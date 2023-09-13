@@ -347,39 +347,158 @@ jobs:
 
               }
 
-      # Post a comment on the pull request if it was not merged automatically
-      - name: Post comment on PR if not merged automatically
-        # Check if the pull request only modifies the CONTRIBUTORS.md file
-        if: env.only_contributors != 'true'
+  post-comment:
+    id: post_comment_step
+    # job run after completion of this job
+    needs: [check-modified-files-and-content, merge-pr]
+
+    runs-on: ubuntu-latest
+
+    permissions:
+      # only permission to post comment
+      issues: write
+
+    env:
+      get_pr_files: ${{needs.check_files_modified_step.outputs.pr_files }}
+      get_is_only_contributors_file_changed: ${{ needs.check_files_modified_step.outputs.only_contributors }}
+      get_is_only_one_line_modified: ${{ needs.check_files_modified_step.outputs.only_one_line_edited }}
+      get_contributors_md_content: ${{ needs.check_files_modified_step.outputs.contributors_md_content }}
+      files_changed: ${{ needs.check_files_modified_step.outputs.files_changed }}
+
+      # output from check-non-safe-content job
+      is_safe_contents: ${{ check-non-safe-content.check_non_safe_content_step.outputs.is_safe_contents }}
+
+      # output from merge-pr job
+      is_pr_mergeable: ${{ merge-pr.merge_pr_step.outputs.is_pr_mergeable }}
+      merge_check_error_message: ${{ merge-pr.merge_pr_step.outputs.merge_check_error_message }}
+      is_merged_successfully: ${{ needs.merge_pr_step.outputs.is_merged_successfully }}
+      merge_error_message: ${{ needs.merge_pr_step.outputs.merge_error_message }}
+
+    steps:
+      - name: Checkout to PR branch
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          fetch-depth: 2
+
+      - name: Delete previous comments from the bot
         uses: actions/github-script@v5
         with:
           script: |
-            // get the existing comments.
-            const {data: comments} = await github.rest.issues.listComments({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.payload.number,
-            })
-
-            // find any comment already made by the bot.                                                                                                    
-            const botComment = comments.find(comment => comment.user.login === 'github-actions[bot]')                                                                       
-
-            const body = `Thank you for your pull request. This pull request contains changes in files which requires review. The following files were changed:\n\n  ${process.env.files_changed.trim() ? `\n\n${process.env.files_changed.trim().split(' ').map(file => `- ${file}`).join('\n')}` : ''}`
-
-            if (botComment) {
-              await github.rest.issues.updateComment({
+            try{
+              const comments = await github.rest.issues.listComments({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                comment_id: botComment.id,
-                body: body
+                issue_number: context.issue.number,
               })
-            } else {
-                await github.rest.issues.createComment({
+
+              // get the comments by the bot
+              const bot_comments = comments.data.filter(comment => comment.user.login === 'github-actions[bot]')
+
+              // delete the comments from the bot
+              for (const comment of bot_comments) {
+                await github.rest.issues.deleteComment({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  comment_id: comment.id
+                })
+              }
+
+            } catch (error) {
+              console.error("Error deleting comments:", error.message);
+            }
+
+      - name: Post comment on PR about required review
+        if: env.get_is_only_contributors_file_changed != 'true' 
+        uses: actions/github-script@v5
+        with:
+          script: |
+          try{
+              const body = `Thank you for your pull request. This pull request contains changes in files which requires review. The following files were changed:\n\n  ${process.env.files_changed.trim() ? `\n\n${process.env.files_changed.trim().split(' ').map(file => `- ${file}`).join('\n')}` : ''}`
+              github.rest.issues.createComment({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 issue_number: context.issue.number,
                 body: body
               });
+
+            } catch (error) {
+              console.error("Error posting comment:", error.message);
             }
-            
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Add review label to PR if there are multiple files changed
+      - name: Add review label to PR
+        if: env.get_is_only_contributors_file_changed != 'true'
+        uses: actions/github-script@v5
+        with:
+          script: |
+          try{
+              github.rest.issues.addLabels({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                labels: [":woman_technologist: waiting for review"]
+              });
+
+            } catch (error) {
+              console.error("Error adding label:", error.message);
+            }
+
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Post comment on merge conflict when PR only modifies single line in Contributors.md file
+      - name: Post comment on merge conflict
+        if: env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true' && env.is_safe_contents == 'true' && env.is_pr_mergeable == 'false'
+        uses: actions/github-script@v5
+        with:
+          script: |
+            try{
+              const body = `Hello @' + context.issue.user.login + ', Thank you for your contribution! 🎉\n\nUnfortunately, there is a merge conflict in your Pull Request. Please pull the latest changes from the main branch, [resolve the conflict](additional-material/git_workflow_scenarios/resolving-merge-conflicts.md), and then push your changes again.\n\nIf you need any help, feel free to ask.\n\nKeep up the good work! 😊`
+              github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: body
+              });
+
+            } catch (error) {
+              console.error("Error posting comment:", error.message);
+            }
+      # Post comment on PR when PR modifies multiple lines in Contributors.md file
+      - name: Post comment on PR when PR modifies multiple lines in Contributors.md file
+        if: env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'false' && env.is_pr_mergeable == 'false'
+        uses: actions/github-script@v5
+        with:
+          script: |
+            try{
+              const body = `Hello @' + context.issue.user.login + ',Thank you for your contribution! 🎉\n\nPlease only add one new line to the Contributors.md file. \n\n Please do not make multiple changes in the Contributors.md file - read the [3rd bullet point in the Contributing Guidelines](https://github.com/firstcontributions/first-contributions/issues/35892) \n\n## How to fix this?\n\nYou can follow [this guide](https://www.gitkraken.com/learn/git/problems/undo-git-commit). \n\nIf you need any help, feel free to ask.\n\nKeep up the good work! 😊`
+              github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: body
+              });
+
+            } catch (error) {
+              console.error("Error posting comment:", error.message);
+            }
+
+      # Post comment on offensive content PR about code of conduct
+      - name: Post comment on offensive content PR about code of conduct
+        if: env.is_safe_contents == 'false' && env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true'
+        uses: actions/github-script@v5
+        with:
+          script: |
+            try{
+              const body = `Hello @' + context.issue.user.login + ', Thank you for your contribution! 🎉\n\nWe appreciate your contribution to the project. However, we have a [code of conduct](https://github.com/firstcontributions/first-contributions/blob/main/CODE_OF_CONDUCT.md) that we expect all contributors to follow. \n\nPlease remove the offensive content from your pull request and then push your changes again. \n\nIf you need any help, feel free to ask.`
+              github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: body
+              });
+
+            } catch (error) {
+              console.error("Error posting comment:", error.message);
+            }
