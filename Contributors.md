@@ -20,6 +20,7 @@ JialingYU
 - [Archit Shekhawat](https://github.com/11heathcliff11)
 - [Saket Mishra](https://github.com/saketm101)
 - [happy-harsh](https://github.com/happy-harsh)
+- [Sherjeel Ahmed](https://github.com/SherjeelAhmed)
 - [Valery Bonneau](https://github.com/ValeryBonneau)
 Mahmoud Mirghani
 - ➡️ [Armatys Konrad](https://github.com/karmatys8) ⬅️
