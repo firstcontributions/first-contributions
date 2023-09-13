@@ -108,7 +108,7 @@ jobs:
 
   # Job for checking offensive and malicious links
   check-non-safe-content:
-    if: env.get_is_only_contributors_file_changed == 'true' && get_is_only_one_line_modified = 'true'
+    if: needs.get_is_only_contributors_file_changed == 'true' && needs.get_is_only_one_line_modified = 'true'
     # job run after completion of this job
     needs: check-modified-files-and-content
 
@@ -222,7 +222,7 @@ jobs:
           }
 
   merge-pr:
-    if: env.is_safe_contents_text == 'true' && env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true'
+    if: needs.is_safe_contents_text == 'true' && needs.get_is_only_contributors_file_changed == 'true' && needs.get_is_only_one_line_modified == 'true'
     # job run after completion of this job
     needs: [check-modified-files-and-content, check-non-safe-content]
 
