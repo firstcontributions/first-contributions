@@ -102,6 +102,7 @@ PRAJOT
 - [Laissa Nicole dela Cruz](https://github.com/LaissaNicole)
 - [[Trustbycode]](https://github.com/trustbycode/)
 - [Trustbycode] (https://github.com/trustbycode/)
+- [Soxface] (https://github.com/SoxFace)
 - [Siddant-Tripathi] (https://https://github.com/trisid12/)
 - [Ravi-Kumar] (https://github.com/DevGyaani)
   [Elijah Venisse Tabalba](https://github.com/ElijahVenisse)
