@@ -2,6 +2,7 @@
 - [Fahaad Al Abbadi](https://github.com/fahaad-abbadi)
 - [manymogo](https://github.com/manymogo)
 - [Tyler Barlow] (https://github.com/barlowtyler96)
+- [Daniel Albano III] (https://github.com/danielalbano3)
 - [Russell Chan] (https://github.com/tenderfoot-scout)
 -[Ritin Tiwari](https://github.com/ritin0204)
 JialingYU
