@@ -112,6 +112,7 @@ PRAJOT
 - [MichaelAngelo]
 - [Tundekuzco](https://github.com/tundekuzco)
 - [xiunian](https://xiunian.github.io)
+- [Abdullahi Salaudeen](https://github.com/TheOnlyAbdull)
 - [Leonardo Rodriguez](https://github.com/LRodriguez92)
 - [Ryan Lembo-Ehms](https://github.com/rjle301)
 - [xinyuan.huang](https://github.com/xinyuan4android)
