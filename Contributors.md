@@ -2153,3 +2153,4 @@ Akash Abraham
 - [Aditya Kumar] (https://github.com/AdityasGtHub)
 - [Jax Hax] (https://github.com/Jax-Hax)
 - [Vishwaksen] (https://github.com/vishwaksen-1)
+- [Prajwol Devkota] (https://github.com/ploosond/)
