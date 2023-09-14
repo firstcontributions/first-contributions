@@ -9,10 +9,10 @@
 - [Daniel Albano III] (https://github.com/danielalbano3)
 - [Aravind Achanta] (https://github.com/aachan3)
 - [Russell Chan] (https://github.com/tenderfoot-scout)
--[Ritin Tiwari](https://github.com/ritin0204)
-JialingYU
--[Francis Alex Darang](https://github.com/HappyCodingss)
--[Felipe Penner dos Santos](https://github.com/Ainasas)
+- [Ritin Tiwari](https://github.com/ritin0204)
+- JialingYU
+- [Francis Alex Darang](https://github.com/HappyCodingss)
+- [Felipe Penner dos Santos](https://github.com/Ainasas)
 - [Zavier Chambers](https://github.com/ZavierChambers)
 - [Usenmfon Uko](https://github.com/Usenmfon)
 - [Nikosbatz](https://github.com/Nikosbatz)
@@ -108,7 +108,7 @@ PRAJOT
 - [Nishant Shinde] (https://github.com/nishant-s7)
 - [obiwancanoli]("https://github.com/obiwancanoli")
 - [Dio Rizqi](https://github.com/diorizqi404)
--[Alleah Lyzet Ulpindo](https://github.com/psuuc-alsulpindo)
+- [Alleah Lyzet Ulpindo](https://github.com/psuuc-alsulpindo)
 - [Marcel Ruth] (https://github.com/MarcelRuth)
 - [MichaelAngelo]
 - [Tundekuzco](https://github.com/tundekuzco)
@@ -144,6 +144,7 @@ PRAJOT
 - [Janela Tamayo](https://github.com/Jajanela)
 - Atharva Gaikwad
 - [Suhas B G](https://github.com/SuhasBG)
+- [F Mohamed](https://github.com/moha230)
 - [Vincent Cueva](https://github.com/VincentCueva)
 - [Nicholas-Garbutt](https://github.com/Nicholas-Garbutt)
 - [Vita Golubovska](https://github.com/Golubko)
