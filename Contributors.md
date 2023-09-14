@@ -1737,6 +1737,7 @@ Akash Abraham
 - [Ken Laurence Martinez](https://github.com/Kennn69420)
 - [Dimple Jain](https://github.com/dimplehoney)
 - [Yogesh G](https://github.com/yogeshgunasekaran)
+- [Arihan Sinha] (https://github.com/ArihanSinha08)
 - [imjacobtw](https://github.com/imjacobtw)
 - [Monica Ave](https://github.com/AveMonica)
 - [Keisha Shanice](https://github.com/KeishaShanice)
