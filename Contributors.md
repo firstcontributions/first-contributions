@@ -11,6 +11,7 @@
 - [Russell Chan] (https://github.com/tenderfoot-scout)
 -[Ritin Tiwari](https://github.com/ritin0204)
 JialingYU
+-[Musa Mwangea] (https://github.com/mwangea)
 - [Ashenafi Bordea](http://github.com/asherthechamp)
 -[Francis Alex Darang](https://github.com/HappyCodingss)
 -[Felipe Penner dos Santos](https://github.com/Ainasas)
