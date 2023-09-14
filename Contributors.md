@@ -40,7 +40,7 @@ Mahmoud Mirghani
 - [sourav kumar panda] (https://github.com/Sourav-Kumar-Panda)
 - [Roney Moon](https://github.com/roneymoon)
 - [Geetika Jhanji](https://github.comgit/geetikajhanji11)
-- [Parth Bhatt](https://github.com/Mazrah18)
+- [Parth Bhatt](https://github.com/Mazrah18/)
 - [Amandine D.](https://github.com/suikachan42)
 - [piyush Dadgal](https://github.com/Piyush0618)
 - [arshid bhat](https://github.com/bhatarshid)
