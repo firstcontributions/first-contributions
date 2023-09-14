@@ -2156,3 +2156,4 @@ Akash Abraham
 - [Jax Hax] (https://github.com/Jax-Hax)
 - [Vishwaksen] (https://github.com/vishwaksen-1)
 - [Prajwol Devkota] (https://github.com/ploosond/)
+- [Logan Wright] (https://github.com/itstherampage)
