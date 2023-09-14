@@ -373,6 +373,7 @@ Mac McHam
 - [Linford](https://github.com/Linf0rd)
 - [Khesehang Samsohnag Limbu](https://github.com/khesehang)
 - [Lucas](http://github.com/zed118)
+- [Soham Haldar](https://github.com/Mahos-H)
 - [Tania](https://github.com/zzmoni)
 - [Sooraj Varrma](https://github.com/soorajvarrma)
 - [Iniyan](https://github.com/ini1307)
