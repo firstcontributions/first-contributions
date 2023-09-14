@@ -111,6 +111,7 @@ PRAJOT
 - [Marcel Ruth] (https://github.com/MarcelRuth)
 - [MichaelAngelo]
 - [Tundekuzco](https://github.com/tundekuzco)
+- [Malte Franke](https://github.com/Aphroe)
 - [xiunian](https://xiunian.github.io)
 - [Abdullahi Salaudeen](https://github.com/TheOnlyAbdull)
 - [Leonardo Rodriguez](https://github.com/LRodriguez92)
