@@ -27,6 +27,7 @@ JialingYU
 - [Mohamed Atta](https://github.com/MohamedAtta-AI)
 - [Waleed Tariq](https://www.github.com/waleed-tariq)
 - [hoeoek](https://github.com/hoeoek)
+- [Euan Turner](https://github.com/euan-turner)
 - [Tom John](https://github.com/Jayjokeer)
 - [Malvin Ndegwa] (https://github.com/MalvinNdegwa)
 - [Ferhat Cekim](https://github.com/ferferx)
