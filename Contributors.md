@@ -1525,6 +1525,7 @@ Akash Abraham
 - [Tarakeswar Mondal](https://github.com/tarakes)
 - [Paolo Crisalli] (https://github.com/Cris-Paolo)
 - [Luke Herbst](https://github.com/LukeHerbst)
+- [FurkanKaraagac] (https://github.com/furkankaraagc)
 - [Shravan Garg](https://github.com/shravan-garg)
 - [Sachin parihar](https://github.com/sachinparihar)
 - [Ariel Rubel](https://github.com/pepepinguino69)
@@ -2178,3 +2179,4 @@ Akash Abraham
 - [Eren Arda Kaplan](https://github.com/drdemon12)
 - [Evgeny Myasnikov] (https://github.com/justatrade)
 - [NesVII] (https://github.com/NesVII)
+- [Umarislam12] (https://github.com/umarislam12)
