@@ -997,6 +997,7 @@ Nikhil R
 - [Clinton Otse](https://github.com/DhanteyUD)
 - [SzyJar](https://github.com/SzyJar)
 - [Ankur Dubey](https://github.com/RagedPanda)
+- [Salif Tankoano](https://github.com/saliftankoano)
 - [Vahap Onur Yildirim](https://github.com/vahaponur)
 - [ashish lotake](https://github.com/ashishlotake)
 - [Nwanze Ebube](https://github.com/Poeticrow)
