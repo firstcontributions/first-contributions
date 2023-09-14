@@ -66,6 +66,7 @@ PRAJOT
 - [Joshua Reitz](http://github.com/jreitz2)
 - [Shailesh Negi](https://github.com/negishailesh)
 - [Mananshu Mandaliya](https://github.com/MananshuMandaliya)
+- [Omkar Malji](https://github.com/omkarmalji)
 - [Eashan Kotha](https://github.com/ekotha)
 - [dysonsphere](https://github.com/Dysonsphere42)
 - [Joel Gutlay](https://github.com/Livsn06)
