@@ -26,6 +26,7 @@ JialingYU
 - [Waleed Tariq](https://www.github.com/waleed-tariq)
 - [hoeoek](https://github.com/hoeoek)
 - [Tom John](https://github.com/Jayjokeer)
+- [Malvin Ndegwa] (https://github.com/MalvinNdegwa)
 - [Ferhat Cekim](https://github.com/ferferx)
 - [Ansil M B](https://github.com/ansilmbabl)
 - [Archit Shekhawat](https://github.com/11heathcliff11)
