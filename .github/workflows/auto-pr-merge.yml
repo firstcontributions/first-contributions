@@ -450,9 +450,9 @@ jobs:
         with:
           script: |
             try{
-                const body = `Thank you for your pull request. This pull request contains changes in files which requires review. The following files were changed:\n\n  ${process.env.files_changed.trim() ? `\n\n${process.env.files_changed.trim().split(' ').map(file => `- ${file}`).join('\n')}` : ''}`
-                echo "${{ env.files_changed }}"
+                echo "${{ env.files_changed }}" | jq .
                 echo ${{ env.files_changed }}
+                const body = `Thank you for your pull request. This pull request contains changes in files which requires review. The following files were changed:\n\n  ${process.env.files_changed.trim() ? `\n\n${process.env.files_changed.trim().split(' ').map(file => `- ${file}`).join('\n')}` : ''}`
                 github.rest.issues.createComment({
                   owner: context.repo.owner,
                   repo: context.repo.repo,
