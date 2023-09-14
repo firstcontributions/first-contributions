@@ -2155,6 +2155,7 @@ Akash Abraham
 - [Brenna Clark](https://github.com/brennacclark)
 - [Vinicius Lopes] (https://github.com/frenziedcode)
 - [tong822218](https://github.com/tong822218)
+- [Sean Coyle] (https://github.com/SCoyle100)
 - [Sufiyan Malek](https://github.com/sufimalek)
 - [Sandeep Kumar Sharma](https://github.com/amrahs02)
 - [Aishwarya Sahu](https://github.com/ashesash)
