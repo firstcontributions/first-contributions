@@ -2177,6 +2177,7 @@ Akash Abraham
 - [Bincy] (https://github.com/BincyNizam-lab/)
 - [XLoganxmenX] (https://github.com/XLoganxmenX/)
 - [Eren Arda Kaplan](https://github.com/drdemon12)
+- [Yigit Alpturk Durmaz](https://github.com/jturnw)
 - [Evgeny Myasnikov] (https://github.com/justatrade)
 - [NesVII] (https://github.com/NesVII)
 - [Umarislam12] (https://github.com/umarislam12)
