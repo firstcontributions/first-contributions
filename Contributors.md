@@ -2161,3 +2161,4 @@ Akash Abraham
 - [Prajwol Devkota] (https://github.com/ploosond/)
 - [Logan Wright] (https://github.com/itstherampage)
 - [jc19] (https://github.com/joonbot1999)
+- [Bincy] (https://github.com/BincyNizam-lab/)
