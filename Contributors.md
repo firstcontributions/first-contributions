@@ -2217,3 +2217,4 @@ Akash Abraham
 - [Yagahut] (https://github.com/yagahut)
 - [Brian Grana](https://github.com/azurerazor)
 - [Georgios Tsakoumakis](https://github.com/GeorgeTsakoumakis)
+- [Loren Rasmussen](https://github.com/rlorenrasmussen)
