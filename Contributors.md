@@ -199,6 +199,7 @@ PRAJOT
 - [Jyra Villanueva](https://github.com/Jyra-Villanueva)
 - [Lance Jericho Salcedo](https://github.com/jausalcedo)
 - [Madhur Aggarwal](https://github.com/MadhurAggarwal)
+- [Sumedh Bhat](https://github.com/SumedhBhat)
 - [Bhavini Rathod] (https://github.com/rb2001)
 - [Chyunjet] (https://github.com/Jetyun)
 - [Dileep K] (https://github.com/dileepk706)
