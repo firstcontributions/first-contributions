@@ -969,6 +969,7 @@ Nikhil R
 - [Sávio Costa Silva](https://github.com/saviocosta01)
 - [Curtis Aliwah](https://github.com/Aliwah1403)
 - [AM](https://github.com/AMoczar)
+- (Ole Rößler)(https://github.com/Ole-rgb)
 - [Oluwaseun Adesina](https://github.com/oluwaseun-Adesina)
 - [Dolamu Oludare](https://github.com/Dolamu-TheDataGuy)
 - [Adam Shin](https://github.com/AdamShin19)
