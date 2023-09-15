@@ -16,6 +16,7 @@
 - [Daniel Albano III] (https://github.com/danielalbano3)
 - [Aravind Achanta] (https://github.com/aachan3)
 - [Russell Chan] (https://github.com/tenderfoot-scout)
+-[Aditya_Sheokand](https://github.com/aditya_sheokand)
 -[Ritin Tiwari](https://github.com/ritin0204)
 JialingYU
 -[Musa Mwangea] (https://github.com/mwangea)
