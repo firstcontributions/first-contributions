@@ -76,139 +76,143 @@
 <kbd>[<img title="Español de Ecuador" alt="Ecuador" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ec.svg" width="22">](translations/README.ec.md)</kbd>
 <kbd>[<img title="kiswahili" alt="swahili" src="https://raw.githubusercontent.com/moha230/country-flag/82cd93597218e441ac6c4e97a0113361de71c197/tz-flag.svg" width="22">](translations/README.ksw.md)</kbd>
 
-# First Contributions
+# Mchango wa Kwanza
 
-This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+Mradi huu unalenga kurahisisha na kukuongoza jinsi unavyoweza kutoa mchango wako wa kwanza. Ikiwa unatazamia kutoa mchango wako wa kwanza, fuata hatua zilizo hapa chini.
 
-_If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
+_Ikiwa hauko vizuri na command line, [hapa kuna mafunzo kwa kutumia zana za GUI.](#tutorials-using-other-tools)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-#### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
+#### Ikiwa huna git kwenye mashine yako, [isakinishe](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
-## Fork this repository
+## Gawanya hii hazina
 
-Fork this repository by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+Gawanya hazina hii kwa kubofya kitufe kilicho juu ya ukurasa huu.
+Hii itaunda nakala ya hazina hii katika akaunti yako.
 
-## Clone the repository
+## pachisha hii hazina
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
+Sasa pachisha hazina iliyogawanyika kwa mashine yako. Nenda kwa akaunti yako ya GitHub, fungua hazina iliyogawanyika, bofya kwenye kitufe cha msimbo kisha ubofye _copy to clipboard_ icon. 
 
-Open a terminal and run the following git command:
+Fungua terminal na uandike git command ifuatayo:
 
 ```
-git clone "url you just copied"
-```
+git clone "url umenakili"
 
-where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+```
+ambapo "url umenakili" (bila alama za nukuu) ndio url ya hazina hii (Hi ndo pichisha yako ya mradi huu). Tazama hatua za awali ili kupata url.
+
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-For example:
+Kwa mfano:
 
 ```
 git clone git@github.com:this-is-you/first-contributions.git
+
 ```
 
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+ambapo `this-is-you` ni jina lako la mtumiaji la GitHub. Hapa unakili yaliyomo kwenye hazina ya michango ya kwanza kwenye GitHub kwenye kompyuta yako.
 
-## Create a branch
+## Unda tawi
 
-Change to the repository directory on your computer (if you are not already there):
+Badilisha kabrasha ya hazina kwenye kompyuta yako (ikiwa haupo hapo bado):
 
 ```
 cd first-contributions
 ```
 
-Now create a branch using the `git switch` command:
+Sasa tengeneza tawi kwa kutumia `git switch` amri:
 
 ```
-git switch -c your-new-branch-name
+git switch -c tawi lako jipya
 ```
 
-For example:
+Kwa mfano:
 
 ```
-git switch -c add-alonzo-church
+git switch -c ongeza-juma-mkuu
 ```
 
-## Make necessary changes and commit those changes
+## Fanya mabadiliko muhimu na commit mabadiliko hayo
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Sasa fungua faili "Contributors.md" katika kihariri cha maandishi, na uongeze jina lako. Usiiongeze mwanzoni au mwisho wa faili. Weka popote katikati. Sasa, hifadhi faili yako.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
+Ukienda kwenye directory ya mradi na kutekeleza amri `git status`, utaona kuna mabadiliko.
 
-Add those changes to the branch you just created using the `git add` command:
+
+Ongeza mabadiliko hayo kwenye tawi ambalo umeunda kwa kutumia amri `git add`:
 
 ```
 git add Contributors.md
-```
-
-Now commit those changes using the `git commit` command:
 
 ```
-git commit -m "Add your-name to Contributors list"
-```
 
-replacing `your-name` with your name.
-
-## Push changes to GitHub
-
-Push your changes using the command `git push`:
+Sasa fanya mabadiliko hayo kwa kutumia amri `git commit`:
 
 ```
-git push -u origin your-branch-name
+git commit -m "Ongeza jina lako kwenye orodha ya Wachangiaji"
 ```
 
-replacing `your-branch-name` with the name of the branch you created earlier.
+kubadilisha neno `jina-lako` na jina lako halisi.
+
+## Sukumu mabadiliko yako kwenda GitHub
+
+Sukuma mabadiliko yako kwa kutumia amri `git push`:
+
+```
+git push -u origin jina-la-tawi-lako
+
+```
+kubadilisha `jina-tawi lako` na jina la tawi ulilounda awali.
 
 <details>
-<summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
+<summary> <strong>Ukipata makosa yoyote wakati wa kusukuma, bofya hapa:</strong> </summary>
 
 - ### Authentication Error
-     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
-  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
-  Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
+     <pre>remote: Uwezo wa kutumia uthibitishaji wa nenosiri uliondolewa tarehe 13 Agosti 2021. Tafadhali tumia tokeni ya ufikiaji wa kibinafsi badala yake.
+  remote: Tafadhali tazama https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ kwa taarifa zaidi.
+  fatal: Uthibitishaji umeshindwa kwa 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  nenda kwa [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) juu ya kutengeneza na kusanidi kitufe cha SSH kwa akaunti yako.
 
 </details>
 
-## Submit your changes for review
+## Wasilisha mabadiliko yako kwa ajili ya ukaguzi
 
-If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+Ukienda kwenye hazina yako kwenye GitHub, utaona kitufe cha `Compare & pull request`. Bofya kitufe hicho.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-Now submit the pull request.
+Sasa wasilisha ombi la kunganisha hazina (pull request).
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
+Hivi karibuni utakuwa unaunganisha mabadiliko yako yote kwenye tawi kuu la mradi huu. Utapata tarifa ya barua pepe maratu baada ya mabadiliko yakeshaunganishwa.
 
-## Where to go from here?
+## Utaendelea vipi baada ya kumaliza hili zoezi ?
 
-Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
+Hongera! Umekamilisha zoezi la _fork -> clone -> edit -> pull request_ mtiririko wa kazi ambao mara nyingi utakutana nao kama mchangiaji!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
+Sherehekea mchango wako na ushiriki na marafiki na wafuasi wako kwa kwenda [web app](https://firstcontributions.github.io/#social-share).
 
-You could join our slack team if you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w).
+Unaweza kujiunga na timu yetu ya slack ikiwa unahitaji usaidizi wowote au una maswali yoyote. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w).
 
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
+Sasa hebu tuanze kuchangia miradi mingine. Tumekusanya orodha ya miradi yenye masuala rahisi ambayo unaweza kuanza nayo. Angalia [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 
 ### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
 
-## Tutorials Using Other Tools
+## Mafunzo kwa kutumia Zana Nyingine
 
 | <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
 
-<p>This project is supported by:</p>
+<p>Mradi huu unthaminiwa na:</p>
 <p>
   <a href="https://www.digitalocean.com/">
     <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
