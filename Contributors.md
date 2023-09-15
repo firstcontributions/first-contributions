@@ -5,6 +5,7 @@
 - [Fahaad Al Abbadi](https://github.com/fahaad-abbadi)
 - [Peter Iskandar](https://github.com/Peter-Fayez95)
 - [Amit Sathvara](https://github.com/amitsathvara)
+- [Aniket Garole](https://github.com/aniketgarole)
 - [Joe Philip](https://github.com/joe-philip)
 - [John Allen Berty](https://github.com/JohnAllenBerty)
 - [Azhar Lihan](https://github.com/azharlihan)
