@@ -120,6 +120,7 @@ PRAJOT
 - [Jason Betsargon](https://github.com/JasonBet)
 - [Chirag Gupta](https://github.com/chirag-9121)
 - [John Jomar Dimaunahan](https://github.com/DJohnJomar)
+- [Oliver Wolfson](https://github.com/owolfdev)
 - [Muhamad Firdaus Bin Mohd Razali](https://github.com/ausrazali)
 - [Yashwanth B M](https://github.com/yashwanth-gh/)
 - [Rohan Chauhan](https://github.com/rA9k)
