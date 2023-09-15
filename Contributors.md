@@ -128,6 +128,7 @@ PRAJOT
 - [Marcel Ruth] (https://github.com/MarcelRuth)
 - [MichaelAngelo]
 - [Tundekuzco](https://github.com/tundekuzco)
+- [Ian Putter](https://github.com/Neoforest)
 - [Malte Maximilian Franke](https://github.com/Aphroe)
 - [xiunian](https://xiunian.github.io)
 - [Abdullahi Salaudeen](https://github.com/TheOnlyAbdull)
