@@ -19,6 +19,7 @@
 JialingYU
 -[Musa Mwangea] (https://github.com/mwangea)
 - [Ashenafi Bordea](http://github.com/asherthechamp)
+-[Siyum Tsega](https://github.com/SiyumTsega)
 -[Francis Alex Darang](https://github.com/HappyCodingss)
 -[Felipe Penner dos Santos](https://github.com/Ainasas)
 - [Zavier Chambers](https://github.com/ZavierChambers)
