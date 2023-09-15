@@ -2009,6 +2009,7 @@ Akash Abraham
 - [Shawn Wu](https://github.com/ShawnWu33)
 - [Donn Jayson Quinto] (https://github.com/dawnj26)
 - [Sai Surya] (https://github.com/surya304)
+- [midspec] (https://github.com/midspec)
 - Vino
 - [Jan Szymkiewicz](https://github.com/szymkjan)
 - [Michal Jachman](https://github.com/mjachman)
