@@ -3,6 +3,7 @@
 - [MAEINUDDIN ](https://github.com/Maeinukhan63/)
 - [Coop](https://github.com/SnowfallHD)
 - [Fahaad Al Abbadi](https://github.com/fahaad-abbadi)
+- [Peter Iskandar](https://github.com/Peter-Fayez95)
 - [Amit Sathvara](https://github.com/amitsathvara)
 - [Joe Philip](https://github.com/joe-philip)
 - [John Allen Berty](https://github.com/JohnAllenBerty)
