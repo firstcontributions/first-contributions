@@ -110,6 +110,7 @@ PRAJOT
 - [Yvick Miossec] (https://github.com/879hun675tgfoO098)
 - [Maricriz Canillas](https://github.com/MaricrizCanillas)
 - [IBOTGUN](https://github.com/IBOTGUN)
+- [Vysakh Thekkath](https://github.com/vysakhthek)
 - [Letícia Aguiar](https://github.com/letsaguiar)
 - [Anirudh Duggal](https://github.com/AniswagMC)
 - [Itay Saban](https://github.com/itaysaban)
