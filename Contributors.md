@@ -39,6 +39,7 @@ JialingYU
 - Meraj Sheikh
 - Bennett Wilbert 
 - [Mohamed Atta](https://github.com/MohamedAtta-AI)
+- [Mahmoud Mirghani](https://github.com/mahmoudmerghani)
 - [Waleed Tariq](https://www.github.com/waleed-tariq)
 - [hoeoek](https://github.com/hoeoek)
 - [Euan Turner](https://github.com/euan-turner)
