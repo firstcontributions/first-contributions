@@ -5,6 +5,7 @@
 - [Fahaad Al Abbadi](https://github.com/fahaad-abbadi)
 - [Peter Iskandar](https://github.com/Peter-Fayez95)
 - [Amit Sathvara](https://github.com/amitsathvara)
+- [Aniket Garole](https://github.com/aniketgarole)
 - [Joe Philip](https://github.com/joe-philip)
 - [John Allen Berty](https://github.com/JohnAllenBerty)
 - [Azhar Lihan](https://github.com/azharlihan)
@@ -24,6 +25,10 @@ JialingYU
 -[Musa Mwangea] (https://github.com/mwangea)
 - [Ashenafi Bordea](http://github.com/asherthechamp)
 -[Siyum Tsega](https://github.com/SiyumTsega)
+
+
+- [UmbraViva] (https://github.com/UmbraViva)
+
 -[Francis Alex Darang](https://github.com/HappyCodingss)
 -[Felipe Penner dos Santos](https://github.com/Ainasas)
 - [Zavier Chambers](https://github.com/ZavierChambers)
@@ -248,6 +253,7 @@ Mac McHam
 - [Asiya](https://github.com/Asiyaa22)
 - [Naik Mubashir](https://github.com/naikmubashir)
 - Divine Ferrer
+- EsrefcanTuran
 - ttanguilig-tyrone
 - KennethBranch-Kenneth
 - rustycl-rusty
