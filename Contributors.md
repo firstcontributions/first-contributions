@@ -6,6 +6,7 @@
 - [Shambhavi Swami](https://github.com/Shambhavi2302)
 - [Vina Q](https://github.com/mariavinaq)
 - [manymogo](https://github.com/manymogo)
+- [richard](https://github.com/RichardSima2021)
 - [Tyler Barlow] (https://github.com/barlowtyler96)
 - [Daniel Albano III] (https://github.com/danielalbano3)
 - [Aravind Achanta] (https://github.com/aachan3)
