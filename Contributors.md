@@ -110,6 +110,7 @@ PRAJOT
 - [Yvick Miossec] (https://github.com/879hun675tgfoO098)
 - [Maricriz Canillas](https://github.com/MaricrizCanillas)
 - [IBOTGUN](https://github.com/IBOTGUN)
+- [Vysakh Thekkath](https://github.com/vysakhthek)
 - [Letícia Aguiar](https://github.com/letsaguiar)
 - [Anirudh Duggal](https://github.com/AniswagMC)
 - [Itay Saban](https://github.com/itaysaban)
@@ -541,6 +542,7 @@ Nikhil R
 - [Ayushi Awasthi](https://github.com/Ayushi3023)
 - [Moh Ikhwan](https://github.com/mohikhwan)
 - [JudgeIsaac]
+- [autom101] (https://github.com/autom101)
 - [Cwj900](https://github.com/Cwj900)
 - [Ritik](https://github.com/ritikkumar-agrawal)
 - [AdvaitSan](https://github.com/AdvaitSan)
@@ -2007,6 +2009,7 @@ Akash Abraham
 - [Shawn Wu](https://github.com/ShawnWu33)
 - [Donn Jayson Quinto] (https://github.com/dawnj26)
 - [Sai Surya] (https://github.com/surya304)
+- [midspec] (https://github.com/midspec)
 - Vino
 - [Jan Szymkiewicz](https://github.com/szymkjan)
 - [Michal Jachman](https://github.com/mjachman)
@@ -2209,4 +2212,5 @@ Akash Abraham
 - [ShayneEvans] https://github.com/ShayneEvans)
 - [UmangSingh](https://github.com/umanguss)
 - [Prashant Jagtap](https://github.com/prashantjagtap2909)
+- [Yagahut] (https://github.com/yagahut)
 - [Brian Grana](https://github.com/azurerazor)
