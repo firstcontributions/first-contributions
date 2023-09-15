@@ -1,4 +1,5 @@
 # Contributors
+- [Coop](https://github.com/SnowfallHD)
 - [Fahaad Al Abbadi](https://github.com/fahaad-abbadi)
 - [Joe Philip](https://github.com/joe-philip)
 - [John Allen Berty](https://github.com/JohnAllenBerty)
