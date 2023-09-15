@@ -2180,4 +2180,5 @@ Akash Abraham
 - [Yigit Alpturk Durmaz](https://github.com/jturnw)
 - [Evgeny Myasnikov] (https://github.com/justatrade)
 - [NesVII] (https://github.com/NesVII)
-- [Umarislam12] (https://github.com/umarislam12)
+- [Umarislam12] (https://github.com/umarislam12
+- [ShayneEvans] https://github.com/ShayneEvans)
