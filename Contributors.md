@@ -46,6 +46,7 @@ JialingYU
 - [Param Birje](https://github.com/parambirje)
 - [Faraz Sharifi](https://github.com/FarazShin) 😰
 - [Vikas Mishra](https://github.com/vikas-mshra)
+- [Diego Arriaga](https://github.com/GOGOARRIAGA)
 - Meraj Sheikh
 - Bennett Wilbert 
 - [Mohamed Atta](https://github.com/MohamedAtta-AI)
