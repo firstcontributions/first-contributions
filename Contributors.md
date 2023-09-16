@@ -23,6 +23,7 @@
 -[Aditya_Sheokand](https://github.com/aditya_sheokand)
 -[Ritin Tiwari](https://github.com/ritin0204)
 JialingYU
+-[David Peek] (https://github.com/dpeek2010)
 -[Musa Mwangea] (https://github.com/mwangea)
 - [Ashenafi Bordea](http://github.com/asherthechamp)
 -[Siyum Tsega](https://github.com/SiyumTsega)
