@@ -2247,3 +2247,4 @@ Akash Abraham
 - [rtkn] (https://github.com/rtkn)
 - [Aditya Gupta] (https://github.com/adig20)
 -[Amit Nalawade](https://github.com/amit0804-tech)
+- [Dominik Kucz] (https://github.com/dkucz)
