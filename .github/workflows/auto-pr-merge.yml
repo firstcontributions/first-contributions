@@ -1,16 +1,18 @@
 name: Auto-merge PRs
 on:
   pull_request_target:
-    types: [opened, synchronize]
+    types: [opened, synchronize, reopened]
     paths:
-      - 'Contributors.md' # <- only run if only contributors file changed
-    
+      - "Contributors.md" # <- only run if only contributors file changed
+
 jobs:
   # Job for checking all modified files PR
   check-modified-files-and-content:
     runs-on: ubuntu-latest
     permissions:
       contents: read
+      pull-requests: write
+      issues: write
 
     outputs:
       pr_files: ${{ steps.check-modified-files-and-content.outputs.pr_files }}
@@ -35,62 +37,47 @@ jobs:
             
           # Trim leading and trailing whitespaces
           PR_FILES=$(echo $PR_FILES )
-          echo $PR_FILES
-          
+
           # set the output 
           echo "pr_files=$PR_FILES" >> $GITHUB_OUTPUT
 
           # set the env for this job
           echo "pr_files=$PR_FILES" >> $GITHUB_ENV
-          
+
       # Check if the pull request only modifies the Contributors.md file
       - name: Check only Contributors.md file modified
         id: check_num_of_files_modified_step
         run: |
-          echo ${{ toJSON(env.pr_files) }} 
           # Extract the filenames from the API response
           FILES_CHANGED=$(echo ${{ toJSON(env.pr_files ) }} | jq '.[].filename')
-          echo $FILES_CHANGED
-          echo "Above is list of file changed 
-          echo "After the getting list of filesname"
-          
+
           # FIXME: fix the logic for storing file name; currently, if there is space in the file name, it will be stored as two different files in the output. e.g "File name.md" will be stored as "File" and "name.md
-          
+
           # file names as list
           FILES_CHANGED_LIST=$(echo "$FILES_CHANGED" | xargs)
-          echo "string only - After FILES_CHANGED_LIST"
-          echo "variable - $FILES_CHANGED_LIST"
-          echo "variable - $FILES_CHANGED_LIST"
+
           # file names stored in output
           echo "files_changed=$FILES_CHANGED_LIST" >> "$GITHUB_OUTPUT"
-          echo "output variable and below is without quote - $files_changed"
-          echo $files_changed
+
           # file names stored in env
           echo "files_changed=$FILES_CHANGED_LIST" >> $GITHUB_ENV
-          echo "env variable and below is without quote - $files_changed"
+
           # Look for Contributors.md file in the list of files changed
           if [[ "${FILES_CHANGED_LIST// /}" == "Contributors.md" ]]; then
 
             # share output with other workflow
             echo "only_contributors=true" >> "$GITHUB_OUTPUT" 
-            echo "env variable - $only_contributors"
-            echo "I am inside if when there is a contribution file. "
 
             # Content added to Contributors.md file
             CONTRIBUTORS_MD_CONTENT=$(echo "$PR_FILES" | jq -r '.[].patch')
-
-            echo $CONTRIBUTORS_MD_CONTENT
-            echo "print content variable and above as well - $CONTRIBUTORS_MD_CONTENT"
 
             echo "contributors_md_content=$CONTRIBUTORS_MD_CONTENT" >> "$GITHUB_OUTPUT"
 
             #share env within step
             echo "only_contributors=true" >> $GITHUB_ENV
-            echo "env only_contributuios : $only_contributors"
 
           else
             echo "only_contributors=false" >> "$GITHUB_OUTPUT"
-            echo "env only_contributuios : $only_contributors"
           fi
 
       # Run only if there only Contributors.md file modified in the PR
@@ -98,21 +85,11 @@ jobs:
         id: check_num_of_lines_modified_step
         if: env.only_contributors == 'true'
         run: |
-          # check only one line edited in Contributors.md file
-          echo "$pr_files_url"
-          echo $pr_files_url
-          echo '$pr_files_url'
-          echo "first is double quote, then without then single quote"
           # Extract the additions and changes fields from the API response
           ADDITIONS=$(echo $pr_files_url | jq '.[] | select(.filename == "Contributors.md") | .additions')
-          echo "$ADDITIONS"
-          echo $ADDITIONS
           CHANGES=$(echo $pr_files_url | jq '.[] | select(.filename == "Contributors.md") | .changes')
-          echo $CHANGES
-          echo "$CHANGES"
           DELETIONS=$(echo $pr_files_url | jq '.[] | select(.filename == "Contributors.md") | .deletions')
-          echo $DELETIONS
-          echo "$DELETIONS"
+
 
           # check only one line added, or only one line changed, or only one line deleted and one line added which makes 2 number of changes in Contributors.md file
 
@@ -120,31 +97,121 @@ jobs:
 
             # add to job output
             echo "only_one_line_edited=true" >> "$GITHUB_OUTPUT"
-            echo $only_one_line_edited
-            echo "Above is github output"
 
             # env variable
             echo "only_one_line_edited=true" >> $GITHUB_ENV
-            echo $only_one_line_edited
-            echo "env variable above"
 
           else
 
             # More than one line was edited in Contributors.md file
             echo "only_one_line_edited=false" >> "$GITHUB_OUTPUT"
 
-            echo $only_one_line_edited
-            echo "Above is github output"
-
             echo "only_one_line_edited=false" >> $GITHUB_ENV
-            
-            echo $only_one_line_edited
-            echo "env variable above"
 
           fi
 
         env:
           pr_files_url: ${{env.pr_files}}
+
+      - name: Delete previous comments from the bot
+        uses: actions/github-script@v5
+        with:
+          script: |
+            try{
+              const comments = await github.rest.issues.listComments({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+              })
+
+              // get the comments by the bot
+              const bot_comments = comments.data.filter(comment => comment.user.login === 'github-actions[bot]')
+
+              // delete the comments from the bot
+              for (const comment of bot_comments) {
+                await github.rest.issues.deleteComment({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  comment_id: comment.id
+                })
+              }
+
+            } catch (error) {
+              console.error("Error deleting comments:", error.message);
+            }
+
+      # Post comment on PR when PR modifies multiple lines in Contributors.md file
+      - name: Post comment on PR when PR modifies multiple lines in Contributors.md file
+        if: env.only_contributors == 'true' && env.only_one_line_edited == 'false'
+        uses: actions/github-script@v5
+        with:
+          script: |
+            try{
+              const body = `Hello @' + context.issue.user.login + ',Thank you for your contribution! 🎉\n\nPlease only add one new line to the Contributors.md file. \n\n Please do not make multiple changes in the Contributors.md file - read the [3rd bullet point in the Contributing Guidelines](https://github.com/firstcontributions/first-contributions/issues/35892) \n\n## How to fix this?\n\nYou can follow [this guide](https://www.gitkraken.com/learn/git/problems/undo-git-commit). \n\nIf you need any help, feel free to ask.\n\nKeep up the good work! 😊`
+              github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: body
+              });
+
+              core.setFailed('Please only add one new line to the Contributors.md file. Please do not make multiple changes in the Contributors.md file');
+
+            } catch (error) {
+              console.error("Error posting comment:", error.message);
+
+              core.setFailed(error.message);
+
+            }
+
+      - name: Post comment on PR about required review
+        if: env.only_contributors != 'true'
+        uses: actions/github-script@v5
+        with:
+          script: |
+            try{
+
+                const body = `Thank you for your pull request. This pull request contains changes in files which requires review. The following files were changed:\n\n  ${process.env.files_changed.trim() ? `\n\n${process.env.files_changed.trim().split(' ').map(file => `- ${file}`).join('\n')}` : ''}`
+                
+                github.rest.issues.createComment({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: context.issue.number,
+                  body: body
+                });
+
+              } catch (error) {
+                console.error("Error posting comment:", error.message);
+              }
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          env:
+            files_changed: ${{ env.files_changed }}
+
+      # Add review label to PR if there are multiple files changed
+      - name: Add review label to PR
+        if: env.only_contributors != 'true'
+        uses: actions/github-script@v5
+        with:
+          script: |
+            try{
+                github.rest.issues.addLabels({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: context.issue.number,
+                  labels: [":woman_technologist: waiting for review"]
+                });
+
+
+              core.setFailed("PR needs review.")
+
+
+              } catch (error) {
+                console.error("Error adding label:", error.message);
+
+                core.setFailed(error.message);
+              }
+
+          github-token: ${{ secrets.GITHUB_TOKEN }}
 
   # Job for checking offensive and malicious links
   check-non-safe-content:
@@ -156,6 +223,7 @@ jobs:
     permissions:
       # Only read permission to Github token
       contents: read
+      pull-requests: write
 
     outputs:
       is_safe_contents: ${{ steps.check-non-safe-content.outputs.is_safe_contents }}
@@ -241,7 +309,8 @@ jobs:
 
       - name: Check inappropriate words in the texts
         id: check_inappropriate_words
-        if: env.is_safe_contents_link == 'true' && needs.get_is_only_contributors_file_changed == 'true' && needs.get_is_only_one_line_modified == 'true'
+        # if: env.is_safe_contents_link == 'true' && needs.get_is_only_contributors_file_changed == 'true' && needs.get_is_only_one_line_modified == 'true'
+        if: needs.get_is_only_contributors_file_changed == 'true' && needs.get_is_only_one_line_modified == 'true'
         run: |
           # check if the texts contains inappropriate words
           try{
@@ -261,6 +330,51 @@ jobs:
             console.error("Error checking texts:", error.message);
           }
 
+      # Post comment on offensive content PR about code of conduct
+      - name: Post comment on PR containing offensive content about code of conduct
+        if: env.is_safe_contents == 'false' && env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true'
+        uses: actions/github-script@v5
+        with:
+          script: |
+            try{
+              const body = `Hello @' + context.issue.user.login + ', Thank you for your contribution! 🎉\n\nWe appreciate your contribution to the project. However, we have a [code of conduct](https://github.com/firstcontributions/first-contributions/blob/main/CODE_OF_CONDUCT.md) that we expect all contributors to follow. \n\nPlease remove the offensive content from your pull request and then push your changes again. \n\nIf you need any help, feel free to ask.`
+              github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: body
+              });
+
+            } catch (error) {
+              console.error("Error posting comment:", error.message);
+
+              core.setFailed(error.message);
+
+            }
+
+      # Close the PR if it contains offensive content
+      - name: Close PR if it contains offensive content
+        if: env.is_safe_contents == 'false' && env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true'
+        uses: actions/github-script@v5
+        with:
+          script: |
+            try{
+              github.rest.pulls.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: context.issue.number,
+                state: 'closed'
+              });
+
+              core.setFailed("status", "closed");
+
+            } catch (error) {
+              console.error("Error closing pull request:", error.message);
+
+              core.setFailed(error.message);
+
+            }
+
   merge-pr:
     # job run after completion of this job
     needs: [check-modified-files-and-content, check-non-safe-content]
@@ -271,12 +385,6 @@ jobs:
       contents: write
       pull-requests: write
 
-    outputs:
-      is_pr_mergeable: ${{ steps.check_mergeability.outputs.is_pr_mergeable }}
-      merge_check_error_message: ${{ steps.check_mergeability.outputs.merge_check_error_message }}
-      is_merged_successfully: ${{ steps.merge-pr.outputs.is_merged_successfully }}
-      merge_error_message: ${{ steps.merge-pr.outputs.merge_error_message }}
-
     env:
       get_pr_files: ${{needs.check-modified-files-and-content.outputs.pr_files }}
       get_is_only_contributors_file_changed: ${{ needs.check-modified-files-and-content.outputs.only_contributors }}
@@ -284,8 +392,8 @@ jobs:
       get_contributors_md_content: ${{ needs.check-modified-files-and-content.outputs.contributors_md_content }}
 
     steps:
-      #Check mergeability of PR 
-      - name: Check mergeability 
+      #Check mergeability of PR
+      - name: Check mergeability
         if: needs.is_safe_contents_text == 'true' && needs.get_is_only_contributors_file_changed == 'true' && needs.get_is_only_one_line_modified == 'true'
         id: check_mergeability
         uses: actions/github-script@v5
@@ -322,33 +430,33 @@ jobs:
 
               if(retries === maxRetries) {
                 console.log('Maximum number of retries exceeded. Mergeability is still null.')
-                core.setOutput('is_pr_mergeable', false);
-                core.setOutput('merge_check_error_message', 'Maximum number of retries exceeded. Mergeability is still null.');
+
+                core.setFailed('Maximum number of retries exceeded. Mergeability is still null.');
+
+              } 
+
+              if (mergeable === true) {
+                console.log('Mergeable')
+
+                core.setOutput('is_pr_mergeable', true);
+
+                core.exportVariable('is_pr_mergeable', true);
+
               } else {
-                console.log('Mergeability of the pull request:', mergeable)
-                core.setOutput('is_merged_successfully', true);
+                console.log('Not mergeable')
+
+                core.setOutput('is_pr_mergeable', false);
+
+                core.exportVariable('is_pr_mergeable', false);
+
               }
 
             } catch (error) {
+
               console.error("Error checking mergeability:", error.message);
-            }
 
-      # Close the PR if it contains offensive content
-      - name: Close PR if it contains offensive content
-        if: env.is_safe_contents == 'false' 
-        uses: actions/github-script@v5
-        with:
-          script: |
-            try{
-              github.rest.pulls.update({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                pull_number: context.issue.number,
-                state: 'closed'
-              });
+              core.setFailed(error.message);
 
-            } catch (error) {
-              console.error("Error closing pull request:", error.message);
             }
 
       - name: Merge PR
@@ -359,131 +467,36 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             try{
-            // Attempt to merge the pull request using the squash method
-             const response = await github.rest.pulls.merge({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              pull_number: context.issue.number,
-               merge_method: "squash"
-             })
-
-            // Check if the merge was successful by checking the status code of the response
-
-              if (response.status === 200) {
-                core.setOutput('is_merged_successfully', true);
-              }
-
-              } catch (error) {
-
-              let errMsg = "";
-              console.error("Error merging pull request:", error.message);
-
-              // set the output error message
-              core.setOutput('is_merged_successfully', false);
-              core.setOutput('merge_error_message', error.message);
-
-              }
-
-  post-comment:
-    # job run after completion of this job
-    needs: [check-modified-files-and-content, merge-pr]
-
-    runs-on: ubuntu-latest
-
-    permissions:
-      # only permission to post comment
-      pull-requests: write
-
-    env:
-      get_pr_files: ${{needs.check-modified-files-and-content.outputs.pr_files }}
-      get_is_only_contributors_file_changed: ${{ needs.check-modified-files-and-content.outputs.only_contributors }}
-      get_is_only_one_line_modified: ${{ needs.check-modified-files-and-content.outputs.only_one_line_edited }}
-      get_contributors_md_content: ${{ needs.check-modified-files-and-content.outputs.contributors_md_content }}
-      files_changed: ${{ needs.check-modified-files-and-content.outputs.files_changed }}
-
-      # output from check-non-safe-content job
-      is_safe_contents: ${{ needs.check-non-safe-content.outputs.is_safe_contents }}
-
-      # output from merge-pr job
-      is_pr_mergeable: ${{ needs.merge-pr.outputs.is_pr_mergeable }}
-      merge_check_error_message: ${{ needs.merge-pr.outputs.merge_check_error_message }}
-      is_merged_successfully: ${{ needs.merge-pr.outputs.is_merged_successfully }}
-      merge_error_message: ${{ needs.merge-pr.outputs.merge_error_message }}
-
-    steps:
-      - name: Checkout to PR branch
-        uses: actions/checkout@v3
-        with:
-          ref: ${{ github.event.pull_request.head.sha }}
-          fetch-depth: 2
-
-      - name: Delete previous comments from the bot
-        uses: actions/github-script@v5
-        with:
-          script: |
-            try{
-              const comments = await github.rest.issues.listComments({
+              // Attempt to merge the pull request using the squash method
+              const response = await github.rest.pulls.merge({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                issue_number: context.issue.number,
+                pull_number: context.issue.number,
+                merge_method: "squash"
               })
 
-              // get the comments by the bot
-              const bot_comments = comments.data.filter(comment => comment.user.login === 'github-actions[bot]')
+              // Check if the merge was successful by checking the status code of the response
 
-              // delete the comments from the bot
-              for (const comment of bot_comments) {
-                await github.rest.issues.deleteComment({
-                  owner: context.repo.owner,
-                  repo: context.repo.repo,
-                  comment_id: comment.id
-                })
-              }
+                if (response.status === 200) {
+                  core.setOutput('is_merged_successfully', true);
 
-            } catch (error) {
-              console.error("Error deleting comments:", error.message);
-            }
+                  core.exportVariable('is_merged_successfully', true);
+                }
 
-      - name: Post comment on PR about required review
-        if: env.get_is_only_contributors_file_changed != 'true' 
-        uses: actions/github-script@v5
-        with:
-          script: |
-            try{
-                echo "${{ env.files_changed }}" | jq .
-                echo ${{ env.files_changed }}
-                const body = `Thank you for your pull request. This pull request contains changes in files which requires review. The following files were changed:\n\n  ${process.env.files_changed.trim() ? `\n\n${process.env.files_changed.trim().split(' ').map(file => `- ${file}`).join('\n')}` : ''}`
-                github.rest.issues.createComment({
-                  owner: context.repo.owner,
-                  repo: context.repo.repo,
-                  issue_number: context.issue.number,
-                  body: body
-                });
-  
               } catch (error) {
-                console.error("Error posting comment:", error.message);
-              }
-          github-token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Add review label to PR if there are multiple files changed
-      - name: Add review label to PR
-        if: env.get_is_only_contributors_file_changed != 'true'
-        uses: actions/github-script@v5
-        with:
-          script: |
-            try{
-                github.rest.issues.addLabels({
-                  owner: context.repo.owner,
-                  repo: context.repo.repo,
-                  issue_number: context.issue.number,
-                  labels: [":woman_technologist: waiting for review"]
-                });
-  
-              } catch (error) {
-                console.error("Error adding label:", error.message);
+                let errMsg = "";
+                console.error("Error merging pull request:", error.message);
+
+                // set the output error message
+                core.setOutput('is_merged_successfully', false);
+                core.setOutput('merge_error_message', error.message);
+
+                core.exportVariable('is_merged_successfully', false);
+
+                core.setFailed(error.message);
+
               }
-  
-          github-token: ${{ secrets.GITHUB_TOKEN }}
 
       # Post comment on merge conflict when PR only modifies single line in Contributors.md file
       - name: Post comment on merge conflict
@@ -502,43 +515,9 @@ jobs:
 
             } catch (error) {
               console.error("Error posting comment:", error.message);
-            }
-      # Post comment on PR when PR modifies multiple lines in Contributors.md file
-      - name: Post comment on PR when PR modifies multiple lines in Contributors.md file
-        if: env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'false' && env.is_pr_mergeable == 'false'
-        uses: actions/github-script@v5
-        with:
-          script: |
-            try{
-              const body = `Hello @' + context.issue.user.login + ',Thank you for your contribution! 🎉\n\nPlease only add one new line to the Contributors.md file. \n\n Please do not make multiple changes in the Contributors.md file - read the [3rd bullet point in the Contributing Guidelines](https://github.com/firstcontributions/first-contributions/issues/35892) \n\n## How to fix this?\n\nYou can follow [this guide](https://www.gitkraken.com/learn/git/problems/undo-git-commit). \n\nIf you need any help, feel free to ask.\n\nKeep up the good work! 😊`
-              github.rest.issues.createComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: context.issue.number,
-                body: body
-              });
 
-            } catch (error) {
-              console.error("Error posting comment:", error.message);
-            }
+              core.setFailed(error.message);
 
-      # Post comment on offensive content PR about code of conduct
-      - name: Post comment on offensive content PR about code of conduct
-        if: env.is_safe_contents == 'false' && env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true'
-        uses: actions/github-script@v5
-        with:
-          script: |
-            try{
-              const body = `Hello @' + context.issue.user.login + ', Thank you for your contribution! 🎉\n\nWe appreciate your contribution to the project. However, we have a [code of conduct](https://github.com/firstcontributions/first-contributions/blob/main/CODE_OF_CONDUCT.md) that we expect all contributors to follow. \n\nPlease remove the offensive content from your pull request and then push your changes again. \n\nIf you need any help, feel free to ask.`
-              github.rest.issues.createComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: context.issue.number,
-                body: body
-              });
-
-            } catch (error) {
-              console.error("Error posting comment:", error.message);
             }
 
       - name: Post success comment on PR
@@ -608,4 +587,7 @@ jobs:
               
             } catch (error) {
               console.error("Error posting comment:", error.message);
+
+              core.setFailed(error.message);
+
             }
