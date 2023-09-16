@@ -9,6 +9,7 @@
 - [Peter Iskandar](https://github.com/Peter-Fayez95)
 - [Amit Sathvara](https://github.com/amitsathvara)
 - [Aniket Garole](https://github.com/aniketgarole)
+- [Pulkit Sharma](https://github.com/Plktz)
 - [Joe Philip](https://github.com/joe-philip)
 - [John Allen Berty](https://github.com/JohnAllenBerty)
 - [Azhar Lihan](https://github.com/azharlihan)
