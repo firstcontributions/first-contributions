@@ -197,6 +197,7 @@ PRAJOT
 - [Robert Vittozzi](http://github.com/rvittozzi)
 - [Lavanya Mishra](https://github.com/chessmadridista)
 - [Himanshu Pal](https://github.com/Himanshupal0001)
+- [Manish Sahani](https://github.com/Manish-Scripts)
 - [Erik Vargas](https://github.com/erikAlberto)
 - [Pina Sunil](https://github.com/PinaSunil)
 - [Joanna Marie Areniego](https://github.com/JoannaMarieAreniego)
