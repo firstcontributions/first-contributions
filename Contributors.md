@@ -37,6 +37,7 @@ JialingYU
 - [Zavier Chambers](https://github.com/ZavierChambers)
 - [Usenmfon Uko](https://github.com/Usenmfon)
 - [Programmer24680](https://github.com/programmer24680)
+- [FrenchRion](https://github.com/FrenchRuin)
 - [Nikosbatz](https://github.com/Nikosbatz)
 - [sourav kumar panda] (https://github.com/Sourav-Kumar-Panda)
 - [Ryudai Takai](https://github.com/ryudaitakai)
