@@ -79,6 +79,7 @@ Mahmoud Mirghani
 - [Geetika Jhanji](https://github.comgit/geetikajhanji11)
 - [Parth Bhatt](https://github.com/Mazrah18/)
 - [Amandine D.](https://github.com/suikachan42)
+- [Shriraj Jahagirdar](https://github.com/Shriraj26)
 - [Patrick Tomas](https://github.com/PatrickTomas2)
 - [piyush Dadgal](https://github.com/Piyush0618)
 - [arshid bhat](https://github.com/bhatarshid)
