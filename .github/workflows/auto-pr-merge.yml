@@ -184,8 +184,8 @@ jobs:
                 console.error("Error posting comment:", error.message);
               }
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          env:
-            files_changed: ${{ env.files_changed }}
+        env:
+          files_changed: ${{ env.files_changed }}
 
       # Add review label to PR if there are multiple files changed
       - name: Add review label to PR
