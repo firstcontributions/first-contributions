@@ -80,7 +80,7 @@
 
 Mradi huu unalenga kurahisisha na kukuongoza jinsi unavyoweza kutoa mchango wako wa kwanza. Ikiwa unatazamia kutoa mchango wako wa kwanza, fuata hatua zilizo hapa chini.
 
-_Ikiwa hauko vizuri na command line, [hapa kuna mafunzo kwa kutumia zana za GUI.](#tutorials-using-other-tools)_
+_Ikiwa hauko vizuri na kututumia mstari wa amri (command line), [hapa kuna mafunzo kwa kutumia zana za GUI.](#tutorials-using-other-tools)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
@@ -88,22 +88,22 @@ _Ikiwa hauko vizuri na command line, [hapa kuna mafunzo kwa kutumia zana za GUI.
 
 ## Gawanya hii hazina
 
-Gawanya hazina hii kwa kubofya kitufe kilicho juu ya ukurasa huu.
-Hii itaunda nakala ya hazina hii katika akaunti yako.
+Gawanya hazina hii kwa kubofya kitufe kilicho juu ya ukurasa huu (fork).
+Hii itaunda nakala ya hazina katika akaunti yako.
 
 ## pachisha hii hazina
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Sasa pachisha hazina iliyogawanyika kwa mashine yako. Nenda kwa akaunti yako ya GitHub, fungua hazina iliyogawanyika, bofya kwenye kitufe cha msimbo kisha ubofye _copy to clipboard_ icon. 
+Sasa pachisha hazina iliyogawanyika kwenda kwa  mashine yako. Nenda kwa akaunti yako ya GitHub, fungua hazina iliyogawanya, bofya kwenye kitufe cha (code) kisha ubofye _copy to clipboard_ icon. 
 
-Fungua terminal na uandike git command ifuatayo:
-
-```
-git clone "url umenakili"
+Fungua terminal na uandike amri ya git ifuatayo:
 
 ```
-ambapo "url umenakili" (bila alama za nukuu) ndio url ya hazina hii (Hi ndo pichisha yako ya mradi huu). Tazama hatua za awali ili kupata url.
+git clone "url ulio nakili"
+
+```
+ambapo "url ulio nakili" (bila alama za nukuu) ndio url ya hazina yako uliyo gawanya kwenye akauti yako. Tazama hatua za awali ili kupata url.
 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
@@ -115,35 +115,37 @@ git clone git@github.com:this-is-you/first-contributions.git
 
 ```
 
-ambapo `this-is-you` ni jina lako la mtumiaji la GitHub. Hapa unakili yaliyomo kwenye hazina ya michango ya kwanza kwenye GitHub kwenye kompyuta yako.
+ambapo `this-is-you` ni jina lako la GitHub. Hapa unafanya nakili hazina ya first-contribution kwenye GitHub akaunti yako kwenda kwenye kompyuta yako.
 
 ## Unda tawi
 
-Badilisha kabrasha ya hazina kwenye kompyuta yako (ikiwa haupo hapo bado):
+Badilisha kabrasha yako mahali hazina ipo kwenye kompyuta yako (ikiwa haupo hapo bado):
 
 ```
 cd first-contributions
 ```
 
-Sasa tengeneza tawi kwa kutumia `git switch` amri:
+Sasa tengeneza tawi kwa kutumia amri `git switch`:
 
 ```
-git switch -c tawi lako jipya
+git switch -c jina-la-tawi-lako-jipya
+
 ```
 
 Kwa mfano:
 
 ```
-git switch -c ongeza-juma-mkuu
+git switch -c ongeza-alonzo-church
+
 ```
 
-## Fanya mabadiliko muhimu na commit mabadiliko hayo
+## Fanya mabadiliko muhimu na kommit mabadiliko hayo
 
 Sasa fungua faili "Contributors.md" katika kihariri cha maandishi, na uongeze jina lako. Usiiongeze mwanzoni au mwisho wa faili. Weka popote katikati. Sasa, hifadhi faili yako.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-Ukienda kwenye directory ya mradi na kutekeleza amri `git status`, utaona kuna mabadiliko.
+Ukienda kwenye kabrasha ya mradi na kuandika amri `git status`, utaona kuna mabadiliko.
 
 
 Ongeza mabadiliko hayo kwenye tawi ambalo umeunda kwa kutumia amri `git add`:
@@ -156,7 +158,7 @@ git add Contributors.md
 Sasa fanya mabadiliko hayo kwa kutumia amri `git commit`:
 
 ```
-git commit -m "Ongeza jina lako kwenye orodha ya Wachangiaji"
+git commit -m "Ongeza jina-lako kwenye orodha ya Wachangiaji"
 ```
 
 kubadilisha neno `jina-lako` na jina lako halisi.
@@ -169,7 +171,7 @@ Sukuma mabadiliko yako kwa kutumia amri `git push`:
 git push -u origin jina-la-tawi-lako
 
 ```
-kubadilisha `jina-tawi lako` na jina la tawi ulilounda awali.
+kubadilisha `jina-tawi-lako` na jina la tawi ulilounda awali.
 
 <details>
 <summary> <strong>Ukipata makosa yoyote wakati wa kusukuma, bofya hapa:</strong> </summary>
@@ -182,29 +184,29 @@ kubadilisha `jina-tawi lako` na jina la tawi ulilounda awali.
 
 </details>
 
-## Wasilisha mabadiliko yako kwa ajili ya ukaguzi
+## Wasilisha mabadiliko yako kwa ajili ya uhakiki.
 
 Ukienda kwenye hazina yako kwenye GitHub, utaona kitufe cha `Compare & pull request`. Bofya kitufe hicho.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-Sasa wasilisha ombi la kunganisha hazina (pull request).
+Sasa wasilisha ombi la kunganisha hazina yako (pull request).
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Hivi karibuni utakuwa unaunganisha mabadiliko yako yote kwenye tawi kuu la mradi huu. Utapata tarifa ya barua pepe maratu baada ya mabadiliko yakeshaunganishwa.
+Hivi karibuni utakuwa unaunganisha mabadiliko yako yote kwenye tawikuu la mradi huu. Utapata tarifa ya barua pepe maratu baada ya mabadiliko yakeshaunganishwa.
 
 ## Utaendelea vipi baada ya kumaliza hili zoezi ?
 
-Hongera! Umekamilisha zoezi la _fork -> clone -> edit -> pull request_ mtiririko wa kazi ambao mara nyingi utakutana nao kama mchangiaji!
+Hongera! Umekamilisha zoezi la _kugawanya -> pachisha -> hariri -> kuvuta ombi_ (_fork -> clone -> edit -> pull request_) mtiririko wa kazi ambao mara nyingi utakutana nao kama mchangiaji!
 
 Sherehekea mchango wako na ushiriki na marafiki na wafuasi wako kwa kwenda [web app](https://firstcontributions.github.io/#social-share).
 
 Unaweza kujiunga na timu yetu ya slack ikiwa unahitaji usaidizi wowote au una maswali yoyote. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w).
 
-Sasa hebu tuanze kuchangia miradi mingine. Tumekusanya orodha ya miradi yenye masuala rahisi ambayo unaweza kuanza nayo. Angalia [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
+Sasa hebu tuanze kuchangia miradi mingine. Tumekusanya orodha ya miradi yenye masuala rahisi ambayo unaweza kuanza nayo. Angalia hapa [orodha ya miradi katika programu ya tovuti](https://firstcontributions.github.io/#project-list).
 
-### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
+### [Nyenzo za ziada](additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Mafunzo kwa kutumia Zana Nyingine
 
