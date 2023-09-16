@@ -2125,3 +2125,4 @@ Akash Abraham
 - [Oscar Vaquera](https://github.com/vaqueraoscar0)
 - [Ronaldi] (https://github.com/RonaldiVX1)
 - [lazym0on] (https://github.com/lazym0on)
+- [David Oduse](https://github.com/KingDavidJnr)
