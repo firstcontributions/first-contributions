@@ -262,7 +262,6 @@ jobs:
           }
 
   merge-pr:
-    if: needs.is_safe_contents_text == 'true' && needs.get_is_only_contributors_file_changed == 'true' && needs.get_is_only_one_line_modified == 'true'
     # job run after completion of this job
     needs: [check-modified-files-and-content, check-non-safe-content]
 
@@ -287,6 +286,7 @@ jobs:
     steps:
       #Check mergeability of PR 
       - name: Check mergeability 
+        if: needs.is_safe_contents_text == 'true' && needs.get_is_only_contributors_file_changed == 'true' && needs.get_is_only_one_line_modified == 'true'
         id: check_mergeability
         uses: actions/github-script@v5
         with:
@@ -335,7 +335,7 @@ jobs:
 
       # Close the PR if it contains offensive content
       - name: Close PR if it contains offensive content
-        if: env.is_safe_contents == 'false'
+        if: env.is_safe_contents == 'false' 
         uses: actions/github-script@v5
         with:
           script: |
@@ -386,7 +386,7 @@ jobs:
 
   post-comment:
     # job run after completion of this job
-    needs: [check-modified-files-and-content]
+    needs: [check-modified-files-and-content, merge-pr]
 
     runs-on: ubuntu-latest
 
