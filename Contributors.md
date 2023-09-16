@@ -1230,6 +1230,7 @@ Nikhil R
 - [Dwipa Al-Farisi](https://github.com/dwipaalfarisi)
 - [Linda Seiter](https://github.com/lseiter)
 - [Adam Ralph](https://github.com/adamjralph)
+- [Carlos Mendez](https://github.com/Yoru-cyber)
 - [Claro Alvino](https://github.com/alvinoc)
 - [Rohit Yadav](https://github.com/devrohityadav)
 - [Arun Kumar](https://github.com/ArunKumar-07)
