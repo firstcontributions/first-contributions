@@ -1867,6 +1867,7 @@ Akash Abraham
 - [Xianyxu](https://github.com/xianyxu)
 - [jerjjj](https://github.com/jerjjj)
 - [raphaeling](https://github.com/raphaeling)
+- [jkasama](https://github.com/jkasama)
 - [ljunya](https://github.com/ljy18)
 - [wissensalt](https://github.com/wissensalt)
 - [sprvgt](https://github.com/sprvgt)
