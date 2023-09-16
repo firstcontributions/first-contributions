@@ -1430,6 +1430,7 @@ Akash Abraham
 - [AdamTempest](https://github.com/AdamTempest)
 - [Daniel Page](https://github.com/Daniel-Page)
 - [Daniel Peled](https://github.com/dpeled1)
+- [delfina](https://github.com/delfina-ghimire)
 - [James Jeffreys](https://github.com/jamesjeffreys)
 - [Md Ashiqur Rahman](https://github.com/mdashikar)
 - [Md Anisur Rahman](https://github.com/a-n-i-s)
