@@ -52,6 +52,7 @@ JialingYU
 - [Waleed Tariq](https://www.github.com/waleed-tariq)
 - [hoeoek](https://github.com/hoeoek)
 - [Euan Turner](https://github.com/euan-turner)
+- [Yadunandana D K](https://github.com/ydkulks)
 - [Veronica Rojas](https://github.com/veronicaarojas)
 - [Tom John](https://github.com/Jayjokeer)
 - [Malvin Ndegwa] (https://github.com/MalvinNdegwa)
