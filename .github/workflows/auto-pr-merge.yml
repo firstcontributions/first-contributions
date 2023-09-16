@@ -148,7 +148,6 @@ jobs:
 
   # Job for checking offensive and malicious links
   check-non-safe-content:
-    if: needs.get_is_only_contributors_file_changed == 'true' && needs.get_is_only_one_line_modified == 'true'
     # job run after completion of this job
     needs: check-modified-files-and-content
 
@@ -171,6 +170,7 @@ jobs:
     steps:
       - name: Separate the texts and links from the content
         id: separate_text_and_links_from_content
+        if: needs.get_is_only_contributors_file_changed == 'true' && needs.get_is_only_one_line_modified == 'true'
         run: |
           # get only the contents added in the PR 
           only_added_contents=$(echo "$get_contributors_md_content" | grep -oP '(?<=\+)(.*)(?=\n)')
@@ -241,7 +241,7 @@ jobs:
 
       - name: Check inappropriate words in the texts
         id: check_inappropriate_words
-        if: env.is_safe_contents_link == 'true'
+        if: env.is_safe_contents_link == 'true' && needs.get_is_only_contributors_file_changed == 'true' && needs.get_is_only_one_line_modified == 'true'
         run: |
           # check if the texts contains inappropriate words
           try{
