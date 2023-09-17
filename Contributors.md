@@ -514,6 +514,7 @@ Mac McHam
 - FranciscoFB7
 - [EDEXADE](https://github.com/404)
 - [LIELB](https://github.com/lielbidago)
+- [Zhantemir Karimov](https://github.com/CrackerJack15)
 - [GILLES ADJROLOH](https://github.com/GillesAdjroloh9)
 - [Doug Bostick](https://github.com/dougbostick)
 - [Jesus Rivas](https://github.com/jesuswrivas)
