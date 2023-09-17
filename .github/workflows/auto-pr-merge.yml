@@ -55,6 +55,8 @@ jobs:
 
           # file names as list
           FILES_CHANGED_LIST=$(echo "$FILES_CHANGED" | xargs)
+          echo "files changed"
+          echo "$FILES_CHANGED_LIST"
 
           # file names stored in output
           echo "files_changed=$FILES_CHANGED_LIST" >> "$GITHUB_OUTPUT"
