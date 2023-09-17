@@ -330,24 +330,25 @@ jobs:
       - name: Check inappropriate words in the texts
         id: check_inappropriate_words
         if: env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true'
-        run: |
-          # check if the texts contains inappropriate words
-          try{
-            const response = await fetch('https://www.purgomalum.com/service/containsprofanity?text=${{ env.only_added_texts }}')
-
-            const data = await response.text()
-
-            // check if the response is empty
-            if (data === 'false') {
-              console.log('No inappropriate words found in the texts')
-              core.setOutput('is_safe_contents_text', true)
-            } else {
-              console.log('Inappropriate words found in the texts')
-              core.setOutput('is_safe_contents_text', false)
+        uses: actions/github-script@v5
+        with:
+          script: |
+            try{
+              const response = await fetch('https://www.purgomalum.com/service/containsprofanity?text=${{ env.only_added_texts }}')
+  
+              const data = await response.text()
+  
+              // check if the response is empty
+              if (data === 'false') {
+                console.log('No inappropriate words found in the texts')
+                core.setOutput('is_safe_contents_text', true)
+              } else {
+                console.log('Inappropriate words found in the texts')
+                core.setOutput('is_safe_contents_text', false)
+              }
+            } catch (error) {
+              console.error("Error checking texts:", error.message);
             }
-          } catch (error) {
-            console.error("Error checking texts:", error.message);
-          }
 
       # Post comment on offensive content PR about code of conduct
       - name: Post comment on PR containing offensive content about code of conduct
