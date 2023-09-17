@@ -274,6 +274,7 @@ Mac McHam
 - olgaTheCreator
 - -psuuc-jayremy
 - [Kosumo] (https://github.com/masumo)
+- [Kane Le](https://github.com/kanelv)
 - [Rohan Kanti] (https://github.com/rohank36)
 - [Frederick] (https://github.com/fredsn0tDead)
 - [Mark Bloomfield] (https://github.com/mjbloomfield)
