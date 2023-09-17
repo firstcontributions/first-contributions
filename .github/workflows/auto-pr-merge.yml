@@ -19,7 +19,7 @@ jobs:
       files_changed: ${{ steps.check_num_of_files_modified_step.outputs.files_changed }}
       is_only_contributors_file_changed: ${{ steps.check_num_of_files_modified_step.outputs.only_contributors }}
       is_only_one_line_modified: ${{ steps.check_num_of_lines_modified_step.outputs.only_one_line_edited }}
-      contributors_md_content: ${{ steps.check_num_of_files_modified_step.outputs.contributors_md_content }}
+      contributors_md_content: ${{ steps.check_num_of_files_modified_step.outputs.only_added_contents }}
 
     steps:
       - name: Checkout to PR branch
@@ -69,13 +69,15 @@ jobs:
             # share output with other workflow
             echo "only_contributors=true" >> "$GITHUB_OUTPUT" 
 
-            # Content added to Contributors.md file
-            echo "before the getting content from file"
+            # toJSON convert to JSON and jq -r get the value from "patch" as raw 
             CONTRIBUTORS_MD_CONTENT=$(echo ${{ toJSON(env.pr_files ) }} | jq -r '.[].patch')
-            echo $CONTRIBUTORS_MD_CONTENT
+
+            # This command uses 'awk' to extract lines from the variable 'CONTRIBUTORS_MD_CONTENT' that were added in a diff.
+            # 'awk' processes each line as a separate record (due to 'BEGIN{RS="\\n"}').
+            # It then matches lines starting with a '+' sign (corresponding to lines added in a diff) and prints each matching line, excluding the first character (which is the '+' sign).
             only_added_contents=$(echo "$CONTRIBUTORS_MD_CONTENT" | awk 'BEGIN{RS="\\n"} /^\+/{print substr($0, 2)}')
             echo $only_added_contents
-            echo "contributors_md_content=$CONTRIBUTORS_MD_CONTENT" >> "$GITHUB_OUTPUT"
+            echo "contributors_md_content=$only_added_contents" >> "$GITHUB_OUTPUT"
             
 
             #share env within step
@@ -245,39 +247,42 @@ jobs:
         id: separate_text_and_links_from_content
         if: env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true'
         run: |
-          echo "i am testing at the first"
-          echo "$get_contributors_md_content"
-          # get only the contents added in the PR 
-          only_added_contents=$(echo $get_contributors_md_content | grep -oP '(?<=\+)(.*)(?=\n)')
-          echo "I am after getting only added contents"
-          echo $only_added_contents
-          
-
           # get only the texts and links from the contents
           #only_added_links=$(echo "$only_added_contents" | grep -oP '(https?://)?(www\.)?[\w-]+\.[\w-]+(/[-\w./?%&=]*)?') 
-          only_added_links=$(echo "$only_added_contents" | grep -oP '(https?://)?(www\.)?[\w-]+\.[\w-]+(/[-\w./?%&=]*)?' | tr '\n' ' ')
-          echo $only_added_contents
-
-          # split the links into array
-          array_of_threat_links=($only_added_links)
-
-          # Extract text from the only_added_contents variable while ignoring links
-          only_added_texts=$(echo "$only_added_contents" | grep -vE "$only_added_links" | grep -oP '[\w\s]+')
-
-          # console log the texts and links
-          echo "only_added_texts=$only_added_texts" 
-          echo "only_added_links=$only_added_links"
-          echo $only_added_links
-          echo only_added_texts
+          # --xx Not suported xxx
+          #only_added_links=$(echo "$only_added_contents" | grep -oP '(https?://)?(www\.)?[\w-]+\.[\w-]+(/[-\w./?%&=]*)?' | tr '\n' ' ')
           
+          #alternative 
+          #the regular expression ((https?:\/\/|www\.)[^\s]+|[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}) will match any word that starts with http://, https://, or www., or any word that looks like a domain name (one or more alphanumeric characters or hyphens, followed by a dot and two or more alphabetic characters).
+          only_added_links=$(echo "$get_contributors_md_content" | awk 'BEGIN{RS=" ";} /((https?:\/\/|www\.)[^\s]+|[a-zA-Z0-9.-]+\.[a-zA-Z]{2,})/{print}' | sed 's/[.,;]$//')
 
+          # split the links into array (untested) 
+          #array_of_threat_links=($only_added_links)
+          # Extract text from the only_added_contents variable while ignoring links (old one and untested)
+          #only_added_texts=$(echo "$get_contributors_md_content" | grep -vE "$only_added_links" | grep -oP '[\w\s]+')
+
+          #alternative one (replace the grep to awk)
+          : << 'END_COMMENT'
+          The below code extracts all URLs from the variable 'get_contributors_md_content' and stores them in the array "only_added_links". 
+          It then removes these URLs from "get_contributors_md_content". 
+          The URLs can start with http://, https://, or www., or they can be a domain name (one or more alphanumeric characters or hyphens, followed by a dot and two or more alphabetic characters). 
+          END_COMMENT
+
+          # initialise empty array
+          only_added_links=()
+          for word in $get_contributors_md_content; do
+              if [[ $word =~ ((https?:\/\/|www\.)[^\s]+|[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}) ]]; then
+                  # add link to array 
+                  only_added_links+=("$word")
+
+                  #store text and ignore link 
+                  only_text_content=${get_contributors_md_content//$word/}
+              fi
+          done
+          
           # set the env variables
-          echo "only_added_texts=$only_added_texts" >> $GITHUB_ENV
-          echo "only_added_links=$only_added_links" >> $GITHUB_ENV
-
-          # set env variables for array of links
-          echo "array_of_threat_links=${array_of_threat_links[@]}" >> $GITHUB_ENV
-          echo $array_of_threat_links
+          echo "only_added_texts=$only_text_content" >> $GITHUB_ENV
+          echo "only_added_links=${only_added_links[@]}" >> $GITHUB_ENV
 
       #FIXME: There are no strict and reliable ways to check if the links are safe or not. The current implementation is using Google's Safe Browsing API to check if the links are safe. However, this is not a reliable solution as it only checks for the links that are already reported as malicious. We need to find a better solution for this.
       # - name: Check if the links are safe
