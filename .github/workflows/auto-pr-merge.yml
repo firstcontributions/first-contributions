@@ -15,11 +15,11 @@ jobs:
       issues: write
 
     outputs:
-      pr_files: ${{ steps.check-modified-files-and-content.outputs.pr_files }}
-      files_changed: ${{ steps.check-modified-files-and-content.outputs.files_changed }}
-      is_only_contributors_file_changed: ${{ steps.check-modified-files-and-content.outputs.only_contributors }}
-      is_only_one_line_modified: ${{ steps.check-modified-files-and-content.outputs.only_one_line_edited }}
-      contributors_md_content: ${{ steps.check-modified-files-and-content.outputs.contributors_md_content }}
+      pr_files: ${{ steps.get_pr_files.outputs.pr_files }}
+      files_changed: ${{ steps.check_num_of_files_modified_step.outputs.files_changed }}
+      is_only_contributors_file_changed: ${{ steps.check_num_of_files_modified_step.outputs.only_contributors }}
+      is_only_one_line_modified: ${{ steps.check_num_of_lines_modified_step.outputs.only_one_line_edited }}
+      contributors_md_content: ${{ steps.check_num_of_files_modified_step.outputs.contributors_md_content }}
 
     steps:
       - name: Checkout to PR branch
@@ -226,7 +226,7 @@ jobs:
       pull-requests: write
 
     outputs:
-      is_safe_contents: ${{ steps.check-non-safe-content.outputs.is_safe_contents }}
+      is_safe_contents: ${{ steps.check_inappropriate_words.is_safe_contents }}
       # replaced_safe_contents: ${{ steps.check-non-safe-content.outputs.replaced_safe_contents }}
 
     env:
