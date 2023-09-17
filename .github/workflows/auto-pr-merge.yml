@@ -241,6 +241,7 @@ jobs:
         if: env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true'
         run: |
           echo "i am testing at the first"
+          echo "$get_contributors_md_content"
           # get only the contents added in the PR 
           only_added_contents=$(echo $get_contributors_md_content | grep -oP '(?<=\+)(.*)(?=\n)')
           echo "I am after getting only added contents"
