@@ -242,7 +242,7 @@ jobs:
         run: |
           echo "i am testing at the first"
           # get only the contents added in the PR 
-          only_added_contents=$(echo "$get_contributors_md_content" | grep -oP '(?<=\+)(.*)(?=\n)')
+          only_added_contents=$(echo $get_contributors_md_content | grep -oP '(?<=\+)(.*)(?=\n)')
           echo "I am after getting only added contents"
           echo $only_added_contents
           
