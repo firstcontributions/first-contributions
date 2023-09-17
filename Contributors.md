@@ -92,6 +92,7 @@ Mahmoud Mirghani
 - [piyush Dadgal](https://github.com/Piyush0618)
 - [arshid bhat](https://github.com/bhatarshid)
 - [Muhammed Mifthah](https://github.com/Mifthah99)
+- [sqx101](https://github.com/sqx101)
 - [Ben Hur](https://github.com/BenHur28)
 - [Lion Yakubov](https://github.com/Lion011095)
 KOR EU WEI
