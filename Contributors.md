@@ -18,6 +18,7 @@
 - [Aniket Garole](https://github.com/aniketgarole)
 - [Pulkit Sharma](https://github.com/Plktz)
 - [Kranya Provo](https://github.com/kkadapa)
+- [Ishan Sharma](https://gihub.com/paramagneticnaga)
 - [Samir Gorai] (https://github.com/samirgorai)
 - [Kyle Kundinger](https://github.com/Kyle-Kundinger)
 - [Joe Philip](https://github.com/joe-philip)
