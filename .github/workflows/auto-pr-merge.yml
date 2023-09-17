@@ -329,7 +329,6 @@ jobs:
 
       - name: Check inappropriate words in the texts
         id: check_inappropriate_words
-        # if: env.is_safe_contents_link == 'true' && needs.get_is_only_contributors_file_changed == 'true' && needs.get_is_only_one_line_modified == 'true'
         if: needs.get_is_only_contributors_file_changed == 'true' && needs.get_is_only_one_line_modified == 'true'
         run: |
           # check if the texts contains inappropriate words
