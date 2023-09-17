@@ -69,8 +69,11 @@ jobs:
             echo "only_contributors=true" >> "$GITHUB_OUTPUT" 
 
             # Content added to Contributors.md file
-            CONTRIBUTORS_MD_CONTENT=$(echo "$PR_FILES" | jq -r '.[].patch')
+            echo "before the getting content from file
+            CONTRIBUTORS_MD_CONTENT=$(echo $PR_FILES | jq -r '.[].patch')
+            echo "after getting content"
             echo "$PR_FILES" | jq -r '.[].patch'
+            echo $PR_FILES | jq -r '.[].patch'
             
             echo "contributors_md_content=$CONTRIBUTORS_MD_CONTENT" >> "$GITHUB_OUTPUT"
             
