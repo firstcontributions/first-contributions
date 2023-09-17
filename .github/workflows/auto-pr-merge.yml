@@ -330,7 +330,7 @@ jobs:
       - name: Check inappropriate words in the texts
         id: check_inappropriate_words
         if: env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true'
-        uses: actions/github-script@v5
+        uses: actions/github-script@ba6cf3fe7cf53f06998ea428adfe8f0da42d62fa
         with:
           script: |
             try{
