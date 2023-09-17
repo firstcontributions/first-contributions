@@ -231,8 +231,8 @@ jobs:
 
     env:
       get_pr_files: ${{needs.check-modified-files-and-content.outputs.pr_files }}
-      get_is_only_contributors_file_changed: ${{ needs.check-modified-files-and-content.outputs.only_contributors }}
-      get_is_only_one_line_modified: ${{ needs.check-modified-files-and-content.outputs.only_one_line_edited }}
+      get_is_only_contributors_file_changed: ${{ needs.check-modified-files-and-content.outputs.is_only_contributors_file_changed }}
+      get_is_only_one_line_modified: ${{ needs.check-modified-files-and-content.outputs.is_only_one_line_modified }}
       get_contributors_md_content: ${{ needs.check-modified-files-and-content.outputs.contributors_md_content }}
 
     steps:
