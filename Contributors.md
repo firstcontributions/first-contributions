@@ -199,6 +199,7 @@ PRAJOT
 - [Noreen Comesario](https://github.com/noreencomesario)
 - [Anand-Vardhan-Shekhar](https://github.com/anandvardhan09)
 - [Janela Tamayo](https://github.com/Jajanela)
+- [Ini. Duff <CIDD />](https://github.com/duffygoogle)
 - Atharva Gaikwad
 - [Suhas B G](https://github.com/SuhasBG)
 - [Vincent Cueva](https://github.com/VincentCueva)
