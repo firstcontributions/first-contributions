@@ -17,6 +17,7 @@
 - [Aniket Garole](https://github.com/aniketgarole)
 - [Pulkit Sharma](https://github.com/Plktz)
 - [Kranya Provo](https://github.com/kkadapa)
+- [Samir Gorai] (https://github.com/samirgorai)
 - [Kyle Kundinger](https://github.com/Kyle-Kundinger)
 - [Joe Philip](https://github.com/joe-philip)
 - [Yatin Goyal](https://github.com/ygoyal48)
