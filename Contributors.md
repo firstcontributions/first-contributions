@@ -44,6 +44,7 @@ JialingYU
 -[David Peek] (https://github.com/dpeek2010)
 -[Musa Mwangea] (https://github.com/mwangea)
 - [Ashenafi Bordea](http://github.com/asherthechamp)
+- [Gil Sala](https://github.com/Gilsabo)
 -[Siyum Tsega](https://github.com/SiyumTsega)
 - [UmbraViva] (https://github.com/UmbraViva)
 -[Francis Alex Darang](https://github.com/HappyCodingss)
