@@ -236,19 +236,6 @@ jobs:
       get_contributors_md_content: ${{ needs.check-modified-files-and-content.outputs.contributors_md_content }}
 
     steps:
-      - name: debug and console log values 
-        run: |
-          echo ${{ env.get_is_only_contributors_file_changed }}
-          echo "if contributor file changed $get_is_only_contributors_file_changed"
-          echo ${{ env.get_is_only_one_line_modified }}
-          echo "is_Only modified - > $get_is_only_one_line_modified"
-          echo ${{ env.get_pr_files }}
-          echo "PR files -> $get_pr_files"
-          echo "${{ needs.check-modified-files-and-content.outputs.contributors_md_content }}"
-          echo "${{ needs.check-modified-files-and-content.outputs.only_one_line_edited }}"
-          echo "${{ needs.check-modified-files-and-content.outputs.only_contributors }}"
-          echo "${{needs.check-modified-files-and-content.outputs.pr_files }}"
-          
       - name: Separate the texts and links from the content
         id: separate_text_and_links_from_content
         if: needs.get_is_only_contributors_file_changed == 'true' && needs.get_is_only_one_line_modified == 'true'
