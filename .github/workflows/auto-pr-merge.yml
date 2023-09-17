@@ -333,22 +333,35 @@ jobs:
         uses: actions/github-script@ba6cf3fe7cf53f06998ea428adfe8f0da42d62fa
         with:
           script: |
-            try{
-              const response = await fetch('https://www.purgomalum.com/service/containsprofanity?text=${{ env.only_added_texts }}')
-  
-              const data = await response.text()
-  
-              // check if the response is empty
-              if (data === 'false') {
-                console.log('No inappropriate words found in the texts')
-                core.setOutput('is_safe_contents_text', true)
-              } else {
-                console.log('Inappropriate words found in the texts')
-                core.setOutput('is_safe_contents_text', false)
+            async function checkProfanity() {
+              try {
+                const response = await fetch(`https://www.purgomalum.com/service/containsprofanity?text=${{ env.only_added_texts }}`);
+                if (!response.ok) {
+                  core.setFailed(`HTTP error! status: ${response.status}`);
+                }
+            
+                const text = await response.text();
+            
+                // check if the response is empty
+                if (text === 'true') {
+                  console.log('Inappropriate words found in the texts');
+                  core.setOutput('is_safe_contents_text', false);
+                } else if (text === 'false') {
+                  console.log('No inappropriate words found in the texts');
+                  core.setOutput('is_safe_contents_text', true);
+                } else {
+                  throw new Error('Unexpected response: ' + text);
+                  core.setFailed('Unexpected response: ' + text);
+                }
+              } catch (error) {
+                core.setFailed(error.message);
+                console.log(error.message);
               }
-            } catch (error) {
-              console.error("Error checking texts:", error.message);
             }
+            
+            checkProfanity();
+
+            
 
       # Post comment on offensive content PR about code of conduct
       - name: Post comment on PR containing offensive content about code of conduct
