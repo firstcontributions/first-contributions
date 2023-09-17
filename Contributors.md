@@ -31,6 +31,7 @@
 - [Kurt Renzo Jalalain](https://github.com/marshmallow218)
 -  [richard](https://github.com/RichardSima2021)
 - [bartez33a](https://github.com/bartez33a)
+- [NolannB14](https://github.com/NolannB14)
 - [Tyler Barlow] (https://github.com/barlowtyler96)
 - [Daniel Albano III] (https://github.com/danielalbano3)
 - [Aravind Achanta] (https://github.com/aachan3)
