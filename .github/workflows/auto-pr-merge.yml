@@ -329,7 +329,7 @@ jobs:
 
       - name: Check inappropriate words in the texts
         id: check_inappropriate_words
-        if: needs.get_is_only_contributors_file_changed == 'true' && needs.get_is_only_one_line_modified == 'true'
+        if: env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true'
         run: |
           # check if the texts contains inappropriate words
           try{
@@ -413,7 +413,7 @@ jobs:
     steps:
       #Check mergeability of PR
       - name: Check mergeability
-        if: needs.is_safe_contents_text == 'true' && needs.get_is_only_contributors_file_changed == 'true' && needs.get_is_only_one_line_modified == 'true'
+        if: env.is_safe_contents_text == 'true' && env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true'
         id: check_mergeability
         uses: actions/github-script@v5
         with:
