@@ -73,7 +73,7 @@ jobs:
             echo "before the getting content from file"
             CONTRIBUTORS_MD_CONTENT=$(echo ${{ toJSON(env.pr_files ) }} | jq -r '.[].patch')
             echo $CONTRIBUTORS_MD_CONTENT
-            only_added_contents=$(echo $CONTRIBUTORS_MD_CONTENT | grep -oP '(?<=\+)(.*)(?=\n)')
+            only_added_contents=$(echo "$CONTRIBUTORS_MD_CONTENT" | grep -oP '(?<=\+)(.*)(?=\n)')
             echo $only_added_contents
             echo "contributors_md_content=$CONTRIBUTORS_MD_CONTENT" >> "$GITHUB_OUTPUT"
             
