@@ -11,7 +11,7 @@
 - [Tarik Teshome](https://github.com/tarik350)
 - Yushan
 - [Campego](https://github.com/Campego)
-- [ShashankPant](https://github.com/Shashankpantiitbhilai)
+
 - [Pavanemani] (https://github.com/p1kalys)
 - [FTyumin] (https://github.com/FTyumin)
 - [Yohancnc] (https://github.com/yohan-cnc)
