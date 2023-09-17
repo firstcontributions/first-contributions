@@ -237,7 +237,7 @@ jobs:
 
     steps:
       - name: debug and console log values 
-      - run: |
+        run: |
           echo "$get_contributors_md_content"
           echo "$get_is_only_one_line_modified"
           
