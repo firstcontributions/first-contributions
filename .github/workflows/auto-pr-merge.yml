@@ -340,7 +340,8 @@ jobs:
                   core.setFailed(`HTTP error! status: ${response.status}`);
                 }
             
-                const text = await response.text();
+                const text = response.text();
+                console.log(text);
             
                 // check if the response is empty
                 if (text === 'true') {
