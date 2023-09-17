@@ -2161,6 +2161,7 @@ Akash Abraham
 - [Soap Opera](https://github.com/soapopera12)
 - [Pritam Gayen](https://github.com/pritam0721)
 - [korECM](https://github.com/korECM)
+- [Talia Attar](https://github.com/talia-attar)
 - [Monsef123](https://github.com/monsef123)
 - [KislayaSrivastava](https://github.com/KislayaSrivastava)
 - [Phan Thanh Nghia](https://github.com/nghiaphan177)
