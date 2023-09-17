@@ -71,6 +71,7 @@ jobs:
 
             # Content added to Contributors.md file
             echo "before the getting content from file"
+            echo $FILES_CHANGED
             CONTRIBUTORS_MD_CONTENT=$(echo $FILES_CHANGED | jq -r '.[].patch')
             echo $CONTRIBUTORS_MD_CONTENT
             echo "$CONTRIBUTORS_MD_CONTENT"
