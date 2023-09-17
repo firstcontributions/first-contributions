@@ -233,7 +233,7 @@ jobs:
       pull-requests: write
 
     outputs:
-      is_safe_contents: ${{ steps.check_inappropriate_words.is_safe_contents }}
+      is_safe_contents: ${{ steps.check_inappropriate_words.is_safe_contents_text }}
       # replaced_safe_contents: ${{ steps.check-non-safe-content.outputs.replaced_safe_contents }}
 
     env:
@@ -318,7 +318,7 @@ jobs:
       #         // check if the response is empty
       #         if (data.matches.length === 0) {
       #           console.log('No threats found in the links')
-      #           core.setOutput('is_safe_contents_link', true)
+      #           core.setOutput('is_safe_contents_text', true)
       #         } else {
       #           console.log('Threats found in the links')
       #           core.setOutput('is_safe_contents_link', false)
