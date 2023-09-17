@@ -238,8 +238,8 @@ jobs:
     steps:
       - name: debug and console log values 
         run: |
-          echo "$get_contributors_md_content"
-          echo "$get_is_only_one_line_modified"
+          echo "${{ env.get_is_only_contributors_file_changed }}"
+          echo "${{ env.get_is_only_one_line_modified }}"
           
       - name: Separate the texts and links from the content
         id: separate_text_and_links_from_content
