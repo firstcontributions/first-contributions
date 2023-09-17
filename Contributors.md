@@ -2259,3 +2259,4 @@ Akash Abraham
 - [Dominik Kucz] (https://github.com/dkucz)
 - [Ravi Shrestha] (https://github.com/Ivar246)
 - [LSE] (https://github.com/lsewcx)
+- [Nikhil Nair] (https://github.com/NIKHILNAIR21)
