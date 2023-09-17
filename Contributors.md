@@ -260,6 +260,7 @@ Mac McHam
 - olgaTheCreator
 - -psuuc-jayremy
 - [Kosumo] (https://github.com/masumo)
+- [Rohan Kanti] (https://github.com/rohank36)
 - [Frederick] (https://github.com/fredsn0tDead)
 - [Mark Bloomfield] (https://github.com/mjbloomfield)
 - [Gustavo Passarella] (https://github.com/Gunnar50)
