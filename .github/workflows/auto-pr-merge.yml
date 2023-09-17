@@ -242,10 +242,12 @@ jobs:
         run: |
           # get only the contents added in the PR 
           only_added_contents=$(echo "$get_contributors_md_content" | grep -oP '(?<=\+)(.*)(?=\n)')
+          echo $only_added_contents
 
           # get only the texts and links from the contents
           #only_added_links=$(echo "$only_added_contents" | grep -oP '(https?://)?(www\.)?[\w-]+\.[\w-]+(/[-\w./?%&=]*)?') 
           only_added_links=$(echo "$only_added_contents" | grep -oP '(https?://)?(www\.)?[\w-]+\.[\w-]+(/[-\w./?%&=]*)?' | tr '\n' ' ')
+          echo $only_added_contents
 
           # split the links into array
           array_of_threat_links=($only_added_links)
@@ -256,6 +258,9 @@ jobs:
           # console log the texts and links
           echo "only_added_texts=$only_added_texts" 
           echo "only_added_links=$only_added_links"
+          echo $only_added_links
+          echo only_added_texts
+          
 
           # set the env variables
           echo "only_added_texts=$only_added_texts" >> $GITHUB_ENV
@@ -263,6 +268,7 @@ jobs:
 
           # set env variables for array of links
           echo "array_of_threat_links=${array_of_threat_links[@]}" >> $GITHUB_ENV
+          echo $array_of_threat_links
 
       #FIXME: There are no strict and reliable ways to check if the links are safe or not. The current implementation is using Google's Safe Browsing API to check if the links are safe. However, this is not a reliable solution as it only checks for the links that are already reported as malicious. We need to find a better solution for this.
       # - name: Check if the links are safe
