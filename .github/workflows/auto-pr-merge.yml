@@ -236,6 +236,11 @@ jobs:
       get_contributors_md_content: ${{ needs.check-modified-files-and-content.outputs.contributors_md_content }}
 
     steps:
+      - name: debug and console log values 
+      - run: |
+          echo "$get_contributors_md_content"
+          echo "$get_is_only_one_line_modified"
+          
       - name: Separate the texts and links from the content
         id: separate_text_and_links_from_content
         if: needs.get_is_only_contributors_file_changed == 'true' && needs.get_is_only_one_line_modified == 'true'
