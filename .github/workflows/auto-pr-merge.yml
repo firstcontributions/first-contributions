@@ -238,7 +238,7 @@ jobs:
     steps:
       - name: Separate the texts and links from the content
         id: separate_text_and_links_from_content
-        if: needs.get_is_only_contributors_file_changed == 'true' && needs.get_is_only_one_line_modified == 'true'
+        if: env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true'
         run: |
           # get only the contents added in the PR 
           only_added_contents=$(echo "$get_contributors_md_content" | grep -oP '(?<=\+)(.*)(?=\n)')
