@@ -18,7 +18,7 @@
 - [Kaushal Ganatra] (https://github.com/KaushalGanatra)
 - [chetannada](https://github.com/chetannada)
 - [Anudari Gereltod](https://github.com/AnudariG)
-- [Shashank Pant](https://github.com/Shashankpantiitbhilai)
+- [Shashank Pant]
 - [SaswatSahu] (https://github.com/Raphel6969)
 - [Sanjiv Kushwaha] **************************************
 - [efrxngg](https://github.com/efrxngg)
