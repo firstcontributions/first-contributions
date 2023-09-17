@@ -11,6 +11,7 @@
 - [MAEINUDDIN ](https://github.com/Maeinukhan63/)
 - [Coop](https://github.com/SnowfallHD)
 - [Maheshwar S](https://github.com/Maheshwar-S)
+- [jcostadev23](https://github.com/jcostadev23/)
 - [Andres Weitzel](https://github.com/andresWeitzel)
 - [Fahaad Al Abbadi](https://github.com/fahaad-abbadi)
 - [Peter Iskandar](https://github.com/Peter-Fayez95)
@@ -263,6 +264,7 @@
 - olgaTheCreator
 - -psuuc-jayremy
 - [Kosumo] (https://github.com/masumo)
+- [Kane Le](https://github.com/kanelv)
 - [Rohan Kanti] (https://github.com/rohank36)
 - [Frederick] (https://github.com/fredsn0tDead)
 - [Mark Bloomfield] (https://github.com/mjbloomfield)
@@ -1917,6 +1919,7 @@
 - [DarrenKwonDev](https://github.com/DarrenKwonDev)
 - eroniuum
 - ValyaLB
+- S_Ds 
 - [bananapretzel](https://github.com/bananapretzel)
 - [Siddharth Vasu](https://github.com/sidvasu)
 - [cweitong](https://github.com/cwt0213)
