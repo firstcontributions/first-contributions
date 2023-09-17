@@ -423,11 +423,12 @@ jobs:
       get_is_only_contributors_file_changed: ${{ needs.check-modified-files-and-content.outputs.only_contributors }}
       get_is_only_one_line_modified: ${{ needs.check-modified-files-and-content.outputs.only_one_line_edited }}
       get_contributors_md_content: ${{ needs.check-modified-files-and-content.outputs.contributors_md_content }}
+      get_is_safe_contents: ${{ needs.check-modified-files-and-content.outputs.is_safe_contents }}
 
     steps:
       #Check mergeability of PR
       - name: Check mergeability
-        if: env.is_safe_contents_text == 'true' && env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true'
+        if: env.get_is_safe_contents == 'true' && env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true'
         id: check_mergeability
         uses: actions/github-script@v5
         with:
@@ -494,7 +495,7 @@ jobs:
 
       - name: Merge PR
         id: merge_pr
-        if: env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true' && env.is_safe_contents == 'true' && env.is_pr_mergeable == 'true'
+        if: env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true' && env.get_is_safe_contents == 'true' && env.is_pr_mergeable == 'true'
         uses: actions/github-script@v5
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -533,7 +534,7 @@ jobs:
 
       # Post comment on merge conflict when PR only modifies single line in Contributors.md file
       - name: Post comment on merge conflict
-        if: env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true' && env.is_safe_contents == 'true' && env.is_pr_mergeable == 'false'
+        if: env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true' && env.get_is_safe_contents == 'true' && env.is_pr_mergeable == 'false'
         uses: actions/github-script@v5
         with:
           script: |
@@ -554,7 +555,7 @@ jobs:
             }
 
       - name: Post success comment on PR
-        if: env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true' && env.is_safe_contents == 'true' && env.is_merged_successfully == 'true' && env.is_pr_mergeable == 'true'
+        if: env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true' && env.get_is_safe_contents == 'true' && env.is_merged_successfully == 'true' && env.is_pr_mergeable == 'true'
         uses: actions/github-script@v5
         with:
           script: |
