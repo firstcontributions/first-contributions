@@ -233,7 +233,7 @@ jobs:
       pull-requests: write
 
     outputs:
-      is_safe_contents: ${{ steps.check_inappropriate_words.is_safe_contents_text }}
+      is_safe_contents: ${{ steps.check_inappropriate_words.outputs.is_safe_contents_text }}
       # replaced_safe_contents: ${{ steps.check-non-safe-content.outputs.replaced_safe_contents }}
 
     env:
