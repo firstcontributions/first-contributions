@@ -12,6 +12,7 @@
 - [Saumitra Dubey](https://github.com/sam-punk)
 - [Roxas](https://github.com/Roxaski)
 - [Aryan Sharma] (https://github.com/aryan8180)
+- [Yusuf Uzun] (https://github.com/Yusi94)
 - [Dean Macaulay](https://github.com/deanmac5)
 - [Ramez Gabra](https://github.com/ramezgabra)
 - [MAEINUDDIN ](https://github.com/Maeinukhan63/)
