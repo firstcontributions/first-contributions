@@ -2228,7 +2228,7 @@ Akash Abraham
 - [Cesar Silva](https://github.com/cesarsdcf)
 -[Jesus Sanchez](https://github.com/Jesus1Sanchez)
 - [Kai Kim](https://github.com/KaiKimiOS)
-
+- [Konan 69](https://github.com/Konan69)
 - [Hiral Soni](https://github.com/hiralsonip)
 
 - [medzo-kali](https://github.com/medzo-kali)
