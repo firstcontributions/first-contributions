@@ -2284,3 +2284,4 @@ Akash Abraham
 - [Nikhil Nair] (https://github.com/NIKHILNAIR21)
 - [Axeroftol] (https://github.com/Axeroftol)
 - [Nemoola] (https://github.com/nemoola)
+- [Mayur Patil] (https://github.com/mayur5204)
