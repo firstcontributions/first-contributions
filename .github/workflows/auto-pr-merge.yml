@@ -422,6 +422,7 @@ jobs:
     permissions:
       contents: write
       pull-requests: write
+      issues: write
 
     env:
       get_pr_files: ${{needs.check-modified-files-and-content.outputs.pr_files }}
@@ -494,6 +495,7 @@ jobs:
       - name: Check Job Permissions
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          permission: ${{ secrets.GITHUB_TOKEN.permissions }}
         run: |
           echo "$GITHUB_TOKEN"
           
