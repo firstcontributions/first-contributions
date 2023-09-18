@@ -492,9 +492,14 @@ jobs:
             }
     
             checkMergeability();
-      - name: Log permissions
+      - name: Check Job Permissions
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo $secrets_GITHUB_TOKEN_permissions
+          REPO_API_URL="https://api.github.com/repos/${{ github.repository }}"
+          PERMISSIONS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" $REPO_API_URL)
+          echo "Repository Permissions:"
+          echo "$PERMISSIONS"
           
       - name: Merge PR
         id: merge_pr
