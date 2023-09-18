@@ -88,6 +88,7 @@ JialingYU
 - [justnuha]
 - [Ansil M B](https://github.com/ansilmbabl)
 nathaniel
+- [Parth Pandya](https://github.com/parth305)
 - [Archit Shekhawat](https://github.com/11heathcliff11)
 - [Saket Mishra](https://github.com/saketm101)
 - [happy-harsh](https://github.com/happy-harsh)
@@ -2310,6 +2311,7 @@ Akash Abraham
 - [Axeroftol] (https://github.com/Axeroftol)
 - [Nemoola] (https://github.com/nemoola)
 - [Richard Pham] (https://github.com/richardphamdq)
+- [Max Hilsen] (https://github.com/MLHilsen)
 - [Bhakti Sanghani] (https://github.com/Bhakti12)
 - [Pinky Singh] (https://github.com/coder-pink)
 - [Jawmt] (https://github.com/Jawmt)
@@ -2321,3 +2323,6 @@ Akash Abraham
 - [R Varshinee](https://github.com/RVarshinee)
 [Sayandeep Dutta](https://github.com/duttasayandeep)
 - [Madeefar Abbas] (https://github.com/MadeefarAbbas)
+- [Asada Shino](https://github.com/Asada-Sinon)
+- [Jen Gori](https://github.com/jengori)
+
