@@ -2312,5 +2312,6 @@ Akash Abraham
 - [Jawmt] (https://github.com/Jawmt)
 - [Scott Skinn] (https://github.com/scottskinn)
 - [Vasco Marques] (https://github.com/tabascum)
+- [Burak Cosar] (https://github.com/Burak-Cosar)
 - [Wunna Kyaw] (https://github.com/HeronKyaw)
 - [Lorin Muller](https://github.com/loringabriel)
