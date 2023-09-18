@@ -1,5 +1,6 @@
 # Contributors
 - [Alexander Zheng](https://github.com/alexhzheng)
+- [Shamanth KN](https://github.com/shamanthkn5)
 - [Himanshu Mahaur](https://github.com/himanshumahaur)
 - [Malaika](https://github.com/noor-malaika)
 - [Hebert Pratama](https://github.com/heberttt)
