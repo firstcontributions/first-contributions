@@ -2126,6 +2126,7 @@ Akash Abraham
 - [Sajal Rastogi](https://github.com/Sajalrastogi89/first-contributions)
 - [Discimu](https://github.com/Discimu657/los)
 - [Noah Velasco](https://github.com/noahvelasco)
+- [Ale DC] (https://github.com/AleDC91)
 - [Daniel Brazel](https://github.com/ahkian)
 - [Harsh Pratap Singh](https://github.com/harsh-9389)
 - [张丹婷](https://github.com/JOOLLIEE)
