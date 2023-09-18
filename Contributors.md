@@ -2321,6 +2321,7 @@ Akash Abraham
 - [Burak Cosar] (https://github.com/Burak-Cosar)
 - [Wunna Kyaw] (https://github.com/HeronKyaw)
 - [Lorin Muller](https://github.com/loringabriel)
+- [Syed Mohid](https://github.com/Syed-Mohid)
 - [R Varshinee](https://github.com/RVarshinee)
 [Sayandeep Dutta](https://github.com/duttasayandeep)
 - [Madeefar Abbas] (https://github.com/MadeefarAbbas)
