@@ -1404,6 +1404,7 @@ Nikhil R
 - [Bananahexagon](https://github.com/Bananahexagon)
 - [Milo Roberts](https://github.com/MiloRoberts)
 - [apmedev](https://github.com/apmedev)
+- [wardkii](https://github.com/wardkii)
 - [momoka-kawaguchi](https://github.com/momoka-kawaguchi)
 - [Sam Ahsan](https://github.com/purpup)
 - [Abhishek Mahalunge](https://github.com/ABHISHEKMAHALUNGE)
