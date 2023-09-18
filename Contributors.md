@@ -692,6 +692,7 @@ Nikhil R
 - [Abhilash Mohanty]
 - [Denis Perevertov](https://github.com/denis-perevertov)
 - [Abhilash Mohanty]
+- [Daniil Malewicz]
 - [Aaryan Poria] (https://github.com/Aaryan-Poria)
 - [Fran Racic](https://github.com/franracic)
 - [Ayushman Singh](https://github.com/ayushman101)
