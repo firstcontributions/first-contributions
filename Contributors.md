@@ -465,6 +465,7 @@ Mac McHam
 - [Anuron Dutta](https://github.com/AnuronDutta)
 - [Joseph Lawson](https://github.com/jlaws710)
 - [Jay Cole](https://github.com/3colej20)
+- [Alexandra Pietroch] (https://github.com/sasha-cz)
 - [Keisuke Miura](https://github.com/behindthemac)
 - [curlylemon](https://github.com/curlylemon)
 - [Nulzn](https://github.com/Nulzn)
