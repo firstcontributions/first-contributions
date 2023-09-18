@@ -5,6 +5,7 @@
 - [Himanshu Mahaur](https://github.com/himanshumahaur)
 - [Malaika](https://github.com/noor-malaika)
 - [Hebert Pratama](https://github.com/heberttt)
+- [Lakshan Rukantha](https://github.com/LakshanRukantha)
 - [Giovanni Canales](https://github.com/gio-puter)
 -[Abhishek Bharti](https://github.com/abhishekbrt)
 - [Carlos Villermosa](https://github.com/CarlosViller)
