@@ -1332,6 +1332,7 @@ Nikhil R
 - [Talha](https://github.com/talha4real)
 - [Sudeshna Saha](https://github.com/sudeshna-s03)
 - [Bibin Biju](https://github.com/bib265)
+- [Soheil Tehrani](https://github.com/soheiiilst)
 - [Rapzy](https://github.com/SarjyantShrestha)
 - [zukizukizuki](https://github.com/zukizukizuki)
 - [Mohammad Arfizur Rahman](https://github.com/arfizurrahman)
