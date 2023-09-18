@@ -2157,6 +2157,7 @@ Akash Abraham
 - [Aan Mary Thomas Arakal] (https://github.com/aanarakal)
 - [mufeng233](https://github.com/renyancheng)
 - [martin-minarik](https://github.com/martin-minarik)
+- [anttes](https://github.com/Cryonicxbones)
 - [D N Siva Sathyaseelan](https://github.com/sivasathyaseeelan)
 - [Shardul Dabhane](https://github.com/sharduldabhane)
 - [kevoinno] (https://github.com/kevoinno)
