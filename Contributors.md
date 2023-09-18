@@ -1,5 +1,5 @@
 # Contributors
-- [Purv](https://github.com/Purva-2609)
+- [Purva](https://github.com/Purva-2609)
 - [Alexander Zheng](https://github.com/alexhzheng)
 - [Shamanth KN](https://github.com/shamanthkn5)
 - [Himanshu Mahaur](https://github.com/himanshumahaur)
