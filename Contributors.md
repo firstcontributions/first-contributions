@@ -232,6 +232,7 @@ PRAJOT
 - [Kathleen Sison](https://github.com/hellacee)
 - [Milton Wiklund](https://github.com/wiklunden)
 - [Ryan King Ballesteros](https://github.com/n4yr25)
+- [Itzel Guadalupe](https://github.com/itzelgps)
 - [Bea Rizza Conag](https://github.com/beaconag)
 - [Camelajaen](https://github.com/Camelajaen)
 - [Nicholas Gutierrez](https://github.com/nicholasg2001)
