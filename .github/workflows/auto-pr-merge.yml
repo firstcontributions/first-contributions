@@ -450,7 +450,7 @@ jobs:
                 const maxRetries = 3; // Maximum number of retries
     
                 // Keep checking the mergeability of the pull request until it is no longer null
-                while (mergeable === null && retries < maxRetries) {
+                while ((mergeable === null || mergeable === undefined ) && retries < maxRetries) {
     
                   const {data: pullRequest} = await github.rest.pulls.get({
                     owner,
