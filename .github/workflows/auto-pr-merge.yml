@@ -347,9 +347,13 @@ jobs:
                 if (text === 'true') {
                   console.log('Inappropriate words found in the texts');
                   core.setOutput('is_safe_contents_text', false);
+                  core.exportVariable('is_safe_contents_text', 'false');
+                  console.log(${{ env.is_safe_contents_text }})
                 } else if (text === 'false') {
                   console.log('No inappropriate words found in the texts');
                   core.setOutput('is_safe_contents_text', true);
+                  core.exportVariable('is_safe_contents_text', 'true');
+                  console.log(${{ env.is_safe_contents_text }})
                 } else {
                   throw new Error('Unexpected response: ' + text);
                   core.setFailed('Unexpected response: ' + text);
