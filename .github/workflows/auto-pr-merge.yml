@@ -492,6 +492,9 @@ jobs:
             }
     
             checkMergeability();
+      - name: Log permissions
+        run: |
+          console.log(JSON.stringify(${secrets.GITHUB_TOKEN.permissions}));
 
       - name: Merge PR
         id: merge_pr
