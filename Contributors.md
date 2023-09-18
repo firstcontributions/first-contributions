@@ -1,6 +1,7 @@
 # Contributors
 - [Alexander Zheng](https://github.com/alexhzheng)
 - [Himanshu Mahaur](https://github.com/himanshumahaur)
+- [Malaika](https://github.com/noor-malaika)
 - [Hebert Pratama](https://github.com/heberttt)
 - [Giovanni Canales](https://github.com/gio-puter)
 -[Abhishek Bharti](https://github.com/abhishekbrt)
