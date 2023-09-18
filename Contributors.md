@@ -2311,3 +2311,4 @@ Akash Abraham
 - [Jawmt] (https://github.com/Jawmt)
 - [Scott Skinn] (https://github.com/scottskinn)
 - [Vasco Marques] (https://github.com/tabascum)
+- [Omar Reda] (https://github.com/omarmreda)
