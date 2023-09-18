@@ -10,6 +10,7 @@
 -[Abhishek Bharti](https://github.com/abhishekbrt)
 - [Carlos Villermosa](https://github.com/CarlosViller)
 - [Saumitra Dubey](https://github.com/sam-punk)
+- [Roxas](https://github.com/Roxaski)
 - [Aryan Sharma] (https://github.com/aryan8180)
 - [Dean Macaulay](https://github.com/deanmac5)
 - [Ramez Gabra](https://github.com/ramezgabra)
