@@ -466,12 +466,12 @@ jobs:
                     retries++;
                   }
                 }
+                console.log(`this is mergeable status value - $mergeable`);
     
                 if(retries === maxRetries) {
                   console.log('Maximum number of retries exceeded. Mergeability is still null.')
                   core.setFailed('Maximum number of retries exceeded. Mergeability is still null.');
                 } 
-    
                 if (mergeable === true) {
                   console.log('Mergeable')
                   core.setOutput('is_pr_mergeable', true);
