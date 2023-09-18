@@ -2295,3 +2295,4 @@ Akash Abraham
 - [Axeroftol] (https://github.com/Axeroftol)
 - [Nemoola] (https://github.com/nemoola)
 - [Richard Pham] (https://github.com/richardphamdq)
+- [Bhakti Sanghani] (https://github.com/Bhakti12)
