@@ -39,7 +39,7 @@
 - [Vina Q](https://github.com/mariavinaq)
 - [manymogo](https://github.com/manymogo)
 - [Ayush Mishra](https://github.com/dev-ayush69)
--[Luis Baião](https://github.com/Luis4112)
+- [Luis Baião](https://github.com/Luis4112)
 - [Kurt Renzo Jalalain](https://github.com/marshmallow218)
 -  [richard](https://github.com/RichardSima2021)
 - [bartez33a](https://github.com/bartez33a)
