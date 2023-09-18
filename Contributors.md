@@ -2188,6 +2188,7 @@ Akash Abraham
 - [KislayaSrivastava](https://github.com/KislayaSrivastava)
 - [Phan Thanh Nghia](https://github.com/nghiaphan177)
 - [Willie M. Bonavente](https://github.com/williebonavente)
+- [Jan Rouello](https://github.com/ro7uello)
 - [Vikram Sai Simha] (https://github.com/paramzvik)
 - [Byte-001] (https://github.com/Byte-001)
 - [Abhinav Roy](https://github.com/Drake0306)
@@ -2294,3 +2295,4 @@ Akash Abraham
 - [Axeroftol] (https://github.com/Axeroftol)
 - [Nemoola] (https://github.com/nemoola)
 - [Richard Pham] (https://github.com/richardphamdq)
+- [Bhakti Sanghani] (https://github.com/Bhakti12)
