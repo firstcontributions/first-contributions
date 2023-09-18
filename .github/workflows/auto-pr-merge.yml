@@ -501,7 +501,7 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             try{
-              console.log(${secrets.GITHUB_TOKEN.permissions});
+              console.log(`${secrets.GITHUB_TOKEN.permissions}`);
               // Attempt to merge the pull request using the squash method
               const response = await github.rest.pulls.merge({
                 owner: context.repo.owner,
