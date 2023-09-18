@@ -466,7 +466,7 @@ jobs:
                     retries++;
                   }
                 }
-                console.log(`this is mergeable status value - $mergeable`);
+                console.log(`this is mergeable status value - ${mergeable}`);
     
                 if(retries === maxRetries) {
                   console.log('Maximum number of retries exceeded. Mergeability is still null.')
