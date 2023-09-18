@@ -8,6 +8,7 @@
 - [Carlos Villermosa](https://github.com/CarlosViller)
 - [Saumitra Dubey](https://github.com/sam-punk)
 - [Aryan Sharma] (https://github.com/aryan8180)
+- [Dean Macaulay](https://github.com/deanmac5)
 - [Ramez Gabra](https://github.com/ramezgabra)
 - [MAEINUDDIN ](https://github.com/Maeinukhan63/)
 - [Coop](https://github.com/SnowfallHD)
