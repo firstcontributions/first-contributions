@@ -2300,3 +2300,4 @@ Akash Abraham
 - [Nemoola] (https://github.com/nemoola)
 - [Richard Pham] (https://github.com/richardphamdq)
 - [Bhakti Sanghani] (https://github.com/Bhakti12)
+- [Pinky Singh] (https://github.com/coder-pink)
