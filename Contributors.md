@@ -195,6 +195,7 @@ PRAJOT
 - [Eitan Schwartz] (https://github.com/eitan07)
 - [sudeepbm](https://github.com/sudeepbm)
 - [Tommy](https://github.com/tommypurcell)
+- [Aman Dingwani](https://github.com/amandingwani)
 - [Gabriel Achille](https://github.com/gabrielachille)
 - [christian inyekaka](https://github.com/chrisBokotaII)
 - [Laissa Nicole dela Cruz](https://github.com/LaissaNicole)
