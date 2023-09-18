@@ -2313,4 +2313,4 @@ Akash Abraham
 - [Scott Skinn] (https://github.com/scottskinn)
 - [Vasco Marques] (https://github.com/tabascum)
 - [Wunna Kyaw] (https://github.com/HeronKyaw)
-- [Lorin Muller] (https://github.com/loringabriel)
+- [Lorin Muller](https://github.com/loringabriel)
