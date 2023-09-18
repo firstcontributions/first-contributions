@@ -460,7 +460,7 @@ jobs:
     
                   mergeable = pullRequest.mergeable;
     
-                  if (mergeable === null) {
+                  if ((mergeable === null || mergeable === undefined )) {
                     // Wait 3 seconds before retrying the request
                     await new Promise(resolve => setTimeout(resolve, 3000));
                     retries++;
