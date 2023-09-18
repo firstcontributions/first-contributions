@@ -1017,6 +1017,7 @@ Nikhil R
 - [Subhranshu Sekhar khilar](https://github.com/Susekh)
 - [Ravindra Reddy](https://github.com/ravindra135)
 - [Sagar Sharma](https://github.com/sagar-io)
+- [Lars Otte](https://github.com/LarsOtte)
 - [Stefan Baciu](https://github.com/StefanCodru)
 - [Ange-Emmanuel Kouakou](https://github.com/SolarBlaze)
 - https://github.com/Krushna-Nanda/first-contributions.git- [Ioan Circiumaru](https://github.com/circiumaruioan)
