@@ -2308,3 +2308,4 @@ Akash Abraham
 - [Bhakti Sanghani] (https://github.com/Bhakti12)
 - [Pinky Singh] (https://github.com/coder-pink)
 - [Jawmt] (https://github.com/Jawmt)
+- [Scott Skinn] (https://github.com/scottskinn)
