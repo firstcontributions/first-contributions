@@ -2309,3 +2309,4 @@ Akash Abraham
 - [Pinky Singh] (https://github.com/coder-pink)
 - [Jawmt] (https://github.com/Jawmt)
 - [Scott Skinn] (https://github.com/scottskinn)
+- [Vasco Marques] (https://github.com/tabascum)
