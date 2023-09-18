@@ -425,15 +425,12 @@ jobs:
 
     env:
       get_pr_files: ${{needs.check-modified-files-and-content.outputs.pr_files }}
-      get_is_only_contributors_file_changed: ${{ needs.check-modified-files-and-content.outputs.only_contributors }}
-      get_is_only_one_line_modified: ${{ needs.check-modified-files-and-content.outputs.only_one_line_edited }}
+      get_is_only_contributors_file_changed: ${{ needs.check-modified-files-and-content.outputs.is_only_contributors_file_changed }}
+      get_is_only_one_line_modified: ${{ needs.check-modified-files-and-content.outputs.is_only_one_line_modified }}
       get_contributors_md_content: ${{ needs.check-modified-files-and-content.outputs.contributors_md_content }}
       get_is_safe_contents: ${{ needs.check-non-safe-content.outputs.is_safe_contents }}
 
     steps:
-      - name: debug
-        run: |
-          echo $get_is_safe_contents
       #Check mergeability of PR
       - name: Check mergeability
         if: env.get_is_safe_contents == 'true' && env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true'
