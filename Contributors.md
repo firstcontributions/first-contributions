@@ -4,6 +4,7 @@
 - [Hebert Pratama](https://github.com/heberttt)
 - [Giovanni Canales](https://github.com/gio-puter)
 -[Abhishek Bharti](https://github.com/abhishekbrt)
+-[Hari R](https://github.com/uusername001)
 - [Carlos Villermosa](https://github.com/CarlosViller)
 - [Saumitra Dubey](https://github.com/sam-punk)
 - [Aryan Sharma] (https://github.com/aryan8180)
