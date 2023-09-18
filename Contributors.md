@@ -14,6 +14,7 @@
 - [Aryan Sharma] (https://github.com/aryan8180)
 - [Yusuf Uzun] (https://github.com/Yusi94)
 - [Dean Macaulay](https://github.com/deanmac5)
+- [Alan La](https://github.com/jellyboxmeow)
 - [Ramez Gabra](https://github.com/ramezgabra)
 - [MAEINUDDIN ](https://github.com/Maeinukhan63/)
 - [Tony McLeish](https://github.com/Tunza42/)
