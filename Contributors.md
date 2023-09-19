@@ -4,6 +4,7 @@
 - [Alexander Zheng](https://github.com/alexhzheng)
 - [Shamanth KN](https://github.com/shamanthkn5)
 - [Himanshu Mahaur](https://github.com/himanshumahaur)
+- [Samreen Reyaz](https://github.com/SamDaQueen)
 - [Malaika](https://github.com/noor-malaika)
 - [Hebert Pratama](https://github.com/heberttt)
 - [Lakshan Rukantha](https://github.com/LakshanRukantha)
