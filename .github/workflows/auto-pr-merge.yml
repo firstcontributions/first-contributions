@@ -571,6 +571,8 @@ jobs:
                   'https://media1.giphy.com/media/gHnwTttExPf4nwOWm7/giphy.gif',
                 ]
 
+                const getRandomGif = () => celebrationGifs[Math.floor(Math.random() * celebrationGifs.length)]
+
                 // social media links
                 const web_url = 'https://firstcontributions.github.io';
                 const slack_invite_url = 'https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w'
