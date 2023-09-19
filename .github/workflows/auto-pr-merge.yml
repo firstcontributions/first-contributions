@@ -494,9 +494,8 @@ jobs:
       - name: Merge PR
         id: merge_pr
         if: env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true' && env.get_is_safe_contents == 'true' && env.is_pr_mergeable == 'true'
-        uses: actions/github-script@v5
+        uses: actions/github-script@v4
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             try{
               // Attempt to merge the pull request using the squash method
