@@ -11,6 +11,7 @@
 - [Malaika](https://github.com/noor-malaika)
 - [Hebert Pratama](https://github.com/heberttt)
 - [Rahul Kumar](https://github.com/rahul9852-dot)
+- [Naveen kumar (fream)](https://github.com/0EnIgma1)
 - [Lakshan Rukantha](https://github.com/LakshanRukantha)
 - [Giovanni Canales](https://github.com/gio-puter)
 -[Abhishek Bharti](https://github.com/abhishekbrt)
