@@ -121,6 +121,7 @@ Mahmoud Mirghani
 - [Tom Black](https://github.com/SuperbWhiteApple)
 - [Amandine D.](https://github.com/suikachan42)
 - [Shriraj Jahagirdar](https://github.com/Shriraj26)
+- [Abhijeet Singh](https://github.com/Abhijeet709)
 - [Patrick Tomas](https://github.com/PatrickTomas2)
 - [piyush Dadgal](https://github.com/Piyush0618)
 - [arshid bhat](https://github.com/bhatarshid)
