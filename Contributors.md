@@ -2316,6 +2316,7 @@ Akash Abraham
 - [Richard Pham] (https://github.com/richardphamdq)
 - [Max Hilsen] (https://github.com/MLHilsen)
 - [Bhakti Sanghani] (https://github.com/Bhakti12)
+- [ju3rg4] (https://github.com/Ju3rga)
 - [Pinky Singh] (https://github.com/coder-pink)
 - [Jawmt] (https://github.com/Jawmt)
 - [Scott Skinn] (https://github.com/scottskinn)
