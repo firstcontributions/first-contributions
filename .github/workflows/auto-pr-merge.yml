@@ -503,7 +503,6 @@ jobs:
           pull_number: ${{ github.event.pull_request.number }}
           merge_method: squash
           mediaType: '{"previews":["sailor-v","sailor-v2"]}'
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
