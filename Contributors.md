@@ -335,6 +335,8 @@ Mac McHam
 -Bealu Girma
 -psuuc-jcsbayan
 -psuuc-vmgabriel
+-psuuc-vgabriel
+
 - [Logan .B (logabe)] (https://github.com/logabe)
 -psuuc-lilibagcal
 - [psuuc-jepllamas]
