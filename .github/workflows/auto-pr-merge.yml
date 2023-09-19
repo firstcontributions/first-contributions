@@ -508,6 +508,7 @@ jobs:
           script: |
             try{
               // Attempt to merge the pull request using the squash method
+              console.log(`Owner of this PR ${{ context.repo.owner }}, Pull number  - ${{ context.issue.number }}`);
               const response = await github.rest.pulls.merge({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
