@@ -494,49 +494,35 @@ jobs:
       - name: Merge PR
         id: merge_pr
         if: env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true' && env.get_is_safe_contents == 'true' && env.is_pr_mergeable == 'true'
-        uses: actions/github-script@v4
+        uses: actions/github-script@v5
         with:
           script: |
-            try{
-              // Attempt to merge the pull request using the squash method
-              const body = "I have permission of posting comment but merge i am getting error.";
-              github.rest.issues.createComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: context.issue.number,
-                body: body
-              });
-              const response = await github.rest.pulls.merge({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                pull_number: context.issue.number,
-                merge_method: "squash"
-              });
-
-              console.log(response);
-
-              // Check if the merge was successful by checking the status code of the response
-
-                if (response.status === 200) {
-                  core.setOutput('is_merged_successfully', true);
-
-                  core.exportVariable('is_merged_successfully', true);
+            async function merge_now() {
+              try{
+                // Attempt to merge the pull request using the squash method
+                const response = await github.rest.pulls.merge({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  pull_number: context.issue.number,
+                  merge_method: "squash"
+                });
+                console.log(response);
+                // Check if the merge was successful by checking the status code of the response
+                  if (response.status === 200) {
+                    core.setOutput('is_merged_successfully', true);
+                    core.exportVariable('is_merged_successfully', true);
+                  }
+                } catch (error) {
+                  let errMsg = "";
+                  console.error("Error merging pull request:", error.message);
+                  // set the output error message
+                  core.setOutput('is_merged_successfully', false);
+                  core.setOutput('merge_error_message', error.message);
+                  core.exportVariable('is_merged_successfully', false);
+                  core.setFailed(error.message);
                 }
-
-              } catch (error) {
-
-                let errMsg = "";
-                console.error("Error merging pull request:", error.message);
-
-                // set the output error message
-                core.setOutput('is_merged_successfully', false);
-                core.setOutput('merge_error_message', error.message);
-
-                core.exportVariable('is_merged_successfully', false);
-
-                core.setFailed(error.message);
-
               }
+              merge_now();
 
       # Post comment on merge conflict when PR only modifies single line in Contributors.md file
       - name: Post comment on merge conflict
