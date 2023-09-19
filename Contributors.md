@@ -1,7 +1,10 @@
 # Contributors
 - [Sebastian Gomez V](https://github.com/segpy)
+- [khalid-akhss19](https://github.com/khalid-akhss19)
+
 - [Tabia Bechir](https://github.com/t-bechir)
 - [Menachem Bursh] (https://github.com/burshtei)
+
 - [Purv](https://github.com/Purva-2609)
 - [Alexander Zheng](https://github.com/alexhzheng)
 - [Shamanth KN](https://github.com/shamanthkn5)
