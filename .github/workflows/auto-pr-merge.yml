@@ -417,10 +417,7 @@ jobs:
     # job run after completion of this job
     needs: [check-modified-files-and-content, check-non-safe-content]
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      pull-requests: write
-      issues: write
+    permissions: write-all
 
     env:
       get_pr_files: ${{needs.check-modified-files-and-content.outputs.pr_files }}
