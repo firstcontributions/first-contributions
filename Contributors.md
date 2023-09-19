@@ -1079,6 +1079,7 @@ Nikhil R
 - [Vinay Gawade](https://github.com/vinugawade)
 - [Rahul Satpute](https://github.com/rahulsatpute9960)
 - [Siqi Liu](https://github.com/leowrites/)
+- [Sarthak Deshpande](https://github.com/cheesecake100201/)
 - [Gargi Sontakke](https://github.com/gargi-so)
 - [Mark Bagby](https://github.com/m-bagby)
 - [Anushree Singhal](https://github.com/anushreee666)
