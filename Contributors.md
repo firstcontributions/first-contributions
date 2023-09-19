@@ -8,6 +8,7 @@
 - [Purv](https://github.com/Purva-2609)
 - [Alexander Zheng](https://github.com/alexhzheng)
 - [Shamanth KN](https://github.com/shamanthkn5)
+- [Akash Tripathi](https://github.com/akashtripathi1)
 - [Gazmend Shehu](https://github.com/zigameni)
 - [Himanshu Mahaur](https://github.com/himanshumahaur)
 - [Samreen Reyaz](https://github.com/SamDaQueen)
