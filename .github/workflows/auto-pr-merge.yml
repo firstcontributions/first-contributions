@@ -506,16 +506,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          if (response.status === 200) {
-            core.setOutput('is_merged_successfully', true);
-            core.exportVariable('is_merged_successfully', true);
-          } else {
-            core.setOutput('is_merged_successfully', false);
-            core.exportVariable('is_merged_successfully', false);
-            core.setFailed(response.data.message);
-          }
-
+          
       - name: Merge PR
         id: merge_pr
         if: env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true' && env.get_is_safe_contents == 'true' && env.is_pr_mergeable == 'true'
