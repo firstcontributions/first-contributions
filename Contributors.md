@@ -9,6 +9,7 @@
 - [Samreen Reyaz](https://github.com/SamDaQueen)
 - [Malaika](https://github.com/noor-malaika)
 - [Hebert Pratama](https://github.com/heberttt)
+- [Rahul Kumar](https://github.com/rahul9852-dot)
 - [Lakshan Rukantha](https://github.com/LakshanRukantha)
 - [Giovanni Canales](https://github.com/gio-puter)
 -[Abhishek Bharti](https://github.com/abhishekbrt)
