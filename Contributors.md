@@ -1015,6 +1015,7 @@ Nikhil R
 - [Surafel fikru](https://github.com/arist76)
 - [Aasim Qureshi](https://github.com/AasimxQureshi)
 - [Kerim Kilic](https://github.com/kerim-kilic)
+- [Jerome Simms](https://github.com/jerome-simms)
 - [Rishav Majumdar](https://github.com/Rishav273)
 - [Surya Prabhas](https://github.com/Suryab02)
 - [Steffen Vogler](https://github.com/St3V0Bay)
