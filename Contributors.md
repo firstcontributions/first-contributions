@@ -2227,7 +2227,7 @@ Akash Abraham
 - [Kai Kim](https://github.com/KaiKimiOS)
 
 - [Hiral Soni](https://github.com/hiralsonip)
-
+- [Tabish Ahmed](https://github.com/NoxiousTab)
 - [medzo-kali](https://github.com/medzo-kali)
 
 - [Nicholas Garbutt] (https://github.com/Nicholas-Garbutt)
