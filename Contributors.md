@@ -422,6 +422,7 @@ Mac McHam
 - [Chen Zhang](https://github.com/leviosacz)
 - [Aryaman](https://github.com/SilianRail)
 - [Joost](https://github.com/jvdputten)
+- [Alessio] (https://github.com/Idk121-blip)
 - [JaxylViernes]
 - [LordProper]
 - [Joost-2](https://github.com/jvdputten)
