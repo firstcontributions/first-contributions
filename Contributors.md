@@ -53,6 +53,7 @@
 - [NolannB14](https://github.com/NolannB14)
 - [Tyler Barlow] (https://github.com/barlowtyler96)
 - [Daniel Albano III] (https://github.com/danielalbano3)
+- [Jung Jin Cheol] (https://github.com/bik1111)
 - [Aravind Achanta] (https://github.com/aachan3)
 - [Russell Chan] (https://github.com/tenderfoot-scout)
 -[Aditya_Sheokand](https://github.com/aditya_sheokand)
