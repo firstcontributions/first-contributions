@@ -416,9 +416,7 @@ jobs:
   merge-pr:
     # job run after completion of this job
     needs: [check-modified-files-and-content, check-non-safe-content]
-
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
       pull-requests: write
@@ -492,12 +490,6 @@ jobs:
             }
     
             checkMergeability();
-      - name: Check Job Permissions
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          permission: ${{ secrets.GITHUB_TOKEN.permissions }}
-        run: |
-          echo "$GITHUB_TOKEN"
           
       - name: Merge PR
         id: merge_pr
@@ -508,7 +500,6 @@ jobs:
           script: |
             try{
               // Attempt to merge the pull request using the squash method
-              console.log(`Owner of this PR ${{ context.repo.owner }}, Pull number  - ${{ context.issue.number }}`);
               const response = await github.rest.pulls.merge({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
