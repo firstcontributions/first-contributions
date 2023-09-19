@@ -1,4 +1,5 @@
 # Contributors
+- Revan Midha
 - [Sebastian Gomez V](https://github.com/segpy)
 - [Tabia Bechir](https://github.com/t-bechir)
 - [Menachem Bursh] (https://github.com/burshtei)
