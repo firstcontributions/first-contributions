@@ -500,6 +500,13 @@ jobs:
           script: |
             try{
               // Attempt to merge the pull request using the squash method
+              const body = "I have permission of posting comment but merge i am getting error.";
+              github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: body
+              });
               const response = await github.rest.pulls.merge({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
