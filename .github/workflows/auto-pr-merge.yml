@@ -513,6 +513,7 @@ jobs:
                     core.exportVariable('is_merged_successfully', true);
                   }
                 } catch (error) {
+                  console.log(error);
                   let errMsg = "";
                   console.error("Error merging pull request:", error.message);
                   // set the output error message
