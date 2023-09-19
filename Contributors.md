@@ -90,6 +90,7 @@ JialingYU
 - [Param Birje](https://github.com/parambirje)
 - [Faraz Sharifi](https://github.com/FarazShin) 😰
 - [Vikas Mishra](https://github.com/vikas-mshra)
+- [Aayush Shukla](https://github.com/aayushukla)
 - [Diego Arriaga](https://github.com/GOGOARRIAGA)
 - Meraj Sheikh
 - Bennett Wilbert 
