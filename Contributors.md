@@ -15,6 +15,7 @@
 - [Carlos Villermosa](https://github.com/CarlosViller)
 - [Saumitra Dubey](https://github.com/sam-punk)
 - [Roxas](https://github.com/Roxaski)
+- [Gilbert Mutai](https://github.com/Mutai-Gilbert)
 - [Aryan Sharma] (https://github.com/aryan8180)
 - [Yusuf Uzun] (https://github.com/Yusi94)
 - [Dean Macaulay](https://github.com/deanmac5)
