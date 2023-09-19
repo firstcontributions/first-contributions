@@ -1,4 +1,5 @@
 # Contributors
+- [Aditya Prakash](https://github.com/heyitsadityaa)
 - jhgf
 - [Yang Xiang](https://github.com/yangxdev)
 - [Sebastian Gomez V](https://github.com/segpy)
