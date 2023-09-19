@@ -9,6 +9,7 @@
 - [Alexander Zheng](https://github.com/alexhzheng)
 - [Shamanth KN](https://github.com/shamanthkn5)
 - [Akash Tripathi](https://github.com/akashtripathi1)
+- [Eliu Mendoza](https://github.com/edu-kalel)
 - [Gazmend Shehu](https://github.com/zigameni)
 - [Himanshu Mahaur](https://github.com/himanshumahaur)
 - [Samreen Reyaz](https://github.com/SamDaQueen)
