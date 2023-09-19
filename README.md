@@ -125,13 +125,13 @@ cd first-contributions
 Now create a branch using the `git switch` command:
 
 ```
-git switch -c your-new-branch-name
+git checkout -b your-new-branch-name
 ```
-
+This will create a new branch and switch to that branch.
 For example:
 
 ```
-git switch -c add-alonzo-church
+git checkout -b add-new-contributor
 ```
 
 ## Make necessary changes and commit those changes
@@ -161,7 +161,7 @@ replacing `your-name` with your name.
 Push your changes using the command `git push`:
 
 ```
-git push -u origin your-branch-name
+git push origin your-branch-name
 ```
 
 replacing `your-branch-name` with the name of the branch you created earlier.
