@@ -495,7 +495,7 @@ jobs:
       - name: Merge Pr with Octokit and check if it is merged successfully
         if: env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true' && env.get_is_safe_contents == 'true' && env.is_pr_mergeable == 'true'
         uses: octokit/request-action@v2.x
-        id: merge_pr
+        id: merge_pr_1
         with:
           route: PUT /repos/:owner/:repo/pulls/:pull_number/merge
           owner: ${{ github.repository_owner }}
