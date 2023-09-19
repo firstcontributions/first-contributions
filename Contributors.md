@@ -2230,7 +2230,7 @@ Akash Abraham
 - [Cesar Silva](https://github.com/cesarsdcf)
 -[Jesus Sanchez](https://github.com/Jesus1Sanchez)
 - [Kai Kim](https://github.com/KaiKimiOS)
-
+- [Manas Vyas](https://github.com/manas511)
 - [Hiral Soni](https://github.com/hiralsonip)
 
 - [medzo-kali](https://github.com/medzo-kali)
@@ -2330,3 +2330,4 @@ Akash Abraham
 - [Jen Gori](https://github.com/jengori)
 -[Rohan Vania](https://github.com/RohanVania)
 -[Cheyenne Abel](https://github.com/cheyenneabel)
+
