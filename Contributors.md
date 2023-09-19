@@ -6,6 +6,7 @@
 - [Tabia Bechir](https://github.com/t-bechir)
 - [Menachem Bursh] (https://github.com/burshtei)
 - [Purv](https://github.com/Purva-2609)
+- [maimoona-j](https://github.com/maimoona-j)
 - [Alexander Zheng](https://github.com/alexhzheng)
 - [Shamanth KN](https://github.com/shamanthkn5)
 - [Akash Tripathi](https://github.com/akashtripathi1)
