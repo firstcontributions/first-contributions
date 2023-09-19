@@ -2342,4 +2342,5 @@ Akash Abraham
 - [Jen Gori](https://github.com/jengori)
 -[Rohan Vania](https://github.com/RohanVania)
 -[Cheyenne Abel](https://github.com/cheyenneabel)
+-[Marcel Jamecny](https://github.com/mjamecny)
 
