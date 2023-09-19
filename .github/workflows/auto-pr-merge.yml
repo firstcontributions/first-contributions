@@ -251,7 +251,7 @@ jobs:
           #only_added_links=$(echo "$only_added_contents" | grep -oP '(https?://)?(www\.)?[\w-]+\.[\w-]+(/[-\w./?%&=]*)?') 
           # --xx Not suported xxx
           #only_added_links=$(echo "$only_added_contents" | grep -oP '(https?://)?(www\.)?[\w-]+\.[\w-]+(/[-\w./?%&=]*)?' | tr '\n' ' ')
-          
+
           #alternative 
           #the regular expression ((https?:\/\/|www\.)[^\s]+|[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}) will match any word that starts with http://, https://, or www., or any word that looks like a domain name (one or more alphanumeric characters or hyphens, followed by a dot and two or more alphabetic characters).
           only_added_links=$(echo "$get_contributors_md_content" | awk 'BEGIN{RS=" ";} /((https?:\/\/|www\.)[^\s]+|[a-zA-Z0-9.-]+\.[a-zA-Z]{2,})/{print}' | sed 's/[.,;]$//')
@@ -279,7 +279,7 @@ jobs:
                   only_text_content=${get_contributors_md_content//$word/}
               fi
           done
-          
+
           # set the env variables
           echo "only_added_texts=$only_text_content" >> $GITHUB_ENV
           echo "only_added_links=${only_added_links[@]}" >> $GITHUB_ENV
@@ -339,10 +339,10 @@ jobs:
                 if (!response.ok) {
                   core.setFailed(`HTTP error! status: ${response.status}`);
                 }
-            
+
                 const text = await response.text();
                 console.log(text);
-            
+
                 // check if the response is empty
                 if (text === 'true') {
                   console.log('Inappropriate words found in the texts');
@@ -363,10 +363,8 @@ jobs:
                 console.log(error.message);
               }
             }
-            
-            checkProfanity();
 
-            
+            checkProfanity();
 
       # Post comment on offensive content PR about code of conduct
       - name: Post comment on PR containing offensive content about code of conduct
@@ -438,23 +436,23 @@ jobs:
               try {
                 const {owner, repo} = context.repo;
                 const pull_number = context.issue.number;
-    
+
                 let mergeable;
-    
+
                 let retries = 0;
                 const maxRetries = 3; // Maximum number of retries
-    
+
                 // Keep checking the mergeability of the pull request until it is no longer null
                 while ((mergeable === null || mergeable === undefined ) && retries < maxRetries) {
-    
+
                   const {data: pullRequest} = await github.rest.pulls.get({
                     owner,
                     repo,
                     pull_number
                   });
-    
+
                   mergeable = pullRequest.mergeable;
-    
+
                   if ((mergeable === null || mergeable === undefined )) {
                     // Wait 3 seconds before retrying the request
                     await new Promise(resolve => setTimeout(resolve, 3000));
@@ -462,7 +460,7 @@ jobs:
                   }
                 }
                 console.log(`this is mergeable status value - ${mergeable}`);
-    
+
                 if(retries === maxRetries) {
                   console.log('Maximum number of retries exceeded. Mergeability is still null.')
                   core.setFailed('Maximum number of retries exceeded. Mergeability is still null.');
@@ -479,21 +477,45 @@ jobs:
                   console.log('Something when wrong while check mergeability of PR - merge status $mergeable');
                   core.setFailed("Unexpected status value of mergeability status - $mergeable");
                 }
-    
+
               } catch (error) {
                 console.error("Error checking mergeability:", error.message);
                 core.setFailed(error.message);
               }
             }
-    
+
             checkMergeability();
-            
+
       - name: Checkout to PR branch
         uses: actions/checkout@v2
         with:
           ref: ${{ github.event.pull_request.head.sha }}
           fetch-depth: 2
-          
+
+      - name: Merge Pr with Octokit and check if it is merged successfully
+        if: env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true' && env.get_is_safe_contents == 'true' && env.is_pr_mergeable == 'true'
+        uses: octokit/request-action@v2.x
+        id: merge_pr
+        with:
+          route: PUT /repos/:owner/:repo/pulls/:pull_number/merge
+          owner: ${{ github.repository_owner }}
+          repo: ${{ github.event.repository.name }}
+          pull_number: ${{ github.event.pull_request.number }}
+          merge_method: squash
+          mediaType: '{"previews":["sailor-v","sailor-v2"]}'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if (response.status === 200) {
+            core.setOutput('is_merged_successfully', true);
+            core.exportVariable('is_merged_successfully', true);
+          } else {
+            core.setOutput('is_merged_successfully', false);
+            core.exportVariable('is_merged_successfully', false);
+            core.setFailed(response.data.message);
+          }
+
       - name: Merge PR
         id: merge_pr
         if: env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true' && env.get_is_safe_contents == 'true' && env.is_pr_mergeable == 'true'
@@ -529,7 +551,7 @@ jobs:
               merge_now();
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
+
       # Post comment on merge conflict when PR only modifies single line in Contributors.md file
       - name: Post comment on merge conflict
         if: env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true' && env.get_is_safe_contents == 'true' && env.is_pr_mergeable == 'false'
