@@ -2337,6 +2337,7 @@ Akash Abraham
 - [Lorin Muller](https://github.com/loringabriel)
 - [Syed Mohid](https://github.com/Syed-Mohid)
 - [R Varshinee](https://github.com/RVarshinee)
+- [Sevag Merdkhanian](https://github.com/SevagMerdkhanian)
 [Sayandeep Dutta](https://github.com/duttasayandeep)
 - [Madeefar Abbas] (https://github.com/MadeefarAbbas)
 - [Jen Gori](https://github.com/jengori)
