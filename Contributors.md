@@ -1,4 +1,4 @@
-# Contributors
+
 - Mriganka
 - [Sebastian Gomez V](https://github.com/segpy)
 - [Tabia Bechir](https://github.com/t-bechir)
