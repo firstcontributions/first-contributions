@@ -2,10 +2,7 @@ name: Auto-merge PRs
 on:
   pull_request_target:
     types: [opened, synchronize, reopened]
-    types: [opened, synchronize, reopened]
     paths:
-      - "Contributors.md" # <- only run if only contributors file changed
-
       - "Contributors.md" # <- only run if only contributors file changed
 
 jobs:
@@ -66,7 +63,7 @@ jobs:
           # file names stored in env
           echo "files_changed=$FILES_CHANGED_LIST" >> $GITHUB_ENV
 
-# Look for Contributors.md file in the list of files changed
+          # Look for Contributors.md file in the list of files changed
           if [[ "${FILES_CHANGED_LIST// /}" == "Contributors.md" ]]; then
 
             # share output with other workflow
@@ -499,7 +496,6 @@ jobs:
 
             checkMergeability();
 
-      # Merge the pull request if it only modifies the Contributors.md file or if it fail to do then drop failure message as post
       - name: Merge PR
         id: merge_pr
         if: env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true' && env.get_is_safe_contents == 'true' && env.is_pr_mergeable == 'true'
