@@ -505,7 +505,9 @@ jobs:
                 repo: context.repo.repo,
                 pull_number: context.issue.number,
                 merge_method: "squash"
-              })
+              });
+
+              console.log(response);
 
               // Check if the merge was successful by checking the status code of the response
 
