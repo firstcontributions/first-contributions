@@ -490,6 +490,12 @@ jobs:
             }
     
             checkMergeability();
+            
+      - name: Checkout to PR branch
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          fetch-depth: 2
           
       - name: Merge PR
         id: merge_pr
