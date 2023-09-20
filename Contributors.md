@@ -133,6 +133,7 @@ Mahmoud Mirghani
 - [sourav kumar panda] (https://github.com/Sourav-Kumar-Panda)
 - [Roney Moon](https://github.com/roneymoon)
 - [Geetika Jhanji](https://github.comgit/geetikajhanji11)
+- [Hasan Maruf Ahmed](https://github.com/Hasan-Maruf-Ahmed)
 - [Parth Bhatt](https://github.com/Mazrah18/)
 - [Tom Black](https://github.com/SuperbWhiteApple)
 - [Amandine D.](https://github.com/suikachan42)
