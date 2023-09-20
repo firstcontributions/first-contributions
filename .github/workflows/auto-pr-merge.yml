@@ -278,9 +278,6 @@ jobs:
           echo "only_added_texts=$only_text_content" >> $GITHUB_ENV
           echo "only_added_links=${only_added_links[@]}" >> $GITHUB_ENV
 
-          echo "$only_text_content"
-          echo "${{ env.only_added_texts }}"
-
       #FIXME: There are no strict and reliable ways to check if the links are safe or not. The current implementation is using Google's Safe Browsing API to check if the links are safe. However, this is not a reliable solution as it only checks for the links that are already reported as malicious. We need to find a better solution for this.
       # - name: Check if the links are safe
       #   id: check_if_links_are_safe
@@ -338,19 +335,16 @@ jobs:
                 }
 
                 const text = await response.text();
-                console.log(text);
 
                 // check if the response is empty
                 if (text === 'true') {
                   console.log('Inappropriate words found in the texts');
                   core.setOutput('is_safe_contents_text', false);
                   core.exportVariable('is_safe_contents_text', 'false');
-                  console.log(${{ env.is_safe_contents_text }})
                 } else if (text === 'false') {
                   console.log('No inappropriate words found in the texts');
                   core.setOutput('is_safe_contents_text', true);
                   core.exportVariable('is_safe_contents_text', 'true');
-                  console.log(${{ env.is_safe_contents_text }})
                 } else {
                   throw new Error('Unexpected response: ' + text);
                   core.setFailed('Unexpected response: ' + text);
@@ -468,14 +462,12 @@ jobs:
                     retries++;
                   }
                 }
-                console.log(`this is mergeable status value - ${mergeable}`);
 
                 if(retries === maxRetries) {
                   console.log('Maximum number of retries exceeded. Mergeability is still null.')
                   core.setFailed('Maximum number of retries exceeded. Mergeability is still null.');
                 } 
                 if (mergeable === true) {
-                  console.log('Mergeable')
                   core.setOutput('is_pr_mergeable', true);
                   core.exportVariable('is_pr_mergeable', true);
                 } else if (mergeable === false){
