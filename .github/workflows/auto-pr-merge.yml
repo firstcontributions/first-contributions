@@ -284,6 +284,8 @@ jobs:
           # set the env variables
           echo "only_added_texts=$only_text_content" >> $GITHUB_ENV
           echo "only_added_links=${only_added_links[@]}" >> $GITHUB_ENV
+          echo "$only_added_links"
+          echo ${{ env.only_added_links }}
 
       #FIXME: There are no strict and reliable ways to check if the links are safe or not. The current implementation is using Google's Safe Browsing API to check if the links are safe. However, this is not a reliable solution as it only checks for the links that are already reported as malicious. We need to find a better solution for this.
       # - name: Check if the links are safe
@@ -336,7 +338,7 @@ jobs:
           script: |
             async function checkProfanity() {
               try {
-                console.log(`$only_added_texts`);
+                console.log(${{ env.only_added_texts }});
                 const response = await fetch(`https://www.purgomalum.com/service/containsprofanity?text=${{ env.only_added_texts }}?add=${{ env.only_added_texts }}`);
                 if (!response.ok) {
                   core.setFailed(`HTTP error! status: ${response.status}`);
