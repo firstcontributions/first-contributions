@@ -78,6 +78,7 @@
 -[Joomun_Noor](https://github.com/joomun)
 JialingYU
 -[David Peek] (https://github.com/dpeek2010)
+-[Vivian Martinez](https://github.com/vivianmartinez)
 -[Musa Mwangea] (https://github.com/mwangea)
 - [Ashenafi Bordea](http://github.com/asherthechamp)
 - [Gil Sala](https://github.com/Gilsabo)
