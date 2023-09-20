@@ -365,7 +365,7 @@ jobs:
 
       # Post comment on offensive content PR about code of conduct
       - name: Post comment on PR containing offensive content about code of conduct
-        if: env.is_safe_contents == 'false' && env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true'
+        if: env.is_safe_contents_text == 'false' && env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true'
         uses: actions/github-script@v5
         with:
           script: |
@@ -389,7 +389,7 @@ jobs:
 
       # Close the PR if it contains offensive content
       - name: Close PR if it contains offensive content
-        if: env.is_safe_contents == 'false' && env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true'
+        if: env.is_safe_contents_text == 'false' && env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true'
         uses: actions/github-script@v5
         with:
           script: |
