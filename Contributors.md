@@ -2382,3 +2382,4 @@ Akash Abraham
 - [Govind Kuklarni](https://github.com/govindKulk/)
 -Domenico Verde
 -Raffaele Ambrosano (https://github.com/ambroraffa)
+Stefano Di Baulo
