@@ -2378,3 +2378,4 @@ Akash Abraham
 - Riccardo Pucinischi
 - [Eugene Paitoo](https://github.com/epaitoo)
 - [Govind Kuklarni](https://github.com/govindKulk/)
+-Domenico Verde
