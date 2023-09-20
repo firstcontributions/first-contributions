@@ -104,6 +104,7 @@ JialingYU
 - [Faraz Sharifi](https://github.com/FarazShin) 😰
 - [Vikas Mishra](https://github.com/vikas-mshra)
 - [Aayush Shukla](https://github.com/aayushukla)
+- [Ashish Kotian](https://github.com/ashkotian84)
 - [Diego Arriaga](https://github.com/GOGOARRIAGA)
 - Meraj Sheikh
 - Bennett Wilbert 
