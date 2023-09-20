@@ -104,7 +104,7 @@ jobs:
             # 'awk' processes each line as a separate record (due to 'BEGIN{RS="\\n"}').
             # It then matches lines starting with a '+' sign (corresponding to lines added in a diff) and prints each matching line, excluding the first character (which is the '+' sign).
             only_added_contents=$(echo "$CONTRIBUTORS_MD_CONTENT" | awk 'BEGIN{RS="\\n"} /^\+/{print substr($0, 2)}')
-            
+
             echo "contributors_md_content=$only_added_contents" >> "$GITHUB_OUTPUT"
 
           else
@@ -251,6 +251,8 @@ jobs:
           #only_added_links=$(echo "$only_added_contents" | grep -oP '(https?://)?(www\.)?[\w-]+\.[\w-]+(/[-\w./?%&=]*)?') 
           # --xx Not suported xxx
           #only_added_links=$(echo "$only_added_contents" | grep -oP '(https?://)?(www\.)?[\w-]+\.[\w-]+(/[-\w./?%&=]*)?' | tr '\n' ' ')
+
+          echo "$get_contributors_md_content"
 
           #alternative 
           #the regular expression ((https?:\/\/|www\.)[^\s]+|[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}) will match any word that starts with http://, https://, or www., or any word that looks like a domain name (one or more alphanumeric characters or hyphens, followed by a dot and two or more alphabetic characters).
