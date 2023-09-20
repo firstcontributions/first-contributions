@@ -99,6 +99,7 @@ jobs:
 
             # toJSON convert to JSON and jq -r get the value from "patch" as raw 
             CONTRIBUTORS_MD_CONTENT=$(echo ${{ toJSON(env.pr_files ) }} | jq -r '.[].patch')
+            echo $CONTRIBUTORS_MD_CONTENT
 
             # This command uses 'awk' to extract lines from the variable 'CONTRIBUTORS_MD_CONTENT' that were added in a diff.
             # 'awk' processes each line as a separate record (due to 'BEGIN{RS="\\n"}').
