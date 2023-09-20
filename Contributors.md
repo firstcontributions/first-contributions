@@ -1,4 +1,5 @@
 # Contributors
+- [Biswajit Mishra](https://github.com/cxbiswajit)
 - [Aditya Prakash](https://github.com/heyitsadityaa)
 - [Kendall Hope Tucker] (https://github.com/kendallhtucker)
 - jhgf
