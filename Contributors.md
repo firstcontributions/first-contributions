@@ -8,7 +8,7 @@
 - [Tabia Bechir](https://github.com/t-bechir)
 - [Ziqi] (https://github.com/zi7feng)
 - [Menachem Bursh] (https://github.com/burshtei)
-- [Kumar Shivam] (https://github.com/kshivam30)
+- [Shivam] (https://github.com/kshivam30)
 - [Purv](https://github.com/Purva-2609)
 - [maimoona-j](https://github.com/maimoona-j)
 - [Alexander Zheng](https://github.com/alexhzheng)
