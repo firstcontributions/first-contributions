@@ -172,6 +172,7 @@ PRAJOT
 - [Alice Zandra Eya](https://github.com/AliceEya)
 - [John Virgil Carvajal](https://github.com/DarcMattz)
 - [Jaidie Lampa](https://github.com/jaidie-lampa)
+- [tabletopguy](https://github.com/GitPullrequest)
 - [Samuel Akongbota](https://github.com/Reysam2)
 - [Ayush Mhetre](https://github.com/mhetreayush)
 - [Brian Mehrens](https://github.com/brianmehrens)
