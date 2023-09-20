@@ -552,6 +552,7 @@ Mac McHam
 - [Omar Abdelgawad](https://github.com/omar-abdelgawad)
 - [Felipe Moriones](https://github.com/Moriones20)
 - [Yunis Aslan](https://github.com/YunisAslan)
+- [Abhishek Lakade](https://github.com/abhishek-lakade)
 - [Daan V](https://github.com/banzaai)
 - [drwho](https://github.com/drwho)
 - [Tyler Kinkade](https://github.com/tynkd)
