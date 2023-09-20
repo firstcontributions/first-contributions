@@ -2385,3 +2385,4 @@ Akash Abraham
 -Raffaele Ambrosano (https://github.com/ambroraffa)
 Stefano Di Baulo
 Janet Vazquez
+-[Aguilar, Stephen Joaquin G.](https://github.com/inamonanymous/)
