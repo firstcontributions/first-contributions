@@ -19,6 +19,7 @@
 - [Himanshu Mahaur](https://github.com/himanshumahaur)
 - [Samreen Reyaz](https://github.com/SamDaQueen)
 - [Malaika](https://github.com/noor-malaika)
+- [Yousha Mahamuni](https://github.com/yousha806)
 - [Hebert Pratama](https://github.com/heberttt)
 - [tjdove](https://github.com/tjdove)
 - [Rahul Kumar](https://github.com/rahul9852-dot)
