@@ -616,13 +616,23 @@ jobs:
                 // Generate the merge message using the getMergeMessage function
                 const message = getMergeMessage(context.payload.pull_request.user.login);
 
-                // post a comment
-                await github.rest.issues.createComment({
+                // post a comment on the PR with approval and merge message
+                const approval = {
                   owner: context.repo.owner,
                   repo: context.repo.repo,
-                  issue_number: context.issue.number,
-                  body: message
-                })
+                  pull_number: context.issue.number,
+                  body: message,
+                  event: 'APPROVE'
+                };
+
+                github.rest.pulls.createReview(approval);
+
+                # await github.rest.issues.createComment({
+                #   owner: context.repo.owner,
+                #   repo: context.repo.repo,
+                #   issue_number: context.issue.number,
+                #   body: message
+                # })
               
             } catch (error) {
               console.error("Error posting comment:", error.message);
