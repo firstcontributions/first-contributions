@@ -76,6 +76,7 @@
 - [bartez33a](https://github.com/bartez33a)
 - [NolannB14](https://github.com/NolannB14)
 - [Tyler Barlow] (https://github.com/barlowtyler96)
+- [John Sharkey](https://github.com/consistentinquiry)
 - [Daniel Albano III] (https://github.com/danielalbano3)
 - [Jung Jin Cheol] (https://github.com/bik1111)
 - [Aravind Achanta] (https://github.com/aachan3)
