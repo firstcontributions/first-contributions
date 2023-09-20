@@ -67,18 +67,7 @@ jobs:
           if [[ "${FILES_CHANGED_LIST// /}" == "Contributors.md" ]]; then
 
             # share output with other workflow
-            echo "only_contributors=true" >> "$GITHUB_OUTPUT" 
-
-            # toJSON convert to JSON and jq -r get the value from "patch" as raw 
-            CONTRIBUTORS_MD_CONTENT=$(echo ${{ toJSON(env.pr_files ) }} | jq -r '.[].patch')
-
-            # This command uses 'awk' to extract lines from the variable 'CONTRIBUTORS_MD_CONTENT' that were added in a diff.
-            # 'awk' processes each line as a separate record (due to 'BEGIN{RS="\\n"}').
-            # It then matches lines starting with a '+' sign (corresponding to lines added in a diff) and prints each matching line, excluding the first character (which is the '+' sign).
-            only_added_contents=$(echo "$CONTRIBUTORS_MD_CONTENT" | awk 'BEGIN{RS="\\n"} /^\+/{print substr($0, 2)}')
-            echo $only_added_contents
-            echo "contributors_md_content=$only_added_contents" >> "$GITHUB_OUTPUT"
-            
+            echo "only_contributors=true" >> "$GITHUB_OUTPUT"          
 
             #share env within step
             echo "only_contributors=true" >> $GITHUB_ENV
@@ -107,6 +96,17 @@ jobs:
 
             # env variable
             echo "only_one_line_edited=true" >> $GITHUB_ENV
+
+            # toJSON convert to JSON and jq -r get the value from "patch" as raw 
+            CONTRIBUTORS_MD_CONTENT=$(echo ${{ toJSON(env.pr_files ) }} | jq -r '.[].patch')
+
+            # This command uses 'awk' to extract lines from the variable 'CONTRIBUTORS_MD_CONTENT' that were added in a diff.
+            # 'awk' processes each line as a separate record (due to 'BEGIN{RS="\\n"}').
+            # It then matches lines starting with a '+' sign (corresponding to lines added in a diff) and prints each matching line, excluding the first character (which is the '+' sign).
+            only_added_contents=$(echo "$CONTRIBUTORS_MD_CONTENT" | awk 'BEGIN{RS="\\n"} /^\+/{print substr($0, 2)}')
+            echo $only_added_contents
+            echo "contributors_md_content=$only_added_contents" >> "$GITHUB_OUTPUT"
+
 
           else
 
