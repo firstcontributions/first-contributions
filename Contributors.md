@@ -51,6 +51,7 @@
 - [Aniket Garole](https://github.com/aniketgarole)
 - [Pulkit Sharma](https://github.com/Plktz)
 - [Kranya Provo](https://github.com/kkadapa)
+- [Adrian Tapia](https://github.com/Adrian2jr)
 - [Ishan Sharma](https://gihub.com/paramagneticnaga)
 - [Samir Gorai] (https://github.com/samirgorai)
 - [Kyle Kundinger](https://github.com/Kyle-Kundinger)
