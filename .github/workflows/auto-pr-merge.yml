@@ -179,7 +179,6 @@ jobs:
         with:
           script: |
             try{
-
                 const body = `Hey @${context.payload.pull_request.user.login}, thank you for your pull request. This pull request contains changes in files which requires review. The following files were changed:\n\n  ${process.env.files_changed.trim() ? `\n\n${process.env.files_changed.trim().split(' ').map(file => `- ${file}`).join('\n')}` : ''}`
                 
                 github.rest.issues.createComment({
@@ -376,12 +375,14 @@ jobs:
           script: |
             try{
               const body = `Hello @${context.payload.pull_request.user.login}, Thank you for your contribution! 🎉\n\nWe appreciate your contribution to the project. However, we have a [code of conduct](https://github.com/firstcontributions/first-contributions/blob/main/CODE_OF_CONDUCT.md) that we expect all contributors to follow. \n\nPlease remove the offensive content from your pull request and then push your changes again. \n\nIf you need any help, feel free to ask.`
-              github.rest.issues.createComment({
+              const review = {
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                issue_number: context.issue.number,
-                body: body
-              });
+                pull_number: context.issue.number,
+                body: body,
+                event: 'REQUEST_CHANGES'
+              };
+              github.rest.pulls.createReview(review);
 
             } catch (error) {
               console.error("Error posting comment:", error.message);
