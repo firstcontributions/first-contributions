@@ -267,6 +267,8 @@ jobs:
 
                   #store text and ignore link 
                   only_text_content=${get_contributors_md_content//$word/}
+                  echo $only_text_content
+                  echo "code line at 270 ^"
               fi
           done
 
