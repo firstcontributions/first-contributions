@@ -5,6 +5,7 @@
 - [Yang Xiang](https://github.com/yangxdev)
 - [Sebastian Gomez V](https://github.com/segpy)
 - [Tabia Bechir](https://github.com/t-bechir)
+- [Ziqi] (https://github.com/zi7feng)
 - [Menachem Bursh] (https://github.com/burshtei)
 - [Purv](https://github.com/Purva-2609)
 - [maimoona-j](https://github.com/maimoona-j)
