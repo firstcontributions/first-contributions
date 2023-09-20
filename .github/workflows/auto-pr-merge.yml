@@ -284,13 +284,13 @@ jobs:
                   echo $get_contributors_md_content
               fi
           done
-          echo $only_text_content
-          echo $get_contributors_md_content
+          echo "$only_text_content"
+          echo "$get_contributors_md_content"
           # set the env variables
           echo "only_added_texts=$only_text_content" >> $GITHUB_ENV
           echo "only_added_links=${only_added_links[@]}" >> $GITHUB_ENV
-          echo $only_added_texts
-          echo ${{ env.only_added_texts }}
+          echo "$only_added_texts"
+          echo "${{ env.only_added_texts }}"
 
       #FIXME: There are no strict and reliable ways to check if the links are safe or not. The current implementation is using Google's Safe Browsing API to check if the links are safe. However, this is not a reliable solution as it only checks for the links that are already reported as malicious. We need to find a better solution for this.
       # - name: Check if the links are safe
