@@ -21,6 +21,7 @@
 - [Malaika](https://github.com/noor-malaika)
 - [Yousha Mahamuni](https://github.com/yousha806)
 - [Hebert Pratama](https://github.com/heberttt)
+- [Ama Agyemang-Duah](https://github.com/amathestar)
 - [tjdove](https://github.com/tjdove)
 - [Rahul Kumar](https://github.com/rahul9852-dot)
 - [Naveen kumar (fream)](https://github.com/0EnIgma1)
