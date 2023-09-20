@@ -240,6 +240,7 @@ PRAJOT
 - [[Trustbycode]](https://github.com/trustbycode/)
 - [Trustbycode] (https://github.com/trustbycode/)
 - [Soxface] (https://github.com/SoxFace)
+- [Jacob Plotz] (https://github.com/jplotz)
 - [Siddant-Tripathi] (https://https://github.com/trisid12/)
 - [Ravi-Kumar] (https://github.com/DevGyaani)
   [Elijah Venisse Tabalba](https://github.com/ElijahVenisse)
