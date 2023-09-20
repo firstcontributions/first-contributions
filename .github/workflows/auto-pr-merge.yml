@@ -249,7 +249,8 @@ jobs:
         run: |
           #the regular expression ((https?:\/\/|www\.)[^\s]+|[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}) will match any word that starts with http://, https://, or www., or any word that looks like a domain name (one or more alphanumeric characters or hyphens, followed by a dot and two or more alphabetic characters).
           only_added_links=$(echo "$get_contributors_md_content" | awk 'BEGIN{RS=" ";} /((https?:\/\/|www\.)[^\s]+|[a-zA-Z0-9.-]+\.[a-zA-Z]{2,})/{print}' | sed 's/[.,;]$//')
-
+          echo "$get_contributors_md_content"
+          echo "code line at 253"
           #alternative one (replace the grep to awk)
           : << 'END_COMMENT'
           The below code extracts all URLs from the variable 'get_contributors_md_content' and stores them in the array "only_added_links". 
