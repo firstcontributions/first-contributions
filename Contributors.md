@@ -2375,3 +2375,4 @@ Akash Abraham
 [Arkadipta Mojumder](https://github.com/arkaslittlemind)
 - Francesco Polletta
 - SimoneC
+- Riccardo Pucinischi
