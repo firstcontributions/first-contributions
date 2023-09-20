@@ -157,6 +157,7 @@ PRAJOT
 - [Omkar Malji](https://github.com/omkarmalji)
 - [Eashan Kotha](https://github.com/ekotha)
 - [Ritesh Sivanathan](https://github.com/Ritesh-Sivanathan)
+- [WannaCode](https://github.com/kwngptrl)
 - [dysonsphere](https://github.com/Dysonsphere42)
 - [Joel Gutlay](https://github.com/Livsn06)
 - [JuliusArden12](https://github.com/JuliusArden12)
