@@ -100,7 +100,7 @@ jobs:
 
           # check only one line added, or only one line changed, or only one line deleted and one line added which makes 2 number of changes in Contributors.md file
 
-          if [[ ( $ADDITIONS -eq 1 && $CHANGES -eq 1 && $DELETIONS -eq 0 ) || ( $ADDITIONS -eq 1 && $CHANGES -eq 2 && $DELETIONS -eq 1 ) ]]; then
+          if [[ ( $ADDITIONS -eq 1 && $CHANGES -eq 1 && $DELETIONS -eq 0 ) || ( $ADDITIONS -eq 0 && $CHANGES -eq 1 && $DELETIONS -eq 1 ) ]]; then
 
             # add to job output
             echo "only_one_line_edited=true" >> "$GITHUB_OUTPUT"
@@ -154,7 +154,7 @@ jobs:
         with:
           script: |
             try{
-              const body = `Hello @${context.payload.pull_request.user.login}, Thank you for your contribution! We appreciate your effort and time.\n\nHowever, we noticed that there are multiple changes in the Contributors.md file. \n\nPlease add only one new line to the Contributors.md file. For a better understanding, please refer to the [3rd bullet point in the Contributing Guidelines](https://github.com/firstcontributions/first-contributions/issues/35892) \n\n## How to fix this?\n\nYou can follow [this guide](https://www.gitkraken.com/learn/git/problems/undo-git-commit). \n\nIf you need any help, feel free to ask.\n\nKeep up the good work! 😊`
+              const body = `Hello @${context.payload.pull_request.user.login}, Thank you for your contribution! We appreciate your effort and time.\ n\n However, It seems that you replaced the existing line or made multiple changes in the Contributors.md file. \n\nPlease add only one new line to the Contributors.md file. For a better understanding, please refer to the [3rd bullet point in the Contributing Guidelines](https://github.com/firstcontributions/first-contributions/issues/35892) \n\n## How to fix this?\n\nYou can follow [this guide](https://www.gitkraken.com/learn/git/problems/undo-git-commit). \n\nIf you need any help, feel free to ask.\n\nKeep up the good work! 😊`
               github.rest.issues.createComment({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
