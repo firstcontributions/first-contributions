@@ -539,12 +539,16 @@ jobs:
           script: |
             try{
               const body = `Hello @${context.payload.pull_request.user.login}, Thank you for your contribution! 🎉\n\nUnfortunately, there is a merge conflict in your Pull Request. Please pull the latest changes from the main branch, [resolve the conflict](additional-material/git_workflow_scenarios/resolving-merge-conflicts.md), and then push your changes again.\n\nIf you need any help, feel free to ask.\n\nKeep up the good work! 😊`
-              github.rest.issues.createComment({
+              
+              const review = {
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                issue_number: context.issue.number,
-                body: body
-              });
+                pull_number: context.issue.number,
+                body: body,
+                event: 'REQUEST_CHANGES'
+              };
+
+              github.rest.pulls.createReview(review);
 
             } catch (error) {
               console.error("Error posting comment:", error.message);
