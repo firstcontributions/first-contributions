@@ -840,6 +840,7 @@ Nikhil R
 - [Nuhaj Aziz](https://github.com/Naz1804/)
 - [Ayush Mourya](https://github.com/ayushmourya/)
 - [Jahnavi-Solanki](https://github.com/Jahnavi-Solanki)
+- [Chris Weng](https://github.com/chrisweng1)
 - [TimedOut1800](https://github.com/TimedOut1800)
 - [Shashank Hebbar](https://github.com/quantumflo)
 - [Vladimir Gragert](https://github.com/GragertVD)
