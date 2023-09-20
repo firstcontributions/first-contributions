@@ -285,7 +285,7 @@ jobs:
               fi
           done
           echo $only_text_content
-          echo $
+          echo $get_contributors_md_content
           # set the env variables
           echo "only_added_texts=$only_text_content" >> $GITHUB_ENV
           echo "only_added_links=${only_added_links[@]}" >> $GITHUB_ENV
