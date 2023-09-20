@@ -158,7 +158,7 @@ jobs:
               const review = {
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                pull_number: context.payload.pull_request,
+                pull_number: context.issue.number,
                 body: body,
                 event: 'REQUEST_CHANGES'
               };
