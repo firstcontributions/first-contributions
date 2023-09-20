@@ -332,7 +332,7 @@ jobs:
           script: |
             async function checkProfanity() {
               try {
-                const response = await fetch(`https://www.purgomalum.com/service/containsprofanity?text="${{ env.only_added_texts }}"?add="${{ env.only_added_texts }}"`);
+                const response = await fetch(`https://www.purgomalum.com/service/containsprofanity?text="${{ env.only_added_texts }}"`);
                 if (!response.ok) {
                   core.setFailed(`HTTP error! status: ${response.status}`);
                 }
