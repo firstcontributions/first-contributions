@@ -2070,6 +2070,7 @@ Akash Abraham
 - [A K M Jubaeir Islam](https://github.com/Zubiii333)
 - [Ian Hart](https://github.com/ianahart)
 - [Uday Vara](https://github.com/UV26320)
+- [Ridhi Priya](https://github.com/Ridhi-priya)
 - [Valentyn Chernetskyi](https://github.com/Valik3201)
 - [solola David](https://github.com/LetcodeitwithDave)
 - [Grace Kim](https://github.com/gracekim1217)
