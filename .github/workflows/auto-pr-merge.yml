@@ -19,7 +19,7 @@ jobs:
       files_changed: ${{ steps.check_num_of_files_modified_step.outputs.files_changed }}
       is_only_contributors_file_changed: ${{ steps.check_num_of_files_modified_step.outputs.only_contributors }}
       is_only_one_line_modified: ${{ steps.check_num_of_lines_modified_step.outputs.only_one_line_edited }}
-      contributors_md_content: ${{ steps.check_num_of_files_modified_step.outputs.only_added_contents }}
+      contributors_md_content: ${{ steps.check_num_of_lines_modified_step.outputs.only_added_contents }}
 
     steps:
       - name: Checkout to PR branch
