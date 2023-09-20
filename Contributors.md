@@ -857,6 +857,7 @@ Nikhil R
 - [jungle-kai](https://github.com/jungle-kai)
 - [Nuhaj Aziz](https://github.com/Naz1804/)
 - [Ayush Mourya](https://github.com/ayushmourya/)
+- [Joshua Thomas](https://github.com/mrjdavidt/)
 - [Jahnavi-Solanki](https://github.com/Jahnavi-Solanki)
 - [Chris Weng](https://github.com/chrisweng1)
 - [TimedOut1800](https://github.com/TimedOut1800)
