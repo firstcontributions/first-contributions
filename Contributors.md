@@ -2163,6 +2163,7 @@ Akash Abraham
 - [Nguyen Minh Hieu](https://github.com/nm-hieu)
 - [Rajiv Paul](https://github.com/rajiv-paul)
 - [Mahfy3w]()
+- [NabeelWaq1](https://github.com/NabeelWaq1)
 - [yesiyuan] (https://github.com/sakura-ysy)
 - [nami773](https://github.com/nami773/)
 - [tencho12] (https://github.com/tencho12/)
