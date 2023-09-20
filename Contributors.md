@@ -1,5 +1,6 @@
 # Contributors
 - [Aditya Prakash](https://github.com/heyitsadityaa)
+- [Kendall Hope Tucker] (https://github.com/kendallhtucker)
 - jhgf
 - [Yang Xiang](https://github.com/yangxdev)
 - [Sebastian Gomez V](https://github.com/segpy)
