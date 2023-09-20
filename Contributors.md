@@ -11,6 +11,7 @@
 - [Ziqi] (https://github.com/zi7feng)
 - [Menachem Bursh] (https://github.com/burshtei)
 - [Shivam] (https://github.com/kshivam30)
+- [John Mikko Velasquez] (https://github.com/JohnMikko27)
 - [Purv](https://github.com/Purva-2609)
 - [maimoona-j](https://github.com/maimoona-j)
 - [Alexander Zheng](https://github.com/alexhzheng)
