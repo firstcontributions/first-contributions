@@ -1023,6 +1023,7 @@ Nikhil R
 - [Tung Le Thanh](https://github.com/tung-le)
 - [Anuj Kumar Karmakar](https://github.com/anujkkarmakar)
 - [ElectroGamesDev](https://github.com/ElectroGamesDev)
+- [Robert Lent](https://github.com/robertlent)
 - [Angel Umeh](https://github.com/akcumeh)
 - [Mehran Faraji](https://github.com/mehranfaraji)
 - [Nayan Jyoti Das](https://github.com/njdasa)
