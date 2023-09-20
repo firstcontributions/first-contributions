@@ -280,6 +280,8 @@ jobs:
                   #store text and ignore link 
                   only_text_content=${get_contributors_md_content//$word/}
                   echo $only_text_content
+                  echo $word
+                  echo $get_contributors_md_content
               fi
           done
           echo $only_text_content
