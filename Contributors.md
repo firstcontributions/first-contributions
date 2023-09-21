@@ -2407,4 +2407,4 @@ Janet Vazquez
 [Chris Gough] (https://github.com/CrypticNothings)
 [ANKAN SUR] (https://github.com/ankansux)
 T7
--[Jim Martinez](https://github.com/iamdeterminedd)
+- [Jim Martinez](https://github.com/iamdeterminedd)
