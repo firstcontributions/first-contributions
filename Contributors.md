@@ -49,6 +49,7 @@
 - [Aryan Sharma] (https://github.com/aryan8180)
 - [Yusuf Uzun] (https://github.com/Yusi94)
 - [Dean Macaulay](https://github.com/deanmac5)
+- [Daniel Guillen](https://github.com/djg3577)
 - [Ramez Gabra](https://github.com/ramezgabra)
 - [MAEINUDDIN ](https://github.com/Maeinukhan63/)
 - [Fernando Perez](https://github.com/FernPerez/)
