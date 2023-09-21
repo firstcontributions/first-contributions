@@ -14,6 +14,7 @@
 - [John Mikko Velasquez] (https://github.com/JohnMikko27)
 - [Purv](https://github.com/Purva-2609)
 - [maimoona-j](https://github.com/maimoona-j)
+- [BamjosAdeniyi](https://github.com/BamjosAdeniyi)
 - [Alexander Zheng](https://github.com/alexhzheng)
 - [Miguel Romero V](https://github.com/Miguelrom)
 - [Shamanth KN](https://github.com/shamanthkn5)
