@@ -2163,6 +2163,7 @@ Akash Abraham
 - [DS-X1](https://github.com/DS-X1)
 - [Nilendra Singh]
 - [Ethan Eckert](https://github.com/eth9n-dev)
+- [John Paul Larkin](https://github.com/Fishamble)
 - [Mike Manoti Nyambega](https://github.com/manotim)
 - [Aadith Lasar](https://github.com/aadithlasar)
 - [Brian Johnson](https://github.com/bjohnson360)
