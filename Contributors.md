@@ -25,6 +25,7 @@
 - [Himanshu Mahaur](https://github.com/himanshumahaur)
 - [BamjosAdeniyi](https://github.com/BamjosAdeniyi)
 - [Samreen Reyaz](https://github.com/SamDaQueen)
+- [Sachin Maurya](https://github.com/maurya-sachin)
 - [Malaika](https://github.com/noor-malaika)
 - [Yousha Mahamuni](https://github.com/yousha806)
 - [Hebert Pratama](https://github.com/heberttt)
