@@ -1200,6 +1200,7 @@ Nikhil R
 - [Jason Wilson](https://github.com/WilsonJhub)
 - [Connor Jones](https://github.com/CJDevelops)
 - [ryoryo25](https://github.com/ryoryo25)
+- [Mary Kissiedu](https://github.com/mkissiedu)
 - [Alexander Castillo](https://github.com/Jhuiice)
 - [Konrad Sosna](https://github.com/KonradSosna)
 - [Connor Rokos](https://github.com/c-rokos)
