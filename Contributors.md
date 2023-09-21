@@ -2385,7 +2385,7 @@ Akash Abraham
 - [R Varshinee](https://github.com/RVarshinee)
 - [Sevag Merdkhanian](https://github.com/SevagMerdkhanian)
 - [Sayandeep Dutta](https://github.com/duttasayandeep)
-- [Madeefar Abbas] (https://github.com/MadeefarAbbas)
+- [Madeefar Abbas](https://github.com/MadeefarAbbas)
 - [Jen Gori](https://github.com/jengori)
 - [Rohan Vania](https://github.com/RohanVania)
 - [Cheyenne Abel](https://github.com/cheyenneabel)
@@ -2400,12 +2400,12 @@ Akash Abraham
 - [Eugene Paitoo](https://github.com/epaitoo)
 - [Govind Kuklarni](https://github.com/govindKulk/)
 - Domenico Verde
-- Raffaele Ambrosano (https://github.com/ambroraffa)
+- [Raffaele Ambrosano](https://github.com/ambroraffa)
 - Stefano Di Baulo
 - Janet Vazquez
 - [Aguilar, Stephen Joaquin G.](https://github.com/inamonanymous/)
 - Andrew Lohzilla
-- [Chris Gough] (https://github.com/CrypticNothings)
-- [ANKAN SUR] (https://github.com/ankansux)
+- [Chris Gough](https://github.com/CrypticNothings)
+- [ANKAN SUR](https://github.com/ankansux)
 - T7
 - [Jim Martinez](https://github.com/iamdeterminedd)
