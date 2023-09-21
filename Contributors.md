@@ -2382,29 +2382,28 @@ Akash Abraham
 - [Syed Mohid](https://github.com/Syed-Mohid)
 - [R Varshinee](https://github.com/RVarshinee)
 - [Sevag Merdkhanian](https://github.com/SevagMerdkhanian)
-[Sayandeep Dutta](https://github.com/duttasayandeep)
+- [Sayandeep Dutta](https://github.com/duttasayandeep)
 - [Madeefar Abbas] (https://github.com/MadeefarAbbas)
 - [Jen Gori](https://github.com/jengori)
--[Rohan Vania](https://github.com/RohanVania)
--[Cheyenne Abel](https://github.com/cheyenneabel)
--[Marcel Jamecny](https://github.com/mjamecny)
--[João Gomes](https://github.com/joaoeduardogomes)
+- [Rohan Vania](https://github.com/RohanVania)
+- [Cheyenne Abel](https://github.com/cheyenneabel)
+- [Marcel Jamecny](https://github.com/mjamecny)
+- [João Gomes](https://github.com/joaoeduardogomes)
 - Luis Pacheco
 - [Rahul Sajwan](https://github.com/rahulsajwan05)
-
-[Arkadipta Mojumder](https://github.com/arkaslittlemind)
+- [Arkadipta Mojumder](https://github.com/arkaslittlemind)
 - Francesco Polletta
 - SimoneC
 - Riccardo Pucinischi
 - [Eugene Paitoo](https://github.com/epaitoo)
 - [Govind Kuklarni](https://github.com/govindKulk/)
--Domenico Verde
--Raffaele Ambrosano (https://github.com/ambroraffa)
-Stefano Di Baulo
-Janet Vazquez
--[Aguilar, Stephen Joaquin G.](https://github.com/inamonanymous/)
+- Domenico Verde
+- Raffaele Ambrosano (https://github.com/ambroraffa)
+- Stefano Di Baulo
+- Janet Vazquez
+- [Aguilar, Stephen Joaquin G.](https://github.com/inamonanymous/)
 - Andrew Lohzilla
-[Chris Gough] (https://github.com/CrypticNothings)
-[ANKAN SUR] (https://github.com/ankansux)
-T7
+- [Chris Gough] (https://github.com/CrypticNothings)
+- [ANKAN SUR] (https://github.com/ankansux)
+- T7
 - [Jim Martinez](https://github.com/iamdeterminedd)
