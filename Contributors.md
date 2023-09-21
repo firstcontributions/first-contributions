@@ -7,7 +7,6 @@
 - [Sebastian Gomez V](https://github.com/segpy)
 - [Tabia Bechir](https://github.com/t-bechir)
 - [Ziqi] (https://github.com/zi7feng)
-- [KenTony McLeish](https://github.com/Tunza42/) j
 - [Menachem Bursh] (https://github.com/burshtei)
 - [Shivam] (https://github.com/kshivam30)
 - [John Mikko Velasquez] (https://github.com/JohnMikko27)
