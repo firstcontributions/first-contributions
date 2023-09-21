@@ -20,6 +20,7 @@
 - [Alexander Zheng](https://github.com/alexhzheng)
 - [Miguel Romero V](https://github.com/Miguelrom)
 - Radin Mirzaee
+- [Okpara Ifeanyi](https://github.com/okparaa)
 - [Shamanth KN](https://github.com/shamanthkn5)
 - [Akash Tripathi](https://github.com/akashtripathi1)
 - [Eliu Mendoza](https://github.com/edu-kalel)
