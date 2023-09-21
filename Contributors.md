@@ -14,6 +14,7 @@
 - [John Mikko Velasquez] (https://github.com/JohnMikko27)
 - [Purv](https://github.com/Purva-2609)
 - [maimoona-j](https://github.com/maimoona-j)
+- [BamjosAdeniyi](https://github.com/BamjosAdeniyi)
 - [Alexander Zheng](https://github.com/alexhzheng)
 - [Miguel Romero V](https://github.com/Miguelrom)
 - [Shamanth KN](https://github.com/shamanthkn5)
@@ -21,6 +22,7 @@
 - [Eliu Mendoza](https://github.com/edu-kalel)
 - [Gazmend Shehu](https://github.com/zigameni)
 - [Himanshu Mahaur](https://github.com/himanshumahaur)
+- [BamjosAdeniyi](https://github.com/BamjosAdeniyi)
 - [Samreen Reyaz](https://github.com/SamDaQueen)
 - [Malaika](https://github.com/noor-malaika)
 - [Yousha Mahamuni](https://github.com/yousha806)
@@ -2403,7 +2405,13 @@ Akash Abraham
 - Janet Vazquez
 - [Aguilar, Stephen Joaquin G.](https://github.com/inamonanymous/)
 - Andrew Lohzilla
+<<<<<<< HEAD
 - [Chris Gough] (https://github.com/CrypticNothings)
 - [ANKAN SUR] (https://github.com/ankansux)
 - T7
 - [Jim Martinez](https://github.com/iamdeterminedd)
+=======
+[Chris Gough] (https://github.com/CrypticNothings)
+[ANKAN SUR] (https://github.com/ankansux)
+T7
+>>>>>>> 4e9ddd453f2817377c7b0a950dae1ef554bb42c5
