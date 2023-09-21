@@ -21,6 +21,7 @@
 - [Eliu Mendoza](https://github.com/edu-kalel)
 - [Gazmend Shehu](https://github.com/zigameni)
 - [Himanshu Mahaur](https://github.com/himanshumahaur)
+- [BamjosAdeniyi](https://github.com/BamjosAdeniyi)
 - [Samreen Reyaz](https://github.com/SamDaQueen)
 - [Malaika](https://github.com/noor-malaika)
 - [Yousha Mahamuni](https://github.com/yousha806)
