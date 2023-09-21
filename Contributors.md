@@ -6,6 +6,7 @@
 - [Aditya Prakash](https://github.com/heyitsadityaa)
 - [Kendall Hope Tucker] (https://github.com/kendallhtucker)
 - [AD] (https://github.com/AbhinavD84)
+- [Mighty Odewumi](https://github.com/mighty-odewumi)
 - jhgf
 - [Prashnth Tutturu] (https://github.com/prashanthtutturu)
 - [Yang Xiang](https://github.com/yangxdev)
