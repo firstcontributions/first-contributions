@@ -77,7 +77,7 @@
 - [Ayush Mishra](https://github.com/dev-ayush69)
 -[Luis Baião](https://github.com/Luis4112)
 - [Kurt Renzo Jalalain](https://github.com/marshmallow218)
-- [richard](https://github.com/RichardSima2021)
+-  [richard](https://github.com/RichardSima2021)
 - [bartez33a](https://github.com/bartez33a)
 - [NolannB14](https://github.com/NolannB14)
 - [Keziah Smallhorne](https://github.com/zkz63)
