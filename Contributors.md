@@ -3,12 +3,11 @@
 - [ababa amr] (https://github.com/a-amr)
 - [Jagannath Mestry](https://github.com/Jagannath15)
 - [Aditya Prakash](https://github.com/heyitsadityaa)
-- [Kendall Hope Tucker] (https://github.com/kendallhtucker)
-- jhgf
 - [Yang Xiang](https://github.com/yangxdev)
 - [Sebastian Gomez V](https://github.com/segpy)
 - [Tabia Bechir](https://github.com/t-bechir)
 - [Ziqi] (https://github.com/zi7feng)
+- [KenTony McLeish](https://github.com/Tunza42/) j
 - [Menachem Bursh] (https://github.com/burshtei)
 - [Shivam] (https://github.com/kshivam30)
 - [John Mikko Velasquez] (https://github.com/JohnMikko27)
@@ -342,6 +341,7 @@ Mac McHam
 - olgaTheCreator
 - -psuuc-jayremy
 - [Kosumo] (https://github.com/masumo)
+- [Ken Andre](https://github.com/Ken-Andre)
 - [Kane Le](https://github.com/kanelv)
 - [Rohan Kanti] (https://github.com/rohank36)
 - [Frederick] (https://github.com/fredsn0tDead)
