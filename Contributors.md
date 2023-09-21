@@ -190,6 +190,7 @@ PRAJOT
 - [Marek Mazij](https://github.com/Mrk-Mzj)
 - [Vivek Vr](https://github.com/dcompanykrish)
 - [Alice Zandra Eya](https://github.com/AliceEya)
+Sino Felicity Zwane
 - [John Virgil Carvajal](https://github.com/DarcMattz)
 - [Jaidie Lampa](https://github.com/jaidie-lampa)
 - [tabletopguy](https://github.com/GitPullrequest)
