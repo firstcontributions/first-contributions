@@ -2433,3 +2433,4 @@ T7
 - [Jahir Ahmed](https://github.com/jahir509/)
 - [Haile Melaku] (https://github.com/Haile-08)
 - [Joyce Costa](https://github.com/JoyceCosta)
+- [Alan Sakata](https://github.com/sakataalan)
