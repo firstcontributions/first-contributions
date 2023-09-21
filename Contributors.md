@@ -2381,3 +2381,4 @@
 - Raffaele Ambrosano (https://github.com/ambroraffa)
 - Stefano Di Baulo
 - Janet Vazquez
+- [Sarah Caulfield](https://github.com/scaulfield7)
