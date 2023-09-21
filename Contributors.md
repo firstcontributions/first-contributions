@@ -522,6 +522,7 @@ Mac McHam
 - [Jay Cole](https://github.com/3colej20)
 - [Alexandra Pietroch] (https://github.com/sasha-cz)
 - [Keisuke Miura](https://github.com/behindthemac)
+- [Chaitra Shree](https://github.com/Chaitra-Shree)
 - [curlylemon](https://github.com/curlylemon)
 - [Nulzn](https://github.com/Nulzn)
 - [Vivekanandan](https://github.com/vivek20Eng)
