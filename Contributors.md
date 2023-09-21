@@ -6,10 +6,13 @@
 - [Aditya Prakash](https://github.com/heyitsadityaa)
 - [Kendall Hope Tucker] (https://github.com/kendallhtucker)
 - [AD] (https://github.com/AbhinavD84)
+- [Mighty Odewumi](https://github.com/mighty-odewumi)
 - jhgf
 - tton
+- [Prashnth Tutturu] (https://github.com/prashanthtutturu)
 - [Yang Xiang](https://github.com/yangxdev)
 - [Sebastian Gomez V](https://github.com/segpy)
+- [Jack Hannon](https://github.com/Mezzichai)
 - [Tabia Bechir](https://github.com/t-bechir)
 - [Ziqi] (https://github.com/zi7feng)
 - SOMETHING IS HERE
@@ -2137,6 +2140,7 @@ Akash Abraham
 - [Brian Neisen](https://github.com/warmage12354)
 - [Tango992] (https://github.com/Tango992)
 - Ash
+- [Sam Masto](https://github.com/smashed-toes)
 - [Henry Blackburn](https://github.com/Heno08)
 - [Ared Xiao](https://github.com/Ared-go)
 - [MSN16]
@@ -2437,3 +2441,4 @@ T7
 - [Haile Melaku] (https://github.com/Haile-08)
 - [Joyce Costa](https://github.com/JoyceCosta)
 - [Alan Sakata](https://github.com/sakataalan)
+- [Shivam Roy] (https://github.com/RoyDev72)
