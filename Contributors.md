@@ -2230,6 +2230,7 @@ Akash Abraham
 - [bryantk-us]
 - [vmart]
 - [monisha-82] (https://github.com/monisha-82)
+- [ausaf] (https://github.com/ausafusmani)
 - [Cemus](https://github.com/Cemus)
 - [franxxu] (https://github.com/franxxu)
 - [RiddlemanMVP] (https://github.com/RiddlemanMVP)
