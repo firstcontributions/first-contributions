@@ -9,6 +9,7 @@
 - jhgf
 - [Yang Xiang](https://github.com/yangxdev)
 - [Sebastian Gomez V](https://github.com/segpy)
+- [Jack Hannon](https://github.com/Mezzichai)
 - [Tabia Bechir](https://github.com/t-bechir)
 - [Ziqi] (https://github.com/zi7feng)
 - SOMETHING IS HERE
