@@ -1,4 +1,5 @@
-   # Contributors
+# Contributors
+
 <!-- prettier-ignore-start -->
 
 - [Vaibhav Mahajan](https://github.com/vaibhav-3003)
@@ -8,7 +9,7 @@
 - [Jon Sundin](https://github.com/jmsundin)
 - [Sagar Sharma](https://github.com/sagar-io)
 - [Stefan Baciu](https://github.com/StefanCodru)
-Ti Kyi Khant
+  Ti Kyi Khant
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
 - [Adam Shin](https://github.com/AdamShin19)
 - [Brandon Cole] (https://github.com/realbcole)
@@ -29,6 +30,7 @@ Ti Kyi Khant
 - [Tim Yu](https://github.com/tyu012)
 - [DineshVeguru](https://github.com/dineshveguru)
 - [ambresh biradar](https://github.com/ambreshbiradar9)
+
 - [Alex Martinez](https://github.com/MartinezTech)
 - [Titania Yan](https://github.com/TYan18)
 - [Sim Dash](https://github.com/udashdon4)
@@ -121,6 +123,7 @@ Ti Kyi Khant
 - [RongZhao Zhang](https://github.com/ZhangRongZhao247)
 - [Brock Price](https://github.com/brockwrites)
 - [bronkp](https://github.com/bronkp)
+- [Quincy Smith-Assan](https://github.com/quincy-S)
 - Bruno V. T. Barbosa
 - Karthik
 - [Cedric Hannemann](https://github.com/cedhan)
@@ -361,8 +364,7 @@ Ti Kyi Khant
 - [Chiranjit Debnath](https://github.com/tomtanner)
 - [JSTNSNE](https://github.com/JSTNSNE)
 - [Mohamed Mostafa](https://github.com/mohamedmostafakhudari)
-- [JSTNSNE](https://github.com/JSTNSNE)
--[not]
+- [JSTNSNE](https://github.com/JSTNSNE) -[not]
 - [Aimee T](https://github.com/aimeetacchi)
 - [Alkut Askar](https://github.com/elkut)
 - [klpod221](https://github.com/klpod221)
@@ -752,7 +754,7 @@ Ti Kyi Khant
 - [Sudipta Chatterjee](https://github.com/cuscat)
 - [Vishal Prakash](https://github.com/prakashvishal93)
 - [Ruslans Aleksejevs](https://github.com/RuslansAleksejevs)
-- [Aayushmaan Mishra]( https://github.com/AayushmaanMishra)
+- [Aayushmaan Mishra](https://github.com/AayushmaanMishra)
 - [Devashish Chakraborty](https://github.com/devashishchakraborty)
 - [Brian Bossy](https://github.com/Brian123-del)
 - [Zach Grant](https://github.com/BlindJuly)
