@@ -7,6 +7,7 @@
 - [Kendall Hope Tucker] (https://github.com/kendallhtucker)
 - [AD] (https://github.com/AbhinavD84)
 - jhgf
+- [Prashnth Tutturu] (https://github.com/prashanthtutturu)
 - [Yang Xiang](https://github.com/yangxdev)
 - [Sebastian Gomez V](https://github.com/segpy)
 - [Jack Hannon](https://github.com/Mezzichai)
