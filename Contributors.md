@@ -35,6 +35,7 @@
 -  [richard](https://github.com/RichardSima2021)
 - [bartez33a](https://github.com/bartez33a)
 - [NolannB14](https://github.com/NolannB14)
+- [Keziah Smallhorne](https://github.com/zkz63)
 - [Tyler Barlow] (https://github.com/barlowtyler96)
 - [Daniel Albano III] (https://github.com/danielalbano3)
 - [Aravind Achanta] (https://github.com/aachan3)
