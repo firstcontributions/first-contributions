@@ -95,6 +95,7 @@
 -[Joomun_Noor](https://github.com/joomun)
 JialingYU
 -[David Peek] (https://github.com/dpeek2010)
+-[Vladislav Firsov] (https://github.com/LemanRus)
 -[Vivian Martinez](https://github.com/vivianmartinez)
 -[Musa Mwangea] (https://github.com/mwangea)
 - [Ashenafi Bordea](http://github.com/asherthechamp)
