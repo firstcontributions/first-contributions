@@ -1,4 +1,5 @@
 # Contributors
+- [Muhammed Afnan](https://github.com/effiafnan)
 - [Ferhat Cekim](https://github.com/ferferx)
 - [Saurabh Padman](https://github.com/spirus-dev)
 - [Samuel Betancourt](https://github.com/Leumas80) <img title="Leumas80" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ve.svg" width="22">
