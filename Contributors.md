@@ -1,4 +1,5 @@
 # Contributors
+   [Bista]
 - [Mher Saratikyan](https://github.com/MherSaratikyan)
 - [Biswajit Mishra](https://github.com/cxbiswajit)
 - [ababa amr] (https://github.com/a-amr)
