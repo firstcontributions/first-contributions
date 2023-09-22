@@ -5,6 +5,7 @@
 - [Utsho de Bravestone](https://github.com/utshodebravestone)
 - [piyush Dadgal](https://github.com/Piyush0618)
 - [Muhammed Mifthah](https://github.com/Mifthah99)
+- [Muhammed Afnan](https://github.com/effiafnan)
 KOR EU WEI
 - [Keannu Angelo Ramos](https://github.com/KeanCodex)
 - [Joshua Reitz](http://github.com/jreitz2)
