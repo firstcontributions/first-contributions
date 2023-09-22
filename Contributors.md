@@ -11,6 +11,7 @@
 - tton
 - [Prashnth Tutturu] (https://github.com/prashanthtutturu)
 - [Yang Xiang](https://github.com/yangxdev)
+- [Vinayak Raj](https://github.com/vinayakmraj)
 - [Sebastian Gomez V](https://github.com/segpy)
 - [Jack Hannon](https://github.com/Mezzichai)
 - [Tabia Bechir](https://github.com/t-bechir)
