@@ -2207,6 +2207,7 @@ Akash Abraham
 - [Hernani Domingo](https://github.com/domingohernani)
 - [Eric Huang](https://github.com/erich2s)
 - [Jarrod Rother](https://github.com/JarrodR87)
+- [Joao Darwin](https://github.com/Joao-Darwin)
 - [黄士崧](https://github.com/erich2s)
 - [Marco] (https://github.com/mrk-qa)
 - [Egor Kalinin](https://github.com/egorii87)
