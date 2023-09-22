@@ -93,6 +93,7 @@
 - [manymogo](https://github.com/manymogo)
 - [Behzad Dadashpour](https://github.com/wellmanborn)
 - [Ayush Mishra](https://github.com/dev-ayush69)
+- [Daniel Francisco](https://github.com/danielbrah)💀
 -[Luis Baião](https://github.com/Luis4112)
 - [Kurt Renzo Jalalain](https://github.com/marshmallow218)
 -  [richard](https://github.com/RichardSima2021)
