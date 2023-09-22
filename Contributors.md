@@ -750,6 +750,7 @@ Nikhil R
 - [Owusu Ansah](https://github.com/qquarjo)
 - [Brent Gratias](https://github.com/bgratias)
 - [Yushan]
+- [Abdallah](https://github.com/6urk)
 - [Arpit Burgess](https://github.com/arpitburgess)
 - [Guilherme Nunes](https://github.com/guilhermenunes25)
 - [Ilias Dimopoulos](https://github.com/IliasDimopoulos99)
