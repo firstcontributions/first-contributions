@@ -599,6 +599,7 @@ Mac McHam
 - [Felipe Moriones](https://github.com/Moriones20)
 - [Yunis Aslan](https://github.com/YunisAslan)
 - [Abhishek Lakade](https://github.com/abhishek-lakade)
+- [Jonathan Feehan](https://github.com/Feehanjt)
 - [Daan V](https://github.com/banzaai)
 - [drwho](https://github.com/drwho)
 - [Tyler Kinkade](https://github.com/tynkd)
