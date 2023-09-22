@@ -1197,6 +1197,7 @@ Nikhil R
 - [Dylan Madhani](https://github.com/dylanmad)
 - [Sherman Tay](https://github.com/ShermsRL)
 - [Roopaksh](https://github.com/Roopaksh1)
+- [colognia] (https://github.com/colognia)
 - [MenardMacabulos]
 - [Sahil Jawale](https://github.com/Sahiljawale54)
 - [ofcwork53](https://github.com/ofcwork53)
