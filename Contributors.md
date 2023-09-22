@@ -21,6 +21,7 @@
 - [John Mikko Velasquez] (https://github.com/JohnMikko27)
 - [Vinod SR] (https://github.com/VinodSRinCloud)
 - [Purv](https://github.com/Purva-2609)
+- [Oeta Kumara] (https://github.com/okumara)
 - [maimoona-j](https://github.com/maimoona-j)
 - [BamjosAdeniyi](https://github.com/BamjosAdeniyi)
 - [Alexander Zheng](https://github.com/alexhzheng)
