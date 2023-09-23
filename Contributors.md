@@ -156,6 +156,7 @@ JialingYU
 - [Diego Arriaga](https://github.com/GOGOARRIAGA)
 - Meraj Sheikh
 - Jaime Juarbe
+- [Eyal Yarden](https://github.com/eyalya1)
 - Bennett Wilbert 
 - [Mohamed Atta](https://github.com/MohamedAtta-AI)
 - [Mahmoud Mirghani](https://github.com/mahmoudmerghani)
