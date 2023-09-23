@@ -1,5 +1,7 @@
 # Contributors
+
    [Bista]
+
 - [Mher Saratikyan](https://github.com/MherSaratikyan)
 - [alamin655](https://github.com/alamin655)
 - [Hamzaa Shah](https://github.com/Hamjaster)
@@ -2479,6 +2481,7 @@ Janet Vazquez
 [Chris Gough] (https://github.com/CrypticNothings)
 [ANKAN SUR] (https://github.com/ankansux)
 T7
+
 - MingJun Zou
 - [harusys](https://github.com/harusys/)
 - [Chukwu Ikechukwu John](https://github.com/Iykechuks11/)
@@ -2487,4 +2490,6 @@ T7
 - [Joyce Costa](https://github.com/JoyceCosta)
 - [Alan Sakata](https://github.com/sakataalan)
 - [Shivam Roy] (https://github.com/RoyDev72)
+
 - [Aditya Dhanraj] (https://github.com/adi-exe)
+
