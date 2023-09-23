@@ -1,5 +1,5 @@
 # Contributors
-   [Bista]
+   
 - [Mher Saratikyan](https://github.com/MherSaratikyan)
 - [Biswajit Mishra](https://github.com/cxbiswajit)
 - [ababa amr] (https://github.com/a-amr)
@@ -2450,6 +2450,8 @@ Janet Vazquez
 [Chris Gough] (https://github.com/CrypticNothings)
 [ANKAN SUR] (https://github.com/ankansux)
 T7
+
+ [Bista1]
 - MingJun Zou
 - [harusys](https://github.com/harusys/)
 - [Jahir Ahmed](https://github.com/jahir509/)
