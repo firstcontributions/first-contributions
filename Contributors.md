@@ -119,6 +119,7 @@ Pizzacat
 - [John Sharkey](https://github.com/consistentinquiry)
 - [Daniel Albano III] (https://github.com/danielalbano3)
 - [Jung Jin Cheol] (https://github.com/bik1111)
+- [Devendra dhare](https://github.com/devendradhare) 💲
 - [Aravind Achanta] (https://github.com/aachan3)
 - [Russell Chan] (https://github.com/tenderfoot-scout)
 -[Aditya_Sheokand](https://github.com/aditya_sheokand)
