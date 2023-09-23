@@ -14,6 +14,7 @@
 - [Mighty Odewumi](https://github.com/mighty-odewumi)
 - jhgf
 - tton
+- [Shreyas Rajiv](https://github.com/shreyasrajiv327)
 - [Prashnth Tutturu] (https://github.com/prashanthtutturu)
 - [Yang Xiang](https://github.com/yangxdev)
 - [Aditya Singhal](https://github.com/Aditya-singhal03)
