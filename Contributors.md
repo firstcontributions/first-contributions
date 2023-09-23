@@ -1,19 +1,30 @@
 # Contributors
-   
+
+   [Bista]
+
 - [Mher Saratikyan](https://github.com/MherSaratikyan)
+- [alamin655](https://github.com/alamin655)
+- [Shoaib Wani](https://github.com/Pyloris)
 - [Biswajit Mishra](https://github.com/cxbiswajit)
+- [Mohith N](https://github.com/Mhith)
 - [ababa amr] (https://github.com/a-amr)
 - [Jagannath Mestry](https://github.com/Jagannath15)
+- [Arshad Shaik](https://github.com/Arshu200)
 - [Aditya Prakash](https://github.com/heyitsadityaa)
 - [Kendall Hope Tucker] (https://github.com/kendallhtucker)
+- [Nowroz Islam](https://github.com/nowroz)
 - [AD] (https://github.com/AbhinavD84)
 - [Mighty Odewumi](https://github.com/mighty-odewumi)
 - jhgf
 - tton
+- [Shreyas Rajiv](https://github.com/shreyasrajiv327)
 - [Prashnth Tutturu] (https://github.com/prashanthtutturu)
 - [Yang Xiang](https://github.com/yangxdev)
+- [Aditya Singhal](https://github.com/Aditya-singhal03)
+- [Scott Starks](https://github.com/thetramp22)
 - [Vinayak Raj](https://github.com/vinayakmraj)
 - [Sebastian Gomez V](https://github.com/segpy)
+- [Zackreate](https://github.com/Zackreate)
 - [Jack Hannon](https://github.com/Mezzichai)
 - [Tabia Bechir](https://github.com/t-bechir)
 - [Ziqi] (https://github.com/zi7feng)
@@ -56,6 +67,7 @@
 - [Nishant Bansal](https://github.com/nishantbansal7869)
 - [Gilbert Mutai](https://github.com/Mutai-Gilbert)
 - [Aryan Sharma] (https://github.com/aryan8180)
+- [Adedoyinsola Ogungbesan] (https://github.com/surfiniaburger)
 - [Yusuf Uzun] (https://github.com/Yusi94)
 - [Dean Macaulay](https://github.com/deanmac5)
 - [Daniel Guillen](https://github.com/djg3577)
@@ -63,6 +75,7 @@
 - [MAEINUDDIN ](https://github.com/Maeinukhan63/)
 - [Fernando Perez](https://github.com/FernPerez/)
 - [Tony McLeish](https://github.com/Tunza42/)
+- [Behzad Moghaddam] (https://github.com/b3hzzzad)
 - [Coop](https://github.com/SnowfallHD)
 - [Refayth Hossain (Eth3r-One)](https://github.com/Eth3R-One)
 - [Maheshwar S](https://github.com/Maheshwar-S)
@@ -94,8 +107,11 @@
 - [manymogo](https://github.com/manymogo)
 - [Behzad Dadashpour](https://github.com/wellmanborn)
 - [Ayush Mishra](https://github.com/dev-ayush69)
+- [Daniel Francisco](https://github.com/danielbrah)💀
 -[Luis Baião](https://github.com/Luis4112)
 - [Kurt Renzo Jalalain](https://github.com/marshmallow218)
+- [EndCoder](https://github.com/EndCod3r)
+- [Mark Bayley](https://github.com/markbayley)
 -  [richard](https://github.com/RichardSima2021)
 - [bartez33a](https://github.com/bartez33a)
 - [NolannB14](https://github.com/NolannB14)
@@ -112,6 +128,7 @@
 JialingYU
 -[David Peek] (https://github.com/dpeek2010)
 -[sachinkumar]
+-[Sameer Shaikh]
 -[Vladislav Firsov] (https://github.com/LemanRus)
 -[Vivian Martinez](https://github.com/vivianmartinez)
 - [Supratik Vishnu](https://github.com/SupratikV)
@@ -130,6 +147,7 @@ JialingYU
 - [Nikosbatz](https://github.com/Nikosbatz)
 - [sourav kumar panda] (https://github.com/Sourav-Kumar-Panda)
 - [Ryudai Takai](https://github.com/ryudaitakai)
+- [Ajide Tosin Adebayo](https://github.com/adebayorajide)
 - [Param Birje](https://github.com/parambirje)
 - [Faraz Sharifi](https://github.com/FarazShin) 😰
 - [Vikas Mishra](https://github.com/vikas-mshra)
@@ -137,6 +155,7 @@ JialingYU
 - [Ashish Kotian](https://github.com/ashkotian84)
 - [Diego Arriaga](https://github.com/GOGOARRIAGA)
 - Meraj Sheikh
+- Jaime Juarbe
 - Bennett Wilbert 
 - [Mohamed Atta](https://github.com/MohamedAtta-AI)
 - [Mahmoud Mirghani](https://github.com/mahmoudmerghani)
@@ -153,6 +172,7 @@ JialingYU
 - [justnuha]
 - [Ansil M B](https://github.com/ansilmbabl)
 nathaniel
+- [Rasmus]
 - [Parth Pandya](https://github.com/parth305)
 - [Archit Shekhawat](https://github.com/11heathcliff11)
 - [Saket Mishra](https://github.com/saketm101)
@@ -190,6 +210,7 @@ PRAJOT
 - [Mike nish](https://github.com/mike-nish)
 - [Keannu Angelo Ramos](https://github.com/KeanCodex)
 - [Joel Jefferson](https://github.com/JoelJefferson2004)
+- [Adeyanju Tomide] (https://github.com/Thintalltom)
 - [Sagar Pant](https://github.com/Sagar-Pant-2k2)
 - [Joshua Reitz](http://github.com/jreitz2)
 - [Shailesh Negi](https://github.com/negishailesh)
@@ -593,6 +614,7 @@ Mac McHam
 - [Felipe Moriones](https://github.com/Moriones20)
 - [Yunis Aslan](https://github.com/YunisAslan)
 - [Abhishek Lakade](https://github.com/abhishek-lakade)
+- [Jonathan Feehan](https://github.com/Feehanjt)
 - [Daan V](https://github.com/banzaai)
 - [drwho](https://github.com/drwho)
 - [Tyler Kinkade](https://github.com/tynkd)
@@ -767,6 +789,7 @@ Nikhil R
 - [Vidyasagar Yadav](https://github.com/VidyasagarYadav)
 - Shiraku Yanai
 - [codedevrob](https://github.com/codedevrob0)
+- [Saptarshi Ghosh] (https://github.com/Sap004)
 - [Jennie Nguyen] (https://github.com/jennienguyendev)
 - [Sohrab Kazak](https://github.com/CosmicParadoxDragon)
 - [Vivek Chaprana](https://github.com/vivek-chaprana)
@@ -1567,6 +1590,7 @@ Nikhil R
 - [Taylor Hartsfield](https://github.com/TaylorHartsfield)
 - [Iano Njuguna](https://github.com/IanoNjuguna)
 - [Mahaveer Jain](https://github.com/mahaveer82)
+- [Ferdinand Ogama] (https://github.com/459-ferd)
 - [Vivian Arevalo](https://github.com/vivian-mca)
 - [Purnima Kumar](https://github.com/Purnima-1)
 - [Jason Jia](https://github.com/jasonjiajs)
@@ -2347,6 +2371,7 @@ Akash Abraham
 - [Caleb Coggins](https://github.com/OnlyPolygon)
 -[Nand Kishore Singh](https://github.com/NandEnigmaCode/NandEnigmaCode.git)
 - [jsj8051](https://github.com/jsj8051)
+- [MohammedHassani] (https://github.com/Maestro263)
 - [Frank](https://github.com/Frank40790)
 - [Lillyann](https://github.com/lcelisse)
 - [Abdourahmane Jalloh](https://github.com/aradradev)
@@ -2451,11 +2476,14 @@ Janet Vazquez
 [ANKAN SUR] (https://github.com/ankansux)
 T7
 
- [Bista1]
 - MingJun Zou
 - [harusys](https://github.com/harusys/)
+- [Chukwu Ikechukwu John](https://github.com/Iykechuks11/)
 - [Jahir Ahmed](https://github.com/jahir509/)
 - [Haile Melaku] (https://github.com/Haile-08)
 - [Joyce Costa](https://github.com/JoyceCosta)
 - [Alan Sakata](https://github.com/sakataalan)
 - [Shivam Roy] (https://github.com/RoyDev72)
+
+- [Aditya Dhanraj] (https://github.com/adi-exe)
+
