@@ -198,6 +198,7 @@ PRAJOT
 - [Mike nish](https://github.com/mike-nish)
 - [Keannu Angelo Ramos](https://github.com/KeanCodex)
 - [Joel Jefferson](https://github.com/JoelJefferson2004)
+- [Adeyanju Tomide] (https://github.com/Thintalltom)
 - [Sagar Pant](https://github.com/Sagar-Pant-2k2)
 - [Joshua Reitz](http://github.com/jreitz2)
 - [Shailesh Negi](https://github.com/negishailesh)
