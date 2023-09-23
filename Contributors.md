@@ -1,6 +1,7 @@
 # Contributors
    [Bista]
 - [Mher Saratikyan](https://github.com/MherSaratikyan)
+- [bucheraa](https://github.com/bucheraa)
 - [alamin655](https://github.com/alamin655)
 - [Hamzaa Shah](https://github.com/Hamjaster)
 - [Shoaib Wani](https://github.com/Pyloris)
@@ -112,7 +113,7 @@ Pizzacat
 - [Kurt Renzo Jalalain](https://github.com/marshmallow218)
 - [EndCoder](https://github.com/EndCod3r)
 - [Mark Bayley](https://github.com/markbayley)
--  [richard](https://github.com/RichardSima2021)
+- [richard](https://github.com/RichardSima2021)
 - [bartez33a](https://github.com/bartez33a)
 - [NolannB14](https://github.com/NolannB14)
 - [Keziah Smallhorne](https://github.com/zkz63)
