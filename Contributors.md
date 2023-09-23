@@ -122,6 +122,7 @@
 JialingYU
 -[David Peek] (https://github.com/dpeek2010)
 -[sachinkumar]
+-[Sameer Shaikh]
 -[Vladislav Firsov] (https://github.com/LemanRus)
 -[Vivian Martinez](https://github.com/vivianmartinez)
 - [Supratik Vishnu](https://github.com/SupratikV)
