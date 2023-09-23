@@ -22,6 +22,7 @@
 - [Scott Starks](https://github.com/thetramp22)
 - [Vinayak Raj](https://github.com/vinayakmraj)
 - [Sebastian Gomez V](https://github.com/segpy)
+- [Zackreate](https://github.com/Zackreate)
 - [Jack Hannon](https://github.com/Mezzichai)
 - [Tabia Bechir](https://github.com/t-bechir)
 - [Ziqi] (https://github.com/zi7feng)
