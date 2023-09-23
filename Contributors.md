@@ -2473,6 +2473,7 @@ Janet Vazquez
 T7
 - MingJun Zou
 - [harusys](https://github.com/harusys/)
+- [Chukwu Ikechukwu John](https://github.com/Iykechuks11/)
 - [Jahir Ahmed](https://github.com/jahir509/)
 - [Haile Melaku] (https://github.com/Haile-08)
 - [Joyce Costa](https://github.com/JoyceCosta)
