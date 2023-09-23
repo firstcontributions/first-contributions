@@ -164,6 +164,7 @@ JialingYU
 - [justnuha]
 - [Ansil M B](https://github.com/ansilmbabl)
 nathaniel
+- [Rasmus]
 - [Parth Pandya](https://github.com/parth305)
 - [Archit Shekhawat](https://github.com/11heathcliff11)
 - [Saket Mishra](https://github.com/saketm101)
