@@ -1443,6 +1443,7 @@ Nikhil R
 - [Nikola Golubović](https://github.com/NikolaGolubovic)
 - [Aakriti Malla](https://github.com/Aakriti-malla)
 - [Shantanu Mane](https://github.com/RndmCodeWorkshop)
+- chan
 - [Brady Camp](https://github.com/bradyjcamp)
 - [Aung Thu Zaw](https://github.com/Aung-Thu-Zaw)
 - [Gideon Balogun](https://github.com/itzgeebee)
