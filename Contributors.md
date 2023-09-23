@@ -120,7 +120,6 @@
 - [John Sharkey](https://github.com/consistentinquiry)
 - [Daniel Albano III] (https://github.com/danielalbano3)
 - [Jung Jin Cheol] (https://github.com/bik1111)
-- [Varad Gupta] (https://github.com/vr-varad21)
 - [Devendra dhare](https://github.com/devendradhare) 💲
 - [Aravind Achanta] (https://github.com/aachan3)
 - [Russell Chan] (https://github.com/tenderfoot-scout) -[Aditya_Sheokand](https://github.com/aditya_sheokand) -[Ritin Tiwari](https://github.com/ritin0204) -[Joomun_Noor](https://github.com/joomun)
@@ -197,6 +196,7 @@
   PRAJOT
 - Andrew Pun
 - [Ameer jafar](https://github.com/Ameerjafar)
+- [Varad Gupta] (https://github.com/vr-varad21)
 - [Leandro Henrique Barbosa](https://github.com/leandrohbar)
 - [Arjun A Chandran](https://github.com/Arjun-A3)
 - [Mike nish](https://github.com/mike-nish)
