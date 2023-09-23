@@ -16,6 +16,7 @@
 - tton
 - [Prashnth Tutturu] (https://github.com/prashanthtutturu)
 - [Yang Xiang](https://github.com/yangxdev)
+- [Aditya Singhal](https://github.com/Aditya-singhal03)
 - [Scott Starks](https://github.com/thetramp22)
 - [Vinayak Raj](https://github.com/vinayakmraj)
 - [Sebastian Gomez V](https://github.com/segpy)
