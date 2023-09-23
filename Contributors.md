@@ -179,6 +179,7 @@ nathaniel
 - [Archit Shekhawat](https://github.com/11heathcliff11)
 - [Saket Mishra](https://github.com/saketm101)
 - [happy-harsh](https://github.com/happy-harsh)
+- [Yanping Lan](https://github.com/janice143)
 - [Sherjeel Ahmed](https://github.com/SherjeelAhmed)
 - [Valery Bonneau](https://github.com/ValeryBonneau)
 Mahmoud Mirghani
