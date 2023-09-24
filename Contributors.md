@@ -756,6 +756,7 @@ Nikhil R
 - [Chintan Rupareliya](https://github.com/chintanrupareliya)
 - [Sourav Singh](https://github.com/hydradocs)
 - [Anthony Genovese](https://github.com/anthonygenovese)
+- JuanMS
 - [Rajadurai Balamurugan](https://github.com/rajadurai2)
 - [Jhonatan Medina](https://github.com/gamatatsu0)
 - [Kushan Arora](https://github.com/kushan23)
