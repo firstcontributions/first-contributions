@@ -258,6 +258,7 @@ Sino Felicity Zwane
 - [Letícia Aguiar](https://github.com/letsaguiar)
 - [Anirudh Duggal](https://github.com/AniswagMC)
 - [Itay Saban](https://github.com/itaysaban)
+- [Adhil Khan](https://github.com/adhlllkhnn)
 - [janrix](https://github.com/rixsum)
 - [Anirudh SJ](https://github.com/ANIRUDH-SJ)
 - [ilyas emre](https://github.com/Ilyas-Emre)
