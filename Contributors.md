@@ -383,7 +383,7 @@ Sino Felicity Zwane
 - [FjOrtega]
   [Noviath61] (https://github.com/Noviath61)
   [aayush920](https://github.com/aayush920)
-Mac McHam
+  Mac McHam
 - [Akhil A] (https://github.com/Akhil-A0402)
 - [gaagly] ( termux ke through dusribranch banai hai)
 -[Dessa Fe Gallito](https://github.com/dessafe)
@@ -2504,3 +2504,4 @@ T7
 - [Shivam Roy] (https://github.com/RoyDev72)
 - [Aditya Dhanraj] (https://github.com/adi-exe)
 - [Wahid Hasan] (https://github.com/WahidHasan)
+- \[tckry](https://github.com/pnml-S)
