@@ -31,6 +31,7 @@
 - [Tabia Bechir](https://github.com/t-bechir)
 - [Ziqi] (https://github.com/zi7feng)
 - SOMETHING IS HERE
+- [Akhil] (https://github.com/Akki304)
 - [Menachem Bursh] (https://github.com/burshtei)
 - [Shivam] (https://github.com/kshivam30)
 - [John Mikko Velasquez] (https://github.com/JohnMikko27)
@@ -146,6 +147,7 @@ JialingYU
 -[Francis Alex Darang](https://github.com/HappyCodingss)
 -[Felipe Penner dos Santos](https://github.com/Ainasas)
 - [Zavier Chambers](https://github.com/ZavierChambers)
+- [Shaquille Arriza Hidayat](https://github.com/Quillzyy)
 - [Piolo Umayam](https://github.com/PiolovesU)
 - [Usenmfon Uko](https://github.com/Usenmfon)
 - [Programmer24680](https://github.com/programmer24680)
@@ -484,6 +486,7 @@ Sino Felicity Zwane
 - [Robert Bledsaw III](https://github.com/rbledsaw3)
 - [Earl Chase](https://github.com/VictorHugoPilled)
 - [alfaz](https://github.com/alfazakash)
+- [Erik Fazio](https://github.com/erikfazio)
 - [Vrund_Raval](https://github.com/vrundraval24)
 - [Niraj Kumar](https://github.com/infinitecreator)
 - [prashant](https://github.com/prashant)
@@ -2504,4 +2507,6 @@ T7
 - [Shivam Roy] (https://github.com/RoyDev72)
 - [Aditya Dhanraj] (https://github.com/adi-exe)
 - [Wahid Hasan] (https://github.com/WahidHasan)
-- \[tckry](https://github.com/pnml-S)
+- [tckry](https://github.com/pnml-S)
+- [Anirudha Havaldar](https://github.com/anirudhahavaldar)
+
