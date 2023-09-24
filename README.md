@@ -38,7 +38,7 @@
 <kbd>[<img title="Limba Română" alt="Limba Română" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/md.svg" width="22"> <img title="Limba Română" alt="Limba Română" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ro.svg" width="22">](translations/README.ro.md)</kbd>
 <kbd>[<img title="မြန်မာ" alt="မြန်မာ" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/mm.svg" width="22">](translations/README.mm_unicode.md)</kbd>
 <kbd>[<img title="Македонски" alt="Македонски" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/mk.svg" width="22">](translations/README.mk.md)</kbd>
-<kbd>[<img title="Español de México" alt="Español de México" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/mx.svg" width="22">](translations/README.mx.md)</kbd>
+<kbd>[<img title="Español de México" alt="Español de México" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/mx.svg" width="22">](translations/README.mx.md)</kbd>
 <kbd>[<img title="Bahasa Melayu / بهاس ملايو‎ / Malay" alt="Bahasa Melayu / بهاس ملايو‎ / Malay" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/my.svg" width="22">](translations/README.my.md)</kbd>
 <kbd>[<img title="Dutch" alt="Dutch" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/nl.svg" width="22">](translations/README.nl.md)</kbd>
 <kbd>[<img title="Norsk" alt="Norsk" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/no.svg" width="22">](translations/README.no.md)</kbd>
