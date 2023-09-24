@@ -2507,3 +2507,4 @@ T7
 - [Shivam Roy] (https://github.com/RoyDev72)
 - [Aditya Dhanraj] (https://github.com/adi-exe)
 - [Wahid Hasan] (https://github.com/WahidHasan)
+- [Anirudha Havaldar](https://github.com/anirudhahavaldar)
