@@ -2514,3 +2514,4 @@ T7
 - [Anirudha Havaldar](https://github.com/anirudhahavaldar)
 - [Hugo Depping](https://github.com/hugodepping)
 - [Pravin Mishra](https://github.com/Mishra-Pravin)
+- [Mohit Rajpoot](https://github.com/rajpootmohit782)
