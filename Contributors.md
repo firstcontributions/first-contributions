@@ -2347,6 +2347,7 @@ Akash Abraham
 -[Vijay KV](https://github.com/Vijaykv5)
 - [Anurag]
 - [Brynn Andrew] (https://github.com/brynnandrew/)
+- [WhiteToggled] (https://github.com/WhiteToggled)
 -[Huy Hoang Minh Cu](https://github.com/CuHuyHoangMinh)
 -[tokyo4j](https://github.com/tokyo4j)
 - [Yusuf Corlu](https://github.com/yusuf-corlu)
