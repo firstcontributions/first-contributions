@@ -227,6 +227,7 @@ PRAJOT
 - [Nour Mostafa] (https://github.com/n332)
 - [Leandro Henrique Barbosa](https://github.com/leandrohbar)
 - [Arjun A Chandran](https://github.com/Arjun-A3)
+- [Cecil Hadley](https://github.com/CecilHadley)
 - [Mike nish](https://github.com/mike-nish)
 - [Keannu Angelo Ramos](https://github.com/KeanCodex)
 - [Joel Jefferson](https://github.com/JoelJefferson2004)
