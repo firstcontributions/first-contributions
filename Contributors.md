@@ -46,6 +46,7 @@
 - [Shamanth KN](https://github.com/shamanthkn5)
 - [Akash Tripathi](https://github.com/akashtripathi1)
 - [Eliu Mendoza](https://github.com/edu-kalel)
+- [Hariprasad C](https://github.com/Haripc525)
 - [Gazmend Shehu](https://github.com/zigameni)
 - [Himanshu Mahaur](https://github.com/himanshumahaur)
 - [BamjosAdeniyi](https://github.com/BamjosAdeniyi)
