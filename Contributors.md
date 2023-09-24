@@ -38,6 +38,7 @@
 - [Vinod SR] (https://github.com/VinodSRinCloud)
 - [Purv](https://github.com/Purva-2609)
 - [Oeta Kumara] (https://github.com/okumara)
+- [Isoken Ibizugbe](https://github.com/Junie06)
 - [maimoona-j](https://github.com/maimoona-j)
 - [BamjosAdeniyi](https://github.com/BamjosAdeniyi)
 - [Alexander Zheng](https://github.com/alexhzheng)
