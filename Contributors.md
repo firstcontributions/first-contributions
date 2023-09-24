@@ -534,6 +534,7 @@ Mac McHam
 - [Govind S Nair](https://github.com/g0v1ndN)
 - [Barkha Yadav](https://github.com/barkhayadav12)
 - [Dawson Voth](https://github.com/dawsonvoth1)
+- [Mykhailo Parm](https://github.com/Mykhailo-Parm)
 - [Agnes Olorundare](https://github.com/Agnes4Him)
 - [Rakesh-Ganneboina](https://github.com/rakeshganneboina)
 - [Amit Rana](https://github.com/HUMBLEF0OL)
