@@ -19,6 +19,7 @@
 - tton
 - [Juan Pablo Alvarado](https://github.com/juancodeaudio)
 - [Shreyas Rajiv](https://github.com/shreyasrajiv327)
+- [karthik challa](https://github.com/karthikchalla7)
 - [Prashnth Tutturu] (https://github.com/prashanthtutturu)
 - [Yang Xiang](https://github.com/yangxdev)
 - [Aditya Singhal](https://github.com/Aditya-singhal03)
