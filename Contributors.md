@@ -2255,6 +2255,7 @@ Akash Abraham
 - [Jarrod Rother](https://github.com/JarrodR87)
 - [Joao Darwin](https://github.com/Joao-Darwin)
 - [黄士崧](https://github.com/erich2s)
+- [Bishow Thapa](https://github.com/Bishow-Thapa)
 - [Marco] (https://github.com/mrk-qa)
 - [Egor Kalinin](https://github.com/egorii87)
 - [Yatrik](https://github.com/yatrik-s)
