@@ -485,6 +485,7 @@ Mac McHam
 - [Robert Bledsaw III](https://github.com/rbledsaw3)
 - [Earl Chase](https://github.com/VictorHugoPilled)
 - [alfaz](https://github.com/alfazakash)
+- [Erik Fazio](https://github.com/erikfazio)
 - [Vrund_Raval](https://github.com/vrundraval24)
 - [Niraj Kumar](https://github.com/infinitecreator)
 - [prashant](https://github.com/prashant)
