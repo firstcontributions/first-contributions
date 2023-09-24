@@ -4,6 +4,7 @@
 - [bucheraa](https://github.com/bucheraa)
 - [alamin655](https://github.com/alamin655)
 - [Hamzaa Shah](https://github.com/Hamjaster)
+- [Ajmal Khan](https://github.com/reaperhound)
 - [Shoaib Wani](https://github.com/Pyloris)
 - [Biswajit Mishra](https://github.com/cxbiswajit)
 - [Mohith N](https://github.com/Mhith)
