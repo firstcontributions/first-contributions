@@ -665,6 +665,7 @@ Mac McHam
 - [Darambazar Naranbaatar](https://github.com/Darmaa-YoLo)
 - [Ezi codes](https://github.com/Ezi-code)
 - [Himamsu Marellapudi](https://github.com/marellapudihimamsu)
+- [Jiacinto Branducci](https://github.com/jeunessesept)
 - [AbinDas](https://github.com/abindas123)
 - [Jesreel](https://github.com/JesCodeMar)
 - [Gerry Aballa](https://github.com/Gerry-Aballa)
