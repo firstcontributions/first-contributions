@@ -15,8 +15,6 @@
 - [Nowroz Islam](https://github.com/nowroz)
 - [AD] (https://github.com/AbhinavD84)
 - [Mighty Odewumi](https://github.com/mighty-odewumi)
-- jhgf
-- tton
 - [Juan Pablo Alvarado](https://github.com/juancodeaudio)
 - [Shreyas Rajiv](https://github.com/shreyasrajiv327)
 - [karthik challa](https://github.com/karthikchalla7)
@@ -138,6 +136,7 @@ JialingYU
 -[Vladislav Firsov] (https://github.com/LemanRus)
 -[Vivian Martinez](https://github.com/vivianmartinez)
 - [Supratik Vishnu](https://github.com/SupratikV)
+-[Shreyas S N](https://github.com/ShreyasSN)
 -[Musa Mwangea] (https://github.com/mwangea)
 - [Ashenafi Bordea](http://github.com/asherthechamp)
 - [Gil Sala](https://github.com/Gilsabo)
