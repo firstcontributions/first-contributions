@@ -44,6 +44,7 @@
 - Radin Mirzaee
 - [Okpara Ifeanyi](https://github.com/okparaa)
 - [Shamanth KN](https://github.com/shamanthkn5)
+- [Karan Choudhary](https://github.com/cskaranchow)
 - [Akash Tripathi](https://github.com/akashtripathi1)
 - [Eliu Mendoza](https://github.com/edu-kalel)
 - [Hariprasad C](https://github.com/Haripc525)
