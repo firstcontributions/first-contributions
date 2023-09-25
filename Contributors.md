@@ -8,6 +8,7 @@
 - [Archishman Dash](https://www.github.com/archielicious)
 [Amber](https://github.com/ars1256)
 - [alamin655](https://github.com/alamin655)
+- [Archishman Dash](https://www.github.com/archielicious)
 - [Hamzaa Shah](https://github.com/Hamjaster)
 - [Ajmal Khan](https://github.com/reaperhound)
 - [Shoaib Wani](https://github.com/Pyloris)
