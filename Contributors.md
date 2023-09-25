@@ -1422,6 +1422,7 @@ Nikhil R
 - [Andy Qin](https://github.com/qin-andrew123)
 - [Brianna Bland](https://github.com/bbland1)
 - [Andreas Nilsson](https://github.com/anil9)
+- [Luiz Carlos Jr.](https://github.com/lucarl07)
 - [Sanjeeban Mukhopadhyay](https://github.com/sanjeeban5644)
 - [Prasanna Rajaram](https://github.com/prasannarajaram)
 - [Monteiro H.](https://github.com/monteiroh)
