@@ -1,12 +1,9 @@
 # Contributors
-- [Archishman Dash](https://www.github.com/archielicious)
    [Bista]
 - [Lohith Kotni](https://github.com/lohitkotni)
 - [Mher Saratikyan](https://github.com/MherSaratikyan)
 - [Abhishek Tiwari](https://github.com/ATiwari2000)
-- [Archishman Dash](https://www.github.com/archielicious)
 - [bucheraa](https://github.com/bucheraa)
-- [Archishman Dash](https://www.github.com/archielicious)
 [Amber](https://github.com/ars1256)
 - [alamin655](https://github.com/alamin655)
 - [Archishman Dash](https://www.github.com/archielicious)
