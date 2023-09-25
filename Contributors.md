@@ -57,6 +57,7 @@
 - [Hariprasad C](https://github.com/Haripc525)
 - [Gazmend Shehu](https://github.com/zigameni)
 - [Himanshu Mahaur](https://github.com/himanshumahaur)
+- [Swatche]
 - [BamjosAdeniyi](https://github.com/BamjosAdeniyi)
 - [Samreen Reyaz](https://github.com/SamDaQueen)
 - [Anjalina Jijo](https://github.com/AnjalinaJijo)
