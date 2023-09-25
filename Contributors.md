@@ -33,6 +33,7 @@
 - [Scott Starks](https://github.com/thetramp22)
 - [Vinayak Raj](https://github.com/vinayakmraj)
 - [Sebastian Gomez V](https://github.com/segpy)
+- 
 - [Zackreate](https://github.com/Zackreate)
 - [Jack Hannon](https://github.com/Mezzichai)
 - [Tabia Bechir](https://github.com/t-bechir)
@@ -1107,6 +1108,7 @@ Nikhil R
 - [m-foskett](https://github.com/m-foskett)
 - [HOUSSAM666](https://github.com/HOUSSAM666)
 - [pradeep kc](https://github.com/pradeepkc11)
+- [Deepshikha Tripathi](https://github.com/pradeepkc11)
 - [Aryant Kumar](https://github.com/Aryant01)
 - [Aurin Yang](https://github.com/AurinYang)
 - [Keith Ken](https://github.com/Akaikenlol)
