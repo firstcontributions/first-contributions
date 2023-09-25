@@ -19,6 +19,7 @@
 - jhgf
 - tton
 - [Juan Pablo Alvarado](https://github.com/juancodeaudio)
+- [Paul Rose] (https://github.com/ptrose78)
 - [Nivea Hanley](https://github.com/niv-png)
 - [Shreyas Rajiv](https://github.com/shreyasrajiv327)
 - [karthik challa](https://github.com/karthikchalla7)
