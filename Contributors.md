@@ -1,4 +1,5 @@
 # Contributors
+- [Archishman Dash](https://www.github.com/archielicious)
    [Bista]
 - [Lohith Kotni](https://github.com/lohitkotni)
 - [Mher Saratikyan](https://github.com/MherSaratikyan)
