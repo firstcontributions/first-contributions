@@ -1,5 +1,6 @@
 # Contributors
    [Bista]
+- [Lohith Kotni](https://github.com/lohitkotni)
 - [Mher Saratikyan](https://github.com/MherSaratikyan)
 - [bucheraa](https://github.com/bucheraa)
 [Amber](https://github.com/ars1256)
