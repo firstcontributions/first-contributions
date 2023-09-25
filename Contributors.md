@@ -8,6 +8,7 @@
 - [Shoaib Wani](https://github.com/Pyloris)
 - [Biswajit Mishra](https://github.com/cxbiswajit)
 - [Mohith N](https://github.com/Mhith)
+- [Osayeme O](https://github.com/Osayeme)
 - [ababa amr] (https://github.com/a-amr)
 - [Jagannath Mestry](https://github.com/Jagannath15)
 - [Arshad Shaik](https://github.com/Arshu200)
