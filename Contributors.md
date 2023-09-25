@@ -2443,6 +2443,7 @@ Akash Abraham
 - [Joey Santos] (https://github.com/Santeezy7).
 - [Affen_Herzog](https://github.com/AffenHerzog)
 - [Joseph Parish](https://github.com/JosephParish)
+- [Eli Freid] (https://github.com/E-Freid) 
 - [Brandon Kieng] (https://github.com/BrandonK182)
 - [Ibrahim Alfa](https://github.com/I-Alpha)
 - [Oscar Vaquera](https://github.com/vaqueraoscar0)
