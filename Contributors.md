@@ -2331,6 +2331,7 @@ Akash Abraham
 - [Vigneshwaran](https://github.com/neshvig10)
 - [Malewoo Eli](https://github.com/Malewooo16)
 - [pggg]
+- [CrimsonStarkane](https://github.com/CrimsonStarkane)
 - [janjarobo](https://github.com/janjarobo)
 - [Simardeep Singh](https://github.com/SimardeepSingh-zsh)
 - [Sebastian Barison](https://github.com/Sbarison)
