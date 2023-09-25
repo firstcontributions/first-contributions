@@ -98,6 +98,7 @@ Pizzacat
 - [Maheshwar S](https://github.com/Maheshwar-S)
 - [Arnav V](https://github.com/Arnav17v/)
 - [Timothy Kwok](https://github.com/timmywimmy95/)
+- [Moritz Sontheimer](https://github.com/mojoee)
 - EUGezzzzezzzz
 - [Hari R](https://github.com/uusername001)
 - [jcostadev23](https://github.com/jcostadev23/)
