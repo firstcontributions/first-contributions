@@ -2529,3 +2529,4 @@ T7
 - [Hugo Depping](https://github.com/hugodepping)
 - [Pravin Mishra](https://github.com/Mishra-Pravin)
 - [Mohit Rajpoot](https://github.com/rajpootmohit782)
+- [Vivek Joshi](https://github.com/BAKA-470)
