@@ -16,12 +16,14 @@
 - [Nowroz Islam](https://github.com/nowroz)
 - [AD] (https://github.com/AbhinavD84)
 - [Mighty Odewumi](https://github.com/mighty-odewumi)
+- [Dohyun Kim](https://github.com/dohyundev)
 - jhgf
 - tton
 - [Dominik Alexa](https://github.com/devdom90)
 - [Juan Pablo Alvarado](https://github.com/juancodeaudio)
 - [Paul Rose] (https://github.com/ptrose78)
 - [Nivea Hanley](https://github.com/niv-png)
+- [Parth Bijpuriya](https://github.com/parth656)
 - [Shreyas Rajiv](https://github.com/shreyasrajiv327)
 - [karthik challa](https://github.com/karthikchalla7)
 - [Prashnth Tutturu] (https://github.com/prashanthtutturu)
@@ -248,6 +250,7 @@ PRAJOT
 - [JuliusArden12](https://github.com/JuliusArden12)
 - [Benz Aaron Medrano](https://github.com/Luckyyy28)
 - [Allen James Alvaro](https://github.com/AllenJalvaro)
+- [Anuj Verma](https://github.com/kakarrot95)
 - [Dilusha Hesaranga](https://github.com/DilushaHesaranga)
 - [Christopherson Carpio](https://github.com/tope0731)
 - [Vineeth Lakshminarayanan](https://github.com/vilakshminar)
@@ -1205,6 +1208,7 @@ Nikhil R
 - [Provab Mongchaw Khyang](https://github.com/notmongchaw)
 - [Aliraza Khan](https://github.com/itsarkcodes)
 - [Rick](https://github.com/RickMMA)
+- [carla-ng](https://github.com/carla-ng)
 - [Sanket patil](https://github.com/sanket1one)
 - [Eliza Huang](https://github.com/elizahuang/)
 - [Alvin Su](https://github.com/aksu-github)
@@ -2529,5 +2533,5 @@ T7
 - [Hugo Depping](https://github.com/hugodepping)
 - [Pravin Mishra](https://github.com/Mishra-Pravin)
 - [Mohit Rajpoot](https://github.com/rajpootmohit782)
-- 
 - [Vivek Joshi](https://github.com/BAKA-470)
+- [Rene Arenas Flores](https://github.com/AlohaRene)
