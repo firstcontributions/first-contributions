@@ -30,6 +30,7 @@
 - jhgf
 - tton
 - [Dominik Alexa](https://github.com/devdom90)
+- [Kavya Pandey](https://github.com/zykuriku)
 - [Juan Pablo Alvarado](https://github.com/juancodeaudio)
 - [Paul Rose] (https://github.com/ptrose78)
 - [Nivea Hanley](https://github.com/niv-png)
