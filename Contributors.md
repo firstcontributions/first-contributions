@@ -158,6 +158,7 @@ Pizzacat
 -[Joomun_Noor](https://github.com/joomun)
 JialingYU
 -[Govind Chaudhary](https://github.com/Govind9012)
+-[Christian Lehr](https://github.com/jinroftw)
 -[David Peek] (https://github.com/dpeek2010)
 -[sachinkumar]
 -[Sameer Shaikh]
