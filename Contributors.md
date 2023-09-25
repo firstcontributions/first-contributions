@@ -1,5 +1,6 @@
 # Contributors
    [Bista]
+- [Lohith Kotni](https://github.com/lohitkotni)
 - [Mher Saratikyan](https://github.com/MherSaratikyan)
 - [Johann Braun](https://github.com/JohannBraun)
 - [bucheraa](https://github.com/bucheraa)
@@ -19,6 +20,7 @@
 - [Nowroz Islam](https://github.com/nowroz)
 - [AD] (https://github.com/AbhinavD84)
 - [Mighty Odewumi](https://github.com/mighty-odewumi)
+- [Idehen Gideon](https://github.com/gi3-14)
 - [Dohyun Kim](https://github.com/dohyundev)
 - jhgf
 - tton
