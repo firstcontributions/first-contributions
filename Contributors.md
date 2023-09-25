@@ -407,7 +407,7 @@ Sino Felicity Zwane
 - [FjOrtega]
   [Noviath61] (https://github.com/Noviath61)
   [aayush920](https://github.com/aayush920)
-Mac McHam
+  Mac McHam
 - [Akhil A] (https://github.com/Akhil-A0402)
 - [gaagly] ( termux ke through dusribranch banai hai)
 -[Dessa Fe Gallito](https://github.com/dessafe)
@@ -2544,4 +2544,5 @@ T7
 - [Mohit Rajpoot](https://github.com/rajpootmohit782)
 - [Vivek Joshi](https://github.com/BAKA-470)
 - [Rene Arenas Flores](https://github.com/AlohaRene)
+- Hugo Lee
 - [Gerard Angelo Vega](https://github.com/Nutty-Nuts)
