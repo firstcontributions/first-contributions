@@ -2421,6 +2421,7 @@ Akash Abraham
 - [pipTyrannical](https://github.com/piptyrannical)
 - [Guru Deep Kuwar](https://github.com/gurudeepkuwar)
 - [BombshellBilly](https://github.com/BSB47)
+- [mzaidi7](https://github.com/mzaidi7)
 
 - [Naufal Alief](https://github.com/naufalalief)
 - [Kokonico](https://github.com/Kokonico)
