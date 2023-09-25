@@ -1981,6 +1981,7 @@ Akash Abraham
 - [Sergio Garcia](https://github.com/sgarciagallego)
 - [Hamza Jamshed](https://github.com/Sassyprogrammer1)
 - [Jack Buckley](https://github.com/jack-r-buckley/)
+- [Franco Miño](https://github.com/FrancoASalinas)
 - [Nancy Chaudhry](https://github.com/chaudhryna)
 - [Arnav Negi](https://github.com/Arnav-Negi)
 - [Turry](https://github.com/Oh-Turry)
