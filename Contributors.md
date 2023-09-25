@@ -1,8 +1,8 @@
 # Contributors
-- [Archishman Dash](https://www.github.com/archielicious)
    [Bista]
 - [Lohith Kotni](https://github.com/lohitkotni)
 - [Mher Saratikyan](https://github.com/MherSaratikyan)
+- [Archishman Dash](https://www.github.com/archielicious)
 - [bucheraa](https://github.com/bucheraa)
 [Amber](https://github.com/ars1256)
 - [alamin655](https://github.com/alamin655)
