@@ -16,6 +16,7 @@
 - [Nowroz Islam](https://github.com/nowroz)
 - [AD] (https://github.com/AbhinavD84)
 - [Mighty Odewumi](https://github.com/mighty-odewumi)
+- [Dohyun Kim](https://github.com/dohyundev)
 - jhgf
 - tton
 - [Dominik Alexa](https://github.com/devdom90)
