@@ -36,6 +36,7 @@
 - [Paul Rose] (https://github.com/ptrose78)
 - [Nivea Hanley](https://github.com/niv-png)
 - [Parth Bijpuriya](https://github.com/parth656)
+- [Tommy Shiels](https://github.com/tshiels)
 - [Shreyas Rajiv](https://github.com/shreyasrajiv327)
 - [karthik challa](https://github.com/karthikchalla7)
 - [Prashnth Tutturu] (https://github.com/prashanthtutturu)
