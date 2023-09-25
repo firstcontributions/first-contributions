@@ -1249,6 +1249,7 @@ Nikhil R
 - [Rizkian Akbar Juniansyah](https://github.com/rizkianakbar)
 - [Dalin Stone](https://github.com/dalinkstone)
 - [Christian Sanchez](https://github.com/digitalghost-dev)
+- [Axel García](https://github.com/axelthepony27)
 - [Dany Nghaywe](https://github.com/DanyNghaywe)
 - [Dev-Ogechi](https://github.com/Dev-Ogechi)
 - [Byeongun Park](https://github.com/bupark82) -[Darshan Patel](https://github.com/Darshan2923)
