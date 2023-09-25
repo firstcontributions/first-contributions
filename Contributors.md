@@ -57,6 +57,7 @@
 - Radin Mirzaee
 - [Okpara Ifeanyi](https://github.com/okparaa)
 - [Michael S]
+- [Hajar Skalli-Houssaini](https://github.com/HaSH147)
 - [Shamanth KN](https://github.com/shamanthkn5)
 - [Karan Choudhary](https://github.com/cskaranchow)
 - [Akash Tripathi](https://github.com/akashtripathi1)
