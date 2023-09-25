@@ -92,6 +92,7 @@ Pizzacat
 - [MAEINUDDIN ](https://github.com/Maeinukhan63/)
 - [Fernando Perez](https://github.com/FernPerez/)
 - [Tony McLeish](https://github.com/Tunza42/)
+- [Digvijay Singh](https://github.com/digvijaysinghh)
 - [Behzad Moghaddam] (https://github.com/b3hzzzad)
 - [Coop](https://github.com/SnowfallHD)
 - [Refayth Hossain (Eth3r-One)](https://github.com/Eth3R-One)
