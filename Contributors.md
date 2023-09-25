@@ -1,6 +1,7 @@
 # Contributors
    [Bista]
 - [Mher Saratikyan](https://github.com/MherSaratikyan)
+- [Johann Braun](https://github.com/JohannBraun)
 - [bucheraa](https://github.com/bucheraa)
 [Amber](https://github.com/ars1256)
 - [alamin655](https://github.com/alamin655)
@@ -207,7 +208,7 @@ nathaniel
 - [Sherjeel Ahmed](https://github.com/SherjeelAhmed)
 - [Valery Bonneau](https://github.com/ValeryBonneau)
 Mahmoud Mirghani
-- ➡️ [Armatys Konrad](https://github.com/karmatys8) ⬅️
+- ➡︝ [Armatys Konrad](https://github.com/karmatys8) ⬅︝
 - [Saurabh Padman](https://github.com/spirus-dev)
 - [Samuel Betancourt](https://github.com`/Leumas80) <img title="Leumas80" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ve.svg" width="22">
 - [Utsho de Bravestone](https://github.com/utshodebravestone)
@@ -2108,7 +2109,7 @@ Akash Abraham
 - [Exia](https://github.com/ooexiaoo)
 - [jjhen99](https://github.com/jjhen99)
 - [Jeff Araujo](https://github.com/jeffara)
-- [Jaroshevskii 🏳️‍🌈](https://github.com/jaroshevskii)
+- [Jaroshevskii 🝳︝”🌈](https://github.com/jaroshevskii)
 - [Mohammed Mazhar Aziz](https://github.com/mazhar00786)
 - [Raven-July](https://github.com/Raven-July)
 - [Ayush Desai](https://github.com/Ayush-desaii)
@@ -2254,7 +2255,7 @@ Akash Abraham
 - [Anant Agarwal] (https://github.com/ThisMonkeysGoneToHeaven)
 - [Shin You](https://github.com/a5512167086)
 - [Paul Ragsac](https://github.com/Chifuuyu)
-- [Nguyễn Đức Khải](https://github.com/KhaiNguyenDuc)
+- [Nguyễn ĝức Khải](https://github.com/KhaiNguyenDuc)
 - [Navin Kumar](https://github.com/ns-0437)
 - [James Ngugi](https://github.com/JamesK254)
 - [M Abdul Azeez](https://github.com/Abdul-Azeez060)
