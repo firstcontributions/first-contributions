@@ -2531,3 +2531,4 @@ T7
 - [Hugo Depping](https://github.com/hugodepping)
 - [Pravin Mishra](https://github.com/Mishra-Pravin)
 - [Mohit Rajpoot](https://github.com/rajpootmohit782)
+- [Rene Arenas Flores](https://github.com/AlohaRene)
