@@ -185,6 +185,7 @@ JialingYU
 - [Eyal Yarden](https://github.com/eyalya1)
 - Bennett Wilbert 
 - [Mohamed Atta](https://github.com/MohamedAtta-AI)
+- [Chandan Akella](https://github.com/chandan9t8)
 - [Mahmoud Mirghani](https://github.com/mahmoudmerghani)
 - [Giorgia Saccon] (https://github.com/GioGio31)
 - [Waleed Tariq](https://www.github.com/waleed-tariq)
