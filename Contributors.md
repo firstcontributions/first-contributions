@@ -5,6 +5,7 @@
 - [Mher Saratikyan](https://github.com/MherSaratikyan)
 - [Archishman Dash](https://www.github.com/archielicious)
 - [bucheraa](https://github.com/bucheraa)
+- [Archishman Dash](https://www.github.com/archielicious)
 [Amber](https://github.com/ars1256)
 - [alamin655](https://github.com/alamin655)
 - [Hamzaa Shah](https://github.com/Hamjaster)
