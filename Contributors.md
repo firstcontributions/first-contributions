@@ -18,6 +18,7 @@
 - [Mighty Odewumi](https://github.com/mighty-odewumi)
 - jhgf
 - tton
+- [Dominik Alexa](https://github.com/devdom90)
 - [Juan Pablo Alvarado](https://github.com/juancodeaudio)
 - [Paul Rose] (https://github.com/ptrose78)
 - [Nivea Hanley](https://github.com/niv-png)
