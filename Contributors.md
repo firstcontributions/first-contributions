@@ -106,7 +106,6 @@ Pizzacat
 Pizzacat
 Pizzacat
 Pizzacat
-Pizzacat
 - [Dean Macaulay](https://github.com/deanmac5)
 - [Daniel Guillen](https://github.com/djg3577)
 - [Ramez Gabra](https://github.com/ramezgabra)
@@ -2587,6 +2586,8 @@ T7
 - [molnarpzs](https://github.com/molnarpzs)
 - [niol8742] https://github.com/niol8742S
 - [Ser-Od] (https://github.com/serod11)
+- Pizzacat
+- Pizzacat
 - Pizzacat
 - Pizzacat
 - Pizzacat
