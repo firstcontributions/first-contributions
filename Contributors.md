@@ -937,6 +937,7 @@ Nikhil R
 - [Nishi](https://github.com/nishim2019)
 - [Miles Eng](https://github.com/milesreng)
 - [Muhammed Faheem](https://github.com/faheem-cmd)
+- [Victoria Adedayo](https://github.com/VictoriaAde)
 - [Cosmo Kramer](https://github.com/alexpi007)
 - [Frank Zhao](https://github.com/Frankbz)
 - [Sarika Singh](https://github.com/volantxs)
