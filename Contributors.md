@@ -57,6 +57,7 @@ w# Contributors
 - [karthik challa](https://github.com/karthikchalla7)
 - [Prashnth Tutturu] (https://github.com/prashanthtutturu)
 - [Yang Xiang](https://github.com/yangxdev)
+- [Ashish Meagh](https://github.com/ashishmeagh)
 - [mrlectus](https://github.com/mrlectus)
 - [Aditya Singhal](https://github.com/Aditya-singhal03)
 - [Scott Starks](https://github.com/thetramp22)
