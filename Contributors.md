@@ -2637,3 +2637,4 @@ T7
 - bye-friends
 - [Akshansh Sharma](https://github.com/Tombstoner)
 [Wachiou BOURAÏMA](https://github.com/WassCodeur)
+[Amit Singh](https://github.com/AmitSingh-5600)
