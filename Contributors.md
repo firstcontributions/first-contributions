@@ -33,6 +33,7 @@
 - jhgf
 - tton
 - [Dominik Alexa](https://github.com/devdom90)
+- [Preetham P M](https://github.com/preetham-p-m)
 - [Kavya Pandey](https://github.com/zykuriku)
 - [Juan Pablo Alvarado](https://github.com/juancodeaudio)
 - [Paul Rose] (https://github.com/ptrose78)
