@@ -57,7 +57,6 @@
 - [Hariprasad C](https://github.com/Haripc525)
 - [Gazmend Shehu](https://github.com/zigameni)
 - [Himanshu Mahaur](https://github.com/himanshumahaur)
-- [Swatche]
 - [BamjosAdeniyi](https://github.com/BamjosAdeniyi)
 - [Samreen Reyaz](https://github.com/SamDaQueen)
 - [Anjalina Jijo](https://github.com/AnjalinaJijo)
@@ -168,6 +167,7 @@ JialingYU
 - [Param Birje](https://github.com/parambirje)
 - [Faraz Sharifi](https://github.com/FarazShin) 😰
 - [Vikas Mishra](https://github.com/vikas-mshra)
+- [Swatche]
 - [Aayush Shukla](https://github.com/aayushukla)
 - [Ashish Kotian](https://github.com/ashkotian84)
 - [Diego Arriaga](https://github.com/GOGOARRIAGA)
