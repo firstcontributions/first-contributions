@@ -54,6 +54,7 @@
 - [Vinayak Raj](https://github.com/vinayakmraj)
 - [Sebastian Gomez V](https://github.com/segpy)
 - [Zackreate](https://github.com/Zackreate)
+- [ahwz84](https://github.com/hanweiz)
 - [Jack Hannon](https://github.com/Mezzichai)
 - [Tabia Bechir](https://github.com/t-bechir)
 - [ORaies](https://github.com/ORaies)
