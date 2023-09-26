@@ -192,6 +192,7 @@ JialingYU
 - [FrenchRion](https://github.com/FrenchRuin)
 - [Nikosbatz](https://github.com/Nikosbatz)
 - [sourav kumar panda] (https://github.com/Sourav-Kumar-Panda)
+- [CaptainHac](https://github.com/ismhac)  
 - [Ryudai Takai](https://github.com/ryudaitakai)
 - [Ajide Tosin Adebayo](https://github.com/adebayorajide)
 - [Param Birje](https://github.com/parambirje)
