@@ -1024,6 +1024,7 @@ Nikhil R
 - [ROSELLE](https://github.com/deleonroselle21)
 - [Joel Rosas](https://github.com/dersck)
 - [Yash Jadhav](https://github.com/yashjd12)
+- [Quynh Ngo] (https://github.com/Ever-QN)
 - [Rose Must](https://github.com/the-rose-bride)
 - [Alam Jamal](https://github.com/alamjamal)
 - [Deep Kumawat](https://github.com/Deep-Kumawat)
