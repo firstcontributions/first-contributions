@@ -3,20 +3,19 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-
 # Akọkọ ilowosi
 
-Lati dasi nko lakoko n'le, pataki ti a ba ronu nipa asise ti a le bapade, a fe ko rorun fun awon ilowosi akoko lati le dasi 
+Lati dasi nko lakoko n'le, pataki ti a ba ronu nipa asise ti a le bapade, a fe ko rorun fun awon ilowosi akoko lati le dasi
 ise agbese lakoko, ise agbese yi a ko yin be ese le se, e tele ilana ni isalẹ
 
-
-#### *to ba le lo pipaṣẹ, [awon ona mi re.](#Tutorials-Usin'-Other-Tools)*
+#### _to ba le lo pipaṣẹ, [awon ona mi re.](#Tutorials-Usin'-Other-Tools)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 e fi git sori ẹrọ [install it](https://help.github.com/articles/set-up-git/).
 
 ## orita ibi ipamọ yii
+
 orita ibi ipamọ yii, e te ' fork bọtini' ni oke oju iwe yi, e leyi a fun yin ni daako ni accounti yin
 
 ## Dide ibi ipamọ
@@ -52,7 +51,7 @@ seda eka si ero, amo ko to sebe te pipaṣẹ yi si ibe
 cd first-contributions
 ```
 
-oya seda eka si  pelu ' `git checkout` pipase:
+oya seda eka si pelu ' `git checkout` pipase:
 
 ```
 git checkout -b <oruko to fe so eka to fe seda>
@@ -72,7 +71,7 @@ oya shi faili `Contributors.md` ninu olootu ọrọ, fi oruko re mo awon oruko t
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-to ba te pipase  `git status` si ebute re, wa re awon ayipada ti ose
+to ba te pipase `git status` si ebute re, wa re awon ayipada ti ose
 
 fi won mo eka ti ode pelu pipase yii `git add`:
 
@@ -100,7 +99,7 @@ yi `<oruko eda ti e se>` pada si orku e da ti ese ni ibere
 
 ## Fi yer ayipada fer awotẹlẹ
 
-Ti o ba lọ t' yer ibi ipamọ lori GitHub, iwọ yoo ri a  `Compare & pull request` botini.  te botini yen.
+Ti o ba lọ t' yer ibi ipamọ lori GitHub, iwọ yoo ri a `Compare & pull request` botini. te botini yen.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
@@ -110,7 +109,7 @@ oya fi silẹ.
 
 To ba ya a ma so gbogo yipada ti e se papo, e o gba iwifunni lori imeeli yin
 
-## Nibo ni lati lọ?
+## Nibo ni o ni lati lọ?
 
 Ku ise oti pari boṣewa bisesenlo _fork -> clone -> edit -> PR_ bisesenlo ti o ma bapade ni ise asowopo
 
@@ -125,5 +124,5 @@ Bayi jẹ ki a bẹrẹ pẹlu' idasi' t' awọn iṣẹ akanṣe miiran. A ti �
 ## Tutorial lilo 'miiran Irinṣẹ
 
 | <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
-| --- | --- | --- | --- | --- | --- |
-| [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
