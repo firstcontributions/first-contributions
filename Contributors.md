@@ -66,7 +66,8 @@ w# Contributors
 - [ahwz84](https://github.com/hanweiz)
 - [Jack Hannon](https://github.com/Mezzichai)
 - [Tabia Bechir](https://github.com/t-bechir)
-- [ORaies](https://github.com/ORaies)
+- [Debroop Ghosh](https://github.com/debroopghosh11)
+[ORaies](https://github.com/ORaies)
 - [Ziqi] (https://github.com/zi7feng)
 - SOMETHING IS HERE
 - [Akhil] (https://github.com/Akki304)
