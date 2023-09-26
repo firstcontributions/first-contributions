@@ -1,4 +1,4 @@
-# Contributors
+w# Contributors
    [Bista]
 - [Lohith Kotni](https://github.com/lohitkotni)
 - [Mher Saratikyan](https://github.com/MherSaratikyan)
@@ -397,7 +397,6 @@ Sino Felicity Zwane
 - [Pina Sunil](https://github.com/PinaSunil)
 - [Joanna Marie Areniego](https://github.com/JoannaMarieAreniego)
 - [Chance Justine Bragais] (https://github.com/Chancelemagne22)
-- [Tobi Oyediran] (http://github.com/TobiTheDeveloper)
 - [Brian Oktavec] (https://github.com/boktavec)
 - [Tanvi G](https://github.com/Tanvi3103)
 - [Kimandu Ndung'u](https://github.com/DixonKimandu)
@@ -1034,6 +1033,7 @@ Nikhil R
 - [Deepak Thorat]
 - [Samuel Ribeiro de Souza](https://github.com/samuelsouzzza)
 - [Alvaro Lucas]
+- [Tobi Oyediran] (http://github.com/TobiTheDeveloper)
 - Nisha Sahu ([https://github.com/nishaSahuU](https://github.com/nishaSahuU))
 - [StefKal](https://github.com/StefKal)
 - [drremo1](https://github.com/drremo1)
