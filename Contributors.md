@@ -19,6 +19,7 @@
 - [Kimandu Ndung'u](https://github.com/DixonKimandu)
 - [Sudesh Sachintha](https://github.com/Sachintha-dev)
 - [Judy Ann Flores](https://github.com/JudyAPF)
+- [Ulrika Grönlund](http://github.com/ulrikagronlund)
 - [Madhur Aggarwal](https://github.com/MadhurAggarwal)
 - [Bhavini Rathod] (https://github.com/rb2001)
 - [Chyunjet] (https://github.com/Jetyun)
