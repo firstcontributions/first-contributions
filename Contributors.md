@@ -1999,6 +1999,7 @@ Akash Abraham
 - [Zaid Kaladia] ([https://github.com/zaidkaladia](https://github.com/zaidkaladia))
 - [sussyamogus5](https://github.com/sussyamogus5)
 - [André Lucas C. da Silva](https://github.com/AndreLucas9310)
+- [Induri Deepthi](https://github.com/deepthiinduri)
 - [Dane Weickert](https://github.com/weickertdane)
 - [secondary-smiles](https://github.com/secondary-smiles)
 - [Steve Behm](https://github.com/SteveBehm)
