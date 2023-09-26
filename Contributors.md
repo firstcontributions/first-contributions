@@ -18,6 +18,7 @@
 - [Archishman Dash](https://www.github.com/archielicious)
 - [Osayeme O](https://github.com/Osayeme)
 - [ababa amr] (https://github.com/a-amr)
+- [exotic brain](https://github.com/exoticBrain)
 - [Jagannath Mestry](https://github.com/Jagannath15)
 - [Arshad Shaik](https://github.com/Arshu200)
 - [Aditya Prakash](https://github.com/heyitsadityaa)
