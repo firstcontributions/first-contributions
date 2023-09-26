@@ -12,6 +12,7 @@
 - [Hamzaa Shah](https://github.com/Hamjaster)
 - [Ajmal Khan](https://github.com/reaperhound)
 - [Shoaib Wani](https://github.com/Pyloris)
+- [Ashley Mical](https://github.com/micamash)
 - [Biswajit Mishra](https://github.com/cxbiswajit)
 - [Mohith N](https://github.com/Mhith)
 - [Archishman Dash](https://www.github.com/archielicious)
