@@ -55,6 +55,7 @@
 - [Zackreate](https://github.com/Zackreate)
 - [Jack Hannon](https://github.com/Mezzichai)
 - [Tabia Bechir](https://github.com/t-bechir)
+- [ORaies](https://github.com/ORaies)
 - [Ziqi] (https://github.com/zi7feng)
 - SOMETHING IS HERE
 - [Akhil] (https://github.com/Akki304)
