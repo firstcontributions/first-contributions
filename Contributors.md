@@ -16,6 +16,7 @@
 - [Mohith N](https://github.com/Mhith)
 - [Osayeme O](https://github.com/Osayeme)
 - [ababa amr] (https://github.com/a-amr)
+- [Omotolani Shodunke](https://github.com/Tolanee)
 - [exotic brain](https://github.com/exoticBrain)
 - [Jagannath Mestry](https://github.com/Jagannath15)
 - [Arshad Shaik](https://github.com/Arshu200)
