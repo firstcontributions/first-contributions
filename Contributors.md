@@ -885,6 +885,7 @@ Nikhil R
 - [Samagra Barnwal](https://github.com/samagrabarnwal)
 - [David-S](https://github.com/Deastyn)
 - [Jemz](https://github.com/jmlinks)
+- [Gabriel Villaruel](https://github.com/GPVcode)
 - [hebizakana](https://github.com/hebizakana)
 - [Pavanemani](https://github.com/p1kalys)
 - [Prashik Gavali](https://github.com/prashikGavali)
