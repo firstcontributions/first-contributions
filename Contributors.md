@@ -1,6 +1,7 @@
 w# Contributors
    [Bista]  
 - [Karanjot Singh](https://github.com/karanjot786)
+- [Alex Chen](https://github.com/alexchen2) 
 - [Abhinav Puri](https://github.com/Abhinav16072001)
 - [Emilly Tiampati](https://github.com/sereyatiampati)
 - [Sandhya Kumari](https://github.com/Sandhya312)
