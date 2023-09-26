@@ -20,6 +20,7 @@
 - [Jagannath Mestry](https://github.com/Jagannath15)
 - [Arshad Shaik](https://github.com/Arshu200)
 - [Aditya Prakash](https://github.com/heyitsadityaa)
+- [Archishman Dash](https://www.github.com/archielicious)
 - [Kendall Hope Tucker] (https://github.com/kendallhtucker)
 - [Nowroz Islam](https://github.com/nowroz)
 - [AD] (https://github.com/AbhinavD84)
