@@ -14,7 +14,6 @@
 - [Ashley Mical](https://github.com/micamash)
 - [Biswajit Mishra](https://github.com/cxbiswajit)
 - [Mohith N](https://github.com/Mhith)
-- [Archishman Dash](https://www.github.com/archielicious)
 - [Osayeme O](https://github.com/Osayeme)
 - [ababa amr] (https://github.com/a-amr)
 - [exotic brain](https://github.com/exoticBrain)
@@ -102,6 +101,8 @@
 - [Aryan Sharma] (https://github.com/aryan8180)
 - [Adedoyinsola Ogungbesan] (https://github.com/surfiniaburger)
 - [Yusuf Uzun] (https://github.com/Yusi94)
+Pizzacat
+Pizzacat
 Pizzacat
 Pizzacat
 Pizzacat
