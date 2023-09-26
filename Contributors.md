@@ -6,7 +6,6 @@
 - [bucheraa](https://github.com/bucheraa)
 [Amber](https://github.com/ars1256)
 - [alamin655](https://github.com/alamin655)
-- [Archishman Dash](https://www.github.com/archielicious)
 - [Hamzaa Shah](https://github.com/Hamjaster)
 - [Deyan Sarahoshev](https://github.com/dnshouse)
 - [Ajmal Khan](https://github.com/reaperhound)
@@ -103,6 +102,8 @@
 - [Aryan Sharma] (https://github.com/aryan8180)
 - [Adedoyinsola Ogungbesan] (https://github.com/surfiniaburger)
 - [Yusuf Uzun] (https://github.com/Yusi94)
+Pizzacat
+Pizzacat
 Pizzacat
 Pizzacat
 Pizzacat
