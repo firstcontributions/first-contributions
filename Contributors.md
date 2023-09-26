@@ -119,6 +119,7 @@ Pizzacat
 - [Moritz Sontheimer](https://github.com/mojoee)
 - EUGezzzzezzzz
 - [Hari R](https://github.com/uusername001)
+- [adelakun-godspower] (https://github.com/Plutobby)
 - [jcostadev23](https://github.com/jcostadev23/)
 - [Andres Weitzel](https://github.com/andresWeitzel)
 - [Fahaad Al Abbadi](https://github.com/fahaad-abbadi)
@@ -131,7 +132,7 @@ Pizzacat
 - [Adrian Tapia](https://github.com/Adrian2jr)
 - [Ishan Sharma](https://gihub.com/paramagneticnaga)
 - [Anurag Chugh](https://github.com/Ukriyte)
-- [Adelakun Godspower] (https://github.com/Plutobby)
+- [delakun Godspower] 
 - [Samir Gorai] (https://github.com/samirgorai)
 - [Kyle Kundinger](https://github.com/Kyle-Kundinger)
 - [Joe Philip](https://github.com/joe-philip)
