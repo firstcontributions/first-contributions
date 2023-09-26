@@ -1,10 +1,15 @@
 w# Contributors
-   [Bista]
+   [Bista]  
 - [Karanjot Singh](https://github.com/karanjot786)
+- [Alex Chen](https://github.com/alexchen2) 
+- [Abhinav Puri](https://github.com/Abhinav16072001)
 - [Emilly Tiampati](https://github.com/sereyatiampati)
 - [Sandhya Kumari](https://github.com/Sandhya312)
+- [Arnav Kumar](https://github.com/OverRevvv)
 - [Lohith Kotni](https://github.com/lohitkotni)
+- [Komolehin Israel](https://github.com/komus-Israel)
 - [Mher Saratikyan](https://github.com/MherSaratikyan)
+- [Salaudeen Sodiq](https://github.com/salsod-star)
 - [Abhishek Tiwari](https://github.com/ATiwari2000)
 - [bucheraa](https://github.com/bucheraa)
 [Amber](https://github.com/ars1256)
@@ -22,6 +27,7 @@ w# Contributors
 -[M Abdullah](https://github.com/Muhammad-Abdullah-13)
 - [ababa amr] (https://github.com/a-amr)
 - [Omotolani Shodunke](https://github.com/Tolanee)
+- [Ishita Choudhury](https://github.com/ImcalledIshita)
 - [exotic brain](https://github.com/exoticBrain)
 - [Kishan Kumar Rai](https://github.com/kishanrajput23)
 - [Jagannath Mestry](https://github.com/Jagannath15)
@@ -38,6 +44,7 @@ w# Contributors
 - [Muhammed Ashhar](https://github.com/muhammedashharps/)
 - jhgf
 - tton
+- [Gabriel M]
 - [Dominik Alexa](https://github.com/devdom90)
 - [Preetham P M](https://github.com/preetham-p-m)
 - [Kavya Pandey](https://github.com/zykuriku)
@@ -52,16 +59,20 @@ w# Contributors
 - [karthik challa](https://github.com/karthikchalla7)
 - [Prashnth Tutturu] (https://github.com/prashanthtutturu)
 - [Yang Xiang](https://github.com/yangxdev)
+- [Ashish Meagh](https://github.com/ashishmeagh)
 - [mrlectus](https://github.com/mrlectus)
 - [Aditya Singhal](https://github.com/Aditya-singhal03)
 - [Scott Starks](https://github.com/thetramp22)
 - [Vinayak Raj](https://github.com/vinayakmraj)
 - [Sebastian Gomez V](https://github.com/segpy)
 - [Zackreate](https://github.com/Zackreate)
+- [Linet Oliech](https://github.com/QuincyOliech)
 - [ahwz84](https://github.com/hanweiz)
 - [Jack Hannon](https://github.com/Mezzichai)
 - [Tabia Bechir](https://github.com/t-bechir)
-- [ORaies](https://github.com/ORaies)
+- [Manny Beras](https://github.com/mberas)
+- [Debroop Ghosh](https://github.com/debroopghosh11)
+[ORaies](https://github.com/ORaies)
 - [Ziqi] (https://github.com/zi7feng)
 - SOMETHING IS HERE
 - [Akhil] (https://github.com/Akki304)
@@ -81,6 +92,7 @@ w# Contributors
 - Radin Mirzaee
 - [Okpara Ifeanyi](https://github.com/okparaa)
 - [Michael S]
+- [Wasy](https://github.com/Wasy18)
 - [Hajar Skalli-Houssaini](https://github.com/HaSH147)
 - [Shamanth KN](https://github.com/shamanthkn5)
 - [Karan Choudhary](https://github.com/cskaranchow)
@@ -95,6 +107,7 @@ w# Contributors
 - [Anjalina Jijo](https://github.com/AnjalinaJijo)
 - [Malaika](https://github.com/noor-malaika)
 - [Yousha Mahamuni](https://github.com/yousha806)
+- [Oluwafunmike Adeyeye](https:github.com/Oluwafunmike-adeyeye)
 - [Hebert Pratama](https://github.com/heberttt)
 - [Ama Agyemang-Duah](https://github.com/amathestar)
 - [tjdove](https://github.com/tjdove)
@@ -441,6 +454,7 @@ Sino Felicity Zwane
 - [Debamoy Datta] (https://github.com/Debamoy)
 - [Abhi Bhullar](https://github.com/userabhibhullar)
 - [Eli Mullan] (https://github.com/EliMullan)
+- [Charles DZADU] (https://github.com/CharlesDzadu)
 - [FjOrtega]
   [Noviath61] (https://github.com/Noviath61)
   [aayush920](https://github.com/aayush920)
@@ -2625,3 +2639,5 @@ T7
 - Pizzacat
 - bye-friends
 - [Akshansh Sharma](https://github.com/Tombstoner)
+[Wachiou BOURAÏMA](https://github.com/WassCodeur)
+[Amit Singh](https://github.com/AmitSingh-5600)
