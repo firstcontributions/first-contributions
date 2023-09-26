@@ -2477,6 +2477,7 @@ Akash Abraham
 - [Vishwaksen] (https://github.com/vishwaksen-1)
 - [Prajwol Devkota] (https://github.com/ploosond/)
 - [Logan Wright] (https://github.com/itstherampage)
+- [M-110] (https://github.com/m-110)
 - [jc19] (https://github.com/joonbot1999)
 - [Bincy] (https://github.com/BincyNizam-lab/)
 - [XLoganxmenX] (https://github.com/XLoganxmenX/)
