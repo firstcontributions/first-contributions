@@ -43,6 +43,7 @@ w# Contributors
 - [Muhammed Ashhar](https://github.com/muhammedashharps/)
 - jhgf
 - tton
+- [Gabriel M]
 - [Dominik Alexa](https://github.com/devdom90)
 - [Preetham P M](https://github.com/preetham-p-m)
 - [Kavya Pandey](https://github.com/zykuriku)
