@@ -1,5 +1,4 @@
 # Contributors
-- [Simon Conrad](https://github.com/slyskillet)
    [Bista]
 - [Karanjot Singh](https://github.com/karanjot786)
 - [Sandhya Kumari](https://github.com/Sandhya312)
@@ -2620,3 +2619,4 @@ T7
 - Pizzacat
 - bye-friends
 - [Akshansh Sharma](https://github.com/Tombstoner)
+- [Simon Conrad](https://github.com/slyskillet)
