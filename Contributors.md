@@ -11,6 +11,7 @@
 - [Archishman Dash](https://www.github.com/archielicious)
 - [Hamzaa Shah](https://github.com/Hamjaster)
 - [Ajmal Khan](https://github.com/reaperhound)
+- [Alex GeoDev](https://github.com/alex-geodev)
 - [Shoaib Wani](https://github.com/Pyloris)
 - [Ashley Mical](https://github.com/micamash)
 - [Biswajit Mishra](https://github.com/cxbiswajit)
