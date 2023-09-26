@@ -1,5 +1,5 @@
 w# Contributors
-   [Bista]
+   [Bista]  
 - [Karanjot Singh](https://github.com/karanjot786)
 - [Abhinav Puri](https://github.com/Abhinav16072001)
 - [Emilly Tiampati](https://github.com/sereyatiampati)
@@ -25,6 +25,7 @@ w# Contributors
 -[M Abdullah](https://github.com/Muhammad-Abdullah-13)
 - [ababa amr] (https://github.com/a-amr)
 - [Omotolani Shodunke](https://github.com/Tolanee)
+- [Ishita Choudhury](https://github.com/ImcalledIshita)
 - [exotic brain](https://github.com/exoticBrain)
 - [Kishan Kumar Rai](https://github.com/kishanrajput23)
 - [Jagannath Mestry](https://github.com/Jagannath15)
