@@ -1136,7 +1136,7 @@ Nikhil R
 - [m-foskett](https://github.com/m-foskett)
 - [HOUSSAM666](https://github.com/HOUSSAM666)
 - [pradeep kc](https://github.com/pradeepkc11)
-- [Deepshikha Tripathi](https://github.com/pradeepkc11)
+- [Deepshikha Tripathi](https://github.com/dipsXD)
 - [Aryant Kumar](https://github.com/Aryant01)
 - [Aurin Yang](https://github.com/AurinYang)
 - [Keith Ken](https://github.com/Akaikenlol)
