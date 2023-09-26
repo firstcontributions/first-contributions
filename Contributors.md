@@ -1,6 +1,7 @@
 # Contributors
    [Bista]
 - [Karanjot Singh](https://github.com/karanjot786)
+- [Sandhya Kumari](https://github.com/Sandhya312)
 - [Lohith Kotni](https://github.com/lohitkotni)
 - [Mher Saratikyan](https://github.com/MherSaratikyan)
 - [Abhishek Tiwari](https://github.com/ATiwari2000)
