@@ -397,6 +397,7 @@ Sino Felicity Zwane
 - [Pina Sunil](https://github.com/PinaSunil)
 - [Joanna Marie Areniego](https://github.com/JoannaMarieAreniego)
 - [Chance Justine Bragais] (https://github.com/Chancelemagne22)
+- [Tobi Oyediran] (http://github.com/TobiTheDeveloper)
 - [Brian Oktavec] (https://github.com/boktavec)
 - [Tanvi G](https://github.com/Tanvi3103)
 - [Kimandu Ndung'u](https://github.com/DixonKimandu)
