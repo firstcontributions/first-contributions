@@ -49,6 +49,7 @@ w# Contributors
 - [Kavya Pandey](https://github.com/zykuriku)
 - [Juan Pablo Alvarado](https://github.com/juancodeaudio)
 - [Paul Rose] (https://github.com/ptrose78)
+- [Osho Iseoluwa](https://github.com/theCephas)
 - [Nivea Hanley](https://github.com/niv-png)
 - [Parth Bijpuriya](https://github.com/parth656)
 - [Tommy Shiels](https://github.com/tshiels)
