@@ -8,6 +8,8 @@
 - [Sebastian Gomez V](https://github.com/segpy)
 - [Tabia Bechir](https://github.com/t-bechir)
 - [Ziqi] (https://github.com/zi7feng)
+- [NandhuKriss] (https://github.com/nandhukriss)
+
 - [Menachem Bursh] (https://github.com/burshtei)
 - [Shivam] (https://github.com/kshivam30)
 - [Purv](https://github.com/Purva-2609)
