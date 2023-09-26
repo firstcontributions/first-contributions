@@ -3,7 +3,6 @@
 - [Lohith Kotni](https://github.com/lohitkotni)
 - [Mher Saratikyan](https://github.com/MherSaratikyan)
 - [Abhishek Tiwari](https://github.com/ATiwari2000)
-- [Archishman Dash](https://www.github.com/archielicious)
 - [bucheraa](https://github.com/bucheraa)
 - [Archishman Dash](https://www.github.com/archielicious)
 [Amber](https://github.com/ars1256)
@@ -105,6 +104,8 @@
 - [Aryan Sharma] (https://github.com/aryan8180)
 - [Adedoyinsola Ogungbesan] (https://github.com/surfiniaburger)
 - [Yusuf Uzun] (https://github.com/Yusi94)
+Pizzacat
+Pizzacat
 Pizzacat
 - [Dean Macaulay](https://github.com/deanmac5)
 - [Daniel Guillen](https://github.com/djg3577)
