@@ -10,6 +10,7 @@
 - [alamin655](https://github.com/alamin655)
 - [Archishman Dash](https://www.github.com/archielicious)
 - [Hamzaa Shah](https://github.com/Hamjaster)
+- [Deyan Sarahoshev](https://github.com/dnshouse)
 - [Ajmal Khan](https://github.com/reaperhound)
 - [Alex GeoDev](https://github.com/alex-geodev)
 - [Shoaib Wani](https://github.com/Pyloris)
