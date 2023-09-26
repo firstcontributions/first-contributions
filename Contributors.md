@@ -2482,7 +2482,7 @@ Akash Abraham
 - [Guru Deep Kuwar](https://github.com/gurudeepkuwar)
 - [BombshellBilly](https://github.com/BSB47)
 - [mzaidi7](https://github.com/mzaidi7)
-
+- [Aditya Nakadi](https://github.com/aditya-2010)
 - [Naufal Alief](https://github.com/naufalalief)
 - [Kokonico](https://github.com/Kokonico)
 - [Rajan Raj](https://github.com/rajanraj2)
