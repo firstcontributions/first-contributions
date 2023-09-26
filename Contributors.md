@@ -47,6 +47,7 @@
 - [karthik challa](https://github.com/karthikchalla7)
 - [Prashnth Tutturu] (https://github.com/prashanthtutturu)
 - [Yang Xiang](https://github.com/yangxdev)
+- [mrlectus](https://github.com/mrlectus)
 - [Aditya Singhal](https://github.com/Aditya-singhal03)
 - [Scott Starks](https://github.com/thetramp22)
 - [Vinayak Raj](https://github.com/vinayakmraj)
