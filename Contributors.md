@@ -939,6 +939,7 @@ Nikhil R
 - [Ankit Mehra](https://github.com/Ankit-Mehra)
 - [Linus404](https://github.com/Linus404)
 - [Ashish Kumar](https://github.com/AshishKumar409)
+- [Michael Ibinola](https://github.com/Ibinola)
 - [Prajjwal Kumar](https://github.com/eisemsi2)
 - [Nishi](https://github.com/nishim2019)
 - [Miles Eng](https://github.com/milesreng)
