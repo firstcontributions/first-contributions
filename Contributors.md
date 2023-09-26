@@ -4,6 +4,7 @@ w# Contributors
 - [Emilly Tiampati](https://github.com/sereyatiampati)
 - [Sandhya Kumari](https://github.com/Sandhya312)
 - [Lohith Kotni](https://github.com/lohitkotni)
+- [Komolehin Israel](https://github.com/komus-Israel)
 - [Mher Saratikyan](https://github.com/MherSaratikyan)
 - [Salaudeen Sodiq](https://github.com/salsod-star)
 - [Abhishek Tiwari](https://github.com/ATiwari2000)
