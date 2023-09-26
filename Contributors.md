@@ -897,6 +897,7 @@ Nikhil R
 - [Keshav Bhatia](https://github.com/21219keshav)
 - [chetannada](https://github.com/chetannada)
 - [ImprovedKai]
+- [Sam Sohn](https://github.com/Alchera-MLOps-Shelby)
 - [bernardjumel]
 - psuuc-paduaester
 - [Anudari Gereltod](https://github.com/AnudariG)
