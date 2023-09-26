@@ -4,7 +4,6 @@
 - [Mher Saratikyan](https://github.com/MherSaratikyan)
 - [Abhishek Tiwari](https://github.com/ATiwari2000)
 - [bucheraa](https://github.com/bucheraa)
-- [Archishman Dash](https://www.github.com/archielicious)
 [Amber](https://github.com/ars1256)
 - [alamin655](https://github.com/alamin655)
 - [Archishman Dash](https://www.github.com/archielicious)
@@ -104,6 +103,8 @@
 - [Aryan Sharma] (https://github.com/aryan8180)
 - [Adedoyinsola Ogungbesan] (https://github.com/surfiniaburger)
 - [Yusuf Uzun] (https://github.com/Yusi94)
+Pizzacat
+Pizzacat
 Pizzacat
 Pizzacat
 Pizzacat
