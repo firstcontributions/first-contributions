@@ -59,7 +59,7 @@
 - [Tabia Bechir](https://github.com/t-bechir)
 - [ORaies](https://github.com/ORaies)
 - [Ziqi] (https://github.com/zi7feng)
-- SOMETHING IS HERE
+- [Josiah Yakubu](https://github.com/yakubu-josiah)
 - [Akhil] (https://github.com/Akki304)
 - [Josh icantreadmycode](https://github.com/icantreadmycode)
 - [Menachem Bursh] (https://github.com/burshtei)
