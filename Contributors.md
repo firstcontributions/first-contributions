@@ -230,6 +230,7 @@ JialingYU
 - [Ferhat Cekim](https://github.com/ferferx)
 - [justnuha]
 - [Ansil M B](https://github.com/ansilmbabl)
+Stanley Nzegwu
 nathaniel
 - [Rasmus]
 - [rosywisteria] (https://github.com/rosywisteria)
