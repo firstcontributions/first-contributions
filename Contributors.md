@@ -4,6 +4,7 @@ w# Contributors
 - [Sandhya Kumari](https://github.com/Sandhya312)
 - [Lohith Kotni](https://github.com/lohitkotni)
 - [Mher Saratikyan](https://github.com/MherSaratikyan)
+- [Salaudeen Sodiq](https://github.com/salsod-star)
 - [Abhishek Tiwari](https://github.com/ATiwari2000)
 - [bucheraa](https://github.com/bucheraa)
 [Amber](https://github.com/ars1256)
