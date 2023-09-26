@@ -62,6 +62,7 @@
 - SOMETHING IS HERE
 - [Akhil] (https://github.com/Akki304)
 - [Josh icantreadmycode](https://github.com/icantreadmycode)
+- [Nicole Sorokin](https://github.com/NicoleSorokin)
 - [Menachem Bursh] (https://github.com/burshtei)
 - [Shivam] (https://github.com/kshivam30)
 - [John Mikko Velasquez] (https://github.com/JohnMikko27)
