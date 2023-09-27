@@ -742,6 +742,7 @@ Sino Felicity Zwane
 - [Matej Rada](https://github.com/predyy)
 - [Sanjeev Kumar Sahoo](https://github.com/sanjeevkumar321)
 - [Viraj Parikh](https://github.com/VirajYParikh)
+- [Theresa Ottah] (https://github.com/Ottaht1)
 - [Lele Mathis](https://github.com/lele-mathis)
 - [Rajeswari Kuppusamy](https://github.com/rajeswarikuppusamy18)
 - [Jordan Fortin](https://github.com/Hazey8709)
