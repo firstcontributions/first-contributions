@@ -373,6 +373,7 @@ Sino Felicity Zwane
 - [Marcel Ruth] (https://github.com/MarcelRuth)
 - [MichaelAngelo]
 - [mohammadamindousti](https://github.com/Amindosti)
+- [Yash](https://github.com/Yash2048)
 - [MikeSowers](https://github.com/msowers72)
 - [Tundekuzco](https://github.com/tundekuzco)
 - [Ian Putter](https://github.com/Neoforest)
