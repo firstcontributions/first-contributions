@@ -26,6 +26,7 @@
 - [Rakesh-Ganneboina](https://github.com/rakeshganneboina)
 - [Amit Rana](https://github.com/HUMBLEF0OL)
 - [Youha Shin] (https://github.com/youha-shin)
+- [Akinsanya Joel](https://github.com/kiojoel)
 - [Rahul Baskey](https://github.com/RahulBRB)
 - [Kierznowski] (https://github.com/Kierznowski)
 - [Vinay Anand Lodhi](https://github.com/VinayLodhi1712)(VinayLodhi1712)
