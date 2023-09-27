@@ -15,6 +15,7 @@
 - [Salaudeen Sodiq](https://github.com/salsod-star)
 - [Abhishek Tiwari](https://github.com/ATiwari2000)
 - [bucheraa](https://github.com/bucheraa)
+- [Choloping](https://github.com/choloping)
 - [Chris Lin](https://github.com/clin34)
 [Amber](https://github.com/ars1256)
 [Anik](https://github.com/anikagarwa12)
