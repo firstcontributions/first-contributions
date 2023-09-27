@@ -1129,6 +1129,7 @@ Nikhil R
 - [Matteo Cusin](https://github.com/MatteoCus)
 - [Aleks_Lucenko](https://github.com/alekslucenko)
 - [Luis Hau](https://github.com/ycluis)
+- [Oscar Kanangila](https://github.com/Os-humble-man)
 - [Brijesh Roy](https://github.com/brijeshroy)
 - [Moncef Meharzi](https://github.com/Moncef-Mhz)
 - [Raj sharma](https://github.com/lluciferr)
