@@ -333,6 +333,7 @@ Sino Felicity Zwane
 - [IBOTGUN](https://github.com/IBOTGUN)
 - [Manoj Kumar](https://github.com/manoj9896)
 - [Vysakh Thekkath](https://github.com/vysakhthek)
+- [Mohamed Yasser](https://github.com/mohamed3laily)
 - [Letícia Aguiar](https://github.com/letsaguiar)
 - [Anirudh Duggal](https://github.com/AniswagMC)
 - [Itay Saban](https://github.com/itaysaban)
