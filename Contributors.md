@@ -276,6 +276,7 @@ Mahmoud Mirghani
 - [Roney Moon](https://github.com/roneymoon)
 - [Geetika Jhanji](https://github.comgit/geetikajhanji11)
 - [Hasan Maruf Ahmed](https://github.com/Hasan-Maruf-Ahmed)
+- [Zedekiah](https://github.com/Hein-HtetSan)
 - [Parth Bhatt](https://github.com/Mazrah18/)
 - [Tom Black](https://github.com/SuperbWhiteApple)
 - [Amandine D.](https://github.com/suikachan42)
