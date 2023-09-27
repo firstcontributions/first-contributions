@@ -628,6 +628,7 @@ Sino Felicity Zwane
 - [Amit Rana](https://github.com/HUMBLEF0OL)
 - [Rahul Nishad](https://github.com/rahul11nishad)
 - [Youha Shin] (https://github.com/youha-shin)
+- [Akinsanya Joel](https://github.com/kiojoel)
 - [Rahul Baskey](https://github.com/RahulBRB)
 - [Kierznowski] (https://github.com/Kierznowski)
 - [Vinay Anand Lodhi](https://github.com/VinayLodhi1712)(VinayLodhi1712)
