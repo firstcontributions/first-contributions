@@ -178,6 +178,7 @@ Pizzacat
 - [Samir Gorai] (https://github.com/samirgorai)
 - [Kyle Kundinger](https://github.com/Kyle-Kundinger)
 - [Joe Philip](https://github.com/joe-philip)
+- [menareus](https://github.com/menareus)
 - [Yatin Goyal](https://github.com/ygoyal48)
 - [John Allen Berty](https://github.com/JohnAllenBerty)
 - [Azhar Lihan](https://github.com/azharlihan)
