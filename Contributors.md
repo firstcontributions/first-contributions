@@ -2556,6 +2556,7 @@ Akash Abraham
 - [NesVII] (https://github.com/NesVII)
 - [Noy10] (https://github.com/NOY10)
 - [SunGodNika]
+- [LKanan] (https://github.com/LKanan)
 -[R. Varshinee]https://github.com/RVarshinee
 - [Umarislam12] (https://github.com/umarislam12)
 - [ShayneEvans] https://github.com/ShayneEvans)
