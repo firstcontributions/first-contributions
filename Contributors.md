@@ -2020,6 +2020,7 @@ Akash Abraham
 - [Narhzih](https://github.com/narhzih)
 - [Loveth Tee](https://github.com/LovethTee)
 - [David](https://github.com/DavidZhu1388)
+- [lmr lumiere](https://github.com/Lumiere-MULAGWA)
 - [ShireenShaikh](https://github.com/toasted-breads)
 - [Harish Thakur](https://github.com/harish445)
 - [Adelaide Nxumalo](https://github.com/anxumalo)
@@ -2656,3 +2657,4 @@ T7
 [Wachiou BOURAÏMA](https://github.com/WassCodeur)
 [Amit Singh](https://github.com/AmitSingh-5600)
 -[Moeletsi Jason Nkuna](https://github.com/Moeletsi47)
+
