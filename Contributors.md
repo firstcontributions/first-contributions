@@ -15,6 +15,7 @@ w# Contributors
 [Amber](https://github.com/ars1256)
 - [alamin655](https://github.com/alamin655)
 - [Hamzaa Shah](https://github.com/Hamjaster)
+- [Siphamandla Mazibuko](https://github.com/fawkesdbs)
 - [Deyan Sarahoshev](https://github.com/dnshouse)
 - [Ajmal Khan](https://github.com/reaperhound)
 - [Alex GeoDev](https://github.com/alex-geodev)
