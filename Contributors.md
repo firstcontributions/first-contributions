@@ -47,6 +47,7 @@
 - tton
 - [Gabriel M]
 - [Dominik Alexa](https://github.com/devdom90)
+- [D Vijay Vardhan Reddy](https://github.com/vijay-vardhan-reddy)
 - [Preetham P M](https://github.com/preetham-p-m)
 - [Kavya Pandey](https://github.com/zykuriku)
 - [Juan Pablo Alvarado](https://github.com/juancodeaudio)
