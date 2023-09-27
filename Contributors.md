@@ -33,13 +33,12 @@
 - [Idehen Gideon](https://github.com/gi3-14)
 - [Dohyun Kim](https://github.com/dohyundev)
 - [Muhammed Ashhar](https://github.com/muhammedashharps/)
-- jhgf
-- tton
 - [Dominik Alexa](https://github.com/devdom90)
 - [Preetham P M](https://github.com/preetham-p-m)
 - [Kavya Pandey](https://github.com/zykuriku)
 - [Juan Pablo Alvarado](https://github.com/juancodeaudio)
 - [Paul Rose] (https://github.com/ptrose78)
+- [Matthias Sagerer](https://github.com/MatthiasSagerer)
 - [Nivea Hanley](https://github.com/niv-png)
 - [Parth Bijpuriya](https://github.com/parth656)
 - [Tommy Shiels](https://github.com/tshiels)
