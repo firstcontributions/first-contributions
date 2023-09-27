@@ -1011,6 +1011,7 @@ Nikhil R
 - [Prabhat Saxena](https://github.com/xx-VIRUS-xx)
 - [Conner Luff]
 - [Jamey Bryce](https://github.com/jameydev)
+- [Yves Kalume](https://github.com/yveskalume)
 - [Nenos Hu](https://github.com/Nenos-Hu)
 - [Anirudh Arkery](https://github.com/anirudharkery)
 - [Jatin Sood]
