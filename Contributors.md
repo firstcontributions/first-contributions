@@ -768,6 +768,7 @@ Sino Felicity Zwane
 - [Gerry Aballa](https://github.com/Gerry-Aballa)
 - [Meet Merchant](https://github.com/meetmerchant)
 - [David Bright](https://github.com/davebiddy/)
+- [Thien Phan](https://github.com/phanchithien)
 - [Cassandra](https://github.com/codingcass)
 - [Arne Rief](https://github.com/Arrief)
 - [Akash Raj](https://github.com/akashroshiv)
