@@ -825,6 +825,7 @@ Nikhil R
 - [Munirah Khalid](https://github.com/MunirahKhalid)
 - [Manav Joshi](https://github.com/ManavJoshi111)
 - [Shiven Garia](https://github.com/Shiven0504)
+- [tegra mulega](https://github.com/mulega)
 - [Yusufhan Sacak](https://github.com/JosephDoUrden)
 - [Quddus Rahman](https://github.com/SomthingInteresting)
 - [Rahul OR](https://github.com/rahul0070050)
