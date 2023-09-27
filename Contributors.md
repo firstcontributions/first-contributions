@@ -1,4 +1,4 @@
-w# Contributors
+# Contributors
    [Bista]  
 - [Karanjot Singh](https://github.com/karanjot786)
 - [Alex Chen](https://github.com/alexchen2) 
@@ -28,6 +28,7 @@ w# Contributors
 - [ababa amr] (https://github.com/a-amr)
 - [Omotolani Shodunke](https://github.com/Tolanee)
 - [Ishita Choudhury](https://github.com/ImcalledIshita)
+- [Luckydhingra]((https://github.com/Luckydhingra)
 - [exotic brain](https://github.com/exoticBrain)
 - [Kishan Kumar Rai](https://github.com/kishanrajput23)
 - [Jagannath Mestry](https://github.com/Jagannath15)
