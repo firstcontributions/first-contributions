@@ -10,6 +10,7 @@
 - [Jonathan Mbiya](https://github.com/JonathanMbiya)
 - [Arnav Kumar](https://github.com/OverRevvv)
 - [Lohith Kotni](https://github.com/lohitkotni)
+- [João Paulo S. S.](https://github.com/JoaoPauloSouzaSilva)
 - [Toyin Onagoruwa](https://github.com/Toyin96)
 - [Komolehin Israel](https://github.com/komus-Israel)
 - [Mher Saratikyan](https://github.com/MherSaratikyan)
