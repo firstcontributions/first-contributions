@@ -16,6 +16,7 @@
 - [Abhishek Tiwari](https://github.com/ATiwari2000)
 - [bucheraa](https://github.com/bucheraa)
 - [Choloping](https://github.com/choloping)
+- [Pratham Purohit](https://github.com/prathammpurohit)
 - [Chris Lin](https://github.com/clin34)
 [Amber](https://github.com/ars1256)
 [Anik](https://github.com/anikagarwa12)
