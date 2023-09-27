@@ -15,6 +15,7 @@
 - [bucheraa](https://github.com/bucheraa)
 - [Chris Lin](https://github.com/clin34)
 [Amber](https://github.com/ars1256)
+[Anik](https://github.com/anikagarwa12)
 - [alamin655](https://github.com/alamin655)
 - [Hamzaa Shah](https://github.com/Hamjaster)
 - [Siphamandla Mazibuko](https://github.com/fawkesdbs)
