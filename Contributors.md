@@ -136,6 +136,7 @@ Pizzacat
 - [Daniel Guillen](https://github.com/djg3577)
 - [Ramez Gabra](https://github.com/ramezgabra)
 - [MAEINUDDIN ](https://github.com/Maeinukhan63/)
+- [Jaocb Moneda](https://github.com/jmogizmo)
 - [Fernando Perez](https://github.com/FernPerez/)
 - [Tony McLeish](https://github.com/Tunza42/)
 - [Digvijay Singh](https://github.com/digvijaysinghh)
