@@ -14,6 +14,7 @@
 - [Abhishek Tiwari](https://github.com/ATiwari2000)
 - [bucheraa](https://github.com/bucheraa)
 [Amber](https://github.com/ars1256)
+[Anik](https://github.com/anikagarwa12)
 - [alamin655](https://github.com/alamin655)
 - [Hamzaa Shah](https://github.com/Hamjaster)
 - [Siphamandla Mazibuko](https://github.com/fawkesdbs)
