@@ -2659,6 +2659,7 @@ T7
 - [Mkzay](https://github.com/Mkzay)
 - [Yunfei](https://github.com/Yunfei-Ma-McMaster)
 - [Maceo] (https://github.com/maceoCK)
+- [Mariano] (https://github.com/marians91)
 - Pizzacat
 - Pizzacat
 - Pizzacat
