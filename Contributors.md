@@ -1,5 +1,6 @@
 # Contributors
    [Bista]  
+- [Prajwal patil](https://github.com/prajwal-26)
 - [Karanjot Singh](https://github.com/karanjot786)
 - [Alex Chen](https://github.com/alexchen2) 
 - [Abhinav Puri](https://github.com/Abhinav16072001)
