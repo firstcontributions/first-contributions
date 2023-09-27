@@ -1786,6 +1786,7 @@ Akash Abraham
 - [Ahmed Nasr](https://github.com/NotAhmedNasr)
 - [Sourabh Patel](https://github.com/getmeapencil)
 - [Ajala Marvellous](https://github.com/ajalamarvellous)
+- [John Musans](https://github.com/Johnmusans)
 - [Samuel Kinuthia](https://github.com/Siymiel)
 - [Oluwaseyi Aimudo](https://github.com/Oluwaseyi123)
 - [PaingThuHtwe](https://github.com/paingthuhtwe)
@@ -2656,3 +2657,4 @@ T7
 [Wachiou BOURAÏMA](https://github.com/WassCodeur)
 [Amit Singh](https://github.com/AmitSingh-5600)
 -[Moeletsi Jason Nkuna](https://github.com/Moeletsi47)
+- 
