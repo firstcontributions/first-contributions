@@ -1219,6 +1219,7 @@ Nikhil R
 - [Anthony Capecci](https://github.com/AnthonyCap13)
 - [rmknan](https://github.com/rmknan)
 - [Kevin Chen] (https://github.com/kevin5112)
+- [Glodie Lukose](https://github.com/glodielukose)
 - [Vaibhav Mahajan](https://github.com/vaibhav-3003)
 - [Kushanth-Reddy](https://github.com/Kushanth-Reddy)
 - [Wesllen Alexandre](https://github.com/Wesllenbr)
