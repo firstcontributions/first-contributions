@@ -27,6 +27,7 @@
 - [Siphamandla Mazibuko](https://github.com/fawkesdbs)
 - [Deyan Sarahoshev](https://github.com/dnshouse)
 - [Ajmal Khan](https://github.com/reaperhound)
+- [Aashish Mishra](https://github.com/Gowther03)
 - [Alex GeoDev](https://github.com/alex-geodev)
 - [Shoaib Wani](https://github.com/Pyloris)
 - [Ashley Mical](https://github.com/micamash)
