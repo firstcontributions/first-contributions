@@ -105,6 +105,7 @@
 - Radin Mirzaee
 - [Okpara Ifeanyi](https://github.com/okparaa)
 - [Michael S]
+-[Somu](https://github.com/Somu878)
 - [Wasy](https://github.com/Wasy18)
 - [Hajar Skalli-Houssaini](https://github.com/HaSH147)
 - [Shamanth KN](https://github.com/shamanthkn5)
