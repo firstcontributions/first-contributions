@@ -1252,6 +1252,7 @@ Nikhil R
 - [Lucas Vieira Ribeiro](https://github.com/Lucas-Vieira-R/)
 - [Quentin Ramsay](https://github.com/QuentinRamsay/)
 - [Anukam Chidalu](https://github.com/daluclemas)
+- [Tehila Greenberg](https://github.com/tehila1111)
 - [Simon](https://github.com/simjkx)
 - [Moussa GUENANI](https://github.com/moussague)
 - [Ritabrata Das](https://github.com/the-indian-dev)
@@ -2548,6 +2549,7 @@ Akash Abraham
 - [Prashant Jagtap](https://github.com/prashantjagtap2909)
 - [Yagahut] (https://github.com/yagahut)
 - [Brian Grana](https://github.com/azurerazor)
+[Lizi Alt] (https://github.com/GoldBarCode) -
 - [Georgios Tsakoumakis](https://github.com/GeorgeTsakoumakis)
 - [Loren Rasmussen](https://github.com/rlorenrasmussen)
 - [Mitcham Ochia] (https://github.com/sedna08)
@@ -2626,7 +2628,7 @@ T7
 - [Reethu Thota](https://github.com/reethuthota)
 - [bhaskar9221](https://github.com/bhaskar9221)
 - [molnarpzs](https://github.com/molnarpzs)
-- [niol8742] https://github.com/niol8742S
+- [niol8742] (https://github.com/niol8742S)
 - [Ser-Od] (https://github.com/serod11)
 - [sneha-4-22](https://github.com/sneha-4-22)
 - [Mkzay](https://github.com/Mkzay)
@@ -2648,6 +2650,7 @@ T7
 - Pizzacat
 - bye-friends
 - [Akshansh Sharma](https://github.com/Tombstoner)
-[Wachiou BOURAÏMA](https://github.com/WassCodeur)
-[Amit Singh](https://github.com/AmitSingh-5600)
+- [Wachiou BOURAÏMA](https://github.com/WassCodeur)
+- [Amit Singh](https://github.com/AmitSingh-5600)
 - [xperblueray](https://github.com/Thenewbiesfromnuc)
+- [Moeletsi Jason Nkuna](https://github.com/Moeletsi47)
