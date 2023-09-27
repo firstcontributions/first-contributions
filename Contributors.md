@@ -31,6 +31,7 @@
 - [Biswajit Mishra](https://github.com/cxbiswajit)
 - [Mohith N](https://github.com/Mhith)
 - [Osayeme O](https://github.com/Osayeme)
+- [Emma P](https://github.com/EmPajak21)
 -[M Abdullah](https://github.com/Muhammad-Abdullah-13)
 - [ababa amr] (https://github.com/a-amr)
 - [Omotolani Shodunke](https://github.com/Tolanee)
@@ -165,6 +166,7 @@ Pizzacat
 - [Fahaad Al Abbadi](https://github.com/fahaad-abbadi)
 - [Peter Iskandar](https://github.com/Peter-Fayez95)
 - [Amit Sathvara](https://github.com/amitsathvara)
+- [Yiji](https://github.com/yijiyap)
 - [Aniket Garole](https://github.com/aniketgarole)
 - [Fred Postles](https://github.com/fredpostles)
 - [Pulkit Sharma](https://github.com/Plktz)
@@ -1217,6 +1219,7 @@ Nikhil R
 - [Anthony Capecci](https://github.com/AnthonyCap13)
 - [rmknan](https://github.com/rmknan)
 - [Kevin Chen] (https://github.com/kevin5112)
+- [Glodie Lukose](https://github.com/glodielukose)
 - [Vaibhav Mahajan](https://github.com/vaibhav-3003)
 - [Kushanth-Reddy](https://github.com/Kushanth-Reddy)
 - [Wesllen Alexandre](https://github.com/Wesllenbr)
@@ -2648,6 +2651,7 @@ T7
 - [Mohit Rajpoot](https://github.com/rajpootmohit782)
 - [Vivek Joshi](https://github.com/BAKA-470)
 - [Rene Arenas Flores](https://github.com/AlohaRene)
+-[Julius Emmanuel](https://github.com/julius-java)
 - Hugo Lee
 - [Gerard Angelo Vega](https://github.com/Nutty-Nuts)
 - [Sushant Pawar](https://github.com/sushi200)
@@ -2681,3 +2685,4 @@ T7
 [Amit Singh](https://github.com/AmitSingh-5600)
 -[Moeletsi Jason Nkuna](https://github.com/Moeletsi47)
 -[Pragadeeshwaran](https://github.com/pragadeesh47)
+
