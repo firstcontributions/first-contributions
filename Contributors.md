@@ -929,6 +929,7 @@ Nikhil R
 - [Alexander Konnaris](https://github.com/alexkonnaris)
 - [Abdi Jama](https://github.com/ajama21/)
 - [kenken](https://github.com/kenfaz)
+- [Naman Bagdiya](https://github.com/NamanOG)
 - [Sahil Gaikwad](https://github.com/Sahilgaik)
 - [Chase West](https://github.com/chase-west)
 - [david-s]()
