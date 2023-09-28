@@ -125,6 +125,7 @@
 - [Gazmend Shehu](https://github.com/zigameni)
 - [Himanshu Mahaur](https://github.com/himanshumahaur)
 - [Swatche]
+- [Anushka Banerjee](https://github.com/Anushka200310)
 - [BamjosAdeniyi](https://github.com/BamjosAdeniyi)
 - [Samreen Reyaz](https://github.com/SamDaQueen)
 - [Anjalina Jijo](https://github.com/AnjalinaJijo)
