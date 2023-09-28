@@ -15,6 +15,7 @@
 - [Emilly Tiampati](https://github.com/sereyatiampati)
 - [Aditya Dhaduk] (https://github.com/Aditya2814)
 - [Aarone George](https://github.com/AaroneGeorge)
+- [Adeola Ojekunle](https://github.com/adeola-code)
 - [Sandhya Kumari](https://github.com/Sandhya312)
   [Toufiqur Rahman](https://github.com/toufiq-softic)
   [MD SHAFI UDDIN](https://github.com/6736-shafi)
