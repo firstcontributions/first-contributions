@@ -2,6 +2,7 @@
    [Bista]  
 - [Shaqeeb Akhtar](https://github.com/shaqeebakhtar)
 - [Prajwal patil](https://github.com/prajwal-26)
+- [Neaha Bijo](https://github.com/Neaha-Bijo)
 - [Karanjot Singh](https://github.com/karanjot786)
 - [Alex Chen](https://github.com/alexchen2) 
 - [Abhinav Puri](https://github.com/Abhinav16072001)
@@ -125,6 +126,7 @@
 - [Gazmend Shehu](https://github.com/zigameni)
 - [Himanshu Mahaur](https://github.com/himanshumahaur)
 - [Swatche]
+- [Anushka Banerjee](https://github.com/Anushka200310)
 - [BamjosAdeniyi](https://github.com/BamjosAdeniyi)
 - [Samreen Reyaz](https://github.com/SamDaQueen)
 - [Anjalina Jijo](https://github.com/AnjalinaJijo)
@@ -611,6 +613,7 @@ Sino Felicity Zwane
 - [Ahmad Shah Donishyar](https://github.com/donishyar)
 - [Rich C](https://github.com/Supergnarlyted)
 - [PikkuJane](https://github.com/PikkuJanne)
+- [Tomaz](https://github.com/Tomaz5556)
 - [Alexis L](https://github.com/akelee)
 - [Evans Maina](https://github.com/evanssmaina)
 - [LooseJaguar](https://github.com/LooseJaguar):cat2:
@@ -1233,6 +1236,7 @@ Nikhil R
 - [Kevin Chen] (https://github.com/kevin5112)
 - [Glodie Lukose](https://github.com/glodielukose)
 - [Vaibhav Mahajan](https://github.com/vaibhav-3003)
+- [Santiago Gualchi](https://github.com/santigualchi)
 - [Kushanth-Reddy](https://github.com/Kushanth-Reddy)
 - [Wesllen Alexandre](https://github.com/Wesllenbr)
 - [Ikegah Oliver](https://github.com/oliverTwist2)
@@ -2702,6 +2706,4 @@ T7
 -[Peter](https://github.com/peterlianpi)
 -[Lang F](https://github.com/A-Nobel)
 -[techofirst]
-
-
-[def]: https://github.com/amberabhi
+-[Anuraj Shukla](https://github.com/anurajshukla)
