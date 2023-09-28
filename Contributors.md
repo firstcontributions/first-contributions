@@ -1,6 +1,7 @@
 # Contributors
 - [Abhinay singh](https://github.com/Abhinay123Singh)
-   [Bista]  
+   [Bista]
+- [Akash Yadav](https://github.com/akashydv311)
 - [Shaqeeb Akhtar](https://github.com/shaqeebakhtar)
 - [Diwash Bhattarai](https://github.com/diwashbhattarai999)
 - [Bivia Allan](https://github.com/briviamoon)
@@ -17,7 +18,6 @@
 - [Jonathan Mbiya](https://github.com/JonathanMbiya)
 - [Pavan Kalyan](https://github.com/Pavan782)
 - [Arnav Kumar](https://github.com/OverRevvv)
-- [Subham Mohapatra](https://github.com/techysubham)
 - [Lohith Kotni](https://github.com/lohitkotni)
 - [João Paulo S. S.](https://github.com/JoaoPauloSouzaSilva)
 - [Toyin Onagoruwa](https://github.com/Toyin96)
