@@ -369,6 +369,7 @@ Sino Felicity Zwane
 - [Manoj Kumar](https://github.com/manoj9896)
 - [Vysakh Thekkath](https://github.com/vysakhthek)
 - [Mohamed Yasser](https://github.com/mohamed3laily)
+- [Anas Bouatou](https://github.com/anes011)
 - [Letícia Aguiar](https://github.com/letsaguiar)
 - [Anirudh Duggal](https://github.com/AniswagMC)
 - [Itay Saban](https://github.com/itaysaban)
