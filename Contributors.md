@@ -1374,6 +1374,7 @@ Nikhil R
 - [MrAlessandro](https://github.com/MrAlessandro)
 - [Andrei Fabian Pop](https://github.com/Andrei-Fabian-Pop)
 - [Jesus Elizalde](https://github.com/Jesus-Elizalde)
+- [Alex Thrush](https://github.com/thrushalex)
 - [Fergus Maclean](https://github.com/fergusmac1)
 - [Rizkian Akbar Juniansyah](https://github.com/rizkianakbar)
 - [Dalin Stone](https://github.com/dalinkstone)
