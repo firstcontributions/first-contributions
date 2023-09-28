@@ -1,4 +1,5 @@
 # Contributors
+- [Abhinay singh](https://github.com/Abhinay123Singh)
    [Bista]  
 - [Shaqeeb Akhtar](https://github.com/shaqeebakhtar)
 - [Diwash Bhattarai](https://github.com/diwashbhattarai999)
