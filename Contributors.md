@@ -11,6 +11,7 @@
 - [Emilly Tiampati](https://github.com/sereyatiampati)
 - [Aarone George](https://github.com/AaroneGeorge)
 - [Sandhya Kumari](https://github.com/Sandhya312)
+  [MD SHAFI UDDIN](https://github.com/6736-shafi)
 - [Toufiqur Rahman](https://github.com/toufiq-softic)
 - [Jonathan Mbiya](https://github.com/JonathanMbiya)
 - [Pavan Kalyan](https://github.com/Pavan782)
