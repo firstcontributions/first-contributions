@@ -2732,4 +2732,5 @@ T7
 -[techofirst]
 -[Anuraj Shukla](https://github.com/anurajshukla)
 -[Iliyas Khan](https://github.com/khaniliyas)
-- [Md. Tohedul Islum](https://github.com/tohedul)
+- [Bartosz Kluczewski](https://github.com/Derty990)
+[Md. Tohedul Islum](https://github.com/tohedul)
