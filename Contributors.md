@@ -83,6 +83,7 @@
 - [Gustavo Kurtz](https://github.com/gustavokurtz)
 - [karthik challa](https://github.com/karthikchalla7)
 - [Prashnth Tutturu] (https://github.com/prashanthtutturu)
+- [Avi](https://github.com/avitheduck)
 - [Yahia Nasr] (https://github.com/Y4h14)
 - [Yang Xiang](https://github.com/yangxdev)
 - [Ashish Meagh](https://github.com/ashishmeagh)
