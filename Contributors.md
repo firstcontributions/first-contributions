@@ -11,6 +11,7 @@
 - [Sandhya Kumari](https://github.com/Sandhya312)
 - [Toufiqur Rahman](https://github.com/toufiq-softic)
 - [Jonathan Mbiya](https://github.com/JonathanMbiya)
+- [Pavan Kalyan](https://github.com/Pavan782)
 - [Arnav Kumar](https://github.com/OverRevvv)
 - [Lohith Kotni](https://github.com/lohitkotni)
 - [João Paulo S. S.](https://github.com/JoaoPauloSouzaSilva)
