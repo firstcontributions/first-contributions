@@ -74,6 +74,7 @@
 - [Dohyun Kim](https://github.com/dohyundev)
 - [Muhammed Ashhar](https://github.com/muhammedashharps/)
 - jhgf
+- Jack Huynh(https://github.com/JackHuynh0610)
 - tton
 - [Gabriel M]
 - [k-velvet-p] (https://github.com/K-velvet-P)
