@@ -1052,6 +1052,7 @@ Nikhil R
 - [Michael Rago] (https://github.com/michaeljamesrago)
 - [Lasindu Weerasinghe](https://github.com/LassazVegaz)
 - [Harsh Kumar Singh](https://github.com/dragoon4890)
+- [Kyle Ballestro] (https://github.com/kyleballestro)
 - [Harshit Kumar](https://github.com/harshitkk11)
 - [Lawrence Balaguer](https://github.com/rl-balaguer)
 - [Abacus159](https://github.com/Abacus159)
