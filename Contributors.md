@@ -15,6 +15,7 @@
 - [Sandhya Kumari](https://github.com/Sandhya312)
   [Toufiqur Rahman](https://github.com/toufiq-softic)
   [MD SHAFI UDDIN](https://github.com/6736-shafi)
+- [Gokul](https://github.com/Gokul2003g)
 - [Jonathan Mbiya](https://github.com/JonathanMbiya)
 - [Pavan Kalyan](https://github.com/Pavan782)
 - [Arnav Kumar](https://github.com/OverRevvv)
