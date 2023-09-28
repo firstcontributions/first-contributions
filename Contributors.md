@@ -1,5 +1,6 @@
 # Contributors
 - [Abhinay singh](https://github.com/Abhinay123Singh)
+- [Michael Ojogbo] (https://github.com/90splayer)
    [Bista]  
 - [Shaqeeb Akhtar](https://github.com/shaqeebakhtar)
 - [Diwash Bhattarai](https://github.com/diwashbhattarai999)
