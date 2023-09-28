@@ -137,6 +137,7 @@
 - [Michael S]
 -[Somu](https://github.com/Somu878)
 - [Wasy](https://github.com/Wasy18)
+- [Madhushi](https://github.com/MadhushiUdeshika)
 - [Hajar Skalli-Houssaini](https://github.com/HaSH147)
 - [Shamanth KN](https://github.com/shamanthkn5)
 - [Karan Choudhary](https://github.com/cskaranchow)
