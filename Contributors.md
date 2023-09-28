@@ -11,6 +11,7 @@
 - [Arnav Kumar](https://github.com/OverRevvv)
 - [Lohith Kotni](https://github.com/lohitkotni)
 - [Komolehin Israel](https://github.com/komus-Israel)
+- [rooney](https://github.com/rooneyi)
 - [Mher Saratikyan](https://github.com/MherSaratikyan)
 - [Salaudeen Sodiq](https://github.com/salsod-star)
 - [Abhishek Tiwari](https://github.com/ATiwari2000)
