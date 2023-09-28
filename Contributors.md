@@ -584,6 +584,7 @@ Sino Felicity Zwane
 - [Ian Harmon](https://github.com/waddlesmcsqueezy)
 - [Robert McCall](https://github.com/Polderrider)
 - [Terry] (https://github.com/Chebz23)
+- [Avi] (https://github.com/avitheduck)
 - [Harish H](https://github.com/harishhamilpur)
 - [Brian Fernandez](https://github.com/br14n-sol)
 - [Min Kim](https://github.com/Kim-Min-K)
