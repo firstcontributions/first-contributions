@@ -1234,6 +1234,7 @@ Nikhil R
 - [Kevin Chen] (https://github.com/kevin5112)
 - [Glodie Lukose](https://github.com/glodielukose)
 - [Vaibhav Mahajan](https://github.com/vaibhav-3003)
+- [Santiago Gualchi](https://github.com/santigualchi)
 - [Kushanth-Reddy](https://github.com/Kushanth-Reddy)
 - [Wesllen Alexandre](https://github.com/Wesllenbr)
 - [Ikegah Oliver](https://github.com/oliverTwist2)
