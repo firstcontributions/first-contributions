@@ -294,6 +294,7 @@ JialingYU
 - [Ansil M B](https://github.com/ansilmbabl)
 Stanley Nzegwu
 nathaniel
+- [Tayyab Khalid](https://github.com/TayyabKhalid25)
 - [Rasmus]
 - [rosywisteria] (https://github.com/rosywisteria)
 - [Parth Pandya](https://github.com/parth305)
