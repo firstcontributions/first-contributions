@@ -612,6 +612,7 @@ Sino Felicity Zwane
 - [Ahmad Shah Donishyar](https://github.com/donishyar)
 - [Rich C](https://github.com/Supergnarlyted)
 - [PikkuJane](https://github.com/PikkuJanne)
+- [Tomaz](https://github.com/Tomaz5556)
 - [Alexis L](https://github.com/akelee)
 - [Evans Maina](https://github.com/evanssmaina)
 - [LooseJaguar](https://github.com/LooseJaguar):cat2:
