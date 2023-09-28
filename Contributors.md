@@ -7,6 +7,7 @@
 - [Alex Chen](https://github.com/alexchen2) 
 - [Abhinav Puri](https://github.com/Abhinav16072001)
 - [Emilly Tiampati](https://github.com/sereyatiampati)
+- [Aarone George](https://github.com/AaroneGeorge)
 - [Sandhya Kumari](https://github.com/Sandhya312)
 - [Toufiqur Rahman](https://github.com/toufiq-softic)
 - [Jonathan Mbiya](https://github.com/JonathanMbiya)
