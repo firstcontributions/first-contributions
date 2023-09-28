@@ -2372,6 +2372,7 @@ Akash Abraham
 - [Brian Neisen](https://github.com/warmage12354)
 - [Tango992] (https://github.com/Tango992)
 - Ash
+- [Egor Belousov](https://github.com/mregor787)
 - [Sam Masto](https://github.com/smashed-toes)
 - [Henry Blackburn](https://github.com/Heno08)
 - [Ared Xiao](https://github.com/Ared-go)
