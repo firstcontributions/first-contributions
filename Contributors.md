@@ -1,6 +1,7 @@
 # Contributors
    [Bista]  
 - [Shaqeeb Akhtar](https://github.com/shaqeebakhtar)
+- [Bivia Allan](https://github.com/briviamoon)
 - [Prajwal patil](https://github.com/prajwal-26)
 - [Neaha Bijo](https://github.com/Neaha-Bijo)
 - [Karanjot Singh](https://github.com/karanjot786)
