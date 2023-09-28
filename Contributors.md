@@ -2706,10 +2706,12 @@ T7
 - Pizzacat
 - bye-friends
 - [Akshansh Sharma](https://github.com/Tombstoner)
-[Wachiou BOURAÏMA](https://github.com/WassCodeur)
-[Amit Singh](https://github.com/AmitSingh-5600)
--[Moeletsi Jason Nkuna](https://github.com/Moeletsi47)
--[Peter](https://github.com/peterlianpi)
--[Lang F](https://github.com/A-Nobel)
--[techofirst]
--[Anuraj Shukla](https://github.com/anurajshukla)
+- [Wachiou BOURAÏMA](https://github.com/WassCodeur)
+- [Amit Singh](https://github.com/AmitSingh-5600)
+- [Moeletsi Jason Nkuna](https://github.com/Moeletsi47)
+- [Peter](https://github.com/peterlianpi)
+- [Lang F](https://github.com/A-Nobel)
+- [techofirst]
+- [Anuraj Shukla](https://github.com/anurajshukla)
+- [Kartik Patil] (https://github.com/krtk-ptl)
+  
