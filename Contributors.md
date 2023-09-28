@@ -2743,3 +2743,4 @@ T7
 - [Bartosz Kluczewski](https://github.com/Derty990)
 [Md. Tohedul Islum](https://github.com/tohedul)
 - [Mikhail Sharov](https://github.com/MikhailSharov)
+- [Juan Diaz-Franco](https://github.com/JcDiaz5)
