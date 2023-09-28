@@ -452,6 +452,7 @@ Sino Felicity Zwane
 - [Ini. Duff <CIDD />](https://github.com/duffygoogle)
 - Atharva Gaikwad
 - [Suhas B G](https://github.com/SuhasBG)
+- [Biswanath Banik](https://github.com/bbanik)
 - [Vincent Cueva](https://github.com/VincentCueva)
 - [Nicholas-Garbutt](https://github.com/Nicholas-Garbutt)
 - [Vita Golubovska](https://github.com/Golubko)
