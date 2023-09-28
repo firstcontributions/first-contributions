@@ -2,6 +2,7 @@
    [Bista]  
 - [Shaqeeb Akhtar](https://github.com/shaqeebakhtar)
 - [Prajwal patil](https://github.com/prajwal-26)
+- [Neaha Bijo](https://github.com/Neaha-Bijo)
 - [Karanjot Singh](https://github.com/karanjot786)
 - [Alex Chen](https://github.com/alexchen2) 
 - [Abhinav Puri](https://github.com/Abhinav16072001)
