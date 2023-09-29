@@ -1,4 +1,5 @@
 # Contributors
+- [1amkaizen](https://github.com/1amkaizen)
 - [Masoud Farmani](https://github.com/MasoudIV)
 - [Olowo Jude](https://github.com/olowojude)
 - [Ebube Onwuta](https://github.com/Ebuube)
