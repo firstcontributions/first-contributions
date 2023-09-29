@@ -1997,6 +1997,7 @@ Akash Abraham
 - [Surya](https://github.com/suryanva)
 - [suin](https://github.com/suin-d)
 - [Harrison Jones](https://github.com/harrisonJones12)
+- [Enmanuel](https:github.com/elagaresm)
 - [Furkan Kir](https://github.com/furkankir)
 - [Thin H Han](https://github.com/thinhtoohan)
 - [James Holdsworth](https://github.com/J-Holdsworth)
