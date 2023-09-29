@@ -97,6 +97,7 @@
 - tton
 - [Gabriel M]
 - [k-velvet-p] (https://github.com/K-velvet-P)
+- [Egai-Osowor] (https://github.com/egaiosowor)
 - [Nikhil Singh](https://github.com/codewithnick)
 - [Dominik Alexa](https://github.com/devdom90)
 - [Ninad Tashildar](https://github.com/ndtashildar)
@@ -1725,6 +1726,7 @@ Nikhil R
 - [Rohit Kumar](https://github.com/Ironblade1)
 - [Anthony Mwaura](https://github.com/Anthony11-hub)
 - [Vansh Chopra](https://github.com/vanshavenger)
+- [Rosalyn Wimberly](https://github.com/rosalynw)
 - [Julie S](https://github.com/Julie-S2020)
 - [Shaikh Imtiar Rahaman](https://github.com/ShaikhImtiarRahaman)
 - [Sasiru Ravihansa](https://github.com/sasirura)
@@ -2657,6 +2659,7 @@ Akash Abraham
 - [Evgeny Myasnikov] (https://github.com/justatrade)
 - [NesVII] (https://github.com/NesVII)
 - [Noy10] (https://github.com/NOY10)
+- [Federico Menegoz] (https://github.com/FedericoMenegoz)
 - [SunGodNika]
 - [LKanan] (https://github.com/LKanan)
 -[R. Varshinee]https://github.com/RVarshinee
