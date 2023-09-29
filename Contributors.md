@@ -2765,6 +2765,7 @@ T7
 [Md. Tohedul Islum](https://github.com/tohedul)
 - [Mikhail Sharov](https://github.com/MikhailSharov)
 - [Juan Diaz-Franco](https://github.com/JcDiaz5)
+- [Kumar Shivesh](https://github.com/kumarshivesh)
 - [Rainstorm108](https://github.com/RainStorm108)
 - [Manoj](Nice to meet you all)
 - [Ruth Naibei](https://github.com/RuthNaibei)
