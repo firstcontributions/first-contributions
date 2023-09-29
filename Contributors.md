@@ -170,6 +170,7 @@
 - [Oluwafunmike Adeyeye](https:github.com/Oluwafunmike-adeyeye)
 - [Hebert Pratama](https://github.com/heberttt)
 - [Ama Agyemang-Duah](https://github.com/amathestar)
+- [Bushra Shaikh](https://github.com/bushras017)
 - [tjdove](https://github.com/tjdove)
 - [Rahul Kumar](https://github.com/rahul9852-dot)
 - [Naveen kumar (fream)](https://github.com/0EnIgma1)
