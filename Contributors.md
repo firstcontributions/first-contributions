@@ -2015,6 +2015,7 @@ Akash Abraham
 - [Teo Vilenskiy](https://github.com/xxvnt4)
 - [Csanad Balla](https://github.com/Csanad-Balla)
 - [Shivam Patel](https://github.com/Shivam1111111)
+- [Vishal](https://github.com/vishu567)
 - [Brick](https://github.com/rickard0)
 - [Surya](https://github.com/suryanva)
 - [suin](https://github.com/suin-d)
