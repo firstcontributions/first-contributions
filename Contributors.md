@@ -2625,6 +2625,7 @@ Akash Abraham
 - [Brandon Kieng] (https://github.com/BrandonK182)
 - [Ibrahim Alfa](https://github.com/I-Alpha)
 - [Oscar Vaquera](https://github.com/vaqueraoscar0)
+- [Ren Chen](https://github.com/renChenTheProgrammer)
 - [Ajit Krishnamoorthy](https://github.com/ajit-krishnamoorthy)
 - [Ronaldi] (https://github.com/RonaldiVX1)
 - [lazym0on] (https://github.com/lazym0on)
