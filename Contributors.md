@@ -92,6 +92,7 @@
 - tton
 - [Gabriel M]
 - [k-velvet-p] (https://github.com/K-velvet-P)
+- [Nikhil Singh](https://github.com/codewithnick)
 - [Dominik Alexa](https://github.com/devdom90)
 - [Ninad Tashildar](https://github.com/ndtashildar)
 -[Ayush](https://github.com/Ayush7903)
@@ -152,6 +153,7 @@
 - [Michael S]
 -[Somu](https://github.com/Somu878)
 - [Wasy](https://github.com/Wasy18)
+- [Manish Kumar](https://github.com/Manish500343)
 - [Madhushi](https://github.com/MadhushiUdeshika)
 - [Hajar Skalli-Houssaini](https://github.com/HaSH147)
 - [Shamanth KN](https://github.com/shamanthkn5)
@@ -2588,6 +2590,7 @@ Akash Abraham
 - [KhaingKyawMin] (https://github.com/kkm1991)
 - [kaif-khan](https://github.com/shadowfaxx1)
 - [asad-ahmed](https://github.com/asadjalbani)
+- [bidyasagar-mohapatra](https://github.com/bidyasagaranupam)
 - [Double-think](https://github.com/doublethink-bps)
 - [Manuel Zorrilla](https://github.com/manuelzorrilladev)
 - [Kashish Jain](https://github.com/jkashish18)
