@@ -1,4 +1,5 @@
 # Contributors
+- [Enrique Garcia](https://github.com/Enriquegarcia-ci)
 - [1amkaizen](https://github.com/1amkaizen)
 - [Harshal Patil](https://github.com/HarshalRajendraPatil)
 - [Mayank Gupta](https://github.com/mayankg-me)
