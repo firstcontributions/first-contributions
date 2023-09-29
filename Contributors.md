@@ -1,7 +1,8 @@
 # Contributors
 - [Abhinay singh](https://github.com/Abhinay123Singh)
 - [Michael Ojogbo] (https://github.com/90splayer)
-   [Bista]  
+   [Bista]
+-[Sub RC}(https://github.com/Sarcee23)  
 - [Shaqeeb Akhtar](https://github.com/shaqeebakhtar)
 - [Diwash Bhattarai](https://github.com/diwashbhattarai999)
 - [Bivia Allan](https://github.com/briviamoon)
