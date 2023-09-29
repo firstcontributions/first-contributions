@@ -51,6 +51,7 @@
 - [Pratham Purohit](https://github.com/prathammpurohit)
 - [Chris Lin](https://github.com/clin34)
 - [Smruti Ranjan Sahu](https://github.com/HunterX18)
+- [Ebenezer Ebuka Ifezulike](https://github.com/Ebenezer-ebu)
 [Amber](https://github.com/ars1256)
 [Anik](https://github.com/anikagarwa12)
 - [alamin655](https://github.com/alamin655)
