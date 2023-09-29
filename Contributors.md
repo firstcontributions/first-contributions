@@ -1,4 +1,5 @@
 # Contributors
+- [Mayank Gupta](https://github.com/mayankg-me)
 - [Masoud Farmani](https://github.com/MasoudIV)
 - [Olowo Jude](https://github.com/olowojude)
 - [Ebube Onwuta](https://github.com/Ebuube)
