@@ -1,4 +1,5 @@
 # Contributors
+- [Jervin Alejandro](https://github.com/JervinAlejandro)
 - [Enrique Garcia](https://github.com/Enriquegarcia-ci)
 - [1amkaizen](https://github.com/1amkaizen)
 - [Harshal Patil](https://github.com/HarshalRajendraPatil)
