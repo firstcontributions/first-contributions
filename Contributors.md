@@ -22,6 +22,7 @@
 - [Abhinav Puri](https://github.com/Abhinav16072001)
 - [Emilly Tiampati](https://github.com/sereyatiampati)
 - [Meron_Endris](https://github.com/MeronMEndris)
+- [Arjit Kedia](https://github.com/combfreak45)
 - [Aditya Dhaduk] (https://github.com/Aditya2814)
 - [Aarone George](https://github.com/AaroneGeorge)
 - [Adeola Ojekunle](https://github.com/adeola-code)
