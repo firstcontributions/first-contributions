@@ -997,6 +997,7 @@ Nikhil R
 - [Abdullah Hazuri](https://github.com/abdhazouri00)
 - [BilgehanMehmet](https://github.com/BilgehanMehmet)
 - [Henry Blackburn](https://github.com/Heno08)
+- [Okorie Jane Ezinne](https://github.com/jane-ez)
 - [Campego](https://github.com/Campego)
 - [Samagra Barnwal](https://github.com/samagrabarnwal)
 - [David-S](https://github.com/Deastyn)
