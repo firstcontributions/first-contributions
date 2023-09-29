@@ -96,6 +96,7 @@
 - [Juan Pablo Alvarado](https://github.com/juancodeaudio)
 - [Paul Rose] (https://github.com/ptrose78)
 - [Osho Iseoluwa](https://github.com/theCephas)
+- [Bhavy Jain](https://github.com/Bhavy457)
 - [Nivea Hanley](https://github.com/niv-png)
 - [Rohit Kavitake](https://github.com/Rohit-Kavitake)
 - [Parth Bijpuriya](https://github.com/parth656)
