@@ -1,5 +1,6 @@
 # Contributors
 - [Masoud Farmani](https://github.com/MasoudIV)
+- [Olowo Jude](https://github.com/olowojude)
 - [Ebube Onwuta](https://github.com/Ebuube)
 - [Abhinay singh](https://github.com/Abhinay123Singh)
 - [Michael Ojogbo] (https://github.com/90splayer)
