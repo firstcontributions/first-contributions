@@ -2763,3 +2763,4 @@ T7
 - [Juan Diaz-Franco](https://github.com/JcDiaz5)
 - [Rainstorm108](https://github.com/RainStorm108)
 - [Manoj](Nice to meet you all)
+- [Pedro Rivera](https://github.com/ElitePete)
