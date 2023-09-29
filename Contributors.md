@@ -2742,21 +2742,6 @@ T7
 - [Yunfei](https://github.com/Yunfei-Ma-McMaster)
 - [Maceo] (https://github.com/maceoCK)
 - [Mariano] (https://github.com/marians91)
-- Pizzacat
-- Pizzacat
-- Pizzacat
-- Pizzacat
-- Pizzacat
-- Pizzacat
-- Pizzacat
-- Pizzacat
-- Pizzacat
-- Pizzacat
-- Pizzacat
-- Pizzacat
-- Pizzacat
-- Pizzacat
-- bye-friends
 - [Akshansh Sharma](https://github.com/Tombstoner)
 [Wachiou BOURAÏMA](https://github.com/WassCodeur)
 [Amit Singh](https://github.com/AmitSingh-5600)
@@ -2779,3 +2764,4 @@ T7
 - [Koduri Mohan](https://github.com/kodurimohan)
 - [Robert Knapek](https://github.com/steernick)
 - [Nour Rajeh](https://github.com/itsnourr)
+- [Darshan BS](https://github.com/bs-darshan)
