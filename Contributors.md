@@ -57,6 +57,7 @@
 - [Aashish Mishra](https://github.com/Gowther03)
 - [Alex GeoDev](https://github.com/alex-geodev)
 - [Shoaib Wani](https://github.com/Pyloris)
+- [Arslan Boulafrad](https://github.com/therealazzy)
 - [Ashley Mical](https://github.com/micamash)
 - [Biswajit Mishra](https://github.com/cxbiswajit)
 - [Mohith N](https://github.com/Mhith)
