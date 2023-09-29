@@ -2766,3 +2766,4 @@ T7
 - [Manoj](Nice to meet you all)
 - [Ruth Naibei](https://github.com/RuthNaibei)
 - [Pedro Rivera](https://github.com/ElitePete)
+- [Ameya Shahu](https://github.com/ameya-shahu)
