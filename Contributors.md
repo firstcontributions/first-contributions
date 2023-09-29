@@ -1,5 +1,5 @@
 # Contributors
-1amkaizen
+- [1amkaizen](https://github.com/1amkaizen)
 - [Mayank Gupta](https://github.com/mayankg-me)
 - [Vaibhav Patil](https://github.com/VaibhavAPatil)
 - [Masoud Farmani](https://github.com/MasoudIV)
