@@ -1202,6 +1202,7 @@ Nikhil R
 - [Raj sharma](https://github.com/lluciferr)
 - [Conaitus](https://github.com/conaitus)
 - [Andrea Garces](https://github.com/AGarcesS)
+- [Aleksandar Kolev] (<https://github.com/aKolev287>)
 - [OpherM](https://github.com/OpherM)
 - [Sadegh Qarehgholpaghi](https://github.com/im-zack)
 - [Fhmisml](https://github.com/fhmlsml)
