@@ -1,4 +1,5 @@
 # Contributors
+- [Vaibhav Patil](https://github.com/VaibhavAPatil)
 - [Masoud Farmani](https://github.com/MasoudIV)
 - [Olowo Jude](https://github.com/olowojude)
 - [Ebube Onwuta](https://github.com/Ebuube)
