@@ -14,6 +14,7 @@
 - [Karanjot Singh](https://github.com/karanjot786)
 - [Felipe Alves](https://github.com/felpsalvs)
 - [Alex Chen](https://github.com/alexchen2) 
+- [Peter Faretra] (https://github.com/peterston-e)
 - [Abhinav Puri](https://github.com/Abhinav16072001)
 - [Emilly Tiampati](https://github.com/sereyatiampati)
 - [Meron_Endris](https://github.com/MeronMEndris)
