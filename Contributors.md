@@ -2507,6 +2507,7 @@ Akash Abraham
 - [pggg]
 - [CrimsonStarkane](https://github.com/CrimsonStarkane)
 - [janjarobo](https://github.com/janjarobo)
+- [Onosemuode Ikuesiri Kola](https://github.com/ikuesiri)
 - [Simardeep Singh](https://github.com/SimardeepSingh-zsh)
 - [Sebastian Barison](https://github.com/Sbarison)
 - [Evan Glaze](https://github.com/The-Angry-Bagel)
