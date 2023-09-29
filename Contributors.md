@@ -91,6 +91,7 @@
 - tton
 - [Gabriel M]
 - [k-velvet-p] (https://github.com/K-velvet-P)
+- [Nikhil Singh](https://github.com/codewithnick)
 - [Dominik Alexa](https://github.com/devdom90)
 - [Ninad Tashildar](https://github.com/ndtashildar)
 -[Ayush](https://github.com/Ayush7903)
