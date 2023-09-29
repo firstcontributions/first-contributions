@@ -2145,6 +2145,7 @@ Akash Abraham
 - [Adam Stephens](https://github.com/stender11)
 - [S RAMANAN](https://github.com/S-Ramanan)
 - [Gu Octans](https://github.com/tjxn230)
+- [Mihir Panpatil](https://github.com/MihirPanpatil)
 - [Muhammad Ali](https://github.com/MuhammadAli13562)
 - [HirakinAndr](https://github.com/HirakinAndr)
 - [Karthik Murali](https://github.com/karthikmurali60)
