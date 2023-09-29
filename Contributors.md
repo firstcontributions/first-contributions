@@ -413,6 +413,7 @@ Sino Felicity Zwane
 - [Nishant Shinde] (https://github.com/nishant-s7)
 - [obiwancanoli]("https://github.com/obiwancanoli")
 - [Dio Rizqi](https://github.com/diorizqi404)
+- [Kevin Donovan](https://github.com/KevDonovan)
 -[Alleah Lyzet Ulpindo](https://github.com/psuuc-alsulpindo)
 - [Marcel Ruth] (https://github.com/MarcelRuth)
 - [MichaelAngelo]
