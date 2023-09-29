@@ -601,6 +601,7 @@ Sino Felicity Zwane
 - [Harpreet Singh Sahota](https://github.com/happysahota)
 - [kevin1010607](https://github.com/kevin1010607)
 - [Anuj Mohite](https://github.com/anujrmohite)
+- [Stella Gu](https://github.com/Stella-Gu)
 - [Vincent Lim] (https://github.com/VincentLim-Dev)
 - [double835](https://github.com/double835)
 - [Agrim Saharia](https://github.com/agrimsaharia)
