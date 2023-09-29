@@ -11,6 +11,7 @@
    [Bista]
 - [Alexandre Godoy Peres](https://github.com/AlexandreP23)  
 - [Shaqeeb Akhtar](https://github.com/shaqeebakhtar)
+- [Divyanshu Gupta](https://github.com/Divyanshu723)
 - [Diwash Bhattarai](https://github.com/diwashbhattarai999)
 - [Bivia Allan](https://github.com/briviamoon)
 - [Prajwal patil](https://github.com/prajwal-26)
