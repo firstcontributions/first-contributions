@@ -2826,3 +2826,4 @@ T7
 - [Dazzler Abhi](https://github.com/dazzlerabhi30800)
 - Glovvie
 - [Smashed](https://github.com/smashed)
+- [Rishabh Kaushik](https://github.com/maniacGhost24)
