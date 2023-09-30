@@ -1,4 +1,5 @@
 # Contributors
+- [Nischal Mudennavar](https://github.com/nischalmudennavar)
 - [Karanjot Singh](https://github.com/karanjot786)
 - [Jervin Alejandro](https://github.com/JervinAlejandro)
 - [Enrique Garcia](https://github.com/Enriquegarcia-ci)
