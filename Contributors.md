@@ -135,6 +135,7 @@
 - [Aditya Singhal](https://github.com/Aditya-singhal03)
 - [Abdishakur Yusuf](https://github.com/AbdishakourY)
 - [Scott Starks](https://github.com/thetramp22)
+- [Israel Zorzor](https://github.com/Hammondziggy)
 - [Vinayak Raj](https://github.com/vinayakmraj)
 - [Sebastian Gomez V](https://github.com/segpy)
 - [shanmukh sai](https://github.com/shanmukh-sai2003)
