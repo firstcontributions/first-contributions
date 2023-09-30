@@ -1,5 +1,4 @@
 # Contributors
-- [Karanjot Singh](https://github.com/karanjot786)
 - [Jervin Alejandro](https://github.com/JervinAlejandro)
 - [Enrique Garcia](https://github.com/Enriquegarcia-ci)
 - [Mary Mdukaza](https://github.com/MaryMdukaza)
@@ -10,6 +9,7 @@
 - [Mayank Gupta](https://github.com/mayankg-me)
 - [Vaibhav Patil](https://github.com/VaibhavAPatil)
 - [Masoud Farmani](https://github.com/MasoudIV)
+- [Mats Muller](https://github.com/AM800Mats)
 - [Olowo Jude](https://github.com/olowojude)
 - [Kelechi Amos](https://github.com/kellyncodes)
 - [Ebube Onwuta](https://github.com/Ebuube)
