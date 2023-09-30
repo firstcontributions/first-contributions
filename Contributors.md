@@ -1393,6 +1393,7 @@ Nikhil R
 - [carla-ng](https://github.com/carla-ng)
 - [Sanket patil](https://github.com/sanket1one)
 - [Eliza Huang](https://github.com/elizahuang/)
+- [Kelvin Obidozie](https://github.com/softkeldozy/)
 - [Victoria Bruno](https://github.com/Victoria-Bruno)
 - [Alvin Su](https://github.com/aksu-github)
 - [Carmina Lamit](https://github.com/carminalamit)
