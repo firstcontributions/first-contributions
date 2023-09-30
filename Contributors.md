@@ -310,6 +310,7 @@ JialingYU
 - [Diego Arriaga](https://github.com/GOGOARRIAGA)
 - [Emmanuella Okafor](https://github.com/nuelladev)
 - [Woon Koh](https://github.com/kohwdev)
+- [Wang Xue Rui](https://github.com/wangxuerui2003)
 - Meraj Sheikh
 - Jaime Juarbe
 - [Eyal Yarden](https://github.com/eyalya1)
