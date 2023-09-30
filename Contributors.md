@@ -2819,6 +2819,7 @@ T7
 - [Kumar Shivesh](https://github.com/kumarshivesh)
 - [Rainstorm108](https://github.com/RainStorm108)
 - [Manoj](Nice to meet you all)
+- [Gabriel De Paula](https://github.com/depoultry)
 - [Ruth Naibei](https://github.com/RuthNaibei)
 - [Pedro Rivera](https://github.com/ElitePete)
 - [Ameya Shahu](https://github.com/ameya-shahu)
