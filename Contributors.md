@@ -1378,6 +1378,7 @@ Nikhil R
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
 - [Christian Hicks](https://github.com/chicks-dev)
 - [Thorben Buenger](https://github.com/FourtySeven047)
+- [ovidiuoc](https://github.com/ovidiuoc)
 - [Malavya Raval](https://github.com/MalavyaRaval)
 - [Levin Baria](https://github.com/levinbaria)
 - [José Ortiz-Ocampo](https://github.com/jhortizo)
