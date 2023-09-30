@@ -4,6 +4,7 @@
 - [Mary Mdukaza](https://github.com/MaryMdukaza)
 - [1amkaizen](https://github.com/1amkaizen)
 - [Gustavo Keller](https://github.com/eugustavokeller)
+- [Chaitanya Mudaddala](https://github.com/cmchaitu)
 - [Harshal Patil](https://github.com/HarshalRajendraPatil)
 - [Mayank Gupta](https://github.com/mayankg-me)
 - [Vaibhav Patil](https://github.com/VaibhavAPatil)
