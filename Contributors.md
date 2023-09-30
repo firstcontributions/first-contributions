@@ -1,6 +1,7 @@
 # Contributors
 - [Jervin Alejandro](https://github.com/JervinAlejandro)
 - [Enrique Garcia](https://github.com/Enriquegarcia-ci)
+- [Mary Mdukaza](https://github.com/MaryMdukaza)
 - [1amkaizen](https://github.com/1amkaizen)
 - [Gustavo Keller](https://github.com/eugustavokeller)
 - [Harshal Patil](https://github.com/HarshalRajendraPatil)
@@ -11,7 +12,7 @@
 - [Ebube Onwuta](https://github.com/Ebuube)
 - [Abhinay singh](https://github.com/Abhinay123Singh)
 - [Michael Ojogbo] (https://github.com/90splayer)
-   [Bista]
+   [Bista] 
 - [Alexandre Godoy Peres](https://github.com/AlexandreP23)  
 - [Shaqeeb Akhtar](https://github.com/shaqeebakhtar)
 - [Divyanshu Gupta](https://github.com/Divyanshu723)
