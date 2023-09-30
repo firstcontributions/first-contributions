@@ -75,6 +75,7 @@
 [Amber](https://github.com/ars1256)
 [Anik](https://github.com/anikagarwa12)
 - [alamin655](https://github.com/alamin655)
+- [nvs0108](https://github.com/nvs0108)
 - [Hamzaa Shah](https://github.com/Hamjaster)
 - [Siphamandla Mazibuko](https://github.com/fawkesdbs)
 - [Deyan Sarahoshev](https://github.com/dnshouse)
