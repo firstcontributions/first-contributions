@@ -10,6 +10,7 @@
 - [Mayank Gupta](https://github.com/mayankg-me)
 - [Vaibhav Patil](https://github.com/VaibhavAPatil)
 - [Masoud Farmani](https://github.com/MasoudIV)
+- [Mats Muller](https://github.com/AM800Mats)
 - [Olowo Jude](https://github.com/olowojude)
 - [Kelechi Amos](https://github.com/kellyncodes)
 - [Ebube Onwuta](https://github.com/Ebuube)
