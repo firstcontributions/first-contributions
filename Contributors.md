@@ -1994,6 +1994,7 @@ Akash Abraham
 - [Anushka Saxena](https://github.com/anushkasaxena27)
 - [Abdelali Abouelhassan](https://github.com/abdelaliabouelhassan)
 - [Nicholas Anich](https://github.com/NicholasAnich)
+- [Kyle Kirts](https://github.com/kylekirts)
 - [Nabil Noh](https://github.com/mrnabilnoh)
 - [Aaron Rock Menezes](https://github.com/aaronrockmenezes)
 - [Snehashish Ghosh](https://github.com/snehashish-ghosh98)
