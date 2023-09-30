@@ -261,6 +261,7 @@ JialingYU
 - [Resul Elezi](https://github.com/resul-elezi)
 - [Shaquille Arriza Hidayat](https://github.com/Quillzyy)
 - [Piolo Umayam](https://github.com/PiolovesU)
+- [Kalpit Jare] (https://github.com/kalpitjare118)
 - [Usenmfon Uko](https://github.com/Usenmfon)
 - [Programmer24680](https://github.com/programmer24680)
 - [Nikhil Gudur](https://github.com/nikhilgudur)
