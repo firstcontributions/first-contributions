@@ -2,6 +2,7 @@
 - [Jervin Alejandro](https://github.com/JervinAlejandro)
 - [Enrique Garcia](https://github.com/Enriquegarcia-ci)
 - [1amkaizen](https://github.com/1amkaizen)
+- [Gustavo Keller](https://github.com/eugustavokeller)
 - [Harshal Patil](https://github.com/HarshalRajendraPatil)
 - [Mayank Gupta](https://github.com/mayankg-me)
 - [Vaibhav Patil](https://github.com/VaibhavAPatil)
