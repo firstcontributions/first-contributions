@@ -225,6 +225,7 @@ Pizzacat
 - [Arnav V](https://github.com/Arnav17v/)
 - [Timothy Kwok](https://github.com/timmywimmy95/)
 - [Moritz Sontheimer](https://github.com/mojoee)
+- [Oscar3334](https://github.com/Oscar3334)
 - EUGezzzzezzzz
 - [Hari R](https://github.com/uusername001)
 - [jcostadev23](https://github.com/jcostadev23/)
