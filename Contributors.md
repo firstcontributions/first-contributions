@@ -18,6 +18,7 @@
 - [Diwash Bhattarai](https://github.com/diwashbhattarai999)
 - [Amit Rajput](https://github.com/AmitRajput1772)
 - [Bivia Allan](https://github.com/briviamoon)
+- [Varshan A V R](https://github.com/avr-varshan)
 - [Prajwal patil](https://github.com/prajwal-26)
 - [Neaha Bijo](https://github.com/Neaha-Bijo)
 - [Karanjot Singh](https://github.com/karanjot786)
