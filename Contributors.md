@@ -12,7 +12,7 @@
 - [Ebube Onwuta](https://github.com/Ebuube)
 - [Abhinay singh](https://github.com/Abhinay123Singh)
 - [Michael Ojogbo] (https://github.com/90splayer)
-   [Bista]
+   [Bista] 
 - [Alexandre Godoy Peres](https://github.com/AlexandreP23)  
 - [Shaqeeb Akhtar](https://github.com/shaqeebakhtar)
 - [Divyanshu Gupta](https://github.com/Divyanshu723)
