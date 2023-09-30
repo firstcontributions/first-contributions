@@ -2020,6 +2020,7 @@ Akash Abraham
 - [Paúl Millanes](https://github.com/PaulMilMor)
 - [UsernameNotCopied](https://github.com/UsernameNotCopied/)
 - [Ishaan Kapoor](https://github.com/kapoor-ishaan/)
+- [Chan Dinh](https://github.com/dinhhoangbaochan)
 - [Sunny Hemdev](https://github.com/sunny151091/)
 - [Sanyam Mahajan](https://github.com/09-hrick/)
 - [Joshi Bhavya](https://github.com/Bhavya0304)
