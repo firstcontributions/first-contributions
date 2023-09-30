@@ -15,6 +15,7 @@
    [Bista] 
 - [Alexandre Godoy Peres](https://github.com/AlexandreP23)  
 - [Shaqeeb Akhtar](https://github.com/shaqeebakhtar)
+- [Aazath Abdul Salam](https://github.com/aazath)
 - [Divyanshu Gupta](https://github.com/Divyanshu723)
 - [Diwash Bhattarai](https://github.com/diwashbhattarai999)
 - [Amit Rajput](https://github.com/AmitRajput1772)
