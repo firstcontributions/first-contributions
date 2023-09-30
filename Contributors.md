@@ -1,6 +1,7 @@
 # Contributors
 - [Jervin Alejandro](https://github.com/JervinAlejandro)
 - [Enrique Garcia](https://github.com/Enriquegarcia-ci)
+- [Mary Mdukaza](https://github.com/MaryMdukaza)
 - [1amkaizen](https://github.com/1amkaizen)
 - [Gustavo Keller](https://github.com/eugustavokeller)
 - [Harshal Patil](https://github.com/HarshalRajendraPatil)
