@@ -31,6 +31,7 @@
 - [Bivia Allan](https://github.com/briviamoon)
 - [Varshan A V R](https://github.com/avr-varshan)
 - [Prajwal patil](https://github.com/prajwal-26)
+- [Ana Casia Figueiredo Invernizzi](https://github.com/ana-cassia-invernizzi)
 - [Neaha Bijo](https://github.com/Neaha-Bijo)
 - [Karanjot Singh](https://github.com/karanjot786)
 - [Felipe Alves](https://github.com/felpsalvs)
