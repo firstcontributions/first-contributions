@@ -2823,3 +2823,4 @@ T7
 - [Rajan Paudel](https://github.com/rajan-poudel)
 - [Dazzler Abhi](https://github.com/dazzlerabhi30800)
 - Glovvie
+- [Rishabh Kaushik](https://github.com/maniacGhost24)
