@@ -884,6 +884,7 @@ Nikhil R
 - [Ayush Kumar Sinha](https://github.com/aks151)
 - [Sushibears](https://github.com/Sushibears)
 - [John Mburu](https://github.com/techstrix)
+- [Bishal Jena](https://github.com/bishal-jena)
 - [Pixel Bit](https://github.com/Mproot)
 - [Abdullah Sulaiman](https://github.com/CodeMage-x)
 - [Muhammad Usman](https://github.com/MuhammadUsman15/first-contributions)
@@ -2804,3 +2805,4 @@ T7
 - [Robert Knapek](https://github.com/steernick)
 - [Nour Rajeh](https://github.com/itsnourr)
 - [Rajan Paudel](https://github.com/rajan-poudel)
+
