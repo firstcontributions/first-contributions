@@ -49,6 +49,7 @@
 - [Gokul](https://github.com/Gokul2003g)
 - [Jonathan Mbiya](https://github.com/JonathanMbiya)
 - [Pavan Kalyan](https://github.com/Pavan782)
+- [Rishav Kumar](https://github.com/rishavnitjsr)
 - [Arnav Kumar](https://github.com/OverRevvv)
 - [Subham Mohapatra](https://github.com/techysubham)
 - [Lohith Kotni](https://github.com/lohitkotni)
