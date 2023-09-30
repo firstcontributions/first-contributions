@@ -19,7 +19,8 @@
 - [Abhinay singh](https://github.com/Abhinay123Singh)
 - [Michael Ojogbo] (https://github.com/90splayer)
    [Bista] 
-  [Anshul Namdev] (https://github.com/Anshun352)
+  [Ritik Jain](https://github.com/PANDACR)
+   [Anshul Namdev] (https://github.com/Anshun352)
 - [Alexandre Godoy Peres](https://github.com/AlexandreP23)  
 - [Shaqeeb Akhtar](https://github.com/shaqeebakhtar)
 - [Aazath Abdul Salam](https://github.com/aazath)
