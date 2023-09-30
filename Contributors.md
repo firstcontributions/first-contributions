@@ -2792,6 +2792,7 @@ T7
 -[techofirst]
 -[Anuraj Shukla](https://github.com/anurajshukla)
 -[Iliyas Khan](https://github.com/khaniliyas)
+- [Sameer Wadhwa](https://github.com/sameerwadhwa123)
 - [Bartosz Kluczewski](https://github.com/Derty990)
 [Md. Tohedul Islum](https://github.com/tohedul)
 - [Mikhail Sharov](https://github.com/MikhailSharov)
