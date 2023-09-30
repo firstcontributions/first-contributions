@@ -450,6 +450,7 @@ Sino Felicity Zwane
 - [Ian Putter](https://github.com/Neoforest)
 - [Malte Maximilian Franke](https://github.com/Aphroe)
 - [xiunian](https://xiunian.github.io)
+- [Kiel Nofies] (https://github.com/KaelnDev)
 - [Abdullahi Salaudeen](https://github.com/TheOnlyAbdull)
 - [Leonardo Rodriguez](https://github.com/LRodriguez92)
 - [Ryan Lembo-Ehms](https://github.com/rjle301)
