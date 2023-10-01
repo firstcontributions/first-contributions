@@ -360,6 +360,7 @@ JialingYU
 - [UmbraViva] (https://github.com/UmbraViva)
 -[Francis Alex Darang](https://github.com/HappyCodingss)
 -[Felipe Penner dos Santos](https://github.com/Ainasas)
+- [Torsten Bergersen] (https://github.com/torstenbergersen)
 - [Zavier Chambers](https://github.com/ZavierChambers)
 - [Resul Elezi](https://github.com/resul-elezi)
 - [Shaquille Arriza Hidayat](https://github.com/Quillzyy)
