@@ -1,6 +1,7 @@
 # Contributors
 - [Musa Ozcetin]
 - [Nischal Mudennavar ](https://github.com/nischalmudennavar)
+-[Himanshu Nanda](https://github.com/himanshunanda22)
 - [Taniya Souza](https://github.com/chemicoholic21)
 - [Karanjot Singh](https://github.com/karanjot786)
 - [Jervin Alejandro](https://github.com/JervinAlejandro)
