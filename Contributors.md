@@ -2700,6 +2700,7 @@ Akash Abraham
 - [Logan Wright] (https://github.com/itstherampage)
 - [M-110] (https://github.com/m-110)
 - [jc19] (https://github.com/joonbot1999)
+- [nischay] (https://github.com/nischay-chauhan)
 - [Bincy] (https://github.com/BincyNizam-lab/)
 - [XLoganxmenX] (https://github.com/XLoganxmenX/)
 - [Eren Arda Kaplan](https://github.com/drdemon12)
