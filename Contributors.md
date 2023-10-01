@@ -269,6 +269,7 @@ Amar Ranjan
 - [Yusuf Uzun] (https://github.com/Yusi94)
 Pizzacat
 Pizzacat
+- [Chandrashekhar Mehta](https://github.com/mehtachandrashekhar)
 - [Dean Macaulay](https://github.com/deanmac5)
 - [Daniel Guillen](https://github.com/djg3577)
 - [Ramez Gabra](https://github.com/ramezgabra)
