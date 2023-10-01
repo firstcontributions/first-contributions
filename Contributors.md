@@ -2882,6 +2882,7 @@ T7
 - [Maceo] (https://github.com/maceoCK)
 - [Mariano] (https://github.com/marians91)
 - [Akshansh Sharma](https://github.com/Tombstoner)
+- [Kartik Patil] (https://github.com/krtk-ptl)
 [Wachiou BOURAÏMA](https://github.com/WassCodeur)
 [Amit Singh](https://github.com/AmitSingh-5600)
 -[Moeletsi Jason Nkuna](https://github.com/Moeletsi47)
