@@ -4,6 +4,7 @@
 - [Himanshu Gaur](https://github.com/Gaur2025)
 - [Bojidar Vladimirov](https://github.com/BojkaV)
 - [Musa Ozcetin]
+
 - [Nischal Mudennavar ](https://github.com/nischalmudennavar)
 - [Ahmed Ryan](https://github.com/ahmedryanfaiyaz)
 -[Himanshu Nanda](https://github.com/himanshunanda22)
@@ -1500,6 +1501,7 @@ Nikhil R
 - [Sarthak Deshpande](https://github.com/cheesecake100201/)
 - [Gargi Sontakke](https://github.com/gargi-so)
 - [Mark Bagby](https://github.com/m-bagby)
+- [Abhishek Patel] (https://github.com/itsabhishekpatel01)
 - [Anushree Singhal](https://github.com/anushreee666)
 - [Idzanaagi](https://github.com/Idzanaagi)
 - [xfragrance](https://github.com/Xfragrance)
