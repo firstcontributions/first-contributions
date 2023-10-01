@@ -21,6 +21,7 @@
 - [Ebube Onwuta](https://github.com/Ebuube)
 - [Pratham Dhiman](https://github.com/Pratham86)
 - [Abhinay singh](https://github.com/Abhinay123Singh)
+- [Nidhi Kumari](https://github.com/nk12nidhi12)
 - [Nandini Arora](https://github.com/Nandiniar)
 - [Michael Ojogbo] (https://github.com/90splayer)
    [Bista] 
