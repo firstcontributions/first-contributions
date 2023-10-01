@@ -2,7 +2,7 @@
 - [Musa Ozcetin]
 - [Nischal Mudennavar ](https://github.com/nischalmudennavar)
 - [Ahmed Ryan](https://github.com/ahmedryanfaiyaz)
--[Himanshu Nanda](https://github.com/himanshunanda22)
+-[Bhaven Rathod](https://github.com/rbhaven)
 - [Taniya Souza](https://github.com/chemicoholic21)
 - [Karanjot Singh](https://github.com/karanjot786)
 - [Jervin Alejandro](https://github.com/JervinAlejandro)
