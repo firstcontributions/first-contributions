@@ -144,6 +144,7 @@
 - [Nivea Hanley](https://github.com/niv-png)
 - [Rohit Kavitake](https://github.com/Rohit-Kavitake)
 - [Parth Bijpuriya](https://github.com/parth656)
+- [Yash Raj Singh](https://github.com/yashrajsingh30)
 - [Tommy Shiels](https://github.com/tshiels)
 - [CallumReilly] (https://github.com/calumariy)
 - [NicholeWhatcott] (https://github.com/hotmessmonster)
