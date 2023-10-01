@@ -2711,7 +2711,7 @@ Akash Abraham
 - [Kai Kim](https://github.com/KaiKimiOS)
 - [Manas Vyas](https://github.com/manas511)
 - [Hiral Soni](https://github.com/hiralsonip)
-
+- [Tabish Ahmed](https://github.com/NoxiousTab)
 - [medzo-kali](https://github.com/medzo-kali)
 - [Andy]
 - [Nicholas Garbutt] (https://github.com/Nicholas-Garbutt)
