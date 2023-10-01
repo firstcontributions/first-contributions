@@ -2898,6 +2898,7 @@ T7
 -[techofirst]
 -[Anuraj Shukla](https://github.com/anurajshukla)
 -[Iliyas Khan](https://github.com/khaniliyas)
+-[Aditya Gopal Krishnaut](https://github.com/AKrisadi)
 - [Sameer Wadhwa](https://github.com/sameerwadhwa123)
 - [Bartosz Kluczewski](https://github.com/Derty990)
 - [Shahan Ahmed](https://github.com/shahanahmed86)
