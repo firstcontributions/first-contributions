@@ -23,6 +23,7 @@
 - [Pratham Dhiman](https://github.com/Pratham86)
 - [Abhinay singh](https://github.com/Abhinay123Singh)
 - [Nandini Arora](https://github.com/Nandiniar)
+- [Medha singh](https://github.com/smedha99)
 - [Michael Ojogbo] (https://github.com/90splayer)
    [Bista] 
   [Ritik Jain](https://github.com/PANDACR)
