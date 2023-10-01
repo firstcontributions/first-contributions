@@ -132,7 +132,6 @@ Pizzacat
 - [Adrian Tapia](https://github.com/Adrian2jr)
 - [Ishan Sharma](https://gihub.com/paramagneticnaga)
 - [Anurag Chugh](https://github.com/Ukriyte)
-- [delakun Godspower] 
 - [Samir Gorai] (https://github.com/samirgorai)
 - [Kyle Kundinger](https://github.com/Kyle-Kundinger)
 - [Joe Philip](https://github.com/joe-philip)
