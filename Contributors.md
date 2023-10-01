@@ -6,6 +6,7 @@
 - [Taniya Souza](https://github.com/chemicoholic21)
 - [Karanjot Singh](https://github.com/karanjot786)
 - [Jervin Alejandro](https://github.com/JervinAlejandro)
+- [Rohit Kumar Srivastava](https://github.com/rohitsrivastava2000)
 - [Enrique Garcia](https://github.com/Enriquegarcia-ci)
 - [RDS](https://github.com/underthehoody)
 - [Mary Mdukaza](https://github.com/MaryMdukaza)
