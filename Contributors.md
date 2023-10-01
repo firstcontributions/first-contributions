@@ -850,7 +850,7 @@ Sino Felicity Zwane
 - [Esteban Block](https://github.com/NoNameNeeded4now)
 - [Jo Galeon](https://github.com/jogaleon)
 - [Amit singh](https://github.com/technicalamit8055)
-- [Devon Dixon] (https://github.com/DevonTD) 
+- [Devon Dixon] (https://github.com/DevonTD)
 - [rivera]
 - [John Ly] (https://github.com/johnly17)
 - [CJ Bauzon](https://github.com/cbauzon)
@@ -2633,7 +2633,7 @@ Akash Abraham
 - ming3
 - [Michael Joyce] (https://github.com/m-r-joyce)
 - [Sergey Rudenko](https://github.com/der-fanatiker)
-- [Deepak Sah](https://github.com/deepakkumar1983) 
+- [Deepak Sah](https://github.com/deepakkumar1983)
 - [Tareef Iman](https://github.com/TareefIman)
 - [Lai Yu-Chiao](https://github.com/joelai0101)
 - [Eric Larson](https://github.com/larsoneric)
