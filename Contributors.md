@@ -31,6 +31,7 @@
 - [Diwash Bhattarai](https://github.com/diwashbhattarai999)
 - [Amit Rajput](https://github.com/AmitRajput1772)
 - [Bivia Allan](https://github.com/briviamoon)
+- [Farmaan Mohamed](https://github.com/farmaanm)
 - [Varshan A V R](https://github.com/avr-varshan)
 - [Prajwal patil](https://github.com/prajwal-26)
 - [Ana Casia Figueiredo Invernizzi](https://github.com/ana-cassia-invernizzi)
