@@ -1548,6 +1548,7 @@ Nikhil R
 - [Shrestha Tripathi](https://github.com/shrestha-tripathi)
 - [Federico Podesta](https://github.com/FedePodesta)
 - [sourac](https://github.com/sourac)
+- [Apata Miracle Peter](https://github.com/prmpsmart)
 - [Chiara Di Sano](https://github.com/KikiDotPy)
 - [Chetan Dhongade](https://github.com/binary-ibex)
 - [Filippo Ghirardini](https://github.com/filoghira)
