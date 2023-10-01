@@ -29,6 +29,7 @@
    [Anshul Namdev] (https://github.com/Anshun352)
 - [Alexandre Godoy Peres](https://github.com/AlexandreP23)  
 - [Shaqeeb Akhtar](https://github.com/shaqeebakhtar)
+- [Abhay Kumar Sharma](https://github.com/abhay5624)
 - [Aazath Abdul Salam](https://github.com/aazath)
 - [Divyanshu Gupta](https://github.com/Divyanshu723)
 - [Diwash Bhattarai](https://github.com/diwashbhattarai999)
