@@ -456,6 +456,7 @@ Sino Felicity Zwane
 - [Abhishek Abbi](https://github.com/aabbi15)
 - [Johnny](https://github.com/JensenOcampo)
 - [Josh H](https://github.com/GoodGuyHeffy)
+- [Joe S](https://github.com/jsripraj)
 - [Tanishq P](https://github.com/tqpatil)
 - [Luis E](https://github.com/lewis-boy)
 - [Omar Eid] (https://github.com/OmarEid451)
