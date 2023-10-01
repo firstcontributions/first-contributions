@@ -2881,6 +2881,7 @@ T7
 - [Mkzay](https://github.com/Mkzay)
 - [Yunfei](https://github.com/Yunfei-Ma-McMaster)
 - [Maceo] (https://github.com/maceoCK)
+- [Simon Conrad](https://github.com/slyskillet)
 - [Mariano] (https://github.com/marians91)
 - [Akshansh Sharma](https://github.com/Tombstoner)
 - [Kartik Patil] (https://github.com/krtk-ptl)
