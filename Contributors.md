@@ -3,9 +3,11 @@
 - [Nischal Mudennavar ](https://github.com/nischalmudennavar)
 - [Ahmed Ryan](https://github.com/ahmedryanfaiyaz)
 -[Himanshu Nanda](https://github.com/himanshunanda22)
+-[Chavi](https://github.com/ChaviSchatz)
 - [Taniya Souza](https://github.com/chemicoholic21)
 - [Karanjot Singh](https://github.com/karanjot786)
 - [Jervin Alejandro](https://github.com/JervinAlejandro)
+- [Rohit Kumar Srivastava](https://github.com/rohitsrivastava2000)
 - [Enrique Garcia](https://github.com/Enriquegarcia-ci)
 - [Akash Kumar](https://github.com/akashKumar06)
 - [RDS](https://github.com/underthehoody)
@@ -28,6 +30,7 @@
   [Komal sharma](https://github.com/komal7141)
 - [Nandini Arora](https://github.com/Nandiniar)
 - [Arif20484423](https://github.com/Arif20484423)
+- [Anderwafe](https://github.com/Anderwafe)
 - [Medha singh](https://github.com/smedha99)
 - [Michael Ojogbo] (https://github.com/90splayer)
 -Aryan Tanwar
@@ -270,6 +273,7 @@ Pizzacat
 - [Oscar3334](https://github.com/Oscar3334)
 - EUGezzzzezzzz
 - [Hari R](https://github.com/uusername001)
+- [vaishnavi](https://github.com/vaishnavisisodiya/first-contributions)
 - [adelakun-godspower] (https://github.com/Plutobby)
 - [jcostadev23](https://github.com/jcostadev23/)
 - [Andres Weitzel](https://github.com/andresWeitzel)
@@ -318,7 +322,7 @@ Pizzacat
 - [Russell Chan] (https://github.com/tenderfoot-scout)
 -[Aditya_Sheokand](https://github.com/aditya_sheokand)
 -[Ritin Tiwari](https://github.com/ritin0204)
--[Joomun_Noor](https://github.com/joomun)
+-[vaishnavi sisodiya](https://github.com/vaishnavisisodiya)
 JialingYU
 -[Govind Chaudhary](https://github.com/Govind9012)
 -[Christian Lehr](https://github.com/jinroftw)
@@ -2881,3 +2885,4 @@ T7
 - [ssram4298](https://github.com/ssram4298)
 - [Abdi Ibrahim](https://github.com/abdiths)
 - [Sai Sumith](https://github.com/saisumith770)
+- [JojiSeb] - JojiSeb was here :)
