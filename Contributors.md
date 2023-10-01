@@ -681,7 +681,7 @@ Sino Felicity Zwane
 -psuuc-jbgarcia
 -oussama-benkemchi
 -michdborja-Mdeborja
--psuhiquiana-richard
+-psuhiquiana-richardh
 -psuuc-cvdrazo
 -albaz
 -psuuc-larajean
