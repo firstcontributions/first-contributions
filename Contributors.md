@@ -102,6 +102,7 @@
 - [Emmanuel Obi](https://github.com/Gmanlove/)
 - [Mher Saratikyan](https://github.com/MherSaratikyan)
 - [Salaudeen Sodiq](https://github.com/salsod-star)
+- [Luke Strutz]
 - [Abhishek Tiwari](https://github.com/ATiwari2000)
 - [bucheraa](https://github.com/bucheraa)
 - [Choloping](https://github.com/choloping)
