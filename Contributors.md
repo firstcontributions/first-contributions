@@ -238,7 +238,7 @@
 - [Ama Agyemang-Duah](https://github.com/amathestar)
 - [Bushra Shaikh](https://github.com/bushras017)
 - [tjdove](https://github.com/tjdove)
-Amar Ranjan
+- [Amar Ranjan] (https://github.com/amarranjan1)
 - [Rahul Kumar](https://github.com/rahul9852-dot)
 - [Naveen kumar (fream)](https://github.com/0EnIgma1)
 - [Lakshan Rukantha](https://github.com/LakshanRukantha)
