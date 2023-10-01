@@ -393,6 +393,7 @@ PRAJOT
 - [Eashan Kotha](https://github.com/ekotha)
 - [Ritesh Sivanathan](https://github.com/Ritesh-Sivanathan)
 - [WannaCode](https://github.com/kwngptrl)
+- [renzbobz](https://github.com/renzbobz)
 - [dysonsphere](https://github.com/Dysonsphere42)
 - [Joel Gutlay](https://github.com/Livsn06)
 - [JuliusArden12](https://github.com/JuliusArden12)
