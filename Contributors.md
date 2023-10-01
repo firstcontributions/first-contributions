@@ -29,6 +29,7 @@
 - [Aazath Abdul Salam](https://github.com/aazath)
 - [Divyanshu Gupta](https://github.com/Divyanshu723)
 - [Diwash Bhattarai](https://github.com/diwashbhattarai999)
+- [Yash Mishra](https://github.com/YashMishra0101)
 - [Amit Rajput](https://github.com/AmitRajput1772)
 - [Bivia Allan](https://github.com/briviamoon)
 - [Farmaan Mohamed](https://github.com/farmaanm)
