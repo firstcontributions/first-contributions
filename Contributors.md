@@ -2926,6 +2926,8 @@ T7
 - [ssram4298](https://github.com/ssram4298)
 - [Abdi Ibrahim](https://github.com/abdiths)
 - [Sai Sumith](https://github.com/saisumith770)
+- [Abu bakar Afzal](https://github.com/abubakarafzal)
+
 - [JojiSeb] - JojiSeb was here :)
 - [Ronit Kumar Baranwal]-(https://github.com/RonitBaranwal)
 - [Zaher Hage]-(https://github.com/zaherhage)
