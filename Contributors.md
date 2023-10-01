@@ -21,11 +21,13 @@
 - [Kelechi Amos](https://github.com/kellyncodes)
 - [Rishav Raj](https://github.com/rishavr920)
 - [Ebube Onwuta](https://github.com/Ebuube)
+- [Himanshi Gupta](https://github.com/himanshigupta22)
 - [Pratham Dhiman](https://github.com/Pratham86)
 - [Abhinay singh](https://github.com/Abhinay123Singh)
 - [Nidhi Kumari](https://github.com/nk12nidhi12)
   [Komal sharma](https://github.com/komal7141)
 - [Nandini Arora](https://github.com/Nandiniar)
+- [Arif20484423](https://github.com/Arif20484423)
 - [Medha singh](https://github.com/smedha99)
 - [Michael Ojogbo] (https://github.com/90splayer)
    [Bista] 
@@ -1513,6 +1515,7 @@ Nikhil R
 - [colognia] (https://github.com/colognia)
 - [MenardMacabulos]
 - [Sahil Jawale](https://github.com/Sahiljawale54)
+-[Ranveer](https://github.com/ranveer-2301)
 - [ofcwork53](https://github.com/ofcwork53)
 - [Neaz Mahmood](https://github.com/Neaz-Mahmood)
 - [Lander Audian](https://github.com/lander072)
