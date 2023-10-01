@@ -783,7 +783,7 @@ Sino Felicity Zwane
 - [Soham Haldar](https://github.com/Mahos-H)
 - [Tania](https://github.com/zzmoni)
 - [Sooraj Varrma](https://github.com/soorajvarrma)
--[Shubham Singh](https://github.com/SK86shubham)
+-[Shubham Singh mca 2nd year](https://github.com/SK86shubham)
 - [Iniyan](https://github.com/ini1307)
 - [Glitched Nexus](https://github.com/GlitchedNexus)
 - [Sparsh Manni](https://github.com/sparshmanni)
