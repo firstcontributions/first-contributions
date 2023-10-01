@@ -451,6 +451,7 @@ Sino Felicity Zwane
 - [John Jomar Dimaunahan](https://github.com/DJohnJomar)
 - [Muhamad Firdaus Bin Mohd Razali](https://github.com/ausrazali)
 - [Yashwanth B M](https://github.com/yashwanth-gh/)
+- [Jônatas Pereira da Rocha](https://github.com/jonatasprocha)
 - [Rohan Chauhan](https://github.com/rA9k)
 - [Kathleen Sison](https://github.com/hellacee)
 - [Milton Wiklund](https://github.com/wiklunden)
