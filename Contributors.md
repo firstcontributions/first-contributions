@@ -1,8 +1,9 @@
 # Contributors
 - [Musa Ozcetin]
-- [Nischal Mudennavar ](https://github.com/nischalmudennavar)
+- [Harsh Tripathi](https://github.com/alpharsh)
+- [Nischal Mudennavar](https://github.com/nischalmudennavar)
 - [Ahmed Ryan](https://github.com/ahmedryanfaiyaz)
--[Himanshu Nanda](https://github.com/himanshunanda22)
+- [Himanshu Nanda](https://github.com/himanshunanda22)
 - [Taniya Souza](https://github.com/chemicoholic21)
 - [Karanjot Singh](https://github.com/karanjot786)
 - [Jervin Alejandro](https://github.com/JervinAlejandro)
