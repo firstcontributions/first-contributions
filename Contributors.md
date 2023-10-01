@@ -76,7 +76,7 @@
 - [Choloping](https://github.com/choloping)
 - [idnoman](https://github.com/idnoman)
 - [Pratham Purohit](https://github.com/prathammpurohit)
--[Abhijeet --sssss](https://github.com/Zeref-XXX)
+- [Abhijeet --sssss](https://github.com/Zeref-XXX)
 - [Chris Lin](https://github.com/clin34)
 - [Smruti Ranjan Sahu](https://github.com/HunterX18)
 - [Ebenezer Ebuka Ifezulike](https://github.com/Ebenezer-ebu)
