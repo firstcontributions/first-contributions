@@ -54,7 +54,7 @@
 - [Sandhya Kumari](https://github.com/Sandhya312)
   [Toufiqur Rahman](https://github.com/toufiq-softic)
   [MD SHAFI UDDIN](https://github.com/6736-shafi)
-  [Abhijeet](https://github.com/Zeref-XXX)
+
 - [Gokul](https://github.com/Gokul2003g)
 - [Taofeek Adeniyi](https://github.com/tee4tao)
 - [Jonathan Mbiya](https://github.com/JonathanMbiya)
@@ -76,6 +76,7 @@
 - [Choloping](https://github.com/choloping)
 - [idnoman](https://github.com/idnoman)
 - [Pratham Purohit](https://github.com/prathammpurohit)
+-[Abhijeet](https://github.com/Zeref-XXX)
 - [Chris Lin](https://github.com/clin34)
 - [Smruti Ranjan Sahu](https://github.com/HunterX18)
 - [Ebenezer Ebuka Ifezulike](https://github.com/Ebenezer-ebu)
