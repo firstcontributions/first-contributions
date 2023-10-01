@@ -2782,6 +2782,7 @@ Akash Abraham
 - [Aditya Kumar] (https://github.com/AdityasGtHub)
 - [Jax Hax] (https://github.com/Jax-Hax)
 - [Vishwaksen] (https://github.com/vishwaksen-1)
+- [Shaurya Pratap Singh] (https://github.com/shaurya010)
 - [Prajwol Devkota] (https://github.com/ploosond/)
 - [Logan Wright] (https://github.com/itstherampage)
 - [M-110] (https://github.com/m-110)
