@@ -5,6 +5,7 @@
 - [Karanjot Singh](https://github.com/karanjot786)
 - [Jervin Alejandro](https://github.com/JervinAlejandro)
 - [Enrique Garcia](https://github.com/Enriquegarcia-ci)
+- [RDS](https://github.com/underthehoody)
 - [Mary Mdukaza](https://github.com/MaryMdukaza)
 - [1amkaizen](https://github.com/1amkaizen)
 - [Gustavo Keller](https://github.com/eugustavokeller)
