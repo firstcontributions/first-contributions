@@ -2840,6 +2840,7 @@ T7
 - [Shivam Roy] (https://github.com/RoyDev72)
 - [Aditya Dhanraj] (https://github.com/adi-exe)
 - [Wahid Hasan] (https://github.com/WahidHasan)
+- [tckry](https://github.com/pnml-S)
 - [Anirudha Havaldar](https://github.com/anirudhahavaldar)
 - [Hugo Depping](https://github.com/hugodepping)
 - [Pravin Mishra](https://github.com/Mishra-Pravin)
