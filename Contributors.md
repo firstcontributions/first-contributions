@@ -1052,6 +1052,7 @@
 - [Bakul Gupta](https://github.com/Bakul-G)
 - [Jarren Juan](https://github.com/JarrenJuan)
 - [ajTronic](https://github.com/ajTronic)
+- [Phatan5layer](https://github.com/Phatan5layer)
 - [Bo Jangles](https://github.com/Bo-Jangles)https://github.com/Krushna-Nanda/first-contributions.githttps://github.com/Krushna-Nanda/first-contributions.git
 - [Lewis Rye](https://github.com/LewisRye)
 - [philipAthanasopoulos](https://github.com/philipAthanasopoulos)
@@ -1766,7 +1767,7 @@
 -[Eshita Ojha](https://github.com/XXeshitaXX)
 -[Joshua Zhang](https://github.com/Teddygat0r)
 -[Binks123](https://github.com/Binks123)
--[Phatan5layer](https://github.com/Phatan5layer)
+
 
 
 - [medzo-kali](https://github.com/medzo-kali)
