@@ -380,6 +380,7 @@ JialingYU
 - [Emmanuella Okafor](https://github.com/nuelladev)
 - [Woon Koh](https://github.com/kohwdev)
 - [Wang Xue Rui](https://github.com/wangxuerui2003)
+- [Rani](https://github.com/Rani1303)
 - Meraj Sheikh
 - Jaime Juarbe
 - [Eyal Yarden](https://github.com/eyalya1)
