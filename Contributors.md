@@ -112,6 +112,7 @@
 - [Arshad Shaik](https://github.com/Arshu200)
 - [Frank Neblung](https://github.com/neblung)
 - [Aditya Prakash](https://github.com/heyitsadityaa)
+- [Rishi Sihare](https://github.com/Rishisihare90)
 - [Subham Jyoti](https://github.com/Derixtar54)
 - [Archishman Dash](https://www.github.com/archielicious)
 - [Kendall Hope Tucker] (https://github.com/kendallhtucker)
