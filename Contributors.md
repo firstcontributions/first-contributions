@@ -401,7 +401,7 @@ Mahmoud Mirghani
 - [Zedekiah](https://github.com/Hein-HtetSan)
 - [Parth Bhatt](https://github.com/Mazrah18/)
 - [Tom Black](https://github.com/SuperbWhiteApple)
-- [Amandine D.](https://github.com/suikachan42)
+- [Sudip Das](https://github.com/pris01)
 [Sary Weinberg] (https://github.com/SaryWeinberg) -
 - [Shriraj Jahagirdar](https://github.com/Shriraj26)
 - [Abhijeet Singh](https://github.com/Abhijeet709)
