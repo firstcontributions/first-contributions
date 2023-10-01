@@ -389,6 +389,7 @@ JialingYU
 - [Rani](https://github.com/Rani1303)
 - Meraj Sheikh
 - Jaime Juarbe
+- Bennett Wilbert
 - [Eyal Yarden](https://github.com/eyalya1)
 - Bennett Wilbert
 - [Mohamed Atta](https://github.com/MohamedAtta-AI)
@@ -2839,6 +2840,7 @@ Akash Abraham
 -[João Gomes](https://github.com/joaoeduardogomes)
 - Luis Pacheco
 - [Rahul Sajwan](https://github.com/rahulsajwan05)
+- [Johnny Avila](https://github.com/johnny-2123)
 - [Yuron](https://github.com/dcostayuron13)
 [Arkadipta Mojumder](https://github.com/arkaslittlemind)
 - Francesco Polletta
