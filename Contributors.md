@@ -5,8 +5,8 @@
 - [Musa Ozcetin]
 - [Nischal Mudennavar ](https://github.com/nischalmudennavar)
 - [Ahmed Ryan](https://github.com/ahmedryanfaiyaz)
--[Himanshu Nanda](https://github.com/himanshunanda22)
--[Chavi](https://github.com/ChaviSchatz)
+- [Himanshu Nanda](https://github.com/himanshunanda22)
+- [Chavi](https://github.com/ChaviSchatz)
 - [Taniya Souza](https://github.com/chemicoholic21)
 - [Karanjot Singh](https://github.com/karanjot786)
 - [Jervin Alejandro](https://github.com/JervinAlejandro)
@@ -15,6 +15,7 @@
 - [Martin Jälmby](https://github.com/m-jalmby)
 - [Enrique Garcia](https://github.com/Enriquegarcia-ci)
 - [Akash Kumar](https://github.com/akashKumar06)
+- [Laeek Ahmed](https://github.com/LaeekAhmed)
 - [RDS](https://github.com/underthehoody)
 - [Mary Mdukaza](https://github.com/MaryMdukaza)
 - [Krishna Yadav](https://github.com/Yadav97)
