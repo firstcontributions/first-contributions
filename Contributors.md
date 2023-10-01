@@ -498,6 +498,7 @@ Sino Felicity Zwane
 - [Harsh Sapra](https://github.com/harshsapra92)
 - [Dhanusya Sanjeev Kumar](https://github.com/sanjeev003)(https://twitter.com/SanjeevKumarDG)
 - [Abhishek Abbi](https://github.com/aabbi15)
+- [Maithil Saha](https://github.com/Roguemaths)
 - [Johnny](https://github.com/JensenOcampo)
 - [Josh H](https://github.com/GoodGuyHeffy)
 - [Joe S](https://github.com/jsripraj)
