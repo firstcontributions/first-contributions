@@ -2822,6 +2822,10 @@ Akash Abraham
 - [ju3rg4] (https://github.com/Ju3rga)
 - [Pinky Singh] (https://github.com/coder-pink)
 - [Jawmt] (https://github.com/Jawmt)
+
+- [chandar rathi] (https://github.com/rathichandar)
+
+
 - [Scott Skinn] (https://github.com/scottskinn)
 - [Vasco Marques] (https://github.com/tabascum)
 - [Muadh Adekunle] (https://github.com/Muadh-Adekunle-Monsuru)
