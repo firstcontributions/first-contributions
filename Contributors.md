@@ -41,6 +41,7 @@
 - [Neaha Bijo](https://github.com/Neaha-Bijo)
 - [Karanjot Singh](https://github.com/karanjot786)
 - [Felipe Alves](https://github.com/felpsalvs)
+-[Leena Mondal](https://github.com/LeenaMondal01/first-contributions.git)
 [Nawshikha Mahato](https://github.com/nawshikha)
 - [Alex Chen](https://github.com/alexchen2) 
 - [Peter Faretra] (https://github.com/peterston-e)
