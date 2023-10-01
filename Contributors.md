@@ -19,6 +19,7 @@
 - [Olowo Jude](https://github.com/olowojude)
 - [Kelechi Amos](https://github.com/kellyncodes)
 - [Ebube Onwuta](https://github.com/Ebuube)
+- [Himanshi Gupta](https://github.com/himanshigupta22)
 - [Pratham Dhiman](https://github.com/Pratham86)
 - [Abhinay singh](https://github.com/Abhinay123Singh)
 - [Nandini Arora](https://github.com/Nandiniar)
