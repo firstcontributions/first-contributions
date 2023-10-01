@@ -377,7 +377,7 @@ JialingYU
 - [Ansil M B](https://github.com/ansilmbabl)
 Stanley Nzegwu
 nathaniel
-- [Tayyab Khalid](https://github.com/TayyabKhalid25)
+- [Sudip Das](https://github.com/pris01)
 - [Rasmus]
 - [Sudip Das] (https://github.com/pris01)
 - [Parth Pandya](https://github.com/parth305)
