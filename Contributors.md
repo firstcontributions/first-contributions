@@ -245,6 +245,7 @@ Pizzacat
 - [Oscar3334](https://github.com/Oscar3334)
 - EUGezzzzezzzz
 - [Hari R](https://github.com/uusername001)
+- [adelakun-godspower] (https://github.com/Plutobby)
 - [jcostadev23](https://github.com/jcostadev23/)
 - [Andres Weitzel](https://github.com/andresWeitzel)
 - [Fahaad Al Abbadi](https://github.com/fahaad-abbadi)
