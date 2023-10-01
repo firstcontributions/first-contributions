@@ -414,9 +414,9 @@ JialingYU
 - [Ansil M B](https://github.com/ansilmbabl)
 Stanley Nzegwu
 nathaniel
-- [Tayyab Khalid](https://github.com/TayyabKhalid25)
+- [Sudip Das](https://github.com/pris01)
 - [Rasmus]
-- [rosywisteria] (https://github.com/rosywisteria)
+- [Sudip Das] (https://github.com/pris01)
 - [Parth Pandya](https://github.com/parth305)
 - [Archit Shekhawat](https://github.com/11heathcliff11)
 - [Saket Mishra](https://github.com/saketm101)
@@ -438,7 +438,7 @@ Mahmoud Mirghani
 - [Zedekiah](https://github.com/Hein-HtetSan)
 - [Parth Bhatt](https://github.com/Mazrah18/)
 - [Tom Black](https://github.com/SuperbWhiteApple)
-- [Amandine D.](https://github.com/suikachan42)
+- [Sudip Das](https://github.com/pris01)
 [Sary Weinberg] (https://github.com/SaryWeinberg) -
 - [Shriraj Jahagirdar](https://github.com/Shriraj26)
 - [Abhijeet Singh](https://github.com/Abhijeet709)
@@ -453,7 +453,7 @@ KOR EU WEI
 PRAJOT
 - Andrew Pun
   [Hoon Kang] (https://github.com/hoon610)
-- [Ameer jafar](https://github.com/Ameerjafar)
+- [Sudip Das](httpsgithub.com/pris01)
 - [Nour Mostafa] (https://github.com/n332)
 - [Leandro Henrique Barbosa](https://github.com/leandrohbar)
 - [Arjun A Chandran](https://github.com/Arjun-A3)
