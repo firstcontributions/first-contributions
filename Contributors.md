@@ -278,6 +278,7 @@ Pizzacat
 - [Jaocb Moneda](https://github.com/jmogizmo)
 - [Fernando Perez](https://github.com/FernPerez/)
 - [Tony McLeish](https://github.com/Tunza42/)
+- [wanabeunique](https://github.com/wanabeunique)
 - [Digvijay Singh](https://github.com/digvijaysinghh)
 - [Behzad Moghaddam] (https://github.com/b3hzzzad)
 - [Coop](https://github.com/SnowfallHD)
