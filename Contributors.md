@@ -23,6 +23,7 @@
 - [Abhinay singh](https://github.com/Abhinay123Singh)
 - [Nandini Arora](https://github.com/Nandiniar)
 - [Michael Ojogbo] (https://github.com/90splayer)
+-Aryan Tanwar
    [Bista] 
   [Ritik Jain](https://github.com/PANDACR)
    [Anshul Namdev] (https://github.com/Anshun352)
