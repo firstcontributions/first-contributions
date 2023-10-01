@@ -59,6 +59,7 @@
 - [Jonathan Mbiya](https://github.com/JonathanMbiya)
 - [Pavan Kalyan](https://github.com/Pavan782)
 - [Rishav Kumar](https://github.com/rishavnitjsr)
+- [Avinash kanaujia](https://github.com/Avinash2002kanaujia)
 - [Arnav Kumar](https://github.com/OverRevvv)
 - [Subham Mohapatra](https://github.com/techysubham)
 - [Lohith Kotni](https://github.com/lohitkotni)
