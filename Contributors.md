@@ -1175,6 +1175,7 @@ Nikhil R
 - [Kashyap Patel](https://github.com/kashyap5551)
 - [Ajaydeep Singh](https://github.com/Ajay1-me)
 - [Eze-DP](https://github.com/Eze-DP)
+- [Leynard Guinumtad](https://github.com/leynardguinumtad)
 - [Michael Rago] (https://github.com/michaeljamesrago)
 - [Lasindu Weerasinghe](https://github.com/LassazVegaz)
 - [Harsh Kumar Singh](https://github.com/dragoon4890)
