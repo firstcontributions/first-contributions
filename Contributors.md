@@ -270,6 +270,7 @@ Pizzacat
 - [menareus](https://github.com/menareus)
 - [Yatin Goyal](https://github.com/ygoyal48)
 - [John Allen Berty](https://github.com/JohnAllenBerty)
+-[Aakash kumar](https://github.com/aakashkumar2k)
 - [Azhar Lihan](https://github.com/azharlihan)
 - [Tiago Antunes] (https://github.com/TiagoAntunes10)
 - [Sarthak Raj](https://github.com/sarthak-devel)
