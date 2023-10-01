@@ -123,7 +123,7 @@
 - [Muhammed Ashhar](https://github.com/muhammedashharps/)
 - jhgf
 - Jack Huynh(https://github.com/JackHuynh0610)
-- tton
+-[Bandana kumari](https://github.com/codewithana)
 - [Gabriel M]
 - [Seth] (https://github.com/pisethTang)
 - [k-velvet-p] (https://github.com/K-velvet-P)
