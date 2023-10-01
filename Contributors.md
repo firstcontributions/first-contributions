@@ -273,6 +273,7 @@ Pizzacat
 - [Oscar3334](https://github.com/Oscar3334)
 - EUGezzzzezzzz
 - [Hari R](https://github.com/uusername001)
+- [vaishnavi](https://github.com/vaishnavisisodiya/first-contributions)
 - [adelakun-godspower] (https://github.com/Plutobby)
 - [jcostadev23](https://github.com/jcostadev23/)
 - [Andres Weitzel](https://github.com/andresWeitzel)
