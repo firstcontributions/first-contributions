@@ -53,6 +53,7 @@
 - [Adeola Ojekunle](https://github.com/adeola-code)
 - [Sandhya Kumari](https://github.com/Sandhya312)
   [Toufiqur Rahman](https://github.com/toufiq-softic)
+  [Mahima Pandey](https://github.com/moniiccaaa)
   [MD SHAFI UDDIN](https://github.com/6736-shafi)
 - [Gokul](https://github.com/Gokul2003g)
 - [Taofeek Adeniyi](https://github.com/tee4tao)
