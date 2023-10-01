@@ -2168,6 +2168,7 @@ Akash Abraham
 - [Lucas Fama](https://github.com/lucasfama)
 - [Kirk Corwin](https://github.com/KirkCorwin)
 - [Sekamatte Soul Solomon](https://github.com/SoulSolomon21)
+- [ Nischay chauhan](https://github.com/nischay-chauhan)
 - [Narhzih](https://github.com/narhzih)
 - [Loveth Tee](https://github.com/LovethTee)
 - [David](https://github.com/DavidZhu1388)
