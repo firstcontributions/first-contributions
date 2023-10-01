@@ -121,6 +121,7 @@
 - [Kendall Hope Tucker] (https://github.com/kendallhtucker)
 - [Nowroz Islam](https://github.com/nowroz)
 - [AD] (https://github.com/AbhinavD84)
+- [Bhargava-1103] (https://github.com/Bhargava-1103)
 - [Mighty Odewumi](https://github.com/mighty-odewumi)
 - [Idehen Gideon](https://github.com/gi3-14)
 - [Dohyun Kim](https://github.com/dohyundev)
