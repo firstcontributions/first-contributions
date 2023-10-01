@@ -1,4 +1,3 @@
-git add Contributors.md
 # Contributors
 - [Ferhat Cekim](https://github.com/ferferx)
 - [Saurabh Padman](https://github.com/spirus-dev)
@@ -13,7 +12,6 @@ KOR EU WEI
 - [Alice Zandra Eya](https://github.com/AliceEya)
 - [John Virgil Carvajal](https://github.com/DarcMattz)
 - [Emir Ertörer](https://github.com/EmirErtorer)
-- []
 - [Abdulhadi5692HDI2-3](https://github.com/Abdulhadi5692HDI2-3)
 - [Anirudh Duggal](https://github.com/AniswagMC)
 - [Itay Saban](https://github.com/itaysaban)
