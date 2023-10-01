@@ -349,6 +349,7 @@ JialingYU
 -[Vladislav Firsov] (https://github.com/LemanRus)
 -[Vivian Martinez](https://github.com/vivianmartinez)
 - [Supratik Vishnu](https://github.com/SupratikV)
+-[Shreyas S N](https://github.com/ShreyasSN)
 -[Musa Mwangea] (https://github.com/mwangea)
 - [Ashenafi Bordea](http://github.com/asherthechamp)
 - [Gourab Bistu](https://github.com/gourabbistu/)
