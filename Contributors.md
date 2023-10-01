@@ -73,6 +73,7 @@
 - [João Paulo S. S.](https://github.com/JoaoPauloSouzaSilva)
 - [Toyin Onagoruwa](https://github.com/Toyin96)
 - [Komolehin Israel](https://github.com/komus-Israel)
+- [Priyanshu Prajapati](https://github.com/PRIYANSHU210021) 
 - [Alec-Nesat Colak](https://github.com/AlecNesatColak)
 - [rooney](https://github.com/rooneyi)
 - [Emmanuel Obi](https://github.com/Gmanlove/)
