@@ -9,6 +9,7 @@
 - [Karanjot Singh](https://github.com/karanjot786)
 - [Jervin Alejandro](https://github.com/JervinAlejandro)
 - [Rohit Kumar Srivastava](https://github.com/rohitsrivastava2000)
+- [Martin Jälmby](https://github.com/m-jalmby)
 - [Enrique Garcia](https://github.com/Enriquegarcia-ci)
 - [Akash Kumar](https://github.com/akashKumar06)
 - [RDS](https://github.com/underthehoody)
