@@ -2259,6 +2259,7 @@ Akash Abraham
 - [Samson Mamushet](https://github.com/samisams1)
 - [Amr Ashebo](https://github.com/amr8644)
 - [Indranil Dutta](https://github.com/toindranildutta)
+- [Rick Auch](https://github.com/mekaneck)
 - [Okoye Victor](https://github.com/ChuloWay)
 - [E Stanzah](https://github.com/edwstanzah)
 - [Zaid Kaladia](https://github.com/zaidkaladia)
