@@ -157,7 +157,7 @@
 - [Idehen Gideon](https://github.com/gi3-14)
 - [Dohyun Kim](https://github.com/dohyundev)
 - [Muhammed Ashhar](https://github.com/muhammedashharps/)
-- jhgf
+- [Swati Kumari](https://github.com/Swati9690/first-contributions.git)
 - Jack Huynh(https://github.com/JackHuynh0610)
 -[Bandana kumari](https://github.com/codewithana)
 - [Gabriel M]
