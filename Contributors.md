@@ -170,6 +170,7 @@ gulshan
 - [D Vijay Vardhan Reddy](https://github.com/vijay-vardhan-reddy)
 - [Preetham P M](https://github.com/preetham-p-m)
 - [Kavya Pandey](https://github.com/zykuriku)
+- [Paul Kabuu](https://github.com/kongkabuu)
 - [Juan Pablo Alvarado](https://github.com/juancodeaudio)
 - [Paul Rose] (https://github.com/ptrose78)
 - [Osho Iseoluwa](https://github.com/theCephas)
@@ -368,7 +369,7 @@ JialingYU
 - [FrenchRion](https://github.com/FrenchRuin)
 - [Nikosbatz](https://github.com/Nikosbatz)
 - [sourav kumar panda] (https://github.com/Sourav-Kumar-Panda)
-- [CaptainHac](https://github.com/ismhac)  
+- [CaptainHac](https://github.com/ismhac)
 - [Ryudai Takai](https://github.com/ryudaitakai)
 - [Ajide Tosin Adebayo](https://github.com/adebayorajide)
 - [Param Birje](https://github.com/parambirje)
@@ -387,7 +388,7 @@ JialingYU
 - Meraj Sheikh
 - Jaime Juarbe
 - [Eyal Yarden](https://github.com/eyalya1)
-- Bennett Wilbert 
+- Bennett Wilbert
 - [Mohamed Atta](https://github.com/MohamedAtta-AI)
 - [Chandan Akella](https://github.com/chandan9t8)
 - [Mahmoud Mirghani](https://github.com/mahmoudmerghani)
@@ -699,11 +700,11 @@ Sino Felicity Zwane
 -psuuc-micopaliwen
 - [Isabell Luo] (https://github.com/117Isabell)
 - [Mridul-Malakar] (https://github.com/newton1321)
-- [Aryan-Gupta] 
+- [Aryan-Gupta]
 - [Noel Young] (git@github.com:noeljyoung)
 - [Carlos Guerrero] (https://github.com/carlosguealv)
 - [Steve Conteh] (https://github.com/steveconteh)
-- [Shubham Jain](https://github.com/shubh) 
+- [Shubham Jain](https://github.com/shubh)
 - [Cindy Aspiras](https://github.com/cmfasp)
 - [aikoo7] (https://github.com/aikooo7)
 - psuurd-pauletpajo
@@ -2426,7 +2427,7 @@ Akash Abraham
 - [DarrenKwonDev](https://github.com/DarrenKwonDev)
 - eroniuum
 - ValyaLB
-- S_Ds 
+- S_Ds
 - [bananapretzel](https://github.com/bananapretzel)
 - [Siddharth Vasu](https://github.com/sidvasu)
 - [cweitong](https://github.com/cwt0213)
@@ -2756,7 +2757,7 @@ Akash Abraham
 - [Joey Santos] (https://github.com/Santeezy7).
 - [Affen_Herzog](https://github.com/AffenHerzog)
 - [Joseph Parish](https://github.com/JosephParish)
-- [Eli Freid] (https://github.com/E-Freid) 
+- [Eli Freid] (https://github.com/E-Freid)
 - [Brandon Kieng] (https://github.com/BrandonK182)
 - [Ibrahim Alfa](https://github.com/I-Alpha)
 - [Oscar Vaquera](https://github.com/vaqueraoscar0)
