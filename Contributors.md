@@ -2472,7 +2472,7 @@ Akash Abraham
 - [Jobayer Rahman](https://github.com/Jobayer98)
 - [Naufal Faqih K R](https://github.com/NaufR)
 - [Sushmoy Hossain](https://github.com/imsushmoy)
-- [Abhijeet Zeref](https://github.com/Zeref-XXX)
+- [Abhijeet Z](https://github.com/Zeref-XXX)
 - [Deepaprakash K](https://github.com/averagestud)
 - [WADA Yusuke](https://github.com/wxy-zzz)
 - [Kartik](https://github.com/Kartik1932)
