@@ -120,6 +120,7 @@
 - Jack Huynh(https://github.com/JackHuynh0610)
 - tton
 - [Gabriel M]
+- [Seth] (https://github.com/pisethTang)
 - [k-velvet-p] (https://github.com/K-velvet-P)
 - [Egai-Osowor] (https://github.com/egaiosowor)
 - [Nikhil Singh](https://github.com/codewithnick)
