@@ -91,7 +91,6 @@
 - [Rishav Kumar](https://github.com/rishavnitjsr)
 - [Avinash kanaujia](https://github.com/Avinash2002kanaujia)
 - [Arnav Kumar](https://github.com/OverRevvv)
-- [Subham Mohapatra](https://github.com/techysubham)
 - [Lohith Kotni](https://github.com/lohitkotni)
 - [João Paulo S. S.](https://github.com/JoaoPauloSouzaSilva)
 - [Toyin Onagoruwa](https://github.com/Toyin96)
