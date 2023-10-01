@@ -2486,6 +2486,7 @@ Akash Abraham
 - [Titouan Baron](https://github.com/HowlyBlood)
 - [Tyler Nielsen](https://github.com/SnailDragon)
 - [Mack Osborne](https://github.com/mackosborne)
+- [Neeraj Sharma](https://github.com/NeerajSh-16)
 - [Arief Rahman](https://github.com/rahmanarief21)
 - [Jobayer Rahman](https://github.com/Jobayer98)
 - [Naufal Faqih K R](https://github.com/NaufR)
