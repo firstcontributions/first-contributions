@@ -1259,6 +1259,7 @@ Nikhil R
 - [Aleks_Lucenko](https://github.com/alekslucenko)
 - [Luis Hau](https://github.com/ycluis)
 - [Oscar Kanangila](https://github.com/Os-humble-man)
+- [Nikhil Singh](https://github.com/codewithnick)
 - [Brijesh Roy](https://github.com/brijeshroy)
 - [Moncef Meharzi](https://github.com/Moncef-Mhz)
 - [Raj sharma](https://github.com/lluciferr)
