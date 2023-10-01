@@ -169,6 +169,7 @@
 - [Hebert Pratama](https://github.com/heberttt)
 - [Ama Agyemang-Duah](https://github.com/amathestar)
 - [tjdove](https://github.com/tjdove)
+Amar Ranjan
 - [Rahul Kumar](https://github.com/rahul9852-dot)
 - [Naveen kumar (fream)](https://github.com/0EnIgma1)
 - [Lakshan Rukantha](https://github.com/LakshanRukantha)
