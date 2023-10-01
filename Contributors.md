@@ -30,6 +30,7 @@
 - [Arif20484423](https://github.com/Arif20484423)
 - [Medha singh](https://github.com/smedha99)
 - [Michael Ojogbo] (https://github.com/90splayer)
+-Aryan Tanwar
    [Bista] 
   [Ritik Jain](https://github.com/PANDACR)
    [Anshul Namdev] (https://github.com/Anshun352)
