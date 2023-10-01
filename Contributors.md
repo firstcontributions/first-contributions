@@ -1026,6 +1026,7 @@ Nikhil R
 - [Sourav Singh](https://github.com/hydradocs)
 - [Anthony Genovese](https://github.com/anthonygenovese)
 - JuanMS
+- [Somesh Gupta](https://github.com/som02esh)
 - [Rajadurai Balamurugan](https://github.com/rajadurai2)
 - [Priyanshu_Kumar](https://github.com/Priyanshu-kr-gupta)
 - [Jhonatan Medina](https://github.com/gamatatsu0)
