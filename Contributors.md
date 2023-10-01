@@ -24,6 +24,7 @@
 - [Himanshi Gupta](https://github.com/himanshigupta22)
 - [Pratham Dhiman](https://github.com/Pratham86)
 - [Abhinay singh](https://github.com/Abhinay123Singh)
+- [Nidhi Kumari](https://github.com/nk12nidhi12)
   [Komal sharma](https://github.com/komal7141)
 - [Nandini Arora](https://github.com/Nandiniar)
 - [Medha singh](https://github.com/smedha99)
