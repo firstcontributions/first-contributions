@@ -5,6 +5,7 @@
 - [Vaibhav Patil](https://github.com/VaibhavAPatil)
 - [Masoud Farmani](https://github.com/MasoudIV)
 - [Olowo Jude](https://github.com/olowojude)
+- [Amar Ranjan] (github.com/amarranjan1)
 - [Ebube Onwuta](https://github.com/Ebuube)
 - [Abhinay singh](https://github.com/Abhinay123Singh)
 - [Michael Ojogbo] (https://github.com/90splayer)
