@@ -273,6 +273,7 @@ Pizzacat
 - [Oscar3334](https://github.com/Oscar3334)
 - EUGezzzzezzzz
 - [Hari R](https://github.com/uusername001)
+- [vaishnavi](https://github.com/vaishnavisisodiya/first-contributions)
 - [adelakun-godspower] (https://github.com/Plutobby)
 - [jcostadev23](https://github.com/jcostadev23/)
 - [Andres Weitzel](https://github.com/andresWeitzel)
@@ -321,7 +322,7 @@ Pizzacat
 - [Russell Chan] (https://github.com/tenderfoot-scout)
 -[Aditya_Sheokand](https://github.com/aditya_sheokand)
 -[Ritin Tiwari](https://github.com/ritin0204)
--[Joomun_Noor](https://github.com/joomun)
+-[vaishnavi sisodiya](https://github.com/vaishnavisisodiya)
 JialingYU
 -[Govind Chaudhary](https://github.com/Govind9012)
 -[Christian Lehr](https://github.com/jinroftw)
