@@ -32,6 +32,7 @@
 - [Kelechi Amos](https://github.com/kellyncodes)
 - [Rishav Raj](https://github.com/rishavr920)
 - [Ebube Onwuta](https://github.com/Ebuube)
+-[Minhaz Arfin] (https://github.com/Minhaz-Arfin)
 - [Himanshi Gupta](https://github.com/himanshigupta22)
 - [Pratham Dhiman](https://github.com/Pratham86)
 - [Abhinay singh](https://github.com/Abhinay123Singh)
