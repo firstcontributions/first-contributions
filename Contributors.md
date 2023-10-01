@@ -8,6 +8,7 @@
 -[Chavi](https://github.com/ChaviSchatz)
 - [Taniya Souza](https://github.com/chemicoholic21)
 - [Karanjot Singh](https://github.com/karanjot786)
+
 - [Jervin Alejandro](https://github.com/JervinAlejandro)
 - [Rohit Kumar Srivastava](https://github.com/rohitsrivastava2000)
 - [Martin Jälmby](https://github.com/m-jalmby)
@@ -1006,6 +1007,7 @@ Nikhil R
 - [Sourav Singh](https://github.com/hydradocs)
 - [Anthony Genovese](https://github.com/anthonygenovese)
 - JuanMS
+- [Somesh Gupta](https://github.com/som02esh)
 - [Rajadurai Balamurugan](https://github.com/rajadurai2)
 - [Jhonatan Medina](https://github.com/gamatatsu0)
 - [Kushan Arora](https://github.com/kushan23)
