@@ -918,6 +918,7 @@ Sino Felicity Zwane
 - [Meet Merchant](https://github.com/meetmerchant)
 - [David Bright](https://github.com/davebiddy/)
 - [Thien Phan](https://github.com/phanchithien)
+- [Haridas Pawar](https://github.com/HP200421)
 - [Cassandra](https://github.com/codingcass)
 - [Arne Rief](https://github.com/Arrief)
 - [Akash Raj](https://github.com/akashroshiv)
