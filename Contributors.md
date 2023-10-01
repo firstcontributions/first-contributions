@@ -1,5 +1,6 @@
 # Contributors
 - [Kaushik Kumar Das](https://github.com/AlexWeb07)
+- [Slaven Pikija](https://github.com/spikija)
 - [Himanshu Gaur](https://github.com/Gaur2025)
 - [Bojidar Vladimirov](https://github.com/BojkaV)
 - [Musa Ozcetin]
