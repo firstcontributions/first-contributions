@@ -73,3 +73,5 @@
 | <img title="پښتو" alt="پښتو" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/af.svg" width="22">                                                                                                                                                       | [پښتو - Pashto](README.ps.md)                                         |
 | <img alt="ພາສາລາວ" title="ພາສາລາວ" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/la.svg" width="22">                                                                                                                                                 | [ພາສາລາວ](README.la.md)                                               |
 | <img title="Af-soomaali" alt="Somalia" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/so.svg" width="22"> |[Af-soomaali](README.so.md)
+
+| <img title="kiswahili" alt="swahili" src="https://raw.githubusercontent.com/moha230/country-flag/82cd93597218e441ac6c4e97a0113361de71c197/tz-flag.svg" width="22">|[Kiswahili](README.ksw.md)
