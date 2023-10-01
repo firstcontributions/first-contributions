@@ -65,11 +65,7 @@
   [Toufiqur Rahman](https://github.com/toufiq-softic)
   [Mahima Pandey](https://github.com/moniiccaaa)
   [MD SHAFI UDDIN](https://github.com/6736-shafi)
-<<<<<<< HEAD
-
-=======
   [Abhijeet](https://github.com/Zeref-XXX)
->>>>>>> ce3b8b53823be36e2a8273b8a1b19dde92d7778c
 - [Gokul](https://github.com/Gokul2003g)
 - [Taofeek Adeniyi](https://github.com/tee4tao)
 - [Jonathan Mbiya](https://github.com/JonathanMbiya)
