@@ -2902,6 +2902,7 @@ T7
 - [Rajan Paudel](https://github.com/rajan-poudel)
 - [Dazzler Abhi](https://github.com/dazzlerabhi30800)
 - Glovvie
+- [Shamari Lewis] - (https://github.com/ShamariLewis)
 - [Smashed](https://github.com/smashed)
 - [Rishabh Kaushik](https://github.com/maniacGhost24)
 - [Su Krakow](https://github.com/spknash)
