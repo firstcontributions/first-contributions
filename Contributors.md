@@ -364,7 +364,7 @@ Stanley Nzegwu
 nathaniel
 - [Tayyab Khalid](https://github.com/TayyabKhalid25)
 - [Rasmus]
-- [rosywisteria] (https://github.com/rosywisteria)
+- [Sudip Das] (https://github.com/pris01)
 - [Parth Pandya](https://github.com/parth305)
 - [Archit Shekhawat](https://github.com/11heathcliff11)
 - [Saket Mishra](https://github.com/saketm101)
