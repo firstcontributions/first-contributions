@@ -10,6 +10,7 @@
 -[Chavi](https://github.com/ChaviSchatz)
 - [Taniya Souza](https://github.com/chemicoholic21)
 - [Karanjot Singh](https://github.com/karanjot786)
+- [Mats Muller](https://github.com/AM800Mats)
 - [Jervin Alejandro](https://github.com/JervinAlejandro)
 - [Rohit Kumar Srivastava](https://github.com/rohitsrivastava2000)
 - [Shreyas Sridhar](https://github.com/shreyas-sridhar)
