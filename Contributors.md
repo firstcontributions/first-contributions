@@ -1,4 +1,5 @@
 # Contributors
+- [Bojidar Vladimirov](https://github.com/BojkaV)
 - [Musa Ozcetin]
 - [Nischal Mudennavar ](https://github.com/nischalmudennavar)
 - [Ahmed Ryan](https://github.com/ahmedryanfaiyaz)
