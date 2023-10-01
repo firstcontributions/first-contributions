@@ -655,6 +655,7 @@ Sino Felicity Zwane
 - olgaTheCreator
 - -psuuc-jayremy
 - [Kosumo] (https://github.com/masumo)
+- [Ken Andre](https://github.com/Ken-Andre)
 - [Kane Le](https://github.com/kanelv)
 - [Rohan Kanti] (https://github.com/rohank36)
 - [Frederick] (https://github.com/fredsn0tDead)
