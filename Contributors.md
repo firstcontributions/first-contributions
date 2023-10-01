@@ -7,6 +7,7 @@
 - [Karanjot Singh](https://github.com/karanjot786)
 - [Jervin Alejandro](https://github.com/JervinAlejandro)
 - [Enrique Garcia](https://github.com/Enriquegarcia-ci)
+- [Akash Kumar](https://github.com/akashKumar06)
 - [RDS](https://github.com/underthehoody)
 - [Mary Mdukaza](https://github.com/MaryMdukaza)
 - [1amkaizen](https://github.com/1amkaizen)
