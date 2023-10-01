@@ -16,6 +16,7 @@
 - [Shreyas Sridhar](https://github.com/shreyas-sridhar)
 - [Martin Jälmby](https://github.com/m-jalmby)
 - [Enrique Garcia](https://github.com/Enriquegarcia-ci)
+- [Madhusmita Jena](https://github.com/J-Madhusmita)
 - [Akash Kumar](https://github.com/akashKumar06)
 - [RDS](https://github.com/underthehoody)
 - [Mary Mdukaza](https://github.com/MaryMdukaza)
