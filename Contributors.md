@@ -297,7 +297,7 @@ Pizzacat
 - [Russell Chan] (https://github.com/tenderfoot-scout)
 -[Aditya_Sheokand](https://github.com/aditya_sheokand)
 -[Ritin Tiwari](https://github.com/ritin0204)
--[Joomun_Noor](https://github.com/joomun)
+-[vaishnavi sisodiya](https://github.com/vaishnavisisodiya)
 JialingYU
 -[Govind Chaudhary](https://github.com/Govind9012)
 -[Christian Lehr](https://github.com/jinroftw)
