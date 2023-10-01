@@ -2738,6 +2738,7 @@ Akash Abraham
 -[Chrinovic MM](https://github.com/CHRINOVIC-MM)
 - [Frank](https://github.com/Frank40790)
 - [Lillyann](https://github.com/lcelisse)
+- [Richmond Nyame](https://github.com/Nyame100)
 - [Abdourahmane Jalloh](https://github.com/aradradev)
 - [pipTyrannical](https://github.com/piptyrannical)
 - [Guru Deep Kuwar](https://github.com/gurudeepkuwar)
