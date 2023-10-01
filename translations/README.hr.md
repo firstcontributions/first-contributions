@@ -5,23 +5,24 @@
 
 # Prvi doprinosi
 
-Cilj ovog projekta je da pruži jednostavne korake za početnike da naprave svoje prve doprinose. Ukoliko tražite da napravite prvi doprinos pratite sljedeće korake ispod.
+Cilj ovog projekta je pružiti početnicima jednostavne korake da naprave svoje prve doprinose. 
+Ako se pitate kako napraviti prvi doprinos pratite sljedeće korake ispod.
 
-#### _Ukoliko niste baš sigurni u vaš rad sa naredbnom linijom/terminalom, [ovdje možete pronaći tutorijale za GUI alate.](#Uputstva-za-druge-alate)_
+#### _Ako niste baš sigurni u vaš rad sa naredbenom linijom/terminalom, [ovdje možete pronaći tutorijale za GUI alate.](#Uputstva-za-druge-alate)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Napravite fork repozitorijuma" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Napravite fork repozitorija" />
 
-Ukoliko nemate git instaliran na vašom računalu, [instalirajte ga ovdje](https://help.github.com/articles/set-up-git/).
+Ako nemate git instaliran na svom računalu, [instalirajte ga ovdje](https://help.github.com/articles/set-up-git/).
 
 ## Napravite fork repozitorija
 
-Forkajte ovaj repozitorij tako da kliknete na dugme _fork_ na vrhu stranice. Ovako pravite kopiju repozitorija na vašoj github stranici.
+Forkajte ovaj repozitorij tako da kliknete na gumb _fork_ na vrhu stranice. Ovako pravite kopiju repozitorija na vašoj github stranici.
 
 ## Klonirajte repozitorij
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Sada klonirajte repozitorij koji ste prethodno forkali. Posjetite svoj GitHub profil, otvorite repozitorij koji ste forkali, kliknite na _clone_ (kloniraj) dugme i kliknite na ikonicu _copy to clipboard_.
+Sada klonirajte repozitorij koji ste prethodno forkali. Posjetite svoj GitHub profil, otvorite repozitorij koji ste forkali, kliknite na gumb _clone_ (kloniraj)  i kliknite na ikonicu _copy to clipboard_.
 
 Otvorite terminal i upišite slijedeće git naredbe:
 
@@ -43,13 +44,13 @@ Gdje je umjesto `ovo-ste-vi` upisano vaše _github_ korisničko ime. Ovime kopir
 
 ## Pravljenje grane _branch_
 
-Prebacite se u radni direktorij na vašem računalu (ukoliko već niste tamo):
+Prebacite se u radni direktorij na vašem računalu (ako već niste tamo):
 
 ```
 cd first-contributions
 ```
 
-Pa zatim napravite novu granu _branch_ koristeći `git switch` comandu:
+Pa zatim napravite novu granu _branch_ koristeći naredbu `git switch`:
 
 ```
 git switch -c add-svoje-ime
@@ -67,7 +68,7 @@ Otvorite `Contributors.md` datoteku u tekst editoru i dodajte vaše ime. Nemojte
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-Ukoliko odete u radni direktorij i izvršite naredbu `git status`, primijetiti ćete da postoje promjene.
+Ako odete u radni direktorij i izvršite naredbu `git status`, primijetit ćete da postoje promjene.
 
 Dodajte ove promjene u granu koju ste gore napravili koristeći `git add` naredbu:
 
@@ -85,7 +86,7 @@ Gdje umjesto `tvoje-ime` upisujete svoje ime.
 
 ## Pushajte promjene na GitHub
 
-Pošaljite promjene u repozitorij na GitHub-u koristeći naredbu `git push`:
+Pošaljite promjene u repozitorij na GitHubu koristeći naredbu `git push`:
 
 ```
 git push origin -u ime-vaše-grane
@@ -95,25 +96,25 @@ gdje umjesto `ime-vaše-grane` stavljate ime vaše grane koje ste prethodno napr
 
 ## Pošaljite izmjene na pregled
 
-Ukoliko odete na repozitorij na vašem GitHub profilu primijetit ćete `Compare & pull request` Dugme. Kliknite na njega.
+Ukoliko odete na repozitorij na vašem GitHub profilu primijetit ćete gumb `Compare & pull request`. Kliknite na njega.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-a zatim pošaljite zahtjev klikom na dugme _Create pull request_.
+a zatim pošaljite zahtjev klikom na gumb _Create pull request_.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Nakon toga, vlasnik će spojiti promjene koje ste napravili sa master granom projekta. Dobit ćete mail potvrde kada se grane spoje.
+Nakon toga, vlasnik će spojiti promjene koje ste napravili sa glavnom (master) granom projekta. Dobit ćete mail potvrde kada se grane spoje.
 
 ## Što dalje?
 
 Čestitamo! Završili ste standardni _fork -> clone -> edit -> PR_ tok koji će vas pratiti kroz vaš čitav programerski život!
 
-Proslavite tako što ćete podjeliti vaš doprinos sa prijateljima i pratiocima otvaranjem [stranice](https://firstcontributions.github.io/#social-share).
+Proslavite tako što ćete podijeliti vaš doprinos s prijateljima i pratiocima otvaranjem [stranice](https://firstcontributions.github.io/#social-share).
 
-Pridružite se i našem Slack timu u slučaju da vam je potrebna ikakva pomoć ili imate bilo kakvih pitanja. [Slack tim](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+Pridružite se i našem Slack timu u slučaju da vam je potrebna ikakva pomoć ili imate bilo kakva pitanja. [Slack tim](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-A sada, možemo početi sa doprinosima drugim projektima. Napravili smo popis projekata sa jednostavnim problemima na kojima možete početi raditi. Posjetite [listu projekata na naštoj stranici](https://firstcontributions.github.io/#project-list).
+A sada, možemo početi sa doprinosima drugim projektima. Napravili smo popis projekata sa jednostavnim problemima na kojima možete početi raditi. Posjetite [listu projekata na našoj stranici](https://firstcontributions.github.io/#project-list).
 
 ### [Dodatni materijali](../additional-material/git_workflow_scenarios/additional-material.md)
 
