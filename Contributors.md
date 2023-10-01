@@ -30,6 +30,7 @@
 - [Arif20484423](https://github.com/Arif20484423)
 - [Medha singh](https://github.com/smedha99)
 - [Michael Ojogbo] (https://github.com/90splayer)
+-Aryan Tanwar
    [Bista] 
   [Ritik Jain](https://github.com/PANDACR)
    [Anshul Namdev] (https://github.com/Anshun352)
@@ -328,6 +329,7 @@ JialingYU
 - [Supratik Vishnu](https://github.com/SupratikV)
 -[Musa Mwangea] (https://github.com/mwangea)
 - [Ashenafi Bordea](http://github.com/asherthechamp)
+- [Gourab Bistu](https://github.com/gourabbistu/)
 - [Gil Sala](https://github.com/Gilsabo)
 -[Siyum Tsega](https://github.com/SiyumTsega)
 - [UmbraViva] (https://github.com/UmbraViva)
