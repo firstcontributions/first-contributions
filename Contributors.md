@@ -374,7 +374,7 @@ Mahmoud Mirghani
 - ➡️ [Armatys Konrad](https://github.com/karmatys8) ⬅️
 - [Saurabh Padman](https://github.com/spirus-dev)
 -[Shashank Shukla](https://github.com/shashank0092)
-- [Samuel Betancourt](https://github.com`/Leumas80) <img title="Leumas80" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ve.svg" width="22">
+- [Samuel Betancourt](https://github.com`/Leumas80) <img title="Leumas80" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ve.svg" width="22">
 - [Utsho de Bravestone](https://github.com/utshodebravestone)
 - [Francis MD](https://github.com/Francis-MD)
 - [sourav kumar panda] (https://github.com/Sourav-Kumar-Panda)
