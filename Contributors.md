@@ -1675,6 +1675,7 @@ Nikhil R
 - [HAH](https://github.com/HtetAungHtet)
 - [Shubhadeep Karmakar](https://github.com/ShubhadeepKarmakar)
 - [Vishnu Chakravarthi](https://github.com/VishnuChakravarthi)
+- [Lihuor Slot] (https://github.com/Lihuor)
 - [Vinit Hemadri](https://github.com/Vinitvh)
 - [Prayag](https://github.com/Prayag-09)
 - [Ballween](https://github.com/Ballween)
