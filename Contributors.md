@@ -110,6 +110,7 @@ gulshan
 - [bucheraa](https://github.com/bucheraa)
 - [Choloping](https://github.com/choloping)
 - [idnoman](https://github.com/idnoman)
+- [Ifeanyi Ndubuizu](https://github.com/thrila)
 - [Ayush Deshmukh](https://github.com/XARTAN21)
 - [Pratham Purohit](https://github.com/prathammpurohit)
 - [Abhijeet --sssss](https://github.com/Zeref-XXX)
