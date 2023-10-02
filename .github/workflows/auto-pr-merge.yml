@@ -75,7 +75,7 @@ jobs:
                     
                     // Extracting the patch field (content which are added)
                     const patch_text = contributorsFile.patch;
-                    core.exportVariable('patched_content', 
+                    core.exportVariable('patched_content', patch_text);
                     
                     console.log(`additions=${additions}`);
                     console.log(`changes=${changes}`);
