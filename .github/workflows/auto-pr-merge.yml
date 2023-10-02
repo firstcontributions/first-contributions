@@ -59,6 +59,11 @@ jobs:
                 // Check if only 'Contributors.md' is in the list of changed files
                 const isOnlyContributorsFileChanged = filenames.length === 1 && filenames[0] === 'Contributors.md';
 
+                // file names stored in output
+                core.setOutput('files_changed', filenames);
+                // file names stored in env
+                core.exportVariable('files_changed', filenames);
+
                 if (isOnlyContributorsFileChanged) {
 
                     // Find the 'Contributors.md' file in the response
