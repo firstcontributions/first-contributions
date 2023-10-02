@@ -7,6 +7,7 @@
 - [Himanshu Gaur](https://github.com/Gaur2025)
 - [Bojidar Vladimirov](https://github.com/BojkaV)
 - [Sky Deng](https://github.com/skydonline)
+- [Shrijal Shrestha](https://github.com/ShrijalShrestha)
 - [Musa Ozcetin]
 
 - [Nischal Mudennavar ](https://github.com/nischalmudennavar)
