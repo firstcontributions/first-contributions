@@ -2940,6 +2940,7 @@ Akash Abraham
 - [Rainstorm108](https://github.com/RainStorm108)
 - [Manoj](Nice to meet you all)
 - [Gabriel De Paula](https://github.com/depoultry)
+- [Clarence Gatama Chege](https://github.com/ClarenceG01)
 - [Ruth Naibei](https://github.com/RuthNaibei)
 - [Pedro Rivera](https://github.com/ElitePete)
 - [Ameya Shahu](https://github.com/ameya-shahu)
