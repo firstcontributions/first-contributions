@@ -4,7 +4,7 @@
 - [Himanshu Gaur](https://github.com/Gaur2025)
 - [Bojidar Vladimirov](https://github.com/BojkaV)
 - [Musa Ozcetin]
-- [Nischal Mbudennavar ](https://github.com/nischalmudennavar)
+- [Nischal Mudennavar ](https://github.com/nischalmudennavar)
 - [Ahmed Ryan](https://github.com/ahmedryanfaiyaz)
 -[Himanshu Nanda](https://github.com/himanshunanda22)
 -[Chavi](https://github.com/ChaviSchatz)
