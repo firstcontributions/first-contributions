@@ -30,6 +30,7 @@
 -[sukriti rai](https://github.com/Sukriti-Rai)
 - [Mary Mdukaza](https://github.com/MaryMdukaza)
 - [Krishna Yadav](https://github.com/Yadav97)
+- [Avadhut Giri](https://github.com/Royalty252)
 - [1amkaizen](https://github.com/1amkaizen)
 - [Gustavo Keller](https://github.com/eugustavokeller)
 - [Chaitanya Mudaddala](https://github.com/cmchaitu)
