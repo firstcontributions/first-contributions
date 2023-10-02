@@ -106,7 +106,7 @@ jobs:
             const numLineDeletions = process.env.num_line_deletions;
             const patchedContent = process.env.patched_content;
 
-            const is_one_line_changed = (numLineAdditions === '1' && numLineChanges === '1' && numLineDeletions === '0') || (numLineAdditions === '0' && numLineChanges === '1' && numLineDeletions === '1')
+            const is_one_line_changed = ((numLineAdditions === '1' && numLineChanges === '1' && numLineDeletions === '0') || (numLineAdditions === '0' && numLineChanges === '1' && numLineDeletions === '1'));
 
             // Check only one line added, or only one line changed, or only one line deleted and one line added which makes 2 number of changes in Contributors.md file
             if (is_one_line_changed) {
@@ -121,8 +121,8 @@ jobs:
             }
 
             // More than one line was edited in Contributors.md file
-            core.setOutput('only_one_line_edited', 'false');
-            core.exportVariable('only_one_line_edited', 'false');
+            core.setOutput('only_one_line_edited', is_one_line_changed);
+            core.exportVariable('only_one_line_edited', is_one_line_changed);
             
         # run: |
         #   # Extract the additions and changes fields from the API response
