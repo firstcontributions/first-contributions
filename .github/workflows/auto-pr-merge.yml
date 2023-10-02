@@ -71,6 +71,11 @@ jobs:
                     core.exportVariable('changes', changes);
                     const deletions = contributorsFile.deletions;
                     core.exportVariable('deletions', deletions);
+
+                    
+                    // Extracting the patch field (content which are added)
+                    const patch_text = contributorsFile.patch;
+                    core.exportVariable('patched_content', 
                     
                     console.log(`additions=${additions}`);
                     console.log(`changes=${changes}`);
@@ -110,7 +115,10 @@ jobs:
             echo "only_one_line_edited=true" >> $GITHUB_ENV
 
             # toJSON convert to JSON and jq -r get the value from "patch" as raw 
-            CONTRIBUTORS_MD_CONTENT=$(echo ${{ toJSON(env.pr_files ) }} | jq -r '.[].patch')
+            # CONTRIBUTORS_MD_CONTENT=$(echo ${{ toJSON(env.pr_files ) }} | jq -r '.[].patch')
+
+            #Get the patch content from env variable
+            CONTRIBUTORS_MD_CONTENT=$(echo $patched_content);
 
             # This command uses 'awk' to extract lines from the variable 'CONTRIBUTORS_MD_CONTENT' that were added in a diff.
             # 'awk' processes each line as a separate record (due to 'BEGIN{RS="\\n"}').
@@ -130,6 +138,7 @@ jobs:
 
         env:
           pr_files_url: ${{env.pr_files}}
+          patched_content: ${{env.patched_content}}
           num_line_additions: ${{env.additions}}
           num_line_changes: ${{env.changes}}
           num_line_deletions: ${{env.deletions}}
