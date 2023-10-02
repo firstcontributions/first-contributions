@@ -2679,6 +2679,7 @@ Akash Abraham
 - [franxxu] (https://github.com/franxxu)
 - [RiddlemanMVP] (https://github.com/RiddlemanMVP)
 - [Thuong](https://github.com/ThuongPhan662003)
+- [Marco Pagliari v2] (https://github.com/marcuspag)
 - [Vigneshwaran](https://github.com/neshvig10)
 - [Malewoo Eli](https://github.com/Malewooo16)
 - [pggg]
