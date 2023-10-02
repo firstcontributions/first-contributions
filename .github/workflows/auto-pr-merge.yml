@@ -121,7 +121,10 @@ jobs:
 
             #Get the patch content from env variable
             CONTRIBUTORS_MD_CONTENT=$(echo $patched_content);
+            echo "$CONTRIBUTORS_MD_CONTENT"
+            echo $CONTRIBUTORS_MD_CONTENT
 
+            
             # This command uses 'awk' to extract lines from the variable 'CONTRIBUTORS_MD_CONTENT' that were added in a diff.
             # 'awk' processes each line as a separate record (due to 'BEGIN{RS="\\n"}').
             # It then matches lines starting with a '+' sign (corresponding to lines added in a diff) and prints each matching line, excluding the first character (which is the '+' sign).
