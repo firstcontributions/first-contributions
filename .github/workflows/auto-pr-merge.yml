@@ -129,7 +129,7 @@ jobs:
             # 'awk' processes each line as a separate record (due to 'BEGIN{RS="\\n"}').
             # It then matches lines starting with a '+' sign (corresponding to lines added in a diff) and prints each matching line, excluding the first character (which is the '+' sign).
             # only_added_contents=$(echo "$CONTRIBUTORS_MD_CONTENT" | awk 'BEGIN{RS="\\n"} /^\+/{print substr($0, 2)}')
-            only_added_contents=$(echo ${{ toJSON(CONTRIBUTORS_MD_CONTENT) }}  | awk 'BEGIN{RS="\\n"} /^\+/{print substr($0, 2)}')
+            only_added_contents=$(echo ${{ toJSON(env.patched_content) }}  | awk 'BEGIN{RS="\\n"} /^\+/{print substr($0, 2)}')
             
             echo $only_added_contents
             echo "$only_added_contents"
