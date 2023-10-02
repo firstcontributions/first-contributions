@@ -2585,6 +2585,7 @@ Akash Abraham
 - [Kartik](https://github.com/Kartik1932)
 - [Magframed](https://github.com/SarthakH19)
 - [Kushal](https://github.com/kushal-p1699)
+- [Akshith](https://github.com/Akshith1998)
 - [Gilbert Ozioma](https://github.com/gilbertozioma)
 - [Ron](https://github.com/Ron-Ash)
 - [Mustafa](https://github.com/envoydead7)
