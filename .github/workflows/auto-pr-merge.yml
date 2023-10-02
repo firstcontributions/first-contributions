@@ -97,53 +97,80 @@ jobs:
       - name: Check only one line modified in Contributors.md
         id: check_num_of_lines_modified_step
         if: env.only_contributors == 'true'
-        run: |
-          # Extract the additions and changes fields from the API response
-          # ADDITIONS=$(echo $pr_files_url | jq '.[] | select(.filename == "Contributors.md") | .additions')
-          # CHANGES=$(echo $pr_files_url | jq '.[] | select(.filename == "Contributors.md") | .changes')
-          # DELETIONS=$(echo $pr_files_url | jq '.[] | select(.filename == "Contributors.md") | .deletions')
-          ADDITIONS=$(echo $num_line_additions)
-          CHANGES=$(echo $num_line_changes)
-          DELETIONS=$(echo $num_line_deletions)
+        uses: actions/github-script@v5
+        with:
+          script: |
+            // Get the environment variables
+            const numLineAdditions = process.env.num_line_additions;
+            const numLineChanges = process.env.num_line_changes;
+            const numLineDeletions = process.env.num_line_deletions;
+            const patchedContent = process.env.patched_content;
 
-          # check only one line added, or only one line changed, or only one line deleted and one line added which makes 2 number of changes in Contributors.md file
+            const is_one_line_changed = (numLineAdditions === '1' && numLineChanges === '1' && numLineDeletions === '0') || (numLineAdditions === '0' && numLineChanges === '1' && numLineDeletions === '1')
 
-          if [[ ( $ADDITIONS -eq 1 && $CHANGES -eq 1 && $DELETIONS -eq 0 ) || ( $ADDITIONS -eq 0 && $CHANGES -eq 1 && $DELETIONS -eq 1 ) ]]; then
+            // Check only one line added, or only one line changed, or only one line deleted and one line added which makes 2 number of changes in Contributors.md file
+            if (is_one_line_changed) {
+                // Get the patch content from env variable
+                const contributorsMdContent = patchedContent;
+            
+                // This command uses a regular expression to extract lines from the variable 'contributorsMdContent' that were added in a diff.
+                const onlyAddedContents = contributorsMdContent.split('\n').filter(line => line.startsWith('+')).map(line => line.substring(1));
+            
+                // Set the output
+                core.setOutput('contributors_md_content', onlyAddedContents.join('\n'));
+            }
 
-            # add to job output
-            echo "only_one_line_edited=true" >> "$GITHUB_OUTPUT"
+            // More than one line was edited in Contributors.md file
+            core.setOutput('only_one_line_edited', 'false');
+            core.exportVariable('only_one_line_edited', 'false');
+            
+        # run: |
+        #   # Extract the additions and changes fields from the API response
+        #   # ADDITIONS=$(echo $pr_files_url | jq '.[] | select(.filename == "Contributors.md") | .additions')
+        #   # CHANGES=$(echo $pr_files_url | jq '.[] | select(.filename == "Contributors.md") | .changes')
+        #   # DELETIONS=$(echo $pr_files_url | jq '.[] | select(.filename == "Contributors.md") | .deletions')
+        #   ADDITIONS=$(echo $num_line_additions)
+        #   CHANGES=$(echo $num_line_changes)
+        #   DELETIONS=$(echo $num_line_deletions)
 
-            # env variable
-            echo "only_one_line_edited=true" >> $GITHUB_ENV
+        #   # check only one line added, or only one line changed, or only one line deleted and one line added which makes 2 number of changes in Contributors.md file
 
-            # toJSON convert to JSON and jq -r get the value from "patch" as raw 
-            # CONTRIBUTORS_MD_CONTENT=$(echo ${{ toJSON(env.pr_files ) }} | jq -r '.[].patch')
+        #   if [[ ( $ADDITIONS -eq 1 && $CHANGES -eq 1 && $DELETIONS -eq 0 ) || ( $ADDITIONS -eq 0 && $CHANGES -eq 1 && $DELETIONS -eq 1 ) ]]; then
 
-            #Get the patch content from env variable
-            CONTRIBUTORS_MD_CONTENT=$(echo $patched_content);
-            echo "$CONTRIBUTORS_MD_CONTENT"
-            echo $CONTRIBUTORS_MD_CONTENT
+        #     # add to job output
+        #     echo "only_one_line_edited=true" >> "$GITHUB_OUTPUT"
+
+        #     # env variable
+        #     echo "only_one_line_edited=true" >> $GITHUB_ENV
+
+        #     # toJSON convert to JSON and jq -r get the value from "patch" as raw 
+        #     # CONTRIBUTORS_MD_CONTENT=$(echo ${{ toJSON(env.pr_files ) }} | jq -r '.[].patch')
+
+        #     #Get the patch content from env variable
+        #     CONTRIBUTORS_MD_CONTENT=$(echo $patched_content);
+        #     echo "$CONTRIBUTORS_MD_CONTENT"
+        #     echo $CONTRIBUTORS_MD_CONTENT
 
             
-            # This command uses 'awk' to extract lines from the variable 'CONTRIBUTORS_MD_CONTENT' that were added in a diff.
-            # 'awk' processes each line as a separate record (due to 'BEGIN{RS="\\n"}').
-            # It then matches lines starting with a '+' sign (corresponding to lines added in a diff) and prints each matching line, excluding the first character (which is the '+' sign).
-            # only_added_contents=$(echo "$CONTRIBUTORS_MD_CONTENT" | awk 'BEGIN{RS="\\n"} /^\+/{print substr($0, 2)}')
-            only_added_contents=$(echo ${{ toJSON(env.patched_content) }}  | awk 'BEGIN{RS="\\n"} /^\+/{print substr($0, 2)}')
+        #     # This command uses 'awk' to extract lines from the variable 'CONTRIBUTORS_MD_CONTENT' that were added in a diff.
+        #     # 'awk' processes each line as a separate record (due to 'BEGIN{RS="\\n"}').
+        #     # It then matches lines starting with a '+' sign (corresponding to lines added in a diff) and prints each matching line, excluding the first character (which is the '+' sign).
+        #     # only_added_contents=$(echo "$CONTRIBUTORS_MD_CONTENT" | awk 'BEGIN{RS="\\n"} /^\+/{print substr($0, 2)}')
+        #     only_added_contents=$(echo ${{ toJSON(env.patched_content) }}  | awk 'BEGIN{RS="\\n"} /^\+/{print substr($0, 2)}')
             
-            echo $only_added_contents
-            echo "$only_added_contents"
+        #     echo $only_added_contents
+        #     echo "$only_added_contents"
 
-            echo "contributors_md_content=$only_added_contents" >> "$GITHUB_OUTPUT"
+        #     echo "contributors_md_content=$only_added_contents" >> "$GITHUB_OUTPUT"
 
-          else
+        #   else
 
-            # More than one line was edited in Contributors.md file
-            echo "only_one_line_edited=false" >> "$GITHUB_OUTPUT"
+        #     # More than one line was edited in Contributors.md file
+        #     echo "only_one_line_edited=false" >> "$GITHUB_OUTPUT"
 
-            echo "only_one_line_edited=false" >> $GITHUB_ENV
+        #     echo "only_one_line_edited=false" >> $GITHUB_ENV
 
-          fi
+        #   fi
 
         env:
           pr_files_url: ${{env.pr_files}}
