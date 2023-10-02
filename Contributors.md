@@ -205,6 +205,7 @@ gulshan
 - [Israel Zorzor](https://github.com/Hammondziggy)
 - [Vinayak Raj](https://github.com/vinayakmraj)
 - [Sebastian Gomez V](https://github.com/segpy)
+- [Nivedita Chatterjee](https://github.com/Nivedita021)
 - [Vikalp Sharma](https://github.com/Paper-Bag-dev)
 - [shanmukh sai](https://github.com/shanmukh-sai2003)
 - [Lauren Miller]
