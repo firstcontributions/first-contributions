@@ -95,6 +95,7 @@ gulshan
 - [Meron_Endris](https://github.com/MeronMEndris)
 - [Arjit Kedia](https://github.com/combfreak45)
 - [Aditya Dhaduk] (https://github.com/Aditya2814)
+- [Sooyoung Lee](https://github.com/leesooy01)
 - [Aarone George](https://github.com/AaroneGeorge)
 - [Adeola Ojekunle](https://github.com/adeola-code)
 - [Sandhya Kumari](https://github.com/Sandhya312)
