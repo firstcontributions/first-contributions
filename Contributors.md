@@ -1113,6 +1113,7 @@ Nikhil R
 - [Yushan]
 - [Abdallah](https://github.com/6urk)
 - [Arpit Burgess](https://github.com/arpitburgess)
+- [R894](https://github.com/R894)
 - [Guilherme Nunes](https://github.com/guilhermenunes25)
 - [Ilias Dimopoulos](https://github.com/IliasDimopoulos99)
 - Yushan
