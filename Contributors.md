@@ -225,6 +225,7 @@ gulshan
 - [Linet Oliech](https://github.com/QuincyOliech)
 - [ahwz84](https://github.com/hanweiz)
 - [Ali Imran](https://github.com/AquaticBlaze1)
+- [Leo Xu](https://github.com/LeoXu9)
 - [Jack Hannon](https://github.com/Mezzichai)
 - [Tabia Bechir](https://github.com/t-bechir)
 - [shivam mishra](https://github.com/ShivamMishra2002)
