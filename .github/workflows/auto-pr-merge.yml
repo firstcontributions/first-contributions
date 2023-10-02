@@ -58,11 +58,29 @@ jobs:
                 
                 // Check if only 'Contributors.md' is in the list of changed files
                 const isOnlyContributorsFileChanged = filenames.length === 1 && filenames[0] === 'Contributors.md';
+
+                if (isOnlyContributorsFileChanged) {
+
+                    // Find the 'Contributors.md' file in the response
+                    const contributorsFile = filesChanged.find(file => file.filename === 'Contributors.md');
+
+                    // Extract the additions, changes, and deletions fields
+                    const additions = contributorsFile.additions;
+                    core.exportVariable('additions', additions);
+                    const changes = contributorsFile.changes;
+                    core.exportVariable('changes', changes);
+                    const deletions = contributorsFile.deletions;
+                    core.exportVariable('deletions', deletions);
+                    
+                    console.log(`additions=${additions}`);
+                    console.log(`changes=${changes}`);
+                    console.log(`deletions=${deletions}`);
+                }
             
                 // Set output and environment variable
                 core.setOutput('only_contributors', isOnlyContributorsFileChanged);
                 core.exportVariable('only_contributors', isOnlyContributorsFileChanged);
-                } catch (error) {
+              } catch (error) {
                   core.setFailed(error.message);
                 }
             }
@@ -74,10 +92,12 @@ jobs:
         if: env.only_contributors == 'true'
         run: |
           # Extract the additions and changes fields from the API response
-          ADDITIONS=$(echo $pr_files_url | jq '.[] | select(.filename == "Contributors.md") | .additions')
-          CHANGES=$(echo $pr_files_url | jq '.[] | select(.filename == "Contributors.md") | .changes')
-          DELETIONS=$(echo $pr_files_url | jq '.[] | select(.filename == "Contributors.md") | .deletions')
-
+          # ADDITIONS=$(echo $pr_files_url | jq '.[] | select(.filename == "Contributors.md") | .additions')
+          # CHANGES=$(echo $pr_files_url | jq '.[] | select(.filename == "Contributors.md") | .changes')
+          # DELETIONS=$(echo $pr_files_url | jq '.[] | select(.filename == "Contributors.md") | .deletions')
+          ADDITIONS=$(echo $num_line_additions)
+          CHANGES=$(echo $num_line_changes)
+          DELETIONS=$(echo $num_line_deletions)
 
           # check only one line added, or only one line changed, or only one line deleted and one line added which makes 2 number of changes in Contributors.md file
 
@@ -110,6 +130,10 @@ jobs:
 
         env:
           pr_files_url: ${{env.pr_files}}
+          num_line_additions: ${{env.additions}}
+          num_line_changes: ${{env.changes}}
+          num_line_deletions: ${{env.deletions}}
+          
 
       - name: Delete previous comments from the bot
         uses: actions/github-script@v5
