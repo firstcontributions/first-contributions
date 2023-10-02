@@ -319,6 +319,7 @@ Pizzacat
 - [Peter Iskandar](https://github.com/Peter-Fayez95)
 - [Amit Sathvara](https://github.com/amitsathvara)
 - [Yiji](https://github.com/yijiyap)
+- [Atul Xalxo](https://github.com/Atul-Xalxo)
 - [Taneeshka Reddy](https://github.com/TaneeshkaReddy)
 - [Aniket Garole](https://github.com/aniketgarole)
 - [Fred Postles](https://github.com/fredpostles)
