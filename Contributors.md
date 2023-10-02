@@ -158,6 +158,7 @@ gulshan
 - [Kishan Kumar Rai](https://github.com/kishanrajput23)
 - [Jagannath Mestry](https://github.com/Jagannath15)
 - [Arshad Shaik](https://github.com/Arshu200)
+- [Yuk Shu Shukie Li](https://github.com/lishukie6588)
 - [Frank Neblung](https://github.com/neblung)
 - [Aditya Prakash](https://github.com/heyitsadityaa)
 - [Subham Jyoti](https://github.com/Derixtar54)
