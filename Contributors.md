@@ -1567,6 +1567,7 @@ Nikhil R
 - [Jana Hafez](https://github.com/JanaHafez1)
 - [Ramil Algayev](https://github.com/EuropeanMosquito)
 - [Anjali](https://github.com/anjali-sambargi)
+- [Binod Adhikari](https://github.com/idonib)
 - [Shrestha Tripathi](https://github.com/shrestha-tripathi)
 - [Federico Podesta](https://github.com/FedePodesta)
 - [sourac](https://github.com/sourac)
