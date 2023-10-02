@@ -81,6 +81,7 @@ jobs:
                     console.log(`additions=${additions}`);
                     console.log(`changes=${changes}`);
                     console.log(`deletions=${deletions}`);
+                    console.log(`patched_content=${patched_content}`);
                 }
             
                 // Set output and environment variable
