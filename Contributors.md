@@ -34,6 +34,7 @@ KOR EU WEI
 - [Siddant-Tripathi] (https://https://github.com/trisid12/)
 - [Kalender Toptas](https://github.com/toptaskalender)
 - [Anand-Vardhan-Shekhar](https://github.com/anandvardhan09)
+- [Avadhut Giri](https://github.com/Royalty252)
 - [Suhas B G](https://github.com/SuhasBG)
 - [Nicholas-Garbutt](https://github.com/Nicholas-Garbutt)
 - [Vita Golubovska](https://github.com/Golubko)
