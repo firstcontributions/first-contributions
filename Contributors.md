@@ -84,6 +84,7 @@
 - [Felipe Alves](https://github.com/felpsalvs)
 [Nawshikha Mahato](https://github.com/nawshikha)
 - [Alex Chen](https://github.com/alexchen2) 
+- [Richa Banerjee] (https://github.com/RichaBanerjee)
 - [Peter Faretra] (https://github.com/peterston-e)
 gulshan 
 - [Abhinav Puri](https://github.com/Abhinav16072001)
