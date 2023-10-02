@@ -4,7 +4,7 @@
 - [Himanshu Gaur](https://github.com/Gaur2025)
 - [Bojidar Vladimirov](https://github.com/BojkaV)
 - [Musa Ozcetin]
-- [Nischal Mudennavar ](https://github.com/nischalmudennavar)
+- [Nischal Mbudennavar ](https://github.com/nischalmudennavar)
 - [Ahmed Ryan](https://github.com/ahmedryanfaiyaz)
 -[Himanshu Nanda](https://github.com/himanshunanda22)
 -[Chavi](https://github.com/ChaviSchatz)
@@ -2908,3 +2908,4 @@ T7
 - [JojiSeb] - JojiSeb was here :)
 - [Ronit Kumar Baranwal]-(https://github.com/RonitBaranwal)
 - [Zaher Hage]-(https://github.com/zaherhage)
+- [Prax](https://github.com/prax860)
