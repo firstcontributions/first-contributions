@@ -12,6 +12,7 @@
 - [Sky Deng](https://github.com/skydonline)
 - [Shrijal Shrestha](https://github.com/ShrijalShrestha)
 - [Musa Ozcetin]
+- [Eray Özen] (https://github.com/erbat1)
 
 - [Nischal Mudennavar ](https://github.com/nischalmudennavar)
 - [Ahmed Ryan](https://github.com/ahmedryanfaiyaz)
