@@ -12,6 +12,7 @@
 - [Karanjot Singh](https://github.com/karanjot786)
 - [Mats Muller](https://github.com/AM800Mats)
 - [Jervin Alejandro](https://github.com/JervinAlejandro)
+- [TheBlessing33](https://github.com/theblessing33)
 - [Rohit Kumar Srivastava](https://github.com/rohitsrivastava2000)
 - [Shreyas Sridhar](https://github.com/shreyas-sridhar)
 - [Martin Jälmby](https://github.com/m-jalmby)
