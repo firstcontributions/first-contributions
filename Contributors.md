@@ -66,6 +66,7 @@
    [Anshul Namdev] (https://github.com/Anshun352)
 - [Aryan Sahare] (https://github.com/AryanSahare01)
 - [Alexandre Godoy Peres](https://github.com/AlexandreP23)
+- [Ankit Ujjwal Kujur](https://github.com/ankitkujur15)
 - [Sowad Khan](https://github.com/SowadK25)
 - [Shaqeeb Akhtar](https://github.com/shaqeebakhtar)
 - [Aazath Abdul Salam](https://github.com/aazath)
