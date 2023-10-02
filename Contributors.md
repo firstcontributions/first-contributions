@@ -52,6 +52,7 @@
   [sukriti rai](https://github.com/Sukriti-Rai)
 - [Minhaz Arfin] (https://github.com/Minhaz-Arfin)
 - [Okitta Ongaye](https://github.com/okitta)
+- [Joe Palladino](https://gitub.com/Mindfulgeek)
 - [Himanshi Gupta](https://github.com/himanshigupta22)
 - [Pratham Dhiman](https://github.com/Pratham86)
 - [Abhinay singh](https://github.com/Abhinay123Singh)
