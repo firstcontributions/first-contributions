@@ -15,6 +15,7 @@
 - [Karanjot Singh](https://github.com/karanjot786)
 - [Mats Muller](https://github.com/AM800Mats)
 - [Jervin Alejandro](https://github.com/JervinAlejandro)
+- [TheBlessing33](https://github.com/theblessing33)
 - [Rohit Kumar Srivastava](https://github.com/rohitsrivastava2000)
 - [Sujal Bhor](https://github.com/bhorsujal)
 - [Shreyas Sridhar](https://github.com/shreyas-sridhar)
