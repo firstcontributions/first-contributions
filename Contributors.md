@@ -1433,6 +1433,7 @@ Nikhil R
 - [Anthony Capecci](https://github.com/AnthonyCap13)
 - [rmknan](https://github.com/rmknan)
 - [Kevin Chen] (https://github.com/kevin5112)
+- [Yuk Shu Shukie Li] (https://github.com/lishukie6588)
 - [Glodie Lukose](https://github.com/glodielukose)
 - [Vaibhav Mahajan](https://github.com/vaibhav-3003)
 - [Santiago Gualchi](https://github.com/santigualchi)
