@@ -2884,6 +2884,7 @@ Akash Abraham
 - [Cheyenne Abel](https://github.com/cheyenneabel)
 - [Marcel Jamecny](https://github.com/mjamecny)
 - [João Gomes](https://github.com/joaoeduardogomes)
+- [Danilo Gomes](https://github.com/Dgomes18)
 - Luis Pacheco
 - [Rahul Sajwan](https://github.com/rahulsajwan05)
 - [Arkadipta Mojumder](https://github.com/arkaslittlemind)
