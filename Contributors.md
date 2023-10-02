@@ -642,6 +642,7 @@ Sino Felicity Zwane
 - [jdcantorna]
 - [Abhishek Amber][https://github.com/amberabhi]
 - [Sreekumar Krishnan](https://github.com/SreekumarKrishnan)
+- [ELena Guo](https://github.com/ElenaGuo404)
 - [Nandhu Sathish] (https://github.com/NandhuSathish)
 - [Reign Cyril De Vera] (https://github.com/reign-cyril-de-vera)
 - [Sharanabasava] (https://github.com/Sharan-14)
