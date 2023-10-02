@@ -709,6 +709,7 @@ Sino Felicity Zwane
 -psuuc-lilibagcal
 - [psuuc-jepllamas]
 -psuuc-rdtsongalla
+-pauletchrislyn
 - psuuc-rjnbarrientos (https://github.com/psuuc-rjnbarrientos)
 - [Musie Yehdego] (https://github.com/Tall-Guy-Musie-Yehdego)
 - PSUUC-IGappe (https://github.com/MrNewtothis)
