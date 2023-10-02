@@ -1153,6 +1153,7 @@ Nikhil R
 - [Ahmed ezealdean (https://github.com/codezol)]
 - [Tiago404](https://github.com/Tiago404)
 - [Yaroslav Baienko](https://github.com/YaroslavBaienko)
+- [Faris Karim](https://github.com/FarisKarim)
 - [Devansh Behl](https://github.com/behldevansh)
 - [Vaishnavi](https://github.com/Vaishnavikv2)
 - [motongxue](https://github.com/motongxue)
