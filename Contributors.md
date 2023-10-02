@@ -308,6 +308,7 @@ Pizzacat
 - [Moritz Sontheimer](https://github.com/mojoee)
 - [Oscar3334](https://github.com/Oscar3334)
 - EUGezzzzezzzz
+- [Dixon Kim](https://github.com/grimm-65)
 - [Hari R](https://github.com/uusername001)
 - [vaishnavi](https://github.com/vaishnavisisodiya/first-contributions)
 - [adelakun-godspower] (https://github.com/Plutobby)
