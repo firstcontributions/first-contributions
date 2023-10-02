@@ -44,6 +44,7 @@
 - [Lucas Almeida](https://github.com/LucasAlmeida-jpg)
 - [Masoud Farmani](https://github.com/MasoudIV)
 - [Olowo Jude](https://github.com/olowojude)
+- [Alison Haas](https://github.com/alihaas)
 - [Kelechi Amos](https://github.com/kellyncodes)
 - [Ayush Deshmukh](https://github.com/XARTAN21)
 - [Rishav Raj](https://github.com/rishavr920)
