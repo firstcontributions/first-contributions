@@ -6,7 +6,7 @@
 #### _Read this in [other languages](translations/Translations.md)._
 <kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/al.svg" width="22">](translations/README.al.md)</kbd>
 <kbd>[<img title="Uzbek" alt="Uzbek language" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/uz.svg" width="22">](translations/README.uz.md)</kbd>
-<kbd>[<img title="Armenian" alt="Shqip" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/am.svg" width="22">](translations/README.hy.md)</kbd>
+<kbd>[<img title="Armenian" alt="Armenian language" src="https://github.com/VazgenMartiros-dev/first-contributions/assets/33204630/2e201029-5e3c-4884-a9ab-2e122a4dd7b0" width="22">](translations/README.arm.md)</kbd>
 <kbd>[<img title="Azərbaycan dili" alt="Azərbaycan dili" src="https://cdn.statically.io/flags/az.svg" width="22">](translations/README.aze.md)</kbd>
 <kbd>[<img title="বাংলা" alt="বাংলা" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/bd.svg" width="22">](translations/README.bn.md)</kbd>
 <kbd>[<img title="Bulgarian" alt="Bulgarian" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/bg.svg" width="22">](translations/README.bg.md)</kbd>
