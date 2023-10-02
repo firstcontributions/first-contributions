@@ -34,6 +34,7 @@
 - [Diegowh](https://github.com/Diegowh)
 - [Mayank Gupta](https://github.com/mayankg-me)
 - [Vaibhav Patil](https://github.com/VaibhavAPatil)
+- [Lucas Almeida](https://github.com/LucasAlmeida-jpg)
 - [Masoud Farmani](https://github.com/MasoudIV)
 - [Olowo Jude](https://github.com/olowojude)
 - [Kelechi Amos](https://github.com/kellyncodes)
