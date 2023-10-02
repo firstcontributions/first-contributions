@@ -3009,3 +3009,4 @@ Akash Abraham
 - [Albertus Cilliers(https://github.com/Bergbok)]
 -[Aman Vijay](https://github.com/Aman-vijay)
 -[Mohamed Suhaib](https://github.com/SuhaibRSQSI)
+- [Simon Altuve](https://github.com/simonAltuve)
