@@ -50,6 +50,8 @@ jobs:
         run: |
           # Extract the filenames from the API response
           FILES_CHANGED=$(echo ${{ toJSON(env.pr_files ) }} | jq ".[].filename")
+          echo "$FILES_CHANGED"
+          echo $FILES_CHANGED
 
           # FIXME: fix the logic for storing file name; currently, if there is space in the file name, it will be stored as two different files in the output. e.g "File name.md" will be stored as "File" and "name.md
 
