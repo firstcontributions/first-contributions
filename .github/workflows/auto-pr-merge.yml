@@ -76,6 +76,7 @@ jobs:
                     // Extracting the patch field (content which are added)
                     const patch_text = contributorsFile.patch;
                     core.exportVariable('patched_content', patch_text);
+                    # core.setOutput('patched_content', patch_text);
                     
                     console.log(`additions=${additions}`);
                     console.log(`changes=${changes}`);
@@ -124,6 +125,8 @@ jobs:
             # 'awk' processes each line as a separate record (due to 'BEGIN{RS="\\n"}').
             # It then matches lines starting with a '+' sign (corresponding to lines added in a diff) and prints each matching line, excluding the first character (which is the '+' sign).
             only_added_contents=$(echo "$CONTRIBUTORS_MD_CONTENT" | awk 'BEGIN{RS="\\n"} /^\+/{print substr($0, 2)}')
+            echo $only_added_contents
+            echo "$only_added_contents"
 
             echo "contributors_md_content=$only_added_contents" >> "$GITHUB_OUTPUT"
 
@@ -272,6 +275,8 @@ jobs:
         id: separate_text_and_links_from_content
         if: env.get_is_only_contributors_file_changed == 'true' && env.get_is_only_one_line_modified == 'true'
         run: |
+          echo $get_contributors_md_content
+          echo "$get_contributors_md_content"
           #the regular expression ((https?:\/\/|www\.)[^\s]+|[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}) will match any word that starts with http://, https://, or www., or any word that looks like a domain name (one or more alphanumeric characters or hyphens, followed by a dot and two or more alphabetic characters).
           only_added_links=$(echo $get_contributors_md_content | awk 'BEGIN{RS=" ";} /((https?:\/\/|www\.)[^\s]+|[a-zA-Z0-9.-]+\.[a-zA-Z]{2,})/{print}' | sed 's/[.,;]$//')
           echo "Pirnt out of what is only_added_links"
