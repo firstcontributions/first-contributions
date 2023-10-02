@@ -318,6 +318,7 @@ Pizzacat
 - [Maheshwar S](https://github.com/Maheshwar-S)
 - [Arnav V](https://github.com/Arnav17v/)
 - [Timothy Kwok](https://github.com/timmywimmy95/)
+- [Vitalii Dudok](https://github.com/vitaliid)
 - [Moritz Sontheimer](https://github.com/mojoee)
 - [Oscar3334](https://github.com/Oscar3334)
 - EUGezzzzezzzz
