@@ -417,6 +417,7 @@ JialingYU
 - [justnuha]
 - [Ansil M B](https://github.com/ansilmbabl)
 Stanley Nzegwu
+- [Kevin Tran](https://github.com/kevinThighTran)
 nathaniel
 - [Sudip Das](https://github.com/pris01)
 - [Rasmus]
