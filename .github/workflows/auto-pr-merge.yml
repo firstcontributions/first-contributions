@@ -463,7 +463,7 @@ jobs:
                 state: 'closed'
               });
 
-              core.setFailed("status", "closed");
+              core.setFailed("status: closed PR due to offensive content contains!");
 
             } catch (error) {
               console.error("Error closing pull request:", error.message);
