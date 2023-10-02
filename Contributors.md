@@ -226,6 +226,7 @@ gulshan
 - [Ali Imran](https://github.com/AquaticBlaze1)
 - [Jack Hannon](https://github.com/Mezzichai)
 - [Tabia Bechir](https://github.com/t-bechir)
+- [shivam mishra](https://github.com/ShivamMishra2002)
 - [Manny Beras](https://github.com/mberas)
 - [Debroop Ghosh](https://github.com/debroopghosh11)
 [ORaies](https://github.com/ORaies)
