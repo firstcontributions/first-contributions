@@ -1,5 +1,6 @@
 
 # Contributors
+- [Shanit Paul](https://github.com/SlicePoh)
 - [Davit Natenadze](https://github.com/Natenadze)
 - [Dheeraj Purohit](https://github.com/purohitdheeraj)
 - [Vrushabh Bhabire](https://github.com/Vrushabh-vb)
