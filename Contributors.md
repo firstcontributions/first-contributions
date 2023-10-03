@@ -67,7 +67,7 @@
 - [Michael Ojogbo] (https://github.com/90splayer)
   [gulshan](https://github.com/gulshankapse/gulshankapse)
 -Aryan Tanwar
-   [Bista] 
+   [Bista]
   [Ritik Jain](https://github.com/PANDACR)
    [Anshul Namdev] (https://github.com/Anshun352)
 - [Aryan Sahare] (https://github.com/AryanSahare01)
@@ -90,10 +90,10 @@
 - [Karanjot Singh](https://github.com/karanjot786)
 - [Felipe Alves](https://github.com/felpsalvs)
 [Nawshikha Mahato](https://github.com/nawshikha)
-- [Alex Chen](https://github.com/alexchen2) 
+- [Alex Chen](https://github.com/alexchen2)
 - [Richa Banerjee] (https://github.com/RichaBanerjee)
 - [Peter Faretra] (https://github.com/peterston-e)
-gulshan 
+gulshan
 - [Blake Williams](https://github.com/Programmer061703)
 - [Abhinav Puri](https://github.com/Abhinav16072001)
 - [Emilly Tiampati](https://github.com/sereyatiampati)
@@ -204,7 +204,7 @@ gulshan
 - [Rohit Kavitake](https://github.com/Rohit-Kavitake)
 - [Parth Bijpuriya](https://github.com/parth656)
 - [Tommy Shiels](https://github.com/tshiels)
-- 
+-
 - [CallumReilly] (https://github.com/calumariy)
 - [NicholeWhatcott] (https://github.com/hotmessmonster)
 - [Shreyas Rajiv](https://github.com/shreyasrajiv327)
@@ -774,6 +774,7 @@ Sino Felicity Zwane
 - [Achal](https://github.com/achal-00)
 - [Gideon-Buba](https://github.com/Gideon-Buba)
 - [Akshit Rawat](https://github.com/akshitrawat1)
+- [Paulina Boadiwaa Mensah] (https://github.com/Boadiwaa)
 - [Anushthan Saxena](https://github.com/AnushthanS)
 - [Pratham Chauhan](https://github.com/Pratham271)
 - [Abhay Jain](https://github.com/MentallyCramped)
@@ -1570,7 +1571,7 @@ Nikhil R
 - [Axel García](https://github.com/axelthepony27)
 - [Dany Nghaywe](https://github.com/DanyNghaywe)
 - [Dev-Ogechi](https://github.com/Dev-Ogechi)
-- [Byeongun Park](https://github.com/bupark82) 
+- [Byeongun Park](https://github.com/bupark82)
 - [Darshan Patel](https://github.com/Darshan2923)
 - [Add Byeongun Park](https://github.com/bupark82)
 - [Another Byeongun Park](https://github.com/bupark82)
@@ -3003,7 +3004,7 @@ Akash Abraham
 - [Sandeep Pal]( https://github.com/pal-sandeep)
 - [Fraggerz777]( https://github.com/Fraggerz777)
 - [Yahya Mohammed](https://github.com/yahya-mohammed07)
-- [JaJa] 
+- [JaJa]
 - [Jakob Lamber](https://github.com/JamLambCode)
 - [Sony Febrian](https://github.com/sonyfebrian)
 - [Sarah Caulfield](https://github.com/scaulfield7)
