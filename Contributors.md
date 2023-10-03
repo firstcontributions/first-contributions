@@ -2,6 +2,7 @@
 # Contributors
 - [Davit Natenadze](https://github.com/Natenadze)
 - [Vrushabh Bhabire](https://github.com/Vrushabh-vb)
+- [John Kim](https://github.com/kjhhero)
 - [Ram Sankar S](https://github.com/RamSankarS)
 - [Roopa Dharshini](https://github.com/Rupa-Rd)
 - [Suraj Yadav](https://github.com/suraj-yadav0)
