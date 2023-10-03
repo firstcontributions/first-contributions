@@ -304,6 +304,7 @@ gulshan
 - [Hariprasad C](https://github.com/Haripc525)
 - [Gazmend Shehu](https://github.com/zigameni)
 - [Himanshu Mahaur](https://github.com/himanshumahaur)
+- [Jinxiu Liu](https://github.com/jliu100)
 - [Swatche]
 - [Anushka Banerjee](https://github.com/Anushka200310)
 - [BamjosAdeniyi](https://github.com/BamjosAdeniyi)
