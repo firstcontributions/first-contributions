@@ -18,6 +18,7 @@
 - [Slaven Pikija](https://github.com/spikija)
 - [Sarah Okenwa](https://github.com/sarahokenwa)
 - [Himanshu Gaur](https://github.com/Gaur2025)
+- [Blossom Eze](https://github.com/Blossomeze)
 - [Bojidar Vladimirov](https://github.com/BojkaV)
 - [Jannat Khan](https://github.com/JannatKhan1)
 - [Sky Deng](https://github.com/skydonline)
