@@ -2426,6 +2426,7 @@ Akash Abraham
 - Poorvaja Satha Sivam
 - Endangered358
 - [PeKaStLa](https://github.com/PeKaStLa/)
+- [Njoli Patrick](https://github.com/njolipatrick/)
 - [Alamin](https://github.com/AlaminPu1007)
 - [Irfan Ali](https://github.com/irfanali1995/irfanali1995)
 - [Unnikrishnan Namboothiri](https://github.com/unnikrishnanNam)
