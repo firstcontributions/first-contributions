@@ -18,6 +18,7 @@
 - [Ahmed Ryan](https://github.com/ahmedryanfaiyaz)
 - [Himanshu Nanda](https://github.com/himanshunanda22)
 - [Chavi](https://github.com/ChaviSchatz)
+- [Agrima Gupta](https://github.com/sassy-bugs)
 - [Taniya Souza](https://github.com/chemicoholic21)
 - [Karanjot Singh](https://github.com/karanjot786)
 - [Saathwika Dhenuvakonda](https://github.com/saathwikad)
