@@ -612,6 +612,7 @@ Sino Felicity Zwane
 - [Laissa Nicole dela Cruz](https://github.com/LaissaNicole)
 - [[Trustbycode]](https://github.com/trustbycode/)
 - [Trustbycode] (https://github.com/trustbycode/)
+- [Ankit G](https://github.com/ankitgadling)
 - [Soxface] (https://github.com/SoxFace)
 - [Jacob Plotz] (https://github.com/jplotz)
 - [Siddant-Tripathi] (https://https://github.com/trisid12/)
