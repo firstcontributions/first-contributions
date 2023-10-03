@@ -14,7 +14,7 @@
 - [Shrijal Shrestha](https://github.com/ShrijalShrestha)
 - [Musa Ozcetin]
 - [Eray Özen] (https://github.com/erbat1)
-
+- pranjal
 - [Nischal Mudennavar ](https://github.com/nischalmudennavar)
 - [Balogun Muhammad Awwal](https://github.com/Muhammad0320) 
 - [Ahmed Ryan](https://github.com/ahmedryanfaiyaz)
