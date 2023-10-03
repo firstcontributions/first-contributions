@@ -15,6 +15,7 @@
 - [Musa Ozcetin]
 - [Eray Özen] (https://github.com/erbat1)
 - pranjal
+- Amna Salahudin
 - [Nischal Mudennavar ](https://github.com/nischalmudennavar)
 - [Edward Bera] (https://github.com/edwardbera)
 - [Balogun Muhammad Awwal](https://github.com/Muhammad0320) 
