@@ -56,6 +56,7 @@
 - [Alison Haas](https://github.com/alihaas)
 - [Kelechi Amos](https://github.com/kellyncodes)
 - [Ayush Deshmukh](https://github.com/XARTAN21)
+- [BHASKAR SINGH](https://github.com/bhaskar962) 
 - [Rishav Raj](https://github.com/rishavr920)
 - [Ebube Onwuta](https://github.com/Ebuube)
   [sukriti rai](https://github.com/Sukriti-Rai)
