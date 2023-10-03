@@ -3059,6 +3059,7 @@ Akash Abraham
 - [Simon Altuve](https://github.com/simonAltuve)
 -[Robert Wood](https://github.com/rw219)
 - [Kishore Kumar](https://github.com/4652KishoreKumar)
+- [Naveen Renold](https://github.com/naveenrenold)
 - [Haui1112](https://github.com/Haui1112)
 - [Hamza Imran](https://github.com/hamza-imran75)
 - [Abdul Manan](https://github.com/abdul-manan02)
