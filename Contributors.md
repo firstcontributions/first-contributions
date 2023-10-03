@@ -136,6 +136,7 @@ gulshan
 - [Gokul](https://github.com/Gokul2003g)
 -gulshan
 - [Raumdeuter_007]
+- [Brandon Parrott](https://github.com/bparrott3)
 - [Taofeek Adeniyi](https://github.com/tee4tao)
 - [Jonathan Mbiya](https://github.com/JonathanMbiya)
 - [Pavan Kalyan](https://github.com/Pavan782)gg
