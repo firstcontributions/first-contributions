@@ -14,6 +14,7 @@
 - [Sarah Okenwa](https://github.com/sarahokenwa)
 - [Himanshu Gaur](https://github.com/Gaur2025)
 - [Bojidar Vladimirov](https://github.com/BojkaV)
+- [Jannat Khan](https://github.com/JannatKhan1)
 - [Sky Deng](https://github.com/skydonline)
 - [Shrijal Shrestha](https://github.com/ShrijalShrestha)
 - [Musa Ozcetin]
