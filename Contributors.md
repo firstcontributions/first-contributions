@@ -2251,6 +2251,7 @@ Akash Abraham
 - [Michaela](https://github.com/Michaela-K)
 - [Giulia Fabiani](https://github.com/g-fabiani)
 - [Nguyen Quoc Tran](https://github.com/NguyenTran88)
+- [Avinash K](https://github.com/avinash-kannan)
 - [Hattie Tavares](https://github.com/HattieTavares)
 - [hack3rwhale](https://github.com/hack3rwhale)
 - [Joseph Venable](https://github.com/JJVenable)
