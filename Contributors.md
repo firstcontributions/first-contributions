@@ -1,6 +1,7 @@
 
 # Contributors
 - [Davit Natenadze](https://github.com/Natenadze)
+- [Dheeraj Purohit](https://github.com/purohitdheeraj)
 - [Vrushabh Bhabire](https://github.com/Vrushabh-vb)
 - [Ram Sankar S](https://github.com/RamSankarS)
 - [Roopa Dharshini](https://github.com/Rupa-Rd)
