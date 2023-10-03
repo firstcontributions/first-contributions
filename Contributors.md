@@ -3,6 +3,7 @@
 - [Davit Natenadze](https://github.com/Natenadze)
 - [Vrushabh Bhabire](https://github.com/Vrushabh-vb)
 - [Roopa Dharshini](https://github.com/Rupa-Rd)
+- [Suraj Yadav](https://github.com/suraj-yadav0)
 - [Ullas Kakanadan](https://github.com/uk974q)
 - [Bhawana Gaur](https://github.com/bhawana2001)
 - [Abhishik karmakar](https://github.com/AbhisKarma/)
