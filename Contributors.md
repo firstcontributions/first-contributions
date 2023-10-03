@@ -2228,6 +2228,7 @@ Akash Abraham
 - [wlftuc](https://github.com/wlftuc)
 - [Sarang S](https://github.com/saaarangs)
 - [Martin Parodi](https://github.com/mparodi3391)
+- [Macaulay Israel](https://github.com/izzimars)
 - [Ju Kaifeng](https://github.com/dllcnx)
 - [John Sebastian](https://github.com/CapedBaldie)
 - [Ester Guri](https://github.com/esterguri)
@@ -3044,3 +3045,4 @@ Akash Abraham
 - [Abdul Manan](https://github.com/abdul-manan02)
 - [Hiseulgi](https://github.com/hiseulgi)
 -[Amit Nalawade](https://github.com/amit0804-tech)
+
