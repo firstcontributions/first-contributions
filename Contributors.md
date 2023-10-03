@@ -2878,6 +2878,7 @@ Akash Abraham
 - [Ren Chen](https://github.com/renChenTheProgrammer)
 - [Ajit Krishnamoorthy](https://github.com/ajit-krishnamoorthy)
 - [Ronaldi] (https://github.com/RonaldiVX1)
+- [Ankush Kalsotra](https://github.com/AnkushKalsotra)
 - [lazym0on] (https://github.com/lazym0on)
 
 - [Aditya Kumar] (https://github.com/AdityasGtHub)
