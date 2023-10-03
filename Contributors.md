@@ -8,6 +8,7 @@
 - [John Kim](https://github.com/kjhhero)
 - [Ram Sankar S](https://github.com/RamSankarS)
 - [Roopa Dharshini](https://github.com/Rupa-Rd)
+- [Christine Allay] (https://github.com/ceaupid) 
 - [Suraj Yadav](https://github.com/suraj-yadav0)
 - [Ullas Kakanadan](https://github.com/uk974q)
 - [Bhawana Gaur](https://github.com/bhawana2001)
