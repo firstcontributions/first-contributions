@@ -239,6 +239,7 @@ gulshan
 - [Debroop Ghosh](https://github.com/debroopghosh11)
 [ORaies](https://github.com/ORaies)
 - [Ziqi] (https://github.com/zi7feng)
+- [Miguel Hernandez] (https://github.com/miguelhc12)
 - SOMETHING IS HERE
 - [Anirban Chakraborty](https://github.com/nobrainer-cpu)
 - [Martín Martínez Arias](https://github.com/codemarti)
