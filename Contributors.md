@@ -177,6 +177,7 @@ gulshan
 - [ababa amr] (https://github.com/a-amr)
 - [Omotolani Shodunke](https://github.com/Tolanee)
 - [Ishita Choudhury](https://github.com/ImcalledIshita)
+- [Brendan Cook](https://github.com/cookb7)
 - [Sreekar Sai](https://github.com/sreekarsai193)
 - [Luckydhingra]((https://github.com/Luckydhingra)
 - [exotic brain](https://github.com/exoticBrain)
