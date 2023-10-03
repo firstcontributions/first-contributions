@@ -5,7 +5,6 @@
 - [7oda]tss
 - [Dheeraj Purohit](https://github.com/purohitdheeraj)
 - [Vrushabh Bhabire](https://github.com/Vrushabh-vb)
-- [Blossom Eze](https://github.com/Blossomeze)
 - [John Kim](https://github.com/kjhhero)
 - [Ram Sankar S](https://github.com/RamSankarS)
 - [Roopa Dharshini](https://github.com/Rupa-Rd)
@@ -19,6 +18,7 @@
 - [Slaven Pikija](https://github.com/spikija)
 - [Sarah Okenwa](https://github.com/sarahokenwa)
 - [Himanshu Gaur](https://github.com/Gaur2025)
+- [Blossom Eze](https://github.com/Blossomeze)
 - [Bojidar Vladimirov](https://github.com/BojkaV)
 - [Jannat Khan](https://github.com/JannatKhan1)
 - [Sky Deng](https://github.com/skydonline)
