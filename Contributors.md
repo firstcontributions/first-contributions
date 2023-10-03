@@ -1130,6 +1130,7 @@ Nikhil R
 - [Saptarshi Chakraborty ™](https://github.com/Saptarshi-Chakraborty)
 - [Jennie Nguyen] (https://github.com/jennienguyendev)
 - [Sohrab Kazak](https://github.com/CosmicParadoxDragon)
+- [Bagas Prasetya] (https://github.com/bacini)
 - [Vivek Chaprana](https://github.com/vivek-chaprana)
 - [Vishal Kushwaha](https://github.com/grandeurkoe)
 -Haleema Tallat https://github.com/haleematallat
