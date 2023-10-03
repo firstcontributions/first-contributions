@@ -13,8 +13,8 @@
 - [Sky Deng](https://github.com/skydonline)
 - [Shrijal Shrestha](https://github.com/ShrijalShrestha)
 - [Musa Ozcetin]
-- [Eray Özen] (https://github.com/erbat1)
-
+- [Eray Özen](https://github.com/erbat1)
+- [Ubaid Thoufiq](https://github.com/ubaidthoufiq)
 - [Nischal Mudennavar ](https://github.com/nischalmudennavar)
 - [Balogun Muhammad Awwal](https://github.com/Muhammad0320) 
 - [Ahmed Ryan](https://github.com/ahmedryanfaiyaz)
