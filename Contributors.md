@@ -6789,6 +6789,7 @@ Aadi Deshmukh
 - Pragyanshi roy
 - [_Nicki Stylez_](https://github.com/anickacodes)
   [Charles Fei Wang](https://github.com/CharlesFeiWang)
+  [Njoli Patrick](https://github.com/njolipatrick)
 - [Raul Bazan](https://github.com/RaulBSanchez)
 - [Bushido](https://github.com/Bushido2404)
 - [Pam](https://github.com/patacsilpam)
