@@ -524,6 +524,7 @@ PRAJOT
 - [Alice Zandra Eya](https://github.com/AliceEya)
 Sino Felicity Zwane
 - [John Virgil Carvajal](https://github.com/DarcMattz)
+- [Nagarajan R](https://github.com/nagarajan5929)
 - [Jaidie Lampa](https://github.com/jaidie-lampa)
 - [tabletopguy](https://github.com/GitPullrequest)
 - [Samuel Akongbota](https://github.com/Reysam2)
