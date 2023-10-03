@@ -436,6 +436,7 @@ JialingYU
 - [Zavier Chambers](https://github.com/ZavierChambers)
 - [Resul Elezi](https://github.com/resul-elezi)
 - [Shaquille Arriza Hidayat](https://github.com/Quillzyy)
+- [Dean Stirrat](https://github.com/Deanstirrat)
 - [Piolo Umayam](https://github.com/PiolovesU)
 - [Kalpit Jare](https://github.com/kalpitjare118)
 - [Usenmfon Uko](https://github.com/Usenmfon)
