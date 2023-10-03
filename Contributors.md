@@ -1055,6 +1055,7 @@ Nikhil R
 - [Lph Git](https://github.com/lphcreat)
 - [MoinJulian](https://github.com/moinjulian)
 - [Val Schuman](https://github.com/rand0mbits)
+- [Khoa Nguyen](https://github.com/AnhKhoaNG)
 - [Maxwell Kambona](https://github.com/camus60)
 - [ahmedhgabr](https://github.com/ahmedhgabr)
 - [Niroshan Sandeepa](https://github.com/niroshansandeepa)
