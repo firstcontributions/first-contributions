@@ -220,6 +220,7 @@ gulshan
 - [Rohit Kavitake](https://github.com/Rohit-Kavitake)
 - [Parth Bijpuriya](https://github.com/parth656)
 - [Tommy Shiels](https://github.com/tshiels)
+- [Jonan Puro](https://github.com/Atheke)
 - 
 - [CallumReilly] (https://github.com/calumariy)
 - [NicholeWhatcott] (https://github.com/hotmessmonster)
