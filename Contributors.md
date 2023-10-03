@@ -2764,6 +2764,7 @@ Akash Abraham
 - [Mathanraj T](https://github.com/mathanraj0601)
 - [July-Fang2000](https://github.com/July-Fang2000)
 - [Nicholas Ndolo](https://github.com/nicholasndolo)
+- [Miguel Angel Bruni Montero] (https://github.com/MABruni)
 - [Soap Opera](https://github.com/soapopera12)
 - [Pritam Gayen](https://github.com/pritam0721)
 - [korECM](https://github.com/korECM)
