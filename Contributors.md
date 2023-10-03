@@ -1,5 +1,6 @@
 
 # Contributors
+- [Davit Natenadze](https://github.com/Natenadze)
 - [Vrushabh Bhabire](https://github.com/Vrushabh-vb)
 - [Roopa Dharshini](https://github.com/Rupa-Rd)
 - [Ullas Kakanadan](https://github.com/uk974q)
