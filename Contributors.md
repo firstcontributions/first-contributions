@@ -194,6 +194,7 @@ JialingYU
 -[sachinkumar]
 -[Sameer Shaikh]
 -[Vladislav Firsov] (https://github.com/LemanRus)
+-[Christopher Arcy] (https://github.com/bassarcy)
 -[Vivian Martinez](https://github.com/vivianmartinez)
 - [Supratik Vishnu](https://github.com/SupratikV)
 -[Musa Mwangea] (https://github.com/mwangea)
