@@ -17,6 +17,7 @@
 - [Jannat Khan](https://github.com/JannatKhan1)
 - [Sky Deng](https://github.com/skydonline)
 - [Shrijal Shrestha](https://github.com/ShrijalShrestha)
+- [Shubhal Gupta](https://github.com/shubhalgupta)
 - [Musa Ozcetin]
 - [Eray Özen] (https://github.com/erbat1)
 - pranjal
