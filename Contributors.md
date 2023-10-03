@@ -2059,6 +2059,7 @@ Akash Abraham
 - [Sugary Candybar](https://github.com/sugarycandybar)
 - [Ahmed Nasr](https://github.com/NotAhmedNasr)
 - [Sourabh Patel](https://github.com/getmeapencil)
+- [Dingqian Wang](https://github.com/WANGDingqian)
 - [Ajala Marvellous](https://github.com/ajalamarvellous)
 - [John Musans](https://github.com/Johnmusans)
 - [Samuel Kinuthia](https://github.com/Siymiel)
