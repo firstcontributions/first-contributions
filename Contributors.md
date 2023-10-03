@@ -14,7 +14,7 @@
 - [Shrijal Shrestha](https://github.com/ShrijalShrestha)
 - [Musa Ozcetin]
 - [Eray Özen] (https://github.com/erbat1)
-
+- pranjal
 - [Nischal Mudennavar ](https://github.com/nischalmudennavar)
 - [Balogun Muhammad Awwal](https://github.com/Muhammad0320) 
 - [Ahmed Ryan](https://github.com/ahmedryanfaiyaz)
@@ -100,6 +100,7 @@
 gulshan 
 - [Blake Williams](https://github.com/Programmer061703)
 - [Abhinav Puri](https://github.com/Abhinav16072001)
+- [Pranjal]
 - [Emilly Tiampati](https://github.com/sereyatiampati)
 - [Meron_Endris](https://github.com/MeronMEndris)
 - [Arjit Kedia](https://github.com/combfreak45)
