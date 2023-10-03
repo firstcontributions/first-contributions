@@ -1936,6 +1936,7 @@ Nikhil R
 - [Anthony Mwaura](https://github.com/Anthony11-hub)
 - [Vansh Chopra](https://github.com/vanshavenger)
 - [Rosalyn Wimberly](https://github.com/rosalynw)
+- [Sean Madden](https://github.com/Maddesea)
 - [Julie S](https://github.com/Julie-S2020)
 - [Shaikh Imtiar Rahaman](https://github.com/ShaikhImtiarRahaman)
 - [Sasiru Ravihansa](https://github.com/sasirura)
