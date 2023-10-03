@@ -1246,6 +1246,7 @@ Nikhil R
 - buyiweiran
 - [Abhishek Subba](https://github.com/original-subbaman)
 - [Zombie12k](https://github.com/Zombie12k)
+- [Jebediah Springfield](https://github.com/Jebediah76)
 - [Ankit Mehra](https://github.com/Ankit-Mehra)
 - [Linus404](https://github.com/Linus404)
 - [Ashish Kumar](https://github.com/AshishKumar409)
