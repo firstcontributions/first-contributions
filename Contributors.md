@@ -1,5 +1,6 @@
 
-# Contributors
+# Contributor
+- [Chris Caballero](https://github.com/chris-caballero)
 - [Davit Natenadze](https://github.com/Natenadze)
 - [Vrushabh Bhabire](https://github.com/Vrushabh-vb)
 - [Ram Sankar S](https://github.com/RamSankarS)
