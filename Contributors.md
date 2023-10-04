@@ -27,6 +27,7 @@
 - [Musa Ozcetin]
 - [Eray Özen] (https://github.com/erbat1)
 - pranjal
+- [Collins Eguasa] (https://github.com/collinstb01)
 - Laura Malcervelli(https://github.com/lmalcervelli)
 - Amna Salahudin
 - [Nischal Mudennavar ](https://github.com/nischalmudennavar)
