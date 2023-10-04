@@ -1,7 +1,9 @@
 
 # Contributors
-- [Kaushal]
 - [Shanit Paul](https://github.com/SlicePoh)
+
+- [Kaushal_Kumar]
+
 - [Pranav Tripathi] (https://github.com/mightyshibbu)
 - [Davit Natenadze](https://github.com/Natenadze)
 - [Minjae Lee](https://github.com/minleejae)
@@ -879,6 +881,7 @@ Sino Felicity Zwane
 - [Vivek Kumar] (https://github.com/vickvey)
 - [Chen Zhang](https://github.com/leviosacz)
 - [Aryaman](https://github.com/SilianRail)
+- [Brandon](https://github.com/Boom123bam)
 - [Joost](https://github.com/jvdputten)
 - [Alessio] (https://github.com/Idk121-blip)
 - [JaxylViernes]
