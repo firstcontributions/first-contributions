@@ -20,6 +20,7 @@
 - [Bhawana Gaur](https://github.com/bhawana2001)
 - [Abhishik karmakar](https://github.com/AbhisKarma/)
 - [Shalom Riona Fernandes](https://github.com/shalomrionafernandes)
+- [JunLovin](https://github.com/JunLovin)
 - [Nithin](https://github.com/nithin-0111/)
 - [Kaushik Kumar Das](https://github.com/AlexWeb07)
 - [Slaven Pikija](https://github.com/spikija)
