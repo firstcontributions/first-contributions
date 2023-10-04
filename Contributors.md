@@ -927,6 +927,7 @@ Sino Felicity Zwane
 - [Naol Melesse](https://github.com/naolmelesse)
 - [ceri555](https://github.com/Ceri555)
 - [tamilbharathi](https://github.com/tamil-code)
+- [laex2112](https://github.com/laex2112)
 - [meenabva](https://github.com/meenabva)
 - [Aditya Singh] (https://github.com/VisionaryCodeX)
 - [Annarhysa Albert](https://github.com/Annarhysa)
