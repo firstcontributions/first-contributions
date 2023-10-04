@@ -2,6 +2,7 @@
 # Contributors
 - [Shanit Paul](https://github.com/SlicePoh)
 - [Davit Natenadze](https://github.com/Natenadze)
+- [Minjae Lee](https://github.com/minleejae)
 - [7oda]tss
 - [Dheeraj Purohit](https://github.com/purohitdheeraj)
 - [Ashmit Srivastava](https://github.com/Ashmit-Srivastava)
