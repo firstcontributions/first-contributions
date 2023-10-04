@@ -3075,6 +3075,7 @@ Akash Abraham
 
 - [JojiSeb] - JojiSeb was here :)
 - [Ronit Kumar Baranwal]-(https://github.com/RonitBaranwal)
+- [Shubham Shinde]-(https://github.com/shubham-shinde-442)
 - [Zaher Hage]-(https://github.com/zaherhage)
 - [Prax](https://github.com/prax860)
 - [Aaron Rajan](https://github.com/Aaron-Rajan)
