@@ -1,6 +1,6 @@
 
 # Contributors
-- [Kaushal_Kumar]
+- [Kaushal-Kumar]
 - [Shanit Paul](https://github.com/SlicePoh)
 - [Pranav Tripathi] (https://github.com/mightyshibbu)
 - [Davit Natenadze](https://github.com/Natenadze)
