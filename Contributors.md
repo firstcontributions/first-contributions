@@ -7,6 +7,7 @@
 - [Davit Natenadze](https://github.com/Natenadze)
 - [Minjae Lee](https://github.com/minleejae)
 - [7oda]tss
+- [Micha Briskman](https://github.com/MichaBriskman)
 - [Dheeraj Purohit](https://github.com/purohitdheeraj)
 - [Ashmit Srivastava](https://github.com/Ashmit-Srivastava)
 - [Vrushabh Bhabire](https://github.com/Vrushabh-vb)
