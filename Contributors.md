@@ -34,6 +34,7 @@
 - [Collins Eguasa] (https://github.com/collinstb01)
 - Laura Malcervelli(https://github.com/lmalcervelli)
 - Amna Salahudin
+- [Vaibhav Pareek](https://github.com/vaibhavpareek515)
 - [Nischal Mudennavar ](https://github.com/nischalmudennavar)
 - [Mostafa Ahmed](https://github.com/mostaxd)
 - [Edward Bera] (https://github.com/edwardbera)
