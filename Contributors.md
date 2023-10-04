@@ -1,6 +1,7 @@
 
 # Contributors
 - [Yashwanth Vignesh](https://github.com/Yashwanth-Vignesh)
+- [JW]
 - [Myint Thway Khine](https://github.com/r1d3rzz)
 - [Shanit Paul](https://github.com/SlicePoh)
 - [Pranav Tripathi] (https://github.com/mightyshibbu)
