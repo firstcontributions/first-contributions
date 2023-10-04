@@ -1580,6 +1580,7 @@ Nikhil R
 - [Anukam Chidalu](https://github.com/daluclemas)
 - [Tehila Greenberg](https://github.com/tehila1111)
 - [Simon](https://github.com/simjkx)
+- [Yusuf Umar Faruq](https://github.com/Luwa-Tech)
 - [Moussa GUENANI](https://github.com/moussague)
 - [Ritabrata Das](https://github.com/the-indian-dev)
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
