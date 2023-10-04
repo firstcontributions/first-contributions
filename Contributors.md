@@ -1187,6 +1187,7 @@ Nikhil R
 - Shiraku Yanai
 - [codedevrob](https://github.com/codedevrob0)
 - [Saptarshi Ghosh] (https://github.com/Sap004)
+- [Parasol] (https://github.com/parasolW)
 - [Saptarshi Chakraborty ™](https://github.com/Saptarshi-Chakraborty)
 - [Jennie Nguyen] (https://github.com/jennienguyendev)
 - [Sohrab Kazak](https://github.com/CosmicParadoxDragon)
