@@ -36,6 +36,7 @@
 - [Ahmed Ryan](https://github.com/ahmedryanfaiyaz)
 - [Himanshu Nanda](https://github.com/himanshunanda22)
 - [Chavi](https://github.com/ChaviSchatz)
+- [Romit Sutariya](https://github.com/romitsutariya)
 - [Sammie](https://github.com/1AmSammi3)
 - [Agrima Gupta](https://github.com/sassy-bugs)
 - [Taniya Souza](https://github.com/chemicoholic21)
