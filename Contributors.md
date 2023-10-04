@@ -18,6 +18,7 @@
 - [Mighty Odewumi](https://github.com/mighty-odewumi)
 - jhgf
 - tton
+sarthak gulati
 - [Juan Pablo Alvarado](https://github.com/juancodeaudio)
 - [Nivea Hanley](https://github.com/niv-png)
 - [Shreyas Rajiv](https://github.com/shreyasrajiv327)
