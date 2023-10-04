@@ -671,6 +671,7 @@ Sino Felicity Zwane
 - [christian inyekaka](https://github.com/chrisBokotaII)
 - [Laissa Nicole dela Cruz](https://github.com/LaissaNicole)
 - [[Trustbycode]](https://github.com/trustbycode/)
+- [[Peeyush Varma]](https://github.com/peeyush98)
 - [Trustbycode] (https://github.com/trustbycode/)
 - [Ankit G](https://github.com/ankitgadling)
 - [Soxface] (https://github.com/SoxFace)
