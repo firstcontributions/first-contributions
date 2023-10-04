@@ -48,6 +48,7 @@
 - [Ranjeet Singh ](https://github.com/ranjeetxsingh)
 - [Mostafa Ahmed](https://github.com/mostaxd)
 - [Edward Bera] (https://github.com/edwardbera)
+- [Pang Hua Yen] (https://github.com/Ptorioo)
 - [Balogun Muhammad Awwal](https://github.com/Muhammad0320) 
 - [Clifford Ouma](https://github.com/Cli4d)
 - [Ahmed Ryan](https://github.com/ahmedryanfaiyaz)
