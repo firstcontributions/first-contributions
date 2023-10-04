@@ -3046,6 +3046,7 @@ Akash Abraham
 -[Moeletsi Jason Nkuna](https://github.com/Moeletsi47)
 -[Peter](https://github.com/peterlianpi)
 -[Lang F](https://github.com/A-Nobel)
+-[Kelsey Hughes](https://github.com/kelbri10)
 -[techofirst]
 -[Anuraj Shukla](https://github.com/anurajshukla)
 -[Iliyas Khan](https://github.com/khaniliyas)
