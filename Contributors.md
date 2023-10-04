@@ -41,6 +41,7 @@
 - Amna Salahudin
 - [Vaibhav Pareek](https://github.com/vaibhavpareek515)
 - [Nischal Mudennavar ](https://github.com/nischalmudennavar)
+- [Ranjeet Singh ](https://github.com/ranjeetxsingh)
 - [Mostafa Ahmed](https://github.com/mostaxd)
 - [Edward Bera] (https://github.com/edwardbera)
 - [Balogun Muhammad Awwal](https://github.com/Muhammad0320) 
