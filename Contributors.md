@@ -3099,4 +3099,3 @@ Akash Abraham
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Anushka Gupta](https://github.com/anushkagpt)
 pig
-- [Oshea Osarumwense](https://github.com/wense02)
