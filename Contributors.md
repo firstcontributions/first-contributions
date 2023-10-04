@@ -685,6 +685,7 @@ Sino Felicity Zwane
 - [Utku Güçlü](https://github.com/utku-guclu)
 - [Lisa Sun](https://github.com/sklisa)
 - [Prem Rajendran](https://github.com/Pr3mR4jendran)
+- [Bakare Abiola](https://github.com/iamstarcode)
 - [Mengde Wang](https://github.com/wangme88)
 - [Robert Vittozzi](http://github.com/rvittozzi)
 - [Lavanya Mishra](https://github.com/chessmadridista)
