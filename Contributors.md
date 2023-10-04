@@ -81,6 +81,7 @@
 - [Joana Lawer](https://github.com/joanalawer)
 - [Alison Haas](https://github.com/alihaas)
 - [Kelechi Amos](https://github.com/kellyncodes)
+- [Aditya Gaikwad](https://github.com/aaadityaG)
 - [Ayush Deshmukh](https://github.com/XARTAN21)
 - [BHASKAR SINGH](https://github.com/bhaskar962)
 - [Shovan Karna](https://github.com/shovankarna) 
