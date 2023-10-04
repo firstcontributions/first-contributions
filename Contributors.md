@@ -1,6 +1,7 @@
 
 # Contributors
 - [Shanit Paul](https://github.com/SlicePoh)
+- [Pranav Tripathi] (https://github.com/mightyshibbu)
 - [Davit Natenadze](https://github.com/Natenadze)
 - [Minjae Lee](https://github.com/minleejae)
 - [7oda]tss
