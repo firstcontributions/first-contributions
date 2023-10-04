@@ -4,6 +4,7 @@
 - [Davit Natenadze](https://github.com/Natenadze)
 - [7oda]tss
 - [Dheeraj Purohit](https://github.com/purohitdheeraj)
+- [Ashmit Srivastava](https://github.com/Ashmit-Srivastava)
 - [Vrushabh Bhabire](https://github.com/Vrushabh-vb)
 - [John Kim](https://github.com/kjhhero)
 - [Ram Sankar S](https://github.com/RamSankarS)
