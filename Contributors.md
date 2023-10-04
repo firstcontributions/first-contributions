@@ -2959,6 +2959,7 @@ Akash Abraham
 - [LSE] (https://github.com/lsewcx)
 - [Nikhil Nair] (https://github.com/NIKHILNAIR21)
 - [Axeroftol] (https://github.com/Axeroftol)
+- [Asad] (https://github.com/sanbhal88)
 - [Nemoola] (https://github.com/nemoola)
 - [Richard Pham] (https://github.com/richardphamdq)
 - [Max Hilsen] (https://github.com/MLHilsen)
