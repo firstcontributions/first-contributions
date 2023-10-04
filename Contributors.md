@@ -3113,6 +3113,7 @@ Akash Abraham
 - [Ikeogu Franklin](https://github.com/realdezzy)
 - [Saad Saeed](https://github.com/ssaeed85)
 - [Simon Altuve](https://github.com/simonAltuve)
+- [Daniel Martinez](https://github.com/daniel22494)
 -[Robert Wood](https://github.com/rw219)
 - [Kishore Kumar](https://github.com/4652KishoreKumar)
 - [Naveen Renold](https://github.com/naveenrenold)
