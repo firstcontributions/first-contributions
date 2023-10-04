@@ -26,6 +26,7 @@
 - [Sarah Okenwa](https://github.com/sarahokenwa)
 - [Simone Baglivi](https://github.com/sbaglivi)
 - [Nick Rogers](https://github.com/mnickrogers)
+- [Kuljot Biring](https://github.com/kuljotbiring)
 - [Himanshu Gaur](https://github.com/Gaur2025)
 - [Blossom Eze](https://github.com/Blossomeze)
 - [Bojidar Vladimirov](https://github.com/BojkaV)
