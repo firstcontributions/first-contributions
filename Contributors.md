@@ -3137,6 +3137,7 @@ pig
 - [Oshea Osarumwense](https://github.com/wense02)
 - [Arian Dervishaj](https://github.com/ArianDervishaj)
 - [Aashan Javed](https://github.com/Aashan47)
+- [Jesse Curran](https://github.com/jesse-curran)
 - [Extell Farve] (https://github.com/TrashPandaRX)
 - [Dominik Karas](https://github.com/KarasDominik)
 - [cjh1212](https://github.com/cjh1212)
