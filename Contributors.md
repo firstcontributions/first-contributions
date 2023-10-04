@@ -45,6 +45,7 @@
 - [Mostafa Ahmed](https://github.com/mostaxd)
 - [Edward Bera] (https://github.com/edwardbera)
 - [Balogun Muhammad Awwal](https://github.com/Muhammad0320) 
+- [Clifford Ouma](https://github.com/Cli4d)
 - [Ahmed Ryan](https://github.com/ahmedryanfaiyaz)
 - [Himanshu Nanda](https://github.com/himanshunanda22)
 - [Chavi](https://github.com/ChaviSchatz)
