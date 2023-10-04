@@ -182,6 +182,7 @@ gulshan
 - [Choloping](https://github.com/choloping)
 - [idnoman](https://github.com/idnoman)
 - [Ayush Deshmukh](https://github.com/XARTAN21)
+- [Antoy Nafion](https://github.com/Naf976)
 - [Pratham Purohit](https://github.com/prathammpurohit)
 - [Abhijeet --sssss](https://github.com/Zeref-XXX)
 - [Chris Lin](https://github.com/clin34)
