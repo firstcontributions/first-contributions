@@ -82,6 +82,7 @@
 - [Mayank Gupta](https://github.com/mayankg-me)
 - [Vaibhav Patil](https://github.com/VaibhavAPatil)
 - [Lucas Almeida](https://github.com/LucasAlmeida-jpg)
+- [Brian kipkoech]
 - [Masoud Farmani](https://github.com/MasoudIV)
 - [Olowo Jude](https://github.com/olowojude)
 - [Joana Lawer](https://github.com/joanalawer)
