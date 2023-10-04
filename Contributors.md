@@ -1383,6 +1383,7 @@ Nikhil R
 - [Manoah Luka](https://github.com/manoahLinks)
 - [Vivek Ranjan Saho](https://github.com/vivekranjansahoo)
 - [Deepak Thorat]
+- [Rosario Russo](https://github.com/sariodesign)
 - [Samuel Ribeiro de Souza](https://github.com/samuelsouzzza)
 - [Alvaro Lucas]
 - [Tobi Oyediran] (http://github.com/TobiTheDeveloper)
