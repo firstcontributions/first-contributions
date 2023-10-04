@@ -20,6 +20,7 @@
 - [Kaushik Kumar Das](https://github.com/AlexWeb07)
 - [Slaven Pikija](https://github.com/spikija)
 - [Sarah Okenwa](https://github.com/sarahokenwa)
+- [Simone Baglivi](https://github.com/sbaglivi)
 - [Nick Rogers](https://github.com/mnickrogers)
 - [Himanshu Gaur](https://github.com/Gaur2025)
 - [Blossom Eze](https://github.com/Blossomeze)
