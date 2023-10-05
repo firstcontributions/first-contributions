@@ -14,6 +14,7 @@
 - [2111518](https://github.com/2111518)
 - [Amiin Samatar](https://github.com/AmiinSamatar)
 - [Dheeraj Purohit](https://github.com/purohitdheeraj)
+- [Vidhi Sahai](https://github.com/Vidhi2604)
 - [Joseph B Heinz](https://github.com/jbh14)
 - [Ashmit Srivastava](https://github.com/Ashmit-Srivastava)
 - [Vrushabh Bhabire](https://github.com/Vrushabh-vb)
