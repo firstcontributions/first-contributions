@@ -1687,6 +1687,7 @@ Nikhil R
 - [Abhishek Patel] (https://github.com/itsabhishekpatel01)
 - [Anushree Singhal](https://github.com/anushreee666)
 - [Idzanaagi](https://github.com/Idzanaagi)
+- [Brenden Cheung] (https://github.com/cheungbrenden)
 - [xfragrance](https://github.com/Xfragrance)
 - [metsu971](https://github.com/metsu971)
 - [MrAlessandro](https://github.com/MrAlessandro)
