@@ -67,6 +67,7 @@
 - [Namrata Birajdar](https://github.com/NamrataB1306)
 - [Vaibhav Pareek](https://github.com/vaibhavpareek515)
 - [Nischal Mudennavar ](https://github.com/nischalmudennavar)
+- [Sheheryar Ramzan ](https://github.com/SheheryarRamzan)
 - [Ranjeet Singh ](https://github.com/ranjeetxsingh)
 - [Mostafa Ahmed](https://github.com/mostaxd)
 - [Edward Bera] (https://github.com/edwardbera)
