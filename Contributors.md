@@ -39,6 +39,7 @@
 - [Nick Rogers](https://github.com/mnickrogers)
 - [Kuljot Biring](https://github.com/kuljotbiring)
 - [Himanshu Gaur](https://github.com/Gaur2025)
+- [Stephan Sæbø](https://github.com/kongpottifar)
 - [Blossom Eze](https://github.com/Blossomeze)
 - [Bojidar Vladimirov](https://github.com/BojkaV)
 - [Jannat Khan](https://github.com/JannatKhan1)
