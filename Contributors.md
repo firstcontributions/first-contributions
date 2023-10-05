@@ -31,6 +31,7 @@
 - [Nithin](https://github.com/nithin-0111/)
 - [Kaushik Kumar Das](https://github.com/AlexWeb07)
 - [Slaven Pikija](https://github.com/spikija)
+- [Harkeerat] (https://github.com/ekeiran)
 - [Sarah Okenwa](https://github.com/sarahokenwa)
 - [Simone Baglivi](https://github.com/sbaglivi)
 - [Nick Rogers](https://github.com/mnickrogers)
