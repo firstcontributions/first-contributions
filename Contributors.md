@@ -8,6 +8,7 @@
 - [Minjae Lee](https://github.com/minleejae)
 - [7oda]tss
 - [Dheeraj Purohit](https://github.com/purohitdheeraj)
+- [Vidhi Sahai](https://github.com/Vidhi2604)
 - [Ashmit Srivastava](https://github.com/Ashmit-Srivastava)
 - [Vrushabh Bhabire](https://github.com/Vrushabh-vb)
 - [John Kim](https://github.com/kjhhero)
