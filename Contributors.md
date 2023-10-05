@@ -10,6 +10,7 @@
 - [Minjae Lee](https://github.com/minleejae)
 - [7oda]tss
 - [Dheeraj Purohit](https://github.com/purohitdheeraj)
+- [Joseph B Heinz](https://github.com/jbh14)
 - [Ashmit Srivastava](https://github.com/Ashmit-Srivastava)
 - [Vrushabh Bhabire](https://github.com/Vrushabh-vb)
 - [John Kim](https://github.com/kjhhero)
