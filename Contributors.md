@@ -152,6 +152,7 @@
 - [Felipe Alves](https://github.com/felpsalvs)
 [Nawshikha Mahato](https://github.com/nawshikha)
 - [Alex Chen](https://github.com/alexchen2) 
+- [Joshua Lamptey](https://github.com/JoshLamptey)
 - [Richa Banerjee] (https://github.com/RichaBanerjee)
 - [Peter Faretra] (https://github.com/peterston-e)
 gulshan 
