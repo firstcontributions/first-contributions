@@ -7,6 +7,7 @@
 - [Shanit Paul](https://github.com/SlicePoh)
 - [Pranav Tripathi] (https://github.com/mightyshibbu)
 - [Davit Natenadze](https://github.com/Natenadze)
+- [Tri Nguyen](https://github.com/nmtri2810)
 - [Minjae Lee](https://github.com/minleejae)
 - [7oda]tss
 - [Dheeraj Purohit](https://github.com/purohitdheeraj)
