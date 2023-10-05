@@ -71,6 +71,7 @@
 - [Taniya Souza](https://github.com/chemicoholic21)
 - [Tanishq Goyal](https://github.com/tanishqgoyall)
 - [Karanjot Singh](https://github.com/karanjot786)
+- [Manav Billimoria](https://github.com/manavbillimoria)
 - [Saathwika Dhenuvakonda](https://github.com/saathwikad)
 - [Mats Muller](https://github.com/AM800Mats)
 - [Jervin Alejandro](https://github.com/JervinAlejandro)
