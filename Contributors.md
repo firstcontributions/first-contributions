@@ -237,6 +237,7 @@ gulshan
 - [SHIVA NC](https://github.com/ShivaNagachander)
 - [Osayeme O](https://github.com/Osayeme)
 - [Emma P](https://github.com/EmPajak21)
+- [Ammar Shirazi](https://github.com/AmmarShirazi)
 - [Austin Cooper](https://github.com/amcooper181)
 -[M Abdullah](https://github.com/Muhammad-Abdullah-13)
 - [Prasanna](https://github.com/darkb0ts)
