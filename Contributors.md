@@ -66,6 +66,7 @@
 - [Sammie](https://github.com/1AmSammi3)
 - [Agrima Gupta](https://github.com/sassy-bugs)
 - [Taniya Souza](https://github.com/chemicoholic21)
+- [Zakaullah - i192192](https://github.com/zakaullahawan)
 - [Karanjot Singh](https://github.com/karanjot786)
 - [Saathwika Dhenuvakonda](https://github.com/saathwikad)
 - [Mats Muller](https://github.com/AM800Mats)
