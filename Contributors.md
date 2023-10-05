@@ -25,6 +25,7 @@
 - [Christine Allay] (https://github.com/ceaupid) 
 - [Suraj Yadav](https://github.com/suraj-yadav0)
 - [Donald Nwokoro](https://github.com/donguillotine)
+- [Nweeke Kenechukwu](https://github.com/icodejsx)
 - [Ullas Kakanadan](https://github.com/uk974q)
 - [Bhawana Gaur](https://github.com/bhawana2001)
 - [Abhishik karmakar](https://github.com/AbhisKarma/)
