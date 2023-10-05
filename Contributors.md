@@ -14,6 +14,7 @@
 - [2111518](https://github.com/2111518)
 - [Amiin Samatar](https://github.com/AmiinSamatar)
 - [Dheeraj Purohit](https://github.com/purohitdheeraj)
+- [Vidhi Sahai](https://github.com/Vidhi2604)
 - [Joseph B Heinz](https://github.com/jbh14)
 - [Ashmit Srivastava](https://github.com/Ashmit-Srivastava)
 - [Vrushabh Bhabire](https://github.com/Vrushabh-vb)
@@ -107,6 +108,7 @@
 - [Vaibhav Patil](https://github.com/VaibhavAPatil)
 - [Lucas Almeida](https://github.com/LucasAlmeida-jpg)
 - [Brian kipkoech]
+- [faisal Rasheed](https://github.com/faisal-rasheed-lone)
 - [Fatima Aamir] (https://github.com/fatima-aamir)
 - [Masoud Farmani](https://github.com/MasoudIV)
 - [Olowo Jude](https://github.com/olowojude)
@@ -3151,7 +3153,8 @@ Akash Abraham
 - [Hamza Imran](https://github.com/hamza-imran75)
 - [Abdul Manan](https://github.com/abdul-manan02)
 - [Hiseulgi](https://github.com/hiseulgi)
--[Amit Nalawade](https://github.com/amit0804-tech)
+- [Amit Nalawade](https://github.com/amit0804-tech)
+- [impoyy] (https://github.com/impoyy)
 - [Sepp Lumber] 
 - [ARH](https://githu.com/arhantbararia)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
