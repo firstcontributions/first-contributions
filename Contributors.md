@@ -2916,6 +2916,7 @@ Akash Abraham
 - [Kokonico](https://github.com/Kokonico)
 - [Rajan Raj](https://github.com/rajanraj2)
 - [Jack Sun](https://github.com/jackzsun)
+- [Ruben Garcia] (https://github.com/rubengargu)
 - [Anih-Patrick Ugochukwu](https://github.com/anihpatrickugo/)
 - [Arvind Tawker] (https://github.com/Arvind-t33)
 - [Brenna Clark](https://github.com/brennacclark)
