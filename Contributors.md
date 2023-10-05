@@ -5,6 +5,7 @@
 - [Yashwanth Vignesh](https://github.com/Yashwanth-Vignesh)
 - [Ishaan Jangid](https://github.com/Ishaanjangid)
 - [JW]
+- [Thomas Marconi](https://github.com/thomasmarconi)
 - [Myint Thway Khine](https://github.com/r1d3rzz)
 - [Farquleet Farhat](https://github.com/fafnirLore)
 - [Shanit Paul](https://github.com/SlicePoh)
