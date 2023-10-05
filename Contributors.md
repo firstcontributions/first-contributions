@@ -1361,6 +1361,7 @@ Nikhil R
 - [Gonca Negis](https://github.com/goncanegis/)
 - [jungle-kai](https://github.com/jungle-kai)
 - [Nuhaj Aziz](https://github.com/Naz1804/)
+- [Zakaullah - i192192](https://github.com/zakaullahawan)
 - [Ayush Mourya](https://github.com/ayushmourya/)
 - [Joshua Thomas](https://github.com/mrjdavidt/)
 - [Jahnavi-Solanki](https://github.com/Jahnavi-Solanki)
@@ -3154,4 +3155,3 @@ pig
 - [aclin2] (https://github.com/aclin2)
 - [Abhinav Kumar] (https://github.com/Abhinav5383)
 - [Aditya Ramesh] (https://github.com/adityar224)
-- [Zakaullah - i192192](https://github.com/zakaullahawan)
