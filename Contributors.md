@@ -116,6 +116,7 @@
 - [Vaibhav Patil](https://github.com/VaibhavAPatil)
 - [Lucas Almeida](https://github.com/LucasAlmeida-jpg)
 - [Brian kipkoech]
+- [James Lucky](https://github.com/is-lucky)
 - [faisal Rasheed](https://github.com/faisal-rasheed-lone)
 - [Fatima Aamir] (https://github.com/fatima-aamir)
 - [Masoud Farmani](https://github.com/MasoudIV)
