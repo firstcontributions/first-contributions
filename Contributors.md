@@ -1,5 +1,6 @@
 
 # Contributors
+- [Pranav Kannawar] (https://github.com/Hackwithpranav)
 - [faea726](https://github.com/faea726)
 - [Yashwanth Vignesh](https://github.com/Yashwanth-Vignesh)
 - [JW]
@@ -3113,7 +3114,7 @@ Akash Abraham
 - [Abdi Ibrahim](https://github.com/abdiths)
 - [Sai Sumith](https://github.com/saisumith770)
 - [Abu bakar Afzal](https://github.com/abubakarafzal)
-- [Murtuza Vhora](https://github.com/Murtazavhora)
+
 - [JojiSeb] - JojiSeb was here :)
 - [Ronit Kumar Baranwal]-(https://github.com/RonitBaranwal)
 - [Shubham Shinde]-(https://github.com/shubham-shinde-442)
@@ -3160,4 +3161,3 @@ pig
 - [aclin2] (https://github.com/aclin2)
 - [Abhinav Kumar] (https://github.com/Abhinav5383)
 - [Aditya Ramesh] (https://github.com/adityar224)
-
