@@ -3095,6 +3095,7 @@ Akash Abraham
 - [Darshan BS](https://github.com/bs-darshan)
 - [Rajan Paudel](https://github.com/rajan-poudel)
 - [Dazzler Abhi](https://github.com/dazzlerabhi30800)
+- [Vidhu P V ](https://github.com/vidhupv)
 - Glovvie
 - [Shamari Lewis] - (https://github.com/ShamariLewis)
 - [Smashed](https://github.com/smashed)
