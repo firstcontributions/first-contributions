@@ -50,6 +50,7 @@
 - [Collins Eguasa] (https://github.com/collinstb01)
 - Laura Malcervelli(https://github.com/lmalcervelli)
 - Amna Salahudin
+- [Namrata Birajdar](https://github.com/NamrataB1306)
 - [Vaibhav Pareek](https://github.com/vaibhavpareek515)
 - [Nischal Mudennavar ](https://github.com/nischalmudennavar)
 - [Ranjeet Singh ](https://github.com/ranjeetxsingh)
