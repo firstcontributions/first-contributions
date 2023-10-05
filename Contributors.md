@@ -202,6 +202,7 @@ gulshan
 - [Venkat Manda](https://github.com/venkymanda)
 - [Lohith Kotni](https://github.com/lohitkotni)
 - [João Paulo S. S.](https://github.com/JoaoPauloSouzaSilva)
+- [Umais Chaudhary](https://github.com/umaismateen)
 - [Toyin Onagoruwa](https://github.com/Toyin96)
 - [Komolehin Israel](https://github.com/komus-Israel)
 - [Alec-Nesat Colak](https://github.com/AlecNesatColak)
