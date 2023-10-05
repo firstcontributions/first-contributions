@@ -3107,6 +3107,7 @@ Akash Abraham
 - [Pedro Rivera](https://github.com/ElitePete)
 - [Ameya Shahu](https://github.com/ameya-shahu)
 - [Koduri Mohan](https://github.com/kodurimohan)
+- [Farhan Alam](https://github.com/fa-901)
 - [Robert Knapek](https://github.com/steernick)
 - [Nour Rajeh](https://github.com/itsnourr)
 - [Darshan BS](https://github.com/bs-darshan)
