@@ -1379,6 +1379,7 @@ Nikhil R
 - [Gonca Negis](https://github.com/goncanegis/)
 - [jungle-kai](https://github.com/jungle-kai)
 - [Nuhaj Aziz](https://github.com/Naz1804/)
+- [Zakaullah - i192192](https://github.com/zakaullahawan)
 - [Ayush Mourya](https://github.com/ayushmourya/)
 - [Joshua Thomas](https://github.com/mrjdavidt/)
 - [Jahnavi-Solanki](https://github.com/Jahnavi-Solanki)
