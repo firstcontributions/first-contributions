@@ -77,6 +77,7 @@
 - [Romit Sutariya](https://github.com/romitsutariya)
 - [Sammie](https://github.com/1AmSammi3)
 - [Agrima Gupta](https://github.com/sassy-bugs)
+- [Abhinesh Jha](https://github.com/AbhineshJha)
 - [Taniya Souza](https://github.com/chemicoholic21)
 - [Tanishq Goyal](https://github.com/tanishqgoyall)
 - [Karanjot Singh](https://github.com/karanjot786)
