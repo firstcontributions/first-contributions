@@ -11,7 +11,7 @@
 - [Tri Nguyen](https://github.com/nmtri2810)
 - [Minjae Lee](https://github.com/minleejae)
 - [7oda]tss
-- [SLO](https://github.com/shinelynnoo)
+- [SLO](https://github.com/ShineLynnOo)
 - [Amiin Samatar](https://github.com/AmiinSamatar)
 - [Dheeraj Purohit](https://github.com/purohitdheeraj)
 - [Joseph B Heinz](https://github.com/jbh14)
