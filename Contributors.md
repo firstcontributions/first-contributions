@@ -15,6 +15,7 @@
 - [Minjae Lee](https://github.com/minleejae)
 - [7oda]tss
 - [2111518](https://github.com/2111518)
+- [Alan Nguyen](https://github.com/khangwen)
 - [Amiin Samatar](https://github.com/AmiinSamatar)
 - [Dheeraj Purohit](https://github.com/purohitdheeraj)
 - [Vidhi Sahai](https://github.com/Vidhi2604)
