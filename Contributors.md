@@ -2684,6 +2684,7 @@ Akash Abraham
 - [Grace Kim](https://github.com/gracekim1217)
 - [Venkates Challa](https://github.com/vensablue192)
 - [Ridwan Oladapo](https://github.com/theridwanoladapo)
+- [Rohail Zubair](https://github.com/Rohail-Zubair)
 - [MichaelSoto95](https://github.com/MichaelSoto95)
 - [jeevan-aj](https://github.com/jeevan-aj)
 - [shilinwang](https://github.com/crzwzy)
