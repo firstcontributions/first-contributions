@@ -23,6 +23,7 @@
 - [Vrushabh Bhabire](https://github.com/Vrushabh-vb)
 - [John Kim](https://github.com/kjhhero)
 - [Ram Sankar S](https://github.com/RamSankarS)
+- [Swastik Patel](https://github.com/mrswastik-robot)
 - [Roopa Dharshini](https://github.com/Rupa-Rd)
 - [Martin Olsen](https:://github.com/MartinOlsenDev)
 - [Keya Karkun](https://github.com/keyakarkun)
