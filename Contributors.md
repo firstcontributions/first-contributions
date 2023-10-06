@@ -33,6 +33,7 @@
 - [Swastik Patel](https://github.com/mrswastik-robot)
 - [Roopa Dharshini](https://github.com/Rupa-Rd)
 - [Martin Olsen](https:://github.com/MartinOlsenDev)
+- [Basil Noor](https://github.com/basilnoor)
 - [Keya Karkun](https://github.com/keyakarkun)
 - [Christine Allay] (https://github.com/ceaupid) 
 - [Suraj Yadav](https://github.com/suraj-yadav0)
