@@ -7,6 +7,7 @@
 - [PinkMoon](https://github.com/CutePinkMoon)
 - [Arpan Gupta](https://github.com/gupta-arpan)
 - [SneakyShirtBalls](https://github.com/sneakyshirtballs)
+- [Sujeet Kumar](https://github.com/sujeet9682)
 - [Habibur Rahman]()
 - [faea726](https://github.com/faea726)
 - [wajaht-ali](https://github.com/wajaht-ali)
