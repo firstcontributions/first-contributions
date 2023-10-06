@@ -18,6 +18,7 @@
 - [Johnny Nguyen] (https://github.com/johnny-h-nguyen)
 - [faea726](https://github.com/faea726)
 - [wajaht-ali](https://github.com/wajaht-ali)
+- [Qin Zan](https://github.com/joyceZ916)
 - [Yashwanth Vignesh](https://github.com/Yashwanth-Vignesh)
 - [Jie Qiu](https://github.com/Jieqstu)
 - [Ishaan Jangid](https://github.com/Ishaanjangid)
