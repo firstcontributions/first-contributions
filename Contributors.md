@@ -25,6 +25,7 @@
 - [Minjae Lee](https://github.com/minleejae)
 - [7oda]tss
 -[Avira Soni](https://github.com/A-viralS)
+-[Pradyot Ranjan](https://github.com/prady0t)
 - [2111518](https://github.com/2111518)
 - [Alan Nguyen](https://github.com/khangwen)
 - [Amiin Samatar](https://github.com/AmiinSamatar)
