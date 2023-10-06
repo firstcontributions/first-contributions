@@ -3220,4 +3220,5 @@ pig
 - [Rafi Harlianto](https://github.com/rafiharli)
 - [Yash Salunke](https://github.com/YashSalunke12)
 - [Mahad Ahmed](https://github.com/Mahadd1111)
+- [Akrati Verma](https://github.com/blindaks)
  
