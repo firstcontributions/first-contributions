@@ -1,7 +1,9 @@
 
 # Contributors
+- [Aviraj Gour](https://github.com/avirajsingh7)
 - [JaggedGem](https://github.com/JaggedGem)
 - [Anas Ajaanan](https://github.com/anassajaanan)
+- [PinkMoon](https://github.com/CutePinkMoon)
 - [Arpan Gupta](https://github.com/gupta-arpan)
 - [SneakyShirtBalls](https://github.com/sneakyshirtballs)
 - [faea726](https://github.com/faea726)
