@@ -26,6 +26,7 @@
 - [Vidhi Sahai](https://github.com/Vidhi2604)
 - [Fadel Diop](https://github.com/Fadel-Dev)
 - [Joseph B Heinz](https://github.com/jbh14)
+- [Paul Gillet](https://github.com/p-gillet)
 - [prajesh](https://github.com/prajeshElEvEn)
 - [Ashmit Srivastava](https://github.com/Ashmit-Srivastava)
 - [Vrushabh Bhabire](https://github.com/Vrushabh-vb)
