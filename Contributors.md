@@ -17,7 +17,6 @@
 - [Jie Qiu](https://github.com/Jieqstu)
 - [Ishaan Jangid](https://github.com/Ishaanjangid)
 - [JW]
-- [Connor Hill(https://github.com/MeruemMoniker)]
 - [Kazi S. Ahmed](https://github.com/kahmed-stack)
 - [Blake Herbert] (https://github.com/Blake-Herbert)
   [Liam Bruhin](https://github.com/Duntron1000)
@@ -38,6 +37,7 @@
 - [Amiin Samatar](https://github.com/AmiinSamatar)
 - [Dheeraj Purohit](https://github.com/purohitdheeraj)
 - [Vidhi Sahai](https://github.com/Vidhi2604)
+- [Connor Hill(https://github.com/MeruemMoniker)]
 - [Fadel Diop](https://github.com/Fadel-Dev)
 - [Joseph B Heinz](https://github.com/jbh14)
 - [prajesh](https://github.com/prajeshElEvEn)
