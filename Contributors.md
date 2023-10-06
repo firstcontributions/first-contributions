@@ -5,6 +5,7 @@
 - [Yashwanth Vignesh](https://github.com/Yashwanth-Vignesh)
 - [Ishaan Jangid](https://github.com/Ishaanjangid)
 - [JW]
+- [Blake Herbert] (https://github.com/Blake-Herbert)
   [Liam Bruhin](https://github.com/Duntron1000)
 - [Thomas Marconi](https://github.com/thomasmarconi)
 - [Myint Thway Khine](https://github.com/r1d3rzz)
@@ -97,6 +98,7 @@
 - [Fixito](https://github.com/Fixito)
 - [Rohit Kumar Srivastava](https://github.com/rohitsrivastava2000)
 - [Sujal Bhor](https://github.com/bhorsujal)
+- [Kshitij Aucharmal](https://github.com/kshitijaucharmal)
 - [Shreyas Sridhar](https://github.com/shreyas-sridhar)
 - [Martin Jälmby](https://github.com/m-jalmby)
 - [Enrique Garcia](https://github.com/Enriquegarcia-ci)
@@ -1787,6 +1789,7 @@ Nikhil R
 - [Olaoluwa Ajanaku](https://github.com/0laolu)
 - [DannyLin](https://github.com/danny-lin714)
 - [Shreya Dasgupta](https://github.com/shreyadg56)
+- [Frank Wang](https://github.com/frank-suwen)
 - [Rafael Dutra](https://github.com/RafaDRF)
 - [Madani Khouane](https://github.com/madani20)
 - [Jessica Clarita Halim](https://github.com/jessicaclarita)
@@ -3199,3 +3202,4 @@ pig
 - [Aditya Ramesh] (https://github.com/adityar224)
 - [Toasty] (https://github.com/ToastWithCheeze)
 - [krantboy](https://github.com/Krantboy) 
+- [Karan Choudhary](https://github.com/Karan20)
