@@ -87,10 +87,14 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 
 ## Fork this repository
 
+### Meaning:Fork will create a copy of the repository on your account. You can work on your copy without changing the original. Later, you can suggest your changes to the original.
+
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
 ## Clone the repository
+
+### Meaning:Cloning in Git means making a copy of a project from a remote source to your computer. You can work on the copy locally.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
@@ -115,6 +119,8 @@ git clone git@github.com:this-is-you/first-contributions.git
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
 ## Create a branch
+
+### Meaning: Cloning in Git means making a copy of a project from a remote source to your computer. You can work on the copy locally.
 
 Change to the repository directory on your computer (if you are not already there):
 
@@ -158,6 +164,8 @@ replacing `your-name` with your name.
 
 ## Push changes to GitHub
 
+### Meaning: Push in Git means sending your local changes to a remote repository, like saving your work online. Others can see and use your changes.
+
 Push your changes using the command `git push`:
 
 ```
@@ -178,6 +186,8 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 </details>
 
 ## Submit your changes for review
+
+### Pull request : A pull request in Git is like suggesting changes to a project. You ask the project owner to review and merge your changes into the main project.
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
