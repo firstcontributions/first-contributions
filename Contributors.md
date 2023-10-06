@@ -1,6 +1,7 @@
 
 # Contributors
 - [JaggedGem](https://github.com/JaggedGem)
+- [SneakyShirtBalls](https://github.com/sneakyshirtballs)
 - [faea726](https://github.com/faea726)
 - [Yashwanth Vignesh](https://github.com/Yashwanth-Vignesh)
 - [Ishaan Jangid](https://github.com/Ishaanjangid)
