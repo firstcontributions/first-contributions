@@ -71,6 +71,7 @@
 - [Simone Baglivi](https://github.com/sbaglivi)
 - [Nick Rogers](https://github.com/mnickrogers)
 - [Kuljot Biring](https://github.com/kuljotbiring)
+- [Mizrab Sheikh](https://github.com/mizrab)
 - [Himanshu Gaur](https://github.com/Gaur2025)
 - [Stephan Sæbø](https://github.com/kongpottifar)
 - [Blossom Eze](https://github.com/Blossomeze)
