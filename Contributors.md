@@ -457,6 +457,7 @@ Pizzacat
 - [Atul Xalxo](https://github.com/Atul-Xalxo)
 - [Taneeshka Reddy](https://github.com/TaneeshkaReddy)
 - [Aniket Garole](https://github.com/aniketgarole)
+- [AmoghaKancharla](https://github.com/amoghak-ds)
 - [Fred Postles](https://github.com/fredpostles)
 - [Pulkit Sharma](https://github.com/Plktz)
 - [Kranya Provo](https://github.com/kkadapa)
