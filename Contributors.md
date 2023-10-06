@@ -154,6 +154,7 @@
 - [Chaitanya Mudaddala](https://github.com/cmchaitu)
 - [Harshal Patil](https://github.com/HarshalRajendraPatil)
 - [Diegowh](https://github.com/Diegowh)
+- [Sparsh Tomar](https://github.com/Sparshtomar)
 - [Mayank Gupta](https://github.com/mayankg-me)
 - [Vaibhav Patil](https://github.com/VaibhavAPatil)
 - [Lucas Almeida](https://github.com/LucasAlmeida-jpg)
