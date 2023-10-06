@@ -1,6 +1,8 @@
 
 # Contributors
 - [Aditya Prakash Gupta](https://github.com/evadrake89)
+- [Shrey](https://github.com/Zhreyu)
+- 
 - [Nakesh Tewari](https://github.com/NakeshTewari)
 - [Aviraj Gour](https://github.com/avirajsingh7)
 - [JaggedGem](https://github.com/JaggedGem)
