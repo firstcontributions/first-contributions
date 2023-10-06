@@ -263,6 +263,7 @@ gulshan
 - [Aashish Mishra](https://github.com/Gowther03)
 - [Alex GeoDev](https://github.com/alex-geodev)
 - [Shoaib Wani](https://github.com/Pyloris)
+- [Ryan Jacob](https://github.com/DevRyJa)
 - [Arslan Boulafrad](https://github.com/therealazzy)
 - [ASHUTOSH PAWAR](https://github.com/gurrudev)
 - [Ashley Mical](https://github.com/micamash)
