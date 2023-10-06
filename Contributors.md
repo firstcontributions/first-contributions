@@ -1,6 +1,7 @@
 
 # Contributors
 - [JaggedGem](https://github.com/JaggedGem)
+- [Arpan Gupta](https://github.com/gupta-arpan)
 - [SneakyShirtBalls](https://github.com/sneakyshirtballs)
 - [faea726](https://github.com/faea726)
 - [wajaht-ali](https://github.com/wajaht-ali)
