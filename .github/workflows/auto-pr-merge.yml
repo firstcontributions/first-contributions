@@ -105,7 +105,7 @@ jobs:
                 // social logo
                 const repo_logo = "https://avatars0.githubusercontent.com/u/65761570?s=88&u=640f39b808c75c6b86460aa907dd030bcca2f3c7&v=4"
                 const slack_logo = "https://edent.github.io/SuperTinyIcons/images/svg/slack.svg"
-                const twitter_logo = "https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg"
+                const twitter_logo = "https://fontawesome.com/icons/x-twitter?f=brands&s=solid&pc=%23ffffff"
                 const fb_logo = "https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg"
                 const reddit_logo = "https://edent.github.io/SuperTinyIcons/images/svg/reddit.svg"
                 const linkedin_logo = "https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg";
