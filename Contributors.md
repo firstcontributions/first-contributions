@@ -17,6 +17,7 @@
 - [Jie Qiu](https://github.com/Jieqstu)
 - [Ishaan Jangid](https://github.com/Ishaanjangid)
 - [JW]
+- [Connor Hill(https://github.com/MeruemMoniker)]
 - [Kazi S. Ahmed](https://github.com/kahmed-stack)
 - [Blake Herbert] (https://github.com/Blake-Herbert)
   [Liam Bruhin](https://github.com/Duntron1000)
