@@ -13,6 +13,7 @@
 - [faea726](https://github.com/faea726)
 - [wajaht-ali](https://github.com/wajaht-ali)
 - [Yashwanth Vignesh](https://github.com/Yashwanth-Vignesh)
+- [Jie Qiu](https://github.com/Jieqstu)
 - [Ishaan Jangid](https://github.com/Ishaanjangid)
 - [JW]
 - [Kazi S. Ahmed](https://github.com/kahmed-stack)
