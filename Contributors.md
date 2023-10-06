@@ -1,5 +1,6 @@
 ﻿
 # Contributors
+- [Zach Gentner](https://github.com/zachgentner)
 - [Aditya Prakash Gupta](https://github.com/evadrake89)
 - [Varanasi Aditya Sai](https://github.com/fvaysh)
 - [Nakesh Tewari](https://github.com/NakeshTewari)
