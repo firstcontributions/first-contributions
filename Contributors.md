@@ -125,6 +125,7 @@
 -[sukriti rai](https://github.com/Sukriti-Rai)
 - [Mary Mdukaza](https://github.com/MaryMdukaza)
 - [Krishna Yadav](https://github.com/Yadav97)
+- [Jawad Ahmed](https://github.com/Jawad151)
 - [Martha Anderson](https://github.com/andemar3)
 - [Avadhut Giri](https://github.com/Royalty252)
 - [1amkaizen](https://github.com/1amkaizen)
