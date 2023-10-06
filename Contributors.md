@@ -8,6 +8,7 @@
 - [Arpan Gupta](https://github.com/gupta-arpan)
 - [SneakyShirtBalls](https://github.com/sneakyshirtballs)
 - [Sujeet Kumar](https://github.com/sujeet9682)
+- [Prakhar Shankar](https://github.com/Prakhar-Shankar)
 - [Habibur Rahman]()
 - [faea726](https://github.com/faea726)
 - [wajaht-ali](https://github.com/wajaht-ali)
