@@ -75,6 +75,7 @@
 - [Gustavo Kurtz](https://github.com/gustavokurtz)
 - [karthik challa](https://github.com/karthikchalla7)
 - [Prashnth Tutturu] (https://github.com/prashanthtutturu)
+- [Rohit Kavitake](https://github.com/Rohit-Kavitake)
 - [Yahia Nasr] (https://github.com/Y4h14)
 - [Yang Xiang](https://github.com/yangxdev)
 - [Ashish Meagh](https://github.com/ashishmeagh)
