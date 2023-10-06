@@ -39,6 +39,7 @@
 - [Amiin Samatar](https://github.com/AmiinSamatar)
 - [Dheeraj Purohit](https://github.com/purohitdheeraj)
 - [Vidhi Sahai](https://github.com/Vidhi2604)
+- [Connor Hill(https://github.com/MeruemMoniker)]
 - [Fadel Diop](https://github.com/Fadel-Dev)
 - [Joseph B Heinz](https://github.com/jbh14)
 - [prajesh](https://github.com/prajeshElEvEn)
