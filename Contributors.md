@@ -2887,6 +2887,7 @@ Akash Abraham
 - [张丹婷](https://github.com/JOOLLIEE)
 - [howareyouandyou](https://github.com/howareyouandyou)
 - [Antonio Molina] (https://github.com/antwan1)
+- [Nicola Paoli](https://github.com/nicolapaoli)
 - [Willaumez Logan](https://github.com/LoganWillaumez)
 - [Maxwell Voorhes] (https://github.com/mvoorhes)
 - [Dut] (https://github.com/Dut-git)
