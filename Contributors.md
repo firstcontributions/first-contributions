@@ -96,6 +96,7 @@
 - Amna Salahudin
 - [Namrata Birajdar](https://github.com/NamrataB1306)
 - [Vaibhav Pareek](https://github.com/vaibhavpareek515)
+- [Dineshraj Dhanapathy](https://github.com/dineshrajdhanapathyDD)
 - [Nischal Mudennavar ](https://github.com/nischalmudennavar)
 - [Sheheryar Ramzan ](https://github.com/SheheryarRamzan)
 - [Ranjeet Singh ](https://github.com/ranjeetxsingh)
