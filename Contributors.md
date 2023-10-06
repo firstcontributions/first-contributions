@@ -222,6 +222,7 @@ gulshan
 - [Johann Braun](https://github.com/JohannBraun)
 - [Salaudeen Sodiq](https://github.com/salsod-star)
 - [Luke Strutz]
+- [Prince Pate](https://github.com/Princen08)
 - [Abhishek Tiwari](https://github.com/ATiwari2000)
 - [bucheraa](https://github.com/bucheraa)
 - [Choloping](https://github.com/choloping)
