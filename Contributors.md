@@ -820,6 +820,7 @@ Sino Felicity Zwane
 - [Kimandu Ndung'u](https://github.com/DixonKimandu)
 - [Hernani Domingo](https://github.com/hernanidomingo)
 - [jdcantorna]
+- [Kyle Reising]
 - [Abhishek Amber][https://github.com/amberabhi]
 - [Sreekumar Krishnan](https://github.com/SreekumarKrishnan)
 - [ELena Guo](https://github.com/ElenaGuo404)
