@@ -14,6 +14,7 @@
 - [Yashwanth Vignesh](https://github.com/Yashwanth-Vignesh)
 - [Ishaan Jangid](https://github.com/Ishaanjangid)
 - [JW]
+- [Kazi S. Ahmed](https://github.com/kahmed-stack)
 - [Blake Herbert] (https://github.com/Blake-Herbert)
   [Liam Bruhin](https://github.com/Duntron1000)
 - [Thomas Marconi](https://github.com/thomasmarconi)
