@@ -2089,6 +2089,7 @@ Nikhil R
 - [Sam Ahsan](https://github.com/purpup)
 - [Abhishek Mahalunge](https://github.com/ABHISHEKMAHALUNGE)
 - [Akash Jaiswal](https://github.com/akashjaiswal797112)
+- [Uddhav Jadhav](https://github.com/UddhavSJadhav)
 - [Verocayden](https://github.com/Verocayden)
 - [VineBoomSoundEffect](https://github.com/VineBoomSoundEffect)
 - [Farlen Ureña](https://github.com/FarlenUrena)
