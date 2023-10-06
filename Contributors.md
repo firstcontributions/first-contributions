@@ -2579,6 +2579,7 @@ Akash Abraham
 - [Suauzureg](https://github.com/Suauzureg)
 - Derek Swanson
 - [Duc Dong](https://github.com/ducdongmg)
+- [Paul Lee](https://github.com/plee30)
 - [Amna Ahmed](https://github.com/nono5342)
 - [Shreyes Gadwalkar](https://github.com/ShreyesGadwalkar)
 - [Namit Saxena](https://github.com/oddball1123)
