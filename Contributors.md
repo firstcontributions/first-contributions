@@ -204,6 +204,7 @@ gulshan
 - [Abhinav Puri](https://github.com/Abhinav16072001)
 - [Pranjal]
 - [Emilly Tiampati](https://github.com/sereyatiampati)
+- [Saleem Toure](https://github.com/saleemtoure)
 - [Meron_Endris](https://github.com/MeronMEndris)
 - [Arjit Kedia](https://github.com/combfreak45)
 - [Aditya Dhaduk] (https://github.com/Aditya2814)
