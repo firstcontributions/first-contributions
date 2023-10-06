@@ -67,7 +67,6 @@
 - [Paul Rose] (https://github.com/ptrose78)
 - [Osho Iseoluwa](https://github.com/theCephas)
 - [Nivea Hanley](https://github.com/niv-png)
-- [Rohit Kavitake](https://github.com/Rohit-Kavitake)
 - [Parth Bijpuriya](https://github.com/parth656)
 - [Tommy Shiels](https://github.com/tshiels)
 - [CallumReilly] (https://github.com/calumariy)
