@@ -1,5 +1,6 @@
 
 # Contributors
+- [Aviraj Gour](https://github.com/avirajsingh7)
 - [JaggedGem](https://github.com/JaggedGem)
 - [Anas Ajaanan](https://github.com/anassajaanan)
 - [PinkMoon](https://github.com/CutePinkMoon)
