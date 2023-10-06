@@ -39,6 +39,7 @@
 - [Amiin Samatar](https://github.com/AmiinSamatar)
 - [Dheeraj Purohit](https://github.com/purohitdheeraj)
 - [Vidhi Sahai](https://github.com/Vidhi2604)
+- [Connor Hill(https://github.com/MeruemMoniker)]
 - [Fadel Diop](https://github.com/Fadel-Dev)
 - [Joseph B Heinz](https://github.com/jbh14)
 - [prajesh](https://github.com/prajeshElEvEn)
@@ -1723,6 +1724,7 @@ Nikhil R
 - [Sanket patil](https://github.com/sanket1one)
 - [Eliza Huang](https://github.com/elizahuang/)
 - [Farhad Koushan](https://github.com/FarhadK2022)
+- [Eve Root](https://github.com/Everoot)
 - [Kelvin Obidozie](https://github.com/softkeldozy/)
 - [Victoria Bruno](https://github.com/Victoria-Bruno)
 - [Alvin Su](https://github.com/aksu-github)
