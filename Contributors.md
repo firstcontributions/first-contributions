@@ -3001,6 +3001,7 @@ Akash Abraham
 - [Lillyann](https://github.com/lcelisse)
 - [Richmond Nyame](https://github.com/Nyame100)
 - [Abdourahmane Jalloh](https://github.com/aradradev)
+- [Avery Moore](https://github.com/Avery-Moore)
 - [pipTyrannical](https://github.com/piptyrannical)
 - [Guru Deep Kuwar](https://github.com/gurudeepkuwar)
 - [BombshellBilly](https://github.com/BSB47)
