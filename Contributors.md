@@ -451,6 +451,7 @@ Pizzacat
 - [Ramez Gabra](https://github.com/ramezgabra)
 - [MAEINUDDIN ](https://github.com/Maeinukhan63/)
 - [Jaocb Moneda](https://github.com/jmogizmo)
+- [Rishabh Dubey](https://github.com/rishabh3562)
 - [Fernando Perez](https://github.com/FernPerez/)
 - [Tony McLeish](https://github.com/Tunza42/)
 - [Chukwuebuka Ejie](https://github.com/triplee12)
