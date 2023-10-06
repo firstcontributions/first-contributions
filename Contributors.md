@@ -1,4 +1,4 @@
-﻿
+
 # Contributors
 - [Zach Gentner](https://github.com/zachgentner)
 - [Aditya Prakash Gupta](https://github.com/evadrake89)
@@ -15,6 +15,7 @@
 - [Habibur Rahman]()
 - [Shrey](https://github.com/Zhreyu)
 - [Marissa Homer] (https://github.com/marissahomer)
+- [Danica Dale] (https://github.com/daledanica)
 - [faea726](https://github.com/faea726)
 - [wajaht-ali](https://github.com/wajaht-ali)
 - [Yashwanth Vignesh](https://github.com/Yashwanth-Vignesh)
