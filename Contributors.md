@@ -813,6 +813,7 @@ Sino Felicity Zwane
 - [Abhi Bhullar](https://github.com/userabhibhullar)
 - [Eli Mullan] (https://github.com/EliMullan)
 - [Charles DZADU] (https://github.com/CharlesDzadu)
+- Aly Salah
 - [FjOrtega]
   [Noviath61] (https://github.com/Noviath61)
   [aayush920](https://github.com/aayush920)
