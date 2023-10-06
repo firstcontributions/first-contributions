@@ -98,6 +98,7 @@
 - [Fixito](https://github.com/Fixito)
 - [Rohit Kumar Srivastava](https://github.com/rohitsrivastava2000)
 - [Sujal Bhor](https://github.com/bhorsujal)
+- [Kshitij Aucharmal](https://github.com/kshitijaucharmal)
 - [Shreyas Sridhar](https://github.com/shreyas-sridhar)
 - [Martin Jälmby](https://github.com/m-jalmby)
 - [Enrique Garcia](https://github.com/Enriquegarcia-ci)
