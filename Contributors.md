@@ -1813,7 +1813,6 @@ Nikhil R
 - [Patrick Ha](https://github.com/patrickha55)
 - [Abhijeet Das Gupta](https://github.com/abhijelly)
 - [Anika Roy](https://github.com/Anika-Roy)
-- [The Incredible Kasulk](https://github.com/kasulk)
 - [justinloleng](https://github.com/justinloleng)
 - [Ebenezer Akhonya](https://github.com/Itsfoss0)
 - [Sujit Akulwar](https://github.com/SujitAkulwar)
@@ -3239,4 +3238,5 @@ pig
 - [Yash Salunke](https://github.com/YashSalunke12)
 - [Mahad Ahmed](https://github.com/Mahadd1111)
 - [Akrati Verma](https://github.com/blindaks)
+- [Shivam Singh](https://github.com/Shivam250702)
  
