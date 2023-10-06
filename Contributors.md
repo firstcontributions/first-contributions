@@ -1724,6 +1724,7 @@ Nikhil R
 - [Sanket patil](https://github.com/sanket1one)
 - [Eliza Huang](https://github.com/elizahuang/)
 - [Farhad Koushan](https://github.com/FarhadK2022)
+- [Eve Root](https://github.com/Everoot)
 - [Kelvin Obidozie](https://github.com/softkeldozy/)
 - [Victoria Bruno](https://github.com/Victoria-Bruno)
 - [Alvin Su](https://github.com/aksu-github)
