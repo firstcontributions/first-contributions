@@ -1789,6 +1789,7 @@ Nikhil R
 - [Olaoluwa Ajanaku](https://github.com/0laolu)
 - [DannyLin](https://github.com/danny-lin714)
 - [Shreya Dasgupta](https://github.com/shreyadg56)
+- [Frank Wang](https://github.com/frank-suwen)
 - [Rafael Dutra](https://github.com/RafaDRF)
 - [Madani Khouane](https://github.com/madani20)
 - [Jessica Clarita Halim](https://github.com/jessicaclarita)
