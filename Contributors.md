@@ -1420,6 +1420,7 @@ Nikhil R
 - [Ankit Shrungare](https://github.com/Ankitshru)
 - [Manu](https://github.com/thunderbolt004)
 - [Mandy]
+- [Jesús Lagares](https://github.com/Lagaress)
 - [5OO](https://github.com/5OO)
 - King William [https://github.com/seanapowi]
 - [Prabhat Saxena](https://github.com/xx-VIRUS-xx)
