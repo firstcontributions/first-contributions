@@ -773,6 +773,7 @@ Sino Felicity Zwane
 - [Nicholas-Garbutt](https://github.com/Nicholas-Garbutt)
 - [Vita Golubovska](https://github.com/Golubko)
 - [Jason Betsargon](https://github.com/JasonBet)
+- [William Jennings](https://github.com/JenningsWilliam)
 - [Chirag Gupta](https://github.com/chirag-9121)
 - [Ritesh Sadh](https://github.com/sadhritesh)
 - [Clara Wong](https://github.com/clarawong20)
