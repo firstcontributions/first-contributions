@@ -1,4 +1,4 @@
-
+﻿
 # Contributors
 - [Aditya Prakash Gupta](https://github.com/evadrake89)
 - [Nakesh Tewari](https://github.com/NakeshTewari)
@@ -176,6 +176,7 @@
 - [Ebube Onwuta](https://github.com/Ebuube)
   [sukriti rai](https://github.com/Sukriti-Rai)
 - [Minhaz Arfin] (https://github.com/Minhaz-Arfin)
+- [Saad Ahmad Bangash] (https://github.com/saadbangashh)
 - [Okitta Ongaye](https://github.com/okitta)
 - [Joe Palladino](https://gitub.com/Mindfulgeek)
 - [Himanshi Gupta](https://github.com/himanshigupta22)
