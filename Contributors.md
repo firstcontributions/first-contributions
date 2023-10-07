@@ -228,7 +228,6 @@
 - [Prajwal patil](https://github.com/prajwal-26)
 - [Adarsh Kumar](https://github.com/ADARSH9358)
 - [Aldair Palma](https://github.com/aldairjpalma)
-- [femkni](https://github.com/femkni)
 - [Ana Casia Figueiredo Invernizzi](https://github.com/ana-cassia-invernizzi)
 - [Neaha Bijo](https://github.com/Neaha-Bijo)
 - [Karanjot Singh](https://github.com/karanjot786)
