@@ -3354,6 +3354,7 @@ pig
 - [Harshit Malpotra](https://github.com/malpotra)
 - [Momanyi Brian](https://github.com/MomanyiPoet)
 - [Fredrick Kimani](https://github.com/fredkd)
+- [Salis Bin Salman](https://github.com/salissalmann)
 - [Shaheer Abdullah](https://github.com/Shaheerabdullah1)
 - [ch444d] (https://github.com/ch444d)
 - [SeviTen] (https://github.com/SeviTen)
