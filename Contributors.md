@@ -130,6 +130,7 @@
 - [Mizrab Sheikh](https://github.com/mizrab)
 - [Himanshu Gaur](https://github.com/Gaur2025)
 - [Stephan Sæbø](https://github.com/kongpottifar)
+- [Charles Johnson](https://github.com/CharlesJohnson117)
 - [Blossom Eze](https://github.com/Blossomeze)
 - [Bojidar Vladimirov](https://github.com/BojkaV)
 - [Yazeed Tarshan]
