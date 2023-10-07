@@ -82,6 +82,7 @@
 - [Aishwarya Ramakrishnan](https://github.com/Aishwarya-Ramakrishnan22)
 - [Catherine Martens](https://github.com/kayticodes)
 - [Abhishik karmakar](https://github.com/AbhisKarma/)
+- [Abdullah Waqar](https://github.com/abwqr)
 - [Shalom Riona Fernandes](https://github.com/shalomrionafernandes)
 - [JunLovin](https://github.com/JunLovin)
 - [Nithin](https://github.com/nithin-0111/)
