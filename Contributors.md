@@ -2325,6 +2325,7 @@ Akash Abraham
 - [Eric Neves](https://github.com/EricNeves)
 - [Nguyen Pham](https://github.com/giacnguyenbmt)
 - [Yasar Nazzarian](https://github.com/Yasar2019)
+- [Ian C](https://github.com/insmod-n)
 - [Felipe Videira](https://github.com/felipe-videira)
 - [Uday Mehtani](https://github.com/uday03meh)
 - [Zayn Muhammad](https://github.com/ZaynMuhammad)
