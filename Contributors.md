@@ -1206,6 +1206,7 @@ Nikhil R
 - [Ayush Kumar Sinha](https://github.com/aks151)
 - [Sushibears](https://github.com/Sushibears)
 - [John Mburu](https://github.com/techstrix)
+- [Inam ul Rehman](https://github.com/inamprograms)
 - [Bishal Jena](https://github.com/bishal-jena)
 - [Pixel Bit](https://github.com/Mproot)
 - [Abdullah Sulaiman](https://github.com/CodeMage-x)
