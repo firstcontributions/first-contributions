@@ -39,6 +39,7 @@
 - [Shrey](https://github.com/Zhreyu)
 - [Gabrielli Oliveira](https://github.com/gabrielliosc)
 - [Akrati Verma](https://github.com/blindaks)
+- [Muhammad Usman] (https://github.com/Garrissonian)
 - [Marissa Homer] (https://github.com/marissahomer)
 - [Johnny Nguyen] (https://github.com/johnny-h-nguyen)
  -[Ericode](https://github.com/Ericode254)
