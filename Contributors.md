@@ -471,6 +471,7 @@ Stewbin
 - [Madhushi](https://github.com/MadhushiUdeshika)
 - [Hajar Skalli-Houssaini](https://github.com/HaSH147)
 - [Shamanth KN](https://github.com/shamanthkn5)
+- [Vaibhav](https://github.com/vaibhav-009)
 - [Pratham Dhiman](https://github.com/Pratham86)
 - [Karan Choudhary](https://github.com/cskaranchow)
 - [Akash Tripathi](https://github.com/akashtripathi1)
