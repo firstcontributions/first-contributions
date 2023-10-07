@@ -567,6 +567,7 @@ Pizzacat
 - [Ayush Mishra](https://github.com/dev-ayush69)
 - [Daniel Francisco](https://github.com/danielbrah)💀
 -[Luis Baião](https://github.com/Luis4112)
+-[Laiba Noor](https://github.com/Laiba-Noor)
 - [Subham Mani] (https://github.com/iSubhamMani)
 - [Kurt Renzo Jalalain](https://github.com/marshmallow218)
 - [EndCoder](https://github.com/EndCod3r)
