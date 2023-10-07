@@ -31,6 +31,7 @@
 - [Aditya Garg](https://github.com/aditya7302)
 - [Shrey](https://github.com/Zhreyu)
 - [Gabrielli Oliveira](https://github.com/gabrielliosc)
+- [Akrati Verma](https://github.com/blindaks)
 - [Marissa Homer] (https://github.com/marissahomer)
 - [Johnny Nguyen] (https://github.com/johnny-h-nguyen)
  -[Ericode](https://github.com/Ericode254)
