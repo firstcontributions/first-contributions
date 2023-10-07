@@ -3314,9 +3314,5 @@ pig
 - [Vatsalya Vyas](https://github.com/vatsalya-vyas)
 - [Akrati Verma](https://github.com/blindaks)
 - [Shivam Singh](https://github.com/Shivam250702)
-<<<<<<< HEAD
-- [Momanyi Brian](https://github.com/MomanyiPoet)
-=======
 - [Fredrick Kimani](https://github.com/fredkd)
->>>>>>> a6dd894ed65f5502aa60a59c6c8902d63aa63ed3
 
