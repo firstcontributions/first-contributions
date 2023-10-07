@@ -20,6 +20,7 @@
 - [Nakesh Tewari](https://github.com/NakeshTewari)
 - [Swarnava Gayen](https://github.com/raj007-star)
 - [Aviraj Gour](https://github.com/avirajsingh7)
+- [Pabitra Pal](https://github.com/pabitra0011)
 - [Anargha Pal](https://github.com/anargha-pal)
 - [Bonniekiprop](https://github.com/Bonfacekiprop)
 - [JaggedGem](https://github.com/JaggedGem)
