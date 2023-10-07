@@ -3333,6 +3333,7 @@ pig
 - [Akrati Verma](https://github.com/blindaks)
 - [Shivam Singh](https://github.com/Shivam250702)
 - [pwk](https://github.com/pwk50)
+- [Harshit Malpotra](https://github.com/malpotra)
 - [Momanyi Brian](https://github.com/MomanyiPoet)
 - [Fredrick Kimani](https://github.com/fredkd)
 - [ch444d] (https://github.com/ch444d)
