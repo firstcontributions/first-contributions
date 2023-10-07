@@ -27,6 +27,7 @@
 - [Johnny Nguyen] (https://github.com/johnny-h-nguyen)
  -[Ericode](https://github.com/Ericode254)
 - [faea726](https://github.com/faea726)
+- [Methembe Gumbo](https://github.com/Methieg)
 - [Sahil Tembhurkar](https://github.com/sahirooh)
 - [wajaht-ali](https://github.com/wajaht-ali)
 - [Qin Zan](https://github.com/joyceZ916)
