@@ -7,6 +7,7 @@
 - [Dibya Ranjan Sahoo](https://github.com/100-dibya)
 - [Nakesh Tewari](https://github.com/NakeshTewari)
 - [Aviraj Gour](https://github.com/avirajsingh7)
+- [Anargha Pal](https://github.com/anargha-pal)
 - [JaggedGem](https://github.com/JaggedGem)
 - [Anas Ajaanan](https://github.com/anassajaanan)
 - [PinkMoon](https://github.com/CutePinkMoon)
