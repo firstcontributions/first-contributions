@@ -3351,6 +3351,7 @@ pig
 - [Akrati Verma](https://github.com/blindaks)
 - [Shivam Singh](https://github.com/Shivam250702)
 - [pwk](https://github.com/pwk50)
+- [Qasim Ali](https://github.com/MirzaQasimAli)
 - [Harshit Malpotra](https://github.com/malpotra)
 - [Momanyi Brian](https://github.com/MomanyiPoet)
 - [Fredrick Kimani](https://github.com/fredkd)
