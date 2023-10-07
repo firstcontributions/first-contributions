@@ -3,6 +3,7 @@
 - [Sheikh Suhail Khursheed](https://github.com/sheikhsuhail19)
 - [Zach Gentner](https://github.com/zachgentner)
 - [Gilbert Okonjo] (https://github.com/OpondoG)
+- [elijah mutune](https://github.com/ElijahMutune)
 - [Aditya Prakash Gupta](https://github.com/evadrake89)
 - [Peterson Kariuki Kanyuga](https://github.com/pkanyu)
 - [Cecilia Kinyua](https://github.com/Kinyuacecilia)
