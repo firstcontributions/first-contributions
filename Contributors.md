@@ -5,6 +5,7 @@
 - [Gilbert Okonjo] (https://github.com/OpondoG)
 - [Aditya Prakash Gupta](https://github.com/evadrake89)
 - [Cecilia Kinyua](https://github.com/Kinyuacecilia)
+- [Momanyi Brian](https://github.com/MomanyiPoet)
 - [Varanasi Aditya Sai](https://github.com/fvaysh)
 - [Lewis Odero](https://github.com/levos-snr)
 - [Jacinta kazenzi](https://github.com/Kazenzi)
