@@ -148,7 +148,7 @@
 - [Clifford Ouma](https://github.com/Cli4d)
 - [Ahmed Ryan](https://github.com/ahmedryanfaiyaz)
 - [Himanshu Nanda](https://github.com/himanshunanda22)
-- [Athanlaich](https://github.com/Athanlaich)
+- [Athanlaich He](https://github.com/Athanlaich)
 - [Chavi](https://github.com/ChaviSchatz)
 - [Gurshaan](https://github.com/GurshaanK)
 - [Romit Sutariya](https://github.com/romitsutariya)
