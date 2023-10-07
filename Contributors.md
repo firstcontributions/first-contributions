@@ -3307,6 +3307,7 @@ pig
 - [Arian Dervishaj](https://github.com/ArianDervishaj)
 - [Aashan Javed](https://github.com/Aashan47)
 - [Jesse Curran](https://github.com/jesse-curran)
+- [Muhammad Shayan Khan](https://github.com/shayan-2k1)
 - [Extell Farve] (https://github.com/TrashPandaRX)
 - [Dominik Karas](https://github.com/KarasDominik)
 - [cjh1212](https://github.com/cjh1212)
