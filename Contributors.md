@@ -3353,4 +3353,5 @@ pig
 - [Fredrick Kimani](https://github.com/fredkd)
 - [ch444d] (https://github.com/ch444d)
 - [SeviTen] (https://github.com/SeviTen)
+- [khalid](http://github.com/khalid586)
 
