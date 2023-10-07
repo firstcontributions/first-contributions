@@ -65,9 +65,16 @@
 - [Tri Nguyen](https://github.com/nmtri2810)
 - [Sathya Narayana Rangappagari](https://github.com/sathyaar5)
 - [Minjae Lee](https://github.com/minleejae)
+<<<<<<< HEAD
 - [7oda]()
 - [Avira Soni](https://github.com/A-viralS)
 - [Pradyot Ranjan](https://github.com/prady0t)
+=======
+- [7oda]tss
+-[Avira Soni](https://github.com/A-viralS)
+- [Aftab Zaheer](https://github.com/aftabzaheer23)
+-[Pradyot Ranjan](https://github.com/prady0t)
+>>>>>>> 7bc6b85b7ca23f99e3dc7e7aa2e8492f55814e61
 - [Arjun](https://github.com/arjunvtsuresh)
 - [2111518](https://github.com/2111518)
 - [Alan Nguyen](https://github.com/khangwen)
