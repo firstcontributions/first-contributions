@@ -16,6 +16,7 @@
 - [Sujeet Kumar](https://github.com/sujeet9682)
 - [Prakhar Shankar](https://github.com/Prakhar-Shankar)
 - [Habibur Rahman]()
+- [Aditya Garg](https://github.com/aditya7302)
 - [Shrey](https://github.com/Zhreyu)
 - [Gabrielli Oliveira](https://github.com/gabrielliosc)
 - [Marissa Homer] (https://github.com/marissahomer)
