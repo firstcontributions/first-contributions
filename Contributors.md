@@ -307,6 +307,7 @@ gulshan
 - [Pavan Kalyan](https://github.com/Pavan782)gg
 - [Rishav Kumar](https://github.com/rishavnitjsr)
 - [Arnav Kumar](https://github.com/OverRevvv)
+- [Samarpit Sachan](https://github.com/samarpit-sachan)
 - [Venkat Manda](https://github.com/venkymanda)
 - Aziz Abderrahim
 - [Lohith Kotni](https://github.com/lohitkotni)
