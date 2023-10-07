@@ -20,6 +20,7 @@
 - [Anargha Pal](https://github.com/anargha-pal)
 - [Bonniekiprop](https://github.com/Bonfacekiprop)
 - [JaggedGem](https://github.com/JaggedGem)
+- [Henry Hansen] (https://github.com/HenryHansenK)
 - [CyberKyber](https://github.com/CyberGlitch86)
 - [Anas Ajaanan](https://github.com/anassajaanan)
 - [PinkMoon](https://github.com/CutePinkMoon)
