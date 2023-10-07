@@ -95,6 +95,7 @@
 - [Blossom Eze](https://github.com/Blossomeze)
 - [Bojidar Vladimirov](https://github.com/BojkaV)
 - [Yazeed Tarshan]
+- [Sandra Yee]
 - [Jannat Khan](https://github.com/JannatKhan1)
 - [Sky Deng](https://github.com/skydonline)
 - [Sirpi Yugendar](https://github.com/cirpi)
