@@ -955,6 +955,7 @@ Sino Felicity Zwane
 - [Robert McCall](https://github.com/Polderrider)
 - [Terry] (https://github.com/Chebz23)
 - [Avi] (https://github.com/avitheduck)
+- [Neil Nautiyal] (https://github.com/neilnautiyal)
 - [Harish H](https://github.com/harishhamilpur)
 - [Brian Fernandez](https://github.com/br14n-sol)
 - [Min Kim](https://github.com/Kim-Min-K)
