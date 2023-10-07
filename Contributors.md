@@ -286,6 +286,7 @@ gulshan
 - [Rishav Kumar](https://github.com/rishavnitjsr)
 - [Arnav Kumar](https://github.com/OverRevvv)
 - [Venkat Manda](https://github.com/venkymanda)
+- Aziz Abderrahim
 - [Lohith Kotni](https://github.com/lohitkotni)
 - [João Paulo S. S.](https://github.com/JoaoPauloSouzaSilva)
 - [Umais Chaudhary](https://github.com/umaismateen)
