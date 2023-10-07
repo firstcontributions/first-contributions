@@ -3,6 +3,7 @@
 - [Sheikh Suhail Khursheed](https://github.com/sheikhsuhail19)
 - [Zach Gentner](https://github.com/zachgentner)
 - [Aditya Prakash Gupta](https://github.com/evadrake89)
+- [Cecilia Kinyua](https://github.com/Kinyuacecilia)
 - [Varanasi Aditya Sai](https://github.com/fvaysh)
 - [Dibya Ranjan Sahoo](https://github.com/100-dibya)
 - [Nakesh Tewari](https://github.com/NakeshTewari)
