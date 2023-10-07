@@ -2,8 +2,11 @@
 # Contributors
 - [Sheikh Suhail Khursheed](https://github.com/sheikhsuhail19)
 - [Zach Gentner](https://github.com/zachgentner)
+- [Gilbert Okonjo] (https://github.com/OpondoG)
 - [Aditya Prakash Gupta](https://github.com/evadrake89)
+- [Cecilia Kinyua](https://github.com/Kinyuacecilia)
 - [Varanasi Aditya Sai](https://github.com/fvaysh)
+- [Jacinta kazenzi](https://github.com/Kazenzi)
 - [Dibya Ranjan Sahoo](https://github.com/100-dibya)
 - [Nakesh Tewari](https://github.com/NakeshTewari)
 - [Aviraj Gour](https://github.com/avirajsingh7)
@@ -22,7 +25,9 @@
 - [Gabrielli Oliveira](https://github.com/gabrielliosc)
 - [Marissa Homer] (https://github.com/marissahomer)
 - [Johnny Nguyen] (https://github.com/johnny-h-nguyen)
+ -[Ericode](https://github.com/Ericode254)
 - [faea726](https://github.com/faea726)
+- [Methembe Gumbo](https://github.com/Methieg)
 - [Sahil Tembhurkar](https://github.com/sahirooh)
 - [wajaht-ali](https://github.com/wajaht-ali)
 - [Qin Zan](https://github.com/joyceZ916)
@@ -38,6 +43,7 @@
 - [Thomas Marconi](https://github.com/thomasmarconi)
 - [Myint Thway Khine](https://github.com/r1d3rzz)
 - [Farquleet Farhat](https://github.com/fafnirLore)
+- [Stephanie Makori](https://github.com/Koddie-arch)
 - [Shanit Paul](https://github.com/SlicePoh)
 - [Pranav Tripathi] (https://github.com/mightyshibbu)
 - [Davit Natenadze](https://github.com/Natenadze)
@@ -93,6 +99,7 @@
 - [Keshav Pahwa](https://github.com/keshav-pahwa/)
 - [Ved Prakash](https://github.com/Ved142)
 - [Kaushik Kumar Das](https://github.com/AlexWeb07)
+- [Kelvin Koech](https://github.com/koechcoding)
 - [Omar Ihab](https://github.com/omarihab99)
 - [Kalim Amal](https://github.com/AMALK319)
 - [Prathmesh Bunde](https://github.com/Sparkydev007)
@@ -369,6 +376,7 @@ gulshan
 - [Preetham P M](https://github.com/preetham-p-m)
 - [Kavya Pandey](https://github.com/zykuriku)
 - [Paul Kabuu](https://github.com/kongkabuu)
+- [Nimo Muhumed](https://github.com/eazima)
 - [Juan Pablo Alvarado](https://github.com/juancodeaudio)
 - [Paul Rose] (https://github.com/ptrose78)
 - [Osho Iseoluwa](https://github.com/theCephas)
@@ -2325,6 +2333,7 @@ Akash Abraham
 - [Eric Neves](https://github.com/EricNeves)
 - [Nguyen Pham](https://github.com/giacnguyenbmt)
 - [Yasar Nazzarian](https://github.com/Yasar2019)
+- [Ian C](https://github.com/insmod-n)
 - [Felipe Videira](https://github.com/felipe-videira)
 - [Uday Mehtani](https://github.com/uday03meh)
 - [Zayn Muhammad](https://github.com/ZaynMuhammad)
@@ -3301,5 +3310,9 @@ pig
 - [Vatsalya Vyas](https://github.com/vatsalya-vyas)
 - [Akrati Verma](https://github.com/blindaks)
 - [Shivam Singh](https://github.com/Shivam250702)
+<<<<<<< HEAD
 - [Momanyi Brian](https://github.com/MomanyiPoet)
+=======
+- [Fredrick Kimani](https://github.com/fredkd)
+>>>>>>> a6dd894ed65f5502aa60a59c6c8902d63aa63ed3
 
