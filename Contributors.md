@@ -64,6 +64,7 @@
 - [Martin Olsen](https:://github.com/MartinOlsenDev)
 - [Basil Noor](https://github.com/basilnoor)
 - [Keya Karkun](https://github.com/keyakarkun)
+- [famkni](https://github.com/famkni)
 - [Christine Allay] (https://github.com/ceaupid) 
 - [Suraj Yadav](https://github.com/suraj-yadav0)
 - [Donald Nwokoro](https://github.com/donguillotine)
