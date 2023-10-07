@@ -3227,6 +3227,7 @@ Akash Abraham
 - [Yunfei](https://github.com/Yunfei-Ma-McMaster)
 - [Maceo] (https://github.com/maceoCK)
 - [Simon Conrad](https://github.com/slyskillet)
+- [Muhammad Usman](https://github.com/M-Usman29)
 - [Mariano] (https://github.com/marians91)
 - [TCHAGBONON William oka] (https://github.com/willimbee)
 - [Akshansh Sharma](https://github.com/Tombstoner)
