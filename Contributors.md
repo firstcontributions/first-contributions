@@ -18,6 +18,7 @@
 - [Marissa Homer] (https://github.com/marissahomer)
 - [Johnny Nguyen] (https://github.com/johnny-h-nguyen)
 - [faea726](https://github.com/faea726)
+- [Sahil Tembhurkar](https://github.com/sahirooh)
 - [wajaht-ali](https://github.com/wajaht-ali)
 - [Qin Zan](https://github.com/joyceZ916)
 - [Yashwanth Vignesh](https://github.com/Yashwanth-Vignesh)
