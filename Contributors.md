@@ -14,6 +14,7 @@
 - [Prakhar Shankar](https://github.com/Prakhar-Shankar)
 - [Habibur Rahman]()
 - [Shrey](https://github.com/Zhreyu)
+- [Gabrielli Oliveira](https://github.com/gabrielliosc)
 - [Marissa Homer] (https://github.com/marissahomer)
 - [Johnny Nguyen] (https://github.com/johnny-h-nguyen)
 - [faea726](https://github.com/faea726)
