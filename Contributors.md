@@ -3334,7 +3334,7 @@ pig
 - [Dominik Karas](https://github.com/KarasDominik)
 - [cjh1212](https://github.com/cjh1212)
 - [aclin2] (https://github.com/aclin2)
-- [Abhinav Kumar] (https://github.com/Abhinav5383)
+- [Abhinav Kumar](https://github.com/Abhinav5383)
 - [Aditya Ramesh] (https://github.com/adityar224)
 - [Toasty] (https://github.com/ToastWithCheeze)
 - [Karan Choudhary](https://github.com/Karan20)
