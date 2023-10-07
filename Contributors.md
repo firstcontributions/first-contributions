@@ -170,6 +170,7 @@
 - [Heli Patel] (https://github.com/helip0269) 
 - [Anxious Ant](https://github.com/AnxiousAnt)
 - [Chaitanya Mudaddala](https://github.com/cmchaitu)
+- [Vaibhav](https://github.com/vaibhav-009)
 - [Harshal Patil](https://github.com/HarshalRajendraPatil)
 - [Diegowh](https://github.com/Diegowh)
 - [Sparsh Tomar](https://github.com/Sparshtomar)
