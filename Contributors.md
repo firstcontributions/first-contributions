@@ -34,6 +34,7 @@
 - [Alan Nguyen](https://github.com/khangwen)
 - [Amiin Samatar](https://github.com/AmiinSamatar)
 - [Dheeraj Purohit](https://github.com/purohitdheeraj)
+- [Atul Singh](https://github.com/ar722em)
 - [Vidhi Sahai](https://github.com/Vidhi2604)
 - [Fadel Diop](https://github.com/Fadel-Dev)
 - [Joseph B Heinz](https://github.com/jbh14)
