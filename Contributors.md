@@ -25,6 +25,7 @@
 - [faea726](https://github.com/faea726)
 - [Sahil Tembhurkar](https://github.com/sahirooh)
 - [wajaht-ali](https://github.com/wajaht-ali)
+- [Morris Bundi](https://github.com/morrisbmm)
 - [Qin Zan](https://github.com/joyceZ916)
 - [Yashwanth Vignesh](https://github.com/Yashwanth-Vignesh)
 - [Jie Qiu](https://github.com/Jieqstu)
