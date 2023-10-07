@@ -8,6 +8,7 @@
 - [Aditya Prakash Gupta](https://github.com/evadrake89)
 - [Peterson Kariuki Kanyuga](https://github.com/pkanyu)
 - [Cecilia Kinyua](https://github.com/Kinyuacecilia)
+- [Ayush Arora](https://github.com/ayusharora21003)
 - [Momanyi Brian](https://github.com/MomanyiPoet)
 - [Varanasi Aditya Sai](https://github.com/fvaysh)
 - [Lewis Odero](https://github.com/levos-snr)
