@@ -3328,4 +3328,6 @@ pig
 - [Akrati Verma](https://github.com/blindaks)
 - [Shivam Singh](https://github.com/Shivam250702)
 - [Fredrick Kimani](https://github.com/fredkd)
+- [Salis Bin Salman](https://github.com/salissalmann)
+
 
