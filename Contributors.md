@@ -3356,4 +3356,5 @@ pig
 - [ch444d] (https://github.com/ch444d)
 - [SeviTen] (https://github.com/SeviTen)
 - [khalid](http://github.com/khalid586)
+- [Dominik Balga](https://github.com/DominikBalga)
 
