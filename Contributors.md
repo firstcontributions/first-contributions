@@ -40,6 +40,7 @@
 - [wajaht-ali](https://github.com/wajaht-ali)
 - [Qin Zan](https://github.com/joyceZ916)
 - [Yashwanth Vignesh](https://github.com/Yashwanth-Vignesh)
+- [Jasmeet Singh](https://github.com/JasmeetSingh26)
 - [Jie Qiu](https://github.com/Jieqstu)
 - [Ishaan Jangid](https://github.com/Ishaanjangid)
 - [JW] 
