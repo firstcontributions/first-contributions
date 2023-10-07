@@ -3209,6 +3209,7 @@ Akash Abraham
 - [Nour Rajeh](https://github.com/itsnourr)
 - [Darshan BS](https://github.com/bs-darshan)
 - [Rajan Paudel](https://github.com/rajan-poudel)
+- [Josh Gelber](https://github.com/joshgelber)
 - [Dazzler Abhi](https://github.com/dazzlerabhi30800)
 - [Vidhu P V ](https://github.com/vidhupv)
 - Glovvie
