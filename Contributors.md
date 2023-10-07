@@ -1,5 +1,6 @@
 
 # Contributors
+- [Sheikh Suhail Khursheed](https://github.com/sheikhsuhail19)
 - [Zach Gentner](https://github.com/zachgentner)
 - [Aditya Prakash Gupta](https://github.com/evadrake89)
 - [Varanasi Aditya Sai](https://github.com/fvaysh)
