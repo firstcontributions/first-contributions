@@ -3303,6 +3303,7 @@ pig
 - [Aditya Ramesh] (https://github.com/adityar224)
 - [Toasty] (https://github.com/ToastWithCheeze)
 - [Karan Choudhary](https://github.com/Karan20)
+- [Raffay Arshad](https://github.com/Raffay6671)
 - [Mrinank Bhowmick](https://github.com/Mrinank-Bhowmick)
 - [Rafi Harlianto](https://github.com/rafiharli)
 - [Yash Salunke](https://github.com/YashSalunke12)
