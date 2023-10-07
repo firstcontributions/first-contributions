@@ -372,6 +372,7 @@ gulshan
 - [Preetham P M](https://github.com/preetham-p-m)
 - [Kavya Pandey](https://github.com/zykuriku)
 - [Paul Kabuu](https://github.com/kongkabuu)
+- [Nimo Muhumed](https://github.com/eazima)
 - [Juan Pablo Alvarado](https://github.com/juancodeaudio)
 - [Paul Rose] (https://github.com/ptrose78)
 - [Osho Iseoluwa](https://github.com/theCephas)
