@@ -80,6 +80,7 @@
 - [Keya Karkun](https://github.com/keyakarkun)
 - [Monish Atom](https://github.com/monish-atom)
 - [famkni](https://github.com/famkni)
+- [Kent Adrian Sato](https://github.com/adriankentsato)
 - [Christine Allay] (https://github.com/ceaupid) 
 - [Suraj Yadav](https://github.com/suraj-yadav0)
 - [Donald Nwokoro](https://github.com/donguillotine)
