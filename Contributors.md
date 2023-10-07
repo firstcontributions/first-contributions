@@ -506,6 +506,7 @@ Pizzacat
 - [Digvijay Singh](https://github.com/digvijaysinghh)
 - [Behzad Moghaddam] (https://github.com/b3hzzzad)
 - [Coop](https://github.com/SnowfallHD)
+- [Ahmed Baig](https://github.com/Ahmed1282)
 - [Refayth Hossain (Eth3r-One)](https://github.com/Eth3R-One)
 - [Maheshwar S](https://github.com/Maheshwar-S)
 - [Arnav V](https://github.com/Arnav17v/)
@@ -3311,6 +3312,6 @@ pig
 - [Akrati Verma](https://github.com/blindaks)
 - [Shivam Singh](https://github.com/Shivam250702)
 - [Fredrick Kimani](https://github.com/fredkd)
-- [Ahmed Baig](https://github.com/Ahmed1282)
+
 
 
