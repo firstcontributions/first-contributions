@@ -21,6 +21,7 @@
 - [CyberKyber](https://github.com/CyberGlitch86)
 - [Anas Ajaanan](https://github.com/anassajaanan)
 - [PinkMoon](https://github.com/CutePinkMoon)
+- [Abdullah Ranjha](https://github.com/Abdullah-Ranjha)
 - [Arpan Gupta](https://github.com/gupta-arpan)
 - [SneakyShirtBalls](https://github.com/sneakyshirtballs)
 - [Sujeet Kumar](https://github.com/sujeet9682)
