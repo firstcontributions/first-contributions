@@ -4,6 +4,7 @@
 - [Zach Gentner](https://github.com/zachgentner)
 - [Gilbert Okonjo] (https://github.com/OpondoG)
 - [Aditya Prakash Gupta](https://github.com/evadrake89)
+- [Cecilia Kinyua](https://github.com/Kinyuacecilia)
 - [Varanasi Aditya Sai](https://github.com/fvaysh)
 - [Jacinta kazenzi](https://github.com/Kazenzi)
 - [Dibya Ranjan Sahoo](https://github.com/100-dibya)
