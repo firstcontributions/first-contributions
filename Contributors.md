@@ -11,6 +11,7 @@
 - [Nakesh Tewari](https://github.com/NakeshTewari)
 - [Aviraj Gour](https://github.com/avirajsingh7)
 - [Anargha Pal](https://github.com/anargha-pal)
+- [Bonniekiprop](https://github.com/Bonfacekiprop)
 - [JaggedGem](https://github.com/JaggedGem)
 - [CyberKyber](https://github.com/CyberGlitch86)
 - [Anas Ajaanan](https://github.com/anassajaanan)
