@@ -20,11 +20,13 @@
 - [Sheikh Suhail Khursheed](https://github.com/sheikhsuhail19)
 - [IshaanviReet] (https://github.com/IshaanviReet)
 - [Zach Gentner](https://github.com/zachgentner)
+- [Haissam Bhaur] (https://github.com/haissambhaur)
 - [Gilbert Okonjo] (https://github.com/OpondoG)
 - [elijah mutune](https://github.com/ElijahMutune)
 - [Ali Wahaj](https://github.com/WahajA
 - [Humaid Ashraf](https://github.com/oldSheldon)
 - [Ahmad Hamdan](https://github.com/Hamdanl8)
+- [Muhammad Moosa](https://github.com/Moosa-123)
 - [Aditya Prakash Gupta](https://github.com/evadrake89)
 - [Mark Finley Osei Hyiaman](https://github.com/Mark-Finley)
 - [Peterson Kariuki Kanyuga](https://github.com/pkanyu)
@@ -247,6 +249,7 @@
 - [Amy Martin](https://github.com/amy-martin)
 - [Heli Patel] (https://github.com/helip0269) 
 - [Anxious Ant](https://github.com/AnxiousAnt)
+- [Muhammad Usman](https://github.com/MuhammadUsman-12)
 - [Chaitanya Mudaddala](https://github.com/cmchaitu)
 - [Vaibhav](https://github.com/vaibhav-009)
 - [Harshal Patil](https://github.com/HarshalRajendraPatil)
@@ -772,6 +775,7 @@ PRAJOT
 - [Leandro Henrique Barbosa](https://github.com/leandrohbar)
 - [Arjun A Chandran](https://github.com/Arjun-A3)
 - [Cecil Hadley](https://github.com/CecilHadley)
+- [Matteo Naccarato](https://github.com/matteo-naccarato)
 - [Mike nish](https://github.com/mike-nish)
 - [Keannu Angelo Ramos](https://github.com/KeanCodex)
 - [Joel Jefferson](https://github.com/JoelJefferson2004)
@@ -3433,5 +3437,4 @@ pig
 - [carry chen]
 - [Aizaz Ahmed](https://github.com/aizazahmed-7)
 - [Zakariya Shahid](https://github.com/Zakariya-Shahid-511)
-
-- [Nishit Mehta](https://github.com/nishitxmehta)
+- [Shivam Bhatnagar](https://bitnagar.dev)
