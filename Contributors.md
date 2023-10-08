@@ -3399,6 +3399,7 @@ pig
 - [Toasty] (https://github.com/ToastWithCheeze)
 - [Karan Choudhary](https://github.com/Karan20)
 - [Raffay Arshad](https://github.com/Raffay6671)
+- [Ameera Haider](https://github.com/ameerahaider)
 -[Moeez Ali Mazhar](https://github.com/moizmazhar37)
 - [Mrinank Bhowmick](https://github.com/Mrinank-Bhowmick)
 - [Rafi Harlianto](https://github.com/rafiharli)
