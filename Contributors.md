@@ -276,6 +276,7 @@
   [gulshan](https://github.com/gulshankapse/gulshankapse)
 -Aryan Tanwar
    [Bista] 
+    [Faiq Asif]
   [Ritik Jain](https://github.com/PANDACR)
    [Anshul Namdev] (https://github.com/Anshun352)
 - [Aryan Sahare] (https://github.com/AryanSahare01)
