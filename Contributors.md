@@ -233,6 +233,7 @@
 - [Diegowh](https://github.com/Diegowh)
 - [Sparsh Tomar](https://github.com/Sparshtomar)
 - [Mayank Gupta](https://github.com/mayankg-me)
+- [Suhiteswar ch](https://github.com/suhit123)
 - [Vaibhav Patil](https://github.com/VaibhavAPatil)
 - [Lucas Almeida](https://github.com/LucasAlmeida-jpg)
 - [Brian kipkoech]
