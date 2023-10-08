@@ -3166,6 +3166,7 @@ Akash Abraham
 - [rtkn] (https://github.com/rtkn)
 - [Aditya Gupta] (https://github.com/adig20)
 -[Amit Nalawade](https://github.com/amit0804-tech)
+- [Vivek Gurudutt K](https://github.com/VivekGuruduttK28)
 - [Dominik Kucz] (https://github.com/dkucz)
 - [Umabharathi G] (https://github.com/Umabharathi-G)
 - [Ravi Shrestha] (https://github.com/Ivar246)
