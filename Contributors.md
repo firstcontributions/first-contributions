@@ -8,6 +8,7 @@
 -[Vaibhav Nimkar](https://github.com/vaibhavpnimkar)
 - [Stephen Nwankwo](https://github.com/stenwire)
 - [Sheikh Suhail Khursheed](https://github.com/sheikhsuhail19)
+- [IshaanviReet] (https://github.com/IshaanviReet)
 - [Zach Gentner](https://github.com/zachgentner)
 - [Gilbert Okonjo] (https://github.com/OpondoG)
 - [elijah mutune](https://github.com/ElijahMutune)
