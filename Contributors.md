@@ -7,6 +7,7 @@
 - [Gilbert Okonjo] (https://github.com/OpondoG)
 - [elijah mutune](https://github.com/ElijahMutune)
 - [Ali Wahaj](https://github.com/WahajAli14)
+Humaid Ashraf
 - [Aditya Prakash Gupta](https://github.com/evadrake89)
 - [Peterson Kariuki Kanyuga](https://github.com/pkanyu)
 - [Cecilia Kinyua](https://github.com/Kinyuacecilia)
