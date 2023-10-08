@@ -3,6 +3,7 @@
 - [Hissam Savul](https://github.com/HissamSavul)
 - [Kushal Agrawal](https://github.com/kushal34712)
 - [Jyotiswaroop Srivastav](https://github.com/rishuxd)
+- [Obtype](https://github.com/obtype)
 - [Deepanshu](https://github.com/creator0131)
 - [hjalanzy] (https://github.com/hjalanzy)
 - [Andy James](https://github.com/ajpert)
