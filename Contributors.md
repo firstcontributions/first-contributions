@@ -22,6 +22,7 @@
 - [Ali Wahaj](https://github.com/WahajAli14)
 - [Ahmad Hamdan](https://github.com/Hamdanl8)
 - [Aditya Prakash Gupta](https://github.com/evadrake89)
+- [Mark Finley Osei Hyiaman](https://github.com/Mark-Finley)
 - [Peterson Kariuki Kanyuga](https://github.com/pkanyu)
 - [Cecilia Kinyua](https://github.com/Kinyuacecilia)
 -[Tirth Nisar](https://github.com/TirthNisar193)
