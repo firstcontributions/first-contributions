@@ -12,6 +12,7 @@
 -[Vaibhav Nimkar](https://github.com/vaibhavpnimkar)
 - [Stephen Nwankwo](https://github.com/stenwire)
 - [Rafay Zubair](https://github.com/Rafay-Zubair)
+- [Muhammad Hashir](https://github.com/hashir121)
 - [Sheikh Suhail Khursheed](https://github.com/sheikhsuhail19)
 - [IshaanviReet] (https://github.com/IshaanviReet)
 - [Zach Gentner](https://github.com/zachgentner)
