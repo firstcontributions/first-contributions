@@ -1,5 +1,6 @@
 
 # Contributors
+- [Muhammad Zain](https://github.com/zain2k-jpg)
 - [Hissam Savul](https://github.com/HissamSavul)
 - [Kushal Agrawal](https://github.com/kushal34712)
 - [Jyotiswaroop Srivastav](https://github.com/rishuxd)
@@ -16,11 +17,13 @@
 - [Gilbert Okonjo] (https://github.com/OpondoG)
 - [elijah mutune](https://github.com/ElijahMutune)
 - [Ali Wahaj](https://github.com/WahajAli14)
+- [Ahmad Hamdan](https://github.com/Hamdanl8)
 - [Aditya Prakash Gupta](https://github.com/evadrake89)
 - [Peterson Kariuki Kanyuga](https://github.com/pkanyu)
 - [Cecilia Kinyua](https://github.com/Kinyuacecilia)
 -[Tirth Nisar](https://github.com/TirthNisar193)
 - [Atharva Kulkarni](https://github.com/Atharva2864)
+- [Uzair Ahmed](https://github.com/Uzair-99)
 - [Ayush Arora](https://github.com/ayusharora21003)
 - [Momanyi Brian](https://github.com/MomanyiPoet)
 - [Varanasi Aditya Sai](https://github.com/fvaysh)
@@ -3311,6 +3314,7 @@ Akash Abraham
 - [Ameya Shahu](https://github.com/ameya-shahu)
 - [Koduri Mohan](https://github.com/kodurimohan)
 - [Farhan Alam](https://github.com/fa-901)
+- [Bilal Badar](https://github.com/bilalbadar01)
 - [Robert Knapek](https://github.com/steernick)
 - [Nour Rajeh](https://github.com/itsnourr)
 - [Darshan BS](https://github.com/bs-darshan)
