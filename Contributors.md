@@ -76,6 +76,7 @@
 - [Johnny Nguyen] (https://github.com/johnny-h-nguyen)
  -[Ericode](https://github.com/Ericode254)
 - [Hamza Saeed](https://github.com/HamzaSaeed01)
+- [Sawaira Fatima](https://github.com/sawerafatima)
 - [faea726](https://github.com/faea726)
 - [Methembe Gumbo](https://github.com/Methieg)
 - [Sahil Tembhurkar](https://github.com/sahirooh)
@@ -175,6 +176,7 @@
 - [Stephan Sæbø](https://github.com/kongpottifar)
 - [Charles Johnson](https://github.com/CharlesJohnson117)
 - [Blossom Eze](https://github.com/Blossomeze)
+- [Efe Franklin](https://github.com/frankyxgithub)
 - [Bojidar Vladimirov](https://github.com/BojkaV)
 - [Yazeed Tarshan]
 - [Sandra Yee]
@@ -3432,4 +3434,5 @@ pig
 - [Aizaz Ahmed](https://github.com/aizazahmed-7)
 - [Zakariya Shahid](https://github.com/Zakariya-Shahid-511)
 - [Saideep Redkar](https://github.com/SaideepRedkar)
-
+- [Shivam Bhatnagar](https://bitnagar.dev)
+- [Nishit Mehta](https://github.com/nishitxmehta)
