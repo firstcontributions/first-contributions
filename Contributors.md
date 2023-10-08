@@ -3,6 +3,7 @@
 - [Brian Ahaneku](https://github.com/brianahaneku)
 - [Hamza Rehan](https://github.com/HamzaRehan4)
 - [Rayed Saeed](https://github.com/Rayed14)
+- [Vivek Kumar](https://github.com/vivekBoii)
 - [Wazir Shehryar Ali](https://github.com/vzirshehryar)
 - [Asher Farhan](https://github.com/AsherFarhan2001)
 - [Armughan Noor](https://github.com/armughan-Noor)
