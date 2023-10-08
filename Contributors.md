@@ -16,6 +16,7 @@
 - [Deepanshu](https://github.com/creator0131)
 - [hjalanzy] (https://github.com/hjalanzy)
 - [Andy James](https://github.com/ajpert)
+- [KPIDIBA](https://github.com/kpidiba)
 -[Vaibhav Nimkar](https://github.com/vaibhavpnimkar)
 - [Stephen Nwankwo](https://github.com/stenwire)
 - [Rafay Zubair](https://github.com/Rafay-Zubair)
