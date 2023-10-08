@@ -2529,6 +2529,7 @@ Akash Abraham
 - [Halil Bulut](https://github.com/Hellin1)
 - [Christine Lin](https://github.com/christinelin8)
 - [Joel Tony](https://github.com/jay-tau)
+- [Ahmad Mirza](https://github.com/MuhammadAhmad-dot)
 - [G Jeevika](https://github.com/Gjeev)
 - [Aaditi Mehta](https://github.com/aaditim18)
 - [Tim Leung](https://github.com/timleungtech)
