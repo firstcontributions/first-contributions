@@ -3366,7 +3366,9 @@ pig
 - [Mahad Ahmed](https://github.com/Mahadd1111)
 - [Akrati Verma](https://github.com/blindaks)
 - [Vatsalya Vyas](https://github.com/vatsalya-vyas)
+- [Khalid Chaudhari](https://github.com/Chaudhari998)
 - [Akrati Verma](https://github.com/blindaks)
+
 - [Shivam Singh](https://github.com/Shivam250702)
 - [pwk](https://github.com/pwk50)
 - [Qasim Ali](https://github.com/MirzaQasimAli)
