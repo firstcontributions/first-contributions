@@ -19,6 +19,7 @@
 - [Andy James](https://github.com/ajpert)
 -[Vaibhav Nimkar](https://github.com/vaibhavpnimkar)
 - [Stephen Nwankwo](https://github.com/stenwire)
+- [KPIDIBA](https://github.com/kpidiba)
 - [Rafay Zubair](https://github.com/Rafay-Zubair)
 - [Muhammad Hashir](https://github.com/hashir121)
 - [Sheikh Suhail Khursheed](https://github.com/sheikhsuhail19)
