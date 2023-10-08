@@ -2060,6 +2060,7 @@ Nikhil R
 - [Ndalegh Noela](https://github.com/ndaleghnoelalummbah/first-contributions.git)
 - [Vikas Adhikari](https://gimage.pngithub.com/VikasAdhikari07)
 - [TJ Ries](https://github.com/tj-ries)
+- [Usman Kamal](https://github.com/usmanokamal)
 - [Nina King Skyttmo](https://github.com/ninaskyttis)
 - [Harsh Raghuwanshi](https://github.com/harsha094)
 - [Jay](https://github.com/jaghara)
