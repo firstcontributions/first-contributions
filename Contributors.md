@@ -3,6 +3,7 @@
 - [Hissam Savul](https://github.com/HissamSavul)
 - [hjalanzy] (https://github.com/hjalanzy)
 - [Andy James](https://github.com/ajpert)
+- [Chandan Mali](https://github.com/Chandanmali)
 -[Vaibhav Nimkar](https://github.com/vaibhavpnimkar)
 - [Stephen Nwankwo](https://github.com/stenwire)
 - [Sheikh Suhail Khursheed](https://github.com/sheikhsuhail19)
