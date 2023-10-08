@@ -2536,6 +2536,7 @@ Akash Abraham
 - [Akhilan Ganesh](https://github.com/akhilanganesh)
 - [Joseph Lopes](https://github.com/josephlopes)
 - [Sanjog Rijal](https://github.com/SanjogRijal)
+- [Niraj Patel](https://github.com/btrezzy)
 - [Daniel Gaerber](https://github.com/Gandagorn)
 - [Martin Orue](https://github.com/martinorue)
 - [dbsaw](https://github.com/dbsaw)
