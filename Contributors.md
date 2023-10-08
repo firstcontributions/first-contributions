@@ -23,6 +23,7 @@
 - [Cecilia Kinyua](https://github.com/Kinyuacecilia)
 -[Tirth Nisar](https://github.com/TirthNisar193)
 - [Atharva Kulkarni](https://github.com/Atharva2864)
+- [Uzair Ahmed](https://github.com/Uzair-99)
 - [Ayush Arora](https://github.com/ayusharora21003)
 - [Momanyi Brian](https://github.com/MomanyiPoet)
 - [Varanasi Aditya Sai](https://github.com/fvaysh)
