@@ -83,6 +83,7 @@
 - [Davit Natenadze](https://github.com/Natenadze)
 - [Tri Nguyen](https://github.com/nmtri2810)
 - [Sathya Narayana Rangappagari](https://github.com/sathyaar5)
+- [Suhiteswar](https://github.com/suhit123)
 - [Minjae Lee](https://github.com/minleejae)
 - [7oda]tss
 -[Avira Soni](https://github.com/A-viralS)
