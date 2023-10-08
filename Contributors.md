@@ -175,6 +175,7 @@
 - [Stephan Sæbø](https://github.com/kongpottifar)
 - [Charles Johnson](https://github.com/CharlesJohnson117)
 - [Blossom Eze](https://github.com/Blossomeze)
+- [Efe Franklin](https://github.com/frankyxgithub)
 - [Bojidar Vladimirov](https://github.com/BojkaV)
 - [Yazeed Tarshan]
 - [Sandra Yee]
