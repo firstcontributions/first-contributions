@@ -25,7 +25,7 @@ This will create a copy of this repository in your account.
 
 Now clone this repo to your machine.
 
-IMPORTANT: DO NOT CLONE THE ORIGINAL REPO. Go to your forked repo and clone it.
+IMPORTANT: DO NOT CLONE THE ORIGINAL REPO. Go to your fork and clone it.
 
 To clone the repo, click on "Code" and then copy the string down below.
 
