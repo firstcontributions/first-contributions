@@ -20,6 +20,7 @@
 - [Sheikh Suhail Khursheed](https://github.com/sheikhsuhail19)
 - [IshaanviReet] (https://github.com/IshaanviReet)
 - [Zach Gentner](https://github.com/zachgentner)
+- [Haissam Bhaur] (https://github.com/haissambhaur)
 - [Gilbert Okonjo] (https://github.com/OpondoG)
 - [elijah mutune](https://github.com/ElijahMutune)
 - [Ali Wahaj](https://github.com/WahajA
