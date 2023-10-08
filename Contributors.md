@@ -5,6 +5,7 @@
 - [Rayed Saeed](https://github.com/Rayed14)
 - [Vivek Kumar](https://github.com/vivekBoii)
 - [Wazir Shehryar Ali](https://github.com/vzirshehryar)
+- [Richard Triplett](https://github.com/retripl)
 - [Asher Farhan](https://github.com/AsherFarhan2001)
 - [Armughan Noor](https://github.com/armughan-Noor)
 - [Muhammad Zain](https://github.com/zain2k-jpg)
