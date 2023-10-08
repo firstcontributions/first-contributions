@@ -1183,6 +1183,7 @@ Sino Felicity Zwane
 - [Sooraj Varrma](https://github.com/soorajvarrma)
 -[Shubham Singh mca 2nd year](https://github.com/SK86shubham)
 - [Iniyan](https://github.com/ini1307)
+- [Leonardo Medina](https://github.com/leometisxinkemed)
 - [Glitched Nexus](https://github.com/GlitchedNexus)
 - [NB Bhargav shirin](https://github.com/bhargavshirin)
 - [shirin](https://github.com/bhargavshirin)
