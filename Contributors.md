@@ -18,6 +18,7 @@
 - [Habibur Rahman]()
 - [Aditya Garg](https://github.com/aditya7302)
 - [Shrey](https://github.com/Zhreyu)
+- [Cheezad] (https://github.com/cheezad)
 - [Gabrielli Oliveira](https://github.com/gabrielliosc)
 - [Marissa Homer] (https://github.com/marissahomer)
 - [Johnny Nguyen] (https://github.com/johnny-h-nguyen)
