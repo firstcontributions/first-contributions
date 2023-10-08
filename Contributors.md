@@ -775,6 +775,7 @@ PRAJOT
 - [Leandro Henrique Barbosa](https://github.com/leandrohbar)
 - [Arjun A Chandran](https://github.com/Arjun-A3)
 - [Cecil Hadley](https://github.com/CecilHadley)
+- [Matteo Naccarato](https://github.com/matteo-naccarato)
 - [Mike nish](https://github.com/mike-nish)
 - [Keannu Angelo Ramos](https://github.com/KeanCodex)
 - [Joel Jefferson](https://github.com/JoelJefferson2004)
