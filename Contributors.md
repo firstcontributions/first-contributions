@@ -2668,6 +2668,7 @@ Akash Abraham
 - [Shiv Prasad Sharma](https://github.com/spsharma16)
 - [Sergio Garcia](https://github.com/sgarciagallego)
 - [Hamza Jamshed](https://github.com/Sassyprogrammer1)
+- [Abdullah Abbasi](https://github.com/abdullahabbasi0)
 - [Jack Buckley](https://github.com/jack-r-buckley/)
 - [Franco Miño](https://github.com/FrancoASalinas)
 - [Nancy Chaudhry](https://github.com/chaudhryna)
