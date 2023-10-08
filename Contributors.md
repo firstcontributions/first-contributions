@@ -119,6 +119,7 @@
 - [Ullas Kakanadan](https://github.com/uk974q)
 - [Jumana Murad]
   [Damion Maser](https://github.com/Maserd)
+  [Khalid Chaudhari](https://github.com/Chaudhari998)
 - [Shreyas](https://github.com/sharmawl13)
 - [Bhawana Gaur](https://github.com/bhawana2001)
 - [Abdel_Illah_Belaoudj](https://github.com/abdelillahbel)
