@@ -1,5 +1,6 @@
 
 # Contributors
+- [hjalanzy] (https://github.com/hjalanzy)
 - [Andy James](https://github.com/ajpert)
 -[Vaibhav Nimkar](https://github.com/vaibhavpnimkar)
 - [Stephen Nwankwo](https://github.com/stenwire)
