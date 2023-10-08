@@ -388,6 +388,7 @@ gulshan
 - [Frank Neblung](https://github.com/neblung)
 - [Aditya Prakash](https://github.com/heyitsadityaa)
 - [Subham Jyoti](https://github.com/Derixtar54)
+- [Shoaib Ali] (https://github.com/shoaib-1337)
 - [Archishman Dash](https://www.github.com/archielicious)
 - [Kendall Hope Tucker] (https://github.com/kendallhtucker)
 - [Sreerag] (https://github.com/srexrg)
