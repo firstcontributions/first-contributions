@@ -3311,6 +3311,7 @@ Akash Abraham
 - [Robert Knapek](https://github.com/steernick)
 - [Nour Rajeh](https://github.com/itsnourr)
 - [Darshan BS](https://github.com/bs-darshan)
+- [Bilal Badar](https://github.com/bilalbadar01)
 - [Rajan Paudel](https://github.com/rajan-poudel)
 - [Josh Gelber](https://github.com/joshgelber)
 - [Dazzler Abhi](https://github.com/dazzlerabhi30800)
