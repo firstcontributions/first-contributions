@@ -3435,3 +3435,4 @@ pig
 - [Zakariya Shahid](https://github.com/Zakariya-Shahid-511)
 - [Shivam Bhatnagar](https://bitnagar.dev)
 
+- [Nishit Mehta](https://github.com/nishitxmehta)
