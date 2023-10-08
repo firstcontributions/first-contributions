@@ -22,6 +22,7 @@
 - [Zach Gentner](https://github.com/zachgentner)
 - [Haissam Bhaur] (https://github.com/haissambhaur)
 - [Gilbert Okonjo] (https://github.com/OpondoG)
+- [Ahmad Maqbool](https://github.com/amaamir124)
 - [elijah mutune](https://github.com/ElijahMutune)
 - [Ali Wahaj](https://github.com/WahajA
 - [Humaid Ashraf](https://github.com/oldSheldon)
