@@ -166,6 +166,8 @@
 - [Sheheryar Ramzan ](https://github.com/SheheryarRamzan)
 - [Ranjeet Singh ](https://github.com/ranjeetxsingh)
 - [Mostafa Ahmed](https://github.com/mostaxd)
+- [aditya kumar prajapati](https://github.com/helloaaditya)
+
 - [Edward Bera] (https://github.com/edwardbera)
 - [Pang Hua Yen] (https://github.com/Ptorioo)
 - [Mskreddy] (https://github.com/SaikiranReddy722)
