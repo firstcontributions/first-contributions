@@ -6,6 +6,7 @@
 - [Wazir Shehryar Ali](https://github.com/vzirshehryar)
 - [Asher Farhan](https://github.com/AsherFarhan2001)
 - [Muhammad Zain](https://github.com/zain2k-jpg)
+- [Muhammad Hassan Rana](https://github.com/Hassan-520)
 - [Hissam Savul](https://github.com/HissamSavul)
 - [Muhammad Shahmeer](https://github.com/i190622Shahmeer)
 - [Kushal Agrawal](https://github.com/kushal34712)
