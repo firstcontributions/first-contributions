@@ -1894,6 +1894,7 @@ Nikhil R
 - [Anushree Singhal](https://github.com/anushreee666)
 - [Idzanaagi](https://github.com/Idzanaagi)
 - [Brenden Cheung] (https://github.com/cheungbrenden)
+- [Sahil] (https://github.com/sahil8453)
 - [xfragrance](https://github.com/Xfragrance)
 - [metsu971](https://github.com/metsu971)
 - [MrAlessandro](https://github.com/MrAlessandro)
