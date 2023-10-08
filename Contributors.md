@@ -96,6 +96,7 @@
 - [Ashmit Srivastava](https://github.com/Ashmit-Srivastava)
 - [Vrushabh Bhabire](https://github.com/Vrushabh-vb)
 - [John Kim](https://github.com/kjhhero)
+- [Siyyadri Srineeharika](https://github.com/SiyyadriSrineeharika)
 - [Ram Sankar S](https://github.com/RamSankarS)
 - [Swastik Patel](https://github.com/mrswastik-robot)
 - [Roopa Dharshini](https://github.com/Rupa-Rd)
