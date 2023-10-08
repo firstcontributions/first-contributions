@@ -4,6 +4,7 @@
 - [Hamza Rehan](https://github.com/HamzaRehan4)
 - [Rayed Saeed](https://github.com/Rayed14)
 - [Wazir Shehryar Ali](https://github.com/vzirshehryar)
+- [Asher Farhan](https://github.com/AsherFarhan2001)
 - [Muhammad Zain](https://github.com/zain2k-jpg)
 - [Hissam Savul](https://github.com/HissamSavul)
 - [Muhammad Shahmeer](https://github.com/i190622Shahmeer)
