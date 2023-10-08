@@ -19,6 +19,7 @@
 - [Aditya Prakash Gupta](https://github.com/evadrake89)
 - [Peterson Kariuki Kanyuga](https://github.com/pkanyu)
 - [Cecilia Kinyua](https://github.com/Kinyuacecilia)
+-[Tirth Nisar](https://github.com/TirthNisar193)
 - [Atharva Kulkarni](https://github.com/Atharva2864)
 - [Ayush Arora](https://github.com/ayusharora21003)
 - [Momanyi Brian](https://github.com/MomanyiPoet)
