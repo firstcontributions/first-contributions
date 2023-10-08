@@ -258,6 +258,7 @@
 - [Rishav Raj](https://github.com/rishavr920)
 - [Ebube Onwuta](https://github.com/Ebuube)
   [sukriti rai](https://github.com/Sukriti-Rai)
+  [Afn273](https://github.com/Afn273)
 - [Minhaz Arfin] (https://github.com/Minhaz-Arfin)
 - [Saad Ahmad Bangash] (https://github.com/saadbangashh)
 - [Okitta Ongaye](https://github.com/okitta)
