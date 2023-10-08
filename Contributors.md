@@ -1,6 +1,7 @@
 
 # Contributors
 - [Hissam Savul](https://github.com/HissamSavul)
+- [Kushal Agrawal](https://github.com/kushal34712)
 - [hjalanzy] (https://github.com/hjalanzy)
 - [Andy James](https://github.com/ajpert)
 -[Vaibhav Nimkar](https://github.com/vaibhavpnimkar)
@@ -387,6 +388,7 @@ gulshan
 - [Frank Neblung](https://github.com/neblung)
 - [Aditya Prakash](https://github.com/heyitsadityaa)
 - [Subham Jyoti](https://github.com/Derixtar54)
+- [Shoaib Ali] (https://github.com/shoaib-1337)
 - [Archishman Dash](https://www.github.com/archielicious)
 - [Kendall Hope Tucker] (https://github.com/kendallhtucker)
 - [Sreerag] (https://github.com/srexrg)
@@ -833,6 +835,7 @@ Sino Felicity Zwane
 - [Eitan Schwartz] (https://github.com/eitan07)
 - [sudeepbm](https://github.com/sudeepbm)
 - [Tommy](https://github.com/tommypurcell)
+- [Vipul Kumar](https://github.com/vipulkumar49)
 - [Babistone Mumba ](https://github.com/BabiMumba)
 - [Aman Dingwani](https://github.com/amandingwani)
 - [Gabriel Achille](https://github.com/gabrielachille)
@@ -1022,6 +1025,7 @@ Sino Felicity Zwane
 - [Robert McCall](https://github.com/Polderrider)
 - [Terry] (https://github.com/Chebz23)
 - [Avi] (https://github.com/avitheduck)
+- [henrynohat] (https://github.com/henrynohat)
 - [Neil Nautiyal] (https://github.com/neilnautiyal)
 - [Harish H](https://github.com/harishhamilpur)
 - [Brian Fernandez](https://github.com/br14n-sol)
@@ -1144,6 +1148,7 @@ Sino Felicity Zwane
 - [formido](https://github.com/PKS-formido)
 - [Anuron Dutta](https://github.com/AnuronDutta)
 - [Joseph Lawson](https://github.com/jlaws710)
+- [Bhargav shirin Nalamati](https://github.com/bhargavshirin)
 - [Jay Cole](https://github.com/3colej20)
 - [Alexandra Pietroch] (https://github.com/sasha-cz)
 - [Keisuke Miura](https://github.com/behindthemac)
@@ -3311,6 +3316,7 @@ Akash Abraham
 - [Fraggerz777]( https://github.com/Fraggerz777)
 - [Yahya Mohammed](https://github.com/yahya-mohammed07)
 - [JaJa]
+- [Prajit Adhikari](https://github.com/adhikariprajitraj)
 - [Bryan Mureithi](https://github.com/BryanMureithi) 
 - [Jakob Lamber](https://github.com/JamLambCode)
 - [Aditya Santhakulluru](https://github.com/santhakulluru-aditya)
