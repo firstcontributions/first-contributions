@@ -2799,6 +2799,7 @@ Akash Abraham
 - [Mathew 'Jason' Jeong](http://github.com/kimchieater)
 - Laurens Himself
 - [Eyal-Haimov](htpps://github.com/blindka)
+- [Alan](https://github.com/AlanThisis)
 - [Art Villareal](https://github.com/Bushido-Art)
 - [Daniel Kaijzer](https://github.com/danielkaijzer)
 - [Ephraim Beltran](https://github.com/ephraim-beltran)
