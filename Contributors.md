@@ -1030,7 +1030,6 @@ Sino Felicity Zwane
 - [Harish H](https://github.com/harishhamilpur)
 - [Brian Fernandez](https://github.com/br14n-sol)
 - [Min Kim](https://github.com/Kim-Min-K)
-- [Gowtham](https://github.com/gowthae)
 - [Neil Aron Pascual](https://github.com/neilaron)
 - [Achal](https://github.com/achal-00)
 - [Gideon-Buba](https://github.com/Gideon-Buba)
@@ -3380,4 +3379,4 @@ pig
 - [khalid](http://github.com/khalid586)
 - [Dominik Balga](https://github.com/DominikBalga)
 - [Hasan Murad](https://github.com/hasan-murad02)
-
+- [Pavan Reddy](https://github.com/pavanreddy54)
