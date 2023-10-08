@@ -58,6 +58,7 @@
 - [wajaht-ali](https://github.com/wajaht-ali)
 - [Morris Bundi](https://github.com/morrisbmm)
 - [AshreyashGaikwad]
+- [Kushal_Agrawal](https://github.com/kushal34712)
 - [Qin Zan](https://github.com/joyceZ916)
 - [Yashwanth Vignesh](https://github.com/Yashwanth-Vignesh)
 - [Jasmeet Singh](https://github.com/JasmeetSingh26)
