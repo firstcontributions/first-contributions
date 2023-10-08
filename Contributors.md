@@ -1147,6 +1147,7 @@ Sino Felicity Zwane
 -[Shubham Singh mca 2nd year](https://github.com/SK86shubham)
 - [Iniyan](https://github.com/ini1307)
 - [Glitched Nexus](https://github.com/GlitchedNexus)
+- [NB Bhargav shirin](https://github.com/bhargavshirin)
 - [shirin](https://github.com/bhargavshirin)
 - [Sparsh Manni](https://github.com/sparshmanni)
 - [KiranJais](https://github.com/alkrona)
