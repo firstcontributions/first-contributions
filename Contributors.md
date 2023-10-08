@@ -1,6 +1,7 @@
 
 # Contributors
 - [Brian Ahaneku](https://github.com/brianahaneku)
+- [Hamza Rehan](https://github.com/HamzaRehan4)
 - [Rayed Saeed](https://github.com/Rayed14)
 - [Wazir Shehryar Ali](https://github.com/vzirshehryar)
 - [Muhammad Zain](https://github.com/zain2k-jpg)
@@ -20,7 +21,8 @@
 - [Zach Gentner](https://github.com/zachgentner)
 - [Gilbert Okonjo] (https://github.com/OpondoG)
 - [elijah mutune](https://github.com/ElijahMutune)
-- [Ali Wahaj](https://github.com/WahajAli14)
+- [Ali Wahaj](https://github.com/WahajA
+- [Humaid Ashraf](https://github.com/oldSheldon)
 - [Ahmad Hamdan](https://github.com/Hamdanl8)
 - [Aditya Prakash Gupta](https://github.com/evadrake89)
 - [Mark Finley Osei Hyiaman](https://github.com/Mark-Finley)
