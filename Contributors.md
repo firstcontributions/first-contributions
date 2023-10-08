@@ -1433,6 +1433,7 @@ Nikhil R
 - [Rasmus Gehle](https://github.com/RasmusHMG)
 - [Alexander Konnaris](https://github.com/alexkonnaris)
 - [Abdi Jama](https://github.com/ajama21/)
+- [Atif Munir](https://github.com/atifmunir016/first-contributions1)
 - [kenken](https://github.com/kenfaz)
 - [Naman Bagdiya](https://github.com/NamanOG)
 - [Sahil Gaikwad](https://github.com/Sahilgaik)
