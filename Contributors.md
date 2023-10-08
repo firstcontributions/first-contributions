@@ -1,5 +1,6 @@
 
 # Contributors
+- [Muhammad Zain](https://github.com/zain2k-jpg)
 - [Hissam Savul](https://github.com/HissamSavul)
 - [Kushal Agrawal](https://github.com/kushal34712)
 - [Jyotiswaroop Srivastav](https://github.com/rishuxd)
