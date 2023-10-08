@@ -8,9 +8,10 @@
 | <img alt="Git Bash" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/git_scm_logo_icon_170096.png" width="200"> | Git Bash Edition |
 | ------------------------------------------------------------------------------------------------------------------ | ---------------- |
 
-It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
+"It's challenging, particularly when you're taking your first steps in any endeavor. Collaboration can be daunting, and making mistakes can be uncomfortable. However, open source thrives on collaboration and collective effort. Our goal is to streamline the learning and contribution process for new open-source enthusiasts.
 
-Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
+While reading articles and watching tutorials can be helpful, there's nothing quite like hands-on experience without the fear of making mistakes. This project is designed to provide guidance and simplify the path for newcomers to make their initial contributions. Keep in mind that learning is most effective when you're at ease. If you're looking to make your first contribution, just follow the straightforward steps below. We assure you, it will be an enjoyable experience."
+
 
 If you don't have Git Bash on your windows machine, [install it](https://git-scm.com/download/win).
 
@@ -25,7 +26,7 @@ This will create a copy of this repository in your account.
 
 Now clone this repo to your machine.
 
-IMPORTANT: DO NOT CLONE THE ORIGINAL REPO. Go to your fork and clone it.
+IMPORTANT: DO NOT CLONE THE ORIGINAL REPO. Go to your forked repo and clone it.
 
 To clone the repo, click on "Code" and then copy the string down below.
 
@@ -35,7 +36,7 @@ Open the git bash application you just downloaded. It should look like the image
 
 <img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-terminal-1.png" alt="open git bash terminal" />
 
-Go to the folder that you want to save this project on by uisng this command
+Go to the folder that you want to save this project on by using this command
 
 `cd <folder>`
 
@@ -47,7 +48,7 @@ Use the string you copied in the step above to clone the repository using this c
 
 <img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-clone-2.png" alt="clone the repository" />
 
-Go to the directory where the repo is and open it up on vs code to make your changes.
+Go to the directory where the repo exists and open it up on vs code to make your changes.You can just use the command "code ." to open up the entire folder in vs code.
 
 <img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-terminal-3.png" alt="cd into the newly cloned repo" />
 
