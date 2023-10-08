@@ -950,6 +950,7 @@ Sino Felicity Zwane
 - [Hernani Domingo](https://github.com/hernanidomingo)
 - [jdcantorna]
 - [Kyle Reising]
+- [AlpacaTechYT](https://github.com/Lagaress)
 - [Abhishek Amber][https://github.com/amberabhi]
 - [Sreekumar Krishnan](https://github.com/SreekumarKrishnan)
 - [ELena Guo](https://github.com/ElenaGuo404)
