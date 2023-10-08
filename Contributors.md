@@ -6,6 +6,7 @@
 - [Wazir Shehryar Ali](https://github.com/vzirshehryar)
 - [Muhammad Zain](https://github.com/zain2k-jpg)
 - [Hissam Savul](https://github.com/HissamSavul)
+- [Muhammad Shahmeer](https://github.com/i190622Shahmeer)
 - [Kushal Agrawal](https://github.com/kushal34712)
 - [Jyotiswaroop Srivastav](https://github.com/rishuxd)
 - [Obtype](https://github.com/obtype)
