@@ -242,6 +242,7 @@
 - [James Lucky](https://github.com/is-lucky)
 - [Matthew Lewis](https://github.com/jamespeachh)
 - [faisal Rasheed](https://github.com/faisal-rasheed-lone)
+- [Sherwan Qadir](https://github.com/OogwayKP)
 - [Fatima Aamir] (https://github.com/fatima-aamir)
 - [Masoud Farmani](https://github.com/MasoudIV)
 - [Olowo Jude](https://github.com/olowojude)
