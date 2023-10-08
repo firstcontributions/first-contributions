@@ -933,6 +933,7 @@ Sino Felicity Zwane
 - [angelamagno](https://github.com/angelamagno)
 - [Ori Rose](https://github.com/oriodev)
 - [Utku Güçlü](https://github.com/utku-guclu)
+- [Pabitra Pal](https://github.com/pabitra0011)
 - [Lisa Sun](https://github.com/sklisa)
 - [Prem Rajendran](https://github.com/Pr3mR4jendran)
 - [Bakare Abiola](https://github.com/iamstarcode)
