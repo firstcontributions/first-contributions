@@ -248,6 +248,7 @@
 - [Amy Martin](https://github.com/amy-martin)
 - [Heli Patel] (https://github.com/helip0269) 
 - [Anxious Ant](https://github.com/AnxiousAnt)
+- [Muhammad Usman](https://github.com/MuhammadUsman-12)
 - [Chaitanya Mudaddala](https://github.com/cmchaitu)
 - [Vaibhav](https://github.com/vaibhav-009)
 - [Harshal Patil](https://github.com/HarshalRajendraPatil)
