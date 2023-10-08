@@ -3053,6 +3053,7 @@ Akash Abraham
 - [Sandesh Dhamangaonkar](https://github.com/sandeshpd)
 - [Cesar Silva](https://github.com/cesarsdcf)
 -[Jesus Sanchez](https://github.com/Jesus1Sanchez)
+- [Bhargav Shirin](https://github.com/bhargavshirin)
 - [Kai Kim](https://github.com/KaiKimiOS)
 
 - [leanhvu21042001](https://github.com/leanhvu21042001)
