@@ -14,6 +14,7 @@
 - [Jyotiswaroop Srivastav](https://github.com/rishuxd)
 - [Obtype](https://github.com/obtype)
 - [Deepanshu](https://github.com/creator0131)
+- [Pabitra Pal](https://github.com/pabitra0011)
 - [hjalanzy] (https://github.com/hjalanzy)
 - [Andy James](https://github.com/ajpert)
 -[Vaibhav Nimkar](https://github.com/vaibhavpnimkar)
