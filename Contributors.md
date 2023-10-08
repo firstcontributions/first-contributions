@@ -1,6 +1,7 @@
 
 # Contributors
 - [Brian Ahaneku](https://github.com/brianahaneku)
+- [Rayed Saeed](https://github.com/Rayed14)
 - [Wazir Shehryar Ali](https://github.com/vzirshehryar)
 - [Muhammad Zain](https://github.com/zain2k-jpg)
 - [Hissam Savul](https://github.com/HissamSavul)
