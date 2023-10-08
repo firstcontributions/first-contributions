@@ -1,5 +1,6 @@
 
 # Contributors
+
 - [Brian Ahaneku](https://github.com/brianahaneku)
 - [Hamza Rehan](https://github.com/HamzaRehan4)
 - [Rayed Saeed](https://github.com/Rayed14)
@@ -28,6 +29,7 @@
 - [elijah mutune](https://github.com/ElijahMutune)
 - [Ali Wahaj](https://github.com/WahajA
 - [Humaid Ashraf](https://github.com/oldSheldon)
+- [Muhammad Rizwan](https://github.com/)
 - [Ahmad Hamdan](https://github.com/Hamdanl8)
 - [Muhammad Moosa](https://github.com/Moosa-123)
 - [Aditya Prakash Gupta](https://github.com/evadrake89)
