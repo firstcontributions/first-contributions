@@ -2,6 +2,7 @@
 # Contributors
 - [Hissam Savul](https://github.com/HissamSavul)
 - [Kushal Agrawal](https://github.com/kushal34712)
+- [Deepanshu](https://github.com/creator0131)
 - [hjalanzy] (https://github.com/hjalanzy)
 - [Andy James](https://github.com/ajpert)
 -[Vaibhav Nimkar](https://github.com/vaibhavpnimkar)
@@ -19,6 +20,7 @@
 - [Varanasi Aditya Sai](https://github.com/fvaysh)
 - [Lewis Odero](https://github.com/levos-snr)
 - [Jacinta kazenzi](https://github.com/Kazenzi)
+- [Nikhil Raj](https://github.com/bunnyynk)
 - [Elijah mutune](https://github.com/ElijahMutune)
 - [Dibya Ranjan Sahoo](https://github.com/100-dibya)
 - [Narendhiran Saravanane](https://github.com/naren200)
@@ -58,6 +60,7 @@
 - [wajaht-ali](https://github.com/wajaht-ali)
 - [Morris Bundi](https://github.com/morrisbmm)
 - [AshreyashGaikwad]
+- [Kushal_Agrawal](https://github.com/kushal34712)
 - [Qin Zan](https://github.com/joyceZ916)
 - [Yashwanth Vignesh](https://github.com/Yashwanth-Vignesh)
 - [Jasmeet Singh](https://github.com/JasmeetSingh26)
@@ -95,6 +98,7 @@
 - [Fadel Diop](https://github.com/Fadel-Dev)
 - [Joseph B Heinz](https://github.com/jbh14)
 - [prajesh](https://github.com/prajeshElEvEn)
+- [Joyel Johny](https://github.com/JoyelJohny)
 - [Ashmit Srivastava](https://github.com/Ashmit-Srivastava)
 - [Vrushabh Bhabire](https://github.com/Vrushabh-vb)
 - [John Kim](https://github.com/kjhhero)
@@ -1142,6 +1146,7 @@ Sino Felicity Zwane
 -[Shubham Singh mca 2nd year](https://github.com/SK86shubham)
 - [Iniyan](https://github.com/ini1307)
 - [Glitched Nexus](https://github.com/GlitchedNexus)
+- [shirin](https://github.com/bhargavshirin)
 - [Sparsh Manni](https://github.com/sparshmanni)
 - [KiranJais](https://github.com/alkrona)
 - [rustab](https://github.com/rustab)
@@ -3382,4 +3387,7 @@ pig
 - [khalid](http://github.com/khalid586)
 - [Dominik Balga](https://github.com/DominikBalga)
 - [Hasan Murad](https://github.com/hasan-murad02)
+- [Mohit Dhote](https://github.com/mohitd404)
+- [Mahi Deshmukh](https://github.com/mohit-dhote)
+- [carry chen]
 - [Devansh Srivastava](https://github.com/devansh-srv)
