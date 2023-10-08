@@ -1146,6 +1146,7 @@ Sino Felicity Zwane
 - [formido](https://github.com/PKS-formido)
 - [Anuron Dutta](https://github.com/AnuronDutta)
 - [Joseph Lawson](https://github.com/jlaws710)
+- [Bhargav shirin Nalamati](https://github.com/bhargavshirin)
 - [Jay Cole](https://github.com/3colej20)
 - [Alexandra Pietroch] (https://github.com/sasha-cz)
 - [Keisuke Miura](https://github.com/behindthemac)
