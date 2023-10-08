@@ -32,6 +32,7 @@
 - [Pabitra Pal](https://github.com/pabitra0011)
 - [Anargha Pal](https://github.com/anargha-pal)
 - [Bonniekiprop](https://github.com/Bonfacekiprop)
+- [Nikhil Maurya](https://github.com/Nikhil4711)
 - [JaggedGem](https://github.com/JaggedGem)
 - [Henry Hansen] (https://github.com/HenryHansenK)
 - [CyberKyber](https://github.com/CyberGlitch86)
