@@ -774,6 +774,7 @@ PRAJOT
 - [Marek Mazij](https://github.com/Mrk-Mzj)
 - [Vivek Vr](https://github.com/dcompanykrish)
 - [Alice Zandra Eya](https://github.com/AliceEya)
+- [Abdullah Shahzad](https://github.com/abdullahshzd01)
 Sino Felicity Zwane
 - [John Virgil Carvajal](https://github.com/DarcMattz)
 - [Nagarajan R](https://github.com/nagarajan5929)
