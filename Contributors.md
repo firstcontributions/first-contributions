@@ -1,5 +1,6 @@
 
 # Contributors
+- [Luke Stump](https://github.com/LukeStump419)
 - [Krish Soni](https://github.com/krishvsoni)
 - [VCL](https://github.com/vclong2003/first-contributions.git)
 - [Krish Suthar](https://github.com/krishsuthar1504)
