@@ -3484,6 +3484,7 @@ pig
 - [Zakariya Shahid](https://github.com/Zakariya-Shahid-511)
 - [Shivam Bhatnagar](https://bitnagar.dev)
 - [Nishit Mehta](https://github.com/nishitxmehta)
+- [Shraddha Singh](https://github.com/shraddha761)
 - [BUrhan R Bajwa](https://github.com/burhanrbajwa)
 - [Luv Patel](https://github.com/luv2027)
 - [SrikarMK](https://github.com/Srikarmk)
