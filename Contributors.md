@@ -13,6 +13,7 @@
 - [Muhammad Zain](https://github.com/zain2k-jpg)
 - [Muhammad Hassan Rana](https://github.com/Hassan-520)
 - [Hissam Savul](https://github.com/HissamSavul)
+- [John Emmanuel Villegas](https://github.com/Jevxtn)
 - [Muhammad Shahmeer](https://github.com/i190622Shahmeer)
 - [Kushal Agrawal](https://github.com/kushal34712)
 - [Jyotiswaroop Srivastav](https://github.com/rishuxd)
