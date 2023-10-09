@@ -19,6 +19,7 @@
 - [Pabitra Pal](https://github.com/pabitra0011)
 - [hjalanzy] (https://github.com/hjalanzy)
 - [Andy James](https://github.com/ajpert)
+- [Chandan Mali](https://github.com/Chandanmali)
 -[Vaibhav Nimkar](https://github.com/vaibhavpnimkar)
 - [Stephen Nwankwo](https://github.com/stenwire)
 - [KPIDIBA](https://github.com/kpidiba)
