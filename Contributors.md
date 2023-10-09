@@ -5,6 +5,7 @@
 - [Hamza Rehan](https://github.com/HamzaRehan4)
 - [Rayed Saeed](https://github.com/Rayed14)
 - [Vivek Kumar](https://github.com/vivekBoii)
+- [Zhao Yufan](https://github.com/leslie0605)
 - [Wazir Shehryar Ali](https://github.com/vzirshehryar)
 - [zh chen](https://github.com/JasonC10)
 - [Richard Triplett](https://github.com/retripl)
