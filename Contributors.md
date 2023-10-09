@@ -47,7 +47,8 @@
 - [Ahmad Maqbool](https://github.com/amaamir124)
 - [Adeola Idowu](https://github.com/adeolaidowu)
 - [elijah mutune](https://github.com/ElijahMutune)
-- [Ali Wahaj](https://github.com/WahajA
+- [Ali Wahaj](https://github.com/WahajA)
+-[Samuel Ibrahim](https://github.com/bowadao)
 - [Humaid Ashraf](https://github.com/oldSheldon)
 - [Ahmad Hamdan](https://github.com/Hamdanl8)
 - [Muhammad Moosa](https://github.com/Moosa-123)
