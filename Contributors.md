@@ -29,6 +29,7 @@
 - [IshaanviReet] (https://github.com/IshaanviReet)
 - [Zach Gentner](https://github.com/zachgentner)
 - [Haissam Bhaur] (https://github.com/haissambhaur)
+- [Mayuresh Dharwadkar](https://github.com/Mayureshd-18)
 - [Gilbert Okonjo] (https://github.com/OpondoG)
 - [Ahmad Maqbool](https://github.com/amaamir124)
 - [elijah mutune](https://github.com/ElijahMutune)
