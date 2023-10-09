@@ -4,6 +4,7 @@
 - [Hamza Rehan](https://github.com/HamzaRehan4)
 - [Rayed Saeed](https://github.com/Rayed14)
 - [Vivek Kumar](https://github.com/vivekBoii)
+- [Saurabh Saraswat](https://github.com/ss0809)
 - [Wazir Shehryar Ali](https://github.com/vzirshehryar)
 - [Richard Triplett](https://github.com/retripl)
 - [Asher Farhan](https://github.com/AsherFarhan2001)
@@ -3113,7 +3114,6 @@ Akash Abraham
 - [JP Hu](https://github.com/hu260456)
 -[Farras El-Fahd](https://github.com/farraselfahd)
 -[Christian Mark Velbis](https://github.com/psuuc-cmvelbis)
--[Sudarshan Hebbar](https://github.com/sudarshan9855)
 -[Vijay KV](https://github.com/Vijaykv5)
 - [Anurag]
 - [Brynn Andrew] (https://github.com/brynnandrew/)
