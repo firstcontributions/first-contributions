@@ -283,6 +283,7 @@ aj
 - [Amy Martin](https://github.com/amy-martin)
 - [Heli Patel] (https://github.com/helip0269) 
 - [Anxious Ant](https://github.com/AnxiousAnt)
+- [Akshat](https://github.com/akagtag)
 - [Muhammad Usman](https://github.com/MuhammadUsman-12)
 - [Chaitanya Mudaddala](https://github.com/cmchaitu)
 - [Vaibhav](https://github.com/vaibhav-009)
