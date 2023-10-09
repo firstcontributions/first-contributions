@@ -213,6 +213,7 @@ aj
 - [Collins Eguasa] (https://github.com/collinstb01)
 - Laura Malcervelli(https://github.com/lmalcervelli)
 - Amna Salahudin
+- [Rope Joonas] (https://github.com/JRope-dev)
 - [Namrata Birajdar](https://github.com/NamrataB1306)
 - [Vaibhav Pareek](https://github.com/vaibhavpareek515)
 - [Dineshraj Dhanapathy](https://github.com/dineshrajdhanapathyDD)
