@@ -3209,8 +3209,8 @@ Akash Abraham
 - [Ronaldi] (https://github.com/RonaldiVX1)
 - [Ankush Kalsotra](https://github.com/AnkushKalsotra)
 - [lazym0on] (https://github.com/lazym0on)
-
 - [Aditya Kumar] (https://github.com/AdityasGtHub)
+- [Yann Raffier] (https://github.com/yraffier)
 - [Jax Hax] (https://github.com/Jax-Hax)
 - [Vishwaksen] (https://github.com/vishwaksen-1)
 - [Shaurya Pratap Singh] (https://github.com/shaurya010)
@@ -3476,4 +3476,3 @@ pig
 - [BUrhan R Bajwa](https://github.com/burhanrbajwa)
 - [Luv Patel](https://github.com/luv2027)
 - [SrikarMK](https://github.com/Srikarmk)
-
