@@ -141,6 +141,7 @@
 - [Minjae Lee](https://github.com/minleejae)
 - [7oda]tss
 -[Avira Soni](https://github.com/A-viralS)
+- [Chris Oropeza] (https://github.com/ChristopherOropeza)
 - [Aftab Zaheer](https://github.com/aftabzaheer23)
 -[Pradyot Ranjan](https://github.com/prady0t)
 - [Arjun](https://github.com/arjunvtsuresh)
