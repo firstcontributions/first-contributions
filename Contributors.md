@@ -106,6 +106,7 @@
 - [Yashwanth Vignesh](https://github.com/Yashwanth-Vignesh)
 - [Jasmeet Singh](https://github.com/JasmeetSingh26)
 - [Jie Qiu](https://github.com/Jieqstu)
+  [Rickmwasofficial](https://github.com/Rickmwasofficial)
 - [Ishaan Jangid](https://github.com/Ishaanjangid)
 - [JW] 
 - [Abhishek Mohan](https://github.com/AbhishekMohanKr)
