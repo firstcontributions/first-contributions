@@ -267,6 +267,7 @@ aj
 - [RDS](https://github.com/underthehoody)
 - [Dania Jawad] (https://github.com/Djawad02)
 -[sukriti rai](https://github.com/Sukriti-Rai)
+- [Pratham Mahajan](https://github.com/Killer2OP)
 - [Mary Mdukaza](https://github.com/MaryMdukaza)
 - [Krishna Yadav](https://github.com/Yadav97)
 - [Jawad Ahmed](https://github.com/Jawad151)
