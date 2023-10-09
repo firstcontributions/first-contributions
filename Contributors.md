@@ -3508,4 +3508,4 @@ pig
 - [Atri Chatterjee](https://github.com/atri-chatterjee)
 - [Simon Evans](https://github.com/simonmevans)
 - [Cloud Constructor](https://github.com/cloudconstructor)
-
+- [Daniel Lisko](https://github.com/djlisko01)
