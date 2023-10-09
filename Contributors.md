@@ -69,6 +69,7 @@
 - [JaggedGem](https://github.com/JaggedGem)
 - [Abhishek S](https://github.com/iamA333)
 - [Henry Hansen] (https://github.com/HenryHansenK)
+- [Mian Muhammad Bilal] (https://github.com/iCoderBilal)
 - [CyberKyber](https://github.com/CyberGlitch86)
 - [Michelle Loya](https://github.com/michellaloya)
 - [Faizan Ahmed](https://github.com/faizan2ahmed)
