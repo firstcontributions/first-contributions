@@ -6,6 +6,7 @@
 - [Rayed Saeed](https://github.com/Rayed14)
 - [Vivek Kumar](https://github.com/vivekBoii)
 - [Wazir Shehryar Ali](https://github.com/vzirshehryar)
+- [zh chen](https://github.com/JasonC10)
 - [Richard Triplett](https://github.com/retripl)
 - [Asher Farhan](https://github.com/AsherFarhan2001)
 - [Saumya bansal](https://github.com/saumyabansal17)
