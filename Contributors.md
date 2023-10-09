@@ -8,6 +8,7 @@
 - [Wazir Shehryar Ali](https://github.com/vzirshehryar)
 - [Richard Triplett](https://github.com/retripl)
 - [Asher Farhan](https://github.com/AsherFarhan2001)
+- [Saumya bansal](https://github.com/saumyabansal17)
 - [Armughan Noor](https://github.com/armughan-Noor)
 - [Muhammad Zain](https://github.com/zain2k-jpg)
 - [Muhammad Hassan Rana](https://github.com/Hassan-520)
