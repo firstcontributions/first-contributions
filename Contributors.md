@@ -35,6 +35,7 @@
 - [Zach Gentner](https://github.com/zachgentner)
 - [Haissam Bhaur] (https://github.com/haissambhaur)
 - [Mayuresh Dharwadkar](https://github.com/Mayureshd-18)
+- [Ajay Gonepuri](https://github.com/HKABIG)
 - [Gilbert Okonjo] (https://github.com/OpondoG)
 - [Ahmad Maqbool](https://github.com/amaamir124)
 - [elijah mutune](https://github.com/ElijahMutune)
