@@ -1871,6 +1871,7 @@ Nikhil R
 - [Thorben Buenger](https://github.com/FourtySeven047)
 - [ovidiuoc](https://github.com/ovidiuoc)
 - [Malavya Raval](https://github.com/MalavyaRaval)
+- [Sandesh Khatiwada](https://github.com/sandesh-theMayGuy)
 - [Levin Baria](https://github.com/levinbaria)
 - [José Ortiz-Ocampo](https://github.com/jhortizo)
 - [Sávio Costa Silva](https://github.com/saviocosta01)
