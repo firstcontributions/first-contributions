@@ -41,6 +41,7 @@
 - [Ajay Gonepuri](https://github.com/HKABIG)
 - [Gilbert Okonjo] (https://github.com/OpondoG)
 - [Ahmad Maqbool](https://github.com/amaamir124)
+- [Adeola Idowu](https://github.com/adeolaidowu)
 - [elijah mutune](https://github.com/ElijahMutune)
 - [Ali Wahaj](https://github.com/WahajA
 - [Humaid Ashraf](https://github.com/oldSheldon)
