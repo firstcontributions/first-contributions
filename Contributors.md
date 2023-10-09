@@ -64,6 +64,7 @@
 - [JaggedGem](https://github.com/JaggedGem)
 - [Henry Hansen] (https://github.com/HenryHansenK)
 - [CyberKyber](https://github.com/CyberGlitch86)
+- [Michelle Loya](https://github.com/michellaloya)
 - [Faizan Ahmed](https://github.com/faizan2ahmed)
 - [Anas Ajaanan](https://github.com/anassajaanan)
 - [PinkMoon](https://github.com/CutePinkMoon)
