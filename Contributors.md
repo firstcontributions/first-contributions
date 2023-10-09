@@ -2353,6 +2353,7 @@ Nikhil R
 - [Mahaveer Jain](https://github.com/mahaveer82)
 - [Ferdinand Ogama] (https://github.com/459-ferd)
 - [Vivian Arevalo](https://github.com/vivian-mca)
+- [Garrett Sward] (https://github.com/CozyFrog)
 - [Purnima Kumar](https://github.com/Purnima-1)
 - [Jason Jia](https://github.com/jasonjiajs)
 - [Mehdi] (https://github.com/pyr33x)
