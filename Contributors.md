@@ -1,6 +1,7 @@
 
 # Contributors
 - [VCL](https://github.com/vclong2003/first-contributions.git)
+- [Krish Suthar](https://github.com/krishsuthar1504)
 - [Brian Ahaneku](https://github.com/brianahaneku)
 - [Aadithya] (https://github.com/Aadithya-J)
 - [Hamza Rehan](https://github.com/HamzaRehan4)
