@@ -897,6 +897,7 @@ Sino Felicity Zwane
 - [Gabriel Achille](https://github.com/gabrielachille)
 - [christian inyekaka](https://github.com/chrisBokotaII)
 - [Laissa Nicole dela Cruz](https://github.com/LaissaNicole)
+- [Lauren Champs](https://github.com/laurenchamps)
 - [[Trustbycode]](https://github.com/trustbycode/)
 - [[Peeyush Varma]](https://github.com/peeyush98)
 - [Trustbycode] (https://github.com/trustbycode/)
