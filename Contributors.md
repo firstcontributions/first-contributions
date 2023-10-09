@@ -195,6 +195,7 @@ aj
 - [Himanshu Gaur](https://github.com/Gaur2025)
 - [Stephan Sæbø](https://github.com/kongpottifar)
 - [Charles Johnson](https://github.com/CharlesJohnson117)
+- [Danilo Giarlini](https://github.com/danilogiarlini)
 - [Blossom Eze](https://github.com/Blossomeze)
 - [Efe Franklin](https://github.com/frankyxgithub)
 - [Bojidar Vladimirov](https://github.com/BojkaV)
