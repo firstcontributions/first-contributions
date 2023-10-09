@@ -3090,6 +3090,7 @@ Akash Abraham
 - [Tareef Iman](https://github.com/TareefIman)
 - [Lai Yu-Chiao](https://github.com/joelai0101)
 - [Eric Larson](https://github.com/larsoneric)
+- [pjancura](https://github.com/pjancura)
 - [ermakmx](https://github.com/ermakmx)
 - [Motasim Ifty](https://github.com/iftybito67)
 - [jyothika](https://github.com/14jyoo)
