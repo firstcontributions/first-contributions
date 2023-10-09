@@ -56,6 +56,7 @@
 - [Cecilia Kinyua](https://github.com/Kinyuacecilia)
 -[Tirth Nisar](https://github.com/TirthNisar193)
 - [Shivani Palya](https://github.com/Shivanipalya26)
+- [Vinayak Gupta] (https://github.com/Vinayakg09)
 - [Atharva Kulkarni](https://github.com/Atharva2864)
 - [Uzair Ahmed](https://github.com/Uzair-99)
 - [Ayush Arora](https://github.com/ayusharora21003)
