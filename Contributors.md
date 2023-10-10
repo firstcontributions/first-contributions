@@ -12,6 +12,7 @@
 - [Krish Suthar](https://github.com/krishsuthar1504)
 - [Jash Parikh](https://github.com/Jash7447)
 - [Ahmed Rabea](https://github.com/Alpattex)
+- [Dennis Paaske](https://github.com/Denpas404)
 - [Brian Ahaneku](https://github.com/brianahaneku)
 - [Jaydip Patel](https://github.com/jaydippatel83)
 - [Aadithya] (https://github.com/Aadithya-J)
