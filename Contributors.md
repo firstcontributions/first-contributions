@@ -46,6 +46,7 @@
 - [Deepanshu](https://github.com/creator0131)
 - [Pabitra Pal](https://github.com/pabitra0011)
 - [hjalanzy] (https://github.com/hjalanzy)
+- [Vishal Kumar](https://github.com/kvishalrj)
 - [Andy James](https://github.com/ajpert)
 - [Chandan Mali](https://github.com/Chandanmali)
 -[Vaibhav Nimkar](https://github.com/vaibhavpnimkar)
