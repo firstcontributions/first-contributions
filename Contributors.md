@@ -25,6 +25,7 @@
 - [kumar antanu](https://github.com/Antanukumar)
 - [Antanu kumar](https://github.com/Antanukumar)
 - [Dennis Paaske](https://github.com/Denpas404)
+- [Zharma](https://github.com/bubblegumbro)
 - [Brian Ahaneku](https://github.com/brianahaneku)
 - [Jaydip Patel](https://github.com/jaydippatel83)
 - [Aadithya] (https://github.com/Aadithya-J)
