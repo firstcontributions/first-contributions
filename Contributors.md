@@ -24,6 +24,7 @@
 - [Devanshu Masodker](https://github.com/Devanshumasodker)
 - [Rayed Saeed](https://github.com/Rayed14)
 - [Vivek Kumar](https://github.com/vivekBoii)
+- [Deepanshu](https://github.com/creator0131)
 - [Zhao Yufan](https://github.com/leslie0605)
 - [Wazir Shehryar Ali](https://github.com/vzirshehryar)
 - [Prathmesh Khede](https://github.com/Prathm3021)
