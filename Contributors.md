@@ -2578,6 +2578,7 @@ Akash Abraham
 - [Mazhar Ansari](https://github.com/MJCoder15)
 - [Kenny Pearson](https://github.com/kenwoodp)
 - [Kira Tubo](https://github.com/ktubo/)
+- [Siddhi Shah](https://github.com/siddhishah109)
 - [Roger Stafford](https://github.com/rogerstafforducl)
 - [Fernando Unger](https://github.com/fernandounger/)
 - [Samukelo Ngidi](https://github.com/SamukeloNgidi)
