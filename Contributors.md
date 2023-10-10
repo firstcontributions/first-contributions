@@ -624,6 +624,7 @@ Stewbin
 - [Vaibhav](https://github.com/vaibhav-009)
 - [Pratham Dhiman](https://github.com/Pratham86)
 - [Karan Choudhary](https://github.com/cskaranchow)
+- [Bat Sheva Sofer](https://github.com/BatShevaSofer)
 - [Akash Tripathi](https://github.com/akashtripathi1)
 - [Eliu Mendoza](https://github.com/edu-kalel)
 - [Hariprasad C](https://github.com/Haripc525)
