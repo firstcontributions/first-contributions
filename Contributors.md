@@ -27,6 +27,7 @@
 - [Dennis Paaske](https://github.com/Denpas404)
 - [Brian Ahaneku](https://github.com/brianahaneku)
 - [Jaydip Patel](https://github.com/jaydippatel83)
+- [Sudhanshu Tripathil](https://github.com/sudhanshu-77)
 - [Aadithya] (https://github.com/Aadithya-J)
 - [Hamza Rehan](https://github.com/HamzaRehan4)
 - [Devanshu Masodker](https://github.com/Devanshumasodker)
@@ -234,6 +235,7 @@
 - [JunLovin](https://github.com/JunLovin)
 - [Nithin](https://github.com/nithin-0111/)
 - [Enoch Hodo]
+
 aj
 - [Keshav Pahwa](https://github.com/keshav-pahwa/)
 - [Ved Prakash](https://github.com/Ved142)
@@ -3568,5 +3570,6 @@ pig
 - [Zhang Wentao](https://github.com/zhangwt-cn)
 - [Yong Seok Lee](https://github.com/lysmm203)
 - [Cypress RU](https://gist.github.com/cypressru)
+- [Sudhanshu Tripathi](https://gist.github.com/sudhanshu-77)
 
 
