@@ -31,6 +31,7 @@
 - [zh chen](https://github.com/JasonC10)
 - [Utsav Bhattarai](https://github.com/utsavbhattarai007)
 - [Harsh Jaiswal](https://github.com/harshjais369)
+- [Racheli Gimi](https://github.com/RACHELIgit)
 - [Richard Triplett](https://github.com/retripl)
 - [Asher Farhan](https://github.com/AsherFarhan2001)
 - [Saumya bansal](https://github.com/saumyabansal17)
