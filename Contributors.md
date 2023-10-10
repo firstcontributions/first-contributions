@@ -6,6 +6,7 @@
 - [Vivek Kumar](https://github.com/demonvivekBoii)
 - [Krish Soni](https://github.com/krishvsoni)
 - [Pawas Pandey](https://github.com/pawaspy)
+- [sane1090x](https://github.com/sane1090x)
 - [Danushka Sehan](https://github.com/DanushkaSehan)
 - [VCL](https://github.com/vclong2003/first-contributions.git)
 - [Krish Suthar](https://github.com/krishsuthar1504)
