@@ -901,6 +901,7 @@ Sino Felicity Zwane
 - [Brian Mehrens](https://github.com/brianmehrens)
 - [Melanie Nozuelo](https://github.com/Melanienozuelo)
 - [Emir Ertörer](https://github.com/EmirErtorer)
+- [Amir Khan]
 - [Aditi Deshpande](https://github.com/Aditi002-holo)
 - [Abdulhadi5692HDI2-3](https://github.com/Abdulhadi5692HDI2-3)
 - [Yvick Miossec] (https://github.com/879hun675tgfoO098)
