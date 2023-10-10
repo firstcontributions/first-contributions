@@ -3533,4 +3533,5 @@ pig
 - [Cloud Constructor](https://github.com/cloudconstructor)
 - [Zhang Wentao](https://github.com/zhangwt-cn)
 - [Yong Seok Lee](https://github.com/lysmm203)
+- [Cypress RU](https://gist.github.com/cypressru)
 
