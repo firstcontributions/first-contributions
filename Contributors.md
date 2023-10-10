@@ -13,6 +13,7 @@
 - [Krish Suthar](https://github.com/krishsuthar1504)
 - [Jash Parikh](https://github.com/Jash7447)
 - [Ahmed Rabea](https://github.com/Alpattex)
+- [kumar antanu](https://github.com/Antanukumar)
 - [Antanu kumar](https://github.com/Antanukumar)
 - [Dennis Paaske](https://github.com/Denpas404)
 - [Brian Ahaneku](https://github.com/brianahaneku)
