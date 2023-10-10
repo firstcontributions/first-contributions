@@ -1,6 +1,8 @@
 
 # Contributors
 -[Kushal Agrawal](https://github.com/kushal34712)
+-[Aakash Gupta](https://github.com/aakashgg)
+
 - [Luke Stump](https://github.com/LukeStump419)
 - [Mahesh Suthar](https://github.com/sutharmahesh05)
 - [Vivek Kumar](https://github.com/demonvivekBoii)
