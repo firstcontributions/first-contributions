@@ -725,6 +725,7 @@ Pizzacat
 - [Devendra dhare](https://github.com/devendradhare) 💲
 - [Aravind Achanta] (https://github.com/aachan3)
 - [Russell Chan] (https://github.com/tenderfoot-scout)
+- [Pufikas](https://github.com/Pufikas)
 -[Aditya_Sheokand](https://github.com/aditya_sheokand)
 -[Ritin Tiwari](https://github.com/ritin0204)
 -Maryam
