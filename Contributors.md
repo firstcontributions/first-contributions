@@ -3428,6 +3428,7 @@ Akash Abraham
 - [Dazzler Abhi](https://github.com/dazzlerabhi30800)
 - [Vidhu P V ](https://github.com/vidhupv)
 - Glovvie
+- [Sem Bosch](https://github.com/sembosch03)
 - [Ahmad Munir] (https://github.com/AhmadMunir001)
 - [Shamari Lewis] - (https://github.com/ShamariLewis)
 - [Smashed](https://github.com/smashed)
@@ -3541,4 +3542,4 @@ pig
 - [Zhang Wentao](https://github.com/zhangwt-cn)
 - [Yong Seok Lee](https://github.com/lysmm203)
 - [Cypress RU](https://gist.github.com/cypressru)
-- [Sem Bosch](https://github.com/sembosch03)
+
