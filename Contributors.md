@@ -18,6 +18,7 @@
 - [sane1090x](https://github.com/sane1090x)
 - [Danushka Sehan](https://github.com/DanushkaSehan)
 - [VCL](https://github.com/vclong2003/first-contributions.git)
+- - [Vaibhav Nimkar](vaibhavpnimkar)
 - [Krish Suthar](https://github.com/krishsuthar1504)
 - [Ceimos](https://github.com/ceimos)
 - [Jash Parikh](https://github.com/Jash7447)
