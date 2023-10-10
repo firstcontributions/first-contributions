@@ -22,6 +22,7 @@
 - [Aadithya] (https://github.com/Aadithya-J)
 - [Hamza Rehan](https://github.com/HamzaRehan4)
 - [Devanshu Masodker](https://github.com/Devanshumasodker)
+- [Vikas Gadge](https://github.com/vikasgadge28)
 - [Rayed Saeed](https://github.com/Rayed14)
 - [Vivek Kumar](https://github.com/vivekBoii)
 - [Deepanshu](https://github.com/creator0131)
