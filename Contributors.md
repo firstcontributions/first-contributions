@@ -86,6 +86,7 @@ Jyothishwari GP
 -[Vaibhav Nimkar](https://github.com/vaibhavpnimkar)
 - [Stephen Nwankwo](https://github.com/stenwire)
 - [KPIDIBA](https://github.com/kpidiba)
+- [Mehmet Demir](https://github.com/memindemir06)
 - [Rafay Zubair](https://github.com/Rafay-Zubair)
 - [Deepanshu](https://github.com/creator0131)
 - [Muhammad Hashir](https://github.com/hashir121)
