@@ -331,6 +331,7 @@ aj
 - [Heli Patel] (https://github.com/helip0269) 
 - [Anxious Ant](https://github.com/AnxiousAnt)
 - [Akshat](https://github.com/akagtag)
+- [Kenneth Weiss] (https://github.com/KennethWeiss)
 - [Muhammad Usman](https://github.com/MuhammadUsman-12)
 - [Chaitanya Mudaddala](https://github.com/cmchaitu)
 - [Vaibhav](https://github.com/vaibhav-009)
