@@ -2,6 +2,7 @@
 # Contributors
 - [Luke Stump](https://github.com/LukeStump419)
 - [Krish Soni](https://github.com/krishvsoni)
+- [Danushka Sehan](https://github.com/DanushkaSehan)
 - [VCL](https://github.com/vclong2003/first-contributions.git)
 - [Krish Suthar](https://github.com/krishsuthar1504)
 - [Jash Parikh](https://github.com/Jash7447)
