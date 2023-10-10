@@ -89,6 +89,7 @@
 - jhgf
 - Jack Huynh(https://github.com/JackHuynh0610)
 - tton
+- sora ricardo
 - [Gabriel M]
 - [k-velvet-p] (https://github.com/K-velvet-P)
 - [Dominik Alexa](https://github.com/devdom90)
