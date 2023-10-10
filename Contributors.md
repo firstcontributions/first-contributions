@@ -48,6 +48,7 @@
 - [IshaanviReet] (https://github.com/IshaanviReet)
 - [Zach Gentner](https://github.com/zachgentner)
 - [Haissam Bhaur] (https://github.com/haissambhaur)
+- [Himanshu Pradhan] (https://github.com/itmaybehimm)
 - [Mayuresh Dharwadkar](https://github.com/Mayureshd-18)
 - [Ajay Gonepuri](https://github.com/HKABIG)
 - [Gilbert Okonjo] (https://github.com/OpondoG)
