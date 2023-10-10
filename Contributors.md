@@ -23,6 +23,7 @@
 - [Saumya bansal](https://github.com/saumyabansal17)
 - [Armughan Noor](https://github.com/armughan-Noor)
 - [Muhammad Zain](https://github.com/zain2k-jpg)
+- [Evans Kiptoo](https://github.com/sudoevans)
 - [Muhammad Hassan Rana](https://github.com/Hassan-520)
 - [Matthew Scott Holland](https://githib.com/MatthewSHolland)
 - [Mohamed Lamine MBENG](https://github.com/AlamineMbeng)
