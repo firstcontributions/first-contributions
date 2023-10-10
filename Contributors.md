@@ -159,6 +159,7 @@
 - [Amiin Samatar](https://github.com/AmiinSamatar)
 - [Dheeraj Purohit](https://github.com/purohitdheeraj)
 - [Atul Singh](https://github.com/ar722em)
+- [Swastik Pratik Singh](https://github.com/swastikpratik-bit)
 - [Atul Rai](https://github.com/Atul72)
 - [Vidhi Sahai](https://github.com/Vidhi2604)
 - [Connor Hill(https://github.com/MeruemMoniker)]
