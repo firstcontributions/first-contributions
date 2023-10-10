@@ -1853,6 +1853,7 @@ Nikhil R
 - [Jon Sundin](https://github.com/jmsundin)
 - [Rose Rousseau](https://github.com/MapleRose)
 - [cqdev-fusion](https://github.com/cqdev-fusion)
+- [Marcello Borges](https://github.com/borgesma)
 - [Vyoam Yadav](https://github.com/ambiguousphoton)
 - [Sean Corzo](https://github.com/scorzo)
 - [James So](https://github.com/JamesSo1)
