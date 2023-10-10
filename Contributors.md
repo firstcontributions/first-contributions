@@ -1,7 +1,7 @@
 
 # Contributors
-
-- [Priyank Panchal](https://github.com/Priyank911)
+-[Vraj Patel](https://github.com/VrajPatel7)
+-[Smit Patel](https://github.com/smit2749)
 - [Harshayu Gupte](https://github.com/Harshayu)
 - [Queenie Lee](https://github.com/queenie-lee)
 - [Salar Loran Telo](https://github.com/SalarTelo)
