@@ -17,6 +17,7 @@
 - [Danushka Sehan](https://github.com/DanushkaSehan)
 - [VCL](https://github.com/vclong2003/first-contributions.git)
 - [Krish Suthar](https://github.com/krishsuthar1504)
+- [Ceimos](https://github.com/ceimos)
 - [Jash Parikh](https://github.com/Jash7447)
 - [Ahmed Rabea](https://github.com/Alpattex)
 - [kumar antanu](https://github.com/Antanukumar)
