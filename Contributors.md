@@ -1431,6 +1431,7 @@ Nikhil R
 - [Advika Bhat](https://github.com/Advika101)
 - [Ayushi Awasthi](https://github.com/Ayushi3023)
 - [Moh Ikhwan](https://github.com/mohikhwan)
+- [Sam Ghazzawi](https://github/savvisam)
 - [JudgeIsaac]
 - [autom101] (https://github.com/autom101)
 - [Cwj900](https://github.com/Cwj900)
