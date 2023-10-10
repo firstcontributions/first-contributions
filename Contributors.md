@@ -2075,6 +2075,7 @@ Nikhil R
 - [Anjali](https://github.com/anjali-sambargi)
 - [NandishM](https://github.com/NandishM0618)
 - [Khushi Jashnani](https://github.com/khushijashnani)
+- [vishal krishna](https://github.com/vishalkrishna8)
 - [Liza Yemini](https://github.com/LizaYemini)
 - [Arun Rag](https://github.com/arunraghuram)
 - [Apoorv Srivastava](https://github.com/apoorv50)
