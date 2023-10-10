@@ -34,6 +34,7 @@
 - [Hissam Savul](https://github.com/HissamSavul)
 - [John Emmanuel Villegas](https://github.com/Jevxtn)
 - [Muhammad Shahmeer](https://github.com/i190622Shahmeer)
+- [nhwai](https://github.com/NHWai)
 - [Kushal Agrawal](https://github.com/kushal34712)
 - [Cynthia Wambui](https://github.com/wanjoc)
 - [Jyotiswaroop Srivastav](https://github.com/rishuxd)
