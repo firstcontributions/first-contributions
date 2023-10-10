@@ -1,5 +1,6 @@
 
 # Contributors
+-[Kushal Agrawal](https://github.com/kushal34712)
 - [Luke Stump](https://github.com/LukeStump419)
 - [Krish Soni](https://github.com/krishvsoni)
 - [Pawas Pandey](https://github.com/pawaspy)
