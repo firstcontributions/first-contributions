@@ -1,7 +1,8 @@
 
 # Contributors
--[Vishal Kumarl](https://github.com/kvishalrj)
--[Kushal Agrawal](https://github.com/kushal34712)
+
+- [Vishal Kumarl](https://github.com/kvishalrj)
+- [Kushal Agrawal](https://github.com/kushal34712)
 - [Luke Stump](https://github.com/LukeStump419)
 - [Mahesh Suthar](https://github.com/sutharmahesh05)
 - [Vivek Kumar](https://github.com/demonvivekBoii)
