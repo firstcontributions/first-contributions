@@ -3555,5 +3555,5 @@ pig
 - [Cloud Constructor](https://github.com/cloudconstructor)
 - [Zhang Wentao](https://github.com/zhangwt-cn)
 - [Yong Seok Lee](https://github.com/lysmm203)
+- [Yacine Bel-Hadj](https://github.com/YacineBelHadj)
 - [Cypress RU](https://gist.github.com/cypressru)
-
