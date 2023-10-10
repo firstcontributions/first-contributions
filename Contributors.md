@@ -9,6 +9,7 @@
 - [Jash Parikh](https://github.com/Jash7447)
 - [Ahmed Rabea](https://github.com/Alpattex)
 - [Brian Ahaneku](https://github.com/brianahaneku)
+- [Jaydip Patel](https://github.com/jaydippatel83)
 - [Aadithya] (https://github.com/Aadithya-J)
 - [Hamza Rehan](https://github.com/HamzaRehan4)
 - [Devanshu Masodker](https://github.com/Devanshumasodker)
