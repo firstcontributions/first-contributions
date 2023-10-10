@@ -31,6 +31,7 @@
 - [Jaydip Patel](https://github.com/jaydippatel83)
 - [Aadithya] (https://github.com/Aadithya-J)
 - [Hamza Rehan](https://github.com/HamzaRehan4)
+- [Arvin Tamayosa](https://github.com/artamayosa)
 - [Devanshu Masodker](https://github.com/Devanshumasodker)
 - [Vikas Gadge](https://github.com/vikasgadge28)
 - [Rayed Saeed](https://github.com/Rayed14)
