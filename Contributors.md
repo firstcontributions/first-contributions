@@ -1,6 +1,5 @@
 
 # Contributors
--[Kushal Agrawal](https://github.com/kushal34712)
 - [Luke Stump](https://github.com/LukeStump419)
 - [Krish Soni](https://github.com/krishvsoni)
 - [Pawas Pandey](https://github.com/pawaspy)
@@ -334,6 +333,7 @@ aj
 - [Joe Palladino](https://gitub.com/Mindfulgeek)
 - [Himanshi Gupta](https://github.com/himanshigupta22)
 - [Pratham Dhiman](https://github.com/Pratham86)
+- [Deepanshu](https://github.com/coder0131)
 - [Vijay V] (https://github.com/vijayv18)
 - [Abhinay singh](https://github.com/Abhinay123Singh)
 - [Nandini Arora](https://github.com/Nandiniar)
