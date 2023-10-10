@@ -193,6 +193,7 @@
 - [Swastik Patel](https://github.com/mrswastik-robot)
 - [Roopa Dharshini](https://github.com/Rupa-Rd)
 - [Nathan Taylor](https://github.com/nathanctay)
+- [Michael Gee](https://github.com/GeeMichael)
 - [Martin Olsen](https:://github.com/MartinOlsenDev)
 - [Basil Noor](https://github.com/basilnoor)
 - [Keya Karkun](https://github.com/keyakarkun)
