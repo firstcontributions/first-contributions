@@ -1,6 +1,7 @@
 
 # Contributors
 
+- [Ayush Rakesh](https://github.com/ayushrakesh)
 - [Michael Raheem](https://github.com/Raheemstan)
 Jyothishwari GP
 - [Arjun Pandit](https://github.com/arjunpndt)
