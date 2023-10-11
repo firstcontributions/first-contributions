@@ -1,6 +1,7 @@
 
 # Contributors
 
+- [Sandesh Pyakurel](https://github.com/Sandesh-Pyakurel)
 - [Ayush Rakesh](https://github.com/ayushrakesh)
 - [Michael Raheem](https://github.com/Raheemstan)
 Jyothishwari GP
