@@ -1333,6 +1333,7 @@ Sino Felicity Zwane
 - [Jo Galeon](https://github.com/jogaleon)
 - [Amit singh](https://github.com/technicalamit8055)
 - [Devon Dixon] (https://github.com/DevonTD)
+- [kazeem taiwo] (https://github.com/alevel7)
 - [rivera]
 - [John Ly] (https://github.com/johnly17)
 - [CJ Bauzon](https://github.com/cbauzon)
