@@ -1,6 +1,6 @@
 
 # Contributors
-
+- [Biswajyoti Ray](https://github.com/BiswajyotiRay)
 - [Ayush Rakesh](https://github.com/ayushrakesh)
 - [Michael Raheem](https://github.com/Raheemstan)
 Jyothishwari GP
