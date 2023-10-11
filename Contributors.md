@@ -1334,6 +1334,7 @@ Sino Felicity Zwane
 - [Anuron Dutta](https://github.com/AnuronDutta)
 - [Joseph Lawson](https://github.com/jlaws710)
 - [Bhargav shirin Nalamati](https://github.com/bhargavshirin)
+- [Mehank](https://github.com/M3hank)
 - [Jay Cole](https://github.com/3colej20)
 - [Alexandra Pietroch] (https://github.com/sasha-cz)
 - [Keisuke Miura](https://github.com/behindthemac)
