@@ -5,6 +5,7 @@
 - [Arjun Pandit](https://github.com/arjunpndt)
 - [Priyank Panchal](https://github.com/Priyank911)
 - [Harshayu Gupte](https://github.com/Harshayu)
+- [Amit Vaghela](https://github.com/Amitkumar-Vaghela)
 - [Queenie Lee](https://github.com/queenie-lee)
 - [Salar Loran Telo](https://github.com/SalarTelo)
 - [Anabi Asah](https://github.com/prof-anabi)
