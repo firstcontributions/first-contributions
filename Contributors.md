@@ -3580,7 +3580,6 @@ pig
 - [BUrhan R Bajwa](https://github.com/burhanrbajwa)
 - [Luv Patel](https://github.com/luv2027)
 - [SrikarMK](https://github.com/Srikarmk)
-- [Priyanshu Varshney](https://github.com/harshhere905)
 - [Huzaifa Al Mesbah](https://github.com/huzaifaalmesbah)
 - [SunYuan](https://github.com/sunyuan686)
 - [Scott Eifel](https://github.com/scotteifel)
@@ -3596,6 +3595,6 @@ pig
 - [Wei Xi](https://github.com/weixi62961)
 - [Cypress RU](https://gist.github.com/cypressru)
 - [Xi Gui Yang](https://github.com/MrYang2016)
-
+- [Priyanshu Varshney](https://github.com/harshhere905)
 
 
