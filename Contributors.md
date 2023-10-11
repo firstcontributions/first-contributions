@@ -62,6 +62,7 @@ Jyothishwari GP
 - [Wazir Shehryar Ali](https://github.com/vzirshehryar)
 - [Prathmesh Khede](https://github.com/Prathm3021)
 - [zh chen](https://github.com/JasonC10)
+- [Sudhanshu Tripathil](https://github.com/sudhanshu-77)
 - [Utsav Bhattarai](https://github.com/utsavbhattarai007)
 - [Harsh Jaiswal](https://github.com/harshjais369)
 - [Racheli Gimi](https://github.com/RACHELIgit)
@@ -259,6 +260,7 @@ Jyothishwari GP
 - [JunLovin](https://github.com/JunLovin)
 - [Nithin](https://github.com/nithin-0111/)
 - [Enoch Hodo]
+
 aj
 - [Keshav Pahwa](https://github.com/keshav-pahwa/)
 - [Ved Prakash](https://github.com/Ved142)
@@ -3610,6 +3612,7 @@ pig
 - [Priyanshu Varshney](https://github.com/harshhere905)
 - [Wei Xi](https://github.com/weixi62961)
 - [Cypress RU](https://gist.github.com/cypressru)
+-- [Sudhanshu Tripathil](https://github.com/sudhanshu-77)
 - [Xi Gui Yang](https://github.com/MrYang2016)
 - [Pradeep Lama](https://github.com/tamago01)
 - [Senaya1](https://github.com/Rinxyc)
