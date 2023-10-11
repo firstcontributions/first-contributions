@@ -23,6 +23,7 @@
 - [Danushka Sehan](https://github.com/DanushkaSehan)
 - [VCL](https://github.com/vclong2003/first-contributions.git)
 - - [Vaibhav Nimkar](vaibhavpnimkar)
+-[Pranav Singh][https://github.com/Pranavsingh431]
 - [Krish Suthar](https://github.com/krishsuthar1504)
 - [Prangshu Das](https://github.com/Prangshu004)
 - [Ceimos](https://github.com/ceimos)
