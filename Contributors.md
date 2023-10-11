@@ -3490,6 +3490,7 @@ Akash Abraham
 - [Abdi Ibrahim](https://github.com/abdiths)
 - [Sai Sumith](https://github.com/saisumith770)
 - [Abu bakar Afzal](https://github.com/abubakarafzal)
+- [Vladimir Parfinenko for students of NSU SysPro](https://github.com/cypok)
 - [Murtuza Vhora](https://github.com/Murtazavhora)
 - [JojiSeb] - JojiSeb was here :)
 - [Ronit Kumar Baranwal]-(https://github.com/RonitBaranwal)
