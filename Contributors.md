@@ -4,6 +4,7 @@
 -[Sudhanshu Tripathi](https://github.com/sudhanshu-77)
 - [Youkwhan Kim](https://github.com/Youkwhan)
 - [Om Varma ](https://github.com/omvarma31)
+- [Josh Kim](https://github.com/socho1)
 - [Sandesh Pyakurel](https://github.com/Sandesh-Pyakurel)
 - [Anuj Kumar Singh](https://github.com/dev-anuj007)
 - [kumar harshit](https://github.com/Mehaksharma6)
