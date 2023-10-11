@@ -40,6 +40,7 @@ Jyothishwari GP
 - [Aadithya] (https://github.com/Aadithya-J)
 - [Lurifos](https://github.com/BlueBeret)
 - [Hamza Rehan](https://github.com/HamzaRehan4)
+- [pyxelhaze](https://github.com/pyxelhaze)
 - [Arvin Tamayosa](https://github.com/artamayosa)
 - [Devanshu Masodker](https://github.com/Devanshumasodker)
 - [GONAPCORP](https://github.com/HKABIG)
@@ -3592,7 +3593,9 @@ pig
 - [Cloud Constructor](https://github.com/cloudconstructor)
 - [Zhang Wentao](https://github.com/zhangwt-cn)
 - [Yong Seok Lee](https://github.com/lysmm203)
+- [Priyanshu Varshney](https://github.com/harshhere905)
 - [Wei Xi](https://github.com/weixi62961)
 - [Cypress RU](https://gist.github.com/cypressru)
 - [Xi Gui Yang](https://github.com/MrYang2016)
 - [Tariq Hassan Alhathloul](https://github.com/TariqAlhathloul)
+
