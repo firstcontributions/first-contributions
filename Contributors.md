@@ -116,6 +116,7 @@ Jyothishwari GP
 - [Ahmad Hamdan](https://github.com/Hamdanl8)
 - [Muhammad Moosa](https://github.com/Moosa-123)
 - [Safa Khan] (https://github.com/safakhan26)
+- [Alex Abundita] (https://github.com/Abundita)
 - [Aditya Prakash Gupta](https://github.com/evadrake89)
 - [Mark Finley Osei Hyiaman](https://github.com/Mark-Finley)
 - [Peterson Kariuki Kanyuga](https://github.com/pkanyu)
