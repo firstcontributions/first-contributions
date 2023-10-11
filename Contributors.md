@@ -22,6 +22,7 @@ Jyothishwari GP
 - [Moksh Agrawal](https://github.com/Moksh-10)
 - [Pawas Pandey](https://github.com/pawaspy)
 - [Harshvardhan Singh Bais](https://github.com/Harshvar25)
+- [Vladimir Parfinenko one more time for conflicts](https://github.com/cypok)
 - [sane1090x](https://github.com/sane1090x)
 - [Danushka Sehan](https://github.com/DanushkaSehan)
 - [VCL](https://github.com/vclong2003/first-contributions.git)
