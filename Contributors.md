@@ -17,6 +17,7 @@ Jyothishwari GP
 - [Ajeet Raj](https://github.com/ajeetraj11)
 - [Mahesh Suthar](https://github.com/sutharmahesh05)
 - [Deepanshu](https://github.com/creator0131)
+- [Priaynshu Varshney]
 - [Vivek Kumar](https://github.com/demonvivekBoii)
 - [Krish Soni](https://github.com/krishvsoni)
 - [Moksh Agrawal](https://github.com/Moksh-10)
