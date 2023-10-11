@@ -1,6 +1,6 @@
 
-# Contributors
-
+# Contributors]
+-[SWAYAMKHANDURI](https://github.com/SWAYAMKHANDURI)
 - [Sandesh Pyakurel](https://github.com/Sandesh-Pyakurel)
 - [Anuj Kumar Singh](https://github.com/dev-anuj007)
 - [Ayush Rakesh](https://github.com/ayushrakesh)
