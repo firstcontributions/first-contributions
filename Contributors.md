@@ -1629,7 +1629,6 @@ Nikhil R
 - psuuc-paduaester
 - [Anudari Gereltod](https://github.com/AnudariG)
 - [SaswatSahu](https://github.com/Raphel6969)
-- [Sanjiv Kushwaha] 
 - [Sumitra Sharma](https://github.com/heygauri)
 - [Alex W](https://github.com/yw3762)
 - [Sanjiv Kushwaha]
