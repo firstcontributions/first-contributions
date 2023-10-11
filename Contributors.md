@@ -2461,6 +2461,7 @@ Nikhil R
 - [Vivian Arevalo](https://github.com/vivian-mca)
 - [Garrett Sward] (https://github.com/CozyFrog)
 - [Purnima Kumar](https://github.com/Purnima-1)
+- [Sohan Sai](https://github.com/sohansai)
 - [Jason Jia](https://github.com/jasonjiajs)
 - [Mehdi] (https://github.com/pyr33x)
 - [Dhrumi Shah](https://github.com/dhrumishah)
