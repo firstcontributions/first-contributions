@@ -12,6 +12,7 @@ Jyothishwari GP
 - [Fares Yusuf](https://github.com/Fares-Yusuf)
 - [Harshayu Gupte](https://github.com/Harshayu)
 - [Amit Vaghela](https://github.com/Amitkumar-Vaghela)
+- [Shiv Sagar](https://github.com/shivsagar002)
 - [Queenie Lee](https://github.com/queenie-lee)
 - [Salar Loran Telo](https://github.com/SalarTelo)
 - [Anabi Asah](https://github.com/prof-anabi)
