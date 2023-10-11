@@ -3627,6 +3627,5 @@ pig
 - [Pradeep Lama](https://github.com/tamago01)
 - [Senaya1](https://github.com/Rinxyc)
 - [Susheel Thapa](https://github.com/SusheelThapa)
-
-
+- [Parikshit Adhikari](https://github.com/parikshitadhikari)
 
