@@ -298,6 +298,7 @@ aj
 - [Sandra Yee]
 - [Dhananjay Kajale](https://github.com/dhananjaykajale751)
 - [Jannat Khan](https://github.com/JannatKhan1)
+- [Pooja Hiremath](https://github.com/scriptsherlock)
 - [Sky Deng](https://github.com/skydonline)
 - [Sirpi Yugendar](https://github.com/cirpi)
 - [Abhay Pratap](https://github.com/AbhayPratap10)
