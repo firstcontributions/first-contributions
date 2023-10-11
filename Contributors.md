@@ -934,6 +934,7 @@ Sino Felicity Zwane
 - [nupoor kedare](https://github.com/nupoorkedare2002)
 - [Kushagra Anand](https://github.com/Kusha008)
 - [Harsh Sapra](https://github.com/harshsapra92)
+- [Kevin Tanzyl](https://github.com/kebin20)
 - [Dhanusya Sanjeev Kumar](https://github.com/sanjeev003)(https://twitter.com/SanjeevKumarDG)
 - [Abhishek Abbi](https://github.com/aabbi15)
 - [Maithil Saha](https://github.com/Roguemaths)
