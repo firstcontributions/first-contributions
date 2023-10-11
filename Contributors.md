@@ -282,6 +282,7 @@ aj
 - [Shubham Kumar](https://github.com/MysticWanderer142)
 - [Yazeed Tarshan]
 - [Sandra Yee]
+- [Dhananjay Kajale](https://github.com/dhananjaykajale751)
 - [Jannat Khan](https://github.com/JannatKhan1)
 - [Sky Deng](https://github.com/skydonline)
 - [Sirpi Yugendar](https://github.com/cirpi)
