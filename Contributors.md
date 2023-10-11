@@ -7,6 +7,7 @@ Jyothishwari GP
 - [Dhananjay Kajale](https://github.com/dhananjaykajale751)
 - [Yasin Günay](https://github.com/yasingunay)
 - [Priyank Panchal](https://github.com/Priyank911)
+- [Fares Yusuf](https://github.com/Fares-Yusuf)
 - [Harshayu Gupte](https://github.com/Harshayu)
 - [Amit Vaghela](https://github.com/Amitkumar-Vaghela)
 - [Queenie Lee](https://github.com/queenie-lee)
