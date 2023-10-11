@@ -161,6 +161,7 @@ Jyothishwari GP
 - [Nikhil Maurya](https://github.com/Nikhil4711)
 - [JaggedGem](https://github.com/JaggedGem)
 - [Abhishek S](https://github.com/iamA333)
+- [Gi0by](https://github.com/Gi0by)
 - [Henry Hansen] (https://github.com/HenryHansenK)
 - [Mian Muhammad Bilal] (https://github.com/iCoderBilal)
 - [CyberKyber](https://github.com/CyberGlitch86)
