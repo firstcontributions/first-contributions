@@ -26,6 +26,7 @@ Jyothishwari GP
 - [Deepanshu](https://github.com/creator0131)
 - [Vivek Kumar](https://github.com/demonvivekBoii)
 - [Krish Soni](https://github.com/krishvsoni)
+- [Lolu Bolarinwa](https://github.com/LoluBolarinwa)
 - [Moksh Agrawal](https://github.com/Moksh-10)
 - [Izuchukwu Obi](https://github.com/izustic)
 - [Pawas Pandey](https://github.com/pawaspy)
