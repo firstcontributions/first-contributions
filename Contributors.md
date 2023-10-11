@@ -4,6 +4,7 @@
 -[Sudhanshu Tripathi](https://github.com/sudhanshu-77)
 - [Youkwhan Kim](https://github.com/Youkwhan)
 - [Om Varma ](https://github.com/omvarma31)
+- [Josh Kim](https://github.com/socho1)
 - [Sandesh Pyakurel](https://github.com/Sandesh-Pyakurel)
 - [Anuj Kumar Singh](https://github.com/dev-anuj007)
 - [kumar harshit](https://github.com/Mehaksharma6)
@@ -16,6 +17,7 @@ Jyothishwari GP
 - [Dhananjay Kajale](https://github.com/dhananjaykajale751)
 - [Yasin Günay](https://github.com/yasingunay)
 - [Ben Scott](https://github.com/MrCheese423)
+- [Gabriel Marzioli](https://github.com/gabriel073)
 - [Priyank Panchal](https://github.com/Priyank911)
 - [Surav Shrestha](https://github.com/suravshrestha)
 - [Fares Yusuf](https://github.com/Fares-Yusuf)
@@ -67,6 +69,7 @@ Jyothishwari GP
 - [Hamza Rehan](https://github.com/HamzaRehan4)
 - [pyxelhaze](https://github.com/pyxelhaze)
 - [Arvin Tamayosa](https://github.com/artamayosa)
+- [Trinity Pickersgill](https://github.com/TrinityPick)
 - [Devanshu Masodker](https://github.com/Devanshumasodker)
 - [GONAPCORP](https://github.com/HKABIG)
 - [Vikas Gadge](https://github.com/vikasgadge28)
@@ -81,6 +84,7 @@ Jyothishwari GP
 - [zh chen](https://github.com/JasonC10)
 - [Utsav Bhattarai](https://github.com/utsavbhattarai007)
 - [Ash V](https://github.com/tvermaashutosh)
+- [Chinmay Raichur](https://github.com/ChinmayR07)
 - [Harsh Jaiswal](https://github.com/harshjais369)
 - [Racheli Gimi](https://github.com/RACHELIgit)
 - [Richard Triplett](https://github.com/retripl)
@@ -285,6 +289,7 @@ Jyothishwari GP
 aj
 - [Keshav Pahwa](https://github.com/keshav-pahwa/)
 - [Ved Prakash](https://github.com/Ved142)
+- [Henry Niemann](https://github.com/Chezzyboy)
 - [Kaushik Kumar Das](https://github.com/AlexWeb07)
 - [Ajay Gonepuri](https://github.com/HKABIG)
 - [Kelvin Koech](https://github.com/koechcoding)
@@ -3649,6 +3654,7 @@ pig
 - [Pradeep Lama](https://github.com/tamago01)
 - [Senaya1](https://github.com/Rinxyc)
 - [Susheel Thapa](https://github.com/SusheelThapa)
+- [Robert Smith ](https://github.com/brprod8)
 
 
 
