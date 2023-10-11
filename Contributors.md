@@ -199,6 +199,7 @@ Jyothishwari GP
 -[Pradyot Ranjan](https://github.com/prady0t)
 - [Arjun](https://github.com/arjunvtsuresh)
 - [2111518](https://github.com/2111518)
+- 
 - [Alan Nguyen](https://github.com/khangwen)
 - [Amiin Samatar](https://github.com/AmiinSamatar)
 - [Dheeraj Purohit](https://github.com/purohitdheeraj)
@@ -1653,6 +1654,7 @@ Nikhil R
 - [Kashyap Patel](https://github.com/kashyap5551)
 - [Ajaydeep Singh](https://github.com/Ajay1-me)
 - [Eze-DP](https://github.com/Eze-DP)
+- [Priyanshu Varshney]
 - [Leynard Guinumtad](https://github.com/leynardguinumtad)
 - [Michael Rago] (https://github.com/michaeljamesrago)
 - [Lasindu Weerasinghe](https://github.com/LassazVegaz)
