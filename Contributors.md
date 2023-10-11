@@ -1409,6 +1409,7 @@ Sino Felicity Zwane
 - [Christopher Semler](https://github.com/SEM7AC)
 - [Parinas]
 - [Porti](https://github.com/PortiESP)
+- [Nikhar Behera](https://github.com/SoulNikhar)
 - [Bethel Enunwa](https://github.com/betheltoni)
 Nikhil R
 - [Benjamin Hack](https://github.com/benhhack)
