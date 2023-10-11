@@ -36,6 +36,7 @@ Jyothishwari GP
 - [Krish Suthar](https://github.com/krishsuthar1504)
 - [Prangshu Das](https://github.com/Prangshu004)
 - [Ceimos](https://github.com/ceimos)
+- [Awonuga Oluwapelumi](https://github.com/Dunni0)
 - [Vraj Patel](https://github.com/VrajPatel7)
 - [Jash Parikh](https://github.com/Jash7447)
 - [Ahmed Rabea](https://github.com/Alpattex)
