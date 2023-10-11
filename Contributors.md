@@ -1,10 +1,14 @@
 
 # Contributors
 
+- [Ayush Rakesh](https://github.com/ayushrakesh)
 - [Michael Raheem](https://github.com/Raheemstan)
 Jyothishwari GP
 - [Arjun Pandit](https://github.com/arjunpndt)
+- [Dhananjay Kajale](https://github.com/dhananjaykajale751)
+- [Yasin Günay](https://github.com/yasingunay)
 - [Priyank Panchal](https://github.com/Priyank911)
+- [Fares Yusuf](https://github.com/Fares-Yusuf)
 - [Harshayu Gupte](https://github.com/Harshayu)
 - [Amit Vaghela](https://github.com/Amitkumar-Vaghela)
 - [Queenie Lee](https://github.com/queenie-lee)
@@ -20,7 +24,10 @@ Jyothishwari GP
 - [Vivek Kumar](https://github.com/demonvivekBoii)
 - [Krish Soni](https://github.com/krishvsoni)
 - [Moksh Agrawal](https://github.com/Moksh-10)
+- [Izuchukwu Obi](https://github.com/izustic)
 - [Pawas Pandey](https://github.com/pawaspy)
+- [Harshvardhan Singh Bais](https://github.com/Harshvar25)
+- [Vladimir Parfinenko one more time for conflicts](https://github.com/cypok)
 - [sane1090x](https://github.com/sane1090x)
 - [Danushka Sehan](https://github.com/DanushkaSehan)
 - [VCL](https://github.com/vclong2003/first-contributions.git)
@@ -29,8 +36,10 @@ Jyothishwari GP
 - [Krish Suthar](https://github.com/krishsuthar1504)
 - [Prangshu Das](https://github.com/Prangshu004)
 - [Ceimos](https://github.com/ceimos)
+- [Vraj Patel](https://github.com/VrajPatel7)
 - [Jash Parikh](https://github.com/Jash7447)
 - [Ahmed Rabea](https://github.com/Alpattex)
+- [Shubham Kumar][https://github.com/shubham13k]
 - [kumar antanu](https://github.com/Antanukumar)
 - [Antanu kumar](https://github.com/Antanukumar)
 - [Dennis Paaske](https://github.com/Denpas404)
@@ -83,6 +92,7 @@ Jyothishwari GP
 -[Vaibhav Nimkar](https://github.com/vaibhavpnimkar)
 - [Stephen Nwankwo](https://github.com/stenwire)
 - [KPIDIBA](https://github.com/kpidiba)
+- [Mehmet Demir](https://github.com/memindemir06)
 - [Rafay Zubair](https://github.com/Rafay-Zubair)
 - [Deepanshu](https://github.com/creator0131)
 - [Muhammad Hashir](https://github.com/hashir121)
@@ -123,6 +133,7 @@ Jyothishwari GP
 - [Jacinta kazenzi](https://github.com/Kazenzi)
 - [Nikhil Raj](https://github.com/bunnyynk)
 - [Elijah mutune](https://github.com/ElijahMutune)
+- [Mayuresh D](https://github.com/Mayureshd18)
 - [Dibya Ranjan Sahoo](https://github.com/100-dibya)
 - [Narendhiran Saravanane](https://github.com/naren200)
 - [Nakesh Tewari](https://github.com/NakeshTewari)
@@ -274,6 +285,7 @@ aj
 - [Shubham Kumar](https://github.com/MysticWanderer142)
 - [Yazeed Tarshan]
 - [Sandra Yee]
+- [Dhananjay Kajale](https://github.com/dhananjaykajale751)
 - [Jannat Khan](https://github.com/JannatKhan1)
 - [Sky Deng](https://github.com/skydonline)
 - [Sirpi Yugendar](https://github.com/cirpi)
@@ -1405,6 +1417,7 @@ Sino Felicity Zwane
 - [Christopher Semler](https://github.com/SEM7AC)
 - [Parinas]
 - [Porti](https://github.com/PortiESP)
+- [Nikhar Behera](https://github.com/SoulNikhar)
 - [Bethel Enunwa](https://github.com/betheltoni)
 Nikhil R
 - [Benjamin Hack](https://github.com/benhhack)
@@ -3488,6 +3501,7 @@ Akash Abraham
 - [Abdi Ibrahim](https://github.com/abdiths)
 - [Sai Sumith](https://github.com/saisumith770)
 - [Abu bakar Afzal](https://github.com/abubakarafzal)
+- [Vladimir Parfinenko for students of NSU SysPro](https://github.com/cypok)
 - [Murtuza Vhora](https://github.com/Murtazavhora)
 - [JojiSeb] - JojiSeb was here :)
 - [Ronit Kumar Baranwal]-(https://github.com/RonitBaranwal)
@@ -3598,4 +3612,8 @@ pig
 - [Cypress RU](https://gist.github.com/cypressru)
 - [Xi Gui Yang](https://github.com/MrYang2016)
 - [Tariq Hassan Alhathloul](https://github.com/TariqAlhathloul)
+- [Pradeep Lama](https://github.com/tamago01)
+- [Senaya1](https://github.com/Rinxyc)
+
+
 
