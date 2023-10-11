@@ -18,6 +18,7 @@
 - [Jie Qiu](https://github.com/Jieqstu)
 - [Ishaan Jangid](https://github.com/Ishaanjangid)
 - [JW]
+- [Emily Good] (https://github.com/egood55)
 - [Seth Shoemaker] (https://github.com/SethShoemaker)
 - [Kazi S. Ahmed](https://github.com/kahmed-stack)
 - [Blake Herbert] (https://github.com/Blake-Herbert)
