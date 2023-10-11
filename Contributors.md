@@ -1097,6 +1097,7 @@ Sino Felicity Zwane
 - [AlpacaTechYT](https://github.com/Lagaress)
 - [Abhishek Amber][https://github.com/amberabhi]
 - [Sreekumar Krishnan](https://github.com/SreekumarKrishnan)
+- [Pabitra pal](https://github.com/pabitra0011)
 - [ELena Guo](https://github.com/ElenaGuo404)
 - [Nandhu Sathish] (https://github.com/NandhuSathish)
 - [Reign Cyril De Vera] (https://github.com/reign-cyril-de-vera)
