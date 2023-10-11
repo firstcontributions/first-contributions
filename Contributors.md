@@ -38,6 +38,7 @@
 - [Aadithya] (https://github.com/Aadithya-J)
 - [Lurifos](https://github.com/BlueBeret)
 - [Hamza Rehan](https://github.com/HamzaRehan4)
+- [pyxelhaze](https://github.com/pyxelhaze)
 - [Arvin Tamayosa](https://github.com/artamayosa)
 - [Devanshu Masodker](https://github.com/Devanshumasodker)
 - [GONAPCORP](https://github.com/HKABIG)
