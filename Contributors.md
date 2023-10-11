@@ -125,6 +125,7 @@ Jyothishwari GP
 - [Jacinta kazenzi](https://github.com/Kazenzi)
 - [Nikhil Raj](https://github.com/bunnyynk)
 - [Elijah mutune](https://github.com/ElijahMutune)
+- [Mayuresh D](https://github.com/Mayureshd18)
 - [Dibya Ranjan Sahoo](https://github.com/100-dibya)
 - [Narendhiran Saravanane](https://github.com/naren200)
 - [Nakesh Tewari](https://github.com/NakeshTewari)
