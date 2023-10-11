@@ -4,6 +4,7 @@
 - [Michael Raheem](https://github.com/Raheemstan)
 Jyothishwari GP
 - [Arjun Pandit](https://github.com/arjunpndt)
+- [Dhananjay Kajale](https://github.com/dhananjaykajale751)
 - [Yasin Günay](https://github.com/yasingunay)
 - [Priyank Panchal](https://github.com/Priyank911)
 - [Harshayu Gupte](https://github.com/Harshayu)
