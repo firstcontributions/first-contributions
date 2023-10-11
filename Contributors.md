@@ -80,6 +80,7 @@ Jyothishwari GP
 - [zh chen](https://github.com/JasonC10)
 - [Utsav Bhattarai](https://github.com/utsavbhattarai007)
 - [Ash V](https://github.com/tvermaashutosh)
+- [Chinmay Raichur](https://github.com/ChinmayR07)
 - [Harsh Jaiswal](https://github.com/harshjais369)
 - [Racheli Gimi](https://github.com/RACHELIgit)
 - [Richard Triplett](https://github.com/retripl)
