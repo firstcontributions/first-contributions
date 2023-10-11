@@ -26,6 +26,7 @@ Jyothishwari GP
 - [Moksh Agrawal](https://github.com/Moksh-10)
 - [Izuchukwu Obi](https://github.com/izustic)
 - [Pawas Pandey](https://github.com/pawaspy)
+- [Harsh Jain](https://github.com/Harsh76200)
 - [Harshvardhan Singh Bais](https://github.com/Harshvar25)
 - [Vladimir Parfinenko one more time for conflicts](https://github.com/cypok)
 - [sane1090x](https://github.com/sane1090x)
