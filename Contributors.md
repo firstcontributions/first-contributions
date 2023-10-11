@@ -15,6 +15,7 @@ Jyothishwari GP
 - [Arjun Pandit](https://github.com/arjunpndt)
 - [Dhananjay Kajale](https://github.com/dhananjaykajale751)
 - [Yasin Günay](https://github.com/yasingunay)
+- [Gabriel Marzioli](https://github.com/gabriel073)
 - [Priyank Panchal](https://github.com/Priyank911)
 - [Surav Shrestha](https://github.com/suravshrestha)
 - [Fares Yusuf](https://github.com/Fares-Yusuf)
