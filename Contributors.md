@@ -2,6 +2,7 @@
 # Contributors
 
 -[Sudhanshu Tripathi](https://github.com/sudhanshu-77)
+- [Julian Palomino](https://github.com/Julian-Palo)
 - [Youkwhan Kim](https://github.com/Youkwhan)
 - [Om Varma ](https://github.com/omvarma31)
 - [Sandesh Pyakurel](https://github.com/Sandesh-Pyakurel)
