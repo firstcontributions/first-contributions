@@ -2577,6 +2577,7 @@ Akash Abraham
 - [Srilakshmi Ramesh](https://github.com/srilaks001)
 - [incalescence](https://github.com/incalescence)
 - [Guillermo Velázquez Falcone](https://github.com/guilleVF)
+- [SushiCharles](https://github.com/SushiCharles)
 - [Daniel Harris](https://github.com/danh686)
 - [Jonathan Adithya](https://github.com/jo-adithya)
 - [Sage Writ](https://github.com/sagewrit)
