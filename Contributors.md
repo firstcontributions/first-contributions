@@ -3602,6 +3602,7 @@ pig
 - [Wei Xi](https://github.com/weixi62961)
 - [Cypress RU](https://gist.github.com/cypressru)
 - [Xi Gui Yang](https://github.com/MrYang2016)
+- [Pradeep Lama](https://github.com/tamago01)
 
 
 
