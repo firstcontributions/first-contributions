@@ -23,6 +23,7 @@ Jyothishwari GP
 - [Vivek Kumar](https://github.com/demonvivekBoii)
 - [Krish Soni](https://github.com/krishvsoni)
 - [Moksh Agrawal](https://github.com/Moksh-10)
+- [Izuchukwu Obi](https://github.com/izustic)
 - [Pawas Pandey](https://github.com/pawaspy)
 - [Harshvardhan Singh Bais](https://github.com/Harshvar25)
 - [Vladimir Parfinenko one more time for conflicts](https://github.com/cypok)
