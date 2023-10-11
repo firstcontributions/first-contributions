@@ -1,6 +1,6 @@
 
 # Contributors
-
+- [Vinay Adatiya](https://github.com/Vinay94278)
 - [Ayush Rakesh](https://github.com/ayushrakesh)
 - [Michael Raheem](https://github.com/Raheemstan)
 Jyothishwari GP
