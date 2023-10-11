@@ -68,6 +68,7 @@ Jyothishwari GP
 - [Hamza Rehan](https://github.com/HamzaRehan4)
 - [pyxelhaze](https://github.com/pyxelhaze)
 - [Arvin Tamayosa](https://github.com/artamayosa)
+- [Trinity Pickersgill](https://github.com/TrinityPick)
 - [Devanshu Masodker](https://github.com/Devanshumasodker)
 - [GONAPCORP](https://github.com/HKABIG)
 - [Vikas Gadge](https://github.com/vikasgadge28)
