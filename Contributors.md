@@ -288,6 +288,7 @@ Jyothishwari GP
 aj
 - [Keshav Pahwa](https://github.com/keshav-pahwa/)
 - [Ved Prakash](https://github.com/Ved142)
+- [Henry Niemann](https://github.com/Chezzyboy)
 - [Kaushik Kumar Das](https://github.com/AlexWeb07)
 - [Ajay Gonepuri](https://github.com/HKABIG)
 - [Kelvin Koech](https://github.com/koechcoding)
