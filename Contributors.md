@@ -2,6 +2,7 @@
 # Contributors
 
 - [Michael Raheem](https://github.com/Raheemstan)
+Jyothishwari GP
 - [Arjun Pandit](https://github.com/arjunpndt)
 - [Priyank Panchal](https://github.com/Priyank911)
 - [Harshayu Gupte](https://github.com/Harshayu)
