@@ -248,6 +248,7 @@ aj
 - [Keshav Pahwa](https://github.com/keshav-pahwa/)
 - [Ved Prakash](https://github.com/Ved142)
 - [Kaushik Kumar Das](https://github.com/AlexWeb07)
+- [Ajay Gonepuri](https://github.com/HKABIG)
 - [Kelvin Koech](https://github.com/koechcoding)
 - [Omar Ihab](https://github.com/omarihab99)
 - [Kalim Amal](https://github.com/AMALK319)
