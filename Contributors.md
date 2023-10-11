@@ -1,6 +1,6 @@
 
 # Contributors
-
+-[Yash Ruhil](https://github.com/YA5H5555)
 -[Sudhanshu Tripathi](https://github.com/sudhanshu-77)
 - [Youkwhan Kim](https://github.com/Youkwhan)
 - [Om Varma ](https://github.com/omvarma31)
