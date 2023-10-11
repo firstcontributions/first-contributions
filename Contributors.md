@@ -263,6 +263,7 @@
 - [Gaurav Deep](https://github.com/GAURAV-DEEP01)
 - [Manoah Luka](https://github.com/manoahLinks)
 - [Vivek Ranjan Saho](https://github.com/vivekranjansahoo)
+- [Wei](https://github.com/sunnie6)
 - [Deepak Thorat]
 - [Samuel Ribeiro de Souza](https://github.com/samuelsouzzza)
 - [Alvaro Lucas]
