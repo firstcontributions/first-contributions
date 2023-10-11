@@ -9,10 +9,10 @@
 - [kumar harshit](https://github.com/Mehaksharma6)
 - [Ayush Rakesh](https://github.com/ayushrakesh)
 - [Michael Raheem](https://github.com/Raheemstan)
-- [Sahil Chandna](https://github.com/sahilchandna60)
 Jyothishwari GP
 - [Parikshit Adhikari](https://github.com/parikshitadhikari)
 - [Arjun Pandit](https://github.com/arjunpndt)
+- [Sahil Chandna](https://github.com/sahilchandna60)
 - [Dhananjay Kajale](https://github.com/dhananjaykajale751)
 - [Yasin Günay](https://github.com/yasingunay)
 - [Priyank Panchal](https://github.com/Priyank911)
