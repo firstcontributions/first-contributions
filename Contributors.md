@@ -21,6 +21,7 @@ Jyothishwari GP
 - [Krish Soni](https://github.com/krishvsoni)
 - [Moksh Agrawal](https://github.com/Moksh-10)
 - [Pawas Pandey](https://github.com/pawaspy)
+- [Harshvardhan Singh Bais](https://github.com/Harshvar25)
 - [sane1090x](https://github.com/sane1090x)
 - [Danushka Sehan](https://github.com/DanushkaSehan)
 - [VCL](https://github.com/vclong2003/first-contributions.git)
