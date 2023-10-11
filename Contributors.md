@@ -1,16 +1,22 @@
 
 # Contributors
 
+-[Sudhanshu Tripathi](https://github.com/sudhanshu-77)
+- [Sandesh Pyakurel](https://github.com/Sandesh-Pyakurel)
+- [Anuj Kumar Singh](https://github.com/dev-anuj007)
 - [Ayush Rakesh](https://github.com/ayushrakesh)
 - [Michael Raheem](https://github.com/Raheemstan)
 Jyothishwari GP
+- [Parikshit Adhikari](https://github.com/parikshitadhikari)
 - [Arjun Pandit](https://github.com/arjunpndt)
 - [Dhananjay Kajale](https://github.com/dhananjaykajale751)
 - [Yasin Günay](https://github.com/yasingunay)
 - [Priyank Panchal](https://github.com/Priyank911)
+- [Surav Shrestha](https://github.com/suravshrestha)
 - [Fares Yusuf](https://github.com/Fares-Yusuf)
 - [Harshayu Gupte](https://github.com/Harshayu)
 - [Amit Vaghela](https://github.com/Amitkumar-Vaghela)
+- [Shiv Sagar](https://github.com/shivsagar002)
 - [Queenie Lee](https://github.com/queenie-lee)
 - [Salar Loran Telo](https://github.com/SalarTelo)
 - [Anabi Asah](https://github.com/prof-anabi)
@@ -23,9 +29,11 @@ Jyothishwari GP
 - [Deepanshu](https://github.com/creator0131)
 - [Vivek Kumar](https://github.com/demonvivekBoii)
 - [Krish Soni](https://github.com/krishvsoni)
+- [Lolu Bolarinwa](https://github.com/LoluBolarinwa)
 - [Moksh Agrawal](https://github.com/Moksh-10)
 - [Izuchukwu Obi](https://github.com/izustic)
 - [Pawas Pandey](https://github.com/pawaspy)
+- [Harsh Jain](https://github.com/Harsh76200)
 - [Harshvardhan Singh Bais](https://github.com/Harshvar25)
 - [Vladimir Parfinenko one more time for conflicts](https://github.com/cypok)
 - [sane1090x](https://github.com/sane1090x)
@@ -39,6 +47,7 @@ Jyothishwari GP
 - [Awonuga Oluwapelumi](https://github.com/Dunni0)
 - [Vraj Patel](https://github.com/VrajPatel7)
 - [Jash Parikh](https://github.com/Jash7447)
+- [Suresh Patel](https://github.com/sureshp820)
 - [Ahmed Rabea](https://github.com/Alpattex)
 - [Shubham Kumar][https://github.com/shubham13k]
 - [kumar antanu](https://github.com/Antanukumar)
@@ -192,6 +201,7 @@ Jyothishwari GP
 - [JW] 
 - [Abhishek Mohan](https://github.com/AbhishekMohanKr)
 - [Seth Shoemaker] (https://github.com/SethShoemaker)
+- [Emily Good] (https://github.com/Egood55)
 - [Kazi S. Ahmed](https://github.com/kahmed-stack)
 - [Blake Herbert] (https://github.com/Blake-Herbert)
   [Liam Bruhin](https://github.com/Duntron1000)
@@ -290,8 +300,10 @@ aj
 - [Sandra Yee]
 - [Dhananjay Kajale](https://github.com/dhananjaykajale751)
 - [Jannat Khan](https://github.com/JannatKhan1)
+- [Pooja Hiremath](https://github.com/scriptsherlock)
 - [Sky Deng](https://github.com/skydonline)
 - [Sirpi Yugendar](https://github.com/cirpi)
+- [Abhishek](https://github.com/abhichek20)
 - [Abhay Pratap](https://github.com/AbhayPratap10)
 - [Shrijal Shrestha](https://github.com/ShrijalShrestha)
 - [Manmohan Hunjan](https://github.com/manmohanhunjan)
@@ -506,6 +518,7 @@ gulshan
 - [Mohd Rahban Ghani](https://github.com/Rahban1)
 - [Siddartha Datta](https://github.com/Stormlite12)
 - [Siphamandla Mazibuko](https://github.com/fawkesdbs)
+- [Prasad Khatake](https://github.com/hackerspider09)
 - [Deyan Sarahoshev](https://github.com/dnshouse)
 - [Ajmal Khan](https://github.com/reaperhound)
 - [Heming Huang](https://github.com/bandanana)
@@ -1272,6 +1285,7 @@ Sino Felicity Zwane
 - [Kierznowski] (https://github.com/Kierznowski)
 - [Vinay Anand Lodhi](https://github.com/VinayLodhi1712)(VinayLodhi1712)
 - [Wenricx](https://github.com/Wenricx)
+- [Mahajan Abhichek](https://github.com/abhichek20)
 - [Agnik Bakshi](https://github.com/Agnik7)
 - [Shashank Dutt](https://github.com/shashankduttmr)
 - [Rodrigo_Souza](https://github.com/rmartinsdesouza)
@@ -1321,6 +1335,7 @@ Sino Felicity Zwane
 - [Anuron Dutta](https://github.com/AnuronDutta)
 - [Joseph Lawson](https://github.com/jlaws710)
 - [Bhargav shirin Nalamati](https://github.com/bhargavshirin)
+- [Mehank](https://github.com/M3hank)
 - [Jay Cole](https://github.com/3colej20)
 - [Alexandra Pietroch] (https://github.com/sasha-cz)
 - [Keisuke Miura](https://github.com/behindthemac)
@@ -2449,6 +2464,7 @@ Nikhil R
 - [Vivian Arevalo](https://github.com/vivian-mca)
 - [Garrett Sward] (https://github.com/CozyFrog)
 - [Purnima Kumar](https://github.com/Purnima-1)
+- [Sohan Sai](https://github.com/sohansai)
 - [Jason Jia](https://github.com/jasonjiajs)
 - [Mehdi] (https://github.com/pyr33x)
 - [Dhrumi Shah](https://github.com/dhrumishah)
@@ -3618,5 +3634,7 @@ pig
 - [Pradeep Lama](https://github.com/tamago01)
 - [Senaya1](https://github.com/Rinxyc)
 - [Priyanshu Varshney](https://github.com/harshhere905)
+- [Susheel Thapa](https://github.com/SusheelThapa)
+
 
 
