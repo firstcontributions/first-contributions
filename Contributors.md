@@ -3589,13 +3589,13 @@ pig
 - [Miftahul Islam](https://github.com/miftarek)
 - [Atri Chatterjee](https://github.com/atri-chatterjee)
 - [Simon Evans](https://github.com/simonmevans)
-- [Priyanshu Varshney](https://github.com/harshhere905)
 - [Cloud Constructor](https://github.com/cloudconstructor)
 - [Zhang Wentao](https://github.com/zhangwt-cn)
 - [Yong Seok Lee](https://github.com/lysmm203)
 - [Wei Xi](https://github.com/weixi62961)
 - [Cypress RU](https://gist.github.com/cypressru)
 - [Xi Gui Yang](https://github.com/MrYang2016)
+- [Priyanshu Varshney](https://github.com/harshhere905)
 
 
 
