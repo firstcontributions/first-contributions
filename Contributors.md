@@ -166,6 +166,7 @@ Jyothishwari GP
 - [Anas Ajaanan](https://github.com/anassajaanan)
 - [PinkMoon](https://github.com/CutePinkMoon)
 - [Abdullah Ranjha](https://github.com/Abdullah-Ranjha)
+- [Slimi1](https://github.com/Slimi1)
 - [Suhiteswar](https://github.com/suhit123)
 - [Aftab Zaheer](https://github.com/aftabzaheer23)
 - [Arpan Gupta](https://github.com/gupta-arpan)
