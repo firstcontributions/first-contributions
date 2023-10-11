@@ -1,6 +1,7 @@
 
 # Contributors
 
+-[Sudhanshu Tripathi](https://github.com/sudhanshu-77)
 - [Sandesh Pyakurel](https://github.com/Sandesh-Pyakurel)
 - [Anuj Kumar Singh](https://github.com/dev-anuj007)
 - [Ayush Rakesh](https://github.com/ayushrakesh)
