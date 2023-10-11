@@ -197,6 +197,7 @@ Jyothishwari GP
 - [JW] 
 - [Abhishek Mohan](https://github.com/AbhishekMohanKr)
 - [Seth Shoemaker] (https://github.com/SethShoemaker)
+- [Emily Good] (https://github.com/Egood55)
 - [Kazi S. Ahmed](https://github.com/kahmed-stack)
 - [Blake Herbert] (https://github.com/Blake-Herbert)
   [Liam Bruhin](https://github.com/Duntron1000)
