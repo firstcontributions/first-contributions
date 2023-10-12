@@ -55,6 +55,7 @@ Jyothishwari GP
 - [Krish Soni](https://github.com/krishvsoni)
 - [Lolu Bolarinwa](https://github.com/LoluBolarinwa)
 - [Moksh Agrawal](https://github.com/Moksh-10)
+- [Pallav Rathod](https://github.com/Pallav277)
 - [Izuchukwu Obi](https://github.com/izustic)
 - [Adekoya Ireoluwatomiwa](https://github.com/koyaboy)
 - [Pawas Pandey](https://github.com/pawaspy)
