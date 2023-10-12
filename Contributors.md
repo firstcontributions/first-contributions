@@ -303,6 +303,7 @@ aj
 - [Slaven Pikija](https://github.com/spikija)
 - [Harkeerat] (https://github.com/ekeiran)
 - [Sarah Okenwa](https://github.com/sarahokenwa)
+- [Anlisha](https://github.com/anlisha)
 - [Simone Baglivi](https://github.com/sbaglivi)
 - [Nick Rogers](https://github.com/mnickrogers)
 - [Kuljot Biring](https://github.com/kuljotbiring)
