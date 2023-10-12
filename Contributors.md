@@ -2710,6 +2710,7 @@ Akash Abraham
 - [Janmey chauhan](https://github.com/janmey97)
 - [Dev Gundalia](https://github.com/20CE034)
 - [Phuong Pham](https://github.com/Jily102)
+- [Renato Cavieres](https://github.com/maoudev)
 - [Sasha Iwanczuk](https://github.com/sashaiwan)
 - [Bennett Smrdel](https://github.com/bsmrdel101)
 - [Mazhar Ansari](https://github.com/MJCoder15)
