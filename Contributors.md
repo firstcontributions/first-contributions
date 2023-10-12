@@ -125,6 +125,7 @@ Jyothishwari GP
 - [Kushal Agrawal](https://github.com/kushal34712)
 - [Cynthia Wambui](https://github.com/wanjoc)
 - [Jyotiswaroop Srivastav](https://github.com/rishuxd)
+- [Arc](https://github.com/Arcturus22/)
 - [Obtype](https://github.com/obtype)
 - [Deepanshu](https://github.com/creator0131)
 - [Pabitra Pal](https://github.com/pabitra0011)
