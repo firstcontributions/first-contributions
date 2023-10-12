@@ -84,6 +84,7 @@ Jyothishwari GP
 - [Devanshu Masodker](https://github.com/Devanshumasodker)
 - [GONAPCORP](https://github.com/HKABIG)
 - [Vikas Gadge](https://github.com/vikasgadge28)
+- [Kshitij Tiwari](https://github.com/LightSync24)
 - [Nicholas Gregg](https://github.com/asdfng)
 - [Rayed Saeed](https://github.com/Rayed14)
 - [Vivek Kumar](https://github.com/vivekBoii)
