@@ -2,6 +2,7 @@
 # Contributors
 
 - [Sohaib Boukraa](https://github.com/sohaibproject)
+- [Utkarsh Kumar](https://github.com/utkarsh1042005)
 - [Saksham Shekher](https://github.com/OshekharO)
 -[Sudhanshu Tripathi](https://github.com/sudhanshu-77)
 - [Youkwhan Kim](https://github.com/Youkwhan)
