@@ -28,6 +28,7 @@ Jyothishwari GP
 - [Surav Shrestha](https://github.com/suravshrestha)
 - [Fares Yusuf](https://github.com/Fares-Yusuf)
 - [Harshayu Gupte](https://github.com/Harshayu)
+- [Bala Sundeep Krishna Dasari](https://github.com/dsundeep)
 - [Amit Vaghela](https://github.com/Amitkumar-Vaghela)
 - [Shiv Sagar](https://github.com/shivsagar002)
 - [Queenie Lee](https://github.com/queenie-lee)
