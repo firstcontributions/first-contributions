@@ -100,6 +100,7 @@ Jyothishwari GP
 - [Yash Kothalkar](https://github.com/5eeTheaveragecoder)
 - [Wazir Shehryar Ali](https://github.com/vzirshehryar)
 - [Prathmesh Khede](https://github.com/Prathm3021)
+- [Harshal Honde](https://harshalwebfolio.netlify.app)
 - [zh chen](https://github.com/JasonC10)
 - [Utsav Bhattarai](https://github.com/utsavbhattarai007)
 - [Ash V](https://github.com/tvermaashutosh)
