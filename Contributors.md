@@ -143,6 +143,7 @@ Jyothishwari GP
 - [Humaid Ashraf](https://github.com/oldSheldon)
 - [Ahmad Hamdan](https://github.com/Hamdanl8)
 - [Muhammad Moosa](https://github.com/Moosa-123)
+- [Aashik Bharti](https://github.com/AashikBharti)
 - [Safa Khan] (https://github.com/safakhan26)
 - [Alex Abundita] (https://github.com/Abundita)
 - [Aditya Prakash Gupta](https://github.com/evadrake89)
