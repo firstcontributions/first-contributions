@@ -35,6 +35,7 @@ Jyothishwari GP
 - [Queenie Lee](https://github.com/queenie-lee)
 - [Salar Loran Telo](https://github.com/SalarTelo)
 - [Anabi Asah](https://github.com/prof-anabi)
+- [Hamza Mehmood](https://github.com/hamzamehmood67)
 - [Muhammad Zeeshan Hassan] (https://github.com/thezeeshanhassan)
 - [Biswa Baibhab Subudhi](https://github.com/biswabaibhab007)
 -[Kushal Agrawal](https://github.com/kushal34712)
