@@ -2408,6 +2408,7 @@ Nikhil R
 - [John Reiner](https://github.com/john-reiner)
 - [Abhijith M S](https://github.com/AMS003010)
 - [Abigel Asteraye](https://github.com/simplectasy)
+- [Ethan Cavanaugh](https://github.com/ethancavanaugh)
 - [Manishak798](https://github.com/Manishak798)
 - [Prakash](https://github.com/Prakash4844)
 - [Prince Jeffrey](https://github.com/JaMox2)
