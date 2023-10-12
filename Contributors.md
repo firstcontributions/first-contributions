@@ -823,6 +823,7 @@ Pizzacat
 - [Subham Mani] (https://github.com/iSubhamMani)
 - [Kurt Renzo Jalalain](https://github.com/marshmallow218)
 - [EndCoder](https://github.com/EndCod3r)
+- [Divyang](https://github.com/perseus01)
 - [Mark Bayley](https://github.com/markbayley)
 - [richard](https://github.com/RichardSima2021)
 - [bartez33a](https://github.com/bartez33a)
