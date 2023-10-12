@@ -200,6 +200,7 @@ Jyothishwari GP
 - [Aditya Garg](https://github.com/aditya7302)
 - [Shrey](https://github.com/Zhreyu)
 - [Cheezad] (https://github.com/cheezad)
+- [Vaibhav Dhotre](https://github.com/vaibhav3022)
 - [Gabrielli Oliveira](https://github.com/gabrielliosc)
 - [Sebastian Grab](https://github.com/SebastianGrab)
 - [Akrati Verma](https://github.com/blindaks)
