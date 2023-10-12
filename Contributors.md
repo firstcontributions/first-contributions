@@ -39,6 +39,7 @@ Jyothishwari GP
 - [Neha Tarey](https://github.com/nehatarey)
 - [Mahesh Suthar](https://github.com/sutharmahesh05)
 - [Deepanshu](https://github.com/creator0131)
+- [Egor Andreev](https://github.com/andreyegor)
 - [Vivek Kumar](https://github.com/demonvivekBoii)
 - [Krish Soni](https://github.com/krishvsoni)
 - [Lolu Bolarinwa](https://github.com/LoluBolarinwa)
