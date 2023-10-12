@@ -101,6 +101,7 @@ Jyothishwari GP
 - [Utsav Bhattarai](https://github.com/utsavbhattarai007)
 - [Ash V](https://github.com/tvermaashutosh)
 - [Niraj Kumar](https://github.com/nirju123)
+- [Abhishek Gupta](https://github.com/Abhishekgupta204)
 - [Chinmay Raichur](https://github.com/ChinmayR07)
 - [Harsh Jaiswal](https://github.com/harshjais369)
 - [Racheli Gimi](https://github.com/RACHELIgit)
