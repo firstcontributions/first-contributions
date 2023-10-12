@@ -32,7 +32,7 @@ Jyothishwari GP
 -[Kushal Agrawal](https://github.com/kushal34712)
 - [Luke Stump](https://github.com/LukeStump419)
 - [Kevin Jackson](https://github.com/KJJack)
-- [Dillikumar Deenadayalan] (https://github.com/Dillikumar)
+- [Dillikumar Deenadayalan](https://github.com/Dillikumar)
 - [Ajeet Raj](https://github.com/ajeetraj11)
 - [Neha Tarey](https://github.com/nehatarey)
 - [Mahesh Suthar](https://github.com/sutharmahesh05)
