@@ -424,6 +424,7 @@ aj
 - [Amy Martin](https://github.com/amy-martin)
 - [Heli Patel] (https://github.com/helip0269) 
 - [Anxious Ant](https://github.com/AnxiousAnt)
+- [Patrick Udenyi]
 - [Akshat](https://github.com/akagtag)
 - [Kenneth Weiss] (https://github.com/KennethWeiss)
 - [Muhammad Usman](https://github.com/MuhammadUsman-12)
