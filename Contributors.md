@@ -1108,6 +1108,7 @@ Sino Felicity Zwane
 - [Kimandu Ndung'u](https://github.com/DixonKimandu)
 - [Hernani Domingo](https://github.com/hernanidomingo)
 - [jdcantorna]
+- [Jonathan Cheng](https://github.com/joncheng-dev)
 - [Kyle Reising]
 - [AlpacaTechYT](https://github.com/Lagaress)
 - [Abhishek Amber][https://github.com/amberabhi]
