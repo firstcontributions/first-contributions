@@ -20,6 +20,7 @@ Jyothishwari GP
 - [SheF](https://github.com/Ns-SheF)
 - [Gabriel Marzioli](https://github.com/gabriel073)
 - [Priyank Panchal](https://github.com/Priyank911)
+-[Sohini Hazra](https://github.com/HazraSohini)
 - [Surav Shrestha](https://github.com/suravshrestha)
 - [Fares Yusuf](https://github.com/Fares-Yusuf)
 - [Harshayu Gupte](https://github.com/Harshayu)
