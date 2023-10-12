@@ -11,7 +11,6 @@
 - [Ayush Rakesh](https://github.com/ayushrakesh)
 - [Michael Raheem](https://github.com/Raheemstan)
 - [Sahil Chandna](https://github.com/sahilchandna60)
-Jyothishwari GP
 - [Parikshit Adhikari](https://github.com/parikshitadhikari)
 - [Arjun Pandit](https://github.com/arjunpndt)
 - [Dhananjay Kajale](https://github.com/dhananjaykajale751)
