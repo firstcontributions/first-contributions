@@ -457,6 +457,7 @@ aj
 - [Diwash Bhattarai](https://github.com/diwashbhattarai999)
 - [Yash Mishra](https://github.com/YashMishra0101)
 - [Kirby Little](https://github.com/krbylit)
+- [Albert](https://github.com/albert4)
 - [Amit Rajput](https://github.com/AmitRajput1772)
 - [Bivia Allan](https://github.com/briviamoon)
 - [Farmaan Mohamed](https://github.com/farmaanm)
