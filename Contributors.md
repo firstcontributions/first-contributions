@@ -127,6 +127,7 @@ Jyothishwari GP
 - [Haissam Bhaur] (https://github.com/haissambhaur)
 - [Himanshu Pradhan] (https://github.com/itmaybehimm)
 - [Mayuresh Dharwadkar](https://github.com/Mayureshd-18)
+- [Deepanshu](https://github.com/creator0131)
 - [Ajay Gonepuri](https://github.com/HKABIG)
 - [Gilbert Okonjo] (https://github.com/OpondoG)
 - [Ahmad Maqbool](https://github.com/amaamir124)
