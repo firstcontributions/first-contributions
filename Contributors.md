@@ -1583,6 +1583,7 @@ Nikhil R
 - [Tarik Teshome](https://github.com/tarik350)
 - [Maddineni Ramkumar](https://github.com/RamMaddineni)
 - [Vinayak Venugopal ](https://github.com/vinayakvenugopal)
+- [Jose Guerra](https://github.com/jguerrah)
 - [pistil-K](https://github.com/pistil-K)
 - [Christian Decker](https://github.com/cmdecker95)
 - [Senjith P](https://github.com/SenjithP)
