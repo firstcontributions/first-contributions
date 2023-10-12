@@ -91,6 +91,7 @@ Jyothishwari GP
 - [Vivek Kumar](https://github.com/vivekBoii)
 - [Deepanshu](https://github.com/creator0131)
 - [Zhao Yufan](https://github.com/leslie0605)
+- [Subhadip Jana](https://github.com/devilcoder01)
 - [Yash Kothalkar](https://github.com/5eeTheaveragecoder)
 - [Wazir Shehryar Ali](https://github.com/vzirshehryar)
 - [Prathmesh Khede](https://github.com/Prathm3021)
