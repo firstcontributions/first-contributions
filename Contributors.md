@@ -94,6 +94,7 @@ Jyothishwari GP
 - [ScheiSSman] (https://github.com/scheissman/)
 - [Saumya bansal](https://github.com/saumyabansal17)
 - [portis123] (https://github.com/portis123)
+- [Ritu SIngh] (https://github.com/ritu39)
 - [Armughan Noor](https://github.com/armughan-Noor)
 - [Muhammad Zain](https://github.com/zain2k-jpg)
 - [Evans Kiptoo](https://github.com/sudoevans)
