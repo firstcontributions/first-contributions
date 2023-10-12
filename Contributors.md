@@ -13,6 +13,7 @@
 - [kumar harshit](https://github.com/Mehaksharma6)
 - [Ayush Rakesh](https://github.com/ayushrakesh)
 - [Michael Raheem](https://github.com/Raheemstan)
+- [Aarón Moya](https://github.com/Aaron-Moya)
 - [Sahil Chandna](https://github.com/sahilchandna60)
 Jyothishwari GP
 - [Ricktho Sarkar](https://github.com/Ricktho1)
