@@ -8,6 +8,7 @@
 - [Youkwhan Kim](https://github.com/Youkwhan)
 - [Om Varma ](https://github.com/omvarma31)
 - [Josh Kim](https://github.com/socho1)
+- [Jordan Mills](https://github.com/JordanMills233)
 - [Sandesh Pyakurel](https://github.com/Sandesh-Pyakurel)
 - [Anuj Kumar Singh](https://github.com/dev-anuj007)
 - [kumar harshit](https://github.com/Mehaksharma6)
