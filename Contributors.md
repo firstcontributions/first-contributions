@@ -3525,6 +3525,7 @@ Akash Abraham
 - [Robert Knapek](https://github.com/steernick)
 - [Shwet Mishra](https://github.com/thecomputerfella)
 - [Nour Rajeh](https://github.com/itsnourr)
+- [Aditya Kakarla] (https://github.com/adityakakarla)
 - [Ravindra Pandey](https://github.com/ravindrap04)
 - [Darshan BS](https://github.com/bs-darshan)
 - [Rajan Paudel](https://github.com/rajan-poudel)
