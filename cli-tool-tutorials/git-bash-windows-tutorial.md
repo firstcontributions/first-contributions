@@ -35,7 +35,7 @@ Open the git bash application you just downloaded. It should look like the image
 
 <img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-terminal-1.png" alt="open git bash terminal" />
 
-Go to the folder that you want to save this project on by uisng this command
+Go to the folder that you want to save this project on by using this command
 
 `cd <folder>`
 
