@@ -377,6 +377,7 @@ aj
 - [Madhusmita Jena](https://github.com/J-Madhusmita)
 - [Akash Kumar](https://github.com/akashKumar06)
 - [Laeek Ahmed](https://github.com/LaeekAhmed)
+- [beginning-zh](https://github.com/beginning-zh)
 - [RDS](https://github.com/underthehoody)
 - [Dania Jawad] (https://github.com/Djawad02)
 -[sukriti rai](https://github.com/Sukriti-Rai)
