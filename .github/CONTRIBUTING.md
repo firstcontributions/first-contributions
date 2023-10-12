@@ -30,7 +30,7 @@ If you're making changes to a translation, please request a review from our prev
 | Français | [French](../translations/README.fr.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/13402464?s=460&v=4" alt="@LePetitRenard" />](https://github.com/LePetitRenard) |
 | ქართული | [Georgian](../translations/README.ka.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/9116447?s=460&v=4" alt="@iko1133" />](https://github.com/iko1133) |
 | Galego | [Galician](../translations/README.gl.md) | [<img width="100" src="https://avatars1.githubusercontent.com/u/16878891?s=460&v=4" alt="@siderio2" />](https://github.com/siderio2) |
-| Greek | [Greek](../translations/README.gr.md) | []() |
+| Greek | [Greek](../translations/README.gr.md) |  [<img width="100" src="https://avatars.githubusercontent.com/u/63111742?v=4" alt="@adreaskar" />](https://github.com/adreaskar)   [<img width="100" src="https://avatars.githubusercontent.com/u/19299306?v=4" alt="@porfanid" />](https://github.com/porfanid)  |
 | Gujarati | [Gujarati](../translations/README.guj.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/38134283?s=460&v=4" alt="@smitgajjar" />](https://github.com/smitgajjar) |
 | Hausa | [Hausa](../translations/README.ha.md) | []() |
 | עברית | [Hebrew](../translations/README.hb.md) | [<img width="100" src="https://avatars1.githubusercontent.com/u/23402988?s=460&v=4" alt="@TomerPacific" />](https://github.com/TomerPacific) |

@@ -4,45 +4,42 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# Primeras contribuciones
+# Primeras Contribuciones
 
-Siempre resulta difícil la primera vez que haces algo. Principalmente cuando colaboras con otros, ya que cometer errores no es agradable. Es por ello que, queremos hacer más sencilla la forma en la que los nuevos contribuyentes de _open source_ aprenden y contribuyen por primera vez.
+Este proyecto tiene como objetivo simplificar y guiar la forma en que los principiantes hacen su primera contribución. Si está buscando hacer su primera contribución, siga los pasos a continuación.
 
-Leer artículos y ver tutoriales puede ayudar, pero ¿Qué mejor que hacer las cosas en un ambiente de prácticas? Este proyecto se enfoca en guiar y en simplificar la forma en la que los principiantes hacen su primera contribución. Si buscas hacer tu primera contribución, sigue los pasos que se muestran a continuación.  
 
-#### *Si no estás cómodo con la línea de comandos, [aquí hay unos tutoriales usando herramientas gráficas.](#Tutoriales-con-otras-herramientas)*
-
+#### *Si eres un neófit@ con la linea de comandos, [](#Tutoriales-usando-otras-herramientas)*
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork de este repositorio" />
 
-Si no tienes git en tu equipo, aquí las instrucciones para instalarlo en el [enlace]( https://help.github.com/articles/set-up-git/ )
+En caso de no tener instalado Git en tu equipo, te dejo una  para [guia]( https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git) para instalarlo.
 
-## Dale Fork al repositorio
+## Has un "Fork" de este repositorio
 
-Dale "fork" a este repositorio dando clic en el botón "*Fork*" en la parte superior derecha de la página.
-Esto creará una copia de este repositorio en tu cuenta.
+Presiona el boton "fork" de este repositorio en la parte superior derecha de la página. Al hacer esto, se crea una copia de este repositorio en tu cuenta de GitHub.
 
-## Clona "Clone" el repositorio
+## Has un "Clone" del repositorio copiado
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clonar este repositorio" />
 
-Ahora clona este repositorio en tu equipo. Ve a tu cuenta de Github, y da clic en el botón "*clone or download*" y luego da clic en el ícono para *copiar*.
+Ahora clona el repositorio al que le hiciste un fork previamente, el URL del repositorio deberia estar asi `https://github.com/<tu-usuario>/first-contributions`. Entra en tu cuenta de Github, y has click en el botón `clone or download` y luego has clic en el ícono para `copy`.
 
-Abre tu consola o terminal y ejecuta el siguiente comando:
+Abre tu terminal y ejecuta el siguiente comando:
 
 ```
 git clone "la url del repositorio que copiaste"
 ```
 
-Donde "la url del repositorio que copiaste" (sin las comillas dobles) es la *url* a este repositorio (tu *fork* a este proyecto). Mira los pasos previos para obtener la *url*.
+Donde "la url del repositorio que copiaste" (sin las comillas dobles) es la *url* a este repositorio se veria algo asi `https://github.com/<tu-usuario>/first-contributions.git`(tu *fork* a este proyecto).
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copiar URL al portapapeles" />
 
 Por ejemplo:
 ```
-git clone https://github.com/usuarioGitHub/first-contributions.git
+git clone https://github.com/<tu-usuario>/first-contributions.git
 ```
-Donde `usuarioGitHub` es tu usuario de GitHub. Aquí estás copiando los contenidos del repositorio *first-contributions* en GitHub a tu equipo.
+Donde `<tu-usuario>` es tu usuario de GitHub. Con este comando estas copiando loslos contenidos del repositorio *first-contributions* de GitHub a tu equipo.
 
 ## Crea una rama (*Branch*)
 
@@ -52,18 +49,17 @@ Cambia al directorio del repositorio en tu equipo (si es que no estás ahí ya).
 cd first-contributions
 ```
 
-Ahora crea una rama (*branch*) usando el comando  `git switch`:
+Ahora crea una rama (*branch*) usando el comando  `git checkout`:
 ```
-git switch -c <añade tu nombre>
+git checkout -b <dale un nombre>
 ```
 
 Por ejemplo:
 ```
-git switch -c add-juan-perez
+git checkout -b add-julio-jaramillo
 ```
-(El nombre de la rama no tiene porqué contener la palabra *add*, pero es razonable que lo tenga porque el objetivo de esta rama es añadir tu nombre a la lista.)
 
-## Haz los cambios necesarios y guarda (*Commit*) esos cambios
+## Haz los cambios necesarios y has un "Commit" de esos cambios
 
 Abre el archivo `Contributors.md` en un editor de texto y añade tu nombre. No lo añadas ni al principio ni al final del archivo, hazlo en cualquier otro sitio. Guarda el archivo.
 
@@ -84,7 +80,7 @@ git commit -m "Add <nombre> to Contributors list"
 reemplazando `<nombre>` con tu nombre.
 
 
-## Carga (*Push*) tus cambios a GitHub
+## Haz un "Push" de tus cambios a GitHub
 
 Mandar un *push* de tus cambios usando el comando `git push`:
 ```
@@ -117,7 +113,7 @@ Ahora empieza a contribuir a otros proyectos. Hemos reunido una lista de proyect
 ### [Material adicional](../additional-material/git_workflow_scenarios/additional-material.md)
 
 
-## Tutoriales con otras herramientas
+## Tutoriales usando otras herramientas
 
 |<a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a>|<a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|<a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a>|<a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a>|
 |---|---|---|---|---|---|

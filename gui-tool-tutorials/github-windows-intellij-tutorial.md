@@ -5,7 +5,7 @@
 
 # First Contributions
 
-| <img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="40"> | IntelliJ IDEA |
+| <img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="40"> | Intellij IDEA |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
 
 
@@ -57,7 +57,7 @@ In IntelliJ IDEA, all operations with branches are performed in the Git Branches
 
 The name of the branch that is currently checked out is displayed in the Git widget in the Status bar.
 
-In the Branches popup, choose New Branch.
+In the branches popup, choose New Branch.
 
 In the dialog that opens, specify the branch name, and make sure the Checkout branch option is selected if you want to switch to that branch.
 

@@ -8,7 +8,7 @@ If two people have changed the same lines in the same file, or if one person dec
 When faced with a merge conflict, git will mark the problematic area in the file by enclosing it in “<<<<<<<< HEAD” and “>>>>>>>>>>[other branch name]”
 
 The contents after the first marker originate from your current working branch. After the angle brackets, Git tells us where (from which branch) the changes came from. A line with "=======" separates the two conflicting changes.
-Our job is now to clean up these lines: when we're done, the file should look exactly as we want it to look. It is advisable to consult the teammate who wrote the conflicting changes to decide which version should be final. It could be either on of yours - or maybe a mixture between the two.
+Our job is now to clean up these lines: when we're done, the file should look exactly as we want it to look. It is advisable to consult the teammate who wrote the conflicting changes to decide which version should be final. It could be either one of yours - or maybe a mixture between the two.
 
 e.g. :
 ```
