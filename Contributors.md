@@ -4,6 +4,7 @@
 - [Sohaib Boukraa](https://github.com/sohaibproject)
 - [AmmanChhetri] (https://github.com/AmmanChhetri)
 - [Adick Rincones] (https://github.com/AdickRincones133)
+- [Alexandra Asanache](https://github.com/digitallyalex)
 - [Utkarsh Kumar](https://github.com/utkarsh1042005)
 - [Saksham Shekher](https://github.com/OshekharO)
 - [Suraj Jha](https://github.com/PixeL-TryHard)
