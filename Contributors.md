@@ -1857,6 +1857,7 @@ Nikhil R
 - [drremo1](https://github.com/drremo1)
 - [Sri Vardhana Korada](https://github.com/srivardhanakorada)
 - [Vijay Vardhan](https://github.com/vijayvardhan6)
+- [Adriano Celestino dos Santos](https://github.com/ACSMajor)
 - [AbdulRehman Mangral](https://github.com/armangral)
 - [Presh Jindal](https://github.com/PreshJindal)
 - [Aidan Roraback](https://github.com/Meester-Moo)
