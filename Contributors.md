@@ -66,6 +66,7 @@
 - [hjalanzy] (https://github.com/hjalanzy)
 - [Vishal Kumar](https://github.com/kvishalrj)
 - [Andy James](https://github.com/ajpert)
+- [Arthur Huyghe] (https://github.com/ArthurHuyghe)
 - [Chandan Mali](https://github.com/Chandanmali)
 -[Vaibhav Nimkar](https://github.com/vaibhavpnimkar)
 - [Stephen Nwankwo](https://github.com/stenwire)
