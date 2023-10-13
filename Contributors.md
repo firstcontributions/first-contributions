@@ -17,6 +17,7 @@
 - [Om Varma ](https://github.com/omvarma31)
 - [Josh Kim](https://github.com/socho1)
 - [Cerebro](https://github.com/newman-theinnovator)
+- [Subhadeep Banerjee](https://github.com/subhadeepbanerjee2003)
 - [Shukla0404](https://github.com/Shukla0404)
 - [Jordan Mills](https://github.com/JordanMills233)
 - [Sandesh Pyakurel](https://github.com/Sandesh-Pyakurel)
@@ -1262,7 +1263,6 @@ Sino Felicity Zwane
 - [Carlos Guerrero] (https://github.com/carlosguealv)
 - [Steve Conteh] (https://github.com/steveconteh)
 - [Shubham Jain](https://github.com/shubh)
-- [Carlos Mancilla](https://github.com/charlsmn)
 - [Cindy Aspiras](https://github.com/cmfasp)
 - [aikoo7] (https://github.com/aikooo7)
 - psuurd-pauletpajo
