@@ -305,7 +305,8 @@ Jyothishwari GP
 - [Atul Rai](https://github.com/Atul72)
 - [Vidhi Sahai](https://github.com/Vidhi2604)
 - [Ritwik Das](https://github.com/devritwik)
-- [Connor Hill(https://github.com/MeruemMoniker)]
+- [Connor Hill](https://github.com/MeruemMoniker)
+- [Eugene Helland](https://github.com/Eugene-L-H)
 - [Fadel Diop](https://github.com/Fadel-Dev)
 - [Joseph B Heinz](https://github.com/jbh14)
 - [prajesh](https://github.com/prajeshElEvEn)
@@ -327,7 +328,7 @@ Jyothishwari GP
 - [Mohammad Sahil](https://github.com/mdsahilnoob)
 - [famkni](https://github.com/famkni)
 - [Kent Adrian Sato](https://github.com/adriankentsato)
-- [Christine Allay] (https://github.com/ceaupid) 
+- [Christine Allay](https://github.com/ceaupid) 
 - [Suraj Yadav](https://github.com/suraj-yadav0)
 - [Donald Nwokoro](https://github.com/donguillotine)
 - [Nweeke Kenechukwu](https://github.com/icodejsx)
