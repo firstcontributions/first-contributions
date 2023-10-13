@@ -1,6 +1,7 @@
 
 # Contributors
 
+- [Rahul Kumat](https://github.com/rahul-2327 )
 - [Olumide Micheal](https://github.com/codewithmide)
 - [João Victor Cosme Melo] (https://github.com/VictorCosme)
 - [Sohaib Boukraa](https://github.com/sohaibproject)
