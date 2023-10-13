@@ -9,6 +9,7 @@
 - [Alexandra Asanache](https://github.com/digitallyalex)
 - [Utkarsh Kumar](https://github.com/utkarsh1042005)
 - [Saksham Shekher](https://github.com/OshekharO)
+- [Sakshi Kumari](https://github.com/Sakshikumari29)
 - [Suraj Jha](https://github.com/PixeL-TryHard)
 -[Sudhanshu Tripathi](https://github.com/sudhanshu-77)
 - [Youkwhan Kim](https://github.com/Youkwhan)
