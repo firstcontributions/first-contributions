@@ -372,6 +372,7 @@ aj
 - [Vaibhav Pareek](https://github.com/vaibhavpareek515)
 - [Dineshraj Dhanapathy](https://github.com/dineshrajdhanapathyDD)
 - [Nischal Mudennavar ](https://github.com/nischalmudennavar)
+- [Israel Macaulay] (https://github.com/Macaulay-Ayomide)
 - [Sheheryar Ramzan ](https://github.com/SheheryarRamzan)
 - [Ranjeet Singh ](https://github.com/ranjeetxsingh)
 - [Mostafa Ahmed](https://github.com/mostaxd)
