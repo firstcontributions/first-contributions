@@ -233,6 +233,7 @@ Jyothishwari GP
 - [Prakhar Shankar](https://github.com/Prakhar-Shankar)
 - [Mark Thomas](https://github.com/Emtee100)
 - [Habibur Rahman]()
+- [Farutnen](https://github.com/farutnen)
 - [Aditya Garg](https://github.com/aditya7302)
 - [Shrey](https://github.com/Zhreyu)
 - [Cheezad] (https://github.com/cheezad)
