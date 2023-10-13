@@ -18,6 +18,7 @@
 - [kumar harshit](https://github.com/Mehaksharma6)
 - [Ayush Rakesh](https://github.com/ayushrakesh)
 - [Michael Raheem](https://github.com/Raheemstan)
+- [Vivek Rajpoot] (https://github.com/VivekRajpoot01)
 - [Aarón Moya](https://github.com/Aaron-Moya)
 - [Sahil Chandna](https://github.com/sahilchandna60)
 Jyothishwari GP
