@@ -1524,6 +1524,7 @@ Nikhil R
 - [Jerico Franco](https://github.com/cout05)
 - [James Yuill](https://github.com/jamesyuill)
 - [Sacré MBIKU MUKWAKANI](https://github.com/Sacre-MBIKU-WAKANE)
+- [Keita Yoda](https://github.com/keitacanada)
 - [Jatin Jindal](https://github.com/vercetti322)
 - [Purya Behzadpur](https://github.com/puryabzp)
 - [Luke DiPerna](https://github.com/luke-lite)
