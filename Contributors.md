@@ -3049,6 +3049,7 @@ Akash Abraham
 - [Rúben Alves](https://github.com/Raia17)
 - [oDqnger](https://github.com/oDqnger)
 - Jack
+- michel
 - [DingDing](https://github.com/15078010000)
 - [lillarspillars](https://github.com/lillarspillars)
 - [gunay-h](https://github.com/gunay-h)
