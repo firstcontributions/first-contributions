@@ -3,6 +3,7 @@
 
 - [Sohaib Boukraa](https://github.com/sohaibproject)
 - [Saksham Shekher](https://github.com/OshekharO)
+- [Suraj Jha](https://github.com/PixeL-TryHard)
 -[Sudhanshu Tripathi](https://github.com/sudhanshu-77)
 - [Youkwhan Kim](https://github.com/Youkwhan)
 - [Om Varma ](https://github.com/omvarma31)
