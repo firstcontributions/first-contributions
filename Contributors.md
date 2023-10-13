@@ -350,6 +350,7 @@ gulshan
 - [nvs0108](https://github.com/nvs0108)
 - [Hamzaa Shah](https://github.com/Hamjaster)
 - [anifa zafran](https://github.com/nfzfrhn)
+- [Chandanmali](https://github.com/Chandanmali)
 - [Mohd Rahban Ghani](https://github.com/Rahban1)
 - [Siphamandla Mazibuko](https://github.com/fawkesdbs)
 - [Deyan Sarahoshev](https://github.com/dnshouse)
