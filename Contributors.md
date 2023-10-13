@@ -570,14 +570,15 @@ gulshan
 - [Choloping](https://github.com/choloping)
 - [idnoman](https://github.com/idnoman)
 - [Ayush Deshmukh](https://github.com/XARTAN21)
+- [Reda Anoar CHERKAOUI](https://github.com/redacherkaoui)
 - [Antoy Nafion](https://github.com/Naf976)
 - [Pratham Purohit](https://github.com/prathammpurohit)
 - [Abhijeet --sssss](https://github.com/Zeref-XXX)
 - [Chris Lin](https://github.com/clin34)
 - [Smruti Ranjan Sahu](https://github.com/HunterX18)
 - [Ebenezer Ebuka Ifezulike](https://github.com/Ebenezer-ebu)
-[Amber](https://github.com/ars1256)
-[Anik](https://github.com/anikagarwa12)
+- [Amber](https://github.com/ars1256)
+- [Anik](https://github.com/anikagarwa12)
 - [alamin655](https://github.com/alamin655)
 - [Mohit Khedkar](https://github.com/mohitkhedkar)
 - [Deepanshu](https://github.com/creator0131)
@@ -636,7 +637,7 @@ gulshan
 - [Muhammed Ashhar](https://github.com/muhammedashharps/)
 - [Swati Kumari](https://github.com/Swati9690/first-contributions.git)
 - Jack Huynh(https://github.com/JackHuynh0610)
--[Bandana kumari](https://github.com/codewithana)
+- [Bandana kumari](https://github.com/codewithana)
 - [Gabriel M]
 - [Seth] (https://github.com/pisethTang)
 - [k-velvet-p] (https://github.com/K-velvet-P)
@@ -647,7 +648,7 @@ gulshan
 - [Nikhil Singh](https://github.com/codewithnick)
 - [Dominik Alexa](https://github.com/devdom90)
 - [Ninad Tashildar](https://github.com/ndtashildar)
--[Ayush](https://github.com/Ayush7903)
+- [Ayush](https://github.com/Ayush7903)
 - [AlpacaTech](https://github.com/Lagaress)
 - [D Vijay Vardhan Reddy](https://github.com/vijay-vardhan-reddy)
 - [Preetham P M](https://github.com/preetham-p-m)
@@ -664,7 +665,6 @@ gulshan
 - [Parth Bijpuriya](https://github.com/parth656)
 - [Tommy Shiels](https://github.com/tshiels)
 - [Jonan Puro](https://github.com/Atheke)
-- 
 - [CallumReilly] (https://github.com/calumariy)
 - [NicholeWhatcott] (https://github.com/hotmessmonster)
 - [Shreyas Rajiv](https://github.com/shreyasrajiv327)
@@ -687,8 +687,6 @@ gulshan
 - [shanmukh sai](https://github.com/shanmukh-sai2003)
 - [Lauren Miller]
 - [Zackreate](https://github.com/Zackreate)
-  [Divyansh Sharma]
-Stewbin
 - [Linet Oliech](https://github.com/QuincyOliech)
 - [ahwz84](https://github.com/hanweiz)
 - [Ali Imran](https://github.com/AquaticBlaze1)
@@ -699,7 +697,7 @@ Stewbin
 - [Manny Beras](https://github.com/mberas)
 - [Debroop Ghosh](https://github.com/debroopghosh11)
 - [Muhammed](https://github.com/LmOpe)
-[ORaies](https://github.com/ORaies)
+- [ORaies](https://github.com/ORaies)
 - [Ziqi] (https://github.com/zi7feng)
 - [Miguel Hernandez] (https://github.com/miguelhc12)
 - SOMETHING IS HERE
@@ -725,8 +723,8 @@ Stewbin
 - Radin Mirzaee
 - [Okpara Ifeanyi](https://github.com/okparaa)
 - [Michael S]
-[Nwamini Emmanuel](https://github.com/youngemmy5956)
--[Somu](https://github.com/Somu878)
+- [Nwamini Emmanuel](https://github.com/youngemmy5956)
+- [Somu](https://github.com/Somu878)
 - [Wasy](https://github.com/Wasy18)
 - [Manish Kumar](https://github.com/Manish500343)
 - [Madhushi](https://github.com/MadhushiUdeshika)
@@ -758,7 +756,7 @@ Stewbin
 - [Naveen kumar (fream)](https://github.com/0EnIgma1)
 - [Lakshan Rukantha](https://github.com/LakshanRukantha)
 - [Giovanni Canales](https://github.com/gio-puter)
--[Abhishek Bharti](https://github.com/abhishekbrt)
+- [Abhishek Bharti](https://github.com/abhishekbrt)
 - [Carlos Villermosa](https://github.com/CarlosViller)
 - [Saumitra Dubey](https://github.com/sam-punk)
 - [Mariam El-Gazzar](https://github.com/Mariam-Elgazzar)
