@@ -1,6 +1,6 @@
 
 # Contributors
-
+- [Mauricio_Muniz](https://github.com/Oiciruamz)
 - [Sohaib Boukraa](https://github.com/sohaibproject)
 - [Adick Rincones] (https://github.com/AdickRincones133)
 - [Utkarsh Kumar](https://github.com/utkarsh1042005)
