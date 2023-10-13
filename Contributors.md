@@ -27,6 +27,7 @@
 - [Michael Raheem](https://github.com/Raheemstan)
 - [Vivek Rajpoot] (https://github.com/VivekRajpoot01)
 - [Aarón Moya](https://github.com/Aaron-Moya)
+- [Taiwo Sulaimon](https://github.com/sulaimon23)
 - [Sahil Chandna](https://github.com/sahilchandna60)
 Jyothishwari GP
 - [Ricktho Sarkar](https://github.com/Ricktho1)
