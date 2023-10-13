@@ -2,6 +2,7 @@
 # Contributors
 
 - [Olumide Micheal](https://github.com/codewithmide)
+- [João Victor Cosme Melo] (https://github.com/VictorCosme)
 - [Sohaib Boukraa](https://github.com/sohaibproject)
 - [AmmanChhetri] (https://github.com/AmmanChhetri)
 - [Adick Rincones] (https://github.com/AdickRincones133)
