@@ -3750,11 +3750,6 @@ pig
 - [rodrigoDev0n](https://github.com/rodrigoDev0n)
 - [bozhidar dinev](https://github.com/BDinevv)
 - [Rohit Dadgaal](https://github.com/rohitd2103)
-
-
-
-
+- [Neil Ranada](https://github.com/Ranada)
 - [Su Zheng Hui](https://github.com/zhenghui-su)
-- 
- -[Kanishka Parmar](https://github.com/kanishka-parmar)
-
+- [Kanishka Parmar](https://github.com/kanishka-parmar)
