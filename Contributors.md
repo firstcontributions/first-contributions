@@ -19,6 +19,7 @@
 - [Josh Kim](https://github.com/socho1)
 - [Cerebro](https://github.com/newman-theinnovator)
 - [Shukla0404](https://github.com/Shukla0404)
+- [priyanshuawas](https://github.com/priyanshuawas)
 - [Jordan Mills](https://github.com/JordanMills233)
 - [Sandesh Pyakurel](https://github.com/Sandesh-Pyakurel)
 - [Rivibibu Prabashwara](https://github.com/WKRPrabashwara)
