@@ -26,6 +26,7 @@ Jyothishwari GP
 - [Ricktho Sarkar](https://github.com/Ricktho1)
 - [Luis Salamanca](https://github.com/Luissalamanca23)
 - [Parikshit Adhikari](https://github.com/parikshitadhikari)
+- [Zippy](https://github.com/123ZOKzok)
 - [Arjun Pandit](https://github.com/arjunpndt)
 - [Nate Higgers](https://github.com/hitogava)
 - [Dhananjay Kajale](https://github.com/dhananjaykajale751)
