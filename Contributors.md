@@ -284,6 +284,7 @@ Jyothishwari GP
 - [Swastik Pratik Singh](https://github.com/swastikpratik-bit)
 - [Atul Rai](https://github.com/Atul72)
 - [Vidhi Sahai](https://github.com/Vidhi2604)
+- [Ritwik Das](https://github.com/devritwik)
 - [Connor Hill(https://github.com/MeruemMoniker)]
 - [Fadel Diop](https://github.com/Fadel-Dev)
 - [Joseph B Heinz](https://github.com/jbh14)
