@@ -1262,6 +1262,7 @@ Sino Felicity Zwane
 - [Carlos Guerrero] (https://github.com/carlosguealv)
 - [Steve Conteh] (https://github.com/steveconteh)
 - [Shubham Jain](https://github.com/shubh)
+- [Carlos Mancilla](https://github.com/charlsmn)
 - [Cindy Aspiras](https://github.com/cmfasp)
 - [aikoo7] (https://github.com/aikooo7)
 - psuurd-pauletpajo
