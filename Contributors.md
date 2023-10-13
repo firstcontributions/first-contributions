@@ -1483,6 +1483,7 @@ Sino Felicity Zwane
 - [Tyler Kinkade](https://github.com/tynkd)
 - [Khairunnisa](https://github.com/khairnsaa)
 - [Chantal Chicheko](https://github.com/mademoiselle-chantal)
+- [Steve Michaele](https://github.com/smichaele)
 - [Nabina Mallik](https://github.com/nabinamallik)
 - [Abdulsalam Baruwa](https://github.com/dmystical-coder)
 - [Aditya Sagave](https://github.com/AdityaSagave)
