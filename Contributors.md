@@ -3440,6 +3440,7 @@ Akash Abraham
 - [Yigit Alpturk Durmaz](https://github.com/jturnw)
 - [Evgeny Myasnikov] (https://github.com/justatrade)
 - [NesVII] (https://github.com/NesVII)
+- [keigomichi](https://github.com/keigomichi)
 - [Noy10] (https://github.com/NOY10)
 - [Federico Menegoz] (https://github.com/FedericoMenegoz)
 - [SunGodNika]
