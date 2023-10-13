@@ -205,6 +205,7 @@ Jyothishwari GP
 - [Momanyi Brian](https://github.com/MomanyiPoet)
 - [Sanyam Jain](https://github.com/Sanyam-2026)
 - [Prakhar Jain](https://github.com/XSageOfSixPathsX)
+- [Chisom Jude](https://github.com/chisomjude)
 - [Varanasi Aditya Sai](https://github.com/fvaysh)
 [Tayyab Qaisar] (https://github.com/TayyabQ)
 - [Lewis Odero](https://github.com/levos-snr)
