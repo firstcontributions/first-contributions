@@ -68,6 +68,7 @@ Jyothishwari GP
 - [Pallav Rathod](https://github.com/Pallav277)
 - [Izuchukwu Obi](https://github.com/izustic)
 - [Adekoya Ireoluwatomiwa](https://github.com/koyaboy)
+- [Raiyaan Khan](https://github.com/raiyaan555)
 - [Pawas Pandey](https://github.com/pawaspy)
 - [Harsh Jain](https://github.com/Harsh76200)
 - [Harshvardhan Singh Bais](https://github.com/Harshvar25)
