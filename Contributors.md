@@ -13,6 +13,7 @@
 - [Lakshay Joshi](https://github.com/lakshay451)
 - [Alexandra Asanache](https://github.com/digitallyalex)
 - [Utkarsh Kumar](https://github.com/utkarsh1042005)
+- [Estefan Andres](https://github.com/EstefanAC)
 - [Saksham Shekher](https://github.com/OshekharO)
 - [Sakshi Kumari](https://github.com/Sakshikumari29)
 - [Suraj Jha](https://github.com/PixeL-TryHard)
