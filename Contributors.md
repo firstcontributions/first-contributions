@@ -268,6 +268,7 @@
 - [Riley Rabelos](https://github.com/rabelosr20)
 - [James Lucky](https://github.com/is-lucky)
 - [Matthew Lewis](https://github.com/jamespeachh)
+- [Matt Clark](https://github.com/mattclark801)
 - [faisal Rasheed](https://github.com/faisal-rasheed-lone)
 - [Sherwan Qadir](https://github.com/OogwayKP)
 - [Fatima Aamir] (https://github.com/fatima-aamir)
