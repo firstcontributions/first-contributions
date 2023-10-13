@@ -4,6 +4,7 @@
 - [Olumide Micheal](https://github.com/codewithmide)
 - [João Victor Cosme Melo] (https://github.com/VictorCosme)
 - [Sohaib Boukraa](https://github.com/sohaibproject)
+- [Jeisson Rodriguez](https://github.com/JeissonR115)
 - [AmmanChhetri] (https://github.com/AmmanChhetri)
 - [Adick Rincones] (https://github.com/AdickRincones133)
 - [Lakshay Joshi](https://github.com/lakshay451)
