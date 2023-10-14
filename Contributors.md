@@ -1155,6 +1155,7 @@ Sino Felicity Zwane
 - [William Jennings](https://github.com/JenningsWilliam)
 - [Chirag Gupta](https://github.com/chirag-9121)
 - [Ritesh Sadh](https://github.com/sadhritesh)
+- [Mohamed Rasheq A](https://github.com/Mohamedrasheq)
 - [Clara Wong](https://github.com/clarawong20)
 - [John Jomar Dimaunahan](https://github.com/DJohnJomar)
 - [Oliver Wolfson](https://github.com/owolfdev)
@@ -3780,11 +3781,6 @@ pig
 - [shaolei](https://github.com/shaolei)
 - [Mohd Hasir-(INDIA)](https://github.com/codeAndMe01)
 - [Cristian-DW](https://github.com/Cristian-DW)
-
-
-
-
 - [Su Zheng Hui](https://github.com/zhenghui-su)
-- 
- -[Kanishka Parmar](https://github.com/kanishka-parmar)
-
+- [Kanishka Parmar](https://github.com/kanishka-parmar)
+- [Praveen](https://github.com/gigatesseract)
