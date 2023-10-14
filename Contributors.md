@@ -93,6 +93,7 @@ harshal honde
 - [Egor Andreev](https://github.com/andreyegor)
 - [Vivek Kumar](https://github.com/demonvivekBoii)
 - [Krish Soni](https://github.com/krishvsoni)
+- [DanushkaSehan](https://github.com/DanushkaSehan)
 - [Lolu Bolarinwa](https://github.com/LoluBolarinwa)
 - [Moksh Agrawal](https://github.com/Moksh-10)
 - [Pallav Rathod](https://github.com/Pallav277)
@@ -104,7 +105,6 @@ harshal honde
 - [Harshvardhan Singh Bais](https://github.com/Harshvar25)
 - [Vladimir Parfinenko one more time for conflicts](https://github.com/cypok)
 - [sane1090x](https://github.com/sane1090x)
-- [Danushka Sehan](https://github.com/DanushkaSehan)
 - [VCL](https://github.com/vclong2003/first-contributions.git)
 - - [Vaibhav Nimkar](vaibhavpnimkar)
 -[Pranav Singh][https://github.com/Pranavsingh431]
