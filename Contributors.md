@@ -2428,6 +2428,7 @@ Nikhil R
 - [Shantanu Mane](https://github.com/RndmCodeWorkshop)
 - chan
 - [Brady Camp](https://github.com/bradyjcamp)
+- [Manolis Anastasiou](https://github.com/manolisan)
 - [Aung Thu Zaw](https://github.com/Aung-Thu-Zaw)
 - [Gideon Balogun](https://github.com/itzgeebee)
 - [Leron Tonge](https://github.com/lerontonge)
