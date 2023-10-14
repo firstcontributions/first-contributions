@@ -5,6 +5,7 @@
 - [Deepak Sah](https://github.com/sahji92)
 - [Olumide Micheal](https://github.com/codewithmide)
 - [dogiloki] (https://github.com/dogiloki)
+- [Guillermo Guillen] (https://github.com/guillermochristopher)
 - [João Victor Cosme Melo] (https://github.com/VictorCosme)
 - [Sohaib Boukraa](https://github.com/sohaibproject)
 - [Jeisson Rodriguez](https://github.com/JeissonR115)
