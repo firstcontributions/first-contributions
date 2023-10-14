@@ -274,7 +274,8 @@ Jyothishwari GP
 - [Jie Qiu](https://github.com/Jieqstu)
   [Rickmwasofficial](https://github.com/Rickmwasofficial)
 - [Ishaan Jangid](https://github.com/Ishaanjangid)
-- [JW] 
+- [JW]
+- [nativ]
 - [Abhishek Mohan](https://github.com/AbhishekMohanKr)
 - [Seth Shoemaker] (https://github.com/SethShoemaker)
 - [Emily Good] (https://github.com/Egood55)
