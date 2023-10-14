@@ -47,6 +47,7 @@ harshal honde
 - [Ricktho Sarkar](https://github.com/Ricktho1)
 -[sunny sharma](https://github.com/sunny-11002)
 - [Luis Salamanca](https://github.com/Luissalamanca23)
+- [GoFer16](https://github.com/GoFer16)
 - [Parikshit Adhikari](https://github.com/parikshitadhikari)
 - [Zippy](https://github.com/123ZOKzok)
 - [Arjun Pandit](https://github.com/arjunpndt)
