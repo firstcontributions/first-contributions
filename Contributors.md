@@ -223,6 +223,7 @@ harshal honde
 - [Vinayak Gupta] (https://github.com/Vinayakg09)
 - [Atharva Kulkarni](https://github.com/Atharva2864)
 - [Uzair Ahmed](https://github.com/Uzair-99)
+- [Gabriel Pacheco Yáñez](https://github.com/gabi1447)
 - [Ayush Arora](https://github.com/ayusharora21003)
 - [Momanyi Brian](https://github.com/MomanyiPoet)
 - [Sanyam Jain](https://github.com/Sanyam-2026)
