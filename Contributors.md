@@ -1,6 +1,6 @@
 
 # Contributors
-
+- [Aarush Jain](https://github.com/Aarush1137/)
 - [Rahul Kumat](https://github.com/rahul-2327 )
 - [Deepak Sah](https://github.com/sahji92)
 - [Olumide Micheal](https://github.com/codewithmide)
