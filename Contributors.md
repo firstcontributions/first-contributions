@@ -1155,6 +1155,7 @@ Sino Felicity Zwane
 - [William Jennings](https://github.com/JenningsWilliam)
 - [Chirag Gupta](https://github.com/chirag-9121)
 - [Ritesh Sadh](https://github.com/sadhritesh)
+- [Mohamed Rasheq A](https://github.com/Mohamedrasheq)
 - [Clara Wong](https://github.com/clarawong20)
 - [John Jomar Dimaunahan](https://github.com/DJohnJomar)
 - [Oliver Wolfson](https://github.com/owolfdev)
