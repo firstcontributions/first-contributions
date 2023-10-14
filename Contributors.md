@@ -2495,6 +2495,7 @@ Nikhil R
 - [Luis Castillo](https://github.com/LuisCastilloKC)
 - [Destiny O&#39;Connor](https://github.com/SuperDeafveloper)
 - [Debaili Madani Samy](https://github.com/samdem-ai)
+- [Piyush Dive](https://github.com/PiyushDive)
 - [Sang D](https://github.com/untilyou58)
 - [Leo Miguel](https://github.com/LeoMiguelB)
 - [Ashley-Chen](https://github.com/ashlchen)
