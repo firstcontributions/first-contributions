@@ -2216,5 +2216,6 @@ Akash Abraham
 - [Prashant Jagtap](https://github.com/prashantjagtap2909)
 - [Yagahut] (https://github.com/yagahut)
 - [Brian Grana](https://github.com/azurerazor)
+- [Danilo Piras] (https://github.com/danilopiras)
 - [Georgios Tsakoumakis](https://github.com/GeorgeTsakoumakis)
 - [Loren Rasmussen](https://github.com/rlorenrasmussen)
