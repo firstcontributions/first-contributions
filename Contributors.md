@@ -167,6 +167,7 @@ Jyothishwari GP
 - [Pabitra Pal](https://github.com/pabitra0011)
 - [hjalanzy] (https://github.com/hjalanzy)
 - [Vishal Kumar](https://github.com/kvishalrj)
+- [Abhit kumar](https://github.com/abhit)
 - [Donald Doricent] (https://github.com/Don-Doricent)
 - [Andy James](https://github.com/ajpert)
 - [Arthur Huyghe] (https://github.com/ArthurHuyghe)
