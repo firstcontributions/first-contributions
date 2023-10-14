@@ -2605,6 +2605,7 @@ Akash Abraham
 - [Nehoray Regimov](https://github.com/nehoray669)
 - [Nurlis Kimbiletov](https://github.com/Nurlis03)
 - [Jay Knowles](https://github.com/jayrkyd)
+- [Vladimir Petrovic](https://github.com/vpetrovic01)
 - [Cole Robinson](https://github.com/Col-R)
 - [Zach Adkins](https://github.com/zaa94/)
 - [Nandana Babu](https://github.com/NanduNanduz)
