@@ -663,6 +663,7 @@ gulshan
 - [k-velvet-p] (https://github.com/K-velvet-P)
 - [Sarath Sasikala] (https://github.com/SarathVSasikala)
 - [Egai-Osowor] (https://github.com/egaiosowor)
+- [jmarsman] (https://github.com/jmarsman)
 - [Andreas Barbesgaard](https://github.com/Abarbesgaard)
 - [Tasnim Ferdous] (https://github.com/tferdous17)
 - [Nikhil Singh](https://github.com/codewithnick)
