@@ -6,6 +6,7 @@
 - [Olumide Micheal](https://github.com/codewithmide)
 - [dogiloki] (https://github.com/dogiloki)
 - [João Victor Cosme Melo] (https://github.com/VictorCosme)
+- [Kevin Thurman](https://github.com/kthurman59 )
 - [Sohaib Boukraa](https://github.com/sohaibproject)
 - [Jeisson Rodriguez](https://github.com/JeissonR115)
 - [AmmanChhetri] (https://github.com/AmmanChhetri)
