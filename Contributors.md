@@ -1,6 +1,7 @@
 
 # Contributors
 
+- [Alom Jaiswal](https://github.com/alom2407)
 - [Omar Khaium Chowdhury](https://github.com/omar-khaium )
 - [Rahul Kumat](https://github.com/rahul-2327 )
 - [Deepak Sah](https://github.com/sahji92)
