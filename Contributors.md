@@ -1435,6 +1435,7 @@ Sino Felicity Zwane
 - [Keisuke Miura](https://github.com/behindthemac)
 - [Chaitra Shree](https://github.com/Chaitra-Shree)
 - [curlylemon](https://github.com/curlylemon)
+- [controlaltnerd](https://github.com/controlaltnerd)
 - [Nulzn](https://github.com/Nulzn)
 - [Vivekanandan](https://github.com/vivek20Eng)
 - [Diego Pavan](https://github.com/CrzYEs7)
