@@ -28,9 +28,9 @@ It's the primary conduit of communication between the users and the developers. 
 You may need to get special permissions in the ticketing system, which most project leaders will be glad to give you when you say you want to help clean up the tickets.
 
 4. **Diagnose a bug**: Bugs are often poorly reported.
-Diagnosing and triaging a bug can help save the developers save time with the legwork of figuring out the specifics of the problem.
+Diagnosing and triaging a bug can help save the developers time with the legwork of figuring out the specifics of the problem.
 If a user reported, "The software doesn't work when I do X," spend some time to figure out the specifics of what goes into that problem.
-Is it repeatable? Can you create a set of steps to cause the problem repeatedly? Can you narrow down the problem, such as only happening on one browser but not another, or one distro but not another?
+Is it repeatable? Can you create a set of steps that causes the problem repeatedly? Can you narrow down the problem, such as only happening on one browser but not another, or one distro but not another?
 
 Even if you don't know what causes the problem, the effort you put into narrowing down the circumstances makes it easier for someone else to fix it.
 Whatever you discover, add it to the ticket in the bug system for all to see.
@@ -49,11 +49,10 @@ If it still exists, note that in the ticket as well and leave it open.
 Working with Code
 Programmers of all experience levels can help with the code in the project.
 Don't think that you have to be a coding genius to make real contributions to your favorite project.
-
 If your work involves modification to the code, investigate the method that the project uses for getting code from contributors.
 Each project has its own workflow, so ask about how to do it before you set out to submit code.
 
-For example, the PostgreSQL project is very rigorous in its process: Code modifications are sent in patch form to a mailing list where core developers scrutinize every aspect of the change. On the other end is a project like Parrot where it's easy to get commit privileges to the codebase. If the project uses GitHub, there may be a workflow that uses the pull request feature of GitHub. No two projects are the same.
+For example, the PostgreSQL project is very rigorous in its process: Code modifications are sent in patch form to a mailing list where core developers scrutinize every aspect of the change. On the otherhand there is a project like Parrot where it's easy to get commit privileges to the codebase. If the project uses GitHub, there may be a workflow that uses the pull request feature of GitHub. No two projects are the same.
 
 Whenever you modify code, make sure that you act as a responsible member of the community and keep your code style to match the rest of the codebase. The code you add or modify should look like the rest. You might not like the bracing style or the handling of spaces for indentation, but it's rude to submit a code change that doesn't match the existing standards. It's the same as saying "I don't like your style, and I think mine is better, so you should do it my way."
 
