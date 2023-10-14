@@ -3791,4 +3791,4 @@ pig
 - [Su Zheng Hui](https://github.com/zhenghui-su)
  -[Kanishka Parmar](https://github.com/kanishka-parmar)
  -[Harshita Gupta](https://github.com/harshita-2003)
- - [Alice Mirigo](https://github.com/alicemirigo92)
+ - [Alice G Mirigo](https://github.com/alicemirigo92)
