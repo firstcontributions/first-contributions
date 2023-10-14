@@ -20,6 +20,7 @@
 - [Alexandra Asanache](https://github.com/digitallyalex)
 - [Utkarsh Kumar](https://github.com/utkarsh1042005)
 - [Joon](https://github.com/Joon-99)
+- [Ednei Soares de Carvalho Filho](https://github.com/ednsoares)
 - [Estefan Andres](https://github.com/EstefanAC)
 - [Saksham Shekher](https://github.com/OshekharO)
 - [Sakshi Kumari](https://github.com/Sakshikumari29)
