@@ -359,6 +359,7 @@ harshal honde
 - [Kent Adrian Sato](https://github.com/adriankentsato)
 - [Christine Allay] (https://github.com/ceaupid) 
 - [Suraj Yadav](https://github.com/suraj-yadav0)
+- [Chaudhari Akshay](https://github.com/Akshaychaudhari888)
 - [Donald Nwokoro](https://github.com/donguillotine)
 - [Nweeke Kenechukwu](https://github.com/icodejsx)
 - [Ahmed Iqbal](https://github.com/codebyahmed)
