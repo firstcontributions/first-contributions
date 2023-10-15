@@ -202,6 +202,7 @@ harshal honde
 - [hjalanzy] (https://github.com/hjalanzy)
 - [Vishal Kumar](https://github.com/kvishalrj)
 - [Abhit kumar](https://github.com/abhit)
+- [Xaq Cory] (https://github.com/xaqcory)
 - [Donald Doricent] (https://github.com/Don-Doricent)
 - [Andy James](https://github.com/ajpert)
 - [Arthur Huyghe] (https://github.com/ArthurHuyghe)
