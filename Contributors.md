@@ -13,6 +13,7 @@
 - [Alejandro Ch](https://github.com/AlxChuc)
 - [Shruti Dalvi](https://github.com/dalvishruti14)
 - [Gaurav Kale](https://github.com/gauravkale263)
+- [Bratajit Das](https://github.com/Bratajit-03)
 - [Kevin Thurman](https://github.com/kthurman59 )
 - [Sohaib Boukraa](https://github.com/sohaibproject)
 - [Jeisson Rodriguez](https://github.com/JeissonR115)
