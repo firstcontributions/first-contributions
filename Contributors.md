@@ -3557,7 +3557,7 @@ Akash Abraham
 - [ju3rg4] (https://github.com/Ju3rga)
 - [Pinky Singh] (https://github.com/coder-pink)
 - [Jawmt] (https://github.com/Jawmt)
-
+-[Aarthi] (https://github.com/AarthiElango/first-contributions)
 - [chandar rathi] (https://github.com/rathichandar)
 
 
