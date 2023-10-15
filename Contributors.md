@@ -116,6 +116,7 @@ harshal honde
 - [Krish Soni](https://github.com/krishvsoni)
 - [DanushkaSehan](https://github.com/DanushkaSehan)
 - [Lolu Bolarinwa](https://github.com/LoluBolarinwa)
+- [GrantCodesIt](https://github.com/GrantCodesIt)
 - [Moksh Agrawal](https://github.com/Moksh-10)
 - [Pallav Rathod](https://github.com/Pallav277)
 - [Izuchukwu Obi](https://github.com/izustic)
