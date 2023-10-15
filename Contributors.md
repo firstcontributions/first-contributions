@@ -690,6 +690,7 @@ gulshan
 - [Egai-Osowor] (https://github.com/egaiosowor)
 - [jmarsman] (https://github.com/jmarsman)
 - [Andreas Barbesgaard](https://github.com/Abarbesgaard)
+- [Advait Rajagopalan](https://github.com/advait1601)
 - [Tasnim Ferdous] (https://github.com/tferdous17)
 - [Nikhil Singh](https://github.com/codewithnick)
 - [Dominik Alexa](https://github.com/devdom90)
