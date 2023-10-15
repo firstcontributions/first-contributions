@@ -66,6 +66,7 @@ harshal honde
 - [GoFer16](https://github.com/GoFer16)
 - [Parikshit Adhikari](https://github.com/parikshitadhikari)
 - [Zippy](https://github.com/123ZOKzok)
+[Novice](https://github.com/Novicecoder843)
 - [Arjun Pandit](https://github.com/arjunpndt)
 - [Nate Higgers](https://github.com/hitogava)
 - [Dhananjay Kajale](https://github.com/dhananjaykajale751)
