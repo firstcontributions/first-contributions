@@ -177,6 +177,7 @@ harshal honde
 - [ScheiSSman] (https://github.com/scheissman/)
 - [Saumya bansal](https://github.com/saumyabansal17)
 - [portis123] (https://github.com/portis123)
+- [Miguel Angel] (https://github.com/mamcpy)
 - [Ritu SIngh] (https://github.com/ritu39)
 - [sebasion9] (https://github.com/sebasion9)
 - [Armughan Noor](https://github.com/armughan-Noor)
