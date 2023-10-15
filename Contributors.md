@@ -9,6 +9,7 @@
 - [dogiloki] (https://github.com/dogiloki)
 - [Guillermo Guillen] (https://github.com/guillermochristopher)
 - [João Victor Cosme Melo] (https://github.com/VictorCosme)
+- [Alejandro Ch](https://github.com/AlxChuc)
 - [Kevin Thurman](https://github.com/kthurman59 )
 - [Sohaib Boukraa](https://github.com/sohaibproject)
 - [Jeisson Rodriguez](https://github.com/JeissonR115)
