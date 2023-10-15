@@ -24,6 +24,7 @@
 - [Ednei Soares de Carvalho Filho](https://github.com/ednsoares)
 - [Estefan Andres](https://github.com/EstefanAC)
 - [Saksham Shekher](https://github.com/OshekharO)
+- [Shyby Hamza] (https://github.com/Shybymh)
 - [Sakshi Kumari](https://github.com/Sakshikumari29)
 - [Suraj Jha](https://github.com/PixeL-TryHard)
 -[Sudhanshu Tripathi](https://github.com/sudhanshu-77)
