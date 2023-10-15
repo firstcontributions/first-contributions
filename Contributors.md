@@ -582,6 +582,7 @@ gulshan
   [MD SHAFI UDDIN](https://github.com/6736-shafi)
 - [Gokul](https://github.com/Gokul2003g)
 -gulshan
+-[Akshita Panigrahi](https://github.com/akshit7603)
 - [Raumdeuter_007]
 - [Liam Kandel] (https://github.com/liamkandel)
 - [Brandon Parrott](https://github.com/bparrott3)
@@ -3799,6 +3800,7 @@ pig
 - [Cristian-DW](https://github.com/Cristian-DW)
 - [Sricharan Addagatla](https://github.com/DabossCharan)
 - [Gleb Razgar] (https://github.com/ProjectGleb)
+- [Shubham Vartak](https://github.com/shubham-vartak)
 
 
 
@@ -3809,3 +3811,4 @@ pig
  -[Harshita Gupta](https://github.com/harshita-2003)
  -[Mansi Gussain](https://github.com/mansi1234567890)
  -[Sudhanshu Sharma](https://github.com/Sudhanshu-Sharma-22)
+ -[Amir Ghasemian](https://github.com/amirQuf)
