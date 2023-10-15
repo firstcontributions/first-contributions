@@ -908,6 +908,7 @@ Pizzacat
 - [Keziah Smallhorne](https://github.com/zkz63)
 - [Tyler Barlow] (https://github.com/barlowtyler96)
 - [John Sharkey](https://github.com/consistentinquiry)
+- [Shanto](https://github.com/Shanto910)
 - [Daniel Albano III] (https://github.com/danielalbano3)
 - [Jung Jin Cheol] (https://github.com/bik1111)
 - [Devendra dhare](https://github.com/devendradhare) 💲
