@@ -10,6 +10,7 @@
 - [Guillermo Guillen] (https://github.com/guillermochristopher)
 - [João Victor Cosme Melo] (https://github.com/VictorCosme)
 - [Alejandro Ch](https://github.com/AlxChuc)
+- [Gaurav Kale](https://github.com/gauravkale263)
 - [Kevin Thurman](https://github.com/kthurman59 )
 - [Sohaib Boukraa](https://github.com/sohaibproject)
 - [Jeisson Rodriguez](https://github.com/JeissonR115)
