@@ -52,6 +52,7 @@
 - [Sandesh Pyakurel](https://github.com/Sandesh-Pyakurel)
 - [Anirudh Raman](https://github.com/AnirudhRaman3277)
 - [Rivibibu Prabashwara](https://github.com/WKRPrabashwara)
+- [Tanmay Giram](https://www.linkedin.com/in/tanmay-giram/)
 - [Anuj Kumar Singh](https://github.com/dev-anuj007)
 - [kumar harshit](https://github.com/Mehaksharma6)
 - [Ayush Rakesh](https://github.com/ayushrakesh)
