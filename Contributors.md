@@ -116,6 +116,7 @@ harshal honde
 - [Harsh Jain](https://github.com/Harsh76200)
 - [Harshvardhan Singh Bais](https://github.com/Harshvar25)
 - [Vladimir Parfinenko one more time for conflicts](https://github.com/cypok)
+- [Zhukov Ivan make Home Work NSU SysPro](https://github.com/IvannnZ)
 - [sane1090x](https://github.com/sane1090x)
 - [VCL](https://github.com/vclong2003/first-contributions.git)
 - - [Vaibhav Nimkar](vaibhavpnimkar)
