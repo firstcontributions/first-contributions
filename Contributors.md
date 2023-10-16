@@ -12,6 +12,7 @@
 - [Deepak Sah](https://github.com/sahji92)
 - [Paweł Jur](https://github.com/paweljur)
 - [Olumide Micheal](https://github.com/codewithmide)
+- [Suresh](https://github.com/sureshp820)
 - [Vinayak](https://github.com/vinayak5002)
 - [Natalia Reshetnikova](https://github.com/NataliaResh)
 - [dogiloki] (https://github.com/dogiloki)
