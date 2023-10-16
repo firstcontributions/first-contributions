@@ -86,6 +86,7 @@ harshal honde
 - [Zippy](https://github.com/123ZOKzok)
 [Novice](https://github.com/Novicecoder843)
 - [Arjun Pandit](https://github.com/arjunpndt)
+- [Naman Rautella] (https://github.com/NamanRautella)
 - [Nate Higgers](https://github.com/hitogava)
 - [Dhananjay Kajale](https://github.com/dhananjaykajale751)
 - [Yasin Günay](https://github.com/yasingunay)
