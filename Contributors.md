@@ -3842,6 +3842,7 @@ pig
 - [Cristian-DW](https://github.com/Cristian-DW)
 - [Sricharan Addagatla](https://github.com/DabossCharan)
 - [Shubham Vartak](https://github.com/shubham-vartak)
+- [Adnane Benazzou](https://github.com/ABenazzou)
 - Evan H
 
 
@@ -3859,4 +3860,3 @@ pig
  -[Armaan](https://github.com/0Armaan025)
  - [Rae Liang](https://github.com/Ra3L)
  -[Ikadzev(Praize the NSU.syspro!)](https://github.com/ikadzev)
- -[Adnane Benazzou](https://github.com/ABenazzou)
