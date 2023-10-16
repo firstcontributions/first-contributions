@@ -345,6 +345,7 @@ harshal honde
 - [Arjun](https://github.com/arjunvtsuresh)
 - [2111518](https://github.com/2111518)
 - [Rostislav](https://github.com/RostyanYandexLyceumCheeeeck)
+- [Vladimir Zhakulin] (https://github.com/chronorose)
 - [Alan Nguyen](https://github.com/khangwen)
 - [Amiin Samatar](https://github.com/AmiinSamatar)
 - [Dheeraj Purohit](https://github.com/purohitdheeraj)
