@@ -318,6 +318,7 @@ harshal honde
 - [Muhammad Usman] (https://github.com/Garrissonian)
 - [Marissa Homer] (https://github.com/marissahomer)
 - [Johnny Nguyen] (https://github.com/johnny-h-nguyen)
+- [John Lundy] (https://github.com/johnlundy94)
  -[Ericode](https://github.com/Ericode254)
 - [Hamza Saeed](https://github.com/HamzaSaeed01)
 - [Sawaira Fatima](https://github.com/sawerafatima)
