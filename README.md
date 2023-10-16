@@ -213,3 +213,18 @@ Now let's get you started with contributing to other projects. We've compiled a 
     <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
   </a>
 </p>
+
+
+## License
+
+<table>
+  <tr>
+     <td>
+       <p align="center"> <img src="https://user-images.githubusercontent.com/66154908/175827109-a9f2f54a-f63e-4e07-bd83-a1f760246b56.png" width="80%"></img>
+    </td>
+    <td> 
+      <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square"/> <br> 
+This project is licensed under <a href="./LICENSE">MIT</a>. <img width=2300/>
+    </td>
+  </tr>
+</table>
