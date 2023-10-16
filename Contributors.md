@@ -63,6 +63,7 @@
 - [Rivibibu Prabashwara](https://github.com/WKRPrabashwara)
 - [Tanmay Giram](https://www.linkedin.com/in/tanmay-giram/)
 - [Anuj Kumar Singh](https://github.com/dev-anuj007)
+
 - [kumar harshit](https://github.com/Mehaksharma6)
 - [Ayush Rakesh](https://github.com/ayushrakesh)
 - [Michael Raheem](https://github.com/Raheemstan)
@@ -1497,6 +1498,7 @@ Sino Felicity Zwane
 - [Joseph Lawson](https://github.com/jlaws710)
 - [Bhargav shirin Nalamati](https://github.com/bhargavshirin)
 - [Mehank](https://github.com/M3hank)
+- [suruthi](https://github.com/suruthi806)
 - [Jay Cole](https://github.com/3colej20)
 - [Alexandra Pietroch] (https://github.com/sasha-cz)
 - [Keisuke Miura](https://github.com/behindthemac)
