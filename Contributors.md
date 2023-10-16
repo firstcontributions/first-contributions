@@ -294,6 +294,7 @@ harshal honde
 - [Arpan Gupta](https://github.com/gupta-arpan)
 - [SneakyShirtBalls](https://github.com/sneakyshirtballs)
 - [Sujeet Kumar](https://github.com/sujeet9682)
+- [amandeep singh parihar](https://github.com/amandeep-singh-parihar)
 - [Prakhar Shankar](https://github.com/Prakhar-Shankar)
 - [Mark Thomas](https://github.com/Emtee100)
 - [Habibur Rahman]()
