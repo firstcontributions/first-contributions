@@ -3365,6 +3365,7 @@ Akash Abraham
 - [Ajax](https://github.com)
 - [AnojKJayan] (https://github.com/Anojlex)
 - [Baroloker] (https://github.com/Baroloker)
+- [Pralin Khaira](https://github.com/pralinkhaira)
 - [Anuoluwapo]
 - [Harsha](https://github.com/Harsha-10)
 - [AdelSuarez](https://github.com/AdelSuarez)
