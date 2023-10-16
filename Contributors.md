@@ -2,6 +2,7 @@
 # Contributors
 
 - [Alom Jaiswal](https://github.com/alom2407)
+- [ZikaZaki](https://github.com/ZikaZaki)
 - [Omar Khaium Chowdhury](https://github.com/omar-khaium )
 - [Tardfyou] (https://github.com/Tardfyou)
 - [apowerfulmei] (https://github.com/apowerfulmei)
