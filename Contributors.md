@@ -1,41 +1,30 @@
 
 # Contributors
 
-- [Alom Jaiswal](https://github.com/alom2407)
-- [Omar Khaium Chowdhury](https://github.com/omar-khaium )
-- [Tardfyou] (https://github.com/Tardfyou)
-- [apowerfulmei] (https://github.com/apowerfulmei)
-- [Ada Okonkwo](https://github.com/Coding-doves)
-- [Rahul Kumat](https://github.com/rahul-2327 )
-- [Deepak Sah](https://github.com/sahji92)
-- [Olumide Micheal](https://github.com/codewithmide)
-- [Vinayak](https://github.com/vinayak5002)
-- [dogiloki] (https://github.com/dogiloki)
-- [Guillermo Guillen] (https://github.com/guillermochristopher)
-- [João Victor Cosme Melo] (https://github.com/VictorCosme)
-- [Alejandro Ch](https://github.com/AlxChuc)
-- [Shruti Dalvi](https://github.com/dalvishruti14)
-- [Gaurav Kale](https://github.com/gauravkale263)
-- [Bratajit Das](https://github.com/Bratajit-03)
-- [Almond, Annie](https://github.com/Annie-Almond)
-- [Kevin Thurman](https://github.com/kthurman59 )
-- [Sohaib Boukraa](https://github.com/sohaibproject)
-- [Jeisson Rodriguez](https://github.com/JeissonR115)
-- [Nikhilesh Sompura]
-- [Siddharth Warrier](https://github.com/siddwarr)
-- [Oolazile](https://github.com/Oolazile)
-- [Arunkumar N S](https://github.com/arunlorenz)
-- [AmmanChhetri] (https://github.com/AmmanChhetri)
-- [Adick Rincones] (https://github.com/AdickRincones133)
-- [Lakshay Joshi](https://github.com/lakshay451)
-- [Unnati Mishra] (https://github.com/unnati110302)
-- [Siddharth](https://github.com/sidwar007)
-- [Ayush Varshney](https://github.com/Avtech04)
-- [Alexandra Asanache](https://github.com/digitallyalex)
-- [Krishna Sreeraj](https://github.com/krishna-sreeraj-tw)
-- [Utkarsh Kumar](https://github.com/utkarsh1042005)
-  [Aditya Deshpande](https://github.com/adityadeshpande09)
-  [Shreyas Deshpande](https://github.com/Shreyas0410)
+- [Alom Jaiswal](https://github.com/alom2407) - [Omar Khaium 
+Chowdhury](https://github.com/omar-khaium ) - [Tardfyou] (https://github.com/Tardfyou) - 
+[apowerfulmei] (https://github.com/apowerfulmei) - [Ada 
+Okonkwo](https://github.com/Coding-doves) - [Rahul Kumat](https://github.com/rahul-2327 ) - 
+[Deepak Sah](https://github.com/sahji92) - [Olumide Micheal](https://github.com/codewithmide) - 
+[Vinayak](https://github.com/vinayak5002) - [dogiloki] (https://github.com/dogiloki) - 
+[Guillermo Guillen] (https://github.com/guillermochristopher) - [João Victor Cosme Melo] 
+(https://github.com/VictorCosme) - [Alejandro Ch](https://github.com/AlxChuc) - [Shruti 
+Dalvi](https://github.com/dalvishruti14) - [Gaurav Kale](https://github.com/gauravkale263) - 
+[Bratajit Das](https://github.com/Bratajit-03) - [Almond, 
+Annie](https://github.com/Annie-Almond) - [Kevin Thurman](https://github.com/kthurman59 ) - 
+[Sohaib Boukraa](https://github.com/sohaibproject) - [Jeisson 
+Rodriguez](https://github.com/JeissonR115) - [Nikhilesh Sompura] - [Siddharth 
+Warrier](https://github.com/siddwarr) - [Oolazile](https://github.com/Oolazile) - [Arunkumar N 
+S](https://github.com/arunlorenz) - [AmmanChhetri] (https://github.com/AmmanChhetri) - [Adick 
+Rincones] (https://github.com/AdickRincones133) - [Lakshay 
+Joshi](https://github.com/lakshay451) - [Unnati Mishra] (https://github.com/unnati110302) - 
+[Siddharth](https://github.com/sidwar007) - [Ayush Varshney](https://github.com/Avtech04) - 
+[Alexandra Asanache](https://github.com/digitallyalex) - [Krishna 
+Sreeraj](https://github.com/krishna-sreeraj-tw) - [Utkarsh 
+Kumar](https://github.com/utkarsh1042005) [Aditya 
+Deshpande](https://github.com/adityadeshpande09)
+ - [Shreyas Deshpande](https://github.com/Shreyas0410)
+ - [Alessio Pardini](https://github.com/alessioPardiniJob)
 - [Joon](https://github.com/Joon-99)
 - [Ednei Soares de Carvalho Filho](https://github.com/ednsoares)
 - [Estefan Andres](https://github.com/EstefanAC)
