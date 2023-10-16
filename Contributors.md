@@ -156,6 +156,7 @@ harshal honde
 - [Zharma](https://github.com/bubblegumbro)
 - [Brian Ahaneku](https://github.com/brianahaneku)
 - [Jaydip Patel](https://github.com/jaydippatel83)
+- [Ariemad] (https://github.com/ariemad)
 - [Aadithya] (https://github.com/Aadithya-J)
 - [Lurifos](https://github.com/BlueBeret)
 - [Hamza Rehan](https://github.com/HamzaRehan4)
