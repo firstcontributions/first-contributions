@@ -16,6 +16,7 @@
 - [Suresh](https://github.com/sureshp820)
 - [Vinayak](https://github.com/vinayak5002)
 - [Natalia Reshetnikova](https://github.com/NataliaResh)
+- [Arun Ravindran](https://github.com/arun-1993)
 - [dogiloki] (https://github.com/dogiloki)
 - [Guillermo Guillen] (https://github.com/guillermochristopher)
 - [João Victor Cosme Melo] (https://github.com/VictorCosme)
