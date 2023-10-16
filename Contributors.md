@@ -1654,6 +1654,7 @@ Nikhil R
 - [autom101] (https://github.com/autom101)
 - [Cwj900](https://github.com/Cwj900)
 - [Ritik](https://github.com/ritikkumar-agrawal)
+- [KeerthanaVelliyangiri](https://github.com/KeerthanaVelliyangiri)
 - [AdvaitSan](https://github.com/AdvaitSan)
 - [Lalitha Lakshmiraju](https://github.com/lalithasj)
 - [Abdelrhman Abdallah](https://github.com/abdelrhman-abdallah)
