@@ -257,6 +257,7 @@ harshal honde
 - [Ayush Arora](https://github.com/ayusharora21003)
 - [Momanyi Brian](https://github.com/MomanyiPoet)
 - [Sanyam Jain](https://github.com/Sanyam-2026)
+- [Ruhi14](https://github.com/Ruhi14/first-contributions.git)
 - [Prakhar Jain](https://github.com/XSageOfSixPathsX)
 - [Chisom Jude](https://github.com/chisomjude)
 - [Varanasi Aditya Sai](https://github.com/fvaysh)
