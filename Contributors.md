@@ -3783,6 +3783,7 @@ pig
 - [Karkina]
 - [Mahi Deshmukh](https://github.com/mohit-dhote)
 - [carry chen]
+- [Jack Swindell](https://github.com/wellatleastitried/)
 - [Mujeeb Ahmed](https://github.com/mirmujeeb9/)
 - [Zay Maung Maung Myint](https://github.com/ZayMMM/)
 - [Aizaz Ahmed](https://github.com/aizazahmed-7)
