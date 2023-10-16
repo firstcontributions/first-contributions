@@ -27,6 +27,7 @@
 - [Nikhilesh Sompura]
 - [Atharv Fakatkar](https://github.com/atharvfakatkar)
 - [Siddharth Warrier](https://github.com/siddwarr)
+- [Sujatha](https://github.com/21CSE49)
 - [Oolazile](https://github.com/Oolazile)
 - [Arunkumar N S](https://github.com/arunlorenz)
 - [AmmanChhetri] (https://github.com/AmmanChhetri)
