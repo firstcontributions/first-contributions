@@ -742,7 +742,7 @@ gulshan
 - [Tommy Shiels](https://github.com/tshiels)
 - [Jonan Puro](https://github.com/Atheke)
 - [Cristian Emanuel Campos Fuentes] (https://github.com/CristianEmanuelCamposFuentes)
-- 
+- [Alan Royce Gabriel](https://githun.com/alanroyce2010)
 - [CallumReilly] (https://github.com/calumariy)
 - [NicholeWhatcott] (https://github.com/hotmessmonster)
 - [Shreyas Rajiv](https://github.com/shreyasrajiv327)
