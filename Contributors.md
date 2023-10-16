@@ -1950,6 +1950,7 @@ Nikhil R
 - [AbdulRehman Mangral](https://github.com/armangral)
 - [Presh Jindal](https://github.com/PreshJindal)
 - [Aidan Roraback](https://github.com/Meester-Moo)
+- [Rudson Emanoel](https://github.com/RudsonE)
 - [AlbertHoxha](https://github.com/alberthoxha)
 - [Johnny]
 - [David Shonack]
