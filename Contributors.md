@@ -10,6 +10,7 @@
 - [Deepak Sah](https://github.com/sahji92)
 - [Olumide Micheal](https://github.com/codewithmide)
 - [Vinayak](https://github.com/vinayak5002)
+- [Natalia Reshetnikova](https://github.com/NataliaResh)
 - [dogiloki] (https://github.com/dogiloki)
 - [Guillermo Guillen] (https://github.com/guillermochristopher)
 - [João Victor Cosme Melo] (https://github.com/VictorCosme)
