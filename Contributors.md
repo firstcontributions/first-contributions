@@ -3,6 +3,7 @@
 
 - [Alom Jaiswal](https://github.com/alom2407)
 - [ZikaZaki](https://github.com/ZikaZaki)
+- [craigdev937](https://github.com/craigdev937)
 - [Omar Khaium Chowdhury](https://github.com/omar-khaium )
 - [Tardfyou] (https://github.com/Tardfyou)
 - [Sureshp](https://github.com/sureshp820)
