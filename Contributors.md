@@ -357,6 +357,7 @@ harshal honde
 - [Vidhi Sahai](https://github.com/Vidhi2604)
 - [Ritwik Das](https://github.com/devritwik)
 - [Connor Hill(https://github.com/MeruemMoniker)]
+- [Tim Wallace](https://github.com/tim-wallace)
 - [Fadel Diop](https://github.com/Fadel-Dev)
 - [Joseph B Heinz](https://github.com/jbh14)
 - [prajesh](https://github.com/prajeshElEvEn)
