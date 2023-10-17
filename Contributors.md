@@ -23,6 +23,7 @@
 - [Natalia Reshetnikova](https://github.com/NataliaResh)
 - [Arun Ravindran](https://github.com/arun-1993)
 - [dogiloki] (https://github.com/dogiloki)
+- [Karthikeya Somayajula] (https://github.com/RetardRento)
 - [Guillermo Guillen] (https://github.com/guillermochristopher)
 - [João Victor Cosme Melo] (https://github.com/VictorCosme)
 - [Alejandro Ch](https://github.com/AlxChuc)
