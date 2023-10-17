@@ -29,6 +29,7 @@
 - [Kevin Thurman](https://github.com/kthurman59 )
 - [Sohaib Boukraa](https://github.com/sohaibproject)
 - [Jeisson Rodriguez](https://github.com/JeissonR115)
+- [Terence Wong]
 - [Nikhilesh Sompura]
 - [Atharv Fakatkar](https://github.com/atharvfakatkar)
 - [Siddharth Warrier](https://github.com/siddwarr)
