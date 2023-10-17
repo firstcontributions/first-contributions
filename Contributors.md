@@ -1313,6 +1313,7 @@ Sino Felicity Zwane
 - [Reign Cyril De Vera] (https://github.com/reign-cyril-de-vera)
 - [Sharanabasava] (https://github.com/Sharan-14)
 - [Tanmay Agarwal](https://github.com/TanmayAgarwal123)(https://github.com/TanmayAgarwal123)
+- [Benjamín Funes] (https://github.com/Dedliiih)
 - [Sudesh Sachintha](https://github.com/Sachintha-dev)
 - [Judy Ann Flores](https://github.com/JudyAPF)
 - [Jonathan To](https://github.com/nawaji)
