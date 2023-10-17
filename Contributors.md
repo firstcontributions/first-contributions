@@ -47,6 +47,7 @@
 - [Kevin Thurman](https://github.com/kthurman59 )
 - [Sohaib Boukraa](https://github.com/sohaibproject)
 - [Jeisson Rodriguez](https://github.com/JeissonR115)
+- [Kaushik Gage](https://github.com/Kaushik080)
 - [Terence Wong]
 - [Bilal Mumtaz] (https://github.com/bilalxcode)
 - [Nikhilesh Sompura]
