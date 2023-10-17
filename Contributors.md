@@ -857,6 +857,7 @@ Stewbin
 - [John Mikko Velasquez] (https://github.com/JohnMikko27)
 - [Vinod SR] (https://github.com/VinodSRinCloud)
 - [Purv](https://github.com/Purva-2609)
+- [Kenny](https://github.com/kennyvungo)
 - [Oeta Kumara] (https://github.com/okumara)
 - [Isoken Ibizugbe](https://github.com/Junie06)
 - [maimoona-j](https://github.com/maimoona-j)
