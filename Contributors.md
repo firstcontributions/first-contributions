@@ -19,6 +19,7 @@
 - [job mbugua](https://github.com/mbugua97)
 - [RubynathanN](https://github.com/NRUBYNATHAN)
 - [ZikaZaki](https://github.com/ZikaZaki)
+- [Prateek Agrawal](https://github.com/Prateek194)
 - [Eaglesight02](https://github.com/Eaglesight02)
 - [Palatip Jantawong](https://github.com/palatipjant)
 - [craigdev937](https://github.com/craigdev937)
