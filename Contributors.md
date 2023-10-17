@@ -13,6 +13,7 @@
 - [Dedan Okware](https://github.com/SoftCysec)
 - [marshal1244]
 - [Michael Wekesa](https://github.com/wekesa360)
+- [Cyprian Kiplangat](https://github.com/mutaician)
 - [Suru](https://github.com/sureshp820)
 - [job mbugua](https://github.com/mbugua97)
 - [RubynathanN](https://github.com/NRUBYNATHAN)
