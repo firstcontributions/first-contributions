@@ -3,6 +3,7 @@
 
 - [Vidhi Jain](https://github.com/vidhijain27)
 - [Avinash S]](https://github.com/Hunter305)
+- [Vanessa Kasei](https://github.com/VanessaKasei)
 - [Alom Jaiswal](https://github.com/alom2407)
 - [Saurabh Tajane] (https://github.com/saurabh7nt)
 - [bos54rus] (https://github.com/bos54rus)
