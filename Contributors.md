@@ -544,6 +544,7 @@ nathaniel
 - [Sudip Das](https://github.com/pris01)
 - [Rasmus]
 - [Karthik](https://github.com/bvvvp009)
+- [Kerwin Washington] (https://github.com/kerwinWashington)
 - [Sudip Das] (https://github.com/pris01)
 - [Parth Pandya](https://github.com/parth305)
 - [Archit Shekhawat](https://github.com/11heathcliff11)
