@@ -3830,6 +3830,7 @@ pig
 - [Jesse Curran](https://github.com/jesse-curran)
 - [Muhammad Shayan Khan](https://github.com/shayan-2k1)
 - [Extell Farve] (https://github.com/TrashPandaRX)
+- [Sameer Khan](https://github.com/smrkhan21)
 - [Dominik Karas](https://github.com/KarasDominik)
 - [cjh1212](https://github.com/cjh1212)
 - [aclin2] (https://github.com/aclin2)
@@ -3947,5 +3948,4 @@ pig
 - [Sandip](https://github.com/sandip777-developer)
 - [Himanshi Bhardwaj](https://github.com/taemochi12)
 - [Prashant Purkar] (https://github.com/pashabhai)
-- [Sameer Khan](https://github.com/smrkhan21)
 
