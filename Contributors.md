@@ -10,6 +10,7 @@
 - [Jaganath G](https://github.com/Jagan0901)
 - [Dedan Okware](https://github.com/SoftCysec)
 - [marshal1244]
+- [Michael Wekesa](https://github.com/wekesa360)
 - [RubynathanN](https://github.com/NRUBYNATHAN)
 - [ZikaZaki](https://github.com/ZikaZaki)
 - [Eaglesight02](https://github.com/Eaglesight02)
