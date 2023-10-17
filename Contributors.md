@@ -1,14 +1,22 @@
 
 # Contributors
 
+- [Job Keter](https://github.com/CAPTAIN-JOB)
+- [Ram Tyagi](https://github.com/Ram-tyagi)  
 - [Vidhi Jain](https://github.com/vidhijain27)
 - [Avinash S]](https://github.com/Hunter305)
 - [Vanessa Kasei](https://github.com/VanessaKasei)
+- [Avinash S](https://github.com/Hunter305)
 - [Alom Jaiswal](https://github.com/alom2407)
+- [Galaxy Martian](https://github.com/GalaxyMart1an)
 - [Saurabh Tajane] (https://github.com/saurabh7nt)
 - [bos54rus] (https://github.com/bos54rus)
 - [Jaganath G](https://github.com/Jagan0901)
+- [Dedan Okware](https://github.com/SoftCysec)
 - [marshal1244]
+- [Michael Wekesa](https://github.com/wekesa360)
+- [Suru](https://github.com/sureshp820)
+- [job mbugua](https://github.com/mbugua97)
 - [RubynathanN](https://github.com/NRUBYNATHAN)
 - [ZikaZaki](https://github.com/ZikaZaki)
 - [Eaglesight02](https://github.com/Eaglesight02)
@@ -39,6 +47,7 @@
 - [Guillermo Guillen] (https://github.com/guillermochristopher)
 - [João Victor Cosme Melo] (https://github.com/VictorCosme)
 - [Alejandro Ch](https://github.com/AlxChuc)
+- [UncleRed](https://github.com/sureshp820)
 - [Shruti Dalvi](https://github.com/dalvishruti14)
 - [Gaurav Kale](https://github.com/gauravkale263)
 - [Ankoor Gorai](https://github.com/ankoorgorai)
@@ -1350,6 +1359,7 @@ Sino Felicity Zwane
 - [Vasco Ceti] (https://github.com/elperez365)
 - [Asiya](https://github.com/Asiyaa22)
 - [Naik Mubashir](https://github.com/naikmubashir)
+- [Kenjo DV] (https://github.com/kenjo09)
 [umer altaf](https://github.com/Umeraltaf786)
 - [Emerenini Cynthia Ngozi](https://github.com/cindyeme)
 - Divine Ferrer
@@ -2567,6 +2577,7 @@ Nikhil R
 - [Bryan Thompson](https://github.com/bthompson104)
 - [Rishikesh S](https://github.com/Rhilok)
 - [Moses Fawole](https://github.com/mosesfawole)
+  [Maina george](https://github.com/maina68)
 - [Paresh Mestry](https://github.com/im-pareshm)
 - [AungMyatThu](https://github.com/Aung67890)
 - [John Reiner](https://github.com/john-reiner)
