@@ -25,6 +25,7 @@
 - [Gaurav Kale](https://github.com/gauravkale263)
 - [Bratajit Das](https://github.com/Bratajit-03)
 - [Subhayu Dutta](https://github.com/subhayudutta)
+- [Avinav Chatterjee](https://github.com/AvinavCHATTERJEE2103028)
 - [Almond, Annie](https://github.com/Annie-Almond)
 - [Kevin Thurman](https://github.com/kthurman59 )
 - [Sohaib Boukraa](https://github.com/sohaibproject)
