@@ -2292,6 +2292,7 @@ Nikhil R
 - [Atakan Pars](https://github.com/AP9747)
 - [Kiran Aziz](https://github.com/kiranaziz)
 - [Ben] (https://github.com/ben-253)
+- [Chris Cowan](https://github.com/ChrisC5891)
 - [Chris Chen](https://github.com/chrisVCH)
 - [Chris Cowan](https://github.com/ChrisC5891)
 - [Jana Hafez](https://github.com/JanaHafez1)
