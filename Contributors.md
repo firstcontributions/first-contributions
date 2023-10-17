@@ -1,6 +1,6 @@
 
 # Contributors
-
+- [Karan Patel](https://github.com/karanop001018)
 - [Vidhi Jain](https://github.com/vidhijain27)
 - [Avinash S](https://github.com/Hunter305)
 - [Alom Jaiswal](https://github.com/alom2407)
@@ -8,9 +8,7 @@
 - [Saurabh Tajane] (https://github.com/saurabh7nt)
 - [bos54rus] (https://github.com/bos54rus)
 - [Jaganath G](https://github.com/Jagan0901)
-- [Dedan Okware](https://github.com/SoftCysec)
 - [marshal1244]
-- [Michael Wekesa](https://github.com/wekesa360)
 - [RubynathanN](https://github.com/NRUBYNATHAN)
 - [ZikaZaki](https://github.com/ZikaZaki)
 - [Eaglesight02](https://github.com/Eaglesight02)
