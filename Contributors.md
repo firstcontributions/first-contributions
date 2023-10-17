@@ -1,6 +1,7 @@
 
 # Contributors
 
+- [Vidhi Jain](https://github.com/vidhijain27)
 - [Alom Jaiswal](https://github.com/alom2407)
 - [ZikaZaki](https://github.com/ZikaZaki)
 - [craigdev937](https://github.com/craigdev937)
