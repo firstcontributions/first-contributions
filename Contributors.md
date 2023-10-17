@@ -3912,6 +3912,6 @@ pig
 - [Robert Amoah](https://github.com/mr-robertamoah)
 - [Philip Lee](https://github.com/Phil1999)
 - [Pratik Rai](https://github.com/pratikkumar399)
-- [Pratik Rai](https://github.com/sandip777-developer)
+- [Sandip](https://github.com/sandip777-developer)
 - [Himanshi Bhardwaj](https://github.com/taemochi12)
 
