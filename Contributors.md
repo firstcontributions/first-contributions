@@ -277,6 +277,7 @@ harshal honde
 - [Peterson Kariuki Kanyuga](https://github.com/pkanyu)
 - [Cecilia Kinyua](https://github.com/Kinyuacecilia)
 -[Tirth Nisar](https://github.com/TirthNisar193)
+-Manish Jha
 - [Shivani Palya](https://github.com/Shivanipalya26)
 - [Vinayak Gupta] (https://github.com/Vinayakg09)
 - [Atharva Kulkarni](https://github.com/Atharva2864)
