@@ -47,6 +47,7 @@
 - [Sohaib Boukraa](https://github.com/sohaibproject)
 - [Jeisson Rodriguez](https://github.com/JeissonR115)
 - [Terence Wong]
+- [Bilal Mumtaz] (https://github.com/bilalxcode)
 - [Nikhilesh Sompura]
 - [Atharv Fakatkar](https://github.com/atharvfakatkar)
 - [Siddharth Warrier](https://github.com/siddwarr)
