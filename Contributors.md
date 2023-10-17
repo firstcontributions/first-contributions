@@ -1,6 +1,6 @@
 
 # Contributors
-
+- [Layton Musyoki](https://github.com/laytonmusyoki)
 - [Vidhi Jain](https://github.com/vidhijain27)
 - [Avinash S]](https://github.com/Hunter305)
 - [Alom Jaiswal](https://github.com/alom2407)
