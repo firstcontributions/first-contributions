@@ -3557,6 +3557,7 @@ Akash Abraham
 - [Joel Hackinen](https://github.com/joelhackinen)
 - [Joey Santos] (https://github.com/Santeezy7).
 - [Affen_Herzog](https://github.com/AffenHerzog)
+- [Andrew Lazarev](https://github.com/TheAndrewLa)
 - [Joseph Parish](https://github.com/JosephParish)
 - [Eli Freid] (https://github.com/E-Freid)
 - [Brandon Kieng] (https://github.com/BrandonK182)
