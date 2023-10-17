@@ -99,6 +99,7 @@
 - [Jyothishwari GP]()
 - [Vivek Rajpoot] (https://github.com/VivekRajpoot01)
 - [Aarón Moya](https://github.com/Aaron-Moya)
+- [Harsh Surani](https://github.com/SuraniHarsh/)
 - [Taiwo Sulaimon](https://github.com/sulaimon23)
 - [Sahil Chandna](https://github.com/sahilchandna60)
 - [Tony Hoang](httops://github.com/kiiroboy)
