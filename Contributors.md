@@ -5,6 +5,7 @@
 - [Alom Jaiswal](https://github.com/alom2407)
 - [Saurabh Tajane] (https://github.com/saurabh7nt)
 - [ZikaZaki](https://github.com/ZikaZaki)
+- [Eaglesight02](https://github.com/Eaglesight02)
 - [craigdev937](https://github.com/craigdev937)
 - [Omar Khaium Chowdhury](https://github.com/omar-khaium )
 - [Tardfyou] (https://github.com/Tardfyou)
