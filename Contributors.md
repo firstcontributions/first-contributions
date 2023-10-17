@@ -1412,6 +1412,7 @@ Sino Felicity Zwane
 - PSUUC-IGappe (https://github.com/MrNewtothis)
 -psuuc-micopaliwen
 - [Isabell Luo] (https://github.com/117Isabell)
+- [Ephraim Mwereza] (https://github.com/Ephraim-blessing-mwereza)
 - [Mridul-Malakar] (https://github.com/newton1321)
 - [Aryan-Gupta]
 - [Noel Young] (git@github.com:noeljyoung)
