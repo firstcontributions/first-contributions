@@ -1,6 +1,7 @@
 
 # Contributors
 
+- [Jim Matlock] (https://github.com/jmatlock)
 - [Jordan Manus] (https://github.com/jordan-manus)
 - [Job Keter](https://github.com/CAPTAIN-JOB)
 - [Vanessa Kasei](https://github.com/VanessaKasei)
