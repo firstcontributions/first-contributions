@@ -1,6 +1,7 @@
 
 # Contributors
 
+- [Vidhi Jain](https://github.com/vidhijain27)
 - [Alom Jaiswal](https://github.com/alom2407)
 - [Omar Khaium Chowdhury](https://github.com/omar-khaium )
 - [Tardfyou] (https://github.com/Tardfyou)
