@@ -92,6 +92,7 @@
 - [Jordan Mills](https://github.com/JordanMills233)
 - [Sandesh Pyakurel](https://github.com/Sandesh-Pyakurel)
 - [Anirudh Raman](https://github.com/AnirudhRaman3277)
+- [Khamidulina Anzhelika](https://github.com/Anqeliccom)
 - [Rivibibu Prabashwara](https://github.com/WKRPrabashwara)
 - [Tanmay Giram](https://www.linkedin.com/in/tanmay-giram/)
 - [Anuj Kumar Singh](https://github.com/dev-anuj007)
