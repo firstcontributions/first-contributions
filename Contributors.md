@@ -5,6 +5,7 @@
 - [Avinash S]](https://github.com/Hunter305)
 - [Alom Jaiswal](https://github.com/alom2407)
 - [Saurabh Tajane] (https://github.com/saurabh7nt)
+- [bos54rus] (https://github.com/bos54rus)
 - [Jaganath G](https://github.com/Jagan0901)
 - [marshal1244]
 - [RubynathanN](https://github.com/NRUBYNATHAN)
