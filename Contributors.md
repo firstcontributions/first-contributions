@@ -12,6 +12,7 @@
 - [Dedan Okware](https://github.com/SoftCysec)
 - [marshal1244]
 - [Michael Wekesa](https://github.com/wekesa360)
+- [job mbugua](https://github.com/mbugua97)
 - [RubynathanN](https://github.com/NRUBYNATHAN)
 - [ZikaZaki](https://github.com/ZikaZaki)
 - [Eaglesight02](https://github.com/Eaglesight02)
