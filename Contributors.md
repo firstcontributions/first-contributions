@@ -625,6 +625,7 @@ gulshan
 - [Aditya Dhaduk] (https://github.com/Aditya2814)
 - [Sooyoung Lee](https://github.com/leesooy01)
 - [Aarone George](https://github.com/AaroneGeorge)
+- [Dhyey Shingala](https://github.com/dhyey-shingala)
 - [Adeola Ojekunle](https://github.com/adeola-code)
 - [Sandhya Kumari](https://github.com/Sandhya312)
   [Toufiqur Rahman](https://github.com/toufiq-softic)
