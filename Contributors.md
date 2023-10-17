@@ -2006,6 +2006,7 @@ Nikhil R
 - [Niranjan B.](https://github.com/niranjan-19)
 - [ZlatislavZ](https://github.com/ZlatislavZ)
 - [Jason Gratiot](https://github.com/jason-gratiot)
+- [Rafael Coias](https://github.com/rafaelcoias)
 - [Yiwen Tseng](https://github.com/gecko0127)
 - [Collin Stavinoha] (https://github.com/collinstavinoha)
 - [SolomonChidera](https://github.com/SolomonChidera)
