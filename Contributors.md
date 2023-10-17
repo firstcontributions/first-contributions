@@ -1467,6 +1467,7 @@ Sino Felicity Zwane
 - [Erik Fazio](https://github.com/erikfazio)
 - [Vrund_Raval](https://github.com/vrundraval24)
 - [Niraj Kumar](https://github.com/infinitecreator)
+- [Willy Brener](https://github.com/willy0016)
 - [prashant](https://github.com/prashant)
 - [shivhg](https://github.com/shivhg)
 - [Conor Kirby](https://gitbub.com/ckirby19)
