@@ -387,6 +387,7 @@ harshal honde
 - [Blake Herbert] (https://github.com/Blake-Herbert)
   [Liam Bruhin](https://github.com/Duntron1000)
 - [Thomas Marconi](https://github.com/thomasmarconi)
+- [Prakash Patel](https://github.com/prakashp282@gmail.com)
 - [Myint Thway Khine](https://github.com/r1d3rzz)
 - [Farquleet Farhat](https://github.com/fafnirLore)
 - [Deepanshu](https://github.com/creator0131)
