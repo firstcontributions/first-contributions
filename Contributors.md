@@ -1,6 +1,5 @@
 
 # Contributors
-
 - [Vidhi Jain](https://github.com/vidhijain27)
 - [Avinash S]](https://github.com/Hunter305)
 - [Alom Jaiswal](https://github.com/alom2407)
@@ -14,6 +13,7 @@
 - [Omar Khaium Chowdhury](https://github.com/omar-khaium )
 - [Tardfyou] (https://github.com/Tardfyou)
 - [Sureshp](https://github.com/sureshp820)
+- [Gabriel Caldas](https://github.com/GabCaldas)
 - [Paing Thet Ko](https://github.com/LordPaingThetKo)
 - [apowerfulmei] (https://github.com/apowerfulmei)
 - [aayush0508](https://github.com/Aayushchauhan05)
