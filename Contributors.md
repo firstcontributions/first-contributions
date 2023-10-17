@@ -3963,5 +3963,5 @@ pig
 
 - [Steven Childs](https://github.com/SteveWonderbelt)
 - [Bennett Hammock](https://github.com/Bhammock33)
-- [Elizabeth FItzgerald](https://github.com/Elizabeth-Fitz)
+- [Elizabeth Fitzgerald](https://github.com/Elizabeth-Fitz)
 
