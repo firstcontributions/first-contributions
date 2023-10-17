@@ -15,6 +15,7 @@
 - [Jaganath G](https://github.com/Jagan0901)
 - [Dedan Okware](https://github.com/SoftCysec)
 - [Nimit](https://github.com/Nimit)
+- [Afaq Razaq](https://github.com/xyzafaq)
 - [marshal1244]
 - [Branchtest]
 - [Jonathan Robinson](https://github.com/Jon-Robb)
