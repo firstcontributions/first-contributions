@@ -61,6 +61,7 @@
 - [Unnati Mishra] (https://github.com/unnati110302)
 - [Siddharth](https://github.com/sidwar007)
 - [Ayush Varshney](https://github.com/Avtech04)
+- [0x00zer0day](https://github.com/0x00zer0day)
   [Amit Verma](https://github.com/amitverma147)
 - [Alexandra Asanache](https://github.com/digitallyalex)
 - [Krishna Sreeraj](https://github.com/krishna-sreeraj-tw)
