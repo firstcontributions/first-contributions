@@ -1153,6 +1153,7 @@ PRAJOT
 - [dysonsphere](https://github.com/Dysonsphere42)
 - [Deepanshu](https://github.com/creator0131)
 - [Joel Gutlay](https://github.com/Livsn06)
+- [Vedant Bhasin](https://github.com/vbhasin999)
 - [JuliusArden12](https://github.com/JuliusArden12)
 - [Benz Aaron Medrano](https://github.com/Luckyyy28)
 - [Allen James Alvaro](https://github.com/AllenJalvaro)
