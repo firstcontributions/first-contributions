@@ -2289,6 +2289,7 @@ Nikhil R
 - [Kiran Aziz](https://github.com/kiranaziz)
 - [Ben] (https://github.com/ben-253)
 - [Chris Chen](https://github.com/chrisVCH)
+- [Chris Cowan](https://github.com/ChrisC5891)
 - [Jana Hafez](https://github.com/JanaHafez1)
 - [Ramil Algayev](https://github.com/EuropeanMosquito)
 - [Anjali](https://github.com/anjali-sambargi)
