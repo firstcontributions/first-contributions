@@ -1,6 +1,7 @@
 
 # Contributors
 
+- [Jordan Manus] (https://github.com/jordan-manus)
 - [Job Keter](https://github.com/CAPTAIN-JOB)
 - [Ram Tyagi](https://github.com/Ram-tyagi)  
 - [Vidhi Jain](https://github.com/vidhijain27)
