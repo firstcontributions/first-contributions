@@ -4,6 +4,7 @@
 - [Vidhi Jain](https://github.com/vidhijain27)
 - [Alom Jaiswal](https://github.com/alom2407)
 - [Saurabh Tajane] (https://github.com/saurabh7nt)
+- [Jaganath G](https://github.com/Jagan0901)
 - [ZikaZaki](https://github.com/ZikaZaki)
 - [Eaglesight02](https://github.com/Eaglesight02)
 - [craigdev937](https://github.com/craigdev937)
