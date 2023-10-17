@@ -12,6 +12,7 @@
 - [Jaganath G](https://github.com/Jagan0901)
 - [Dedan Okware](https://github.com/SoftCysec)
 - [marshal1244]
+- [Brenda Wanjiru] (https://github.com/Bree-Wanjiru)
 - [Michael Wekesa](https://github.com/wekesa360)
 - [Suru](https://github.com/sureshp820)
 - [job mbugua](https://github.com/mbugua97)
