@@ -33,6 +33,7 @@
 - [Alejandro Ch](https://github.com/AlxChuc)
 - [Shruti Dalvi](https://github.com/dalvishruti14)
 - [Gaurav Kale](https://github.com/gauravkale263)
+- [Ankoor Gorai](https://github.com/ankoorgorai)
 - [Bratajit Das](https://github.com/Bratajit-03)
 - [Subhayu Dutta](https://github.com/subhayudutta)
 - [Avinav Chatterjee](https://github.com/AvinavCHATTERJEE2103028)
