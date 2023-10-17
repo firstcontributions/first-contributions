@@ -7,6 +7,7 @@
 - [Jaganath G](https://github.com/Jagan0901)
 - [ZikaZaki](https://github.com/ZikaZaki)
 - [Eaglesight02](https://github.com/Eaglesight02)
+- [Palatip Jantawong](https://github.com/palatipjant)
 - [craigdev937](https://github.com/craigdev937)
 - [Omar Khaium Chowdhury](https://github.com/omar-khaium )
 - [Tardfyou] (https://github.com/Tardfyou)
