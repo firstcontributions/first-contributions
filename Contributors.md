@@ -2,8 +2,9 @@
 # Contributors
 
 - [Vidhi Jain](https://github.com/vidhijain27)
-- [Avinash S]](https://github.com/Hunter305)
+- [Avinash S](https://github.com/Hunter305)
 - [Alom Jaiswal](https://github.com/alom2407)
+- [Galaxy Martian](https://github.com/GalaxyMart1an)
 - [Saurabh Tajane] (https://github.com/saurabh7nt)
 - [bos54rus] (https://github.com/bos54rus)
 - [Jaganath G](https://github.com/Jagan0901)
