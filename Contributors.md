@@ -1,4 +1,3 @@
-
 # Contributors
 
 - [Vidhi Jain](https://github.com/vidhijain27)
@@ -3818,6 +3817,7 @@ pig
 - [Akrati Verma](https://github.com/blindaks)
 - [Vatsalya Vyas](https://github.com/vatsalya-vyas)
 - [Akrati Verma](https://github.com/blindaks)
+- [Marcel Petrick](https://github.com/marcelpetrick)
 - [Shivam Singh](https://github.com/Shivam250702)
 - [pwk](https://github.com/pwk50)
 - [Qasim Ali](https://github.com/MirzaQasimAli)
@@ -3913,4 +3913,4 @@ pig
 - [Philip Lee](https://github.com/Phil1999)
 - [Pratik Rai](https://github.com/pratikkumar399)
 - [Himanshi Bhardwaj](https://github.com/taemochi12)
-
+- 
