@@ -27,6 +27,7 @@
 - [Michael Wekesa](https://github.com/wekesa360)
 - [Cyprian Kiplangat](https://github.com/mutaician)
 - [Suru](https://github.com/sureshp820)
+- [Utkarsh](https://github.com/utkarsh1042005)
 - [job mbugua](https://github.com/mbugua97)
 - [RubynathanN](https://github.com/NRUBYNATHAN)
 - [ZikaZaki](https://github.com/ZikaZaki)
