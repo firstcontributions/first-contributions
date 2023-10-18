@@ -20,6 +20,7 @@
 - [Afaq Razaq](https://github.com/xyzafaq)
 - [marshal1244]
 - [Branchtest]
+- [Karan Patel](https://github.com/karanop001018)
 - [Siddarth G](https://github.com/siddarth2810)
 - [Jonathan Robinson](https://github.com/Jon-Robb)
 - [Brenda Wanjiru] (https://github.com/Bree-Wanjiru)
