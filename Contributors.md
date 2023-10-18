@@ -1,6 +1,6 @@
 
 # Contributors
-
+- [Yashika](https://github.com/y4sh1k4)  
 - [Jim Matlock] (https://github.com/jmatlock)
 - [Jordan Manus] (https://github.com/jordan-manus)
 - [Job Keter](https://github.com/CAPTAIN-JOB)
