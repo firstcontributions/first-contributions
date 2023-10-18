@@ -3150,6 +3150,7 @@ Akash Abraham
 - [Anurag Sisodiya](https://github.com/ANURAGSISODIYAA)
 - [grzegorzkoszczal](https://github.com/grzegorzkoszczal)
 - [Felicia H](https://github.com/coder02603)
+- [Ritwick Raj Makhal](https://github.com/ritwickrajmakhal)
 - [Ejaz Khan](https://github.com/ejazkhan172)
 - [donkeeman](https://github.com/donkeeman)
 - [adamsocki](https://github.com/adamsocki)
