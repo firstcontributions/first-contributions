@@ -30,6 +30,7 @@
 - [Cyprian Kiplangat](https://github.com/mutaician)
 - [Suru](https://github.com/sureshp820)
 - [Utkarsh](https://github.com/utkarsh1042005)
+- [Chandan Mishra](https://github.com/mishraachandan)
 - [job mbugua](https://github.com/mbugua97)
 - [RubynathanN](https://github.com/NRUBYNATHAN)
 - [ZikaZaki](https://github.com/ZikaZaki)
