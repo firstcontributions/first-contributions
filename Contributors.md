@@ -9,6 +9,7 @@
 - [Khushminder Singh](https://github.com/khushminder270)
 - [Vidhi Jain](https://github.com/vidhijain27)
 - [Avinash S](https://github.com/Hunter305)
+- [Saurabh hingade](https://github.com/sauravhingade)
 - [Alom Jaiswal](https://github.com/alom2407)
 - [Galaxy Martian](https://github.com/GalaxyMart1an)
 - [Saurabh Tajane] (https://github.com/saurabh7nt)
