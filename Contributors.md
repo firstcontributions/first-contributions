@@ -1,12 +1,6 @@
 
 # Contributors
-
-- [Jim Matlock] (https://github.com/jmatlock)
-- [Jordan Manus] (https://github.com/jordan-manus)
-- [Job Keter](https://github.com/CAPTAIN-JOB)
-- [Vanessa Kasei](https://github.com/VanessaKasei)
-- [Ram Tyagi](https://github.com/Ram-tyagi)
-- [Khushminder Singh](https://github.com/khushminder270)
+- [Karan Patel](https://github.com/karanop001018)
 - [Vidhi Jain](https://github.com/vidhijain27)
 - [Avinash S](https://github.com/Hunter305)
 - [Alom Jaiswal](https://github.com/alom2407)
