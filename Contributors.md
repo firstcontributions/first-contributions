@@ -2365,6 +2365,7 @@ Nikhil R
 - [Kevin](https://github.com/Aervtas)
 - [Ayush Goel](https://github.com/goelayush89)
 - [Pi HZ](https://github.com/PHZ20040126)
+- [Leo Muniz](https://github.com/leomunizq)
 - [Ayush Goel](https://github.com/PHZ20040126)
 - [Jiseeeh](https://github.com/Jiseeeh)
 - [Brady Starling](https://github.com/Swingbiter)
