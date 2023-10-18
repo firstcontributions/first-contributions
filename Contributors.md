@@ -21,6 +21,7 @@
 - [Nimit](https://github.com/Nimit)
 - [Afaq Razaq](https://github.com/xyzafaq)
 - [marshal1244]
+- [alanv73]
 - [Branchtest]
 - [Karan Patel](https://github.com/karanop001018)
 - [Siddarth G](https://github.com/siddarth2810)
@@ -254,6 +255,7 @@ harshal honde
 - [Yash Kothalkar](https://github.com/5eeTheaveragecoder)
 - [Wazir Shehryar Ali](https://github.com/vzirshehryar)
 - [Prathmesh Khede](https://github.com/Prathm3021)
+- [Esslam Ben Ramadan](https://github.com/esslamben)
 - [Harshal Honde](https://harshalwebfolio.netlify.app)
 - [zh chen](https://github.com/JasonC10)
 - [Utsav Bhattarai](https://github.com/utsavbhattarai007)
@@ -2313,6 +2315,7 @@ Nikhil R
 - [Sahil] (https://github.com/sahil8453)
 - [xfragrance](https://github.com/Xfragrance)
 - [metsu971](https://github.com/metsu971)
+- [Caleb Szajnuk] (https://github.com/cAE-Leb)
 - [MrAlessandro](https://github.com/MrAlessandro)
 - [Andrei Fabian Pop](https://github.com/Andrei-Fabian-Pop)
 - [Jesus Elizalde](https://github.com/Jesus-Elizalde)
@@ -4003,4 +4006,5 @@ pig
 - [Ogliari Natan] (https://github.com/OgliariNatan)
 - [Ny Randriantsarafara] (https://github.com/ny-randriantsarafara)
 - [Jakub Reznak](https://github.com/jakubreznak)
+- [Xorelcodes](https://github.com/xorelcodes)
 test
