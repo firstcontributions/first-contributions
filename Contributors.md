@@ -1575,6 +1575,7 @@ Sino Felicity Zwane
 - [KiranJais](https://github.com/alkrona)
 - [rustab](https://github.com/rustab)
 - [Faris Bazdar](https://github.com/Gilgameshgb-1)
+- [MinKhantZ](https://github.com/MinnKhantZ)
 - [Andy Iyer](https://github.com/aiyervenkat)
 - [formido](https://github.com/PKS-formido)
 - [Anuron Dutta](https://github.com/AnuronDutta)
