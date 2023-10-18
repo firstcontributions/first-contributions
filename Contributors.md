@@ -46,6 +46,7 @@
 - [Ada Okonkwo](https://github.com/Coding-doves)
 - [Rahul Kumat](https://github.com/rahul-2327 )
 - [Deepak Sah](https://github.com/sahji92)
+- [Sur](https://github.com/sureshp820)
 - [aayush0506](https://github.com/aayush-506)
 - [Paweł Jur](https://github.com/paweljur)
 - [Olumide Micheal](https://github.com/codewithmide)
