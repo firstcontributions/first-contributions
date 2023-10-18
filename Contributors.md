@@ -97,6 +97,7 @@
   [Amit Verma](https://github.com/amitverma147)
 - [Alexandra Asanache](https://github.com/digitallyalex)
 - [Krishna Sreeraj](https://github.com/krishna-sreeraj-tw)
+  [Arjit Agarwal](https://github.com/arjit-100)
 - [Utkarsh Kumar](https://github.com/utkarsh1042005)
   [Aditya Deshpande](https://github.com/adityadeshpande09)
   [Shreyas Deshpande](https://github.com/Shreyas0410)
