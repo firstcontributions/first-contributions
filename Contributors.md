@@ -13,6 +13,7 @@
 - [Galaxy Martian](https://github.com/GalaxyMart1an)
 - [Saurabh Tajane] (https://github.com/saurabh7nt)
 - [bos54rus] (https://github.com/bos54rus)
+- [vinay Gautam] (https://github.com/vinaygautam93)
 - [Jaganath G](https://github.com/Jagan0901)
 - [Dedan Okware](https://github.com/SoftCysec)
 - [Nimit](https://github.com/Nimit)
