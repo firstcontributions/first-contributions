@@ -3148,6 +3148,7 @@ Akash Abraham
 - [grzegorzkoszczal](https://github.com/grzegorzkoszczal)
 - [Felicia H](https://github.com/coder02603)
 - [Ritwick Raj Makhal](https://github.com/ritwickrajmakhal)
+- [Pritha Maity](https://github.com/PrithaMaity)
 - [Ejaz Khan](https://github.com/ejazkhan172)
 - [donkeeman](https://github.com/donkeeman)
 - [adamsocki](https://github.com/adamsocki)
