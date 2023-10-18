@@ -232,6 +232,7 @@ Ti Kyi Khant
 - [Sahil Ahmed](https://github.com/PirateOfAndaman)
 - [Arman Kumar] Aditya@DevsocPI]
 - [youngjun1227](https://github.com/youngjun1227)
+- [Neeraj Kumar](https://github.com/enzo33three)
 - [Preston Harms](https://github.com/R3dPnd)
 - [Tanishq Agarwal](https://github.com/Tanishq2807)
 - [Joseph Martinez](https://github.cogit switch -c add-alonzo-churchm/jsmartinez11)
