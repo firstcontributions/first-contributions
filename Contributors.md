@@ -2312,6 +2312,7 @@ Nikhil R
 - [Sahil] (https://github.com/sahil8453)
 - [xfragrance](https://github.com/Xfragrance)
 - [metsu971](https://github.com/metsu971)
+- [Caleb Szajnuk] (https://github.com/cAE-Leb)
 - [MrAlessandro](https://github.com/MrAlessandro)
 - [Andrei Fabian Pop](https://github.com/Andrei-Fabian-Pop)
 - [Jesus Elizalde](https://github.com/Jesus-Elizalde)
