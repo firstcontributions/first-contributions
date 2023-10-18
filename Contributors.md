@@ -28,6 +28,7 @@
 - [Jonathan Robinson](https://github.com/Jon-Robb)
 - [Brenda Wanjiru] (https://github.com/Bree-Wanjiru)
 - [Michael Wekesa](https://github.com/wekesa360)
+- [Brian Kimathi](https://github.com/kimathikim)
 - [Cyprian Kiplangat](https://github.com/mutaician)
 - [Suru](https://github.com/sureshp820)
 - [Utkarsh](https://github.com/utkarsh1042005)
