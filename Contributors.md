@@ -5,6 +5,7 @@
 - [Jim Matlock] (https://github.com/jmatlock)
 - [Jordan Manus] (https://github.com/jordan-manus)
 - [Job Keter](https://github.com/CAPTAIN-JOB)
+- [Abhishek Jat](https://github.com/88Abhi)
 - [Vanessa Kasei](https://github.com/VanessaKasei)
 - [Ram Tyagi](https://github.com/Ram-tyagi)
 - [Khushminder Singh](https://github.com/khushminder270)
