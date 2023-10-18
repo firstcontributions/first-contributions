@@ -185,6 +185,7 @@ harshal honde
 - [Deepanshu](https://github.com/creator0131)
 - [Egor Andreev](https://github.com/andreyegor)
 - [Vivek Kumar](https://github.com/demonvivekBoii)
+- [Jaideep Reddy](https://github.com/m0nst3rz)
 - [Krish Soni](https://github.com/krishvsoni)
 - [DanushkaSehan](https://github.com/DanushkaSehan)
 - [Lolu Bolarinwa](https://github.com/LoluBolarinwa)
