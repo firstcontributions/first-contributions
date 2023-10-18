@@ -56,6 +56,7 @@
 - [Sur](https://github.com/sureshp820)
 - [aayush0506](https://github.com/aayush-506)
 - [Paweł Jur](https://github.com/paweljur)
+- [Anastasia Parfinenko](https://github.com/AnastasiaParfinenko)
 - [Olumide Micheal](https://github.com/codewithmide)
 - [Suresh](https://github.com/sureshp820)
 - [Sk Saffi Ulla](https://github.com/saffi-786)
