@@ -66,6 +66,7 @@
 - [Almond, Annie](https://github.com/Annie-Almond)
 - [Kevin Thurman](https://github.com/kthurman59 )
 - [Sohaib Boukraa](https://github.com/sohaibproject)
+- [Aryush Gupta](https://github.com/AryushGupta)
 - [Hritik Bhattacharya](https://github.com/hritikbhattacharya)
 - [Jeisson Rodriguez](https://github.com/JeissonR115)
 - [Kaushik Gage](https://github.com/Kaushik080)
