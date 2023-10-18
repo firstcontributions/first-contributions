@@ -138,6 +138,7 @@
 - [Aarón Moya](https://github.com/Aaron-Moya)
 - [Harsh Surani](https://github.com/SuraniHarsh/)
 - [Taiwo Sulaimon](https://github.com/sulaimon23)
+- [Matyi Peter](https://github.com/matyipeter)
 - [Sahil Chandna](https://github.com/sahilchandna60)
 - [Tony Hoang](httops://github.com/kiiroboy)
 - [Matthew McRobie](https://github.com/Avalanchian)
