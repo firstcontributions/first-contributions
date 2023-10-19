@@ -987,7 +987,6 @@
 - [Oscar3334](https://github.com/Oscar3334)
 - [Hammad Umar]
 - EUGezzzzezzzz
-  [Alexey Shishkin](https://github.com/Alexey-shishkin4)
 - [Dixon Kim](https://github.com/grimm-65)
 - [Hari R](https://github.com/uusername001)
 - [vaishnavi](https://github.com/vaishnavisisodiya/first-contributions)
