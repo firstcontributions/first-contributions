@@ -6,6 +6,7 @@
 - [Jim Matlock] (https://github.com/jmatlock)
 - [Jordan Manus] (https://github.com/jordan-manus)
 - [Borrel7] (https://github.com/Borrel7)
+- [Sachin Ghatage] (https://github.com/sachinghatage)
 - [Job Keter](https://github.com/CAPTAIN-JOB)
 - [Kaleb Mikiyas](https://github.com/coder-kaleb)
 - [Abhishek Jat](https://github.com/88Abhi)
