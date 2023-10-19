@@ -49,6 +49,7 @@
 - [Brenda Wanjiru] (https://github.com/Bree-Wanjiru)
 - [Michael Wekesa](https://github.com/wekesa360)
 - [Brian Kimathi](https://github.com/kimathikim)
+- [SURESHPATEL](https://github.com/sureshp820)
 - [Cyprian Kiplangat](https://github.com/mutaician)
 - [Suru](https://github.com/sureshp820)
 - [Udar Sarkar](https://github.com/udaysarkarud)
