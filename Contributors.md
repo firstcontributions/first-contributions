@@ -4054,6 +4054,7 @@ pig
 - [Saurabh hingade](https://github.com/sauravhingade)
 - [Nitin Vendidandi](https://github.com/Learningcomputers777)
 - [Ruben Maidaniuc](https://github.com/rubanyukm)
+- [Stella Ewatomi Ladegbaye](https://github.com/LadegbayeStella)
 - [Ogliari Natan] (https://github.com/OgliariNatan)
 - [Ny Randriantsarafara] (https://github.com/ny-randriantsarafara)
 - [Jakub Reznak](https://github.com/jakubreznak)
@@ -4066,3 +4067,4 @@ test
 - [Jyezet](https://github.com/jyezet)
 - [Ronaldo Oliveira Costa](https://github.com/oliveira-ronaldo)
 - [Lahari Madhusudhan](https://github.com/lahrims)
+
