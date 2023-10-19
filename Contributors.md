@@ -3880,7 +3880,7 @@ Akash Abraham
 -[Rajesh Khadka](https://github.com/rajeshkhadka200)
 -[Mohamed Suhaib](https://github.com/SuhaibRSQSI)
 - [Ikeogu Franklin](https://github.com/realdezzy)
-- [Strange Cat](https://github.com/strangecatdev)
+- [StrangeCatDev](https://github.com/strangecatdev)
 - [Saad Saeed](https://github.com/ssaeed85)
 - [Simon Altuve](https://github.com/simonAltuve)
 - [Daniel Martinez](https://github.com/daniel22494)
