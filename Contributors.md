@@ -645,6 +645,7 @@ aj
 - [Durgeh Kumar Prajapati](https://github.com/Durgesh4993)
 - [Pandey](https://github.com/RavindraP04)
 - [Joe Palladino](https://gitub.com/Mindfulgeek)
+- [TiDev00](https://github.com/TiDev00)
 - [Himanshi Gupta](https://github.com/himanshigupta22)
 - [Pratham Dhiman](https://github.com/Pratham86)
 - [Vijay V] (https://github.com/vijayv18)
