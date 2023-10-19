@@ -317,6 +317,7 @@ harshal honde
 - [IshaanviReet] (https://github.com/IshaanviReet)
 - [Zach Gentner](https://github.com/zachgentner)
 - [Haissam Bhaur] (https://github.com/haissambhaur)
+- [Daulat Ojha] (https://github.com/daulatojha17)
 - [Himanshu Pradhan] (https://github.com/itmaybehimm)
 - [Mayuresh Dharwadkar](https://github.com/Mayureshd-18)
 - [Deepanshu](https://github.com/creator0131)
