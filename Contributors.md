@@ -4,6 +4,7 @@
 - [Noor Alam] (https://github.com/nooralamf42)
 - [Jim Matlock] (https://github.com/jmatlock)
 - [Jordan Manus] (https://github.com/jordan-manus)
+- [Borrel7] (https://github.com/Borrel7)
 - [Job Keter](https://github.com/CAPTAIN-JOB)
 - [Kaleb Mikiyas](https://github.com/coder-kaleb)
 - [Abhishek Jat](https://github.com/88Abhi)
