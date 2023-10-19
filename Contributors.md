@@ -1,6 +1,7 @@
 
 # Contributors
 
+- [Oolazile] (https://github.com/Oolazile)
 - [Noor Alam] (https://github.com/nooralamf42)
 - [Upendra](https://github.com/Upendra2003)
 - [Abhiram](https://github.com/Royal-Dragon)
