@@ -410,6 +410,7 @@ harshal honde
 - [Gabrielli Oliveira](https://github.com/gabrielliosc)
 - [Sebastian Grab](https://github.com/SebastianGrab)
 - [Akrati Verma](https://github.com/blindaks)
+- [Tobias H](https://github.com/Tobi33Ee)
 - [Muhammad Usman] (https://github.com/Garrissonian)
 - [Marissa Homer] (https://github.com/marissahomer)
 - [Johnny Nguyen] (https://github.com/johnny-h-nguyen)
