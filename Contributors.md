@@ -4,6 +4,7 @@
 
 -[Niraj](https://github.com/btrezzy)
 - [Rohan](https://github.com/RohanReddy2003)
+- [Enrico] (https://github.com/enristra)
 - [Rohan Sharma](https://github.com/RS-labhub)
 - [Oolazile] (https://github.com/Oolazile)
 - [Noor Alam] (https://github.com/nooralamf42)
