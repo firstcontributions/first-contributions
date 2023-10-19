@@ -182,6 +182,7 @@ harshal honde
 - [Fares Yusuf](https://github.com/Fares-Yusuf)
 - shankar
 - Justin White
+- Lakshit Upreti
 - [Nahueaprendizajeml](https://github.com/Nahueaprendizajeml)
 - [Harshayu Gupte](https://github.com/Harshayu)
 - [Bala Sundeep Krishna Dasari](https://github.com/dsundeep)
