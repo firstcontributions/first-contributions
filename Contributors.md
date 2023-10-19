@@ -22,6 +22,7 @@
 - [Nimit](https://github.com/Nimit)
 - [Afaq Razaq](https://github.com/xyzafaq)
 - [marshal1244]
+- [kubigor](https://github.com/kubigor)
 - [alanv73]
 - [Branchtest]
 - [Karan Patel](https://github.com/karanop001018)
