@@ -205,6 +205,7 @@ harshal honde
 - Lakshit Upreti
 - [Nahueaprendizajeml](https://github.com/Nahueaprendizajeml)
 - [Harshayu Gupte](https://github.com/Harshayu)
+- [K1bas4r0](https://github.com/K1bas4r0)
 - [Bala Sundeep Krishna Dasari](https://github.com/dsundeep)
 - [Amit Vaghela](https://github.com/Amitkumar-Vaghela)
 - [Shiv Sagar](https://github.com/shivsagar002)
