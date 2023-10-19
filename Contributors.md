@@ -1,6 +1,7 @@
 
 # Contributors
 
+-[Niraj](https://github.com/btrezzy)
 - [Rohan](https://github.com/RohanReddy2003)
 - [Oolazile] (https://github.com/Oolazile)
 - [Noor Alam] (https://github.com/nooralamf42)
