@@ -47,6 +47,7 @@
 - [Siddarth G](https://github.com/siddarth2810)
 - [Jonathan Robinson](https://github.com/Jon-Robb)
 - [Jacky Yang](https://github.com/jordles)
+- [EduGese](https://github.com/EduGese)
 - [Brenda Wanjiru] (https://github.com/Bree-Wanjiru)
 - [Michael Wekesa](https://github.com/wekesa360)
 - [Brian Kimathi](https://github.com/kimathikim)
