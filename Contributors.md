@@ -26,6 +26,7 @@
 - [Karan Patel](https://github.com/karanop001018)
 - [Siddarth G](https://github.com/siddarth2810)
 - [Jonathan Robinson](https://github.com/Jon-Robb)
+- [Jacky Yang](https://github.com/jordles)
 - [Brenda Wanjiru] (https://github.com/Bree-Wanjiru)
 - [Michael Wekesa](https://github.com/wekesa360)
 - [Brian Kimathi](https://github.com/kimathikim)
