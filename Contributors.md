@@ -34,6 +34,7 @@
 - [Brian Kimathi](https://github.com/kimathikim)
 - [Cyprian Kiplangat](https://github.com/mutaician)
 - [Suru](https://github.com/sureshp820)
+- [Udar Sarkar](https://github.com/udaysarkarud)
 - [Utkarsh](https://github.com/utkarsh1042005)
 - [Chandan Mishra](https://github.com/mishraachandan)
 - [job mbugua](https://github.com/mbugua97)
