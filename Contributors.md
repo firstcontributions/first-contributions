@@ -1432,9 +1432,10 @@ Sino Felicity Zwane
 - [Samarth-M123](https://github.com/Samarth-M123)
 - [Vasco Ceti] (https://github.com/elperez365)
 - [Asiya](https://github.com/Asiyaa22)
+- [John White] (https://github.com/jo016wh)
 - [Naik Mubashir](https://github.com/naikmubashir)
 - [Kenjo DV] (https://github.com/kenjo09)
-[umer altaf](https://github.com/Umeraltaf786)
+- [umer altaf](https://github.com/Umeraltaf786)
 - [Emerenini Cynthia Ngozi](https://github.com/cindyeme)
 - Divine Ferrer
 - EsrefcanTuran
