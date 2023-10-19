@@ -51,6 +51,7 @@
 - [Palatip Jantawong](https://github.com/palatipjant)
 - [craigdev937](https://github.com/craigdev937)
 - [Omar Khaium Chowdhury](https://github.com/omar-khaium )
+- - [Pailla Navya Preetham Reddy](https://github.com/daemonvk18)
 - [Tardfyou] (https://github.com/Tardfyou)
 - [Sureshp](https://github.com/sureshp820)
 - [Himanshu Kumar Mahto](https://github.com/himanshumahto)
