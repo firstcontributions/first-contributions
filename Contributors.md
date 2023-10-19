@@ -2,6 +2,7 @@
 # Contributors
 
 - [Noor Alam] (https://github.com/nooralamf42)
+- Ashutosh Sharma (https://github.com/ashutosh1802)
 - [Jim Matlock] (https://github.com/jmatlock)
 - [Jordan Manus] (https://github.com/jordan-manus)
 - [Job Keter](https://github.com/CAPTAIN-JOB)
