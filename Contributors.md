@@ -90,6 +90,7 @@
 - [Jeisson Rodriguez](https://github.com/JeissonR115)
 - [Kaushik Gage](https://github.com/Kaushik080)
 - [Shubham Kashyap](https://github.com/Shubhamkyup)
+- [Johann Michael] (https://github.com/jmichael7)
 - [Guransh Singh](https://github.com/singhDevs)
 - [Lamar_Butler] (https://github.com/LaaaXeD)
 [Terence Wong]
