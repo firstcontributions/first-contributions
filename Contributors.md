@@ -169,6 +169,7 @@
 - [Vivek Rajpoot] (https://github.com/VivekRajpoot01)
 - [Aarón Moya](https://github.com/Aaron-Moya)
 - [Harsh Surani](https://github.com/SuraniHarsh/)
+- [Rookie](https://github.com/geekcheeky/)
 - [Taiwo Sulaimon](https://github.com/sulaimon23)
 - [Matyi Peter](https://github.com/matyipeter)
 - [Sahil Chandna](https://github.com/sahilchandna60)
