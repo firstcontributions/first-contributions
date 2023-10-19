@@ -4024,4 +4024,5 @@ pig
 - [Ny Randriantsarafara] (https://github.com/ny-randriantsarafara)
 - [Jakub Reznak](https://github.com/jakubreznak)
 - [Xorelcodes](https://github.com/xorelcodes)
+- [Ron Erick Rodriguez](https://github.com/aportkwekwek)
 test
