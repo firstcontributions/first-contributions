@@ -1,5 +1,6 @@
 
 # Contributors
+  [Farookh](https://github.com/FarookhNITAP)
 
 -[Niraj](https://github.com/btrezzy)
 - [Rohan](https://github.com/RohanReddy2003)
