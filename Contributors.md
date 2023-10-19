@@ -85,7 +85,7 @@
 - [Hritik Bhattacharya](https://github.com/hritikbhattacharya)
 - [Jeisson Rodriguez](https://github.com/JeissonR115)
 - [Kaushik Gage](https://github.com/Kaushik080)
-- [Lamar-Butler] (https://github.com/LaaaXeD)
+- [Lamar_Butler] (https://github.com/LaaaXeD)
 [Terence Wong]
 - [Bilal Mumtaz] (https://github.com/bilalxcode)
 - [Nikhilesh Sompura]
