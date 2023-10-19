@@ -16,6 +16,7 @@
 - [Nimit](https://github.com/Nimit)
 - [marshal1244]
 - [Branchtest]
+- [NonzeroSums] (https://Nah-nevermind)
 - [Jonathan Robinson](https://github.com/Jon-Robb)
 - [Brenda Wanjiru] (https://github.com/Bree-Wanjiru)
 - [Michael Wekesa](https://github.com/wekesa360)
