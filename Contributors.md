@@ -1,7 +1,8 @@
 
 # Contributors
   [Farookh](https://github.com/FarookhNITAP)
-
+  
+-[Jonathan Lyngdoh](https://github.com/JonathanLyngdoh)
 -[Niraj](https://github.com/btrezzy)
 - [Rohan](https://github.com/RohanReddy2003)
 - [Rohan Sharma](https://github.com/RS-labhub)
