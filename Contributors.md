@@ -167,13 +167,12 @@
 - [Vivek Rajpoot] (https://github.com/VivekRajpoot01)
 - [Aarón Moya](https://github.com/Aaron-Moya)
 - [Harsh Surani](https://github.com/SuraniHarsh/)
+- [Rookie](https://github.com/geekcheeky/)
 - [Taiwo Sulaimon](https://github.com/sulaimon23)
 - [Matyi Peter](https://github.com/matyipeter)
 - [Sahil Chandna](https://github.com/sahilchandna60)
 - [Tony Hoang](httops://github.com/kiiroboy)
 - [Matthew McRobie](https://github.com/Avalanchian)
-  Jyothishwari GP
-  harshal honde
 - [Nidhi Singh](https://github.com/nideheyi)
 - [Siddhant Swarup Mallick](https://github.com/siddhant2002)
 - [Ricktho Sarkar](https://github.com/Ricktho1) -[sunny sharma](https://github.com/sunny-11002)
@@ -2646,6 +2645,7 @@
 - [Anthony Mwaura](https://github.com/Anthony11-hub)
 - [Vansh Chopra](https://github.com/vanshavenger)
 - [Rosalyn Wimberly](https://github.com/rosalynw)
+- [Amik C](https://github.com/amikc777)
 - [Sean Madden](https://github.com/Maddesea)
 - [Julie S](https://github.com/Julie-S2020)
 - [Shaikh Imtiar Rahaman](https://github.com/ShaikhImtiarRahaman)
@@ -3957,3 +3957,4 @@
 - [Jahnavi](https://github.com/jahnavithutta129)
 - [Farookh Siddiqui](https://github.com/FarukhS52)
 - [Jyezet](https://github.com/jyezet)
+- [Ronaldo Oliveira Costa](https://github.com/oliveira-ronaldo)
