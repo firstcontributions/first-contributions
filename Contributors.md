@@ -2998,6 +2998,7 @@ Akash Abraham
 - [Samukelo Ngidi](https://github.com/SamukeloNgidi)
 - [Omadoye Mary](https://github.com/Seundede)
 - [Vinay S](https://github.com/vinay-s36)
+- [Vishal](https://github.com/VyKSI)
 - [Aigbovbiosa Michael](https://github.com/mikeaig4real)
 - [Khair Muhammad Memon](https://github.com/khairmuhammad)
 - [Ayush Malik](https://github.com/Ayush-004)
