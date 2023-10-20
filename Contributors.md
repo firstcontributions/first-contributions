@@ -1,16 +1,16 @@
 
 # Contributors
-  [Farookh](https://github.com/FarookhNITAP)
 
--[Sunny Gandhwani](https://github.com/Sunny-unik)
--[Niraj](https://github.com/btrezzy)
--[Maria4lexzy](https://github.com/Maria4lexzy)
--[yourblood](https://github.com/sureshp820)
--[Yachika9925](https://github.com/Yachika9925)
 - [Farukh](https://github.com/FarukhS52)
 - [Rohan](https://github.com/RohanReddy2003)
 - [Jim5y](https://github.com/jcaw07)
 - [Jimmy]
+- [Farookh](https://github.com/FarookhNITAP)
+- [Sunny Gandhwani](https://github.com/Sunny-unik)
+- [Niraj](https://github.com/btrezzy)
+- [Maria4lexzy](https://github.com/Maria4lexzy)
+- [yourblood](https://github.com/sureshp820)
+- [Yachika9925](https://github.com/Yachika9925)
 - [Shreyash](https://github.com/ShreyashJ12)
 - [Vipul Varshney](https://github.com/vipulSVJ)
 - [Gosha Dulkin](https://github.com/GoshaDulkin)
@@ -37,11 +37,11 @@
 - [Abhishek Jat](https://github.com/88Abhi)
 - [Sahil Patil](https://github.com/Sahil873)
 - [Vanessa Kasei](https://github.com/VanessaKasei)
--[karan arora](https://github.com/karan7864)
+- [karan arora](https://github.com/karan7864)
 - [Ram Tyagi](https://github.com/Ram-tyagi)
--[Su](https://github.com/sureshp820)
+- [Su](https://github.com/sureshp820)
 - eifhijef
--[shiasin](https://github.com/shiasin)
+- [shiasin](https://github.com/shiasin)
 - [Khushminder Singh](https://github.com/khushminder270)
 - [Vidhi Jain](https://github.com/vidhijain27)
 - [Avinash S](https://github.com/Hunter305)
@@ -55,6 +55,7 @@
 - [Dedan Okware](https://github.com/SoftCysec)
 - [Nimit](https://github.com/Nimit)
 - [Afaq Razaq](https://github.com/xyzafaq)
+- [Muqeet Mughal](https://github.com/muqeetmughal)
 - [marshal1244]
 - [kubigor](https://github.com/kubigor)
 - [alanv73]
