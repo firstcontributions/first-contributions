@@ -33,6 +33,7 @@
 - [Anne Usang] (https://github.com/cloudwithanne)
 - [Vedant Kedia] (https://github.com/Vedant-Kedia)
 - [Koushik] (https://github.com/Im-Koushik)
+- [PraiseGod Ayodele] (https://github.com/praizerema)
 - [Jordan Manus] (https://github.com/jordan-manus)
 - [Borrel7] (https://github.com/Borrel7)
 - [Sachin Ghatage] (https://github.com/sachinghatage)
