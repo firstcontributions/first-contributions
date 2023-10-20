@@ -2056,6 +2056,7 @@ Nikhil R
 - [Anirudh Arkery](https://github.com/anirudharkery)
 - [Jatin Sood]
 - [Jorge Cano]
+- [Mateus Borges](https://github.com/MateusBorgesGuimaraes)
 - [Arda Dönmez](https://github.com/Kashidex)
 - [Uthman Bashir Dantata](https://github.com/uthmandantata)
 - [Anish Tuteja](https://github.com/AnishTuteja)
