@@ -2,7 +2,9 @@
 # Contributors
   [Farookh](https://github.com/FarookhNITAP)
 
+-[Sunny Gandhwani](https://github.com/Sunny-unik)
 -[Niraj](https://github.com/btrezzy)
+-[Maria4lexzy](https://github.com/Maria4lexzy)
 -[yourblood](https://github.com/sureshp820)
 -[Yachika9925](https://github.com/Yachika9925)
 - [Farukh](https://github.com/FarukhS52)
@@ -79,6 +81,7 @@
 - [Eaglesight02](https://github.com/Eaglesight02)
 - [Palatip Jantawong](https://github.com/palatipjant)
 - [craigdev937](https://github.com/craigdev937)
+- [Deva2580](https://github.com/Deva2580)
 - [Omar Khaium Chowdhury](https://github.com/omar-khaium )
 - - [Pailla Navya Preetham Reddy](https://github.com/daemonvk18)
 - [Tardfyou] (https://github.com/Tardfyou)
@@ -121,6 +124,7 @@
 - [Soumyadeep Garai](https://github.com/SOUMYADEP)
 - [Almond, Annie](https://github.com/Annie-Almond)
 - [Kevin Thurman](https://github.com/kthurman59 )
+- [Manav Bhojani](https://github.com/manavb2214)
 - [Sohaib Boukraa](https://github.com/sohaibproject)
 - [Aryush Gupta](https://github.com/AryushGupta)
 - [Hritik Bhattacharya](https://github.com/hritikbhattacharya)
@@ -131,6 +135,7 @@
 - [Guransh Singh](https://github.com/singhDevs)
 - [Lamar_Butler] (https://github.com/LaaaXeD)
 [Terence Wong]
+- Stephanie Fenelon
 - [Bilal Mumtaz] (https://github.com/bilalxcode)
 - [Nikhilesh Sompura]
 - [Shane Woodyard] (https://github.com/ShaneWoodyard)
@@ -4069,6 +4074,7 @@ pig
 - [Tiramisu](https://github.com/minhtri6179)
 - [Robert Amoah](https://github.com/mr-robertamoah)
 - [Philip Lee](https://github.com/Phil1999)
+- [Austin Oakes](https://github.com/austin-oakes-cei)
 - [Pratik Rai](https://github.com/pratikkumar399)
 - [Sandip](https://github.com/sandip777-developer)
 - [Himanshi Bhardwaj](https://github.com/taemochi12)
