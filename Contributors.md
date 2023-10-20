@@ -134,6 +134,7 @@
 - [Guransh Singh](https://github.com/singhDevs)
 - [Lamar_Butler] (https://github.com/LaaaXeD)
 [Terence Wong]
+- Stephanie Fenelon
 - [Bilal Mumtaz] (https://github.com/bilalxcode)
 - [Nikhilesh Sompura]
 - [Shane Woodyard] (https://github.com/ShaneWoodyard)
