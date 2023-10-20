@@ -12,6 +12,7 @@
 - [Jim5y](https://github.com/jcaw07)
 - [Jimmy]
 - [Shreyash](https://github.com/ShreyashJ12)
+- [hemory](https://github.com/hemory)
 - [Vipul Varshney](https://github.com/vipulSVJ)
 - [Gosha Dulkin](https://github.com/GoshaDulkin)
 - [XiaLiang](https://github.com/RutingZhang0429)
