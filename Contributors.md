@@ -3601,6 +3601,7 @@ Akash Abraham
 - [Priyanshu Mishra] (https://github.com/dev-Priyanshu07)
 - [laariane](https://github.com/laariane/)
 - [Zaki Dawrey](https://github.com/zaki-dawrey)
+- [Chinmay Patil](https://github.com/chinmay7016)
 - [Ezekiel Akinfenwa](https://github.com/Ezek-iel)
 - [Saanidhya Singh](https://github.com/Saani765)
 - [Mathanraj T](https://github.com/mathanraj0601)
