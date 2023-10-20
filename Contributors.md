@@ -3221,6 +3221,7 @@ Akash Abraham
 - [Arihan Sinha] (https://github.com/ArihanSinha08)
 - [imjacobtw](https://github.com/imjacobtw)
 - [Monica Ave](https://github.com/AveMonica)
+- [kristom69] (https://github.com/kristom69)
 - [Keisha Shanice](https://github.com/KeishaShanice)
 - [Maxwell Calkin](https://github.com/MaxwellCalkin)
 - [Sonjay Lake](https://github.com/SonjayLake)
