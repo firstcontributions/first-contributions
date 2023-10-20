@@ -62,6 +62,7 @@
 - [Chandan Mishra](https://github.com/mishraachandan)
 - [job mbugua](https://github.com/mbugua97)
 - [RubynathanN](https://github.com/NRUBYNATHAN)
+- [devil_Suresh](https://github.com/sureshp820)
 - [ZikaZaki](https://github.com/ZikaZaki)
 - [Prateek Agrawal](https://github.com/Prateek194)
 - [Eaglesight02](https://github.com/Eaglesight02)
