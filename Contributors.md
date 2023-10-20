@@ -122,6 +122,7 @@
 - [Soumyadeep Garai](https://github.com/SOUMYADEP)
 - [Almond, Annie](https://github.com/Annie-Almond)
 - [Kevin Thurman](https://github.com/kthurman59 )
+- [Manav Bhojani](https://github.com/manavb2214)
 - [Sohaib Boukraa](https://github.com/sohaibproject)
 - [Aryush Gupta](https://github.com/AryushGupta)
 - [Hritik Bhattacharya](https://github.com/hritikbhattacharya)
