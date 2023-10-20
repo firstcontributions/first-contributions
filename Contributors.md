@@ -4,6 +4,7 @@
 
 -[Niraj](https://github.com/btrezzy)
 -[yourblood](https://github.com/sureshp820)
+-[Yachika9925](https://github.com/Yachika9925)
 - [Farukh](https://github.com/FarukhS52)
 - [Rohan](https://github.com/RohanReddy2003)
 - [Jim](https://github.com/jcaw07)
