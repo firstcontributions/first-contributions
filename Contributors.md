@@ -131,6 +131,7 @@
 - [Siddharth Warrier](https://github.com/siddwarr)
 - [Sujatha](https://github.com/21CSE49)
 - [Oolazile](https://github.com/Oolazile)
+- [Shivani G](https://github.com/ShivaniG14)
 - [Arunkumar N S](https://github.com/arunlorenz)
 - [AmmanChhetri] (https://github.com/AmmanChhetri)
 - [Adick Rincones] (https://github.com/AdickRincones133)
