@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Digital Clock</title>
+   <style>
+      body {
+         font-family: Arial, Helvetica, sans-serif;
+         text-align: center;
+         margin-top: 100px;
+         font-size: 50px;
+         color: #333;
+      }
+   </style>
+</head>
+<body onload="setInterval(() => {
+      let date = new Date();
+      let time = (date.getHours() % 12 || 12) + ':' + ('0' + date.getMinutes()).slice(-2) + ':' + ('0' + date.getSeconds()).slice(-2) + ' ' + (date.getHours() >= 12 ? 'PM' : 'AM');
+      document.getElementById('clockDisplay').textContent = time;
+   }, 1000);">
+   <div id="clockDisplay"></div>
+</body>
+</html>
