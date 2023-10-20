@@ -3,6 +3,7 @@
   [Farookh](https://github.com/FarookhNITAP)
 
 -[Niraj](https://github.com/btrezzy)
+- [Farukh](https://github.com/FarukhS52)
 - [Rohan](https://github.com/RohanReddy2003)
 - [Jim](https://github.com/jcaw07)
 - [Vipul Varshney](https://github.com/vipulSVJ)
