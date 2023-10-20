@@ -3717,7 +3717,7 @@ Akash Abraham
 - [Ronaldi] (https://github.com/RonaldiVX1)
 - [Ankush Kalsotra](https://github.com/AnkushKalsotra)
 - [lazym0on] (https://github.com/lazym0on)
-
+- [Maciej Posala] (https://github.com/acwik166)
 - [Aditya Kumar] (https://github.com/AdityasGtHub)
 - [Jax Hax] (https://github.com/Jax-Hax)
 - [Vishwaksen] (https://github.com/vishwaksen-1)
