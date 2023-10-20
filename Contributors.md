@@ -1,8 +1,9 @@
 
 # Contributors
   [Farookh](https://github.com/FarookhNITAP)
-
--[Niraj](https://github.com/btrezzy)
+  
+- [Pavankumar Hegde](https://github.com/hegdepavankumar)
+- [Niraj](https://github.com/btrezzy)
 - [Rohan](https://github.com/RohanReddy2003)
 - [Jim](https://github.com/jcaw07)
 - [Vipul Varshney](https://github.com/vipulSVJ)
