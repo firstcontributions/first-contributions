@@ -1,8 +1,8 @@
 
 # Contributors
   [Farookh](https://github.com/FarookhNITAP)
-
--[Niraj](https://github.com/btrezzy)
+- [XiaLiang](https://github.com/RutingZhang0429)
+- [Niraj](https://github.com/btrezzy)
 - [Rohan](https://github.com/RohanReddy2003)
 - [Jim](https://github.com/jcaw07)
 - [Vipul Varshney](https://github.com/vipulSVJ)
