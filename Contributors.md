@@ -6,7 +6,7 @@
 -[yourblood](https://github.com/sureshp820)
 - [Farukh](https://github.com/FarukhS52)
 - [Rohan](https://github.com/RohanReddy2003)
-- [Jim](https://github.com/jcaw07)
+- [Jimmy](https://github.com/jcaw07)
 - [Shreyash](https://github.com/ShreyashJ12)
 - [Vipul Varshney](https://github.com/vipulSVJ)
 - [Gosha Dulkin](https://github.com/GoshaDulkin)
