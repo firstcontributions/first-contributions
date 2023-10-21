@@ -3680,12 +3680,12 @@ Akash Abraham
 - [leanhvu21042001](https://github.com/leanhvu21042001)
 
 - [Manas Vyas](https://github.com/manas511)
-
+- [Emran Kamil](https://github.com/emex-nord)
 - [Hiral Soni](https://github.com/hiralsonip)
 - [Tabish Ahmed](https://github.com/NoxiousTab)
 - [medzo-kali](https://github.com/medzo-kali)
 - [Andy]
-- [Nicholas Garbutt] (https://github.com/Nicholas-Garbutt)
+- [Nicholas Garbutt](https://github.com/Nicholas-Garbutt)
 - [Carlo Inserra](https://github.com/Carleoinserra)
 - [KhaingKyawMin] (https://github.com/kkm1991)
 - [kaif-khan](https://github.com/shadowfaxx1)
