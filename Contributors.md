@@ -1562,6 +1562,7 @@ Sino Felicity Zwane
 - [Neil Aron Pascual](https://github.com/neilaron)
 - [Achal](https://github.com/achal-00)
 - [Gideon-Buba](https://github.com/Gideon-Buba)
+- [Light Andy](https://github.com/LightAndy1)
 - [Akshit Rawat](https://github.com/akshitrawat1)
 - [Anushthan Saxena](https://github.com/AnushthanS)
 - [Pratham Chauhan](https://github.com/Pratham271)
