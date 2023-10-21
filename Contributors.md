@@ -1,6 +1,6 @@
 # Contributors
   [Farookh](https://github.com/FarookhNITAP)
-
+-[Samuel Onyebekeh](https://github.com/SamuelOnyebekeh)
 -[Naman Jain](https://github.com/namanjain7)
 -[Aliloulaye Tchaou](https://github.com/aliloulaye)
 -[daemon-surge-suzuya](https://github.com/daemon-surge-suzuya)
