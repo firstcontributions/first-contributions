@@ -856,6 +856,7 @@ gulshan
 - [Ajmal Khan](https://github.com/reaperhound)
 - [Heming Huang](https://github.com/bandanana)
 - [Aashish Mishra](https://github.com/Gowther03)
+- [JairTorres1003](https://github.com/JairTorres1003)
 - [Alex GeoDev](https://github.com/alex-geodev)
 - [Shoaib Wani](https://github.com/Pyloris)
 - [Ryan Jacob](https://github.com/DevRyJa)
