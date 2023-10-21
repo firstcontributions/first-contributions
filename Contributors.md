@@ -3940,6 +3940,7 @@ Akash Abraham
 - [Sandeep Pal]( https://github.com/pal-sandeep)
 - [Fraggerz777]( https://github.com/Fraggerz777)
 - [Yahya Mohammed](https://github.com/yahya-mohammed07)
+- [Alexzander Hurd](https://github.com/Alexzander-Hurd)
 - [JaJa]
 - [Prajit Adhikari](https://github.com/adhikariprajitraj)
 - [Bryan Mureithi](https://github.com/BryanMureithi) 
