@@ -4066,6 +4066,7 @@ Akash Abraham
 - [Vinayak-Mali](https://github.com/Cristian-DW)
 - [Sricharan Addagatla](https://github.com/DabossCharan)
 - [Shubham Vartak](https://github.com/shubham-vartak)
+- [Adnane Benazzou](https://github.com/ABenazzou)
 - Evan H
 - [Ritesh Kumar](https://github.com/Riteshhh-kumar/)
 
