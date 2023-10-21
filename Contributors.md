@@ -264,10 +264,10 @@ harshal honde
 - [Hamza Mehmood](https://github.com/hamzamehmood67)
 - [Muhammad Zeeshan Hassan] (https://github.com/thezeeshanhassan)
 - [Biswa Baibhab Subudhi](https://github.com/biswabaibhab007)
--[Kushal Agrawal](https://github.com/kushal34712)
+- [Kushal Agrawal](https://github.com/kushal34712)
 - [Luke Stump](https://github.com/LukeStump419)
+- [Dillikumar Deenadayalan](https://github.com/Dillikumar)
 - [Kevin Jackson](https://github.com/KJJack)
-- [Dillikumar Deenadayalan] (https://github.com/Dillikumar)
 - [Ajeet Raj](https://github.com/ajeetraj11)
 - [Neha Tarey](https://github.com/nehatarey)
 - [S A G A R](https://github.com/tmsagarofficial)
@@ -1242,6 +1242,7 @@ KOR EU WEI
 PRAJOT
 - Andrew Pun
   [Hoon Kang] (https://github.com/hoon610)
+- [Dillon Le](https://github.com/dillonhl)
 - [Sudip Das](httpsgithub.com/pris01)
 - [Nour Mostafa] (https://github.com/n332)
 - [Leandro Henrique Barbosa](https://github.com/leandrohbar)
@@ -2001,7 +2002,6 @@ Nikhil R
 - psuuc-paduaester
 - [Anudari Gereltod](https://github.com/AnudariG)
 - [SaswatSahu](https://github.com/Raphel6969)
-- [Sanjiv Kushwaha] **\*\*\*\***\*\***\*\*\*\***\*\***\*\*\*\***\*\***\*\*\*\***
 - [Sumitra Sharma](https://github.com/heygauri)
 - [Alex W](https://github.com/yw3762)
 - [Sanjiv Kushwaha]
@@ -3427,6 +3427,7 @@ Akash Abraham
 - [Ebrar Altunkaynak](https://github.com/ebrardev)
 - [Dilan Kaya](https://github.com/DilanKaya127)
 - [Taha S. ASAN](https://github.com/tahaasann)
+- [Safa Osman](https://github.com/swafak)
 - [Sagar Shelke](https://github.com/seeprogramming)
 - [Wilson Chin](https://github.com/shitofshit)
 - [JayeLee17](https://github.com/JayeLee17)
@@ -3941,6 +3942,7 @@ Akash Abraham
 - [Sandeep Pal]( https://github.com/pal-sandeep)
 - [Fraggerz777]( https://github.com/Fraggerz777)
 - [Yahya Mohammed](https://github.com/yahya-mohammed07)
+- [Alexzander Hurd](https://github.com/Alexzander-Hurd)
 - [JaJa]
 - [Prajit Adhikari](https://github.com/adhikariprajitraj)
 - [Bryan Mureithi](https://github.com/BryanMureithi) 
@@ -4053,7 +4055,9 @@ Akash Abraham
 - [Tariq Hassan Alhathloul](https://github.com/TariqAlhathloul)
 - [Pradeep Lama](https://github.com/tamago01)
 - [Senaya1](https://github.com/Rinxyc)
+- [Priyanshu Varshney](https://github.com/harshhere905)
 - [Susheel Thapa](https://github.com/SusheelThapa)
+- [Pradeep Padmanaban C](https://chocolatepadmanaban.github.io/)
 - [Robert Smith ](https://github.com/brprod8)
 - [Kiva](https://github.com/kivaliu)
 - [Shivang Bagri ](https://github.com/sivangbagri)
