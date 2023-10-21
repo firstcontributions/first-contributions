@@ -4037,7 +4037,7 @@ Akash Abraham
 - [SunYuan](https://github.com/sunyuan686)
 - [Timirshin Nikita](https://github.com/Nikitat0)
 - [Scott Eifel](https://github.com/scotteifel)
-- [Harshal Honde](https://github.com/harshalhonde21)
+- [Harshal P. Honde](https://github.com/harshalhonde21)
 - [Muhibul Haque](https://github.com/devmuhib009)
 - [Miftahul Islam](https://github.com/miftarek)
 - [Atri Chatterjee](https://github.com/atri-chatterjee)
