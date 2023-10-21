@@ -43,6 +43,7 @@
 - [Kaleb Mikiyas](https://github.com/coder-kaleb)
 - [Abhishek Jat](https://github.com/88Abhi)
 - [Sahil Patil](https://github.com/Sahil873)
+- [Siddhant Shahane](https://github.com/Siddhant40)
 - [Vanessa Kasei](https://github.com/VanessaKasei)
 -[karan arora](https://github.com/karan7864)
 - [Ram Tyagi](https://github.com/Ram-tyagi)
