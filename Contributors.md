@@ -187,6 +187,7 @@
 - [Suraj Jha](https://github.com/PixeL-TryHard)
 - [Shreyash Mishra](https://github.com/Shreyash-cyber)
 -[Sudhanshu Tripathi](https://github.com/sudhanshu-77)
+- [Julian Palomino](https://github.com/Julian-Palo)
 - [Youkwhan Kim](https://github.com/Youkwhan)
 - [Abayomi Eniola](https://github.com/Enielect)
 - [AgusWorld](https://github.com/AgusWorld)
