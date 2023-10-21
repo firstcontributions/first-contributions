@@ -16,7 +16,6 @@
 - [Jimmy]
 - [Melody Gatan](https://github.com/mel418)
 - [Shreyash](https://github.com/ShreyashJ12)
-- [hemory](https://github.com/hemory)
 - [Vipul Varshney](https://github.com/vipulSVJ)
 - [Gosha Dulkin](https://github.com/GoshaDulkin)
 - [XiaLiang](https://github.com/RutingZhang0429)
@@ -1981,6 +1980,7 @@ Nikhil R
 - [Campego](https://github.com/Campego)
 - [Samagra Barnwal](https://github.com/samagrabarnwal)
 - [David-S](https://github.com/Deastyn)
+- [Mateus Borges](https://github.com/MateusBorgesGuimaraes)
 - [Jemz](https://github.com/jmlinks)
 - [Gabriel Villaruel](https://github.com/GPVcode)
 - [hebizakana](https://github.com/hebizakana)
