@@ -17,6 +17,7 @@
 -[Harsh](https://github.com/oharsh)
 - [daemon-surge-suzuya](https://github.com/daemon-surge-suzuya)
 - [Farukh](https://github.com/FarukhS52)
+- [Olaoluwa Odewale](https://github.com/Olaoluwa99)
 - [Rohan](https://github.com/RohanReddy2003)
 - [Siddharth Verma](https://github.com/lordsid003)
 - [Jim5y](https://github.com/jcaw07)
