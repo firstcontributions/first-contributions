@@ -2,17 +2,17 @@
 # Contributors
   [Farookh](https://github.com/FarookhNITAP)
 
--[Naman Jain](https://github.com/namanjain7)
--[daemon-surge-suzuya](https://github.com/daemon-surge-suzuya)
--[Sunny Gandhwani](https://github.com/Sunny-unik)
--[Niraj](https://github.com/btrezzy)
--[Bowen](https://github.com/deng020504)
--[Maria4lexzy](https://github.com/Maria4lexzy)
--[yourblood](https://github.com/sureshp820)
--[h-e-d-g-e-h-o-g(Arpit Negi)](https://github.com/h-e-d-g-e-h-o-g)
--[pranat Siyal]
--[Yachika9925](https://github.com/Yachika9925)
--[Rohan](https://github.com/RS-labhub)
+- [Naman Jain](https://github.com/namanjain7)
+- [daemon-surge-suzuya](https://github.com/daemon-surge-suzuya)
+- [Sunny Gandhwani](https://github.com/Sunny-unik)
+- [Niraj](https://github.com/btrezzy)
+- [Bowen](https://github.com/deng020504)
+- [Maria4lexzy](https://github.com/Maria4lexzy)
+- [yourblood](https://github.com/sureshp820)
+- [h-e-d-g-e-h-o-g(Arpit Negi)](https://github.com/h-e-d-g-e-h-o-g)
+- [pranat Siyal]
+- [Yachika9925](https://github.com/Yachika9925)
+- [Rohan](https://github.com/RS-labhub)
 - [Farukh](https://github.com/FarukhS52)
 - [Rohan](https://github.com/RohanReddy2003)
 - [Siddharth Verma](https://github.com/lordsid003)
