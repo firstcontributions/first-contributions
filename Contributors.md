@@ -2001,7 +2001,6 @@ Nikhil R
 - psuuc-paduaester
 - [Anudari Gereltod](https://github.com/AnudariG)
 - [SaswatSahu](https://github.com/Raphel6969)
-- [Sanjiv Kushwaha] **\*\*\*\***\*\***\*\*\*\***\*\***\*\*\*\***\*\***\*\*\*\***
 - [Sumitra Sharma](https://github.com/heygauri)
 - [Alex W](https://github.com/yw3762)
 - [Sanjiv Kushwaha]
@@ -4053,6 +4052,7 @@ Akash Abraham
 - [Tariq Hassan Alhathloul](https://github.com/TariqAlhathloul)
 - [Pradeep Lama](https://github.com/tamago01)
 - [Senaya1](https://github.com/Rinxyc)
+- [Priyanshu Varshney](https://github.com/harshhere905)
 - [Susheel Thapa](https://github.com/SusheelThapa)
 - [Robert Smith ](https://github.com/brprod8)
 - [Kiva](https://github.com/kivaliu)
