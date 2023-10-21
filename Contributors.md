@@ -4089,14 +4089,10 @@ Akash Abraham
 - [Adnane Benazzou](https://github.com/ABenazzou)
 - Evan H
 - [Ritesh Kumar](https://github.com/Riteshhh-kumar/)
-
-
 - [Emanuel Enriquez](https://github.com/emaenriquez)
-
 - [Su Zheng Hui](https://github.com/zhenghui-su)
 - Mason Tuff
  -[Kanishka Parmar](https://github.com/kanishka-parmar)
--
  -[Harshita Gupta](https://github.com/harshita-2003)
  -[Mansi Gussain](https://github.com/mansi1234567890)
  -[Sudhanshu Sharma](https://github.com/Sudhanshu-Sharma-22)
@@ -4119,7 +4115,7 @@ Akash Abraham
 - [Pratik Rai](https://github.com/pratikkumar399)
 - [Sandip](https://github.com/sandip777-developer)
 - [Himanshi Bhardwaj](https://github.com/taemochi12)
-- [Prashant Purkar] (https://github.com/pashabhai)
+- [Prashant Purkar](https://github.com/pashabhai)
 - [Saurabh hingade](https://github.com/sauravhingade)
 - [Steven Childs](https://github.com/SteveWonderbelt)
 - [Jessy H](https://github.com/jeeehaan)
@@ -4132,8 +4128,8 @@ Akash Abraham
 - [Nitin Vendidandi](https://github.com/Learningcomputers777)
 - [Ruben Maidaniuc](https://github.com/rubanyukm)
 - [Stella Ewatomi Ladegbaye](https://github.com/LadegbayeStella)
-- [Ogliari Natan] (https://github.com/OgliariNatan)
-- [Ny Randriantsarafara] (https://github.com/ny-randriantsarafara)
+- [Ogliari Natan](https://github.com/OgliariNatan)
+- [Ny Randriantsarafara](https://github.com/ny-randriantsarafara)
 - [Jakub Reznak](https://github.com/jakubreznak)
 - [Xorelcodes](https://github.com/xorelcodes)
 - [Ron Erick Rodriguez](https://github.com/aportkwekwek)
@@ -4146,10 +4142,10 @@ Akash Abraham
 - [Lahari Madhusudhan](https://github.com/lahrims)
 - [szl2](https://github.com/szl2)
 - [Muhammad-Jafri](https://github.com/Muhammad-Jafri)
-- [Kevin Alex Nielsen] (https://github.com/kevinanielsen/)
-- [Jaimin25] (https://github.com/Jaimin25)
-- [ColdFaith] (https://github.com/ColdFaith)
-- [ayubmja2] (https://github.com/ayubmja2)
+- [Kevin Alex Nielsen](https://github.com/kevinanielsen/)
+- [Jaimin25](https://github.com/Jaimin25)
+- [ColdFaith](https://github.com/ColdFaith)
+- [ayubmja2](https://github.com/ayubmja2)
 - [Narayana Mayya](https://github.com/narayanamayya)
 - [Legaroid](https://github.com/legaroid)
 - [Skidee](https://github.com/HeySkidee)
@@ -4161,5 +4157,6 @@ Akash Abraham
 - [Jeroldine Oakley](https://github.com/JayOaks)
 - [DeepakPrajapati](https://github.com/deepak-cse)
 - [Harishawarthan](https://github.com/rayone08)
--[barelysomethin](https://github.com/barelysomethin)
--[Archit Kohli](https://github.com/Archit-Kohli)
+- [barelysomethin](https://github.com/barelysomethin)
+- [Archit Kohli](https://github.com/Archit-Kohli)
+- [Ayush Singh](https://github.com/ayush-singh08)
