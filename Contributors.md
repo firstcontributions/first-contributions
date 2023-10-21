@@ -4167,7 +4167,7 @@ Akash Abraham
 - [Jeroldine Oakley](https://github.com/JayOaks)
 - [DeepakPrajapati](https://github.com/deepak-cse)
 - [Harishawarthan](https://github.com/rayone08)
--[barelysomethin](https://github.com/barelysomethin)
--[Archit Kohli](https://github.com/Archit-Kohli)
--[Rahul Vikram](https://github.com/rahulvikram)
--[E-E-N][https://github.com/E-E-N]
+- [barelysomethin](https://github.com/barelysomethin)
+- [Archit Kohli](https://github.com/Archit-Kohli)
+- [Rahul Vikram](https://github.com/rahulvikram)
+- [E-E-N](https://github.com/E-E-N)
