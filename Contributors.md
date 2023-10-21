@@ -4134,6 +4134,7 @@ Akash Abraham
 - [Ronaldo Oliveira Costa](https://github.com/oliveira-ronaldo)
 - [Lahari Madhusudhan](https://github.com/lahrims)
 - [szl2](https://github.com/szl2)
+- [Muhammad-Jafri](https://github.com/Muhammad-Jafri)
 - [Kevin Alex Nielsen] (https://github.com/kevinanielsen/)
 - [Jaimin25] (https://github.com/Jaimin25)
 - [ColdFaith] (https://github.com/ColdFaith)
