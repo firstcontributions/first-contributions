@@ -5,6 +5,7 @@
 -[Naman Jain](https://github.com/namanjain7)
 -[daemon-surge-suzuya](https://github.com/daemon-surge-suzuya)
 -[Sunny Gandhwani](https://github.com/Sunny-unik)
+-[Ada B. Okonkwo](https://github.com/Coding-doves)
 -[Niraj](https://github.com/btrezzy)
 -[Bowen](https://github.com/deng020504)
 -[Maria4lexzy](https://github.com/Maria4lexzy)
@@ -13,6 +14,7 @@
 -[pranat Siyal]
 -[Yachika9925](https://github.com/Yachika9925)
 -[Rohan](https://github.com/RS-labhub)
+-[Harsh](https://github.com/oharsh)
 - [daemon-surge-suzuya](https://github.com/daemon-surge-suzuya)
 - [Farukh](https://github.com/FarukhS52)
 - [Rohan](https://github.com/RohanReddy2003)
@@ -20,6 +22,7 @@
 - [Jim5y](https://github.com/jcaw07)
 - [Jimmy]
 - [Melody Gatan](https://github.com/mel418)
+- [Harshavardhan Bajoria](https://github.com/HVbajoria)
 - [Farookh](https://github.com/FarookhNITAP)
 - [Shreyash](https://github.com/ShreyashJ12)
 - [Vipul Varshney](https://github.com/vipulSVJ)
