@@ -174,6 +174,7 @@
   [Shreyas Deshpande](https://github.com/Shreyas0410)
 - [Z52](https://github.com/j-Z52)
 - [Joon](https://github.com/Joon-99)
+- [Mohan Majhi](https://github.com/mohan060104)
 - [Deepak Tomson]
 - [Ednei Soares de Carvalho Filho](https://github.com/ednsoares)
 - [Estefan Andres](https://github.com/EstefanAC)
