@@ -3,6 +3,7 @@
   [Farookh](https://github.com/FarookhNITAP)
 
 -[Naman Jain](https://github.com/namanjain7)
+-[daemon-surge-suzuya](https://github.com/daemon-surge-suzuya)
 -[Sunny Gandhwani](https://github.com/Sunny-unik)
 -[Niraj](https://github.com/btrezzy)
 -[Bowen](https://github.com/deng020504)
