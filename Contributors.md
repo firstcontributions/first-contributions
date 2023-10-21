@@ -727,6 +727,7 @@ aj
 - [Abhinay singh](https://github.com/Abhinay123Singh)
 - [Nandini Arora](https://github.com/Nandiniar)
 - [Arif20484423](https://github.com/Arif20484423)
+- [Andrea Petriaggi](https://github.com/Pierraw)
 - [Abin Santy](https://github.com/abinsanty)
 - [Bismark Agyare](https://github.com/BismarkAgyare)
 - [Anderwafe](https://github.com/Anderwafe)
