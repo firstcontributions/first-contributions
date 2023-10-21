@@ -1,4 +1,5 @@
 # Contributors
+
   [Farookh](https://github.com/FarookhNITAP)
 
 -[Naman Jain](https://github.com/namanjain7)
@@ -48,6 +49,7 @@
 - [PraiseGod Ayodele] (https://github.com/praizerema)
 - [Jordan Manus] (https://github.com/jordan-manus)
 - [Borrel7] (https://github.com/Borrel7)
+- [Suresh](https://github.com/sureshp820)
 - [Sachin Ghatage] (https://github.com/sachinghatage)
 - [Job Keter](https://github.com/CAPTAIN-JOB)
 - [Kaleb Mikiyas](https://github.com/coder-kaleb)
