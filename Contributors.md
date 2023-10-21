@@ -20,6 +20,7 @@
 - [Gosha Dulkin](https://github.com/GoshaDulkin)
 - [XiaLiang](https://github.com/RutingZhang0429)
 - [Vishal_Sandhan](https://github.com/vishalsandhan)
+- [Utkarsh Upadhyay](https://github.com/utk2103)
 - [Enrico] (https://github.com/enristra)
 - [Rohan Sharma](https://github.com/RS-labhub)
 - [Oolazile] (https://github.com/Oolazile)
