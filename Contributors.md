@@ -3791,6 +3791,7 @@ Akash Abraham
 - [Asad] (https://github.com/sanbhal88)
 - [Nemoola] (https://github.com/nemoola)
 - [Richard Pham] (https://github.com/richardphamdq)
+- [Farzad Hayat](https://github.com/FarzadHayat)
 - [Max Hilsen] (https://github.com/MLHilsen)
 - [Bhakti Sanghani] (https://github.com/Bhakti12)
 - [ju3rg4] (https://github.com/Ju3rga)
