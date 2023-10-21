@@ -109,6 +109,7 @@
 - [Atharv0003](https://github.com/Atharv0003)
 - [Ada Okonkwo](https://github.com/Coding-doves)
 - [Rahul Kumat](https://github.com/rahul-2327 )
+
 - [Deepak Sah](https://github.com/sahji92)
 - [Agunbiade-Sulaimon Hamed](https://github.com/curiousinnovator)
 - [Sur](https://github.com/sureshp820)
@@ -485,7 +486,8 @@ harshal honde
 - [Jasmeet Singh](https://github.com/JasmeetSingh26)
 - [Jie Qiu](https://github.com/Jieqstu)
   [Rickmwasofficial](https://github.com/Rickmwasofficial)
-- [Ishaan Jangid](https://github.com/Ishaanjangid)
+- [Ishaan Jangid](https://github.com/Ishaanjangid)sunsanity
+
 - [JW]
 - [nativ]
 - [Abhishek Mohan](https://github.com/AbhishekMohanKr)
