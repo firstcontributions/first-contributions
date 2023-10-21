@@ -1,7 +1,7 @@
 
 # Contributors
 -[Alisha](https://github.com/Alisha-786)
-  [Farookh](https://github.com/FarookhNITAP)
+-[Farookh](https://github.com/FarookhNITAP)
 -[Sunny Gandhwani](https://github.com/Sunny-unik)
 -[Niraj](https://github.com/btrezzy)
 -[Bowen](https://github.com/deng020504)
