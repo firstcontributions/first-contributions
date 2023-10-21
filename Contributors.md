@@ -12,6 +12,7 @@
 -[h-e-d-g-e-h-o-g(Arpit Negi)](https://github.com/h-e-d-g-e-h-o-g)
 -[pranat Siyal]
 -[Yachika9925](https://github.com/Yachika9925)
+-[Rohan](https://github.com/RS-labhub)
 - [Farukh](https://github.com/FarukhS52)
 - [Rohan](https://github.com/RohanReddy2003)
 - [Siddharth Verma](https://github.com/lordsid003)
