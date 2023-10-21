@@ -3654,7 +3654,6 @@ Akash Abraham
 - [JP Hu](https://github.com/hu260456)
 -[Farras El-Fahd](https://github.com/farraselfahd)
 -[Christian Mark Velbis](https://github.com/psuuc-cmvelbis)
--[Sudarshan Hebbar](https://github.com/sudarshan9855)
 -[Vijay KV](https://github.com/Vijaykv5)
 - [Anurag]
 -[Tanmay](https://github.com/Tanmay-Codes)
