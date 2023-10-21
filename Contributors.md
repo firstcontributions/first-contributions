@@ -647,6 +647,7 @@ aj
 - [Ahmed Ryan](https://github.com/ahmedryanfaiyaz)
 - [Himanshu Nanda](https://github.com/himanshunanda22)
 - [Athanlaich He](https://github.com/Athanlaich)
+- [Suhiteswarch](https://github.com/suhit123)
 - [Chavi](https://github.com/ChaviSchatz)
 - [Gurshaan](https://github.com/GurshaanK)
 - [Romit Sutariya](https://github.com/romitsutariya)
@@ -701,6 +702,7 @@ aj
 - [Diegowh](https://github.com/Diegowh)
 - [Sparsh Tomar](https://github.com/Sparshtomar)
 - [Mayank Gupta](https://github.com/mayankg-me)
+- [Suhiteswar ch](https://github.com/suhit123)
 - [Vaibhav Patil](https://github.com/VaibhavAPatil)
 - [Lucas Almeida](https://github.com/LucasAlmeida-jpg)
 - [Brian kipkoech]
