@@ -17,7 +17,7 @@ public class DoublyLinkedList {
     public void addNewNode(String data) {
 
         Node newNode = new Node(data);
-        
+
         if(head == null) {
             head = newNode;
             tail = newNode;
@@ -55,7 +55,6 @@ public class DoublyLinkedList {
         obj.addNewNode("Banglore");
         obj.addNewNode("Satara");
         obj.addNewNode("Amravati");
-
         obj.showData();
     }
 }
