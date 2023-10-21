@@ -2,6 +2,8 @@
 # Contributors
   [Farookh](https://github.com/FarookhNITAP)
 
+-[Naman Jain](https://github.com/namanjain7)
+-[daemon-surge-suzuya](https://github.com/daemon-surge-suzuya)
 -[Sunny Gandhwani](https://github.com/Sunny-unik)
 -[Niraj](https://github.com/btrezzy)
 -[Bowen](https://github.com/deng020504)
@@ -12,6 +14,7 @@
 -[Yachika9925](https://github.com/Yachika9925)
 - [Farukh](https://github.com/FarukhS52)
 - [Rohan](https://github.com/RohanReddy2003)
+- [Siddharth Verma](https://github.com/lordsid003)
 - [Jim5y](https://github.com/jcaw07)
 - [Jimmy]
 - [Melody Gatan](https://github.com/mel418)
@@ -4150,3 +4153,4 @@ Akash Abraham
 - [Ringo](https://github.com/Banuelorigni)
 - [Jeroldine Oakley](https://github.com/JayOaks)
 - [DeepakPrajapati](https://github.com/deepak-cse)
+- [Harishawarthan](https://github.com/rayone08)
