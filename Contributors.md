@@ -20,6 +20,7 @@
 - [Jim5y](https://github.com/jcaw07)
 - [Jimmy]
 - [Melody Gatan](https://github.com/mel418)
+- [Harshavardhan Bajoria](https://github.com/HVbajoria)
 - [Farookh](https://github.com/FarookhNITAP)
 - [Shreyash](https://github.com/ShreyashJ12)
 - [Vipul Varshney](https://github.com/vipulSVJ)
