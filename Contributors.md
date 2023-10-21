@@ -13,6 +13,7 @@
 -[pranat Siyal]
 -[Yachika9925](https://github.com/Yachika9925)
 -[Rohan](https://github.com/RS-labhub)
+- [daemon-surge-suzuya](https://github.com/daemon-surge-suzuya)
 - [Farukh](https://github.com/FarukhS52)
 - [Rohan](https://github.com/RohanReddy2003)
 - [Siddharth Verma](https://github.com/lordsid003)
