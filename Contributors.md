@@ -3796,7 +3796,7 @@ Akash Abraham
 - [Jawmt] (https://github.com/Jawmt)
 -[Aarthi] (https://github.com/AarthiElango/first-contributions)
 - [chandar rathi] (https://github.com/rathichandar)
-
+- [Hatim Merchant](https://github.com/Hatim23-M)
 
 - [Scott Skinn] (https://github.com/scottskinn)
 - [Vasco Marques] (https://github.com/tabascum)
