@@ -15,6 +15,7 @@
 - [Jim5y](https://github.com/jcaw07)
 - [Jimmy]
 - [Melody Gatan](https://github.com/mel418)
+- [Farookh](https://github.com/FarookhNITAP)
 - [Shreyash](https://github.com/ShreyashJ12)
 - [Vipul Varshney](https://github.com/vipulSVJ)
 - [Gosha Dulkin](https://github.com/GoshaDulkin)
