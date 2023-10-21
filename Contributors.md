@@ -4114,6 +4114,7 @@ Akash Abraham
 - [Aman Path](https://github.com/AmanPathan)
 - [Nitin Vendidandi](https://github.com/Learningcomputers777)
 - [Ruben Maidaniuc](https://github.com/rubanyukm)
+- [Stella Ewatomi Ladegbaye](https://github.com/LadegbayeStella)
 - [Ogliari Natan] (https://github.com/OgliariNatan)
 - [Ny Randriantsarafara] (https://github.com/ny-randriantsarafara)
 - [Jakub Reznak](https://github.com/jakubreznak)
