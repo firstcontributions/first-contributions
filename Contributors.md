@@ -2,6 +2,7 @@
 # Contributors
   [Farookh](https://github.com/FarookhNITAP)
 
+-[Naman Jain](https://github.com/namanjain7)
 -[Sunny Gandhwani](https://github.com/Sunny-unik)
 -[Niraj](https://github.com/btrezzy)
 -[Bowen](https://github.com/deng020504)
