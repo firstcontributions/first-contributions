@@ -14,6 +14,7 @@
 - [Rohan](https://github.com/RohanReddy2003)
 - [Jim5y](https://github.com/jcaw07)
 - [Jimmy]
+- [Melody Gatan](https://github.com/mel418)
 - [Shreyash](https://github.com/ShreyashJ12)
 - [hemory](https://github.com/hemory)
 - [Vipul Varshney](https://github.com/vipulSVJ)
