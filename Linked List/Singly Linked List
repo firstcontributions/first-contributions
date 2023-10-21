@@ -24,7 +24,6 @@ public class SinglyLinkedList {
             tail = newNode;    
         }    
     }    
-        
     public void display() {    
         Node current = head;    
             
