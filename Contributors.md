@@ -2232,6 +2232,7 @@ Nikhil R
 - [Coshy](https://github.com/Coshy115)
 - [ftkris](https://github.com/christianftk)
 - [Angel Darco](https://github.com/AngelDarco)
+- [Mi1King](https://github.com/Mi1king)
 - [Mahendra Kolhe](https://github.com/Mahikolhe23)
 - [Gabriel Silva Lima](https://github.com/gabriellimma)
 - [Tristan Hoffay](https://github.com/TristanHoffay)
