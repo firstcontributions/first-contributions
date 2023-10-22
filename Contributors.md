@@ -1,6 +1,6 @@
 
 # Contributors
-[TemiJ]https://github.com/tehmie
+[TemiJ](https://github.com/tehmie)
 
 - [Kushal Agrawal](https://github.com/kushal34712)
 - [Aakash Gupta](https://github.com/aakashgg)
