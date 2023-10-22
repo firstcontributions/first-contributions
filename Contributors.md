@@ -22,6 +22,7 @@
 - [Siddharth Verma](https://github.com/lordsid003)
 - [Jim5y](https://github.com/jcaw07)
 - [Jimmy]
+-[Agnik] (https://github.com/agnik06)
 - [Melody Gatan](https://github.com/mel418)
 - [Harshavardhan Bajoria](https://github.com/HVbajoria)
 - [Farookh](https://github.com/FarookhNITAP)
