@@ -1,6 +1,7 @@
 # Contributors
 
 - [Kushal Agrawal](https://github.com/kushal34712)
+- [Sur](https://github.com/mazipan/hello-open-source/new/master/people)
 - [Aakash Gupta](https://github.com/aakashgg)
 - [Pranav Kannawar](https://github.com/Hackwithpranav)
   [Farookh](https://github.com/FarookhNITAP)
