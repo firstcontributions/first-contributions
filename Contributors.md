@@ -26,6 +26,7 @@
 - [Anshul Kansal](https://github.com/anshulkansal04)
 - [Farukh](https://github.com/FarukhS52)
 - [Olaoluwa Odewale](https://github.com/Olaoluwa99)
+- [Smit Dixit](https://github.com/smit-dixit/first-contributions.git)
 - [Rohan](https://github.com/RohanReddy2003)
 - [Siddharth Verma](https://github.com/lordsid003)
 - [Jim5y](https://github.com/jcaw07)
