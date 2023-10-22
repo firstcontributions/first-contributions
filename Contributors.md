@@ -431,6 +431,7 @@ harshal honde
 - [Ali Wahaj](https://github.com/WahajA)
 -[Samuel Ibrahim](https://github.com/bowadao)
 - [Humaid Ashraf](https://github.com/oldSheldon)
+- [Muhammad Rizwan](https://github.com/)
 - [Ahmad Hamdan](https://github.com/Hamdanl8)
 - [Muhammad Moosa](https://github.com/Moosa-123)
 - [Aashik Bharti](https://github.com/AashikBharti)
