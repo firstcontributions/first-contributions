@@ -538,6 +538,9 @@ harshal honde
 - [Deepanshu](https://github.com/creator0131)
 - [Stephanie Makori](https://github.com/Koddie-arch)
 - [Shanit Paul](https://github.com/SlicePoh)
+
+- [Kaushal_Kumar]
+
 - [Pranav Tripathi] (https://github.com/mightyshibbu)
 - [Davit Natenadze](https://github.com/Natenadze)
 - [Tri Nguyen](https://github.com/nmtri2810)
