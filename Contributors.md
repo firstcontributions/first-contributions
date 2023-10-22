@@ -4104,6 +4104,7 @@ Akash Abraham
 - [Pradeep Padmanaban C](https://chocolatepadmanaban.github.io/)
 - [Robert Smith ](https://github.com/brprod8)
 - [Kiva](https://github.com/kivaliu)
+- [harsha]
 - [Shivang Bagri ](https://github.com/sivangbagri)
 - [Gu Jing Yu](https://github.com/Grain-123)
 - [Eya Smati](https://github.com/EYAI)
