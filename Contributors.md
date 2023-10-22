@@ -1,5 +1,6 @@
 # Contributors
 
+- [Pranav Kannawar](https://github.com/Hackwithpranav)
   [Farookh](https://github.com/FarookhNITAP)
 -[Samuel Onyebekeh](https://github.com/SamuelOnyebekeh)
 -[Naman Jain](https://github.com/namanjain7)
