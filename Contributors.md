@@ -4078,6 +4078,7 @@ Akash Abraham
 - [Zay Maung Maung Myint](https://github.com/ZayMMM/)
 - [Aizaz Ahmed](https://github.com/aizazahmed-7)
 - [Zakariya Shahid](https://github.com/Zakariya-Shahid-511)
+- [Waqar Amin](https://github.com/vacaramin)
 - [Muhammad Umar](https://github.com/M-Umar30)
 - [Shivam Bhatnagar](https://bitnagar.dev)
 - [Nishit Mehta](https://github.com/nishitxmehta)
