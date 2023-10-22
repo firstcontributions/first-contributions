@@ -49,6 +49,7 @@
 - [Anne Usang] (https://github.com/cloudwithanne)
 - [Vedant Kedia] (https://github.com/Vedant-Kedia)
 - [Koushik] (https://github.com/Im-Koushik)
+- [Prashanth Chowdary](https://github.com/Mr-Prashanth-Chowdary)
 - [PraiseGod Ayodele] (https://github.com/praizerema)
 - [Jordan Manus] (https://github.com/jordan-manus)
 - [Borrel7] (https://github.com/Borrel7)
