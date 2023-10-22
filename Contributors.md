@@ -28,6 +28,7 @@
 - [Farookh](https://github.com/FarookhNITAP)
 - [Shreyash](https://github.com/ShreyashJ12)
 - [Vipul Varshney](https://github.com/vipulSVJ)
+- [Award Malisi](https://github.com/unearthlyglow)
 - [Gosha Dulkin](https://github.com/GoshaDulkin)
 - [XiaLiang](https://github.com/RutingZhang0429)
 - [Vishal_Sandhan](https://github.com/vishalsandhan)
