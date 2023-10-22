@@ -1129,6 +1129,7 @@ Pizzacat
 - [Joe Philip](https://github.com/joe-philip)
 - [menareus](https://github.com/menareus)
 - [Yatin Goyal](https://github.com/ygoyal48)
+-
 - [John Allen Berty](https://github.com/JohnAllenBerty)
 - [Azhar Lihan](https://github.com/azharlihan)
 - [Zuebeyir Eser] (https://github.com/ZuebeyirEser)
@@ -2978,6 +2979,7 @@ Akash Abraham
 - [Ahmed Nasr](https://github.com/NotAhmedNasr)
 - [Sourabh Patel](https://github.com/getmeapencil)
 - [Ajala Marvellous](https://github.com/ajalamarvellous)
+- {Sarthak Gulati}(https://github.com/sarthak2404)
 - [John Musans](https://github.com/Johnmusans)
 - [Samuel Kinuthia](https://github.com/Siymiel)
 - [Oluwaseyi Aimudo](https://github.com/Oluwaseyi123)
