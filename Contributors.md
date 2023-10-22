@@ -21,6 +21,7 @@
 - [Rohan](https://github.com/RohanReddy2003)
 - [Siddharth Verma](https://github.com/lordsid003)
 - [Jim5y](https://github.com/jcaw07)
+- [Vaibhav Chauhan](https://github.com/rover07)
 - [Saket Gupta](https://github.com/saket0x07)
 - [Jimmy]
 -[Agnik] (https://github.com/agnik06)
