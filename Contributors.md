@@ -1,5 +1,7 @@
 # Contributors
 
+- [Kushal Agrawal](https://github.com/kushal34712)
+- [Aakash Gupta](https://github.com/aakashgg)
 - [Pranav Kannawar](https://github.com/Hackwithpranav)
   [Farookh](https://github.com/FarookhNITAP)
 -[Samuel Onyebekeh](https://github.com/SamuelOnyebekeh)
