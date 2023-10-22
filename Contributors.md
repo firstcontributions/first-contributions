@@ -51,6 +51,7 @@
 - Ashutosh Sharma (https://github.com/jerome-garcia)
 - [Inferlex](https://github.com/Inferlex/)
 - [Jim Matlock] (https://github.com/jmatlock)
+- [Jhonatan Veliz] (https://github.com/JhonatanVeliz)
 - [DevBen] (https://github.com/git-create-devben)
 - [Anne Usang] (https://github.com/cloudwithanne)
 - [Vedant Kedia] (https://github.com/Vedant-Kedia)
