@@ -4123,7 +4123,7 @@ Akash Abraham
 - [Su Zheng Hui](https://github.com/zhenghui-su)
 - Mason Tuff
  -[Kanishka Parmar](https://github.com/kanishka-parmar)
--
+- [Aruj Garg](https://github.com/ArujGarg)
  -[Harshita Gupta](https://github.com/harshita-2003)
  -[Mansi Gussain](https://github.com/mansi1234567890)
  -[Sudhanshu Sharma](https://github.com/Sudhanshu-Sharma-22)
