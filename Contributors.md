@@ -31,6 +31,7 @@
 - [Saket Gupta](https://github.com/saket0x07)
 - [Jimmy]
 -[Agnik] (https://github.com/agnik06)
+- [Md. Abu Jafor](https://github.com/abujaforhadi)
 - [Melody Gatan](https://github.com/mel418)
 - [Harshavardhan Bajoria](https://github.com/HVbajoria)
 - [Farookh](https://github.com/FarookhNITAP)
