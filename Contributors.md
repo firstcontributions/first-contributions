@@ -122,6 +122,7 @@
 - - [Pailla Navya Preetham Reddy](https://github.com/daemonvk18)
 - [Tardfyou] (https://github.com/Tardfyou)
 - [Sureshp](https://github.com/sureshp820)
+- [Gabriel Caldas](https://github.com/GabCaldas)
 - [Subaseyy](https://github.com/subaseyy)
 - [Himanshu Kumar Mahto](https://github.com/himanshumahto)
 - [Paing Thet Ko](https://github.com/LordPaingThetKo)
