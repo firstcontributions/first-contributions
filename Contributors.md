@@ -18,6 +18,7 @@
 -[Rohan](https://github.com/RS-labhub)
 -[Harsh](https://github.com/oharsh)
 - [daemon-surge-suzuya](https://github.com/daemon-surge-suzuya)
+- [Anshul Kansal](https://github.com/anshulkansal04)
 - [Farukh](https://github.com/FarukhS52)
 - [Olaoluwa Odewale](https://github.com/Olaoluwa99)
 - [Rohan](https://github.com/RohanReddy2003)
