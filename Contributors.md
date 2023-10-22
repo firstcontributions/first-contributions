@@ -624,6 +624,7 @@ aj
 - [Efe Franklin](https://github.com/frankyxgithub)
 - [Bojidar Vladimirov](https://github.com/BojkaV)
 - [Shubham Kumar](https://github.com/MysticWanderer142)
+- [Levin Lieckfeldt]
 - [Yazeed Tarshan]
 - [Sandra Yee]
 - [Dhananjay Kajale](https://github.com/dhananjaykajale751)
