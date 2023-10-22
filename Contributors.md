@@ -48,6 +48,7 @@
 - [Jerome](https://github.com/Royal-Dragon)
 - [Sungjun Hwang](https://github.com/sungjun1116)
 - Ashutosh Sharma (https://github.com/jerome-garcia)
+- [Inferlex](https://github.com/Inferlex/)
 - [Jim Matlock] (https://github.com/jmatlock)
 - [DevBen] (https://github.com/git-create-devben)
 - [Anne Usang] (https://github.com/cloudwithanne)
