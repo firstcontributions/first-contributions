@@ -553,6 +553,7 @@ harshal honde
 - [Riyaz](https://github.com/Riyaz6121)
 - [Riz]
 -[Avira Soni](https://github.com/A-viralS)
+- [Amisha Kumari](https://github.com/ayoitsamishaa)
 - [Manucher Buicki](https://github.com/mbuicki789)
 - [Aftab Zaheer](https://github.com/aftabzaheer23)
 -[Pradyot Ranjan](https://github.com/prady0t)
