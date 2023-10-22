@@ -1249,6 +1249,7 @@ nathaniel
 - [Valery Bonneau](https://github.com/ValeryBonneau)
 Mahmoud Mirghani
 - ➡︝ [Armatys Konrad](https://github.com/karmatys8) ⬅︝
+- [Harohar](https://github.com/harohar13)
 - [Saurabh Padman](https://github.com/spirus-dev)
 -[Shashank Shukla](https://github.com/shashank0092)
 - [Samuel Betancourt](https://github.com`/Leumas80) <img title="Leumas80" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ve.svg" width="22">
@@ -3755,6 +3756,7 @@ Akash Abraham
 - [mzaidi7](https://github.com/mzaidi7)
 - [Aditya Nakadi](https://github.com/aditya-2010)
 - [Naufal Alief](https://github.com/naufalalief)
+<<<<<<< HEAD
 - [Kokonico](https://github.com/Kokonico)
 - [Rajan Raj](https://github.com/rajanraj2)
 - [Jack Sun](https://github.com/jackzsun)
@@ -4200,3 +4202,6 @@ Akash Abraham
 - [bagechengzi](https://github.com/bagechengzi)
 - [Barry Xu](https://github.com/BarryXu777)
 - [Korada Vishal](https://github.com/Vishalk91-4)
+=======
+- 
+>>>>>>> dc9fab7b74665fb5b62b9475def2d286930378b7
