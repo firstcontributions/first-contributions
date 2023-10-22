@@ -4118,7 +4118,7 @@ Akash Abraham
 - [Adnane Benazzou](https://github.com/ABenazzou)
 - Evan H
 - [Ritesh Kumar](https://github.com/Riteshhh-kumar/)
-
+- [Quentin CAMILLERI] (https://github.com/Quentincami)
 
 - [Emanuel Enriquez](https://github.com/emaenriquez)
 
