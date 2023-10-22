@@ -184,8 +184,7 @@ If you go to your repository on GitHub, you'll see a `Compare & pull request` bu
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 Now submit the pull request.
-
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+![PR Screenshot](https://github.com/Priyanshuthapliyal2005/first-contributions/blob/7ecbe9c9067fb2b33b67d66a1047fff7ade48c14/additional-material/Screenshot%202023-10-22%20195346.png)
 
 Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
