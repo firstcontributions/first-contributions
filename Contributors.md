@@ -74,6 +74,7 @@
 - [abc](https://github.com/d)
 - [Saurabh Tajane] (https://github.com/saurabh7nt)
 - [Mudit Loya](https://github.com/imperial-chief)
+- [Maulik Parmar](https://github.com/Maulikatgit)
 - [bos54rus] (https://github.com/bos54rus)
 - [vinay Gautam] (https://github.com/vinaygautam93)
 - [Jaganath G](https://github.com/Jagan0901)
@@ -82,6 +83,7 @@
 - [Nimit](https://github.com/Nimit)
 - [Afaq Razaq](https://github.com/xyzafaq)
 - [marshal1244]
+- -[Maulik](https://github.com/maulik12)
 - [kubigor](https://github.com/kubigor)
 - [alanv73]
 - [Branchtest]
