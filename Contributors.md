@@ -3958,6 +3958,7 @@ Akash Abraham
 - [Aditya Kakarla] (https://github.com/adityakakarla)
 - [Ravindra Pandey](https://github.com/ravindrap04)
 - [Darshan BS](https://github.com/bs-darshan)
+- [Bilal Badar](https://github.com/bilalbadar01)
 - [Rajan Paudel](https://github.com/rajan-poudel)
 - [Josh Gelber](https://github.com/joshgelber)
 - [Dazzler Abhi](https://github.com/dazzlerabhi30800)
