@@ -2197,6 +2197,7 @@ Nikhil R
 - [Alvaro Lucas]
 - [Tobi Oyediran] (http://github.com/TobiTheDeveloper)
 - Nisha Sahu ([https://github.com/nishaSahuU](https://github.com/nishaSahuU))
+- [Chelsea Quindipan](https://github.com/quindipc)
 - [StefKal](https://github.com/StefKal)
 - [drremo1](https://github.com/drremo1)
 - [Sri Vardhana Korada](https://github.com/srivardhanakorada)
