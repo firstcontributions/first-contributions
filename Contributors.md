@@ -1,7 +1,7 @@
 # Contributors
 
   [Farookh](https://github.com/FarookhNITAP)
-
+-[Samuel Onyebekeh](https://github.com/SamuelOnyebekeh)
 -[Naman Jain](https://github.com/namanjain7)
 -[Jade Vieval](https://github.com/jadevvl)
 -[Aliloulaye Tchaou](https://github.com/aliloulaye)
