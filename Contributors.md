@@ -34,6 +34,7 @@
 - [Vaibhav Chauhan](https://github.com/rover07)
 - [Saket Gupta](https://github.com/saket0x07)
 - [Jimmy]
+-[Amruth]
 - [Jim Franklin](https://github.com/jim-franklin)
 -[Agnik] (https://github.com/agnik06)
 - [Md. Abu Jafor](https://github.com/abujaforhadi)
