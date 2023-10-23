@@ -536,7 +536,7 @@ harshal honde
 - [Jie Qiu](https://github.com/Jieqstu)
   [Rickmwasofficial](https://github.com/Rickmwasofficial)
 - [Ishaan Jangid](https://github.com/Ishaanjangid)sunsanity
-
+- [Une Nyide](https://github.com/Unomars4)
 - [JW]
 - [nativ]
 - [Abhishek Mohan](https://github.com/AbhishekMohanKr)
