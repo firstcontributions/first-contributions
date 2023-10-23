@@ -49,6 +49,7 @@
 - [Saket Gupta](https://github.com/saket0x07)
 - [Jimmy]
 -[Amruth]
+-[Guillermo Alvarez Bacame] (https://github.com/gabacame)
 -[Namatirai Chibvongodze](https://github.com/Namatirai)
 - [Jim Franklin](https://github.com/jim-franklin)
 -[Agnik] (https://github.com/agnik06)
