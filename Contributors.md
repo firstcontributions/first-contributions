@@ -3872,3 +3872,4 @@ Akash Abraham
 -[Priyanshu Prajapati](https://github.com/PentesterPriyanshu)
 - [Wan Adam]  (https://github.com/c0rdial)
 - [Daniel Flores](https://github.com/Daniel-Flores-Web)
+- [Ayush Singh](https://github.com/ayush-singh08)
