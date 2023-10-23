@@ -37,6 +37,7 @@
 -[Agnik] (https://github.com/agnik06)
 - [Md. Abu Jafor](https://github.com/abujaforhadi)
 - [Melody Gatan](https://github.com/mel418)
+- [Yashwin Sudarshan](https://github.com/Yashwin-Sudarshan)
 - [Harshavardhan Bajoria](https://github.com/HVbajoria)
 - [Farookh](https://github.com/FarookhNITAP)
 - [Shreyash](https://github.com/ShreyashJ12)
