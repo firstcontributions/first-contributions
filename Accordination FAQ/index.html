@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .faq {
+            width: 300px;
+        }
+        .question {
+            cursor: pointer;
+            background-color: #f0f0f0;
+            padding: 10px;
+            border: none;
+            text-align: left;
+            width: 100%;
+        }
+        .answer {
+            display: none;
+            padding: 10px;
+            background-color: #fff;
+        }
+        .question.active {
+            background-color: #3498db;
+            color: #fff;
+        }
+        .question.active + .answer {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="faq">
+        <button class="question">Question 1</button>
+        <div class="answer">Answer 1</div>
+        <button class="question">Question 2</button>
+        <div class="answer">Answer 2</div>
+        <button class="question">Question 3</button>
+        <div class="answer">Answer 3</div>
+    </div>
+</body>
+</html>
