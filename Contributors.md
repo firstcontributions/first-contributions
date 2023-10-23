@@ -935,6 +935,7 @@ gulshan
 - [Mohith N](https://github.com/Mhith)
 - [Anubhav Tekriwal](https://github.com/Anubhav099)
 - [SHIVA NC](https://github.com/ShivaNagachander)
+- [S E Mosby](https://github.com/smosby)
 - [Osayeme O](https://github.com/Osayeme)
 - [Emma P](https://github.com/EmPajak21)
 - [Ammar Shirazi](https://github.com/AmmarShirazi)
