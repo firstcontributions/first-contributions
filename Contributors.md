@@ -6,6 +6,7 @@
 - [Krish Gautam](https://github.com/kris248)
 - [Sur](https://github.com/mazipan/hello-open-source/new/master/people)
 - [Aakash Gupta](https://github.com/aakashgg)
+- [CodeWithJazzy](https://github.com/codewithjazzy)
 - [Pranav Kannawar](https://github.com/Hackwithpranav)
   [Farookh](https://github.com/FarookhNITAP)
 -[Samuel Onyebekeh](https://github.com/SamuelOnyebekeh)
