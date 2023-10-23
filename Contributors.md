@@ -11,6 +11,7 @@
 - [Aakash Basnet](https://github.com/iamaakashbasnet)
 -[Alisha](https://github.com/Alisha-786)
 - [Till Gohl](https://github.com/tillgo)
+- [Gianmarco Iachella](https://github.com/iachella)
 - [Naman Jain](https://github.com/namanjain7)
 -[Jade Vieval](https://github.com/jadevvl)
 -[Adhiraj](https://github.com/xraymaverick)
