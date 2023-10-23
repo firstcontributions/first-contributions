@@ -53,6 +53,7 @@
 - [Harshavardhan Bajoria](https://github.com/HVbajoria)
 - [Amaan Farooquee](https://github.com/AmaanFarooquee)
 - [Farookh](https://github.com/FarookhNITAP)
+-[Muntajir]
 - [Shreyash](https://github.com/ShreyashJ12)
 - [Vipul Varshney](https://github.com/vipulSVJ)
 - [Award Malisi](https://github.com/unearthlyglow)
