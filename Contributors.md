@@ -3836,4 +3836,8 @@ Akash Abraham
 -[E-E-N][https://github.com/E-E-N]
 -[Bglid][https://github.com/bglid]
 -[Mwangala Kramer](https://github.com/kramer001mwangala)
--[yiong](https://github.com/gin280)
+- [bagechengzi](https://github.com/bagechengzi)
+- [Barry Xu](https://github.com/BarryXu777)
+- [Korada Vishal](https://github.com/Vishalk91-4)
+- [Frosmin](https://github.com/Frosmin)
+- [yiong](https://github.com/gin280)
