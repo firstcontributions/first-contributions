@@ -25,6 +25,7 @@
 - [daemon-surge-suzuya](https://github.com/daemon-surge-suzuya)
 - [Anshul Kansal](https://github.com/anshulkansal04)
 - [Farukh](https://github.com/FarukhS52)
+- [VictorAlexisL](https://github.com/VictorAlexisL)
 - [Olaoluwa Odewale](https://github.com/Olaoluwa99)
 - [Smit Dixit](https://github.com/smit-dixit/first-contributions.git)
 - [Rohan](https://github.com/RohanReddy2003)
