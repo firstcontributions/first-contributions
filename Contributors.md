@@ -25,6 +25,7 @@
 -[MasaJnnjn](https://github.com/masa-jnnjn)
 -[Rohan](https://github.com/RS-labhub)
 -[Harsh](https://github.com/oharsh)
+-[Srigopal](https://github.com/Srigopalsarda)
 - [daemon-surge-suzuya](https://github.com/daemon-surge-suzuya)
 - [Anshul Kansal](https://github.com/anshulkansal04)
 - [Farukh](https://github.com/FarukhS52)
