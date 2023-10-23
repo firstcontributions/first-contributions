@@ -19,6 +19,7 @@
 - [marshal1244]
 - [Branchtest]
 - [Jonathan Robinson](https://github.com/Jon-Robb)
+- [Rawshan Sharma](https://github.com/Rawshansharma)
 - [Brenda Wanjiru] (https://github.com/Bree-Wanjiru)
 - [Michael Wekesa](https://github.com/wekesa360)
 - [Cyprian Kiplangat](https://github.com/mutaician)
