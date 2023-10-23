@@ -1210,6 +1210,7 @@ Pizzacat
 -[Ritin Tiwari](https://github.com/ritin0204)
 -Maryam
 -[vaishnavi sisodiya](https://github.com/vaishnavisisodiya)
+-Syed M Umer
 JialingYU
 -[Govind Chaudhary](https://github.com/Govind9012)
 -[Christian Lehr](https://github.com/jinroftw)
