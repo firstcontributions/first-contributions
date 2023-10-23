@@ -2040,6 +2040,7 @@ Nikhil R
 - [Daniil Malewicz]
 - [Aaryan Poria] (https://github.com/Aaryan-Poria)
 - [Fran Racic](https://github.com/franracic)
+- [cub-tor] (https://github.com/cub-tor)
 - [Ayushman Singh](https://github.com/ayushman101)
 - [Joey Harper](https://github.com/PapaJoe24)
 - [AresLOLXD](https://github.com/AresLOLXD)
