@@ -3602,6 +3602,7 @@ Akash Abraham
 - [Abdul Azeez](https://github.com/Abdul-Azeez060)
 - [Ritch Johan Jefferson](https://github.com/jeffersonfed)
 - [Ross Woods](https://github.com/RossCWoods)
+- [Ray Mercedes](https://github.com/coolrey3)
 - [DS-X1](https://github.com/DS-X1)
 - [Nilendra Singh]
 - [Ethan Eckert](https://github.com/eth9n-dev)
