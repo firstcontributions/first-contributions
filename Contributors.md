@@ -36,6 +36,7 @@
 - [Md. Abu Jafor](https://github.com/abujaforhadi)
 - [Melody Gatan](https://github.com/mel418)
 - [Harshavardhan Bajoria](https://github.com/HVbajoria)
+- [Amaan Farooquee](https://github.com/AmaanFarooquee)
 - [Farookh](https://github.com/FarookhNITAP)
 - [Shreyash](https://github.com/ShreyashJ12)
 - [Vipul Varshney](https://github.com/vipulSVJ)
