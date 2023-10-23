@@ -36,6 +36,7 @@
 - [Anshul Kansal](https://github.com/anshulkansal04)
 - [nitvp](https://github.com/sureshp820)
 - [Farukh](https://github.com/FarukhS52)
+- [VictorAlexisL](https://github.com/VictorAlexisL)
 - [Olaoluwa Odewale](https://github.com/Olaoluwa99)
 - [Smit Dixit](https://github.com/smit-dixit/first-contributions.git)
 - [Rohan](https://github.com/RohanReddy2003)
