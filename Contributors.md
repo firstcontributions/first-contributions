@@ -13,6 +13,7 @@
 - [Till Gohl](https://github.com/tillgo)
 - [Gianmarco Iachella](https://github.com/iachella)
 - [Naman Jain](https://github.com/namanjain7)
+- [Ekam Bitt](https://github.com/Ekam-Bitt)
 -[Jade Vieval](https://github.com/jadevvl)
 -[Adhiraj](https://github.com/xraymaverick)
 - [ professssor](https://github.com/professssor)
