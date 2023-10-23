@@ -115,6 +115,7 @@
 - [Karan Patel](https://github.com/karanop001018)
 - [Siddarth G](https://github.com/siddarth2810)
 - [Jonathan Robinson](https://github.com/Jon-Robb)
+- [Rawshan Sharma](https://github.com/Rawshansharma)
 - [Jacky Yang](https://github.com/jordles)
 - [EduGese](https://github.com/EduGese)
 - -[Niraj](https://github.com/btrezz)
