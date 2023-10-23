@@ -407,6 +407,7 @@ harshal honde
 - [zh chen](https://github.com/JasonC10)
 - [Utsav Bhattarai](https://github.com/utsavbhattarai007)
 - [Ash V](https://github.com/tvermaashutosh)
+- [AgusS LupusSuperbia](https://github.com/LupusSuperbia)
 - [Niraj Kumar](https://github.com/nirju123)
 - [Abhishek Gupta](https://github.com/Abhishekgupta204)
 - [Manish Jha](https://github.com/manishjha-04)
