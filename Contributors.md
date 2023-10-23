@@ -10,6 +10,7 @@
 -[Alisha](https://github.com/Alisha-786)
 -[Naman Jain](https://github.com/namanjain7)
 -[Jade Vieval](https://github.com/jadevvl)
+-[Adhiraj](https://github.com/xraymaverick)
 -[Aliloulaye Tchaou](https://github.com/aliloulaye)
 -[daemon-surge-suzuya](https://github.com/daemon-surge-suzuya)
 -[Sunny Gandhwani](https://github.com/Sunny-unik)
