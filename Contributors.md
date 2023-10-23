@@ -107,6 +107,7 @@
 - [Nimit](https://github.com/Nimit)
 - [Afaq Razaq](https://github.com/xyzafaq)
 - [marshal1244]
+- [Shanta Hiremath](https://github.com/shanta123)
 - [kubigor](https://github.com/kubigor)
 - [alanv73]
 - [Branchtest]
