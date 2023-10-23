@@ -11,6 +11,7 @@
 - [Aakash Basnet](https://github.com/iamaakashbasnet)
 -[Alisha](https://github.com/Alisha-786)
 -[Naman Jain](https://github.com/namanjain7)
+-[Muntajir](https://github.com/Muntajir11)
 -[Jade Vieval](https://github.com/jadevvl)
 -[Adhiraj](https://github.com/xraymaverick)
 - [ professssor](https://github.com/professssor)
