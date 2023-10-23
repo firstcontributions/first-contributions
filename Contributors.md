@@ -3866,3 +3866,4 @@ Akash Abraham
 - [Dedphish](https://github.com/Dedphish)
 -[Priyanshu Prajapati](https://github.com/PentesterPriyanshu)
 - [Wan Adam]  (https://github.com/c0rdial)
+- [Daniel Flores](https://github.com/Daniel-Flores-Web)
