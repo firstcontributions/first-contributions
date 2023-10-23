@@ -39,6 +39,7 @@
 - [Melody Gatan](https://github.com/mel418)
 - [Yashwin Sudarshan](https://github.com/Yashwin-Sudarshan)
 - [Harshavardhan Bajoria](https://github.com/HVbajoria)
+- [Amaan Farooquee](https://github.com/AmaanFarooquee)
 - [Farookh](https://github.com/FarookhNITAP)
 - [Shreyash](https://github.com/ShreyashJ12)
 - [Vipul Varshney](https://github.com/vipulSVJ)
