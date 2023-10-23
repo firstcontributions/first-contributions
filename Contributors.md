@@ -8,6 +8,7 @@
 - [Saurabh Tajane] (https://github.com/saurabh7nt)
 - [bos54rus] (https://github.com/bos54rus)
 - [Jaganath G](https://github.com/Jagan0901)
+- [DavidSaruni](https://github.com/DavidSaruni)
 - [Dedan Okware](https://github.com/SoftCysec)
 - [marshal1244]
 - [Michael Wekesa](https://github.com/wekesa360)
