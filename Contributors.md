@@ -42,6 +42,7 @@
 - [Saket Gupta](https://github.com/saket0x07)
 - [Jimmy]
 -[Amruth]
+-[Namatirai Chibvongodze](https://github.com/Namatirai)
 - [Jim Franklin](https://github.com/jim-franklin)
 -[Agnik] (https://github.com/agnik06)
 - [Md. Abu Jafor](https://github.com/abujaforhadi)
