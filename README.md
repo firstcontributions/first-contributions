@@ -185,7 +185,7 @@ If you go to your repository on GitHub, you'll see a `Compare & pull request` bu
 
 Now submit the pull request.
 
-![PR Screenshot](https://github.com/Priyanshuthapliyal2005/first-contributions/blob/7ecbe9c9067fb2b33b67d66a1047fff7ade48c14/additional-material/Screenshot%202023-10-22%20195346.png)
+<img style="float: right;" src="https://github.com/Priyanshuthapliyal2005/first-contributions/blob/5021aab208a5b69ff87e5f23da6c153246aed821/additional-material/pr_screenshot.jpeg" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
