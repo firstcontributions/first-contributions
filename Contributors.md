@@ -12,6 +12,7 @@
 -[Naman Jain](https://github.com/namanjain7)
 -[Jade Vieval](https://github.com/jadevvl)
 -[Adhiraj](https://github.com/xraymaverick)
+- [ professssor](https://github.com/professssor)
 -[Aliloulaye Tchaou](https://github.com/aliloulaye)
 -[daemon-surge-suzuya](https://github.com/daemon-surge-suzuya)
 -[Sunny Gandhwani](https://github.com/Sunny-unik)
