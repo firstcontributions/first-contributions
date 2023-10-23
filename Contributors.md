@@ -62,6 +62,7 @@
 - [Farookh](https://github.com/FarookhNITAP)
 -[Muntajir]
 - [Shreyash](https://github.com/ShreyashJ12)
+- [zMiguezz](https://github.com/zMiguezz)
 - [Vipul Varshney](https://github.com/vipulSVJ)
 - [Award Malisi](https://github.com/unearthlyglow)
 - [Gosha Dulkin](https://github.com/GoshaDulkin)
