@@ -3589,7 +3589,6 @@ Akash Abraham
 - [Mehmet Bacık](https://github.com/mehmetbacik)
 - [Anant Agarwal] (https://github.com/ThisMonkeysGoneToHeaven)
 - [Shin You](https://github.com/a5512167086)
-- [Ray Mercedes](https://github.com/coolrey3)
 - [Vivek Ghori](https://github.com/vivekghori)
 - [Paul Ragsac](https://github.com/Chifuuyu)
 - [Nguyễn ĝức Khải](https://github.com/KhaiNguyenDuc)
