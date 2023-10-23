@@ -7,6 +7,7 @@
 - [Pranav Kannawar](https://github.com/Hackwithpranav)
   [Farookh](https://github.com/FarookhNITAP)
 -[Samuel Onyebekeh](https://github.com/SamuelOnyebekeh)
+- [Aakash Basnet](https://github.com/iamaakashbasnet)
 -[Alisha](https://github.com/Alisha-786)
 -[Naman Jain](https://github.com/namanjain7)
 -[Jade Vieval](https://github.com/jadevvl)
