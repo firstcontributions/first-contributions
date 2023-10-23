@@ -105,6 +105,7 @@
 - [bos54rus] (https://github.com/bos54rus)
 - [vinay Gautam] (https://github.com/vinaygautam93)
 - [Jaganath G](https://github.com/Jagan0901)
+- [DavidSaruni](https://github.com/DavidSaruni)
 - [Dedan Okware](https://github.com/SoftCysec)
 - [nars](https://github.com/narisu960209)
 - [Nimit](https://github.com/Nimit)
