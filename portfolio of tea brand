@@ -1,0 +1,394 @@
+<!-- Made by Shivam Raj for Task-1 for Web Development and Design at Oasis Infobyte -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+     <title>Landing page</title>
+
+     <link rel="stylesheet" href="style.css" />
+
+    </head>
+
+
+<body>
+
+    <header>
+        <section class="nav">
+            <div class="logo">
+                <a href="#"><img class="im" src="Untitled1-removebg-preview.png" alt="">Tea</a>
+            </div>
+
+            <input id="menu-toggle" type="checkbox" />
+            <label class="menu-button-container" for="menu-toggle">
+          <div class="menu-button"></div>
+        </label>
+            <ul class="menu">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#speciality">About</a></li>
+                <li><a href="#popular">Popular</a></li>
+                <li><a href="#review">Contact</a></li>
+                <li><a href="#order" class="order">Menu</a></li>
+            </ul>
+        </section>
+    </header>
+    <section class="home" id="home ">
+        <div class="content">
+            <h3 class="mainfont">
+                The T<span class="yellowColor">e</span>a power
+            </h3>
+            <h3>
+                A cup of T<span class="yellowColor">e</span>a for , instant
+                <span class="yellowColor">Work</span>
+            </h3>
+            <p>
+                Tea is a beloved beverage enjoyed worldwide for its comforting and invigorating qualities. Originating in ancient China, tea has a rich history spanning thousands of years. Derived from the leaves of the Camellia sinensis plant, it comes in various forms like black, green, oolong, and white tea, each with its unique characteristics. Tea offers a myriad of health benefits, known for its antioxidant properties and potential to boost metabolism. Beyond its physical attributes, tea has a calming effect on the mind, providing a moment of tranquility in our busy lives. Whether enjoyed hot or iced, tea continues to be a cherished companion in countless cultures, symbolizing warmth, hospitality, and relaxation.
+            </p>
+            <a href="# " class="btn">ORDER NOW</a>
+        </div>
+        <div class="image">
+            <img src="Indian-Tea-Karak-Chai-feature-image-2022-500x500.jpg" alt=" " />
+        </div>
+    </section>
+</body>
+
+</html>
+(*  now css *)
+@import url("https://fonts.googleapis.com/css2?family=Jacques+Francois+Shadow&display=swap");
+* {
+    font-family: "Nunito", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: all 0.2s linear;
+}
+
+html {
+    font-size: 62.5%;
+    overflow: hidden;
+}
+
+body {
+    background: #212531;
+    margin: 0;
+}
+
+header {
+    margin: 0px;
+}
+
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+ul {
+    list-style: none;
+}
+
+section {
+    padding: 2rem 9%;
+}
+
+.logo {
+    font-size: 2.5rem;
+    font-weight: bolder;
+    color: #666;
+    display: inline-block;
+}
+
+.logo i {
+    padding-right: 2rem;
+    color: black;
+}
+
+.im{
+    width: 6.5%;
+    height: auto;
+    align-items: center;
+    /* border: 2px solid rgb(27, 8, 8); */
+    filter: grayscale(100%);
+
+
+}
+.im:hover{
+    transform: scale(1.03);
+    filter: drop-shadow(0 0 10px #333);
+    transition: 0.2sec;
+    justify-content: space-between;
+
+}
+.im:hover img{
+    filter: scale(0%);
+}
+
+.order {
+    text-shadow: -1px -1px 0 yellow, 1px -1px 0 yellow, -1px 1px 0 yellow, 1px 1px yellow;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background: white;
+    color: black;
+    height: 65px;
+    padding: 1em;
+    font-size: 25px;
+}
+
+.menu li:hover {
+    cursor: pointer;
+    transform: scale(1.2);
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    margin: 0;
+}
+
+.menu>li {
+    margin: 0 1rem;
+    overflow: hidden;
+}
+
+.menu-button-container {
+    display: none;
+    height: 100%;
+    width: 30px;
+    cursor: pointer;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#menu-toggle {
+    display: none;
+}
+
+.menu-button,
+.menu-button::before,
+.menu-button::after {
+    display: block;
+    background-color: black;
+    position: absolute;
+    height: 6px;
+    width: 32px;
+    border-radius: 3px;
+    color: white;
+}
+
+.menu-button::before {
+    content: "";
+    margin-top: -8px;
+}
+
+.menu-button::after {
+    content: "";
+    margin-top: 8px;
+}
+
+#menu-toggle:checked+.menu-button-container .menu-button::before {
+    margin-top: 0px;
+    transform: rotate(45deg);
+}
+
+#menu-toggle:checked+.menu-button-container .menu-button {
+    background: rgba(255, 255, 255, 0);
+}
+
+#menu-toggle:checked+.menu-button-container .menu-button::after {
+    margin-top: 0px;
+    transform: rotate(-45deg);
+}
+
+.home {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    min-height: 100vh;
+    align-items: center;
+}
+
+.home .content {
+    flex: 1 1 40rem;
+    padding-top: 6.5rem;
+}
+
+.home .image {
+    flex: 1 1 30rem;
+}
+
+.home .image img {
+    width: 90%;
+    height: 90%;
+    padding: 1rem;
+    animation: float 3s linear infinite;
+}
+
+.image:hover{
+    background-color: ;
+    /* border: 2px solid rgb(27, 8, 8); */
+    /* filter: grayscale(10); */
+    filter: grayscale(100%);
+    place-items: center;
+    box-shadow: 0 0 20px #333;
+    object-fit: cover;
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    transform: scale(1.03);
+    filter: drop-shadow(0 0 5px #333);
+    transition: 0.2sec;
+    filter: scale(0%);
+    object-fit: cover;
+}
+h3{
+    filter: grayscale(100%);
+    place-items: center;
+    box-shadow: 0 0 20px #333;
+    object-fit: cover;
+    overflow: hidden;
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    /* justify-content: space-between; */
+    transform: scale(1.03);
+    filter: drop-shadow(0 0 5px #333);
+    transition: 0.2sec;
+    filter: scale(0%);
+    object-fit: cover;
+
+}
+
+@keyframes float {
+    0%,
+    100% {
+        transform: translateY(0rem);
+    }
+    50% {
+        transform: translateY(3rem);
+    }
+}
+
+.home .content h3 {
+    font-size: 5rem;
+    color: white;
+}
+
+.yellowColor {
+    color: yellow;
+}
+
+.mainfont {
+    font-family: "Jacques Francois Shadow", cursive;
+}
+
+.home .content p {
+    font-size: 1.7rem;
+    color: rgba(53, 233, 164, 0.597);
+    padding: 1rem 0;
+}
+
+.heading {
+    text-align: center;
+    font-size: 3.5rem;
+    padding: 1rem;
+    color: #ed3f3f;
+}
+
+.btn {
+    display: inline-block;
+    padding: 0.8rem 3rem;
+    border: 0.2rem solid rgba(194, 205, 33, 0.654);
+    color: rgba(136, 243, 43, 0.567);
+    cursor: pointer;
+    font-size: 1.7rem;
+    border-radius: 0.5rem;
+    position: relative;
+    overflow: hidden;
+    z-index: 0;
+    margin: 1rem 1rem 0 0;
+}
+
+.btn:hover {
+    color: #f38d08;
+}
+
+@media (max-width: 991px) {
+    html {
+        font-size: 55%;
+    }
+    header {
+        padding: 2rem;
+    }
+    section {
+        padding: 2rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .menu-button-container {
+        display: flex;
+    }
+    .menu {
+        position: absolute;
+        top: 0;
+        margin-top: 50px;
+        left: 0;
+        flex-direction: column;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        padding: 2rem
+    }
+    .menu li:hover {
+        transform: scale(1);
+    }
+    #menu-toggle~.menu li {
+        height: 0;
+        margin: 0;
+        padding: 0;
+        border: 0;
+    }
+    #menu-toggle:checked~.menu li {
+        border: 1px solid #9f9a9a;
+        height: 2.5em;
+        padding: 0.5em;
+    }
+    .menu>li {
+        display: flex;
+        justify-content: center;
+        margin: 0;
+        padding: 0.5em 0;
+        width: 100%;
+        color: black;
+        background-color: #e8e8e8;
+    }
+    .menu>li:not(:last-child) {
+        border-bottom: 1px solid #444;
+    }
+}
+
+@media (max-width: 450px) {
+    html {
+        font-size: 50%;
+        overflow-x: hidden;
+        overflow-y: scroll;
+        text-align: center;
+    }
+}
+
