@@ -15,6 +15,7 @@
 - [Jibril Abdulazeez](https://github.com/Jibbyie)
 - [Aravind Subramanian S](https://github.com/Reallyaravind)
 - [Aakash Gupta](https://github.com/aakashgg)
+- [Varad Kulkarni](https://github.com/varad-kulkarni172)
 - [Govindapalle Vijaychandra]
 - [Abhinav Singh](https://github.com/AbhinavSingh111)
 - [Itesh Tomar](https://github.com/petrioteer)
