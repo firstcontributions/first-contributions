@@ -47,6 +47,7 @@ public class SinglyLinkedList {
         sList.addNode(2);    
         sList.addNode(3);    
         sList.addNode(4);    
+        
         sList.display();    
     }    
 }    

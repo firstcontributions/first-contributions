@@ -55,6 +55,7 @@ public class DoublyLinkedList {
         obj.addNewNode("Banglore");
         obj.addNewNode("Satara");
         obj.addNewNode("Amravati");
+        
         obj.showData();
     }
 }
