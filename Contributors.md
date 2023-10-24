@@ -1,7 +1,10 @@
 # Contributors
 
+- [Pratik More](https://github.com/PratikMore55)
+- [Bhagirathi Rohidas](https://github.com/BhagirathiRohidas/)
 - [Nicole Lancaster](https://github.com/nicole-lancaster/)
 - [Itha Ramakrishna](https://github.com/Ivsrk/)
+- [Krati agrawal](https://github.com/kratiagrawal100)
 - [Rahul](https://github.com/Rahulsrini)
 - [Lasan Ranatunge](https://github.com/lasanseniya)
 - [meghaverma3110](https://github.com/meghaverma3110)
@@ -12,6 +15,7 @@
 - [Jibril Abdulazeez](https://github.com/Jibbyie)
 - [Aravind Subramanian S](https://github.com/Reallyaravind)
 - [Aakash Gupta](https://github.com/aakashgg)
+- [Varad Kulkarni](https://github.com/varad-kulkarni172)
 - [Govindapalle Vijaychandra]
 - [Abhinav Singh](https://github.com/AbhinavSingh111)
 - [Itesh Tomar](https://github.com/petrioteer)
@@ -22,6 +26,7 @@
 -[Samuel Onyebekeh](https://github.com/SamuelOnyebekeh)
 - [Aakash Basnet](https://github.com/iamaakashbasnet)
 -[James Yun](https://github.com/JamesYcode)
+- [Ankit Kumar](https://github.com/ak3311g)
 -[Mawoda Ekabua](https://github.com/mdekabs)
 - [Boubacar FALL](https://github.com/boobacar)
 -[Alisha](https://github.com/Alisha-786)
@@ -1361,6 +1366,7 @@ PRAJOT
 - Andrew Pun
   [Hoon Kang] (https://github.com/hoon610)
 - [Dillon Le](https://github.com/dillonhl)
+- [Juan E. Gil] (https://github.com/JuanE-Gil)
 - [Sudip Das](httpsgithub.com/pris01)
 - [Nour Mostafa] (https://github.com/n332)
 - [Leandro Henrique Barbosa](https://github.com/leandrohbar)
@@ -3845,6 +3851,7 @@ Akash Abraham
 -[Chrinovic MM](https://github.com/CHRINOVIC-MM)
 - [Frank](https://github.com/Frank40790)
 - [mthomsn](https://github.com/mthomsn/mthomsn)
+- [Tanisha Agarwal](https://github.com/Agrwaltanisha)
 - [Lillyann](https://github.com/lcelisse)
 - [Richmond Nyame](https://github.com/Nyame100)
 - [Abdourahmane Jalloh](https://github.com/aradradev)
@@ -3922,6 +3929,8 @@ Akash Abraham
 - [Andrew Delph](https://github.com/andrew-delph)
 - [Nedko Dimitrov](https://github.com/nedkodimitrov)
 - [Fandy Fathurrohman](https://github.com/Fandyfr)
+- [Pongpatapee (Dan) Peerapatanapokin](https://github.com/pongpatapee)
 - [Jia Yuqi](https://github.com/j541443699)
 - [Tobiasz Mizerny](https://github.com/tmizerny)
+- [Curtis To](https://github.com/tourist-C)
 
