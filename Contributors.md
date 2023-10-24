@@ -39,6 +39,7 @@
 -[pranat Siyal]
 -[romitp4l(ROMIT PAL)](https://github.com/romitp4l)
 -[Yachika9925](https://github.com/Yachika9925)
+-[Aravind Subramanian S](https://github.com/Reallyaravind)
 -[MasaJnnjn](https://github.com/masa-jnnjn)
 -[Rohan](https://github.com/RS-labhub)
 -[Harsh](https://github.com/oharsh)
