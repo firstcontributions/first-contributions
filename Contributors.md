@@ -135,6 +135,7 @@
 -[shiasin](https://github.com/shiasin)
 - [Khushminder Singh](https://github.com/khushminder270)
 - [Rd Patel](https://github.com/hector756)
+- [vidyaa18](https://github.com/vidyaa18)
 - [Vidhi Jain](https://github.com/vidhijain27)
 - [Avinash S](https://github.com/Hunter305)
 - [Saurabh hingade](https://github.com/sauravhingade)
