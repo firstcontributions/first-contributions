@@ -10,6 +10,7 @@
 - [Sur](https://github.com/mazipan/hello-open-source/new/master/people)
 - [Aravind Subramanian S](https://github.com/Reallyaravind)
 - [Aakash Gupta](https://github.com/aakashgg)
+- [Govindapalle Vijaychandra]
 - [Abhinav Singh](https://github.com/AbhinavSingh111)
 - [CodeWithJazzy](https://github.com/codewithjazzy)
 - [adrianlamlh](https://github.com/adrianlamlh)
