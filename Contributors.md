@@ -14,6 +14,7 @@
 - [Aakash Gupta](https://github.com/aakashgg)
 - [Govindapalle Vijaychandra]
 - [Abhinav Singh](https://github.com/AbhinavSingh111)
+- [Itesh Tomar](https://github.com/petrioteer)
 - [CodeWithJazzy](https://github.com/codewithjazzy)
 - [adrianlamlh](https://github.com/adrianlamlh)
 - [Pranav Kannawar](https://github.com/Hackwithpranav)
