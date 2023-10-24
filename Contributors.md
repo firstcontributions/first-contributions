@@ -22,6 +22,7 @@
 -[Mawoda Ekabua](https://github.com/mdekabs)
 - [Boubacar FALL](https://github.com/boobacar)
 -[Alisha](https://github.com/Alisha-786)
+- [Sinan Muhammed P](https://github.com/sinan-q)
 - [Till Gohl](https://github.com/tillgo)
 - [Gianmarco Iachella](https://github.com/iachella)
 - [Naman Jain](https://github.com/namanjain7)
