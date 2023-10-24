@@ -46,6 +46,7 @@
 -[Yachika9925](https://github.com/Yachika9925)
 -[MasaJnnjn](https://github.com/masa-jnnjn)
 -[Rohan](https://github.com/RS-labhub)
+-[Ajay](https://github.com/ajaydatla)
 -[Harsh](https://github.com/oharsh)
 -[Srigopal](https://github.com/Srigopalsarda)
 - [daemon-surge-suzuya](https://github.com/daemon-surge-suzuya)
