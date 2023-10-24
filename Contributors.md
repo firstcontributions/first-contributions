@@ -1963,7 +1963,7 @@ Nikhil R
 - [Sam Ghazzawi](https://github/savvisam)
 - [JudgeIsaac]
 - [autom101] (https://github.com/autom101)
-- ➡[Martyn O'Connor DLR-Roberts] (https://github.com/Martynodlrr)⬅
+- ➡ [Martyn O'Connor DLR-Roberts] ⬅ (https://github.com/Martynodlrr)
 - [Cwj900](https://github.com/Cwj900)
 - [Ritik](https://github.com/ritikkumar-agrawal)
 - [KeerthanaVelliyangiri](https://github.com/KeerthanaVelliyangiri)
