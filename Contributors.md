@@ -1,5 +1,6 @@
 # Contributors
 
+- [Rahul](https://github.com/Rahulsrini)
 - [Lasan Ranatunge](https://github.com/lasanseniya)
 - [meghaverma3110](https://github.com/meghaverma3110)
 - [Kushal Agrawal](https://github.com/kushal34712)
