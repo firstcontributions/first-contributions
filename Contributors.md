@@ -8,6 +8,7 @@
 - [Krish Gautam](https://github.com/kris248)
 - [Parth Dwivedi](https://github.com/Parth4git)
 - [Sur](https://github.com/mazipan/hello-open-source/new/master/people)
+- [Jibril Abdulazeez](https://github.com/Jibbyie)
 - [Aravind Subramanian S](https://github.com/Reallyaravind)
 - [Aakash Gupta](https://github.com/aakashgg)
 - [Govindapalle Vijaychandra]
