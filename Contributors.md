@@ -1,5 +1,6 @@
 # Contributors
 
+- [Bhagirathi Rohidas](https://github.com/BhagirathiRohidas/)
 - [Nicole Lancaster](https://github.com/nicole-lancaster/)
 - [Itha Ramakrishna](https://github.com/Ivsrk/)
 - [Rahul](https://github.com/Rahulsrini)
