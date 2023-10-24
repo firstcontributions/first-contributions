@@ -5,6 +5,7 @@
 - [Nicole Lancaster](https://github.com/nicole-lancaster/)
 - [Itha Ramakrishna](https://github.com/Ivsrk/)
 - [Krati agrawal](https://github.com/kratiagrawal100)
+- [Rick de Ruiter](https://github.com/TheFluyter)
 - [Rahul](https://github.com/Rahulsrini)
 - [Lasan Ranatunge](https://github.com/lasanseniya)
 - [meghaverma3110](https://github.com/meghaverma3110)
