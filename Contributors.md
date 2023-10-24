@@ -1,5 +1,6 @@
 # Contributors
 
+- [Nicole Lancaster](https://github.com/nicole-lancaster/)
 - [Itha Ramakrishna](https://github.com/Ivsrk/)
 - [Rahul](https://github.com/Rahulsrini)
 - [Lasan Ranatunge](https://github.com/lasanseniya)
