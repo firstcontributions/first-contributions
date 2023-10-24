@@ -25,6 +25,7 @@
 - [Ekam Bitt](https://github.com/Ekam-Bitt)
 -[Jade Vieval](https://github.com/jadevvl)
 -[Adhiraj](https://github.com/xraymaverick)
+-[Aravind Subramanian S](https://github.com/Reallyaravind)
 - [ professssor](https://github.com/professssor)
 -[Aliloulaye Tchaou](https://github.com/aliloulaye)
 -[daemon-surge-suzuya](https://github.com/daemon-surge-suzuya)
@@ -39,7 +40,6 @@
 -[pranat Siyal]
 -[romitp4l(ROMIT PAL)](https://github.com/romitp4l)
 -[Yachika9925](https://github.com/Yachika9925)
--[Aravind Subramanian S](https://github.com/Reallyaravind)
 -[MasaJnnjn](https://github.com/masa-jnnjn)
 -[Rohan](https://github.com/RS-labhub)
 -[Harsh](https://github.com/oharsh)
