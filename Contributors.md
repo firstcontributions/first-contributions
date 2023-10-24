@@ -1,5 +1,6 @@
 # Contributors
 
+- [Oolazile](https://github.com/Oolazile)
 - [Itha Ramakrishna](https://github.com/Ivsrk/)
 - [Rahul](https://github.com/Rahulsrini)
 - [Lasan Ranatunge](https://github.com/lasanseniya)
@@ -83,7 +84,6 @@
 - [Utkarsh Upadhyay](https://github.com/utk2103)
 - [Enrico] (https://github.com/enristra)
 - [Rohan Sharma](https://github.com/RS-labhub)
-- [Oolazile] (https://github.com/Oolazile)
 - [*Nyshadham Sathvik*] (https://github.com/sathvik333)
 - [Noor Alam] (https://github.com/nooralamf42)
 - [Matthias Sagerer](https://github.com/MatthiasSagerer)
@@ -235,7 +235,6 @@
 - [Atharv Fakatkar](https://github.com/atharvfakatkar)
 - [Siddharth Warrier](https://github.com/siddwarr)
 - [Sujatha](https://github.com/21CSE49)
-- [Oolazile](https://github.com/Oolazile)
 - [Shivani G](https://github.com/ShivaniG14)
 - [Arunkumar N S](https://github.com/arunlorenz)
 - [AmmanChhetri] (https://github.com/AmmanChhetri)
