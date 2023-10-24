@@ -27,6 +27,7 @@
 - [Gianmarco Iachella](https://github.com/iachella)
 - [Naman Jain](https://github.com/namanjain7)
 - [Ekam Bitt](https://github.com/Ekam-Bitt)
+- [Vipul Varshney](https://github.com/ishant-void)
 -[Jade Vieval](https://github.com/jadevvl)
 -[Adhiraj](https://github.com/xraymaverick)
 - [ professssor](https://github.com/professssor)
