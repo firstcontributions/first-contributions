@@ -9,6 +9,7 @@
 - [Parth Dwivedi](https://github.com/Parth4git)
 - [Sur](https://github.com/mazipan/hello-open-source/new/master/people)
 - [Aakash Gupta](https://github.com/aakashgg)
+- [Abhinav Singh](https://github.com/AbhinavSingh111)
 - [CodeWithJazzy](https://github.com/codewithjazzy)
 - [adrianlamlh](https://github.com/adrianlamlh)
 - [Pranav Kannawar](https://github.com/Hackwithpranav)
