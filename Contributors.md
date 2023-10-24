@@ -52,6 +52,7 @@
 -[adiazt01](https://github.com/adiazt01)
 -[yourblood](https://github.com/sureshp820)
 -[narren](https://github.com/narrennagendra)
+-[Robert Richey](https://github.com/z0x0936)
 -[h-e-d-g-e-h-o-g(Arpit Negi)](https://github.com/h-e-d-g-e-h-o-g)
 -[pranat Siyal]
 -[romitp4l(ROMIT PAL)](https://github.com/romitp4l)
