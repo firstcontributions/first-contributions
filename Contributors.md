@@ -4,6 +4,7 @@
 - [Bhagirathi Rohidas](https://github.com/BhagirathiRohidas/)
 - [Nicole Lancaster](https://github.com/nicole-lancaster/)
 - [Itha Ramakrishna](https://github.com/Ivsrk/)
+- [Krati agrawal](https://github.com/kratiagrawal100)
 - [Rahul](https://github.com/Rahulsrini)
 - [Lasan Ranatunge](https://github.com/lasanseniya)
 - [meghaverma3110](https://github.com/meghaverma3110)
@@ -14,6 +15,7 @@
 - [Jibril Abdulazeez](https://github.com/Jibbyie)
 - [Aravind Subramanian S](https://github.com/Reallyaravind)
 - [Aakash Gupta](https://github.com/aakashgg)
+- [Varad Kulkarni](https://github.com/varad-kulkarni172)
 - [Govindapalle Vijaychandra]
 - [Abhinav Singh](https://github.com/AbhinavSingh111)
 - [Itesh Tomar](https://github.com/petrioteer)
@@ -24,6 +26,7 @@
 -[Samuel Onyebekeh](https://github.com/SamuelOnyebekeh)
 - [Aakash Basnet](https://github.com/iamaakashbasnet)
 -[James Yun](https://github.com/JamesYcode)
+- [Ankit Kumar](https://github.com/ak3311g)
 -[Mawoda Ekabua](https://github.com/mdekabs)
 - [Boubacar FALL](https://github.com/boobacar)
 -[Alisha](https://github.com/Alisha-786)
@@ -3927,3 +3930,4 @@ Akash Abraham
 - [Nedko Dimitrov](https://github.com/nedkodimitrov)
 - [Fandy Fathurrohman](https://github.com/Fandyfr)
 - [Jia Yuqi](https://github.com/j541443699)
+- [Curtis To](https://github.com/tourist-C)
