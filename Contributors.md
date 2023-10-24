@@ -3785,6 +3785,7 @@ Akash Abraham
 - [Nicholas Ndolo](https://github.com/nicholasndolo)
 - [Miguel Angel Bruni Montero] (https://github.com/MABruni)
 - [Soap Opera](https://github.com/soapopera12)
+- [An Duong](https://github.com/waterdoze)
 - [Pritam Gayen](https://github.com/pritam0721)
 - [korECM](https://github.com/korECM)
 - [Talia Attar](https://github.com/talia-attar)
