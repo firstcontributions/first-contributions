@@ -15,6 +15,7 @@
 - [Devendra Selokar](https://github.com/devendraSelokar05)
 - [Krish Gautam](https://github.com/kris248)
   [Sejal Srivastava](https://github.com/Sejal99)
+  
 - [Parth Dwivedi](https://github.com/Parth4git)
 - [Sur](https://github.com/mazipan/hello-open-source/new/master/people)
 - [Jibril Abdulazeez](https://github.com/Jibbyie)
