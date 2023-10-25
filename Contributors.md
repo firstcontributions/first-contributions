@@ -2542,6 +2542,7 @@ Nikhil R
 - [Mark Bagby](https://github.com/m-bagby)
 - [Abhishek Padiyar](https://github.com/Abhishek19-dev)
 - [Abhishek Patel] (https://github.com/itsabhishekpatel01)
+- [Dawid Perkowski](https://github.com/DawidPerkowskiGit)
 - [Anushree Singhal](https://github.com/anushreee666)
 - [Idzanaagi](https://github.com/Idzanaagi)
 - [Brenden Cheung] (https://github.com/cheungbrenden)
