@@ -38,6 +38,7 @@
 - [Naman Jain](https://github.com/namanjain7)
 - [Ekam Bitt](https://github.com/Ekam-Bitt)
 - [Vipul Varshney](https://github.com/ishant-void)
+- [Diego Suntaxi](https://github.com/Tubaher)
 -[Jade Vieval](https://github.com/jadevvl)
 -[Adhiraj](https://github.com/xraymaverick)
 - [ professssor](https://github.com/professssor)
@@ -52,6 +53,7 @@
 -[adiazt01](https://github.com/adiazt01)
 -[yourblood](https://github.com/sureshp820)
 -[narren](https://github.com/narrennagendra)
+-[Robert Richey](https://github.com/z0x0936)
 -[h-e-d-g-e-h-o-g(Arpit Negi)](https://github.com/h-e-d-g-e-h-o-g)
 -[pranat Siyal]
 -[romitp4l(ROMIT PAL)](https://github.com/romitp4l)
@@ -3934,4 +3936,6 @@ Akash Abraham
 - [Pongpatapee (Dan) Peerapatanapokin](https://github.com/pongpatapee)
 - [Jia Yuqi](https://github.com/j541443699)
 - [Curtis To](https://github.com/tourist-C)
-- [Aditya goyal](https://github.com/adityagoyal200)
+- [Josh Davidson] (https://github.com/JDavidson00)
+- [Vinicius Ribeiro](https://github.com/vini-rbeiro)
+- [Aditya Goyal](https://github.com/adityagoyal200)
