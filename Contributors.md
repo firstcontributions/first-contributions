@@ -178,6 +178,7 @@
 - [Utkarsh](https://github.com/utkarsh1042005)
 - [Chandan Mishra](https://github.com/mishraachandan)
 - [job mbugua](https://github.com/mbugua97)
+- [Tyler Landtroop](https://github.com/tlandtroop)
 - [RubynathanN](https://github.com/NRUBYNATHAN)
 - [devil_Suresh](https://github.com/sureshp820)
 - [GuillemMV](https://github.com/GuillemMV)
