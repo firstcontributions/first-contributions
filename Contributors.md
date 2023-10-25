@@ -3950,4 +3950,5 @@ Akash Abraham
 - [Vinicius Ribeiro](https://github.com/vini-rbeiro)
 - [Aditya Goyal](https://github.com/adityagoyal200)
 - [Kamo develop](https://github.com/kamo-develop)
+- [Maciej Pogorzelski](https://github.com/mpogorzelski095)
 - [Rakin Farhan](https://github.com/d33pto3)
