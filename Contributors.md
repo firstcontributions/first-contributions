@@ -3934,5 +3934,4 @@ Akash Abraham
 - [Pongpatapee (Dan) Peerapatanapokin](https://github.com/pongpatapee)
 - [Jia Yuqi](https://github.com/j541443699)
 - [Curtis To](https://github.com/tourist-C)
-- [Aditya goyal](https://github.com/adityagoyal200?tab=overview&from=2023-10-01&to=2023-10-25)
-
+- [Aditya goyal](https://github.com/adityagoyal200)
