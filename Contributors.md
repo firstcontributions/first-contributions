@@ -3936,3 +3936,4 @@ Akash Abraham
 - [Jia Yuqi](https://github.com/j541443699)
 - [Curtis To](https://github.com/tourist-C)
 - [Josh Davidson] (https://github.com/JDavidson00)
+- [Vinicius Ribeiro](https://github.com/vini-rbeiro)
