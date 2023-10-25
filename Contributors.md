@@ -144,6 +144,7 @@
 -[karan arora](https://github.com/karan7864)
 - [Ram Tyagi](https://github.com/Ram-tyagi)
 -[Su](https://github.com/sureshp820)
+- [Prateek Narsinghani](https://github.com/prateek-narsinghani)
 - eifhijef
 -[shiasin](https://github.com/shiasin)
 - [Khushminder Singh](https://github.com/khushminder270)
