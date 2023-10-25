@@ -1,6 +1,7 @@
 # Contributors
 
 - [Shryansh](https://github.com/Shryansh107)
+- [Sumit Bera] (https://github.com/berasumit611)
 - [Pratik More](https://github.com/PratikMore55)
 - [Bhagirathi Rohidas](https://github.com/BhagirathiRohidas/)
 - [Nicole Lancaster](https://github.com/nicole-lancaster/)
