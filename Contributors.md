@@ -38,6 +38,7 @@
 - [Naman Jain](https://github.com/namanjain7)
 - [Ekam Bitt](https://github.com/Ekam-Bitt)
 - [Vipul Varshney](https://github.com/ishant-void)
+- [Diego Suntaxi](https://github.com/Tubaher)
 -[Jade Vieval](https://github.com/jadevvl)
 -[Adhiraj](https://github.com/xraymaverick)
 - [ professssor](https://github.com/professssor)
