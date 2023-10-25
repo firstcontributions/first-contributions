@@ -4,6 +4,7 @@
 - [Pratik More](https://github.com/PratikMore55)
 - [Bhagirathi Rohidas](https://github.com/BhagirathiRohidas/)
 - [Nicole Lancaster](https://github.com/nicole-lancaster/)
+- [Arya Kulkarni](https://github.com/aryakulkarni25)
 - [Itha Ramakrishna](https://github.com/Ivsrk/)
 - [Krati agrawal](https://github.com/kratiagrawal100)
 - [Rahul](https://github.com/Rahulsrini)
