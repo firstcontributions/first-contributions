@@ -23,7 +23,7 @@
 - [CodeWithJazzy](https://github.com/codewithjazzy)
 - [adrianlamlh](https://github.com/adrianlamlh)
 - [Pranav Kannawar](https://github.com/Hackwithpranav)
-  [Farookh](https://github.com/FarookhNITAP)
+- [Farookh](https://github.com/FarookhNITAP)
 -[Samuel Onyebekeh](https://github.com/SamuelOnyebekeh)
 - [Aakash Basnet](https://github.com/iamaakashbasnet)
 -[James Yun](https://github.com/JamesYcode)
@@ -406,6 +406,7 @@ harshal honde
 - [Preston Ng] (https://github.com/sungchun/)
 - [Suresh Patel](https://github.com/sureshp820)
 - [Ahmed Rabea](https://github.com/Alpattex)
+- [Ahmod Hasan](https://github.com/ahmod001)
 - [Shubham Kumar][https://github.com/shubham13k]
 - [kumar antanu](https://github.com/Antanukumar)
 - [Ranjana](https://github.com/Ranjana761)
