@@ -3933,3 +3933,4 @@ Akash Abraham
 - [Pongpatapee (Dan) Peerapatanapokin](https://github.com/pongpatapee)
 - [Jia Yuqi](https://github.com/j541443699)
 - [Curtis To](https://github.com/tourist-C)
+- [Rakin Farhan](https://github.com/d33pto3)
