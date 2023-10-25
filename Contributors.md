@@ -3953,6 +3953,7 @@ Akash Abraham
 - [Pongpatapee (Dan) Peerapatanapokin](https://github.com/pongpatapee)
 - [Jia Yuqi](https://github.com/j541443699)
 - [Curtis To](https://github.com/tourist-C)
+- [Natalia Barwinek](https://github.com/NatBarw)
 - [Josh Davidson](https://github.com/JDavidson00)
 - [Vinicius Ribeiro](https://github.com/vini-rbeiro)
 - [Aditya Goyal](https://github.com/adityagoyal200)
@@ -3961,3 +3962,4 @@ Akash Abraham
 - [Rakin Farhan](https://github.com/d33pto3)
 - [Aleksandr N](https://github.com/WIR1337)
 - [Sebi Francis](https://github.com/Sebifrancis1935)
+
