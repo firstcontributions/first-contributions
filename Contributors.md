@@ -24,6 +24,7 @@
 - [Varad Kulkarni](https://github.com/varad-kulkarni172)
 - [Govindapalle Vijaychandra]
 - [Abhinav Singh](https://github.com/AbhinavSingh111)
+- [Utkarsh Kumar](https://github.com/utkarsh1042005)
 - [Itesh Tomar](https://github.com/petrioteer)
 - [CodeWithJazzy](https://github.com/codewithjazzy)
 - [adrianlamlh](https://github.com/adrianlamlh)
