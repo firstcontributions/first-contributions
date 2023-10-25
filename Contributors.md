@@ -114,6 +114,7 @@
 - [Saikat Sundar Das](https://github.com/Saikatssd)
 - [Upendra](https://github.com/Upendra2003)
 - [Abhiram](https://github.com/Royal-Dragon)
+- [Arthur Guillerm] (https://github.com/aguillerm/)
 - [Jerome](https://github.com/Royal-Dragon)
 - [Sungjun Hwang](https://github.com/sungjun1116)
 - Ashutosh Sharma (https://github.com/jerome-garcia)
