@@ -50,6 +50,7 @@
 -[Jade Vieval](https://github.com/jadevvl)
 - [Abhyanand](https://github.com/OneFriendlyCoder)
 -[Adhiraj](https://github.com/xraymaverick)
+- [bizzybits](https://github.com/bizzybits)
 - [ professssor](https://github.com/professssor)
 -[Aliloulaye Tchaou](https://github.com/aliloulaye)
 -[daemon-surge-suzuya](https://github.com/daemon-surge-suzuya)
