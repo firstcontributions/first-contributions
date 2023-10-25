@@ -276,6 +276,7 @@
 - [Adick Rincones] (https://github.com/AdickRincones133)
 - [Lakshay Joshi](https://github.com/lakshay451)
 - [Unnati Mishra] (https://github.com/unnati110302)
+- [Sierra Bibi](https://github.com/sierraa)
 - [Siddharth](https://github.com/sidwar007)
 - [Praveen Raj](https://github.com/PraveenRaj1833)
 - [Ayush Varshney](https://github.com/Avtech04)
