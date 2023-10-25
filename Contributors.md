@@ -1997,6 +1997,7 @@ Nikhil R
 - [Abdelrhman Abdallah](https://github.com/abdelrhman-abdallah)
 - [Sutan Arief](https://github.com/sutanarief)s
 - [Muhammad Atif](https://github.com/Atif-11).
+- [Adrian Zygmunt](https://github.com/ZIM0L)
 - [Prabal Goyal](https://github.com/prabal-goyal)
 - [Munirah Khalid](https://github.com/MunirahKhalid)
 - [Manav Joshi](https://github.com/ManavJoshi111)
