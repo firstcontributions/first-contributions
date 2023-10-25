@@ -3964,3 +3964,4 @@ Akash Abraham
 - [Rakin Farhan](https://github.com/d33pto3)
 - [Aleksandr N](https://github.com/WIR1337)
 - [Sebi Francis](https://github.com/Sebifrancis1935)
+- [Tarushi Gupta](https://github.com/tarushigupta0012)
