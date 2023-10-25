@@ -421,6 +421,7 @@ harshal honde
 - [Ariemad] (https://github.com/ariemad)
 - [Aadithya] (https://github.com/Aadithya-J)
 - [Lurifos](https://github.com/BlueBeret)
+- [lattelya](https://github.com/lattelya)
 - [Hamza Rehan](https://github.com/HamzaRehan4)
 - [pyxelhaze](https://github.com/pyxelhaze)
 - [Arvin Tamayosa](https://github.com/artamayosa)
