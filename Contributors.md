@@ -2549,6 +2549,7 @@ Nikhil R
 - [Idzanaagi](https://github.com/Idzanaagi)
 - [Brenden Cheung] (https://github.com/cheungbrenden)
 - [Sahil] (https://github.com/sahil8453)
+  [ananas030] (https://github.com/ananas030)
 - [xfragrance](https://github.com/Xfragrance)
 - [metsu971](https://github.com/metsu971)
 - [Caleb Szajnuk] (https://github.com/cAE-Leb)
