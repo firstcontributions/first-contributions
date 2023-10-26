@@ -3981,3 +3981,4 @@ Akash Abraham
 - [Aji Tirto](https://github.com/ajitirto)
 - [Nat Barw](https://github.com/NatBarw)
 - [Dachuan Yang](https://github.com/ydc9988)
+- [Smaran Singh](https://github.com/SmaranSingh)
