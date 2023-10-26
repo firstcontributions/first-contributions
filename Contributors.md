@@ -1,6 +1,6 @@
 # Contributors
 
-- [Syed Muhammad] (https://github.com/syedmohammad611)
+- [Syed Muhammad](https://github.com/syedmohammad611)
 - [Abdullah Minhas](https://github.com/minhas309)
 - [Shryansh](https://github.com/Shryansh107)
 - [BattleDevLukman](https://github.com/lukman155)
