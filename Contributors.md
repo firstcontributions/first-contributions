@@ -301,6 +301,7 @@
   [Aditya Deshpande](https://github.com/adityadeshpande09)
   [Shreyas Deshpande](https://github.com/Shreyas0410)
 - [Z52](https://github.com/j-Z52)
+- [aurangzaib-awan](https://github.com/j-Z52)
 - [Joon](https://github.com/Joon-99)
 - [Mohan Majhi](https://github.com/mohan060104)
 - [Deepak Tomson]
