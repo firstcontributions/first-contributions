@@ -72,6 +72,7 @@
 -[Robert Richey](https://github.com/z0x0936)
 -[h-e-d-g-e-h-o-g(Arpit Negi)](https://github.com/h-e-d-g-e-h-o-g)
 -[pranat Siyal]
+- Koroviev
 -[romitp4l(ROMIT PAL)](https://github.com/romitp4l)
 -[sujallimje(SUJAL LIMJE)](https://github.com/sujallimje)
 -[Yachika9925](https://github.com/Yachika9925)
