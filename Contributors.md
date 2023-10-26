@@ -2004,6 +2004,7 @@ Nikhil R
 - [Abdullah Sulaiman](https://github.com/CodeMage-x)
 - [Muhammad Usman](https://github.com/MuhammadUsman15/first-contributions)
 - [Mohammed Sajid](https://github.com/sajid-31/first-contributions)
+- [Python Monty](https://github.com/Python125/first-contributions)
 - [Shawn Stanley](https://github.com/shawnstanley123/first-contributions)
 - [Marquis Sampson](https://github.com/Marquis4484/first-contributions)
 - [Parthasarathi Mahana](https://github.com/ParthasarathiMahana)
