@@ -7,6 +7,7 @@
 - [Yassine Bouchama](https://github.com/SiskoWeb
 - [Abdullah Minhas](https://github.com/minhas309)
 - [Edivaldo Junior](https://github.com/EdiJunior88)
+- [Majd Machlouch](https://github.com/Majd2404)
 - [Muhammad Abdullah Mahmood](https://github.com/venomeh)
 - [Shryansh](https://github.com/Shryansh107)
 - [BattleDevLukman](https://github.com/lukman155)
