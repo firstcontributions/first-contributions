@@ -18,6 +18,7 @@
 - [Lasan Ranatunge](https://github.com/lasanseniya)
 - [meghaverma3110](https://github.com/meghaverma3110)
 - [Kushal Agrawal](https://github.com/kushal34712)
+- [MISΛKI] (https://github.com/meriem-mounchid)
 - [Devendra Selokar](https://github.com/devendraSelokar05)
 - [Krish Gautam](https://github.com/kris248)
 - [Parth Dwivedi](https://github.com/Parth4git)
