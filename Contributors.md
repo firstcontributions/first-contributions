@@ -1,7 +1,10 @@
 # Contributors
 
 - [Syed Muhammad](https://github.com/syedmohammad611)
+- [Muhammad Khizar](https://github.com/mkhizu21)
+- [Yassine Bouchama](https://github.com/SiskoWeb
 - [Abdullah Minhas](https://github.com/minhas309)
+- [Muhammad Abdullah Mahmood](https://github.com/venomeh)
 - [Shryansh](https://github.com/Shryansh107)
 - [BattleDevLukman](https://github.com/lukman155)
 - [Sumit Bera] (https://github.com/berasumit611)
@@ -16,6 +19,7 @@
 - [Lasan Ranatunge](https://github.com/lasanseniya)
 - [meghaverma3110](https://github.com/meghaverma3110)
 - [Kushal Agrawal](https://github.com/kushal34712)
+- [MISΛKI] (https://github.com/meriem-mounchid)
 - [Devendra Selokar](https://github.com/devendraSelokar05)
 - [Krish Gautam](https://github.com/kris248)
 - [Parth Dwivedi](https://github.com/Parth4git)
@@ -53,6 +57,7 @@
 - [Ekam Bitt](https://github.com/Ekam-Bitt)
 - [Vipul Varshney](https://github.com/ishant-void)
 - [Diego Suntaxi](https://github.com/Tubaher)
+- [Shubham Kambire](https://github.com/ShubhamKambire)
 -[Jade Vieval](https://github.com/jadevvl)
 - [Abhyanand](https://github.com/OneFriendlyCoder)
 -[Adhiraj](https://github.com/xraymaverick)
@@ -73,6 +78,7 @@
 -[Robert Richey](https://github.com/z0x0936)
 -[h-e-d-g-e-h-o-g(Arpit Negi)](https://github.com/h-e-d-g-e-h-o-g)
 -[pranat Siyal]
+- Koroviev
 -[romitp4l(ROMIT PAL)](https://github.com/romitp4l)
 -[sujallimje(SUJAL LIMJE)](https://github.com/sujallimje)
 -[Yachika9925](https://github.com/Yachika9925)
@@ -296,6 +302,7 @@
   [Aditya Deshpande](https://github.com/adityadeshpande09)
   [Shreyas Deshpande](https://github.com/Shreyas0410)
 - [Z52](https://github.com/j-Z52)
+- [aurangzaib-awan](https://github.com/j-Z52)
 - [Joon](https://github.com/Joon-99)
 - [Mohan Majhi](https://github.com/mohan060104)
 - [Deepak Tomson]
@@ -3988,3 +3995,4 @@ Akash Abraham
 - [Dachuan Yang](https://github.com/ydc9988)
 - [Smaran Singh](https://github.com/SmaranSingh)
 - [Honeshwar Thakur](https://github.com/Honeshwar)
+- [Adeel Umar](https://github.com/adeelumar-17)
