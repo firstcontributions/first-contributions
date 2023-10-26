@@ -1,5 +1,6 @@
 # Contributors
 
+- [Muhammad Khizar](https://github.com/mkhizu21)
 - [Yassine Bouchama](https://github.com/SiskoWeb)
 - [Abdullah Minhas](https://github.com/minhas309)
 - [Shryansh](https://github.com/Shryansh107)
