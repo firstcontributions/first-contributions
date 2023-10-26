@@ -20,6 +20,7 @@
 - [Dannyswiss](https://github.com/Dannyswiss1)
 - [Itha Ramakrishna](https://github.com/Ivsrk/)
 - [Krati agrawal](https://github.com/kratiagrawal100)
+- [Rick de Ruiter](https://github.com/TheFluyter)
 - [Rahul](https://github.com/Rahulsrini)
 - [Artyom Romanov](https://github.com/art3xa)
 - [Lasan Ranatunge](https://github.com/lasanseniya)
