@@ -1,5 +1,5 @@
 # Contributors
-
+- [Zamil Khalid](https://github.com/iamZamil)
 - [Yassine Bouchama](https://github.com/SiskoWeb)
 - [Abdullah Minhas](https://github.com/minhas309)
 - [Shryansh](https://github.com/Shryansh107)
