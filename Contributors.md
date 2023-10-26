@@ -1,6 +1,6 @@
 # Contributors
 
-- [Abdullah Minhas](https://github.com/minhas309)
+- [Abdullah Mehmood Minhas](https://github.com/minhas309)
 - [Shryansh](https://github.com/Shryansh107)
 - [Pratik More](https://github.com/PratikMore55)
 - [Bhagirathi Rohidas](https://github.com/BhagirathiRohidas/)
