@@ -1,6 +1,11 @@
 # Contributors
-- [Abdullah Minhas](https://github.com/minhas309)
+
 - [Ali Hassan](https://github.com/Ali-Hassan-786)
+- [Abdullah Minhas](https://github.com/minhas309)
+- [Muhammad Khizar](https://github.com/mkhizu21)
+- [Yassine Bouchama](https://github.com/SiskoWeb)
+- [Abdullah Minhas](https://github.com/minhas309)
+- [Muhammad Abdullah Mahmood](https://github.com/venomeh)
 - [Shryansh](https://github.com/Shryansh107)
 - [BattleDevLukman](https://github.com/lukman155)
 - [Sumit Bera] (https://github.com/berasumit611)
@@ -72,6 +77,7 @@
 -[Robert Richey](https://github.com/z0x0936)
 -[h-e-d-g-e-h-o-g(Arpit Negi)](https://github.com/h-e-d-g-e-h-o-g)
 -[pranat Siyal]
+- Koroviev
 -[romitp4l(ROMIT PAL)](https://github.com/romitp4l)
 -[sujallimje(SUJAL LIMJE)](https://github.com/sujallimje)
 -[Yachika9925](https://github.com/Yachika9925)
