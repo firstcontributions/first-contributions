@@ -615,7 +615,7 @@ harshal honde
 - [Jie Qiu](https://github.com/Jieqstu)
   [Rickmwasofficial](https://github.com/Rickmwasofficial)
 - [Ishaan Jangid](https://github.com/Ishaanjangid)sunsanity
-
+- [Anmol Lamba](https://github.com/cric2000)
 - [JW]
 - [nativ]
 - [Abhishek Mohan](https://github.com/AbhishekMohanKr)
