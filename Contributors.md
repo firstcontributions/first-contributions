@@ -23,6 +23,7 @@
 - [Aravind Subramanian S](https://github.com/Reallyaravind)
 - [Aakash Gupta](https://github.com/aakashgg)
 - [Varad Kulkarni](https://github.com/varad-kulkarni172)
+- [Chathura Mathula](https://github.com/ChathuraMathula)
 - [bh-2](https://github.com/bh-2)
   [Hithesh K P](https://github.com/Hithesh2022)
 - [Govindapalle Vijaychandra]
