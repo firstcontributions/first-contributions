@@ -3724,6 +3724,7 @@ Akash Abraham
 - [Anant Agarwal] (https://github.com/ThisMonkeysGoneToHeaven)
 - [Shin You](https://github.com/a5512167086)
 - [Vivek Ghori](https://github.com/vivekghori)
+- [Sidd Panchal](https://github.com/sidthree6)
 - [Paul Ragsac](https://github.com/Chifuuyu)
 - [Nguyễn ĝức Khải](https://github.com/KhaiNguyenDuc)
 - [Navin Kumar](https://github.com/ns-0437)
