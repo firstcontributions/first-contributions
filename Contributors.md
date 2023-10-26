@@ -1,5 +1,5 @@
 # Contributors
-
+- [Ajmal Razaq Bhatti](https://github.com/theajmalrazaq)
 - [Muhammad Khizar](https://github.com/mkhizu21)
 - [Yassine Bouchama](https://github.com/SiskoWeb)
 - [Abdullah Minhas](https://github.com/minhas309)
