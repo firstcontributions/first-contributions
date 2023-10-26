@@ -1,4 +1,6 @@
 # Contributors
+[Laiba_Irfan]
+(https://github.com/laiba-irfan44)
 
 - [Abdullah Minhas](https://github.com/minhas309)
 - [Shryansh](https://github.com/Shryansh107)
