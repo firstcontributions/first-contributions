@@ -2807,6 +2807,7 @@ Nikhil R
 - [djfor5](https://github.com/djfor5)
 - [Guy Donagi](https://github.com/ImDonagi)
 - [amrutha](https://github.com/amrutha1098)
+- [BanjoJFG](https://github.com/BanjoJFG)
 - [krishna Dwivedi](https://github.com/Krishnadwivedi52)
 - [Luis Martinez](https://github.com/LJMartinez07)
 - [Jakub Gania](https://github.com/jakubgania)
