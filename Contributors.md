@@ -2,6 +2,7 @@
 
 - [Alec Smith](https://github.com/sharktankful)
 - [Om Lokhande](https://github.com/Nincompup)
+- [Shashwat Verma](https://github.com/shasvt07)
 - [mbinayak](https://github.com/mbinayak)
 - [henockt](https://github.com/henockt)
 - [Syed Muhammad](https://github.com/syedmohammad611)
