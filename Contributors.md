@@ -31,7 +31,7 @@
 - [Varad Kulkarni](https://github.com/varad-kulkarni172)
 - [Chathura Mathula](https://github.com/ChathuraMathula)
 - [bh-2](https://github.com/bh-2)
-  [Hithesh K P](https://github.com/Hithesh2022)
+- [Will Bates](https://github.com/willbates13)
 - [Govindapalle Vijaychandra]
 - [Abhinav Singh](https://github.com/AbhinavSingh111)
 - [Joabriel](https://github.com/Joabriel)
