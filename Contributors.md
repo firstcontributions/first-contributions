@@ -3177,6 +3177,7 @@ Akash Abraham
 - [Nicholas Anich](https://github.com/NicholasAnich)
 - [Kyle Kirts](https://github.com/kylekirts)
 - [Nabil Noh](https://github.com/mrnabilnoh)
+- [Abhinav Tripathi](https://github.com/ABHINAV0307)
 - [Aaron Rock Menezes](https://github.com/aaronrockmenezes)
 - [Snehashish Ghosh](https://github.com/snehashish-ghosh98)
 - [Carl Shone](https://github.com/carlts93)
