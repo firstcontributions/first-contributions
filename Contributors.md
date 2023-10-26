@@ -2,6 +2,7 @@
 
 - [Abdullah Minhas](https://github.com/minhas309)
 - [Shryansh](https://github.com/Shryansh107)
+- [BattleDevLukman](https://github.com/lukman155)
 - [Sumit Bera] (https://github.com/berasumit611)
 - [Pratik More](https://github.com/PratikMore55)
 - [Bhagirathi Rohidas](https://github.com/BhagirathiRohidas/)
