@@ -220,6 +220,7 @@
 - [Prateek Agrawal](https://github.com/Prateek194)
 - [Eaglesight02](https://github.com/Eaglesight02)
 - [Palatip Jantawong](https://github.com/palatipjant)
+- [Víctor Cárdenas] (https://github.com/vicarb)
 - [craigdev937](https://github.com/craigdev937)
 - [Deva2580](https://github.com/Deva2580)
 - [Omar Khaium Chowdhury](https://github.com/omar-khaium )
