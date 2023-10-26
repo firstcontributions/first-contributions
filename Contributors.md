@@ -26,6 +26,7 @@
 - [bh-2](https://github.com/bh-2)
 - [Govindapalle Vijaychandra]
 - [Abhinav Singh](https://github.com/AbhinavSingh111)
+- [Joabriel](https://github.com/Joabriel)
 - [Utkarsh Kumar](https://github.com/utkarsh1042005)
 - [Itesh Tomar](https://github.com/petrioteer)
 - [CodeWithJazzy](https://github.com/codewithjazzy)
