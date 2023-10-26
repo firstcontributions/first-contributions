@@ -1,5 +1,6 @@
 # Contributors
 
+- [henockt](https://github.com/henockt)
 - [Syed Muhammad](https://github.com/syedmohammad611)
 - [Muhammad Khizar](https://github.com/mkhizu21)
 - [Yassine Bouchama](https://github.com/SiskoWeb
