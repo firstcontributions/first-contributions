@@ -6,6 +6,7 @@
 - [mbinayak](https://github.com/mbinayak)
 - [henockt](https://github.com/henockt)
 - [Syed Muhammad](https://github.com/syedmohammad611)
+- [Jackson Funk](https://github.com/Mqcaw)
 - [Muhammad Khizar](https://github.com/mkhizu21)
 - [Yassine Bouchama](https://github.com/SiskoWeb
 - [Abdullah Minhas](https://github.com/minhas309)
