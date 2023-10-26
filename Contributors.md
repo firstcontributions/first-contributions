@@ -4,7 +4,7 @@
 - [henockt](https://github.com/henockt)
 - [Syed Muhammad](https://github.com/syedmohammad611)
 - [Muhammad Khizar](https://github.com/mkhizu21)
-- [Yassine Bouchama](https://github.com/SiskoWeb
+- [KapsarovL](https://github.com/KapsaorvL
 - [Abdullah Minhas](https://github.com/minhas309)
 - [Edivaldo Junior](https://github.com/EdiJunior88)
 - [Majd Machlouch](https://github.com/Majd2404)
