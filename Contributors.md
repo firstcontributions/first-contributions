@@ -1,6 +1,6 @@
 # Contributors
-
 - [Abdullah Minhas](https://github.com/minhas309)
+- [Ali Hassan](https://github.com/Ali-Hassan-786)
 - [Shryansh](https://github.com/Shryansh107)
 - [BattleDevLukman](https://github.com/lukman155)
 - [Sumit Bera] (https://github.com/berasumit611)
