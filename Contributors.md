@@ -1997,6 +1997,7 @@ Nikhil R
 - [Sam Ghazzawi](https://github/savvisam)
 - [JudgeIsaac]
 - [autom101] (https://github.com/autom101)
+- [michaelmoranis] (https://github.com/michaelmoranis)
 - [Cwj900](https://github.com/Cwj900)
 - [Ritik](https://github.com/ritikkumar-agrawal)
 - [KeerthanaVelliyangiri](https://github.com/KeerthanaVelliyangiri)
