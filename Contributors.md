@@ -1,5 +1,6 @@
 # Contributors
 
+- [Alec Smith](https://github.com/sharktankful)
 - [mbinayak](https://github.com/mbinayak)
 - [henockt](https://github.com/henockt)
 - [Syed Muhammad](https://github.com/syedmohammad611)
