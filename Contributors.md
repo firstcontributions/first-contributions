@@ -1,5 +1,6 @@
 # Contributors
 
+- [mbinayak](https://github.com/mbinayak)
 - [henockt](https://github.com/henockt)
 - [Syed Muhammad](https://github.com/syedmohammad611)
 - [Muhammad Khizar](https://github.com/mkhizu21)
