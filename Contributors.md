@@ -1,5 +1,5 @@
 # Contributors
-
+- [Muhammad Zuhair](https://github.com/Muhammadzuhair1)
 - [Abdullah Minhas](https://github.com/minhas309)
 - [Shryansh](https://github.com/Shryansh107)
 - [BattleDevLukman](https://github.com/lukman155)
