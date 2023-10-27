@@ -25,6 +25,7 @@
 - [Muhammad Abdullah Mahmood](https://github.com/venomeh)
 - [Shryansh](https://github.com/Shryansh107)
 - [BattleDevLukman](https://github.com/lukman155)
+- [Debmalya Sadhukhan](https://github.com/deBmalooo)
 - [Sumit Bera] (https://github.com/berasumit611)
 - [Pratik More](https://github.com/PratikMore55)
 - [Muskan](https://github.com/14-muskan)
