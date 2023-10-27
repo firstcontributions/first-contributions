@@ -3843,6 +3843,7 @@ Akash Abraham
 - [Sebastian Barison](https://github.com/Sbarison)
 - [Evan Glaze](https://github.com/The-Angry-Bagel)
 - ming3
+- BBrar
 - [Louis] (https://github.com/louietouie)
 - [Sergey Rudenko](https://github.com/der-fanatiker)
 - [Deepak Sah](https://github.com/deepakkumar1983)
