@@ -12,6 +12,7 @@
 - [Shashwat Verma](https://github.com/shasvt07)
 - [mbinayak](https://github.com/mbinayak)
 - [henockt](https://github.com/henockt)
+- [uluk01](https://github.com/uluk01)
 - [rochhh](https://github.com/rochhh)
 - [Syed Muhammad](https://github.com/syedmohammad611)
 - [Jackson Funk](https://github.com/Mqcaw)
