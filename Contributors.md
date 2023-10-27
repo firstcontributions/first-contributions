@@ -4021,6 +4021,7 @@ Akash Abraham
 - [Deekshith Manohar](https://github.com/deek-15)
 - [Gabriel Luiz](https://github.com/GabrielL915)
 - [Dominic Prince](https://github.com/drp46220)
+- [Md Faizan](https://github.com/thesuaveguy)
 - [Umer Sikander] (https://github.com/umer-450)
 -[Gideon Fummey] (https://github.com/giiiiid)
 - [Albert Tim Turansky] (https://github.com/aturansky)
