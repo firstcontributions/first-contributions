@@ -4023,4 +4023,4 @@ Akash Abraham
 -[Gideon Fummey] (https://github.com/giiiiid)
 - [Albert Tim Turansky] (https://github.com/aturansky)
 - [Srushti Rane] (https://github.com/srushti-712)
-- [John Henry Joromat] (https://github.com/jhnhnryjrmt)
+- [John Henry Joromat](https://github.com/jhnhnryjrmt)
