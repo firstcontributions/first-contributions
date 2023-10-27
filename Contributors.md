@@ -497,6 +497,7 @@ harshal honde
 - [Zhao Yufan](https://github.com/leslie0605)
 - [Subhadip Jana](https://github.com/devilcoder01)
 - [Yash Kothalkar](https://github.com/5eeTheaveragecoder)
+- [Jack Setaro] (https://github.com/JackSetaro)
 - [Wazir Shehryar Ali](https://github.com/vzirshehryar)
 - [Prathmesh Khede](https://github.com/Prathm3021)
 - [Esslam Ben Ramadan](https://github.com/esslamben)
