@@ -1248,6 +1248,7 @@ Pizzacat
 - [Pulkit Sharma](https://github.com/Plktz)
 - [Kranya Provo](https://github.com/kkadapa)
 - [Adrian Tapia](https://github.com/Adrian2jr)
+- [Vladimir Rotariu](https://github.com/vladimirrotariu)
 - [Ishan Sharma](https://gihub.com/paramagneticnaga)
 - [Anurag Chugh](https://github.com/Ukriyte)
 - [Samir Gorai] (https://github.com/samirgorai)
