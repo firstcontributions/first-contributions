@@ -127,6 +127,7 @@
 -[Agnik] (https://github.com/agnik06)
 - [Md. Abu Jafor](https://github.com/abujaforhadi)
 - [Melody Gatan](https://github.com/mel418)
+- [Ashish Ranjan](https://github.com/Ashish-Ranjan007)
 - [Yashwin Sudarshan](https://github.com/Yashwin-Sudarshan)
 - [Harshavardhan Bajoria](https://github.com/HVbajoria)
 - [Amaan Farooquee](https://github.com/AmaanFarooquee)
