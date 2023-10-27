@@ -1,138 +1,130 @@
-# First Contributions
+# Primeras Contribuciones
 
-This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+Este proyecto tiene como objetivo simplificar y guiar a los principiantes en su primera contribución. Si estás buscando hacer tu primera contribución, sigue los pasos a continuación.
 
-_If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
+**Si no te sientes cómodo con la línea de comandos, [aquí tienes tutoriales que utilizan herramientas gráficas.](#tutoriales-usando-otras-herramientas)**
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+![fork this repository](https://firstcontributions.github.io/assets/Readme/fork.png)
 
-#### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
+### Si no tienes git en tu máquina, [instálalo](https://docs.github.com/es/get-started/quickstart/set-up-git).
 
-## Fork this repository
+## Haz un fork de este repositorio
 
-Fork this repository by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+Haz un fork de este repositorio haciendo clic en el botón de fork en la parte superior de esta página. Esto creará una copia de este repositorio en tu cuenta.
 
-## Clone the repository
+## Clona el repositorio
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+![clone this repository](https://firstcontributions.github.io/assets/Readme/clone.png)
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
+Ahora clona el repositorio forkeado en tu máquina. Ve a tu cuenta de GitHub, abre el repositorio forkeado, haz clic en el botón de código y luego haz clic en el ícono de "copiar al portapapeles".
 
-Open a terminal and run the following git command:
+Abre una terminal y ejecuta el siguiente comando git:
 
 ```
-git clone "url you just copied"
+git clone "URL que acabas de copiar"
 ```
 
-where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+Donde "URL que acabas de copiar" (sin las comillas) es la URL de este repositorio (tu fork de este proyecto). Consulta los pasos anteriores para obtener la URL.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+![copy URL to clipboard](https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png)
 
-For example:
+Por ejemplo:
 
 ```
 git clone git@github.com:this-is-you/first-contributions.git
 ```
 
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+Donde `this-is-you` es tu nombre de usuario de GitHub. Aquí estás copiando el contenido del repositorio first-contributions en GitHub a tu computadora.
 
-## Create a branch
+## Crea una rama
 
-Change to the repository directory on your computer (if you are not already there):
+Cambia al directorio del repositorio en tu computadora (si aún no estás allí):
 
 ```
 cd first-contributions
 ```
 
-Now create a branch using the `git switch` command:
+Ahora crea una rama usando el comando `git switch`:
 
 ```
-git switch -c your-new-branch-name
+git switch -c nombre-de-tu-nueva-branch
 ```
 
-For example:
+Por ejemplo:
 
 ```
-git switch -c add-alonzo-church
+git switch -c agregar-alonzo-church
 ```
 
-## Make necessary changes and commit those changes
+## Realiza los cambios necesarios y realiza el commit de esos cambios
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Ahora abre el archivo `Contributors.md` en un editor de texto, agrega tu nombre a él. No lo agregues al principio o al final del archivo. Ponlo en cualquier lugar en medio. Ahora, guarda el archivo.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+![git status](https://firstcontributions.github.io/assets/Readme/git-status.png)
 
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
+Si vas al directorio del proyecto y ejecutas el comando `git status`, verás que hay cambios.
 
-Add those changes to the branch you just created using the `git add` command:
+Añade esos cambios a la rama que acabas de crear utilizando el comando `git add`:
 
 ```
 git add Contributors.md
 ```
 
-Now commit those changes using the `git commit` command:
+Ahora realiza el commit de esos cambios utilizando el comando `git commit`:
 
 ```
-git commit -m "Add your-name to Contributors list"
+git commit -m "Añade tu-nombre a la lista de Contribuidores"
 ```
 
-replacing `your-name` with your name.
+Sustituye `tu-nombre` por tu nombre.
 
-## Push changes to GitHub
+## Sube los cambios a GitHub
 
-Push your changes using the command `git push`:
+Sube tus cambios utilizando el comando `git push`:
 
 ```
-git push -u origin your-branch-name
+git push -u origin nombre-de-tu-branch
 ```
 
-replacing `your-branch-name` with the name of the branch you created earlier.
+Sustituye `nombre-de-tu-branch` por el nombre de la rama que creaste anteriormente.
 
 <details>
-<summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
+<summary> **Si obtienes algún error al realizar la subida, haz clic aquí:** </summary>
 
-- ### Authentication Error
-     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
-  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
-  Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
+- **Error de autenticación**
+     <pre>remote: El soporte para la autenticación mediante contraseña se eliminó el 13 de agosto de 2021. Utiliza en su lugar un token de acceso personal.
+  remote: Consulta https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ para obtener más información.
+  fatal: Error de autenticación para 'https://github.com/<tu-nombre-de-usuario>/first-contributions.git/'</pre>
+  Ve a [el tutorial de GitHub](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) sobre cómo generar y configurar una clave SSH para tu cuenta.
 
 </details>
 
-## Submit your changes for review
+## Envía tus cambios para su revisión
 
-If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+Si vas a tu repositorio en GitHub, verás un botón de "Comparar y crear una solicitud de extracción". Haz clic en ese botón.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+![create a pull request](https://firstcontributions.github.io/assets/Readme/compare-and-pull.png)
 
-Now submit the pull request.
+Ahora, envía la solicitud de extracción.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+![submit pull request](https://firstcontributions.github.io/assets/Readme/submit-pull-request.png)
 
-Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
+Pronto fusionaré todos tus cambios en la rama principal de este proyecto. Recibirás un correo electrónico de notificación una vez que los cambios se hayan fusionado.
 
-## Where to go from here?
+## ¿Qué hacer a partir de aquí?
 
-Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
+¡Felicidades! Acabas de completar el flujo de trabajo estándar "fork -> clonar -> editar -> solicitud de extracción" que a menudo encontrarás como contribuyente.
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
+Celebra tu contribución y compártela con tus amigos y seguidores
 
-You could join our slack team if you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w).
+ yendo a [la aplicación web](https://firstcontributions.github.io/#social-share).
 
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
+Puedes unirte a nuestro equipo de Slack si necesitas ayuda o tienes alguna pregunta. [Únete al equipo de Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w).
 
-### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
+Ahora, vamos a ayudarte a empezar a contribuir a otros proyectos. Hemos compilado una lista de proyectos con problemas sencillos en los que puedes empezar. Echa un vistazo a [la lista de proyectos en la aplicación web](https://firstcontributions.github.io/#project-list).
 
-## Tutorials Using Other Tools
+### [Material adicional](additional-material/git_workflow_scenarios/additional-material.md)
+
+## Tutoriales Usando Otras Herramientas
 
 | <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
-
-<p>This project is supported by:</p>
-<p>
-  <a href="https://www.digitalocean.com/">
-    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
-  </a>
-</p>
