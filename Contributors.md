@@ -3,6 +3,7 @@
 - [Isna Ayu Muarofah](https://github.com/isnaayu)
 - [Alec Smith](https://github.com/sharktankful)
 - [Abstaina Ephraim] (https://github.com/Abstaina44)
+- [Arth Patel](https://github.com/Arthpatel01) 
 - [Aimane Yousr](https://github.com/aymanysr)
 - [Sanjib Kumar Das](https://github.com/sanjib-kumar-das)
 - [aojiaosaiban](https://github.com/aojiaosaiban)
