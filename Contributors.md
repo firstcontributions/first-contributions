@@ -1721,6 +1721,7 @@ Sino Felicity Zwane
 -psuuc-micopaliwen
 - [Isabell Luo] (https://github.com/117Isabell)
 - [Ephraim Mwereza] (https://github.com/Ephraim-blessing-mwereza)
+- [Aaftab-Ahmed-Khan](https://github.com/FlashGrey3000)
 - [Mridul-Malakar] (https://github.com/newton1321)
 - [Aryan-Gupta]
 - [Noel Young] (git@github.com:noeljyoung)
