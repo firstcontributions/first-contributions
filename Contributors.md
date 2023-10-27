@@ -10,6 +10,7 @@
 - [aojiaosaiban](https://github.com/aojiaosaiban)
 - [Om Lokhande](https://github.com/Nincompup)
 - [Shashwat Verma](https://github.com/shasvt07)
+- [Pratik Aman](https://github.com/pratikaman)
 - [mbinayak](https://github.com/mbinayak)
 - [henockt](https://github.com/henockt)
 - [uluk01](https://github.com/uluk01)
