@@ -4018,6 +4018,7 @@ Akash Abraham
 - [Josh Davidson](https://github.com/JDavidson00)
 - [Vinicius Ribeiro](https://github.com/vini-rbeiro)
 - [Aditya Goyal](https://github.com/adityagoyal200)
+Gauresh Rathi
 - [Kamo develop](https://github.com/kamo-develop)
 - [Maciej Pogorzelski](https://github.com/mpogorzelski095)
 - [Rakin Farhan](https://github.com/d33pto3)
