@@ -332,6 +332,7 @@
 - [Julian Palomino](https://github.com/Julian-Palo)
 - [Youkwhan Kim](https://github.com/Youkwhan)
 - [Abayomi Eniola](https://github.com/Enielect)
+- [Timparvi](https://github.com/timparvi)
 - [Light Andy](https://github.com/LightAndy1)
 - [AgusWorld](https://github.com/AgusWorld)
 - [Om Varma ](https://github.com/omvarma31)
