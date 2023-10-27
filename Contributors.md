@@ -3618,6 +3618,7 @@ Akash Abraham
 - [yuchenlogin](https://github.com/yuchenlogin)
 - [Furkan Dogmus](https://github.com/furkandogmus)
 - [Yakov Donde](https://github.com/yakovdonde)
+- [ducknows](https://github.com/ducknows)
 - [Gabe Cano](https://github.com/gabecano4308)
 - [Eray Ates](https://github.com/erayates)
 - [Alfonso de Mora Navarro](https://github.com/demora33)
