@@ -1,6 +1,7 @@
 # Contributors
 
 - [Alec Smith](https://github.com/sharktankful)
+- [Sanjib Kumar Das](https://github.com/sanjib-kumar-das)
 - [Om Lokhande](https://github.com/Nincompup)
 - [Shashwat Verma](https://github.com/shasvt07)
 - [mbinayak](https://github.com/mbinayak)
