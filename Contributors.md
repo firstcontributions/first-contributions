@@ -262,6 +262,7 @@
 - [Anastasia Parfinenko](https://github.com/AnastasiaParfinenko)
 - [Olumide Micheal](https://github.com/codewithmide)
 - [Suresh](https://github.com/sureshp820)
+- [Lincoln Gibson](https://github.com/lincoln1883)
 - [Sk Saffi Ulla](https://github.com/saffi-786)
 - [Vinayak](https://github.com/vinayak5002)
 - [Emmanuel-Owolabi] (https://github.com/Nametheman)
