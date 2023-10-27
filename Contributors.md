@@ -732,5 +732,4 @@
 - [Popperda](https://github.com/popperda/)
 - [yangchunhua](https://github.com/1250855168/)
 - [MertKy](https://github.com/MertKy/)
-- [Lorraine](https://github.com/WambiruL)
-- [Negan Nguyen](https://github.com/nenene1812)
+- [Earl-Felix Teye](https://github.com/eael)
