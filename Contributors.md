@@ -6,6 +6,7 @@
 - [Shashwat Verma](https://github.com/shasvt07)
 - [mbinayak](https://github.com/mbinayak)
 - [henockt](https://github.com/henockt)
+- [rochhh](https://github.com/rochhh)
 - [Syed Muhammad](https://github.com/syedmohammad611)
 - [Jackson Funk](https://github.com/Mqcaw)
 - [Muhammad Khizar](https://github.com/mkhizu21)
