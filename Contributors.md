@@ -198,6 +198,7 @@
 - [Saurabh hingade](https://github.com/sauravhingade)
 - [Alom Jaiswal](https://github.com/alom2407)
 - [Galaxy Martian](https://github.com/GalaxyMart1an)
+- [Jesús Zúñiga Trejo](https://github.com/zutjmx)
 - [abc](https://github.com/d)
 - [Henry Kim](https://github.com/HenryKim12/)
 - [Saurabh Tajane] (https://github.com/saurabh7nt)
