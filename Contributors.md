@@ -1349,6 +1349,7 @@ JialingYU
 - [Aayush Shukla](https://github.com/aayushukla)
 - [Ashish Kotian](https://github.com/ashkotian84)
 - [Diego Arriaga](https://github.com/GOGOARRIAGA)
+- [Gianfranco Navas Fernandini](https://github.com/gianfranco2605)
 - [Emmanuella Okafor](https://github.com/nuelladev)
 - [Woon Koh](https://github.com/kohwdev)
 - [Wang Xue Rui](https://github.com/wangxuerui2003)
