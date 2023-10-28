@@ -45,6 +45,7 @@
 - [Krati agrawal](https://github.com/kratiagrawal100)
 - [Rick de Ruiter](https://github.com/TheFluyter)
 - [Rahul](https://github.com/Rahulsrini)
+- [Rishabh](https://github.com/Rishabhsingh53)
 - [Artyom Romanov](https://github.com/art3xa)
 - [Lasan Ranatunge](https://github.com/lasanseniya)
 - [meghaverma3110](https://github.com/meghaverma3110)
