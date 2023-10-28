@@ -3146,6 +3146,7 @@ Akash Abraham
 - [Gabriel Fierro](https://github.com/GabrielFierro)
 - [Srajan Deo Jain](https://github.com/SrajanDJain)
 - [KRTechZen] (https://github.com/KRTechZen)
+- [dnxgrss](https://github.com/dnxgrss)
 - [Shashwat Pragya](https://github.com/shashwat183)
 - [host-glitch](https://github.com/host-glitch)
 - [Aenq](https://github.com/aenq)
