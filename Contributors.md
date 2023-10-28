@@ -4053,10 +4053,11 @@ Gauresh Rathi
 - [Dominic Prince](https://github.com/drp46220)
 - [Md Faizan](https://github.com/thesuaveguy)
 - [Umer Sikander] (https://github.com/umer-450)
--[Gideon Fummey] (https://github.com/giiiiid)
+- [Gideon Fummey] (https://github.com/giiiiid)
 - [Albert Tim Turansky] (https://github.com/aturansky)
 - [Srushti Rane] (https://github.com/srushti-712)
 - [John Henry Joromat](https://github.com/jhnhnryjrmt)
 - [Helen Oridupa] (https://github.com/temlena)
 - [Akshat Yadav] (https://github.com/Akshat1202)
+- [Martin Casas] (https://github.com/MirpoCasas)
 
