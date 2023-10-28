@@ -4062,6 +4062,7 @@ Gauresh Rathi
 - [Wenle Bao](https://github.com/wenle)
 - [Dominic Prince](https://github.com/drp46220)
 - [Md Faizan](https://github.com/thesuaveguy)
+-[Kevin Merck](https://github.com/Kmerck88) 
 - [Umer Sikander] (https://github.com/umer-450)
 -[Gideon Fummey] (https://github.com/giiiiid)
 - [Albert Tim Turansky] (https://github.com/aturansky)
