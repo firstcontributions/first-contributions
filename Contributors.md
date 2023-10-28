@@ -1,11 +1,8 @@
 
 # Contributors
 
-- [Tobias Kurgat](https://github.com/Kurgat094)
-=======
-  
-- [Ram Tyagi](https://github.com/Ram-tyagi)  
 
+- [Ram Tyagi](https://github.com/Ram-tyagi)  
 - [Vidhi Jain](https://github.com/vidhijain27)
 - [Avinash S](https://github.com/Hunter305)
 - [Alom Jaiswal](https://github.com/alom2407)
@@ -565,6 +562,7 @@ aj
 - [Heli Patel] (https://github.com/helip0269) 
 - [Anxious Ant](https://github.com/AnxiousAnt)
 - [Patrick Udenyi]
+- [Tobias Kurgat](https://github.com/Kurgat094)
 - [Akshat](https://github.com/akagtag)
 - [Kenneth Weiss] (https://github.com/KennethWeiss)
 - [Muhammad Usman](https://github.com/MuhammadUsman-12)
