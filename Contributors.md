@@ -23,6 +23,7 @@
 - [mbinayak](https://github.com/mbinayak)
 - [G-O Jacobsson](https://github.com/G-jacobsson)
 - [henockt](https://github.com/henockt)
+- [Sandip Mondal](https://github.com/sandip-mondal-0248)
 - [uluk01](https://github.com/uluk01)
 - [rochhh](https://github.com/rochhh)
 - [Micah Howard](https://github.com/mikeboi08)
