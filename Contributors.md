@@ -1,6 +1,7 @@
 # Contributors
 
 - [Isna Ayu Muarofah](https://github.com/isnaayu)
+- [Shubham Singh](https://github.com/singhshubhrajput)
 - [Alec Smith](https://github.com/sharktankful)
 - [Abstaina Ephraim] (https://github.com/Abstaina44)
 - [Arth Patel](https://github.com/Arthpatel01)
