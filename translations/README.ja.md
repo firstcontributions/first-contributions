@@ -49,14 +49,14 @@ git clone https://github.com/＜あなたのユーザー名＞/first-contributio
 ```
 cd first-contributions
 ```
-`git checkout` コマンドを使用してブランチを作成します：
+`git switch` コマンドを使用してブランチを作成します：
 ```
-git checkout -b <add-your-name>
+git swtich -c <add-your-name>
 ```
 
 例:
 ```
-git checkout -b add-alonzo-church
+git switch -c add-alonzo-church
 ```
 (ブランチの名前には必ずしも*add*が含まれていなければならないわけではありませんが、このブランチの目的があなたの名前をリストに加えることであることを考慮すれば含むのが適切です。)
 
