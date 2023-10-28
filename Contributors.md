@@ -1700,7 +1700,6 @@ Sino Felicity Zwane
 - [Kane Le](https://github.com/kanelv)
 - [Rohan Kanti] (https://github.com/rohank36)
 - [Frederick] (https://github.com/fredsn0tDead)
-- [Freddy Velarde] (https://github.com/freddyvelarde)
 - [Mark Bloomfield] (https://github.com/mjbloomfield)
 - [Gustavo Passarella] (https://github.com/Gunnar50)
 - [Matthew De Vera] (https://github.com/Matmat01-droid)
