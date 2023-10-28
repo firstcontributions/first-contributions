@@ -197,7 +197,7 @@ TJanz
 - [Md. Saidul Islam](https://github.com/Saidul-1)
 - [Tarik Teshome](https://github.com/tarik350)
 - [Maddineni Ramkumar](https://github.com/RamMaddineni)
-- [Vinayak Venugopal](https://github.com/vinayakvenugopal)
+- [Vinayak Venugopal ](https://github.com/vinayakvenugopal)
 - [pistil-K](https://github.com/pistil-K)
 - [Christian Decker](https://github.com/cmdecker95)
 - [Senjith P](https://github.com/SenjithP)
@@ -310,7 +310,6 @@ TJanz
 - [Wayne G](https://github.com/wehyn)
 - [Alok Tamrakar](https://github.com/TammyAlok2)
 - [haneesh byreddy]
-- [Marcio Nitao](https://github.com/marcionita)
 - [Daagni](https://github.com/Daagni)
 - [Gonca Negis](https://github.com/goncanegis/)
 - [jungle-kai](https://github.com/jungle-kai)
@@ -635,7 +634,7 @@ TJanz
 - [XYZscratcher](https://github.com/XYZscratcher)
 - [Agus Deo Saputra Utama](https://github.com/agusdeo)
 - [Viraj Rajderkar](https://github.com/VirajRaj0)
-- [K Akshit Kumar](https://github.com/K-Akshit-Kumar)
+- [K Akshit Kumar](https://github.com/K-Akshit-Kumar) 
 - [rk26](https://github.com/SivaRK26)
 - [Shubham Sigdar #100Devs](https://github.com/shubhamsigdar1)
 - [David Galvez Valverde](https://github.com/davidgalvez)
@@ -1053,6 +1052,7 @@ TJanz
 - [Afzal Ansari](https://github.com/dev-afzalansari)
 - [Tarakeswar Mondal](https://github.com/tarakes)
 - [Paolo Crisalli] (https://github.com/Cris-Paolo)
+- [Marcio Nitao](https://github.com/marcionita)
 - [Luke Herbst](https://github.com/LukeHerbst)
 - [Shravan Garg](https://github.com/shravan-garg)
 - [Sachin parihar](https://github.com/sachinparihar)
@@ -1542,3 +1542,4 @@ TJanz
 -[Saanidhya Singh](https://github.com/Saani765)
 -[Nicholas Ndolo](https://github.com/nicholasndolo)
 -[Soap Opera](https://github.com/soapopera12)
+
