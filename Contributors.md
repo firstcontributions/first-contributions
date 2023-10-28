@@ -717,6 +717,7 @@ harshal honde
 - [Suhiteswar](https://github.com/suhit123)
 - [Minjae Lee](https://github.com/minleejae)
 - [7oda]tss
+- [Micha Briskman](https://github.com/MichaBriskman)
 - [Riyaz](https://github.com/Riyaz6121)
 - [Riz]
 -[Avira Soni](https://github.com/A-viralS)
