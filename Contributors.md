@@ -94,6 +94,7 @@
 - [Aakash Basnet](https://github.com/iamaakashbasnet)
 -[James Yun](https://github.com/JamesYcode)
 - [Ankit Kumar](https://github.com/ak3311g)
+- [Cristian Salazar](https://github.com/crisaflo)
 -[Mawoda Ekabua](https://github.com/mdekabs)
 -[Abubakar Habib](https://github.com/sufyanhabib)
 - [Boubacar FALL](https://github.com/boobacar)
