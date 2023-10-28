@@ -136,7 +136,7 @@
 - [Esteban Block](https://github.com/NoNameNeeded4now)
 - [Jo Galeon](https://github.com/jogaleon)
 - [Amit singh](https://github.com/technicalamit8055)
-- [Devon Dixon] (https://github.com/DevonTD)
+- [Devon Dixon] (https://github.com/DevonTD) 
 - [rivera]
 - [John Ly] (https://github.com/johnly17)
 - [CJ Bauzon](https://github.com/cbauzon)
@@ -301,7 +301,7 @@
 - [Md. Saidul Islam](https://github.com/Saidul-1)
 - [Tarik Teshome](https://github.com/tarik350)
 - [Maddineni Ramkumar](https://github.com/RamMaddineni)
-- [Vinayak Venugopal](https://github.com/vinayakvenugopal)
+- [Vinayak Venugopal ](https://github.com/vinayakvenugopal)
 - [pistil-K](https://github.com/pistil-K)
 - [Christian Decker](https://github.com/cmdecker95)
 - [Senjith P](https://github.com/SenjithP)
@@ -1710,7 +1710,7 @@
 - [Evan Glaze](https://github.com/The-Angry-Bagel)
 - ming3
 - [Sergey Rudenko](https://github.com/der-fanatiker)
-- [Deepak Sah](https://github.com/deepakkumar1983)
+- [Deepak Sah](https://github.com/deepakkumar1983) 
 - [Tareef Iman](https://github.com/TareefIman)
 - [Lai Yu-Chiao](https://github.com/joelai0101)
 - [Eric Larson](https://github.com/larsoneric)
