@@ -4,6 +4,7 @@
 - [Isna Ayu Muarofah](https://github.com/isnaayu)
 - [Sonu Hansda](https://github.com/Sonu-Hansda)
 - [Alec Smith](https://github.com/sharktankful)
+- [Marko Cuk](https://github.com/MarkoCuk54)
 - [Abstaina Ephraim] (https://github.com/Abstaina44)
 - [Arth Patel](https://github.com/Arthpatel01)
 - [Gaurav Katkade](https://github.com/gaurav-katkade)
