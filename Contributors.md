@@ -317,6 +317,7 @@
 - [Atharv Fakatkar](https://github.com/atharvfakatkar)
 - [Siddharth Warrier](https://github.com/siddwarr)
 - [Sujatha](https://github.com/21CSE49)
+- [Yaqioooong](https://github.com/Yaqioooong)
 - [Oolazile](https://github.com/Oolazile)
 - [Shivani G](https://github.com/ShivaniG14)
 - [Arunkumar N S](https://github.com/arunlorenz)
