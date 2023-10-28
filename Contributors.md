@@ -1,8 +1,8 @@
 
 # Contributors
+- [Ram Tyagi](https://github.com/Ram-tyagi)  
 - [Olusegun Omotunde](https://github.com/omotuno)
-[TemiJ](https://github.com/tehmie)
-
+- [TemiJ](https://github.com/tehmie)
 - [Sarah Zeitler](https://github.com/ZeSa-333) 
 - [Isna Ayu Muarofah](https://github.com/isnaayu)
 - [Sonu Hansda](https://github.com/Sonu-Hansda)
@@ -898,6 +898,7 @@ aj
 - [Heli Patel] (https://github.com/helip0269)
 - [Anxious Ant](https://github.com/AnxiousAnt)
 - [Patrick Udenyi]
+- [Tobias Kurgat](https://github.com/Kurgat094)
 - [Akshat](https://github.com/akagtag)
 - [Kenneth Weiss] (https://github.com/KennethWeiss)
 - [Muhammad Usman](https://github.com/MuhammadUsman-12)
