@@ -66,6 +66,7 @@
 - [Abhinav Singh](https://github.com/AbhinavSingh111)
 - [Joabriel](https://github.com/Joabriel)
 - [Utkarsh Kumar](https://github.com/utkarsh1042005)
+- [Aman Bhujel](https://github.com/AmanBhujel)
 - [Vo Le Phu Xuan] (https://github.com/volephuxuan)
 - [Itesh Tomar](https://github.com/petrioteer)
 - [CodeWithJazzy](https://github.com/codewithjazzy)
