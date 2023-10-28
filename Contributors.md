@@ -989,6 +989,7 @@ Mac McHam
 - [Shantanu Mane](https://github.com/RndmCodeWorkshop)
 - [Brady Camp](https://github.com/bradyjcamp)
 - [Aung Thu Zaw](https://github.com/Aung-Thu-Zaw)
+- [Md. Mazharul Islam](https://github.com/mazharkafi004)
 - [Gideon Balogun](https://github.com/itzgeebee)
 - [Leron Tonge](https://github.com/lerontonge)
 - [Jack Ma](https://github.com/KingJacM)
@@ -1849,7 +1850,6 @@ Mac McHam
 - [Sandesh Dhamangaonkar](https://github.com/sandeshpd)
 - [Cesar Silva](https://github.com/cesarsdcf)
 -[Jesus Sanchez](https://github.com/Jesus1Sanchez)
--[Md. Mazharul Islam](https://github.com/mazharkafi004)
 
 
 - [medzo-kali](https://github.com/medzo-kali)
