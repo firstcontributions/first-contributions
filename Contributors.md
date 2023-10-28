@@ -1,5 +1,5 @@
 # Contributors
-- [utkar1995](https://github.com/utkar1995)
+
 - [Utsho de Bravestone](https://github.com/utshodebravestone)
 - [Dilusha Hesaranga](https://github.com/DilushaHesaranga)
 - [John Virgil Carvajal](https://github.com/DarcMattz)
@@ -724,6 +724,7 @@ Mac McHam
 - [Provab Mongchaw Khyang](https://github.com/notmongchaw)
 - [Aliraza Khan](https://github.com/itsarkcodes)
 - [Rick](https://github.com/RickMMA)
+- [utkar1995](https://github.com/utkar1995)
 - [Sanket patil](https://github.com/sanket1one)
 - [Eliza Huang](https://github.com/elizahuang/)
 - [Alvin Su](https://github.com/aksu-github)
@@ -1861,4 +1862,3 @@ Mac McHam
 
 - [jsj8051](https://github.com/jsj8051)
 - [Frank](https://github.com/Frank40790)
-
