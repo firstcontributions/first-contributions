@@ -16,6 +16,7 @@
 - [Aimane Yousr](https://github.com/aymanysr)
 - [Sanjib Kumar Das](https://github.com/sanjib-kumar-das)
 - [aojiaosaiban](https://github.com/aojiaosaiban)
+- [Dez Blair](https://github.com/dezdoesit)
 - [Om Lokhande](https://github.com/Nincompup)
 - [Shashwat Verma](https://github.com/shasvt07)
 - [Pratik Aman](https://github.com/pratikaman)
