@@ -1,5 +1,4 @@
 # Contributors
-
 - [Utsho de Bravestone](https://github.com/utshodebravestone)
 - [Dilusha Hesaranga](https://github.com/DilushaHesaranga)
 - [John Virgil Carvajal](https://github.com/DarcMattz)
@@ -1859,6 +1858,5 @@ Mac McHam
 - [andole xavier](https://github.com/jaarabytes)
 - [Caleb Coggins](https://github.com/OnlyPolygon)
 -[Nand Kishore Singh](https://github.com/NandEnigmaCode/NandEnigmaCode.git)
-
 - [jsj8051](https://github.com/jsj8051)
 - [Frank](https://github.com/Frank40790)
