@@ -4002,6 +4002,7 @@ Akash Abraham
 - [Jessy H](https://github.com/jeeehaan)
 - [Bennett Hammock](https://github.com/Bhammock33)
 - [conundrum1](https://github.com/conundrum1)
+- [Alice Gathoni Mirigo](https://github.com/alicemirigo92)
 - [Code Drinks](https://github.com/CodeDrinks270)
 - [Aman Pathan](https://github.com/AmanPathan)
 - [Saurabh hingade](https://github.com/sauravhingade)
