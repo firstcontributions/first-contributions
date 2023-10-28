@@ -41,6 +41,7 @@
 - [Huraira Muzammal](https://github.com/hurairamuzammil)
 - [Evan Sunde](https://github.com/EvanSunde)
 - [Shryansh](https://github.com/Shryansh107)
+- [Hayden Gagnon](https://github.com/haydengagnon)
 - [BattleDevLukman](https://github.com/lukman155)
 - [Debmalya Sadhukhan](https://github.com/deBmalooo)
 - [Sumit Bera](https://github.com/berasumit611)
