@@ -38,6 +38,7 @@
 -[Paing Soe Khant](https://github.com/PaingSKhant)
 - [Anne Kubis](https://github.com/AKubisDev)
 - [Muhammad Abdullah Mahmood](https://github.com/venomeh)
+- [Huraira Muzammal](https://github.com/hurairamuzammil)
 - [Evan Sunde](https://github.com/EvanSunde)
 - [Shryansh](https://github.com/Shryansh107)
 - [BattleDevLukman](https://github.com/lukman155)
