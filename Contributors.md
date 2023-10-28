@@ -7,6 +7,7 @@
 - [Marko Cuk](https://github.com/MarkoCuk54)
 - [Abstaina Ephraim] (https://github.com/Abstaina44)
 - [Arth Patel](https://github.com/Arthpatel01)
+- [rita faretra](https://github.com/peterston-e)
 - [Gaurav Katkade](https://github.com/gaurav-katkade)
 - [Srishty M](https://github.com/Srish-ty/)
 - [Aimane Yousr](https://github.com/aymanysr)
