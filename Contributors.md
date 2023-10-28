@@ -1299,7 +1299,7 @@ Pizzacat
 - [Joe Philip](https://github.com/joe-philip)
 - [menareus](https://github.com/menareus)
 - [Yatin Goyal](https://github.com/ygoyal48)
--
+- [Yash Chaudhary](https://github.com/yashchaudhary143)
 - [John Allen Berty](https://github.com/JohnAllenBerty)
 - [Azhar Lihan](https://github.com/azharlihan)
 - [Zuebeyir Eser] (https://github.com/ZuebeyirEser)
