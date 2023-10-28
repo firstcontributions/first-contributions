@@ -1129,6 +1129,7 @@ Mac McHam
 - [Farook Khan](https://github.com/millfields99)
 - [Srajan Deo Jain](https://github.com/SrajanDJain)
 - [KRTechZen] (https://github.com/KRTechZen)
+- [dnxgrss](https://github.com/dnxgrss)
 - [Shashwat Pragya](https://github.com/shashwat183)
 - [host-glitch](https://github.com/host-glitch)
 - [Aenq](https://github.com/aenq)
@@ -1804,7 +1805,11 @@ Mac McHam
 - [Sandesh Dhamangaonkar](https://github.com/sandeshpd)
 - [Cesar Silva](https://github.com/cesarsdcf)
 -[Jesus Sanchez](https://github.com/Jesus1Sanchez)
+
+
+
 - [medzo-kali](https://github.com/medzo-kali)
+
 - [Nicholas Garbutt] (https://github.com/Nicholas-Garbutt)
 - [Carlo Inserra](https://github.com/Carleoinserra)
 - [KhaingKyawMin] (https://github.com/kkm1991)
@@ -1814,4 +1819,3 @@ Mac McHam
 - [Manuel Zorrilla](https://github.com/manuelzorrilladev)
 - [Kashish Jain](https://github.com/jkashish18)
 - [wikara gunawan](https://github.com/lactobacil)
-- [dnxgrss] (https://github.com/dnxgrss)
