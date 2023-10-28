@@ -2,7 +2,7 @@
 # Contributors
 [TemiJ](https://github.com/tehmie)
 
-
+- [Sarah Zeitler](https://github.com/ZeSa-333) 
 - [Isna Ayu Muarofah](https://github.com/isnaayu)
 - [Sonu Hansda](https://github.com/Sonu-Hansda)
 - [Alec Smith](https://github.com/sharktankful)
