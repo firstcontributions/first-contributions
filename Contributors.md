@@ -3253,6 +3253,7 @@ Akash Abraham
 - [Afzal Ansari](https://github.com/dev-afzalansari)
 - [Tarakeswar Mondal](https://github.com/tarakes)
 - [Paolo Crisalli] (https://github.com/Cris-Paolo)
+- [Marcio Nitao](https://github.com/marcionita)
 - [Luke Herbst](https://github.com/LukeHerbst)
 - [FurkanKaraagac] (https://github.com/furkankaraagc)
 - [Shravan Garg](https://github.com/shravan-garg)
