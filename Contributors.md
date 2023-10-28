@@ -121,20 +121,20 @@
 -[AmanPathan](https://github.com/AmanPathan)
 -[adiazt01](https://github.com/adiazt01)
 -[yourblood](https://github.com/sureshp820)
--[narren](https://github.com/narrennagendra)
--[Robert Richey](https://github.com/z0x0936)
--[h-e-d-g-e-h-o-g(Arpit Negi)](https://github.com/h-e-d-g-e-h-o-g)
+- [narren](https://github.com/narrennagendra)
+- [Robert Richey](https://github.com/z0x0936)
+- [h-e-d-g-e-h-o-g(Arpit Negi)](https://github.com/h-e-d-g-e-h-o-g)
 -[pranat Siyal]
 - Koroviev
--[romitp4l(ROMIT PAL)](https://github.com/romitp4l)
--[sujallimje(SUJAL LIMJE)](https://github.com/sujallimje)
--[Yachika9925](https://github.com/Yachika9925)
--[MasaJnnjn](https://github.com/masa-jnnjn)
--[Rohan](https://github.com/RS-labhub)
--[Ajay](https://github.com/ajaydatla)
--[Anthony Heinrichs](https://github.com/AnthonyHeinrichs)
--[Harsh](https://github.com/oharsh)
--[Srigopal](https://github.com/Srigopalsarda)
+- [romitp4l(ROMIT PAL)](https://github.com/romitp4l)
+- [sujallimje(SUJAL LIMJE)](https://github.com/sujallimje)
+- [Yachika9925](https://github.com/Yachika9925)
+- [MasaJnnjn](https://github.com/masa-jnnjn)
+- [Rohan](https://github.com/RS-labhub)
+- [Ajay](https://github.com/ajaydatla)
+- [Anthony Heinrichs](https://github.com/AnthonyHeinrichs)
+- [Harsh](https://github.com/oharsh)
+- [Srigopal](https://github.com/Srigopalsarda)
 - [daemon-surge-suzuya](https://github.com/daemon-surge-suzuya)
 
 - [Anshul Kansal](https://github.com/anshulkansal04)
@@ -149,11 +149,11 @@
 - [Vaibhav Chauhan](https://github.com/rover07)
 - [Saket Gupta](https://github.com/saket0x07)
 - [Jimmy]
--[Amruth]
--[Guillermo Alvarez Bacame] (https://github.com/gabacame)
--[Namatirai Chibvongodze](https://github.com/Namatirai)
+- [Amruth]
+- [Guillermo Alvarez Bacame] (https://github.com/gabacame)
+- [Namatirai Chibvongodze](https://github.com/Namatirai)
 - [Jim Franklin](https://github.com/jim-franklin)
--[Agnik] (https://github.com/agnik06)
+- [Agnik] (https://github.com/agnik06)
 - [Md. Abu Jafor](https://github.com/abujaforhadi)
 - [Melody Gatan](https://github.com/mel418)
 - [Ashish Ranjan](https://github.com/Ashish-Ranjan007)
@@ -161,7 +161,8 @@
 - [Harshavardhan Bajoria](https://github.com/HVbajoria)
 - [Amaan Farooquee](https://github.com/AmaanFarooquee)
 - [Farookh](https://github.com/FarookhNITAP)
--[Muntajir]
+- [Muntajir]
+- [Julian] (https://github.com/jsing134)
 - [Shreyash](https://github.com/ShreyashJ12)
 - [zMiguezz](https://github.com/zMiguezz)
 - [Vipul Varshney](https://github.com/vipulSVJ)
