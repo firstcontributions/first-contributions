@@ -32,9 +32,9 @@ onde "url que copiou" (sem as aspas) é o URL deste repositório. Consulte as et
 
 Por exemplo:
 ```
-git clone https://github.com/este-eh-voce/first-contributions.git
+git clone https://github.com/este-é-voce/first-contributions.git
 ```
-onde "este-eh-voce" é o teu nome de usuário do GitHub. Aqui estás a copiar o conteúdo do repositório first-contributions para o teu computador.
+onde "este-é-voce" é o teu nome de usuário do GitHub. Aqui estás a copiar o conteúdo do repositório first-contributions para o teu computador.
 
 ## Cria um Branch
 
