@@ -1,5 +1,6 @@
 
 # Contributors
+- [Olusegun Omotunde](https://github.com/omotuno)
 [TemiJ](https://github.com/tehmie)
 
 - [Sarah Zeitler](https://github.com/ZeSa-333) 
