@@ -3145,6 +3145,7 @@ Akash Abraham
 - [Farook Khan](https://github.com/millfields99)
 - [Gabriel Fierro](https://github.com/GabrielFierro)
 - [Srajan Deo Jain](https://github.com/SrajanDJain)
+- [Rafael Fernandez](https://github.com/Areonesix)
 - [KRTechZen] (https://github.com/KRTechZen)
 - [dnxgrss](https://github.com/dnxgrss)
 - [Shashwat Pragya](https://github.com/shashwat183)
