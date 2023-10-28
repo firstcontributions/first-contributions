@@ -30,6 +30,7 @@
 - [Edivaldo Junior](https://github.com/EdiJunior88)
 - [Majd Machlouch](https://github.com/Majd2404)
 -[Paing Soe Khant](https://github.com/PaingSKhant)
+- [Anne Kubis](https://github.com/AKubisDev)
 - [Muhammad Abdullah Mahmood](https://github.com/venomeh)
 - [Evan Sunde](https://github.com/EvanSunde)
 - [Shryansh](https://github.com/Shryansh107)
