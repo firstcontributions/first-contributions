@@ -27,6 +27,7 @@
 - [Majd Machlouch](https://github.com/Majd2404)
 -[Paing Soe Khant](https://github.com/PaingSKhant)
 - [Muhammad Abdullah Mahmood](https://github.com/venomeh)
+- [Evan Sunde](https://github.com/EvanSunde)
 - [Shryansh](https://github.com/Shryansh107)
 - [BattleDevLukman](https://github.com/lukman155)
 - [Debmalya Sadhukhan](https://github.com/deBmalooo)
