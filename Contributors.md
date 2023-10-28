@@ -67,6 +67,7 @@
 - [bh-2](https://github.com/bh-2)
   [Hithesh K P](https://github.com/Hithesh2022)
 - [Govindapalle Vijaychandra]
+- [LaWayne Walker](https://github.com/wynewlker)
 - [Abhinav Singh](https://github.com/AbhinavSingh111)
 - [Joabriel](https://github.com/Joabriel)
 - [Utkarsh Kumar](https://github.com/utkarsh1042005)
