@@ -21,6 +21,7 @@
 - [henockt](https://github.com/henockt)
 - [uluk01](https://github.com/uluk01)
 - [rochhh](https://github.com/rochhh)
+- [Micah Howard](https://github.com/mikeboi08)
 - [Syed Muhammad](https://github.com/syedmohammad611)
 - [Jackson Funk](https://github.com/Mqcaw)
 - [Muhammad Khizar](https://github.com/mkhizu21)
