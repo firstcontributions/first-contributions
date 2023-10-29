@@ -125,6 +125,7 @@
 - [Jade Vieval](https://github.com/jadevvl)
 - [Abhyanand](https://github.com/OneFriendlyCoder)
 - [Adhiraj](https://github.com/xraymaverick)
+- [William](https://github.com/alfabeat)
 - [bizzybits](https://github.com/bizzybits)
 - [ professssor](https://github.com/professssor)
 -[Aliloulaye Tchaou](https://github.com/aliloulaye)
