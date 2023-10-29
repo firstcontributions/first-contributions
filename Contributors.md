@@ -8,6 +8,7 @@
 - [Isna Ayu Muarofah](https://github.com/isnaayu)
 - [Shann Span](https://github.com/Shannspan)
 - [Sonu Hansda](https://github.com/Sonu-Hansda)
+- [Mohd Tauseef Ansari](https://github.com/Mohdtsf)
 - [Emilha de Souza](https://github.com/emilha-mg)
 - [Alec Smith](https://github.com/sharktankful)
 - [Abstaina Ephraim](https://github.com/Abstaina44)
