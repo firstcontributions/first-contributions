@@ -2,6 +2,7 @@
 # Contributors
 - [TechySavant](https://github.com/techy-savant)
 - [Ram Tyagi](https://github.com/Ram-tyagi)  
+- [DezS](https://github.com/DezS4125)
 - [Olusegun Omotunde](https://github.com/omotuno)
 - [TemiJ](https://github.com/tehmie)
 - [Sarah Zeitler](https://github.com/ZeSa-333) 
