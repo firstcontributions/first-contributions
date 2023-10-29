@@ -48,6 +48,7 @@
 - [Evan Sunde](https://github.com/EvanSunde)
 - [Shryansh](https://github.com/Shryansh107)
 - [Hayden Gagnon](https://github.com/haydengagnon)
+- [Ashutosh Singh Yadav](https://github.com/ashu9335)
 - [JimsJam](https://github.com/JimsJam)
 - [BattleDevLukman](https://github.com/lukman155)
 - [Debmalya Sadhukhan](https://github.com/deBmalooo)
