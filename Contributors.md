@@ -175,6 +175,7 @@
 - [Farookh](https://github.com/FarookhNITAP)
 - [Chriscent Pingol](https://github.com/KishonShrill)
 - [Muntajir]
+- [Likhith K.P.] (https://github.com/likhithkp)
 - [Julian] (https://github.com/jsing134)
 - [Shreyash](https://github.com/ShreyashJ12)
 - [zMiguezz](https://github.com/zMiguezz)
