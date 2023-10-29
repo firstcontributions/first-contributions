@@ -1620,5 +1620,6 @@
 - [Aftab N](https://github.com/aftabnabi)
 - [Phuong Nguyen](https://github.com/png261)
 - Aviya Atias
+[Akash chakraborty](https://github.com/ak01a04sh)
 - <!-- prettier-ignore-end -->
 
