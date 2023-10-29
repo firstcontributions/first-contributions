@@ -20,6 +20,7 @@
 - [rita faretra](https://github.com/peterston-e)
 - [Gaurav Katkade](https://github.com/gaurav-katkade)
 - [Srishty M](https://github.com/Srish-ty/)
+- [Shafa Shabudeen](https://github.com/shafa-shabudeen)
 - [Aimane Yousr](https://github.com/aymanysr)
 - [Sanjib Kumar Das](https://github.com/sanjib-kumar-das)
 - [aojiaosaiban](https://github.com/aojiaosaiban)
