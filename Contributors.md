@@ -6,6 +6,7 @@
 - [TemiJ](https://github.com/tehmie)
 - [Sarah Zeitler](https://github.com/ZeSa-333) 
 - [Isna Ayu Muarofah](https://github.com/isnaayu)
+- [Shann Span](https://github.com/Shannspan)
 - [Sonu Hansda](https://github.com/Sonu-Hansda)
 - [Emilha de Souza](https://github.com/emilha-mg)
 - [Alec Smith](https://github.com/sharktankful)
