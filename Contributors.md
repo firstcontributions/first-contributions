@@ -85,7 +85,6 @@
 - [Chathura Mathula](https://github.com/ChathuraMathula)
 - [bh-2](https://github.com/bh-2)
 - [Will Bates](https://github.com/willbates13)
-- [Govindapalle Vijaychandra]
 - [LaWayne Walker](https://github.com/wynewlker)
 - [Abhinav Singh](https://github.com/AbhinavSingh111)
 - [Joabriel](https://github.com/Joabriel)
@@ -113,7 +112,7 @@
 - [Gianmarco Iachella](https://github.com/iachella)
 - [Naman Jain](https://github.com/namanjain7)
 - [Ekam Bitt](https://github.com/Ekam-Bitt)
-- [Austin Burdette] (https://github.com/burd5)
+- [Austin Burdette](https://github.com/burd5)
 - [Vipul Varshney](https://github.com/ishant-void)
 - [Diego Suntaxi](https://github.com/Tubaher)
 - [Shubham Kambire](https://github.com/ShubhamKambire)
@@ -136,8 +135,6 @@
 - [narren](https://github.com/narrennagendra)
 - [Robert Richey](https://github.com/z0x0936)
 - [h-e-d-g-e-h-o-g(Arpit Negi)](https://github.com/h-e-d-g-e-h-o-g)
--[pranat Siyal]
-- Koroviev
 - [romitp4l(ROMIT PAL)](https://github.com/romitp4l)
 - [sujallimje(SUJAL LIMJE)](https://github.com/sujallimje)
 - [Yachika9925](https://github.com/Yachika9925)
@@ -162,10 +159,10 @@
 - [Saket Gupta](https://github.com/saket0x07)
 - [Jimmy]
 - [Amruth]
-- [Guillermo Alvarez Bacame] (https://github.com/gabacame)
+- [Guillermo Alvarez Bacame](https://github.com/gabacame)
 - [Namatirai Chibvongodze](https://github.com/Namatirai)
 - [Jim Franklin](https://github.com/jim-franklin)
-- [Agnik] (https://github.com/agnik06)
+- [Agnik](https://github.com/agnik06)
 - [Md. Abu Jafor](https://github.com/abujaforhadi)
 - [Melody Gatan](https://github.com/mel418)
 - [Ashish Ranjan](https://github.com/Ashish-Ranjan007)
