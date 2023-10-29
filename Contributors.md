@@ -5,6 +5,7 @@
 - [Ram Tyagi](https://github.com/Ram-tyagi)  
 - [DezS](https://github.com/DezS4125)
 - [Olusegun Omotunde](https://github.com/omotuno)
+- [Ramesh Giri](https://github.com/Viper2627)
 - [TemiJ](https://github.com/tehmie)
 - [Sarah Zeitler](https://github.com/ZeSa-333) 
 - [Isna Ayu Muarofah](https://github.com/isnaayu)
