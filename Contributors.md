@@ -180,6 +180,7 @@
 - [Farookh](https://github.com/FarookhNITAP)
 - [Chriscent Pingol](https://github.com/KishonShrill)
 - [Muntajir]
+- [Riley Doyle](https://github.com/rdoyle0914)
 - [Likhith K.P.] (https://github.com/likhithkp)
 - [Julian] (https://github.com/jsing134)
 - [Shreyash](https://github.com/ShreyashJ12)
