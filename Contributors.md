@@ -4096,7 +4096,7 @@ Gauresh Rathi
 - [Kamo develop](https://github.com/kamo-develop)
 - [Maciej Pogorzelski](https://github.com/mpogorzelski095)
 - [Rakin Farhan](https://github.com/d33pto3)
-- [Igor Moraes Rocha] ()
+- [Igor Moraes Rocha] (https://github.com/devIgor1)
 - [Aleksandr N](https://github.com/WIR1337)
 - [Sebi Francis](https://github.com/Sebifrancis1935)
 - [Tarushi Gupta](https://github.com/tarushigupta0012)
