@@ -2763,6 +2763,7 @@ Nikhil R
 - [Shreya Dasgupta](https://github.com/shreyadg56)
 - [Frank Wang](https://github.com/frank-suwen)
 - [Rafael Dutra](https://github.com/RafaDRF)
+- [Anthony Klarman] (https://github.com/tonguegrease)
 - [Madani Khouane](https://github.com/madani20)
 - [Jessica Clarita Halim](https://github.com/jessicaclarita)
 - [Ricardo Chairez](https://github.com/RicardoChairez)
