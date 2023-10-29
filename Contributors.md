@@ -131,6 +131,7 @@
 -[Aliloulaye Tchaou](https://github.com/aliloulaye)
 -[daemon-surge-suzuya](https://github.com/daemon-surge-suzuya)
 -[Sunny Gandhwani](https://github.com/Sunny-unik)
+- [John Snowman](https://github.com/IDontKnowWhatToDo2)
 -[MASTERxVIC](https://github.com/MASTERxVIC)
 -[Niraj](https://github.com/btrezzy)
 -[Bowen](https://github.com/deng020504)
