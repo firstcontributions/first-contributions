@@ -35,7 +35,7 @@
 - [Jackson Funk](https://github.com/Mqcaw)
 - [Muhammad Khizar](https://github.com/mkhizu21)
 - [Yassine Bouchama](https://github.com/SiskoWeb)
-- [KapsarovL](https://github.com/KapsaorvL
+- [KapsarovL](https://github.com/KapsaorvL)
 - [Abdullah Minhas](https://github.com/minhas309)
 - [Edivaldo Junior](https://github.com/EdiJunior88)
 - [Majd Machlouch](https://github.com/Majd2404)
@@ -62,6 +62,7 @@
 - [Rahul](https://github.com/Rahulsrini)
 - [Francis Ramsden](https://github.com/RamsdenF)
 - [Rishabh](https://github.com/Rishabhsingh53)
+- [Nebil Rahmeto](https://github.com/Patrix726)
 - [Artyom Romanov](https://github.com/art3xa)
 - [Lasan Ranatunge](https://github.com/lasanseniya)
 - [meghaverma3110](https://github.com/meghaverma3110)
