@@ -1,5 +1,6 @@
 
 # Contributors
+- [TechySavant](https://github.com/techy-savant)
 - [Ram Tyagi](https://github.com/Ram-tyagi)  
 - [Olusegun Omotunde](https://github.com/omotuno)
 - [TemiJ](https://github.com/tehmie)
