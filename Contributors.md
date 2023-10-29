@@ -1,6 +1,7 @@
 
 # Contributors
 - [TechySavant](https://github.com/techy-savant)
+- [Ashwin Dhangar](https://github.com/MrAshwin2142)
 - [Ram Tyagi](https://github.com/Ram-tyagi)  
 - [DezS](https://github.com/DezS4125)
 - [Olusegun Omotunde](https://github.com/omotuno)
