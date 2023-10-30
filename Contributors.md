@@ -1992,6 +1992,7 @@ Sino Felicity Zwane
 - cessybranch-princess
 - doremikaelatido
 - [Franco Lu](https://github.com/franco2002lu)
+- [Alonso del Arte](https://github.com/Alonso-del-Arte)
 - [Simon Lowe](https://github.com/LoweSimon)
 - [Nashwa] (https://github.com/siddiquen)
 - [Pranay Choubey](https://github.com/CaesarMouse)
