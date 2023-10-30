@@ -4151,6 +4151,7 @@ Gauresh Rathi
 - [Clint Simiyu](https://github.com/Clint171)
 - [Umer Sikander] (https://github.com/umer-450)
 -[Gideon Fummey] (https://github.com/giiiiid)
+- [Ralph Galantine] (https://github.com/ralphgalantine)
 - [Albert Tim Turansky] (https://github.com/aturansky)
 - [Srushti Rane] (https://github.com/srushti-712)
 - [John Henry Joromat](https://github.com/jhnhnryjrmt)
