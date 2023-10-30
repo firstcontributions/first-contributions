@@ -1334,6 +1334,7 @@ Pizzacat
 - [Kyle Kundinger](https://github.com/Kyle-Kundinger)
 - [Joe Philip](https://github.com/joe-philip)
 - [menareus](https://github.com/menareus)
+- [ib1zza](https://github.com/ib1zza)
 - [Yatin Goyal](https://github.com/ygoyal48)
 - [Yash Chaudhary](https://github.com/yashchaudhary143)
 - [John Allen Berty](https://github.com/JohnAllenBerty)
