@@ -117,6 +117,7 @@
 - [adrianlamlh](https://github.com/adrianlamlh)
 - [Pranav Kannawar](https://github.com/Hackwithpranav)
 - [Farookh](https://github.com/FarookhNITAP)
+- [Oliver Andersen](https://github.com/TjalleDev)
 -[Samuel Onyebekeh](https://github.com/SamuelOnyebekeh)
 - [Aakash Basnet](https://github.com/iamaakashbasnet)
 -[James Yun](https://github.com/JamesYcode)
