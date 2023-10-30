@@ -173,6 +173,7 @@
 - [nitvp](https://github.com/sureshp820)
 - [Farukh](https://github.com/FarukhS52)
 - [VictorAlexisL](https://github.com/VictorAlexisL)
+- [Aayush Bahukhandi](https://github.com/AayushBahukhandi)
 - [Olaoluwa Odewale](https://github.com/Olaoluwa99)
 - [Smit Dixit](https://github.com/smit-dixit/first-contributions.git)
 - [Rohan](https://github.com/RohanReddy2003)
