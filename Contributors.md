@@ -19,6 +19,7 @@
 - [Alec Smith](https://github.com/sharktankful)
 - [Abstaina Ephraim](https://github.com/Abstaina44)
 - [Marko Cuk](https://github.com/MarkoCuk54)
+- [Harsha Bandla] (https://github.com/HarshaCodex)
 - [Adelin Farcas]
 - [Mehul Verma](https://github.com/me-hu-l)
 - [Arth Patel](https://github.com/Arthpatel01)
