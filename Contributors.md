@@ -15,6 +15,7 @@
 - [Sonu Hansda](https://github.com/Sonu-Hansda)
 - [Mohd Tauseef Ansari](https://github.com/Mohdtsf)
 - [Emilha de Souza](https://github.com/emilha-mg)
+- [Unya David Eze](https://github.com/Davidezege)
 - [Alec Smith](https://github.com/sharktankful)
 - [Abstaina Ephraim](https://github.com/Abstaina44)
 - [Marko Cuk](https://github.com/MarkoCuk54)
