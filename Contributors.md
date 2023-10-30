@@ -40,6 +40,7 @@
 - [uluk01](https://github.com/uluk01)
 - [rochhh](https://github.com/rochhh)
 - [Janvi](https://github.com/janvi2502)
+- [Kousic](https://github.com/Kousic05)
 - [Micah Howard](https://github.com/mikeboi08)
 - [Syed Muhammad](https://github.com/syedmohammad611)
 - [Jackson Funk](https://github.com/Mqcaw)
