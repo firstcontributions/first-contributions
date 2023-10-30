@@ -58,6 +58,7 @@
 - [kyalo3](https://github.com/kyalo3)
 - [Muhammad Abdullah Mahmood](https://github.com/venomeh)
 - [Huraira Muzammal](https://github.com/hurairamuzammil)
+- [Tobias Stanislav](https://github.com/AufkleberDraufkleber)
 - [Evan Sunde](https://github.com/EvanSunde)
 - [Shryansh](https://github.com/Shryansh107)
 - [Hayden Gagnon](https://github.com/haydengagnon)
