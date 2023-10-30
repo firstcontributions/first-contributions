@@ -53,6 +53,7 @@
 - [Majd Machlouch](https://github.com/Majd2404)
 - [Paing Soe Khant](https://github.com/PaingSKhant)
 - [Anne Kubis](https://github.com/AKubisDev)
+- [kyalo3](https://github.com/kyalo3)
 - [Muhammad Abdullah Mahmood](https://github.com/venomeh)
 - [Huraira Muzammal](https://github.com/hurairamuzammil)
 - [Evan Sunde](https://github.com/EvanSunde)
