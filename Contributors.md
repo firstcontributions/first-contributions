@@ -86,6 +86,7 @@
 - [Sur](https://github.com/mazipan/hello-open-source/new/master/people)
 - [Jibril Abdulazeez](https://github.com/Jibbyie)
 - [Nandini Chatterjee](https://github.com/py-dev-nandini-12)
+- [byuddy7](https://github.com/byuddy7)
 - [Aravind Subramanian S](https://github.com/Reallyaravind)
 - [Aakash Gupta](https://github.com/aakashgg)
 - [Varad Kulkarni](https://github.com/varad-kulkarni172)
