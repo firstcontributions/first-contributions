@@ -1436,6 +1436,7 @@ JialingYU
 - [Waleed Tariq](https://www.github.com/waleed-tariq)
 - [Abhishek Shukla](https://github.com/Shuklaaa)
 - [hoeoek](https://github.com/hoeoek)
+-[Apar Tyagi](https://github.com/AparTyagi)
 - [ornob90] (https://github.com/ornob90)
 - [Ogechukwu Itunu Aina] (https://github.com/ogeitunu)
 - [Euan Turner](https://github.com/euan-turner)
