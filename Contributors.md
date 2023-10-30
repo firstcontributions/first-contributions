@@ -290,6 +290,7 @@
 - [ZikaZaki](https://github.com/ZikaZaki)
 - [Prateek Agrawal](https://github.com/Prateek194)
 - [Eaglesight02](https://github.com/Eaglesight02)
+- [Joseph Luo](https://github.com/josephluopooh)
 - [Palatip Jantawong](https://github.com/palatipjant)
 - [Víctor Cárdenas] (https://github.com/vicarb)
 - [craigdev937](https://github.com/craigdev937)
