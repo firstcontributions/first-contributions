@@ -58,6 +58,7 @@
 - [Paing Soe Khant](https://github.com/PaingSKhant)
 - [Anne Kubis](https://github.com/AKubisDev)
 - [kyalo3](https://github.com/kyalo3)
+- [Gift Amachree](https://github.com/jen67)
 - [Muhammad Abdullah Mahmood](https://github.com/venomeh)
 - [Huraira Muzammal](https://github.com/hurairamuzammil)
 - [Tobias Stanislav](https://github.com/AufkleberDraufkleber)
