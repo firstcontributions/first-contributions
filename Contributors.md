@@ -1,15 +1,16 @@
 
 # Contributors
 - [TechySavant](https://github.com/techy-savant)
+- [Adam Al Shouli](https://github.com/adamalshouli)
 - [Xiong Gu] (https://github.com/gggxxxx)
 - [Ashwin Dhangar](https://github.com/MrAshwin2142)
-- [Sivaraghavi](https://github.com/Sivaraghavi) 
-- [Ram Tyagi](https://github.com/Ram-tyagi)  
+- [Sivaraghavi](https://github.com/Sivaraghavi)
+- [Ram Tyagi](https://github.com/Ram-tyagi)
 - [DezS](https://github.com/DezS4125)
 - [Olusegun Omotunde](https://github.com/omotuno)
 - [Ramesh Giri](https://github.com/Viper2627)
 - [TemiJ](https://github.com/tehmie)
-- [Sarah Zeitler](https://github.com/ZeSa-333) 
+- [Sarah Zeitler](https://github.com/ZeSa-333)
 - [Isna Ayu Muarofah](https://github.com/isnaayu)
 - [Shann Span](https://github.com/Shannspan)
 - [Sonu Hansda](https://github.com/Sonu-Hansda)
@@ -1017,7 +1018,7 @@ aj
 - [Felipe Alves](https://github.com/felpsalvs)
 -[Nawshikha Mahato](https://github.com/nawshikha)
 -[Yashwanth Ratha Krishnan](https://github.com/this-is-yaash)
-- [Alex Chen](https://github.com/alexchen2) 
+- [Alex Chen](https://github.com/alexchen2)
 - [Joshua Lamptey](https://github.com/JoshLamptey)
 - [Richa Banerjee] (https://github.com/RichaBanerjee)
 - [Peter Faretra] (https://github.com/peterston-e)
@@ -2689,7 +2690,7 @@ Nikhil R
 - [Abhishek Padiyar](https://github.com/Abhishek19-dev)
 - [Abhishek Patel] (https://github.com/itsabhishekpatel01)
 - [Dawid Perkowski](https://github.com/DawidPerkowskiGit)
-- [Joshua Massiah] 
+- [Joshua Massiah]
 - [Anushree Singhal](https://github.com/anushreee666)
 - [Idzanaagi](https://github.com/Idzanaagi)
 - [Brenden Cheung] (https://github.com/cheungbrenden)
@@ -4140,7 +4141,7 @@ Gauresh Rathi
 - [Dominic Prince](https://github.com/drp46220)
 - [Md Faizan](https://github.com/thesuaveguy)
 - [Andrey Simanovich](https://github.com/asktosimon)
--[Kevin Merck](https://github.com/Kmerck88) 
+-[Kevin Merck](https://github.com/Kmerck88)
 - [Clint Simiyu](https://github.com/Clint171)
 - [Umer Sikander] (https://github.com/umer-450)
 -[Gideon Fummey] (https://github.com/giiiiid)
@@ -4159,4 +4160,4 @@ Gauresh Rathi
 - [Girish Nandan ](https://github.com/jngnandan)
 - [Feril Sunu] (https://github.com/ferilsunu)
 - [Mekkcyber] (https://github.com/MekkCyber)
-  
+
