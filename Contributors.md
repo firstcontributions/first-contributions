@@ -231,6 +231,7 @@
 - [Arya Hariharan](https://github.com/Arya-Hari)
 - [Sachin Ghatage](https://github.com/sachinghatage)
 - [Job Keter](https://github.com/CAPTAIN-JOB)
+- [T-jegou](https://github.com/T-jegou)
 - [Kaleb Mikiyas](https://github.com/coder-kaleb)
 - [Abhishek Jat](https://github.com/88Abhi)
 - [Sahil Patil](https://github.com/Sahil873)
