@@ -22,6 +22,7 @@
 - [Arth Patel](https://github.com/Arthpatel01)
 - [Nick Gordon](https://github.com/ngordon68)
 - [rita faretra](https://github.com/peterston-e)
+- [Temitope Bankole](https://github.com/rareprince/)
 - [Gaurav Katkade](https://github.com/gaurav-katkade)
 - [Srishty M](https://github.com/Srish-ty/)
 - [Shafa Shabudeen](https://github.com/shafa-shabudeen)
