@@ -1379,6 +1379,7 @@ JialingYU
 - [Supratik Vishnu](https://github.com/SupratikV)
 -[Shreyas S N](https://github.com/ShreyasSN)
 -[Jasteg Singh](https://github.com/JastegSingh19)
+-[Apar Tyagi](https://github.com/AparTyagi)
 -[Musa Mwangea] (https://github.com/mwangea)
 - [Ashenafi Bordea](http://github.com/asherthechamp)
 - [Gourab Bistu](https://github.com/gourabbistu/)
