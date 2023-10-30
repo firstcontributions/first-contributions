@@ -1473,6 +1473,7 @@ Stanley Nzegwu
 nathaniel
 - [Sudip Das](https://github.com/pris01)
 - [Rasmus]
+- [Arkat Kuangali] (https://github.com/kuangali13)  
 - [Ben Ngim] (https://github.com/benngim)
 - [Karthik](https://github.com/bvvvp009)
 - [Kerwin Washington] (https://github.com/kerwinWashington)
@@ -4164,4 +4165,4 @@ Gauresh Rathi
 - [Feril Sunu] (https://github.com/ferilsunu)
 - [Mekkcyber] (https://github.com/MekkCyber)
 - [Rehan Abbas] (https://github.com/Rehan1110)
-  
+
