@@ -17,6 +17,7 @@
 - [Alec Smith](https://github.com/sharktankful)
 - [Abstaina Ephraim](https://github.com/Abstaina44)
 - [Marko Cuk](https://github.com/MarkoCuk54)
+- [Mehul Verma](https://github.com/me-hu-l)
 - [Arth Patel](https://github.com/Arthpatel01)
 - [Nick Gordon](https://github.com/ngordon68)
 - [rita faretra](https://github.com/peterston-e)
