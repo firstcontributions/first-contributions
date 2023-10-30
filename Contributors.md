@@ -82,6 +82,7 @@
 - [meghaverma3110](https://github.com/meghaverma3110)
 - [Kushal Agrawal](https://github.com/kushal34712)
 - [Jeremy McCann](https://github.com/mrjrmccann)
+- [Jesse Turner](https://github.com/jesseturner21)
 - [MISΛKI](https://github.com/meriem-mounchid)
 - [Devendra Selokar](https://github.com/devendraSelokar05)
 - [Krish Gautam](https://github.com/kris248)
