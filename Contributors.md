@@ -38,6 +38,7 @@
 - [G-O Jacobsson](https://github.com/G-jacobsson)
 - [henockt](https://github.com/henockt)
 - [Sandip Mondal](https://github.com/sandip-mondal-0248)
+- [Tommi Boglia]
 - [uluk01](https://github.com/uluk01)
 - [rochhh](https://github.com/rochhh)
 - [Janvi](https://github.com/janvi2502)
