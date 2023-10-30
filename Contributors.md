@@ -417,6 +417,7 @@
 - [Timparvi](https://github.com/timparvi)
 - [Light Andy](https://github.com/LightAndy1)
 - [AgusWorld](https://github.com/AgusWorld)
+- [Juan Pablo Vanegas Moreno](https://github.com/pablovanegas)
 - [Om Varma ](https://github.com/omvarma31)
 - [Josh Kim](https://github.com/socho1)
 - [dCOMMICS](https://github.com/dCOMMICS)
@@ -4159,4 +4160,3 @@ Gauresh Rathi
 - [Girish Nandan ](https://github.com/jngnandan)
 - [Feril Sunu] (https://github.com/ferilsunu)
 - [Mekkcyber] (https://github.com/MekkCyber)
-  
