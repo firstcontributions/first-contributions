@@ -76,6 +76,7 @@
 - [Ashutosh Singh Yadav](https://github.com/ashu9335)
 - [JimsJam](https://github.com/JimsJam)
 - [BattleDevLukman](https://github.com/lukman155)
+- [ShivamSharma](https://github.com/iDK-pseudo)
 - [Debmalya Sadhukhan](https://github.com/deBmalooo)
 - [Sumit Bera](https://github.com/berasumit611)
 - [Pratik More](https://github.com/PratikMore55)
