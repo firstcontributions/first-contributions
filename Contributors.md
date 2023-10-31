@@ -32,6 +32,7 @@
 - [Shafa Shabudeen](https://github.com/shafa-shabudeen)
 - [Aimane Yousr](https://github.com/aymanysr)
 - [Sanjib Kumar Das](https://github.com/sanjib-kumar-das)
+- [Shahid Adnan Wali](https://github.com/walishahidadnan)
 - [aojiaosaiban](https://github.com/aojiaosaiban)
 - [Dez Blair](https://github.com/dezdoesit)
 - [Ritish Srivastava](https://github.com/Ritish134)
