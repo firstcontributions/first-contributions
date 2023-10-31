@@ -1,5 +1,6 @@
 
 # Contributors
+- [Minju Kim](https://github.com/whyNot077)
 - [TechySavant](https://github.com/techy-savant)
 - [Xiong Gu] (https://github.com/gggxxxx)
 - [Ashwin Dhangar](https://github.com/MrAshwin2142)
