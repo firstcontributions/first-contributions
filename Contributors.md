@@ -56,6 +56,7 @@
 - [Edivaldo Junior](https://github.com/EdiJunior88)
 - [Majd Machlouch](https://github.com/Majd2404)
 - [Paing Soe Khant](https://github.com/PaingSKhant)
+- [Takku Li](https://github.com/alvinleebluy)
 - [Anne Kubis](https://github.com/AKubisDev)
 - [kyalo3](https://github.com/kyalo3)
 - [Gift Amachree](https://github.com/jen67)
