@@ -19,6 +19,7 @@
 - [SYEDTAYYABSAGHEER](https://github.com/SYEDTAYYABSAGHEER)
 - [Sonu Hansda](https://github.com/Sonu-Hansda)
 - [Mohd Tauseef Ansari](https://github.com/Mohdtsf)
+- [Ben Ricker] (https://github.com/BenRicker)
 - [Emilha de Souza](https://github.com/emilha-mg)
 - [Unya David Eze](https://github.com/Davidezege)
 - [Alec Smith](https://github.com/sharktankful)
