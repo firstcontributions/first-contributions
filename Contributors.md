@@ -4114,6 +4114,7 @@ Akash Abraham
 - [Wan Adam]  (https://github.com/c0rdial)
 - [Daniel Flores](https://github.com/Daniel-Flores-Web)
 - [Ayush Singh](https://github.com/ayush-singh08)
+- [Guilherme Heinrichs] (https://github.com/GuiHeinrichs)
 - [Luke Nam](https://github.com/kineticstorytelling)
 - [Vineeth Nomula](https://github.com/vineethnomula)
 - [Angad Godara](https://github.com/Angad-Godara)
