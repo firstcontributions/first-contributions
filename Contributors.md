@@ -290,6 +290,7 @@
 - [kubigor](https://github.com/kubigor)
 - [alanv73]
 - [Branchtest]
+- [Hrishi Singh](https://github.com/Hrishi0115) 
 - [Ioannis Loukas](https://github.com/Blitzjunges)
 - [Karan Patel](https://github.com/karanop001018)
 - [Siddarth G](https://github.com/siddarth2810)
