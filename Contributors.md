@@ -242,6 +242,7 @@
 - [Jordan Manus](https://github.com/jordan-manus)
 - [Borrel7](https://github.com/Borrel7)
 - [Kanon11](https://github.com/Kanon11)
+- [Kanhaiya Choudhary](https://github.com/kc11381)
 - [Suresh](https://github.com/sureshp820)
 - [Arya Hariharan](https://github.com/Arya-Hari)
 - [Sachin Ghatage](https://github.com/sachinghatage)
