@@ -2,6 +2,7 @@
 # Contributors
 - [Minju Kim](https://github.com/whyNot077)
 - [TechySavant](https://github.com/techy-savant)
+- [Jason Silvis](https://github.com/JSilvis73)
 - [Xiong Gu] (https://github.com/gggxxxx)
 - [Ashwin Dhangar](https://github.com/MrAshwin2142)
 - [Sivaraghavi](https://github.com/Sivaraghavi) 
