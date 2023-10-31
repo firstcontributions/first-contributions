@@ -32,6 +32,7 @@
 - [Shafa Shabudeen](https://github.com/shafa-shabudeen)
 - [Aimane Yousr](https://github.com/aymanysr)
 - [Sanjib Kumar Das](https://github.com/sanjib-kumar-das)
+- [Shahid Adnan Wali](https://github.com/walishahidadnan)
 - [aojiaosaiban](https://github.com/aojiaosaiban)
 - [Dez Blair](https://github.com/dezdoesit)
 - [Ritish Srivastava](https://github.com/Ritish134)
@@ -225,6 +226,7 @@
 - [Saikat Sundar Das](https://github.com/Saikatssd)
 - [Upendra](https://github.com/Upendra2003)
 - [Abhiram](https://github.com/Royal-Dragon)
+- [Philippe Sendze](https://github.com/philippeSendze) 
 - [Arthur Guillerm](https://github.com/aguillerm/)
 - [Jerome](https://github.com/Royal-Dragon)
 - [Sungjun Hwang](https://github.com/sungjun1116)
@@ -1214,7 +1216,7 @@ gulshan
 - [Lauren Miller]
 - [Zackreate](https://github.com/Zackreate)
   [Divyansh Sharma]
-Stewbin
+  Stewbin
 - [Linet Oliech](https://github.com/QuincyOliech)
 - [ahwz84](https://github.com/hanweiz)
 - [Ali Imran](https://github.com/AquaticBlaze1)
@@ -4179,4 +4181,5 @@ Gauresh Rathi
 - [Mekkcyber] (https://github.com/MekkCyber)
 - [Rehan Abbas] (https://github.com/Rehan1110)
 - [ziyu] (https://github.com/zhiyuS)
+- [lbk01](https:/github.com/lbk01)
 
