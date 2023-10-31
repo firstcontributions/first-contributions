@@ -1572,6 +1572,7 @@ PRAJOT
 - [Arber Lisaj](https://github.com/arberlisaj)
 - [Marek Mazij](https://github.com/Mrk-Mzj)
 - [Vivek Vr](https://github.com/dcompanykrish)
+- [Exag](https://github.com/exag)
 - [Alice Zandra Eya](https://github.com/AliceEya)
 - [Abdullah Shahzad](https://github.com/abdullahshzd01)
 Sino Felicity Zwane
