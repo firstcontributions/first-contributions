@@ -366,6 +366,7 @@
 - [UncleRed](https://github.com/sureshp820)
 - [Shruti Dalvi](https://github.com/dalvishruti14)
 - [Gaurav Kale](https://github.com/gauravkale263)
+- [aeongie🍁🌙](https://github.com/freakyfishy-aeong)
 - [Ankoor Gorai](https://github.com/ankoorgorai)
 - [Bratajit Das](https://github.com/Bratajit-03)
 - [Subhayu Dutta](https://github.com/subhayudutta)
