@@ -19,6 +19,7 @@
 - [Alec Smith](https://github.com/sharktankful)
 - [Abstaina Ephraim](https://github.com/Abstaina44)
 - [Marko Cuk](https://github.com/MarkoCuk54)
+- [Harsha Bandla] (https://github.com/HarshaCodex)
 - [Adelin Farcas]
 - [Mehul Verma](https://github.com/me-hu-l)
 - [Arth Patel](https://github.com/Arthpatel01)
@@ -38,6 +39,8 @@
 - [mbinayak](https://github.com/mbinayak)
 - [G-O Jacobsson](https://github.com/G-jacobsson)
 - [henockt](https://github.com/henockt)
+- [piyushw0203](https://github.com/piyushw0203)
+- [Gustavo Petruzzi](https://github.com/gustavoPetruzzi)
 - [Sandip Mondal](https://github.com/sandip-mondal-0248)
 - [Tommi Boglia]
 - [uluk01](https://github.com/uluk01)
@@ -54,10 +57,13 @@
 - [Edivaldo Junior](https://github.com/EdiJunior88)
 - [Majd Machlouch](https://github.com/Majd2404)
 - [Paing Soe Khant](https://github.com/PaingSKhant)
+- [Takku Li](https://github.com/alvinleebluy)
 - [Anne Kubis](https://github.com/AKubisDev)
 - [kyalo3](https://github.com/kyalo3)
+- [Gift Amachree](https://github.com/jen67)
 - [Muhammad Abdullah Mahmood](https://github.com/venomeh)
 - [Huraira Muzammal](https://github.com/hurairamuzammil)
+- [Tobias Stanislav](https://github.com/AufkleberDraufkleber)
 - [Evan Sunde](https://github.com/EvanSunde)
 - [Shryansh](https://github.com/Shryansh107)
 - [Hayden Gagnon](https://github.com/haydengagnon)
@@ -113,6 +119,7 @@
 - [adrianlamlh](https://github.com/adrianlamlh)
 - [Pranav Kannawar](https://github.com/Hackwithpranav)
 - [Farookh](https://github.com/FarookhNITAP)
+- [Oliver Andersen](https://github.com/TjalleDev)
 -[Samuel Onyebekeh](https://github.com/SamuelOnyebekeh)
 - [Aakash Basnet](https://github.com/iamaakashbasnet)
 -[James Yun](https://github.com/JamesYcode)
@@ -171,6 +178,7 @@
 - [nitvp](https://github.com/sureshp820)
 - [Farukh](https://github.com/FarukhS52)
 - [VictorAlexisL](https://github.com/VictorAlexisL)
+- [Aayush Bahukhandi](https://github.com/AayushBahukhandi)
 - [Olaoluwa Odewale](https://github.com/Olaoluwa99)
 - [Smit Dixit](https://github.com/smit-dixit/first-contributions.git)
 - [Rohan](https://github.com/RohanReddy2003)
@@ -275,6 +283,7 @@
 - [kubigor](https://github.com/kubigor)
 - [alanv73]
 - [Branchtest]
+- [Ioannis Loukas](https://github.com/Blitzjunges)
 - [Karan Patel](https://github.com/karanop001018)
 - [Siddarth G](https://github.com/siddarth2810)
 - [Jonathan Robinson](https://github.com/Jon-Robb)
@@ -404,6 +413,7 @@
 - [Estefan Andres](https://github.com/EstefanAC)
 - [Saksham Shekher](https://github.com/OshekharO)
 - [Shyby Hamza] (https://github.com/Shybymh)
+[Artina Morgan]
 - [Sakshi Kumari](https://github.com/Sakshikumari29)
 - [Suraj Jha](https://github.com/PixeL-TryHard)
 - [Shreyash Mishra](https://github.com/Shreyash-cyber)
@@ -737,7 +747,7 @@ harshal honde
 - [Shanit Paul](https://github.com/SlicePoh)
 
 - [Kaushal_Kumar]
-
+- [KhoeLe] (https://github.com/Khoele)
 - [Pranav Tripathi] (https://github.com/mightyshibbu)
 - [Davit Natenadze](https://github.com/Natenadze)
 - [Abdul Majeed Ibrahim Mamah](https://github.com/TalosMann)
@@ -1466,6 +1476,7 @@ Stanley Nzegwu
 nathaniel
 - [Sudip Das](https://github.com/pris01)
 - [Rasmus]
+- [Arkat Kuangali] (https://github.com/kuangali13)  
 - [Ben Ngim] (https://github.com/benngim)
 - [Karthik](https://github.com/bvvvp009)
 - [Kerwin Washington] (https://github.com/kerwinWashington)
@@ -1983,6 +1994,7 @@ Sino Felicity Zwane
 - cessybranch-princess
 - doremikaelatido
 - [Franco Lu](https://github.com/franco2002lu)
+- [Alonso del Arte](https://github.com/Alonso-del-Arte)
 - [Simon Lowe](https://github.com/LoweSimon)
 - [Nashwa] (https://github.com/siddiquen)
 - [Pranay Choubey](https://github.com/CaesarMouse)
@@ -4102,6 +4114,7 @@ Akash Abraham
 - [Wan Adam]  (https://github.com/c0rdial)
 - [Daniel Flores](https://github.com/Daniel-Flores-Web)
 - [Ayush Singh](https://github.com/ayush-singh08)
+- [Guilherme Heinrichs] (https://github.com/GuiHeinrichs)
 - [Luke Nam](https://github.com/kineticstorytelling)
 - [Vineeth Nomula](https://github.com/vineethnomula)
 - [Angad Godara](https://github.com/Angad-Godara)
@@ -4141,6 +4154,7 @@ Gauresh Rathi
 - [Clint Simiyu](https://github.com/Clint171)
 - [Umer Sikander] (https://github.com/umer-450)
 -[Gideon Fummey] (https://github.com/giiiiid)
+- [Ralph Galantine] (https://github.com/ralphgalantine)
 - [Albert Tim Turansky] (https://github.com/aturansky)
 - [Srushti Rane] (https://github.com/srushti-712)
 - [John Henry Joromat](https://github.com/jhnhnryjrmt)
@@ -4156,4 +4170,4 @@ Gauresh Rathi
 - [Girish Nandan ](https://github.com/jngnandan)
 - [Feril Sunu] (https://github.com/ferilsunu)
 - [Mekkcyber] (https://github.com/MekkCyber)
-- [KhoeLe] (https://github.com/Khoele)
+- [Rehan Abbas] (https://github.com/Rehan1110)
