@@ -99,7 +99,7 @@
 - [Devendra Selokar](https://github.com/devendraSelokar05)
 - [Krish Gautam](https://github.com/kris248)
 - [Parth Dwivedi](https://github.com/Parth4git)
-- [Ojshav saxena](https://github.com/ojshav)
+- [Ojshav saxena](https://github.com/ojshav) -[Khoe Le](https://github.com/KhoeLe)
 - [Sur](https://github.com/mazipan/hello-open-source/new/master/people)
 - [Jibril Abdulazeez](https://github.com/Jibbyie)
 - [Nandini Chatterjee](https://github.com/py-dev-nandini-12)
@@ -752,7 +752,7 @@ harshal honde
 - [Deepanshu](https://github.com/creator0131)
 - [Stephanie Makori](https://github.com/Koddie-arch)
 - [Shanit Paul](https://github.com/SlicePoh)
-
+- [Khoe Le]
 - [Kaushal_Kumar]
 - [Khoe Le](https://github.com/khoele)
 - [Pranav Tripathi] (https://github.com/mightyshibbu)
