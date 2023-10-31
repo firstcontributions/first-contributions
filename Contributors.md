@@ -2,6 +2,7 @@
 
 
 - [Isna Ayu Muarofah](https://github.com/isnaayu)
+- [Andy Droid](https://github.com/andyongith)
 - [Sonu Hansda](https://github.com/Sonu-Hansda)
 - [Alec Smith](https://github.com/sharktankful)
 - [Abstaina Ephraim] (https://github.com/Abstaina44)
