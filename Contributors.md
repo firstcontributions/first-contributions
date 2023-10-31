@@ -2324,6 +2324,7 @@ Nikhil R
 - [Mrinmay Das](https://github.com/DON2604)
 - [lentucky](https://github.com/lentucky)
 - [Aditya](https://github.com/Aady7)
+- [Rafael Moura de Almeida](https://github.com/rafael2051)
 - [Vikas Parmar](https://github.com/vikas-parmar)
 - [Samy Cachon]
 - buyiweiran
