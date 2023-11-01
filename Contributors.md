@@ -1998,6 +1998,7 @@ Sino Felicity Zwane
 - [Keisuke Miura](https://github.com/behindthemac)
 - [Chaitra Shree](https://github.com/Chaitra-Shree)
 - [curlylemon](https://github.com/curlylemon)
+- [Ayush Dhanraj](https://github.com/Ayush-2001-Dhanraj)
 - [controlaltnerd](https://github.com/controlaltnerd)
 - [Nulzn](https://github.com/Nulzn)
 - [Vivekanandan](https://github.com/vivek20Eng)
