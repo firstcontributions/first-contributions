@@ -2339,6 +2339,7 @@
 - [Daagni](https://github.com/Daagni)
 - [Gonca Negis](https://github.com/goncanegis/)
 - [jungle-kai](https://github.com/jungle-kai)
+- [Aravindray!](https://github.com/Aravindray "Don't Follow me on Github, Just Kidding")
 - [Nuhaj Aziz](https://github.com/Naz1804/)
 - [Zakaullah - i192192](https://github.com/zakaullahawan)
 - [Ayush Mourya](https://github.com/ayushmourya/)
