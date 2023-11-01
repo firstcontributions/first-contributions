@@ -72,6 +72,7 @@
 - [Jackson Funk](https://github.com/Mqcaw)
 - [Muhammad Khizar](https://github.com/mkhizu21)
 - [Yassine Bouchama](https://github.com/SiskoWeb)
+- [Francine Go](https://github.com/fvgo)
 - [KapsarovL](https://github.com/KapsaorvL)
 - [Abdullah Minhas](https://github.com/minhas309)
 - [Edivaldo Junior](https://github.com/EdiJunior88)
