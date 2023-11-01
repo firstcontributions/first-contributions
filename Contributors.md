@@ -1993,6 +1993,7 @@ Sino Felicity Zwane
 - [Andy Iyer](https://github.com/aiyervenkat)
 - [formido](https://github.com/PKS-formido)
 - [Anuron Dutta](https://github.com/AnuronDutta)
+- [Jo Bartley](https://github.com/josephbartley)
 - [Joseph Lawson](https://github.com/jlaws710)
 - [Bhargav shirin Nalamati](https://github.com/bhargavshirin)
 - [Mehank](https://github.com/M3hank)
