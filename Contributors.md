@@ -7,6 +7,7 @@
 - [Wisdom Okogho](https://github.com/setgram)
 - [Minju Kim](https://github.com/whyNot077)
 - [TechySavant](https://github.com/techy-savant)
+- [Monae Curbeam](https://github.com/curbeammonae)
 - [Jason Silvis](https://github.com/JSilvis73)
 - [Karthik Rathinavel] (https://github.com/karthikrathinavel8)
 - [Xiong Gu] (https://github.com/gggxxxx)
