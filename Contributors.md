@@ -1,5 +1,6 @@
 
 # Contributors
+- [qnkoKura](https://github.com/qnko321)
 - [Ofir](https://github.com/ofir10)
 - [Shrid Mishra](https://github.com/shridmishra)
 - [Wisdom Okogho](https://github.com/setgram)
