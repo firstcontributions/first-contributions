@@ -14,6 +14,7 @@
 - [Olusegun Omotunde](https://github.com/omotuno)
 - [Ramesh Giri](https://github.com/Viper2627)
 - [TemiJ](https://github.com/tehmie)
+- [hanzayarsoe](https://github.com/hanzayarsoe)
 - [Sarah Zeitler](https://github.com/ZeSa-333) 
 - [Anmol Dhar](https://github.com/anmol-dhar)
 - [Isna Ayu Muarofah](https://github.com/isnaayu)
