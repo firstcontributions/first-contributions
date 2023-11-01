@@ -9,6 +9,7 @@
 - [Ashwin Dhangar](https://github.com/MrAshwin2142)
 - [Sivaraghavi](https://github.com/Sivaraghavi) 
 - [Ram Tyagi](https://github.com/Ram-tyagi)  
+- [Hannah Silos](https://github.com/biobechi)
 - [DezS](https://github.com/DezS4125)
 - [Olusegun Omotunde](https://github.com/omotuno)
 - [Ramesh Giri](https://github.com/Viper2627)
