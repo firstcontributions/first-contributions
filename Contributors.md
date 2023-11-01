@@ -105,6 +105,7 @@
 - [Francis Ramsden](https://github.com/RamsdenF)
 - [Rishabh](https://github.com/Rishabhsingh53)
 - [Nebil Rahmeto](https://github.com/Patrix726)
+- [Konduri Aditya](https://github.com/pavanaditya15752)
 - [Artyom Romanov](https://github.com/art3xa)
 - [Lasan Ranatunge](https://github.com/lasanseniya)
 - [meghaverma3110](https://github.com/meghaverma3110)
