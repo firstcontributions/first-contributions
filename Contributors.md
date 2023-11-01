@@ -7,6 +7,7 @@
 - [Minju Kim](https://github.com/whyNot077)
 - [TechySavant](https://github.com/techy-savant)
 - [Jason Silvis](https://github.com/JSilvis73)
+- [Karthik Rathinavel] (https://github.com/karthikrathinavel8)
 - [Xiong Gu] (https://github.com/gggxxxx)
 - [Ashwin Dhangar](https://github.com/MrAshwin2142)
 - [Elizabeth Akindele](https://github.com/elizase405)
