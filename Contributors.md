@@ -29,6 +29,7 @@
 - [Marko Cuk](https://github.com/MarkoCuk54)
 - [Harsha Bandla] (https://github.com/HarshaCodex)
 - [Adelin Farcas]
+- [Philip Yoder] (https://github.com/notfreephilly)
 - [Mehul Verma](https://github.com/me-hu-l)
 - [Arth Patel](https://github.com/Arthpatel01)
 - [Nick Gordon](https://github.com/ngordon68)
