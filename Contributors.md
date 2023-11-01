@@ -1,5 +1,6 @@
 
 # Contributors
+- [Ofir](https://github.com/ofir10)
 - [Wisdom Okogho](https://github.com/setgram)
 - [Minju Kim](https://github.com/whyNot077)
 - [TechySavant](https://github.com/techy-savant)
