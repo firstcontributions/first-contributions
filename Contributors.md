@@ -2936,6 +2936,7 @@ Nikhil R
 - [Andreas Nilsson](https://github.com/anil9)
 - [Luiz Carlos Jr.](https://github.com/lucarl07)
 - [Sanjeeban Mukhopadhyay](https://github.com/sanjeeban5644)
+- [Gustavo Souza](https://github.com/GustavoSouza123)
 - [Prasanna Rajaram](https://github.com/prasannarajaram)
 - [Monteiro H.](https://github.com/monteiroh)
 - [Choco Donut](https://github.com/chocodonut-c)
@@ -4055,7 +4056,7 @@ Akash Abraham
 - [MohammedHassani] (https://github.com/Maestro263)
 -[Chrinovic MM](https://github.com/CHRINOVIC-MM)
 - [Frank](https://github.com/Frank40790)
-- [mthomsn](https://github.com/mthomsn/mthomsn)
+- [mthomsn](https://github.com/mthomsn/mthomsn)sabe 
 - [Tanisha Agarwal](https://github.com/Agrwaltanisha)
 - [Lillyann](https://github.com/lcelisse)
 - [Richmond Nyame](https://github.com/Nyame100)
