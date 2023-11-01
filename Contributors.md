@@ -1454,6 +1454,7 @@ JialingYU
 - [Nikhil Gudur](https://github.com/nikhilgudur)
 - [Tunde Sanusi](https://github.com/tuhamworld)
 - [Fan Han](https://github.com/fan-h)
+- [samuraiu](https://github.com/samuraiu)
 - [FrenchRion](https://github.com/FrenchRuin)
 - [Nikosbatz](https://github.com/Nikosbatz)
 - [sourav kumar panda] (https://github.com/Sourav-Kumar-Panda)
