@@ -8,6 +8,7 @@
 - [Jason Silvis](https://github.com/JSilvis73)
 - [Xiong Gu] (https://github.com/gggxxxx)
 - [Ashwin Dhangar](https://github.com/MrAshwin2142)
+- [Elizabeth Akindele](https://github.com/elizase405)
 - [Sivaraghavi](https://github.com/Sivaraghavi) 
 - [Ram Tyagi](https://github.com/Ram-tyagi)  
 - [Hannah Silos](https://github.com/biobechi)
