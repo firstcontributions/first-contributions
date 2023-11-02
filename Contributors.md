@@ -72,6 +72,7 @@
 - [Tommi Boglia]
 - [uluk01](https://github.com/uluk01)
 - [Matthew Turner](https://github.com/Mjturn)
+  [Ken Jarvis](https://github.com/Devlore)
 - [rochhh](https://github.com/rochhh)
 - [Janvi](https://github.com/janvi2502)
 - [Kousic](https://github.com/Kousic05)
