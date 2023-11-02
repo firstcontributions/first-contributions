@@ -48,6 +48,7 @@
 - [Gaurav Katkade](https://github.com/gaurav-katkade)
 - [Srishty M](https://github.com/Srish-ty/)
 - [Shafa Shabudeen](https://github.com/shafa-shabudeen)
+- [Zhi Wang](https://github.com/Zhi0467)
 - [Aimane Yousr](https://github.com/aymanysr)
 - [Sanjib Kumar Das](https://github.com/sanjib-kumar-das)
 - [Shahid Adnan Wali](https://github.com/walishahidadnan)
