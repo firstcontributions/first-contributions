@@ -34,6 +34,7 @@
 - [Alec Smith](https://github.com/sharktankful)
 - [Abstaina Ephraim](https://github.com/Abstaina44)
 - [AND](https://github.com/AND-96)
+- [Guy Chenevert](https://github.com/guyc98)
 - [Yahid Basha](https://github.com/Yahid-Basha)
 - [Marko Cuk](https://github.com/MarkoCuk54)
 - [Jamiedsmith95](https://github.com/jamiedsmith95)
