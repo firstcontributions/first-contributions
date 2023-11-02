@@ -1194,8 +1194,8 @@ gulshan
 -[Bandana kumari](https://github.com/codewithana)
 - [Gabriel M]
 - [Seth] (https://github.com/pisethTang)
-- [Selena](https://github.com/lalajia)
 - [dtczelo] (https://github.com/dtczelo)
+- [Selena](https://github.com/lalajia)
 - [k-velvet-p] (https://github.com/K-velvet-P)
 - [Sarath Sasikala] (https://github.com/SarathVSasikala)
 - [Egai-Osowor] (https://github.com/egaiosowor)
