@@ -1,5 +1,6 @@
 
 # Contributors
+- [Kirtan Jain](https://github.com/kirtann)
 - [Ivank Dzulfikar](https://github.com/ivangdzulfikar/)
 - [qnkoKura](https://github.com/qnko321)
 - [Ofir](https://github.com/ofir10)
