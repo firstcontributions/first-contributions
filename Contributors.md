@@ -275,6 +275,7 @@
 - [Anne Usang](https://github.com/cloudwithanne)
 - [Franky Kyaw](https://github.com/FrankyKyaw)
 - [Vedant Kedia](https://github.com/Vedant-Kedia)
+- [Jagannath Maity](https://github.com/Jagannathmaity110)
 - [Koushik](https://github.com/Im-Koushik)
 - [DhruvChhura](https://github.com/DhruvChhura)
 - [Prashanth Chowdary](https://github.com/Mr-Prashanth-Chowdary)
