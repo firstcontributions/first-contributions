@@ -14,6 +14,7 @@
 - [TechySavant](https://github.com/techy-savant)
 - [Monae Curbeam](https://github.com/curbeammonae)
 - [Jason Silvis](https://github.com/JSilvis73)
+- [Faruk Umar] (https://github.com/farukumarx64)
 - [Afuwape Razak](https://github.com/Razaklekan113)
 - [Karthik Rathinavel] (https://github.com/karthikrathinavel8)
 - [Xiong Gu] (https://github.com/gggxxxx)
