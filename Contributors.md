@@ -155,6 +155,7 @@
 -[Mawoda Ekabua](https://github.com/mdekabs)
 -[Abubakar Habib](https://github.com/sufyanhabib)
 - [Boubacar FALL](https://github.com/boobacar)
+-[Gerardo X] (https://github.com/gerardxyy)
 -[Sonali Naik](https://github.com/Sonali-06)
 -[Alisha](https://github.com/Alisha-786)
 -[Nada Khas](https://github.com/Kukomoo)
