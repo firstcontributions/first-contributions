@@ -5,6 +5,7 @@
 - [Ofir](https://github.com/ofir10)
 - [Bhavesh Shah](https://github.com/BhaveshShah201)
 - [hzys]
+- [Shrey Jain2](https://github.com/Shrey943)
 - [Shrid Mishra](https://github.com/shridmishra)
 - [Wisdom Okogho](https://github.com/setgram)
 - [Minju Kim](https://github.com/whyNot077)
