@@ -7,6 +7,7 @@
 - [Ofir](https://github.com/ofir10)
 - [Bhavesh Shah](https://github.com/BhaveshShah201)
 - [hzys]
+- [Vishesh Walia] (https://github.com/visheshwalia)
 - [Shrey Jain2](https://github.com/Shrey943)
 - [Shrid Mishra](https://github.com/shridmishra)
 - [Wisdom Okogho](https://github.com/setgram)
