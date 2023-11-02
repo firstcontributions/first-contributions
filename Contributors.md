@@ -21,6 +21,7 @@
 - [Hannah Silos](https://github.com/biobechi)
 - [DezS](https://github.com/DezS4125)
 - [Olusegun Omotunde](https://github.com/omotuno)
+- [Shrey Jain](https://github.com/Shrey943)
 - [Ramesh Giri](https://github.com/Viper2627)
 - [TemiJ](https://github.com/tehmie)
 - [hanzayarsoe](https://github.com/hanzayarsoe)
