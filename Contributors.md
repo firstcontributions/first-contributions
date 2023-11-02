@@ -4,6 +4,7 @@
 - [qnkoKura](https://github.com/qnko321)
 - [Ofir](https://github.com/ofir10)
 - [Bhavesh Shah](https://github.com/BhaveshShah201)
+- [hzys]
 - [Shrid Mishra](https://github.com/shridmishra)
 - [Wisdom Okogho](https://github.com/setgram)
 - [Minju Kim](https://github.com/whyNot077)
