@@ -28,6 +28,7 @@
 - [Isna Ayu Muarofah](https://github.com/isnaayu)
 - [Shann Span](https://github.com/Shannspan)
 - [SYEDTAYYABSAGHEER](https://github.com/SYEDTAYYABSAGHEER)
+- [EduardoHernandezGuzman](https://github.com/EduardoHernandezGuzman)
 - [Sonu Hansda](https://github.com/Sonu-Hansda)
 - [Mohd Tauseef Ansari](https://github.com/Mohdtsf)
 - [Ben Ricker] (https://github.com/BenRicker)
