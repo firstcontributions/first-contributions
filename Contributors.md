@@ -117,6 +117,7 @@
 - [Hayden Gagnon](https://github.com/haydengagnon)
 - [Ashutosh Singh Yadav](https://github.com/ashu9335)
 - [JimsJam](https://github.com/JimsJam)
+- [Emily Hawkins](https://github.com/emilyshawkins)
 - [BattleDevLukman](https://github.com/lukman155)
 - [ShivamSharma](https://github.com/iDK-pseudo)
 - [Debmalya Sadhukhan](https://github.com/deBmalooo)
