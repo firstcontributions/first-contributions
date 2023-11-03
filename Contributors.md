@@ -53,6 +53,7 @@
 - [Harsha Bandla] (https://github.com/HarshaCodex)
 - [Adelin Farcas]
 - [Philip Yoder] (https://github.com/notfreephilly)
+- [Kashif Shakeel] (https://github.com/kashiifshakeel)
 - [Mehul Verma](https://github.com/me-hu-l)
 - [Arth Patel](https://github.com/Arthpatel01)
 - [Nick Gordon](https://github.com/ngordon68)
