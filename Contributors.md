@@ -249,6 +249,7 @@
 - [Amruth]
 - [Guillermo Alvarez Bacame] (https://github.com/gabacame)
 - [Namatirai Chibvongodze](https://github.com/Namatirai)
+- [Chimnaecherem Mba] (https://github.com/Chimnaecherem)
 - [Jim Franklin](https://github.com/jim-franklin)
 - [Agnik] (https://github.com/agnik06)
 - [Md. Abu Jafor](https://github.com/abujaforhadi)
