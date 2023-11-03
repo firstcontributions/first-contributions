@@ -1,5 +1,6 @@
 
 # Contributors
+- [Rafi Ali](https://github.com/ralichow)
 - [Nagesh Dwivedi](https://github.com/nagesh7588)
 - [Kirtan Jain](https://github.com/kirtann)
 - [Ivank Dzulfikar](https://github.com/ivangdzulfikar/)
