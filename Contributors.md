@@ -4256,6 +4256,7 @@ Gauresh Rathi
 - [Rehan Abbas] (https://github.com/Rehan1110)
 - [ziyu] (https://github.com/zhiyuS)
 - [lbk01](https:/github.com/lbk01)
+- [zhangyida](https://github.com/zhangyida-lab)
 - [Rashidamosi](https://github.com/Rashidamosi)
 - [KobiEau](https://github.com/KobiEau)
 - [cemilozdemir](https://github.com/cemilozdemir)
