@@ -10,6 +10,7 @@
 - [Bhavesh Shah](https://github.com/BhaveshShah201)
 - [hzys]
 - [Demetris Kouppas](https://github.com/Kouppas)
+- [Nikola Gedovic](https://github.com/NikolaGedovic)
 - [Vishesh Walia] (https://github.com/visheshwalia)
 - [Shrey Jain2](https://github.com/Shrey943)
 - [Shrid Mishra](https://github.com/shridmishra)
