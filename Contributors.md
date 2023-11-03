@@ -366,6 +366,7 @@
 - [Víctor Cárdenas] (https://github.com/vicarb)
 - [craigdev937](https://github.com/craigdev937)
 - [Deva2580](https://github.com/Deva2580)
+- [KindredFp](https://github.com/KindredFP)
 - [xuedaobian]
 - [Bedilia_Campbell](https://github.com/Bedilia1)
 - [Omar Khaium Chowdhury](https://github.com/omar-khaium )
@@ -800,7 +801,7 @@ harshal honde
   [Liam Bruhin](https://github.com/Duntron1000)
 - [Thomas Marconi](https://github.com/thomasmarconi)
 - [Prakash Patel](https://github.com/prakashp282@gmail.com)
-- [Myint Thway Khine](https://github.com/r1d3rzz)
+- [Myint Thway Khine](https://github.com/r1d3rzz)f
 - [Farquleet Farhat](https://github.com/fafnirLore)
 - [Deepanshu](https://github.com/creator0131)
 - [Stephanie Makori](https://github.com/Koddie-arch)
