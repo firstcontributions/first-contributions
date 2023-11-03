@@ -1,5 +1,6 @@
 
 # Contributors
+- [Héctor Figuereo](https://github.com/hector535)
 - [Rafi Ali](https://github.com/ralichow)
 - [Nagesh Dwivedi](https://github.com/nagesh7588)
 - [Kirtan Jain](https://github.com/kirtann)
