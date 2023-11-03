@@ -37,6 +37,7 @@
 - [Anmol Dhar](https://github.com/anmol-dhar)
 - [Awais Mohammad] (https://github.com/awaismohammad23)
 - [Isna Ayu Muarofah](https://github.com/isnaayu)
+- [aryanraskar](https://github.com/aryanraskar)
 - [Shann Span](https://github.com/Shannspan)
 - [SYEDTAYYABSAGHEER](https://github.com/SYEDTAYYABSAGHEER)
 - [EduardoHernandezGuzman](https://github.com/EduardoHernandezGuzman)
