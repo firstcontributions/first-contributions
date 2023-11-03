@@ -4261,4 +4261,4 @@ Gauresh Rathi
 - [KobiEau](https://github.com/KobiEau)
 - [cemilozdemir](https://github.com/cemilozdemir)
 - [siyachoudhary] (https://github.com/siyachoudhary)
-
+- [Jedidiah Favour] (https://github.com/jed212)
