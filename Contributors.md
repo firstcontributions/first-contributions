@@ -4262,5 +4262,5 @@ Gauresh Rathi
 - [KobiEau](https://github.com/KobiEau)
 - [cemilozdemir](https://github.com/cemilozdemir)
 - [siyachoudhary] (https://github.com/siyachoudhary)
-- [developertomek] (https://github.com/developertomek)
+- [developertomek](https://github.com/developertomek)
 
