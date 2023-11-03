@@ -1,5 +1,6 @@
 
 # Contributors
+- [Aliaksandr Kaptsevich](https://github.com/VeryStone69)
 - [johnnybinh](https://github.com/johnnybinh)
 - [Héctor Figuereo](https://github.com/hector535)
 - [Rafi Ali](https://github.com/ralichow)
