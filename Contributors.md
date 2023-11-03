@@ -8,6 +8,7 @@
 - [Bhavesh Shah](https://github.com/BhaveshShah201)
 - [hzys]
 - [Demetris Kouppas](https://github.com/Kouppas)
+- [Vishesh Walia] (https://github.com/visheshwalia)
 - [Shrey Jain2](https://github.com/Shrey943)
 - [Shrid Mishra](https://github.com/shridmishra)
 - [Wisdom Okogho](https://github.com/setgram)
@@ -629,6 +630,7 @@ harshal honde
 - [zh chen](https://github.com/JasonC10)
 - [Utsav Bhattarai](https://github.com/utsavbhattarai007)
 - [Ash V](https://github.com/tvermaashutosh)
+- [Sravanti Kanchi](https://github.com/sravanti2300)
 - [AgusS LupusSuperbia](https://github.com/LupusSuperbia)
 - [Niraj Kumar](https://github.com/nirju123)
 - [Abhishek Gupta](https://github.com/Abhishekgupta204)
