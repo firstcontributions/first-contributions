@@ -12,6 +12,7 @@
 - [Bhavesh Shah](https://github.com/BhaveshShah201)
 - [KeiShin](https://github.com/KaungZanHein)
 - [hzys]
+- [Collins Gichohi](https://github.com/gsnilloC)
 - [Jovan Nikolic](https://github.com/jovannikolic7)
 - [Demetris Kouppas](https://github.com/Kouppas)
 - [Nikola Gedovic](https://github.com/NikolaGedovic)
