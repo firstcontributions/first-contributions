@@ -12,6 +12,7 @@
 - [Ofir](https://github.com/ofir10)
 - [Bhavesh Shah](https://github.com/BhaveshShah201)
 - [KeiShin](https://github.com/KaungZanHein)
+- [Vishal Kalyankar](https://github.com/vk-code7)
 - [Cyber_Ghost_101](https://github.com/darkGhost3108)
 - [hzys]
 - [Collins Gichohi](https://github.com/gsnilloC)
