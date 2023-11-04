@@ -868,6 +868,7 @@ harshal honde
 - [Tim Wallace](https://github.com/tim-wallace)
 - [Fadel Diop](https://github.com/Fadel-Dev)
 - [Joseph B Heinz](https://github.com/jbh14)
+- [Paul Gillet](https://github.com/p-gillet)
 - [prajesh](https://github.com/prajeshElEvEn)
 - [Joyel Johny](https://github.com/JoyelJohny)
 - [Ashmit Srivastava](https://github.com/Ashmit-Srivastava)
