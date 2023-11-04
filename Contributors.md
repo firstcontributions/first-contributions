@@ -4045,6 +4045,7 @@ Akash Abraham
 - [jyothika](https://github.com/14jyoo)
 - [LexMac](https://github.com/LexMac011)
 - [Mayada Saeed](https://github.com/Maddily)
+- [JNDiercks] (https://github.com/JNDiercks)
 - [Aan Mary Thomas Arakal] (https://github.com/aanarakal)
 - [mufeng233](https://github.com/renyancheng)
 - [martin-minarik](https://github.com/martin-minarik)
