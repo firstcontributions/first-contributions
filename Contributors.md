@@ -55,6 +55,7 @@
 - [Mohd Tauseef Ansari](https://github.com/Mohdtsf)
 - [Ben Ricker] (https://github.com/BenRicker)
 - [Emilha de Souza](https://github.com/emilha-mg)
+- [Amarthya](https://github.com/aparvathareddy282)
 - [Unya David Eze](https://github.com/Davidezege)
 - [Alec Smith](https://github.com/sharktankful)
 - [Abstaina Ephraim](https://github.com/Abstaina44)
