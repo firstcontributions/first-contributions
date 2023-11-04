@@ -20,6 +20,7 @@
 - [Demetris Kouppas](https://github.com/Kouppas)
 - [Nikola Gedovic](https://github.com/NikolaGedovic)
 - [Vishesh Walia] (https://github.com/visheshwalia)
+- [Leandro Bordon] (https://github.com/kosekijsx)
 - [Shrey Jain2](https://github.com/Shrey943)
 - [Aryan Gupta](https://github.com/aryangupta01)
 - [Shrid Mishra](https://github.com/shridmishra)
