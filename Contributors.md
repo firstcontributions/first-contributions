@@ -2484,6 +2484,7 @@ Nikhil R
 - [Michael Seutin](https://github.com/MSeutin)
 - [Zezenta](https://github.com/Zezenta)
 - [lulusaikou](https://github.com/lulusaikou)
+- [HighCritSoldier](https://github.com/HighCritSoldier)
 - [Sawyer Nicastro](https://github.com/SawyerNic)
 - [Gaurav Bisht](https://github.com/iamgauravbisht)
 - [Praveen Y](https://github.com/yernenip)
