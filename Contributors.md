@@ -1,6 +1,7 @@
 
 # Contributors
 - [Aliaksandr Kaptsevich](https://github.com/VeryStone69)
+- [Dev Singh Kanyal](https://github.com/dev-singh-kanyal) 
 - [johnnybinh](https://github.com/johnnybinh)
 - [Héctor Figuereo](https://github.com/hector535)
 - [Rafi Ali](https://github.com/ralichow)
