@@ -40,6 +40,7 @@
 - [Sivaraghavi](https://github.com/Sivaraghavi) 
 - [Ram Tyagi](https://github.com/Ram-tyagi)  
 - [Hannah Silos](https://github.com/biobechi)
+- [Jonathan Eisenbrandt](https://github.com/IcebergLettuc3)
 - [DezS](https://github.com/DezS4125)
 - [Olusegun Omotunde](https://github.com/omotuno)
 - [Shrey Jain](https://github.com/Shrey943)
