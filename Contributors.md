@@ -2248,6 +2248,7 @@ Nikhil R
 - [Khoa Nguyen](https://github.com/AnhKhoaNG)
 - [Maxwell Kambona](https://github.com/camus60)
 - [ahmedhgabr](https://github.com/ahmedhgabr)
+- [Michael Stauber]((https://github.com/michaelstau)
 - [Niroshan Sandeepa](https://github.com/niroshansandeepa)
 - [Rudra-Garg](https://github.com/Rudra-Garg)
 - [Kshitij Varma](https://github.com/KshitijVarma21)
