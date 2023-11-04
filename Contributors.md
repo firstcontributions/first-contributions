@@ -19,6 +19,7 @@
 - [Nikola Gedovic](https://github.com/NikolaGedovic)
 - [Vishesh Walia] (https://github.com/visheshwalia)
 - [Shrey Jain2](https://github.com/Shrey943)
+- [Aryan Gupta](https://github.com/aryangupta01)
 - [Shrid Mishra](https://github.com/shridmishra)
 - [Wisdom Okogho](https://github.com/setgram)
 - [Minju Kim](https://github.com/whyNot077)
