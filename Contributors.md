@@ -34,6 +34,7 @@
 - [TechySavant](https://github.com/techy-savant)
 - [Monae Curbeam](https://github.com/curbeammonae)
 - [Oolazile](https://github.com/oolazile)
+- [Yakir Kremer](https://github.com/yakirkremer)
 - [Jason Silvis](https://github.com/JSilvis73)
 - [Faruk Umar] (https://github.com/farukumarx64)
 - [Afuwape Razak](https://github.com/Razaklekan113)
