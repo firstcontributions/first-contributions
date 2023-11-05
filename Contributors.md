@@ -497,6 +497,7 @@
 - [Shyby Hamza] (https://github.com/Shybymh)
 [Artina Morgan]
 - [Sakshi Kumari](https://github.com/Sakshikumari29)
+- [Kalyan Kanuri](https://github.com/KalyanKanuri)
 - [Sakshi Singh](https://github.com/singh-sakshi08)
 - [Suraj Jha](https://github.com/PixeL-TryHard)
 - [Shreyash Mishra](https://github.com/Shreyash-cyber)
