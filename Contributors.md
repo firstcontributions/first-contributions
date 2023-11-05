@@ -47,6 +47,7 @@
 - [Jonathan Eisenbrandt](https://github.com/IcebergLettuc3)
 - [DezS](https://github.com/DezS4125)
 - [Olusegun Omotunde](https://github.com/omotuno)
+- [Nur Farah](https://github.com/Nur-farah)
 - [Shrey Jain](https://github.com/Shrey943)
 - [Ramesh Giri](https://github.com/Viper2627)
 - [TemiJ](https://github.com/tehmie)
