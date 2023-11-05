@@ -282,6 +282,7 @@
 - [Farookh](https://github.com/FarookhNITAP)
 - [Chriscent Pingol](https://github.com/KishonShrill)
 - [Muntajir]
+- [Zubin Bhaskar](https://github.com/memickeymac03)
 - [Riley Doyle](https://github.com/rdoyle0914)
 - [Likhith K.P.] (https://github.com/likhithkp)
 - [Julian] (https://github.com/jsing134)
