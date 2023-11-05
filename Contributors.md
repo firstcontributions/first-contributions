@@ -10,6 +10,7 @@
 - [johnnybinh](https://github.com/johnnybinh)
 - [Héctor Figuereo](https://github.com/hector535)
 - [Rafi Ali](https://github.com/ralichow)
+- Sunny Tamrakar
 - [Nagesh Dwivedi](https://github.com/nagesh7588)
 - [Lilian Huang](https://github.com/Lilian4441)
 - [Kirtan Jain](https://github.com/kirtann)
