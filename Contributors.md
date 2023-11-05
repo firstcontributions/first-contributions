@@ -4278,6 +4278,7 @@ Gauresh Rathi
 - [Umer Sikander] (https://github.com/umer-450)
 -[Gideon Fummey] (https://github.com/giiiiid)
 - [Ralph Galantine] (https://github.com/ralphgalantine)
+- [Johnny Eve](https://github.com/johnnyeve)
 - [Albert Tim Turansky] (https://github.com/aturansky)
 - [Pterk96](https://github.com/Pterk96)
 - [Simon-Percy](https://github.com/Simon-Percy)
