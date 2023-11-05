@@ -13,6 +13,7 @@
 - [Nagesh Dwivedi](https://github.com/nagesh7588)
 - [Lilian Huang](https://github.com/Lilian4441)
 - [Kirtan Jain](https://github.com/kirtann)
+- [Franklin Gomez] (https://github.com/frankgomezdev)
 - [Ivank Dzulfikar](https://github.com/ivangdzulfikar/)
 - [qnkoKura](https://github.com/qnko321)
 - [Ofir](https://github.com/ofir10)
