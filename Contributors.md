@@ -1,6 +1,7 @@
 
 # Contributors
 - [Aliaksandr Kaptsevich](https://github.com/VeryStone69)
+- [CodeLikeAyush](https://github.com/CodeLikeAyush)
 - [Jitae Moon] (https://github.com/jitae-moon)
 - [Apurva Sarkar] (https://github.com/ApurvaSarkar)
 - [Adolfo Villalobos](https://github.com/AdolfoVillalobos)
