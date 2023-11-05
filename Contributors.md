@@ -1678,6 +1678,7 @@ Sino Felicity Zwane
 - [Anirudh Duggal](https://github.com/AniswagMC)
 - [Itay Saban](https://github.com/itaysaban)
 - [Adhil Khan](https://github.com/adhlllkhnn)
+- [Gilad Smith](https://github.com/SquidBits1)
 - [janrix](https://github.com/rixsum)
 - [Anirudh SJ](https://github.com/ANIRUDH-SJ)
 - [ilyas emre](https://github.com/Ilyas-Emre)
