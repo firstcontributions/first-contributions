@@ -1,6 +1,7 @@
 
 # Contributors
 - [Aliaksandr Kaptsevich](https://github.com/VeryStone69)
+- [Jitae Moon] (https://github.com/jitae-moon)
 - [Bohdan Lupyr](https://github.com/Brolupyr777)
 - [Dev Singh Kanyal](https://github.com/dev-singh-kanyal) 
 - [johnnybinh](https://github.com/johnnybinh)
