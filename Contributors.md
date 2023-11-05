@@ -2020,6 +2020,7 @@ Sino Felicity Zwane
 - [Vinay Anand Lodhi](https://github.com/VinayLodhi1712)(VinayLodhi1712)
 - [Wenricx](https://github.com/Wenricx)
 - [Mahajan Abhichek](https://github.com/abhichek20)
+- [Likhith K.P.](https://github.com/likhithkp)
 - [Agnik Bakshi](https://github.com/Agnik7)
 - [Shashank Dutt](https://github.com/shashankduttmr)
 - [Rodrigo_Souza](https://github.com/rmartinsdesouza)
