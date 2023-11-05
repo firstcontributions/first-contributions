@@ -1162,6 +1162,7 @@ gulshan
 - [Johann Braun](https://github.com/JohannBraun)
 - [Salaudeen Sodiq](https://github.com/salsod-star)
 - [Luke Strutz]
+- [Jack Wong]
 - [Denis Zhdankin](https://github.com/TenkoShim)
 - [Prince Pate](https://github.com/Princen08)
 - [Abhishek Tiwari](https://github.com/ATiwari2000)
