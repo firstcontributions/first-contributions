@@ -2378,6 +2378,7 @@ Nikhil R
 - [Campego](https://github.com/Campego)
 - [Samagra Barnwal](https://github.com/samagrabarnwal)
 - [David-S](https://github.com/Deastyn)
+- [Faizan Alam](https://github.com/Faizanalam416)
 - [Mateus Borges](https://github.com/MateusBorgesGuimaraes)
 - [Jemz](https://github.com/jmlinks)
 - [Gabriel Villaruel](https://github.com/GPVcode)
