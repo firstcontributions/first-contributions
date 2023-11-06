@@ -1157,6 +1157,7 @@ gulshan
 - [J0stinb](https://github.com/J0stinb)
 - [Taofeek Adeniyi](https://github.com/tee4tao)
 - [Jonathan Mbiya](https://github.com/JonathanMbiya)
+- [Hugh Muraya](https://github.com/hughmuraya)
 - [Pavan Kalyan](https://github.com/Pavan782)gg
 - [Rishav Kumar](https://github.com/rishavnitjsr)
 - [Arnav Kumar](https://github.com/OverRevvv)
