@@ -25,6 +25,7 @@
 - [KeiShin](https://github.com/KaungZanHein)
 - [Vishal Kalyankar](https://github.com/vk-code7)
 - [Cyber_Ghost_101](https://github.com/darkGhost3108)
+- [Gabriele Pontevolpe]
 - [hzys]
 - [Collins Gichohi](https://github.com/gsnilloC)
 - [Jovan Nikolic](https://github.com/jovannikolic7)
