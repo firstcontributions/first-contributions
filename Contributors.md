@@ -64,6 +64,7 @@
 - [Awais Mohammad] (https://github.com/awaismohammad23)
 - [Isna Ayu Muarofah](https://github.com/isnaayu)
 - [aryanraskar](https://github.com/aryanraskar)
+- [Schyerke](https://github.com/Schyerke)
 - [Shann Span](https://github.com/Shannspan)
 - [SYEDTAYYABSAGHEER](https://github.com/SYEDTAYYABSAGHEER)
 - [xpl0it3r] (https://github.com/xpl0it3r/)
