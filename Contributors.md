@@ -148,6 +148,7 @@
 - [Emily Hawkins](https://github.com/emilyshawkins)
 - [BattleDevLukman](https://github.com/lukman155)
 - [ShivamSharma](https://github.com/iDK-pseudo)
+- [Pier Lim](https://github.com/pear25)
 - [Debmalya Sadhukhan](https://github.com/deBmalooo)
 - [Chaitanya Wankhede](https://github.com/Babban33)
 - [Sumit Bera](https://github.com/berasumit611)
