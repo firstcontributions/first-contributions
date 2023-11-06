@@ -41,6 +41,7 @@
 - [Shrid Mishra](https://github.com/shridmishra)
 - [Wisdom Okogho](https://github.com/setgram)
 - [Minju Kim](https://github.com/whyNot077)
+- [Pranav Mistry](https://github.com/PranavMistry3)
 - [TechySavant](https://github.com/techy-savant)
 - [Monae Curbeam](https://github.com/curbeammonae)
 - [Oolazile](https://github.com/oolazile)
