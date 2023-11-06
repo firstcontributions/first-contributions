@@ -3210,6 +3210,7 @@ Nikhil R
 - [Debaili Madani Samy](https://github.com/samdem-ai)
 - [Piyush Dive](https://github.com/PiyushDive)
 - [Sang D](https://github.com/untilyou58)
+- [Jianguo Jin](https://github.com/geong1224)
 - [Leo Miguel](https://github.com/LeoMiguelB)
 - [Ashley-Chen](https://github.com/ashlchen)
 - [Selase Perry Zuttah](https://github.com/Mims20)
