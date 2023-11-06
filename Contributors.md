@@ -82,6 +82,7 @@
 - [Unya David Eze](https://github.com/Davidezege)
 - [Alec Smith](https://github.com/sharktankful)
 - [Abstaina Ephraim](https://github.com/Abstaina44)
+- [Abdelkrim El Ayachi](https://github.com/AbdelkrmiELAyachi)
 - [AND](https://github.com/AND-96)
 - [Elizabeth Adhiambo](https://github.com/Liz-Adhiambo)
 - [Guy Chenevert](https://github.com/guyc98)
