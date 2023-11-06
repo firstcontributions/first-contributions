@@ -8,6 +8,7 @@
 - [Jitae Moon] (https://github.com/jitae-moon)
 - [Apurva Sarkar] (https://github.com/ApurvaSarkar)
 - [Emehelu Raphael](https://github.com/rafaelpascal)
+- [Elli Hähnel](https://github.com/elli-hae)
 - [Adolfo Villalobos](https://github.com/AdolfoVillalobos)
 - [Bohdan Lupyr](https://github.com/Brolupyr777)
 - [Dev Singh Kanyal](https://github.com/dev-singh-kanyal) 
