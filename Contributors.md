@@ -41,6 +41,7 @@
 - [Monae Curbeam](https://github.com/curbeammonae)
 - [Oolazile](https://github.com/oolazile)
 - [Guido Carucci](https://github.com/guido-an)
+- [byuddy7](https://github.com/byuddy7)
 - [Jason Silvis](https://github.com/JSilvis73)
 - [Yakir Kremer](https://github.com/yakirkremer)
 - [Faruk Umar] (https://github.com/farukumarx64)
