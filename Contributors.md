@@ -1,4 +1,4 @@
-﻿
+
 # Contributors
 - [Aliaksandr Kaptsevich](https://github.com/VeryStone69)
 - [CodeLikeAyush](https://github.com/CodeLikeAyush)
@@ -41,7 +41,6 @@
 - [Monae Curbeam](https://github.com/curbeammonae)
 - [Oolazile](https://github.com/oolazile)
 - [Guido Carucci](https://github.com/guido-an)
-- [byuddy7](https://github.com/byuddy7)
 - [Jason Silvis](https://github.com/JSilvis73)
 - [Yakir Kremer](https://github.com/yakirkremer)
 - [Faruk Umar] (https://github.com/farukumarx64)
@@ -64,6 +63,7 @@
 - [Sarah Zeitler](https://github.com/ZeSa-333) 
 - [Anmol Dhar](https://github.com/anmol-dhar)
 - [Awais Mohammad] (https://github.com/awaismohammad23)
+- [byuddy7] (https://github.com/byuddy7)
 - [Isna Ayu Muarofah](https://github.com/isnaayu)
 - [aryanraskar](https://github.com/aryanraskar)
 - [Schyerke](https://github.com/Schyerke)
