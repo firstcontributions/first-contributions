@@ -17,6 +17,7 @@
 - [Rafi Ali](https://github.com/ralichow)
 - Sunny Tamrakar
 - [Adam Purcell](https://github.com/apurcell88)
+- [Colin Chaput](https://github.com/colinchaput)
 - [Nagesh Dwivedi](https://github.com/nagesh7588)
 - [Lilian Huang](https://github.com/Lilian4441)
 - [Kirtan Jain](https://github.com/kirtann)
