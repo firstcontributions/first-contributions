@@ -66,6 +66,7 @@
 - [aryanraskar](https://github.com/aryanraskar)
 - [Shann Span](https://github.com/Shannspan)
 - [SYEDTAYYABSAGHEER](https://github.com/SYEDTAYYABSAGHEER)
+- [xpl0it3r] (https://github.com/xpl0it3r/)
 - [EduardoHernandezGuzman](https://github.com/EduardoHernandezGuzman)
 - [Sonu Hansda](https://github.com/Sonu-Hansda)
 - [Mohd Tauseef Ansari](https://github.com/Mohdtsf)
