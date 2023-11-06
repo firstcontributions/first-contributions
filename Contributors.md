@@ -17,6 +17,7 @@
 - [Kirtan Jain](https://github.com/kirtann)
 - [Franklin Gomez] (https://github.com/frankgomezdev)
 - [Ivank Dzulfikar](https://github.com/ivangdzulfikar/)
+- [Ajit Kumar](https://github.com/Aji0One)
 - [qnkoKura](https://github.com/qnko321)
 - [Ofir](https://github.com/ofir10)
 - [Bhavesh Shah](https://github.com/BhaveshShah201)
