@@ -9,6 +9,7 @@
 - [Dev Singh Kanyal](https://github.com/dev-singh-kanyal) 
 - [johnnybinh](https://github.com/johnnybinh)
 - [Héctor Figuereo](https://github.com/hector535)
+- [Kaung-Myat-Kyaw](https://github.com/inhibitor255)
 - [Rafi Ali](https://github.com/ralichow)
 - Sunny Tamrakar
 - [Nagesh Dwivedi](https://github.com/nagesh7588)
