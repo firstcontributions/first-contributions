@@ -74,6 +74,7 @@
 - [Alec Smith](https://github.com/sharktankful)
 - [Abstaina Ephraim](https://github.com/Abstaina44)
 - [AND](https://github.com/AND-96)
+- [Elizabeth Adhiambo](https://github.com/Liz-Adhiambo)
 - [Guy Chenevert](https://github.com/guyc98)
 - [Yahid Basha](https://github.com/Yahid-Basha)
 - [Marko Cuk](https://github.com/MarkoCuk54)
