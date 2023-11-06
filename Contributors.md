@@ -2211,6 +2211,7 @@ Nikhil R
 - [Imad Ahmad] (https://github.com/imadahmad97)
 - [Jerico Franco](https://github.com/cout05)
 - [James Yuill](https://github.com/jamesyuill)
+- [Yael Malkin](https://github.com/123yael)
 - [Sacré MBIKU MUKWAKANI](https://github.com/Sacre-MBIKU-WAKANE)
 - [Keita Yoda](https://github.com/keitacanada)
 - [Jatin Jindal](https://github.com/vercetti322)
