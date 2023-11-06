@@ -2,6 +2,7 @@
 # Contributors
 - [Wisdom Okogho](https://github.com/setgram)
 - [Minju Kim](https://github.com/whyNot077)
+- [Pranav Mistry](https://github.com/PranavMistry3)
 - [TechySavant](https://github.com/techy-savant)
 - [Jason Silvis](https://github.com/JSilvis73)
 - [Xiong Gu] (https://github.com/gggxxxx)
