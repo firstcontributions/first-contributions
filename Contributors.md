@@ -77,6 +77,7 @@
 - [xpl0it3r] (https://github.com/xpl0it3r/)
 - [EduardoHernandezGuzman](https://github.com/EduardoHernandezGuzman)
 - [Sonu Hansda](https://github.com/Sonu-Hansda)
+- [Andrea]
 - [Mohd Tauseef Ansari](https://github.com/Mohdtsf)
 - [Ben Ricker] (https://github.com/BenRicker)
 - [Emilha de Souza](https://github.com/emilha-mg)
