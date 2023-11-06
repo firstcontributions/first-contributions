@@ -44,6 +44,7 @@
 - [Jason Silvis](https://github.com/JSilvis73)
 - [Yakir Kremer](https://github.com/yakirkremer)
 - [Faruk Umar] (https://github.com/farukumarx64)
+- [Ryan Rickerl] (https://github.com/ryanrickerl)
 - [Afuwape Razak](https://github.com/Razaklekan113)
 - [Karthik Rathinavel] (https://github.com/karthikrathinavel8)
 - [Xiong Gu] (https://github.com/gggxxxx)
