@@ -3333,6 +3333,7 @@ Akash Abraham
 - [Sirildo](https://github.com/sirildo)
 - [Pranav Shirole](https://github.com/thelegend2742069)
 - [Adam Anderson](https://github.com/developer-3)
+- [Jinto Yamanaka](https://github.com/JintoYamanaka)
 - [Khai Nguyen](https://github.com/xkhainguyen)
 - [Gulcar](https://github.com/Gulcar)
 - [Arjun M S](https://github.com/arjun-ms)
