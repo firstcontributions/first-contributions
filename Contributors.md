@@ -260,6 +260,7 @@
 -[pranat Siyal]
 - Koroviev
 - [romitp4l(ROMIT PAL)](https://github.com/romitp4l)
+- [WillowsaysWhat](https://github.com/WillowSaysWhat/WillowSaysWhat)
 - [sujallimje(SUJAL LIMJE)](https://github.com/sujallimje)
 - [Yachika9925](https://github.com/Yachika9925)
 - [MasaJnnjn](https://github.com/masa-jnnjn)
