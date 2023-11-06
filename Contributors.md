@@ -106,6 +106,7 @@
 - [Gaurav Katkade](https://github.com/gaurav-katkade)
 - [Srishty M](https://github.com/Srish-ty/)
 - [Shafa Shabudeen](https://github.com/shafa-shabudeen)
+- [Firnas Ahamed](https://github.com/firnasahmed)
 - [Zhi Wang](https://github.com/Zhi0467)
 - [Yufei Sun](https://github.com/Siwi0w0)
 - [Aimane Yousr](https://github.com/aymanysr)
