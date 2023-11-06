@@ -82,6 +82,7 @@
 - [Yahid Basha](https://github.com/Yahid-Basha)
 - [Marko Cuk](https://github.com/MarkoCuk54)
 - [Jamiedsmith95](https://github.com/jamiedsmith95)
+- [RiccardoDeGuio] (https://github.com/DeGuio-Via)
 - [Harsha Bandla] (https://github.com/HarshaCodex)
 - [Adelin Farcas]
 - [Philip Yoder] (https://github.com/notfreephilly)
