@@ -14,6 +14,7 @@
 - [Dan The Man]
 - [Jitae Moon] (https://github.com/jitae-moon)
 - [Apurva Sarkar] (https://github.com/ApurvaSarkar)
+- [Trae Zeeofor](https://github.com/traezgit)
 - [Emehelu Raphael](https://github.com/rafaelpascal)
 - [Adolfo Villalobos](https://github.com/AdolfoVillalobos)
 - [Bohdan Lupyr](https://github.com/Brolupyr777)
