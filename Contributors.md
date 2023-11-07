@@ -4250,6 +4250,7 @@ Akash Abraham
 - [Lyrics](https://github.com/aden-q)
 - [Lahari Madhusudhan](https://github.com/lahrims)
 - [szl2](https://github.com/szl2)
+- [Marcin Tatarski](https://github.com/martindocs)
 - [Muhammad-Jafri](https://github.com/Muhammad-Jafri)
 - [Shahbaz Ansari](https://github.com/shahbaz4783)
 - [Kevin Alex Nielsen] (https://github.com/kevinanielsen/)
