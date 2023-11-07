@@ -63,6 +63,7 @@
 <kbd>[<img title="Igbo (Nigeria)" alt="Igbo (Nigeria)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ng.svg" width="22">](translations/README.igb.md)</kbd>
 <kbd>[<img title="Yoruba (Nigeria)" alt="Yoruba (Nigeria)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ng.svg" width="22">](translations/README.yor.md)</kbd>
 <kbd>[<img title="Hausa (Nigeria)" alt="Hausa (Nigeria)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ng.svg" width="22">](translations/README.hau.md)</kbd>
+<kbd>[<img title="Swahili (Tanzania)" alt="Swahili (Tanzania)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/tz.svg" width="22">](translations/README.sw.md)</kbd>
 <kbd>[<img title="Latvia" alt="Latvia" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lv.svg" width="22">](translations/README.lv.md)</kbd>
 <kbd>[<img title="Suomeksi" alt="Suomeksi" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fi.svg" width="22">](translations/README.fi.md)</kbd>
 <kbd>[<img title="Беларуская мова" alt="Беларуская мова" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/by.svg" width="22">](translations/README.by.md)</kbd>
@@ -71,7 +72,6 @@
 <kbd>[<img title="Bosanski" alt="Bosanski" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ba.svg" width="22">](translations/README.bih.md)</kbd>
 <kbd>[<img title="Bosanski" alt="Bosanski" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/et.svg" width="22">](translations/README.bih.md)</kbd>
 <kbd>[<img title="Hrvatski" alt="Hrvatski" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/hr.svg" width="22">](translations/README.hr.md)</kbd>
-<kbd>[<img title="Swahili (Tanzania)" alt="Swahili (Tanzania)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/tz.svg" width="22">](translations/README.sw.md)</kbd>
 <kbd>[<img title="پښتو" alt="پښتو" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/af.svg" width="22">](translations/README.ps.md)</kbd>
 
 # Michango ya Kwanza
