@@ -3,6 +3,7 @@
 - [Prabhpreet Kaur](https://github.com/naina35)
 - [pavan cheruvupally](https://github.com/PavanCheruvupally)
 - [Biswajeet Behera](https://github.com/biswajeetbehera123)
+- [Akshay Manoj] (https://github.com/Stark-Akshay)
 - [Dhruv Kalaria] (https://github.com/dbkalaria)
 - [Aliaksandr Kaptsevich](https://github.com/VeryStone69)
 - [CodeLikeAyush](https://github.com/CodeLikeAyush)
