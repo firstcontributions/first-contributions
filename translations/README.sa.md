@@ -126,7 +126,7 @@ git push -u origin <भवतः-शाखा-नाम>
 
 स्वस्य योगदानस्य उत्सवं कुर्वन्तु तथा च [web app](https://firstcontributions.github.io/#social-share) इत्यत्र गत्वा स्वमित्रैः अनुयायिभिः सह साझां कुर्वन्तु । 
 
-यदि भवतः किमपि साहाय्यस्य आवश्यकता अस्ति वा किमपि प्रश्नं अस्ति तर्हि भवान् अस्माकं slack दलं सम्मिलितुं शक्नोति। [slack दलेन सह सम्मिलितं कुर्वन्तु](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w)। .
+यदि भवतः किमपि साहाय्यस्य आवश्यकता अस्ति वा किमपि प्रश्नं अस्ति तर्हि भवान् अस्माकं slack दलं सम्मिलितुं शक्नोति। [slack दलेन सह सम्मिलितं कुर्वन्तु](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w) । .
 
 अधुना अन्येषु परियोजनासु योगदानं दातुं भवन्तं आरभामः। वयं परियोजनानां सूचीं संकलितवन्तः येषु सुलभाः विषयाः सन्ति येषु भवान् आरभुं शक्नोति। [web app परियोजनानां सूची](https://firstcontributions.github.io/#project-list) पश्यन्तु । 
 
