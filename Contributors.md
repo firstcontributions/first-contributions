@@ -7,6 +7,7 @@
 - [Aliaksandr Kaptsevich](https://github.com/VeryStone69)
 - [CodeLikeAyush](https://github.com/CodeLikeAyush)
 - [ZWA](https://github.com/ZWA)
+- [VISHAL KUMAR](https://github.com/I-Vishal-Kumar)
 - [Jitae Moon] (https://github.com/jitae-moon)
 - [Apurva Sarkar] (https://github.com/ApurvaSarkar)
 - [Emehelu Raphael](https://github.com/rafaelpascal)
