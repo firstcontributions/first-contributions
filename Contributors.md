@@ -4239,6 +4239,7 @@ Akash Abraham
 - [Samir Mulla](https://github.com/Samir-Mulla)
 - [Jyezet](https://github.com/jyezet)
 - [Ronaldo Oliveira Costa](https://github.com/oliveira-ronaldo)
+- [Lyrics](https://github.com/aden-q)
 - [Lahari Madhusudhan](https://github.com/lahrims)
 - [szl2](https://github.com/szl2)
 - [Muhammad-Jafri](https://github.com/Muhammad-Jafri)
