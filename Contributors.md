@@ -4012,6 +4012,7 @@ Akash Abraham
 - [Ray Mercedes](https://github.com/coolrey3)
 - [DS-X1](https://github.com/DS-X1)
 - [Nilendra Singh]
+- [David]
 - [Ethan Eckert](https://github.com/eth9n-dev)
 - [John Paul Larkin](https://github.com/Fishamble)
 - [Mike Manoti Nyambega](https://github.com/manotim)
