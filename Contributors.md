@@ -133,6 +133,7 @@
 - [Tommi Boglia]
 - [Luke Campbell](https://github.com/lukec260801)
 - [uluk01](https://github.com/uluk01)
+   [Daniel Wakeley](https://github.com/TheHolyRoller)
 - [Matthew Turner](https://github.com/Mjturn)
   [Ken Jarvis](https://github.com/Devlore)
 - [rochhh](https://github.com/rochhh)
