@@ -1874,6 +1874,7 @@ Sino Felicity Zwane
 - [Anish Patel] (https://github.com/codeanis)
 - [Debamoy Datta] (https://github.com/Debamoy)
 - [Abhi Bhullar](https://github.com/userabhibhullar)
+- [Akhmedov R](https://github.com/PlungedInCode)
 - [Eli Mullan] (https://github.com/EliMullan)
 - [Charles DZADU] (https://github.com/CharlesDzadu)
 - [FjOrtega]
