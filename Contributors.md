@@ -10,6 +10,7 @@
 - [CodeLikeAyush](https://github.com/CodeLikeAyush)
 - [ZWA](https://github.com/ZWA)
 - [VISHAL KUMAR](https://github.com/I-Vishal-Kumar)
+- [MARVIN](https://github.com/Marvinjon)
 - [Dan The Man]
 - [Jitae Moon] (https://github.com/jitae-moon)
 - [Apurva Sarkar] (https://github.com/ApurvaSarkar)
