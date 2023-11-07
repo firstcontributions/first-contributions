@@ -1,4 +1,5 @@
 
+
 # Contributors
 - [pavan cheruvupally](https://github.com/PavanCheruvupally)
 - [Biswajeet Behera](https://github.com/biswajeetbehera123)
@@ -68,6 +69,7 @@
 - [Olusegun Omotunde](https://github.com/omotuno)
 - [Nur Farah](https://github.com/Nur-farah)
 - [Shrey Jain](https://github.com/Shrey943)
+- [Pedro Alberto](https://github.com/Edlavio)
 - [Ramesh Giri](https://github.com/Viper2627)
 - [TemiJ](https://github.com/tehmie)
 - [hanzayarsoe](https://github.com/hanzayarsoe)
