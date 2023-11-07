@@ -69,6 +69,7 @@
 - [Nur Farah](https://github.com/Nur-farah)
 - [Shrey Jain](https://github.com/Shrey943)
 - [Ramesh Giri](https://github.com/Viper2627)
+- [Kumar Priyanshu](https://github.com/kpriyashu2003)
 - [TemiJ](https://github.com/tehmie)
 - [hanzayarsoe](https://github.com/hanzayarsoe)
 - [Sarah Zeitler](https://github.com/ZeSa-333) 
