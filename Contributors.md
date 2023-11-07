@@ -1230,6 +1230,7 @@ gulshan
 - [alamin655](https://github.com/alamin655)
 - [Mohit Khedkar](https://github.com/mohitkhedkar)
 - [Deepanshu](https://github.com/creator0131)
+- [Emil Hafner](https://github.com/EmilHafner)
 - [nvs0108](https://github.com/nvs0108)
 - [Hamzaa Shah](https://github.com/Hamjaster)
 - [anifa zafran](https://github.com/nfzfrhn)
