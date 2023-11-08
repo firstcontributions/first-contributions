@@ -2,6 +2,7 @@
 # Contributors
 - [Clenybug](https://github.com/Clinybug)
 - [Prabhpreet Kaur](https://github.com/naina35)
+- [Pratul Muthuraja](https://github.com/pratulmuthuraja)
 - [pavan cheruvupally](https://github.com/PavanCheruvupally)
 - [Biswajeet Behera](https://github.com/biswajeetbehera123)
 - [Akshay Manoj] (https://github.com/Stark-Akshay)
@@ -4379,4 +4380,3 @@ Gauresh Rathi
 - [Indranil Karmakar](https://github.com/indranil316/)
 -[Rohith Rajendran](https://github.com/rohithraj02)
 - [xddyp](https://github.com/xddyp)
-
