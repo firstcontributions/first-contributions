@@ -69,6 +69,7 @@
 - [Ryan Rickerl] (https://github.com/ryanrickerl)
 - [Afuwape Razak](https://github.com/Razaklekan113)
 - [Karthik Rathinavel] (https://github.com/karthikrathinavel8)
+- [Federica Ardizzone](https://github.com/belligerentcrow) 
 - [Xiong Gu] (https://github.com/gggxxxx)
 - [Ashwin Dhangar](https://github.com/MrAshwin2142)
 - [Elizabeth Akindele](https://github.com/elizase405)
