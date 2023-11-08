@@ -1,5 +1,6 @@
 
 # Contributors
+- [Zane](https://github.com/Zanebla)
 - [Clenybug](https://github.com/Clinybug)
 - [Prabhpreet Kaur](https://github.com/naina35)
 - [pavan cheruvupally](https://github.com/PavanCheruvupally)
