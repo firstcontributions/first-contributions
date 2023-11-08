@@ -4293,10 +4293,9 @@ Akash Abraham
 - [Archit Kohli](https://github.com/Archit-Kohli)
 - [Rahul Vikram](https://github.com/rahulvikram)
 - [E-E-N](https://github.com/E-E-N)
--[Aayush Kakkar](https://github.com/aayushkakkar26)
--[Bglid][https://github.com/bglid]
-
--[Mwangala Kramer](https://github.com/kramer001mwangala)
+- [Aayush Kakkar](https://github.com/aayushkakkar26)
+- [Bglid][https://github.com/bglid]
+- [Mwangala Kramer](https://github.com/kramer001mwangala)
 - [bagechengzi](https://github.com/bagechengzi)
 - [Naman Kumar](https://github.com/codespace555)
 - [Barry Xu](https://github.com/BarryXu777)
@@ -4304,7 +4303,7 @@ Akash Abraham
 - [Frosmin](https://github.com/Frosmin)
 - [yiong](https://github.com/gin280)
 - [Dedphish](https://github.com/Dedphish)
--[Priyanshu Prajapati](https://github.com/PentesterPriyanshu)
+- [Priyanshu Prajapati](https://github.com/PentesterPriyanshu)
 - [Wan Adam]  (https://github.com/c0rdial)
 - [Daniel Flores](https://github.com/Daniel-Flores-Web)
 - [Ayush Singh](https://github.com/ayush-singh08)
