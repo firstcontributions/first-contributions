@@ -47,6 +47,7 @@
 - [hzys]
 - [Collins Gichohi](https://github.com/gsnilloC)
 - [Jovan Nikolic](https://github.com/jovannikolic7)
+- [Kevin Ty](github.com/Kevin-Tyy)
 - [Demetris Kouppas](https://github.com/Kouppas)
 - [Nikola Gedovic](https://github.com/NikolaGedovic)
 - [Vishesh Walia] (https://github.com/visheshwalia)
