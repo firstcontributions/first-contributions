@@ -97,6 +97,7 @@ Brent L
 - [aryanraskar](https://github.com/aryanraskar)
 - [Schyerke](https://github.com/Schyerke)
 - [Shann Span](https://github.com/Shannspan)
+- [Brijesh](https://github.com/BrijeshBurfal)
 - [SYEDTAYYABSAGHEER](https://github.com/SYEDTAYYABSAGHEER)
 - [xpl0it3r] (https://github.com/xpl0it3r/)
 - [EduardoHernandezGuzman](https://github.com/EduardoHernandezGuzman)
