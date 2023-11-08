@@ -51,6 +51,7 @@
 Brent L
 - [hzys]
 - [Collins Gichohi](https://github.com/gsnilloC)
+- [Amirmuerte](https://github.com/LionelZoc)
 - [Jovan Nikolic](https://github.com/jovannikolic7)
 - [Kevin Ty](github.com/Kevin-Tyy)
 - [Demetris Kouppas](https://github.com/Kouppas)
