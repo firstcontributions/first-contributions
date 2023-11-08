@@ -1747,6 +1747,7 @@ Sino Felicity Zwane
 - [Gilad Smith](https://github.com/SquidBits1)
 - [janrix](https://github.com/rixsum)
 - [Anirudh SJ](https://github.com/ANIRUDH-SJ)
+- [Prince Owusu](https://github.com/prince272)
 - [ilyas emre](https://github.com/Ilyas-Emre)
 - [nupoor kedare](https://github.com/nupoorkedare2002)
 - [Kushagra Anand](https://github.com/Kusha008)
