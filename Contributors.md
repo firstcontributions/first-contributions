@@ -16,6 +16,7 @@
 - [VISHAL KUMAR](https://github.com/I-Vishal-Kumar)
 - [MARVIN](https://github.com/Marvinjon)
 - [Dan The Man]
+- [Killerwattz-code] (https://github.com/Killerwattz-code)
 - [Jitae Moon] (https://github.com/jitae-moon)
 - [Apurva Sarkar] (https://github.com/ApurvaSarkar)
 - [Trae Zeeofor](https://github.com/traezgit)
