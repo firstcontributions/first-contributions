@@ -4395,4 +4395,4 @@ Gauresh Rathi
 - [Drew Rothstein](https://github.com/andrewrothstein)
 - [xddyp](https://github.com/xddyp)
 - [Julius Boakye](https://github.com/Darkbeast-glitch)
-
+- [Kieran Triggs](https://www.github.com/ktriggsdev)
