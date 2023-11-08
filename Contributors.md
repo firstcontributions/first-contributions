@@ -140,6 +140,7 @@ Brent L
 - [Shashwat Verma](https://github.com/shasvt07)
 - [Pratik Aman](https://github.com/pratikaman)
 - [mbinayak](https://github.com/mbinayak)
+- [vishakh ](https://github.com/vishakh-cs/first-contributions.git)
 - [G-O Jacobsson](https://github.com/G-jacobsson)
 - [henockt](https://github.com/henockt)
 - [eakkawat](https://github.com/eakkawat)
