@@ -1881,6 +1881,7 @@ Sino Felicity Zwane
 - [jdcantorna]
 - [Jonathan Cheng](https://github.com/joncheng-dev)
 - [Kyle Reising]
+- [Peter Darmadji](https://github.com/peterdarmadji)
 - [AlpacaTechYT](https://github.com/Lagaress)
 - [Abhishek Amber][https://github.com/amberabhi]
 - [Sreekumar Krishnan](https://github.com/SreekumarKrishnan)
