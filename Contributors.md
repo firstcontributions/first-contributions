@@ -47,6 +47,7 @@
 - [Ofir](https://github.com/ofir10)
 - [Bhavesh Shah](https://github.com/BhaveshShah201)
 - [KeiShin](https://github.com/KaungZanHein)
+- [Kyle Stewart](https://github.com/KStew8111)
 - [Vishal Kalyankar](https://github.com/vk-code7)
 - [Cyber_Ghost_101](https://github.com/darkGhost3108)
 - [Gabriele Pontevolpe]
