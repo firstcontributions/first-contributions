@@ -76,6 +76,7 @@ Brent L
 - [Monae Curbeam](https://github.com/curbeammonae)
 - [Oolazile](https://github.com/oolazile)
 - [Guido Carucci](https://github.com/guido-an)
+- [Khushi Kunwar](https://github.com/khushistar)
 - [Jason Silvis](https://github.com/JSilvis73)
 - [Yakir Kremer](https://github.com/yakirkremer)
 - [Faruk Umar] (https://github.com/farukumarx64)
