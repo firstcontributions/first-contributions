@@ -20,6 +20,7 @@
 - [HtetWaiHlyanKyaw](https://github.com/HtetWaiHlyanKyaw)
 - [Dan The Man]
 - [Sammii Espinoza](https://github.com/SammiiSam)
+- [Norhakim Shaharuddin](https://github.com/notnorhakim)
 - [Killerwattz-code] (https://github.com/Killerwattz-code)
 - [Jitae Moon] (https://github.com/jitae-moon)
 - [Apurva Sarkar] (https://github.com/ApurvaSarkar)
