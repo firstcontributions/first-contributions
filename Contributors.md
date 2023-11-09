@@ -2219,6 +2219,7 @@ Sino Felicity Zwane
 - [Orion Ford](https://github.com/onlyoneorion)
 - [Gabriel Vera](https://github.com/uhhhgabe)
 - [Tim Ngeno](https://github.com/tim-ngeno)
+- [Tejsingh Dhaosriya](https://github.com/TejsinghDhaosriya)
 - [Imran Khan](https://github.com/binary-amigo)
 - [Matej Rada](https://github.com/predyy)
 - [Sanjeev Kumar Sahoo](https://github.com/sanjeevkumar321)
