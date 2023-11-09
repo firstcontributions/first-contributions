@@ -8,6 +8,7 @@
 - [alexander bellina](https://github.com/itslikealex)
 - [Prabhpreet Kaur](https://github.com/naina35)
 - [pavan cheruvupally](https://github.com/PavanCheruvupally)
+- [Antonio Colaierà] (https://github.com/AntonioColaiera) 
 - [Mujeeb Hammed](https://github.com/Mjay202)
 - [Suryakiran Sureshkumar](https://github.com/s-suryakiran)
 - [Biswajeet Behera](https://github.com/biswajeetbehera123)
