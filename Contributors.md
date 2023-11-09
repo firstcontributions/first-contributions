@@ -39,6 +39,7 @@
 - [Nagesh Dwivedi](https://github.com/nagesh7588)
 - [Lilian Huang](https://github.com/Lilian4441)
 - [Kirtan Jain](https://github.com/kirtann)
+- [Kiet Duong](https://github.com/clearlynotbrian)
 - [Franklin Gomez] (https://github.com/frankgomezdev)
 - [Ivank Dzulfikar](https://github.com/ivangdzulfikar/)
 - [Ajit Kumar](https://github.com/Aji0One)
