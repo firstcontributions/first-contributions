@@ -4,6 +4,7 @@
 - [Awointa Akos](https://https://github.com/Awointa)
 - [Zane](https://github.com/Zanebla)
 - [Clenybug](https://github.com/Clinybug)
+- [alexander bellina](https://github.com/itslikealex)
 - [Prabhpreet Kaur](https://github.com/naina35)
 - [Suryakiran Sureshkumar](https://github.com/s-suryakiran)
 - [pavan cheruvupally](https://github.com/PavanCheruvupally)
