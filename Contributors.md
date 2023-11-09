@@ -35,6 +35,7 @@
 - [Rafi Ali](https://github.com/ralichow)
 - [Murathan Necat](https://github.com/mrthnnct)
 - [Mounik]()
+- [Kiki McArron](https://github.com/KikiMcArron)
 - Sunny Tamrakar
 - [Adam Purcell](https://github.com/apurcell88)
 - [Colin Chaput](https://github.com/colinchaput)
