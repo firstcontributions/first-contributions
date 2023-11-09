@@ -917,6 +917,7 @@ harshal honde
 - [Manucher Buicki](https://github.com/mbuicki789)
 - [Aftab Zaheer](https://github.com/aftabzaheer23)
 -[Pradyot Ranjan](https://github.com/prady0t)
+- [Tim Jing](https://github.com/timzjing)
 - [Arjun](https://github.com/arjunvtsuresh)
 - [2111518](https://github.com/2111518)
 - [Rostislav](https://github.com/RostyanYandexLyceumCheeeeck)
