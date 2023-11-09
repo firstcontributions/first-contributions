@@ -3,6 +3,7 @@
 - [ouiouibagutte](https://github.com/ouiouibagutte)
 - [Muto](https://github.com/Mutotu)
 - [Awointa Akos](https://https://github.com/Awointa)
+- [jmarti1899](https://https://github.com/jmarti1899)
 - [Zane](https://github.com/Zanebla)
 - [Clenybug](https://github.com/Clinybug)
 - [alexander bellina](https://github.com/itslikealex)
