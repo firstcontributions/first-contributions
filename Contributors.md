@@ -67,6 +67,7 @@ Brent L
 - [Demetris Kouppas](https://github.com/Kouppas)
 - [Nikola Gedovic](https://github.com/NikolaGedovic)
 - [Vishesh Walia] (https://github.com/visheshwalia)
+- [Towhidul Islam Tamjid] (https://github.com/Tamjid17)
 - [Leandro Bordon] (https://github.com/kosekijsx)
 - [Shrey Jain2](https://github.com/Shrey943)
 - [Aryan Gupta](https://github.com/aryangupta01)
