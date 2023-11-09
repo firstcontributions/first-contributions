@@ -4404,4 +4404,5 @@ Gauresh Rathi
 - [Drew Rothstein](https://github.com/andrewrothstein)
 - [xddyp](https://github.com/xddyp)
 - [Julius Boakye](https://github.com/Darkbeast-glitch)
+- [Mateusz Widawski](https://github.com/matwid03)
 
