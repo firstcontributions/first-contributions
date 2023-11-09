@@ -6,6 +6,7 @@
 - [jmarti1899](https://https://github.com/jmarti1899)
 - [Astro-bro](https://github.com/Astro-bro)
 - [Zane](https://github.com/Zanebla)
+- [Devanshi Jain] (https://github.com/devanshi-jain)
 - [Clenybug](https://github.com/Clinybug)
 - [alexander bellina](https://github.com/itslikealex)
 - [Prabhpreet Kaur](https://github.com/naina35)
