@@ -1,12 +1,14 @@
 
 # Contributors
 - [ouiouibagutte](https://github.com/ouiouibagutte)
+- [Muto](https://github.com/Mutotu)
 - [Awointa Akos](https://https://github.com/Awointa)
 - [Zane](https://github.com/Zanebla)
 - [Clenybug](https://github.com/Clinybug)
 - [alexander bellina](https://github.com/itslikealex)
 - [Prabhpreet Kaur](https://github.com/naina35)
 - [pavan cheruvupally](https://github.com/PavanCheruvupally)
+- [Antonio Colaierà] (https://github.com/AntonioColaiera) 
 - [Mujeeb Hammed](https://github.com/Mjay202)
 - [Suryakiran Sureshkumar](https://github.com/s-suryakiran)
 - [Biswajeet Behera](https://github.com/biswajeetbehera123)
@@ -1879,6 +1881,7 @@ Sino Felicity Zwane
 - [jdcantorna]
 - [Jonathan Cheng](https://github.com/joncheng-dev)
 - [Kyle Reising]
+- [Peter Darmadji](https://github.com/peterdarmadji)
 - [AlpacaTechYT](https://github.com/Lagaress)
 - [Abhishek Amber][https://github.com/amberabhi]
 - [Sreekumar Krishnan](https://github.com/SreekumarKrishnan)
@@ -2218,6 +2221,7 @@ Sino Felicity Zwane
 - [Orion Ford](https://github.com/onlyoneorion)
 - [Gabriel Vera](https://github.com/uhhhgabe)
 - [Tim Ngeno](https://github.com/tim-ngeno)
+- [Tejsingh Dhaosriya](https://github.com/TejsinghDhaosriya)
 - [Imran Khan](https://github.com/binary-amigo)
 - [Matej Rada](https://github.com/predyy)
 - [Sanjeev Kumar Sahoo](https://github.com/sanjeevkumar321)
