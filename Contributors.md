@@ -134,6 +134,7 @@ Brent L
 - [Philip Yoder] (https://github.com/notfreephilly)
 - [Kashif Shakeel] (https://github.com/kashiifshakeel)
 - [Mehul Verma](https://github.com/me-hu-l)
+- [Valerio Gunter Lamberti](https://github.com/reistence) 
 - [Arth Patel](https://github.com/Arthpatel01)
 - [Nick Gordon](https://github.com/ngordon68)
 - [rita faretra](https://github.com/peterston-e)
