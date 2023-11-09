@@ -1,6 +1,7 @@
 
 # Contributors
 - [ouiouibagutte](https://github.com/ouiouibagutte)
+- [Muto](https://github.com/Mutotu)
 - [Awointa Akos](https://https://github.com/Awointa)
 - [Zane](https://github.com/Zanebla)
 - [Clenybug](https://github.com/Clinybug)
