@@ -126,6 +126,7 @@ Brent L
 - [Emilha de Souza](https://github.com/emilha-mg)
 - [Amarthya](https://github.com/aparvathareddy282)
 - [Unya David Eze](https://github.com/Davidezege)
+- [Laura]
 - [Alec Smith](https://github.com/sharktankful)
 - [Abstaina Ephraim](https://github.com/Abstaina44)
 - [Abdelkrim El Ayachi](https://github.com/AbdelkrmiELAyachi)
