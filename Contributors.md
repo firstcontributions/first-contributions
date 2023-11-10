@@ -4407,6 +4407,7 @@ Gauresh Rathi
 - [Simon-Percy](https://github.com/Simon-Percy)
 - [Srushti Rane] (https://github.com/srushti-712)
 - [John Henry Joromat](https://github.com/jhnhnryjrmt)
+- [Jacky Sio](https://github.com/jackysioo)
 - [Helen Oridupa] (https://github.com/temlena)
 - [Akshat Yadav] (https://github.com/Akshat1202)
 - [Vinh Do] (https://github.com/VinhTDo)
