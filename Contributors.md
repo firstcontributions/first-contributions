@@ -12,6 +12,7 @@
 - [Arshad Shaik](https://github.com/Arshu200)
 - [Aditya Prakash](https://github.com/heyitsadityaa)
 - [Kendall Hope Tucker] (https://github.com/kendallhtucker)
+-[Dhana sekhar reddy](https://github.com/iamdhanasekhar)
 - [Nowroz Islam](https://github.com/nowroz)
 - [AD] (https://github.com/AbhinavD84)
 - [Mighty Odewumi](https://github.com/mighty-odewumi)
