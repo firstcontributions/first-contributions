@@ -1,6 +1,7 @@
 ﻿
 # Contributors
 - [Manu Raj Yadav](https://github.com/Manurajyadav)
+- [Casey Cronyn](https://github.com/caseycronyn)
 - [ouiouibagutte](https://github.com/ouiouibagutte)
 - [Ricky Barfield](https://github.com/flbarfield)
 - [Muto](https://github.com/Mutotu)
