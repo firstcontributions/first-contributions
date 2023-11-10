@@ -2,6 +2,7 @@
 # Contributors
 - [ouiouibagutte](https://github.com/ouiouibagutte)
 - [Muto](https://github.com/Mutotu)
+- [Zohaib](https://github.com/zohaibsaqib1)
 - [Awointa Akos](https://https://github.com/Awointa)
 - [jmarti1899](https://https://github.com/jmarti1899)
 - [Astro-bro](https://github.com/Astro-bro)
