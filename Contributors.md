@@ -1,6 +1,7 @@
 
 # Contributors
 - [ouiouibagutte](https://github.com/ouiouibagutte)
+- [Ricky Barfield](https://github.com/flbarfield)
 - [Muto](https://github.com/Mutotu)
 - [Zohaib](https://github.com/zohaibsaqib1)
 - [Awointa Akos](https://https://github.com/Awointa)
