@@ -6,6 +6,7 @@
 - [ouiouibagutte](https://github.com/ouiouibagutte)
 - [Mariam Swelam](https://github.com/mariammahmoud18)
 - [Ricky Barfield](https://github.com/flbarfield)
+- [Katie Sayers](https://github.com/saykate)
 - [Rendi Virgantara Setiawan](https://github.com/rendi12345678)
 - [Muto](https://github.com/Mutotu)
 - [Luc Nguyen](https://github.com/lnguyen14123)
