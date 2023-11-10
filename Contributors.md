@@ -2239,6 +2239,7 @@ Sino Felicity Zwane
 - [Lele Mathis](https://github.com/lele-mathis)
 - [Rajeswari Kuppusamy](https://github.com/rajeswarikuppusamy18)
 - [Jordan Fortin](https://github.com/Hazey8709)
+- [Nasley Garcia-Otero](https://github.com/ngarciaotero)
 - [Divyanshu Bansal](https://github.com/MistyDragon7)
 - [Sudhir Singh Shekhawat](https://github.com/sudhirsinghshekhawat)
 - FranciscoFB7
