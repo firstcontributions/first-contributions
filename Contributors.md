@@ -7,6 +7,7 @@
 - [Ricky Barfield](https://github.com/flbarfield)
 - [Rendi Virgantara Setiawan](https://github.com/rendi12345678)
 - [Muto](https://github.com/Mutotu)
+- [Luc Nguyen](https://github.com/lnguyen14123)
 - [Sadegh Rezaei](https://github.com/sadegh-dev)
 - [Zohaib](https://github.com/zohaibsaqib1)
 - [Jaguard2021](https://github.com/jaguard2021)
