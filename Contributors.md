@@ -17,6 +17,7 @@
 - [Antonio Colaierà] (https://github.com/AntonioColaiera) 
 - [Mujeeb Hammed](https://github.com/Mjay202)
 - [Suryakiran Sureshkumar](https://github.com/s-suryakiran)
+- [Chahat Srivastava](https://github.com/Chahat-Srivastava)
 - [Biswajeet Behera](https://github.com/biswajeetbehera123)
 - [Akshay Manoj] (https://github.com/Stark-Akshay)
 - [Dhruv Kalaria] (https://github.com/dbkalaria)
