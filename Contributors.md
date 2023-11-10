@@ -14,6 +14,7 @@
 - [Awointa Akos](https://https://github.com/Awointa)
 - [jmarti1899](https://https://github.com/jmarti1899)
 - [Chris M Ferguson](https://github.com/chrismferguson)
+- [Nails-Bohr](https://github.com/Nails-Bohr/)
 - [Astro-bro](https://github.com/Astro-bro)
 - [Zane](https://github.com/Zanebla)
 - [Devanshi Jain] (https://github.com/devanshi-jain)
