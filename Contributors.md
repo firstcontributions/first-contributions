@@ -3767,6 +3767,7 @@ Akash Abraham
 - [Shinobu KissShot](https://github.com/KIssShot-Shinobu)
 - [Kieran Brady](https://github.com/kb1107)
 - [Brittany Tinnin](https://github.com/TinninBrittany)
+- [Menard Maranan](https://github.com/menard-codes)
 - [Adam Stephens](https://github.com/stender11)
 - [S RAMANAN](https://github.com/S-Ramanan)
 - [Gu Octans](https://github.com/tjxn230)
