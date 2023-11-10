@@ -4429,4 +4429,5 @@ Gauresh Rathi
 - [xddyp](https://github.com/xddyp)
 - [Julius Boakye](https://github.com/Darkbeast-glitch)
 - [Mateusz Widawski](https://github.com/matwid03)
+- [Parth Jain](https://github.com/parthjain99)
 
