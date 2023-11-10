@@ -5,6 +5,7 @@
 - [Ricky Barfield](https://github.com/flbarfield)
 - [Muto](https://github.com/Mutotu)
 - [Zohaib](https://github.com/zohaibsaqib1)
+- [Jaguard2021](https://github.com/jaguard2021)
 - [Awointa Akos](https://https://github.com/Awointa)
 - [jmarti1899](https://https://github.com/jmarti1899)
 - [Astro-bro](https://github.com/Astro-bro)
@@ -17,6 +18,7 @@
 - [Antonio Colaierà] (https://github.com/AntonioColaiera) 
 - [Mujeeb Hammed](https://github.com/Mjay202)
 - [Suryakiran Sureshkumar](https://github.com/s-suryakiran)
+- [Chahat Srivastava](https://github.com/Chahat-Srivastava)
 - [Biswajeet Behera](https://github.com/biswajeetbehera123)
 - [Akshay Manoj] (https://github.com/Stark-Akshay)
 - [Dhruv Kalaria] (https://github.com/dbkalaria)
@@ -28,6 +30,7 @@
 - [MARVIN](https://github.com/Marvinjon)
 - [Zdravkooo](https://github.com/Zorospro)
 - [HtetWaiHlyanKyaw](https://github.com/HtetWaiHlyanKyaw)
+- [Fewtap](https://github.com/Fewtap/)
 - [Dan The Man]
 - [Sammii Espinoza](https://github.com/SammiiSam)
 - [Norhakim Shaharuddin](https://github.com/notnorhakim)
