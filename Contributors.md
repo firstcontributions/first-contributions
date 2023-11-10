@@ -4447,5 +4447,6 @@ Gauresh Rathi
 - [Julius Boakye](https://github.com/Darkbeast-glitch)
 - [Mateusz Widawski](https://github.com/matwid03)
 - [Parth Jain](https://github.com/parthjain99)
+- [Bartosz Krawczyk](https://github.com/SkuliX01)
 - [Bazigar69](https://github.com/Bazigar69)
 
