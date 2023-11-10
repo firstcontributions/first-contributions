@@ -70,6 +70,7 @@
 Brent L
 - [hzys]
 - [Collins Gichohi](https://github.com/gsnilloC)
+- [Lorenzo Donadio](https://github.com/lorenzodonadio)
 - [Amirmuerte](https://github.com/LionelZoc)
 - [Jovan Nikolic](https://github.com/jovannikolic7)
 - [Kevin Ty](github.com/Kevin-Tyy)
@@ -4434,3 +4435,4 @@ Gauresh Rathi
 - [Mateusz Widawski](https://github.com/matwid03)
 - [Parth Jain](https://github.com/parthjain99)
 - [Alessio Pelliccione] (https://github.com/alessiopelliccione)
+- [Bazigar69](https://github.com/Bazigar69)
