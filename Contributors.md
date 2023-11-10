@@ -5,6 +5,7 @@
 - [Ricky Barfield](https://github.com/flbarfield)
 - [Muto](https://github.com/Mutotu)
 - [Zohaib](https://github.com/zohaibsaqib1)
+- [Jaguard2021](https://github.com/jaguard2021)
 - [Awointa Akos](https://https://github.com/Awointa)
 - [jmarti1899](https://https://github.com/jmarti1899)
 - [Astro-bro](https://github.com/Astro-bro)
