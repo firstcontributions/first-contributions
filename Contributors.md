@@ -2453,6 +2453,7 @@ Nikhil R
 - [Lakshya Agarwal](https://github.com/lakshya6378)
 - [Chandan Sahu] (https://github.com/ChandanSahu98)
 - [Jessica Vaughn](https://github.com/jessicavaughn619)
+- [Thomas Eikhaugen](https://github.com/Eikhaugen)
 - [Rasmus Gehle](https://github.com/RasmusHMG)
 - [Alexander Konnaris](https://github.com/alexkonnaris)
 - [Abdi Jama](https://github.com/ajama21/)
