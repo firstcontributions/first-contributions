@@ -4,6 +4,7 @@
 - [Manu Raj Yadav](https://github.com/Manurajyadav)
 - [Casey Cronyn](https://github.com/caseycronyn)
 - [ouiouibagutte](https://github.com/ouiouibagutte)
+- [naturalneuralnet](https://github.com/naturalneuralnet)
 - [Mariam Swelam](https://github.com/mariammahmoud18)
 - [Ricky Barfield](https://github.com/flbarfield)
 - [Katie Sayers](https://github.com/saykate)
