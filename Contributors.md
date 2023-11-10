@@ -74,6 +74,7 @@
 - [Cyber_Ghost_101](https://github.com/darkGhost3108)
 - [Gabriele Pontevolpe]
 Brent L
+- [Leonardo Vizeu](https://github.com/leovizeu)
 - [hzys]
 - [Collins Gichohi](https://github.com/gsnilloC)
 - [Lorenzo Donadio](https://github.com/lorenzodonadio)
