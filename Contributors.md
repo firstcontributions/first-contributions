@@ -8,6 +8,7 @@
 - [Jaguard2021](https://github.com/jaguard2021)
 - [Awointa Akos](https://https://github.com/Awointa)
 - [jmarti1899](https://https://github.com/jmarti1899)
+- [Chris M Ferguson](https://github.com/chrismferguson)
 - [Astro-bro](https://github.com/Astro-bro)
 - [Zane](https://github.com/Zanebla)
 - [Devanshi Jain] (https://github.com/devanshi-jain)
