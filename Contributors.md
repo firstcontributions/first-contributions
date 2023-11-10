@@ -485,6 +485,7 @@ Brent L
 -[madhumithamuruganandAN](https://)
 -[Sur](https://github.com/sureshp820)
 -[SAKSHI AYUSHMAN](https://github.com/babitarit)
+-[JAINISH PAREKH](https://github.com/JainishParekh)
 - [apowerfulmei](https://github.com/apowerfulmei)
 - [marshal](https://github.com/Marshalcoder123422)
 - [aayush0508](https://github.com/Aayushchauhan05)
