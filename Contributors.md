@@ -1,4 +1,4 @@
-
+﻿
 # Contributors
 - [ouiouibagutte](https://github.com/ouiouibagutte)
 - [Ricky Barfield](https://github.com/flbarfield)
@@ -240,6 +240,7 @@ Brent L
 - [Krish Gautam](https://github.com/kris248)
 - [Parth Dwivedi](https://github.com/Parth4git)
 - [Ojshav saxena](https://github.com/ojshav)
+- [Andreas Leonardo] (https://github.com/Andreasleo11)
 - [Kerlis Gray](https://github.com/k3rl15)
 - [Sur](https://github.com/mazipan/hello-open-source/new/master/people)
 - [Jibril Abdulazeez](https://github.com/Jibbyie)
