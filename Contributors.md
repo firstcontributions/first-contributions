@@ -2961,6 +2961,7 @@ Nikhil R
 - [Chetan Dhongade](https://github.com/binary-ibex)
 - [Filippo Ghirardini](https://github.com/filoghira)
 - [Henry Arboladora](https://github.com/Henry-Arb)
+- [Allen Rudolph](https://github.com/upitroma)
 - [Dylan Madhani](https://github.com/dylanmad)
 - [Sherman Tay](https://github.com/ShermsRL)
 - [Roopaksh](https://github.com/Roopaksh1)
