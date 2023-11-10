@@ -4,6 +4,7 @@
 - [Manu Raj Yadav](https://github.com/Manurajyadav)
 - [Casey Cronyn](https://github.com/caseycronyn)
 - [ouiouibagutte](https://github.com/ouiouibagutte)
+- [Mariam Swelam](https://github.com/mariammahmoud18)
 - [Ricky Barfield](https://github.com/flbarfield)
 - [Rendi Virgantara Setiawan](https://github.com/rendi12345678)
 - [Muto](https://github.com/Mutotu)
