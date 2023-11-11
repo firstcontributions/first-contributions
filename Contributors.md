@@ -1998,6 +1998,7 @@ Sino Felicity Zwane
 - [umer altaf](https://github.com/Umeraltaf786)
 - [Emerenini Cynthia Ngozi](https://github.com/cindyeme)
 - Divine Ferrer
+- [Beau McDermottt](https://github.com/beau2am)
 - EsrefcanTuran
 - ttanguilig-tyrone
 - KennethBranch-Kenneth
