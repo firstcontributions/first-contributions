@@ -4478,4 +4478,4 @@ Gauresh Rathi
 - [Bartosz Krawczyk](https://github.com/SkuliX01)
 - [Bazigar69](https://github.com/Bazigar69)
 - [Claire Karsenti](https://github.com/ClaireKarsenti)
-
+- [Jhojhan Sifuentes](https://github.com/JashDev)
