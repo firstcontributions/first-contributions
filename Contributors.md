@@ -2,6 +2,7 @@
 # Contributors
 - [Sanober Sarfaraz Ahmed](https://github.com/Sanober494)
 - [Myo Min Khant](https://github.com/Myo-Min-Khant292)
+- [Shail Shah](https://github.com/shahshail2001)
 - [Manu Raj Yadav](https://github.com/Manurajyadav)
 - [Sebastian David] (https://github.com/sebs-commits)
 - [Casey Cronyn](https://github.com/caseycronyn)
