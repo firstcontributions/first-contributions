@@ -2,6 +2,7 @@
 # Contributors
 - [Myo Min Khant](https://github.com/Myo-Min-Khant292)
 - [Manu Raj Yadav](https://github.com/Manurajyadav)
+- [Sebastian David] (https://github.com/sebs-commits)
 - [Casey Cronyn](https://github.com/caseycronyn)
 - [ouiouibagutte](https://github.com/ouiouibagutte)
 - [naturalneuralnet](https://github.com/naturalneuralnet)
