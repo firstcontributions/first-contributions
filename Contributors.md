@@ -1877,6 +1877,7 @@ Sino Felicity Zwane
 - [Clara Wong](https://github.com/clarawong20)
 - [John Jomar Dimaunahan](https://github.com/DJohnJomar)
 - [Oliver Wolfson](https://github.com/owolfdev)
+- [Vivian Heggenstaller](https://github.com/Mauttism)
 - [Muhamad Firdaus Bin Mohd Razali](https://github.com/ausrazali)
 - [Yashwanth B M](https://github.com/yashwanth-gh/)
 - [Jônatas Pereira da Rocha](https://github.com/jonatasprocha)
