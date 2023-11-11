@@ -99,6 +99,7 @@ Brent L
 - [Aryan Gupta](https://github.com/aryangupta01)
 - [Shrid Mishra](https://github.com/shridmishra)
 - [Wisdom Okogho](https://github.com/setgram)
+- [Abdi Kitesa] (https://github.com/abdik-tech)
 - [Minju Kim](https://github.com/whyNot077)
 - [Pranav Mistry](https://github.com/PranavMistry3)
 - [TechySavant](https://github.com/techy-savant)
