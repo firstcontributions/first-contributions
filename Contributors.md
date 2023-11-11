@@ -19,6 +19,7 @@
 - [jmarti1899](https://https://github.com/jmarti1899)
 - [Sarkis Kovlekjian](https://github.com/kenshanta)
 - [Chris M Ferguson](https://github.com/chrismferguson)
+- [Man Mo](https://github.com/broman1234)
 - [Nails-Bohr](https://github.com/Nails-Bohr/)
 - [Astro-bro](https://github.com/Astro-bro)
 - [Zane](https://github.com/Zanebla)
