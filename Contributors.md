@@ -2294,6 +2294,7 @@ Sino Felicity Zwane
 - [Arpit Goswami](https://github.com/arpitgoswami)
 - [Christopher Semler](https://github.com/SEM7AC)
 - [Parinas]
+- [Silvia]
 - [Porti](https://github.com/PortiESP)
 - [Nikhar Behera](https://github.com/SoulNikhar)
 - [Bethel Enunwa](https://github.com/betheltoni)
