@@ -207,6 +207,7 @@ Brent L
 - [Andrew Donnelly](https://github.com/Learningtotry)
 - [Janvi](https://github.com/janvi2502)
 - [Kousic](https://github.com/Kousic05)
+- [IzsoJozsi](https://github.com/IzsoJozsi)
 - [Micah Howard](https://github.com/mikeboi08)
 - [Syed Muhammad](https://github.com/syedmohammad611)
 - [Jackson Funk](https://github.com/Mqcaw)
