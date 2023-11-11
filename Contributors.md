@@ -307,6 +307,7 @@ Brent L
 - [Ekam Bitt](https://github.com/Ekam-Bitt)
 - [Austin Burdette] (https://github.com/burd5)
 - [Vipul Varshney](https://github.com/ishant-void)
+- [Ahmed Trifa](https://github.com/Trifa01)
 - [Diego Suntaxi](https://github.com/Tubaher)
 - [Shubham Kambire](https://github.com/ShubhamKambire)
 - [Jade Vieval](https://github.com/jadevvl)
