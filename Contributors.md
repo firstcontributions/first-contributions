@@ -2759,6 +2759,7 @@ Nikhil R
 - [James Furtado](https://github.com/bfjamisse09) JBF was here :)
 - [Samrat Dutta](https://github.com/DStarRaj)
 - [Abhijit Pandey](https://github.com/ha-bhai-noob-hoon)
+- [Albert Palo](https://github.com/apalo4076)
 - [Samrat Dutta](https://github.com/thecandylane)
 - [Summer Babel](https://github.com/sumerbabel)
 - [Nils Dev] (https://github.com/nilsDev)
