@@ -235,6 +235,7 @@ Brent L
 - [Muskan](https://github.com/14-muskan)
 - [Bhagirathi Rohidas](https://github.com/BhagirathiRohidas/)
 - [Nicole Lancaster](https://github.com/nicole-lancaster/)
+- [Akshay]
 - [Arya Kulkarni](https://github.com/aryakulkarni25)
 - [Dannyswiss](https://github.com/Dannyswiss1)
 - [Abhishek H](https://github.com/mr-abhishek-h)
