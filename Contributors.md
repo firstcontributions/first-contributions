@@ -380,6 +380,7 @@ Brent L
 - [Farookh](https://github.com/FarookhNITAP)
 - [Chriscent Pingol](https://github.com/KishonShrill)
 - [Muntajir]
+- [Roger King](https://github.com/rgking)
 - [Zubin Bhaskar](https://github.com/memickeymac03)
 - [Riley Doyle](https://github.com/rdoyle0914)
 - [Likhith K.P.] (https://github.com/likhithkp)
