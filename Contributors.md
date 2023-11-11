@@ -44,6 +44,7 @@
 - [Fewtap](https://github.com/Fewtap/)
 - [Dan The Man]
 - [Sammii Espinoza](https://github.com/SammiiSam)
+- [Sai Mani Kumar Devathi]
 - [Norhakim Shaharuddin](https://github.com/notnorhakim)
 - [Killerwattz-code] (https://github.com/Killerwattz-code)
 - [Jitae Moon] (https://github.com/jitae-moon)
