@@ -2143,6 +2143,7 @@ Sino Felicity Zwane
 - [Youha Shin] (https://github.com/youha-shin)
 - [Akinsanya Joel](https://github.com/kiojoel)
 - [Rahul Baskey](https://github.com/RahulBRB)
+- [Dhextras](https://github.com/dhextras)
 - [Kierznowski] (https://github.com/Kierznowski)
 - [Vinay Anand Lodhi](https://github.com/VinayLodhi1712)(VinayLodhi1712)
 - [Wenricx](https://github.com/Wenricx)
