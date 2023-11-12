@@ -4488,6 +4488,7 @@ Gauresh Rathi
 - [Drew Rothstein](https://github.com/andrewrothstein)
 - [xddyp](https://github.com/xddyp)
 - [Julius Boakye](https://github.com/Darkbeast-glitch)
+- [Kieran Triggs](https://www.github.com/ktriggsdev)
 - [Mateusz Widawski](https://github.com/matwid03)
 - [silviuXgaming](https://github.com/silviuXgaming)
 - [Parth Jain](https://github.com/parthjain99)
