@@ -23,6 +23,7 @@
 - [Zohaib](https://github.com/zohaibsaqib1)
 - [Jaguard2021](https://github.com/jaguard2021)
 - [Prajwal_S](https://github.com/Furrylath)
+- [fclarke1](https://github.com/fclarke1)
 - [Awointa Akos](https://https://github.com/Awointa)
 - [jmarti1899](https://https://github.com/jmarti1899)
 - [Chris M Ferguson](https://github.com/chrismferguson)
