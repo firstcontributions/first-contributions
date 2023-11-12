@@ -10,6 +10,7 @@
 - [ouiouibagutte](https://github.com/ouiouibagutte)
 - [naturalneuralnet](https://github.com/naturalneuralnet)
 - [Mariam Swelam](https://github.com/mariammahmoud18)
+- [Imran Ture](https://github.com/imranture)
 - [Ricky Barfield](https://github.com/flbarfield)
 - [Ankit Goyal](https://github.com/goyalankit47)
 - [Katie Sayers](https://github.com/saykate)
