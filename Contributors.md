@@ -35,6 +35,7 @@
 - [Clenybug](https://github.com/Clinybug)
 - [alexander bellina](https://github.com/itslikealex)
 - [Prabhpreet Kaur](https://github.com/naina35)
+- [Pratul Muthuraja](https://github.com/pratulmuthuraja)
 - [pavan cheruvupally](https://github.com/PavanCheruvupally)
 - [Antonio Colaierà] (https://github.com/AntonioColaiera) 
 - [Mujeeb Hammed](https://github.com/Mjay202)
