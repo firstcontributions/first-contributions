@@ -149,6 +149,7 @@ Brent L
 - [Shann Span](https://github.com/Shannspan)
 - [Brijesh](https://github.com/BrijeshBurfal)
 - [SYEDTAYYABSAGHEER](https://github.com/SYEDTAYYABSAGHEER)
+- [Retoran Petra](https://github.com/RetoranPetra)
 - [xpl0it3r] (https://github.com/xpl0it3r/)
 - [EduardoHernandezGuzman](https://github.com/EduardoHernandezGuzman)
 - [Sonu Hansda](https://github.com/Sonu-Hansda)
