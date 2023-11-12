@@ -58,6 +58,7 @@
 - [Apurva Sarkar] (https://github.com/ApurvaSarkar)
 - [Isabelle](https://github.com/pwnedbyisa)
 - [Muhammad Rafay Irfan](https://github.com/OfficialGamer91023)
+- [Kasinaat Selvi Sukesh](https://github.com/kasinaat)
 - [Trae Zeeofor](https://github.com/traezgit)
 - [Emehelu Raphael](https://github.com/rafaelpascal)
 - [Adolfo Villalobos](https://github.com/AdolfoVillalobos)
