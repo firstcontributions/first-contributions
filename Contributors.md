@@ -4410,6 +4410,7 @@ Gauresh Rathi
 - [Tarushi Gupta](https://github.com/tarushigupta0012)
 - [Kyle Wilson](https://github.com/KWilson718)
 - [Aji Tirto](https://github.com/ajitirto)
+- [Harsh Hegishte](https://github.com/InCredH)
 - [Nat Barw](https://github.com/NatBarw)
 - [Dachuan Yang](https://github.com/ydc9988)
 - [Smaran Singh](https://github.com/SmaranSingh)
@@ -4481,4 +4482,5 @@ Gauresh Rathi
 - [Bartosz Krawczyk](https://github.com/SkuliX01)
 - [Bazigar69](https://github.com/Bazigar69)
 - [Claire Karsenti](https://github.com/ClaireKarsenti)
+
 
