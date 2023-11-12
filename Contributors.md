@@ -138,6 +138,7 @@ Brent L
 - [Olusegun Omotunde](https://github.com/omotuno)
 - [Nur Farah](https://github.com/Nur-farah)
 - [Shrey Jain](https://github.com/Shrey943)
+- [Pedro Alberto](https://github.com/Edlavio)
 - [Ramesh Giri](https://github.com/Viper2627)
 - [Kumar Priyanshu](https://github.com/kpriyashu2003)
 - [TemiJ](https://github.com/tehmie)
