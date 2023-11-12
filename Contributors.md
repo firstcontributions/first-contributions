@@ -4502,6 +4502,7 @@ Gauresh Rathi
 - [Parth Jain](https://github.com/parthjain99)
 - [Bartosz Krawczyk](https://github.com/SkuliX01)
 - [Bazigar69](https://github.com/Bazigar69)
+- [Autumn Day](https://github.com/DayAut)
 - [Claire Karsenti](https://github.com/ClaireKarsenti)
 - [Jhames Mejia](https://github.com/codingjhames)
 - [Jhojhan Sifuentes](https://github.com/JashDev)
