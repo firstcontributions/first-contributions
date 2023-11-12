@@ -4503,4 +4503,5 @@ Gauresh Rathi
 - [Bartosz Krawczyk](https://github.com/SkuliX01)
 - [Bazigar69](https://github.com/Bazigar69)
 - [Claire Karsenti](https://github.com/ClaireKarsenti)
+- [Jhames Mejia](https://github.com/codingjhames)
 - [Jhojhan Sifuentes](https://github.com/JashDev)
