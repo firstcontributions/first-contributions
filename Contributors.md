@@ -19,6 +19,7 @@
 - [Luc Nguyen](https://github.com/lnguyen14123)
 - [Onur Baran Yilmaz](https://github.com/Honuratus)
   [Sadegh Rezaei](https://github.com/sadegh-dev)
+- [Samuel Donkor](https://github.com/nanaknketsiah)
 - [Zohaib](https://github.com/zohaibsaqib1)
 - [Jaguard2021](https://github.com/jaguard2021)
 - [Prajwal_S](https://github.com/Furrylath)
