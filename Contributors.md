@@ -11,6 +11,7 @@
 - [naturalneuralnet](https://github.com/naturalneuralnet)
 - [Mariam Swelam](https://github.com/mariammahmoud18)
 - [Ricky Barfield](https://github.com/flbarfield)
+- [Ankit Goyal](https://github.com/goyalankit47)
 - [Katie Sayers](https://github.com/saykate)
 - [Rendi Virgantara Setiawan](https://github.com/rendi12345678)
 - [Muto](https://github.com/Mutotu)
