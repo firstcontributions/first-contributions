@@ -556,6 +556,7 @@ Brent L
 -[Priyansh](https://github.com/priyanshsiroya123)
 - [dogiloki] (https://github.com/dogiloki)
 - [Karthikeya Somayajula] (https://github.com/RetardRento)
+- [MothWaves](https://github.com/MothWaves)
 - [Guillermo Guillen] (https://github.com/guillermochristopher)
 - [João Victor Cosme Melo] (https://github.com/VictorCosme)
 - [Alejandro Ch](https://github.com/AlxChuc)
