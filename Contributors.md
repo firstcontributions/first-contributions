@@ -2717,6 +2717,7 @@ Nikhil R
 - [Jason Gratiot](https://github.com/jason-gratiot)
 - [Rafael Coias](https://github.com/rafaelcoias)
 - [Yiwen Tseng](https://github.com/gecko0127)
+- [dimitris1208](https://github.com/dimitris1208)
 - [Collin Stavinoha] (https://github.com/collinstavinoha)
 - [SolomonChidera](https://github.com/SolomonChidera)
 - [Ayush_Chaudhari](https://github.com/the-bokya)
