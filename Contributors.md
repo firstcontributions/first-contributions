@@ -834,6 +834,7 @@ harshal honde
 - [Jaeha Yi](https://github.com/jaehayi25)
 - [Arc](https://github.com/Arcturus22/)
 - [Obtype](https://github.com/obtype)
+- [Ahuvi Alfa](https://github.com/Ahuvi112)
 - [Deepanshu](https://github.com/creator0131)
 - Ehyripin
 - [Pabitra Pal](https://github.com/pabitra0011)
