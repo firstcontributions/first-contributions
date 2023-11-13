@@ -221,6 +221,7 @@ Brent L
 - [Matthew Turner](https://github.com/Mjturn)
   [Ken Jarvis](https://github.com/Devlore)
 - [rochhh](https://github.com/rochhh)
+- [Ester](https://github.com/EsterBlassLev)
 - [Andrew Donnelly](https://github.com/Learningtotry)
 - [Janvi](https://github.com/janvi2502)
 - [Kousic](https://github.com/Kousic05)
