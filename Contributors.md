@@ -1176,6 +1176,7 @@ aj
 - [Brian kipkoech]
 [Prashant Desale](https://github.com/PrashantDesale2004)
 - [Riley Rabelos](https://github.com/rabelosr20)
+- [Harshal Dahat](https://github.com/R04amos)
 - [James Lucky](https://github.com/is-lucky)
 - [Matthew Lewis](https://github.com/jamespeachh)
 - [Matt Clark](https://github.com/mattclark801)
