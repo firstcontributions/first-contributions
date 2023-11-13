@@ -4,6 +4,7 @@
 - [Ciberdcuk] (https://github.com/gerosantacruz)
 - [Ramyalakshmi Sundaramoorthy](https://github.com/s-ramyalakshmi)
 - [Myo Min Khant](https://github.com/Myo-Min-Khant292)
+- [Lina Sundén](https://github.com/LinaSunden)
 - [Shail Shah](https://github.com/shahshail2001)
 - [Manu Raj Yadav](https://github.com/Manurajyadav)
 - [Sebastian David] (https://github.com/sebs-commits)
