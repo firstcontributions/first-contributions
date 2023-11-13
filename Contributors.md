@@ -4515,3 +4515,4 @@ Gauresh Rathi
 - [Jhojhan Sifuentes](https://github.com/JashDev)
 - [Sho Ochiai](https://github.com/sho03)
 - [Caleb Nkunze](https://github.com/cank256)
+- [Loanito](https://github.com/Loanito)
