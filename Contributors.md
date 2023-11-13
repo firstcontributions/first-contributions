@@ -4511,3 +4511,4 @@ Gauresh Rathi
 - [Claire Karsenti](https://github.com/ClaireKarsenti)
 - [Jhames Mejia](https://github.com/codingjhames)
 - [Jhojhan Sifuentes](https://github.com/JashDev)
+- [Sho Ochiai](https://github.com/sho03)
