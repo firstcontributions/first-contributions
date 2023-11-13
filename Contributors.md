@@ -185,6 +185,7 @@ Brent L
 - [Mehul Verma](https://github.com/me-hu-l)
 - [Arth Patel](https://github.com/Arthpatel01)
 - [Nick Gordon](https://github.com/ngordon68)
+- [Jonathan Lim](https://github.com/nahtanojmil/)
 - [rita faretra](https://github.com/peterston-e)
 - [Gaurav Katkade](https://github.com/gaurav-katkade)
 - [Srishty M](https://github.com/Srish-ty/)
