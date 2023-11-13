@@ -64,6 +64,7 @@
 - [Isabelle](https://github.com/pwnedbyisa)
 - [Muhammad Rafay Irfan](https://github.com/OfficialGamer91023)
 - [Kasinaat Selvi Sukesh](https://github.com/kasinaat)
+- [Joyal JIjo] (https://github.com/joyal-jij0)
 - [Trae Zeeofor](https://github.com/traezgit)
 - [Emehelu Raphael](https://github.com/rafaelpascal)
 - [Adolfo Villalobos](https://github.com/AdolfoVillalobos)
