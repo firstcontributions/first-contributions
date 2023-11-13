@@ -1,6 +1,7 @@
 ﻿
 # Contributors
-- [Sanober Sarfaraz Ahmed](https://github.com/Sanober494)
+- [Sanober Sarfaraz Ahmed](https://github.com/Sanober494u)
+- [Ciberdcuk] (https://github.com/gerosantacruz)
 - [Ramyalakshmi Sundaramoorthy](https://github.com/s-ramyalakshmi)
 - [Myo Min Khant](https://github.com/Myo-Min-Khant292)
 - [Shail Shah](https://github.com/shahshail2001)
