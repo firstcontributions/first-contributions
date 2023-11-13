@@ -40,6 +40,7 @@
 - [Astro-bro](https://github.com/Astro-bro)
 - [Zane](https://github.com/Zanebla)
 - [Devanshi Jain] (https://github.com/devanshi-jain)
+- [Darrell Roberts] (https://github.com/DarrellRoberts)
 - [Clenybug](https://github.com/Clinybug)
 - [alexander bellina](https://github.com/itslikealex)
 - [Prabhpreet Kaur](https://github.com/naina35)
