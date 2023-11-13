@@ -106,6 +106,7 @@ Brent L
 - [Collins Gichohi](https://github.com/gsnilloC)
 - [Lorenzo Donadio](https://github.com/lorenzodonadio)
 - [Amirmuerte](https://github.com/LionelZoc)
+- [Moscarde](https://github.com/Moscarde)
 - [Jovan Nikolic](https://github.com/jovannikolic7)
 - [Kevin Ty](github.com/Kevin-Tyy)
 - [Demetris Kouppas](https://github.com/Kouppas)
