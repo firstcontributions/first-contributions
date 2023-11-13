@@ -1,5 +1,6 @@
 ﻿
 # Contributors
+- [Hridi610](https://github.com/Hridi610)
 - [Sanober Sarfaraz Ahmed](https://github.com/Sanober494)
 - [Ramyalakshmi Sundaramoorthy](https://github.com/s-ramyalakshmi)
 - [Myo Min Khant](https://github.com/Myo-Min-Khant292)
