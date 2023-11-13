@@ -870,6 +870,7 @@ harshal honde
 - [elijah mutune](https://github.com/ElijahMutune)
 - [Ali Wahaj](https://github.com/WahajA)
 -[Samuel Ibrahim](https://github.com/bowadao)
+- [smar]
 - [Humaid Ashraf](https://github.com/oldSheldon)
 - [Muhammad Rizwan](https://github.com/)
 - [Ahmad Hamdan](https://github.com/Hamdanl8)
