@@ -1,9 +1,12 @@
 ﻿
 # Contributors
 - [Sanober Sarfaraz Ahmed](https://github.com/Sanober494)
-- - [Asif khan](https://github.com/asifdecoder)
+- [Asif khan](https://github.com/asifdecoder)
+- [Sanober Sarfaraz Ahmed](https://github.com/Sanober494u)
+- [Ciberdcuk] (https://github.com/gerosantacruz
 - [Ramyalakshmi Sundaramoorthy](https://github.com/s-ramyalakshmi)
 - [Myo Min Khant](https://github.com/Myo-Min-Khant292)
+- [Lina Sundén](https://github.com/LinaSunden)
 - [Shail Shah](https://github.com/shahshail2001)
 - [Manu Raj Yadav](https://github.com/Manurajyadav)
 - [Sebastian David] (https://github.com/sebs-commits)
@@ -15,6 +18,7 @@
 - [Ricky Barfield](https://github.com/flbarfield)
 - [Ankit Goyal](https://github.com/goyalankit47)
 - [Katie Sayers](https://github.com/saykate)
+- [Andreea L](https://github.com/andreeaThePenguin)
 - [Rendi Virgantara Setiawan](https://github.com/rendi12345678)
 - [Muto](https://github.com/Mutotu)
 - [Karlsberg62](https://github.com/Karlsberg62)
@@ -4513,3 +4517,5 @@ Gauresh Rathi
 - [Jhames Mejia](https://github.com/codingjhames)
 - [Jhojhan Sifuentes](https://github.com/JashDev)
 - [Sho Ochiai](https://github.com/sho03)
+- [Caleb Nkunze](https://github.com/cank256)
+- [Loanito](https://github.com/Loanito)
