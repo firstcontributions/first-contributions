@@ -1,9 +1,13 @@
 ﻿
 # Contributors
+
 - [Hridi610](https://github.com/Hridi610)
 - [Sanober Sarfaraz Ahmed](https://github.com/Sanober494)
+- [Sanober Sarfaraz Ahmed](https://github.com/Sanober494u)
+- [Ciberdcuk] (https://github.com/gerosantacruz)
 - [Ramyalakshmi Sundaramoorthy](https://github.com/s-ramyalakshmi)
 - [Myo Min Khant](https://github.com/Myo-Min-Khant292)
+- [Lina Sundén](https://github.com/LinaSunden)
 - [Shail Shah](https://github.com/shahshail2001)
 - [Manu Raj Yadav](https://github.com/Manurajyadav)
 - [Sebastian David] (https://github.com/sebs-commits)
@@ -15,6 +19,7 @@
 - [Ricky Barfield](https://github.com/flbarfield)
 - [Ankit Goyal](https://github.com/goyalankit47)
 - [Katie Sayers](https://github.com/saykate)
+- [Andreea L](https://github.com/andreeaThePenguin)
 - [Rendi Virgantara Setiawan](https://github.com/rendi12345678)
 - [Muto](https://github.com/Mutotu)
 - [Karlsberg62](https://github.com/Karlsberg62)
@@ -186,6 +191,7 @@ Brent L
 - [Mehul Verma](https://github.com/me-hu-l)
 - [Arth Patel](https://github.com/Arthpatel01)
 - [Nick Gordon](https://github.com/ngordon68)
+- [Jonathan Lim](https://github.com/nahtanojmil/)
 - [rita faretra](https://github.com/peterston-e)
 - [Gaurav Katkade](https://github.com/gaurav-katkade)
 - [Srishty M](https://github.com/Srish-ty/)
@@ -4511,3 +4517,6 @@ Gauresh Rathi
 - [Claire Karsenti](https://github.com/ClaireKarsenti)
 - [Jhames Mejia](https://github.com/codingjhames)
 - [Jhojhan Sifuentes](https://github.com/JashDev)
+- [Sho Ochiai](https://github.com/sho03)
+- [Caleb Nkunze](https://github.com/cank256)
+- [Loanito](https://github.com/Loanito)
