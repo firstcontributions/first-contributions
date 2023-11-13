@@ -10,7 +10,6 @@
 - [Sebastian David] (https://github.com/sebs-commits)
 - [Casey Cronyn](https://github.com/caseycronyn)
 - [ouiouibagutte](https://github.com/ouiouibagutte)
-- [TAMAR T]
 - [naturalneuralnet](https://github.com/naturalneuralnet)
 - [Mariam Swelam](https://github.com/mariammahmoud18)
 - [Imran Ture](https://github.com/imranture)
@@ -458,6 +457,7 @@ Brent L
 - [Vanessa Kasei](https://github.com/VanessaKasei)
 -[karan arora](https://github.com/karan7864)
 - [Ram Tyagi](https://github.com/Ram-tyagi)
+- [TAMAR T]
 -[Su](https://github.com/sureshp820)
 - [Prateek Narsinghani](https://github.com/prateek-narsinghani)
 - eifhijef
