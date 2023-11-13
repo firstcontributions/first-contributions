@@ -4528,3 +4528,4 @@ Gauresh Rathi
 - [Loanito](https://github.com/Loanito)
 - [TamarHeisler](https://github.com/tamarheisler)
 - [Mardonio Rodrigues](https://github.com/MardonioEng)
+- [Chi Feng](https://github.com/CFbots)
