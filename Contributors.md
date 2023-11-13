@@ -10,6 +10,7 @@
 - [Sebastian David] (https://github.com/sebs-commits)
 - [Casey Cronyn](https://github.com/caseycronyn)
 - [ouiouibagutte](https://github.com/ouiouibagutte)
+- [TAMAR...]
 - [naturalneuralnet](https://github.com/naturalneuralnet)
 - [Mariam Swelam](https://github.com/mariammahmoud18)
 - [Imran Ture](https://github.com/imranture)
