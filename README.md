@@ -162,20 +162,20 @@ replacing `your-name` with your name.
 <img style="float: right;" src="https://github.com/firstcontributions/first-contributions/assets/104461330/901fad49-5ce8-4868-be73-9688542b3c50" alt="create a pull request" />
 
 - ### Author identity unknown (commit) Error
-     <pre>Author identity unknown
-
+ <pre>Author identity unknown
 *** Please tell me who you are.
-
+      
 Run
-
+      
   git config --global user.email "you@example.com"
   git config --global user.name "Your Name"
-
+      
 to set your account's default identity.
+      
 Omit --global to set the identity only in this repository.
-
-fatal: unable to auto-detect email address (got '*******.(none)</pre>
-  Go to [Stackoverflow Solution](https://stackoverflow.com/questions/29685337/git-commit-author-doesnt-work-when-global-not-set) on generating and configuring an SSH key to your account.
+      
+fatal: unable to auto-detect email address (got '*******.(none)) </pre>
+  Go to [Stackoverflow Solution](https://stackoverflow.com/questions/29685337/git-commit-author-doesnt-work-when-global-not-set) to find the solution this error.
 </details>
 
 ## Push changes to GitHub
