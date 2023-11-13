@@ -1452,6 +1452,7 @@ gulshan
 - [Nivedita Chatterjee](https://github.com/Nivedita021)
 - [Vikalp Sharma](https://github.com/Paper-Bag-dev)
 - [shanmukh sai](https://github.com/shanmukh-sai2003)
+- [Harish Iyer](https://github.com/hiyers)
 - [Lauren Miller]
 - [Zackreate](https://github.com/Zackreate)
   [Divyansh Sharma]
