@@ -4501,6 +4501,7 @@ Gauresh Rathi
 - [silviuXgaming](https://github.com/silviuXgaming)
 - [Parth Jain](https://github.com/parthjain99)
 - [Bartosz Krawczyk](https://github.com/SkuliX01)
+- [Chiamaka Etchie](https://github.com/jetchie)
 - [Bazigar69](https://github.com/Bazigar69)
 - [Autumn Day](https://github.com/DayAut)
 - [Claire Karsenti](https://github.com/ClaireKarsenti)
