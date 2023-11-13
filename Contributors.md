@@ -2,6 +2,7 @@
 # Contributors
 - [Noya David](https://github.com/Sanober494u)
 - [Sanober Sarfaraz Ahmed](https://github.com/Sanober494u)
+- [Devora Ger](https://github.com/Devora-Ger)
 - [Ciberdcuk] (https://github.com/gerosantacruz)
 - [Ramyalakshmi Sundaramoorthy](https://github.com/s-ramyalakshmi)
 - [Myo Min Khant](https://github.com/Myo-Min-Khant292)
