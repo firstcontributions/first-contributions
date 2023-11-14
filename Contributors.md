@@ -1997,6 +1997,7 @@ Sino Felicity Zwane
 - [Dessamine Almuete](https://github.com/dalmuete)
 - [Jyra Villanueva](https://github.com/Jyra-Villanueva)
 - [Lance Jericho Salcedo](https://github.com/jausalcedo)
+- [Carlos Tocino Cubelo](https://github.com/sharlibeicon)
 - [Madhur Aggarwal](https://github.com/MadhurAggarwal)
 - [Sumedh Bhat](https://github.com/SumedhBhat)
 - [Bhavini Rathod] (https://github.com/rb2001)
