@@ -997,6 +997,7 @@
 - [Ali Ahmed](https://github.com/Ali-Yare)
 - [Poonam Joshi](https://github.com/mail2poonam89)
 - [Siddhant](https://github.com/SiddJ01)
+- [Saidi Hamisi](https://github.com/saidmtanzania)
 - [Kostiantyn Perun](https://github.com/Perun108)
 - [Erika Delfino](https://github.com/edelfino11)
 - [JSalinas](https://github.com/javier-salinas)
@@ -1656,5 +1657,4 @@
 - [leon-arndt](https://github.com/leon-arndt)
 - [Rima Mei Handayani](https://github.com/rimamei)
 - [Shailja Bahuguna](https://github.com/shailja2727)
-- [Saidi Hamisi](https://github.com/saidmtanzania)
   <!-- prettier-ignore-end -->
