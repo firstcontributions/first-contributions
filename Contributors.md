@@ -7,8 +7,10 @@
 - [Sanober Sarfaraz Ahmed](https://github.com/Sanober494u)
 - [Devora Ger](https://github.com/Devora-Ger)
 - [Ciberdcuk] (https://github.com/gerosantacruz)
+- [Thawzin] (https://github.com/Thawzin229)
 - [Ramyalakshmi Sundaramoorthy](https://github.com/s-ramyalakshmi)
 - tstoiu17
+- [Phalak Bhatnagar](https://github.com/phalakbh)
 - [Myo Min Khant](https://github.com/Myo-Min-Khant292)
 - [Lina Sundén](https://github.com/LinaSunden)
 - [Shail Shah](https://github.com/shahshail2001)
@@ -18,6 +20,7 @@
 - [Casey Cronyn](https://github.com/caseycronyn)
 - [ouiouibagutte](https://github.com/ouiouibagutte)
 - [tamar ben-shalom](https://github.com/tamar-bensha)
+  [hodaya7](https://github.com/hodaya7)
 - [naturalneuralnet](https://github.com/naturalneuralnet)
 - [Mariam Swelam](https://github.com/mariammahmoud18)
 -[Vinayak Waghmode](https://github.com/VinayakWaghmode7)
@@ -4554,3 +4557,4 @@ Gauresh Rathi
 - [Rashmi-J-K](https://github.com/Rashmi-J-K)
 - [Punya16](https://github.com/Punya16)
 - [Alessandro Di Turi] (https://github.com/alessandrodituri)
+
