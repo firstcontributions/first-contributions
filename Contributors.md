@@ -22,6 +22,7 @@
 - [Sebastian David] (https://github.com/sebs-commits)
 - [ISEO Sethu] (https://github.com/iseosethu)
 - [Casey Cronyn](https://github.com/caseycronyn)
+- [Neima Yeganeh](https://github.com/Neima-Yeganeh)
 - [ouiouibagutte](https://github.com/ouiouibagutte)
 - [tamar ben-shalom](https://github.com/tamar-bensha)
   [hodaya7](https://github.com/hodaya7)
