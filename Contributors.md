@@ -15,6 +15,7 @@
 - [Lina Sundén](https://github.com/LinaSunden)
 - [Shail Shah](https://github.com/shahshail2001)
 - [Manu Raj Yadav](https://github.com/Manurajyadav)
+- [Onwunali Blessing Chika](https://github.com/Chifrica)
 - [Sebastian David] (https://github.com/sebs-commits)
 - [ISEO Sethu] (https://github.com/iseosethu)
 - [Casey Cronyn](https://github.com/caseycronyn)
