@@ -54,6 +54,7 @@
 - [pavan cheruvupally](https://github.com/PavanCheruvupally)
 - [Antonio Colaierà] (https://github.com/AntonioColaiera) 
 - [Mujeeb Hammed](https://github.com/Mjay202)
+- [syu6noob](https://github.com/syu6noob)
 - [Suryakiran Sureshkumar](https://github.com/s-suryakiran)
 - [Chahat Srivastava](https://github.com/Chahat-Srivastava)
 - [Biswajeet Behera](https://github.com/biswajeetbehera123)
