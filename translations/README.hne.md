@@ -110,11 +110,11 @@ git push origin <अपन-शाखा-के-नाम-जोड़व>
 
 बधाई हो मितान! आपमन ने_fork -> clone -> edit -> PR_ वर्कफ़्लो ल पूरा कर डरे हव!
 
-अपन पहली योगदान के ख़ुशी म अपन संगी मन करा शेयर करव [वेब एप्प](https://roshanjossey.github.io/first-contributions/#social-share) पे जाके | 
+अपन पहली योगदान के ख़ुशी म अपन संगी मन करा शेयर करव [वेब एप्प](https://firstcontributions.github.io/#social-share) पे जाके | 
 
 आपमन हमर स्लैक टीम ल ज्वाइन कर सकत हव अगर आपमन ल कोनो सहायता के जरुरत होही त | [म ज्वाइन करव](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 
-अब आपमन अउ प्रोजेक्ट्स म कंट्रीब्यूट करे बर शुरू कर सकत हव | हमन एक लिस्ट बनाए हन जेन म अड़बड़ सरल मुद्दे हवएं| [प्रोजेक्ट्स के लिस्ट](https://roshanjossey.github.io/first-contributions/#project-list)
+अब आपमन अउ प्रोजेक्ट्स म कंट्रीब्यूट करे बर शुरू कर सकत हव | हमन एक लिस्ट बनाए हन जेन म अड़बड़ सरल मुद्दे हवएं| [प्रोजेक्ट्स के लिस्ट](https://firstcontributions.github.io/#project-list)
 
 ## अन्य टूल के उपयोग करके ट्यूटोरियल
 

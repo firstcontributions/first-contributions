@@ -127,14 +127,14 @@ git push origin <તમારી-શાખા-નામ-ઉમેરો>
 અભિનંદન!:tada: તમે હમણાં જ સ્ટાન્ડર્ડ `fork -> clone -> edit -> pull request` વર્કફ્લો પૂર્ણ કર્યો છે. જેનો તમે વારંવાર સહયોગકર્તા (contributor) તરીકે સામનો કરશો!
 
 
-તમારા પ્રથમ યોગદાનની ઉજવણી કરો અને [વેબ એપ્લિકેશન](https://roshanjossey.github.io/first-contributions/#social-share) પર જઈને તમારા મિત્રો અને ફોલોઅર્સ સાથે શેર કરો.
+તમારા પ્રથમ યોગદાનની ઉજવણી કરો અને [વેબ એપ્લિકેશન](https://firstcontributions.github.io/#social-share) પર જઈને તમારા મિત્રો અને ફોલોઅર્સ સાથે શેર કરો.
 
 
 
 જો તમને કોઈ મદદની જરૂર હોય અથવા તમારી કોઈ સમસ્યા હોય તો તમે અમારી સ્લેક ટીમમા જોડાઈ શકો છો. [સ્લેક ટીમ જોઈન કરો.](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 
 
-ચાલો, હવે તમને અન્ય પ્રોજેક્ટ્સમાં કંટ્ર્રીબ્યુટ કરવામા મદદ કરુ. અમે તમારા માટે એક યાદી બનાવી છે જેમા ખૂબ સરળ issues(મુદ્દાઓ) છે વેબ એપમા પ્રોજેક્ટ્સ ની સૂચિ જુઓ.](https://roshanjossey.github.io/first-contributions/#project-list)
+ચાલો, હવે તમને અન્ય પ્રોજેક્ટ્સમાં કંટ્ર્રીબ્યુટ કરવામા મદદ કરુ. અમે તમારા માટે એક યાદી બનાવી છે જેમા ખૂબ સરળ issues(મુદ્દાઓ) છે વેબ એપમા પ્રોજેક્ટ્સ ની સૂચિ જુઓ.](https://firstcontributions.github.io/#project-list)
 
 ## અન્ય સાધનોનો ઉપયોગ કરીને ટ્યુટોરીયલ્સ
 

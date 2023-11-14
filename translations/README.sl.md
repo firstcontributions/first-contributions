@@ -109,7 +109,7 @@ Kmalu bom združil tvoje spremembe v master vejo tega projekta. V svoj e-poštni
 
 Lahko se pridružiš naši slack ekipi, če rabiš pomoč ali imaš vprašanja. [Pridruži se slack ekipi](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-Sedaj lahko začneš prispevati drugim projektom. Sestavili smo seznam projektov z enostavnimi problemi (issues), ki jih lahko začneš reševati. Preveri [seznam projektov v spletni aplikaciji](https://roshanjossey.github.io/first-contributions/#project-list).
+Sedaj lahko začneš prispevati drugim projektom. Sestavili smo seznam projektov z enostavnimi problemi (issues), ki jih lahko začneš reševati. Preveri [seznam projektov v spletni aplikaciji](https://firstcontributions.github.io/#project-list).
 
 ### [Dodatne informacije](../additional-material/translations/Slovenian/additional-material.sl.md)
 

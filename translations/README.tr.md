@@ -117,11 +117,11 @@ Yaptığınız değişiklikleri en kısa zamanda projenin "master" dalı ile bir
 
 Tebrikler! Katkıda bulunan kişi olarak sıklıkla karşılaşacağınız standart _çatal -> klon -> düzenle -> çekme isteği_ iş akışını tamamladınız!
 
-Sunduğunuz katkının coşkusunu yaşamak ve bunu arkadaşlarınız ve takipçilerinizle paylaşmak için [bu bağlantıdaki](https://roshanjossey.github.io/first-contributions/#social-share) uygulamamızı kullanabilirsiniz.
+Sunduğunuz katkının coşkusunu yaşamak ve bunu arkadaşlarınız ve takipçilerinizle paylaşmak için [bu bağlantıdaki](https://firstcontributions.github.io/#social-share) uygulamamızı kullanabilirsiniz.
 
 Bir sorunuz veya yardıma ihtiyacınız olursa Slack takımımıza katılabilirsiniz. [Slack takımına katıl](https://firstcontributions.herokuapp.com)
 
-Artık diğer projelere katkı sunmaya hazırsınız. Çözmeye başlayabileceğiniz giriş seviyesindeki konulara (issue) sahip projeleri [sizin için derledik](https://roshanjossey.github.io/first-contributions/#project-list).
+Artık diğer projelere katkı sunmaya hazırsınız. Çözmeye başlayabileceğiniz giriş seviyesindeki konulara (issue) sahip projeleri [sizin için derledik](https://firstcontributions.github.io/#project-list).
 
 ### [Ek bilgi](../additional-material/git_workflow_scenarios/additional-material.md)
 

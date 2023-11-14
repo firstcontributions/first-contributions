@@ -189,7 +189,7 @@ git push origin <add-your-branch-name>
 
 עכשיו אפשר להתחיל לתרום לפרוייקטים אחרים. הכנו רשימה של פרוייקטים על נושאים קלים שאתם יכולים להתחיל לעבוד עליהם.
 
-<a href="https://roshanjossey.github.io/first-contributions/#project-list">רשימה של פרוייקטים ב-web app</a>.
+<a href="https://firstcontributions.github.io/#project-list">רשימה של פרוייקטים ב-web app</a>.
 </div>
 
 <div dir="rtl">
