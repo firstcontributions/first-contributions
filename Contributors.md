@@ -143,6 +143,7 @@ Brent L
 - [Pranav Mistry](https://github.com/PranavMistry3)
 - [TechySavant](https://github.com/techy-savant)
 - [Monae Curbeam](https://github.com/curbeammonae)
+- [Joseph Steffin](https://github.com/steffinjoe)
 - [Oolazile](https://github.com/oolazile)
 - [Guido Carucci](https://github.com/guido-an)
 - [Khushi Kunwar](https://github.com/khushistar)
