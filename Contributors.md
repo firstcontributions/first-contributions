@@ -1,6 +1,7 @@
 ﻿
 # Contributors
 - [Jianfeng Shao](https://github.com/JianfengShao)
+- [Angela Fisher](https://github.com/angelajfisher)
 - [Noya David](https://github.com/Sanober494u)
 - [Sanober Sarfaraz Ahmed](https://github.com/Sanober494u)
 - [Devora Ger](https://github.com/Devora-Ger)
