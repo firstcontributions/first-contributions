@@ -88,7 +88,7 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 ## Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+This will create a copy of this repository in your GitHub account.
 
 ## Clone the repository
 
@@ -99,7 +99,7 @@ Now clone the forked repository to your machine. Go to your GitHub account, open
 Open a terminal and run the following git command:
 
 ```
-git clone "url you just copied"
+git clone "url you just copied" " Enter url"
 ```
 
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
