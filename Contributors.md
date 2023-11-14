@@ -62,6 +62,7 @@
 - [Aliaksandr Kaptsevich](https://github.com/VeryStone69)
 - [CodeLikeAyush](https://github.com/CodeLikeAyush)
 - [ZWA](https://github.com/ZWA)
+- [Ayush Srivastav](https://github.com/meetaayush)
 - [VISHAL KUMAR](https://github.com/I-Vishal-Kumar)
 - [Michael Ogunyemi](https://github.com/Mic-hvel)
 - [MARVIN](https://github.com/Marvinjon)
