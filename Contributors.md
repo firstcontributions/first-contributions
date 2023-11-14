@@ -7,6 +7,7 @@
 - [Sanober Sarfaraz Ahmed](https://github.com/Sanober494u)
 - [Devora Ger](https://github.com/Devora-Ger)
 - [Ciberdcuk] (https://github.com/gerosantacruz)
+- [Thawzin] (https://github.com/Thawzin229)
 - [Ramyalakshmi Sundaramoorthy](https://github.com/s-ramyalakshmi)
 - tstoiu17
 - [Phalak Bhatnagar](https://github.com/phalakbh)
