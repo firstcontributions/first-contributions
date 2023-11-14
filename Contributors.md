@@ -4544,4 +4544,5 @@ Gauresh Rathi
 - [TamarHeisler](https://github.com/tamarheisler)
 - [Mardonio Rodrigues](https://github.com/MardonioEng)
 - [Chi Feng](https://github.com/CFbots)
+- [Rohith R](https://github.com/ROOHITH)
 - [TurbooGhost](https://github.com/TurbooGhost)
