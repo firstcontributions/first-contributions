@@ -3,6 +3,7 @@
 - [Jianfeng Shao](https://github.com/JianfengShao)
 - [Booboo](http://github.com/fjsahflasj)
 - [Abdiel Wilson](https://github.com/Wilsonabdiel)
+- [Akshay Patel](https://github.com/akshaypatel774)
 - [Angela Fisher](https://github.com/angelajfisher)
 - [Ahnaf Tahmid Zaman](https://github.com/AHNAF14924)
 - [Noya David](https://github.com/Sanober494u)
