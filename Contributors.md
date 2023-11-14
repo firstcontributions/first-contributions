@@ -24,7 +24,6 @@
   [hodaya7](https://github.com/hodaya7)
 - [naturalneuralnet](https://github.com/naturalneuralnet)
 - [Mariam Swelam](https://github.com/mariammahmoud18)
--[Vinayak Waghmode](https://github.com/VinayakWaghmode7)
 - [Imran Ture](https://github.com/imranture)
 - [Yehudit](https://github.com)
 - [Ricky Barfield](https://github.com/flbarfield)
