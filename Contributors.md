@@ -17,7 +17,7 @@
 - [Casey Cronyn](https://github.com/caseycronyn)
 - [ouiouibagutte](https://github.com/ouiouibagutte)
 - [tamar ben-shalom](https://github.com/tamar-bensha)
-  [hodaya7](https://github.com/hodaya7)
+- [hodaya7](https://github.com/hodaya7)
 - [naturalneuralnet](https://github.com/naturalneuralnet)
 - [Mariam Swelam](https://github.com/mariammahmoud18)
 -[Vinayak Waghmode](https://github.com/VinayakWaghmode7)
