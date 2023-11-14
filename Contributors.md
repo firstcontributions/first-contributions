@@ -10,6 +10,7 @@
 - [Shail Shah](https://github.com/shahshail2001)
 - [Manu Raj Yadav](https://github.com/Manurajyadav)
 - [Sebastian David] (https://github.com/sebs-commits)
+- [ISEO Sethu] (https://github.com/iseosethu)
 - [Casey Cronyn](https://github.com/caseycronyn)
 - [ouiouibagutte](https://github.com/ouiouibagutte)
 - [tamar ben-shalom](https://github.com/tamar-bensha)
