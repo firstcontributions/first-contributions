@@ -87,7 +87,7 @@ git push origin <ब्रांचको-नाम>
 
 ## रिभ्युको लागि तपाईंको परिवर्तनहरू पेश गर्नुहोस्
 
-यदि तपाईं GitHub मा तपाईंको रेपोसितोरीमा (repository) जानुहुन्छ भने, तपाइँले `compare & pull request` बटन देख्नुहुनेछ। त्यस बटनमा क्लिक गर्नुहोस्।
+यदि तपाईं GitHub मा आफ्नो रेपोसितोरीमा (repository) जानुहुन्छ भने, तपाइँले `compare & pull request` बटन देख्नुहुनेछ। त्यस बटनमा क्लिक गर्नुहोस्।
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="एउटा पुल अनुरोध सिर्जना गर्नुहोस्" />
 
