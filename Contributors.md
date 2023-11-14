@@ -1,5 +1,6 @@
 ﻿
 # Contributors
+- [Heeba Khan](https://github.com/heeba-khan)
 - [Jianfeng Shao](https://github.com/JianfengShao)
 - [Angela Fisher](https://github.com/angelajfisher)
 - [Ahnaf Tahmid Zaman](https://github.com/AHNAF14924)
