@@ -80,6 +80,7 @@
 - [Emehelu Raphael](https://github.com/rafaelpascal)
 - [Adolfo Villalobos](https://github.com/AdolfoVillalobos)
 - [Bohdan Lupyr](https://github.com/Brolupyr777)
+- [Alberdam Santiago Sancler da Silva](https://github.com/hunter-code)
 - [Dev Singh Kanyal](https://github.com/dev-singh-kanyal) 
 - [johnnybinh](https://github.com/johnnybinh)
 - [Héctor Figuereo](https://github.com/hector535)
