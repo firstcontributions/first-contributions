@@ -15,7 +15,6 @@
 - [Thawzin] (https://github.com/Thawzin229)
 - [Masum] (https://github.com/Masum-ipv)
 - [Sean]
-- [ErenDeSenYeter] (https://github.com/ErenDeSenYeter)
 - [Ramyalakshmi Sundaramoorthy](https://github.com/s-ramyalakshmi)
 - tstoiu17
 - [Phalak Bhatnagar](https://github.com/phalakbh)
@@ -3296,6 +3295,7 @@ Nikhil R
 - [Alexb017](https://github.com/alexb017)
 - [Anurag Roy](https://github.com/NextThread)
 - [Iftikhar Yar Khan](https://github.com/iftikharyk)
+- [ErenDeSenYeter] (https://github.com/ErenDeSenYeter)
 - [Jasleen Kaur Bhatia](https://github.com/Jasleen-001)
 - [Sadeed-pv](https://Github.com/Sadeedpv)
 - [Kartikeya Agate](https://github.com/agatekartik)
