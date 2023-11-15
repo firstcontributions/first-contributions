@@ -85,6 +85,7 @@
 - [Dan The Man]
 - [Sammii Espinoza](https://github.com/SammiiSam)
 - [Sai Mani Kumar Devathi]
+- [Chester Lee Coloma](https://github.com/cleecoloma)
 - [Norhakim Shaharuddin](https://github.com/notnorhakim)
 - [Killerwattz-code] (https://github.com/Killerwattz-code)
 - [Jitae Moon] (https://github.com/jitae-moon)
