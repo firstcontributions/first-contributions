@@ -4592,4 +4592,6 @@ Gauresh Rathi
 - [Punya16](https://github.com/Punya16)
 - [Alessandro Di Turi] (https://github.com/alessandrodituri)
 - [shihuangzhe] (https://github.com/shihuangzhe0011)
+- [shihuangzhe] (https://github.com/shihuangzhe0011)
+- [LorenzoPegorari](https://github.com/LorenzoPegorari)
 
