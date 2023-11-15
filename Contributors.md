@@ -16,6 +16,7 @@
 - [Thawzin] (https://github.com/Thawzin229)
 - [Masum] (https://github.com/Masum-ipv)
 - [GWN] (https://github.com/gloriabee)
+- [Halle Vogelpohl] (https://github.com/hallegv)
 - [Sean]
 - [Ramyalakshmi Sundaramoorthy](https://github.com/s-ramyalakshmi)
 - tstoiu17
