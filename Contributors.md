@@ -21,6 +21,7 @@
 - [Dung Giang](https://github.com/GiangDung)
 - [Phillip Shou](https://github.com/pshou2)
 - [Myo Min Khant](https://github.com/Myo-Min-Khant292)
+- [Min Thant Ko](https://github.com/minthantko17)
 - [Lina Sundén](https://github.com/LinaSunden)
 - [Shail Shah](https://github.com/shahshail2001)
 - [Manu Raj Yadav](https://github.com/Manurajyadav)
