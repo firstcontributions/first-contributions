@@ -14,6 +14,7 @@
 - [Ramyalakshmi Sundaramoorthy](https://github.com/s-ramyalakshmi)
 - tstoiu17
 - [Phalak Bhatnagar](https://github.com/phalakbh)
+- [Phillip Shou](https://github.com/pshou2)
 - [Myo Min Khant](https://github.com/Myo-Min-Khant292)
 - [Lina Sundén](https://github.com/LinaSunden)
 - [Shail Shah](https://github.com/shahshail2001)
