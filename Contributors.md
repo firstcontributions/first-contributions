@@ -34,6 +34,7 @@
 -[Vinayak Waghmode](https://github.com/VinayakWaghmode7)
 - [Imran Ture](https://github.com/imranture)
 - [Yehudit](https://github.com)
+- [Vanessa Linus] (https://github.com/msveelin)
 - [Ricky Barfield](https://github.com/flbarfield)
 - [Ankit Goyal](https://github.com/goyalankit47)
 - [Katie Sayers](https://github.com/saykate)
