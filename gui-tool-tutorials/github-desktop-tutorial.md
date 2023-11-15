@@ -1,27 +1,21 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 # First Contributions
 
-| <img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="200"> | GitHub Desktop Edition |
-| ----------------------------------------------------------------------------------------------- | ---------------------- |
+## GitHub Desktop Edition
 
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
-Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
+Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are the better you learn. If you are looking for making your first contribution just follow the simple steps below. It will be fun!
 
 If you don't have GitHub Desktop on your machine, [install it](https://desktop.github.com/).
 
-If you're using a version of GitHub desktop before 1.0, [refer this tutorial](github-desktop-old-version-tutorial.md).
-
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/fork.png" alt="fork this repository" />
 
 ## Fork this repository
 
 Fork this repo by clicking on the fork button on the top right of this page.
 This will create a copy of this repository in your account.
+
+<img src="../images/fork.png" alt="fork this repository" />
 
 ## Clone the repository
 
