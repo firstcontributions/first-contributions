@@ -41,6 +41,7 @@
 - [Jaguard2021](https://github.com/jaguard2021)
 - [Sam]
 - [Prajwal_S](https://github.com/Furrylath)
+- [Adeniji-Victor-Adeolu](https://github.com/deoluvictor99)
 - [fclarke1](https://github.com/fclarke1)
 - [Awointa Akos](https://https://github.com/Awointa)
 - [jmarti1899](https://https://github.com/jmarti1899)
