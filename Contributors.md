@@ -173,6 +173,7 @@ Brent L
 - [Ram Tyagi](https://github.com/Ram-tyagi)  
 - [Hannah Silos](https://github.com/biobechi)
 - [Jonathan Eisenbrandt](https://github.com/IcebergLettuc3)
+- [Alexandru7777](https://github.com/alexandru7777)
 - [DezS](https://github.com/DezS4125)
 - [Olusegun Omotunde](https://github.com/omotuno)
 - [Nur Farah](https://github.com/Nur-farah)
