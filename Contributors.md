@@ -18,6 +18,7 @@
 - [Ramyalakshmi Sundaramoorthy](https://github.com/s-ramyalakshmi)
 - tstoiu17
 - [Phalak Bhatnagar](https://github.com/phalakbh)
+- [Dung Giang](https://github.com/GiangDung)
 - [Phillip Shou](https://github.com/pshou2)
 - [Myo Min Khant](https://github.com/Myo-Min-Khant292)
 - [Lina Sundén](https://github.com/LinaSunden)
