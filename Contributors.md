@@ -54,6 +54,7 @@
 - [Daniel Fraga](https://github.com/Danfraga33)
 - [Rehan Chalana](https://github.com/RehanChalana)
 - [Prajwal_S](https://github.com/Furrylath)
+- [Adeniji-Victor-Adeolu](https://github.com/deoluvictor99)
 - [fclarke1](https://github.com/fclarke1)
 - [Awointa Akos](https://https://github.com/Awointa)
 - [jmarti1899](https://https://github.com/jmarti1899)
