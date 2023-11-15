@@ -15,6 +15,7 @@
 - [Ciberdcuk] (https://github.com/gerosantacruz)
 - [Thawzin] (https://github.com/Thawzin229)
 - [Masum] (https://github.com/Masum-ipv)
+- [GWN] (https://github.com/gloriabee)
 - [Sean]
 - [Ramyalakshmi Sundaramoorthy](https://github.com/s-ramyalakshmi)
 - tstoiu17
