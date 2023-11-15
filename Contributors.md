@@ -553,6 +553,7 @@ Brent L
 - [Cyprian Kiplangat](https://github.com/mutaician)
 - [Suru](https://github.com/sureshp820)
 - [Udar Sarkar](https://github.com/udaysarkarud)
+- [Rafael Reis](https://github.com/RafaelReis098)
 - [Utkarsh](https://github.com/utkarsh1042005)
 - [Chandan Mishra](https://github.com/mishraachandan)
 - [job mbugua](https://github.com/mbugua97)
