@@ -1054,6 +1054,7 @@ harshal honde
 - [Dheeraj Purohit](https://github.com/purohitdheeraj)
 - [Atul Singh](https://github.com/ar722em)
 - [Swastik Pratik Singh](https://github.com/swastikpratik-bit)
+- [Mikkel Hindsbo](https://github.com/mikkelhindsbo)
 - [Atul Rai](https://github.com/Atul72)
 - [Vidhi Sahai](https://github.com/Vidhi2604)
 - [Ritwik Das](https://github.com/devritwik)
