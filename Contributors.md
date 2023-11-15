@@ -197,6 +197,7 @@ Brent L
 - [Sonu Hansda](https://github.com/Sonu-Hansda)
 - [Andrea]
 - [Mohd Tauseef Ansari](https://github.com/Mohdtsf)
+- [Droid Andy](https://github.com/andyongith)
 - [Ben Ricker] (https://github.com/BenRicker)
 - [Emilha de Souza](https://github.com/emilha-mg)
 - [Amarthya](https://github.com/aparvathareddy282)
@@ -2410,6 +2411,7 @@ Nikhil R
 - [Bishal Jena](https://github.com/bishal-jena)
 - [Pixel Bit](https://github.com/Mproot)
 - [Abdullah Sulaiman](https://github.com/CodeMage-x)
+- [Droid Andy](https://github.com/andyongith)
 - [Muhammad Usman](https://github.com/MuhammadUsman15/first-contributions)
 - [Mohammed Sajid](https://github.com/sajid-31/first-contributions)
 - [Python Monty](https://github.com/Python125/first-contributions)
