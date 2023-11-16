@@ -367,7 +367,7 @@ Brent L
 - [Utkarsh Kumar](https://github.com/utkarsh1042005)
 - [Vo Le Phu Xuan](https://github.com/volephuxuan)
 - [Aman Bhujel](https://github.com/AmanBhujel)
-- [Itesh Tomar](https://github.com/petrioteer)
+- [Itesh Tomar](https://github.com/petrioteer) 
 - [CodeWithJazzy](https://github.com/codewithjazzy)
 - [adrianlamlh](https://github.com/adrianlamlh)
 - [Pranav Kannawar](https://github.com/Hackwithpranav)
@@ -4610,4 +4610,4 @@ Gauresh Rathi
 - [Anthony Mathenge](https://github.com/kihagi)
 - [Alessandro Di Turi] (https://github.com/alessandrodituri)
 - [shihuangzhe] (https://github.com/shihuangzhe0011)
-
+- [Gagan Baghel](https://github.com/GaganBghl)
