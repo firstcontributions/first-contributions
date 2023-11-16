@@ -57,6 +57,7 @@
 - [Samuel Donkor](https://github.com/nanaknketsiah)
 - [Zohaib](https://github.com/zohaibsaqib1)
 - [Jaguard2021](https://github.com/jaguard2021)
+-[Jessica-ovabor](https://github.com/Jessica-ovabor)
 - [Sam]
 - [Daniel Fraga](https://github.com/Danfraga33)
 - [Rehan Chalana](https://github.com/RehanChalana)
