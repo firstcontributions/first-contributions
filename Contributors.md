@@ -1,6 +1,7 @@
 
 # Contributors
 - [Syed Dawood] (https://github.com/SyedDawood25)
+- [Hamza Khan] (https://github.com/hamzakhangithub)
 - [Debasmita Sahoo](https://github.com/Sahoo-Debasmita)
 - [Mark Richardson](https://github.com/markr155)
 - [Maneesha Gunawardhana](https://github.com/mGunawardhana)
