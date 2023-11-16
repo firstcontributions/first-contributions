@@ -1,6 +1,7 @@
 
 # Contributors
--[Debasmita Sahoo](https://github.com/Sahoo-Debasmita)
+- [Syed Dawood] (https://github.com/SyedDawood25)
+- [Debasmita Sahoo](https://github.com/Sahoo-Debasmita)
 - [Mark Richardson](https://github.com/markr155)
 - [Maneesha Gunawardhana](https://github.com/mGunawardhana)
 - [Mariano De Los Santos](https://github.com/Mdeloss)
