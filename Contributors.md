@@ -181,6 +181,7 @@ Brent L
 - [Shrid Mishra](https://github.com/shridmishra)
 - [Wisdom Okogho](https://github.com/setgram)
 - [Abdi Kitesa] (https://github.com/abdik-tech)
+- [Sigurd Torve Sæther] (https://github.com/sitsae)
 - [Minju Kim](https://github.com/whyNot077)
 - [Pranav Mistry](https://github.com/PranavMistry3)
 - [TechySavant](https://github.com/techy-savant)
