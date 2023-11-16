@@ -115,6 +115,7 @@
 - [Sammii Espinoza](https://github.com/SammiiSam)
 - [Sai Mani Kumar Devathi]
 - [Chester Lee Coloma](https://github.com/cleecoloma)
+- [Tsyklauri Kateryna](https://github.com/KateOblomova)
 - [Norhakim Shaharuddin](https://github.com/notnorhakim)
 - [Killerwattz-code] (https://github.com/Killerwattz-code)
 - [Jitae Moon] (https://github.com/jitae-moon)
