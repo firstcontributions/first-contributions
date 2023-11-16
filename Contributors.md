@@ -1,5 +1,6 @@
 
 # Contributors
+- [Mark Richardson](https://github.com/markr155)
 - [Maneesha Gunawardhana](https://github.com/mGunawardhana)
 - [Mariano De Los Santos](https://github.com/Mdeloss)
 - [Mohammad Wasim Tikki](https://github.com/wasimtikki120)
