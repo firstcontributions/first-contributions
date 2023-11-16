@@ -19,6 +19,7 @@
 - [Halle Vogelpohl] (https://github.com/hallegv)
 - [Sean]
 - [Ramyalakshmi Sundaramoorthy](https://github.com/s-ramyalakshmi)
+- [Logan Sailer](https://github.com/logansailer)
 - tstoiu17
 - [Phalak Bhatnagar](https://github.com/phalakbh)
 - [Dung Giang](https://github.com/GiangDung)
