@@ -4603,6 +4603,7 @@ Gauresh Rathi
 - [Anil Jangir](https://github.com/aniljangirdev)
 - [Rashmi-J-K](https://github.com/Rashmi-J-K)
 - [Punya16](https://github.com/Punya16)
+- [Anthony Mathenge](https://github.com/kihagi)
 - [Alessandro Di Turi] (https://github.com/alessandrodituri)
 - [shihuangzhe] (https://github.com/shihuangzhe0011)
 
