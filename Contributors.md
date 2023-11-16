@@ -4581,6 +4581,7 @@ Gauresh Rathi
 - [Kieran Triggs](https://www.github.com/ktriggsdev)
 - [Mateusz Widawski](https://github.com/matwid03)
 - [silviuXgaming](https://github.com/silviuXgaming)
+- [rixraxx](https://github.com/rixraxx)
 - [Parth Jain](https://github.com/parthjain99)
 - [Bartosz Krawczyk](https://github.com/SkuliX01)
 - [Chiamaka Etchie](https://github.com/jetchie)
