@@ -32,6 +32,7 @@
 - [Phillip Shou](https://github.com/pshou2)
 - [Myo Min Khant](https://github.com/Myo-Min-Khant292)
 - [Min Thant Ko](https://github.com/minthantko17)
+- [Atharva Chandratre](https://github.com/aiah7894)
 - [Lina Sundén](https://github.com/LinaSunden)
 - [Joseph Galloway](https://github.com/josephgalloway321)
 - [Shail Shah](https://github.com/shahshail2001)
