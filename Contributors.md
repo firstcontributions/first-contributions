@@ -99,6 +99,7 @@
 - [Akshay Manoj] (https://github.com/Stark-Akshay)
 - [Dhruv Kalaria] (https://github.com/dbkalaria)
 - [Aliaksandr Kaptsevich](https://github.com/VeryStone69)
+- [Djumash Poulsen](https://github.com/Djumash93)
 - [CodeLikeAyush](https://github.com/CodeLikeAyush)
 - [ZWA](https://github.com/ZWA)
 - [Ayush Srivastav](https://github.com/meetaayush)
