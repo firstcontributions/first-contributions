@@ -7,6 +7,7 @@
 - [Maneesha Gunawardhana](https://github.com/mGunawardhana)
 - [Mariano De Los Santos](https://github.com/Mdeloss)
 - [Mohammad Wasim Tikki](https://github.com/wasimtikki120)
+- [Rich Kevan](https://github.com/richkevan)
 - [Jianfeng Shao](https://github.com/JianfengShao)
 - [Booboo](http://github.com/fjsahflasj)
 - [Abdiel Wilson](https://github.com/Wilsonabdiel)
