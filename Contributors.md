@@ -62,6 +62,7 @@
 - [Imran Ture](https://github.com/imranture)
 - [Yehudit](https://github.com)
 - [Hakim Amarouche](https://github.com/hakimamarouche)
+- [Shehan Reshin](https://github.com/shehanreshin)
 - [Vanessa Linus] (https://github.com/msveelin)
 - [Ricky Barfield](https://github.com/flbarfield)
 - [Ankit Goyal](https://github.com/goyalankit47)
