@@ -729,6 +729,7 @@ Brent L
 - [Juan Pablo Vanegas Moreno](https://github.com/pablovanegas)
 - [Om Varma ](https://github.com/omvarma31)
 - [Josh Kim](https://github.com/socho1)
+- [Eniz Dastan](https://github.com/EnizD)
 - [dCOMMICS](https://github.com/dCOMMICS)
 - [Atul Yadav] (https://github.com/Atul4840)
 - [Cerebro](https://github.com/newman-theinnovator)
