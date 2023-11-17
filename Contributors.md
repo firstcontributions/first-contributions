@@ -356,6 +356,7 @@ Brent L
 - [Konduri Aditya](https://github.com/pavanaditya15752)
 - [Artyom Romanov](https://github.com/art3xa)
 - [Out Drax](https://github.com/OutDrax)
+- [Julien Lavrard](https://github.com/Julyse)
 - [Lasan Ranatunge](https://github.com/lasanseniya)
 - [meghaverma3110](https://github.com/meghaverma3110)
 - [Kushal Agrawal](https://github.com/kushal34712)
