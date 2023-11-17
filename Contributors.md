@@ -1998,6 +1998,7 @@ Sino Felicity Zwane
 - [Anand-Vardhan-Shekhar](https://github.com/anandvardhan09)
 - [Janela Tamayo](https://github.com/Jajanela)
 - [Ini. Duff <CIDD />](https://github.com/duffygoogle)
+- [Logic Bard](https://github.com/logic-bard)
 - Atharva Gaikwad
 - [Suhas B G](https://github.com/SuhasBG)
 - [Joshua Eyaru] (https://github.com/JoshuaEyaru)
