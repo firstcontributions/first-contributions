@@ -364,6 +364,7 @@ Brent L
 - [Andreas Leonardo] (https://github.com/Andreasleo11)
 - [Kerlis Gray](https://github.com/k3rl15)
 - [Sur](https://github.com/mazipan/hello-open-source/new/master/people)
+- [Michael Wu](https://github.com/DragonSkywalker)
 - [Jibril Abdulazeez](https://github.com/Jibbyie)
 - [Nandini Chatterjee](https://github.com/py-dev-nandini-12)
 - [byuddy7](https://github.com/byuddy7)
