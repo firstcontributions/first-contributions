@@ -1,5 +1,6 @@
 
 # Contributors
+- [CrisitoJ] (https://github.com/CrisitoJ)
 - [Syed Dawood] (https://github.com/SyedDawood25)
 - [Hamza Khan] (https://github.com/hamzakhangithub)
 - [Debasmita Sahoo](https://github.com/Sahoo-Debasmita)
