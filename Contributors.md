@@ -26,6 +26,7 @@
 - [Thawzin] (https://github.com/Thawzin229)
 - [Gabriel] (https://github.com/gabriel2443)
 - [Masum] (https://github.com/Masum-ipv)
+- [NguyenNguyen] (https://github.com/NguyenNguyen205)
 - [GWN] (https://github.com/gloriabee)
 - [Halle Vogelpohl] (https://github.com/hallegv)
 - [Sean]
