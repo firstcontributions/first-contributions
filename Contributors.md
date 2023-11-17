@@ -36,6 +36,7 @@
 - [Halle Vogelpohl] (https://github.com/hallegv)
 - [Sean]
 - [Muhammet]
+- [Cage] (https://github.com/TheV4Tican)
 - [Ramyalakshmi Sundaramoorthy](https://github.com/s-ramyalakshmi)
 - [Logan Sailer](https://github.com/logansailer)
 - [Hafsa Malik](https://github.com/HafsaMalikkk)
