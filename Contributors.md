@@ -2000,6 +2000,7 @@ Sino Felicity Zwane
 - [Jason Betsargon](https://github.com/JasonBet)
 - [William Jennings](https://github.com/JenningsWilliam)
 - [Chirag Gupta](https://github.com/chirag-9121)
+- [George Chatziiliou](https://github.com/GeorgeHat)
 - [Ritesh Sadh](https://github.com/sadhritesh)
 - [Mohamed Rasheq A](https://github.com/Mohamedrasheq)
 - [Clara Wong](https://github.com/clarawong20)
