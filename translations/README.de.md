@@ -13,7 +13,7 @@ Aller Anfang ist schwer. Gerade dann, wenn wir gemeinsam an etwas arbeiten, will
 Natürlich helfen die vorhandenen Artikel und Videoanleitungen. Aber was kann besser sein, als es einfach einmal auszuprobieren mit dem Wissen, dass man nichts kaputt machen kann? Dieses Projekt will Anfängern zeigen, wie sie möglichst einfach ihren ersten Beitrag leisten. Bedenke: Je entspannter du bist, desto besser lernst du. Wenn du deinen ersten Beitrag leisten möchtest, folge diesen einfachen Schritten. Wir versprechen dir, es wird Spaß machen.
 
 
-Wenn du Git noch nicht installiert hast, [ installiere es ]( https://help.github.com/articles/set-up-git/ )
+Wenn du Git noch nicht installiert hast, [ installiere es ].( https://help.github.com/articles/set-up-git/ )
 
 ## Repository forken
 
