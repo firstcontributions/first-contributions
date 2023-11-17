@@ -1,6 +1,5 @@
 
 # Contributors
-- [Tom](https://github.com/TMulekezi)
 - [ouiouibagutte](https://github.com/ouiouibagutte)
 - [Awointa Akos](https://https://github.com/Awointa)
 - [Zane](https://github.com/Zanebla)
@@ -82,6 +81,7 @@ Brent L
 - [Hannah Silos](https://github.com/biobechi)
 - [Jonathan Eisenbrandt](https://github.com/IcebergLettuc3)
 - [DezS](https://github.com/DezS4125)
+- [Tom](https://github.com/TMulekezi)
 - [Olusegun Omotunde](https://github.com/omotuno)
 - [Nur Farah](https://github.com/Nur-farah)
 - [Shrey Jain](https://github.com/Shrey943)
