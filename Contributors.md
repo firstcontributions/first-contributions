@@ -22,6 +22,7 @@
 - [Angela Fisher](https://github.com/angelajfisher)
 - [Ahnaf Tahmid Zaman](https://github.com/AHNAF14924)
 - [Noya David](https://github.com/Sanober494u)
+- [Ashley Mao](https://github.com/ashley1203)
 - [Sanober Sarfaraz Ahmed](https://github.com/Sanober494u)
 - [Devora Ger](https://github.com/Devora-Ger)
 - [Elvira Ivanova](https://github.com/elviraIv)
