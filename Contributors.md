@@ -216,6 +216,7 @@ Brent L
 - [Jonathan Eisenbrandt](https://github.com/IcebergLettuc3)
 - [Alexandru7777](https://github.com/alexandru7777)
 - [DezS](https://github.com/DezS4125)
+- [Tom](https://github.com/TMulekezi)
 - [Olusegun Omotunde](https://github.com/omotuno)
 - [Nur Farah](https://github.com/Nur-farah)
 - [Shrey Jain](https://github.com/Shrey943)
