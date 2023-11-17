@@ -223,6 +223,7 @@ Brent L
 - [Ramesh Giri](https://github.com/Viper2627)
 - [Kumar Priyanshu](https://github.com/kpriyashu2003)
 - [TemiJ](https://github.com/tehmie)
+- [Pulkit Garg](https://github.com/pulkitgarg04)
 - [hanzayarsoe](https://github.com/hanzayarsoe)
 - [Sarah Zeitler](https://github.com/ZeSa-333) 
 - [Anmol Dhar](https://github.com/anmol-dhar)
