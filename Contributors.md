@@ -38,6 +38,7 @@
 - [Hafsa Malik](https://github.com/HafsaMalikkk)
 - tstoiu17
 - [Mo aldeen](https://github.com/moaldeen)
+- [Arshdeep Singh](https://github.com/Aiyaret-Sandhu)
 - [Phalak Bhatnagar](https://github.com/phalakbh)
 - [Dung Giang](https://github.com/GiangDung)
 - [Chheany Mok](https://github.com/cmok4290)
