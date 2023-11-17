@@ -4615,6 +4615,7 @@ Gauresh Rathi
 - [Claire Karsenti](https://github.com/ClaireKarsenti)
 - [Jhames Mejia](https://github.com/codingjhames)
 - [Jhojhan Sifuentes](https://github.com/JashDev)
+- [Sayyid Ishaque](https://github.com/sayyidishaque)
 - [Sho Ochiai](https://github.com/sho03)
 - [Caleb Nkunze](https://github.com/cank256)
 - [Loanito](https://github.com/Loanito)
