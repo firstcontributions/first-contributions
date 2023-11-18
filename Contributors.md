@@ -48,6 +48,7 @@
 - [Sean]
 - [Sushmitha]
 - [Muhammet]
+- [VSelencov96] (https://github.com/VSelencov96)
 - [Cage] (https://github.com/TheV4Tican)
 - [Ramyalakshmi Sundaramoorthy](https://github.com/s-ramyalakshmi)
 - [Logan Sailer](https://github.com/logansailer)
