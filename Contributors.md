@@ -214,6 +214,7 @@ Brent L
 - [Abdi Kitesa] (https://github.com/abdik-tech)
 - [Sigurd Torve Sæther] (https://github.com/sitsae)
 - [Minju Kim](https://github.com/whyNot077)
+- [Nitin Koul](https://github.com/nitin-koul)
 - [Pranav Mistry](https://github.com/PranavMistry3)
 - [TechySavant](https://github.com/techy-savant)
 - [Monae Curbeam](https://github.com/curbeammonae)
