@@ -2402,6 +2402,7 @@ Sino Felicity Zwane
 - [uyk23] (https://github.com/uyk23)
 - [ChaitanyaKatti](https://github.com/ChaitanyaKatti)
 - [César Henrique](https://github.com/cesarhenrq)
+- [Juan Olvera](https://github.com/juanolveraruiz)
 - [Omar Abdelgawad](https://github.com/omar-abdelgawad)
 - [Felipe Moriones](https://github.com/Moriones20)
 - [Yunis Aslan](https://github.com/YunisAslan)
