@@ -17,6 +17,7 @@
 - [Ryan Beert](https://github.com/rbeert)
 - [Jianfeng Shao](https://github.com/JianfengShao)
 - [Booboo](http://github.com/fjsahflasj)
+- [Lin Thit](https://github.com/LinThit27)
 - [Thuta](http://github.com/thutashein)
 - [Abdiel Wilson](https://github.com/Wilsonabdiel)
 - [Akshay Patel](https://github.com/akshaypatel774)
