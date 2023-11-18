@@ -1698,6 +1698,7 @@ Pizzacat
 - [Yatin Goyal](https://github.com/ygoyal48)
 - [Yash Chaudhary](https://github.com/yashchaudhary143)
 - [John Allen Berty](https://github.com/JohnAllenBerty)
+- [WestBeast08] (https://github.com/WestBeast08)
 - [Azhar Lihan](https://github.com/azharlihan)
 - [Zuebeyir Eser] (https://github.com/ZuebeyirEser)
 - [Tiago Antunes] (https://github.com/TiagoAntunes10)
