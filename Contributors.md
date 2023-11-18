@@ -7,6 +7,7 @@
 - [Syed Dawood] (https://github.com/SyedDawood25)
 - [Hamza Khan] (https://github.com/hamzakhangithub)
 - [Debasmita Sahoo](https://github.com/Sahoo-Debasmita)
+- [Satya Maddirala](https://github.com/SatyaMadd)
 - [dreamerstories](https://github.com/dreamerstories)
 - [PythonBeing](https://github.com/PythonBeing)
 - [Prem Singh](https://github.com/PremChing)
