@@ -110,6 +110,7 @@
 - [Astro-bro](https://github.com/Astro-bro)
 - [Zane](https://github.com/Zanebla)
 - [Mohammed Islam]
+- [qubitmateo](https://github.com/qubitmateo)
 - [SilentStorm2k](https://github.com/SilentStorm2k)
 - [WagTeoo](https://github.com/MQuang200)
 - [Devanshi Jain] (https://github.com/devanshi-jain)
