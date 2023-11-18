@@ -37,6 +37,7 @@
 - [GWN] (https://github.com/gloriabee)
 - [Halle Vogelpohl] (https://github.com/hallegv)
 - [Sean]
+- [Sushmitha]
 - [Muhammet]
 - [Cage] (https://github.com/TheV4Tican)
 - [Ramyalakshmi Sundaramoorthy](https://github.com/s-ramyalakshmi)
