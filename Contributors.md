@@ -4671,4 +4671,5 @@ Gauresh Rathi
 - [Andrick Siegmund] (http://github.com/Paulsig007)
 - [Osaze Imohe] (https://github.com/osazeimohe)
 - [Ali Tarichi] (https://github.com/alitarichi)
+- [David Banitongwa](https://github.com/Banitongwa7)
 
