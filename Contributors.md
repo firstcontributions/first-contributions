@@ -1,7 +1,6 @@
 
 # Contributors
 -[Debasmita Sahoo](https://github.com/Sahoo-Debasmita)
-- [Sushmitha G N](https://github.com/Sushmithagn04)
 - [Mark Richardson](https://github.com/markr155)
 - [Maneesha Gunawardhana](https://github.com/mGunawardhana)
 - [Mariano De Los Santos](https://github.com/Mdeloss)
@@ -22,6 +21,7 @@
 - [GWN] (https://github.com/gloriabee)
 - [Halle Vogelpohl] (https://github.com/hallegv)
 - [Sean]
+- [Sushmitha]
 - [Muhammet]
 - [Ramyalakshmi Sundaramoorthy](https://github.com/s-ramyalakshmi)
 - [Logan Sailer](https://github.com/logansailer)
