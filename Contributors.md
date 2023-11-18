@@ -115,6 +115,7 @@
 - [Clenybug](https://github.com/Clinybug)
 - [alexander bellina](https://github.com/itslikealex)
 - [Prabhpreet Kaur](https://github.com/naina35)
+- [Meet Joshi](https://github.com/MeetJoshi1703)
 - [Pratul Muthuraja](https://github.com/pratulmuthuraja)
 - [pavan cheruvupally](https://github.com/PavanCheruvupally)
 - [Antonio Colaierà] (https://github.com/AntonioColaiera) 
