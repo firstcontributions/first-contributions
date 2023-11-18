@@ -130,6 +130,7 @@
 - [Akshay Manoj] (https://github.com/Stark-Akshay)
 - [Dhruv Kalaria] (https://github.com/dbkalaria)
 - [Aliaksandr Kaptsevich](https://github.com/VeryStone69)
+- [Imam Hossain Mihir](https://github.com/imam1912)
 - [Djumash Poulsen](https://github.com/Djumash93)
 - [CodeLikeAyush](https://github.com/CodeLikeAyush)
 - [ZWA](https://github.com/ZWA)
