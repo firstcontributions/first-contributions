@@ -330,6 +330,7 @@ Brent L
 - [Syed Muhammad](https://github.com/syedmohammad611)
 - [Jackson Funk](https://github.com/Mqcaw)
 - [Muhammad Khizar](https://github.com/mkhizu21)
+- [Melissa Kariuki] (https://github.com/lissakariuki)
 - [Yassine Bouchama](https://github.com/SiskoWeb)
 - [Francine Go](https://github.com/fvgo)
 - [KapsarovL](https://github.com/KapsaorvL)
