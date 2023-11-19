@@ -4721,3 +4721,4 @@ Gauresh Rathi
 - [Ganesh Saravanan] (https://github.com/ganeshmp01)
 - [Janan Ali] (https://github.com/JananAli)
 - [Milad Mortezazada](https://github.com/Miladi11)
+- [Fabio Salern](https://github.com/fablepy)
