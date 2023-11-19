@@ -55,6 +55,7 @@
 - [Halle Vogelpohl] (https://github.com/hallegv)
 - [Sean]
 - [Sushmitha]
+- [Ankit Saini]
 - [Muhammet]
 - [VSelencov96] (https://github.com/VSelencov96)
 - [Cage] (https://github.com/TheV4Tican)
