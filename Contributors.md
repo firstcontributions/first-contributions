@@ -6,6 +6,7 @@
 - [Raj Singh Bhatia](https://github.com/rajsbhatia)
 - [Syed Dawood] (https://github.com/SyedDawood25)
 - [Hamza Khan] (https://github.com/hamzakhangithub)
+- [Toddy Duc] 
 - [Debasmita Sahoo](https://github.com/Sahoo-Debasmita)
 - [Satya Maddirala](https://github.com/SatyaMadd)
 - [dreamerstories](https://github.com/dreamerstories)
