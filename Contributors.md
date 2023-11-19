@@ -1890,6 +1890,7 @@ Mahmoud Mirghani
 - [Abhijeet Singh](https://github.com/Abhijeet709)
 - [Patrick Tomas](https://github.com/PatrickTomas2)
 - [piyush Dadgal](https://github.com/Piyush0618)
+- [Tonči Žižić](https://github.com/Zhichs)
 - [Emmanuel Davids](https://github.com/emmanueldavids)
 - [arshid bhat](https://github.com/bhatarshid)
 - [Muhammed Mifthah](https://github.com/Mifthah99)
