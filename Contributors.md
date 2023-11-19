@@ -4729,3 +4729,4 @@ Gauresh Rathi
 - [Fabio Salern](https://github.com/fablepy)
 - [Burak Güler](https://github.com/burakgguler)
 - [Michael](https://waveyboym.github.io/)
+-[Naif Wasel Alharthi](https://github.com/Naif-W-Alharthi)
