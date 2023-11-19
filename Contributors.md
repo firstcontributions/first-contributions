@@ -2,6 +2,7 @@
 # Contributors
   [Shobhit0109] (https://github.com/Shobhit0109)
 - [Lucas The God] (https://github.com/Lucas-PythonDev)
+- [Yusuf Kartal] (https://github.com/yAquila)
 - [Thein Htet Oo] (https://github.com/theinhtet00)
 - [CrisitoJ] (https://github.com/CrisitoJ)
 - [Raj Singh Bhatia](https://github.com/rajsbhatia)
