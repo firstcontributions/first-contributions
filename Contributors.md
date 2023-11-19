@@ -28,6 +28,7 @@
 - [Segun David Olasunkanmi](https://github.com/Segundavid-Dev)
 - [Hari Aravind ](https://github.com/HariAr2)
 - [Rich Kevan](https://github.com/richkevan)
+- [Alexandre Boungnarith](https://github.com/sirijiji)
 - [Ryan Beert](https://github.com/rbeert)
 - [Jianfeng Shao](https://github.com/JianfengShao)
 - [Booboo](http://github.com/fjsahflasj)
