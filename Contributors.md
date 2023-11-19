@@ -4550,6 +4550,7 @@ Akash Abraham
 - [Archit Kohli](https://github.com/Archit-Kohli)
 - [Rahul Vikram](https://github.com/rahulvikram)
 - [E-E-N](https://github.com/E-E-N)
+- [Alejandro Bergasa](https://github.com/alejandrobergasa)
 -[Aayush Kakkar](https://github.com/aayushkakkar26)
 -[Bglid][https://github.com/bglid]
 - [Alexis Camacho](https://github.com/ccdagreat)
