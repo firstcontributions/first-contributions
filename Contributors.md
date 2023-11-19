@@ -176,6 +176,7 @@
 - [johnnybinh](https://github.com/johnnybinh)
 - [Héctor Figuereo](https://github.com/hector535)
 - [Kaung-Myat-Kyaw](https://github.com/inhibitor255)
+  [Kaan Eren](https://github.com/heresyglitched)
 - [Rafi Ali](https://github.com/ralichow)
 - [Murathan Necat](https://github.com/mrthnnct)
 - [Mounik]()
