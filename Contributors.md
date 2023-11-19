@@ -6,6 +6,7 @@
 - [Thein Htet Oo] (https://github.com/theinhtet00)
 - [CrisitoJ] (https://github.com/CrisitoJ)
 - [Raj Singh Bhatia](https://github.com/rajsbhatia)
+- [Javier Arias Hernández](https://github.com/JavierAriasH)
 - [Syed Dawood] (https://github.com/SyedDawood25)
 - [Hamza Khan] (https://github.com/hamzakhangithub)
 - [Toddy Duc] 
@@ -25,7 +26,9 @@
 - [Mohammad Wasim Tikki](https://github.com/wasimtikki120)
 - [Abdul Nadeem](https://github.com/abdulnadeem5150)
 - [Segun David Olasunkanmi](https://github.com/Segundavid-Dev)
+- [Hari Aravind ](https://github.com/HariAr2)
 - [Rich Kevan](https://github.com/richkevan)
+- [Alexandre Boungnarith](https://github.com/sirijiji)
 - [Ryan Beert](https://github.com/rbeert)
 - [Jianfeng Shao](https://github.com/JianfengShao)
 - [Booboo](http://github.com/fjsahflasj)
@@ -57,6 +60,7 @@
 - [Halle Vogelpohl] (https://github.com/hallegv)
 - [Sean]
 - [Sushmitha]
+- [Nova Tasha] (https://github.com/thenovatasha)
 - [Ankit Saini]
 - [Muhammet]
 - [VSelencov96] (https://github.com/VSelencov96)
@@ -115,6 +119,7 @@
 -[Jessica-ovabor](https://github.com/Jessica-ovabor)
 - [Sam]
 - [Daniel Fraga](https://github.com/Danfraga33)
+- [jamin14](https://github.com/jamin14)
 - [Rehan Chalana](https://github.com/RehanChalana)
 - [Prajwal_S](https://github.com/Furrylath)
 - [Adeniji-Victor-Adeolu](https://github.com/deoluvictor99)
@@ -660,6 +665,7 @@ Brent L
 -[Sur](https://github.com/sureshp820)
 -[SAKSHI AYUSHMAN](https://github.com/babitarit)
 -[JAINISH PAREKH](https://github.com/JainishParekh)
+- [mootis](https://github.com/mootis)
 - [apowerfulmei](https://github.com/apowerfulmei)
 - [marshal](https://github.com/Marshalcoder123422)
 - [aayush0508](https://github.com/Aayushchauhan05)
@@ -3725,6 +3731,7 @@ Akash Abraham
 - [Zayn Muhammad](https://github.com/ZaynMuhammad)
 - [Enzo Moreno Baraldi](https://github.com/Enzo1603)
 - [Srilakshmi Ramesh](https://github.com/srilaks001)
+- [igi-s](https://github.com/igi-s)
 - [incalescence](https://github.com/incalescence)
 - [Guillermo Velázquez Falcone](https://github.com/guilleVF)
 - [SushiCharles](https://github.com/SushiCharles)
@@ -4706,6 +4713,7 @@ Gauresh Rathi
 - [Alessandro Di Turi] (https://github.com/alessandrodituri)
 - [Refat Jamil](https://github.com/RefatJamil)
 - [shihuangzhe] (https://github.com/shihuangzhe0011)
+- [Abel Tusubira](https://github.com/abeltusu2)
 - [Chiranjeevi S](https://github.com/chiru321123)
 - [jigs] (https://github.com/jfraser03)
 - [Andrick Siegmund] (http://github.com/Paulsig007)
@@ -4717,3 +4725,9 @@ Gauresh Rathi
 - [Sia Yuan] (https://github.com/Siayyy)
 - [Ganesh Saravanan] (https://github.com/ganeshmp01)
 - [Tokyo](https://github.com/TokyoNBD)
+- [Janan Ali] (https://github.com/JananAli)
+- [Milad Mortezazada](https://github.com/Miladi11)
+- [Fabio Salern](https://github.com/fablepy)
+- [Burak Güler](https://github.com/burakgguler)
+- [Michael](https://waveyboym.github.io/)
+
