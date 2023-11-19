@@ -117,6 +117,7 @@
 -[Jessica-ovabor](https://github.com/Jessica-ovabor)
 - [Sam]
 - [Daniel Fraga](https://github.com/Danfraga33)
+- [jamin14](https://github.com/jamin14)
 - [Rehan Chalana](https://github.com/RehanChalana)
 - [Prajwal_S](https://github.com/Furrylath)
 - [Adeniji-Victor-Adeolu](https://github.com/deoluvictor99)
