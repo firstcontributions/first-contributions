@@ -57,6 +57,7 @@
 - tstoiu17
 - [Mo aldeen](https://github.com/moaldeen)
 - [Arshdeep Singh](https://github.com/Aiyaret-Sandhu)
+- [Damon Romel](https://github.com/DamonRomel)
 - [Phalak Bhatnagar](https://github.com/phalakbh)
 - [Dung Giang](https://github.com/GiangDung)
 - [Chheany Mok](https://github.com/cmok4290)
