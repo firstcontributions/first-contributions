@@ -25,6 +25,7 @@
 - [Mohammad Wasim Tikki](https://github.com/wasimtikki120)
 - [Abdul Nadeem](https://github.com/abdulnadeem5150)
 - [Segun David Olasunkanmi](https://github.com/Segundavid-Dev)
+- [Hari Aravind ](https://github.com/HariAr2)
 - [Rich Kevan](https://github.com/richkevan)
 - [Ryan Beert](https://github.com/rbeert)
 - [Jianfeng Shao](https://github.com/JianfengShao)
