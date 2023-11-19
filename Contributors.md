@@ -2105,6 +2105,7 @@ Sino Felicity Zwane
 - [Lance Jericho Salcedo](https://github.com/jausalcedo)
 - [Carlos Tocino Cubelo](https://github.com/sharlibeicon)
 - [Madhur Aggarwal](https://github.com/MadhurAggarwal)
+- [Alfred Gabriel] (https://github.com/ajx17)
 - [Sumedh Bhat](https://github.com/SumedhBhat)
 - [Bhavini Rathod] (https://github.com/rb2001)
 - [Chyunjet] (https://github.com/Jetyun)
@@ -2400,6 +2401,7 @@ Sino Felicity Zwane
 - [steve3535](https://github.com/steve3535)
 - [ShivaPatel](https://github.com/Patelshiva000)
 - [Deepu](https://github.com/blackbeard002)
+
 - [Percival Aceron](https://github.com/perci-aceron)
 - [Aditya](https://github.com/adityasd314)
 - [Abbas](https://github.com/abbasfurniturewala)
