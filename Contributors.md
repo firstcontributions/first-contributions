@@ -10,6 +10,7 @@
 - [Renfu Li] (https://github.com/Renfu-Li)
 - [Debasmita Sahoo](https://github.com/Sahoo-Debasmita)
 - [Satya Maddirala](https://github.com/SatyaMadd)
+- [MehrzweckMandala](https://github.com/MehrzweckMandala)
 - [dreamerstories](https://github.com/dreamerstories)
 - [PythonBeing](https://github.com/PythonBeing)
 - [Prem Singh](https://github.com/PremChing)
