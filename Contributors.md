@@ -3330,6 +3330,7 @@ Nikhil R
 - [Monteiro H.](https://github.com/monteiroh)
 - [Choco Donut](https://github.com/chocodonut-c)
 - [Himanshu Tiwari](https://github.com/ozymandias9876)
+- alexdamir
 - [Monteiro H.](https://github.com/monteiroh)
 - [djfor5](https://github.com/djfor5)
 - [Guy Donagi](https://github.com/ImDonagi)
