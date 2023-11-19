@@ -6,6 +6,7 @@
 - [Thein Htet Oo] (https://github.com/theinhtet00)
 - [CrisitoJ] (https://github.com/CrisitoJ)
 - [Raj Singh Bhatia](https://github.com/rajsbhatia)
+- [Javier Arias Hernández](https://github.com/JavierAriasH)
 - [Syed Dawood] (https://github.com/SyedDawood25)
 - [Hamza Khan] (https://github.com/hamzakhangithub)
 - [Toddy Duc] 
