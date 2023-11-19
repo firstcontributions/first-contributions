@@ -58,6 +58,7 @@
 - [Halle Vogelpohl] (https://github.com/hallegv)
 - [Sean]
 - [Sushmitha]
+- [Nova Tasha] (https://github.com/thenovatasha)
 - [Ankit Saini]
 - [Muhammet]
 - [VSelencov96] (https://github.com/VSelencov96)
