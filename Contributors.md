@@ -76,6 +76,7 @@
 - [Hafsa Malik](https://github.com/HafsaMalikkk)
 - tstoiu17
 - [Mo aldeen](https://github.com/moaldeen)
+- [Ace Omega] (https://github.com/aceomega1991)
 - [Arshdeep Singh](https://github.com/Aiyaret-Sandhu)
 - [Damon Romel](https://github.com/DamonRomel)
 - [Phalak Bhatnagar](https://github.com/phalakbh)
