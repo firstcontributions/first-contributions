@@ -241,6 +241,7 @@ Brent L
 - [Monae Curbeam](https://github.com/curbeammonae)
 - [Joseph Steffin](https://github.com/steffinjoe)
 - [Oolazile](https://github.com/oolazile)
+- [Emir Velazquez](https://github.com/EmirVelazquez)
 - [Guido Carucci](https://github.com/guido-an)
 - [Khushi Kunwar](https://github.com/khushistar)
 - [Jason Silvis](https://github.com/JSilvis73)
