@@ -743,6 +743,7 @@ Brent L
 - [Adick Rincones] (https://github.com/AdickRincones133)
 - [Lakshay Joshi](https://github.com/lakshay451)
 - [Unnati Mishra] (https://github.com/unnati110302)
+- [Alex Jole] (https://github.com/alexjole)
 - [Shaharazon Thomas] (https://github.com/shaharazonkhrea)
 - [Sierra Bibi](https://github.com/sierraa)
 - [Siddharth](https://github.com/sidwar007)
