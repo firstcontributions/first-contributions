@@ -221,6 +221,7 @@
 Brent L
 - [Leonardo Vizeu](https://github.com/leovizeu)
 - [hzys]
+- [deep gawande]
 - [Collins Gichohi](https://github.com/gsnilloC)
 - [Lorenzo Donadio](https://github.com/lorenzodonadio)
 - [Amirmuerte](https://github.com/LionelZoc)
