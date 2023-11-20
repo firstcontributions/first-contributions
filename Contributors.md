@@ -4740,3 +4740,4 @@ Gauresh Rathi
 - [Michael](https://waveyboym.github.io/)
 -[Naif Wasel Alharthi](https://github.com/Naif-W-Alharthi)
 -[Sam Mobisa] (https://github.com/samsonmobisa)
+- [Fabio Sale] (https_//github.com/fablepy)
