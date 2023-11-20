@@ -32,6 +32,7 @@
 - [Hari Aravind ](https://github.com/HariAr2)
 - [Rich Kevan](https://github.com/richkevan)
 - [Alexandre Boungnarith](https://github.com/sirijiji)
+- [Harsh Mehta](https://github.com/HarzhMehta)
 - [Ryan Beert](https://github.com/rbeert)
 - [Jianfeng Shao](https://github.com/JianfengShao)
 - [Booboo](http://github.com/fjsahflasj)
