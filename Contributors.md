@@ -1,6 +1,7 @@
 ﻿
 # Contributors
-  [Shobhit0109] (https://github.com/Shobhit0109)
+- [oliverpearce] (https://github.com/oliverpearce)
+- [Shobhit0109] (https://github.com/Shobhit0109)
 - [Lucas The God] (https://github.com/Lucas-PythonDev)
 - [Yusuf Kartal] (https://github.com/yAquila)
 - [Thein Htet Oo] (https://github.com/theinhtet00)
