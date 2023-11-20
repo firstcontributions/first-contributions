@@ -2089,6 +2089,7 @@ Sino Felicity Zwane
 - [Mengde Wang](https://github.com/wangme88)
 - [Robert Vittozzi](http://github.com/rvittozzi)
 - [Lavanya Mishra](https://github.com/chessmadridista)
+- [Shabie Ul Hassan](https://github.com/shabie68)
 - [Himanshu Pal](https://github.com/Himanshupal0001)
 - [Manish Sahani](https://github.com/Manish-Scripts)
 - [Erik Vargas](https://github.com/erikAlberto)
