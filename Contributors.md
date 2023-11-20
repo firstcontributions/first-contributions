@@ -19,6 +19,7 @@
 - [Satya Maddirala](https://github.com/SatyaMadd)
 - [MehrzweckMandala](https://github.com/MehrzweckMandala)
 - [dreamerstories](https://github.com/dreamerstories)
+- [Tuckers15](https://github.com/tuckers15)
 - [PythonBeing](https://github.com/PythonBeing)
 - [Prem Singh](https://github.com/PremChing)
 - [Mark Richardson](https://github.com/markr155)
