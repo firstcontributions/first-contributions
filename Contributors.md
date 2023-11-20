@@ -32,6 +32,7 @@
 - [Abdul Nadeem](https://github.com/abdulnadeem5150)
 - [Segun David Olasunkanmi](https://github.com/Segundavid-Dev)
 - [Sandy]
+- [Deborah Balogun](https://github.com/Debby486)
 - [Kamran Zafar]
 - [Hari Aravind ](https://github.com/HariAr2)
 - [Rich Kevan](https://github.com/richkevan)
