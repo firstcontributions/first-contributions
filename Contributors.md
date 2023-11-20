@@ -4729,3 +4729,5 @@ Gauresh Rathi
 - [Fabio Salern](https://github.com/fablepy)
 - [Burak Güler](https://github.com/burakgguler)
 - [Michael](https://waveyboym.github.io/)
+- [Hassan Idris] (https://github.com/hassid4luv)
+
