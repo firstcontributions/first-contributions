@@ -2501,6 +2501,7 @@ Sino Felicity Zwane
 -[markneil]
 -[Rachel Bloy](https://github.com/rachelb456)
 - [Arpit Goswami](https://github.com/arpitgoswami)
+- [David Avalos](https://github.com/DAvalos36)
 - [Christopher Semler](https://github.com/SEM7AC)
 - [Parinas]
 - [Silvia]
