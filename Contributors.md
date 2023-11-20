@@ -330,6 +330,7 @@ Brent L
 - [Om Lokhande](https://github.com/Nincompup)
 - [Shashwat Verma](https://github.com/shasvt07)
 - [Pratik Aman](https://github.com/pratikaman)
+- [Suraj Khamkar](https://github.com/khamkarsuraj)
 - [mbinayak](https://github.com/mbinayak)
 - [vishakh ](https://github.com/vishakh-cs/first-contributions.git)
 - [G-O Jacobsson](https://github.com/G-jacobsson)
