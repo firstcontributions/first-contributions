@@ -4761,3 +4761,4 @@ Gauresh Rathi
 -[Sam Mobisa] (https://github.com/samsonmobisa)
 - [Fabio Sale] (https_//github.com/fablepy)
 - [Siddharth Malladi] (https://github.com/SidMalladi)
+- [Nick Paterson](https://github.com/NickPaterson)
