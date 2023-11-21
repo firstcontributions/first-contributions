@@ -938,6 +938,7 @@ harshal honde
 - [lattelya](https://github.com/lattelya)
 - [Hamza Rehan](https://github.com/HamzaRehan4)
 - [pyxelhaze](https://github.com/pyxelhaze)
+- [Koaestro](https://github.com/koaestro)
 - [Arvin Tamayosa](https://github.com/artamayosa)
 - [Trinity Pickersgill](https://github.com/TrinityPick)
 - [Devanshu Masodker](https://github.com/Devanshumasodker)
