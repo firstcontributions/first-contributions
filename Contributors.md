@@ -2071,6 +2071,7 @@ Sino Felicity Zwane
 - [Ini. Duff <CIDD />](https://github.com/duffygoogle)
 - Atharva Gaikwad
 - [Suhas B G](https://github.com/SuhasBG)
+- [David Vigh](https://github.com/dvigh8)
 - [Joshua Eyaru] (https://github.com/JoshuaEyaru)
 - [Biswanath Banik](https://github.com/bbanik)
 - [Vincent Cueva](https://github.com/VincentCueva)
