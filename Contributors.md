@@ -511,6 +511,7 @@ Brent L
 - [MasaJnnjn](https://github.com/masa-jnnjn)
 - [Rohan](https://github.com/RS-labhub)
 - [Ajay](https://github.com/ajaydatla)
+- [luchSary]
 - [Ebenezer Adeoye](https://github.com/ezerindeed)
 - [Anthony Heinrichs](https://github.com/AnthonyHeinrichs)
 - [Harsh](https://github.com/oharsh)
