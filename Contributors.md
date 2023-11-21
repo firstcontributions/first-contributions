@@ -71,6 +71,7 @@
 - [Sushmitha]
 - [Nova Tasha] (https://github.com/thenovatasha)
 - [Ankit Saini]
+- [Keerat Singh Bagga]
 - [Muhammet]
 - [VSelencov96] (https://github.com/VSelencov96)
 - [Cage] (https://github.com/TheV4Tican)
