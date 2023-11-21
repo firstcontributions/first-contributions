@@ -4768,3 +4768,4 @@ Gauresh Rathi
 - [Fabio Sale] (https_//github.com/fablepy)
 - [Siddharth Malladi] (https://github.com/SidMalladi)
 - [Nick Paterson](https://github.com/NickPaterson)
+- [Denis AKPAGNONITE](https://github.com/denisakp)
