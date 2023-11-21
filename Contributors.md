@@ -4789,5 +4789,7 @@ Gauresh Rathi
 - [Faith Mucheru](https://github.com/KariMucheru)
 - [Fakesoftpillow]
 - [24x7 Geeks Sollutions Adharsh] (https://github.com/adhasrh)
+- [Pedro Lourenco] (https://github.com/pedro123456789-wq)
 [Sebastian Budyński](https://github.com/SebBudynski)
 [operator void](https://github.com/sachinchakravarthy)
+
