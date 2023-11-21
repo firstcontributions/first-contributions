@@ -127,6 +127,7 @@
 - [Ricky Barfield](https://github.com/flbarfield)
 - [Ankit Goyal](https://github.com/goyalankit47)
 - [Katie Sayers](https://github.com/saykate)
+- [Krishna Chaitanya Devunoori](https://github.com/KrishnaChaitanya20)
 - [Andreea L](https://github.com/andreeaThePenguin)
 - [Rendi Virgantara Setiawan](https://github.com/rendi12345678)
 - [Muto](https://github.com/Mutotu)
