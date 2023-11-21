@@ -45,6 +45,7 @@
 - [Lin Thit](https://github.com/LinThit27)
 - [Thuta](http://github.com/thutashein)
 - [Abdiel Wilson](https://github.com/Wilsonabdiel)
+- [Dayo Orunsolu](https://github.com/ORUNSOLU)
 - [Akshay Patel](https://github.com/akshaypatel774)
 - [MD Shakib Ahmed](https://github.com/mdshakib007)
 - [sourabh sivare](https://github.com/pseudoSOURABH)
