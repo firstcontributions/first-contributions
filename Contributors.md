@@ -4774,3 +4774,5 @@ Gauresh Rathi
 - [Siddharth Malladi] (https://github.com/SidMalladi)
 - [Nick Paterson](https://github.com/NickPaterson)
 - [Denis AKPAGNONITE](https://github.com/denisakp)
+- [Faith Mucheru](https://github.com/KariMucheru)
+- 
