@@ -284,6 +284,7 @@ Brent L
 - [DezS](https://github.com/DezS4125)
 - [Tom](https://github.com/TMulekezi)
 - [Olusegun Omotunde](https://github.com/omotuno)
+- [Yeji Cho] (https://github.com/cyeji)
 - [Nur Farah](https://github.com/Nur-farah)
 - [Shrey Jain](https://github.com/Shrey943)
 - [Irfan Alvi](https://github.com/irfanalvi67)
