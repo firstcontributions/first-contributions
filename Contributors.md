@@ -9,6 +9,7 @@
 - [Thein Htet Oo] (https://github.com/theinhtet00)
 - [CrisitoJ] (https://github.com/CrisitoJ)
 - [Nabin Chandra Maiti] (https://github.com/nabin3)
+- [Hamza Haji] (https://github.com/hamzambo)
 - [Raj Singh Bhatia](https://github.com/rajsbhatia)
 - [Hunter Saine] (https://github.com/HunterSaine)
 - [Javier Arias Hernández](https://github.com/JavierAriasH)
