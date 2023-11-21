@@ -4674,6 +4674,7 @@ Gauresh Rathi
 - [Srushti Rane] (https://github.com/srushti-712)
 - [John Henry Joromat](https://github.com/jhnhnryjrmt)
 - [Jacky Sio](https://github.com/jackysioo)
+- [Matt Jones](https://github.com/mpjones1)
 - [Helen Oridupa] (https://github.com/temlena)
 - [Akshat Yadav] (https://github.com/Akshat1202)
 - [Vinh Do] (https://github.com/VinhTDo)
