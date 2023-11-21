@@ -48,6 +48,7 @@
 - [Alexandre Boungnarith](https://github.com/sirijiji)
 - [Harsh Mehta](https://github.com/HarzhMehta)
 - [Ryan Beert](https://github.com/rbeert)
+- [Shashwat Tripathi](https://github.com/Mystery-Shashwat)
 - [Jianfeng Shao](https://github.com/JianfengShao)
 - [Booboo](http://github.com/fjsahflasj)
 - [Lin Thit](https://github.com/LinThit27)
