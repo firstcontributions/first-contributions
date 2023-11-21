@@ -8,6 +8,7 @@
 - [Yusuf Kartal] (https://github.com/yAquila)
 - [Thein Htet Oo] (https://github.com/theinhtet00)
 - [CrisitoJ] (https://github.com/CrisitoJ)
+- [Nabin Chandra Maiti] (https://github.com/nabin3)
 - [Raj Singh Bhatia](https://github.com/rajsbhatia)
 - [Hunter Saine] (https://github.com/HunterSaine)
 - [Javier Arias Hernández](https://github.com/JavierAriasH)
