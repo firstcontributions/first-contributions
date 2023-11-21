@@ -5,6 +5,7 @@
 - [oliverpearce] (https://github.com/oliverpearce)
 - [Shobhit0109] (https://github.com/Shobhit0109)
 - [Masterjosh] (https://github.com/Masterjosh3107)
+- [Mark Briscoe] (https://github.com/mbriscoe)
 - [Lucas The God] (https://github.com/Lucas-PythonDev)
 - [Yusuf Kartal] (https://github.com/yAquila)
 - [Thein Htet Oo] (https://github.com/theinhtet00)
