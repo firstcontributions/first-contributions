@@ -35,6 +35,7 @@
 - [Deborah Balogun](https://github.com/Debby486)
 - [Kamran Zafar]
 - [Hari Aravind ](https://github.com/HariAr2)
+- [Motlatsi Moea](https://github.com/motlatsimoea)
 - [Rich Kevan](https://github.com/richkevan)
 - [Alexandre Boungnarith](https://github.com/sirijiji)
 - [Harsh Mehta](https://github.com/HarzhMehta)
