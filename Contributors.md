@@ -2,6 +2,7 @@
 # Contributors
 - [Muhammad Ahsan Muneer](https://github.com/ahsanmunyr)
 - [Bhatri-Narayanan-SR](https://github.com/Bhatri-Narayanan-SR)
+- [PushoDev](https://github.com/PushoDev)
 - [oliverpearce] (https://github.com/oliverpearce)
 - [Shobhit0109] (https://github.com/Shobhit0109)
 - [Masterjosh] (https://github.com/Masterjosh3107)
