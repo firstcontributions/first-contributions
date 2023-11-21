@@ -45,8 +45,8 @@ If you're making changes to a translation, please request a review from our prev
 | ಕನ್ನಡ | [Kannada](../translations/README.ka.md) | []() |
 | 한국어 | [Korean](../translations/README.ko.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/2732120?s=460&v=4" alt="@espozbob" />](https://github.com/espozbob) |
 | Kiswahili | [Kiswahili](../translations/README.ksw.md) |[<img width="100" src="https://avatars.githubusercontent.com/u/36197725?v=4" alt="@zecollokaris" />](https://github.com/zecollokaris)  []() |
-| Kazakh | [Kazakh](../translations/README.kz.md) | [<img width="100" src="https://avatars3.githubusercontent.com/u/12928246?s=460&v=4" alt="@kurshakuz" />](https://github.com/kurshakuz) |
-| Lietuvių kalba | [Lithuanian](../translations/README.lt.md) | [<img width="100" src="https://avatars1.githubusercontent.com/u/9092712?s=460&v=4" alt="@neone35" />](https://github.com/neone35) |
+| Kazakh | [Kazakh](../translations/README.kz.md) | [<img width="100" src="https://avatars3.githubusercontent.com/u/12928246?s=460&v=4" alt="@kurshakuz" />](https://github.com/kurshakuz) | patmccue | [English] | (https://github.com/PatMcCue)
+| Lietuvių kalba | [Lithuanian](../translations/README.lt.md) | [<img width="100" src="https://avatars1.githubusercontent.com/u/9092712?s=460&v=4" alt="@neone35" />](https://github.com/neone35) | 
 | Latviešu valoda | [Latvian](../translations/README.lv.md) | []() |
 |  | [me](../translations/README.me.md) | [<img width="100" src="https://avatars1.githubusercontent.com/u/9092712?s=460&v=4" alt="@neone35">]() |
 | Македонски | [Macedonian](../translations/README.mk.md) | []() |
