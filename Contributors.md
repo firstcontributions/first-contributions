@@ -4,6 +4,7 @@
 - [Michael Adebayo](https://github.com/MichaelAdebayo)
 - [Bhatri-Narayanan-SR](https://github.com/Bhatri-Narayanan-SR)
 - [LordY]
+- [Ivan Zhulin](https://github.com/IvanSonVovki)
 - [ZHANG]
 - [oliverpearce] (https://github.com/oliverpearce)
 - [Shobhit0109] (https://github.com/Shobhit0109) 
