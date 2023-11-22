@@ -51,6 +51,7 @@
 - [Sandy]
 - [Glenn Tedd Onyango](https://github.com/GlennOnyango)
 - [Deborah Balogun](https://github.com/Debby486)
+- [TheSozzz](https://github.com/TheSozzz)
 - [Kamran Zafar]
 - [Hari Aravind ](https://github.com/HariAr2)
 - [Motlatsi Moea](https://github.com/motlatsimoea)
