@@ -16,6 +16,7 @@
 - [Hamza Haji] (https://github.com/hamzambo)
 - [Raj Singh Bhatia](https://github.com/rajsbhatia)
 - [Hunter Saine] (https://github.com/HunterSaine)
+- [Vaishvik Satyam] (https://github.com/Vaishvik-Satyam)
 - [Javier Arias Hernández](https://github.com/JavierAriasH)
 - [Syed Dawood] (https://github.com/SyedDawood25)
 - [Hamza Khan] (https://github.com/hamzakhangithub)
