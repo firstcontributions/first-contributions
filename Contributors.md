@@ -4630,6 +4630,7 @@ Akash Abraham
 - [Frosmin](https://github.com/Frosmin)
 - [yiong](https://github.com/gin280)
 - [Dedphish](https://github.com/Dedphish)
+-[satishReddy](https://github.com/satishReddykalli)
 -[Priyanshu Prajapati](https://github.com/PentesterPriyanshu)
 - [Wan Adam]  (https://github.com/c0rdial)
 - [Daniel Flores](https://github.com/Daniel-Flores-Web)
