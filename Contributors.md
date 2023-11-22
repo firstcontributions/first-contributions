@@ -1334,6 +1334,7 @@ aj
 - [Jervin Alejandro](https://github.com/JervinAlejandro)
 - [TheBlessing33](https://github.com/theblessing33)
 - [Fixito](https://github.com/Fixito)
+- [MoElazhari](https://github.com/moelazhari)
 - [Rohit Kumar Srivastava](https://github.com/rohitsrivastava2000)
 - [Sujal Bhor](https://github.com/bhorsujal)
 - [Kshitij Aucharmal](https://github.com/kshitijaucharmal)
