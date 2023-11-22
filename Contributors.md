@@ -45,6 +45,7 @@
 - [Nick Cully](https://github.com/rphscullyni21)
 - [Mohammad Wasim Tikki](https://github.com/wasimtikki120)
 - [Abdul Nadeem](https://github.com/abdulnadeem5150)
+- [Sai Tejasri Yerramsetti](https://github.com/saitejasri1)
 - [Segun David Olasunkanmi](https://github.com/Segundavid-Dev)
 - [Sandy]
 - [Glenn Tedd Onyango](https://github.com/GlennOnyango)
