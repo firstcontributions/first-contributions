@@ -26,6 +26,7 @@
 - [Axton Smith] (https://github.com/AxtonS)
 - [Satya Maddirala](https://github.com/SatyaMadd)
 - [MehrzweckMandala](https://github.com/MehrzweckMandala)
+- [Shubham Talan](https://github.com/shubhamtalan996)
 - [dreamerstories](https://github.com/dreamerstories)
 - [srihar5ha](https://github.com/srihar5ha)
 - [Tuckers15](https://github.com/tuckers15)
