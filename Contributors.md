@@ -4782,6 +4782,7 @@ Gauresh Rathi
 - [Joshua Davis](https://github.com/10xJosh)
 - [Sia Yuan] (https://github.com/Siayyy)
 - [Arvind_Suthar] (https://github.com/ArvindSuthar007)
+- [Lucky_Setia] (https://github.com/LuckySetia007) 
 - [Ganesh Saravanan] (https://github.com/ganeshmp01)
 - [Tokyo](https://github.com/TokyoNBD)
 - [Janan Ali] (https://github.com/JananAli)
