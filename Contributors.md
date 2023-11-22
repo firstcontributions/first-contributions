@@ -1,5 +1,6 @@
 
 # Contributors
+- [Bekpolat Aydarbaev](https://github.com/Bekforever13)
 - [Muhammad Ahsan Muneer](https://github.com/ahsanmunyr)
 - [Michael Adebayo](https://github.com/MichaelAdebayo)
 - [Bhatri-Narayanan-SR](https://github.com/Bhatri-Narayanan-SR)
