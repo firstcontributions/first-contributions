@@ -1,6 +1,7 @@
 # Contributors
 
 !-- prettier-ignore-start -->
+- [Abdul Lathif Shaik](https://github.com/lathifshaik)
 
 - [Walter Goad](https://github.com/Goadlife1)
 - [David Alexander](https://github.com/ogiorgil)
