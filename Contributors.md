@@ -27,6 +27,7 @@
 - [Satya Maddirala](https://github.com/SatyaMadd)
 - [MehrzweckMandala](https://github.com/MehrzweckMandala)
 - [dreamerstories](https://github.com/dreamerstories)
+- [srihar5ha](https://github.com/srihar5ha)
 - [Tuckers15](https://github.com/tuckers15)
 - [PythonBeing](https://github.com/PythonBeing)
 - [Prem Singh](https://github.com/PremChing)
