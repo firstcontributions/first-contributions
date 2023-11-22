@@ -2456,7 +2456,7 @@ Sino Felicity Zwane
 - [steve3535](https://github.com/steve3535)
 - [ShivaPatel](https://github.com/Patelshiva000)
 - [Deepu](https://github.com/blackbeard002)
-
+- [Moreno Seijsener](https://github.com/Milagro2)
 - [Percival Aceron](https://github.com/perci-aceron)
 - [Aditya](https://github.com/adityasd314)
 - [Abbas](https://github.com/abbasfurniturewala)
@@ -4777,8 +4777,8 @@ Gauresh Rathi
 - [Fabio Salern](https://github.com/fablepy)
 - [Burak Güler](https://github.com/burakgguler)
 - [Michael](https://waveyboym.github.io/)
--[Naif Wasel Alharthi](https://github.com/Naif-W-Alharthi)
--[Sam Mobisa] (https://github.com/samsonmobisa)
+- [Naif Wasel Alharthi](https://github.com/Naif-W-Alharthi)
+- [Sam Mobisa] (https://github.com/samsonmobisa)
 - [Fabio Sale] (https_//github.com/fablepy)
 - [Siddharth Malladi] (https://github.com/SidMalladi)
 - [Nick Paterson](https://github.com/NickPaterson)
@@ -4786,4 +4786,4 @@ Gauresh Rathi
 - [Faith Mucheru](https://github.com/KariMucheru)
 - [Fakesoftpillow]
 - [24x7 Geeks Sollutions Adharsh] (https://github.com/adhasrh)
-[Sebastian Budyński](https://github.com/SebBudynski)
+- [Sebastian Budyński](https://github.com/SebBudynski)
