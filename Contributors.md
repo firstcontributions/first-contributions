@@ -4138,6 +4138,7 @@ Akash Abraham
 - [Xamss](https://github.com/Xamss)
 - [ganximi](https://github.com/ganximi)
 - [Gabriele-Dotcom](https://github.com/Gabriele-Dotcom)
+- [Kent Howell](https://github.com/khowellmobile)
 - [Marius Užemeckas](https://github.com/39015745)
 - [OmegaDL2](https://github.com/OmegaDL2)
 - [Popperda](https://github.com/popperda/)
