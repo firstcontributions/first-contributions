@@ -715,6 +715,7 @@ Brent L
 - [Agunbiade-Sulaimon Hamed](https://github.com/curiousinnovator)
 - [Sur](https://github.com/sureshp820)
 - [Indraneel Artham](https://github.com/IndraneelArtham)
+- [Dant Villalon](https://github.com/damndalandan)
 - [aayush0506](https://github.com/aayush-506)
 - [Poulav Bhowmick](https://github.com/PoulavBhowmick03)
 - [Paweł Jur](https://github.com/paweljur)
