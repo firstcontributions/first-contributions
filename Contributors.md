@@ -133,6 +133,7 @@
 - [Thomas Gasangwa](https://github.com/gasangw)
 - [Hakim Amarouche](https://github.com/hakimamarouche)
 - [Shehan Reshin](https://github.com/shehanreshin)
+- [Matias Gomez](https://github.com/matigomez97)
 - [Isaac Shah] (https://github.com/isaacshah33)
 - [Vanessa Linus] (https://github.com/msveelin)
 - [Ricky Barfield](https://github.com/flbarfield)
