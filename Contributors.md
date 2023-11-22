@@ -3,6 +3,7 @@
 - [Muhammad Ahsan Muneer](https://github.com/ahsanmunyr)
 - [Michael Adebayo](https://github.com/MichaelAdebayo)
 - [Bhatri-Narayanan-SR](https://github.com/Bhatri-Narayanan-SR)
+- [LordY]
 - [oliverpearce] (https://github.com/oliverpearce)
 - [Shobhit0109] (https://github.com/Shobhit0109) 
 - [Masterjosh] (https://github.com/Masterjosh3107)
