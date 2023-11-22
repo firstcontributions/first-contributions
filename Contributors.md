@@ -4694,6 +4694,7 @@ Gauresh Rathi
 - [Tonio Gi](https://github.com/Tony-Gio)
 - [Jeanpier Mendoza](https://github.com/jeanpierm)
 - [Xinlei Feng](https://github.com/xinleif666)
+- [Daniel Anderson] (https://github.com/DanielAndersonfl)
 - [Junhee Kang](https://github.com/cmilk18)
 - [Monica Santos] (https://github.com/msophiasantos)
 - [Lianne Deng](https://github.com/erath-rise)
