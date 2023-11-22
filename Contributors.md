@@ -62,7 +62,7 @@
 - [Peace Alawode](https://github.com/Code-PeaceA)
 - [Angela Fisher](https://github.com/angelajfisher)
 - [Abhiyanshu ](https://github.com/abhiyanshuthefighter)
-
+- [Gustavo Araujo] (https://github.com/gustavoaraujo07)
 - [Patrick Seitz](https://github.com/pat8901)
 - [Ahnaf Tahmid Zaman](https://github.com/AHNAF14924)
 - [Noya David](https://github.com/Sanober494u)
