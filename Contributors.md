@@ -1,7 +1,7 @@
 ﻿
 # Contributors
 - [Bekpolat Aydarbaev](https://github.com/Bekforever13)
-- [zhoda-lii][2]
+- [zhoda-lii]
 - [Muhammad Ahsan Muneer](https://github.com/ahsanmunyr)
 - [Michael Adebayo](https://github.com/MichaelAdebayo)
 - [Bhatri-Narayanan-SR](https://github.com/Bhatri-Narayanan-SR)
@@ -4816,4 +4816,5 @@ Gauresh Rathi
 - [Naman Sharma] (https://github.com/Naman02Sharma07)
 - [thorbjoernl](https://github.com/thorbjoernl)
 - [Jeremias Barrios](https://github.com/jerebaher)
+- [zdl](https://github.com/zhoda-lii)
 - [Dmitry Levitsky](https://github.com/levitskydv)
