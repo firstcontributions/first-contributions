@@ -4840,3 +4840,4 @@ Gauresh Rathi
 - [zdl](https://github.com/zhoda-lii)
 - [Phanendhar Reddy Kusuma](https://github.com/phanendharreddy)
 - [johnnymayodev](https://github.com/johnnymayodev)
+- [James Smith](https://github.com/jamessmith)
