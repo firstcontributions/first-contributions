@@ -106,6 +106,7 @@
 - [Hafsa Malik](https://github.com/HafsaMalikkk)
 - tstoiu17
 - [Mo aldeen](https://github.com/moaldeen)
+- [Aditya Narayan](https://github.com/adityanarayanp)
 - [Ace Omega] (https://github.com/aceomega1991)
 - [Arshdeep Singh](https://github.com/Aiyaret-Sandhu)
 - [Damon Romel](https://github.com/DamonRomel)
