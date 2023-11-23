@@ -56,6 +56,7 @@
 - [TheSozzz](https://github.com/TheSozzz)
 - [Kamran Zafar]
 - [Hari Aravind ](https://github.com/HariAr2)
+- [Nath Hiccup](https://github.com/Nath-Hiccup)
 - [Motlatsi Moea](https://github.com/motlatsimoea)
 - [Rich Kevan](https://github.com/richkevan)
 - [Alexandre Boungnarith](https://github.com/sirijiji)
