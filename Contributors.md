@@ -1,5 +1,6 @@
 ﻿
 # Contributors
+- [Tejas Dixit] (https://github.com/pandatd)
 - [Bekpolat Aydarbaev](https://github.com/Bekforever13)
 - [PushoDev](https://github.com/PushoDev)
 - [zhoda-lii]
