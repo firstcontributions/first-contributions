@@ -24,6 +24,7 @@
 - [CrisitoJ] (https://github.com/CrisitoJ)
 - [Nabin Chandra Maiti] (https://github.com/nabin3)
 - [Hamza Haji] (https://github.com/hamzambo)
+- [Emmanuel Torty] (https://github.com/tengine8000)
 - [Raj Singh Bhatia](https://github.com/rajsbhatia)
 - [Hunter Saine] (https://github.com/HunterSaine)
 - [Javier Arias Hernández](https://github.com/JavierAriasH)
