@@ -930,6 +930,7 @@ harshal honde
 - [Moksh Agrawal](https://github.com/Moksh-10)
 - [Pallav Rathod](https://github.com/Pallav277)
 - [Izuchukwu Obi](https://github.com/izustic)
+- [Osemeka Molokwu] (https://github.com/OsemekaM7)
 - [Adekoya Ireoluwatomiwa](https://github.com/koyaboy)
 - [Oyindamola Kushimo] (https://github.com/oyindamolaWbCode)
 - [Raiyaan Khan](https://github.com/raiyaan555)
