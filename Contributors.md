@@ -1,6 +1,5 @@
 ﻿
 # Contributors
-- [Kiran K L](https://github.com/kalkir)
 - [Bekpolat Aydarbaev](https://github.com/Bekforever13)
 - [PushoDev](https://github.com/PushoDev)
 - [zhoda-lii]
@@ -37,6 +36,7 @@
 - [MehrzweckMandala](https://github.com/MehrzweckMandala)
 - [Shubham Talan](https://github.com/shubhamtalan996)
 - [dreamerstories](https://github.com/dreamerstories)
+- [Kiran K L](https://github.com/kalkir)
 - [srihar5ha](https://github.com/srihar5ha)
 - [Tuckers15](https://github.com/tuckers15)
 - [PythonBeing](https://github.com/PythonBeing)
