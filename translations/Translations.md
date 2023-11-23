@@ -74,4 +74,4 @@
 | <img alt="ພາສາລາວ" title="ພາສາລາວ" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/la.svg" width="22">                                                                                                                                                 | [ພາສາລາວ](README.la.md)                                                   |
 | <img title="Af-soomaali" alt="Somalia" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/so.svg" width="22">                                                                                                                                             | [Af-soomaali](README.so.md)                                               |
 
-| <img alt="հայերեն" title="հայերեն" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/am.svg" width="22"> | [հայերեն](README.arm.md) |
+| <img alt="հայերեն" title="հայերեն" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/am.svg" width="22"> | [հայերեն](README.arm.md)
