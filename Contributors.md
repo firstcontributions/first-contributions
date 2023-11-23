@@ -176,6 +176,7 @@
 - [Mohammed Islam]
 - [Tristin Smith](https://github.com/trisilver25)
 - [qubitmateo](https://github.com/qubitmateo)
+- [Mohamed](https://github.com/mofareed-97)
 - [SilentStorm2k](https://github.com/SilentStorm2k)
 - [WagTeoo](https://github.com/MQuang200)
 - [Devanshi Jain] (https://github.com/devanshi-jain)
