@@ -647,6 +647,7 @@ Brent L
 - [Prateek Narsinghani](https://github.com/prateek-narsinghani)
 - eifhijef
 -[shiasin](https://github.com/shiasin)
+-[Nabaraj Subedi](https://github.com/subedinab)
 - [Khushminder Singh](https://github.com/khushminder270)
 - [Rd Patel](https://github.com/hector756)
 - [Shahbaz Raza](https://github.com/shahbaz9221)
