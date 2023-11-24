@@ -2,11 +2,7 @@
 # Contributors
 - [Tarek Nabil] (https://github.com/TarekNabil)
 - [AbdulSamad] (https://github.com/abdulsamad2/)
-- [Tejas Dixit] (https://github.com/pandatd)
-- [Bekpolat Aydarbaev](https://github.com/Bekforever13)
-- [PushoDev](https://github.com/PushoDev)
-- [Mohamad Hassan Free Palestine](https://github.com/talentedee)
-- [zhoda-lii]
+- [Samkelo Chamane] (https://github.com/samkelo-chamane)
 - [Muhammad Ahsan Muneer](https://github.com/ahsanmunyr)
 - [Michael Adebayo](https://github.com/MichaelAdebayo)
 - [Bhatri-Narayanan-SR](https://github.com/Bhatri-Narayanan-SR)
