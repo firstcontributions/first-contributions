@@ -2110,6 +2110,7 @@ Sino Felicity Zwane
 - [Eitan Schwartz] (https://github.com/eitan07)
 - [sudeepbm](https://github.com/sudeepbm)
 - [Tommy](https://github.com/tommypurcell)
+- [Alan Garcia] (https://github.com/alangvazq)
 - [Vipul Kumar](https://github.com/vipulkumar49)
 - [Babistone Mumba ](https://github.com/BabiMumba)
 - [Aman Dingwani](https://github.com/amandingwani)
