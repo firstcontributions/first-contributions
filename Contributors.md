@@ -1,5 +1,6 @@
 
 # Contributors
+- [6HIIIG9] (http://github.com/6OmpH9)
 - [Tarek Nabil] (https://github.com/TarekNabil)
 - [AbdulSamad] (https://github.com/abdulsamad2/)
 - [Tejas Dixit] (https://github.com/pandatd)
@@ -1075,6 +1076,7 @@ harshal honde
 - [Ajay Gonepuri](https://github.com/HKABIG)
 - [Gilbert Okonjo] (https://github.com/OpondoG)
 - [Ahmad Maqbool](https://github.com/amaamir124)
+- [Indrajeet Mishra](https://github.com/thecoddiwompler)
 - [Sonia Stine](https://github.com/ss987)
 - [Adeola Idowu](https://github.com/adeolaidowu)
 - [elijah mutune](https://github.com/ElijahMutune)
@@ -4860,3 +4862,4 @@ Gauresh Rathi
 - [Meursault](https://github.com/iMeursault)
 - [Gill] (https://github.com/gutieYpong)
 - [Jason](https://github.com/cardze)
+- [Bartek Halubiec](https://github.com/bartek98205)
