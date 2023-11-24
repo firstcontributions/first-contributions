@@ -73,6 +73,7 @@
 - [TheSozzz](https://github.com/TheSozzz)
 - [Kamran Zafar]
 - [Hari Aravind ](https://github.com/HariAr2)
+- [Auron Vila](https://github.com/auronvila)
 - [Nath Hiccup](https://github.com/Nath-Hiccup)
 - [Motlatsi Moea](https://github.com/motlatsimoea)
 - [Rich Kevan](https://github.com/richkevan)
