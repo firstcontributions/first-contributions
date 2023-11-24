@@ -4851,3 +4851,4 @@ Gauresh Rathi
 - [James Smith](https://github.com/jamessmith)
 - [Viktor Flammenzunge](https://github.com/DaDeceptive0ne)
 - [Subramonian Inian](https://github.com/SubramonianInian)
+- [Meursault](https://github.com/iMeursault)
