@@ -996,6 +996,7 @@ harshal honde
 - [Trinity Pickersgill](https://github.com/TrinityPick)
 - [Devanshu Masodker](https://github.com/Devanshumasodker)
 - [GONAPCORP](https://github.com/HKABIG)
+- [Brigita Bizjak](https://github.com/brigitabi)
 - [Vikas Gadge](https://github.com/vikasgadge28)
 - [Kshitij Tiwari](https://github.com/LightSync24)
 - [Nicholas Gregg](https://github.com/asdfng)
