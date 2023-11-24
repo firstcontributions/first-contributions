@@ -4859,3 +4859,4 @@ Gauresh Rathi
 - [Meursault](https://github.com/iMeursault)
 - [Gill] (https://github.com/gutieYpong)
 - [Jason](https://github.com/cardze)
+- [Bartek Halubiec](https://github.com/bartek98205)
