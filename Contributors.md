@@ -8,6 +8,7 @@
 - [Michael Adebayo](https://github.com/MichaelAdebayo)
 - [Bhatri-Narayanan-SR](https://github.com/Bhatri-Narayanan-SR)
 - [LordY]
+- [Halim Lee] (https://github.com/WillHalimLee)
 - [ZHANG]
 - [Ndifoin Hilary](https://gitub.com/Ndifoinhilary)
 - [enmanuelbayen] (https://github.com/enmanuelbayen)
