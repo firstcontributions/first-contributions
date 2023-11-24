@@ -97,6 +97,7 @@
 - [Devora Ger](https://github.com/Devora-Ger)
 - [Elvira Ivanova](https://github.com/elviraIv)
 - [Antonella Di Stefano] (https://github.com/antodis79)
+- [Khasim M]("https://github.com/kkhasim/")
 - [Ciberdcuk] (https://github.com/gerosantacruz)
 - [Thawzin] (https://github.com/Thawzin229)
 - [Gabriel] (https://github.com/gabriel2443)
