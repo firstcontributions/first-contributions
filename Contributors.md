@@ -2259,6 +2259,7 @@ Sino Felicity Zwane
 - [Kane Le](https://github.com/kanelv)
 - [Rohan Kanti] (https://github.com/rohank36)
 - [Frederick] (https://github.com/fredsn0tDead)
+- [King Maxilla] (https://github.com/KingMaxilla)
 - [Mark Bloomfield] (https://github.com/mjbloomfield)
 - [Gustavo Passarella] (https://github.com/Gunnar50)
 - [Matthew De Vera] (https://github.com/Matmat01-droid)
