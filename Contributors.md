@@ -12,6 +12,8 @@
 - [PushoDev](https://github.com/PushoDev)
 - [Mohamad Hassan Free Palestine](https://github.com/talentedee)
 - [Veeraja Veeraesh](https://github.com/Veeraja-Veeraesh)
+
+- [Abhishek Mishra](https://github.com/AbhiMisRaw)
 - [zhoda-lii]
 - [Muhammad Ahsan Muneer](https://github.com/ahsanmunyr)
 - [Michael Adebayo](https://github.com/MichaelAdebayo)
