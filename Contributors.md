@@ -37,6 +37,7 @@
 - [Emmanuel Torty] (https://github.com/tengine8000)
 - [Raj Singh Bhatia](https://github.com/rajsbhatia)
 - [Hunter Saine] (https://github.com/HunterSaine)
+- [Uwimana Lowami](https://github.com/Sonlowami)
 - [Javier Arias Hernández](https://github.com/JavierAriasH)
 - [Syed Dawood] (https://github.com/SyedDawood25)
 - [Hamza Khan] (https://github.com/hamzakhangithub)
