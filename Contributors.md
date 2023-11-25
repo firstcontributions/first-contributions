@@ -51,6 +51,7 @@
 - [Dalibor Babic](https://github.com/laddeeth)
 - [Aung Soe Moe] (https://github.com/AungSoeMoe17)
 - [Renfu Li] (https://github.com/Renfu-Li)
+- [Mohit Sharma] (https://github.com/Mohit-s97)
 - [Hesam] (https://github.com/hesamshayegan)
 - [Sehan De Silva] (https://github.com/absdesilva)
 - [Debasmita Sahoo](https://github.com/Sahoo-Debasmita)
