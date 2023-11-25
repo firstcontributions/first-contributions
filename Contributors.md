@@ -28,6 +28,7 @@
 - [Masterjosh] (https://github.com/Masterjosh3107)
 - [Mark Briscoe] (https://github.com/mbriscoe)
 - [Lucas The God] (https://github.com/Lucas-PythonDev)
+- [Muhammad Amirul] (https://github.com/muhammad-amirul98)
 - [Yusuf Kartal] (https://github.com/yAquila)
 - [Thein Htet Oo] (https://github.com/theinhtet00)
 - [Sharath chandran] (https://github.com/k00sharath)
