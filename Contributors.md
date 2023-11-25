@@ -2674,6 +2674,7 @@ Nikhil R
 - [Val Schuman](https://github.com/rand0mbits)
 - [Khoa Nguyen](https://github.com/AnhKhoaNG)
 - [Maxwell Kambona](https://github.com/camus60)
+- [3WokRide](https://github.com/3WokRide)
 - [ahmedhgabr](https://github.com/ahmedhgabr)
 - [Michael Stauber]((https://github.com/michaelstau)
 - [Niroshan Sandeepa](https://github.com/niroshansandeepa)
