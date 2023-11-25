@@ -30,6 +30,7 @@
 - [Mohamed Hamed] (https://github.com/mohameddhamed/)
 - [oliverpearce] (https://github.com/oliverpearce)
 - [HazemAlrawi](https://github.com/HazemRawi)
+- [Sonny Ulysse](https://github.com/SonnyGU)
 - [Shobhit0109] (https://github.com/Shobhit0109) 
 - [Masterjosh] (https://github.com/Masterjosh3107)
 - [Mark Briscoe] (https://github.com/mbriscoe)
