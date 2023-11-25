@@ -20,6 +20,7 @@
 - [LordY]
 - [Halim Lee] (https://github.com/WillHalimLee)
 - [ZHANG]
+- [Fluorine] (https://github.com/undisputedgoose)
 - [Mounssif BOUHLAOUI](https://github.com/nuuxcode)
 - [Ndifoin Hilary](https://gitub.com/Ndifoinhilary)
 - [enmanuelbayen] (https://github.com/enmanuelbayen)
