@@ -1,5 +1,6 @@
 
 # Contributors
+- [Kevin Patel] (https://github.com/PatelKeviin)
 - [6HIIIG9] (http://github.com/6OmpH9)
 - [Tarek Nabil] (https://github.com/TarekNabil)
 - [AbdulSamad] (https://github.com/abdulsamad2/)
