@@ -4524,6 +4524,7 @@ Akash Abraham
 - [D N Siva Sathyaseelan](https://github.com/sivasathyaseeelan)
 - [Shardul Dabhane](https://github.com/sharduldabhane)
 - [kevoinno] (https://github.com/kevoinno)
+- [Mugabe Ignace](https://github.com/Mugabe000)
 - [Synergy5761](https://github.com/Synergy5761)
 - [JayWhy5] (https://github.com/JayWhy5/JayWhy5.github.io)
 - [Priyanshu Mishra] (https://github.com/dev-Priyanshu07)
