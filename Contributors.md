@@ -114,6 +114,7 @@
 - [Khasim M]("https://github.com/kkhasim/")
 - [Ciberdcuk] (https://github.com/gerosantacruz)
 - [Thawzin] (https://github.com/Thawzin229)
+- [BGERGO7] (https://github.com/BGERGO7)
 - [Gabriel] (https://github.com/gabriel2443)
 - [Masum] (https://github.com/Masum-ipv)
 - [NguyenNguyen] (https://github.com/NguyenNguyen205)
