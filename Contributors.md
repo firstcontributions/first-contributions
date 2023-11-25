@@ -3248,6 +3248,7 @@ Nikhil R
 - [Fergus Maclean](https://github.com/fergusmac1)
 - [Rizkian Akbar Juniansyah](https://github.com/rizkianakbar)
 - [Dalin Stone](https://github.com/dalinkstone)
+- [Valeria Salis](https://github.com/vallss)
 - [Christian Sanchez](https://github.com/digitalghost-dev)
 - [Axel García](https://github.com/axelthepony27)
 - [Dany Nghaywe](https://github.com/DanyNghaywe)
