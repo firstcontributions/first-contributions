@@ -1350,6 +1350,7 @@ aj
 - [Ranjeet Singh ](https://github.com/ranjeetxsingh)
 - [Mostafa Ahmed](https://github.com/mostaxd)
 - [Edward Bera] (https://github.com/edwardbera)
+- [Lim Kai Zhe] (https://github.com/Mark5431)
 - [Pang Hua Yen] (https://github.com/Ptorioo)
 - [Tandin Tshewang] (https://github.com/TandinDev)
 - [Mskreddy] (https://github.com/SaikiranReddy722)
