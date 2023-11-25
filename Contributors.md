@@ -1664,6 +1664,7 @@ gulshan
 - [Avi](https://github.com/avitheduck)
 - [Yahia Nasr] (https://github.com/Y4h14)
 - [Yang Xiang](https://github.com/yangxdev)
+- [yangx](https://github.com/QAQ-cmd)
 - [Ashish Meagh](https://github.com/ashishmeagh)
 - [mrlectus](https://github.com/mrlectus)
 - [Aditya Singhal](https://github.com/Aditya-singhal03)
