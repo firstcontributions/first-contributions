@@ -7,6 +7,7 @@
 - [Tejas Dixit] (https://github.com/pandatd)
 - [Neha Nihar] (https://github.com/NehaNihar12)
 - [Bekpolat Aydarbaev](https://github.com/Bekforever13)
+- [Kishore Rajkumar](https://github.com/tech-kishore)
 - [PushoDev](https://github.com/PushoDev)
 - [Mohamad Hassan Free Palestine](https://github.com/talentedee)
 - [zhoda-lii]
