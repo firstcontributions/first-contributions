@@ -110,6 +110,7 @@
 - [Dayo Orunsolu](https://github.com/ORUNSOLU)
 - [Akshay Patel](https://github.com/akshaypatel774)
 - [MD Shakib Ahmed](https://github.com/mdshakib007)
+- [Shahzain Shafique](https://github.com/shahzainshafique)
 - [sourabh sivare](https://github.com/pseudoSOURABH)
 - [Peace Alawode](https://github.com/Code-PeaceA)
 - [Angela Fisher](https://github.com/angelajfisher)
