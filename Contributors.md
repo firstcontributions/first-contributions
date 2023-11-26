@@ -216,6 +216,7 @@
 - [Zane](https://github.com/Zanebla)
 - [Mohammed Islam]
 - [Tristin Smith](https://github.com/trisilver25)
+- [Juhwan Jung] (https://github.com/juhwani)
 - [qubitmateo](https://github.com/qubitmateo)
 - [Mohamed](https://github.com/mofareed-97)
 - [SilentStorm2k](https://github.com/SilentStorm2k)
