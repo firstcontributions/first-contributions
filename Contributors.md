@@ -11,6 +11,7 @@
 - [AbdulSamad] (https://github.com/abdulsamad2/)
 - [Tejas Dixit] (https://github.com/pandatd)
 - [Neha Nihar] (https://github.com/NehaNihar12)
+- [Dylan Fritz](https://github.com/dylanfritz)
 - [Bekpolat Aydarbaev](https://github.com/Bekforever13)
 - [Kishore Rajkumar](https://github.com/tech-kishore)
 - [PushoDev](https://github.com/PushoDev)
