@@ -31,6 +31,7 @@
 - [enmanuelbayen] (https://github.com/enmanuelbayen)
 - [AbdullahBayraklilar] (https://github.com/abdullaheminb)
 - [MrWeast] (https://github.com/MrWeast)
+- [Choskers] (https://github.com/Choskers)
 - [TechBond7] (https://github.com/TechBond7)
 - [Mohamed Hamed] (https://github.com/mohameddhamed/)
 - [oliverpearce] (https://github.com/oliverpearce)
