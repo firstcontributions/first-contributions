@@ -97,6 +97,7 @@
 - [Alexandre Boungnarith](https://github.com/sirijiji)
 - [Harsh Mehta](https://github.com/HarzhMehta)
 - [Ryan Beert](https://github.com/rbeert)
+- [Rafi Sakib](https://github.com/samiursakib)
 - [Shashwat Tripathi](https://github.com/Mystery-Shashwat)
 - [Yasir Ali](https://github.com/yasirali0)
 - [Jianfeng Shao](https://github.com/JianfengShao)
