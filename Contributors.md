@@ -2219,6 +2219,7 @@ Sino Felicity Zwane
 - [Kimandu Ndung'u](https://github.com/DixonKimandu)
 - [Hernani Domingo](https://github.com/hernanidomingo)
 - [jdcantorna]
+[Chaya Waichleder]-
 - [Jonathan Cheng](https://github.com/joncheng-dev)
 - [Kyle Reising]
 - [morphi007](https://github.com/Morphi007)
