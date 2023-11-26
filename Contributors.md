@@ -69,6 +69,7 @@
 - [Srinivas Joshi](https://github.com/SrinivasJoshi)
 - [dreamerstories](https://github.com/dreamerstories)
 - [OffMaxer]
+- [Japesh]
 - [Kiran K L](https://github.com/kalkir)
 - [srihar5ha](https://github.com/srihar5ha)
 - [Tuckers15](https://github.com/tuckers15)
