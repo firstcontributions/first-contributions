@@ -66,6 +66,7 @@
 - [Satya Maddirala](https://github.com/SatyaMadd)
 - [MehrzweckMandala](https://github.com/MehrzweckMandala)
 - [Shubham Talan](https://github.com/shubhamtalan996)
+- [Srinivas Joshi](https://github.com/SrinivasJoshi)
 - [dreamerstories](https://github.com/dreamerstories)
 - [OffMaxer]
 - [Kiran K L](https://github.com/kalkir)
