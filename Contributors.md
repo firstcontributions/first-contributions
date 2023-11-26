@@ -4910,4 +4910,5 @@ Gauresh Rathi
 - [Yaffa Harari](https://github.com/yaffaharari)
 - [Prajwal Shelke](https://github.com/prajwal-shelke)
 - [soysan](https://github.com/soysan)
+- [Bastian Behrendt](https://github.com/chenentano)
 
