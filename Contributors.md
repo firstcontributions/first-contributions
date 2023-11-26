@@ -4905,4 +4905,5 @@ Gauresh Rathi
 - [Sylvester Dzimiri](https://github.com/sdzimiri)
 - [CoolPlayLin](https://github.com/CoolPlayLin)
 - [Yaffa Harari](https://github.com/yaffaharari)
-- [Rohit Kumar](https://github.com/rohitkumar1502?tab=repositories)
+- [Prajwal Shelke](https://github.com/prajwal-shelke)
+
