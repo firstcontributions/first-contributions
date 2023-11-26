@@ -26,6 +26,7 @@
 - [Fluorine] (https://github.com/undisputedgoose)
 - [Mounssif BOUHLAOUI](https://github.com/nuuxcode)
 - [Ndifoin Hilary](https://gitub.com/Ndifoinhilary)
+- [Robin Kumar Singh](https://github.com/SinghRobinKumar)
 - [enmanuelbayen] (https://github.com/enmanuelbayen)
 - [AbdullahBayraklilar] (https://github.com/abdullaheminb)
 - [MrWeast] (https://github.com/MrWeast)
