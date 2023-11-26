@@ -81,6 +81,7 @@
 - [Sai Tejasri Yerramsetti](https://github.com/saitejasri1)
 - [Segun David Olasunkanmi](https://github.com/Segundavid-Dev)
 - [Sandy]
+- [Dancis]
 - [Glenn Tedd Onyango](https://github.com/GlennOnyango)
 - [Deborah Balogun](https://github.com/Debby486)
 - [TheSozzz](https://github.com/TheSozzz)
