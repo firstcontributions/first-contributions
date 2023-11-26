@@ -5,6 +5,7 @@
 - [Kevin Patel] (https://github.com/PatelKeviin)
 - [Aditya]
 - [Saurav Bisht] (https://github.com/aka-bisht)
+- [Touseef Khan](https://github.com/touseef4pk)
 - [6HIIIG9] (http://github.com/6OmpH9)
 - [Tarek Nabil] (https://github.com/TarekNabil)
 - [AbdulSamad] (https://github.com/abdulsamad2/)
