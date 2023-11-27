@@ -4922,6 +4922,7 @@ Gauresh Rathi
 - [Yaffa Harari](https://github.com/yaffaharari)
 - [Prajwal Shelke](https://github.com/prajwal-shelke)
 - [soysan](https://github.com/soysan)
+- [Akash Parmar](https://github.com/Akash-cloud001)
 - [Bastian Behrendt](https://github.com/chenentano)
 - [Markus Thomas Ebner](https://github.com/KnochenMarkSaege/)
 
