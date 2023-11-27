@@ -166,6 +166,24 @@ git push -u origin your-branch-name
 
 replacing `your-branch-name` with the name of the branch you created earlier.
 
+## Personal Access Tokens
+
+In your command line, it will ask for your Github username and accoutnt password.
+
+Support for password authentication was removed August, 2021 so please use a personal access token instead.
+
+You can find this by clicking on your profile Logo at the top-right of your screen, then go to "settings" at the bottom-right.
+<img align="right" width="450" src="first-contributions-profile.png" alt="git status" />
+<img align="right" width="450" src="first-contribution-settings.png" alt="git status" />
+
+When your on the account page click on "Developer settings" on the bottom-left.
+<img align="right" width="450" src="first-contributions-dev-settings.png" alt="git status" />
+
+Here is where you find the "Personal Access Tokens" option (tokens)Classic.
+<img align="right" width="450" src="first-contributions-Tokens.png" alt="git status" />
+Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+
+
 <details>
 <summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
 
