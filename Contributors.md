@@ -121,6 +121,7 @@
 - [Yasir Ali](https://github.com/yasirali0)
 - [Jianfeng Shao](https://github.com/JianfengShao)
 - [Booboo](http://github.com/fjsahflasj)
+- [Simanta Raj Sarma](https://github.com/SimantaRajSarma)
 - [Lin Thit](https://github.com/LinThit27)
 - [Thuta](http://github.com/thutashein)
 - [Abdiel Wilson](https://github.com/Wilsonabdiel)
