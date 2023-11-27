@@ -834,6 +834,7 @@ Brent L
 - [Aryush Gupta](https://github.com/AryushGupta)
 - [Hritik Bhattacharya](https://github.com/hritikbhattacharya)
 - [Jeisson Rodriguez](https://github.com/JeissonR115)
+- [Faiz Malik] (https://github.com/itsfaizmalik)
 - [Kaushik Gage](https://github.com/Kaushik080)
 - [Shubham Kashyap](https://github.com/Shubhamkyup)
 - [Johann Michael] (https://github.com/jmichael7)
