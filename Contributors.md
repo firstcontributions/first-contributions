@@ -59,6 +59,7 @@
 - [Hamza Khan] (https://github.com/hamzakhangithub)
 - [Umit Hayim] (https://github.com/UmtHym)
 - [Toddy Duc] 
+- [Some other dude]
 - [Dalibor Babic](https://github.com/laddeeth)
 - [Aung Soe Moe] (https://github.com/AungSoeMoe17)
 - [Renfu Li] (https://github.com/Renfu-Li)
