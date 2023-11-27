@@ -6,6 +6,7 @@
 - [Kevin Patel] (https://github.com/PatelKeviin)
 - [Aditya]
 - [Hexstars] (https://github.com/Hexstars)
+- [Solomon Nwante] (https://github.com/CNwante)
 - [mrZOOL1](https://github.com/mrZOOL1)
 - [Ken Liem] (https://github.com/SleepyKen)
 - [Saurav Bisht] (https://github.com/aka-bisht)
