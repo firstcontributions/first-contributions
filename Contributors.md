@@ -1240,6 +1240,7 @@ harshal honde
 - [Kaushal_Kumar]
 - Khoe Le
 - [Pranav Tripathi] (https://github.com/mightyshibbu)
+- [Alexandros Kangkelidis] (https://github.com/alekosomegas)
 - [Davit Natenadze](https://github.com/Natenadze)
 - [Abdul Majeed Ibrahim Mamah](https://github.com/TalosMann)
 - [Tri Nguyen](https://github.com/nmtri2810)
