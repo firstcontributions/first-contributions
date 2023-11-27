@@ -238,6 +238,7 @@
 - [Astro-bro](https://github.com/Astro-bro)
 - [Zane](https://github.com/Zanebla)
 - [Mohammed Islam]
+- [Abhijeet Salimath](https://github.com/Abbsal)
 - [Tristin Smith](https://github.com/trisilver25)
 - [Juhwan Jung] (https://github.com/juhwani)
 - [qubitmateo](https://github.com/qubitmateo)
