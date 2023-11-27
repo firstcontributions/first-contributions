@@ -5,6 +5,7 @@
 -[Apurva Narayan Pradhan](https://github.com/ApurvaPradhan)
 - [Kevin Patel] (https://github.com/PatelKeviin)
 - [Aditya]
+- [Hexstars] (https://github.com/Hexstars)
 - [mrZOOL1](https://github.com/mrZOOL1)
 - [Ken Liem] (https://github.com/SleepyKen)
 - [Saurav Bisht] (https://github.com/aka-bisht)
