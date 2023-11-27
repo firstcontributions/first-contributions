@@ -2579,6 +2579,7 @@ Sino Felicity Zwane
 - [Abhishek Lakade](https://github.com/abhishek-lakade)
 - [Jonathan Feehan](https://github.com/Feehanjt)
 - [Daan V](https://github.com/banzaai)
+- [AKSHAY RAJ A](https://github.com/akshayraj999)
 - [drwho](https://github.com/drwho)
 - [Tyler Kinkade](https://github.com/tynkd)
 - [Khairunnisa](https://github.com/khairnsaa)
