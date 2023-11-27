@@ -26,7 +26,7 @@
 - [LordY]
 - [Halim Lee] (https://github.com/WillHalimLee)
 - [ZHANG]
-- [Hari] (https://github.com/thughari)
+- [Hari](https://github.com/thughari)
 - [Fluorine] (https://github.com/undisputedgoose)
 - [Mounssif BOUHLAOUI](https://github.com/nuuxcode)
 - [Ndifoin Hilary](https://gitub.com/Ndifoinhilary)
