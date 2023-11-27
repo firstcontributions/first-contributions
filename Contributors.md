@@ -1,6 +1,7 @@
 
 # Contributors
--[Wai Yan Min](github.com/Wai-Yan-Min-MIIT)
+- [Abdessamad Touzani](https://github.com/AbdessamadTzn)  
+- [Wai Yan Min](github.com/Wai-Yan-Min-MIIT)
 - [mykyta] (https://github.com/pokulita)
 -[Apurva Narayan Pradhan](https://github.com/ApurvaPradhan)
 - [Kevin Patel] (https://github.com/PatelKeviin)
