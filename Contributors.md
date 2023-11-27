@@ -3004,6 +3004,7 @@ Nikhil R
 - [Ademar De Leon] (https://github.com/ademar-lab)
 - [Deep Kumawat](https://github.com/Deep-Kumawat)
 - [Shamiya](https://github.com/shamiya)
+- [Juan Jose Lozano](https://github.com/jjl3007)
 - [Aastha Gadhvi](https://github.com/Aastha-Gadhvi)
 - [ABHISHEK SHARMA](https://github.com/AbhishekSharma6903)
 - [Lokesh Choudhary](https://github.com/lokeshchoudharyprogrammer)
