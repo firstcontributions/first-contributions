@@ -1988,10 +1988,11 @@ nathaniel
 - [Rasmus]
 - [Arkat Kuangali] (https://github.com/kuangali13)  
 - [Ben Ngim] (https://github.com/benngim)
-- [Karthik](https://github.com/bvvvp009)
+- [Karthik] (https://github.com/bvvvp009)
 - [Kerwin Washington] (https://github.com/kerwinWashington)
+- [Jefferson Ng] (https://github.com/Jefferson0309)
 - [Sudip Das] (https://github.com/pris01)
-- [Parth Pandya](https://github.com/parth305)
+- [Parth Pandya] (https://github.com/parth305)
 - [Archit Shekhawat](https://github.com/11heathcliff11)
 - [Saket Mishra](https://github.com/saketm101)
 - [happy-harsh](https://github.com/happy-harsh)
