@@ -66,6 +66,7 @@
 - [Hamza Haji] (https://github.com/hamzambo)
 - [Ming Bian] (https://github.com/Ming-B)
 - [Emmanuel Torty] (https://github.com/tengine8000)
+- [Mashilo Kgaladi] (https://github.com/1Mashilo)
 - [Raj Singh Bhatia](https://github.com/rajsbhatia)
 - [Hunter Saine] (https://github.com/HunterSaine)
 - [Uwimana Lowami](https://github.com/Sonlowami)
