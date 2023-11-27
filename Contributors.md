@@ -28,6 +28,7 @@
 - [Marck-1711](https://github.com/Marck-1711)
 - [LordY]
 - [Halim Lee] (https://github.com/WillHalimLee)
+- [SUSHIGUY35] (https://github.com/sushiguy35)
 - [ZHANG]
 - [Shreyash] (https://github.com/Shreyash1414)
 - [Hari] (https://github.com/thughari)
