@@ -581,6 +581,7 @@ Brent L
 - [Abhyanand](https://github.com/OneFriendlyCoder)
 - [Adhiraj](https://github.com/xraymaverick)
 - [William](https://github.com/alfabeat)
+- [Istvan Horvath] (https://github.com/designbyistvan)
 - [bizzybits](https://github.com/bizzybits)
 - [ professssor](https://github.com/professssor)
 -[Aliloulaye Tchaou](https://github.com/aliloulaye)
