@@ -27,6 +27,7 @@
 - [LordY]
 - [Halim Lee] (https://github.com/WillHalimLee)
 - [ZHANG]
+- [Shreyash] (https://github.com/Shreyash1414)
 - [Hari] (https://github.com/thughari)
 - [Fluorine] (https://github.com/undisputedgoose)
 - [Mounssif BOUHLAOUI](https://github.com/nuuxcode)
