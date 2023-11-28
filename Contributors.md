@@ -389,6 +389,7 @@ Brent L
 - [Olusegun Omotunde](https://github.com/omotuno)
 - [Yeji Cho] (https://github.com/cyeji)
 - [Nur Farah](https://github.com/Nur-farah)
+- [Pedram Mohajer](https://github.com/pedram-mohajer)
 - [Shrey Jain](https://github.com/Shrey943)
 - [Irfan Alvi](https://github.com/irfanalvi67)
 - [Pedro Alberto](https://github.com/Edlavio)
