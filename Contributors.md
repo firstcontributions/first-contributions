@@ -498,6 +498,7 @@ Brent L
 - [Abdullah Minhas](https://github.com/minhas309)
 - [Edivaldo Junior](https://github.com/EdiJunior88)
 - [Majd Machlouch](https://github.com/Majd2404)
+- [Nii Aryeh](https://github.com/dcln00)
 - [Paing Soe Khant](https://github.com/PaingSKhant)
 - [Takku Li](https://github.com/alvinleebluy)
 - [Anne Kubis](https://github.com/AKubisDev)
