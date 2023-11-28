@@ -1,6 +1,7 @@
 
 # Contributors
 - [Abdessamad Touzani](https://github.com/AbdessamadTzn)  
+-[Dibyendu Bar](https://github.com/Dibyendu-13)
 - [Wai Yan Min](github.com/Wai-Yan-Min-MIIT)
 - [Kaleb Nim](https://github.com/Kaleb-Nim)
 - [mykyta] (https://github.com/pokulita)
