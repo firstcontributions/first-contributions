@@ -30,6 +30,7 @@
 - [Pradnesh Sanderan](https://github.com/pradneshsanderan)
 - [Mohamad Hassan Free Palestine](https://github.com/talentedee)
 - [Veeraja Veeraesh](https://github.com/Veeraja-Veeraesh)
+- [Farhan Sodiq](https://github.com/codeHokage1)
 - [zhoda-lii]
 - [Muhammad Ahsan Muneer](https://github.com/ahsanmunyr)
 - [Micah Eckard] (https://github.com/meckard)
