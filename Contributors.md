@@ -157,8 +157,8 @@
 - [Noya David](https://github.com/Sanober494u)
 - [Ashley Mao](https://github.com/ashley1203)
 - [Sanober Sarfaraz Ahmed](https://github.com/Sanober494u)
-[PL](https://github.com/PyaeLinn01)
-
+- [PL](https://github.com/PyaeLinn01)
+- [Ben Briggs](https://github.com/magnitudemm)
 - [Devora Ger](https://github.com/Devora-Ger)
 - [Elvira Ivanova](https://github.com/elviraIv)
 - [Antonella Di Stefano] (https://github.com/antodis79)
