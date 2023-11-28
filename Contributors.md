@@ -3522,6 +3522,7 @@ Nikhil R
 - [Luiz Carlos Jr.](https://github.com/lucarl07)
 - [Sanjeeban Mukhopadhyay](https://github.com/sanjeeban5644)
 - [Gustavo Souza](https://github.com/GustavoSouza123)
+- [Will Q](https://github.com/Jezla)
 - [Prasanna Rajaram](https://github.com/prasannarajaram)
 - [Monteiro H.](https://github.com/monteiroh)
 - [Choco Donut](https://github.com/chocodonut-c)
