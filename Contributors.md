@@ -66,6 +66,7 @@
 - [Yodha Gopal] (https://github.com/gopaal24)
 - [Masterjosh] (https://github.com/Masterjosh3107)
 - [Mark Briscoe] (https://github.com/mbriscoe)
+- [Alex Prieu](https://github.com/daprieu)
 - [Lucas The God] (https://github.com/Lucas-PythonDev)
 - [Muhammad Amirul] (https://github.com/muhammad-amirul98)
 - [Yusuf Kartal] (https://github.com/yAquila)
