@@ -4974,6 +4974,7 @@ Gauresh Rathi
 - [Markus Thomas Ebner](https://github.com/KnochenMarkSaege/)
 - [xfy]](https://github.com/xfy0012)
 - [Atriki85] (https://github.com/Atriki85)
+- [Sapphire](https://github.com/sapsap1)
 - [Jeswanthv] (https://github.com/jeswanthv)
 - [Saurabhk79] (https://github.com/saurabhk79)
 - [Praveenraj002] (https://github.com/Praveenraj002)
