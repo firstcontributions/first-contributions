@@ -29,6 +29,7 @@
 - [Veeraja Veeraesh](https://github.com/Veeraja-Veeraesh)
 - [zhoda-lii]
 - [Muhammad Ahsan Muneer](https://github.com/ahsanmunyr)
+- [Micah Eckard] (https://github.com/meckard)
 - [Michael Adebayo](https://github.com/MichaelAdebayo)
 - [Bhatri-Narayanan-SR](https://github.com/Bhatri-Narayanan-SR)
 - [Marck-1711](https://github.com/Marck-1711)
