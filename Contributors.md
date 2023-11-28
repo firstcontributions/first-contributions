@@ -8,6 +8,7 @@
 -[Apurva Narayan Pradhan](https://github.com/ApurvaPradhan)
 - [Kevin Patel] (https://github.com/PatelKeviin)
 - [Aditya]
+- [Vikram Shetty] (https://github.com/vikram71198)
 - [Hexstars] (https://github.com/Hexstars)
 - [Solomon Nwante] (https://github.com/CNwante)
 - [Mihai Childesco] ((https://github.com/mihaichildesco)
