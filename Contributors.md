@@ -467,6 +467,7 @@ Brent L
 - [eakkawat](https://github.com/eakkawat)
 - [piyushw0203](https://github.com/piyushw0203)
 - [Gustavo Petruzzi](https://github.com/gustavoPetruzzi)
+- [Elisa Capololo](https://github.com/ElisaCapololo)
 - [Sandip Mondal](https://github.com/sandip-mondal-0248)
 - [Tommi Boglia]
 - [Luke Campbell](https://github.com/lukec260801)
