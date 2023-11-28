@@ -114,6 +114,7 @@
 - [Segun David Olasunkanmi](https://github.com/Segundavid-Dev)
 - [Sandy]
 - [Dancis]
+- [Nkwuo Victor](https://github.com/VENOMM9)
 - [Glenn Tedd Onyango](https://github.com/GlennOnyango)
 - [Deborah Balogun](https://github.com/Debby486)
 - [TheSozzz](https://github.com/TheSozzz)
