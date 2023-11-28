@@ -173,15 +173,17 @@ In your command line, it will ask for your Github username and accoutnt password
 Support for password authentication was removed August, 2021 so please use a personal access token instead.
 
 You can find this by clicking on your profile Logo at the top-right of your screen, then go to "settings" at the bottom-right.
-<img align="right" width="450" src="first-contributions-profile.png" alt="git status" />
-<img align="right" width="450" src="first-contribution-settings.png" alt="git status" />
+<img width="831" alt="first-contributions-profile" src="https://github.com/MrHarris910/first-contributions/assets/139496225/8b8116c6-1fa5-4732-9abd-d7eb81777693">
+
+<img width="520" alt="first-contribution-settings" src="https://github.com/MrHarris910/first-contributions/assets/139496225/f85467e5-9fd4-4573-ae0b-34a576bbe960">
 
 When your on the account page click on "Developer settings" on the bottom-left.
-<img align="right" width="450" src="first-contributions-dev-settings.png" alt="git status" />
+<img width="702" alt="first-contributions-dev-settings" src="https://github.com/MrHarris910/first-contributions/assets/139496225/4c73a801-cf18-48ab-8a74-32d048d8308f">
 
 Here is where you find the "Personal Access Tokens" option (tokens)Classic.
-<img align="right" width="450" src="first-contributions-Tokens.png" alt="git status" />
-Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+<img width="623" alt="first-contributions-Tokens" src="https://github.com/MrHarris910/first-contributions/assets/139496225/bd746709-cc7a-4ad3-98ce-6f04151323b1">
+
+For more information, Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
 
 
 <details>
