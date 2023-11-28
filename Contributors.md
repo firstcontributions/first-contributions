@@ -1283,6 +1283,7 @@ harshal honde
 - jeevidha arora
 -[Avira Soni](https://github.com/A-viralS)
 - [Amisha Kumari](https://github.com/ayoitsamishaa)
+- [Mmd Binam](https://github.com/mdfaf)
 - [Manucher Buicki](https://github.com/mbuicki789)
 - [Aftab Zaheer](https://github.com/aftabzaheer23)
 - [Pradyot Ranjan](https://github.com/prady0t)
