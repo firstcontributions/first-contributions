@@ -4493,6 +4493,7 @@ Akash Abraham
 - [Nilendra Singh]
 - [David]
 - [Ethan Eckert](https://github.com/eth9n-dev)
+- [Dheeraj Pande](https://github.com/dheerajpande)
 - [John Paul Larkin](https://github.com/Fishamble)
 - [Mike Manoti Nyambega](https://github.com/manotim)
 - [Aadith Lasar](https://github.com/aadithlasar)
