@@ -14,6 +14,7 @@
 -[Apurva Narayan Pradhan](https://github.com/ApurvaPradhan)
 - [Kevin Patel] (https://github.com/PatelKeviin)
 - [Aditya]
+- [amin2ace] (https://github.com/amin2ace/)
 - [Vikram Shetty] (https://github.com/vikram71198)
 - [Hexstars] (https://github.com/Hexstars)
 - [fezzo] (https://github.com/fedelopre)
