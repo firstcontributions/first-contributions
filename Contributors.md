@@ -1768,6 +1768,7 @@ gulshan
 - [Abdishakur Yusuf](https://github.com/AbdishakourY)
 - [Scott Starks](https://github.com/thetramp22)
 - [Israel Zorzor](https://github.com/Hammondziggy)
+- [Boshishuoshuo](https://github.com/boshishuoshuo)
 - [Vinayak Raj](https://github.com/vinayakmraj)
 - [Sebastian Gomez V](https://github.com/segpy)
 - [Nivedita Chatterjee](https://github.com/Nivedita021)
