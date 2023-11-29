@@ -2,6 +2,7 @@
 # Contributors
 - [Yuvraj Singh] (https://github.com/YuvrajS01)
 - [ Idris Oladipo] (https://github.com/Milo82)   
+Ayush Gaud
 - [Abdessamad Touzani](https://github.com/AbdessamadTzn)  
 - [Astral1w3](https://github.com/Astral1w3)  
 - [Fabio Capocasale] (https://github.com/ghost0r10n)
