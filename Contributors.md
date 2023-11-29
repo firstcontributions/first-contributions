@@ -2282,6 +2282,7 @@ Sino Felicity Zwane
 - [AlpacaTechYT](https://github.com/Lagaress)
 - [Abhishek Amber][https://github.com/amberabhi]
 - [Ahmad][https://github.com/arifm6]
+- [Damien Nelson](https://github.com/DNelson35)
 - [Sreekumar Krishnan](https://github.com/SreekumarKrishnan)
 - [Pabitra pal](https://github.com/pabitra0011)
 - [ELena Guo](https://github.com/ElenaGuo404)
