@@ -66,6 +66,7 @@
 - [HazemAlrawi](https://github.com/HazemRawi)
 - [Sonny Ulysse](https://github.com/SonnyGU)
 - [Shobhit0109] (https://github.com/Shobhit0109)
+- [Fernando Campos] (https://github.com/fercho-dev)
 - [Yodha Gopal] (https://github.com/gopaal24)
 - [Masterjosh] (https://github.com/Masterjosh3107)
 - [Mark Briscoe] (https://github.com/mbriscoe)
