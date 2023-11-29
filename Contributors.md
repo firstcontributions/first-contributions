@@ -24,6 +24,7 @@
 - [6HIIIG9] (http://github.com/6OmpH9)
 - [Iedame] (http://github.com/Iedame)
 - [Tarek Nabil] (https://github.com/TarekNabil)
+- [Deepanshu] (https://github.com/deepanshu2711)
 - [AbdulSamad] (https://github.com/abdulsamad2/)
 - [Tejas Dixit] (https://github.com/pandatd)
 - [Neha Nihar] (https://github.com/NehaNihar12)
