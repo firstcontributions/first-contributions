@@ -33,6 +33,7 @@
 - [Neha Nihar] (https://github.com/NehaNihar12)
 - [Yash Kan] (https://github.com/yash-phoenix79)
 - [Dylan Fritz](https://github.com/dylanfritz)
+- [Ayush Sharma](https://github.com/meAyushSharma)
 - [Bekpolat Aydarbaev](https://github.com/Bekforever13)
 - [Asi Sasi](https://github.com/ASP2017)
 - [Kishore Rajkumar](https://github.com/tech-kishore)
