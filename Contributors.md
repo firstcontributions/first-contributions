@@ -264,6 +264,7 @@ Ayush Gaud
 - [Jaguard2021](https://github.com/jaguard2021)
 -[Jessica-ovabor](https://github.com/Jessica-ovabor)
 - [Sam]
+- [Jimmy P](https://github.com/jgpentz) 
 - [Daniel Fraga](https://github.com/Danfraga33)
 - [jamin14](https://github.com/jamin14)
 - [Rehan Chalana](https://github.com/RehanChalana)
