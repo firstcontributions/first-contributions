@@ -1680,6 +1680,7 @@ gulshan
 - [Jagannath Mestry](https://github.com/Jagannath15)
 - [Arshad Shaik](https://github.com/Arshu200)
 - [Frank Neblung](https://github.com/neblung)
+- [Aryan Agrawal](https://github.com/AryanKuAg)
 - [Aditya Prakash](https://github.com/heyitsadityaa)
 - [Subham Jyoti](https://github.com/Derixtar54)
 - [Shoaib Ali] (https://github.com/shoaib-1337)
