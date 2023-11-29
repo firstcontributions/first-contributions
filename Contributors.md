@@ -30,6 +30,7 @@
 - [Yash Kan] (https://github.com/yash-phoenix79)
 - [Dylan Fritz](https://github.com/dylanfritz)
 - [Bekpolat Aydarbaev](https://github.com/Bekforever13)
+- [Asi Sasi](https://github.com/ASP2017)
 - [Kishore Rajkumar](https://github.com/tech-kishore)
 - [PushoDev](https://github.com/PushoDev)
 - [Shakib Aghili](https://github.com/shakib-A)
