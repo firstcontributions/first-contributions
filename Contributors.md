@@ -7,6 +7,7 @@
 -[Dibyendu Bar](https://github.com/Dibyendu-13)
 - [Wai Yan Min](github.com/Wai-Yan-Min-MIIT)
 - [Kaleb Nim](https://github.com/Kaleb-Nim)
+- [Rithuraj Nambiar](https://github.com/rithurajnambiar17)
 - [mykyta] (https://github.com/pokulita)
 -[Apurva Narayan Pradhan](https://github.com/ApurvaPradhan)
 - [Kevin Patel] (https://github.com/PatelKeviin)
