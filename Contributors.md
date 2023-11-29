@@ -53,6 +53,7 @@
 - [Sharvin-M](https://github.com/Sharvin-M)
 - [canybo](https://github.com/canybo)
 - [Halim Lee] (https://github.com/WillHalimLee)
+- [Lokmen Farhat] (https://github.com/farhatlokmen)
 - [SUSHIGUY35] (https://github.com/sushiguy35)
 - [ZHANG]
 - [Robert Williams] (https://github.com/robjwilliams))
