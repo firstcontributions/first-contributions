@@ -163,7 +163,6 @@
 - [Ashley Mao](https://github.com/ashley1203)
 - [Sanober Sarfaraz Ahmed](https://github.com/Sanober494u)
 [PL](https://github.com/PyaeLinn01)
-
 - [Devora Ger](https://github.com/Devora-Ger)
 - [Elvira Ivanova](https://github.com/elviraIv)
 - [Antonella Di Stefano] (https://github.com/antodis79)
@@ -552,6 +551,7 @@ Brent L
 - [Jeremy McCann](https://github.com/mrjrmccann)
 - [Jesse Turner](https://github.com/jesseturner21)
 - [MISΛKI](https://github.com/meriem-mounchid)
+- [BlackThompson](https://github.com/BlackThompson)
 - [Devendra Selokar](https://github.com/devendraSelokar05)
 - [Krish Gautam](https://github.com/kris248)
 - [Parth Dwivedi](https://github.com/Parth4git)
@@ -2604,7 +2604,6 @@ Sino Felicity Zwane
 - [steve3535](https://github.com/steve3535)
 - [ShivaPatel](https://github.com/Patelshiva000)
 - [Deepu](https://github.com/blackbeard002)
-
 - [Percival Aceron](https://github.com/perci-aceron)
 - [Aditya](https://github.com/adityasd314)
 - [Abbas](https://github.com/abbasfurniturewala)
