@@ -7,6 +7,7 @@
 - [Fabio Capocasale] (https://github.com/ghost0r10n)
 -[Dibyendu Bar](https://github.com/Dibyendu-13)
 - [Wai Yan Min](github.com/Wai-Yan-Min-MIIT)
+- [Polyana Amaral](github.com/polyanaamaral)
 - [Kaleb Nim](https://github.com/Kaleb-Nim)
 - [Rithuraj Nambiar](https://github.com/rithurajnambiar17)
 - [mykyta] (https://github.com/pokulita)
