@@ -1,5 +1,6 @@
 
 # Contributors
+- [Usaid Aqeel] (https://github.com/UsaidAqeel)
 - [Yuvraj Singh] (https://github.com/YuvrajS01)
 - [ Idris Oladipo] (https://github.com/Milo82)   
 - [Abdessamad Touzani](https://github.com/AbdessamadTzn)  
