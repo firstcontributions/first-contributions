@@ -3078,6 +3078,7 @@ Nikhil R
 - [sampath-dev](https://github.com/Sampath-Sy)
 - [Ocean Berlinghieri](https://github.com/OceanBerlinghieri)
 - [Anurag Yadav](https://github.com/harry427903)
+- [Anki Gilbert Okosso](https://github.com/AnkiGilbertOkosso)
 - [Isaias Cuvula]
 - [Awofiranye Sherif](https://github.com/iAmSherifCodes)
 - [Devang Yadav](https://github.com/DevangYv-999)
