@@ -1,5 +1,6 @@
 
 # Contributors
+- [ Idris Oladipo] (https://github.com/Milo82)   
 - [Abdessamad Touzani](https://github.com/AbdessamadTzn)  
 - [Fabio Capocasale] (https://github.com/ghost0r10n)
 -[Dibyendu Bar](https://github.com/Dibyendu-13)
