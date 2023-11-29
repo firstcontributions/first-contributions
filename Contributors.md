@@ -3595,6 +3595,7 @@ Nikhil R
 - [Adam Ralph](https://github.com/adamjralph)
 - [Carlos Mendez](https://github.com/Yoru-cyber)
 - [Claro Alvino](https://github.com/alvinoc)
+- [Connie Hu](https://github.com/ch3926)
 - [Rohit Yadav](https://github.com/devrohityadav)
 - [Arun Kumar](https://github.com/ArunKumar-07)
 - [Paul VanKoughnett](https://github.com/allispaul)
