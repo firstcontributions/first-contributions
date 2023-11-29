@@ -2398,6 +2398,7 @@ Sino Felicity Zwane
 - [Barkha Yadav](https://github.com/barkhayadav12)
 - [Dawson Voth](https://github.com/dawsonvoth1)
 - [Mykhailo Parm](https://github.com/Mykhailo-Parm)
+- [Nick Storr](https://github.com/nikys612)
 - [Agnes Olorundare](https://github.com/Agnes4Him)
 - [Rakesh-Ganneboina](https://github.com/rakeshganneboina)
 - [Amit Rana](https://github.com/HUMBLEF0OL)
