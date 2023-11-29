@@ -795,6 +795,7 @@ Brent L
 - [Tyler Landtroop](https://github.com/tlandtroop)
 - [RubynathanN](https://github.com/NRUBYNATHAN)
 - [devil_Suresh](https://github.com/sureshp820)
+- [apanda](https://github.com/aartithepanda)
 - [GuillemMV](https://github.com/GuillemMV)
 - [ZikaZaki](https://github.com/ZikaZaki)
 - [Prateek Agrawal](https://github.com/Prateek194)
