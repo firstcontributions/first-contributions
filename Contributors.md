@@ -1,5 +1,6 @@
 
 # Contributors
+- [Yuvraj Singh] (https://github.com/YuvrajS01)
 - [ Idris Oladipo] (https://github.com/Milo82)   
 - [Abdessamad Touzani](https://github.com/AbdessamadTzn)  
 - [Fabio Capocasale] (https://github.com/ghost0r10n)
