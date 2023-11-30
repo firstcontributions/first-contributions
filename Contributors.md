@@ -1,6 +1,5 @@
 
 # Contributors
-
 - [Yuvraj Singh] (https://github.com/YuvrajS01)
 - [Ayush Gaud] (https://github.com/Ayush-Gaud)
 - [ Idris Oladipo] (https://github.com/Milo82)   
