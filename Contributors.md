@@ -123,6 +123,7 @@ Ayush Gaud
 - [Tatiana Millsap](https://github.com/MillsapTatiana-FS)
 - [Japesh]
 - [Kiran K L](https://github.com/kalkir)
+- [Amina Abdulsalam](https://github.com/amina-abdulsalam)
 - [srihar5ha](https://github.com/srihar5ha)
 - [Tuckers15](https://github.com/tuckers15)
 - [PythonBeing](https://github.com/PythonBeing)
