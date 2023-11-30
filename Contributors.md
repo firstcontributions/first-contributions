@@ -27,6 +27,7 @@ Gabi Nelepcu
 - [amin2ace] (https://github.com/amin2ace/)
 - [Vikram Shetty] (https://github.com/vikram71198)
 - [Hexstars] (https://github.com/Hexstars)
+- [kt28397] (https://github.com/kt28397/)
 - [fezzo] (https://github.com/fedelopre)
 - [Neethu Venugopal] (https://github.com/NeethuVenugopal)
 - [Solomon Nwante] (https://github.com/CNwante)
