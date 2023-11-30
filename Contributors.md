@@ -6,7 +6,6 @@
 - [Saketh Pallempati] (https://github.com/saketh-pallempati)
 - [Ilay Amir] (https://github.com/ilayamir)
 - [ Idris Oladipo] (https://github.com/Milo82)   
-Ayush Gaud
 - [Abdessamad Touzani](https://github.com/AbdessamadTzn)  
 - [Astral1w3](https://github.com/Astral1w3)  
 - [Fabio Capocasale] (https://github.com/ghost0r10n)
@@ -19,6 +18,7 @@ Ayush Gaud
 -[Apurva Narayan Pradhan](https://github.com/ApurvaPradhan)
 - [Kevin Patel] (https://github.com/PatelKeviin)
 - [Aditya]
+- [Ayush Gaud] (https://github.com/Ayush-Gaud)
 - [amin2ace] (https://github.com/amin2ace/)
 - [Vikram Shetty] (https://github.com/vikram71198)
 - [Hexstars] (https://github.com/Hexstars)
