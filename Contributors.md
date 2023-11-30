@@ -2526,6 +2526,7 @@ Sino Felicity Zwane
 - [Agnes Olorundare](https://github.com/Agnes4Him)
 - [Rakesh-Ganneboina](https://github.com/rakeshganneboina)
 - [Amit Rana](https://github.com/HUMBLEF0OL)
+- [Dominic Farrow](https://github.com/dfarrow00)
 - [Rahul Nishad](https://github.com/rahul11nishad)
 - [Youha Shin] (https://github.com/youha-shin)
 - [Akinsanya Joel](https://github.com/kiojoel)
