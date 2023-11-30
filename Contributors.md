@@ -138,6 +138,7 @@ Ayush Gaud
 - [Maneesha Gunawardhana](https://github.com/mGunawardhana)
 - [Pankaj Mokashi](https://github.com/pankajmokashi)
 - [Mariano De Los Santos](https://github.com/Mdeloss)
+- [Ankit Ranjan](https://github.com/ankitranjanl)
 - [Rishi Paul](https://github.com/rishicds)
 - [Andrea Repellini](https://github.com/andrearepellini)
 - [Nick Cully](https://github.com/rphscullyni21)
