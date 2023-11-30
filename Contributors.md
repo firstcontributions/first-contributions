@@ -5047,4 +5047,4 @@ Gauresh Rathi
 - [Dongwook Chang](https://github.com/dongwook-chan)
 - [Achal Jhawar](https://github.com/achaljhawar)
 - [PusPC](https://github.com/PusPC)
-- 
+- [Leonardo Coêlho](https://github.com/leo3210k)
