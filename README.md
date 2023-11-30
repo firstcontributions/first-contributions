@@ -175,15 +175,14 @@ Support for password authentication was removed August, 2021 so please use a per
 For more information, Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
 
 click your profile Logo at the top-right, then go to "settings" located on the bottom-right.
-<img width="400" alt="first-contributions-profile" src="https://github.com/MrHarris910/first-contributions/assets/139496225/8b8116c6-1fa5-4732-9abd-d7eb81777693">
 
-<img width="400" alt="first-contribution-settings" src="https://github.com/MrHarris910/first-contributions/assets/139496225/f85467e5-9fd4-4573-ae0b-34a576bbe960">
+<img width="500" alt="first-contribution-settings" src="https://github.com/MrHarris910/first-contributions/assets/139496225/f85467e5-9fd4-4573-ae0b-34a576bbe960">
 
 On the account page click "Developer settings" on the bottom-left.
-<img width="400" alt="first-contributions-dev-settings" src="https://github.com/MrHarris910/first-contributions/assets/139496225/4c73a801-cf18-48ab-8a74-32d048d8308f">
+<img width="700" alt="first-contributions-dev-settings" src="https://github.com/MrHarris910/first-contributions/assets/139496225/4c73a801-cf18-48ab-8a74-32d048d8308f">
 
 Here is where you will find "Personal Access Tokens" option (tokens)Classic.
-<img width="400" alt="first-contributions-Tokens" src="https://github.com/MrHarris910/first-contributions/assets/139496225/bd746709-cc7a-4ad3-98ce-6f04151323b1">
+<img width="700" alt="first-contributions-Tokens" src="https://github.com/MrHarris910/first-contributions/assets/139496225/bd746709-cc7a-4ad3-98ce-6f04151323b1">
 
 
 
