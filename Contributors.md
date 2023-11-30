@@ -66,6 +66,7 @@ Ayush Gaud
 -[Abel-zewdu] (https://github.com/abelrula)
 - [Hari] (https://github.com/thughari)
 - [Fluorine] (https://github.com/undisputedgoose)
+- [Indrajit Mandal] (https://github.com/Jitmandal051004)
 - [Mounssif BOUHLAOUI](https://github.com/nuuxcode)
 - [Ndifoin Hilary](https://gitub.com/Ndifoinhilary)
 - [Robin Kumar Singh](https://github.com/SinghRobinKumar)
