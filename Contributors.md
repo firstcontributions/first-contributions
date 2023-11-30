@@ -23,6 +23,7 @@ Ayush Gaud
 - [PSK] (https://github.com/PK-WookiDooki)
 - [Vishal Biradar](https://github.com/vishalbrdr)
 - [Aditya]
+- [MarioCapodanno](https://github.com/MarioCapodanno)
 Gabi Nelepcu
 - [amin2ace] (https://github.com/amin2ace/)
 - [Vikram Shetty] (https://github.com/vikram71198)
