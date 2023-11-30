@@ -180,7 +180,7 @@ Ayush Gaud
 - [Ashley Mao](https://github.com/ashley1203)
 - [Sanober Sarfaraz Ahmed](https://github.com/Sanober494u)
 [PL](https://github.com/PyaeLinn01)
-
+- [Danijel Janjic] (https://github.com/danijelche)
 - [Devora Ger](https://github.com/Devora-Ger)
 - [Elvira Ivanova](https://github.com/elviraIv)
 - [Antonella Di Stefano] (https://github.com/antodis79)
