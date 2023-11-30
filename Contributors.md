@@ -5,8 +5,8 @@
 - [Yuvraj Singh] (https://github.com/YuvrajS01)
 - [Saketh Pallempati] (https://github.com/saketh-pallempati)
 - [Ilay Amir] (https://github.com/ilayamir)
-- [ Idris Oladipo] (https://github.com/Milo82)   
-Ayush Gaud
+- [ Idris Oladipo] (https://github.com/Milo82)
+- [Ayush Gaud] (https://github.com/Ayush-Gaud)
 - [Moocoder] (https://github.com/mpatel6654)
 - [Abdessamad Touzani](https://github.com/AbdessamadTzn)  
 - [Astral1w3](https://github.com/Astral1w3)  
