@@ -454,6 +454,7 @@ Brent L
 - [Abilash](https://github.com/abilash0205)
 - [Unya David Eze](https://github.com/Davidezege)
 - [Laura]
+- [Th' dude]
 - [Alec Smith](https://github.com/sharktankful)
 - [Abstaina Ephraim](https://github.com/Abstaina44)
 - [Abdelkrim El Ayachi](https://github.com/AbdelkrmiELAyachi)
