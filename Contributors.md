@@ -17,6 +17,8 @@
 - [mykyta] (https://github.com/pokulita)
 -[Apurva Narayan Pradhan](https://github.com/ApurvaPradhan)
 - [Kevin Patel] (https://github.com/PatelKeviin)
+- [PSK] (https://github.com/PK-WookiDooki)
+- [Vishal Biradar](https://github.com/vishalbrdr)
 - [Aditya]
 - [Ayush Gaud] (https://github.com/Ayush-Gaud)
 - [amin2ace] (https://github.com/amin2ace/)
@@ -88,6 +90,7 @@
 - [Yodha Gopal] (https://github.com/gopaal24)
 - [Masterjosh] (https://github.com/Masterjosh3107)
 - [Mark Briscoe] (https://github.com/mbriscoe)
+- [David Ezeani] (https://github.com/Obj-Official/)
 - [Alex Prieu](https://github.com/daprieu)
 - [Lucas The God] (https://github.com/Lucas-PythonDev)
 - [Test Hello] (https://github.com/ardatarim)
@@ -136,6 +139,7 @@
 - [Maneesha Gunawardhana](https://github.com/mGunawardhana)
 - [Pankaj Mokashi](https://github.com/pankajmokashi)
 - [Mariano De Los Santos](https://github.com/Mdeloss)
+- [Ankit Ranjan](https://github.com/ankitranjanl)
 - [Rishi Paul](https://github.com/rishicds)
 - [Andrea Repellini](https://github.com/andrearepellini)
 - [Nick Cully](https://github.com/rphscullyni21)
@@ -152,6 +156,7 @@
 - [Deborah Balogun](https://github.com/Debby486)
 - [TheSozzz](https://github.com/TheSozzz)
 - [Kamran Zafar]
+[Neeraj Kumar] (https://github.com/dacharch)
 - [Hari Aravind ](https://github.com/HariAr2)
 - [P-P-P-Pablo](https://github.com/P-P-P-Pablo)
 - [Nath Hiccup](https://github.com/Nath-Hiccup)
@@ -356,6 +361,7 @@
 - Sunny Tamrakar
 - [Ramsha Farrukh] (https://github.com/RamshaFarrukh25)
 - [Adam Purcell](https://github.com/apurcell88)
+- [Ayansh Shankar](https://github.com/ayanshshankar)
 - [Colin Chaput](https://github.com/colinchaput)
 - [Nagesh Dwivedi](https://github.com/nagesh7588)
 - [Lilian Huang](https://github.com/Lilian4441)
@@ -607,6 +613,7 @@ Brent L
 - [adrianlamlh](https://github.com/adrianlamlh)
 - [Pranav Kannawar](https://github.com/Hackwithpranav)
 - [Farookh](https://github.com/FarookhNITAP)
+- [Ziming Ma](https://github.com/burnstick)
 - [SysADHDmin](https://github.com/SysADHDmin)
 - [Oliver Andersen](https://github.com/TjalleDev)
 -[Samuel Onyebekeh](https://github.com/SamuelOnyebekeh)
