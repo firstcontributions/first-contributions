@@ -22,6 +22,7 @@ Ayush Gaud
 - [Vikram Shetty] (https://github.com/vikram71198)
 - [Hexstars] (https://github.com/Hexstars)
 - [fezzo] (https://github.com/fedelopre)
+- [Neethu Venugopal] (https://github.com/NeethuVenugopal)
 - [Solomon Nwante] (https://github.com/CNwante)
 - [Mihai Childesco] ((https://github.com/mihaichildesco)
 - [Ermiyas Abiye] (https://github.com/ermi1999)
