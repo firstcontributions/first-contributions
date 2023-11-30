@@ -1300,6 +1300,7 @@ harshal honde
 - [Alexandros Kangkelidis] (https://github.com/alekosomegas)
 - [Davit Natenadze](https://github.com/Natenadze)
 - [Abdul Majeed Ibrahim Mamah](https://github.com/TalosMann)
+-[Jonathan Brooks](https://github.com/jonbrooks01)
 - [Tri Nguyen](https://github.com/nmtri2810)
 - [Sathya Narayana Rangappagari](https://github.com/sathyaar5)
 - [Suhiteswar](https://github.com/suhit123)
