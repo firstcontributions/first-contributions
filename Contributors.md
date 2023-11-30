@@ -19,6 +19,7 @@ Ayush Gaud
 -[Apurva Narayan Pradhan](https://github.com/ApurvaPradhan)
 - [Kevin Patel] (https://github.com/PatelKeviin)
 - [PSK] (https://github.com/PK-WookiDooki)
+- [Vishal Biradar](https://github.com/vishalbrdr)
 - [Aditya]
 - [amin2ace] (https://github.com/amin2ace/)
 - [Vikram Shetty] (https://github.com/vikram71198)
