@@ -402,6 +402,7 @@ Brent L
 - [TechySavant](https://github.com/techy-savant)
 - [Monae Curbeam](https://github.com/curbeammonae)
 - [Joseph Steffin](https://github.com/steffinjoe)
+- [Soumik Bhattacharyya](https://github.com/Soumik234)
 - [Oolazile](https://github.com/oolazile)
 - [Emir Velazquez](https://github.com/EmirVelazquez)
 - [Guido Carucci](https://github.com/guido-an)
