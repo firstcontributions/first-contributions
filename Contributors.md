@@ -140,6 +140,7 @@ Ayush Gaud
 - [Segun David Olasunkanmi](https://github.com/Segundavid-Dev)
 - [Sandy]
 - [Dancis]
+- [Kae Sluder](https://github.com/kaesluder)
 - [Daniel Jones](https://github.com/Danguy23)
 - [Nkwuo Victor](https://github.com/VENOMM9)
 - [Glenn Tedd Onyango](https://github.com/GlennOnyango)
