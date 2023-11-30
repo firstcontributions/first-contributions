@@ -15,7 +15,7 @@ Ayush Gaud
 - [Wai Yan Min](github.com/Wai-Yan-Min-MIIT)
 - [Polyana Amaral](github.com/polyanaamaral)
 - [Kaleb Nim](https://github.com/Kaleb-Nim)
-  [rosefinchh](https://github.com/rosefinchh)
+- [rosefinchh](https://github.com/rosefinchh)
 - [Rithuraj Nambiar](https://github.com/rithurajnambiar17)
 - [mykyta] (https://github.com/pokulita)
 -[Apurva Narayan Pradhan](https://github.com/ApurvaPradhan)
