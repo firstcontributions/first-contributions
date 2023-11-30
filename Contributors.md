@@ -89,6 +89,7 @@ Ayush Gaud
 - [Yodha Gopal] (https://github.com/gopaal24)
 - [Masterjosh] (https://github.com/Masterjosh3107)
 - [Mark Briscoe] (https://github.com/mbriscoe)
+- [David Ezeani] (https://github.com/Obj-Official/)
 - [Alex Prieu](https://github.com/daprieu)
 - [Lucas The God] (https://github.com/Lucas-PythonDev)
 - [Test Hello] (https://github.com/ardatarim)
