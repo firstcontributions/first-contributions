@@ -3,10 +3,10 @@
 - [Kyuhong Han] (https://github.com/roy0424)
 - [Usaid Aqeel] (https://github.com/UsaidAqeel)
 - [Yuvraj Singh] (https://github.com/YuvrajS01)
+- [Ayush Gaud] (https://github.com/Ayush-Gaud)
 - [Saketh Pallempati] (https://github.com/saketh-pallempati)
 - [Ilay Amir] (https://github.com/ilayamir)
 - [ Idris Oladipo] (https://github.com/Milo82)   
-Ayush Gaud
 - [Abdessamad Touzani](https://github.com/AbdessamadTzn)  
 - [Astral1w3](https://github.com/Astral1w3)  
 - [Fabio Capocasale] (https://github.com/ghost0r10n)
