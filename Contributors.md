@@ -611,6 +611,7 @@ Brent L
 - [adrianlamlh](https://github.com/adrianlamlh)
 - [Pranav Kannawar](https://github.com/Hackwithpranav)
 - [Farookh](https://github.com/FarookhNITAP)
+- [Ziming Ma](https://github.com/burnstick)
 - [SysADHDmin](https://github.com/SysADHDmin)
 - [Oliver Andersen](https://github.com/TjalleDev)
 -[Samuel Onyebekeh](https://github.com/SamuelOnyebekeh)
