@@ -64,6 +64,7 @@ Ayush Gaud
 - [Lokmen Farhat] (https://github.com/farhatlokmen)
 - [SUSHIGUY35] (https://github.com/sushiguy35)
 - [ZHANG]
+- Jack
 - [Robert Williams] (https://github.com/robjwilliams))
 - [Shreyash] (https://github.com/Shreyash1414)
 -[Abel-zewdu] (https://github.com/abelrula)
