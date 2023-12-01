@@ -24,6 +24,7 @@
 - [Michael Adebayo](https://github.com/MichaelAdebayo)
 - [Bhatri-Narayanan-SR](https://github.com/Bhatri-Narayanan-SR)
 - [Marck-1711](https://github.com/Marck-1711)
+- rishiKesh](https://github.com/rishikesh0911)
 - [LordY]
 - [Halim Lee] (https://github.com/WillHalimLee)
 - [ZHANG]
