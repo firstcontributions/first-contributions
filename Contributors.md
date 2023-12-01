@@ -2827,6 +2827,7 @@ Nikhil R
 - [csamid](https://github.com/csamid)
 - [Vikas-Bagri](https://github.com/BagriVikas)
 - [jplsanchez](https://github.com/jplsanchez)
+- [kirillinski](https://github.com/DukeOfKeys)
 - [Faniriantsoa-RANDRIAHARIMINO](https://github.com/Faniry1015)
 - [astromerov](https://github.com/astromerov)
 - [Prionage](https://github.com/Prionage/first-contributions)
