@@ -5073,4 +5073,4 @@ Gauresh Rathi
 - [Achal Jhawar](https://github.com/achaljhawar)
 - [PusPC](https://github.com/PusPC)
 - [fossgibson](https://github.com/fossgibson)
--
+- [Szymon5922](https://github.com/Szymon5922)
