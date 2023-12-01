@@ -4922,6 +4922,7 @@ Gauresh Rathi
 - [Crayoncharle] (https://github.com/Crayoncharle)
 - [lbk01](https:/github.com/lbk01)
 - [zhangyida](https://github.com/zhangyida-lab)
+- [BEO]https://github.com/beolafsen
 - [Rashidamosi](https://github.com/Rashidamosi)
 - [KobiEau](https://github.com/KobiEau)
 - [cemilozdemir](https://github.com/cemilozdemir)
