@@ -13,6 +13,7 @@ Ayush Gaud
 - [Abdessamad Touzani](https://github.com/AbdessamadTzn)  
 - [Astral1w3](https://github.com/Astral1w3)  
 - [Fabio Capocasale] (https://github.com/ghost0r10n)
+- [Sheena Barnes] (https://github.com/shba2504)
 -[Dibyendu Bar](https://github.com/Dibyendu-13)
 - [Wai Yan Min](github.com/Wai-Yan-Min-MIIT)
 - [Polyana Amaral](github.com/polyanaamaral)
