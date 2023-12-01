@@ -4843,6 +4843,7 @@ Akash Abraham
 - [Daniel Flores](https://github.com/Daniel-Flores-Web)
 - [Ayush Singh](https://github.com/ayush-singh08)
 - [Guilherme Heinrichs] (https://github.com/GuiHeinrichs)
+- [Kshitij Bajracharya] (https://github.com/bajracharya-kshitij)
 - [Luke Nam](https://github.com/kineticstorytelling)
 - [Vineeth Nomula](https://github.com/vineethnomula)
 - [Angad Godara](https://github.com/Angad-Godara)
