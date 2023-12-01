@@ -3330,6 +3330,7 @@ Nikhil R
 - [Malavya Raval](https://github.com/MalavyaRaval)
 - [Sandesh Khatiwada](https://github.com/sandesh-theMayGuy)
 - [Levin Baria](https://github.com/levinbaria)
+- [Javi Cuenca](https://github.com/jcuencagento)
 - [José Ortiz-Ocampo](https://github.com/jhortizo)
 - [Sávio Costa Silva](https://github.com/saviocosta01)
 - [Curtis Aliwah](https://github.com/Aliwah1403)
