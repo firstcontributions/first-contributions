@@ -32,6 +32,7 @@ Gabi Nelepcu
 - [Hexstars] (https://github.com/Hexstars)
 - [kt28397] (https://github.com/kt28397/)
 - [fezzo] (https://github.com/fedelopre)
+- [Ratna Kumar Singh] (https://github.com/rks1995)
 - [Neethu Venugopal] (https://github.com/NeethuVenugopal)
 - [Solomon Nwante] (https://github.com/CNwante)
 - [Mihai Childesco] ((https://github.com/mihaichildesco)
