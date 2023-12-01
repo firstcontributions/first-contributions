@@ -713,6 +713,7 @@ Brent L
 - [Jimmy]
 - [Amruth]
 - [Guillermo Alvarez Bacame] (https://github.com/gabacame)
+- [Sunit Choithani] (https://github.com/sunit30)
 - [Namatirai Chibvongodze](https://github.com/Namatirai)
 - [Chimnaecherem Mba] (https://github.com/Chimnaecherem)
 - [Jim Franklin](https://github.com/jim-franklin)
