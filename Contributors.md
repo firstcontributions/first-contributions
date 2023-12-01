@@ -583,6 +583,7 @@ Brent L
 - [Nebil Rahmeto](https://github.com/Patrix726)
 - [Konduri Aditya](https://github.com/pavanaditya15752)
 - [Artyom Romanov](https://github.com/art3xa)
+- [Artyom F](https://github.com/kextcache)
 - [Out Drax](https://github.com/OutDrax)
 - [Julien Lavrard](https://github.com/Julyse)
 - [Lasan Ranatunge](https://github.com/lasanseniya)
