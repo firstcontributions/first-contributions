@@ -28,7 +28,7 @@ It's the primary conduit of communication between the users and the developers. 
 You may need to get special permissions in the ticketing system, which most project leaders will be glad to give you when you say you want to help clean up the tickets.
 
 4. **Diagnose a bug**: Bugs are often poorly reported.
-Diagnosing and triaging a bug can help save the developers save time with the legwork of figuring out the specifics of the problem.
+Diagnosing and triaging a bug can help save the developers time with the legwork of figuring out the specifics of the problem.
 If a user reported, "The software doesn't work when I do X," spend some time to figure out the specifics of what goes into that problem.
 Is it repeatable? Can you create a set of steps to cause the problem repeatedly? Can you narrow down the problem, such as only happening on one browser but not another, or one distro but not another?
 
@@ -76,7 +76,7 @@ Then, add a test to the suite to cover it.
 9. **Silence a compiler warning**: The build process for many C-based projects often spew the odd compiler warning flag to the screen.
 These warnings are usually not indicators of a problem, but they can look like it.
 Having too many warnings can make the compiler sound like it's crying wolf.
-Check to see if the code could actually be hiding a bug.If not, modifying the source to silence helps to hide these false positives.
+Check to see if the code could actually be hiding a bug. If not, modifying the source to silence helps to hide these false positives.
 
 10. **Add a comment**: 
 When you're digging through the code, you may find some spots that are confusing.
@@ -113,9 +113,12 @@ and by creating a record for anyone else who has your problem in the future  and
 If you've got skills in web design and can help improve the website, and thus the public-facing image of the project, that's time well spent.
 Perhaps the project could use a graphic overhaul, or a logo to identify the project.
 These may be skills lacking in the community. I know I'd love it if I could get some graphic design help on my projects' websites.
+  
+15. **Write technical documentation**
+  If you can write about how an application or piece of software works, you could write technical documentation about it. Especially open source projects that are looking to update, revamp, expand, or create technical docs for the general public to read. The more you write in plain english, the better. The best part, you don't have to be a programmer to write technical docs. 
 
 Most of all, listen to what people around you discuss. See if you can recognize a pressing need. For instance, recently on the Parrot developers' mailing list, it was decided to use GitHub as the trouble ticket system, abandoning the old Trac installation they had. Some people were against the move because there was no way to convert the tickets to GitHub's system. After a day of back and forth arguing, I piped up and said "How about if I write a converter?" People were thrilled at the idea. I spent the time to write a conversion program for the 450+ tickets, so we lost none of our ticket history. It was a great success.  I got to pitch in, and the core developers stayed focused on the business of working on Parrot.
 
 15. **Teach and Help others**:
 The best way to learn more about a topic is to try to teach it.
-The best teach is the one who can explain complex stuff with simple examples. So you need to try to be the best teacher to be the best learner and the best in your programming world. Teaching others will make you feel better about yourself and it will help you get better skills and knowledge in your profession. When you get Help from someone don't keep it to yourself share it with the others. Make the world a better place to live.
+The best teacher is the one who can explain complex stuff with simple examples. So you need to try to be the best teacher to be the best learner and the best in your programming world. Teaching others will make you feel better about yourself and it will help you get better skills and knowledge in your profession. When you get help from someone don't keep it to yourself share it with others. Make the world a better place to live.
