@@ -824,6 +824,7 @@ Brent L
 - [alanv73]
 - [Kike Lima](https://www.marketingparamedicos.mx/)
 - [Branchtest]
+- [Ludde1224](https://github.com/Ludde1224)
 - [Hrishi Singh](https://github.com/Hrishi0115) 
 - [Ioannis Loukas](https://github.com/Blitzjunges)
 - [Karan Patel](https://github.com/karanop001018)
