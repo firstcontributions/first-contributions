@@ -4433,6 +4433,7 @@ Akash Abraham
 - [ducknows](https://github.com/ducknows)
 - [Gabe Cano](https://github.com/gabecano4308)
 - [Eray Ates](https://github.com/erayates)
+- [Hasan Dilshad Husain](https://github.com/Hasan-1-6)
 - [Alfonso de Mora Navarro](https://github.com/demora33)
 - [Srajal Sawner](https://github.com/Srajal16)
 - [Nehal chaudhary](https://github.com/neh666)
