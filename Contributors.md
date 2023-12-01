@@ -49,6 +49,7 @@ Gabi Nelepcu
 - [Neha Nihar] (https://github.com/NehaNihar12)
 - [YYT] (https://github.com/yeyintthu01)
 - [Yash Kan] (https://github.com/yash-phoenix79)
+[kodeman](https://github.com/kodeman2)
 - [Dylan Fritz](https://github.com/dylanfritz)
 - [Ayush Sharma](https://github.com/meAyushSharma)
 - [Bekpolat Aydarbaev](https://github.com/Bekforever13)
