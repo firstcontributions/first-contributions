@@ -3,6 +3,7 @@
 - [Kyuhong Han] (https://github.com/roy0424)
 - [Usaid Aqeel] (https://github.com/UsaidAqeel)
 - [Anthony Squire] (https://github.com/Squire-A)
+- [PoJu Chen](https://github.com/poju3185)
 - [Yuvraj Singh] (https://github.com/YuvrajS01)
 - [Saketh Pallempati] (https://github.com/saketh-pallempati)
 - [Ilay Amir] (https://github.com/ilayamir)
