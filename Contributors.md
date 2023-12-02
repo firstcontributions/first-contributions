@@ -25,6 +25,7 @@ Ayush Gaud
 -[Apurva Narayan Pradhan](https://github.com/ApurvaPradhan)
 - [Kevin Patel] (https://github.com/PatelKeviin)
 - [PSK] (https://github.com/PK-WookiDooki)
+- [PSK] (https://github.com/jamesbright)
 - [Vishal Biradar](https://github.com/vishalbrdr)
 - [Aditya]
 - [MarioCapodanno](https://github.com/MarioCapodanno)
