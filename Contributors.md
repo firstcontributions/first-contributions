@@ -5086,6 +5086,7 @@ Gauresh Rathi
 - [se22m053](https://github.com/se22m053)
 - [Dongwook Chang](https://github.com/dongwook-chan)
 - [Achal Jhawar](https://github.com/achaljhawar)
+- [Milad Emami](https://github.com/milad-emami)
 - [PusPC](https://github.com/PusPC)
 - [fossgibson](https://github.com/fossgibson)
 - [gaoozi](https://github.com/gaoozi)
