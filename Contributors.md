@@ -550,6 +550,7 @@ Brent L
 - [Ester](https://github.com/EsterBlassLev)
 - [Andrew Donnelly](https://github.com/Learningtotry)
 - [Janvi](https://github.com/janvi2502)
+- [Jayanth Kumar BS](https://github.com/Jayanth-BS)
 - [Kousic](https://github.com/Kousic05)
 - [IzsoJozsi](https://github.com/IzsoJozsi)
 - [Micah Howard](https://github.com/mikeboi08)
