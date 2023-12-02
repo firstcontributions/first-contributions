@@ -8,7 +8,7 @@
 - [Saketh Pallempati] (https://github.com/saketh-pallempati)
 - [Ilay Amir] (https://github.com/ilayamir)
 - [ Idris Oladipo] (https://github.com/Milo82)   
-Ayush Gaud
+- Ayush Gaud
 - [RoycejChan] (https://github.com/RoycejChan)
 - [Moocoder] (https://github.com/mpatel6654)
 - [Abdessamad Touzani](https://github.com/AbdessamadTzn)  
@@ -18,12 +18,13 @@ Ayush Gaud
 - [Aditi Agarwal](https://github.com/Aditi0325)
 - [Dibyendu Bar](https://github.com/Dibyendu-13)
 - [Wai Yan Min](github.com/Wai-Yan-Min-MIIT)
+- [jiatolentino](https://github.com/jiatolentino)
 - [Polyana Amaral](github.com/polyanaamaral)
 - [Kaleb Nim](https://github.com/Kaleb-Nim)
-  [rosefinchh](https://github.com/rosefinchh)
+- [rosefinchh](https://github.com/rosefinchh)
 - [Rithuraj Nambiar](https://github.com/rithurajnambiar17)
 - [mykyta] (https://github.com/pokulita)
--[Apurva Narayan Pradhan](https://github.com/ApurvaPradhan)
+- [Apurva Narayan Pradhan](https://github.com/ApurvaPradhan)
 - [Kevin Patel] (https://github.com/PatelKeviin)
 - [PSK] (https://github.com/PK-WookiDooki)
 - [PSK] (https://github.com/jamesbright)
@@ -31,7 +32,7 @@ Ayush Gaud
 - [Aditya]
 - [MarioCapodanno](https://github.com/MarioCapodanno)
 - [Derek Kim](https://github.com/derekhskim)
-Gabi Nelepcu
+- Gabi Nelepcu
 - [amin2ace] (https://github.com/amin2ace/)
 - [Vikram Shetty] (https://github.com/vikram71198)
 - [Hexstars] (https://github.com/Hexstars)
@@ -55,7 +56,7 @@ Gabi Nelepcu
 - [Neha Nihar] (https://github.com/NehaNihar12)
 - [YYT] (https://github.com/yeyintthu01)
 - [Yash Kan] (https://github.com/yash-phoenix79)
-[kodeman](https://github.com/kodeman2)
+- [kodeman](https://github.com/kodeman2)
 - [Dylan Fritz](https://github.com/dylanfritz)
 - [Ayush Sharma](https://github.com/meAyushSharma)
 - [Bekpolat Aydarbaev](https://github.com/Bekforever13)
@@ -76,7 +77,7 @@ Gabi Nelepcu
 - [Michael Adebayo](https://github.com/MichaelAdebayo)
 - [Bhatri-Narayanan-SR](https://github.com/Bhatri-Narayanan-SR)
 - [Marck-1711](https://github.com/Marck-1711)
-- rishiKesh](https://github.com/rishikesh0911)
+- [rishiKesh](https://github.com/rishikesh0911)
 - [LordY]
 - [Sharvin-M](https://github.com/Sharvin-M)
 - [canybo](https://github.com/canybo)
@@ -87,7 +88,7 @@ Gabi Nelepcu
 - Jack
 - [Robert Williams] (https://github.com/robjwilliams))
 - [Shreyash] (https://github.com/Shreyash1414)
--[Abel-zewdu] (https://github.com/abelrula)
+- [Abel-zewdu] (https://github.com/abelrula)
 - [Hari] (https://github.com/thughari)
 - [Fluorine] (https://github.com/undisputedgoose)
 - [Indrajit Mandal] (https://github.com/Jitmandal051004)
@@ -174,7 +175,7 @@ Gabi Nelepcu
 - [Deborah Balogun](https://github.com/Debby486)
 - [TheSozzz](https://github.com/TheSozzz)
 - [Kamran Zafar]
-[Neeraj Kumar] (https://github.com/dacharch)
+- [Neeraj Kumar] (https://github.com/dacharch)
 - [Hari Aravind ](https://github.com/HariAr2)
 - [P-P-P-Pablo](https://github.com/P-P-P-Pablo)
 - [Nath Hiccup](https://github.com/Nath-Hiccup)
@@ -207,8 +208,7 @@ Gabi Nelepcu
 - [Noya David](https://github.com/Sanober494u)
 - [Ashley Mao](https://github.com/ashley1203)
 - [Sanober Sarfaraz Ahmed](https://github.com/Sanober494u)
-[PL](https://github.com/PyaeLinn01)
-
+- [PL](https://github.com/PyaeLinn01)
 - [Devora Ger](https://github.com/Devora-Ger)
 - [Elvira Ivanova](https://github.com/elviraIv)
 - [Antonella Di Stefano] (https://github.com/antodis79)
@@ -294,7 +294,7 @@ Gabi Nelepcu
 - [Samuel Donkor](https://github.com/nanaknketsiah)
 - [Zohaib](https://github.com/zohaibsaqib1)
 - [Jaguard2021](https://github.com/jaguard2021)
--[Jessica-ovabor](https://github.com/Jessica-ovabor)
+- [Jessica-ovabor](https://github.com/Jessica-ovabor)
 - [Sam]
 - [Jimmy P](https://github.com/jgpentz) 
 - [Daniel Fraga](https://github.com/Danfraga33)
