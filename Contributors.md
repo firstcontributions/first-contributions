@@ -5089,5 +5089,6 @@ Gauresh Rathi
 - [PusPC](https://github.com/PusPC)
 - [fossgibson](https://github.com/fossgibson)
 - [gaoozi](https://github.com/gaoozi)
+- [vishalsekar11](https://github.com/vishalsekar11)
 - [WangChuDi](https://github.com/WangChuDi)
 
