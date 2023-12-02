@@ -51,6 +51,7 @@ Gabi Nelepcu
 - [Saurav Bisht] (https://github.com/aka-bisht)
 - [Touseef Khan](https://github.com/touseef4pk)
 - [6HIIIG9] (http://github.com/6OmpH9)
+- [Hamid Niakan] (https://github.com/Hamid-Niakan)
 - [Iedame] (http://github.com/Iedame)
 - [Tarek Nabil] (https://github.com/TarekNabil)
 - [Deepanshu] (https://github.com/deepanshu2711)
