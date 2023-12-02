@@ -13,6 +13,7 @@
 - [ Idris Oladipo] (https://github.com/Milo82)   
 Ayush Gaud
 - [RoycejChan] (https://github.com/RoycejChan)
+-[Victus] (https://github.com/victuseze)
 - [Moocoder] (https://github.com/mpatel6654)
 - [Abdessamad Touzani](https://github.com/AbdessamadTzn)  
 - [Astral1w3](https://github.com/Astral1w3)  
