@@ -70,6 +70,7 @@ Gabi Nelepcu
 - [Farhan Sodiq](https://github.com/codeHokage1)
 - [Robin Carey] (https://github.com/robincarey)
 - [zhoda-lii]
+- [mrgrouse]
 - [Muhammad Ahsan Muneer](https://github.com/ahsanmunyr)
 - [Micah Eckard] (https://github.com/meckard)
 - [Michael Adebayo](https://github.com/MichaelAdebayo)
