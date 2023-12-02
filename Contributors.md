@@ -2,6 +2,7 @@
 # Contributors
 - [Anjali Gaikwad] (https://github.com/ANJALI2980)
 - [Kyuhong Han] (https://github.com/roy0424)
+- [Max Brener] (https://github.com/MaxBR97)
 - [Usaid Aqeel] (https://github.com/UsaidAqeel)
 - [Anthony Squire] (https://github.com/Squire-A)
 - [PoJu Chen](https://github.com/poju3185)
