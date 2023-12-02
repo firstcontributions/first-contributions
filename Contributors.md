@@ -1,5 +1,6 @@
 
 # Contributors
+- [Anjali Gaikwad] (https://github.com/ANJALI2980)
 - [Kyuhong Han] (https://github.com/roy0424)
 - [Usaid Aqeel] (https://github.com/UsaidAqeel)
 - [Anthony Squire] (https://github.com/Squire-A)
