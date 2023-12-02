@@ -195,6 +195,7 @@ Gabi Nelepcu
 - [Ryan Beert](https://github.com/rbeert)
 - [Rafi Sakib](https://github.com/samiursakib)
 - [Shashwat Tripathi](https://github.com/Mystery-Shashwat)
+- [Light](https://github.com/3x10RaiseTo8)
 - [Yasir Ali](https://github.com/yasirali0)
 - [Jianfeng Shao](https://github.com/JianfengShao)
 - [Booboo](http://github.com/fjsahflasj)
