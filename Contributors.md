@@ -61,6 +61,7 @@ Gabi Nelepcu
 - [AbdulSamad] (https://github.com/abdulsamad2/)
 - [Tejas Dixit] (https://github.com/pandatd)
 - [Neha Nihar] (https://github.com/NehaNihar12)
+- [Zenith] (https://github.com/zenithv1)
 - [YYT] (https://github.com/yeyintthu01)
 - [Yash Kan] (https://github.com/yash-phoenix79)
 [kodeman](https://github.com/kodeman2)
