@@ -252,6 +252,7 @@ Gabi Nelepcu
 - [Lina Sundén](https://github.com/LinaSunden)
 - [Joseph Galloway](https://github.com/josephgalloway321)
 - [Shail Shah](https://github.com/shahshail2001)
+- [Parth Makwana](https://github.com/parthmak19)
 - [Manu Raj Yadav](https://github.com/Manurajyadav)
 - [Brian-M-J](https://github.com/Brian-M-J)
 - [Md Javed Ahmed Shanto] (https://github.com/Javed-ahmed-shanto)
