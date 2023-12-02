@@ -1,15 +1,19 @@
 
 # Contributors
+- [Anjali Gaikwad] (https://github.com/ANJALI2980)
 - [Kyuhong Han] (https://github.com/roy0424)
+- [Max Brener] (https://github.com/MaxBR97)
 - [Usaid Aqeel] (https://github.com/UsaidAqeel)
 - [Anthony Squire] (https://github.com/Squire-A)
 - [PoJu Chen](https://github.com/poju3185)
 - [Yuvraj Singh] (https://github.com/YuvrajS01)
 - [Saketh Pallempati] (https://github.com/saketh-pallempati)
+- [Ayush Vatsa](https://github.com/developerayuva)
 - [Ilay Amir] (https://github.com/ilayamir)
 - [ Idris Oladipo] (https://github.com/Milo82)   
 Ayush Gaud
 - [RoycejChan] (https://github.com/RoycejChan)
+-[Victus] (https://github.com/victuseze)
 - [Moocoder] (https://github.com/mpatel6654)
 - [Abdessamad Touzani](https://github.com/AbdessamadTzn)  
 - [Astral1w3](https://github.com/Astral1w3)  
@@ -47,6 +51,7 @@ Gabi Nelepcu
 - [Saurav Bisht] (https://github.com/aka-bisht)
 - [Touseef Khan](https://github.com/touseef4pk)
 - [6HIIIG9] (http://github.com/6OmpH9)
+- [Hamid Niakan] (https://github.com/Hamid-Niakan)
 - [Iedame] (http://github.com/Iedame)
 - [Tarek Nabil] (https://github.com/TarekNabil)
 - [Deepanshu] (https://github.com/deepanshu2711)
@@ -4664,6 +4669,7 @@ Akash Abraham
 - [Evan Glaze](https://github.com/The-Angry-Bagel)
 - ming3
 - BBrar
+  [randarura](https://github.com/randarura)
 - [Louis] (https://github.com/louietouie)
 - [Sergey Rudenko](https://github.com/der-fanatiker)
 - [Deepak Sah](https://github.com/deepakkumar1983)
@@ -5066,7 +5072,6 @@ Gauresh Rathi
 - [Atriki85] (https://github.com/Atriki85)
 - [Sapphire](https://github.com/sapsap1)
 - [Jeswanthv] (https://github.com/jeswanthv)
-- [Avijit Manna](https://github.com/manna-avijit)
 - [Saurabhk79] (https://github.com/saurabhk79)
 - [Praveenraj002] (https://github.com/Praveenraj002)
 - [OktayRasimov] (https://github.com/OktayRasimov)
@@ -5078,3 +5083,6 @@ Gauresh Rathi
 - [Achal Jhawar](https://github.com/achaljhawar)
 - [PusPC](https://github.com/PusPC)
 - [fossgibson](https://github.com/fossgibson)
+- [gaoozi](https://github.com/gaoozi)
+- [WangChuDi](https://github.com/WangChuDi)
+- [Avijit Manna](https://github.com/manna-avijit)
