@@ -2,6 +2,7 @@
 # Contributors
 - [Kim JunHyun] (https://github.com/NaMooJoon)
 - [Anjali Gaikwad] (https://github.com/ANJALI2980)
+- [coinZee/Nick] (https://github.com/coinZee)
 - [Kyuhong Han] (https://github.com/roy0424)
 - [Max Brener] (https://github.com/MaxBR97)
 - [Usaid Aqeel] (https://github.com/UsaidAqeel)
