@@ -2983,6 +2983,7 @@ Nikhil R
 - [SaswatSahu](https://github.com/Raphel6969)
 - [Sumitra Sharma](https://github.com/heygauri)
 - [Alex W](https://github.com/yw3762)
+- [Jorge Ragde](https://github.com/jvr0123)
 - [Sanjiv Kushwaha]
 - [Sumitra Sharma](https://github.com/heygauri)
 - [Tyler Idzerda} (https://github.com/idzerda-tyler)
