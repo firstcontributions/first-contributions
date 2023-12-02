@@ -1,15 +1,19 @@
 
 # Contributors
+- [Anjali Gaikwad] (https://github.com/ANJALI2980)
 - [Kyuhong Han] (https://github.com/roy0424)
+- [Max Brener] (https://github.com/MaxBR97)
 - [Usaid Aqeel] (https://github.com/UsaidAqeel)
 - [Anthony Squire] (https://github.com/Squire-A)
 - [PoJu Chen](https://github.com/poju3185)
 - [Yuvraj Singh] (https://github.com/YuvrajS01)
 - [Saketh Pallempati] (https://github.com/saketh-pallempati)
+- [Ayush Vatsa](https://github.com/developerayuva)
 - [Ilay Amir] (https://github.com/ilayamir)
 - [ Idris Oladipo] (https://github.com/Milo82)   
 Ayush Gaud
 - [RoycejChan] (https://github.com/RoycejChan)
+-[Victus] (https://github.com/victuseze)
 - [Moocoder] (https://github.com/mpatel6654)
 - [Abdessamad Touzani](https://github.com/AbdessamadTzn)  
 - [Astral1w3](https://github.com/Astral1w3)  
@@ -4664,6 +4668,7 @@ Akash Abraham
 - [Evan Glaze](https://github.com/The-Angry-Bagel)
 - ming3
 - BBrar
+  [randarura](https://github.com/randarura)
 - [Louis] (https://github.com/louietouie)
 - [Sergey Rudenko](https://github.com/der-fanatiker)
 - [Deepak Sah](https://github.com/deepakkumar1983)
@@ -5078,3 +5083,5 @@ Gauresh Rathi
 - [PusPC](https://github.com/PusPC)
 - [fossgibson](https://github.com/fossgibson)
 - [gaoozi](https://github.com/gaoozi)
+- [WangChuDi](https://github.com/WangChuDi)
+
