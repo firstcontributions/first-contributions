@@ -16,7 +16,7 @@ Ayush Gaud
 - [Fabio Capocasale] (https://github.com/ghost0r10n)
 - [Sheena Barnes] (https://github.com/shba2504)
 - [Aditi Agarwal](https://github.com/Aditi0325)
--[Dibyendu Bar](https://github.com/Dibyendu-13)
+- [Dibyendu Bar](https://github.com/Dibyendu-13)
 - [Wai Yan Min](github.com/Wai-Yan-Min-MIIT)
 - [Polyana Amaral](github.com/polyanaamaral)
 - [Kaleb Nim](https://github.com/Kaleb-Nim)
