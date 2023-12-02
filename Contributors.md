@@ -3902,6 +3902,7 @@ Akash Abraham
 - [Cole Robinson](https://github.com/Col-R)
 - [Zach Adkins](https://github.com/zaa94/)
 - [Nandana Babu](https://github.com/NanduNanduz)
+- [Brett Caple](https://github.com/bcaple)
 - [Megan May](https://github.com/mooogz)
 - [Ali Rihan](https://github.com/a13r1)
 - [Wairimu Ian](https://github.com/wairimu-ian)
