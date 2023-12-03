@@ -89,6 +89,7 @@ Gabi Nelepcu
 - [Robin Carey] (https://github.com/robincarey)
 - [zhoda-lii]
 - [mrgrouse]
+- [westcal - Caleb West]
 - [Muhammad Ahsan Muneer](https://github.com/ahsanmunyr)
 - [Micah Eckard] (https://github.com/meckard)
 - [Michael Adebayo](https://github.com/MichaelAdebayo)
