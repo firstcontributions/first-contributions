@@ -17,6 +17,7 @@
 - [ Idris Oladipo] (https://github.com/Milo82)   
 Ayush Gaud
 - Anonymousizzy 
+- [Elena N.J.] (https://github.com/h669798)
 -Matttrus
 - [syeda-fajar](https://github.com/syeda-fajar)
 -[Chaithanya Krisha] (https://github.com/krsna28)
