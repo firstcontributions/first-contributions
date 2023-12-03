@@ -18,6 +18,7 @@
 - [Ilay Amir] (https://github.com/ilayamir)
 - [ Idris Oladipo] (https://github.com/Milo82)   
 - [Aniketh Varma](https://github.com/anikethvarma)
+- [Marco T] (https://github.com/marknovanta)
 -[Matt Mancuso](https://github.com/MancusoM)
 - [Samip Neupane](https://github.com/samipneupane)
 Ayush Gaud
