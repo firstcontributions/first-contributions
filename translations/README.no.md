@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-#### _Read this in [other languages](translations/Translations.md)._
+#### _Les dette på [ander språk](translations/Translations.md)._
 
 <kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/al.svg" width="22">](translations/README.al.md)</kbd>
 <kbd>[<img title="Uzbek" alt="Uzbek language" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/uz.svg" width="22">](translations/README.uz.md)</kbd>
@@ -84,13 +84,15 @@ Det er alltid vanskelig å gjøre noe for første gang. Spesielt når man samarb
 _Hvis du ikke er komfortabel med terminal, [så finnes det andre metoder med bruk av GUI.](#tutorials-using-other-tools)_
 
 #### Om du ikke har git installert på din maskin, [følg denne veiledningen](https://help.github.com/articles/set-up-git/).
+<br/><br/>
 
 ## Fork dette prosjektet
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 Fork prosjektet ved å klikke på "fork" knappen på toppen av denne siden. Dette vil legge til en kopi av dette prosjektet til din GitHub konto (prosjekter kalles repository på GitHub).
-
+<br/><br/>
+<br/><br/>
 
 ## Clone prosjektet
 
@@ -115,7 +117,8 @@ git clone https://github.com/ditt-brukernavn/first-contributions.git
 ```
 
 der `ditt-brukernavn` er ditt GitHub brukernavn. Her kopierer vi innholdet i first-contributions prosjektet fra din GitHub konto til din lokale maskin.
-
+<br/><br/>
+<br/><br/>
 
 ## Opprett en branch
 
@@ -137,6 +140,7 @@ Eksempel:
 git checkout -b add-alonzo-church
 ```
 Navnet på din branch behøver ikke å inneholde ordet _add_, men det gir mening å inkludere det i denne sammenhengen. Endre "alonzo-church" til ditt navn.
+<br/><br/>
 
 ## Lag nødvendige endringer og commit dem
 
@@ -160,6 +164,7 @@ git commit -m "Add <ditt-navn> to Contributors list"
 ```
 
 Erstatt `<ditt-navn>` med ditt navn.
+<br/><br/>
 
 ## Push endringene til GitHub
 
@@ -181,6 +186,7 @@ Erstatt `<navn-på-din-branch>` med navnet på branch som du opprettet tidligere
   Gå til [GitHub's brukansvisning](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) med generering og konfigurering av SHH nøkkelen til kontoen din.
 
 </details>
+<br/><br/>
 
 ## Send inn endringene for gjennomgang
 
@@ -193,6 +199,7 @@ Send inn din pull request når du er klar.
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
 Snart vil jeg merge dine endringer inn i master branch av mitt prosjekt. Du vil motta en notifikasjon på epost når dine endringer er lagt til.
+<br/><br/>
 
 ## Hva nå?
 
@@ -203,6 +210,7 @@ Feir ditt bidrag og del det med dine venner og følgere ved å gå til [web app]
 Behøver du hjelp eller vil stille spørsmål så kan du bli med i vår slack-gruppe. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Nå kan du gå videre og bidra til andre open-source prosjekter. Vi har satt sammen en liste med enkle og overkommelige problemer du kan starte med. Sjekk den ut her: [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
+<br/><br/>
 
 ### [Ekstramateriale](additional-material/git_workflow_scenarios/additional-material.md)
 
