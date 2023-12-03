@@ -1,6 +1,7 @@
 
 # Contributors
 - [Kim JunHyun] (https://github.com/NaMooJoon)
+- [Noeh Ledra] (https://github.com/Noeh-L)
 - [Anjali Gaikwad] (https://github.com/ANJALI2980)
 - [coinZee/Nick] (https://github.com/coinZee)
 - [Kyuhong Han] (https://github.com/roy0424)
