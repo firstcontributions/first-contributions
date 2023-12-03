@@ -1,6 +1,7 @@
 
 # Contributors
 - [Kim JunHyun] (https://github.com/NaMooJoon)
+- [Kiyo] (https://github.com/kiyoone)
 - [rawfiul](https://github.com/rawfiul)
 - [Noeh Ledra] (https://github.com/Noeh-L)
 - [Anjali Gaikwad] (https://github.com/ANJALI2980)
