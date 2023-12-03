@@ -2777,6 +2777,7 @@ Nikhil R
 - [Amardeep Ranjan](https://github.com/amardeep911)
 - [Christian Wheeler](https://github.com/Wheeler-Christian)
 - [Troy Krause](https://github.com/ST10248581)
+- [Ale P]
 - [Shyamanta Kalita](https://github.com/ShyamantaKalita)
 - [Shubhankar Kaushik](https://github.com/Shubhankar2003)
 - [saksham saha](mendacium-a11y)
