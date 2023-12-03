@@ -372,6 +372,7 @@ Gabi Nelepcu
 - [HtetWaiHlyanKyaw](https://github.com/HtetWaiHlyanKyaw)
 - [Fewtap](https://github.com/Fewtap/)
 - [Dan The Man]
+- [KKS] (https://github.com/kaykhinesu)
 - [Sammii Espinoza](https://github.com/SammiiSam)
 - [Sai Mani Kumar Devathi]
 - [Chester Lee Coloma](https://github.com/cleecoloma)
