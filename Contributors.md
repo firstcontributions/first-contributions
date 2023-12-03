@@ -50,6 +50,7 @@ Gabi Nelepcu
 - [amin2ace] (https://github.com/amin2ace/)
 - [Vikram Shetty] (https://github.com/vikram71198)
 - [DarksharkThe1st] (https://github.com/Darksharkthe1st)
+- [scevans83] (https://github.com/scevans83)
 - [Hexstars] (https://github.com/Hexstars)
 - [kt28397] (https://github.com/kt28397/)
 - [fezzo] (https://github.com/fedelopre)
