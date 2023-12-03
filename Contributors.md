@@ -304,6 +304,7 @@ Gabi Nelepcu
 - [Vanessa Linus] (https://github.com/msveelin)
 - [Ricky Barfield](https://github.com/flbarfield)
 - [Ankit Goyal](https://github.com/goyalankit47)
+- [Thomas Sulzbacher](https://github.com/HexDaLord)
 - [Katie Sayers](https://github.com/saykate)
 - [Krishna Chaitanya Devunoori](https://github.com/KrishnaChaitanya20)
 - [Aman Sharma](https://github.com/aman-sharma-as)
