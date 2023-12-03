@@ -14,6 +14,7 @@
 - [Ilay Amir] (https://github.com/ilayamir)
 - [ Idris Oladipo] (https://github.com/Milo82)   
 Ayush Gaud
+- Anonymousizzy 
 - [RoycejChan] (https://github.com/RoycejChan)
 -[Victus] (https://github.com/victuseze)
 - [Moocoder] (https://github.com/mpatel6654)
