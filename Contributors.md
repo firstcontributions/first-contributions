@@ -1547,6 +1547,7 @@ aj
 - [Avadhut Giri](https://github.com/Royalty252)
 - [1amkaizen](https://github.com/1amkaizen)
 - [Gustavo Keller](https://github.com/eugustavokeller)
+- [Jaron Wenger] (https://github.com/JaronWenger)
 - [Lifetime Hustler](https://github.com/Sanyam-2026)
 - [Amy Martin](https://github.com/amy-martin)
 - [Heli Patel] (https://github.com/helip0269)
