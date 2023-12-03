@@ -30,6 +30,7 @@ Ayush Gaud
 - [Abdessamad Touzani](https://github.com/AbdessamadTzn)  
 - [Astral1w3](https://github.com/Astral1w3)  
 - [Fabio Capocasale] (https://github.com/ghost0r10n)
+- [clawnic] (https://github.com/clawnic)
 - [Sheena Barnes] (https://github.com/shba2504)
 - [Aditi Agarwal](https://github.com/Aditi0325)
 - [Dibyendu Bar](https://github.com/Dibyendu-13)
