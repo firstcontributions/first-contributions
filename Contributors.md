@@ -13,7 +13,8 @@
 - [Saketh Pallempati] (https://github.com/saketh-pallempati)
 - [Ayush Vatsa](https://github.com/developerayuva)
 - [Ilay Amir] (https://github.com/ilayamir)
-- [ Idris Oladipo] (https://github.com/Milo82)   
+- [ Idris Oladipo] (https://github.com/Milo82) 
+- [Satyajeet Zala] (https://github.com/satyajeetzala)  
 Ayush Gaud
 - Anonymousizzy 
 - [syeda-fajar](https://github.com/syeda-fajar)
@@ -75,6 +76,7 @@ Gabi Nelepcu
 - [Ayush Sharma](https://github.com/meAyushSharma)
 - [Bekpolat Aydarbaev](https://github.com/Bekforever13)
 - [Asi Sasi](https://github.com/ASP2017)
+- [Satyajeet Zala] (https://github.com/satyajeetzala)  
 - [Kishore Rajkumar](https://github.com/tech-kishore)
 - [minus72] (https://github.com/minus72)
 - [PushoDev](https://github.com/PushoDev)
