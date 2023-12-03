@@ -3,6 +3,7 @@
 - [Kim JunHyun] (https://github.com/NaMooJoon)
 - [Kiyo] (https://github.com/kiyoone)
 - [rawfiul](https://github.com/rawfiul)
+- [Gaurav Parajuli](https://github.com/gauravparajuli)
 - [Noeh Ledra] (https://github.com/Noeh-L)
 - [Anjali Gaikwad] (https://github.com/ANJALI2980)
 - [coinZee/Nick] (https://github.com/coinZee)
