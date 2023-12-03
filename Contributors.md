@@ -699,6 +699,7 @@ Brent L
 - [Adhiraj](https://github.com/xraymaverick)
 - [William](https://github.com/alfabeat)
 - [Istvan Horvath] (https://github.com/designbyistvan)
+- [Austin S. Lawan](https://github.com/ASLawan)
 - [bizzybits](https://github.com/bizzybits)
 - [ professssor](https://github.com/professssor)
 -[Aliloulaye Tchaou](https://github.com/aliloulaye)
