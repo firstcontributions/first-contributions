@@ -8,6 +8,7 @@
 - [Anjali Gaikwad] (https://github.com/ANJALI2980)
 - [Jim Hatley] (https: //github.com/jhatley75)
 - [coinZee/Nick] (https://github.com/coinZee)
+- [Sidhardh Joe] (https://github.com/SidhardhJoe)
 - [Kyuhong Han] (https://github.com/roy0424)
 - [Max Brener] (https://github.com/MaxBR97)
 - [Usaid Aqeel] (https://github.com/UsaidAqeel)
