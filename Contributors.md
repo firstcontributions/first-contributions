@@ -511,6 +511,7 @@ Brent L
 - [lagab sara] (https://github.com/emerald-zzz)
 - [Isna Ayu Muarofah](https://github.com/isnaayu)
 - [aryanraskar](https://github.com/aryanraskar)
+- [Rishab B Angadi](https://github.com/rishabangadi)
 - [Schyerke](https://github.com/Schyerke)
 - [Shann Span](https://github.com/Shannspan)
 - [Brijesh](https://github.com/BrijeshBurfal)
