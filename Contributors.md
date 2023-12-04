@@ -76,6 +76,7 @@ Gabi Nelepcu
 - [mrZOOL1](https://github.com/mrZOOL1)
 - [Ken Liem] (https://github.com/SleepyKen)
 - [Saurav Bisht] (https://github.com/aka-bisht)
+- [Rakshit Sisodiya] (https://github.com/Rakshit-gen)
 - [Touseef Khan](https://github.com/touseef4pk)
 - [6HIIIG9] (http://github.com/6OmpH9)
 - [Hamid Niakan] (https://github.com/Hamid-Niakan)
