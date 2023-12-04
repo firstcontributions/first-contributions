@@ -1206,6 +1206,7 @@ harshal honde
 - [Manish Jha](https://github.com/manishjha-04)
 - [Chinmay Raichur](https://github.com/ChinmayR07)
 - [Harsh Jaiswal](https://github.com/harshjais369)
+- [Cuddle](https://github.com/notcuddle)
 - [Racheli Gimi](https://github.com/RACHELIgit)
 - [Richard Triplett](https://github.com/retripl)
 - [Asher Farhan](https://github.com/AsherFarhan2001)
