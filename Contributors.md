@@ -2446,6 +2446,7 @@ Sino Felicity Zwane
 - [Sujal suri](https://github.com/sujal-suri)
 - [Willy Wonka](https://github.com/massablaise)
 - [Melinda Cortez](https://github.com/Solita43)
+- [kalrog-dev](https://github.com/kalrog-dev)
 - [Akash D Mane](https://github.com/akashmane17)
 - [Dominik](https://github.com/dominikstas)
 - [Patricia Dinh](https://github.com/phdinh)
