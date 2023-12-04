@@ -20,6 +20,7 @@
 - [ Idris Oladipo] (https://github.com/Milo82)   
 - [Aniketh Varma](https://github.com/anikethvarma)
 - [Marco T] (https://github.com/marknovanta)
+- [Milind V] (https://github.com/milindva)
 - smilefabri
 -[Matt Mancuso](https://github.com/MancusoM)
 - [Samip Neupane](https://github.com/samipneupane)
