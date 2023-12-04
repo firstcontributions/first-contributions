@@ -25,6 +25,7 @@
 -[Matt Mancuso](https://github.com/MancusoM)
 - [Samip Neupane](https://github.com/samipneupane)
 Ayush Gaud
+- [Rudra Pakhare](https://github.com/Rudra-Pakhare)
 - Anonymousizzy 
 -Matttrus
 - [syeda-fajar](https://github.com/syeda-fajar)
