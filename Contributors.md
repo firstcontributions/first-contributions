@@ -80,6 +80,7 @@ Gabi Nelepcu
 - [Tarek Nabil] (https://github.com/TarekNabil)
 - [Deepanshu] (https://github.com/deepanshu2711)
 - [AbdulSamad] (https://github.com/abdulsamad2/)
+- [Samkelo Chamane] (https://github.com/samkelo-chamane)
 - [Tejas Dixit] (https://github.com/pandatd)
 - [Neha Nihar] (https://github.com/NehaNihar12)
 - [Zenith] (https://github.com/zenithv1)
@@ -5116,6 +5117,7 @@ Gauresh Rathi
 - [Markus Thomas Ebner](https://github.com/KnochenMarkSaege/)
 - [xfy](https://github.com/xfy0012)
 - [Atriki85] (https://github.com/Atriki85)
+- [Jeswanthv] (https://github.com/jeswanthv)
 - [Sapphire](https://github.com/sapsap1)
 - [Jeswanthv] (https://github.com/jeswanthv)
 - [Saurabhk79] (https://github.com/saurabhk79)
@@ -5134,4 +5136,3 @@ Gauresh Rathi
 - [gaoozi](https://github.com/gaoozi)
 - [vishalsekar11](https://github.com/vishalsekar11)
 - [WangChuDi](https://github.com/WangChuDi)
-
