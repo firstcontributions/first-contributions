@@ -36,6 +36,7 @@ Ayush Gaud
 - [RoycejChan] (https://github.com/RoycejChan)
 -[Victus] (https://github.com/victuseze)
 - [Moocoder] (https://github.com/mpatel6654)
+- [Stefano Gaspari] (https://github.com/stefanogaspari)
 - [Abdessamad Touzani](https://github.com/AbdessamadTzn)  
 - [Astral1w3](https://github.com/Astral1w3)  
 - [Fabio Capocasale] (https://github.com/ghost0r10n)
