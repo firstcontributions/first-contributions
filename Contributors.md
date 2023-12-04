@@ -380,6 +380,7 @@ Gabi Nelepcu
 - [Djumash Poulsen](https://github.com/Djumash93)
 - [CodeLikeAyush](https://github.com/CodeLikeAyush)
 - [ZWA](https://github.com/ZWA)
+- [Tymee Kong](https://github.com/TymeeK)
 - [Ayush Srivastav](https://github.com/meetaayush)
 - [VISHAL KUMAR](https://github.com/I-Vishal-Kumar)
 - [Michael Ogunyemi](https://github.com/Mic-hvel)
