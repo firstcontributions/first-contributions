@@ -2444,6 +2444,7 @@ Sino Felicity Zwane
 - [Kosumo] (https://github.com/masumo)
 - [Ken Andre](https://github.com/Ken-Andre)
 - [Kane Le](https://github.com/kanelv)
+- [Zorah](https://github.com/ZorahScope/)
 - [Rohan Kanti] (https://github.com/rohank36)
 - [Frederick] (https://github.com/fredsn0tDead)
 - [King Maxilla] (https://github.com/KingMaxilla)
