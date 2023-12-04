@@ -5078,6 +5078,7 @@ Gauresh Rathi
 - [Denis AKPAGNONITE](https://github.com/denisakp)
 - [Faith Mucheru](https://github.com/KariMucheru)
 - [Fakesoftpillow]
+- [Nabin Oli](https://github.com/nabin2004)
 - [Hunter Termo](https://github.com/0hterm)
 - [24x7 Geeks Sollutions Adharsh] (https://github.com/adhasrh)
 [Sebastian Budyński](https://github.com/SebBudynski)
@@ -5109,7 +5110,7 @@ Gauresh Rathi
 - [Akash Parmar](https://github.com/Akash-cloud001)
 - [Bastian Behrendt](https://github.com/chenentano)
 - [Markus Thomas Ebner](https://github.com/KnochenMarkSaege/)
-- [xfy]](https://github.com/xfy0012)
+- [xfy](https://github.com/xfy0012)
 - [Atriki85] (https://github.com/Atriki85)
 - [Sapphire](https://github.com/sapsap1)
 - [Jeswanthv] (https://github.com/jeswanthv)
