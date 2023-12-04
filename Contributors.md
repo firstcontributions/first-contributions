@@ -4374,6 +4374,7 @@ Akash Abraham
 - [MohammadKad](https://github.com/mohammadkad)
 - [Aniket Negi](https://github.com/theaniketnegi)
 - [Kamari M.](https://github.com/Kamari93)
+- [Pablo Zurita Lozano](https://github.com/PZL2004)
 - [Moataz Amr](https://github.com/moataz77716)
 - Ishwari Pillay
 - Jiang J
