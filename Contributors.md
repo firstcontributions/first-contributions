@@ -2371,6 +2371,7 @@ Sino Felicity Zwane
 - [Kathleen Sison](https://github.com/hellacee)
 - [Milton Wiklund](https://github.com/wiklunden)
 - [Ryan King Ballesteros](https://github.com/n4yr25)
+- [Manuel Benzinho] (https://github.com/ManuelBenzinho)
 - [Itzel Guadalupe](https://github.com/itzelgps)
 - [lumiere(lmr](https://github.com/lumiere-MULAGWA)
 - [Bea Rizza Conag](https://github.com/beaconag)
