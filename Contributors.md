@@ -23,6 +23,7 @@
 - [Marco T] (https://github.com/marknovanta)
 - [Milind V] (https://github.com/milindva)
 - smilefabri
+- [Aashish Pandey] (https://github.com/aashish-pandey)
 -[Matt Mancuso](https://github.com/MancusoM)
 - [Samip Neupane](https://github.com/samipneupane)
 Ayush Gaud
