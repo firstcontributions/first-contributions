@@ -6,6 +6,7 @@
 - [Gaurav Parajuli](https://github.com/gauravparajuli)
 - [Noeh Ledra] (https://github.com/Noeh-L)
 - [Anjali Gaikwad] (https://github.com/ANJALI2980)
+- [Jim Hatley] (https: //github.com/jhatley75)
 - [coinZee/Nick] (https://github.com/coinZee)
 - [Kyuhong Han] (https://github.com/roy0424)
 - [Max Brener] (https://github.com/MaxBR97)
