@@ -4,6 +4,7 @@
 - [Kiyo] (https://github.com/kiyoone)
 - [rawfiul](https://github.com/rawfiul)
 - [Gaurav Parajuli](https://github.com/gauravparajuli)
+- [Guochen Liao](https://github.com/GuochenLiao)
 - [Noeh Ledra] (https://github.com/Noeh-L)
 - [Anjali Gaikwad] (https://github.com/ANJALI2980)
 - [Jim Hatley] (https: //github.com/jhatley75)
