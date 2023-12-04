@@ -56,6 +56,7 @@ Ayush Gaud
 - [Toby] (https://github.com/tobiastdev)
 - [MarioCapodanno](https://github.com/MarioCapodanno)
 - [Derek Kim](https://github.com/derekhskim)
+- [Rasine](https://github.com/eyesaidyo/)
 Gabi Nelepcu
 - [amin2ace] (https://github.com/amin2ace/)
 - [Vikram Shetty] (https://github.com/vikram71198)
