@@ -85,6 +85,7 @@ Gabi Nelepcu
 - [Iedame] (http://github.com/Iedame)
 - [Tarek Nabil] (https://github.com/TarekNabil)
 - [Deepanshu] (https://github.com/deepanshu2711)
+- [Michael Gabriel](github.com/Mikeabah)
 - [AbdulSamad] (https://github.com/abdulsamad2/)
 - [Samkelo Chamane] (https://github.com/samkelo-chamane)
 - [Tejas Dixit] (https://github.com/pandatd)
