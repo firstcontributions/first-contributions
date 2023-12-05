@@ -1307,6 +1307,7 @@ harshal honde
 - [Chisom Jude](https://github.com/chisomjude)
 - [Varanasi Aditya Sai](https://github.com/fvaysh)
 - [Kim Schlesinger](https://github.com/kimschles)
+- [Carly Kennedy] (https://github.com/TimeIsOnMySide)
 - [Tayyab Qaisar] (https://github.com/TayyabQ)
 - [Lewis Odero](https://github.com/levos-snr)
 - [Jacinta kazenzi](https://github.com/Kazenzi)
