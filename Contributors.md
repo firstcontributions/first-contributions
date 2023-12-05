@@ -30,6 +30,7 @@
 - [Gourab R] (https://github.com/crimsonKn1ght)
 - [Aniketh Varma](https://github.com/anikethvarma)
 - [Marco T] (https://github.com/marknovanta)
+- [Shreyas Agrawal](https://github.com/shreyasagrawal)
 - [Milind V] (https://github.com/milindva)
 - smilefabri
 - [Aashish Pandey] (https://github.com/aashish-pandey)
