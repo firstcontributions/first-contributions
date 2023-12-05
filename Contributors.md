@@ -1136,6 +1136,7 @@ harshal honde
 - [Egor Andreev](https://github.com/andreyegor)
 - [Vivek Kumar](https://github.com/demonvivekBoii)
 - [Jaideep Reddy](https://github.com/m0nst3rz)
+- [Eddie Liu](https://github.com/EddieLiu0)
 - [Krish Soni](https://github.com/krishvsoni)
 - [DanushkaSehan](https://github.com/DanushkaSehan)
 - [Lolu Bolarinwa](https://github.com/LoluBolarinwa)
@@ -5153,4 +5154,3 @@ Gauresh Rathi
 - [Gabriel Burceanu](https://github.com/gabrielburceanu)
 - [Dom Polochak](https://github.com/dompolochak)
 - [Pawel Glowacki](https://github.com/pawelglo)
-- [Eddie Liu](https://github.com/EddieLiu0)
