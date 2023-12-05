@@ -130,7 +130,7 @@ git push origin add-alonzo-church
 
 그리고 도움이 필요하거나 질문이 있다면 저희의 slack 에서 요청해보세요. → [slack 팀 가입하기](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 
-이제 다른 프로젝트에도 기여해보세요! 지금 바로 시작할 수 있는 난이도가 낮은 이슈들로 가득찬 목록이 있습니다. [웹앱의 프로젝트 목록](https://firstcontributions.github.io/#project-list)에서 확인해보세요.
+이제 다른 프로젝트에도 기여해보세요! 지금 바로 시작할 수 있는 난이도가 낮은 이슈들로 가득찬 목록이 있습니다. [웹앱의 프로젝트 목록](https://firstcontributions.github.io/#project-list)에서 확인해보세요!
 
 
 
