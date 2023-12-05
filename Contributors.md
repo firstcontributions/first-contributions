@@ -68,6 +68,7 @@ Ayush Gaud
 - [Rasine](https://github.com/eyesaidyo/)
 Gabi Nelepcu
 - [amin2ace] (https://github.com/amin2ace/)
+- [Amine ElBaghdadi] (https://github.com/noobjsperson/)
 - [Vikram Shetty] (https://github.com/vikram71198)
 - [DarksharkThe1st] (https://github.com/Darksharkthe1st)
 - [scevans83] (https://github.com/scevans83)
