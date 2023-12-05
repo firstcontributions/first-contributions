@@ -34,6 +34,7 @@ Ayush Gaud
 - [Rudra Pakhare](https://github.com/Rudra-Pakhare)
 - Anonymousizzy 
 -Matttrus
+- [AyushSingh] (https://github.com/NemesisXVI)
 - [syeda-fajar](https://github.com/syeda-fajar)
 -[Chaithanya Krisha] (https://github.com/krsna28)
 - [Abheeshta P] (https://github.com/Abheeshta-P)
