@@ -9,6 +9,7 @@
 - [Noeh Ledra] (https://github.com/Noeh-L)
 - [Claudia Varona](https://github.com/Clau050994)
 - [Anjali Gaikwad] (https://github.com/ANJALI2980)
+- [Iranna Hejjegar] (https://github.com/iranna22)
 - [Jim Hatley] (https: //github.com/jhatley75)
 - [coinZee/Nick] (https://github.com/coinZee)
 - [Sidhardh Joe] (https://github.com/SidhardhJoe)
