@@ -26,6 +26,7 @@
 - [Ayush Vatsa](https://github.com/developerayuva)
 - [Ilay Amir] (https://github.com/ilayamir)
 - [ Idris Oladipo] (https://github.com/Milo82)   
+- [Gourab R] (https://github.com/crimsonKn1ght)
 - [Aniketh Varma](https://github.com/anikethvarma)
 - [Marco T] (https://github.com/marknovanta)
 - [Milind V] (https://github.com/milindva)
