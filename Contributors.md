@@ -1,6 +1,6 @@
 
 # Contributors
-- [ismailbentabett] (https://github.com/ismailbentabett)
+- [ismailbentabett](https://github.com/ismailbentabett)
 - [youngwoo] (https://github.com/Dandyoung)
 - [Kim JunHyun] (https://github.com/NaMooJoon)
 - [Kiyo] (https://github.com/kiyoone)
