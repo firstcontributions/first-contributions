@@ -1,6 +1,7 @@
 
 # Contributors
 - [youngwoo] (https://github.com/Dandyoung)
+- [Gal David] (https://github.com/GalDavid6)
 - [Kim JunHyun] (https://github.com/NaMooJoon)
 - [Kiyo] (https://github.com/kiyoone)
 - [rawfiul](https://github.com/rawfiul)
