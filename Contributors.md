@@ -477,6 +477,7 @@ Brent L
 - [Shrid Mishra](https://github.com/shridmishra)
 - [Wisdom Okogho](https://github.com/setgram)
 - [Abdi Kitesa] (https://github.com/abdik-tech)
+- [Vaiditya Tanwar] (https://github.com/Vaiditya2207)
 - [Sigurd Torve Sæther] (https://github.com/sitsae)
 - [Minju Kim](https://github.com/whyNot077)
 - [Nitin Koul](https://github.com/nitin-koul)
@@ -1487,7 +1488,7 @@ harshal honde
 - [JunLovin](https://github.com/JunLovin)
 - [Nithin](https://github.com/nithin-0111/)
 - [Enoch Hodo]
-aj
+- aj
 - [Keshav Pahwa](https://github.com/keshav-pahwa/)
 - [Nawaz Baba](https://github.com/nawazbaba1993)
 - [Ved Prakash](https://github.com/Ved142)
