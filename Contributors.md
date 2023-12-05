@@ -6,6 +6,7 @@
 - [Gal David] (https://github.com/GalDavid6)
 - [Kim JunHyun] (https://github.com/NaMooJoon)
 - [Kiyo] (https://github.com/kiyoone)
+- [vincent DUSHIME](https://github.com/Vincidax)
 - [rawfiul](https://github.com/rawfiul)
 - [Gaurav Parajuli](https://github.com/gauravparajuli)
 - [Guochen Liao](https://github.com/GuochenLiao)
