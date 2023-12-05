@@ -972,6 +972,7 @@ Brent L
 - [Guillermo Guillen] (https://github.com/guillermochristopher)
 - [João Victor Cosme Melo] (https://github.com/VictorCosme)
 - [Alejandro Ch](https://github.com/AlxChuc)
+- [Alessandro Tesi](https://github.com/AlessandroTesi8)
 - [Mayank](https://github.com/mk020846)
 - [UncleRed](https://github.com/sureshp820)
 - [Shruti Dalvi](https://github.com/dalvishruti14)
