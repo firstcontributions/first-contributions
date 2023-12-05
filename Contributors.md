@@ -21,7 +21,7 @@
 - [ Idris Oladipo] (https://github.com/Milo82)   
 - [Aniketh Varma](https://github.com/anikethvarma)
 - [Marco T] (https://github.com/marknovanta)
-- [Shreyas Agrawal] (https://github.com/shreyasagrawal)
+- [Shreyas Agrawal](https://github.com/shreyasagrawal)
 - [Milind V] (https://github.com/milindva)
 - smilefabri
 - [Aashish Pandey] (https://github.com/aashish-pandey)
