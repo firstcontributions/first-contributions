@@ -2,6 +2,7 @@
 # Contributors
 - [ismailbentabett] (https://github.com/ismailbentabett)
 - [youngwoo] (https://github.com/Dandyoung)
+- [Vaiditya Tanwar] (https://github.com/Vaiditya2207)
 - [Geoffrey Kithuku](https://github.com/geoffreykithuku)
 - [Gal David] (https://github.com/GalDavid6)
 - [Kim JunHyun] (https://github.com/NaMooJoon)
