@@ -260,6 +260,7 @@ Gabi Nelepcu
 - [Ahnaf Tahmid Zaman](https://github.com/AHNAF14924)
 - [Noya David](https://github.com/Sanober494u)
 - [Ashley Mao](https://github.com/ashley1203)
+- [Brook Mao](https://github.com/BrookMaoDev)
 - [Sanober Sarfaraz Ahmed](https://github.com/Sanober494u)
 [PL](https://github.com/PyaeLinn01)
 
