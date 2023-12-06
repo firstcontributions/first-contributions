@@ -66,6 +66,7 @@ Ayush Gaud
 - [mykyta] (https://github.com/pokulita)
 -[Apurva Narayan Pradhan](https://github.com/ApurvaPradhan)
 - [Kevin Patel] (https://github.com/PatelKeviin)
+- [Joshua Estebat](https://github.com/joshmre)
 - [PSK] (https://github.com/PK-WookiDooki)
 - [PSK] (https://github.com/jamesbright)
 - [Vishal Biradar](https://github.com/vishalbrdr)
