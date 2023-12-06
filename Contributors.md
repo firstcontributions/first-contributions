@@ -112,6 +112,7 @@ Gabi Nelepcu
 [kodeman](https://github.com/kodeman2)
 - [Dylan Fritz](https://github.com/dylanfritz)
 - [Ayush Sharma](https://github.com/meAyushSharma)
+- [mindulle](https://github.com/mindulle)
 - [Bekpolat Aydarbaev](https://github.com/Bekforever13)
 - [Asi Sasi](https://github.com/ASP2017)
 - [Kishore Rajkumar](https://github.com/tech-kishore)
