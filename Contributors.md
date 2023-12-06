@@ -5191,5 +5191,6 @@ Gauresh Rathi
 - [Meep223](https://github.com/meep223)
 - [kcromanpl](https://github.com/kcromanpl)
 - [suryaC-137](https://github.com/suryaC-137)
+- [Chizoba Nwachukwu](https://github.com/k-zoz)
 - [laiba-zaheer20](https://github.com/Laiba-zaheer20)
 - [Daniel Sagie](https://github.com/danielsagie)
