@@ -15,6 +15,7 @@ sara
 - [Guochen Liao](https://github.com/GuochenLiao)
 - [Noeh Ledra] (https://github.com/Noeh-L)
 - [Claudia Varona](https://github.com/Clau050994)
+- [Armaan Singh](https://github.com/thearmaandeep)
 - [Anjali Gaikwad] (https://github.com/ANJALI2980)
 - [Htoo Aung Lin] (https://github.com/ShadowPriest)
 - [Iranna Hejjegar] (https://github.com/iranna22)
