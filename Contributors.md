@@ -1,7 +1,6 @@
 ﻿
 # Contributors
 - [Bekpolat Aydarbaev](https://github.com/Bekforever13)
-- [Elisio Massaqui](https://github.com/elisioMassaqui)
 - [PushoDev](https://github.com/PushoDev)
 - [zhoda-lii]
 - [Muhammad Ahsan Muneer](https://github.com/ahsanmunyr)
@@ -286,6 +285,7 @@ Brent L
 - [Joseph Steffin](https://github.com/steffinjoe)
 - [Oolazile](https://github.com/oolazile)
 - [Emir Velazquez](https://github.com/EmirVelazquez)
+- [Elisio Massaqui](https://github.com/elisioMassaqui)
 - [Guido Carucci](https://github.com/guido-an)
 - [Khushi Kunwar](https://github.com/khushistar)
 - [Jason Silvis](https://github.com/JSilvis73)
