@@ -29,6 +29,7 @@ sara
 - [Ilay Amir] (https://github.com/ilayamir)
 - [ Idris Oladipo] (https://github.com/Milo82)   
 - [Gourab R] (https://github.com/crimsonKn1ght)
+- [varnit-mittal] (https://github.com/varnit-mittal)
 - [Aniketh Varma](https://github.com/anikethvarma)
 - [Marco T] (https://github.com/marknovanta)
 - [Shreyas Agrawal](https://github.com/shreyasagrawal)
