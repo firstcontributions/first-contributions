@@ -1,6 +1,7 @@
 
 # Contributors
 sara
+- [Rudra Patel] (https://github.com/RUDRA959)
 - [HalconVengador2004] (https://github.com/HalconVengador2004)
 - [ismailbentabett] (https://github.com/ismailbentabett)
 - [youngwoo] (https://github.com/Dandyoung)
