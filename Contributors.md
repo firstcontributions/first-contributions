@@ -3,6 +3,7 @@
 sara
 - [ismailbentabett] (https://github.com/ismailbentabett)
 - [youngwoo] (https://github.com/Dandyoung)
+- [Jugal Kakkat] (https://github.com/jugalkkt)
 - [Geoffrey Kithuku](https://github.com/geoffreykithuku)
 - [Gal David] (https://github.com/GalDavid6)
 - [Kim JunHyun] (https://github.com/NaMooJoon)
