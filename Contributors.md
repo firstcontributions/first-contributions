@@ -1,6 +1,7 @@
 ﻿
 # Contributors
 - [Bekpolat Aydarbaev](https://github.com/Bekforever13)
+- [Elisio Massaqui](https://github.com/elisioMassaqui)
 - [PushoDev](https://github.com/PushoDev)
 - [zhoda-lii]
 - [Muhammad Ahsan Muneer](https://github.com/ahsanmunyr)
