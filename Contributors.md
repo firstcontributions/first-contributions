@@ -17,6 +17,7 @@ sara
 - [Claudia Varona](https://github.com/Clau050994)
 - [Armaan Singh](https://github.com/thearmaandeep)
 - [Anjali Gaikwad] (https://github.com/ANJALI2980)
+= [Mckinsley Apollon] (https://github.com/mcapollon)
 - [Htoo Aung Lin] (https://github.com/ShadowPriest)
 - [Iranna Hejjegar] (https://github.com/iranna22)
 - [Jim Hatley] (https: //github.com/jhatley75)
