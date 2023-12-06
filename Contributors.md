@@ -65,6 +65,7 @@ Ayush Gaud
 - [Rithuraj Nambiar](https://github.com/rithurajnambiar17)
 - [mykyta] (https://github.com/pokulita)
 -[Apurva Narayan Pradhan](https://github.com/ApurvaPradhan)
+-[MD Akib Haider](https://github.com/aaakloo-waiting)
 - [Kevin Patel] (https://github.com/PatelKeviin)
 - [Joshua Estebat](https://github.com/joshmre)
 - [PSK] (https://github.com/PK-WookiDooki)
