@@ -8,6 +8,7 @@ sara
 - [Kim JunHyun] (https://github.com/NaMooJoon)
 - [Kiyo] (https://github.com/kiyoone)
 - [vincent DUSHIME](https://github.com/Vincidax)
+- [Andres Torres] (https://github.com/Jtorresk)
 - [rawfiul](https://github.com/rawfiul)
 - [Gaurav Parajuli](https://github.com/gauravparajuli)
 - [Guochen Liao](https://github.com/GuochenLiao)
