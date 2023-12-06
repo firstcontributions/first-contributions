@@ -27,6 +27,7 @@ sara
 - [Sidhardh Joe] (https://github.com/SidhardhJoe)
 - [Kyuhong Han] (https://github.com/roy0424)
 - [Max Brener] (https://github.com/MaxBR97)
+- [sharvari]
 - [Usaid Aqeel] (https://github.com/UsaidAqeel)
 - [Anthony Squire] (https://github.com/Squire-A)
 - [PoJu Chen](https://github.com/poju3185)
