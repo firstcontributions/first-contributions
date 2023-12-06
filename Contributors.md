@@ -6,6 +6,7 @@ sara
 - [Geoffrey Kithuku](https://github.com/geoffreykithuku)
 - [Gal David] (https://github.com/GalDavid6)
 - [Kim JunHyun] (https://github.com/NaMooJoon)
+- [Bilal Sardar] (https://github.com/mbilalsardar)
 - [Kiyo] (https://github.com/kiyoone)
 - [vincent DUSHIME](https://github.com/Vincidax)
 - [Mehmet Akif Çevik](https://github.com/makifcevik)
