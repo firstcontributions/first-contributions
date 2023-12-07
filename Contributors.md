@@ -4,6 +4,7 @@ sara
 - [Eugene mehta](https://github.com/euguene)
 - [Mahesh Langote](https://github.com/Mahesh-Langote)
 - [Bojidar Vladimirov](https://github.com/noaydev)
+- [Hardik Jogadia] (https://github.com/hardikjogadia)
 - [Akshika Jain]
 - [Harshit Singh] (https://github.com/sasura212)
 - [Rudra Patel] (https://github.com/RUDRA959)
