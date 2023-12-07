@@ -19,6 +19,7 @@ sara
 - [Kim JunHyun] (https://github.com/NaMooJoon)
 - [Bilal Sardar] (https://github.com/mbilalsardar)
 - [Kiyo] (https://github.com/kiyoone)
+- [Jonas Ling] (https://github.com/ItsJonasL)
 - [pocholo30] (https://github.com/pocholo30)
 - [vincent DUSHIME](https://github.com/Vincidax)
 - [Mehmet Akif Çevik](https://github.com/makifcevik)
