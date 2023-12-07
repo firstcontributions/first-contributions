@@ -2463,6 +2463,7 @@ Sino Felicity Zwane
 - [Jyra Villanueva](https://github.com/Jyra-Villanueva)
 - [Lance Jericho Salcedo](https://github.com/jausalcedo)
 - [Carlos Tocino Cubelo](https://github.com/sharlibeicon)
+- [Mack Oyler](https://github.com/MackOyler)
 - [Madhur Aggarwal](https://github.com/MadhurAggarwal)
 - [Alfred Gabriel] (https://github.com/ajx17)
 - [Sumedh Bhat](https://github.com/SumedhBhat)
