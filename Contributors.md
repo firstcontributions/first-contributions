@@ -1208,6 +1208,7 @@ harshal honde
 - [Krish Suthar](https://github.com/krishsuthar1504)
 - [Prangshu Das](https://github.com/Prangshu004)
 - [Ceimos](https://github.com/ceimos)
+- [Bud Simpson] (https://github.com/budsimpson)
 - [Awonuga Oluwapelumi](https://github.com/Dunni0)
 - [Vraj Patel](https://github.com/VrajPatel7)
 - [Jash Parikh](https://github.com/Jash7447)
