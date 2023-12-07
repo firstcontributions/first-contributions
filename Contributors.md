@@ -23,6 +23,7 @@ sara
 - [Guochen Liao](https://github.com/GuochenLiao)
 - [Noeh Ledra] (https://github.com/Noeh-L)
 - [Claudia Varona](https://github.com/Clau050994)
+- [sandeeps026] (https://github.com/sandeeps026)
 - [Armaan Singh](https://github.com/thearmaandeep)
 - [Anjali Gaikwad] (https://github.com/ANJALI2980)
 = [Mckinsley Apollon] (https://github.com/mcapollon)
