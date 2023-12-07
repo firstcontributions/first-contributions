@@ -4989,6 +4989,7 @@ Gauresh Rathi
 - [Igor Moraes Rocha] (https://github.com/devIgor1)
 - [Aleksandr N](https://github.com/WIR1337)
 - [Sebi Francis](https://github.com/Sebifrancis1935)
+- [Hamza Saadi] (https://github.com/dimahmz)
 - [Tarushi Gupta](https://github.com/tarushigupta0012)
 - [Kyle Wilson](https://github.com/KWilson718)
 - [Aji Tirto](https://github.com/ajitirto)
