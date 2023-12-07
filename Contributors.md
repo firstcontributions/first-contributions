@@ -5145,6 +5145,7 @@ Gauresh Rathi
 - [Burak Güler](https://github.com/burakgguler)
 - [Michael](https://waveyboym.github.io/)
 - [Andrew] (https://github.com/andrewcara)
+- [Felix Daniel Wangota](https://github.com/fel-w)
 - [Mark Hudson] (https://github.com/markhudson42)
 -[Naif Wasel Alharthi](https://github.com/Naif-W-Alharthi)
 -[Sam Mobisa] (https://github.com/samsonmobisa)
