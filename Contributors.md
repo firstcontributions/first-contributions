@@ -330,6 +330,7 @@ Gabi Nelepcu
 - [Parth Makwana](https://github.com/parthmak19)
 - [Manu Raj Yadav](https://github.com/Manurajyadav)
 - [Brian-M-J](https://github.com/Brian-M-J)
+- [NaVis0mple](https://github.com/NaVis0mple)
 - [Md Javed Ahmed Shanto] (https://github.com/Javed-ahmed-shanto)
 - [Onwunali Blessing Chika](https://github.com/Chifrica)
 - [Sebastian David] (https://github.com/sebs-commits)
