@@ -5207,3 +5207,4 @@ Gauresh Rathi
 - [Daniel Sagie](https://github.com/danielsagie)
 - [Xaacher](https://github.com/xaacher)
 - [YGrynechko](https://github.com/ygrynechko)
+- [Kurt Cyrus Cuizon](https://github.com/Borrkkk)
