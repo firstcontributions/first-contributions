@@ -83,6 +83,7 @@ Ayush Gaud
 - [mykyta] (https://github.com/pokulita)
 -[Apurva Narayan Pradhan](https://github.com/ApurvaPradhan)
 -[MD Akib Haider](https://github.com/aaakloo-waiting)
+- [Reez] (https://github.com/ReezChaoCau)
 - [Kevin Patel] (https://github.com/PatelKeviin)
 - [Joshua Estebat](https://github.com/joshmre)
 - [PSK] (https://github.com/PK-WookiDooki)
