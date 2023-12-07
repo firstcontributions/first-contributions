@@ -50,10 +50,11 @@ sara
 - [Aashish Pandey] (https://github.com/aashish-pandey)
 -[Matt Mancuso](https://github.com/MancusoM)
 - [Samip Neupane](https://github.com/samipneupane)
-Ayush Gaud
+- Ayush Gaud
 - [Rudra Pakhare](https://github.com/Rudra-Pakhare)
 - Anonymousizzy 
--Matttrus
+- Matttrus
+- [Shiva] (https://github.com/sudocodedev)
 - [AyushSingh] (https://github.com/NemesisXVI)
 - [syeda-fajar](https://github.com/syeda-fajar)
 -[Chaithanya Krisha] (https://github.com/krsna28)
