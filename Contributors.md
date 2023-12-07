@@ -8,6 +8,7 @@ sara
 - [Jugal Kakkat] (https://github.com/jugalkkt)
 - [Geoffrey Kithuku](https://github.com/geoffreykithuku)
 - [Gal David] (https://github.com/GalDavid6)
+- [Khush Soni] (https://github.com/khushsoni)
 - [Kim JunHyun] (https://github.com/NaMooJoon)
 - [Bilal Sardar] (https://github.com/mbilalsardar)
 - [Kiyo] (https://github.com/kiyoone)
