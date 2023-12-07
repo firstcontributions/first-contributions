@@ -1,6 +1,7 @@
 
 # Contributors
 sara
+- [澄澈少年](https://github.com/yangzhao917/)
 - [Harshit Singh] (https://github.com/sasura212)
 - [Rudra Patel] (https://github.com/RUDRA959)
 - [HalconVengador2004] (https://github.com/HalconVengador2004)
@@ -26,7 +27,7 @@ sara
 - [sandeeps026] (https://github.com/sandeeps026)
 - [Armaan Singh](https://github.com/thearmaandeep)
 - [Anjali Gaikwad] (https://github.com/ANJALI2980)
-= [Mckinsley Apollon] (https://github.com/mcapollon)
+- [Mckinsley Apollon] (https://github.com/mcapollon)
 - [Htoo Aung Lin] (https://github.com/ShadowPriest)
 - [Iranna Hejjegar] (https://github.com/iranna22)
 - [Jim Hatley] (https: //github.com/jhatley75)
@@ -51,13 +52,13 @@ sara
 - [Milind V] (https://github.com/milindva)
 - smilefabri
 - [Aashish Pandey] (https://github.com/aashish-pandey)
--[Matt Mancuso](https://github.com/MancusoM)
+- [Matt Mancuso](https://github.com/MancusoM)
 - [Samip Neupane](https://github.com/samipneupane)
 Ayush Gaud
 - [Rudra Pakhare](https://github.com/Rudra-Pakhare)
 - Anonymousizzy 
--Matttrus
--bellicosi
+- Matttrus
+- bellicosi
 - [AyushSingh] (https://github.com/NemesisXVI)
 - [syeda-fajar](https://github.com/syeda-fajar)
 -[Chaithanya Krisha] (https://github.com/krsna28)
