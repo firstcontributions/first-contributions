@@ -3301,6 +3301,7 @@ Nikhil R
 - [Ankit Suman](https://github.com/ankit-suman-07)
 - [Fedex Pope1](https://github.com/FedexPope1)
 - [S0lci70](https://github.com/s0lci700)
+- [tauimonen](https://github.com/tauimonen)
 - [Thejas Bhat](https://github.com/tbpcoder)
 - [Jude] (https://github.com/GiudaJude)
 - [Coshy](https://github.com/Coshy115)
