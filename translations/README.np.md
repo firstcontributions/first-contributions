@@ -84,7 +84,7 @@ _यदि तपाईं कमाण्ड कमांड लाइन (comm
 
 #### यदि तपाईंसँग तपाइँको कम्प्यूटरमा  git  छैन भने,[ यहाँबाट install गर्नुहोस्।]( https://help.github.com/articles/set-up-git/)
 
-## Repository लाई Fork गर्नुहोस्। 
+## Repository Fork गर्नुहोस्। 
 
 यस page को Top मा रहेको `Fork` बटनमा क्लिक गरेर यो repository लाई Fork गर्नुहोस। यसले तपाईंको GitHub account मा  यस रिपोको प्रतिलिपि(copy) बनाउदछ ।
 
@@ -94,7 +94,7 @@ _यदि तपाईं कमाण्ड कमांड लाइन (comm
 
 अब `  Fork  ` गरेको repository लाई आफ्नो कम्प्युटरमा `  Clone  ` गर्नको लागी तपाइको GitHub account मा जानुहोस् र Fork गरिएको Repository  खोल्नुहोस्। अब ` Code ` बटनमा क्लिक गर्नुहोस् र त्यसपछि *copy to clipboard* आइकनमा क्लिक गर्नुहोस्।
 
-टर्मिनल खोल्नुहोस् र निम्न Git कमाण्ड चलाउनुहोस्:
+टर्मिनल खोल्नुहोस् र निम्न git कमाण्ड चलाउनुहोस्:
 
 ```
 git clone "तपाइले copy गरेको URL"
@@ -110,7 +110,7 @@ git clone "तपाइले copy गरेको URL"
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-जहाँ `this-is-you` छ, त्यहाँ तपाईंको GitHub username लेख्नुहोस् । यहाँ तपाइँले GitHub बाट तपाईंको कम्प्युटरमा `first-contributions` repository को  file हरु प्रतिलिपि (clone) गर्दै हुनुहुन्छ।
+जहाँ `this-is-you` छ, त्यहाँ तपाईंको GitHub username लेख्नुहोस् । यहाँ तपाइँले GitHub बाट तपाईंको कम्प्युटरमा `first-contributions` repository को  file हरु प्रतिलिपि (copy) गर्दै हुनुहुन्छ।
 
 ## Repository Branch बनाउनुहोस्। 
 
@@ -157,7 +157,7 @@ git commit -m "Add <your-name> to Contributors list"
 
 `<your-name>` को साटोमा तपाईंको आफ्नो नाम लेख्नुहोला।
 
-## GitHub मा परिवर्तनहरुलाई `push` गर्नुहोस। 
+## GitHub मा परिवर्तनहरुलाई push गर्नुहोस। 
 
 `git push` कमाण्डको प्रयोग गरेर आफ्नो परिवर्तनहरु  पुश (push) गर्नुहोस्:
 
