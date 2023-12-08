@@ -140,6 +140,7 @@ Gabi Nelepcu
 - [Zenith] (https://github.com/zenithv1)
 - [YYT] (https://github.com/yeyintthu01)
 - [Yash Kan] (https://github.com/yash-phoenix79)
+- [Aravindhan Tulsi](https://github.com/aravharish)
 [kodeman](https://github.com/kodeman2)
 - [Dylan Fritz](https://github.com/dylanfritz)
 - [Ayush Sharma](https://github.com/meAyushSharma)
