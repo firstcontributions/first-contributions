@@ -5230,6 +5230,7 @@ Gauresh Rathi
 - [gaoozi](https://github.com/gaoozi)
 - [vishalsekar11](https://github.com/vishalsekar11)
 - [WangChuDi](https://github.com/WangChuDi)
+- [Vignesh-Jothi](https://github.com/Vignesh-Jothi)
 - [arjun118](https://github.com/arjun118)
 - [ShreyK](https://github.com/Shrey-2019)
 - [Gabriel Burceanu](https://github.com/gabrielburceanu)
