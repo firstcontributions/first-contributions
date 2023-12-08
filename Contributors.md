@@ -9,6 +9,7 @@ sara
 - [Hardik Jogadia] (https://github.com/hardikjogadia)
 - [Akshika Jain]
 - [Shiva Sankar] (https://github.com/shiva1718)
+- [Dean Beebe](https://github.com/beandeebe)
 [Shubham S Dandekar](https://github.com/shubham-sd)
 - [Harshit Singh] (https://github.com/sasura212)
 - [Rudra Patel] (https://github.com/RUDRA959)
