@@ -585,6 +585,7 @@ Brent L
 - [Mohd Tauseef Ansari](https://github.com/Mohdtsf)
 - [Ben Ricker] (https://github.com/BenRicker)
 - [Emilha de Souza](https://github.com/emilha-mg)
+- [Regmiram](https://github.com/rr-tri)
 - [Amarthya](https://github.com/aparvathareddy282)
 - [Abilash](https://github.com/abilash0205)
 - [Unya David Eze](https://github.com/Davidezege)
