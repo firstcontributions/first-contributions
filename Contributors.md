@@ -13,6 +13,7 @@ sara
 - [Dean Beebe](https://github.com/beandeebe)
 [Shubham S Dandekar](https://github.com/shubham-sd)
 - [Harshit Singh] (https://github.com/sasura212)
+- [Yuhao Ban](https://github.com/yuhaoban)
 - [Rudra Patel] (https://github.com/RUDRA959)
 - [Nathan Blackburn] (https://github.com/NathanBlackburnDev)
 - [HalconVengador2004] (https://github.com/HalconVengador2004)
