@@ -6,6 +6,7 @@ sara
 - [Ashutosh Ojha](https://github.com/leoAshu)
 - [Mahesh Langote](https://github.com/Mahesh-Langote)
 - [Bojidar Vladimirov](https://github.com/noaydev)
+- [Sanat Thukral](https://github.com/sanatcodes)
 - [Hardik Jogadia] (https://github.com/hardikjogadia)
 - [Akshika Jain]
 - [Shiva Sankar] (https://github.com/shiva1718)
