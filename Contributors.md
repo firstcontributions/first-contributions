@@ -50,6 +50,7 @@ Raphael
 - [Usaid Aqeel] (https://github.com/UsaidAqeel)
 - [Anthony Squire] (https://github.com/Squire-A)
 - [PoJu Chen](https://github.com/poju3185)
+- [Guglielmo Langella](https://github.com/Guglielmo24) 
 - [Yuvraj Singh] (https://github.com/YuvrajS01)
 - [Saketh Pallempati] (https://github.com/saketh-pallempati)
 - [Ayush Vatsa](https://github.com/developerayuva)
