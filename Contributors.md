@@ -2,6 +2,7 @@
 # Contributors
 sara
 - [Eugene mehta](https://github.com/euguene)
+- [Jose Rubio](https://github.com/josrubfer)
 - [Ashutosh Ojha](https://github.com/leoAshu)
 - [Mahesh Langote](https://github.com/Mahesh-Langote)
 - [Bojidar Vladimirov](https://github.com/noaydev)
