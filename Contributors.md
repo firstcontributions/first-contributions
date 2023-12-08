@@ -7,6 +7,7 @@ sara
 - [Bojidar Vladimirov](https://github.com/noaydev)
 - [Hardik Jogadia] (https://github.com/hardikjogadia)
 - [Akshika Jain]
+[Shubham S Dandekar](https://github.com/shubham-sd)
 - [Harshit Singh] (https://github.com/sasura212)
 - [Rudra Patel] (https://github.com/RUDRA959)
 - [HalconVengador2004] (https://github.com/HalconVengador2004)
