@@ -140,6 +140,7 @@ Gabi Nelepcu
 - [Yash Kan] (https://github.com/yash-phoenix79)
 [kodeman](https://github.com/kodeman2)
 - [Dylan Fritz](https://github.com/dylanfritz)
+- [Aravindhan Tulsi](https://github.com/aravharish)
 - [Ayush Sharma](https://github.com/meAyushSharma)
 - [mindulle](https://github.com/mindulle)
 - [Bekpolat Aydarbaev](https://github.com/Bekforever13)
