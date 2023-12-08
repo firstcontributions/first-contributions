@@ -4775,6 +4775,7 @@ Akash Abraham
 - [OshikErnst] (https://github.com/oshikernst)
 - [nagash93] (https://github.com/nagash93)
 - [Ajax](https://github.com)
+- [Rashi Singh](https://github.com/Rashi-25)
 - [AnojKJayan] (https://github.com/Anojlex)
 - [Baroloker] (https://github.com/Baroloker)
 - [Pralin Khaira](https://github.com/pralinkhaira)
