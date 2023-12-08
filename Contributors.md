@@ -18,6 +18,7 @@ sara
 - [Geoffrey Kithuku](https://github.com/geoffreykithuku)
 - [Gal David] (https://github.com/GalDavid6)
 - [Khush Soni] (https://github.com/khushsoni)
+Raphael
 - [SalerSimo] (https://github.com/SalerSimo)
 - [Kim JunHyun] (https://github.com/NaMooJoon)
 - [Bilal Sardar] (https://github.com/mbilalsardar)
