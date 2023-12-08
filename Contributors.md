@@ -119,6 +119,7 @@ Gabi Nelepcu
 - [Ermiyas Abiye] (https://github.com/ermi1999)
 - [mrZOOL1](https://github.com/mrZOOL1)
 - [Ken Liem] (https://github.com/SleepyKen)
+- [Luthfi RIzky] (https://github.com/lynxx007)
 - [Saurav Bisht] (https://github.com/aka-bisht)
 - [Rakshit Sisodiya] (https://github.com/Rakshit-gen)
 - [Touseef Khan](https://github.com/touseef4pk)
