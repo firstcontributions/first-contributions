@@ -4129,6 +4129,7 @@ Akash Abraham
 - [igi-s](https://github.com/igi-s)
 - [incalescence](https://github.com/incalescence)
 - [Guillermo Velázquez Falcone](https://github.com/guilleVF)
+- [Smudge Knobbles](https://github.com/smudge-knobbles)
 - [SushiCharles](https://github.com/SushiCharles)
 - [Daniel Harris](https://github.com/danh686)
 - [Jonathan Adithya](https://github.com/jo-adithya)
