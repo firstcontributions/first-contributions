@@ -618,6 +618,7 @@ Brent L
 - [Firnas Ahamed](https://github.com/firnasahmed)
 - [Zhi Wang](https://github.com/Zhi0467)
 - [Yufei Sun](https://github.com/Siwi0w0)
+- [Pedro FM](https://github.com/pedrofmu)
 - [Aimane Yousr](https://github.com/aymanysr)
 - [Sanjib Kumar Das](https://github.com/sanjib-kumar-das)
 - [Shahid Adnan Wali](https://github.com/walishahidadnan)
