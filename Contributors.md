@@ -1,4 +1,3 @@
-
 # Contributors
 sara
 - [ismailbentabett] (https://github.com/ismailbentabett)
@@ -1032,6 +1031,7 @@ Brent L
 - [Arunkumar N S](https://github.com/arunlorenz)
 - [AmmanChhetri] (https://github.com/AmmanChhetri)
 - [Adick Rincones] (https://github.com/AdickRincones133)
+- [Manit Jhajharia] (https://github.com/Osama-Bin-Lagging)
 - [Lakshay Joshi](https://github.com/lakshay451)
 - [Unnati Mishra] (https://github.com/unnati110302)
 - [Alex Jole] (https://github.com/alexjole)
