@@ -2911,6 +2911,7 @@ Nikhil R
 - [Uloka Ngozi](https://github.com/Gifftybabe)
 - [Damjan Djukic](https://github.com/DamiGbs)
 - [Mohammed Saleem](https://github.com/MohammedF02)
+- [Mizba Anjum] (https://github.com/Mizba-Anjum)
 - [Ayush Kumar Sinha](https://github.com/aks151)
 - [Sushibears](https://github.com/Sushibears)
 - [John Mburu](https://github.com/techstrix)
