@@ -417,6 +417,7 @@ Gabi Nelepcu
 - [Mohammed Islam]
 - [Abhijeet Salimath](https://github.com/Abbsal)
 - [Tristin Smith](https://github.com/trisilver25)
+- [ShiroTohu](https://github.com/ShiroTohu)
 - [Juhwan Jung] (https://github.com/juhwani)
 - [qubitmateo](https://github.com/qubitmateo)
 - [Mohamed](https://github.com/mofareed-97)
