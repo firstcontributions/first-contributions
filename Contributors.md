@@ -5255,3 +5255,4 @@ Gauresh Rathi
 - [vladmld] (https://github.com/vladmld)
 - [Judd0106] (https://github.com/Judd0106)
 - [leefyl] (https://github.com/leefyl)
+- [rotiroti] (https://github.com/rotiroti)
