@@ -146,6 +146,7 @@ Gabi Nelepcu
 - [Shakib Aghili](https://github.com/shakib-A)
 - [ysf]
 - [Pradnesh Sanderan](https://github.com/pradneshsanderan)
+- [SameekshThakur] (https://github.com/SameekshThakur)
 - [Mohamad Hassan Free Palestine](https://github.com/talentedee)
 - [Veeraja Veeraesh](https://github.com/Veeraja-Veeraesh)
 - [Farhan Sodiq](https://github.com/codeHokage1)
