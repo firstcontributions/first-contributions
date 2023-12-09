@@ -5294,3 +5294,4 @@ Gauresh Rathi
 - [jarrodsampson] (https://github.com/jarrodsampson)
 - [Abubaker]  (https://github.com/Abubaker779)
 - [Sai Subhash] (https://github.com/subhash1411)
+- [Hudson Wesel] (https://github.com/HudsonPWesel)
