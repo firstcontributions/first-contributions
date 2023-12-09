@@ -13,6 +13,7 @@ sara
 - [Sanat Thukral](https://github.com/sanatcodes)
 - [Hardik Jogadia] (https://github.com/hardikjogadia)
 - [Akshika Jain]
+- [Ali Heydaripour] (https://github.com/Alihyp)
 - [Shiva Sankar] (https://github.com/shiva1718)
 - [Dean Beebe](https://github.com/beandeebe)
 [Shubham S Dandekar](https://github.com/shubham-sd)
@@ -774,7 +775,6 @@ Brent L
 - [Boubacar FALL](https://github.com/boobacar)
 -[Gerardo X] (https://github.com/gerardxyy)
 -[Sonali Naik](https://github.com/Sonali-06)
-- [Ali Heydaripour] (https://github.com/Alihyp)
 -[Alisha](https://github.com/Alisha-786)
 -[Nada Khas](https://github.com/Kukomoo)
 - [Alexander Martos Paschoal](https://github.com/AlexMartosP)
