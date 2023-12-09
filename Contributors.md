@@ -589,6 +589,7 @@ Brent L
 - [Schyerke](https://github.com/Schyerke)
 - [Shann Span](https://github.com/Shannspan)
 - [Brijesh](https://github.com/BrijeshBurfal)
+- [DarrellDM](https://github.com/DarrellDM)
 - [SYEDTAYYABSAGHEER](https://github.com/SYEDTAYYABSAGHEER)
 - [Retoran Petra](https://github.com/RetoranPetra)
 - [xpl0it3r] (https://github.com/xpl0it3r/)
