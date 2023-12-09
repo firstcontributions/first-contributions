@@ -153,6 +153,7 @@ Gabi Nelepcu
 - [Hamid Niakan] (https://github.com/Hamid-Niakan)
 - [Iedame] (http://github.com/Iedame)
 - [Tarek Nabil] (https://github.com/TarekNabil)
+- [Nuwan Wickramarachchi] (https://github.com/nuwan93)
 - [Deepanshu] (https://github.com/deepanshu2711)
 - [Michael Gabriel](github.com/Mikeabah)
 - [AbdulSamad] (https://github.com/abdulsamad2/)
