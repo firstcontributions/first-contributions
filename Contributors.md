@@ -16,6 +16,7 @@ sara
 - [Bojidar Vladimirov](https://github.com/noaydev)
 - [Sanat Thukral](https://github.com/sanatcodes)
 - [Hardik Jogadia] (https://github.com/hardikjogadia)
+- [Raj Mayekar](https://github.com/MayekarRaj)
 - [Akshika Jain]
 - [Yashwanth Kothakota](https://github.com/yashwanthkothakota9)
 - [Vimal 140704]
