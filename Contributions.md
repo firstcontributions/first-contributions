@@ -13,4 +13,4 @@
 
 
 
-Rose Fantahun
+Rose
