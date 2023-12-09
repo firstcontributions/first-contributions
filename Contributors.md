@@ -5292,3 +5292,5 @@ Gauresh Rathi
 - [jarrodsampson] (https://github.com/jarrodsampson)
 - [Abubaker]  (https://github.com/Abubaker779)
 - [Sai Subhash] (https://github.com/subhash1411)
+- [Darrach Barneveld](https://github.com/DarrachBarneveld)
+
