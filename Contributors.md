@@ -91,6 +91,7 @@ Ayush Gaud
 - Anonymousizzy 
 -Matttrus
 -bellicosi
+- Srujan Gowda
 - [AyushSingh] (https://github.com/NemesisXVI)
 - [syeda-fajar](https://github.com/syeda-fajar)
 -[Chaithanya Krisha] (https://github.com/krsna28)
