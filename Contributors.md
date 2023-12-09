@@ -1,9 +1,11 @@
 
 # Contributors
 sara
+- [QubeUK](https://github.com/QubeUK)
 - [Nyi Lin Htut] (https://github.com/nyilinhtut1994)
 - [Eugene mehta](https://github.com/euguene)
 - [Jose Rubio](https://github.com/josrubfer)
+- [Vimal Manoharan](https://github.com/vimal004)
 - [Ashutosh Ojha](https://github.com/leoAshu)
 - [Jen Liu](https://github.com/JENLIU2023)
 - [Minh Nguyen](https://github.com/nttminh)
@@ -13,12 +15,15 @@ sara
 - [Hardik Jogadia] (https://github.com/hardikjogadia)
 - [Akshika Jain]
 - [Yashwanth Kothakota](https://github.com/yashwanthkothakota9)
+- [Vimal 140704]
 - [Shiva Sankar] (https://github.com/shiva1718)
 - [Dean Beebe](https://github.com/beandeebe)
 [Shubham S Dandekar](https://github.com/shubham-sd)
 - [Harshit Singh] (https://github.com/sasura212)
 - [Yuhao Ban](https://github.com/yuhaoban)
 - [Ayush Agarwal](https://github.com/ayushagrwal)
+- [Rajesh chavan](https://github.com/Rajesh007)
+- [Kushal Singh](https://github.com/kushalsng)
 - [Rudra Patel] (https://github.com/RUDRA959)
 - [Nathan Blackburn] (https://github.com/NathanBlackburnDev)
 - [HalconVengador2004] (https://github.com/HalconVengador2004)
@@ -56,6 +61,7 @@ Raphael
 - [Sidhardh Joe] (https://github.com/SidhardhJoe)
 - [Kyuhong Han] (https://github.com/roy0424)
 - [Max Brener] (https://github.com/MaxBR97)
+- [Brett Sumser] (https://github.com/bsumser)
 - [sharvari]
 - [Usaid Aqeel] (https://github.com/UsaidAqeel)
 - [Anthony Squire] (https://github.com/Squire-A)
@@ -420,6 +426,7 @@ Gabi Nelepcu
 - [Astro-bro](https://github.com/Astro-bro)
 - [Zane](https://github.com/Zanebla)
 - [Mohammed Islam]
+- [Titi]
 - [Abhijeet Salimath](https://github.com/Abbsal)
 - [Tristin Smith](https://github.com/trisilver25)
 - [ShiroTohu](https://github.com/ShiroTohu)
