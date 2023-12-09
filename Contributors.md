@@ -1,6 +1,7 @@
 
 # Contributors
 sara
+- [Harsh Umpoxy] (https://github.com/HarshUmpoxy)
 - [Gargi Bandyopadhyay] (https://github.com/Gargi2003)
 - [QubeUK](https://github.com/QubeUK)
 - [Andreas Carlsson](https://github.com/Fetante)
