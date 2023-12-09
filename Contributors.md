@@ -5253,6 +5253,7 @@ Gauresh Rathi
 - [Dongwook Chang](https://github.com/dongwook-chan)
 - [Achal Jhawar](https://github.com/achaljhawar)
 - [Milad Emami](https://github.com/milad-emami)
+- [Felix Ouma](https://github.com/meyoh-23)
 - [PusPC](https://github.com/PusPC)
 - [Prdeep Varma](https://github.com/pkonduru)
 - [fossgibson](https://github.com/fossgibson)
