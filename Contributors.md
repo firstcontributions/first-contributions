@@ -2671,6 +2671,7 @@ Sino Felicity Zwane
 - [Vrund_Raval](https://github.com/vrundraval24)
 - [Niraj Kumar](https://github.com/infinitecreator)
 - [Hugo Leonardo Viana](https://github.com/HugoLeonardo1123)
+- [eyalnus](https://github.com/eyalnus)
 - [Willy Brener](https://github.com/willy0016)
 - [prashant](https://github.com/prashant)
 - [shivhg](https://github.com/shivhg)
