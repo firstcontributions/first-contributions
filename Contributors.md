@@ -3983,6 +3983,7 @@ Nikhil R
 - [Chetan Nair](https://github.com/ChetanNair)
 - [Nikita Zubairov](https://github.com/Nikitaz1410)
 - [Sitaram Pal](https://github.com/sitaram2011)
+- [Marco Dominguez] (https://github.com/MarcoDomi)
 - [Thad](https://github.com/adminprivileges)
 - [Renad AlKhawatreh](https://github.com/Rnad95)
 - [Pacifique Ntahurunga](https://github.com/npacifique)
