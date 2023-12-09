@@ -4,6 +4,7 @@ sara
 - [Nyi Lin Htut] (https://github.com/nyilinhtut1994)
 - [Eugene mehta](https://github.com/euguene)
 - [Jose Rubio](https://github.com/josrubfer)
+- [Vimal Manoharan](https://github.com/vimal004)
 - [Ashutosh Ojha](https://github.com/leoAshu)
 - [Jen Liu](https://github.com/JENLIU2023)
 - [Minh Nguyen](https://github.com/nttminh)
