@@ -102,6 +102,7 @@ Ayush Gaud
 - [Fabio Capocasale] (https://github.com/ghost0r10n)
 - [Deepak kumar] (https://github.com/Deepakd25k)
 - [clawnic] (https://github.com/clawnic)
+- [swapno] (https://github.com/swapno7064)
 - [Sheena Barnes] (https://github.com/shba2504)
 - [Aditi Agarwal](https://github.com/Aditi0325)
 - [Dibyendu Bar](https://github.com/Dibyendu-13)
