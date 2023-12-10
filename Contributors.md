@@ -781,6 +781,7 @@ Brent L
 - [Itesh Tomar](https://github.com/petrioteer) 
 - [CodeWithJazzy](https://github.com/codewithjazzy)
 - [adrianlamlh](https://github.com/adrianlamlh)
+- [YukiOnodera](https://github.com/YukiOnodera)
 - [Pranav Kannawar](https://github.com/Hackwithpranav)
 - [Farookh](https://github.com/FarookhNITAP)
 - [Ziming Ma](https://github.com/burnstick)
