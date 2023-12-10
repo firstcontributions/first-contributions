@@ -5302,6 +5302,7 @@ Gauresh Rathi
 - [Milad Emami](https://github.com/milad-emami)
 - [Felix Ouma](https://github.com/meyoh-23)
 - [PusPC](https://github.com/PusPC)
+- [Ezeliora Godsfavour](https://github.com/favy-codez)
 - [Prdeep Varma](https://github.com/pkonduru)
 - [fossgibson](https://github.com/fossgibson)
 - [gaoozi](https://github.com/gaoozi)
