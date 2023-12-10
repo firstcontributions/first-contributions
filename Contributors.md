@@ -5107,6 +5107,7 @@ Gauresh Rathi
 - [Dachuan Yang](https://github.com/ydc9988)
 - [Smaran Singh](https://github.com/SmaranSingh)
 - [Sadiya Khan](https://github.com/sadiya0308)
+- [Lalo Rys](https://github.com/LaloRys)
 - [Honeshwar Thakur](https://github.com/Honeshwar)
 - [Adeel Umar](https://github.com/adeelumar-17)
 - [gpad4](https://github.com/gpad4)
