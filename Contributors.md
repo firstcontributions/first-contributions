@@ -195,6 +195,7 @@ Gabi Nelepcu
 - [mindulle](https://github.com/mindulle)
 - [Bekpolat Aydarbaev](https://github.com/Bekforever13)
 - [Asi Sasi](https://github.com/ASP2017)
+- [Satyajeet Zala] (https://github.com/satyajeetzala)  
 - [Kishore Rajkumar](https://github.com/tech-kishore)
 - [minus72] (https://github.com/minus72)
 - [PushoDev](https://github.com/PushoDev)
