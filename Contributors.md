@@ -5260,6 +5260,7 @@ Gauresh Rathi
 - [Hunter Termo](https://github.com/0hterm)
 - [Jake Haycocks](https://github.com/JakeMWu)
 - [24x7 Geeks Sollutions Adharsh] (https://github.com/adhasrh)
+- [Pedro Lourenco] (https://github.com/pedro123456789-wq)
 [Sebastian Budyński](https://github.com/SebBudynski)
 [operator void](https://github.com/sachinchakravarthy)
 - [Jio Pacho](https://github.com/JioBautista)
