@@ -1,6 +1,7 @@
 
 # Contributors
 sara
+- [Sohaib Khan] (https://github.com/Sohaibgit)
 - [Harsh Umpoxy] (https://github.com/HarshUmpoxy)
 - [Gargi Bandyopadhyay] (https://github.com/Gargi2003)
 - [QubeUK](https://github.com/QubeUK)
