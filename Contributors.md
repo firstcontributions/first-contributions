@@ -286,6 +286,7 @@ Gabi Nelepcu
 - [Hesam] (https://github.com/hesamshayegan)
 - [Sehan De Silva] (https://github.com/absdesilva)
 - [Debasmita Sahoo](https://github.com/Sahoo-Debasmita)
+- [Marcos Wi](https://github.com/marcoswi)
 - [Axton Smith] (https://github.com/AxtonS)
 - [Satya Maddirala](https://github.com/SatyaMadd)
 - [MehrzweckMandala](https://github.com/MehrzweckMandala)
