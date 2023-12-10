@@ -5144,6 +5144,7 @@ Gauresh Rathi
 - [Aaron Hebert] (https://github.com/aaron-lee-hebert)
 - [Vytas Kereisis] (https://github.com/VytasKer)
 - [Oluwayanmi Stephen](https://github.com/Oly-Stephen)
+- [Debatreya Das](https://github.com/Debatreya)
 - [Manish Yadav](https://github.com/mygithub2015/)
 - [Indranil Karmakar](https://github.com/indranil316/)
 - [Rohith Rajendran](https://github.com/rohithraj02)
