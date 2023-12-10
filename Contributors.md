@@ -37,6 +37,7 @@ sara
 - [Rajesh chavan](https://github.com/Rajesh007)
 - [Kushal Singh](https://github.com/kushalsng)
 - [Rudra Patel] (https://github.com/RUDRA959)
+- [Syam Kumar Chintakayala] (https://github.com/chsyam)
 - [Nathan Blackburn] (https://github.com/NathanBlackburnDev)
 - [HalconVengador2004] (https://github.com/HalconVengador2004)
 - [ismailbentabett] (https://github.com/ismailbentabett)
