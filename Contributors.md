@@ -769,6 +769,7 @@ Brent L
 - [Jeremy McCann](https://github.com/mrjrmccann)
 - [Jesse Turner](https://github.com/jesseturner21)
 - [MISΛKI](https://github.com/meriem-mounchid)
+- [BlackThompson](https://github.com/BlackThompson)
 - [Devendra Selokar](https://github.com/devendraSelokar05)
 - [Krish Gautam](https://github.com/kris248)
 - [Parth Dwivedi](https://github.com/Parth4git)
@@ -2861,7 +2862,6 @@ Sino Felicity Zwane
 - [steve3535](https://github.com/steve3535)
 - [ShivaPatel](https://github.com/Patelshiva000)
 - [Deepu](https://github.com/blackbeard002)
-
 - [Percival Aceron](https://github.com/perci-aceron)
 - [Aditya](https://github.com/adityasd314)
 - [Abbas](https://github.com/abbasfurniturewala)
