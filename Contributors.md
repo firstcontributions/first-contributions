@@ -3,8 +3,9 @@
 Sriram Kashyap (https://github.com/Sriramkashyapks)
 sara
 - [Sohaib Khan] (https://github.com/Sohaibgit)
+- [Yaksh Gandhi] (https://github.com/yaksh1)
 - [Harsh Umpoxy] (https://github.com/HarshUmpoxy)
-- [Mohit Pathak] (https://github.com/mohitpathak382)
+- [Mohit Pathak](https://github.com/mohitpathak382)
 - [Vishnu Bobbiti]
 - [Gargi Bandyopadhyay] (https://github.com/Gargi2003)
 - [Abhishek Yadav] (https://github.com/yadav-7abhishek)
