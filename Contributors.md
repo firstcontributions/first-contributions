@@ -2881,6 +2881,7 @@ Sino Felicity Zwane
 - [Hozaifa Bhutta](https://github.com/Hozaifa-Bhutta)
 - [uyk23] (https://github.com/uyk23)
 - [ChaitanyaKatti](https://github.com/ChaitanyaKatti)
+- [Jorge Luis Morales](https://github.com/jorgeluismorales)
 - [César Henrique](https://github.com/cesarhenrq)
 - [Juan Olvera](https://github.com/juanolveraruiz)
 - [Omar Abdelgawad](https://github.com/omar-abdelgawad)
