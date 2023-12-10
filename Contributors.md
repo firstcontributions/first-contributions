@@ -103,6 +103,7 @@ Ayush Gaud
 - Anonymousizzy 
 -Matttrus
 -bellicosi
+- Chandan J
 - Srujan Gowda
 -[LogeshVarman](https://github.com/Logeshvarman)
 - [AyushSingh] (https://github.com/NemesisXVI)
