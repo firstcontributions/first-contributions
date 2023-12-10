@@ -5330,5 +5330,6 @@ Gauresh Rathi
 - [Harrb] (https://github.com/HaiderBhanp)
 - [codecrypt112] (https://github.com/codecrypt112)
 - [Arghya] (https://github.com/arghyawning)
+- [Parth] (https://github.com/Parthkomalwad)
 - [Tehami](https://github.com/tehami326)
 - [Bharani](https://github.com/BharanitharanR)
