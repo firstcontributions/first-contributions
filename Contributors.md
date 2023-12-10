@@ -167,6 +167,7 @@ Gabi Nelepcu
 - [fezzo] (https://github.com/fedelopre)
 - [Ratna Kumar Singh] (https://github.com/rks1995)
 - [Neethu Venugopal] (https://github.com/NeethuVenugopal)
+- [Moose Man] (https://github.com/allenjw31)
 - [Solomon Nwante] (https://github.com/CNwante)
 - [Mihai Childesco] ((https://github.com/mihaichildesco)
 - [Ermiyas Abiye] (https://github.com/ermi1999)
