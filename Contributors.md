@@ -5301,3 +5301,4 @@ Gauresh Rathi
 - [Sai Subhash] (https://github.com/subhash1411)
 - [Hudson Wesel] (https://github.com/HudsonPWesel)
 - [jerryyummy] (https://github.com/jerryyummy)
+- [Mathias Da Col] (https://github.com/nejykz)
