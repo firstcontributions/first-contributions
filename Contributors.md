@@ -24,6 +24,7 @@ sara
 - [Raj Mayekar](https://github.com/MayekarRaj)
 - [Akshika Jain]
 - [Yashwanth Kothakota](https://github.com/yashwanthkothakota9)
+- [Solomon Asregdew](https://github.com/SolomonAHailu)
 - [Vimal 140704]
 - [Harsh Sahu] (https://github.com/HarshSahu05)
 - [Shiva Sankar] (https://github.com/shiva1718)
