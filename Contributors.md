@@ -43,6 +43,7 @@ sara
 - [Harshit Singh] (https://github.com/sasura212)
 - [Anshuman Behera] (https://github.com/anshuman1222)
 - [Yuhao Ban](https://github.com/yuhaoban)
+- [Avnish Kovi](https://github.com/avikovi)
 - [Ayush Agarwal](https://github.com/ayushagrwal)
 - [Rajesh chavan](https://github.com/Rajesh007)
 - [Kushal Singh](https://github.com/kushalsng)
