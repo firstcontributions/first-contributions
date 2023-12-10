@@ -8,6 +8,7 @@ sara
 - [Andreas Carlsson](https://github.com/Fetante)
 - [Nyi Lin Htut] (https://github.com/nyilinhtut1994)
 - [Eugene mehta](https://github.com/euguene)
+- [Aritra Karmakar](https://github.com/Dark-Knight-Avi)
 - [Jose Rubio](https://github.com/josrubfer)
 - [Vimal Manoharan](https://github.com/vimal004)
 - [Ashutosh Ojha](https://github.com/leoAshu)
