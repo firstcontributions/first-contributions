@@ -1,7 +1,10 @@
 
 # Contributors
 sara
+- [Harsh Umpoxy] (https://github.com/HarshUmpoxy)
+- [Gargi Bandyopadhyay] (https://github.com/Gargi2003)
 - [QubeUK](https://github.com/QubeUK)
+- [Andreas Carlsson](https://github.com/Fetante)
 - [Nyi Lin Htut] (https://github.com/nyilinhtut1994)
 - [Eugene mehta](https://github.com/euguene)
 - [Jose Rubio](https://github.com/josrubfer)
@@ -13,12 +16,16 @@ sara
 - [Bojidar Vladimirov](https://github.com/noaydev)
 - [Sanat Thukral](https://github.com/sanatcodes)
 - [Hardik Jogadia] (https://github.com/hardikjogadia)
+- [Raj Mayekar](https://github.com/MayekarRaj)
 - [Akshika Jain]
+- [Yashwanth Kothakota](https://github.com/yashwanthkothakota9)
 - [Vimal 140704]
+- [Harsh Sahu] (https://github.com/HarshSahu05)
 - [Shiva Sankar] (https://github.com/shiva1718)
 - [Dean Beebe](https://github.com/beandeebe)
 [Shubham S Dandekar](https://github.com/shubham-sd)
 - [Harshit Singh] (https://github.com/sasura212)
+- [Anshuman Behera] (https://github.com/anshuman1222)
 - [Yuhao Ban](https://github.com/yuhaoban)
 - [Ayush Agarwal](https://github.com/ayushagrwal)
 - [Rajesh chavan](https://github.com/Rajesh007)
@@ -46,6 +53,7 @@ Raphael
 - [Andrew Towers] (https://github.com/Jtorresk)
 - [James Huang] (https://github.com/jameshuangcoding)
 - [Guochen Liao](https://github.com/GuochenLiao)
+- [Harishwar](https://github.com/harishwar017)
 - [Noeh Ledra] (https://github.com/Noeh-L)
 - [pavan kumar] (https://github.com/pavankumar2004)
 - [Claudia Varona](https://github.com/Clau050994)
@@ -86,6 +94,7 @@ Ayush Gaud
 - Anonymousizzy 
 -Matttrus
 -bellicosi
+- Srujan Gowda
 - [AyushSingh] (https://github.com/NemesisXVI)
 - [syeda-fajar](https://github.com/syeda-fajar)
 -[Chaithanya Krisha] (https://github.com/krsna28)
@@ -100,6 +109,7 @@ Ayush Gaud
 - [Fabio Capocasale] (https://github.com/ghost0r10n)
 - [Deepak kumar] (https://github.com/Deepakd25k)
 - [clawnic] (https://github.com/clawnic)
+- [swapno] (https://github.com/swapno7064)
 - [Sheena Barnes] (https://github.com/shba2504)
 - [Aditi Agarwal](https://github.com/Aditi0325)
 - [Dibyendu Bar](https://github.com/Dibyendu-13)
@@ -147,6 +157,7 @@ Gabi Nelepcu
 - [Hamid Niakan] (https://github.com/Hamid-Niakan)
 - [Iedame] (http://github.com/Iedame)
 - [Tarek Nabil] (https://github.com/TarekNabil)
+- [Nuwan Wickramarachchi] (https://github.com/nuwan93)
 - [Deepanshu] (https://github.com/deepanshu2711)
 - [Michael Gabriel](github.com/Mikeabah)
 - [AbdulSamad] (https://github.com/abdulsamad2/)
@@ -425,6 +436,7 @@ Gabi Nelepcu
 - [Astro-bro](https://github.com/Astro-bro)
 - [Zane](https://github.com/Zanebla)
 - [Mohammed Islam]
+- [Titi]
 - [Abhijeet Salimath](https://github.com/Abbsal)
 - [Tristin Smith](https://github.com/trisilver25)
 - [ShiroTohu](https://github.com/ShiroTohu)
@@ -2660,6 +2672,7 @@ Sino Felicity Zwane
 - [Vrund_Raval](https://github.com/vrundraval24)
 - [Niraj Kumar](https://github.com/infinitecreator)
 - [Hugo Leonardo Viana](https://github.com/HugoLeonardo1123)
+- [eyalnus](https://github.com/eyalnus)
 - [Willy Brener](https://github.com/willy0016)
 - [prashant](https://github.com/prashant)
 - [shivhg](https://github.com/shivhg)
@@ -3970,6 +3983,7 @@ Nikhil R
 - [Chetan Nair](https://github.com/ChetanNair)
 - [Nikita Zubairov](https://github.com/Nikitaz1410)
 - [Sitaram Pal](https://github.com/sitaram2011)
+- [Marco Dominguez] (https://github.com/MarcoDomi)
 - [Thad](https://github.com/adminprivileges)
 - [Renad AlKhawatreh](https://github.com/Rnad95)
 - [Pacifique Ntahurunga](https://github.com/npacifique)
@@ -5247,6 +5261,7 @@ Gauresh Rathi
 - [Dongwook Chang](https://github.com/dongwook-chan)
 - [Achal Jhawar](https://github.com/achaljhawar)
 - [Milad Emami](https://github.com/milad-emami)
+- [Felix Ouma](https://github.com/meyoh-23)
 - [PusPC](https://github.com/PusPC)
 - [Prdeep Varma](https://github.com/pkonduru)
 - [fossgibson](https://github.com/fossgibson)
@@ -5264,6 +5279,7 @@ Gauresh Rathi
 - [suryaC-137](https://github.com/suryaC-137)
 - [Chizoba Nwachukwu](https://github.com/k-zoz)
 - [laiba-zaheer20](https://github.com/Laiba-zaheer20)
+- [ayeryn](https://github.com/ayeryn)
 - [Daniel Sagie](https://github.com/danielsagie)
 - [Xaacher](https://github.com/xaacher)
 - [YGrynechko](https://github.com/ygrynechko)
@@ -5280,4 +5296,5 @@ Gauresh Rathi
 - [eviee3008] (https://github.com/eviee3008)
 - [jarrodsampson] (https://github.com/jarrodsampson)
 - [Abubaker]  (https://github.com/Abubaker779)
-- [jerryyummy] (https://github.com/jerryyummy)
+- [Sai Subhash] (https://github.com/subhash1411)
+- [Hudson Wesel] (https://github.com/HudsonPWesel)
