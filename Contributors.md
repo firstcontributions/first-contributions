@@ -14,6 +14,7 @@ sara
 - [Muhammed Labeeb U](https://github.com/Ladoxer)
 - [Vimal Manoharan](https://github.com/vimal004)
 - Ryan Chan
+- [Aviraj Lavate] (https://github.com/aviraj00)
 - Kartikey Srivastava
 - [Ashutosh Ojha](https://github.com/leoAshu)
 - [Jen Liu](https://github.com/JENLIU2023)
