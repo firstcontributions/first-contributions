@@ -972,6 +972,7 @@ Brent L
 - [Avinash S](https://github.com/Hunter305)
 - [Saurabh hingade](https://github.com/sauravhingade)
 - [Alom Jaiswal](https://github.com/alom2407)
+- [Mike Deladurantaye](https://github.com/frekkdekk)
 - [Jaya Krishna] (https://github.com/Jaya-Krishna-07)
 - [Galaxy Martian](https://github.com/GalaxyMart1an)
 - [Jesús Zúñiga Trejo](https://github.com/zutjmx)
