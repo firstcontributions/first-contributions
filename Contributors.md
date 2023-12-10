@@ -209,8 +209,9 @@ Gabi Nelepcu
 - [Michael Adebayo](https://github.com/MichaelAdebayo)
 - [Bhatri-Narayanan-SR](https://github.com/Bhatri-Narayanan-SR)
 - [Marck-1711](https://github.com/Marck-1711)
-- rishiKesh](https://github.com/rishikesh0911)
+- [rishiKesh](https://github.com/rishikesh0911)
 - [LordY]
+- [Parag-Bandhate] (https://github.com/gnpb56)
 - [Sharvin-M](https://github.com/Sharvin-M)
 - [canybo](https://github.com/canybo)
 - [Halim Lee] (https://github.com/WillHalimLee)
