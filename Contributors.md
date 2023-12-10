@@ -9,6 +9,7 @@ sara
 - [Mohit Pathak](https://github.com/mohitpathak382)
 - [Vishnu Bobbiti]
 - [Gargi Bandyopadhyay] (https://github.com/Gargi2003)
+- [Murshid Ameen] (https://github.com/murshidameenpv)
 - [Abhishek Yadav] (https://github.com/yadav-7abhishek)
 - [QubeUK](https://github.com/QubeUK)
 - [Andreas Carlsson](https://github.com/Fetante)
