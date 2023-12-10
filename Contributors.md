@@ -104,6 +104,7 @@ Ayush Gaud
 -Matttrus
 -bellicosi
 - Srujan Gowda
+-[LogeshVarman](https://github.com/Logeshvarman)
 - [AyushSingh] (https://github.com/NemesisXVI)
 - [syeda-fajar](https://github.com/syeda-fajar)
 -[Chaithanya Krisha] (https://github.com/krsna28)
