@@ -5104,6 +5104,7 @@ Gauresh Rathi
 - [Sebi Francis](https://github.com/Sebifrancis1935)
 - [Hamza Saadi] (https://github.com/dimahmz)
 - [Tarushi Gupta](https://github.com/tarushigupta0012)
+- [Patrick Michael O'Keeffe](https://github.com/lifeinink)
 - [Brett Caple](https://github.com/bcaple)
 - [Kyle Wilson](https://github.com/KWilson718)
 - [Aji Tirto](https://github.com/ajitirto)
