@@ -1010,6 +1010,7 @@ Brent L
 - [nars](https://github.com/narisu960209)
 - [Nimit](https://github.com/Nimit)
 - [Afaq Razaq](https://github.com/xyzafaq)
+- [Ankit Kumar](https://github.com/Github2k10)
 - [marshal1244]
 - [finlopes97]
 - [Xavier MB](https://github.com/xaviermonb)
