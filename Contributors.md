@@ -42,6 +42,7 @@ sara
 - [Anurag Goel]
 - [Harsh Sahu] (https://github.com/HarshSahu05)
 - [Shiva Sankar] (https://github.com/shiva1718)
+- rohith(https://github.com/Rohithvarma212)
 - [Dean Beebe](https://github.com/beandeebe)
 - [Yusuf Sabri Bayrakdar](https://github.com/yusufbayrakdar)
 [Shubham S Dandekar](https://github.com/shubham-sd)
