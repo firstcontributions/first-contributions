@@ -1,5 +1,4 @@
 # Contributors
-- [Abinand P] (https://github.com/Abiji-2020)
 - [Syed Sammak Hussain] (https://github.com/Sammak215)
 Sriram Kashyap (https://github.com/Sriramkashyapks)
 sara
@@ -5391,3 +5390,6 @@ Gauresh Rathi
 - [fszhangYi] (https://github.com/fszhangYi)
 - [pigerz] (https://github.com/pigerz)
 - [aahirwar20] (https://github.com/aahirwar20)
+
+
+- [Abinand P] (https://github.com/Abiji-2020)
