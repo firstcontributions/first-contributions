@@ -77,6 +77,7 @@ Raphael
 - [rawfiul](https://github.com/rawfiul)
 - [Gaurav Parajuli](https://github.com/gauravparajuli)
 - [Andrew Towers] (https://github.com/Jtorresk)
+- [Taron Vardanyan] (https://github.com/TaronVardanyan)
 - [James Huang] (https://github.com/jameshuangcoding)
 - [Guochen Liao](https://github.com/GuochenLiao)
 - [Harishwar](https://github.com/harishwar017)
