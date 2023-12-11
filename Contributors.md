@@ -2,6 +2,7 @@
 - [Syed Sammak Hussain] (https://github.com/Sammak215)
 Sriram Kashyap (https://github.com/Sriramkashyapks)
 sara
+- [Josue Anguiano](https://github.com/josue-anguiano)
 - [Kris Hvattum](https://github.com/kristofer11)
 - [Sohaib Khan] (https://github.com/Sohaibgit)
 - [Yaksh Gandhi] (https://github.com/yaksh1)
