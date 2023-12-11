@@ -5,6 +5,7 @@ sara
 - [Kris Hvattum](https://github.com/kristofer11)
 - [Sohaib Khan] (https://github.com/Sohaibgit)
 - [Yaksh Gandhi] (https://github.com/yaksh1)
+- [Roman Snegach] (https://github.com/RSnegach)
 - [Kashyap shukla] (https://github.com/kashyapshukla)
 - [Nkosinathi Mbokazi] (https://github.com/d0nda)
 - [Shailesh Thakur] (https://gtihub.com/shaileshthakur1)
