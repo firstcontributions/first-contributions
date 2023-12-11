@@ -125,7 +125,7 @@ Ayush Gaud
 - pnb
 - Srujan Gowda
 - Adam Cordy
-- Richik Dutta 11/12/2023
+- Richik Dutta
 -[LogeshVarman](https://github.com/Logeshvarman)
 - [AyushSingh] (https://github.com/NemesisXVI)
 - [syeda-fajar](https://github.com/syeda-fajar)
