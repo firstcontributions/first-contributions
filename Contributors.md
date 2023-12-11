@@ -97,6 +97,7 @@ Raphael
 - [Max Brener] (https://github.com/MaxBR97)
 - [Brett Sumser] (https://github.com/bsumser)
 - [sharvari]
+- [Ishwarya] (https://github.com/Ishwarya246)
 - [Usaid Aqeel] (https://github.com/UsaidAqeel)
 - [Anthony Squire] (https://github.com/Squire-A)
 - [PoJu Chen](https://github.com/poju3185)
