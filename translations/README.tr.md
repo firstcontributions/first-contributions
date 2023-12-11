@@ -29,7 +29,7 @@ Daha sonra komut istemini açıp aşağıdaki git komutunu çalıştırın:
 ```
 git clone "kopyaladığınız-url"
 ```
-"kopyaladığınız-url" (tırnak işaretleri olmadan) yerine bu deponun GitHub sayfasından aldığınız linki koplayın.
+"kopyaladığınız-url" (tırnak işaretleri olmadan) yerine bu deponun GitHub sayfasından aldığınız linki kopyalayın.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
