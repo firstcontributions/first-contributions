@@ -53,6 +53,7 @@ sara
 - [Kushal Singh](https://github.com/kushalsng)
 - [Rudra Patel] (https://github.com/RUDRA959)
 - [Syam Kumar Chintakayala] (https://github.com/chsyam)
+- [Narayana Chetty G] (https://github.com/gnarayanachetty)
 - [Nathan Blackburn] (https://github.com/NathanBlackburnDev)
 - [HalconVengador2004]
 - [Harshcreator] (https://github.com/Harshcreator)
