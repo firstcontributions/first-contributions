@@ -7,6 +7,7 @@ sara
 - [Harsh Umpoxy] (https://github.com/HarshUmpoxy)
 - [Mohit Pathak](https://github.com/mohitpathak382)
 - [Vishnu Bobbiti]
+- [Nicholas Licata](https://github.com/nicholaslicata)
 - [Gargi Bandyopadhyay] (https://github.com/Gargi2003)
 - [Murshid Ameen] (https://github.com/murshidameenpv)
 - [Abhishek Yadav] (https://github.com/yadav-7abhishek)
