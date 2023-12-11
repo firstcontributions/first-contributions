@@ -102,6 +102,7 @@ Raphael
 - [PoJu Chen](https://github.com/poju3185)
 - [Guglielmo Langella](https://github.com/Guglielmo24) 
 - [Yuvraj Singh] (https://github.com/YuvrajS01)
+- [Ayush Gaud] (https://github.com/Ayush-Gaud)
 - [Clifford Mapesa] (https://github.com/droffilc1)
 - [Saketh Pallempati] (https://github.com/saketh-pallempati)
 - [Ayush Vatsa](https://github.com/developerayuva)
@@ -117,7 +118,6 @@ Raphael
 - [Aashish Pandey] (https://github.com/aashish-pandey)
 -[Matt Mancuso](https://github.com/MancusoM)
 - [Samip Neupane](https://github.com/samipneupane)
-Ayush Gaud
 - [Rudra Pakhare](https://github.com/Rudra-Pakhare)
 - Anonymousizzy 
 -Matttrus
