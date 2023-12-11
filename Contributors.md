@@ -6,6 +6,7 @@ sara
 - [Yaksh Gandhi] (https://github.com/yaksh1)
 - [Kashyap shukla] (https://github.com/kashyapshukla)
 - [Nkosinathi Mbokazi] (https://github.com/d0nda)
+- [Shailesh Thakur] (https://gtihub.com/shaileshthakur1)
 - [Harsh Umpoxy] (https://github.com/HarshUmpoxy)
 - [Mohit Pathak](https://github.com/mohitpathak382)
 - [Vishnu Bobbiti]
