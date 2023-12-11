@@ -135,6 +135,7 @@ Ayush Gaud
 - [Stefano Gaspari] (https://github.com/stefanogaspari)
 - [Abdessamad Touzani](https://github.com/AbdessamadTzn)  
 - [Astral1w3](https://github.com/Astral1w3)  
+- [Alok Kumar Singh](https://github.com/Alok515)
 - [Fabio Capocasale] (https://github.com/ghost0r10n)
 - [Deepak kumar] (https://github.com/Deepakd25k)
 - [clawnic] (https://github.com/clawnic)
