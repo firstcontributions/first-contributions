@@ -2,6 +2,7 @@
 # Contributors
 Sriram Kashyap (https://github.com/Sriramkashyapks)
 sara
+- [Rakesh k] (https://github.com/Rakeshkraki)
 - [Sohaib Khan] (https://github.com/Sohaibgit)
 - [Harsh Umpoxy] (https://github.com/HarshUmpoxy)
 - [Mohit Pathak] (https://github.com/mohitpathak382)
