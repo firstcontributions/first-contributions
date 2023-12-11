@@ -1,6 +1,7 @@
 # Contributors
 Sriram Kashyap (https://github.com/Sriramkashyapks)
 sara
+- [Kris Hvattum](https://github.com/kristofer11)
 - [Sohaib Khan] (https://github.com/Sohaibgit)
 - [Yaksh Gandhi] (https://github.com/yaksh1)
 - [Kashyap shukla] (https://github.com/kashyapshukla)
