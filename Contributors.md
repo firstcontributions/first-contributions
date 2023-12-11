@@ -123,6 +123,7 @@ Ayush Gaud
 - Chandan J
 - pnb
 - Srujan Gowda
+- Adam Cordy
 -[LogeshVarman](https://github.com/Logeshvarman)
 - [AyushSingh] (https://github.com/NemesisXVI)
 - [syeda-fajar](https://github.com/syeda-fajar)
