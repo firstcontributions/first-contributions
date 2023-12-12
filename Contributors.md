@@ -97,6 +97,7 @@ Raphael
 - [James Huang] (https://github.com/jameshuangcoding)
 - [Guochen Liao](https://github.com/GuochenLiao)
 - [Harishwar](https://github.com/harishwar017)
+- [Ameya10012003](https://github.com/Ameya10012003)
 - [Noeh Ledra] (https://github.com/Noeh-L)
 - [pavan kumar] (https://github.com/pavankumar2004)
 - [Claudia Varona](https://github.com/Clau050994)
