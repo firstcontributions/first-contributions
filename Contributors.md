@@ -18,6 +18,7 @@ sara
 - [Mohit Pathak](https://github.com/mohitpathak382)
 - [Vishnu Bobbiti]
 - [Nicholas Licata](https://github.com/nicholaslicata)
+- [Tushar Shukla](https://github.com/TUSHAR-SHUKLA)
 - [Gargi Bandyopadhyay] (https://github.com/Gargi2003)
 - [Tapadip Paul] (https://github.com/Tapadip16)
 - [Murshid Ameen] (https://github.com/murshidameenpv)
