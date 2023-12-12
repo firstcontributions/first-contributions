@@ -36,6 +36,7 @@ sara
 - [Aviraj Lavate] (https://github.com/aviraj00)
 - Kartikey Srivastava
 - [Ashutosh Ojha](https://github.com/leoAshu)
+- [Julian Krzysiak](https://github.com/CastillejaCode)
 - [Jen Liu](https://github.com/JENLIU2023)
 - [Sandesh Bhujbal](https://github.com/sandesh300)
 - [Minh Nguyen](https://github.com/nttminh)
