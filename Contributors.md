@@ -10,6 +10,7 @@ sara
 - [MEHAKPREET KAUR](https://github.com/Mehakpreet9911)
 - [EWANE EWANE](https://github.com/EWE-2/)
 - [Josue Anguiano](https://github.com/josue-anguiano)
+- [Rohit Bagade](https://github.com/Rohitbagade-cs)
 - [Ryan Cross](https://girhub.com/rycr3278)
 - [Kris Hvattum](https://github.com/kristofer11)
 - [Sohaib Khan] (https://github.com/Sohaibgit)
