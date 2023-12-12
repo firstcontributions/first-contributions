@@ -5001,6 +5001,7 @@ Rashi Singh
 - [Andy]
 - [Timothy Bukowski](https://github.com/Whitefire000)
 - [Nicholas Garbutt](https://github.com/Nicholas-Garbutt)
+- [William-D-Miller-Jr-AKA-王比尔](https://github.com/bijiyiqi2017)
 - [Carlo Inserra](https://github.com/Carleoinserra)
 - [KhaingKyawMin] (https://github.com/kkm1991)
 - [kaif-khan](https://github.com/shadowfaxx1)
