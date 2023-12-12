@@ -190,6 +190,7 @@ Ayush Gaud
 - [Aditya]
 - [Toby] (https://github.com/tobiastdev)
 - [MarioCapodanno](https://github.com/MarioCapodanno)
+- [UjjwalShikhar](https://github.com/UjjS)  
 - [Derek Kim](https://github.com/derekhskim)
 - [Rasine](https://github.com/eyesaidyo/)
 Gabi Nelepcu
