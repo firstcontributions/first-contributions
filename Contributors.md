@@ -11,7 +11,6 @@ sara
 - [Harsh Umpoxy] (https://github.com/HarshUmpoxy)
 - [Mohit Pathak](https://github.com/mohitpathak382)
 - [Vishnu Bobbiti]
-- [Tekalign Mesfin] (https://github.com/Tekalig)
 - [Nicholas Licata](https://github.com/nicholaslicata)
 - [Gargi Bandyopadhyay] (https://github.com/Gargi2003)
 - [Tapadip Paul] (https://github.com/Tapadip16)
@@ -982,6 +981,7 @@ Brent L
 - [Vanessa Kasei](https://github.com/VanessaKasei)
 -[karan arora](https://github.com/karan7864)
 - [Ram Tyagi](https://github.com/Ram-tyagi)
+- [Tekalign Mesfin](https://github.com/Tekalig)
 - [TAMAR T]
 -[Su](https://github.com/sureshp820)
 - [Prateek Narsinghani](https://github.com/prateek-narsinghani)
