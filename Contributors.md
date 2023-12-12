@@ -1,6 +1,7 @@
 # Contributors
 - [Thura Nyi](https://github.com/Thura69)
 - [Vandan Nandwana](https://github.com/vandannandwana)
+- [Bapun](https://github.com/bapun-malik)
 - [Yaswanth Mitta] (https://github.com/Yaswanth-Mitta/)
 - [Syed Sammak Hussain] (https://github.com/Sammak215)
 Sriram Kashyap (https://github.com/Sriramkashyapks)
