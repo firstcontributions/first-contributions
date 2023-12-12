@@ -5377,6 +5377,7 @@ Gauresh Rathi
 - [Xaacher](https://github.com/xaacher)
 - [YGrynechko](https://github.com/ygrynechko)
 - [Srikanth](https://github.com/systems1)
+- [mango606](https://github.com/mango606)
 - [Kurt Cyrus Cuizon](https://github.com/Borrkkk)
 - [Wesley Waka](https://github.com/Wesley-waka)
 - [pocholo30] (https://github.com/pocholo30)
