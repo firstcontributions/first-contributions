@@ -2559,6 +2559,7 @@ Sino Felicity Zwane
 - [Oliver Wolfson](https://github.com/owolfdev)
 - [Vivian Heggenstaller](https://github.com/Mauttism)
 - [Muhamad Firdaus Bin Mohd Razali](https://github.com/ausrazali)
+- [Bhagat Singh](https://github.com/Bhagatsingh17)
 - [Yashwanth B M](https://github.com/yashwanth-gh/)
 - [Jônatas Pereira da Rocha](https://github.com/jonatasprocha)
 - [Rohan Chauhan](https://github.com/rA9k)
