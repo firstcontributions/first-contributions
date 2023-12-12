@@ -347,6 +347,7 @@ Gabi Nelepcu
 - [Mark Richardson](https://github.com/markr155)
 - [Maneesha Gunawardhana](https://github.com/mGunawardhana)
 - [Pankaj Mokashi](https://github.com/pankajmokashi)
+- [Ludwig Kirschning](https://github.com/LKirschning)
 - [Mariano De Los Santos](https://github.com/Mdeloss)
 - [Ankit Ranjan](https://github.com/ankitranjanl)
 - [Rishi Paul](https://github.com/rishicds)
