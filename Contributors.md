@@ -75,6 +75,7 @@ sara
 - [Khush Soni] (https://github.com/khushsoni)
 Raphael
 - [SalerSimo] (https://github.com/SalerSimo)
+- [Haram Yoon] (https://github.com/haram082)
 - [Kim JunHyun] (https://github.com/NaMooJoon)
 - [Bilal Sardar] (https://github.com/mbilalsardar)
 - [Kiyo] (https://github.com/kiyoone)
