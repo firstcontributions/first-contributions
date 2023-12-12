@@ -5449,5 +5449,5 @@ Gauresh Rathi
 - [Marcin Wasilewski](https://github.com/AdeeeenA)
 - [Nadav Ishai](https://github.com/NadavIs56)
 - [Ishaan Sangwan]("https://github.com/ishaan-sangwan")
-Chris - SWE
 - [melo](https://github.com/melothedev)
+- [Rajesh Jonnalagadda]("https://github.com/rajeshj11")
