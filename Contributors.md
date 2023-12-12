@@ -3681,7 +3681,7 @@ Ayan Das
 - [David Greenlee](https://github.com/dgreenlee1)
 - [ZuzannaBurger](https://github.com/ZuzannaBurger)
 - [Abraham Belay](https://github.com/abrahambelaygelaw)
-- [Dahud Yusuf](https://github.com/yusfate4)
+- [Dahud Yusuf Ishol](https://github.com/yusfate4)
 - [Edwin Benalcázar](https://github.com/stacklast)
 - [Ukeme Edet](https://github.com/Ukeme-Edet)
 - [Rahil Shaikh](https://github.com/therahilshaikh)
