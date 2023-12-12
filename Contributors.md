@@ -5356,6 +5356,7 @@ Gauresh Rathi
 - [Dengzhe Hou](https://github.com/dengzhe-hou)
 - [Manraj Singh](https://github.com/therealmanraj)
 - [se22m053](https://github.com/se22m053)
+- [Ilyasse Fouaide](https://github.com/Ilyasse-Fouaide)
 - [Dongwook Chang](https://github.com/dongwook-chan)
 - [productiveins ](https://github.com/productiveins)
 - [Achal Jhawar](https://github.com/achaljhawar)
