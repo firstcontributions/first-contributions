@@ -24,6 +24,7 @@ sara
 - [Harsh Umpoxy] (https://github.com/HarshUmpoxy)
 - [Mohit Pathak](https://github.com/mohitpathak382)
 - [Vishnu Bobbiti]
+- [Krishnakant Pal](https://github.com/Krishnakant-Pal)
 - [Abhinav Gugulothu]
 -[Rajvir Singh] (https://github.com/rajvirsingh2)
 - [Yash Tomar] (https://github.com/1708yash)
