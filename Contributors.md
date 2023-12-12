@@ -17,6 +17,7 @@ sara
 - [Harsh Umpoxy] (https://github.com/HarshUmpoxy)
 - [Mohit Pathak](https://github.com/mohitpathak382)
 - [Vishnu Bobbiti]
+- [Yash Tomar] (https://github.com/1708yash)
 - [Nicholas Licata](https://github.com/nicholaslicata)
 - [Tushar Shukla](https://github.com/TUSHAR-SHUKLA)
 - [Gargi Bandyopadhyay] (https://github.com/Gargi2003)
