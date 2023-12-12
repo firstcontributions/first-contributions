@@ -5433,4 +5433,5 @@ Gauresh Rathi
 - [FullstackWEB-developer](https://github.com/FullstackWEB-developer)
 - [shanchuan1](https://github.com/shanchuan1)
 - [Marcin Wasilewski](https://github.com/AdeeeenA)
+- [Nadav Ishai](https://github.com/NadavIs56)
 Chris - SWE
