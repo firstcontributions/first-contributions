@@ -156,6 +156,7 @@ Ayush Gaud
 - [Alok Kumar Singh](https://github.com/Alok515)
 - [Fabio Capocasale] (https://github.com/ghost0r10n)
 - [Deepak kumar] (https://github.com/Deepakd25k)
+- [Suyash Khanzode] (https://github.com/suyashkhanzode)
 - [clawnic] (https://github.com/clawnic)
 - [swapno] (https://github.com/swapno7064)
 - [Sheena Barnes] (https://github.com/shba2504)
