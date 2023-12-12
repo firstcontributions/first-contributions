@@ -41,6 +41,7 @@ sara
 - [Andreas Carlsson](https://github.com/Fetante)
 - [Kiruthika](https://github.com/Kiruthika71)
 - [Nyi Lin Htut] (https://github.com/nyilinhtut1994)
+- [Kendall] (https://github.com/megap1nt)
 - [Eugene mehta](https://github.com/euguene)
 - [Fredrick Onyango](https://github.com/aTfure)
 - [Aritra Karmakar](https://github.com/Dark-Knight-Avi)
