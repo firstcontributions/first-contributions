@@ -265,6 +265,7 @@ Gabi Nelepcu
 - [Hari] (https://github.com/thughari)
 - [Fluorine] (https://github.com/undisputedgoose)
 - [Indrajit Mandal] (https://github.com/Jitmandal051004)
+- [Matthew Handley] (https://github.com/Matthandley9)
 - [Mounssif BOUHLAOUI](https://github.com/nuuxcode)
 - [Ndifoin Hilary](https://gitub.com/Ndifoinhilary)
 - [Robin Kumar Singh](https://github.com/SinghRobinKumar)
