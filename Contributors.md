@@ -128,6 +128,7 @@ Raphael
 - [Iranna Hejjegar] (https://github.com/iranna22)
 - [Jim Hatley] (https: //github.com/jhatley75)
 - [coinZee/Nick] (https://github.com/coinZee)
+- [Abdulqoyum Aliyu] (https://github.com/involut6)
 - [Sidhardh Joe] (https://github.com/SidhardhJoe)
 - [Kyuhong Han] (https://github.com/roy0424)
 - [Max Brener] (https://github.com/MaxBR97)
