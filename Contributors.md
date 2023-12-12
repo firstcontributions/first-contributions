@@ -5431,4 +5431,5 @@ Gauresh Rathi
 - [Ratamacue-9112](https://github.com/Ratamacue9112)
 - [FullstackWEB-developer](https://github.com/FullstackWEB-developer)
 - [shanchuan1](https://github.com/shanchuan1)
-- Chris - SWE
+- [Marcin Wasilewski](https://github.com/AdeeeenA)
+Chris - SWE
