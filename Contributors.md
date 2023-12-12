@@ -623,6 +623,7 @@ Brent L
 - [Vaiditya Tanwar] (https://github.com/Vaiditya2207)
 - [Sigurd Torve Sæther] (https://github.com/sitsae)
 - [Minju Kim](https://github.com/whyNot077)
+- [Jaehyeon Kim](https://github.com/kiku99)
 - [Nitin Koul](https://github.com/nitin-koul)
 - [Pranav Mistry](https://github.com/PranavMistry3)
 - [TechySavant](https://github.com/techy-savant)
