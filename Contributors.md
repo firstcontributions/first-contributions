@@ -11,6 +11,7 @@ sara
 - [Harsh Umpoxy] (https://github.com/HarshUmpoxy)
 - [Mohit Pathak](https://github.com/mohitpathak382)
 - [Vishnu Bobbiti]
+- [Tekalign Mesfin] (https://github.com/Tekalig)
 - [Nicholas Licata](https://github.com/nicholaslicata)
 - [Gargi Bandyopadhyay] (https://github.com/Gargi2003)
 - [Tapadip Paul] (https://github.com/Tapadip16)
