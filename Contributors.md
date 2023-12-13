@@ -249,6 +249,7 @@ Gabi Nelepcu
 - [Samkelo Chamane] (https://github.com/samkelo-chamane)
 - [Tejas Dixit] (https://github.com/pandatd)
 - [Neha Nihar] (https://github.com/NehaNihar12)
+- [Priyanshu Ghosh] (https://github.com/Priyanshu15092001)
 - [Zenith] (https://github.com/zenithv1)
 - [YYT] (https://github.com/yeyintthu01)
 - [Yash Kan] (https://github.com/yash-phoenix79)
