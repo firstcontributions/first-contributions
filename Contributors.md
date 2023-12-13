@@ -5487,3 +5487,4 @@ Gauresh Rathi
 Chris - SWE
 - [Rajesh Jonnalagadda]("https://github.com/rajeshj11")
 - [Burla Abhiraj]("https://github.com/BurlaAbhiraj)
+- [Sougata Majumdar] ("https://github.com/Sou28")
