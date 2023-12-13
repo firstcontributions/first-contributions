@@ -10,6 +10,7 @@ Sriram Kashyap (https://github.com/Sriramkashyapks)
 sara
 paramesh g v
 -[ Piyush Chopade ] 
+-[ Naos Belay ] (https://github.com/Amenediel)
 -[Magnim] (https://github.com/magnim)
 -[Gakii] (https://github.com/eleanorgakii)
 - [Zhangwai] (https://github.com/Zhangwai)
