@@ -4993,6 +4993,7 @@ Rashi Singh
 - [Mathanraj T](https://github.com/mathanraj0601)
 - [July-Fang2000](https://github.com/July-Fang2000)
 - [Line5139](https://github.com/Line5139)
+-[anish pradhan](https://github.com/pradhananish)
 - [Nicholas Ndolo](https://github.com/nicholasndolo)
 - [Miguel Angel Bruni Montero] (https://github.com/MABruni)
 - [Soap Opera](https://github.com/soapopera12)
@@ -5452,7 +5453,7 @@ Gauresh Rathi
 - [Shreyas-Jadhav](https://github.com/sreyaz11)
 - [0Juice](https://github.com/0Juice)
 - [Jenny Mason](https://github.com/jjrrrmason)
-- sheldon_kxx
+- sheldon_kx
 - [lucky rajbhar](https://github.com/luckyraj432) 
 - [Ashwin Athappan](https://github.com/ashwin-athappan)
 - [Mirjalol](I will not write my github address)
