@@ -10,6 +10,7 @@ Sriram Kashyap (https://github.com/Sriramkashyapks)
 sara
 -[ Piyush Chopade ] 
 -[Magnim] (https://github.com/magnim)
+-[Gakii] (https://github.com/eleanorgakii)
 - [Zhangwai] (https://github.com/Zhangwai)
 - [Kuessi-Ansan Djiyehoue] (https://github.com/KuessiAnsan)
 - [Oluwaferanmi-Adeyemi] (https://github.com/K-Honsu)
