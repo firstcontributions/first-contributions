@@ -941,6 +941,7 @@ Brent L
 - [bvkp](https://github.com/krishna1501)
 - [Anshul Kansal](https://github.com/anshulkansal04)
 - [Bie Fung](/https://github.com/Bfungcode)
+- [Amey Kasbe](https://github.com/ameykasbe/)
 - [nitvp](https://github.com/sureshp820)
 - [Farukh](https://github.com/FarukhS52)
 - [VictorAlexisL](https://github.com/VictorAlexisL)
