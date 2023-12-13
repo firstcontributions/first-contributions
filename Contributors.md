@@ -19,6 +19,7 @@ sara
 - [Abdulbasit Hussain] (https://github.com/abdulbasit0-UI)
 - [Tristan Ellenberg](https://github.com/RauliYoung)
 - [Roman Snegach] (https://github.com/RSnegach)
+- [Farouk Adedamola] (https://github.com/Farouk-Adedamola)
 - [V S N Vardhan Kumar Bhadri] (https://github.com/vardhank1811)
 - [Kashyap shukla] (https://github.com/kashyapshukla)
 - [Nkosinathi Mbokazi] (https://github.com/d0nda)
