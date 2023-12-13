@@ -185,6 +185,7 @@ Ayush Gaud
 - [Suyash Khanzode] (https://github.com/suyashkhanzode)
 - [clawnic] (https://github.com/clawnic)
 - [swapno] (https://github.com/swapno7064)
+- [beanimus](https://github.com/beanimus)
 - [Sheena Barnes] (https://github.com/shba2504)
 - [Aditi Agarwal](https://github.com/Aditi0325)
 - [Dibyendu Bar](https://github.com/Dibyendu-13)
