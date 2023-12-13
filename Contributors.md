@@ -1945,6 +1945,7 @@ gulshan
 - [Pratham Purohit](https://github.com/prathammpurohit)
 - [Abhijeet --sssss](https://github.com/Zeref-XXX)
 - [Chris Lin](https://github.com/clin34)
+- [Rohit Pillalamarri](https://github.com/rohit1817)
 - [Smruti Ranjan Sahu](https://github.com/HunterX18)
 - [Ebenezer Ebuka Ifezulike](https://github.com/Ebenezer-ebu)
 - [Andrew LaPage] (https://github.com/AndrewLaPage)
