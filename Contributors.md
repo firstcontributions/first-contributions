@@ -35,6 +35,7 @@ sara
 -[Rajvir Singh] (https://github.com/rajvirsingh2)
 - [Yash Tomar] (https://github.com/1708yash)
 - [Nicholas Licata](https://github.com/nicholaslicata)
+- [Voz Cedrick](https://github.com/CedrickCatarroja)
 - [Tushar Shukla](https://github.com/TUSHAR-SHUKLA)
 - [Gargi Bandyopadhyay] (https://github.com/Gargi2003)
 - [Adenike Adeofe] (https://github.com/adenike23)
