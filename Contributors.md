@@ -17,6 +17,7 @@ sara
 - [Ryan Cross](https://girhub.com/rycr3278)
 - [Swadish Muralitharan](https://github.com/swag1711)
 - [Kris Hvattum](https://github.com/kristofer11)
+- [Siddharth](https://github.com/Siddharth1605)
 - [Sohaib Khan] (https://github.com/Sohaibgit)
 - [Yaksh Gandhi] (https://github.com/yaksh1)
 - [Abdulbasit Hussain] (https://github.com/abdulbasit0-UI)
