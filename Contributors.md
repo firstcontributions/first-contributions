@@ -3501,6 +3501,7 @@ Nikhil R
 - [Mahendra Kolhe](https://github.com/Mahikolhe23)
 - [Gabriel Silva Lima](https://github.com/gabriellimma)
 - [Tristan Hoffay](https://github.com/TristanHoffay)
+- [Guilherme Monteiro](https://github.com/guilherme-t-monteiro)
 - [Best wishes](https://github.com/SinusoidFunc)
 - [Venkatesh-KCET](https://github.com/Venkatesh-KCET)
 - [namedmichi](https://github.com/namedmichi)
