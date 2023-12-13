@@ -8,6 +8,7 @@
 - [Syed Sammak Hussain] (https://github.com/Sammak215)
 Sriram Kashyap (https://github.com/Sriramkashyapks)
 sara
+paramesh g v
 -[ Piyush Chopade ] 
 -[Magnim] (https://github.com/magnim)
 -[Gakii] (https://github.com/eleanorgakii)
