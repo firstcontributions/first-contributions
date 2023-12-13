@@ -4653,6 +4653,7 @@ Akash Abraham
 - [Irfan Ali](https://github.com/irfanali1995/irfanali1995)
 - [Unnikrishnan Namboothiri](https://github.com/unnikrishnanNam)
 - [freezerbox](https://github.com/freezerbox1)
+- [Abdulhaleem Sanuth](https://github.com/Abdulhaleem-6)
 - [CaitlinIsShort](https://github.com/caitlinisshort)
 - [Pritam Das](https://github.com/4ritam)
 - [Srijan Biswas](https://github.com/srijanB7)
