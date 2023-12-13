@@ -1,5 +1,6 @@
 # Contributors
 - [hrisabhy](https://github.com/hrisabhy)
+- [Arya Sharma] (https://github.com/aarya626)
 - [Anay](https://github.com/c4coderandcreator)
 - [Thura Nyi](https://github.com/Thura69)
 - [Vandan Nandwana](https://github.com/vandannandwana)
