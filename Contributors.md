@@ -418,6 +418,7 @@ Gabi Nelepcu
 - [Shahzain Shafique](https://github.com/shahzainshafique)
 - [sourabh sivare](https://github.com/pseudoSOURABH)
 - [Peace Alawode](https://github.com/Code-PeaceA)
+- [Jerzy W](https://github.com/JamJestJerzy)
 - [Angela Fisher](https://github.com/angelajfisher)
 - [Abhiyanshu ](https://github.com/abhiyanshuthefighter)
 - [Vignesh Dhayalan](https://github.com/VIGNESH-2737)
