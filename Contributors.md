@@ -34,6 +34,7 @@ kunal
 - [Jose Torres](https://github.com/BermudaOG)
 - [Sohaib Khan] (https://github.com/Sohaibgit)
 - [Yaksh Gandhi] (https://github.com/yaksh1)
+- [Akhil K](https://github.com/akhil0903)
 - [Abdulbasit Hussain] (https://github.com/abdulbasit0-UI)
 - [Tristan Ellenberg](https://github.com/RauliYoung)
 - [Roman Snegach] (https://github.com/RSnegach)
