@@ -628,6 +628,7 @@ Gabi Nelepcu
 - [Mounik]()
 - [Kiki McArron](https://github.com/KikiMcArron)
 - Sunny Tamrakar
+- [Michael Malka](https://github.com/mickael266)
 - [Ramsha Farrukh] (https://github.com/RamshaFarrukh25)
 - [Adam Purcell](https://github.com/apurcell88)
 - [Ayansh Shankar](https://github.com/ayanshshankar)
