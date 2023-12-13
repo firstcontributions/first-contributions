@@ -31,6 +31,7 @@ kunal
 - [Swadish Muralitharan](https://github.com/swag1711)
 - [Kris Hvattum](https://github.com/kristofer11)
 - [Siddharth](https://github.com/Siddharth1605)
+- [Jose Torres](https://github.com/BermudaOG)
 - [Sohaib Khan] (https://github.com/Sohaibgit)
 - [Yaksh Gandhi] (https://github.com/yaksh1)
 - [Abdulbasit Hussain] (https://github.com/abdulbasit0-UI)
