@@ -26,6 +26,7 @@ kunal
 - [Jammula Srivasanth](https://github.com/srivasanth23)
 - [MEHAKPREET KAUR](https://github.com/Mehakpreet9911)
 - [EWANE EWANE](https://github.com/EWE-2/)
+- [Aniketh Rai](https://github.com/AnikethRai)
 - [Josue Anguiano](https://github.com/josue-anguiano)
 - [Rohit Bagade](https://github.com/Rohitbagade-cs)
 - [Ryan Cross](https://girhub.com/rycr3278)
