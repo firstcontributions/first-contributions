@@ -21,6 +21,7 @@
 - [Marko Cuk](https://github.com/MarkoCuk54)
 - [Mehul Verma](https://github.com/me-hu-l)
 - [Arth Patel](https://github.com/Arthpatel01)
+- [Brian Kyalo](https://github.com/kyalo3)
 - [Nick Gordon](https://github.com/ngordon68)
 - [rita faretra](https://github.com/peterston-e)
 - [Gaurav Katkade](https://github.com/gaurav-katkade)
