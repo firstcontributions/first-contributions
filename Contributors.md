@@ -24,6 +24,7 @@ abdqudus (https://github.com/abdqudus)
 sara
 paramesh g v
 - Jimmy Wu
+- Manuel Preston
 -[ Piyush Chopade ] 
 -[Ursula Tamen](https://github.com/Ursula100)
 -[ Naos Belay ] (https://github.com/Amenediel)
