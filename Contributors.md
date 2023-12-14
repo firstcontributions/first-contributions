@@ -208,19 +208,20 @@ Raphael
 Ayush Gaud
 - [Rudra Pakhare](https://github.com/Rudra-Pakhare)
 - Anonymousizzy 
--Matttrus
--bellicosi
+- Matttrus
+- bellicosi
+- sw
 - angela
 - Chandan J
 - pnb
 - Srujan Gowda
 - Adam Cordy
 - Richik Dutta
--[LogeshVarman](https://github.com/Logeshvarman)
+- [LogeshVarman](https://github.com/Logeshvarman)
 - [robert5313](https://github.com/robert5313)
-- [AyushSingh] (https://github.com/NemesisXVI)
+- [AyushSingh](https://github.com/NemesisXVI)
 - [syeda-fajar](https://github.com/syeda-fajar)
--[Chaithanya Krisha] (https://github.com/krsna28)
+- [Chaithanya Krisha](https://github.com/krsna28)
 - [Abheeshta P] (https://github.com/Abheeshta-P)
 - [RoycejChan] (https://github.com/RoycejChan)
 -[Victus] (https://github.com/victuseze)
