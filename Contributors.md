@@ -10,6 +10,7 @@
 - [Sarvesh P] (https://github.com/sarvesh-official)
 - [Bapun](https://github.com/bapun-malik)
 - [Jon Desserres] (https://github.com/JonnyDdesign)
+- [Nidhi Iyer] (https://github.com/NidhiIyer04)
 - [Yaswanth Mitta] (https://github.com/Yaswanth-Mitta/)
 - [Syed Sammak Hussain] (https://github.com/Sammak215)
 Sriram Kashyap (https://github.com/Sriramkashyapks)
