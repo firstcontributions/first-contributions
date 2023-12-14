@@ -17,6 +17,7 @@ Sriram Kashyap (https://github.com/Sriramkashyapks)
 abdqudus (https://github.com/abdqudus)
 sara
 paramesh g v
+- Jimmy Wu
 -[ Piyush Chopade ] 
 -[ Naos Belay ] (https://github.com/Amenediel)
 -[Magnim] (https://github.com/magnim)
