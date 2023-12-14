@@ -1,4 +1,5 @@
 # Contributors
+-Nida
 - [Rupesh Chincholkar](https://github.com/r1414a)
 - [hrisabhy](https://github.com/hrisabhy)
 - [vivienogoun](https://github.com/vivienogoun)
