@@ -30,6 +30,7 @@ paramesh g v
 -[Gakii] (https://github.com/eleanorgakii)
 - [Zhangwai] (https://github.com/Zhangwai)
 - [Kuessi-Ansan Djiyehoue] (https://github.com/KuessiAnsan)
+- Chicken Nugz
 kunal
 - [Abdurrahman Sogbesan](https://github.com/AbdurrahmanSogbesan)
 - [piyush sharma](htpps://github.com/ViciousEagle03)
