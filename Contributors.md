@@ -85,6 +85,7 @@ Balraj
 - [Jose Rubio](https://github.com/josrubfer)
 - [Muhammed Labeeb U](https://github.com/Ladoxer)
 - [Vimal Manoharan](https://github.com/vimal004)
+- [DQKhanh](https://github.com/QKhanhGT6)
 - Ryan Chan
 - Adekeye Taofeeq
 - [Reshma R](https://github.com/reshma045)
