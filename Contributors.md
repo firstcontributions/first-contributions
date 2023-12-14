@@ -248,6 +248,7 @@ Ayush Gaud
 -[MD Akib Haider](https://github.com/aaakloo-waiting)
 - [Reez] (https://github.com/ReezChaoCau)
 - [Kevin Patel] (https://github.com/PatelKeviin)
+- [Random Idiot] (https://github.com/progamer)
 - [Joshua Estebat](https://github.com/joshmre)
 - [PSK] (https://github.com/PK-WookiDooki)
 - [PSK] (https://github.com/jamesbright)
