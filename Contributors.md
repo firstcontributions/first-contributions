@@ -27,6 +27,7 @@ paramesh g v
 - [Zhangwai] (https://github.com/Zhangwai)
 - [Kuessi-Ansan Djiyehoue] (https://github.com/KuessiAnsan)
 kunal
+- [Abdurrahman Sogbesan](https://github.com/AbdurrahmanSogbesan)
 - [piyush sharma](htpps://github.com/ViciousEagle03)
 - [Ugwuanyi Afam](https://github.com/2022phyro)
 - [Lambe Boluwatife] (https://github.com/lambeboluwatife)
