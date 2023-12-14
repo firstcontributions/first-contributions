@@ -5,6 +5,7 @@
 - [Anay](https://github.com/c4coderandcreator)
 - [Thura Nyi](https://github.com/Thura69)
 - [Vandan Nandwana](https://github.com/vandannandwana)
+- [Rahul Singh](https://github.com/srahuliitb/)
 - [Rajesh A](https://github.com/Rajesh1308)
 - [Bapun](https://github.com/bapun-malik)
 - [Jon Desserres] (https://github.com/JonnyDdesign)
