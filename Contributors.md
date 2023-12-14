@@ -1,6 +1,6 @@
 ﻿
 # Contributors
-- [Akhil rocz](https://github.com/akhilrocz)
+- [Akhilrocz](https://github.com/akhilrocz)
 - [Aliaksandr Kaptsevich](https://github.com/VeryStone69)
 - [CodeLikeAyush](https://github.com/CodeLikeAyush)
 - [Jitae Moon] (https://github.com/jitae-moon)
