@@ -3668,6 +3668,7 @@ Nikhil R
 - [Ritabrata Das](https://github.com/the-indian-dev)
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
 - [Christian Hicks](https://github.com/chicks-dev)
+- [Fidelis Wambui](https://github.com/annon-prog)
 - [Thorben Buenger](https://github.com/FourtySeven047)
 - [ovidiuoc](https://github.com/ovidiuoc)
 - [Malavya Raval](https://github.com/MalavyaRaval)
