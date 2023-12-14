@@ -19,6 +19,7 @@ paramesh g v
 -[Gakii] (https://github.com/eleanorgakii)
 - [Zhangwai] (https://github.com/Zhangwai)
 - [Kuessi-Ansan Djiyehoue] (https://github.com/KuessiAnsan)
+- Chicken Nugz
 kunal
 - [Ugwuanyi Afam](https://github.com/2022phyro)
 - [Oluwaferanmi-Adeyemi] (https://github.com/K-Honsu)
