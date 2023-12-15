@@ -5556,4 +5556,4 @@ Kumar Kaji
 -[Harshit](https://github.com/Harshit-Vavaiya/)
 -[Leonora Pranjic](https://github.com/leonora1901/)
 -[Aswin R](https://github.com/AshCoder07)
-- [Arouna SIDIBE]("https://github.com/mansasidibe")
+- [Arouna SIDIBE](https://github.com/mansasidibe)
