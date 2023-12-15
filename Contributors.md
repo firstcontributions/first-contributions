@@ -8,6 +8,7 @@
 - [Soumik-Mitra] (https://github.com/Soumik29)
 - [Stephanie Nguyen] (https://github.com/stephanienguyen2020/)
 - [Anay](https://github.com/c4coderandcreator)
+- [hritik](https://github.com/hritikmunde)
 - [Thura Nyi](https://github.com/Thura69)
 -[Pesh Atuhura](https://github.com/peshatuhura)
 - [Isabel Román](https://github.com/isabelroman84)
