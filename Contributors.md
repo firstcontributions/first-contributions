@@ -2127,6 +2127,7 @@ gulshan
 - [Paul Kabuu](https://github.com/kongkabuu)
 - [Nimo Muhumed](https://github.com/eazima)
 - [Hadia Sultan](https://github.com/Hadia381)
+- [Md. Tareq Aziz](https://github.com/tar3q-az1z)
 - [Juan Pablo Alvarado](https://github.com/juancodeaudio)
 - [Paul Rose] (https://github.com/ptrose78)
 - [Osho Iseoluwa](https://github.com/theCephas)
