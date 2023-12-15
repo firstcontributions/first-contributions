@@ -13,6 +13,7 @@
 -[Pesh Atuhura](https://github.com/peshatuhura)
 - [Isabel Román](https://github.com/isabelroman84)
 - [Vandan Nandwana](https://github.com/vandannandwana)
+- [Thanusan Aiyadurai Iyer](https://github.com/Thanu221099)
 - [Rahul Singh](https://github.com/srahuliitb/)
 - [Rajesh A](https://github.com/Rajesh1308)
 - [Sarvesh P] (https://github.com/sarvesh-official)
