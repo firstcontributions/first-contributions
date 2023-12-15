@@ -5547,10 +5547,11 @@ Chris - SWE
 - [Linda Uchenwoke] ("https://github.com/thegirlcoderr")
 - [Marek Tokarz](https://github.com/marektoja)
 - [Naman Kumar Das](https://github.com/Namandas)
-Kumar Kaji
--[REC-1104](https://github.com/REC-1104)
-- [jjshen](https://github.com/JJshen666)
--[pnung](https://github.com/pnung)
--[Harshit](https://github.com/Harshit-Vavaiya/)
--[Leonora Pranjic](https://github.com/leonora1901/)
--[Aswin R](https://github.com/AshCoder07)
+- Kumar Kaji
+- [REC-1104](https://github.com/REC-1104)  
+- [jjshen](https://github.com/JJshen666)  
+- [pnung](https://github.com/pnung)  
+- [Harshit](https://github.com/Harshit-Vavaiya/)  
+- [Leonora Pranjic](https://github.com/leonora1901/)
+- [Aswin R](https://github.com/AshCoder07)
+- [Henry Ihenacho](https://github.com/henrychris)  
