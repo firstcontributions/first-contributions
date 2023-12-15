@@ -6,6 +6,7 @@
 - Beau
 - Utsav
 - [hrisabhy](https://github.com/hrisabhy)
+- [Abhay](https://github.com/AbhayXcoderx123)
 - [vivienogoun](https://github.com/vivienogoun)
 - [Arya Sharma] (https://github.com/aarya626)
 - [Soumik-Mitra] (https://github.com/Soumik29)
