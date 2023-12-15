@@ -44,6 +44,7 @@ paramesh g v
 - Chicken Nugz
 kunal
 - [Abdurrahman Sogbesan](https://github.com/AbdurrahmanSogbesan)
+- [Karthik Kundurthy](https://github.com/Karthik-Kundurthy)
 - [piyush sharma](htpps://github.com/ViciousEagle03)
 - [Ugwuanyi Afam](https://github.com/2022phyro)
 - [Lambe Boluwatife] (https://github.com/lambeboluwatife)
