@@ -23,6 +23,7 @@
 - [Vandan Nandwana](https://github.com/vandannandwana)
 - [Thanusan Aiyadurai Iyer](https://github.com/Thanu221099)
 - [Pankaj Singh](https://github.com/pankaj-2503)
+- [Houssem Selmi](https://github.com/Houssem-Selmi)
 - [Rahul Singh](https://github.com/srahuliitb/)
 - [Rajesh A](https://github.com/Rajesh1308)
 - [Sarvesh P] (https://github.com/sarvesh-official)
