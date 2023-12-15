@@ -157,6 +157,7 @@ Raphael
 - [Jonas Ling] (https://github.com/ItsJonasL)
 - [pocholo30] (https://github.com/pocholo30)
 - [vincent DUSHIME](https://github.com/Vincidax)
+- [Mohammed Firdous](https://github.com/Firdous2307)
 - [Mehmet Akif Çevik](https://github.com/makifcevik)
 - [rawfiul](https://github.com/rawfiul)
 - [Gaurav Parajuli](https://github.com/gauravparajuli)
