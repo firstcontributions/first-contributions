@@ -88,6 +88,7 @@ Balraj
 - Ryan Chan
 - Adekeye Taofeeq
 - [Reshma R](https://github.com/reshma045)
+- [Kwie Nyan](https://github.com/nyannainglin)
 - [Aviraj Lavate] (https://github.com/aviraj00)
 - Kartikey Srivastava
 - [Ashutosh Ojha](https://github.com/leoAshu)
