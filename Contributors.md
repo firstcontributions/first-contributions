@@ -113,7 +113,8 @@ Balraj
 - [Mahesh Langote](https://github.com/Mahesh-Langote)
 - [Bojidar Vladimirov](https://github.com/noaydev)
 - [Sanat Thukral](https://github.com/sanatcodes)
-- [Hardik Jogadia] (https://github.com/hardikjogadia)
+- [Priyanshu Agrawal](https://github.com/priyanshu-techie)
+- [Hardik Jogadia](https://github.com/hardikjogadia)
 - [Raj Mayekar](https://github.com/MayekarRaj)
 - [Akshika Jain]
 - [Yashwanth Kothakota](https://github.com/yashwanthkothakota9)
@@ -121,14 +122,14 @@ Balraj
 - [Vimal 140704]
 - [Anurag Goel]
 - [Sai Sandeep Acharjyo] - Have a good day and happy coding!
-- [Harsh Sahu] (https://github.com/HarshSahu05)
-- [Shiva Sankar] (https://github.com/shiva1718)
+- [Harsh Sahu](https://github.com/HarshSahu05)
+- [Shiva Sankar](https://github.com/shiva1718)
 - [Dean Beebe](https://github.com/beandeebe)
 - [Moses Msukwa](https://github.com/mozesi)
 - [Yusuf Sabri Bayrakdar](https://github.com/yusufbayrakdar)
 [Shubham S Dandekar](https://github.com/shubham-sd)
-- [Harshit Singh] (https://github.com/sasura212)
-- [Anshuman Behera] (https://github.com/anshuman1222)
+- [Harshit Singh](https://github.com/sasura212)
+- [Anshuman Behera](https://github.com/anshuman1222)
 - [Yuhao Ban](https://github.com/yuhaoban)
 -[Chirag Chawla](https://github.com/chirag-cyber).
 - [Mandar Patil] (https://github.com/patilmandar2003)
