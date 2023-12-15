@@ -670,6 +670,7 @@ Gabi Nelepcu
   [Kaan Eren](https://github.com/heresyglitched)
 - [Rafi Ali](https://github.com/ralichow)
 - [Murathan Necat](https://github.com/mrthnnct)
+-[CJ DeMille](https://github.com/cjdemille)
 - [Mounik]()
 - [Kiki McArron](https://github.com/KikiMcArron)
 - Sunny Tamrakar
