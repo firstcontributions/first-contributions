@@ -22,11 +22,13 @@
 - [ Nidhi Iyer ] (https://github.com/NidhiIyer04)
 - [Yaswanth Mitta] (https://github.com/Yaswanth-Mitta/)
 - [Syed Sammak Hussain] (https://github.com/Sammak215)
-  Sriram Kashyap (https://github.com/Sriramkashyapks)
-  abdqudus (https://github.com/abdqudus)
-  Sandip Jadhav (https://github.com/sandip4git)
-  sara
-  paramesh g v
+Sriram Kashyap (https://github.com/Sriramkashyapks)
+abdqudus (https://github.com/abdqudus)
+Sandip Jadhav (https://github.com/sandip4git)
+- [Murali Murugan] (https://github.com/Murali03M/) 
+sara
+paramesh g v
+
 - Jimmy Wu
 - Manuel Preston -[ Piyush Chopade ] -[Ursula Tamen](https://github.com/Ursula100) -[ Naos Belay ] (https://github.com/Amenediel) -[Magnim] (https://github.com/magnim) -[Michael Le] (https://github.com/michael2017le) -[Gakii] (https://github.com/eleanorgakii)
 - [Zhangwai] (https://github.com/Zhangwai)
