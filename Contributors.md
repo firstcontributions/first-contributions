@@ -3499,6 +3499,7 @@ Nikhil R
 - [Dhruvabhat24](https://github.com/Dhruvabhat24)
 - [Dane Becker](https://github.com/DaneBex)
 - [Iñaki García](https://github.com/igardiet)
+- [qianaoinu](https://github.com/qiananoinu)
 - [Matteo Cusin](https://github.com/MatteoCus)
 - [Aleks_Lucenko](https://github.com/alekslucenko)
 - [Luis Hau](https://github.com/ycluis)
