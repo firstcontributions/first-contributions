@@ -1357,6 +1357,7 @@ harshal honde
 - [Arjun Pandit](https://github.com/arjunpndt)
 - [Naman Rautella] (https://github.com/NamanRautella)
 - [Nate Higgers](https://github.com/hitogava)
+- [Samuel Fanu](https://github.com/Kinsammy)
 - [Dhananjay Kajale](https://github.com/dhananjaykajale751)
 - [Yasin Günay](https://github.com/yasingunay)
 - [Lukas](https://github.com/lrsBS)
