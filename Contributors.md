@@ -283,6 +283,7 @@ Ayush Gaud
 - [Vishal Biradar](https://github.com/vishalbrdr)
 - [Aditya]
 - [Toby] (https://github.com/tobiastdev)
+- [Shashikant Bidve] (https://github.com/Shashikant-Bidve)
 - [MarioCapodanno](https://github.com/MarioCapodanno)
 - [UjjwalShikhar](https://github.com/UjjS)  
 - [Derek Kim](https://github.com/derekhskim)
