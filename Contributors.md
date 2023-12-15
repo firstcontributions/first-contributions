@@ -4610,6 +4610,7 @@ Akash Abraham
 - [Indranil Dutta](https://github.com/toindranildutta)
 - [Rick Auch](https://github.com/mekaneck)
 - [Okoye Victor](https://github.com/ChuloWay)
+- [Micah Alpern](https://github.com/malpern)
 - [E Stanzah](https://github.com/edwstanzah)
 - [Zaid Kaladia](https://github.com/zaidkaladia)
 - [Gleb Kan](https://github.com/practicalgnome)
