@@ -254,6 +254,7 @@ Ayush Gaud
 - [Aatish Salian](https://github.com/Aatish03)
 - [Astral1w3](https://github.com/Astral1w3)  
 - [Alok Kumar Singh](https://github.com/Alok515)
+- [Gujjula Samarasimha Reddy](https://github.com/gujjulassr)
 - [Fabio Capocasale] (https://github.com/ghost0r10n)
 - [Deepak kumar] (https://github.com/Deepakd25k)
 - [Suyash Khanzode] (https://github.com/suyashkhanzode)
