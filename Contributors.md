@@ -5,6 +5,7 @@
 - [hrisabhy](https://github.com/hrisabhy)
 - [vivienogoun](https://github.com/vivienogoun)
 - [Arya Sharma] (https://github.com/aarya626)
+- [Soumik-Mitra] (https://github.com/Soumik29)
 - [Stephanie Nguyen] (https://github.com/stephanienguyen2020/)
 - [Anay](https://github.com/c4coderandcreator)
 - [Thura Nyi](https://github.com/Thura69)
