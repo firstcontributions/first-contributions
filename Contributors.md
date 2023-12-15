@@ -68,6 +68,7 @@ kunal
 - [Farouk Adedamola] (https://github.com/Farouk-Adedamola)
 - [V S N Vardhan Kumar Bhadri] (https://github.com/vardhank1811)
 - [Kashyap shukla] (https://github.com/kashyapshukla)
+Jay Mistry
 - [Nkosinathi Mbokazi] (https://github.com/d0nda)
 - [Shailesh Thakur] (https://gtihub.com/shaileshthakur1)
 - [Harsh Umpoxy] (https://github.com/HarshUmpoxy)
@@ -170,7 +171,7 @@ Raphael
 - [vincent DUSHIME](https://github.com/Vincidax)
 - [Mohammed Firdous](https://github.com/Firdous2307)
 - [Mehmet Akif Çevik](https://github.com/makifcevik)
-- [rawfiul](https://github.com/rawfiul)
+z- [rawfiul](https://github.com/rawfiul)
 - [Gaurav Parajuli](https://github.com/gauravparajuli)
 - [Andrew Towers] (https://github.com/Jtorresk)
 - [Taron Vardanyan] (https://github.com/TaronVardanyan)
