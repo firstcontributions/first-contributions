@@ -118,6 +118,7 @@ Balraj
 - hemanthkumarreddymandadi
 - [Ashutosh Ojha](https://github.com/leoAshu)
 - [Julian Krzysiak](https://github.com/CastillejaCode)
+- [Abhishek Tripathi] (https://github.com/XavierOP877)
 - [Jen Liu](https://github.com/JENLIU2023)
 - [Sandesh Bhujbal](https://github.com/sandesh300)
 - [Minh Nguyen](https://github.com/nttminh)
