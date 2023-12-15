@@ -24,6 +24,7 @@
 Sriram Kashyap (https://github.com/Sriramkashyapks)
 abdqudus (https://github.com/abdqudus)
 Sandip Jadhav (https://github.com/sandip4git)
+- [Murali Murugan] (https://github.com/Murali03M/) 
 sara
 paramesh g v
 - Jimmy Wu
