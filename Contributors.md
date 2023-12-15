@@ -280,6 +280,7 @@ Ayush Gaud
 - [Kevin Patel] (https://github.com/PatelKeviin)
 - [Random Idiot] (https://github.com/progamer)
 - [Joshua Estebat](https://github.com/joshmre)
+- [Cmorales](https://github.com/SelaromC)
 - [PSK] (https://github.com/PK-WookiDooki)
 - [PSK] (https://github.com/jamesbright)
 - [Vishal Biradar](https://github.com/vishalbrdr)
