@@ -52,6 +52,7 @@ kunal
 - [Ryan Cross](https://girhub.com/rycr3278)
 - [Swadish Muralitharan](https://github.com/swag1711)
 - [Kris Hvattum](https://github.com/kristofer11)
+- [Nikhil Shahare](https://github.com/Nikhil-Shahare)
 - [Siddharth](https://github.com/Siddharth1605)
 - [Jose Torres](https://github.com/BermudaOG)
 - [Sohaib Khan] (https://github.com/Sohaibgit)
