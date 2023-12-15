@@ -97,6 +97,7 @@ Balraj
 - [Muhammed Labeeb U](https://github.com/Ladoxer)
 - [Vimal Manoharan](https://github.com/vimal004)
 - [DQKhanh](https://github.com/QKhanhGT6)
+- [Vaibhav Wable](https://github.com/vaibhavw12)
 - Ryan Chan
 - Adekeye Taofeeq
 - [Reshma R](https://github.com/reshma045)
