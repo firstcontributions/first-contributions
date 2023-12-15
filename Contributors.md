@@ -977,6 +977,7 @@ Brent L
 - [Sinan Muhammed P](https://github.com/sinan-q)
 - [Till Gohl](https://github.com/tillgo)
 - [Gianmarco Iachella](https://github.com/iachella)
+- [Nwankwo Samuel](https://github.com/saminwankwo)
 - [Naman Jain](https://github.com/namanjain7)
 - [Ekam Bitt](https://github.com/Ekam-Bitt)
 - [Austin Burdette] (https://github.com/burd5)
