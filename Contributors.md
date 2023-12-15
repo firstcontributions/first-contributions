@@ -13,6 +13,7 @@
 - [Anay](https://github.com/c4coderandcreator)
 - [hritik](https://github.com/hritikmunde)
 - [Thura Nyi](https://github.com/Thura69)
+- [Aashish Panthi](https://github.com/PanthiAashish)
 -[Pesh Atuhura](https://github.com/peshatuhura)
 - [Isabel Román](https://github.com/isabelroman84)
 - [Vandan Nandwana](https://github.com/vandannandwana)
