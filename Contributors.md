@@ -3,6 +3,7 @@
 - [Rupesh Chincholkar](https://github.com/r1414a)
 - [Aleksandar Atanasov](https://github.com/Axxxll)
 - Beau
+- Utsav
 - [hrisabhy](https://github.com/hrisabhy)
 - [vivienogoun](https://github.com/vivienogoun)
 - [Arya Sharma] (https://github.com/aarya626)
