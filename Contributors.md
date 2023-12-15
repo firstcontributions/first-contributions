@@ -237,6 +237,7 @@ Ayush Gaud
 - [yumelih] (https://github.com/yumelih)
 - [Stefano Gaspari] (https://github.com/stefanogaspari)
 - [Abdessamad Touzani](https://github.com/AbdessamadTzn)  
+- [Aatish Salian](https://github.com/Aatish03)
 - [Astral1w3](https://github.com/Astral1w3)  
 - [Alok Kumar Singh](https://github.com/Alok515)
 - [Fabio Capocasale] (https://github.com/ghost0r10n)
