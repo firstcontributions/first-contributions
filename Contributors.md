@@ -388,6 +388,7 @@ Gabi Nelepcu
 - [Shreyash] (https://github.com/Shreyash1414)
 -[Abel-zewdu] (https://github.com/abelrula)
 - [Hari] (https://github.com/thughari)
+- [Vijay K](https://github.com/vijay880755)
 - [Fluorine] (https://github.com/undisputedgoose)
 - [Indrajit Mandal] (https://github.com/Jitmandal051004)
 - [Matthew Handley] (https://github.com/Matthandley9)
