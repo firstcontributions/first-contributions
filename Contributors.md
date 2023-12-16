@@ -1,5 +1,6 @@
 # Contributors
-- [Vaibhav Sharma from India] (https://github.com/Vaibhav4228)
+-[Abhigyan Ranjan](https://github.com/Abhigyan-RA)
+- [Vaibhav Sharma  from India] (https://github.com/Vaibhav4228)
 -Nida
 - [Tom Broeske](https://github.com/TomBroeske)
 - [Rupesh Chincholkar](https://github.com/r1414a)
