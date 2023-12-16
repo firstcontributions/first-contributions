@@ -4,7 +4,7 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# మొదటి విరాళములు
+# మొదటి రచనలు
 
 అది కష్టం. అది ఏదో మొదటిసారి ఎల్లప్పుడూ కష్టం. ముఖ్యంగా మీరు సహకరించినప్పుడు, తప్పులు చేయడం అనేది ఒక సౌకర్యవంతమైన విషయం కాదు. కొత్త ఓపెన్ సోర్స్ కంట్రిబ్యూటర్లను తెలుసుకోవడానికి & మొదటిసారిగా దోహదపడే విధంగా మేము సరళీకృతం చేయాలనుకుంటున్నాము.
 

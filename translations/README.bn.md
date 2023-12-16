@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-# প্রথম অবদান
+# প্রথম অবদানসমূহ
 
 প্রথমবারের মতো কোনো কাজ করতে গেলে তা কঠিন বলেই মনে হবে। আর আপনি যদি অন্যদের কাজে সহযোগিতা করেন, তাহলে ভুলভ্রান্তিগুলো অত্যন্ত বিব্রতকর। অথচ 'ওপেন সোর্স'-এর মূল বিষয়টিই হচ্ছে পারস্পরিক সহযোগিতা ও একত্রে কাজ করা। আমরা চাই ওপেন সোর্সে অবদান রাখতে ইচ্ছুক নবীনরা যেন সহজেই শিখতে পারে এবং প্রথমবারের মতো তাদের অবদান রাখতে পারে।
 
@@ -33,7 +33,7 @@
 git clone "url you just copied"
 ```
 
-যেখানে "url you just copied" (উদ্ধৃত চিহ্ণ ব্যতীত) হচ্ছে এই রিপোজিটরির ইউআরএল যা আপনি পূর্বের ধাপেই পেয়েছেন।
+যেখানে "url you just copied" (উদ্ধৃতি চিহ্ন ব্যতীত) হচ্ছে এই রিপোজিটরির ইউআরএল যা আপনি পূর্বের ধাপেই পেয়েছেন।
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -92,6 +92,19 @@ git push origin -u <your-new-branch-name>
 ```
 
 এক্ষেত্রে `<your-new-branch-name>`-এর বদলে পূর্বে আপনার তৈরি ব্রাঞ্চের নাম লিখুন।
+
+<details>
+<summary> <strong>পুশ করতে সমস্যা হলে এখানে ক্লিক করুন:</strong> </summary>
+
+- ### অথ্যানটিকেশনে সমস্যা
+     <pre>remote: পাসওয়ার্ড অথ্যানটিকেশনের সাপোর্ট আগস্ট ১৩, ২০২১ থেকে আর নেই। Personal access token ব্যাবহার করুন।
+  remote: https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ তে আরো তথ্য পাবেন।
+  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) এ আপনার একাউন্টে SSH key generation এবং configuration
+  এর আরো তথ্য পাবেন।
+
+</details>
+
 
 ## রিভিউয়ের জন্য আপনার পরিবর্তনগুলো জমা দিন
 
