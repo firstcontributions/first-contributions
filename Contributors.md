@@ -117,6 +117,7 @@ Jay Mistry
 - [Sarvjeet Singh](https://github.com/aazad20)
 - [Murshid Ameen] (https://github.com/murshidameenpv)
 - [Abhishek Yadav] (https://github.com/yadav-7abhishek)
+- rohithvarma(https://github.com/Rohithvarma212/first-contributions.git)
 - [QubeUK](https://github.com/QubeUK)
 - [Andreas Carlsson](https://github.com/Fetante)
 - [Kiruthika](https://github.com/Kiruthika71)
@@ -161,6 +162,7 @@ Balraj
 - [Sai Sandeep Acharjyo] - Have a good day and happy coding!
 - [Harsh Sahu] (https://github.com/HarshSahu05)
 - [Shiva Sankar] (https://github.com/shiva1718)
+- rohith(https://github.com/Rohithvarma212)
 - [Dean Beebe](https://github.com/beandeebe)
 - [Moses Msukwa](https://github.com/mozesi)
 - [Yusuf Sabri Bayrakdar](https://github.com/yusufbayrakdar)
