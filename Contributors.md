@@ -140,7 +140,6 @@ Balraj
 - [Kwie Nyan](https://github.com/nyannainglin)
 - [Aviraj Lavate] (https://github.com/aviraj00)
 - Kartikey Srivastava
-- hemanthkumarreddymandadi
 - [Ashutosh Ojha](https://github.com/leoAshu)
 - [Julian Krzysiak](https://github.com/CastillejaCode)
 - [Abhishek Tripathi] (https://github.com/XavierOP877)
