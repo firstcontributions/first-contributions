@@ -7,7 +7,6 @@
 - [Aleksandar Atanasov](https://github.com/Axxxll)
 - Beau
 - Utsav
-- [NameRectified](https://github.com/NameRectified)
 - [Manish Acharya](https://github.com/acharyamanish006)
 - [Rosendo M.](https://github.com/Rosendo-Martinez)
 - [manoj](https://github.com/manoj1698)
@@ -16,6 +15,7 @@
 - [vivienogoun](https://github.com/vivienogoun)
 - [Arya Sharma] (https://github.com/aarya626)
 - [Soumik-Mitra] (https://github.com/Soumik29)
+- [NameRectified](https://github.com/NameRectified)
 - [Aaditya Kaushik] (https://github.com/Akgit834)
 - [Stephanie Nguyen] (https://github.com/stephanienguyen2020/)
 - [Anay](https://github.com/c4coderandcreator)
