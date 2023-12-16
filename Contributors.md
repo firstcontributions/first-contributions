@@ -5,6 +5,7 @@
 - [Aleksandar Atanasov](https://github.com/Axxxll)
 - Beau
 - Utsav
+- [Rudranil Roy](https://github.com/Rudranil-Roy)
 - [hrisabhy](https://github.com/hrisabhy)
 - [vivienogoun](https://github.com/vivienogoun)
 - [Arya Sharma] (https://github.com/aarya626)
