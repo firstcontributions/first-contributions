@@ -5165,7 +5165,6 @@ Rashi Singh
 - [Tanisha Agarwal](https://github.com/Agrwaltanisha)
 - [Lillyann](https://github.com/lcelisse)
 - [Richmond Nyame](https://github.com/Nyame100)
-
 - [Abdourahmane Jalloh](https://github.com/aradradev)
 - [Avery Moore](https://github.com/Avery-Moore)
 - [pipTyrannical](https://github.com/piptyrannical)
@@ -5584,3 +5583,4 @@ Kumar Kaji
 -[Aswin R](https://github.com/AshCoder07)
 - [Arouna SIDIBE](https://github.com/mansasidibe)
 - [Vytis Markevicius](https://github.com/vytopsas)
+- [Yang Guo (Eric)](https://github.com/YangGuo57)
