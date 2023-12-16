@@ -2095,6 +2095,7 @@ gulshan
 - [Sreekar Sai](https://github.com/sreekarsai193)
 - [Luckydhingra]((https://github.com/Luckydhingra)
 - [exotic brain](https://github.com/exoticBrain)
+- [salty some](https://github.com/saltysome)
 - [Sashank](https://github.com/sashanksilwal)
 - [Kishan Kumar Rai](https://github.com/kishanrajput23)
 - [StephenDrummond](https://github.com/octuhpus)
