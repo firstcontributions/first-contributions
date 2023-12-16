@@ -7,6 +7,7 @@
 - [Aleksandar Atanasov](https://github.com/Axxxll)
 - Beau
 - Utsav
+- [Nicholas D.] (https://github.com/NDalt)
 - [Manish Acharya](https://github.com/acharyamanish006)
 - [Rosendo M.](https://github.com/Rosendo-Martinez)
 - [manoj](https://github.com/manoj1698)
