@@ -7,6 +7,7 @@
 - [Rupesh Chincholkar](https://github.com/r1414a)
 - [Aleksandar Atanasov](https://github.com/Axxxll)
 - Beau
+- [Michael Muliro](https://github.com/Muliro1)
 - Utsav
 - [Ivan Khoo](https://github.com/ivanakhoo)
 - [Ezz Maree](https://github.com/Ezz1997)
