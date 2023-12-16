@@ -18,6 +18,7 @@
 - [vivienogoun](https://github.com/vivienogoun)
 - [Arya Sharma] (https://github.com/aarya626)
 - [Soumik-Mitra] (https://github.com/Soumik29)
+- [NameRectified](https://github.com/NameRectified)
 - [Aaditya Kaushik] (https://github.com/Akgit834)
 - [Stephanie Nguyen] (https://github.com/stephanienguyen2020/)
 - [Anay](https://github.com/c4coderandcreator)
