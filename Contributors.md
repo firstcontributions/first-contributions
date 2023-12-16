@@ -26,6 +26,7 @@
 -[Pesh Atuhura](https://github.com/peshatuhura)
 - [Isabel Román](https://github.com/isabelroman84)
 - [Vandan Nandwana](https://github.com/vandannandwana)
+- [deviant](https://github.com/vedanivas)
 - [Thanusan Aiyadurai Iyer](https://github.com/Thanu221099)
 - [Pankaj Singh](https://github.com/pankaj-2503)
 - [Houssem Selmi](https://github.com/Houssem-Selmi)
