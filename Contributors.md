@@ -2301,6 +2301,7 @@ Pizzacat
 - [Tony McLeish](https://github.com/Tunza42/)
 - [Robert Tilton](https://github.com/RobTilton/)
 - [Chukwuebuka Ejie](https://github.com/triplee12)
+-[Aditya Pandey](https://github.com/aditya-pandey-ai)
 - [wanabeunique](https://github.com/wanabeunique)
 - [Digvijay Singh](https://github.com/digvijaysinghh)
 - [Behzad Moghaddam] (https://github.com/b3hzzzad)
