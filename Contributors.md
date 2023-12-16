@@ -7,6 +7,7 @@
 - [Aleksandar Atanasov](https://github.com/Axxxll)
 - Beau
 - Utsav
+- [Ezz Maree](https://github.com/Ezz1997)
 - [John Offia-chukwu](https://github.com/CardinalSparrow)
 - [Nicholas D.] (https://github.com/NDalt)
 - [Manish Acharya](https://github.com/acharyamanish006)
