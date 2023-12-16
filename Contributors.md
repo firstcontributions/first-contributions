@@ -1,5 +1,5 @@
 # Contributors
-- [Vaibhav Sharma from India] (https://github.com/Vaibhav4228)
+- [Vaibhav Sharma from India](https://github.com/Vaibhav4228)
 -Nida
 - [Tom Broeske](https://github.com/TomBroeske)
 - [Rupesh Chincholkar](https://github.com/r1414a)
@@ -5584,3 +5584,4 @@ Kumar Kaji
 -[Aswin R](https://github.com/AshCoder07)
 - [Arouna SIDIBE](https://github.com/mansasidibe)
 - [Vytis Markevicius](https://github.com/vytopsas)
+- [Francisco Inzunza](https://github.com/FranciscoInzunza2006)
