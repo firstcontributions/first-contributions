@@ -841,6 +841,7 @@ Brent L
 - [Kashif Shakeel] (https://github.com/kashiifshakeel)
 - [Mehul Verma](https://github.com/me-hu-l)
 - [Arth Patel](https://github.com/Arthpatel01)
+- [Brian Kyalo](https://github.com/kyalo3)
 - [Nick Gordon](https://github.com/ngordon68)
 - [Jonathan Lim](https://github.com/nahtanojmil/)
 - [rita faretra](https://github.com/peterston-e)
