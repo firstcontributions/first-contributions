@@ -108,6 +108,7 @@ Jay Mistry
 - [Adenike Adeofe] (https://github.com/adenike23)
 -[Gopal Chobey] (https://github.com/gopalchobey9)
 - [Tapadip Paul] (https://github.com/Tapadip16)
+- [Sarvjeet Singh](https://github.com/aazad20)
 - [Murshid Ameen] (https://github.com/murshidameenpv)
 - [Abhishek Yadav] (https://github.com/yadav-7abhishek)
 - [QubeUK](https://github.com/QubeUK)
