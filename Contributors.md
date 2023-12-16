@@ -5596,4 +5596,5 @@ Kumar Kaji
 - [Arouna SIDIBE](https://github.com/mansasidibe)
 - [Vytis Markevicius](https://github.com/vytopsas)
 - [Airin](https://github.com/reenZZ)
+- [Vinay](https://github.com/Vinaycn999)
 - [karelzel] (https://github.com/karelzel/)
