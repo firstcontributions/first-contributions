@@ -5623,6 +5623,7 @@ Gauresh Rathi
 - [Jenny Mason](https://github.com/jjrrrmason)
 - sheldon_kx
 - ftalmat
+- Laide Endeley
 - [lucky rajbhar](https://github.com/luckyraj432) 
 - [Ashwin Athappan](https://github.com/ashwin-athappan)
 - [Mirjalol](I will not write my github address)
