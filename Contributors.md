@@ -23,6 +23,7 @@
 - [Toyin Muhammed](https://github.com/Toyin5)
 - Utsav
 - Abhinav Gugulothu
+- [Sahil Nayak](https://github.com/ogsahil)
 - [Abhinav Agarwal](https://github.com/Abhinavagarwa)
 - [Ivan Khoo](https://github.com/ivanakhoo)
 - [Ezz Maree](https://github.com/Ezz1997)
