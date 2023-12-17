@@ -6,6 +6,7 @@
 -[Vaibhav Sharma  from India] (https://github.com/Vaibhav4228)
 -[Dinesh Kumar Juluri] (https://github.com/DineshkumarJuluri)
 -Nida
+- [Boris Taguezem](https://github.com/taguezem)
 - [Tom Broeske](https://github.com/TomBroeske)
 - [Rupesh Chincholkar](https://github.com/r1414a)
 - [Mutiat Bashua](https://github.com/MutiatBash)
