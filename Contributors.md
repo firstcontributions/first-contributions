@@ -10,6 +10,7 @@
 - [Michael Muliro](https://github.com/Muliro1)
 - [Joel McMillon](https://github.com/PaleSoda)
 - Utsav
+- Abhinav Gugulothu
 - [Ivan Khoo](https://github.com/ivanakhoo)
 - [Ezz Maree](https://github.com/Ezz1997)
 - [Shiva Sai Charan](https://github.com/IamMyselfandmyself)
