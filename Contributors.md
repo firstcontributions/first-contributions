@@ -140,6 +140,7 @@ Jay Mistry
 - [Justin Harper](https://github.com/JustinhSE)
 - [Abhinav Gugulothu]
 -[Rajvir Singh] (https://github.com/rajvirsingh2)
+- [Queendoline Akpan](https://github.com/TechSis01)
 - [Yash Tomar] (https://github.com/1708yash)
 - [Nicholas Licata](https://github.com/nicholaslicata)
 - [Pearl Sheth](https://github.com/pearl174)
