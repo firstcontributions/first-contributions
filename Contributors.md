@@ -4,6 +4,7 @@
 -[Kushal1o1](https://github.com/kushal1o1)
 -[Abhigyan Ranjan](https://github.com/Abhigyan-RA)
 -[Abhishek Kumar](https://github.com/ima-bhi)
+-[Samuel Tesema](https://github.com/Samuel12451)
 -[Ayooluwa Adedipe](https://github.com/Ay-slim)
 -[Shravan Bobade](https://github.com/Shravan250)
 -[Vaibhav Sharma  from India] (https://github.com/Vaibhav4228)
