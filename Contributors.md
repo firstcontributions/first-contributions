@@ -135,6 +135,7 @@ Jay Mistry
 - [Kendall] (https://github.com/megap1nt)
 Balraj
 - [Eugene mehta](https://github.com/euguene)
+- [Neeraj](https://github.com/neeraj0022)
 - [Fredrick Onyango](https://github.com/aTfure)
 - [Ugochukwu Benjamin](https://github.com/biggbhen)
 - [Aritra Karmakar](https://github.com/Dark-Knight-Avi)
