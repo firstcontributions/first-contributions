@@ -35,6 +35,7 @@
 - [Vincent Kimani] (https://github.com/Vince-arch)
 - [Anay](https://github.com/c4coderandcreator)
 - [hritik](https://github.com/hritikmunde)
+- [Ashley John](https://github.com/Nightburnn)
 - [Thura Nyi](https://github.com/Thura69)
 - [Aashish Panthi](https://github.com/PanthiAashish)
 - [Indrajit](https://github.com/indrajitkrish)
