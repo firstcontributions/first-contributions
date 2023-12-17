@@ -8,6 +8,7 @@
 - [Aleksandar Atanasov](https://github.com/Axxxll)
 - Beau
 - [Michael Muliro](https://github.com/Muliro1)
+- [Joel McMillon](https://github.com/PaleSoda)
 - Utsav
 - [Ivan Khoo](https://github.com/ivanakhoo)
 - [Ezz Maree](https://github.com/Ezz1997)
