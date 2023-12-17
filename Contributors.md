@@ -92,6 +92,7 @@ paramesh g v
 - Chicken Nugz
 kunal
 - [Abdurrahman Sogbesan](https://github.com/AbdurrahmanSogbesan)
+- [Okechukwu Okeke](https://github.com/theScriptNerd)
 - [Ayokunle Dalemo](https://github.com/AYKdgreat)
 - [Karthik Kundurthy](https://github.com/Karthik-Kundurthy)
 - [piyush sharma](htpps://github.com/ViciousEagle03)
