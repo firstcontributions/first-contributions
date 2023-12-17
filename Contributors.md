@@ -13,6 +13,7 @@
 - [Andrew Guerra](https://github.com/andrew-guerra)
   [Evan Salmon] (https://github.com/RoyalSalm0n)
 - [Vikas Sharma](https://github.com/vikasharma05)
+- [Paul Silvius] (https://github.com/PAULSILVIUS)
 - [Boris Taguezem](https://github.com/taguezem)
 - [Tom Broeske](https://github.com/TomBroeske)
 - [Rupesh Chincholkar](https://github.com/r1414a)
