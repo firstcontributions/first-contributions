@@ -18,6 +18,7 @@
 - Beau
 - [Michael Muliro](https://github.com/Muliro1)
 - [Joel McMillon](https://github.com/PaleSoda)
+- [Kamakshi ojha](https://github.com/KamakshiOjha)
 - [Christine Okoth](https://github.com/chriss1525)
 - [Toyin Muhammed](https://github.com/Toyin5)
 - Utsav
