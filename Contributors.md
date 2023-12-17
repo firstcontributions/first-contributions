@@ -104,6 +104,7 @@ kunal
 - [Abdulbasit Hussain] (https://github.com/abdulbasit0-UI)
 - [Tristan Ellenberg](https://github.com/RauliYoung)
 - [Pronab Sonowal](https://github.com/jdPronab)
+- [Rabin Chakraborty](https://github.com/RabinChakraborty)
 - [Roman Snegach] (https://github.com/RSnegach)
 - [Farouk Adedamola] (https://github.com/Farouk-Adedamola)
 - [V S N Vardhan Kumar Bhadri] (https://github.com/vardhank1811)
