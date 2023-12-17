@@ -24,7 +24,9 @@
 - [hrisabhy](https://github.com/hrisabhy)
 - [Abhay](https://github.com/AbhayXcoderx123)
 - [vivienogoun](https://github.com/vivienogoun)
-- [Arya Sharma] (https://github.com/aarya626)
+- [Arya Sharma] (https://github.com/aarya626
+
+-Flesier
 - [Soumik-Mitra] (https://github.com/Soumik29)
 - [NameRectified](https://github.com/NameRectified)
 - [Ebenezer Semere[(https://github.com/ebenezersemere)
