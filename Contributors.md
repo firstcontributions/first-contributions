@@ -107,6 +107,7 @@ kunal
 - [Josue Anguiano](https://github.com/josue-anguiano)
 - [Emad Rahman](https://github.com/EmadsGitHub)
 - [Rohit Bagade](https://github.com/Rohitbagade-cs)
+- [Benjamin Swiezy](https://github.com/Bheniamyn)
 - [Ryan Cross](https://girhub.com/rycr3278)
 - [Swadish Muralitharan](https://github.com/swag1711)
 - [Kris Hvattum](https://github.com/kristofer11)
