@@ -24,6 +24,7 @@
 - [Arya Sharma] (https://github.com/aarya626)
 - [Soumik-Mitra] (https://github.com/Soumik29)
 - [NameRectified](https://github.com/NameRectified)
+- [Ebenezer Semere[(https://github.com/ebenezersemere)
 - [Aaditya Kaushik] (https://github.com/Akgit834)
 - [Stephanie Nguyen] (https://github.com/stephanienguyen2020/)
 - [Anay](https://github.com/c4coderandcreator)
