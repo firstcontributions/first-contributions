@@ -65,6 +65,7 @@
 - [ Nidhi Iyer ] (https://github.com/NidhiIyer04)
 - [Yaswanth Mitta] (https://github.com/Yaswanth-Mitta/)
 - [Syed Sammak Hussain] (https://github.com/Sammak215)
+- [Deepak Sinha](https://github.com/sinhadeepak)
 Sriram Kashyap (https://github.com/Sriramkashyapks)
 abdqudus (https://github.com/abdqudus)
 Sandip Jadhav (https://github.com/sandip4git)
