@@ -10,6 +10,7 @@
 - [Michael Muliro](https://github.com/Muliro1)
 - [Joel McMillon](https://github.com/PaleSoda)
 - [Christine Okoth](https://github.com/chriss1525)
+- [Toyin Muhammed](https://github.com/Toyin5)
 - Utsav
 - Abhinav Gugulothu
 - [Abhinav Agarwal](https://github.com/Abhinavagarwa)
