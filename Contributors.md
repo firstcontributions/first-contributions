@@ -11,7 +11,7 @@
 -[Dinesh Kumar Juluri] (https://github.com/DineshkumarJuluri)
 -Nida
 - [Andrew Guerra](https://github.com/andrew-guerra)
-  [Evan Salmmon] (https://github.com/RoyalSalm0n)
+  [Evan Salmon] (https://github.com/RoyalSalm0n)
 - [Vikas Sharma](https://github.com/vikasharma05)
 - [Boris Taguezem](https://github.com/taguezem)
 - [Tom Broeske](https://github.com/TomBroeske)
