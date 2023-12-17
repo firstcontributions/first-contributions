@@ -36,6 +36,7 @@
 - [Shiva Sai Charan](https://github.com/IamMyselfandmyself)
 - [John Offia-chukwu](https://github.com/CardinalSparrow)
 - [Nicholas D.] (https://github.com/NDalt)
+- [Murat Atayev] (https://github.com/TkmKapitan)
 - [Felix Gomez (@felixdavid12)](https://github.com/felixdavid12)
 - [Manish Acharya](https://github.com/acharyamanish006)
 - [Rosendo M.](https://github.com/Rosendo-Martinez)
