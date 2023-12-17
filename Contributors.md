@@ -142,6 +142,7 @@ Jay Mistry
 - [Kendall] (https://github.com/megap1nt)
 Balraj
 - [Eugene mehta](https://github.com/euguene)
+- [Hritik]
 - [Neeraj](https://github.com/neeraj0022)
 - [Fredrick Onyango](https://github.com/aTfure)
 - [Ugochukwu Benjamin](https://github.com/biggbhen)
