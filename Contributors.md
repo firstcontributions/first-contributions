@@ -3,7 +3,8 @@
 -[Abhigyan Ranjan](https://github.com/Abhigyan-RA)
 -[Abhishek Kumar](https://github.com/ima-bhi)
 -[Shravan Bobade](https://github.com/Shravan250)
-- [Vaibhav Sharma  from India] (https://github.com/Vaibhav4228)
+-[Vaibhav Sharma  from India] (https://github.com/Vaibhav4228)
+-[Dinesh Kumar Juluri] (https://github.com/DineshkumarJuluri)
 -Nida
 - [Tom Broeske](https://github.com/TomBroeske)
 - [Rupesh Chincholkar](https://github.com/r1414a)
