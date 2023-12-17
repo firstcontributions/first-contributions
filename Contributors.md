@@ -1208,6 +1208,8 @@ Brent L
 - [Maulik Parmar](https://github.com/Maulikatgit)
 - [bos54rus] (https://github.com/bos54rus)
 - [vinay Gautam] (https://github.com/vinaygautam93)
+- [Sudeep] (https://github.com/sudeepjhs)
+- [Mudi Igbinoba] (https://github.com/Mudi-Igbinoba)
 - [Jaganath G](https://github.com/Jagan0901)
 - [DavidSaruni](https://github.com/DavidSaruni)
 - [Dedan Okware](https://github.com/SoftCysec)
