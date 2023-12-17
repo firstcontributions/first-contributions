@@ -664,6 +664,7 @@ Gabi Nelepcu
 - [Astro-bro](https://github.com/Astro-bro)
 - [Zane](https://github.com/Zanebla)
 - [Mohammed Islam]
+- [Vincenzo Pio Palma](https://github.com/VincenzoPalma)
 - [Titi]
 - [Abhijeet Salimath](https://github.com/Abbsal)
 - [Tristin Smith](https://github.com/trisilver25)
