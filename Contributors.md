@@ -9,6 +9,7 @@
 -[Vaibhav Sharma  from India] (https://github.com/Vaibhav4228)
 -[Dinesh Kumar Juluri] (https://github.com/DineshkumarJuluri)
 -Nida
+- [Andrew Guerra](https://github.com/andrew-guerra)
 - [Vikas Sharma](https://github.com/vikasharma05)
 - [Boris Taguezem](https://github.com/taguezem)
 - [Tom Broeske](https://github.com/TomBroeske)
