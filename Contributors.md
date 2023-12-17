@@ -3541,6 +3541,7 @@ Nikhil R
 - [Anki Gilbert Okosso](https://github.com/AnkiGilbertOkosso)
 - [Abiel Rodriguez](https://github.com/arr199)
 - [Isaias Cuvula]
+- [Alexander Proskiw]
 - [Awofiranye Sherif](https://github.com/iAmSherifCodes)
 - [Devang Yadav](https://github.com/DevangYv-999)
 - [Vishwajeet Sharma](https://github.com/vishusharmaX)
