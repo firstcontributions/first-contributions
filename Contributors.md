@@ -21,6 +21,7 @@
 - [NameRectified](https://github.com/NameRectified)
 - [Aaditya Kaushik] (https://github.com/Akgit834)
 - [Stephanie Nguyen] (https://github.com/stephanienguyen2020/)
+- [Vincent Kimani] (https://github.com/Vince-arch)
 - [Anay](https://github.com/c4coderandcreator)
 - [hritik](https://github.com/hritikmunde)
 - [Thura Nyi](https://github.com/Thura69)
