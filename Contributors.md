@@ -2717,6 +2717,7 @@ Sino Felicity Zwane
 - [Ori Rose](https://github.com/oriodev)
 - [Utku Güçlü](https://github.com/utku-guclu)
 - [Lisa Sun](https://github.com/sklisa)
+- [Andon Li](https://github.com/Andon-Li)
 - [Prem Rajendran](https://github.com/Pr3mR4jendran)
 - [Bakare Abiola](https://github.com/iamstarcode)
 - [Mengde Wang](https://github.com/wangme88)
