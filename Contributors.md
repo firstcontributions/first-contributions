@@ -12,6 +12,7 @@
 - [Christine Okoth](https://github.com/chriss1525)
 - Utsav
 - Abhinav Gugulothu
+- [Abhinav Agarwal](https://github.com/Abhinavagarwa)
 - [Ivan Khoo](https://github.com/ivanakhoo)
 - [Ezz Maree](https://github.com/Ezz1997)
 - [Prabh Sagoo](https://github.com/prabhsagoo)
