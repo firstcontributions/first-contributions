@@ -6,6 +6,7 @@
 -Nida
 - [Tom Broeske](https://github.com/TomBroeske)
 - [Rupesh Chincholkar](https://github.com/r1414a)
+- [Mutiat Bashua](https://github.com/MutiatBash)
 - [Aleksandar Atanasov](https://github.com/Axxxll)
 - Beau
 - [Michael Muliro](https://github.com/Muliro1)
