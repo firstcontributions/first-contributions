@@ -32,6 +32,7 @@
 - [hritik](https://github.com/hritikmunde)
 - [Thura Nyi](https://github.com/Thura69)
 - [Aashish Panthi](https://github.com/PanthiAashish)
+- [Indrajit](https://github.com/indrajitkrish)
 -[Pesh Atuhura](https://github.com/peshatuhura)
 - [Isabel Román](https://github.com/isabelroman84)
 - [Vandan Nandwana](https://github.com/vandannandwana)
