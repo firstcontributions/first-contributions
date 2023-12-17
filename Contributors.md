@@ -774,6 +774,7 @@ Brent L
 - [Emir Velazquez](https://github.com/EmirVelazquez)
 - [Elisio Massaqui](https://github.com/elisioMassaqui)
 - [Guido Carucci](https://github.com/guido-an)
+- [Anish Biswas](https://github.com/xeven777)
 - [Khushi Kunwar](https://github.com/khushistar)
 - [Jason Silvis](https://github.com/JSilvis73)
 - [Yakir Kremer](https://github.com/yakirkremer)
