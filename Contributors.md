@@ -9,6 +9,7 @@
 - Beau
 - [Michael Muliro](https://github.com/Muliro1)
 - [Joel McMillon](https://github.com/PaleSoda)
+- [Christine Okoth](https://github.com/chriss1525)
 - Utsav
 - Abhinav Gugulothu
 - [Ivan Khoo](https://github.com/ivanakhoo)
