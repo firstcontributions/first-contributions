@@ -1442,6 +1442,7 @@ Brent L
 - [Sahil Chandna](https://github.com/sahilchandna60)
 - [Jyothishwari GP]()
 - [Vivek Rajpoot] (https://github.com/VivekRajpoot01)
+- [Mooaz Sayyed] (https://github.com/moooazsayyed)
 - [Aarón Moya](https://github.com/Aaron-Moya)
 - [Harsh Surani](https://github.com/SuraniHarsh/)
 - [Rookie](https://github.com/geekcheeky/)
