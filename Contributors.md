@@ -196,6 +196,7 @@ Balraj
 - [Vaibhav Wable](https://github.com/vaibhavw12)
 - Ryan Chan
 - SMdf
+- Hitesh_1001
 - Adekeye Taofeeq
 - [Reshma R](https://github.com/reshma045)
 - [Kwie Nyan](https://github.com/nyannainglin)
