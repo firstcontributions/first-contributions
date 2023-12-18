@@ -84,6 +84,7 @@
 - [Alen Scaria](https://github.com/Alen-Scaria1516)
 - [Akpo Kenneth](https://github.com/khaymanii)
 - [Jon Desserres] (https://github.com/JonnyDdesign)
+- [Aliyu abdulrazak] (https://github.com/Razak002)
 - [ Nidhi Iyer ] (https://github.com/NidhiIyer04)
 - [Yaswanth Mitta] (https://github.com/Yaswanth-Mitta/)
 - [Syed Sammak Hussain] (https://github.com/Sammak215)
