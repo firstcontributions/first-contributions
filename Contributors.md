@@ -12,6 +12,7 @@
 -[Shravan Bobade](https://github.com/Shravan250)
 -[Richard Emijere] (https://github.com/The-CodeINN)
 -[Raja Poudel](https://github.com/RajaPdl453)
+-[Abdulaleem Usman Ibrahim](https://github.com/Abdulaleemu)
 -[Zwe Ko Ko Aung](https://github.com/ZweKo11/)
 -[Vaibhav Sharma  from India] (https://github.com/Vaibhav4228)
 -[Dinesh Kumar Juluri] (https://github.com/DineshkumarJuluri)
