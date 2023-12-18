@@ -18,7 +18,11 @@
 -[Vaibhav Sharma  from India] (https://github.com/Vaibhav4228)
 -[Dinesh Kumar Juluri] (https://github.com/DineshkumarJuluri)
 -Nida
+
 - [Suprith Varma] (https://github.com/Suprithvarma1)
+
+- [Lamidi Morufat Kajogbola](https://github.com/Ehmkayel)
+
 - [Stephhen Allen](https://github.com/Stephen-A)
 - [Olamide Olanrewaju](https://github.com/Olyray)
 - [Vijay Kumar](https://github.com/letsmailvjkumar)
@@ -2557,6 +2561,7 @@ nathaniel
 - [Arkat Kuangali] (https://github.com/kuangali13)  
 - [Ben Ngim] (https://github.com/benngim)
 - [Karthik] (https://github.com/bvvvp009)
+- [Md Najim Alam] (https://github.com/najimalam)
 - [Kerwin Washington] (https://github.com/kerwinWashington)
 - [Jefferson Ng] (https://github.com/Jefferson0309)
 - [Sudip Das] (https://github.com/pris01)
@@ -5660,6 +5665,7 @@ Gauresh Rathi
 - [Jenny Mason](https://github.com/jjrrrmason)
 - sheldon_kx
 - ftalmat
+- bhav35h
 - Laide Endeley
 - [lucky rajbhar](https://github.com/luckyraj432) 
 - [Ashwin Athappan](https://github.com/ashwin-athappan)
