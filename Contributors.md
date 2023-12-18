@@ -28,6 +28,7 @@
 - [thetnaingtun](https://github.com/ThetNaingTun-gif)
 - Beau
 - Sree
+-[Zubaidat Shuka(shukazuby)](https://github.com/shukazuby)
 -[Lanre Bamgbade](https://github.com/Lakatabu01/)
 -[Vinay](https://github.com/BooraVinay)
 - [Michael Muliro](https://github.com/Muliro1)
