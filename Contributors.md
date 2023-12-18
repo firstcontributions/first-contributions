@@ -24,6 +24,8 @@
 - Sree -[Zubaidat Shuka(shukazuby)](https://github.com/shukazuby) -[Lanre Bamgbade](https://github.com/Lakatabu01/) -[Vinay](https://github.com/BooraVinay)
 - [Michael Muliro](https://github.com/Muliro1)
   = [Owen Orcan](https://github.com/OwenOrcan)
+= [Owen Orcan](https://github.com/OwenOrcan)
+- [Nick Rooney](https://github.com/nickrooney)
 - [Joel McMillon](https://github.com/PaleSoda)
 - [Sander Murray](https://github.com/Sandj04)
 - [Kamakshi ojha](https://github.com/KamakshiOjha)
