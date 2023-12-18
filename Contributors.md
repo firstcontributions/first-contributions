@@ -22,6 +22,7 @@
 - [Aleksandar Atanasov](https://github.com/Axxxll)
 - Beau
 - Sree
+-[Lanre Bamgbade](https://github.com/Lakatabu01/)
 - [Michael Muliro](https://github.com/Muliro1)
 = [Owen Orcan](https://github.com/OwenOrcan)
 - [Joel McMillon](https://github.com/PaleSoda)
@@ -30,6 +31,7 @@
 - [Toyin Muhammed](https://github.com/Toyin5)
 - Utsav
 - Abhinav Gugulothu
+- [Ismail Akintunde](https://github.com/homoakin619)
 - [Sahil Nayak](https://github.com/ogsahil)
 - [Abhinav Agarwal](https://github.com/Abhinavagarwa)
 - [Ivan Khoo](https://github.com/ivanakhoo)
@@ -309,6 +311,7 @@ Ayush Gaud
 - Srujan Gowda
 - Adam Cordy
 - Richik Dutta
+- [Emran Salah](https://github.com/emransalah)
 -[LogeshVarman](https://github.com/Logeshvarman)
 - [robert5313](https://github.com/robert5313)
 - [AyushSingh] (https://github.com/NemesisXVI)
@@ -537,6 +540,7 @@ Gabi Nelepcu
 [Neeraj Kumar] (https://github.com/dacharch)
 - [Hari Aravind ](https://github.com/HariAr2)
 - [P-P-P-Pablo](https://github.com/P-P-P-Pablo)
+- [g2d]
 - [Nath Hiccup](https://github.com/Nath-Hiccup)
 - [Motlatsi Moea](https://github.com/motlatsimoea)
 - [Rich Kevan](https://github.com/richkevan)
@@ -5677,4 +5681,3 @@ Kumar Kaji
 - [Hasryuu] (https://github.com/Hasryuu)
 - [Sudeep] (https://github.com/sudeepjhs)
 - [Kshiti] (https://github.com/km1610)
--[g2d] (---)
