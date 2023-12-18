@@ -5700,6 +5700,7 @@ Chris - SWE
 - [Naman Kumar Das](https://github.com/Namandas)
 Kumar Kaji
 - [REC-1104](https://github.com/REC-1104)
+- [ksidht](https://github.com/ksidht)
 - [jjshen](https://github.com/JJshen666)
 -[pnung](https://github.com/pnung)
 -[Harshit](https://github.com/Harshit-Vavaiya/)
