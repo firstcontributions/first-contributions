@@ -301,6 +301,7 @@ Ayush Gaud
 - Srujan Gowda
 - Adam Cordy
 - Richik Dutta
+- [Emran Salah](https://github.com/emransalah)
 -[LogeshVarman](https://github.com/Logeshvarman)
 - [robert5313](https://github.com/robert5313)
 - [AyushSingh] (https://github.com/NemesisXVI)
