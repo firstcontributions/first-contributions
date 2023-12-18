@@ -150,6 +150,7 @@ kunal
 - [Nikhil Shahare](https://github.com/Nikhil-Shahare)
 - [Siddharth](https://github.com/Siddharth1605)
 - [Jose Torres](https://github.com/BermudaOG)
+- [Olawale Olaifa](https://github.com/wahlly)
 - [Sohaib Khan] (https://github.com/Sohaibgit)
 - [Yaksh Gandhi] (https://github.com/yaksh1)
 - [Akhil K](https://github.com/akhil0903)
