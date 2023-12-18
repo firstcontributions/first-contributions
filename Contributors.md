@@ -48,6 +48,7 @@
 - [Christine Okoth](https://github.com/chriss1525)
 - [Toyin Muhammed](https://github.com/Toyin5)
 - Utsav
+- [Levis Ngigi](https://github.com/LevisNgigi)  
 - Abhinav Gugulothu
 - [Ismail Akintunde](https://github.com/homoakin619)
 - [Sahil Nayak](https://github.com/ogsahil)
