@@ -11,6 +11,7 @@
 -[Samuel Tesema](https://github.com/Samuel12451)
 -[Ayooluwa Adedipe](https://github.com/Ay-slim)
 -[Shravan Bobade](https://github.com/Shravan250)
+-[Noah M](https://github.com/noahminds)
 -[Richard Emijere] (https://github.com/The-CodeINN)
 -[Raja Poudel](https://github.com/RajaPdl453)
 -[Abdulaleem Usman Ibrahim](https://github.com/Abdulaleemu)
