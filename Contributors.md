@@ -5718,3 +5718,5 @@ Kumar Kaji
 - [somber] (https://github.com/Somber)
 - [Haseeb] (https://github.com/haseebyousuf)
 - [Chinmaya] (https://github.com/Hades1710)
+- [Chahat] (https://github.com/chahatsagarmain)
+
