@@ -2,8 +2,7 @@
 -[Abhigyan Ranjan](https://github.com/Abhigyan-RA)
 -[Abhishek Kumar](https://github.com/ima-bhi)
 -[Shravan Bobade](https://github.com/Shravan250)
--[Prashanth-bokkala](https://github.com/Prashanth-bokkala)
-- [Vaibhav Sharma  from India] (https://github.com/Vaibhav4228)
+c- [Vaibhav Sharma  from India] (https://github.com/Vaibhav4228)
 -Nida
 - [Tom Broeske](https://github.com/TomBroeske)
 - [Rupesh Chincholkar](https://github.com/r1414a)
@@ -48,6 +47,7 @@
 - [deviant](https://github.com/vedanivas)
 - [Thanusan Aiyadurai Iyer](https://github.com/Thanu221099)
 - [Pankaj Singh](https://github.com/pankaj-2503)
+-[Prashanth-bokkala](https://github.com/Prashanth-bokkala)
 - [Myat Noe Maung](https://github.com/myatnoemaung97)
 - [Houssem Selmi](https://github.com/Houssem-Selmi)
 - [Rahul Singh](https://github.com/srahuliitb/)
