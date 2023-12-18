@@ -24,6 +24,7 @@
 - Beau
 - Sree
 -[Lanre Bamgbade](https://github.com/Lakatabu01/)
+-[Vinay](https://github.com/BooraVinay)
 - [Michael Muliro](https://github.com/Muliro1)
 = [Owen Orcan](https://github.com/OwenOrcan)
 - [Joel McMillon](https://github.com/PaleSoda)
