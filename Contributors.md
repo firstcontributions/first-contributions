@@ -12,6 +12,7 @@
 -[Abhishek Kumar](https://github.com/ima-bhi)
 -[Samuel Tesema](https://github.com/Samuel12451)
 -[Ayooluwa Adedipe](https://github.com/Ay-slim)
+-[Praise Atadja](https://github.com/Praise-Atadja)
 -[Shravan Bobade](https://github.com/Shravan250)
 -[Noah M](https://github.com/noahminds)
 -[Nayan Shah](https://github.com/snayan06)
