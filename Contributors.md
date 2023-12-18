@@ -1,5 +1,6 @@
 # Contributors
 -[Jackson Tower](https://github.com/JacksonRT)
+- [Anay Singh](https://github.com/c4coderandcreator)
 -[Prabhashankar Mishra](https://github.com/Pro7Prabhakar)
 -[Laboré Kodjo Agbetsiassi](https://github.com/starlabman)
 -[Balaji Bonageri](https://github.com/balajibonageri)
@@ -77,7 +78,6 @@
 - [Aaditya Kaushik] (https://github.com/Akgit834)
 - [Stephanie Nguyen] (https://github.com/stephanienguyen2020/)
 - [Vincent Kimani] (https://github.com/Vince-arch)
-- [Anay](https://github.com/c4coderandcreator)
 - [hritik](https://github.com/hritikmunde)
 - [Ashley John](https://github.com/Nightburnn)
 - [Thura Nyi](https://github.com/Thura69)
