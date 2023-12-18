@@ -20,6 +20,7 @@
 - [Mutiat Bashua](https://github.com/MutiatBash)
 - [Aleksandar Atanasov](https://github.com/Axxxll)
 - Beau
+- Sree
 - [Michael Muliro](https://github.com/Muliro1)
 = [Owen Orcan](https://github.com/OwenOrcan)
 - [Joel McMillon](https://github.com/PaleSoda)
