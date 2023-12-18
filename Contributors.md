@@ -1,5 +1,6 @@
 # Contributors
 -[Prabhashankar Mishra](https://github.com/Pro7Prabhakar)
+-[Laboré Kodjo Agbetsiassi](https://github.com/starlabman)
 - [Shashanks0616](https://github.com/Shashank
 -[Kushal1o1](https://github.com/kushal1o1)
 -[TheRealAdegoke](https://github.com/TheRealAdegoke)
