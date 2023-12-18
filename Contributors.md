@@ -4,6 +4,7 @@
 - [Shashanks0616](https://github.com/Shashank
 -[Kushal1o1](https://github.com/kushal1o1)
 -[TheRealAdegoke](https://github.com/TheRealAdegoke)
+-[AtharvaMutsaddi](https://github.com/AtharvaMutsaddi)
 -[Cyberverse2][https://github.com/Cyberverse2]
 -[Abhigyan Ranjan](https://github.com/Abhigyan-RA)
 -[Abhishek Kumar](https://github.com/ima-bhi)
@@ -19,6 +20,7 @@
 -Nida
 - [Suprith Varma] (https://github.com/Suprithvarma1)
 - [Stephhen Allen](https://github.com/Stephen-A)
+- [Olamide Olanrewaju](https://github.com/Olyray)
 - [Vijay Kumar](https://github.com/letsmailvjkumar)
 - [Andrew Guerra](https://github.com/andrew-guerra)
   [Evan Salmon] (https://github.com/RoyalSalm0n)
@@ -41,6 +43,7 @@
 - [Joel McMillon](https://github.com/PaleSoda)
 - [Sander Murray](https://github.com/Sandj04)
 - [Kamakshi ojha](https://github.com/KamakshiOjha)
+- [Minayo Esere] (https://github.com/mudeitsi)
 - [Christine Okoth](https://github.com/chriss1525)
 - [Toyin Muhammed](https://github.com/Toyin5)
 - Utsav
