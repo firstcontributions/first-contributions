@@ -127,6 +127,7 @@ kunal
 - [Rohit Bagade](https://github.com/Rohitbagade-cs)
 - [Benjamin Swiezy](https://github.com/Bheniamyn)
 - [Ryan Cross](https://girhub.com/rycr3278)
+- [Anshu Soni](https://github.com/anshu1910)
 - [Swadish Muralitharan](https://github.com/swag1711)
 - [Kris Hvattum](https://github.com/kristofer11)
 - [Nikhil Shahare](https://github.com/Nikhil-Shahare)
