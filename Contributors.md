@@ -36,6 +36,7 @@
 - [Michael Muliro](https://github.com/Muliro1)
 = [Owen Orcan](https://github.com/OwenOrcan)
 - [Joel McMillon](https://github.com/PaleSoda)
+- [Sander Murray](https://github.com/Sandj04)
 - [Kamakshi ojha](https://github.com/KamakshiOjha)
 - [Christine Okoth](https://github.com/chriss1525)
 - [Toyin Muhammed](https://github.com/Toyin5)
