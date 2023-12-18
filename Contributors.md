@@ -248,7 +248,7 @@ Raphael
 - [vincent DUSHIME](https://github.com/Vincidax)
 - [Mohammed Firdous](https://github.com/Firdous2307)
 - [Mehmet Akif Çevik](https://github.com/makifcevik)
-z- [rawfiul](https://github.com/rawfiul)
+- [rawfiul](https://github.com/rawfiul)
 - [Gaurav Parajuli](https://github.com/gauravparajuli)
 - [Andrew Towers] (https://github.com/Jtorresk)
 - [Taron Vardanyan] (https://github.com/TaronVardanyan)
@@ -302,8 +302,8 @@ z- [rawfiul](https://github.com/rawfiul)
 Ayush Gaud
 - [Rudra Pakhare](https://github.com/Rudra-Pakhare)
 - Anonymousizzy 
--Matttrus
--bellicosi
+- Matttrus
+- bellicosi
 - angela
 - Chandan J
 - pnb
@@ -314,10 +314,10 @@ Ayush Gaud
 - [robert5313](https://github.com/robert5313)
 - [AyushSingh] (https://github.com/NemesisXVI)
 - [syeda-fajar](https://github.com/syeda-fajar)
--[Chaithanya Krisha] (https://github.com/krsna28)
+- [Chaithanya Krisha] (https://github.com/krsna28)
 - [Abheeshta P] (https://github.com/Abheeshta-P)
 - [RoycejChan] (https://github.com/RoycejChan)
--[Victus] (https://github.com/victuseze)
+- [Victus] (https://github.com/victuseze)
 - [Moocoder] (https://github.com/mpatel6654)
 - [yumelih] (https://github.com/yumelih)
 - [Stefano Gaspari] (https://github.com/stefanogaspari)
