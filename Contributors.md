@@ -5671,6 +5671,7 @@ Gauresh Rathi
 - [Shreyas-Jadhav](https://github.com/sreyaz11)
 - [0Juice](https://github.com/0Juice)
 - [Jenny Mason](https://github.com/jjrrrmason)
+- [Siddharth Yadav](https://github.com/siddharth-283)
 - sheldon_kx
 - ftalmat
 - bhav35h
@@ -5733,3 +5734,4 @@ Kumar Kaji
 - [Chinmaya] (https://github.com/Hades1710)
 - [Onuh Theola](https://github.com/lady-thee)
 - [Parvathy Pradeep](https://github.com/Paruproy02)
+- [Siddharth Yadav]
