@@ -10,6 +10,7 @@
 -[Vaibhav Sharma  from India] (https://github.com/Vaibhav4228)
 -[Dinesh Kumar Juluri] (https://github.com/DineshkumarJuluri)
 -Nida
+- [Stephhen Allen](https://github.com/Stephen-A)
 - [Andrew Guerra](https://github.com/andrew-guerra)
   [Evan Salmon] (https://github.com/RoyalSalm0n)
 - [Vikas Sharma](https://github.com/vikasharma05)
@@ -20,6 +21,7 @@
 - [Mutiat Bashua](https://github.com/MutiatBash)
 - [Aleksandar Atanasov](https://github.com/Axxxll)
 - Beau
+- Sree
 - [Michael Muliro](https://github.com/Muliro1)
 = [Owen Orcan](https://github.com/OwenOrcan)
 - [Joel McMillon](https://github.com/PaleSoda)
@@ -5517,6 +5519,7 @@ Gauresh Rathi
 - [Denis AKPAGNONITE](https://github.com/denisakp)
 - [Faith Mucheru](https://github.com/KariMucheru)
 - [Fakesoftpillow]
+- [adrian]
 - [Nabin Oli](https://github.com/nabin2004)
 - [Hunter Termo](https://github.com/0hterm)
 - [Jake Haycocks](https://github.com/JakeMWu)
