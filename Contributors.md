@@ -167,6 +167,7 @@ kunal
 - [V S N Vardhan Kumar Bhadri] (https://github.com/vardhank1811)
 - [Kashyap shukla] (https://github.com/kashyapshukla)
 Jay Mistry
+- stranier0
 - [Nkosinathi Mbokazi] (https://github.com/d0nda)
 - [Shailesh Thakur] (https://gtihub.com/shaileshthakur1)
 - [Harsh Umpoxy] (https://github.com/HarshUmpoxy)
