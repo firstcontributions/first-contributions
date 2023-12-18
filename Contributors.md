@@ -540,6 +540,7 @@ Gabi Nelepcu
 [Neeraj Kumar] (https://github.com/dacharch)
 - [Hari Aravind ](https://github.com/HariAr2)
 - [P-P-P-Pablo](https://github.com/P-P-P-Pablo)
+- [g2d]
 - [Nath Hiccup](https://github.com/Nath-Hiccup)
 - [Motlatsi Moea](https://github.com/motlatsimoea)
 - [Rich Kevan](https://github.com/richkevan)
