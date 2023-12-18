@@ -1,15 +1,16 @@
 # Contributors
 -[Prabhashankar Mishra](https://github.com/Pro7Prabhakar)
-- [Shashanks0616](https://github.com/Shashank
+- [Shashanks0616](https://github.com/Shashank)
 -[Kushal1o1](https://github.com/kushal1o1)
 -[Abhigyan Ranjan](https://github.com/Abhigyan-RA)
 -[Abhishek Kumar](https://github.com/ima-bhi)
 -[Samuel Tesema](https://github.com/Samuel12451)
 -[Ayooluwa Adedipe](https://github.com/Ay-slim)
 -[Shravan Bobade](https://github.com/Shravan250)
--[Vaibhav Sharma  from India] (https://github.com/Vaibhav4228)
--[Dinesh Kumar Juluri] (https://github.com/DineshkumarJuluri)
--Nida
+- [Vaibhav Sharma  from India] (https://github.com/Vaibhav4228)
+- [Dinesh Kumar Juluri] (https://github.com/DineshkumarJuluri)
+- Nida
+- [Yechiel Ardner Arianto](https://github.com/Yechiel82)
 - [Stephhen Allen](https://github.com/Stephen-A)
 - [Andrew Guerra](https://github.com/andrew-guerra)
   [Evan Salmon] (https://github.com/RoyalSalm0n)
