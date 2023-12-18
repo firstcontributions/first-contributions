@@ -13,6 +13,7 @@
 - [Nurain Bamidele-Jnr](https://github.com/Adexbam02)
 - [Nathan Moehlmann](https://github.com/nmoehlmann/)
 - [Rohit Chaware](https://github.com/R4Rohit23)
+Williams Michael
 - [Ankur Verma](https://github.com/ankur55220/)
 - [Hammad](https://github.com/7ammad404)
 - [Sangamesh Math](https://github.com/sangamesh-Math)
