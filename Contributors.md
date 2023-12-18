@@ -43,6 +43,7 @@
 - [Prabh Sagoo](https://github.com/prabhsagoo)
 - [Shiva Sai Charan](https://github.com/IamMyselfandmyself)
 - [John Offia-chukwu](https://github.com/CardinalSparrow)
+- [Edward Njogu](https://github.com/njogued)
 - [Nicholas D.] (https://github.com/NDalt)
 - [Murat Atayev] (https://github.com/TkmKapitan)
 - [Felix Gomez (@felixdavid12)](https://github.com/felixdavid12)
