@@ -2519,6 +2519,7 @@ JialingYU
 - [Malvin Ndegwa] (https://github.com/MalvinNdegwa)
 - [Ferhat Cekim](https://github.com/ferferx)
 - [justnuha]
+- [Emmanuel Ajibokun](https://github.com/EmmanuelAjibokun)
 - [pitterpatter](https://github.com/Itrasadalish)
 - [Ansil M B](https://github.com/ansilmbabl)
 Stanley Nzegwu
