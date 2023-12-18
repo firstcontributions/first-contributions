@@ -10,6 +10,7 @@
 -[Vaibhav Sharma  from India] (https://github.com/Vaibhav4228)
 -[Dinesh Kumar Juluri] (https://github.com/DineshkumarJuluri)
 -Nida
+- [Stephhen Allen](https://github.com/Stephen-A)
 - [Andrew Guerra](https://github.com/andrew-guerra)
   [Evan Salmon] (https://github.com/RoyalSalm0n)
 - [Vikas Sharma](https://github.com/vikasharma05)
