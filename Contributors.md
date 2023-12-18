@@ -16,6 +16,7 @@
 -[Dinesh Kumar Juluri] (https://github.com/DineshkumarJuluri)
 -Nida
 - [Stephhen Allen](https://github.com/Stephen-A)
+- [Vijay Kumar](https://github.com/letsmailvjkumar)
 - [Andrew Guerra](https://github.com/andrew-guerra)
   [Evan Salmon] (https://github.com/RoyalSalm0n)
 - [Vikas Sharma](https://github.com/vikasharma05)
