@@ -2,6 +2,7 @@
 -[Jackson Tower](https://github.com/JacksonRT)
 -[Prabhashankar Mishra](https://github.com/Pro7Prabhakar)
 -[Laboré Kodjo Agbetsiassi](https://github.com/starlabman)
+-[Ismail Adeshola Ogundele](https://github.com/i-slot)
 -[Balaji Bonageri](https://github.com/balajibonageri)
 - [Shashanks0616](https://github.com/Shashank)
 -[Kushal1o1](https://github.com/kushal1o1)
