@@ -5518,6 +5518,7 @@ Gauresh Rathi
 - [Denis AKPAGNONITE](https://github.com/denisakp)
 - [Faith Mucheru](https://github.com/KariMucheru)
 - [Fakesoftpillow]
+- [adrian]
 - [Nabin Oli](https://github.com/nabin2004)
 - [Hunter Termo](https://github.com/0hterm)
 - [Jake Haycocks](https://github.com/JakeMWu)
