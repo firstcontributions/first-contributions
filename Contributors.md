@@ -24,6 +24,7 @@
 -Nida
 - [Lamidi Morufat Kajogbola](https://github.com/Ehmkayel)
 - [Stephhen Allen](https://github.com/Stephen-A)
+- [Harlimat Odunola](https://github.com/Lymah123)
 - [Olamide Olanrewaju](https://github.com/Olyray)
 - [Vijay Kumar](https://github.com/letsmailvjkumar)
 - [Andrew Guerra](https://github.com/andrew-guerra)
