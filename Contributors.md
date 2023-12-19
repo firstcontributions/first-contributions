@@ -45,6 +45,7 @@ sara
 - [Jose Rubio](https://github.com/josrubfer)
 - [Muhammed Labeeb U](https://github.com/Ladoxer)
 - [Vimal Manoharan](https://github.com/vimal004)
+- [Chakit Bhandari](https://github.com/Chakit22)
 - Ryan Chan
 - [Reshma R](https://github.com/reshma045)
 - [Aviraj Lavate] (https://github.com/aviraj00)
