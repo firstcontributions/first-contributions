@@ -26,6 +26,7 @@
 -[Vaibhav Sharma  from India] (https://github.com/Vaibhav4228)
 -[Dinesh Kumar Juluri] (https://github.com/DineshkumarJuluri)
 -Nida
+- [de-marauder](https://de-marauder.vercel.app)
 - [Lamidi Morufat Kajogbola](https://github.com/Ehmkayel)
 - [Joshag](https://github.com/josh-ag)
 - [Stephhen Allen](https://github.com/Stephen-A)
