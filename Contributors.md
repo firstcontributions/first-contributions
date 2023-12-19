@@ -64,6 +64,7 @@
 - Beau
 - Sree 
 -[Zubaidat Shuka(shukazuby)](https://github.com/shukazuby)
+- [Lorenzo Tasca] (https://github.com/lorenzotasca13)
 -[Lanre Bamgbade](https://github.com/Lakatabu01/)
 -[Vinay](https://github.com/BooraVinay)
 - [Michael Muliro](https://github.com/Muliro1)
