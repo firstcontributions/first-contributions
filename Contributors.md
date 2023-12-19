@@ -40,6 +40,7 @@
 -[Zwe Ko Ko Aung](https://github.com/ZweKo11/)
 -[Vaibhav Sharma  from India] (https://github.com/Vaibhav4228)
 -[Dinesh Kumar Juluri] (https://github.com/DineshkumarJuluri)
+-[Jan-Peter Wittig] (https://github.com/CptTrips83)
 -Nida
 - [de-marauder](https://de-marauder.vercel.app)
 - [Lamidi Morufat Kajogbola](https://github.com/Ehmkayel)
