@@ -88,6 +88,7 @@
 - [Abhinav Agarwal](https://github.com/Abhinavagarwa)
 - [Ivan Khoo](https://github.com/ivanakhoo)
 - [Ezz Maree](https://github.com/Ezz1997)
+- [Elvis Ngatia](https://github.com/ElNgatia)
 - [Prabh Sagoo](https://github.com/prabhsagoo)
 - [Shiva Sai Charan](https://github.com/IamMyselfandmyself)
 - [John Offia-chukwu](https://github.com/CardinalSparrow)
