@@ -17,6 +17,7 @@
 -[Shashanks0616](https://github.com/Shashank)
 -[Kushal1o1](https://github.com/kushal1o1)
 -[Okechukwu Egeruoh](https://github.com/Chukwu12)
+-[Cesar Almendarez](https://github.com/cesarealmendarez)
 -[Avadhut20](https://github.com/Avadhut20)
 -[John Wambaria](https://github.com/wambaria)
 -[TheRealAdegoke](https://github.com/TheRealAdegoke)
