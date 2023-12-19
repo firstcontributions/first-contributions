@@ -59,6 +59,7 @@
 - [Sander Murray](https://github.com/Sandj04)
 - [Kamakshi ojha](https://github.com/KamakshiOjha)
 - [Minayo Esere] (https://github.com/mudeitsi)
+- Uri
 - [Christine Okoth](https://github.com/chriss1525)
 - [Toyin Muhammed](https://github.com/Toyin5)
 - Utsav
