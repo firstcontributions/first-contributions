@@ -19,6 +19,7 @@
 -[AtharvaMutsaddi](https://github.com/AtharvaMutsaddi)
 -[Ezerike caleb]
 -[Cyberverse2][https://github.com/Cyberverse2]
+-[lamceol][https://github.com/lamceol]
 -[Abhigyan Ranjan](https://github.com/Abhigyan-RA)
 -[Abhishek Kumar](https://github.com/ima-bhi)
 -[Samuel Tesema](https://github.com/Samuel12451)
