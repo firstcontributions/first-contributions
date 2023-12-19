@@ -29,6 +29,7 @@
 -Nida
 - [de-marauder](https://de-marauder.vercel.app)
 - [Lamidi Morufat Kajogbola](https://github.com/Ehmkayel)
+- [Rufai Sanni](https://github.com/Ruffysanni)
 - [Joshag](https://github.com/josh-ag)
 - [Stephhen Allen](https://github.com/Stephen-A)
 - [Harlimat Odunola](https://github.com/Lymah123)
