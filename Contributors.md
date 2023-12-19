@@ -154,6 +154,7 @@ Jay Mistry
 - [Nkosinathi Mbokazi] (https://github.com/d0nda)
 - [Shailesh Thakur] (https://gtihub.com/shaileshthakur1)
 - [Harsh Umpoxy] (https://github.com/HarshUmpoxy)
+- [Derara Senay Shanka](https://github.com/DSpike)
 - [Mohit Pathak](https://github.com/mohitpathak382)
 - [Shubham Raut](https://github.com/ShubhamRaut280)
 - [Vishnu Bobbiti]
