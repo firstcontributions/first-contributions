@@ -2820,6 +2820,7 @@ Sino Felicity Zwane
 - [Manish Sahani](https://github.com/Manish-Scripts)
 - [Erik Vargas](https://github.com/erikAlberto)
 - [Pina Sunil](https://github.com/PinaSunil)
+- [Ernest Emmanuel Utibe](https://github.com/ernest-emmanuel-utibe)
 - [Kenneth Pinzon Rojas](https://github.com/thehubisgitted)
 - [Martin Viassolo](https://github.com/martinv9000)
 - [Joanna Marie Areniego](https://github.com/JoannaMarieAreniego)
