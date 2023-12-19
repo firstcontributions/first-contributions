@@ -3,6 +3,7 @@
 - [Aman Pathra](https://github.com/amanpathra)
 -[Jackson Tower](https://github.com/JacksonRT)
 -[Russell Oje](https://github.com/ruxy1212)
+- [Marvis Chukwudi](https://github.com/marv-tech)
 -[Prabhashankar Mishra](https://github.com/Pro7Prabhakar)
 -[Laboré Kodjo Agbetsiassi](https://github.com/starlabman)
 -[Jonathan Martin](https://github.com/jmart5)
