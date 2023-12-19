@@ -1,4 +1,5 @@
 # Contributors
+- [Alhoussen TRAORE](https://github.com/Alhoussen)
 - [Satyam Kumar Singh](https://github.com/isatyamks)
 - [Aman Pathra](https://github.com/amanpathra)
 - [Aksh Patel] (https://github.com/paksh727)
