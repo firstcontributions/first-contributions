@@ -1557,6 +1557,7 @@ harshal honde
 - [GrantCodesIt](https://github.com/GrantCodesIt)
 - [Moksh Agrawal](https://github.com/Moksh-10)
 - [Pallav Rathod](https://github.com/Pallav277)
+- [Lorenzo Bison](https://github.com/LorenzBis)
 - [Izuchukwu Obi](https://github.com/izustic)
 - [Osemeka Molokwu] (https://github.com/OsemekaM7)
 - [Adekoya Ireoluwatomiwa](https://github.com/koyaboy)
