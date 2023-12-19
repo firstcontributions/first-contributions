@@ -9,6 +9,7 @@
 -[John Wambaria](https://github.com/wambaria)
 -[TheRealAdegoke](https://github.com/TheRealAdegoke)
 -[AtharvaMutsaddi](https://github.com/AtharvaMutsaddi)
+-[Ezerike caleb]
 -[Cyberverse2][https://github.com/Cyberverse2]
 -[Abhigyan Ranjan](https://github.com/Abhigyan-RA)
 -[Abhishek Kumar](https://github.com/ima-bhi)
