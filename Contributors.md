@@ -5744,5 +5744,6 @@ Kumar Kaji
 - [Onuh Theola](https://github.com/lady-thee)
 - [Parvathy Pradeep](https://github.com/Paruproy02)
 - [Yunus Abdulmajid](https://github.com/Yunusabdul38)
+- [Kurt Abrahamson](https://github.com/kwabrahamson)
 - [Omar K](https://github.com/omar0k)
 - [Oscar Lin](https://github.com/light1707)
