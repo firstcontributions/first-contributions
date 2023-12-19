@@ -92,6 +92,7 @@
 - [manoj](https://github.com/manoj1698)
 - [hrisabhy](https://github.com/hrisabhy)
 - [Adeosun-Deji](https://github.com/AdeosunDeji)
+- [Oluwatosin-Akande](https://github.com/dkrest1)
 - [Abhay](https://github.com/AbhayXcoderx123)
 - [Antony Nyagah](https://github.com/tony-nyagah)
 - [Paul Lornez](https://github.com/realPJL)
