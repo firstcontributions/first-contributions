@@ -1279,6 +1279,7 @@ Brent L
 - [Nimit](https://github.com/Nimit)
 - [Afaq Razaq](https://github.com/xyzafaq)
 - [Ankit Kumar](https://github.com/Github2k10)
+- [Aaron Wise](https://github.com/aaronbwise)
 - [marshal1244]
 - [finlopes97]
 - [Xavier MB](https://github.com/xaviermonb)
