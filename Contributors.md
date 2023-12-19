@@ -6,6 +6,7 @@
 -[Balaji Bonageri](https://github.com/balajibonageri)
 - [Shashanks0616](https://github.com/Shashank)
 -[Kushal1o1](https://github.com/kushal1o1)
+-[John Wambaria](https://github.com/wambaria)
 -[TheRealAdegoke](https://github.com/TheRealAdegoke)
 -[AtharvaMutsaddi](https://github.com/AtharvaMutsaddi)
 -[Cyberverse2][https://github.com/Cyberverse2]
