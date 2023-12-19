@@ -467,6 +467,7 @@ Gabi Nelepcu
 - [PushoDev](https://github.com/PushoDev)
 - [Shakib Aghili](https://github.com/shakib-A)
 - [ysf]
+- [Michael Staehli](https://github.com/staehlmich)
 - [Pradnesh Sanderan](https://github.com/pradneshsanderan)
 - [Geetha Anil Kumar Korukonda] (https://github.com/Geetha936)
 - [SameekshThakur] (https://github.com/SameekshThakur)
