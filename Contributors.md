@@ -10,6 +10,7 @@
 -[Ismail Adeshola Ogundele](https://github.com/i-slot)
 -[Balaji Bonageri](https://github.com/balajibonageri)
 -[Martin Stubian](https://github.com/Pesokrava)
+-[Adith Suresh](https://github.com/AdithSuresh2004)
 -[Shashanks0616](https://github.com/Shashank)
 -[Kushal1o1](https://github.com/kushal1o1)
 -[Okechukwu Egeruoh](https://github.com/Chukwu12)
