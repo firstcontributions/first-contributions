@@ -5295,6 +5295,7 @@ Rashi Singh
 - [Lillyann](https://github.com/lcelisse)
 - [Richmond Nyame](https://github.com/Nyame100)
 
+<<<<<<< HEAD
 - [Abdourahmane Jalloh](https://github.com/aradradev)
 - [Avery Moore](https://github.com/Avery-Moore)
 - [pipTyrannical](https://github.com/piptyrannical)
@@ -5749,3 +5750,5 @@ Kumar Kaji
 - [Omar K](https://github.com/omar0k)
 - [Oscar Lin](https://github.com/light1707)
 - [ljq](https://github.com/ljq19980910)
+- [Shuvkant Phanait](https://github.com/shuvkant)
+- [Madhuri Agarwal] (https://github.aexp.com/magar51)
