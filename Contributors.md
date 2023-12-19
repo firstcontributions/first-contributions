@@ -77,6 +77,7 @@
 = [Owen Orcan](https://github.com/OwenOrcan)
 - [Nick Rooney](https://github.com/nickrooney)
 - [Joel McMillon](https://github.com/PaleSoda)
+- [Josué Mbuyu](https://github.com/josuembuyu)
 - [Sander Murray](https://github.com/Sandj04)
 - [Kamakshi ojha](https://github.com/KamakshiOjha)
 - [Minayo Esere] (https://github.com/mudeitsi)
