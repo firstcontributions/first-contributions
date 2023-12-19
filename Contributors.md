@@ -180,6 +180,7 @@ kunal
 - [Pronab Sonowal](https://github.com/jdPronab)
 - [Rabin Chakraborty](https://github.com/RabinChakraborty)
 - [Roman Snegach] (https://github.com/RSnegach)
+- [Ajayi Sunday Olusoji] (https://github.com/Olusoji01)
 - [Farouk Adedamola] (https://github.com/Farouk-Adedamola)
 - [V S N Vardhan Kumar Bhadri] (https://github.com/vardhank1811)
 - [Kashyap shukla] (https://github.com/kashyapshukla)
