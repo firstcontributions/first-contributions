@@ -4,7 +4,7 @@
 -[Laboré Kodjo Agbetsiassi](https://github.com/starlabman)
 -[Ismail Adeshola Ogundele](https://github.com/i-slot)
 -[Balaji Bonageri](https://github.com/balajibonageri)
-- [Shashanks0616](https://github.com/Shashank)
+-[Shashanks0616](https://github.com/Shashank)
 -[Kushal1o1](https://github.com/kushal1o1)
 -[John Wambaria](https://github.com/wambaria)
 -[TheRealAdegoke](https://github.com/TheRealAdegoke)
@@ -27,6 +27,7 @@
 -[Dinesh Kumar Juluri] (https://github.com/DineshkumarJuluri)
 -Nida
 - [Lamidi Morufat Kajogbola](https://github.com/Ehmkayel)
+- [Joshag](https://github.com/josh-ag)
 - [Stephhen Allen](https://github.com/Stephen-A)
 - [Harlimat Odunola](https://github.com/Lymah123)
 - [Olamide Olanrewaju](https://github.com/Olyray)
