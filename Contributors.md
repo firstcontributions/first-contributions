@@ -78,6 +78,7 @@
 - [hrisabhy](https://github.com/hrisabhy)
 - [Adeosun-Deji](https://github.com/AdeosunDeji)
 - [Abhay](https://github.com/AbhayXcoderx123)
+- [Antony Nyagah](https://github.com/tony-nyagah)
 - [vivienogoun](https://github.com/vivienogoun)
 - [Arya Sharma] (https://github.com/aarya626)
 - [Soumik-Mitra] (https://github.com/Soumik29)
