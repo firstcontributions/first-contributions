@@ -1,6 +1,7 @@
 # Contributors
 - [Satyam Kumar Singh](https://github.com/isatyamks)
 - [Aman Pathra](https://github.com/amanpathra)
+- [Aksh Patel] (https://github.com/paksh727)
 -[Jackson Tower](https://github.com/JacksonRT)
 -[Russell Oje](https://github.com/ruxy1212)
 - [Marvis Chukwudi](https://github.com/marv-tech)
