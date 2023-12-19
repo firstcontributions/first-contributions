@@ -1,6 +1,7 @@
 # Contributors
 - [Satyam Kumar Singh](https://github.com/isatyamks)
 -[Jackson Tower](https://github.com/JacksonRT)
+-[Russell Oje](https://github.com/ruxy1212)
 -[Prabhashankar Mishra](https://github.com/Pro7Prabhakar)
 -[Laboré Kodjo Agbetsiassi](https://github.com/starlabman)
 -[Ismail Adeshola Ogundele](https://github.com/i-slot)
