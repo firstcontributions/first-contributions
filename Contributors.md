@@ -91,6 +91,7 @@
 - [Aaditya Kaushik] (https://github.com/Akgit834)
 - [Stephanie Nguyen] (https://github.com/stephanienguyen2020/)
 - [Vincent Kimani] (https://github.com/Vince-arch)
+- [Daniel Shdeed](https://github.com/Danieldotcomcoder)
 - [Anay](https://github.com/c4coderandcreator)
 - [hritik](https://github.com/hritikmunde)
 - [Ashley John](https://github.com/Nightburnn)
