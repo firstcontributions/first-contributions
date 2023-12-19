@@ -619,6 +619,7 @@ Gabi Nelepcu
 - [Elvira Ivanova](https://github.com/elviraIv)
 - [Antonella Di Stefano] (https://github.com/antodis79)
 - [Khasim M]("https://github.com/kkhasim/")
+- James M
 - [Ciberdcuk] (https://github.com/gerosantacruz)
 - [Thawzin] (https://github.com/Thawzin229)
 - [BGERGO7] (https://github.com/BGERGO7)
