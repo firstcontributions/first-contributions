@@ -30,6 +30,7 @@
 - [Harlimat Odunola](https://github.com/Lymah123)
 - [Olamide Olanrewaju](https://github.com/Olyray)
 - [Vijay Kumar](https://github.com/letsmailvjkumar)
+- [Suresh Kumar](https://github.com/suresbk)
 - [Andrew Guerra](https://github.com/andrew-guerra)
   [Evan Salmon] (https://github.com/RoyalSalm0n)
 - [Vikas Sharma](https://github.com/vikasharma05)
