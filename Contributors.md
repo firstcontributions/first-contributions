@@ -1,5 +1,6 @@
 # Contributors
 - [Satyam Kumar Singh](https://github.com/isatyamks)
+- [Aman Pathra](https://github.com/amanpathra)
 -[Jackson Tower](https://github.com/JacksonRT)
 -[Russell Oje](https://github.com/ruxy1212)
 -[Prabhashankar Mishra](https://github.com/Pro7Prabhakar)
