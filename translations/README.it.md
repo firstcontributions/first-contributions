@@ -27,57 +27,69 @@ Ora scarica (*clone*) questa repo nel tuo computer. Clicca sul pulsante per scar
 
 Apri il terminale e lancia il seguente comando:
 
-```
+```console
 git clone "url appena copiato"
 ```
+
 dove "url appena copiato" (senza le virgolette) è l'url di questa repository. Leggi i passaggi precedenti per ottenere l'url.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Per esempio:
-```
+
+```console
 git clone https://github.com/questo-sei-tu/first-contributions.git
 ```
+
 dove `questo-sei-tu` è il tuo username GitHub. Qui stai copiando il contenuto della repository da GitHub al tuo computer.
 
 ## Crea un ramo (*Branch*)
 
 Entra nella directory della repository (se non lo hai già fatto):
 
-```
+```console
 cd first-contributions
 ```
+
 Ora crea un ramo (*branch*) usando il comando `git checkout -b`:
-```
+
+```console
 git checkout -b <aggiungi-il-tuo-nome>
 ```
 
 Ad esempio:
-```
+
+```console
 git checkout -b aggiungi-alonzo-church
 ```
+
 (Non è necessario inserire la parola *aggiungi* nel nome del branch, ma in questo caso è ragionevole includerlo poiché lo scopo di questo branch è aggiungere il tuo nome alla lista. 
 Lo scopo di nominare un branch è descrivere le modifiche che andremo ad effettuare, il nome deve essere quindi descrittivo e non generale per facilitare il team con cui si collabora.)
 
 ## Fai le modifiche necessarie e crea un commit
 
 Ora apri il file `Contributors.md` in un editor, inserisci il tuo nome. Non aggiungerlo all'inizio o alla fine del file ma in un qualsiasi punto nel mezzo. Ora salva il file. Se vai nella directory del progetto ed esegui il comando `git status`, vedrai quali sono i cambiamenti. Aggiungi le modifiche al branch appena creato usando il comando `git add`:
-```
+
+```console
 git add Contributors.md
 ```
 
 Crea ora una commit che includa le modifiche da te fatte, usando `git commit`:
-```
+
+```console
 git commit -m "Add <il-tuo-nome> to Contributors list"
 ```
+
 cambiando `<il-tuo-nome>` con il tuo nome.
 
 ## Invia (*Push*) le modifiche a GitHub
 
 Invia (*push*) le tue modifiche con il comando `git push`:
-```
+
+```console
 git push origin <aggiungi-il-tuo-nome>
 ```
+
 sostituendo `<aggiungi-il-tuo-nome>` con il nome del branch creato prima.
 
 ## Invia i tuoi cambiamenti per una revisione
