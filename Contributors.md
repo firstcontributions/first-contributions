@@ -160,6 +160,7 @@
 - [Myat Noe Maung](https://github.com/myatnoemaung97)
 - [Houssem Selmi](https://github.com/Houssem-Selmi)
 - Md Akib Ansari
+- [Ani Joseph](https://github.com/Nonso024/)
 - [Rahul Singh](https://github.com/srahuliitb/)
 - [SaiTanmaiyee](https://github.com/Sai-Tanmaiyee)
 - [Rajesh A](https://github.com/Rajesh1308)
