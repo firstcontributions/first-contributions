@@ -14,9 +14,9 @@ Leggere articoli e guardare tutorial può essere utile, ma cosa c'è di meglio c
 
 Se non hai git sul tuo computer, [installalo]( https://help.github.com/articles/set-up-git/).
 
-## Forka questa repository
+## Fai il fork di questa repository
 
-Forka questa _repo_ (abbreviazione di _repository_, ossia una cartella) cliccando sul bottone **_fork_** in cima alla pagina.
+Fai il _fork_ di questa _repo_ (abbreviazione di _repository_, ossia una cartella) cliccando sul bottone **_fork_** in cima alla pagina.
 Questo creerà una copia di questa repository nel tuo account.
 
 ## Scarica la repository
