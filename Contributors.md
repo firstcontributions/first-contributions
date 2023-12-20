@@ -15,6 +15,7 @@
 - [Aksh Patel] (https://github.com/paksh727)
 - [Joseph Reiner] (https://github.com/reiner-13)
 -[Jackson Tower](https://github.com/JacksonRT)
+-[Anikesh Kulal](https://github.com/Anikesh02)
 -[Russell Oje](https://github.com/ruxy1212)
 -[Adaora Janefrancis Muoka](https://github.com/Smiley-eng)
 - [Marvis Chukwudi](https://github.com/marv-tech)
