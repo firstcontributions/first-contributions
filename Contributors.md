@@ -3,6 +3,7 @@
   [SREEKAKULAM LOHITH](https://github.com/SreekakulamLohith)
   [Myint Than Tun](https://github.com/MyintThanTun)
 - [Satyam Kumar Singh](https://github.com/isat)
+- [Krishna sai Nakka](https://github.com/krishnasainakka)
 - [Tunde Abdulhamid Sanusi](https://github.com/tuhamworld)
 - [Joel Nyongesa](https://github.com/joelnyongesa)
 - [Glenn Mark](https://github.com/Glenn444)
