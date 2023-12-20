@@ -29,6 +29,7 @@
 -[TheRealAdegoke](https://github.com/TheRealAdegoke)
 -[AtharvaMutsaddi](https://github.com/AtharvaMutsaddi)
 -[Ezerike caleb]
+-[Faruq Ahmed Olaitan](https://github.com/Fahmedo)
 -[Cyberverse2][https://github.com/Cyberverse2]
 -[lamceol][https://github.com/lamceol]
 -[Abhigyan Ranjan](https://github.com/Abhigyan-RA)
