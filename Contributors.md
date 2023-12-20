@@ -1,13 +1,19 @@
 # Contributors
 - [Alhoussen TRAORE](https://github.com/Alhoussen)
+  [SREEKAKULAM LOHITH](https://github.com/SreekakulamLohith)
+  [Myint Than Tun](https://github.com/MyintThanTun)
 - [Satyam Kumar Singh](https://github.com/isat)
 - [Tunde Abdulhamid Sanusi](https://github.com/tuhamworld)
+- [Joel Nyongesa](https://github.com/joelnyongesa)
+- [Nikhil Chavan](https://github.com/nikhil3113)
 - [Karthik Saligram](https://github.com/karthik-07)
 - [Aman Pathra](https://github.com/amanpathra)
+- [Harshita Shanker](https://github.com/localhersheys)
 - [Aksh Patel] (https://github.com/paksh727)
 - [Joseph Reiner] (https://github.com/reiner-13)
 -[Jackson Tower](https://github.com/JacksonRT)
 -[Russell Oje](https://github.com/ruxy1212)
+-[Adaora Janefrancis Muoka](https://github.com/Smiley-eng)
 - [Marvis Chukwudi](https://github.com/marv-tech)
 -[Prabhashankar Mishra](https://github.com/Pro7Prabhakar)
 -[Laboré Kodjo Agbetsiassi](https://github.com/starlabman)
@@ -26,6 +32,7 @@
 -[TheRealAdegoke](https://github.com/TheRealAdegoke)
 -[AtharvaMutsaddi](https://github.com/AtharvaMutsaddi)
 -[Ezerike caleb]
+-[Faruq Ahmed Olaitan](https://github.com/Fahmedo)
 -[Cyberverse2][https://github.com/Cyberverse2]
 -[lamceol][https://github.com/lamceol]
 -[Abhigyan Ranjan](https://github.com/Abhigyan-RA)
@@ -182,9 +189,11 @@ kunal
 - [Lambe Boluwatife] (https://github.com/lambeboluwatife)
 - [Oluwaferanmi-Adeyemi] (https://github.com/K-Honsu)
 - [Jammula Srivasanth](https://github.com/srivasanth23)
+- [Chakit Bhandari](https://github.com/Chakit22)
 - [MEHAKPREET KAUR](https://github.com/Mehakpreet9911)
 - [EWANE EWANE](https://github.com/EWE-2/)
 - [Aniketh Rai](https://github.com/AnikethRai)
+- [Naveen Yadav](https://github.com/1711naveen)
 - [Pooja Indulkar](https://github.com/poojaindulkar)
 - [Josue Anguiano](https://github.com/josue-anguiano)
 - [Emad Rahman](https://github.com/EmadsGitHub)
@@ -212,6 +221,7 @@ kunal
 - [Kashyap shukla] (https://github.com/kashyapshukla)
 Jay Mistry
 - stranier0
+- [Jyothi Kumar] (https://github.com/JyothiKumar03)
 - [Nkosinathi Mbokazi] (https://github.com/d0nda)
 - [Shailesh Thakur] (https://gtihub.com/shaileshthakur1)
 - [Harsh Umpoxy] (https://github.com/HarshUmpoxy)
@@ -5336,6 +5346,7 @@ Rashi Singh
 - [MohammedHassani] (https://github.com/Maestro263)
 -[Chrinovic MM](https://github.com/CHRINOVIC-MM)
 - [Frank](https://github.com/Frank40790)
+- [Sagar Negi](https://github.com/sxxrfx)
 - [mthomsn](https://github.com/mthomsn/mthomsn)sabe 
 - [Tanisha Agarwal](https://github.com/Agrwaltanisha)
 - [Lillyann](https://github.com/lcelisse)
@@ -5769,6 +5780,7 @@ Kumar Kaji
 -[Cephas Tokoli](https://github.com/ctokoli)
 - [Arouna SIDIBE](https://github.com/mansasidibe)
 - [Vytis Markevicius](https://github.com/vytopsas)
+- [Jolin Xie] (https://github.com/Jolin816)
 - [vinay](https://github.com/Vinaycn999)
 - [Airin](https://github.com/reenZZ)
 - [Vinay](https://github.com/Vinaycn999)
@@ -5794,6 +5806,7 @@ Kumar Kaji
 - [Parvathy Pradeep](https://github.com/Paruproy02)
 - [Yunus Abdulmajid](https://github.com/Yunusabdul38)
 - [Kurt Abrahamson](https://github.com/kwabrahamson)
+- [Lorenzo Formato] (https://github.com/ColeBoy00)
 - [Omar K](https://github.com/omar0k)
 - [Oscar Lin](https://github.com/light1707)
 - [ljq](https://github.com/ljq19980910)
@@ -5801,3 +5814,6 @@ Kumar Kaji
 - [Sam Lam](https://github.com/samlam67812)
 -[Prashanth bokkala](https://github.com/Prashanth-bokkala)
 -[Anuvind Paul](https://github.com/Anuv225)
+-[Amar Imamovic](https://github.com/aussenseiter13)
+- [1317n0d3](https://github.com/1317n0d3)
+- [Navis](https://github.com/navise)
