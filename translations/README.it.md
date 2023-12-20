@@ -16,7 +16,7 @@ Se non hai git sul tuo computer, [installalo]( https://help.github.com/articles/
 
 ## Fai il fork di questa repository
 
-Fai il _fork_ di questa _repo_ (abbreviazione di _repository_, ossia una cartella) cliccando sul bottone **_fork_** in cima alla pagina.
+Fai il _fork_ di questa _repo_ (abbreviazione di _repository_, ossia un archivio) cliccando sul bottone **_fork_** in cima alla pagina.
 Questo creerà una copia di questa repository nel tuo account.
 
 ## Scarica la repository
