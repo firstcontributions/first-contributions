@@ -186,6 +186,7 @@ kunal
 - [Lambe Boluwatife] (https://github.com/lambeboluwatife)
 - [Oluwaferanmi-Adeyemi] (https://github.com/K-Honsu)
 - [Jammula Srivasanth](https://github.com/srivasanth23)
+- [Chakit Bhandari](https://github.com/Chakit22)
 - [MEHAKPREET KAUR](https://github.com/Mehakpreet9911)
 - [EWANE EWANE](https://github.com/EWE-2/)
 - [Aniketh Rai](https://github.com/AnikethRai)
