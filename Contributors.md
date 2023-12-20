@@ -214,6 +214,7 @@ kunal
 - [Kashyap shukla] (https://github.com/kashyapshukla)
 Jay Mistry
 - stranier0
+- [Jyothi Kumar] (https://github.com/JyothiKumar03)
 - [Nkosinathi Mbokazi] (https://github.com/d0nda)
 - [Shailesh Thakur] (https://gtihub.com/shaileshthakur1)
 - [Harsh Umpoxy] (https://github.com/HarshUmpoxy)
