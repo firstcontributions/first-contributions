@@ -37,6 +37,7 @@ paramesh g v
 kunal
 - [Abdurrahman Sogbesan](https://github.com/AbdurrahmanSogbesan)
 - [piyush sharma](htpps://github.com/ViciousEagle03)
+- [Samuel Ogoegbu] (https://github.com/ishiukwu)
 - [Ugwuanyi Afam](https://github.com/2022phyro)
 - [Lambe Boluwatife] (https://github.com/lambeboluwatife)
 - [Oluwaferanmi-Adeyemi] (https://github.com/K-Honsu)
