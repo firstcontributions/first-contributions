@@ -4663,6 +4663,7 @@ Akash Abraham
 - [Khair Muhammad Memon](https://github.com/khairmuhammad)
 - [Ayush Malik](https://github.com/Ayush-004)
 - [Jeff Ni](https://github.com/nijeff27)
+- [The Balance of Evidence](https://github.com/TheBalanceOfEvidence)
 - [Sarthak Kumar](https://github.com/sarthak503)
 - [Mårten Sjöberg](https://github.com/tikktakk79)
 - [Nabeel Rajabali](https://github.com/Nabstar3)
