@@ -54,6 +54,7 @@
 -[Noah M](https://github.com/noahminds)
 -[Nayan Shah](https://github.com/snayan06)
 -[Aidan Kelly](https://github.com/cruxlime)
+-LPJE
 -[Akande Abdulwasiu Omotayo](https://github.com/Newtayo)
 -[Richard Emijere] (https://github.com/The-CodeINN)
 - [Saurav Shrestha](https://github.com/SauravShrestha04)
