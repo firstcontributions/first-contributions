@@ -77,6 +77,7 @@
 -TestAnonymous
 = [Owen Orcan](https://github.com/OwenOrcan)
 - [Nick Rooney](https://github.com/nickrooney)
+- [Jeki](https://github.com/JekiXD)
 - [Joel McMillon](https://github.com/PaleSoda)
 - [Josué Mbuyu](https://github.com/josuembuyu)
 - [Sander Murray](https://github.com/Sandj04)
