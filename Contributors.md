@@ -4,6 +4,7 @@
   [Myint Than Tun](https://github.com/MyintThanTun)
 - [Satyam Kumar Singh](https://github.com/isat)
 - [Tunde Abdulhamid Sanusi](https://github.com/tuhamworld)
+- [Nikhil Chavan](https://github.com/nikhil3113)
 - [Karthik Saligram](https://github.com/karthik-07)
 - [Aman Pathra](https://github.com/amanpathra)
 - [Aksh Patel] (https://github.com/paksh727)
@@ -28,6 +29,7 @@
 -[TheRealAdegoke](https://github.com/TheRealAdegoke)
 -[AtharvaMutsaddi](https://github.com/AtharvaMutsaddi)
 -[Ezerike caleb]
+-[Faruq Ahmed Olaitan](https://github.com/Fahmedo)
 -[Cyberverse2][https://github.com/Cyberverse2]
 -[lamceol][https://github.com/lamceol]
 -[Abhigyan Ranjan](https://github.com/Abhigyan-RA)
