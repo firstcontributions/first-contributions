@@ -2125,6 +2125,7 @@ gulshan
 - [Himanshu Mahaur](https://github.com/himanshumahaur)
 - [Jinxiu Liu](https://github.com/jliu100)
 - [Swatche]
+- [Chakit Bhandari](https://github.com/Chakit22)
 - [msorrentino0] (https://github.com/msorrentino0)    
 - [Kirirgiri] (https://github.com/Kirirgiri)
 - [Anushka Banerjee](https://github.com/Anushka200310)
