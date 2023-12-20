@@ -35,6 +35,7 @@
 -[TheRealAdegoke](https://github.com/TheRealAdegoke)
 -[AtharvaMutsaddi](https://github.com/AtharvaMutsaddi)
 -[Ezerike caleb]
+-[Olanrewaju taiwo](https://github.com/kiddo4)
 -[Faruq Ahmed Olaitan](https://github.com/Fahmedo)
 -[Cyberverse2][https://github.com/Cyberverse2]
 -[lamceol][https://github.com/lamceol]
