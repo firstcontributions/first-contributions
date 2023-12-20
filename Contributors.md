@@ -2594,7 +2594,6 @@ JialingYU
 - [Eyal Yarden](https://github.com/eyalya1)
 - Bennett Wilbert
 - [Mohamed Atta](https://github.com/MohamedAtta-AI)
-- [Pratik Kashyap](https://github.com/ipratiik)
 - [Chandan Akella](https://github.com/chandan9t8)
 - [Mahmoud Mirghani](https://github.com/mahmoudmerghani)
 - [Giorgia Saccon] (https://github.com/GioGio31)
@@ -5801,3 +5800,4 @@ Kumar Kaji
 - [Sam Lam](https://github.com/samlam67812)
 -[Prashanth bokkala](https://github.com/Prashanth-bokkala)
 -[Anuvind Paul](https://github.com/Anuv225)
+- [Samuel Rubens](https://github.com/rubenszinho)
