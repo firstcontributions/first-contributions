@@ -26,7 +26,7 @@ Ora scarica (*clone*) questa repo nel tuo computer. Clicca sul pulsante per scar
 
 Apri il terminale e lancia il seguente comando:
 
-```console
+```bash
 git clone "url appena copiato"
 ```
 
@@ -36,7 +36,7 @@ dove "url appena copiato" (senza le virgolette) è l'url di questa repository. L
 
 Per esempio:
 
-```console
+```bash
 git clone https://github.com/questo-sei-tu/first-contributions.git
 ```
 
@@ -46,19 +46,19 @@ dove `questo-sei-tu` è il tuo username GitHub. Qui stai copiando il contenuto d
 
 Entra nella directory della repository (se non lo hai già fatto):
 
-```console
+```bash
 cd first-contributions
 ```
 
 Ora crea un ramo (*branch*) usando il comando `git checkout -b`:
 
-```console
+```bash
 git checkout -b <aggiungi-il-tuo-nome>
 ```
 
 Ad esempio:
 
-```console
+```bash
 git checkout -b aggiungi-alonzo-church
 ```
 
@@ -69,13 +69,13 @@ Lo scopo di nominare un branch è descrivere le modifiche che andremo ad effettu
 
 Ora apri il file `Contributors.md` in un editor, inserisci il tuo nome. Non aggiungerlo all'inizio o alla fine del file ma in un qualsiasi punto nel mezzo. Ora salva il file. Se vai nella directory del progetto ed esegui il comando `git status`, vedrai quali sono i cambiamenti. Aggiungi le modifiche al branch appena creato usando il comando `git add`:
 
-```console
+```bash
 git add Contributors.md
 ```
 
 Crea ora una commit che includa le modifiche da te fatte, usando `git commit`:
 
-```console
+```bash
 git commit -m "Add <il-tuo-nome> to Contributors list"
 ```
 
@@ -85,7 +85,7 @@ cambiando `<il-tuo-nome>` con il tuo nome.
 
 Invia (*push*) le tue modifiche con il comando `git push`:
 
-```console
+```bash
 git push origin <aggiungi-il-tuo-nome>
 ```
 
