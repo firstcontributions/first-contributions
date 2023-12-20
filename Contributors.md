@@ -5,6 +5,7 @@
 - [Satyam Kumar Singh](https://github.com/isat)
 - Aman01k
 - [Samuel Kiragu](https://gitbhub.com/SamuelKiragu)
+- [Muse](https://github.com/museredi)
 - [Krishna sai Nakka](https://github.com/krishnasainakka)
 - [Tunde Abdulhamid Sanusi](https://github.com/tuhamworld)
 - [Himanshu](https://github.com/Himasnhu-AT)
