@@ -318,6 +318,7 @@ Raphael
 - [Bilal Sardar] (https://github.com/mbilalsardar)
 - [Kiyo] (https://github.com/kiyoone)
 - CoderBlee (https://github.com/CoderBlee)
+- [Sanchit Dass] (https://github.com/sanchitd9)
 - [Jonas Ling] (https://github.com/ItsJonasL)
 - [pocholo30] (https://github.com/pocholo30)
 - [vincent DUSHIME](https://github.com/Vincidax)
