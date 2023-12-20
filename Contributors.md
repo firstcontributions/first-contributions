@@ -4,6 +4,7 @@
   [Myint Than Tun](https://github.com/MyintThanTun)
 - [Satyam Kumar Singh](https://github.com/isat)
 - Aman01k
+- Batman!
 - [Samuel Kiragu](https://gitbhub.com/SamuelKiragu)
 - [Muse](https://github.com/museredi)
 - [Krishna sai Nakka](https://github.com/krishnasainakka)
