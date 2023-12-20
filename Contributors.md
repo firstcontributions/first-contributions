@@ -4,6 +4,7 @@
   [Myint Than Tun](https://github.com/MyintThanTun)
 - [Satyam Kumar Singh](https://github.com/isat)
 - [Tunde Abdulhamid Sanusi](https://github.com/tuhamworld)
+- [Joel Nyongesa](https://github.com/joelnyongesa)
 - [Nikhil Chavan](https://github.com/nikhil3113)
 - [Karthik Saligram](https://github.com/karthik-07)
 - [Aman Pathra](https://github.com/amanpathra)
