@@ -936,6 +936,7 @@ Brent L
 - [Alexandru7777](https://github.com/alexandru7777)
 - [DezS](https://github.com/DezS4125)
 - [Tom](https://github.com/TMulekezi)
+- [Ese Monday](https://github.com/ESE-MONDAY)
 - [Olusegun Omotunde](https://github.com/omotuno)
 - [Yeji Cho] (https://github.com/cyeji)
 - [Nur Farah](https://github.com/Nur-farah)
