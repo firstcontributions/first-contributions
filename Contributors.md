@@ -8,6 +8,7 @@
 - [Nikhil Chavan](https://github.com/nikhil3113)
 - [Karthik Saligram](https://github.com/karthik-07)
 - [Aman Pathra](https://github.com/amanpathra)
+- [Harshita Shanker](https://github.com/localhersheys)
 - [Aksh Patel] (https://github.com/paksh727)
 - [Joseph Reiner] (https://github.com/reiner-13)
 -[Jackson Tower](https://github.com/JacksonRT)
