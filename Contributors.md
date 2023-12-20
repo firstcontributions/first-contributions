@@ -19,7 +19,7 @@
 -[Dinesh Kumar Juluri] (https://github.com/DineshkumarJuluri)
 -Nida
 
-- [Suprith Varma] (https://github.com/Suprithvarma1)
+- [Suprith Varma Brahmarauthu] (https://github.com/Suprithvarma1)
 
 - [Lamidi Morufat Kajogbola](https://github.com/Ehmkayel)
 
