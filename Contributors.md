@@ -67,10 +67,18 @@
 -[Dinesh Kumar Juluri] (https://github.com/DineshkumarJuluri)
 -[Jan-Peter Wittig] (https://github.com/CptTrips83)
 -Nida
+
+
+- [Suprith Varma Brahmarauthu] (https://github.com/Suprithvarma1)
+
+- [Lamidi Morufat Kajogbola](https://github.com/Ehmkayel)
+
+
 - [de-marauder](https://de-marauder.vercel.app)
 - [Lamidi Morufat Kajogbola](https://github.com/Ehmkayel)
 - [Rufai Sanni](https://github.com/Ruffysanni)
 - [Joshag](https://github.com/josh-ag)
+
 - [Stephhen Allen](https://github.com/Stephen-A)
 - [Harlimat Odunola](https://github.com/Lymah123)
 - [Olamide Olanrewaju](https://github.com/Olyray)
@@ -5816,12 +5824,18 @@ Kumar Kaji
 - [Kshiti] (https://github.com/km1610)
 - [Adithya] (https://github.com/adithya-vedhamani)
 - [Sandhya] (https://github.com/sandhyabaiju86)
+
+
+
 - [Sahil] (https://github.com/CrimsonRavenFeather)
 - [DavidDanso] (https://github.com/DavidDanso)
 - [Chong9103] (https://github.com/Chong9103)
 - [somber] (https://github.com/Somber)
 - [Haseeb] (https://github.com/haseebyousuf)
 - [Chinmaya] (https://github.com/Hades1710)
+
+
+
 -[AbuSantos](https://github.com/AbuSantos)
 - [Onuh Theola](https://github.com/lady-thee)
 - [Parvathy Pradeep](https://github.com/Paruproy02)
@@ -5841,3 +5855,4 @@ Kumar Kaji
 - [Edet Asuquo](https://github.com/eddy1759)
 - [Navis](https://github.com/navise)
 - [Ashley Miller](https://github.com/AshleyHelen808)
+
