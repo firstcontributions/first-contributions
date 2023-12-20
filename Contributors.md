@@ -3,6 +3,7 @@
 - [Satyam Kumar Singh](https://github.com/isatyamks)
 - [Aman Pathra](https://github.com/amanpathra)
 - [Aksh Patel] (https://github.com/paksh727)
+- [Joseph Reiner] (https://github.com/reiner-13)
 -[Jackson Tower](https://github.com/JacksonRT)
 -[Russell Oje](https://github.com/ruxy1212)
 - [Marvis Chukwudi](https://github.com/marv-tech)
