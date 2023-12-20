@@ -3,7 +3,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-
 # Il primo contributo
 
 È dura. È sempre difficile fare qualcosa per la prima volta. Specialmente quando si sta collaborando, sbagliare ci mette a disagio. Ma l'open source si basa sulla collaborazione e sul lavorare insieme. Pertanto volevamo semplificare il modo in cui i nuovi collaboratori imparano e contribuiscono per la prima volta a progetti open-source.
