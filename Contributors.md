@@ -15,6 +15,7 @@
 - Mayank Sharma(https://github.com/mxyxnk518)
 - [Samuel Kiragu](https://gitbhub.com/SamuelKiragu)
 - [Muse](https://github.com/museredi)
+- [Olusola Aremu](https://github.com/Shollarey)
 - [Aswin Pratapsingh] (https://github.com/CodexEZ)
 - [Munir Abdullahi] (https://github.com/iamaamunir)
 - [Krishna sai Nakka](https://github.com/krishnasainakka)
@@ -126,6 +127,7 @@
 - [Kamakshi ojha](https://github.com/KamakshiOjha)
 - [Minayo Esere] (https://github.com/mudeitsi)
 - Uri
+- [Usman Awwal](https://github.com/USII-004)
 - [Christine Okoth](https://github.com/chriss1525)
 - [Toyin Muhammed](https://github.com/Toyin5)
 - Utsav
