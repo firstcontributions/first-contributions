@@ -1019,7 +1019,7 @@ Brent L
 - [Ben Ricker] (https://github.com/BenRicker)
 - [Emilha de Souza](https://github.com/emilha-mg)
 - [Amarthya](https://github.com/aparvathareddy282)
-- [Abilash](https://github.com/abilash0205)
+ [Abilash](https://github.com/abilash0205)
 - [Tyler](https://github.com/LifestreamX)
 - [Unya David Eze](https://github.com/Davidezege)
 - [Laura]
@@ -5890,4 +5890,5 @@ Kumar Kaji
 - [Agbedejobi Gbeminiyi] (https://github.com/Gbeminiyi-A)
 - [CYL-collab](https://github.com/CYL-collab)
   [Vaishnavi Dhole](https://github.com/vishhiy) 
-- calm coder
+-[Szymon Szopinski](https://github.com/SzymonSzopinski)
+ calm coder
