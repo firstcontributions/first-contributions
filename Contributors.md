@@ -6,6 +6,7 @@
 - [Izaan Noman](https://github.com/izaan17)
 - Aman01k
 - Batman!
+-[Suprith Varma Brahmarauthu] (https://github.com/Suprithvarma1)
 - [Samuel Kiragu](https://gitbhub.com/SamuelKiragu)
 - [Muse](https://github.com/museredi)
 - [Munir Abdullahi] (https://github.com/iamaamunir)
