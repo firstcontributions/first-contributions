@@ -9,6 +9,7 @@
 - Aman01k
 - Batman!
 -[Suprith Varma Brahmarauthu] (https://github.com/Suprithvarma1)
+- Mayank Sharma(https://github.com/mxyxnk518)
 - [Samuel Kiragu](https://gitbhub.com/SamuelKiragu)
 - [Muse](https://github.com/museredi)
 - [Aswin Pratapsingh] (https://github.com/CodexEZ)
