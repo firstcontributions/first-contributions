@@ -336,6 +336,7 @@ Balraj
 - rohith(https://github.com/Rohithvarma212)
 - [Dean Beebe](https://github.com/beandeebe)
 - [Moses Msukwa](https://github.com/mozesi)
+- [Sarah Adebayo](https://github.com/Pricelesssarah-ui)
 - [Yusuf Sabri Bayrakdar](https://github.com/yusufbayrakdar)
 [Shubham S Dandekar](https://github.com/shubham-sd)
 - [Harshit Singh] (https://github.com/sasura212)
