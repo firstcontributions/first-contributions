@@ -38,6 +38,7 @@
 -[Adith Suresh](https://github.com/AdithSuresh2004)
 -[Shashanks0616](https://github.com/Shashank)
 -[Kushal1o1](https://github.com/kushal1o1)
+- [Agu Bright](https://github.com/Agu-Bright)
 -[Carlos Lima](https://github.com/devcarlosrlima)
 -[Okechukwu Egeruoh](https://github.com/Chukwu12)
 -[Cesar Almendarez](https://github.com/cesarealmendarez)
