@@ -15,6 +15,7 @@
 - Mayank Sharma(https://github.com/mxyxnk518)
 - [Samuel Kiragu](https://gitbhub.com/SamuelKiragu)
 - [Muse](https://github.com/museredi)
+- [Olusola Aremu](https://github.com/Shollarey)
 - [Aswin Pratapsingh] (https://github.com/CodexEZ)
 - [Munir Abdullahi] (https://github.com/iamaamunir)
 - [Krishna sai Nakka](https://github.com/krishnasainakka)
