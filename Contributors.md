@@ -17,6 +17,7 @@
 - Big_Ben(https://github.com/BigBen-7)
 -[Suprith Varma Brahmarauthu] (https://github.com/Suprithvarma1)
 - Mayank Sharma(https://github.com/mxyxnk518)
+- [AJonniaux](https://github.com/AJonniaux)
 - [Samuel Kiragu](https://gitbhub.com/SamuelKiragu)
 - [Muse](https://github.com/museredi)
 - [Olusola Aremu](https://github.com/Shollarey)
