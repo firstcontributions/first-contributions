@@ -74,6 +74,7 @@
 -[Jan-Peter Wittig] (https://github.com/CptTrips83)
 -Nida
 - [de-marauder](https://de-marauder.vercel.app)
+- [Shainil P.S](https://github.com/codeshaine)
 - [Lamidi Morufat Kajogbola](https://github.com/Ehmkayel)
 - [Rufai Sanni](https://github.com/Ruffysanni)
 - [Joshag](https://github.com/josh-ag)
