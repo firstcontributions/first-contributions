@@ -4,6 +4,7 @@
   [SREEKAKULAM LOHITH](https://github.com/SreekakulamLohith)
   [Myint Than Tun](https://github.com/MyintThanTun)
 - [Satyam Kumar Singh](https://github.com/isat)
+- [Shubham Chaudhary](https://github.com/ch-shubham)
 - [Izaan Noman](https://github.com/izaan17)
 - Gary050613
 - Aman01k
