@@ -1,4 +1,5 @@
 # Contributors
+- [Alex Oyebamiji](https://github.com/lex043)
 - [Alhoussen TRAORE](https://github.com/Alhoussen)
   [SREEKAKULAM LOHITH](https://github.com/SreekakulamLohith)
   [Myint Than Tun](https://github.com/MyintThanTun)
