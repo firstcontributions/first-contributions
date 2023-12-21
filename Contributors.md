@@ -173,6 +173,7 @@
 - [Daniel Shdeed](https://github.com/Danieldotcomcoder)
 - [Anay](https://github.com/c4coderandcreator)
 - [hritik](https://github.com/hritikmunde)
+- [Noran Abdel-Aziz](https://github.com/noranaziz)
 - [Ashley John](https://github.com/Nightburnn)
 - [Thura Nyi](https://github.com/Thura69)
 - [Aashish Panthi](https://github.com/PanthiAashish)
