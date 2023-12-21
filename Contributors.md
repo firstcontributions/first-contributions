@@ -6,6 +6,7 @@
 - [Satyam Kumar Singh](https://github.com/isat)
 - [Shubham Chaudhary](https://github.com/ch-shubham)
 - [Izaan Noman](https://github.com/izaan17)
+- [Felix Owolabi](https://github.com/JustFelix-Dev)
 - Gary050613
 - Aman01k
 - Batman!
