@@ -2690,6 +2690,7 @@ nathaniel
 - [Valery Bonneau](https://github.com/ValeryBonneau)
 Mahmoud Mirghani
 - ➡︝ [Armatys Konrad](https://github.com/karmatys8) ⬅︝
+- [zerotropism](https://github.com/zerotropism)
 - [Harohar](https://github.com/harohar13)
 - [Saurabh Padman](https://github.com/spirus-dev)
 -[Shashank Shukla](https://github.com/shashank0092)
