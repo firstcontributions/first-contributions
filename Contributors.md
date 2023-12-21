@@ -461,6 +461,7 @@ Ayush Gaud
 -[MD Akib Haider](https://github.com/aaakloo-waiting)
 - [Reez] (https://github.com/ReezChaoCau)
 - [Kevin Patel] (https://github.com/PatelKeviin)
+- [Flo]	(https://github.com/flo42)
 - [Random Idiot] (https://github.com/progamer)
 - [Joshua Estebat](https://github.com/joshmre)
 - [Cmorales](https://github.com/SelaromC)
