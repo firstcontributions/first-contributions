@@ -50,6 +50,7 @@
 - [Johnny Nguyen] (https://github.com/johnny-h-nguyen)
  -[Ericode](https://github.com/Ericode254)
 - [Hamza Saeed](https://github.com/HamzaSaeed01)
+- [Ruth Moraa ] (https://github.com/moraaruth)
 - [faea726](https://github.com/faea726)
 - [Methembe Gumbo](https://github.com/Methieg)
 - [Sahil Tembhurkar](https://github.com/sahirooh)
