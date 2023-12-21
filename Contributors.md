@@ -44,6 +44,7 @@
 -[Kushal1o1](https://github.com/kushal1o1)
 -[Carlos Lima](https://github.com/devcarlosrlima)
 -[Okechukwu Egeruoh](https://github.com/Chukwu12)
+-[Kevin Oluda](https://github.com/254guru)
 -[Cesar Almendarez](https://github.com/cesarealmendarez)
 -[Avadhut20](https://github.com/Avadhut20)
 -[John Wambaria](https://github.com/wambaria)
