@@ -3,6 +3,7 @@
   [SREEKAKULAM LOHITH](https://github.com/SreekakulamLohith)
   [Myint Than Tun](https://github.com/MyintThanTun)
 - [Satyam Kumar Singh](https://github.com/isat)
+- [Izaan Noman](https://github.com/izaan17)
 - Aman01k
 - Batman!
 - [Samuel Kiragu](https://gitbhub.com/SamuelKiragu)
