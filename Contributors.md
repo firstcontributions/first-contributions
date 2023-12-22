@@ -16,6 +16,7 @@
 - Aman01k
 - Viocuong
 - Batman!
+- Jerry Onyango
 - Dhruv Rawat from India
 - [Tati](https://github.com/nottheadmin)
 - Big_Ben(https://github.com/BigBen-7)
