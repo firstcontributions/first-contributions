@@ -85,6 +85,7 @@
 -[Praise Atadja](https://github.com/Praise-Atadja)
 -[Shravan Bobade](https://github.com/Shravan250)
 -[Noah M](https://github.com/noahminds)
+-[Davies Aniefiok](https://github.com/dsparrowm)
 -[Nayan Shah](https://github.com/snayan06)
 -[Aidan Kelly](https://github.com/cruxlime)
 -LPJE
