@@ -20,6 +20,7 @@
 - Batman!
 - Dhruv Rawat from India
 - [Tati](https://github.com/nottheadmin)
+- [Chigozie Mbama](https://github.com/mbamamykel77)
 - [Amanze](https://github.com/Gospel-c)
 - Big_Ben(https://github.com/BigBen-7)
 -[Suprith Varma Brahmarauthu] (https://github.com/Suprithvarma1)
