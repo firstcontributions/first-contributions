@@ -26,6 +26,7 @@
 - [Samuel Kiragu](https://gitbhub.com/SamuelKiragu)
 - [Muse](https://github.com/museredi)
 - [Olusola Aremu](https://github.com/Shollarey)
+- [Akash Shekhavat](https://github.com/Akash-Vijaysingh-Shekhavat)
 - [Aswin Pratapsingh] (https://github.com/CodexEZ)
 - [Munir Abdullahi] (https://github.com/iamaamunir)
 - [Krishna sai Nakka](https://github.com/krishnasainakka)
