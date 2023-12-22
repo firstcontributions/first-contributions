@@ -2000,6 +2000,7 @@ harshal honde
 - [Keshav Pahwa](https://github.com/keshav-pahwa/)
 - [Nawaz Baba](https://github.com/nawazbaba1993)
 - [Ved Prakash](https://github.com/Ved142)
+- [Vladislav Vlasov](https://github.com/Cr3cker)
 - [Henry Niemann](https://github.com/Chezzyboy)
 - [Kaushik Kumar Das](https://github.com/AlexWeb07)
 - [Ajay Gonepuri](https://github.com/HKABIG)
