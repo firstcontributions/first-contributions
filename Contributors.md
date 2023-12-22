@@ -63,6 +63,7 @@
 -[Okechukwu Egeruoh](https://github.com/Chukwu12)
 -[Kevin Oluda](https://github.com/254guru)
 -[Cesar Almendarez](https://github.com/cesarealmendarez)
+-[Noman Khan] (https://github.com/MohammadNomankhan)
 -[Avadhut20](https://github.com/Avadhut20)
 -[John Wambaria](https://github.com/wambaria)
 -[TheRealAdegoke](https://github.com/TheRealAdegoke)
