@@ -5737,6 +5737,7 @@ Gauresh Rathi
 - [Subramonian Inian](https://github.com/SubramonianInian)
 - [Meursault](https://github.com/iMeursault)
 - [Gill] (https://github.com/gutieYpong)
+- [Fabrice Eklou](https://github.com/fabeklou)
 - [Jason](https://github.com/cardze)
 - [Bartek Halubiec](https://github.com/bartek98205)
 - [kkml4220](https://github.com/kkml4220)
