@@ -5870,6 +5870,7 @@ Kumar Kaji
 -[AbuSantos](https://github.com/AbuSantos)
 - [Onuh Theola](https://github.com/lady-thee)
 - [Parvathy Pradeep](https://github.com/Paruproy02)
+  [Jaffer Ali](https://github.com/Jaffer-Ali-Abubakker)
 - [Yunus Abdulmajid](https://github.com/Yunusabdul38)
 - [Kurt Abrahamson](https://github.com/kwabrahamson)
 - [Vasco Correia](https://github.com/VascoCorreia)
