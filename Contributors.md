@@ -5920,3 +5920,4 @@ Kumar Kaji
 - calm coder
 - [XwenHaHa](https://github.com/XwenHaHa)
 - [Robson J](https://github.com/ORobsonJr)
+- [Fuad ALIPHATIC](https://github.com/ALIPHATICHYD)
