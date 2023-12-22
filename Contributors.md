@@ -1,4 +1,5 @@
 # Contributors
+- [Muhammad Raza Khan](https://github.com/completelyblank)
 - [Deshawn Williams](https://github.com/MarquisTheCoder)
 - [Joseph Timothy](https://github.com/J-cart)
 - [Alex Oyebamiji](https://github.com/lex043)
