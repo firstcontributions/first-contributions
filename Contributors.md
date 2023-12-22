@@ -5798,6 +5798,7 @@ Gauresh Rathi
 - [Kurt Cyrus Cuizon](https://github.com/Borrkkk)
 - [Wesley Waka](https://github.com/Wesley-waka)
 - [pocholo30] (https://github.com/pocholo30)
+- [Dhruv] (https://github.com/DC-29)
 - [Paxtian] (https://github.com/Paxtian769)
 - [vladmld] (https://github.com/vladmld)
 - [Judd0106] (https://github.com/Judd0106)
