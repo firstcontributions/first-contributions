@@ -11,6 +11,7 @@
 - [Izaan Noman](https://github.com/izaan17)
 - [Felix Owolabi](https://github.com/JustFelix-Dev)
 - [Chandramalika Ravipati](https://github.com/Chandramalika)
+- [Ajaiyeoba John Nubia_dev](https://github.com/Ajaiyeoba)
 - Gary050613
 - Aman01k
 - Batman!
@@ -95,6 +96,7 @@
 -[Dinesh Kumar Juluri] (https://github.com/DineshkumarJuluri)
 -[Jan-Peter Wittig] (https://github.com/CptTrips83)
 -Nida
+
 - [de-marauder](https://de-marauder.vercel.app)
 - [Shainil P.S](https://github.com/codeshaine)
 - [Lamidi Morufat Kajogbola](https://github.com/Ehmkayel)
