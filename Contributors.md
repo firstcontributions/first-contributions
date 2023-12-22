@@ -5913,3 +5913,4 @@ Kumar Kaji
 - calm coder
 - [XwenHaHa](https://github.com/XwenHaHa)
 - [Robson J](https://github.com/ORobsonJr)
+- [Geoffrey Logovi](https://github.com/geoffreylgv)
