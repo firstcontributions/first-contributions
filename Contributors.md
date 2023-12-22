@@ -1037,6 +1037,7 @@ Brent L
 - [Guy Chenevert](https://github.com/guyc98)
 - [Yahid Basha](https://github.com/Yahid-Basha)
 - [Marko Cuk](https://github.com/MarkoCuk54)
+- [Kartik Bhapkar](https://github.com/Kartik00B)
 - [Jamiedsmith95](https://github.com/jamiedsmith95)
 - [RiccardoDeGuio] (https://github.com/DeGuio-Via)
 - [Harsha Bandla] (https://github.com/HarshaCodex)
