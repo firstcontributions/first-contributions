@@ -848,6 +848,7 @@ Gabi Nelepcu
 - [Darrell Roberts] (https://github.com/DarrellRoberts)
 - [Clenybug](https://github.com/Clinybug)
 - [alexander bellina](https://github.com/itslikealex)
+- [sanjay r](https://github.com/sanjay-ranganath)
 - [Prabhpreet Kaur](https://github.com/naina35)
 - [Meet Joshi](https://github.com/MeetJoshi1703)
 - [Roy Mbaya](https://github.com/MbesarMbaya)
