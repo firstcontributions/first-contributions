@@ -12,6 +12,7 @@
 - [Izaan Noman](https://github.com/izaan17)
 - [Felix Owolabi](https://github.com/JustFelix-Dev)
 - [Chandramalika Ravipati](https://github.com/Chandramalika)
+- [Nikos Kritikos] (https://github.com/pirlize)
 - Gary050613
 - Aman01k
 - Viocuong
