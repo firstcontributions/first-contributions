@@ -5746,4 +5746,4 @@ Kumar Kaji
 - [Parvathy Pradeep](https://github.com/Paruproy02)
 - [Yunus Abdulmajid](https://github.com/Yunusabdul38)
 - [Omar K](https://github.com/omar0k)
-- [Oscar Lin](https://githunssajkbs)
+- [Oscar Lin](https://github.com/light1707)
