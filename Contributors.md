@@ -179,6 +179,7 @@
 - [Minayo Esere] (https://github.com/mudeitsi)
 - Uri
 - [Usman Awwal](https://github.com/USII-004)
+- [Alege Emmanuel Oluwasegun](https://github.com/codeinn001)
 - [Christine Okoth](https://github.com/chriss1525)
 - [Toyin Muhammed](https://github.com/Toyin5)
 - Utsav
