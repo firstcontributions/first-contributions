@@ -53,6 +53,7 @@
 - [Aswin Pratapsingh] (https://github.com/CodexEZ)
 - [Richard Olaoluwa Akintola] (https://github.com/AkintolaRichard)
 - [Munir Abdullahi] (https://github.com/iamaamunir)
+- [David Grisales Piedrahita](https://github.com/lokoitachi)
 - [Krishna sai Nakka](https://github.com/krishnasainakka)
 - [Tunde Abdulhamid Sanusi](https://github.com/tuhamworld)
 - [Himanshu](https://github.com/Himasnhu-AT)
