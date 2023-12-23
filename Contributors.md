@@ -1435,6 +1435,7 @@ Brent L
 - [Udar Sarkar](https://github.com/udaysarkarud)
 - [Rafael Reis](https://github.com/RafaelReis098)
 - [Utkarsh](https://github.com/utkarsh1042005)
+-[Nayabi](https://github.com/Nayabi26/first-contributions)
 - [Chandan Mishra](https://github.com/mishraachandan)
 - [job mbugua](https://github.com/mbugua97)
 - [Tyler Landtroop](https://github.com/tlandtroop)
