@@ -293,7 +293,6 @@
 -   [Hardik Jogadia] (https://github.com/hardikjogadia)
 -   [Raj Mayekar](https://github.com/MayekarRaj)
 -   [Akshika Jain]
--   [Wes Q] (https://github.com/iamwesofph)
 -   [Lucas Amberg](https://github.com/lucas-amberg)
 -   [Yashwanth Kothakota](https://github.com/yashwanthkothakota9)
 -   [Solomon Asregdew](https://github.com/SolomonAHailu)
