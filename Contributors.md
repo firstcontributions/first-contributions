@@ -6,6 +6,7 @@
 - [Deshawn Williams](https://github.com/MarquisTheCoder)
 - [Joseph Timothy](https://github.com/J-cart)
 - [Rishikesh Chikka](https://github.com/RishikeshChikka9)
+- [StathisKons](https://github.com/StathisKons)
 - [Alex Oyebamiji](https://github.com/lex043)
 - [Alhoussen TRAORE](https://github.com/Alhoussen)
   [SREEKAKULAM LOHITH](https://github.com/SreekakulamLohith)
