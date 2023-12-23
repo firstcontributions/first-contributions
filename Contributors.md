@@ -16,6 +16,7 @@
 - [Izaan Noman](https://github.com/izaan17)
 - [Tobiloba Oladele](https://github.com/towbee98)
 - [Felix Owolabi](https://github.com/JustFelix-Dev)
+- [Jemimah Otebele](https://github.com/jemmycodes)
 - [Chandramalika Ravipati](https://github.com/Chandramalika)
 - [Nikos Kritikos] (https://github.com/pirlize)
 - Gary050613
