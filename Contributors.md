@@ -5911,6 +5911,7 @@ Kumar Kaji
 - [Vinay](https://github.com/Vinaycn999)
 - [Rose Wanjohi](https://github.com/blackpintz)
 - [Adeloba Joshua] (https://github.com/adejosh01)
+-[Amod Kumar J] (https://github.com/AmodKumarJ)
 - [karelzel] (https://github.com/karelzel/)
 - [Kiera Deppen] (https://github.com/KieMakesTheMST)
 - [Sand-David] (https://github.com/Sand-David)
