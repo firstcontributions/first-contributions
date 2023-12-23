@@ -36,6 +36,7 @@
 -[Saheed Ibrahim](https://github.com/saheedibrahim)
 - [Amanze](https://github.com/Gospel-c)
 - [Tosin Adewale](https://github.com/tosmel2)
+- [Evangeline Mmayie](https://github.com/EbubeEvan)
 - Big_Ben(https://github.com/BigBen-7)
 -[Suprith Varma Brahmarauthu] (https://github.com/Suprithvarma1)
 - Mayank Sharma(https://github.com/mxyxnk518)
