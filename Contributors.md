@@ -5860,6 +5860,7 @@ Gauresh Rathi
 - [Shreyas-Jadhav](https://github.com/sreyaz11)
 - [0Juice](https://github.com/0Juice)
 - [Jenny Mason](https://github.com/jjrrrmason)
+- [Siddharth Yadav](https://github.com/siddharth-283)
 - sheldon_kx
 - ftalmat
 - bhav35h
