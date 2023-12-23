@@ -5941,6 +5941,7 @@ Kumar Kaji
 - [Vasco Correia](https://github.com/VascoCorreia)
 - [Lorenzo Formato] (https://github.com/ColeBoy00)
 - [Omar K](https://github.com/omar0k)
+- [Hydromel Victor Doledji](https://github.com/hydromelvictor)
 - [Oscar Lin](https://github.com/light1707)
 - [ljq](https://github.com/ljq19980910)
 - [Sharath M](https://github.com/sharath-m)
@@ -5964,6 +5965,7 @@ Kumar Kaji
 - calm coder
 - kCroDev
 - [XwenHaHa](https://github.com/XwenHaHa)
+- [Hydromel Victor Doledji](https://github.com/hydromelvictor)
 - [Robson J](https://github.com/ORobsonJr)
 - [Kritan Tamrakar](https://github.com/MXMxRazer)
 - [Fuad ALIPHATIC](https://github.com/ALIPHATICHYD)
