@@ -3,6 +3,7 @@
 - [Zoe Oladokun](https://github.com/zozoking101/first-contributions)
 - [Deshawn Williams](https://github.com/MarquisTheCoder)
 - [Joseph Timothy](https://github.com/J-cart)
+- [Rishikesh Chikka](https://github.com/RishikeshChikka9)
 - [Alex Oyebamiji](https://github.com/lex043)
 - [Alhoussen TRAORE](https://github.com/Alhoussen)
   [SREEKAKULAM LOHITH](https://github.com/SreekakulamLohith)
