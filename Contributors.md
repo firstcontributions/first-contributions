@@ -8,6 +8,9 @@
 - [Rishikesh Chikka](https://github.com/RishikeshChikka9)
 - [Alex Oyebamiji](https://github.com/lex043)
 - [Alhoussen TRAORE](https://github.com/Alhoussen)
+- 
+- [Ridwanullah Baruwa](https://github.com/DanonymousCoder)
+- 
   [SREEKAKULAM LOHITH](https://github.com/SreekakulamLohith)
   [Myint Than Tun](https://github.com/MyintThanTun)
 - [Hamza Mubin](https://github.com/Hamza1821)
