@@ -1,4 +1,5 @@
-# Contributors
+# Contributors- 
+- [Manish Khadka] From Nepal (https://github.com/Manroc)
 - [Muhammad Raza Khan](https://github.com/completelyblank)
 - [Shreya Tripathi] (https://github.com/shreya27tripathi)
 - [Zoe Oladokun](https://github.com/zozoking101/first-contributions)
