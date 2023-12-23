@@ -5927,5 +5927,6 @@ Kumar Kaji
 - calm coder
 - [XwenHaHa](https://github.com/XwenHaHa)
 - [Robson J](https://github.com/ORobsonJr)
+- [Kritan Tamrakar](https://github.com/MXMxRazer)
 - [Fuad ALIPHATIC](https://github.com/ALIPHATICHYD)
 - [YYBer] (https://github.com/YYBer)
