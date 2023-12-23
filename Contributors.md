@@ -22,6 +22,7 @@
 - Dhruv Rawat from India
 - [Tati](https://github.com/nottheadmin)
 - [Chigozie Mbama](https://github.com/mbamamykel77)
+- [Adeniji Ridwan](https://github.com/adenijiridwan43)
 - [Amanze](https://github.com/Gospel-c)
 - [Tosin Adewale](https://github.com/tosmel2)
 - Big_Ben(https://github.com/BigBen-7)
