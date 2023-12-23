@@ -73,6 +73,8 @@
 -[Adaora Janefrancis Muoka](https://github.com/Smiley-eng)
 - [Marvis Chukwudi](https://github.com/marv-tech)
 -[Prabhashankar Mishra](https://github.com/Pro7Prabhakar)
+- [Shashanks0616](https://github.com/Shashank)
+- [Viktoriia Koyun] (https://github.com/Vikki1201)
 -[Laboré Kodjo Agbetsiassi](https://github.com/starlabman)
 -[Chinese CHIKKI](https://github.com/ChineseChikki)
 -[Ogunewu Ezekiel Anuoluwapo](https://www.github.com/StarCodes2)
