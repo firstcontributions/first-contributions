@@ -35,6 +35,7 @@
 - [Olusola Aremu](https://github.com/Shollarey)
 - [Akash Shekhavat](https://github.com/Akash-Vijaysingh-Shekhavat)
 - [Aswin Pratapsingh] (https://github.com/CodexEZ)
+- [Richard Olaoluwa Akintola] (https://github.com/AkintolaRichard)
 - [Munir Abdullahi] (https://github.com/iamaamunir)
 - [Krishna sai Nakka](https://github.com/krishnasainakka)
 - [Tunde Abdulhamid Sanusi](https://github.com/tuhamworld)
