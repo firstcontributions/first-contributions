@@ -8,6 +8,7 @@
 - [Aleksandar Atanasov](https://github.com/Axxxll)
 - Beau
 - Utsav
+- Charleyoshi
 - [Ivan Khoo](https://github.com/ivanakhoo)
 - [Ezz Maree](https://github.com/Ezz1997)
 - [Shiva Sai Charan](https://github.com/IamMyselfandmyself)
