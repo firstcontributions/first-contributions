@@ -1,6 +1,7 @@
 # Contributors
 
 -   [Muhammad Raza Khan](https://github.com/completelyblank)
+-   Wes Q
 -   [Zoe Oladokun](https://github.com/zozoking101/first-contributions)
 -   [Deshawn Williams](https://github.com/MarquisTheCoder)
 -   [Joseph Timothy](https://github.com/J-cart)
