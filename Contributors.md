@@ -58,6 +58,7 @@
 - [Joseph Reiner] (https://github.com/reiner-13)
 - [Srujana Guttula] (https://github.com/xsrujanax)
 -[Jackson Tower](https://github.com/JacksonRT)
+- [Aditya Dhanraj](https://github.com/opsingh861)
 -[Anikesh Kulal](https://github.com/Anikesh02)
 -[Russell Oje](https://github.com/ruxy1212)
 -[Adaora Janefrancis Muoka](https://github.com/Smiley-eng)
