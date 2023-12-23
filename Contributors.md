@@ -23,6 +23,7 @@
 - [Nikos Kritikos] (https://github.com/pirlize)
 - Gary050613
 - [Jhontri Boyke](https://github.com/jhontriboyke)
+- [ashikragu](https://github.com/ashikragu)
 - Aman01k
 - Viocuong
 - Ekarika Nsemeke
