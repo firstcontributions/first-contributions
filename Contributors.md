@@ -5684,7 +5684,8 @@ Gauresh Rathi
 - ftalmat
 - bhav35h
 - Laide Endeley
-- [lucky rajbhar](https://github.com/luckyraj432) 
+- [lucky rajbhar](https://github.com/luckyraj432)
+- [Judith Etugbo](https://github.com/judithetugbo)
 - [Ashwin Athappan](https://github.com/ashwin-athappan)
 - [Mirjalol](I will not write my github address)
 - [Nimnad] ( https://github.com/NimnadMihiranga )
@@ -5745,7 +5746,4 @@ Kumar Kaji
 - [Parvathy Pradeep](https://github.com/Paruproy02)
 - [Yunus Abdulmajid](https://github.com/Yunusabdul38)
 - [Omar K](https://github.com/omar0k)
-- [Oscar Lin](https://githunssajkbs
-- [Judith Etugbo](https://github.com/judithetugbo)
-
-- 
+- [Oscar Lin](https://githunssajkbs)
