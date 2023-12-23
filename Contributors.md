@@ -18,6 +18,7 @@
 - [Chandramalika Ravipati](https://github.com/Chandramalika)
 - [Nikos Kritikos] (https://github.com/pirlize)
 - Gary050613
+- [Jhontri Boyke](https://github.com/jhontriboyke)
 - Aman01k
 - Viocuong
 - Ekarika Nsemeke
