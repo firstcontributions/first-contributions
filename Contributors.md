@@ -261,6 +261,7 @@ abdqudus (https://github.com/abdqudus)
 Sandip Jadhav (https://github.com/sandip4git)
 - [Murali Murugan] (https://github.com/Murali03M/) 
 sara
+- [澄澈少年](https://github.com/yangzhao917/)
 paramesh g v
 - Jimmy Wu
 - Manuel Preston
@@ -458,7 +459,7 @@ z- [rawfiul](https://github.com/rawfiul)
 - [sandeeps026] (https://github.com/sandeeps026)
 - [Armaan Singh](https://github.com/thearmaandeep)
 - [Anjali Gaikwad] (https://github.com/ANJALI2980)
-= [Mckinsley Apollon] (https://github.com/mcapollon)
+- [Mckinsley Apollon] (https://github.com/mcapollon)
 - [Htoo Aung Lin] (https://github.com/ShadowPriest)
 - [Tommy Tran] (https://github.com/tommy128works)
 - [Jisinth richard] (https://github.com/jisinth)
@@ -494,13 +495,13 @@ z- [rawfiul](https://github.com/rawfiul)
 - [Milind V] (https://github.com/milindva)
 - smilefabri
 - [Aashish Pandey] (https://github.com/aashish-pandey)
--[Matt Mancuso](https://github.com/MancusoM)
+- [Matt Mancuso](https://github.com/MancusoM)
 - [Samip Neupane](https://github.com/samipneupane)
 Ayush Gaud
 - [Rudra Pakhare](https://github.com/Rudra-Pakhare)
 - Anonymousizzy 
--Matttrus
--bellicosi
+- Matttrus
+- bellicosi
 - angela
 - Chandan J
 - pnb
