@@ -1,4 +1,5 @@
 # Contributors
+
 - [Muhammad Raza Khan](https://github.com/completelyblank)
 - [Deshawn Williams](https://github.com/MarquisTheCoder)
 - [Joseph Timothy](https://github.com/J-cart)
@@ -34,6 +35,7 @@
 - [Akash Shekhavat](https://github.com/Akash-Vijaysingh-Shekhavat)
 - [Aswin Pratapsingh] (https://github.com/CodexEZ)
 - [Munir Abdullahi] (https://github.com/iamaamunir)
+- [David Grisales Piedrahita](https://github.com/lokoitachi)
 - [Krishna sai Nakka](https://github.com/krishnasainakka)
 - [Tunde Abdulhamid Sanusi](https://github.com/tuhamworld)
 - [Himanshu](https://github.com/Himasnhu-AT)
