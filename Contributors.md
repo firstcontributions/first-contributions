@@ -1,6 +1,6 @@
 # Contributors
-- [Joseph Timothy](https://github.com/J-cart)
 - [Hamza Mubin](https://github.com/Hamza1821)
+- [Joseph Timothy](https://github.com/J-cart)
 - [Alex Oyebamiji](https://github.com/lex043)
 - [Alhoussen TRAORE](https://github.com/Alhoussen)
   [SREEKAKULAM LOHITH](https://github.com/SreekakulamLohith)
