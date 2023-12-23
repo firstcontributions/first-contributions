@@ -3001,6 +3001,7 @@ Sino Felicity Zwane
 - [Lokeshkumar Nagure](https://github.com/lokinagure)
 - [Dessamine Almuete](https://github.com/dalmuete)
 - [Jyra Villanueva](https://github.com/Jyra-Villanueva)
+- [Choi Hyungi](https://github.com/choihyungi)
 - [Lance Jericho Salcedo](https://github.com/jausalcedo)
 - [Carlos Tocino Cubelo](https://github.com/sharlibeicon)
 - [Mack Oyler](https://github.com/MackOyler)
