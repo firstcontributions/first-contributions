@@ -453,6 +453,7 @@ z- [rawfiul](https://github.com/rawfiul)
 - [Sidhardh Joe] (https://github.com/SidhardhJoe)
 - [Sainadth Pagadala](https://github.com/sainadth)
 - [Kyuhong Han] (https://github.com/roy0424)
+- [Rahil Prakash](https://github.com/Radrahil)
 - [Max Brener] (https://github.com/MaxBR97)
 - [Brett Sumser] (https://github.com/bsumser)
 - [sharvari]
