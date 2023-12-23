@@ -114,6 +114,7 @@
 - [Saurav Shrestha](https://github.com/SauravShrestha04)
 -[Emmanuel Etumudon] (https://github.com/etumudon)
 -[Raja Poudel](https://github.com/RajaPdl453)
+-[Abdullahi Kamaldeen O.] (https://github.com/Kharmaldheen)
 -[Abdulaleem Usman Ibrahim](https://github.com/Abdulaleemu)
 -[Zwe Ko Ko Aung](https://github.com/ZweKo11/)
 -[Vaibhav Sharma  from India] (https://github.com/Vaibhav4228)
