@@ -358,6 +358,7 @@ Balraj
 - [Ugochukwu Benjamin](https://github.com/biggbhen)
 - [Aritra Karmakar](https://github.com/Dark-Knight-Avi)
 - [Jose Rubio](https://github.com/josrubfer)
+- [Konstantinos Alvertis](https://github.com/katmaiwalker)
 - [Muhammed Labeeb U](https://github.com/Ladoxer)
 - [Vimal Manoharan](https://github.com/vimal004)
 - [DQKhanh](https://github.com/QKhanhGT6)
