@@ -6,6 +6,7 @@
 - [Deshawn Williams](https://github.com/MarquisTheCoder)
 - [Joseph Timothy](https://github.com/J-cart)
 - [Rishikesh Chikka](https://github.com/RishikeshChikka9)
+- [StathisKons](https://github.com/StathisKons)
 - [Alex Oyebamiji](https://github.com/lex043)
 - [Alhoussen TRAORE](https://github.com/Alhoussen)
 - 
@@ -26,6 +27,7 @@
 - [Nikos Kritikos] (https://github.com/pirlize)
 - Gary050613
 - [Jhontri Boyke](https://github.com/jhontriboyke)
+- [ashikragu](https://github.com/ashikragu)
 - Aman01k
 - Viocuong
 - Ekarika Nsemeke
@@ -74,6 +76,7 @@
 - [Aditya Dhanraj](https://github.com/opsingh861)
 -[Anikesh Kulal](https://github.com/Anikesh02)
 -[Russell Oje](https://github.com/ruxy1212)
+-[Furkan Kayış](https://github.com/furkan-kayis)
 -[Adaora Janefrancis Muoka](https://github.com/Smiley-eng)
 - [Marvis Chukwudi](https://github.com/marv-tech)
 -[Prabhashankar Mishra](https://github.com/Pro7Prabhakar)
@@ -5975,3 +5978,4 @@ Kumar Kaji
 -[ISAWA SHUN](https://github.com/ISAWASHUN)
 
 - [minimiscus](https://github.com/minimiscus)
+- [Adam](https://github.com/itzadamh)
