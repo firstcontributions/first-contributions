@@ -18,6 +18,8 @@
 - [Chandramalika Ravipati](https://github.com/Chandramalika)
 - [Nikos Kritikos] (https://github.com/pirlize)
 - Gary050613
+- Pratik
+- Manoj
 - Aman01k
 - Viocuong
 - Ekarika Nsemeke
