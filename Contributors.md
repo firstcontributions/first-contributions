@@ -3239,6 +3239,7 @@ Sino Felicity Zwane
 - [Mwangangi S. Mutemi](https://github.com/mtsammy40)
 - [Kierznowski] (https://github.com/Kierznowski)
 - [Vinay Anand Lodhi](https://github.com/VinayLodhi1712)(VinayLodhi1712)
+- [Ekene Moses Okoye] (https://github.com/OkoyeMoses90)
 - [Wenricx](https://github.com/Wenricx)
 - [Mahajan Abhichek](https://github.com/abhichek20)
 - [Likhith K.P.](https://github.com/likhithkp)
