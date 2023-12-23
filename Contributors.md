@@ -159,6 +159,7 @@ Balraj
 - [Rudra Patel] (https://github.com/RUDRA959)
 - [Syam Kumar Chintakayala] (https://github.com/chsyam)
 - [Narayana Chetty G] (https://github.com/gnarayanachetty)
+- [Nwanosike Tochukwu Emmanuel]
 - [Nathan Blackburn] (https://github.com/NathanBlackburnDev)
 - [HalconVengador2004]
 - [Harshcreator] (https://github.com/Harshcreator)
