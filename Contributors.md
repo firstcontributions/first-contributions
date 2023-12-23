@@ -7,6 +7,7 @@
 - [Shubham Chaudhary](https://github.com/ch-shubham)
 - [Izaan Noman](https://github.com/izaan17)
 - [Felix Owolabi](https://github.com/JustFelix-Dev)
+- [Jemimah Otebele](https://github.com/jemmycodes)
 - Gary050613
 - Aman01k
 - Batman!
