@@ -18,6 +18,7 @@
 - [Felix Owolabi](https://github.com/JustFelix-Dev)
 - [Jemimah Otebele](https://github.com/jemmycodes)
 - [Chandramalika Ravipati](https://github.com/Chandramalika)
+- [Ajaiyeoba John Nubia_dev](https://github.com/Ajaiyeoba)
 - [Nikos Kritikos] (https://github.com/pirlize)
 - Gary050613
 - [Jhontri Boyke](https://github.com/jhontriboyke)
@@ -123,6 +124,7 @@
 -[Dinesh Kumar Juluri] (https://github.com/DineshkumarJuluri)
 -[Jan-Peter Wittig] (https://github.com/CptTrips83)
 -Nida
+
 - [de-marauder](https://de-marauder.vercel.app)
 - [Shainil P.S](https://github.com/codeshaine)
 - [Lamidi Morufat Kajogbola](https://github.com/Ehmkayel)
