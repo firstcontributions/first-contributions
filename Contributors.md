@@ -23,6 +23,7 @@
 - [Gokul Nath](https://github.com/gokul8747)
 - Batman!
 - Robin!
+- Benson Kaunda
 - Dhruv Rawat from India
 - [Tati](https://github.com/nottheadmin)
 - [Chigozie Mbama](https://github.com/mbamamykel77)
