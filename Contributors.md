@@ -5942,6 +5942,7 @@ Kumar Kaji
 - [CYL-collab](https://github.com/CYL-collab)
   [Vaishnavi Dhole](https://github.com/vishhiy) 
 - calm coder
+- kCroDev
 - [XwenHaHa](https://github.com/XwenHaHa)
 - [Robson J](https://github.com/ORobsonJr)
 - [Kritan Tamrakar](https://github.com/MXMxRazer)
