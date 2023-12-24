@@ -49,14 +49,14 @@ git clone https://github.com/<this-is-you>/first-contributions.git
 ```bash
 cd first-contributions
 ```
-接下來使用 `git checkout` 命令建立一個程式碼分支：
+接下來使用 `git switch` 命令建立一個程式碼分支：
 ```bash
-git checkout -b <add-your-name>
+git switch -c <add-your-name>
 ```
 
 譬如：
 ```bash
-git checkout -b add-david
+git switch -c add-david
 ```
 
 （新分支的名稱不一定需要有 *add*。然而，在這個新分支的名稱加入 *add* 是一件合理的事情，因為這個分支的目的是將妳/你的名字添加到貢獻者列表中。）
