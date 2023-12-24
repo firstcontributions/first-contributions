@@ -34,8 +34,8 @@ git clone "刚才复制的 url 链接"
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 譬如：
-```
-git clone https://github.com/Github用户名/first-contributions.git
+```bash
+git clone https://github.com/<Github用户名>/first-contributions.git
 ```
 
 'Github 用户名' 指的是你的 Github 用户名。这一步，这个操作将会克隆你账户名下 first-contributions 这个代码仓库到本地电脑上。
@@ -44,17 +44,17 @@ git clone https://github.com/Github用户名/first-contributions.git
 
 在命令行窗口中把目录切换到 first-contributions
 
-```
+```bash
 cd first-contributions
 ```
-接下来使用 `git checkout` 命令新建一个代码分支
-```
-git checkout -b <新分支的名称>
+接下来使用 `git switch` 命令新建一个代码分支
+```bash
+git switch -c <新分支的名称>
 ```
 
 譬如：
-```
-git checkout -b add-myname
+```bash
+git switch -c add-myname
 ```
 
 (新分支的名称不一定需要有 *add*。然而，在新分支的名称加入 *add* 是一件合理的事情，因为这个分支的目的是将你的名字添加到列表中。)
@@ -65,12 +65,12 @@ git checkout -b add-myname
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-```
+```bash
 git add Contributors.md
 ```
 
 现在就可以使用 `git commit` 命令 commit 你的修改了。
-```
+```bash
 git commit -m "Add <你的名字> to Contributors list"
 ```
 将 `<你的名字>` 替换成你的名字
@@ -78,7 +78,7 @@ git commit -m "Add <你的名字> to Contributors list"
 ## 将改动 Push（推送）到 GitHub
 
 使用 `git push` 命令推送代码
-```
+```bash
 git push origin <分支的名称>
 ```
 将 `<分支的名称>` 替换为之前新建的分支名称。

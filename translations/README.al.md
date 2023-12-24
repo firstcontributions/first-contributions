@@ -62,11 +62,11 @@ Për shembull:
 git checkout -b add-filan-fisteku
 ```
 
-(Emri i degës nuk është e nevojshme të ketë fjalën _add_ në të, por është e arsyeshme të përfshihet pasi që qëllimi i kësaj dege është të shtojë emrin tënd në një listë.)
+(Emri i degës nuk është i nevojshëm të ketë fjalën _add_ në të, por është e arsyeshme të përfshihet pasi që qëllimi i kësaj dege është të shtojë emrin tënd në një listë.)
 
 ## Bëji ndryshimet e nevojshme dhe bëji commit
 
-Tani hap fajllin `Contributors.md` në një program për editim të tekstit dhe shto emrin tënd. Mos e shto në fillim ose në fund. Shtoje ku të duash në mes. Tani, ruaj fajllin.
+Tani hap dosjën `Contributors.md` në një program për editim të tekstit dhe shto emrin tënd. Mos e shto në fillim ose në fund. Shtoje ku të duash në mes. Tani, ruaj dosjën.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
@@ -96,13 +96,13 @@ git push origin <emri-i-degës-tënde>
 
 zëvendëso `<emri-i-degës-tënde>` me emrin e degës që krijove më herët.
 
-## Bëji ndryshimet submit për shqyrtim
+## Paraçiti ndryshimet për shqyrtim
 
 Nëse shkon te repozitori jot në GitHub, do të shohësh një buton `Compare & pull request`. Klikoje.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-Tani bëje submit këtë pull request.
+Tani paraqisni këtë kërkesë tërheqjeje.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
