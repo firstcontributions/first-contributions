@@ -1950,6 +1950,7 @@ harshal honde
 - [JW]
 - [nativ]
 - [Abhishek Mohan](https://github.com/AbhishekMohanKr)
+- [Kennedy Ekanem](https://github.com/KenEkanem)
 - [Seth Shoemaker] (https://github.com/SethShoemaker)
 - [Emily Good] (https://github.com/Egood55)
 - [Kazi S. Ahmed](https://github.com/kahmed-stack)
