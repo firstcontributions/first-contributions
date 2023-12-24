@@ -139,7 +139,6 @@ sara
 paramesh g v
 - Jimmy Wu
 - Manuel Preston
-- [Opeyemi Oduyemi](https://github.com/oduyemi)
 -[ Piyush Chopade ] 
 -[uliba3](https://github.com/uliba3)
 -[Ursula Tamen](https://github.com/Ursula100)
