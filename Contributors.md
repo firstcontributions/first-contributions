@@ -1002,7 +1002,6 @@ Rishabh Pandey
 - [Anshuman Nigam @DevSocPI](https://github.com/AnshumanNigam)
 - [Yam Timor](https://github.com/yamtimor)
 - [Victor Araujo](https://github.com/farvic)
-- [Aishat Muhammed](https://github.com/Aysha-py)
 - [Archishman Dash](https://www.github.com/aholic-archie)
 - [Om Patil]@DevsocPI
 - [Josy Li](https://github.com/josyliyh)
@@ -1032,6 +1031,7 @@ Rishabh Pandey
 - [Lien Font](https://github.com/90sPixelDev)
 - [Anuhya sabbani](https://github.com/anuhyasabbani)
 - [Bojidar Vladimirov](https://github.com/BojidarV)]
+- [Aishat Muhammed](https://github.com/Aysha-py)
 - [Vikhyat Gupta@DevsocPI](https://github.com/Vikhyat0908)
 - [sankarapandi](https://github.com/Sankarapandi-Murugan)
 - [Poyraz Bahcivan](https://github.com/poyrazbahcivan)
