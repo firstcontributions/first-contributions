@@ -687,6 +687,7 @@ Gabi Nelepcu
 - [Mashilo Kgaladi] (https://github.com/1Mashilo)
 - [Raj Singh Bhatia](https://github.com/rajsbhatia)
 - [Hunter Saine] (https://github.com/HunterSaine)
+- [Vaishvik Satyam] (https://github.com/Vaishvik-Satyam)
 - [Uwimana Lowami](https://github.com/Sonlowami)
 - [Javier Arias Hernández](https://github.com/JavierAriasH)
 - [Syed Dawood] (https://github.com/SyedDawood25)
