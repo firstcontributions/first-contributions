@@ -467,3 +467,4 @@
 - [Ihenacho Henry](https://github.com/henrychris)
 - [Sigireddy Viswesh](https://github.com/Viswesh934)
 - [Juan Jefry Ortega A](https://github.com/JuanJefry23)
+- [Yuchen Wang](https://github.com/yc-w-cn)
