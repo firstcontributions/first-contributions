@@ -940,6 +940,7 @@ Gabi Nelepcu
 - [Norhakim Shaharuddin](https://github.com/notnorhakim)
 - [Killerwattz-code] (https://github.com/Killerwattz-code)
 - [Jitae Moon] (https://github.com/jitae-moon)
+- [Christina Zhang] (https://github.com/Christina002128)
 - [Apurva Sarkar] (https://github.com/ApurvaSarkar)
 - [Isabelle](https://github.com/pwnedbyisa)
 - [Muhammad Rafay Irfan](https://github.com/OfficialGamer91023)
