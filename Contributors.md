@@ -1002,6 +1002,7 @@ Rishabh Pandey
 - [Anshuman Nigam @DevSocPI](https://github.com/AnshumanNigam)
 - [Yam Timor](https://github.com/yamtimor)
 - [Victor Araujo](https://github.com/farvic)
+- [Aishat Muhammed](https://github.com/Aysha-py)
 - [Archishman Dash](https://www.github.com/aholic-archie)
 - [Om Patil]@DevsocPI
 - [Josy Li](https://github.com/josyliyh)
