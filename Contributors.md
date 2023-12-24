@@ -5204,7 +5204,7 @@ Rashi Singh
 - [Tanisha Agarwal](https://github.com/Agrwaltanisha)
 - [Lillyann](https://github.com/lcelisse)
 - [Richmond Nyame](https://github.com/Nyame100)
-
+- [ThanushkumarRD](https://github.com/Thanush19)
 - [Abdourahmane Jalloh](https://github.com/aradradev)
 - [Avery Moore](https://github.com/Avery-Moore)
 - [pipTyrannical](https://github.com/piptyrannical)
@@ -5631,5 +5631,3 @@ Kumar Kaji
 - [Kiera Deppen] (https://github.com/KieMakesTheMST)
 - [Sand-David] (https://github.com/Sand-David)
 - [Galle](https://github.com/aizhen1412)
-- [ThanushkumarRD](https://github.com/Thanush19)
-- [ThanushkumarRD](https://github.com/Thanush19)
