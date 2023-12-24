@@ -3370,12 +3370,9 @@ Sino Felicity Zwane
 - [Omar Abdelgawad](https://github.com/omar-abdelgawad)
 - [Felipe Moriones](https://github.com/Moriones20)
 - [Yunis Aslan](https://github.com/YunisAslan)
-<<<<<<< HEAD
 - [Abhishek Lakade](https://github.com/abhishek-lakade)
 - [Jonathan Feehan](https://github.com/Feehanjt)
-=======
 - [MaxOfLondon](https://github.com/MaxOfLondon)
->>>>>>> def3c4b3862362fb3a1065f03d046d97b45ca9f9
 - [Daan V](https://github.com/banzaai)
 - [AKSHAY RAJ A](https://github.com/akshayraj999)
 - [drwho](https://github.com/drwho)
@@ -3764,8 +3761,12 @@ Nikhil R
 - [Nguyen Minh Chien](https://github.com/Chien179)
 - [Michael Seutin](https://github.com/MSeutin)
 - [Zezenta](https://github.com/Zezenta)
+<<<<<<< HEAD
 - [lulusaikou](https://github.com/lulusaikou)
 - [HighCritSoldier](https://github.com/HighCritSoldier)
+=======
+- [Abdrahimo](https://github.com/iabdrahim)
+>>>>>>> 2339953c2a22945ea43d4f6840a733722864c555
 - [Sawyer Nicastro](https://github.com/SawyerNic)
 - [Gaurav Bisht](https://github.com/iamgauravbisht)
 - [Praveen Y](https://github.com/yernenip)
@@ -5035,7 +5036,11 @@ Akash Abraham
 - [Yatee Singh](https://github.com/yatee-singh)
 - [Atharva Pardeshi](https://github.com/SazedWorldbringer)
 - [Khai Tran](https://github.com/minhkhai2005)
+<<<<<<< HEAD
 - [Calen Shirfield](https://github.com/CalenShirfield)
+=======
+  [Calen Shirfield](https://github.com/CalenShirfield)
+>>>>>>> 2339953c2a22945ea43d4f6840a733722864c555
 - [Aditya Patel](https://github.com/thepateladitya)
 - [Ling Xiao](https://github.com/lingxiao14122)
 - [Pongking](https://github.com/Pongking)
