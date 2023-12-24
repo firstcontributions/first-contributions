@@ -1,4 +1,5 @@
 # Contributors
+- [Walt Bringenberg](https://github.com/wwaltb)
 - [Dimple Jain](https://github.com/dimplehoney)
 - [Yogesh G](https://github.com/yogeshgunasekaran)
 - [Duc Dong](https://github.com/ducdongmg)
