@@ -197,7 +197,6 @@
 - [shilinwang](https://github.com/crzwzy)
 - [alekhine](https://github.com/Src0p)
 - [Mtendekuyokwa19](https://github.com/Mtendekuyokwa19)
-- [Nsikan Patrick Adaowo](https://github.com/NsikanPatrick)
 - [Watpo54](https://github.com/Watpo54)
 - [Enverhan Oksuz](https://github.com/enverhann)
 - [sognatoreZ](https://github.com/sognatoreZ)
@@ -464,3 +463,4 @@
 - [Gloria](https://github.com/Lado-Gloria)
 - [Ihenacho Henry](https://github.com/henrychris)
 - [Sigireddy Viswesh](https://github.com/Viswesh934)
+- [Nsikan Patrick Adaowo](https://github.com/NsikanPatrick)
