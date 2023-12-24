@@ -364,6 +364,7 @@ Balraj
 - [Ugochukwu Benjamin](https://github.com/biggbhen)
 - [Aritra Karmakar](https://github.com/Dark-Knight-Avi)
 - [Jose Rubio](https://github.com/josrubfer)
+- [Vimal Manoharan](https://github.com/vimal004)
 - [Konstantinos Alvertis](https://github.com/katmaiwalker)
 - [Muhammed Labeeb U](https://github.com/Ladoxer)
 - [Vimal Manoharan](https://github.com/vimal004)
@@ -391,6 +392,7 @@ Balraj
 - [Hardik Jogadia] (https://github.com/hardikjogadia)
 - [Raj Mayekar](https://github.com/MayekarRaj)
 - [Akshika Jain]
+- [Ali Heydaripour](https://github.com/Alihyp)
 - [Lucas Amberg](https://github.com/lucas-amberg)
 - [Yashwanth Kothakota](https://github.com/yashwanthkothakota9)
 - [Solomon Asregdew](https://github.com/SolomonAHailu)
