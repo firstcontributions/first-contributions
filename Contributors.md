@@ -720,6 +720,7 @@ Gabi Nelepcu
 - [Nath Hiccup](https://github.com/Nath-Hiccup)
 - [Motlatsi Moea](https://github.com/motlatsimoea)
 - [Rich Kevan](https://github.com/richkevan)
+- [Jimoh Sikiru Adebayo](https://github.com/jimoh1990)
 - [Alexandre Boungnarith](https://github.com/sirijiji)
 - [Harsh Mehta](https://github.com/HarzhMehta)
 - [Ryan Beert](https://github.com/rbeert)
