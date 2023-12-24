@@ -113,6 +113,7 @@
 -[Faruq Ahmed Olaitan](https://github.com/Fahmedo)
 -[Cyberverse2](https://github.com/Cyberverse2)
 -[lamceol](https://github.com/lamceol)
+-[Hayden Lalljie](https://github.com/hlalljie)
 -[Oluwapelumi Adejumo]
 -[Abhigyan Ranjan](https://github.com/Abhigyan-RA)
 -[Abhishek Kumar](https://github.com/ima-bhi)
