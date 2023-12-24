@@ -9,6 +9,8 @@
 
 你可以通过阅读文章和观看教程来得到帮助，但上手实操才是最好的学习方式。本项目旨在简化并指导初学者参与他们的第一次开源。记住：过程越轻松，学习效益越高。如果你想要做出第一次贡献，只需按照以下简单步骤操作即可。这将会是一个很有趣的过程 :)
 
+_如果你不习惯命令行，[这里有图形界面工具的教程。](#使用其他工具的教程)_
+
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 如果你的电脑上未安装 git, 请参考 [GitHub 文档](https://docs.github.com/cn/get-started/quickstart/set-up-git) 进行安装。
