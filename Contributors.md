@@ -5494,6 +5494,7 @@ Rashi Singh
 - [Lillyann](https://github.com/lcelisse)
 - [Richmond Nyame](https://github.com/Nyame100)
 - [Ansh Saxena]
+- [ThanushkumarRD](https://github.com/Thanush19)
 - [Abdourahmane Jalloh](https://github.com/aradradev)
 - [Avery Moore](https://github.com/Avery-Moore)
 - [pipTyrannical](https://github.com/piptyrannical)
