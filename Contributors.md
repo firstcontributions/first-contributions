@@ -742,6 +742,7 @@ Gabi Nelepcu
 - [Kamran Zafar]
 [Neeraj Kumar] (https://github.com/dacharch)
 - [Hari Aravind ](https://github.com/HariAr2)
+- [Auron Vila](https://github.com/auronvila)
 - [P-P-P-Pablo](https://github.com/P-P-P-Pablo)
 - [g2d]
 - [Nath Hiccup](https://github.com/Nath-Hiccup)
