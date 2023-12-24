@@ -91,6 +91,7 @@
 - [root-Manas](https:/github.com/root-Manas)
 - [Izzy](https://github.com/IzzyPrime)
 - [Peytonjc](https://github.com/peytonjc)
+- [jrTilak](https://github.com/jrTilak)
 - [Xianyxu](https://github.com/xianyxu)
 - [jerjjj](https://github.com/jerjjj)
 - [raphaeling](https://github.com/raphaeling)
