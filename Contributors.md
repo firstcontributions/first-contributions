@@ -34,6 +34,7 @@
 - [Dastageer HC](https://github.com/dastageer-hc)
 - [Serhat Bağlam](https://github.com/Rserhat01)
 - [MK Saba](https://github.com/mksaba)
+- [Garfield](https://github.com/jiafie7)
 - [MohammadKad](https://github.com/mohammadkad)
 - [Aniket Negi](https://github.com/theaniketnegi)
 - [Kamari M.](https://github.com/Kamari93)
