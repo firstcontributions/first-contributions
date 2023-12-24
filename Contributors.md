@@ -229,6 +229,7 @@
 - [Paul Ragsac](https://github.com/Chifuuyu)
 - [Nguyễn ĝức Khải](https://github.com/KhaiNguyenDuc)
 - [Navin Kumar](https://github.com/ns-0437)
+- [Sahil Saini](https://github.com/sahil-saini28)
 - [James Ngugi](https://github.com/JamesK254)
 - [M Abdul Azeez](https://github.com/Abdul-Azeez060)
 - [Abdul Azeez](https://github.com/Abdul-Azeez060)
