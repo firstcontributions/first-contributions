@@ -24,6 +24,7 @@
 - [Christine Okoth](https://github.com/chriss1525)
 - [Toyin Muhammed](https://github.com/Toyin5)
 - Utsav
+- [Adegbite Moyomade](https://github.com/Moyo-Made)
 - Abhinav Gugulothu
 - [Ismail Akintunde](https://github.com/homoakin619)
 - [Sahil Nayak](https://github.com/ogsahil)
