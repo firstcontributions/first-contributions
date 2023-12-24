@@ -212,7 +212,8 @@
 - [Antony Nyagah](https://github.com/tony-nyagah)
 - [Paul Lornez](https://github.com/realPJL)
 - [vivienogoun](https://github.com/vivienogoun)
-- [Arya Sharma] (https://github.com/aarya626)
+- [Arya Sharma](https://github.com/aarya626)
+- Flesier
 - [Soumik-Mitra] (https://github.com/Soumik29)
 - [NameRectified](https://github.com/NameRectified)
 - [ESS lam] (https://github.com/ess-lam)
