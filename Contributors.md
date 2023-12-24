@@ -6004,3 +6004,6 @@ Kumar Kaji
 - [Yang Guo (Eric)](https://github.com/YangGuo57)
 - [Shuvkant Phanait](https://github.com/shuvkant)
 - [Madhuri Agarwal] (https://github.aexp.com/magar51)
+- [Yuval Azachi](https://github.com/yuvalaza)
+- [medzo-kali](https://github.com/medzo-kali)
+- [Nicholas Garbutt] (https://github.com/Nicholas-Garbutt)
