@@ -318,6 +318,7 @@
 - [mthomsn](https://github.com/mthomsn/mthomsn)sabe
 - [Tanisha Agarwal](https://github.com/Agrwaltanisha)
 - [alice](https://github.com/aherston)
+- [Samuel dunamis](https://github.com/dunamislimitless)
 - [Lillyann](https://github.com/lcelisse)
 - [Richmond Nyame](https://github.com/Nyame100)
 - [ThanushkumarRD](https://github.com/Thanush19)
