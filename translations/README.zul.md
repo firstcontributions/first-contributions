@@ -31,7 +31,7 @@ Manje faka i-repo efakwe emshini wakho kumshini wakho. Yiya ku-akhawunti yakho y
 
 Vula i-console bese ugijima umyalo we-git:
 
-```
+```bash
 git clone "url you just copied"
 ```
 lapho "u-url osuvele ukopishe khona" (ngaphandle kwama-quote marks) yi-url kule ndawo yokugcina (ifomu lakho lephrojekthi). Bona izinyathelo zangaphambilini ukuthola i-url.
@@ -41,7 +41,7 @@ lapho "u-url osuvele ukopishe khona" (ngaphandle kwama-quote marks) yi-url kule 
 
 Ngokwesibonelo:
 
-```
+```bash
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
@@ -51,19 +51,19 @@ iphi this-is-youigama lomsebenzisi lakho le-GitHub. Lapha ukopisha okuqukethwe k
 
 Shintsha kwirekhodi lokugcina ekhompyutheni yakho (uma ungasekho kakade):
 
-```
+```bash
 cd first-contributions
 ```
 
 Manje dala igatsha usebenzisa  `git checkout` umyalo:
 
-```
+```bash
 git checkout -b <add-igama lakho>
 ```
 
 Ngokwesibonelo
 
-```
+```bash
 git checkout -b engeza-adam-kowalski
 ```
 (Igama legatsha ayidingi ukuba izwi engeza kuwo, kodwa into enengqondo ukufaka ngoba inhloso yaleli gatsha ukwengeza igama lakho uhlu.)
@@ -79,13 +79,13 @@ Uma uya encwadini yomhlahlandlela bese wenza umyalo  `git status`, uzobona kukho
 
 Engeza lezo zinguquko egatsheni owake wadala usebenzisa `git add` umyalo:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Manje yenza lezo zinguquko usebenzisa `git commit` umyalo:
 
-```
+```bash
 git commit -m "Add <your-name> to Contributors list"
 ```
 
@@ -95,7 +95,7 @@ ukufaka esikhundleni `<your-name>` ngegama lakho.
 
 Pushisa izinguquko zakho usebenzisa umyalo `git push`:
 
-```
+```bash
 git push origin <add-your-branch-name>
 ```
 
