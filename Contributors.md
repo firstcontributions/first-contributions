@@ -33,6 +33,7 @@
 - [joejoeelephant](https://github.com/joejoeelephant)
 - [Dastageer HC](https://github.com/dastageer-hc)
 - [Serhat Bağlam](https://github.com/Rserhat01)
+- [Tim Maingi](https://github.com/Merch7x) 
 - [MK Saba](https://github.com/mksaba)
 - [Garfield](https://github.com/jiafie7)
 - [MohammadKad](https://github.com/mohammadkad)
