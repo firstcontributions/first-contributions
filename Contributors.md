@@ -3327,7 +3327,10 @@ Sino Felicity Zwane
 - [Jo Galeon](https://github.com/jogaleon)
 - [Amit singh](https://github.com/technicalamit8055)
 - [Devon Dixon] (https://github.com/DevonTD)
+<<<<<<< HEAD
 - [kazeem taiwo] (https://github.com/alevel7)
+=======
+>>>>>>> def3c4b3862362fb3a1065f03d046d97b45ca9f9
 - [rivera]
 - [John Ly] (https://github.com/johnly17)
 - [CJ Bauzon](https://github.com/cbauzon)
@@ -3369,8 +3372,12 @@ Sino Felicity Zwane
 - [Omar Abdelgawad](https://github.com/omar-abdelgawad)
 - [Felipe Moriones](https://github.com/Moriones20)
 - [Yunis Aslan](https://github.com/YunisAslan)
+<<<<<<< HEAD
 - [Abhishek Lakade](https://github.com/abhishek-lakade)
 - [Jonathan Feehan](https://github.com/Feehanjt)
+=======
+- [MaxOfLondon](https://github.com/MaxOfLondon)
+>>>>>>> def3c4b3862362fb3a1065f03d046d97b45ca9f9
 - [Daan V](https://github.com/banzaai)
 - [AKSHAY RAJ A](https://github.com/akshayraj999)
 - [drwho](https://github.com/drwho)
