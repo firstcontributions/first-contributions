@@ -308,6 +308,7 @@ kunal
 - [Olawale Olaifa](https://github.com/wahlly)
 - [Sohaib Khan] (https://github.com/Sohaibgit)
 - [Yaksh Gandhi] (https://github.com/yaksh1)
+- [Xiaolei Li](https://github.com/lxlgarnett)
 - [Akhil K](https://github.com/akhil0903)
 - [Abdulbasit Hussain] (https://github.com/abdulbasit0-UI)
 - [Tristan Ellenberg](https://github.com/RauliYoung)
