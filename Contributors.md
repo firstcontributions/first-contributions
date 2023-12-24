@@ -7,6 +7,7 @@
 - [Charley Yoshi](https://github.com/charleyoshi)
 - [Paul Lee](https://github.com/plee30)
 - [Jatin Kalra](https://github.com/jatinkalra17)
+- [Aditya Shibu](https://github.com/adwii-iii)
 - [Amna Ahmed](https://github.com/nono5342)
 - [Shreyes Gadwalkar](https://github.com/ShreyesGadwalkar)
 - [Namit Saxena](https://github.com/oddball1123)
