@@ -1266,6 +1266,7 @@ Brent L
 - [Diego Suntaxi](https://github.com/Tubaher)
 - [Shubham Kambire](https://github.com/ShubhamKambire)
 - [Jade Vieval](https://github.com/jadevvl)
+- [Kennedy Ekanem](https://github.com/KenEkanem)
 - [Abhyanand](https://github.com/OneFriendlyCoder)
 - [Adhiraj](https://github.com/xraymaverick)
 - [William](https://github.com/alfabeat)
