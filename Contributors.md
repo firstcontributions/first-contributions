@@ -123,6 +123,7 @@
 - [Flyaway](https://github.com/kayua27)
 - [Eyal-Haimov](htpps://github.com/blindka)
 - [Alan](https://github.com/AlanThisis)
+- [Rahul Jindal](https://github.com/rahuljindal1)
 - [Art Villareal](https://github.com/Bushido-Art)
 - [Daniel Kaijzer](https://github.com/danielkaijzer)
 - [Ephraim Beltran](https://github.com/ephraim-beltran)
