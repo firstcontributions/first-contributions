@@ -186,6 +186,7 @@
 - [Prabel](https://github.com/HiPrabel)
 - [Ridhi Priya](https://github.com/Ridhi-priya)
 - [Deepak Saini](https://github.com/dipaksaini98)
+- [Nsikan Patrick Adaowo](https://github.com/NsikanPatrick)
 - [Valentyn Chernetskyi](https://github.com/Valik3201)
 - [solola David](https://github.com/LetcodeitwithDave)
 - [Grace Kim](https://github.com/gracekim1217)
@@ -463,4 +464,3 @@
 - [Gloria](https://github.com/Lado-Gloria)
 - [Ihenacho Henry](https://github.com/henrychris)
 - [Sigireddy Viswesh](https://github.com/Viswesh934)
-- [Nsikan Patrick Adaowo](https://github.com/NsikanPatrick)
