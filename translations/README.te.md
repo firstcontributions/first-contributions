@@ -31,14 +31,14 @@
 ఇప్పుడు మీ కంప్యూటరులో ఫోర్క్ రిపోను క్లోన్ చేయండి. మీ GitHub ఖాతాకు వెళ్లండి, ఫోర్క్ రెపోని తెరిచి, క్లోన్ బటన్పై క్లిక్ చేసి, ఆపై * కాపీ * క్లిప్బోర్డ్కు క్లిక్ చేయండి.
 
 టెర్మినల్ తెరిచి కింది git ఆదేశాన్ని అమలు చేయండి:
-```
+```bash
 git clone "url మీరు కాపీ చేసారు"
 ```
 ఇక్కడ "url మీరు కాపీ" (కోట్ మార్కులు లేకుండా) ఈ రిపోజిటరీ కు URL (ఈ ప్రాజెక్టు మీ ఫోర్క్). Url ను పొందడానికి మునుపటి దశలను చూడండి.
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 ఉదాహరణకి:
-```
+```bash
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 ఇక్కడ 'this-is-you' మీ GitHub వినియోగదారు పేరు. ఇక్కడ మీరు మొదటి-రచన రిపోజిటరీ యొక్క కంటెంట్లను GitHub లో మీ కంప్యూటర్కు కాపీ చేస్తున్నారు.
@@ -47,14 +47,14 @@ git clone https://github.com/this-is-you/first-contributions.git
 
 మీ కంప్యూటర్లో రిపోజిటరీ డైరెక్టరీకి మార్చండి (మీరు ఇప్పటికే లేకపోతే):
 
-```
+```bash
 cd first-contributions
 ```
 ఇప్పుడు 'git checkout' ఆదేశం ఉపయోగించి ఒక శాఖను సృష్టించండి:
 
 
 ఉదాహరణకి:
-```
+```bash
 git checkout -b add-alonzo-church
 ```
 (బ్రాంచ్ యొక్క పేరు దానిలో పదం * add * ను కలిగి ఉండవలసిన అవసరం లేదు, కానీ చేర్చడానికి సహేతుకమైన విషయం ఎందుకంటే ఈ శాఖ యొక్క ఉద్దేశ్యం జాబితాకు మీ పేరును జోడించడం.)
@@ -69,12 +69,12 @@ git checkout -b add-alonzo-church
 మీరు ప్రాజెక్ట్ డైరెక్టరీకి వెళ్లి `git status` ఆదేశాన్ని అమలు చేస్తే, మార్పులు ఉన్నాయి అని మీరు చూస్తారు.
 
 `Git add` కమాండ్ను ఉపయోగించి మీరు సృష్టించిన బ్రాంచ్లో ఈ మార్పులను జోడించండి:
-```
+```bash
 git add Contributors.md
 ```
 
 ఇప్పుడు ఆ మార్పులను 'git commit' ఆదేశం ఉపయోగించి కట్టుకోండి:
-```
+```bash
 git commit -m "Add <your-name> to Contributors list"
 ```
 `<your-name>` తొలగించు మరియు మీ పేరును జోడించండి.
@@ -82,7 +82,7 @@ git commit -m "Add <your-name> to Contributors list"
 ## మార్పులను GitHub కు పంపండి
 
 కమాండ్ ఉపయోగించి మీ మార్పులను పంపండి `git push`:
-```
+```bash
 git push origin <add-your-branch-name>
 ```
 మీరు ముందుగా సృష్టించిన బ్రాంచీ పేరుతో `<add-your-branch-name>` ను జోడించుము.
