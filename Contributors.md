@@ -6000,3 +6000,5 @@ Kumar Kaji
 - [Adam](https://github.com/itzadamh)
 - [Tony Nguyen](https://github.com/pokiecake)
 - [Yang Guo (Eric)](https://github.com/YangGuo57)
+- [Shuvkant Phanait](https://github.com/shuvkant)
+- [Madhuri Agarwal] (https://github.aexp.com/magar51)
