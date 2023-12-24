@@ -4545,7 +4545,9 @@ Nikhil R
 - [Jarren Juan](https://github.com/JarrenJuan)
 - [ajTronic](https://github.com/ajTronic)
 - [Phatan5layer](https://github.com/Phatan5layer)
-- [Bo Jangles](https://github.com/Bo-Jangles)https://github.com/Krushna-Nanda/first-contributions.githttps://github.com/Krushna-Nanda/first-contributions.git
+- [Bo Jangles](https://github.com/Bo-Jangles)
+- https://github.com/Krushna-Nanda/first-contributions.git
+- [Ricky Nguyen](https://github.com/nguyrick)
 - [Rafael Gomes](https://github.com/rafaelfagomes)
 - [Lewis Rye](https://github.com/LewisRye)
 - [philipAthanasopoulos](https://github.com/philipAthanasopoulos)
