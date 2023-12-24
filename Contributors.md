@@ -470,4 +470,4 @@
 - [Sigireddy Viswesh](https://github.com/Viswesh934)
 - [Juan Jefry Ortega A](https://github.com/JuanJefry23)
 - [Jagadeesh B Mothiki](https://github.com/jbmothiki)
-- [Rishab Yadav](https://github.com/plexy1)
+- [Rishab Yadav](https://github.com/Plexy1)
