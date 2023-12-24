@@ -2,6 +2,7 @@
 - [Dimple Jain](https://github.com/dimplehoney)
 - [Yogesh G](https://github.com/yogeshgunasekaran)
 - [Duc Dong](https://github.com/ducdongmg)
+- [Charley Yoshi](https://github.com/charleyoshi)
 - [Paul Lee](https://github.com/plee30)
 - [Amna Ahmed](https://github.com/nono5342)
 - [Shreyes Gadwalkar](https://github.com/ShreyesGadwalkar)
