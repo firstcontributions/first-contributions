@@ -3346,6 +3346,7 @@ Sino Felicity Zwane
 - [steve3535](https://github.com/steve3535)
 - [ShivaPatel](https://github.com/Patelshiva000)
 - [Deepu](https://github.com/blackbeard002)
+- [Moreno Seijsener](https://github.com/Milagro2)
 - [Percival Aceron](https://github.com/perci-aceron)
 - [Aditya](https://github.com/adityasd314)
 - [Abbas](https://github.com/abbasfurniturewala)
