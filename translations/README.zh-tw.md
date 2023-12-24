@@ -28,7 +28,7 @@
 
 隨後打開命令列視窗，鍵入如下 git 命令：
 
-```
+```bash
 git clone "url you just copied"
 ```
 "url you just copied"（去掉雙引號）就是複製到妳/你帳戶名下的儲存庫地址。取得這鏈接地址的方法請見上一步。
@@ -36,8 +36,8 @@ git clone "url you just copied"
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 譬如：
-```
-git clone https://github.com/this-is-you/first-contributions.git
+```bash
+git clone https://github.com/<this-is-you>/first-contributions.git
 ```
 
 'this-is-you' 指的就是你/妳自己的 GitHub 用戶名。這一步，會將你/妳的 first-contributions 儲存庫複製到你的電腦上。
@@ -46,17 +46,17 @@ git clone https://github.com/this-is-you/first-contributions.git
 
 下面的命令能在命令行窗口中，把目錄切換到 first-contributions。
 
-```
+```bash
 cd first-contributions
 ```
-接下來使用 `git checkout` 命令建立一個程式碼分支：
-```
-git checkout -b <add-your-name>
+接下來使用 `git switch` 命令建立一個程式碼分支：
+```bash
+git switch -c <add-your-name>
 ```
 
 譬如：
-```
-git checkout -b add-david
+```bash
+git switch -c add-david
 ```
 
 （新分支的名稱不一定需要有 *add*。然而，在這個新分支的名稱加入 *add* 是一件合理的事情，因為這個分支的目的是將妳/你的名字添加到貢獻者列表中。）
@@ -67,12 +67,12 @@ git checkout -b add-david
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-```
+```bash
 git add Contributors.md
 ```
 
 現在就可以使用 `git commit` 命令 commit（提交）你/妳的修改了。
-```
+```bash
 git commit -m "Add <your-name> to Contributors list"
 ```
 將 `<your-name>` 替換為自己的名字
@@ -80,7 +80,7 @@ git commit -m "Add <your-name> to Contributors list"
 ## 將更動發佈（Push）到 GitHub
 
 使用 `git push` 命令發佈代碼
-```
+```bash
 git push origin <add-your-name>
 ```
 將 `<add-your-name>` 替換為之前新建的分支名稱。
