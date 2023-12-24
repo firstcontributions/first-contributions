@@ -3328,10 +3328,7 @@ Sino Felicity Zwane
 - [Jo Galeon](https://github.com/jogaleon)
 - [Amit singh](https://github.com/technicalamit8055)
 - [Devon Dixon] (https://github.com/DevonTD)
-<<<<<<< HEAD
 - [kazeem taiwo] (https://github.com/alevel7)
-=======
->>>>>>> def3c4b3862362fb3a1065f03d046d97b45ca9f9
 - [rivera]
 - [John Ly] (https://github.com/johnly17)
 - [CJ Bauzon](https://github.com/cbauzon)
@@ -3833,6 +3830,7 @@ Nikhil R
 - [Aidan Roraback](https://github.com/Meester-Moo)
 - [Rudson Emanoel](https://github.com/RudsonE)
 - [AlbertHoxha](https://github.com/alberthoxha)
+<<<<<<< HEAD
 - [Johnny]
 - [David Shonack]
 - [sampath-dev](https://github.com/Sampath-Sy)
@@ -3845,6 +3843,11 @@ Nikhil R
 - [Awofiranye Sherif](https://github.com/iAmSherifCodes)
 - [Devang Yadav](https://github.com/DevangYv-999)
 - [Vishwajeet Sharma](https://github.com/vishusharmaX)
+=======
+- Johnny
+- Isaias Cuvula
+- [Lyu You](https://github.com/HelloBug1)
+>>>>>>> 4d4dfaaa20a99bf474450dde91c3e8ec5d4a1f55
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
 - [Niranjan B.](https://github.com/niranjan-19)
 - [ZlatislavZ](https://github.com/ZlatislavZ)
