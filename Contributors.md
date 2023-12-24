@@ -197,6 +197,7 @@
 - [shilinwang](https://github.com/crzwzy)
 - [alekhine](https://github.com/Src0p)
 - [Mtendekuyokwa19](https://github.com/Mtendekuyokwa19)
+- [Nsikan Patrick Adaowo](https://github.com/NsikanPatrick)
 - [Watpo54](https://github.com/Watpo54)
 - [Enverhan Oksuz](https://github.com/enverhann)
 - [sognatoreZ](https://github.com/sognatoreZ)
