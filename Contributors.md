@@ -43,6 +43,7 @@
 - [Amanze](https://github.com/Gospel-c)
 - [Tosin Adewale](https://github.com/tosmel2)
 - [Evangeline Mmayie](https://github.com/EbubeEvan)
+- [Peter Wang](https://github.com/itspetah)
 - Big_Ben(https://github.com/BigBen-7)
 -[Suprith Varma Brahmarauthu] (https://github.com/Suprithvarma1)
 - Mayank Sharma(https://github.com/mxyxnk518)
