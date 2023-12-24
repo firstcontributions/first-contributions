@@ -9,7 +9,7 @@
 - [StathisKons](https://github.com/StathisKons)
 - [Alex Oyebamiji](https://github.com/lex043)
 - [Alhoussen TRAORE](https://github.com/Alhoussen)
-- 
+- [Sarah] (https://github.com/Sarahm458)
 - [Ridwanullah Baruwa](https://github.com/DanonymousCoder)
 - 
   [SREEKAKULAM LOHITH](https://github.com/SreekakulamLohith)
@@ -1986,6 +1986,7 @@ harshal honde
 - [Suhiteswar](https://github.com/suhit123)
 - [Minjae Lee](https://github.com/minleejae)
 - [7oda]tss
+- [Vitaly Samonov](https://github.com/vitalysmnv)
 - [Micha Briskman](https://github.com/MichaBriskman)
 - [Riyaz](https://github.com/Riyaz6121)
 - [Riz]
