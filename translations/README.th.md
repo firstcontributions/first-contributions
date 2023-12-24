@@ -31,7 +31,7 @@
 
 เปิดโปรแกรมเทอร์มินอลในเครื่อง (เช่น Terminal ใน MacOS หรือ cmd ใน Windows) แล้วรันคำสั่ง git ต่อไปนี้:
 
-```
+```bash
 git clone "url ที่คัดลอกไว้"
 ```
 "url ที่คัดลอกไว้" (ไม่ต้องใส่ " ") คือ url ของโปรเจ็คของคุณ คุณสามารถเลื่อนกลับไปดูวิธีการคัดลอก url ได้จากหัวข้อก่อนหน้านี้
@@ -39,7 +39,7 @@ git clone "url ที่คัดลอกไว้"
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 ตัวอย่าง:
-```
+```bash
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 `this-is-you` คือชื่อ username ของคุณบน GitHub ถึงตรงนี้คุณได้ "Clone" โปรเจ็ค first-contributions ไปไว้ที่คอมพิวเตอร์ของคุณแล้ว
@@ -48,16 +48,16 @@ git clone https://github.com/this-is-you/first-contributions.git
 
 ในโปรแกรมเทอร์มินอล เปลี่ยน directory ไปยังที่ที่คุณได้ Clone โปรเจ็คไว้:
 
-```
+```bash
 cd first-contributions
 ```
 ตรงนี้ให้สร้าง branch (แตกกิ่งการทำงานใหม่) ด้วยคำสั่ง `git checkout`:
-```
+```bash
 git checkout -b <ชื่อ branch>
 ```
 
 ตัวอย่าง:
-```
+```bash
 git checkout -b add-alonzo-church
 ```
 (ปกติชื่อของ branch ไม่จำเป็นต้องมีคำว่า *add* แต่ในโปรเจ็คนี้อยากให้ใช้ add-ชื่อ-ของ-คุณ เพราะชื่อของคุณจะไปแสดงอยู่ในรายชื่อ Contributors (ผู้เข้าร่วม) ของโปรเจ็คนี้
@@ -71,12 +71,12 @@ git checkout -b add-alonzo-church
 ในโปรแกรมเทอร์มินอล ถ้าคุณอยู่ที่ directory ของโปรเจ็ค ให้ลองพิมพ์คำสั่ง `git status` จะเห็นว่าคุณได้ทำการเปลี่ยนอะไรไปบ้าง
 
 เพิ่มการเปลี่ยนแปลงนั้น ๆ เข้าไปใน branch ที่เพิ่งสร้าง ด้วยคำสั่ง `git add`:
-```
+```bash
 git add Contributors.md
 ```
 
 ตอนนี้ "Commit" การเปลี่ยนแปลงนั้น ๆ ด้วยคำสั่ง `git commit`:
-```
+```bash
 git commit -m "Add <ชื่อของคุณ> to Contributors list"
 ```
 แทนที่ `<ชื่อของคุณ>` ด้วยชื่อจริง ๆ ของคุณ.
@@ -84,7 +84,7 @@ git commit -m "Add <ชื่อของคุณ> to Contributors list"
 ## "Push" โค้ดที่เปลี่ยนไปขึ้นบน GitHub
 
 "Push" ผลงานที่คุณทำเมื่อกี้นี้ขึ้น GitHub ด้วยคำสั่ง `git push`:
-```
+```bash
 git push origin <ชื่อ branch ของคุณ>
 ```
 แทนที่ `<ชื่อ branch ของคุณ>` ด้วยชื่อของ branch ของคุณที่เพิ่งสร้างไปเมื่อหัวข้อที่แล้ว ๆ (add-ชื่อ-ของ-คุณ)
