@@ -295,6 +295,7 @@
 - [Sagar Negi](https://github.com/sxxrfx)
 - [mthomsn](https://github.com/mthomsn/mthomsn)sabe
 - [Tanisha Agarwal](https://github.com/Agrwaltanisha)
+- [alice](https://github.com/aherston)
 - [Lillyann](https://github.com/lcelisse)
 - [Richmond Nyame](https://github.com/Nyame100)
 - [ThanushkumarRD](https://github.com/Thanush19)
