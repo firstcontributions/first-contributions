@@ -43,6 +43,7 @@
 - [Serhat Bağlam](https://github.com/Rserhat01)
 - [Kennedy Ekanem](https://github.com/KenEkanem)
 - [Edmond Prin] (https://github.com/edmondprin)
+- [Juliet Ofoegbu](https://github.com/OmaJuliet)
 - [jaroslaw1](https://github.com/iaroslaw1)
 - [Tim Maingi](https://github.com/Merch7x) 
 - [MK Saba](https://github.com/mksaba)
