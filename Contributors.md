@@ -22,6 +22,7 @@ w# Contributors
 - [Ashley Mical](https://github.com/micamash)
 - [Biswajit Mishra](https://github.com/cxbiswajit)
 - [Mohith N](https://github.com/Mhith)
+[Promise Nwankwo](https://github.com/giftedpromise)
 - [Osayeme O](https://github.com/Osayeme)
 -[M Abdullah](https://github.com/Muhammad-Abdullah-13)
 - [ababa amr] (https://github.com/a-amr)
