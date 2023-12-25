@@ -440,6 +440,7 @@
 - [Pongpatapee (Dan) Peerapatanapokin](https://github.com/pongpatapee)
 - [Jia Yuqi](https://github.com/j541443699)
 - [Sanchay Kasturey](https://github.com/sanchaykasturey)
+- [Kuldeep Singh](https://github.com/kuldeep6445)
 - [Curtis To](https://github.com/tourist-C)
 - [Josh Davidson](https://github.com/JDavidson00)
 - [Vinicius Ribeiro](https://github.com/vini-rbeiro)
@@ -520,3 +521,4 @@
 - [Avijit Manna](https://github.com/manna-avijit)
 - [AwxChen](https://github.com/AwxChen)
 - [Rupom](https://github.com/RupomChowdhury)
+
