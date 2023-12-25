@@ -286,6 +286,7 @@
 - [Ross Woods](https://github.com/RossCWoods)
 - [Ray Mercedes](https://github.com/coolrey3)
 - [DS-X1](https://github.com/DS-X1)
+- [Vytor Rennan Alves Carvalho](https://github.com/vytorrennan)
 - [Ethan Eckert](https://github.com/eth9n-dev)
 - [Dheeraj Pande](https://github.com/dheerajpande)
 - [John Paul Larkin](https://github.com/Fishamble)
