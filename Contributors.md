@@ -1,6 +1,7 @@
 # Contributors
 
 - [Sree Vardhan]
+- [Arnav Gupta]
 - [Looki](https://github.com/Looki-fr)
 - [Sourabh Kr. Rajput](https://github.com/Sourabh-Kr-Rajput)
 - [Walt Bringenberg](https://github.com/wwaltb)
