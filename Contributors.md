@@ -8,6 +8,7 @@
 - [HosamEldeen Reda](https://github.com/hosamr)
 - [Ogunleye](https://github.com/ogunleye0720)
 - [Yogesh G](https://github.com/yogeshgunasekaran)
+- [Abdirashid Mowlid](https://github.com/Abdirashid-dv)
 - [Duc Dong](https://github.com/ducdongmg)
 - [Charley Yoshi](https://github.com/charleyoshi)
 - [Paul Lee](https://github.com/plee30)
