@@ -1,5 +1,4 @@
-# Contributors:wq
-
+# Contributors
 
 - [Sree Vardhan]
 - [Arnav Gupta]
