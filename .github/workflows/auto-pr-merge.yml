@@ -16,7 +16,7 @@ jobs:
     steps:
       # Check out the repository code
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           ref: ${{ github.event.pull_request.head.sha }}
           fetch-depth: 2
@@ -59,7 +59,7 @@ jobs:
       - name: Merge PR
         id: merge_pr
         if: env.only_contributors == 'true' && env.one_line_change == 'true'
-        uses: actions/github-script@v5
+        uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
@@ -183,7 +183,7 @@ jobs:
       - name: Post comment on PR if not merged automatically
         # Check if the pull request only modifies the CONTRIBUTORS.md file
         if: env.only_contributors != 'true'
-        uses: actions/github-script@v5
+        uses: actions/github-script@v6
         with:
           script: |
             // get the existing comments.
