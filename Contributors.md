@@ -514,5 +514,6 @@
 - [Nsikan Patrick Adaowo](https://github.com/NsikanPatrick)
 - [Om] (https://github.com/omdwid)
 - [Ashwanth R Kumar](https://github.com/ashwanthrkumar)
+- [Avinash](https://github.com/avinash-550)
 - [Avijit Manna](https://github.com/manna-avijit)
 - [AwxChen](https://github.com/AwxChen)
