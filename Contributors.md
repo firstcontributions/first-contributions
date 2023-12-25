@@ -323,6 +323,7 @@
 - [medzo-kali](https://github.com/medzo-kali)
 - [Timothy Bukowski](https://github.com/Whitefire000)
 - [Nicholas Garbutt](https://github.com/Nicholas-Garbutt)
+- [Felipe Arruda](https://github.com/FelipeArruda)
 - [William-D-Miller-Jr-AKA-王比尔](https://github.com/bijiyiqi2017)
 - [Carlo Inserra](https://github.com/Carleoinserra)
 - [kaif-khan](https://github.com/shadowfaxx1)
