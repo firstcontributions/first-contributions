@@ -42,6 +42,7 @@
 - [Kennedy Ekanem](https://github.com/KenEkanem)
 - [Edmond Prin] (https://github.com/edmondprin)
 - [Klade] (https://github.com/KladeRe)
+- [Sachin Maurya](https://github.com/maurya-sachin)
 - [drrrrKim](https://github.com/drrrrKim)
 - [Tunde Wey](https://github.com/Peter-TMK)
 - [Tim Maingi](https://github.com/Merch7x) 
