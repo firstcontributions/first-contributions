@@ -128,7 +128,7 @@
 - [jjhen99](https://github.com/jjhen99)
 - [Jeff Araujo](https://github.com/jeffara)
 - [Jaroshevskii 🝳 ︝”🌈](https://github.com/jaroshevskii)
-- [Elena N.J.] (https://github.com/h669798)
+- [Elena N.J.](https://github.com/h669798)
 - [Mohammed Mazhar Aziz](https://github.com/mazhar00786)
 - [Raven-July](https://github.com/Raven-July)
 - [Ayush Desai](https://github.com/Ayush-desaii)
