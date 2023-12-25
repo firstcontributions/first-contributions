@@ -106,6 +106,7 @@
 - [jkasama](https://github.com/jkasama)
 - [ljunya](https://github.com/ljy18)
 - [Naomi Oyerbach](https://github.com/NaomiOyerbach)
+- [Chandrakanth Kokkiripati] (https://github.com/Chandrakanthkokkiripati)
 - [wissensalt](https://github.com/wissensalt)
 - [sprvgt](https://github.com/sprvgt)
 - [Zain-Alabdeen](https://github.com/zainalabdeen)
