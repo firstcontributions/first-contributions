@@ -33,7 +33,7 @@
 git clone "url you just copied"
 ```
 
-যেখানে "url you just copied" (উদ্ধৃত চিহ্ণ ব্যতীত) হচ্ছে এই রিপোজিটরির ইউআরএল যা আপনি পূর্বের ধাপেই পেয়েছেন।
+যেখানে "url you just copied" (উদ্ধৃতি চিহ্ন ব্যতীত) হচ্ছে এই রিপোজিটরির ইউআরএল যা আপনি পূর্বের ধাপেই পেয়েছেন।
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -116,7 +116,7 @@ git push origin -u <your-new-branch-name>
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-আমি যথাশীঘ্র সম্ভব আপনার পরিবর্তনগুলো এই প্রজেক্টের মাস্টার ব্রাঞ্চে মার্জ করব। মার্জ করা সম্পন্ন হলে আপনি একটি নিশ্চিতকরণ ই-মেইল পাবেন।
+শীঘ্রই আমি এই প্রজেক্টের মাস্টার ব্রাঞ্চে আপনার সমস্ত পরিবর্তন গুলো মার্জ করব। পরিবর্তনগুলি একত্রিত হয়ে গেলে আপনি একটি নিশ্চিতকরণ ই-মেইল পাবেন৷
 
 ## এরপর কী করব?
 
