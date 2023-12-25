@@ -451,6 +451,7 @@
 - [Asghar Abbasi](https://github.com/asghar267)
 - [Dominic Prince](https://github.com/drp46220)
 - [Md Faizan](https://github.com/thesuaveguy)
+- [Stefan Ni](https://github.com/Stefan2Ni)
 - [Andrey Simanovich](https://github.com/asktosimon)
 - [Clint Simiyu](https://github.com/Clint171)
 - [Ana Souza](https://github.com/analiciasouza)
