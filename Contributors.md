@@ -4,6 +4,7 @@
 - [Atul](https://github.com/Atuls-git)
 - [Dimple Jain](https://github.com/dimplehoney)
 - [HosamEldeen Reda](https://github.com/hosamr)
+- [kindness kay](https://github.com/kindesskay)
 - [Ogunleye](https://github.com/ogunleye0720)
 - [Yogesh G](https://github.com/yogeshgunasekaran)
 - [Duc Dong](https://github.com/ducdongmg)
