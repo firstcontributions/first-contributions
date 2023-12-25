@@ -195,6 +195,7 @@
 - [Ifeoluwah](https://github.com/ifeoluwah21)
 - [Dbecausing](https://github.com/dbecausing)
 - [heywhf](https://github.com/heywhf)
+- [Joana Leoni](https://github.com/joanaleoni)
 - [Godwin847](https://github.com/Godwin847)
 - [Ritam Chatterjee](https://github.com/regnna)
 - [Muhammad Maarij Zeeshan](https://github.com/muhammad-maarij-zeeshan)
