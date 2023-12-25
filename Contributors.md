@@ -45,6 +45,7 @@
 - [Victor Maia](https://github.com/victooooor)
 - [Haneen](https://github.com/han1py)
 - [Naveen Kurella](https://github.com/KURELLANAVEEN)
+- [Abhinav Ujjawal](https://github.com/Abhinav-Ujjawal)
 - [joejoeelephant](https://github.com/joejoeelephant)
 - [Dastageer HC](https://github.com/dastageer-hc)
 - [Serhat Bağlam](https://github.com/Rserhat01)
