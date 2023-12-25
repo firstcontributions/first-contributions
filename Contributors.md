@@ -1,4 +1,5 @@
 # Contributors
+
 - [Sree Vardhan]
 - [Walt Bringenberg](https://github.com/wwaltb)
 - [Atul](https://github.com/Atuls-git)
@@ -41,6 +42,9 @@
 - [joejoeelephant](https://github.com/joejoeelephant)
 - [Dastageer HC](https://github.com/dastageer-hc)
 - [Serhat Bağlam](https://github.com/Rserhat01)
+- [Tim Maingi](https://github.com/Merch7x)
+- [sabhanaaz Hussain](https://github.com/sabhanaaz)
+- [sabhanaaz](https://github.com/sabhanaaz)
 - [Kennedy Ekanem](https://github.com/KenEkanem)
 - [Edmond Prin] (https://github.com/edmondprin)
 - [Juliet Ofoegbu](https://github.com/OmaJuliet)
@@ -123,7 +127,7 @@
 - [Exia](https://github.com/ooexiaoo)
 - [jjhen99](https://github.com/jjhen99)
 - [Jeff Araujo](https://github.com/jeffara)
-- [Jaroshevskii 🝳︝”🌈](https://github.com/jaroshevskii)
+- [Jaroshevskii 🝳 ︝”🌈](https://github.com/jaroshevskii)
 - [Mohammed Mazhar Aziz](https://github.com/mazhar00786)
 - [Raven-July](https://github.com/Raven-July)
 - [Ayush Desai](https://github.com/Ayush-desaii)
