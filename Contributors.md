@@ -442,6 +442,7 @@
 - [Dedphish](https://github.com/Dedphish)
 - [Heeba Khan](https://github.com/heeba-khan)
 - [ABarpanda]()
+- [Afrin Nahar] (https://github.com/Afrin127329/)
 - [Abdou-Raouf ATARMLA](https://github.com/fless-lab)
 - [Daniel Flores](https://github.com/Daniel-Flores-Web)
 - [Ayush Singh](https://github.com/ayush-singh08)
