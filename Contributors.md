@@ -394,6 +394,7 @@
 - [Lahari Madhusudhan](https://github.com/lahrims)
 - [szl2](https://github.com/szl2)
 - Sujeeth
+- [Arslan Hasanov](https://github.com/arslan7172)
 - [Marcin Tatarski](https://github.com/martindocs)
 - [Benson P Xavier](https://github.com/Benson1198)
 - [Muhammad-Jafri](https://github.com/Muhammad-Jafri)
