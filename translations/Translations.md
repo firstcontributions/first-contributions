@@ -75,3 +75,4 @@
 | <img alt="ພາສາລາວ" title="ພາສາລາວ" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/la.svg" width="22">                                                                                                                                                 | [ພາສາລາວ](README.la.md)                                               |
 | <img title="Af-soomaali" alt="Somalia" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/so.svg" width="22"> |[Af-soomaali](README.so.md)
 | <img title="Amahric" alt="Amahric" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/et.svg" width="22"> |[አማርኛ(Ethiopia)](README.am.md)
+| <img title="සිංහල" alt="සිංහල" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/lk.svg" width="22"> | [සිංහල(Sri Lanka)](README.si.md)
