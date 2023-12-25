@@ -497,5 +497,6 @@
 - [Jagadeesh B Mothiki](https://github.com/jbmothiki)
 - [Rishab Yadav](https://github.com/Plexy1)
 - [Chuan Chen](https://github.com/Chuan-Chen)
+- [HardikJain](https://github.com/jhardik366)
 - [kimdj](https://github.com/kimdj98)
 - [Nsikan Patrick Adaowo](https://github.com/NsikanPatrick)
