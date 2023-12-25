@@ -25,6 +25,7 @@
 - [Pritha Maity](https://github.com/PrithaMaity)
 - [Ejaz Khan](https://github.com/ejazkhan172)
 - [dhrinch](https://github.com/dhrinch)
+- [Aditya Shekhar](https://github.com/Aditya-76)
 - [donkeeman](https://github.com/donkeeman)
 - [adamsocki](https://github.com/adamsocki)
 - [Yatee Singh](https://github.com/yatee-singh)
