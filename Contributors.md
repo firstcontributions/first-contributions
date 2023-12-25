@@ -40,6 +40,7 @@
 - [Serhat Bağlam](https://github.com/Rserhat01)
 - [Kennedy Ekanem](https://github.com/KenEkanem)
 - [Edmond Prin] (https://github.com/edmondprin)
+- [jaroslaw1](https://github.com/iaroslaw1)
 - [Tim Maingi](https://github.com/Merch7x) 
 - [MK Saba](https://github.com/mksaba)
 - [Garfield](https://github.com/jiafie7)
