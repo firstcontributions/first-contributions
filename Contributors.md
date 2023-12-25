@@ -348,6 +348,7 @@
 - [mzaidi7](https://github.com/mzaidi7)
 - [oihv](https://github.com/oihv)
 - [Marco Barbieri](https://github.com/marcobarb00)
+- [Khaliq Ansari](https://github.com/thekhaliqansari)
 - [Ruben Lien](https://github.com/RubenLien)
 - [Aditya Nakadi](https://github.com/aditya-2010)
 - [Naufal Alief](https://github.com/naufalalief)
