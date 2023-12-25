@@ -499,6 +499,7 @@
 - [Lianne Deng](https://github.com/erath-rise)
 - [jumekaam](https://github.com/jumekaam)
 - [Karan Sharma ](https://github.com/KaranSharma73)
+- [Sarkis Kovlekjian](https://github.com/kenshanta)
 - [Kwame Acheampong](https://github.com/k-acheampong)
 - [Girish Nandan ](https://github.com/jngnandan)
 - [Lavisha](https://github.com/LK-99)
