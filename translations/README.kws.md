@@ -18,15 +18,15 @@ Kusoma makala na mafunzo ya kutazama yanaweza kusaidia, lakini ni nini bora zaid
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 
-## Futa hifadhi hii
+## Vuta hifadhi hii
 
-Futa repo hii kwa kubonyeza kifungo cha fakia juu ya ukurasa huu. Hii itaunda nakala ya hifadhi hii katika akaunti yako.
+Vuta repo hii kwa kubonyeza kifungo cha fakia juu ya ukurasa huu. Hii itaunda nakala ya hifadhi hii katika akaunti yako.
 
 ## Weka chumba
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Sasa fungia repo iliyofungwa kwa mashine yako. Nenda kwenye akaunti yako ya GitHub, kufungua repo iliyofungwa, bonyeza kitufe cha kamba na kisha bofya nakala kwenye clipboard.
+Sasa nakala repo iliyovutwa kwa mashine yako. Nenda kwenye akaunti yako ya GitHub, fungua repo iliyovutwa, bonyeza kitufe cha kamba na kisha bofya nakala kwenye clipboard.
 
 
 Fungua terminal na uendesha amri yafuatayo:
@@ -45,7 +45,7 @@ Kwa mfano:
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-wapi `this-is-you` jina lako la mtumiaji GitHub. Hapa unakili nakala ya maudhui ya kwanza ya michango kwenye GitHub kwenye kompyuta yako.
+hapo `this-is-you`tumia jina lako la mtumiaji GitHub. Hapa unakili nakala ya maudhui ya kwanza ya michango kwenye GitHub kwenye kompyuta yako.
 
 ## Unda tawi
 
@@ -55,7 +55,7 @@ Badilisha kwenye saraka ya uhifadhi kwenye kompyuta yako (ikiwa huko tayari):
 cd first-contributions
 ```
 
-Sasa uunda tawi kwa kutumia git `checkout` amri:
+Sasa unda tawi kwa kutumia git `checkout` amri:
 
 
 ```
