@@ -184,6 +184,7 @@
 - [Ashika Dsilva](https://github.com/ashikadsilva)
 - [tenere](https://github.com/000tenere000)
 - [Mohamed-Anasse] (https://github.com/OuraghiMohamed-Anasse)
+- [Temitope Bankole](https://github.com/rareprince/)
 - [Kevin Grammer](https://github.com/kevingrammer)
 - [batuhankzn](https://github.com/batuhankzn)
 - [Sinan Balıbey](https://github.com/sinanbalibey)
