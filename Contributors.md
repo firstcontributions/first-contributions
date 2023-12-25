@@ -493,6 +493,7 @@
 - [Kwame Acheampong](https://github.com/k-acheampong)
 - [Girish Nandan ](https://github.com/jngnandan)
 - [Lavisha](https://github.com/LK-99)
+- [Pulkit](https://github.com/pulkitpathak99)
 - [Mzwandile MJ Dlomo](https://github.com/Mzwandile-Dlomo)
 - [Nikhil](https://github.com/Nikhil7282)
 - [Gloria](https://github.com/Lado-Gloria)
