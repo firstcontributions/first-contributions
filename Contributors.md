@@ -434,6 +434,7 @@
 - [Aji Tirto](https://github.com/ajitirto)
 - [Harsh Hegishte](https://github.com/InCredH)
 - [Nat Barw](https://github.com/NatBarw)
+- [Levon Tumanyan](https://github.com/itfibonacci)
 - [Dachuan Yang](https://github.com/ydc9988)
 - [Smaran Singh](https://github.com/SmaranSingh)
 - [Sadiya Khan](https://github.com/sadiya0308)
