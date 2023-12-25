@@ -482,3 +482,4 @@
 - [Yuchen Wang](https://github.com/yc-w-cn)
 - [Jagadeesh B Mothiki](https://github.com/jbmothiki)
 - [Rishab Yadav](https://github.com/Plexy1)
+- [Chuan Chen](https://github.com/Chuan-Chen)
