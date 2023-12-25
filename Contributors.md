@@ -443,6 +443,7 @@
 - [Curtis To](https://github.com/tourist-C)
 - [Josh Davidson](https://github.com/JDavidson00)
 - [Vinicius Ribeiro](https://github.com/vini-rbeiro)
+- [Lucas Gonçalves](https://github.com/L-Goncalves)
 - [Aditya Goyal](https://github.com/adityagoyal200)
 - [Swapnil Naik](https://github.com/naikswapnil)
 - [Kamo develop](https://github.com/kamo-develop)
