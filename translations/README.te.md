@@ -32,15 +32,15 @@
 
 ఇప్పుడు మీ కంప్యూటరులో ఫోర్క్ చేసిన రిపోను క్లోన్ చేయండి. మీ GitHub ఖాతాకు వెళ్లండి, ఫోర్క్ రెపోని తెరిచి, కోడ్ బటన్ పై క్లిక్ చేసి, ఆపై *కాపీ టు క్లిప్బోర్డ్* క్లిక్ చేయండి.
 
-టెర్మినల్ తెరిచి కింది `git` ఆదేశాలని అమలు చేయండి:
-```
-git clone "కాపీ క్లిప్ బోర్డ్ లో ఉన్న url"
+టెర్మినల్ తెరిచి కింది git ఆదేశాన్ని అమలు చేయండి:
+```bash
+git clone "url మీరు కాపీ చేసారు"
 ```
 ఇక్కడ "url మీ కాపీ" (కోట్ మార్కులు లేకుండా) మీరు ఫోర్క్ చేసిన రిపోజిటరీ కి  URL. Url ను పొందడానికి మునుపటి దశలను చూడండి.
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 ఉదాహరణకి:
-```
+```bash
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 ఇక్కడ 'this-is-you' మీ GitHub ప్రొఫైల్ నేమ్. ఇక్కడ మీరు `first-contribution` రిపోజిటరీ  యొక్క కంటెంట్లను మీ GitHub అకౌంట్ లో మీ కంప్యూటర్కు కాపీ చేస్తున్నారు.
@@ -49,14 +49,14 @@ git clone https://github.com/this-is-you/first-contributions.git
 
 మీ కంప్యూటర్లో రిపోజిటరీ యొక్క డైరెక్టరీకి మార్చండి .
 
-```
+```bash
 cd first-contributions
 ```
 ఇప్పుడు 'git checkout' కమాండ్ ను  ఉపయోగించి ఒక బ్రాంచ్ ను సృష్టించండి:
 
 
 ఉదాహరణకి:
-```
+```bash
 git checkout -b add-alonzo-church
 ```
 (బ్రాంచ్ యొక్క పేరు దానిలో పదం * add * ను కలిగి ఉండవలసిన అవసరం లేదు.
@@ -71,13 +71,13 @@ git checkout -b add-alonzo-church
 
 `Git add ` కమాండ్ ను ఉపయోగించి మీరు సృష్టించిన బ్రాంచ్లో ఈ మార్పులను జోడించండి.
 
-```
+`Git add` కమాండ్ను ఉపయోగించి మీరు సృష్టించిన బ్రాంచ్లో ఈ మార్పులను జోడించండి:
+```bash
 git add Contributors.md
 ```
 
-ఇప్పుడు ఆ మార్పులను 'git commit' కమాండ్ ను  ఉపయోగించి ఒక కామెంట్ అడ్ చేయండి.
-
-```
+ఇప్పుడు ఆ మార్పులను 'git commit' ఆదేశం ఉపయోగించి కట్టుకోండి:
+```bash
 git commit -m "Add <your-name> to Contributors list"
 ```
 `<your-name>` ని తొలగించి  మీ పేరును కలపండి.
@@ -85,7 +85,7 @@ git commit -m "Add <your-name> to Contributors list"
 ## మార్పులను GitHub కు పంపండి
 
 కమాండ్ ఉపయోగించి మీ మార్పులను పంపండి `git push`:
-```
+```bash
 git push origin <add-your-branch-name>
 ```
 మీరు ముందుగా సృష్టించిన బ్రాంచీ పేరుతో `<add-your-branch-name>` ను జోడించుము.
