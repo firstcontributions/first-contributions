@@ -16,6 +16,7 @@
 - [Lukas Cihelna](https://github.com/LukasCihelna)
 - [Namit Saxena](https://github.com/oddball1123)
 - [Abhinav](https://github.com/malteezy)
+- [David Cao](https://github.com/dave-cao)
 - [Anurag Sisodiya](https://github.com/ANURAGSISODIYAA)
 - [grzegorzkoszczal](https://github.com/grzegorzkoszczal)
 - [Felicia H](https://github.com/coder02603)
