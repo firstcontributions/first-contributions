@@ -478,6 +478,7 @@
 - [Mzwandile MJ Dlomo](https://github.com/Mzwandile-Dlomo)
 - [Nikhil](https://github.com/Nikhil7282)
 - [Gloria](https://github.com/Lado-Gloria)
+- [Samadou Ouro-agorouko](https://github.com/Bakugo90)
 - [Ihenacho Henry](https://github.com/henrychris)
 - [Sigireddy Viswesh](https://github.com/Viswesh934)
 - [Juan Jefry Ortega A](https://github.com/JuanJefry23)
