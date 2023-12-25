@@ -4490,3 +4490,4 @@ Gauresh Rathi
 - [Bazigar69](https://github.com/Bazigar69)
 - [Claire Karsenti](https://github.com/ClaireKarsenti)
 
+- [Olivier Picault](https://github.com/olivierpicault)  
