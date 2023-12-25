@@ -122,6 +122,7 @@
 - [ljunya](https://github.com/ljy18)
 - [Naomi Oyerbach](https://github.com/NaomiOyerbach)
 - [Chandrakanth Kokkiripati] (https://github.com/Chandrakanthkokkiripati)
+- [Promise Nwankwo](https://github.com/giftedpromise)
 - [wissensalt](https://github.com/wissensalt)
 - [sprvgt](https://github.com/sprvgt)
 - [Zain-Alabdeen](https://github.com/zainalabdeen)
