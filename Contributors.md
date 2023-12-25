@@ -15,6 +15,7 @@
 - [Duc Dong](https://github.com/ducdongmg)
 - [Charley Yoshi](https://github.com/charleyoshi)
 - [Paul Lee](https://github.com/plee30)
+- [Jonathan Jones](https://github.com/devJonathanJones)
 - [Sentinal cell](https://github.com/Sentinal-cell)
 - [Jatin Kalra](https://github.com/jatinkalra17)
 - [Aditya Shibu](https://github.com/adwii-iii)
