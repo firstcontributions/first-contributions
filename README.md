@@ -33,7 +33,7 @@
 <kbd>[<img title="日本語" alt="日本語" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/jp.svg" width="22">](translations/README.ja.md)</kbd>
 <kbd>[<img title="සිංහල" alt="සිංහල" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/lk.svg" width="22">](translations/README.si.md)</kbd>
 <kbd>[<img title="Kiswahili (Kenya)" alt="Kiswahili (Kenya)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ke.svg" width="22">](translations/README.kws.md)</kbd>
-<kbd>[<img title="한국어" alt="한국어" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/kr.svg" width="22"> <img title="한국어" alt="한국어" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/kp.svg" width="22">](translations/README.ko.md)</kbd>
+<kbd>[<img title="한국어" alt="한국어" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/kr.svg" width="22">](translations/README.ko.md)</kbd>
 <kbd>[<img title="Lietuvių kalba" alt="Lietuvių kalba" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/lt.svg" width="22">](translations/README.lt.md)</kbd>
 <kbd>[<img title="Limba Română" alt="Limba Română" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/md.svg" width="22"> <img title="Limba Română" alt="Limba Română" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ro.svg" width="22">](translations/README.ro.md)</kbd>
 <kbd>[<img title="မြန်မာ" alt="မြန်မာ" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/mm.svg" width="22">](translations/README.mm_unicode.md)</kbd>
@@ -98,7 +98,7 @@ Now clone the forked repository to your machine. Go to your GitHub account, open
 
 Open a terminal and run the following git command:
 
-```
+```bash
 git clone "url you just copied"
 ```
 
@@ -108,7 +108,7 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 
 For example:
 
-```
+```bash
 git clone git@github.com:this-is-you/first-contributions.git
 ```
 
@@ -118,19 +118,19 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 
 Change to the repository directory on your computer (if you are not already there):
 
-```
+```bash
 cd first-contributions
 ```
 
 Now create a branch using the `git switch` command:
 
-```
+```bash
 git switch -c your-new-branch-name
 ```
 
 For example:
 
-```
+```bash
 git switch -c add-alonzo-church
 ```
 
@@ -144,13 +144,13 @@ If you go to the project directory and execute the command `git status`, you'll 
 
 Add those changes to the branch you just created using the `git add` command:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Now commit those changes using the `git commit` command:
 
-```
+```bash
 git commit -m "Add your-name to Contributors list"
 ```
 
@@ -160,7 +160,7 @@ replacing `your-name` with your name.
 
 Push your changes using the command `git push`:
 
-```
+```bash
 git push -u origin your-branch-name
 ```
 
