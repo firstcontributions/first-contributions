@@ -1,6 +1,8 @@
 # Contributors
 
 - [Sree Vardhan]
+- [Arnav Gupta]
+- Ho Ho Ho [Aditya Kapadia]
 - [Looki](https://github.com/Looki-fr)
 - [Sourabh Kr. Rajput](https://github.com/Sourabh-Kr-Rajput)
 - [Walt Bringenberg](https://github.com/wwaltb)
@@ -35,7 +37,9 @@
 - [Aditya Shekhar](https://github.com/Aditya-76)
 - [donkeeman](https://github.com/donkeeman)
 - [adamsocki](https://github.com/adamsocki)
+-[DetorlarMubarak](https://github.com/Pious-coder)
 - [Yatee Singh](https://github.com/yatee-singh)
+- [Hariharan](https://github.com/Hariharan148)
 - [Atharva Pardeshi](https://github.com/SazedWorldbringer)
 - [Khai Tran](https://github.com/minhkhai2005)
 - [Calen Shirfield](https://github.com/CalenShirfield)
@@ -119,6 +123,7 @@
 - [ljunya](https://github.com/ljy18)
 - [Naomi Oyerbach](https://github.com/NaomiOyerbach)
 - [Chandrakanth Kokkiripati] (https://github.com/Chandrakanthkokkiripati)
+- [Promise Nwankwo](https://github.com/giftedpromise)
 - [wissensalt](https://github.com/wissensalt)
 - [sprvgt](https://github.com/sprvgt)
 - [Zain-Alabdeen](https://github.com/zainalabdeen)
@@ -322,6 +327,7 @@
 - [medzo-kali](https://github.com/medzo-kali)
 - [Timothy Bukowski](https://github.com/Whitefire000)
 - [Nicholas Garbutt](https://github.com/Nicholas-Garbutt)
+- [Felipe Arruda](https://github.com/FelipeArruda)
 - [William-D-Miller-Jr-AKA-王比尔](https://github.com/bijiyiqi2017)
 - [Carlo Inserra](https://github.com/Carleoinserra)
 - [kaif-khan](https://github.com/shadowfaxx1)
@@ -392,6 +398,7 @@
 - [Lahari Madhusudhan](https://github.com/lahrims)
 - [szl2](https://github.com/szl2)
 - Sujeeth
+- [Arslan Hasanov](https://github.com/arslan7172)
 - [Marcin Tatarski](https://github.com/martindocs)
 - [Benson P Xavier](https://github.com/Benson1198)
 - [Muhammad-Jafri](https://github.com/Muhammad-Jafri)
@@ -429,6 +436,7 @@
 - [yiong](https://github.com/gin280)
 - [Dedphish](https://github.com/Dedphish)
 - [ABarpanda]()
+- [Abdou-Raouf ATARMLA](https://github.com/fless-lab)
 - [Daniel Flores](https://github.com/Daniel-Flores-Web)
 - [Ayush Singh](https://github.com/ayush-singh08)
 - [Luke Nam](https://github.com/kineticstorytelling)
@@ -497,6 +505,7 @@
 - [Lianne Deng](https://github.com/erath-rise)
 - [jumekaam](https://github.com/jumekaam)
 - [Karan Sharma ](https://github.com/KaranSharma73)
+- [Sarkis Kovlekjian](https://github.com/kenshanta)
 - [Kwame Acheampong](https://github.com/k-acheampong)
 - [Girish Nandan ](https://github.com/jngnandan)
 - [Lavisha](https://github.com/LK-99)
@@ -521,4 +530,4 @@
 - [Avijit Manna](https://github.com/manna-avijit)
 - [AwxChen](https://github.com/AwxChen)
 - [Rupom](https://github.com/RupomChowdhury)
-
+- [nycgp][nycgp (github.com)](https://github.com/nycgp)
