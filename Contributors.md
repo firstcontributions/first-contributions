@@ -17,6 +17,7 @@ sara
 - [Shailesh Thakur] (https://gtihub.com/shaileshthakur1)
 - [Harsh Umpoxy] (https://github.com/HarshUmpoxy)
 - [Mohit Pathak](https://github.com/mohitpathak382)
+- [Juliet Ofoegbu](https://github.com/OmaJuliet)
 - [Vishnu Bobbiti]
 - [Yash Tomar] (https://github.com/1708yash)
 - [Nicholas Licata](https://github.com/nicholaslicata)
