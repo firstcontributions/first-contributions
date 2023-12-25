@@ -437,6 +437,7 @@
 - [Nat Barw](https://github.com/NatBarw)
 - [Levon Tumanyan](https://github.com/itfibonacci)
 - [Dachuan Yang](https://github.com/ydc9988)
+- [Tapan Kapre](https://github.com/TolueneOverdose)
 - [Smaran Singh](https://github.com/SmaranSingh)
 - [Sadiya Khan](https://github.com/sadiya0308)
 - [Lalo Rys](https://github.com/LaloRys)
