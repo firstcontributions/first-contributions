@@ -37,6 +37,7 @@
 - [donkeeman](https://github.com/donkeeman)
 - [adamsocki](https://github.com/adamsocki)
 - [Yatee Singh](https://github.com/yatee-singh)
+- [Hariharan](https://github.com/Hariharan148)
 - [Atharva Pardeshi](https://github.com/SazedWorldbringer)
 - [Khai Tran](https://github.com/minhkhai2005)
 - [Calen Shirfield](https://github.com/CalenShirfield)
