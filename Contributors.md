@@ -1,5 +1,4 @@
 # Contributors
-
 - [Sree Vardhan]
 - [Looki](https://github.com/Looki-fr)
 - [Sourabh Kr. Rajput](https://github.com/Sourabh-Kr-Rajput)
@@ -15,6 +14,7 @@
 - [Duc Dong](https://github.com/ducdongmg)
 - [Charley Yoshi](https://github.com/charleyoshi)
 - [Paul Lee](https://github.com/plee30)
+- [Daniel Niemann Hjermitslev](https://github.com/dnh33)
 - [Jonathan Jones](https://github.com/devJonathanJones)
 - [Sentinal cell](https://github.com/Sentinal-cell)
 - [Jatin Kalra](https://github.com/jatinkalra17)
