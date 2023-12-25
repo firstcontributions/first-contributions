@@ -390,6 +390,7 @@
 - [Ronen Taich](https://github.com/ronentaich17)
 - [Chris97P](https://github.com/Chris97P)
 - [Ringo](https://github.com/Banuelorigni)
+- [Sky](https://github.com/jiafie7)
 - [Vanesh](https://github.com/vanesh37)
 - [Jeroldine Oakley](https://github.com/JayOaks)
 - [FNH99](https://github.com/FNH99)
