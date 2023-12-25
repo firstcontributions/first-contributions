@@ -350,6 +350,7 @@
 - [Frank](https://github.com/Frank40790)
 - [Sagar Negi](https://github.com/sxxrfx)
 - [mthomsn](https://github.com/mthomsn/mthomsn)sabe
+- [Kshitij Jadhav](https://github.com/kshitij-create)
 - Dhruv Rawat from India
 - [Busari Ismail Oladoja](https://github.com/Dojacom)
 - [youngwoo](https://github.com/Dandyoung)
