@@ -381,6 +381,7 @@
 - [Lyrics](https://github.com/aden-q)
 - [Lahari Madhusudhan](https://github.com/lahrims)
 - [szl2](https://github.com/szl2)
+- Sujeeth
 - [Marcin Tatarski](https://github.com/martindocs)
 - [Benson P Xavier](https://github.com/Benson1198)
 - [Muhammad-Jafri](https://github.com/Muhammad-Jafri)
