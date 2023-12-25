@@ -438,6 +438,7 @@
 - [Josh Davidson](https://github.com/JDavidson00)
 - [Vinicius Ribeiro](https://github.com/vini-rbeiro)
 - [Aditya Goyal](https://github.com/adityagoyal200)
+- [Swapnil Naik](https://github.com/naikswapnil)
 - [Kamo develop](https://github.com/kamo-develop)
 - [Maciej Pogorzelski](https://github.com/mpogorzelski095)
 - [Sacha P](https://github.com/sapg-dev)
