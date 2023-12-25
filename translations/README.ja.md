@@ -51,7 +51,7 @@ cd first-contributions
 ```
 `git switch` コマンドを使用してブランチを作成します：
 ```
-git swtich -c <add-your-name>
+git switch -c <add-your-name>
 ```
 
 例:
