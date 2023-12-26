@@ -22,6 +22,7 @@
 - [Aditya Shibu](https://github.com/adwii-iii)
 - [Amna Ahmed](https://github.com/nono5342)
 - [Shreyes Gadwalkar](https://github.com/ShreyesGadwalkar)
+[Promise Nwankwo](https://github.com/giftedpromise)
 - [Lukas Cihelna](https://github.com/LukasCihelna)
 - [Namit Saxena](https://github.com/oddball1123)
 - [Abhinav](https://github.com/malteezy)
