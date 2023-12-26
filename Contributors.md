@@ -8,6 +8,7 @@
 - [Abdulsalam Yusuf](https://github.com/hyoukarh)
 - [Atul](https://github.com/Atuls-git)
 - [Dimple Jain](https://github.com/dimplehoney)
+- [Ray Yu](https://github.com/RayYu-ChunleiYu)
 - [Aryan Mehta](https://github.com/aryan-mehta)
 - [HosamEldeen Reda](https://github.com/hosamr)
 - [Ogunleye](https://github.com/ogunleye0720)
