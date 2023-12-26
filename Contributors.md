@@ -6,6 +6,7 @@
 - [Shahil Kumar](https://github.com/Shahil9728)
 - [Looki](https://github.com/Looki-fr)
 - [Rohit Roy](https://github.com/Roy009)
+- [chief-fei](https://github.com/chief-fei)
 - [Sushant](https://github.com/sushxnt)
 - [chandan] (https://github.com/chandanyuva)
 - [Shraddha Nand Shah] (https://github.com/shraddha1512)
