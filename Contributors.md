@@ -30,6 +30,7 @@
 -[Priyansh Garg](https://github.com/prynshg)
 [Harish](https://github.com/HarishI123)
 - [Duc Dong](https://github.com/ducdongmg)
+- [Abstract Hunter](https://github.com/abstractHunter) [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/yao-daniel-attitsogbe/)
 - [Charley Yoshi](https://github.com/charleyoshi)
 - [Paul Lee](https://github.com/plee30)
 - [Daniel Niemann Hjermitslev](https://github.com/dnh33)
