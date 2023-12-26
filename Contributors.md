@@ -587,3 +587,4 @@
 - [Manoj Bajaj](https://github.com/manojbajaj95)
 - [ImanSM](https://github.com/ImanSM)
 - [totoro0952](https://github.com/totoro0952)
+- [arifulthejedi](https://github.com/arifulthejedi)
