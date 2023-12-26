@@ -3,10 +3,10 @@
 - [Arnav Gupta]
 - Ho Ho Ho [Aditya Kapadia]
 - [Looki](https://github.com/Looki-fr)
-- [Rohit Roy} (https://github.com/Roy009)
+- [Rohit Roy](https://github.com/Roy009)
 - [Sourabh Kr. Rajput](https://github.com/Sourabh-Kr-Rajput)
 - [Walt Bringenberg](https://github.com/wwaltb)
-  [Rohit Kumar](https://github.com/Rohit10701)
+- [Rohit Kumar](https://github.com/Rohit10701)
 - [Abdulsalam Yusuf](https://github.com/hyoukarh)
 - [Atul](https://github.com/Atuls-git)
 - [Jishnu Singh](https://github.com/Siam5ell)
