@@ -97,6 +97,7 @@
 - [MertKy](https://github.com/MertKy/)
 - [ArcXeon](https://github.com/ArcXeon/)
 - [Tin](https://github.com/Tincando)
+- [Krishna](https://github.com/Krishna01work)
 - [Uriel](https://github.com/urieltfk)
 - [Lorraine](https://github.com/WambiruL)
 - [Negan Nguyen](https://github.com/nenene1812)
