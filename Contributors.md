@@ -97,6 +97,7 @@
 - [Srijan Biswas](https://github.com/srijanB7)
 - [Dinesh Dhanji](https://github.com/DineshDhanji)
 - [promax1113](https://github.com/promax1113)
+- [darkdevil3610](https://github.com/darkdevil3610)
 - [PJha](https://github.com/connectPjha)
 - [Xamss](https://github.com/Xamss)
 - [ganximi](https://github.com/ganximi)
