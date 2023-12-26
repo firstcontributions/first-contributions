@@ -7,7 +7,6 @@
 - Beau
 - Utsav
 - [manoj](https://github.com/manoj1698)
-- [Nobert Patrick](https://github.com/Trikcode)
 - [hrisabhy](https://github.com/hrisabhy)
 - [Abhay](https://github.com/AbhayXcoderx123)
 - [vivienogoun](https://github.com/vivienogoun)
