@@ -3,6 +3,7 @@
 - [Arnav Gupta]
 - Ho Ho Ho [Aditya Kapadia]
 - [Betsalel Geoffrey GOLO] (https://github.com/betsalel44)
+- [Navin P] (https://github.com/mep1tz)
 - [Shahil Kumar](https://github.com/Shahil9728)
 - [Looki](https://github.com/Looki-fr)
 - [Rohit Roy](https://github.com/Roy009)
