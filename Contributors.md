@@ -6,6 +6,7 @@
 - [Rohit Roy](https://github.com/Roy009)
 - [Sushant](https://github.com/sushxnt)
 - [chandan] (https://github.com/chandanyuva)
+- [Shraddha Nand Shah] (https://github.com/shraddha1512)
 - [Sourabh Kr. Rajput](https://github.com/Sourabh-Kr-Rajput)
 - [Walt Bringenberg](https://github.com/wwaltb)
   [Rohit Kumar](https://github.com/Rohit10701)
