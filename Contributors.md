@@ -25,6 +25,7 @@
 - [Ogunleye](https://github.com/ogunleye0720)
 - [Yogesh G](https://github.com/yogeshgunasekaran)
 - [Abdirashid Mowlid](https://github.com/Abdirashid-dv)
+-[Priyansh Garg](https://github.com/prynshg)
 [Harish](https://github.com/HarishI123)
 - [Duc Dong](https://github.com/ducdongmg)
 - [Charley Yoshi](https://github.com/charleyoshi)
