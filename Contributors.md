@@ -546,6 +546,7 @@
 - [kimdj](https://github.com/kimdj98)
 - [Nsikan Patrick Adaowo](https://github.com/NsikanPatrick)
 - [Om] (https://github.com/omdwid)
+- [Jiejun Wu] (https://github.com/shadowwalker1)
 - [Ashwanth R Kumar](https://github.com/ashwanthrkumar)
 - [Avinash](https://github.com/avinash-550)
 - [Avijit Manna](https://github.com/manna-avijit)
