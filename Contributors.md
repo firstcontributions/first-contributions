@@ -567,6 +567,7 @@
 - [Avijit Manna](https://github.com/manna-avijit)
 - [AwxChen](https://github.com/AwxChen)
 - [Rupom](https://github.com/RupomChowdhury)
+- [Kashyap](https://github.com/Kashyap012)
 - [nycgp][nycgp (github.com)](https://github.com/nycgp)
 - [ZEEL](https://github.com/zeelapatel)
 - [CyperX](https://github.com/cyperx84)
@@ -575,4 +576,3 @@
 - [aryanoutlaw](https://github.com/aryanoutlaw)
 - [Manoj Bajaj](https://github.com/manojbajaj95)
 - [ImanSM](https://github.com/ImanSM)
-- [Kashyap](https://github.com/Kashyap012)
