@@ -3,7 +3,7 @@
 - [Arnav Gupta]
 - Ho Ho Ho [Aditya Kapadia]
 - [Looki](https://github.com/Looki-fr)
-- [Rohit Roy} (https://github.com/Roy009)
+- [Rohit Roy](https://github.com/Roy009)
 - [Sushant](https://github.com/sushxnt)
 - [chandan] (https://github.com/chandanyuva)
 - [Sourabh Kr. Rajput](https://github.com/Sourabh-Kr-Rajput)
@@ -20,6 +20,7 @@
 - [Ogunleye](https://github.com/ogunleye0720)
 - [Yogesh G](https://github.com/yogeshgunasekaran)
 - [Abdirashid Mowlid](https://github.com/Abdirashid-dv)
+[Harish](https://github.com/HarishI123)
 - [Duc Dong](https://github.com/ducdongmg)
 - [Charley Yoshi](https://github.com/charleyoshi)
 - [Paul Lee](https://github.com/plee30)
