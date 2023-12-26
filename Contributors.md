@@ -2,6 +2,7 @@
 - [Sree Vardhan]
 - [Arnav Gupta]
 - Ho Ho Ho [Aditya Kapadia]
+- [Betsalel Geoffrey GOLO] (https://github.com/betsalel44)
 - [Shahil Kumar](https://github.com/Shahil9728)
 - [Looki](https://github.com/Looki-fr)
 - [Rohit Roy](https://github.com/Roy009)
