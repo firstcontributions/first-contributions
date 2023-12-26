@@ -5578,4 +5578,5 @@ Kumar Kaji
 -[Leonora Pranjic](https://github.com/leonora1901/)
 -[Aswin R](https://github.com/AshCoder07)
 - [Arouna SIDIBE](https://github.com/mansasidibe)
+- [Nobert Patrick](https://github.com/Trikcode)
 - [Vytis Markevicius](https://github.com/vytopsas)
