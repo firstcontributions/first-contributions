@@ -2,6 +2,7 @@
 - [Sree Vardhan]
 - [Arnav Gupta]
 - Ho Ho Ho [Aditya Kapadia]
+- [Shahil Kumar](https://github.com/Shahil9728)
 - [Looki](https://github.com/Looki-fr)
 - [Rohit Roy](https://github.com/Roy009)
 - [Sushant](https://github.com/sushxnt)
