@@ -12,6 +12,7 @@
 - [Abdulsalam Yusuf](https://github.com/hyoukarh)
 - [Atul](https://github.com/Atuls-git)
 - [Jishnu Singh](https://github.com/Siam5ell)
+- [Micheal eze obianuka](https://github.com/Mykelz)
 - [Dimple Jain](https://github.com/dimplehoney)
 - [Uchenyi Kesandu](https://github.com/Kessi-ux) [Linkedin](https://linkedin.com/in/uchekes)
 - [Ray Yu](https://github.com/RayYu-ChunleiYu)
