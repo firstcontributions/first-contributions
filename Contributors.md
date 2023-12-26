@@ -11,7 +11,7 @@
 - [Atul](https://github.com/Atuls-git)
 - [Jishnu Singh](https://github.com/Siam5ell)
 - [Dimple Jain](https://github.com/dimplehoney)
-- [Uchenyi Kesandu](https://github.com/Kessi-ux) [Linkedin](https://linkedin.com/in/uchekes)
+- [Uchenyi Kesandu](https://github.com/Kessi-ux) [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://linkedin.com/in/uchekes)
 - [Ray Yu](https://github.com/RayYu-ChunleiYu)
 - [Aryan Mehta](https://github.com/aryan-mehta)
 - [HosamEldeen Reda](https://github.com/hosamr)
