@@ -571,3 +571,4 @@
 - [Zong Zheng](https://github.com/f4try)
 - [whioscc](https://github.com/whoiscc)
 - [aryanoutlaw](https://github.com/aryanoutlaw)
+- [Manoj Bajaj](https://github.com/manojbajaj95)
