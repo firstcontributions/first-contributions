@@ -45,6 +45,7 @@
 - [Abhinav](https://github.com/malteezy)
 - [David Cao](https://github.com/dave-cao)
 - [Anurag Sisodiya](https://github.com/ANURAGSISODIYAA)
+- [David Ejiro](https://github.com/David-Ejiro)
 - [grzegorzkoszczal](https://github.com/grzegorzkoszczal)
 - [Felicia H](https://github.com/coder02603)
 - [Ritwick Raj Makhal](https://github.com/ritwickrajmakhal)
@@ -425,6 +426,7 @@
 - [Lahari Madhusudhan](https://github.com/lahrims)
 - [szl2](https://github.com/szl2)
 - Sujeeth
+- 1
 - [Desmond](https://github.com/desmondezo1)
 - [Arslan Hasanov](https://github.com/arslan7172)
 - [Marcin Tatarski](https://github.com/martindocs)
@@ -573,3 +575,4 @@
 - [whioscc](https://github.com/whoiscc)
 - [aryanoutlaw](https://github.com/aryanoutlaw)
 - [Manoj Bajaj](https://github.com/manojbajaj95)
+- [ImanSM](https://github.com/ImanSM)
