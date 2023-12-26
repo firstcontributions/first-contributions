@@ -9,6 +9,7 @@
   [Rohit Kumar](https://github.com/Rohit10701)
 - [Abdulsalam Yusuf](https://github.com/hyoukarh)
 - [Atul](https://github.com/Atuls-git)
+- [Jishnu Singh](https://github.com/Siam5ell)
 - [Dimple Jain](https://github.com/dimplehoney)
 - [Ray Yu](https://github.com/RayYu-ChunleiYu)
 - [Aryan Mehta](https://github.com/aryan-mehta)
