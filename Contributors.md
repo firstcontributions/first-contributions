@@ -12,6 +12,7 @@
 - [Rohit Roy](https://github.com/Roy009)
 - [chief-fei](https://github.com/chief-fei)
 - [Sushant](https://github.com/sushxnt)
+- [JamZ](https://github.com/JamZYM)
 - [chandan] (https://github.com/chandanyuva)
 - [Shraddha Nand Shah] (https://github.com/shraddha1512)
 - [Sourabh Kr. Rajput](https://github.com/Sourabh-Kr-Rajput)
