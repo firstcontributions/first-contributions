@@ -80,6 +80,7 @@
 - [sabhanaaz Hussain](https://github.com/sabhanaaz)
 - [sabhanaaz](https://github.com/sabhanaaz)
 - [Kennedy Ekanem](https://github.com/KenEkanem)
+- [DankGuy](https://github.com/DankGuy)
 - [Edmond Prin] (https://github.com/edmondprin)
 - [Juliet Ofoegbu](https://github.com/OmaJuliet)
 - [jaroslaw1](https://github.com/iaroslaw1)
