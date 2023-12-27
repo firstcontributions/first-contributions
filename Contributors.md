@@ -624,6 +624,7 @@
 - [Kashyap](https://github.com/Kashyap012)
 - [nycgp][nycgp (github.com)](https://github.com/nycgp)
 - [ZEEL](https://github.com/zeelapatel)
+- [Darek](https://github.com/darekLas)
 - [CyperX](https://github.com/cyperx84)
 - [Zong Zheng](https://github.com/f4try)
 - [whioscc](https://github.com/whoiscc)
