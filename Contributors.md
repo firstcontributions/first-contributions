@@ -119,6 +119,7 @@
 - [Dinesh Dhanji](https://github.com/DineshDhanji)
 - [Ziwen Ming] (https://github.com/3miumi)
 - [promax1113](https://github.com/promax1113)
+- [darkdevil3610](https://github.com/darkdevil3610)
 - [PJha](https://github.com/connectPjha)
 - [Xamss](https://github.com/Xamss)
 - [ganximi](https://github.com/ganximi)
