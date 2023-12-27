@@ -3,6 +3,7 @@
 - [Arnav Gupta]
 - [Meow Aadvik]
 - Ho Ho Ho [Aditya Kapadia]
+- [Kelvin okumu](https://github.com/kelvinokumu)
 - [Betsalel Geoffrey GOLO] (https://github.com/betsalel44)
 - [Toph](https://github.com/IndexChris)
 - [Arun Erram](https://github.com/arunerram)
