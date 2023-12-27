@@ -4,6 +4,7 @@ sara
 - [Sohaib Khan] (https://github.com/Sohaibgit)
 - [Harsh Umpoxy] (https://github.com/HarshUmpoxy)
 - [Vishnu Bobbiti]
+- [Nandini Kashyap]
 - [Gargi Bandyopadhyay] (https://github.com/Gargi2003)
 - [QubeUK](https://github.com/QubeUK)
 - [Andreas Carlsson](https://github.com/Fetante)
