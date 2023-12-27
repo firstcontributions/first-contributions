@@ -548,6 +548,7 @@
 - [Karan Sharma ](https://github.com/KaranSharma73)
 - [Sarkis Kovlekjian](https://github.com/kenshanta)
 - [Ahmad Madi](https://github.com/AhmadMadi)
+- [meilynbear](https://github.com/meilynbear)
 - [Kwame Acheampong](https://github.com/k-acheampong)
 - [Girish Nandan ](https://github.com/jngnandan)
 - [Atharva Malode](https://github.com/Atharva-Malode)
@@ -584,4 +585,3 @@
 - [Manoj Bajaj](https://github.com/manojbajaj95)
 - [ImanSM](https://github.com/ImanSM)
 - [totoro0952](https://github.com/totoro0952)
-- [meilynbear](https://github.com/meilynbear)
