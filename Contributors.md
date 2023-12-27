@@ -294,6 +294,7 @@
 - [Naufal Faqih K R](https://github.com/NaufR)
 - [Sushmoy Hossain](https://github.com/imsushmoy)
 - [Abhijeet Z](https://github.com/Zeref-XXX)
+- [Antonio Paulos](https://github.com/antoniolpaulos)
 - [Deepaprakash K](https://github.com/averagestud)
 - [WADA Yusuke](https://github.com/wxy-zzz)
 - [Kartik](https://github.com/Kartik1932)
