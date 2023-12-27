@@ -31,6 +31,7 @@
 - [Aryan Mehta](https://github.com/aryan-mehta)
 - [HosamEldeen Reda](https://github.com/hosamr)
 - [Ogunleye](https://github.com/ogunleye0720)
+- [Nafis Nihal](https://github.com/nafisnihal)
 - [Yogesh G](https://github.com/yogeshgunasekaran)
 - [Abdirashid Mowlid](https://github.com/Abdirashid-dv)
 -[Priyansh Garg](https://github.com/prynshg)
