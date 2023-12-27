@@ -12,14 +12,14 @@
 <kbd>[<img title="Bulgarian" alt="Bulgarian" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/bg.svg" width="22">](translations/README.bg.md)</kbd>
 <kbd>[<img title="Português (Brasil)" alt="Português (Brasil)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](translations/README.pt_br.md)</kbd>
 <kbd>[<img title="Català" alt="Català" src="https://firstcontributions.github.io/assets/Readme/catalan1.png" width="22">](translations/README.ca.md)</kbd>
-<kbd>[<img title="中文 (Simplified)" alt="中文 (Simplified)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cn.svg" width="22">](translations/README.zh-cn.md)</kbd>
-<kbd>[<img title="Czech" alt="Czech" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cz.svg" width="22">](translations/README.cs.md)</kbd>
-<kbd>[<img title="Deutsch" alt="Deutsch" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](translations/README.de.md)</kbd>
-<kbd>[<img title="Dansk" alt="Dansk" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/dk.svg" width="22">](translations/README.da.md)</kbd>
-<kbd>[<img title="العربية" alt="العربية" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/eg.svg" width="22">](translations/README.eg.md)</kbd>
-<kbd>[<img title="Española" alt="Española" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](translations/README.es.md)</kbd>
-<kbd>[<img title="Française" alt="Française" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](translations/README.fr.md)</kbd>
-<kbd>[<img title="Gaeilge" alt="Gaeilge" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ie.svg" width="22">](translations/README.ga.md)</kbd>
+<kbd>[<img title="中文 (Simplified)" alt="中文 (Simplified)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/cn.svg" width="22">](translations/README.zh-cn.md)</kbd>
+<kbd>[<img title="Czech" alt="Czech" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/cz.svg" width="22">](translations/README.cs.md)</kbd>
+<kbd>[<img title="Deutsch" alt="Deutsch" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](translations/README.de.md)</kbd>
+<kbd>[<img title="Dansk" alt="Dansk" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/dk.svg" width="22">](translations/README.da.md)</kbd>
+<kbd>[<img title="العربية" alt="العربية" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/eg.svg" width="22">](translations/README.eg.md)</kbd>
+<kbd>[<img title="Española" alt="Española" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](translations/README.es.md)</kbd>
+<kbd>[<img title="Française" alt="Française" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](translations/README.fr.md)</kbd>
+<kbd>[<img title="Gaeilge" alt="Gaeilge" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ie.svg" width="22">](translations/README.ga.md)</kbd>
 <kbd>[<img title="Galego" alt="Galego" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Galicia.svg/1200px-Flag_of_Galicia.svg.png" width="22">](translations/README.gl.md)</kbd>
 <kbd>[<img title="Ελληνικά" alt="Ελληνικά" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/gr.svg" width="22">](translations/README.gr.md)</kbd>
 <kbd>[<img title="ქართული" alt="ქართული" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ge.svg" width="22">](translations/README.ge.md)</kbd>
