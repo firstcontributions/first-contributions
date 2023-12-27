@@ -330,6 +330,7 @@
 - [Vivek Ghori](https://github.com/vivekghori)
 - [Sidd Panchal](https://github.com/sidthree6)
 - [Paul Ragsac](https://github.com/Chifuuyu)
+- [Amaury Morot](https://github.com/MorotAmaury)
 - [Nguyễn ĝức Khải](https://github.com/KhaiNguyenDuc)
 - [Navin Kumar](https://github.com/ns-0437)
 - [Sahil Saini](https://github.com/sahil-saini28)
