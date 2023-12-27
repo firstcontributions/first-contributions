@@ -481,6 +481,7 @@
 - [Gavin Ebenezer](https://github.com/gavieeen)
 - [Sanju Shaw](https://github.com/dashboard)
 - [Frosmin](https://github.com/Frosmin)
+- [aPeculiarUsername](https://github.com/aPeculiarUsername)
 - [yiong](https://github.com/gin280)
 - [Dedphish](https://github.com/Dedphish)
 - [Heeba Khan](https://github.com/heeba-khan)
