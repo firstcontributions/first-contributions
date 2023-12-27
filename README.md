@@ -18,6 +18,7 @@
 <kbd>[<img title="Deutsch" alt="Deutsch" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](translations/README.de.md)</kbd>
 <kbd>[<img title="Dansk" alt="Dansk" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/dk.svg" width="22">](translations/README.da.md)</kbd>
 <kbd>[<img title="العربية" alt="العربية" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/eg.svg" width="22">](translations/README.eg.md)</kbd>
+<kbd>[<img title="Dezéiriya" alt="Dezéiriya" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/dz.svg" width="22">](translations/README.dz.md)</kbd>
 <kbd>[<img title="Española" alt="Española" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](translations/README.es.md)</kbd>
 <kbd>[<img title="Française" alt="Française" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](translations/README.fr.md)</kbd>
 <kbd>[<img title="Gaeilge" alt="Gaeilge" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ie.svg" width="22">](translations/README.ga.md)</kbd>

@@ -466,6 +466,7 @@
 - [szl2](https://github.com/szl2)
 - Sujeeth
 - 1
+- [Farouk Younsi](https://github.com/pharouqy)
 - [Amna Hassan](https://github.com/Amna-Hassan04)
 - [Bart Miller](https://github.com/9opsec)
 - [Desmond](https://github.com/desmondezo1)
