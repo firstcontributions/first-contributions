@@ -220,3 +220,10 @@ Now let's get you started with contributing to other projects. We've compiled a 
     <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
   </a>
 </p>
+
+<!-- Back to Top Button -->
+<div align="center">
+
+[![Back to top](https://img.shields.io/badge/Back%20To%20Top-1abc9c)](#top)
+
+</div>
