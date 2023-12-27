@@ -519,6 +519,7 @@
 - [Harsh Hegishte](https://github.com/InCredH)
 - [Nat Barw](https://github.com/NatBarw)
 - [Levon Tumanyan](https://github.com/itfibonacci)
+- [Tigran Tumanyan](https://github.com/tikeysus)
 - [Dachuan Yang](https://github.com/ydc9988)
 - [Tapan Kapre](https://github.com/TolueneOverdose)
 - [Smaran Singh](https://github.com/SmaranSingh)
