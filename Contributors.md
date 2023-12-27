@@ -207,7 +207,7 @@
 - [Archer Chen](https://github.com/chenyongchangg)
 - [brandobogar](https://github.com/brandobogar)
 - [Maral Yousefi](https://github.com/Marall-Y)
-- [Elijah Love] (https://elijahlove.xyz)
+- [Elijah Love](https://elijahlove.xyz)
 - [Ashika Dsilva](https://github.com/ashikadsilva)
 - [tenere](https://github.com/000tenere000)
 - [Abiodun Sojobi](https://github.com/baysquire) [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/aes37175bb)
