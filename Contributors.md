@@ -620,6 +620,7 @@
 - [Jiejun Wu] (https://github.com/shadowwalker1)
 - [Ashwanth R Kumar](https://github.com/ashwanthrkumar)
 - [Avinash](https://github.com/avinash-550)
+- [PolarisKnight](https://github.com/PolarisKnight)
 - [Avijit Manna](https://github.com/manna-avijit)
 - [xStFtx](https://github.com/xStFtx)
 - [AwxChen](https://github.com/AwxChen)
