@@ -1,4 +1,5 @@
 # Contributors
+
 - [Sree Vardhan]
 - [Arnav Gupta]
 - [Meow Aadvik]
@@ -39,8 +40,8 @@
 - [Nafis Nihal](https://github.com/nafisnihal)
 - [Yogesh G](https://github.com/yogeshgunasekaran)
 - [Abdirashid Mowlid](https://github.com/Abdirashid-dv)
--[Priyansh Garg](https://github.com/prynshg)
-[Harish](https://github.com/HarishI123)
+- [Priyansh Garg](https://github.com/prynshg)
+- [Harish](https://github.com/HarishI123)
 - [Edgar Dikenge](https://github.com/edgar3g)
 - Nandini Kashyap
 - [Duc Dong](https://github.com/ducdongmg)
@@ -647,4 +648,5 @@
 - [AbhayKabdwal](https://github.com/AbhayKabdwal)
 - [MaximeRobertColin](ttps://github.com/mxm-rc/)
 - [Debasish Ray](https://github.com/debasishray16)
+- [Roshan Richard](https://github.com/richard-06)
 - [Kyle Parsotan](https://github.com/kyl67899)
