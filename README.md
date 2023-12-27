@@ -12,7 +12,6 @@
 <kbd>[<img title="Bulgarian" alt="Bulgarian" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/bg.svg" width="22">](translations/README.bg.md)</kbd>
 <kbd>[<img title="Português (Brasil)" alt="Português (Brasil)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](translations/README.pt_br.md)</kbd>
 <kbd>[<img title="Català" alt="Català" src="https://firstcontributions.github.io/assets/Readme/catalan1.png" width="22">](translations/README.ca.md)</kbd>
-<<<<<<< HEAD
 <kbd>[<img title="中文 (Simplified)" alt="中文 (Simplified)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cn.svg" width="22">](translations/README.zh-cn.md)</kbd>
 <kbd>[<img title="Czech" alt="Czech" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cz.svg" width="22">](translations/README.cs.md)</kbd>
 <kbd>[<img title="Deutsch" alt="Deutsch" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](translations/README.de.md)</kbd>
