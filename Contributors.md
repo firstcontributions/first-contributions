@@ -364,6 +364,7 @@
 - [Bhargav Shirin](https://github.com/bhargavshirin)
 - [Johan Chate](https://github.com/TCLJOHANT)
 - [Kai Kim](https://github.com/KaiKimiOS)
+- [Shay](https://github.com/shay-520)
 - [Shaikh Aman](https://github.com/ShaikhAman01)
 - [leanhvu21042001](https://github.com/leanhvu21042001)
 - [Manas Vyas](https://github.com/manas511)
