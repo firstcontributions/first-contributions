@@ -61,6 +61,7 @@
 <kbd>[<img title="中文(Traditional)" alt="中文(Traditional)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tw.svg" width="22">](translations/README.zh-tw.md)</kbd>
 <kbd>[<img title="Українська" alt="Українська" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ua.svg" width="22">](translations/README.ua.md)</kbd>
 <kbd>[<img title="Tiếng Việt" alt="Tiếng Việt" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/vn.svg" width="22">](translations/README.vn.md)</kbd>
+<kbd>[<img title="Tanzania" alt="Swahili language" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/tz.svg" width="22">](translations/README.sw.md)</kbd>
 <kbd>[<img title="Zulu (South Africa)" alt="Zulu (South Africa)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/za.svg" width="22">](translations/README.zul.md)</kbd>
 <kbd>[<img title="Afrikaans (South Africa)" alt="Afrikaans (South Africa)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/za.svg" width="22">](translations/README.afk.md)</kbd>
 <kbd>[<img title="Igbo (Nigeria)" alt="Igbo (Nigeria)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ng.svg" width="22">](translations/README.igb.md)</kbd>
