@@ -42,6 +42,7 @@
 - [Paul Lee](https://github.com/plee30)
 - [Daniel Niemann Hjermitslev](https://github.com/dnh33)
 - [Jonathan Jones](https://github.com/devJonathanJones)
+- [Liam Dwyer](https://github.com/ldwy4)
 - [Sentinal cell](https://github.com/Sentinal-cell)
 - [Penn Junior](https://github.com/Payne680)
 - [Rohan Bhautoo](https://github.com/rohan-bhautoo)
