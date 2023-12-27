@@ -335,6 +335,7 @@
 - [Ross Woods](https://github.com/RossCWoods)
 - [Ray Mercedes](https://github.com/coolrey3)
 - [DS-X1](https://github.com/DS-X1)
+- [kiznick](https://github.com/kiznick)
 - [Vytor Rennan Alves Carvalho](https://github.com/vytorrennan)
 - [Ethan Eckert](https://github.com/eth9n-dev)
 - [Dheeraj Pande](https://github.com/dheerajpande)
@@ -403,6 +404,7 @@
 - [mthomsn](https://github.com/mthomsn/mthomsn)sabe
 - [Kshitij Jadhav](https://github.com/kshitij-create)
 - Dhruv Rawat from India
+- [MangiNikhil](https://github.com/MangiNikhil)
 - [Busari Ismail Oladoja](https://github.com/Dojacom)
 - [youngwoo](https://github.com/Dandyoung)
 - [Tanisha Agarwal](https://github.com/Agrwaltanisha)
