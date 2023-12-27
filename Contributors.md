@@ -354,6 +354,7 @@
 - [Aadith Lasar](https://github.com/aadithlasar)
 - [Brian Johnson](https://github.com/bjohnson360)
 - [Huukiet Kevin Huynh](https://github.com/hukkhuynh)
+- [RacmanT](https://github.com/RacmanT)
 - [Nguyen Minh Hieu](https://github.com/nm-hieu)
 - [Rajiv Paul](https://github.com/rajiv-paul)
 - [NabeelWaq1](https://github.com/NabeelWaq1)
