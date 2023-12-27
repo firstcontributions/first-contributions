@@ -617,6 +617,7 @@
 - [Sachin Verma](https://github.com/s4chin-verma)
 - [Pennie Liu](https://github.com/liupeining)
 - [Pane Meng](https://github.com/NorthSeacoder)
+- [Rohit Kshirsagar](https://github.com/Rohitkshirsagar123)
 - [KangRan](https://github.com/2608492630)
 - [h3n5](https://github.com/h3n5)
 - [Kaif Zaffer](https://github.com/Kaifzaffer)
