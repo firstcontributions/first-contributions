@@ -5,8 +5,9 @@
 - Ho Ho Ho [Aditya Kapadia]
 - [Betsalel Geoffrey GOLO] (https://github.com/betsalel44)
 - [Toph](https://github.com/IndexChris)
+- [Arun Erram](https://github.com/arunerram)
 - [Navin P](https://github.com/mep1tz)
-- [Amol Pardeshi](https://github.com/AmolPardeshi99)
+- [Amol Pardeshi](https://gi thub.com/AmolPardeshi99)
 - [Shahil Kumar](https://github.com/Shahil9728)
 - [Sabri Cihan Bircan] (https://github.com/SabriCihan)
 - [Looki](https://github.com/Looki-fr)
@@ -334,6 +335,7 @@
 - [Ross Woods](https://github.com/RossCWoods)
 - [Ray Mercedes](https://github.com/coolrey3)
 - [DS-X1](https://github.com/DS-X1)
+- [kiznick](https://github.com/kiznick)
 - [Vytor Rennan Alves Carvalho](https://github.com/vytorrennan)
 - [Ethan Eckert](https://github.com/eth9n-dev)
 - [Dheeraj Pande](https://github.com/dheerajpande)
