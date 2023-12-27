@@ -463,6 +463,7 @@
 - [szl2](https://github.com/szl2)
 - Sujeeth
 - 1
+- [Amna Hassan](https://github.com/Amna-Hassan04)
 - [Bart Miller](https://github.com/9opsec)
 - [Desmond](https://github.com/desmondezo1)
 - [Arslan Hasanov](https://github.com/arslan7172)
@@ -589,7 +590,6 @@
 - [Yihun-Alemayehu](https://github.com/Yihun-Alemayehu)
 - [Atharva Malode](https://github.com/Atharva-Malode)
 - [Lavisha](https://github.com/LK-99)
-<<<<<<< HEAD
 - [Pulkit](https://github.com/pulkitpathak99)
 - [Mzwandile MJ Dlomo](https://github.com/Mzwandile-Dlomo)
 - [Nikhil](https://github.com/Nikhil7282)
