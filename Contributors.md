@@ -631,4 +631,4 @@
 - [AbhayKabdwal](https://github.com/AbhayKabdwal)
 - [MaximeRobertColin](ttps://github.com/mxm-rc/)
 - [Debasish Ray](https://github.com/debasishray16)
-- [Kyle Parsotan](https://github.com/kyl67899)
+- [Kyle Parsota](https://github.com/kyl67899)
