@@ -601,6 +601,7 @@
 - [kimdj](https://github.com/kimdj98)
 - [Nsikan Patrick Adaowo](https://github.com/NsikanPatrick)
 - [Om] (https://github.com/omdwid)
+- [Tigran Muradyan](https://github.com/gitananun)
 - [Jiejun Wu] (https://github.com/shadowwalker1)
 - [Ashwanth R Kumar](https://github.com/ashwanthrkumar)
 - [Avinash](https://github.com/avinash-550)
