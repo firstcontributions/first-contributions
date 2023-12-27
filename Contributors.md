@@ -5,6 +5,7 @@
 - Ho Ho Ho [Aditya Kapadia]
 - [Betsalel Geoffrey GOLO] (https://github.com/betsalel44)
 - [Toph](https://github.com/IndexChris)
+- [Arun Erram](https://github.com/arunerram)
 - [Navin P](https://github.com/mep1tz)
 - [Amol Pardeshi](https://github.com/AmolPardeshi99)
 - [Shahil Kumar](https://github.com/Shahil9728)
