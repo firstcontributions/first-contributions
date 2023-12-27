@@ -4,8 +4,14 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
+# ఓపెన్‌సోర్స్‌కు మీ మొదటి సహకారం
 
-# మొదటి కాంట్రిబ్యూషన్ 
+వ్యాసాలు చదవడం & చూడటం ట్యుటోరియల్స్ సహాయపడతాయి, కానీ వాస్తవంగా ఆచరణాత్మక వాతావరణంలో నేర్పిస్తున్నదాని కంటే మెరుగైనది ఏమిటి?
+
+మార్గదర్శిని అందించడం మరియు ఈ ప్రాజెక్ట్ ప్రారంభకులకు వారి మొదటి ఓపెన్ సోర్స్ సహకారం అందించే విధానాన్ని సరళీకరించడం మరియు మార్గనిర్దేశం చేయడం లక్ష్యంగా పెట్టుకుంది. మీరు మీ మొదటి ఓపెన్ సోర్స్స హకారం అందించాలని చూస్తున్నట్లయితే, దిగువ దశలను అనుసరించండి.
+
+
+#### *మీకు ఆదేశ పంక్తితో సౌకర్యంగా లేకపోతే, [ఇక్కడ GUI సాధనాలను ఉపయోగించి ట్యుటోరియల్స్ ఉన్నాయి.](#ఇతర-సాధనాలను-ఉపయోగించి-ట్యుటోరియల్స్)*
 
 
 
@@ -21,22 +27,22 @@
 
 మీ కంప్యూటర్ లో `GIT` లేకపోతే, [గిట్ వర్షన్ కంట్రోల్ సిస్టమ్ ను ఇన్స్టాల్ చేయండి](https://help.github.com/articles/set-up-git/).
 
-## ఈ రిపోసిటరీ ఫోర్క్ చేయండి.
+## ఈ రిపోజిటరీని  ఫోర్క్ చెయ్యండి
 
-పైనున్న ఫోర్క్  బట్టన్ ను నొక్కి ఈ రిపోని ఫోర్క్ చేయండి. ఇలా చేయడం వల్ల మీ `github` అకౌంట్లో  ఒక కాపీ  రిపోసిటరి సృష్టింప బడుతుంది.
+ఈ రిపోజిటరీని  ఫోర్క్ చెయ్యండి ఈ పేజీ ఎగువ భాగంలో ఫోర్క్ బటన్ పై క్లిక్ చేయడం ద్వారా క్లిక్ చేయండి.
+ఇది మీ ఖాతాలో ఈ రిపోజిటరీ కాపీని సృష్టిస్తుంది.
 
-
-## ఆ రిపోజిటరీ నీ క్లోన్ చేయండి 
+## ఈ రిపోజిటరీని  క్లోన్ చెయ్యండి
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-ఇప్పుడు మీ కంప్యూటరులో ఫోర్క్ చేసిన రిపోను క్లోన్ చేయండి. మీ GitHub ఖాతాకు వెళ్లండి, ఫోర్క్ రెపోని తెరిచి, కోడ్ బటన్ పై క్లిక్ చేసి, ఆపై *కాపీ టు క్లిప్బోర్డ్* క్లిక్ చేయండి.
+ఇప్పుడు మీ కంప్యూటరులో ఫోర్క్ రిపోను క్లోన్ చేయండి. మీ GitHub ఖాతాకు వెళ్లండి, ఫోర్క్డ్ రెపోని తెరిచి, క్లోన్ బటన్పై క్లిక్ చేసి, ఆపై * కాపీ * క్లిప్బోర్డ్కు క్లిక్ చేయండి.
 
 టెర్మినల్ తెరిచి కింది git ఆదేశాన్ని అమలు చేయండి:
-```bash
-git clone "url మీరు కాపీ చేసారు"
 ```
-ఇక్కడ "url మీ కాపీ" (కోట్ మార్కులు లేకుండా) మీరు ఫోర్క్ చేసిన రిపోజిటరీ కి  URL. Url ను పొందడానికి మునుపటి దశలను చూడండి.
+git clone "మీరు ఇప్పుడే కాపీ చేసిన url"
+```
+ఇక్కడ "మీరు ఇప్పుడే కాపీ చేసిన url" (కోట్ మార్కులు లేకుండా) ఈ రిపోజిటరీకి URL (ఈ ప్రాజెక్టు మీ ఫోర్క్). Url ను పొందడానికి మునుపటి దశలను చూడండి.
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 ఉదాహరణకి:
@@ -47,7 +53,7 @@ git clone https://github.com/this-is-you/first-contributions.git
 
 ## నూతన బ్రాంచ్ ను సృష్టించండి
 
-మీ కంప్యూటర్లో రిపోజిటరీ యొక్క డైరెక్టరీకి మార్చండి .
+మీ కంప్యూటర్‌లోని రిపోజిటరీ డైరెక్టరీకి మార్చండి (మీరు ఇప్పటికే అక్కడ లేకపోతే):
 
 ```bash
 cd first-contributions
@@ -82,13 +88,23 @@ git commit -m "Add <your-name> to Contributors list"
 ```
 `<your-name>` ని తొలగించి  మీ పేరును కలపండి.
 
-## మార్పులను GitHub కు పంపండి
+## GitHubకి మార్పులను పుష్ చేయండి
 
 కమాండ్ ఉపయోగించి మీ మార్పులను పంపండి `git push`:
 ```bash
 git push origin <add-your-branch-name>
 ```
 మీరు ముందుగా సృష్టించిన బ్రాంచీ పేరుతో `<add-your-branch-name>` ను జోడించుము.
+<details>
+<summary> <strong>GitHubలోకి  నెట్టేటప్పుడు మీకు ఏవైనా లోపాలు వస్తే, ఇక్కడ క్లిక్ చేయండి:</strong> </summary>
+
+- ### ప్రమాణీకరణ లోపం
+     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  మీ ఖాతాకు SSH కీని రూపొందించడం మరియు కాన్ఫిగర్ చేయడంపై [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) వెళ్లండి.
+
+</details>
 
 ## సమీక్ష కోసం మీ మార్పులను సమర్పించండి
 
@@ -107,9 +123,9 @@ git push origin <add-your-branch-name>
 
 అభినందనలు! మీరు స్టాండర్డ్ _fork -> clone -> edit -> PR_  వర్క్ ఫ్లో ను పూర్తి చేసారు.
 
-మీ కాంట్రిబ్యూషన్ ని సెలబ్రేట్ చేయండి మరియు మీ స్నేహితులు మరియు అనుచరులతో దీన్ని  పంచుకొనండి[web app](https://firstcontributions.github.io/#social-share) కు వెళ్లండి.
+[వెబ్ యాప్‌కి](https://firstcontributions.github.io/#social-share) వెళ్లడం ద్వారా మీ సహకారాన్ని జరుపుకోండి మరియు మీ స్నేహితులు మరియు అనుచరులతో భాగస్వామ్యం చేయండి.
 
-మీకు ఏ సహాయం అవసరం అయిన లేదా ఏవైనా ప్రశ్నలు ఉంటే మీరు మా  `join ఇన్ our Slak team`స్లాక్ జట్టులో చేరవచ్చు. [స్లాక్ జట్టులో చేరండి](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
+మీకు ఏదైనా సహాయం అవసరమైతే లేదా ఏవైనా ప్రశ్నలు ఉంటే మీరు మా స్లాక్ టీమ్‌లో చేరవచ్చు.[స్లాక్ జట్టులో చేరండి](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 
 ఇక, ఇప్పుడు మీరు ఇతర ప్రాజెక్టులకు తోడ్పడటం ప్రారంభించండి. మీరు ప్రారంభించగల సులభమైన సమస్యలతో ప్రాజెక్టుల జాబితాను మేము రెడీ చేసాము. [వెబ్ ప్రాజెక్టుల జాబితాలు](https://firstcontributions.github.io/#project-list) ను చూడండి.
 
