@@ -1,6 +1,7 @@
 # Contributors
 - [Sree Vardhan]
 - [Arnav Gupta]
+- [Meow Aadvik]
 - Ho Ho Ho [Aditya Kapadia]
 - [Betsalel Geoffrey GOLO] (https://github.com/betsalel44)
 - [Toph](https://github.com/IndexChris)
