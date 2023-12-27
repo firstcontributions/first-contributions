@@ -1,4 +1,5 @@
 # Contributors
+
 - [Sree Vardhan]
 - [Arnav Gupta]
 - [Meow Aadvik]
@@ -37,9 +38,8 @@
 - [Ogunleye](https://github.com/ogunleye0720)
 - [Nafis Nihal](https://github.com/nafisnihal)
 - [Yogesh G](https://github.com/yogeshgunasekaran)
-- [Abdirashid Mowlid](https://github.com/Abdirashid-dv)
--[Priyansh Garg](https://github.com/prynshg)
-[Harish](https://github.com/HarishI123)
+- [Abdirashid Mowlid](https://github.com/Abdirashid-dv) -[Priyansh Garg](https://github.com/prynshg)
+  [Harish](https://github.com/HarishI123)
 - Nandini Kashyap
 - [Duc Dong](https://github.com/ducdongmg)
 - [Abstract Hunter](https://github.com/abstractHunter) [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/yao-daniel-attitsogbe/)
@@ -635,4 +635,4 @@
 - [Amit Kumar](https://github.com/amitvish)
 - [AbhayKabdwal](https://github.com/AbhayKabdwal)
 - [MaximeRobertColin](ttps://github.com/mxm-rc/)
-- [Debasish Ray](https://github.com/debasishray16)
+- [Debasish Ray](https://github.com/debasishray16) -[Roshan Richard](https://github.com/richard-06)
