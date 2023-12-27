@@ -40,6 +40,7 @@
 - [Abdirashid Mowlid](https://github.com/Abdirashid-dv)
 -[Priyansh Garg](https://github.com/prynshg)
 [Harish](https://github.com/HarishI123)
+- [Edgar Dikenge](https://github.com/edgar3g)
 - Nandini Kashyap
 - [Duc Dong](https://github.com/ducdongmg)
 - [Abstract Hunter](https://github.com/abstractHunter) [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/yao-daniel-attitsogbe/)
