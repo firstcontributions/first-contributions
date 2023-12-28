@@ -266,6 +266,7 @@
 - [heywhf](https://github.com/heywhf)
 - [Shiv Dev](https://github.com/Sh1vd3v)
 - [Joana Leoni](https://github.com/joanaleoni)
+- [Matheus Santos](https://github.com/matheussalencarr)
 - [Godwin847](https://github.com/Godwin847)
 - [Ritam Chatterjee](https://github.com/regnna)
 - [Muhammad Maarij Zeeshan](https://github.com/muhammad-maarij-zeeshan)
