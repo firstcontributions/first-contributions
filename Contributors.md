@@ -263,6 +263,7 @@
 - [Ifeoluwah](https://github.com/ifeoluwah21)
 - [Dbecausing](https://github.com/dbecausing)
 - [heywhf](https://github.com/heywhf)
+- [Shiv Dev](https://github.com/Sh1vd3v)
 - [Joana Leoni](https://github.com/joanaleoni)
 - [Godwin847](https://github.com/Godwin847)
 - [Ritam Chatterjee](https://github.com/regnna)
