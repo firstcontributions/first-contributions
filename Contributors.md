@@ -523,6 +523,7 @@
 - [bagechengzi](https://github.com/bagechengzi)
 - [Naman Kumar](https://github.com/codespace555)
 - [Barry Xu](https://github.com/BarryXu777)
+- [jackiesogi](https://github.com/jackiesogi)
 - [Korada Vishal](https://github.com/Vishalk91-4)
 - [Gavin Ebenezer](https://github.com/gavieeen)
 - [Sanju Shaw](https://github.com/dashboard)
