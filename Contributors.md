@@ -417,6 +417,7 @@
 - [Felipe Arruda](https://github.com/FelipeArruda)
 - [William-D-Miller-Jr-AKA-王比尔](https://github.com/bijiyiqi2017)
 - [Carlo Inserra](https://github.com/Carleoinserra)
+- [Deepak Malik](https://github.com/deepakmalikk)
 - [kaif-khan](https://github.com/shadowfaxx1)
 - [asad-ahmed](https://github.com/asadjalbani)
 - [Yeshwanth A](https://github.com/Yeshwanth-A)
