@@ -2,6 +2,7 @@
 
 - [Sree Vardhan]
 - [Arnav Gupta]
+- 🐈‍⬛[lonely_caat](https://github.com/lonely-caat)🐈‍⬛
 - [Meow Aadvik]
 - Ho Ho Ho [Aditya Kapadia]
 - 😎[James Kwon Lee]😎
