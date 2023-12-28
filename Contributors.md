@@ -18,6 +18,7 @@
 - [Shahil Kumar](https://github.com/Shahil9728)
 - [Sabri Cihan Bircan] (https://github.com/SabriCihan)
 - [Looki](https://github.com/Looki-fr)
+- [ITS MAC](https://github.com/itsmacr8)
 - [Rohit Roy](https://github.com/Roy009)
 - [chief-fei](https://github.com/chief-fei)
 - [Sushant](https://github.com/sushxnt)
