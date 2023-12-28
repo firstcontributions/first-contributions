@@ -23,6 +23,8 @@
 - [chief-fei](https://github.com/chief-fei)
 - [Sushant](https://github.com/sushxnt)
 - [JamZ](https://github.com/JamZYM)
+- [JamZ](https://github.com/JamZYM)
+- [Mrat Wong](https://github.com/MratWong)
 - [chandan] (https://github.com/chandanyuva)
 - [Shraddha Nand Shah] (https://github.com/shraddha1512)
 - [Sourabh Kr. Rajput](https://github.com/Sourabh-Kr-Rajput)
@@ -685,4 +687,4 @@
 - [Anuj Bhati](https://github.com/anujbhati1)
 - [Bezal Stephen](https://github.com/beeezal)
 - [Mia] (https://github.com/MiaHsieh9003)
-- [EL] 
+- [EL]
