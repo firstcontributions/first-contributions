@@ -130,6 +130,7 @@
 - [Srijan Biswas](https://github.com/srijanB7)
 - [Dinesh Dhanji](https://github.com/DineshDhanji)
 - [Ziwen Ming](https://github.com/3miumi)
+- [Joise](https://github.com/Hawthorn-1010)
 - [Mtwa Mgimwa](https://github.com/cisco2001)
 - [promax1113](https://github.com/promax1113)
 - [darkdevil3610](https://github.com/darkdevil3610)
