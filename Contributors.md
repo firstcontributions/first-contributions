@@ -6,7 +6,8 @@
 - [Meow Aadvik]
 - Ho Ho Ho [Aditya Kapadia]
 - 😎[James Kwon Lee]😎
-- [Kapil Sharma](https://github.com/codingwithkapil)
+- [Kapil Sharma](https://github.com/codingwithkapil
+- [Zachary Brugh](https://github.com/zachbrugh)
 - [Kelvin okumu](https://github.com/kelvinokumu)
 - [Betsalel Geoffrey GOLO] (https://github.com/betsalel44)
 - [Toph](https://github.com/IndexChris)
@@ -75,7 +76,7 @@
 - [David Ejiro](https://github.com/David-Ejiro)
 - [grzegorzkoszczal](https://github.com/grzegorzkoszczal)
 - [Felicia H](https://github.com/coder02603)
-- [Ritwick Raj Makhal](https://github.com/ritwickrajmakhal)
+- [Ritwick Raj Makhal](https://github.com/ritwickrajmakhal
 - [Pritha Maity](https://github.com/PrithaMaity)
 - [Ejaz Khan](https://github.com/ejazkhan172)
 - [dhrinch](https://github.com/dhrinch)
