@@ -32,6 +32,7 @@
 - [Walt Bringenberg](https://github.com/wwaltb)
 - [Precious Ojogu] (https://github.com/Prevz26)
 - [Rohit Kumar](https://github.com/Rohit10701)
+- [Fedevcoding](https://github.com/fedevcoding)
 - [Abdulsalam Yusuf](https://github.com/hyoukarh)
 - [Sanjana](https://github.com/sanjanabharath)
 - [Atul](https://github.com/Atuls-git)
