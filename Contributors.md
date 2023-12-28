@@ -99,6 +99,7 @@
 - [sabhanaaz Hussain](https://github.com/sabhanaaz)
 - [sabhanaaz](https://github.com/sabhanaaz)
 - [Kennedy Ekanem](https://github.com/KenEkanem)
+- [inclinated](https://github.com/inclinated)
 - [DankGuy](https://github.com/DankGuy)
 - [Edmond Prin] (https://github.com/edmondprin)
 - [Ram Deepak] (https://github.com/Ram-Deepak)
