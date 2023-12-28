@@ -314,6 +314,7 @@
 - [Muhammad Zidan Fatonie](https://github.com/mzf11125)👋
 - [Vishnu Kumar V](https://github.com/vichustephen)
 - [Batuhan Karakaya](https://github.com/batuhannnkarakaya)
+- [sindhu1237] (https://github.com/sindhu1237)
 - [John O](https://github.com/CrispyTwilight)
 - [Shambhavi20031984 ](https://github.com/Shambhavi20031984)
 - [Anirudha Patil](https://github.com/AnirudhaPatil-1)
