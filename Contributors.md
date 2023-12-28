@@ -3,6 +3,7 @@
 - [Sree Vardhan]
 - [Arnav Gupta]
 - [yukendhiran](https://github.com/yukendhiran)
+- [Athul Nambiar](http://github.com/athul-22)
 - 🐈‍⬛[lonely_caat](https://github.com/lonely-caat)🐈‍⬛
 - [Meow Aadvik]
 - Ho Ho Ho [Aditya Kapadia]
