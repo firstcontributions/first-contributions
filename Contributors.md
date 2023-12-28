@@ -25,6 +25,7 @@
 - [Precious Ojogu] (https://github.com/Prevz26)
 - [Rohit Kumar](https://github.com/Rohit10701)
 - [Abdulsalam Yusuf](https://github.com/hyoukarh)
+- [Sanjana](https://github.com/sanjanabharath)
 - [Atul](https://github.com/Atuls-git)
 - [Jishnu Singh](https://github.com/Siam5ell)
 - [Micheal eze obianuka](https://github.com/Mykelz)
