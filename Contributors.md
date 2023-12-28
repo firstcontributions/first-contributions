@@ -597,6 +597,7 @@
 - [Deekshith Manohar](https://github.com/deek-15)
 - [Gabriel Luiz](https://github.com/GabrielL915)
 - [Wenle Bao](https://github.com/wenle)
+-[Pallavi Khedle](https://github.com/PALLAVIKHEDLE)
 - [Asghar Abbasi](https://github.com/asghar267)
 - [Dominic Prince](https://github.com/drp46220)
 - [Md Faizan](https://github.com/thesuaveguy)
