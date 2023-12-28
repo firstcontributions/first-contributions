@@ -18,6 +18,7 @@
 - [Shubham Kumar] (https://github.com/shubh1777)
 - [Amol Pardeshi](https://gi thub.com/AmolPardeshi99)
 - [Shahil Kumar](https://github.com/Shahil9728)
+- [Simon Nguyen]
 - [Sabri Cihan Bircan] (https://github.com/SabriCihan)
 - [Looki](https://github.com/Looki-fr)
 - [ITS MAC](https://github.com/itsmacr8)
@@ -692,3 +693,4 @@
 - [Bezal Stephen](https://github.com/beeezal)
 - [Mia] (https://github.com/MiaHsieh9003)
 - [EL]
+- 
