@@ -675,3 +675,4 @@
 - [yashsingh](https://github.com/YashDxr)
 - [Tyler Le](https://github.com/Tylernpc)
 - [Anuj Bhati](https://github.com/anujbhati1)
+- [Bezal Stephen](https://github.com/beeezal)
