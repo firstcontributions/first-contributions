@@ -12,7 +12,7 @@ _Dacă nu vă simțiți confortabil folosind linia de comandă, [aici sunt tutor
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Realizați bifurcația depozitului" />
 
-#### Dacă nu ai git instalat, [instalează-l](https://help.github.com/articles/set-up-git/).
+#### Dacă nu ai git instalat, [instalează-l](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
 ## Realizați bifurcația depozitului
 
@@ -30,15 +30,17 @@ Deschideți un terminal și executați următoarea comandă Git:
 ```bash
 git clone "URL-ul pe care l-ați copiat"
 ```
-unde `URL-ul pe care l-ați copiat` (fără ghilimele) este URL-ul către acest depozit (bifurcarea dvs. a acestui proiect). Consultați pașii anteriori pentru a obține URL-ul.
+
+unde "URL-ul pe care l-ați copiat" (fără ghilimele) este URL-ul către acest depozit (bifurcarea dvs. a acestui proiect). Consultați pașii anteriori pentru a obține URL-ul.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="Copiați URL-ul în clipboard" />
 
 De exemplu:
 
 ```bash
-git clone https://github.com/numele-tau/first-contributions.git
+git clone git@github.com:numele-tau/first-contributions.git
 ```
+
 unde `numele-tau` reprezintă numele dvs. de utilizator GitHub. Aici copiați conținutul depozitului _first-contributions_ de pe GitHub pe computerul dvs.
 
 ## Creați o ramură
@@ -80,6 +82,7 @@ Acum comiteți acele modificări folosind comanda `git commit`:
 ```bash
 git commit -m "Adaug numele-tau la lista de Contribuitori"
 ```
+
 înlocuind `numele-tau` cu numele dvs.
 
 ## Încărcați modificările pe GitHub
@@ -89,6 +92,7 @@ git commit -m "Adaug numele-tau la lista de Contribuitori"
 ```bash
 git push -u origin numele-ramurii-tale
 ```
+
 înlocuind `numele-ramurii-tale` cu numele ramurii pe care ați creat-o anterior.
 
 <details>
@@ -127,7 +131,6 @@ Puteți să vă alăturați echipei noastre Slack dacă aveți nevoie de ajutor 
 Acum să vă începem cu contribuția la alte proiecte. Am compilat o listă de proiecte cu probleme ușoare cu care puteți începe. Verificați [lista de proiecte din aplicația web](https://firstcontributions.github.io/#project-list).
 
 ### [Materiale suplimentare](additional-material/git_workflow_scenarios/additional-material.md)
-
 
 ## Tutoriale Folosind Alte Unelte (GUI)
 
