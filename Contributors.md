@@ -5,6 +5,7 @@
 - [Meow Aadvik]
 - Ho Ho Ho [Aditya Kapadia]
 - 😎[James Kwon Lee]😎
+- [Kapil Sharma](https://github.com/codingwithkapil)
 - [Kelvin okumu](https://github.com/kelvinokumu)
 - [Betsalel Geoffrey GOLO] (https://github.com/betsalel44)
 - [Toph](https://github.com/IndexChris)
