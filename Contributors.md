@@ -337,6 +337,7 @@
 - [Paul Ragsac](https://github.com/Chifuuyu)
 - [Amaury Morot](https://github.com/MorotAmaury)
 - [Nguyễn ĝức Khải](https://github.com/KhaiNguyenDuc)
+- [Nick Alben](https://github.com/NAlb-23)
 - [Navin Kumar](https://github.com/ns-0437)
 - [Sahil Saini](https://github.com/sahil-saini28)
 - [James Ngugi](https://github.com/JamesK254)
