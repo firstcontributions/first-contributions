@@ -26,7 +26,7 @@
 - [chandan] (https://github.com/chandanyuva)
 - [Shraddha Nand Shah] (https://github.com/shraddha1512)
 - [Sourabh Kr. Rajput](https://github.com/Sourabh-Kr-Rajput)
-- [Mrat Wong](https://github.com/MratWong)
+- [MratWong](https://github.com/MratWong)
 - [Walt Bringenberg](https://github.com/wwaltb)
 - [Precious Ojogu] (https://github.com/Prevz26)
 - [Rohit Kumar](https://github.com/Rohit10701)
