@@ -41,7 +41,8 @@ Halimbawa:
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-kung saan ang `this-is-you` ay ang iyong GitHub username. Dito mo kinokopya ang mga nilalaman ng repositoryo ng mga unang kontribusyon sa GitHub sa iyong computer.
+
+Narito kung saan ang this-is-you ay ang iyong username sa GitHub. Dito, ikaw ay naghahanap ng mga nilalaman ng repository ng unang kontribusyon sa GitHub at ini-kopya ito papunta sa iyong computer.
 
 ## Gumawa ng sangay
 
@@ -65,7 +66,7 @@ git switch -c add-alonzo-church
 
 ## Gumawa ng mga kinakailangang pagbabago at gawin ang mga pagbabagong iyon
 
-Ngayon buksan ang `Contributors.md` file sa isang text editor, idagdag ang iyong pangalan dito. Huwag idagdag ito sa simula o dulo ng file. Ilagay ito kahit saan sa pagitan. Ngayon, i-save ang file.
+Sa kasalukuyan, buksan ang Contributors.md file gamit ang isang text editor. Dito ay idagdag ang iyong pangalan. Mangyaring huwag ilagay ito sa umpisa o sa huli ng file. Maaring ilagay ito kahit saang bahagi sa gitna. Pagkatapos, i-save ang file.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
