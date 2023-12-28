@@ -693,3 +693,4 @@
 - [Mia] (https://github.com/MiaHsieh9003)
 - [EL]
 - [`Orunto Eniola`](https://github.com/orunto)
+- [`Pedro Frey`](https://github.com/PedroFrey)
