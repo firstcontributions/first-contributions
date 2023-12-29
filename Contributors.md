@@ -9,7 +9,7 @@
 - [Meow Aadvik]
 - [Paul Gobbé](https://github.com/PolGbe) ##Thanks 😎
 - Ho Ho Ho [Aditya Kapadia]
-- [Franco Pro](https://github.com/franco-pro)  ##Thanks for the help
+- [Franco Pro](https://github.com/franco-pro) ##Thanks for the help
 - 😎[James Kwon Lee]😎
 - [Kapil Sharma](https://github.com/codingwithkapil)
 - [Martins Olumide](https://github.com/Martins100-Tmd)
@@ -41,6 +41,7 @@
 - [Abdulsalam Yusuf](https://github.com/hyoukarh)
 - [Sanjana](https://github.com/sanjanabharath)
 - [Atul](https://github.com/Atuls-git)
+- [Ajith Kumar Gurram](https://github.com/Azzuzie)
 - [Jishnu Singh](https://github.com/Siam5ell)
 - [Matheus Alencar](https://github.com/MatThHeuss)
 - [Micheal eze obianuka](https://github.com/Mykelz)
@@ -613,8 +614,7 @@
 - [Sanchitha Sharma Ranganathaiah](https://github.com/Sanchithasharma)
 - [Deekshith Manohar](https://github.com/deek-15)
 - [Gabriel Luiz](https://github.com/GabrielL915)
-- [Wenle Bao](https://github.com/wenle)
--[Pallavi Khedle](https://github.com/PALLAVIKHEDLE)
+- [Wenle Bao](https://github.com/wenle) -[Pallavi Khedle](https://github.com/PALLAVIKHEDLE)
 - [Asghar Abbasi](https://github.com/asghar267)
 - [Dominic Prince](https://github.com/drp46220)
 - [Md Faizan](https://github.com/thesuaveguy)
