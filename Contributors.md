@@ -67,6 +67,7 @@
 - [Priyansh Garg](https://github.com/prynshg)
 - [Harish](https://github.com/HarishI123)
 - [Edgar Dikenge](https://github.com/edgar3g)
+- [Osama Ahmad](https://github.com/oahmadgit)
 - [Guillaume Muller](https://github.com/gmuller-dev)
 - Nandini Kashyap
 - [Duc Dong](https://github.com/ducdongmg)
