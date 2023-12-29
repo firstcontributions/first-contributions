@@ -725,3 +725,4 @@
 - 🐪 [DevNomad17](https://github.com/DevNomad17)
 - [Verissimo Cassange](https://github.com/Vec21)
 - [DevSquares] (https://github.com/devsquaresio)
+- [hassanzahidd] (https://github.com/hassanzahidd)
