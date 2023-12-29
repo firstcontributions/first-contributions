@@ -7,6 +7,7 @@
 - [Athul Nambiar](http://github.com/athul-22)
 - 🐈‍⬛[lonely_caat](https://github.com/lonely-caat)🐈‍⬛
 - [Meow Aadvik]
+- [Deepika Jain] (https://github.com/deepika8383)
 - [Paul Gobbé](https://github.com/PolGbe) ##Thanks 😎
 - Ho Ho Ho [Aditya Kapadia]
 - [Franco Pro](https://github.com/franco-pro)  ##Thanks for the help
