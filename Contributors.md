@@ -48,6 +48,7 @@
 - [Tal Shaked](https://github.com/talshaked-git)
 - [Aryan Mehta](https://github.com/aryan-mehta)
 - [Sab3ha](https://github.com/Sab3ha)
+
 - [HosamEldeen Reda](https://github.com/hosamr)
 - [Ogunleye](https://github.com/ogunleye0720)
 - [Nafis Nihal](https://github.com/nafisnihal)
@@ -347,6 +348,7 @@
 - [Magframed](https://github.com/SarthakH19)
 - [Kushal](https://github.com/kushal-p1699)
 - [Akshith](https://github.com/Akshith1998)
+- [Joel Inyang](https://github.com/JoelInyang)
 - [Gilbert Ozioma](https://github.com/gilbertozioma)
 - [Wong CZ](https://github.com/czwong02)
 - [Earl Villapaz](https://github.com/iearlg)
