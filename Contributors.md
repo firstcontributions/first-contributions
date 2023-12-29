@@ -712,3 +712,4 @@
 - [`Pedro Frey`](https://github.com/PedroFrey)
 - [Smith] (https://github.com/kalappirar)
 - [Shalex] (https://github.com/shalexandeer)
+- 🐪 [DevNomad17](https://github.com/DevNomad17)
