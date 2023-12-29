@@ -17,6 +17,7 @@
 - [Faith Adewuyi](https://github.com/faithadewuyi)
 - [Martins Olumide](https://github.com/Martins100-Tmd)
 - [Anslem](https://github.com/Anslem1)
+- [Nehal Ingole](https://github.com/Ingole712521)
 - [Kelvin okumu](https://github.com/kelvinokumu)
 - [Betsalel Geoffrey GOLO] (https://github.com/betsalel44)
 - [Toph](https://github.com/IndexChris)
