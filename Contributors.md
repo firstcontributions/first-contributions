@@ -130,6 +130,7 @@
 - [Juliet Ofoegbu](https://github.com/OmaJuliet)
 - [jaroslaw1](https://github.com/iaroslaw1)
 - [Tim Maingi](https://github.com/Merch7x)
+- [Hruthik Anugula](https://github.com/hruthikgithubrit)
 - [Taiwo Akerele] (https://github.com/TaiwoSoftware)
 - [MK Saba](https://github.com/mksaba)
 - [Garfield](https://github.com/jiafie7)
