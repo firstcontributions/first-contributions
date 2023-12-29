@@ -236,6 +236,7 @@
 - [Alan](https://github.com/AlanThisis)
 - [Rahul Jindal](https://github.com/rahuljindal1)
 - [Art Villareal](https://github.com/Bushido-Art)
+- [Danilo Znamerovszkij](https://github.com/danilo-znamerovszkij)
 - [Daniel Kaijzer](https://github.com/danielkaijzer)
 - [Ephraim Beltran](https://github.com/ephraim-beltran)
 - [heywhf](https://github.com/heywhf)
