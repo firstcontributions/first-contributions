@@ -50,6 +50,7 @@
 - [Aryan Mehta](https://github.com/aryan-mehta)
 - [Sab3ha](https://github.com/Sab3ha)
 - [HosamEldeen Reda](https://github.com/hosamr)
+- [Nishar Miya](https://github.com/miyannishar)
 - [Ogunleye](https://github.com/ogunleye0720)
 - [Nafis Nihal](https://github.com/nafisnihal)
 - [Yogesh G](https://github.com/yogeshgunasekaran)
