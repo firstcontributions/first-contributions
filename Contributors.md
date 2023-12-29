@@ -721,6 +721,7 @@
 - [Anuj Bhati](https://github.com/anujbhati1)
 - [Bezal Stephen](https://github.com/beeezal)
 - [Mia] (https://github.com/MiaHsieh9003)
+- [Wa]
 - [EL]
 - [`Orunto Eniola`](https://github.com/orunto)
 - [`Pedro Frey`](https://github.com/PedroFrey)
