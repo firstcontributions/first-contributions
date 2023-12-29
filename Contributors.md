@@ -301,6 +301,7 @@
 - [Ebrar Altunkaynak](https://github.com/ebrardev)
 - [Anochiwa Alfred](https://github.com/AnochiwaAlfred)
 - [Dilan Kaya](https://github.com/DilanKaya127)
+- [Matteo Bongiovanni](https://github.com/matteobongio)
 - [Taha S. ASAN](https://github.com/tahaasann)
 - [Safa Osman](https://github.com/swafak)
 - [Sagar Shelke](https://github.com/seeprogramming)
