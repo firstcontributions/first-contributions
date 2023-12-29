@@ -688,6 +688,7 @@
 - [Rupom](https://github.com/RupomChowdhury)
 - [Kashyap](https://github.com/Kashyap012)
 - [nycgp][nycgp (github.com)](https://github.com/nycgp)
+- [Mindi Weik](https://github.com/mindiweik)
 - [ZEEL](https://github.com/zeelapatel)
 - [Darek](https://github.com/darekLas)
 - [CyperX](https://github.com/cyperx84)
