@@ -166,6 +166,7 @@
 - [Lorraine](https://github.com/WambiruL)
 - [Negan Nguyen](https://github.com/nenene1812)
 - [Chen Jiang](https://github.com/LuluLalaJ)
+- [Adwaith M K](https://github.com/a-dwaith)
 - [Quan Do](https://github.com/dodangquan123)
 - [Paerarason](https://github.com/paerarason)
 - [Shubham](https://github.com/shubhamparmar1)
