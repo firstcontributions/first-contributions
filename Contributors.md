@@ -1,5 +1,6 @@
 # Contributors
 
+-[Shaheer Dudekula]
 - [Sree Vardhan]
 - [Arnav Gupta]
 - [Yuvaraj V](https://github.com/Yuvaraj643)
