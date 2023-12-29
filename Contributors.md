@@ -635,6 +635,7 @@
 - [Andrey Simanovich](https://github.com/asktosimon)
 - [Clint Simiyu](https://github.com/Clint171)
 - [Ana Souza](https://github.com/analiciasouza)
+- [CJ Rieth](https://github.com/cjrieth)
 - [Johnny Eve](https://github.com/johnnyeve)
 - [Pterk96](https://github.com/Pterk96)
 - [sree charan](https://github.com/sreecharan7)
