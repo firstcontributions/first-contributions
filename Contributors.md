@@ -315,6 +315,7 @@
 - [alekhine](https://github.com/Src0p)
 - [Mtendekuyokwa19](https://github.com/Mtendekuyokwa19)
 - [Watpo54](https://github.com/Watpo54)
+- [VishalShevale](https://github.com/VishalShevale)
 - [Enverhan Oksuz](https://github.com/enverhann)
 - [sognatoreZ](https://github.com/sognatoreZ)
 - [Eliptik111](https://github.com/eliptik1)
