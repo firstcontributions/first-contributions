@@ -697,3 +697,4 @@
 - [EL]
 - [`Orunto Eniola`](https://github.com/orunto)
 - [`Pedro Frey`](https://github.com/PedroFrey)
+- [Smith] (https://github.com/kalappirar)
