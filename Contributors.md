@@ -116,6 +116,7 @@
 - [sabhanaaz](https://github.com/sabhanaaz)
 - [Kennedy Ekanem](https://github.com/KenEkanem)
 - [inclinated](https://github.com/inclinated)
+- [Aakruti Kalia](https://github.com/akku-07)
 - [DankGuy](https://github.com/DankGuy)
 - [Edmond Prin] (https://github.com/edmondprin)
 - [Ram Deepak] (https://github.com/Ram-Deepak)
