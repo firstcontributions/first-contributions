@@ -2,6 +2,7 @@
 
 - [Sree Vardhan]
 - [Arnav Gupta]
+- [Yuvaraj V](https://github.com/Yuvaraj643)
 - [yukendhiran](https://github.com/yukendhiran)
 - [Athul Nambiar](http://github.com/athul-22)
 - 🐈‍⬛[lonely_caat](https://github.com/lonely-caat)🐈‍⬛
