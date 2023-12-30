@@ -248,6 +248,7 @@
 - [bananapretzel](https://github.com/bananapretzel)
 - [Siddharth Vasu](https://github.com/sidvasu)
 - [cweitong](https://github.com/cwt0213)
+  [Myo Afolabi](https://github.com/myoeverblazin)
 - [hawkingwallct](https://github.com/hawkingwallct)
 - [Flyaway](https://github.com/kayua27)
 - [Eyal-Haimov](htpps://github.com/blindka)
