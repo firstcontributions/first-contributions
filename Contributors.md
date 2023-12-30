@@ -581,6 +581,7 @@
 - [Archit Kohli](https://github.com/Archit-Kohli)
 - [Rahul Vikram](https://github.com/rahulvikram)
 - [E-E-N](https://github.com/E-E-N)
+- Caleb W
 - [chibuye kunda](https://github.com/chibuye99)
 - [Alejandro Bergasa](https://github.com/alejandrobergasa)
 - [Alexis Camacho](https://github.com/ccdagreat)
