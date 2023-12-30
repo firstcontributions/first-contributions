@@ -545,6 +545,7 @@
 - [Farouk Younsi](https://github.com/pharouqy)
 - [Amna Hassan](https://github.com/Amna-Hassan04)
 - [Bart Miller](https://github.com/9opsec)
+- [Bartlett351](https://github.com/Bartlett351)
 - [Desmond](https://github.com/desmondezo1)
 - [Arslan Hasanov](https://github.com/arslan7172)
 - [Marcin Tatarski](https://github.com/martindocs)
