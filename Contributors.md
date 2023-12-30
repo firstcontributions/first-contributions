@@ -15,6 +15,7 @@
 - Ho Ho Ho [Aditya Kapadia]
 - [Franco Pro](https://github.com/franco-pro)  ##Thanks for the help
 - 😎[James Kwon Lee]😎
+- Swiftanr
 - [Taro Qureshi](https://github.com/taro-qureshi)
 - [Kapil Sharma](https://github.com/codingwithkapil)
 - [Olayinkascott Andee](https://github.com/scottandee)
