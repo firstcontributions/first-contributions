@@ -163,6 +163,7 @@
 - [Minayo Esere] (https://github.com/mudeitsi)
 - Uri
 - [Usman Awwal](https://github.com/USII-004)
+- [Awwal Adetomiwa](https://github.com/thedunncodes)
 - [Christine Okoth](https://github.com/chriss1525)
 - [Toyin Muhammed](https://github.com/Toyin5)
 - Utsav
@@ -538,7 +539,7 @@ Ayush Gaud
 Gabi Nelepcu
 - [amin2ace] (https://github.com/amin2ace/)
 - [Amine ElBaghdadi] (https://github.com/noobjsperson/)
-- [Vikram Shetty] (https://github.com/vikram71198)
+- [Vikram Shetty] (https://github.com/vikram71198r
 - [DarksharkThe1st] (https://github.com/Darksharkthe1st)
 - [scevans83] (https://github.com/scevans83)
 - [Hexstars] (https://github.com/Hexstars)
