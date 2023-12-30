@@ -32,6 +32,7 @@
 - [Sabri Cihan Bircan] (https://github.com/SabriCihan)
 - [Looki](https://github.com/Looki-fr)
 - [ITS MAC](https://github.com/itsmacr8)
+- [WG](https://github.com/electro-phys)
 - [Rohit Roy](https://github.com/Roy009)
 - [chief-fei](https://github.com/chief-fei)
 - [Sushant](https://github.com/sushxnt)
