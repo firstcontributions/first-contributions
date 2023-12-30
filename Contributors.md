@@ -6,6 +6,7 @@
 - [Arnav Gupta]
 - [Ejemudaro Ufuoma Isaac](http://github.com/ufuomaisaac)
 - [Yuvaraj V](https://github.com/Yuvaraj643)
+- [ChrisB0617](https://github.com/ChrisB0617)
 - [yukendhiran](https://github.com/yukendhiran)
 - [Athul Nambiar](http://github.com/athul-22)
 - 🐈‍⬛[lonely_caat](https://github.com/lonely-caat)🐈‍⬛
