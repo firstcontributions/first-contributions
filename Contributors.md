@@ -208,6 +208,7 @@
 - [bucked404](https://github.com/bucked404)
 - [buckmisterfullereno](https://github.com/Buckminsterfullereno)
 - [Anoushka]
+- [Amardeep]
 - [derronli](https://github.com/derronli)
 - [EnesUnlu](https://github.com/enes9103)
 - [root-Manas](https:/github.com/root-Manas)
