@@ -179,6 +179,7 @@
 - [Kundan Kumar](https://github.com/kundank02)
 - [MertKy](https://github.com/MertKy/)
 - [ArcXeon](https://github.com/ArcXeon/)
+- [allaert](https://github.com/allaert/)
 - [Tin](https://github.com/Tincando)
 - [Krishna](https://github.com/Krishna01work)
 - [Uriel](https://github.com/urieltfk)
