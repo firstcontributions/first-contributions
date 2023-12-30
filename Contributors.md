@@ -1,7 +1,6 @@
 # Contributors
 
-- [Niraj Giri](https://github.com/nirajgiriXD)
--[Shaheer Dudekula]
+- [Niraj Giri](https://github.com/nirajgiriXD) -[Shaheer Dudekula]
 - [Sree Vardhan]
 - [Arnav Gupta]
 - [Dann Gil Rabaya](https://github.com/thisismedg)
@@ -17,8 +16,8 @@
 - [Deepika Jain] (https://github.com/deepika8383)
 - [Paul Gobbé](https://github.com/PolGbe) ##Thanks 😎
 - Ho Ho Ho [Aditya Kapadia]
-- [Nehal Ingole](https://github.com/Ingole712521) #Thanks 
-- [Franco Pro](https://github.com/franco-pro)  ##Thanks for the help
+- [Nehal Ingole](https://github.com/Ingole712521) #Thanks
+- [Franco Pro](https://github.com/franco-pro) ##Thanks for the help
 - 😎[James Kwon Lee]😎
 - Swiftanr
 - [Taro Qureshi](https://github.com/taro-qureshi)
@@ -602,6 +601,7 @@
 - [Luke Nam](https://github.com/kineticstorytelling)
 - [Vineeth Nomula](https://github.com/vineethnomula)
 - [Angad Godara](https://github.com/Angad-Godara)
+- [Swam_Htet](https://github.com/super-SH)
 - [Andrew Delph](https://github.com/andrew-delph)
 - [Nedko Dimitrov](https://github.com/nedkodimitrov)
 - [Fandy Fathurrohman](https://github.com/Fandyfr)
@@ -646,8 +646,7 @@
 - [Sanchitha Sharma Ranganathaiah](https://github.com/Sanchithasharma)
 - [Deekshith Manohar](https://github.com/deek-15)
 - [Gabriel Luiz](https://github.com/GabrielL915)
-- [Wenle Bao](https://github.com/wenle)
--[Pallavi Khedle](https://github.com/PALLAVIKHEDLE)
+- [Wenle Bao](https://github.com/wenle) -[Pallavi Khedle](https://github.com/PALLAVIKHEDLE)
 - [Asghar Abbasi](https://github.com/asghar267)
 - [Dominic Prince](https://github.com/drp46220)
 - [Md Faizan](https://github.com/thesuaveguy)
@@ -756,5 +755,4 @@
 - [hassanzahidd] (https://github.com/hassanzahidd)
 - [pau85] (https://github.com/pau85)
 - [ByteXenon] (https://github.com/ByteXenon)
-- [AlessandroL]
--[Akash Tayade](https://github.com/Akash12233)
+- [AlessandroL] -[Akash Tayade](https://github.com/Akash12233)
