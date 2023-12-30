@@ -738,4 +738,5 @@
 - [Verissimo Cassange](https://github.com/Vec21)
 - [DevSquares] (https://github.com/devsquaresio)
 - [hassanzahidd] (https://github.com/hassanzahidd)
+- [moNassar] (https://github.com/moNassar12)
 - [ByteXenon] (https://github.com/ByteXenon)
