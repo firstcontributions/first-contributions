@@ -461,6 +461,7 @@
 - [Emran Kamil](https://github.com/emex-nord)
 - [Hiral Soni](https://github.com/hiralsonip)
 - [Tabish Ahmed](https://github.com/NoxiousTab)
+- [Awwal Adetomiwa](https://github.com/thedunncodes)
 - [medzo-kali](https://github.com/medzo-kali)
 - [Timothy Bukowski](https://github.com/Whitefire000)
 - [Nicholas Garbutt](https://github.com/Nicholas-Garbutt)
