@@ -15,6 +15,7 @@
 - [Deepika Jain] (https://github.com/deepika8383)
 - [Paul Gobbé](https://github.com/PolGbe) ##Thanks 😎
 - Ho Ho Ho [Aditya Kapadia]
+- [Nehal Ingole](https://github.com/Ingole712521) #Thanks 
 - [Franco Pro](https://github.com/franco-pro)  ##Thanks for the help
 - 😎[James Kwon Lee]😎
 - Swiftanr
