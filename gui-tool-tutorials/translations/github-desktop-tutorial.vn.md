@@ -93,7 +93,7 @@ Nhấn vào nút `Publish` ở góc trên.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-publish1.png" alt="push your changes" />
 
-## Gửi những thay đổi của bạn để xem xé
+## Gửi những thay đổi của bạn để xem xét
 Nếu bạn vào trang repository của bạn trên Github, bạn sẽ thấy nút `Compare & pull request`. Nhấn nút đó.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/compare-and-pull.png" alt="create a pull request" />
@@ -104,7 +104,7 @@ Bây giờ gửi yêu cầu kéo. (Pull request)
 
 Tôi sẽ sớm hợp nhất (merge) tất cả các thay đổi của bạn vào nhánh chủ (master branch) của project này. Bạn sẽ nhận được email thông báo sau khi các thay đổi đã được hợp nhất.
 
-## Where to go from here?
+## Đi đâu từ đây?
 
 Chúc mừng! Bạn vừa hoàn thành quy trình tiêu chuẩn copy (fork) -> Sao chép (clone) -> chỉnh sửa (edit) -> yêu cầu kéo (pull request) mà bạn sẽ gặp thường xuyên khi đóng góp!
 
