@@ -737,6 +737,7 @@
 - 🐪 [DevNomad17](https://github.com/DevNomad17)
 - [Verissimo Cassange](https://github.com/Vec21)
 - [DevSquares] (https://github.com/devsquaresio)
+- [moNassar] (https://github.com/moNassar12)
 - [hassanzahidd] (https://github.com/hassanzahidd)
 - [pau85] (https://github.com/pau85)
 - [ByteXenon] (https://github.com/ByteXenon)
