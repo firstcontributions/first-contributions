@@ -1,5 +1,6 @@
 
 # Contributors
+- [Niraj Giri](https://github.com/nirajgiriXD)
 - [Kim JunHyun] (https://github.com/NaMooJoon)
 - [Kiyo] (https://github.com/kiyoone)
 - [rawfiul](https://github.com/rawfiul)
