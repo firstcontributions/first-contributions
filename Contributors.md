@@ -759,4 +759,5 @@
 - [pau85] (https://github.com/pau85)
 - [ByteXenon] (https://github.com/ByteXenon)
 - [AlessandroL]
+- [AlfredStoltenberg](https://github.com/AlfredStoltenberg)
 -[Akash Tayade](https://github.com/Akash12233)
