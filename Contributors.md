@@ -760,4 +760,5 @@
 - [ByteXenon] (https://github.com/ByteXenon)
 - [AlessandroL]
 - [AlfredStoltenberg](https://github.com/AlfredStoltenberg)
--[Akash Tayade](https://github.com/Akash12233)
+- [Akash Tayade](https://github.com/Akash12233)
+- [Mattias Liljenzin](https://github.com/mattiasliljenzin)
