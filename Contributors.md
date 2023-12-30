@@ -17,6 +17,7 @@
 - 😎[James Kwon Lee]😎
 - [Taro Qureshi](https://github.com/taro-qureshi)
 - [Kapil Sharma](https://github.com/codingwithkapil)
+- [Olayinkascott Andee](https://github.com/scottandee)
 - [Faith Adewuyi](https://github.com/faithadewuyi)
 - [Martins Olumide](https://github.com/Martins100-Tmd)
 - [Anslem](https://github.com/Anslem1)
