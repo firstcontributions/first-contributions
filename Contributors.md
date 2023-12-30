@@ -1,5 +1,6 @@
 # Contributors
 
+- [Niraj Giri](https://github.com/nirajgiriXD)
 -[Shaheer Dudekula]
 - [Sree Vardhan]
 - [Arnav Gupta]
