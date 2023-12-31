@@ -64,7 +64,7 @@
 - [Fedevcoding](https://github.com/fedevcoding)
 - [Abdulsalam Yusuf](https://github.com/hyoukarh)
 - [Sanjana](https://github.com/sanjanabharath)
-- [Lokesh Kumawat] (https://github.com/lokkeshhhhh)
+- [Lokesh Kumawat](https://github.com/lokkeshhhhh)
 - [Atul](https://github.com/Atuls-git)
 - [Jishnu Singh](https://github.com/Siam5ell)
 - [Babitha Kumari](https://github.com/Babithakumari)
