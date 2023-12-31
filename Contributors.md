@@ -298,6 +298,7 @@
 - [Hasan Dilshad Husain](https://github.com/Hasan-1-6)
 - [Alfonso de Mora Navarro](https://github.com/demora33)
 - [Srajal Sawner](https://github.com/Srajal16)
+- [JusiaDEV](https://github.com/JusiaDev)
 - [Nehal chaudhary](https://github.com/neh666)
 - [Amanda Monteiro](https://github.com/armontei)
 - [baba_yaga](https://github.com/Rkbp-099)
