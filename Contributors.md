@@ -2,6 +2,7 @@
 
 - [Niraj Giri](https://github.com/nirajgiriXD)
 -[Shaheer Dudekula]
+-[Mayur Suresh Ghanghav](https://github.com/ghanghavmayur)
 - [Sree Vardhan]
 - [Arnav Gupta]
 - [Dann Gil Rabaya](https://github.com/thisismedg)
