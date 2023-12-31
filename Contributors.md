@@ -23,6 +23,7 @@
 - 😎[James Kwon Lee]😎
 - Swiftanr
 - [Taro Qureshi](https://github.com/taro-qureshi)
+- Jeromeeee
 - [Kapil Sharma](https://github.com/codingwithkapil)
 - [Olayinkascott Andee](https://github.com/scottandee)
 - [Faith Adewuyi](https://github.com/faithadewuyi)
