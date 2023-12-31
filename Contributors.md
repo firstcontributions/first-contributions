@@ -7,6 +7,7 @@
 -[Su Su San](https://github.com/sususan16)
 - [Sree Vardhan]
 - [Arnav Gupta]
+-[Inthiyaz](https://github.com/S-gif-eng)
 - [Dann Gil Rabaya](https://github.com/thisismedg)
 - [Ejemudaro Ufuoma Isaac](http://github.com/ufuomaisaac)
 - [Sambhav Sharma](https://github.com/Dev-Sambhav)
