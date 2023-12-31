@@ -1,6 +1,7 @@
 # Contributors
 
 - [iPig](https://github.com/ipigtw)
+- [Spencer Craigie](https://github.com/sscraigie)
 - [Niraj Giri](https://github.com/nirajgiriXD)
 -[Shaheer Dudekula]
 -[Arpit Agrawal](https://github.com/Monkey-Arpit-Agrawal)
