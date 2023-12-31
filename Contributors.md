@@ -32,6 +32,7 @@
 - [Betsalel Geoffrey GOLO] (https://github.com/betsalel44)
 - [Toph](https://github.com/IndexChris)
 - [Arun Erram](https://github.com/arunerram)
+- [Jeremy Rule](https://github.com/macaw2000)
 - [Dibya Shakti Panda](https://github.com/Dibyas98)
 - [Navin P](https://github.com/mep1tz)
 - [Shubham Kumar] (https://github.com/shubh1777)
