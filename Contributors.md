@@ -787,3 +787,4 @@
 - [Kaushal Lohar](https://github.com/kaushal016)
 - [Beldjoudi Wassim](https://github.com/mythsSIMOU)
 - [Naveen R](https://github.com/Naveen2070) Thank you for helping out 🫰😁
+- [TareSG] (https://github.com/taresmaj)
