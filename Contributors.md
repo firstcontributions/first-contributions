@@ -2,6 +2,7 @@
 
 - [Niraj Giri](https://github.com/nirajgiriXD)
 -[Shaheer Dudekula]
+-[Arpit Agrawal](https://github.com/Monkey-Arpit-Agrawal)
 - [Sree Vardhan]
 - [Arnav Gupta]
 - [Dann Gil Rabaya](https://github.com/thisismedg)
