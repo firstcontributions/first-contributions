@@ -271,6 +271,7 @@
 - [Daniel Kaijzer](https://github.com/danielkaijzer)
 - [Ephraim Beltran](https://github.com/ephraim-beltran)
 - [heywhf](https://github.com/heywhf)
+- [corvo](https://github.com/Tathagata94)
 - [Hamd Waseem](https://github.com/hamdivazim)
 - [aoi-hiraeth](https://github.com/aoi-hiraeth)
 - [Praveen Pandi](https://github.com/PravinPandi)
