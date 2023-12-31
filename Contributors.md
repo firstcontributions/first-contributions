@@ -6,6 +6,7 @@
 - [Arnav Gupta]
 - [Dann Gil Rabaya](https://github.com/thisismedg)
 - [Ejemudaro Ufuoma Isaac](http://github.com/ufuomaisaac)
+- [Sambhav Sharma](https://github.com/Dev-Sambhav)
 - [Yuvaraj V](https://github.com/Yuvaraj643)
 - [Dibyajyoti Mandal](https://github.com/cookiejar2104)
 - [ChrisB0617](https://github.com/ChrisB0617)
@@ -116,6 +117,7 @@
 - [Anurag Sisodiya](https://github.com/ANURAGSISODIYAA)
 - [David Ejiro](https://github.com/David-Ejiro)
 - [grzegorzkoszczal](https://github.com/grzegorzkoszczal)
+- [Kingsley Kamkwamba](https://github.com/kamkwamba)
 - [Felicia H](https://github.com/coder02603)
 - [Ritwick Raj Makhal](https://github.com/ritwickrajmakhal)
 - [Pritha Maity](https://github.com/PrithaMaity)
@@ -777,3 +779,4 @@
 - [Mattias Liljenzin](https://github.com/mattiasliljenzin)
 - [Ayyas Mumtaz Yudha](https://github.com/ayyasmumtaz)
 - [Yashwanth Reddy](https://github.com/yashwanthreddy28)
+- [Kaushal Lohar](https://github.com/kaushal016)
