@@ -774,6 +774,7 @@
 - [Verissimo Cassange](https://github.com/Vec21)
 - [DevSquares] (https://github.com/devsquaresio)
 - [moNassar] (https://github.com/moNassar12)
+- [Patryk Lipa] (https://github.com/patryk-lipa)
 - [hassanzahidd] (https://github.com/hassanzahidd)
 - [pau85] (https://github.com/pau85)
 - [ByteXenon] (https://github.com/ByteXenon)
