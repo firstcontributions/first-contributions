@@ -52,6 +52,7 @@
 - [Sourabh Kr. Rajput](https://github.com/Sourabh-Kr-Rajput)
 - [Pankaj Singh Koranga](https://github.com/PankajSingh10)
 - [MratWong](https://github.com/MratWong)
+- [MarianoJ](https://github.com/marianoj1984)
 - [Walt Bringenberg](https://github.com/wwaltb)
 - [Precious Ojogu] (https://github.com/Prevz26)
 - [Rohit Kumar](https://github.com/Rohit10701)
