@@ -770,6 +770,7 @@
 - [pau85] (https://github.com/pau85)
 - [ByteXenon] (https://github.com/ByteXenon)
 - [AlessandroL]
+- [hassanAbdelbasetElfalt] (https://github.com/HasanElfalt)
 - [AlfredStoltenberg](https://github.com/AlfredStoltenberg)
 - [Akash Tayade](https://github.com/Akash12233)
 - [Mattias Liljenzin](https://github.com/mattiasliljenzin)
