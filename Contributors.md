@@ -394,6 +394,7 @@
 - [Shambhavi20031984 ](https://github.com/Shambhavi20031984)
 - [Anirudha Patil](https://github.com/AnirudhaPatil-1)
 - [Titouan Baron](https://github.com/HowlyBlood)
+- [Andres Felipe Pizo Luligo](https://github.com/AndresFelipe077)
 - [Tyler Nielsen](https://github.com/SnailDragon)
 - [Mack Osborne](https://github.com/mackosborne)
 - [Ankit Dani] (https://github.com/ankitdani)
