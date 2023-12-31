@@ -7,6 +7,7 @@
 - [Dann Gil Rabaya](https://github.com/thisismedg)
 - [Ejemudaro Ufuoma Isaac](http://github.com/ufuomaisaac)
 - [Yuvaraj V](https://github.com/Yuvaraj643)
+- [Dibyajyoti Mandal](https://github.com/cookiejar2104)
 - [ChrisB0617](https://github.com/ChrisB0617)
 - [yukendhiran](https://github.com/yukendhiran)
 - [Athul Nambiar](http://github.com/athul-22)
