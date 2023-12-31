@@ -755,6 +755,7 @@
 - [Anuj Bhati](https://github.com/anujbhati1)
 - [Bezal Stephen](https://github.com/beeezal)
 - [Mia] (https://github.com/MiaHsieh9003)
+- [crystalyn]
 - [Wa]
 - [EL]
 - [`Orunto Eniola`](https://github.com/orunto)
