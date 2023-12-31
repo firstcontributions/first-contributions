@@ -46,6 +46,7 @@
 - [Amol Pardeshi](https://gi thub.com/AmolPardeshi99)
 - [Shahil Kumar](https://github.com/Shahil9728)
 - [Sabri Cihan Bircan] (https://github.com/SabriCihan)
+- [Caleb Hill](https://github.com/calebhill98)
 - [Looki](https://github.com/Looki-fr)
 - [ITS MAC](https://github.com/itsmacr8)
 - [WG](https://github.com/electro-phys)
