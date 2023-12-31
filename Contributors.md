@@ -777,3 +777,4 @@
 - [Mattias Liljenzin](https://github.com/mattiasliljenzin)
 - [Ayyas Mumtaz Yudha](https://github.com/ayyasmumtaz)
 - [Yashwanth Reddy](https://github.com/yashwanthreddy28)
+- [Kaushal Lohar](https://github.com/kaushal016)
