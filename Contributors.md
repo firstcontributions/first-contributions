@@ -780,3 +780,4 @@
 - [Ayyas Mumtaz Yudha](https://github.com/ayyasmumtaz)
 - [Yashwanth Reddy](https://github.com/yashwanthreddy28)
 - [Kaushal Lohar](https://github.com/kaushal016)
+- [Beldjoudi Wassim](https://github.com/mythsSIMOU)
