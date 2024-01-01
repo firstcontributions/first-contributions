@@ -196,6 +196,7 @@
 - [voltagecontrol](https://github.com/voltagecontrol/)
 - [Alamin](https://github.com/AlaminPu1007)
 - [Irfan Ali](https://github.com/irfanali1995/irfanali1995)
+- [Ismael Abdulahi](https://github.com/Ismael-ux1)
 - [Unnikrishnan Namboothiri](https://github.com/unnikrishnanNam)
 - [freezerbox](https://github.com/freezerbox1)
 - [Abdulhaleem Sanuth](https://github.com/Abdulhaleem-6)
