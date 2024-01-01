@@ -1623,4 +1623,4 @@
 - [Phuong Nguyen](https://github.com/png261)
 - Aviya Atias
 - <!-- prettier-ignore-end -->
-
+- [Arin Mandal](https://github.com/arinmandal)
