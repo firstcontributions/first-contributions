@@ -245,6 +245,9 @@
 - [Anoushka]
 - [Amardeep]
 - [derronli](https://github.com/derronli)
+-[Manish](https://github.com/manish14071)
+
+
 - [EnesUnlu](https://github.com/enes9103)
 - [root-Manas](https:/github.com/root-Manas)
 - [Izzy](https://github.com/IzzyPrime)
