@@ -5,6 +5,7 @@
 - [Niraj Giri](https://github.com/nirajgiriXD)
 -[Shaheer Dudekula]
 -[Arpit Agrawal](https://github.com/Monkey-Arpit-Agrawal)
+-[Aniruddha Adak](https://github.com/aniruddhaadak80)
 -[Su Su San](https://github.com/sususan16)
 - [Sree Vardhan]
 - [Arnav Gupta]
