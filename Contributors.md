@@ -159,6 +159,7 @@
 - [Warren Cartwright](https://github.com/guarin1949)
 - [Jacek Smoter](https://github.com/jackz070)
 - [GowtherZa](https://github.com/GowtherZa/)
+- [Kamwa Emmanuelle Alix](https://github.com/emmanuellekamwa)
 - [Masaya Kj](https://github.com/Massas)
 - [Daniel Lynch](https://github.com/DPL9748)
 - [majR - Mohammed Jauharali](https://github.com/mjjauhar)
