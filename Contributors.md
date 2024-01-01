@@ -14,6 +14,7 @@
 - [Sambhav Sharma](https://github.com/Dev-Sambhav)
 - [Yuvaraj V](https://github.com/Yuvaraj643)
 - [Dibyajyoti Mandal](https://github.com/cookiejar2104)
+- [Danny Hidayat](https://github.com/dannyhdyt)
 - [ChrisB0617](https://github.com/ChrisB0617)
 - [yukendhiran](https://github.com/yukendhiran)
 - [Athul Nambiar](http://github.com/athul-22)
