@@ -36,6 +36,7 @@
 - [Taro Qureshi](https://github.com/taro-qureshi)
 - Jeromeeee
 - [Akash Mishra] (https://github.com/akashmishrahaha)
+- [Mukund Menon] (https://github.com/CR1T1KAL16)
 - [Kapil Sharma](https://github.com/codingwithkapil)
 - [Muhammad Aliyu Abubakar](https://github.com/mxg-mega)
 - [Sachin Kumar](https://github.com/pseudofool)
