@@ -3,13 +3,13 @@
 - [iPig](https://github.com/ipigtw)
 - [Spencer Craigie](https://github.com/sscraigie)
 - [Niraj Giri](https://github.com/nirajgiriXD)
--[Shaheer Dudekula]
--[Arpit Agrawal](https://github.com/Monkey-Arpit-Agrawal)
--[Aniruddha Adak](https://github.com/aniruddhaadak80)
--[Su Su San](https://github.com/sususan16)
+- [Shaheer Dudekula]
+- [Arpit Agrawal](https://github.com/Monkey-Arpit-Agrawal)
+- [Aniruddha Adak](https://github.com/aniruddhaadak80)
+- [Su Su San](https://github.com/sususan16)
 - [Sree Vardhan]
 - [Arnav Gupta]
--[Inthiyaz](https://github.com/S-gif-eng)
+- [Inthiyaz](https://github.com/S-gif-eng)
 - [Dann Gil Rabaya](https://github.com/thisismedg)
 - [Ejemudaro Ufuoma Isaac](http://github.com/ufuomaisaac)
 - [Sambhav Sharma](https://github.com/Dev-Sambhav)
@@ -21,9 +21,9 @@
 - [Athul Nambiar](http://github.com/athul-22)
 - 🐈‍⬛[lonely_caat](https://github.com/lonely-caat)🐈‍⬛
 - [Meow Aadvik]
-- [Gatere Kinyanjui] (https://github.com/gatere-kinyanjui)
+- [Gatere Kinyanjui](https://github.com/gatere-kinyanjui)
 - [Saur-av](https://github.com/Saur-av/) # Thanks for help
-- [Deepika Jain] (https://github.com/deepika8383)
+- [Deepika Jain](https://github.com/deepika8383)
 - [Paul Gobbé](https://github.com/PolGbe) ##Thanks 😎
 - Ho Ho Ho [Aditya Kapadia]
 - [Sourav Sathyan](https://github.com/souravsathyan)
@@ -40,17 +40,17 @@
 - [Martins Olumide](https://github.com/Martins100-Tmd)
 - [Anslem](https://github.com/Anslem1)
 - [Kelvin okumu](https://github.com/kelvinokumu)
-- [Betsalel Geoffrey GOLO] (https://github.com/betsalel44)
-  [Achraf Elhadjaoui] (https://github.com/achrafelhadjaoui)
+- [Betsalel Geoffrey GOLO](https://github.com/betsalel44)
+  [Achraf Elhadjaoui](https://github.com/achrafelhadjaoui)
 - [Toph](https://github.com/IndexChris)
 - [Arun Erram](https://github.com/arunerram)
 - [Jeremy Rule](https://github.com/macaw2000)
 - [Dibya Shakti Panda](https://github.com/Dibyas98)
 - [Navin P](https://github.com/mep1tz)
-- [Shubham Kumar] (https://github.com/shubh1777)
-- [Amol Pardeshi](https://gi thub.com/AmolPardeshi99)
+- [Shubham Kumar](https://github.com/shubh1777)
+- [Amol Pardeshi](https://github.com/AmolPardeshi99)
 - [Shahil Kumar](https://github.com/Shahil9728)
-- [Sabri Cihan Bircan] (https://github.com/SabriCihan)
+- [Sabri Cihan Bircan](https://github.com/SabriCihan)
 - [Caleb Hill](https://github.com/calebhill98)
 - [Looki](https://github.com/Looki-fr)
 - [ITS MAC](https://github.com/itsmacr8)
@@ -59,10 +59,10 @@
 - [chief-fei](https://github.com/chief-fei)
 - [Sushant](https://github.com/sushxnt)
 - [Edward Bordenave](https://github.com/ebordenave)
-- [Ojo Tolulope] (https://github.com/tolu1123)
+- [Ojo Tolulope](https://github.com/tolu1123)
 - [JamZ](https://github.com/JamZYM)
 - [chandan] (https://github.com/chandanyuva)
-- [Shraddha Nand Shah] (https://github.com/shraddha1512)
+- [Shraddha Nand Shah](https://github.com/shraddha1512)
 - [Sourabh Kr. Rajput](https://github.com/Sourabh-Kr-Rajput)
 - [Pankaj Singh Koranga](https://github.com/PankajSingh10)
 - [MratWong](https://github.com/MratWong)
