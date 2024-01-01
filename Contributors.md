@@ -1,8 +1,6 @@
 # Contributors
 
-- [Niraj Giri](https://github.com/nirajgiriXD)
--[Shaheer Dudekula]
--[Arpit Agrawal](https://github.com/Monkey-Arpit-Agrawal)
+- [Niraj Giri](https://github.com/nirajgiriXD) -[Shaheer Dudekula] -[Arpit Agrawal](https://github.com/Monkey-Arpit-Agrawal)
 - [Sree Vardhan]
 - [Arnav Gupta]
 - [Dann Gil Rabaya](https://github.com/thisismedg)
@@ -21,8 +19,8 @@
 - [Paul Gobbé](https://github.com/PolGbe) ##Thanks 😎
 - Ho Ho Ho [Aditya Kapadia]
 - [Sourav Sathyan](https://github.com/souravsathyan)
-- [Nehal Ingole](https://github.com/Ingole712521) #Thanks 
-- [Franco Pro](https://github.com/franco-pro)  ##Thanks for the help
+- [Nehal Ingole](https://github.com/Ingole712521) #Thanks
+- [Franco Pro](https://github.com/franco-pro) ##Thanks for the help
 - 😎[James Kwon Lee]😎
 - Swiftanr
 - [Taro Qureshi](https://github.com/taro-qureshi)
@@ -661,8 +659,7 @@
 - [Sanchitha Sharma Ranganathaiah](https://github.com/Sanchithasharma)
 - [Deekshith Manohar](https://github.com/deek-15)
 - [Gabriel Luiz](https://github.com/GabrielL915)
-- [Wenle Bao](https://github.com/wenle)
--[Pallavi Khedle](https://github.com/PALLAVIKHEDLE)
+- [Wenle Bao](https://github.com/wenle) -[Pallavi Khedle](https://github.com/PALLAVIKHEDLE)
 - [Asghar Abbasi](https://github.com/asghar267)
 - [Dominic Prince](https://github.com/drp46220)
 - [Md Faizan](https://github.com/thesuaveguy)
@@ -783,3 +780,4 @@
 - [Kaushal Lohar](https://github.com/kaushal016)
 - [Beldjoudi Wassim](https://github.com/mythsSIMOU)
 - [Naveen R](https://github.com/Naveen2070) Thank you for helping out 🫰😁
+- [Shivam Singh](https://github.com/shivam8962) Thank you for helping out 🫰😁
