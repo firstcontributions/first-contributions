@@ -6,6 +6,8 @@
 -[Shaheer Dudekula]
 -[Arpit Agrawal](https://github.com/Monkey-Arpit-Agrawal)
 -[Su Su San](https://github.com/sususan16)
+-[Kaung Min Khant](https://github.com/minkhant21)
+
 - [Sree Vardhan]
 - [Arnav Gupta]
 -[Inthiyaz](https://github.com/S-gif-eng)
