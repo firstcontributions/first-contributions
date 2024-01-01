@@ -49,6 +49,7 @@
 - [Betsalel Geoffrey GOLO] (https://github.com/betsalel44)
   [Achraf Elhadjaoui] (https://github.com/achrafelhadjaoui)
 - [Toph](https://github.com/IndexChris)
+- [Jawahar](https://github.com/juzztjawa)
 - [Arun Erram](https://github.com/arunerram)
 - [Jeremy Rule](https://github.com/macaw2000)
 - [Dibya Shakti Panda](https://github.com/Dibyas98)
