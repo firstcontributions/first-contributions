@@ -820,3 +820,6 @@
 - [TareSG] (https://github.com/taresmaj)
 - [SupreethKumarJagarlmudi] (https://github.com/Supreethkumarjagarlamudi)
 - [Vaideeswaran Chandrasekaran] (https://github.com/vaideeswaran23)
+
+- [Rhys Tumelty]
+(https://github.com/ChickenChunk579)
