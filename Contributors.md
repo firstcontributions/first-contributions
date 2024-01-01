@@ -2,14 +2,9 @@
 
 - [iPig](https://github.com/ipigtw)
 - [Spencer Craigie](https://github.com/sscraigie)
-- [Niraj Giri](https://github.com/nirajgiriXD)
--[Shaheer Dudekula]
--[Arpit Agrawal](https://github.com/Monkey-Arpit-Agrawal)
--[Aniruddha Adak](https://github.com/aniruddhaadak80)
--[Su Su San](https://github.com/sususan16)
+- [Niraj Giri](https://github.com/nirajgiriXD) -[Shaheer Dudekula] -[Arpit Agrawal](https://github.com/Monkey-Arpit-Agrawal) -[Aniruddha Adak](https://github.com/aniruddhaadak80) -[Su Su San](https://github.com/sususan16)
 - [Sree Vardhan]
-- [Arnav Gupta]
--[Inthiyaz](https://github.com/S-gif-eng)
+- [Arnav Gupta] -[Inthiyaz](https://github.com/S-gif-eng)
 - [Dann Gil Rabaya](https://github.com/thisismedg)
 - [Ejemudaro Ufuoma Isaac](http://github.com/ufuomaisaac)
 - [Sambhav Sharma](https://github.com/Dev-Sambhav)
@@ -20,6 +15,7 @@
 - [yukendhiran](https://github.com/yukendhiran)
 - [Athul Nambiar](http://github.com/athul-22)
 - 🐈‍⬛[lonely_caat](https://github.com/lonely-caat)🐈‍⬛
+- 🔥[Minh Hoang](https://github.com/Thuvii)🔥#Thanks for the guide
 - [Meow Aadvik]
 - [Gatere Kinyanjui] (https://github.com/gatere-kinyanjui)
 - [Saur-av](https://github.com/Saur-av/) # Thanks for help
@@ -27,8 +23,8 @@
 - [Paul Gobbé](https://github.com/PolGbe) ##Thanks 😎
 - Ho Ho Ho [Aditya Kapadia]
 - [Sourav Sathyan](https://github.com/souravsathyan)
-- [Nehal Ingole](https://github.com/Ingole712521) #Thanks 
-- [Franco Pro](https://github.com/franco-pro)  ##Thanks for the help
+- [Nehal Ingole](https://github.com/Ingole712521) #Thanks
+- [Franco Pro](https://github.com/franco-pro) ##Thanks for the help
 - 😎[James Kwon Lee]😎
 - Swiftanr
 - [Taro Qureshi](https://github.com/taro-qureshi)
@@ -673,8 +669,7 @@
 - [Sanchitha Sharma Ranganathaiah](https://github.com/Sanchithasharma)
 - [Deekshith Manohar](https://github.com/deek-15)
 - [Gabriel Luiz](https://github.com/GabrielL915)
-- [Wenle Bao](https://github.com/wenle)
--[Pallavi Khedle](https://github.com/PALLAVIKHEDLE)
+- [Wenle Bao](https://github.com/wenle) -[Pallavi Khedle](https://github.com/PALLAVIKHEDLE)
 - [Asghar Abbasi](https://github.com/asghar267)
 - [Dominic Prince](https://github.com/drp46220)
 - [Md Faizan](https://github.com/thesuaveguy)
