@@ -36,6 +36,7 @@
 - Jeromeeee
 - [Akash Mishra] (https://github.com/akashmishrahaha)
 - [Kapil Sharma](https://github.com/codingwithkapil)
+- [Muhammad Aliyu Abubakar](https://github.com/mxg-mega)
 - [Sachin Kumar](https://github.com/pseudofool)
 - [Olayinkascott Andee](https://github.com/scottandee)
 - [Faith Adewuyi](https://github.com/faithadewuyi)
