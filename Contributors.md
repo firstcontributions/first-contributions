@@ -810,6 +810,7 @@
 - [Beldjoudi Wassim](https://github.com/mythsSIMOU)
 - [QZBrainon](https://github.com/QZBrainon)
 - [Pk](https://github.com/pk2023)
+- [I-MirzaBaig](https://github.com/I-MirzaBaig)
 - [Naveen R](https://github.com/Naveen2070) Thank you for helping out 🫰😁
 - [TareSG] (https://github.com/taresmaj)
 - [SupreethKumarJagarlmudi] (https://github.com/Supreethkumarjagarlamudi)
