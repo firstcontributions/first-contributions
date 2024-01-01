@@ -49,6 +49,7 @@
 - [Navin P](https://github.com/mep1tz)
 - [Shubham Kumar] (https://github.com/shubh1777)
 - [Amol Pardeshi](https://gi thub.com/AmolPardeshi99)
+-[Rhitika Pal Adhikari](https://github.com/PalRhitika)
 - [Shahil Kumar](https://github.com/Shahil9728)
 - [Sabri Cihan Bircan] (https://github.com/SabriCihan)
 - [Caleb Hill](https://github.com/calebhill98)
