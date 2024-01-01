@@ -28,6 +28,7 @@
 - [Saur-av](https://github.com/Saur-av/) # Thanks for help
 - [Deepika Jain] (https://github.com/deepika8383)
 - [Paul Gobbé](https://github.com/PolGbe) ##Thanks 😎
+- [sus-domesticus](https://github.com/sus-domesticus)
 - Ho Ho Ho [Aditya Kapadia]
 - [Sourav Sathyan](https://github.com/souravsathyan)
 - [Nehal Ingole](https://github.com/Ingole712521) #Thanks 
