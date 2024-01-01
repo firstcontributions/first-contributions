@@ -53,6 +53,7 @@
 - [Sabri Cihan Bircan] (https://github.com/SabriCihan)
 - [Caleb Hill](https://github.com/calebhill98)
 - [Looki](https://github.com/Looki-fr)
+- [Lalit Chugh](https://github.com/Lalitkumar21/)
 - [ITS MAC](https://github.com/itsmacr8)
 - [WG](https://github.com/electro-phys)
 - [Rohit Roy](https://github.com/Roy009)
