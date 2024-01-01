@@ -166,6 +166,7 @@
 - [sabhanaaz Hussain](https://github.com/sabhanaaz)
 - [sabhanaaz](https://github.com/sabhanaaz)
 - [Kennedy Ekanem](https://github.com/KenEkanem)
+- [Alessandro Cappiello](https://github.com/AleCap747)
 - [inclinated](https://github.com/inclinated)
 - [Aakruti Kalia](https://github.com/akku-07)
 - [DankGuy](https://github.com/DankGuy)
