@@ -34,6 +34,7 @@
 - Swiftanr
 - [Taro Qureshi](https://github.com/taro-qureshi)
 - Jeromeeee
+- [Akash Mishra] (https://github.com/akashmishrahaha)
 - [Kapil Sharma](https://github.com/codingwithkapil)
 - [Sachin Kumar](https://github.com/pseudofool)
 - [Olayinkascott Andee](https://github.com/scottandee)
