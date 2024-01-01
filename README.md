@@ -58,7 +58,7 @@
 <kbd>[<img title="Slovenščina" alt="Slovenščina" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/si.svg" width="22">](translations/README.sl.md)</kbd>
 <kbd>[<img title="ภาษาไทย" alt="ภาษาไทย" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/th.svg" width="22">](translations/README.th.md)</kbd>
 <kbd>[<img title="Türkçe" alt="Türkçe" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tr.svg" width="22">](translations/README.tr.md)</kbd>
-<kbd>[<img title="中文(Traditional)" alt="中文(Traditional)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tw.svg" width="22">](translations/README.zh-tw.md)</kbd>
+<kbd>[<img title="中文(Traditional)" alt="中文(Traditional)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tw.svg" width="22">](translations/README.zhtw.md)</kbd>
 <kbd>[<img title="Українська" alt="Українська" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ua.svg" width="22">](translations/README.ua.md)</kbd>
 <kbd>[<img title="Tiếng Việt" alt="Tiếng Việt" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/vn.svg" width="22">](translations/README.vn.md)</kbd>
 <kbd>[<img title="Tanzania" alt="Swahili language" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tz.svg" width="22">](translations/README.sw.md)</kbd>
@@ -82,7 +82,7 @@
 <kbd>[<img title="Ewe (TOGO)" alt="Ewe (TOGO)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tg.svg" width="22">](translations/README.ewe.md)</kbd>
 <kbd>[<img title="አማርኛ" alt="አማርኛ" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/et.svg" width="22">](translations/README.et.md)</kbd>
 
-# First Contributions
+First Contributions
 
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
@@ -90,14 +90,14 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-#### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
+If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
-## Fork this repository
+Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
-## Clone the repository
+Clone the repository
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
@@ -163,7 +163,7 @@ git commit -m "Add your-name to Contributors list"
 
 replacing `your-name` with your name.
 
-## Push changes to GitHub
+Push changes to GitHub
 
 Push your changes using the command `git push`:
 
