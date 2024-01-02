@@ -4,12 +4,8 @@
 - [TH-Raju](https://github.com/TH-Raju)
 - [iPig](https://github.com/ipigtw)
 - [Spencer Craigie](https://github.com/sscraigie)
-- [Niraj Giri](https://github.com/nirajgiriXD)
--[Shaheer Dudekula]
-- [VIGNESH BABU](https://github.com/VICKY-0017)
--[Arpit Agrawal](https://github.com/Monkey-Arpit-Agrawal)
--[Aniruddha Adak](https://github.com/aniruddhaadak80)
--[Su Su San](https://github.com/sususan16)
+- [Niraj Giri](https://github.com/nirajgiriXD) -[Shaheer Dudekula]
+- [VIGNESH BABU](https://github.com/VICKY-0017) -[Arpit Agrawal](https://github.com/Monkey-Arpit-Agrawal) -[Aniruddha Adak](https://github.com/aniruddhaadak80) -[Su Su San](https://github.com/sususan16)
 - [Sree Vardhan]
 - [Arnav Gupta] -[Inthiyaz](https://github.com/S-gif-eng)
 - [Abdulmajid Mahadi](https://github.com/sheriifMahadi)
@@ -22,6 +18,7 @@
 - [Dibyajyoti Mandal](https://github.com/cookiejar2104)
 - [Danny Hidayat](https://github.com/dannyhdyt)
 - [ChrisB0617](https://github.com/ChrisB0617)
+- [Zeeshan Raza](https://github.com/ZeeshanZeeZx)
 - [yukendhiran](https://github.com/yukendhiran)
 - [Athul Nambiar](http://github.com/athul-22)
 - 🐈‍⬛[lonely_caat](https://github.com/lonely-caat)🐈‍⬛
@@ -30,7 +27,7 @@
 - [KlevCC](https://github.com/KlevCC)
 - [Gatere Kinyanjui] (https://github.com/gatere-kinyanjui)
 - [Saur-av](https://github.com/Saur-av/) # Thanks for help
-- [talktoyeet](https://github.com/talktoyeet) 
+- [talktoyeet](https://github.com/talktoyeet)
 - [Deepika Jain] (https://github.com/deepika8383)
 - [Paul Gobbé](https://github.com/PolGbe) ##Thanks 😎
 - [sus-domesticus](https://github.com/sus-domesticus)
@@ -344,7 +341,7 @@
 - [brandobogar](https://github.com/brandobogar)
 - [Maral Yousefi](https://github.com/Marall-Y)
 - [Elijah Love](https://elijahlove.xyz)
-- [Ksnq](https://github.com/devcembeer) [Website](https://ksnq.me) 
+- [Ksnq](https://github.com/devcembeer) [Website](https://ksnq.me)
 - [Ashika Dsilva](https://github.com/ashikadsilva)
 - [tenere](https://github.com/000tenere000)
 - [Abiodun Sojobi](https://github.com/baysquire) [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/aes37175bb)
