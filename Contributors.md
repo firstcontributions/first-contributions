@@ -29,6 +29,7 @@
 - [KlevCC](https://github.com/KlevCC)
 - [Gatere Kinyanjui] (https://github.com/gatere-kinyanjui)
 - [Saur-av](https://github.com/Saur-av/) # Thanks for help
+- [talktoyeet](https://github.com/talktoyeet) 
 - [Deepika Jain] (https://github.com/deepika8383)
 - [Paul Gobbé](https://github.com/PolGbe) ##Thanks 😎
 - [sus-domesticus](https://github.com/sus-domesticus)
