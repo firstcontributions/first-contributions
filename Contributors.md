@@ -4,6 +4,7 @@
 - [TH-Raju](https://github.com/TH-Raju)
 - [Temple Snowden](https://github.com/temple69)
 - [iPig](https://github.com/ipigtw)
+- [SurendharGN](https://github.com/SurendharGN)
 - [Spencer Craigie](https://github.com/sscraigie)
 - [Niraj Giri](https://github.com/nirajgiriXD)
 -[Shaheer Dudekula]
