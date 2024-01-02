@@ -12,6 +12,7 @@
 -[Su Su San](https://github.com/sususan16)
 - [Sree Vardhan]
 - [Arnav Gupta] -[Inthiyaz](https://github.com/S-gif-eng)
+- [Abdulmajid Mahadi](https://github.com/sheriifMahadi)
 - [Dann Gil Rabaya](https://github.com/thisismedg)
 - [Anup Kumar Mridha] (https://github.com/anupkumarmridha)
 - [Ejemudaro Ufuoma Isaac](http://github.com/ufuomaisaac)
