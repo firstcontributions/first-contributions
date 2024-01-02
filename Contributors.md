@@ -509,6 +509,7 @@
 - [Shay](https://github.com/shay-520)
 - [Shaikh Aman](https://github.com/ShaikhAman01)
 - [leanhvu21042001](https://github.com/leanhvu21042001)
+- [Wes Q](https://github.com/iamwesofph)
 - [Manas Vyas](https://github.com/manas511)
 - [Kyle Gross](https://github.com/kylevgross)
 - [Aryan Raj](https://github.com/Aryan4884)
