@@ -1,5 +1,6 @@
 # Contributors
 
+- [Rizki Ramadandi](https://github.com/rizkiramadandi)
 - [TH-Raju](https://github.com/TH-Raju)
 - [iPig](https://github.com/ipigtw)
 - [Spencer Craigie](https://github.com/sscraigie)
