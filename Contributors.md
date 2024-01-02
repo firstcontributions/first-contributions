@@ -3,6 +3,7 @@
 - [Rizki Ramadandi](https://github.com/rizkiramadandi)
 - [TH-Raju](https://github.com/TH-Raju)
 - [iPig](https://github.com/ipigtw)
+- [Temple](https://github.com/temple69)
 - [Spencer Craigie](https://github.com/sscraigie)
 - [Niraj Giri](https://github.com/nirajgiriXD)
 -[Shaheer Dudekula]
