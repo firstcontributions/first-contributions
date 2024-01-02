@@ -85,6 +85,7 @@
 - [Pankaj Singh Koranga](https://github.com/PankajSingh10)
 - [MratWong](https://github.com/MratWong)
 - [MarianoJ](https://github.com/marianoj1984)
+- [Malone Napier-Jameson](https://github.com/MaloneMKD)
 - [Walt Bringenberg](https://github.com/wwaltb)
 - [Precious Ojogu] (https://github.com/Prevz26)
 - [Rohit Kumar](https://github.com/Rohit10701)
