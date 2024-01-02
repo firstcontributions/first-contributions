@@ -33,6 +33,7 @@
 - [Paul Gobbé](https://github.com/PolGbe) ##Thanks 😎
 - [sus-domesticus](https://github.com/sus-domesticus)
 - Ho Ho Ho [Aditya Kapadia]
+- [Gyanavardhan](https://github.com/gyanavardhana)
 - [Sourav Sathyan](https://github.com/souravsathyan)
 - [Nehal Ingole](https://github.com/Ingole712521) #Thanks
 - [FirePhoenix] (https://github.com/huy125) #Thanks for help
