@@ -15,6 +15,7 @@
 -[Aniruddha Adak](https://github.com/aniruddhaadak80)
 -[Su Su San](https://github.com/sususan16)
 - [Sree Vardhan]
+- [Angelica Michaca] (https://github.com/Angelica-Michaca)
 - [CHONG JI XUAN]
 - [Arnav Gupta] -[Inthiyaz](https://github.com/S-gif-eng)
 - [Mark Louis Bernardo](https://github.com/marklouisALTER)
