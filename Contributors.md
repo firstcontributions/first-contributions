@@ -47,6 +47,7 @@
 - [Dimple Jain](https://github.com/dimplehoney)
 - [Thawzin](https://github.com/Thawzin229)
 - [Tabish Shamim](https://github.com/tabishshamim10)
+- [Nnodim Obinna Brian](https://github.com/nnodim)
 - [Uchenyi Kesandu](https://github.com/Kessi-ux) [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://linkedin.com/in/uchekes)
 - [GwanBin Park](https://github.com/bgb10)
 - [Ray Yu](https://github.com/RayYu-ChunleiYu)
