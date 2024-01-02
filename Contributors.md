@@ -844,3 +844,4 @@
 - [Siddharth Shankar] (https://github.com/code26A)
 - [BrocaZ](https://github.com/BrocaZ)
 - [Max Bailey] (https://github.com/Featho)
+- [Akbar Khotamov] (https://github.com/kingoker)
