@@ -213,6 +213,7 @@
 - [Pablo Zurita Lozano](https://github.com/PZL2004)
 - [Moataz Amr](https://github.com/moataz77716)
 - [PeKaStLa](https://github.com/PeKaStLa/)
+- [Sultan Mahmud](https://github.com/kaziiriad)
 - [Baljit Singh](https://baljit998.github.io/Space-portfolio/)
 - [Njoli Patrick](https://github.com/njolipatrick/)
 - [Prakhar Pandey](https://github.com/Prakhar-Pandey28/)
