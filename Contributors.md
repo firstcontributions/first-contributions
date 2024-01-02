@@ -318,6 +318,7 @@
 - [Daniel Kaijzer](https://github.com/danielkaijzer)
 - [Ephraim Beltran](https://github.com/ephraim-beltran)
 - [heywhf](https://github.com/heywhf)
+- [Pravin Singh](https://github.com/itsmepravin)
 - [corvo](https://github.com/Tathagata94)
 - [pnambiar24770](https://github.com/pnambiar24770)
 - [Hamd Waseem](https://github.com/hamdivazim)
