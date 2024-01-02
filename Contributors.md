@@ -9,6 +9,7 @@
 - [Spencer Craigie](https://github.com/sscraigie)
 - [Niraj Giri](https://github.com/nirajgiriXD)
 -[Shaheer Dudekula]
+- [Rounak Kumar Singh](https://github.com/rounakkumarsingh)
 - [VIGNESH BABU](https://github.com/VICKY-0017)
 - [Pravar Agarwal] (https://github.com/PravarAgarwal) (https://www.linkedin.com/in/pravar-agarwal/)
 -[Arpit Agrawal](https://github.com/Monkey-Arpit-Agrawal)
