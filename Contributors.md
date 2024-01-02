@@ -856,3 +856,4 @@
 - [Anna Muse] (https://github.com/anna-muse)
 - [Eduardo Hilário] (https://github.com/eduardohilariodev)
 - [Barathkumar S R] (https://github.com/barathsr)
+- [John Reg] (https://github.com/jao-johnreginald)
