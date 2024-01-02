@@ -22,6 +22,7 @@
 - [Dann Gil Rabaya](https://github.com/thisismedg)
 - [Anup Kumar Mridha] (https://github.com/anupkumarmridha)
 - [Ejemudaro Ufuoma Isaac](http://github.com/ufuomaisaac)
+- [Guilherme Gomes](https://github.com/oGigaflops)
 - [David Nawl Sang Lui](http://github.com/David-Sang96)
 - [Sambhav Sharma](https://github.com/Dev-Sambhav)
 - [Yuvaraj V](https://github.com/Yuvaraj643)
