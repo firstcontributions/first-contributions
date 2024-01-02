@@ -850,4 +850,5 @@
 - [BrocaZ](https://github.com/BrocaZ)
 - [Max Bailey] (https://github.com/Featho)
 - [Akbar Khotamov] (https://github.com/kingoker)
+- [Anna Muse] (https://github.com/anna-muse)
 - [Eduardo Hilário] (https://github.com/eduardohilariodev)
