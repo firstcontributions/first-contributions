@@ -829,3 +829,4 @@
 - [SupreethKumarJagarlmudi] (https://github.com/Supreethkumarjagarlamudi)
 - [Vaideeswaran Chandrasekaran] (https://github.com/vaideeswaran23)
 - [Siddharth Shankar] (https://github.com/code26A)
+- [BrocaZ](https://github.com/BrocaZ)
