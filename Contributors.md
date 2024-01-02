@@ -35,7 +35,7 @@
 - [KlevCC](https://github.com/KlevCC)
 - [Gatere Kinyanjui] (https://github.com/gatere-kinyanjui)
 - [Saur-av](https://github.com/Saur-av/) # Thanks for help
-- [talktoyeet](https://github.com/talktoyeet) 
+- [talktoyeet](https://github.com/talktoyeet)
 - [Muhammad Ahmod](https://github.com/Muhammad-1990)
 - [Deepika Jain] (https://github.com/deepika8383)
 - [Paul Gobbé](https://github.com/PolGbe) ##Thanks 😎
@@ -355,7 +355,7 @@
 - [brandobogar](https://github.com/brandobogar)
 - [Maral Yousefi](https://github.com/Marall-Y)
 - [Elijah Love](https://elijahlove.xyz)
-- [Ksnq](https://github.com/devcembeer) [Website](https://ksnq.me) 
+- [Ksnq](https://github.com/devcembeer) [Website](https://ksnq.me)
 - [Ashika Dsilva](https://github.com/ashikadsilva)
 - [tenere](https://github.com/000tenere000)
 - [Abiodun Sojobi](https://github.com/baysquire) [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/aes37175bb)
@@ -719,6 +719,7 @@
 - [Wenle Bao](https://github.com/wenle) -[Pallavi Khedle](https://github.com/PALLAVIKHEDLE)
 - [Asghar Abbasi](https://github.com/asghar267)
 - [Dominic Prince](https://github.com/drp46220)
+- [James Lee](https://github.com/lee963654)
 - [Md Faizan](https://github.com/thesuaveguy)
 - [Stefan Ni](https://github.com/Stefan2Ni)
 - [Andrey Simanovich](https://github.com/asktosimon)
