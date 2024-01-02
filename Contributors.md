@@ -31,6 +31,7 @@
 - [Ray Yu](https://github.com/RayYu-ChunleiYu)
 - [Tal Shaked](https://github.com/talshaked-git)
 - [Aryan Mehta](https://github.com/aryan-mehta)
+- [Helen Efebe](https://github.com/HelenJonathan) [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/helen-efebe)
 - [HosamEldeen Reda](https://github.com/hosamr)
 - [Ogunleye](https://github.com/ogunleye0720)
 - [Nafis Nihal](https://github.com/nafisnihal)
