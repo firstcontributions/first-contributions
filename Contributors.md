@@ -64,6 +64,7 @@
 - [Toph](https://github.com/IndexChris)
 - [Jawahar](https://github.com/juzztjawa)
 - [Arun Erram](https://github.com/arunerram)
+- [Venkata Bharath]
 - [Jeremy Rule](https://github.com/macaw2000)
 - [Dibya Shakti Panda](https://github.com/Dibyas98)
 - [Navin P](https://github.com/mep1tz)
