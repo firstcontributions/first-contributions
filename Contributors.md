@@ -13,7 +13,6 @@
 - [Ridwanullah Baruwa](https://github.com/DanonymousCoder)
 - 
   [SREEKAKULAM LOHITH](https://github.com/SreekakulamLohith)
-  [Camille Onoda](https://github.com/CamilleOnoda)
   [Myint Than Tun](https://github.com/MyintThanTun)
 - [Hamza Mubin](https://github.com/Hamza1821)
 - [Juliet Amobi](https://github.com/Jujujulex)
@@ -2644,6 +2643,7 @@ Pizzacat
 - [Mark Bayley](https://github.com/markbayley)
 - [richard](https://github.com/RichardSima2021)
 - [bartez33a](https://github.com/bartez33a)
+  [Camille Onoda](https://github.com/CamilleOnoda)
 - [NolannB14](https://github.com/NolannB14)
 - [Keziah Smallhorne](https://github.com/zkz63)
 - [Tyler Barlow] (https://github.com/barlowtyler96)
