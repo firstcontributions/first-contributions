@@ -7,6 +7,7 @@
 - [Niraj Giri](https://github.com/nirajgiriXD)
 -[Shaheer Dudekula]
 - [VIGNESH BABU](https://github.com/VICKY-0017)
+- [Pravar Agarwal] (https://github.com/PravarAgarwal) (https://www.linkedin.com/in/pravar-agarwal/)
 -[Arpit Agrawal](https://github.com/Monkey-Arpit-Agrawal)
 -[Aniruddha Adak](https://github.com/aniruddhaadak80)
 -[Su Su San](https://github.com/sususan16)
