@@ -82,6 +82,7 @@
 - [GwanBin Park](https://github.com/bgb10)
 - [Ray Yu](https://github.com/RayYu-ChunleiYu)
 - [Tal Shaked](https://github.com/talshaked-git)
+- [Ron](https://github.com/ronashkenazy)
 - [Aryan Mehta](https://github.com/aryan-mehta)
 - [Sab3ha](https://github.com/Sab3ha)
 - [HosamEldeen Reda](https://github.com/hosamr)
