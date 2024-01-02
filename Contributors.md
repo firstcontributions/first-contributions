@@ -15,6 +15,7 @@
 - [Sree Vardhan]
 - [CHONG JI XUAN]
 - [Arnav Gupta] -[Inthiyaz](https://github.com/S-gif-eng)
+- [Armando Guzman]
 - [Mark Louis Bernardo](https://github.com/marklouisALTER)
 - [Abdulmajid Mahadi](https://github.com/sheriifMahadi)
 - [Dann Gil Rabaya](https://github.com/thisismedg)
