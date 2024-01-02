@@ -298,6 +298,7 @@
 - [gunay-h](https://github.com/gunay-h)
 - [Exia](https://github.com/ooexiaoo)
 - [jjhen99](https://github.com/jjhen99)
+- [Mikael Hans](https://github.com/MikaelHans)
 - [Jeff Araujo](https://github.com/jeffara)
 - [Jaroshevskii 🝳 ︝”🌈](https://github.com/jaroshevskii)
 - [Elena N.J.](https://github.com/h669798)
