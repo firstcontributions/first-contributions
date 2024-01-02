@@ -1,15 +1,12 @@
 # Contributors
 
 - [Rizki Ramadandi](https://github.com/rizkiramadandi)
+- [mark0011astra](https://github.com/mark0011astra)
 - [TH-Raju](https://github.com/TH-Raju)
 - [iPig](https://github.com/ipigtw)
 - [Spencer Craigie](https://github.com/sscraigie)
-- [Niraj Giri](https://github.com/nirajgiriXD)
--[Shaheer Dudekula]
-- [VIGNESH BABU](https://github.com/VICKY-0017)
--[Arpit Agrawal](https://github.com/Monkey-Arpit-Agrawal)
--[Aniruddha Adak](https://github.com/aniruddhaadak80)
--[Su Su San](https://github.com/sususan16)
+- [Niraj Giri](https://github.com/nirajgiriXD) -[Shaheer Dudekula]
+- [VIGNESH BABU](https://github.com/VICKY-0017) -[Arpit Agrawal](https://github.com/Monkey-Arpit-Agrawal) -[Aniruddha Adak](https://github.com/aniruddhaadak80) -[Su Su San](https://github.com/sususan16)
 - [Sree Vardhan]
 - [Arnav Gupta] -[Inthiyaz](https://github.com/S-gif-eng)
 - [Dann Gil Rabaya](https://github.com/thisismedg)
