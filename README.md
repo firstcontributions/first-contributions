@@ -18,8 +18,10 @@
 <kbd>[<img title="Deutsch" alt="Deutsch" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](translations/README.de.md)</kbd>
 <kbd>[<img title="Dansk" alt="Dansk" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/dk.svg" width="22">](translations/README.da.md)</kbd>
 <kbd>[<img title="العربية" alt="العربية" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/eg.svg" width="22">](translations/README.eg.md)</kbd>
+<kbd>[<img title="Dezéiriya" alt="Dezéiriya" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/dz.svg" width="22">](translations/README.dz.md)</kbd>
 <kbd>[<img title="Española" alt="Española" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](translations/README.es.md)</kbd>
 <kbd>[<img title="Française" alt="Française" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](translations/README.fr.md)</kbd>
+<kbd>[<img title="Gaeilge" alt="Gaeilge" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ie.svg" width="22">](translations/README.ga.md)</kbd>
 <kbd>[<img title="Galego" alt="Galego" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Galicia.svg/1200px-Flag_of_Galicia.svg.png" width="22">](translations/README.gl.md)</kbd>
 <kbd>[<img title="Ελληνικά" alt="Ελληνικά" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/gr.svg" width="22">](translations/README.gr.md)</kbd>
 <kbd>[<img title="ქართული" alt="ქართული" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ge.svg" width="22">](translations/README.ge.md)</kbd>
@@ -59,6 +61,7 @@
 <kbd>[<img title="中文(Traditional)" alt="中文(Traditional)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tw.svg" width="22">](translations/README.zh-tw.md)</kbd>
 <kbd>[<img title="Українська" alt="Українська" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ua.svg" width="22">](translations/README.ua.md)</kbd>
 <kbd>[<img title="Tiếng Việt" alt="Tiếng Việt" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/vn.svg" width="22">](translations/README.vn.md)</kbd>
+<kbd>[<img title="Tanzania" alt="Swahili language" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tz.svg" width="22">](translations/README.sw.md)</kbd>
 <kbd>[<img title="Zulu (South Africa)" alt="Zulu (South Africa)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/za.svg" width="22">](translations/README.zul.md)</kbd>
 <kbd>[<img title="Afrikaans (South Africa)" alt="Afrikaans (South Africa)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/za.svg" width="22">](translations/README.afk.md)</kbd>
 <kbd>[<img title="Igbo (Nigeria)" alt="Igbo (Nigeria)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ng.svg" width="22">](translations/README.igb.md)</kbd>
@@ -77,6 +80,7 @@
 <kbd>[<img title="Español de Ecuador" alt="Ecuador" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ec.svg" width="22">](translations/README.ec.md)</kbd>
 <kbd>[<img title="Turkmen" alt="Turkmen language" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tm.svg" width="22">](translations/README.tm.md)</kbd>
 <kbd>[<img title="Ewe (TOGO)" alt="Ewe (TOGO)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tg.svg" width="22">](translations/README.ewe.md)</kbd>
+<kbd>[<img title="አማርኛ" alt="አማርኛ" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/et.svg" width="22">](translations/README.et.md)</kbd>
 
 # First Contributions
 
