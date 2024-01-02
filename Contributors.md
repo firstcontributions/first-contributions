@@ -1,12 +1,19 @@
 # Contributors
 
+- [Rizki Ramadandi](https://github.com/rizkiramadandi)
 - [TH-Raju](https://github.com/TH-Raju)
 - [iPig](https://github.com/ipigtw)
 - [Spencer Craigie](https://github.com/sscraigie)
-- [Niraj Giri](https://github.com/nirajgiriXD) -[Shaheer Dudekula] -[Arpit Agrawal](https://github.com/Monkey-Arpit-Agrawal) -[Aniruddha Adak](https://github.com/aniruddhaadak80) -[Su Su San](https://github.com/sususan16)
+- [Niraj Giri](https://github.com/nirajgiriXD)
+-[Shaheer Dudekula]
+- [VIGNESH BABU](https://github.com/VICKY-0017)
+-[Arpit Agrawal](https://github.com/Monkey-Arpit-Agrawal)
+-[Aniruddha Adak](https://github.com/aniruddhaadak80)
+-[Su Su San](https://github.com/sususan16)
 - [Sree Vardhan]
 - [Arnav Gupta] -[Inthiyaz](https://github.com/S-gif-eng)
 - [Dann Gil Rabaya](https://github.com/thisismedg)
+- [Anup Kumar Mridha] (https://github.com/anupkumarmridha)
 - [Ejemudaro Ufuoma Isaac](http://github.com/ufuomaisaac)
 - [David Nawl Sang Lui](http://github.com/David-Sang96)
 - [Sambhav Sharma](https://github.com/Dev-Sambhav)
@@ -18,6 +25,7 @@
 - [Athul Nambiar](http://github.com/athul-22)
 - 🐈‍⬛[lonely_caat](https://github.com/lonely-caat)🐈‍⬛
 - [Meow Aadvik]
+- [Ben Picone] $$$
 - [KlevCC](https://github.com/KlevCC)
 - [Gatere Kinyanjui] (https://github.com/gatere-kinyanjui)
 - [Saur-av](https://github.com/Saur-av/) # Thanks for help
@@ -42,6 +50,7 @@
 - [Faith Adewuyi](https://github.com/faithadewuyi)
 - [Soliu Adeosun](https://github.com/sawlew)
 - [Martins Olumide](https://github.com/Martins100-Tmd)
+- [Racheal Oyebamiji](https://github.com/rachealeniola)
 - [Anslem](https://github.com/Anslem1)
 - [Kelvin okumu](https://github.com/kelvinokumu)
 - [Betsalel Geoffrey GOLO] (https://github.com/betsalel44)
@@ -69,6 +78,7 @@
 - [Mohamed Amine Basdouri](https://github.com/MohamedAmin324)
 - [JamZ](https://github.com/JamZYM)
 - [chandan] (https://github.com/chandanyuva)
+- [Bhawesh Agrawal] (https://github.com/bhawesh-source)
 - [Shraddha Nand Shah] (https://github.com/shraddha1512)
 - [Sourabh Kr. Rajput](https://github.com/Sourabh-Kr-Rajput)
 - [Pankaj Singh Koranga](https://github.com/PankajSingh10)
@@ -631,6 +641,7 @@
 - [Frosmin](https://github.com/Frosmin)
 - [yiong](https://github.com/gin280)
 - [Dedphish](https://github.com/Dedphish)
+- [RaviJ] - Trying out GH tutorial
 - [Heeba Khan](https://github.com/heeba-khan)
 - [ABarpanda]()
 - [Afrin Nahar] (https://github.com/Afrin127329/)
@@ -813,3 +824,4 @@
 - [TareSG] (https://github.com/taresmaj)
 - [SupreethKumarJagarlmudi] (https://github.com/Supreethkumarjagarlamudi)
 - [Vaideeswaran Chandrasekaran] (https://github.com/vaideeswaran23)
+- [Siddharth Shankar] (https://github.com/code26A)
