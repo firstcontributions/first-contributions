@@ -900,5 +900,6 @@
 - [zhenchai00](https://github.com/zhenchai00)
 - [Sourav Malani](https://github.com/Sourav-Malani)
 - [Samir Saidi](https://github.com/samir-saidi)
+- [Mark Triassi](https://github.com/treeahsee)
 - [Nabeel Yousaf](https://github.com/dexterco) Love from Pakistan
 
