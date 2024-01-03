@@ -66,7 +66,7 @@
 - [Hasham Taujoo](https://github.com/HashamTaujoo)
 - [Muhammad Aliyu Abubakar](https://github.com/mxg-mega)
 - [Sachin Kumar](https://github.com/pseudofool)
-- [Apoorv](https://github.com/APOORV7G)
+- [Apoorv ](https://github.com/APOORV7G)
 - [Olayinkascott Andee](https://github.com/scottandee)
 - [Faith Adewuyi](https://github.com/faithadewuyi)
 - [Soliu Adeosun](https://github.com/sawlew)
