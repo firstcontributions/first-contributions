@@ -113,6 +113,7 @@
 - [Sanjana](https://github.com/sanjanabharath)
 - [Lokesh Kumawat] (https://github.com/lokkeshhhhh)
 - [Atul](https://github.com/Atuls-git)
+- [Victoria](https://github.com/Vhickyy)
 - [Jishnu Singh](https://github.com/Siam5ell)
 - [Babitha Kumari](https://github.com/Babithakumari)
 - [Matheus Alencar](https://github.com/MatThHeuss)
