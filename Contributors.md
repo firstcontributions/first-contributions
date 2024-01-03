@@ -59,6 +59,7 @@
 - Swiftanr
 - [Taro Qureshi](https://github.com/taro-qureshi)
 - Jeromeeee
+- Pokala Rohit 
 - [Akash Mishra] (https://github.com/akashmishrahaha)
 - [Mukund Menon] (https://github.com/CR1T1KAL16)
 - [Kapil Sharma](https://github.com/codingwithkapil)
