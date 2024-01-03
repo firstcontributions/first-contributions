@@ -2,7 +2,7 @@
 - [angrezichatterbox](https://github.com/angrezichatterbox) My First Commit
 - [Rizki Ramadandi](https://github.com/rizkiramadandi)
 - [Anand Rai](https://github.com/anandrai08)
-- [Prathibha Boini](https://github.com/Prathibha-yadav)
+- [Prathibha  Boini](https://github.com/Prathibha-yadav)
 - [Krish Sehgal](https://github.com/krish-sehgal)
 - [TH-Raju](https://github.com/TH-Raju)
 - [Jm Delas Alas](https://github.com/letandconst)
