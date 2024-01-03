@@ -13,6 +13,7 @@
 - [Spencer Craigie](https://github.com/sscraigie)
 - [Niraj Giri](https://github.com/nirajgiriXD)
 - [Elton Armelini](https://github.com/EltonArmelini)
+- [Himanshu Singh](https://github.com/hswrldwide)
 -[Shaheer Dudekula]
 - [Rounak Kumar Singh](https://github.com/rounakkumarsingh)
 - [Rounak Kumar Singh](https://github.com/rounakkumarsingh)
