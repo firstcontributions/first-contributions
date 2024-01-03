@@ -33,6 +33,7 @@
 - [el amine 404](https://github.com/el-amine-404)
 - [Dibyajyoti Mandal](https://github.com/cookiejar2104)
 - [Danny Hidayat](https://github.com/dannyhdyt)
+-  [Nekxio](https://github.com/Nekxio)
 - [ChrisB0617](https://github.com/ChrisB0617)
 - [yukendhiran](https://github.com/yukendhiran)
 - [Athul Nambiar](http://github.com/athul-22)
