@@ -11,6 +11,7 @@
 - [SurendharGN](https://github.com/SurendharGN)
 - [Spencer Craigie](https://github.com/sscraigie)
 - [Niraj Giri](https://github.com/nirajgiriXD)
+- [Elton Armelini](https://github.com/EltonArmelini)
 -[Shaheer Dudekula]
 - [Rounak Kumar Singh](https://github.com/rounakkumarsingh)
 - [Rounak Kumar Singh](https://github.com/rounakkumarsingh)
