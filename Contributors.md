@@ -1,8 +1,9 @@
 # Contributors
+
 - [angrezichatterbox](https://github.com/angrezichatterbox) My First Commit
 - [Rizki Ramadandi](https://github.com/rizkiramadandi)
 - [Anand Rai](https://github.com/anandrai08)
-- [Prathibha  Boini](https://github.com/Prathibha-yadav)
+- [Prathibha Boini](https://github.com/Prathibha-yadav)
 - [Krish Sehgal](https://github.com/krish-sehgal)
 - [TH-Raju](https://github.com/TH-Raju)
 - [Jm Delas Alas](https://github.com/letandconst)
@@ -11,16 +12,12 @@
 - [SurendharGN](https://github.com/SurendharGN)
 - [Spencer Craigie](https://github.com/sscraigie)
 - [Niraj Giri](https://github.com/nirajgiriXD)
-- [Elton Armelini](https://github.com/EltonArmelini)
--[Shaheer Dudekula]
+- [Elton Armelini](https://github.com/EltonArmelini) -[Shaheer Dudekula]
 - [Rounak Kumar Singh](https://github.com/rounakkumarsingh)
 - [Rounak Kumar Singh](https://github.com/rounakkumarsingh)
 - [Rounak Kumar Singh](https://github.com/rounakkumarsingh)
 - [VIGNESH BABU](https://github.com/VICKY-0017)
-- [Pravar Agarwal] (https://github.com/PravarAgarwal) (https://www.linkedin.com/in/pravar-agarwal/)
--[Arpit Agrawal](https://github.com/Monkey-Arpit-Agrawal)
--[Aniruddha Adak](https://github.com/aniruddhaadak80)
--[Su Su San](https://github.com/sususan16)
+- [Pravar Agarwal] (https://github.com/PravarAgarwal) (https://www.linkedin.com/in/pravar-agarwal/) -[Arpit Agrawal](https://github.com/Monkey-Arpit-Agrawal) -[Aniruddha Adak](https://github.com/aniruddhaadak80) -[Su Su San](https://github.com/sususan16)
 - [Sree Vardhan]
 - [CHONG JI XUAN]
 - [Arnav Gupta] -[Inthiyaz](https://github.com/S-gif-eng)
@@ -49,7 +46,7 @@
 - [KlevCC](https://github.com/KlevCC)
 - [Gatere Kinyanjui] (https://github.com/gatere-kinyanjui)
 - [Saur-av](https://github.com/Saur-av/) # Thanks for help
-- [talktoyeet](https://github.com/talktoyeet) 
+- [talktoyeet](https://github.com/talktoyeet)
 - [Muhammad Ahmod](https://github.com/Muhammad-1990)
 - [Alan Francisco Mora González](https://github.com/alanmgg)
 - [Deepika Jain] (https://github.com/deepika8383)
@@ -65,7 +62,7 @@
 - Swiftanr
 - [Taro Qureshi](https://github.com/taro-qureshi)
 - Jeromeeee
-- Pokala Rohit 
+- Pokala Rohit
 - [Akash Mishra] (https://github.com/akashmishrahaha)
 - [Mukund Menon] (https://github.com/CR1T1KAL16)
 - [Kapil Sharma](https://github.com/codingwithkapil)
@@ -379,7 +376,7 @@
 - [brandobogar](https://github.com/brandobogar)
 - [Maral Yousefi](https://github.com/Marall-Y)
 - [Elijah Love](https://elijahlove.xyz)
-- [Ksnq](https://github.com/devcembeer) [Website](https://ksnq.me) 
+- [Ksnq](https://github.com/devcembeer) [Website](https://ksnq.me)
 - [Ashika Dsilva](https://github.com/ashikadsilva)
 - [tenere](https://github.com/000tenere000)
 - [Abiodun Sojobi](https://github.com/baysquire) [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/aes37175bb)
@@ -723,6 +720,7 @@
 - [Patrick Michael O'Keeffe](https://github.com/lifeinink)
 - [Brett Caple](https://github.com/bcaple)
 - [Kyle Wilson](https://github.com/KWilson718)
+- [Brayan Gatica](https://github.com/ibrayann)
 - [Aji Tirto](https://github.com/ajitirto)
 - [Don-fortune Tangban](https://github.com/donfortune)
 - [Harsh Hegishte](https://github.com/InCredH)
@@ -888,8 +886,7 @@
 - [Nargotra]
 - [Wer Degars] (https://github.com/werdegars)
 - [Viviana Romero] (https://github.com/vivianaromeroo)
-- [Abhishek Soni]  (https://github.com/Abhishekksoni)
+- [Abhishek Soni] (https://github.com/Abhishekksoni)
 - [S SRINATH](https://github.com/ssrinath-sri) Thank you for helping out 🫰😁
 - [zhenchai00](https://github.com/zhenchai00)
 - [Sourav Malani](https://github.com/Sourav-Malani)
-
