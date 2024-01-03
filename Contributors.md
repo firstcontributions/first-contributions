@@ -3,6 +3,7 @@
 - [Rizki Ramadandi](https://github.com/rizkiramadandi)
 - [Krish Sehgal](https://github.com/krish-sehgal)
 - [TH-Raju](https://github.com/TH-Raju)
+- [Jm Delas Alas](https://github.com/letandconst)
 - [Temple Snowden](https://github.com/temple69)
 - [iPig](https://github.com/ipigtw)
 - [SurendharGN](https://github.com/SurendharGN)
