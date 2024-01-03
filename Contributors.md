@@ -842,7 +842,7 @@
 - [crystalyn]
 - [Wa]
 - [EL]
-- [bengodlewski] (https://github.com/bengodlewski)
+- [bengodlewski](https://github.com/bengodlewski)
 - [`Orunto Eniola`](https://github.com/orunto)
 - [`Pedro Frey`](https://github.com/PedroFrey)
 - [Smith] (https://github.com/kalappirar)
