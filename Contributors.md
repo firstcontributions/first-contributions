@@ -73,6 +73,7 @@
 - [Apoorv ](https://github.com/APOORV7G)
 - [Olayinkascott Andee](https://github.com/scottandee)
 - [Faith Adewuyi](https://github.com/faithadewuyi)
+- [Suraj](https://github.com/SurajKamal24)
 - [Soliu Adeosun](https://github.com/sawlew)
 - [Martins Olumide](https://github.com/Martins100-Tmd)
 - [Racheal Oyebamiji](https://github.com/rachealeniola)
