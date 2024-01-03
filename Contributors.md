@@ -36,7 +36,8 @@
 - [ChrisB0617](https://github.com/ChrisB0617)
 - [yukendhiran](https://github.com/yukendhiran)
 - [Athul Nambiar](http://github.com/athul-22)
--[Sudip Parajuli](https://github.com/Sudip777)
+- [Sudip Parajuli](https://github.com/Sudip777)
+- [Mellon Amutuheire](https://github.com/AMUTUHEIREMELLON)
 - 🐈‍⬛[lonely_caat](https://github.com/lonely-caat)🐈‍⬛
 - [Meow Aadvik]
 - [Ben Picone] $$$
