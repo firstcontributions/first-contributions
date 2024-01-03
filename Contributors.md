@@ -1,6 +1,6 @@
 # Contributors
 
-- [angrezichatterbox](https://github.com/angrezichatterbox)
+- [angrezichatterbox](https://github.com/angrezichatterbox) My First Commit
 - [Rizki Ramadandi](https://github.com/rizkiramadandi)
 - [Anand Rai](https://github.com/anandrai08)
 - [Prathibha Boini](https://github.com/Prathibha-yadav)
@@ -129,7 +129,7 @@
 - [Micheal eze obianuka](https://github.com/Mykelz)
 - [Dimple Jain](https://github.com/dimplehoney)
 - [Thawzin](https://github.com/Thawzin229)
-
+- hello
 - [Tabish Shamim](https://github.com/tabishshamim10)
 - [Nnodim Obinna Brian](https://github.com/nnodim)
 - [Uchenyi Kesandu](https://github.com/Kessi-ux) [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://linkedin.com/in/uchekes)
@@ -156,7 +156,6 @@
 - [Charley Yoshi](https://github.com/charleyoshi)
 - [Sai Preetham Reddy](https://github.com/SaiPreethamReddyy)
 - [Paul Lee](https://github.com/plee30)
-- [Brayan Gatica](https://github.com/ibrayann)
 - [Daniel Niemann Hjermitslev](https://github.com/dnh33)
 - [Jonathan Jones](https://github.com/devJonathanJones)
 - [Liam Dwyer](https://github.com/ldwy4)
@@ -721,6 +720,7 @@
 - [Patrick Michael O'Keeffe](https://github.com/lifeinink)
 - [Brett Caple](https://github.com/bcaple)
 - [Kyle Wilson](https://github.com/KWilson718)
+- [Brayan Gatica](https://github.com/ibrayann)
 - [Aji Tirto](https://github.com/ajitirto)
 - [Don-fortune Tangban](https://github.com/donfortune)
 - [Harsh Hegishte](https://github.com/InCredH)
