@@ -774,6 +774,7 @@
 - [Lianne Deng](https://github.com/erath-rise)
 - [jumekaam](https://github.com/jumekaam)
 - [Karan Sharma ](https://github.com/KaranSharma73)
+- [Carlo Volpi](https://github.com/Fox722)
 - [Sarkis Kovlekjian](https://github.com/kenshanta)
 - [Ahmad Madi](https://github.com/AhmadMadi)
 - [meilynbear](https://github.com/meilynbear)
