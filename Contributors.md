@@ -486,6 +486,7 @@
 - [Magframed](https://github.com/SarthakH19)
 - [Kushal](https://github.com/kushal-p1699)
 - [Akshith](https://github.com/Akshith1998)
+- [Michael]
 - [Gilbert Ozioma](https://github.com/gilbertozioma)
 - [Wong CZ](https://github.com/czwong02)
 - [Earl Villapaz](https://github.com/iearlg)
