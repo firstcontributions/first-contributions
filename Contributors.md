@@ -922,6 +922,7 @@
 - [samar gill] (https://github.com/samar-gill)
 - [gamelia programmer] (https://github.com/gameliaprogrammer)
 - [Nargotra]
+- [pronex 🦊](https://github.com/Pronex)
 - [Mercury] (https://github.com/MercuryDemo/first-contributions) Thanks
 - [Wer Degars] (https://github.com/werdegars)
 - [Viviana Romero] (https://github.com/vivianaromeroo)
