@@ -250,6 +250,7 @@
 - [Juliet Ofoegbu](https://github.com/OmaJuliet)
 - [Luis Fernando Tenorio Mora](https://github.com/ltenoriom)
 - [jaroslaw1](https://github.com/iaroslaw1)
+- [marysaley](https://github.com/marysaley)
 - [Tim Maingi](https://github.com/Merch7x)
 - [Hruthik Anugula](https://github.com/hruthikgithubrit)
 - [Taiwo Akerele] (https://github.com/TaiwoSoftware)
