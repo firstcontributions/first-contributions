@@ -851,6 +851,7 @@
 - [Mia] (https://github.com/MiaHsieh9003)
 - [Aiman] (https://github.com/helloaim4n)
 - [crystalyn]
+- [Nitipat Ruengsatawit](https://github.com/nitipat21)
 - [Wa]
 - [EL]
 - [bengodlewski](https://github.com/bengodlewski)
