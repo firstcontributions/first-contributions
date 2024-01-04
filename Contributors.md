@@ -20,6 +20,7 @@
 - [Brayan Gatica](https://github.com/ibrayann)
 - [Rounak Kumar Singh](https://github.com/rounakkumarsingh)
 - [VIGNESH BABU](https://github.com/VICKY-0017)
+- [Newton Mwasomanya](https://github.com/nmwasomanya)
 - [Pravar Agarwal] (https://github.com/PravarAgarwal) (https://www.linkedin.com/in/pravar-agarwal/)
 -[Arpit Agrawal](https://github.com/Monkey-Arpit-Agrawal)
 -[Aniruddha Adak](https://github.com/aniruddhaadak80)
