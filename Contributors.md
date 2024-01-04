@@ -569,6 +569,7 @@
 - [Tabish Ahmed](https://github.com/NoxiousTab)
 - [Awwal Adetomiwa](https://github.com/thedunncodes)
 - [medzo-kali](https://github.com/medzo-kali)
+- [Devin Kwon](https://github.com/DKwon00)
 - [Timothy Bukowski](https://github.com/Whitefire000)
 - [Nicholas Garbutt](https://github.com/Nicholas-Garbutt)
 - [Felipe Arruda](https://github.com/FelipeArruda)
