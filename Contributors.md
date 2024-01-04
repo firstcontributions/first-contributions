@@ -9,6 +9,7 @@
 - [Prathibha  Boini](https://github.com/Prathibha-yadav)
 - [Krish Sehgal](https://github.com/krish-sehgal)
 - [TH-Raju](https://github.com/TH-Raju)
+- [Advait Johari] ](https://github.com/aadijo))
 - [DylanCo](https://github.com/DylanCoexel)
 - [Nayan Choudhary](https://github.com/nayanchoudhary31)
 - [Jm Delas Alas](https://github.com/letandconst)
