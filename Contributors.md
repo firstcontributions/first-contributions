@@ -8,6 +8,7 @@
 - [Prathibha  Boini](https://github.com/Prathibha-yadav)
 - [Krish Sehgal](https://github.com/krish-sehgal)
 - [TH-Raju](https://github.com/TH-Raju)
+- [DylanCo](https://github.com/DylanCoexel)
 - [Nayan Choudhary](https://github.com/nayanchoudhary31)
 - [Jm Delas Alas](https://github.com/letandconst)
 - [Temple Snowden](https://github.com/temple69)
