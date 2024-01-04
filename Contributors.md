@@ -1,5 +1,6 @@
 # Contributors
 - [abedalavi](https://github.com/abedalavi)
+- [Oluwasemilore Omotade-Michaels](https://github.com/shemigam1)
 - [angrezichatterbox](https://github.com/angrezichatterbox) My First Commit
 - [charlesdzadu](https://github.com/charlesdzadu)
 - [Tony B. Nya](https://github.com/tonybnya)
