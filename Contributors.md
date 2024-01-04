@@ -202,6 +202,7 @@
 - [David Ejiro](https://github.com/David-Ejiro)
 - [grzegorzkoszczal](https://github.com/grzegorzkoszczal)
 - [Kingsley Kamkwamba](https://github.com/kamkwamba)
+- [Judah Nii Bonney](https://github.com/JudahNii)
 - [Felicia H](https://github.com/coder02603)
 - [Ritwick Raj Makhal](https://github.com/ritwickrajmakhal)
 - [Pritha Maity](https://github.com/PrithaMaity)
