@@ -12,6 +12,10 @@
 - [iPig](https://github.com/ipigtw)
 - [SurendharGN](https://github.com/SurendharGN)
 - [Spencer Craigie](https://github.com/sscraigie)
+ <<<<<<< first-conribution
+- [Niraj Giri](https://github.com/nirajgiriXD) -[Shaheer Dudekula]
+- [VIGNESH BABU](https://github.com/VICKY-0017) -[Arpit Agrawal](https://github.com/Monkey-Arpit-Agrawal) -[Aniruddha Adak](https://github.com/aniruddhaadak80) -[Su Su San](https://github.com/sususan16)
+=======
 - [Niraj Giri](https://github.com/nirajgiriXD)
 - [Elton Armelini](https://github.com/EltonArmelini)
 - [Himanshu Singh](https://github.com/hswrldwide)
@@ -28,6 +32,7 @@
 -[Arpit Agrawal](https://github.com/Monkey-Arpit-Agrawal)
 -[Aniruddha Adak](https://github.com/aniruddhaadak80)
 -[Su Su San](https://github.com/sususan16)
+ >>>>>>> main
 - [Sree Vardhan]
 - [CHONG JI XUAN]
 - [Fexxix](https://github.com/Fexxix/first-contributions.git)
@@ -57,9 +62,13 @@
 - [KlevCC](https://github.com/KlevCC)
 - [Gatere Kinyanjui] (https://github.com/gatere-kinyanjui)
 - [Saur-av](https://github.com/Saur-av/) # Thanks for help
+ <<<<<<< first-conribution
+- [talktoyeet](https://github.com/talktoyeet)
+=======
 - [talktoyeet](https://github.com/talktoyeet) 
 - [Muhammad Ahmod](https://github.com/Muhammad-1990)
 - [Alan Francisco Mora González](https://github.com/alanmgg)
+ >>>>>>> main
 - [Deepika Jain] (https://github.com/deepika8383)
 - [Paul Gobbé](https://github.com/PolGbe) ##Thanks 😎
 - [sus-domesticus](https://github.com/sus-domesticus)
@@ -170,6 +179,7 @@
 - [Sai Preetham Reddy](https://github.com/SaiPreethamReddyy)
 - [Paul Lee](https://github.com/plee30)
 - [Daniel Niemann Hjermitslev](https://github.com/dnh33)
+- [Naman Jain](https://github.com/Caged1964)
 - [Jonathan Jones](https://github.com/devJonathanJones)
 - [Liam Dwyer](https://github.com/ldwy4)
 - [Sentinal cell](https://github.com/Sentinal-cell)
@@ -390,7 +400,7 @@
 - [brandobogar](https://github.com/brandobogar)
 - [Maral Yousefi](https://github.com/Marall-Y)
 - [Elijah Love](https://elijahlove.xyz)
-- [Ksnq](https://github.com/devcembeer) [Website](https://ksnq.me) 
+- [Ksnq](https://github.com/devcembeer) [Website](https://ksnq.me)
 - [Ashika Dsilva](https://github.com/ashikadsilva)
 - [tenere](https://github.com/000tenere000)
 - [Abiodun Sojobi](https://github.com/baysquire) [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/aes37175bb)
