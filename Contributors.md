@@ -1,4 +1,5 @@
 # Contributors
+- [abedalavi](https://github.com/abedalavi)
 - [angrezichatterbox](https://github.com/angrezichatterbox) My First Commit
 - [charlesdzadu](https://github.com/charlesdzadu)
 - [Tony B. Nya](https://github.com/tonybnya)
