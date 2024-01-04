@@ -1,5 +1,6 @@
 # Contributors
 - [abedalavi](https://github.com/abedalavi)
+- [Oluwasemilore Omotade-Michaels](https://github.com/shemigam1)
 - [angrezichatterbox](https://github.com/angrezichatterbox) My First Commit
 - [charlesdzadu](https://github.com/charlesdzadu)
 - [Tony B. Nya](https://github.com/tonybnya)
@@ -81,6 +82,7 @@
 - Swiftanr
 - [Taro Qureshi](https://github.com/taro-qureshi)
 - Jeromeeee
+- [Mustafa Afzal](https://github.com/mafzii)
 - Pokala Rohit 
 - [Tyler Collingridge] (https://github.com/tcollm)
 - [Akash Mishra] (https://github.com/akashmishrahaha)
@@ -897,6 +899,7 @@
 - [QZBrainon](https://github.com/QZBrainon)
 - [Pk](https://github.com/pk2023)
 - [I-MirzaBaig](https://github.com/I-MirzaBaig)
+- [6D-pixel](https://github.com/6D-pixel) 💪😠
 - [Naveen R](https://github.com/Naveen2070) Thank you for helping out 🫰😁
 - [TareSG] (https://github.com/taresmaj)
 - [SupreethKumarJagarlmudi] (https://github.com/Supreethkumarjagarlamudi)
@@ -927,4 +930,5 @@
 - [Nabeel Yousaf](https://github.com/dexterco) Love from Pakistan
 - [baochill](https://github.com/baohoangstan)
 - [super-nived](https://github.com/super-nived) just Do it ✔️
+- [Victoria Udechukwu](https://github.com/vikyij)
 
