@@ -66,6 +66,7 @@
 - [Muhammad Ahmod](https://github.com/Muhammad-1990)
 - [Alan Francisco Mora González](https://github.com/alanmgg)
 - [Deepika Jain] (https://github.com/deepika8383)
+- [Avadhoot Tavhare](https://github.com/AvadhootT)
 - [Paul Gobbé](https://github.com/PolGbe) ##Thanks 😎
 - [sus-domesticus](https://github.com/sus-domesticus)
 - Ho Ho Ho [Aditya Kapadia]
