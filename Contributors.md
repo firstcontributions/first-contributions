@@ -14,6 +14,7 @@
 - [SurendharGN](https://github.com/SurendharGN)
 - [Spencer Craigie](https://github.com/sscraigie)
 - [Niraj Giri](https://github.com/nirajgiriXD)
+- [Nitant Makwana](https://github.com/nitverse)
 - [Elton Armelini](https://github.com/EltonArmelini)
 - [Himanshu Singh](https://github.com/hswrldwide)
 - [Aravind Gunasekaran](https://github.com/AravindGShanthi)
