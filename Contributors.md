@@ -31,6 +31,7 @@
 -[Su Su San](https://github.com/sususan16)
 - [Sree Vardhan]
 - [CHONG JI XUAN]
+- [Avijit Tripathi](https://github.com/avitripathi15)
 - [Fexxix](https://github.com/Fexxix/first-contributions.git)
 - [Arnav Gupta] -[Inthiyaz](https://github.com/S-gif-eng)
 - [Mark Louis Bernardo](https://github.com/marklouisALTER)
@@ -884,6 +885,7 @@
 - [Yashwanth Reddy](https://github.com/yashwanthreddy28)
 - [Kaushal Lohar](https://github.com/kaushal016)
 - [Beldjoudi Wassim](https://github.com/mythsSIMOU)
+- [Avijit Tripathi](https://github.com/avitripathi15)
 - [TBroder] (https://github.com/tehillabroder)
 - [QZBrainon](https://github.com/QZBrainon)
 - [Pk](https://github.com/pk2023)
@@ -915,4 +917,3 @@
 - [Mark Triassi](https://github.com/treeahsee)
 - [Nabeel Yousaf](https://github.com/dexterco) Love from Pakistan
 - [baochill](https://github.com/baohoangstan)
-
