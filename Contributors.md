@@ -891,6 +891,7 @@
 - [Vaideeswaran Chandrasekaran] (https://github.com/vaideeswaran23)
 - [Siddharth Shankar] (https://github.com/code26A)
 - [BrocaZ](https://github.com/BrocaZ)
+- [Bill Li](https://github.com/leeklee0427)
 - [Max Bailey] (https://github.com/Featho)
 - [Akbar Khotamov] (https://github.com/kingoker)
 - [Anna Muse] (https://github.com/anna-muse)
