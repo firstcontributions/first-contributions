@@ -13,6 +13,7 @@
 - [Nayan Choudhary](https://github.com/nayanchoudhary31)
 - [Jm Delas Alas](https://github.com/letandconst)
 - [Temple Snowden](https://github.com/temple69)
+- [Kunal Sharma](https://github.com/Kunal926/Gender_Classification)
 - [Abdullah Kidwai](https://github.com/fauzank339)
 - [João Gonçalves] (https://github.com/joao-goncalves17)
 - [iPig](https://github.com/ipigtw)
