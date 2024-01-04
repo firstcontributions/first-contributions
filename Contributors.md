@@ -8,6 +8,7 @@
 - [Jm Delas Alas](https://github.com/letandconst)
 - [Temple Snowden](https://github.com/temple69)
 - [Abdullah Kidwai](https://github.com/fauzank339)
+- [João Gonçalves] (https://github.com/joao-goncalves17)
 - [iPig](https://github.com/ipigtw)
 - [SurendharGN](https://github.com/SurendharGN)
 - [Spencer Craigie](https://github.com/sscraigie)
