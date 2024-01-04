@@ -899,6 +899,7 @@
 - [QZBrainon](https://github.com/QZBrainon)
 - [Pk](https://github.com/pk2023)
 - [I-MirzaBaig](https://github.com/I-MirzaBaig)
+- [6D-pixel](https://github.com/6D-pixel) 💪😠
 - [Naveen R](https://github.com/Naveen2070) Thank you for helping out 🫰😁
 - [TareSG] (https://github.com/taresmaj)
 - [SupreethKumarJagarlmudi] (https://github.com/Supreethkumarjagarlamudi)
