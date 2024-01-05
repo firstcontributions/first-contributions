@@ -830,6 +830,7 @@
 - [Carlo Volpi](https://github.com/Fox722)
 - [Sarkis Kovlekjian](https://github.com/kenshanta)
 - [Ahmad Madi](https://github.com/AhmadMadi)
+- [Andy C](https://github.com/InfinitePower85)
 - [meilynbear](https://github.com/meilynbear)
 - [Kwame Acheampong](https://github.com/k-acheampong)
 - [Girish Nandan ](https://github.com/jngnandan)
@@ -977,4 +978,3 @@
 - [suresh chandra sekar] (https://github.com/sureshchandras3kar)
 - [Yura] (https://github.com/yuramayer)
 - [taitep](https://github.com/taitep)
-
