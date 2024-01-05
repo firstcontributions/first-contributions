@@ -66,6 +66,7 @@
 - [Yuvaraj V](https://github.com/Yuvaraj643)
 [nptr](https://github.com/Napetrou)
 - [el amine 404](https://github.com/el-amine-404)
+- [Apoorv Saini](https://github.com/Apsain1)
 - [Dibyajyoti Mandal](https://github.com/cookiejar2104)
 - [Danny Hidayat](https://github.com/dannyhdyt)
 - [GlitchCake](https://github.com/GlitchCake)
