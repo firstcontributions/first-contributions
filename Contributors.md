@@ -18,6 +18,7 @@
 - [Ankur](https://github.com/Ar7109)
 - [Harish Kushwah](https://github.com/Harish-Kushwah) ❤️ INDIA
 - [Krish Sehgal](https://github.com/krish-sehgal)
+- [AM-Shafin](https://github.com/am-safin) 👊
 - [TH-Raju](https://github.com/TH-Raju)
 - [Advait Johari](https://github.com/aadijo)
 - [DylanCo](https://github.com/DylanCoexel)
