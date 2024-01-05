@@ -98,6 +98,7 @@
 - [Man Mo](https://github.com/broman1234)
 - [Nails-Bohr](https://github.com/Nails-Bohr/)
 - [Astro-bro](https://github.com/Astro-bro)
+- [Kim La](https://github.com/ktla99)
 - [Zane](https://github.com/Zanebla)
 - [Mohammed Islam]
 - [SilentStorm2k](https://github.com/SilentStorm2k)
