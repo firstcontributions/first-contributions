@@ -842,6 +842,7 @@
 - [Avinash](https://github.com/avinash-550)
 - [PolarisKnight](https://github.com/PolarisKnight)
 - [Avijit Manna](https://github.com/manna-avijit)
+- [Arnouv Nayana](https://github.com/arnouvn)
 - [xStFtx](https://github.com/xStFtx)
 - [AwxChen](https://github.com/AwxChen)
 - [Rupom](https://github.com/RupomChowdhury)
