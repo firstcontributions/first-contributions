@@ -6,6 +6,7 @@
 -[Ismail Adeshola Ogundele](https://github.com/i-slot)
 -[Balaji Bonageri](https://github.com/balajibonageri)
 -[Shashanks0616](https://github.com/Shashank)
+-[Mamolateli Mokhethi](https://github.com/mamolatelimokhethi)
 -[Kushal1o1](https://github.com/kushal1o1)
 -[John Wambaria](https://github.com/wambaria)
 -[TheRealAdegoke](https://github.com/TheRealAdegoke)
