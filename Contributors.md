@@ -632,6 +632,7 @@
 - [MangiNikhil](https://github.com/MangiNikhil)
 - [Busari Ismail Oladoja](https://github.com/Dojacom)
 - [youngwoo](https://github.com/Dandyoung)
+- [Dhruv Kansara](https://github.com/dhruvknsr)
 - [Tanisha Agarwal](https://github.com/Agrwaltanisha)
 - [alice](https://github.com/aherston)
 - [Samuel dunamis](https://github.com/dunamislimitless)
