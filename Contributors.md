@@ -13,6 +13,7 @@
 - [TH-Raju](https://github.com/TH-Raju)
 - [Advait Johari] ](https://github.com/aadijo))
 - [DylanCo](https://github.com/DylanCoexel)
+- [Kim La](https://github.com/ktla99)
 - [Nayan Choudhary](https://github.com/nayanchoudhary31)
 - [Jm Delas Alas](https://github.com/letandconst)
 - [Shishir Chulliyil](https://github.com/shishirchulliyil)
