@@ -2,6 +2,7 @@
 - [abedalavi](https://github.com/abedalavi)
 - [Oluwasemilore Omotade-Michaels](https://github.com/shemigam1)
 - [angrezichatterbox](https://github.com/angrezichatterbox) My First Commit
+- [Aniket Botre](https://github.com/Aniket200-ind)
 - [charlesdzadu](https://github.com/charlesdzadu)
 - [Milind Dhamu](https://github.com/milinddhamu)
 - [Tony B. Nya](https://github.com/tonybnya)
@@ -11,7 +12,7 @@
 - [Prathibha  Boini](https://github.com/Prathibha-yadav)
 - [Krish Sehgal](https://github.com/krish-sehgal)
 - [TH-Raju](https://github.com/TH-Raju)
-- [Advait Johari] ](https://github.com/aadijo))
+- [Advait Johari](https://github.com/aadijo)
 - [DylanCo](https://github.com/DylanCoexel)
 - [Kim La](https://github.com/ktla99)
 - [Nayan Choudhary](https://github.com/nayanchoudhary31)
