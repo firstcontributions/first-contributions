@@ -105,6 +105,7 @@
 - [Taro Qureshi](https://github.com/taro-qureshi)
 - Jeromeeee
 - [Mustafa Afzal](https://github.com/mafzii)
+- [Dylan Collins](https://github.com/D05Col)
 - Pokala Rohit 
 - [Tyler Collingridge] (https://github.com/tcollm)
 - [Akash Mishra] (https://github.com/akashmishrahaha)
