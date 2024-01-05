@@ -6,6 +6,7 @@
 - [charlesdzadu](https://github.com/charlesdzadu)
 - [Milind Dhamu](https://github.com/milinddhamu)
 - [Tony B. Nya](https://github.com/tonybnya)
+- [Mohit Gupta](https://github.com/themohitgupta)
 - [Himanshu Garg](https://github.com/himanshu-garg-ds)
 - [Rizki Ramadandi](https://github.com/rizkiramadandi)
 - [Anand Rai](https://github.com/anandrai08)
@@ -949,4 +950,5 @@
 - [Victoria Udechukwu](https://github.com/vikyij)
 - [Kogulan Natarajan] (https://github.com/Kogulan1)
 - [elenaanar] (https://github.com/elenaanar)
+
 
