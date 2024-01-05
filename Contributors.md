@@ -66,6 +66,7 @@
 - [Saur-av](https://github.com/Saur-av/) # Thanks for help
 - [talktoyeet](https://github.com/talktoyeet) 
 - [Muhammad Ahmod](https://github.com/Muhammad-1990)
+- [Hugin](https://github.com/hoo-gin)
 - [Alan Francisco Mora González](https://github.com/alanmgg)
 - [Deepika Jain] (https://github.com/deepika8383)
 - [Avadhoot Tavhare](https://github.com/AvadhootT)
@@ -73,6 +74,7 @@
 - [sus-domesticus](https://github.com/sus-domesticus)
 - Ho Ho Ho [Aditya Kapadia]
 - [Gyanavardhan](https://github.com/gyanavardhana)
+- [hoo-gin]
 - [Sourav Sathyan](https://github.com/souravsathyan)
 - [Nehal Ingole](https://github.com/Ingole712521) #Thanks
 - [FirePhoenix] (https://github.com/huy125) #Thanks for help
