@@ -975,4 +975,5 @@
 - [Somesh Rathi] (https://github.com/someshrathi02)
 - [suresh chandra sekar] (https://github.com/sureshchandras3kar)
 - [Yura] (https://github.com/yuramayer)
+- [taitep](https://github.com/taitep)
 
