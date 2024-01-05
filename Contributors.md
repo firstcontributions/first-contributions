@@ -4,6 +4,7 @@
 - [angrezichatterbox](https://github.com/angrezichatterbox) My First Commit
 - [charlesdzadu](https://github.com/charlesdzadu)
 - [Tony B. Nya](https://github.com/tonybnya)
+- [Himanshu Garg](https://github.com/himanshu-garg-ds)
 - [Rizki Ramadandi](https://github.com/rizkiramadandi)
 - [Anand Rai](https://github.com/anandrai08)
 - [Prathibha  Boini](https://github.com/Prathibha-yadav)
