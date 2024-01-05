@@ -3,6 +3,7 @@
 - [Oluwasemilore Omotade-Michaels](https://github.com/shemigam1)
 - [angrezichatterbox](https://github.com/angrezichatterbox) My First Commit
 - [charlesdzadu](https://github.com/charlesdzadu)
+- [Milind Dhamu](https://github.com/milinddhamu)
 - [Tony B. Nya](https://github.com/tonybnya)
 - [Himanshu Garg](https://github.com/himanshu-garg-ds)
 - [Rizki Ramadandi](https://github.com/rizkiramadandi)
