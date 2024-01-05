@@ -337,6 +337,7 @@
 - [bucked404](https://github.com/bucked404)
 - [buckmisterfullereno](https://github.com/Buckminsterfullereno)
 - [Anoushka]
+- [Manikanta Vasana]
 - [Amardeep]
 - [derronli](https://github.com/derronli)
 - [EnesUnlu](https://github.com/enes9103)
