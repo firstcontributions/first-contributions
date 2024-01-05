@@ -1,5 +1,4 @@
 # Contributors
-- [Syed Syab](https://github.com/SyabAhmad)
 - [Sree Vardhan]
 - [Arnav Gupta]
 - Ho Ho Ho [Aditya Kapadia]
