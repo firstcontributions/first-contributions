@@ -2,6 +2,7 @@
 - [abedalavi](https://github.com/abedalavi)
 - [Oluwasemilore Omotade-Michaels](https://github.com/shemigam1)
 - [angrezichatterbox](https://github.com/angrezichatterbox) My First Commit
+- [Fahim Muntasir](https://github.com/fahim-muntasir)
 - [Aniket Botre](https://github.com/Aniket200-ind)
 - [charlesdzadu](https://github.com/charlesdzadu)
 - [Milind Dhamu](https://github.com/milinddhamu)
