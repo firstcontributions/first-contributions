@@ -5,6 +5,7 @@
 - [angrezichatterbox](https://github.com/angrezichatterbox) My First Commit
 - [Fahim Muntasir](https://github.com/fahim-muntasir)
 - [Aniket Botre](https://github.com/Aniket200-ind)
+- [Nitin Yadav](https://github.com/nitinya9av) </❤️>
 - [charlesdzadu](https://github.com/charlesdzadu)
 - [Milind Dhamu](https://github.com/milinddhamu)
 - [Tony B. Nya](https://github.com/tonybnya)
