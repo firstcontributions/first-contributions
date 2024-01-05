@@ -923,6 +923,7 @@
 - [Clay Stevenson] (https://github.com/clanang)
 - [Vaideeswaran Chandrasekaran] (https://github.com/vaideeswaran23)
 - [Siddharth Shankar] (https://github.com/code26A)
+- [naoki ikesaka] (https://github.com/NaokiIkesaka)
 - [BrocaZ](https://github.com/BrocaZ)
 - [Bill Li](https://github.com/leeklee0427)
 - [Max Bailey] (https://github.com/Featho)
