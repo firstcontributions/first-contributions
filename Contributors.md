@@ -238,6 +238,7 @@
 - [Aditya Shekhar](https://github.com/Aditya-76)
 - [donkeeman](https://github.com/donkeeman)
 - [adamsocki](https://github.com/adamsocki)
+- [Adam Steiger](https://github.com/adamstgr)
 - [Gordon Lim](https://github.com/gordonlim02)
 - [DetorlarMubarak](https://github.com/Pious-coder)
 - [Yatee Singh](https://github.com/yatee-singh)
