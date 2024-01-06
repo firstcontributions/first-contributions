@@ -444,6 +444,7 @@
 - [tenere](https://github.com/000tenere000)
 - [Abiodun Sojobi](https://github.com/baysquire) [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/aes37175bb)
 - [Mohamed-Anasse] (https://github.com/OuraghiMohamed-Anasse)
+- [Alessio Bugetti](https://github.com/AlessioBugetti)
 - [Abijith-Lawrence] (https://github.com/abijithlj)
 - [Temitope Bankole](https://github.com/rareprince/)
 - [Kevin Grammer](https://github.com/kevingrammer)
@@ -988,4 +989,3 @@
 -[kavya-somireddy](https://github.com/Kavya-somireddy/first-contributions.git)
 -[LIZA](https://github.com/LIZA1608)
 -[Soumil-Bhattachary](https://github.com/Soumil-Bhattacharya)
-
