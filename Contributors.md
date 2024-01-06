@@ -1,5 +1,6 @@
 # Contributors
 - [Satyajit Patra] (https://github.com/SatyajitPatra06)
+- [Shahmeer malik](https://github.com/shahmeermalik1)
 - [SohamKore](https://github.com/SohamKore)
 - [abedalavi](https://github.com/abedalavi)
 - [Oluwasemilore Omotade-Michaels](https://github.com/shemigam1)
