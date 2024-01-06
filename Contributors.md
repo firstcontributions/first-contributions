@@ -485,6 +485,7 @@
 - [Sri Ram Gowd Vuppala](https://github.com/velvet-thunder-cmd)
 - [Matthew Weigand](https://github.com/MatthewWeigand99)
 - [A K M Jubaeir Islam](https://github.com/Zubiii333)
+- [Abhay Singh](https://github.com/Abhay-Singh-1913)
 - [Ian Hart](https://github.com/ianahart)
 - [Uday Vara](https://github.com/UV26320)
 - [Prabel](https://github.com/HiPrabel)
