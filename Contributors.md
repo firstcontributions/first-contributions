@@ -40,6 +40,7 @@
 - [Temple Snowden](https://github.com/temple69)
 - [Kunal Sharma](https://github.com/Kunal926/Gender_Classification)
 - [Abdullah Kidwai](https://github.com/fauzank339)
+- [Sulejman Hoxha](https://github.com/sulejmanhoxha)
 - [João Gonçalves] (https://github.com/joao-goncalves17)
 - [iPig](https://github.com/ipigtw)
 - [Mohammed Hamid](https://github.com/MdHamid06)
