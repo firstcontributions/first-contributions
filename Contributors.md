@@ -20,6 +20,7 @@
 - [Agneepradeep Verma](https://github.com/agneepradeep)
 - [Prathibha  Boini](https://github.com/Prathibha-yadav)
 - [Firoz Khan aka Codezakifiroz](https://github.com/codezakifiroz)
+- [David Preradovic](https://github.com/DavideTheClown)
 - [Ankur](https://github.com/Ar7109)
 - [Daris Mathew](https://github.com/darismathew92)
 - [Harish Kushwah](https://github.com/Harish-Kushwah) ❤️ INDIA
