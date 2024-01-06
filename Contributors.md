@@ -963,6 +963,7 @@
 - [naoki ikesaka] (https://github.com/NaokiIkesaka)
 - [BrocaZ](https://github.com/BrocaZ)
 - [Bill Li](https://github.com/leeklee0427)
+- [Jesse] (https://github.com/JesseMurah)
 - [Max Bailey] (https://github.com/Featho)
 - [Akbar Khotamov] (https://github.com/kingoker)
 - [Anna Muse] (https://github.com/anna-muse)
