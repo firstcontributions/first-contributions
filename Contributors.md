@@ -120,6 +120,7 @@
 - [Muhammad Aliyu Abubakar](https://github.com/mxg-mega)
 - [Sachin Kumar](https://github.com/pseudofool)
 - [Apoorv ](https://github.com/APOORV7G)
+- [AniketKumar](https://github.com/aniketkumar7)
 - [Olayinkascott Andee](https://github.com/scottandee)
 - [Faith Adewuyi](https://github.com/faithadewuyi)
 - [Suraj](https://github.com/SurajKamal24)
