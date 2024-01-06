@@ -37,6 +37,7 @@
 - [iPig](https://github.com/ipigtw)
 - [Mohammed Hamid](https://github.com/MdHamid06)
 - [SurendharGN](https://github.com/SurendharGN)
+- [Yashas-naidu](https://github.com/Yashas-naidu)
 - [Spencer Craigie](https://github.com/sscraigie)
 - [Niraj Giri](https://github.com/nirajgiriXD)
 - [Nitant Makwana](https://github.com/nitverse)
