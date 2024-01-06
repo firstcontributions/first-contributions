@@ -28,6 +28,7 @@
 - [DylanCo](https://github.com/DylanCoexel)
 - [Kim La](https://github.com/ktla99)
 - [Nayan Choudhary](https://github.com/nayanchoudhary31)
+- Saumitra Paira
 - [Jm Delas Alas](https://github.com/letandconst)
 - [Shishir Chulliyil](https://github.com/shishirchulliyil)
 - [Temple Snowden](https://github.com/temple69)
