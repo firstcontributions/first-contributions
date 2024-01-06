@@ -29,6 +29,7 @@
 - [DylanCo](https://github.com/DylanCoexel)
 - [Kim La](https://github.com/ktla99)
 - [Nayan Choudhary](https://github.com/nayanchoudhary31)
+- [Hrishikesh Medhi](https://github.com/c0ckr0ach)
 - Saumitra Paira
 - [Jm Delas Alas](https://github.com/letandconst)
 - [Shishir Chulliyil](https://github.com/shishirchulliyil)
