@@ -5,6 +5,7 @@
 - [Oluwasemilore Omotade-Michaels](https://github.com/shemigam1)
 - [angrezichatterbox](https://github.com/angrezichatterbox) My First Commit
 - [Fahim Muntasir](https://github.com/fahim-muntasir)
+- [Canyon Bryson](https://github.com/canyonbryson)
 - [Aniket Botre](https://github.com/Aniket200-ind)
 - [Nitin Yadav](https://github.com/nitinya9av) </❤️>
 - [charlesdzadu](https://github.com/charlesdzadu)
