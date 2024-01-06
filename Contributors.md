@@ -14,6 +14,7 @@
 - [charlesdzadu](https://github.com/charlesdzadu)
 - [Milind Dhamu](https://github.com/milinddhamu)
 - [Tony B. Nya](https://github.com/tonybnya)
+- [Adrià Escandell](https://github.com/AdriiE17)
 - [Himanshu Garg](https://github.com/himanshu-garg-ds)
 - [Rizki Ramadandi](https://github.com/rizkiramadandi)
 - [Anand Rai](https://github.com/anandrai08)
