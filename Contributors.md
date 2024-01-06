@@ -21,9 +21,10 @@
 - [Prathibha  Boini](https://github.com/Prathibha-yadav)
 - [Firoz Khan aka Codezakifiroz](https://github.com/codezakifiroz)
 - [Ankur](https://github.com/Ar7109)
+- [FlandersFrybad](https://github.com/flandersfrybad) 🍉
 - [Daris Mathew](https://github.com/darismathew92)
 - [Harish Kushwah](https://github.com/Harish-Kushwah) ❤️ INDIA
-- [Krish Sehgal](https://github.com/krish-sehgal)
+- [Krish Sehgal](https://github.com/krish-sehgal) 
 - [Ionecum](https://github.com/ionecum)
 - [AM-Shafin](https://github.com/am-safin) 👊
 - [TH-Raju](https://github.com/TH-Raju)
