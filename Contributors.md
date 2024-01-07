@@ -46,6 +46,7 @@
 - [Nayan Choudhary](https://github.com/nayanchoudhary31)
 - [Hrishikesh Medhi](https://github.com/c0ckr0ach)
 - Saumitra Paira
+- Kunal Takalkhede
 - [Jm Delas Alas](https://github.com/letandconst)
 - [Shishir Chulliyil](https://github.com/shishirchulliyil)
 - [Temple Snowden](https://github.com/temple69)
@@ -1032,4 +1033,5 @@
 - [Rohail Khan](https://github.com/Rohxilk)
 -[s-kontrol](https://github.com/s-kontrol/contributions) Thank you!!!
 -[jonasermert](https://github.com/jonasermert)
+-[ivborrezo](https://github.com/ivborrezo)
 
