@@ -1,6 +1,7 @@
 # Contributors
 - [BlackSmithOfFire](I won't put my link/Sorry!But thanks)
 - [Satyajit Patra] (https://github.com/SatyajitPatra06)
+- [Kyle O'Leary] (https://github.com/kyle-oleary)
 - [Shahmeer malik](https://github.com/shahmeermalik1)
 - [Karuppaiah](https://github.com/akdinesh124)
 - [Kazuho](https://github.com/kzhgit)
