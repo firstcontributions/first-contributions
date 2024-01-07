@@ -5,7 +5,9 @@
 - [SohamKore](https://github.com/SohamKore)
 - [abedalavi](https://github.com/abedalavi)
 - [Oluwasemilore Omotade-Michaels](https://github.com/shemigam1)
-- [angrezichatterbox](https://github.com/angrezichatterbox) My First Commit
+- [angrezichatterbox](https://github.com/angrezichatterbox)
+- [pavan naik](https://github.com/pavannaik321)
+My First Commit
 - [Fahim Muntasir](https://github.com/fahim-muntasir)
 - [Canyon Bryson](https://github.com/canyonbryson)
 - [Maitri Dalvi](https://github.com/maitri-dalvi)
