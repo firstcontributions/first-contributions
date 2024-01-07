@@ -549,6 +549,7 @@
 - [Prajwal-patil](https://github.com/praj-mkdir)
 - [Yemi Kudaisi](https://github.com/yemikudaisi)
 - [Dreyfi](https://github.com/Dreyfi)
+- [CosmaPop](https://github.com/CosmaPOP)
 - [Shiva S](https://github.com/shiva-s30)
 - [Muhammad Zidan Fatonie](https://github.com/mzf11125)👋
 - [Vishnu Kumar V](https://github.com/vichustephen)
