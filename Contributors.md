@@ -182,6 +182,7 @@
 - [JamZ](https://github.com/JamZYM)
 - [chandan] (https://github.com/chandanyuva)
 - [Bhawesh Agrawal] (https://github.com/bhawesh-source)
+- [FraI3mega](https://github.com/FraI3mega)
 - [Shraddha Nand Shah] (https://github.com/shraddha1512)
 - [Sourabh Kr. Rajput](https://github.com/Sourabh-Kr-Rajput)
 - [Pankaj Singh Koranga](https://github.com/PankajSingh10)
