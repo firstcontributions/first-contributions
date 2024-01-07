@@ -174,6 +174,7 @@
 - [Amol Pardeshi](https://gi thub.com/AmolPardeshi99) -[Rhitika Pal Adhikari](https://github.com/PalRhitika)
 - [Shahil Kumar](https://github.com/Shahil9728)
 - [Sabri Cihan Bircan] (https://github.com/SabriCihan)
+- [Hajnalka Horvath] (https://github.com/HorvathHajnalka)
 - [Johnson Shan] (https://github.com/JohnsonShan)
 - [Caleb Hill](https://github.com/calebhill98)
 - [Looki](https://github.com/Looki-fr)
