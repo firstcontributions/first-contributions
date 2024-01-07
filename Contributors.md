@@ -17,6 +17,7 @@
 - [Tony B. Nya](https://github.com/tonybnya)
 - [Adrià Escandell](https://github.com/AdriiE17)
 - [Himanshu Garg](https://github.com/himanshu-garg-ds)
+- [Temitope Emokpae](https://github.com/temokpae3)
 - [Rizki Ramadandi](https://github.com/rizkiramadandi)
 - [Anand Rai](https://github.com/anandrai08)
 - [Agneepradeep Verma](https://github.com/agneepradeep)
