@@ -11,6 +11,7 @@
 - [Maitri Dalvi](https://github.com/maitri-dalvi)
 - [Aniket Botre](https://github.com/Aniket200-ind)
 - [Nitin Yadav](https://github.com/nitinya9av) </❤️>
+- [Sivapannier]
 - [charlesdzadu](https://github.com/charlesdzadu)
 - [Milind Dhamu](https://github.com/milinddhamu)
 - [Tony B. Nya](https://github.com/tonybnya)
