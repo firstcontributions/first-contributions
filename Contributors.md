@@ -7,6 +7,7 @@
 - [Oluwasemilore Omotade-Michaels](https://github.com/shemigam1)
 - [angrezichatterbox](https://github.com/angrezichatterbox)
 - [pavan naik](https://github.com/pavannaik321)
+- [khalid]
 My First Commit
 - [Fahim Muntasir](https://github.com/fahim-muntasir)
 - [Canyon Bryson](https://github.com/canyonbryson)
