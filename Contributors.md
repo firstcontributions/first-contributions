@@ -519,6 +519,7 @@
 - [Ian Hart](https://github.com/ianahart)
 - [Uday Vara](https://github.com/UV26320)
 - [Prabel](https://github.com/HiPrabel)
+- [Avinash Mangalore Suresh](https://github.com/msavinash)
 - [Ridhi Priya](https://github.com/Ridhi-priya)
 - [Deepak Saini](https://github.com/dipaksaini98)
 - [Nsikan Patrick Adaowo](https://github.com/NsikanPatrick)
