@@ -482,6 +482,7 @@
 - [HWu](https://github.com/Aucannot)
 - [JJM](https://github.com/Jiaming-Jin)
 - [Ifeoluwah](https://github.com/ifeoluwah21)
+- [Avinash N](https://github.com/AviN27)
 - [Dbecausing](https://github.com/dbecausing)
 - [heywhf](https://github.com/heywhf)
 - [Shiv Dev](https://github.com/Sh1vd3v)
