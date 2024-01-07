@@ -1033,5 +1033,5 @@
 - [Rohail Khan](https://github.com/Rohxilk)
 -[s-kontrol](https://github.com/s-kontrol/contributions) Thank you!!!
 -[jonasermert](https://github.com/jonasermert)
--[ivborrezo](https://github.com/ivborrezo)
+- [ivborrezo](https://github.com/ivborrezo)
 
