@@ -1013,4 +1013,5 @@
 -[Mikhail Wahib](https://github.com/MikhailWahib) 𓆎𓅓𓏏𓊖𓇌
 - [Hellodarkness] (https://github.com/hellodarkness) Empower yourself :)
 -[Alen-S-J](https://github.com/Alen-S-J)
+-[s-kontrol](https://github.com/s-kontrol/contributions) Thank you!!!
 
