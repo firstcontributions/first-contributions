@@ -979,6 +979,7 @@
 - [Anna Muse] (https://github.com/anna-muse)
 - [tomato]
 - [Empuraan]
+- [Shakthi](https://github.com/Lokak07)
 - [Brian Kim] (https://github.com/brianshkim)
 - [Eduardo Hilário] (https://github.com/eduardohilariodev)
 - [Barathkumar S R] (https://github.com/barathsr)
