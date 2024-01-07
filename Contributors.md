@@ -6,6 +6,7 @@
 - [Karuppaiah](https://github.com/akdinesh124)
 - [Kazuho](https://github.com/kzhgit)
 - [Omkar Kulkarni](https://github.com/omkarkulkarnii)
+- [Aayushi Sinha](https://github.com/aayushi892)
 - [SohamKore](https://github.com/SohamKore)
 - [Palash Chitnavis](https://github.com/PalashChitnavis)
 - [abedalavi](https://github.com/abedalavi)
