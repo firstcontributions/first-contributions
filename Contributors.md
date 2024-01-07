@@ -90,6 +90,7 @@
 [nptr](https://github.com/Napetrou)
 - [el amine 404](https://github.com/el-amine-404)
 - [Apoorv Saini](https://github.com/Apsain1)
+- [Ankush Tiwari](https://github.com/tiwaribro/)
 - [Dibyajyoti Mandal](https://github.com/cookiejar2104)
 - [Danny Hidayat](https://github.com/dannyhdyt)
 - [GlitchCake](https://github.com/GlitchCake)
