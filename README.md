@@ -158,7 +158,7 @@ git add Contributors.md
 Now commit those changes using the `git commit` command:
 
 ```bash
-git commit -m "Add your-name to Contributors list"
+git commit -m "Your descriptive commit message summary"
 ```
 
 replacing `your-name` with your name.
