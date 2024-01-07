@@ -4,6 +4,7 @@
 - [Kazuho](https://github.com/kzhgit)
 - [Omkar Kulkarni](https://github.com/omkarkulkarnii)
 - [SohamKore](https://github.com/SohamKore)
+- [Palash Chitnavis](https://github.com/PalashChitnavis)
 - [abedalavi](https://github.com/abedalavi)
 - [Oluwasemilore Omotade-Michaels](https://github.com/shemigam1)
 - [angrezichatterbox](https://github.com/angrezichatterbox) My First Commit
