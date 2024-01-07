@@ -1,6 +1,7 @@
 # Contributors
 - [BlackSmithOfFire](I won't put my link/Sorry!But thanks)
 - [Satyajit Patra] (https://github.com/SatyajitPatra06)
+- [Kyle O'Leary] (https://github.com/kyle-oleary)
 - [Shahmeer malik](https://github.com/shahmeermalik1)
 - [Karuppaiah](https://github.com/akdinesh124)
 - [Kazuho](https://github.com/kzhgit)
@@ -46,6 +47,7 @@
 - [Nayan Choudhary](https://github.com/nayanchoudhary31)
 - [Hrishikesh Medhi](https://github.com/c0ckr0ach)
 - Saumitra Paira
+- Kunal Takalkhede
 - [Jm Delas Alas](https://github.com/letandconst)
 - [Shishir Chulliyil](https://github.com/shishirchulliyil)
 - [Temple Snowden](https://github.com/temple69)
@@ -1032,4 +1034,5 @@
 - [Rohail Khan](https://github.com/Rohxilk)
 -[s-kontrol](https://github.com/s-kontrol/contributions) Thank you!!!
 -[jonasermert](https://github.com/jonasermert)
+-[ivborrezo](https://github.com/ivborrezo)
 -[yanamalamanda madhu](https://github.com/yanamalamanda-madhu) this is my first contribution
