@@ -57,6 +57,7 @@
 - [Yashas-naidu](https://github.com/Yashas-naidu)
 - [Spencer Craigie](https://github.com/sscraigie)
 - [Niraj Giri](https://github.com/nirajgiriXD)
+- [Onyedikachi Amaechi-Okorie](https://github.com/Honyii)
 - [Nitant Makwana](https://github.com/nitverse)
 - [Elton Armelini](https://github.com/EltonArmelini)
 - [Himanshu Singh](https://github.com/hswrldwide)
