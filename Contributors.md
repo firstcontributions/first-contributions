@@ -26,6 +26,7 @@
 - [Canyon Bryson](https://github.com/canyonbryson)
 - [Maitri Dalvi](https://github.com/maitri-dalvi)
 - [Aniket Botre](https://github.com/Aniket200-ind)
+- [Rafal Jasielec] (https://github.com/GHrjasielec)
 - [Nitin Yadav](https://github.com/nitinya9av) </❤️>
 - [mpousmali](https://github.com/mpousmali)
 - [Angelica Michaca](https://github.com/Angelica-Michaca)
