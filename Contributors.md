@@ -10,6 +10,7 @@
 - [Rahul Rajput](https://github.com/r2hu1)
 - [Omkar Kulkarni](https://github.com/omkarkulkarnii)
 - [Aayushi Sinha](https://github.com/aayushi892)
+- [Naim Ahmad](https://github.com/Naim-Ahmad)
 - [SohamKore](https://github.com/SohamKore)
 - [Rohit Singh](https://github.com/Rataash99)
 - [Palash Chitnavis](https://github.com/PalashChitnavis)
