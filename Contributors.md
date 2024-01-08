@@ -8,6 +8,7 @@
 - [Omkar Kulkarni](https://github.com/omkarkulkarnii)
 - [Aayushi Sinha](https://github.com/aayushi892)
 - [SohamKore](https://github.com/SohamKore)
+- [Rohit Singh](https://github.com/Rataash99)
 - [Palash Chitnavis](https://github.com/PalashChitnavis)
 - [abedalavi](https://github.com/abedalavi)
 - [Oluwasemilore Omotade-Michaels](https://github.com/shemigam1)
