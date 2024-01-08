@@ -954,6 +954,7 @@
 - [Aiman] (https://github.com/helloaim4n)
 - [crystalyn]
 - [Nitipat Ruengsatawit](https://github.com/nitipat21)
+- [Felix](https://github.com/Feliax111)
 - [Wa]
 - [EL]
 - [bengodlewski](https://github.com/bengodlewski)
@@ -1041,4 +1042,3 @@
 -[s-kontrol](https://github.com/s-kontrol/contributions) Thank you!!!
 -[jonasermert](https://github.com/jonasermert)
 -[ivborrezo](https://github.com/ivborrezo)
-
