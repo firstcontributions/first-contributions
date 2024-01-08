@@ -12,6 +12,7 @@
 - [SurendharGN](https://github.com/SurendharGN)
 - [Spencer Craigie](https://github.com/sscraigie)
 - [Niraj Giri](https://github.com/nirajgiriXD)
+- [Chioma Godwin](https://github.com/dwinny)
 - [Elton Armelini](https://github.com/EltonArmelini)
 - [Himanshu Singh](https://github.com/hswrldwide)
 -[Shaheer Dudekula]
