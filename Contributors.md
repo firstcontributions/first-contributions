@@ -34,6 +34,7 @@
 - [Adrià Escandell](https://github.com/AdriiE17)
 - [Ronita Patra](https://github.com/Ronita-Patra)
 - [Himanshu Garg](https://github.com/himanshu-garg-ds)
+- [Abdallah Afifi](https://github.com/Abdallah-Afifi)
 - [Temitope Emokpae](https://github.com/temokpae3)
 - [Rizki Ramadandi](https://github.com/rizkiramadandi)
 - [Anand Rai](https://github.com/anandrai08)
