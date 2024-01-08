@@ -402,6 +402,7 @@
 - [Amardeep]
 - [derronli](https://github.com/derronli)
 - [EnesUnlu](https://github.com/enes9103)
+- [Dhruv Koli](https://github.com/dask-58)
 - [root-Manas](https:/github.com/root-Manas)
 - [Izzy](https://github.com/IzzyPrime)
 - [Peytonjc](https://github.com/peytonjc)
