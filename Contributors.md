@@ -1068,4 +1068,4 @@
 -[chad](https://github.com/chdclar16)
 -[NdangiKanime](https://github.com/NdangiKanime)
 -[Luka Radic](https://github.com/Lukaradic) 
-
+-[José Lopes](https://github.com/joserlopes)
