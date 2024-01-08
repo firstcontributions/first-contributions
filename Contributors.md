@@ -5,6 +5,7 @@
 - [Shahmeer malik](https://github.com/shahmeermalik1)
 - [Karuppaiah](https://github.com/akdinesh124)
 - [Kazuho](https://github.com/kzhgit)
+- [Rahul Rajput](https://github.com/r2hu1)
 - [Omkar Kulkarni](https://github.com/omkarkulkarnii)
 - [Aayushi Sinha](https://github.com/aayushi892)
 - [SohamKore](https://github.com/SohamKore)
