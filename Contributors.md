@@ -12,6 +12,7 @@
 - [Banjo Patrick](https:github.com/Super-Savvy)
 - [Kazuho](https://github.com/kzhgit)
 - [Rahul S Srivastava](https://github.com/Rahul-Srivastava-21)
+- [Srishti Agarwal] (https://github.com/srishtiagarwall)
 - [Rahul Rajput](https://github.com/r2hu1)
 - [Omkar Kulkarni](https://github.com/omkarkulkarnii)
 - [Aayushi Sinha](https://github.com/aayushi892)
