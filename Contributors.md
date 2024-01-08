@@ -7,6 +7,7 @@
 - [Kyle O'Leary] (https://github.com/kyle-oleary)
 - [Shahmeer malik](https://github.com/shahmeermalik1)
 - [Karuppaiah](https://github.com/akdinesh124)
+- [Banjo Patrick](https:github.com/Super-Savvy)
 - [Kazuho](https://github.com/kzhgit)
 - [Rahul Rajput](https://github.com/r2hu1)
 - [Omkar Kulkarni](https://github.com/omkarkulkarnii)
