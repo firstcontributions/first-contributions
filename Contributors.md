@@ -1,5 +1,6 @@
+
 # Contributors
-- [Htut Oakkar](https://github.com/htutoakkar)
+
 - [Sandesh KV](https://github.com/SandeshAmin)
 - [Mohammed Sidiq](https://github.com/MohdSiddiq12)
 - [BlackSmithOfFire](I won't put my link/Sorry!But thanks)
@@ -35,6 +36,7 @@
 - [Sivapannier]
 - [charlesdzadu](https://github.com/charlesdzadu)
 - [Milind Dhamu](https://github.com/milinddhamu)
+- [jorgezabbaram](https://github.com/jorgezabbaram)
 - [Tony B. Nya](https://github.com/tonybnya)
 - [Adrià Escandell](https://github.com/AdriiE17)
 - [Roberto Cárdenas](https://github.com/BrokenRoto)
