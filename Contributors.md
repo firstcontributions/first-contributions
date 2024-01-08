@@ -1061,6 +1061,7 @@
 - [taitep](https://github.com/taitep)
 -[kavya-somireddy](https://github.com/Kavya-somireddy/first-contributions.git)
 -[LIZA](https://github.com/LIZA1608)
+-[Ashley Hou] (https://github.com/itisamazingxx)
 -[Soumil-Bhattachary](https://github.com/Soumil-Bhattacharya)
 -[Ashish-Benny](https://github.com/AshishBenny) Stay Hard
 -[Mikhail Wahib](https://github.com/MikhailWahib) 𓆎𓅓𓏏𓊖𓇌
