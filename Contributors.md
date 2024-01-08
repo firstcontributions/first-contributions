@@ -7,6 +7,7 @@
 - [Kazuho](https://github.com/kzhgit)
 - [Rahul Rajput](https://github.com/r2hu1)
 - [Omkar Kulkarni](https://github.com/omkarkulkarnii)
+- [Asik SK](https://github.com/ASIK140)
 - [Aayushi Sinha](https://github.com/aayushi892)
 - [SohamKore](https://github.com/SohamKore)
 - [Rohit Singh](https://github.com/Rataash99)
@@ -68,6 +69,7 @@
 - [Onyedikachi Amaechi-Okorie](https://github.com/Honyii)
 - [Nitant Makwana](https://github.com/nitverse)
 - [Elton Armelini](https://github.com/EltonArmelini)
+
 - [Himanshu Singh](https://github.com/hswrldwide)
 - [Aravind Gunasekaran](https://github.com/AravindGShanthi)
 -[Shaheer Dudekula]
