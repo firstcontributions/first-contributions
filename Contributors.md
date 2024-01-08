@@ -5,6 +5,7 @@
 - [BlackSmithOfFire](I won't put my link/Sorry!But thanks)
 - [Satyajit Patra] (https://github.com/SatyajitPatra06)
 - [Kyle O'Leary] (https://github.com/kyle-oleary)
+- [Robert Judal Regalado](https://github.com/rojre1979)
 - [Shahmeer malik](https://github.com/shahmeermalik1)
 - [Karuppaiah](https://github.com/akdinesh124)
 - [Banjo Patrick](https:github.com/Super-Savvy)
