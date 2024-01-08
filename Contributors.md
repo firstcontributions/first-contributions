@@ -697,6 +697,7 @@
 - [Samuel dunamis](https://github.com/dunamislimitless)
 - [Lillyann](https://github.com/lcelisse)
 - [Richmond Nyame](https://github.com/Nyame100)
+- [Ann](https://github.com/wangui-ann)
 - [ThanushkumarRD](https://github.com/Thanush19)
 - [Abdourahmane Jalloh](https://github.com/aradradev)
 - [Avery Moore](https://github.com/Avery-Moore)
