@@ -98,6 +98,7 @@
 - [Vandan Nandwana](https://github.com/vandannandwana)
 - [deviant](https://github.com/vedanivas)
 - [Thanusan Aiyadurai Iyer](https://github.com/Thanu221099)
+- [Brian Chebon](https://github.com/Chebon-breezy)
 - [Pankaj Singh](https://github.com/pankaj-2503)
 - [Myat Noe Maung](https://github.com/myatnoemaung97)
 - [Houssem Selmi](https://github.com/Houssem-Selmi)
