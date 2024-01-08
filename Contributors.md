@@ -7,6 +7,7 @@
 - [Kyle O'Leary] (https://github.com/kyle-oleary)
 - [Robert Judal Regalado](https://github.com/rojre1979)
 - [Shahmeer malik](https://github.com/shahmeermalik1)
+- [Daniel Otchere](https://github.com/ascot20)
 - [Karuppaiah](https://github.com/akdinesh124)
 - [Banjo Patrick](https:github.com/Super-Savvy)
 - [Kazuho](https://github.com/kzhgit)
