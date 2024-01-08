@@ -1,4 +1,5 @@
 # Contributors
+- [Mohammed Sidiq](https://github.com/MohdSiddiq12)
 - [BlackSmithOfFire](I won't put my link/Sorry!But thanks)
 - [Satyajit Patra] (https://github.com/SatyajitPatra06)
 - [Kyle O'Leary] (https://github.com/kyle-oleary)
