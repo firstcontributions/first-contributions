@@ -2597,6 +2597,7 @@ Ayan Das
 - [Manuel Pineda](https://github.com/manuel12)
 - [Koji Takahiro](https://github.com/koji-takahiro)
 - [Victor Okech](https://github.com/victorokech)
+- [Niranjan A S](https://github.com/Niranjan-A-S)
 - [Zoheir Bentebbiche](https://github.com/zoheir78)
 - [Sam Barlas](https://github.com/sambarlas)
 - [Lucas Ribeiro](https://github.com/lucasribeiro-dev)
