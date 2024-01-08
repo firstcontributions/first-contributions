@@ -22,6 +22,7 @@
 - [Maitri Dalvi](https://github.com/maitri-dalvi)
 - [Aniket Botre](https://github.com/Aniket200-ind)
 - [Nitin Yadav](https://github.com/nitinya9av) </❤️>
+- [mpousmali](https://github.com/mpousmali)
 - [Angelica Michaca](https://github.com/Angelica-Michaca)
 - [Sivapannier]
 - [charlesdzadu](https://github.com/charlesdzadu)
