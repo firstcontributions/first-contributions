@@ -8,6 +8,7 @@
 - [Kyle O'Leary] (https://github.com/kyle-oleary)
 - [Robert Judal Regalado](https://github.com/rojre1979)
 - [Shahmeer malik](https://github.com/shahmeermalik1)
+- [ryosuke-horie](https://github.com/ryosuke-horie)
 - [Daniel Otchere](https://github.com/ascot20)
 - [Karuppaiah](https://github.com/akdinesh124)
 - [Banjo Patrick](https:github.com/Super-Savvy)
@@ -56,7 +57,7 @@
 - [Daris Mathew](https://github.com/darismathew92)
 - [Harish Kushwah](https://github.com/Harish-Kushwah) ❤️ INDIA
 - [Kartik Pawar](https://github.com/kartikpawar10) INDIA
-- [Krish Sehgal](https://github.com/krish-sehgal) 
+- [Krish Sehgal](https://github.com/krish-sehgal)
 - [Ionecum](https://github.com/ionecum)
 - [AM-Shafin](https://github.com/am-safin) 👊
 - [Rakeshkandhi](https://github.com/rakeshkandhi)
@@ -134,7 +135,7 @@
 - [yukendhiran](https://github.com/yukendhiran)
 - [Athul Nambiar](http://github.com/athul-22)
 - [Awais Ahmad] (https://github.com/awaisahmad64)
-- [Suraj Aute](https://github.com/RNTUNOOB) 
+- [Suraj Aute](https://github.com/RNTUNOOB)
 - [Sudip Parajuli](https://github.com/Sudip777)
 - [Mellon Amutuheire](https://github.com/AMUTUHEIREMELLON)
 - 🐈‍⬛[lonely_caat](https://github.com/lonely-caat)🐈‍⬛
@@ -143,7 +144,7 @@
 - [KlevCC](https://github.com/KlevCC)
 - [Gatere Kinyanjui] (https://github.com/gatere-kinyanjui)
 - [Saur-av](https://github.com/Saur-av/) # Thanks for help
-- [talktoyeet](https://github.com/talktoyeet) 
+- [talktoyeet](https://github.com/talktoyeet)
 - [Bishal Adhikari](https://github.com/ezbishal)
 - [Muhammad Ahmod](https://github.com/Muhammad-1990)
 - [Alan Francisco Mora González](https://github.com/alanmgg)
@@ -164,7 +165,7 @@
 - Jeromeeee
 - [Mustafa Afzal](https://github.com/mafzii)
 - [Dylan Collins](https://github.com/D05Col)
-- Pokala Rohit 
+- Pokala Rohit
 - Balajiupadhyay
 - [Tyler Collingridge] (https://github.com/tcollm)
 - [Akash Mishra] (https://github.com/akashmishrahaha)
@@ -496,7 +497,7 @@
 - [brandobogar](https://github.com/brandobogar)
 - [Maral Yousefi](https://github.com/Marall-Y)
 - [Elijah Love](https://elijahlove.xyz)
-- [Ksnq](https://github.com/devcembeer) [Website](https://ksnq.me) 
+- [Ksnq](https://github.com/devcembeer) [Website](https://ksnq.me)
 - [Ashika Dsilva](https://github.com/ashikadsilva)
 - [tenere](https://github.com/000tenere000)
 - [Abiodun Sojobi](https://github.com/baysquire) [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/aes37175bb)
@@ -786,7 +787,7 @@
 - [Amir2520](https://github.com/amir2520)
 - [Legaroid](https://github.com/legaroid)
 - [Skidee](https://github.com/HeySkidee)
-- [Bobby Bucketz] 
+- [Bobby Bucketz]
 - [unkuseni](https://github.com/unkuseni)
 - [ammercu22](https://github.com/ammercu22)
 - [Ronen Taich](https://github.com/ronentaich17)
@@ -1009,7 +1010,7 @@
 - [Beldjoudi Wassim](https://github.com/mythsSIMOU)
 - [TBroder] (https://github.com/tehillabroder)
 - [QZBrainon](https://github.com/QZBrainon)
-- [Chandrashekar](https://github.com/96068chandra) Thank you 
+- [Chandrashekar](https://github.com/96068chandra) Thank you
 - [Pk](https://github.com/pk2023)
 - [I-MirzaBaig](https://github.com/I-MirzaBaig)
 - [6D-pixel](https://github.com/6D-pixel) 💪😠
@@ -1074,5 +1075,4 @@
 -[NdangiKanime](https://github.com/NdangiKanime)
 -[Matt Zimmerman](https://github.com/MattZim2000)
 -[crisdebo0723](https://github.com/crisdebo0723)
--[Luka Radic](https://github.com/Lukaradic) 
-
+-[Luka Radic](https://github.com/Lukaradic)
