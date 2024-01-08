@@ -1072,5 +1072,6 @@
 -[chad](https://github.com/chdclar16)
 -[NdangiKanime](https://github.com/NdangiKanime)
 -[Matt Zimmerman](https://github.com/MattZim2000)
+-[crisdebo0723](https://github.com/crisdebo0723)
 -[Luka Radic](https://github.com/Lukaradic) 
 
