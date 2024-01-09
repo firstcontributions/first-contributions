@@ -1076,5 +1076,6 @@
 -[NdangiKanime](https://github.com/NdangiKanime)
 -[Matt Zimmerman](https://github.com/MattZim2000)
 -[crisdebo0723](https://github.com/crisdebo0723)
+-[David Achoy](https://github.com/Davidachoy)
 -[Luka Radic](https://github.com/Lukaradic) 
 
