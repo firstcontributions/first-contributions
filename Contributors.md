@@ -1029,6 +1029,7 @@
 - [Siddharth Shankar] (https://github.com/code26A)
 - [naoki ikesaka] (https://github.com/NaokiIkesaka)
 - [BrocaZ](https://github.com/BrocaZ)
+- [Linda.O](https://github.com/obielin)
 - [Sumeet](https://github.com/sumeetbandary)
 - [Bill Li](https://github.com/leeklee0427)
 - [Jesse] (https://github.com/JesseMurah)
