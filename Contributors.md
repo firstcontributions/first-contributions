@@ -1099,4 +1099,5 @@
 -[Pratham Mehta](https://github.com/pratham2609)
 - [EB] (https://github.com/barkai36)
 - [malexanderlvz](https://github.com/malexanderlvz)
+- [BaptisteSE](https://github.com/BaptisteSE)
 
