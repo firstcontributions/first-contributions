@@ -13,6 +13,7 @@
 - [Shahmeer malik](https://github.com/shahmeermalik1)
 - [Daniel Otchere](https://github.com/ascot20)
 - [Karuppaiah](https://github.com/akdinesh124)
+- [Nadav J. Outmezguine](https://github.com/Nadav-out)
 - [Banjo Patrick](https:github.com/Super-Savvy)
 - [Kazuho](https://github.com/kzhgit)
 - [Rahul S Srivastava](https://github.com/Rahul-Srivastava-21)
