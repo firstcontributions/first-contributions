@@ -177,6 +177,7 @@
 - Jeromeeee
 - [Mustafa Afzal](https://github.com/mafzii)
 - [Dylan Collins](https://github.com/D05Col)
+- [Rachel Hamby](https://github.com/tnthreat33)
 - Pokala Rohit 
 - Balajiupadhyay
 - [Tyler Collingridge] (https://github.com/tcollm)
