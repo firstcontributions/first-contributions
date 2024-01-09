@@ -567,6 +567,7 @@
 - [Watpo54](https://github.com/Watpo54)
 - [VishalShevale](https://github.com/VishalShevale)
 - man218:)/:(
+- [Jayakrishna_Mannem](https://github.com/Jaya-Krishna-07)
 - [Enverhan Oksuz](https://github.com/enverhann)
 - [sognatoreZ](https://github.com/sognatoreZ)
 - [Eliptik111](https://github.com/eliptik1)
