@@ -774,6 +774,7 @@
 - [Ronaldo Oliveira Costa](https://github.com/oliveira-ronaldo)
 - [Lyrics](https://github.com/aden-q)
 - [Lahari Madhusudhan](https://github.com/lahrims)
+- [Naoki Matsuoka](https://github.com/nok-mt)
 - [szl2](https://github.com/szl2)
 - Sujeeth
 - 1
