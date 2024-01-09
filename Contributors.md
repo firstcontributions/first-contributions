@@ -895,6 +895,7 @@
 - [John Henry Joromat](https://github.com/jhnhnryjrmt)
 - [Jacky Sio](https://github.com/jackysioo)
 - [Matt Jones](https://github.com/mpjones1)
+- [Lucca Chantre](https://github.com/luccachantre)
 - [Tommy D. Michailidis](https://github.com/Dunit05)
 - [Tonio Gi](https://github.com/Tony-Gio)
 - [Jeanpier Mendoza](https://github.com/jeanpierm)
