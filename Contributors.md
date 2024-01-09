@@ -13,6 +13,7 @@
 - [Shahmeer malik](https://github.com/shahmeermalik1)
 - [Daniel Otchere](https://github.com/ascot20)
 - [Karuppaiah](https://github.com/akdinesh124)
+- [Nadav J. Outmezguine](https://github.com/Nadav-out)
 - [Banjo Patrick](https:github.com/Super-Savvy)
 - [Kazuho](https://github.com/kzhgit)
 - [Rahul S Srivastava](https://github.com/Rahul-Srivastava-21)
@@ -32,6 +33,7 @@
 - [angrezichatterbox](https://github.com/angrezichatterbox) My First Commit
 - [Fahim Muntasir](https://github.com/fahim-muntasir)
 - [Sai_Aung_Wann](https://github.com/AungWann)
+- [Tanvi Shetty](https://github.com/Shettytan99)
 - [Sai Tanishq Nannapaneni](https://github.com/saitanishq)
 - [Canyon Bryson](https://github.com/canyonbryson)
 - [Maitri Dalvi](https://github.com/maitri-dalvi)
@@ -411,6 +413,7 @@
 - [salaminipples](https://github.com/salaminipples)
 - [bucked404](https://github.com/bucked404)
 - [buckmisterfullereno](https://github.com/Buckminsterfullereno)
+- [Abhijithmr-403](https://github.com/AbhijithMR-403)
 - [Anoushka]
 - [Manikanta Vasana]
 - [Amardeep]
@@ -1094,3 +1097,4 @@
 -[Kaz Smino](https://github.com/Kaz-Smino)
 -[Pratham Mehta](https://github.com/pratham2609)
 - [EB] (https://github.com/barkai36)
+- [malexanderlvz](https://github.com/malexanderlvz)
