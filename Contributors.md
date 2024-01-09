@@ -401,6 +401,7 @@
 - [Krishna](https://github.com/Krishna01work)
 - [Uriel](https://github.com/urieltfk)
 - [Lorraine](https://github.com/WambiruL)
+- [MastroChou](https://github.com/MastroChou)
 - [Negan Nguyen](https://github.com/nenene1812)
 - [Chen Jiang](https://github.com/LuluLalaJ)
 - [Adwaith M K](https://github.com/a-dwaith)
