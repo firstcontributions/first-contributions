@@ -997,6 +997,7 @@
 - [Galadima3] (https://github.com/Galadima3)
 - [Patryk Lipa] (https://github.com/patryk-lipa)
 - [hassanzahidd] (https://github.com/hassanzahidd)
+- [Kevin Luong] (https://github.com/KLuong99)
 - [pau85] (https://github.com/pau85)
 - [ByteXenon] (https://github.com/ByteXenon)
 - [AlessandroL]
