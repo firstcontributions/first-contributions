@@ -1,6 +1,9 @@
 # Contributors
+- test
 - [Htut Oakkar](https://github.com/htutoakkar)
+- [nilesh sharma](https://github.com/nileshdsharma)
 - [Matt Blumenthal](https://github.com/matthewblu421)
+- [Harishraj Selvakumar](https://github.com/ByteBender24)
 - [Sandesh KV](https://github.com/SandeshAmin)
 - [Mohammed Sidiq](https://github.com/MohdSiddiq12)
 - [BlackSmithOfFire](I won't put my link/Sorry!But thanks)
@@ -15,10 +18,12 @@
 - [Rahul S Srivastava](https://github.com/Rahul-Srivastava-21)
 - [Srishti Agarwal] (https://github.com/srishtiagarwall)
 - [Rahul Rajput](https://github.com/r2hu1)
+- [imalightbulb](https://github.com/imalightbulb)
 - [S-H](https://github.com/sholappa)
 - [Omkar Kulkarni](https://github.com/omkarkulkarnii)
 - [Aayushi Sinha](https://github.com/aayushi892)
 - [Naim Ahmad](https://github.com/Naim-Ahmad)
+- [Arco Kim](https://github.com/ArcoKim)
 - [SohamKore](https://github.com/SohamKore)
 - [Rohit Singh](https://github.com/Rataash99)
 - [Palash Chitnavis](https://github.com/PalashChitnavis)
@@ -67,6 +72,7 @@
 - [Saurav Kumar Mishra](https://github.com/sauravkm)
 - [Kim La](https://github.com/ktla99)
 - [Nayan Choudhary](https://github.com/nayanchoudhary31)
+- [kamada-maki](https://github.com/kamada-maki)
 - [Hrishikesh Medhi](https://github.com/c0ckr0ach)
 - Saumitra Paira
 - Kunal Takalkhede
@@ -127,6 +133,7 @@
 - [Ankush Tiwari](https://github.com/tiwaribro/)
 - [Dibyajyoti Mandal](https://github.com/cookiejar2104)
 - [Danny Hidayat](https://github.com/dannyhdyt)
+- [Chandra Kant Bauri](https://github.com/Lynk4)
 - [GlitchCake](https://github.com/GlitchCake)
 - [Hasya Patel](https://github.com/hasya2107)
 -  [Nekxio](https://github.com/Nekxio)
@@ -567,6 +574,7 @@
 - [Watpo54](https://github.com/Watpo54)
 - [VishalShevale](https://github.com/VishalShevale)
 - man218:)/:(
+- [Jayakrishna_Mannem](https://github.com/Jaya-Krishna-07)
 - [Enverhan Oksuz](https://github.com/enverhann)
 - [sognatoreZ](https://github.com/sognatoreZ)
 - [Eliptik111](https://github.com/eliptik1)
@@ -734,6 +742,7 @@
 - [Marco Barbieri](https://github.com/marcobarb00)
 - [Ruben Lien](https://github.com/RubenLien)
 - [Khaliq Ansari](https://github.com/thekhaliqansari)
+- [Catherine K]
 - [Aditya Nakadi](https://github.com/aditya-2010)
 - [Naufal Alief](https://github.com/naufalalief)
 - [Praveen](https://github.com/gigatesseract)
@@ -770,6 +779,7 @@
 - [Ronaldo Oliveira Costa](https://github.com/oliveira-ronaldo)
 - [Lyrics](https://github.com/aden-q)
 - [Lahari Madhusudhan](https://github.com/lahrims)
+- [Naoki Matsuoka](https://github.com/nok-mt)
 - [szl2](https://github.com/szl2)
 - Sujeeth
 - 1
@@ -894,6 +904,7 @@
 - [John Henry Joromat](https://github.com/jhnhnryjrmt)
 - [Jacky Sio](https://github.com/jackysioo)
 - [Matt Jones](https://github.com/mpjones1)
+- [Lucca Chantre](https://github.com/luccachantre)
 - [Tommy D. Michailidis](https://github.com/Dunit05)
 - [Tonio Gi](https://github.com/Tony-Gio)
 - [Jeanpier Mendoza](https://github.com/jeanpierm)
@@ -997,6 +1008,7 @@
 - [Galadima3] (https://github.com/Galadima3)
 - [Patryk Lipa] (https://github.com/patryk-lipa)
 - [hassanzahidd] (https://github.com/hassanzahidd)
+- [Kevin Luong] (https://github.com/KLuong99)
 - [pau85] (https://github.com/pau85)
 - [ByteXenon] (https://github.com/ByteXenon)
 - [AlessandroL]
@@ -1022,6 +1034,7 @@
 - [Siddharth Shankar] (https://github.com/code26A)
 - [naoki ikesaka] (https://github.com/NaokiIkesaka)
 - [BrocaZ](https://github.com/BrocaZ)
+- [Linda.O](https://github.com/obielin)
 - [Sumeet](https://github.com/sumeetbandary)
 - [Bill Li](https://github.com/leeklee0427)
 - [Jesse] (https://github.com/JesseMurah)
@@ -1079,3 +1092,5 @@
 -[David Achoy](https://github.com/Davidachoy)
 -[Luka Radic](https://github.com/Lukaradic) 
 -[Kaz Smino](https://github.com/Kaz-Smino)
+-[Pratham Mehta](https://github.com/pratham2609)
+- [EB] (https://github.com/barkai36)
