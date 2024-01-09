@@ -1100,8 +1100,8 @@
 -[crisdebo0723](https://github.com/crisdebo0723)
 -[David Achoy](https://github.com/Davidachoy)
 -[Luka Radic](https://github.com/Lukaradic) 
+- [Usmanfawad](https://github.com/Usmanfawad)
 -[Pratham Mehta](https://github.com/pratham2609)
 - [EB] (https://github.com/barkai36)
 - [malexanderlvz](https://github.com/malexanderlvz)
 - [BaptisteSE](https://github.com/BaptisteSE)
-
