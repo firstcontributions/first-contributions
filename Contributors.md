@@ -1,6 +1,7 @@
 # Contributors
 - [Htut Oakkar](https://github.com/htutoakkar)
 - [Matt Blumenthal](https://github.com/matthewblu421)
+- [Harishraj Selvakumar](https://github.com/ByteBender24)
 - [Sandesh KV](https://github.com/SandeshAmin)
 - [Mohammed Sidiq](https://github.com/MohdSiddiq12)
 - [BlackSmithOfFire](I won't put my link/Sorry!But thanks)
