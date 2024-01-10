@@ -23,6 +23,7 @@
 - [imalightbulb](https://github.com/imalightbulb)
 - [S-H](https://github.com/sholappa)
 - [Frank Wang](https://github.com/blobthebuilder)
+- [Jameel Ahmed](https://github.com/jameel-webdev)
 - [Omkar Kulkarni](https://github.com/omkarkulkarnii)
 - [Aayushi Sinha](https://github.com/aayushi892)
 - [Naim Ahmad](https://github.com/Naim-Ahmad)
