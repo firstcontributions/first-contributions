@@ -1113,4 +1113,4 @@
 - [EB] (https://github.com/barkai36)
 - [malexanderlvz](https://github.com/malexanderlvz)
 - [BaptisteSE](https://github.com/BaptisteSE)
-
+- [yanosea](https://github.com/yanosea)
