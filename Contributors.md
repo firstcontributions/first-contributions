@@ -85,6 +85,7 @@
 - [Hrishikesh Medhi](https://github.com/c0ckr0ach)
 - Saumitra Paira
 - Kunal Takalkhede
+- [Mike Zeg](https://github.com/MikeZeg) 👋
 - [Jm Delas Alas](https://github.com/letandconst)
 - [Shishir Chulliyil](https://github.com/shishirchulliyil)
 - [Temple Snowden](https://github.com/temple69)
