@@ -12,6 +12,7 @@
 - [Karuppaiah](https://github.com/akdinesh124)
 - [Banjo Patrick](https:github.com/Super-Savvy)
 - [Kazuho](https://github.com/kzhgit)
+- [Kevin Subbotin](https://github.com/KevinSubbotin)
 - [Rahul S Srivastava](https://github.com/Rahul-Srivastava-21)
 - [Srishti Agarwal] (https://github.com/srishtiagarwall)
 - [Rahul Rajput](https://github.com/r2hu1)
