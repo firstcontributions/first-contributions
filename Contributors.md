@@ -19,6 +19,7 @@ Daniela Anghel
 - [Karuppaiah](https://github.com/akdinesh124)
 - [Nadav J. Outmezguine](https://github.com/Nadav-out)
 - [Banjo Patrick](https:github.com/Super-Savvy)
+-VijayVinayak
 - [Kazuho](https://github.com/kzhgit)
 - [Rahul S Srivastava](https://github.com/Rahul-Srivastava-21)
 - [Srishti Agarwal] (https://github.com/srishtiagarwall)
