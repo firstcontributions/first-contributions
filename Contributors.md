@@ -1130,4 +1130,5 @@ Daniela Anghel
 - [BaptisteSE](https://github.com/BaptisteSE)
 - [takurx](http://github.com/takurx)
 - [AiwizReddy](https://github.com/AiwizReddy)
+- [TUCCHI1](https://github.com/TUCCHI1)
 
