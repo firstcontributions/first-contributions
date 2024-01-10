@@ -50,6 +50,7 @@
 - [Angelica Michaca](https://github.com/Angelica-Michaca)
 - [Sivapannier]
 - [charlesdzadu](https://github.com/charlesdzadu)
+- [Catherine Mokgothu](https://github.com/catherinemokgothu)
 - [Milind Dhamu](https://github.com/milinddhamu)
 - [Tony B. Nya](https://github.com/tonybnya)
 - [Adrià Escandell](https://github.com/AdriiE17)
