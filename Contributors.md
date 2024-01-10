@@ -85,6 +85,7 @@
 - [Hrishikesh Medhi](https://github.com/c0ckr0ach)
 - Saumitra Paira
 - Kunal Takalkhede
+- [Mike Zeg](https://github.com/MikeZeg) 👋
 - [Jm Delas Alas](https://github.com/letandconst)
 - [Shishir Chulliyil](https://github.com/shishirchulliyil)
 - [Temple Snowden](https://github.com/temple69)
@@ -408,6 +409,7 @@
 - [Tin](https://github.com/Tincando)
 - [Krishna](https://github.com/Krishna01work)
 - [Uriel](https://github.com/urieltfk)
+- [Saddam](https://github.com/saddam-sde)
 - [Lorraine](https://github.com/WambiruL)
 - [MastroChou](https://github.com/MastroChou)
 - [Negan Nguyen](https://github.com/nenene1812)
@@ -1112,5 +1114,6 @@
 -[Pratham Mehta](https://github.com/pratham2609)
 - [EB] (https://github.com/barkai36)
 - [malexanderlvz](https://github.com/malexanderlvz)
+- [ponyfly](https://github.com/ponyfly)
 - [BaptisteSE](https://github.com/BaptisteSE)
 - [yanosea](https://github.com/yanosea)
