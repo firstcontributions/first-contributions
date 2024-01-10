@@ -1078,6 +1078,7 @@ Daniela Anghel
 - [tomato]
 - [Empuraan]
 - [Shakthi](https://github.com/Lokak07)
+- [Alexander Beier] (https://github.com/xbeier)
 - [Brian Kim] (https://github.com/brianshkim)
 - [Eduardo Hilário] (https://github.com/eduardohilariodev)
 - [Barathkumar S R] (https://github.com/barathsr)
