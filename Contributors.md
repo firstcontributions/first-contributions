@@ -24,6 +24,7 @@ Daniela Anghel
 - [Harsha S](https://github.com/sharsha315)
 -VijayVinayak
 - [Kazuho](https://github.com/kzhgit)
+- [Kevin Subbotin](https://github.com/KevinSubbotin)
 - [Rahul S Srivastava](https://github.com/Rahul-Srivastava-21)
 - [Srishti Agarwal] (https://github.com/srishtiagarwall)
 - [Rahul Rajput](https://github.com/r2hu1)
