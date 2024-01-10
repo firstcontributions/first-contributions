@@ -49,6 +49,7 @@ Daniela Anghel
 - [Rafal Jasielec] (https://github.com/GHrjasielec)
 - [Nitin Yadav](https://github.com/nitinya9av) </❤️>
 - [mpousmali](https://github.com/mpousmali)
+- [GreenWeegeeCantCode](https://github.com/GreenWeegeeCantCode)
 - [Angelica Michaca](https://github.com/Angelica-Michaca)
 - [Sivapannier]
 - [charlesdzadu](https://github.com/charlesdzadu)
