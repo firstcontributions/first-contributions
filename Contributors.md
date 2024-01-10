@@ -18,6 +18,7 @@ Daniela Anghel
 - [Ahd. Kabeer Hadi](https://github.com/Ahd-Kabeer-Hadi) 
 - [Daniel Otchere](https://github.com/ascot20)
 - [Karuppaiah](https://github.com/akdinesh124)
+- [Ahmet Gello](https://github.com/ahmetgello) 😀
 - [Nadav J. Outmezguine](https://github.com/Nadav-out)
 - [Banjo Patrick](https:github.com/Super-Savvy)
 - [Harsha S](https://github.com/sharsha315)
