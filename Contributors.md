@@ -1119,4 +1119,5 @@
 - [malexanderlvz](https://github.com/malexanderlvz)
 - [ponyfly](https://github.com/ponyfly)
 - [BaptisteSE](https://github.com/BaptisteSE)
+- [takurx](http://github.com/takurx)
 
