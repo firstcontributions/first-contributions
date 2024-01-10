@@ -31,6 +31,7 @@ Daniela Anghel
 - [Frank Wang](https://github.com/blobthebuilder)
 - [Jameel Ahmed](https://github.com/jameel-webdev)
 - [Omkar Kulkarni](https://github.com/omkarkulkarnii)
+- [Faisal Aduko Wahabu](https://github.com/faisaladuko)
 - [Aayushi Sinha](https://github.com/aayushi892)
 - [Naim Ahmad](https://github.com/Naim-Ahmad)
 - [Arco Kim](https://github.com/ArcoKim)
