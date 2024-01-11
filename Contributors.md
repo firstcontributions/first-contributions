@@ -1126,6 +1126,7 @@ Alexander
 - [suresh chandra sekar] (https://github.com/sureshchandras3kar)
 - [Yura] (https://github.com/yuramayer)
 - [taitep](https://github.com/taitep)
+- [Battousai](https://github.com/Battosuai)
 -[kavya-somireddy](https://github.com/Kavya-somireddy/first-contributions.git)
 -[LIZA](https://github.com/LIZA1608)
 -[Ashley Hou] (https://github.com/itisamazingxx)
