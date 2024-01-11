@@ -66,6 +66,7 @@ Daniela Anghel
 - [Canyon Bryson](https://github.com/canyonbryson)
 - [Itsuki54](https://github.com/Itsuki54)
 - [Maitri Dalvi](https://github.com/maitri-dalvi)
+- Emily :)
 - [Aniket Botre](https://github.com/Aniket200-ind)
 - [Rafal Jasielec] (https://github.com/GHrjasielec)
 - [Nitin Yadav](https://github.com/nitinya9av) </❤️>
