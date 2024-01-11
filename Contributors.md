@@ -496,6 +496,7 @@ Alexander
 - [Elena N.J.](https://github.com/h669798)
 - [Mohammed Mazhar Aziz](https://github.com/mazhar00786)
 - [Catherine Kemigabo](https://github.com/kemigabocatherine)
+- [Neeraj Pallikonda](https://github.com/neerajforeal)
 - [Raven-July](https://github.com/Raven-July)
 - [Ayush Desai](https://github.com/Ayush-desaii)
 - [Ali Rasooli](https://github.com/Aliarm79)
