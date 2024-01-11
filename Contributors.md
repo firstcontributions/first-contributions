@@ -248,6 +248,7 @@ Daniela Anghel
 - [Ojo Tolulope] (https://github.com/tolu1123)
 - [Mohamed Amine Basdouri](https://github.com/MohamedAmin324)
 - [JamZ](https://github.com/JamZYM)
+- [Conner](https://github.com/23cmbrown)
 - [chandan] (https://github.com/chandanyuva)
 - [Bhawesh Agrawal] (https://github.com/bhawesh-source)
 - [FraI3mega](https://github.com/FraI3mega)
