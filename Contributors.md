@@ -1160,6 +1160,7 @@ Alexander
 - [takurx](http://github.com/takurx)
 - [AiwizReddy](https://github.com/AiwizReddy)
 - [TUCCHI1](https://github.com/TUCCHI1)
+- [Christian Castillo](https://github.com/ChristianC93)
 - [vinceflores](https://github.com/vinceflores?tab=projects)
 - [Jackson K Jones](https://github.com/jacksonkjones)
 - [Sreeram Ayala](https://github.com/sreeramsoma)
