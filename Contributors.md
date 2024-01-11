@@ -40,6 +40,7 @@ Daniela Anghel
 - [Naim Ahmad](https://github.com/Naim-Ahmad)
 - [Arco Kim](https://github.com/ArcoKim)
 - archit singh chahuan(https://github.com/archit-8)
+- [Aditya](https://github.com/LogiqueClergyman)
 - [SohamKore](https://github.com/SohamKore)
 - [Israel N Precious](https://github.com/Precious000)
 - [Rohit Singh](https://github.com/Rataash99)
