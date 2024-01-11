@@ -28,6 +28,7 @@ Daniela Anghel
 - [Ahmet Gello](https://github.com/ahmetgello) 😀
 - [Nadav J. Outmezguine](https://github.com/Nadav-out)
 - [Banjo Patrick](https:github.com/Super-Savvy)
+- {Kenia Reis](https://github.com/keniareis)
 - [Harsha S](https://github.com/sharsha315)
 -VijayVinayak
 - [Kazuho](https://github.com/kzhgit)
