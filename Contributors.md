@@ -65,7 +65,10 @@ Onyi Ajoku😄 #My very first contribution! Excited for whats to come.******
 - [Devanshi-Bavaria](https://github.com/Devubavariaa) **Learning to contribute to open source!!**
 - [@venelouis](https://github.com/venelouis) **Contributing!**
 i
-- [Shreyash Waghe] (https://github.com/Shreyashwaghe) **As they say, A journey of a thousand miles begins with a single step**
+- [Shreyash Waghe] (https://github.com/Shreyashwaghe) 
+**into the open sorce**
+- [Harikishna Navaratanam] (https://github.com/harikishnanavaratnam) 
+**As they say, A journey of a thousand miles begins with a single step**
 - [Wee Ki Joon](https://github.com/weekijoon) **First of many**
 - [Prabha Krishna](https://github.com/tpks27) **My First Contribution Open Source**
 - [Sam Xia](https://github.com/samsmithspace)**Let him cook**
