@@ -51,12 +51,12 @@ Daniela Anghel
 - [Tanvi Shetty](https://github.com/Shettytan99)
 - [Sai Tanishq Nannapaneni](https://github.com/saitanishq)
 - [Canyon Bryson](https://github.com/canyonbryson)
+- [Itsuki54](https://github.com/Itsuki54)
 - [Maitri Dalvi](https://github.com/maitri-dalvi)
 - [Aniket Botre](https://github.com/Aniket200-ind)
 - [Rafal Jasielec] (https://github.com/GHrjasielec)
 - [Nitin Yadav](https://github.com/nitinya9av) </❤️>
 - [mpousmali](https://github.com/mpousmali)
-- [Itsuki54](https://github.com/Itsuki54)
 - [GreenWeegeeCantCode](https://github.com/GreenWeegeeCantCode)
 - [Angelica Michaca](https://github.com/Angelica-Michaca)
 - [Sivapannier]
