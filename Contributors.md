@@ -206,6 +206,7 @@ Daniela Anghel
 - Swiftanr
 - [Taro Qureshi](https://github.com/taro-qureshi)
 - Jeromeeee
+- [OriThree]
 - [Mustafa Afzal](https://github.com/mafzii)
 - [Dylan Collins](https://github.com/D05Col)
 - [Rachel Hamby](https://github.com/tnthreat33)
