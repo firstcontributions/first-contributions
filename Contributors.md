@@ -2,6 +2,7 @@
 - test
 - Damien
 Daniela Anghel
+- [Subro](https://www.linkedin.com/in/subrojyoti-paul)
 - [zeden](https://github.com/snowxx456)
 - [Htut Oakkar](https://github.com/htutoakkar)
 - [nilesh sharma](https://github.com/nileshdsharma)
