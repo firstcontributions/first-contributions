@@ -29,6 +29,7 @@ Daniela Anghel
 - [Nadav J. Outmezguine](https://github.com/Nadav-out)
 - [Banjo Patrick](https:github.com/Super-Savvy)
 - {Kenia Reis](https://github.com/keniareis)
+- [Collin Bugash](https://github.com/CollinBugash)
 - [Harsha S](https://github.com/sharsha315)
 -VijayVinayak
 - [Kazuho](https://github.com/kzhgit)
