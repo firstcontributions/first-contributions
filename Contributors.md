@@ -12,6 +12,7 @@ Daniela Anghel
 - [Matt Blumenthal](https://github.com/matthewblu421)
 - [Harishraj Selvakumar](https://github.com/ByteBender24)
 - [Sandesh KV](https://github.com/SandeshAmin)
+- [Anthony Sudol] (https://linkedin.com/in/anthonysudol)
 - [Abhi Patil](https://github.com/Abhisucks)
 - [Ashish Kumar](https://github.com/akdevv)
 - [Mohammed Sidiq](https://github.com/MohdSiddiq12)
