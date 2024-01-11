@@ -40,6 +40,7 @@ Daniela Anghel
 - [Arco Kim](https://github.com/ArcoKim)
 - archit singh chahuan(https://github.com/archit-8)
 - [SohamKore](https://github.com/SohamKore)
+- [Israel Precious](https://github.com/Precious000)
 - [Rohit Singh](https://github.com/Rataash99)
 - [Palash Chitnavis](https://github.com/PalashChitnavis)
 - [abedalavi](https://github.com/abedalavi)
