@@ -2,6 +2,7 @@
 - test
 - Damien
 Daniela Anghel
+- [zeden](https://github.com/snowxx456)
 - [Htut Oakkar](https://github.com/htutoakkar)
 - [nilesh sharma](https://github.com/nileshdsharma)
 - [Matt Blumenthal](https://github.com/matthewblu421)
@@ -17,9 +18,14 @@ Daniela Anghel
 - [Ahd. Kabeer Hadi](https://github.com/Ahd-Kabeer-Hadi) 
 - [Daniel Otchere](https://github.com/ascot20)
 - [Karuppaiah](https://github.com/akdinesh124)
+- [Horatio Hanley](https://github.com/horatioDev)
+- [Ahmet Gello](https://github.com/ahmetgello) 😀
 - [Nadav J. Outmezguine](https://github.com/Nadav-out)
 - [Banjo Patrick](https:github.com/Super-Savvy)
+- [Harsha S](https://github.com/sharsha315)
+-VijayVinayak
 - [Kazuho](https://github.com/kzhgit)
+- [Kevin Subbotin](https://github.com/KevinSubbotin)
 - [Rahul S Srivastava](https://github.com/Rahul-Srivastava-21)
 - [Srishti Agarwal] (https://github.com/srishtiagarwall)
 - [Rahul Rajput](https://github.com/r2hu1)
@@ -28,9 +34,11 @@ Daniela Anghel
 - [Frank Wang](https://github.com/blobthebuilder)
 - [Jameel Ahmed](https://github.com/jameel-webdev)
 - [Omkar Kulkarni](https://github.com/omkarkulkarnii)
+- [Faisal Aduko Wahabu](https://github.com/faisaladuko)
 - [Aayushi Sinha](https://github.com/aayushi892)
 - [Naim Ahmad](https://github.com/Naim-Ahmad)
 - [Arco Kim](https://github.com/ArcoKim)
+- archit singh chahuan(https://github.com/archit-8)
 - [SohamKore](https://github.com/SohamKore)
 - [Rohit Singh](https://github.com/Rataash99)
 - [Palash Chitnavis](https://github.com/PalashChitnavis)
@@ -43,11 +51,13 @@ Daniela Anghel
 - [Tanvi Shetty](https://github.com/Shettytan99)
 - [Sai Tanishq Nannapaneni](https://github.com/saitanishq)
 - [Canyon Bryson](https://github.com/canyonbryson)
+- [Itsuki54](https://github.com/Itsuki54)
 - [Maitri Dalvi](https://github.com/maitri-dalvi)
 - [Aniket Botre](https://github.com/Aniket200-ind)
 - [Rafal Jasielec] (https://github.com/GHrjasielec)
 - [Nitin Yadav](https://github.com/nitinya9av) </❤️>
 - [mpousmali](https://github.com/mpousmali)
+- [GreenWeegeeCantCode](https://github.com/GreenWeegeeCantCode)
 - [Angelica Michaca](https://github.com/Angelica-Michaca)
 - [Sivapannier]
 - [charlesdzadu](https://github.com/charlesdzadu)
@@ -65,6 +75,7 @@ Daniela Anghel
 - [Agneepradeep Verma](https://github.com/agneepradeep)
 - [Aurélien Lainé](https://github.com/aurelien81)
 - [Pikachu]
+- [Ajay]
 - [Sainul Abid](https://github.com/abidta)
 - [Prathibha  Boini](https://github.com/Prathibha-yadav)
 - [Firoz Khan aka Codezakifiroz](https://github.com/codezakifiroz)
@@ -219,6 +230,7 @@ Daniela Anghel
 - [Shubham Kumar] (https://github.com/shubh1777)
 - [Amol Pardeshi](https://gi thub.com/AmolPardeshi99) -[Rhitika Pal Adhikari](https://github.com/PalRhitika)
 - [Shahil Kumar](https://github.com/Shahil9728)
+- [Ergys Hila](https://github.com/ergys25)
 - [Sabri Cihan Bircan] (https://github.com/SabriCihan)
 - [Hajnalka Horvath] (https://github.com/HorvathHajnalka)
 - [Johnson Shan] (https://github.com/JohnsonShan)
@@ -254,6 +266,7 @@ Daniela Anghel
 - [Atul](https://github.com/Atuls-git)
 - [Victoria](https://github.com/Vhickyy)
 - [Jishnu Singh](https://github.com/Siam5ell)
+- [Muhammad Yousuf Iqbal Khan](https://github.com/youxufkhan)
 - [Babitha Kumari](https://github.com/Babithakumari)
 - [Matheus Alencar](https://github.com/MatThHeuss)
 - [Unmilan Mukherjee] (https://github.com/Missing-Identity)
@@ -351,6 +364,7 @@ Daniela Anghel
 - [Alessandro Cappiello](https://github.com/AleCap747)
 - [Kunal05052003](https://github.com/Kunal05052003)
 - [inclinated](https://github.com/inclinated)
+- [Zelphh](https://github.com/Zelphh)
 - [Aakruti Kalia](https://github.com/akku-07)
 - [DankGuy](https://github.com/DankGuy)
 - [oladetohun1](https://github.com/oladetohun1)
@@ -456,6 +470,7 @@ Daniela Anghel
 - [Promise Nwankwo](https://github.com/giftedpromise)
 - [wissensalt](https://github.com/wissensalt)
 - [sprvgt](https://github.com/sprvgt)
+- [FaultyNeko](https://github.com/FaultyNeko)
 - [WeeGem]
 - [DevSaLLein](https://github.com/DevSaLLein)
 - [Anirban-Chakraborty](https://github.com/codewithanirban)
@@ -545,6 +560,7 @@ Daniela Anghel
 - [Dbecausing](https://github.com/dbecausing)
 - [heywhf](https://github.com/heywhf)
 - [Shiv Dev](https://github.com/Sh1vd3v)
+- [Harshal Ingole](https://github.com/Harshalingole)
 - [Joana Leoni](https://github.com/joanaleoni)
 - [Matheus Santos](https://github.com/matheussalencarr)
 - [João Paulo](https://github.com/joaopaulosg21)
@@ -572,6 +588,7 @@ Daniela Anghel
 - [A K M Jubaeir Islam](https://github.com/Zubiii333)
 - [Sri Ram Gowd Vuppala](https://github.com/velvet-thunder-cmd)
 - [Matthew Weigand](https://github.com/MatthewWeigand99)
+- [Shreelu Santosh](https://github.com/ShreeluSantosh)
 - [A K M Jubaeir Islam](https://github.com/Zubiii333)
 - [Abhay Singh](https://github.com/Abhay-Singh-1913)
 - [Ian Hart](https://github.com/ianahart)
@@ -1068,6 +1085,7 @@ Daniela Anghel
 - [tomato]
 - [Empuraan]
 - [Shakthi](https://github.com/Lokak07)
+- [Alexander Beier] (https://github.com/xbeier)
 - [Brian Kim] (https://github.com/brianshkim)
 - [Eduardo Hilário] (https://github.com/eduardohilariodev)
 - [Barathkumar S R] (https://github.com/barathsr)
@@ -1089,6 +1107,7 @@ Daniela Anghel
 - [baochill](https://github.com/baohoangstan)
 - [super-nived](https://github.com/super-nived) just Do it ✔️
 - [Victoria Udechukwu](https://github.com/vikyij)
+- [Alexander Beier VSCode](https://github.com/xbeier)
 - [Kogulan Natarajan] (https://github.com/Kogulan1)
 - [elenaanar] (https://github.com/elenaanar)
 - [gyomin0315] (https://github.com/gyomin0315)
@@ -1121,4 +1140,8 @@ Daniela Anghel
 - [ponyfly](https://github.com/ponyfly)
 - [BaptisteSE](https://github.com/BaptisteSE)
 - [takurx](http://github.com/takurx)
-- [irishkooky](https://github.com/irishkooky)
+- [AiwizReddy](https://github.com/AiwizReddy)
+- [TUCCHI1](https://github.com/TUCCHI1)
+- [vinceflores](https://github.com/vinceflores?tab=projects)
+- [Jackson K Jones](https://github.com/jacksonkjones)
+- 
