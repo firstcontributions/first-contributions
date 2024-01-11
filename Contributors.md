@@ -1168,3 +1168,4 @@ Alexander
 - [Sluchainost](https://github.com/Sluchainost)
 - [UdinBebek]
 -[yassire](https://github.com/yyassire)
+- [nakashi94](https://github.com/nakashi94)
