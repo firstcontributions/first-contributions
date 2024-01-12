@@ -8,6 +8,7 @@ Daniela Anghel
 - [Pranav Hajare](https://github.com/pranavhajare)
 - [Robin Van Persie](https://github.com/rvp20)
 - [Dithi-Fuzzythinker](https://github.com/fuzzythinker) 
+- [Rohit R](https://github.com/Rohr0) 🔥
 - [17LingShan](https://github.com/17LingShan)
 - [Subro](https://www.linkedin.com/in/subrojyoti-paul)
 - [zeden](https://github.com/snowxx456)
