@@ -3,6 +3,7 @@
 - Damien
 Daniela Anghel
 - [ZarKHasM](https://github.com/ZarKHasM)
+- [Pranav Hajare](https://github.com/pranavhajare)
 - [Robin Van Persie](https://github.com/rvp20)
 - [Dithi-Fuzzythinker](https://github.com/fuzzythinker) 
 - [17LingShan](https://github.com/17LingShan)
