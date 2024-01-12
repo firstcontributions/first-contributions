@@ -235,6 +235,7 @@ Ayush Gaud
 -[Victus] (https://github.com/victuseze)
 - [Moocoder] (https://github.com/mpatel6654)
 - [yumelih] (https://github.com/yumelih)
+- [Tunrayo] (https://github.com/TunrayoIlawole)
 - [Stefano Gaspari] (https://github.com/stefanogaspari)
 - [Abdessamad Touzani](https://github.com/AbdessamadTzn)  
 - [Aatish Salian](https://github.com/Aatish03)
