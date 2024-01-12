@@ -4,6 +4,7 @@
 Daniela Anghel
 - [doudouCodingInGithub](https://github.com/doudouCodingInGithub)
 - Kim Finical
+- [MTHS](https://github.com/MTHS)
 - [ZarKHasM](https://github.com/ZarKHasM)
 - [Pranav Hajare](https://github.com/pranavhajare)
 - [Rose Liu](https://github.com/BlueRosy) An interesting contribution experience! Thanks. 🩷🩵
