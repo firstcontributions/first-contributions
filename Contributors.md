@@ -1196,3 +1196,4 @@ Alexander
 - [Boby] 
 - [Jacob Ortiz](https://github.com/jacobortiz)
 - [Andy Van](https://github.com/oneandyvan)
+- [Sumire](https://github.com/SumiReCord)
