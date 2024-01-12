@@ -2,6 +2,7 @@
 - test
 - Damien
 Daniela Anghel
+- Kim Finical
 - [ZarKHasM](https://github.com/ZarKHasM)
 - [Robin Van Persie](https://github.com/rvp20)
 - [Dithi-Fuzzythinker](https://github.com/fuzzythinker) 
