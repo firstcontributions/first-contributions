@@ -137,6 +137,7 @@ Daniela Anghel
 - [kamada-maki](https://github.com/kamada-maki)
 - [Hrishikesh Medhi](https://github.com/c0ckr0ach)
 - Saumitra Paira
+- [Sudarshan Nikhil](https://github.com/SlimReaper15)
 - Kunal Takalkhede
 - [Mike Zeg](https://github.com/MikeZeg) 👋
 - [Jm Delas Alas](https://github.com/letandconst)
