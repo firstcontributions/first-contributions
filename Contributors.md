@@ -6,6 +6,7 @@ Daniela Anghel
 - Kim Finical
 - [ZarKHasM](https://github.com/ZarKHasM)
 - [Pranav Hajare](https://github.com/pranavhajare)
+- [Rose Liu](https://github.com/BlueRosy) An interesting contribution experience! Thanks. 🩷🩵
 - [Robin Van Persie](https://github.com/rvp20)
 - [Dithi-Fuzzythinker](https://github.com/fuzzythinker) 
 - [Rohit R](https://github.com/Rohr0) 🔥
