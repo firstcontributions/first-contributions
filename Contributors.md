@@ -2,7 +2,8 @@
 
 - test
 - Damien
-  Daniela Anghel
+Daniela Anghel
+- [ZarKHasM](https://github.com/ZarKHasM)
 - [Robin Van Persie](https://github.com/rvp20)
 - [Dithi-Fuzzythinker](https://github.com/fuzzythinker)
 - [17LingShan](https://github.com/17LingShan)
@@ -1185,5 +1186,4 @@
 - [Boby]
 - [Jacob Ortiz](https://github.com/jacobortiz)
 - [Andy Van](https://github.com/oneandyvan)
-- [Handsome yxl](https://github.com/yxl989458)[
-  ]()
+- [Handsome yxl](https://github.com/yxl989458)
