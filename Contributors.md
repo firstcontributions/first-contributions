@@ -28,6 +28,7 @@ Daniela Anghel
 - [Shahmeer malik](https://github.com/shahmeermalik1)
 - [Ahd. Kabeer Hadi](https://github.com/Ahd-Kabeer-Hadi) 
 - [Daniel Otchere](https://github.com/ascot20)
+- [Jayesh Bagde](https://github.com/jysh-bgde) 
 - [Karuppaiah](https://github.com/akdinesh124)
 - [Masch90] (https://github.com/Masch90)
 - [Chijioke Ugwuanyi](https://github.com/xplorer1)
