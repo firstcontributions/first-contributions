@@ -65,6 +65,7 @@ Daniela Anghel
 - [Agneepradeep Verma](https://github.com/agneepradeep)
 - [Aurélien Lainé](https://github.com/aurelien81)
 - [Pikachu]
+- [Sambutracy](https://github.com/sambutracy)
 - [Sainul Abid](https://github.com/abidta)
 - [Prathibha  Boini](https://github.com/Prathibha-yadav)
 - [Firoz Khan aka Codezakifiroz](https://github.com/codezakifiroz)
