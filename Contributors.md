@@ -45,6 +45,7 @@ Daniela Anghel
 - [Shawluck](https://github.com/Shawluck/)
 - [Harsha S](https://github.com/sharsha315)
 -VijayVinayak
+- [Vikrant](https://github.com/1vikrant)
 - [Kazuho](https://github.com/kzhgit)
 - [kmkkiii](https://github.com/kmkkiii) 🐢
 - [Kevin Subbotin](https://github.com/KevinSubbotin)
