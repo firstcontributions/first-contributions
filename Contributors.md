@@ -1134,6 +1134,7 @@ Alexander
 - [Anna Muse] (https://github.com/anna-muse)
 - [tomato]
 - [Empuraan]
+- [David V Rullo](https://github.com/David-V-Rullo)
 - [Shakthi](https://github.com/Lokak07)
 - [Alexander Beier] (https://github.com/xbeier)
 - [Brian Kim] (https://github.com/brianshkim)
