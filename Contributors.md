@@ -196,7 +196,8 @@ Daniela Anghel
 - [Metti Alinia](https://github.com/mett-E/)
 - 🐈‍⬛[lonely_caat](https://github.com/lonely-caat)🐈‍⬛
 - [Meow Aadvik]
-- [Ben Picone] $
+- [Yusuf Habib Alfatha]
+- [Ben Picone] $$$
 - [KlevCC](https://github.com/KlevCC)
 - [Gatere Kinyanjui] (https://github.com/gatere-kinyanjui)
 - [Saur-av](https://github.com/Saur-av/) # Thanks for help
@@ -850,6 +851,7 @@ Daniela Anghel
 - [szl2](https://github.com/szl2)
 - Sujeeth
 - 1
+- [cameronMcConnell](https://github.com/cameronMcConnell)
 - [Farouk Younsi](https://github.com/pharouqy)
 - [Amna Hassan](https://github.com/Amna-Hassan04)
 - [Bart Miller](https://github.com/9opsec)
