@@ -195,6 +195,7 @@ Daniela Anghel
 - [Metti Alinia](https://github.com/mett-E/)
 - 🐈‍⬛[lonely_caat](https://github.com/lonely-caat)🐈‍⬛
 - [Meow Aadvik]
+- [Yusuf Habib Alfatha]
 - [Ben Picone] $$$
 - [KlevCC](https://github.com/KlevCC)
 - [Gatere Kinyanjui] (https://github.com/gatere-kinyanjui)
