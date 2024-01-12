@@ -1201,3 +1201,4 @@ Alexander
 - [Andy Van](https://github.com/oneandyvan)
 - [Sumire](https://github.com/SumiReCord)
 - [Nelan](https://github.com/NelanJoe)
+- [Claire Wicher](https://github.com/GirlGeekUpNorth)
