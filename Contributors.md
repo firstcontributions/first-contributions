@@ -2,6 +2,7 @@
 - test
 - Damien
 Daniela Anghel
+- [doudouCodingInGithub](https://github.com/doudouCodingInGithub)
 - Kim Finical
 - [ZarKHasM](https://github.com/ZarKHasM)
 - [Pranav Hajare](https://github.com/pranavhajare)
