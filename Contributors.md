@@ -96,6 +96,7 @@ Daniela Anghel
 - [Maitri Dalvi](https://github.com/maitri-dalvi)
 - Emily :)
 - [Aniket Botre](https://github.com/Aniket200-ind)
+- [Harsha S](https://github.com/harsha-likes-to-code) ^_^
 - [Rafal Jasielec] (https://github.com/GHrjasielec)
 - [Nitin Yadav](https://github.com/nitinya9av) </❤️>
 - [mpousmali](https://github.com/mpousmali)
