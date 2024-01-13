@@ -28,6 +28,7 @@ Daniela Anghel
 - [Sandesh KV](https://github.com/SandeshAmin)
 - [Abhi Patil](https://github.com/Abhisucks)
 - [Onyango Jerry](No link sorry)
+- [Jayavardhan gorlamandala](No link sorry)
 - [Ashish Kumar](https://github.com/akdevv)
 - [Mohammed Siddiq Sawani](https://github.com/siddiksawani)
 - [Mohammed Sidiq](https://github.com/MohdSiddiq12)
