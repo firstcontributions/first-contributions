@@ -1,5 +1,6 @@
 # Contributors
 - test
+- [Greg Delgado](https://github.com/grd888)
 - [TJ O'Hora](Hello world!)
 - Damien
 Daniela Anghel
