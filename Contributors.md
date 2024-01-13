@@ -90,6 +90,7 @@ Daniela Anghel
 - [Fahim Muntasir](https://github.com/fahim-muntasir)
 - [Sai_Aung_Wann](https://github.com/AungWann)
 - [Tanvi Shetty](https://github.com/Shettytan99)
+- [Manu Bharadwaj](https://github.com/Manu577228)
 - [Sai Tanishq Nannapaneni](https://github.com/saitanishq)
 - [Canyon Bryson](https://github.com/canyonbryson)
 - [Itsuki54](https://github.com/Itsuki54)
