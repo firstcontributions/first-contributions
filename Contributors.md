@@ -11,6 +11,7 @@ Daniela Anghel
 - [ZarKHasM](https://github.com/ZarKHasM)
 - [Pranav Hajare](https://github.com/pranavhajare)
 - [Emmanuel](https://github.com/codesmith-emmy)
+- [luispunx](https://github.com/luispunx)
 - [Rose Liu](https://github.com/BlueRosy) An interesting contribution experience! Thanks. 🩷🩵
 - [Robin Van Persie](https://github.com/rvp20)
 - [Bhargav](https://github.com/thotabhargav123)
