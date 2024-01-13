@@ -138,6 +138,7 @@ Daniela Anghel
 - [Rafael Santos] (https://github.com/Blackmagicbox)
 - [Krish Sehgal](https://github.com/krish-sehgal) 
 - [Ionecum](https://github.com/ionecum)
+- [Sidharth Tripathi](https://github.com/sidharthtripathi)
 - [AM-Shafin](https://github.com/am-safin) 👊
 - [Rakeshkandhi](https://github.com/rakeshkandhi)
 - [Renaulter](https://github.com/himanshu-gadia)
