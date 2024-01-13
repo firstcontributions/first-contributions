@@ -113,6 +113,7 @@ Daniela Anghel
 - [Tony B. Nya](https://github.com/tonybnya)
 - [Adrià Escandell](https://github.com/AdriiE17)
 - [Roberto Cárdenas](https://github.com/BrokenRoto)
+- [Siddhesh Parate](https://github.com/Siddhesh877)
 - [Ronita Patra](https://github.com/Ronita-Patra)
 - [Himanshu Garg](https://github.com/himanshu-garg-ds)
 - [Abdallah Afifi](https://github.com/Abdallah-Afifi)
