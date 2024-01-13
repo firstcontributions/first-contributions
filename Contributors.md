@@ -1248,3 +1248,4 @@ Alexander
 - [Pyae Phyo](https://github.com/Impyaephyo)
 - [Duncan] (https://github.com/duncan0801) 
 - [JustVelio] (https://github.com/justvelio)
+- [John Sandoval 🚀](https://github.com/jsandoval1)
