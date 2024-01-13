@@ -75,6 +75,7 @@ Daniela Anghel
 - [Omkar Kulkarni](https://github.com/omkarkulkarnii)
 - [Faisal Aduko Wahabu](https://github.com/faisaladuko)
 - [VikramK]
+- [Abisola Majeed] (https://github.com/AbisolaMajeed)
 - [Aayushi Sinha](https://github.com/aayushi892)
 - [Naim Ahmad](https://github.com/Naim-Ahmad)
 - [Arco Kim](https://github.com/ArcoKim)
