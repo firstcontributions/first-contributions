@@ -2,6 +2,7 @@
 - test
 - Damien
 Daniela Anghel
+- [daulat](https://github.com/Daulat1249)
 - [zeden](https://github.com/snowxx456)
 - [Htut Oakkar](https://github.com/htutoakkar)
 - [nilesh sharma](https://github.com/nileshdsharma)
