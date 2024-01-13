@@ -14,6 +14,7 @@ Daniela Anghel
 - [Rose Liu](https://github.com/BlueRosy) An interesting contribution experience! Thanks. 🩷🩵
 - [Robin Van Persie](https://github.com/rvp20)
 - [Bhargav](https://github.com/thotabhargav123)
+- [ThotaBhargav](https://github.com/thotabhargav123)
 - [Dithi-Fuzzythinker](https://github.com/fuzzythinker)
 - [Rohit R](https://github.com/Rohr0) 🔥
 - [17LingShan](https://github.com/17LingShan)
