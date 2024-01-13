@@ -124,6 +124,7 @@ Daniela Anghel
 - [Harish Kushwah](https://github.com/Harish-Kushwah) ❤️ INDIA
 - [Kartik Pawar](https://github.com/kartikpawar10) INDIA
 - [Damodhar Munagala] (https://github.com/mrdamodhar)
+- [Rafael Santos] (https://github.com/Blackmagicbox)
 - [Krish Sehgal](https://github.com/krish-sehgal) 
 - [Ionecum](https://github.com/ionecum)
 - [AM-Shafin](https://github.com/am-safin) 👊
