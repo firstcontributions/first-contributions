@@ -1240,3 +1240,4 @@ Alexander
 - [Zebra2](https://github.com/zebra1yw)
 - [John Chae](https://github.com/johnchae)
 - [Pyae Phyo](https://github.com/Impyaephyo)
+- [Duncan] (https://github.com/duncan0801) 
