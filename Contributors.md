@@ -22,6 +22,7 @@ Daniela Anghel
 - [Subro](https://www.linkedin.com/in/subrojyoti-paul)
 - [zeden](https://github.com/snowxx456)
 - [Htut Oakkar](https://github.com/htutoakkar)
+- [Aakash Srivastava](https://github.com/kayasthasky)
 - [nilesh sharma](https://github.com/nileshdsharma)
 - [Matt Blumenthal](https://github.com/matthewblu421)
 - [Harishraj Selvakumar](https://github.com/ByteBender24)
