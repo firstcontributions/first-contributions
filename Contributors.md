@@ -1249,3 +1249,4 @@ Alexander
 - [Duncan] (https://github.com/duncan0801) 
 - [Rick] (https://github.com/as183789043) 
 - [JustVelio] (https://github.com/justvelio)
+- [John Sandoval 🚀](https://github.com/jsandoval1)
