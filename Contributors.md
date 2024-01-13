@@ -7,6 +7,7 @@ Daniela Anghel
 - [doudouCodingInGithub](https://github.com/doudouCodingInGithub)
 - Kim Finical
 - [MTHS](https://github.com/MTHS)
+- [Matthew Z](https://github.com/GitwithAbba)
 - [ZarKHasM](https://github.com/ZarKHasM)
 - [Pranav Hajare](https://github.com/pranavhajare)
 - [Emmanuel](https://github.com/codesmith-emmy)
