@@ -33,6 +33,7 @@ Daniela Anghel
 - [Sandesh KV](https://github.com/SandeshAmin)
 - [Abhi Patil](https://github.com/Abhisucks)
 - [Onyango Jerry](No link sorry)
+- [Ambrose Matata](https://github.com/Masaku12)
 - [Jayavardhan gorlamandala](No link sorry)
 - [Ashish Kumar](https://github.com/akdevv)
 - [Abdallah Radfi](https://github.com/AbdallahRdf) 🔥
