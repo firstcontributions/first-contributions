@@ -1250,3 +1250,4 @@ Alexander
 - [Rick] (https://github.com/as183789043) 
 - [JustVelio] (https://github.com/justvelio)
 - [John Sandoval 🚀](https://github.com/jsandoval1)
+- [Cat](https://github.com/Zeddex)
