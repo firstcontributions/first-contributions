@@ -5,7 +5,8 @@
 - [Greg Delgado](https://github.com/grd888)
 - [TJ O'Hora](Hello world!)
 - Damien
-  Daniela Anghel
+- Daniela Anghel
+- [Felix Gomez @felixdavid12](https://github.com/felixdavid12)
 - [doudouCodingInGithub](https://github.com/doudouCodingInGithub)
 - Kim Finical
 - [MTHS](https://github.com/MTHS)
