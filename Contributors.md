@@ -13,6 +13,7 @@ Daniela Anghel
 - [Felix Gomez @felixdavid12](https://github.com/felixdavid12)
 - [doudouCodingInGithub](https://github.com/doudouCodingInGithub)
 - Kim Finical
+- [Jay Paun](https://github.com/Jay2704)
 - [MTHS](https://github.com/MTHS)
 - [Matthew Z](https://github.com/GitwithAbba)
 - [Aditya Gupta](https://github.com/Deadlock-exe)
