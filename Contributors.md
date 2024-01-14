@@ -1259,3 +1259,4 @@ Alexander
 - [John Sandoval 🚀](https://github.com/jsandoval1)
 - [Sathurshanan Kandhasamy] (https://github.com/sathurshanan-kandhasamy)
 - [Cat](https://github.com/Zeddex)
+- [H4rz](https://github.com/h4rz)
