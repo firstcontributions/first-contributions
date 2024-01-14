@@ -37,6 +37,7 @@ Daniela Anghel
 - [Harishraj Selvakumar](https://github.com/ByteBender24)
 - [Sandesh KV](https://github.com/SandeshAmin)
 - [Abhi Patil](https://github.com/Abhisucks)
+- [Xin Xiao](https://github.com/ThetNaingLin7)
 - [Onyango Jerry](No link sorry)
 - [Ambrose Matata](https://github.com/Masaku12)
 - [ruvvan](https://github.com/ruvvan)
