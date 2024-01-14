@@ -1109,6 +1109,7 @@ Alexander
 - [Amit Kumar](https://github.com/amitvish)
 - [AbhayKabdwal](https://github.com/AbhayKabdwal)
 - [MaximeRobertColin](ttps://github.com/mxm-rc/)
+- [EugeneBKN](https://github.com/ebuyakin)
 - [Debasish Ray](https://github.com/debasishray16)
 - [Roshan Richard](https://github.com/richard-06)
 - [Kyle Parsotan](https://github.com/kyl67899)
