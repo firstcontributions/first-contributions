@@ -235,6 +235,7 @@ Daniela Anghel
 -  [Nekxio](https://github.com/Nekxio)
 - [ChrisB0617](https://github.com/ChrisB0617)
 - [removeableox] (https://github.com/removeableox)
+- [vivek vaidya] (https://github.com/Vivek-Vaidya)
 - [yukendhiran](https://github.com/yukendhiran)
 - [Athul Nambiar](http://github.com/athul-22)
 - [Awais Ahmad] (https://github.com/awaisahmad64)
