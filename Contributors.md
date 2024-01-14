@@ -1162,6 +1162,7 @@ Alexander
 - [Akbar Khotamov] (https://github.com/kingoker)
 - [Anna Muse] (https://github.com/anna-muse)
 - [tomato]
+- [Amirhossein Mirshahi] (https://github.com/Delaunay-I)
 - [Empuraan]
 - [David V Rullo](https://github.com/David-V-Rullo)
 - [Shakthi](https://github.com/Lokak07)
