@@ -1239,3 +1239,4 @@ Alexander
 - [Zebra2](https://github.com/zebra1yw)
 - [John Chae](https://github.com/johnchae)
 - [Pyae Phyo](https://github.com/Impyaephyo)
+- [Taro E](https://github.com/taren07)
