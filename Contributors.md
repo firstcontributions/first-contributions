@@ -763,6 +763,7 @@ Alexander
 - [Nick Alben](https://github.com/NAlb-23)
 - [Navin Kumar](https://github.com/ns-0437)
 - [Sahil Saini](https://github.com/sahil-saini28)
+- [Alhasan Mohsen](https://github.com/IAmFaulty)
 - [James Ngugi](https://github.com/JamesK254)
 - [M Abdul Azeez](https://github.com/Abdul-Azeez060)
 - [Abdul Azeez](https://github.com/Abdul-Azeez060)
