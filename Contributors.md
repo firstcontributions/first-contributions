@@ -497,6 +497,7 @@ Daniela Anghel
 - [KonerDev] (https://github.com/KonerDev)
 - [Marius Užemeckas](https://github.com/39015745)
 - [Abhishek kar](https://github.com/noob-coder497)
+- [Kornél Tomai] (https://github.com/korneltomai)
 - [OmegaDL2](https://github.com/OmegaDL2)
 - [Popperda](https://github.com/popperda/)
 - [yangchunhua](https://github.com/1250855168/)
