@@ -42,6 +42,7 @@ paramesh g v
 -[ Naos Belay ] (https://github.com/Amenediel)
 -[Magnim] (https://github.com/magnim)
 -[Michael Le] (https://github.com/michael2017le)
+-Shashikumarezhilarasu(https://github.com/Shashikumar-ezhilarasu/first-contributions.git)
 -[Gakii] (https://github.com/eleanorgakii)
 - [Zhangwai] (https://github.com/Zhangwai)
 - [Kuessi-Ansan Djiyehoue] (https://github.com/KuessiAnsan)
