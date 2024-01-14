@@ -70,6 +70,7 @@ Daniela Anghel
 - [Shawluck](https://github.com/Shawluck/)
 - [Harsha S](https://github.com/sharsha315)
 -VijayVinayak
+- [David Wenk](https://github.com/thedavidwenk)
 - [Vikrant](https://github.com/1vikrant)
 - [AlvirElWapo](https://github.com/AlvirElWapo) 🏞️ LOOKING FOR LA CHAMBA
 - [Kazuho](https://github.com/kzhgit)
