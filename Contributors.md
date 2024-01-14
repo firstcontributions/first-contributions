@@ -142,6 +142,7 @@ Daniela Anghel
 - [Aurélien Lainé](https://github.com/aurelien81)
 - [Pikachu]
 - [Ajay]
+- [Omer Diaaeldin](https://github.com/OmerDiaaeldin)
 - [Sainul Abid](https://github.com/abidta)
 - [Prathibha  Boini](https://github.com/Prathibha-yadav)
 - [Firoz Khan aka Codezakifiroz](https://github.com/codezakifiroz)
