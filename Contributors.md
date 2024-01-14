@@ -53,6 +53,7 @@ Daniela Anghel
 - [Daniel Otchere](https://github.com/ascot20)
 - [Jayesh Bagde](https://github.com/jysh-bgde) 
 - [Karuppaiah](https://github.com/akdinesh124)
+- [Thirupathi Addisherla] (https://github.com/Thiru7747)
 - [Masch90] (https://github.com/Masch90)
 - [Chijioke Ugwuanyi](https://github.com/xplorer1)
 - [Horatio Hanley](https://github.com/horatioDev)
