@@ -6,6 +6,7 @@
 - [TJ O'Hora](Hello world!)
 - Damien
 Daniela Anghel
+- [Charles Sanders @visionthex](https://github.com/visionthex)
 - [Felix Gomez @felixdavid12](https://github.com/felixdavid12)
 - [doudouCodingInGithub](https://github.com/doudouCodingInGithub)
 - Kim Finical
