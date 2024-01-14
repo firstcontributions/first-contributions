@@ -225,6 +225,7 @@ Adwai
 - [Nikolai Ruilova](https://github.com/NikoRuBln)
 - [Samrat Ghosh](https://github.com/samratghosh291)
 - [Lee Eros Galaad Dias de Moura](https://github.com/LeeEros)
+- [Dylan Watson] (https://github.com/djwat228)
 - [Luke Wardle] (https://github.com/LukeWardle)
 - [Peter Ludwig] (https://github.com/peterdanludwig)
 - [Krishnakumar V] (https://github.com/krishkdev)
