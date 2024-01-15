@@ -1,5 +1,6 @@
 # Contributors
 - test
+- [Jon Brennan 🧑🏻‍💻👾🎵](https://github.com/jbshryne)
 - [Shubham kumar](https://github.com/Shubham9384235)
 - Temmy
 - [Aman](https://github.com/AmanWebDev2)
