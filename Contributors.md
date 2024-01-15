@@ -12,6 +12,7 @@
 Daniela Anghel
 - Neoncephalopod
 - [Yor-Jihons](https://github.com/Yor-Jihons)
+- [tayobaki] (https://github.com/tayobaki)
 - [Charles Sanders @visionthex](https://github.com/visionthex)
 - [Felix Gomez @felixdavid12](https://github.com/felixdavid12)
 - [doudouCodingInGithub](https://github.com/doudouCodingInGithub)
