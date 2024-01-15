@@ -6,6 +6,7 @@
 - [Shubham kumar](https://github.com/Shubham9384235)
 - Temmy
 - [Annuar](https://github.com/ramo-dev)
+- [Brian Kyalo](https://github.com/kyalo3)
 - [Aman](https://github.com/AmanWebDev2)
 - [BALASANTHOSH01](https://github.com/BALASANTHOSH01)
 - [Greg Delgado](https://github.com/grd888)
