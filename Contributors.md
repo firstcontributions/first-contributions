@@ -1230,6 +1230,7 @@ Alexander
 - [Yura] (https://github.com/yuramayer)
 - [taitep](https://github.com/taitep)
 - [Battousai](https://github.com/Battosuai)
+- [Tushar Chaudhary] (https://github.com/chaudhary-tushar)
 -[kavya-somireddy](https://github.com/Kavya-somireddy/first-contributions.git)
 -[LIZA](https://github.com/LIZA1608)
 -[Ashley Hou] (https://github.com/itisamazingxx)
