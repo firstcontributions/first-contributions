@@ -281,6 +281,7 @@ Daniela Anghel
 - [OriThree]
 - [Mustafa Afzal](https://github.com/mafzii)
 - [Dylan Collins](https://github.com/D05Col)
+- [Avinash Mallick](https://github.com/avimallick)
 - [Rachel Hamby](https://github.com/tnthreat33)
 - Pokala Rohit 
 - Balajiupadhyay
