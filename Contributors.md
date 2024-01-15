@@ -22,6 +22,7 @@ Daniela Anghel
 - [doudouCodingInGithub](https://github.com/doudouCodingInGithub)
 - Kim Finical
 - jephthah folarin senu
+- [Kurumi30](https://github.com/Kurumi30)
 - [Jay Paun](https://github.com/Jay2704)
 - [MTHS](https://github.com/MTHS)
 - [Matthew Z](https://github.com/GitwithAbba)
