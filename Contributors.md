@@ -16,6 +16,7 @@
 - Damien
 Daniela Anghel
 - Neoncephalopod
+- Ali Soban (ali-soban)
 - [Yor-Jihons](https://github.com/Yor-Jihons)
 - [tayobaki] (https://github.com/tayobaki)
 - [Charles Sanders @visionthex](https://github.com/visionthex)
