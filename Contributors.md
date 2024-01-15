@@ -25,6 +25,7 @@ Daniela Anghel
 - Kim Finical
 -deepika
 - jephthah folarin senu
+- [Osman](https://github.com/Osmansiddiquer)
 - [Kurumi30](https://github.com/Kurumi30)
 - [Jay Paun](https://github.com/Jay2704)
 - [MTHS](https://github.com/MTHS)
