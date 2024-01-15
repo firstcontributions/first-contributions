@@ -26,10 +26,12 @@ Daniela Anghel
 -deepika
 - jephthah folarin senu
 - [Osman](https://github.com/Osmansiddiquer)
+- [Muneer Alam](https://github.com/muneer320)
 - [Kurumi30](https://github.com/Kurumi30)
 - [Jay Paun](https://github.com/Jay2704)
 - [MTHS](https://github.com/MTHS)
 - [Matthew Z](https://github.com/GitwithAbba)
+- [Patrick C](https://github.com/patrickcap)
 - [Aditya Gupta](https://github.com/Deadlock-exe)
 - [BABLU](https://github.com/bablu2b)
 - [ZarKHasM](https://github.com/ZarKHasM)
