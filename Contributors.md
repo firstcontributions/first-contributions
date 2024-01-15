@@ -1,6 +1,7 @@
 
 # Contributors
 - [TechySavant](https://github.com/techy-savant)
+- [Brian kyalo] (https://github.com/kyalo3)
 - [Xiong Gu] (https://github.com/gggxxxx)
 - [Ashwin Dhangar](https://github.com/MrAshwin2142)
 - [Sivaraghavi](https://github.com/Sivaraghavi) 
