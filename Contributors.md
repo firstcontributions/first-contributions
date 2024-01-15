@@ -1260,6 +1260,7 @@ Alexander
 -[jonasermert](https://github.com/jonasermert)
 -[ivborrezo](https://github.com/ivborrezo)
 -[chad](https://github.com/chdclar16)
+-[Shemar Brown-Wright](https://github.com/shemr1)
 -[Aravind Ramaraju](https://github.com/aramaraju)
 -[NdangiKanime](https://github.com/NdangiKanime)
 -[Matt Zimmerman](https://github.com/MattZim2000)
