@@ -29,6 +29,7 @@ Daniela Anghel
 - [Jay Paun](https://github.com/Jay2704)
 - [MTHS](https://github.com/MTHS)
 - [Matthew Z](https://github.com/GitwithAbba)
+- [Patrick C](https://github.com/patrickcap)
 - [Aditya Gupta](https://github.com/Deadlock-exe)
 - [BABLU](https://github.com/bablu2b)
 - [ZarKHasM](https://github.com/ZarKHasM)
