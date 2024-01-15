@@ -150,6 +150,7 @@ Daniela Anghel
 - [Prathibha  Boini](https://github.com/Prathibha-yadav)
 - [Firoz Khan aka Codezakifiroz](https://github.com/codezakifiroz)
 - [Ankur](https://github.com/Ar7109)
+- [toryf](https://github.com/tfernandez2017)
 - [Vikas](https://ithub.com/Vikas013)
 - [FlandersFrybad](https://github.com/flandersfrybad) 🍉
 - [Daris Mathew](https://github.com/darismathew92)
