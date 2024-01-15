@@ -25,6 +25,7 @@ Daniela Anghel
 - [Emmanuel](https://github.com/codesmith-emmy)
 - [luispunx](https://github.com/luispunx)
 - [Rose Liu](https://github.com/BlueRosy) An interesting contribution experience! Thanks. 🩷🩵
+- [Yufa Zhou](https://github.com/MasterZhou1)
 - [Robin Van Persie](https://github.com/rvp20)
 - [Alex Terskin] (https://github.com/ATerskin)
 - [Bhargav](https://github.com/thotabhargav123)
