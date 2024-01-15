@@ -40,6 +40,7 @@ Daniela Anghel
 - [Rohit R](https://github.com/Rohr0) 🔥
 - [17LingShan](https://github.com/17LingShan)
 - [Nihal Baranwal](https://github.com/N-I-H-A-L)
+- [Mykyta Kuznietsov](https://github.com/kuznimyk)
 - [Jivi ~_~](https://github.com/Jivi-this-side)
 - [Subro](https://www.linkedin.com/in/subrojyoti-paul)
 - [zeden](https://github.com/snowxx456)
