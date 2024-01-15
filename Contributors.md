@@ -23,6 +23,7 @@ Daniela Anghel
 - [Felix Gomez @felixdavid12](https://github.com/felixdavid12)
 - [doudouCodingInGithub](https://github.com/doudouCodingInGithub)
 - Kim Finical
+-deepika
 - jephthah folarin senu
 - [Kurumi30](https://github.com/Kurumi30)
 - [Jay Paun](https://github.com/Jay2704)
