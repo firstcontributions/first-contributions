@@ -256,6 +256,7 @@ Daniela Anghel
 - [Apoorv Saini](https://github.com/Apsain1)
 - [Ankush Tiwari](https://github.com/tiwaribro/)
 - [Dibyajyoti Mandal](https://github.com/cookiejar2104)
+- [Geoff Jamieson](https://github.com/UnionPAC)
 - [Danny Hidayat](https://github.com/dannyhdyt)
 - [Anand Raj](https://github.com/anandr07)
 - [Chandra Kant Bauri](https://github.com/Lynk4)
