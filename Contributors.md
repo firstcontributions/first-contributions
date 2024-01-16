@@ -872,6 +872,7 @@ Alexander
 - [medzo-kali](https://github.com/medzo-kali)
 - [Devin Kwon](https://github.com/DKwon00)
 - [Timothy Bukowski](https://github.com/Whitefire000)
+- [Timothy Williams](https://github.com/timothy-williams)
 - [Nicholas Garbutt](https://github.com/Nicholas-Garbutt)
 - [Felipe Arruda](https://github.com/FelipeArruda)
 - [William-D-Miller-Jr-AKA-王比尔](https://github.com/bijiyiqi2017)
