@@ -9,6 +9,7 @@ sad# Contributors
 - [Shubham kumar](https://github.com/Shubham9384235)
 - [Suved Ganduri](https://github.com/Sooowayydh)
 - Temmy
+- [Thomas Ulrich](https://github.com/TomUlrich)
 - [Annuar](https://github.com/ramo-dev)
 - [Brian Kyalo](https://github.com/kyalo3)
 - [Aman](https://github.com/AmanWebDev2)
