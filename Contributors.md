@@ -10,6 +10,7 @@ sad# Contributors
 - [Suved Ganduri](https://github.com/Sooowayydh)
 - Temmy
 - [Thomas Ulrich](https://github.com/TomUlrich)
+- [Swapnilkumar Dwivedi](https://github.com/swappy-2003)
 - [Annuar](https://github.com/ramo-dev)
 - [Brian Kyalo](https://github.com/kyalo3)
 - [Aman](https://github.com/AmanWebDev2)
@@ -1323,6 +1324,7 @@ Alexander
 - [John Sandoval 🚀](https://github.com/jsandoval1)
 - [Sathurshanan Kandhasamy] (https://github.com/sathurshanan-kandhasamy)
 - [Cat](https://github.com/Zeddex)
+- [Jawad Saeed](https://github.com/Jawamegamind)
 - [H4rz](https://github.com/h4rz)
 - [Edudima](https://github.com/edudima)
 - [tkou15](https://github.com/tkou15)
