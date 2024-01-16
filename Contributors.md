@@ -845,6 +845,7 @@ Alexander
 - [Hadi](https://github.com/morhadi/first-contributions)
 - [Bhargav Shirin](https://github.com/bhargavshirin)
 - [Johan Chate](https://github.com/TCLJOHANT)
+- Lulu Jiao
 - [Kai Kim](https://github.com/KaiKimiOS)
 - [Shay](https://github.com/shay-520)
 - [Shaikh Aman](https://github.com/ShaikhAman01)
