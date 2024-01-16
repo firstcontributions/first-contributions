@@ -10,6 +10,7 @@ sad# Contributors
 - [Suved Ganduri](https://github.com/Sooowayydh)
 - Temmy
 - [Atif Abedeen](https://github.com/atifabedeen)
+- [Adam Robson](https://github.com/Adam-Robson) 🧶
 - [Thomas Ulrich](https://github.com/TomUlrich)
 - [Swapnilkumar Dwivedi](https://github.com/swappy-2003)
 - [Annuar](https://github.com/ramo-dev)
