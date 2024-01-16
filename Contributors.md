@@ -1334,6 +1334,8 @@ main
 - [adambala](https://github.com/adambala)
 - [SantixDesigner](https://github.com/SantixDesigner)
 - [RungrojWK](https://github.com/RungrojWK)
+- [Eli Singh](https://github.com/readboy8)
 - [ViniJacob]
 - [samsonmobisa](https://github.com/samsonmobisa)
 - [Richard Washington](https://github.com/richardfwashington)
+
