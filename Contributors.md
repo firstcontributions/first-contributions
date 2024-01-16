@@ -21,6 +21,7 @@ sad# Contributors
 - Damien
 Daniela Anghel
 - Neoncephalopod
+- Rahma Mohamud
 - Ali Soban (ali-soban)
 - [Yor-Jihons](https://github.com/Yor-Jihons)
 - [tayobaki] (https://github.com/tayobaki)
