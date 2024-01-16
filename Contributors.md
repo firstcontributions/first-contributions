@@ -47,7 +47,7 @@
 - [FlandersFrybad](https://github.com/flandersfrybad) 🍉
 - [Daris Mathew](https://github.com/darismathew92)
 - [Harish Kushwah](https://github.com/Harish-Kushwah) ❤️ INDIA
-- [Kartik Pawar](https://github.com/kartikpawar10) INDIA
+- [Kartik Pawar](https://github.com/kartikpawar10) BHARAT
 - [Krish Sehgal](https://github.com/krish-sehgal) 
 - [Ionecum](https://github.com/ionecum)
 - [AM-Shafin](https://github.com/am-safin) 👊
