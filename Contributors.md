@@ -31,6 +31,7 @@ Daniela Anghel
 - [Charles Sanders @visionthex](https://github.com/visionthex)
 - [Felix Gomez @felixdavid12](https://github.com/felixdavid12)
 - [doudouCodingInGithub](https://github.com/doudouCodingInGithub)
+- [Alberto Pe#a](https://github.com/APC9) 🔥
 - Kim Finical
 -deepika
 - jephthah folarin senu
