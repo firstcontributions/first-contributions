@@ -39,6 +39,7 @@ Daniela Anghel
 - [Muneer Alam](https://github.com/muneer320)
 - [Kurumi30](https://github.com/Kurumi30)
 - [Jay Paun](https://github.com/Jay2704)
+- [Cameron Johnson](https://github.com/will-fork-for-food)
 - [MTHS](https://github.com/MTHS)
 - [Matthew Z](https://github.com/GitwithAbba)
 - [Patrick C](https://github.com/patrickcap)
