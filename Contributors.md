@@ -163,6 +163,7 @@ Daniela Anghel
 - [GreenWeegeeCantCode](https://github.com/GreenWeegeeCantCode)
 - [Angelica Michaca](https://github.com/Angelica-Michaca)
 - [Sivapannier]
+- [Arthur Griffith](https://github.com/agriffith18)
 - [charlesdzadu](https://github.com/charlesdzadu)
 - [Catherine Mokgothu](https://github.com/catherinemokgothu)
 - [Milind Dhamu](https://github.com/milinddhamu)
