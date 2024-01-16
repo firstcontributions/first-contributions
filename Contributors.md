@@ -666,6 +666,7 @@ Alexander
 - [Hasan Dilshad Husain](https://github.com/Hasan-1-6)
 - [Alfonso de Mora Navarro](https://github.com/demora33)
 - [Victor Alejandro Contreras Vargas](https://github.com/vc743) Who's gonna carry the boats?💪🔥
+- [Shahbaz Javed Qureshi](https://github.com/shahbazjavedqureshi) And the logs!?!!
 - [Srajal Sawner](https://github.com/Srajal16)
 - [JusiaDEV](https://github.com/JusiaDev)
 - [Nehal chaudhary](https://github.com/neh666)
