@@ -6,6 +6,7 @@ sad# Contributors
 - [Anirudha Pradumna Tiwari] (https://github.com/anirudhaptiwari)
 - [Jon Compton](https://github.com/joncompton)
 - [Shubham kumar](https://github.com/Shubham9384235)
+- [Suved Ganduri](https://github.com/Sooowayydh)
 - Temmy
 - [Annuar](https://github.com/ramo-dev)
 - [Brian Kyalo](https://github.com/kyalo3)
