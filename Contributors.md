@@ -1,6 +1,7 @@
 # Contributors
 
 - [iPig](https://github.com/ipigtw)
+- [Sara Tahdi](https://github.com/Sara-Tahdi)
 - [Spencer Craigie](https://github.com/sscraigie)
 - [Niraj Giri](https://github.com/nirajgiriXD)
 -[Shaheer Dudekula]
