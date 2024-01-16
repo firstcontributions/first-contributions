@@ -2,6 +2,8 @@ sad# Contributors
 - test
 - secret
 - [Codemanticism](https://github.com/codemanticism)
+ChardPeter
+-[Chard Peter (https://github.com/ChardPeter)]
 - [TejoSaiSwaroop](https://github.com/tejosaiswaroop)
 - [Jon Brennan 🧑🏻‍💻👾🎵](https://github.com/jbshryne)
 - [Anirudha Pradumna Tiwari] (https://github.com/anirudhaptiwari)
