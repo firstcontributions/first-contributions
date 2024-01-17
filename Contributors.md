@@ -1360,6 +1360,7 @@ Alexander
 - [John Sandoval 🚀](https://github.com/jsandoval1)
 - [Sathurshanan Kandhasamy] (https://github.com/sathurshanan-kandhasamy)
 - [Cat](https://github.com/Zeddex)
+- [Lava558](https://github.com/lava558)
 - [Jawad Saeed](https://github.com/Jawamegamind)
 - [H4rz](https://github.com/h4rz)
 - [Edudima](https://github.com/edudima)
