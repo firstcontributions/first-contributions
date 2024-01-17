@@ -1274,6 +1274,7 @@ Alexander
 - [samar gill] (https://github.com/samar-gill)
 - [gamelia programmer] (https://github.com/gameliaprogrammer)
 - [Nargotra]
+- [perceptionWave] (https://github.com/perceptionWave)
 - [pronex 🦊](https://github.com/Pronex)
 - [AndyVx] (https://github.com/AndyVx)
 - [Mercury] (https://github.com/MercuryDemo/first-contributions) Thanks
