@@ -317,6 +317,7 @@ Daniela Anghel
 - [sus-domesticus](https://github.com/sus-domesticus)
 - [sumanthtp](https://github.com/SUMANTHTPs)
 - Ho Ho Ho [Aditya Kapadia]
+- [Daniel Ndirangu](https://github.com/daniel-ndirangu)
 - [Gyanavardhan](https://github.com/gyanavardhana)
 - [Sourav Sathyan](https://github.com/souravsathyan)
 - [Nehal Ingole](https://github.com/Ingole712521) #Thanks
