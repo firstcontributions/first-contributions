@@ -142,6 +142,7 @@ Daniela Anghel
 - [abedalavi](https://github.com/abedalavi)
 - [Delton Hughes](https://github.com/dHughes97)
 - [Joanna McDonald](https://github.com/joannamcd)
+- [Tianna Lopes](https://github.com/TiannaLopes)
 - [nameless wizard]
 - [toya33](https://github.com/toya33)
 - [Oluwasemilore Omotade-Michaels](https://github.com/shemigam1)
