@@ -345,6 +345,7 @@ Daniela Anghel
 - [Muhammad Aliyu Abubakar](https://github.com/mxg-mega)
 - [Sachin Kumar](https://github.com/pseudofool)
 - [Apoorv ](https://github.com/APOORV7G)
+- [Vlad D](https://github.com/casual-user-asm)
 - [Nabil Negadi] (https://github.com/Darknab)
 - [AniketKumar](https://github.com/aniketkumar7)
 - [Olayinkascott Andee](https://github.com/scottandee)
