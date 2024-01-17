@@ -1343,6 +1343,7 @@ Alexander
 - [Andrija1232](https://github.com/andrija1232)
 - [Christian Daher](https://github.com/ChristianDaher)
 - [Lekha Pillai](https://github.com/lekspil2)
+- [Richard](https://github.com/Rich-T-kid)
 main
 - [weigangs](https://github.com/weigangs)
 - [adambala](https://github.com/adambala)
@@ -1352,3 +1353,4 @@ main
 - [samsonmobisa](https://github.com/samsonmobisa)
 - [Richard Washington](https://github.com/richardfwashington)
 - [anastaszi](https://github.com/anastaszi)
+
