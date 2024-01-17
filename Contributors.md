@@ -24,6 +24,7 @@ sad# Contributors
 - [Utkarsh Choudhary](https://github.com/KarshC)
 - Damien
 Daniela Anghel
+- Jeremy(https://github.com/JeremyTran211)
 - Neoncephalopod
 - Rahma Mohamud
 - Ali Soban (ali-soban)
