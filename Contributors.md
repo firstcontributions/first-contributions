@@ -1,6 +1,7 @@
 sad# Contributors
 - test
 - secret
+-[Stacy Jacqueen](https://github.com/Jacquee18)
 - [Stelios Gee](https://github.com/SteliosGee)
 - [Codemanticism](https://github.com/codemanticism)
 - [TejoSaiSwaroop](https://github.com/tejosaiswaroop)
