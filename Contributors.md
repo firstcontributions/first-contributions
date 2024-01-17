@@ -1165,6 +1165,7 @@ Alexander
 - [ZEEL](https://github.com/zeelapatel)
 - [Darek](https://github.com/darekLas)
 - [CyperX](https://github.com/cyperx84)
+- [TadejGoto](https://github.com/tadejgoto)
 - [Zong Zheng](https://github.com/f4try)
 - [Soumyajit Dey](https://github.com/soumyadey1214 )
 - [whioscc](https://github.com/whoiscc)
