@@ -1,6 +1,7 @@
 sad# Contributors
 - test
 - secret
+- [Stelios Gee](https://github.com/SteliosGee)
 - [Codemanticism](https://github.com/codemanticism)
 - [TejoSaiSwaroop](https://github.com/tejosaiswaroop)
 - [John Caleb ⚡](https://github.com/thejohncaleb)
