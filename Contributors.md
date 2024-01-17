@@ -306,6 +306,7 @@ Daniela Anghel
 - [Sudip Parajuli](https://github.com/Sudip777)
 - [Mellon Amutuheire](https://github.com/AMUTUHEIREMELLON)
 - [Metti Alinia](https://github.com/mett-E/)
+- [Shishir Kr] (https://github.com/krshishir1)
 - 🐈‍⬛[lonely_caat](https://github.com/lonely-caat)🐈‍⬛
 - [Meow Aadvik]
 - [Yusuf Habib Alfatha]
