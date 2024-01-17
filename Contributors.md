@@ -435,6 +435,7 @@ Daniela Anghel
 - [Yogesh G](https://github.com/yogeshgunasekaran)
 - [Abdirashid Mowlid](https://github.com/Abdirashid-dv)
 - [Priyansh Garg](https://github.com/prynshg)
+- [nickf2k](https://github.com/nickf2k)
 - [Harish](https://github.com/HarishI123)
 - [Edgar Dikenge](https://github.com/edgar3g)
 - [Osama Ahmad](https://github.com/oahmadgit)
