@@ -41,6 +41,7 @@ Daniela Anghel
 - Kim Finical
 -deepika
 - jephthah folarin senu
+- [Sandeep Dewangan](https://github.com/sandy15d)
 - [Osman](https://github.com/Osmansiddiquer)
 - [Abhijith Subash](https://github.com/abhijith-07) Happy to contribute more to open source
 - [Muneer Alam](https://github.com/muneer320)
