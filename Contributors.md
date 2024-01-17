@@ -1,8 +1,10 @@
 sad# Contributors
 - test
 - secret
--[Stacy Jacqueen](https://github.com/Jacquee18)
--[Jakob Martin] (https://github.com/jakobistjakob)
+
+- [Suryansh Singh](https://github.com/BulBerry)
+- [Stacy Jacqueen](https://github.com/Jacquee18)
+- [Jakob Martin] (https://github.com/jakobistjakob)
 - [Stelios Gee](https://github.com/SteliosGee)
 - [Codemanticism](https://github.com/codemanticism)
 - [Flavio Emanuele Cannavò](https://github.com/flaviocnn)
