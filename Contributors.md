@@ -30,6 +30,7 @@ sad# Contributors
 - [Default](https://github.com/bright100)
 - [TJ O'Hora](Hello world!)
 - [Alyn3103]
+- Umar Samdani
 - [Utkarsh Choudhary](https://github.com/KarshC)
 - Damien
 Daniela Anghel
