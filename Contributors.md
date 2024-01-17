@@ -69,6 +69,7 @@ Daniela Anghel
 - [Onyango Jerry](No link sorry)
 - [Ambrose Matata](https://github.com/Masaku12)
 - [ruvvan](https://github.com/ruvvan)
+- [Michael Adekanye](https://github.com/natureoflagos)
 - [Jayavardhan gorlamandala](No link sorry)
 - [Ashish Kumar](https://github.com/akdevv)
 - [Abdallah Radfi](https://github.com/AbdallahRdf) 🔥
