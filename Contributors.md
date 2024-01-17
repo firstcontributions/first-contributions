@@ -14,6 +14,7 @@ sad# Contributors
 - [Shubham kumar](https://github.com/Shubham9384235)
 - [Suved Ganduri](https://github.com/Sooowayydh)
 - Temmy
+- [Vinuthna](https://github.com/vinuthna29)
 - [Atif Abedeen](https://github.com/atifabedeen)
 - [Feven Seyfu](https://github.com/FevenSeyfu)
 - [Adam Robson](https://github.com/Adam-Robson) 🧶
