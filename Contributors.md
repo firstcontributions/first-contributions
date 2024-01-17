@@ -1345,6 +1345,7 @@ Alexander
 - [John Chae](https://github.com/johnchae)
 - [Pyae Phyo](https://github.com/Impyaephyo)
 - [Duncan] (https://github.com/duncan0801) 
+- [Friendlycoconut] (https://github.com/friendlycoconut)
 - [Tepmory] 
 - [Rick] (https://github.com/as183789043) 
 - [JustVelio] (https://github.com/justvelio)
