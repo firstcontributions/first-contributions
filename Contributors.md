@@ -15,6 +15,7 @@ sad# Contributors
 - [Atif Abedeen](https://github.com/atifabedeen)
 - [Adam Robson](https://github.com/Adam-Robson) 🧶
 - [Thomas Ulrich](https://github.com/TomUlrich)
+  [Sarvesh Bachute](https://github.com/sarry8901)
 - [Swapnilkumar Dwivedi](https://github.com/swappy-2003)
 - [Annuar](https://github.com/ramo-dev)
 - [Brian Kyalo](https://github.com/kyalo3)
