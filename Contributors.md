@@ -4,6 +4,7 @@ sad# Contributors
 -[Stacy Jacqueen](https://github.com/Jacquee18)
 - [Stelios Gee](https://github.com/SteliosGee)
 - [Codemanticism](https://github.com/codemanticism)
+- [Flavio Emanuele Cannavò](https://github.com/flaviocnn)
 - [TejoSaiSwaroop](https://github.com/tejosaiswaroop)
 - [John Caleb ⚡](https://github.com/thejohncaleb)
 - [Jon Brennan 🧑🏻‍💻👾🎵](https://github.com/jbshryne)
