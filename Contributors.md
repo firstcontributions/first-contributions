@@ -2,6 +2,7 @@ sad# Contributors
 - test
 - secret
 -[Stacy Jacqueen](https://github.com/Jacquee18)
+-[Michael Adekanye](https://github.com/natureoflagos)
 -[Jakob Martin] (https://github.com/jakobistjakob)
 - [Stelios Gee](https://github.com/SteliosGee)
 - [Codemanticism](https://github.com/codemanticism)
