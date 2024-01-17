@@ -1162,7 +1162,7 @@ Alexander
 - [ZEEL](https://github.com/zeelapatel)
 - [Darek](https://github.com/darekLas)
 - [CyperX](https://github.com/cyperx84)
-- [Tadija](https://github.com/tadejgoto) "trying to be better me :) '24" 
+- [TadejGoto](https://github.com/tadejgoto)
 - [Zong Zheng](https://github.com/f4try)
 - [Soumyajit Dey](https://github.com/soumyadey1214 )
 - [whioscc](https://github.com/whoiscc)
