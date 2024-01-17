@@ -339,6 +339,7 @@ Daniela Anghel
 - [Taro Qureshi](https://github.com/taro-qureshi)
 - Jeromeeee
 - [OriThree]
+- [jay] (https://github.com/jayvjayv)
 - [Mustafa Afzal](https://github.com/mafzii)
 - [Dylan Collins](https://github.com/D05Col)
 - [Avinash Mallick](https://github.com/avimallick)
