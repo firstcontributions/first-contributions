@@ -2,8 +2,10 @@ sad# Contributors
 - test
 - secret
 -[Stacy Jacqueen](https://github.com/Jacquee18)
+-[Jakob Martin] (https://github.com/jakobistjakob)
 - [Stelios Gee](https://github.com/SteliosGee)
 - [Codemanticism](https://github.com/codemanticism)
+- [Flavio Emanuele Cannavò](https://github.com/flaviocnn)
 - [TejoSaiSwaroop](https://github.com/tejosaiswaroop)
 - [John Caleb ⚡](https://github.com/thejohncaleb)
 - [Jon Brennan 🧑🏻‍💻👾🎵](https://github.com/jbshryne)
@@ -13,6 +15,7 @@ sad# Contributors
 - [Suved Ganduri](https://github.com/Sooowayydh)
 - Temmy
 - [Atif Abedeen](https://github.com/atifabedeen)
+- [Feven Seyfu](https://github.com/FevenSeyfu)
 - [Adam Robson](https://github.com/Adam-Robson) 🧶
 - [Thomas Ulrich](https://github.com/TomUlrich)
   [Sarvesh Bachute](https://github.com/sarry8901)
@@ -306,6 +309,7 @@ Daniela Anghel
 - [Sudip Parajuli](https://github.com/Sudip777)
 - [Mellon Amutuheire](https://github.com/AMUTUHEIREMELLON)
 - [Metti Alinia](https://github.com/mett-E/)
+- [Shishir Kr] (https://github.com/krshishir1)
 - 🐈‍⬛[lonely_caat](https://github.com/lonely-caat)🐈‍⬛
 - [Meow Aadvik]
 - [Yusuf Habib Alfatha]
@@ -1365,4 +1369,5 @@ main
 - [Richard Washington](https://github.com/richardfwashington)
 - [anastaszi](https://github.com/anastaszi)
 - [Samar Khan](https://github.com/Samar-exe) ---- This is so Cool!!
+- [SamRB-dev](https://github.com/SamRB-dev) 
 - [Shyamgowtham Murugaraj](https://github.com/ShyamgowthamMurugaraj)
