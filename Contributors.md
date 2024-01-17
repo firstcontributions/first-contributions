@@ -10,6 +10,7 @@ sad# Contributors
 - [John Caleb ⚡](https://github.com/thejohncaleb)
 - [Jon Brennan 🧑🏻‍💻👾🎵](https://github.com/jbshryne)
 - [Anirudha Pradumna Tiwari] (https://github.com/anirudhaptiwari)
+- [Muhammad Ans Khan 🧑🏻‍💻](https://github.com/Muhammad-AnasKhan)
 - [Jon Compton](https://github.com/joncompton)
 - [Shubham kumar](https://github.com/Shubham9384235)
 - [Suved Ganduri](https://github.com/Sooowayydh)
