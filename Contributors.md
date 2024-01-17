@@ -3,6 +3,7 @@ sad# Contributors
 - secret
 - [Codemanticism](https://github.com/codemanticism)
 - [TejoSaiSwaroop](https://github.com/tejosaiswaroop)
+- [John Caleb ⚡](https://github.com/thejohncaleb)
 - [Jon Brennan 🧑🏻‍💻👾🎵](https://github.com/jbshryne)
 - [Anirudha Pradumna Tiwari] (https://github.com/anirudhaptiwari)
 - [Jon Compton](https://github.com/joncompton)
