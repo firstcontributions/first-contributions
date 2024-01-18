@@ -30,6 +30,7 @@ sad# Contributors
 - [Vinuthna](https://github.com/vinuthna29)
 - [Atif Abedeen](https://github.com/atifabedeen)
 - [Feven Seyfu](https://github.com/FevenSeyfu)
+- [Kai Hyperion Yun](https://github.com/kaihyperion)
 - [Natnael Hailu](https://github.com/natnaelhailu)
 - [Adam Robson](https://github.com/Adam-Robson) 🧶
 - [Thomas Ulrich](https://github.com/TomUlrich)
