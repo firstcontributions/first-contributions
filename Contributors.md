@@ -7,6 +7,7 @@ sad# Contributors
 - [Jason Alvarez] (https://github.com/jason-alvarez-data)
 -[Stacy Jacqueen](https://github.com/Jacquee18)
 -[Isha](https://github.com/Isha-cpu)
+- [JFK]
 -[Jakob Martin] (https://github.com/jakobistjakob)
 - [Stelios Gee](https://github.com/SteliosGee)
 - [Codemanticism](https://github.com/codemanticism)
@@ -1341,6 +1342,7 @@ Alexander
 -[crisdebo0723](https://github.com/crisdebo0723)
 -[David Achoy](https://github.com/Davidachoy)
 -[Luka Radic](https://github.com/Lukaradic) 
+-[Terry McKiernan](https://github.com/UglySoftware)
 -[Pratham Mehta](https://github.com/pratham2609)
 - [Kiyan Nan](https://github.com/Kiyannan)
 - [EB] (https://github.com/barkai36)
@@ -1412,3 +1414,4 @@ main
 - [Noah Cunningham Baker](https://github.com/NoahCCB)
 - [Per-Arash Akbarpour](https://github.com/pash415)
 - [Jinal Soni](https://github.com/jinalsoni7/)
+- [Promise Oghenevwefe] (https://github.com/Myspheet)
