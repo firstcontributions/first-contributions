@@ -187,6 +187,7 @@ Daniela Anghel
 - [Harsha S](https://github.com/harsha-likes-to-code) ^_^
 - [Rafal Jasielec] (https://github.com/GHrjasielec)
 - [Nitin Yadav](https://github.com/nitinya9av) </❤️>
+- [hg1414](https://github.com/hg1414)
 - [mpousmali](https://github.com/mpousmali)
 - [GreenWeegeeCantCode](https://github.com/GreenWeegeeCantCode)
 - [Angelica Michaca](https://github.com/Angelica-Michaca)
