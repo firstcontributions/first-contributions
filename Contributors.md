@@ -8,6 +8,7 @@ sad# Contributors
 - [Flavio Emanuele Cannavò](https://github.com/flaviocnn)
 - [TejoSaiSwaroop](https://github.com/tejosaiswaroop)
 - Iga Meddie
+- Kate Rasheed
 - [John Caleb ⚡](https://github.com/thejohncaleb)
 - [Jon Brennan 🧑🏻‍💻👾🎵](https://github.com/jbshryne)
 - [Anirudha Pradumna Tiwari] (https://github.com/anirudhaptiwari)
