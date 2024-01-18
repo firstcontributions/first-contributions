@@ -20,6 +20,7 @@ sad# Contributors
 - [Shubham kumar](https://github.com/Shubham9384235)
 - [Suved Ganduri](https://github.com/Sooowayydh)
 - Temmy
+- Bhavya Singla
 - [Jaimit Patel](https://github.com/Jaimtlearn)
 - Rapheal Suber - https://github.com/manyworldss 
 - [Vinuthna](https://github.com/vinuthna29)
