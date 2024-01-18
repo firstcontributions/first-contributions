@@ -233,6 +233,7 @@ Daniela Anghel
 - [sambutracy](https://github.com/sambutracy)
 - [TH-Raju](https://github.com/TH-Raju)
 - [Advait Johari](https://github.com/aadijo)
+- [Ron Mordokhovich] (https://github.com/RonMordo)
 - [DylanCo](https://github.com/DylanCoexel)
 - [Saurav Kumar Mishra](https://github.com/sauravkm)
 - [Kim La](https://github.com/ktla99)
