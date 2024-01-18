@@ -392,3 +392,7 @@ FodyWeavers.xsd
 
 # Desktop.ini (Google Drive info file)
 desktop.ini
+
+# Compiled source 
+*.o
+*.exe

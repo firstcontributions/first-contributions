@@ -14,6 +14,7 @@ sad# Contributors
 - Kate Rasheed
 - [John Caleb ⚡](https://github.com/thejohncaleb)
 - [Jon Brennan 🧑🏻‍💻👾🎵](https://github.com/jbshryne)
+- [Muhammad Muzamil] (https://github.com/muhammadmuzamil015)
 - [Anirudha Pradumna Tiwari] (https://github.com/anirudhaptiwari)
 - [Muhammad Ans Khan 🧑🏻‍💻](https://github.com/Muhammad-AnasKhan)
 - [Jon Compton](https://github.com/joncompton)
