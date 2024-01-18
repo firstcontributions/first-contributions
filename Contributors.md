@@ -71,6 +71,7 @@ Daniela Anghel
 - [Jay Paun](https://github.com/Jay2704)
 - [Cameron Johnson](https://github.com/will-fork-for-food)
 - [MTHS](https://github.com/MTHS)
+- [EvinExiNiTy](https://github.com/Evinexinity)
 - [Matthew Z](https://github.com/GitwithAbba)
 - [Patrick C](https://github.com/patrickcap)
 - [Aditya Gupta](https://github.com/Deadlock-exe)
