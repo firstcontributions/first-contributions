@@ -835,6 +835,7 @@ Alexander
 - [Wong CZ](https://github.com/czwong02)
 - [Earl Villapaz](https://github.com/iearlg)
 - [Ron](https://github.com/Ron-Ash)
+- [ChaouachiAziz](https://github.com/ChaouachiAziz);
 - [Mustafa](https://github.com/envoydead7)
 - [Yoloyoda](https://github.com/Yoloyoda)
 - [Ghabki](https://github.com/Ghabki)
