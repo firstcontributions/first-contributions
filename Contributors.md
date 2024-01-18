@@ -216,6 +216,7 @@ Daniela Anghel
 - [Pikachu]
 - [Ajay]
 - [Ubaid]
+- [Maximilian Ganske] (https://github.com/MaxGanske)
 - [Omer Diaaeldin](https://github.com/OmerDiaaeldin)
 - [Sainul Abid](https://github.com/abidta)
 - [Prathibha  Boini](https://github.com/Prathibha-yadav)
