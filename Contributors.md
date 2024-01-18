@@ -28,7 +28,8 @@ sad# Contributors
 - [Natnael Hailu](https://github.com/natnaelhailu)
 - [Adam Robson](https://github.com/Adam-Robson) 🧶
 - [Thomas Ulrich](https://github.com/TomUlrich)
-  [Sarvesh Bachute](https://github.com/sarry8901)
+- [Sarvesh Bachute](https://github.com/sarry8901)
+- [Ala Gowtham Siva Kumar](https://github.com/gowtham-2oo5) 
 - [Swapnilkumar Dwivedi](https://github.com/swappy-2003)
 - [Annuar](https://github.com/ramo-dev)
 - [Brian Kyalo](https://github.com/kyalo3)
