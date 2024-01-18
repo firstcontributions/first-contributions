@@ -3,6 +3,7 @@ sad# Contributors
 - secret
 - [Andrew Zhou] (https://github.com/AndrewZhouMQ123)
 -[Stacy Jacqueen](https://github.com/Jacquee18)
+-[Michael Adekanye](https://github.com/natureoflagos)gi
 -[Jakob Martin] (https://github.com/jakobistjakob)
 - [Stelios Gee](https://github.com/SteliosGee)
 - [Codemanticism](https://github.com/codemanticism)
@@ -96,6 +97,7 @@ Daniela Anghel
 - [Ambrose Matata](https://github.com/Masaku12)
 - [Trevor Carmack] (http://github.com/tscarmack)
 - [ruvvan](https://github.com/ruvvan)
+- [Michael Adekanye](https://github.com/natureoflagos)
 - [Jayavardhan gorlamandala](No link sorry)
 - [Ashish Kumar](https://github.com/akdevv)
 - [Abdallah Radfi](https://github.com/AbdallahRdf) 🔥
