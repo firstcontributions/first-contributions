@@ -7,7 +7,6 @@ sad# Contributors
 - [Jason Alvarez] (https://github.com/jason-alvarez-data)
 -[Stacy Jacqueen](https://github.com/Jacquee18)
 -[Isha](https://github.com/Isha-cpu)
-- [JFK]
 -[Jakob Martin] (https://github.com/jakobistjakob)
 - [Stelios Gee](https://github.com/SteliosGee)
 - [Codemanticism](https://github.com/codemanticism)
