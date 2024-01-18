@@ -1,6 +1,7 @@
 sad# Contributors
 - test
 - secret
+- [Dave Friedman](https://github.com/heracliteanflux)
 - [DAKSH] (https://github.com/Daksh-codes)
 - [Andrew Zhou] (https://github.com/AndrewZhouMQ123)
 - [Jason Alvarez] (https://github.com/jason-alvarez-data)
