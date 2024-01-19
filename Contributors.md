@@ -83,6 +83,7 @@ Daniela Anghel
 - [Kurumi30](https://github.com/Kurumi30)
 - [Jay Paun](https://github.com/Jay2704)
 - [Cameron Johnson](https://github.com/will-fork-for-food)
+- [Ignacio Elìas Rosner](https://github.com/roznerx)
 - [MTHS](https://github.com/MTHS)
 - [EvinExiNiTy](https://github.com/Evinexinity)
 - [Matthew Z](https://github.com/GitwithAbba)
