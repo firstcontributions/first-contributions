@@ -27,6 +27,7 @@ sad# Contributors
 - [Suved Ganduri](https://github.com/Sooowayydh)
 - Temmy
 - Bhavya Singla
+- [Alec Morris] (https://github.com/alecmarkmorris)
 - [Jaimit Patel](https://github.com/Jaimtlearn)
 - Rapheal Suber - https://github.com/manyworldss 
 - [Vinuthna](https://github.com/vinuthna29)
