@@ -2,7 +2,6 @@ sad# Contributors
 - test
 - secret
 -[Stacy Jacqueen](https://github.com/Jacquee18)
-- [Hemant](https://github.com/hemant187)
 -[Jakob Martin] (https://github.com/jakobistjakob)
 - [Stelios Gee](https://github.com/SteliosGee)
 - [Codemanticism](https://github.com/codemanticism)
@@ -49,7 +48,6 @@ Daniela Anghel
 - Kim Finical
 -deepika
 - jephthah folarin senu
-- Hemant
 - [Hemant](https://github.com/hemant187)
 - [Sandeep Dewangan](https://github.com/sandy15d)
 - [Osman](https://github.com/Osmansiddiquer)
