@@ -18,6 +18,7 @@ sad# Contributors
 - [eszanon](https://github.com/eszanon)
 - [TejoSaiSwaroop](https://github.com/tejosaiswaroop)
 - [Kores Nkoidila](https://github.com/Nkoidila)
+- [Leonardo Lopes] (https://github.com/leonardo-lopes-br)
 - Iga Meddie
 - Kate Rasheed
 - [John Caleb ⚡](https://github.com/thejohncaleb)
