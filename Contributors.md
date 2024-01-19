@@ -21,6 +21,7 @@ sad# Contributors
 - Iga Meddie
 - Kate Rasheed
 - [John Caleb ⚡](https://github.com/thejohncaleb)
+- [Maria Carrera](https://github.com/MarieCourse)
 - [Debapriya sengupta](https://github.com/DebapriyaSengupta28)
 - [Hoin Shin](https://github.com/signalman)
 - [Jon Brennan 🧑🏻‍💻👾🎵](https://github.com/jbshryne)
