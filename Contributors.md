@@ -32,7 +32,7 @@ sad# Contributors
 - [Suved Ganduri](https://github.com/Sooowayydh)
 - Temmy
 - Bhavya Singla
-- [Jon Gumero](https://github.com/jongumero)
+- [Jon Gumero](https://github.com/jongumero) 
 - [Alec Morris] (https://github.com/alecmarkmorris)
 - [Jaimit Patel](https://github.com/Jaimtlearn)
 - Rapheal Suber - https://github.com/manyworldss 
