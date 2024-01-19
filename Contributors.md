@@ -789,6 +789,7 @@ Alexander
 - [A K M Jubaeir Islam](https://github.com/Zubiii333)
 - [Abhay Singh](https://github.com/Abhay-Singh-1913)
 - [Ian Hart](https://github.com/ianahart)
+- [Van Minh Tran](https://github.com/minhtran5109)
 - [Uday Vara](https://github.com/UV26320)
 - [Prabel](https://github.com/HiPrabel)
 - [Avinash Mangalore Suresh](https://github.com/msavinash)
