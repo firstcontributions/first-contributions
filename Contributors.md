@@ -1400,6 +1400,7 @@ Alexander
 - [John Chae](https://github.com/johnchae)
 - [Pyae Phyo](https://github.com/Impyaephyo)
 - [Duncan] (https://github.com/duncan0801) 
+- [Bchapman] (https://github/bjchapm)
 - [Friendlycoconut] (https://github.com/friendlycoconut)
 - [Tepmory] 
 - [Rick] (https://github.com/as183789043) 
