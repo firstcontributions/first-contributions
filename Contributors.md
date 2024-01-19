@@ -12,6 +12,7 @@ sad# Contributors
 - [Stelios Gee](https://github.com/SteliosGee)
 - [Codemanticism](https://github.com/codemanticism)
 - [Flavio Emanuele Cannavò](https://github.com/flaviocnn)
+- [eszanon](https://github.com/eszanon)
 - [TejoSaiSwaroop](https://github.com/tejosaiswaroop)
 - Iga Meddie
 - Kate Rasheed
