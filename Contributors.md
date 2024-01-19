@@ -61,6 +61,7 @@ sad# Contributors
 - [TJ O'Hora](Hello world!)
 - [Alyn3103]
 - Umar Samdani
+- [Smruthi Rao](https://github.com/smruthi-sumanth)
 - [Utkarsh Choudhary](https://github.com/KarshC)
 - Damien
 Daniela Anghel
