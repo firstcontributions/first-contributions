@@ -32,6 +32,7 @@ sad# Contributors
 - [Shubham kumar](https://github.com/Shubham9384235)
 - [Kiranmai Kalla](https://github.com/KiranmaiKalla)
 - [Suved Ganduri](https://github.com/Sooowayydh)
+- [Tunde Suleiman] (https://github.com/tsuleiman03)
 - Temmy
 - Bhavya Singla
 - [Jon Gumero](https://github.com/jongumero)
