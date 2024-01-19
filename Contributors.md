@@ -9,6 +9,7 @@ sad# Contributors
 -[Isha](https://github.com/Isha-cpu)
 - [JFK]
 -[Jakob Martin] (https://github.com/jakobistjakob)
+-[Manish Bisen] (https://github.com/bisen-del)
 - [Stelios Gee](https://github.com/SteliosGee)
 - [Codemanticism](https://github.com/codemanticism)
 - [Flavio Emanuele Cannavò](https://github.com/flaviocnn)
