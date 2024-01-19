@@ -1202,6 +1202,7 @@ Alexander
 - [CyperX](https://github.com/cyperx84)
 - [TadejGoto](https://github.com/tadejgoto)
 - [Zong Zheng](https://github.com/f4try)
+- [Pannya Trehan] (https://github.com/PannyaTrehan)
 - [Soumyajit Dey](https://github.com/soumyadey1214 )
 - [whioscc](https://github.com/whoiscc)
 - [aryanoutlaw](https://github.com/aryanoutlaw)
