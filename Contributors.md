@@ -5,6 +5,7 @@ sad# Contributors
 - [DAKSH] (https://github.com/Daksh-codes)
 - [Andrew Zhou] (https://github.com/AndrewZhouMQ123)
 - [Jason Alvarez] (https://github.com/jason-alvarez-data)
+- [Samandar02](https://github.com/Samandar02)
 - [Stacy Jacqueen](https://github.com/Jacquee18)
 - [Isha](https://github.com/Isha-cpu)
 - [JFK]
