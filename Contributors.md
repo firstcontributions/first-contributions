@@ -72,6 +72,7 @@ Daniela Anghel
 - Kim Finical
 -deepika
 - jephthah folarin senu
+- [Joe]
 - [test21]
 - [Hemant](https://github.com/hemant187)
 - [Sandeep Dewangan](https://github.com/sandy15d)
