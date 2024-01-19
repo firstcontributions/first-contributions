@@ -1454,4 +1454,5 @@ main
 - [Promise Oghenevwefe] (https://github.com/Myspheet)
 - [Krzysztof Horodowicz](https://github.com/morfi1983)
 - [Elghali Benjelloun 🚀](https://github.com/xxEBxx)
+- [Haley Marie Smith] (https://github.com/ursapictura)
 - [Richard Joseph Omega](https://github.com/arjiomega)
