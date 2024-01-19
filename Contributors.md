@@ -998,6 +998,7 @@ Alexander
 - [mzaidi7](https://github.com/mzaidi7)
 - [Justice Etorko-Gbeku](https://github.com/KorkuTegbe)
 - [oihv](https://github.com/oihv)
+- [Christian Vazquez] (https://github.com/0xQuez)
 - [Marco Barbieri](https://github.com/marcobarb00)
 - [Ruben Lien](https://github.com/RubenLien)
 - [Khaliq Ansari](https://github.com/thekhaliqansari)
