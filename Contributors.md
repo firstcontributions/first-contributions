@@ -1462,3 +1462,4 @@ main
 - [Elghali Benjelloun 🚀](https://github.com/xxEBxx)
 - [Haley Marie Smith] (https://github.com/ursapictura)
 - [Richard Joseph Omega](https://github.com/arjiomega)
+- [Akash Sanjay Thakare](https://github.com/Athakare064)
