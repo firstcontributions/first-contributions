@@ -15,6 +15,7 @@ sad# Contributors
 -[Jakob Martin] (https://github.com/jakobistjakob)
 -[Manish Bisen] (https://github.com/bisen-del)
 - [Stelios Gee](https://github.com/SteliosGee)
+- [Arslanaka](https://github.com/arslanaka)
 - [Codemanticism](https://github.com/codemanticism)
 - [Flavio Emanuele Cannavò](https://github.com/flaviocnn)
 - [eszanon](https://github.com/eszanon)
