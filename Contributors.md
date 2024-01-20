@@ -45,6 +45,7 @@ sad# Contributors
 - [Tunde Suleiman] (https://github.com/tsuleiman03)
 - Temmy
 - Bhavya Singla
+- Gabriele Agosta
 - [Jon Gumero](https://github.com/jongumero)
 - [Thomas Fogarty](https://github.com/Thoss24)
 - [Ana Luisa Conrado](https://github.com/anaconrado) 
