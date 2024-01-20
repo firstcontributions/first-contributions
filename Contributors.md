@@ -1150,6 +1150,7 @@ Alexander
 - [Honeshwar Thakur](https://github.com/Honeshwar)
 - [Adeel Umar](https://github.com/adeelumar-17)
 - [gpad4](https://github.com/gpad4)
+- [Ravi Teja](https://github.com/RaviTeja2747)
 - [Regmiram](https://github.com/rr-tri)
 - [Carla Ejemeh Inya-Agha](https://github.com/Sparklinglily)
 - [Sanchitha Sharma Ranganathaiah](https://github.com/Sanchithasharma)
