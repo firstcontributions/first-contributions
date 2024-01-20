@@ -235,6 +235,7 @@ Daniela Anghel
 - [DPHung]
 - [Angelica Michaca](https://github.com/Angelica-Michaca)
 - [Sivapannier]
+- [Nb](https://github.com/Neeraj6Maths)
 - [Arthur Griffith](https://github.com/agriffith18)
 - [charlesdzadu](https://github.com/charlesdzadu)
 - [Catherine Mokgothu](https://github.com/catherinemokgothu)
