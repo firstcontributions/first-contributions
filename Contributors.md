@@ -1472,3 +1472,4 @@ main
 - [Ayomide Ogunlade](https://github.com/adelanaofficial)
 - [Manoranjan Kumar](https://github.com/manoranjan111)
 - [Swamyyarramsetti](https://github.com/Swamyyarramsetti)
+- [Felipe Hernández](https://github.com/felipehmora)
