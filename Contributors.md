@@ -779,6 +779,7 @@ Alexander
 - [Taylor Cottrell](https://github.com/tlcottr)
 - [HWu](https://github.com/Aucannot)
 - [JJM](https://github.com/Jiaming-Jin)
+- [OneSrX](https://github.com/OneSrX)
 - [Ifeoluwah](https://github.com/ifeoluwah21)
 - [Avinash N](https://github.com/AviN27)
 - [Dbecausing](https://github.com/dbecausing)
