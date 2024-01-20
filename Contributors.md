@@ -43,6 +43,7 @@ sad# Contributors
 - Temmy
 - Bhavya Singla
 - [Jon Gumero](https://github.com/jongumero)
+- [Thomas Fogarty](https://github.com/Thoss24)
 - [Ana Luisa Conrado](https://github.com/anaconrado) 
 - [Alec Morris] (https://github.com/alecmarkmorris)
 - [Jaimit Patel](https://github.com/Jaimtlearn)
