@@ -1,4 +1,5 @@
 sad# Contributors
+- [brunoblaise](https://github.com/brunoblaise)
 - test
 - secret
 - [Rudhram Saraswat](https://github.com/RUDHRAM01)
