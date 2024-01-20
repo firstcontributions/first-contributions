@@ -984,6 +984,7 @@ Alexander
 - [TechTaleFusion](https://daswealth-okikiola.github.io/My-Website/)
 - [andole xavier](https://github.com/jaarabytes)
 - [Caleb Coggins](https://github.com/OnlyPolygon)
+- [Vajda Örs](https://github.com/st4r-w4rs)
 - [miacodehub](https://github.com/miacodehub)
 - [jsj8051](https://github.com/jsj8051)
 - [ikhoza](https://github.com/ikhoza)
