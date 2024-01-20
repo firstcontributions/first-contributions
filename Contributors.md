@@ -10,6 +10,7 @@ sad# Contributors
 -[Stacy Jacqueen](https://github.com/Jacquee18)
 -[Isha](https://github.com/Isha-cpu)
 - [Danyal Ejaz](https://github.com/danyalejaz)
+- [Varun Patel](https://github.com/varunpatel07)
 - anuj bhiasal
 - [JFK]
 - [LSR]
