@@ -797,6 +797,7 @@ Alexander
 - [Amin Khalsi]
 - [Venkatraj](https://github.com/ivenkatraj)
 - [Buse Dağıdır](https://github.com/busedagidir)
+- [Karulina Alencar](https://github.com/karolalencar)
 - [Jake Abed](https://github.com/jake-abed)
 - [Agunbiade Aishat](https://github.com/yeeshadev)
 - [Br0wnReculse](https://github.com/br0wnrecluse)
