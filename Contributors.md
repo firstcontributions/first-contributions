@@ -1,19 +1,24 @@
 sad# Contributors
 - test
 - secret
+- [Rudhram Saraswat](https://github.com/RUDHRAM01)
 - [Dave Friedman](https://github.com/heracliteanflux)
+- [Vicente Guzmán](https://vicenteguzman.com/)
 - [DAKSH] (https://github.com/Daksh-codes)
 - [Andrew Zhou] (https://github.com/AndrewZhouMQ123)
 - [Jason Alvarez] (https://github.com/jason-alvarez-data)
 -[Stacy Jacqueen](https://github.com/Jacquee18)
 -[Isha](https://github.com/Isha-cpu)
 - [Danyal Ejaz](https://github.com/danyalejaz)
+- [Varun Patel](https://github.com/varunpatel07)
+- anuj bhiasal
 - [JFK]
 - [LSR]
 - [Somssi Pathania](https://github.com/SOMSSI2110)
 -[Jakob Martin] (https://github.com/jakobistjakob)
 -[Manish Bisen] (https://github.com/bisen-del)
 - [Stelios Gee](https://github.com/SteliosGee)
+- [Arslanaka](https://github.com/arslanaka)
 - [Codemanticism](https://github.com/codemanticism)
 - [Flavio Emanuele Cannavò](https://github.com/flaviocnn)
 - [eszanon](https://github.com/eszanon)
@@ -22,6 +27,7 @@ sad# Contributors
 - [Leonardo Lopes] (https://github.com/leonardo-lopes-br)
 - [Steve Armstrong] (https://github.com/W0474997SteveArmstrong)
 - Iga Meddie
+- Felicia Mayeyane (https://github.com/Felicia-Mayeyane)
 - Kate Rasheed
 - [John Caleb ⚡](https://github.com/thejohncaleb)
 - [Maria Carrera](https://github.com/MarieCourse)
@@ -38,6 +44,7 @@ sad# Contributors
 - Temmy
 - Bhavya Singla
 - [Jon Gumero](https://github.com/jongumero)
+- [Thomas Fogarty](https://github.com/Thoss24)
 - [Ana Luisa Conrado](https://github.com/anaconrado) 
 - [Alec Morris] (https://github.com/alecmarkmorris)
 - [Jaimit Patel](https://github.com/Jaimtlearn)
@@ -77,6 +84,7 @@ Daniela Anghel
 - [Felix Gomez @felixdavid12](https://github.com/felixdavid12)
 - [doudouCodingInGithub](https://github.com/doudouCodingInGithub)
 - [Alberto Pe#a](https://github.com/APC9) 🔥
+- [Abhishek Sharma](https://github.com/Abhisheksharmao)
 - Kim Finical
 -deepika
 - jephthah folarin senu
@@ -200,6 +208,7 @@ Daniela Anghel
 - [Joanna McDonald](https://github.com/joannamcd)
 - [Tianna Lopes](https://github.com/TiannaLopes)
 - [nameless wizard]
+- [WaiyakiDev] (https://github.com/MONSURU-rgb)
 - [toya33](https://github.com/toya33)
 - [Oluwasemilore Omotade-Michaels](https://github.com/shemigam1)
 - [angrezichatterbox](https://github.com/angrezichatterbox) My First Commit
@@ -212,6 +221,8 @@ Daniela Anghel
 - [Itsuki54](https://github.com/Itsuki54)
 - [Maitri Dalvi](https://github.com/maitri-dalvi)
 - Emily :)
+- [Kalash](https://github.com/Kalash-C1)
+- [Ryan Dallimore](https://github.com/rdallim2)
 - [Tim the First](https://github.com/tjr214) # Thank you!
 - [Aniket Botre](https://github.com/Aniket200-ind)
 - [Harsha S](https://github.com/harsha-likes-to-code) ^_^
@@ -220,6 +231,7 @@ Daniela Anghel
 - [hg1414](https://github.com/hg1414)
 - [mpousmali](https://github.com/mpousmali)
 - [GreenWeegeeCantCode](https://github.com/GreenWeegeeCantCode)
+- [DPHung]
 - [Angelica Michaca](https://github.com/Angelica-Michaca)
 - [Sivapannier]
 - [Arthur Griffith](https://github.com/agriffith18)
@@ -227,6 +239,7 @@ Daniela Anghel
 - [Catherine Mokgothu](https://github.com/catherinemokgothu)
 - [Milind Dhamu](https://github.com/milinddhamu)
 - [Tony B. Nya](https://github.com/tonybnya)
+- [Sinchana Kumbale](https://github.com/sinchana-kumbale)
 - [Adrià Escandell](https://github.com/AdriiE17)
 - [Roberto Cárdenas](https://github.com/BrokenRoto)
 - [Siddhesh Parate](https://github.com/Siddhesh877)
@@ -767,6 +780,7 @@ Alexander
 - [Taylor Cottrell](https://github.com/tlcottr)
 - [HWu](https://github.com/Aucannot)
 - [JJM](https://github.com/Jiaming-Jin)
+- [OneSrX](https://github.com/OneSrX)
 - [Ifeoluwah](https://github.com/ifeoluwah21)
 - [Avinash N](https://github.com/AviN27)
 - [Dbecausing](https://github.com/dbecausing)
@@ -796,6 +810,7 @@ Alexander
 - [Amin Khalsi]
 - [Venkatraj](https://github.com/ivenkatraj)
 - [Buse Dağıdır](https://github.com/busedagidir)
+- [Karulina Alencar](https://github.com/karolalencar)
 - [Jake Abed](https://github.com/jake-abed)
 - [Agunbiade Aishat](https://github.com/yeeshadev)
 - [Br0wnReculse](https://github.com/br0wnrecluse)
@@ -971,6 +986,7 @@ Alexander
 - [TechTaleFusion](https://daswealth-okikiola.github.io/My-Website/)
 - [andole xavier](https://github.com/jaarabytes)
 - [Caleb Coggins](https://github.com/OnlyPolygon)
+- [Vajda Örs](https://github.com/st4r-w4rs)
 - [miacodehub](https://github.com/miacodehub)
 - [jsj8051](https://github.com/jsj8051)
 - [ikhoza](https://github.com/ikhoza)
@@ -1458,3 +1474,9 @@ main
 - [Elghali Benjelloun 🚀](https://github.com/xxEBxx)
 - [Haley Marie Smith] (https://github.com/ursapictura)
 - [Richard Joseph Omega](https://github.com/arjiomega)
+- [Akash Sanjay Thakare](https://github.com/Athakare064)
+- [Ayomide Ogunlade](https://github.com/adelanaofficial)
+- [Manoranjan Kumar](https://github.com/manoranjan111)
+- [Swamyyarramsetti](https://github.com/Swamyyarramsetti)
+- [Felipe Hernández](https://github.com/felipehmora)
+- [KRAA5H](https://github.com/KRAA5Hhttps://github.com/KRAA5H)
