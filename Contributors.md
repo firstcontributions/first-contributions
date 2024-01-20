@@ -81,7 +81,7 @@ sad# Contributors
 - [doudouCodingInGithub](https://github.com/doudouCodingInGithub)
 - [Alberto Pe#a](https://github.com/APC9) 🔥
 - [Abhishek Sharma](https://github.com/Abhisheksharmao)
-- [Aswin](https://github.com/Aswin246/)
+- [Aswin Madhusudanan](https://github.com/Aswin246/)
 - Kim Finical
   -deepika
 - jephthah folarin senu
