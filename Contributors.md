@@ -30,6 +30,7 @@ sad# Contributors
 - Felicia Mayeyane (https://github.com/Felicia-Mayeyane)
 - Kate Rasheed
 - [John Caleb ⚡](https://github.com/thejohncaleb)
+- [Rey Jao](https://github.com/jao-rey)
 - [Maria Carrera](https://github.com/MarieCourse)
 - [Debapriya sengupta](https://github.com/DebapriyaSengupta28)
 - [Hoin Shin](https://github.com/signalman)
