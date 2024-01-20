@@ -212,6 +212,7 @@ Daniela Anghel
 - [Itsuki54](https://github.com/Itsuki54)
 - [Maitri Dalvi](https://github.com/maitri-dalvi)
 - Emily :)
+- [Ryan Dallimore](https://github.com/rdallim2)
 - [Tim the First](https://github.com/tjr214) # Thank you!
 - [Aniket Botre](https://github.com/Aniket200-ind)
 - [Harsha S](https://github.com/harsha-likes-to-code) ^_^
