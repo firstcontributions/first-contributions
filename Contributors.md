@@ -19,6 +19,7 @@ sad# Contributors
 - [TejoSaiSwaroop](https://github.com/tejosaiswaroop)
 - [Kores Nkoidila](https://github.com/Nkoidila)
 - Iga Meddie
+- Felicia Mayeyane (https://github.com/Felicia-Mayeyane)
 - Kate Rasheed
 - [John Caleb ⚡](https://github.com/thejohncaleb)
 - [Debapriya sengupta](https://github.com/DebapriyaSengupta28)
