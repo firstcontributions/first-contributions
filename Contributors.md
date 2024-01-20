@@ -929,4 +929,5 @@ Ti Kyi Khant
 - [Genle](https://github.com/gel-66)
 - [Aykut Bayram](https://github.com/arowana95)
 - [Gambhir Sharma](https://github.com/gambhirsharma)
+- [Ayomide Ogunlade](https://github.com/adelanaofficial)
 <!-- prettier-ignore-end -->
