@@ -1463,3 +1463,4 @@ main
 - [Haley Marie Smith] (https://github.com/ursapictura)
 - [Richard Joseph Omega](https://github.com/arjiomega)
 - [Akash Sanjay Thakare](https://github.com/Athakare064)
+- [Ayomide Ogunlade](https://github.com/adelanaofficial)
