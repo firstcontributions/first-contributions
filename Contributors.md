@@ -647,6 +647,7 @@ Daniela Anghel
 - [Gabriele-Dotcom](https://github.com/Gabriele-Dotcom)
 - [Kent Howell](https://github.com/khowellmobile)
 - [KonerDev] (https://github.com/KonerDev)
+- [MacMatthew](https://github.com/macmatthew)
 - [Marius Užemeckas](https://github.com/39015745)
 - [Abhishek kar](https://github.com/noob-coder497)
 - [Kornél Tomai] (https://github.com/korneltomai)
