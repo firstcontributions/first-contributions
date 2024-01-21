@@ -97,6 +97,7 @@ Daniela Anghel
 - [Yor-Jihons](https://github.com/Yor-Jihons)
 - [tayobaki] (https://github.com/tayobaki)
 - [Charles Sanders @visionthex](https://github.com/visionthex)
+- [Edmond Neziraj](https://github.com/EdmondNeziraj)
 - [Felix Gomez @felixdavid12](https://github.com/felixdavid12)
 - [doudouCodingInGithub](https://github.com/doudouCodingInGithub)
 - [Alberto Pe#a](https://github.com/APC9) 🔥
