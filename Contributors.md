@@ -258,6 +258,7 @@ Daniela Anghel
 - [Agneepradeep Verma](https://github.com/agneepradeep)
 - [Aurélien Lainé](https://github.com/aurelien81)
 - [Pikachu]
+- [Camilo Sanchez](https://github.com/fairchild-interactive/first-contributions)
 - [Ajay]
 - [Ubaid]
 - [Maximilian Ganske] (https://github.com/MaxGanske)
