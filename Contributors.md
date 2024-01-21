@@ -15,6 +15,7 @@ sad# Contributors
 - [Danyal Ejaz](https://github.com/danyalejaz)
 - [Varun Patel](https://github.com/varunpatel07)
 - anuj bhiasal
+-sushil maurya
 - [JFK]
 - [LSR]
 - [Somssi Pathania](https://github.com/SOMSSI2110)
