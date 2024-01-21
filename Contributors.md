@@ -71,6 +71,7 @@ sad# Contributors
 - [Ala Gowtham Siva Kumar](https://github.com/gowtham-2oo5) 
 - [Swapnilkumar Dwivedi](https://github.com/swappy-2003)
 - [Annuar](https://github.com/ramo-dev)
+- [Mike Mclean](https://github.com/Mike-Mclean)
 - [Brian Kyalo](https://github.com/kyalo3)
 - [Hermoine]
 - [Ch.Varun]
