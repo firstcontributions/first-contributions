@@ -70,6 +70,7 @@ sad# Contributors
 - [Annuar](https://github.com/ramo-dev)
 - [Brian Kyalo](https://github.com/kyalo3)
 - [Hermoine]
+- [Ch.Varun]
 - [Tomer Hadar](https://github.com/Tomerki)
 - [Aman](https://github.com/AmanWebDev2)
 - [Shrey joshi](https://github.com/Shreyyy07)
