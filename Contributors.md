@@ -1496,3 +1496,4 @@ Alexander
 - [KRAA5H](https://github.com/KRAA5H)
 - [Bassem Gehad](https://github.com/Bassem272)
 - [Vivesh G](https://github.com/Vivesh-G)
+- [Akshat Soni](https://github.com/akshatsonic)
