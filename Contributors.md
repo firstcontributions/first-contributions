@@ -48,6 +48,7 @@ sad# Contributors
 - [Suved Ganduri](https://github.com/Sooowayydh)
 - [Tunde Suleiman] (https://github.com/tsuleiman03)
 - Temmy
+- [Bryson Morton] (https://github.com/bryson-morton)
 - Bhavya Singla
 - Gabriele Agosta
 - [Jon Gumero](https://github.com/jongumero)
