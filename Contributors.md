@@ -1478,6 +1478,7 @@ Alexander
 - [Samar Khan](https://github.com/Samar-exe) ---- This is so Cool!!
 - [SamRB-dev](https://github.com/SamRB-dev) 
 - [tlvanfleet] (https://github.com/tlvanfleet)
+- [Jayspie] (https://github.com/Jayspie/)
 - [Shyamgowtham Murugaraj](https://github.com/ShyamgowthamMurugaraj)
 - [Auxdible](https://github.com/auxdible) Ecc. 9:10
 - [VIDAL-Antoine](https://github.com/VIDAL-Antoine)
