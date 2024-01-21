@@ -16,6 +16,7 @@ sad# Contributors
 - [Varun Patel](https://github.com/varunpatel07)
 - anuj bhiasal
 - [JFK]
+-[j.f .keneddy]
 - [LSR]
 - [Somssi Pathania](https://github.com/SOMSSI2110)
 -[Jakob Martin] (https://github.com/jakobistjakob)
