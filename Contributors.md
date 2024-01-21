@@ -122,6 +122,7 @@ Daniela Anghel
 - [Rose Liu](https://github.com/BlueRosy) An interesting contribution experience! Thanks. 🩷🩵
 - [Yufa Zhou](https://github.com/MasterZhou1)
 - [Robin Van Persie](https://github.com/rvp20)
+- [Siddhartha Verma](https://github.com/SidVer312) <33
 - [Alex Terskin] (https://github.com/ATerskin)
 - [Bhargav](https://github.com/thotabhargav123)
 - [Kevin Peng](https://github.com/kpeng66)
