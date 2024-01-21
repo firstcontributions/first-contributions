@@ -18,6 +18,7 @@ sad# Contributors
 - [LSR]
 - [Somssi Pathania](https://github.com/SOMSSI2110)
 -[Jakob Martin] (https://github.com/jakobistjakob)
+-[Tharanishwaran] (https://github.com/Tharanishwaran)
 -[Manish Bisen] (https://github.com/bisen-del)
 - [Stelios Gee](https://github.com/SteliosGee)
 -[Chandra Mohan](https://github.com/chandramohan0/)
