@@ -20,7 +20,7 @@ sad# Contributors
 - [Arslanaka](https://github.com/arslanaka)
 - [Codemanticism](https://github.com/codemanticism)
 - [Flavio Emanuele Cannavò](https://github.com/flaviocnn)
-- [trup](https://github.com/trup922)
+- [trup922](https://github.com/trup922)
 - [eszanon](https://github.com/eszanon)
 - [TejoSaiSwaroop](https://github.com/tejosaiswaroop)
 - [Kores Nkoidila](https://github.com/Nkoidila)
