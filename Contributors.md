@@ -719,6 +719,7 @@ Alexander
 - [Mateus Lucchese](https://github.com/mateuslucch)
 - [Zain-Alabdeen](https://github.com/zainalabdeen)
 - [AhmadMustafa01](https://github.com/AhmadMustafa01)
+- [aromko 👨‍💻](https://github.com/aromko)
 - [jithinphilip](https://github.com/jithinphilip347)
 - [michik0](https://github.com/michik0)
 - [TimotheeMarreroMeyer](https://github.com/TimotheeMarreroMeyer)
