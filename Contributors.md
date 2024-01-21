@@ -1406,6 +1406,7 @@ Alexander
 -[crisdebo0723](https://github.com/crisdebo0723)
 -[David Achoy](https://github.com/Davidachoy)
 -[Luka Radic](https://github.com/Lukaradic) 
+-[Kaz Smino](https://github.com/Kaz-Smino)
 -[Terry McKiernan](https://github.com/UglySoftware)
 -[Pratham Mehta](https://github.com/pratham2609)
 - [Kiyan Nan](https://github.com/Kiyannan)
@@ -1460,7 +1461,6 @@ Alexander
 - [Andrija1232](https://github.com/andrija1232)
 - [Christian Daher](https://github.com/ChristianDaher)
 - [Lekha Pillai](https://github.com/lekspil2)
-main
 - [weigangs](https://github.com/weigangs)
 - [adambala](https://github.com/adambala)
 - [SantixDesigner](https://github.com/SantixDesigner)
