@@ -310,6 +310,7 @@ Daniela Anghel
 - [Mohammed Hamid](https://github.com/MdHamid06)
 - [SurendharGN](https://github.com/SurendharGN)
 - [Yashas-naidu](https://github.com/Yashas-naidu)
+- [tejas-mn] (https://github.com/tejas-mn)
 - [Spencer Craigie](https://github.com/sscraigie)
 - [Niraj Giri](https://github.com/nirajgiriXD)
 - [Onyedikachi Amaechi-Okorie](https://github.com/Honyii)
