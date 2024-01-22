@@ -20,6 +20,7 @@ sad# Contributors
 - [JFK]
 -[j.f .keneddy]
 - [LSR]
+- [Yeressil Taupiyk](https://github.com/BalmundSM)
 -[Arshadakl] ()
 - [Somssi Pathania](https://github.com/SOMSSI2110)
 - [Albert Byrone](https://github.com/Albert-Byrone)
