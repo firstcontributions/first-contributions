@@ -80,6 +80,7 @@ sad# Contributors
 - [Mike Mclean](https://github.com/Mike-Mclean)
 - [Brian Kyalo](https://github.com/kyalo3)
 - [Hermoine]
+- [Uday Raj]
 - [Ch.Varun]
 - [Tomer Hadar](https://github.com/Tomerki)
 - [Aman](https://github.com/AmanWebDev2)
@@ -109,6 +110,7 @@ Daniela Anghel
 - [Alberto Pe#a](https://github.com/APC9) 🔥
 - [Abhishek Sharma](https://github.com/Abhisheksharmao)
 - Kim Finical
+
 -deepika
 - jephthah folarin senu
 - Omkar Tavva
