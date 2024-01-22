@@ -41,6 +41,7 @@ sad# Contributors
 - Kate Rasheed
 - [John Caleb ⚡](https://github.com/thejohncaleb)
 - [Rey Jao](https://github.com/jao-rey)
+- [Eiheir] (https://github.com/ebininin)
 - [Maria Carrera](https://github.com/MarieCourse)
 - [Debapriya sengupta](https://github.com/DebapriyaSengupta28)
 - [Hoin Shin](https://github.com/signalman)
