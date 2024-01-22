@@ -135,6 +135,7 @@ Daniela Anghel
 - [Ignacio Elìas Rosner](https://github.com/roznerx)
 - [MTHS](https://github.com/MTHS)
 - [EvinExiNiTy](https://github.com/Evinexinity)
+- [Daley Nyae](https://github.com/nyae44)
 - [Matthew Z](https://github.com/GitwithAbba)
 - [Patrick C](https://github.com/patrickcap)
 - [Aditya Gupta](https://github.com/Deadlock-exe)
