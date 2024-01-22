@@ -24,6 +24,7 @@ sad# Contributors
 - [Yeressil Taupiyk](https://github.com/BalmundSM)
 -[Arshadakl] ()
 - [Somssi Pathania](https://github.com/SOMSSI2110)
+- [Lakshya Mishra](https://github.com/mishrlaksh)
 - [Albert Byrone](https://github.com/Albert-Byrone)
 -[Jakob Martin] (https://github.com/jakobistjakob)
 [Tharanishwaran] (https://github.com/Tharanishwaran)
