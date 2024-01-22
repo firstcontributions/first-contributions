@@ -137,6 +137,7 @@ Daniela Anghel
 - [Cameron Johnson](https://github.com/will-fork-for-food)
 - [Ignacio Elìas Rosner](https://github.com/roznerx)
 - [MTHS](https://github.com/MTHS)
+- [Aristide Legba](https://github.com/aristidelegba)
 - [EvinExiNiTy](https://github.com/Evinexinity)
 - [Daley Nyae](https://github.com/nyae44)
 - [Matthew Z](https://github.com/GitwithAbba)
