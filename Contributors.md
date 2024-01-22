@@ -205,6 +205,7 @@ Daniela Anghel
 - [Kazuho](https://github.com/kzhgit)
 - [kmkkiii](https://github.com/kmkkiii) 🐢
 - [Kevin Subbotin](https://github.com/KevinSubbotin)
+- [Emmanuel Yegon](https://github.com/emmanuel-yegon)
 - [Rahul S Srivastava](https://github.com/Rahul-Srivastava-21)
 - [Aksh Walia](https://github.com/akshwalia)
 - [Srishti Agarwal] (https://github.com/srishtiagarwall)
