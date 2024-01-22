@@ -16,6 +16,7 @@ sad# Contributors
 - anuj bhiasal
 - [JFK]
 - [LSR]
+- [Paras]
 - [Somssi Pathania](https://github.com/SOMSSI2110)
 -[Jakob Martin] (https://github.com/jakobistjakob)
 -[Manish Bisen] (https://github.com/bisen-del)
