@@ -1,6 +1,7 @@
 sad# Contributors
 - [gpalacios26] (https://github.com/gpalacios26/curso-git-fork)
 - [Whitehackerneth](https://github.com/Whitehackerneth/first-contributions)
+- [Simons Arhin](https://github.com/simonskayi)
 - [Abdelwakil](https://github.com/fondbcn)
 - [brunoblaise](https://github.com/brunoblaise)
 - test
