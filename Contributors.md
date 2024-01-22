@@ -16,6 +16,7 @@ sad# Contributors
 -[Isha](https://github.com/Isha-cpu)
 - [Danyal Ejaz](https://github.com/danyalejaz)
 - [Varun Patel](https://github.com/varunpatel07)
+- [Stephen Ng](https://github.com/snust)
 - anuj bhiasal
 -sushil maurya
 - [JFK]
