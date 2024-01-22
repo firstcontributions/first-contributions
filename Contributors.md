@@ -773,6 +773,7 @@ Alexander
 - [hawkingwallct](https://github.com/hawkingwallct)
 - [Flyaway](https://github.com/kayua27)
 - [Eyal-Haimov](htpps://github.com/blindka)
+- [Damian Kurkowicz](https://github.com/Kurkov11)
 - [Alan](https://github.com/AlanThisis)
 - [Flynn](https://github.com/farthaz)
 - [Rahul Jindal](https://github.com/rahuljindal1)
