@@ -17,6 +17,7 @@ sad# Contributors
 - [JFK]
 - [LSR]
 - [Somssi Pathania](https://github.com/SOMSSI2110)
+- [Albert Byrone](https://github.com/Albert-Byrone)
 -[Jakob Martin] (https://github.com/jakobistjakob)
 -[Manish Bisen] (https://github.com/bisen-del)
 - [Stelios Gee](https://github.com/SteliosGee)
