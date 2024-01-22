@@ -1522,3 +1522,4 @@ Alexander
 - [ER. RE](https://github.com/ermix3)
 - [Akshat Soni](https://github.com/akshatsonic)
 - [Ahmed Safwat](https://github.com/ahmed-881994)
+- [AMAL OUSEPH](https://github.com/pantherblack34)
