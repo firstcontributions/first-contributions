@@ -1526,6 +1526,7 @@ Alexander
 - [Krzysztof Horodowicz](https://github.com/morfi1983)
 - [Elghali Benjelloun 🚀](https://github.com/xxEBxx)
 - [Haley Marie Smith] (https://github.com/ursapictura)
+- [Clarissa Cheung] (https://github.com/Lyra126)
 - [Richard Joseph Omega](https://github.com/arjiomega)
 - [Akash Sanjay Thakare](https://github.com/Athakare064)
 - [Ayomide Ogunlade](https://github.com/adelanaofficial)
