@@ -1032,6 +1032,7 @@ Alexander
 - [Kashish Jain](https://github.com/jkashish18)
 - [wikara gunawan](https://github.com/lactobacil)
 - [TechTaleFusion](https://daswealth-okikiola.github.io/My-Website/)
+- [Mersad Rezazadeh](https://github.com/mersadrezazadeh)
 - [andole xavier](https://github.com/jaarabytes)
 - [Caleb Coggins](https://github.com/OnlyPolygon)
 - [Vajda Örs](https://github.com/st4r-w4rs)
