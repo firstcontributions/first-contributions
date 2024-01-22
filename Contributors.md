@@ -23,6 +23,7 @@ sad# Contributors
 - anuj bhiasal
 -sushil maurya
 - [JFK]
+- [Claudio Jara](https://github.com/claudiojara)
 -[j.f .keneddy]
 - [LSR]
 - [Yeressil Taupiyk](https://github.com/BalmundSM)
