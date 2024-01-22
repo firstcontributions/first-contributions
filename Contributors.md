@@ -303,6 +303,7 @@ Daniela Anghel
 - [Ron Mordokhovich] (https://github.com/RonMordo)
 - [DylanCo](https://github.com/DylanCoexel)
 - [Saurav Kumar Mishra](https://github.com/sauravkm)
+- [André Wlodkovski](https://github.com/andrewlod)
 - [Kim La](https://github.com/ktla99)
 - [Nayan Choudhary](https://github.com/nayanchoudhary31)
 - [Johnathan]
