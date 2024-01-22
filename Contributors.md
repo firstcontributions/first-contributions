@@ -65,6 +65,7 @@ sad# Contributors
 - [Alec Morris] (https://github.com/alecmarkmorris)
 - [Jaimit Patel](https://github.com/Jaimtlearn)
 - Rapheal Suber - https://github.com/manyworldss 
+- [Fay] (https://github.com/notfay)
 - [Vinuthna](https://github.com/vinuthna29)
 - [Atif Abedeen](https://github.com/atifabedeen)
 - [Feven Seyfu](https://github.com/FevenSeyfu)
