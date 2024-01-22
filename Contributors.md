@@ -1,5 +1,6 @@
 sad# Contributors
-- [gpalacios26] (https://github.com/gpalacios26/curso-git-fork)
+- [gpalacios26](https://github.com/gpalacios26/curso-git-fork)
+- [Ritam Sarkar](https://github.com/RSGameTech)
 - [Abdelwakil](https://github.com/fondbcn)
 - [brunoblaise](https://github.com/brunoblaise)
 - test
@@ -7,35 +8,35 @@ sad# Contributors
 - [Rudhram Saraswat](https://github.com/RUDHRAM01)
 - [Dave Friedman](https://github.com/heracliteanflux)
 - [Vicente Guzmán](https://vicenteguzman.com/)
-- [DAKSH] (https://github.com/Daksh-codes)
-- [Andrew Zhou] (https://github.com/AndrewZhouMQ123)
-- [Jason Alvarez] (https://github.com/jason-alvarez-data)
--[Stacy Jacqueen](https://github.com/Jacquee18)
--[Isha](https://github.com/Isha-cpu)
+- [DAKSH](https://github.com/Daksh-codes)
+- [Andrew Zhou](https://github.com/AndrewZhouMQ123)
+- [Jason Alvarez](https://github.com/jason-alvarez-data)
+- [Stacy Jacqueen](https://github.com/Jacquee18)
+- [Isha](https://github.com/Isha-cpu)
 - [Danyal Ejaz](https://github.com/danyalejaz)
 - [Varun Patel](https://github.com/varunpatel07)
 - anuj bhiasal
--sushil maurya
+- sushil maurya
 - [JFK]
--[j.f .keneddy]
+- [j.f .keneddy]
 - [LSR]
 - [Somssi Pathania](https://github.com/SOMSSI2110)
--[Jakob Martin] (https://github.com/jakobistjakob)
-[Tharanishwaran] (https://github.com/Tharanishwaran)
--[Manish Bisen] (https://github.com/bisen-del)
+- [Jakob Martin](https://github.com/jakobistjakob)
+- [Tharanishwaran](https://github.com/Tharanishwaran)
+- [Manish Bisen](https://github.com/bisen-del)
 - [Stelios Gee](https://github.com/SteliosGee)
--[Chandra Mohan](https://github.com/chandramohan0/)
+- [Chandra Mohan](https://github.com/chandramohan0/)
 - [Arslanaka](https://github.com/arslanaka)
 - [Codemanticism](https://github.com/codemanticism)
 - [Flavio Emanuele Cannavò](https://github.com/flaviocnn)
 - [eszanon](https://github.com/eszanon)
 - [TejoSaiSwaroop](https://github.com/tejosaiswaroop)
-[ronny mekin]
+- [ronny mekin]
 - [Kores Nkoidila](https://github.com/Nkoidila)
-- [Leonardo Lopes] (https://github.com/leonardo-lopes-br)
-- [Steve Armstrong] (https://github.com/W0474997SteveArmstrong)
+- [Leonardo Lopes](https://github.com/leonardo-lopes-br)
+- [Steve Armstrong](https://github.com/W0474997SteveArmstrong)
 - Iga Meddie
-- Felicia Mayeyane (https://github.com/Felicia-Mayeyane)
+- [Felicia Mayeyane](https://github.com/Felicia-Mayeyane)
 - Kate Rasheed
 - [John Caleb ⚡](https://github.com/thejohncaleb)
 - [Rey Jao](https://github.com/jao-rey)
@@ -43,7 +44,7 @@ sad# Contributors
 - [Debapriya sengupta](https://github.com/DebapriyaSengupta28)
 - [Hoin Shin](https://github.com/signalman)
 - [Jon Brennan 🧑🏻‍💻👾🎵](https://github.com/jbshryne)
-- [Anirudha Pradumna Tiwari] (https://github.com/anirudhaptiwari)
+- [Anirudha Pradumna Tiwari](https://github.com/anirudhaptiwari)
 - [Muhammad Ans Khan 🧑🏻‍💻](https://github.com/Muhammad-AnasKhan)
 - [Jon Compton](https://github.com/joncompton)
 - [Shubham kumar](https://github.com/Shubham9384235)
