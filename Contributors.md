@@ -924,6 +924,7 @@ Alexander
 - [WADA Yusuke](https://github.com/wxy-zzz)
 - [Kartik](https://github.com/Kartik1932)
 - [Not4sure](https://github.com/Not4sure)
+- [WrenVin] (<https://github.com/WrenVin>)
 - [Magframed](https://github.com/SarthakH19)
 - [Kushal](https://github.com/kushal-p1699)
 - [Akshith](https://github.com/Akshith1998)
