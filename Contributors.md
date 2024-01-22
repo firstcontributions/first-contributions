@@ -640,6 +640,7 @@ Daniela Anghel
 - [yunmaoQu](https://github.com/yunmaoQu)
 - [Kamari M.](https://github.com/Kamari93)
 - [Pablo Zurita Lozano](https://github.com/PZL2004)
+- [Sumedha Koranga](https://github.com/sumedhakoranga)
 - [Moataz Amr](https://github.com/moataz77716)
 - [PeKaStLa](https://github.com/PeKaStLa/)
 - [Sultan Mahmud](https://github.com/kaziiriad)
