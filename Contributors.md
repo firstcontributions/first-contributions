@@ -20,6 +20,7 @@ sad# Contributors
 -[j.f .keneddy]
 - [LSR]
 - [Somssi Pathania](https://github.com/SOMSSI2110)
+- [Albert Byrone](https://github.com/Albert-Byrone)
 -[Jakob Martin] (https://github.com/jakobistjakob)
 [Tharanishwaran] (https://github.com/Tharanishwaran)
 -[Manish Bisen] (https://github.com/bisen-del)
