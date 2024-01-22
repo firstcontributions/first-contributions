@@ -19,6 +19,7 @@ sad# Contributors
 - [JFK]
 -[j.f .keneddy]
 - [LSR]
+- [Yeressil Taupiyk](https://github.com/BalmundSM)
 - [Somssi Pathania](https://github.com/SOMSSI2110)
 -[Jakob Martin] (https://github.com/jakobistjakob)
 [Tharanishwaran] (https://github.com/Tharanishwaran)
