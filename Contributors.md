@@ -4,6 +4,7 @@ sad# Contributors
 - [Simons Arhin](https://github.com/simonskayi)
 - [Abdelwakil](https://github.com/fondbcn)
 - [brunoblaise](https://github.com/brunoblaise)
+- [Jason Ang](https://github.com/jasonavatarang)
 - test
 - secret
 - [Rudhram Saraswat](https://github.com/RUDHRAM01)
