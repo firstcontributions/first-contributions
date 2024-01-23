@@ -1494,6 +1494,7 @@ Alexander
 - [Jacob Ortiz](https://github.com/jacobortiz)
 - [Andy Van](https://github.com/oneandyvan)
 - [Sumire](https://github.com/SumiReCord)
+- [Jason](https://github.com/yhoo17)
 - [Nelan](https://github.com/NelanJoe)
 - [Sailando](https://github.com/fink62)
 - [Nithin](https://github.com/nithindante)
