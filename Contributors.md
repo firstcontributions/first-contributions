@@ -41,8 +41,7 @@ sad# Contributors
 - [Claudio Jara](https://github.com/claudiojara)
 -[j.f .keneddy]
 - [LSR]
-- [Yeressil Taupiyk](https://github.com/BalmundSM)
--[Arshadakl] ()
+- -[Arshadakl] (https://github.com/arshadakl)
 - [Somssi Pathania](https://github.com/SOMSSI2110)
 - [Lakshya Mishra](https://github.com/mishrlaksh)
 - [Albert Byrone](https://github.com/Albert-Byrone)
