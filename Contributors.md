@@ -771,6 +771,7 @@ Alexander
 - [Pulkit Pathak](https://gothub.com/pulkitpathak99)
 - [DingDing](https://github.com/15078010000)
 - [lillarspillars](https://github.com/lillarspillars)
+- [Vince](https://github.com/Perunu)
 - [Pocolee](https://github.com/pocolee)
 - [gunay-h](https://github.com/gunay-h)
 - [Exia](https://github.com/ooexiaoo)
