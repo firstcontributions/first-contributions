@@ -337,6 +337,7 @@ Daniela Anghel
 - Saumitra Paira
 - [Sudarshan Nikhil](https://github.com/SlimReaper15)
 - Kunal Takalkhede
+- nathosboy
 - [Mike Zeg](https://github.com/MikeZeg) 👋
 - [Jm Delas Alas](https://github.com/letandconst)
 - [Iliyan Galabov](https://github.com/iliyan-pigeon)
