@@ -1,6 +1,7 @@
 sad# Contributors
 - [Jimmy H] (https://github.com/jmhungdev)
 - [GCabane] (https://github.com/GCabane)
+- [Auwalu Hamza](https://github.com/afhamu)
 - [gpalacios26] (https://github.com/gpalacios26/curso-git-fork)
 - [Whitehackerneth](https://github.com/Whitehackerneth/first-contributions)
 - [Simons Arhin](https://github.com/simonskayi)
