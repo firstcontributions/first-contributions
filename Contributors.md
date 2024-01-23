@@ -4,6 +4,7 @@ sad# Contributors
 - [Abdelwakil](https://github.com/fondbcn)
 - [brunoblaise](https://github.com/brunoblaise)
 - test
+- [Alish-0x](https://github.com/Alish-0x)
 - secret
 - [Rudhram Saraswat](https://github.com/RUDHRAM01)
 -[ram,sam ]
