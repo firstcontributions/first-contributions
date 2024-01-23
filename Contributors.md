@@ -1564,6 +1564,7 @@ Alexander
 - [Swamyyarramsetti](https://github.com/Swamyyarramsetti)
 - [Felipe Hernández](https://github.com/felipehmora)
 - [KRAA5H](https://github.com/KRAA5H)
+- [Fernando Arturo Valerio](https://github.com/fva062001)
 - [Bassem Gehad](https://github.com/Bassem272)
 - NeutronBlues
 - [Vivesh G](https://github.com/Vivesh-G)
