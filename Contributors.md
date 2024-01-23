@@ -1504,6 +1504,7 @@ Alexander
 - [davidanam44](https://github.com/davidanam44)
 - [Sluchainost](https://github.com/Sluchainost)
 - [UdinBebek]
+- [Saka kolade] (https://github.com/fizzwic)
 -[yassire](https://github.com/yyassire)
 - [nakashi94](https://github.com/nakashi94)
 - [Edilberto Pajunar](https://github.com/edilberto-pajunar) -> Happy for my first contributions!
