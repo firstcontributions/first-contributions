@@ -67,6 +67,7 @@ sad# Contributors
 - [Rey Jao](https://github.com/jao-rey)
 - [Eiheir] (https://github.com/ebininin)
 - [Maria Carrera](https://github.com/MarieCourse)
+- [Aiman](https://github.com/PX201)
 - [Debapriya sengupta](https://github.com/DebapriyaSengupta28)
 - [Hoin Shin](https://github.com/signalman)
 - [Jon Brennan 🧑🏻‍💻👾🎵](https://github.com/jbshryne)
