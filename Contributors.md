@@ -52,6 +52,7 @@ sad# Contributors
 [ronny mekin]
 - [Kores Nkoidila](https://github.com/Nkoidila)
 - [Guru Balamurugan](https://github.com/guru-apr21)
+- [Patrick Yeung](https://github.com/eampat)
 - [Leonardo Lopes] (https://github.com/leonardo-lopes-br)
 - [Steve Armstrong] (https://github.com/W0474997SteveArmstrong)
 - Iga Meddie
