@@ -1508,6 +1508,7 @@ Alexander
 - [nakashi94](https://github.com/nakashi94)
 - [Edilberto Pajunar](https://github.com/edilberto-pajunar) -> Happy for my first contributions!
 - [Boby] 
+- [Wendy To](https://github.com/wendyt0)
 - [Jacob Ortiz](https://github.com/jacobortiz)
 - [Andy Van](https://github.com/oneandyvan)
 - [Sumire](https://github.com/SumiReCord)
