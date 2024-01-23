@@ -9,6 +9,7 @@ sad# Contributors
 - [Jason Ang](https://github.com/jasonavatarang)
 - [Whrisper](https://github.com/SChrisper)
 - test
+- [Alish-0x](https://github.com/Alish-0x)
 - secret
 - [Rudhram Saraswat](https://github.com/RUDHRAM01)
 -[ram,sam ]
