@@ -1552,6 +1552,7 @@ Alexander
 - [Felipe Hernández](https://github.com/felipehmora)
 - [KRAA5H](https://github.com/KRAA5H)
 - [Bassem Gehad](https://github.com/Bassem272)
+- NeutronBlues
 - [Vivesh G](https://github.com/Vivesh-G)
 - [ER. RE](https://github.com/ermix3)
 - [Akshat Soni](https://github.com/akshatsonic)
