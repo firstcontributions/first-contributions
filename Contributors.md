@@ -1,6 +1,7 @@
 sad# Contributors
 - [Ezeko95] (https://github.com/Ezeko95)
 - [Jimmy H] (https://github.com/jmhungdev)
+- [Ayush] (https://github.com/Aayush612)
 - [GCabane] (https://github.com/GCabane)
 - [Auwalu Hamza](https://github.com/afhamu)
 - [gpalacios26] (https://github.com/gpalacios26/curso-git-fork)
