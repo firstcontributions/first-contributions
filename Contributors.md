@@ -15,6 +15,7 @@ sad# Contributors
 - [Jason Alvarez] (https://github.com/jason-alvarez-data)
 -[Stacy Jacqueen](https://github.com/Jacquee18)
 -[Isha](https://github.com/Isha-cpu)
+-[Sahil Singh](https://github.com/Sahil-Singh-312)
 - [Danyal Ejaz](https://github.com/danyalejaz)
 - [Varun Patel](https://github.com/varunpatel07)
 - [Stephen Ng](https://github.com/snust)
