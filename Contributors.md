@@ -1562,3 +1562,4 @@ Alexander
 - [Matheosk](https://github.com/Matheosk)
 - [Tiffany Hunnicutt] (https://github.com/TiffanyLHunnicutt)
 - [Jasper Nummi] (https://github.com/jaspe136)
+- [Edwin Hallikainen] (https://github.com/EdwinHallikainen)
