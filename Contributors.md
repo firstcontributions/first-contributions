@@ -57,6 +57,7 @@ sad# Contributors
 - Xinyi Xu (https://github.com/last-dino)
 - Felicia Mayeyane (https://github.com/Felicia-Mayeyane)
 - Kate Rasheed
+- [Isabela Magalhães](https://github.com/isarbela)
 - [John Caleb ⚡](https://github.com/thejohncaleb)
 - [Rey Jao](https://github.com/jao-rey)
 - [Eiheir] (https://github.com/ebininin)
