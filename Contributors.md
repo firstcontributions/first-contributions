@@ -360,6 +360,7 @@ Daniela Anghel
 - [Nayan Choudhary](https://github.com/nayanchoudhary31)
 - [Johnathan]
 - [kamada-maki](https://github.com/kamada-maki)
+- [sway9119](https://github.com/sway9119)
 - [Hrishikesh Medhi](https://github.com/c0ckr0ach)
 - Saumitra Paira
 - [Sudarshan Nikhil](https://github.com/SlimReaper15)
