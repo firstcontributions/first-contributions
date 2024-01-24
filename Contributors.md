@@ -1,4 +1,7 @@
-sad# Contributors
+happy# Contributors
+- [Pr-nv-S] ((https://github.com/Pr-nv-S)
+- [YaelGluskin] (https://github.com/YaelGluskin)
+- [EtiGotliv] (https://github.com/EtiGotliv)
 - [theRaven-code] (https://github.com/theRaven-code)
 - [RileyM117] (https://github.com/RileyM117)
 - [Ezeko95] (https://github.com/Ezeko95)
@@ -14,6 +17,7 @@ sad# Contributors
 - [Jason Ang](https://github.com/jasonavatarang)
 - [Whrisper](https://github.com/SChrisper)
 - [WHA](https://github.com/wynehtetaung)
+- [Ishita](https://github.com/elekish)
 - test
 - [Alish-0x](https://github.com/Alish-0x)
 -[nathansims88](https://github.com/nathansims88)
@@ -43,6 +47,7 @@ sad# Contributors
 - [Claudio Jara](https://github.com/claudiojara)
 -[j.f .keneddy]
 - [LSR]
+-[.kim](https//github.com/kim8584)
 - [Yeressil Taupiyk](https://github.com/BalmundSM)
 -[Arshadakl] ()
 - [Somssi Pathania](https://github.com/SOMSSI2110)
@@ -211,6 +216,7 @@ Daniela Anghel
 - [Mohammed Siddiq Sawani](https://github.com/siddiksawani)
 - [Mohammed Sidiq](https://github.com/MohdSiddiq12)
 - [BlackSmithOfFire](I won't put my link/Sorry!But thanks)
+- [dgdck]
 - [Satyajit Patra] (https://github.com/SatyajitPatra06)
 - [bharathkanchoju](https://github.com/bharathkanchoju) I'm passionate about cybersecurity.
 - [Kyle O'Leary] (https://github.com/kyle-oleary)
@@ -353,8 +359,10 @@ Daniela Anghel
 - [André Wlodkovski](https://github.com/andrewlod)
 - [Kim La](https://github.com/ktla99)
 - [Nayan Choudhary](https://github.com/nayanchoudhary31)
+- [Katherine Tomkins](https://github.com/KatherineTomkins)
 - [Johnathan]
 - [kamada-maki](https://github.com/kamada-maki)
+- [sway9119](https://github.com/sway9119)
 - [Hrishikesh Medhi](https://github.com/c0ckr0ach)
 - Saumitra Paira
 - [Sudarshan Nikhil](https://github.com/SlimReaper15)
@@ -1079,6 +1087,7 @@ Alexander
 - [Caleb Coggins](https://github.com/OnlyPolygon)
 - [Vajda Örs](https://github.com/st4r-w4rs)
 - [miacodehub](https://github.com/miacodehub)
+- [aid-in](https://github.com/aid-in)
 - [jsj8051](https://github.com/jsj8051)
 - [ikhoza](https://github.com/ikhoza)
 - [Frank](https://github.com/Frank40790)
@@ -1601,3 +1610,8 @@ Alexander
 -[Selam] (https://github.com/Selamkd)
 -[Jay;a] (https://github.com/ToedQueen208)
 - [ksm]
+- [CptHippieh] (https://github.com/PasiParviainen)
+- [Suraj_Samal](https://github.com/surajssam)
+- [latioms](https://github.com/latioms)
+- [Laedrilga](https://github.com/Laedrilga)
+- [Mert Yağmur] (https://github.com/mertyagmur)
