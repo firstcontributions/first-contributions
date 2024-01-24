@@ -1616,3 +1616,4 @@ Alexander
 - [latioms](https://github.com/latioms)
 - [Laedrilga](https://github.com/Laedrilga)
 - [Mert Yağmur] (https://github.com/mertyagmur)
+- [Vadim Platon] (https://github.com/platonvadim)
