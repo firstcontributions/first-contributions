@@ -20,6 +20,7 @@ happy# Contributors
 - [Whrisper](https://github.com/SChrisper)
 - [WHA](https://github.com/wynehtetaung)
 - [Ishita](https://github.com/elekish)
+- [Michael](https://github.com/LucidWinter)
 - test
 -[IZ2RPN](https://github.com/iz2rpn)
 - [Alish-0x](https://github.com/Alish-0x)
