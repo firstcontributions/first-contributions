@@ -112,6 +112,7 @@ sad# Contributors
 - [Brian Kyalo](https://github.com/kyalo3)
 - [Hermoine]
 - [Ch.Varun]
+  [LiterLite](https://github.com/LiterLite)
 - [Tomer Hadar](https://github.com/Tomerki)
 - [Aman](https://github.com/AmanWebDev2)
 - [Shrey joshi](https://github.com/Shreyyy07)
