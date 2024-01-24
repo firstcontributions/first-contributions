@@ -16,6 +16,7 @@ happy# Contributors
 - [Jason Ang](https://github.com/jasonavatarang)
 - [Whrisper](https://github.com/SChrisper)
 - [WHA](https://github.com/wynehtetaung)
+- [Ishita](https://github.com/elekish)
 - test
 - [Alish-0x](https://github.com/Alish-0x)
 -[nathansims88](https://github.com/nathansims88)
