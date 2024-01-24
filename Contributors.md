@@ -3,6 +3,7 @@
 - [Sanober Sarfaraz Ahmed](https://github.com/Sanober494u)
 - [Ciberdcuk] (https://github.com/gerosantacruz)
 - [Ramyalakshmi Sundaramoorthy](https://github.com/s-ramyalakshmi)
+- [Eti Gotliv](https://github.com/EtiGotliv)
 - [Myo Min Khant](https://github.com/Myo-Min-Khant292)
 - [Lina Sundén](https://github.com/LinaSunden)
 - [Shail Shah](https://github.com/shahshail2001)
