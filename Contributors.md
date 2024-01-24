@@ -1,6 +1,7 @@
 happy# Contributors
 - [Pr-nv-S] ((https://github.com/Pr-nv-S)
 - [YaelGluskin] (https://github.com/YaelGluskin)
+- [EtiGotliv] (https://github.com/EtiGotliv)
 - [theRaven-code] (https://github.com/theRaven-code)
 - [RileyM117] (https://github.com/RileyM117)
 - [Ezeko95] (https://github.com/Ezeko95)
