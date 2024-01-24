@@ -363,6 +363,7 @@ Daniela Anghel
 - [Saurav Kumar Mishra](https://github.com/sauravkm)
 - [André Wlodkovski](https://github.com/andrewlod)
 - [Kim La](https://github.com/ktla99)
+- [Diego Rocha](https://github.com/Dark3088)
 - [Nayan Choudhary](https://github.com/nayanchoudhary31)
 - [Katherine Tomkins](https://github.com/KatherineTomkins)
 - [Johnathan]
