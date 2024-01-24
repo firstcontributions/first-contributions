@@ -1391,6 +1391,7 @@ Alexander
 - [Roshan Richard](https://github.com/richard-06)
 - [Kyle Parsotan](https://github.com/kyl67899)
 - [toedangler](https://github.com/toedangler)
+- [Kurt Ibaraki](https://github.com/kibaraki45)
 - [yashsingh](https://github.com/YashDxr)
 - [Tyler Le](https://github.com/Tylernpc)
 - [Anuj Bhati](https://github.com/anujbhati1)
