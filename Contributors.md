@@ -1512,6 +1512,7 @@ Alexander
 - [Saka kolade] (https://github.com/fizzwic)
 -[yassire](https://github.com/yyassire)
 - [nakashi94](https://github.com/nakashi94)
+- [Frankincen](https://github.com/Frankincen)
 - [Edilberto Pajunar](https://github.com/edilberto-pajunar) -> Happy for my first contributions!
 - [Boby] 
 - [Wendy To](https://github.com/wendyt0)
