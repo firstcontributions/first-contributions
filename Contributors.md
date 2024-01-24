@@ -52,6 +52,7 @@ happy# Contributors
 - [Yeressil Taupiyk](https://github.com/BalmundSM)
 -[Arshadakl] ()
 - [Somssi Pathania](https://github.com/SOMSSI2110)
+- [Gabriel Fernandes](https://github.com/gabrielfernandeswebdev)
 - [Lakshya Mishra](https://github.com/mishrlaksh)
 - [Albert Byrone](https://github.com/Albert-Byrone)
 - [Samuel Rudqvist](https://github.com/srudqvist)
