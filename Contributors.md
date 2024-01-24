@@ -33,6 +33,7 @@ happy# Contributors
 - [DAKSH] (https://github.com/Daksh-codes)
 - [Andrew Zhou] (https://github.com/AndrewZhouMQ123)
 - [Jason Alvarez] (https://github.com/jason-alvarez-data)
+- [Sylvain L] (https://github.com/sylvain-lec)
 -[Stacy Jacqueen](https://github.com/Jacquee18)
 -[Isha](https://github.com/Isha-cpu)
 - [Thiago Bezerra] (https://github.com/thiag0bezerra)
