@@ -358,6 +358,7 @@ Daniela Anghel
 - [André Wlodkovski](https://github.com/andrewlod)
 - [Kim La](https://github.com/ktla99)
 - [Nayan Choudhary](https://github.com/nayanchoudhary31)
+- [Katherine Tomkins](https://github.com/KatherineTomkins)
 - [Johnathan]
 - [kamada-maki](https://github.com/kamada-maki)
 - [sway9119](https://github.com/sway9119)
