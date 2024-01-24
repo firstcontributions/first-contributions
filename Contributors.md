@@ -618,6 +618,7 @@ Daniela Anghel
 - [Rohan Bhautoo](https://github.com/rohan-bhautoo)
 - [Jatin Kalra](https://github.com/jatinkalra17)
 - [Aditya Shibu](https://github.com/adwii-iii)
+- [Drifted Clouds](https://github.com/DriftedClouds)
 - [Amna Ahmed](https://github.com/nono5342)
 - [Shreyes Gadwalkar](https://github.com/ShreyesGadwalkar)
 - [Rithvik Shetty] (https://github.com/rithvikshetty)
