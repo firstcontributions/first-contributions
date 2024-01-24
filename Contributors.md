@@ -6,6 +6,7 @@ happy# Contributors
 - [RileyM117] (https://github.com/RileyM117)
 - [Ezeko95] (https://github.com/Ezeko95)
 - [Jimmy H] (https://github.com/jmhungdev)
+- [Atharva] (https://github.com/Atharva98)
 - [Ayush] (https://github.com/Aayush612)
 - [GCabane] (https://github.com/GCabane)
 - [Auwalu Hamza](https://github.com/afhamu)
