@@ -1617,3 +1617,4 @@ Alexander
 - [Laedrilga](https://github.com/Laedrilga)
 - [Mert Yağmur] (https://github.com/mertyagmur)
 - [Daniel Mallett] (https://github.com/danielmallett)
+- [Vadim Platon] (https://github.com/platonvadim)
