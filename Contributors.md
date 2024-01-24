@@ -66,6 +66,7 @@ happy# Contributors
 - [Stelios Gee](https://github.com/SteliosGee)
 -[Chandra Mohan](https://github.com/chandramohan0/)
 - [Arslanaka](https://github.com/arslanaka)
+Gyanendra Thakur
 - [Codemanticism](https://github.com/codemanticism)
 - [Flavio Emanuele Cannavò](https://github.com/flaviocnn)
 - [Harsh Verma](https://github.com/hv0911)
