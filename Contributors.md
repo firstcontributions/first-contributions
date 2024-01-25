@@ -24,6 +24,7 @@ happy# Contributors
 - [Ishita](https://github.com/elekish)
 - [Michael](https://github.com/LucidWinter)
 - [Phillip](gttps://github.com/PhillipSom)
+- [JakeJeongAiden](https://github.com/JakeJeongAiden/)
 - test
 -[IZ2RPN](https://github.com/iz2rpn)
 - [Alish-0x](https://github.com/Alish-0x)
