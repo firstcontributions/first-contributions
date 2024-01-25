@@ -13,6 +13,7 @@ happy# Contributors
 - [Atharva] (https://github.com/Atharva98)
 - [Ayush] (https://github.com/Aayush612)
 - [GCabane] (https://github.com/GCabane)
+- [Michael Gabriel](https://github.com/maranatha443)
 - [Auwalu Hamza](https://github.com/afhamu)
 - [gpalacios26] (https://github.com/gpalacios26/curso-git-fork)
 - [Whitehackerneth](https://github.com/Whitehackerneth/first-contributions)
