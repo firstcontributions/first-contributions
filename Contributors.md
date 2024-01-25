@@ -329,6 +329,7 @@ Daniela Anghel
 - [Milind Dhamu](https://github.com/milinddhamu)
 - [Tony B. Nya](https://github.com/tonybnya)
 - [Sinchana Kumbale](https://github.com/sinchana-kumbale)
+- [Yuvraj Singh Wahla](https://github.com/yuvraj-singh08)
 - [Adrià Escandell](https://github.com/AdriiE17)
 - [Roberto Cárdenas](https://github.com/BrokenRoto)
 - [Siddhesh Parate](https://github.com/Siddhesh877)
