@@ -1,7 +1,7 @@
 happy# Contributors
-- [Eslam AbdElhakem](https://github.com/EslamAbdElhakem)
 - [Dheeraj](https://github.com/raj1802)
 - [sanyog-pardeshi]
+- [Bruno Biaziolli](https://github.com/brunobiazi)
 - [Victor-Germano](https://github.com/vgmbs1lva)
 - [Zakaria Ait Ali](https://github.com/ZakariaAitAli)
 - [Pr-nv-S] ((https://github.com/Pr-nv-S)
@@ -53,7 +53,6 @@ happy# Contributors
 - [Sylvain L] (https://github.com/sylvain-lec)
 -[Stacy Jacqueen](https://github.com/Jacquee18)
 -[Isha](https://github.com/Isha-cpu)
--[Yahia](https://github.com/Yahia-kilany)
 - [Shubham Dhama](https://github.com/shubhamdhama108)
 - [Thiago Bezerra] (https://github.com/thiag0bezerra)
 -[Sahil Singh](https://github.com/Sahil-Singh-312)
