@@ -19,6 +19,7 @@ happy# Contributors
 - [brunoblaise](https://github.com/brunoblaise)
 - [Jason Ang](https://github.com/jasonavatarang)
 - [Whrisper](https://github.com/SChrisper)
+- [Matheus Ranzani](https://github.com/matheusranzani)
 - [WHA](https://github.com/wynehtetaung)
 - [Ishita](https://github.com/elekish)
 - [Michael](https://github.com/LucidWinter)
