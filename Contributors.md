@@ -1,4 +1,5 @@
 happy# Contributors
+- [Victor-Germano](https://github.com/vgmbs1lva)
 - [Zakaria Ait Ali](https://github.com/ZakariaAitAli)
 - [Pr-nv-S] ((https://github.com/Pr-nv-S)
 - [YaelGluskin] (https://github.com/YaelGluskin)
