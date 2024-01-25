@@ -1399,6 +1399,7 @@ Alexander
 - [EugeneBKN](https://github.com/ebuyakin)
 - [Debasish Ray](https://github.com/debasishray16)
 - [Roshan Richard](https://github.com/richard-06)
+- [tea-in-the-snow](https://github.com/tea-in-the-snow)
 - [Kyle Parsotan](https://github.com/kyl67899)
 - [toedangler](https://github.com/toedangler)
 - [Kurt Ibaraki](https://github.com/kibaraki45)
