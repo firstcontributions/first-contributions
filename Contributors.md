@@ -1658,3 +1658,4 @@ Alexander
 - [Kadyn-Jai Pearce] (https://github.com/kadynjaipearce)
 - [hndkptrs](https://github.com/hndkptrs)
 - [reid-dev](https://github.com/reid-dev)
+- [JamesWainaina](https://github.com/JamesWainaina)
