@@ -1656,3 +1656,4 @@ Alexander
 - [Vadim Platon] (https://github.com/platonvadim)
 - [Kadyn-Jai Pearce] (https://github.com/kadynjaipearce)
 - [hndkptrs](https://github.com/hndkptrs)
+- [reid-dev](https://github.com/reid-dev)
