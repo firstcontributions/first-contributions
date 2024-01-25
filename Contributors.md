@@ -166,7 +166,7 @@ Daniela Anghel
 - [Nayana N M](https://github.com/Nayana62)
 - Kim Finical
 -deepika
-- jephthah folarin senu
+- [jephthah folarin senu](https://github.com/oneflowlabs)
 - Omkar Tavva
 - [Joe]
 - [test21]
