@@ -1006,6 +1006,7 @@ Alexander
 - [Ankit Dani] (https://github.com/ankitdani)
 - [Vamshi]
 - [Joseph Mickler](https://github.com/micklerj) 
+- [Tanner Summers](https://github.com/t-summ)
 - [Arief Rahman](https://github.com/rahmanarief21)
 - [Jobayer Rahman](https://github.com/Jobayer98)
 - [Naufal Faqih K R](https://github.com/NaufR)
