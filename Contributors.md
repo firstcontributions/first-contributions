@@ -28,6 +28,7 @@ happy# Contributors
 - [Whrisper](https://github.com/SChrisper)
 - [Matheus Ranzani](https://github.com/matheusranzani)
 - [WHA](https://github.com/wynehtetaung)
+- [Captain] (https://github.com/CaptainPatel)
 - [Ishita](https://github.com/elekish)
 - [Michael](https://github.com/LucidWinter)
 - [Phillip](gttps://github.com/PhillipSom)
