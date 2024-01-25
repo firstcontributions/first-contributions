@@ -87,6 +87,7 @@ Gyanendra Thakur
 - [TejoSaiSwaroop](https://github.com/tejosaiswaroop)
 [ronny mekin]
 - [Kores Nkoidila](https://github.com/Nkoidila)
+- [Michelle Mullane](https://github.com/MichelleMullane)
 - [Guru Balamurugan](https://github.com/guru-apr21)
 - [Patrick Yeung](https://github.com/eampat)
 - [Leonardo Lopes] (https://github.com/leonardo-lopes-br)
