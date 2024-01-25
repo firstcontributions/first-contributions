@@ -5,6 +5,7 @@ happy# Contributors
 - [EtiGotliv] (https://github.com/EtiGotliv)
 - [theRaven-code] (https://github.com/theRaven-code)
 - [RileyM117] (https://github.com/RileyM117)
+- [0Notzura] (https://github.com/0Notzura)
 - [bsaltunkaya] (https://github.com/bsaltunkaya)
 - [Ezeko95] (https://github.com/Ezeko95)
 - [Jimmy H] (https://github.com/jmhungdev)
