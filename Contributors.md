@@ -11,6 +11,7 @@ happy# Contributors
 - [0Notzura] (https://github.com/0Notzura)
 - [bsaltunkaya] (https://github.com/bsaltunkaya)
 - [Ezeko95] (https://github.com/Ezeko95)
+- [Captain] (https://github.com/CaptainPatel)
 - [Jimmy H] (https://github.com/jmhungdev)
 - [Atharva] (https://github.com/Atharva98)
 - [Ayush] (https://github.com/Aayush612)
