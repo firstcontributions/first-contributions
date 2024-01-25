@@ -5,7 +5,7 @@ happy# Contributors
 - [Victor-Germano](https://github.com/vgmbs1lva)
 - [Zakaria Ait Ali](https://github.com/ZakariaAitAli)
 - [Pr-nv-S] ((https://github.com/Pr-nv-S)
-- [YaelGluskin] (https://github.com/YaelGluskin)
+- [YaelGluskin]
 - [EtiGotliv] (https://github.com/EtiGotliv)
 - [InterceptorTT] (https://github.com/InterceptorTT)
 - [theRaven-code] (https://github.com/theRaven-code)
@@ -1669,3 +1669,4 @@ Alexander
 - [reid-dev](https://github.com/reid-dev)
 - [Ahmed Saif](https://github.com/A7med373)
 - [Daniel Kenichi](https://github.com/DanielKenichi)
+- - [YaelGluskin]:(https://github.com/YaelGluskin)
