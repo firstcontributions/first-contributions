@@ -1,5 +1,4 @@
 happy# Contributors
-- [Eslam AbdElhakem](https://github.com/EslamAbdElhakem)
 - [Dheeraj](https://github.com/raj1802)
 - [sanyog-pardeshi]
 - [Victor-Germano](https://github.com/vgmbs1lva)
@@ -24,6 +23,7 @@ happy# Contributors
 - [Simons Arhin](https://github.com/simonskayi)
 - [Abdelwakil](https://github.com/fondbcn)
 - [psp0] (https://github.com/psp0)
+- [Pandolfiz] (https://github.com/Pandolfiz)
 - [brunoblaise](https://github.com/brunoblaise)
 - [Jason Ang](https://github.com/jasonavatarang)
 - [Whrisper](https://github.com/SChrisper)
@@ -53,7 +53,6 @@ happy# Contributors
 - [Sylvain L] (https://github.com/sylvain-lec)
 -[Stacy Jacqueen](https://github.com/Jacquee18)
 -[Isha](https://github.com/Isha-cpu)
--[Yahia](https://github.com/Yahia-kilany)
 - [Shubham Dhama](https://github.com/shubhamdhama108)
 - [Thiago Bezerra] (https://github.com/thiag0bezerra)
 -[Sahil Singh](https://github.com/Sahil-Singh-312)
@@ -1661,4 +1660,3 @@ Alexander
 - [Kadyn-Jai Pearce] (https://github.com/kadynjaipearce)
 - [hndkptrs](https://github.com/hndkptrs)
 - [reid-dev](https://github.com/reid-dev)
-- [Ahmed Saif](https://github.com/A7med373)
