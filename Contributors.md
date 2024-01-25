@@ -1591,6 +1591,7 @@ Alexander
 - [JustVelio] (https://github.com/justvelio)
 - [John Sandoval 🚀](https://github.com/jsandoval1)
 - [Sathurshanan Kandhasamy] (https://github.com/sathurshanan-kandhasamy)
+- [louis Gituhi] (https://github.com/louisgituhi)
 - [Cat](https://github.com/Zeddex)
 - [Lava558](https://github.com/lava558)
 - [Jawad Saeed](https://github.com/Jawamegamind)
