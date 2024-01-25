@@ -1669,4 +1669,4 @@ Alexander
 - [reid-dev](https://github.com/reid-dev)
 - [Ahmed Saif](https://github.com/A7med373)
 - [Daniel Kenichi](https://github.com/DanielKenichi)
-- - [YaelGluskin]:(https://github.com/YaelGluskin)
+- [YaelGluskin](https://github.com/YaelGluskin)
