@@ -62,6 +62,7 @@ happy# Contributors
 - [Jason Alvarez] (https://github.com/jason-alvarez-data)
 - [Sylvain L] (https://github.com/sylvain-lec)
 -[Stacy Jacqueen](https://github.com/Jacquee18)
+-[RohitkumbarRK](https://github.com/RohitkumbarRK)
 -[Isha](https://github.com/Isha-cpu)
 -[Yahia](https://github.com/Yahia-kilany)
 - [Shubham Dhama](https://github.com/shubhamdhama108)
@@ -101,6 +102,7 @@ Gyanendra Thakur
 - [eszanon](https://github.com/eszanon)
 - [TejoSaiSwaroop](https://github.com/tejosaiswaroop)
 [ronny mekin]
+-[RohitkumbarRK](https://github.com/RohitkumbarRK)
 - [Kores Nkoidila](https://github.com/Nkoidila)
 - [PatríciaRamosS](https://github.com/PatriciaRamosS)
 - [Michelle Mullane](https://github.com/MichelleMullane)
