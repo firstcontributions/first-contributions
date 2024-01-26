@@ -1590,6 +1590,7 @@ Alexander
 -[Pratham Mehta](https://github.com/pratham2609)
 - [Kiyan Nan](https://github.com/Kiyannan)
 - [EB] (https://github.com/barkai36)
+- [hiyasichuka](https://github.com/hiyasichuka)
 - [malexanderlvz](https://github.com/malexanderlvz)
 - [ponyfly](https://github.com/ponyfly)
 -[anonymous]
