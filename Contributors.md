@@ -1532,6 +1532,7 @@ Alexander
 -[Leela Bhaskar](https://github.com/leelabhaskar22)Tatakae
 -[Mikhail Wahib](https://github.com/MikhailWahib) 𓆎𓅓𓏏𓊖𓇌
 - [Hellodarkness] (https://github.com/hellodarkness) Empower yourself :)
+- [@alberto-vgs] (https://github.com/Alberto-Vgs)
 -[Alen-S-J](https://github.com/Alen-S-J)
 - [Rohail Khan](https://github.com/Rohxilk)
 -[s-kontrol](https://github.com/s-kontrol/contributions) Thank you!!!
