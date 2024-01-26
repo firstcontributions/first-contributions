@@ -468,6 +468,7 @@ Romeu Leite
 - [Heesu Han](https://github.com/han990702)
 - [Sree Vardhan]
 - [CHONG JI XUAN]
+- [Avijit Tripathi](https://github.com/avitripathi15)
 - [andrewyo44]
 - [Fexxix](https://github.com/Fexxix/first-contributions.git)
 - [James E.]
@@ -1482,6 +1483,7 @@ Alexander
 - [Yashwanth Reddy](https://github.com/yashwanthreddy28)
 - [Kaushal Lohar](https://github.com/kaushal016)
 - [Beldjoudi Wassim](https://github.com/mythsSIMOU)
+- [Avijit Tripathi](https://github.com/avitripathi15)
 - [TBroder] (https://github.com/tehillabroder)
 - [QZBrainon](https://github.com/QZBrainon)
 - [Chandrashekar](https://github.com/96068chandra) Thank you 
