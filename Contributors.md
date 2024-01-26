@@ -108,6 +108,7 @@ Gyanendra Thakur
 - [Patrick Yeung](https://github.com/eampat)
 - [Leonardo Lopes] (https://github.com/leonardo-lopes-br)
 - [Steve Armstrong] (https://github.com/W0474997SteveArmstrong)
+- Marcos
 - Iga Meddie
 - Testing purpose
 - Xinyi Xu (https://github.com/last-dino)
