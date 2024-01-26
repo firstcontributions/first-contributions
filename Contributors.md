@@ -646,6 +646,7 @@ Romeu Leite
 - [GwanBin Park](https://github.com/bgb10)
 - [Ray Yu](https://github.com/RayYu-ChunleiYu)
 - [Tal Shaked](https://github.com/talshaked-git)
+- [Ron](https://github.com/ronashkenazy)
 - [Aryan Mehta](https://github.com/aryan-mehta)
 - [Mayank Bhatnagar](https://github.com/maxH4k5s)
 - [Sab3ha](https://github.com/Sab3ha)
