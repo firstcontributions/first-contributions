@@ -100,6 +100,7 @@ Gyanendra Thakur
 - [TejoSaiSwaroop](https://github.com/tejosaiswaroop)
 [ronny mekin]
 - [Kores Nkoidila](https://github.com/Nkoidila)
+- [PatríciaRamosS](https://github.com/PatriciaRamosS)
 - [Michelle Mullane](https://github.com/MichelleMullane)
 - [Guru Balamurugan](https://github.com/guru-apr21)
 - [Patrick Yeung](https://github.com/eampat)
