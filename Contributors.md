@@ -1435,6 +1435,7 @@ Alexander
 - [Jyoti Manglani] (https://github.com/jyotimanglani)
 - [Mostafa Nabieh] (https://github.com/MostafaNabiehMourad)
 - [AbhinavSivanandhan] (https://github.com/abhinavsivanandhan)
+- [Nuh Al-Sharafi](https://github.com/N-alsharafi)
 - [Akshay P Joy ](https://github.com/akshayjoyinfo)
 - [joannarap] (https://github.com/joannarap)
 - [Amit Kumar](https://github.com/amitvish)
