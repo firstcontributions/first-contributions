@@ -999,7 +999,7 @@ Alexander
 - [alekhine](https://github.com/Src0p)
 - [Mtendekuyokwa19](https://github.com/Mtendekuyokwa19)
 - [Watpo54](https://github.com/Watpo54)
-- [VishalShevale](https://github.com/VishalShevale)
+- [PyaeSone](https://github.com/pyae198022)
 - man218:)/:(
 - [Jayakrishna_Mannem](https://github.com/Jaya-Krishna-07)
 - [Enverhan Oksuz](https://github.com/enverhann)
