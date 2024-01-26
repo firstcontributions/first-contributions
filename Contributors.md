@@ -12,6 +12,7 @@ sad# Contributors
 - [Jon Compton](https://github.com/joncompton)
 - [Shubham kumar](https://github.com/Shubham9384235)
 - [Suved Ganduri](https://github.com/Sooowayydh)
+- [Priyanshu Singh](https://github.com/priyanshu0511)
 - Temmy
 - [Atif Abedeen](https://github.com/atifabedeen)
 - [Adam Robson](https://github.com/Adam-Robson) 🧶
