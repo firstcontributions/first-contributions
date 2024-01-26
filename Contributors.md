@@ -1689,3 +1689,4 @@ Alexander
 - [David Christian](https://github.com/ChrisChloe)
 - [POQUELANDON](https://github.com/POQUELANDON)
 - [Dawid Żeleźniak](https://github.com/DawidZelezniak420)
+- [Oscar Peyron](https://github.com/peyronoscar)
