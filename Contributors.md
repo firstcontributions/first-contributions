@@ -692,6 +692,7 @@ Romeu Leite
 - [grzegorzkoszczal](https://github.com/grzegorzkoszczal)
 -[Rahul Guggilam](https://github.com/Rahulguggilam2003)
 - [Kingsley Kamkwamba](https://github.com/kamkwamba)
+- [Wesley Perrang](https://github.com/Wesley-Perrang)
 - [Judah Nii Bonney](https://github.com/JudahNii)
 - [Felicia H](https://github.com/coder02603)
 - [Ritwick Raj Makhal](https://github.com/ritwickrajmakhal)
