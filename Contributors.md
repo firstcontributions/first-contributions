@@ -1218,7 +1218,9 @@ Alexander
 - [Aman Path](https://github.com/AmanPathan)
 - [Nitin Vendidandi](https://github.com/Learningcomputers777)
 - [Ruben Maidaniuc](https://github.com/rubanyukm)
-- [Stella Ewatomi Ladegbaye](https://github.com/LadegbayeStella)
+- [Stella Ewatomi Ladegbaye](https://github.com/
+LadegbayeStella)
+- [Ejiba Sandra Chisom](https://github.com/Omadeanne)
 - [Jakub Reznak](https://github.com/jakubreznak)
 - [Xorelcodes](https://github.com/xorelcodes)
 - [flabatut](https://github.com/flabatut)
