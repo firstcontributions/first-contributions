@@ -663,6 +663,7 @@ Romeu Leite
 - [nickf2k](https://github.com/nickf2k)
 - [Harish](https://github.com/HarishI123)
 - [Edgar Dikenge](https://github.com/edgar3g)
+- [Kyle Starrett](https://github.com/kylestarrett1)
 - [Osama Ahmad](https://github.com/oahmadgit)
 - [Guillaume Muller](https://github.com/gmuller-dev)
 - Nandini Kashyap
