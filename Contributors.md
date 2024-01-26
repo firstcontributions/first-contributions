@@ -1639,6 +1639,7 @@ Alexander
 - [adambala](https://github.com/adambala)
 - [SantixDesigner](https://github.com/SantixDesigner)
 - [RungrojWK](https://github.com/RungrojWK)
+- [Eli Singh](https://github.com/readboy8)
 - [ViniJacob]
 - [Mario Tedeschi]
 - [samsonmobisa](https://github.com/samsonmobisa)
