@@ -37,7 +37,7 @@ git clone "刚才复制的 url 链接"
 
 譬如：
 ```bash
-git clone https://github.com/<Github用户名>/first-contributions.git
+git clone git@github.com:<Github用户名>/first-contributions.git
 ```
 
 'Github 用户名' 指的是你的 Github 用户名。这一步，这个操作将会克隆你账户名下 first-contributions 这个代码仓库到本地电脑上。
