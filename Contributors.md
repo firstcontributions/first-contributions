@@ -34,6 +34,7 @@ happy# Contributors
 - [Jason Ang](https://github.com/jasonavatarang)
 - [Whrisper](https://github.com/SChrisper)
 - [Matheus Ranzani](https://github.com/matheusranzani)
+- [Gabriel Ripper](https://github.com/gabripper)
 - [WHA](https://github.com/wynehtetaung)
 - [Captain] (https://github.com/CaptainPatel)
 - [Ishita](https://github.com/elekish)
