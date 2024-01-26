@@ -21,6 +21,7 @@ happy# Contributors
 - [Ayush] (https://github.com/Aayush612)
 - [GCabane] (https://github.com/GCabane)
 - [Michael Gabriel](https://github.com/maranatha443)
+- [m4tej](https://github.com/m4tej241)
 - [Auwalu Hamza](https://github.com/afhamu)
 - [Swetha Kannan](https://github.com/swethakannan12)
 - [gpalacios26] (https://github.com/gpalacios26/curso-git-fork)
@@ -173,6 +174,7 @@ Gyanendra Thakur
 - [Utkarsh Choudhary](https://github.com/KarshC)
 - Damien
 Daniela Anghel
+Romeu Leite
 - Jeremy(https://github.com/JeremyTran211)
 - Neoncephalopod
 - Rahma Mohamud
@@ -192,6 +194,7 @@ Daniela Anghel
 - Omkar Tavva
 - [Joe]
 - [test21]
+- John Wood
 -[Anjali Sachan]
 -[HP](https://github.com/Hermeshasnowings)
 - [Hemant](https://github.com/hemant187)
@@ -908,6 +911,7 @@ Alexander
 - [Amanda Monteiro](https://github.com/armontei)
 - [baba_yaga](https://github.com/Rkbp-099)
 - [Archer Chen](https://github.com/chenyongchangg)
+- [TVG2307ANL] 
 - [brandobogar](https://github.com/brandobogar)
 - [Maral Yousefi](https://github.com/Marall-Y)
 - [Elijah Love](https://elijahlove.xyz)
@@ -1690,3 +1694,5 @@ Alexander
 - [David Christian](https://github.com/ChrisChloe)
 - [POQUELANDON](https://github.com/POQUELANDON)
 - [Dawid Żeleźniak](https://github.com/DawidZelezniak420)
+- [Oscar Peyron](https://github.com/peyronoscar)
+- [Salvatore La Spata](https://github.com/salvatorelaspata)
