@@ -1087,6 +1087,7 @@ Alexander
 - [Dan Galano](https://github.com/Dan-Galano)
 - [Luthfi](https://github.com/luthfi25)
 - [Yash Patel](https://github.com)
+- [Gabriel Brindo](https://github.com/brindogabriel)
 - [Okoye Johnpaul](https://github.com/jaypee15)
 - [nonsleep1](https://github.com/nonsleep1)
 - [nonsleep1](https://github.com/nonsleep1)
