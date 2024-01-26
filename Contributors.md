@@ -1670,6 +1670,7 @@ Alexander
 - [Kadyn-Jai Pearce] (https://github.com/kadynjaipearce)
 - [hndkptrs](https://github.com/hndkptrs)
 - [reid-dev](https://github.com/reid-dev)
+-[blackinc](https://github.com/CamShr)
 - [Ahmed Saif](https://github.com/A7med373)
 - [Daniel Kenichi](https://github.com/DanielKenichi)
 - - [YaelGluskin]:(https://github.com/YaelGluskin)
