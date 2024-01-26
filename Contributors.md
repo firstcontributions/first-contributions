@@ -1471,6 +1471,7 @@ LadegbayeStella)
 - [Aiman] (https://github.com/helloaim4n)
 - [crystalyn]
 - [Nitipat Ruengsatawit](https://github.com/nitipat21)
+- [Felix](https://github.com/Feliax111)
 - [Wa]
 - [EL]
 - [bengodlewski](https://github.com/bengodlewski)
