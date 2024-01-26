@@ -1015,6 +1015,7 @@ Alexander
 - [sognatoreZ](https://github.com/sognatoreZ)
 - [Eliptik111](https://github.com/eliptik1)
 - [Eliptik1](https://github.com/eliptik1)
+- [yearofglad](https://github.com/yearofglad) 早上好
 - [cazza91](https://github.com/cazza91)
 - [sognatoreZ](https://github.com/sognatoreZ)
 - [Bolade Akinbode Akinniyi](https://github.com/beedyboy)
