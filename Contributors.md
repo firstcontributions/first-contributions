@@ -1655,6 +1655,7 @@ Alexander
 - [Fernando Arturo Valerio](https://github.com/fva062001)
 - [Bassem Gehad](https://github.com/Bassem272)
 - NeutronBlues
+- [Pedro Mota](https://github.com/pedromorini)
 - [Vivesh G](https://github.com/Vivesh-G)
 - [ER. RE](https://github.com/ermix3)
 - [Akshat Soni](https://github.com/akshatsonic)
