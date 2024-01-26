@@ -1613,6 +1613,7 @@ Alexander
 - [Zebra2](https://github.com/zebra1yw)
 - [John Chae](https://github.com/johnchae)
 - [Pyae Phyo](https://github.com/Impyaephyo)
+- [Taro E](https://github.com/taren07)
 - [Duncan] (https://github.com/duncan0801) 
 - [Bchapman] (https://github/bjchapm)
 - [Friendlycoconut] (https://github.com/friendlycoconut)
