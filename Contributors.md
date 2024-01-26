@@ -76,6 +76,7 @@ happy# Contributors
 - [Axel Valerio Ertamto](https://github.com/AxelValerioErtamto)
 - anuj bhiasal
 -sushil maurya
+- [Areeb Ahmad](https://github.com/AreebAhmad-02)
 -[Sameet Sabu](https://github.com/sameet11)
 - [BOUKARI Marfourz](https://github.com/Marfourz)
 - [JFK]
