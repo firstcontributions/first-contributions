@@ -1241,6 +1241,7 @@ LadegbayeStella)
 - [Lahari Madhusudhan](https://github.com/lahrims)
 - [Naoki Matsuoka](https://github.com/nok-mt)
 - [szl2](https://github.com/szl2)
+- [Chikodinaka Ann Anyanwu] (https://github.com/chikodiann)
 - Sujeeth
 - 1
 - [cameronMcConnell](https://github.com/cameronMcConnell)
