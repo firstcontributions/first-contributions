@@ -1,4 +1,6 @@
 happy# Contributors
+- [Dev With Krishna](https://github.com/devwithkrishna)
+- [githubofkrishnadhas](https://github.com/githubofkrishnadhas)*(https://github.com/githubofkrishnadhas)*
 - [Eslam AbdElhakem](https://github.com/EslamAbdElhakem)
 - [Dheeraj](https://github.com/raj1802)
 - [sanyog-pardeshi]
