@@ -1689,6 +1689,7 @@ Alexander
 - [Ahmed Saif](https://github.com/A7med373)
 - [Daniel Kenichi](https://github.com/DanielKenichi)
 - - [YaelGluskin]:(https://github.com/YaelGluskin)
+- [Yacine Mahdi](https://github.com/Yacine-Mahdi)
 - [adityaxx21]: (https://github.com/adityaxx21)
 - [Kshitij Dhande] (https://github.com/kshitijd-2004/)
 - [David Christian](https://github.com/ChrisChloe)
