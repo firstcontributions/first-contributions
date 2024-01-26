@@ -172,6 +172,7 @@ Gyanendra Thakur
 - [Utkarsh Choudhary](https://github.com/KarshC)
 - Damien
 Daniela Anghel
+Romeu Leite
 - Jeremy(https://github.com/JeremyTran211)
 - Neoncephalopod
 - Rahma Mohamud
