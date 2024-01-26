@@ -162,6 +162,7 @@ Gyanendra Thakur
 - [Mike Mclean](https://github.com/Mike-Mclean)
 - [Brian Kyalo](https://github.com/kyalo3)
 - [Hermoine]
+- [Uday Raj]
 - [Ch.Varun]
   [LiterLite](https://github.com/LiterLite)
 - [Tomer Hadar](https://github.com/Tomerki)
@@ -194,6 +195,7 @@ Romeu Leite
 - [Abhishek Sharma](https://github.com/Abhisheksharmao)
 - [Nayana N M](https://github.com/Nayana62)
 - Kim Finical
+
 -deepika
 - jephthah folarin senu
 - Omkar Tavva
