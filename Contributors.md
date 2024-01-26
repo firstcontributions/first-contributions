@@ -698,7 +698,7 @@ Romeu Leite
 - [Wesley Perrang](https://github.com/Wesley-Perrang)
 - [Judah Nii Bonney](https://github.com/JudahNii)
 - [Felicia H](https://github.com/coder02603)
-- [Ritwick Raj Makhal](https://github.com/ritwickrajmakhal)
+- [Ritwick Raj Makhal](https://github.com/ritwickrajmakhal
 - [Pritha Maity](https://github.com/PrithaMaity)
 - [Ejaz Khan](https://github.com/ejazkhan172)
 - [dhrinch](https://github.com/dhrinch)
