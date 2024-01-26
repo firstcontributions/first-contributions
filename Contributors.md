@@ -1675,6 +1675,7 @@ Alexander
 - [Edwin Hallikainen] (https://github.com/EdwinHallikainen)
 - [ydoow]
 -[Selam] (https://github.com/Selamkd)
+- [Harshit Halwan]
 -[Jay;a] (https://github.com/ToedQueen208)
 - [ksm]
 - [CptHippieh] (https://github.com/PasiParviainen)
