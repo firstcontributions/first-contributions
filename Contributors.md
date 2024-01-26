@@ -1608,6 +1608,7 @@ Alexander
 - [Jason](https://github.com/yhoo17)
 - [Daniel Villalobos](https://github.com/danielvilla04)
 - [Nelan](https://github.com/NelanJoe)
+- [Claire Wicher](https://github.com/GirlGeekUpNorth)
 - [Sailando](https://github.com/fink62)
 - [Nithin](https://github.com/nithindante)
 - [capnRadu] (https://github.com/capnRadu/)
