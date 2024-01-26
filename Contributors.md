@@ -280,6 +280,7 @@ Daniela Anghel
 - [Matthew C](https://github.com/matthew08069)
 -VijayVinayak
 - [David Wenk](https://github.com/thedavidwenk)
+- [Žiga Berlič](https://github.com/zigaberlic)
 - [Vikrant](https://github.com/1vikrant)
 - [AlvirElWapo](https://github.com/AlvirElWapo) 🏞️ LOOKING FOR LA CHAMBA
 - [Kazuho](https://github.com/kzhgit)
