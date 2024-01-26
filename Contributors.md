@@ -70,7 +70,7 @@ happy# Contributors
 -[Sahil Singh](https://github.com/Sahil-Singh-312)
 - [Danyal Ejaz](https://github.com/danyalejaz)
 - [Varun Patel](https://github.com/varunpatel07)
--[Jayadeep Velagapudi](https://github.com/jkvelagapudi)
+- [Jayadeep Velagapudi](https://github.com/jkvelagapudi)
 - [Stephen Ng](https://github.com/snust)
 - [Axel Valerio Ertamto](https://github.com/AxelValerioErtamto)
 - anuj bhiasal
