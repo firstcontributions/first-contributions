@@ -2,6 +2,7 @@ happy# Contributors
 - [Dev With Krishna](https://github.com/devwithkrishna)
 - [Sampei](https://github.com/minihei)
 - [githubofkrishnadhas](https://github.com/githubofkrishnadhas)*(https://github.com/githubofkrishnadhas)*
+- **[RhythmusByte](https://github.com/RhythmusByte)**
 - [kalen](https://github.com/yokalen)
 - [Eslam AbdElhakem](https://github.com/EslamAbdElhakem)
 - [Dheeraj](https://github.com/raj1802)
