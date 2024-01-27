@@ -14,6 +14,7 @@ happy# Contributors
 - [Zakaria Ait Ali](https://github.com/ZakariaAitAli)
 - [Pr-nv-S] ((https://github.com/Pr-nv-S)
 - [YaelGluskin]
+- [Shaowy05]
 - [SinaJaha] (https://github.com/SinaJaha)
 - [EtiGotliv] (https://github.com/EtiGotliv)
 - [InterceptorTT] (https://github.com/InterceptorTT)
