@@ -11,6 +11,7 @@ happy# Contributors
 - [Zakaria Ait Ali](https://github.com/ZakariaAitAli)
 - [Pr-nv-S] ((https://github.com/Pr-nv-S)
 - [YaelGluskin]
+- [SinaJaha] (https://github.com/SinaJaha)
 - [EtiGotliv] (https://github.com/EtiGotliv)
 - [InterceptorTT] (https://github.com/InterceptorTT)
 - [theRaven-code] (https://github.com/theRaven-code)
