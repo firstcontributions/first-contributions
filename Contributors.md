@@ -1755,6 +1755,7 @@ LadegbayeStella)
 - [Salvatore La Spata](https://github.com/salvatorelaspata)
 - [Gabriel Orlando](https://github.com/gorlando04)
 - [Kevin Vinicius](https://github.com/kevinviniciusjp)
+- [byWhale](https://github.com/byWhale)
 - [Rafael Andrade](https://github.com/Rafaelsonsons)
 - [Mingshuo Geng]
 - [Hansel Christopher](https://github.com/Hansel-Christopher)
