@@ -358,7 +358,10 @@ Romeu Leite
 - [WaiyakiDev] (https://github.com/MONSURU-rgb)
 - [toya33](https://github.com/toya33)
 - [Oluwasemilore Omotade-Michaels](https://github.com/shemigam1)
-- [angrezichatterbox](https://github.com/angrezichatterbox) My First Commit
+- [angrezichatterbox](https://github.com/angrezichatterbox)
+- [pavan naik](https://github.com/pavannaik321)
+- [khalid]
+My First Commit
 - [Fahim Muntasir](https://github.com/fahim-muntasir)
 - [Sai_Aung_Wann](https://github.com/AungWann)
 - [Tanvi Shetty](https://github.com/Shettytan99)
