@@ -160,6 +160,7 @@ Gyanendra Thakur
 - [Fay] (https://github.com/notfay)
 - [Vinuthna](https://github.com/vinuthna29)
 - [Atif Abedeen](https://github.com/atifabedeen)
+- [Muqeet Mughal](https://github.com/muqeetmughal)
 - [Feven Seyfu](https://github.com/FevenSeyfu)
 - [Kai Hyperion Yun](https://github.com/kaihyperion)
 - [Natnael Hailu](https://github.com/natnaelhailu)
