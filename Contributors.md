@@ -95,6 +95,7 @@ happy# Contributors
 - [Samuel Rudqvist](https://github.com/srudqvist)
 -[Jakob Martin] (https://github.com/jakobistjakob)
 [Tharanishwaran] (https://github.com/Tharanishwaran)
+[shaozhe shan](https://github.com/weepingguitar)
 -[Manish Bisen] (https://github.com/bisen-del)
 - [Stelios Gee](https://github.com/SteliosGee)
 -[Chandra Mohan](https://github.com/chandramohan0/)
