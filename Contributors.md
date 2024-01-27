@@ -487,6 +487,7 @@ Romeu Leite
 - [James E.]
 - [Arnav Gupta] -[Inthiyaz](https://github.com/S-gif-eng)
 - [Mark Louis Bernardo](https://github.com/marklouisALTER)
+- [Bernardo GE](https://github.com/geBernardo)
 - [Abdulmajid Mahadi](https://github.com/sheriifMahadi)
 - [Dann Gil Rabaya](https://github.com/thisismedg)
 - [Anup Kumar Mridha] (https://github.com/anupkumarmridha)
