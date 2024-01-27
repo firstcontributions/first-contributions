@@ -442,6 +442,7 @@ Romeu Leite
 - [kamada-maki](https://github.com/kamada-maki)
 - [sway9119](https://github.com/sway9119)
 - [Hrishikesh Medhi](https://github.com/c0ckr0ach)
+- [Akshay Ranjan](https://github.com/Yass-ryu)
 - Saumitra Paira
 - [Sudarshan Nikhil](https://github.com/SlimReaper15)
 - Kunal Takalkhede
