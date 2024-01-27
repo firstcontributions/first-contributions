@@ -518,6 +518,7 @@ Romeu Leite
 - [Geoff Jamieson](https://github.com/UnionPAC)
 - [Danny Hidayat](https://github.com/dannyhdyt)
 - [Anand Raj](https://github.com/anandr07)
+- [Nicholas Olds](https://github.com/nicholas-olds)
 - [Chandra Kant Bauri](https://github.com/Lynk4)
 - [GlitchCake](https://github.com/GlitchCake)
 - [Hasya Patel](https://github.com/hasya2107)
