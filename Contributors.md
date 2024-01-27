@@ -275,6 +275,7 @@ Romeu Leite
 - [Harishraj Selvakumar](https://github.com/ByteBender24)
 - [Lucas Balieiro](https://github.com/LucasMBalieiro) Aprendi a usar SSH finalmente ;-;
 - [Sandesh KV](https://github.com/SandeshAmin)
+- [Anthony Sudol] (https://linkedin.com/in/anthonysudol)
 - [Abhi Patil](https://github.com/Abhisucks)
 - [Xin Xiao](https://github.com/ThetNaingLin7)
 - [Onyango Jerry](No link sorry)
