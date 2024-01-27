@@ -39,6 +39,7 @@ happy# Contributors
 - [Matheus Ranzani](https://github.com/matheusranzani)
 - [Gabriel Ripper](https://github.com/gabripper)
 - [Thales Winther](https://github.com/thaleswinther)
+- [Arisa Abiko](https://github.com/arisaabiko)
 - [WHA](https://github.com/wynehtetaung)
 - [Captain] (https://github.com/CaptainPatel)
 - [Ishita](https://github.com/elekish)
