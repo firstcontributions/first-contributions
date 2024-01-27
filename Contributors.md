@@ -1608,7 +1608,7 @@ LadegbayeStella)
 - [Rohail Khan](https://github.com/Rohxilk)
 -[s-kontrol](https://github.com/s-kontrol/contributions) Thank you!!!
 -[jonasermert](https://github.com/jonasermert)
--[ivborrezo](https://github.com/ivborrezo)
+- [ivborrezo](https://github.com/ivborrezo)
 -[chad](https://github.com/chdclar16)
 -[Shemar Brown-Wright](https://github.com/shemr1)
 -[Aravind Ramaraju](https://github.com/aramaraju)
