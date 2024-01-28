@@ -120,6 +120,7 @@ Gyanendra Thakur
 [ronny mekin]
 -[RohitkumbarRK](https://github.com/RohitkumbarRK)
 - [Kores Nkoidila](https://github.com/Nkoidila)
+- [Ian McManus](https://github.com/ianmcman)
 - [PatríciaRamosS](https://github.com/PatriciaRamosS)
 - [Michelle Mullane](https://github.com/MichelleMullane)
 - [Guru Balamurugan](https://github.com/guru-apr21)
