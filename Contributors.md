@@ -66,6 +66,7 @@ happy# Contributors
 - [Kit-Kat31415926](https://github.com/Kit-Kat31415926)
 - [Luís Simas](https://github.com/luissimas)
 - [JakeJeongAiden](https://github.com/JakeJeongAiden/)
+- [Fangphire](https://github.com/fangphire)
 - test
 - [td2thinh](https://github.com/td2thinh)
 -[IZ2RPN](https://github.com/iz2rpn)
