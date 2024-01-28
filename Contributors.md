@@ -301,6 +301,7 @@ Romeu Leite
 - [Robert Judal Regalado](https://github.com/rojre1979)
 - [Fuahad] (https://github.com/fuahad)
 - [Shahmeer malik](https://github.com/shahmeermalik1)
+- [Jalithc](https://github.com/Jalithc)
 - [Ahd. Kabeer Hadi](https://github.com/Ahd-Kabeer-Hadi) 
 - [Daniel Otchere](https://github.com/ascot20)
 - [Jayesh Bagde](https://github.com/jysh-bgde) 
