@@ -59,6 +59,7 @@ happy# Contributors
 - [Ishita](https://github.com/elekish)
 - [Michael](https://github.com/LucidWinter)
 - [Phillip](gttps://github.com/PhillipSom)
+- [Kit-Kat31415926](https://github.com/Kit-Kat31415926)
 - [Luís Simas](https://github.com/luissimas)
 - [JakeJeongAiden](https://github.com/JakeJeongAiden/)
 - test
