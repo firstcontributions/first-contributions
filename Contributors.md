@@ -1778,7 +1778,7 @@ LadegbayeStella)
 - [Hansel Christopher](https://github.com/Hansel-Christopher)
 - [Anshul](https://github.com/hianshul07)
 - [back99]
-- [mzk]
+- [mzk](https://example.com)
 - [datagriff](https://github.com/datagriff)
 - [Pavan Gowda Ts](https://github.com/pavants777)
 - [Justin Hohl](https://github.com/jmhohl13)
