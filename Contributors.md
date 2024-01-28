@@ -18,6 +18,7 @@ happy# Contributors
 - [YaelGluskin]
 - [Shaowy05]
 - [SinaJaha] (https://github.com/SinaJaha)
+- [JerryHuangYu](https://github.com/jerryhuangyu)
 - [ErtugrulAktepe] (https://github.com/ertugrulaktepe)
 - [EtiGotliv] (https://github.com/EtiGotliv)
 - [InterceptorTT] (https://github.com/InterceptorTT)
