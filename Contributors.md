@@ -1,4 +1,4 @@
-happy# Contributors
+# Happy Contributors
 - [Eric]
 - [Narendherraj Senthil](https://github.com/Narendherraj)
 - [Mark](https://github.com/m-stanleysk)
