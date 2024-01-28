@@ -248,6 +248,7 @@ Romeu Leite
 - [Matthew Z](https://github.com/GitwithAbba)
 - [Patrick C](https://github.com/patrickcap)
 - [Aditya Gupta](https://github.com/Deadlock-exe)
+- [Joy A](https://github.com/joyagbo)
 - [Shreya Shivratriwar](https://github.com/shreyasico)
 - [BABLU](https://github.com/bablu2b)
 - [ZarKHasM](https://github.com/ZarKHasM)
