@@ -163,6 +163,7 @@ Gyanendra Thakur
 - [Bryson Morton] (https://github.com/bryson-morton)
 - Bhavya Singla
 - Gabriele Agosta
+- [Ricardo Gomes](https://github.com/ricardogomes)
 - [Max]
 - [Jon Gumero](https://github.com/jongumero)
 - [Thomas Fogarty](https://github.com/Thoss24)
