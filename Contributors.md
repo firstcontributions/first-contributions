@@ -1,4 +1,5 @@
 happy# Contributors
+- [Eric]
 - [Narendherraj Senthil](https://github.com/Narendherraj)
 - [Winticloud](https://github.com/winticloud)
 - [Robiul Hossain](https://github.com/coder7475)
