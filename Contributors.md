@@ -361,6 +361,7 @@ Romeu Leite
 - [abedalavi](https://github.com/abedalavi)
 - [Zack F]
 - [Julian]
+- [Kati Saro](https://github.com/katisaro)
 - [Delton Hughes](https://github.com/dHughes97)
 - [Joanna McDonald](https://github.com/joannamcd)
 - [Tianna Lopes](https://github.com/TiannaLopes)
