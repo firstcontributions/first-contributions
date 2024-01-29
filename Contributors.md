@@ -1677,6 +1677,7 @@ LadegbayeStella)
 - [Frankincen](https://github.com/Frankincen)
 - [Edilberto Pajunar](https://github.com/edilberto-pajunar) -> Happy for my first contributions!
 - [Boby] 
+- [Shannon Sawyer] --> thanks for this resource!
 - [BenjaCarrill0] (https://github.com/BenjaCarrill0)
 - [Wendy To](https://github.com/wendyt0)
 - [Jacob Ortiz](https://github.com/jacobortiz)
