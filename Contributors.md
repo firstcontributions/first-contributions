@@ -21,6 +21,7 @@ happy# Contributors
 - [YaelGluskin]
 - [Shaowy05]
 - [shine]
+- [snowman95] (https://github.com/snowman95)
 - [SinaJaha] (https://github.com/SinaJaha)
 - [SantoshMorla] (https://github.com/SantoshMorla)
 - [ErtugrulAktepe] (https://github.com/ertugrulaktepe)
