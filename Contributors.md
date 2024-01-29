@@ -922,6 +922,7 @@ Alexander
 - [gunay-h](https://github.com/gunay-h)
 - [Exia](https://github.com/ooexiaoo)
 - [jjhen99](https://github.com/jjhen99)
+- [ctrlVnt](https://github.com/ctrlVnt)
 - [Mayank Verma](https://github.com/mayankverma2003)
 - [Mikael Hans](https://github.com/MikaelHans)
 - [Jeff Araujo](https://github.com/jeffara)
