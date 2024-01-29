@@ -11,6 +11,7 @@ happy# Contributors
 - [kalen](https://github.com/yokalen)
 - [Eslam AbdElhakem](https://github.com/EslamAbdElhakem)
 - [Dheeraj](https://github.com/raj1802)
+- [chrisgitn] (https://github.com/chrisgitn)
 - [sanyog-pardeshi]
 - [AnshJain]
 - [Gnanendra M] (https://github.com/developer-in-world)
