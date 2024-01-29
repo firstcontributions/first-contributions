@@ -964,6 +964,7 @@ Alexander
 - [Samyak Shah](https://github.com/sam10556)They Don't Know Me Son!!!!
 - [Srajal Sawner](https://github.com/Srajal16)
 - [JusiaDEV](https://github.com/JusiaDev)
+- [Jayesh](https://github.com/jayeshrdeotalu)
 - [Nehal chaudhary](https://github.com/neh666)
 - [Amanda Monteiro](https://github.com/armontei)
 - [baba_yaga](https://github.com/Rkbp-099)
