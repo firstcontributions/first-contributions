@@ -20,6 +20,7 @@ happy# Contributors
 - [matheus-silva-791085] (https://github.com/Theu011)
 - [Victor-Germano](https://github.com/vgmbs1lva)
 - [Zakaria Ait Ali](https://github.com/ZakariaAitAli)
+- [Katharzis](https://github.com/Katharzis)
 - [Pr-nv-S] ((https://github.com/Pr-nv-S)
 - [YaelGluskin]
 - [Shaowy05]
