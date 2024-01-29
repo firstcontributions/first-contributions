@@ -44,6 +44,7 @@ happy# Contributors
 - [Auwalu Hamza](https://github.com/afhamu)
 - [Swetha Kannan](https://github.com/swethakannan12)
 - [gpalacios26] (https://github.com/gpalacios26/curso-git-fork)
+- [Fahad Shoaib] (https://github.com/Fahad-S94)
 - [Ravi Teja]
 - [Whitehackerneth](https://github.com/Whitehackerneth/first-contributions)
 - [Simons Arhin](https://github.com/simonskayi)
