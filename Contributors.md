@@ -1824,3 +1824,5 @@ LadegbayeStella)
 - [Kanyisa "Kanyi" Ntombini](https://github.com/Kanyisa-Ntombini)
 - [Aditya Vashisht](https://github.com/adityavashisht9)
 - [Igvir](https://github.com/igvir)
+- [Laura Guerrero](https://github.com/lmg479)
+
