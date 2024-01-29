@@ -20,6 +20,7 @@ happy# Contributors
 - [Pr-nv-S] ((https://github.com/Pr-nv-S)
 - [YaelGluskin]
 - [Shaowy05]
+- [samandar02]
 - [shine]
 - [snowman95] (https://github.com/snowman95)
 - [SinaJaha] (https://github.com/SinaJaha)
