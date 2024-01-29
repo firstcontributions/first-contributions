@@ -1708,3 +1708,4 @@ Alexander
 - [Salvatore La Spata](https://github.com/salvatorelaspata)
 - [Gabriel Orlando](https://github.com/gorlando04)
 - [Kevin Vinicius](https://github.com/kevinviniciusjp)
+- [Kanyisa "Kanyi" Ntombini](https://github.com/Kanyisa-Ntombini)
