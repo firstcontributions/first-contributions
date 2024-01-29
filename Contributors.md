@@ -1825,4 +1825,3 @@ LadegbayeStella)
 - [Aditya Vashisht](https://github.com/adityavashisht9)
 - [Igvir](https://github.com/igvir)
 - [Laura Guerrero](https://github.com/lmg479)
-
