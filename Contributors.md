@@ -1817,3 +1817,4 @@ LadegbayeStella)
 - [Jag-Marcel] (https://github.com/Jag-Marcel)
 - [prms]
 - [Jacob Gavin] (https://gitghub.com/jacobm-gavin)
+- [Kanyisa "Kanyi" Ntombini](https://github.com/Kanyisa-Ntombini)
