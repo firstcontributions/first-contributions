@@ -80,6 +80,7 @@ happy# Contributors
 - [Matheus Ranzani](https://github.com/matheusranzani)
 - [Gabriel Ripper](https://github.com/gabripper)
 - [Thales Winther](https://github.com/thaleswinther)
+- [Anand Shende](https://github.com/anandshende)
 - [WHA](https://github.com/wynehtetaung)
 - [Captain] (https://github.com/CaptainPatel)
 - [Ishita](https://github.com/elekish)
