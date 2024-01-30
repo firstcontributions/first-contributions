@@ -26,6 +26,7 @@ happy# Contributors
 - [Zakaria Ait Ali](https://github.com/ZakariaAitAli)
 - [Katharzis](https://github.com/Katharzis)
 - [Pr-nv-S] ((https://github.com/Pr-nv-S)
+- [Pavan Badempet](https://github.com/pavanbadempet)
 - [YaelGluskin]
 - [Shaowy05]
 - [samandar02]
