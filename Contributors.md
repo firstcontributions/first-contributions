@@ -2,6 +2,7 @@ happy# Contributors
 - [Every soul will taste death.](prepare with good deeds!)
 - [Mukul Sharma](https://github.com/mukuliskul)
 - [Eric]
+- [Set Wai](https://github.com/SetWai)
 - [Dinto](https://github.com/Dinto2)
 - [Yash Kumar Saini](https://github.com/yashksaini-coder)
 - [Rohini](https://github.com/rohinigudimetla)
