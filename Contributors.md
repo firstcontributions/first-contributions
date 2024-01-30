@@ -1,4 +1,5 @@
 happy# Contributors
+- [ashrees](https://github.com/ashrees)
 - [Eric]
 - [Narendherraj Senthil](https://github.com/Narendherraj)
 - [Ankit Gupta](https://github.com/ankit-gupta-24)
@@ -1834,7 +1835,13 @@ LadegbayeStella)
 - [prms]
 - [Jacob Gavin] (https://gitghub.com/jacobm-gavin)
 - [Kanyisa "Kanyi" Ntombini](https://github.com/Kanyisa-Ntombini)
+<<<<<<< HEAD
+=======
 - [Aditya Vashisht](https://github.com/adityavashisht9)
 -[Haitao He](https://github.com/abigriver)
 - [Laura Guerrero](https://github.com/lmg479)
+<<<<<<< HEAD
 - [NxPKG](https://github.com/nxpkg)
+=======
+>>>>>>> 08844b531413ef37f3ddb0408d84d6f41262c4b9
+>>>>>>> 6b22020b9437e8b79798d75b85f749699898dace
