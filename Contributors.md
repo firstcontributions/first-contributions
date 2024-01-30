@@ -12,6 +12,7 @@ happy# Contributors
 - [kalen](https://github.com/yokalen)
 - [Eslam AbdElhakem](https://github.com/EslamAbdElhakem)
 - [Dheeraj](https://github.com/raj1802)
+- [ASJordi](https://github.com/ASJordi)
 - [chrisgitn] (https://github.com/chrisgitn)
 - [Kevin B] (https://github.com/KJBlinn01)
 - [sanyog-pardeshi]
@@ -21,6 +22,7 @@ happy# Contributors
 - [matheus-silva-791085] (https://github.com/Theu011)
 - [Victor-Germano](https://github.com/vgmbs1lva)
 - [Zakaria Ait Ali](https://github.com/ZakariaAitAli)
+- [Katharzis](https://github.com/Katharzis)
 - [Pr-nv-S] ((https://github.com/Pr-nv-S)
 - [YaelGluskin]
 - [Shaowy05]
@@ -106,6 +108,7 @@ happy# Contributors
 - [Axel Valerio Ertamto](https://github.com/AxelValerioErtamto)
 - anuj bhiasal
 -sushil maurya
+- [J-Kosm](https://github.com/J-Kosm)
 - [Areeb Ahmad](https://github.com/AreebAhmad-02)
 -[Sameet Sabu](https://github.com/sameet11)
 - [BOUKARI Marfourz](https://github.com/Marfourz)
@@ -921,6 +924,7 @@ Alexander
 - [gunay-h](https://github.com/gunay-h)
 - [Exia](https://github.com/ooexiaoo)
 - [jjhen99](https://github.com/jjhen99)
+- [ctrlVnt](https://github.com/ctrlVnt)
 - [Mayank Verma](https://github.com/mayankverma2003)
 - [Mikael Hans](https://github.com/MikaelHans)
 - [Jeff Araujo](https://github.com/jeffara)
@@ -1677,6 +1681,7 @@ LadegbayeStella)
 - [Frankincen](https://github.com/Frankincen)
 - [Edilberto Pajunar](https://github.com/edilberto-pajunar) -> Happy for my first contributions!
 - [Boby] 
+- [Shannon Sawyer] --> thanks for this resource!
 - [BenjaCarrill0] (https://github.com/BenjaCarrill0)
 - [Wendy To](https://github.com/wendyt0)
 - [Jacob Ortiz](https://github.com/jacobortiz)
@@ -1687,6 +1692,7 @@ LadegbayeStella)
 - [Nelan](https://github.com/NelanJoe)
 - [Claire Wicher](https://github.com/GirlGeekUpNorth)
 - [Sailando](https://github.com/fink62)
+- [Jimmy IO](https://github.com/jiovinejr)
 - [Nithin](https://github.com/nithindante)
 - [capnRadu] (https://github.com/capnRadu/)
 - [Zebra2](https://github.com/zebra1yw)
@@ -1819,3 +1825,9 @@ LadegbayeStella)
 - [prms]
 - [Jacob Gavin] (https://gitghub.com/jacobm-gavin)
 - [Kanyisa "Kanyi" Ntombini](https://github.com/Kanyisa-Ntombini)
+<<<<<<< HEAD
+=======
+- [Aditya Vashisht](https://github.com/adityavashisht9)
+-[Haitao He](https://github.com/abigriver)
+- [Laura Guerrero](https://github.com/lmg479)
+>>>>>>> 08844b531413ef37f3ddb0408d84d6f41262c4b9
