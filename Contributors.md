@@ -20,6 +20,7 @@ happy# Contributors
 - [chrisgitn] (https://github.com/chrisgitn)
 - [Kevin B] (https://github.com/KJBlinn01)
 - [Tindi] (https://github.com/Jtindi-cypto)
+- [Neha-Gupta] (https://github.com/nehagupta1504) 
 - [sanyog-pardeshi]
 - [Obakepi]
 - [AnshJain]
