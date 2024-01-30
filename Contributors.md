@@ -28,6 +28,7 @@ happy# Contributors
 - [Shaowy05]
 - [samandar02]
 - [shine]
+- [leviduncan] (https://github.com/leviduncan) 
 - [snowman95] (https://github.com/snowman95)
 - [SinaJaha] (https://github.com/SinaJaha)
 - [SantoshMorla] (https://github.com/SantoshMorla)
