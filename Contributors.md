@@ -17,6 +17,7 @@ happy# Contributors
 - [sanyog-pardeshi]
 - [Obakepi]
 - [AnshJain]
+- [TexelHack](https://github.com/texelh4ck)
 - [Gnanendra M] (https://github.com/developer-in-wor
 - [matheus-silva-791085] (https://github.com/Theu011)
 - [Victor-Germano](https://github.com/vgmbs1lva)
