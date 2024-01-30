@@ -22,6 +22,7 @@ happy# Contributors
 - [Tindi] (https://github.com/Jtindi-cypto)
 - [sanyog-pardeshi]
 - [Obakepi]
+- [Ngonzi Bridget](https://github.com/bree256)
 - [AnshJain]
 - [TexelHack](https://github.com/texelh4ck)
 - [Gnanendra M] (https://github.com/developer-in-wor
