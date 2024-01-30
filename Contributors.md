@@ -243,6 +243,7 @@ Gyanendra Thakur
 - [Utkarsh Choudhary](https://github.com/KarshC)
 - Damien
 Daniela Anghel
+- Leonard Sfetcu --> https://github.com/leonardsfetcu/
 Romeu Leite
 - Jeremy(https://github.com/JeremyTran211)
 - Neoncephalopod
