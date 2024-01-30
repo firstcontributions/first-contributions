@@ -1,6 +1,7 @@
 happy# Contributors
 - [Mukul Sharma](https://github.com/mukuliskul)
 - [Eric]
+- [Rohini](https://github.com/rohinigudimetla)
 - [Ankit24007] (https://github.com/ankit24007)
 - [Narendherraj Senthil](https://github.com/Narendherraj)
 - [Ankit Gupta](https://github.com/ankit-gupta-24)
