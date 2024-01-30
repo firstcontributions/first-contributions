@@ -445,6 +445,7 @@ Romeu Leite
 - [David Preradovic](https://github.com/DavideTheClown)
 - [Ankur](https://github.com/Ar7109)
 - [toryf](https://github.com/tfernandez2017)
+- [Lavinia](https://github.com/Lavinia225)
 - [Vikas](https://ithub.com/Vikas013)
 - [FlandersFrybad](https://github.com/flandersfrybad) 🍉
 - [Daris Mathew](https://github.com/darismathew92)
