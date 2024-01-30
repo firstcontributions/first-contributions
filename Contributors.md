@@ -24,6 +24,7 @@ happy# Contributors
 - [Neha-Gupta] (https://github.com/nehagupta1504) 
 - [sanyog-pardeshi]
 - [Obakepi]
+- [Ngonzi Bridget](https://github.com/bree256)
 - [AnshJain]
 - [TexelHack](https://github.com/texelh4ck)
 - [Gnanendra M] (https://github.com/developer-in-wor
