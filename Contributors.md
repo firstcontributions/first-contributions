@@ -1,6 +1,7 @@
 happy# Contributors
 - [Eric]
 - [Narendherraj Senthil](https://github.com/Narendherraj)
+- [Ankit Gupta](https://github.com/ankit-gupta-24)
 - [Mark](https://github.com/m-stanleysk)
 - [Winticloud](https://github.com/winticloud)
 - [JerryHuangYu](https://github.com/jerryhuangyu)
