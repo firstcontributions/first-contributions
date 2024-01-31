@@ -1787,7 +1787,8 @@ LadegbayeStella)
 - [Richard Washington](https://github.com/richardfwashington)
 - [anastaszi](https://github.com/anastaszi)
 - [Samar Khan](https://github.com/Samar-exe) ---- This is so Cool!!
-- [SamRB-dev](https://github.com/SamRB-dev) 
+- [SamRB-dev](https://github.com/SamRB-dev)
+- Hypothalamus
 - [tlvanfleet] (https://github.com/tlvanfleet)
 - [Jayspie] (https://github.com/Jayspie/)
 - [Shyamgowtham Murugaraj](https://github.com/ShyamgowthamMurugaraj)
