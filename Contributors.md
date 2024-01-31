@@ -1,5 +1,6 @@
 happy# Contributors
 - [Every soul will taste death.](prepare with good deeds!)
+- [De incarnated Wizard](https://github.com/AsikumaGod)
 - [Mukul Sharma](https://github.com/mukuliskul)
 - [@5atoshiNakamoto](https://github.com/5atoshiNakamoto)
 - [Eric]
