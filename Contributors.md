@@ -27,6 +27,7 @@ happy# Contributors
 - [Eslam AbdElhakem](https://github.com/EslamAbdElhakem)
 - [Dheeraj](https://github.com/raj1802)
 - [ASJordi](https://github.com/ASJordi)
+- [Sam Little](https://github.com/Moopy559)
 - [chrisgitn] (https://github.com/chrisgitn)
 - [Kevin B] (https://github.com/KJBlinn01)
 - [Tindi] (https://github.com/Jtindi-cypto)
