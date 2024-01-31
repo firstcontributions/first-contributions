@@ -4,6 +4,8 @@ happy# Contributors
 - [Lukeoson](https://github.com/lukeoson)
 - [Every soul will taste death.](prepare with good deeds!)
 - [ashrees](https://github.com/ashrees)
+- Ritam halder[I am from India]
+- Lelouch
 - [Mustafa Zariwala](https://github.com/mustafazariwala)
 - [De incarnated Wizard](https://github.com/AsikumaGod)
 - [Mukul Sharma](https://github.com/mukuliskul)
