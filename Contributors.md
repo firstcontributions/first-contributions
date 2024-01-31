@@ -82,6 +82,7 @@ happy# Contributors
 - [GCabane] (https://github.com/GCabane)
 - [Michael Gabriel](https://github.com/maranatha443)
 - [Shagun Sharma](https://github.com/shagunsharma6677)
+- [Hypothalamus](https://github.com/Hypothalamuss)
 - [m4tej](https://github.com/m4tej241)
 - [Auwalu Hamza](https://github.com/afhamu)
 - [Swetha Kannan](https://github.com/swethakannan12)
