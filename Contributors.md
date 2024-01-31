@@ -217,6 +217,7 @@ Gyanendra Thakur
 - [Helen C](https://github.com/hmczap)
 - [Kiranmai Kalla](https://github.com/KiranmaiKalla)
 - [Suved Ganduri](https://github.com/Sooowayydh)
+- [Mariusz Sobczak](https://github.com/SmoQ)
 - [Mayank Pratap Singh](https://github.com/04-mayank)
 - [Tunde Suleiman] (https://github.com/tsuleiman03)
 - Temmy
