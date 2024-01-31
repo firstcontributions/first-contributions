@@ -1,4 +1,5 @@
 happy# Contributors
+- [Mehedi Hasan Janny](https://github.com/MHJanny)
 - [Lukeoson](https://github.com/lukeoson)
 - [Every soul will taste death.](prepare with good deeds!)
 - [ashrees](https://github.com/ashrees)
