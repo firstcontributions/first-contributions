@@ -102,6 +102,7 @@ happy# Contributors
 - [Alish-0x](https://github.com/Alish-0x)
 -[nathansims88](https://github.com/nathansims88)
 -[Julius Jones](https://github.com/jlwj22)
+-[orangethefish](https://github.com/orangethefish)
 - secret
 - [Sebastian Diaz Romero] (https://github.com/im-sebs)
 - [Carlea Jean] (https://github.com/CarleaJean)
