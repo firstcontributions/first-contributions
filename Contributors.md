@@ -15,6 +15,7 @@ happy# Contributors
 - [Mark](https://github.com/m-stanleysk)
 - [Winticloud](https://github.com/winticloud)
 - [Sivasai Silla](https://github.com/sivasaisilla)
+- [Ryan Lo](https://github.com/Lo-Mein)
 - [Servet iltuzer](https://github.com/iltuzers)
 - [JerryHuangYu](https://github.com/jerryhuangyu)
 - [Robiul Hossain](https://github.com/coder7475)
