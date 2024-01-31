@@ -17,6 +17,7 @@ happy# Contributors
 - [Ankit24007] (https://github.com/ankit24007)
 - [Narendherraj Senthil](https://github.com/Narendherraj)
 - [Ankit Gupta](https://github.com/ankit-gupta-24)
+- [Devin Jay San Nicolas]
 - [Mark](https://github.com/m-stanleysk)
 - [Winticloud](https://github.com/winticloud)
 - [Sivasai Silla](https://github.com/sivasaisilla)
