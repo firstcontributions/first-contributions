@@ -20,6 +20,7 @@ happy# Contributors
 - [Jonathan Orme](http://github.com/ShadowAndFlame)
 - [Sampei](https://github.com/minihei)
 - [CharanMarasi](https:github.com/Charan-Marasi) 
+- [Rathish Kumar](https://github.com/RATHISHKUMAR07)
 - [Juvin Vinod](https://github.com/Juvinvinod)
 - [githubofkrishnadhas](https://github.com/githubofkrishnadhas)*(https://github.com/githubofkrishnadhas)*
 - [kalen](https://github.com/yokalen)
