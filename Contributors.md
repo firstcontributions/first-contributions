@@ -4,6 +4,7 @@ happy# Contributors
 - [Mukul Sharma](https://github.com/mukuliskul)
 - [@5atoshiNakamoto](https://github.com/5atoshiNakamoto)
 - [Eric]
+- [Noah]
 - [Set Wai](https://github.com/SetWai)
 - [Dinto](https://github.com/Dinto2)
 - [Yash Kumar Saini](https://github.com/yashksaini-coder)
