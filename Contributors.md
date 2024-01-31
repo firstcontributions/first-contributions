@@ -44,6 +44,7 @@ happy# Contributors
 - [YaelGluskin]
 - [Shaowy05]
 - [samandar02]
+- [kpgomez](https://github.com/kpgomez)
 - [shine]
 - [leviduncan] (https://github.com/leviduncan) 
 - [snowman95] (https://github.com/snowman95)
