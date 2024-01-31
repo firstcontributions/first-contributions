@@ -1108,6 +1108,7 @@ Alexander
 - [MichaelSoto95](https://github.com/MichaelSoto95)
 - [jeevan-aj](https://github.com/jeevan-aj)
 - [shilinwang](https://github.com/crzwzy)
+- [Taufi](https://github.com/Taufi)
 - [Jack Sighton](https://github.com/JackBerezhnov)
 - [alekhine](https://github.com/Src0p)
 - [Mtendekuyokwa19](https://github.com/Mtendekuyokwa19)
