@@ -55,6 +55,7 @@ happy# Contributors
 - [Pavan Badempet](https://github.com/pavanbadempet)
 - [YaelGluskin]
 - [Shaowy05]
+- Andy O
 - [samandar02]
 - [kpgomez](https://github.com/kpgomez)
 - [shine]
