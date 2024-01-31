@@ -199,6 +199,7 @@ Gyanendra Thakur
 - [Muhammad Ans Khan 🧑🏻‍💻](https://github.com/Muhammad-AnasKhan)
 - [Jon Compton](https://github.com/joncompton)
 - [Shubham kumar](https://github.com/Shubham9384235)
+- [Akash Dhamane](https://github.com/explore)
 - [Helen C](https://github.com/hmczap)
 - [Kiranmai Kalla](https://github.com/KiranmaiKalla)
 - [Suved Ganduri](https://github.com/Sooowayydh)
