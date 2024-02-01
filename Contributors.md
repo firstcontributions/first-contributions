@@ -1108,6 +1108,7 @@ Alexander
 - [Shreelu Santosh](https://github.com/ShreeluSantosh)
 - [A K M Jubaeir Islam](https://github.com/Zubiii333)
 - [Abhay Singh](https://github.com/Abhay-Singh-1913)
+- [Taufi2](https://github.com/Taufi)
 - [Ian Hart](https://github.com/ianahart)
 - [Van Minh Tran](https://github.com/minhtran5109)
 - [Uday Vara](https://github.com/UV26320)
