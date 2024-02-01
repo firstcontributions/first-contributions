@@ -15,6 +15,7 @@ happy# Contributors
 - [Sanjana](https://github.com/sanjana25022005)
 - [Eric]
 - [Mai Van Hoang]
+- [Ciprian] (https://github.com/borninthecoffin)
 - [Murat Tekin] (https://github.com/zxmod51)
 - [Set Wai](https://github.com/SetWai)
 - [Dinto](https://github.com/Dinto2)
