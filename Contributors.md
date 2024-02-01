@@ -15,6 +15,7 @@ happy# Contributors
 - [Sanjana](https://github.com/sanjana25022005)
 - [Eric]
 - [Mai Van Hoang]
+- [Ciprian] (https://github.com/borninthecoffin)
 - [Murat Tekin] (https://github.com/zxmod51)
 - [Set Wai](https://github.com/SetWai)
 - [Dinto](https://github.com/Dinto2)
@@ -28,6 +29,7 @@ happy# Contributors
 - [Mark](https://github.com/m-stanleysk)
 - [Winticloud](https://github.com/winticloud)
 - [Sivasai Silla](https://github.com/sivasaisilla)
+- [Ramin Holma](https://github.com/raminholma)
 - [Ryan Lo](https://github.com/Lo-Mein)
 - [Servet iltuzer](https://github.com/iltuzers)
 - [JerryHuangYu](https://github.com/jerryhuangyu)
@@ -1930,5 +1932,5 @@ LadegbayeStella)
 - [Roshan](https://github.com/roshaneleshaddai)
 - [HoangNamIO](https://github.com/hoang1510-dt)
 - [Aon Daniel Aoncoded14](https://github.com/aoncoded14)
+- [Jorge Zapata](https://github.com/gmixzapata/curso-git.git)
 - [Chisha Malama](https://github.com/Chisha2004)
-
