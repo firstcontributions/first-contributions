@@ -12,6 +12,7 @@ happy# Contributors
 - [Kalhara Tennakoon](https://github.com/kalharatennakoon)
 - [@5atoshiNakamoto](https://github.com/5atoshiNakamoto)
 - [Eric]
+- [Mai Van Hoang]
 - [Murat Tekin] (https://github.com/zxmod51)
 - [Set Wai](https://github.com/SetWai)
 - [Dinto](https://github.com/Dinto2)
