@@ -8,7 +8,7 @@ happy# Contributors
 - [Mustafa Zariwala](https://github.com/mustafazariwala)
 - [Surani Naranpanawa](https://github.com/Surani02)
 - [De incarnated Wizard](https://github.com/AsikumaGod)
-- [Mukul Sharma](https://github.com/mukuliskul)
+- [Kampit ojha](https://github.com/itskampitojha)
 - [@5atoshiNakamoto](https://github.com/5atoshiNakamoto)
 - [Eric]
 - [Murat Tekin] (https://github.com/zxmod51)
