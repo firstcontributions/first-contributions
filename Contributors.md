@@ -65,6 +65,7 @@ happy# Contributors
 - [Shaowy05]
 - Andy O
 - [samandar02]
+- [nade-em]
 - [kpgomez](https://github.com/kpgomez)
 - [shine]
 - [nahyan](https://github.com/nahyan0077/ecommerce-1-DropShip)
