@@ -13,6 +13,7 @@ happy# Contributors
 - [Kalhara Tennakoon](https://github.com/kalharatennakoon)
 - [@5atoshiNakamoto](https://github.com/5atoshiNakamoto)
 - [Sanjana](https://github.com/sanjana25022005)
+- [Jongsoo ha](https://github.com/jongsoo1203)
 - [Eric]
 - [Mai Van Hoang]
 - [Ciprian] (https://github.com/borninthecoffin)
