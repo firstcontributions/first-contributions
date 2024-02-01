@@ -1107,6 +1107,7 @@ Alexander
 - [Van Minh Tran](https://github.com/minhtran5109)
 - [Uday Vara](https://github.com/UV26320)
 - [Prabel](https://github.com/HiPrabel)
+- [Aryan Mahida](https://github.com/aryan083)
 - [Avinash Mangalore Suresh](https://github.com/msavinash)
 - [Ridhi Priya](https://github.com/Ridhi-priya)
 - [Deepak Saini](https://github.com/dipaksaini98)
