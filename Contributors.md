@@ -1649,6 +1649,7 @@ LadegbayeStella)
 - [Bill Li](https://github.com/leeklee0427)
 - [Jesse] (https://github.com/JesseMurah)
 - [Max Bailey] (https://github.com/Featho)
+- [kich-ryo](https://github.com/kich-ryo)
 - [Akbar Khotamov] (https://github.com/kingoker)
 - [Anna Muse] (https://github.com/anna-muse)
 - [tomato]
