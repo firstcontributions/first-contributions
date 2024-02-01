@@ -1,4 +1,5 @@
 happy# Contributors
+- [Mythresh](https://github.com/Joyboy57)
 - [uujeong](https://github.com/uujeong)
 - [Emchesso](https://github.com/Emchesso)
 - [Mehedi Hasan Janny](https://github.com/MHJanny)
@@ -22,6 +23,7 @@ happy# Contributors
 - [Narendherraj Senthil](https://github.com/Narendherraj)
 - [Ankit Gupta](https://github.com/ankit-gupta-24)
 - [Devin Jay San Nicolas]
+- [Noah Tonnesen](https://github.com/ntonnes)
 - [Mark](https://github.com/m-stanleysk)
 - [Winticloud](https://github.com/winticloud)
 - [Sivasai Silla](https://github.com/sivasaisilla)
