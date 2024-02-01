@@ -278,10 +278,12 @@ Gyanendra Thakur
 - Umar Samdani
 - [Smruthi Rao](https://github.com/smruthi-sumanth)
 - [Utkarsh Choudhary](https://github.com/KarshC)
+-[Kevin Kiarie](https://github.com/KingKiarie)
 - Damien
 Daniela Anghel
 - Leonard Sfetcu --> https://github.com/leonardsfetcu/
 Romeu Leite
+
 - Jeremy(https://github.com/JeremyTran211)
 - Neoncephalopod
 - Rahma Mohamud
