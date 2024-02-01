@@ -959,6 +959,7 @@ Alexander
 - [Vinia Parker](https://github.com/Lavparker)
 - Chandrakanth Kokkiripati
 - [Chandrakanth Kokkiripati] (https://github.com/Chandrakanthkokkiripati)
+- [James](https://github.com/jwunet)
 - [Samuel Rubens](https://github.com/rubenszinho)
 - [Promise Nwankwo](https://github.com/giftedpromise)
 - [wissensalt](https://github.com/wissensalt)
