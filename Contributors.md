@@ -126,6 +126,7 @@ happy# Contributors
 - [Carlea Jean] (https://github.com/CarleaJean)
 - [Rudhram Saraswat](https://github.com/RUDHRAM01)
 -[ram,sam ]
+- [Haley Berger]
 - [janGithub122] (https://github.com/janGithub122)
 - [Julius Jones] (https://github.com/jlwj22)
 - [Dave Friedman](https://github.com/heracliteanflux)
@@ -1915,3 +1916,4 @@ LadegbayeStella)
 - [snitz70](https://github.com/snitz70)
 - [LuiCK]
 - [Arash](https://github.com/ara6i)
+- [Marcus Souders](https://github.com/msoud25)
