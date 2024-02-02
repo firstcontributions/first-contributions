@@ -909,6 +909,7 @@ Romeu Leite
 - [Ziwen Ming](https://github.com/3miumi)
 - [Joise](https://github.com/Hawthorn-1010)
 - [Mtwa Mgimwa](https://github.com/cisco2001)
+- [Danny Rivas](https://github.com/DannyRivasDev)
 - [promax1113](https://github.com/promax1113)
 - [darkdevil3610](https://github.com/darkdevil3610)
 - [PJha](https://github.com/connectPjha)
