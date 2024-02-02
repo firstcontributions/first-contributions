@@ -9,6 +9,7 @@ happy# Contributors
 - [Mehedi Hasan Janny](https://github.com/MHJanny)
 - [Lukeoson](https://github.com/lukeoson)
 - [Every soul will taste death.](prepare with good deeds!)
+- [Gautam Jain](https://github.com/BloodThearch)
 - [ashrees](https://github.com/ashrees)
 - [Mustafa Zariwala](https://github.com/mustafazariwala)
 - [Surani Naranpanawa](https://github.com/Surani02)
@@ -57,6 +58,7 @@ happy# Contributors
 - [Sam Little](https://github.com/Moopy559)
 - [chrisgitn] (https://github.com/chrisgitn)
 - [Kevin B] (https://github.com/KJBlinn01)
+- [Nirmal Kumar R] (https://github.com/NIRMALraki)
 - [Tindi] (https://github.com/Jtindi-cypto)
 - [Neha-Gupta] (https://github.com/nehagupta1504)
 - [sanyog-pardeshi]
@@ -98,6 +100,7 @@ happy# Contributors
 - [Atharva] (https://github.com/Atharva98)
 - [Ayush] (https://github.com/Aayush612)
 - [Vishaal] (https://github.com/vs22202)
+- [Sergio DG](https://github.com/dgsergio)
 - [Abhinav] (https://github.com/saiabhinav75)
 - [GCabane] (https://github.com/GCabane)
 - [Michael Gabriel](https://github.com/maranatha443)
