@@ -79,6 +79,7 @@ happy# Contributors
 - Andy O
 - [samandar02]
 - [nade-em]
+- [NikhilBalthi](https://github.com/NikhilBalthi)
 - [kpgomez](https://github.com/kpgomez)
 - [shine]
 - [Jordan](https://github.com/JordanRobo)
