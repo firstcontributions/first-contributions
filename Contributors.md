@@ -4,6 +4,7 @@ happy# Contributors
 - [uujeong](https://github.com/uujeong)
 - [Ashley Hendrata](https://github.com/ashhendrata)
 - [Emchesso](https://github.com/Emchesso)
+- [Zume-z](https://github.com/Zume-z)
 - [Mehedi Hasan Janny](https://github.com/MHJanny)
 - [Lukeoson](https://github.com/lukeoson)
 - [Every soul will taste death.](prepare with good deeds!)
