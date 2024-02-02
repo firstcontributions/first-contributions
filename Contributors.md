@@ -28,6 +28,7 @@ happy# Contributors
 - [Shibli]
 - [Mai Van Hoang]
 - [Alex White](https://github.com/alexwhite116)
+- [Joseph Kharzo](https://github.com/Kharzo)
 - [Muhammad Arslan](https://github.com/muh-arslan)
 - [Ciprian] (https://github.com/borninthecoffin)
 - [Murat Tekin] (https://github.com/zxmod51)
