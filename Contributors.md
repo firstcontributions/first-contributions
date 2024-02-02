@@ -183,6 +183,7 @@ happy# Contributors
 - [Gabriel Fernandes](https://github.com/gabrielfernandeswebdev)
 - [Lakshya Mishra](https://github.com/mishrlaksh)
 - [Albert Byrone](https://github.com/Albert-Byrone)
+- [zurfjereluhmie](https://github.com/zurfjereluhmie)
 - [Samuel Rudqvist](https://github.com/srudqvist)
 -[Jakob Martin] (https://github.com/jakobistjakob)
 [Tharanishwaran] (https://github.com/Tharanishwaran)
