@@ -1,6 +1,7 @@
 happy# Contributors
 - [Mythresh](https://github.com/Joyboy57)
 - [uujeong](https://github.com/uujeong)
+- [Ashley Hendrata](https://github.com/ashhendrata)
 - [Emchesso](https://github.com/Emchesso)
 - [Mehedi Hasan Janny](https://github.com/MHJanny)
 - [Lukeoson](https://github.com/lukeoson)
