@@ -56,6 +56,7 @@ happy# Contributors
 - [Sam Little](https://github.com/Moopy559)
 - [chrisgitn] (https://github.com/chrisgitn)
 - [Kevin B] (https://github.com/KJBlinn01)
+- [Nirmal Kumar R] (https://github.com/NIRMALraki)
 - [Tindi] (https://github.com/Jtindi-cypto)
 - [Neha-Gupta] (https://github.com/nehagupta1504) 
 - [sanyog-pardeshi]
