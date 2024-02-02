@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Json Server - HTML</title>
+</head>
+<body>
+    <table id="userTable" border="1px">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>NAME</th>
+                <th>AGE</th>
+                <th>PHONE</th>
+                <th>ACTIONS</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- the data comes from the script.js -->
+        </tbody>
+    </table>
+
+    <form id="userForm">
+        <label for="userId">ID:</label>
+        <input type="text" id="userId" disabled>
+        <br>
+        <label for="userName">Name:</label>
+        <input type="text" id="userName" required>
+        <br>
+        <label for="userAge">Age:</label>
+        <input type="text" id="userAge" required>
+        <br>
+        <label for="userPhone">Phone:</label>
+        <input type="text" id="userPhone" required>
+        <br>
+        <button type="button" onclick="addUser()" id="addButton">Add User</button>
+        <button type="button" onclick="saveUser()" id="saveButton" style="display: none;">Save</button>
+    </form>
+
+    <script src="/script.js"></script>
+</body>
+</html>
