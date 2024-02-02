@@ -156,7 +156,7 @@ happy# Contributors
 - [Claudio Jara](https://github.com/claudiojara)
 -[j.f .keneddy]
 - [LSR]
-[Sayantan Roy Chowdhury]
+[Sayantan Roy Chowdhury]****
 -[.kim](https//github.com/kim8584)
 - [Yeressil Taupiyk](https://github.com/BalmundSM)
 -[Arshadakl] ()
@@ -948,7 +948,7 @@ Alexander
 - [Bhawana](https://github.com/bhawanaagarwal)
 - [Anaida Siv](https://github.com/Anaidasiv)
 - [Naomi Oyerbach](https://github.com/NaomiOyerbach)
-- [Francisco Valdivia]
+- [Francisco Valdivia](https://github.com/francisco-valdivia)
 - [Vinia Parker](https://github.com/Lavparker)
 - Chandrakanth Kokkiripati
 - [Chandrakanth Kokkiripati] (https://github.com/Chandrakanthkokkiripati)
