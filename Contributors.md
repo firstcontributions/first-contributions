@@ -3,6 +3,7 @@ happy# Contributors
 - [test-new-user]
 - [Nivedita Mahapatra](https://github.com/niveditamahapatra)
 - [uujeong](https://github.com/uujeong)
+- [Tunahan Değirmencioğlu](https://github.com/dabbitz)
 - [Ashley Hendrata](https://github.com/ashhendrata)
 - [Emchesso](https://github.com/Emchesso)
 - [Zume-z](https://github.com/Zume-z)
