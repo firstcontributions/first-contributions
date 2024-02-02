@@ -1,4 +1,5 @@
 happy# Contributors
+- [Jeremy Reinoso 👑](https://github.com/jeremy511)
 - [Mythresh](https://github.com/Joyboy57)
 - [test-new-user]
 - [Nivedita Mahapatra](https://github.com/niveditamahapatra)
