@@ -98,6 +98,7 @@ happy# Contributors
 - [Atharva] (https://github.com/Atharva98)
 - [Ayush] (https://github.com/Aayush612)
 - [Vishaal] (https://github.com/vs22202)
+- [Sergio DG](https://github.com/dgsergio)
 - [Abhinav] (https://github.com/saiabhinav75)
 - [GCabane] (https://github.com/GCabane)
 - [Michael Gabriel](https://github.com/maranatha443)
