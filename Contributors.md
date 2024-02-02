@@ -25,6 +25,7 @@ happy# Contributors
 - [Eric]
 - [Shibli]
 - [Mai Van Hoang]
+- [Alex White](https://github.com/alexwhite116)
 - [Muhammad Arslan](https://github.com/muh-arslan)
 - [Ciprian] (https://github.com/borninthecoffin)
 - [Murat Tekin] (https://github.com/zxmod51)
