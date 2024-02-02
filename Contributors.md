@@ -36,6 +36,7 @@ happy# Contributors
 - [Servet iltuzer](https://github.com/iltuzers)
 - [JerryHuangYu](https://github.com/jerryhuangyu)
 - [AubreyMalabie](https://github.com/malengatiger)
+- [JoshSchaeffer](https://github.com/schaeffjosh)
 - [Briannll](https://github.com/Briannll)
 - [Robiul Hossain](https://github.com/coder7475)
 - [Dev With Krishna](https://github.com/devwithkrishna)
