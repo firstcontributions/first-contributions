@@ -8,6 +8,7 @@ happy# Contributors
 - [Mehedi Hasan Janny](https://github.com/MHJanny)
 - [Lukeoson](https://github.com/lukeoson)
 - [Every soul will taste death.](prepare with good deeds!)
+- [Gautam Jain](https://github.com/BloodThearch)
 - [ashrees](https://github.com/ashrees)
 - [Mustafa Zariwala](https://github.com/mustafazariwala)
 - [Surani Naranpanawa](https://github.com/Surani02)
