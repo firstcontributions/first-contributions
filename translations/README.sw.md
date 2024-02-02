@@ -6,7 +6,7 @@
 
 # Mchango wa kwanza
 
-Ni vigumu. Mara zote ni vigumu kufanya kitu kwa mara ya kwanza. Hasa hasa kama unashirikiana na wengine, kufanya makosa sio jambo la kushangaza. Tulitaka kurahisisha namna ambavyo wachangiaji wapya wa mifumo ya wazi wanavyojifunza na kuchangia kwa mara ya kwanza.
+Hongera kwa kuonyesha nia ya kushiriki katika chanzo huria (Open Source). Mara zote ni vigumu kufanya kitu kwa mara ya kwanza. Hasa hasa kama unashirikiana na wengine, kufanya makosa sio jambo la kushangaza. Tulitaka kurahisisha namna ambavyo wachangiaji wapya wa mifumo ya wazi wanavyojifunza na kuchangia kwa mara ya kwanza.
 
 Kusoma makala na kuangalia mafunzo ya video yaweza kusaidia, Lakini ni jambo lipi bora zaidi kuliko kufanya kwa vitendo katika mazingira ya kujifunzia? Mradi huu unalenga kutoa mwongozo na kurahisisha namna ambavyo wachangiaji wapya wanavyoweza kuchangia kwa mara ya kwanza. Ikiwa unataka kuchangia kwa mara ya kwanza , fuata hatua zifuatazo.
 
