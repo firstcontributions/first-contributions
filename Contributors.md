@@ -73,6 +73,7 @@ happy# Contributors
 - [nade-em]
 - [kpgomez](https://github.com/kpgomez)
 - [shine]
+- [Jordan](https://github.com/JordanRobo)
 - [nahyan](https://github.com/nahyan0077/ecommerce-1-DropShip)
 - [leviduncan] (https://github.com/leviduncan) 
 - [snowman95] (https://github.com/snowman95)
