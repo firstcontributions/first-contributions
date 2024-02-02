@@ -1,5 +1,6 @@
 happy# Contributors
 - [Mythresh](https://github.com/Joyboy57)
+- [Nivedita Mahapatra](https://github.com/niveditamahapatra)
 - [uujeong](https://github.com/uujeong)
 - [Ashley Hendrata](https://github.com/ashhendrata)
 - [Emchesso](https://github.com/Emchesso)
