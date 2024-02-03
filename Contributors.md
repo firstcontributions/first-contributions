@@ -1048,6 +1048,7 @@ Alexander
 - [Eyal-Haimov](htpps://github.com/blindka)
 - [Damian Kurkowicz](https://github.com/Kurkov11)
 - [Alan](https://github.com/AlanThisis)
+- [Malibongwe Gumede](https://github.com/maliByatzes)
 - [Flynn](https://github.com/farthaz)
 - [Rahul Jindal](https://github.com/rahuljindal1)
 - [Art Villareal](https://github.com/Bushido-Art)
