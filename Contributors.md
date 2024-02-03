@@ -107,6 +107,7 @@ happy# Contributors
 - [theRaven-code] (https://github.com/theRaven-code)
 - [ShimaMichael] (https://github.com/ShimaMichael)
 - [RileyM117] (https://github.com/RileyM117)
+- [Ashish karn] (https://github.com/akkarn1689)
 - [0Notzura] (https://github.com/0Notzura)
 - [bsaltunkaya] (https://github.com/bsaltunkaya)
 - [Ezeko95] (https://github.com/Ezeko95)
