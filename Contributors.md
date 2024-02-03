@@ -136,6 +136,7 @@ happy# Contributors
 - [GCabane] (https://github.com/GCabane)
 - [Michael Gabriel](https://github.com/maranatha443)
 - [Shagun Sharma](https://github.com/shagunsharma6677)
+- [Hypothalamus](https://github.com/Hypothalamuss)
 - [m4tej](https://github.com/m4tej241)
 - [Auwalu Hamza](https://github.com/afhamu)
 - [Swetha Kannan](https://github.com/swethakannan12)
@@ -1870,7 +1871,8 @@ LadegbayeStella)
 - [Richard Washington](https://github.com/richardfwashington)
 - [anastaszi](https://github.com/anastaszi)
 - [Samar Khan](https://github.com/Samar-exe) ---- This is so Cool!!
-- [SamRB-dev](https://github.com/SamRB-dev) 
+- [SamRB-dev](https://github.com/SamRB-dev)
+- Hypothalamus
 - [tlvanfleet] (https://github.com/tlvanfleet)
 - [Jayspie] (https://github.com/Jayspie/)
 - [Shyamgowtham Murugaraj](https://github.com/ShyamgowthamMurugaraj)
