@@ -5,6 +5,7 @@ happy# Contributors
 - [Nivedita Mahapatra](https://github.com/niveditamahapatra)
 - [uujeong](https://github.com/uujeong)
 - [Tunahan Değirmencioğlu](https://github.com/dabbitz)
+- [Mehardeep](https://github.com/mehardeep88)
 - [Ashley Hendrata](https://github.com/ashhendrata)
 - [Joshua I Michael] (https://github.com/ikjosh)
 - [Emchesso](https://github.com/Emchesso)
