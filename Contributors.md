@@ -70,6 +70,7 @@ happy# Contributors
 - [Juvin Vinod](https://github.com/Juvinvinod)
 - [githubofkrishnadhas](https://github.com/githubofkrishnadhas)*(https://github.com/githubofkrishnadhas)*
 - [kalen](https://github.com/yokalen)
+- [Laura](https://github.com/lapatari)
 - [Eslam AbdElhakem](https://github.com/EslamAbdElhakem)
 - [Dheeraj](https://github.com/raj1802)
 - [ASJordi](https://github.com/ASJordi)
