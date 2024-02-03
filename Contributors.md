@@ -4,6 +4,7 @@ happy# Contributors
 - [Ghanashyam R](https://github.com/ghanashyam-r)
 - [Mythresh](https://github.com/Joyboy57)
 - [test-new-user]
+- [Zach J Murphy][https://github.com/zacharyjmurphy]
 - [Nivedita Mahapatra](https://github.com/niveditamahapatra)
 - [uujeong](https://github.com/uujeong)
 - [Tunahan Değirmencioğlu](https://github.com/dabbitz)
@@ -11,6 +12,7 @@ happy# Contributors
 - [Ashley Hendrata](https://github.com/ashhendrata)
 - [Joshua I Michael] (https://github.com/ikjosh)
 - [Emchesso](https://github.com/Emchesso)
+  [Andrea] (https://github.com/twistedboxes)
 - [Zume-z](https://github.com/Zume-z)
 - [Mehedi Hasan Janny](https://github.com/MHJanny)
 - [Lukeoson](https://github.com/lukeoson)
@@ -1405,6 +1407,7 @@ LadegbayeStella)
 - [Jakub Reznak](https://github.com/jakubreznak)
 - [Xorelcodes](https://github.com/xorelcodes)
 - [flabatut](https://github.com/flabatut)
+- [Jaxon Whited](https://github.com/jcw434)
 - [Keton Handy](https://github.com/ketonhandy)
 - [Ron Erick Rodriguez](https://github.com/aportkwekwek)
 - [Vishal Ramnani](https://github.com/vcodesup)
