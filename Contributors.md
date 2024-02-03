@@ -4,6 +4,7 @@ happy# Contributors
 - [Ghanashyam R](https://github.com/ghanashyam-r)
 - [Mythresh](https://github.com/Joyboy57)
 - [test-new-user]
+- [Zach J Murphy][https://github.com/zacharyjmurphy]
 - [Nivedita Mahapatra](https://github.com/niveditamahapatra)
 - [uujeong](https://github.com/uujeong)
 - [Tunahan Değirmencioğlu](https://github.com/dabbitz)
