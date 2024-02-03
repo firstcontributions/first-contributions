@@ -30,6 +30,7 @@ happy# Contributors
 - [Jongsoo ha](https://github.com/jongsoo1203)
 - [JayJayleee](https://github.com/JayJayleee)
 - [Eric]
+- [Peniel Bekele](https://github.com/Penie1)
 - [Shibli]
 - [Mai Van Hoang]
 - [Alex White](https://github.com/alexwhite116)
