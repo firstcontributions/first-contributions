@@ -1,7 +1,7 @@
 happy# Contributors
 - [Jeremy Reinoso 👑](https://github.com/jeremy511)
 - [Mythresh](https://github.com/Joyboy57)
-- [test-new-user]
+- [Hoang Son]
 - [Nivedita Mahapatra](https://github.com/niveditamahapatra)
 - [uujeong](https://github.com/uujeong)
 - [Tunahan Değirmencioğlu](https://github.com/dabbitz)
