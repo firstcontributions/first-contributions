@@ -52,6 +52,7 @@ happy# Contributors
 - [Narendherraj Senthil](https://github.com/Narendherraj)
 - [Ankit Gupta](https://github.com/ankit-gupta-24)
 - [Devin Jay San Nicolas]
+- [Nitesh Tiwari](https://github.com/nitesh2920)
 - [Noah Tonnesen](https://github.com/ntonnes)
 - [Ruben Davis Saji](https://github.com/rds-03)
 - [Mark](https://github.com/m-stanleysk)
