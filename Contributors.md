@@ -6,6 +6,7 @@ happy# Contributors
 - [uujeong](https://github.com/uujeong)
 - [Tunahan Değirmencioğlu](https://github.com/dabbitz)
 - [Ashley Hendrata](https://github.com/ashhendrata)
+- [Joshua I Michael] (https://github.com/ikjosh)
 - [Emchesso](https://github.com/Emchesso)
 - [Zume-z](https://github.com/Zume-z)
 - [Mehedi Hasan Janny](https://github.com/MHJanny)
