@@ -153,6 +153,7 @@ happy# Contributors
 - [Robiya] (https://github.com/rhakim24)
 - [Kit-Kat31415926](https://github.com/Kit-Kat31415926)
 - [Luís Simas](https://github.com/luissimas)
+- [Ramis Humayun](https://github.com/Ramis102)
 - [JakeJeongAiden](https://github.com/JakeJeongAiden/)
 - [Fangphire](https://github.com/fangphire)
 - test
