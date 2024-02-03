@@ -300,6 +300,7 @@ Gyanendra Thakur
 - [Tomer Hadar](https://github.com/Tomerki)
 - [Aman](https://github.com/AmanWebDev2)
 - [Shrey joshi](https://github.com/Shreyyy07)
+- [Shrirang Joshi](https://github.com/shriI950)
 - [Hikmah](https://github.com/Hikmahx)
 - [BALASANTHOSH01](https://github.com/BALASANTHOSH01)
 - [Greg Delgado](https://github.com/grd888)
