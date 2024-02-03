@@ -209,6 +209,7 @@ happy# Contributors
 - [Claudio Jara](https://github.com/claudiojara)
 -[j.f .keneddy]
 - [LSR]
+- [Peter Hilbert](https://github.com/pehilbert)
 [Sayantan Roy Chowdhury]
 -[.kim](https//github.com/kim8584)
 - [Yeressil Taupiyk](https://github.com/BalmundSM)
