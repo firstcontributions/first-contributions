@@ -11,6 +11,7 @@ happy# Contributors
 - [Zume-z](https://github.com/Zume-z)
 - [Mehedi Hasan Janny](https://github.com/MHJanny)
 - [Lukeoson](https://github.com/lukeoson)
+- [Raj](https://github.com/prajX)
 - [juli](https://github.com/tymnkey)
 - [Every soul will taste death.](prepare with good deeds!)
 - [Gautam Jain](https://github.com/BloodThearch)
