@@ -13,6 +13,7 @@ happy# Contributors
 - [juli](https://github.com/tymnkey)
 - [Every soul will taste death.](prepare with good deeds!)
 - [Gautam Jain](https://github.com/BloodThearch)
+- [Karissa Smallwood]
 - [ashrees](https://github.com/ashrees)
 - [Mustafa Zariwala](https://github.com/mustafazariwala)
 - [Surani Naranpanawa](https://github.com/Surani02)
