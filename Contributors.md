@@ -43,6 +43,7 @@ happy# Contributors
 - [Joseph Kharzo](https://github.com/Kharzo)
 - [Efren Aguilar](https://github.com/LeoALe)
 - [Muhammad Arslan](https://github.com/muh-arslan)
+- [Hava] (https://github.com/stellar-flame)
 - [Ciprian] (https://github.com/borninthecoffin)
 - [Murat Tekin] (https://github.com/zxmod51)
 - [Jorge Martin](https://github.com/jorgemp13)
