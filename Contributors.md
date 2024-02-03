@@ -81,6 +81,7 @@ happy# Contributors
 - [Eslam AbdElhakem](https://github.com/EslamAbdElhakem)
 - [Dheeraj](https://github.com/raj1802)
 - [ASJordi](https://github.com/ASJordi)
+- [k-souvatzidaki](https://github.com/k-souvatzidaki)
 - [Sam Little](https://github.com/Moopy559)
 - [chrisgitn] (https://github.com/chrisgitn)
 - [Kevin B] (https://github.com/KJBlinn01)
