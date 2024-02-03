@@ -35,6 +35,7 @@ happy# Contributors
 - [Muhammad Arslan](https://github.com/muh-arslan)
 - [Ciprian] (https://github.com/borninthecoffin)
 - [Murat Tekin] (https://github.com/zxmod51)
+- [Sergius Justus Nyah](https://github.com/Sergius-Nyah)
 - [Set Wai](https://github.com/SetWai)
 - [Dinto](https://github.com/Dinto2)
 - [Yash Kumar Saini](https://github.com/yashksaini-coder)
