@@ -213,6 +213,7 @@ happy# Contributors
 - [Jayadeep Velagapudi](https://github.com/jkvelagapudi)
 - [Stephen Ng](https://github.com/snust)
 - [Axel Valerio Ertamto](https://github.com/AxelValerioErtamto)
+- [Justin](https://github.com/JustinBifeld)
 - anuj bhiasal
 -sushil maurya
 - [J-Kosm](https://github.com/J-Kosm)
