@@ -600,6 +600,7 @@ Romeu Leite
 - Kunal Takalkhede
 - nathosboy
 - [Mike Zeg](https://github.com/MikeZeg) 👋
+- [George Fam](https://github.com/George-Fam)
 - [Jm Delas Alas](https://github.com/letandconst)
 - [Iliyan Galabov](https://github.com/iliyan-pigeon)
 - [Shishir Chulliyil](https://github.com/shishirchulliyil)
