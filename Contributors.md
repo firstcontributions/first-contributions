@@ -11,6 +11,7 @@ happy# Contributors
 - [Ghanashyam R](https://github.com/ghanashyam-r)
 - [Mythresh](https://github.com/Joyboy57)
 - [test-new-user]
+- [Rocio Gutierrez](https://github.com/rociogutz)
 - [Karthik Sp](https://github.com/karthisp)
 - [Zach J Murphy][https://github.com/zacharyjmurphy]
 - [Nivedita Mahapatra](https://github.com/niveditamahapatra)
