@@ -226,7 +226,7 @@ happy# Contributors
 [Sayantan Roy Chowdhury]
 -[.kim](https//github.com/kim8584)
 - [Yeressil Taupiyk](https://github.com/BalmundSM)
--[[Arshadakl](https://www.linkedin.com/in/arshad-akl/)
+- [Arshadakl](https://www.linkedin.com/in/arshad-akl/)
 - [Somssi Pathania](https://github.com/SOMSSI2110)
 - [Gabriel Fernandes](https://github.com/gabrielfernandeswebdev)
 - [Lakshya Mishra](https://github.com/mishrlaksh)
