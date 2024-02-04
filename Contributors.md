@@ -98,6 +98,7 @@ happy# Contributors
 - [k-souvatzidaki](https://github.com/k-souvatzidaki)
 - [Sam Little](https://github.com/Moopy559)
 - [Manny!]
+- [Adam Dobelbower](https://github.com/adobe5062)
 - [chrisgitn] (https://github.com/chrisgitn)
 - [Kevin B] (https://github.com/KJBlinn01)
 - [Nirmal Kumar R] (https://github.com/NIRMALraki)
