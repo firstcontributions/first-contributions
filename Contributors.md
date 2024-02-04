@@ -1,9 +1,13 @@
 happy# Contributors
 
+- [Archana Kumari](https://github.com/Archana550)
+- [Jesus Salazar](https://github.com/Zhayr1)
 - [Saif](https://github.com/wolfiee42)
 - [Jeremy Reinoso 👑](https://github.com/jeremy511)
+- [Ghanashyam R](https://github.com/ghanashyam-r)
 - [Mythresh](https://github.com/Joyboy57)
 - [test-new-user]
+- [Zach J Murphy][https://github.com/zacharyjmurphy]
 - [Nivedita Mahapatra](https://github.com/niveditamahapatra)
 - [uujeong](https://github.com/uujeong)
 - [Tunahan Değirmencioğlu](https://github.com/dabbitz)
@@ -11,6 +15,7 @@ happy# Contributors
 - [Ashley Hendrata](https://github.com/ashhendrata)
 - [Joshua I Michael] (https://github.com/ikjosh)
 - [Emchesso](https://github.com/Emchesso)
+  [Andrea] (https://github.com/twistedboxes)
 - [Zume-z](https://github.com/Zume-z)
 - [Mehedi Hasan Janny](https://github.com/MHJanny)
 - [Lukeoson](https://github.com/lukeoson)
@@ -22,6 +27,7 @@ happy# Contributors
 - [ashrees](https://github.com/ashrees)
 - [Mustafa Zariwala](https://github.com/mustafazariwala)
 - [Surani Naranpanawa](https://github.com/Surani02)
+- [Arthion Daena](https://github.com/arthiondaena)
 - [De incarnated Wizard](https://github.com/AsikumaGod)
 - [Mukul Sharma](https://github.com/mukuliskul)
 - [Kalhara Tennakoon](https://github.com/kalharatennakoon)
@@ -31,13 +37,17 @@ happy# Contributors
 - [Jongsoo ha](https://github.com/jongsoo1203)
 - [JayJayleee](https://github.com/JayJayleee)
 - [Eric]
+- [saingchildren](https://github.com/saingchildren)
+- Faith Ononye
 - [Peniel Bekele](https://github.com/Penie1)
 - [Shibli]
+- [Ben Gale](https://github.com/Sabreco)
 - [Mai Van Hoang]
 - [Alex White](https://github.com/alexwhite116)
 - [Joseph Kharzo](https://github.com/Kharzo)
 - [Efren Aguilar](https://github.com/LeoALe)
 - [Muhammad Arslan](https://github.com/muh-arslan)
+- [Hava] (https://github.com/stellar-flame)
 - [Ciprian] (https://github.com/borninthecoffin)
 - [Murat Tekin] (https://github.com/zxmod51)
 - [Jorge Martin](https://github.com/jorgemp13)
@@ -48,8 +58,10 @@ happy# Contributors
 - [Rohini](https://github.com/rohinigudimetla)
 - [Ankit24007] (https://github.com/ankit24007)
 - [Narendherraj Senthil](https://github.com/Narendherraj)
+- [Colton Sanchez](githttps://github.com/codeinecrazy420)
 - [Ankit Gupta](https://github.com/ankit-gupta-24)
 - [Devin Jay San Nicolas]
+- [Nitesh Tiwari](https://github.com/nitesh2920)
 - [Noah Tonnesen](https://github.com/ntonnes)
 - [Ruben Davis Saji](https://github.com/rds-03)
 - [Mark](https://github.com/m-stanleysk)
@@ -71,9 +83,11 @@ happy# Contributors
 - [Juvin Vinod](https://github.com/Juvinvinod)
 - [githubofkrishnadhas](https://github.com/githubofkrishnadhas)_(https://github.com/githubofkrishnadhas)_
 - [kalen](https://github.com/yokalen)
+- [Laura](https://github.com/lapatari)
 - [Eslam AbdElhakem](https://github.com/EslamAbdElhakem)
 - [Dheeraj](https://github.com/raj1802)
 - [ASJordi](https://github.com/ASJordi)
+- [k-souvatzidaki](https://github.com/k-souvatzidaki)
 - [Sam Little](https://github.com/Moopy559)
 - [chrisgitn] (https://github.com/chrisgitn)
 - [Kevin B] (https://github.com/KJBlinn01)
@@ -102,6 +116,7 @@ happy# Contributors
 - [kpgomez](https://github.com/kpgomez)
 - [shine]
 - [Jordan](https://github.com/JordanRobo)
+- [Lauranthalassa](https://github.com/Talassha)
 - [nahyan](https://github.com/nahyan0077/ecommerce-1-DropShip)
 - [leviduncan] (https://github.com/leviduncan)
 - [snowman95] (https://github.com/snowman95)
@@ -193,8 +208,10 @@ happy# Contributors
 - [JFK]
 - [Claudio Jara](https://github.com/claudiojara) -[j.f .keneddy]
 - [LSR]
-  [Sayantan Roy Chowdhury] -[.kim](https//github.com/kim8584)
-- [Yeressil Taupiyk](https://github.com/BalmundSM) -[Arshadakl] ()
+- [Sayantan Roy Chowdhury] -[.kim](https//github.com/kim8584)
+- [Yeressil Taupiyk](https://github.com/BalmundSM)
+- [Peter Hilbert](https://github.com/pehilbert)
+-[Arshadakl] ()
 - [Somssi Pathania](https://github.com/SOMSSI2110)
 - [Gabriel Fernandes](https://github.com/gabrielfernandeswebdev)
 - [Lakshya Mishra](https://github.com/mishrlaksh)
@@ -1180,6 +1197,7 @@ happy# Contributors
 - [Anirudha Patil](https://github.com/AnirudhaPatil-1)
 - [Titouan Baron](https://github.com/HowlyBlood)
 - [Andres Felipe Pizo Luligo](https://github.com/AndresFelipe077)
+- [hennrique](https://github.com/hennique)
 - [Tyler Nielsen](https://github.com/SnailDragon)
 - [Mack Osborne](https://github.com/mackosborne)
 - [Brendan K. Schatzki](https://github.com/BKSchatzki)
@@ -1277,6 +1295,7 @@ happy# Contributors
 - [Johan Chate](https://github.com/TCLJOHANT)
 - Lulu Jiao
 - [Kai Kim](https://github.com/KaiKimiOS)
+- [Sourav Narayan](https://github.com/sounar97)
 - [Shay](https://github.com/shay-520)
 - [Shaikh Aman](https://github.com/ShaikhAman01)
 - [leanhvu21042001](https://github.com/leanhvu21042001)
@@ -1375,6 +1394,7 @@ happy# Contributors
 - [Jakub Reznak](https://github.com/jakubreznak)
 - [Xorelcodes](https://github.com/xorelcodes)
 - [flabatut](https://github.com/flabatut)
+- [Jaxon Whited](https://github.com/jcw434)
 - [Keton Handy](https://github.com/ketonhandy)
 - [Ron Erick Rodriguez](https://github.com/aportkwekwek)
 - [Vishal Ramnani](https://github.com/vcodesup)
@@ -1403,6 +1423,7 @@ happy# Contributors
 - [Muhammad-Jafri](https://github.com/Muhammad-Jafri)
 - [Shahbaz Ansari](https://github.com/shahbaz4783)
 - [Narayana Mayya](https://github.com/narayanamayya)
+- [Filippo Pellizzari](https://github.com/filippopellizzari)
 - [Amir2520](https://github.com/amir2520)
 - [Legaroid](https://github.com/legaroid)
 - [Skidee](https://github.com/HeySkidee)
@@ -1492,7 +1513,7 @@ happy# Contributors
 - [Tigran Tumanyan](https://github.com/tikeysus)
 - [Dachuan Yang](https://github.com/ydc9988)
 - [Tapan Kapre](https://github.com/TolueneOverdose)
-  [Tapsh Git] (https://github.com/Tapashgithub)
+- [Tapsh Git] (https://github.com/Tapashgithub)
 - [Smaran Singh](https://github.com/SmaranSingh)
 - [Sadiya Khan](https://github.com/sadiya0308)
 - [Lalo Rys](https://github.com/LaloRys)
@@ -1627,6 +1648,7 @@ happy# Contributors
 - [Felix](https://github.com/Feliax111)
 - [Wa]
 - [EL]
+- [Max](https://github.com/Max112358)
 - [bengodlewski](https://github.com/bengodlewski)
 - [`Orunto Eniola`](https://github.com/orunto)
 - [`Pedro Frey`](https://github.com/PedroFrey)
@@ -1941,3 +1963,7 @@ happy# Contributors
 - [Muhammad Helmi](https://github.com/helmisafie)
 - [Fabep](https://github.com/Fabep)
 - [nivanrs](https://github.com/nivanrs)
+- [Ivor Zhu](https://github.com/IvorZhu331)
+- [Mohammad Seeam] (https://github.com/mseeam99)
+- [Alldo-dev](https://github.com/alldo-dev)
+- [Izzat Karimov](https://github.com/izzatkarimov)
