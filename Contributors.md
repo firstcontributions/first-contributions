@@ -1718,6 +1718,8 @@ LadegbayeStella)
 - [kich-ryo](https://github.com/kich-ryo)
 - [Akbar Khotamov] (https://github.com/kingoker)
 - [Anna Muse] (https://github.com/anna-muse)
+
+- [James M-staxxtec] (https://github.com/staxxtec)
 - [tomato]
 - [Amirhossein Mirshahi] (https://github.com/Delaunay-I)
 - [Empuraan]
