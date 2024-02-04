@@ -1669,6 +1669,7 @@ LadegbayeStella)
 - [Felix](https://github.com/Feliax111)
 - [Wa]
 - [EL]
+- [Max](https://github.com/Max112358)
 - [bengodlewski](https://github.com/bengodlewski)
 - [`Orunto Eniola`](https://github.com/orunto)
 - [`Pedro Frey`](https://github.com/PedroFrey)
