@@ -1,4 +1,5 @@
 happy# Contributors
+- [Archana Kumari](https://github.com/Archana550)
 - [Jesus Salazar](https://github.com/Zhayr1)
 - [Saif](https://github.com/wolfiee42)
 - [Jeremy Reinoso 👑](https://github.com/jeremy511)
