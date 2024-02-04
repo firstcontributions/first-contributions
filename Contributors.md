@@ -34,6 +34,7 @@ happy# Contributors
 - [Jongsoo ha](https://github.com/jongsoo1203)
 - [JayJayleee](https://github.com/JayJayleee)
 - [Eric]
+- [saingchildren](https://github.com/saingchildren)
 - Faith Ononye
 - [Peniel Bekele](https://github.com/Penie1)
 - [Shibli]
