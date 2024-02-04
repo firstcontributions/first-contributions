@@ -250,6 +250,7 @@ Gyanendra Thakur
 - [Codemanticism](https://github.com/codemanticism)
 - [Flavio Emanuele Cannavò](https://github.com/flaviocnn)
 - [Harsh Verma](https://github.com/hv0911)
+- [Jaytee Majoni](https://github.com/jayteemajoni)
 - [eszanon](https://github.com/eszanon)
 - [TejoSaiSwaroop](https://github.com/tejosaiswaroop)
 [ronny mekin]
