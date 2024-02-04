@@ -44,6 +44,7 @@ happy# Contributors
 - [Joseph Kharzo](https://github.com/Kharzo)
 - [Efren Aguilar](https://github.com/LeoALe)
 - [Muhammad Arslan](https://github.com/muh-arslan)
+- [Hava] (https://github.com/stellar-flame)
 - [Ciprian] (https://github.com/borninthecoffin)
 - [Murat Tekin] (https://github.com/zxmod51)
 - [Jorge Martin](https://github.com/jorgemp13)
@@ -54,6 +55,7 @@ happy# Contributors
 - [Rohini](https://github.com/rohinigudimetla)
 - [Ankit24007] (https://github.com/ankit24007)
 - [Narendherraj Senthil](https://github.com/Narendherraj)
+- [Colton Sanchez](githttps://github.com/codeinecrazy420)
 - [Ankit Gupta](https://github.com/ankit-gupta-24)
 - [Devin Jay San Nicolas]
 - [Nitesh Tiwari](https://github.com/nitesh2920)
@@ -82,6 +84,7 @@ happy# Contributors
 - [Eslam AbdElhakem](https://github.com/EslamAbdElhakem)
 - [Dheeraj](https://github.com/raj1802)
 - [ASJordi](https://github.com/ASJordi)
+- [k-souvatzidaki](https://github.com/k-souvatzidaki)
 - [Sam Little](https://github.com/Moopy559)
 - [chrisgitn] (https://github.com/chrisgitn)
 - [Kevin B] (https://github.com/KJBlinn01)
@@ -1642,6 +1645,7 @@ happy# Contributors
 - [Felix](https://github.com/Feliax111)
 - [Wa]
 - [EL]
+- [Max](https://github.com/Max112358)
 - [bengodlewski](https://github.com/bengodlewski)
 - [`Orunto Eniola`](https://github.com/orunto)
 - [`Pedro Frey`](https://github.com/PedroFrey)
@@ -1956,4 +1960,6 @@ happy# Contributors
 - [Muhammad Helmi](https://github.com/helmisafie)
 - [Fabep](https://github.com/Fabep)
 - [Ivor Zhu](https://github.com/IvorZhu331)
+- [Mohammad Seeam] (https://github.com/mseeam99)
 - [Alldo-dev](https://github.com/alldo-dev)
+- [Izzat Karimov](https://github.com/izzatkarimov)
