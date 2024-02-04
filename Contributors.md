@@ -1463,6 +1463,7 @@ LadegbayeStella)
 - [Chris97P](https://github.com/Chris97P)
 - [Ringo](https://github.com/Banuelorigni)
 - [Sky](https://github.com/jiafie7)
+- Ruslan T
 - [Vanesh](https://github.com/vanesh37)
 - [Jeroldine Oakley](https://github.com/JayOaks)
 - [Ethan Temple](https://github.com/YeeBurrito)
