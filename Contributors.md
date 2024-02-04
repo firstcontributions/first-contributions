@@ -75,6 +75,7 @@ happy# Contributors
 - [Winticloud](https://github.com/winticloud)
 - [Sivasai Silla](https://github.com/sivasaisilla)
 - [Ramin Holma](https://github.com/raminholma)
+- [Charles Luguda](https://github.com/charlesluguda)
 - [Ryan Lo](https://github.com/Lo-Mein)
 - [Servet iltuzer](https://github.com/iltuzers)
 - [JerryHuangYu](https://github.com/jerryhuangyu)
