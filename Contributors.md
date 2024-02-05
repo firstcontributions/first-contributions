@@ -2092,5 +2092,4 @@ LadegbayeStella)
 - [Matthew Gardner](https://github.com/meg546)
 - [Daniel Austin](https://github.com/dja322)
 - [Thomas Rotchford](https://github.com/thomasrotchford)
-- [Prithvi Prathapan](https://github.com/prithvi2226)
-
+- [Prithvi Prathap](https://github.com/prithvi2226)
