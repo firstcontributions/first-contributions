@@ -20,6 +20,7 @@ happy# Contributors
 - [test-new-user]
 - [Tyler Austin]
 - [Brady Wisniewski]
+- [Eli Vatsaas]
 - [Rocio Gutierrez](https://github.com/rociogutz)
 - [Dacidev](https://github.com/dacidev)
 - [Hein Htut Zaw] (https://github.com/HeinHtutZaw19)
