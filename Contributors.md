@@ -5,7 +5,6 @@ happy# Contributors
 - [Eshwanth Karti T R](https://github.com/eshwanthkartitr)
 - [Abdullah Sohail](https://github.com/abdullahsohailcs)
 - [Archana Kumari](https://github.com/Archana550)
-- [Steven Arbo](https://github.com/stevenarbo3)
 - [Jesus Salazar](https://github.com/Zhayr1)
 - [Om Gaikwad](https://github.com/gaikwadomg)
 - [Krishna Mohan Shah](https://github.com/krishnamshah)
@@ -179,6 +178,7 @@ happy# Contributors
 - [Abdelwakil](https://github.com/fondbcn)
 - [psp0] (https://github.com/psp0)
 - [brunoblaise](https://github.com/brunoblaise)
+- ryanluceroo]
 - [Jason Ang](https://github.com/jasonavatarang)
 - [Sashin Trout](https://github.com/sashin123)
 - [Whrisper](https://github.com/SChrisper)
@@ -187,6 +187,7 @@ happy# Contributors
 - [KWYK](https://github.com/stevenchen99)
 - [Gabriel Ripper](https://github.com/gabripper)
 - [Thales Winther](https://github.com/thaleswinther)
+- - [Ryan Lucero](https://github.com/ryanluceroo)
 - [Anand Shende](https://github.com/anandshende)
 - [WHA](https://github.com/wynehtetaung)
 - [Captain] (https://github.com/CaptainPatel)
