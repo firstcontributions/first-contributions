@@ -16,6 +16,7 @@ happy# Contributors
 - [Ghanashyam R](https://github.com/ghanashyam-r)
 - [Mythresh](https://github.com/Joyboy57)
 - [test-new-user]
+- [Tyler Austin]
 - [Rocio Gutierrez](https://github.com/rociogutz)
 - [Dacidev](https://github.com/dacidev)
 - [Hein Htut Zaw] (https://github.com/HeinHtutZaw19)
