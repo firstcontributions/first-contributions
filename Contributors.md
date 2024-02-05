@@ -25,6 +25,7 @@ happy# Contributors
 - [Ashley Hendrata](https://github.com/ashhendrata)
 - [Joshua I Michael] (https://github.com/ikjosh)
 - [Emchesso](https://github.com/Emchesso)
+- [Tejas](https://github.com/tejas-ch)
   [Andrea] (https://github.com/twistedboxes)
   [LauraC] (https://github.com/lchutny)
 - [Zume-z](https://github.com/Zume-z)
