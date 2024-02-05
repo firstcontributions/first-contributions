@@ -5,6 +5,7 @@ happy# Contributors
 - [Shariar Islam](https://github.com/shariar-ms)
 - [Renna Carver](https://github.com/rennacarver)
 - [Eshwanth Karti T R](https://github.com/eshwanthkartitr)
+- [Azhar Aditya Pratama](https://github.com/azharadityapratama)
 - [Abdullah Sohail](https://github.com/abdullahsohailcs)
 - [Archana Kumari](https://github.com/Archana550)
 - [Jesus Salazar](https://github.com/Zhayr1)
