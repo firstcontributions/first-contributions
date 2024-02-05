@@ -211,6 +211,7 @@ happy# Contributors
 - [td2thinh](https://github.com/td2thinh)
 -[IZ2RPN](https://github.com/iz2rpn)
 - [Alish-0x](https://github.com/Alish-0x)
+-[Hunter Kilgore](https://github.com/Hunter-Kilgore-NAU)
 -[nathansims88](https://github.com/nathansims88)
 -[Julius Jones](https://github.com/jlwj22)
 -[orangethefish](https://github.com/orangethefish)
