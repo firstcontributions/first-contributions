@@ -1223,6 +1223,7 @@ Alexander
 - [Uday Vara](https://github.com/UV26320)
 - [Prabel](https://github.com/HiPrabel)
 - [Aryan Mahida](https://github.com/aryan083)
+- [Vetle HJ](https://github.com/VetleHJ)
 - [Avinash Mangalore Suresh](https://github.com/msavinash)
 - [Ridhi Priya](https://github.com/Ridhi-priya)
 - [Deepak Saini](https://github.com/dipaksaini98)
