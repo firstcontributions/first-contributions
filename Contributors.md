@@ -19,6 +19,7 @@ happy# Contributors
 - [Mythresh](https://github.com/Joyboy57)
 - [test-new-user]
 - [Tyler Austin]
+- [Brady Wisniewski]
 - [Rocio Gutierrez](https://github.com/rociogutz)
 - [Dacidev](https://github.com/dacidev)
 - [Hein Htut Zaw] (https://github.com/HeinHtutZaw19)
