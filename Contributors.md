@@ -14,6 +14,7 @@ happy# Contributors
 - [Mythresh](https://github.com/Joyboy57)
 - [test-new-user]
 - [Rocio Gutierrez](https://github.com/rociogutz)
+- [Dacidev](https://github.com/dacidev)
 - [Hein Htut Zaw] (https://github.com/HeinHtutZaw19)
 - [Karthik Sp](https://github.com/karthisp)
 - [Zach J Murphy][https://github.com/zacharyjmurphy]
