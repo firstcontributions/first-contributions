@@ -1999,6 +1999,7 @@ LadegbayeStella)
 - [AmmmBM] (https://github.com/abm312)
 - [JuanJefry23](https://github.com/JuanJefry23)
 - [CodeTerraYT](https://github.com/codeterrayt)
+- [Akiko](https://github.com/coucoucaca)
 - [Anesu]
 - [Daman] 
 - [Gbenny] (https://github.com/gbenny97)
@@ -2066,3 +2067,4 @@ LadegbayeStella)
 - [Jonee](https://github.com/Jonee2)
 - [Dexter Vinoya](https://github.com/dxtrvny)
 - [Song](https://github.com/qingw1230)
+
