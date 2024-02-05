@@ -109,6 +109,7 @@ happy# Contributors
 - [ASJordi](https://github.com/ASJordi)
 - [k-souvatzidaki](https://github.com/k-souvatzidaki)
 - [Sam Little](https://github.com/Moopy559)
+- [Larry Griffith](https://github.com/LunaticSage218)
 - [Manny!]
 - [Adam Dobelbower](https://github.com/adobe5062)
 - [chrisgitn] (https://github.com/chrisgitn)
