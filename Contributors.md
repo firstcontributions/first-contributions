@@ -164,6 +164,7 @@ happy# Contributors
 - [Vitor Gonçalves] (https://github.com/vvttrr)
 - [Jimmy H] (https://github.com/jmhungdev)
 - [Atharva] (https://github.com/Atharva98)
+- [Jett Koele] (https://github.com/jk2429)
 - [Ayush] (https://github.com/Aayush612)
 - [Vishaal] (https://github.com/vs22202)
 - [Sergio DG](https://github.com/dgsergio)
