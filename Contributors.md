@@ -51,7 +51,7 @@ happy# Contributors
 -   [Surani Naranpanawa](https://github.com/Surani02)
 -   [Arthion Daena](https://github.com/arthiondaena)
 -   [De incarnated Wizard](https://github.com/AsikumaGod)
--   [dakardu](http://github.com/dakardu)
+-   [dakardu](https://github.com/dakardu)
 -   [Mukul Sharma](https://github.com/mukuliskul)
 -   [Kalhara Tennakoon](https://github.com/kalharatennakoon)
 -   [@5atoshiNakamoto](https://github.com/5atoshiNakamoto)
