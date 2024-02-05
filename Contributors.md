@@ -510,6 +510,7 @@ Romeu Leite
 - [Srishti Agarwal] (https://github.com/srishtiagarwall)
 - [Rahul Rajput](https://github.com/r2hu1)
 - [imalightbulb](https://github.com/imalightbulb)
+- [Hunter Beach](https://github.com/HunterB433)
 - [S-H](https://github.com/sholappa)
 - [Frank Wang](https://github.com/blobthebuilder)
 - [Jameel Ahmed](https://github.com/jameel-webdev)
