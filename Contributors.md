@@ -5,6 +5,7 @@ happy# Contributors
 - [Abdullah Sohail](https://github.com/abdullahsohailcs)
 - [Archana Kumari](https://github.com/Archana550)
 - [Jesus Salazar](https://github.com/Zhayr1)
+- [Om Gaikwad](https://github.com/gaikwadomg)
 - [Krishna Mohan Shah](https://github.com/krishnamshah)
 - [Chandani Mourya](https://github.com/chandani7021)
 - [Saif](https://github.com/wolfiee42)
@@ -13,6 +14,7 @@ happy# Contributors
 - [Mythresh](https://github.com/Joyboy57)
 - [test-new-user]
 - [Rocio Gutierrez](https://github.com/rociogutz)
+- [Hein Htut Zaw] (https://github.com/HeinHtutZaw19)
 - [Karthik Sp](https://github.com/karthisp)
 - [Zach J Murphy][https://github.com/zacharyjmurphy]
 - [Nivedita Mahapatra](https://github.com/niveditamahapatra)
@@ -32,6 +34,7 @@ happy# Contributors
 - [Every soul will taste death.](prepare with good deeds!)
 - [Gautam Jain](https://github.com/BloodThearch)
 - [Karissa Smallwood]
+- [Devansh Garg](https://github.com/garg-tech)
 - [ashrees](https://github.com/ashrees)
 - [Mustafa Zariwala](https://github.com/mustafazariwala)
 - [Surani Naranpanawa](https://github.com/Surani02)
@@ -50,6 +53,7 @@ happy# Contributors
 - [Peniel Bekele](https://github.com/Penie1)
 - [Shibli]
 - [Ben Gale](https://github.com/Sabreco)
+- [AYL](https://github.com/Ayeyulwin)
 - [Mai Van Hoang]
 - [Alex White](https://github.com/alexwhite116)
 - [Joseph Kharzo](https://github.com/Kharzo)
@@ -152,6 +156,7 @@ happy# Contributors
 - [Vishaal] (https://github.com/vs22202)
 - [Sergio DG](https://github.com/dgsergio)
 - [Abhinav] (https://github.com/saiabhinav75)
+- [turtle-papa](https://github.com/turtle-papa)
 - [GCabane] (https://github.com/GCabane)
 - [Michael Gabriel](https://github.com/maranatha443)
 - [Shagun Sharma](https://github.com/shagunsharma6677)
@@ -914,6 +919,7 @@ Romeu Leite
 - [Sravan K Suresh](https://github.com/SRAVAN-IITB)
 - [Victor Maia](https://github.com/victooooor)
 - [Haneen](https://github.com/han1py)
+- [nick-nugat](https://github.com/nick-nugat)
 - [Naveen Kurella](https://github.com/KURELLANAVEEN)
 - [Abhinav Ujjawal](https://github.com/Abhinav-Ujjawal)
 - [joejoeelephant](https://github.com/joejoeelephant)
@@ -1596,6 +1602,7 @@ LadegbayeStella)
 - [Xinlei Feng](https://github.com/xinleif666)
 - [Junhee Kang](https://github.com/cmilk18)
 - [Saeed Rila](https://github.com/saeedrila)
+- [Tom Xavier](https://github.com/TomXavierr)
 - [Lianne Deng](https://github.com/erath-rise)
 - [jumekaam](https://github.com/jumekaam)
 - [Helen Efebe](https://github.com/HelenJonathan)
@@ -2051,3 +2058,5 @@ LadegbayeStella)
 - [Test-User](https://github.com/)
 - [Revanth Gavirineni](https://github.com/RevG10)
 - [Jonee](https://github.com/Jonee2)
+
+
