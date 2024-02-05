@@ -1119,3 +1119,4 @@
 - [Prajwal-patil](https://github.com/praj-mkdir)
 - [Yemi Kudaisi](https://github.com/yemikudaisi)
 - [Adhitya Hasan](https://github.com/SanH16)
+- [Vivek Kumar Singh](https://github.com/v-s-chauhan)
