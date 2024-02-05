@@ -5,6 +5,7 @@ happy# Contributors
 - [Eshwanth Karti T R](https://github.com/eshwanthkartitr)
 - [Abdullah Sohail](https://github.com/abdullahsohailcs)
 - [Archana Kumari](https://github.com/Archana550)
+- [Steven Arbo](https://github.com/stevenarbo3)
 - [Jesus Salazar](https://github.com/Zhayr1)
 - [Om Gaikwad](https://github.com/gaikwadomg)
 - [Krishna Mohan Shah](https://github.com/krishnamshah)
