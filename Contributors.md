@@ -24,6 +24,7 @@ happy# Contributors
 - [Eli Vatsaas]
 - [Rocio Gutierrez](https://github.com/rociogutz)
 - [Dacidev](https://github.com/dacidev)
+- [Akram Hany](https://github.com/akramhany)
 - [Hein Htut Zaw] (https://github.com/HeinHtutZaw19)
 - [Karthik Sp](https://github.com/karthisp)
 - [Cathy Ly] (https://github.com/cl2493)
