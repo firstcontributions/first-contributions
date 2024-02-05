@@ -1,5 +1,6 @@
 happy# Contributors
 - [Dallon Jarman](https://github.com/dallonjarman)
+- [Samuel Bodenhemier](https://github.com/swBodenhemier)
 - [Shariar Islam](https://github.com/shariar-ms)
 - [Renna Carver](https://github.com/rennacarver)
 - [Eshwanth Karti T R](https://github.com/eshwanthkartitr)
