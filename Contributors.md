@@ -916,6 +916,7 @@ Romeu Leite
 - [Sravan K Suresh](https://github.com/SRAVAN-IITB)
 - [Victor Maia](https://github.com/victooooor)
 - [Haneen](https://github.com/han1py)
+- [nick-nugat](https://github.com/nick-nugat)
 - [Naveen Kurella](https://github.com/KURELLANAVEEN)
 - [Abhinav Ujjawal](https://github.com/Abhinav-Ujjawal)
 - [joejoeelephant](https://github.com/joejoeelephant)
