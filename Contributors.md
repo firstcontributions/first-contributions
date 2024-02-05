@@ -1108,6 +1108,7 @@ Alexander
 - [Rahul Jindal](https://github.com/rahuljindal1)
 - [Art Villareal](https://github.com/Bushido-Art)
 - [Jerry Yip](https://github.com/yhmyhm0910)
+- [jsdimig] (https://github.com/jsdimig)
 - [Danilo Znamerovszkij](https://github.com/danilo-znamerovszkij)
 - [Daniel Kaijzer](https://github.com/danielkaijzer)
 - [Ephraim Beltran](https://github.com/ephraim-beltran)
