@@ -33,6 +33,7 @@ happy# Contributors
 - [Karthik Sp](https://github.com/karthisp)
 - [Cathy Ly] (https://github.com/cl2493)
 - [Zach J Murphy][https://github.com/zacharyjmurphy]
+  [Marcus Booker](https://github.com/MarcusNAU)
 - [Nivedita Mahapatra](https://github.com/niveditamahapatra)
 - [uujeong](https://github.com/uujeong)
 - [Tunahan Değirmencioğlu](https://github.com/dabbitz)
