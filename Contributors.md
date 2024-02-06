@@ -7,6 +7,7 @@ happy# Contributors
 - [Samuel Bodenhemier](https://github.com/swBodenhemier)
 - [Shariar Islam](https://github.com/shariar-ms)
 - [Smihah A](https://github.com/smi-unicorn)
+- [Benjamin Cruickshank](https://github.com/OfficerClucks)
 - [Renna Carver](https://github.com/rennacarver)
 - [Diptaraj Sen](https://github.com/diptaraj23)
 - [Nicholas Gonzalez] (https://github.com/Cole2303)
