@@ -22,6 +22,7 @@ happy# Contributors
 - [Mythresh](https://github.com/Joyboy57)
 - [Charles]
 - [test-new-user]
+- [Risa Walles](https://github.com/rmw395)
 - [Tyler Austin]
 - [Brady Wisniewski]
 - [Nolan Newman]
