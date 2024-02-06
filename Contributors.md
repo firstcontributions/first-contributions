@@ -23,6 +23,7 @@ happy# Contributors
 - [Tyler Austin]
 - [Brady Wisniewski]
 - [Eli Vatsaas]
+- [Sam Cain](https://github.com/Samuel-R-Cain)
 - [Rocio Gutierrez](https://github.com/rociogutz)
 - [Dacidev](https://github.com/dacidev)
 - [Akram Hany](https://github.com/akramhany)
