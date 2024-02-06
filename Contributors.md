@@ -23,6 +23,7 @@ happy# Contributors
 - [Charles]
 -[Xavier Graham]
 - [test-new-user]
+- [Risa Walles](https://github.com/rmw395)
 - [Tyler Austin]
 - [Brady Wisniewski]
 - [Nolan Newman]
