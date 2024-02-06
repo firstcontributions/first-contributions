@@ -32,6 +32,7 @@ happy# Contributors
 - [Risa Walles](https://github.com/rmw395)
 - [Tyler Austin]
 - [Brady Wisniewski]
+- [AvionShea](https://github.com/AvionShea)
 - [Nolan Newman]
 - [Eli Vatsaas]
 - [Joseph Laity]
