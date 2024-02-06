@@ -2103,6 +2103,7 @@ LadegbayeStella)
 - [Louis] (https://github.com/consistentlyUnfunny)
 - [Jordan Crosby](https://github.com/jcros81234)
 - [isley89] (https://github.com/isley89)
+- [andiamos](https://github.com/andiamos)
 - [Vishwa Priya J] (https://github.com/vishwapriya)
 - [Priyanjith N] (https://github.com/Priyanjith-N)
 - [Purple Wazard]
