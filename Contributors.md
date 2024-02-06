@@ -41,6 +41,7 @@ happy# Contributors
 - [Eli Vatsaas]
 - [Joseph Laity]
 - [Bryan Record]
+- [Tushin Kulshreshtha](https://github.com/Dextron04)
 - [Antoine Héritier](https://github.com/antoheri)
 - [Xia3412]
 - [Sam Cain](https://github.com/Samuel-R-Cain)
