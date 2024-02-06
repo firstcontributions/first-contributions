@@ -21,6 +21,7 @@ happy# Contributors
 - [Ghanashyam R](https://github.com/ghanashyam-r)
 - [Mythresh](https://github.com/Joyboy57)
 - [Charles]
+-[Xavier Graham]
 - [test-new-user]
 - [Tyler Austin]
 - [Brady Wisniewski]
