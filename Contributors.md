@@ -1,4 +1,5 @@
 happy# Contributors
+- [Charles D.](https://github.com/cmd644)
 - [Olivia Vester] (https://github.com/oliveoil222)
 - [Dallon Jarman](https://github.com/dallonjarman)
 - [Samuel Bodenhemier](https://github.com/swBodenhemier)
