@@ -771,6 +771,7 @@ Romeu Leite
 - [Daniel Ndirangu](https://github.com/daniel-ndirangu)
 - [Gyanavardhan](https://github.com/gyanavardhana)
 - [Sourav Sathyan](https://github.com/souravsathyan)
+- [tharendra](https://github.com/tharendra)
 - [Nehal Ingole](https://github.com/Ingole712521) #Thanks
 - [FirePhoenix] (https://github.com/huy125) #Thanks for help
 - [Franco Pro](https://github.com/franco-pro) ##Thanks for the help
