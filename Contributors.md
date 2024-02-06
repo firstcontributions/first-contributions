@@ -48,6 +48,7 @@ happy# Contributors
 - [Every soul will taste death.](prepare with good deeds!)
 - [Gautam Jain](https://github.com/BloodThearch)
 - [Karissa Smallwood]
+- [Antonio Fernandez]
 - [Devansh Garg](https://github.com/garg-tech)
 - [ashrees](https://github.com/ashrees)
 - [Xia3412](https://github.com/Xia3412)
