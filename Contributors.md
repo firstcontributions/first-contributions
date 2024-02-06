@@ -8,6 +8,7 @@ happy# Contributors
 - [Shariar Islam](https://github.com/shariar-ms)
 - [Smihah A](https://github.com/smi-unicorn)
 - [Renna Carver](https://github.com/rennacarver)
+- [Diptaraj Sen](https://github.com/diptaraj23)
 - [Nicholas Gonzalez] (https://github.com/Cole2303)
 - [Eshwanth Karti T R](https://github.com/eshwanthkartitr)
 - [Azhar Aditya Pratama](https://github.com/azharadityapratama)
