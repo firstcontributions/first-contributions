@@ -5,6 +5,7 @@ happy# Contributors
 - [Dallon Jarman](https://github.com/dallonjarman)
 - [Samuel Bodenhemier](https://github.com/swBodenhemier)
 - [Shariar Islam](https://github.com/shariar-ms)
+- [Smihah A](https://github.com/smi-unicorn)
 - [Renna Carver](https://github.com/rennacarver)
 - [Nicholas Gonzalez] (https://github.com/Cole2303)
 - [Eshwanth Karti T R](https://github.com/eshwanthkartitr)
