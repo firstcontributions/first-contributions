@@ -1965,6 +1965,7 @@ LadegbayeStella)
 - [sridhar](https://github.com/srid5969)
 - [snitz70](https://github.com/snitz70)
 - [LuiCK]
+- [John Chaplin]
 - [Arash](https://github.com/ara6i)
 - [Ayman](https://aymanezzahir.me)
 - [Roshan](https://github.com/roshaneleshaddai)
