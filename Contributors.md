@@ -13,6 +13,7 @@ happy# Contributors
 - [Krishna Mohan Shah](https://github.com/krishnamshah)
 - [Chandani Mourya](https://github.com/chandani7021)
 - [test learn]
+  [Nicholas Greco](https://github.com/NMG888)
 - [Drishya Tomar](https://github.com/drishyatomar2904)
 - [Saif](https://github.com/wolfiee42)
 - [Phil Mach] (https://github.com/philmach2/philmach2)
