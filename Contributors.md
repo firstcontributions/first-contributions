@@ -2122,10 +2122,7 @@ LadegbayeStella)
 - [Dexter Vinoya](https://github.com/dxtrvny)
 - [Karan Prajapati](https://github.com/Karan2004xd)
 - [Song](https://github.com/qingw1230)
-<<<<<<< HEAD
 - [Hephzibah](https://github.com/Hephzy-1)
-=======
-- [Hephzibah Owoeye](https://github.com/Hephzy-1)[LinkedIn](www.linkedin.com/in/hephzibah-owoeye)
 - [Vivek Kumar Singh](git@github.com:v-s-chauhan)
 - [Matthew Gardner](https://github.com/meg546)
 - [Daniel Austin](https://github.com/dja322)
@@ -2141,4 +2138,3 @@ LadegbayeStella)
 - [Aidan Trujillo](https://github.com/Aidan-Trujillo)
 - [yakataN](https://github.com/yakataN)
 - [rajeev](https://github.com/0221csds146)
->>>>>>> 1b36352b413579ff54fae56a6861c8910ee8ba21
