@@ -3,6 +3,7 @@ happy# Contributors
 - [Alex King](https://github.com/ak2466) 🕳️
 - [Olivia Vester] (https://github.com/oliveoil222)
 - [Dallon Jarman](https://github.com/dallonjarman)
+- [Dhel Malith](https://github.com/thomasobote211)
 - [Samuel Bodenhemier](https://github.com/swBodenhemier)
 - [Shariar Islam](https://github.com/shariar-ms)
 - [Smihah A](https://github.com/smi-unicorn)
