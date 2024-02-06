@@ -35,6 +35,7 @@ happy# Contributors
 - [Tyler Austin]
 - [Brady Wisniewski]
 - [AvionShea](https://github.com/AvionShea)
+- [Benjamin Cha]
 - [Nolan Newman]
 - [Eli Vatsaas]
 - [Joseph Laity]
