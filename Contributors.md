@@ -62,6 +62,7 @@ happy# Contributors
 - [Lukeoson](https://github.com/lukeoson)
 - [Raj](https://github.com/prajX)
 - [juli](https://github.com/tymnkey)
+- [David Bailey](https://github.com/DavidBailey3)
 - [Every soul will taste death.](prepare with good deeds!)
 - [Gautam Jain](https://github.com/BloodThearch)
 - [Karissa Smallwood]
