@@ -112,6 +112,7 @@ happy# Contributors
 - [CharanMarasi](https:github.com/Charan-Marasi) 
 - [Rathish Kumar](https://github.com/RATHISHKUMAR07)
 - [Varun Jaiswal]
+- [Bryan Cetani] (https://github.com/cetanibp)
 - [Juvin Vinod](https://github.com/Juvinvinod)
 - [githubofkrishnadhas](https://github.com/githubofkrishnadhas)*(https://github.com/githubofkrishnadhas)*
 - [kalen](https://github.com/yokalen)
