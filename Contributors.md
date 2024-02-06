@@ -20,6 +20,7 @@ happy# Contributors
 - [Jeremy Reinoso 👑](https://github.com/jeremy511)
 - [Ghanashyam R](https://github.com/ghanashyam-r)
 - [Mythresh](https://github.com/Joyboy57)
+- [Charles]
 - [test-new-user]
 - [Tyler Austin]
 - [Brady Wisniewski]
