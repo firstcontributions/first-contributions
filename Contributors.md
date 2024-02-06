@@ -138,6 +138,7 @@ happy# Contributors
 - [githubofkrishnadhas](https://github.com/githubofkrishnadhas)*(https://github.com/githubofkrishnadhas)*
 - [kalen](https://github.com/yokalen)
 - [Laura](https://github.com/lapatari)
+- [Nitin Verma](https://github.com/vnitin08)
 - [Eslam AbdElhakem](https://github.com/EslamAbdElhakem)
 - [Dheeraj](https://github.com/raj1802)
 - [ASJordi](https://github.com/ASJordi)
