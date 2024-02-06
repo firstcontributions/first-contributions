@@ -18,6 +18,7 @@ happy# Contributors
 - [Krishna Mohan Shah](https://github.com/krishnamshah)
 - [Chandani Mourya](https://github.com/chandani7021)
 - [test learn]
+- [Shubhjeet Paul](https://github.com/shubh0924)
 - [Drishya Tomar](https://github.com/drishyatomar2904)
 - [Tuan Kiet dep trai](https://github.com/tuankiet12012003)
 - [Saif](https://github.com/wolfiee42)
