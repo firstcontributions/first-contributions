@@ -23,6 +23,7 @@ happy# Contributors
 - [test-new-user]
 - [Tyler Austin]
 - [Brady Wisniewski]
+- [Nolan Newman]
 - [Eli Vatsaas]
 - [Sam Cain](https://github.com/Samuel-R-Cain)
 - [Rocio Gutierrez](https://github.com/rociogutz)
