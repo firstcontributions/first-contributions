@@ -86,6 +86,7 @@ happy# Contributors
 - [Rohini](https://github.com/rohinigudimetla)
 - [Ankit24007] (https://github.com/ankit24007)
 - [Narendherraj Senthil](https://github.com/Narendherraj)
+- Colton Leighton
 - [Colton Sanchez](githttps://github.com/codeinecrazy420)
 - [Ankit Gupta](https://github.com/ankit-gupta-24)
 - [Devin Jay San Nicolas]
