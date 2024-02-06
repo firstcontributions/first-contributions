@@ -26,6 +26,7 @@ happy# Contributors
 - [Brady Wisniewski]
 - [Nolan Newman]
 - [Eli Vatsaas]
+- [Bryan Record]
 - [Sam Cain](https://github.com/Samuel-R-Cain)
 - [Rocio Gutierrez](https://github.com/rociogutz)
 - [Dacidev](https://github.com/dacidev)
