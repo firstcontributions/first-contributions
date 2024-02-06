@@ -34,6 +34,7 @@ happy# Contributors
 - [Eli Vatsaas]
 - [Joseph Laity]
 - [Bryan Record]
+- [Antoine Héritier](https://github.com/antoheri)
 - [Xia3412]
 - [Sam Cain](https://github.com/Samuel-R-Cain)
 - [Rocio Gutierrez](https://github.com/rociogutz)
