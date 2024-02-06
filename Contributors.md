@@ -216,6 +216,7 @@ happy# Contributors
 - [Gabriel Ripper](https://github.com/gabripper)
 - [Thales Winther](https://github.com/thaleswinther)
 - - [Ryan Lucero](https://github.com/ryanluceroo)
+- [Alonso Jimenez](https://github.com/alonsojmnz)
 - [Anand Shende](https://github.com/anandshende)
 - [WHA](https://github.com/wynehtetaung)
 - [Captain] (https://github.com/CaptainPatel)
