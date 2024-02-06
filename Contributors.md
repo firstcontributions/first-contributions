@@ -30,6 +30,7 @@ happy# Contributors
 - [Eli Vatsaas]
 - [Joseph Laity]
 - [Bryan Record]
+- [Xia3412]
 - [Sam Cain](https://github.com/Samuel-R-Cain)
 - [Rocio Gutierrez](https://github.com/rociogutz)
 - [Dacidev](https://github.com/dacidev)
