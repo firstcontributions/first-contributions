@@ -28,6 +28,7 @@ happy# Contributors
 - [Brady Wisniewski]
 - [Nolan Newman]
 - [Eli Vatsaas]
+- [Joseph Laity]
 - [Bryan Record]
 - [Sam Cain](https://github.com/Samuel-R-Cain)
 - [Rocio Gutierrez](https://github.com/rociogutz)
