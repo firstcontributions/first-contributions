@@ -5,6 +5,7 @@ happy# Contributors
 - [Samuel Bodenhemier](https://github.com/swBodenhemier)
 - [Shariar Islam](https://github.com/shariar-ms)
 - [Renna Carver](https://github.com/rennacarver)
+- [Nicholas Gonzalez] (https://github.com/Cole2303)
 - [Eshwanth Karti T R](https://github.com/eshwanthkartitr)
 - [Azhar Aditya Pratama](https://github.com/azharadityapratama)
 - [Abdullah Sohail](https://github.com/abdullahsohailcs)
