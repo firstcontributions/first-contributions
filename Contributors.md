@@ -197,6 +197,7 @@ happy# Contributors
 - [gpalacios26] (https://github.com/gpalacios26/curso-git-fork)
 - [Fahad Shoaib] (https://github.com/Fahad-S94)
 - [Ravi Teja]
+- [Fady Zaky] (https://github.com/0ddAuto00)
 - [Whitehackerneth](https://github.com/Whitehackerneth/first-contributions)
 - [Simons Arhin](https://github.com/simonskayi)
 - [Abdelwakil](https://github.com/fondbcn)
