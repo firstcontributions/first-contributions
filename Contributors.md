@@ -1981,6 +1981,7 @@ LadegbayeStella)
 - [echozoo](https://github.com/echozoo)
 - [Matheosk](https://github.com/Matheosk)
 - [Tiffany Hunnicutt] (https://github.com/TiffanyLHunnicutt)
+- [Cong Yuan](https://github.com/yuan-93)
 - [Jasper Nummi] (https://github.com/jaspe136)
 - [Edwin Hallikainen] (https://github.com/EdwinHallikainen)
 - [ydoow]
