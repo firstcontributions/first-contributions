@@ -99,6 +99,7 @@ happy# Contributors
 - [Eric]
 - [saingchildren](https://github.com/saingchildren)
 - Faith Ononye
+- [Amandeep Singh](https://github.com/AmandeepSingh789)
 - [Peniel Bekele](https://github.com/Penie1)
 - [Shibli]
 - [Ben Gale](https://github.com/Sabreco)
