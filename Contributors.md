@@ -187,6 +187,7 @@ happy# Contributors
 - [Shaowy05]
 - Andy O
 - [samandar02]
+- [ashmita](https://github.com/Ashmita001)
 - [nade-em]
 - [NikhilBalthi](https://github.com/NikhilBalthi)
 - [kpgomez](https://github.com/kpgomez)
