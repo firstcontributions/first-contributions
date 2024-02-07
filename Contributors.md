@@ -41,6 +41,7 @@ happy# Contributors
 - [test-new-user]
 - [Risa Walles](https://github.com/rmw395)
 - [Tyler Austin]
+- th0rnium
 - [Brady Wisniewski]
 - [AvionShea](https://github.com/AvionShea)
 - [Benjamin Cha]
