@@ -1,4 +1,7 @@
 happy# Contributors
+
+- [Junmin.ma](https://github.com/majunmin)
+- [Abu Zahra DE.](https://github.com/mr1lazycoder)
 - [Marc Delgado Ferreres](https://github.com/marc-delgado-ferreres)
 - [Charles D.](https://github.com/cmd644)
 - [Alex King](https://github.com/ak2466) 🕳️
@@ -32,7 +35,8 @@ happy# Contributors
 - [Ghanashyam R](https://github.com/ghanashyam-r)
 - [Mythresh](https://github.com/Joyboy57)
 - [Charles]
--[Xavier Graham]
+- [Xavier Graham]
+- [Ashutosh Kanade]
 - [test-new-user]
 - [Risa Walles](https://github.com/rmw395)
 - [Tyler Austin]
@@ -59,7 +63,8 @@ happy# Contributors
 - [uujeong](https://github.com/uujeong)
 - [Tunahan Değirmencioğlu](https://github.com/dabbitz)
 - [Mehardeep](https://github.com/mehardeep88)
-- [mrrr3d]
+- [mrrr4d]()
+- [mrrr3d](https://github.com/mrrr3d)
 - [Ashley Hendrata](https://github.com/ashhendrata)
 - [Joshua I Michael] (https://github.com/ikjosh)
 - [Emchesso](https://github.com/Emchesso)
@@ -385,6 +390,7 @@ Gyanendra Thakur
 - [Sarvesh Bachute](https://github.com/sarry8901)
 - [Ala Gowtham Siva Kumar](https://github.com/gowtham-2oo5) 
 - [Swapnilkumar Dwivedi](https://github.com/swappy-2003)
+- [Gergely Kántor](https://github.com/kantorge)
 - Arjun
 - [Ahmed Abdelmageed](https://github.com/Ahmad-Abdalmageed)
 - [Annuar](https://github.com/ramo-dev)
@@ -2151,4 +2157,4 @@ LadegbayeStella)
 - [phipno](https://github.com/phipno)
 - [Mahak](https://github.com/mahakpandia)
 - [rajeev](https://github.com/0221csds146)
-- 
+- [Priya K](https://github.com/Priya123346)
