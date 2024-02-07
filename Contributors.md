@@ -384,6 +384,7 @@ Gyanendra Thakur
 - [Sarvesh Bachute](https://github.com/sarry8901)
 - [Ala Gowtham Siva Kumar](https://github.com/gowtham-2oo5) 
 - [Swapnilkumar Dwivedi](https://github.com/swappy-2003)
+- [Gergely Kántor](https://github.com/kantorge)
 - Arjun
 - [Ahmed Abdelmageed](https://github.com/Ahmad-Abdalmageed)
 - [Annuar](https://github.com/ramo-dev)
