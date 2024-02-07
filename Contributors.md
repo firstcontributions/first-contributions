@@ -35,7 +35,8 @@ happy# Contributors
 - [Ghanashyam R](https://github.com/ghanashyam-r)
 - [Mythresh](https://github.com/Joyboy57)
 - [Charles]
--[Xavier Graham]
+- [Xavier Graham]
+- [Ashutosh Kanade]
 - [test-new-user]
 - [Risa Walles](https://github.com/rmw395)
 - [Tyler Austin]
