@@ -123,6 +123,7 @@ happy# Contributors
 - [Narendherraj Senthil](https://github.com/Narendherraj)
 - Colton Leighton
 - [Colton Sanchez](githttps://github.com/codeinecrazy420)
+- [Pop Sergiu-George](https://github.com/SeGePop)
 - [Ankit Gupta](https://github.com/ankit-gupta-24)
 - [Devin Jay San Nicolas]
 - [Nitesh Tiwari](https://github.com/nitesh2920)
