@@ -4,6 +4,7 @@ happy# Contributors
 - [Abu Zahra DE.](https://github.com/mr1lazycoder)
 - [Marc Delgado Ferreres](https://github.com/marc-delgado-ferreres)
 - [Charles D.](https://github.com/cmd644)
+- [Viral Jain](https://github.com/viraljain7)
 - [Alex King](https://github.com/ak2466) 🕳️
 - [Olivia Vester] (https://github.com/oliveoil222)
 - [Oscar Agurto] (https://github.com/ImMalwaree)
