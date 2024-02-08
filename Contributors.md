@@ -1483,7 +1483,7 @@ Alexander
 - [Mersad Rezazadeh](https://github.com/mersadrezazadeh)
 - [andole xavier](https://github.com/jaarabytes)
 - [Caleb Coggins](https://github.com/OnlyPolygon)
-- [Vajda Örs](https://github.com/st4r-w4rs)
+- [Vajda Örs](https://github.com/vajdao)
 - [miacodehub](https://github.com/miacodehub)
 - [Maximus Niu](https://github.com/maxx-niu)
 - [aid-in](https://github.com/aid-in)
