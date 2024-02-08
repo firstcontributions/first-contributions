@@ -1856,6 +1856,7 @@ LadegbayeStella)
 - [Akbar Khotamov] (https://github.com/kingoker)
 - [Anna Muse] (https://github.com/anna-muse)
 - [tomato]
+- [Michael Thompson] (https://github.com/mctworks)
 - [Amirhossein Mirshahi] (https://github.com/Delaunay-I)
 - [Empuraan]
 - [David V Rullo](https://github.com/David-V-Rullo)
