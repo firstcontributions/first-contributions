@@ -240,6 +240,7 @@ happy# Contributors
 - [Abhinav] (https://github.com/saiabhinav75)
 - [turtle-papa](https://github.com/turtle-papa)
 - [GCabane] (https://github.com/GCabane)
+- [TsvetislavRangelov] (https://github.com/TsvetislavRangelov)
 - [Michael Gabriel](https://github.com/maranatha443)
 - [Mwofoh-Adriel](https://github.com/Mwofoh-Adriel)
 - [Shagun Sharma](https://github.com/shagunsharma6677)
