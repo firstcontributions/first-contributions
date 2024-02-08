@@ -379,6 +379,7 @@ Gyanendra Thakur
 - [Akash Dhamane](https://github.com/explore)
 - [Helen C](https://github.com/hmczap)
 - [Kiranmai Kalla](https://github.com/KiranmaiKalla)
+- [Loyd Ngei](https://github.com/LoydNgei)
 - [Suved Ganduri](https://github.com/Sooowayydh)
 - [Mariusz Sobczak](https://github.com/SmoQ)
 - [Mayank Pratap Singh](https://github.com/04-mayank)
