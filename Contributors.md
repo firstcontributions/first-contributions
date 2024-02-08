@@ -87,6 +87,7 @@ happy# Contributors
 - [Karissa Smallwood]
 - [Antonio Fernandez]
 - [Devansh Garg](https://github.com/garg-tech)
+- [Muskaan Bhargava](https://github.com/muskaanbh)
 - [ashrees](https://github.com/ashrees)
 - [Xia3412](https://github.com/Xia3412)
 - [Mustafa Zariwala](https://github.com/mustafazariwala)
