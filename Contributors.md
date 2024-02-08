@@ -97,6 +97,7 @@ happy# Contributors
 - [Xia3412](https://github.com/Xia3412)
 - [Mustafa Zariwala](https://github.com/mustafazariwala)
 - [Surani Naranpanawa](https://github.com/Surani02)
+- [Arpit Mishra](https://github.com/arpit-mishra-1408)
 - [Arthion Daena](https://github.com/arthiondaena)
 - [De incarnated Wizard](https://github.com/AsikumaGod)
 - [Mukul Sharma](https://github.com/mukuliskul)
