@@ -209,6 +209,7 @@ happy# Contributors
 - [Lauranthalassa](https://github.com/Talassha)
 - [Kothari.S] (https://github.com/effaf/)
 - [nahyan](https://github.com/nahyan0077/ecommerce-1-DropShip)
+- [sarfaraz](https://github.com/sarfarazsiddiquii)
 - [leviduncan] (https://github.com/leviduncan) 
 - [snowman95] (https://github.com/snowman95)
 - [SinaJaha] (https://github.com/SinaJaha)
