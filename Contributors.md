@@ -1,6 +1,7 @@
 happy# Contributors
 
 - [Junmin.ma](https://github.com/majunmin)
+- [Aryan Panwar](https://github.com/aryannpanwarr)
 - [MrFiszbi1](https://github.com/MrFiszbi1)
 - [HeadBaker](https://github.com/headbaker)
 - [Bowen Zhang](https://github.com/bitbw)
