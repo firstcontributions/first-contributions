@@ -40,6 +40,7 @@ happy# Contributors
 - [Jeremy Reinoso 👑](https://github.com/jeremy511)
 - [Ghanashyam R](https://github.com/ghanashyam-r)
 - [Mythresh](https://github.com/Joyboy57)
+- [Shubham Salunke](https://github.com/TechnoFynch)
 - [Charles]
 - [Xavier Graham]
 - [Ashutosh Kanade]
