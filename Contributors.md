@@ -714,6 +714,7 @@ Romeu Leite
 - [Sudarshan Nikhil](https://github.com/SlimReaper15)
 - Kunal Takalkhede
 - nathosboy
+- dr_zoid
 - [Mike Zeg](https://github.com/MikeZeg) 👋
 - [George Fam](https://github.com/George-Fam)
 - [Jm Delas Alas](https://github.com/letandconst)
