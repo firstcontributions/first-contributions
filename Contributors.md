@@ -1,5 +1,5 @@
 happy# Contributors
-
+- [Arnaud Michel](https://github.com/MrArnaudMichel)
 - [Junmin.ma](https://github.com/majunmin)
 - [Aryan Panwar](https://github.com/aryannpanwarr)
 - [MrFiszbi1](https://github.com/MrFiszbi1)
