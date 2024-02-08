@@ -98,6 +98,7 @@ happy# Contributors
 - [Gautam Jain](https://github.com/BloodThearch)
 - [Karissa Smallwood]
 - [Antonio Fernandez]
+- [sai chandra]
 - [Zestoo](https://github.com/zesto-shoaib/)
 - [Devansh Garg](https://github.com/garg-tech)
 - [Muskaan Bhargava](https://github.com/muskaanbh)
