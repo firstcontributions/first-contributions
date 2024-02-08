@@ -156,6 +156,7 @@ happy# Contributors
 - [Servet iltuzer](https://github.com/iltuzers)
 - [JerryHuangYu](https://github.com/jerryhuangyu)
 - [AubreyMalabie](https://github.com/malengatiger)
+- [NeoDante23](https://github.com/NeoDante23)
 - [JoshSchaeffer](https://github.com/schaeffjosh)
 - [Briannll](https://github.com/Briannll)
 - [Ben Gangi](https://github.com/BRGANGI)
