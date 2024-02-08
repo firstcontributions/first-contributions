@@ -44,6 +44,7 @@ happy# Contributors
 - [Ghanashyam R](https://github.com/ghanashyam-r)
 - [Mythresh](https://github.com/Joyboy57)
 - [Shubham Salunke](https://github.com/TechnoFynch)
+- [Ahmad Malik](https://github.com/admalik100)
 - [Charles]
 - [Xavier Graham]
 - [Ashutosh Kanade]
