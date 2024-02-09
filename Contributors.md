@@ -2,6 +2,7 @@ happy# Contributors
 
 - [Junmin.ma](https://github.com/majunmin)
 - [Aryan Panwar](https://github.com/aryannpanwarr)
+- [Bryan](https://github.com/BryanLoooo)
 - [MrFiszbi1](https://github.com/MrFiszbi1)
 - [HeadBaker](https://github.com/headbaker)
 - [Kate Basile](https://github.com/kbasil3)
