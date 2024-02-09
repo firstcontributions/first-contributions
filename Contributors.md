@@ -24,6 +24,7 @@ happy# Contributors
 - [Dhel Malith](https://github.com/thomasobote211)
 - [Samuel Bodenhemier](https://github.com/swBodenhemier)
 - [Shariar Islam](https://github.com/shariar-ms)
+- [Aryan Singh](https://github.com/LongClawSword)
 - [Smihah A](https://github.com/smi-unicorn)
 - [Benjamin Cruickshank](https://github.com/OfficerClucks)
 - [Renna Carver](https://github.com/rennacarver)
