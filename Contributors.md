@@ -98,6 +98,7 @@ happy# Contributors
 - [Gautam Jain](https://github.com/BloodThearch)
 - [Karissa Smallwood]
 - [Antonio Fernandez]
+- [sai chandra]
 - [Zestoo](https://github.com/zesto-shoaib/)
 - [Devansh Garg](https://github.com/garg-tech)
 - [Muskaan Bhargava](https://github.com/muskaanbh)
@@ -239,6 +240,7 @@ happy# Contributors
 - [Abhinav] (https://github.com/saiabhinav75)
 - [turtle-papa](https://github.com/turtle-papa)
 - [GCabane] (https://github.com/GCabane)
+- [TsvetislavRangelov] (https://github.com/TsvetislavRangelov)
 - [Michael Gabriel](https://github.com/maranatha443)
 - [Mwofoh-Adriel](https://github.com/Mwofoh-Adriel)
 - [Shagun Sharma](https://github.com/shagunsharma6677)
@@ -713,6 +715,7 @@ Romeu Leite
 - [Sudarshan Nikhil](https://github.com/SlimReaper15)
 - Kunal Takalkhede
 - nathosboy
+- dr_zoid
 - [Mike Zeg](https://github.com/MikeZeg) 👋
 - [George Fam](https://github.com/George-Fam)
 - [Jm Delas Alas](https://github.com/letandconst)
