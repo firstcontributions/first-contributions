@@ -2,6 +2,7 @@ happy# Contributors
 
 - [Junmin.ma](https://github.com/majunmin)
 - [Aryan Panwar](https://github.com/aryannpanwarr)
+- [Bryan](https://github.com/BryanLoooo)
 - [MrFiszbi1](https://github.com/MrFiszbi1)
 - [HeadBaker](https://github.com/headbaker)
 - [Kate Basile](https://github.com/kbasil3)
@@ -97,6 +98,7 @@ happy# Contributors
 - [juli](https://github.com/tymnkey)
 - [David Bailey](https://github.com/DavidBailey3)
 - [Every soul will taste death.](prepare with good deeds!)
+- [Srinjan Mukherjee] (https://github.com/Srinjan03112001)
 - [Gautam Jain](https://github.com/BloodThearch)
 - [Karissa Smallwood]
 - [Antonio Fernandez]
@@ -1021,6 +1023,7 @@ Romeu Leite
 - [Atharva Pardeshi](https://github.com/SazedWorldbringer)
 - [Khai Tran](https://github.com/minhkhai2005)
 - [Emmett Fitzharris](https://github.com/emmettirl)
+- [Zachary D Liu](https://github.com/ZacharyDLiu)
 - [Calen Shirfield](https://github.com/CalenShirfield)
 - [Aditya Patel](https://github.com/thepateladitya)
 - [Ling Xiao](https://github.com/lingxiao14122)
@@ -1907,6 +1910,7 @@ LadegbayeStella)
 - [suresh chandra sekar] (https://github.com/sureshchandras3kar)
 - [Yura] (https://github.com/yuramayer)
 - [taitep](https://github.com/taitep)
+- [Austin Kim]
 - [Battousai](https://github.com/Battosuai)
 - [Tushar Chaudhary] (https://github.com/chaudhary-tushar)
 -[kavya-somireddy](https://github.com/Kavya-somireddy/first-contributions.git)
