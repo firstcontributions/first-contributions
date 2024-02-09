@@ -507,6 +507,7 @@ Romeu Leite
 - [Ayush Rai](https://github.com/Charlie-1-3) 
 - [Patrick C](https://github.com/patrickcap)
 - [Aditya Gupta](https://github.com/Deadlock-exe)
+- [Alan Thomas](https://github.com/alntom)
 - [Joy A](https://github.com/joyagbo)
 - [Shreya Shivratriwar](https://github.com/shreyasico)
 - [BABLU](https://github.com/bablu2b)
