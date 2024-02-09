@@ -497,6 +497,7 @@ Romeu Leite
 - [Aristide Legba](https://github.com/aristidelegba)
 - [EvinExiNiTy](https://github.com/Evinexinity)
 - [Daley Nyae](https://github.com/nyae44)
+- [Radu Mocanu](https://github.com/radumocanu1)
 - [Matthew Z](https://github.com/GitwithAbba)
 - [Ayush Rai](https://github.com/Charlie-1-3) 
 - [Patrick C](https://github.com/patrickcap)
