@@ -10,6 +10,7 @@ happy# Contributors
 - [Anukrati Mehta](https://github.com/AnukratiMehta)
 - [Abu Zahra DE.](https://github.com/mr1lazycoder)
 - [Marc Delgado Ferreres](https://github.com/marc-delgado-ferreres)
+- [Lorenzo Petraroli](https://github.com/ReflexiveFox)
 - [Akash Pal](https://github.com/farzigulzar)
 - [Charles D.](https://github.com/cmd644)
 - [Viral Jain](https://github.com/viraljain7)
