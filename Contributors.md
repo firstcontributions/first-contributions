@@ -774,6 +774,7 @@ Romeu Leite
 -[Su Su San](https://github.com/sususan16)
 -[YM]
 - Gustav Atmel
+- Davide Coppola
 -[RushilShandilya](https://github.com/RushilShandilya)
 -[Akshath-dev](https://github.com/Akshath-dev)
 - [Heesu Han](https://github.com/han990702)
