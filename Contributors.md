@@ -130,6 +130,7 @@ happy# Contributors
 - [Mai Van Hoang]
 - [Alex White](https://github.com/alexwhite116)
 - [Joseph Kharzo](https://github.com/Kharzo)
+- [Cezar Ganzon](https://github.com/cganzon)
 - [Efren Aguilar](https://github.com/LeoALe)
 - [Muhammad Arslan](https://github.com/muh-arslan)
 - [Hava] (https://github.com/stellar-flame)
