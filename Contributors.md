@@ -17,6 +17,7 @@ happy# Contributors
 - [Alex King](https://github.com/ak2466) 🕳️
 - [Olivia Vester] (https://github.com/oliveoil222)
 - [Oscar Agurto] (https://github.com/ImMalwaree)
+- [André] (https://github.com/DrehDev)
 - [Dallon Jarman](https://github.com/dallonjarman)
 - [Dhel Malith](https://github.com/thomasobote211)
 - [Samuel Bodenhemier](https://github.com/swBodenhemier)
