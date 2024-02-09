@@ -1021,6 +1021,7 @@ Romeu Leite
 - [Atharva Pardeshi](https://github.com/SazedWorldbringer)
 - [Khai Tran](https://github.com/minhkhai2005)
 - [Emmett Fitzharris](https://github.com/emmettirl)
+- [Zachary D Liu](https://github.com/ZacharyDLiu)
 - [Calen Shirfield](https://github.com/CalenShirfield)
 - [Aditya Patel](https://github.com/thepateladitya)
 - [Ling Xiao](https://github.com/lingxiao14122)
