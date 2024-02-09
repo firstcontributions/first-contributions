@@ -1054,6 +1054,7 @@ Romeu Leite
 - [Edmond Prin] (https://github.com/edmondprin)
 - [Ram Deepak] (https://github.com/Ram-Deepak)
 - [Juliet Ofoegbu](https://github.com/OmaJuliet)
+- [Christopher Chang] (https://github.com/cchrizzle)
 - [Luis Fernando Tenorio Mora](https://github.com/ltenoriom)
 - [jaroslaw1](https://github.com/iaroslaw1)
 - [marysaley](https://github.com/marysaley)
