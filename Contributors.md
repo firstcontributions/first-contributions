@@ -70,6 +70,7 @@ happy# Contributors
 - [Joseph Laity]
 - [Bryan Record]
 - [Armaan Raj Thakur]
+- [Chris Baker](https://github.com/gulpfood5)
 - [Tushin Kulshreshtha](https://github.com/Dextron04)
 - [Antoine Héritier](https://github.com/antoheri)
 - [Xia3412]
