@@ -45,7 +45,7 @@ happy# Contributors
 - [Denny John](https://github.com/dennyjohnk)
 - [Max B.]
 - [Krishna Mohan Shah](https://github.com/krishnamshah)
-- [Eva Ketesdi](https://github.com/Evaketesdi)
+- [Ketesdi Eva](https://github.com/Evaketesdi)
 - [Chandani Mourya](https://github.com/chandani7021)
 - [Roman Bukovskyi](https://github.com/BukovskyiRoman)
 - [test learn]
