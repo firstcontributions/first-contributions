@@ -27,7 +27,7 @@ happy# Contributors
 - [Renna Carver](https://github.com/rennacarver)
 - [Diptaraj Sen](https://github.com/diptaraj23)
 - [Nicholas Gonzalez] (https://github.com/Cole2303)
-- [robandev](https://github.com/robandev)
+- [Manan poddar](https://github.com/manan652)
 - [Ceyhun Atagec](https://github.com/atagec)
 - [Eshwanth Karti T R](https://github.com/eshwanthkartitr)
 - [Azhar Aditya Pratama](https://github.com/azharadityapratama)
