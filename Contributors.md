@@ -64,6 +64,7 @@ happy# Contributors
 - [Ashutosh Kanade]
 - [test-new-user]
 - [Risa Walles](https://github.com/rmw395)
+- [Jakub Cabala] (https://github.com/jCabala)
 - [Tyler Austin]
 - th0rnium
 - [Brady Wisniewski]
