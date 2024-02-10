@@ -2245,3 +2245,6 @@ LadegbayeStella)
 - [Arielle Loring](https://github.com/arihellyeah)
 - [Theophilus Dennis](https://github.com/theodennis)
 - [Vishesh Dvivedi](https://github.com/visheshdvivedi)
+- Amin Alizadeh
+  - [Github](https://github.com/M-AminAlizadeh)
+  - [Linkedin](https://www.linkedin.com/in/m-amin-alizadeh)
