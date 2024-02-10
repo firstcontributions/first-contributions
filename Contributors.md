@@ -367,6 +367,7 @@ happy# Contributors
 -[Chandra Mohan](https://github.com/chandramohan0/)
 - [Arslanaka](https://github.com/arslanaka)
 Gyanendra Thakur
+- [Tarun kumar] (https://github.com/krtarun7) 
 - [Codemanticism](https://github.com/codemanticism)
 - [Flavio Emanuele Cannavò](https://github.com/flaviocnn)
 - [Harsh Verma](https://github.com/hv0911)
