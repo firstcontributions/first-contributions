@@ -72,6 +72,7 @@ happy# Contributors
 - [Nolan Newman]
 - [Eli Vatsaas]
 - [Joseph Laity]
+- [chandu venna]
 - [Bryan Record]
 - [Armaan Raj Thakur]
 - [Chris Baker](https://github.com/gulpfood5)
