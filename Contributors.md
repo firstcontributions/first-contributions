@@ -2043,6 +2043,7 @@ LadegbayeStella)
 - [crg]
 - [Mario Tedeschi]
 - [anu]
+- [Ricardo Molina](https://github.com/angelnieto)
 - [samsonmobisa](https://github.com/samsonmobisa)
 - [Richard Washington](https://github.com/richardfwashington)
 - [anastaszi](https://github.com/anastaszi)
