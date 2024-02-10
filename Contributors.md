@@ -1462,6 +1462,7 @@ Alexander
 - [Egor Kalinin](https://github.com/egorii87)
 - [Yatrik](https://github.com/yatrik-s)
 - [Dan Galano](https://github.com/Dan-Galano)
+- [Adam Taylor](https://github.com/Adam20Taylor)
 - [Luthfi](https://github.com/luthfi25)
 - [Yash Patel](https://github.com)
 - [Gabriel Brindo](https://github.com/brindogabriel)
