@@ -2257,7 +2257,7 @@ LadegbayeStella)
 - [Ke-Li02](https://github.com/Ke-Li02)
 - [jigarshah088](https://github.com/jigarshah088)
 - [Idris Kulubi](https://github.com/169398)
-- [Kamaleshwar](https://github.com/Kamal-04)
+- [Kamaleshwar]
 - [Léo Simon](https://github.com/leoasimon)
 - [Arielle Loring](https://github.com/arihellyeah)
 - [Theophilus Dennis](https://github.com/theodennis)
