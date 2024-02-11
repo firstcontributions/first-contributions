@@ -2268,5 +2268,5 @@ LadegbayeStella)
 - [Vishesh Dvivedi](https://github.com/visheshdvivedi)
 - [Radu Bagrin](https://github.com/rbagrin)
 - [nitsudgo 🙌🏼](https://github.com/nitsudgo)
--[Araish Shaikh](https://github.com/araish03)
-- [Practice2001](https://github.com/Practice2001)
+- [Pranshul Thakur](https://github.com/Pranshul-Thakur)
+
