@@ -11,6 +11,7 @@ happy# Contributors
 - [MrFiszbi1](https://github.com/MrFiszbi1)
 - [HeadBaker](https://github.com/headbaker)
 - [DMani777](https://github.com/DMani777)
+- [Zaman Wahid](https://github.com/zamanwahid16)
 - [Kate Basile](https://github.com/kbasil3)
 - [Bowen Zhang](https://github.com/bitbw)
 - [Anukrati Mehta](https://github.com/AnukratiMehta)
