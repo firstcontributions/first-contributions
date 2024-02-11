@@ -1016,6 +1016,7 @@ Romeu Leite
 - [Rithvik Shetty] (https://github.com/rithvikshetty)
 - [Syed Mehdi] (https://github.com/Infamous003)
 - [Balaji Jegadeesh V](https://github.com/Vbj1808/)
+- [syurenuko](https://github.com/syurenuko)
 - [Collin Hensel] (https://github.com/chensel558)
 - [Lukas Cihelna](https://github.com/LukasCihelna)
 - [Namit Saxena](https://github.com/oddball1123)
