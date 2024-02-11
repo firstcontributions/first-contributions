@@ -154,6 +154,7 @@ happy# Contributors
 - [Muhammad Arslan](https://github.com/muh-arslan)
 - [Hava] (https://github.com/stellar-flame)
 - [Harshil Sharma](https://github.com/harshilshrma)
+- [Nitin S](https://github.com/bruhhnitin)
 - [Ciprian] (https://github.com/borninthecoffin)
 - [Murat Tekin] (https://github.com/zxmod51)
 - [Jorge Martin](https://github.com/jorgemp13)
