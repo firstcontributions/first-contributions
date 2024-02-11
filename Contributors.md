@@ -327,6 +327,7 @@ happy# Contributors
 - [Julius Jones] (https://github.com/jlwj22)
 - [Dave Friedman](https://github.com/heracliteanflux)
 - [Vicente Guzmán](https://vicenteguzman.com/)
+- [Vinit Jahagirdar](https://github.com/Vinit1909)
 - [Tyler Daw](https://github.com/TylerD1105)
 - [Brandon Munisur](https://github.com/Brandonmunisur)
 - [Jensen Coonradt](https://github.com/CapyBatman)
