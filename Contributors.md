@@ -9,6 +9,8 @@ happy# Contributors
 - [Aryan Panwar](https://github.com/aryannpanwarr)
 - [Saurabh Gattani](https://github.com/saurabh1294)
 - [Bryan](https://github.com/BryanLoooo)
+- [Afolarin](https://github.com/Fola-rin)
+- [Aylowo] (https://github.com/Ayolowo)
 - [Afolarin](https://github.com/Fola-rin) 
 - [Liangliang Xiang](https://github.com/LiangliangXiang)
 - [MrFiszbi1](https://github.com/MrFiszbi1)
