@@ -6922,3 +6922,4 @@ Aadi Deshmukh
 - [Gustavo Canseco] (https://github.com/guss89)
 - [Prashant Singh](https://github.com/prashant5025)
 - [Tristan Bierig](https://github.com/TristanBierig)
+- [Baptiste Crepin](https://github.com/Baptiste-Crepin)
