@@ -13,6 +13,7 @@ happy# Contributors
 - [DMani777](https://github.com/DMani777)
 - [Zaman Wahid](https://github.com/zamanwahid16)
 - [Kate Basile](https://github.com/kbasil3)
+- [AryasCodeTrek](https://github.com/AryasCodeTreks)
 - [Bowen Zhang](https://github.com/bitbw)
 - [Anukrati Mehta](https://github.com/AnukratiMehta)
 - [Abu Zahra DE.](https://github.com/mr1lazycoder)
