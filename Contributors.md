@@ -47,6 +47,7 @@ happy# Contributors
 - [Jesus Salazar](https://github.com/Zhayr1)
 - [Om Gaikwad](https://github.com/gaikwadomg)
 - [Denny John](https://github.com/dennyjohnk)
+- [RYURI](https://github.com/iamhnineishweyee)
 - [Max B.]
 - [Krishna Mohan Shah](https://github.com/krishnamshah)
 - [Chandani Mourya](https://github.com/chandani7021)
