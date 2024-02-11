@@ -1084,6 +1084,7 @@ Romeu Leite
 - [Zelphh](https://github.com/Zelphh)
 - [Aakruti Kalia](https://github.com/akku-07)
 - [DankGuy](https://github.com/DankGuy)
+-[Leonidov Egor](https://github.com/leonidov-dev)
 - [oladetohun1](https://github.com/oladetohun1)
 - [Edmond Prin] (https://github.com/edmondprin)
 - [Ram Deepak] (https://github.com/Ram-Deepak)
@@ -2267,3 +2268,4 @@ LadegbayeStella)
 - [Radu Bagrin](https://github.com/rbagrin)
 - [nitsudgo 🙌🏼](https://github.com/nitsudgo)
 -[Araish Shaikh](https://github.com/araish03)
+
