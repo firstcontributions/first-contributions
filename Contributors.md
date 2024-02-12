@@ -6,6 +6,7 @@ happy# Contributors
 - [Parzi68] (https://github.com/Parzi68)
 - [G Madhu Sudan Reddy](https://github.com/geekofcodes) 👨‍💻💡💻📚🔍
 - [Matheus Zahorcak](https://github.com/mathzak)
+- [Lucas Hogg](https://github.com/lucashogg)
 - [Matt Heeter](https://github.com/mattheeter)
 - [Qowe Awi](https://github.com/qoweawi)
 - [Junmin.ma](https://github.com/majunmin)
