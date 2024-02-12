@@ -186,6 +186,7 @@ happy# Contributors
 - [Servet iltuzer](https://github.com/iltuzers)
 - [JerryHuangYu](https://github.com/jerryhuangyu)
 - [AubreyMalabie](https://github.com/malengatiger)
+- [Cloud-Playground](https://github.com/cloud-playground)
 - [NeoDante23](https://github.com/NeoDante23)
 - [JoshSchaeffer](https://github.com/schaeffjosh)
 - [Briannll](https://github.com/Briannll)
