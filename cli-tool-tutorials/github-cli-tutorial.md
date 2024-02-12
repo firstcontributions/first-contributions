@@ -40,7 +40,7 @@ We will do this step with git, so enter this command replacing the name with you
 git switch -c add-john-doe
 ```
 
-# Make necessary changes and commit those changes 
+# Make the necessary changes and commit those changes 
 Now you can open `Contributors.md` file in a text editor and add your name to it. Put your name anywhere between the beginning and the end, then save the file.
 
 In the project directory execute `git status` and you will see the changes.
