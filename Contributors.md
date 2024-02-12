@@ -38,6 +38,7 @@ happy# Contributors
 - [Benjamin Cruickshank](https://github.com/OfficerClucks)
 - [Renna Carver](https://github.com/rennacarver)
 - [Diptaraj Sen](https://github.com/diptaraj23)
+- [Adyan Chowdhury](https://github.com/adyan1025)
 - [Nicholas Gonzalez] (https://github.com/Cole2303)
 - [robandev](https://github.com/robandev)
 - [Ceyhun Atagec](https://github.com/atagec)
