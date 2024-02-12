@@ -157,6 +157,7 @@ happy# Contributors
 - [Ben Gale](https://github.com/Sabreco)
 - [AYL](https://github.com/Ayeyulwin)
 - [Mai Van Hoang]
+- [Ankit Chaubey](https://www.linkedin.com/in/ankit-chaubey-6102/)
 - [Alex White](https://github.com/alexwhite116)
 - [Joseph Kharzo](https://github.com/Kharzo)
 - [Cezar Ganzon](https://github.com/cganzon)
