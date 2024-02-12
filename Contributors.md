@@ -55,6 +55,7 @@ happy# Contributors
 - [Dominique G](https://github.com/djag118)
 - [RYURI](https://github.com/iamhnineishweyee)
 - [Max B.]
+- [Kiichi Watanabe](https://github.com/watackeech)
 - [Krishna Mohan Shah](https://github.com/krishnamshah)
 - [Chandani Mourya](https://github.com/chandani7021)
 - [Roman Bukovskyi](https://github.com/BukovskyiRoman)
