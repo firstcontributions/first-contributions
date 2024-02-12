@@ -134,6 +134,7 @@ happy# Contributors
 - [Karissa Smallwood]
 - [Antonio Fernandez]
 - [sai chandra]
+- [Dana](https://github.com/dana-ciocan/)
 - [Zestoo](https://github.com/zesto-shoaib/)
 - [Devansh Garg](https://github.com/garg-tech)
 - [Muskaan Bhargava](https://github.com/muskaanbh)
