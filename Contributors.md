@@ -1337,6 +1337,7 @@ Alexander
 - [Matteo Bongiovanni](https://github.com/matteobongio)
 - [Taha S. ASAN](https://github.com/tahaasann)
 - [Safa Osman](https://github.com/swafak)
+- [Hamil Dimapanat](https://github.com/hvmil)
 - [Sagar Shelke](https://github.com/seeprogramming)
 - [Wilson Chin](https://github.com/shitofshit)
 - [Sophie S](https://github.com/ssun00)
