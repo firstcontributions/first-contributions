@@ -961,6 +961,7 @@ Romeu Leite
 - [MarianoJ](https://github.com/marianoj1984)
 - [Malone Napier-Jameson](https://github.com/MaloneMKD)
 - [Walt Bringenberg](https://github.com/wwaltb)
+- [Laul](https://github.com/laulycool)
 - [Precious Ojogu] (https://github.com/Prevz26)
 - [Ryan Kembrey](https://github.com/ryankembrey)
 - [Rohit Kumar](https://github.com/Rohit10701)
