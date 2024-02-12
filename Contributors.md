@@ -76,6 +76,7 @@ happy# Contributors
 - [Shubham Salunke](https://github.com/TechnoFynch)
 - [Ahmad Malik](https://github.com/admalik100)
 - [Charles]
+- [David P]
 - [Xavier Graham]
 - [Ashutosh Kanade]
 - [test-new-user]
