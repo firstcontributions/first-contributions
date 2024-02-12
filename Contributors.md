@@ -299,6 +299,7 @@ happy# Contributors
 - [brunoblaise](https://github.com/brunoblaise)
 - ryanluceroo]
 - [Jason Ang](https://github.com/jasonavatarang)
+  [zoHC] (https://github.com/zoHC)
 - [Sashin Trout](https://github.com/sashin123)
 - [Whrisper](https://github.com/SChrisper)
 - [Neethu Hari](https://github.com/Neethuharii)
