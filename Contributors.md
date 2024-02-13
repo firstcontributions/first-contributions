@@ -13,6 +13,7 @@ happy# Contributors
 - [Aung Pyae Soe](https://github.com/APS4087)
 - [Qowe Awi](https://github.com/qoweawi)
 - [Junmin.ma](https://github.com/majunmin)
+  -[Ruhi Farhath](https://github.com/Ruhifarhath)
 - [Aryan Panwar](https://github.com/aryannpanwarr)
 - [Juan Carlos Garcia Esquivel](https://github.com/jcmexdev)
 - [Saurabh Gattani](https://github.com/saurabh1294)
