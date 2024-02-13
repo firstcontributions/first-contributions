@@ -13,6 +13,7 @@ happy# Contributors
 - [Aryan Panwar](https://github.com/aryannpanwarr)
 - [Juan Carlos Garcia Esquivel](https://github.com/jcmexdev)
 - [Saurabh Gattani](https://github.com/saurabh1294)
+- [Shivansh Gupta](https://github.com/Shivansh-04)
 - [Bryan](https://github.com/BryanLoooo)
 - [Afolarin](https://github.com/Fola-rin)
 - [Zach](https://github.com/zfast25) 
