@@ -30,6 +30,7 @@ happy# Contributors
 - [AryasCodeTrek](https://github.com/AryasCodeTreks)
 - [Bowen Zhang](https://github.com/bitbw)
 - [Anukrati Mehta](https://github.com/AnukratiMehta)
+- [Franco-Spaniard]
 - [Jon Orth](https://github.com/funwithgit)
 - [Maria Karavazaki](https://github.com/MariaKar1991)
 - [Abu Zahra DE.](https://github.com/mr1lazycoder)
