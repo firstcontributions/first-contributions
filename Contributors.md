@@ -1704,6 +1704,7 @@ LadegbayeStella)
 - [Sanju Shaw](https://github.com/dashboard)
 - [Ken Benhamo](https://github.com/dashboard)
 - [Frosmin](https://github.com/Frosmin)
+- [Doug Perkins](https://github.com/dougperkins)
 - [yiong](https://github.com/gin280)
 - [Dedphish](https://github.com/Dedphish)
 - [RaviJ] - Trying out GH tutorial
