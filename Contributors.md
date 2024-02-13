@@ -34,6 +34,7 @@ happy# Contributors
 - [Maria Karavazaki](https://github.com/MariaKar1991)
 - [Abu Zahra DE.](https://github.com/mr1lazycoder)
 - [Marc Delgado Ferreres](https://github.com/marc-delgado-ferreres)
+- [Enes Barut](https://github.com/EnesBrt)
 - [Lorenzo Petraroli](https://github.com/ReflexiveFox)
 - [Akash Pal](https://github.com/farzigulzar)
 - [Charles D.](https://github.com/cmd644)
