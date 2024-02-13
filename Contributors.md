@@ -610,6 +610,7 @@ Romeu Leite
 - [Shahmeer malik](https://github.com/shahmeermalik1)
 - [Jalithc](https://github.com/Jalithc)
 - [Ahd. Kabeer Hadi](https://github.com/Ahd-Kabeer-Hadi) 
+- [Alejandro Cuan Martinez](https://github.com/acuanm)
 - [Daniel Otchere](https://github.com/ascot20)
 - [Aviral Swarnkar](https://github.com/aviralnx)
 - [Jayesh Bagde](https://github.com/jysh-bgde) 
