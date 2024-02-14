@@ -139,6 +139,7 @@ happy# Contributors
 - [Mehedi Hasan Janny](https://github.com/MHJanny)
 - [Lukeoson](https://github.com/lukeoson)
 - [Raj](https://github.com/prajX)
+- [Ryan Morris](https://github.com/MorrisrCodes)
 - [Oumatou](https://github.com/oumatoulacen)
 - [juli](https://github.com/tymnkey)
 - [David Bailey](https://github.com/DavidBailey3)
