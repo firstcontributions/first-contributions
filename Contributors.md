@@ -247,6 +247,7 @@ happy# Contributors
 - [k-souvatzidaki](https://github.com/k-souvatzidaki)
 - [Sam Little](https://github.com/Moopy559)
 - [Larry Griffith](https://github.com/LunaticSage218)
+- [zpearson36](https://github.com/zpearson36)
 - [Manny!]
 -[Prisha Behera] (https://github.com/prisha-behera)
 - [Adam Dobelbower](https://github.com/adobe5062)
