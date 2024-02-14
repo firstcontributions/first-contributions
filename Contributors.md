@@ -20,6 +20,7 @@ happy# Contributors
   -[Ruhi Farhath](https://github.com/Ruhifarhath)
 - [Aryan Panwar](https://github.com/aryannpanwarr)
 - [Juan Carlos Garcia Esquivel](https://github.com/jcmexdev)
+- [ZRKHSM](https://github.com/ZRKHSM)
 - [Saurabh Gattani](https://github.com/saurabh1294)
 - [Shivansh Gupta](https://github.com/Shivansh-04)
 - [Bryan](https://github.com/BryanLoooo)
