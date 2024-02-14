@@ -114,6 +114,7 @@ happy# Contributors
 - [chandu venna]
 - [Bryan Record]
 - [Armaan Raj Thakur]
+- [Mert Aptoula Chousein] (https://github.com/aptoulam)
 - [Chris Baker](https://github.com/gulpfood5)
 - [Tushin Kulshreshtha](https://github.com/Dextron04)
 - [Antoine Héritier](https://github.com/antoheri)
