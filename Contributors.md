@@ -888,6 +888,7 @@ Romeu Leite
 - [Yusuf Habib Alfatha]
 - [Ben Picone] $$$
 - [KlevCC](https://github.com/KlevCC)
+- [Armando]
 - [Gatere Kinyanjui] (https://github.com/gatere-kinyanjui)
 - [Saur-av](https://github.com/Saur-av/) # Thanks for help
 - [talktoyeet](https://github.com/talktoyeet) 
