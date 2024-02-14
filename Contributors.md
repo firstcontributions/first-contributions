@@ -58,6 +58,7 @@ happy# Contributors
 - [Diptaraj Sen](https://github.com/diptaraj23)
 - [Adyan Chowdhury](https://github.com/adyan1025)
 - [Nicholas Gonzalez] (https://github.com/Cole2303)
+- [Shantanu Prakash] (https://www.linkedin.com/in/shantanuprakash)
 - [robandev](https://github.com/robandev)
 - [Ceyhun Atagec](https://github.com/atagec)
 - [lucas](https://github.com/lucas1969)
