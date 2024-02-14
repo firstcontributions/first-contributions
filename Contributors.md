@@ -346,6 +346,7 @@ happy# Contributors
 - [Vinay Joshi](https://github.com/Anigrl)
 - [JakeJeongAiden](https://github.com/JakeJeongAiden/)
 - [Fangphire](https://github.com/fangphire)
+- [jhc4318](https://github.com/jhc4318)
 - test
 - [td2thinh](https://github.com/td2thinh)
 -[IZ2RPN](https://github.com/iz2rpn)
