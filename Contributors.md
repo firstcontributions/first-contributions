@@ -11,6 +11,7 @@ happy# Contributors
 - [Matheus Zahorcak](https://github.com/mathzak)
 - [Lucas Hogg](https://github.com/lucashogg)
 - [Matt Heeter](https://github.com/mattheeter)
+- [Samruddhi Dharankar](https://github.com/samruddhiDharankar)
 - [Aung Pyae Soe](https://github.com/APS4087)
 - [Qowe Awi](https://github.com/qoweawi)
 - [Junmin.ma](https://github.com/majunmin)
