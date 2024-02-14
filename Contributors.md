@@ -7,6 +7,7 @@ happy# Contributors
 - [x3n064] (https://github.com/x3n064)
 - [aspiringGithuber]
 - [Parzi68] (https://github.com/Parzi68)
+-[Thabith] (https://github.com/ThabithThajudeen)
 - [G Madhu Sudan Reddy](https://github.com/geekofcodes) 👨‍💻💡💻📚🔍
 - [Matheus Zahorcak](https://github.com/mathzak)
 - [Lucas Hogg](https://github.com/lucashogg)
