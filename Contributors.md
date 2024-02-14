@@ -130,6 +130,7 @@ happy# Contributors
 - [mrrr4d]()
 - [mrrr3d](https://github.com/mrrr3d)
 - [Ashley Hendrata](https://github.com/ashhendrata)
+- [David S](https://github.com/ds526) 
 - [Joshua I Michael] (https://github.com/ikjosh)
 - [Emchesso](https://github.com/Emchesso)
 - [Tejas](https://github.com/tejas-ch)
