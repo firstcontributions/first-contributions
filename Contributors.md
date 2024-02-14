@@ -39,6 +39,7 @@ happy# Contributors
 - [Marc Delgado Ferreres](https://github.com/marc-delgado-ferreres)
 - [Enes Barut](https://github.com/EnesBrt)
 - [Lorenzo Petraroli](https://github.com/ReflexiveFox)
+- [Iikka Borgström] (https://github.com/iibor)
 - [Akash Pal](https://github.com/farzigulzar)
 - [Charles D.](https://github.com/cmd644)
 - [Viral Jain](https://github.com/viraljain7)
