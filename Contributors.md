@@ -52,6 +52,7 @@ happy# Contributors
 - [Oscar Agurto] (https://github.com/ImMalwaree)
 - [André] (https://github.com/DrehDev)
 - [Dallon Jarman](https://github.com/dallonjarman)
+- [Koketso Lonerr](https://github.com/KoketsoLonerr)
 - [Taha Iqbal](https://github.com/tinyHiker)
 - [Dhel Malith](https://github.com/thomasobote211)
 - [Samuel Bodenhemier](https://github.com/swBodenhemier)
