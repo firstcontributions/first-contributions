@@ -925,6 +925,7 @@ Romeu Leite
 - [Dylan Collins](https://github.com/D05Col)
 - [Avinash Mallick](https://github.com/avimallick)
 - [Rachel Hamby](https://github.com/tnthreat33)
+- [Aaron Sanchez](https://github.com/aaron-ross-sanchez)
 - Pokala Rohit 
 - Balajiupadhyay
 - [Tyler Collingridge] (https://github.com/tcollm)
