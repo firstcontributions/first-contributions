@@ -7,7 +7,7 @@
 
 Proyek ini memiliki tujuan yaitu untuk menyederhanakan dan membimbing pemula untuk membuat kontribusi pertamanya di Github. Jika Anda ingin membuat kontribusi pertamamu, ikuti langkah-langkah berikut.
 
-#### _Jika Anda tidak terbiasa dengan baris perintah(command line), [di sini ada tutorial untuk menggunakan GUI(antarmuka bergrafis).](#Tutorial-Menggunakan-Alat-Lain)_
+#### _Jika Anda tidak terbiasa dengan baris perintah (command line), [di sini ada tutorial untuk menggunakan antarmuka pengguna grafis (GUI).](#Tutorial-Menggunakan-Alat-Lain)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
