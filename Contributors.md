@@ -664,6 +664,7 @@ Romeu Leite
 - [Oliver](https://github.com/oliverg13)
 - [Banjo Patrick](https:github.com/Super-Savvy)
 - {Kenia Reis](https://github.com/keniareis)
+- [Tenneh Kanneh] (https://github.com/tennehkanneh)
 - [Emmanuel Doji](https://github.com/devopsnormad)
 - [Collin Bugash](https://github.com/CollinBugash)
 - [Shawluck](https://github.com/Shawluck/)
