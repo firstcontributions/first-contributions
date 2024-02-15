@@ -106,6 +106,7 @@ happy# Contributors
 - [Khat Min Htet](https://github.com/Khantminhtet2001)
 - [David P]
 - [Xavier Graham]
+- [Victoria Zamora](https://github.com/zamoraV)
 - [Ashutosh Kanade]
 - [test-new-user]
 - [Risa Walles](https://github.com/rmw395)
