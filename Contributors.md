@@ -96,6 +96,7 @@ happy# Contributors
 - [Phil Mach] (https://github.com/philmach2/philmach2)
 - [Jeremy Reinoso 👑](https://github.com/jeremy511)
 - [Ghanashyam R](https://github.com/ghanashyam-r)
+- [Boitumelo Tshehla](https://github.com/B-Tshehla)
 - [Mythresh](https://github.com/Joyboy57)
 - [Shubham Salunke](https://github.com/TechnoFynch)
 - [Ahmad Malik](https://github.com/admalik100)
