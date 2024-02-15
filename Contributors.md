@@ -253,6 +253,7 @@ happy# Contributors
 - [Larry Griffith](https://github.com/LunaticSage218)
 - [zpearson36](https://github.com/zpearson36)
 - [Manny!]
+- [benjamindotdev](https://github.com/benjamindotdev)
 -[Prisha Behera] (https://github.com/prisha-behera)
 - [Adam Dobelbower](https://github.com/adobe5062)
 - [chrisgitn] (https://github.com/chrisgitn)
