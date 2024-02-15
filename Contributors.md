@@ -38,6 +38,7 @@ happy# Contributors
 - [Kate Basile](https://github.com/kbasil3)
 - [AryasCodeTrek](https://github.com/AryasCodeTreks)
 - [Bowen Zhang](https://github.com/bitbw)
+- [Shawn Dreifuss](https://github.com/shawndreifuss)
 - [Anukrati Mehta](https://github.com/AnukratiMehta)
 - [Franco-Spaniard]
 - [Jon Orth](https://github.com/funwithgit)
