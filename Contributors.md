@@ -203,6 +203,7 @@ happy# Contributors
 - [Harshil Sharma](https://github.com/harshilshrma)
 - [Nitin S](https://github.com/bruhhnitin)
 - [Ciprian] (https://github.com/borninthecoffin)
+- [fthmthwlm] (https://github.com/fthmthwlm)
 - [Arijit Das] (https://github.com/arijit-ship)
 - [Murat Tekin] (https://github.com/zxmod51)
 - [Jorge Martin](https://github.com/jorgemp13)
