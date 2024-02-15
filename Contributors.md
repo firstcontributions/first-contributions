@@ -5,6 +5,7 @@ happy# Contributors
 - [Tejas shinde] (https://github.com/Tejas1252)
 - [Mohammed Anaf Master] [Linkedin](https://www.linkedin.com/in/mohammed-anaf-master/) [GitHub](https://github.com/mohammedanafmaster)
 - [x3n064] (https://github.com/x3n064)
+- [Evan Ting](https://github.com/evan-ting)
 - [aspiringGithuber]
 - [Parzi68] (https://github.com/Parzi68)
 -[Thabith] (https://github.com/ThabithThajudeen)
