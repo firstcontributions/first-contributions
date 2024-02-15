@@ -8,6 +8,7 @@ happy# Contributors
 - [Evan Ting](https://github.com/evan-ting)
 - [aspiringGithuber]
 - [Parzi68] (https://github.com/Parzi68)
+- [Andrew Kiprotich Kimwetich] (https://github.com/Skipper-kenya)
 - [Mo11ov] (https://github.com/Mo11ov)
 -[Thabith] (https://github.com/ThabithThajudeen)
 - [G Madhu Sudan Reddy](https://github.com/geekofcodes) 👨‍💻💡💻📚🔍
