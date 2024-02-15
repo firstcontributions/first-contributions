@@ -297,6 +297,7 @@ happy# Contributors
 - [kpgomez](https://github.com/kpgomez)
 - [shine]
 - [Jordan](https://github.com/JordanRobo)
+- [rohanbrohan]
 - [Lauranthalassa](https://github.com/Talassha)
 - [Kothari.S] (https://github.com/effaf/)
 - [nahyan](https://github.com/nahyan0077/ecommerce-1-DropShip)
