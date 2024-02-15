@@ -2283,6 +2283,7 @@ LadegbayeStella)
 - [andiamos](https://github.com/andiamos)
 - [Vishwa Priya J] (https://github.com/vishwapriya)
 - [Priyanjith N] (https://github.com/Priyanjith-N)
+- [Stubh] (https://github.com/stubhohm)
 - [Purple Wazard]
 - [Den] (https://github.com/den319)
 - [Coding_Dynasty] (https://github.com/coding-dynasty)
