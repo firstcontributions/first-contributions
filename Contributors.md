@@ -5,8 +5,11 @@ happy# Contributors
 - [Tejas shinde] (https://github.com/Tejas1252)
 - [Mohammed Anaf Master] [Linkedin](https://www.linkedin.com/in/mohammed-anaf-master/) [GitHub](https://github.com/mohammedanafmaster)
 - [x3n064] (https://github.com/x3n064)
+- [Evan Ting](https://github.com/evan-ting)
 - [aspiringGithuber]
 - [Parzi68] (https://github.com/Parzi68)
+- [Andrew Kiprotich Kimwetich] (https://github.com/Skipper-kenya)
+- [Mo11ov] (https://github.com/Mo11ov)
 -[Thabith] (https://github.com/ThabithThajudeen)
 - [G Madhu Sudan Reddy](https://github.com/geekofcodes) 👨‍💻💡💻📚🔍
 - [Matheus Zahorcak](https://github.com/mathzak)
@@ -20,8 +23,10 @@ happy# Contributors
   -[Ruhi Farhath](https://github.com/Ruhifarhath)
 - [Aryan Panwar](https://github.com/aryannpanwarr)
 - [Juan Carlos Garcia Esquivel](https://github.com/jcmexdev)
+- [ZRKHSM](https://github.com/ZRKHSM)
 - [Saurabh Gattani](https://github.com/saurabh1294)
 - [Shivansh Gupta](https://github.com/Shivansh-04)
+- [Bhavin Patel](https://github.com/BhavinPatel12)
 - [Bryan](https://github.com/BryanLoooo)
 - [Afolarin](https://github.com/Fola-rin)
 - [Zach](https://github.com/zfast25) 
@@ -94,10 +99,12 @@ happy# Contributors
 - [Phil Mach] (https://github.com/philmach2/philmach2)
 - [Jeremy Reinoso 👑](https://github.com/jeremy511)
 - [Ghanashyam R](https://github.com/ghanashyam-r)
+- [Boitumelo Tshehla](https://github.com/B-Tshehla)
 - [Mythresh](https://github.com/Joyboy57)
 - [Shubham Salunke](https://github.com/TechnoFynch)
 - [Ahmad Malik](https://github.com/admalik100)
 - [Charles]
+- [Khat Min Htet](https://github.com/Khantminhtet2001)
 - [David P]
 - [Xavier Graham]
 - [Ashutosh Kanade]
@@ -197,6 +204,8 @@ happy# Contributors
 - [Harshil Sharma](https://github.com/harshilshrma)
 - [Nitin S](https://github.com/bruhhnitin)
 - [Ciprian] (https://github.com/borninthecoffin)
+- [fthmthwlm] (https://github.com/fthmthwlm)
+- [Arijit Das] (https://github.com/arijit-ship)
 - [Murat Tekin] (https://github.com/zxmod51)
 - [Jorge Martin](https://github.com/jorgemp13)
 - [Shantanu Prakash] (https://github.com/shantanu11)
@@ -250,6 +259,7 @@ happy# Contributors
 - [Larry Griffith](https://github.com/LunaticSage218)
 - [zpearson36](https://github.com/zpearson36)
 - [Manny!]
+- [benjamindotdev](https://github.com/benjamindotdev)
 -[Prisha Behera] (https://github.com/prisha-behera)
 - [Adam Dobelbower](https://github.com/adobe5062)
 - [chrisgitn] (https://github.com/chrisgitn)
@@ -723,6 +733,7 @@ Romeu Leite
 - [Rafal Jasielec] (https://github.com/GHrjasielec)
 - [Nitin Yadav](https://github.com/nitinya9av) </❤️>
 - [hg1414](https://github.com/hg1414)
+- [yend724](https://github.com/yend724)
 - [mpousmali](https://github.com/mpousmali)
 - [GreenWeegeeCantCode](https://github.com/GreenWeegeeCantCode)
 - [DPHung]
@@ -1979,6 +1990,7 @@ LadegbayeStella)
 - [jazdal](https://github.com/jazdal)
 - [perceptionWave] (https://github.com/perceptionWave)
 - [pronex 🦊](https://github.com/Pronex)
+- [jxpazmino](https://github.com/jxpazmino)
 - [AndyVx] (https://github.com/AndyVx)
 - [Mercury] (https://github.com/MercuryDemo/first-contributions) Thanks
 - [Wer Degars] (https://github.com/werdegars)
@@ -2173,6 +2185,7 @@ LadegbayeStella)
 - [Harshit Halwan]
 -[Jay;a] (https://github.com/ToedQueen208)
 - [ksm]
+- [Andrea Buonaguro](https://github.com/AndreaBuo)
 - [harryytsao] (https://github.com/harryytsao)
 - [CptHippieh] (https://github.com/PasiParviainen)
 - [Suraj_Samal](https://github.com/surajssam)
@@ -2347,3 +2360,5 @@ LadegbayeStella)
 - [Piyaporn Puangprasert](https://github.com/Nan227)
 -[AvariceZhao](https://github.com/AvariceZhao)
 -[DataDroog](https://github.com/DataDroog)
+- [Janusz Kuznik](https://github.com/jkuznik)
+- [Francisco Ribeiro](https://github.com/fpribeiro3069)
