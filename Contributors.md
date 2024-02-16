@@ -13,6 +13,7 @@ happy# Contributors
 -[Thabith] (https://github.com/ThabithThajudeen)
 -Prasad
 - [G Madhu Sudan Reddy](https://github.com/geekofcodes) 👨‍💻💡💻📚🔍
+- [Raven842](https://github.com/Raven842)
 - [Matheus Zahorcak](https://github.com/mathzak)
 - [Lucas Hogg](https://github.com/lucashogg)
 -[mrdst-code](https://github.com/mrdst-code)
