@@ -345,6 +345,7 @@ happy# Contributors
 - [TsvetislavRangelov] (https://github.com/TsvetislavRangelov)
 - [Michael Gabriel](https://github.com/maranatha443)
 - [Mwofoh-Adriel](https://github.com/Mwofoh-Adriel)
+- [Eddgar Rojas](https://github.com/Eddgar0)
 - [Shagun Sharma](https://github.com/shagunsharma6677)
 - [m4tej](https://github.com/m4tej241)
 - [Auwalu Hamza](https://github.com/afhamu)
