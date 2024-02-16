@@ -23,6 +23,7 @@ happy# Contributors
 - [djsmacker01](https://github.com/djsmacker01)
   -[Ruhi Farhath](https://github.com/Ruhifarhath)
 - [Aryan Panwar](https://github.com/aryannpanwarr)
+- [Jay Kumar](https://github.com/jayk245)
 - [Juan Carlos Garcia Esquivel](https://github.com/jcmexdev)
 - [ZRKHSM](https://github.com/ZRKHSM)
 - [Saurabh Gattani](https://github.com/saurabh1294)
