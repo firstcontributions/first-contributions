@@ -56,6 +56,7 @@ happy# Contributors
 - [Abu Zahra DE.](https://github.com/mr1lazycoder)
 - [Marc Delgado Ferreres](https://github.com/marc-delgado-ferreres)
 - [Enes Barut](https://github.com/EnesBrt)
+- [Rafsan-Gazi](https://github.com/Rafsan-Gazi)
 - [Lorenzo Petraroli](https://github.com/ReflexiveFox)
 - [Iikka Borgström] (https://github.com/iibor)
 - [Akash Pal](https://github.com/farzigulzar)
