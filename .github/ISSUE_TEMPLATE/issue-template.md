@@ -1,30 +1,12 @@
----
-name: Suggest changes
-about: If you want to report a bug or suggest improvements, please open an issue.
-title: ''
-labels: discussion, question
+name: Amy Pape :  Would it be benifical to have a list of project ideas for new starters included?
+about: We could create a working list of project ideas and skills that would be showcased by doing each project.  
+
+New programmers as well as experienced could keep their porfolios up to date showcasing skills they have. We could look to have key skills with several project ideas, essentially we'd build a working list of projects we could complete to showcase a skill we need to show. 
+
+For example, you're really instrested in a role but the job description is looking for a skill you have but don't have much evidence of in your portfolio, come to our list see which project would be best to complete and then you're going to have a much higher chance of the role.
+title: 'Project Ideas based on specific skills'
+labels: skill showcase, question, projects
 assignees: Roshanjossey
 
----
-
-<!--- Provide a general summary of the issue in the Title above -->
-<!-- Make sure that you've read through https://github.com/firstcontributions/first-contributions/issues/35892 and understand the design of this project. If you have questions about it, please write a comment in that issue. -->
-
-🐞 **Problem**
-<!--- Provide a detailed description of the change or addition you are proposing -->
-<!--- If it is a feature or a bug, what problem is it solving-->
-
-🎯 **Goal**
-<!--- Why is this change important to you? How would you use it? -->
-<!--- How can it benefit other users? -->
-
-💡 **Possible solutions**
-<!--- Not obligatory, but suggest an idea for implementing addition or change -->
-
-📋  **Steps to solve the problem**
-
-*   Comment below about what you've started working on.
-*   Add, commit, push your changes.
-*   Submit a pull request and add this in comments - `Addresses #<put issue number here>`
-*   Ask for reviews in comments section of pull request.
-*   Celebrate your contribution to this project. 🎉
+# Ask for reviews in comments section of pull request.
+# Celebrate your contribution to this project. 🎉
