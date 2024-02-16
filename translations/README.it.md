@@ -13,16 +13,16 @@ Leggere articoli e guardare tutorial può essere utile, ma cosa c'è di meglio c
 
 Se non hai git sul tuo computer, [installalo]( https://help.github.com/articles/set-up-git/).
 
-## Fai il fork di questa repository
+## Fai il fork di questo repository
 
-Fai il *fork* di questa *repo* (abbreviazione di *repository*, ossia un archivio) cliccando sul bottone ***fork*** in cima alla pagina.
-Questo creerà una copia di questa repository nel tuo account.
+Fai il *fork* di questo *repo* (abbreviazione di *repository*, ossia un archivio) cliccando sul bottone ***fork*** in cima alla pagina.
+Questo creerà una copia di questo repository nel tuo account.
 
-## Scarica la repository
+## Scarica il repository
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Ora scarica (*clone*) questa repo nel tuo computer. Clicca sul pulsante per scaricare e poi copia l'url.
+Ora scarica (*clona*) questo repo nel tuo computer. Clicca sul pulsante per scaricare e poi copia l'url.
 
 Apri il terminale e lancia il seguente comando:
 
@@ -30,7 +30,7 @@ Apri il terminale e lancia il seguente comando:
 git clone "url appena copiato"
 ```
 
-dove "url appena copiato" (senza le virgolette) è l'url di questa repository. Leggi i passaggi precedenti per ottenere l'url.
+dove "url appena copiato" (senza le virgolette) è l'url di questo repository. Leggi i passaggi precedenti per ottenere l'URL.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -40,11 +40,11 @@ Per esempio:
 git clone https://github.com/questo-sei-tu/first-contributions.git
 ```
 
-dove `questo-sei-tu` è il tuo username GitHub. Qui stai copiando il contenuto della repository da GitHub al tuo computer.
+dove `questo-sei-tu` è il tuo username GitHub. Qui stai copiando il contenuto del repository da GitHub al tuo computer.
 
 ## Crea un ramo (*Branch*)
 
-Entra nella directory della repository (se non lo hai già fatto):
+Entra nella directory del repository (se non lo hai già fatto):
 
 ```bash
 cd first-contributions
@@ -62,7 +62,7 @@ Ad esempio:
 git checkout -b aggiungi-alonzo-church
 ```
 
-(Non è necessario inserire la parola *aggiungi* nel nome del branch, ma in questo caso è ragionevole includerlo poiché lo scopo di questo branch è aggiungere il tuo nome alla lista. 
+(Non è necessario inserire la parola *aggiungi* nel nome del branch, ma in questo caso è ragionevole includerlo poiché lo scopo di questo branch è aggiungere il tuo nome alla lista.
 Lo scopo di nominare un branch è descrivere le modifiche che andremo ad effettuare, il nome deve essere quindi descrittivo e non generale per facilitare il team con cui si collabora.)
 
 ## Fai le modifiche necessarie e crea un commit
