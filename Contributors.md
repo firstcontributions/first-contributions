@@ -20,6 +20,7 @@ happy# Contributors
 - [Lucas Hogg](https://github.com/lucashogg)
 -[mrdst-code](https://github.com/mrdst-code)
 - [Matt Heeter](https://github.com/mattheeter)
+- [salvlan](https://github.com/salvlan)
 - [Samruddhi Dharankar](https://github.com/samruddhiDharankar)
 - [Aung Pyae Soe](https://github.com/APS4087)
 - [Qowe Awi](https://github.com/qoweawi)
