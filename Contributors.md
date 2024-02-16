@@ -23,6 +23,7 @@ happy# Contributors
 - [Qowe Awi](https://github.com/qoweawi)
 - [Junmin.ma](https://github.com/majunmin)
 - [djsmacker01](https://github.com/djsmacker01)
+- [shinyb.gb](https://github.com/gloria-bradford)
   -[Ruhi Farhath](https://github.com/Ruhifarhath)
 - [Aryan Panwar](https://github.com/aryannpanwarr)
 - [Jay Kumar](https://github.com/jayk245)
