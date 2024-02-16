@@ -180,6 +180,7 @@ happy# Contributors
 - [Muskaan Bhargava](https://github.com/muskaanbh)
 - [ashrees](https://github.com/ashrees)
 - [Xia3412](https://github.com/Xia3412)
+- [Kavin Prrasad Arjunan](https://github.com/thulaa-glory)
 - [Mustafa Zariwala](https://github.com/mustafazariwala)
 - [Surani Naranpanawa](https://github.com/Surani02)
 - [Arpit Mishra](https://github.com/arpit-mishra-1408)
