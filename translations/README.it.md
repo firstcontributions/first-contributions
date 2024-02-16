@@ -13,16 +13,16 @@ Leggere articoli e guardare tutorial può essere utile, ma cosa c'è di meglio c
 
 Se non hai git sul tuo computer, [installalo]( https://help.github.com/articles/set-up-git/).
 
-## Fai il fork di questa repository
+## Fai il fork di questo repository
 
-Fai il *fork* di questa *repo* (abbreviazione di *repository*, ossia un archivio) cliccando sul bottone ***fork*** in cima alla pagina.
-Questo creerà una copia di questa repository nel tuo account.
+Fai il *fork* di questo *repo* (abbreviazione di *repository*, ossia un archivio) cliccando sul bottone ***fork*** in cima alla pagina.
+Questo creerà una copia di questo repository nel tuo account.
 
-## Scarica la repository
+## Scarica il repository
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Ora scarica (*clone*) questa repo nel tuo computer. Clicca sul pulsante per scaricare e poi copia l'url.
+Ora scarica (*clona*) questo repo nel tuo computer. Clicca sul pulsante per scaricare e poi copia l'url.
 
 Apri il terminale e lancia il seguente comando:
 
@@ -30,7 +30,7 @@ Apri il terminale e lancia il seguente comando:
 git clone "url appena copiato"
 ```
 
-dove "url appena copiato" (senza le virgolette) è l'url di questa repository. Leggi i passaggi precedenti per ottenere l'url.
+dove "url appena copiato" (senza le virgolette) è l'url di questo repository. Leggi i passaggi precedenti per ottenere l'URL.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -40,11 +40,11 @@ Per esempio:
 git clone https://github.com/questo-sei-tu/first-contributions.git
 ```
 
-dove `questo-sei-tu` è il tuo username GitHub. Qui stai copiando il contenuto della repository da GitHub al tuo computer.
+dove `questo-sei-tu` è il tuo username GitHub. Qui stai copiando il contenuto del repository da GitHub al tuo computer.
 
 ## Crea un ramo (*Branch*)
 
-Entra nella directory della repository (se non lo hai già fatto):
+Entra nella directory del repository (se non lo hai già fatto):
 
 ```bash
 cd first-contributions
@@ -62,7 +62,7 @@ Ad esempio:
 git checkout -b aggiungi-alonzo-church
 ```
 
-(Non è necessario inserire la parola *aggiungi* nel nome del branch, ma in questo caso è ragionevole includerlo poiché lo scopo di questo branch è aggiungere il tuo nome alla lista. 
+(Non è necessario inserire la parola *aggiungi* nel nome del branch, ma in questo caso è ragionevole includerlo poiché lo scopo di questo branch è aggiungere il tuo nome alla lista.
 Lo scopo di nominare un branch è descrivere le modifiche che andremo ad effettuare, il nome deve essere quindi descrittivo e non generale per facilitare il team con cui si collabora.)
 
 ## Fai le modifiche necessarie e crea un commit
@@ -89,11 +89,11 @@ Invia (*push*) le tue modifiche con il comando `git push`:
 git push origin <aggiungi-il-tuo-nome>
 ```
 
-sostituendo `<aggiungi-il-tuo-nome>` con il nome del branch creato prima.
+sostituendo `<aggiungi-il-tuo-nome>` con il nome del branch prima creato.
 
 ## Invia i tuoi cambiamenti per una revisione
 
-Se vai nella tua repository su GitHub, vedrai il pusante  `Compare & pull request`.  Cliccalo.
+Se vai nella tup repository su GitHub, vedrai il pusante  `Compare & pull request`.  Cliccalo.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
@@ -115,7 +115,7 @@ Presto avrò incorporato (*merge*) tutti i tuoi cambiamenti nel master branch di
 
 Unisciti alla nostra squadra su slack in caso tu abbia bisogno di aiuto o abbia qualche domanda. Proveremo ad aiutarti! [Unisciti alla squadra Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-Qui sotto puoi trovare delle repo popolari dove cercare problemi semplici da cui partire. Continua nelle repo per imparare di più
+Qui sotto puoi trovare i repo popolari dove cercare problemi semplici da cui partire. Continua nei repo per imparare di più
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
