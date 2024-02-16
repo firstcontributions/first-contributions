@@ -31,6 +31,7 @@ happy# Contributors
 - [Jay Kumar](https://github.com/jayk245)
 - [Sujith Kamme](https://github.com/sujith-kamme)
 - [Juan Carlos Garcia Esquivel](https://github.com/jcmexdev)
+- [Mijuku](https://github.com/mijukuex)
 - [ZRKHSM](https://github.com/ZRKHSM)
 - [Mahnoor Ismail] (https://github.com/mahnewr)
 - [Saurabh Gattani](https://github.com/saurabh1294)
@@ -927,6 +928,7 @@ Romeu Leite
 - [Metti Alinia](https://github.com/mett-E/)
 - [Shishir Kr] (https://github.com/krshishir1)
 - 🐈‍⬛[lonely_caat](https://github.com/lonely-caat)🐈‍⬛
+- [Julien Wüst](https://github.com/JulesRules65)
 - [Meow Aadvik]
 - [Yusuf Habib Alfatha]
 - [Ben Picone] $$$
