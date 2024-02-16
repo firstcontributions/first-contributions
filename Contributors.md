@@ -1075,6 +1075,7 @@ Romeu Leite
 - [Kyle Starrett](https://github.com/kylestarrett1)
 - [Osama Ahmad](https://github.com/oahmadgit)
 - [Guillaume Muller](https://github.com/gmuller-dev)
+- [Jules Reego Rufo](https://github.com/julesrufo26)
 - Nandini Kashyap
 - [Nikalas Armstrong] (https://github.com/hangonasecond)
 - [Duc Dong](https://github.com/ducdongmg)
