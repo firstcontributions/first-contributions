@@ -241,6 +241,7 @@ happy# Contributors
 - [turtle-papa](https://github.com/turtle-papa)
 - [GCabane] (https://github.com/GCabane)
 - [TsvetislavRangelov] (https://github.com/TsvetislavRangelov)
+- [Tsafac Nkombong Regine Cyrille] (https://github.com/Regine12)
 - [Michael Gabriel](https://github.com/maranatha443)
 - [Mwofoh-Adriel](https://github.com/Mwofoh-Adriel)
 - [Shagun Sharma](https://github.com/shagunsharma6677)
