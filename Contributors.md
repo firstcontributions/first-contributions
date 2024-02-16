@@ -85,6 +85,7 @@ happy# Contributors
 - [Nicholas Gonzalez] (https://github.com/Cole2303)
 - [Shantanu Prakash] (https://www.linkedin.com/in/shantanuprakash)
 - [robandev](https://github.com/robandev)
+- [QQuelz Here](https://github.com/QQuelz)
 - [Ceyhun Atagec](https://github.com/atagec)
 - [lucas](https://github.com/lucas1969)
 - [Eshwanth Karti T R](https://github.com/eshwanthkartitr)
