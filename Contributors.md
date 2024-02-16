@@ -11,6 +11,7 @@ happy# Contributors
 - [G Madhu Sudan Reddy](https://github.com/geekofcodes) 👨‍💻💡💻📚🔍
 - [Matheus Zahorcak](https://github.com/mathzak)
 - [Lucas Hogg](https://github.com/lucashogg)
+- [Lukasz Tere](https://github.com/Jadzix4ever)
 - [Matt Heeter](https://github.com/mattheeter)
 - [Samruddhi Dharankar](https://github.com/samruddhiDharankar)
 - [Aung Pyae Soe](https://github.com/APS4087)
