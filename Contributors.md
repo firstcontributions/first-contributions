@@ -928,6 +928,7 @@ Romeu Leite
 - [Metti Alinia](https://github.com/mett-E/)
 - [Shishir Kr] (https://github.com/krshishir1)
 - 🐈‍⬛[lonely_caat](https://github.com/lonely-caat)🐈‍⬛
+- [Julien Wüst](https://github.com/JulesRules65)
 - [Meow Aadvik]
 - [Yusuf Habib Alfatha]
 - [Ben Picone] $$$
