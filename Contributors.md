@@ -30,6 +30,7 @@ happy# Contributors
   -[Ruhi Farhath](https://github.com/Ruhifarhath)
 - [Aryan Panwar](https://github.com/aryannpanwarr)
 - [Jay Kumar](https://github.com/jayk245)
+- [FilippoL420](https://github.com/FilippoL420)
 - [Sujith Kamme](https://github.com/sujith-kamme)
 - [Juan Carlos Garcia Esquivel](https://github.com/jcmexdev)
 - [Mijuku](https://github.com/mijukuex)
