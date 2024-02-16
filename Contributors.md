@@ -376,6 +376,7 @@ happy# Contributors
 - [Alish-0x](https://github.com/Alish-0x)
 -[Hunter Kilgore](https://github.com/Hunter-Kilgore-NAU)
 -[nathansims88](https://github.com/nathansims88)
+-[dperkas](https://github.com/dperkas)
 -[Julius Jones](https://github.com/jlwj22)
 -[orangethefish](https://github.com/orangethefish)
 - secret
