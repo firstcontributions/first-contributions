@@ -58,6 +58,7 @@ happy# Contributors
 - [Alex King](https://github.com/ak2466) 🕳️
 - [Olivia Vester] (https://github.com/oliveoil222)
 - [Oscar Agurto] (https://github.com/ImMalwaree)
+- [Amina Ahmed] (https://github.com/Aminaa27)
 - [André] (https://github.com/DrehDev)
 - [Dallon Jarman](https://github.com/dallonjarman)
 - [Koketso Lonerr](https://github.com/KoketsoLonerr)
