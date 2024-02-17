@@ -306,6 +306,7 @@ happy# Contributors
 - [Pr-nv-S] ((https://github.com/Pr-nv-S)
 - [Pavan Badempet](https://github.com/pavanbadempet)
 - [YaelGluskin]
+- [s2c97](https://github.com/s2c97)
 - [Shaowy05]
 - Andy O
 - [samandar02]
