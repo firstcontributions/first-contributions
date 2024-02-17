@@ -57,6 +57,7 @@ happy# Contributors
 - [Shawn Dreifuss](https://github.com/shawndreifuss)
 - [Anukrati Mehta](https://github.com/AnukratiMehta)
 - [Franco-Spaniard]
+- [Dev0xgenius]
 - [Jon Orth](https://github.com/funwithgit)
 - [Maria Karavazaki](https://github.com/MariaKar1991)
 - [Abu Zahra DE.](https://github.com/mr1lazycoder)
