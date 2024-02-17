@@ -215,6 +215,7 @@ happy# Contributors
 - [Shibli]
 - [Ben Gale](https://github.com/Sabreco)
 - [AYL](https://github.com/Ayeyulwin)
+- [Jeffrey Symens] (https://github.com/SymensJeffrey)
 - [Mai Van Hoang]
 - [Ankit Chaubey](https://www.linkedin.com/in/ankit-chaubey-6102/)
 - [Alex White](https://github.com/alexwhite116)
