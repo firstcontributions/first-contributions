@@ -691,6 +691,7 @@ Romeu Leite
 - [Horatio Hanley](https://github.com/horatioDev)
 - [Ahmet Gello](https://github.com/ahmetgello) 😀
 - [Nadav J. Outmezguine](https://github.com/Nadav-out)
+- [Gokularaju](https://github.com/gokul78590)
 - [Oliver](https://github.com/oliverg13)
 - [Banjo Patrick](https:github.com/Super-Savvy)
 - {Kenia Reis](https://github.com/keniareis)
