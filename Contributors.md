@@ -129,6 +129,7 @@ happy# Contributors
 - [David P]
 - [Xavier Graham]
 - [Victoria Zamora](https://github.com/zamoraV)
+- [Rashaad10](https://github.com/Rashaad10)
 - [Ashutosh Kanade]
 - [test-new-user]
 - [Risa Walles](https://github.com/rmw395)
