@@ -37,6 +37,7 @@ happy# Contributors
 - [Jay Kumar](https://github.com/jayk245)
 - [Sujith Kamme](https://github.com/sujith-kamme)
 - [Juan Carlos Garcia Esquivel](https://github.com/jcmexdev)
+- [Karl](https://github.com/BurnsteinKarl)
 - [Vicky](https://github.com/victoriaburn)
 - [Mijuku](https://github.com/mijukuex)
 - [ZRKHSM](https://github.com/ZRKHSM)
