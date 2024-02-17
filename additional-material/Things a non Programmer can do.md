@@ -1,4 +1,4 @@
-# Things a non Programmer can do
+# Activities a non-programming individual can engage in
 ## Start listening
 
 Everything in open source involves other people.
