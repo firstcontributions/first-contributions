@@ -13,6 +13,7 @@ happy# Contributors
 - [Salman Hakim Saiful Redzuan](https://github.com/SalmanHakim)
 - [aspiringGithuber]
 - [Magali2000] (https://github.com/magali2000)
+- [Gill B] (https://github.com/blackg33)
 - [Nathan Curry] (https://github.com/nathancurry)
 - [Parzi68] (https://github.com/Parzi68)
 - [Andrew Kiprotich Kimwetich] (https://github.com/Skipper-kenya)
