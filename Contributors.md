@@ -11,6 +11,7 @@ happy# Contributors
 - [Evan Ting](https://github.com/evan-ting)
 - [Salman Hakim Saiful Redzuan](https://github.com/SalmanHakim)
 - [aspiringGithuber]
+- [Magali2000] (https://github.com/magali2000)
 - [Nathan Curry] (https://github.com/nathancurry)
 - [Parzi68] (https://github.com/Parzi68)
 - [Andrew Kiprotich Kimwetich] (https://github.com/Skipper-kenya)
@@ -36,6 +37,8 @@ happy# Contributors
 - [Jay Kumar](https://github.com/jayk245)
 - [Sujith Kamme](https://github.com/sujith-kamme)
 - [Juan Carlos Garcia Esquivel](https://github.com/jcmexdev)
+- [Karl](https://github.com/BurnsteinKarl)
+- [Vicky](https://github.com/victoriaburn)
 - [Mijuku](https://github.com/mijukuex)
 - [ZRKHSM](https://github.com/ZRKHSM)
 - [Mahnoor Ismail] (https://github.com/mahnewr)
@@ -57,7 +60,9 @@ happy# Contributors
 - [Shawn Dreifuss](https://github.com/shawndreifuss)
 - [Anukrati Mehta](https://github.com/AnukratiMehta)
 - [Franco-Spaniard]
+
 - [Kelsey Warren]
+- [Dev0xgenius]
 - [Jon Orth](https://github.com/funwithgit)
 - [Maria Karavazaki](https://github.com/MariaKar1991)
 - [Abu Zahra DE.](https://github.com/mr1lazycoder)
@@ -2416,3 +2421,4 @@ LadegbayeStella)
 - [mpalkov](https://github.com/mpalkov)
 - [Volkan Durmaz](https://github.com/VolkanDurmaz/) 
 - [Naruchet Phicharattanachai](https://github.com/naruchet)
+- [42yash](https://github.com/42yash)
