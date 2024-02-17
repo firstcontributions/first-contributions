@@ -299,6 +299,7 @@ happy# Contributors
 - [Daniel Wong](https://github.com/Dwjf)
 - [Ngonzi Bridget](https://github.com/bree256)
 - [AnshJain]
+- [Aditya Pandey](https://github.com/aditya-524)
 - [TexelHack](https://github.com/texelh4ck)
 - [Gnanendra M] (https://github.com/developer-in-wor
 - [matheus-silva-791085] (https://github.com/Theu011)
