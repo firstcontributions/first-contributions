@@ -91,6 +91,7 @@ happy# Contributors
 - [robandev](https://github.com/robandev)
 - [QQuelz Here](https://github.com/QQuelz)
 - [Ceyhun Atagec](https://github.com/atagec)
+- [Bikash Chauhan](https://github.com/bikash-789)
 - [lucas](https://github.com/lucas1969)
 - [Eshwanth Karti T R](https://github.com/eshwanthkartitr)
 - [Azhar Aditya Pratama](https://github.com/azharadityapratama)
