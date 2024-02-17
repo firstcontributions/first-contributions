@@ -12,6 +12,7 @@ happy# Contributors
 - [Evan Ting](https://github.com/evan-ting)
 - [Salman Hakim Saiful Redzuan](https://github.com/SalmanHakim)
 - [aspiringGithuber]
+- [waltofalltrades]
 - [Magali2000] (https://github.com/magali2000)
 - [Gill B] (https://github.com/blackg33)
 - [Nathan Curry] (https://github.com/nathancurry)
