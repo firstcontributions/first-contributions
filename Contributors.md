@@ -147,6 +147,7 @@ happy# Contributors
 - [Benjamin Cha]
 - [Nolan Newman]
 - [Eli Vatsaas]
+- [Dallas Mister]
 - [Joseph Laity]
 - [chandu venna]
 - [Bryan Record]
