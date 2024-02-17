@@ -864,6 +864,7 @@ Romeu Leite
 - [tejas-mn] (https://github.com/tejas-mn)
 - [Spencer Craigie](https://github.com/sscraigie)
 - [Niraj Giri](https://github.com/nirajgiriXD)
+- [dev-sik2](https://github.com/devpang20)
 - [Onyedikachi Amaechi-Okorie](https://github.com/Honyii)
 - [Nitant Makwana](https://github.com/nitverse)
 - [Matthew McWilliams](https://github.com/potatoBobRocks)
