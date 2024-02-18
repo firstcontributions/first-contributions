@@ -15,6 +15,7 @@ happy# Contributors
 - [Evan Ting](https://github.com/evan-ting)
 - [Salman Hakim Saiful Redzuan](https://github.com/SalmanHakim)
 - [aspiringGithuber]
+- [NandaMonroe](https://github.com/NandaMonroe)
 - [waltofalltrades]
 - [Jay CP](https://github.com/jaycp30) 
 - [Vansh]
