@@ -541,7 +541,7 @@ happy# Contributors
 - Gabriele Agosta
 - [Ricardo Gomes](https://github.com/ricardogomes)
 - [Max]
-- [leo][https://github.com/leosharing]
+- [Leo][https://github.com/leosharing]
 - [Jon Gumero](https://github.com/jongumero)
 - [Thomas Fogarty](https://github.com/Thoss24)
 - [Ana Luisa Conrado](https://github.com/anaconrado)
