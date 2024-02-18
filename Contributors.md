@@ -1,5 +1,7 @@
 happy# Contributors
 
+- [TopChainBoy](https://github.com/TopChainBoy) 
+- [Znake](https://github.com/znake77) 
 - [Farman Ullah Khan](https://github.com/fekhan) 
 - [Tyler Twitchell](https://github.com/tytwitchell)
 - [ETF Rocks BB] (https://github.com/etfrocks)
@@ -2408,6 +2410,7 @@ LadegbayeStella)
 - [Mehdi Hosseinzadeh](https://github.com/siavhnz)
 - [Zheng Yao Siah] (https://github.com/zampoan)
 - [Gpe Mendez](https://github.com/Doobz09)
+- [Nicolas Guzman](https://github.com/enguzmanj)
 - [Trippin Sage] (https://github.com/trippinsage)
 - [Jonathan Armentor](https://github.com/jarmentor)
 - [Abulfasl Ahmadi](https://github.com/AbulfaslAhmadi)
