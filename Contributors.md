@@ -33,6 +33,7 @@ happy# Contributors
 - [Matt Heeter](https://github.com/mattheeter)
 - [salvlan](https://github.com/salvlan)
 - [ersediti](https://github.com/Ersediti)
+- [laegel] (https://github.com/laegel123)
 - [Samruddhi Dharankar](https://github.com/samruddhiDharankar)
 - [Aung Pyae Soe](https://github.com/APS4087)
 - [Qowe Awi](https://github.com/qoweawi)
