@@ -16,6 +16,7 @@ happy# Contributors
 - [Salman Hakim Saiful Redzuan](https://github.com/SalmanHakim)
 - [aspiringGithuber]
 - [waltofalltrades]
+- [Jay CP](https://github.com/jaycp30) 
 - [Vansh]
 - [Magali2000] (https://github.com/magali2000)
 - [Anil Sangwa] (https://github.com/anilsangwa)
