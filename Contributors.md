@@ -17,6 +17,7 @@ happy# Contributors
 - [aspiringGithuber]
 - [waltofalltrades]
 - [Magali2000] (https://github.com/magali2000)
+- [Anil Sangwa] (https://github.com/anilsangwa)
 - [Gill B] (https://github.com/blackg33)
 - [Nathan Curry] (https://github.com/nathancurry)
 - [Parzi68] (https://github.com/Parzi68)
