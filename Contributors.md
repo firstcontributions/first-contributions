@@ -38,6 +38,7 @@ happy# Contributors
 - [laegel] (https://github.com/laegel123)
 - [Samruddhi Dharankar](https://github.com/samruddhiDharankar)
 - [Aung Pyae Soe](https://github.com/APS4087)
+- [Oana Pavel] (https://github.com/oanap11)
 - [Qowe Awi](https://github.com/qoweawi)
 - [Junmin.ma](https://github.com/majunmin)
 - [djsmacker01](https://github.com/djsmacker01)
