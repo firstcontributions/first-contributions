@@ -2126,6 +2126,7 @@ LadegbayeStella)
 - [Hannah Cummings](https://github.com/hnnhcmmngs)
 - [vinceflores](https://github.com/vinceflores?tab=projects)
 - new user - andrew here! :D 
+- [Juan Tate](https://github.com/tatejuan12)
 - [Jackson K Jones](https://github.com/jacksonkjones)
 - [Sreeram Ayala](https://github.com/sreeramsoma)
 - [glidertech](https://github.com/michaelglider)
