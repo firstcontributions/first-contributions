@@ -43,6 +43,7 @@ happy# Contributors
   -[Ruhi Farhath](https://github.com/Ruhifarhath)
 - [Aryan Panwar](https://github.com/aryannpanwarr)
 - [Jay Kumar](https://github.com/jayk245)
+- [Shailesh Chaudhari](https://github.com/shailesh93602)
 - [Sujith Kamme](https://github.com/sujith-kamme)
 - [Juan Carlos Garcia Esquivel](https://github.com/jcmexdev)
 - [Karl](https://github.com/BurnsteinKarl)
