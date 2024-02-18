@@ -1,6 +1,7 @@
 happy# Contributors
 
 - [TopChainBoy](https://github.com/TopChainBoy) 
+- [Znake](https://github.com/znake77) 
 - [Farman Ullah Khan](https://github.com/fekhan) 
 - [Tyler Twitchell](https://github.com/tytwitchell)
 - [ETF Rocks BB] (https://github.com/etfrocks)
