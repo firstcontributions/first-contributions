@@ -874,6 +874,7 @@ Romeu Leite
 - Kunal Takalkhede
 - nathosboy
 - dr_zoid
+- M'bazie Kone [Linkedin](https://www.linkedin.com/in/m-bazie-kone-2167a2207) [GitHub](https://github.com/Mbazie-Kone)
 - [Mike Zeg](https://github.com/MikeZeg) 👋
 - [George Fam](https://github.com/George-Fam)
 - [Jm Delas Alas](https://github.com/letandconst)
