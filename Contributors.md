@@ -1226,6 +1226,7 @@ Romeu Leite
 - [Zelphh](https://github.com/Zelphh)
 - [Aakruti Kalia](https://github.com/akku-07)
 - [DankGuy](https://github.com/DankGuy)
+- [rioooxd](https://github.com/rioooxd)
 - [oladetohun1](https://github.com/oladetohun1)
 - [Edmond Prin] (https://github.com/edmondprin)
 - [Ram Deepak] (https://github.com/Ram-Deepak)
