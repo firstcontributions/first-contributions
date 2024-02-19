@@ -513,6 +513,7 @@ Gyanendra Thakur
 - [Ian McManus](https://github.com/ianmcman)
 - [PatríciaRamosS](https://github.com/PatriciaRamosS)
 - [Michelle Mullane](https://github.com/MichelleMullane)
+- [Aliko Muska]
 - [Guru Balamurugan](https://github.com/guru-apr21)
 - [Patrick Yeung](https://github.com/eampat)
 - [Leonardo Lopes] (https://github.com/leonardo-lopes-br)
