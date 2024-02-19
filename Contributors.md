@@ -68,6 +68,7 @@ happy# Contributors
 - [Renna Carver](https://github.com/rennacarver)
 - [Diptaraj Sen](https://github.com/diptaraj23)
 - [Adyan Chowdhury](https://github.com/adyan1025)
+- [Noah Uhunmwangho-Johnson](https://github.com/serethewind)
 - [Nicholas Gonzalez] (https://github.com/Cole2303)
 - [Shantanu Prakash] (https://www.linkedin.com/in/shantanuprakash)
 - [robandev](https://github.com/robandev)
