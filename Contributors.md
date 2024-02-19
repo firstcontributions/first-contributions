@@ -15,7 +15,7 @@ happy# Contributors
 - [Matheus Zahorcak](https://github.com/mathzak)
 - [Lucas Hogg](https://github.com/lucashogg)
 -[mrdst-code](https://github.com/mrdst-code)
-- [Kedju Precious](https://github.com/Kedjuprecious)
+- [Kedju Precious](https://github.com/Kedjuprecious).
 - [Matt Heeter](https://github.com/mattheeter)
 - [Samruddhi Dharankar](https://github.com/samruddhiDharankar)
 - [Aung Pyae Soe](https://github.com/APS4087)
