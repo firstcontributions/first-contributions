@@ -36,6 +36,7 @@ happy# Contributors
 - [Matheus Zahorcak](https://github.com/mathzak)
 - [Lucas Hogg](https://github.com/lucashogg)
 -[mrdst-code](https://github.com/mrdst-code)
+- [Kedju Precious](https://github.com/Kedjuprecious).
 - [Matt Heeter](https://github.com/mattheeter)
 - [salvlan](https://github.com/salvlan)
 - [ersediti](https://github.com/Ersediti)
