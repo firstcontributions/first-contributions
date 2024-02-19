@@ -240,6 +240,7 @@ happy# Contributors
 - [Salman Khan](https://github.com/inmate22)
 - [Jongsoo ha](https://github.com/jongsoo1203)
 - [JayJayleee](https://github.com/JayJayleee)
+- [Shahadat Shanto](https://github.com/msh-Shanto)
 - [Eric]
 - [saingchildren](https://github.com/saingchildren)
 - Faith Ononye
