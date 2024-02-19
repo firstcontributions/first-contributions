@@ -33,7 +33,7 @@ happy# Contributors
 - [Raven842](https://github.com/Raven842)
 - [Matheus Zahorcak](https://github.com/mathzak)
 - [Lucas Hogg](https://github.com/lucashogg)
--[mrdst-code](https://github.com/mrdst-code)
+- [Lukasz Tere](https://github.com/Jadzix4ever)
 - [Matt Heeter](https://github.com/mattheeter)
 - [salvlan](https://github.com/salvlan)
 - [ersediti](https://github.com/Ersediti)
