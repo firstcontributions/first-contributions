@@ -53,6 +53,7 @@ happy# Contributors
 - [Juan Carlos Garcia Esquivel](https://github.com/jcmexdev)
 - [Karl](https://github.com/BurnsteinKarl)
 - [Vicky](https://github.com/victoriaburn)
+- [Hamza](https://github.com/doncarbon)
 - [Mijuku](https://github.com/mijukuex)
 - [ZRKHSM](https://github.com/ZRKHSM)
 - [Mahnoor Ismail] (https://github.com/mahnewr)
