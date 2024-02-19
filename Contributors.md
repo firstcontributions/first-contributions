@@ -160,6 +160,7 @@ happy# Contributors
 - th0rnium
 - [Brady Wisniewski]
 - [AvionShea](https://github.com/AvionShea)
+- [stefisha](https://github.com/stefisha)
 - [Benjamin Cha]
 - [Nolan Newman]
 - [Eli Vatsaas]
