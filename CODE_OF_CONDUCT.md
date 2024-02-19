@@ -25,6 +25,7 @@ community include:
   and learning from the experience
 * Focusing on what is best not just for us as individuals, but for the overall
   community
+  * Using welcoming and inclusive language
 
 Examples of unacceptable behavior include:
 
@@ -36,6 +37,7 @@ Examples of unacceptable behavior include:
   without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
+  * The use of excessive automated bulk activity (get-rich quick schemes)
 
 ## Enforcement Responsibilities
 
@@ -64,7 +66,7 @@ reported to the community leaders responsible for enforcement at
 firstcontributions@gmail.com.
 All complaints will be reviewed and investigated promptly and fairly.
 
-All community leaders are obligated to respect the privacy and security of the
+All community leaders are obliged to respect the privacy and security of the
 reporter of any incident.
 
 ## Enforcement Guidelines
