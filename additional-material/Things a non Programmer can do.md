@@ -4,7 +4,7 @@
 Everything in open source involves other people.
 You're looking to join a team, and that means understanding the community and how it works.
 Walking in to a project and saying "Hi, here's what I think this project should be doing" is usually not taken as a good thing.
-Some projects may welcome that sort of approach, but if the project has been running a while, the chances of that attitude being embraced are small.
+Some projects may welcome that sort of approach, but if the project has been running a while, the chances of that attitude being embraced are minimal.
 **Listening is the best way to know what the project needs.**
 
 1. **Join a mailing list**: For many projects, the mailing list is the main conduit of communication about the development of the project.
