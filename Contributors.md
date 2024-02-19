@@ -183,7 +183,7 @@ happy# Contributors
 - [Dacidev](https://github.com/dacidev)
 - [Akram Hany](https://github.com/akramhany)
 - [Hein Htut Zaw] (https://github.com/HeinHtutZaw19)
-- [PeymanSF2000](https://github.com/peymansf2000)
+- [PeymanSF2000](https://github.com/peymansf2000) 🇮🇷 💻 🎮  
 - [Karthik Sp](https://github.com/karthisp)
 - [Bruno Carmena](https://github.com/brunocarmena57)
 - [Cathy Ly] (https://github.com/cl2493)
