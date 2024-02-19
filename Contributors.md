@@ -439,6 +439,7 @@ happy# Contributors
 - [Rudhram Saraswat](https://github.com/RUDHRAM01)
 -[ram,sam ]
 - [Haley Berger]
+- [Juho Lee] (https://github.com/jxuho)
 - [janGithub122] (https://github.com/janGithub122)
 - [Julius Jones] (https://github.com/jlwj22)
 - [Dave Friedman](https://github.com/heracliteanflux)
