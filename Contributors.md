@@ -35,6 +35,7 @@ happy# Contributors
 - [Jesus Fernando Torres](https://github.com/JFerchoTorres)
 - [Vansh]
 - [Magali2000] (https://github.com/magali2000)
+- [ZY] (https://github.com/zawye9)
 - [Anil Sangwa] (https://github.com/anilsangwa)
 - [Gill B] (https://github.com/blackg33)
 - [Nathan Curry] (https://github.com/nathancurry)
