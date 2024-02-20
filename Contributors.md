@@ -453,6 +453,7 @@ happy# Contributors
 -[Julius Jones](https://github.com/jlwj22)
 -[orangethefish](https://github.com/orangethefish)
 - secret
+- [SWanHK](https://github.com/swanhk)
 - [Sebastian Diaz Romero] (https://github.com/im-sebs)
 - [Carlea Jean] (https://github.com/CarleaJean)
 - [Rudhram Saraswat](https://github.com/RUDHRAM01)
