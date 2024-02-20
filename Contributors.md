@@ -1,4 +1,4 @@
-happy# Contributors
+- [M Bulal](https://github.com/bilal7317/first-contributions.git)
 
 - [Amila999](https://github.com/Amila999)
 - [Ptitet](https://github.com/Ptitet)
