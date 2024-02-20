@@ -76,6 +76,7 @@ happy# Contributors
 - [Afolarin](https://github.com/Fola-rin)
 - [Zach](https://github.com/zfast25)
 - [Stanley Agu](https://github.com/aguchux)
+- [Myo Min Hein] (https://github.com/Myo-Min-Hein)
 - [Liangliang Xiang](https://github.com/LiangliangXiang)
 - [MrFiszbi1](https://github.com/MrFiszbi1)
 - [HeadBaker](https://github.com/headbaker)
