@@ -1436,6 +1436,7 @@ Alexander
 - [Archer Chen](https://github.com/chenyongchangg)
 - [TVG2307ANL] 
 - [mo-rezaali] 
+- [Gabriel-Rojas](https://github.com/ga-romu)
 - [brandobogar](https://github.com/brandobogar)
 - [Maral Yousefi](https://github.com/Marall-Y)
 - [Elijah Love](https://elijahlove.xyz)
