@@ -5,6 +5,7 @@ happy# Contributors
 - [Znake](https://github.com/znake77) 
 - [Farman Ullah Khan](https://github.com/fekhan)
 - Challa Nishanth Babu [Github](https://github.com/NISHANTH1221) [LinkedIn](https://www.linkedin.com/in/nishanth-babu-challa/)
+- [Jeffrey Huang] (http://github.com/abandons)
 - [Tyler Twitchell](https://github.com/tytwitchell)
 - Priyanshi Lohani [GitHub](https://github.com/priyanshilohani) [LinkedIn](https://www.linkedin.com/in/priyanshi-lohani-566635249/)
 - [ETF Rocks BB] (https://github.com/etfrocks)
