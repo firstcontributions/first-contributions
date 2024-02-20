@@ -2338,6 +2338,7 @@ LadegbayeStella)
 - [JuanJefry23](https://github.com/JuanJefry23)
 - [CodeTerraYT](https://github.com/codeterrayt)
 - [Anesu]
+- [John]
 - [Daman] 
 - [Gbenny] (https://github.com/gbenny97)
 - [suzzshin](https://github.com/suzzshin)
