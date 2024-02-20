@@ -1421,6 +1421,7 @@ Alexander
 - [y.k]
 - [Nguyễn ĝức Khải](https://github.com/KhaiNguyenDuc)
 - [Nick Alben](https://github.com/NAlb-23)
+- [Jesus Lopez](https://github.com/Jmlpez)
 - [Navin Kumar](https://github.com/ns-0437)
 - [Sahil Saini](https://github.com/sahil-saini28)
 - [Alhasan Mohsen](https://github.com/IAmFaulty)
