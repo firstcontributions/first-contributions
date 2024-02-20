@@ -338,7 +338,9 @@ happy# Contributors
 - [Kevin B] (https://github.com/KJBlinn01)
 - [Nirmal Kumar R] (https://github.com/NIRMALraki)
 - [Tindi] (https://github.com/Jtindi-cypto)
+- [Neha-Gupta] (https://github.com/nehagupta1504)
 - [Neha-Gupta] (https://github.com/nehagupta1504) 
+- [Bertoli-Nicola] (https://github.com/NittuzDev) 
 - [sanyog-pardeshi]
 - [Obakepi]
 - [m10610](https://github.com/m10610)
