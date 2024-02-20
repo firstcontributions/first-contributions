@@ -1,6 +1,7 @@
 happy# Contributors
 
 - [Amila999](https://github.com/Amila999)
+- [JinhoLee](https://github.com/jinho-github)
 - [prxshetty](https://github.com/prxshetty)
 - [TopChainBoy](https://github.com/TopChainBoy) 
 - [Znake](https://github.com/znake77) 
