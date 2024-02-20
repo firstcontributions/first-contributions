@@ -20,6 +20,7 @@ happy# Contributors
 - [waltofalltrades]
 - [Sivaselvan]
 - [Jay CP](https://github.com/jaycp30) 
+- [Jesus Fernando Torres](https://github.com/JFerchoTorres)
 - [Vansh]
 - [Magali2000] (https://github.com/magali2000)
 - [Anil Sangwa] (https://github.com/anilsangwa)
