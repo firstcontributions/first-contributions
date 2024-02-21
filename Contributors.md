@@ -1,5 +1,6 @@
 happy# Contributors
 
+- [jarifulovi](https://github.com/jarifulovi)
 - [Amila999](https://github.com/Amila999)
 - [Ptitet](https://github.com/Ptitet)
 - [JinhoLee](https://github.com/jinho-github)
