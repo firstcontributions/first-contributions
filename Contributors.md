@@ -1,15 +1,20 @@
 happy# Contributors
 
+- [Ankrick](https://github.com/Ankrick)
+- [jarifulovi](https://github.com/jarifulovi)
+- [kalpesh-d](https://github.com/kalpesh-d)
 - [Amila999](https://github.com/Amila999)
 - [Ptitet](https://github.com/Ptitet)
 - [JinhoLee](https://github.com/jinho-github)
 - [prxshetty](https://github.com/prxshetty)
 - [TopChainBoy](https://github.com/TopChainBoy) 
-- [Znake](https://github.com/znake77) 
+- [Znake](https://github.com/znake77)
 - [Farman Ullah Khan](https://github.com/fekhan)
 - [Adrian Trandafir](https://github.com/XenoMee)
 - [Likith_S](https://github.com/LIKITHS2002)
+- [Hein Htet Zaw](https://github.com/Justinpop123)
 - [Saksham Khare](https://github.com/tyrex1829)
+- [YTM](https://github.com/Yinthirimon02)
 - Challa Nishanth Babu [Github](https://github.com/NISHANTH1221) [LinkedIn](https://www.linkedin.com/in/nishanth-babu-challa/)
 - [Jeffrey Huang](http://github.com/abandons)
 - [Rohit Manivel](https://github.com/rohit-iwnl)
@@ -34,6 +39,7 @@ happy# Contributors
 - [Jesus Fernando Torres](https://github.com/JFerchoTorres)
 - [Vansh]
 - [Magali2000](https://github.com/magali2000)
+- [ZY](https://github.com/zawye9)
 - [Anil Sangwa](https://github.com/anilsangwa)
 - [Gill B](https://github.com/blackg33)
 - [Nathan Curry](https://github.com/nathancurry)
@@ -72,6 +78,7 @@ happy# Contributors
 - [Bo Pratt](https://github.com/bo-pratt)
 - [Hamza](https://github.com/doncarbon)
 - [Mijuku](https://github.com/mijukuex)
+- [Nononoyeah](https://github.com/nononoyeah)
 - [ZRKHSM](https://github.com/ZRKHSM)
 - [Mahnoor Ismail](https://github.com/mahnewr)
 - [Saurabh Gattani](https://github.com/saurabh1294)
@@ -86,6 +93,7 @@ happy# Contributors
 - [MrFiszbi1](https://github.com/MrFiszbi1)
 - [HeadBaker](https://github.com/headbaker)
 - [DMani777](https://github.com/DMani777)
+- [TYMiao](https://github.com/cogitoergo-sum)
 - [Will Smith Wesson](https://github.com/willsmithwesson)
 - [Zaman Wahid](https://github.com/zamanwahid16)
 - [Kate Basile](https://github.com/kbasil3)
@@ -115,7 +123,9 @@ happy# Contributors
 - [Olivia Vester](https://github.com/oliveoil222)
 - [Oscar Agurto](https://github.com/ImMalwaree)
 - [Amina Ahmed](https://github.com/Aminaa27)
+- [Ruiqi Liu](https://github.com/RRQLiu)
 - [André](https://github.com/DrehDev)
+- [lotsun](https://github.com/lotsun) 
 - [Dallon Jarman](https://github.com/dallonjarman)
 - [Koketso Lonerr](https://github.com/KoketsoLonerr)
 - [Taha Iqbal](https://github.com/tinyHiker)
@@ -238,6 +248,7 @@ happy# Contributors
 - [Antonio Fernandez]
 - [sai chandra]
 - [Dana](https://github.com/dana-ciocan/)
+- [Ama Granillo](https://github.com/amadeogranillo/)
 - [Zestoo](https://github.com/zesto-shoaib/)
 - [Devansh Garg](https://github.com/garg-tech)
 - [Muskaan Bhargava](https://github.com/muskaanbh)
@@ -258,6 +269,7 @@ happy# Contributors
 - [Jongsoo ha](https://github.com/jongsoo1203)
 - [JayJayleee](https://github.com/JayJayleee)
 - [Shahadat Shanto](https://github.com/msh-Shanto)
+- [Josiah Abrahams](https://github.com/josiahabrahams)
 - [Eric]
 - [saingchildren](https://github.com/saingchildren)
 - Faith Ononye
@@ -795,6 +807,7 @@ happy# Contributors
 - [Zack F]
 - [Julian]
 - [Delton Hughes](https://github.com/dHughes97)
+- [Huzaifa Azim](https://github.com/huzaifaazim0)
 - [Joanna McDonald](https://github.com/joannamcd)
 - [Tianna Lopes](https://github.com/TiannaLopes)
 - [nameless wizard]
@@ -1608,6 +1621,7 @@ happy# Contributors
 - [Paul Ragsac](https://github.com/Chifuuyu)
 - [Amaury Morot](https://github.com/MorotAmaury)
 - [y.k]
+- [Myth Ren](https://github.com/MythRen)
 - [Nguyễn ĝức Khải](https://github.com/KhaiNguyenDuc)
 - [Nick Alben](https://github.com/NAlb-23)
 - [Navin Kumar](https://github.com/ns-0437)
@@ -1836,6 +1850,7 @@ happy# Contributors
 - [Sanju Shaw](https://github.com/dashboard)
 - [Ken Benhamo](https://github.com/dashboard)
 - [Frosmin](https://github.com/Frosmin)
+- [Doug Perkins](https://github.com/dougperkins)
 - [yiong](https://github.com/gin280)
 - [Dedphish](https://github.com/Dedphish)
 - [RaviJ] - Trying out GH tutorial
@@ -2339,6 +2354,7 @@ happy# Contributors
 - [JuanJefry23](https://github.com/JuanJefry23)
 - [CodeTerraYT](https://github.com/codeterrayt)
 - [Anesu]
+- [John]
 - [Daman] 
 - [Gbenny](https://github.com/gbenny97)
 - [suzzshin](https://github.com/suzzshin)
@@ -2460,6 +2476,7 @@ happy# Contributors
 - [Jason Blackburn](https://github.com/JBlackburn94)
 - [Lucas Israel](https://github.com/easy94)
 - [nico](https://github.com/nmerced-tcslj/)
+- [Merlin Yang](https://github.com/merlinymy)
 - [SantiagoV](https://github.com/SantiaGo120602)
 - [Mehdi Hosseinzadeh](https://github.com/siavhnz)
 - [Zheng Yao Siah](https://github.com/zampoan)
@@ -2494,6 +2511,7 @@ happy# Contributors
 - [Ahmed Bentabet](https://github.com/ahmedbentabet)
 - [Qizhao Chen](https://github.com/kx412764776)
 - [Ronald Chan](https://github.com/ronaldchanhk)
+- [Luke Hardy]
 - [Hung-Ting Lee](https://github.com/gary136)
 - [WU Yue](https://github.com/lothronx)
 - [Emmanuel](https://github.com/EMorf)
@@ -2504,3 +2522,6 @@ happy# Contributors
 - [Zaid](https://github.com/Zaid1120)
 - [Akhil Nazim ](https://github.com/Akhilnazim)
 - [Yanmad27](https://github.com/yanmad27)
+- [Mohammed Babiker](https://github.com/mohammedbabiker)
+- [Mkdliu86](https://github.com/kdliu86)
+- [chasal99](https://github.com/chasal99)
