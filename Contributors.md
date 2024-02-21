@@ -121,6 +121,7 @@ happy# Contributors
 - [Amina Ahmed] (https://github.com/Aminaa27)
 - [Ruiqi Liu] (https://github.com/RRQLiu)
 - [André] (https://github.com/DrehDev)
+-[lotsun] (https://github.com/lotsun) 
 - [Dallon Jarman](https://github.com/dallonjarman)
 - [Koketso Lonerr](https://github.com/KoketsoLonerr)
 - [Taha Iqbal](https://github.com/tinyHiker)
