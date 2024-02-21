@@ -1996,6 +1996,7 @@ LadegbayeStella)
 - [cjwurst](https://github.com/cjwurst)
 - [Rupom](https://github.com/RupomChowdhury)
 - [Fatima](https://github.com/FaWayo)
+- [Azelandro]
 - [Kashyap](https://github.com/Kashyap012)
 - [nycgp][nycgp (github.com)](https://github.com/nycgp)
 - [Mindi Weik](https://github.com/mindiweik)
