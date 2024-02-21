@@ -2,6 +2,7 @@ happy# Contributors
 
 -[Ankrick](https://github.com/Ankrick)
 - [jarifulovi](https://github.com/jarifulovi)
+- [kalpesh-d](https://github.com/kalpesh-d)
 - [Amila999](https://github.com/Amila999)
 - [Ptitet](https://github.com/Ptitet)
 - [JinhoLee](https://github.com/jinho-github)
