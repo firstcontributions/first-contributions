@@ -18,6 +18,7 @@ happy# Contributors
 - [Adrian Trandafir](https://github.com/XenoMee)
 - [Likith_S](https://github.com/LIKITHS2002)
 - [demomail231]
+- [Aliiyu Sadiiq](https://github.com/sadiiqaliiyu)
 - [Hein Htet Zaw](https://github.com/Justinpop123)
 - [Saksham Khare] (https://github.com/tyrex1829)
 - [YTM] (https://github.com/Yinthirimon02)
