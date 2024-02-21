@@ -1,7 +1,9 @@
 happy# Contributors
 
+-[SahiL](https://github.com/SahiLmb)
 -[Ankrick](https://github.com/Ankrick)
 - [jarifulovi](https://github.com/jarifulovi)
+- [kalpesh-d](https://github.com/kalpesh-d)
 - [Amila999](https://github.com/Amila999)
 - [Ptitet](https://github.com/Ptitet)
 - [JinhoLee](https://github.com/jinho-github)
@@ -268,6 +270,7 @@ happy# Contributors
 - [Jongsoo ha](https://github.com/jongsoo1203)
 - [JayJayleee](https://github.com/JayJayleee)
 - [Shahadat Shanto](https://github.com/msh-Shanto)
+- [Josiah Abrahams](https://github.com/josiahabrahams)
 - [Eric]
 - [saingchildren](https://github.com/saingchildren)
 - Faith Ononye
@@ -394,6 +397,7 @@ happy# Contributors
 - [ErtugrulAktepe] (https://github.com/ertugrulaktepe)
 - [EtiGotliv] (https://github.com/EtiGotliv)
 - [InterceptorTT] (https://github.com/InterceptorTT)
+- [Wass] (https://github.com/WassimZerouta)
 - [theRaven-code] (https://github.com/theRaven-code)
 - [ShimaMichael] (https://github.com/ShimaMichael)
 - [RileyM117] (https://github.com/RileyM117)
@@ -1261,6 +1265,7 @@ Romeu Leite
 - [DankGuy](https://github.com/DankGuy)
 - [oladetohun1](https://github.com/oladetohun1)
 - [Edmond Prin] (https://github.com/edmondprin)
+- [DuckWithDrip] (https://github.com/DuckWithDrip)
 - [Ram Deepak] (https://github.com/Ram-Deepak)
 - [Juliet Ofoegbu](https://github.com/OmaJuliet)
 - [J4ve] (https://github.com/J4ve)
@@ -2524,3 +2529,6 @@ LadegbayeStella)
 - [Mohammed Babiker](https://github.com/mohammedbabiker)
 - [Mkdliu86](https://github.com/kdliu86)
 - [chasal99](https://github.com/chasal99)
+- [Oussama Amine](https://github.com/OussamaAmine)
+- [Rahul Bhat](https://github.com/rahulbhat)
+- [Philani Mhlongo](https://github.com/PhilaniMhlongo/)
