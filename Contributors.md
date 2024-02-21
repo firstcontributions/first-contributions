@@ -395,6 +395,7 @@ happy# Contributors
 - [ErtugrulAktepe] (https://github.com/ertugrulaktepe)
 - [EtiGotliv] (https://github.com/EtiGotliv)
 - [InterceptorTT] (https://github.com/InterceptorTT)
+- [Wass] (https://github.com/WassimZerouta)
 - [theRaven-code] (https://github.com/theRaven-code)
 - [ShimaMichael] (https://github.com/ShimaMichael)
 - [RileyM117] (https://github.com/RileyM117)
