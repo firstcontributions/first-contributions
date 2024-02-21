@@ -826,3 +826,4 @@
 - [SupreethKumarJagarlmudi] (https://github.com/Supreethkumarjagarlamudi)
 - [Vaideeswaran Chandrasekaran] (https://github.com/vaideeswaran23)
 - [Siddharth Shankar] (https://github.com/code26A)
+- [Philani Mhlongo] (https://github.com/PhilaniMhlongo/)
