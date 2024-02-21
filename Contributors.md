@@ -309,6 +309,7 @@ happy# Contributors
 - [Pop Sergiu-George](https://github.com/SeGePop)
 - [Ankit Gupta](https://github.com/ankit-gupta-24)
 - [Devin Jay San Nicolas]
+- [Yao1di]
 - [Nitesh Tiwari](https://github.com/nitesh2920)
 - [Noah Tonnesen](https://github.com/ntonnes)
 - [Ruben Davis Saji](https://github.com/rds-03)
