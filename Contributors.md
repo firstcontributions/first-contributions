@@ -6,6 +6,7 @@ happy# Contributors
 - [kalpesh-d](https://github.com/kalpesh-d)
 - [Amila999](https://github.com/Amila999)
 - [Ptitet](https://github.com/Ptitet)
+- [James] (https://github.com/James-Zh0ng)
 - [JinhoLee](https://github.com/jinho-github)
 - [prxshetty](https://github.com/prxshetty)
 - [TopChainBoy](https://github.com/TopChainBoy) 
