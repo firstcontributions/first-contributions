@@ -107,6 +107,8 @@ happy# Contributors
 - [Samyak Katariya](https://github.com/samkatariya)
 - [Adam Johnson](https://github.com/adjohn36)
 - [Franco-Spaniard]
+
+- [Kelsey Warren]
 - [Dev0xgenius]
 - [Jon Orth](https://github.com/funwithgit)
 - [Maria Karavazaki](https://github.com/MariaKar1991)
