@@ -11,6 +11,7 @@ happy# Contributors
 - [TopChainBoy](https://github.com/TopChainBoy) 
 - [Znake](https://github.com/znake77)
 - [Farman Ullah Khan](https://github.com/fekhan)
+- [Ali Sajad Ahmadi](https://github.com/alisajad001)
 - [Adrian Trandafir](https://github.com/XenoMee)
 - [Likith_S](https://github.com/LIKITHS2002)
 - [Hein Htet Zaw](https://github.com/Justinpop123)
