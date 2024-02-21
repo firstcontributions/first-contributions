@@ -23,6 +23,7 @@ happy# Contributors
 - [Jeffrey Huang] (http://github.com/abandons)
 - [Rohit Manivel] (https://github.com/rohit-iwnl)
 - [Tyler Twitchell](https://github.com/tytwitchell)
+- [Bianca Salcedo](https://github.com/Biancadmsa)
 - Priyanshi Lohani [GitHub](https://github.com/priyanshilohani) [LinkedIn](https://www.linkedin.com/in/priyanshi-lohani-566635249/)
 - [ETF Rocks BB] (https://github.com/etfrocks)
 - **`Prajwal Shah`** - [![LinkedIn](https://img.icons8.com/?size=25&id=xuvGCOXi8Wyg)](https://www.linkedin.com/in/prajwal-shah) [![GitHub](https://img.icons8.com/?size=30&id=sbhfmWq4KRr1)](https://github.com/Prajwal-Shah) [![Twitter](https://img.icons8.com/?size=30&id=8HtzWaaC5y60)](https://twitter.com/PrajwalVShah) [![Instagram](https://img.icons8.com/?size=27&id=nj0Uj45LGUYh)](https://www.instagram.com/prajwalvshah/)
