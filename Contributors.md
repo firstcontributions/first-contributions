@@ -5,7 +5,7 @@ happy# Contributors
 - [JinhoLee](https://github.com/jinho-github)
 - [prxshetty](https://github.com/prxshetty)
 - [TopChainBoy](https://github.com/TopChainBoy) 
-- [Znake](https://github.com/znake77) 
+- [Znake](https://github.com/znake77)
 - [Farman Ullah Khan](https://github.com/fekhan)
 - [Adrian Trandafir](https://github.com/XenoMee)
 - [Likith_S](https://github.com/LIKITHS2002)
