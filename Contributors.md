@@ -1772,6 +1772,7 @@ Alexander
 - [Mateusz Burger] (https://github.com/M47-BRGR)
 - [Aman Pathan](https://github.com/AmanPathan)
 - [Saurabh hingade](https://github.com/sauravhingade)
+- [shinpy](https://github.com/shinyshinpy)
 - [Andres Hernandez](https://github.com/andresFHM)
 - [Arbenis Acosta](https://github.com/ArbenisAcosta)
 - [Aman Path](https://github.com/AmanPathan)
