@@ -74,6 +74,7 @@ happy# Contributors
 - [Bo Pratt](https://github.com/bo-pratt)
 - [Hamza](https://github.com/doncarbon)
 - [Mijuku](https://github.com/mijukuex)
+- [Nononoyeah](https://github.com/nononoyeah)
 - [ZRKHSM](https://github.com/ZRKHSM)
 - [Mahnoor Ismail] (https://github.com/mahnewr)
 - [Saurabh Gattani](https://github.com/saurabh1294)
