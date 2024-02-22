@@ -95,6 +95,7 @@ happy# Contributors
 - [Vicky](https://github.com/victoriaburn)
 - [Bo Pratt](https://github.com/bo-pratt)
 - [Hamza](https://github.com/doncarbon)
+  Garima
 - [Mijuku](https://github.com/mijukuex)
 - [Nononoyeah](https://github.com/nononoyeah)
 - [ZRKHSM](https://github.com/ZRKHSM)
