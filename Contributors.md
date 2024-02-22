@@ -1,5 +1,5 @@
 happy# Contributors
-
+-[Shingirai T](https://github.com/phatic39)
 - [John L](https://github.com/john89521)
 -[SahiL](https://github.com/SahiLmb)
 -[Ankrick](https://github.com/Ankrick)
