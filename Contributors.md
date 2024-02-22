@@ -44,6 +44,7 @@ happy# Contributors
 - [NandaMonroe](https://github.com/NandaMonroe)
 - [waltofalltrades]
 - [Sivaselvan]
+- [Colin] (https://github.com/Coltnickers)
 - [Vembu](https://github.com/vembu2991)
 - [Kamangu Maeti](https://github.com/KmgSamuel)
 - [Jay CP](https://github.com/jaycp30) 
