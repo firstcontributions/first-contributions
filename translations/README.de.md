@@ -4,7 +4,7 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# First Contributions
+# Erste Beiträge
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Repository forken" />
 
@@ -94,7 +94,7 @@ Erstelle einen Pull Request indem du auf die Schaltfläche `Create pull request`
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Pull Request senden" />
 
-Roshan Jossey wird nun deine Änderungen in den Master Branch dieses Projekts mergen. Du erhältst eine E-Mail sobald dies geschehen ist. 
+Roshan Jossey wird nun deine Änderungen in den Master Branch dieses Projekts mergen. Du erhältst eine E-Mail, sobald dies geschehen ist. 
 
 ## Wie geht es weiter?
 
@@ -102,7 +102,7 @@ Glückwunsch! Du hast so eben den Standard-Workflow *Fork -> Clone -> Edit -> Pu
 
 Feiere deinen Beitrag zum Projekt und teile ihn mit deinen Freunden und Followern über unsere [Web-App](https://firstcontributions.github.io/#social-share).
 
-Wenn du weitere Fragen hast, kannst du Mitglied in unserem Slack-Team werden. [Join Slack Team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+Wenn du weitere Fragen hast, kannst du Mitglied in unserem Slack-Team werden. [Werde Teil des Teams auf Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Falls du jetzt zu anderen Projekten beitragen möchtest, dann haben wir für dich eine Liste von einfachen, ersten Issues zusammengestellt, an denen du arbeiten kannst. Diese Projekt-Liste findest du [in unserer Web-App](https://firstcontributions.github.io/#project-list).
 

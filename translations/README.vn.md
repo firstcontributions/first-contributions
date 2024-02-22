@@ -6,11 +6,11 @@
 *Người dịch: [Tran Ly Vu](https://github.com/tranlyvu)*
 *Người chỉnh sửa: [Phuc Cai](https://github.com/hoangphuc05)* 
 
-# Đóng góp đầu tiên
+# Những đóng góp đầu tiên
 
-Lần đầu tiên bạn làm điều gì đó thật khó khăn. Đặc biệt khi bạn đang cộng tác, sai lầm là điều rất khó chịu. Chúng tôi muốn đơn giản hóa quy trình học và đóng góp vào những dự án (project) mã nguồn mở. 
+Lần đầu tiên bạn làm điều gì đó có thể gặp nhiều trở ngại. Đặc biệt khi bạn đang cộng tác, sai lầm là điều rất khó tránh khỏi. Chúng tôi muốn đơn giản hóa quy trình học và đóng góp vào những dự án mở. 
 
-Việc đọc hướng dẫn có tác dụng, nhưng có gì tốt hơn là thực sự đóng góp trong môi trường thực tiễn? project này nhằm mục đích cung cấp hướng dẫn và đơn giản hóa cách thức những người mới tham gia đóng góp. Nếu bạn mong muốn thực hiện việc đóng góp đầu tiên của mình, chỉ cần làm theo các bước đơn giản bên dưới.
+Việc đọc hướng dẫn có tác dụng, nhưng có gì tốt hơn là thực sự đóng góp trong môi trường thực tiễn? Dự án này là nhằm mục đích cung cấp sự hướng dẫn và đơn giản hóa cách thức những người mới tham gia đóng góp. Nếu bạn mong muốn thực hiện việc đóng góp đầu tiên của mình, chỉ cần làm theo các bước đơn giản bên dưới.
 
 #### *Nếu bạn không thích làm việc với dòng lệnh, [đây là hướng dẫn sử dụng GUI.]( #Hướng-dẫn-sử-dụng-các-công-cụ-khác )*
 
@@ -30,7 +30,7 @@ Bây giờ sao chép kho mã nguồn này vào máy của bạn. Nhấn vào nú
 
 Mở một bộ xử lý terminal và chạy lệnh git sau đây:
 
-```
+```bash
 git clone "url bạn vừa sao chép"
 ```
 Trong đó "url bạn vừa sao chép" (không có dấu ngoặc kép) là url dẫn vào kho mã nguồn này. Xem các bước trước đó để có được url.
@@ -38,7 +38,7 @@ Trong đó "url bạn vừa sao chép" (không có dấu ngoặc kép) là url d
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Ví dụ:
-```
+```bash
 git clone https://github.com/tên-bạn/first-contributions.git
 ```
 Trong đó `tên-bạn` là tên người dùng github của bạn. Ở đây bạn đang sao chép nội dung của kho mã nguồn "first-contributions" trong github vào máy tính của bạn
@@ -47,16 +47,16 @@ Trong đó `tên-bạn` là tên người dùng github của bạn. Ở đây b�
 
 Thay đổi môi trường làm việc bằng thư mục của kho mã nguồn trên máy tính của bạn.
 
-```
+```bash
 cd first-contributions
 ```
 Bây giờ tạo ra một chi nhánh sử dụng lệnh `git checkout`
-```
+```bash
 git checkout -b <tên-chi-nhánh>
 ```
 
 Ví dụ:
-```
+```bash
 git checkout -b thêm-Tran-Ly-Vu
 ```
 (Tên của chi nhánh không cần phải có từ *thêm* trong đó, nhưng nó được dùng vì mục đích của chi nhánh này là thêm tên của bạn vào danh sách.)
@@ -72,12 +72,12 @@ Nếu bạn vào thư mục hiện tại của project và thực hiện lệnh 
 
 Thêm những thay đổi vào chi nhánh bạn vừa tạo bằng lệnh `git add`:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Bây giờ chấp nhận những thay đổi bằng cách sử dụng dòng lệnh `git commit` dưới đây.
-```
+```bash
 git commit -m "Them <ten-ban> vào danh sách Cộng tác viên"
 ```
 
@@ -86,7 +86,7 @@ Thay thế `<ten-ban>` với tên của bạn
 ## Đẩy thay đổi lên github
 
 Đẩy những thay đổi của bạn sử dụng `git push`
-```
+```bash
 git push origin <tên-chi-nhánh>
 ```
 Thay thế `<tên-chi-nhánh>` với tên của chi nhánh bạn tạo ra trước đó
@@ -111,7 +111,7 @@ Hãy ăn mừng đóng góp của bạn và chia sẻ nó với bạn bè và nh
 
 Bạn có thể tham gia slack của chúng tôi trong trường hợp bạn cần trợ giúp hoặc có câu hỏi nào. [Tham gia slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-Để hỗ trợ bạn với việc đóng góp cho các project khác. Chúng tôi đã chuẩn bị danh sách các project đơn giản mà bạn có thể bắt đầu. Hãy kiểm tra [danh sách các project](https://roshanjossey.github.io/first-contributions/#project-list).
+Để hỗ trợ bạn với việc đóng góp cho các project khác. Chúng tôi đã chuẩn bị danh sách các project đơn giản mà bạn có thể bắt đầu. Hãy kiểm tra [danh sách các project](https://firstcontributions.github.io/#project-list).
 
 ### [Tài liệu bổ sung](../additional-material/git_workflow_scenarios/additional-material.md)
 

@@ -19,7 +19,7 @@
 <a href="https://help.github.com/articles/set-up-git/">انسٹال کریں</a>
 </div>
 
-## <div dir="rtl"> اس ریپوزٹری کوفورک کریں </div>
+## <div dir="rtl"> اس ریپوزٹری کو فورک کریں </div>
 <div dir="rtl">
 اس صفحے کے سب سے اوپر فورک بٹن دبا کر اس ریپوزٹری کا استعمال کریں.
 <img style="float: left" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="اس ریپوزٹری کوفورک کریں" />
@@ -41,7 +41,7 @@
 ایک ٹرمینل کھولیں اور مندرجہ ذیل گٹ کمانڈ چلائیں:
 </div>
 
-```
+```bash
 git clone "یو آر ایل جو آپ نے ابھی کاپی کیا"
 ```
 
@@ -51,7 +51,7 @@ git clone "یو آر ایل جو آپ نے ابھی کاپی کیا"
 
 <div dir="rtl">مثال کے طور پر:</div>
 
-```
+```bash
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
@@ -61,37 +61,37 @@ git clone https://github.com/this-is-you/first-contributions.git
 
 <div dir="rtl"> اپنے کمپیوٹر پر ریپوزٹری کی ڈائرکٹری تبدیل کریں (اگرآپ پہلے سے وہاں نہیں ہیں): </div>
 
-```
+```bash
 cd first-contributions
 ```
 
 <div dir="rtl"> اب <code>git checkout</code>  کمانڈاستعمال کرتے ہوئے ایک شاخ تشکیل دیں : </div>
 
-```
+```bash
 git checkout -b <add-your-name>
 ```
 
 <div dir="rtl">مثال کے طور پر:</div>
 
-```
+```bash
 git checkout -b add-alonzo-church
 ```
 
 <div dir="rtl"> (شاخ کا نام میں ضروری نہیں <i>add</i> شامل کریں، لیکن یہ مناسب ہے کہ اس میں یہ شامل ہو، کیونکہ اس شاخ کا مقصد آپ کے نام کو فہرست میں شامل کرنا ہے.) </div>
 
-## <div dir="rtl"> ضروری تبد یلیاں کریں اور ان تبد یلیوں کو انجام دیں۔ </div>
+## <div dir="rtl"> ضروری تبدیلیاں کریں اور ان تبدیلیوں کو انجام دیں۔ </div>
 
 <div dir="rtl">
 اب <code>Contributors.md</code> فائل کو ٹیکسٹ ایڈیٹر پر کھولیں، اپنا نام اس میں شامل کریں، اور پھر فائل کو محفوظ کریں. اگر آپ پراجیکٹ ڈائرکٹری میں جاتے ہیں اور کمانڈ <code>git status</code> کو چلاتے ہیں، تو آپ دیکھیں گے کہ تبدیلیاں موجود ہیں. ان تبدیلیوں کو اس شاخ میں <code>git add</code> کمانڈ استعمال کرتے ہوئے شامل کریں، جسے ابھی آپ نے بنایا تھا۔ :
 </div>
 
-```
+```bash
 git add Contributors.md
 ```
 
 <div dir="rtl"> اب <code>git commit</code> کمانڈ کا استعمال کرتے ہوئے ان تبدیلیوں کو سونپ دیں: </div>
 
-```
+```bash
 git commit -m "Add <your-name> to Contributors list"
 ```
 
@@ -101,13 +101,13 @@ git commit -m "Add <your-name> to Contributors list"
 
 <div dir="rtl"> <code>git push</code> کمانڈ کے ذریعے اپنی تبدیلیوں کو پش کریں: </div>
 
-```
+```bash
 git push origin <add-your-name>
 ```
 
 <div dir="rtl"> <code>&lt;add-your-name&gt;</code> کو شاخ کے نام کے ساتھ بدل دیں، جسے آپ نے پہلے بنایا تھا. </div>
 
-## <div dir="rtl">  اپنی تبدیلیوں کوجائزے کیلئے جمع کروائیں۔ </div>
+## <div dir="rtl">  اپنی تبدیلیوں کو جائزے کیلئے جمع کروائیں۔ </div>
 
 <div dir="rtl"> اگر آپ GitHub پر اپنی ریپوزٹری پر جاتے ہیں تو، آپ کو <code>Compare & pull request</code> دکھائی دے گا. اس بٹن کو دبائیں. </div>
 

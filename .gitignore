@@ -2,6 +2,7 @@
 .idea/
 .vs
 .env
+
 # User-specific files
 *.rsuser
 *.suo
@@ -388,3 +389,6 @@ FodyWeavers.xsd
 *.sln.iml
 .vscode/settings.json
 .DS_Store
+
+# Desktop.ini (Google Drive info file)
+desktop.ini
