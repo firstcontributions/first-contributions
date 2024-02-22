@@ -18,6 +18,7 @@ happy# Contributors
 - [TopChainBoy](https://github.com/TopChainBoy) 
 - [Znake](https://github.com/znake77)
 - [Balasuriya](https://github.com/balasuriyaranganathan)
+-  Whoro Ochuko [Github](https://github.com/CK-codemax) [LinkedIn](https://www.linkedin.com/in/ochuko-whoro-214b6328b/)
 - [Farman Ullah Khan](https://github.com/fekhan)
 - [Ali Sajad Ahmadi](https://github.com/alisajad001)
 - [Adrian Trandafir](https://github.com/XenoMee)
