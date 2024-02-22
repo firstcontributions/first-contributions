@@ -2542,6 +2542,7 @@ LadegbayeStella)
 - [Qizhao Chen](https://github.com/kx412764776)
 - [Ronald Chan](https://github.com/ronaldchanhk)
 - [Luke Hardy]
+- [Aviv Barak]
 - [Hung-Ting Lee](https://github.com/gary136)
 - [WU Yue](https://github.com/lothronx)
 - [Emmanuel](https://github.com/EMorf)
