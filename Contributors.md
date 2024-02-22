@@ -11,6 +11,7 @@
 - [Natalie Smyth](https://github.com/nataliesmyth)
 - [Parth Sharma](https://github.com/pxs4528)
 - [Samuel K. Addison](https://github.com/SamAddy)
+- [Ishmeet Kaur](https://github.com/Ishmeet7)
 - [AKP](https://github.com/AungKhinePhyo)
 - [Ebuka Ejiofor](https://github.com/ebukathedev)
 - [Abhijith B N](https://github.com/AbhijithBn)
