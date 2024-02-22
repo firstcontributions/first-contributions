@@ -114,6 +114,7 @@ happy# Contributors
 - [Liangliang Xiang](https://github.com/LiangliangXiang)
 - [MrFiszbi1](https://github.com/MrFiszbi1)
 - [HeadBaker](https://github.com/headbaker)
+- [K9Minty](https://github.com/K9Minty)
 - [DMani777](https://github.com/DMani777)
 - [TYMiao](https://github.com/cogitoergo-sum)
 - [Will Smith Wesson](https://github.com/willsmithwesson)
