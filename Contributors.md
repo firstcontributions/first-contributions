@@ -1,5 +1,5 @@
 happy# Contributors
-
+- [Lucas L](https://github.com/lucasliao0403)
 - [John L](https://github.com/john89521)
 -[SahiL](https://github.com/SahiLmb)
 -[Ankrick](https://github.com/Ankrick)
