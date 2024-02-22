@@ -132,6 +132,7 @@ happy# Contributors
 - [Franco-Spaniard]
 - [Dev0xgenius]
 - [Jon Orth](https://github.com/funwithgit)
+- [Kunal Prajapati](https://github.com/21-kunal)
 - [Maria Karavazaki](https://github.com/MariaKar1991)
 - [Abu Zahra DE.](https://github.com/mr1lazycoder)
 - [Marc Delgado Ferreres](https://github.com/marc-delgado-ferreres)
