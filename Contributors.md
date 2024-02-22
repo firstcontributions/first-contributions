@@ -2542,6 +2542,7 @@ LadegbayeStella)
 - [Qizhao Chen](https://github.com/kx412764776)
 - [Ronald Chan](https://github.com/ronaldchanhk)
 - [Luke Hardy]
+- [Aviv Barak]
 - [Hung-Ting Lee](https://github.com/gary136)
 - [WU Yue](https://github.com/lothronx)
 - [Emmanuel](https://github.com/EMorf)
@@ -2568,3 +2569,10 @@ LadegbayeStella)
 - [WeCanRun](https://github.com/WeCanRun)
 - [DMSteins](https://github.com/DMSteins)
 - [jay](https://github.com/jaythehallow/first-contributions.git)
+- [Colin Shaw](https://github.com/colinashaw)
+- [Louis Doyle](https://github.com/LouDawg1998)
+- [Gary Bleads](https://github.com/g0hjq)
+- [Suba](https://github.com/Subbalakshmi09)
+- [Handy4ndy](https://github.com/Handy4ndy)
+- [Reinhard](https://github.com/Rezzyethub)
+
