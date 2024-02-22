@@ -4,6 +4,7 @@ happy# Contributors
 - [Zsolt Varjú](https://github.com/zsoolti8917)
 -[SahiL](https://github.com/SahiLmb)
 -[Ankrick](https://github.com/Ankrick)
+- [Dzyanino Doneli](https://github.com/Dzyanino)
 - [jarifulovi](https://github.com/jarifulovi)
 - Busola Tom [Github](https://github.com/busolatom) [LinkedIn](https://www.linkedin.com/in/busolatom/)
 - [kalpesh-d](https://github.com/kalpesh-d)
