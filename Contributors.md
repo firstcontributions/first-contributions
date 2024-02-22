@@ -296,6 +296,7 @@ happy# Contributors
 - [Shahadat Shanto](https://github.com/msh-Shanto)
 - [Josiah Abrahams](https://github.com/josiahabrahams)
 - [Eric]
+- [oracle002](https://github.com/oracle002)
 - [saingchildren](https://github.com/saingchildren)
 - Faith Ononye
 - [Amandeep Singh](https://github.com/AmandeepSingh789)
