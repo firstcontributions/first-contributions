@@ -300,6 +300,7 @@ happy# Contributors
 - [Joseph Kharzo](https://github.com/Kharzo)
 - [Cezar Ganzon](https://github.com/cganzon)
 - [Efren Aguilar](https://github.com/LeoALe)
+- [Ruben Rios](https://github.com/kinhsiz)
 - [Muhammad Arslan](https://github.com/muh-arslan)
 - [Hava] (https://github.com/stellar-flame)
 - [Harshil Sharma](https://github.com/harshilshrma)
