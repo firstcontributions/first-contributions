@@ -1243,6 +1243,7 @@ Romeu Leite
 - [Adam Steiger](https://github.com/adamstgr)
 - [Gordon Lim](https://github.com/gordonlim02)
 - [DetorlarMubarak](https://github.com/Pious-coder)
+- [cvuneeez](https://github.com/cvuneeez)
 - [Yatee Singh](https://github.com/yatee-singh)
 - [Hariharan](https://github.com/Hariharan148)
 - [Atharva Pardeshi](https://github.com/SazedWorldbringer)
