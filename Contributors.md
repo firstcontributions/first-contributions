@@ -266,6 +266,7 @@ happy# Contributors
 - [Antonio Fernandez]
 - [sai chandra]
 - [Dana](https://github.com/dana-ciocan/)
+- [Asakuraa](https://github.com/asakuraa)
 - [Ama Granillo](https://github.com/amadeogranillo/)
 - [Zestoo](https://github.com/zesto-shoaib/)
 - [Devansh Garg](https://github.com/garg-tech)
