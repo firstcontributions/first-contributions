@@ -757,6 +757,7 @@ Romeu Leite
 - [Aakash Srivastava](https://github.com/kayasthasky)
 - [nilesh sharma](https://github.com/nileshdsharma)
 - [Matt Blumenthal](https://github.com/matthewblu421)
+- [satyam1024](https://github.com/satyam1024)
 - [Harishraj Selvakumar](https://github.com/ByteBender24)
 - [Lucas Balieiro](https://github.com/LucasMBalieiro) Aprendi a usar SSH finalmente ;-;
 - [Sandesh KV](https://github.com/SandeshAmin)
