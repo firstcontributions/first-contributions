@@ -1,6 +1,7 @@
 happy# Contributors
 
 - [zsunit](https://github.com/zsunit)
+- [Santu Dhali](https://github.com/santu-dhali): just checking how to contribute in open source.
 - [John L](https://github.com/john89521)
 - [Zsolt Varjú](https://github.com/zsoolti8917)
 -[SahiL](https://github.com/SahiLmb)
@@ -17,6 +18,7 @@ happy# Contributors
 - [Amila999](https://github.com/Amila999)
 - [Rawoot Fly](https://github.com/rawoot2)
 - [Amanda Downie](https://github.com/aninymous412)
+- [Muhammad Sajeedul Haque](https://github.com/Sajeed7804)
 - [Ptitet](https://github.com/Ptitet)
 - [Fernando Maia](https://github.com/fcmaya)
 - [James] (https://github.com/James-Zh0ng)
@@ -260,6 +262,7 @@ happy# Contributors
 - [Ajay Rajendra Kumar] (https://github.com/ajaystar8)
 - [uujeong](https://github.com/uujeong)
 - [Tunahan Değirmencioğlu](https://github.com/dabbitz)
+- [IvanBurgos](https://github.com/IvanBurgos)
 - [Mehardeep](https://github.com/mehardeep88)
 - [xJaiki](https://github.com/xjaiki)
 - [mrrr4d]()
@@ -2363,6 +2366,7 @@ LadegbayeStella)
 - [Harshit Halwan]
 -[Jay;a] (https://github.com/ToedQueen208)
 - [ksm]
+- [Artur Li](https://github.com/artur-li)
 - [Andrea Buonaguro](https://github.com/AndreaBuo)
 - [harryytsao] (https://github.com/harryytsao)
 - [CptHippieh] (https://github.com/PasiParviainen)
