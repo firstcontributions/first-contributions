@@ -17,6 +17,7 @@ happy# Contributors
 - [Amila999](https://github.com/Amila999)
 - [Rawoot Fly](https://github.com/rawoot2)
 - [Amanda Downie](https://github.com/aninymous412)
+- [Muhammad Sajeedul Haque](https://github.com/Sajeed7804)
 - [Ptitet](https://github.com/Ptitet)
 - [Fernando Maia](https://github.com/fcmaya)
 - [James] (https://github.com/James-Zh0ng)
