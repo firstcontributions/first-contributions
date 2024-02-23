@@ -247,6 +247,7 @@ happy# Contributors
 - [Joseph Laity]
 - [chandu venna]
 - [Bryan Record]
+- [Tom Page]
 - [Armaan Raj Thakur]
 - [Mert Aptoula Chousein] (https://github.com/aptoulam)
 - [Chris Baker](https://github.com/gulpfood5)
