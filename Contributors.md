@@ -66,6 +66,7 @@ happy# Contributors
 - [KISHOREkevin](https://github.com/KISHOREkevin)
 - [NandaMonroe](https://github.com/NandaMonroe)
 - [waltofalltrades]
+- [wagger]
 - [Sivaselvan]
 - [Anurag Singh](https://github.com/anuragsingh6886)
 - [Colin] (https://github.com/Coltnickers)
