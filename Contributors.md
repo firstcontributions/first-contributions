@@ -5,6 +5,7 @@
 - [Sree Vardhan]
 - [Arnav Gupta]
 - [Dann Gil Rabaya](https://github.com/thisismedg)
+- [L-Lawliet-dn]
 - [Ejemudaro Ufuoma Isaac](http://github.com/ufuomaisaac)
 - [Yuvaraj V](https://github.com/Yuvaraj643)
 - [Dibyajyoti Mandal](https://github.com/cookiejar2104)
