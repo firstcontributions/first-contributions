@@ -73,6 +73,7 @@ happy# Contributors
 - [Kamangu Maeti](https://github.com/KmgSamuel)
 - [Jay CP](https://github.com/jaycp30) 
 - [Jesus Fernando Torres](https://github.com/JFerchoTorres)
+- [Jose Luna](https://github.com/jlunabacilio)
 - [Vansh]
 - [Magali2000] (https://github.com/magali2000)
 - [ZY] (https://github.com/zawye9)
