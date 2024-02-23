@@ -2363,6 +2363,7 @@ LadegbayeStella)
 - [Harshit Halwan]
 -[Jay;a] (https://github.com/ToedQueen208)
 - [ksm]
+- [Artur Li](https://github.com/artur-li)
 - [Andrea Buonaguro](https://github.com/AndreaBuo)
 - [harryytsao] (https://github.com/harryytsao)
 - [CptHippieh] (https://github.com/PasiParviainen)
