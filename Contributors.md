@@ -7,6 +7,7 @@ happy# Contributors
 - [Zsolt Varjú](https://github.com/zsoolti8917)
 -[SahiL](https://github.com/SahiLmb)
 -[caseyhchan](https://github.com/caseyhchan) 
+-[josh-segal](https://github.com/josh-segal)
 -[Raftthaththath](czczxczxc)
 -[Ankrick](https://github.com/Ankrick)
 - [Dzyanino Doneli](https://github.com/Dzyanino)
