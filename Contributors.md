@@ -259,6 +259,7 @@ happy# Contributors
 - [Nivedita Mahapatra](https://github.com/niveditamahapatra)
 - [uujeong](https://github.com/uujeong)
 - [Tunahan Değirmencioğlu](https://github.com/dabbitz)
+- [IvanBurgos](https://github.com/IvanBurgos)
 - [Mehardeep](https://github.com/mehardeep88)
 - [xJaiki](https://github.com/xjaiki)
 - [mrrr4d]()
