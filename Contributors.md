@@ -257,6 +257,7 @@ happy# Contributors
 - [Zach J Murphy][https://github.com/zacharyjmurphy]
   [Marcus Booker](https://github.com/MarcusNAU)
 - [Nivedita Mahapatra](https://github.com/niveditamahapatra)
+- [Ajay Rajendra Kumar] (https://github.com/ajaystar8)
 - [uujeong](https://github.com/uujeong)
 - [Tunahan Değirmencioğlu](https://github.com/dabbitz)
 - [Mehardeep](https://github.com/mehardeep88)
