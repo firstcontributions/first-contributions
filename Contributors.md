@@ -16,6 +16,7 @@ happy# Contributors
 - [iwanski86](https://github.com/iwanski86)
 -[raseenaanwar](https://github.com/raseenaanwar)
 - [kalpesh-d](https://github.com/kalpesh-d)
+- [bradyhelms](https://github.com/bradyhelms)
 - [Amila999](https://github.com/Amila999)
 - [NightLighter423](https://github.com/NightLighter423)
 - [Rawoot Fly](https://github.com/rawoot2)
