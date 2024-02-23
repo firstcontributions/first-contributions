@@ -327,6 +327,7 @@ happy# Contributors
 - [Ankit Chaubey](https://www.linkedin.com/in/ankit-chaubey-6102/)
 - [Alex White](https://github.com/alexwhite116)
 - [Kevin Zucca](https://github.com/KevinZucca)
+- [Deepak](https://github.com/deepakbytebard)
 - [Joseph Kharzo](https://github.com/Kharzo)
 - [Cezar Ganzon](https://github.com/cganzon)
 - [Efren Aguilar](https://github.com/LeoALe)
