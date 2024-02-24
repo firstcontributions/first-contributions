@@ -19,7 +19,7 @@ happy# Contributors
 - [ryan](https://github.com/ryan246)
 - [iwanski86](https://github.com/iwanski86)
 - [Israel Ruiz](https://github.com/aruiz69)
--[raseenaanwar](https://github.com/raseenaanwar)
+- [raseenaanwar](https://github.com/raseenaanwar)
 - [kalpesh-d](https://github.com/kalpesh-d)
 - [bradyhelms](https://github.com/bradyhelms)
 - [Amila999](https://github.com/Amila999)
