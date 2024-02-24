@@ -18,6 +18,7 @@ happy# Contributors
 - Busola Tom [Github](https://github.com/busolatom) [LinkedIn](https://www.linkedin.com/in/busolatom/)
 - [ryan](https://github.com/ryan246)
 - [iwanski86](https://github.com/iwanski86)
+- [Israel Ruiz](https://github.com/aruiz69)
 -[raseenaanwar](https://github.com/raseenaanwar)
 - [kalpesh-d](https://github.com/kalpesh-d)
 - [bradyhelms](https://github.com/bradyhelms)
