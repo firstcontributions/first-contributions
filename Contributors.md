@@ -2326,6 +2326,7 @@ LadegbayeStella)
 - [ViniJacob]
 - [crg]
 - [Mario Tedeschi]
+- [nard-lee] 
 - [anu]
 - [Ricardo Molina](https://github.com/angelnieto)
 - [samsonmobisa](https://github.com/samsonmobisa)
