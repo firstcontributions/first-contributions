@@ -1,13 +1,14 @@
 happy# Contributors
 
--[Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
+- [Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
 - [zsunit](https://github.com/zsunit)
 - [Neer Amrutia](https://github.com/neeramrutia)
 - [Santu Dhali](https://github.com/santu-dhali): just checking how to contribute in open source.
 - [John L](https://github.com/john89521)
 - [Zsolt Varjú](https://github.com/zsoolti8917)
--[SahiL](https://github.com/SahiLmb)
--[caseyhchan](https://github.com/caseyhchan) 
+- [SahiL](https://github.com/SahiLmb)
+- [Lucas Correia](github.com/lcs_crr)
+- [caseyhchan](https://github.com/caseyhchan) 
 -[josh-segal](https://github.com/josh-segal)
 -[Raftthaththath](czczxczxc)
 -[Ankrick](https://github.com/Ankrick)
