@@ -2,10 +2,9 @@ happy# Contributors
 
 - [John L](https://github.com/john89521)
 - [Zsolt Varjú](https://github.com/zsoolti8917)
-- [ankit_singh](https://github.com/AnkitSin24)
-- 
--[SahiL](https://github.com/SahiLmb)
--[Ankrick](https://github.com/Ankrick)
+- [Ankit_singh](https://github.com/AnkitSin24)
+- [SahiL](https://github.com/SahiLmb)
+- [Ankrick](https://github.com/Ankrick)
 - [Dzyanino Doneli](https://github.com/Dzyanino)
 - [jarifulovi](https://github.com/jarifulovi)
 - Busola Tom [Github](https://github.com/busolatom) [LinkedIn](https://www.linkedin.com/in/busolatom/)
