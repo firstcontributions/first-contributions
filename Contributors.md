@@ -1207,6 +1207,7 @@ Romeu Leite
 - [Micheal eze obianuka](https://github.com/Mykelz)
 - [Dimple Jain](https://github.com/dimplehoney)
 - [Thawzin](https://github.com/Thawzin229)
+- [Alex András Mándrik](https://github.com/alexmandrikdev)
 - hello
 - hi
 - [arsha32 ](https://github.com/arsha32)
