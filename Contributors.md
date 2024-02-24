@@ -11,6 +11,7 @@ happy# Contributors
 -[josh-segal](https://github.com/josh-segal)
 -[Raftthaththath](czczxczxc)
 -[Ankrick](https://github.com/Ankrick)
+-[Karan Raj](https://github.com/karan2198)
 -[Mehul Tomer](https://github.com/mt5516)
 - [Dzyanino Doneli](https://github.com/Dzyanino)
 - [jarifulovi](https://github.com/jarifulovi)
