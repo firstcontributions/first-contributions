@@ -1,5 +1,5 @@
 happy# Contributors
-
+-[Manu Amestoy](https://github.com/manuamest)
 -[Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
 - [zsunit](https://github.com/zsunit)
 - [Neer Amrutia](https://github.com/neeramrutia)
