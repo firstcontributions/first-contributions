@@ -2,6 +2,7 @@ happy# Contributors
 
 - [John L](https://github.com/john89521)
 - [Zsolt Varjú](https://github.com/zsoolti8917)
+- [ankit_singh](https://github.com/AnkitSin24)
 -[SahiL](https://github.com/SahiLmb)
 -[Ankrick](https://github.com/Ankrick)
 - [Dzyanino Doneli](https://github.com/Dzyanino)
