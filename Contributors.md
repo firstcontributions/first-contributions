@@ -422,6 +422,7 @@ happy# Contributors
 - [m10610](https://github.com/m10610)
 - [Daniel Wong](https://github.com/Dwjf)
 - [Ngonzi Bridget](https://github.com/bree256)
+- [Okuta Omeiza](https://github.com/omeiza-devops)
 - [AnshJain]
 - [Aditya Pandey](https://github.com/aditya-524)
 - [TexelHack](https://github.com/texelh4ck)
