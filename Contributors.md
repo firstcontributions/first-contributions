@@ -1,5 +1,5 @@
 happy# Contributors
-
+-[Arya Amin](https://github.com/llaryall)
 -[Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
 - [zsunit](https://github.com/zsunit)
 - [Neer Amrutia](https://github.com/neeramrutia)
