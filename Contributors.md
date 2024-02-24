@@ -1324,6 +1324,7 @@ Romeu Leite
 - [sabhanaaz](https://github.com/sabhanaaz)
 - [Gustavo Barbosa](https://github.com/Gustavobsbs)
 - [Kennedy Ekanem](https://github.com/KenEkanem)
+- [Kenneth Kong](https://github.com/kennethkonghk)
 - [Douglas Lobato](https://github.com/douglaslobato)
 - [Alessandro Cappiello](https://github.com/AleCap747)
 - [Kunal05052003](https://github.com/Kunal05052003)
