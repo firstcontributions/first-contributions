@@ -5,6 +5,7 @@ happy# Contributors
 -[Barun Rajak](https://github.com/Barungit)
 - [zsunit](https://github.com/zsunit)
 - [Neer Amrutia](https://github.com/neeramrutia)
+- [Darshan Gaikwad 🔱](https://github.com/darshangaikwad4114)
 - [Santu Dhali](https://github.com/santu-dhali): just checking how to contribute in open source.
 - [John L](https://github.com/john89521)
 - [Souaprna Roy](https://github.com/souparna-roy)
