@@ -122,6 +122,7 @@ happy# Contributors
 - [Bo Pratt](https://github.com/bo-pratt)
 - [Hamza](https://github.com/doncarbon)
   Garima
+- [fadlisick](https://github.com/fadlisick)
 - [Mijuku](https://github.com/mijukuex)
 - [Nononoyeah](https://github.com/nononoyeah)
 - [ZRKHSM](https://github.com/ZRKHSM)
