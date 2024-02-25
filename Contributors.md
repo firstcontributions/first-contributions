@@ -2212,6 +2212,7 @@ LadegbayeStella)
 - [Wer Degars] (https://github.com/werdegars)
 - [Viviana Romero] (https://github.com/vivianaromeroo)
 - [Abhishek Soni]  (https://github.com/Abhishekksoni)
+- [katerina r] (https://github.com/katerinarousi)
 - [S SRINATH](https://github.com/ssrinath-sri) Thank you for helping out 🫰😁
 - [zhenchai00](https://github.com/zhenchai00)
 - [Sourav Malani](https://github.com/Sourav-Malani)
