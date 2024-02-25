@@ -392,6 +392,7 @@ happy# Contributors
 - [Ramin Holma](https://github.com/raminholma)
 - [Charles Luguda](https://github.com/charlesluguda)
 - [Ryan Lo](https://github.com/Lo-Mein)
+- [Brayan Arango](https://github.com/brakito)
 - [Servet iltuzer](https://github.com/iltuzers)
 - [JerryHuangYu](https://github.com/jerryhuangyu)
 - [AubreyMalabie](https://github.com/malengatiger)
