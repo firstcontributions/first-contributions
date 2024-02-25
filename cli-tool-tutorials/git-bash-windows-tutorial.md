@@ -31,11 +31,11 @@ To clone the repo, click on "Code" and then copy the string down below.
 
 <img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-clone-1.png" alt="copy string" />
 
-Open the git bash application you just downloaded. It should look like the image down below if its on a windows machine.
+Open the git bash application you just downloaded. It should look like the image down below if it's on a windows machine.
 
 <img src="https://firstcontributions.github.io/assets/cli-tool-tutorials/git-bash-windows-tutorial/gb-terminal-1.png" alt="open git bash terminal" />
 
-Go to the folder that you want to save this project on by uisng this command
+Go to the folder that you want to save this project on by using this command
 
 `cd <folder>`
 
@@ -53,7 +53,7 @@ Go to the directory where the repo is and open it up on vs code to make your cha
 
 ## Create a branch
 
-Now create a branch by uing this simple command. This command not only creates a branch for you but also lets you switch to that branch.
+Now create a branch by using this simple command. This command not only creates a branch for you but also lets you switch to that branch.
 
 ```
 git checkout -b <branch-name>

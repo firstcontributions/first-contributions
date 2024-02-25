@@ -109,11 +109,11 @@ Teraz vytvorte žiadosť o pretiahnutie vašej vetvy do originálneho repozitár
 
 Blahoželáme! Práve ste dokončili štandardný _fork -> clone -> edit ->_ priebeh práce (anglicky *workflow), s ktorým sa ako prispievateľ do projektov stretnete dennodenne.
 
-Oslávte svoj prvý príspevok so svojimi priateľmi a nasledovníkmi cez [webovú aplikáciu](https://roshanjossey.github.io/first-contributions/#social-share).
+Oslávte svoj prvý príspevok so svojimi priateľmi a nasledovníkmi cez [webovú aplikáciu](https://firstcontributions.github.io/#social-share).
 
 V prípade, ak by ste mali akékoľvek otázky alebo potrebovali pomoc, môžete sa [pridat k našemu Slack teamu](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
-Teraz vám už nič nebráni v prispievaní do ostatných projektov. Pripravili sme pre vás zoznam projektov, ktoré majú jednoduché záležitosti na vyriešenie/naprogramovanie, s ktorými môžete začať. Pozrite sa [tu](https://roshanjossey.github.io/first-contributions/#project-list).
+Teraz vám už nič nebráni v prispievaní do ostatných projektov. Pripravili sme pre vás zoznam projektov, ktoré majú jednoduché záležitosti na vyriešenie/naprogramovanie, s ktorými môžete začať. Pozrite sa [tu](https://firstcontributions.github.io/#project-list).
 
 ### [Ďalšie materiály](../additional-material/git_workflow_scenarios/additional-material.md)
 

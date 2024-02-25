@@ -39,7 +39,7 @@ O próximo passo será clonar seu repositório em sua máquina para que você po
  
 Agora abra o IntelliJ IDEA.
  
-O IntelliJ IDEA permite que você fassa um check out (em termos do Git clone) de um repositório existente e crie um novo projeto com base nos dados que você baixou.
+O IntelliJ IDEA permite que você faça um check out (em termos do Git clone) de um repositório existente e crie um novo projeto com base nos dados que você baixou.
  
 No menu principal, escolha VCS | Get from Version Control ou, se nenhum projeto estiver aberto no momento, clique em Get from Version Control na tela inicial.
  
@@ -107,16 +107,16 @@ Em breve estarei mesclando todas as suas alterações no branch master deste pro
 
 Parabéns! Você acabou de completar o padrão _fork -> clone -> edit -> PR_ workflow que você encontrará frequentemente como um contribuidor!
  
-Comemore sua contribuição e compartilhe-a com seus amigos e seguidores acessando o [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+Comemore sua contribuição e compartilhe-a com seus amigos e seguidores acessando o [web app](https://firstcontributions.github.io/#social-share).
  
 Você pode se juntar a nossa equipe slack caso precise de alguma ajuda ou tenha alguma dúvida. [Junte-se ao time slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
  
-Agora vamos começar a contribuir para outros projetos, compilamos uma lista de projetos com questões fáceis para você começar. [Confira a lista de projetos no web app](https://roshanjossey.github.io/first-contributions/#project-list).
+Agora vamos começar a contribuir para outros projetos, compilamos uma lista de projetos com questões fáceis para você começar. [Confira a lista de projetos no web app](https://firstcontributions.github.io/#project-list).
  
 
 
 
-### [Material Adicional](../../additional-material/translations/Portuguese/additional-material.pt_br.md).
+### [Material Adicional](../../additional-material/translations/Portugues/additional-material.pt_br.md).
 
 ## Tutoriais usando outras ferramentas
 [Voltar a página principal](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.pt_br.md)
