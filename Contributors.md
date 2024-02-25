@@ -1173,6 +1173,7 @@ Romeu Leite
 - [ITS MAC](https://github.com/itsmacr8)
 - [WG](https://github.com/electro-phys)
 - [Corey Kirschner] (https://github.com/ckirschner)
+- [RoraRaven] (https://github.com/RoraRaven)
 - [Rohit Roy](https://github.com/Roy009)
 - [chief-fei](https://github.com/chief-fei)
 - [Sushant](https://github.com/sushxnt)
