@@ -29,6 +29,7 @@ happy# Contributors
 - [Amanda Downie](https://github.com/aninymous412)
 - [Muhammad Sajeedul Haque](https://github.com/Sajeed7804)
 - [Ptitet](https://github.com/Ptitet)
+  [Gelu Guta](https://github.com/ggelu) [LinkedIn](https://www.linkedin.com/in/gelu-guta-635bb9233/)
 - [Fernando Maia](https://github.com/fcmaya)
 - [James] (https://github.com/James-Zh0ng)
 - [JinhoLee](https://github.com/jinho-github)
