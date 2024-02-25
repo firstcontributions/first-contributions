@@ -17,6 +17,7 @@ happy# Contributors
 - [jarifulovi](https://github.com/jarifulovi)
 - Busola Tom [Github](https://github.com/busolatom) [LinkedIn](https://www.linkedin.com/in/busolatom/)
 - [ryan](https://github.com/ryan246)
+- [Rashed](https://github.com/RAwad18)
 - [iwanski86](https://github.com/iwanski86)
 - [Israel Ruiz](https://github.com/aruiz69)
 - [raseenaanwar](https://github.com/raseenaanwar)
