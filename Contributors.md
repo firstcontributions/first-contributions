@@ -7,6 +7,7 @@ happy# Contributors
 - [x3n064] (https://github.com/x3n064)
 - [Evan Ting](https://github.com/evan-ting)
 - [aspiringGithuber]
+- [karthikeyaUA]
 - [Parzi68] (https://github.com/Parzi68)
 - [Andrew Kiprotich Kimwetich] (https://github.com/Skipper-kenya)
 - [Mo11ov] (https://github.com/Mo11ov)
