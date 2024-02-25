@@ -9,6 +9,7 @@ happy# Contributors
 - [Santu Dhali](https://github.com/santu-dhali): just checking how to contribute in open source.
 - [John L](https://github.com/john89521)
 - [Souaprna Roy](https://github.com/souparna-roy)
+- [Bhuvanesh Prasad](https://github.com/bhuvaneshprasad)
 - [Zsolt Varjú](https://github.com/zsoolti8917)
 -[SahiL](https://github.com/SahiLmb)
 -[caseyhchan](https://github.com/caseyhchan) 
