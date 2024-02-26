@@ -1785,6 +1785,7 @@ Alexander
 - [Hiral Soni](https://github.com/hiralsonip)
 - [Tabish Ahmed](https://github.com/NoxiousTab)
 - [Awwal Adetomiwa](https://github.com/thedunncodes)
+- [Pratik Navghare](https://github.com/Pratik-Navghare)
 - [medzo-kali](https://github.com/medzo-kali)
 - [Devin Kwon](https://github.com/DKwon00)
 - [Timothy Bukowski](https://github.com/Whitefire000)
