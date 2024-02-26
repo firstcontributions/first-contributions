@@ -2670,5 +2670,5 @@ LadegbayeStella)
 - [Lijo Joseph](https://github.com/21lj)
 - [Olly] (https://github.com/olly-tech)
 - [Bharath Gajjala](https://github.com/nekokala)
-- Supravisor
+- [Supravisor](https://github.com/Supravisor)
 - [Maximilian Tiao] (https://github.com/maximiliantiao)
