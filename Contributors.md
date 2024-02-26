@@ -1,5 +1,5 @@
 happy# Contributors
-
+-[Sachin Salunke](https://github.com/Sachin-Salunke)
 -[Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
 -[tasosbeast](https://github.com/tasosbeast)
 -[Barun Rajak](https://github.com/Barungit)
@@ -406,7 +406,7 @@ happy# Contributors
 - [Dev With Krishna](https://github.com/devwithkrishna)
 - [Jonathan Orme](http://github.com/ShadowAndFlame)
 - [Sampei](https://github.com/minihei)
-- [CharanMarasi](https:github.com/Charan-Marasi) 
+- [CharanMarasi](https://github.com/Charan-Marasi) 
 - [Rathish Kumar](https://github.com/RATHISHKUMAR07)
 - [Varun Jaiswal]
 - [Bryan Cetani] (https://github.com/cetanibp)
@@ -442,7 +442,7 @@ happy# Contributors
 - [AnshJain]
 - [Aditya Pandey](https://github.com/aditya-524)
 - [TexelHack](https://github.com/texelh4ck)
-- [Gnanendra M] (https://github.com/developer-in-wor
+- [Gnanendra M](https://github.com/developer-in-wor)
 - [matheus-silva-791085] (https://github.com/Theu011)
 - [Victor-Germano](https://github.com/vgmbs1lva)
 - [Zakaria Ait Ali](https://github.com/ZakariaAitAli)
