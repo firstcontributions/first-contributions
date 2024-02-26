@@ -79,6 +79,7 @@ Happy# Contributors
 - [Scoobi Doge] (https://github.com/VladBlackbird)
 - [Karandeep Tiwana](https://github.com/tiwanakd)
 - [x3n064] (https://github.com/x3n064)
+- [po-prostu-kamil](https://github.com/po-prostu-kamil)
 - [Evan Ting](https://github.com/evan-ting)
 - [Salman Hakim Saiful Redzuan](https://github.com/SalmanHakim)
 - [aspiringGithuber]
