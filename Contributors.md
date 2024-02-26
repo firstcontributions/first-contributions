@@ -17,6 +17,7 @@ Happy# Contributors
 - [Zsolt Varjú](https://github.com/zsoolti8917)
 - [Anjali Lalwani](https://github.com/AnjaliLalwaniGit)
 -[SahiL](https://github.com/SahiLmb)
+-[elfarsif](https://github.com/elfarsif)
 -[majobasgall](https://github.com/majobasgall)
 -[caseyhchan](https://github.com/caseyhchan) 
 -[josh-segal](https://github.com/josh-segal)
