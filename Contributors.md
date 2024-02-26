@@ -14,6 +14,7 @@ Happy# Contributors
 - [Bhuvanesh Prasad](https://github.com/bhuvaneshprasad)
 -[Laxman P](https://github.com/laxmanp090404) 
 - [Zsolt Varjú](https://github.com/zsoolti8917)
+- [Anjali Lalwani](https://github.com/AnjaliLalwaniGit)
 -[SahiL](https://github.com/SahiLmb)
 -[caseyhchan](https://github.com/caseyhchan) 
 -[josh-segal](https://github.com/josh-segal)
