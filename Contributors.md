@@ -81,6 +81,7 @@ Happy# Contributors
 - [aspiringGithuber]
 - [KISHOREkevin](https://github.com/KISHOREkevin)
 - [NandaMonroe](https://github.com/NandaMonroe)
+- [Varun Krishnan](https://github.com/Varun-Krishnan1)
 - [Huang Jingheng](https://github.com/JohnHenryEden)
 - [waltofalltrades]
 - [wagger]
