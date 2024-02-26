@@ -1,5 +1,5 @@
 happy# Contributors
-
+-[Arya Amin](https://github.com/llaryall)
 -[Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
 -[tasosbeast](https://github.com/tasosbeast)
 -[Barun Rajak](https://github.com/Barungit)
