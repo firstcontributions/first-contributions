@@ -164,6 +164,7 @@ happy# Contributors
 - [AryasCodeTrek](https://github.com/AryasCodeTreks)
 - [Bowen Zhang](https://github.com/bitbw)
 - [Shawn Dreifuss](https://github.com/shawndreifuss)
+- [Santhosh](https://github.com/Santhosh553)
 - [Anukrati Mehta](https://github.com/AnukratiMehta)
 - [Samyak Katariya](https://github.com/samkatariya)
 - [Adam Johnson](https://github.com/adjohn36)
