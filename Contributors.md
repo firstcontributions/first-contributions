@@ -27,6 +27,7 @@ Happy# Contributors
 - [Dzyanino Doneli](https://github.com/Dzyanino)
 - [Vara Rahul Rajana](https://github.com/rajanarahul93)
 - [Mohammed Shuhaib]
+- [Max Albers](https://github.com/malbers-main)
 - [jarifulovi](https://github.com/jarifulovi)
 - Busola Tom [Github](https://github.com/busolatom) [LinkedIn](https://www.linkedin.com/in/busolatom/)
 - [ryan](https://github.com/ryan246)
