@@ -8,6 +8,7 @@ happy# Contributors
 - [Darshan Gaikwad 🔱](https://github.com/darshangaikwad4114)
 - [Santu Dhali](https://github.com/santu-dhali): just checking how to contribute in open source.
 - [John L](https://github.com/john89521)
+- [Harjas Singh](https://github.com/harjasae2001)
 - [Souaprna Roy](https://github.com/souparna-roy)
 - [Bhuvanesh Prasad](https://github.com/bhuvaneshprasad)
 - [Zsolt Varjú](https://github.com/zsoolti8917)
