@@ -80,6 +80,7 @@ happy# Contributors
 - [Huang Jingheng](https://github.com/JohnHenryEden)
 - [waltofalltrades]
 - [wagger]
+- [phee]
 - [Arturo]
 - [Sivaselvan]
 - [Anurag Singh](https://github.com/anuragsingh6886)
