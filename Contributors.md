@@ -1013,6 +1013,7 @@ Romeu Leite
 - [Jm Delas Alas](https://github.com/letandconst)
 - [Iliyan Galabov](https://github.com/iliyan-pigeon)
 - [Shishir Chulliyil](https://github.com/shishirchulliyil)
+- [iriidium](https://github.com/iridiium)
 - [Temple Snowden](https://github.com/temple69)
 - [Kunal Sharma](https://github.com/Kunal926/Gender_Classification)
 - [ANJAN672](https://github.com/ANJAN672)
