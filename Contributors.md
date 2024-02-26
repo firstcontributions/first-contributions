@@ -1,4 +1,4 @@
-happy# Contributors
+Happy# Contributors
 
 -[Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
 -[tasosbeast](https://github.com/tasosbeast)
@@ -6,6 +6,7 @@ happy# Contributors
 - [zsunit](https://github.com/zsunit)
 - [Neer Amrutia](https://github.com/neeramrutia)
 - [Darshan Gaikwad 🔱](https://github.com/darshangaikwad4114)
+- [JAGNATH SHANKER](https://github.com/jagnathshanker)
 - [Santu Dhali](https://github.com/santu-dhali): just checking how to contribute in open source.
 - [John L](https://github.com/john89521)
 - [Harjas Singh](https://github.com/harjasae2001)
