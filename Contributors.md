@@ -1,5 +1,5 @@
 happy# Contributors
-
+-[Manu Amestoy](https://github.com/manuamest)
 -[Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
 -[tasosbeast](https://github.com/tasosbeast)
 -[Barun Rajak](https://github.com/Barungit)
