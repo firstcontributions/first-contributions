@@ -1746,6 +1746,7 @@ Alexander
   [Shawn Wu](https://github.com/ShawnWu33)
 - [Michal Jachman](https://github.com/mjachman)
 - [Nurul Ihsan Hariz Pratama](https://github.com/nurihsan95)
+- [Travis Nguyen](https://github.com/travistn)
 - [Mehmet Bacık](https://github.com/mehmetbacik)
 - [Shin You](https://github.com/a5512167086)
 - [Vivek Ghori](https://github.com/vivekghori)
