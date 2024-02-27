@@ -1,9 +1,10 @@
 Happy# Contributors
 
--[Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
--[tasosbeast](https://github.com/tasosbeast)
+- [Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
+- [tasosbeast](https://github.com/tasosbeast)
 - [Akanksha Maurya](https://github.com/Akanksham12)
--[Barun Rajak](https://github.com/Barungit)
+- [Barun Rajak](https://github.com/Barungit)
+- [Bhasamrita Sarmah](https://github.com/bhasamritasarmah)
 - [zsunit](https://github.com/zsunit)
 - [Neer Amrutia](https://github.com/neeramrutia)
 - [Darshan Gaikwad 🔱](https://github.com/darshangaikwad4114)
