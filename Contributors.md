@@ -372,6 +372,7 @@ Happy# Contributors
 - [Jeffrey Symens] (https://github.com/SymensJeffrey)
 - [Mai Van Hoang]
 - [Ankit Chaubey](https://www.linkedin.com/in/ankit-chaubey-6102/)
+- [Paul Knife] (https://github.com/Key-of-light)
 - [Alex White](https://github.com/alexwhite116)
 - [Kevin Zucca](https://github.com/KevinZucca)
 - [Deepak](https://github.com/deepakbytebard)
