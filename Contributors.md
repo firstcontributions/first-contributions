@@ -18,6 +18,7 @@ Happy# Contributors
 -[Krunal Patel](https://github.com/kd05)
 - [Zsolt Varjú](https://github.com/zsoolti8917)
 - [Anjali Lalwani](https://github.com/AnjaliLalwaniGit)
+- [Vivek Pandey](https://github.com/vickypandey14)
 -[SahiL](https://github.com/SahiLmb)
 -[elfarsif](https://github.com/elfarsif)
 -[majobasgall](https://github.com/majobasgall)
