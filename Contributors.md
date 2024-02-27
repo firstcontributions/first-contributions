@@ -375,6 +375,7 @@ Happy# Contributors
 - [Deepak](https://github.com/deepakbytebard)
 - [Joseph Kharzo](https://github.com/Kharzo)
 - [Cezar Ganzon](https://github.com/cganzon)
+- [Enem Barjo](https://github.com/NM003)
 - [Efren Aguilar](https://github.com/LeoALe)
 - [Ruben Rios](https://github.com/kinhsiz)
 - [Muhammad Arslan](https://github.com/muh-arslan)
