@@ -7,6 +7,7 @@ Happy# Contributors
 -[Barun Rajak](https://github.com/Barungit)
 - [zsunit](https://github.com/zsunit)
 - [Neer Amrutia](https://github.com/neeramrutia)
+- [Szymon Gałązka](https://github.com/SzymonGalazka)
 - [Darshan Gaikwad 🔱](https://github.com/darshangaikwad4114)
 - [JAGNATH SHANKER](https://github.com/jagnathshanker)
 - [Nikola - nicywi](https://github.com/nicywi)
