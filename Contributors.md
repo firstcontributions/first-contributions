@@ -31,6 +31,7 @@ Happy# Contributors
 -[Mehul Tomer](https://github.com/mt5516)
 - [Dzyanino Doneli](https://github.com/Dzyanino)
 - [Vara Rahul Rajana](https://github.com/rajanarahul93)
+- [Karan Chrish](https://github.com/Karanchrish)
 - [Mohammed Shuhaib]
 - [Max Albers](https://github.com/malbers-main)
 - [jarifulovi](https://github.com/jarifulovi)
