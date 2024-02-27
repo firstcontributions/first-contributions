@@ -97,6 +97,7 @@ Happy# Contributors
 - [Arturo]
 - [Sivaselvan]
 - [Anurag Singh](https://github.com/anuragsingh6886)
+- [SwagShah]
 - [Colin] (https://github.com/Coltnickers)
 - [Vembu](https://github.com/vembu2991)
 - [harish](https://github.com/harish885)
