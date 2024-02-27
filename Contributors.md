@@ -327,6 +327,7 @@ something...changed
   [LauraC] (https://github.com/lchutny)
 - [Zume-z](https://github.com/Zume-z)
 - [Mehedi Hasan Janny](https://github.com/MHJanny)
+- [Richard Hannagan](https://github.com/richardhannagan)
 - [Lukeoson](https://github.com/lukeoson)
 - [Raj](https://github.com/prajX)
 - [Ryan Morris](https://github.com/MorrisrCodes)
