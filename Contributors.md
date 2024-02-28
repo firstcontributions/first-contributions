@@ -2727,6 +2727,5 @@ LadegbayeStella)
 -[Nicola Solazzo Logix](https://github.com/NikSolazLogix)
 -[aoi-stella](https://github.com/aoi-stella)
 -[Miguel Dias](https://github.com/migueldiascoelho)
--[Jaqueline da Silva Fagundes] (https://github.com/Jaquesz/Jaqueszx)
 -[Lucas Matheus Churutekoski](https://github.com/LukaszMatheus)
-
+-[Jaqueline da Silva Fagundes](https://github.com/Jaquesz/Jaqueszx)
