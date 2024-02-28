@@ -386,6 +386,7 @@ something...changed
 - [Amandeep Singh](https://github.com/AmandeepSingh789)
 - [Peniel Bekele](https://github.com/Penie1)
 - [Shibli]
+- [rithas](https://github.com/rithasahmed12)
 - [Ben Gale](https://github.com/Sabreco)
 - [AYL](https://github.com/Ayeyulwin)
 - [Jeffrey Symens] (https://github.com/SymensJeffrey)
