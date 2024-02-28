@@ -196,6 +196,7 @@ Happy# Contributors
 - [Anukrati Mehta](https://github.com/AnukratiMehta)
 - [Samyak Katariya](https://github.com/samkatariya)
 - [Adam Johnson](https://github.com/adjohn36)
+- wellison-custer
 - [Franco-Spaniard]
 - [Dev0xgenius]
 - [Jon Orth](https://github.com/funwithgit)
