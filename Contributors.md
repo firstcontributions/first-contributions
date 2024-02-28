@@ -350,6 +350,7 @@ something...changed
 - [Antonio Fernandez]
 - [sai chandra]
 - [Dana](https://github.com/dana-ciocan/)
+- [Sairon Alves](https://github.com/saironalves/)
 - [Asakuraa](https://github.com/asakuraa)
 - [Ama Granillo](https://github.com/amadeogranillo/)
 - [Zestoo](https://github.com/zesto-shoaib/)
