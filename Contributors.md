@@ -40,7 +40,6 @@ Happy# Contributors
 - [Vara Rahul Rajana](https://github.com/rajanarahul93)
 - [Karan Chrish](https://github.com/Karanchrish)
 - [Mohammed Shuhaib]
--[Gyamposu dodzi](https://github.com/gyamposudodzi) [Linkedin](https://linkedin.com/dodzigyamposu)
 - [Max Albers](https://github.com/malbers-main)
 - [jarifulovi](https://github.com/jarifulovi)
 - Busola Tom [Github](https://github.com/busolatom) [LinkedIn](https://www.linkedin.com/in/busolatom/)
@@ -530,6 +529,7 @@ something...changed
 - [Vishaal] (https://github.com/vs22202)
 - [Sergio DG](https://github.com/dgsergio)
 - [Abhinav] (https://github.com/saiabhinav75)
+- [Gyamposu dodzi](https://github.com/gyamposudodzi) [Linkedin](https://linkedin.com/dodzigyamposu)
 - [turtle-papa](https://github.com/turtle-papa)
 - [GCabane] (https://github.com/GCabane)
 - [TsvetislavRangelov] (https://github.com/TsvetislavRangelov)
