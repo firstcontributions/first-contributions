@@ -57,6 +57,7 @@ Happy# Contributors
 - [Gabriela Sena da Silva] (https://github.com/Gabriela-Sena)
 - [kalpesh-d](https://github.com/kalpesh-d)
 - [bradyhelms](https://github.com/bradyhelms)
+- [AutonmyLab](https://github.com/autonomylab-xyz)
 - [Amila999](https://github.com/Amila999)
 - [NightLighter423](https://github.com/NightLighter423)
 - [Rawoot Fly](https://github.com/rawoot2)
