@@ -6,7 +6,6 @@ Happy# Contributors
 -[tasosbeast](https://github.com/tasosbeast)
 - [Akanksha Maurya](https://github.com/Akanksham12)
 -[Barun Rajak](https://github.com/Barungit)
--[Gyamposu dodzi](https://github.com/gyamposudodzi)[Linkedin](https://linkedin.com/dodzigyamposu)
 - [zsunit](https://github.com/zsunit)
 - [Neer Amrutia](https://github.com/neeramrutia)
 - [Szymon Gałązka](https://github.com/SzymonGalazka)
@@ -317,6 +316,7 @@ something...changed
 - [Akram Hany](https://github.com/akramhany)
 - [Hein Htut Zaw] (https://github.com/HeinHtutZaw19)
 - [PeymanSF2000](https://github.com/peymansf2000) 🇮🇷 💻 🎮 🥇
+- [Gyamposu dodzi](https://github.com/gyamposudodzi)   [Linkedin](https://linkedin.com/dodzigyamposu)
 - [Karthik Sp](https://github.com/karthisp)
 - [Bruno Carmena](https://github.com/brunocarmena57)
 - [Cathy Ly] (https://github.com/cl2493)
