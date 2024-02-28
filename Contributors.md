@@ -1,6 +1,7 @@
 Happy# Contributors
 
 -[Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
+
 -[Comfort Prince](https://github.com/comfortprince)
 -[rukmaniVijay](https://github.com/rukmanivijay)
 -[tasosbeast](https://github.com/tasosbeast)
@@ -2059,6 +2060,7 @@ LadegbayeStella)
 - [gpad4](https://github.com/gpad4)
 - [Regmiram](https://github.com/rr-tri)
 - [kitwi](https://github.com/kitwi)
+- [vijeshgowda](https://github.com/vijeshgowda)
 - [Carla Ejemeh Inya-Agha](https://github.com/Sparklinglily)
 - [Sanchitha Sharma Ranganathaiah](https://github.com/Sanchithasharma)
 - [Deekshith Manohar](https://github.com/deek-15)
