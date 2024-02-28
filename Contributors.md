@@ -30,6 +30,7 @@ Happy# Contributors
 -[cespito](https://github.com/Cespito) 
 -[josh-segal](https://github.com/josh-segal)
 -[Raftthaththath](czczxczxc)
+-[João pedro golenia ](czczxczxc)
 -[Ankrick](https://github.com/Ankrick)
 -[Karan Raj](https://github.com/karan2198)
 -[hari haran](https://github.com/Hariharankh)
@@ -384,6 +385,7 @@ something...changed
 - [AYL](https://github.com/Ayeyulwin)
 - [Jeffrey Symens] (https://github.com/SymensJeffrey)
 - [Mai Van Hoang]
+- [Diogo Czervinski]
 - [Ankit Chaubey](https://www.linkedin.com/in/ankit-chaubey-6102/)
 - [Paul Knife] (https://github.com/Key-of-light)
 - [Alex White](https://github.com/alexwhite116)
@@ -679,6 +681,7 @@ Gyanendra Thakur
 - [Rey Jao](https://github.com/jao-rey)
 - [Eiheir] (https://github.com/ebininin)
 - [Maria Carrera](https://github.com/MarieCourse)
+- [EbertonKM](https://github.com/EbertonKM)
 - [Aiman](https://github.com/PX201)
 - [Debapriya sengupta](https://github.com/DebapriyaSengupta28)
 - [Hoin Shin](https://github.com/signalman)
@@ -2488,6 +2491,7 @@ LadegbayeStella)
 - [Anshul](https://github.com/hianshul07)
 - [back99]
 - [nateesh]
+- Wellison Vieira Custer
 - [Subhankar Ray](https://github.com/Subhankar-Ray192)
 - [Eltayeb Ibrahim](https://github.com/abuomerSD)
 - [datagriff](https://github.com/datagriff)
@@ -2729,3 +2733,5 @@ LadegbayeStella)
 -[Miguel Dias](https://github.com/migueldiascoelho)
 -[Lucas Matheus Churutekoski](https://github.com/LukaszMatheus)
 -[Bernardo Bueno da Matta](https://github.com/zB3RN4RD0z)
+-[Jaqueline da Silva Fagundes](https://github.com/Jaquesz/Jaqueszx)
+-[Emilia Menegassio Sonalio](https://github.com/emiliasonalio)
