@@ -114,6 +114,7 @@ Happy# Contributors
 - [Arturo]
 - [Sivaselvan]
 - [Anurag Singh](https://github.com/anuragsingh6886)
+- [SwagShah]
 - [Colin] (https://github.com/Coltnickers)
 - [Vembu](https://github.com/vembu2991)
 - [harish](https://github.com/harish885)
@@ -154,6 +155,7 @@ Happy# Contributors
 - [Oana Pavel] (https://github.com/oanap11)
 - [Qowe Awi](https://github.com/qoweawi)
 - [Junmin.ma](https://github.com/majunmin)
+- [Shahan2] (https://github.com/shahan360)
 - [djsmacker01](https://github.com/djsmacker01)
 - [shinyb.gb](https://github.com/gloria-bradford)
   -[Ruhi Farhath](https://github.com/Ruhifarhath)
