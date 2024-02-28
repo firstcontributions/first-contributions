@@ -2486,6 +2486,7 @@ LadegbayeStella)
 - [Anshul](https://github.com/hianshul07)
 - [back99]
 - [nateesh]
+- Wellison Vieira Custer
 - [Subhankar Ray](https://github.com/Subhankar-Ray192)
 - [Eltayeb Ibrahim](https://github.com/abuomerSD)
 - [datagriff](https://github.com/datagriff)
