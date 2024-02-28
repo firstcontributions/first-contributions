@@ -32,6 +32,7 @@ Happy# Contributors
 -[majobasgall](https://github.com/majobasgall)
 -[caseyhchan](https://github.com/caseyhchan)
 - [eoMazur] (https://github.com/eoMazur) 
+-[Alejandro Salinas] (https://github.com/asalinas4826)
 -[cespito](https://github.com/Cespito) 
 -[josh-segal](https://github.com/josh-segal)
 -[Raftthaththath](czczxczxc)
