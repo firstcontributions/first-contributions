@@ -22,6 +22,7 @@ Happy# Contributors
 - [Souaprna Roy](https://github.com/souparna-roy)
 - [Bhuvanesh Prasad](https://github.com/bhuvaneshprasad)
 -[Laxman P](https://github.com/laxmanp090404)
+-[Oleksandr Nedzelnytskyi](https://github.com/Sasha2511)
 -[Krunal Patel](https://github.com/kd05)
 - [Zsolt Varjú](https://github.com/zsoolti8917)
 - [Anjali Lalwani](https://github.com/AnjaliLalwaniGit)
