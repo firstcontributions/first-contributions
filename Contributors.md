@@ -30,6 +30,7 @@ Happy# Contributors
 -[cespito](https://github.com/Cespito) 
 -[josh-segal](https://github.com/josh-segal)
 -[Raftthaththath](czczxczxc)
+-[ViniciusGregorio](https://github.com/ViniciusGregorio)
 -[Ankrick](https://github.com/Ankrick)
 -[Karan Raj](https://github.com/karan2198)
 -[hari haran](https://github.com/Hariharankh)
