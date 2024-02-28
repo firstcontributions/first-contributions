@@ -46,6 +46,7 @@ Happy# Contributors
 - [iwanski86](https://github.com/iwanski86)
 - [Israel Ruiz](https://github.com/aruiz69)
 - [raseenaanwar](https://github.com/raseenaanwar)
+- [Gabriela Sena da Silva] (https://github.com/Gabriela-Sena)
 - [kalpesh-d](https://github.com/kalpesh-d)
 - [bradyhelms](https://github.com/bradyhelms)
 - [Amila999](https://github.com/Amila999)
