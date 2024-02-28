@@ -83,6 +83,7 @@ Happy# Contributors
 - [Ali Sajad Ahmadi](https://github.com/alisajad001)
 - [Adrian Trandafir](https://github.com/XenoMee)
 - [Likith_S](https://github.com/LIKITHS2002)
+- [Able Abenaitwe](https://github.com/abenable)
 - [demomail231]
 - [Aliiyu Sadiiq](https://github.com/sadiiqaliiyu)
 - [Hein Htet Zaw](https://github.com/Justinpop123)
