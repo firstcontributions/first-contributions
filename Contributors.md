@@ -1,7 +1,6 @@
 Happy# Contributors
 
 -[Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
-
 -[Comfort Prince](https://github.com/comfortprince)
 -[rukmaniVijay](https://github.com/rukmanivijay)
 -[tasosbeast](https://github.com/tasosbeast)
