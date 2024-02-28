@@ -1,4 +1,4 @@
-Happy# Contributors
+# Contributors
 
 -[Carolina Avendaño](https://github.com/Carolinaavendanoq)
 -[Moe Sidibeh](https://github.com/kkonteh97)
