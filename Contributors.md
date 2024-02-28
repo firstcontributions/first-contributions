@@ -44,6 +44,7 @@ Happy# Contributors
 - [ryan](https://github.com/ryan246)
 - [Rashed](https://github.com/RAwad18)
 - [iwanski86](https://github.com/iwanski86)
+- Guilherme Prigol Kramer [GitHub](https://github.com/guilhermepk) [Linkedin](https://www.linkedin.com/in/guilherme-prigol-kramer)
 - [Israel Ruiz](https://github.com/aruiz69)
 - [raseenaanwar](https://github.com/raseenaanwar)
 - [Gabriela Sena da Silva] (https://github.com/Gabriela-Sena)
