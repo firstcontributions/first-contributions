@@ -47,6 +47,7 @@ Happy# Contributors
 - Busola Tom [Github](https://github.com/busolatom) [LinkedIn](https://www.linkedin.com/in/busolatom/)
 - [ryan](https://github.com/ryan246)
 - [Rashed](https://github.com/RAwad18)
+- [Karan](https://github.com/karann09)
 - [iwanski86](https://github.com/iwanski86)
 - Guilherme Prigol Kramer [GitHub](https://github.com/guilhermepk) [Linkedin](https://www.linkedin.com/in/guilherme-prigol-kramer)
 - [Israel Ruiz](https://github.com/aruiz69)
