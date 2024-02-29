@@ -17,6 +17,7 @@
 - [Szymon Gałązka](https://github.com/SzymonGalazka)
 - [Darshan Gaikwad 🔱](https://github.com/darshangaikwad4114)
 - [JAGNATH SHANKER](https://github.com/jagnathshanker)
+- [Laurence Cook](https://github.com/07cookl)
 - [Nikola - nicywi](https://github.com/nicywi)
 - [Mitchell - mitthoma](https://github.com/mitthoma)
 - [Chiharu Hagiwara](https://github.com/mendako1015)
