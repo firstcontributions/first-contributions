@@ -5,6 +5,7 @@
 -[Moe Sidibeh](https://github.com/kkonteh97)
 -[Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
 -[Emad Alriyashi](https://github.com/Dev-Emad-777)
+-[Akilesh Jayakumar](https://github.com/akileshjayakumar) [LinkedIn](https://www.linkedin.com/in/akileshjayakumar/) 
 -[Comfort Prince](https://github.com/comfortprince)
 -[rukmaniVijay](https://github.com/rukmanivijay)
 -[tasosbeast](https://github.com/tasosbeast)
