@@ -714,8 +714,9 @@ Gyanendra Thakur
 - Felicia Mayeyane (https://github.com/Felicia-Mayeyane)
 - Kate Rasheed
 - [Isabela Magalhães](https://github.com/isarbela)
-- [John Caleb ⚡](https://github.com/thejohncaleb)
-- [Rey Jao](https://github.com/jao-rey)
+-[John Caleb ⚡](https://github.com/thejohncaleb)
+- [Nick Trinh] (https://github.com/nicktrinh)
+[Rey Jao](https://github.com/jao-rey)
 - [Eiheir] (https://github.com/ebininin)
 - [Maria Carrera](https://github.com/MarieCourse)
 - [EbertonKM](https://github.com/EbertonKM)
