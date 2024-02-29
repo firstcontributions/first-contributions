@@ -1,5 +1,6 @@
 # Contributors
 
+-[Samuel Huanosto Jr](https://github.com/SoftwareSam29)
 -[Carolina Avendaño](https://github.com/Carolinaavendanoq)
 -[Moe Sidibeh](https://github.com/kkonteh97)
 -[Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
