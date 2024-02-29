@@ -219,6 +219,7 @@
 - [Adam Johnson](https://github.com/adjohn36)
 - wellison-custer
 - [Franco-Spaniard]
+- [Josef Da Costa](https://github.com/Devjosef)
 - [Dev0xgenius]
 - [Jon Orth](https://github.com/funwithgit)
 - [Kunal Prajapati](https://github.com/21-kunal)
