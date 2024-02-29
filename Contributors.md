@@ -1,5 +1,6 @@
 # Contributors
 
+- [Arbin Shrestha](https://github.com/arbeen)
 -[Carolina Avendaño](https://github.com/Carolinaavendanoq)
 -[Moe Sidibeh](https://github.com/kkonteh97)
 -[Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
@@ -636,6 +637,7 @@ something...changed
 - [Danyal Ejaz](https://github.com/danyalejaz)
 - [Varun Patel](https://github.com/varunpatel07)
 - [Jayadeep Velagapudi](https://github.com/jkvelagapudi)
+- [Muhammad Abdullah Khan](https://github.com/sapientabdullah)
 - [Mukesh Kalikaya](https://github.com/Mukesh-Kalikaya)
 - [Stephen Ng](https://github.com/snust)
 - [Axel Valerio Ertamto](https://github.com/AxelValerioErtamto)
