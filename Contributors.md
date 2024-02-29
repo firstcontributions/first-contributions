@@ -18,6 +18,7 @@
 - [Darshan Gaikwad 🔱](https://github.com/darshangaikwad4114)
 - [JAGNATH SHANKER](https://github.com/jagnathshanker)
 - [Nikola - nicywi](https://github.com/nicywi)
+- [Mitchell - mitthoma](https://github.com/mitthoma)
 - [Chiharu Hagiwara](https://github.com/mendako1015)
 - [Santu Dhali](https://github.com/santu-dhali): just checking how to contribute in open source.
 - [John L](https://github.com/john89521)
