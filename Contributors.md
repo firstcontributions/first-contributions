@@ -74,6 +74,7 @@
 - [Ptitet](https://github.com/Ptitet)
   [Gelu Guta](https://github.com/ggelu) [LinkedIn](https://www.linkedin.com/in/gelu-guta-635bb9233/)
 - [Fernando Maia](https://github.com/fcmaya)
+- [Moosa Thathrampalli] (https://github.com/moosatp2/) [LinkedIn](https://www.linkedin.com/in/moosa-thathrampalli-64a27952/)
 - [Mike L](https://github.com/emailmliu)
 - [Bharghavi S](https://github.com/bharghavis20)
 - [James] (https://github.com/James-Zh0ng)
