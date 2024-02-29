@@ -19,6 +19,7 @@ happy# Contributors
 - [Ptitet](https://github.com/Ptitet)
 - [Fernando Maia](https://github.com/fcmaya)
 - [James] (https://github.com/James-Zh0ng)
+- [alexk1309] (https://github.com/alexk1309)
 - [JinhoLee](https://github.com/jinho-github)
 - [prxshetty](https://github.com/prxshetty)
 - [TopChainBoy](https://github.com/TopChainBoy) 
