@@ -1,5 +1,6 @@
 # Contributors
 
+- [Arbin Shrestha](https://github.com/arbeen)
 -[Carolina Avendaño](https://github.com/Carolinaavendanoq)
 -[Moe Sidibeh](https://github.com/kkonteh97)
 -[Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
@@ -26,6 +27,7 @@
 -[Laxman P](https://github.com/laxmanp090404)
 -[Oleksandr Nedzelnytskyi](https://github.com/Sasha2511)
 -[Krunal Patel](https://github.com/kd05)
+-[Samuel Huanosto Jr](https://github.com/SoftwareSam29)
 - [Zsolt Varjú](https://github.com/zsoolti8917)
 - [Anjali Lalwani](https://github.com/AnjaliLalwaniGit)
 - [Vivek Pandey](https://github.com/vickypandey14)
@@ -71,12 +73,14 @@
 - [Ptitet](https://github.com/Ptitet)
   [Gelu Guta](https://github.com/ggelu) [LinkedIn](https://www.linkedin.com/in/gelu-guta-635bb9233/)
 - [Fernando Maia](https://github.com/fcmaya)
+- [Mike L](https://github.com/emailmliu)
 - [Bharghavi S](https://github.com/bharghavis20)
 - [James] (https://github.com/James-Zh0ng)
 - [JinhoLee](https://github.com/jinho-github)
 - [prxshetty](https://github.com/prxshetty)
 - [TopChainBoy](https://github.com/TopChainBoy) 
 - [Leslieecoder] (https://github.com/leslieecoder)
+- [alex1309] (https://github.com/alexk1309)
 - [Praful Gulani](https://github.com/prafulgulani555)
 - [Znake](https://github.com/znake77)
 - [Balasuriya](https://github.com/balasuriyaranganathan)
@@ -168,7 +172,8 @@
 - [Junmin.ma](https://github.com/majunmin)
 - [djsmacker01](https://github.com/djsmacker01)
 - [shinyb.gb](https://github.com/gloria-bradford)
-  -[Ruhi Farhath](https://github.com/Ruhifarhath)
+- [CptRainy](https://github.com/CptRainy/)
+- [Ruhi Farhath](https://github.com/Ruhifarhath)
 - [Aryan Panwar](https://github.com/aryannpanwarr)
 - [Jay Kumar](https://github.com/jayk245)
 - [Shailesh Chaudhari](https://github.com/shailesh93602)
@@ -214,6 +219,7 @@
 - [Adam Johnson](https://github.com/adjohn36)
 - wellison-custer
 - [Franco-Spaniard]
+- [Josef Da Costa](https://github.com/Devjosef)
 - [Dev0xgenius]
 - [Jon Orth](https://github.com/funwithgit)
 - [Kunal Prajapati](https://github.com/21-kunal)
@@ -404,6 +410,7 @@ something...changed
 - [AYL](https://github.com/Ayeyulwin)
 - [Jeffrey Symens] (https://github.com/SymensJeffrey)
 - [Mai Van Hoang]
+- Daniel Baez
 - [Diogo Czervinski]
 - [Ankit Chaubey](https://www.linkedin.com/in/ankit-chaubey-6102/)
 - [Paul Knife] (https://github.com/Key-of-light)
@@ -636,6 +643,7 @@ something...changed
 - [Danyal Ejaz](https://github.com/danyalejaz)
 - [Varun Patel](https://github.com/varunpatel07)
 - [Jayadeep Velagapudi](https://github.com/jkvelagapudi)
+- [Muhammad Abdullah Khan](https://github.com/sapientabdullah)
 - [Mukesh Kalikaya](https://github.com/Mukesh-Kalikaya)
 - [Stephen Ng](https://github.com/snust)
 - [Axel Valerio Ertamto](https://github.com/AxelValerioErtamto)
@@ -2765,5 +2773,7 @@ LadegbayeStella)
 -[Emilia Menegassio Sonalio](https://github.com/emiliasonalio)
 -[Johns Hopkins](https://github.com/nibaozhu)
 -[Joshua Blankley](https://github.com/jmblankley)
+-[Donald Clark](https://github.com/donthescot)
 -[Kuba Świderski](https://github.com/kubaswiderski)
 - Twan Natter [Github](https://github.com/twannatter) [LinkedIn](https://www.linkedin.com/in/twannatter/)
+- [Teddy](https://github.com/chaoyuekongjian)
