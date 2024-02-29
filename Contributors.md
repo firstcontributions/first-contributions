@@ -23,7 +23,7 @@ happy# Contributors
 - [prxshetty](https://github.com/prxshetty)
 - [TopChainBoy](https://github.com/TopChainBoy) 
 - [Leslieecoder] (https://github.com/leslieecoder)
-- [alex] (https://github.com/alexk1309)
+- [alex1309] (https://github.com/alexk1309)
 - [Praful Gulani](https://github.com/prafulgulani555)
 - [Znake](https://github.com/znake77)
 - [Balasuriya](https://github.com/balasuriyaranganathan)
