@@ -1,5 +1,5 @@
 # Contributors
-
+-[Connor MacDonald](https://github.com/ConnorM1205).
 -[Carolina Avendaño](https://github.com/Carolinaavendanoq)
 -[Moe Sidibeh](https://github.com/kkonteh97)
 -[Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
