@@ -38,6 +38,7 @@
 -[elfarsif](https://github.com/elfarsif)
 -[majobasgall](https://github.com/majobasgall)
 -[caseyhchan](https://github.com/caseyhchan)
+- [Lewis Pilgrim](https://github.com/LewisPilgrim)
 - [eoMazur] (https://github.com/eoMazur) 
 -[Alejandro Salinas] (https://github.com/asalinas4826)
 -[cespito](https://github.com/Cespito) 
