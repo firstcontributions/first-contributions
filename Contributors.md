@@ -297,6 +297,7 @@ something...changed
 - [Lester Zipperer] (https://github.com/cowoftheball)
 - [Ghanashyam R](https://github.com/ghanashyam-r)
 - [Boitumelo Tshehla](https://github.com/B-Tshehla)
+- [vLeov](https://github.com/vLeov)
 - [Mythresh](https://github.com/Joyboy57)
 - [pgcampani](https://github.com/pgcampani)
 - [Shubham Salunke](https://github.com/TechnoFynch)
