@@ -19,6 +19,7 @@
 - [Chiharu Hagiwara](https://github.com/mendako1015)
 - [Santu Dhali](https://github.com/santu-dhali): just checking how to contribute in open source.
 - [John L](https://github.com/john89521)
+- [Olivia Hinson] (https://github.com/ohinson01): my first open-source contribution. 
 - [Harjas Singh](https://github.com/harjasae2001)
 - [Souaprna Roy](https://github.com/souparna-roy)
 - [Bhuvanesh Prasad](https://github.com/bhuvaneshprasad)
