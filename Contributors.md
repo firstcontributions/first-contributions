@@ -1,6 +1,7 @@
 # Contributors
 
 - [Arbin Shrestha](https://github.com/arbeen)
+-[Amaka Uchegbu](https://github.com/UCHEHQ)
 -[Carolina Avendaño](https://github.com/Carolinaavendanoq)
 -[Aswin Jose](https://github.com/aswinjose89)
 -[Moe Sidibeh](https://github.com/kkonteh97)
