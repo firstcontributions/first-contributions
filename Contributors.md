@@ -143,6 +143,7 @@
 - [gitFerdo](https://github.com/gitFerdo)
 - [Arturo]
 - [Sivaselvan]
+- [Karan Khatavkar](https://github.com/karankhatavkar)
 - [Anurag Singh](https://github.com/anuragsingh6886)
 - [Colin] (https://github.com/Coltnickers)
 - [Vembu](https://github.com/vembu2991)
