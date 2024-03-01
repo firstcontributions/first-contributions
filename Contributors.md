@@ -774,6 +774,7 @@
 -   [eyitayo babatope](https://github.com/eyitayo-alt)
 -   [Anand Raj](https://github.com/anand346)
 -   [Adrian Camuti](https://github.com/ApogeeAC)
+-   [Simon Kagwe](https://github.com/Cute-Sky)
 -   [Phil](https://github.com/psmail147)
 -   [Fernando P ﾃｩ rez](https://github.com/fermop)
 -   [Javier Fernandez](https://github.com/Pankeking)
