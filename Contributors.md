@@ -1913,6 +1913,7 @@ Alexander
 - [alice](https://github.com/aherston)
 - [Samuel dunamis](https://github.com/dunamislimitless)
 - [Lillyann](https://github.com/lcelisse)
+- [Arun Arunisto](https://github.com/arun-arunisto)
 - [Richmond Nyame](https://github.com/Nyame100)
 - [Ann](https://github.com/wangui-ann)
 - [ThanushkumarRD](https://github.com/Thanush19)
