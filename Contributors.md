@@ -1,5 +1,4 @@
 # Contributors
-
 - [Arbin Shrestha](https://github.com/arbeen)
 -[Amaka Uchegbu](https://github.com/UCHEHQ)
 -[Carolina Avendaño](https://github.com/Carolinaavendanoq)
@@ -8,6 +7,7 @@
 -[Moe Sidibeh](https://github.com/kkonteh97)
 -[Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
 -[Emad Alriyashi](https://github.com/Dev-Emad-777)
+-[tanita8888](https://github.com/tanita8888) 
 -[Shaurya Sambyal](https://github.com/ShauryaSambyal)
 -[Akilesh Jayakumar](https://github.com/akileshjayakumar) [LinkedIn](https://www.linkedin.com/in/akileshjayakumar/) 
 -[Comfort Prince](https://github.com/comfortprince)
