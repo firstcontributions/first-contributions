@@ -2504,6 +2504,7 @@ LadegbayeStella)
 - [ksm]
 - [Artur Li](https://github.com/artur-li)
 - [Andrea Buonaguro](https://github.com/AndreaBuo)
+- [A-KeranoF]
 - [harryytsao] (https://github.com/harryytsao)
 - [CptHippieh] (https://github.com/PasiParviainen)
 - [Suraj_Samal](https://github.com/surajssam)
