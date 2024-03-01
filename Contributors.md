@@ -3,6 +3,7 @@
 - [Arbin Shrestha](https://github.com/arbeen)
 -[Amaka Uchegbu](https://github.com/UCHEHQ)
 -[Carolina Avendaño](https://github.com/Carolinaavendanoq)
+-[Daniele Russo](https://github.com/DaniVS) [Linkedin](https://www.linkedin.com/in/daniele-russo-0317a3289/)
 -[Aswin Jose](https://github.com/aswinjose89)
 -[Moe Sidibeh](https://github.com/kkonteh97)
 -[Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
