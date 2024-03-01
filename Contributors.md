@@ -140,6 +140,7 @@
 - [waltofalltrades]
 - [wagger]
 - [phee]
+- [gitFerdo](https://github.com/gitFerdo)
 - [Arturo]
 - [Sivaselvan]
 - [Anurag Singh](https://github.com/anuragsingh6886)
