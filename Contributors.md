@@ -175,6 +175,7 @@
 - [Anand](https://github.com/anandk3012)
 - [Aiba] (https://github.com/Aibaww)
 - [ersediti](https://github.com/Ersediti)
+- [Alcarius]
 - [laegel] (https://github.com/laegel123)
 - [Samruddhi Dharankar](https://github.com/samruddhiDharankar)
 - [Aung Pyae Soe](https://github.com/APS4087)
