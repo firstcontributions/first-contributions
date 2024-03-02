@@ -1246,6 +1246,7 @@ Romeu Leite
 - [Aaron Sanchez](https://github.com/aaron-ross-sanchez)
 - Pokala Rohit 
 - Balajiupadhyay
+- [Pedro J Colon](https://github.com/PedroJColon)
 - [Tyler Collingridge] (https://github.com/tcollm)
 - [Akash Mishra] (https://github.com/akashmishrahaha)
 - [Mukund Menon] (https://github.com/CR1T1KAL16)
