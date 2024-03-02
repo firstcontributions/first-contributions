@@ -44,6 +44,7 @@ Kencham Vinay
 - [Zsolt Varjú](https://github.com/zsoolti8917)
 - [Anjali Lalwani](https://github.com/AnjaliLalwaniGit)
 - [Vivek Pandey](https://github.com/vickypandey14)
+- [Nitish Singh](https://github.com/developmentMasters1)
 -[SahiL](https://github.com/SahiLmb)
 -[elfarsif](https://github.com/elfarsif)
 -[ApostolosKourpadakis](https://github.com/ApostolosKourpadakis)
