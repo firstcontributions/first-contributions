@@ -2,6 +2,7 @@
 
 - [Arbin Shrestha](https://github.com/arbeen)
 -[Amaka Uchegbu](https://github.com/UCHEHQ)
+-[Ankit Singh](https://github.com/AnkitSin24)
 -[Carolina Avendaño](https://github.com/Carolinaavendanoq)
 Kencham Vinay
 -[Daniele Russo](https://github.com/DaniVS) [Linkedin](https://www.linkedin.com/in/daniele-russo-0317a3289/)
