@@ -1,6 +1,6 @@
 # Contributors
 
-- [Arbin Shrestha](https://github.com/arbeen)
+- [AlphonseRaph](https://github.com/AlphonseRaph)
 -[Amaka Uchegbu](https://github.com/UCHEHQ)
 -[Carolina Avendaño](https://github.com/Carolinaavendanoq)
 Kencham Vinay
