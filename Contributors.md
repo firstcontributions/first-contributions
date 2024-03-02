@@ -23,6 +23,7 @@ Kencham Vinay
 - [Neer Amrutia](https://github.com/neeramrutia)
 - [Szymon Gałązka](https://github.com/SzymonGalazka)
 - [Darshan Gaikwad 🔱](https://github.com/darshangaikwad4114)
+- [Philip John](https://github.com/jpngeta)
 - [Ngeta John](https://github.com/jpngeta)
 - [JAGNATH SHANKER](https://github.com/jagnathshanker)
 - [Laurence Cook](https://github.com/07cookl)
