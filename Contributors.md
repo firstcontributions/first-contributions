@@ -26,6 +26,7 @@
 - [Nikola - nicywi](https://github.com/nicywi)
 - [Mitchell - mitthoma](https://github.com/mitthoma)
 - [Chiharu Hagiwara](https://github.com/mendako1015)
+- [Alan Montgomery](https://github.com/alanmontgomery)
 - [Santu Dhali](https://github.com/santu-dhali): just checking how to contribute in open source.
 - [John L](https://github.com/john89521)
 - [Olivia Hinson] (https://github.com/ohinson01): my first open-source contribution. 
