@@ -248,6 +248,7 @@ Kencham Vinay
 - [Franco-Spaniard]
 - [Josef Da Costa](https://github.com/Devjosef)
 - [Dev0xgenius]
+-[Gideon Kiprono](https://github.com/Gideon-Kiprono)
 - [Jon Orth](https://github.com/funwithgit)
 - [Kunal Prajapati](https://github.com/21-kunal)
 - [Maria Karavazaki](https://github.com/MariaKar1991)
