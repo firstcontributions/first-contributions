@@ -11,6 +11,7 @@ Kencham Vinay
 -[Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
 -[Emad Alriyashi](https://github.com/Dev-Emad-777)
 -[Shaurya Sambyal](https://github.com/ShauryaSambyal)
+-[Amir Abdullahi](https://github.com/amirabdullahi)
 -[Akilesh Jayakumar](https://github.com/akileshjayakumar) [LinkedIn](https://www.linkedin.com/in/akileshjayakumar/) 
 -[Comfort Prince](https://github.com/comfortprince)
 -[rukmaniVijay](https://github.com/rukmanivijay)
@@ -2828,5 +2829,4 @@ LadegbayeStella)
 [Ho Minh Hieu](https://github.com/hominhhieu7)
 [Alistair Huang](https://github.com/shujunH)
 -[Lukas Fischer](https://github.com/Ohboy166)
-[Ben Choo]
--[Amir Abdullahi](https://github.com/amirabdullahi)
+[Ben Chop]]
