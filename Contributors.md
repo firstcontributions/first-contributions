@@ -613,6 +613,7 @@ something...changed
 - [Thales Winther](https://github.com/thaleswinther)
 - - [Ryan Lucero](https://github.com/ryanluceroo)
 - [Alonso Jimenez](https://github.com/alonsojmnz)
+- [Antonio Fábio](https://github.com/zodiecko)
 - [Anand Shende](https://github.com/anandshende)
 - [WHA](https://github.com/wynehtetaung)
 - [Captain] (https://github.com/CaptainPatel)
