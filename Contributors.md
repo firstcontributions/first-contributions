@@ -6,6 +6,7 @@
 Kencham Vinay
 -[Daniele Russo](https://github.com/DaniVS) [Linkedin](https://www.linkedin.com/in/daniele-russo-0317a3289/)
 -[Azucena Marroquin](https://github.com/azucena-m)
+- [Stella Maina](https://github.com/Stella Maina)
 -[Aswin Jose](https://github.com/aswinjose89)
 -[Moe Sidibeh](https://github.com/kkonteh97)
 -[Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
