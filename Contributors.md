@@ -1,5 +1,6 @@
 # Contributors
 
+-[Asimanye Dudumayo](https://github.com/adudumayo)
 - [Arbin Shrestha](https://github.com/arbeen)
 -[Amaka Uchegbu](https://github.com/UCHEHQ)
 -[Carolina Avendaño](https://github.com/Carolinaavendanoq)
