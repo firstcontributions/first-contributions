@@ -12,6 +12,7 @@ Kencham Vinay
 -[Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
 -[Emad Alriyashi](https://github.com/Dev-Emad-777)
 -[Shaurya Sambyal](https://github.com/ShauryaSambyal)
+-[Amir Abdullahi](https://github.com/amirabdullahi)
 -[Akilesh Jayakumar](https://github.com/akileshjayakumar) [LinkedIn](https://www.linkedin.com/in/akileshjayakumar/) 
 -[Comfort Prince](https://github.com/comfortprince)
 -[rukmaniVijay](https://github.com/rukmanivijay)
