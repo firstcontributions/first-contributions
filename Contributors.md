@@ -2829,4 +2829,4 @@ LadegbayeStella)
 [Ho Minh Hieu](https://github.com/hominhhieu7)
 [Alistair Huang](https://github.com/shujunH)
 -[Lukas Fischer](https://github.com/Ohboy166)
-[Ben Chop]]
+[Ben Choo]
