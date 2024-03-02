@@ -2445,6 +2445,7 @@ LadegbayeStella)
 - [Christian Daher](https://github.com/ChristianDaher)
 - [Lekha Pillai](https://github.com/lekspil2)
 - [Christian Veltchev](https://github.com/chrisveltchev)
+- [Barnik](https://github.com/barnikbhandral)
 - [weigangs](https://github.com/weigangs)
 - [adambala](https://github.com/adambala)
 - [SantixDesigner](https://github.com/SantixDesigner)
@@ -2822,3 +2823,4 @@ LadegbayeStella)
 [Alistair Huang](https://github.com/shujunH)
 -[Lukas Fischer](https://github.com/Ohboy166)
 [Ben Choo]
+
