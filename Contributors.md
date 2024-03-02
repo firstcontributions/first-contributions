@@ -41,6 +41,7 @@ Kencham Vinay
 - [Harjas Singh](https://github.com/harjasae2001)
 - [Corbin Griffin](https://github.com/Kaboombafoo)
 - [Hari prasad1](https://github.com/haripd)
+- [Suchana Singh] (https://github.com/suchana06)
 - [Souaprna Roy](https://github.com/souparna-roy)
 - [Bhuvanesh Prasad](https://github.com/bhuvaneshprasad)
 -[Laxman P](https://github.com/laxmanp090404)
