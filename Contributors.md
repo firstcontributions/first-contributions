@@ -2008,6 +2008,7 @@ LadegbayeStella)
 - Sujeeth
 - 1
 - [cameronMcConnell](https://github.com/cameronMcConnell)
+- [FlorisS]
 - [Farouk Younsi](https://github.com/pharouqy)
 - [Amna Hassan](https://github.com/Amna-Hassan04)
 - [Bart Miller](https://github.com/9opsec)
