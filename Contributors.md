@@ -2266,6 +2266,7 @@ LadegbayeStella)
 - [Bezal Stephen](https://github.com/beeezal)
 - [Francisco](https://github.com/Francis-coder01)
 - [Mia] (https://github.com/MiaHsieh9003)
+- [Alexander Kagerer] (https://github.com/kagerer19)
 - [Aiman] (https://github.com/helloaim4n)
 - [crystalyn]
 - [Nitipat Ruengsatawit](https://github.com/nitipat21)
