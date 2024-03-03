@@ -3,6 +3,7 @@
 -[Asimanye Dudumayo](https://github.com/adudumayo)
 - [Arbin Shrestha](https://github.com/arbeen)
 -[Amaka Uchegbu](https://github.com/UCHEHQ)
+-[Miguel Antonio Cortés Muñoz](https://github.com/miguel-dev)
 -[Mohammad Reza Akbari 🎧](https://github.com/mra-ak)
 -[Ankit Singh](https://github.com/AnkitSin24)
 -[Carolina Avendaño](https://github.com/Carolinaavendanoq)
