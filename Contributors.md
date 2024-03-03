@@ -214,6 +214,7 @@ Kencham Vinay
 - [CptRainy](https://github.com/CptRainy/)
 - [Ruhi Farhath](https://github.com/Ruhifarhath)
 - [Aryan Panwar](https://github.com/aryannpanwarr)
+- [Dooki] (https://github.com/Dookisan)
 - [Jay Kumar](https://github.com/jayk245)
 - [Shailesh Chaudhari](https://github.com/shailesh93602)
 - [Sujith Kamme](https://github.com/sujith-kamme)
