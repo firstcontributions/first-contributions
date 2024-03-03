@@ -52,6 +52,7 @@ Kencham Vinay
 - [Anjali Lalwani](https://github.com/AnjaliLalwaniGit)
 - [Vivek Pandey](https://github.com/vickypandey14)
 - [Nitish Singh](https://github.com/developmentMasters1)
+- [Peter Khalil](https://github.com/Peter3Khalil)
 -[SahiL](https://github.com/SahiLmb)
 -[elfarsif](https://github.com/elfarsif)
 -[ApostolosKourpadakis](https://github.com/ApostolosKourpadakis)
