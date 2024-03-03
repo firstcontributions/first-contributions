@@ -1155,6 +1155,7 @@ Romeu Leite
 - [Newton Mwasomanya](https://github.com/nmwasomanya)
 - [Pravar Agarwal] (https://github.com/PravarAgarwal) (https://www.linkedin.com/in/pravar-agarwal/)
 -[Arpit Agrawal](https://github.com/Monkey-Arpit-Agrawal)
+-[Arpit Goswami](https://github.com/arpitgoswami)
 -[Aniruddha Adak](https://github.com/aniruddhaadak80)
 -[Su Su San](https://github.com/sususan16)
 -[YM]
