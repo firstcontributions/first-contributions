@@ -77,6 +77,7 @@ Kencham Vinay
 - [Vara Rahul Rajana](https://github.com/rajanarahul93)
 - [Karan Chrish](https://github.com/Karanchrish)
 - [Mohammed Shuhaib]
+-[Barak Rosenfeld]
 -[Gyamposu dodzi](https://github.com/gyamposudodzi) [Linkedin](https://linkedin.com/dodzigyamposu)
 - [Max Albers](https://github.com/malbers-main)
 - [jarifulovi](https://github.com/jarifulovi)
