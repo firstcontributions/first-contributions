@@ -14,6 +14,7 @@ Kencham Vinay
 -[Azucena Marroquin](https://github.com/azucena-m)
 -[Akshat Shukla](https://github.com/Akshat-0001)
 - [Stella Maina](https://github.com/Stella Maina)
+-[Roel Leal] (https://github.com/RoelLeal)
 -[Aswin Jose](https://github.com/aswinjose89)
 -[Moe Sidibeh](https://github.com/kkonteh97)
 -[Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
