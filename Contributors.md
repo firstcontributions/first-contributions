@@ -25,6 +25,7 @@ Kencham Vinay
 -[Barun Rajak](https://github.com/Barungit)
 -[Gyamposu dodzi](https://github.com/gyamposudodzi)[Linkedin](https://linkedin.com/dodzigyamposu)
 - [zsunit](https://github.com/zsunit)
+- [AGN907](https://github.com/AGN907)
 - [Neer Amrutia](https://github.com/neeramrutia)
 - [Szymon Gałązka](https://github.com/SzymonGalazka)
 - [Darshan Gaikwad 🔱](https://github.com/darshangaikwad4114)
@@ -40,6 +41,7 @@ Kencham Vinay
 - [Harjas Singh](https://github.com/harjasae2001)
 - [Corbin Griffin](https://github.com/Kaboombafoo)
 - [Hari prasad1](https://github.com/haripd)
+- [Suchana Singh] (https://github.com/suchana06)
 - [Souaprna Roy](https://github.com/souparna-roy)
 - [Bhuvanesh Prasad](https://github.com/bhuvaneshprasad)
 -[Laxman P](https://github.com/laxmanp090404)
@@ -1244,6 +1246,7 @@ Romeu Leite
 - [Aaron Sanchez](https://github.com/aaron-ross-sanchez)
 - Pokala Rohit 
 - Balajiupadhyay
+- [Pedro J Colon](https://github.com/PedroJColon)
 - [Tyler Collingridge] (https://github.com/tcollm)
 - [Akash Mishra] (https://github.com/akashmishrahaha)
 - [Mukund Menon] (https://github.com/CR1T1KAL16)
@@ -1282,6 +1285,7 @@ Romeu Leite
 - [Shubham Kumar] (https://github.com/shubh1777)
 - [Amol Pardeshi](https://gi thub.com/AmolPardeshi99) -[Rhitika Pal Adhikari](https://github.com/PalRhitika)
 - [Shahil Kumar](https://github.com/Shahil9728)
+- [Liya K](https://github.com/liyamk)
 - [Ergys Hila](https://github.com/ergys25)
 - [Sabri Cihan Bircan] (https://github.com/SabriCihan)
 - [Hajnalka Horvath] (https://github.com/HorvathHajnalka)
@@ -2005,6 +2009,7 @@ LadegbayeStella)
 - Sujeeth
 - 1
 - [cameronMcConnell](https://github.com/cameronMcConnell)
+- [FlorisS]
 - [Farouk Younsi](https://github.com/pharouqy)
 - [Amna Hassan](https://github.com/Amna-Hassan04)
 - [Bart Miller](https://github.com/9opsec)
@@ -2793,6 +2798,7 @@ LadegbayeStella)
 - [Zeddoun Lokmane](https://github.com/lokmanzeddoun)
 - [Bima Pangestu](https://github.com/punkestu)
 - [fan](https://github.com/wuyifan6688)
+- [phonie](https://github.com/phon1e)
 - [nemochi](https://github.com/nemochi)
 - [cyd5358](https://github.com/cyd5538)
 - [Lijo Joseph](https://github.com/21lj)
@@ -2838,4 +2844,5 @@ LadegbayeStella)
 [Alistair Huang](https://github.com/shujunH)
 -[Lukas Fischer](https://github.com/Ohboy166)
 [Ben Choo]
+-[Ferdinand] [(https://github.com/isferdinand)]
 - [Felix Jumason](https://github.com/Blackie360)
