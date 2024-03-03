@@ -7,9 +7,11 @@
 -[Ankit Singh](https://github.com/AnkitSin24)
 -[Carolina Avendaño](https://github.com/Carolinaavendanoq)
 Kencham Vinay
+
 -[Daniele Russo](https://github.com/DaniVS) [Linkedin](https://www.linkedin.com/in/daniele-russo-0317a3289/)
 -[Yogeshwar Khurmi](https://github.com/ykverma99)
 -[Azucena Marroquin](https://github.com/azucena-m)
+[ambati harshitha](https://github.com/ambatiharshitha/first-contributions)
 -[Akshat Shukla](https://github.com/Akshat-0001)
 - [Stella Maina](https://github.com/Stella Maina)
 -[Aswin Jose](https://github.com/aswinjose89)
