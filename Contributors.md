@@ -2814,6 +2814,7 @@ LadegbayeStella)
 - [Maximilian Tiao] (https://github.com/maximiliantiao)
 - [RushdaMansuri] (https://github.com/RushdaMansuri)
 - [LoïcFD] (https://github.com/lfd73)
+- [jainil patel](https://github.com/astro215)
 - [GennYoon](https://github.com/GennYoon)
 - [Harish](https://github.com/harishconti)
 -[jasmikDobariya](https://github.com/JasmikDobariya)
@@ -2853,3 +2854,4 @@ LadegbayeStella)
 'Rakesh_J' [https://github.com/blackjackal010]
 - [Felix Jumason](https://github.com/Blackie360)
 -[YuTing Tseng](https://github.com/IsFolk)
+
