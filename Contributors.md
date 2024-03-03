@@ -998,6 +998,7 @@ Romeu Leite
 - [Zack F]
 - [Julian]
 - [Delton Hughes](https://github.com/dHughes97)
+- [Sixtus Agbo](https://github.com/sixtusagbo)
 - [Huzaifa Azim](https://github.com/huzaifaazim0)
 - [Joanna McDonald](https://github.com/joannamcd)
 - [Tianna Lopes](https://github.com/TiannaLopes)
