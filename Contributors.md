@@ -24,6 +24,7 @@ sad# Contributors
 - [Steve Armstrong] (https://github.com/W0474997SteveArmstrong)
 - Iga Meddie
 - Kate Rasheed
+- [s-venom](https://github.com/s-venom)
 - [John Caleb ⚡](https://github.com/thejohncaleb)
 - [Maria Carrera](https://github.com/MarieCourse)
 - [Debapriya sengupta](https://github.com/DebapriyaSengupta28)
