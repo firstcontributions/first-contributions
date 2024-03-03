@@ -196,7 +196,8 @@ Kencham Vinay
 - [Lucas Hogg](https://github.com/lucashogg)
 -[mrdst-code](https://github.com/mrdst-code)
 - [Kedju Precious](https://github.com/Kedjuprecious).
-- [Matt Heeter](https://github.com/mattheeter)
+- [Netta Kaufman] (https://github.com/0NeKa0)
+[Matt Heeter](https://github.com/mattheeter)
 - [salvlan](https://github.com/salvlan)
 - [Anand](https://github.com/anandk3012)
 - [Aiba] (https://github.com/Aibaww)
