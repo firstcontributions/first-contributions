@@ -1,6 +1,7 @@
 # Contributors
 
 -[Asimanye Dudumayo](https://github.com/adudumayo)
+- [David C] (https://github.com): Just relearning Git after a 10 year sabbattical
 - [Arbin Shrestha](https://github.com/arbeen)
 -[Amaka Uchegbu](https://github.com/UCHEHQ)
 -[Ankit Singh](https://github.com/AnkitSin24)
