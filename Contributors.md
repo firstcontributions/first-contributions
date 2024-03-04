@@ -86,6 +86,7 @@ Kencham Vinay
 - [Mohammed Shuhaib]
 -[Barak Rosenfeld]
 -[Gyamposu dodzi](https://github.com/gyamposudodzi) [Linkedin](https://linkedin.com/dodzigyamposu)
+- [Nic Charaud](https://github.com/bla-ce)
 - [Max Albers](https://github.com/malbers-main)
 - [jarifulovi](https://github.com/jarifulovi)
 - Busola Tom [Github](https://github.com/busolatom) [LinkedIn](https://www.linkedin.com/in/busolatom/)
