@@ -31,6 +31,7 @@ Kencham Vinay
 - [Akanksha Maurya](https://github.com/Akanksham12)
 -[Barun Rajak](https://github.com/Barungit)
 -[Gyamposu dodzi](https://github.com/gyamposudodzi)[Linkedin](https://linkedin.com/dodzigyamposu)
+-[Gonzalo Mauricio](https://github.com/gonzalomauricio)
 - [zsunit](https://github.com/zsunit)
 - [AGN907](https://github.com/AGN907)
 - [Neer Amrutia](https://github.com/neeramrutia)
