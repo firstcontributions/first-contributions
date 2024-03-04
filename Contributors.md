@@ -176,6 +176,7 @@ Kencham Vinay
 - [wagger]
 - [phee]
 - [gitFerdo](https://github.com/gitFerdo)
+- Feng Er[1fenger (github.com)](https://github.com/1fenger)
 - [Arturo]
 - [Sivaselvan]
 - [Karan Khatavkar](https://github.com/karankhatavkar)
