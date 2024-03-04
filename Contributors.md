@@ -1,6 +1,7 @@
 # Contributors
 
 -[Asimanye Dudumayo](https://github.com/adudumayo)
+- [Sujas Aggarwal🍔](https://github.com/Sujas-Aggarwal)
 - [David C] (https://github.com): Just relearning Git after a 10 year sabbattical
 - [Arbin Shrestha](https://github.com/arbeen)
 - [Luis Vásquez](hhtps://github.com/vasquezluis) 👻
