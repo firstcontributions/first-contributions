@@ -3,6 +3,7 @@
 -[Asimanye Dudumayo](https://github.com/adudumayo)
 - [David C] (https://github.com): Just relearning Git after a 10 year sabbattical
 - [Arbin Shrestha](https://github.com/arbeen)
+- [Luis Vásquez](hhtps://github.com/vasquezluis) 👻
 -[Amaka Uchegbu](https://github.com/UCHEHQ)
 -[Miguel Antonio Cortés Muñoz](https://github.com/miguel-dev)
 -[Mohammad Reza Akbari 🎧](https://github.com/mra-ak)
