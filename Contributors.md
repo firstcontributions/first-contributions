@@ -1544,6 +1544,7 @@ Romeu Leite
 - [Aditya Kumar](https://github.com/ad1tyaaa)
 - [Gabriele-Dotcom](https://github.com/Gabriele-Dotcom)
 - [Kent Howell](https://github.com/khowellmobile)
+- [Kaan](https://github.com/ksayin)
 - [KonerDev] (https://github.com/KonerDev)
 - [MacMatthew](https://github.com/macmatthew)
 - [Marius Užemeckas](https://github.com/39015745)
