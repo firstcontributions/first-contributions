@@ -12,6 +12,7 @@
 -[Mohammad Reza Akbari 🎧](https://github.com/mra-ak)
 -[Ankit Singh](https://github.com/AnkitSin24)
 -[Carolina Avendaño](https://github.com/Carolinaavendanoq)
+- [YxNiI](https://github.com/YxNiI)
 Kencham Vinay
 -[Joseph Mbuyamba](https://github.com/jnmii)
 -[Gerzson Pszota] (https://github.com/gerzson-pszota)
