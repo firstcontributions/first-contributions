@@ -1,6 +1,7 @@
 # Contributors
 
 -[Asimanye Dudumayo](https://github.com/adudumayo)
+-[Sanja Rogovic](https://github.com/SanjaRogovic)
 -[Sarwat Jabeen](https://github.com/sarwatj)
  [Sujas Aggarwal🍔](https://github.com/Sujas-Aggarwal)
 - [David C] (https://github.com): Just relearning Git after a 10 year sabbattical
