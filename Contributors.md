@@ -25,6 +25,7 @@ Kencham Vinay
 -[Roel Leal] (https://github.com/RoelLeal)
 -[Aswin Jose](https://github.com/aswinjose89)
 -[Moe Sidibeh](https://github.com/kkonteh97)
+-[Alan Winters](https://github.com/winters-ag)
 -[Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
 -[Emad Alriyashi](https://github.com/Dev-Emad-777)
 -[Harsh Methwani](https://github.com/HarshMethwani)
