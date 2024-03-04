@@ -6,6 +6,7 @@
  [Sujas Aggarwal🍔](https://github.com/Sujas-Aggarwal)
 - [David C] (https://github.com): Just relearning Git after a 10 year sabbattical
 - [Arbin Shrestha](https://github.com/arbeen)
+- [Jordan Fable](https://github.com/RimuruWasTaken9)
 - [Luis Vásquez](hhtps://github.com/vasquezluis) 👻
 -[Amaka Uchegbu](https://github.com/UCHEHQ)
 - [Yauhen Yushkevich](https://github.com/eugenyush)
