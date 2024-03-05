@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Samartha D N](https://github.com/SamtheGOC) Come chat w/ me on Discord at [.rizzmaster_]
 -[Asimanye Dudumayo](https://github.com/adudumayo)
@@ -40,6 +40,7 @@ Kencham Vinay
 -[Emad Alriyashi](https://github.com/Dev-Emad-777)
 -[Harsh Methwani](https://github.com/HarshMethwani)
 -[Shaurya Sambyal](https://github.com/ShauryaSambyal)
+-[Anirudh Patil] (https://github.com/Anirudh2112)
 -[Amir Abdullahi](https://github.com/amirabdullahi)
 -[Akilesh Jayakumar](https://github.com/akileshjayakumar) [LinkedIn](https://www.linkedin.com/in/akileshjayakumar/) 
 -[Comfort Prince](https://github.com/comfortprince)
@@ -1824,7 +1825,7 @@ Alexander
 - [Dreyfi](https://github.com/Dreyfi)
 - [CosmaPop](https://github.com/CosmaPOP)
 - [Shiva S](https://github.com/shiva-s30)
-- [Muhammad Zidan Fatonie](https://github.com/mzf11125)👋
+- [Muhammad Zidan Fatonie](https://github.com/mzf11125)??
 - [Vishnu Kumar V](https://github.com/vichustephen)
 - [Batuhan Karakaya](https://github.com/batuhannnkarakaya)
 - [sindhu1237] (https://github.com/sindhu1237)
