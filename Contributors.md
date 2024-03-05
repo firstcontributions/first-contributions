@@ -20,6 +20,7 @@
 -[Mohammad Reza Akbari 🎧](https://github.com/mra-ak)
 -[Ankit Singh](https://github.com/AnkitSin24)
 -[Carolina Avendaño](https://github.com/Carolinaavendanoq)
+- [Giovane Aguiar](https://github.com/giovane-aG)
 - [YxNiI](https://github.com/YxNiI)
 Kencham Vinay
 -[Maria Sui](https://github.com/msui51)
