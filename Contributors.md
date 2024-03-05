@@ -74,6 +74,7 @@ Kencham Vinay
 - [Suchana Singh] (https://github.com/suchana06)
 - [Souaprna Roy](https://github.com/souparna-roy)
 - [Bhuvanesh Prasad](https://github.com/bhuvaneshprasad)
+- [Westin Smiley](https://github.com/WSmiley-void)
 -[Laxman P](https://github.com/laxmanp090404)
 -[Oleksandr Nedzelnytskyi](https://github.com/Sasha2511)
 -[Krunal Patel](https://github.com/kd05)
