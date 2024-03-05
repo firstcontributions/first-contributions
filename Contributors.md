@@ -2021,6 +2021,7 @@ Alexander
 - [shinpy](https://github.com/shinyshinpy)
 - [Andres Hernandez](https://github.com/andresFHM)
 - [Arbenis Acosta](https://github.com/ArbenisAcosta)
+- [Qi Li](https://github.com/ordinarylq)
 - [Aman Path](https://github.com/AmanPathan)
 - [Nitin Vendidandi](https://github.com/Learningcomputers777)
 - [Ruben Maidaniuc](https://github.com/rubanyukm)
