@@ -75,6 +75,7 @@ Kencham Vinay
 -[Krunal Patel](https://github.com/kd05)
 -[Samuel Huanosto Jr](https://github.com/SoftwareSam29)
 - [Zsolt Varjú](https://github.com/zsoolti8917)
+- [Losalini Rokocakau](https://github.com/chelmerrox)
 - [Anjali Lalwani](https://github.com/AnjaliLalwaniGit)
 - [Vivek Pandey](https://github.com/vickypandey14)
 - [Nitish Singh](https://github.com/developmentMasters1)
