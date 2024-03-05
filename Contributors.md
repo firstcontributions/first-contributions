@@ -23,6 +23,7 @@
 - [Giovane Aguiar](https://github.com/giovane-aG)
 - [YxNiI](https://github.com/YxNiI)
 Kencham Vinay
+-[Anikhet Mulky](https://github.com/Anikhet)
 -[Maria Sui](https://github.com/msui51)
 -[Gerald Calotes](https://github.com/geraldcalotes)
 -[Joseph Mbuyamba](https://github.com/jnmii)
