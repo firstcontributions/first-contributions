@@ -2623,6 +2623,7 @@ LadegbayeStella)
 - [KAYO-devhub](https://github.com/KAYO-devhub)
 - [Jack Morris] (https://github.com/JackMorris489)
 - [infhyroyage](https://github.com/infhyroyage)
+- [tabaite](https://github.com/tabaite) - first (of hopefully many) open-source contributions!
 - [AmmmBM] (https://github.com/abm312)
 - [JuanJefry23](https://github.com/JuanJefry23)
 - [CodeTerraYT](https://github.com/codeterrayt)
