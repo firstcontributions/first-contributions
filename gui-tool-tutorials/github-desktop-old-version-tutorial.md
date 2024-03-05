@@ -100,6 +100,7 @@ Celebrate your contribution and share it with your friends and followers by goin
 
 You could join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
+## This is a new comment
 
 ### [Additional material](../additional-material/git_workflow_senarios/additional-material.md)
 
