@@ -486,6 +486,7 @@ something...changed
 - [Alex White](https://github.com/alexwhite116)
 - [Kevin Zucca](https://github.com/KevinZucca)
 - [Deepak](https://github.com/deepakbytebard)
+- [Aryan](https://github.com/devnumber7)
 - [Joseph Kharzo](https://github.com/Kharzo)
 - [Cezar Ganzon](https://github.com/cganzon)
 - [Enem Barjo](https://github.com/NM003)
