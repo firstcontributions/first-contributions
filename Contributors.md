@@ -1,5 +1,6 @@
 # Contributors
 
+- [Maxime de Montbron](https://github.com/mijnog/) Just learning how to code
 - [Samartha D N](https://github.com/SamtheGOC) Come chat w/ me on Discord at [.rizzmaster_]
 -[Asimanye Dudumayo](https://github.com/adudumayo)
 -[Sanja Rogovic](https://github.com/SanjaRogovic)
