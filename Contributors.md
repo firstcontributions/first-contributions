@@ -183,6 +183,7 @@ Kencham Vinay
 - [waltofalltrades]
 - [wagger]
 - [phee]
+- SHUBHAM SINGH
 - [gitFerdo](https://github.com/gitFerdo)
 - Feng Er[1fenger (github.com)](https://github.com/1fenger)
 - [Arturo]
