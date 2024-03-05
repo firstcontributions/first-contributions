@@ -12,6 +12,7 @@
 -[Amaka Uchegbu](https://github.com/UCHEHQ)
 - [Wah Vanessa](https://github.com/Vanessa082)
 - [Yauhen Yushkevich](https://github.com/eugenyush)
+- [Elly Oyugi](hhttps://github.com/eoyugi)
 -[Miguel Antonio Cortés Muñoz](https://github.com/miguel-dev)
 -[Mohammad Reza Akbari 🎧](https://github.com/mra-ak)
 -[Ankit Singh](https://github.com/AnkitSin24)
