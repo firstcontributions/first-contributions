@@ -4,7 +4,7 @@
 -[Sanja Rogovic](https://github.com/SanjaRogovic)
 -[Sarwat Jabeen](https://github.com/sarwatj)
  [Sujas Aggarwal🍔](https://github.com/Sujas-Aggarwal)
-- [Jazer Salazar](https://github.com/jazersalazar/) [LinkedIn](linkedin.com/in/jazersalazar/)
+- [Jazer Salazar](https://github.com/jazersalazar/) [LinkedIn](https://linkedin.com/in/jazersalazar/)
 - [David C] (https://github.com): Just relearning Git after a 10 year sabbattical
 - [Arbin Shrestha](https://github.com/arbeen)
 - [Jordan Fable](https://github.com/RimuruWasTaken9)
