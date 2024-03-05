@@ -27,6 +27,7 @@ Kencham Vinay
 -[Daniele Russo](https://github.com/DaniVS) [Linkedin](https://www.linkedin.com/in/daniele-russo-0317a3289/)
 -[Yogeshwar Khurmi](https://github.com/ykverma99)
 -[Azucena Marroquin](https://github.com/azucena-m)
+-[Juan Cruz Francitorra](https://github.com/Jufaa)
 -[Akshat Shukla](https://github.com/Akshat-0001)
 - [Stella Maina](https://github.com/Stella Maina)
 -[Roel Leal] (https://github.com/RoelLeal)
