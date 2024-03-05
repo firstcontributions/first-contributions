@@ -10,6 +10,7 @@
 - [Luis Vásquez](hhtps://github.com/vasquezluis) 👻
 -[Amaka Uchegbu](https://github.com/UCHEHQ)
 - [Yauhen Yushkevich](https://github.com/eugenyush)
+- [Elly Oyugi](hhttps://github.com/eoyugi)
 -[Miguel Antonio Cortés Muñoz](https://github.com/miguel-dev)
 -[Mohammad Reza Akbari 🎧](https://github.com/mra-ak)
 -[Ankit Singh](https://github.com/AnkitSin24)
