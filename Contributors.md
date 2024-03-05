@@ -121,6 +121,7 @@ Kencham Vinay
 - [Amanda Downie](https://github.com/aninymous412)
 - [Muhammad Sajeedul Haque](https://github.com/Sajeed7804)
 - [Ptitet](https://github.com/Ptitet)
+-Jake Bersani
   [Gelu Guta](https://github.com/ggelu) [LinkedIn](https://www.linkedin.com/in/gelu-guta-635bb9233/)
 - [Fernando Maia](https://github.com/fcmaya)
 - [Moosa Thathrampalli] (https://github.com/moosatp2/) [LinkedIn](https://www.linkedin.com/in/moosa-thathrampalli-64a27952/)
