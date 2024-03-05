@@ -55,6 +55,7 @@ Kencham Vinay
 - [zsunit](https://github.com/zsunit)
 - [AGN907](https://github.com/AGN907)
 - [Neer Amrutia](https://github.com/neeramrutia)
+-[Kanchan Shirke](https://github.com/kanchan78)
 - [Szymon Gałązka](https://github.com/SzymonGalazka)
 - [Darshan Gaikwad 🔱](https://github.com/darshangaikwad4114)
 - [JAGNATH SHANKER](https://github.com/jagnathshanker)
