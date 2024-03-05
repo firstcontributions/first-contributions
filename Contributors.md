@@ -9,6 +9,7 @@
 - [David C] (https://github.com): Just relearning Git after a 10 year sabbattical
 - [Arbin Shrestha](https://github.com/arbeen)
 - [Jordan Fable](https://github.com/RimuruWasTaken9)
+- [Adam Honvedo](https://github.com/Homvi)
 - [Luis Vásquez](hhtps://github.com/vasquezluis) 👻
 - [Dwvwdv](https://github.com/dwvwdv)  
 -[Amaka Uchegbu](https://github.com/UCHEHQ)
