@@ -11,7 +11,8 @@
 - [David C] (https://github.com): Just relearning Git after a 10 year sabbattical
 - [Arbin Shrestha](https://github.com/arbeen)
 - [Jordan Fable](https://github.com/RimuruWasTaken9)
-- [Adam Honvedo](https://github.com/Homvi)
+- [Fatemeh Salehi](https://github.com/fnysalehi)
+ [Adam Honvedo](https://github.com/Homvi)
 - [Blake Hill](https://github.com/Blake-Hill)<3
 - [Luis Vásquez](hhtps://github.com/vasquezluis) 👻
 - [Dwvwdv](https://github.com/dwvwdv)  
