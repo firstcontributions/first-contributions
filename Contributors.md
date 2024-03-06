@@ -8,13 +8,13 @@
  [Sujas Aggarwal🍔](https://github.com/Sujas-Aggarwal)
 - [Jazer Salazar](https://github.com/jazersalazar/) [LinkedIn](linkedin.com/in/jazersalazar/)
 - [David C] (https://github.com): Just relearning Git after a 10 year sabbattical
+- [Kishaiyan Thangaraj](https://github.com/kishaiyan)
 - [Arbin Shrestha](https://github.com/arbeen)
 - [Jordan Fable](https://github.com/RimuruWasTaken9)
 - [Adam Honvedo](https://github.com/Homvi)
 - [Blake Hill](https://github.com/Blake-Hill)<3
 - [Luis Vásquez](hhtps://github.com/vasquezluis) 👻
 - [Dwvwdv](https://github.com/dwvwdv)  
--[Kishaiyan Thangaraj](https://github.com/kishaiyan)
 -[Amaka Uchegbu](https://github.com/UCHEHQ)
 - [Wah Vanessa](https://github.com/Vanessa082)
 - [Yauhen Yushkevich](https://github.com/eugenyush)
