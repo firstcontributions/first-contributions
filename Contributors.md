@@ -1,8 +1,8 @@
 happy# Contributors
 
-- [John L](https://github.com/john89521)
--[SahiL](https://github.com/SahiLmb)
--[Ankrick](https://github.com/Ankrick)
+- [John L](https://github.com/john89521)  
+-[SahiL](https://github.com/SahiLmb)  
+-[Ankrick](https://github.com/Ankrick)  
 - [jarifulovi](https://github.com/jarifulovi)
 - [kalpesh-d](https://github.com/kalpesh-d)
 - [Amila999](https://github.com/Amila999)
