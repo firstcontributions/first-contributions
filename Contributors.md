@@ -2,7 +2,7 @@
 
 - [Maxime de Montbron](https://github.com/mijnog/) Just learning how to code
 - [Samartha D N](https://github.com/SamtheGOC) Come chat w/ me on Discord at [.rizzmaster_]
--[Asimanye Dudumayo](https://github.com/adudumayo)
+-[Asimanye Dudumayo](https://github.com/adudumayo) 
 -[Sanja Rogovic](https://github.com/SanjaRogovic)
 -[Sarwat Jabeen](https://github.com/sarwatj)
  [Sujas Aggarwal🍔](https://github.com/Sujas-Aggarwal)
@@ -13,6 +13,7 @@
 - [Adam Honvedo](https://github.com/Homvi)
 - [Blake Hill](https://github.com/Blake-Hill)<3
 - [Luis Vásquez](hhtps://github.com/vasquezluis) 👻
+-[Simeon Iyoha](https://github.com/s1m3on) [Linkedin](https://www.linkedin.com/in/simeon-iyoha)
 - [Dwvwdv](https://github.com/dwvwdv)  
 -[Amaka Uchegbu](https://github.com/UCHEHQ)
 - [Wah Vanessa](https://github.com/Vanessa082)
