@@ -10,6 +10,7 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
 -[Sarwat Jabeen](https://github.com/sarwatj)
  [Sujas Aggarwal🍔](https://github.com/Sujas-Aggarwal)
 - [Jazer Salazar](https://github.com/jazersalazar/) [LinkedIn](linkedin.com/in/jazersalazar/)
+- [João Azevedo](https://github.com/azevedo-joao)
 - [David C] (https://github.com): Just relearning Git after a 10 year sabbattical
 - [Arbin Shrestha](https://github.com/arbeen)
 - [Jordan Fable](https://github.com/RimuruWasTaken9)
