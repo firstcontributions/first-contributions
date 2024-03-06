@@ -64,6 +64,8 @@ Kencham Vinay
 -[Kanchan Shirke](https://github.com/kanchan78)
 - [Szymon Gałązka](https://github.com/SzymonGalazka)
 - [Darshan Gaikwad 🔱](https://github.com/darshangaikwad4114)
+- [Philip John](https://github.com/jpngeta)
+- [Ngeta John](https://github.com/jpngeta)
 - [JAGNATH SHANKER](https://github.com/jagnathshanker)
 - [Laurence Cook](https://github.com/07cookl)
 - [Nikola - nicywi](https://github.com/nicywi)
