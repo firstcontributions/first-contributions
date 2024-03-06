@@ -14,6 +14,7 @@
 - [Fatemeh Salehi](https://github.com/fnysalehi)
  [Adam Honvedo](https://github.com/Homvi)
 - [Blake Hill](https://github.com/Blake-Hill)<3
+- [hovhannisyangevorg](https://github.com/hovhannisyangevorg)
 - [Luis Vásquez](hhtps://github.com/vasquezluis) 👻
 - [Dwvwdv](https://github.com/dwvwdv)  
 -[Amaka Uchegbu](https://github.com/UCHEHQ)
