@@ -2,8 +2,8 @@
 
 - [Maxime de Montbron](https://github.com/mijnog/) Just learning how to code
 - [Samartha D N](https://github.com/SamtheGOC) Come chat w/ me on Discord at [.rizzmaster_]
--[Hilal Semercioğlu](https://github.com/elinoza)
--[Deneme 2]
+- [Hilal Semercioğlu](https://github.com/elinoza)
+- [Deneme 2]
 -[Asimanye Dudumayo](https://github.com/adudumayo)
 -[Sanja Rogovic](https://github.com/SanjaRogovic)
 -[Sarwat Jabeen](https://github.com/sarwatj)
