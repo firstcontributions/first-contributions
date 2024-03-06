@@ -64,6 +64,7 @@ Kencham Vinay
 -[Ferdinand] [(https://github.com/isferdinand)]
 - [Akanksha Maurya](https://github.com/Akanksham12)
 -[Barun Rajak](https://github.com/Barungit)
+[Mane Av](HTTPS://github.com/maneav78)
 -[Gyamposu dodzi](https://github.com/gyamposudodzi)[Linkedin](https://linkedin.com/dodzigyamposu)
 -[Gonzalo Mauricio](https://github.com/gonzalomauricio)
 - [zsunit](https://github.com/zsunit)
