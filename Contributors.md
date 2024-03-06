@@ -1,8 +1,7 @@
 # Contributors
-
+- [Edgar Budaghyan](https://github.com/Budaghyan)
 - [Maxime de Montbron](https://github.com/mijnog/) Just learning how to code
 - [Samartha D N](https://github.com/SamtheGOC) Come chat w/ me on Discord at [.rizzmaster_]
-- [Edgar Budaghyan](https://github.com/Budaghyan)
 -[Hilal Semercioğlu](https://github.com/elinoza)
 -[Asimanye Dudumayo](https://github.com/adudumayo)
 -[Sanja Rogovic](https://github.com/SanjaRogovic)
