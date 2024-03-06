@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Carson Evans](https://github.com/carson-evans) [LinkedIn](https://linkedin.com/in/carson-evans42)
 - [Edgar Budaghyan](https://github.com/Budaghyan)
@@ -2592,6 +2592,7 @@ LadegbayeStella)
 - [Bassem Gehad](https://github.com/Bassem272)
 - NeutronBlues
 - Oti Ioana
+- [Aram Davtyan](https://github.com/Aramazd05)
 - [Pedro Mota](https://github.com/pedromorini)
 - [Vivesh G](https://github.com/Vivesh-G)
 - [ER. RE](https://github.com/ermix3)
