@@ -30,6 +30,7 @@
 - [Giovane Aguiar](https://github.com/giovane-aG)
 - [YxNiI](https://github.com/YxNiI)
 Kencham Vinay
+[Ani Nalbandyan](https://github.com/AniNalbandyan6)
 -[Anikhet Mulky](https://github.com/Anikhet)
 -[Maria Sui](https://github.com/msui51)
 -[Gerald Calotes](https://github.com/geraldcalotes)
