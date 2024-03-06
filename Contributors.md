@@ -18,6 +18,7 @@
 - [Dwvwdv](https://github.com/dwvwdv)  
 -[Amaka Uchegbu](https://github.com/UCHEHQ)
 - [Wah Vanessa](https://github.com/Vanessa082)
+-[Av Mane](https://github.com/maneav78)
 - [Yauhen Yushkevich](https://github.com/eugenyush)
 - [Maxwell Bruce](https://github.com/MWBruce)
 - [Yodit Abebe] (https://github.com/yodit93)
