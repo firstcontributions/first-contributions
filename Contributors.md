@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Maxime de Montbron](https://github.com/mijnog/) Just learning how to code
 - [Samartha D N](https://github.com/SamtheGOC) Come chat w/ me on Discord at [.rizzmaster_]
@@ -2583,6 +2583,7 @@ LadegbayeStella)
 - [Bassem Gehad](https://github.com/Bassem272)
 - NeutronBlues
 - Oti Ioana
+- [Aram Davtyan](https://github.com/Aramazd05)
 - [Pedro Mota](https://github.com/pedromorini)
 - [Vivesh G](https://github.com/Vivesh-G)
 - [ER. RE](https://github.com/ermix3)
