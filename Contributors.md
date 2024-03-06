@@ -1,6 +1,8 @@
 # Contributors
 
+
 - [Carson Evans](https://github.com/carson-evans) [LinkedIn](https://linkedin.com/in/carson-evans42)
+- [Edgar Budaghyan](https://github.com/Budaghyan)
 - [Maxime de Montbron](https://github.com/mijnog/) Just learning how to code
 - [Samartha D N](https://github.com/SamtheGOC) Come chat w/ me on Discord @ .rizzmaster_
 - [Hilal Semercioğlu](https://github.com/elinoza)
@@ -29,6 +31,11 @@
 - [Mohammad Reza Akbari 🎧](https://github.com/mra-ak)
 - [Ankit Singh](https://github.com/AnkitSin24)
 - [Carolina Avendaño](https://github.com/Carolinaavendanoq)
+-[Miguel Antonio Cortés Muñoz](https://github.com/miguel-dev)
+-[Mohammad Reza Akbari 🎧](https://github.com/mra-ak)
+-[Juli Sahakyan](https://github.com/juliasahakyan)
+-[Ankit Singh](https://github.com/AnkitSin24)
+-[Carolina Avendaño](https://github.com/Carolinaavendanoq)
 - [Giovane Aguiar](https://github.com/giovane-aG)
 - [YxNiI](https://github.com/YxNiI)
 - Kencham Vinay
@@ -59,6 +66,32 @@
 - [Dileep Kumar D](https://github.com/Dileep-kumar-D)
 - [tasosbeast](https://github.com/tasosbeast)
 - [Ferdinand] [(https://github.com/isferdinand)]
+-[Maria Sui](https://github.com/msui51)
+[Ani Nalbandyan](https://github.com/AniNalbandyan6)
+-[Gerald Calotes](https://github.com/geraldcalotes)
+-[Joseph Mbuyamba](https://github.com/jnmii)
+-[Gerzson Pszota] (https://github.com/gerzson-pszota)
+-[Daniele Russo](https://github.com/DaniVS) [Linkedin](https://www.linkedin.com/in/daniele-russo-0317a3289/)
+-[Yogeshwar Khurmi](https://github.com/ykverma99)
+-[Azucena Marroquin](https://github.com/azucena-m)
+-[Juan Cruz Francitorra](https://github.com/Jufaa)
+-[Akshat Shukla](https://github.com/Akshat-0001)
+- [Stella Maina](https://github.com/Stella Maina)
+-[Roel Leal] (https://github.com/RoelLeal)
+-[Aswin Jose](https://github.com/aswinjose89)
+-[Moe Sidibeh](https://github.com/kkonteh97)
+-[Alan Winters](https://github.com/winters-ag)
+-[Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
+-[Emad Alriyashi](https://github.com/Dev-Emad-777)
+-[Harsh Methwani](https://github.com/HarshMethwani)
+-[Shaurya Sambyal](https://github.com/ShauryaSambyal)
+-[Amir Abdullahi](https://github.com/amirabdullahi)
+-[Akilesh Jayakumar](https://github.com/akileshjayakumar) [LinkedIn](https://www.linkedin.com/in/akileshjayakumar/) 
+-[Comfort Prince](https://github.com/comfortprince)
+-[rukmaniVijay](https://github.com/rukmanivijay)
+-[Dileep Kumar D](https://github.com/Dileep-kumar-D)
+-[tasosbeast](https://github.com/tasosbeast)
+-[Ferdinand] [(https://github.com/isferdinand)]
 - [Akanksha Maurya](https://github.com/Akanksham12)
 - [Barun Rajak](https://github.com/Barungit)
 - [Gyamposu dodzi](https://github.com/gyamposudodzi)[Linkedin](https://linkedin.com/dodzigyamposu)
