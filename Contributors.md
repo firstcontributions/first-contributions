@@ -15,6 +15,7 @@
 - [Fatemeh Salehi](https://github.com/fnysalehi)
  [Adam Honvedo](https://github.com/Homvi)
 - [Blake Hill](https://github.com/Blake-Hill)<3
+- [hovhannisyangevorg](https://github.com/hovhannisyangevorg)
 - [Luis Vásquez](hhtps://github.com/vasquezluis) 👻
 - [Dwvwdv](https://github.com/dwvwdv)  
 -[Amaka Uchegbu](https://github.com/UCHEHQ)
@@ -2926,6 +2927,7 @@ LadegbayeStella)
 - [AdamZaBD] (https://github.com/AdamZabd)
 -[YuTing Tseng](https://github.com/IsFolk)
 - [Răzvan-Mihai Hanghicel](https://github.com/alien1403)
+- [Shushan Harutyunyan](https://github.com/shushan-harutyunyan)
 - [Hokaloh](https://github.com/hokaloh)
 - [Brandon Russell](https://github.com/Brandon-Russell-1)
 - [Jacob Robinson](https://github.com/jrobinson0430)
@@ -2938,3 +2940,5 @@ LadegbayeStella)
 -[Maquitous](https://github.com/ZephyrJRay)
 -[Ismael Moreira](https://github.com/Ismael-Moreira-Kt)
 - [Timur Urunbaev](https://github.com/GeeK1224)
+- [Narek Babayan](https://github.com/Narek97)
+
