@@ -3,7 +3,7 @@
 - [Edgar Budaghyan](https://github.com/Budaghyan)
 - [Maxime de Montbron](https://github.com/mijnog/) Just learning how to code
 - [Samartha D N](https://github.com/SamtheGOC) Come chat w/ me on Discord at [.rizzmaster_]
--[Hilal Semercioğlu](https://github.com/elinoza)
+i-[Hilal Semercioğlu](https://github.com/elinoza)
 -[Asimanye Dudumayo](https://github.com/adudumayo)
 -[Sanja Rogovic](https://github.com/SanjaRogovic)
 -[Sarwat Jabeen](https://github.com/sarwatj)
@@ -13,8 +13,10 @@
 - [Arbin Shrestha](https://github.com/arbeen)
 - [Jordan Fable](https://github.com/RimuruWasTaken9)
 - [Fatemeh Salehi](https://github.com/fnysalehi)
+- [Narek](https://github.com/Naki1995/first-contributions)
  [Adam Honvedo](https://github.com/Homvi)
 - [Blake Hill](https://github.com/Blake-Hill)<3
+- [hovhannisyangevorg](https://github.com/hovhannisyangevorg)
 - [Luis Vásquez](hhtps://github.com/vasquezluis) 👻
 - [Dwvwdv](https://github.com/dwvwdv)  
 -[Amaka Uchegbu](https://github.com/UCHEHQ)
@@ -31,6 +33,7 @@
 - [YxNiI](https://github.com/YxNiI)
 Kencham Vinay
 -[Anikhet Mulky](https://github.com/Anikhet)
+-[DavidOhanyan](https://github.com/DavidOhanyan)
 -[Maria Sui](https://github.com/msui51)
 -[Gerald Calotes](https://github.com/geraldcalotes)
 -[Joseph Mbuyamba](https://github.com/jnmii)
@@ -2926,6 +2929,7 @@ LadegbayeStella)
 - [AdamZaBD] (https://github.com/AdamZabd)
 -[YuTing Tseng](https://github.com/IsFolk)
 - [Răzvan-Mihai Hanghicel](https://github.com/alien1403)
+- [Shushan Harutyunyan](https://github.com/shushan-harutyunyan)
 - [Hokaloh](https://github.com/hokaloh)
 - [Brandon Russell](https://github.com/Brandon-Russell-1)
 - [Jacob Robinson](https://github.com/jrobinson0430)
