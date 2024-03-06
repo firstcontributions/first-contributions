@@ -1,6 +1,6 @@
 ﻿# Contributors
 
-- [Carson Evans](https://github.com/carson-evans) [LinkedIn](https://linkedin.com/in/carson-evans42)
+- [Carson Evans](https://github.com/carson-evans) Let's Connect! [LinkedIn](https://linkedin.com/in/carson-evans42)
 - [Edgar Budaghyan](https://github.com/Budaghyan)
 - [Maxime de Montbron](https://github.com/mijnog/) Just learning how to code
 - [Samartha D N](https://github.com/SamtheGOC) Come chat w/ me on Discord at [.rizzmaster_]
