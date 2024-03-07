@@ -1,5 +1,5 @@
 ﻿# Contributors
-- [Avinash Verma](https://github.com/nkvavinash)
+- [Avinash Verma](https://github.com/nkvavinash) [linkedin.com/in/avinash-verma-0785b3a3]
 - [Carson Evans](https://github.com/carson-evans) [LinkedIn](https://linkedin.com/in/carson-evans42)
 - [Edgar Budaghyan](https://github.com/Budaghyan)
 - [Maxime de Montbron](https://github.com/mijnog/) Just learning how to code
