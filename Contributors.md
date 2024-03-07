@@ -2045,6 +2045,7 @@ Alexander
 - [Justice Etorko-Gbeku](https://github.com/KorkuTegbe)
 - [oihv](https://github.com/oihv)
 - [Christian Vazquez] (https://github.com/0xQuez)
+- [Nhypocrite](https://github.com/NHypocrite)
 - [Marco Barbieri](https://github.com/marcobarb00)
 - [Ruben Lien](https://github.com/RubenLien)
 - [Khaliq Ansari](https://github.com/thekhaliqansari)
