@@ -2978,3 +2978,5 @@ LadegbayeStella)
 - [Yang Jinwook](https://github.com/overseeas)
 - [nexbelgium](https://github.com/nexbelgium)
 - [Shantanu Dutta](https://github.com/nlern)
+- [Diego Reynoso](https://github.com/DReynoso12) woow esto es muy interesante!
+- 
