@@ -646,6 +646,7 @@ something...changed
 - [snowman95] (https://github.com/snowman95)
 - [SinaJaha] (https://github.com/SinaJaha)
 - [SantoshMorla] (https://github.com/SantoshMorla)
+- [SebastianRad] (https://github.com/RadSebastian)
 - [ErtugrulAktepe] (https://github.com/ertugrulaktepe)
 - [EtiGotliv] (https://github.com/EtiGotliv)
 - [InterceptorTT] (https://github.com/InterceptorTT)
