@@ -674,6 +674,7 @@ something...changed
 - [TsvetislavRangelov] (https://github.com/TsvetislavRangelov)
 - [Tsafac Nkombong Regine Cyrille] (https://github.com/Regine12)
 - [Michael Gabriel](https://github.com/maranatha443)
+- [ITSMijaiL](https://github.com/ITSMijaiL)
 - [Mwofoh-Adriel](https://github.com/Mwofoh-Adriel)
 - [Eddgar Rojas](https://github.com/Eddgar0)
 - [Shagun Sharma](https://github.com/shagunsharma6677)
