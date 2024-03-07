@@ -137,6 +137,7 @@ Kencham Vinay
 - [Dzyanino Doneli](https://github.com/Dzyanino)
 - [Vara Rahul Rajana](https://github.com/rajanarahul93)
 - [Karan Chrish](https://github.com/Karanchrish)
+- [Vidya pentapati]
 - [Mohammed Shuhaib]
 -[Barak Rosenfeld]
 -[Gyamposu dodzi](https://github.com/gyamposudodzi) [Linkedin](https://linkedin.com/dodzigyamposu)
