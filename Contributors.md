@@ -2855,6 +2855,7 @@ LadegbayeStella)
 - [Ahmed Bentabet](https://github.com/ahmedbentabet)
 - [Qizhao Chen](https://github.com/kx412764776)
 - [Ronald Chan](https://github.com/ronaldchanhk)
+- [Cristian Jitca](https://github.com/CristianJitca)
 - [Luke Hardy]
 - [Aviv Barak]
 - [Kaitlyn](https://github.com/kbrandt8)
