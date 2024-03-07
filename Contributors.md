@@ -1496,6 +1496,7 @@ Romeu Leite
 - [Ling Xiao](https://github.com/lingxiao14122)
 - [Pongking](https://github.com/Pongking)
 - [Sravan K Suresh](https://github.com/SRAVAN-IITB)
+- [Zelimir Stojcevic](https://github.com/ZelimirS)
 - [Victor Maia](https://github.com/victooooor)
 - [Haneen](https://github.com/han1py)
 - [nick-nugat](https://github.com/nick-nugat)
