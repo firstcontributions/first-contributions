@@ -72,6 +72,7 @@ Kencham Vinay
 -[Gyamposu dodzi](https://github.com/gyamposudodzi)[Linkedin](https://linkedin.com/dodzigyamposu)
 -[Gonzalo Mauricio](https://github.com/gonzalomauricio)
 - [zsunit](https://github.com/zsunit)
+- [Nick Njagi](https://github.com/nicknjagi)
 - [AGN907](https://github.com/AGN907)
 - [Neer Amrutia](https://github.com/neeramrutia)
 -[Kanchan Shirke](https://github.com/kanchan78)
