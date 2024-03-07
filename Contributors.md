@@ -242,6 +242,7 @@ Kencham Vinay
 - [Jay CP](https://github.com/jaycp30) 
 - [Jesus Fernando Torres](https://github.com/JFerchoTorres)
 - [Jose Luna](https://github.com/jlunabacilio)
+- [Marcelo Elias Simon](https://github.com/mSimon12)
 - [Natik Aggarwal](https://github.com/natikaggarwal/)
 - [Vansh]
 - [Magali2000] (https://github.com/magali2000)
