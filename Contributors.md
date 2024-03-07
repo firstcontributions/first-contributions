@@ -3,6 +3,7 @@
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
 - [Carson Evans](https://github.com/carson-evans) [LinkedIn](https://linkedin.com/in/carson-evans42)
 - [Edgar Budaghyan](https://github.com/Budaghyan)
+- [chux] (https://github.com/codechux)
 - [Maxime de Montbron](https://github.com/mijnog/) Just learning how to code
 - [Samartha D N](https://github.com/SamtheGOC) Come chat w/ me on Discord at [.rizzmaster_]
 i-[Hilal Semercioğlu](https://github.com/elinoza)
