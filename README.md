@@ -95,13 +95,16 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 ## Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+This will create a copy of this repository in your account.<br><br>
+Fork: Forking a repository on GitHub creates a separate copy of the repository under your GitHub account, allowing you to make changes independently.
+
 
 ## Clone the repository
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
+Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.<br>
+Clone: Clone means  to make a copy of a repository from one location to another. This process creates a local copy of the entire repository, including all files, commit history, and branches.
 
 Open a terminal and run the following git command:
 
@@ -161,7 +164,9 @@ Now commit those changes using the `git commit` command:
 git commit -m "Add your-name to Contributors list"
 ```
 
-replacing `your-name` with your name.
+replacing `your-name` with your name.<br><br>
+Commit: Commit refers to the act of recording changes to a repository.
+
 
 ## Push changes to GitHub
 
@@ -171,7 +176,8 @@ Push your changes using the command `git push`:
 git push -u origin your-branch-name
 ```
 
-replacing `your-branch-name` with the name of the branch you created earlier.
+replacing `your-branch-name` with the name of the branch you created earlier.<br>
+Push: Push refers to the act of sending committed changes from your local repository to a remote repository.
 
 <details>
 <summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
