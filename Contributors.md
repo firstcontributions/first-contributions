@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+- [Avinash Verma](https://github.com/nkvavinash)
 - [Carson Evans](https://github.com/carson-evans) [LinkedIn](https://linkedin.com/in/carson-evans42)
 - [Edgar Budaghyan](https://github.com/Budaghyan)
 - [Maxime de Montbron](https://github.com/mijnog/) Just learning how to code
@@ -16,7 +16,7 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
 - [Arbin Shrestha](https://github.com/arbeen)
 - [Jordan Fable](https://github.com/RimuruWasTaken9)
 - [Fatemeh Salehi](https://github.com/fnysalehi)
--[Avinash verma](https://github.com/nkvavinash)
+
 - [Narek](https://github.com/Naki1995/first-contributions)
  [Adam Honvedo](https://github.com/Homvi)
 - [Blake Hill](https://github.com/Blake-Hill)<3
