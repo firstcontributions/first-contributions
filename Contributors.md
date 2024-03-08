@@ -3,11 +3,13 @@
 - [Ogo Nelson](https://github.com/OgoNelson) [Twitter](https://www.twitter.com/ogo_nelson)
 JiyinShao
 - [Rudi Bakaal](https://github.com/rudibakaal)
-- [Jay Gaha](https://github.com/jaygaha) First contribution 🦾
+- [Jay Gaha](https://github.com/jaygaha) First contribution
+
 - [Shota Totsuka](https://github.com/ShotaTotsuka)
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
 - [Carson Evans](https://github.com/carson-evans) [LinkedIn](https://linkedin.com/in/carson-evans42)
 - [Mohit Kumhar](https://github.com/mohitkumhar) [LinkedIn](www.linkedin.com/in/mohitkumhar)
+- [Erick Mafra](https://github.com/Erick-Mafra/)
 - [Edgar Budaghyan](https://github.com/Budaghyan)
 - [chux] (https://github.com/codechux)
 - [MPC] (https://github.com/Myat-00)
