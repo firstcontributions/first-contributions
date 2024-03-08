@@ -1,12 +1,16 @@
 ﻿# Contributors
 
 - [Ogo Nelson](https://github.com/OgoNelson) [Twitter](https://www.twitter.com/ogo_nelson)
+JiyinShao
+- [Rudi Bakaal](https://github.com/rudibakaal)
+- [Jay Gaha](https://github.com/jaygaha) First contribution 🦾
 - [Shota Totsuka](https://github.com/ShotaTotsuka)
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
 - [Carson Evans](https://github.com/carson-evans) [LinkedIn](https://linkedin.com/in/carson-evans42)
 - [Mohit Kumhar](https://github.com/mohitkumhar) [LinkedIn](www.linkedin.com/in/mohitkumhar)
 - [Edgar Budaghyan](https://github.com/Budaghyan)
 - [chux] (https://github.com/codechux)
+- [MPC] (https://github.com/Myat-00)
 - [Maxime de Montbron](https://github.com/mijnog/) Just learning how to code
 - [Samartha D N](https://github.com/SamtheGOC) Come chat w/ me on Discord at [.rizzmaster_]
 i-[Hilal Semercioğlu](https://github.com/elinoza)
@@ -14,11 +18,13 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
 -[Sanja Rogovic](https://github.com/SanjaRogovic)
 -[Sarwat Jabeen](https://github.com/sarwatj)
  [Sujas Aggarwal🍔](https://github.com/Sujas-Aggarwal)
+-[Cynthia Aoko](https://github.com/aoko-code/) It's great to be here
 - [Jazer Salazar](https://github.com/jazersalazar/) [LinkedIn](linkedin.com/in/jazersalazar/)
 - [João Azevedo](https://github.com/azevedo-joao)
 - [David C] (https://github.com): Just relearning Git after a 10 year sabbattical
 - [Kishaiyan Thangaraj](https://github.com/kishaiyan)
 - [Arbin Shrestha](https://github.com/arbeen)
+- [Cynthia Aoko](https://github.com/aoko-code)
 - [Jordan Fable](https://github.com/RimuruWasTaken9)
 - [Fatemeh Salehi](https://github.com/fnysalehi)
 -[Avinash verma](https://github.com/nkvavinash)
@@ -46,6 +52,7 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
 - [YxNiI](https://github.com/YxNiI)
 Kencham Vinay
 -[Anikhet Mulky](https://github.com/Anikhet)
+-[AmirAbbas Mousavi](https://github.com/Amir-A-M)
 -[DavidOhanyan](https://github.com/DavidOhanyan)
 -[Maria Sui](https://github.com/msui51)
 [Ani Nalbandyan](https://github.com/AniNalbandyan6)
@@ -226,6 +233,7 @@ Kencham Vinay
 - [NandaMonroe](https://github.com/NandaMonroe)
 - [Varun Krishnan](https://github.com/Varun-Krishnan1)
 - [Huang Jingheng](https://github.com/JohnHenryEden)
+- [Jeswin](https://github.com/Jesiwn)
 - [waltofalltrades]
 - [wagger]
 - [phee]
@@ -800,6 +808,7 @@ something...changed
 -[Manish Bisen] (https://github.com/bisen-del)
 - [Stelios Gee](https://github.com/SteliosGee)
 -[Chandra Mohan](https://github.com/chandramohan0/)
+-[Marat](---------)
 - [Arslanaka](https://github.com/arslanaka)
 Gyanendra Thakur
 - [Tarun kumar] (https://github.com/krtarun7) 
@@ -1749,6 +1758,7 @@ Alexander
 - [Eray Ates](https://github.com/erayates)
 - [Hasan Dilshad Husain](https://github.com/Hasan-1-6)
 - [Alfonso de Mora Navarro](https://github.com/demora33)
+- [Gaopo Huang](https://github.com/GaopoHuang)
 - [Victor Alejandro Contreras Vargas](https://github.com/vc743) Who's gonna carry the boats?💪🔥
 - [titamoto](https://github.com/titamoto)
 - [Neal Willis](https://github.com/nealwillis)
@@ -1814,6 +1824,7 @@ Alexander
 - [K S Sai Teja](https://github.com/kssaiteja)
 - [Amin Khalsi]
 - [Venkatraj](https://github.com/ivenkatraj)
+- [Tristan Hyams](https://github.com/tristanhyams)
 - [Buse Dağıdır](https://github.com/busedagidir)
 - [Karulina Alencar](https://github.com/karolalencar)
 - [Jake Abed](https://github.com/jake-abed)
@@ -1909,6 +1920,7 @@ Alexander
 - [Ron](https://github.com/Ron-Ash)
 - [FKKAIDA](https://github.com/FKKAIDA)
 - [ChaouachiAziz](https://github.com/ChaouachiAziz);
+- [n00dlr](https://github.com/n00dlr)
 - [Mustafa](https://github.com/envoydead7)
 - [Yoloyoda](https://github.com/Yoloyoda)
 - [Ghabki](https://github.com/Ghabki)
@@ -2854,6 +2866,7 @@ LadegbayeStella)
 - [Ahmed Bentabet](https://github.com/ahmedbentabet)
 - [Qizhao Chen](https://github.com/kx412764776)
 - [Ronald Chan](https://github.com/ronaldchanhk)
+- [Cristian Jitca](https://github.com/CristianJitca)
 - [Luke Hardy]
 - [Aviv Barak]
 - [Kaitlyn](https://github.com/kbrandt8)
@@ -2978,5 +2991,12 @@ LadegbayeStella)
 - [Yang Jinwook](https://github.com/overseeas)
 - [nexbelgium](https://github.com/nexbelgium)
 - [Shantanu Dutta](https://github.com/nlern)
+- [Vinay Khanagavi][ https://github.com/Vinu-sk ] 
+- [Corban Pendrak](https://github.com/CorbanPendrak)
+- [Gamari](https://github.com/gamari)
+- [DanLi](https://github.com/Adan2333)
+- [kossyprg](https://github.com/kossyprg)
+- [SujanShilakar] (https://github.com/SujanShilakar)
+- [Wei Way](https://github.com/Wei-whey-way)
+- [Zhanylai](https://github.com/Zhanyl3909)
 - [Diego Reynoso](https://github.com/DReynoso12) woow esto es muy interesante!
-- 
