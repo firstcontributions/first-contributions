@@ -2,6 +2,7 @@
 
 - [Ogo Nelson](https://github.com/OgoNelson) [Twitter](https://www.twitter.com/ogo_nelson)
 JiyinShao
+- [Rudi Bakaal](https://github.com/rudibakaal)
 - [Jay Gaha](https://github.com/jaygaha) First contribution 🦾
 - [Shota Totsuka](https://github.com/ShotaTotsuka)
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
