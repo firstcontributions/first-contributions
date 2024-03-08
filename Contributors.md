@@ -1127,6 +1127,7 @@ Romeu Leite
 - [GreenWeegeeCantCode](https://github.com/GreenWeegeeCantCode)
 - [DPHung]
 - [Angelica Michaca](https://github.com/Angelica-Michaca)
+- [Chandana Srinivasa Yatisha](https://github.com/chandanasy)
 - [Sivapannier]
 - [Nb](https://github.com/Neeraj6Maths)
 - [Arthur Griffith](https://github.com/agriffith18)
