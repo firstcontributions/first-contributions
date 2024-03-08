@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+- Ale :)
 - [Kuth Chi](https://github.com/kuth-chi) [Linkedin](https://www.linkedin.com/in/kuth-chi)
 - [Ogo Nelson](https://github.com/OgoNelson) [Twitter](https://www.twitter.com/ogo_nelson)
 - [Lenox Miheso](https://github.com/brownred) Just got my first remote job. came here for a refresher
