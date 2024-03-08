@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Ogo Nelson](https://github.com/OgoNelson) [Twitter](https://www.twitter.com/ogo_nelson)
+JiyinShao
 - [Shota Totsuka](https://github.com/ShotaTotsuka)
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
 - [Carson Evans](https://github.com/carson-evans) [LinkedIn](https://linkedin.com/in/carson-evans42)
@@ -226,6 +227,7 @@ Kencham Vinay
 - [NandaMonroe](https://github.com/NandaMonroe)
 - [Varun Krishnan](https://github.com/Varun-Krishnan1)
 - [Huang Jingheng](https://github.com/JohnHenryEden)
+- [Jeswin](https://github.com/Jesiwn)
 - [waltofalltrades]
 - [wagger]
 - [phee]
@@ -1816,6 +1818,7 @@ Alexander
 - [K S Sai Teja](https://github.com/kssaiteja)
 - [Amin Khalsi]
 - [Venkatraj](https://github.com/ivenkatraj)
+- [Tristan Hyams](https://github.com/tristanhyams)
 - [Buse Dağıdır](https://github.com/busedagidir)
 - [Karulina Alencar](https://github.com/karolalencar)
 - [Jake Abed](https://github.com/jake-abed)
@@ -1911,6 +1914,7 @@ Alexander
 - [Ron](https://github.com/Ron-Ash)
 - [FKKAIDA](https://github.com/FKKAIDA)
 - [ChaouachiAziz](https://github.com/ChaouachiAziz);
+- [n00dlr](https://github.com/n00dlr)
 - [Mustafa](https://github.com/envoydead7)
 - [Yoloyoda](https://github.com/Yoloyoda)
 - [Ghabki](https://github.com/Ghabki)
