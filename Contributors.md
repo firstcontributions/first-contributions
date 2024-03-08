@@ -2995,7 +2995,4 @@ LadegbayeStella)
 - [Corban Pendrak](https://github.com/CorbanPendrak)
 - [Gamari](https://github.com/gamari)
 - [DanLi](https://github.com/Adan2333)
-- [SujanShilakar] (https://github.com/SujanShilakar)
-- [Wei Way](https://github.com/Wei-whey-way)
-- [Zhanylai](https://github.com/Zhanyl3909)
-
+- [Mark Vong](https://github.com/Mackerello)
