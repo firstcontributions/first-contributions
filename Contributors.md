@@ -2985,6 +2985,7 @@ LadegbayeStella)
 - [Soner Türkölmez](https://github.com/sonertnp)
 -[SubikshaMuralidass]
 -[Ivan Senkiv](https://github.com/ISenkiv07)
+-[William Quistian](https://github.com/Will9114)
 -[Will Moore](https://github.com/Mooree003)
 -[Maquitous](https://github.com/ZephyrJRay)
 -[Ismael Moreira](https://github.com/Ismael-Moreira-Kt)
