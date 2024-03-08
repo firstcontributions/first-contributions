@@ -1817,6 +1817,7 @@ Alexander
 - [K S Sai Teja](https://github.com/kssaiteja)
 - [Amin Khalsi]
 - [Venkatraj](https://github.com/ivenkatraj)
+- [Tristan Hyams](https://github.com/tristanhyams)
 - [Buse Dağıdır](https://github.com/busedagidir)
 - [Karulina Alencar](https://github.com/karolalencar)
 - [Jake Abed](https://github.com/jake-abed)
