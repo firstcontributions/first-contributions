@@ -53,6 +53,7 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
 - [YxNiI](https://github.com/YxNiI)
 Kencham Vinay
 -[Anikhet Mulky](https://github.com/Anikhet)
+- [JB](https://github.com/jb90000)
 -[AmirAbbas Mousavi](https://github.com/Amir-A-M)
 -[DavidOhanyan](https://github.com/DavidOhanyan)
 -[Maria Sui](https://github.com/msui51)
