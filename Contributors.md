@@ -74,6 +74,7 @@ Kencham Vinay
 -[Akshat Shukla](https://github.com/Akshat-0001)
 - [Stella Maina](https://github.com/Stella Maina)
 -[Roel Leal] (https://github.com/RoelLeal)
+- [Mubarak Olanrewaju](https://github.com/Freedteck)
 -[Aswin Jose](https://github.com/aswinjose89)
 -[Moe Sidibeh](https://github.com/kkonteh97)
 -[Alan Winters](https://github.com/winters-ag)
