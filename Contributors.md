@@ -677,6 +677,7 @@ something...changed
 - [sarfaraz](https://github.com/sarfarazsiddiquii)
 - [leviduncan] (https://github.com/leviduncan) 
 - [snowman95] (https://github.com/snowman95)
+- [Raghav Srivastava] (https://github.com/snowman95)
 - [SinaJaha] (https://github.com/SinaJaha)
 - [SantoshMorla] (https://github.com/SantoshMorla)
 - [SebastianRad] (https://github.com/RadSebastian)
