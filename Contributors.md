@@ -239,6 +239,7 @@ Kencham Vinay
 - [Jeswin](https://github.com/Jesiwn)
 - [waltofalltrades]
 - [wagger]
+- [Juliusz](https://github.com/AdeJulius46)
 - [phee]
 - SHUBHAM SINGH
 - [gitFerdo](https://github.com/gitFerdo)
