@@ -177,6 +177,7 @@ Kencham Vinay
 - [AutonmyLab](https://github.com/autonomylab-xyz)
 - [Amila999](https://github.com/Amila999)
 - [NightLighter423](https://github.com/NightLighter423)
+- [Neeraj](https://github.com/neeraj0022)
 - [Rawoot Fly](https://github.com/rawoot2)
 - [Amanda Downie](https://github.com/aninymous412)
 - [Muhammad Sajeedul Haque](https://github.com/Sajeed7804)
