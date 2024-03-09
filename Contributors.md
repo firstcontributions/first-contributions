@@ -11,6 +11,7 @@ JiyinShao
 - [Carson Evans](https://github.com/carson-evans) [LinkedIn](https://linkedin.com/in/carson-evans42)
 - [Mohit Kumhar](https://github.com/mohitkumhar) [LinkedIn](www.linkedin.com/in/mohitkumhar)
 - [Edgar Budaghyan](https://github.com/Budaghyan)
+- [Ashutosh Panda](https://github.com/ashu7896) [(Linkedin)](https://www.linkedin.com/in/ashu7896)
 - [chux] (https://github.com/codechux)
 - [MPC] (https://github.com/Myat-00)
 - [Praneeth Gourla] (https://github.com/praneethgourla18)
