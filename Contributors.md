@@ -16,6 +16,7 @@ JiyinShao
 - [chux] (https://github.com/codechux)
 - [MPC] (https://github.com/Myat-00)
 - [Praneeth Gourla] (https://github.com/praneethgourla18)
+- [Olha Zakharchevna](https://github.com/zakharchevna)
 - [Maxime de Montbron](https://github.com/mijnog/) Just learning how to code
 - [Samartha D N](https://github.com/SamtheGOC) Come chat w/ me on Discord at [.rizzmaster_]
 i-[Hilal Semercioğlu](https://github.com/elinoza)
