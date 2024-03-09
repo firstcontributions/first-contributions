@@ -5,6 +5,7 @@
 - [Lenox Miheso](https://github.com/brownred) Just got my first remote job. came here for a refresher
 JiyinShao
 - [Rudi Bakaal](https://github.com/rudibakaal)
+- [Ashish Lakra](https://github.com/ashishlakraa)
 - [Jay Gaha](https://github.com/jaygaha) First contribution 🦾
 - [Shota Totsuka](https://github.com/ShotaTotsuka)
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
