@@ -2,10 +2,10 @@
 
 - [Kuth Chi](https://github.com/kuth-chi) [Linkedin](https://www.linkedin.com/in/kuth-chi)
 - [Ogo Nelson](https://github.com/OgoNelson) [Twitter](https://www.twitter.com/ogo_nelson)
-- [Lenox Miheso](https://github.com/brownred) Just got my first remote job. came here for a refresher
-JiyinShao
+- [Lenox Miheso](https://github.com/brownred) Just got my first remote job. came here for a refresher JiyinShao
 - [Rudi Bakaal](https://github.com/rudibakaal)
 - [Jay Gaha](https://github.com/jaygaha) First contribution 🦾
+- [Aravinth M](https://github.com/theAravinthM) New to Open Source world 😎 First contribution 💪
 - [Shota Totsuka](https://github.com/ShotaTotsuka)
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
 - [Carson Evans](https://github.com/carson-evans) [LinkedIn](https://linkedin.com/in/carson-evans42)
@@ -15,12 +15,12 @@ JiyinShao
 - [MPC] (https://github.com/Myat-00)
 - [Maxime de Montbron](https://github.com/mijnog/) Just learning how to code
 - [Samartha D N](https://github.com/SamtheGOC) Come chat w/ me on Discord at [.rizzmaster_]
-i-[Hilal Semercioğlu](https://github.com/elinoza)
--[Asimanye Dudumayo](https://github.com/adudumayo)
--[Sanja Rogovic](https://github.com/SanjaRogovic)
--[Sarwat Jabeen](https://github.com/sarwatj)
- [Sujas Aggarwal🍔](https://github.com/Sujas-Aggarwal)
--[Cynthia Aoko](https://github.com/aoko-code/) It's great to be here
+- [Hilal Semercioğlu](https://github.com/elinoza)
+- [Asimanye Dudumayo](https://github.com/adudumayo)
+- [Sanja Rogovic](https://github.com/SanjaRogovic)
+- [Sarwat Jabeen](https://github.com/sarwatj)
+- [Sujas Aggarwal🍔](https://github.com/Sujas-Aggarwal)
+- [Cynthia Aoko](https://github.com/aoko-code/) It's great to be here
 - [Jazer Salazar](https://github.com/jazersalazar/) [LinkedIn](linkedin.com/in/jazersalazar/)
 - [João Azevedo](https://github.com/azevedo-joao)
 - [David C] (https://github.com): Just relearning Git after a 10 year sabbattical
