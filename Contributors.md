@@ -246,6 +246,7 @@ Kencham Vinay
 - [Jeswin](https://github.com/Jesiwn)
 - [waltofalltrades]
 - [wagger]
+- [adeatt](https://github.com/adeatt)
 - [Juliusz](https://github.com/AdeJulius46)
 - [phee]
 - SHUBHAM SINGH
