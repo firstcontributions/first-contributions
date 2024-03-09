@@ -4,7 +4,7 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# Mga Unang Kontribusyon
+# Mga Unang Kontribusyon ..
 
 Nilalayon ng proyektong ito na gawing simple at gabayan ang paraan ng paggawa ng mga nagsisimula sa kanilang unang kontribusyon. Kung gusto mong gawin ang iyong unang kontribusyon, sundin ang mga hakbang sa ibaba.
 
