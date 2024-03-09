@@ -54,6 +54,7 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
 - [Giovane Aguiar](https://github.com/giovane-aG)
 - [YxNiI](https://github.com/YxNiI)
 Kencham Vinay
+-[Rahul Vinod](https://github.com/rahulv555)
 -[Anikhet Mulky](https://github.com/Anikhet)
 - [JB](https://github.com/jb90000)
 -[AmirAbbas Mousavi](https://github.com/Amir-A-M)
