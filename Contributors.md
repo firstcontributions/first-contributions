@@ -384,6 +384,7 @@ something...changed
 - [Benjamin Cruickshank](https://github.com/OfficerClucks)
 - [Renna Carver](https://github.com/rennacarver)
 - [Diptaraj Sen](https://github.com/diptaraj23)
+- [Danyang Zhao](https://github.com/Alaurant)
 - [Adyan Chowdhury](https://github.com/adyan1025)
 - [Noah Uhunmwangho-Johnson](https://github.com/serethewind)
 - [Nicholas Gonzalez] (https://github.com/Cole2303)
