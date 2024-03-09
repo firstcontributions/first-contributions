@@ -154,6 +154,7 @@ Kencham Vinay
 - [Vidya pentapati]
 - [Mohammed Shuhaib]
 -[Barak Rosenfeld]
+- [Rajesh K]
 -[Gyamposu dodzi](https://github.com/gyamposudodzi) [Linkedin](https://linkedin.com/dodzigyamposu)
 - [Nic Charaud](https://github.com/bla-ce)
 - [Max Albers](https://github.com/malbers-main)
