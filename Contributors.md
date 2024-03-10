@@ -47,6 +47,7 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
 - [Luis Vásquez](hhtps://github.com/vasquezluis) 👻
 - [Dwvwdv](https://github.com/dwvwdv)  
 [Sergey Mkrtchyan](https://github.com/Mkrtchyann)
+-[Samarth Jain](https://github.com/samarth-jain28)
 -[Amaka Uchegbu](https://github.com/UCHEHQ)
 -[NesrinKS](https://https://github.com/NesrinKS)
 - [Albin Forsberg](https://github.com/albfor/first-contributions)
