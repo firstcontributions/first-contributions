@@ -3047,4 +3047,4 @@ LadegbayeStella)
 - [Kartikey Aggarwal](https://github.com/kartikeyagg)
 - [Anshuman Panda](https://github.com/PandaAnshuman)
 - [Manish Agrawal](https://github.com/manishag777)
-
+- [Kats Yamada](https://github.com/imb898)
