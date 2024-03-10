@@ -379,6 +379,7 @@ Kencham Vinay
 - [Juan Bedoya](https://github.com/Camilo1753)
 - [Ahmed Gamal](https://github.com/ahmedgamalpro)
 - [Charles D.](https://github.com/cmd644)
+- [TEYA]
 - [Viral Jain](https://github.com/viraljain7)
 - [Sravan kumar](https://github.com/vishnusk2004)
 - [Alex King](https://github.com/ak2466) 🕳️
