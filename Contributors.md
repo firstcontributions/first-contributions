@@ -118,6 +118,7 @@ Kencham Vinay
 - [JAGNATH SHANKER](https://github.com/jagnathshanker)
 - [Laurence Cook](https://github.com/07cookl)
 - [Nikola - nicywi](https://github.com/nicywi)
+- [Sameh ElGazar](https://github.com/samehelgazar95)
 - [Mitchell - mitthoma](https://github.com/mitthoma)
 - [Yuliia Petryshak](https://github.com/ypetryshak)
 - [Vamsi Srivatsan](https://github.com/vamsisrivatsanc)
