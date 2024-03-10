@@ -850,6 +850,7 @@ Gyanendra Thakur
 - [Michelle Mullane](https://github.com/MichelleMullane)
 - [Aliko Muska]
 - [Guru Balamurugan](https://github.com/guru-apr21)
+- [Hu TianHang](https://github.com/HTH24)
 - [Patrick Yeung](https://github.com/eampat)
 - [Leonardo Lopes] (https://github.com/leonardo-lopes-br)
 - [Steve Armstrong] (https://github.com/W0474997SteveArmstrong)
