@@ -37,6 +37,7 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
 - [Jordan Fable](https://github.com/RimuruWasTaken9)
 - [Fatemeh Salehi](https://github.com/fnysalehi)
 -[Avinash verma](https://github.com/nkvavinash)
+- [william nyaranga](https://github.com/William-nyarash)
 - [Narek](https://github.com/Naki1995/first-contributions)
  [Adam Honvedo](https://github.com/Homvi)
 - [Blake Hill](https://github.com/Blake-Hill)<3
