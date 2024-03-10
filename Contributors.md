@@ -97,6 +97,7 @@ Gyanendra Thakur
 - [Kores Nkoidila](https://github.com/Nkoidila)
 - [Michelle Mullane](https://github.com/MichelleMullane)
 - [Guru Balamurugan](https://github.com/guru-apr21)
+- [Hu TianHang](https://github.com/HTH24)
 - [Patrick Yeung](https://github.com/eampat)
 - [Leonardo Lopes] (https://github.com/leonardo-lopes-br)
 - [Steve Armstrong] (https://github.com/W0474997SteveArmstrong)
