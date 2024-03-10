@@ -330,6 +330,7 @@ Kencham Vinay
 - [Nononoyeah](https://github.com/nononoyeah)
 - [ZRKHSM](https://github.com/ZRKHSM)
 - [Mahnoor Ismail] (https://github.com/mahnewr)
+- [Mr E](https://github.com/MrE00)
 - [Peter Adepoju] (https://github.com/peralivet)
 - [Saurabh Gattani](https://github.com/saurabh1294)
 - [Shivansh Gupta](https://github.com/Shivansh-04)
