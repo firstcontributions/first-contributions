@@ -14,6 +14,7 @@ JiyinShao
 - [Shota Totsuka](https://github.com/ShotaTotsuka)
 - [Habishath Thavachelvan](https://github.com/habishath)
 - [Sarvajith Adyanthaya](https://github.com/Chillthrower)
+- [Hemalatha Parisa](https://github.com/mannemhema)
 - [Adams Ahmed](https://github.com/Harmedino)
 - [Davie Kibet](https://github.com/daviewisdm)
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
