@@ -1222,6 +1222,7 @@ Romeu Leite
 - [Ionecum](https://github.com/ionecum)
 - [Sidharth Tripathi](https://github.com/sidharthtripathi)
 - [AM-Shafin](https://github.com/am-safin) 👊
+- [Bharath Ram S](https://github.com/BharathRam125)
 - [Rakeshkandhi](https://github.com/rakeshkandhi)
 - [Renaulter](https://github.com/himanshu-gadia)
 - [sambutracy](https://github.com/sambutracy)
