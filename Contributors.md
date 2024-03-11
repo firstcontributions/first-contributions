@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Siddharth Garg](https://github.com/Siddu24294)
 - [Kuth Chi](https://github.com/kuth-chi) [Linkedin](https://www.linkedin.com/in/kuth-chi)
@@ -8,6 +8,7 @@
 - [Lenox Miheso](https://github.com/brownred) Just got my first remote job. came here for a refresher
 JiyinShao
 - [Rudi Bakaal](https://github.com/rudibakaal)
+- [Rahul Patanwadia](https://github.com/Rahul-Patanwadia)
 - [Cyril Azubuine](https://github.com/cyrilberrypi) [LinkedIn](https://www.linkedin.com/in/cyril-azubuine/) [X](https://twitter.com/iamcyril_edtech)
 - [Ashish Lakra](https://github.com/ashishlakraa)
 - [Jay Gaha](https://github.com/jaygaha) First contribution 🦾
