@@ -30,6 +30,7 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
 -[Asimanye Dudumayo](https://github.com/adudumayo)
 -[Sanja Rogovic](https://github.com/SanjaRogovic)
 -[Sarwat Jabeen](https://github.com/sarwatj)
+-[Nico Rugani](https://github.com/NicoRugani) learning How to contribute
  [Sujas Aggarwal🍔](https://github.com/Sujas-Aggarwal)
 -[Cynthia Aoko](https://github.com/aoko-code/) It's great to be here
 - [Jazer Salazar](https://github.com/jazersalazar/) [LinkedIn](linkedin.com/in/jazersalazar/)
