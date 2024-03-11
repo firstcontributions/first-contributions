@@ -4463,6 +4463,7 @@ Akash Abraham
 - [Jassim](https://github.com/jassim-ibrahim-13)
 - [Manish Bhusal](https://github.com/manish-bhusal/)
 - [Prajwal](https://github.com/prajwalbandak)
+- [Rajesh Jonnalagadda](https://github.com/rajeshj11)
 - [Neha Santani](https://github.com/NehaSantani)
 - [Alex Folayan](https://github.com/Knice2)
 - [Filip Koci](https://github.com/sos321)
