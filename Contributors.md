@@ -352,6 +352,7 @@ Kencham Vinay
 - [Zach](https://github.com/zfast25)
 - [Stanley Agu](https://github.com/aguchux)
 - [Sri](https://github.com/srinifun)
+- [claire]
 - [Lormars](https://github.com/Lormars)
 - [Myo Min Hein] (https://github.com/Myo-Min-Hein)
 - [Mark Hong] (https://gituhb.com/markhong076/)
