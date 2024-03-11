@@ -2064,6 +2064,7 @@ Alexander
 - [bidyasagar-mohapatra](https://github.com/bidyasagaranupam)
 - [Double-think](https://github.com/doublethink-bps)
 - [Manuel Zorrilla](https://github.com/manuelzorrilladev)
+- [Samuel Palomino](https://github.com/spalominor)
 - [Kashish Jain](https://github.com/jkashish18)
 - [wikara gunawan](https://github.com/lactobacil)
 - [TechTaleFusion](https://daswealth-okikiola.github.io/My-Website/)
