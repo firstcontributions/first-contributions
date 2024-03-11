@@ -12,6 +12,7 @@ JiyinShao
 - [Ashish Lakra](https://github.com/ashishlakraa)
 - [Jay Gaha](https://github.com/jaygaha) First contribution 🦾
 - [Shota Totsuka](https://github.com/ShotaTotsuka)
+- [Sarvajith Adyanthaya](https://github.com/Chillthrower)
 - [Adams Ahmed](https://github.com/Harmedino)
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
 - [Siam Rahman](https://github.com/SiamRahman29) [LinkedIn](https://www.linkedin.com/in/siamrahman-29/)
