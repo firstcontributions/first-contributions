@@ -1,6 +1,8 @@
 ﻿# Contributors
 
 - [Kuth Chi](https://github.com/kuth-chi) [Linkedin](https://www.linkedin.com/in/kuth-chi)
+- [Gilbert Bageni](https://github.com/bagenigilbert) [Linkedin](https://www.linkedin.com/in/gilbert-bageni-9413242a3/)
+
 - [Ogo Nelson](https://github.com/OgoNelson) [Twitter](https://www.twitter.com/ogo_nelson)
 - [Lenox Miheso](https://github.com/brownred) Just got my first remote job. came here for a refresher
 JiyinShao
