@@ -1,6 +1,7 @@
 # Contributors
 
 - [Siddharth Garg](https://github.com/Siddu24294)
+- [Sheng Xin](https://github.com/sheng0321)
 - [Kuth Chi](https://github.com/kuth-chi) [Linkedin](https://www.linkedin.com/in/kuth-chi)
 - [Abhishek Agrawal](https://github.com/Abhi
 - [Ogo Nelson](https://github.com/OgoNelson) [Twitter](https://www.twitter.com/ogo_nelson)
