@@ -9,6 +9,7 @@
 - [Lenox Miheso](https://github.com/brownred) Just got my first remote job. came here for a refresher
 JiyinShao
 - [Rudi Bakaal](https://github.com/rudibakaal)
+- [Loveday Ikegbulam](https://github.com/lovedayikegbulam)
 - [Pradip Manna](https://github.com/Loosify00)
 - [Rahul Patanwadia](https://github.com/Rahul-Patanwadia)
 - [Cyril Azubuine](https://github.com/cyrilberrypi) [LinkedIn](https://www.linkedin.com/in/cyril-azubuine/) [X](https://twitter.com/iamcyril_edtech)
@@ -130,6 +131,7 @@ Kencham Vinay
 - [Nick Njagi](https://github.com/nicknjagi)
 - [AGN907](https://github.com/AGN907)
 - [Neer Amrutia](https://github.com/neeramrutia)
+- mmm
 -[Kanchan Shirke](https://github.com/kanchan78)
 - [Szymon Gałązka](https://github.com/SzymonGalazka)
 - [Darshan Gaikwad 🔱](https://github.com/darshangaikwad4114)
@@ -855,6 +857,7 @@ something...changed
 [Sayantan Roy Chowdhury]
 -[.kim](https//github.com/kim8584)
 - [Yeressil Taupiyk](https://github.com/BalmundSM)
+- [Balmund()
 -[Arshadakl] ()
 - [Somssi Pathania](https://github.com/SOMSSI2110)
 - [Gabriel Fernandes](https://github.com/gabrielfernandeswebdev)
@@ -3040,6 +3043,7 @@ LadegbayeStella)
 -[Lukas Fischer](https://github.com/Ohboy166)
 [Ben Choo]
 -[Ferdinand] [(https://github.com/isferdinand)]
+-[hocine](https://github.com/hocineMK03)[linkedin](https://www.linkedin.com/in/mechkak-hocine-712b5b244/)
 'Rakesh_J' [https://github.com/blackjackal010]
 - [Felix Jumason](https://github.com/Blackie360)
 - [AdamZaBD] (https://github.com/AdamZabd)
@@ -3089,4 +3093,5 @@ LadegbayeStella)
 - [Mova](https://github.com/the-mova)
 - [Omkar Mishra](https://github.com/OmkarMishr)
 - [Nico](https://github.com/nzantopp)
+- [Rajeev Lochan Dash](https://github.com/RajeevDash007)
 
