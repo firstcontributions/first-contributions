@@ -1,5 +1,6 @@
 # Contributors
 
+- [Riyaz Shaik](https://github.com/ShaikRiyaz2003) || [Riyaz Shaik](https://www.linkedin.com/in/shaikriyaz03/)
 - [Priyanshu](https://github.com/Priyanshu085) || [LinkedIn](https://www.linkedin.com/in/Priyanshu085) || [Twitter](https://www.twitter.com/Priyanshux085)
 - [Siddharth Garg](https://github.com/Siddu24294)
 - [Sheng Xin](https://github.com/sheng0321)
