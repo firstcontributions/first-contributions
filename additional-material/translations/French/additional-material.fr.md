@@ -1,4 +1,4 @@
-# Additional information
+# Informations supplémentaires
 Nous partons du principe que vous avez déjà lu le tutoriel basique avant de vous rendre ici. Ce document vous donnera des informations complémentaires
 sur les techniques avancées de Git.
 
@@ -34,16 +34,16 @@ Cette page vous donnera les informations dont vous avez besoin pour résoudre le
 Cette page vous aidera si vous avez besoin de revenir à un commit précédent, sur le répertoire distant. Ceci est pratique dans le cas où vous auriez besoin d'annuler un commit que vous auriez déjà poussé sur Github.
 > Suivez ces étapes si vous souhaitez reprendre un commit.
 
-### [Applatir des Commits](squashing-commits.md)
-Cette page vous apprendra comment applatir plusieurs commits en un seul.
-> A utiliser si vous voulez ouvrir une demande de révision (pull request) et que l'évaluateur vous demande d'"applatir" tous les commits en un seul, contenant un message d'information global.
+### [Aplatir des Commits](squashing-commits.md)
+Cette page vous apprendra comment aplatir plusieurs commits en un seul.
+> A utiliser si vous voulez ouvrir une demande de révision (pull request) et que l'évaluateur vous demande d'"aplatir" tous les commits en un seul, contenant un message d'information global.
 
 ### [Annuler un commit local](undoing-a-commit.md)
 Cette page vous donne les informations dont vous avez besoin pour annuler un commit sur votre répertoire local. C'est ce que vous aurez besoin de faire si vous sentez que vous avez fait une erreur dans votre répertoire local et que vous voulez revenir à l'état précédent.
 > Suivez ces instructions si vous voulez annuler / revenir à l'état précédent sur un commit local.
 
 ### [liens utiles](Useful-links-for-further-learning.md)
-Cette page est dédiée à tous les sites de trucs et astuces, les blogs, et en règle générale les site qui nous aident à rendre nos vies plus faciles. Ils sont d'excellentes références pour répondre à tous vos besoins, que vous soyez débutant ou expert. Cette page devrait être un index de tous ces liens utiles qui aideront tous ceux qui sont nouveaux dans le domaine de l'open-source ou ceux qui veulent approfondir leurs connaissances.
+Cette page est dédiée à tous les sites de trucs et astuces, les blogs, et en règle générale les sites qui nous aident à rendre nos vies plus faciles. Ils sont d'excellentes références pour répondre à tous vos besoins, que vous soyez débutant ou expert. Cette page devrait être un index de tous ces liens utiles qui aideront tous ceux qui sont nouveaux dans le domaine de l'open-source ou ceux qui veulent approfondir leurs connaissances.
 
 ### [Créer un fichier .gitignore](creating-a-gitignore-file.md)
 Ce document explique à quoi sert un fichier .gitignore, pourquoi l'utiliser et comment le créer. Ce fichier est utilisé dans quasiment tous les projets git. Il aide à ne prendre en compte dans les commits que les fichiers nécessaires.

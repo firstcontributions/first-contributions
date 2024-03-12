@@ -27,7 +27,7 @@ _⟟⎎ ⊬⍜⎍'⍀⟒ ⋏⍜⏁ ☊⍜⋔⎎⍜⍀⏁⏃⏚⌰⟒ ⍙⟟⏁�
 
 ⍜⌿⟒⋏ ⏃ ⏁⟒⍀⋔⟟⋏⏃⌰ ⏃⋏⎅ ⍀⎍⋏ ⏁⊑⟒ ⎎⍜⌰⌰⍜⍙⟟⋏☌ `git` ☊⍜⋔⋔⏃⋏⎅:
 
-```
+```bash
 git clone "url you just copied"
 ```
 
@@ -37,7 +37,7 @@ git clone "url you just copied"
 
 ⎎⍜⍀ ⟒⌖⏃⋔⌿⌰⟒:
 
-```
+```bash
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
@@ -47,19 +47,19 @@ git clone https://github.com/this-is-you/first-contributions.git
 
 ☊⊑⏃⋏☌⟒ ⏁⍜ ⏁⊑⟒ ⍀⟒⌿⍜⌇⟟⏁⍜⍀⊬ ⎅⟟⍀⟒☊⏁⍜⍀⊬ ⍜⋏ ⊬⍜⎍⍀ ☊⍜⋔⌿⎍⏁⟒⍀ (⟟⎎ ⊬⍜⎍ ⏃⍀⟒ ⋏⍜⏁ ⏃⌰⍀⟒⏃⎅⊬ ⏁⊑⟒⍀⟒):
 
-```
+```bash
 cd first-contributions
 ```
 
 ⋏⍜⍙ ☊⍀⟒⏃⏁⟒ ⏃ ⏚⍀⏃⋏☊⊑ ⎍⌇⟟⋏☌ ⏁⊑⟒ `git checkout` ☊⍜⋔⋔⏃⋏⎅:
 
-```
+```bash
 git checkout -b your-new-branch-name
 ```
 
 ⎎⍜⍀ ⟒⌖⏃⋔⌿⌰⟒:
 
-```
+```bash
 git checkout -b add-alonzo-church
 ```
 
@@ -73,13 +73,13 @@ git checkout -b add-alonzo-church
 
 ⏃⎅⎅ ⏁⊑⍜⌇⟒ ☊⊑⏃⋏☌⟒⌇ ⏁⍜ ⏁⊑⟒ ⏚⍀⏃⋏☊⊑ ⊬⍜⎍ ⟊⎍⌇⏁ ☊⍀⟒⏃⏁⟒⎅ ⎍⌇⟟⋏☌ ⏁⊑⟒ `git add` ☊⍜⋔⋔⏃⋏⎅:
 
-```
+```bash
 git add Contributors.md
 ```
 
 ⋏⍜⍙ ☊⍜⋔⋔⟟⏁ ⏁⊑⍜⌇⟒ ☊⊑⏃⋏☌⟒⌇ ⎍⌇⟟⋏☌ ⏁⊑⟒ `git commit` ☊⍜⋔⋔⏃⋏⎅:
 
-```
+```bash
 git commit -m "Add <your-name> to Contributors list"
 ```
 
@@ -89,7 +89,7 @@ git commit -m "Add <your-name> to Contributors list"
 
 ⌿⎍⌇⊑ ⊬⍜⎍⍀ ☊⊑⏃⋏☌⟒⌇ ⎍⌇⟟⋏☌ ⏁⊑⟒ ☊⍜⋔⋔⏃⋏⎅ `git push`:
 
-```
+```bash
 git push origin -u <add-your-branch-name>
 ```
 
