@@ -2,7 +2,7 @@
 
 - [Siddharth Garg](https://github.com/Siddu24294)
 - [Kuth Chi](https://github.com/kuth-chi) [Linkedin](https://www.linkedin.com/in/kuth-chi)
-- [Abhishek Agrawal](https://github.com/Abhi0496)
+- [Abhishek Agrawal](https://github.com/Abhi
 - [Ogo Nelson](https://github.com/OgoNelson) [Twitter](https://www.twitter.com/ogo_nelson)
 - [Gilbert Bageni](https://github.com/bagenigilbert) [Linkedin](https://www.linkedin.com/in/gilbert-bageni-9413242a3/)
 - [Shubham Kumar](https://github.com/shubh1777) 📲[LinkedIn](https://www.linkedin.com/in/shubham-kumar1777/)
@@ -207,6 +207,7 @@ Kencham Vinay
 - [bradyhelms](https://github.com/bradyhelms)
 - [AutonmyLab](https://github.com/autonomylab-xyz)
 - [Amila999](https://github.com/Amila999)
+- [Gilbert Bageni](https://github.com/bagenigilbert) [Linkedin](https://www.linkedin.com/in/gilbert-bageni-9413242a3/)
 - [NightLighter423](https://github.com/NightLighter423)
 - [Neeraj](https://github.com/neeraj0022)
 - [Rawoot Fly](https://github.com/rawoot2)
