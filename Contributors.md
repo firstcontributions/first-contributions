@@ -284,6 +284,7 @@ Kencham Vinay
 - [phee]
 - SHUBHAM SINGH
 - [gitFerdo](https://github.com/gitFerdo)
+- [Hisham Raihan](https://github.com/Bluehorizon65)
 - Feng Er[1fenger (github.com)](https://github.com/1fenger)
 - [Arturo]
 - [Sivaselvan]
