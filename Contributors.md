@@ -325,6 +325,7 @@ Kencham Vinay
 - [ersediti](https://github.com/Ersediti)
 - [Alcarius]
 - [laegel] (https://github.com/laegel123)
+- [Bishwa](https://github.com/bishwa) [Linkedin](https://www.linkedin.com/in/bishwavj/)
 - [Samruddhi Dharankar](https://github.com/samruddhiDharankar)
 - [Aung Pyae Soe](https://github.com/APS4087)
 - [Oana Pavel] (https://github.com/oanap11)
