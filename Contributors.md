@@ -446,7 +446,7 @@ something...changed
 - [Bikash Chauhan](https://github.com/bikash-789)
 - [lucas](https://github.com/lucas1969)
 - [Eshwanth Karti T R](https://github.com/eshwanthkartitr)
-- [Azhar Aditya Pratama](https://github.com/azharadityapratama)
+- [Azhar Aditya Pratama](https://github.com/azharpratama)
 - [Abdullah Sohail](https://github.com/abdullahsohailcs)
 - [Archana Kumari](https://github.com/Archana550)
 - [Jesus Salazar](https://github.com/Zhayr1)
