@@ -213,6 +213,7 @@ Kencham Vinay
 - [Neeraj](https://github.com/neeraj0022)
 - [Rawoot Fly](https://github.com/rawoot2)
 - [Amanda Downie](https://github.com/aninymous412)
+- [Nick Boswell](https://www.linkedin.com/in/nick-boswell/)
 - [Muhammad Sajeedul Haque](https://github.com/Sajeed7804)
 - [Ptitet](https://github.com/Ptitet)
   -Jake Bersani
