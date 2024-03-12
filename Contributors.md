@@ -1497,6 +1497,7 @@ Romeu Leite
 - [Uchenyi Kesandu](https://github.com/Kessi-ux) [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://linkedin.com/in/uchekes)
 - [GwanBin Park](https://github.com/bgb10)
 - [Ray Yu](https://github.com/RayYu-ChunleiYu)
+- [Yuki Kitayama](https://github.com/yukikitayama)
 - [Tal Shaked](https://github.com/talshaked-git)
 - [Ron](https://github.com/ronashkenazy)
 - [Aryan Mehta](https://github.com/aryan-mehta)
