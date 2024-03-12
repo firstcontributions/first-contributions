@@ -19,6 +19,7 @@ JiyinShao
 - [Jay Gaha](https://github.com/jaygaha) First contribution 🦾
 - [CodeXhale] (https://github.com/CodeXhale): My First Open-source Contribution 🎉.
 - [Shota Totsuka](https://github.com/ShotaTotsuka)
+- [Ted Kouhouenou](https://github.com/Tednoob17)
 - [Habishath Thavachelvan](https://github.com/habishath)
 - [Sarvajith Adyanthaya](https://github.com/Chillthrower)
 - [Hemalatha Parisa](https://github.com/mannemhema)
