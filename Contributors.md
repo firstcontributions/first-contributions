@@ -3041,6 +3041,7 @@ LadegbayeStella)
 -[Lukas Fischer](https://github.com/Ohboy166)
 [Ben Choo]
 -[Ferdinand] [(https://github.com/isferdinand)]
+-[hocine](https://github.com/hocineMK03)[linkedin](https://www.linkedin.com/in/mechkak-hocine-712b5b244/)
 'Rakesh_J' [https://github.com/blackjackal010]
 - [Felix Jumason](https://github.com/Blackie360)
 - [AdamZaBD] (https://github.com/AdamZabd)
