@@ -1631,6 +1631,7 @@ Romeu Leite
 - [Tim Maingi](https://github.com/Merch7x)
 - [Hruthik Anugula](https://github.com/hruthikgithubrit)
 - [Taiwo Akerele] (https://github.com/TaiwoSoftware)
+- [Jonathan Young](https://github.com/jona-young)
 - [MK Saba](https://github.com/mksaba)
 - [Garfield](https://github.com/jiafie7)
 - [S Yougesh Kumar](https://github.com/Yougesh978)
@@ -3077,4 +3078,3 @@ LadegbayeStella)
 - [RahulKarthick](https://github.com/rahulkarthick)
 - [Sandeep Gummadavelli](https://github.com/GummadavelliSandeep)
 - [Mova](https://github.com/the-mova) ✨
-
