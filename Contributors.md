@@ -41,6 +41,7 @@ JiyinShao
 - [Samartha D N](https://github.com/SamtheGOC) Come chat w/ me on Discord at [.rizzmaster_]
 i-[Hilal Semercioğlu](https://github.com/elinoza)
 -[Asimanye Dudumayo](https://github.com/adudumayo)
+-[Ali Hinnawe](https://github.com/alihinnawe)
 -[Sanja Rogovic](https://github.com/SanjaRogovic)
 -[Sarwat Jabeen](https://github.com/sarwatj)
 -[Nico Rugani](https://github.com/NicoRugani) learning How to contribute
