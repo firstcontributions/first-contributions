@@ -22,6 +22,8 @@ JiyinShao
 - [CodeXhale] (https://github.com/CodeXhale): My First Open-source Contribution 🎉.
 - [Shota Totsuka](https://github.com/ShotaTotsuka)
 - [Ted Kouhouenou](https://github.com/Tednoob17)
+- [Mohamed anis bousselmi](https://github.com/anysbslm/): First contribution.
+
 - [Habishath Thavachelvan](https://github.com/habishath)
 - [Rajendran S](https://github.com/Rajendran2201)
 - [Sarvajith Adyanthaya](https://github.com/Chillthrower)
