@@ -1499,6 +1499,7 @@ Romeu Leite
 - [Shraddha Nand Shah] (https://github.com/shraddha1512)
 - [Sourabh Kr. Rajput](https://github.com/Sourabh-Kr-Rajput)
 - [Pankaj Singh Koranga](https://github.com/PankajSingh10)
+- [Daniel](https://github.com/dddanielliu)
 - [Marcelina Maye Abaga Maye](https://github.com/Marmaye)
 - [MratWong](https://github.com/MratWong)
 - [MarianoJ](https://github.com/marianoj1984)
