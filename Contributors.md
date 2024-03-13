@@ -3144,6 +3144,7 @@ LadegbayeStella)
 - [Suchith Sameeri Balne](https://github.com/suchithbalne)
 - [Niyigena Fiston Alvin](https://github.com/ALVINdimpos)
 - [Claire]
+- [SinSheng]
 - [WHEEL](https://github.com/Hynobius-formosanus)
 - [Jin](https://github.com/jiwawa98)
 
