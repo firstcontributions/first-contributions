@@ -1042,7 +1042,7 @@ Romeu Leite
 - [Jay Paun](https://github.com/Jay2704)
 - [Cameron Johnson](https://github.com/will-fork-for-food)
 - [Ignacio Elìas Rosner](https://github.com/roznerx)
--_[annieyii](https://github.com/annieyii/first-contributions)
+- [annieyii](https://github.com/annieyii/first-contributions)
 - [MTHS](https://github.com/MTHS)
 - [Aristide Legba](https://github.com/aristidelegba)
 - [EvinExiNiTy](https://github.com/Evinexinity)
