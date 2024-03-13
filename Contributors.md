@@ -774,6 +774,7 @@ something...changed
 - [Vitor Gonçalves] (https://github.com/vvttrr)
 - [Jimmy H] (https://github.com/jmhungdev)
 - [Atharva] (https://github.com/Atharva98)
+- [Yash Sharma] (https://github.com/cf06yash)
 - [Jett Koele] (https://github.com/jk2429)
 - [Ayush] (https://github.com/Aayush612)
 - [Vishaal] (https://github.com/vs22202)
