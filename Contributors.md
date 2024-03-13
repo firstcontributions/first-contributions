@@ -1,9 +1,8 @@
 # Contributors
 
 - [Riyaz Shaik](https://github.com/ShaikRiyaz2003) || [Riyaz Shaik](https://www.linkedin.com/in/shaikriyaz03/)
-- [Dharamveer Singh] [![GitHub](https://img.shields.io/badge/GitHub-dveersingh000-blue?style=flat-square&logo=github)](https://github.com/dveersingh000)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dharamveer%20Singh-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dharamveer-singh-8585a72b3/)
-[![Twitter](https://img.shields.io/badge/Twitter-Dharamv1997-blue?style=flat-square&logo=twitter)](https://twitter.com/Dharamv1997)
+- [Dharamveer Singh] [![GitHub](https://img.shields.io/badge/GitHub-dveersingh000-blue?style=flat-square&logo=github)](https://github.com/dveersingh000) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dharamveer%20Singh-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dharamveer-singh-8585a72b3/) [![Twitter](https://img.shields.io/badge/Twitter-Dharamv1997-blue?style=flat-square&logo=twitter)](https://twitter.com/Dharamv1997)
+
 -[Aidan Palmer](https://github.com/aidan-palmer)
 - [Priyanshu](https://github.com/Priyanshu085) || [LinkedIn](https://www.linkedin.com/in/Priyanshu085) || [Twitter](https://www.twitter.com/Priyanshux085)
 - [Siddharth Garg](https://github.com/Siddu24294)
