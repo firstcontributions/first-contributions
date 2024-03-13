@@ -14,6 +14,7 @@ JiyinShao
 - [Venkatesh Jamge](https://github.com/venkateshjamge)
 - [Rudi Bakaal](https://github.com/rudibakaal)
 - [satoshi nakamoto](https://en.wikipedia.org/wiki/Adam_Back)
+- [James Kamz](https://github.com/JamesKamz)
 - [Loveday Ikegbulam](https://github.com/lovedayikegbulam)
 - [Pradip Manna](https://github.com/Loosify00)
 - [Rahul Patanwadia](https://github.com/Rahul-Patanwadia)
