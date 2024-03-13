@@ -144,7 +144,6 @@ Kencham Vinay
 -[Harsh Methwani](https://github.com/HarshMethwani)
 -[Shaurya Sambyal](https://github.com/ShauryaSambyal)
 -[Amir Abdullahi](https://github.com/amirabdullahi)
--[Akilesh Jayakumar](https://github.com/akileshjayakumar) [LinkedIn](https://www.linkedin.com/in/akileshjayakumar/) 
 -[Comfort Prince](https://github.com/comfortprince)
 -[rukmaniVijay](https://github.com/rukmanivijay)
 -[Dileep Kumar D](https://github.com/Dileep-kumar-D)
@@ -358,6 +357,7 @@ Kencham Vinay
 -[Aarya Sri Guru Datta Darisi](https://github.com/AaryaDarisi)
 - [Matheus Zahorcak](https://github.com/mathzak)
 - [Lucas Hogg](https://github.com/lucashogg)
+-[Akilesh Jayakumar](https://github.com/akileshjayakumar)
 -[mrdst-code](https://github.com/mrdst-code)
 - [Kedju Precious](https://github.com/Kedjuprecious).
 - [Netta Kaufman] (https://github.com/0NeKa0)
