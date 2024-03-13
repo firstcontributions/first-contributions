@@ -2,6 +2,7 @@
 
 -[Mai Mable Thet](https://github.com/EmeraldMable)
 - [Riyaz Shaik](https://github.com/ShaikRiyaz2003) || [Riyaz Shaik](https://www.linkedin.com/in/shaikriyaz03/)
+- Jayanth K
 -[David Okon](https://github.com/davidemusi)
 -[Aidan Palmer](https://github.com/aidan-palmer)
 - [Priyanshu](https://github.com/Priyanshu085) || [LinkedIn](https://www.linkedin.com/in/Priyanshu085) || [Twitter](https://www.twitter.com/Priyanshux085)
