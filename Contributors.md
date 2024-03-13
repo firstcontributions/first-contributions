@@ -92,6 +92,7 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
  [Adam Honvedo](https://github.com/Homvi)
 -Tim Shurlock
 - [Blake Hill](https://github.com/Blake-Hill)<3
+- [Luka D](https://github.com/Luka-D) Hoping to start contributing to open source projects
 - [hovhannisyangevorg](https://github.com/hovhannisyangevorg)
 - [Luis Vásquez](hhtps://github.com/vasquezluis) 👻
 - [Dwvwdv](https://github.com/dwvwdv)  
