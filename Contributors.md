@@ -28,6 +28,7 @@ JiyinShao
 - [Sarvajith Adyanthaya](https://github.com/Chillthrower)
 - [Hemalatha Parisa](https://github.com/mannemhema)
 - [Adams Ahmed](https://github.com/Harmedino)
+  - [Jai K](https://github.com/DarkTechPirate)
 - [Davie Kibet](https://github.com/daviewisdm)
 - [Mohmmed Ayesh](https://github.com/mohmmadAyesh)
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
