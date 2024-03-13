@@ -48,6 +48,7 @@ Hannah Sung
 - [Rajendran S](https://github.com/Rajendran2201)
 - [Sarvajith Adyanthaya](https://github.com/Chillthrower)
 - [Hemalatha Parisa](https://github.com/mannemhema)
+- [Jonah Robbins] (https://github.com/Rjonah321) First contribution!
 - [Adams Ahmed](https://github.com/Harmedino)
 - [Davie Kibet](https://github.com/daviewisdm)
 - [Jooin](https://github.com/firstcontributions/first-contributions)
