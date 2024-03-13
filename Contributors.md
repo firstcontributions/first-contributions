@@ -22,6 +22,7 @@ sleeping-sword
 - [Venkatesh Jamge](https://github.com/venkateshjamge)
 - [Rudi Bakaal](https://github.com/rudibakaal)
 - [satoshi nakamoto](https://en.wikipedia.org/wiki/Adam_Back)
+- [Nada Ayesh](https://github.com/nadasuhailAyesh12)
 - [James Kamz](https://github.com/JamesKamz)
 - [Loveday Ikegbulam](https://github.com/lovedayikegbulam)
 - [Pradip Manna](https://github.com/Loosify00)
