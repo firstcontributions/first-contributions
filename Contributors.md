@@ -21,7 +21,7 @@ Pereira
 -[Alexis Torrealba](https://github.com/Alexis-Torrealba) [Linkedin](https://www.linkedin.com/in/alexis-torrealba-correa/)
 JiyinShao
 sleeping-sword
--[Justice Udehegbunam](https://github.com/justice-udehegbunam/justice-udehegbunam) [Linkedin](https://www.linkedin.com/in/justice-udehegbunam)  
+-[Justice Udehegbunam ](https://github.com/justice-udehegbunam/justice-udehegbunam) [Linkedin](https://www.linkedin.com/in/justice-udehegbunam)  
 -[Humanoid2005](https://github.com/Humanoid2005) Learning how to contribute to open source using git,github
 - [Venkatesh Jamge](https://github.com/venkateshjamge)
 - [Nwachukwu Michael](https://github.com/Michael-Nwachukwu)
