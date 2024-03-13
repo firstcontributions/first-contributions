@@ -1,5 +1,5 @@
 # Contributors
--[ivywu_0818] (https://github.com/IvyWu0818/first-contributions.git)
+-[ivywu 0818] (https://github.com/IvyWu0818/first-contributions.git)
 -[Mai Mable Thet](https://github.com/EmeraldMable)
 - [Riyaz Shaik](https://github.com/ShaikRiyaz2003) || [Riyaz Shaik](https://www.linkedin.com/in/shaikriyaz03/)
 - Jayanth K
