@@ -497,6 +497,7 @@ something...changed
 - [Saif](https://github.com/wolfiee42)
 - [Phil Mach] (https://github.com/philmach2/philmach2)
 - [Jeremy Reinoso 👑](https://github.com/jeremy511)
+Jasmine
 - [Lester Zipperer] (https://github.com/cowoftheball)
 - [Ghanashyam R](https://github.com/ghanashyam-r)
 - [Boitumelo Tshehla](https://github.com/B-Tshehla)
