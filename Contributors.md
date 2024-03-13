@@ -1,6 +1,8 @@
 git add Contributors.md# Contributors
 
-- [WilsonDai] -[Mai Mable Thet](https://github.com/EmeraldMable)
+Pereira
+- [WilsonDai]
+-[Mai Mable Thet](https://github.com/EmeraldMable)
 - [Riyaz Shaik](https://github.com/ShaikRiyaz2003) || [Riyaz Shaik](https://www.linkedin.com/in/shaikriyaz03/)
 - Jayanth K -[David Okon](https://github.com/davidemusi) -[MrFrog](https://github.com/MrFrogIsMe) -[Aidan Palmer](https://github.com/aidan-palmer)
 - [Priyanshu](https://github.com/Priyanshu085) || [LinkedIn](https://www.linkedin.com/in/Priyanshu085) || [Twitter](https://www.twitter.com/Priyanshux085)
@@ -11,6 +13,7 @@ git add Contributors.md# Contributors
 - [Kuth Chi](https://github.com/kuth-chi) [Linkedin](https://www.linkedin.com/in/kuth-chi)
 - [Abhishek Agrawal](https://github.com/Abhi)
 - [Ogo Nelson](https://github.com/OgoNelson) [Twitter](https://www.twitter.com/ogo_nelson)
+-[ekalaitzis](https://github.com/ekalaitzis)
 - [Gilbert Bageni](https://github.com/bagenigilbert) [Linkedin](https://www.linkedin.com/in/gilbert-bageni-9413242a3/)
 - [Shubham Kumar](https://github.com/shubh1777) 📲[LinkedIn](https://www.linkedin.com/in/shubham-kumar1777/)
 - [Lenox Miheso](https://github.com/brownred) Just got my first remote job. came here for a refresher
@@ -42,6 +45,7 @@ git add Contributors.md# Contributors
 - [Hemalatha Parisa](https://github.com/mannemhema)
 - [Adams Ahmed](https://github.com/Harmedino)
 - [Davie Kibet](https://github.com/daviewisdm)
+- [Jooin](https://github.com/firstcontributions/first-contributions)
 - [Mohmmed Ayesh](https://github.com/mohmmadAyesh)
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
 - [Siam Rahman](https://github.com/SiamRahman29) [LinkedIn](https://www.linkedin.com/in/siamrahman-29/)
@@ -54,6 +58,7 @@ git add Contributors.md# Contributors
 - [chux] (https://github.com/codechux)
 - [MPC] (https://github.com/Myat-00)
 - Rambo
+- [111703012](https://github.com/caijinghong1468)
 - [Praneeth Gourla] (https://github.com/praneethgourla18)
 - [Olha Zakharchevna](https://github.com/zakharchevna)
 - [Maxime de Montbron](https://github.com/mijnog/) Just learning how to code
@@ -676,6 +681,7 @@ git add Contributors.md# Contributors
 - [Vitor Gonçalves] (https://github.com/vvttrr)
 - [Jimmy H] (https://github.com/jmhungdev)
 - [Atharva] (https://github.com/Atharva98)
+- [Yash Sharma] (https://github.com/cf06yash)
 - [Jett Koele] (https://github.com/jk2429)
 - [Ayush] (https://github.com/Aayush612)
 - [Vishaal] (https://github.com/vs22202)
