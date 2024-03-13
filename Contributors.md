@@ -20,6 +20,7 @@ JiyinShao
 sleeping-sword
 -[Humanoid2005](https://github.com/Humanoid2005) Learning how to contribute to open source using git,github
 - [Venkatesh Jamge](https://github.com/venkateshjamge)
+- [Hamza or StudHamza :0](https://github.com/StudHamza)
 - [Rudi Bakaal](https://github.com/rudibakaal)
 - [satoshi nakamoto](https://en.wikipedia.org/wiki/Adam_Back)
 - [James Kamz](https://github.com/JamesKamz)
