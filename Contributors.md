@@ -20,6 +20,7 @@ JiyinShao
 - [Ashish Lakra](https://github.com/ashishlakraa)
 - [Jay Gaha](https://github.com/jaygaha) First contribution 🦾
 - [CodeXhale] (https://github.com/CodeXhale): My First Open-source Contribution 🎉.
+- [Jai](https://github.com/DarkTechPirate)
 - [Shota Totsuka](https://github.com/ShotaTotsuka)
 - [Ted Kouhouenou](https://github.com/Tednoob17)
 - [Habishath Thavachelvan](https://github.com/habishath)
@@ -1707,6 +1708,7 @@ Romeu Leite
 - [matthew]
 - [MertKy](https://github.com/MertKy/)
 - [ArcXeon](https://github.com/ArcXeon/)
+
 - [allaert](https://github.com/allaert/)
 - [Tin](https://github.com/Tincando)
 - [Krishna](https://github.com/Krishna01work)
