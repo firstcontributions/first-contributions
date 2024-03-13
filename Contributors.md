@@ -6,11 +6,11 @@
 - [Gilbert Bageni](https://github.com/bagenigilbert) [Linkedin](https://www.linkedin.com/in/gilbert-bageni-9413242a3/)
 - [Shubham Kumar](https://github.com/shubh1777) 📲[LinkedIn](https://www.linkedin.com/in/shubham-kumar1777/)
 - [Lenox Miheso](https://github.com/brownred) Just got my first remote job. came here for a refresher JiyinShao
-- [Shiva Doddi](https://github.com/shiva0500)
+- [Shiva Doddi](https://github.com/shiva0500) 
 - [Rudi Bakaal](https://github.com/rudibakaal)
 - [Cyril Azubuine](https://github.com/cyrilberrypi) [LinkedIn](https://www.linkedin.com/in/cyril-azubuine/) [X](https://twitter.com/iamcyril_edtech)
 - [Ashish Lakra](https://github.com/ashishlakraa)
-- [Jay Gaha](https://github.com/jaygaha) First contribution 🦾
+- [Jay Gaha](https://github.com/jaygaha) First contribution 
 - [Shota Totsuka](https://github.com/ShotaTotsuka)
 - [Adams Ahmed](https://github.com/Harmedino)
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
@@ -154,7 +154,7 @@ Kencham Vinay
 -[SahiL](https://github.com/SahiLmb)
 -[elfarsif](https://github.com/elfarsif)
 -[Cld0033}(https://github.com/Cld0033)]
--[SarthakSource](https://github.com/Sarthaksource): My first contribution :)
+-[SarthakSource](https://github.com/Sarthaksource): My first contribution
 -[ApostolosKourpadakis](https://github.com/ApostolosKourpadakis)
 -[majobasgall](https://github.com/majobasgall)
 -[caseyhchan](https://github.com/caseyhchan)
