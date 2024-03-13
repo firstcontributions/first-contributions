@@ -342,6 +342,7 @@ Kencham Vinay
 -[MYT] (https://github.com/moeyanhtun)
 -[NNO] (https://github.com/nwenioo)
 -Prasad
+- [Terry] (https://github.com/Xsszbhzxsl)
 - [G Madhu Sudan Reddy](https://github.com/geekofcodes) 👨‍💻💡💻📚🔍
 - [Raven842](https://github.com/Raven842)
 -[Salmaan Ismath Hameed](https://github.com/SalmaanHameed)
@@ -517,6 +518,7 @@ something...changed
 - [Mohsine Mosin(x)]
 - [Jakub Cabala] (https://github.com/jCabala)
 - [Tyler Austin]
+- [Terry]
 - th0rnium
 - [Brady Wisniewski]
 - [AvionShea](https://github.com/AvionShea)
@@ -3120,4 +3122,5 @@ LadegbayeStella)
 - [He Wentao](https://github.com/goodmorning_hwt)
 - [Suchith Sameeri Balne](https://github.com/suchithbalne)
 - [Niyigena Fiston Alvin](https://github.com/ALVINdimpos)
+- [Terry](https://github.com/Xsszbhzxsl)
 
