@@ -39,6 +39,7 @@ Hannah Sung
 - [Hemalatha Parisa](https://github.com/mannemhema)
 - [Adams Ahmed](https://github.com/Harmedino)
 - [Davie Kibet](https://github.com/daviewisdm)
+- [Jooin](https://github.com/firstcontributions/first-contributions)
 - [Mohmmed Ayesh](https://github.com/mohmmadAyesh)
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
 - [Siam Rahman](https://github.com/SiamRahman29) [LinkedIn](https://www.linkedin.com/in/siamrahman-29/)
