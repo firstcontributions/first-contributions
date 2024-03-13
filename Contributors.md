@@ -1909,6 +1909,7 @@ Alexander
 - [Sagar Shelke](https://github.com/seeprogramming)
 - [Wilson Chin](https://github.com/shitofshit)
 - [Sophie S](https://github.com/ssun00)
+- [Harsha Siddalingachar](https://www.github.com/sharsha315)
 - [JayeLee17](https://github.com/JayeLee17)
 - [Niranjan Khedkar](https://github.com/Niranjan2048)
 - [K S Sai Teja](https://github.com/kssaiteja)
