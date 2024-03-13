@@ -1,10 +1,14 @@
 # Contributors
 
+- [Mai Mable Thet](https://github.com/EmeraldMable)
 - [Riyaz Shaik](https://github.com/ShaikRiyaz2003) || [Riyaz Shaik](https://www.linkedin.com/in/shaikriyaz03/)
 - [![Dharamveer Singh](https://img.shields.io/badge/Dharamveer%20Singh-blue?style=flat-square)](https://dveersingh000.github.io/My-Portfolio/) [![GitHub](https://img.shields.io/badge/GitHub-blue?style=flat-square&logo=github)](https://github.com/dveersingh000) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dharamveer-singh-8585a72b3/) [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/Dharamv1997)
-
+- [Aidan Palmer](https://github.com/aidan-palmer)
+- Jayanth K
+- [David Okon](https://github.com/davidemusi)
 - [Aidan Palmer](https://github.com/aidan-palmer)
 - [Priyanshu](https://github.com/Priyanshu085) || [LinkedIn](https://www.linkedin.com/in/Priyanshu085) || [Twitter](https://www.twitter.com/Priyanshux085)
+- [Olibhia Ghosh](https://github.com/OlibhiaGhosh) || [LinkedIn](https://www.linkedin.com/in/olibhiaghosh/) || [Twitter](https://twitter.com/OlibhiaGhosh)
 - [Siddharth Garg](https://github.com/Siddu24294)
 - [Sheng Xin](https://github.com/sheng0321)
 - [Kuth Chi](https://github.com/kuth-chi) [Linkedin](https://www.linkedin.com/in/kuth-chi)
@@ -13,8 +17,8 @@
 - [Gilbert Bageni](https://github.com/bagenigilbert) [Linkedin](https://www.linkedin.com/in/gilbert-bageni-9413242a3/)
 - [Shubham Kumar](https://github.com/shubh1777) 📲[LinkedIn](https://www.linkedin.com/in/shubham-kumar1777/)
 - [Lenox Miheso](https://github.com/brownred) Just got my first remote job. came here for a refresher
-JiyinShao
--[Humanoid2005](https://github.com/Humanoid2005) Learning how to contribute to open source using git,github
+- JiyinShao
+- [Humanoid2005](https://github.com/Humanoid2005) Learning how to contribute to open source using git,github
 - [Venkatesh Jamge](https://github.com/venkateshjamge)
 - [Rudi Bakaal](https://github.com/rudibakaal)
 - [satoshi nakamoto](https://en.wikipedia.org/wiki/Adam_Back)
