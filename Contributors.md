@@ -31,6 +31,7 @@ sleeping-sword
 - [Cyril Azubuine](https://github.com/cyrilberrypi) [LinkedIn](https://www.linkedin.com/in/cyril-azubuine/) [X](https://twitter.com/iamcyril_edtech)
 Hannah Sung
 - [Ashish Lakra](https://github.com/ashishlakraa)
+- [Lakshmi Suhrutha]
 - [Jay Gaha](https://github.com/jaygaha) First contribution 🦾
 - [Joy Huang](https://github.com/joyeee)
 - [CodeXhale] (https://github.com/CodeXhale): My First Open-source Contribution 🎉.
