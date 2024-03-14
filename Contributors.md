@@ -22,6 +22,7 @@ Pereira
 - [Olibhia Ghosh](https://github.com/OlibhiaGhosh) || [LinkedIn](https://www.linkedin.com/in/olibhiaghosh/) || [Twitter](https://twitter.com/OlibhiaGhosh)
 - [Siddharth Garg](https://github.com/Siddu24294)
 - [Sheng Xin](https://github.com/sheng0321)
+- [Lennart Enns](https://github.com/LennartEnns)
 - **`msbala`** - [Enter into the Kernal 👨‍💻](https://msbalacse.vercel.app/) [➡️ Github](https://github.com/msbalacse) 
 - [Kuth Chi](https://github.com/kuth-chi) [Linkedin](https://www.linkedin.com/in/kuth-chi)
 - [Abhishek Agrawal](https://github.com/Abhi)
