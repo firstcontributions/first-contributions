@@ -52,6 +52,7 @@ sleeping-sword
 Hannah Sung
 - [Ashish Lakra](https://github.com/ashishlakraa)
 - [Lakshmi Suhrutha]
+- [Jal shah](https://github.com/Jal5452)
 - [Jay Gaha](https://github.com/jaygaha) First contribution 🦾
 - [Joy Huang](https://github.com/joyeee)
 - [CodeXhale] (https://github.com/CodeXhale): My First Open-source Contribution 🎉.
