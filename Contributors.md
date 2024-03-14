@@ -34,6 +34,7 @@ Pereira
 - [Shubham Kumar](https://github.com/shubh1777) 📲[LinkedIn](https://www.linkedin.com/in/shubham-kumar1777/)
 - [Lenox Miheso](https://github.com/brownred) Just got my first remote job. came here for a refresher
 -[Alexis Torrealba](https://github.com/Alexis-Torrealba) [Linkedin](https://www.linkedin.com/in/alexis-torrealba-correa/)
+- Arnav Arora https://github.com/Arnalv
 JiyinShao
 sleeping-sword
 -[Justice Udehegbunam ](https://github.com/justice-udehegbunam/justice-udehegbunam) [Linkedin](https://www.linkedin.com/in/justice-udehegbunam)  
