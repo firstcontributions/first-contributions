@@ -2,8 +2,6 @@ git add Contributors.md# Contributors
 
 - [Kai Breese](https://github.com/ninjakaib)
 Pereira
-- [Valentyn Novosydliuk](https://github.com/ValentynNVS)
-/Hyungseop 1872a3a8f (Add Hyungseop to Contributors list)
 - [WilsonDai]
 - [110207434](https://github.com/ver0n1ca1213/first-contributions.git)
 -[Mai Mable Thet](https://github.com/EmeraldMable)
@@ -11,7 +9,6 @@ Pereira
 - [Riyaz Shaik](https://github.com/ShaikRiyaz2003) || [Riyaz Shaik](https://www.linkedin.com/in/shaikriyaz03/)
 - Jayanth K
 - ericbox
--Anchita Kakria
 -[David Okon](https://github.com/davidemusi)
 -[Steven Bennett](https://github.com/r3m3dial-g3nius)
 -[Aidan Palmer](https://github.com/aidan-palmer)
@@ -99,6 +96,7 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
 - [Kishaiyan Thangaraj](https://github.com/kishaiyan)
 - [Arbin Shrestha](https://github.com/arbeen)
 - [Ib4Y5f](https://github.com/Ib4Y5f)
+- Alexia Tu
 - [Mateo Minghi](https://github.com/MateoMinghi)
 - [Kashishkumar Shah](https://github.com/shahkashish)
 - [Cynthia Aoko](https://github.com/aoko-code)
@@ -139,7 +137,6 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
 - [Giovane Aguiar](https://github.com/giovane-aG)
 - [Harrison Groves](https://github.com/pkfy)
 - [YxNiI](https://github.com/YxNiI)
-- Zhizheng 
 Kencham Vinay
 -[Rahul Vinod](https://github.com/rahulv555)
 -[Anikhet Mulky](https://github.com/Anikhet)
@@ -321,7 +318,6 @@ Kencham Vinay
 - [Rohit Manivel] (https://github.com/rohit-iwnl)
 - [Tyler Twitchell](https://github.com/tytwitchell)
 - [Samuel Edwards](https://github.com/samuel-elijah-edwards/)
-- Bhawanjeet Kaur Gill
 - [Muhammad Ibthaj Sami](https://github.com/IbthajSami/)
 - [Aryan Mathiesen](https://github.com/aryziz)
 - [Bianca Salcedo](https://github.com/Biancadmsa)
@@ -1113,7 +1109,6 @@ Romeu Leite
 - [K G Tint Swe](https://github.com/KG6605)
 - [K G Tint Swe](https://github.com/KG6605)
 - [Dithi-Fuzzythinker](https://github.com/fuzzythinker)
-- [DEBAJYOTI GHOSH](https://convolexa-2503.web.app/) [GITHUB](https://github.com/DGRYZER) [LINKEDIN](https://www.linkedin.com/in/dgryzer/)
 - [Muhammad-Ghufran-Ali](https://github.com/ghufran2508)
 - [Rohit R](https://github.com/Rohr0) 🔥
 - [17LingShan](https://github.com/17LingShan)
