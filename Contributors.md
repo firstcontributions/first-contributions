@@ -11,6 +11,7 @@ JiyinShao
 - [Rudi Bakaal](https://github.com/rudibakaal)
 - [Rahul Patanwadia](https://github.com/Rahul-Patanwadia)
 - [Cyril Azubuine](https://github.com/cyrilberrypi) [LinkedIn](https://www.linkedin.com/in/cyril-azubuine/) [X](https://twitter.com/iamcyril_edtech)
+- [Federico Massara](https://github.com/femas1) [LinkedIn](https://www.linkedin.com/in/federico-massara/)
 - [Ashish Lakra](https://github.com/ashishlakraa)
 - [Jay Gaha](https://github.com/jaygaha) First contribution 🦾
 - [CodeXhale] (https://github.com/CodeXhale): My First Open-source Contribution 🎉.
