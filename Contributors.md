@@ -16,6 +16,7 @@ Pereira
 -[Steven Bennett](https://github.com/r3m3dial-g3nius)
 -[Aidan Palmer](https://github.com/aidan-palmer)
 -[Saskia George](https://github.com/SaskiaGeorge)
+-[Udit Kirar](https://github.com/UditKirar)
 -[Nikhil21](https://github.com/Nikhil-bit21)
 - [Priyanshu](https://github.com/Priyanshu085) || [LinkedIn](https://www.linkedin.com/in/Priyanshu085) || [Twitter](https://www.twitter.com/Priyanshux085)
 - [Olibhia Ghosh](https://github.com/OlibhiaGhosh) || [LinkedIn](https://www.linkedin.com/in/olibhiaghosh/) || [Twitter](https://twitter.com/OlibhiaGhosh)
