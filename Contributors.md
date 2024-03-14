@@ -12,6 +12,7 @@ Pereira
 - Jayanth K
 - ericbox
 -Anchita Kakria
+- pritam sonmane
 -[Rahul Rai](https://github.com/Rahulrai888)
 -[David Okon](https://github.com/davidemusi)
 -[Steven Bennett](https://github.com/r3m3dial-g3nius)
