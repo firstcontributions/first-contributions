@@ -1,5 +1,6 @@
 git add Contributors.md# Contributors
 
+- [Kai Breese](https://github.com/ninjakaib)
 Pereira
 - [WilsonDai]
 -[Mai Mable Thet](https://github.com/EmeraldMable)
