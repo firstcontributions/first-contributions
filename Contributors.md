@@ -317,6 +317,7 @@ Kencham Vinay
 - [Rohit Manivel] (https://github.com/rohit-iwnl)
 - [Tyler Twitchell](https://github.com/tytwitchell)
 - [Samuel Edwards](https://github.com/samuel-elijah-edwards/)
+- Bhawanjeet Kaur Gill
 - [Muhammad Ibthaj Sami](https://github.com/IbthajSami/)
 - [Aryan Mathiesen](https://github.com/aryziz)
 - [Bianca Salcedo](https://github.com/Biancadmsa)
