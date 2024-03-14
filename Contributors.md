@@ -3,6 +3,7 @@ git add Contributors.md# Contributors
 - [Kai Breese](https://github.com/ninjakaib)
 Pereira
 - [Valentyn Novosydliuk](https://github.com/ValentynNVS)
+/Hyungseop 1872a3a8f (Add Hyungseop to Contributors list)
 - [WilsonDai]
 - [110207434](https://github.com/ver0n1ca1213/first-contributions.git)
 -[Mai Mable Thet](https://github.com/EmeraldMable)
