@@ -5,6 +5,7 @@ Pereira
 -[Mai Mable Thet](https://github.com/EmeraldMable)
 - [Riyaz Shaik](https://github.com/ShaikRiyaz2003) || [Riyaz Shaik](https://www.linkedin.com/in/shaikriyaz03/)
 - Jayanth K
+- ericbox
 -[David Okon](https://github.com/davidemusi)
 -[Steven Bennett](https://github.com/r3m3dial-g3nius)
 -[Aidan Palmer](https://github.com/aidan-palmer)
