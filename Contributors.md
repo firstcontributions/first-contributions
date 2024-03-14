@@ -1,5 +1,5 @@
 git add Contributors.md# Contributors
-
+[Kostia Novosydliuk](https://github.com/a1stok) 
 Pereira
 - [WilsonDai]
 -[Mai Mable Thet](https://github.com/EmeraldMable)
