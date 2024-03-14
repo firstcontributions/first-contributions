@@ -798,6 +798,7 @@ Jasmine
 - [Yash Sharma] (https://github.com/cf06yash)
 - [Jett Koele] (https://github.com/jk2429)
 - [Ayush] (https://github.com/Aayush612)
+- [Thasneem Chalil] (https://github.com/thasneem9)
 - [Vishaal] (https://github.com/vs22202)
 - [Sergio DG](https://github.com/dgsergio)
 - [Abhinav] (https://github.com/saiabhinav75)
@@ -3171,4 +3172,3 @@ guanj65
 - [Luke Padiachy](https://github.com/lukepadiachy)
 - [Danh Pham](https://github.com/danhpham2000) 
 - [hsumiyoshi](https://github.com/hsumiyoshi)
-
