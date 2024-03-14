@@ -1113,6 +1113,7 @@ Romeu Leite
 - [satyam1024](https://github.com/satyam1024)
 - [Harishraj Selvakumar](https://github.com/ByteBender24)
 - [Lucas Balieiro](https://github.com/LucasMBalieiro) Aprendi a usar SSH finalmente ;-;
+- [stjepanDeveloper](https://github.com/stjepanDeveloper)
 - [Sandesh KV](https://github.com/SandeshAmin)
 - [Abhi Patil](https://github.com/Abhisucks)
 - [Xin Xiao](https://github.com/ThetNaingLin7)
