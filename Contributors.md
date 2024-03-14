@@ -56,6 +56,7 @@ igntius praise
 - [Arshea Atif](https://github.com/arshea-02)
 - [Cyril Azubuine](https://github.com/cyrilberrypi) [LinkedIn](https://www.linkedin.com/in/cyril-azubuine/) [X](https://twitter.com/iamcyril_edtech)
 Hannah Sung
+- [Pratik Mangalore]
 - [Ashish Lakra](https://github.com/ashishlakraa)
 - [Lakshmi Suhrutha]
 - [Jal shah](https://github.com/Jal5452)
