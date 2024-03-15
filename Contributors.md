@@ -333,6 +333,7 @@ Kencham Vinay
 - [Jeffrey Huang] (http://github.com/abandons)
 - [Rohit Manivel] (https://github.com/rohit-iwnl)
 - [Tyler Twitchell](https://github.com/tytwitchell)
+- [Farzana Eva] [Linkedin](www.linkedin.com/in/farzana-eva/) [GitHub](https://github.com/FarzanaEva)
 - [Samuel Edwards](https://github.com/samuel-elijah-edwards/)
 - Bhawanjeet Kaur Gill
 - [Muhammad Ibthaj Sami](https://github.com/IbthajSami/)
