@@ -1243,6 +1243,7 @@ Romeu Leite
 - [Rohit Singh](https://github.com/Rataash99)
 - [Palash Chitnavis](https://github.com/PalashChitnavis)
 - [abedalavi](https://github.com/abedalavi)
+- [StablePeru] (https://github.com/StablePeru)
 - [Zack F]
 - [Julian]
 - [Delton Hughes](https://github.com/dHughes97)
