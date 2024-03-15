@@ -3196,5 +3196,6 @@ guanj65
 - [Danh Pham](https://github.com/danhpham2000) 
 - [hsumiyoshi](https://github.com/hsumiyoshi)
 - [Sivakumar Manoharan](https://github.com/sivakumarmanoharan)
+- [Hans Christian Alencar](https://github.com/chroanz)
 - [Tadiwanashe Rukasha](https://github.com/Tadiwa20)
 
