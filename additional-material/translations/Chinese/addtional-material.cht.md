@@ -11,7 +11,7 @@
 > 如果你的分叉沒有對原始 repository 做改變，根據這些步驟做操作。
 
 ### [回復 commit](../../git_workflow_scenarios/reverting-a-commit.md)
-這份文件提供如何對遠端 repository 回復 commit。這項操作適用在你需要回復 commit，但你已經 push 到 Github。
+這份文件提供如何對遠端 repository 回復 commit。這項操作適用在你需要回復 commit，但你已經 push 到 GitHub。
 > 如果你想要回復 commit，根據這些步驟操作。
 
 ### [修訂 commit](../../git_workflow_scenarios/amending-a-commit.md)
