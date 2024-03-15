@@ -172,6 +172,7 @@ Kencham Vinay
 -[Roel Leal] (https://github.com/RoelLeal)
 -[Dario Tintore] (https://github.com/DarioTintore)
 - [Mubarak Olanrewaju](https://github.com/Freedteck)
+- [Ruchik Pravasi](https://github.com/rcipdev)
 -[Aswin Jose](https://github.com/aswinjose89)
 -[Moe Sidibeh](https://github.com/kkonteh97)
 -[Alan Winters](https://github.com/winters-ag)
