@@ -21,6 +21,7 @@ Pereira
 - Dan Armstrong (https://github.com/Dannyarms)
 -Anchita Kakria
 - pritam sonmane
+Beatriz Guerrero https://github.com/Beatriz-G
 -[Rahul Rai](https://github.com/Rahulrai888)
 -[David Okon](https://github.com/davidemusi)
 -[Steven Bennett](https://github.com/r3m3dial-g3nius)
