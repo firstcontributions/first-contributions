@@ -187,7 +187,8 @@ Kencham Vinay
 - [Alan Montgomery](https://github.com/alanmontgomery)
 - [Santu Dhali](https://github.com/santu-dhali): just checking how to contribute in open source.
 - [John L](https://github.com/john89521)
-- [Olivia Hinson] (https://github.com/ohinson01): my first open-source contribution. 
+- [Olivia Hinson] (https://github.com/ohinson01): my first open-source contribution.
+guanj65
 - [Harjas Singh](https://github.com/harjasae2001)
 - [Corbin Griffin](https://github.com/Kaboombafoo)
 - [Hari prasad1](https://github.com/haripd)
