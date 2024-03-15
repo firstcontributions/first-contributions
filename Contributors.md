@@ -18,6 +18,7 @@ Pereira
 - [Seb Gillman](https://github.com/SebGillman)
 - Jayanth K
 - ericbox
+- Dan Armstrong (https://github.com/Dannyarms)
 -Anchita Kakria
 - pritam sonmane
 -[Rahul Rai](https://github.com/Rahulrai888)
