@@ -10,9 +10,11 @@ Pereira
 - [110207434](https://github.com/ver0n1ca1213/first-contributions.git)
 -[Mai Mable Thet](https://github.com/EmeraldMable)
 -[Gaurav Sharma](https://github.com/IsmartGaurav) || [Gaurav Sharma](www.linkedin.com/in/ismartgaurav)
+- [Itzel Bailon] (https://github.com/Xatziri)
 - [Riyaz Shaik](https://github.com/ShaikRiyaz2003) || [Riyaz Shaik](https://www.linkedin.com/in/shaikriyaz03/)
 - Ryan Lee
 107703027
+- [Seb Gillman](https://github.com/SebGillman)
 - Jayanth K
 - ericbox
 -Anchita Kakria
@@ -3216,4 +3218,5 @@ guanj65
 - [Tadiwanashe Rukasha](https://github.com/Tadiwa20)
 - [Hoang](https://github.com/hoang227)
 - [BS Dev01](https://github.com/bluestairway)
+- [Jouhar](https://github.com/maja-98)
 
