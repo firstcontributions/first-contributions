@@ -715,6 +715,7 @@ Jasmine
 - [Charles Luguda](https://github.com/charlesluguda)
 - [Ryan Lo](https://github.com/Lo-Mein)
 - [Brayan Arango](https://github.com/brakito)
+- [Adam English](https://github.com/AdamTWEnglish)
 - [Servet iltuzer](https://github.com/iltuzers)
 - [JerryHuangYu](https://github.com/jerryhuangyu)
 - [AubreyMalabie](https://github.com/malengatiger)
