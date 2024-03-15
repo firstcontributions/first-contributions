@@ -3181,6 +3181,7 @@ mohit
 - [Rajeev Lochan Dash](https://github.com/RajeevDash007)
 guanj65
 - [He Wentao](https://github.com/goodmorning_hwt)
+- [Trung Truong](https://github.com/trungtruong1)
 - [Suchith Sameeri Balne](https://github.com/suchithbalne)
 - [Niyigena Fiston Alvin](https://github.com/ALVINdimpos)
 - [Claire]
