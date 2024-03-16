@@ -1627,6 +1627,7 @@ Romeu Leite
 - [Thawzin](https://github.com/Thawzin229)
 - [Alex András Mándrik](https://github.com/alexmandrikdev)
 - hello
+- [MARCEl0 T0RRES](https://github.com/mjtp/surf_scout)
 - hi
 - [arsha32 ](https://github.com/arsha32)
 - [Tabish Shamim](https://github.com/tabishshamim10)
