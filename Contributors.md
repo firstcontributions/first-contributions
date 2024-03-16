@@ -198,6 +198,7 @@ Kencham Vinay
 -[Juan Cruz Francitorra](https://github.com/Jufaa)
 -[Akshat Shukla](https://github.com/Akshat-0001)
 -[Venkatesh S Meti](https://github.com/venkateshmeti1432)
+-[Jude Idoko] (https://github.com/judidoko)
 - [Stella Maina](https://github.com/Stella Maina)
 -[Roel Leal] (https://github.com/RoelLeal)
 -[Dario Tintore] (https://github.com/DarioTintore)
