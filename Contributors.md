@@ -606,6 +606,7 @@ Jasmine
 - [Brady Wisniewski]
 - [AvionShea](https://github.com/AvionShea)
 - [stefisha](https://github.com/stefisha)
+- [Just1Car](https://github.com/Just1Carrr)
 - [Benjamin Cha]
 - [Nolan Newman]
 - [Eli Vatsaas]
