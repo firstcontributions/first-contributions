@@ -20,6 +20,7 @@ Pereira
 - [Riyaz Shaik](https://github.com/ShaikRiyaz2003) || [Riyaz Shaik](https://www.linkedin.com/in/shaikriyaz03/)
 - Ryan Lee
 107703027
+  [viswanathr]
 -Khushi Joshi 
 - [Seb Gillman](https://github.com/SebGillman)
 - Jayanth K
@@ -1794,6 +1795,7 @@ Romeu Leite
 - [Abdulhaleem Sanuth](https://github.com/Abdulhaleem-6)
 - [CaitlinIsShort](https://github.com/caitlinisshort)
 - myname
+- [viswanathr](https://github.com/viswanathr73)
 - [Filippos Gkotsopoulos](https://github.com/fgkotsopoulos)
 - [Akashzealzoft](https://github.com/Akashzealzoft)
 - [Pritam Das](https://github.com/4ritam)
