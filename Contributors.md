@@ -1,4 +1,7 @@
 git add Contributors.md# Contributors
+ my_branch
+  
+
 
 - [Kai Breese](https://github.com/ninjakaib)
 Pereira
@@ -6,13 +9,18 @@ Pereira
 - [Incognito Dark](https://github.com/ncgntdrk)
 - [Valentyn Novosydliuk](https://github.com/ValentynNVS)
 /Hyungseop 1872a3a8f (Add Hyungseop to Contributors list)
+ main
 - [WilsonDai]
 -[Soyoon Moon](https://github.com/soyoonmoon)
 - [110207434](https://github.com/ver0n1ca1213/first-contributions.git)
 -[Mai Mable Thet](https://github.com/EmeraldMable)
+ my_branch
+- [Khushi Joshi] (https://www.linkedin.com/in/khushi-joshi-60a9a6264/)
+
 -[Priya kumari](https://github.com/priya20003)
 -[Gaurav Sharma](https://github.com/IsmartGaurav) || [Gaurav Sharma](www.linkedin.com/in/ismartgaurav)
 - [Itzel Bailon] (https://github.com/Xatziri)
+main
 - [Riyaz Shaik](https://github.com/ShaikRiyaz2003) || [Riyaz Shaik](https://www.linkedin.com/in/shaikriyaz03/)
 - Ryan Lee
 107703027
