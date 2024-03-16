@@ -1,4 +1,4 @@
-git add Contributors.md# Contributors
+ git add Contributors.md# Contributors
 
 - [Kai Breese](https://github.com/ninjakaib)
 Pereira
@@ -188,6 +188,7 @@ Kencham Vinay
 -[Yogeshwar Khurmi](https://github.com/ykverma99)
 -[Azucena Marroquin](https://github.com/azucena-m)
 -[Dogukan Aysan](https://github.com/dogukan-aysan)
+- [Open Source Day](https://github.com/mwanyumba7)
 -[Juan Cruz Francitorra](https://github.com/Jufaa)
 -[Akshat Shukla](https://github.com/Akshat-0001)
 -[Venkatesh S Meti](https://github.com/venkateshmeti1432)
