@@ -2687,6 +2687,7 @@ LadegbayeStella)
 - [@alberto-vgs] (https://github.com/Alberto-Vgs)
 -[Alen-S-J](https://github.com/Alen-S-J)
 - [Rohail Khan](https://github.com/Rohxilk)
+- [Anastasia] (https://github.com/ana-limone)
 -[s-kontrol](https://github.com/s-kontrol/contributions) Thank you!!!
 -[jonasermert](https://github.com/jonasermert)
 - [ivborrezo](https://github.com/ivborrezo)
