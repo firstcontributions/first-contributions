@@ -17,6 +17,7 @@ Pereira
 - [Riyaz Shaik](https://github.com/ShaikRiyaz2003) || [Riyaz Shaik](https://www.linkedin.com/in/shaikriyaz03/)
 - Ryan Lee
 107703027
+-Khushi Joshi 
 - [Seb Gillman](https://github.com/SebGillman)
 - Jayanth K
 - ericbox
