@@ -1601,6 +1601,7 @@ Romeu Leite
 - [Ryan Kembrey](https://github.com/ryankembrey)
 - [Rohit Kumar](https://github.com/Rohit10701)
 - [Fedevcoding](https://github.com/fedevcoding)
+
 - [Abdulsalam Yusuf](https://github.com/hyoukarh)
 - [Sanjana](https://github.com/sanjanabharath)
 - [Lokesh Kumawat] (https://github.com/lokkeshhhhh)
@@ -1632,7 +1633,7 @@ Romeu Leite
 - [Aryan Mehta](https://github.com/aryan-mehta)
 - [Mayank Bhatnagar](https://github.com/maxH4k5s)
 - [Sab3ha](https://github.com/Sab3ha)
-
+- [Shengjie Yu]
 - [HosamEldeen Reda](https://github.com/hosamr)
 - [Nishar Miya](https://github.com/miyannishar)
 - [Ogunleye](https://github.com/ogunleye0720)
