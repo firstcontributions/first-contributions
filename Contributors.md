@@ -14,6 +14,7 @@ JiyinShao
 - [Ashish Lakra](https://github.com/ashishlakraa)
 - [Jay Gaha](https://github.com/jaygaha) First contribution 🦾
 - [Shota Totsuka](https://github.com/ShotaTotsuka)
+- [Pradip Manna](https://github.com/Loosify00)
 - [Habishath Thavachelvan](https://github.com/habishath)
 - [Sarvajith Adyanthaya](https://github.com/Chillthrower)
 - [Hemalatha Parisa](https://github.com/mannemhema)
