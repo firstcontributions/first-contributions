@@ -2,6 +2,7 @@ git add Contributors.md# Contributors
 
 - [Kai Breese](https://github.com/ninjakaib)
 Pereira
+-[swapnil sonawane](https://github.com/swaps05)
 - [Akshar Kalathiya](https://github.com/Akshar062)
 - [Incognito Dark](https://github.com/ncgntdrk)
 - [Valentyn Novosydliuk](https://github.com/ValentynNVS)
