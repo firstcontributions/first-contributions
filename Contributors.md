@@ -43,6 +43,7 @@ Beatriz Guerrero https://github.com/Beatriz-G
 - [Kuth Chi](https://github.com/kuth-chi) [Linkedin](https://www.linkedin.com/in/kuth-chi)
 - [Abhishek Agrawal](https://github.com/Abhi)
 - [Ogo Nelson](https://github.com/OgoNelson) [Twitter](https://www.twitter.com/ogo_nelson)
+- [Joyce Serah](https://github.com/JoyceSerah)
 - [Akira Machimura](https://github.com/AkrMcmr) [Twitter](https://twitter.com/machi_heigh_ho)
 -[ekalaitzis](https://github.com/ekalaitzis)
 - [Gilbert Bageni](https://github.com/bagenigilbert) [Linkedin](https://www.linkedin.com/in/gilbert-bageni-9413242a3/)
