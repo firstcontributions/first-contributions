@@ -3057,6 +3057,7 @@ LadegbayeStella)
 - [Luke Hardy]
 - [Aviv Barak]
 - [Kaitlyn](https://github.com/kbrandt8)
+- [Wesley David](https://github.com/euchoba)
 - [Hung-Ting Lee](https://github.com/gary136)
 - [WU Yue](https://github.com/lothronx)
 - [Emmanuel](https://github.com/EMorf)
