@@ -209,6 +209,7 @@ Kencham Vinay
 -[Alan Winters](https://github.com/winters-ag)
 -[Yuncheol Kwak](https://github.com/YunDo-Gi)
 -[Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
+-[Jacob Hall](https://github.com/jhallgd)
 -[Emad Alriyashi](https://github.com/Dev-Emad-777)
 -[Harsh Methwani](https://github.com/HarshMethwani)
 -[Shaurya Sambyal](https://github.com/ShauryaSambyal)
