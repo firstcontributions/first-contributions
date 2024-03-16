@@ -47,7 +47,8 @@ Ed62134927
 - [Hamza or StudHamza :0](https://github.com/StudHamza)
 - [Rudi Bakaal](https://github.com/rudibakaal)
 - Justin Blake
-igntius praise 
+igntius praise
+ddd 
 - [satoshi nakamoto](https://en.wikipedia.org/wiki/Adam_Back)
 - [Nada Ayesh](https://github.com/nadasuhailAyesh12)
 - [James Kamz](https://github.com/JamesKamz)
