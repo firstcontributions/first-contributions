@@ -684,6 +684,7 @@ Jasmine
 - [Shibli]
 - [vLeov](https://github.com/vLeov)
 - [rithas](https://github.com/rithasahmed12)
+- [Ayush Gupta](https://github.com/ayushgupta35)
 - [Ben Gale](https://github.com/Sabreco)
 - [AYL](https://github.com/Ayeyulwin)
 - [Jeffrey Symens] (https://github.com/SymensJeffrey)
