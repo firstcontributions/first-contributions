@@ -14,6 +14,7 @@ Pereira
 - ericbox
 -jay:
 -Anchita Kakria
+jay
 - pritam sonmane
 -[Rahul Rai](https://github.com/Rahulrai888)
 -[David Okon](https://github.com/davidemusi)
