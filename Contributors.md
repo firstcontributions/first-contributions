@@ -72,6 +72,7 @@ igntius praise
 Hannah Sung
 - ferrrr
 - [Pratik Mangalore]
+- [Irie B]
 - [Ashish Lakra](https://github.com/ashishlakraa)
 - [Lakshmi Suhrutha]
 - [Jal shah](https://github.com/Jal5452)
