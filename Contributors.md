@@ -1,6 +1,7 @@
 git add Contributors.md# Contributors
 
 - [Kai Breese](https://github.com/ninjakaib)
+- [Job Wamoyi](https://github.com/wamoyi)
 Pereira
 - [Akshar Kalathiya](https://github.com/Akshar062)
 - [Incognito Dark](https://github.com/ncgntdrk)
