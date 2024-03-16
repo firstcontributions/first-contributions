@@ -3242,4 +3242,5 @@ guanj65
 - [kanadome]
 - [wangjing](https://github.com/BeautifulJing)
 - [viteky](https://github.com/viteky)
+- [Kim Shaddy](https://github.com/shaddy1234)
 
