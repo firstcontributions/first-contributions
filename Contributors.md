@@ -21,6 +21,7 @@ Pereira
 - Ryan Lee
 107703027
 -Khushi Joshi 
+-Jacob Coles
 - [Seb Gillman](https://github.com/SebGillman)
 - Jayanth K
 - ericbox
