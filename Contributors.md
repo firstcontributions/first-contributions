@@ -12,6 +12,7 @@ Pereira
 - Ryan Lee
 - Jayanth K
 - ericbox
+-jay:
 -Anchita Kakria
 - pritam sonmane
 -[Rahul Rai](https://github.com/Rahulrai888)
