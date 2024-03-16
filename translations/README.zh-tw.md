@@ -13,7 +13,7 @@
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-如果你的電腦上尚未安裝 git，請按照這個[安裝指引（英文）](https://help.github.com/articles/set-up-git/)進行安裝。
+如果你的電腦上尚未安裝 Git，請按照這個[安裝指引（英文）](https://help.github.com/articles/set-up-git/)進行安裝。
 
 ## 分叉（Fork）本代碼庫
 
@@ -26,7 +26,7 @@
 
 接下來，將複製後的儲存庫複製到你/妳的電腦上。點選圖示中的綠色按鈕，接著點選複製到剪貼簿按鈕（將儲存庫地址複製下來）
 
-隨後打開命令列視窗，鍵入如下 git 命令：
+隨後打開命令列視窗，鍵入如下 Git 命令：
 
 ```bash
 git clone "url you just copied"

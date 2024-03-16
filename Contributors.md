@@ -5,6 +5,7 @@ Pereira
 - [Akshar Kalathiya](https://github.com/Akshar062)
 - [Incognito Dark](https://github.com/ncgntdrk)
 - [Valentyn Novosydliuk](https://github.com/ValentynNVS)
+- [Yee Kit Chan] (https://github.com/yeekitc)
 /Hyungseop 1872a3a8f (Add Hyungseop to Contributors list)
 - [WilsonDai]
 -[Soyoon Moon](https://github.com/soyoonmoon)
