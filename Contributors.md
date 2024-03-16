@@ -28,6 +28,7 @@ Beatriz Guerrero https://github.com/Beatriz-G
 -[David Okon](https://github.com/davidemusi)
 -[Steven Bennett](https://github.com/r3m3dial-g3nius)
 -[Aidan Palmer](https://github.com/aidan-palmer)
+- [Doddie Ayako](https://github.com/DoddieI)
 -[Basim Hilal V](https://github.com/basimhilalv)
 -[Saskia George](https://github.com/SaskiaGeorge)
 -[Udit Kirar](https://github.com/UditKirar)
