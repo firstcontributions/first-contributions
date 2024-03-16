@@ -4,6 +4,7 @@ git add Contributors.md# Contributors
 - [Job Wamoyi](https://github.com/wamoyi)
 Pereira
 - [Akshar Kalathiya](https://github.com/Akshar062)
+- [Jeffrey Murithi](https://github.com/Jeffmsvj52)
 - [Incognito Dark](https://github.com/ncgntdrk)
 - [Valentyn Novosydliuk](https://github.com/ValentynNVS)
 /Hyungseop 1872a3a8f (Add Hyungseop to Contributors list)
