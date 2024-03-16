@@ -177,6 +177,7 @@ Kencham Vinay
 -[AmirAbbas Mousavi](https://github.com/Amir-A-M)
 -[DavidOhanyan](https://github.com/DavidOhanyan)
 -[Maria Sui](https://github.com/msui51)
+-[Buhari Ahmed](https://github.com/makajeez)
 - T Mez
 - [Tri Phan] (https://github.com/MuroKouro)
 [Ani Nalbandyan](https://github.com/AniNalbandyan6)
