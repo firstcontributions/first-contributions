@@ -723,6 +723,7 @@
 - [Tapan Kapre](https://github.com/TolueneOverdose)
 - [Smaran Singh](https://github.com/SmaranSingh)
 - [Sadiya Khan](https://github.com/sadiya0308)
+- [Gaurav Shetty](https://github.com/Gaurav0203Shetty)
 - [Lalo Rys](https://github.com/LaloRys)
 - [Honeshwar Thakur](https://github.com/Honeshwar)
 - [Adeel Umar](https://github.com/adeelumar-17)
