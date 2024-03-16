@@ -17,7 +17,7 @@ How can you change that? This is what this tutorial covers.
 `git add .` - 또는 커밋에 반영할 변경내역들을 개별적으로 추가합니다.  
 `git commit -m "your message here"` - 저장하고 변경내역을 커밋합니다. 코드의 변경사항을 이해하기 쉽게 해주는 용도입니다.
 
-자 이제 변경사항이 올바른 브랜치에 반영되었습니다.
+자 이제 변경사항이 현재 브랜치에 반영되었습니다.
 
 ### 가장 최근 커밋들을 신규 브랜치를 생성하여 이동시키기
 
