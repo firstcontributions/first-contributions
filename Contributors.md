@@ -1,8 +1,8 @@
 git add Contributors.md# Contributors
   
-- [Khushi Joshi] (https://www.linkedin.com/in/khushi-joshi-60a9a6264/)
 - [WilsonDai]
 -[Mai Mable Thet](https://github.com/EmeraldMable)
+- [Khushi Joshi] (https://www.linkedin.com/in/khushi-joshi-60a9a6264/)
 - [Riyaz Shaik](https://github.com/ShaikRiyaz2003) || [Riyaz Shaik](https://www.linkedin.com/in/shaikriyaz03/)
 - Jayanth K
 -[David Okon](https://github.com/davidemusi)
