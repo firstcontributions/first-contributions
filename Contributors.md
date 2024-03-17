@@ -1,21 +1,21 @@
 # Contributors
 
-// IMPORTANT
-// Since it is a list of Contributors, please use either:
-// your `Name`, `Surname`, `nickname` or combination of those to indicate your contribution
+// IMPORTANT\n
+// Since it is a list of Contributors, please use either:\n
+// your `Name`, `Surname`, `nickname` or combination of those to indicate your contribution\n
 
-// Please use the correct markdown syntax:
+// Please use the correct markdown syntax:\n
 
-// Start with dash and space to create a list item: `- Name Surname` or `- Nickname`
-// Link: `[visibleLinkText](notVisibleLinkURL)`
-// Do not leave spaces between `[]` and `()` for the link to work correctly
-// If you don't want to use a link, write `your-name` instead of `[your-name]`
-// Bold text: `**boldText**`
-// Code snippet (text between backticks): `codeSnippet`
+// Start with dash and space to create a list item: `- Name Surname` or `- Nickname`\n
+// Link: `[visibleLinkText](notVisibleLinkURL)`\n
+// Do not leave spaces between `[]` and `()` for the link to work correctly\n
+// If you don't want to use a link, write `your-name` instead of `[your-name]`\n
+// Bold text: `**boldText**`\n
+// Code snippet (text between backticks): `codeSnippet`\n
 
-// [Sorted and grouped list of all contributors](./sortedContributors.md)
-// To update the sorted list after you have saved your changes to Contributors.md,
-// from the root of this project, run: `node sortContributors.js`
+// [Sorted and grouped list of all contributors](./sortedContributors.md)\n
+// To update the sorted list after you have saved your changes to Contributors.md,\n
+// from the root of this project, run: `node sortContributors.js`\n
 
 - ablines
 - [Moustache9593](https://github.com/Moustache9593)
