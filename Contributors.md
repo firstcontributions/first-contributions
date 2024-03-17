@@ -1701,6 +1701,7 @@ Romeu Leite
 - [Collin Hensel] (https://github.com/chensel558)
 - [Lukas Cihelna](https://github.com/LukasCihelna)
 - [Namit Saxena](https://github.com/oddball1123)
+- [atomic-soul](https://github.com/atomic-soul)
 - [Abhinav](https://github.com/malteezy)
 - [David Cao](https://github.com/dave-cao)
 - [Abijith L J]
