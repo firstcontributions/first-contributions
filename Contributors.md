@@ -424,6 +424,7 @@ guanj65
 - [harish](https://github.com/harish885)
 - [Kamangu Maeti](https://github.com/KmgSamuel)
 - [Jay CP](https://github.com/jaycp30) 
+- [Snagnik Das](https://github.com/snagnikd)
 - [Jesus Fernando Torres](https://github.com/JFerchoTorres)
 - [Jose Luna](https://github.com/jlunabacilio)
 - [Marcelo Elias Simon](https://github.com/mSimon12)
