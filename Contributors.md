@@ -9,6 +9,7 @@ Pereira
 - [Akshar Kalathiya](https://github.com/Akshar062)
 - Sree
 - [Jorge Calleja](https://github.com/CallejaJ)
+- [Bruno Mendes](https://github.com/brrrun)
 - Ruth
 - [Geoffrey Muchugi Maina] (https://github.com/M-Maina)
 - [David Mbuvi](https://github.com/cheekydavy)
@@ -229,6 +230,7 @@ Kencham Vinay
 - [Sridhar V](https://github.com/Sridhar9095)
 - [Ruchik Pravasi](https://github.com/rcipdev)
 -[Aswin Jose](https://github.com/aswinjose89)
+-[chim chikwakea](https://github.com/chim)
 -[Moe Sidibeh](https://github.com/kkonteh97)
 -[Alan Winters](https://github.com/winters-ag)
 -[Yuncheol Kwak](https://github.com/YunDo-Gi)
