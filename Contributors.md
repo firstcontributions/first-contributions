@@ -7,6 +7,7 @@
 - [Shubham Kumar](https://github.com/shubh1777) 📲[LinkedIn](https://www.linkedin.com/in/shubham-kumar1777/)
 - [Lenox Miheso](https://github.com/brownred) Just got my first remote job. came here for a refresher
 JiyinShao
+- [Farzana Abdulzada](https://www.github.com/AstroTech-666)
 - [Rudi Bakaal](https://github.com/rudibakaal)
 - [Ashish Lakra](https://github.com/ashishlakraa)
 - [Jay Gaha](https://github.com/jaygaha) First contribution 🦾
