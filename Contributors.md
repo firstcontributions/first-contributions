@@ -98,6 +98,7 @@ Hannah Sung
 - [Shota Totsuka](https://github.com/ShotaTotsuka)
 - [Ted Kouhouenou](https://github.com/Tednoob17)
 - [Habishath Thavachelvan](https://github.com/habishath)
+- [Ertyk](https://github.com/Ertyk/)
 - [Rajendran S](https://github.com/Rajendran2201)
 - [Sarvajith Adyanthaya](https://github.com/Chillthrower)
 - [Hemalatha Parisa](https://github.com/mannemhema)
