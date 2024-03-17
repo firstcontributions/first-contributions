@@ -10,6 +10,7 @@ Pereira
 - [Valentyn Novosydliuk](https://github.com/ValentynNVS)
 /Hyungseop 1872a3a8f (Add Hyungseop to Contributors list)
 - [WilsonDai]
+- [Dev Garg](https://github.com/Dev771)
 - [hyunwoo](https://github.com/Na-hyunwoo)
 -[Soyoon Moon](https://github.com/soyoonmoon)
 - [110207434](https://github.com/ver0n1ca1213/first-contributions.git)
