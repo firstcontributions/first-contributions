@@ -8,6 +8,7 @@ git add Contributors.md# Contributors
 Pereira
 - [Akshar Kalathiya](https://github.com/Akshar062)
 - Sree
+- Ruth
 - [Geoffrey Muchugi Maina] (https://github.com/M-Maina)
 - [David Mbuvi](https://github.com/cheekydavy)
 - [Incognito Dark](https://github.com/ncgntdrk)
