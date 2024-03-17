@@ -8,6 +8,7 @@ git add Contributors.md# Contributors
 Pereira
 - [Akshar Kalathiya](https://github.com/Akshar062)
 - Sree
+- [Bruno Mendes](https://github.com/brrrun)
 - Ruth
 - [Geoffrey Muchugi Maina] (https://github.com/M-Maina)
 - [David Mbuvi](https://github.com/cheekydavy)
