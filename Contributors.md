@@ -7,6 +7,7 @@ git add Contributors.md# Contributors
 - Ravindu Wickramage
 Pereira
 - [Akshar Kalathiya](https://github.com/Akshar062)
+- Sree
 - [Geoffrey Muchugi Maina] (https://github.com/M-Maina)
 - [David Mbuvi](https://github.com/cheekydavy)
 - [Incognito Dark](https://github.com/ncgntdrk)
