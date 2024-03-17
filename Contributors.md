@@ -1334,6 +1334,7 @@ Romeu Leite
 - [yend724](https://github.com/yend724)
 - [mpousmali](https://github.com/mpousmali)
 - [GreenWeegeeCantCode](https://github.com/GreenWeegeeCantCode)
+- [Contidex]
 - [DPHung]
 - [Angelica Michaca](https://github.com/Angelica-Michaca)
 - [Chandana Srinivasa Yatisha](https://github.com/chandanasy)
