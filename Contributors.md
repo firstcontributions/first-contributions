@@ -25,6 +25,7 @@ Pereira
 - [Eduardo León](https://github.com/xEduardo)
 -Khushi Joshi 
 -Jacob Coles
+-[Koushik Gaddam](https://github.com/Koushikgaddam04)
 - [Seb Gillman](https://github.com/SebGillman)
 - Jayanth K
 - ericbox
