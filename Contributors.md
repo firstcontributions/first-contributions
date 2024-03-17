@@ -166,6 +166,7 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
 - [Yauhen Yushkevich](https://github.com/eugenyush)
 - [Maxwell Bruce](https://github.com/MWBruce)
 - [Yodit Abebe] (https://github.com/yodit93)
+- [Amanda Havens](https://github.com/a-havens)
 - [jatin] (https://github.com/notjatin)
 - [vempr] (https://github.com/vempr)
 - [Elly Oyugi](hhttps://github.com/eoyugi)
@@ -3268,4 +3269,3 @@ guanj65
 - [Kim Shaddy](https://github.com/shaddy1234)
 - [Rao Cai](https://github.com/RaoCai)
 - [Priyanshu Saha](https://github.com/pianist22)
-
