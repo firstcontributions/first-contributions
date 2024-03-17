@@ -499,6 +499,7 @@ guanj65
 - [fadlisick](https://github.com/fadlisick)
 - [Mijuku](https://github.com/mijukuex)
 - [Nononoyeah](https://github.com/nononoyeah)
+- [Caroline Veloso - @code_carol 👻](https://github.com/code-carol/)
 - [ZRKHSM](https://github.com/ZRKHSM)
 - [Mahnoor Ismail] (https://github.com/mahnewr)
 - [Mr E](https://github.com/MrE00)
