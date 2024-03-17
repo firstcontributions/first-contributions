@@ -1771,7 +1771,7 @@ Romeu Leite
 - [Vitor Orsin] (https://github.com/YaboiAst)
 - [Caio Ueda Sampaio] (https://github.com/KY-U) 
 - [James Russell](https://github.com/James-blend/)
-- [af en toe]
+- [afentoe]
 - [Dastageer HC](https://github.com/dastageer-hc)
 - [Serhat Bağlam](https://github.com/Rserhat01)
 - [Tim Maingi](https://github.com/Merch7x)
