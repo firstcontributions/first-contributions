@@ -228,6 +228,7 @@ Kencham Vinay
 - [Sridhar V](https://github.com/Sridhar9095)
 - [Ruchik Pravasi](https://github.com/rcipdev)
 -[Aswin Jose](https://github.com/aswinjose89)
+-[chim chikwakea](https://github.com/chim)
 -[Moe Sidibeh](https://github.com/kkonteh97)
 -[Alan Winters](https://github.com/winters-ag)
 -[Yuncheol Kwak](https://github.com/YunDo-Gi)
