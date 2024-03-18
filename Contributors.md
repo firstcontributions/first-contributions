@@ -123,6 +123,7 @@ Hannah Sung
 - [Hemalatha Parisa](https://github.com/mannemhema)
 - [Jonah Robbins] (https://github.com/Rjonah321) First contribution!
 - [Adams Ahmed](https://github.com/Harmedino)
+- [YOYO](https://github.com/youo3o413)
 - [Davie Kibet](https://github.com/daviewisdm)
 - [Jooin](https://github.com/firstcontributions/first-contributions)
 - [Mohmmed Ayesh](https://github.com/mohmmadAyesh)
