@@ -32,7 +32,7 @@ To update the sorted list after you have saved your changes to Contributors.md, 
 - [Kai Breese](https://github.com/ninjakaib)
 - [Job Wamoyi](https://github.com/wamoyi)
 - Ravindu Wickramage
-- Pereira
+- [Jasper Zhuang](https://github.com/Jun-wei136/)
 - [Akshar Kalathiya](https://github.com/Akshar062)
 - Sree
 - [Jorge Calleja](https://github.com/CallejaJ)
@@ -70,6 +70,7 @@ To update the sorted list after you have saved your changes to Contributors.md, 
 - [Beatriz Guerrero](https://github.com/Beatriz-G)
 - [Rahul Rai](https://github.com/Rahulrai888)
 - [Vaishnavi-Tumuluri](https://github.com/Vaishnavi-Tumuluri) || [LinkedIn](www.linkedin.com/in/vaishnavi-tumuluri)
+- [Ashoksanaka](https:github.com/ashoksanaka)
 - [David Okon](https://github.com/davidemusi)
 - [Steven Bennett](https://github.com/r3m3dial-g3nius)
 - [Aidan Palmer](https://github.com/aidan-palmer)
@@ -120,6 +121,7 @@ To update the sorted list after you have saved your changes to Contributors.md, 
 - [Azra Naseri](https://github.com/AzraNaseri) [LinkedIn](https://www.linkedin.com/in/azra-naseri/)
 - Shubham Kumar
 - [Arshea Atif](https://github.com/arshea-02)
+- [Cameron Brown](https://github.com/cameronjoebrown)
 - [Cyril Azubuine](https://github.com/cyrilberrypi) [LinkedIn](https://www.linkedin.com/in/cyril-azubuine/) [X](https://twitter.com/iamcyril_edtech)
 - Hannah Sung
 - Edith Cherotich
@@ -144,6 +146,7 @@ To update the sorted list after you have saved your changes to Contributors.md, 
 - [Hemalatha Parisa](https://github.com/mannemhema)
 - [Jonah Robbins](https://github.com/Rjonah321) First contribution!
 - [Adams Ahmed](https://github.com/Harmedino)
+- [YOYO](https://github.com/youo3o413)
 - [Davie Kibet](https://github.com/daviewisdm)
 - [Jooin](https://github.com/firstcontributions/first-contributions)
 - [Mohmmed Ayesh](https://github.com/mohmmadAyesh)
@@ -160,12 +163,14 @@ To update the sorted list after you have saved your changes to Contributors.md, 
 - [MPC](https://github.com/Myat-00)
 - Rambo
 - Quinter Wangare
+- [MuhammadNurHakimi] (https://github.com/nurhakimi97) i'm going to be the best developer in the world
 - [111703012](https://github.com/caijinghong1468)
 - [Praneeth Gourla](https://github.com/praneethgourla18)
 - [Olha Zakharchevna](https://github.com/zakharchevna)
 - [Maxime de Montbron](https://github.com/mijnog/) Just learning how to code
-- [Samartha D N](https://github.com/SamtheGOC) Come chat w/ me on Discord at [.rizzmaster_
+- [Samartha D N](https://github.com/SamtheGOC) Come chat w/ me on Discord at [.rizzmaster_]
 - [Hilal Semercioğlu](https://github.com/elinoza)
+- [Dani Dulfu](https://github.com/danidulfu) [LinkedIn](https://www.linkedin.com/in/danieldulfu/)
 - [Asimanye Dudumayo](https://github.com/adudumayo)
 - [Julian Potter](https://github.com/julpotter)
 - [Ali Hinnawe](https://github.com/alihinnawe)
@@ -3272,6 +3277,7 @@ To update the sorted list after you have saved your changes to Contributors.md, 
 - [kossyprg](https://github.com/kossyprg)
 - [SujanShilakar](https://github.com/SujanShilakar)
 - [nebu](https://github.com/nebvx)
+- [coolmning](https://github.com/coolmning)
 - [Wei Way](https://github.com/Wei-whey-way)
 - [Zhanylai](https://github.com/Zhanyl3909)
 - [Logan Zhang](https://github.com/logzhang)
@@ -3320,3 +3326,4 @@ To update the sorted list after you have saved your changes to Contributors.md, 
 - flyingbit
 - [Priyanshu Saha](https://github.com/pianist22)
 - [Diete-Spiff Timothy](https://github.com/Axn-Switch)
+- [ZhangChen](https://github.com/John-Chen92)
