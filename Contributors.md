@@ -10,6 +10,7 @@ Pereira
 - [Jasper Zhuang](https://github.com/Jun-wei136/)
 - [faiza liyaqat](https://github.com/faizaliyaqat)
 - [Akshar Kalathiya](https://github.com/Akshar062)
+- [Christian Reyes](https://github.com/PrintRat6962)
 - Sree
 - [Jorge Calleja](https://github.com/CallejaJ)
 - [Thasneem] (https://github.com/thasneem9)
