@@ -6,33 +6,33 @@
 
 # Sumbangan Pertama
 
-Ia sukar. Ia sentiasa sukar buat kali pertama kamu melakukan sesuatu. Terutama apabila kamu berkolaborasi, membuat kesilapan bukan perkara yang selesa. Kami mahu menyederhanakan cara penyumbang sumber terbuka baru belajar & menyumbang buat kali pertama.
+Ia sukar. Ianya sememangnya sukar setiap kali anda melakukan sesuatu buat kali yang pertama. Terutamanya apabila anda berkolaborasi, membuat kesilapan bukan suatu perkara yang enak. Kami mahu membantu anda yang baru belajar untuk menyumbang kepada sumber terbuka buat kali yang pertama dengan menunjukkan cara mudah untuk berbuat demikian.
 
-Membaca artikel & menonton tutorial boleh membantu, tetapi apa yang lebih baik daripada melakukan perkara dalam persekitaran yang praktikal? Projek ini bertujuan memberi bimbingan & memudahkan seseorang yang baru bermula untuk membuat sumbangan pertama mereka. Jika kamu ingin membuat sumbangan pertama kamu, ikuti langkah-langkah di bawah.
+Membaca artikel & menonton tutorial tentunya dapat membantu, tetapi lebih baik kita bersama-sama melakukan perkara tersebut dalam persekitaran yang praktikal. Projek ini bertujuan memberi bimbingan & memudahkan seseorang yang baru bermula untuk membuat sumbangan pertama mereka. Jika anda ingin membuat sumbangan pertama anda, ikuti langkah-langkah di bawah.
 
 #### *Jika anda tidak selesa dengan 'command line', [sini adalah tutorial menggunakan alat GUI.](#Tutorial-Menggunakan-Alat-Lain)*
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Jika anda tidak mempunyai git dalam mesin kamu, [pasang](https://help.github.com/articles/set-up-git/).
+Jika anda tidak mempunyai git dalam komputer anda, [muat turun](https://help.github.com/articles/set-up-git/).
 
 ## Fork repositori ini
 
-Fork repo ini dengan mengklik butang fork di atas halaman ini.
-Ini akan membuat salinan repositori ini dalam akaun kamu.
+Fork repo ini dengan menekan butang fork yang berada di atas halaman ini.
+Ini akan membuat salinan repositori ini dalam akaun anda.
 
 ## Klon repositori
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Sekarang klon repo yang bercabang ke mesin kamu. Pergi ke akaun GitHub anda, buka repo yang bercabang, klik pada butang klon dan kemudian klik ikon * copy to clipboard *.
+Sekarang, klon repo yang telah di-fork ke dalam mesin anda. Pergi ke akaun GitHub anda, buka repo telah di-fork sebentar tadi, klik pada butang klon dan kemudian klik ikon * copy to clipboard *.
 
 Buka terminal dan jalankan arahan git berikut:
 
 ```
-git clone "url anda baru disalin"
+git clone "url yang anda baru salin"
 ```
-dimana "url anda baru disalin" (tanpa tanda petikan) adalah url ke repositori ini (fork projek anda). Lihat langkah-langkah sebelumnya untuk mendapatkan url.
+dimana "url yang anda baru salin" (tanpa tanda pembuka dan penutup kata) adalah url ke repositori ini (fork anda untuk projek ini). Lihat langkah-langkah sebelum ini untuk mendapatkan url.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -40,36 +40,36 @@ Contoh:
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
-dimana `this-is-you` adalah nama pengguna GitHub kamu. Di sini kamu menyalin kandungan repositori sumbangan pertama dalam GitHub ke komputer kamu.
+dimana `this-is-you` adalah nama pengguna GitHub anda. Di sini, anda sedang menyalin kandungan repositori ini dari GitHub ke dalam komputer anda.
 
 ## Membuat cawangan
 
-Tukar ke direktori repositori pada komputer kamu (jika kamu belum berada disana):
+Tukar ke direktori repositori pada komputer anda (jika belum berada disana):
 
 ```
 cd first-contributions
 ```
-Sekarang cipta cawangan menggunakan arahan `git checkout`:
+Sekarang cipta cabang menggunakan arahan `git switch`:
 ```
-git checkout -b <add-your-new-branch-name>
+git switch -c <add-your-new-branch-name>
 ```
 
 Contoh:
 ```
-git checkout -b add-alonzo-church
+git switch -c add-alonzo-church
 ```
-(Nama cawangan tidak perlu mempunyai perkataan * add * di dalamnya, tetapi ia adalah perkara yang munasabah untuk disertakan kerana tujuan cawangan ini adalah untuk menambah nama anda ke senarai.)
+(Nama cabang tidak perlu mengandungi perkataan * add * di dalamnya, tetapi ia adalah perkara yang munasabah untuk disertakan kerana tujuan cabang ini adalah untuk menambah nama anda ke senarai.)
 
 ## Buat perubahan yang diperlukan dan komit perubahan tersebut
 
-Sekarang buka fail `Contributors.md` dalam editor teks, tambahkan nama anda kepadanya. Jangan tambahkannya pada awal atau akhir fail. Letakkan di mana sahaja di antara. Sekarang, simpan fail itu.
+Sekarang buka fail `Contributors.md` dalam editor teks, tambahkan nama anda ke dalam senarai itu. Jangan tambahkan pada awal atau akhir fail. Letakkan di tengah-tengah dokumen. Sekarang, simpan fail tersebut.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 
-Jika anda pergi ke direktori projek dan laksanakan arahan `git status`, kamu akan melihat perubahanya.
+Jika anda pergi ke direktori projek dan jalankan arahan `git status`, anda akan melihat perubahanya.
 
-Tambah perubahan tersebut ke cawangan yang baru kamu cipta menggunakan arahan `git add`:
+Tambah perubahan tersebut ke cabang yang baru anda cipta menggunakan arahan `git add`:
 
 ```
 git add Contributors.md
@@ -79,33 +79,33 @@ Sekarang komit perubahan tersebut menggunakan perintah `git commit`:
 ```
 git commit -m "Add <your-name> to Contributors list"
 ```
-menggantikan `<your-name>` dengan nama kamu.
+menggantikan `<your-name>` dengan nama anda.
 
-## Push changes to GitHub
+## Push perubahan ke dalam GitHub
 
-Tolak perubahan anda menggunakan arahan `push push`:
+Push perubahan anda menggunakan arahan `git push`:
 ```
-git push origin <add-your-branch-name>
+git push -u origin <add-your-branch-name>
 ```
-menggantikan `<add-your-branch-name>` dengan nama cawangan yang kamu cipta sebelumnya.
+menggantikan `<add-your-branch-name>` dengan nama cabang yang baru sahaja anda cipta sebentar tadi.
 
 ## Hantar perubahan anda untuk semakan
 
-Jika anda pergi ke repositori anda di GitHub, anda akan melihat butang `Compare & pull request`. Klik pada butang itu.
+Jika anda pergi ke repositori anda di GitHub, anda akan melihat butang `Compare & pull request`. Klik pada butang tersebut.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-Sekarang hantar 'pull request' itu.
+Sekarang, hantar 'pull request' itu.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Tidak lama lagi saya akan menggabungkan semua perubahan anda ke cawangan 'master' projek ini. Anda akan mendapat e-mel pemberitahuan sebaik sahaja perubahan telah digabungkan.
+Tidak lama lagi saya akan menggabungkan semua perubahan anda ke cabang 'master' projek ini. Anda akan mendapat satu e-mel pemberitahuan sebaik sahaja perubahan telah digabungkan.
 
-## Ke mana pergi dari sini?
+## Pergi ke mana selepas ini?
 
-Tahniah! Anda baru saja selesai melaksanakan standard _fork -> clone -> edit -> PR_ aliran kerja yang sering kamu akan terserempak sebagai seorang penyumbang!
+Tahniah! Anda baru saja selesai melaksanakan standard _fork -> clone -> edit -> PR_ aliran kerja yang sering anda akan lalui sebagai seorang penyumbang!
 
-Raikan sumbangan kamu dan kongsi dengan rakan dan pengikut kamu dengan pergi ke [aplikasi web](https://firstcontributions.github.io/#social-share).
+Raikan sumbangan anda dan kongsi dengan rakan dan pengikut anda dengan pergi ke [aplikasi web](https://firstcontributions.github.io/#social-share).
 
 Anda boleh menyertai pasukan 'Slack' kami sekiranya anda memerlukan bantuan atau mempunyai sebarang soalan. [Sertai pasukan Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
