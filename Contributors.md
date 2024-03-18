@@ -42,6 +42,7 @@ Pereira
 - [Eduardo León](https://github.com/xEduardo)
 -Khushi Joshi 
 110703067
+- nimilgp
 -Jacob Coles
 110703067
 -[Koushik Gaddam](https://github.com/Koushikgaddam04)
