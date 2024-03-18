@@ -14,6 +14,7 @@ Pereira
 - [Christian Reyes](https://github.com/PrintRat6962)
 - Sree
 - [Jorge Calleja](https://github.com/CallejaJ)
+- [Soham Samal](https://github.com/sazuyakun)
 - [Thasneem] (https://github.com/thasneem9)
 - [Jessie De Jong](https://github.com/JessieDeJong)
 - [Bruno Mendes](https://github.com/brrrun)
