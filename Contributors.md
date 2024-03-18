@@ -11,6 +11,7 @@ Pereira
 - [Akshar Kalathiya](https://github.com/Akshar062)
 - Sree
 - [Jorge Calleja](https://github.com/CallejaJ)
+- [Thasneem] (https://github.com/thasneem9)
 - [Jessie De Jong](https://github.com/JessieDeJong)
 - [Bruno Mendes](https://github.com/brrrun)
 - Ruth
