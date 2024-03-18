@@ -25,7 +25,7 @@ Reetish Rath
 
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
-- 
+- [Morgan Arranyak Kar](https://github.com/morgankar)
 Yash Rustogi
 - [Aryan Bansal @devsocPI]
 - Moksh@DEVSOCPI
@@ -48,7 +48,6 @@ Yash Rustogi
 - [Utkarsh@DevsocPI](https://github.com/0xAnon0602)
 - [Pawan Yadav](https://github.com/pawanyy)
 - [CherylChaudhari@DevsocPI]
-- [Morgan Arranyak Kar](https://github.com/morgankar)
 - [Saptarshi Ghosh @devsoc2022](https://github.com/zack-carnet)
 - [Sreeram P @DevSoc](https://github.com/sreeramps10)
 - [Somnath Golui](https://github.com/somu-code)
