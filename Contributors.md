@@ -100,6 +100,7 @@ Ed62134927
 - [Venkatesh Jamge](https://github.com/venkateshjamge)
 - [Nwachukwu Michael](https://github.com/Michael-Nwachukwu)
 - [Hamza or StudHamza :0](https://github.com/StudHamza)
+- [fayez coder](https://github.com/fayezCoder))
 - [Rudi Bakaal](https://github.com/rudibakaal)
 - Justin Blake
 igntius praise 
