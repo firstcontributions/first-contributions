@@ -33,11 +33,15 @@ To update the sorted list after you have saved your changes to Contributors.md, 
 - [Job Wamoyi](https://github.com/wamoyi)
 - Ravindu Wickramage
 - [Jasper Zhuang](https://github.com/Jun-wei136/)
+- [faiza liyaqat](https://github.com/faizaliyaqat)
 - [Akshar Kalathiya](https://github.com/Akshar062)
 - Sree
 - [Jorge Calleja](https://github.com/CallejaJ)
+- [Jessie De Jong](https://github.com/JessieDeJong)
 - [Bruno Mendes](https://github.com/brrrun)
+- Ruth
 - [Geoffrey Muchugi Maina](https://github.com/M-Maina)
+- [faiza liyaqat](https://github.com/faizaliyaqat)
 - [David Mbuvi](https://github.com/cheekydavy)
 - [Incognito Dark](https://github.com/ncgntdrk)
 - [Valentyn Novosydliuk](https://github.com/ValentynNVS)
@@ -45,6 +49,7 @@ To update the sorted list after you have saved your changes to Contributors.md, 
 - WilsonDai
 - [Dev Garg](https://github.com/Dev771)
 - [hyunwoo](https://github.com/Na-hyunwoo)
+- [Sethika Manumitha](https://github.com/SethikaManumitha/)
 - [Soyoon Moon](https://github.com/soyoonmoon)
 - [FancyTobias](https://github.com/FancyTobias)
 - [110207434](https://github.com/ver0n1ca1213/first-contributions.git)
@@ -90,6 +95,7 @@ To update the sorted list after you have saved your changes to Contributors.md, 
 - [Lennart Enns](https://github.com/LennartEnns)
 - **`msbala`** - [Enter into the Kernal 👨‍💻](https://msbalacse.vercel.app/) [➡️ GitHub](https://github.com/msbalacse)
 - [Kuth Chi](https://github.com/kuth-chi) [LinkedIn](https://www.linkedin.com/in/kuth-chi)
+- [Matrix Bro](https://github.com/matrix-bro)
 - [Abhishek Agrawal](https://github.com/Abhi)
 - [Ogo Nelson](https://github.com/OgoNelson) [Twitter](https://www.twitter.com/ogo_nelson)
 - [Joyce Serah](https://github.com/JoyceSerah)
@@ -207,6 +213,7 @@ To update the sorted list after you have saved your changes to Contributors.md, 
 - [Samarth Jain](https://github.com/samarth-jain28)
 - [Dhanvin Sankaranand](https://github.com/dhanvin018)
 - [Amaka Uchegbu](https://github.com/UCHEHQ)
+- [gasper1](https://github.com/gasper1)
 - [NesrinKS](https://https://github.com/NesrinKS)
 - [Albin Forsberg](https://github.com/albfor/first-contributions)
 - [Ajani Timothy](https://github.com/Tim1119)
@@ -878,7 +885,8 @@ To update the sorted list after you have saved your changes to Contributors.md, 
 - Andy O
 - samandar02
 - [ashmita](https://github.com/Ashmita001)
-- nade-em
+- [nade-em]
+- [taetaetae](https://github.com/taetaerin)
 - [NikhilBalthi](https://github.com/NikhilBalthi)
 - [Saibala Sundram](https://github.com/saibala2905)
 - [kpgomez](https://github.com/kpgomez)
@@ -1490,6 +1498,7 @@ To update the sorted list after you have saved your changes to Contributors.md, 
 - [Rounak Kumar Singh](https://github.com/rounakkumarsingh)
 - [VIGNESH BABU](https://github.com/VICKY-0017)
 - [Newton Mwasomanya](https://github.com/nmwasomanya)
+- [kuephi](https://github.com/kuephi)
 - [Pravar Agarwal](https://github.com/PravarAgarwal) [LinkedIn](https://www.linkedin.com/in/pravar-agarwal/)
 - [Arpit Agrawal](https://github.com/Monkey-Arpit-Agrawal)
 - [Arpit Goswami](https://github.com/arpitgoswami)
@@ -3327,3 +3336,4 @@ To update the sorted list after you have saved your changes to Contributors.md, 
 - [Priyanshu Saha](https://github.com/pianist22)
 - [Diete-Spiff Timothy](https://github.com/Axn-Switch)
 - [ZhangChen](https://github.com/John-Chen92)
+- [nklkarthi](https://github.com/nklkarthi)
