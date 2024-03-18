@@ -7,6 +7,7 @@ git add Contributors.md# Contributors
 - Ravindu Wickramage
 Pereira
 - [Jasper Zhuang](https://github.com/Jun-wei136/)
+- [faiza liyaqat](https://github.com/faizaliyaqat)
 - [Akshar Kalathiya](https://github.com/Akshar062)
 - Sree
 - [Jorge Calleja](https://github.com/CallejaJ)
