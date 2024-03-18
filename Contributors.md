@@ -42,6 +42,7 @@ Pereira
 - Jayanth K
 - ericbox
 - Dan Armstrong (https://github.com/Dannyarms)
+- Deepanshu Yadav (https://github.com/DeepanshuYadav-code)
 -Anchita Kakria
 - pritam sonmane
 Beatriz Guerrero https://github.com/Beatriz-G
