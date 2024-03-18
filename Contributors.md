@@ -864,6 +864,7 @@ Jasmine
 - [samandar02]
 - [ashmita](https://github.com/Ashmita001)
 - [nade-em]
+- [taetaetae] (https://github.com/taetaerin)
 - [NikhilBalthi](https://github.com/NikhilBalthi)
 - [Saibala Sundram](https://github.com/saibala2905)
 - [kpgomez](https://github.com/kpgomez)
