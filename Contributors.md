@@ -1,6 +1,7 @@
 git add Contributors.md# Contributors
 
 - [ablines]
+- [Seth Bruner](https://github.com/sethbMiami)
 - [Moustache9593] (https://github.com/Moustache9593)
 - [Kai Breese](https://github.com/ninjakaib)
 - [Job Wamoyi](https://github.com/wamoyi)
