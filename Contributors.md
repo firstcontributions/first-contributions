@@ -3323,4 +3323,4 @@ guanj65
 - [ZhangChen](https://github.com/John-Chen92)
 - [Zizou](https://github.com/zizou161)
 - [nklkarthi](https://github.com/nklkarthi)
-- [gamelia programmer] (https://github.com/gameliaprogrammer)
+- [gamelia programmer](https://github.com/gameliaprogrammer)
