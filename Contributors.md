@@ -14,6 +14,7 @@ Pereira
 - [Bruno Mendes](https://github.com/brrrun)
 - Ruth
 - [Geoffrey Muchugi Maina] (https://github.com/M-Maina)
+- [faiza liyaqat] (https://github.com/faizaliyaqat)
 - [David Mbuvi](https://github.com/cheekydavy)
 - [Incognito Dark](https://github.com/ncgntdrk)
 - [Valentyn Novosydliuk](https://github.com/ValentynNVS)
