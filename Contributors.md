@@ -71,6 +71,7 @@ Beatriz Guerrero https://github.com/Beatriz-G
 - [Lennart Enns](https://github.com/LennartEnns)
 - **`msbala`** - [Enter into the Kernal 👨‍💻](https://msbalacse.vercel.app/) [➡️ Github](https://github.com/msbalacse) 
 - [Kuth Chi](https://github.com/kuth-chi) [Linkedin](https://www.linkedin.com/in/kuth-chi)
+- [Matrix Bro](https://github.com/matrix-bro)
 - [Abhishek Agrawal](https://github.com/Abhi)
 - [Ogo Nelson](https://github.com/OgoNelson) [Twitter](https://www.twitter.com/ogo_nelson)
 - [Joyce Serah](https://github.com/JoyceSerah)
