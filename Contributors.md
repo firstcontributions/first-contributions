@@ -22,6 +22,7 @@ Pereira
 - [WilsonDai]
 - [Dev Garg](https://github.com/Dev771)
 - [hyunwoo](https://github.com/Na-hyunwoo)
+- [Sethika Manumitha](https://github.com/SethikaManumitha/)
 -[Soyoon Moon](https://github.com/soyoonmoon)
 - [FancyTobias](https://github.com/FancyTobias)
 - [110207434](https://github.com/ver0n1ca1213/first-contributions.git)
