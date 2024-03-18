@@ -31,12 +31,14 @@ To update the sorted list after you have saved your changes to Contributors.md, 
 - [Moustache9593](https://github.com/Moustache9593)
 - [Kai Breese](https://github.com/ninjakaib)
 - [Job Wamoyi](https://github.com/wamoyi)
+- Gandikota Phanindhra(https://github.com/Phani1609)
 - Ravindu Wickramage
 - [Jasper Zhuang](https://github.com/Jun-wei136/)
 - [faiza liyaqat](https://github.com/faizaliyaqat)
 - [Akshar Kalathiya](https://github.com/Akshar062)
 - Sree
 - [Jorge Calleja](https://github.com/CallejaJ)
+- [Thasneem] (https://github.com/thasneem9)
 - [Jessie De Jong](https://github.com/JessieDeJong)
 - [Bruno Mendes](https://github.com/brrrun)
 - Ruth
@@ -442,6 +444,7 @@ To update the sorted list after you have saved your changes to Contributors.md, 
 - [Youmbi Harold](https://github.com/Youmbi-Harold)
 - [Tejas shinde](https://github.com/Tejas1252)
 - [Ali BOUZENA](https://github.com/bouzenaali)
+- [Ifeoma Okpara Anumege](https://github.com/SylviaifyX)
 - [Yasith Silva](https://github.com/yasith46)
 - [Adrian St Onge](https://github.com/astonge)
 - [HBY](https://github.com/HlaBweYue)
@@ -697,6 +700,7 @@ To update the sorted list after you have saved your changes to Contributors.md, 
 - [Akram Hany](https://github.com/akramhany)
 - [Hein Htut Zaw](https://github.com/HeinHtutZaw19)
 - [PeymanSF2000](https://github.com/peymansf2000) 🇮🇷 💻 🎮 🥇
+- [SahutoL](https://github.com/SahutoL)
 - [Karthik Sp](https://github.com/karthisp)
 - [Bruno Carmena](https://github.com/brunocarmena57)
 - [Cathy Ly](https://github.com/cl2493)
@@ -927,6 +931,7 @@ To update the sorted list after you have saved your changes to Contributors.md, 
 - [Gyamposu dodzi](https://github.com/gyamposudodzi) [LinkedIn](https://linkedin.com/dodzigyamposu)
 - [turtle-papa](https://github.com/turtle-papa)
 - [GCabane](https://github.com/GCabane)
+- [Soaring Eagle](https://github.com/SoaringEagle910)
 - [TsvetislavRangelov](https://github.com/TsvetislavRangelov)
 - [Tsafac Nkombong Regine Cyrille](https://github.com/Regine12)
 - [Michael Gabriel](https://github.com/maranatha443)
@@ -1806,6 +1811,7 @@ To update the sorted list after you have saved your changes to Contributors.md, 
 - [Vitor Orsin](https://github.com/YaboiAst)
 - [Caio Ueda Sampaio](https://github.com/KY-U)
 - [James Russell](https://github.com/James-blend/)
+- [a fentoe]
 - [Dastageer HC](https://github.com/dastageer-hc)
 - [Serhat Bağlam](https://github.com/Rserhat01)
 - [Tim Maingi](https://github.com/Merch7x)
@@ -3336,4 +3342,5 @@ To update the sorted list after you have saved your changes to Contributors.md, 
 - [Priyanshu Saha](https://github.com/pianist22)
 - [Diete-Spiff Timothy](https://github.com/Axn-Switch)
 - [ZhangChen](https://github.com/John-Chen92)
+- [Zizou](https://github.com/zizou161)
 - [nklkarthi](https://github.com/nklkarthi)
