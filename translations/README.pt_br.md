@@ -21,7 +21,7 @@ Faça um _Fork_ clicando no botão "_Fork_" no topo desta página, uma cópia de
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clonar este repositório" />
 
-Agora clone este repositório para a sua máquina. Clique no botão "_Clone or download_" e, em seguida, clique no ícone "_Copy to clipboard_" para copiar a URL.
+Agora clone este repositório para a sua máquina. Clique no botão "_Code_" e, em seguida, clique no ícone "_Copy to clipboard_" para copiar a URL.
 
 Abra um terminal e execute o seguinte comando do git:
 
@@ -49,7 +49,7 @@ Acesse o diretório do repositório no seu computador (caso você não esteja ne
 cd first-contributions
 ```
 
-Agora crie um _Branch_ usando o comando `git checkout`:
+Agora crie um _Branch_ usando o comando `git switch`:
 
 ```
 git switch -c <add-seu-nome>
@@ -88,10 +88,10 @@ substituindo `<seu-nome>` pelo seu nome.
 Envie suas alterações usando o comando `git push`:
 
 ```
-git push origin <add-seu-nome>
+git push origin <nome-da-sua-branch>
 ```
 
-substituindo `<add-seu-nome>` pelo nome do _Branch_ que você criou anteriormente.
+substituindo `<nome-da-sua-branch>` pelo nome do _Branch_ que você criou anteriormente.
 
 ## Envie suas alterações para serem revisadas
 
@@ -103,22 +103,22 @@ Agora envie um _Pull Request_.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Envie o Pull Request" />
 
-Logo estará mesclando ('mergeando') as suas mudanças no _Branch_ principal (master) deste projeto. Você receberá um e-mail de notificação quando as alterações forem mescladas.
+Logo estará mesclando ('mergeando') as suas mudanças no _Branch_ principal (main) deste projeto. Você receberá um e-mail de notificação quando as alterações forem mescladas.
 
 ## Para onde ir a partir daqui?
 
 Parabéns! Você completou o fluxo de trabalho básico _fork -> clone -> edit -> PR_ que você encontrará frequentemente como contribuidor!
 
-Celebre sua contribuição e compartilhe com seus amigos e seguidores no [app web](https://roshanjossey.github.io/first-contributions/#social-share).
+Celebre sua contribuição e compartilhe com seus amigos e seguidores no [app web](https://firstcontributions.github.io/#social-share).
 
 Você também pode se juntar à nossa equipe no _Slack_ caso precise de alguma ajuda ou tenha alguma dúvida. [Junte-se à nossa equipe no Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-Agora você pode colaborar com outros projetos. Nós compilamos uma lista de projetos com problemas simples que você pode começar. Verifique em [a lista de projetos no web app](https://roshanjossey.github.io/first-contributions/#project-list).
+Agora você pode colaborar com outros projetos. Nós compilamos uma lista de projetos com problemas simples que você pode começar. Verifique em [a lista de projetos no web app](https://firstcontributions.github.io/#project-list).
 
-### [ Material adicional ](../additional-material/translations/Portuguese/additional-material.pt_br.md)
+### [ Material adicional ](../additional-material/translations/Portugues/additional-material.pt_br.md)
 
 ## Tutoriais usando outras ferramentas
 
-|<a href="../gui-tool-tutorials/translations/github-desktop-tutorial.pt_br.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/translations/github-windows-intellij-tutorial.pt_br.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|[GitHub Desktop](../gui-tool-tutorials/translations/github-desktop-tutorial.pt_br.md) | [Visual Studio 2017](../gui-tool-tutorials/translations/github-windows-vs2017-tutorial.pt_br.md) |[IntelliJ IDEA](../gui-tool-tutorials/translations/github-windows-intellij-tutorial.pt_br.md) |
+| <a href="../gui-tool-tutorials/translations/github-desktop-tutorial.pt_br.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/translations/github-windows-intellij-tutorial.pt_br.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [GitHub Desktop](../gui-tool-tutorials/translations/github-desktop-tutorial.pt_br.md)                                                                                             | [Visual Studio 2017](../gui-tool-tutorials/translations/github-windows-vs2017-tutorial.pt_br.md)                                                                                                       | [IntelliJ IDEA](../gui-tool-tutorials/translations/github-windows-intellij-tutorial.pt_br.md)                                                                                                                                                          |

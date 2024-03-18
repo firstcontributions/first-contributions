@@ -113,7 +113,7 @@ git push origin <የእርስዎ-branch-name>
 
 ማንኛውም እርዳታ ከፈለጉ ወይም ማንኛውም ጥያቄ ካለዎት የእኛን [Slack ቡድን](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY) መቀላቀል ይችላሉ.
 
-አሁን ለሌሎች ፕሮጀክቶች በማበርከት እንጀምር. እርስዎ ሊጀምሩባቸው የሚችሉ ቀላል ጉዳዮች ያላቸውን የፕሮጀክቶች ዝርዝር አዘጋጅተናል።. [እኚህን ማስፈተሪያ ይከተሉ](https://roshanjossey.github.io/first-contributions/#project-list).
+አሁን ለሌሎች ፕሮጀክቶች በማበርከት እንጀምር. እርስዎ ሊጀምሩባቸው የሚችሉ ቀላል ጉዳዮች ያላቸውን የፕሮጀክቶች ዝርዝር አዘጋጅተናል።. [እኚህን ማስፈተሪያ ይከተሉ](https://firstcontributions.github.io/#project-list).
 
 ### [ተጨማሪ ቁሳቁስ](../additional-material/git_workflow_scenarios/additional-material.md)
 
@@ -121,4 +121,4 @@ git push origin <የእርስዎ-branch-name>
 
 |<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a>|
 |---|---|---|
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
+|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)| 

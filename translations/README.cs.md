@@ -6,7 +6,7 @@
 
 # První příspěvek
 
-Život je těžký. Obzvláště když něco děláte poprvé. V případě, že na něčem spolupracujete, není dělání chyb něco, co by vám dělalo radost. My bychom rádi zjednodušili cestu novým přispěvovatelům do open-source při jejich učení se jak na to.
+Život je těžký. Obzvláště když něco děláte poprvé. V případě, že na něčem spolupracujete, není dělání chyb něco, co by vám dělalo radost. My bychom rádi zjednodušili cestu novým přispěvatelům do open-source při jejich učení se jak na to.
 
 Čtení článků nebo zhlédnutí video návodů jsou také cesty, ale co je lepší než si danou věc přímo osahat na vlastní kůži v reálném prostředí? Tento projekt je zaměřen na poskytnutí pomoci začátečníkům s jejich prvním přispěním do open-source. Pokud jste jím právě vy, následujte kroky popsané níže.
 
@@ -111,11 +111,11 @@ Brzy budou správci provádět zapracování vašich změn do hlavní (anglicky 
 
 Blahopřejeme! Právě jste dokončili standardní _fork -> clone -> edit ->_ průběh práce (anglicky *workflow*), se kterým se jako přispěvatel do projektů setkáte dennodenně.
 
-Oslavte svůj první příspěvek se svými přáteli a následovníky přes [webovou aplikaci](https://roshanjossey.github.io/first-contributions/#social-share).
+Oslavte svůj první příspěvek se svými přáteli a následovníky přes [webovou aplikaci](https://firstcontributions.github.io/#social-share).
 
 V případě, že byste měli jakékoliv otázky nebo potřebovali pomoct, můžete se [přidat k našemu Slack teamu](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-Nyní vám už nic nebrání v příspívání do ostatních projektů. Připravili jsme pro vás seznam projektů, které mají jednoduché záležitosti k vyřešení/naprogramování, se kterými můžete začít. Podívejte se [zde](https://roshanjossey.github.io/first-contributions/#project-list).
+Nyní vám už nic nebrání v příspívání do ostatních projektů. Připravili jsme pro vás seznam projektů, které mají jednoduché záležitosti k vyřešení/naprogramování, se kterými můžete začít. Podívejte se [zde](https://firstcontributions.github.io/#project-list).
 
 ### [Další materiály](../additional-material/git_workflow_scenarios/additional-material.md)
 

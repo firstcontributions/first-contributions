@@ -6,7 +6,7 @@
 
 # Primeras contribuciones
 
-Es complicado. Siempre resulta difícil la primera vez que haces algo. Principalmente cuando colaboras con otros, pues cometer errores no es agradable. Queremos simplificar la forma en la que los nuevos contribuyentes de _open source_ aprenden y contribuyen por primera vez.
+Siempre resulta difícil la primera vez que haces algo. Principalmente cuando colaboras con otros, ya que cometer errores no es agradable. Es por ello que, queremos hacer más sencilla la forma en la que los nuevos contribuyentes de _open source_ aprenden y contribuyen por primera vez.
 
 Leer artículos y ver tutoriales puede ayudar, pero ¿Qué mejor que hacer las cosas en un ambiente de prácticas? Este proyecto se enfoca en guiar y en simplificar la forma en la que los principiantes hacen su primera contribución. Si buscas hacer tu primera contribución, sigue los pasos que se muestran a continuación.  
 
@@ -52,24 +52,24 @@ Cambia al directorio del repositorio en tu equipo (si es que no estás ahí ya).
 cd first-contributions
 ```
 
-Ahora crea una rama (*branch*) usando el comando  `git checkout`:
+Ahora crea una rama (*branch*) usando el comando  `git switch`:
 ```
-git checkout -b <añade tu nombre>
+git switch -c <añade tu nombre>
 ```
 
 Por ejemplo:
 ```
-git checkout -b add-juan-perez
+git switch -c add-juan-perez
 ```
 (El nombre de la rama no tiene porqué contener la palabra *add*, pero es razonable que lo tenga porque el objetivo de esta rama es añadir tu nombre a la lista.)
 
-## Haz los cambios necesarios y salva (*Commit*) esos cambios
+## Haz los cambios necesarios y guarda (*Commit*) esos cambios
 
 Abre el archivo `Contributors.md` en un editor de texto y añade tu nombre. No lo añadas ni al principio ni al final del archivo, hazlo en cualquier otro sitio. Guarda el archivo.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-Si vas al directorio del proyecto y ejecutas el comando  `git status`, podrás ver los cambios ya reflejados.
+Si vas al directorio del proyecto y ejecutas el comando `git status`, podrás ver los cambios ya reflejados.
 
 Agrega esos cambios a la rama (*branch*) que creaste antes usando el comando `git add`:
 
@@ -108,11 +108,11 @@ Pronto estaré combinando tus cambios (haciendo *merge*) con la rama master de e
 
 ¡Felicidades! ¡Has completado la línea de trabajo *_fork -> clone -> edit -> PR_* que encontrarás habitualmente como contribuidor!
 
-Festeja tu contribución y compártela con tus amigos y seguidores yendo a [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+Festeja tu contribución y compártela con tus amigos y seguidores yendo a [web app](https://firstcontributions.github.io/#social-share).
 
 También podrías unirte a nuestro *equipo* de Slack en caso de que necesites ayuda o tengas alguna pregunta. [Únete a nuestro Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-Ahora empieza a contribuir a otros proyectos. Hemos reunido una lista de proyectos con *issues* sencillas para que puedas empezar. Échale un ojo a la [lista de proyectos en la web app](https://roshanjossey.github.io/first-contributions/#project-list).
+Ahora empieza a contribuir a otros proyectos. Hemos reunido una lista de proyectos con *issues* sencillas para que puedas empezar. Échale un ojo a la [lista de proyectos en la web app](https://firstcontributions.github.io/#project-list).
 
 ### [Material adicional](../additional-material/git_workflow_scenarios/additional-material.md)
 
