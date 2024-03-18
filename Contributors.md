@@ -119,7 +119,7 @@ Hannah Sung
 - [Lakshmi Suhrutha]
 - [Jal shah](https://github.com/Jal5452)
 - [Jay Gaha](https://github.com/jaygaha) First contribution 🦾
-- [Aravinth M](https://github.com/theAravinthM) New to Open Source world 😎 First contribution 💪
+- [Aravinth M](https://github.com/theAravinthM) New to Open Source world 💪
 - [Joy Huang](https://github.com/joyeee)
 - [CodeXhale] (https://github.com/CodeXhale): My First Open-source Contribution 🎉.
 - [Shota Totsuka](https://github.com/ShotaTotsuka)
