@@ -55,6 +55,7 @@ Pereira
 - [Seb Gillman](https://github.com/SebGillman)
 - Jayanth K
 - ericbox
+- [Doug W](https://github.com/NoDouggity)
 - Dan Armstrong (https://github.com/Dannyarms)
 - Deepanshu Yadav (https://github.com/DeepanshuYadav-code)
 -Anchita Kakria
