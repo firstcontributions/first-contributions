@@ -13,6 +13,7 @@ Pereira
 - [faiza liyaqat](https://github.com/faizaliyaqat)
 - [Akshar Kalathiya](https://github.com/Akshar062)
 - [Christian Reyes](https://github.com/PrintRat6962)
+- [Ryan Huang](https://github.com/Ryan280703)
 - Sree
 - [Jorge Calleja](https://github.com/CallejaJ)
 - [Soham Samal](https://github.com/sazuyakun)
