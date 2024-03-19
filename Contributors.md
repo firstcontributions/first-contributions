@@ -135,6 +135,7 @@ Hannah Sung
 - [Pratik Mangalore]
 - [Irie B]
 - [Nathan850](https://github.com/az567812az)
+- [Johin Johny]
 - [Ashish Lakra](https://github.com/ashishlakraa)
 - [Lakshmi Suhrutha]
 - [Jal shah](https://github.com/Jal5452)
