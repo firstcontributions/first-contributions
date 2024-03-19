@@ -61,6 +61,7 @@ Pereira
 - Jayanth K
 - ericbox
 - Udana95
+- [D2-G2] (https://github.com/D2-G2)
 - [Doug W](https://github.com/NoDouggity)
 - Dan Armstrong (https://github.com/Dannyarms)
 - Deepanshu Yadav (https://github.com/DeepanshuYadav-code)
