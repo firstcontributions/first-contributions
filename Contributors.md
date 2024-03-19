@@ -48,6 +48,7 @@ Pereira
 - Ryan Lee
 107703027
 - [Eduardo León](https://github.com/xEduardo)
+- [Jackie Vargas](https://github.com/jackievivianv) || [LinkedIn](https://www.linkedin.com/in/jackievargascabanilla) || [Twitter](https://www.twitter.com/jackyvivian)
 -Khushi Joshi 
 110703067
 - nimilgp
