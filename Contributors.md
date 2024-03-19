@@ -2,10 +2,11 @@ git add Contributors.md# Contributors
 
 - [ablines]
 - [Seth Bruner](https://github.com/sethbMiami)
-- [Moustache9593] (https://github.com/Moustache9593)
+- [Moustache9593](https://github.com/Moustache9593)
+- [Weslen Lakins](https://github.com/WeslenLakins)
 - [Kai Breese](https://github.com/ninjakaib)
 - [Job Wamoyi](https://github.com/wamoyi)
-- Gandikota Phanindhra(https://github.com/Phani1609)
+- [Gandikota Phanindhra](https://github.com/Phani1609)
 - Ravindu Wickramage
 Pereira
 - Sujith Siddi
@@ -16,12 +17,12 @@ Pereira
 - Sree
 - [Jorge Calleja](https://github.com/CallejaJ)
 - [Soham Samal](https://github.com/sazuyakun)
-- [Thasneem] (https://github.com/thasneem9)
+- [Thasneem](https://github.com/thasneem9)
 - [Jessie De Jong](https://github.com/JessieDeJong)
 - [Bruno Mendes](https://github.com/brrrun)
 - Ruth
-- [Geoffrey Muchugi Maina] (https://github.com/M-Maina)
-- [faiza liyaqat] (https://github.com/faizaliyaqat)
+- [Geoffrey Muchugi Maina](https://github.com/M-Maina)
+- [faiza liyaqat](https://github.com/faizaliyaqat)
 - [David Mbuvi](https://github.com/cheekydavy)
 - [Harshithha](https://github.com/Harshithhha)
 - [Incognito Dark](https://github.com/ncgntdrk)
