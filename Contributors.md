@@ -109,6 +109,7 @@ Ed62134927
 -[Humanoid2005](https://github.com/Humanoid2005) Learning how to contribute to open source using git,github
 - [Jair Landeros](https://github.com/JairLanderos)
 - [Venkatesh Jamge](https://github.com/venkateshjamge)
+- CJ
 - [Nwachukwu Michael](https://github.com/Michael-Nwachukwu)
 - [Hamza or StudHamza :0](https://github.com/StudHamza)
 - [fayez coder](https://github.com/fayezCoder))
