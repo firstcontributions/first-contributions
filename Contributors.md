@@ -68,6 +68,7 @@ Pereira
 - Deepanshu Yadav (https://github.com/DeepanshuYadav-code)
 -Anchita Kakria
 - pritam sonmane
+-Lia
 Beatriz Guerrero https://github.com/Beatriz-G
 -[Rahul Rai](https://github.com/Rahulrai888)
 [Vaishnavi-Tumuluri](https://github.com/Vaishnavi-Tumuluri)||[LinkedIn](www.linkedin.com/in/vaishnavi-tumuluri)
