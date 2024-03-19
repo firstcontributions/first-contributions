@@ -52,6 +52,7 @@ Pereira
 -Khushi Joshi 
 110703067
 - nimilgp
+- krishna chaitanya
 -Jacob Coles
 110703067
 -[Koushik Gaddam](https://github.com/Koushikgaddam04)
