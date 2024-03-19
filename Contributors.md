@@ -328,6 +328,7 @@ guanj65
 - [Radhika Rathi](https://github.com/Radhikarathi04)
 - [Peter Khalil](https://github.com/Peter3Khalil)
 -[SahiL](https://github.com/SahiLmb)
+-[BlazarKnight](https://github.com/BlazarKnight)
 -[elfarsif](https://github.com/elfarsif)
 -[Cld0033}(https://github.com/Cld0033)]
 -[SarthakSource](https://github.com/Sarthaksource): My first contribution :)
