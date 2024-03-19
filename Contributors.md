@@ -5,6 +5,7 @@ git add Contributors.md# Contributors
 - [Moustache9593] (https://github.com/Moustache9593)
 - [Kai Breese](https://github.com/ninjakaib)
 - [Job Wamoyi](https://github.com/wamoyi)
+- [Mojtaba Hafezi](https://github.com/mojtaba-hafezi)
 - Gandikota Phanindhra(https://github.com/Phani1609)
 - Ravindu Wickramage
 Pereira
@@ -110,6 +111,7 @@ Ed62134927
 - Justin Blake
 igntius praise 
 - [satoshi nakamoto](https://en.wikipedia.org/wiki/Adam_Back)
+- [RitikShukla](https://github.com/kalm-dev)
 - [Nada Ayesh](https://github.com/nadasuhailAyesh12)
 - [James Kamz](https://github.com/JamesKamz)
 - [Loveday Ikegbulam](https://github.com/lovedayikegbulam)
@@ -326,6 +328,7 @@ guanj65
 - [Radhika Rathi](https://github.com/Radhikarathi04)
 - [Peter Khalil](https://github.com/Peter3Khalil)
 -[SahiL](https://github.com/SahiLmb)
+-[BlazarKnight](https://github.com/BlazarKnight)
 -[elfarsif](https://github.com/elfarsif)
 -[Cld0033}(https://github.com/Cld0033)]
 -[SarthakSource](https://github.com/Sarthaksource): My first contribution :)
@@ -381,6 +384,7 @@ guanj65
 - [Gilbert Bageni](https://github.com/bagenigilbert) [Linkedin](https://www.linkedin.com/in/gilbert-bageni-9413242a3/)
 - [NightLighter423](https://github.com/NightLighter423)
 - [Neeraj](https://github.com/neeraj0022)
+- [tkvitko](https://github.com/tkvitko)
 - [Rawoot Fly](https://github.com/rawoot2)
 - [Amanda Downie](https://github.com/aninymous412)
 - [Nick Boswell](https://www.linkedin.com/in/nick-boswell/)
@@ -2240,6 +2244,7 @@ Alexander
 - [Ankit Kumar](https://github.com/Aryabhatt1234)
 - [Joao Darwin](https://github.com/Joao-Darwin)
 - [T Geoffrey Liu](https://github.com/GeoffreyL7125)
+- [Joao Darwin](https://github.com/Joao-Dawin)
 - [Femi-Lawal](https://github.com/Femi-lawal)
 - [黄士崧](https://github.com/erich2s)
 - [Bishow Thapa](https://github.com/Bishow-Thapa)
@@ -2408,6 +2413,7 @@ LadegbayeStella)
 - [Legaroid](https://github.com/legaroid)
 - [Skidee](https://github.com/HeySkidee)
 - [Bobby Bucketz] 
+- [rickypaul666](http://github.com/rickypaul666)
 - [unkuseni](https://github.com/unkuseni)
 - [ammercu22](https://github.com/ammercu22)
 - [Ronen Taich](https://github.com/ronentaich17)
@@ -3338,6 +3344,7 @@ guanj65
 - [viteky](https://github.com/viteky)
 - [Kim Shaddy](https://github.com/shaddy1234)
 - [Rao Cai](https://github.com/RaoCai)
+- [jaydenhash02](https://github.com/jaydenhash02)
 - [flyingbit]
 - [Priyanshu Saha](https://github.com/pianist22)
 - [Diete-Spiff Timothy](https://github.com/Axn-Switch)
@@ -3349,4 +3356,5 @@ guanj65
 - [CrispNight]
 - [MJ Studio](https://github.com/mym0404)
 - [chen-mou](http://github.com/chen-mou)
+- [Molannn](https://github.com/Molannn)
 
