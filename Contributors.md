@@ -97,7 +97,7 @@ Kencham Vinay
 -[Dogukan Aysan](https://github.com/dogukan-aysan)
 -[Juan Cruz Francitorra](https://github.com/Jufaa)
 -[Akshat Shukla](https://github.com/Akshat-0001)
--[Venkatesh S Meti](https://github.com/venkateshmeti1432)
+-[Venkatesh S Meti](https://github.com/venkateshmeti1432) [LinkedIn](https://www.linkedin.com/in/venkateshsmeti/) 
 - [Stella Maina](https://github.com/Stella Maina)
 -[Roel Leal] (https://github.com/RoelLeal)
 -[Dario Tintore] (https://github.com/DarioTintore)
