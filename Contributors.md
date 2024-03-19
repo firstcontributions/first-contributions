@@ -3150,6 +3150,7 @@ LadegbayeStella)
 - [Moh](https://github.com/mohk23)
 - [Luke Hardy]
 - [Aviv Barak]
+- [IntelTank](https://github.com/inteltank1)
 - [Kaitlyn](https://github.com/kbrandt8)
 - [Wesley David](https://github.com/euchoba)
 - [Hung-Ting Lee](https://github.com/gary136)
@@ -3348,4 +3349,3 @@ guanj65
 - [CrispNight]
 - [MJ Studio](https://github.com/mym0404)
 - [chen-mou](http://github.com/chen-mou)
-
