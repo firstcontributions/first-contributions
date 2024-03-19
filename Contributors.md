@@ -3347,6 +3347,6 @@ guanj65
 - [DivijBuch](https://github.com/DivijBuch)
 - [Elliot Miller](https://github.com/j-elliot)
 - [CrispNight]
+- [MisouMisou]
 - [MJ Studio](https://github.com/mym0404)
 - [chen-mou](http://github.com/chen-mou)
-
