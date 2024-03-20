@@ -1826,6 +1826,7 @@ Romeu Leite
 - [DetorlarMubarak](https://github.com/Pious-coder)
 - [cvuneeez](https://github.com/cvuneeez)
 - [Yatee Singh](https://github.com/yatee-singh)
+- [Cristhian Becerra](https://github.com/cbecerrae)
 - [Hariharan](https://github.com/Hariharan148)
 - [Atharva Pardeshi](https://github.com/SazedWorldbringer)
 - [Khai Tran](https://github.com/minhkhai2005)
