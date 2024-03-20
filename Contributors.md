@@ -29,6 +29,7 @@ Pereira
 - [TRM](https://github.com/thirimon4550)
 - Sree
 - [Jorge Calleja](https://github.com/CallejaJ)
+- [Sergiu Grosu](https://github.com/sergrosu)
 - [Felipe Kras](https://github.com/FelipeKras)
 - [Soham Samal](https://github.com/sazuyakun)
 - [Thasneem] (https://github.com/thasneem9)
