@@ -11,7 +11,7 @@ git add Contributors.md# Contributors
 - [Kai Breese](https://github.com/ninjakaib)
 - [Job Wamoyi](https://github.com/wamoyi)
 - [Mojtaba Hafezi](https://github.com/mojtaba-hafezi)
-- Gandikota Phanindhra(https://github.com/Phani1609)
+- [Gandikota Phanindhra](https://github.com/Phani1609)
 - Ravindu Wickramage
 Pereira
 [JasonChen](https://github.com/110208061)
@@ -67,22 +67,22 @@ Pereira
 - Jayanth K
 - ericbox
 - Udana95
-- [D2-G2] (https://github.com/D2-G2)
+- [D2-G2](https://github.com/D2-G2)
 - [Doug W](https://github.com/NoDouggity)
-- Dan Armstrong (https://github.com/Dannyarms)
-- Deepanshu Yadav (https://github.com/DeepanshuYadav-code)
--Anchita Kakria
+- [Dan Armstrong] (https://github.com/Dannyarms)
+- [Deepanshu Yadav] (https://github.com/DeepanshuYadav-code)
+- Anchita Kakria
 - pritam sonmane
-Beatriz Guerrero https://github.com/Beatriz-G
+- [Beatriz Guerrero](https://github.com/Beatriz-G)
 -[Rahul Rai](https://github.com/Rahulrai888)
-[Vaishnavi-Tumuluri](https://github.com/Vaishnavi-Tumuluri)||[LinkedIn](www.linkedin.com/in/vaishnavi-tumuluri)
-[Ashoksanaka] (https:github.com/ashoksanaka)
+- [Vaishnavi-Tumuluri](https://github.com/Vaishnavi-Tumuluri)||[LinkedIn](www.linkedin.com/in/vaishnavi-tumuluri)
+- [Ashoksanaka] (https:github.com/ashoksanaka)
 -[David Okon](https://github.com/davidemusi)
 -[Bigyan Aryal](https://github.com/bigyan08)
 -[Steven Bennett](https://github.com/r3m3dial-g3nius)
 -[Aidan Palmer](https://github.com/aidan-palmer)
 -[Basim Hilal V](https://github.com/basimhilalv)
--[Major Yao ] (https://github.com/yoyov51234)
+-[Major Yao ](https://github.com/yoyov51234)
 -[Saskia George](https://github.com/SaskiaGeorge)
 -[Udit Kirar](https://github.com/UditKirar)
 -[Nikhil21](https://github.com/Nikhil-bit21)
@@ -2822,6 +2822,7 @@ LadegbayeStella)
 - [Christian Castillo](https://github.com/ChristianC93)
 - [Hannah Cummings](https://github.com/hnnhcmmngs)
 - [vinceflores](https://github.com/vinceflores?tab=projects)
+- [Mayank](https://github.com/MK-1407)
 - new user - andrew here! :D 
 -[lateBloomer](https://github.com/Winhub99)
 - [Juan Tate](https://github.com/tatejuan12)
