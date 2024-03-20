@@ -744,6 +744,7 @@ Jasmine
 - [Lukeoson](https://github.com/lukeoson)
 - [Raj](https://github.com/prajX)
 - [Ryan Morris](https://github.com/MorrisrCodes)
+- [Dhruv Sharma](https://github.com/kish7105)
 - [Oumatou](https://github.com/oumatoulacen)
 - [juli](https://github.com/tymnkey)
 - [David Bailey](https://github.com/DavidBailey3)
