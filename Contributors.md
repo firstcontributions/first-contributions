@@ -2221,6 +2221,7 @@ Alexander
 - [Gilbert Ozioma](https://github.com/gilbertozioma)
 - [Wong CZ](https://github.com/czwong02)
 - [Earl Villapaz](https://github.com/iearlg)
+- [blazejzj](https://github.com/blazejzj)
 - [Ron](https://github.com/Ron-Ash)
 - [FKKAIDA](https://github.com/FKKAIDA)
 - [ChaouachiAziz](https://github.com/ChaouachiAziz);
