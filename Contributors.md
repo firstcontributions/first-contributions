@@ -392,6 +392,7 @@ guanj65
   bios021
   KaKu
 - [Gabriela Sena da Silva] (https://github.com/Gabriela-Sena)
+- [The-Linux-User] (https://github.com/The-Linux-User)
 - [kalpesh-d](https://github.com/kalpesh-d)
 - [bradyhelms](https://github.com/bradyhelms)
 - [AutonmyLab](https://github.com/autonomylab-xyz)
