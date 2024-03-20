@@ -1,6 +1,7 @@
 git add Contributors.md# Contributors
 
 - [ablines]
+- [Kashif Naqvi](https://github.com/Kashif1Naqvi)
 - [Taylor Musolf](https://github.com/taylormusolf)
 - [Saahiil M](https://github.com/SaahiilM)
 - [Prerak Singh Sangwan](https://github.com/Prerak1310)
