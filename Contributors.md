@@ -7,6 +7,7 @@ git add Contributors.md# Contributors
 - [Prerak Singh Sangwan](https://github.com/Prerak1310)
 - [Seth Bruner](https://github.com/sethbMiami)
 - [Moustache9593] (https://github.com/Moustache9593)
+- [ArmaanveerSinghSidhu](https://github.com/ArmaanveerSinghSidhu)
 - [Kai Breese](https://github.com/ninjakaib)
 - [Job Wamoyi](https://github.com/wamoyi)
 - [Mojtaba Hafezi](https://github.com/mojtaba-hafezi)
