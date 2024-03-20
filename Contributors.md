@@ -3377,6 +3377,7 @@ guanj65
 - [CrispNight]
 - [MJ Studio](https://github.com/mym0404)
 - Luke
+- [Daniel Cham](https://github.com/xh-cham)
 - [chen-mou](http://github.com/chen-mou)
 - [Molannn](https://github.com/Molannn)
 - [he1301](https://github.com/helloworld1301)
