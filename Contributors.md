@@ -17,6 +17,7 @@ git add Contributors.md# Contributors
 Pereira
 [JasonChen](https://github.com/110208061)
 - Sujith Siddi
+- [Ayodeji Adesegun](https://github.com/ayodejiades)
 - [Jasper Zhuang](https://github.com/Jun-wei136/)
 - [faiza liyaqat](https://github.com/faizaliyaqat)
 - [Likheet Shetty](https://github.com/Likheet)
