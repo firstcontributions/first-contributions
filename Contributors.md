@@ -22,6 +22,7 @@ Pereira
 - [Ryan Huang](https://github.com/Ryan280703)
 - Sree
 - [Jorge Calleja](https://github.com/CallejaJ)
+
 - [Soham Samal](https://github.com/sazuyakun)
 - [Thasneem] (https://github.com/thasneem9)
 - [Jessie De Jong](https://github.com/JessieDeJong)
@@ -688,6 +689,7 @@ Jasmine
 - [AvionShea](https://github.com/AvionShea)
 - [stefisha](https://github.com/stefisha)
 - [Just1Car](https://github.com/Just1Carrr)
+- [bulascoskun](https://github.com/bulascoskun)
 - [Benjamin Cha]
 - [Nolan Newman]
 - [Eli Vatsaas]
