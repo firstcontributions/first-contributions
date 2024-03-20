@@ -3341,6 +3341,7 @@ guanj65
 - [Niyigena Fiston Alvin](https://github.com/ALVINdimpos)
 - [Claire]
 - [SinSheng]
+- [jeong-haerim](https://github.com/Jeong-hae-rim)
 - [Smoothie](https://github.com/Smoothie1023)
 - [WHEEL](https://github.com/Hynobius-formosanus)
 - [Noah Kubler](https://github.com/nskubler)
