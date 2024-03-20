@@ -384,6 +384,7 @@ guanj65
 -[Barak Rosenfeld]
 - [Rajesh K]
 - [Ken Z]
+- [Sridhar Patnaik]
 -[Gyamposu dodzi](https://github.com/gyamposudodzi) [Linkedin](https://linkedin.com/dodzigyamposu)
 -[Sravana Jyothi Yannam](https://github.com/syannam-12)
 -[Syed Suhana Khatun](https://github.com/Syed0206)
