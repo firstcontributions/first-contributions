@@ -362,6 +362,7 @@ guanj65
 -[majobasgall](https://github.com/majobasgall)
 -[caseyhchan](https://github.com/caseyhchan)
 - [Lewis Pilgrim](https://github.com/LewisPilgrim)
+- [MarcosCianci](https://github.com/mcianci2024)
 - [Falasool](https://github.com/falasool)
 - [eoMazur] (https://github.com/eoMazur) 
 -[Alejandro Salinas] (https://github.com/asalinas4826)
