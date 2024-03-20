@@ -22,6 +22,7 @@ Pereira
 - [Ryan Huang](https://github.com/Ryan280703)
 - Sree
 - [Jorge Calleja](https://github.com/CallejaJ)
+- [Felipe Kras](https://github.com/FelipeKras)
 - [Soham Samal](https://github.com/sazuyakun)
 - [Thasneem] (https://github.com/thasneem9)
 - [Jessie De Jong](https://github.com/JessieDeJong)
