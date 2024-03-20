@@ -22,6 +22,7 @@ Pereira
 - [Akshar Kalathiya](https://github.com/Akshar062)
 - [Christian Reyes](https://github.com/PrintRat6962)
 - [Ryan Huang](https://github.com/Ryan280703)
+- [TRM](https://github.com/thirimon4550)
 - Sree
 - [Jorge Calleja](https://github.com/CallejaJ)
 - [Felipe Kras](https://github.com/FelipeKras)
