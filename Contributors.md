@@ -2,6 +2,7 @@ git add Contributors.md# Contributors
 
 - melih-canbolat
 - [ablines]
+- [Horusateel](https://github.com/Horusateel)
 - [Vedant Bhawnani](https://github.com/vedantbhawnani)
 - [Kashif Naqvi](https://github.com/Kashif1Naqvi)
 - [Giancarlo Groaznicu](https://github.com/grimmiegramm)
