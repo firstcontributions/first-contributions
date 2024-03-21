@@ -77,6 +77,7 @@ Pereira
 110703067
 - nimilgp
 - krishna chaitanya
+- Kanishka Utagikar(https://github.com/kanishkautag)
 -Jacob Coles
 110703067
 -[Koushik Gaddam](https://github.com/Koushikgaddam04)
