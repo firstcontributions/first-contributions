@@ -3,20 +3,27 @@ git add Contributors.md# Contributors
 - [ablines]
 - [Vedant Bhawnani](https://github.com/vedantbhawnani)
 - [Kashif Naqvi](https://github.com/Kashif1Naqvi)
+- [Giancarlo Groaznicu](https://github.com/grimmiegramm)
 - [Taylor Musolf](https://github.com/taylormusolf)
 - [Saahiil M](https://github.com/SaahiilM)
 - [Prerak Singh Sangwan](https://github.com/Prerak1310)
-- [Seth Bruner](https://github.com/sethbMiami) -[Harshit Singh]
+- [Vanisha Gupta](https://github.com/V-anisha)
+- [Seth Bruner](https://github.com/sethbMiami)
+-[Harshit Singh]
 - [Moustache9593] (https://github.com/Moustache9593)
 - [PranavNair] (https://github.com/pranavniar)
 - [ArmaanveerSinghSidhu](https://github.com/ArmaanveerSinghSidhu)
 - [Kai Breese](https://github.com/ninjakaib)
 - [Job Wamoyi](https://github.com/wamoyi)
+- [Mohammad Dahamshi](https://github.com/mdahamshi)
 - [Mojtaba Hafezi](https://github.com/mojtaba-hafezi)
 - Gandikota Phanindhra(https://github.com/Phani1609)
 - Ravindu Wickramage
   Pereira -[Anvaya Solanki]
   [JasonChen](https://github.com/110208061)
+Pereira
+[JasonChen](https://github.com/110208061)
+- [JaeKyung Hwang](https://github.com/do0ori)
 - Sujith Siddi
   -Priyanshu
 - [Ayodeji Adesegun](https://github.com/ayodejiades)
@@ -76,7 +83,22 @@ git add Contributors.md# Contributors
 - pritam sonmane
   Beatriz Guerrero https://github.com/Beatriz-G -[Rahul Rai](https://github.com/Rahulrai888)
   [Vaishnavi-Tumuluri](https://github.com/Vaishnavi-Tumuluri)||[LinkedIn](www.linkedin.com/in/vaishnavi-tumuluri)
-  [Ashoksanaka] (https:github.com/ashoksanaka) -[David Okon](https://github.com/davidemusi) -[Bigyan Aryal](https://github.com/bigyan08) -[Steven Bennett](https://github.com/r3m3dial-g3nius) -[Aidan Palmer](https://github.com/aidan-palmer) -[Brady Burns](https://github.com/burnsie000) -[Basim Hilal V](https://github.com/basimhilalv) -[Major Yao ] (https://github.com/yoyov51234) -[Saskia George](https://github.com/SaskiaGeorge) -[Udit Kirar](https://github.com/UditKirar) -[Nikhil21](https://github.com/Nikhil-bit21)
+  [Ashoksanaka] (https:github.com/ashoksanaka)
+Beatriz Guerrero https://github.com/Beatriz-G
+-[Rahul Rai](https://github.com/Rahulrai888)
+[Vaishnavi-Tumuluri](https://github.com/Vaishnavi-Tumuluri)||[LinkedIn](www.linkedin.com/in/vaishnavi-tumuluri)
+[Ashoksanaka] (https:github.com/ashoksanaka)
+-[David Okon](https://github.com/davidemusi)
+-[Bigyan Aryal](https://github.com/bigyan08)
+-[Steven Bennett](https://github.com/r3m3dial-g3nius)
+-[Aidan Palmer](https://github.com/aidan-palmer)
+-[Brady Burns](https://github.com/burnsie000)
+-[Basim Hilal V](https://github.com/basimhilalv)
+-[Major Yao ] (https://github.com/yoyov51234)
+-[Saskia George](https://github.com/SaskiaGeorge)
+-[Udit Kirar](https://github.com/UditKirar)
+- [Sweshika Papani](https://github.com/Sweshika31)
+-[Nikhil21](https://github.com/Nikhil-bit21)
 - [Priyanshu](https://github.com/Priyanshu085) || [LinkedIn](https://www.linkedin.com/in/Priyanshu085) || [Twitter](https://www.twitter.com/Priyanshux085)
 - [Olibhia Ghosh](https://github.com/OlibhiaGhosh) || [LinkedIn](https://www.linkedin.com/in/olibhiaghosh/) || [Twitter](https://twitter.com/OlibhiaGhosh)
 - [Sophia Iroegbu](https://github.com/Sophyia7) || [Twitter](https://twitter.com/sophiairoegbu_)
@@ -164,6 +186,7 @@ git add Contributors.md# Contributors
 - [MPC] (https://github.com/Myat-00)
 - Rambo
 - Quinter Wangare
+- [Nimrod Kabiru](https://github.com/nimuragz)
 - [MuhammadNurHakimi] (https://github.com/nurhakimi97) i'm going to be the best developer in the world
   [111703012](https://github.com/caijinghong1468)
   [pentagonpie](https://github.com/pentagonpie)
@@ -2613,6 +2636,7 @@ git add Contributors.md# Contributors
 - [Viviana Romero] (https://github.com/vivianaromeroo)
 - [Abhishek Soni] (https://github.com/Abhishekksoni)
 - [katerina r] (https://github.com/katerinarousi)
+- [Ravi Kumar](https://github.com/ravikumar7007)
 - [S SRINATH](https://github.com/ssrinath-sri) Thank you for helping out 🫰😁
 - [zhenchai00](https://github.com/zhenchai00)
 - [Sourav Malani](https://github.com/Sourav-Malani)
@@ -3174,3 +3198,4 @@ git add Contributors.md# Contributors
 - [Molannn](https://github.com/Molannn)
 - [he1301](https://github.com/helloworld1301)
 - [KentaYamamoto3286](https://github.com/KentaYamamoto3286)
+- [Pasan Hewavitharana](https://github.com/pasan2002)
