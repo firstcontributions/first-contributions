@@ -482,7 +482,6 @@ something...changed
 - [Ngonzi Bridget](https://github.com/bree256)
 - [Okuta Omeiza](https://github.com/omeiza-devops)
 - [AnshJain]
-- [ahmed nagaadshe](https://github.com/nagaadshe1)
 - [Aditya Pandey](https://github.com/aditya-524)
 - [TexelHack](https://github.com/texelh4ck)
 - [Gnanendra M] (https://github.com/developer-in-wor
