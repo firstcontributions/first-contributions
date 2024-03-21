@@ -9,6 +9,7 @@ git add Contributors.md# Contributors
 - [Seth Bruner](https://github.com/sethbMiami)
 -[Harshit Singh]
 - [Moustache9593] (https://github.com/Moustache9593)
+- [PranavNair] (https://github.com/pranavniar)
 - [ArmaanveerSinghSidhu](https://github.com/ArmaanveerSinghSidhu)
 - [Kai Breese](https://github.com/ninjakaib)
 - [Job Wamoyi](https://github.com/wamoyi)
