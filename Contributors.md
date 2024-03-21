@@ -54,6 +54,7 @@ Pereira
 - [Valentyn Novosydliuk](https://github.com/ValentynNVS)
 /Hyungseop 1872a3a8f (Add Hyungseop to Contributors list)
 - [WilsonDai]
+-[Anvaya Solanki](https://github.com/anvaya-solanki)
 - [Dev Garg](https://github.com/Dev771)
 - [hyunwoo](https://github.com/Na-hyunwoo)
 - [Sethika Manumitha](https://github.com/SethikaManumitha/)
