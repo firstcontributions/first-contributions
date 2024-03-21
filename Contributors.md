@@ -3404,4 +3404,5 @@ guanj65
 - [chen-mou](http://github.com/chen-mou)
 - [Molannn](https://github.com/Molannn)
 - [he1301](https://github.com/helloworld1301)
+- [KentaYamamoto3286](https://github.com/KentaYamamoto3286)
 
