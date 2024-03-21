@@ -3394,6 +3394,7 @@ guanj65
 - [nklkarthi](https://github.com/nklkarthi)
 - [DivijBuch](https://github.com/DivijBuch)
 - [Elliot Miller](https://github.com/j-elliot)
+- [Jamie Phillips](https://github.com/jamie-phillips)
 - [CrispNight]
 - [MJ Studio](https://github.com/mym0404)
 - Luke
