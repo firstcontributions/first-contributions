@@ -6,7 +6,7 @@ Git Bash is a versatile command-line interface that provides a Unix-like environ
 
 ## Prerequisites
 
-Before installing Git Bash, make sure you have the following:
+Before installing Git Bash, make sure you have the following pre-requisites:
 
 - Windows operating system (Windows 7 or later recommended)
 - Internet connection
