@@ -124,6 +124,7 @@ Beatriz Guerrero https://github.com/Beatriz-G
 - [Kuth Chi](https://github.com/kuth-chi) [Linkedin](https://www.linkedin.com/in/kuth-chi)
 - [Matrix Bro](https://github.com/matrix-bro)
 - [Abhishek Agrawal](https://github.com/Abhi)
+- [Mehmet Karakas](https://github.com/mhmtkarakas)
 - [Ogo Nelson](https://github.com/OgoNelson) [Twitter](https://www.twitter.com/ogo_nelson)
 - [Joyce Serah](https://github.com/JoyceSerah)
 - [Akira Machimura](https://github.com/AkrMcmr) [Twitter](https://twitter.com/machi_heigh_ho)
