@@ -6,6 +6,7 @@ git add Contributors.md# Contributors
 - [Horusateel](https://github.com/Horusateel)
 - [Vedant Bhawnani](https://github.com/vedantbhawnani)
 - [Kashif Naqvi](https://github.com/Kashif1Naqvi)
+- [Aravinth](https://github.com/theAravinthM) -> Exploring Open Source 🎉
 - [Giancarlo Groaznicu](https://github.com/grimmiegramm)
 - [Taylor Musolf](https://github.com/taylormusolf)
 - [Saahiil M](https://github.com/SaahiilM)
