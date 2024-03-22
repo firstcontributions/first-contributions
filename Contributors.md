@@ -1415,6 +1415,7 @@ Romeu Leite
 - [StablePeru] (https://github.com/StablePeru)
 - [Zack F]
 - [Julian]
+- [Kati Saro](https://github.com/katisaro)
 - [Delton Hughes](https://github.com/dHughes97)
 - [Sixtus Agbo](https://github.com/sixtusagbo)
 - [Huzaifa Azim](https://github.com/huzaifaazim0)
