@@ -364,6 +364,7 @@ Kencham Vinay
 - [John L](https://github.com/john89521)
 - [Olivia Hinson] (https://github.com/ohinson01): my first open-source contribution.
 guanj65
+- [Abhishek Pattanayak](https://github.com/abhishekppattanayak)
 - [Harjas Singh](https://github.com/harjasae2001)
 - [Mignot Dansa](https://github.com/mignotdansa)
 - [Corbin Griffin](https://github.com/Kaboombafoo)
