@@ -100,6 +100,7 @@ Beatriz Guerrero https://github.com/Beatriz-G
 -[Rahul Rai](https://github.com/Rahulrai888)
 [Vaishnavi-Tumuluri](https://github.com/Vaishnavi-Tumuluri)||[LinkedIn](www.linkedin.com/in/vaishnavi-tumuluri)
 [Ashoksanaka] (https:github.com/ashoksanaka)
+[ManuHN] (https:github.com/manu-hn)
 [Sai Smaran Panda] (https://github.com/sai-3000)
 -[David Okon](https://github.com/davidemusi)
 -[Bigyan Aryal](https://github.com/bigyan08)
