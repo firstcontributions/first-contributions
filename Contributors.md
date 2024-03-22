@@ -1852,6 +1852,7 @@ Romeu Leite
 - [Gordon Lim](https://github.com/gordonlim02)
 - [DetorlarMubarak](https://github.com/Pious-coder)
 - [cvuneeez](https://github.com/cvuneeez)
+- [Arick Bulakali](https://github.com/ndekocode)
 - [Yatee Singh](https://github.com/yatee-singh)
 - [Cristhian Becerra](https://github.com/cbecerrae)
 - [Hariharan](https://github.com/Hariharan148)
@@ -3433,4 +3434,5 @@ guanj65
 - [Pasan Hewavitharana](https://github.com/pasan2002)
 - [Anuraj Venkatpurwar](https://github.com/Anuraj4)
 - [xiaoxianBoy](https://github.com/xiaoxianBoy)
+
 
