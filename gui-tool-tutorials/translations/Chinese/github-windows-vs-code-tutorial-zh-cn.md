@@ -97,34 +97,34 @@ VS Code 的左侧是一个菜单，其中显示了 5 个图标。选择 version 
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-push.png" alt="Stashed Files">
 
-Use the three-dot icon to open up the menu where you select the `Publish Branch` option. This should open up a dialog to put your GitHub credentials in.
+现在您已经把您修改过的代码提交到了您的仓库。接下来我们需要把这些修改推送到 GitHub 上。点击 `...` 按钮，然后选择 `Push`（中文插件：推送）。不过第一次的您可能需要输入您的 GitHub 账号和密码。
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-gh-auth.png" alt="Stashed Files">
 
-## Submit your changes for review
+## Pull Request（RP，合并请求）
 
-At this point you have completed your change but it still only resides in your repo. This step will show you how to submit a request to the administrator of the top-level repo to merge your change.
+此时的您所有的修改仅仅存在于你的仓库，一下步将提交到原始仓库中。
 
-In your repo on GitHub you'll see the `Compare & pull request` button next to the new branch notification. Click on that button.
+在您 GitHub 上的仓库中，您将看到新分支通知旁边的 Compare & pull request 按钮。单击该按钮。
 
 <img src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-Now submit the pull request.
+现在您可以提交Pull Request（合并请求）了。
 
 <img src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+不就之后作者会将您的所有更改合并到该项目的 main 分支中。合并更改后，您将收到一封通知电子邮件。
 
-## Where to go from here?
+## 下一步去哪?
 
-Congrats! You have just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
+恭喜！您刚刚完成了作为贡献者经常遇到的标准流程：fork -> 克隆 -> 编辑 -> PR！
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io#social-share).
+庆祝您的在开源路上的第一次贡献吧，您也可以和您的亲朋好友分享这个[网站](https://firstcontributions.github.io#social-share)，帮助他们参与到开源中来。
 
-You can join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+如果您需要任何帮助或有任何疑问，可以加入我们的 Slack 团队。[加入 slack 群组](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
+### [附加资料](../../../additional-material/translations/Chinese/additional-material.zh-cn.md)
 
-### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)
+## 使用其他工具的教程
 
-## Tutorials Using Other Tools
-[Back to main page](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
+[返回主页](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
