@@ -1702,6 +1702,7 @@ Romeu Leite
 - [Dibya Shakti Panda](https://github.com/Dibyas98)
 - [Navin P](https://github.com/mep1tz)
 - [Jacob S](https://github.com/JacobSletten)
+- [Gerges Badr](https://github.com/GergesBadr)
 - [Shubham Kumar] (https://github.com/shubh1777)
 - [Amol Pardeshi](https://gi thub.com/AmolPardeshi99) -[Rhitika Pal Adhikari](https://github.com/PalRhitika)
 - [Shahil Kumar](https://github.com/Shahil9728)
