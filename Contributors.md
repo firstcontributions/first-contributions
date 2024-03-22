@@ -42,6 +42,7 @@ Pereira
 - Sree
 - [Jorge Calleja](https://github.com/CallejaJ)
 - [Sergiu Grosu](https://github.com/sergrosu)
+- [Anujesh Bansal](https://github.com/anujeshify)
 - [Felipe Kras](https://github.com/FelipeKras)
 - [Soham Samal](https://github.com/sazuyakun)
 - [Thasneem] (https://github.com/thasneem9)
