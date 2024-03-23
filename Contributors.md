@@ -16,6 +16,7 @@ git add Contributors.md# Contributors
 - [Vanisha Gupta](https://github.com/V-anisha)
 - [KMC](https://github.com/kaungmyatcho)
 - [Seth Bruner](https://github.com/sethbMiami)
+- [Hoorya Rafiq](https://github.com/HooryaR)
 -[Harshit Singh]
 - [Bj Acharya](https://achbj.com)[GitHub](https://github.com/achbj)[LinkedIn](https://linkedin.com/in/achbj)
 - [Moustache9593] (https://github.com/Moustache9593)
