@@ -2441,6 +2441,7 @@ Alexander
 - [Steven Childs](https://github.com/SteveWonderbelt)
 - [Jessy H](https://github.com/jeeehaan)
 - [Bennett Hammock](https://github.com/Bhammock33)
+- [Nikola Simjanovski](https://github.com/SimjanovskiNikola)
 - [conundrum1](https://github.com/conundrum1)
 - [Mara Matias](https://github.com/maramatias)
 - [Alice Gathoni Mirigo](https://github.com/alicemirigo92)
