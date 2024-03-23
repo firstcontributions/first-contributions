@@ -2140,6 +2140,7 @@ Alexander
 - [JJM](https://github.com/Jiaming-Jin)
 - [OneSrX](https://github.com/OneSrX)
 - [Ifeoluwah](https://github.com/ifeoluwah21)
+- [Winston Kinoti](https://github.com/WinTush)
 - [Avinash N](https://github.com/AviN27)
 - [Dbecausing](https://github.com/dbecausing)
 - [Jose Sesena](https://github.com/jsesena/first-contributions)
