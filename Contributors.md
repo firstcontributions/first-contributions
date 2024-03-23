@@ -1799,6 +1799,7 @@ Romeu Leite
    [Willem Cierenberg] (https://github.com/WillemCier/)
 - [Yogesh G](https://github.com/yogeshgunasekaran)
 - [Abdirashid Mowlid](https://github.com/Abdirashid-dv)
+- [Sajeel Ahmed Alvi](https://github.com/sajeelalvi)
 - [Priyansh Garg](https://github.com/prynshg)
 - [nickf2k](https://github.com/nickf2k)
 - [Harish](https://github.com/HarishI123)
