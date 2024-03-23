@@ -26,6 +26,7 @@ git add Contributors.md# Contributors
 - [ArmaanveerSinghSidhu](https://github.com/ArmaanveerSinghSidhu)
 - [Kai Breese](https://github.com/ninjakaib)
 - [Job Wamoyi](https://github.com/wamoyi)
+- [William Alvarez](https://github.com/williamalvarezdev)
 - [Mohammad Dahamshi](https://github.com/mdahamshi)
 - [Mojtaba Hafezi](https://github.com/mojtaba-hafezi)
 - Gandikota Phanindhra(https://github.com/Phani1609)
