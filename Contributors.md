@@ -1,6 +1,7 @@
 git add Contributors.md# Contributors
 
 - melih-canbolat
+- [Harsh Sonkar](https://github.com/dynamicHarsh)
 - [Harshal Honde](https://github.com/Harry262000)
 - [Williyam M](https://github.com/williyam-m)
 - [ablines]
