@@ -1726,6 +1726,7 @@ Romeu Leite
 - [Hajnalka Horvath] (https://github.com/HorvathHajnalka)
 - [Johnson Shan] (https://github.com/JohnsonShan)
 - [J22 the mad man]
+- [Sasmit](https://github.com/mosaicsoft)
 - [Caleb Hill](https://github.com/calebhill98)
 - [Looki](https://github.com/Looki-fr)
 - [Lalit Chugh](https://github.com/Lalitkumar21/)
