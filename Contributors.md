@@ -3,6 +3,7 @@ git add Contributors.md# Contributors
 - melih-canbolat
 - [Harshal Honde](https://github.com/Harry262000)
 - [ablines]
+- [Kunal Tyagi](https://github.com/tykunal)
 - [Gerald Lopez jr](https://github.com/gerilla2016)
 - [Marlon Quinde](https://github.com/Marlon-Quinde)
 - [Horusateel](https://github.com/Horusateel)
