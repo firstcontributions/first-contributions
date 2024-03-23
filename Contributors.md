@@ -36,7 +36,7 @@ git add Contributors.md# Contributors
 - Ravindu Wickramage
 Pereira
 - [Tyler Deschenes](https://github.com/deschenest)
-[JasonChen](https://github.com/110208061)
+- [JasonChen](https://github.com/110208061)
 - [JaeKyung Hwang](https://github.com/do0ori)
 - Sujith Siddi
 -Priyanshu
