@@ -1012,6 +1012,7 @@ Jasmine
 - [Shagun Sharma](https://github.com/shagunsharma6677)
 - [m4tej](https://github.com/m4tej241)
 - [Auwalu Hamza](https://github.com/afhamu)
+- [Varun Sharma](https://github.com/varunsh20/)
 - [Swetha Kannan](https://github.com/swethakannan12)
 - [gpalacios26] (https://github.com/gpalacios26/curso-git-fork)
 - [Fahad Shoaib] (https://github.com/Fahad-S94)
