@@ -1532,6 +1532,7 @@ Romeu Leite
 - [Akshay Ranjan](https://github.com/Yass-ryu)
 - Saumitra Paira
 - [Sudarshan Nikhil](https://github.com/SlimReaper15)
+- [ono-taka](https://github.com/ono-taka179)
 - Kunal Takalkhede
 - nathosboy
 - dr_zoid
