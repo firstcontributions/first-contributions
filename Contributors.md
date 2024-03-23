@@ -33,6 +33,7 @@ Pereira
 - [JaeKyung Hwang](https://github.com/do0ori)
 - Sujith Siddi
 -Priyanshu
+- B1ade-Z
 - [Ayodeji Adesegun](https://github.com/ayodejiades)
 - [Jasper Zhuang](https://github.com/Jun-wei136/)
 - [faiza liyaqat](https://github.com/faizaliyaqat)
@@ -46,6 +47,7 @@ Pereira
 - [Jorge Calleja](https://github.com/CallejaJ)
 - [Sergiu Grosu](https://github.com/sergrosu)
 - [Anujesh Bansal](https://github.com/anujeshify)
+- Blade-Z
 - [Felipe Kras](https://github.com/FelipeKras)
 - [Soham Samal](https://github.com/sazuyakun)
 - [Thasneem] (https://github.com/thasneem9)
