@@ -180,8 +180,8 @@ igntius praise
 - [Cameron Brown](https://github.com/cameronjoebrown)
 - [Cyril Azubuine](https://github.com/cyrilberrypi) [LinkedIn](https://www.linkedin.com/in/cyril-azubuine/) [X](https://twitter.com/iamcyril_edtech)
 Hannah Sung
-- Edith Cherotich<<<<<<< GitHubTest
--[Joyston https://github.com/NoviceProgrammer210]>>>>>>> main
+- Edith Cherotich
+-[Joyston https://github.com/NoviceProgrammer210]
 - ferrrr
 - [Pratik Mangalore]
 - [Irie B]
