@@ -30,6 +30,7 @@ git add Contributors.md# Contributors
 - [ArmaanveerSinghSidhu](https://github.com/ArmaanveerSinghSidhu)
 - [Kai Breese](https://github.com/ninjakaib)
 - [Job Wamoyi](https://github.com/wamoyi)
+- [Beloise Huffstutler](https://github.com/fullStackRacc)
 - [William Alvarez](https://github.com/williamalvarezdev)
 - [Mohammad Dahamshi](https://github.com/mdahamshi)
 - [Mojtaba Hafezi](https://github.com/mojtaba-hafezi)
