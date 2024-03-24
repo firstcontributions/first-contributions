@@ -1215,6 +1215,7 @@ Gyanendra Thakur
 - [Vinuthna](https://github.com/vinuthna29)
 - [Atif Abedeen](https://github.com/atifabedeen)
 - [Muqeet Mughal](https://github.com/muqeetmughal)
+- [Donovan Guard] (https://github.com/dlguard)
 - [Feven Seyfu](https://github.com/FevenSeyfu)
 - [Kai Hyperion Yun](https://github.com/kaihyperion)
 - [Kevin Zheng](https://github.com/csdoge007)
