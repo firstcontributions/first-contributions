@@ -22,6 +22,7 @@ git add Contributors.md# Contributors
 - [Saahiil M](https://github.com/SaahiilM)
 - [Prerak Singh Sangwan](https://github.com/Prerak1310)
 - [Vanisha Gupta](https://github.com/V-anisha)
+- Ray Wu
 - [KMC](https://github.com/kaungmyatcho)
 - [Seth Bruner](https://github.com/sethbMiami)
 - [Hoorya Rafiq](https://github.com/HooryaR)
