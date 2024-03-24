@@ -66,6 +66,7 @@ Pereira
 - [Bruno Mendes](https://github.com/brrrun)
 - [Bhumi Padhiyar](https://github.com/Bhumiba01)
 - Ruth
+- Himanshu
 - [Geoffrey Muchugi Maina] (https://github.com/M-Maina)
 - [faiza liyaqat] (https://github.com/faizaliyaqat)
 - [David Mbuvi](https://github.com/cheekydavy)
