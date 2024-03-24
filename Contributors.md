@@ -3466,4 +3466,6 @@ guanj65
 - [xiaoxianBoy](https://github.com/xiaoxianBoy)
 [abhinayksingh](https://github.com/abhinayksingh)
 - [Tianhong Gao](https://github.com/Gaotianhong)
+- [Jean Paul Petit](https://github.com/Extremepaul)
+
 

@@ -17,7 +17,7 @@ El primer requisito es tener:
 - Git instalado (cómo instalar [git](https://git-scm.com/downloads))
 - Cuenta Github
 
-Now we need to install the `github-cli` tool in our system by following the [official documentation](https://github.com/cli/cli#installation)
+Ahora necesitamos instalar el `github-cli` tool en nuestro sistema siguiendo la [documentacion oficial](https://github.com/cli/cli#installation)
 
 After that, we need to login in the CLI, so enter this command: 
 ```bash 
