@@ -4,6 +4,7 @@ git add Contributors.md# Contributors
 - melih-canbolat
 - [JerrySagwa] (https://github.com/JerrySagwa)
 - [Harsh Sonkar](https://github.com/dynamicHarsh)
+- [Stephane Mora](https://github.com/stephanemora)
 - [Boujendar Abderrahmane](https://github.com/Boujendar-Abderrahmane) -> My first contribution 
 - [Harshal Honde](https://github.com/Harry262000)
 - [Williyam M](https://github.com/williyam-m)
