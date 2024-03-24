@@ -19,6 +19,7 @@ git add Contributors.md# Contributors
 - [Kashif Naqvi](https://github.com/Kashif1Naqvi)
 - [Joseph Wole-Abu](https://github.com/jwoleabu)
 - [Aravinth](https://github.com/theAravinthM) -> Exploring Open Source 🎉
+-  Vincent
 - [Giancarlo Groaznicu](https://github.com/grimmiegramm)
 - [Taylor Musolf](https://github.com/taylormusolf)
 - [Saahiil M](https://github.com/SaahiilM)
