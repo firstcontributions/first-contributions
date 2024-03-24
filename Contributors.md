@@ -2,6 +2,7 @@ git add Contributors.md# Contributors
 
 - [Akintunde Olayinka] (https://githu.com/oakintunde)
 - melih-canbolat
+- [JerrySagwa] (https://github.com/JerrySagwa)
 - [Harsh Sonkar](https://github.com/dynamicHarsh)
 - [Boujendar Abderrahmane](https://github.com/Boujendar-Abderrahmane) -> My first contribution 
 - [Harshal Honde](https://github.com/Harry262000)
