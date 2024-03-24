@@ -59,7 +59,6 @@ Hannah Sung
 - [Mohmmed Ayesh](https://github.com/mohmmadAyesh)
 - [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
 - [Siam Rahman](https://github.com/SiamRahman29) [LinkedIn](https://www.linkedin.com/in/siamrahman-29/)
-- [Jennie D](https://github.com/jennie-jd) 2nd try :)
 - [Carson Evans](https://github.com/carson-evans) [LinkedIn](https://linkedin.com/in/carson-evans42)
 - [Jessica Huynh-Westfall](https://github.com/jessicatwes)[LinkedIn](https://www.linkedin.com/in/jessicahuynhwestfall/)
 - [Mohit Kumhar](https://github.com/mohitkumhar) [LinkedIn](www.linkedin.com/in/mohitkumhar)
