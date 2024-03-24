@@ -52,6 +52,7 @@ Pereira
 - [faiza liyaqat](https://github.com/faizaliyaqat)
 - [Likheet Shetty](https://github.com/Likheet)
 - [Wiafe Boakye Eddie](https://github.com/xs-eddie)
+- [Marcelo Muszalski] (https://github.com/marcelomusza)
 - [Akshar Kalathiya](https://github.com/Akshar062)
 - [Christian Reyes](https://github.com/PrintRat6962)
 - [Ryan Huang](https://github.com/Ryan280703)
