@@ -3,6 +3,7 @@ git add Contributors.md# Contributors
 - [Akintunde Olayinka] (https://githu.com/oakintunde)
 - melih-canbolat
 - [Harsh Sonkar](https://github.com/dynamicHarsh)
+- [Boujendar Abderrahmane](https://github.com/Boujendar-Abderrahmane) -> My first contribution 
 - [Harshal Honde](https://github.com/Harry262000)
 - [Williyam M](https://github.com/williyam-m)
 - [ablines]
@@ -21,6 +22,7 @@ git add Contributors.md# Contributors
 - [Saahiil M](https://github.com/SaahiilM)
 - [Prerak Singh Sangwan](https://github.com/Prerak1310)
 - [Vanisha Gupta](https://github.com/V-anisha)
+- Ray Wu
 - [KMC](https://github.com/kaungmyatcho)
 - [Seth Bruner](https://github.com/sethbMiami)
 - [Hoorya Rafiq](https://github.com/HooryaR)
@@ -47,6 +49,7 @@ Pereira
 - [Jasper Zhuang](https://github.com/Jun-wei136/)
 - [faiza liyaqat](https://github.com/faizaliyaqat)
 - [Likheet Shetty](https://github.com/Likheet)
+- [Wiafe Boakye Eddie](https://github.com/xs-eddie)
 - [Akshar Kalathiya](https://github.com/Akshar062)
 - [Christian Reyes](https://github.com/PrintRat6962)
 - [Ryan Huang](https://github.com/Ryan280703)
@@ -218,6 +221,7 @@ Hannah Sung
 - [Mohit Kumhar](https://github.com/mohitkumhar) [LinkedIn](www.linkedin.com/in/mohitkumhar)
 - [Edgar Budaghyan](https://github.com/Budaghyan)
 - [Jennie](https://github.com/jennie-jd)
+- [Mohamed Abdelaziz](https://github.com/Mohamed-abdalazez)
 - [Hruthik Anugula](https://github.com/hruthikgithubrit)
 - [Ashutosh Panda](https://github.com/ashu7896) [(Linkedin)](https://www.linkedin.com/in/ashu7896)
 - [chux] (https://github.com/codechux)
@@ -623,6 +627,7 @@ guanj65
 - [Bryan](https://github.com/BryanLoooo)
 - [Afolarin](https://github.com/Fola-rin)
 - [Zach](https://github.com/zfast25)
+- [ayobami-akande](https://github.com/adeyemimichael)
 - [Stanley Agu](https://github.com/aguchux)
 - [Sri](https://github.com/srinifun)
 - [Lormars](https://github.com/Lormars)
@@ -1212,6 +1217,7 @@ Gyanendra Thakur
 - [Vinuthna](https://github.com/vinuthna29)
 - [Atif Abedeen](https://github.com/atifabedeen)
 - [Muqeet Mughal](https://github.com/muqeetmughal)
+- [Donovan Guard] (https://github.com/dlguard)
 - [Feven Seyfu](https://github.com/FevenSeyfu)
 - [Kai Hyperion Yun](https://github.com/kaihyperion)
 - [Kevin Zheng](https://github.com/csdoge007)
