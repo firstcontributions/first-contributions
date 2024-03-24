@@ -104,6 +104,7 @@ Pereira
 -Jacob Coles
 110703067
 -[Koushik Gaddam](https://github.com/Koushikgaddam04)
+- [Angelo Yana](https://github.com/angeloyana-dev)
 - [Seb Gillman](https://github.com/SebGillman)
 - Jayanth K
 - ericbox
