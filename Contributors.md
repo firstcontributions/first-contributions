@@ -1,9 +1,14 @@
 git add Contributors.md# Contributors
 
+- [Akintunde Olayinka] (https://githu.com/oakintunde)
 - melih-canbolat
+- [Harsh Sonkar](https://github.com/dynamicHarsh)
 - [Harshal Honde](https://github.com/Harry262000)
+- [Williyam M](https://github.com/williyam-m)
 - [ablines]
+- [Chad Holst](https://github.com/HolstCh)
 - [Kunal Tyagi](https://github.com/tykunal)
+- [Moslem Ajra](https://github.com/moslemajra85)
 - [Gerald Lopez jr](https://github.com/gerilla2016)
 - [Marlon Quinde](https://github.com/Marlon-Quinde)
 - [Horusateel](https://github.com/Horusateel)
@@ -26,11 +31,14 @@ git add Contributors.md# Contributors
 - [ArmaanveerSinghSidhu](https://github.com/ArmaanveerSinghSidhu)
 - [Kai Breese](https://github.com/ninjakaib)
 - [Job Wamoyi](https://github.com/wamoyi)
+- [Beloise Huffstutler](https://github.com/fullStackRacc)
+- [William Alvarez](https://github.com/williamalvarezdev)
 - [Mohammad Dahamshi](https://github.com/mdahamshi)
 - [Mojtaba Hafezi](https://github.com/mojtaba-hafezi)
 - Gandikota Phanindhra(https://github.com/Phani1609)
 - Ravindu Wickramage
 Pereira
+- [Tyler Deschenes](https://github.com/deschenest)
 [JasonChen](https://github.com/110208061)
 - [JaeKyung Hwang](https://github.com/do0ori)
 - Sujith Siddi
@@ -1009,6 +1017,7 @@ Jasmine
 - [Shagun Sharma](https://github.com/shagunsharma6677)
 - [m4tej](https://github.com/m4tej241)
 - [Auwalu Hamza](https://github.com/afhamu)
+- [Varun Sharma](https://github.com/varunsh20/)
 - [Swetha Kannan](https://github.com/swethakannan12)
 - [gpalacios26] (https://github.com/gpalacios26/curso-git-fork)
 - [Fahad Shoaib] (https://github.com/Fahad-S94)
@@ -2437,6 +2446,7 @@ Alexander
 - [Steven Childs](https://github.com/SteveWonderbelt)
 - [Jessy H](https://github.com/jeeehaan)
 - [Bennett Hammock](https://github.com/Bhammock33)
+- [Nikola Simjanovski](https://github.com/SimjanovskiNikola)
 - [conundrum1](https://github.com/conundrum1)
 - [Mara Matias](https://github.com/maramatias)
 - [Alice Gathoni Mirigo](https://github.com/alicemirigo92)
@@ -3458,4 +3468,4 @@ guanj65
 - [xiaoxianBoy](https://github.com/xiaoxianBoy)
 [abhinayksingh](https://github.com/abhinayksingh)
 - [Tianhong Gao](https://github.com/Gaotianhong)
-- [Aqil Faizal](https://github.com/aqil18)
+- [zhougangjie](https://github.com/zhougangjie)
