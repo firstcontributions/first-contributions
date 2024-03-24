@@ -5,6 +5,7 @@ git add Contributors.md# Contributors
 - [Harshal Honde](https://github.com/Harry262000)
 - [Williyam M](https://github.com/williyam-m)
 - [ablines]
+- [Chad Holst](https://github.com/HolstCh)
 - [Kunal Tyagi](https://github.com/tykunal)
 - [Moslem Ajra](https://github.com/moslemajra85)
 - [Gerald Lopez jr](https://github.com/gerilla2016)
