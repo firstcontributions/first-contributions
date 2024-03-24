@@ -9,6 +9,7 @@ git add Contributors.md# Contributors
 - [Williyam M](https://github.com/williyam-m)
 - [ablines]
 - [Chad Holst](https://github.com/HolstCh)
+	[Dennis Witnauer](https://github.com/witnauer)
 - [Kunal Tyagi](https://github.com/tykunal)
 - [Moslem Ajra](https://github.com/moslemajra85)
 - [Gerald Lopez jr](https://github.com/gerilla2016)
