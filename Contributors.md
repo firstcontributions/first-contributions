@@ -3463,7 +3463,7 @@ guanj65
 - [CrispNight]
 - [MJ Studio](https://github.com/mym0404)
 - Luke
-- [Aqil Faizal](https://github.com/aqil18)
+- [Aqil F](https://github.com/aqil18)
 - [Daniel Cham](https://github.com/xh-cham)
 - [chen-mou](http://github.com/chen-mou)
 - [Molannn](https://github.com/Molannn)
