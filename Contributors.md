@@ -10,7 +10,7 @@ git add Contributors.md# Contributors
 - [Williyam M](https://github.com/williyam-m)
 - [ablines]
 - [Chad Holst](https://github.com/HolstCh)
-	[Dennis Witnauer](https://github.com/witnauer)
+- [Dennis Witnauer](https://github.com/witnauer)
 - [Kunal Tyagi](https://github.com/tykunal)
 - [Moslem Ajra](https://github.com/moslemajra85)
 - [Gerald Lopez jr](https://github.com/gerilla2016)
@@ -40,6 +40,7 @@ git add Contributors.md# Contributors
 - [Job Wamoyi](https://github.com/wamoyi)
 - [Beloise Huffstutler](https://github.com/fullStackRacc)
 - [William Alvarez](https://github.com/williamalvarezdev)
+- [Juan Pedro Martin](https://github.com/jmartinn)
 - [Mohammad Dahamshi](https://github.com/mdahamshi)
 - [Mojtaba Hafezi](https://github.com/mojtaba-hafezi)
 - Gandikota Phanindhra(https://github.com/Phani1609)
