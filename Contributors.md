@@ -11,6 +11,7 @@ git add Contributors.md# Contributors
 - [Saahiil M](https://github.com/SaahiilM)
 - [Prerak Singh Sangwan](https://github.com/Prerak1310)
 - [Vanisha Gupta](https://github.com/V-anisha)
+- Ray Wu
 - [Seth Bruner](https://github.com/sethbMiami)
 -[Harshit Singh]
 - [Bj Acharya](https://achbj.com)[GitHub](https://github.com/achbj)[LinkedIn](https://linkedin.com/in/achbj)
