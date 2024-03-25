@@ -91,3 +91,19 @@ gh pr create --repo firstcontributions/first-contributions
 ඊට පස්සේ pull request එක ඉදිරිපත් කරන්න
 
 ඔබගේ සඳහන් ඇදීමේ ඉල්ලීම ක්‍රියාත්මක වන ආකාරය බැලීමට ඔබට `gh status` විධානය භාවිතා කළ හැක.
+
+## මෙතනින් කොහෙට යන්නද?
+
+සුභ පැතුම්! ඔබ දායකයෙකු ලෙස නිතර හමුවන සම්මත _fork -> clone -> edit -> pull request_ කාර්ය ප්‍රවාහය සම්පූර්ණ කර ඇත!
+
+[web යෙදුම](https://firstcontributions.github.io/#social-share) වෙත යාමෙන් ඔබේ දායකත්වය සමරන්න සහ එය ඔබේ මිතුරන් සහ අනුගාමිකයින් සමඟ සමරන්න.
+
+ඔබට කිසියම් උදව්වක් අවශ්‍ය නම් හෝ කිසියම් ප්‍රශ්නයක් ඇත්නම් ඔබට අපගේ ස්ලැක් කණ්ඩායමට සම්බන්ධ විය හැකිය. [Slack කණ්ඩායමට එකතු වන්න](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA).
+
+දැන් අපි ඔබට වෙනත් ව්‍යාපෘති සඳහා දායක වීම ආරම්භ කරමු. ඔබට ආරම්භ කළ හැකි පහසු ගැටළු සහිත ව්‍යාපෘති ලැයිස්තුවක් අපි සම්පාදනය කර ඇත්තෙමු. [වෙබ් යෙදුමේ ව්‍යාපෘති ලැයිස්තුව](https://firstcontributions.github.io/#project-list) පරීක්ෂා කරන්න.
+
+### [අතිරේක ද්‍රව්‍ය](අතිරේක-ද්‍රව්‍ය/git_workflow_scenarios/additional-material.md)
+
+## වෙනත් මෙවලම් භාවිතා කරන නිබන්ධන
+
+[ආපසු ප්‍රධාන පිටුවට](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
