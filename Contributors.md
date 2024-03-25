@@ -11,6 +11,7 @@ git add Contributors.md# Contributors
 - [Carlos Peralta](https://github.com/cperalt)
 - [Williyam M](https://github.com/williyam-m)
 - [ablines]
+- [Mia] (https://github.com/tamipu)
 - [Chad Holst](https://github.com/HolstCh)
 - [Dennis Witnauer](https://github.com/witnauer)
 - [Kunal Tyagi](https://github.com/tykunal)
