@@ -26,6 +26,7 @@ git add Contributors.md# Contributors
 - [Giancarlo Groaznicu](https://github.com/grimmiegramm)
 - [Taylor Musolf](https://github.com/taylormusolf)
 - [Saahiil M](https://github.com/SaahiilM)
+- [Lanre Adedara](https://github.com/klever34)
 - [Prerak Singh Sangwan](https://github.com/Prerak1310)
 - [Vanisha Gupta](https://github.com/V-anisha)
 - Ray Wu
