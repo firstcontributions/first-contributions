@@ -75,6 +75,7 @@ Pereira
 - [Jessie De Jong](https://github.com/JessieDeJong)
 - [Bruno Mendes](https://github.com/brrrun)
 - [Bhumi Padhiyar](https://github.com/Bhumiba01)
+- [Ruhan Saad Dave](https://github.com/Ruhan-Saad-Dave)
 - Ruth
 - Himanshu
 - [Geoffrey Muchugi Maina] (https://github.com/M-Maina)
