@@ -7,6 +7,7 @@ git add Contributors.md# Contributors
 - [Stephane Mora](https://github.com/stephanemora)
 - [Boujendar Abderrahmane](https://github.com/Boujendar-Abderrahmane) -> My first contribution 
 - [Harshal Honde](https://github.com/Harry262000)
+- [Carlos Peralta](https://github.com/cperalt)
 - [Williyam M](https://github.com/williyam-m)
 - [ablines]
 - [Chad Holst](https://github.com/HolstCh)
