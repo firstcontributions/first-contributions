@@ -77,5 +77,17 @@ git push origin -u your-branch-name
   දුරස්ථ: කරුණාකර වැඩි විස්තර සඳහා https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ බලන්න.
   මාරක: 'https://github.com/<your-username>/first-contributions.git/'</pre> සඳහා සත්‍යාපනය අසාර්ථක විය
   [GitHub හි නිබන්ධනය](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) වෙත යන්න ඔබගේ ගිණුමට SSH යතුරක් උත්පාදනය කිරීම සහ වින්‍යාස කිරීම.
-
+  
 </details>     
+
+
+# ඔබගේ වෙනස්කම් සමාලෝචනය සඳහා ඉදිරිපත් කරන්න
+දැන් අපගේ repo හි නාමාවලියෙහි මෙම විධානය ක්‍රියාත්මක කිරීමෙන් සමාලෝචනය සඳහා ඇදීමේ ඉල්ලීමක් සෑදීමට අපට ඉඩ සලසයි:
+
+```bash 
+gh pr create --repo firstcontributions/first-contributions
+```
+
+ඊට පස්සේ pull request එක ඉදිරිපත් කරන්න
+
+ඔබගේ සඳහන් ඇදීමේ ඉල්ලීම ක්‍රියාත්මක වන ආකාරය බැලීමට ඔබට `gh status` විධානය භාවිතා කළ හැක.
