@@ -31,6 +31,7 @@ git add Contributors.md# Contributors
 - [Vanisha Gupta](https://github.com/V-anisha)
 - Ray Wu
 - [KMC](https://github.com/kaungmyatcho)
+- [MichelMulato](https://github.com/MichelMulatoo)
 - [kaneki003](https://github.com/kaneki003)
 - [Seth Bruner](https://github.com/sethbMiami)
 - [Hoorya Rafiq](https://github.com/HooryaR)
