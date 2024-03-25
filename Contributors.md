@@ -206,6 +206,7 @@ igntius praise
 - [Loveday Ikegbulam](https://github.com/lovedayikegbulam)
 - [Pradip Manna](https://github.com/Loosify00)
 - [Rahul Patanwadia](https://github.com/Rahul-Patanwadia)
+- [Veronika Gorbatenko](https://github.com/veron-ee)
 - [Afnan Abdul] (https://github.com/AfnanAbdul)
 - [Wilovy09](https://github.com/Wilovy09)
 - [Azra Naseri](https://github.com/AzraNaseri)(https://www.linkedin.com/in/azra-naseri/)
@@ -3457,6 +3458,7 @@ mohit
 - [Blanco](https://github.com/Blanco10022)
 - [Rajeev Lochan Dash](https://github.com/RajeevDash007)
 guanj65
+- [BestoFrendo](https://github.com/jutaga)
 - [He Wentao](https://github.com/goodmorning_hwt)
 - [Trung Truong](https://github.com/trungtruong1)
 - [Suchith Sameeri Balne](https://github.com/suchithbalne)
