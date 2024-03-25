@@ -2,6 +2,7 @@ git add Contributors.md# Contributors
 
 - [Akintunde Olayinka] (https://githu.com/oakintunde)
 - melih-canbolat
+- [MahditS] (https://github.com/MahditS)
 - [JerrySagwa] (https://github.com/JerrySagwa)
 - [Harsh Sonkar](https://github.com/dynamicHarsh)
 - [Stephane Mora](https://github.com/stephanemora)
