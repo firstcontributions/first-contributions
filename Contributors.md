@@ -1,20 +1,25 @@
 git add Contributors.md# Contributors
 
+- [Thilina Abeysinghe](https://github.com/thilinaabey)
 - [Akintunde Olayinka] (https://githu.com/oakintunde)
 - melih-canbolat
+- [MahditS] (https://github.com/MahditS)
 - [JerrySagwa] (https://github.com/JerrySagwa)
 - [Harsh Sonkar](https://github.com/dynamicHarsh)
 - [Stephane Mora](https://github.com/stephanemora)
 - [Boujendar Abderrahmane](https://github.com/Boujendar-Abderrahmane) -> My first contribution 
+- [Khushi Rathore](https://github.com/khushistar)
 - [Harshal Honde](https://github.com/Harry262000)
+- [Carlos Peralta](https://github.com/cperalt)
 - [Williyam M](https://github.com/williyam-m)
 - [ablines]
-- [Chad Holst](https://github.com/HolstCh)
+- [Chad Holst](https://github.com/HolstCh) 
 - [Dennis Witnauer](https://github.com/witnauer)
 - [Kunal Tyagi](https://github.com/tykunal)
 - [Moslem Ajra](https://github.com/moslemajra85)
 - [Gerald Lopez jr](https://github.com/gerilla2016)
 - [Marlon Quinde](https://github.com/Marlon-Quinde)
+- [Subham Patra](https://github.com/AlphaGotReal)
 - [Horusateel](https://github.com/Horusateel)
 - [Vedant Bhawnani](https://github.com/vedantbhawnani)
 - [Kashif Naqvi](https://github.com/Kashif1Naqvi)
@@ -24,10 +29,12 @@ git add Contributors.md# Contributors
 - [Giancarlo Groaznicu](https://github.com/grimmiegramm)
 - [Taylor Musolf](https://github.com/taylormusolf)
 - [Saahiil M](https://github.com/SaahiilM)
+- [Lanre Adedara](https://github.com/klever34)
 - [Prerak Singh Sangwan](https://github.com/Prerak1310)
 - [Vanisha Gupta](https://github.com/V-anisha)
 - Ray Wu
 - [KMC](https://github.com/kaungmyatcho)
+- [MichelMulato](https://github.com/MichelMulatoo)
 - [kaneki003](https://github.com/kaneki003)
 - [Seth Bruner](https://github.com/sethbMiami)
 - [Hoorya Rafiq](https://github.com/HooryaR)
@@ -72,6 +79,7 @@ Pereira
 - [Jessie De Jong](https://github.com/JessieDeJong)
 - [Bruno Mendes](https://github.com/brrrun)
 - [Bhumi Padhiyar](https://github.com/Bhumiba01)
+- [Ruhan Saad Dave](https://github.com/Ruhan-Saad-Dave)
 - Ruth
 - Himanshu
 - [Geoffrey Muchugi Maina] (https://github.com/M-Maina)
@@ -139,6 +147,8 @@ Beatriz Guerrero https://github.com/Beatriz-G
 -[Aidan Palmer](https://github.com/aidan-palmer)
 -[Vishal Mehmi](https://github.com/vishalmehmi)
 -[Brady Burns](https://github.com/burnsie000)
+-[Lance Preston](https://github.com/MrBubb1es)
+-[Ariyo](https://github.com/AriyosenaS)
 -[Sanka-YT](https://github.com/Sanka-YT)
 -[Basim Hilal V](https://github.com/basimhilalv)
 -[Major Yao ] (https://github.com/yoyov51234)
@@ -702,6 +712,7 @@ something...changed
 - [Ruiqi Liu] (https://github.com/RRQLiu)
 - [André] (https://github.com/DrehDev)
 -[lotsun] (https://github.com/lotsun) 
+- [Aditya Patwa](https://github.com/Aditya-Patwa)
 - [Dallon Jarman](https://github.com/dallonjarman)
 - [Koketso Lonerr](https://github.com/KoketsoLonerr)
 - [Taha Iqbal](https://github.com/tinyHiker)
@@ -1878,6 +1889,7 @@ Dante Sanchez
 - [Abhinav](https://github.com/malteezy)
 - [David Cao](https://github.com/dave-cao)
 - [Abijith L J]
+- [suhny]
 - [Bat-Hen Sharvit](https://github.com/bat-chen)
 - [David Shandor] (https://github.com/DavidShandor)
 - [Rithym G] hello everyone
@@ -3328,6 +3340,7 @@ LadegbayeStella)
 - [Bucky](https://github.com/bucky1947)
 - [Minh Conal](https://github.com/conaldev)
 - [Satyam](https://github.com/satyamkittu91)
+- [satory074](https://github.com/satory074)
 - [Praveen](https://github.com/Praveen787)
 - [Zachary Church](https://github.com/Zchurch11/)
 - [Zeddoun Lokmane](https://github.com/lokmanzeddoun)
