@@ -3458,6 +3458,7 @@ mohit
 - [Blanco](https://github.com/Blanco10022)
 - [Rajeev Lochan Dash](https://github.com/RajeevDash007)
 guanj65
+- [BestoFrendo](https://github.com/jutaga)
 - [He Wentao](https://github.com/goodmorning_hwt)
 - [Trung Truong](https://github.com/trungtruong1)
 - [Suchith Sameeri Balne](https://github.com/suchithbalne)
