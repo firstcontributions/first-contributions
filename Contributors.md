@@ -140,6 +140,7 @@ Beatriz Guerrero https://github.com/Beatriz-G
 -[Aidan Palmer](https://github.com/aidan-palmer)
 -[Vishal Mehmi](https://github.com/vishalmehmi)
 -[Brady Burns](https://github.com/burnsie000)
+-[Lance Preston](https://github.com/MrBubb1es)
 -[Sanka-YT](https://github.com/Sanka-YT)
 -[Basim Hilal V](https://github.com/basimhilalv)
 -[Major Yao ] (https://github.com/yoyov51234)
