@@ -69,3 +69,13 @@ git switch -c add-john-doe
 git push origin -u your-branch-name
 ```
 ඔබ කලින් නිර්මාණය කළ ශාඛාවේ නම සමඟ `your-branch-name` වෙනුවට.
+
+<details><summary><strong>ඔබට තල්ලු කිරීමේදී කිසියම් දෝෂයක් ඇත්නම්, මෙහි ක්ලික් කරන්න:</strong></summary>
+
+- ### Authentication Error
+     <pre>දුරස්ථ: මුරපද සත්‍යාපනය සඳහා වන සහාය 2021 අගෝස්තු 13 දින ඉවත් කරන ලදී. කරුණාකර ඒ වෙනුවට පුද්ගලික ප්‍රවේශ ටෝකනයක් භාවිතා කරන්න.
+  දුරස්ථ: කරුණාකර වැඩි විස්තර සඳහා https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ බලන්න.
+  මාරක: 'https://github.com/<your-username>/first-contributions.git/'</pre> සඳහා සත්‍යාපනය අසාර්ථක විය
+  [GitHub හි නිබන්ධනය](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) වෙත යන්න ඔබගේ ගිණුමට SSH යතුරක් උත්පාදනය කිරීම සහ වින්‍යාස කිරීම.
+
+</details>     
