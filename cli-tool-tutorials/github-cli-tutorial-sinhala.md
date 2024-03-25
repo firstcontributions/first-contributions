@@ -48,4 +48,15 @@ gh repo fork firstcontributions/first-contributions
 ```bash 
 git switch -c add-john-doe
 ```
+# අවශ්‍ය වෙනස්කම් සිදු කර එම වෙනස්කම් සිදු කරන්න
+දැන් ඔබට පාඨ සංස්කාරකයක `Contributors.md` ගොනුව විවෘත කර එයට ඔබේ නම එක් කළ හැක. ඔබේ නම ආරම්භය සහ අවසානය අතර ඕනෑම තැනක තබන්න, ඉන්පසු ගොනුව සුරකින්න.
 
+ව්‍යාපෘති නාමාවලියෙහි `git status` ක්‍රියාත්මක කරන්න, එවිට ඔබට වෙනස්කම් පෙනෙනු ඇත.
+![image-git](https://camo.githubusercontent.com/a35c4722d7aab337eefc655d1488f7b4dc038508e6adaf5e88e2e052a976f010/6873747072637F6F06F1000000000000000000000000 69627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f6769742d7374617475732e706e67)
+
+`git add` විධානය භාවිතයෙන් ඔබ දැන් නිර්මාණය කළ ශාඛාවට එම වෙනස්කම් එක් කරන්න:
+`git add Contributors.md`
+
+දැන් එම වෙනස්කම් `git commit` විධානය භාවිතයෙන් සිදු කරන්න:
+`git commit -m "Add your-name to Contributors list`
+ඔබේ නම සමඟ `your-name` වෙනුවට.
