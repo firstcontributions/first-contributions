@@ -17,7 +17,7 @@ git add Contributors.md# Contributors
 - [Moslem Ajra](https://github.com/moslemajra85)
 - [Gerald Lopez jr](https://github.com/gerilla2016)
 - [Marlon Quinde](https://github.com/Marlon-Quinde)
-- [Subham Patra] (https://github.com/AlphaGotReal)
+- [Subham Patra](https://github.com/AlphaGotReal)
 - [Horusateel](https://github.com/Horusateel)
 - [Vedant Bhawnani](https://github.com/vedantbhawnani)
 - [Kashif Naqvi](https://github.com/Kashif1Naqvi)
