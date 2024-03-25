@@ -60,3 +60,12 @@ git switch -c add-john-doe
 දැන් එම වෙනස්කම් `git commit` විධානය භාවිතයෙන් සිදු කරන්න:
 `git commit -m "Add your-name to Contributors list`
 ඔබේ නම සමඟ `your-name` වෙනුවට.
+
+
+# වෙනස්කම් github වෙත තල්ලු කරන්න
+`git push` විධානය භාවිතයෙන් ඔබගේ වෙනස්කම් තල්ලු කරන්න:
+
+```
+git push origin -u your-branch-name
+```
+ඔබ කලින් නිර්මාණය කළ ශාඛාවේ නම සමඟ `your-branch-name` වෙනුවට.
