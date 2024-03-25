@@ -7,6 +7,7 @@ git add Contributors.md# Contributors
 - [Harsh Sonkar](https://github.com/dynamicHarsh)
 - [Stephane Mora](https://github.com/stephanemora)
 - [Boujendar Abderrahmane](https://github.com/Boujendar-Abderrahmane) -> My first contribution 
+- [Khushi Rathore](https://github.com/khushistar)
 - [Harshal Honde](https://github.com/Harry262000)
 - [Carlos Peralta](https://github.com/cperalt)
 - [Williyam M](https://github.com/williyam-m)
