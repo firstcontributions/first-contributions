@@ -27,6 +27,7 @@ git add Contributors.md# Contributors
 - [Aravinth](https://github.com/theAravinthM) -> Exploring Open Source 🎉
 -  Vincent
 - [Giancarlo Groaznicu](https://github.com/grimmiegramm)
+- [Ciprian Pop](https://github.com/c-v-pop)
 - [Taylor Musolf](https://github.com/taylormusolf)
 - [Saahiil M](https://github.com/SaahiilM)
 - [Lanre Adedara](https://github.com/klever34)
