@@ -20,6 +20,7 @@ git add Contributors.md# Contributors
 - [Dennis Witnauer](https://github.com/witnauer)
 - [Kunal Tyagi](https://github.com/tykunal)
 - [Moslem Ajra](https://github.com/moslemajra85)
+- [Hari Kishore Sepuri](https://github.com/HK-Sepuri)
 - [Gerald Lopez jr](https://github.com/gerilla2016)
 - [Marlon Quinde](https://github.com/Marlon-Quinde)
 - [Subham Patra](https://github.com/AlphaGotReal)
