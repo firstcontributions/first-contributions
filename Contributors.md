@@ -1923,6 +1923,7 @@ Dante Sanchez
 - [Gordon Lim](https://github.com/gordonlim02)
 - [DetorlarMubarak](https://github.com/Pious-coder)
 - [cvuneeez](https://github.com/cvuneeez)
+- [Arick Bulakali](https://github.com/ndekocode)
 - [Yatee Singh](https://github.com/yatee-singh)
 - [Cristhian Becerra](https://github.com/cbecerrae)
 - [Hariharan](https://github.com/Hariharan148)
@@ -3518,4 +3519,5 @@ guanj65
 - [adwayithks] (https://github.com/adwayithks)
 - [zhougangjie](https://github.com/zhougangjie)
 - [ilanacabral](https://github.com/ilanacabral)
+
 
