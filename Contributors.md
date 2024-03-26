@@ -1,5 +1,6 @@
 happy# Contributors
 - [Eric]
+- [harshit]
 - [Narendherraj Senthil](https://github.com/Narendherraj)
 - [Mark](https://github.com/m-stanleysk)
 - [Winticloud](https://github.com/winticloud)
