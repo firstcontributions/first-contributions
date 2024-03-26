@@ -1,6 +1,5 @@
 happy# Contributors
 - [Eric]
-- [harshit]
 - [Narendherraj Senthil](https://github.com/Narendherraj)
 - [Mark](https://github.com/m-stanleysk)
 - [Winticloud](https://github.com/winticloud)
@@ -124,6 +123,7 @@ happy# Contributors
 - [Lakshya Mishra](https://github.com/mishrlaksh)
 - [Albert Byrone](https://github.com/Albert-Byrone)
 - [Samuel Rudqvist](https://github.com/srudqvist)
+- [Harshit Thakur]
 -[Jakob Martin] (https://github.com/jakobistjakob)
 [Tharanishwaran] (https://github.com/Tharanishwaran)
 [shaozhe shan](https://github.com/weepingguitar)
