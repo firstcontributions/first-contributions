@@ -195,6 +195,7 @@ Ed62134927
 - [Jair Landeros](https://github.com/JairLanderos)
 - [Venkatesh Jamge](https://github.com/venkateshjamge)
 - CJ
+- [Manon Jacquin](https://github.com/manonja)
 - [Nwachukwu Michael](https://github.com/Michael-Nwachukwu)
 - [Hamza or StudHamza :0](https://github.com/StudHamza)
 - [fayez coder](https://github.com/fayezCoder))
