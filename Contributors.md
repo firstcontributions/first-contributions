@@ -2380,6 +2380,7 @@ Alexander
 - [NabeelWaq1](https://github.com/NabeelWaq1)
 - [`Ethan Villarosa`](https://github.com/something456)
 - [nami773](https://github.com/nami773/)
+- [Eyal Gal](https://github.com/eyalgal)
 - [Komsan21](https://github.com/komsan21)
 - [Md. Rakibul Islam](https://github.com/Rakib1415/)
 - [Lipika Arya](https://github.com/lipika1911)
