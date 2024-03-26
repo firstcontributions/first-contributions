@@ -31,7 +31,7 @@ git add Contributors.md# Contributors
 - [Kashif Naqvi](https://github.com/Kashif1Naqvi)
 - [Joseph Wole-Abu](https://github.com/jwoleabu)
 - [Aravinth](https://github.com/theAravinthM) -> Exploring Open Source 🎉
--  Vincent
+- Vincent
 - [Giancarlo Groaznicu](https://github.com/grimmiegramm)
 - [Ciprian Pop](https://github.com/c-v-pop)
 - [Taylor Musolf](https://github.com/taylormusolf)
@@ -531,7 +531,7 @@ guanj65
 - [Znake](https://github.com/znake77)
 - [saad](https://github.com/saad-alabyad78)
 - [Balasuriya](https://github.com/balasuriyaranganathan)
--  Whoro Ochuko [Github](https://github.com/CK-codemax) [LinkedIn](https://www.linkedin.com/in/ochuko-whoro-214b6328b/)
+- Whoro Ochuko [Github](https://github.com/CK-codemax) [LinkedIn](https://www.linkedin.com/in/ochuko-whoro-214b6328b/)
 - [Farman Ullah Khan](https://github.com/fekhan)
 - [Fathimath Jazeera]
 - [Ali Sajad Ahmadi](https://github.com/alisajad001)
@@ -767,7 +767,7 @@ something...changed
 - [test learn]
 - [Shubhjeet Paul](https://github.com/shubh0924)
 - Midhun Mukundan
--  [Ignacio Garcia](https://github.com/Archana550)
+- [Ignacio Garcia](https://github.com/Archana550)
 - [Drishya Tomar](https://github.com/drishyatomar2904)
 - [Tuan Kiet dep trai](https://github.com/tuankiet12012003)
 - [Saif](https://github.com/wolfiee42)
@@ -1162,6 +1162,7 @@ Jasmine
 - [Areeb Ahmad](https://github.com/AreebAhmad-02)
 -[Sameet Sabu](https://github.com/sameet11)
 - [BOUKARI Marfourz](https://github.com/Marfourz)
+- [Carter Brooksby](https://github.com/CarKsby)
 - [Hillary Nyakundi] (https://github.com/HillaryNyakundi)
 - [JFK]
 - [Claudio Jara](https://github.com/claudiojara)
@@ -1229,7 +1230,7 @@ Gyanendra Thakur
 - [Jon Brennan 🧑🏻‍💻👾🎵](https://github.com/jbshryne)
 - [Luciano](https://github.com/luciano44)
 - [Gabrielly Castilho](https://github.com/gabscastilho)
- - [Augusto dos Santos](https://github.com/augustodsgv)
+- [Augusto dos Santos](https://github.com/augustodsgv)
 - [Anirudha Pradumna Tiwari] (https://github.com/anirudhaptiwari)
 - [Muhammad Ans Khan 🧑🏻‍💻](https://github.com/Muhammad-AnasKhan)
 - [Jon Compton](https://github.com/joncompton)
