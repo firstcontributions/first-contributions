@@ -108,6 +108,7 @@ Pereira
 -[Priya kumari](https://github.com/priya20003)
 - [shinyay](https://github.com/shinyay)
 -[Apoorva Menon](https://github.com/Apoorva-Menon)
+-[Denner Augusto](https://github.com/denner-augusto)
 -[Ultreck](https://github.com/Ultreck)
 - [Kanta Nakamura](https://github.com/KantaNakamura)
 -[Gaurav Sharma](https://github.com/IsmartGaurav) || [Gaurav Sharma](www.linkedin.com/in/ismartgaurav)
