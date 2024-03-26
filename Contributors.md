@@ -9,6 +9,7 @@ git add Contributors.md# Contributors
 - [JerrySagwa] (https://github.com/JerrySagwa)
 - [Harsh Sonkar](https://github.com/dynamicHarsh)
 - [Stephane Mora](https://github.com/stephanemora)
+- [Aakarshit Srivastava](https://github.com/ArkS0001)
 - [Boujendar Abderrahmane](https://github.com/Boujendar-Abderrahmane) -> My first contribution 
 - [Khushi Rathore](https://github.com/khushistar)
 - [Harshal Honde](https://github.com/Harry262000)
