@@ -230,6 +230,7 @@ Hannah Sung
 -[ Joyston ]
 - ferrrr
 - [Pratik Mangalore]
+- [Amber Sautner](https://github.com/3amberloaf)
 - [Irie B]
 - [Nathan850](https://github.com/az567812az)
 - [Johin Johny]
