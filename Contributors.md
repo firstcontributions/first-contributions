@@ -3,6 +3,7 @@ git add Contributors.md# Contributors
 - [Thilina Abeysinghe](https://github.com/thilinaabey)
 - [Akintunde Olayinka] (https://githu.com/oakintunde)
 - melih-canbolat
+- [KillAllChickens](https://github.com/KACofficial)
 - [MahditS] (https://github.com/MahditS)
 - [JerrySagwa] (https://github.com/JerrySagwa)
 - [Harsh Sonkar](https://github.com/dynamicHarsh)
