@@ -4,6 +4,7 @@ git add Contributors.md# Contributors
 - [Akintunde Olayinka] (https://githu.com/oakintunde)
 - melih-canbolat
 - [KillAllChickens](https://github.com/KACofficial)
+- [Harshit Singh](https://github.com/Harshit-BCS)
 - [MahditS] (https://github.com/MahditS)
 - [JerrySagwa] (https://github.com/JerrySagwa)
 - [Harsh Sonkar](https://github.com/dynamicHarsh)
