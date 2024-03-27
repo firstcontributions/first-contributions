@@ -32,6 +32,7 @@ git add Contributors.md# Contributors
 - [Joseph Wole-Abu](https://github.com/jwoleabu)
 - [Aravinth](https://github.com/theAravinthM) -> Exploring Open Source 🎉
 -  Vincent
+-[Prathamesh Pawar](https://github.com/Prathameshppawar)
 - [Giancarlo Groaznicu](https://github.com/grimmiegramm)
 - [Ciprian Pop](https://github.com/c-v-pop)
 - [Taylor Musolf](https://github.com/taylormusolf)
