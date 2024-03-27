@@ -6,6 +6,7 @@ git add Contributors.md# Contributors
 - [Caden Maxwell] (https://github.com/CadenMax)
 - [Akintunde Olayinka] (https://githu.com/oakintunde)
 - melih-canbolat
+-[Jasith Heshala](https://github.com/zJasHeshz)
 - [KillAllChickens](https://github.com/KACofficial)
 - [Harshit Singh](https://github.com/Harshit-BCS)
 - [MahditS] (https://github.com/MahditS)
