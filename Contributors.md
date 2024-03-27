@@ -3473,6 +3473,7 @@ mohit
 - [Omkar Mishra](https://github.com/OmkarMishr)
 - [Nico](https://github.com/nzantopp)
 - [Blanco](https://github.com/Blanco10022)
+- [Hu99](https://github.com/Hubda987)
 - [Rajeev Lochan Dash](https://github.com/RajeevDash007)
 guanj65
 - [BestoFrendo](https://github.com/jutaga)
