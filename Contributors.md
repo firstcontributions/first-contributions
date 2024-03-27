@@ -3461,6 +3461,7 @@ mohit
 - [judeigwe](https://github.com/judeigwe)
 - [Gamari](https://github.com/gamari)
 - [DanLi](https://github.com/Adan2333)
+- [ChunHao](https://github.com/chuang8511)
 - [kossyprg](https://github.com/kossyprg)
 - [SujanShilakar] (https://github.com/SujanShilakar)
 - [nebu] (https://github.com/nebvx)
