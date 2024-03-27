@@ -7,6 +7,7 @@ git add Contributors.md# Contributors
 - [Akintunde Olayinka] (https://github.com/oakintunde)
 - melih-canbolat
 - [Eric Risher] (https://github.com/ericrisher)
+- [Albert Einstein] (https://github.com/alberteinstein)
 -[Jasith Heshala](https://github.com/zJasHeshz)
 - [KillAllChickens](https://github.com/KACofficial)
 - [Harshit Singh](https://github.com/Harshit-BCS)
