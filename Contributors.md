@@ -148,6 +148,7 @@ Pereira
 - [Seb Gillman](https://github.com/SebGillman)
 - Jayanth K
 - ericbox
+- Pete Zeroyxz
 - Udana95
 - [D2-G2] (https://github.com/D2-G2)
 - [Doug W](https://github.com/NoDouggity)
