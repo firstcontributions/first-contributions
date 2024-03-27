@@ -204,6 +204,7 @@ Beatriz Guerrero https://github.com/Beatriz-G
 JiyinShao
 sleeping-sword
 Ed62134927
+weissbrotjaeger
 -[Justice Udehegbunam ](https://github.com/justice-udehegbunam/justice-udehegbunam) [Linkedin](https://www.linkedin.com/in/justice-udehegbunam)  
 -[Humanoid2005](https://github.com/Humanoid2005) Learning how to contribute to open source using git,github
 - [Jair Landeros](https://github.com/JairLanderos)
