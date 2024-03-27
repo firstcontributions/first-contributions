@@ -21,6 +21,7 @@ git add Contributors.md# Contributors
 - [Carlos Peralta](https://github.com/cperalt)
 - [Williyam M](https://github.com/williyam-m)
 - [ablines]
+- [DSCmatter](https://github.com/DSCmatter)
 - [Jason Zelmanovich](https://github.com/JasonZelmanovich)
 - [Chad Holst](https://github.com/HolstCh) 
 - [Dennis Witnauer](https://github.com/witnauer)
