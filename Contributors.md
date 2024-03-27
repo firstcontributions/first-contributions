@@ -3488,6 +3488,7 @@ mohit
 - [Rajeev Lochan Dash](https://github.com/RajeevDash007)
 guanj65
 - [BestoFrendo](https://github.com/jutaga)
+- [KikoSomotri](https://github.com/fsomoza)
 - [He Wentao](https://github.com/goodmorning_hwt)
 - [Trung Truong](https://github.com/trungtruong1)
 - [Suchith Sameeri Balne](https://github.com/suchithbalne)
