@@ -4,8 +4,9 @@ git add Contributors.md# Contributors
 - [Thilina Abeysinghe](https://github.com/thilinaabey)
 - [Prisha Mordia](https://github.com/Prisha-Mordia)
 - [Caden Maxwell] (https://github.com/CadenMax)
-- [Akintunde Olayinka] (https://githu.com/oakintunde)
+- [Akintunde Olayinka] (https://github.com/oakintunde)
 - melih-canbolat
+- [Eric Risher] (https://github.com/ericrisher)
 -[Jasith Heshala](https://github.com/zJasHeshz)
 - [KillAllChickens](https://github.com/KACofficial)
 - [Harshit Singh](https://github.com/Harshit-BCS)
