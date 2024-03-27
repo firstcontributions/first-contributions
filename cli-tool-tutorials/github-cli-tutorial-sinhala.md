@@ -102,7 +102,7 @@ gh pr create --repo firstcontributions/first-contributions
 
 දැන් අපි ඔබට වෙනත් ව්‍යාපෘති සඳහා දායක වීම ආරම්භ කරමු. ඔබට ආරම්භ කළ හැකි පහසු ගැටළු සහිත ව්‍යාපෘති ලැයිස්තුවක් අපි සම්පාදනය කර ඇත්තෙමු. [වෙබ් යෙදුමේ ව්‍යාපෘති ලැයිස්තුව](https://firstcontributions.github.io/#project-list) පරීක්ෂා කරන්න.
 
-### [අතිරේක ද්‍රව්‍ය](අතිරේක-ද්‍රව්‍ය/git_workflow_scenarios/additional-material.md)
+### [අතිරේක මූලාශ්‍ර](අතිරේක-ද්‍රව්‍ය/git_workflow_scenarios/additional-material.md)
 
 ## වෙනත් මෙවලම් භාවිතා කරන නිබන්ධන
 
