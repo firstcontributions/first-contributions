@@ -66,6 +66,7 @@ Pereira
 [JasonChen](https://github.com/110208061)
 - [JaeKyung Hwang](https://github.com/do0ori)
 - Sujith Siddi
+- [Sharmila pusarla](https://github.com/spusarla23)
 -Priyanshu
 - [Ayodeji Adesegun](https://github.com/ayodejiades)
 - [Jasper Zhuang](https://github.com/Jun-wei136/)
@@ -3473,6 +3474,7 @@ mohit
 - [Omkar Mishra](https://github.com/OmkarMishr)
 - [Nico](https://github.com/nzantopp)
 - [Blanco](https://github.com/Blanco10022)
+- [Hu99](https://github.com/Hubda987)
 - [Rajeev Lochan Dash](https://github.com/RajeevDash007)
 guanj65
 - [BestoFrendo](https://github.com/jutaga)
