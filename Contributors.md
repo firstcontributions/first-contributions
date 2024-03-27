@@ -32,6 +32,7 @@ git add Contributors.md# Contributors
 - [Vedant Bhawnani](https://github.com/vedantbhawnani)
 - [Kashif Naqvi](https://github.com/Kashif1Naqvi)
 - [Joseph Wole-Abu](https://github.com/jwoleabu)
+- [Canberk Varli](http://canberkvarli.com)[Github](https://github.com/canberkvarli)[LinkedIn](https://linkedin.com/in/canberkvarli)
 - [Aravinth](https://github.com/theAravinthM) -> Exploring Open Source 🎉
 -  Vincent
 -[Prathamesh Pawar](https://github.com/Prathameshppawar)
