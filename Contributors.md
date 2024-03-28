@@ -66,6 +66,7 @@ git add Contributors.md# Contributors
 - [William Alvarez](https://github.com/williamalvarezdev)
 - [Juan Pedro Martin](https://github.com/jmartinn)
 - [Mohammad Dahamshi](https://github.com/mdahamshi)
+- [DevPeriwal07](https://github.com/DevPeriwal07)
 - [Mojtaba Hafezi](https://github.com/mojtaba-hafezi)
 - Gandikota Phanindhra(https://github.com/Phani1609)
 - Ravindu Wickramage
