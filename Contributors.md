@@ -45,6 +45,7 @@ git add Contributors.md# Contributors
 - [Canberk Varli](http://canberkvarli.com)[Github](https://github.com/canberkvarli)[LinkedIn](https://linkedin.com/in/canberkvarli)
 - [Aravinth](https://github.com/theAravinthM) -> Exploring Open Source 🎉
 -  Vincent
+- Tim J II
 -[Prathamesh Pawar](https://github.com/Prathameshppawar)
 - [Giancarlo Groaznicu](https://github.com/grimmiegramm)
 - [Ciprian Pop](https://github.com/c-v-pop)
