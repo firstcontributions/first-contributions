@@ -179,6 +179,46 @@ jobs:
               core.setFailed(error.message);
             }
 
+        # Post a comment on the pull request if modified contributions.md but added more than one line
+      - name: Post comment on PR if not merged automatically
+        # Check if the pull request only modifies the CONTRIBUTORS.md file
+        if: env.only_contributors == 'true' && env.one_line_change == 'false'
+        uses: actions/github-script@v6
+        with:
+          script: |
+            try {
+            // Get if pr has been merged
+             const response = await github.pulls.get({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: context.issue.number
+            });
+
+            // If no merge then send message
+            if (!response.data.merged){
+              
+                const greeting = `Hello @${context.payload.pull_request.user.login}!👋`
+                const thankyou = `Thank you for your pull request. We truly appreciate your contribution to the project. It seems you've encountered a common issue many contributors face when pushing to this repository. No worries, this happens!`
+                const what = `## What is the issue? Your pull request likely has unintended changes.`
+                const how = `## How do I solve it?`
+                const list = `Please check whether: \n - You only added one line (You can check that by looking at the top right corner. You should only have a green +1) \n - You added no extra lines are added or removed unintentionally, for example by adding your line at the end or beginning of Contributors.md. \n - Check that you are not using a code formatter like prettier or ESlint (These formatters will modify other lines)`
+                const bye = `Looking forward to your update, and if you need any help, feel free to ask!`
+                
+                const message = `${greeting}\n\n${thankyou}\n\n${what}\n\n${how}\n\n${list}\n\n${bye}` 
+              
+                // post a comment
+                await github.rest.issues.createComment({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: context.issue.number,
+                  body: message
+                })
+            }
+
+             } catch (error) {
+              console.error("Error merging pull request:", error.message);
+            }
+
       # Post a comment on the pull request if it was not merged automatically
       - name: Post comment on PR if not merged automatically
         # Check if the pull request only modifies the CONTRIBUTORS.md file
