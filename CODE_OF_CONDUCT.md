@@ -113,6 +113,8 @@ individual, or aggression toward or disparagement of classes of individuals.
 **Consequence**: A permanent ban from any sort of public interaction within the
 community.
 
+##contribution from stephy
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
