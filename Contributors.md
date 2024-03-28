@@ -79,6 +79,7 @@ Pereira
 - [Sharmila pusarla](https://github.com/spusarla23)
 -Priyanshu
 - [Ayodeji Adesegun](https://github.com/ayodejiades)
+- [Neelanjan Kayal] (https://github.com/nkayal)
 - [Jasper Zhuang](https://github.com/Jun-wei136/)
 - [faiza liyaqat](https://github.com/faizaliyaqat)
 - [U Harshitha](https://github.com/U-Harshitha)
