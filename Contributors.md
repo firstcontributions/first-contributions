@@ -1108,6 +1108,7 @@ Jasmine
 - [KWYK](https://github.com/stevenchen99)
 - [Gabriel Ripper](https://github.com/gabripper)
 - [Thales Winther](https://github.com/thaleswinther)
+- [Tornike Tsulukidze](https://github.com/TheMechanicalBeing)
 - - [Ryan Lucero](https://github.com/ryanluceroo)
 - [Alonso Jimenez](https://github.com/alonsojmnz)
 - [Antonio Fábio](https://github.com/zodiecko)
