@@ -212,6 +212,7 @@ Beatriz Guerrero https://github.com/Beatriz-G
 - [Shubham Kumar](https://github.com/shubh1777) 📲[LinkedIn](https://www.linkedin.com/in/shubham-kumar1777/)
 - [Lenox Miheso](https://github.com/brownred) Just got my first remote job. came here for a refresher
 -[Alexis Torrealba](https://github.com/Alexis-Torrealba) [Linkedin](https://www.linkedin.com/in/alexis-torrealba-correa/)
+[Justin Vo] (https://github.com/Justintanvo)
 JiyinShao
 sleeping-sword
 Ed62134927
