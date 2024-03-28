@@ -3335,6 +3335,7 @@ LadegbayeStella)
 - [Ayri Hawa](https://github.com/airixss)
 - [Kajafas](https://github.com/Kajafas)
 - [Zaid](https://github.com/Zaid1120)
+- [Chris Celaya](https://github.com/while-basic)
 - [Akhil Nazim ](https://github.com/Akhilnazim)
 - [Juan Andrés Nunez](https://github.com/UberChili)
 - [Yanmad27](https://github.com/yanmad27)
@@ -3552,4 +3553,3 @@ guanj65
 - [zhougangjie](https://github.com/zhougangjie)
 - [mitsukanpon](https://github.com/mitsukanpon)
 - [ilanacabral](https://github.com/ilanacabral)
-
