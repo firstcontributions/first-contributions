@@ -1780,6 +1780,7 @@ Dante Sanchez
 - [Steven Hedges](https://github.com/StevenH34)
 - [Giorgos](https://github.com/geopat24)
 - [Faith Adewuyi](https://github.com/faithadewuyi)
+- [Ayush Majumdar]
 - [Suraj](https://github.com/SurajKamal24)
 - [Alina Wayne](https://github.com/alina-wayne)
   Ashraful
