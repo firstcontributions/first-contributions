@@ -16,6 +16,7 @@ git add Contributors.md# Contributors
 - [MahditS] (https://github.com/MahditS)
 - [JerrySagwa] (https://github.com/JerrySagwa)
 - [Harsh Sonkar](https://github.com/dynamicHarsh)
+- [Desiree Sng] (https://github.com/dez2003)
 - [Axel Meister](https://github.com/meisteraxel)
 - [Stephane Mora](https://github.com/stephanemora)
 - [Aakarshit Srivastava](https://github.com/ArkS0001)
