@@ -1,6 +1,7 @@
 git add Contributors.md# Contributors
 
 111111111111111111111111111111111
+- [Ivandro Chindumbo](https://github.com/ivansftdejc)
 - [Jaiman Singh Guliani] (https://github.com/JaimanSingh)
 - [Maty](https://github.com/matyosy)
 - [Thilina Abeysinghe](https://github.com/thilinaabey)
