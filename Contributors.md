@@ -1176,6 +1176,7 @@ Jasmine
 - [Jayadeep Velagapudi](https://github.com/jkvelagapudi)
 - [Muhammad Abdullah Khan](https://github.com/sapientabdullah)
 - [Mukesh Kalikaya](https://github.com/Mukesh-Kalikaya)
+- [Elon Aseneka Idiong'o](https://github.com/elonaire)
 - [Stephen Ng](https://github.com/snust)
 - [Axel Valerio Ertamto](https://github.com/AxelValerioErtamto)
 - [Justin](https://github.com/JustinBifeld)
