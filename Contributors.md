@@ -3,21 +3,21 @@ git add Contributors.md# Contributors
 - [Maty](https://github.com/matyosy)
 - [Thilina Abeysinghe](https://github.com/thilinaabey)
 - [Prisha Mordia](https://github.com/Prisha-Mordia)
-- [Caden Maxwell] (https://github.com/CadenMax)
-- [Akintunde Olayinka] (https://github.com/oakintunde)
-- melih-canbolat
-- [Eric Risher] (https://github.com/ericrisher)
-- [Albert Einstein] (https://github.com/alberteinstein)
+- [Caden Maxwell](https://github.com/CadenMax)
+- [Akintunde Olayinka](https://github.com/oakintunde)
+- [melih-canbolat]
+- [Eric Risher](https://github.com/ericrisher)
+- [Albert Einstein](https://github.com/alberteinstein)
 -[Jasith Heshala](https://github.com/zJasHeshz)
 - [KillAllChickens](https://github.com/KACofficial)
 - [Harshit Singh](https://github.com/Harshit-BCS)
-- [MahditS] (https://github.com/MahditS)
-- [JerrySagwa] (https://github.com/JerrySagwa)
+- [MahditS](https://github.com/MahditS)
+- [JerrySagwa](https://github.com/JerrySagwa)
 - [Harsh Sonkar](https://github.com/dynamicHarsh)
 - [Axel Meister](https://github.com/meisteraxel)
 - [Stephane Mora](https://github.com/stephanemora)
 - [Aakarshit Srivastava](https://github.com/ArkS0001)
-- [Boujendar Abderrahmane](https://github.com/Boujendar-Abderrahmane) -> My first contribution 
+- [Boujendar Abderrahmane](https://github.com/Boujendar-Abderrahmane)  
 - [Khushi Rathore](https://github.com/khushistar)
 - [Harshal Honde](https://github.com/Harry262000)
 - [Carlos Peralta](https://github.com/cperalt)
@@ -39,7 +39,7 @@ git add Contributors.md# Contributors
 - [Kashif Naqvi](https://github.com/Kashif1Naqvi)
 - [Joseph Wole-Abu](https://github.com/jwoleabu)
 - [Canberk Varli](http://canberkvarli.com)[Github](https://github.com/canberkvarli)[LinkedIn](https://linkedin.com/in/canberkvarli)
-- [Aravinth](https://github.com/theAravinthM) -> Exploring Open Source 🎉
+- [Aravinth](https://github.com/theAravinthM) -
 -  Vincent
 -[Prathamesh Pawar](https://github.com/Prathameshppawar)
 - [Giancarlo Groaznicu](https://github.com/grimmiegramm)
@@ -57,8 +57,8 @@ git add Contributors.md# Contributors
 - [Hoorya Rafiq](https://github.com/HooryaR)
 -[Harshit Singh]
 - [Bj Acharya](https://achbj.com)[GitHub](https://github.com/achbj)[LinkedIn](https://linkedin.com/in/achbj)
-- [Moustache9593] (https://github.com/Moustache9593)
-- [PranavNair] (https://github.com/pranavniar)
+- [Moustache9593](https://github.com/Moustache9593)
+- [PranavNair](https://github.com/pranavniar)
 - [ArmaanveerSinghSidhu](https://github.com/ArmaanveerSinghSidhu)
 - [Kai Breese](https://github.com/ninjakaib)
 - [Job Wamoyi](https://github.com/wamoyi)
@@ -68,7 +68,7 @@ git add Contributors.md# Contributors
 - [Mohammad Dahamshi](https://github.com/mdahamshi)
 - [DevPeriwal07](https://github.com/DevPeriwal07)
 - [Mojtaba Hafezi](https://github.com/mojtaba-hafezi)
-- Gandikota Phanindhra(https://github.com/Phani1609)
+- [Gandikota Phanindhra](https://github.com/Phani1609)
 - Ravindu Wickramage
 Pereira
 - [Tyler Deschenes](https://github.com/deschenest)
