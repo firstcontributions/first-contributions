@@ -37,7 +37,7 @@ git add Contributors.md# Contributors
 - [Horusateel](https://github.com/Horusateel)
 - [Vedant Bhawnani](https://github.com/vedantbhawnani)
 - [Kashif Naqvi](https://github.com/Kashif1Naqvi)
--[Stephy Daniel](https://github.com/SSD0909)
+- [Stephy Daniel](https://github.com/SSD0909)
 - [Joseph Wole-Abu](https://github.com/jwoleabu)
 - [Canberk Varli](http://canberkvarli.com)[Github](https://github.com/canberkvarli)[LinkedIn](https://linkedin.com/in/canberkvarli)
 - [Aravinth](https://github.com/theAravinthM) -> Exploring Open Source 🎉
