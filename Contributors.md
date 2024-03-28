@@ -1508,6 +1508,7 @@ Dante Sanchez
 - Emily :
 - [Aashish Gupta]) (https://github.com/AsysGupta)
 - [Sachini Sahasra](https://github.com/Sahasra0108)
+- [Sinuhe Velazquez](https://github.com/Sinuhe135)
 - [Kalash](https://github.com/Kalash-C1)
 - [Kavya Yamsani](https://github.com/ykavya5)
 - [Ryan Dallimore](https://github.com/rdallim2)
