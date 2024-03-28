@@ -88,6 +88,7 @@ Pereira
 - [faiza liyaqat](https://github.com/faizaliyaqat)
 - [U Harshitha](https://github.com/U-Harshitha)
 - [Likheet Shetty](https://github.com/Likheet)
+- [Le-Vaughn Roper](https://github.com/laroper)
 - [Wiafe Boakye Eddie](https://github.com/xs-eddie)
 - [Marcelo Muszalski] (https://github.com/marcelomusza)
 - [Akshar Kalathiya](https://github.com/Akshar062)
