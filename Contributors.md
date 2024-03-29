@@ -1378,6 +1378,7 @@ Romeu Leite
 - [Jay Paun](https://github.com/Jay2704)
 - [Cameron Johnson](https://github.com/will-fork-for-food)
 - [Ignacio Elìas Rosner](https://github.com/roznerx)
+- [annieyii](https://github.com/annieyii/first-contributions)
 - [MTHS](https://github.com/MTHS)
 - [Aristide Legba](https://github.com/aristidelegba)
 - [EvinExiNiTy](https://github.com/Evinexinity)
@@ -1418,7 +1419,8 @@ Romeu Leite
 - [Essi Akpevwe Praise](https://https://github.com/Akpevwe11)
 - [Jivi ~_~](https://github.com/Jivi-this-side)
 - [Subro](https://www.linkedin.com/in/subrojyoti-paul)
-- [BrianC](https://github.com/BrianSChase)
+- [BrianC](https://github.com/BrianSChase
+)
 - [zeden](https://github.com/snowxx456)
 - [Htut Oakkar](https://github.com/htutoakkar)
 - [K G Tint Swe](https://github.com/KG6605)
