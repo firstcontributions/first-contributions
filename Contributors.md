@@ -2411,7 +2411,7 @@ Alexander
 - [Paul Ragsac](https://github.com/Chifuuyu)
 - [Amaury Morot](https://github.com/MorotAmaury)
 - [y.k]
-- [Myth Ren](https://github.com/MythRen)
+- [Ivlyth](https://github.com/MythRen)
 - [Nguyễn ĝức Khải](https://github.com/KhaiNguyenDuc)
 - [Nick Alben](https://github.com/NAlb-23)
 - [Navin Kumar](https://github.com/ns-0437)
