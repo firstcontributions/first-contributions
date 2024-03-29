@@ -624,7 +624,7 @@ guanj65
 - [Hisham Raihan](https://github.com/Bluehorizon65)
 - Feng Er[1fenger (github.com)](https://github.com/1fenger)
 - [Arturo]
-- [Sivaselvan]
+- [Sivaselvan] 
 - [Karan Khatavkar](https://github.com/karankhatavkar)
 - [Anurag Singh](https://github.com/anuragsingh6886)
 - [Colin] (https://github.com/Coltnickers)
@@ -977,7 +977,8 @@ Jasmine
 - [Pop Sergiu-George](https://github.com/SeGePop)
 - [Ankit Gupta](https://github.com/ankit-gupta-24)
 - [Devin Jay San Nicolas]
-- [Yao1di]
+- [Yao1di] 
+- Gaurav Sharma
 - [Jenny Nguyen](https://github.com/bennyyenny)
 - [Nitesh Tiwari](https://github.com/nitesh2920)
 - [Noah Tonnesen](https://github.com/ntonnes)
