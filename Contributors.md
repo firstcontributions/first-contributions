@@ -3555,6 +3555,7 @@ guanj65
 - [Elliot Miller](https://github.com/j-elliot)
 - [Jamie Phillips](https://github.com/jamie-phillips)
 - [CrispNight]
+- [MisouMisou]
 - [MJ Studio](https://github.com/mym0404)
 - [ihazrel](https://github.com/ihazrel)
 - [RealZone22](https://github.com/RealZone22)
