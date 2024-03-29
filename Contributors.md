@@ -3531,6 +3531,7 @@ guanj65
 - [Danh Pham](https://github.com/danhpham2000)
 - [sivasaketh](https://github.com/sivasaketh)
 - [hsumiyoshi](https://github.com/hsumiyoshi)
+- [Robin Sizemore](https://github.com/RobinSizemore)
 - [Sivakumar Manoharan](https://github.com/sivakumarmanoharan)
 - [Hans Christian Alencar](https://github.com/chroanz)
 - [Tadiwanashe Rukasha](https://github.com/Tadiwa20)
@@ -3579,4 +3580,3 @@ guanj65
 - [kadirerdemci](https://github.com/kadirerdemci)
 - [Lee Sang-jin](https://github.com/uHan2)
 - [ThomasLSBradley](https://github.com/ThomasLSBradley)
-- 
