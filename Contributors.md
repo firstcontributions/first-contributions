@@ -2427,6 +2427,8 @@ Alexander
 - [Eric Huang](https://github.com/erich2s)
 - [Jarrod Rother](https://github.com/JarrodR87)
 - [Ankit Kumar](https://github.com/Aryabhatt1234)
+- [Joao Darwin](https://github.com/Joao-Darwin)
+- [T Geoffrey Liu](https://github.com/GeoffreyL7125)
 - [Joao Darwin](https://github.com/Joao-Dawin)
 - [Femi-Lawal](https://github.com/Femi-lawal)
 - [黄士崧](https://github.com/erich2s)
