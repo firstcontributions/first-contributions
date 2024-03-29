@@ -1037,6 +1037,7 @@ Jasmine
 - [Tindi] (https://github.com/Jtindi-cypto)
 - [YousefMahmoudMalek](https://github.com/YousefMahmoudMalek)
 - [Neha-Gupta] (https://github.com/nehagupta1504) 
+- [Bertoli-Nicola] (https://github.com/NittuzDev) 
 - [sanyog-pardeshi]
 - [Obakepi]
 - [m10610](https://github.com/m10610)
