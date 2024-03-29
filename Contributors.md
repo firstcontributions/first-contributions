@@ -93,6 +93,7 @@ Pereira
 - Sujith Siddi
 - [Sharmila pusarla](https://github.com/spusarla23)
 -Priyanshu
+- B1ade-Z
 - [Ayodeji Adesegun](https://github.com/ayodejiades)
 - [Neelanjan Kayal] (https://github.com/nkayal)
 - [Jasper Zhuang](https://github.com/Jun-wei136/)
@@ -112,6 +113,7 @@ Pereira
 - [Jorge Calleja](https://github.com/CallejaJ)
 - [Sergiu Grosu](https://github.com/sergrosu)
 - [Anujesh Bansal](https://github.com/anujeshify)
+- Blade-Z
 - [Felipe Kras](https://github.com/FelipeKras)
 - [Soham Samal](https://github.com/sazuyakun)
 - [Thasneem] (https://github.com/thasneem9)
