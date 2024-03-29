@@ -12,6 +12,7 @@ git add Contributors.md# Contributors
 - [Eric Risher] (https://github.com/ericrisher)
 - [Sakshi Danej](https://github.com/DanejSakshi13)
 - [Marcos Congregado](https://github.com/MarcosGCM97)
+- [Paulo Camacho](https://github.com/Paulo-Camacho)
 - [Albert Einstein] (https://github.com/alberteinstein)
 -[Jasith Heshala](https://github.com/zJasHeshz)
 - [KillAllChickens](https://github.com/KACofficial)
