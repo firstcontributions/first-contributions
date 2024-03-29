@@ -11,6 +11,7 @@ git add Contributors.md# Contributors
 - melih-canbolat
 - [Eric Risher] (https://github.com/ericrisher)
 - [Marcos Congregado](https://github.com/MarcosGCM97)
+- [Paulo Camacho](https://github.com/Paulo-Camacho)
 - [Albert Einstein] (https://github.com/alberteinstein)
 -[Jasith Heshala](https://github.com/zJasHeshz)
 - [KillAllChickens](https://github.com/KACofficial)
