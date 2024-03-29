@@ -601,7 +601,7 @@ guanj65
 - [Yasith Silva](https://github.com/yasith46)
 - [Adrian St Onge](https://github.com/astonge)
 - [HBY](https://github.com/HlaBweYue)
-- [Mohammed Anaf Master] [Linkedin](https://www.linkedin.com/in/mohammed-anaf-master/) [GitHub](https://github.com/mohammedanafmaster)
+- [MUghalAliAhmad] [Linkedin](www.linkedin.com/in/ali-ahmad-79b613264) [GitHub](https://github.com/MughalAliAhmad23)
 - [Scoobi Doge] (https://github.com/VladBlackbird)
 - [Karandeep Tiwana](https://github.com/tiwanakd)
 - [x3n064] (https://github.com/x3n064)
