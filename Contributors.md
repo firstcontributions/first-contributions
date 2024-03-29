@@ -628,6 +628,7 @@ guanj65
 - [Sivaselvan] 
 - [Karan Khatavkar](https://github.com/karankhatavkar)
 - [Anurag Singh](https://github.com/anuragsingh6886)
+- [SwagShah]
 - [Colin] (https://github.com/Coltnickers)
 - [Vembu](https://github.com/vembu2991)
 - [harish](https://github.com/harish885)
@@ -677,6 +678,7 @@ guanj65
 - [Negil Babu](https://github.com/negilbabu)
 - [Napkin](https://github.com/pudd-le)
 - [Junmin.ma](https://github.com/majunmin)
+- [Shahan2] (https://github.com/shahan360)
 - [djsmacker01](https://github.com/djsmacker01)
 - [shinyb.gb](https://github.com/gloria-bradford)
 - [CptRainy](https://github.com/CptRainy/)
