@@ -33,6 +33,7 @@ git add Contributors.md# Contributors
 - [Carlos Peralta](https://github.com/cperalt)
 - [Williyam M](https://github.com/williyam-m)
 - [ablines]
+- [Shilpa Dutta](https://github.com/shilpa2024)
 - [DSCmatter](https://github.com/DSCmatter)
 - [Jason Zelmanovich](https://github.com/JasonZelmanovich)
 - [Chad Holst](https://github.com/HolstCh) 
