@@ -275,6 +275,8 @@ Hannah Sung
 - [CodeXhale] (https://github.com/CodeXhale): My First Open-source Contribution 🎉.
 - [Shota Totsuka](https://github.com/ShotaTotsuka)
 - [Ted Kouhouenou](https://github.com/Tednoob17)
+- [Mohamed anis bousselmi](https://github.com/anysbslm/): First contribution.
+
 - [Habishath Thavachelvan](https://github.com/habishath)
 - [Jennie D](https://github.com/jennie-jd) 2nd try! :)
 - [Ertyk](https://github.com/Ertyk/)
