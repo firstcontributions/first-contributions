@@ -834,6 +834,7 @@ Jasmine
 - [Terry]
 - th0rnium
 - [Brady Wisniewski]
+- [Pradip Manna](https://github.com/Loosify00)
 - [AvionShea](https://github.com/AvionShea)
 - [stefisha](https://github.com/stefisha)
 - [Just1Car](https://github.com/Just1Carrr)
