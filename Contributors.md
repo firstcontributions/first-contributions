@@ -3548,6 +3548,7 @@ guanj65
 - [kanadome]
 - [Asim Kara]
 - [wangjing](https://github.com/BeautifulJing)
+- [Richard Griffiths](https://github.com/SoulFireMage)
 - [viteky](https://github.com/viteky)
 - [Kim Shaddy](https://github.com/shaddy1234)
 - [Rao Cai](https://github.com/RaoCai)
