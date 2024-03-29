@@ -21,6 +21,7 @@ git add Contributors.md# Contributors
 - [MahditS] (https://github.com/MahditS)
 - [u3b] (https://github.com/u3b)
 - [JerrySagwa] (https://github.com/JerrySagwa)
+- [Kushal Bhandari] (https://github.com/kushalb-dev)
 - [Harsh Sonkar](https://github.com/dynamicHarsh)
 - [Desiree Sng] (https://github.com/dez2003)
 - [Axel Meister](https://github.com/meisteraxel)
