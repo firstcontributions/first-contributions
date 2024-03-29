@@ -17,6 +17,7 @@ git add Contributors.md# Contributors
 - [Daniel Ogunlolu](https://github.com/Amazingct)
 - [Harshit Singh](https://github.com/Harshit-BCS)
 - [MahditS] (https://github.com/MahditS)
+- [u3b] (https://github.com/u3b)
 - [JerrySagwa] (https://github.com/JerrySagwa)
 - [Harsh Sonkar](https://github.com/dynamicHarsh)
 - [Desiree Sng] (https://github.com/dez2003)
