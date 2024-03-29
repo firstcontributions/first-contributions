@@ -3462,6 +3462,8 @@ LadegbayeStella)
 mohit
 -[Ramya Parthipan](https://github.com/aycaramya)
 -[Lucas Matheus Churutekoski](https://github.com/LukaszMatheus)
+-[Emilia Menegassio Sonalio](https://github.com/emiliasonalio)
+-[Leandro Balaban](https://github.com/leandro1027)
 -[Bernardo Bueno da Matta](https://github.com/zB3RN4RD0z)
 -[Jaqueline da Silva Fagundes](https://github.com/Jaquesz/Jaqueszx)
 -[Emilia Menegassio Sonalio](https://github.com/emiliasonalio)
