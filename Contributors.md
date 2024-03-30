@@ -12,6 +12,7 @@ git add Contributors.md# Contributors
 - [Maty](https://github.com/matyosy)
 - [Thilina Abeysinghe](https://github.com/thilinaabey)
 - [Prisha Mordia](https://github.com/Prisha-Mordia)
+- [Kuda M'ndau](https://github.com/kudamndau/)
 - [Caden Maxwell] (https://github.com/CadenMax)
 - [Akintunde Olayinka] (https://github.com/oakintunde)
 - melih-canbolat
