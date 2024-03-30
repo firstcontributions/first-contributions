@@ -5,6 +5,7 @@
 git add Contributors.md# Contributors
 
 111111111111111111111111111111111
+- [JubaDev](https://github.com/JubaDeveloper)
 - [Raphael Ndiritu](https://github.com/Raph-royalty)
 - [Ivandro Chindumbo](https://github.com/ivansftdejc)
 - [Venkatesh Alampally](https://github.com/Venki1402)
