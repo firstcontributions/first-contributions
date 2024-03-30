@@ -42,6 +42,7 @@ git add Contributors.md# Contributors
 - [Harshal Honde](https://github.com/Harry262000)
 - [Carlos Peralta](https://github.com/cperalt)
 - [Williyam M](https://github.com/williyam-m)
+- [Lucozky](https://github.com/Lucozky)
 - [ablines]
 - [Shilpa Dutta](https://github.com/shilpa2024)
 - [DSCmatter](https://github.com/DSCmatter)
