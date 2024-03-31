@@ -46,6 +46,7 @@ git add Contributors.md# Contributors
 - [Williyam M](https://github.com/williyam-m)
 - [Lucozky](https://github.com/Lucozky)
 - [ablines]
+-[Demb Soumare]
 - [Shilpa Dutta](https://github.com/shilpa2024)
 - [DSCmatter](https://github.com/DSCmatter)
 - [Jason Zelmanovich](https://github.com/JasonZelmanovich)
