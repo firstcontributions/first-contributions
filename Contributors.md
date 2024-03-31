@@ -294,6 +294,7 @@ Hannah Sung
 - ferrrr
 - [Pratik Mangalore]
 - [Amber Sautner](https://github.com/3amberloaf)
+- [Kateryna Kanivets](https://github.com/kanivetskateryna)
 - [Irie B]
 - [Nathan850](https://github.com/az567812az)
 - [Johin Johny]
