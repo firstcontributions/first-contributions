@@ -7,6 +7,7 @@
 git add Contributors.md# Contributors
 
 111111111111111111111111111111111
+- [Priyanshu sherke](https://github.com/sherkepriyanshu)
 - [JubaDev](https://github.com/JubaDeveloper)
 - [Raphael Ndiritu](https://github.com/Raph-royalty)
 - [Jun Iwamoto](https://github.com/junffy)
@@ -3678,3 +3679,4 @@ guanj65
 - [Joel-Joy](https://github.com/joel6948)
 - [lin-and](https://github.com/Lindyyy)
 - [taiyou1116](https://github.com/taiyou1116)
+- [macocci7](https://github.com/macocci7)
