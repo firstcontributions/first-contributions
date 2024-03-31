@@ -185,6 +185,7 @@ Pereira
 -Khushi Joshi 
 110703067
 - nimilgp
+- l0renz0o
 - krishna chaitanya
 - Kanishka Utagikar(https://github.com/kanishkautag)
 -Jacob Coles
