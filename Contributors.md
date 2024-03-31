@@ -22,6 +22,7 @@ git add Contributors.md# Contributors
 - [Caden Maxwell] (https://github.com/CadenMax)
 - [Akintunde Olayinka] (https://github.com/oakintunde)
 - melih-canbolat
+- [MaccSob] (https://github.com/MaccSob)
 - [Eric Risher] (https://github.com/ericrisher)
 - [Kalyan](https://github.com/Kalyan19111999)
 - [Vandesh Sawant](https://github.com/VandeshSawant)
