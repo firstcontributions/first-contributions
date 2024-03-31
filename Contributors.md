@@ -1,4 +1,5 @@
 # Contributors
+- [Gumaan Mahar](https://github.com/Gumaan-Mahar)
 - [Beita](https://github.com/liny18)
 - [TREVOR ARNOLDS](https://github.com/TREVORNDONJI)
 -[Vamshi krishna Jillela](https://github.com/VamshiKrishna-jillela/)
@@ -7,7 +8,6 @@ git add Contributors.md# Contributors
 
 111111111111111111111111111111111
 - [JubaDev](https://github.com/JubaDeveloper)
-- [Gumaan Mahar](https://github.com/Gumaan-Mahar)
 - [Raphael Ndiritu](https://github.com/Raph-royalty)
 - [Jun Iwamoto](https://github.com/junffy)
 - [Ivandro Chindumbo](https://github.com/ivansftdejc)
