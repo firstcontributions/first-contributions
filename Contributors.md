@@ -3647,6 +3647,7 @@ guanj65
 - [BiniyamDS](https://github.com/BiniyamDS)
 - [ihazrel](https://github.com/ihazrel)
 - [RealZone22](https://github.com/RealZone22)
+- [Waqar Naeem](https://github.com/waqarNaeem786)
 - Luke
 - [Aqil F](https://github.com/aqil18)
 - [l00psec](https://github.com/l00psec)
