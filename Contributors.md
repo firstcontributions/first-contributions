@@ -2041,6 +2041,7 @@ Dante Sanchez
 - [nick-nugat](https://github.com/nick-nugat)
 - [Naveen Kurella](https://github.com/KURELLANAVEEN)
 - [Abhinav Ujjawal](https://github.com/Abhinav-Ujjawal)
+- [justkusch] (https://github.com/justkusch)
 - [joejoeelephant](https://github.com/joejoeelephant)
 - [Vitor Orsin] (https://github.com/YaboiAst)
 - [Caio Ueda Sampaio] (https://github.com/KY-U) 
@@ -3669,3 +3670,4 @@ guanj65
 - [Joel-Joy](https://github.com/joel6948)
 - [lin-and](https://github.com/Lindyyy)
 - [taiyou1116](https://github.com/taiyou1116)
+
