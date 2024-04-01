@@ -3619,6 +3619,7 @@ guanj65
 - [Niyigena Fiston Alvin](https://github.com/ALVINdimpos)
 - [Claire]
 - [SinSheng]
+- [Angelika Valerio](https://github.com/angelikavalerio)
 - [jeong-haerim](https://github.com/Jeong-hae-rim)
 - [Smoothie](https://github.com/Smoothie1023)
 - [WHEEL](https://github.com/Hynobius-formosanus)
