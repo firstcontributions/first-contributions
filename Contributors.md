@@ -1717,6 +1717,7 @@ Dante Sanchez
 - [Sulejman Hoxha](https://github.com/sulejmanhoxha)
 - [João Gonçalves] (https://github.com/joao-goncalves17)
 - [iPig](https://github.com/ipigtw)
+- [Kornel Hergert](https://github.com/kornel54)
 - [Sara Tahdi](https://github.com/Sara-Tahdi)
 - [Mohammed Hamid](https://github.com/MdHamid06)
 - [PancakesForRent](https://github.com/PancakesForRent)
