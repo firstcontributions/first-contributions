@@ -1835,6 +1835,7 @@ Dante Sanchez
 - [FirePhoenix] (https://github.com/huy125) #Thanks for help
 - [Franco Pro](https://github.com/franco-pro) ##Thanks for the help
 - 😎[James Kwon Lee]😎
+- [Lance Peterson](https://github.com/ObD-lance) 
 - Swiftanr
 - [Taro Qureshi](https://github.com/taro-qureshi)
 - Jeromeeee
