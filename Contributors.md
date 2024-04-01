@@ -8,6 +8,7 @@ git add Contributors.md# Contributors
 111111111111111111111111111111111
 - [P.P.A.K](https://github.com/ArkarMinKo)
 - [Priyanshu sherke](https://github.com/sherkepriyanshu)
+- [Ratnesh Rastogi] (https://github.com/TheYorouzoya)
 - [Alexander Maina](https://github.com/Alekiie)
 - [JubaDev](https://github.com/JubaDeveloper)
 - [Raphael Ndiritu](https://github.com/Raph-royalty)
