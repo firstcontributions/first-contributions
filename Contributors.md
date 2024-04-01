@@ -21,6 +21,7 @@ git add Contributors.md# Contributors
 - [Prisha Mordia](https://github.com/Prisha-Mordia)
 - [Kevin](https://github.com/Kevin-1999-dev)
 - [Kuda M'ndau](https://github.com/kudamndau/)
+- [Ajay Nischal](https://github.com/ajaynischal/)
 - [Caden Maxwell] (https://github.com/CadenMax)
 - [Akintunde Olayinka] (https://github.com/oakintunde)
 - melih-canbolat
