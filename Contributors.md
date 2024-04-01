@@ -3629,6 +3629,7 @@ guanj65
 - [Noah Kubler](https://github.com/nskubler)
 - [Jin](https://github.com/jiwawa98)
 - [Luke Padiachy](https://github.com/lukepadiachy)
+- [Etanola](https://github.com/Etanola)
 - [Danh Pham](https://github.com/danhpham2000)
 - [siva saketh](https://github.com/sivasaketh)
 - [hsumiyoshi](https://github.com/hsumiyoshi)
