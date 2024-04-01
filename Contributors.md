@@ -916,6 +916,7 @@ Jasmine
 - [uujeong](https://github.com/uujeong)
 - [Tunahan Değirmencioğlu](https://github.com/dabbitz)
 - [IvanBurgos](https://github.com/IvanBurgos)
+- [Harinee Purushothaman](https://github.com/harinee05)
 - [Mehardeep](https://github.com/mehardeep88)
 - [xJaiki](https://github.com/xjaiki)
 - [mrrr4d]()
