@@ -9,7 +9,7 @@
 - [Amol Pardeshi](https://github.com/AmolPardeshi99)
 - [Shahil Kumar](https://github.com/Shahil9728)
 - [Sabri Cihan Bircan] (https://github.com/SabriCihan)
-- [Madhu Sri](https://github.com/Madhusri02)
+- [Madhu sri](https://github.com/Madhusri02)
 - [Looki](https://github.com/Looki-fr)
 - [Rohit Roy](https://github.com/Roy009)
 - [chief-fei](https://github.com/chief-fei)
