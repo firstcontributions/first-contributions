@@ -768,7 +768,7 @@ guanj65
 - [Will Smith Wesson](https://github.com/willsmithwesson)
 - [Zaman Wahid](https://github.com/zamanwahid16)
 - [Kate Basile](https://github.com/kbasil3)
-- Lucas Costa
+- Lucas Costa Monteiro -> Vai, Corinthians!
 - [Ali Mh](https://github.com/Aliac8888)
 - [Zoltan](https://github.com/kegliz)
 - [AryasCodeTrek](https://github.com/AryasCodeTreks)
