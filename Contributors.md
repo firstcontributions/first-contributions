@@ -11,6 +11,7 @@ git add Contributors.md# Contributors
 - [Priyanshu sherke](https://github.com/sherkepriyanshu)
 - [Prithvi Avireni](https://github.com/pavireni)
 - [Ratnesh Rastogi] (https://github.com/TheYorouzoya)
+- [Vedashree D] (https://github.com/VedashreeD)
 - [Alexander Maina](https://github.com/Alekiie)
 - [JubaDev](https://github.com/JubaDeveloper)
 - [Raphael Ndiritu](https://github.com/Raph-royalty)
