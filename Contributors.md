@@ -1015,6 +1015,7 @@ Jasmine
 - [Mai Van Hoang]
 - Daniel Baez
 - [Diogo Czervinski]
+- [Joseph Babal](https://github.com/josephBabal)
 - [Ankit Chaubey](https://www.linkedin.com/in/ankit-chaubey-6102/)
 - [Paul Knife] (https://github.com/Key-of-light)
 - [Alex White](https://github.com/alexwhite116)
