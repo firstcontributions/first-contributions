@@ -1088,6 +1088,7 @@ Jasmine
 - [Sam Little](https://github.com/Moopy559)
 - [Larry Griffith](https://github.com/LunaticSage218)
 - [zpearson36](https://github.com/zpearson36)
+- [Emily]
 - [Manny!]
 - [benjamindotdev](https://github.com/benjamindotdev)
 -[Prisha Behera] (https://github.com/prisha-behera)
