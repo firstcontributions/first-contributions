@@ -6,6 +6,7 @@
 git add Contributors.md# Contributors
 
 111111111111111111111111111111111
+  [majMgCode](https://github.com/majMgCode)
 - [P.P.A.K](https://github.com/ArkarMinKo)
 - [Priyanshu sherke](https://github.com/sherkepriyanshu)
 - [Ratnesh Rastogi] (https://github.com/TheYorouzoya)
