@@ -691,6 +691,7 @@ guanj65
 - [Gill B] (https://github.com/blackg33)
 - [Nathan Curry] (https://github.com/nathancurry)
 - [Parzi68] (https://github.com/Parzi68)
+- [Dylan Ugianskis] (https://github.com/Dylan-Ugianskis)
 - [Andrew Kiprotich Kimwetich] (https://github.com/Skipper-kenya)
 - [Mo11ov] (https://github.com/Mo11ov)
 -[Thabith] (https://github.com/ThabithThajudeen)
