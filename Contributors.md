@@ -145,6 +145,7 @@ Pereira
 - [Anujesh Bansal](https://github.com/anujeshify)
 - Blade-Z
 - [Felipe Kras](https://github.com/FelipeKras)
+- [Suryaa Narayanan K](https://github.com/Suryaa07)
 - [Soham Samal](https://github.com/sazuyakun)
 - [Thasneem] (https://github.com/thasneem9)
 - [Jessie De Jong](https://github.com/JessieDeJong)
