@@ -84,6 +84,7 @@ git add Contributors.md# Contributors
 - Tim J II
 -[Prathamesh Pawar](https://github.com/Prathameshppawar)
 - [<a href="https://github.com/ShreyasNandanwar"><b>Shreyas Nandanwar<b></a>]
+- [AnthonyUPF](https://github.com/AnthonyUPF)
 - [Giancarlo Groaznicu](https://github.com/grimmiegramm)
 - [Ciprian Pop](https://github.com/c-v-pop)
 - [Taylor Musolf](https://github.com/taylormusolf)
