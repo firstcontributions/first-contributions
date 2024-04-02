@@ -3743,3 +3743,4 @@ guanj65
 - [Josh Miles](https://github.com/Josh-Miles)
 - [NavinSunar] ([text](https://github.com/jafinsunar))
 - [monkey d luffy](https://github.com/missboa)
+- [Quante31](https://github.com/Quante31)
