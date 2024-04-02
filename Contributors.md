@@ -172,6 +172,7 @@ Pereira
 - [Ahmed El Otmani](https://github.com/OtmaniCodes)
 - [Sethika Manumitha](https://github.com/SethikaManumitha/)
 -[Soyoon Moon](https://github.com/soyoonmoon)
+- [Hadi-M-Taheri](https://github.com/hadi-mollataheri)
 -[vishnu](https://github.com/Vishnhj-n)
 -[alejandrofsevilla](https://github.com/alejandrofsevilla)
 - [FancyTobias](https://github.com/FancyTobias)
