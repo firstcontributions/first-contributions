@@ -9,6 +9,7 @@ git add Contributors.md# Contributors
   [majMgCode](https://github.com/majMgCode)
 - [P.P.A.K](https://github.com/ArkarMinKo)
 - [Priyanshu sherke](https://github.com/sherkepriyanshu)
+- [Nicholas Morris] (https://github.com/Nicmorris1820)
 - [Prithvi Avireni](https://github.com/pavireni)
 - [Ratnesh Rastogi] (https://github.com/TheYorouzoya)
 - [Vedashree D] (https://github.com/VedashreeD)
