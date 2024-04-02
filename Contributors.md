@@ -9,6 +9,7 @@ git add Contributors.md# Contributors
   [majMgCode](https://github.com/majMgCode)
 - [P.P.A.K](https://github.com/ArkarMinKo)
 - [Priyanshu sherke](https://github.com/sherkepriyanshu)
+- [Prithvi Avireni](https://github.com/pavireni)
 - [Ratnesh Rastogi] (https://github.com/TheYorouzoya)
 - [Alexander Maina](https://github.com/Alekiie)
 - [JubaDev](https://github.com/JubaDeveloper)
