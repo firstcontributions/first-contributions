@@ -2727,6 +2727,7 @@ LadegbayeStella)
 - [Dedphish](https://github.com/Dedphish)
 - [RaviJ] - Trying out GH tutorial
 - [Heeba Khan](https://github.com/heeba-khan)
+- [Will Casey](https://https://github.com/CaseyRWill)
 - [ABarpanda]()
 - [Afrin Nahar] (https://github.com/Afrin127329/)
 - [Abdou-Raouf ATARMLA](https://github.com/fless-lab)
