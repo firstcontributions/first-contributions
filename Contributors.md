@@ -24,6 +24,7 @@ git add Contributors.md# Contributors
 - [Alexander Maina](https://github.com/Alekiie)
 - [Aniket Kanere](https://github.com/anikxt)
 - [JubaDev](https://github.com/JubaDeveloper)
+- [Steven Curry](https://github.com/YrrucNevets)
 - [Raphael Ndiritu](https://github.com/Raph-royalty)
 - [Jun Iwamoto](https://github.com/junffy)
 - [William Libero](https://github.com/William-Libero) 📲[LinkedIn](https://www.linkedin.com/in/williamlibero)
