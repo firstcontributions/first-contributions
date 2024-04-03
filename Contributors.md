@@ -10,6 +10,7 @@ git add Contributors.md# Contributors
   [majMgCode](https://github.com/majMgCode)
   [linahamila](https://github.com/linahamila)
 - [P.P.A.K](https://github.com/ArkarMinKo)
+- [Tristan Long](https://github.com/longtr28)
 - [Priyanshu sherke](https://github.com/sherkepriyanshu)
 - [Nicholas Morris] (https://github.com/Nicmorris1820)
 - [Prithvi Avireni](https://github.com/pavireni)
