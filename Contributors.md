@@ -16,6 +16,7 @@ git add Contributors.md# Contributors
 - [Priyanshu sherke](https://github.com/sherkepriyanshu)
 - [Nicholas Morris] (https://github.com/Nicmorris1820)
 - [Prithvi Avireni](https://github.com/pavireni)
+- [Swastik Banerjee](https://github.com/swastik-apk)
 - [Ratnesh Rastogi] (https://github.com/TheYorouzoya)
 - [Vedashree D] (https://github.com/VedashreeD)
 - [Alexander Maina](https://github.com/Alekiie)
