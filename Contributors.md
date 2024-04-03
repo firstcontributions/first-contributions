@@ -233,6 +233,7 @@ Pereira
 - l0renz0o
 - Henry Wagner
 - Swastik Mukati
+- Brandie McGinnes
 - krishna chaitanya
 - Kanishka Utagikar(https://github.com/kanishkautag)
 -Jacob Coles
