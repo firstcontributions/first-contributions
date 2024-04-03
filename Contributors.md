@@ -212,6 +212,7 @@ Pereira
 -[vishnu](https://github.com/Vishnhj-n)
 -[alejandrofsevilla](https://github.com/alejandrofsevilla)
 - [FancyTobias](https://github.com/FancyTobias)
+- [Pseudotsuga Fir](https://github.com/pseudotsuga-fir)
 - [110207434](https://github.com/ver0n1ca1213/first-contributions.git)
 -[Mai Mable Thet](https://github.com/EmeraldMable)
 -[Beatriz Guerrero] (https://github.com/Beatriz-G)
