@@ -93,7 +93,8 @@ git add Contributors.md# Contributors
 - [Ngoc Tam Le]
 - [DSCmatter](https://github.com/DSCmatter)
 - [Jason Zelmanovich](https://github.com/JasonZelmanovich)
-- [Chad Holst](https://github.com/HolstCh) 
+- [Chad Holst](https://github.com/HolstCh)
+- [Benjamin Lane] (https://github.com/UnseemlyDuck) 
 - [ash-tise](https://github.com/ash-tise)
 - [Dennis Witnauer](https://github.com/witnauer)
 - [Kunal Tyagi](https://github.com/tykunal)
