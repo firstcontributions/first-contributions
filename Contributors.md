@@ -2120,6 +2120,7 @@ Dante Sanchez
 - [Tim Maingi](https://github.com/Merch7x)
 - [Suchkov Denis](https://github.com/SuchkovDenis)
 - [Lestan D'Souza](https://github.com/lestan)
+- [Harshath M](https://github.com/HarshathM)
 - [sabhanaaz Hussain](https://github.com/sabhanaaz)
 - [Rohit kumar] My first commit
 - [sabhanaaz](https://github.com/sabhanaaz)
