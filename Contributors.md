@@ -997,6 +997,7 @@ Jasmine
 - [juli](https://github.com/tymnkey)
 - [David Bailey](https://github.com/DavidBailey3)
 - [Every soul will taste death.](prepare with good deeds!)
+- [Trevor DePalatis]
 - [Srinjan Mukherjee] (https://github.com/Srinjan03112001)
 - [Gautam Jain](https://github.com/BloodThearch)
 - [Karissa Smallwood]
