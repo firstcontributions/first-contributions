@@ -73,6 +73,7 @@ git add Contributors.md# Contributors
 - [Lucozky](https://github.com/Lucozky)
 - [ablines]
 - [msoniisg](https://github.com/msoniisg)
+- [Meet-S0ni](https://github.com/Meet-S0ni)
 - [Christopher] (https://github.com/cnchengucsd)
 -[Demb Soumare]
 - [Shilpa Dutta](https://github.com/shilpa2024)
