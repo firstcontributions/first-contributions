@@ -2375,6 +2375,7 @@ Alexander
 - [Ebrar Altunkaynak](https://github.com/ebrardev)
 - [Anochiwa Alfred](https://github.com/AnochiwaAlfred)
 - [Dilan Kaya](https://github.com/DilanKaya127)
+- [Luke Guyre](https://github.com/Sassycatt) 
 - [Matteo Bongiovanni](https://github.com/matteobongio)
 - [Taha S. ASAN](https://github.com/tahaasann)
 - [Safa Osman](https://github.com/swafak)
