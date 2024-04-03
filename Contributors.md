@@ -39,6 +39,7 @@ git add Contributors.md# Contributors
 - [Ajay Nischal](https://github.com/ajaynischal/)
 - [Caden Maxwell] (https://github.com/CadenMax)
 - [Akintunde Olayinka] (https://github.com/oakintunde)
+- [Cheat] (https://github.com/TheCheatCode)
 - melih-canbolat
 - [Abimael-Lib] (https://github.com/Abimael-Lib)
 - Shabazz
