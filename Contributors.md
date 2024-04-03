@@ -4,9 +4,6 @@
 - [TREVOR ARNOLDS](https://github.com/TREVORNDONJI)
 -[Vamshi krishna Jillela] (https://github.com/VamshiKrishna-jillela/)
 - [Andrija Mandic](https://github.com/ziftpool)
-git add Contributors.md# Contributors
-
-111111111111111111111111111111111
   [majMgCode](https://github.com/majMgCode)
   [linahamila](https://github.com/linahamila)
 - [P.P.A.K](https://github.com/ArkarMinKo)
@@ -3781,3 +3778,4 @@ guanj65
 - [Mevorah Berrebi](https://github.com/mevo0108)
 - [Steven]("https://github.com/StarflyZ")
 - [Roronoa Zoro](https://github.com/andreasbrummer)
+- [Kris Wen]("https://github.com/kriswen")
