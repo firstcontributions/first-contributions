@@ -3694,6 +3694,7 @@ guanj65
 - [DivijBuch](https://github.com/DivijBuch)
 - [Elliot Miller](https://github.com/j-elliot)
 - [Jamie Phillips](https://github.com/jamie-phillips)
+- [Bhanu Malhotra](https://github.com/bhanumalhotra123)
 - [Emilio M]
 - [CrispNight]
 - [MisouMisou]
