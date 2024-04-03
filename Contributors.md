@@ -103,6 +103,7 @@ git add Contributors.md# Contributors
 - [Taylor Musolf](https://github.com/taylormusolf)
 - [Saahiil M](https://github.com/SaahiilM)
 - [Lanre Adedara](https://github.com/klever34)
+- [Dean K] (https://github.com/Dkurilich)
 - [Prerak Singh Sangwan](https://github.com/Prerak1310)
 - [Vanisha Gupta](https://github.com/V-anisha)
 - Ray Wu
