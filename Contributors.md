@@ -295,6 +295,7 @@ weissbrotjaeger
 - [Venkatesh Jamge](https://github.com/venkateshjamge)
 - CJ
 - [Manon Jacquin](https://github.com/manonja)
+- [Ravi Bhatia](https://github.com/suryanz)
 - [Nwachukwu Michael](https://github.com/Michael-Nwachukwu)
 - [Hamza or StudHamza :0](https://github.com/StudHamza)
 - [fayez coder](https://github.com/fayezCoder))
