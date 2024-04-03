@@ -50,6 +50,7 @@ git add Contributors.md# Contributors
 - Shabazz
 - Dillon T
 - MrF1ow
+- [Brett Dixon] (https://github.com/BDixon808)
 - [MaccSob] (https://github.com/MaccSob)
 - [Eric Risher] (https://github.com/ericrisher)
 - [Kalyan](https://github.com/Kalyan19111999)
