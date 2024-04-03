@@ -82,6 +82,7 @@ git add Contributors.md# Contributors
 - [Christopher] (https://github.com/cnchengucsd)
 -[Demb Soumare]
 - [Shilpa Dutta](https://github.com/shilpa2024)
+- [Ngoc Tam Le]
 - [DSCmatter](https://github.com/DSCmatter)
 - [Jason Zelmanovich](https://github.com/JasonZelmanovich)
 - [Chad Holst](https://github.com/HolstCh) 
