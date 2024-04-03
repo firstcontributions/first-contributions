@@ -120,6 +120,7 @@ git add Contributors.md# Contributors
 - [Kai Breese](https://github.com/ninjakaib)
 - [Job Wamoyi](https://github.com/wamoyi)
 - [Beloise Huffstutler](https://github.com/fullStackRacc)
+- [CollapsingStar](https://github.com/CollapsingStar)
 - [William Alvarez](https://github.com/williamalvarezdev)
 - [Juan Pedro Martin](https://github.com/jmartinn)
 - [Nebojsa Pavlovic](https://github.com/Nele82)
