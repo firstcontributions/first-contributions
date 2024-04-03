@@ -11,6 +11,7 @@ git add Contributors.md# Contributors
   [linahamila](https://github.com/linahamila)
 - [P.P.A.K](https://github.com/ArkarMinKo)
 - [Tristan Long](https://github.com/longtr28)
+- [Justin Stoner](https://github.com/justinstoner2) 
 - [Priyanshu sherke](https://github.com/sherkepriyanshu)
 - [Nicholas Morris] (https://github.com/Nicmorris1820)
 - [Prithvi Avireni](https://github.com/pavireni)
