@@ -19,6 +19,7 @@ git add Contributors.md# Contributors
 - [Ratnesh Rastogi] (https://github.com/TheYorouzoya)
 - [Vedashree D] (https://github.com/VedashreeD)
 - [Alexander Maina](https://github.com/Alekiie)
+- [Aniket Kanere](https://github.com/anikxt)
 - [JubaDev](https://github.com/JubaDeveloper)
 - [Raphael Ndiritu](https://github.com/Raph-royalty)
 - [Jun Iwamoto](https://github.com/junffy)
