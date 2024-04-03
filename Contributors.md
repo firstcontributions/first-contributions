@@ -66,7 +66,6 @@ git add Contributors.md# Contributors
 - [KillAllChickens](https://github.com/KACofficial)
 - [Daniel Ogunlolu](https://github.com/Amazingct)
 - [Harshit Singh](https://github.com/Harshit-BCS)
-- [Benjamin Lane] (https://github.com/UnseemlyDuck)
 - [sohan guptha](https://github.com/sohan-gupthak)
 - [MahditS] (https://github.com/MahditS)
 - [u3b] (https://github.com/u3b)
@@ -94,7 +93,8 @@ git add Contributors.md# Contributors
 - [Ngoc Tam Le]
 - [DSCmatter](https://github.com/DSCmatter)
 - [Jason Zelmanovich](https://github.com/JasonZelmanovich)
-- [Chad Holst](https://github.com/HolstCh) 
+- [Chad Holst](https://github.com/HolstCh)
+- [Benjamin Lane] (https://github.com/UnseemlyDuck) 
 - [ash-tise](https://github.com/ash-tise)
 - [Dennis Witnauer](https://github.com/witnauer)
 - [Kunal Tyagi](https://github.com/tykunal)
