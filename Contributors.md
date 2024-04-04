@@ -141,6 +141,7 @@ git add Contributors.md# Contributors
 - [PranavNair] (https://github.com/pranavniar)
 - [ArmaanveerSinghSidhu](https://github.com/ArmaanveerSinghSidhu)
 - [Kai Breese](https://github.com/ninjakaib)
+- Valery Legasov
 - [Job Wamoyi](https://github.com/wamoyi)
 - [Beloise Huffstutler](https://github.com/fullStackRacc)
 - [CollapsingStar](https://github.com/CollapsingStar)
