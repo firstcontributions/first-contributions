@@ -98,6 +98,7 @@ git add Contributors.md# Contributors
 - [Benjamin Lane] (https://github.com/UnseemlyDuck) 
 - [ash-tise](https://github.com/ash-tise)
 - [Dennis Witnauer](https://github.com/witnauer)
+- [Will](https://github.com/WillTheCodeWork)
 - [Kunal Tyagi](https://github.com/tykunal)
 - [Moslem Ajra](https://github.com/moslemajra85)
 - [Hari Kishore Sepuri](https://github.com/HK-Sepuri)
