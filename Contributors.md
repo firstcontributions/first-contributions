@@ -3798,3 +3798,4 @@ guanj65
 - [Roronoa Zoro](https://github.com/andreasbrummer)
 - [Louie Heaton](https://github.com/louieheaton)
 - [Mayank Sheladiya](https://github.com/Mayank5054)
+- [Utkarsh Tripathi](https://github.com/utkarshilh)
