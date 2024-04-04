@@ -9,7 +9,6 @@ git add Contributors.md# Contributors
 
 111111111111111111111111111111111
   [majMgCode](https://github.com/majMgCode)
-  [Mengge Wu] (https://github.com/mgparallel)
 - [Kurtis] (https://github.com/kurtisjw)
   [linahamila](https://github.com/linahamila)
 - [jesc52](https://github.com/jesc52)
@@ -22,6 +21,7 @@ git add Contributors.md# Contributors
 - [Rances Rodriguez] (https://github.com/caliza)
 - [Giorgos Papoutsakis](https://github.com/GiorgosPapoutsakis)
 - [Sean Brandon](https://github.com/Sean-PB)
+  [Mengge Wu](https://github.com/mgparallel)
 - [Priyanshu sherke](https://github.com/sherkepriyanshu)
 - [Nicholas Morris] (https://github.com/Nicmorris1820)
 - [Prithvi Avireni](https://github.com/pavireni)
