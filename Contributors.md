@@ -49,6 +49,7 @@ git add Contributors.md# Contributors
 - [Abimael-Lib] (https://github.com/Abimael-Lib)
 - Shabazz
 - Dillon T
+Lindsay A
 - MrF1ow
 - [Brett Dixon] (https://github.com/BDixon808)
 - [MaccSob] (https://github.com/MaccSob)
