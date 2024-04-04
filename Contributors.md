@@ -9,6 +9,7 @@ git add Contributors.md# Contributors
 
 111111111111111111111111111111111
   [majMgCode](https://github.com/majMgCode)
+- [Kurtis] (https://github.com/kurtisjw)
   [linahamila](https://github.com/linahamila)
 - [jesc52](https://github.com/jesc52)
 - [P.P.A.K](https://github.com/ArkarMinKo)
