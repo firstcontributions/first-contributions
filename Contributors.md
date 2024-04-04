@@ -952,6 +952,7 @@ Jasmine
 - [chandu venna]
 - [Bryan Record]
 - [Tom Page]
+- [Sam Smith]
 - [Armaan Raj Thakur]
 - [Mert Aptoula Chousein] (https://github.com/aptoulam)
 - [Chris Baker](https://github.com/gulpfood5)
