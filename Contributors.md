@@ -6,6 +6,12 @@
 - [Andrija Mandic](https://github.com/ziftpool)
 git add Contributors.md# Contributors
 
+Changes not staged for commit:
+(use "git add<file>..."to update what will be committed)
+(use "git checkout -- <file>..." to discard changes in word)
+
+modified: Contributers.md
+
 111111111111111111111111111111111
   [majMgCode](https://github.com/majMgCode)
   [linahamila](https://github.com/linahamila)
