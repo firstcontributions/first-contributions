@@ -69,6 +69,7 @@ Lindsay A
 - [Vandesh Sawant](https://github.com/VandeshSawant)
 - [Sakshi Danej](https://github.com/DanejSakshi13)
 - [Sahil R](https://github.com/slraina)
+- [Donald Bertucci](https://github.com/xnought)
 - [Abhishek Anand](https://github.com/av153k)
 - [Anusree S S]https://github.com/anusree-ss-110405
 - [Marcos Congregado](https://github.com/MarcosGCM97)
