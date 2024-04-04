@@ -246,6 +246,7 @@ Pereira
 - [Seb Gillman](https://github.com/SebGillman)
 - Jayanth K
 - ericbox
+- Jody Hunter
 - Pete Zeroyxz
 - Udana95
 - [Amy Mummert](https://github.com/ARMummert)
