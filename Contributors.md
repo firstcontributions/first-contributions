@@ -126,6 +126,7 @@ Ayush Gaud
 - [Srinivas Joshi](https://github.com/SrinivasJoshi)
 - [dreamerstories](https://github.com/dreamerstories)
 - [OffMaxer]
+- [NeerajKumar]
 - [Tatiana Millsap](https://github.com/MillsapTatiana-FS)
 - [Japesh]
 - [Kiran K L](https://github.com/kalkir)
