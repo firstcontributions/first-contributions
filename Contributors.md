@@ -81,6 +81,7 @@ git add Contributors.md# Contributors
 - [Kenneth Quibel](https://github.com/Exzort567)
 - [Harshal Honde](https://github.com/Harry262000)
 - [Asma Ilyas](https://github.com/ailyas13)
+- [Stephanie Garcia](https://github.com/garcias6)
 - [Carlos Peralta](https://github.com/cperalt)
 - [Williyam M](https://github.com/williyam-m)
 - [Lucozky](https://github.com/Lucozky)
