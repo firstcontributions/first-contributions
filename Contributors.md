@@ -10,6 +10,7 @@ git add Contributors.md# Contributors
 111111111111111111111111111111111
   [majMgCode](https://github.com/majMgCode)
   [linahamila](https://github.com/linahamila)
+- [jesc52](https://github.com/jesc52)
 - [P.P.A.K](https://github.com/ArkarMinKo)
 - [Soham Desai](https://github.com/desaisoham0)
 - [Tristan Long](https://github.com/longtr28)
