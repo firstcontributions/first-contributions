@@ -81,6 +81,7 @@
 - [Rose Rousseau](<(https://github.com/MapleRose)>)
 - [Ashutosh Pandey]
 - [Oliver Warne]
+- [Chris Asbury](https://github.com/CGA15)
 - [Chris E](https://github.com/cce2955)
 - [cqdev-fusion](https://github.com/cqdev-fusion)
 - [Tanbir Ali](https://github.com/tanbirali)
