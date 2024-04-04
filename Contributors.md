@@ -2107,6 +2107,7 @@ Dante Sanchez
 - [Adam Steiger](https://github.com/adamstgr)
 - [Gordon Lim](https://github.com/gordonlim02)
 - [DetorlarMubarak](https://github.com/Pious-coder)
+- [Christian Feliciano](https://github.com/cfeliciano7792)
 - [cvuneeez](https://github.com/cvuneeez)
 - [Yatee Singh](https://github.com/yatee-singh)
 - [Cristhian Becerra](https://github.com/cbecerrae)
@@ -3789,3 +3790,4 @@ guanj65
 - [Steven]("https://github.com/StarflyZ")
 - [Roronoa Zoro](https://github.com/andreasbrummer)
 - [Louie Heaton](https://github.com/louieheaton)
+
