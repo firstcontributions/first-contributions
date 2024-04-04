@@ -53,7 +53,7 @@ git add Contributors.md# Contributors
 - Dillon T
 Lindsay A
 - MrF1ow
-- [Audrey] (https://github.com/aflanders7)
+- [Audrey](https://github.com/aflanders7)
 - Argoxonium
 - [Miguel Alvarez] (https://github.com/formalmiguel)
 - [Brett Dixon] (https://github.com/BDixon808)
