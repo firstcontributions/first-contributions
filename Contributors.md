@@ -14,6 +14,7 @@ git add Contributors.md# Contributors
 - [Tristan Long](https://github.com/longtr28)
 - [Dawson Bremner](https://github.com/FLYGUY4400)
 - [Justin Stoner](https://github.com/justinstoner2)
+- [John Hazrati](https://github.com/John-6670) ->  **`a computer engineering student with passion for ML`**
 - [Giorgos Papoutsakis](https://github.com/GiorgosPapoutsakis)
 - [Sean Brandon](https://github.com/Sean-PB)
 - [Priyanshu sherke](https://github.com/sherkepriyanshu)
