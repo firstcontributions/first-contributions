@@ -142,6 +142,7 @@ git add Contributors.md# Contributors
 - [ArmaanveerSinghSidhu](https://github.com/ArmaanveerSinghSidhu)
 - [Kai Breese](https://github.com/ninjakaib)
 - Valery Legasov
+- Helen Keller
 - [Job Wamoyi](https://github.com/wamoyi)
 - [Beloise Huffstutler](https://github.com/fullStackRacc)
 - [CollapsingStar](https://github.com/CollapsingStar)
