@@ -128,6 +128,7 @@ git add Contributors.md# Contributors
 - [Prerak Singh Sangwan](https://github.com/Prerak1310)
 - [Vanisha Gupta](https://github.com/V-anisha)
 - Ray Wu
+  Neeraj Kumar
 - [KMC](https://github.com/kaungmyatcho)
 - [MichelMulato](https://github.com/MichelMulatoo)
 - [kaneki003](https://github.com/kaneki003)
