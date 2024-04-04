@@ -1,5 +1,5 @@
 # Contributors
-- [Brian H.](https://github.com/brianh-osu/)
+- [Brian Hsiang](https://github.com/brianh-osu/)
 - [Tomy Roy](https://github.com/tomyroydotcom/)
 - [Beita](https://github.com/liny18)
 - [TREVOR ARNOLDS](https://github.com/TREVORNDONJI)
@@ -9,13 +9,16 @@ git add Contributors.md# Contributors
 
 111111111111111111111111111111111
   [majMgCode](https://github.com/majMgCode)
+- [Kurtis] (https://github.com/kurtisjw)
   [linahamila](https://github.com/linahamila)
+- [jesc52](https://github.com/jesc52)
 - [P.P.A.K](https://github.com/ArkarMinKo)
 - [Soham Desai](https://github.com/desaisoham0)
 - [Tristan Long](https://github.com/longtr28)
 - [Dawson Bremner](https://github.com/FLYGUY4400)
 - [Debbie Nguyen] (https://github.com/debbie-nguyen)
 - [Justin Stoner](https://github.com/justinstoner2)
+- [Rances Rodriguez] (https://github.com/caliza)
 - [Giorgos Papoutsakis](https://github.com/GiorgosPapoutsakis)
 - [Sean Brandon](https://github.com/Sean-PB)
 - [Priyanshu sherke](https://github.com/sherkepriyanshu)
@@ -36,6 +39,7 @@ git add Contributors.md# Contributors
 - **`Nicolas Manigand`** - [![LinkedIn](https://img.icons8.com/?size=25&id=xuvGCOXi8Wyg)](www.linkedin.com/in/nicolas-manigand-a6910b2a6) - [![GitHub](https://img.icons8.com/?size=30&id=sbhfmWq4KRr1)](https://github.com/NicolasM-83200) - [![Instagram](https://img.icons8.com/?size=27&id=nj0Uj45LGUYh)](https://www.instagram.com/nikkoomanixx/) - [Portfolio](https://portfolio-nicolas-manigand.netlify.app)
 - [Venkatesh Alampally](https://github.com/Venki1402)
 - [Jaiman Singh Guliani] (https://github.com/JaimanSingh)
+- [Maksym Vaskin] (https://github.com/maxxim333/
 - [Ethan Flow] (https://github.com/MrF1ow)
 - [Maty](https://github.com/matyosy)
 - [Thilina Abeysinghe](https://github.com/thilinaabey)
@@ -176,6 +180,7 @@ Pereira
 - [Jasper Zhuang](https://github.com/Jun-wei136/)
 - [faiza liyaqat](https://github.com/faizaliyaqat)
 - [Christian McKinnon](https://github.com/christianmckinnon)
+- [Alessandro LAMPARELLI](https://github.com/alamparelli)
 - [U Harshitha](https://github.com/U-Harshitha)
 - [Likheet Shetty](https://github.com/Likheet)
 - [Le-Vaughn Roper](https://github.com/laroper)
@@ -192,6 +197,7 @@ Pereira
 - Taylor
 - Monika M
 - Yohan Moon
+- Mee Too
 - [Jorge Calleja](https://github.com/CallejaJ)
 - [Sergiu Grosu](https://github.com/sergrosu)
 - [Anujesh Bansal](https://github.com/anujeshify)
@@ -350,6 +356,7 @@ igntius praise
 - Michael Dratch
 - [Loveday Ikegbulam](https://github.com/lovedayikegbulam)
 - [Pradip Manna](https://github.com/Loosify00)
+- [AnaMontero](https://github.com/AnaMontero)
 - [Rahul Patanwadia](https://github.com/Rahul-Patanwadia)
 - [Veronika Gorbatenko](https://github.com/veron-ee)
 - [Afnan Abdul] (https://github.com/AfnanAbdul)
@@ -558,6 +565,7 @@ Kencham Vinay
 - [Nikola - nicywi](https://github.com/nicywi)
 - [Sameh ElGazar](https://github.com/samehelgazar95)
 - [Mitchell - mitthoma](https://github.com/mitthoma)
+- [Rafal Lenartowicz](https://github.com/rafdlen)
 - [Yuliia Petryshak](https://github.com/ypetryshak)
 - [Vamsi Srivatsan](https://github.com/vamsisrivatsanc)
 - [Chiharu Hagiwara](https://github.com/mendako1015)
@@ -3425,6 +3433,7 @@ LadegbayeStella)
 - [Dexter Vinoya](https://github.com/dxtrvny)
 - [Karan Prajapati](https://github.com/Karan2004xd)
 - [Song](https://github.com/qingw1230)
+- [Chris](https://github.com/dravid346)
 - [suzukiyut](https://github.com/suzukiyut27)
 - [Vivek Kumar Singh](git@github.com:v-s-chauhan)
 - [Matthew Gardner](https://github.com/meg546)
@@ -3813,3 +3822,4 @@ guanj65
 - [Utkarsh Tripathi](https://github.com/utkarshilh)
 - [Ethan Coco](https://github.com/cocoethan)
 - [Jackson Perry](https://github.com/jackattack825)
+[Obed Sachez](https://github.com/ObedSAGA)
