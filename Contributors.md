@@ -176,6 +176,7 @@ Pereira
 - [Jasper Zhuang](https://github.com/Jun-wei136/)
 - [faiza liyaqat](https://github.com/faizaliyaqat)
 - [Christian McKinnon](https://github.com/christianmckinnon)
+- [Alessandro LAMPARELLI](https://github.com/alamparelli)
 - [U Harshitha](https://github.com/U-Harshitha)
 - [Likheet Shetty](https://github.com/Likheet)
 - [Le-Vaughn Roper](https://github.com/laroper)
