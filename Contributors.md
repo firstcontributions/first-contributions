@@ -1,5 +1,5 @@
 # Contributors
-- Ruben Gomez Bahamonde
+- [Brian Hsiang](https://github.com/brianh-osu/)
 - [Tomy Roy](https://github.com/tomyroydotcom/)
 - [Beita](https://github.com/liny18)
 - [TREVOR ARNOLDS](https://github.com/TREVORNDONJI)
