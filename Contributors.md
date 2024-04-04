@@ -67,6 +67,7 @@ git add Contributors.md# Contributors
 - [Daniel Ogunlolu](https://github.com/Amazingct)
 - [Harshit Singh](https://github.com/Harshit-BCS)
 - [sohan guptha](https://github.com/sohan-gupthak)
+- [Lavnish Kumar](https://github.com/Lavnish0101)
 - [MahditS] (https://github.com/MahditS)
 - [u3b] (https://github.com/u3b)
 - [JerrySagwa] (https://github.com/JerrySagwa)
