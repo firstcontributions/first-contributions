@@ -1,5 +1,6 @@
 # Contributors
 - Ruben Gomez Bahamonde
+- [Sorin](https://github.com/SeoBlack)
 - [Tomy Roy](https://github.com/tomyroydotcom/)
 - [Ahmed Salim ](https://github.com/amedsalim)
 - [Stuart Mills](https://github.com/bitsbard/)
