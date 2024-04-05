@@ -43,6 +43,7 @@ git add Contributors.md# Contributors
 - [Ratnesh Rastogi] (https://github.com/TheYorouzoya)
 - Jack Youssef
 - Brooke Smith
+Sam Barns
 - [Shane Ludwig] (https://github.com/FoopyPoopy)
 - [Masaki Nishi] (https://github.com/MasakiNishi)
 - [Vedashree D] (https://github.com/VedashreeD)
