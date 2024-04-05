@@ -104,6 +104,7 @@ Kayla Barton
 - [sohan guptha](https://github.com/sohan-gupthak)
 - [Lavnish Kumar](https://github.com/Lavnish0101)
 - Daniel S.
+- [Lance Giles] (https://github.com/lancemgiles)
 - [MahditS] (https://github.com/MahditS)
 - [u3b] (https://github.com/u3b)
 - [JerrySagwa] (https://github.com/JerrySagwa)
