@@ -2609,6 +2609,7 @@ Alexander
 - [Ray Mercedes](https://github.com/coolrey3)
 - [DS-X1](https://github.com/DS-X1)
 - [kiznick](https://github.com/kiznick)
+- [Alex Oliver](https://github.com/AlexOliver98)
 - [Vytor Rennan Alves Carvalho](https://github.com/vytorrennan)
 - [Johannes Tilly (The real one)]
 - [Ethan Eckert](https://github.com/eth9n-dev)
