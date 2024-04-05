@@ -102,6 +102,7 @@ Kayla Barton
 - [Daniel Ogunlolu](https://github.com/Amazingct)
 - [Harshit Singh](https://github.com/Harshit-BCS)
 - [sohan guptha](https://github.com/sohan-gupthak)
+- [Alexander Rose](https://github.com/Alex-K-Rose)
 - [Lavnish Kumar](https://github.com/Lavnish0101)
 - Daniel S.
 - [Lance Giles] (https://github.com/lancemgiles)
