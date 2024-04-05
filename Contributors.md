@@ -1,4 +1,4 @@
-# Contributors
+i# Contributors
 - Ruben Gomez Bahamonde
 - [Tomy Roy](https://github.com/tomyroydotcom/)
 - [Beita](https://github.com/liny18)
@@ -6,8 +6,8 @@
 -[Vamshi krishna Jillela] (https://github.com/VamshiKrishna-jillela/)
 - [Andrija Mandic](https://github.com/ziftpool)
 git add Contributors.md# Contributors
+- [Aroa Chans](https://github.com/aroachans/)
 
-111111111111111111111111111111111
 - [Eric Wang](https://github.com/ewang7421)
   [majMgCode](https://github.com/majMgCode)
 - [Kurtis] (https://github.com/kurtisjw)
