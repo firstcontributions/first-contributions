@@ -97,6 +97,7 @@ Lindsay A
 - [Abhishek Anand](https://github.com/av153k)
 - [Anusree S S]https://github.com/anusree-ss-110405
 - [Marcos Congregado](https://github.com/MarcosGCM97)
+- [Scott Lindsay]
 - [Paulo Camacho](https://github.com/Paulo-Camacho)
 - [Albert Einstein] (https://github.com/alberteinstein)
 -[Jasith Heshala](https://github.com/zJasHeshz)
