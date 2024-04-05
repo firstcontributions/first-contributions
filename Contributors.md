@@ -62,6 +62,7 @@ git add Contributors.md# Contributors
 - Shabazz
 - Dillon T
 Lindsay A
+- Jesse Soliman [CS464]
 - MrF1ow
 - [Audrey] (https://github.com/aflanders7)
 - Argoxonium
