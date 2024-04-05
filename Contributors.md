@@ -12,6 +12,7 @@ git add Contributors.md# Contributors
   [majMgCode](https://github.com/majMgCode)
 - [Kurtis] (https://github.com/kurtisjw)
   [linahamila](https://github.com/linahamila)
+-[Mariana Ramirez](https://github.com/MarianaRamirezCastro)
 - [jesc52](https://github.com/jesc52)
 - [Blake Norman](https://github.com/BlakeNorman12)
 - [P.P.A.K](https://github.com/ArkarMinKo)
