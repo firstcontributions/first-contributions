@@ -35,6 +35,7 @@ git add Contributors.md# Contributors
 - [JubaDev](https://github.com/JubaDeveloper)
 - [Steven Curry](https://github.com/YrrucNevets)
 - [Raphael Ndiritu](https://github.com/Raph-royalty)
+- [Alec Swift] (https://github.com/alecswift)
 - [Jun Iwamoto](https://github.com/junffy)
 - [William Libero](https://github.com/William-Libero) 📲[LinkedIn](https://www.linkedin.com/in/williamlibero)
 - [Ivandro Chindumbo](https://github.com/ivansftdejc)
