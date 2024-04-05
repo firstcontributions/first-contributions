@@ -39,6 +39,7 @@ git add Contributors.md# Contributors
 - [Swastik Banerjee](https://github.com/swastik-apk)
 - [Ratnesh Rastogi] (https://github.com/TheYorouzoya)
 - Jack Youssef
+- [Shane Ludwig] (https://github.com/FoopyPoopy)
 - [Masaki Nishi] (https://github.com/MasakiNishi)
 - [Vedashree D] (https://github.com/VedashreeD)
 - [Alexander Maina](https://github.com/Alekiie)
