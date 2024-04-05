@@ -2119,6 +2119,7 @@ Dante Sanchez
 - [Drifted Clouds](https://github.com/DriftedClouds)
 - [Amna Ahmed](https://github.com/nono5342)
 - [Shreyes Gadwalkar](https://github.com/ShreyesGadwalkar)
+- emmanuep
 - [Wagor Victory](https://github.com/vickywagz)
 - [Rithvik Shetty] (https://github.com/rithvikshetty)
 - [Syed Mehdi] (https://github.com/Infamous003)
