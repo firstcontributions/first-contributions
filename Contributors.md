@@ -21,6 +21,7 @@ git add Contributors.md# Contributors
 - [Dawson Bremner](https://github.com/FLYGUY4400)
 - Justin Hosfeld
 - [Debbie Nguyen] (https://github.com/debbie-nguyen)
+- [Kurtis Walton] (https://github.com/kurtisjw)
 - [Justin Stoner](https://github.com/justinstoner2)
 - [MadawaSamarathunga](https://github.com/MadawaSamarathunga)
 - [Paul Adams]
