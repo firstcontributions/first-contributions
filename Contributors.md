@@ -7,7 +7,7 @@
 - [Andrija Mandic](https://github.com/ziftpool)
 git add Contributors.md# Contributors
 
-111111111111111111111111111111111
+- [Kartik Hegde](https://github.com/2deadmen)
 - [Eric Wang](https://github.com/ewang7421)
   [majMgCode](https://github.com/majMgCode)
 - [Kurtis] (https://github.com/kurtisjw)
