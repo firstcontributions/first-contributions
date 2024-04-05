@@ -1,6 +1,7 @@
 # Contributors
 - Ruben Gomez Bahamonde
 - [Tomy Roy](https://github.com/tomyroydotcom/)
+- [Stuart Mills](https://github.com/bitsbard/)
 - [Beita](https://github.com/liny18)
 - [TREVOR ARNOLDS](https://github.com/TREVORNDONJI)
 -[Vamshi krishna Jillela] (https://github.com/VamshiKrishna-jillela/)
