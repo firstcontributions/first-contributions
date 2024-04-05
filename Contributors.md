@@ -208,6 +208,7 @@ Pereira
 - [Christian Reyes](https://github.com/PrintRat6962)
 - [Daniel Silva](https://github.com/danielsilva010)
 - [Ryan Huang](https://github.com/Ryan280703)
+- [Benjamin Maza](https://github.com/bmazaoreg)
 - [Roshan Kawale](https://github.com/roshan-Kawale)
 - [Mayur K M] (https://github.com/mVr89)
 - [TRM](https://github.com/thirimon4550)
