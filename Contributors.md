@@ -13,6 +13,7 @@ git add Contributors.md# Contributors
 
 111111111111111111111111111111111
 - [Eric Wang](https://github.com/ewang7421)
+- [Monique Adams]
   [majMgCode](https://github.com/majMgCode)
 - [HINGA PETER](https://github.com/Hinga-inc)
 - [linahamila](https://github.com/linahamila)
@@ -3880,4 +3881,6 @@ guanj65
 - [Quinn Glenn] (https://github.com/QuinnG8)
 - [Chanse Syres] (https://github.com/Otnzfq-Fleqf)
 - [Elena Piaggio](https://github.com/elenapiaggio)
+- [monique-adams](https://github.com/moni110)
 - [Samuel White](https://github.com/SamWhite01)
+
