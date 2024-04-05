@@ -175,6 +175,7 @@ Pereira
 - [Tyler Deschenes](https://github.com/deschenest)
 - [JasonChen](https://github.com/110208061)
 - [JaeKyung Hwang](https://github.com/do0ori)
+- [Sunny Patel](https://github.com/patelsun9066)
 - [Sowmya Tejaswini] (https://github.com/Tejaswini-628)
 - Sujith Siddi
 - [Sharmila pusarla](https://github.com/spusarla23)
