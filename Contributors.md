@@ -162,6 +162,7 @@ Lindsay A
 - Valery Legasov
 - Helen Keller
 - [Job Wamoyi](https://github.com/wamoyi)
+- [Owais Khan](https://github.com/owais6153)
 - [Beloise Huffstutler](https://github.com/fullStackRacc)
 - [CollapsingStar](https://github.com/CollapsingStar)
 - [William Alvarez](https://github.com/williamalvarezdev)
