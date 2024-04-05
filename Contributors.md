@@ -22,6 +22,7 @@ git add Contributors.md# Contributors
 - [Debbie Nguyen] (https://github.com/debbie-nguyen)
 - [Justin Stoner](https://github.com/justinstoner2)
 - [MadawaSamarathunga](https://github.com/MadawaSamarathunga)
+- [Paul Adams]
 - [Rances Rodriguez] (https://github.com/caliza)
 - [Giorgos Papoutsakis](https://github.com/GiorgosPapoutsakis)
 - [Sean Brandon](https://github.com/Sean-PB)
