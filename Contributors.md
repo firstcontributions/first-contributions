@@ -16,6 +16,7 @@ git add Contributors.md# Contributors
 - [Soham Desai](https://github.com/desaisoham0)
 - [Tristan Long](https://github.com/longtr28)
 - [Dawson Bremner](https://github.com/FLYGUY4400)
+- Justin Hosfeld
 - [Debbie Nguyen] (https://github.com/debbie-nguyen)
 - [Justin Stoner](https://github.com/justinstoner2)
 - [Rances Rodriguez] (https://github.com/caliza)
