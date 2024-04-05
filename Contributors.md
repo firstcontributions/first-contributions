@@ -3823,6 +3823,7 @@ guanj65
 - [Louie Heaton](https://github.com/louieheaton)
 - [Mayank Sheladiya](https://github.com/Mayank5054)
 - [Utkarsh Tripathi](https://github.com/utkarshilh)
+- [Amyr](https://github.com/amyrd)
 - [Ethan Coco](https://github.com/cocoethan)
 - [Jackson Perry](https://github.com/jackattack825)
 [Obed Sachez](https://github.com/ObedSAGA)
