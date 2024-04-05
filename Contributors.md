@@ -98,6 +98,7 @@ Lindsay A
 - [Abhishek Anand](https://github.com/av153k)
 - [Anusree S S]https://github.com/anusree-ss-110405
 - [Marcos Congregado](https://github.com/MarcosGCM97)
+- [Scott Lindsay]
 - [Paulo Camacho](https://github.com/Paulo-Camacho)
 - [Albert Einstein] (https://github.com/alberteinstein)
 -[Jasith Heshala](https://github.com/zJasHeshz)
@@ -234,6 +235,7 @@ Pereira
 - Monika M
 - Yohan Moon
 - Mee Too
+- Matt Jung
 - [Kevin Johnson](https://github.com/KevinAJohnson96)
 - [Jorge Calleja](https://github.com/CallejaJ)
 - [Sergiu Grosu](https://github.com/sergrosu)
@@ -3879,3 +3881,6 @@ guanj65
 - [Quinn Glenn] (https://github.com/QuinnG8)
 - [Chanse Syres] (https://github.com/Otnzfq-Fleqf)
 - [Elena Piaggio](https://github.com/elenapiaggio)
+- [monique-adams](https://github.com/moni110)
+- [Samuel White](https://github.com/SamWhite01)
+
