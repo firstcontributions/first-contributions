@@ -2108,6 +2108,7 @@ Dante Sanchez
 - [Aditya Shibu](https://github.com/adwii-iii)
 - [Monjurul Ahsan](https://github.com/ahsan2001monjurul)
 - [Maximilian Sombke](https://github.com/SombkeMaximilian)
+- [Walid Rais] (https://github.com/walidrais)
 - [Drifted Clouds](https://github.com/DriftedClouds)
 - [Amna Ahmed](https://github.com/nono5342)
 - [Shreyes Gadwalkar](https://github.com/ShreyesGadwalkar)
