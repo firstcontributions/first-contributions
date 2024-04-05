@@ -9,7 +9,7 @@ git add Contributors.md# Contributors
 111111111111111111111111111111111
   [majMgCode](https://github.com/majMgCode)
 - [HINGA PETER](https://github.com/Hinga-inc)
-  [linahamila](https://github.com/linahamila)
+- [linahamila](https://github.com/linahamila)
 - [P.P.A.K](https://github.com/ArkarMinKo)
 - [Tristan Long](https://github.com/longtr28)
 - [Justin Stoner](https://github.com/justinstoner2)
