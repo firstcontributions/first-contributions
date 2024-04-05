@@ -12,8 +12,9 @@ git add Contributors.md# Contributors
 111111111111111111111111111111111
 - [Eric Wang](https://github.com/ewang7421)
   [majMgCode](https://github.com/majMgCode)
+- [HINGA PETER](https://github.com/Hinga-inc)
+- [linahamila](https://github.com/linahamila)
 - [Kurtis] (https://github.com/kurtisjw)
-  [linahamila](https://github.com/linahamila)
 -[Mariana Ramirez](https://github.com/MarianaRamirezCastro)
 - [jesc52](https://github.com/jesc52)
 - [Blake Norman](https://github.com/BlakeNorman12)
