@@ -1,4 +1,4 @@
-# Contributors
+i# Contributors
 - Ruben Gomez Bahamonde
 - [Sorin](https://github.com/SeoBlack)
 - [Tomy Roy](https://github.com/tomyroydotcom/)
@@ -10,8 +10,8 @@
 - [Andrija Mandic](https://github.com/ziftpool)
 - [Manthan Vyas](https://github.com/xmanthanvyas)
 git add Contributors.md# Contributors
+- [Aroa Chans](https://github.com/aroachans/)
 
-111111111111111111111111111111111
 - [Eric Wang](https://github.com/ewang7421)
   [majMgCode](https://github.com/majMgCode)
 - [HINGA PETER](https://github.com/Hinga-inc)
