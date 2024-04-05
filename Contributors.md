@@ -771,6 +771,7 @@ guanj65
 - [Marcelo Elias Simon](https://github.com/mSimon12)
 - [Natik Aggarwal](https://github.com/natikaggarwal/)
 - [Vansh]
+- [Jonathon Metcalf] (https://github.com/halfpeeled)
 - [TikTakSick](https://github.com/TikTakSick)
 - [Magali2000] (https://github.com/magali2000)
 - [ZY] (https://github.com/zawye9)
