@@ -3866,3 +3866,4 @@ guanj65
 - [Robin Naik] (https://github.com/robinnaik)
 - [Shikar Devanga] (https://github.com/sharkyshik)
 - [Quinn Glenn] (https://github.com/QuinnG8)
+- [Chanse Syres] (https://github.com/Otnzfq-Fleqf)
