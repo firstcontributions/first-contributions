@@ -48,6 +48,7 @@ git add Contributors.md# Contributors
 - [Venkatesh Alampally](https://github.com/Venki1402)
 - [Jaiman Singh Guliani] (https://github.com/JaimanSingh)
 - [Jessica Ebanks] 
+- [Natasa Trisha](https://github.com/Trish1996-wq)
 - [Maksym Vaskin] (https://github.com/maxxim333/
 - [Ethan Flow] (https://github.com/MrF1ow)
 - [Maty](https://github.com/matyosy)
