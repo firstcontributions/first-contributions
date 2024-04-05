@@ -15,6 +15,7 @@ git add Contributors.md# Contributors
 - [HINGA PETER](https://github.com/Hinga-inc)
 - [linahamila](https://github.com/linahamila)
 - [Kurtis] (https://github.com/kurtisjw)
+- [Kevin] (https://github.com/Walshkev)
 -[Mariana Ramirez](https://github.com/MarianaRamirezCastro)
 - [jesc52](https://github.com/jesc52)
 - [Blake Norman](https://github.com/BlakeNorman12)
