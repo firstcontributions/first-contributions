@@ -28,6 +28,7 @@ git add Contributors.md# Contributors
 - [Prithvi Avireni](https://github.com/pavireni)
 - [Swastik Banerjee](https://github.com/swastik-apk)
 - [Ratnesh Rastogi] (https://github.com/TheYorouzoya)
+- Jack Youssef
 - [Masaki Nishi] (https://github.com/MasakiNishi)
 - [Vedashree D] (https://github.com/VedashreeD)
 - [Alexander Maina](https://github.com/Alekiie)
