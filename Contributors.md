@@ -1,5 +1,6 @@
 # Contributors
 - [Jordan K](https://marinersjk00)
+- [Michael Chen](https://github.com/vayfarer/)
 - Ruben Gomez Bahamonde
 - [Sorin](https://github.com/SeoBlack)
 - [Tomy Roy](https://github.com/tomyroydotcom/)
