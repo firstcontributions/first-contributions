@@ -1,4 +1,5 @@
 # Contributors
+- [Jordan K](https://marinersjk00)
 - Ruben Gomez Bahamonde
 - [Sorin](https://github.com/SeoBlack)
 - [Tomy Roy](https://github.com/tomyroydotcom/)
