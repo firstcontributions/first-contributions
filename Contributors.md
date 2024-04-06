@@ -22,6 +22,7 @@ git add Contributors.md# Contributors
   [majMgCode](https://github.com/majMgCode)
 - [HINGA PETER](https://github.com/Hinga-inc)
 - [linahamila](https://github.com/linahamila)
+- [Kabil Shrestha](https://github.com/Kabilshr)
 - [Kurtis] (https://github.com/kurtisjw)
 - [Kevin] (https://github.com/Walshkev)
 -[Mariana Ramirez](https://github.com/MarianaRamirezCastro)
