@@ -88,6 +88,7 @@ Lindsay A
 - Jesse Soliman [CS464]
 - MrF1ow
 - [Audrey] (https://github.com/aflanders7)
+- [Raneem] (https://github.com/ra2230)
 - Argoxonium
 - [Miguel Alvarez] (https://github.com/formalmiguel)
 - [Brett Dixon] (https://github.com/BDixon808)
