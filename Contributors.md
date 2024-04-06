@@ -112,6 +112,7 @@ Kayla Barton
 - [Alexander Rose](https://github.com/Alex-K-Rose)
 - [Lavnish Kumar](https://github.com/Lavnish0101)
 - Daniel S.
+- [Alex M] (https://github.com/alexmerino13)
 - [Lance Giles] (https://github.com/lancemgiles)
 - [MahditS] (https://github.com/MahditS)
 - [u3b] (https://github.com/u3b)
