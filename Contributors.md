@@ -42,6 +42,7 @@ git add Contributors.md# Contributors
 - [MadawaSamarathunga](https://github.com/MadawaSamarathunga)
 - [Paul Adams]
 - [Holden Chen](https://github.com/holden-chen)
+- [Prashant Singh](https://github.com/prashantsingh181)
 - [Brennan Pate] (https://github.com/brennanpate)
 - [Rances Rodriguez] (https://github.com/caliza)
 - [Giorgos Papoutsakis](https://github.com/GiorgosPapoutsakis)
