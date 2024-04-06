@@ -54,6 +54,7 @@ Sam Barns
 - [Masaki Nishi] (https://github.com/MasakiNishi)
 - [Vedashree D] (https://github.com/VedashreeD)
 - [Alexander Maina](https://github.com/Alekiie)
+  [Ein Cagle] (https://github.com/eincagle)
 - [Aniket Kanere](https://github.com/anikxt)
 - [JubaDev](https://github.com/JubaDeveloper)
 - [Steven Curry](https://github.com/YrrucNevets)
