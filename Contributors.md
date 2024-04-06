@@ -15,6 +15,7 @@ git add Contributors.md# Contributors
 111111111111111111111111111111111
 - Kevin Liu
 - [Eric Wang](https://github.com/ewang7421)
+- [Alan Chan] (https://github.com/Chanalan1)
   [majMgCode](https://github.com/majMgCode)
 - [HINGA PETER](https://github.com/Hinga-inc)
 - [linahamila](https://github.com/linahamila)
