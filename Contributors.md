@@ -159,6 +159,7 @@ Kayla Barton
 - [Anand Philip](https://github.com/aflip)
 - [Nikhil Maurya](https://github.com/nikhilmaurya1)
 - [Horusateel](https://github.com/Horusateel)
+- [Denton Kunz](https://github.com/dkunz2024)
 - [Vedant Bhawnani](https://github.com/vedantbhawnani)
 - [Kashif Naqvi](https://github.com/Kashif1Naqvi)
 - [Joseph Wole-Abu](https://github.com/jwoleabu)
