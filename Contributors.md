@@ -1,5 +1,6 @@
 # Contributors
 - [Jordan K](https://marinersjk00)
+- [Chanin L](https://github.com/chaninlaw)
 - Jasman Deol
 - [Michael Chen](https://github.com/vayfarer/)
 - Ruben Gomez Bahamonde
