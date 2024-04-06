@@ -36,6 +36,7 @@ git add Contributors.md# Contributors
 - [Ella Daugherty](https://github.com/sleep-ee) 
 - [Tristan Long](https://github.com/longtr28)
 - [Dawson Bremner](https://github.com/FLYGUY4400)
+- [Shrijan](https://github.com/shrijxn)
 - Justin Hosfeld
 - Mi Nguyen
 - [Debbie Nguyen] (https://github.com/debbie-nguyen)
