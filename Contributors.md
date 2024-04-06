@@ -1,7 +1,9 @@
 # Contributors
-
 - [Luis Sosa](github.com/LuisJSosa)
+- [Abhinav](https://github.com/Abhinav1326)
 - [Jordan K](https://marinersjk00)
+- [Chanin L](https://github.com/chaninlaw)
+- Jasman Deol
 - [Michael Chen](https://github.com/vayfarer/)
 - Ruben Gomez Bahamonde
 - [Sorin](https://github.com/SeoBlack)
@@ -13,6 +15,7 @@
 - [Vamshi krishna Jillela](https://github.com/VamshiKrishna-jillela)
 - [Andrija Mandic](https://github.com/ziftpool)
 - [Manthan Vyas](https://github.com/xmanthanvyas)
+- [Edward Kabue] (https://github.com/EdwardKabue)
 - Kevin Liu
 - [Eric Wang](https://github.com/ewang7421)
 - [Alan Chan](https://github.com/Chanalan1)
@@ -21,7 +24,8 @@
 - [linahamila](https://github.com/linahamila)
 - [Kurtis](https://github.com/kurtisjw)
 - [Kevin](https://github.com/Walshkev)
--[Mariana Ramirez](https://github.com/MarianaRamirezCastro)
+- [Kabil Shrestha](https://github.com/Kabilshr)
+- [Mariana Ramirez](https://github.com/MarianaRamirezCastro)
 - [jesc52](https://github.com/jesc52)
 - [Blake Norman](https://github.com/BlakeNorman12)
 - [T Ave](https://github.com/Lord-Topa)
@@ -31,6 +35,7 @@
 - [Ella Daugherty](https://github.com/sleep-ee) 
 - [Tristan Long](https://github.com/longtr28)
 - [Dawson Bremner](https://github.com/FLYGUY4400)
+- [Shrijan](https://github.com/shrijxn)
 - Justin Hosfeld
 - Mi Nguyen
 - [Debbie Nguyen](https://github.com/debbie-nguyen)
@@ -41,6 +46,7 @@
 - [Holden Chen](https://github.com/holden-chen)
 - [Brennan Pate](https://github.com/brennanpate)
 - [Rances Rodriguez](https://github.com/caliza)
+- [Prashant Singh](https://github.com/prashantsingh181)
 - [Giorgos Papoutsakis](https://github.com/GiorgosPapoutsakis)
 - [Sean Brandon](https://github.com/Sean-PB)
   [Mengge Wu](https://github.com/mgparallel)
@@ -102,6 +108,7 @@ Lindsay A
 - [Vandesh Sawant](https://github.com/VandeshSawant)
 - [Sakshi Danej](https://github.com/DanejSakshi13)
 - [Sahil R](https://github.com/slraina)
+- <font color="#b2a2c7">Rasmus Ivarsson</font> [![LinkedIn](https://img.icons8.com/?size=25&id=xuvGCOXi8Wyg)](https://bit.ly/linkedin-rasmus)[![GitHub](https://img.icons8.com/?size=30&id=sbhfmWq4KRr1)](https://github.com/RasmusIv)
 - [Donald Bertucci](https://github.com/xnought)
 - [Abhishek Anand](https://github.com/av153k)
 - [Anusree S S]https://github.com/anusree-ss-110405
@@ -1717,6 +1724,7 @@ Dante Sanchez
 - [VikramK]
 [William D. Miller Jr.](https://github.com/bijiyiqi2017)
 - [maxitech](https://github.com/maxitech)
+- [Rituraj Hao](https://github.com/rituraj27)
 - [Sanay Doshi](https://github.com/sanayd)
 - [Naveen Kari](https://github.com/NaveenKari)
 - [Abisola Majeed](https://github.com/AbisolaMajeed)
@@ -3902,6 +3910,10 @@ guanj65
 - [Chanse Syres](https://github.com/Otnzfq-Fleqf)
 - [Elena Piaggio](https://github.com/elenapiaggio)
 - [Samuel White](https://github.com/SamWhite01)
+- [mareku2003](https://github.com/mareku2003)
 - [Joseph Moore](https://github.com/moorjose)
 - [Michelle Rollberg](https://github.com/michellenieto5)
 - [Eliza Flores](https://github.com/elizalflores)
+- [Mohanraj Arumugam](https://github.com/a-mohanraj)
+- [Derek Diao](https://github.com/puzzled-stone)
+- [Meowveloper](https://github.com/Meowveloper)
