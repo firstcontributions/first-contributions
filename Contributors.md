@@ -12,6 +12,7 @@
 -[Vamshi krishna Jillela] (https://github.com/VamshiKrishna-jillela/)
 - [Andrija Mandic](https://github.com/ziftpool)
 - [Manthan Vyas](https://github.com/xmanthanvyas)
+- [Edward Kabue] (https://github.com/EdwardKabue)
 git add Contributors.md# Contributors
 
 111111111111111111111111111111111
