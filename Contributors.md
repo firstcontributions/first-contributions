@@ -232,6 +232,7 @@ Pereira
 - [Akshar Kalathiya](https://github.com/Akshar062)
 - [Christian Reyes](https://github.com/PrintRat6962)
 - [Daniel Silva](https://github.com/danielsilva010)
+- [Seongki Lee](https://github.com/leese5)
 - [Ryan Huang](https://github.com/Ryan280703)
 - [Benjamin Maza](https://github.com/bmazaoreg)
 - [Roshan Kawale](https://github.com/roshan-Kawale)
