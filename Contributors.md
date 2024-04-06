@@ -35,6 +35,7 @@ git add Contributors.md# Contributors
 - [Justin Stoner](https://github.com/justinstoner2)
 - [MadawaSamarathunga](https://github.com/MadawaSamarathunga)
 - [Paul Adams]
+- [Holden Chen](https://github.com/holden-chen)
 - [Brennan Pate] (https://github.com/brennanpate)
 - [Rances Rodriguez] (https://github.com/caliza)
 - [Giorgos Papoutsakis](https://github.com/GiorgosPapoutsakis)
