@@ -3682,4 +3682,4 @@ guanj65
 - [lin-and](https://github.com/Lindyyy)
 - [taiyou1116](https://github.com/taiyou1116)
 - [macocci7](https://github.com/macocci7)
-- [Erick FanaPortes](https://github.com/greatbrain)
+- [Erick Fana Portes](https://github.com/greatbrain)
