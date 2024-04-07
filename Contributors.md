@@ -77,6 +77,7 @@ Sam Barns
 - [JubaDev](https://github.com/JubaDeveloper)
 - [Steven Curry](https://github.com/YrrucNevets)
 - [Conner Jordan](https://github.com/cjordan223)
+- [Lekhana Ganji](https://github.com/lekhana3003)
 - [Raphael Ndiritu](https://github.com/Raph-royalty)
 - [Alec Swift] (https://github.com/alecswift)
 - [Jun Iwamoto](https://github.com/junffy)
