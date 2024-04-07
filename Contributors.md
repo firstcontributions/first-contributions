@@ -140,6 +140,7 @@ Kayla Barton
 - [sohan guptha](https://github.com/sohan-gupthak)
 - [Alexander Rose](https://github.com/Alex-K-Rose)
 - [Lavnish Kumar](https://github.com/Lavnish0101)
+- [Michael Dillinger](https://github.com/mpdillingerOSU)
 - Daniel S.
 - [Alex M] (https://github.com/alexmerino13)
 - [Lance Giles] (https://github.com/lancemgiles)
