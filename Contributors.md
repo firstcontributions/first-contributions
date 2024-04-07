@@ -105,6 +105,7 @@ Sam Barns
 - [Abimael-Lib] (https://github.com/Abimael-Lib)
 - Shabazz
 - Dillon T
+-Prab-27
 - Kyle Free
 Lindsay A
 - Jesse Soliman [CS464]
@@ -113,7 +114,7 @@ Lindsay A
 - [Raneem] (https://github.com/ra2230)
 - Argoxonium
 - [Miguel Alvarez] (https://github.com/formalmiguel)
-- [Brett Dixon] (https://github.com/BDixon808)
+- [Brett Dixon] (https://github.com/BDixon)
 - [MaccSob] (https://github.com/MaccSob)
 - [Eric Risher] (https://github.com/ericrisher)
 - [Kalyan](https://github.com/Kalyan19111999)
