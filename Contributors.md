@@ -98,6 +98,7 @@ Sam Barns
 - [Abimael-Lib] (https://github.com/Abimael-Lib)
 - Shabazz
 - Dillon T
+- Kyle Free
 Lindsay A
 - Jesse Soliman [CS464]
 - MrF1ow
