@@ -31,6 +31,7 @@ git add Contributors.md# Contributors
 - [Kevin] (https://github.com/Walshkev)
 -[Mariana Ramirez](https://github.com/MarianaRamirezCastro)
 - [jesc52](https://github.com/jesc52)
+- [Ezra Natanael](https://github.com/ezrantn)
 - [Blake Norman](https://github.com/BlakeNorman12)
 - [T Ave](https://github.com/Lord-Topa)
 - [P.P.A.K](https://github.com/ArkarMinKo)
