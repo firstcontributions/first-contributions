@@ -6,7 +6,6 @@
 - [Michael Chen](https://github.com/vayfarer/)
 - Ruben Gomez Bahamonde
 - [Sorin](https://github.com/SeoBlack)
-wobuxinnihuiwuliaodeduwanwodemingzi
 - [Tomy Roy](https://github.com/tomyroydotcom/)
 - [Ahmed Salim ](https://github.com/amedsalim)
 - [Stuart Mills](https://github.com/bitsbard/)
@@ -17,9 +16,6 @@ wobuxinnihuiwuliaodeduwanwodemingzi
 - [Manthan Vyas](https://github.com/xmanthanvyas)
 - [Sabyatha Kumar](https://github.com/sathishs322)
 - [Edward Kabue] (https://github.com/EdwardKabue)
-git add Contributors.md# Contributors
-
-111111111111111111111111111111111
 - Kevin Liu
 - [Eric Wang](https://github.com/ewang7421)
 - [Alan Chan] (https://github.com/Chanalan1)
@@ -3927,3 +3923,4 @@ guanj65
 - [Mohanraj Arumugam](https://github.com/a-mohanraj)
 - [Derek Diao](https://github.com/puzzled-stone)
 - [Meowveloper](https://github.com/Meowveloper)
+- [Jupsimar](https://github.com/jupsimar)
