@@ -8,6 +8,7 @@
 - [Sorin](https://github.com/SeoBlack)
 wobuxinnihuiwuliaodeduwanwodemingzi
 - [Tomy Roy](https://github.com/tomyroydotcom/)
+- [Daniel S](https://github.com/MomentusCritisae)
 - [Ahmed Salim ](https://github.com/amedsalim)
 - [Stuart Mills](https://github.com/bitsbard/)
 - [Beita](https://github.com/liny18)
