@@ -220,6 +220,7 @@ Kayla Barton
 - [Kai Breese](https://github.com/ninjakaib)
 - Valery Legasov
 - Helen Keller
+- Borcia Stefan Iulian
 - [Job Wamoyi](https://github.com/wamoyi)
 - [Owais Khan](https://github.com/owais6153)
 - [Beloise Huffstutler](https://github.com/fullStackRacc)
