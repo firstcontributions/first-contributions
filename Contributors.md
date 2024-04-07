@@ -5,6 +5,7 @@
 - Jasman Deol
 - [Michael Chen](https://github.com/vayfarer/)
 - Ruben Gomez Bahamonde
+- Kristen McDonald
 - [Sorin](https://github.com/SeoBlack)
 wobuxinnihuiwuliaodeduwanwodemingzi
 - [Tomy Roy](https://github.com/tomyroydotcom/)
