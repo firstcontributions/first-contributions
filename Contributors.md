@@ -81,6 +81,7 @@ Sam Barns
 - [Jaiman Singh Guliani] (https://github.com/JaimanSingh)
 - [Jessica Ebanks] 
 - [Natasa Trisha](https://github.com/Trish1996-wq)
+- [Balaganesh](https://github.com/balaganesh102004)
 - [Maksym Vaskin] (https://github.com/maxxim333/
 - [Ethan Flow] (https://github.com/MrF1ow)
 - [JustImp] (https://github.com/StringJustImp)
