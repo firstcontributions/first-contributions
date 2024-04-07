@@ -42,6 +42,7 @@ git add Contributors.md# Contributors
 - [Shrijan](https://github.com/shrijxn)
 - Justin Hosfeld
 - Mi Nguyen
+- A. Mishra
 - [Debbie Nguyen] (https://github.com/debbie-nguyen)
 - [Kurtis Walton] (https://github.com/kurtisjw)
 - [Justin Stoner](https://github.com/justinstoner2)
