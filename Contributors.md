@@ -1,6 +1,7 @@
 # Contributors
 - [Jordan K](https://marinersjk00)
 - Ruben Gomez Bahamonde
+- Kristen McDonald
 - [Sorin](https://github.com/SeoBlack)
 - [Tomy Roy](https://github.com/tomyroydotcom/)
 - [Ahmed Salim ](https://github.com/amedsalim)
