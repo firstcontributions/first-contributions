@@ -70,6 +70,7 @@ git add Contributors.md# Contributors
 - [Prithvi Avireni](https://github.com/pavireni)
 - [Zeffanine Aimen](https://github.com/zeffanine-aimen)
 - [Swastik Banerjee](https://github.com/swastik-apk)
+- [Jose Aliaga](https://github.com/metalargento)
 - [Ratnesh Rastogi] (https://github.com/TheYorouzoya)
 - Jack Youssef
 - Brooke Smith
