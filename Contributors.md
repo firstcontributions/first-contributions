@@ -616,6 +616,7 @@ Kencham Vinay
 - [Mubarak Olanrewaju](https://github.com/Freedteck)
 - [Sridhar V](https://github.com/Sridhar9095)
 - [Ruchik Pravasi](https://github.com/rcipdev)
+- [Krzysztof Fijol] (https://github.com/FijolKrzysztof)
 - [Mike Cha](https://github.com/MckCha)
 - [Samuel Kaing](https://github.com/SamuelKaing)
 -[Aswin Jose](https://github.com/aswinjose89)
