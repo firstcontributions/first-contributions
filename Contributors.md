@@ -3934,6 +3934,7 @@ guanj65
 - [Mayank Sheladiya](https://github.com/Mayank5054)
 - [Utkarsh Tripathi](https://github.com/utkarshilh)
 - [Amyr](https://github.com/amyrd)
+- [Nkatha](https://github.com/Nkathaaa)
 - [kemelman](https://github.com/kemelman)
 - [Ethan Coco](https://github.com/cocoethan)
 - [whangho](https://github.com/whangho)
