@@ -66,6 +66,7 @@ git add Contributors.md# Contributors
 - [Sean Brandon](https://github.com/Sean-PB)
   [Mengge Wu](https://github.com/mgparallel)
   [viki](https://github.com/schikimikiviki)
+- [Liv Haze](https://github.com/kibibyt3)
 - [Priyanshu sherke](https://github.com/sherkepriyanshu)
 - [Guilherme Simoes](https://github.com/gdsimoes)
 - [Nicholas Morris] (https://github.com/Nicmorris1820)
