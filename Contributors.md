@@ -28,6 +28,7 @@ git add Contributors.md# Contributors
 - [Alan Chan] (https://github.com/Chanalan1)
   [majMgCode](https://github.com/majMgCode)
 - [HINGA PETER](https://github.com/Hinga-inc)
+- [deanisty](https://github.com/deanisty)
 - [linahamila](https://github.com/linahamila)
 - [Kabil Shrestha](https://github.com/Kabilshr)
 - [Kurtis] (https://github.com/kurtisjw)
