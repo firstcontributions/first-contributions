@@ -72,6 +72,7 @@ git add Contributors.md# Contributors
 - [Swastik Banerjee](https://github.com/swastik-apk)
 - [Jose Aliaga](https://github.com/metalargento)
 - [Ratnesh Rastogi] (https://github.com/TheYorouzoya)
+- [Pablo Andujar](https://github.com/pabloandujar-bahia)
 - Jack Youssef
 - Brooke Smith
 Sam Barns
