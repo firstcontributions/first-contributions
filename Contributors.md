@@ -1,4 +1,5 @@
 # Contributors
+- [Amit Naskar] (https://github.com/Amitn2003)
 - [Abhinav](https://github.com/Abhinav1326)
 - [Jordan K](https://marinersjk00)
 - [Chanin L](https://github.com/chaninlaw)
@@ -630,6 +631,7 @@ Kencham Vinay
 -[Shaurya Sambyal](https://github.com/ShauryaSambyal)
 -[Anirudh Patil] (https://github.com/Anirudh2112)
 -[Amir Abdullahi](https://github.com/amirabdullahi)
+- [Amit Naskar] (https://github.com/Amitn2003)
 -[Akilesh Jayakumar](https://github.com/akileshjayakumar) [LinkedIn](https://www.linkedin.com/in/akileshjayakumar/) 
 -[Comfort Prince](https://github.com/comfortprince)
 -[rukmaniVijay](https://github.com/rukmanivijay)
@@ -2033,6 +2035,7 @@ Dante Sanchez
 - [Taro Qureshi](https://github.com/taro-qureshi)
 - Jeromeeee
 - [OriThree]
+- [Amit Naskar] (https://github.com/Amitn2003)
 - [jay] (https://github.com/jayvjayv)
 - [Mustafa Afzal](https://github.com/mafzii)
 - [Dylan Collins](https://github.com/D05Col)
@@ -3964,3 +3967,6 @@ guanj65
 - [Julie] (https://github.com/RoboticsTeacher)
 = (Paul Brennan) (https://https://github.com/PaulEdwardBrennan)
 - [YuChen Den] (https://github.com/AbnerTeng)
+- [Amit Naskar] (https://github.com/Amitn2003)
+
+
