@@ -36,6 +36,7 @@ git add Contributors.md# Contributors
 - [Kabil Shrestha](https://github.com/Kabilshr)
 - [Kurtis] (https://github.com/kurtisjw)
 - [Kevin] (https://github.com/Walshkev)
+- [Agus] (https://github.com/agusaar)
 - [Dan Taylor](https://github.com/dantaylor28)
 -[Mariana Ramirez](https://github.com/MarianaRamirezCastro)
 - [jesc52](https://github.com/jesc52)
