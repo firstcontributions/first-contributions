@@ -2280,6 +2280,7 @@ Dante Sanchez
 - [DuckWithDrip] (https://github.com/DuckWithDrip)
 - [Ram Deepak] (https://github.com/Ram-Deepak)
 - [Juliet Ofoegbu](https://github.com/OmaJuliet)
+- [Swetha Madhanmohan](https://github/com/xswex09)
 - [J4ve] (https://github.com/J4ve)
 - [Christopher Chang] (https://github.com/cchrizzle)
 - [Luis Fernando Tenorio Mora](https://github.com/ltenoriom)
