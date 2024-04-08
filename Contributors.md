@@ -1872,6 +1872,7 @@ Dante Sanchez
 - [Nayan Choudhary](https://github.com/nayanchoudhary31)
 - [Katherine Tomkins](https://github.com/KatherineTomkins)
 - [Diego Lavezzari](https://github.com/diegolavezzari)
+- [Lavezzari]
 - [Johnathan]
 - [Vaishnavi]
 - [kamada-maki](https://github.com/kamada-maki)
