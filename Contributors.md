@@ -267,7 +267,6 @@ Pereira
 - [Ryan Huang](https://github.com/Ryan280703)
 - [Benjamin Maza](https://github.com/bmazaoreg)
 - [Roshan Kawale](https://github.com/roshan-Kawale)
-- [Kunal Jhatta](https://github.com/kunaljhatta)
 - [Mayur K M] (https://github.com/mVr89)
 - [TRM](https://github.com/thirimon4550)
 - Sree
@@ -378,6 +377,7 @@ Pereira
 -[Lance Preston](https://github.com/MrBubb1es)
 -[Ariyo](https://github.com/AriyosenaS)
 -[Sanka-YT](https://github.com/Sanka-YT)
+-[Kunal Jhatta](https://github.com/kunaljhatta)
 -[Basim Hilal V](https://github.com/basimhilalv)
 -[Major Yao ] (https://github.com/yoyov51234)
 -[Saskia George](https://github.com/SaskiaGeorge)
