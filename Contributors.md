@@ -152,6 +152,7 @@ Kayla Barton
 - Daniel S.
 - [Alex M] (https://github.com/alexmerino13)
 - [Lance Giles] (https://github.com/lancemgiles)
+- [Adilbh](https://github.com/Adil-bh)
 - [MahditS] (https://github.com/MahditS)
 - [u3b] (https://github.com/u3b)
 - [JerrySagwa] (https://github.com/JerrySagwa)
