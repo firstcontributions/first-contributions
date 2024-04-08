@@ -18,6 +18,7 @@ wobuxinnihuiwuliaodeduwanwodemingzi
 - [Andrija Mandic](https://github.com/ziftpool)
 - [Manthan Vyas](https://github.com/xmanthanvyas)
 - [Sabyatha Kumar](https://github.com/sathishs322)
+- [Rithvik](https://github.com/ChilivereRithvik)
 - [Edward Kabue] (https://github.com/EdwardKabue)
 - [MANAS JHA] (https://github.com/02Manas-jha)
 git add Contributors.md# Contributors
