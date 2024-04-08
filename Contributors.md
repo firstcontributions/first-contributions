@@ -31,6 +31,7 @@ git add Contributors.md# Contributors
 - [Nicholas Morris] (https://github.com/Nicmorris1820)
 - [Prithvi Avireni](https://github.com/pavireni)
 - [Swastik Banerjee](https://github.com/swastik-apk)
+- [Jose Aliaga](https://github.com/metalargento)
 - [Ratnesh Rastogi] (https://github.com/TheYorouzoya)
 - Jack Youssef
 - [Masaki Nishi] (https://github.com/MasakiNishi)
