@@ -115,6 +115,7 @@ Sam Barns
 - Kyle Free
 Lindsay A
 - Jesse Soliman [CS464]
+- Skylar Posler [CS464] (https://github.com/skylarposler)
 - MrF1ow
 - [Audrey] (https://github.com/aflanders7)
 - [Raneem] (https://github.com/ra2230)
