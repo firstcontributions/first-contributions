@@ -66,6 +66,7 @@ git add Contributors.md# Contributors
   [Mengge Wu](https://github.com/mgparallel)
   [viki](https://github.com/schikimikiviki)
 - [Priyanshu sherke](https://github.com/sherkepriyanshu)
+- [Guilherme Simoes](https://github.com/gdsimoes)
 - [Nicholas Morris] (https://github.com/Nicmorris1820)
 - [Prithvi Avireni](https://github.com/pavireni)
 - [Zeffanine Aimen](https://github.com/zeffanine-aimen)
