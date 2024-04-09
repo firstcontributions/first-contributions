@@ -9,6 +9,7 @@
 - Jasman Deol
 - [Michael Chen](https://github.com/vayfarer/)
 - Ruben Gomez Bahamonde
+- Elaine
 - ashtise
 - Kristen McDonald
 - [Sorin](https://github.com/SeoBlack)
