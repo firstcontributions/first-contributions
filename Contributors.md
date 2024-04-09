@@ -1,6 +1,7 @@
 # Contributors
 - [TKO(https://github.com/2-lazyyyy)
 - [Abhinav](https://github.com/Abhinav1326)
+- [tharseinoo](https://github.com/tharseinooMM)
 - [Jordan K](https://marinersjk00)
 - [Yoyo Wu] (https://github.com/KingJJ676)
 - [Chanin L](https://github.com/chaninlaw)
