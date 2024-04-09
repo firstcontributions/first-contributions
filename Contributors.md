@@ -3992,5 +3992,6 @@ guanj65
 - [Dimitrios Tikvinas] (YEAHHHHHHHHH BUDDYYYYYYYYYYYYY)
 - [Mihir Lad] (Maverick)
 - [__Chisato__](https://github.com/chisato2233)
+- [Erick Miranda Santos](https://github.com/Erick-ems)
 -_[Pedro Braga](https://github.com/Stain19)
 - [Vinicius Vieira](https://github.com/viniciusvieira00)
