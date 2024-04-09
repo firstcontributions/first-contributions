@@ -3490,6 +3490,7 @@ LadegbayeStella)
 - [Anesu]
 - [John]
 - [Daman] 
+- [Barbatos6669]
 - [nyakako](https://github.com/nyakako)
 - [Gbenny] (https://github.com/gbenny97)
 - [suzzshin](https://github.com/suzzshin)
