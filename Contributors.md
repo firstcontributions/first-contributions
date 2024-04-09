@@ -3990,3 +3990,4 @@ guanj65
 - [Dimitrios Tikvinas] (YEAHHHHHHHHH BUDDYYYYYYYYYYYYY)
 - [Mihir Lad] (Maverick)
 - [__Chisato__](https://github.com/chisato2233)
+- [Vinicius Vieira](https://github.com/viniciusvieira00)
