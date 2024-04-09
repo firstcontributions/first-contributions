@@ -3984,3 +3984,5 @@ guanj65
 - [Dimitrios Tikvinas] (YEAHHHHHHHHH BUDDYYYYYYYYYYYYY)
 - [Mihir Lad] (Maverick)
 - [__Chisato__](https://github.com/chisato2233)
+
+- [HQH](https://github.com/huangqianhong/first-contributions)
