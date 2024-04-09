@@ -28,6 +28,7 @@ git add Contributors.md# Contributors
 111111111111111111111111111111111
 - Kevin Liu
 - goodCircle
+swarshaa s started with open source contributions
 - [Eric Wang](https://github.com/ewang7421)
 - [Alan Chan] (https://github.com/Chanalan1)
   [majMgCode](https://github.com/majMgCode)
@@ -392,6 +393,7 @@ Pereira
 -[Brady Burns](https://github.com/burnsie000)
 -[Lance Preston](https://github.com/MrBubb1es)
 -[Ariyo](https://github.com/AriyosenaS)
+swarshaa s(https://github.com/swarshaa)
 -[Sanka-YT](https://github.com/Sanka-YT)
 -[Kunal Jhatta](https://github.com/kunaljhatta)
 -[Basim Hilal V](https://github.com/basimhilalv)
