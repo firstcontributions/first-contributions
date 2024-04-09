@@ -1525,6 +1525,7 @@ Gyanendra Thakur
 - [Mayank Pratap Singh](https://github.com/04-mayank)
 - [Tunde Suleiman] (https://github.com/tsuleiman03)
 - Temmy
+- [Evgeny Kozelskiy] (https://github.com/Der12kl)
 - [Benjamin Tsoumagas](https://github.com/tsoumagas-benjamin)
 - [Bryson Morton] (https://github.com/bryson-morton)
 - Bhavya Singla
