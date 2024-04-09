@@ -1128,6 +1128,7 @@ Jasmine
   [Andrea] (https://github.com/twistedboxes)
   [LauraC] (https://github.com/lchutny)
 - [Zume-z](https://github.com/Zume-z)
+- [Emilio Moya] (https://github.com/emoya620)
 - [Mehedi Hasan Janny](https://github.com/MHJanny)
 - [Richard Hannagan](https://github.com/richardhannagan)
 - [Lukeoson](https://github.com/lukeoson)
