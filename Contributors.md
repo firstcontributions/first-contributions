@@ -5,6 +5,7 @@
 - [Yoyo Wu] (https://github.com/KingJJ676)
 - [Kashvi Jain](https://github.com/kashvi0/)
 - [Chanin L](https://github.com/chaninlaw)
+- [Thar Sein Oo](https://github.com/tharseinooMM)
 - Jasman Deol
 - [Michael Chen](https://github.com/vayfarer/)
 - Ruben Gomez Bahamonde
