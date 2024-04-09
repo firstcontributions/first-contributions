@@ -3988,6 +3988,7 @@ guanj65
 - [Julie] (https://github.com/RoboticsTeacher)
 = (Paul Brennan) (https://https://github.com/PaulEdwardBrennan)
 - [YuChen Den] (https://github.com/AbnerTeng)
+- [Rodrigo Mattos] (https://github.com/Rodrigomfab88)
 - [Dimitrios Tikvinas] (YEAHHHHHHHHH BUDDYYYYYYYYYYYYY)
 - [Mihir Lad] (Maverick)
 - [__Chisato__](https://github.com/chisato2233)
