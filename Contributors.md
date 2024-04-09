@@ -4,6 +4,7 @@
 - [Jordan K](https://marinersjk00)
 - [Yoyo Wu] (https://github.com/KingJJ676)
 - [Kashvi Jain](https://github.com/kashvi0/)
+- [Kushagra Jain](https://github.com/kushagrajain7)
 - [Chanin L](https://github.com/chaninlaw)
 - [Thar Sein Oo](https://github.com/tharseinooMM)
 - Jasman Deol
