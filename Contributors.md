@@ -2,7 +2,6 @@
 - [TKO(https://github.com/2-lazyyyy)
 - [Abhinav](https://github.com/Abhinav1326)
 - [Jordan K](https://marinersjk00)
-- [Yoyo Wu] (https://github.com/KingJJ676)
 - [Chanin L](https://github.com/chaninlaw)
 - Jasman Deol
 - [Michael Chen](https://github.com/vayfarer/)
