@@ -28,6 +28,7 @@ wobuxinnihuiwuliaodeduwanwodemingzi
 - [Sabyatha Kumar](https://github.com/sathishs322)
 - [Rithvik](https://github.com/ChilivereRithvik)
 - [Edward Kabue] (https://github.com/EdwardKabue)
+- [Daniel dos Santos] (https://github.com/daniel-de-sousa)
 - [MANAS JHA] (https://github.com/02Manas-jha)
 git add Contributors.md# Contributors
 
