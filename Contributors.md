@@ -62,6 +62,7 @@ git add Contributors.md# Contributors
 - Justin Hosfeld
 - Mi Nguyen
 - A. Mishra
+- Ana Clara Borges
 - [Debbie Nguyen] (https://github.com/debbie-nguyen)
 - [Kurtis Walton] (https://github.com/kurtisjw)
 - [Justin Stoner](https://github.com/justinstoner2)
