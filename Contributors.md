@@ -254,6 +254,7 @@ Kayla Barton
 - Valery Legasov
 - Helen Keller
 - Borcia Stefan Iulian
+- [Diego Carlito](https://github.com/DiegoCarlito)
 - [Job Wamoyi](https://github.com/wamoyi)
 - [Owais Khan](https://github.com/owais6153)
 - [Beloise Huffstutler](https://github.com/fullStackRacc)
