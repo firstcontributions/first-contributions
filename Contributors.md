@@ -856,6 +856,7 @@ guanj65
 - [phee]
 - SHUBHAM SINGH
 - Andrew Serrano
+- [Danizelle](https://github.com/Danizelle)
 - [olivia] (https://github.com/mccoli)
 - [gitFerdo](https://github.com/gitFerdo)
 - [Hisham Raihan](https://github.com/Bluehorizon65)
