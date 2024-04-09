@@ -13,6 +13,7 @@
 - Elaine
 - ashtise
 - Kristen McDonald
+- [Jordan Brown](https://github.com/jbrown307)
 - [Sorin](https://github.com/SeoBlack)
 wobuxinnihuiwuliaodeduwanwodemingzi
 - [Madhushree](https://github.com/madbag)
