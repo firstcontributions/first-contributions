@@ -14,6 +14,7 @@
 - Kristen McDonald
 - [Sorin](https://github.com/SeoBlack)
 wobuxinnihuiwuliaodeduwanwodemingzi
+- [Madhushree](https://github.com/madbag)
 - [Tomy Roy](https://github.com/tomyroydotcom/)
 - [Daniel S](https://github.com/MomentusCritisae)
 - [Ahmed Salim ](https://github.com/amedsalim)
