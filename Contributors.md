@@ -8,6 +8,7 @@
 - [Thar Sein Oo](https://github.com/tharseinooMM)
 - Jasman Deol
 - [Michael Chen](https://github.com/vayfarer/)
+- [Joao Schmitz](https://github.com/JoaoSchmitz)
 - Ruben Gomez Bahamonde
 - Elaine
 - ashtise
