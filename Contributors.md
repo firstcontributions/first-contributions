@@ -28,6 +28,7 @@ wobuxinnihuiwuliaodeduwanwodemingzi
 - [Sabyatha Kumar](https://github.com/sathishs322)
 - [Rithvik](https://github.com/ChilivereRithvik)
 - [Edward Kabue] (https://github.com/EdwardKabue)
+- [Daniel dos Santos] (https://github.com/daniel-de-sousa)
 - [MANAS JHA] (https://github.com/02Manas-jha)
 git add Contributors.md# Contributors
 
@@ -62,6 +63,7 @@ git add Contributors.md# Contributors
 - Justin Hosfeld
 - Mi Nguyen
 - A. Mishra
+- Ana Clara Borges
 - [Debbie Nguyen] (https://github.com/debbie-nguyen)
 - [Kurtis Walton] (https://github.com/kurtisjw)
 - [Justin Stoner](https://github.com/justinstoner2)
@@ -3991,3 +3993,5 @@ guanj65
 - [Mihir Lad] (Maverick)
 - [__Chisato__](https://github.com/chisato2233)
 - [Erick Miranda Santos](https://github.com/Erick-ems)
+-_[Pedro Braga](https://github.com/Stain19)
+- [Vinicius Vieira](https://github.com/viniciusvieira00)
