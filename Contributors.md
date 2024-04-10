@@ -1,4 +1,5 @@
 # Contributors
+- [Bishal Khadka](https://github.com/bkhadka2)
 - [TKO(https://github.com/2-lazyyyy)
 - [Abhinav](https://github.com/Abhinav1326)
 - [Jordan K](https://marinersjk00)
