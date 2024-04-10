@@ -24,7 +24,7 @@ wobuxinnihuiwuliaodeduwanwodemingzi
 - [Stuart Mills](https://github.com/bitsbard/)
 - [Beita](https://github.com/liny18)
 - [Yoummu](https://github.com/Yoummu)
-- [TREVOR ARNOLDS](https://github.com/TREVORNDONJI)
+- [Ehikioya Esene](https://github.com/Ehikioya911)
 -[Vamshi krishna Jillela] (https://github.com/VamshiKrishna-jillela/)
 - [Andrija Mandic](https://github.com/ziftpool)
 - [Manthan Vyas](https://github.com/xmanthanvyas)
