@@ -3998,6 +3998,7 @@ guanj65
 - [Rodrigo Mattos] (https://github.com/Rodrigomfab88)
 - [Dimitrios Tikvinas] (YEAHHHHHHHHH BUDDYYYYYYYYYYYYY)
 - [Mihir Lad] (Maverick)
+- [tutula](smooth operator)
 - [__Chisato__](https://github.com/chisato2233)
 - [harleny angellica](https://github.com/Angelicahaas)
 - [Erick Miranda Santos](https://github.com/Erick-ems)
