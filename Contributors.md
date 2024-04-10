@@ -284,6 +284,7 @@ Pereira
 - B1ade-Z
 - [Ayodeji Adesegun](https://github.com/ayodejiades)
 - [Neelanjan Kayal] (https://github.com/nkayal)
+- [Marin Kariuki] (https://github.com/toma5580)
 - [Jasper Zhuang](https://github.com/Jun-wei136/)
 - [Aidan Stoner](https://github.com/AidanS39)
 - [faiza liyaqat](https://github.com/faizaliyaqat)
