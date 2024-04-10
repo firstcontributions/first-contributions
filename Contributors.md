@@ -107,6 +107,7 @@ Sam Barns
 - [Steven Curry](https://github.com/YrrucNevets)
 - [Conner Jordan](https://github.com/cjordan223)
 - [Lekhana Ganji](https://github.com/lekhana3003)
+- [Luca Castelli](https://github.com/Luca-Castelli)
 - [Raphael Ndiritu](https://github.com/Raph-royalty)
 - [Alec Swift] (https://github.com/alecswift)
 - [Jun Iwamoto](https://github.com/junffy)
