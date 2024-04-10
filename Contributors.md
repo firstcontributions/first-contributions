@@ -15,6 +15,7 @@
 - ashtise
 - Kristen McDonald
 - [Jordan Brown](https://github.com/jbrown307)
+- [Laura Barauna](https://github.com/LauraBarauna)
 - [Sorin](https://github.com/SeoBlack)
 wobuxinnihuiwuliaodeduwanwodemingzi
 - [Madhushree](https://github.com/madbag)
