@@ -346,6 +346,7 @@ Pereira
 -[Anvaya Solanki](https://github.com/anvaya-solanki)
 - [Dev Garg](https://github.com/Dev771)
 - [hyunwoo](https://github.com/Na-hyunwoo)
+- [Ryan Guo] (https://github.com/ryanguomd)
 - [Ahmed El Otmani](https://github.com/OtmaniCodes)
 - [Sethika Manumitha](https://github.com/SethikaManumitha/)
 -[Soyoon Moon](https://github.com/soyoonmoon)
@@ -3320,7 +3321,7 @@ LadegbayeStella)
 - [vinceflores](https://github.com/vinceflores?tab=projects)
 - new user - andrew here! :D 
 -[lateBloomer](https://github.com/Winhub99)
-- [Juan Tate](https://github.com/tatejuan12)
+- [Juan Tate](https://github.com/tatejuan12): Indicates the end of the lines that had a merge conflict.
 - [Jackson K Jones](https://github.com/jacksonkjones)
 - [Sreeram Ayala](https://github.com/sreeramsoma)
 - [glidertech](https://github.com/michaelglider)
@@ -3867,7 +3868,7 @@ murari2401
 guanj65
 - [BestoFrendo](https://github.com/jutaga)
 - [KikoSomotri](https://github.com/fsomoza)
-- [He Wentao](https://github.com/goodmorning_hwt)
+- [He Wentao](https://github.com/goodmorning_hwt): Indicates the end of the lines that had a merge conflict.
 - [Trung Truong](https://github.com/trungtruong1)
 - [Suchith Sameeri Balne](https://github.com/suchithbalne)
 - [Niyigena Fiston Alvin](https://github.com/ALVINdimpos)
@@ -4018,3 +4019,4 @@ guanj65
 - [Alannah Cowley] (https://github.com/Cowley-Codes)
 - [Andrei George Mira] (https://github.com/RumanoLoco)
 - [Steven Winston Bullen] (https://github.com/0x11110)
+- [Omkar Jawaji] (https://github.com/omkarjawaji)
