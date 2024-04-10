@@ -170,6 +170,7 @@ Kayla Barton
 - [KillAllChickens](https://github.com/KACofficial)
 - [Daniel Ogunlolu](https://github.com/Amazingct)
 - [Harshit Singh](https://github.com/Harshit-BCS)
+- [Pavlo Dediu](https://github.com/w4kened)
 - [sohan guptha](https://github.com/sohan-gupthak)
 - [Alexander Rose](https://github.com/Alex-K-Rose)
 - [Lavnish Kumar](https://github.com/Lavnish0101)
