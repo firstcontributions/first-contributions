@@ -1,7 +1,6 @@
 x# Contributors
 !-- prettier-ignore-start -->
 
-
 - [Antyss77](https://github.com/Antyss77)
 - [Alvin Escobar](https://github.com/GitAlvinLine)
 - [Pavlos Orfanidis](https://github.com/porfanid)
@@ -21,8 +20,8 @@ x# Contributors
 - [Thalachanar] (https://github.com/Thalachanar)
 - [gmartineza](https://github.com/gmartineza)
 - [Shivadharshan Lingeswaran] (https://github.com/XoxRumbleLorexoX)
-- [K B]
 - [Aleyda Pacheco](https://github.com/aleydapacheco)
+- [K B]
 - [Abel Tesfa] (https://github.com/abeltesfa)
 - [Jake Campbell] (https://github.com/margielajake)
 - [Daniel Rashi](https://github.com/dani-ras)
