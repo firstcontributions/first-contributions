@@ -142,6 +142,7 @@ Sam Barns
 - [Emmanuel Nwafor(Emmo00)](https://github.com/emmo00)
 - [Ajay Nischal](https://github.com/ajaynischal/)
 - [Caden Maxwell] (https://github.com/CadenMax)
+- [Chetan] (https://github.com/falcon-96)
 - [Akintunde Olayinka] (https://github.com/oakintunde)
 - Andrew Craeton
 - [JRW] (https://github.com/ShuaRead)
