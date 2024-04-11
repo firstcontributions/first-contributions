@@ -23,9 +23,9 @@ Cela va créer une copie du répertoire sur votre compte.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clonez ce répertoire" />
 
-Maintenant, clonez ce répertoire sur votre ordinateur. Cliquez sur le bouton clone puis cliquez sur l'icone *copier dans le presse-papier*.
+Maintenant, clonez ce répertoire sur votre ordinateur. Cliquez sur le bouton clone puis cliquez sur l'icône *copier dans le presse-papier*.
 
-Ouvrez un invite de commande et exécutez les commandes git suivantes :
+Ouvrez une invite de commande (si vous êtes sous Windows) ou un terminal (si vous êtes sous MacOS ou Linux) et exécutez les commandes git suivantes :
 
 ```
 git clone "l'url que vous venez de copier"
@@ -109,7 +109,7 @@ Ceci est une manière de dire à git qu'une autre version de ce répertoire exis
 git fetch upstream
 ```
 
-Ici nous cherchons toutes les modification dans mon embranchement (upstream remote). Maintenant, vous devez fusionner la nouvelle révision de mon répertoire avec votre branche main :
+Ici nous cherchons toutes les modifications dans mon embranchement (upstream remote). Maintenant, vous devez fusionner la nouvelle révision de mon répertoire avec votre branche main :
 ```
 git rebase upstream/main
 ```

@@ -3,7 +3,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-
 # <div dir="rtl">مساهمتك الأولى</div>
 
 <div dir="rtl">
@@ -14,18 +13,19 @@
 في هذا المشروع هدفنا هو تسهيل الطريق لمساهمتك الأولى.
 </div>
 
-
 <div dir="rtl">
-قراءة ومشاهدة التعليمات المتوفرة على الإنترنت ستساعدك حتماً، لكنك ستستفيد أكثر إذا استطعت المساهمة في مشروع دون الخوف من الوقوع في الخطأ. هذا المشروع يركز على توفير التوجيهات والتعليمات البدائية لإتمام أول مساهمة لك.
-تذكر أن الخطأ متوقع والهدف أن تتجاوز الخطأ في هذه البيئة، نريد منك أن تكون مسترخيا ومتابعا الخطوات المتوفرة لإتمام مشاركتك الأولى. نعدك ستستمع بذلك.
-</div>
+قراءة ومتابعة التعليمات المتاحة على الإنترنت ستساعدك بالتأكيد. ومع ذلك، ستستفيد بشكل أكبر إذا استطعت المشاركة في مشروع معين دون الخوف من الوقوع في الأخطاء. يهدف هذا المشروع إلى تقديم توجيهات وإرشادات أولية لمساعدتك في البدء بأول مساهمة لك.
 
+تذكر أن الخطأ أمر متوقع، والهدف الأسمى هو التعلم من هذه البيئة. نشجعك على أن تركز أثناء متابعة الخطوات التالية لإكمال مساهمتك الأولى. نعدك بأنك ستستمتع بالتجربة وسوف تستفيد منها
+
+</div>
 
 <div dir="rtl">
 إذا لم يكن لديك git على الجهاز الخاص بك،<a href="https://help.github.com/articles/set-up-git/">قم بتثبيته من هنا</a>
 </div>
 
 ## <div dir="rtl"> افرق هذا المشروع - Fork this Repository </div>
+
 <img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 <div dir="rtl">
 افرق هذا المشروع بالضغط على زر Fork في أعلى هذه الصفحة.
@@ -42,7 +42,7 @@
 </div>
 <img style="float: left;" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 <div dir="rtl">
-افتح الطرفية وأُكتب الأمر التالي:
+افتح terminal وأُكتب الأمر التالي:
 </div>
 
 ```
@@ -62,8 +62,7 @@ git clone https://github.com/this-is-you/first-contributions.git
 </div>
 <br>
 
-## <div dir="rtl">  إنشاء فرع - Create a branch </div>
-
+## <div dir="rtl"> إنشاء فرع - Create a branch </div>
 
 <div dir="rtl"> انتقل إلى المجلد الذي يحتوي على المشروع عن طريق الأمر التالي: </div>
 
@@ -91,7 +90,7 @@ git checkout -b "add-alonzo-church"
 
 <div dir="rtl">
 الآن قم بفتح الملف "Contributors.md" في محرر النصوص المفضل لديك وأضف اسمك ثم احفظ الملف.
-بعد ذلك اذهب إلى الطرفية واكتب الأمر هذا<code>git status</code> هذا الأمر سيظهر لك التغيرات التي حدثت في المشروع.
+بعد ذلك اذهب إلى terminal واكتب الأمر هذا<code>git status</code> هذا الأمر سيظهر لك التغيرات التي حدثت في المشروع.
 لإضافة هذه التغييرات قم بإضافتها عن طريق هذا الأمر <code>git add</code>.
 </div>
 
@@ -118,10 +117,8 @@ git push origin "add-your-name"
 
 <div dir="rtl">استبدل <code>&#60;add-your-name&#62;</code> باسم الفرع الذي أنشأته من قبل.</div>
 
-
 <br>
 <h2 id="سلم-تغيراتك-للمراجعة"><a name="سلم-تغيراتك-للمراجعة" href="#سلم-تغيراتك-للمراجعة"></a><div dir="rtl">سلم تغيراتك للمراجعة</div></h2>
-
 
 <div dir="rtl">في صفحة المشروع الخاصة بك يوجد زر <code>Compare &amp; pull request</code>. اضغط على هذا الزر.</div>
 
@@ -131,9 +128,9 @@ git push origin "add-your-name"
 
 <img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-<div dir="rtl">بعد المراجعة سوف أقوم بدمج تغيرراتك إلى الفرع الرئيس في المشروع. سيتم تنبيهك عن طريق البريد الإلكتروني بذلك.</div>
+<div dir="rtl">بعد المراجعة سوف أقوم بدمج تغيرراتك إلى الفرع الرئيسي في المشروع. سيتم تنبيهك عن طريق البريد الإلكتروني بذلك.</div>
 
-<div dir="rtl">الفرع الرئيس الخاص بك لن يحتوي على هذه التغيررات. عليك مزامنته مع الفرع الرئيس عن طريق الخطوات التالية.</div>
+<div dir="rtl">الفرع الرئيسي الخاص بك لن يحتوي على هذه التغيررات. عليك مزامنته مع الفرع الرئيس عن طريق الخطوات التالية.</div>
 
 ## <div dir="rtl">مزامنة نسختك مع المشروع الرئيسي</div>
 
@@ -163,7 +160,7 @@ git fetch upstream
 git rebase upstream/master
 ```
 
-<div dir="rtl">وهنا تطبق التغييرات إلى الفرع الرئيس. إذا رفعت التغييرات لفرعك الرئيس سيتم تحديث مشروعك</div>
+<div dir="rtl">وهنا تطبق التغييرات إلى الفرع الرئيسي. إذا رفعت التغييرات لفرعك الرئيسي سيتم تحديث مشروعك</div>
 
 ```
 git push origin master
@@ -175,5 +172,5 @@ git push origin master
 ## <div dir="rtl">توجيهات بإستخدام أدوات أخرى</div>
 
 | <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
-| --- | --- | --- | --- | --- | --- |
-| [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |

@@ -6,7 +6,7 @@
 
 # Primeres Contribucions
 
-És difícil. Sempre ho és, quan es fa quelcom per primera vegada. Sobretot quan es col·labora amb altres, ja que equivocar-se no és gens agradable. Volem simplificar la manera d'aprendre a contribuir i col·laborar en projectes de codi obert per primera vegada.
+És difícil. Sempre es difícil fer una cosa per primera vegada. Sobretot quan es col·labora amb altres, ja que equivocar-se no és gens agradable. Volem simplificar la manera d'aprendre a contribuir i col·laborar en projectes de codi obert per primera vegada.
 
 Llegir articles i mirar tutorials pot ser útil, però què millor que fer les coses en un entorn pràctic real? Aquest projecte és una guia per a principiants que vol simplificar la primera contribució a projectes de codi oberts. Si vols fer la teva primera contribució, segueix les instruccions que es mostren a continuació: 
 
