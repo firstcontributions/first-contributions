@@ -14,6 +14,7 @@
 - [Michael Chen](https://github.com/vayfarer/)
 - Ruben Gomez Bahamonde
 - Elaine
+- [Simrana Farrukh] (https://github.com/simranfarrukh)
 - ashtise
 - Kristen McDonald
 - [Bogdan Nuzhnyy] (https://github.com/bognuz)
