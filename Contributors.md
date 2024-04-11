@@ -4031,3 +4031,4 @@ guanj65
 - [Omkar Jawaji] (https://github.com/omkarjawaji)
 - [kamrider] (https://github.com/kamrider)
 - [Matt] (https://github.com/matt89757)
+- [Fabrício Queiroz](https://github.com/FabricioDeQueiroz)
