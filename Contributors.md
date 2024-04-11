@@ -1,6 +1,7 @@
 x# Contributors
 !-- prettier-ignore-start -->
 
+- [Aleyda Pacheco](https://github.com/aleydapacheco)
 - [Antyss77](https://github.com/Antyss77)
 - [Alvin Escobar](https://github.com/GitAlvinLine)
 - [Pavlos Orfanidis](https://github.com/porfanid)
