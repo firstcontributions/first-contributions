@@ -9,9 +9,9 @@
 
 Aller Anfang ist schwer. Gerade dann, wenn wir gemeinsam an etwas arbeiten, will niemand etwas Falsches tun. Aber Open Source dreht sich um Kooperation und lebt von den Beiträgen vieler Freiwilliger. Deshalb haben wir es uns zur Aufgabe gemacht, neuen Mitgliedern in der Open-Source-Gemeinde ihre ersten Schritte so einfach wie möglich zu machen.
 
-Natürlich helfen die vorhandenen Artikel und Videoanleitungen. Aber was kann besser sein, als es einfach einmal auszuprobieren mit dem Wissen, dass man nichts kaputt machen kann? Dieses Projekt will Anfängern zeigen, wie sie möglichst einfach ihren ersten Beitrag leisten. Bedenke: Je entspannter du bist, desto besser lernst du. Wenn du deinen ersten Beitrag leisten möchtest, folge diesen einfachen Schritten. Wir versprechen dir, es wird Spaß machen.
+Natürlich helfen die vorhandenen Artikel und Videoanleitungen. Aber was kann besser sein, als es einfach einmal auszuprobieren mit dem Wissen, dass man nichts kaputt machen kann? Dieses Projekt zeigt Anfängern, wie sie möglichst einfach ihren ersten Beitrag leisten. Bedenke dabei: Je entspannter du bist, desto besser lernst du. Wenn du deinen ersten Beitrag leisten möchtest, folge diesen einfachen Schritten. Wir versprechen dir, es wird Spaß machen.
 
-Wenn du Git noch nicht installiert hast, [installiere es](https://help.github.com/articles/set-up-git/)
+Wenn du Git noch nicht installiert hast, [installiere es](https://help.github.com/articles/set-up-git/).
 
 ## Repository forken
 
@@ -43,7 +43,7 @@ An der Stelle 'dein-Name' muss dein GitHub-Nutzername stehen. Mit diesem Befehl 
 
 ## Erstelle einen Branch
 
-Wechsle zum Repository-Verzeichnis auf deinem Computer (falls du es nicht schon getan hast).
+Wechsle (mit dem Terminal) zum Repository-Verzeichnis auf deinem Computer (falls du es nicht schon getan hast).
 
 ```
 cd first-contributions
@@ -61,11 +61,11 @@ Beispiel:
 git checkout -b add-max-mustermann
 ```
 
-(Der Name des Branches muss nicht unbedingt das Wort _add_ beinhalten aber hier ist es sinnvoll, denn der Zweck deines Branches ist es ja, deinen Namen zur Liste hinzuzufügen.)
+(Der Name des Branches muss nicht unbedingt das Wort _add_ beinhalten aber hier ist es sinnvoll, denn der Zweck deines Branches ist es schließlich, deinen Namen zur Liste hinzuzufügen.)
 
 ## Mache die nötigen Änderungen und committe sie
 
-Öffne `Contributors.md` in einem Text-Editor und füge deine Namen hinzu. Beachte, dass du den Namen nicht am Anfang oder am Ende der Datei hinzufügst. Speichere die Datei anschließend.
+Öffne `Contributors.md` in einem Text-Editor und füge deinen Namen hinzu. Beachte, dass du den Namen nicht am Anfang oder am Ende der Datei hinzufügst. Speichere die Datei anschließend.
 
 Gibst du in der Kommandozeile nun `git status` ein, siehst du die Änderungen.
 
@@ -99,7 +99,7 @@ Wenn du jetzt zu deinem Repository auf GitHub gehst, siehst du einen Knopf `Comp
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Erstelle einen pull request" />
 
-Erstelle einen Pull Request indem du auf die Schaltfläche `Create pull request` klickst.
+Erstelle einen Pull Request, indem du auf die Schaltfläche `Create pull request` klickst.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Pull Request senden" />
 
@@ -107,13 +107,13 @@ Roshan Jossey wird nun deine Änderungen in den Master Branch dieses Projekts me
 
 ## Wie geht es weiter?
 
-Glückwunsch! Du hast so eben den Standard-Workflow _Fork -> Clone -> Edit -> Pull Request_ beendet, der dir als Mitwirkender häufig begegnen wird.
+Glückwunsch! Du hast soeben den Standard-Workflow _Fork -> Clone -> Edit -> Pull Request_ beendet, der dir als Mitwirkender häufig begegnen wird.
 
 Feiere deinen Beitrag zum Projekt und teile ihn mit deinen Freunden und Followern über unsere [Web-App](https://firstcontributions.github.io/#social-share).
 
 Wenn du weitere Fragen hast, kannst du Mitglied in unserem Slack-Team werden. [Werde Teil des Teams auf Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-Falls du jetzt zu anderen Projekten beitragen möchtest, dann haben wir für dich eine Liste von einfachen, ersten Issues zusammengestellt, an denen du arbeiten kannst. Diese Projekt-Liste findest du [in unserer Web-App](https://firstcontributions.github.io/#project-list).
+Falls du jetzt zu anderen Projekten beitragen möchtest, haben wir für dich eine Liste von einfachen, ersten Issues zusammengestellt, an denen du arbeiten kannst. Diese Projekt-Liste findest du [in unserer Web-App](https://firstcontributions.github.io/#project-list).
 
 ## Tutorials mit anderen Tools
 
