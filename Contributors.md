@@ -140,6 +140,7 @@ Sam Barns
 - [Caden Maxwell] (https://github.com/CadenMax)
 - [Akintunde Olayinka] (https://github.com/oakintunde)
 - Andrew Craeton
+- [JRW] (https://github.com/ShuaRead)
 - [Cheat] (https://github.com/TheCheatCode)
 - melih-canbolat
 - [hello world]()
