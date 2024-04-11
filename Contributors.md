@@ -15,6 +15,7 @@
 - Elaine
 - ashtise
 - Kristen McDonald
+- [Bogdan Nuzhnyy] (https://github.com/bognuz)
 -ESWAR KALWA
 - [Jordan Brown](https://github.com/jbrown307)
 - [Laura Barauna](https://github.com/LauraBarauna)
