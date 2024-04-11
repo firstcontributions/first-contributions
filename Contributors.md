@@ -3833,6 +3833,7 @@ murari2401
 - [Narek Babayan](https://github.com/Narek97)
 - [Yang Jinwook](https://github.com/overseeas)
 - [nexbelgium](https://github.com/nexbelgium)
+- [Jose Ald] (https://github.com/JoseAld)
 - [Shantanu Dutta](https://github.com/nlern)
 - [Muhammad Owais Khan](https://github.com/owaiskhan820)
 - [Vinay Khanagavi][ https://github.com/Vinu-sk ] 
