@@ -1,5 +1,6 @@
 # Contributors
 - [Bishal Khadka](https://github.com/bkhadka2)
+- [Matt Palmer](https://github.com/this-is-matt)
 - [TKO(https://github.com/2-lazyyyy)
 - [Abhinav](https://github.com/Abhinav1326)
 - [Jordan K](https://marinersjk00)
