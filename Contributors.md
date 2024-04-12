@@ -78,6 +78,7 @@ git add Contributors.md# Contributors
 - [Shrijan](https://github.com/shrijxn)
 - jsuto
 - Justin Hosfeld
+- VakoB
 - Mi Nguyen
 - A. Mishra
 - [Faysal Hasan](https://github.com/mollik001)
