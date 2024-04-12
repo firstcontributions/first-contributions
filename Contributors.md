@@ -403,6 +403,7 @@ Pereira
 - [Seb Gillman](https://github.com/SebGillman)
 - Jayanth K
 - ericbox
+- [Amersbahi](https://github.com/amersbahi)
 - Jody Hunter
 - Pete Zeroyxz
 - Udana95
