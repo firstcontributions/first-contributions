@@ -1,5 +1,7 @@
 # Contributors
+- [wpa](https://github.com/waiphyo111000)
 - [Bishal Khadka](https://github.com/bkhadka2)
+- [Cannon Hutcheson]
 - [Matt Palmer](https://github.com/this-is-matt)
 - [TKO(https://github.com/2-lazyyyy)
 - [Abhinav](https://github.com/Abhinav1326)
@@ -9,19 +11,24 @@
 - [Kushagra Jain](https://github.com/kushagrajain7)
 - [Chanin L](https://github.com/chaninlaw)
 - [Thar Sein Oo](https://github.com/tharseinooMM)
+- [Ryan Frederich](http://github.com/ryansurf)
 - Jasman Deol
 - [Michael Chen](https://github.com/vayfarer/)
 - Ruben Gomez Bahamonde
 - Elaine
+- [Simrana Farrukh] (https://github.com/simranfarrukh)
 - ashtise
 - Kristen McDonald
+- [Bogdan Nuzhnyy] (https://github.com/bognuz)
 -ESWAR KALWA
 - [Jordan Brown](https://github.com/jbrown307)
 - [Laura Barauna](https://github.com/LauraBarauna)
+- [Mario Lisbona](https://github.com/MarioLisbona/)
 - [Sorin](https://github.com/SeoBlack)
 wobuxinnihuiwuliaodeduwanwodemingzi
 - [Madhushree](https://github.com/madbag)
 - [Tomy Roy](https://github.com/tomyroydotcom/)
+- [ODragonborn](https://github.com/JoaoODragonborn)
 - [Daniel S](https://github.com/MomentusCritisae)
 - [Ahmed Salim ](https://github.com/amedsalim)
 - [Stuart Mills](https://github.com/bitsbard/)
@@ -41,6 +48,7 @@ git add Contributors.md# Contributors
 111111111111111111111111111111111
 - Kevin Liu
 - goodCircle
+- [Vikas Kumar](https://github.com/vikaskumar168)
 - [Eric Wang](https://github.com/ewang7421)
 - [Alan Chan] (https://github.com/Chanalan1)
   [majMgCode](https://github.com/majMgCode)
@@ -102,6 +110,7 @@ git add Contributors.md# Contributors
 - Jack Youssef
 - Brooke Smith
 Sam Barns
+- [moddingforreal](https://github.com/moddingforreal)
 - [Shane Ludwig] (https://github.com/FoopyPoopy)
 - [Masaki Nishi] (https://github.com/MasakiNishi)
 - [Vedashree D] (https://github.com/VedashreeD)
@@ -136,8 +145,10 @@ Sam Barns
 - [Emmanuel Nwafor(Emmo00)](https://github.com/emmo00)
 - [Ajay Nischal](https://github.com/ajaynischal/)
 - [Caden Maxwell] (https://github.com/CadenMax)
+- [Chetan] (https://github.com/falcon-96)
 - [Akintunde Olayinka] (https://github.com/oakintunde)
 - Andrew Craeton
+- [JRW] (https://github.com/ShuaRead)
 - [Cheat] (https://github.com/TheCheatCode)
 - melih-canbolat
 - [hello world]()
@@ -1383,6 +1394,7 @@ Jasmine
 - [Fahad Shoaib] (https://github.com/Fahad-S94)
 - [Mounish Nanu](https://github.com/mounish123)
 - [Ravi Teja]
+- [Vasu]
 - [Fady Zaky] (https://github.com/0ddAuto00)
 - [Whitehackerneth](https://github.com/Whitehackerneth/first-contributions)
 - [Simons Arhin](https://github.com/simonskayi)
@@ -4010,6 +4022,7 @@ guanj65
 = (Paul Brennan) (https://https://github.com/PaulEdwardBrennan)
 - [YuChen Den] (https://github.com/AbnerTeng)
 - [Rodrigo Mattos] (https://github.com/Rodrigomfab88)
+- [Júlia Yoshida](https://github.com/juliaryoshida/)
 - [Dimitrios Tikvinas] (YEAHHHHHHHHH BUDDYYYYYYYYYYYYY)
 - [Mihir Lad] (Maverick)
 - [tutula](smooth operator)
@@ -4024,4 +4037,9 @@ guanj65
 - [Andrei George Mira] (https://github.com/RumanoLoco)
 - [Omkar Jawaji] (https://github.com/omkarjawaji)
 - [kamrider] (https://github.com/kamrider)
-- [imanolie] (https://github.com/imanolie)
+- [Matt] (https://github.com/matt89757)
+- [Fabrício Queiroz](https://github.com/FabricioDeQueiroz)
+- [Aiden ALlred](https://github.com/AidenALlredOfficial)
+ -[kami1152](https://github.com/kami1152)
+ -[Yash Patel](https://github.com/Orca-Gemini23)
+- [imanolie](https://github.com/imanolie)
