@@ -11,6 +11,7 @@
 - [Kushagra Jain](https://github.com/kushagrajain7)
 - [Chanin L](https://github.com/chaninlaw)
 - [Thar Sein Oo](https://github.com/tharseinooMM)
+- [Ryan Frederich](http://github.com/ryansurf)
 - Jasman Deol
 - [Michael Chen](https://github.com/vayfarer/)
 - Ruben Gomez Bahamonde
