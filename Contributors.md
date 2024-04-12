@@ -13,6 +13,7 @@
 - [Chanin L](https://github.com/chaninlaw)
 - [Thar Sein Oo](https://github.com/tharseinooMM)
 - [Ryan Frederich](http://github.com/ryansurf)
+- [Capra94] (http://github.com/Capra94)
 - Jasman Deol
 - [Michael Chen](https://github.com/vayfarer/)
 - Ruben Gomez Bahamonde
