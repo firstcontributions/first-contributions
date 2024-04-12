@@ -44,7 +44,7 @@ wobuxinnihuiwuliaodeduwanwodemingzi
 - [Daniel dos Santos] (https://github.com/daniel-de-sousa)
 - [MANAS JHA] (https://github.com/02Manas-jha)
 git add Contributors.md# Contributors
-
+- [Genaro Sanhcez Feliz] (https://github.com/gsanche4)
 111111111111111111111111111111111
 - Kevin Liu
 - goodCircle
