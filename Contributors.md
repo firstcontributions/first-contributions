@@ -49,6 +49,8 @@ wobuxinnihuiwuliaodeduwanwodemingzi
 git add Contributors.md# Contributors
 
 111111111111111111111111111111111
+
+- [Anamika Tiwar] (sheCoder18)- My first contribution :) - 12 April, 2024;
 - Kevin Liu
 - goodCircle
 - [Vikas Kumar](https://github.com/vikaskumar168)
