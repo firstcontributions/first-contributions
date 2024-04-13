@@ -20,6 +20,7 @@
 - [Ryan Frederich](http://github.com/ryansurf)
 - [Capra94] (http://github.com/Capra94)
 - Jasman Deol
+- Cinthylli
 - [Michael Chen](https://github.com/vayfarer/)
 - [Abhiraj Aditya](https://github.com/abhiraj860)
 - Ruben Gomez Bahamonde
