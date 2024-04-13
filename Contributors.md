@@ -1,6 +1,7 @@
 # Contributors
 
 - [wpa](https://github.com/waiphyo111000)
+- [Yusuf Can Aşur](https://github.com/yusufasur)
 - [Bishal Khadka](https://github.com/bkhadka2)
 - [Sebastian Obando](https://github.com/sebas2002cr)
 - [Matt Palmer](https://github.com/this-is-matt)
@@ -14,6 +15,7 @@
 - [Chanin L](https://github.com/chaninlaw)
 - [Abdurahman Mahammedsied](https://github.com/amirasabdu)
 - [Thar Sein Oo](https://github.com/tharseinooMM)
+- [Khin Myat Myat Thein](https://github.com/khinmyat29)
 - [Ryan Frederich](http://github.com/ryansurf)
 - [Capra94] (<http://github.com/Capra94>)
 - [Michael Chen](https://github.com/vayfarer/)
@@ -3619,6 +3621,7 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
 - [Erick Miranda Santos](https://github.com/Erick-ems)
 - [Jishnu K B] (<https://github.com/Jishnu-k-b>)
 -_[Pedro Braga](https://github.com/Stain19)
+- [Sufian Hamza](https://github.com/zee-ham-su)
 - [Vinicius Vieira](https://github.com/viniciusvieira00)
 - [Felipe de Sousa](https://github.com/fsousac)
 - [Logan Tien](https://github.com/logan2002i)
