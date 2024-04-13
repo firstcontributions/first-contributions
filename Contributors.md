@@ -116,6 +116,7 @@ git add Contributors.md# Contributors
 - [Jose Aliaga](https://github.com/metalargento)
 - [Ratnesh Rastogi] (https://github.com/TheYorouzoya)
 - [Pablo Andujar](https://github.com/pabloandujar-bahia)
+- [Jayesh Chouhan](https://github.com/jayesh-xyz)
 - Jack Youssef
 - Brooke Smith
 Sam Barns
