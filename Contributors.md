@@ -11,6 +11,7 @@
 - [Kashvi Jain](https://github.com/kashvi0/)
 - [Kushagra Jain](https://github.com/kushagrajain7)
 - [Chanin L](https://github.com/chaninlaw)
+- [Abdurahman Mahammedsied](https://github.com/amirasabdu)
 - [Thar Sein Oo](https://github.com/tharseinooMM)
 - [Ryan Frederich](http://github.com/ryansurf)
 - [Capra94] (http://github.com/Capra94)
