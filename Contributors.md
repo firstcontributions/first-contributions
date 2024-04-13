@@ -4049,6 +4049,7 @@ guanj65
 - [Erick Miranda Santos](https://github.com/Erick-ems)
 - [Jishnu K B] (https://github.com/Jishnu-k-b)
 -_[Pedro Braga](https://github.com/Stain19)
+- [Sufian Hamza](https://github.com/zee-ham-su)
 - [Vinicius Vieira](https://github.com/viniciusvieira00)
 - [Felipe de Sousa](https://github.com/fsousac)
 - [Logan Tien](https://github.com/logan2002i)
