@@ -181,7 +181,7 @@ igntius praise
 - [Cyril Azubuine](https://github.com/cyrilberrypi) [LinkedIn](https://www.linkedin.com/in/cyril-azubuine/) [X](https://twitter.com/iamcyril_edtech)
 Hannah Sung
 - Edith Cherotich
-- [ Joyston  https://github.com/NoviceProgrammer210  ]
+- [ Joyston Thanush Pais https://github.com/NoviceProgrammer210 ]
 - ferrrr
 - [Pratik Mangalore]
 - [Irie B]
