@@ -25,6 +25,7 @@
 - [Michael Chen](https://github.com/vayfarer/)
 - [Erin Nelson](https://github.com/erindust)
 - [Abhiraj Aditya](https://github.com/abhiraj860)
+- [Jason Allen](https://github.com/jtoallen)
 - Ruben Gomez Bahamonde
 - Elaine
 - [Simrana Farrukh] (https://github.com/simranfarrukh)
