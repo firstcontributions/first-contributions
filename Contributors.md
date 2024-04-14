@@ -4008,6 +4008,7 @@ guanj65
 - [Josh Miles](https://github.com/Josh-Miles)
 - [NavinSunar] ([text](https://github.com/jafinsunar))
 - [monkey d luffy](https://github.com/missboa)
+- [Zack Waterman](https://github.com/zackwaterman)
 - [Quante31](https://github.com/Quante31)
 - [Chizaram Igolo](https://github.com/Chizaram-Igolo)
 - [Mevorah Berrebi](https://github.com/mevo0108)
