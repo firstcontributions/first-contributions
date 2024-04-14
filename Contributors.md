@@ -13,6 +13,7 @@
 -[yoko Martin Raju] 
 - [Kashvi Jain](https://github.com/kashvi0/)
 - [Kushagra Jain](https://github.com/kushagrajain7)
+- [Darrel Chang](https://github.com/darrelchang03)
 - [Chanin L](https://github.com/chaninlaw)
 - [Abdurahman Mahammedsied](https://github.com/amirasabdu)
 - [Thar Sein Oo](https://github.com/tharseinooMM)
