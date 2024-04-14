@@ -2095,6 +2095,7 @@ Dante Sanchez
 - [tharendra](https://github.com/tharendra)
 - [Nehal Ingole](https://github.com/Ingole712521) #Thanks
 - [FirePhoenix] (https://github.com/huy125) #Thanks for help
+- [Shikatek] (https://github.com/shikatek)
 - [Franco Pro](https://github.com/franco-pro) ##Thanks for the help
 - 😎[James Kwon Lee]😎
 - [Lance Peterson](https://github.com/ObD-lance) 
