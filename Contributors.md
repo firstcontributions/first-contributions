@@ -4049,6 +4049,7 @@ guanj65
 - [Dimitrios Tikvinas] (YEAHHHHHHHHH BUDDYYYYYYYYYYYYY)
 - [Mihir Lad] (Maverick)
 - [tutula](smooth operator)
+- [Dan Priest]
 - [Albert Ngoudjou](https://github.com/angoudjou)
 - [__Chisato__](https://github.com/chisato2233)
 - [Keith Pryor]https://github.com/pryorka82/
