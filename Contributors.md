@@ -85,7 +85,7 @@
 - [Shrijan](https://github.com/shrijxn)
 - jsuto
 - Justin Hosfeld
-- Nishit Grover (https://github.com/nishit2003)
+- Nishit Grover (https://github.com/nishit2003
 
 - VakoB
 - Mi Nguyen
