@@ -13,6 +13,7 @@
 - [Yoyo Wu] (https://github.com/KingJJ676) -[yoko Martin Raju]
 - [Kashvi Jain](https://github.com/kashvi0/)
 - [Kushagra Jain](https://github.com/kushagrajain7)
+- [Darrel Chang](https://github.com/darrelchang03)
 - [Chanin L](https://github.com/chaninlaw)
 - [Abdurahman Mahammedsied](https://github.com/amirasabdu)
 - [Thar Sein Oo](https://github.com/tharseinooMM)
@@ -22,7 +23,9 @@
 - Jasman Deol
 - Cinthylli
 - [Michael Chen](https://github.com/vayfarer/)
+- [Erin Nelson](https://github.com/erindust)
 - [Abhiraj Aditya](https://github.com/abhiraj860)
+- [Jason Allen](https://github.com/jtoallen)
 - Ruben Gomez Bahamonde
 - Elaine
 - [Simrana Farrukh] (https://github.com/simranfarrukh)
@@ -96,6 +99,7 @@
 - [Debbie Nguyen] (https://github.com/debbie-nguyen)
 - [Kurtis Walton] (https://github.com/kurtisjw)
 - [Justin Stoner](https://github.com/justinstoner2)
+- [Paula Monzonis](https://github.com/pmonzonis)
 - [MadawaSamarathunga](https://github.com/MadawaSamarathunga)
 - [bbkxm](https://github.com/bbkxm)
 - [Paul Adams]
@@ -139,6 +143,7 @@
 - [Luca Castelli](https://github.com/Luca-Castelli)
 - [Raphael Ndiritu](https://github.com/Raph-royalty)
 - [Alec Swift] (https://github.com/alecswift)
+- [Carson Schildt](https://github.com/caronschildt)
 - [Jun Iwamoto](https://github.com/junffy)
 - [William Libero](https://github.com/William-Libero) 📲[LinkedIn](https://www.linkedin.com/in/williamlibero)
 - [Ivandro Chindumbo](https://github.com/ivansftdejc)
@@ -335,6 +340,7 @@
 - Sree
 - Taylor
 - Monika M
+- 0x504a
 - Yohan Moon
 - Mee Too
 - Matt Jung
@@ -1913,6 +1919,7 @@
 - [tharendra](https://github.com/tharendra)
 - [Nehal Ingole](https://github.com/Ingole712521) #Thanks
 - [FirePhoenix] (https://github.com/huy125) #Thanks for help
+- [Shikatek] (https://github.com/shikatek)
 - [Franco Pro](https://github.com/franco-pro) ##Thanks for the help
 - 😎[James Kwon Lee]😎
 - [Lance Peterson](https://github.com/ObD-lance)
@@ -3636,7 +3643,7 @@
 - [Blanco](https://github.com/Blanco10022)
 - [Hu99](https://github.com/Hubda987)
 - [Rajeev Lochan Dash](https://github.com/RajeevDash007)
-  guanj65
+
 - [BestoFrendo](https://github.com/jutaga)
 - [KikoSomotri](https://github.com/fsomoza)
 - [He Wentao](https://github.com/goodmorning_hwt)
@@ -3741,6 +3748,7 @@
 - [Josh Miles](https://github.com/Josh-Miles)
 - [NavinSunar] ([text](https://github.com/jafinsunar))
 - [monkey d luffy](https://github.com/missboa)
+- [Zack Waterman](https://github.com/zackwaterman)
 - [Quante31](https://github.com/Quante31)
 - [Chizaram Igolo](https://github.com/Chizaram-Igolo)
 - [Mevorah Berrebi](https://github.com/mevo0108)
@@ -3782,6 +3790,7 @@
 - [Dimitrios Tikvinas] (YEAHHHHHHHHH BUDDYYYYYYYYYYYYY)
 - [Mihir Lad] (Maverick)
 - [tutula](smooth operator)
+- [Dan Priest]
 - [Albert Ngoudjou](https://github.com/angoudjou)
 - [**Chisato**](https://github.com/chisato2233)
 - [Keith Pryor]https://github.com/pryorka82/
@@ -3804,3 +3813,6 @@
 - [Raphel6969](https://github.com/Raphel6969)
 - [ScriptBloom](https://github.com/ScriptBloom)
 - [noxhaze](https://github.com/noxhaze)
+- [MWaqar](https://github.com/MuWar47)
+- [andreiKarp](https://github.com/rishisha)
+- [James-Z-Zhang00](https://github.com/James-Z-Zhang00)
