@@ -16,6 +16,7 @@
 - [Capra94] (http://github.com/Capra94)
 - Jasman Deol
 - [Michael Chen](https://github.com/vayfarer/)
+- [Erin Nelson](https://github.com/erindust)
 - [Abhiraj Aditya](https://github.com/abhiraj860)
 - Ruben Gomez Bahamonde
 - Elaine
