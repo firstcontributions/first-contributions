@@ -212,6 +212,7 @@ Kayla Barton
 - [Pavlo Dediu](https://github.com/w4kened)
 - [sohan guptha](https://github.com/sohan-gupthak)
 - [Alexander Rose](https://github.com/Alex-K-Rose)
+- [Tyler Barger] (https://github.com/BargerT)
 - [Lavnish Kumar](https://github.com/Lavnish0101)
 - [Michael Dillinger](https://github.com/mpdillingerOSU)
 - [Fento](https://github.com/F3nto)
