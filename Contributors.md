@@ -75,6 +75,7 @@ git add Contributors.md# Contributors
 - jsuto
 - Justin Hosfeld
 - Mi Nguyen
+- [Toan Bui](https://github.com/bmt810818)
 - A. Mishra
 - [Faysal Hasan](https://github.com/mollik001)
 - [Ibraheem Qadi](https://github.com/IbraheemQadi)
