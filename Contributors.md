@@ -1,5 +1,6 @@
 # Contributors
 - [wpa](https://github.com/waiphyo111000)
+- [ariicodes](https://github.com/ariicodes)
 - [Yusuf Can Aşur](https://github.com/yusufasur)
 - [Bishal Khadka](https://github.com/bkhadka2)
 - [Cannon Hutcheson]
