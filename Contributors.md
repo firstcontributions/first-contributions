@@ -356,6 +356,7 @@ Pereira
 - Yohan Moon
 - Mee Too
 - Matt Jung
+- [Jayesh Kahnani](https://github.com/Jayesh-kahnani)  || [LinkedIn](https://www.linkedin.com/in/jayeshk13)
 - [Kevin Johnson](https://github.com/KevinAJohnson96)
 - [Jorge Calleja](https://github.com/CallejaJ)
 - [Sergiu Grosu](https://github.com/sergrosu)
