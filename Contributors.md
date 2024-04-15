@@ -102,6 +102,7 @@ git add Contributors.md# Contributors
 - A. Mishra
 - [Faysal Hasan](https://github.com/mollik001)
 - [Ibraheem Qadi](https://github.com/IbraheemQadi)
+- [Michael Vong](https://github.com/michaelvong)
 - Ana Clara Borges
 - [Vehrstahl](https://github.com/Vehrstahl)
 - [Debbie Nguyen] (https://github.com/debbie-nguyen)
