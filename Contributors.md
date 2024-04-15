@@ -92,6 +92,7 @@ git add Contributors.md# Contributors
 - Justin Hosfeld
 - VakoB
 - Mi Nguyen
+- [Toan Bui](https://github.com/bmt810818)
 - A. Mishra
 - [Faysal Hasan](https://github.com/mollik001)
 - [Ibraheem Qadi](https://github.com/IbraheemQadi)
