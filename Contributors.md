@@ -2,6 +2,7 @@
 - [Karla Esquivel](https://github.com/karlycaramelo)
 - [wpa](https://github.com/waiphyo111000)
 - [ariicodes](https://github.com/ariicodes)
+- [Adarsh J](https://github.com/adarsh4j)
 - [Yusuf Can Aşur](https://github.com/yusufasur)
 - [Bishal Khadka](https://github.com/bkhadka2)
 - [Cannon Hutcheson]
