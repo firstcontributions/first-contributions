@@ -22,6 +22,7 @@
 - [Darrel Chang](https://github.com/darrelchang03)
 - [Chanin L](https://github.com/chaninlaw)
 - Chiara Curgu
+- [MariaCassandra]
 - [Abdurahman Mahammedsied](https://github.com/amirasabdu)
 - [Thar Sein Oo](https://github.com/tharseinooMM)
 - [Khin Myat Myat Thein](https://github.com/khinmyat29)
