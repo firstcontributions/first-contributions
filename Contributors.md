@@ -37,6 +37,7 @@
 - Elaine
 - [Simrana Farrukh] (https://github.com/simranfarrukh)
 - ashtise
+- [Mohammed Riyaz J] (https://github.com/riyazjahangir)
 - Kristen McDonald
 - [Bogdan Nuzhnyy] (https://github.com/bognuz)
 -ESWAR KALWA
