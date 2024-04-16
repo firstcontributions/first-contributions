@@ -2554,6 +2554,7 @@ Philip Ambattu
 - [Danilo Znamerovszkij](https://github.com/danilo-znamerovszkij)
 - [Daniel Kaijzer](https://github.com/danielkaijzer)
 - [Ephraim Beltran](https://github.com/ephraim-beltran)
+- [Patrick Piedad] (https://github.com/patrickpiedad)
 - [heywhf](https://github.com/heywhf)
 - kameron
 - [Pravin Singh](https://github.com/itsmepravin)
