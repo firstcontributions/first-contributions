@@ -158,6 +158,7 @@ Sam Barns
 - [Lekhana Ganji](https://github.com/lekhana3003)
 - [Luca Castelli](https://github.com/Luca-Castelli)
 - [Raphael Ndiritu](https://github.com/Raph-royalty)
+- [StrawberryCrepe Cookie](https://github.com/StrawberyCrepeCookie)
 - [Alec Swift] (https://github.com/alecswift)
 - [Carson Schildt](https://github.com/caronschildt)
 - [Jun Iwamoto](https://github.com/junffy)
