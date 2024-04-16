@@ -255,6 +255,7 @@ Kayla Barton
 -[Demb Soumare]
 - [Shilpa Dutta](https://github.com/shilpa2024)
 - [Bianca Davies](https://github.com/beanrill)
+- [Kurt Petrola](https://github.com/kurtpetrola)
 - [Konrad] (https://github.com/KonradLach)
 - [Ngoc Tam Le]
 - [DSCmatter](https://github.com/DSCmatter)
