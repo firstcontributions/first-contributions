@@ -4099,6 +4099,7 @@ guanj65
 - [Omkar Jawaji] (https://github.com/omkarjawaji)
 - [kamrider] (https://github.com/kamrider)
 - [Matt] (https://github.com/matt89757)
+- [Theo Jenkins] (https://github.com/theo-jenkins)
 - [Fabrício Queiroz](https://github.com/FabricioDeQueiroz)
 - [Aiden ALlred](https://github.com/AidenALlredOfficial)
  -[kami1152](https://github.com/kami1152)
@@ -4117,4 +4118,3 @@ guanj65
 - [Robert Lovari] (https://github.com/rjlovari)
 - [Rocky](https://github.com/Rocky434)
 - [Karan Shah] (https://github.com/karanshah254)
-- [Theo Jenkins] (https://github.com/theo-jenkins)
