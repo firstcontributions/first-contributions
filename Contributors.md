@@ -6,6 +6,7 @@
 - [Bishal Khadka](https://github.com/bkhadka2)
 - [Cannon Hutcheson]
 - [Sebastian Obando](https://github.com/sebas2002cr)
+- [Emanuele Merveille .G](https://github.com/Merveille94)
 - [Matt Palmer](https://github.com/this-is-matt)
 - [mr-xcode](https://github.com/mr-xcode)
 - [TKO(https://github.com/2-lazyyyy)
