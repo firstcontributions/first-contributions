@@ -24,6 +24,7 @@
 - [Chanin L](https://github.com/chaninlaw)
 - Chiara Curgu
 - [MariaCassandra]
+- [Leeuwin Ririnui](https://github.com/loubxby)
 -[Likith K G](https://github.com/KGLikith)
 - [Abdurahman Mahammedsied](https://github.com/amirasabdu)
 - [Thar Sein Oo](https://github.com/tharseinooMM)
