@@ -2156,6 +2156,7 @@ Dante Sanchez
 - computer-science-student
 - [Nabil Negadi] (https://github.com/Darknab)
 - [AniketKumar](https://github.com/aniketkumar7)
+- [Aditya Bansal](https://github.com/Adityab1179)
 - [Olayinkascott Andee](https://github.com/scottandee)
 - [Steven Hedges](https://github.com/StevenH34)
 - [Giorgos](https://github.com/geopat24)
