@@ -2741,6 +2741,7 @@ Philip Ambattu
 - [Deepaprakash K](https://github.com/averagestud)
 - [WADA Yusuke](https://github.com/wxy-zzz)
 - [Kartik](https://github.com/Kartik1932)
+- [Bhargav](https://github.com/bhargav2550)
 - [Not4sure](https://github.com/Not4sure)
 - [WrenVin] (<https://github.com/WrenVin>)
 - [Magframed](https://github.com/SarthakH19)
