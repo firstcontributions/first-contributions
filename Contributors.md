@@ -2343,6 +2343,7 @@ Dante Sanchez
 - [adamsocki](https://github.com/adamsocki)
 - [Adam Steiger](https://github.com/adamstgr)
 - [Gordon Lim](https://github.com/gordonlim02)
+- [Conner Crosby](https://github.com/cavcrosby)
 - [DetorlarMubarak](https://github.com/Pious-coder)
 - [cvuneeez](https://github.com/cvuneeez)
 - [Yatee Singh](https://github.com/yatee-singh)
