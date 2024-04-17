@@ -7,6 +7,7 @@
 - [Yusuf Can Aşur](https://github.com/yusufasur)
 - [Bishal Khadka](https://github.com/bkhadka2)
 - [Cannon Hutcheson]
+- [Sourav Bera](https://github.com/souravq)
 - [Sebastian Obando](https://github.com/sebas2002cr)
 - [Emanuele Merveille .G](https://github.com/Merveille94)
 - [Matt Palmer](https://github.com/this-is-matt)
