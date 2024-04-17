@@ -242,6 +242,7 @@ Kayla Barton
 - [Alex M] (https://github.com/alexmerino13)
 - [Lance Giles] (https://github.com/lancemgiles)
 - [Adilbh](https://github.com/Adil-bh)
+- [Ritushree Dutta](https://github.com/rits1309)
 - [MahditS] (https://github.com/MahditS)
 - [u3b] (https://github.com/u3b)
 - [JerrySagwa] (https://github.com/JerrySagwa)
