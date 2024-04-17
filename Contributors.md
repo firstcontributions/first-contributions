@@ -985,6 +985,7 @@ guanj65
 - [Aiba] (https://github.com/Aibaww)
 - [ersediti](https://github.com/Ersediti)
 - [Alcarius]
+- [Haletha] (https://github.com/creativeleej)
 - [laegel] (https://github.com/laegel123)
 - [Bishwa](https://github.com/bishwa) [Linkedin](https://www.linkedin.com/in/bishwavj/)
 - [Samruddhi Dharankar](https://github.com/samruddhiDharankar)
