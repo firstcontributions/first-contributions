@@ -2150,6 +2150,7 @@ Dante Sanchez
 - [OriThree]
 - [jay] (https://github.com/jayvjayv)
 - [Mustafa Afzal](https://github.com/mafzii)
+- [Aasim Syed](https://github.com/aasimsyed)
 - [Dylan Collins](https://github.com/D05Col)
 - [Avinash Mallick](https://github.com/avimallick)
 - [Rachel Hamby](https://github.com/tnthreat33)
