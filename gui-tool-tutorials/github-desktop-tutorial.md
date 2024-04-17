@@ -19,8 +19,7 @@ If you're using a version of GitHub desktop before 1.0, [refer this tutorial](gi
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/fork.png" alt="fork this repository" />
 
 ## Fork this repository
-
-Fork this repo by clicking on the fork button on the top right of this page.
+ by clicking on the fork button on the top right of this page.
 This will create a copy of this repository in your account.
 
 ## Clone the repository
