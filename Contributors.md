@@ -31,6 +31,7 @@
 -[Likith K G](https://github.com/KGLikith)
 - [Abdurahman Mahammedsied](https://github.com/amirasabdu)
 - [Thar Sein Oo](https://github.com/tharseinooMM)
+- [Yogesh Khutwad](https://github.com/YogeshK34)
 - [Khin Myat Myat Thein](https://github.com/khinmyat29)
 - [James Olsen](https://github.com/olsenjames1116)
 - [Ryan Frederich](http://github.com/ryansurf)
