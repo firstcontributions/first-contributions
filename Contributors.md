@@ -4,6 +4,7 @@
 - [wpa](https://github.com/waiphyo111000)
 - [ariicodes](https://github.com/ariicodes)
 - [Adarsh J](https://github.com/adarsh4j)
+- [Amna G](https://github.com/Guluna)
 - [Yusuf Can Aşur](https://github.com/yusufasur)
 - [Bishal Khadka](https://github.com/bkhadka2)
 - [Cannon Hutcheson]
