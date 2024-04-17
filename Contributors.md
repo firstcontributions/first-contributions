@@ -36,6 +36,7 @@
 - [Capra94] (http://github.com/Capra94)
 - Jasman Deol
 - Cinthylli
+- gulrez pasha
 - [Michael Chen](https://github.com/vayfarer/)
 - [Erin Nelson](https://github.com/erindust)
 - [Abhiraj Aditya](https://github.com/abhiraj860)
