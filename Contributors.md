@@ -86,6 +86,7 @@ git add Contributors.md# Contributors
 - [Vikas Kumar](https://github.com/vikaskumar168)
 - [Eric Wang](https://github.com/ewang7421)
 - [Alan Chan] (https://github.com/Chanalan1)
+- [Rahul] (https://github.com/rahulram21)
   [majMgCode](https://github.com/majMgCode)
 - [HINGA PETER](https://github.com/Hinga-inc)
 - [Saleem Djima]
