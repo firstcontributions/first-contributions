@@ -1,6 +1,7 @@
 # Contributors
 - [Karla Esquivel](https://github.com/karlycaramelo)
 - [Santosh Shebannavar](https://github.com/shebannavar)
+- [KaladinB4](https://github.com/KaladinB4)
 - [wpa](https://github.com/waiphyo111000)
 - [ariicodes](https://github.com/ariicodes)
 - [Adarsh J](https://github.com/adarsh4j)
