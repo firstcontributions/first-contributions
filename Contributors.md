@@ -1,4 +1,5 @@
 # Contributors
+- [Znods](https://github.com/Znods) :3
 - [Karla Esquivel](https://github.com/karlycaramelo)
 - [Santosh Shebannavar](https://github.com/shebannavar)
 - [KaladinB4](https://github.com/KaladinB4)
