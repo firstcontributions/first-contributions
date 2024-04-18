@@ -4130,6 +4130,7 @@ guanj65
 -_[Pedro Braga](https://github.com/Stain19)
 - [Sufian Hamza](https://github.com/zee-ham-su)
 - [Vinicius Vieira](https://github.com/viniciusvieira00)
+- [Spencer Lan](https://github.com/sp3ncerlan)
 - [Felipe de Sousa](https://github.com/fsousac)
 - [Logan Tien](https://github.com/logan2002i)
 - [Alannah Cowley] (https://github.com/Cowley-Codes)
