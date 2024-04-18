@@ -365,6 +365,7 @@ Pereira
 - [Aidan Stoner](https://github.com/AidanS39)
 - [faiza liyaqat](https://github.com/faizaliyaqat)
 - [Christian McKinnon](https://github.com/christianmckinnon)
+- [B](https://github.com/B-coding19)
 - [Alessandro LAMPARELLI](https://github.com/alamparelli)
 - [U Harshitha](https://github.com/U-Harshitha)
 - [Likheet Shetty](https://github.com/Likheet)
