@@ -56,6 +56,7 @@
 - [Bogdan Nuzhnyy] (https://github.com/bognuz)
 -ESWAR KALWA
 - [Abhijeet Prajapati](https://github.com/Abhi-P-0)
+- [Claudia Carboni](https://github.com/claucoals)
 - [MrAnyone](https://github.com/MrAnyone)
 - [Jordan Brown](https://github.com/jbrown307)
 - [Laura Barauna](https://github.com/LauraBarauna)
