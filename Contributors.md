@@ -1,6 +1,7 @@
 # Contributors
 - [Karla Esquivel](https://github.com/karlycaramelo)
 - [Santosh Shebannavar](https://github.com/shebannavar)
+- [Geoffrey W](https://github.com/Geoffrey-Hash)
 - [wpa](https://github.com/waiphyo111000)
 - [ariicodes](https://github.com/ariicodes)
 - [Adarsh J](https://github.com/adarsh4j)
