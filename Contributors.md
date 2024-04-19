@@ -1088,6 +1088,7 @@ guanj65
 - [Franco-Spaniard]
 - [Josef Da Costa](https://github.com/Devjosef)
 - [Dev0xgenius]
+- [David B Weinstein](https://github.com/dwstein)
 - [Marc Darryl Dalangin](https://github.com/marcdalangin)
 -[Gideon Kiprono](https://github.com/Gideon-Kiprono)
 - [Jon Orth](https://github.com/funwithgit)
