@@ -36,6 +36,7 @@
 - [Kashvi Jain](https://github.com/kashvi0/)
 - [Abel Lavieri](https://github.com/alvp01)
 - [Kushagra Jain](https://github.com/kushagrajain7)
+- [Rogeraprendizajem1](https://https://github.com/Rogeraprendizajem1)
 - [prajjwal] (https://github.com/prajjwaljaiswal)
 - [Darrel Chang](https://github.com/darrelchang03)
 - [Chanin L](https://github.com/chaninlaw)
