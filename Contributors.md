@@ -43,6 +43,7 @@
 - [James Olsen](https://github.com/olsenjames1116)
 - [Ryan Frederich](http://github.com/ryansurf)
 - [Capra94] (http://github.com/Capra94)
+- [Jack Kong](http://github.com/jnkg9five)
 - Jasman Deol
 - Cinthylli
 - [Michael Chen](https://github.com/vayfarer/)
