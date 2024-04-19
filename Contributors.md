@@ -13,6 +13,7 @@
 - [Amna G](https://github.com/Guluna)
 - [Yusuf Can Aşur](https://github.com/yusufasur)
 - [Bishal Khadka](https://github.com/bkhadka2)
+- [Bishal Khadka](https://github.com/htoohtooag)
 - [Cannon Hutcheson]
 - [Sourav Bera](https://github.com/souravq)
 - [Sebastian Obando](https://github.com/sebas2002cr)
