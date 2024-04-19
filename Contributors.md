@@ -69,6 +69,7 @@
 - [Sorin](https://github.com/SeoBlack)
 wobuxinnihuiwuliaodeduwanwodemingzi
 - [Madhushree](https://github.com/madbag)
+- [Ripak Raj](https://github.com/Ripak2005)
 - [kushal chaulgain] (https://github.com/kushhal13)
 - [Tomy Roy](https://github.com/tomyroydotcom/)
 - [ODragonborn](https://github.com/JoaoODragonborn)
