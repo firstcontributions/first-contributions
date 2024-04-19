@@ -5,6 +5,7 @@
 - [youten410](https://github.com/youten410)
 - [Znods](https://github.com/Znods) :3
 - [Karla Esquivel](https://github.com/karlycaramelo)
+- [Pierce Chin](https://github.com/Pchin5isl33t)
 - [Santosh Shebannavar](https://github.com/shebannavar)
 - [KaladinB4](https://github.com/KaladinB4)
 - [Skylar](https://github.com/0522skylar)
