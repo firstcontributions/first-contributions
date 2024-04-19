@@ -2497,6 +2497,7 @@ Dante Sanchez
 - [yangchunhua](https://github.com/1250855168/)
 - [Kundan Kumar](https://github.com/kundank02)
 - [matthew]
+- [SilencioPz](https://github.com/SilencioPz)
 - [MertKy](https://github.com/MertKy/)
 - [ArcXeon](https://github.com/ArcXeon/)
 - [allaert](https://github.com/allaert/)
