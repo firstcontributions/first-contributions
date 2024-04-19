@@ -126,7 +126,7 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 Change to the repository directory on your computer (if you are not already there):
 
 ```bash
-cd first-contributions
+cd first-contribution
 ```
 
 Now create a branch using the `git switch` command:
