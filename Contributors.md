@@ -328,6 +328,7 @@ Kayla Barton
 - [Saahiil M](https://github.com/SaahiilM)
 - [Lanre Adedara](https://github.com/klever34)
 - [Alexander Howard](https://github.com/alexghow903)
+- [Rizki Romdhoni](https://github.com/RizkiRdm)
 - [Dean K] (https://github.com/Dkurilich)
 - [Prerak Singh Sangwan](https://github.com/Prerak1310)
 - [Vanisha Gupta](https://github.com/V-anisha)
