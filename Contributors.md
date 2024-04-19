@@ -809,6 +809,7 @@ guanj65
 - [xiaotianzi](https://github.com/xiaotianzi)
 - [Bhuvanesh Prasad](https://github.com/bhuvaneshprasad)
 - [Westin Smiley](https://github.com/WSmiley-void)
+- [Dvid B Weinstein](https://github.com/dwstein)
 -[Laxman P](https://github.com/laxmanp090404)
 -[Oleksandr Nedzelnytskyi](https://github.com/Sasha2511)
 -[Krunal Patel](https://github.com/kd05)
