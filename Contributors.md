@@ -1,4 +1,5 @@
 # Contributors
+- [StepTheGlow](https://github.com/StepTheGlow)
 - [Karla Esquivel](https://github.com/karlycaramelo)
 - [Santosh Shebannavar](https://github.com/shebannavar)
 - [wpa](https://github.com/waiphyo111000)
@@ -11,20 +12,20 @@
 - [Emanuele Merveille .G](https://github.com/Merveille94)
 - [Matt Palmer](https://github.com/this-is-matt)
 - [mr-xcode](https://github.com/mr-xcode)
-- [TKO(https://github.com/2-lazyyyy)
+- [TKO](https://github.com/2-lazyyyy)
 - [Abhinav](https://github.com/Abhinav1326)
 - [Jordan K](https://marinersjk00)
 - [Asaad Shaikh](https://github.com/scramerr)
 - [Yoyo Wu] (https://github.com/KingJJ676)
--[yoko Martin Raju] 
+- [yoko Martin Raju] 
 - [Mi Khin] (https://github.com/MiKhin1115)
 - [Kashvi Jain](https://github.com/kashvi0/)
 - [Kushagra Jain](https://github.com/kushagrajain7)
 - [Darrel Chang](https://github.com/darrelchang03)
 - [Chanin L](https://github.com/chaninlaw)
-- Chiara Curgu
+- [Chiara Curgu]
 - [MariaCassandra]
--[Likith K G](https://github.com/KGLikith)
+- [Likith K G](https://github.com/KGLikith)
 - [Abdurahman Mahammedsied](https://github.com/amirasabdu)
 - [Thar Sein Oo](https://github.com/tharseinooMM)
 - [Khin Myat Myat Thein](https://github.com/khinmyat29)
