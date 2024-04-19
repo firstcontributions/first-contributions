@@ -97,6 +97,7 @@ git add Contributors.md# Contributors
 - [iv660](https://github.com/iv660)
 - Kevin Liu
 - goodCircle
+- [Om Singh](https://github.com/fieryprofessor)
 - [Vikas Kumar](https://github.com/vikaskumar168)
 - [Eric Wang](https://github.com/ewang7421)
 - [Alan Chan] (https://github.com/Chanalan1)
