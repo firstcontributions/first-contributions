@@ -1,6 +1,7 @@
 # Contributors
 - Kshitij Ijari
 - [KPN](https://github.com/ComputerPhoneNaing)
+- [Pahang Krisdyan](https://github.com/pahangkrisdyan)
 - [Vernell C.](https://github.com/VCGithubCode) 🎸⭐️
 - [kobamkode](https://github.com/kobamkode)
 - [AbhishekYashSingh](https://github.com/AbhishekYashSingh)
