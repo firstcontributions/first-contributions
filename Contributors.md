@@ -144,6 +144,7 @@ git add Contributors.md# Contributors
 - [Ibraheem Qadi](https://github.com/IbraheemQadi)
 - [Michael Vong](https://github.com/michaelvong)
 - Ana Clara Borges
+- [dr1978](https://github.com/dr1978/)
 - [Vehrstahl](https://github.com/Vehrstahl)
 - [Debbie Nguyen] (https://github.com/debbie-nguyen)
 - [Kurtis Walton] (https://github.com/kurtisjw)
