@@ -10,7 +10,6 @@
 - [Pierce Chin](https://github.com/Pchin5isl33t)
 - [Santosh Shebannavar](https://github.com/shebannavar)
 - [KaladinB4](https://github.com/KaladinB4)
-- [Skylar](https://github.com/0522skylar)
 - [saradifranco](https://github.com/saradifranco)
 - [wpa](https://github.com/waiphyo111000)
 - [ariicodes](https://github.com/ariicodes)
