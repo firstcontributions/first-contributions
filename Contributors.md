@@ -13,6 +13,7 @@
 - [Skylar](https://github.com/0522skylar)
 - [saradifranco](https://github.com/saradifranco)
 - [wpa](https://github.com/waiphyo111000)
+- [Ernest Asare](https://github.com/quantum-ernest)
 - [ariicodes](https://github.com/ariicodes)
 - [Adarsh J](https://github.com/adarsh4j)
 - [Amna G](https://github.com/Guluna)
