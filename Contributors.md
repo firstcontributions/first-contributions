@@ -2016,6 +2016,7 @@ Dante Sanchez
 - [TH-Raju](https://github.com/TH-Raju)
 - [Advait Johari](https://github.com/aadijo)
 - [Ron Mordokhovich] (https://github.com/RonMordo)
+- [John Co] (https://github.com/john0ground)
 - [DylanCo](https://github.com/DylanCoexel)
 - [Saurav Kumar Mishra](https://github.com/sauravkm)
 - [André Wlodkovski](https://github.com/andrewlod)
