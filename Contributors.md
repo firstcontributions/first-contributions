@@ -38,6 +38,7 @@
 - [Asaad Shaikh](https://github.com/scramerr)
 - [Yoyo Wu] (https://github.com/KingJJ676)
 -[yoko Martin Raju] 
+-[Jayesh Ginnare](https://github.com/Techno-o76)
 - [Mi Khin] (https://github.com/MiKhin1115)
 - lioba-s
   [Vincin-Christmas-Branch] (https://github.com/VincinChristmas)
