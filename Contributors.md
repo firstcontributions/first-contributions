@@ -2,6 +2,7 @@
 - [KPN](https://github.com/ComputerPhoneNaing)
 - [Vernell C.](https://github.com/VCGithubCode) 🎸⭐️
 - [kobamkode](https://github.com/kobamkode)
+- [AbhishekYashSingh](https://github.com/AbhishekYashSingh)
 - [youten410](https://github.com/youten410)
 - [Znods](https://github.com/Znods) :3
 - [Karla Esquivel](https://github.com/karlycaramelo)
