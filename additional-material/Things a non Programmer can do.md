@@ -3,25 +3,25 @@
 
 Everything in open source involves other people.
 You're looking to join a team, and that means understanding the community and how it works.
-Walking in to a project and saying "Hi, here's what I think this project should be doing" is usually not taken as a good thing. 
-Some projects may welcome that sort of approach, but if the project has been running a while, the chances of that attitude being embraced are small. 
+Walking in to a project and saying "Hi, here's what I think this project should be doing" is usually not taken as a good thing.
+Some projects may welcome that sort of approach, but if the project has been running a while, the chances of that attitude being embraced are small.
 **Listening is the best way to know what the project needs.**
 
 1. **Join a mailing list**: For many projects, the mailing list is the main conduit of communication about the development of the project.
 On large projects, there are many mailing lists to choose from.
-For example, the PostgreSQL project has no fewer than 12 user-oriented lists and six developer lists on its mailing list page. 
+For example, the PostgreSQL project has no fewer than 12 user-oriented lists and six developer lists on its mailing list page.
 I suggest you follow the main user-oriented list and the core developer list in which to start listening.
 
 2. **Follow a blog**: Blogs maintained by core developers often give information about what's coming up in future releases,
 and what it's taken to get there. A planet site aggregates news and blog entries from many sources related to the project.
 If there is a planet site, like planet.gnome.org or planet.mysql.com, start there. Just search Google for "planet <projectname>."
 
-3. **Join an IRC channel**: Many open source projects have dedicated Internet relay chat (IRC) channels where developers and users hang out to discuss problems and development. 
+3. **Join an IRC channel**: Many open source projects have dedicated Internet relay chat (IRC) channels where developers and users hang out to discuss problems and development.
 Check the project's website for the details of what the channel is called and what IRC network it's found on.
 
 **Work with Tickets**  
-Code is the heart of any open source project, but don't think that writing code is the only way to contribute. 
-Maintenance of code and the systems surrounding the code often are neglected in the rush to create new features and to fix bugs. 
+Code is the heart of any open source project, but don't think that writing code is the only way to contribute.
+Maintenance of code and the systems surrounding the code often are neglected in the rush to create new features and to fix bugs.
 Look to these areas as an easy way to get your foot into a project.
 Most projects have a publicly visible trouble ticket system, linked from the front page of the project's website and included in the documentation.
 It's the primary conduit of communication between the users and the developers. Keeping it current is a great way to help the project.
@@ -78,7 +78,7 @@ These warnings are usually not indicators of a problem, but they can look like i
 Having too many warnings can make the compiler sound like it's crying wolf.
 Check to see if the code could actually be hiding a bug. If not, modifying the source to silence helps to hide these false positives.
 
-10. **Add a comment**: 
+10. **Add a comment**:
 When you're digging through the code, you may find some spots that are confusing.
 Chances are if you were confused, others will be  as well. Document them in the code and submit a patch.
 Work with Documentation
@@ -109,13 +109,13 @@ You'll be helping in two ways, both by helping keep the project on the minds of 
 and by creating a record for anyone else who has your problem in the future  and searches the web for the answer.
 (A blog of your technical adventures is also an excellent way to show real-world experience with the software in question next time you go hunting for a job using it.)
 
-14. **Improve a website**: 
+14. **Improve a website**:
 If you've got skills in web design and can help improve the website, and thus the public-facing image of the project, that's time well spent.
 Perhaps the project could use a graphic overhaul, or a logo to identify the project.
 These may be skills lacking in the community. I know I'd love it if I could get some graphic design help on my projects' websites.
   
 15. **Write technical documentation**
-  If you can write about how an application or piece of software works, you could write technical documentation about it. Especially open source projects that are looking to update, revamp, expand, or create technical docs for the general public to read. The more you write in plain english, the better. The best part, you don't have to be a programmer to write technical docs. 
+  If you can write about how an application or piece of software works, you could write technical documentation about it. Especially open source projects that are looking to update, revamp, expand, or create technical docs for the general public to read. The more you write in plain english, the better. The best part, you don't have to be a programmer to write technical docs.
 
 Most of all, listen to what people around you discuss. See if you can recognize a pressing need. For instance, recently on the Parrot developers' mailing list, it was decided to use GitHub as the trouble ticket system, abandoning the old Trac installation they had. Some people were against the move because there was no way to convert the tickets to GitHub's system. After a day of back and forth arguing, I piped up and said "How about if I write a converter?" People were thrilled at the idea. I spent the time to write a conversion program for the 450+ tickets, so we lost none of our ticket history. It was a great success.  I got to pitch in, and the core developers stayed focused on the business of working on Parrot.
 

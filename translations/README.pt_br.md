@@ -21,7 +21,7 @@ Faça um _Fork_ clicando no botão "_Fork_" no topo desta página, uma cópia de
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clonar este repositório" />
 
-Agora clone este repositório para a sua máquina. Clique no botão "_Clone or download_" e, em seguida, clique no ícone "_Copy to clipboard_" para copiar a URL.
+Agora clone este repositório para a sua máquina. Clique no botão "_Code_" e, em seguida, clique no ícone "_Copy to clipboard_" para copiar a URL.
 
 Abra um terminal e execute o seguinte comando do git:
 
@@ -88,10 +88,10 @@ substituindo `<seu-nome>` pelo seu nome.
 Envie suas alterações usando o comando `git push`:
 
 ```
-git push origin <add-seu-nome>
+git push origin <nome-da-sua-branch>
 ```
 
-substituindo `<add-seu-nome>` pelo nome do _Branch_ que você criou anteriormente.
+substituindo `<nome-da-sua-branch>` pelo nome do _Branch_ que você criou anteriormente.
 
 ## Envie suas alterações para serem revisadas
 
@@ -103,7 +103,7 @@ Agora envie um _Pull Request_.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Envie o Pull Request" />
 
-Logo estará mesclando ('mergeando') as suas mudanças no _Branch_ principal (master) deste projeto. Você receberá um e-mail de notificação quando as alterações forem mescladas.
+Logo estará mesclando ('mergeando') as suas mudanças no _Branch_ principal (main) deste projeto. Você receberá um e-mail de notificação quando as alterações forem mescladas.
 
 ## Para onde ir a partir daqui?
 
@@ -115,7 +115,7 @@ Você também pode se juntar à nossa equipe no _Slack_ caso precise de alguma a
 
 Agora você pode colaborar com outros projetos. Nós compilamos uma lista de projetos com problemas simples que você pode começar. Verifique em [a lista de projetos no web app](https://firstcontributions.github.io/#project-list).
 
-### [ Material adicional ](../additional-material/translations/Portuguese/additional-material.pt_br.md)
+### [ Material adicional ](../additional-material/translations/Portugues/additional-material.pt_br.md)
 
 ## Tutoriais usando outras ferramentas
 
