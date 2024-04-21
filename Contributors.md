@@ -6,6 +6,7 @@
 - [Mashhoor Ahdal](https://github.com/mashhoorahdal)
 - [KPN](https://github.com/ComputerPhoneNaing)
 - [Vernell C.](https://github.com/VCGithubCode) 🎸⭐️
+- [Alex Perez](https://github.com/alexperez45) :p
 - [kobamkode](https://github.com/kobamkode)
 - [AbhishekYashSingh](https://github.com/AbhishekYashSingh)
 - [ThomasHallstrom](https://github.com/THallstrom)
