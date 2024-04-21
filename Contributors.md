@@ -2,6 +2,7 @@
 - Kshitij Ijari
 - Srushti Sachdev
 - Aamish Ahmad Beg
+- [Ayush Prateek Rai](https://github.com/ayushrai-bhau)
 - [Mashhoor Ahdal](https://github.com/mashhoorahdal)
 - [KPN](https://github.com/ComputerPhoneNaing)
 - [Vernell C.](https://github.com/VCGithubCode) 🎸⭐️
