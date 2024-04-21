@@ -244,6 +244,7 @@ Sam Barns
 -Prab-27
 - Kyle Free
 Lindsay A
+- [addy-luna] (https://github.com/addy-luna)
 - Jesse Soliman [CS464]
 - Skylar Posler [CS464] (https://github.com/skylarposler)
 - MrF1ow
