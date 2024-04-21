@@ -66,6 +66,7 @@
 - [Capra94] (http://github.com/Capra94)
 - [Jack Kong](http://github.com/jnkg9five)
 - Jasman Deol
+- [Ethan Corbett] (https://github.com/Schnozhand03)
 - Cinthylli
 - [Michael Chen](https://github.com/vayfarer/)
 - [Erin Nelson](https://github.com/erindust)
