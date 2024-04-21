@@ -1,6 +1,7 @@
 # Contributors
 - Kshitij Ijari
 - Srushti Sachdev
+- Aamish Ahmad Beg
 - [Mashhoor Ahdal](https://github.com/mashhoorahdal)
 - [KPN](https://github.com/ComputerPhoneNaing)
 - [Vernell C.](https://github.com/VCGithubCode) 🎸⭐️
