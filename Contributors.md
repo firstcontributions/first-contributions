@@ -2939,6 +2939,7 @@ Philip Ambattu
 - [aid-in](https://github.com/aid-in)
 - [jsj8051](https://github.com/jsj8051)
 - [ikhoza](https://github.com/ikhoza)
+- [Kien Nguyen](https://github.com/vn-vietnam)
 - [Frank](https://github.com/Frank40790)
 - [Slavikmmk] 
 - [Sagar Negi](https://github.com/sxxrfx)
