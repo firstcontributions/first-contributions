@@ -17,6 +17,7 @@
 - [Santosh Shebannavar](https://github.com/shebannavar)
 - [Ninad Agashe](https://github.com/mr-ollivander)
 - [KaladinB4](https://github.com/KaladinB4)
+- [Tanya Sorenson](https://github.com/TanyaSorenson)
 - [Skylar](https://github.com/0522skylar)
 - [saradifranco](https://github.com/saradifranco)
 - [Deep panchal](https://github.com/WiryFountain728)
