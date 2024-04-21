@@ -124,6 +124,7 @@ git add Contributors.md# Contributors
 - [Rahul] (https://github.com/rahulram21)
   [majMgCode](https://github.com/majMgCode)
 - [HINGA PETER](https://github.com/Hinga-inc)
+- [ewh0](https://github.com/ewh0)
 - [Saleem Djima]
 - D
 - [deanisty](https://github.com/deanisty)
