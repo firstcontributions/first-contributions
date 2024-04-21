@@ -152,6 +152,7 @@ git add Contributors.md# Contributors
 - [Faysal Hasan](https://github.com/mollik001)
 - [Ibraheem Qadi](https://github.com/IbraheemQadi)
 - [Michael Vong](https://github.com/michaelvong)
+- [k0ju](https://github.com/k0ju)
 - Ana Clara Borges
 - [dr1978](https://github.com/dr1978/)
 - [Vehrstahl](https://github.com/Vehrstahl)
