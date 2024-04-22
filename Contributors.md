@@ -4235,3 +4235,4 @@ guanj65
 - [Ryan](https://github.com/RyanDerr)
 - [spageektti](https://github.com/spageektti)
 - [chenshiwei-io](https://github.com/chenshiwei-io)
+- [Andrea Latorre](https://github.com/latorreandrea)
