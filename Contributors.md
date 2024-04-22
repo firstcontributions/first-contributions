@@ -2081,6 +2081,7 @@ Dante Sanchez
 - [Alston Antony] (https://github.com/alston06)
 - [Sulejman Hoxha](https://github.com/sulejmanhoxha)
 - [João Gonçalves] (https://github.com/joao-goncalves17)
+- [Skin Spectra] (https://github.com/mqry)
 - [iPig](https://github.com/ipigtw)
 - [Kornel Hergert](https://github.com/kornel54)
 - [Sara Tahdi](https://github.com/Sara-Tahdi)
