@@ -2396,6 +2396,7 @@ Dante Sanchez
 - [Rithym G] hello everyone
 - [Pawan Kumar] (https://github.com/pawan132)
 - [David Stephenson] (https://github.com/dstephenson8)
+- [Vedant Paturkar](https://github.com/Vedx23)
 - [Anurag Sisodiya](https://github.com/ANURAGSISODIYAA)
 - [Akshay R](https://github.com/akshay-rajan)
 - [David Ejiro](https://github.com/David-Ejiro)
