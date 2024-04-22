@@ -44,8 +44,8 @@
 - [Jordan K](https://marinersjk00)
 - [Asaad Shaikh](https://github.com/scramerr)
 - [Yoyo Wu] (https://github.com/KingJJ676)
--[yoko Martin Raju] 
--[Jayesh Ginnare](https://github.com/Techno-o76)
+- [yoko Martin Raju] 
+- [Jayesh Ginnare](https://github.com/Techno-o76)
 - [Mi Khin] (https://github.com/MiKhin1115)
 - lioba-s
   [Vincin-Christmas-Branch] (https://github.com/VincinChristmas)
@@ -60,7 +60,7 @@
 - [MariaCassandra]
 - [Santiago Enciso] (https://github.com/Dogeon0)
 - [Leeuwin Ririnui](https://github.com/loubxby)
--[Likith K G](https://github.com/KGLikith)
+- [Likith K G](https://github.com/KGLikith)
 - [Abdurahman Mahammedsied](https://github.com/amirasabdu)
 - [Thar Sein Oo](https://github.com/tharseinooMM)
 - [Yogesh Khutwad](https://github.com/YogeshK34)
@@ -84,7 +84,7 @@
 - [Mohammed Riyaz J] (https://github.com/riyazjahangir)
 - Kristen McDonald
 - [Bogdan Nuzhnyy] (https://github.com/bognuz)
--ESWAR KALWA
+- [ESWAR KALWA]
 - [Abhijeet Prajapati](https://github.com/Abhi-P-0)
 - [Claudia Carboni](https://github.com/claucoals)
 - [MrAnyone](https://github.com/MrAnyone)
@@ -92,7 +92,6 @@
 - [Laura Barauna](https://github.com/LauraBarauna)
 - [Mario Lisbona](https://github.com/MarioLisbona/)
 - [Sorin](https://github.com/SeoBlack)
-wobuxinnihuiwuliaodeduwanwodemingzi
 - [Madhushree](https://github.com/madbag)
 - [Bedminer] (https://github.com/bedminer1)
 - [Ripak Raj](https://github.com/Ripak2005)
@@ -366,7 +365,7 @@ Kayla Barton
 - [kaneki003](https://github.com/kaneki003)
 - [Seth Bruner](https://github.com/sethbMiami)
 - [Hoorya Rafiq](https://github.com/HooryaR)
--[Harshit Singh]
+- [Harshit Singh]
 - [Bj Acharya](https://achbj.com)[GitHub](https://github.com/achbj)[LinkedIn](https://linkedin.com/in/achbj)
 - [Moustache9593] (https://github.com/Moustache9593)
 - [PranavNair] (https://github.com/pranavniar)
@@ -476,7 +475,7 @@ Pereira
 -[Mai Mable Thet](https://github.com/EmeraldMable)
 -[Beatriz Guerrero] (https://github.com/Beatriz-G)
 -[swapnil sonawane](https://github.com/swaps05)
--[Priya kumari](https://github.com/priya20003)
+- [Priya kumari](https://github.com/priya20003)
 - [shinyay](https://github.com/shinyay)
 -[Apoorva Menon](https://github.com/Apoorva-Menon)
 -[Denner Augusto](https://github.com/denner-augusto)
