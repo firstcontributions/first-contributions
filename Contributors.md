@@ -317,6 +317,7 @@ Kayla Barton
 - [Williyam M](https://github.com/williyam-m)
 - [Lucozky](https://github.com/Lucozky)
 - [ablines]
+- [Sean Butterfield](https://github.com/SeanButters)
 - [msoniisg](https://github.com/msoniisg)
 - [Meet-S0ni](https://github.com/Meet-S0ni)
 - [NextLevel](https://github.com/NextLevel-457)
