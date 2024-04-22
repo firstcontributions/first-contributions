@@ -10,6 +10,7 @@
 - [Bandhan Majumder](https://github.com/bandhan-majumder)
 - [kobamkode](https://github.com/kobamkode)
 - [AbhishekYashSingh](https://github.com/AbhishekYashSingh)
+- [Danny](https://github.com/BigBoyBrains)
 - [ThomasHallstrom](https://github.com/THallstrom)
 - [youten410](https://github.com/youten410)
 - [Znods](https://github.com/Znods) :3
