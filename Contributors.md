@@ -15,6 +15,7 @@
 - [youten410](https://github.com/youten410)
 - [Znods](https://github.com/Znods) :3
 - [Karla Esquivel](https://github.com/karlycaramelo)
+- [Pandakil1er](https://github.com/Pandakil1er)
 - [Anusha Suresh VM](https://github.com/Anusha-Suresh-VM)
 - [Pierce Chin](https://github.com/Pchin5isl33t)
 - [Santosh Shebannavar](https://github.com/shebannavar)
