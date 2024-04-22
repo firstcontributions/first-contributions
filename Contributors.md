@@ -997,6 +997,7 @@ guanj65
 - [gitFerdo](https://github.com/gitFerdo)
 - [Hisham Raihan](https://github.com/Bluehorizon65)
 - Feng Er[1fenger (github.com)](https://github.com/1fenger)
+- [Rodrigo Vallejos](https://github.com/rodrvn)
 - [Arturo]
 - [Sivaselvan] 
 - [Karan Khatavkar](https://github.com/karankhatavkar)
