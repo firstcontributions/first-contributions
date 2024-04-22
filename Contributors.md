@@ -16,6 +16,7 @@
 - [Anusha Suresh VM](https://github.com/Anusha-Suresh-VM)
 - [Pierce Chin](https://github.com/Pchin5isl33t)
 - [Santosh Shebannavar](https://github.com/shebannavar)
+- [Reisa Prasaptaraya](https://github.com/reisap)
 - [Ninad Agashe](https://github.com/mr-ollivander)
 - [KaladinB4](https://github.com/KaladinB4)
 - [Tanya Sorenson](https://github.com/TanyaSorenson)
