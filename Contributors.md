@@ -468,6 +468,7 @@ Pereira
 - [ Jayesh Chouhan ](https://github.com/chouhan-jayesh)
 -[Anvaya Solanki](https://github.com/anvaya-solanki)
 - [Dev Garg](https://github.com/Dev771)
+- [Muhammad Samim](https://github.com/samimwebdev)
 - [hyunwoo](https://github.com/Na-hyunwoo)
 - [Ryan Guo] (https://github.com/ryanguomd)
 - [Ahmed El Otmani](https://github.com/OtmaniCodes)
