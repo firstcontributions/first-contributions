@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Kshitij Ijari
 - Srushti Sachdev
 - Aamish Ahmad Beg
@@ -543,6 +543,7 @@ Pereira
 -[Brady Burns](https://github.com/burnsie000)
 -[Lance Preston](https://github.com/MrBubb1es)
 -[Ariyo](https://github.com/AriyosenaS)
+-[Joel Fernandes](https://github.com/jfernsio)
 -[Sanka-YT](https://github.com/Sanka-YT)
 -[Kunal Jhatta](https://github.com/kunaljhatta)
 -[Basim Hilal V](https://github.com/basimhilalv)
