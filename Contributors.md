@@ -2,6 +2,7 @@
 - Kshitij Ijari
 - Srushti Sachdev
 - Aamish Ahmad Beg
+- Jack Hunter
 - [Ayush Prateek Rai](https://github.com/ayushrai-bhau)
 - [Mashhoor Ahdal](https://github.com/mashhoorahdal)
 - [KPN](https://github.com/ComputerPhoneNaing)
