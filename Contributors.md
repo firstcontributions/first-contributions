@@ -17,6 +17,7 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
  [Adam Honvedo](https://github.com/Homvi)
 - [Blake Hill](https://github.com/Blake-Hill)<3
 - [hovhannisyangevorg](https://github.com/hovhannisyangevorg)
+- [Manga Fan](https://github.com/FunnyTiger);)
 - [Luis Vásquez](hhtps://github.com/vasquezluis) 👻
 - [Dwvwdv](https://github.com/dwvwdv)  
 -[Amaka Uchegbu](https://github.com/UCHEHQ)
