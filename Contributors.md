@@ -107,6 +107,7 @@
 - [Sorin](https://github.com/SeoBlack)
 wobuxinnihuiwuliaodeduwanwodemingzi
 - [Madhushree](https://github.com/madbag)
+- [Brett Smith](https://github.com/brett03112)
 - [Bedminer] (https://github.com/bedminer1)
 - [Ripak Raj](https://github.com/Ripak2005)
 - [kushal chaulgain] (https://github.com/kushhal13)
