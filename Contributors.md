@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Kshitij Ijari
 - Srushti Sachdev
 - Aamish Ahmad Beg
@@ -11,6 +11,7 @@
 - [Vernell C.](https://github.com/VCGithubCode) 🎸⭐️
 - [Alex Perez](https://github.com/alexperez45) :p
 - [Bandhan Majumder](https://github.com/bandhan-majumder)
+- [CJ Young](https://github.com/cj-young)
 - [kobamkode](https://github.com/kobamkode)
 - [AbhishekYashSingh](https://github.com/AbhishekYashSingh)
 - [Danny](https://github.com/BigBoyBrains)
@@ -41,6 +42,7 @@
 - [Mihir Bhansali](https://github.com/mihir254)
 - [Cannon Hutcheson]
 - [Sourav Bera](https://github.com/souravq)
+- [Richard Castellano](https://github.com/RichardCastellano)
 - [Sebastian Obando](https://github.com/sebas2002cr)
 - [Emanuele Merveille .G](https://github.com/Merveille94)
 - [Daniel Diaz](https://github.com/danieldiaz7)
@@ -4253,3 +4255,4 @@ guanj65
 - [spageektti](https://github.com/spageektti)
 - [chenshiwei-io](https://github.com/chenshiwei-io)
 - [Andrea-Latorre](https://github.com/latorreandrea)
+- [MarshmelloRice](https://github.com/MarshmelloRice/)
