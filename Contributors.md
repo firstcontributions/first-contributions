@@ -41,6 +41,7 @@
 - [Mihir Bhansali](https://github.com/mihir254)
 - [Cannon Hutcheson]
 - [Sourav Bera](https://github.com/souravq)
+- [Richard Castellano](https://github.com/RichardCastellano)
 - [Sebastian Obando](https://github.com/sebas2002cr)
 - [Emanuele Merveille .G](https://github.com/Merveille94)
 - [Daniel Diaz](https://github.com/danieldiaz7)
