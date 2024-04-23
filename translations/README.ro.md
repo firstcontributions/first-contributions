@@ -41,7 +41,7 @@ git clone https://github.com/numele-tau/first-contributions.git
 ```
 unde `numele-tau` reprezintă numele dvs. de utilizator GitHub. Aici copiați conținutul depozitului _first-contributions_ de pe GitHub pe computerul dvs.
 
-## Creați o ramură
+## Creați o divizie
 
 Schimbați directorul depozitului de pe computerul dvs. (dacă nu sunteți deja acolo):
 
@@ -49,10 +49,10 @@ Schimbați directorul depozitului de pe computerul dvs. (dacă nu sunteți deja 
 cd first-contributions
 ```
 
-Acum creați o ramură folosind comanda `git switch`:
+Acum creați o divizie folosind comanda `git switch`:
 
 ```bash
-git switch -c numele-noii-ramuri
+git switch -c numele-noii-divizie
 ```
 
 De exemplu:
@@ -69,7 +69,7 @@ Acum deschideți fișierul `Contributors.md` într-un editor de text, adăugați
 
 Dacă mergeți în directorul proiectului și executați comanda `git status`, veți vedea că există modificări.
 
-Adăugați aceste modificări în ramura pe care tocmai ați creat-o folosind comanda `git add`:
+Salvați modificările dvs. care tocmai ați creat-o folosind comanda `git add`:
 
 ```bash
 git add Contributors.md
@@ -87,9 +87,9 @@ git commit -m "Adaug numele-tau la lista de Contribuitori"
 Împinge schimbările tale cu comanda `git push`:
 
 ```bash
-git push -u origin numele-ramurii-tale
+git push -u origin numele-diviziile-tale
 ```
-înlocuind `numele-ramurii-tale` cu numele ramurii pe care ați creat-o anterior.
+înlocuind `numele-diviziile-tale` cu numele diviziile pe care ați creat-o anterior.
 
 <details>
 <summary> <strong>Dacă întâmpinați erori în timpul încărcării, apăsați aici:</strong> </summary>
@@ -114,7 +114,7 @@ Acum trimiteți cererea de tragere.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Trimiteți cererea de tragere" />
 
-În curând, voi integra toate modificările dvs. în ramura principală a acestui proiect. Veți primi o notificare prin e-mail odată ce modificările vor fi integrate.
+În curând, voi integra toate modificările dvs. în diviziunea principală a acestui proiect. Veți primi o notificare prin e-mail odată ce modificările vor fi integrate.
 
 ## Unde să mergeți de aici?
 
