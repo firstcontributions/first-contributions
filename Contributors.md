@@ -4197,6 +4197,7 @@ guanj65
 = (Paul Brennan) (https://https://github.com/PaulEdwardBrennan)
 - [YuChen Den] (https://github.com/AbnerTeng)
 - [Rodrigo Mattos] (https://github.com/Rodrigomfab88)
+- [dampc] (https://github.com/drepc)
 - [Júlia Yoshida](https://github.com/juliaryoshida/)
 - [Dimitrios Tikvinas] (YEAHHHHHHHHH BUDDYYYYYYYYYYYYY)
 - [Mihir Lad] (Maverick)
