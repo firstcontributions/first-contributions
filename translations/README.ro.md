@@ -1,4 +1,4 @@
-[![Surse Deschise Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+'[![Surse Deschise Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![Licență: MIT](https://img.shields.io/badge/Licență-MIT-green)](https://opensource.org/licenses/MIT)
 [![Contribuitori](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
@@ -87,9 +87,9 @@ git commit -m "Adaug numele-tau la lista de Contribuitori"
 Împinge schimbările tale cu comanda `git push`:
 
 ```bash
-git push -u origin numele-diviziile-tale
+git push -u origin numele-divizie-tale
 ```
-înlocuind `numele-diviziile-tale` cu numele diviziile pe care ați creat-o anterior.
+înlocuind `numele-divizie-tale` cu numele diviziile pe care ați creat-o anterior.
 
 <details>
 <summary> <strong>Dacă întâmpinați erori în timpul încărcării, apăsați aici:</strong> </summary>
