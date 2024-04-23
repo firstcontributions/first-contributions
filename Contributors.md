@@ -114,6 +114,7 @@ wobuxinnihuiwuliaodeduwanwodemingzi
 - [Tomy Roy](https://github.com/tomyroydotcom/)
 - [ODragonborn](https://github.com/JoaoODragonborn)
 - [Daniel S](https://github.com/MomentusCritisae)
+- [UmaidMalik](https://github.com/UmaidMalik)
 - [Ahmed Salim ](https://github.com/amedsalim)
 - [Stuart Mills](https://github.com/bitsbard/)
 - [Martin Bohorquez](https://github.com/martinbohorquez/)
