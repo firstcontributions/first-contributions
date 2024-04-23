@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Kshitij Ijari
 - Srushti Sachdev
 - Aamish Ahmad Beg
@@ -4254,3 +4254,4 @@ guanj65
 - [spageektti](https://github.com/spageektti)
 - [chenshiwei-io](https://github.com/chenshiwei-io)
 - [Andrea-Latorre](https://github.com/latorreandrea)
+- [MarshmelloRice](https://github.com/MarshmelloRice/)
