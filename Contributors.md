@@ -13,6 +13,7 @@
 - [Bandhan Majumder](https://github.com/bandhan-majumder)
 - [CJ Young](https://github.com/cj-young)
 - [kobamkode](https://github.com/kobamkode)
+- [Arnav Surve](https://github.com/arnavsurve)
 - [AbhishekYashSingh](https://github.com/AbhishekYashSingh)
 - [Danny](https://github.com/BigBoyBrains)
 - [ThomasHallstrom](https://github.com/THallstrom)
