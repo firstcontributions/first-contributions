@@ -21,6 +21,7 @@
 - [Karla Esquivel](https://github.com/karlycaramelo)
 - [Pandakil1er](https://github.com/Pandakil1er)
 - [Anusha Suresh VM](https://github.com/Anusha-Suresh-VM)
+- [Victor Pineda V](https://github.com/vnktop23)
 - [Pierce Chin](https://github.com/Pchin5isl33t)
 - [Santosh Shebannavar](https://github.com/shebannavar)
 - [Reisa Prasaptaraya](https://github.com/reisap)
