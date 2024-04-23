@@ -3,6 +3,7 @@
 - Srushti Sachdev
 - Aamish Ahmad Beg
 - Jack Hunter
+- [Ridampreet](https://github.com/ridampreet)
 - [Adeboye Famurewa](https://github.com/fadarboye) 😀 I was here.
 - [Ayush Prateek Rai](https://github.com/ayushrai-bhau)
 - [Mashhoor Ahdal](https://github.com/mashhoorahdal)
