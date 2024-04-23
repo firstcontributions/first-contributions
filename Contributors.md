@@ -14,6 +14,7 @@
 - [CJ Young](https://github.com/cj-young)
 - [kobamkode](https://github.com/kobamkode)
 - [Arnav Surve](https://github.com/arnavsurve)
+- [Netanel Krotovich](https://github.com/krotonet)
 - [Jose Chacon](https://github.com/JoseChaconUrias)
 - [AbhishekYashSingh](https://github.com/AbhishekYashSingh)
 - [Danny](https://github.com/BigBoyBrains)
