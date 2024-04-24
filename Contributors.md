@@ -417,6 +417,7 @@ Kayla Barton
 - [Beloise Huffstutler](https://github.com/fullStackRacc)
 - [CollapsingStar](https://github.com/CollapsingStar)
 - [William Alvarez](https://github.com/williamalvarezdev)
+- [Steven Herrera](https://github.com/Steven-Herrera)
 - [Juan Pedro Martin](https://github.com/jmartinn)
 - [Nebojsa Pavlovic](https://github.com/Nele82)
 - [Mohammad Dahamshi](https://github.com/mdahamshi)
