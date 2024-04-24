@@ -8,6 +8,7 @@
 - [ku1d33p](https://github.com/ku1d33p)
 - [Ridampreet](https://github.com/ridampreet)
 - [Rachelle Buske](https://github.com/rachelle-dbuske)
+- [Eunice Afuye](https://github.com/euniceafuye)
 - [Adeboye Famurewa](https://github.com/fadarboye) 😀 I was here.
 - [Juan Carlos Mondalgo Tapia](https://github.com/Jmond544) ✨ I was here too.
 -[Liwei](https://github.com/Liwei254)
