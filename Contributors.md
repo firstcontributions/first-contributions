@@ -369,6 +369,7 @@ Kayla Barton
 - [Aravinth](https://github.com/theAravinthM) -> Exploring Open Source 🎉
 -  Vincent
 - Tim J II
+-Vertechs
 -[Prathamesh Pawar](https://github.com/Prathameshppawar)
 - [<a href="https://github.com/ShreyasNandanwar"><b>Shreyas Nandanwar<b></a>]
 - [AnthonyUPF](https://github.com/AnthonyUPF)
