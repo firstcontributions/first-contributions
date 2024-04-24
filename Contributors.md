@@ -6,6 +6,7 @@
 - Jack Hunter
 - Arjun K
 - [ku1d33p](https://github.com/ku1d33p)
+- [Dev DXS](https://github.com/Divyanshu-DXS)
 - [Ridampreet](https://github.com/ridampreet)
 - [Rachelle Buske](https://github.com/rachelle-dbuske)
 - [Eunice Afuye](https://github.com/euniceafuye)
