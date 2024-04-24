@@ -80,6 +80,7 @@
 - [MariaCassandra]
 - [Santiago Enciso] (https://github.com/Dogeon0)
 - [Leeuwin Ririnui](https://github.com/loubxby)
+- [Berryywise](https://github.com/berryywise)
 -[Likith K G](https://github.com/KGLikith)
 - [Abdurahman Mahammedsied](https://github.com/amirasabdu)
 - [Thar Sein Oo](https://github.com/tharseinooMM)
