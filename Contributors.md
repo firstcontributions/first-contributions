@@ -2575,6 +2575,7 @@ Dante Sanchez
 - [allaert](https://github.com/allaert/)
 - [Tin](https://github.com/Tincando)
 - [Krishna](https://github.com/Krishna01work)
+- [Kamau Mbugua](https://github.com/kk-mbugua)
 - [Uriel](https://github.com/urieltfk)
 - [Saddam](https://github.com/saddam-sde)
 - [Lorraine](https://github.com/WambiruL)
