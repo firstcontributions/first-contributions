@@ -17,6 +17,7 @@
 - [KPN](https://github.com/ComputerPhoneNaing)
 - [Vernell C.](https://github.com/VCGithubCode) 🎸⭐️
 - [TZH](https://github.com/ThawZin1804)
+- [Alex Holliday](https://github.com/popnfresh234)
 - [Alex Perez](https://github.com/alexperez45) :p
 - [Bandhan Majumder](https://github.com/bandhan-majumder)
 - [CJ Young](https://github.com/cj-young)
