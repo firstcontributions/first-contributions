@@ -4,6 +4,7 @@
 - Srushti Sachdev
 - Aamish Ahmad Beg
 - Jack Hunter
+- [ku1d33p](https://github.com/ku1d33p)
 - [Ridampreet](https://github.com/ridampreet)
 - [Rachelle Buske](https://github.com/rachelle-dbuske)
 - [Adeboye Famurewa](https://github.com/fadarboye) 😀 I was here.
