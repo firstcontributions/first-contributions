@@ -19,6 +19,7 @@
 - [TZH](https://github.com/ThawZin1804)
 - [Alex Perez](https://github.com/alexperez45) :p
 - [Bandhan Majumder](https://github.com/bandhan-majumder)
+- [Ali Rohanizadeh](https://github.com/alirohanizadeh)
 - [CJ Young](https://github.com/cj-young)
 - [kobamkode](https://github.com/kobamkode)
 - [Arnav Surve](https://github.com/arnavsurve)
