@@ -35,6 +35,7 @@
 - [Reisa Prasaptaraya](https://github.com/reisap)
 - [Ninad Agashe](https://github.com/mr-ollivander)
 - [KaladinB4](https://github.com/KaladinB4)
+- [Musa Yusuf Magoban] (https://github.com/Magoban)
 - [Tanya Sorenson](https://github.com/TanyaSorenson)
 - [Skylar](https://github.com/0522skylar)
 - [saradifranco](https://github.com/saradifranco)
