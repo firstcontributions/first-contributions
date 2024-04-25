@@ -64,6 +64,7 @@
 - [Sebastian Obando](https://github.com/sebas2002cr)
 - [Emanuele Merveille .G](https://github.com/Merveille94)
 - [Daniel Diaz](https://github.com/danieldiaz7)
+- [Roger 124587](https://github.com/ayushrai-bhau)
 - [Ankit Saxena](https://github.com/ankit282k)
 - [Matt Palmer](https://github.com/this-is-matt)
 - [mr-xcode](https://github.com/mr-xcode)
