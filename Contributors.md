@@ -1820,6 +1820,7 @@ Romeu Leite
 - [Abhishek Sharma](https://github.com/Abhisheksharmao)
 - [Nayana N M](https://github.com/Nayana62)
 - Kim Finical
+- [Charlie Eikås](https://github.com/TheKingChu)
 - [Jediah](https://github.com/jediahjireh)
 - [Ayan Ansar](https://github.com/Ayan-Ansar)
 -deepika
