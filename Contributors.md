@@ -2446,6 +2446,7 @@ Dante Sanchez
 - [Namit Saxena](https://github.com/oddball1123)
 - [atomic-soul](https://github.com/atomic-soul)
 - [Abhinav](https://github.com/malteezy)
+- [Andy Nguyen](https://github.com/AndyVuong201)
 - [David Cao](https://github.com/dave-cao)
 - [Abijith L J]
 - [suhny]
