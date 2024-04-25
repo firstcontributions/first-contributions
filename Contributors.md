@@ -2183,6 +2183,7 @@ Dante Sanchez
 - [CHONG JI XUAN]
 - [Avijit Tripathi](https://github.com/avitripathi15)
 - [andrewyo44]
+- manato-takahashi
 - [Fexxix](https://github.com/Fexxix/first-contributions.git)
 - [James E.]
 - [Arnav Gupta] -[Inthiyaz](https://github.com/S-gif-eng)
