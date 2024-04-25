@@ -9,6 +9,7 @@
 - [ku1d33p](https://github.com/ku1d33p)
 - [Bigmancozmo](https://github.com/Bigmancozmo)
 - [Dev DXS](https://github.com/Divyanshu-DXS)
+- [Gitstar-OC](https://github.com/Gitstar-OC)
 - [Ridampreet](https://github.com/ridampreet)
 - [Rachelle Buske](https://github.com/rachelle-dbuske)
 - [Eunice Afuye](https://github.com/euniceafuye)
