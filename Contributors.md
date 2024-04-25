@@ -28,6 +28,7 @@
 - [Ali Rohanizadeh](https://github.com/alirohanizadeh)
 - [CJ Young](https://github.com/cj-young)
 - [kobamkode](https://github.com/kobamkode)
+- [Aleena Vals Kurian] (https://github.com/AleenaVals)
 - [Arnav Surve](https://github.com/arnavsurve)
 - [Netanel Krotovich](https://github.com/krotonet)
 - [Jose Chacon](https://github.com/JoseChaconUrias)
@@ -61,6 +62,7 @@
 - [Bishal Khadka](https://github.com/bkhadka2)
 - [Bishal Khadka](https://github.com/htoohtooag)
 - [Mihir Bhansali](https://github.com/mihir254)
+- [Aleena Vals Kurian]
 - [Cannon Hutcheson]
 - [Sourav Bera](https://github.com/souravq)
 - [Richard Castellano](https://github.com/RichardCastellano)
