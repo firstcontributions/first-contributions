@@ -18,7 +18,8 @@
 -[Trevor Atkins](https://github.com/tatkins20)
 - [Adeboye Famurewa](https://github.com/fadarboye) 😀 I was here.
 - [Juan Carlos Mondalgo Tapia](https://github.com/Jmond544) ✨ I was here too.
-- Abdurhman Fayad. Me too :) 
+- Abdurhman Fayad. Me too :)
+- [Charles Cox](https://github.com/charles-cox)
 - [Sarah J.] (https://github.com/huntydhino)
 -[Liwei](https://github.com/Liwei254)
 - [Ayush Prateek Rai](https://github.com/ayushrai-bhau)
