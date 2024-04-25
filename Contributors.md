@@ -1,4 +1,5 @@
 # Contributors
+- [Maneesha Gunawardhana (mGunawardhana💀)](https://github.com/mGunawardhana)
 - [Ali Zaghloul(Rubric)](https://github.com/rubr1c)
 - Kshitij Ijari
 - Srushti Sachdev
