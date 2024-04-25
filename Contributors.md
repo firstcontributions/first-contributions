@@ -326,6 +326,7 @@ Kayla Barton
 - [Michael Dillinger](https://github.com/mpdillingerOSU)
 - [Fento](https://github.com/F3nto)
 - Daniel S.
+- goodgoodstudy,daydayup
 - [Alex M] (https://github.com/alexmerino13)
 - [Lance Giles] (https://github.com/lancemgiles)
 - [Adilbh](https://github.com/Adil-bh)
