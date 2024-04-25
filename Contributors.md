@@ -3,6 +3,7 @@
 - [Ali Zaghloul(Rubric)](https://github.com/rubr1c)
 - Kshitij Ijari
 - Srushti Sachdev
+- TiPa7 (https://github.com/TiPa7) 
 - Aamish Ahmad Beg
 - Jack Hunter
 - Arjun K
