@@ -2856,6 +2856,7 @@ Philip Ambattu
 - [Anirudha Patil](https://github.com/AnirudhaPatil-1)
 - [Titouan Baron](https://github.com/HowlyBlood)
 - [Andres Felipe Pizo Luligo](https://github.com/AndresFelipe077)
+- [Wixiey](https://github.com/Wixieyy)
 - [hennrique](https://github.com/hennique)
 - [Tyler Nielsen](https://github.com/SnailDragon)
 - [Mack Osborne](https://github.com/mackosborne)
