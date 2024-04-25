@@ -74,6 +74,7 @@
 - [TKO(https://github.com/2-lazyyyy)
 - Kaat
 - Yi Wu
+- dianzu-intellij
 - [Abhinav](https://github.com/Abhinav1326)
 - [Jordan K](https://marinersjk00)
 - [Asaad Shaikh](https://github.com/scramerr)
