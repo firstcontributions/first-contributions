@@ -100,6 +100,7 @@
 - [Chanin L](https://github.com/chaninlaw)
 - Chiara Curgu
 - [MariaCassandra]
+- [MatiasFernandez] (https://github.com/MFernandez0992)
 - [Santiago Enciso] (https://github.com/Dogeon0)
 - [Leeuwin Ririnui](https://github.com/loubxby)
 - [Berryywise](https://github.com/berryywise)
