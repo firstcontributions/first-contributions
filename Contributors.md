@@ -2883,6 +2883,7 @@ Philip Ambattu
 - [Antonio Paulos](https://github.com/antoniolpaulos)
 - [Deepaprakash K](https://github.com/averagestud)
 - [WADA Yusuke](https://github.com/wxy-zzz)
+- [sh5ed](https://github.com/sh5ed)
 - [Kartik](https://github.com/Kartik1932)
 - [Bhargav](https://github.com/bhargav2550)
 - [Not4sure](https://github.com/Not4sure)
@@ -2915,7 +2916,6 @@ Philip Ambattu
 - [Paul Ragsac](https://github.com/Chifuuyu)
 - [Amaury Morot](https://github.com/MorotAmaury)
 - [y.k]
-sh5ed
 - [Ivlyth](https://github.com/MythRen)
 - [Nguyễn ĝức Khải](https://github.com/KhaiNguyenDuc)
 - [Nick Alben](https://github.com/NAlb-23)
