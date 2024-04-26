@@ -2401,6 +2401,7 @@ Dante Sanchez
 - [Sab3ha](https://github.com/Sab3ha)
 - [Emma](https://github.com)
 - [Shengjie Yu]
+- [Annabel Simpson]
 - [HosamEldeen Reda](https://github.com/hosamr)
 - [Nishar Miya](https://github.com/miyannishar)
 - [Ogunleye](https://github.com/ogunleye0720)
