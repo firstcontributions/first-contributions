@@ -6,6 +6,7 @@
 - Aamish Ahmad Beg
 - Jack Hunter
 - Arjun K
+- [Gourav](https://github.com/Gourav830)
 - [ku1d33p](https://github.com/ku1d33p)
 - [Bigmancozmo](https://github.com/Bigmancozmo)
 - [Dev DXS](https://github.com/Divyanshu-DXS)
