@@ -4321,6 +4321,7 @@ guanj65
 - [Microwavedd](https://github.com/microwavedd)
 - [Dennis X](https://github.com/dtx319)
 - [George Zabakhidze](https://github.com/GiorgiZabakhidze)
+- [Sudeep Patel] (https://github.com/devsudeep)
 - [nobu5chi](https://github.com/nobu5chi)
 - [iefnaug](https://github.com/iefnaug)
 - [Sourav Barua](https://github.com/souravb)
