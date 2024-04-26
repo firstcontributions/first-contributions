@@ -247,6 +247,7 @@ git add Contributors.md# Contributors
 Sam Barns
 - [moddingforreal](https://github.com/moddingforreal)
 - [Shane Ludwig] (https://github.com/FoopyPoopy)
+- [Coder Court] (https://github.com/codercourt)
 - [Masaki Nishi] (https://github.com/MasakiNishi)
 - [Vedashree D] (https://github.com/VedashreeD)
 - [Alexander Maina](https://github.com/Alekiie)
