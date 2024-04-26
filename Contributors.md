@@ -467,6 +467,7 @@ Pereira
 - [Likheet Shetty](https://github.com/Likheet)
 - [Le-Vaughn Roper](https://github.com/laroper)
 - [Wiafe Boakye Eddie](https://github.com/xs-eddie)
+- Kevin Gilchrest
 - [Marcelo Muszalski] (https://github.com/marcelomusza)
 - [Akshar Kalathiya](https://github.com/Akshar062)
 - [Christian Reyes](https://github.com/PrintRat6962)
