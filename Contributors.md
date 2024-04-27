@@ -20,6 +20,7 @@
 - [Rachelle Buske](https://github.com/rachelle-dbuske)
 - [Eunice Afuye](https://github.com/euniceafuye)
 -[Trevor Atkins](https://github.com/tatkins20)
+- [SinghAstra](https://github.com/SinghAstra).
 - [Adeboye Famurewa](https://github.com/fadarboye) 😀 I was here.
 - [Juan Carlos Mondalgo Tapia](https://github.com/Jmond544) ✨ I was here too.
 - Ritik
