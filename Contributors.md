@@ -25,6 +25,7 @@
 - Ritik
 - Abdurhman Fayad. Me too :) 
 - CircuitsToAIM says HI
+- 5ecurealf (https://github.com/5ecurealf)
 - [Sarah J.] (https://github.com/huntydhino)
 -[Liwei](https://github.com/Liwei254)
 - [Ayush Prateek Rai](https://github.com/ayushrai-bhau)
