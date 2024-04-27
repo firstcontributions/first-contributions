@@ -1790,6 +1790,7 @@ Gyanendra Thakur
 - [Natnael Hailu](https://github.com/natnaelhailu)
 - [Adam Robson](https://github.com/Adam-Robson) 🧶
 - [Thomas Ulrich](https://github.com/TomUlrich)
+- [Takuya Yanase](https://github.com/takuyaOOR)
 - [Sarvesh Bachute](https://github.com/sarry8901)
 - [Ala Gowtham Siva Kumar](https://github.com/gowtham-2oo5) 
 - [Swapnilkumar Dwivedi](https://github.com/swappy-2003)
