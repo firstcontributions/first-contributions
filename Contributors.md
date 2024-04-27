@@ -1524,6 +1524,7 @@ Jasmine
 - [kpgomez](https://github.com/kpgomez)
 - [shine]
 - [Jordan](https://github.com/JordanRobo)
+- [Oluwatosin](https://github.com/oluwatos94)
 - [rohanbrohan]
 - [Lauranthalassa](https://github.com/Talassha)
 - [Kothari.S] (https://github.com/effaf/)
