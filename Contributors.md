@@ -421,6 +421,7 @@ Kayla Barton
 - [Prerak Singh Sangwan](https://github.com/Prerak1310)
 - [Vanisha Gupta](https://github.com/V-anisha)
 - Ray Wu
+- Bhavik Patel
   Neeraj Kumar
 - [KMC](https://github.com/kaungmyatcho)
 - [MichelMulato](https://github.com/MichelMulatoo)
