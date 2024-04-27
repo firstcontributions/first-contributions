@@ -1,4 +1,9 @@
-[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)![Uploading monochrome_horizontal.svg…]()
+![verical](https://github.com/firstcontributions/first-contributions/assets/153979569/97960d23-5b9c-4670-a829-8ed886b14a5a)
+![monochrome_vertical](https://github.com/firstcontributions/first-contributions/assets/153979569/4947cd17-153b-44e0-a25f-7ba21145a72c)
+![monochrome_vertical](https://github.com/firstcontributions/first-contributions/assets/153979569/ffbf113e-30fb-4f22-ba17-cc95a19624ed)
+![vertical](https://github.com/firstcontributions/first-contributions/assets/153979569/0f50cfdb-bf03-4c5c-828e-336c389f5816)
+
 [<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
