@@ -4337,5 +4337,6 @@ guanj65
 - [Devender Butani](https://github.com/devenderbutani21/)
 - [MaiDinhVinh] (https://github.com/MaiDinhVinh)
 - [yukitakah](https://github.com/yukitakah)
+- [jon denk](https://github.com/heckaimpervious)
 utthamr
 - [Evan Roche]
