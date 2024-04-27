@@ -1,4 +1,5 @@
 # Contributors
+- Tanishq was here.
 - [Ayoub Laaoufi](https://github.com/aylaaoufi) :D I was pleased to meet you.
 - Luferox paso por aqui
 - [Maneesha Gunawardhana (mGunawardhana💀)](https://github.com/mGunawardhana)
