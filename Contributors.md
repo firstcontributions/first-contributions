@@ -9,6 +9,7 @@
 - Aamish Ahmad Beg
 - Jack Hunter
 - Arjun K
+- [4UGU5T](https://github.com/4UGU5T1001):Nice to meet ya'll
 - Eggie
 - [ku1d33p](https://github.com/ku1d33p)
 - [Bigmancozmo](https://github.com/Bigmancozmo)
