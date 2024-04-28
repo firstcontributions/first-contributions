@@ -119,6 +119,7 @@ Abhinav Jain
 - [prajjwal] (https://github.com/prajjwaljaiswal)
 - [Darrel Chang](https://github.com/darrelchang03)
 - [Chanin L](https://github.com/chaninlaw)
+- [JhamilMar](https://github.com/JhamilMar)
 - Chiara Curgu
 - [MariaCassandra]
 - [MatiasFernandez] (https://github.com/MFernandez0992)
