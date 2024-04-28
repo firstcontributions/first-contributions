@@ -1,6 +1,7 @@
 # Contributors
 - Tanishq was here.
 - [Ayoub Laaoufi](https://github.com/aylaaoufi) :D I was pleased to meet you.
+- [Harsh Suthar](https://github.com/10234567Z)
 - Luferox paso por aqui
 - [Maneesha Gunawardhana (mGunawardhana💀)](https://github.com/mGunawardhana)
 - [Ali Zaghloul(Rubric)](https://github.com/rubr1c)
@@ -20,8 +21,10 @@
 - [Ridampreet](https://github.com/ridampreet)
 - [Saidou Monta](https://github.com/Saidou25)
 - [Rachelle Buske](https://github.com/rachelle-dbuske)
+- [Vedant Balpande](https://github.com/vedant-35)
 - [Eunice Afuye](https://github.com/euniceafuye)
 -[Trevor Atkins](https://github.com/tatkins20)
+- [Jerri Tan](https://github.com/jerritan727)
 - [SinghAstra](https://github.com/SinghAstra).
 - [Adeboye Famurewa](https://github.com/fadarboye) 😀 I was here.
 - [Juan Carlos Mondalgo Tapia](https://github.com/Jmond544) ✨ I was here too.
@@ -30,6 +33,8 @@
 - Raghav Sharma (https://github.com/some1uknow)
 - Abdurhman Fayad. Me too :) 
 - CircuitsToAIM says HI
+Abhinav Jain
+- [Lía Rosales](https://twitter.com/LiaRosales25)
 - 5ecurealf (https://github.com/5ecurealf)
 - [Sarah J.] (https://github.com/huntydhino)
 -[Liwei](https://github.com/Liwei254)
@@ -62,6 +67,7 @@
 - [Victor Pineda V](https://github.com/vnktop23)
 - [Pierce Chin](https://github.com/Pchin5isl33t)
 - [Santosh Shebannavar](https://github.com/shebannavar)
+- [Kidobop](github.com/kidobop)
 - [Reisa Prasaptaraya](https://github.com/reisap)
 - [Ninad Agashe](https://github.com/mr-ollivander)
 - [KaladinB4](https://github.com/KaladinB4)
@@ -2148,6 +2154,7 @@ Dante Sanchez
 - [Mike Zeg](https://github.com/MikeZeg) 👋
 - [George Fam](https://github.com/George-Fam)
 - [Jm Delas Alas](https://github.com/letandconst)
+- [Monopavo](https://github.com/Monopavo)
 - [Iliyan Galabov](https://github.com/iliyan-pigeon)
 - [Shishir Chulliyil](https://github.com/shishirchulliyil)
 - [iriidium](https://github.com/iridiium)
@@ -2706,6 +2713,7 @@ Philip Ambattu
 - [Nilreboot](https://github.com/NilReboot/)
 - [UntoldGam](HTTPS://github.com/UntoldGam)
 - [bananapretzel](https://github.com/bananapretzel)
+- [Tshidiso Mahlos](https://github.com/Hiccupfish)
 - [Siddharth Vasu](https://github.com/sidvasu)
 - [cweitong](https://github.com/cwt0213)
   [Myo Afolabi](https://github.com/myoeverblazin)
@@ -4316,6 +4324,7 @@ guanj65
 - [ASD271](https://github.com/ASD271)
 - [lime21312] (https://github.com/lime21312)
 - [saikumar]
+- [bergsj] (https://github.com/bergsj)
 - [Siddarth Sangavi](https://github.com/Siddarthsangavi)
 - [Daniele Messina](https://github.com/MessinaDev)
 - [rysya] (https://github.com/rysya2000)
@@ -4327,6 +4336,7 @@ guanj65
 - [Nielsen](https://github.com/Nielsenprambudi)
 - [Prajwal Dhatwalia](https://github.com/dhatwalia)
 - [Rudy Im] Thank you for this project! * My first contribution *
+- [Mohamed Halith S] (https://github.com/MohamedHalith001)
 - [thanujah] (https://github.com/ThanuH)
 - [ksaisuman](https://github.com/ksaisuman)
 - [hiroaki404](https://github.com/hiroaki404)
@@ -4356,3 +4366,4 @@ utthamr
 - [Evan Roche]
 - [lava114514](https://github.com/lava114514)
 - [Ouhssini](https://github.com/Ouhssini)
+- [Jose Islava](https://github.com/Izzythegreatx)
