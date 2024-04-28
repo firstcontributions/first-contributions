@@ -4321,6 +4321,7 @@ guanj65
 - [ASD271](https://github.com/ASD271)
 - [lime21312] (https://github.com/lime21312)
 - [saikumar]
+- [bergsj] (https://github.com/bergsj)
 - [Siddarth Sangavi](https://github.com/Siddarthsangavi)
 - [Daniele Messina](https://github.com/MessinaDev)
 - [rysya] (https://github.com/rysya2000)
