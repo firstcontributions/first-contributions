@@ -2709,6 +2709,7 @@ Philip Ambattu
 - [Nilreboot](https://github.com/NilReboot/)
 - [UntoldGam](HTTPS://github.com/UntoldGam)
 - [bananapretzel](https://github.com/bananapretzel)
+- [Tshidiso Mahlos](https://github.com/Hiccupfish)
 - [Siddharth Vasu](https://github.com/sidvasu)
 - [cweitong](https://github.com/cwt0213)
   [Myo Afolabi](https://github.com/myoeverblazin)
