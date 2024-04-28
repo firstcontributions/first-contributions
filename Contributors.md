@@ -5,6 +5,7 @@
 - Luferox paso por aqui
 - [Maneesha Gunawardhana (mGunawardhana💀)](https://github.com/mGunawardhana)
 - [Ali Zaghloul(Rubric)](https://github.com/rubr1c)
+- [Cheng Yui Wang](https://github.com/Cywus98213)
 - Kshitij Ijari
 - Srushti Sachdev
 - TiPa7 (https://github.com/TiPa7) 
