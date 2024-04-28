@@ -24,6 +24,7 @@
 - [Vedant Balpande](https://github.com/vedant-35)
 - [Eunice Afuye](https://github.com/euniceafuye)
 -[Trevor Atkins](https://github.com/tatkins20)
+- [Jerri Tan](https://github.com/jerritan727)
 - [SinghAstra](https://github.com/SinghAstra).
 - [Adeboye Famurewa](https://github.com/fadarboye) 😀 I was here.
 - [Juan Carlos Mondalgo Tapia](https://github.com/Jmond544) ✨ I was here too.
