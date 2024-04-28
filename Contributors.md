@@ -66,6 +66,7 @@ Abhinav Jain
 - [Victor Pineda V](https://github.com/vnktop23)
 - [Pierce Chin](https://github.com/Pchin5isl33t)
 - [Santosh Shebannavar](https://github.com/shebannavar)
+- [Kidobop](github.com/kidobop)
 - [Reisa Prasaptaraya](https://github.com/reisap)
 - [Ninad Agashe](https://github.com/mr-ollivander)
 - [KaladinB4](https://github.com/KaladinB4)
