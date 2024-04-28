@@ -5,6 +5,7 @@
 - Luferox paso por aqui
 - [Maneesha Gunawardhana (mGunawardhana💀)](https://github.com/mGunawardhana)
 - [Ali Zaghloul(Rubric)](https://github.com/rubr1c)
+okkkkkkk
 - Kshitij Ijari
 - Srushti Sachdev
 - TiPa7 (https://github.com/TiPa7) 
@@ -663,6 +664,7 @@ weissbrotjaeger
 - [Jair Landeros](https://github.com/JairLanderos)
 - [Venkatesh Jamge](https://github.com/venkateshjamge)
 - CJ
+[Chloey]https://github.com/KittDu contributions make us better
 - [Manon Jacquin](https://github.com/manonja)
 - [Ravi Bhatia](https://github.com/suryanz)
 - [Nwachukwu Michael](https://github.com/Michael-Nwachukwu)
