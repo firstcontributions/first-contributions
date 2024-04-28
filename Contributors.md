@@ -20,7 +20,7 @@
 - [Ridampreet](https://github.com/ridampreet)
 - [Saidou Monta](https://github.com/Saidou25)
 - [Rachelle Buske](https://github.com/rachelle-dbuske)
--[Vedant Balpande](https://github.com/vedant-35)
+- [Vedant Balpande](https://github.com/vedant-35)
 - [Eunice Afuye](https://github.com/euniceafuye)
 -[Trevor Atkins](https://github.com/tatkins20)
 - [SinghAstra](https://github.com/SinghAstra).
