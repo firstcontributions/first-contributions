@@ -1287,6 +1287,7 @@ something...changed
 - [Roman Bukovskyi](https://github.com/BukovskyiRoman)
 - [Javier Baez] (https://github.com/Vlorrk)
 - [test learn]
+- [Ignacio Soler](https://github.com/ignaciojsoler)
 - [Shubhjeet Paul](https://github.com/shubh0924)
 - Midhun Mukundan
 -  [Ignacio Garcia](https://github.com/Archana550)
