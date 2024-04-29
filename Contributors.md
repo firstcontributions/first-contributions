@@ -7,6 +7,7 @@
 - [Ali Zaghloul(Rubric)](https://github.com/rubr1c)
 - [Cheng Yui Wang](https://github.com/Cywus98213)
 - Kshitij Ijari
+- S Prathima Singh
 - Srushti Sachdev
 - TiPa7 (https://github.com/TiPa7) 
 - Aamish Ahmad Beg
