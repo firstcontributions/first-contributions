@@ -7,6 +7,7 @@
 - [Harsh Suthar](https://github.com/10234567Z)
 - [Aby George](https://github.com/AbyG1)
 - Luferox paso por aqui
+- [Anand Suthar](https://github.com/ad956) 👋
 - [Maneesha Gunawardhana (mGunawardhana💀)](https://github.com/mGunawardhana)
 - [Ali Zaghloul(Rubric)](https://github.com/rubr1c)
 - [Cheng Yui Wang](https://github.com/Cywus98213)
