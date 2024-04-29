@@ -408,6 +408,7 @@ Kayla Barton
 - [Jason Zelmanovich](https://github.com/JasonZelmanovich)
 - [Chad Holst](https://github.com/HolstCh)
 - [Benjamin Lane] (https://github.com/UnseemlyDuck) 
+- [Chris Reed] (https://github.com/WebDevByCR)
 - [ash-tise](https://github.com/ash-tise)
 - [Dennis Witnauer](https://github.com/witnauer)
 - [Will](https://github.com/WillTheCodeWork)
