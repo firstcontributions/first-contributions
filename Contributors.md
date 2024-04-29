@@ -1,4 +1,5 @@
 # Contributors
+- [Yogesh Rathod](https://github.com/Yogesh9000)
 - Tanishq was here.
 - [Ayoub Laaoufi](https://github.com/aylaaoufi) :D I was pleased to meet you.
 - [Harsh Suthar](https://github.com/10234567Z)
