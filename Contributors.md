@@ -758,6 +758,7 @@ Hannah Sung
 - Henry Christiani
 - [Nimrod Kabiru](https://github.com/nimuragz)
 - [MuhammadNurHakimi] (https://github.com/nurhakimi97) i'm going to be the best developer in the world
+- [Salman Guled] (https://www.linkedin.com/in/salmanguled/) Nice To Meet Y'all
  [111703012](https://github.com/caijinghong1468)
  [pentagonpie](https://github.com/pentagonpie)
 - [Praneeth Gourla] (https://github.com/praneethgourla18)
@@ -774,6 +775,7 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
 -[Harsh] i made some changes
 -[Sarwat Jabeen](https://github.com/sarwatj)
 -[Nico Rugani](https://github.com/NicoRugani) learning How to contribute
+-[Salman Guled] (https://www.linkedin.com/in/salmanguled/) Nice To Meet Y'all
  [Sujas Aggarwal🍔](https://github.com/Sujas-Aggarwal)
 -[Cynthia Aoko](https://github.com/aoko-code/) It's great to be here
 - [Jazer Salazar](https://github.com/jazersalazar/) [LinkedIn](linkedin.com/in/jazersalazar/)
