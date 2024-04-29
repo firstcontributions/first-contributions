@@ -26,6 +26,7 @@
 - [Abhilov23](https://github.com/abhilov23)
 - [Bigmancozmo](https://github.com/Bigmancozmo)
 - [Dev DXS](https://github.com/Divyanshu-DXS)
+- [Dan Siegelman](https://github.com/dansiegelman)
 - [Gitstar-OC](https://github.com/Gitstar-OC)
 - [Ridampreet](https://github.com/ridampreet)
 - [Saidou Monta](https://github.com/Saidou25)
