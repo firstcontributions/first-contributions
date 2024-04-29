@@ -2219,6 +2219,7 @@ Dante Sanchez
 -[Arpit Goswami](https://github.com/arpitgoswami)
 -[Aniruddha Adak](https://github.com/aniruddhaadak80)
 -[Su Su San](https://github.com/sususan16)
+-[Redde](https://github.com/Redde17)
 -[YM]
 - Gustav Atmel
 - Davide Coppola
