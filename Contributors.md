@@ -1,5 +1,6 @@
 # Contributors
 - [Vikranth Udandarao](https://github.com/Vikranth3140) Let's connect and collaborate :)
+- [Pratik Gurjar] (https://github.com/pratikgurjar)
 - [Saquib Ansari](https://github.com/md-saquib)
 - [Yogesh Rathod](https://github.com/Yogesh9000)
 - Tanishq was here.
