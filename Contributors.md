@@ -1191,6 +1191,7 @@ guanj65
 - [Bryan](https://github.com/BryanLoooo)
 - [Afolarin](https://github.com/Fola-rin)
 - [Zach](https://github.com/zfast25)
+- [Mayhem Haze](https://github.com/MayhemHaze) 57 61 73 20 54 68 65 72 65
 - [ayobami-akande](https://github.com/adeyemimichael)
 - [Stanley Agu](https://github.com/aguchux)
 - [Sri](https://github.com/srinifun)
