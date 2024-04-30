@@ -4423,3 +4423,4 @@ utthamr
 -[Ashio245] (https://github.com/Ashio245)
 - [Emmanuel Maunga] (https://github.com/maunga-et)
 - [Avijit Manna](https://github.com/manna-avijit)
+- [Michael Jones](https://github.com/yardquit)
