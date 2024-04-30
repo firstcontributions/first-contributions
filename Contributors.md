@@ -3416,6 +3416,7 @@ LadegbayeStella)
 - [h3n5](https://github.com/h3n5)
 - [Kaif Zaffer](https://github.com/Kaifzaffer)
 - [Jyoti Manglani] (https://github.com/jyotimanglani)
+- W Kunene
 - [Mostafa Nabieh] (https://github.com/MostafaNabiehMourad)
 - [AbhinavSivanandhan] (https://github.com/abhinavsivanandhan)
 - [Nuh Al-Sharafi](https://github.com/N-alsharafi)
