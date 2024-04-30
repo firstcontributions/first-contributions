@@ -16,6 +16,7 @@
 - [Cheng Yui Wang](https://github.com/Cywus98213)
 - Kshitij Ijari
 - S Prathima Singh
+- Austin W
 - Srushti Sachdev
 - Dawdlergit
 - TiPa7 (https://github.com/TiPa7) 
