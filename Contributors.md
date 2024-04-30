@@ -4416,3 +4416,4 @@ utthamr
 - [Violet Fu](https://github.com/iamziqian)
 - [Yuji Teshima](https://github.com/yujiteshima)
 -[Ashio245] (https://github.com/Ashio245)
+- [Emmanuel Maunga] (https://github.com/maunga-et)
