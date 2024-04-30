@@ -258,6 +258,7 @@ git add Contributors.md# Contributors
 - [MadawaSamarathunga](https://github.com/MadawaSamarathunga)
 - [bbkxm](https://github.com/bbkxm)
 - [Paul Adams]
+- Dantejrih
 - [Holden Chen](https://github.com/holden-chen)
 - [Devi Sivakumar](https://github.com/devi-sivakumar-ds)
 - [zisuu](https://github.com/zisuu)
