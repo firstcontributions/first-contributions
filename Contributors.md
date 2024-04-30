@@ -36,7 +36,7 @@
 - [Dev DXS](https://github.com/Divyanshu-DXS)
 - [Dan Siegelman](https://github.com/dansiegelman)
 - [Gitstar-OC](https://github.com/Gitstar-OC)
-- [Ridampreet](https://github.com/ridampreet)
+- [aungkanphyo](https://github.com/Aungkanphyo)
 - [Saidou Monta](https://github.com/Saidou25)
 - [Rachelle Buske](https://github.com/rachelle-dbuske)
 - [Vedant Balpande](https://github.com/vedant-35)
