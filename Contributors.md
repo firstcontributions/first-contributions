@@ -50,6 +50,7 @@
 - CircuitsToAIM says HI
 Abhinav Jain
 - [Lía Rosales](https://twitter.com/LiaRosales25)
+- [Shreya Mohanty](https://github.com/shrymhty)
 - 5ecurealf (https://github.com/5ecurealf)
 - [Sarah J.] (https://github.com/huntydhino)
 -[Liwei](https://github.com/Liwei254)
