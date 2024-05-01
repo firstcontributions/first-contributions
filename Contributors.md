@@ -5,6 +5,7 @@
 - Tanishq was here.
 - [Ayoub Laaoufi](https://github.com/aylaaoufi) :D I was pleased to meet you.
 - [Harsh Suthar](https://github.com/10234567Z)
+- André (andrebd) was here and said: "Hello everybody!"
 - [Aby George](https://github.com/AbyG1)
 - Luferox paso por aqui
 - [Anand Suthar](https://github.com/ad956) 👋
