@@ -44,6 +44,7 @@
 - [Gitstar-OC](https://github.com/Gitstar-OC)
 - [Ridampreet](https://github.com/ridampreet)
 - [Saidou Monta](https://github.com/Saidou25)
+- [Cyril Baah](https://github.com/CyrilBaah)
 - [Rachelle Buske](https://github.com/rachelle-dbuske)
 - [Vedant Balpande](https://github.com/vedant-35)
 - [Eunice Afuye](https://github.com/euniceafuye)
