@@ -102,7 +102,7 @@ Zastąp `<twoje-imie>` swoim imieniem i nazwiskiem.
 Wyślij swoje zmiany komendą `git push`:
 
 ```
-git push origin <add-twoje-imie>
+git push -u origin <add-twoje-imie>
 ```
 
 Zastąp `<add-twoje-imie>` nazwą gałęzi, którą wcześniej utworzyłeś.
