@@ -67,7 +67,7 @@ git switch -c add-adam-kowalski
 
 Otwórz plik `Contributors.md` w edytorze tekstu. Musisz znać Markdown, lekki język znaczników. Tu masz <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">ściągawkę</a> gdzie znajdziesz informację jak go używać.
 
-Dodaj następującą linię na końcu `Contributors.md`
+Dodaj następującą linię w `Contributors.md`
 
 ```
 [Twoje imię](https://github.com/Twoja-nazwa-użytkownika)
@@ -78,6 +78,8 @@ Przykład:
 ```
 [John Doe](https://github.com/johndoe)
 ```
+
+Nie dodawaj jej na początku ani na końcu pliku. Umieść ją w dowolnym miejscu pomiędzy.
 
 Upewnij się że nie ma spacji pomiędzy `](`. Zapisz plik i następnie go zamknij.
 
