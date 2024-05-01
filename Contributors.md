@@ -4452,3 +4452,4 @@ utthamr
 - [Chidili Chijioke](https://github.com/chidilichijioke)
 - [Zayed Ramadan Rahmat](https://github.com/zayedrmdn)
 - [Mihir Naik](https://github.com/TheMihirNaik)
+- [Mihir C Naik](https://github.com/TheMihirNaik)
