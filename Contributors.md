@@ -568,6 +568,7 @@ Pereira
 - [Ruhan Saad Dave](https://github.com/Ruhan-Saad-Dave)
 - Ruth
 - Dianna Pham
+- John Burton
 - Himanshu
 - [Geoffrey Muchugi Maina] (https://github.com/M-Maina)
 - [faiza liyaqat] (https://github.com/faizaliyaqat)
