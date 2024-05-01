@@ -1,6 +1,8 @@
 # Contributors
+- [Jamie Quinlan](https://github.com/StringsIV)
 - [Shobhit Aggarwal](https://github.com/Shobhit0109)
 - [Vikranth Udandarao](https://github.com/Vikranth3140) Let's connect and collaborate :)
+- gouree gurjar 123
 - [Akash Jain] (https://github.com/aka8code) Here I am.
 - [Pratik Gurjar] (https://github.com/pratikgurjar)
 - [Saquib Ansari](https://github.com/md-saquib)
@@ -10,6 +12,7 @@
 - [Harsh Suthar](https://github.com/10234567Z)
 - [Aby George](https://github.com/AbyG1)
 - Luferox paso por aqui
+- [Dastonbek Yakubov](https://github.com/D-Yakubov)
 - [Anand Suthar](https://github.com/ad956) 👋
 - [Maneesha Gunawardhana (mGunawardhana💀)](https://github.com/mGunawardhana)
 - [Ali Zaghloul(Rubric)](https://github.com/rubr1c)
@@ -33,6 +36,7 @@
 - Rohit Bajaj - Its a new world!
 - [ku1d33p](https://github.com/ku1d33p)
 - [UrielReyes](https://github.com/UriReyes)
+- [Asif Iqbal](https://github.com/asifficial)
 - [Abhilov23](https://github.com/abhilov23)
 - [Bigmancozmo](https://github.com/Bigmancozmo)
 - [Dev DXS](https://github.com/Divyanshu-DXS)
@@ -118,6 +122,7 @@ Abhinav Jain
 - [Bishal Khadka](https://github.com/htoohtooag)
 - [Mihir Bhansali](https://github.com/mihir254)
 - [Cannon Hutcheson]
+- [charmi1128](https://github.com/charmi1128)
 - [Sourav Bera](https://github.com/souravq)
 - [Richard Castellano](https://github.com/RichardCastellano)
 - [Sebastian Obando](https://github.com/sebas2002cr)
@@ -1913,6 +1918,7 @@ Romeu Leite
 - [Abhijith Subash](https://github.com/abhijith-07) Happy to contribute more to open source
 - [Muneer Alam](https://github.com/muneer320)
 - [Kurumi30](https://github.com/Kurumi30)
+- [Shanky17](https://github.com/shanky17)
 - [Jay Paun](https://github.com/Jay2704)
 - [Cameron Johnson](https://github.com/will-fork-for-food)
 - [Ignacio Elìas Rosner](https://github.com/roznerx)
@@ -4442,3 +4448,5 @@ utthamr
 - [Michael Jones](https://github.com/yardquit)
 - [Sasi Praveen Chandrasekaran](https://github.com/sasipraveen39)
 - [Aban Khan](https://github.com/abkhan505)
+- [Chidili Chijioke](https://github.com/chidilichijioke)
+- [Zayed Ramadan Rahmat](https://github.com/zayedrmdn)
