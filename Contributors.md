@@ -35,6 +35,7 @@
 - Rohit Bajaj - Its a new world!
 - [ku1d33p](https://github.com/ku1d33p)
 - [UrielReyes](https://github.com/UriReyes)
+- [Asif Iqbal](https://github.com/asifficial)
 - [Abhilov23](https://github.com/abhilov23)
 - [Bigmancozmo](https://github.com/Bigmancozmo)
 - [Dev DXS](https://github.com/Divyanshu-DXS)
