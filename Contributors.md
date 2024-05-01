@@ -399,6 +399,7 @@ Kayla Barton
 - [Ritushree Dutta](https://github.com/rits1309)
 - [MahditS] (https://github.com/MahditS)
 - [u3b] (https://github.com/u3b)
+- [dsocol](https://github.com/dsocol)
 - [JerrySagwa] (https://github.com/JerrySagwa)
 - [Kushal Bhandari] (https://github.com/kushalb-dev)
 - [Harsh Sonkar](https://github.com/dynamicHarsh)
@@ -666,6 +667,7 @@ Pereira
 - [Sophia Iroegbu](https://github.com/Sophyia7) || [Twitter](https://twitter.com/sophiairoegbu_)
 - [Siddharth Garg](https://github.com/Siddu24294)
 - [Matthew F](https://github.com/mfecco)
+- [Atharva Domale](https://github.com/AtharvaDomale)
 - [Akash Verma](https://github.com/akashthemosh)
 - [Aswathy J](https://github.com/purple-black)
 - [Vansh Gupta](https://github.com/goyalvansh4)
@@ -2564,6 +2566,7 @@ Dante Sanchez
 - [Calen Shirfield](https://github.com/CalenShirfield)
 - [Aditya Patel](https://github.com/thepateladitya)
 - [Ling Xiao](https://github.com/lingxiao14122)
+- [Azkaar Rauf Khatib](https://github.com/AzkaarRauf) First of many contributions 🤩 
 - [Pongking](https://github.com/Pongking)
 - [Sravan K Suresh](https://github.com/SRAVAN-IITB)
 - [Zelimir Stojcevic](https://github.com/ZelimirS)
@@ -2666,6 +2669,7 @@ Dante Sanchez
 - [Kundan Kumar](https://github.com/kundank02)
 - [matthew]
 - [SilencioPz](https://github.com/SilencioPz)
+- [mkeithx](https://github.com/mkeithX)
 - [MertKy](https://github.com/MertKy/)
 - [ArcXeon](https://github.com/ArcXeon/)
 - [allaert](https://github.com/allaert/)
