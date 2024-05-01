@@ -49,16 +49,16 @@ Wejdź do folderu ze swoim repozytorium (jeżeli jeszcze tam nie jesteś):
 cd first-contributions
 ```
 
-Teraz utwórz nową gałąź wykonując polecenie `git checkout`:
+Teraz utwórz nową gałąź wykonując polecenie `git switch`:
 
 ```
-git checkout -b <add-twoje-imie>
+git switch -c <add-twoje-imie>
 ```
 
 Przykład
 
 ```
-git checkout -b add-adam-kowalski
+git switch -c add-adam-kowalski
 ```
 
 (Nazwa gałęzi nie musi zawierać słowa _add_, ale dobrze jest je dodać z racji tego, że celem tej gałęzi jest dodanie twojego imienia do listy.)
