@@ -22,6 +22,7 @@
 - Kshitij Ijari
 - S Prathima Singh
 - Austin W
+- Kacie Blanchet
 - Srushti Sachdev
 - Dawdlergit
 - TiPa7 (https://github.com/TiPa7) 
