@@ -75,6 +75,7 @@ Abhinav Jain
 - [kobamkode](https://github.com/kobamkode)
 - [Arnav Surve](https://github.com/arnavsurve)
 - [Netanel Krotovich](https://github.com/krotonet)
+- [Gaurav Khurana](https://github.com/gaurav-khurana)
 - [Jose Chacon](https://github.com/JoseChaconUrias)
 - [AbhishekYashSingh](https://github.com/AbhishekYashSingh)
 - [Danny](https://github.com/BigBoyBrains)
