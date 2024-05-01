@@ -2471,6 +2471,7 @@ Dante Sanchez
 - [Ray Yu](https://github.com/RayYu-ChunleiYu)
 - [Yuki Kitayama](https://github.com/yukikitayama)
 - [Tal Shaked](https://github.com/talshaked-git)
+- [Zafir](https://github.com/zafsire)
 - [Ron](https://github.com/ronashkenazy)
 - [Aryan Mehta](https://github.com/aryan-mehta)
 - [Mayank Bhatnagar](https://github.com/maxH4k5s)
