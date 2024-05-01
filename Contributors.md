@@ -13,6 +13,7 @@
 - [Aby George](https://github.com/AbyG1)
 - Luferox paso por aqui
 - [Dastonbek Yakubov](https://github.com/D-Yakubov)
+- Amin Atef
 - [Anand Suthar](https://github.com/ad956) 👋
 - [Maneesha Gunawardhana (mGunawardhana💀)](https://github.com/mGunawardhana)
 - [Ali Zaghloul(Rubric)](https://github.com/rubr1c)
