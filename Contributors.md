@@ -21,6 +21,7 @@
 - [Cheng Yui Wang](https://github.com/Cywus98213)
 - Kshitij Ijari
 - S Prathima Singh
+- T methot 
 - Austin W
 - Kacie Blanchet
 - Srushti Sachdev
