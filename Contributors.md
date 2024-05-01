@@ -98,6 +98,7 @@ Abhinav Jain
 - [Reisa Prasaptaraya](https://github.com/reisap)
 - [Ninad Agashe](https://github.com/mr-ollivander)
 - [KaladinB4](https://github.com/KaladinB4)
+- [filipjaruska](https://github.com/filipjaruska)
 - [Musa Yusuf Magoban] (https://github.com/Magoban)
 - [Dylan Wicker] (https://github.com/pardoner)
 - [Tanya Sorenson](https://github.com/TanyaSorenson)
