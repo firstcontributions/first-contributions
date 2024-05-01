@@ -1802,6 +1802,7 @@ Gyanendra Thakur
 - [Eiheir] (https://github.com/ebininin)
 - [Maria Carrera](https://github.com/MarieCourse)
 - [Aditya Mitra](https://github.com/mitras-git)
+- [Anthony Ladon](https://github.com/AnthonyLadon)
 - [EbertonKM](https://github.com/EbertonKM)
 - [Aiman](https://github.com/PX201)
 - [Debapriya sengupta](https://github.com/DebapriyaSengupta28)
