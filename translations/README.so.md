@@ -17,7 +17,7 @@ Mashruucan ujeedadiisu waxey tahay in la fududeyo iyo in la hago kuwa bilawga ah
 Kala qeybi kaydkan adigoo gujinayo badhanka kore ee page-ka kuna qoran "Fork".
 Tani waxay ciwaankaga kudhax abuuri doontaa koobiga kaydkan
 
-## Koobbi (clone) kaydka 
+## Koobbi (clone) kaydka
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
@@ -29,7 +29,7 @@ Waxaad furta "Teminal" ka kadib waxad ku qorta amarada git-ka soo socda:
 git clone "url-ka aad hadda soo koobbiyeysay"
 ```
 
-Iyadoo "url-ka aad hadda soo koobbiyeysay"  (oo aan lahayn calaamadaha xigashada) uu yahay url-ka ama linkiga kaydkaan. waxaad dib usoo eegtaa talaabooyinkii hore si aad u hesho url-ka 
+Iyadoo "url-ka aad hadda soo koobbiyeysay"  (oo aan lahayn calaamadaha xigashada) uu yahay url-ka ama linkiga kaydkaan. waxaad dib usoo eegtaa talaabooyinkii hore si aad u hesho url-ka
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -65,9 +65,9 @@ Waajib ma ahan inaad ku darto ereyga `kudar` magaca laanta, laakin waxey uyeleys
 
 ## Samee isbedelada lagama maarmaanka ah oo gali (commit) Github isbedeladaas
 
-Hadda ku fur faylka `Contributors.md` tafatiraha qoraalka, 
+Hadda ku fur faylka `Contributors.md` tafatiraha qoraalka,
 Waa inaad aqoon u leedahay "Markdown", oo ah luqad calaamadeyn ah oo fudud. Fiiri [xaashida qishka](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) si aad u barato sida loo isticmaalo.
-Ku dar magacaada, Hana ku darin bilowga ama dhamaadka faylka. Kudar meel kasta oo u dhaxaysa. 
+Ku dar magacaada, Hana ku darin bilowga ama dhamaadka faylka. Kudar meel kasta oo u dhaxaysa.
 
 ```
 - [Magacaada](https://github.com/magaca-isticmalaha)
@@ -149,6 +149,6 @@ Hadda aan kuu bilowno ka qayb qaadashada mashaariicda kale. Waxaan soo diyaarina
 
 ## Casharrada Isticmaalka Aalado Kale
 
-| <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |

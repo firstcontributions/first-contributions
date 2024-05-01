@@ -5,7 +5,7 @@
 
 # Primeiras Contribuições
 
-| <img alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width="40"> | Visual Studio Code |
+| <img alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width="40"> | Visual Studio Code |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
 
 É difícil, sempre é difícil quando fazemos alguma coisa pela primeira vez. Especialmente quando você está colaborando, cometendo erros, não é nada confortável. No entanto, o open source é totalmente sobre colaboração e trabalho em equipe. Por isso, nós queremos simplificar a maneira como os novos colaboradores de código aberto aprendem e contribuem pela primeira vez.
