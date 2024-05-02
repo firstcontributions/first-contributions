@@ -36,7 +36,8 @@
 - juan-est145
 - [Saba Azeem](https://github.com/SABA-AZEEM) 😎
 - [JDH121702](https://github.com/justinh121702)
- [Alaz Dogu](https://github.com/akbyk) peace out 
+- [Furyfree](https://github.com/Furyfree)
+- [Alaz Dogu](https://github.com/akbyk) peace out 
 - [4UGU5T](https://github.com/4UGU5T1001):Nice to meet ya'll
 - Eggie
 - Rohit Bajaj - Its a new world!
