@@ -67,6 +67,7 @@
 - Ritik
 - [Prajesh-S-K](https://github.com/Prajesh-S-K)
 - Raghav Sharma (https://github.com/some1uknow)
+- [Mike L](https://github.com/mlegard)
 - Abdurhman Fayad. Me too :) 
 - CircuitsToAIM says HI
 Abhinav Jain
