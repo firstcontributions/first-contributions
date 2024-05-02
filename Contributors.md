@@ -129,6 +129,7 @@ Abhinav Jain
 - [Cannon Hutcheson]
 - [charmi1128](https://github.com/charmi1128)
 - [Sourav Bera](https://github.com/souravq)
+- [Juan Jose](https://github.com/JuanJoseLL)
 - [Richard Castellano](https://github.com/RichardCastellano)
 - [Sebastian Obando](https://github.com/sebas2002cr)
 - [Emanuele Merveille .G](https://github.com/Merveille94)
