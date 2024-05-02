@@ -4443,6 +4443,7 @@ guanj65
 - [jon denk](https://github.com/heckaimpervious)
 - [pie0902](https://github.com/pie0902)
 utthamr
+- [Shaan Rehsi](https://github.com/shaanrxx)
 - [Evan Roche]
 -[Joyel Sebastian](https://github.com/joyelsebastian)
 - [lava114514](https://github.com/lava114514)
