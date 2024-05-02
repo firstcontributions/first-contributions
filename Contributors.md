@@ -1,5 +1,6 @@
 # Contributors
 - [Michael Jay](https://github.com/MJujh)
+- [Enis K](https://github.com/eniskastrati)
 - [Joumaico 🇵🇭](https://github.com/joumaico)
 - [Jamie Quinlan](https://github.com/StringsIV)
 - [Shobhit Aggarwal](https://github.com/Shobhit0109)
