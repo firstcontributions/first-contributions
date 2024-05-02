@@ -86,6 +86,7 @@ Abhinav Jain
 - [Bandhan Majumder](https://github.com/bandhan-majumder)
 - [Ali Rohanizadeh](https://github.com/alirohanizadeh)
 - [Umberto Campopiano] (https://github.com/Derivatadifdix)
+- [Xiomara](https://github.com/xiomaraR)
 - [CJ Young](https://github.com/cj-young)
 - [kobamkode](https://github.com/kobamkode)
 - [Arnav Surve](https://github.com/arnavsurve)
