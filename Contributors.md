@@ -1168,6 +1168,7 @@ guanj65
 - [Nathan Curry] (https://github.com/nathancurry)
 - [Parzi68] (https://github.com/Parzi68)
 - [Dylan Ugianskis] (https://github.com/Dylan-Ugianskis)
+- [Vinicius Gabriel] (https://github.com/viniciuspx)
 - [Andrew Kiprotich Kimwetich] (https://github.com/Skipper-kenya)
 - [Mo11ov] (https://github.com/Mo11ov)
 -[Thabith] (https://github.com/ThabithThajudeen)
