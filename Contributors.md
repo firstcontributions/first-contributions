@@ -21,6 +21,7 @@
 - [Maneesha Gunawardhana (mGunawardhana💀)](https://github.com/mGunawardhana)
 - [Ali Zaghloul(Rubric)](https://github.com/rubr1c)
 - [Cheng Yui Wang](https://github.com/Cywus98213)
+- [angelo dedaldino](https://github.com/angelodedaldino)
 - Jay B - bodenmethod
 - Kshitij Ijari
 - S Prathima Singh
