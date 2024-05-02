@@ -111,6 +111,7 @@ Abhinav Jain
 - [Musa Yusuf Magoban] (https://github.com/Magoban)
 - [Dylan Wicker] (https://github.com/pardoner)
 - [Tanya Sorenson](https://github.com/TanyaSorenson)
+- [Oliver Chen](https://github.com/oliver0616)
 - [Skylar](https://github.com/0522skylar)
 - [saradifranco](https://github.com/saradifranco)
 - [Deep panchal](https://github.com/WiryFountain728)
