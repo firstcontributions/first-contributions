@@ -3156,6 +3156,7 @@ sh5ed
 - [Rafael Victal](https://github.com/rafaelvictal)
 - [Aditya Nakadi](https://github.com/aditya-2010)
 - [Naufal Alief](https://github.com/naufalalief)
+- [Lucas V](https://github.com/lucasviola1)
 - [Praveen](https://github.com/gigatesseract)
 - [prabhanshu](https://github.com/Prabhanshu-dev)
 - [Subhasree M](https://github.com/Subhasree1506)
