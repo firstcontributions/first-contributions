@@ -30,6 +30,7 @@
 - Austin W
 - Kacie Blanchet
 - Srushti Sachdev
+- [P Karanja](https://github.com/karapk) 
 - Dawdlergit
 - TiPa7 (https://github.com/TiPa7) 
 - Aamish Ahmad Beg
