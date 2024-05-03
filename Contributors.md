@@ -29,6 +29,7 @@
 - S Prathima Singh
 - T methot 
 - Austin W
+- [Osama Rabe3](https://github.com/OsamaRab3)
 - Kacie Blanchet
 - Srushti Sachdev
 - [P Karanja](https://github.com/karapk) 
