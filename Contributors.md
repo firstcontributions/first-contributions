@@ -4310,6 +4310,7 @@ guanj65
 - [Guri-dev](https://github.com/guri-dev)
 - [lin-and](https://github.com/Lindyyy)
 - [taiyou1116](https://github.com/taiyou1116)
+- [James Duran](https://github.com/azrealjames)
 - [eno314](https://github.com/eno314)
 - [macocci7](https://github.com/macocci7)
 - [jjorda](https://github.com/jjorda)
@@ -4496,4 +4497,3 @@ utthamr
 - [ObiAU](https://github.com/ObiAU)
 - [Naveen KP](https://github.com/Navee-n)
 - [Charles Howard](https://github.com/Dagron78)
-
