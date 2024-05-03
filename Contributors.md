@@ -42,6 +42,7 @@
 - Arjun K
 - Tommy C
 - juan-est145
+- Muhammad Afaq Umar ([CodeTalker007](https://github.com/CodeTalker007))
 - [Saba Azeem](https://github.com/SABA-AZEEM) 😎
 - [JDH121702](https://github.com/justinh121702)
 - [Furyfree](https://github.com/Furyfree)
