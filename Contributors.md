@@ -6,7 +6,7 @@
 - [Shobhit Aggarwal](https://github.com/Shobhit0109)
 - [Vikranth Udandarao](https://github.com/Vikranth3140) Let's connect and collaborate :)
 - [Giro Morton](https://github.com/gm0rt4l) Here we go again!
-- [PMKT](https://github.com/PhoneMyatKt) 
+- [PhoneMyat](https://github.com/PhoneMyatKt) 
 
 - gouree gurjar 123
 - [Akash Jain] (https://github.com/aka8code) Here I am.
