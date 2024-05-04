@@ -31,6 +31,7 @@
 - Jay B - bodenmethod
 - Kshitij Ijari
 - S Prathima Singh
+- [Ndachj](https://github.com/ndachj) 🆒
 - T methot 
 - Austin W
 - [Osama Rabe3](https://github.com/OsamaRab3)
