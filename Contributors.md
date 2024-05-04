@@ -18,6 +18,7 @@
 - Droov was here https://github.com/yassir781
 - [Ayoub Laaoufi](https://github.com/aylaaoufi) :D I was pleased to meet you.
 - [Harsh Suthar](https://github.com/10234567Z)
+- [Shili Lin](https://github.com/shililin92)
 - [Aby George](https://github.com/AbyG1)
 - Luferox paso por aqui
 - [Mikkel Hebel](https://github.com/MikkelHebel)
