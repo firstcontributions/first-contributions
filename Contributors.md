@@ -63,6 +63,7 @@
 - [Dan Siegelman](https://github.com/dansiegelman)
 - [Gitstar-OC](https://github.com/Gitstar-OC)
 - [Ridampreet](https://github.com/ridampreet)
+- [RuxCastillo](https://github.com/RuxCastillo)
 - [Saidou Monta](https://github.com/Saidou25)
 - [Cyril Baah](https://github.com/CyrilBaah)
 - [Rachelle Buske](https://github.com/rachelle-dbuske)
