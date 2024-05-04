@@ -12,6 +12,7 @@
 - [Pratik Gurjar] (https://github.com/pratikgurjar)
 - [Saquib Ansari](https://github.com/md-saquib)
 - [Yogesh Rathod](https://github.com/Yogesh9000)
+- [Changsup Lee] (https://github.com/Chang9601)
 - Tanishq was here.
 - Droov was here https://github.com/yassir781
 - [Ayoub Laaoufi](https://github.com/aylaaoufi) :D I was pleased to meet you.
