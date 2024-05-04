@@ -4513,4 +4513,5 @@ utthamr
 - [Charles Howard](https://github.com/Dagron78)
 - [Janani B](https://github.com/Jananibalak)
 - [Sanjay Siddharth MJ](https://github.com/SanjaySiddharth)
+- [Surya Kapila](https://github.com/suryakapila)
 git stat
