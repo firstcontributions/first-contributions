@@ -135,6 +135,7 @@ Abhinav Jain
 - [Santosh Shebannavar](https://github.com/shebannavar)
 - [Kidobop](github.com/kidobop)
 - [Reisa Prasaptaraya](https://github.com/reisap)
+- [Siddharth Bajpai](https://github.com/sid-1337)
 - [Ninad Agashe](https://github.com/mr-ollivander)
 - [KaladinB4](https://github.com/KaladinB4)
 - [filipjaruska](https://github.com/filipjaruska)
