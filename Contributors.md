@@ -27,6 +27,7 @@
 - [Dastonbek Yakubov](https://github.com/D-Yakubov)
 [DevEliasKh](https://github.com/DevEliasKh)
 - [Anand Suthar](https://github.com/ad956) 👋
+- [Himangi Tripathy](https://github.com/H1mang1?tab=repositories)
 - [Maneesha Gunawardhana (mGunawardhana💀)](https://github.com/mGunawardhana)
 - [Papweer](https://github.com/Papweer)
 - [KZH](https://github.com/KyawZawHtet)
