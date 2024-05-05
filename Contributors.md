@@ -2051,7 +2051,7 @@ Romeu Leite
 - [Satyajit Patra] (https://github.com/SatyajitPatra06)
 - [Abishek S R] (https://github.com/Abishek0411)
 - [bharathkanchoju](https://github.com/bharathkanchoju) I'm passionate about cybersecurity.
-
+- [Eric Wilke](https://github.com/Hanimir-san) ACQUIRE ALL THE SKILL
 
 - [NIteshNaidu(Moonie)](https://github.com/Moon1Knight) Heya !! >.<
 - [Kyle O'Leary] (https://github.com/kyle-oleary)
