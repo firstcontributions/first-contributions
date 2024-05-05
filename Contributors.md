@@ -4531,4 +4531,5 @@ utthamr
 - [Surya Kapila](https://github.com/suryakapila)
 - [Yusuf Mirza Altay](https://github.com/ymirzaa)
 - [Alberto Raúl José](https://github.com/alberto-rj)
+- [Roi Solomon](https://github.com/roisol144)
 git stat
