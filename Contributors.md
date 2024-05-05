@@ -4537,4 +4537,5 @@ utthamr
 - [Yusuf Mirza Altay](https://github.com/ymirzaa)
 - [Alberto Raúl José](https://github.com/alberto-rj)
 - [Roi Solomon](https://github.com/roisol144)
+- [Colin Agnew](https://github.com/colin-agnew/)
 git stat
