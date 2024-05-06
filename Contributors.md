@@ -4,6 +4,7 @@
 - [Guy Pridan] (https://github.com/guypridan) :D
 - [Aditya] (https://github.com/Aditya41150) open source here i come
 - [Ajay Yadav](https://github.com/ATechAjay), contribute to this repo;)
+- Shane (https://github.com/ShaneTAdams)
 - [Athifal] (https://github.com/athifal) Lets go...
 - [Mayank Pal] (https://github.com/MayankP2100) Here starts my open-source journey!!
 - [Magdiel GV] (https://github.com/Magdiel-GVdz) I was here xd
