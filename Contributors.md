@@ -4544,4 +4544,5 @@ utthamr
 - [Alberto Raúl José](https://github.com/alberto-rj)
 - [Roi Solomon](https://github.com/roisol144)
 - [Colin Agnew](https://github.com/colin-agnew/)
+- [Sjoerd Molenaar](https://github.com/sjomo/)
 git stat
