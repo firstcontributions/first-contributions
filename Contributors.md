@@ -4419,6 +4419,7 @@ guanj65
 - [Mihir Lad] (Maverick)
 - [tutula](smooth operator)
 - [Dan Priest]
+- [Yuki]
 - [Albert Ngoudjou](https://github.com/angoudjou)
 - [Mike Wittenauer](https://github.com/mawittenauer)
 - [__Chisato__](https://github.com/chisato2233)
