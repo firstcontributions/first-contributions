@@ -4552,5 +4552,6 @@ utthamr
 - [Roi Solomon](https://github.com/roisol144)
 - [Colin Agnew](https://github.com/colin-agnew/)
 - [Sjoerd Molenaar](https://github.com/sjomo/)
+- [Sebastiaan Tromper](https://github.com/ST-ADA/)
 - [Floris Christiaansen](https://github.com/flori-s)
 git stat
