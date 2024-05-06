@@ -836,6 +836,7 @@ Hannah Sung
 - [Carson Evans](https://github.com/carson-evans) [LinkedIn](https://linkedin.com/in/carson-evans42)
 - [Jessica Huynh-Westfall](https://github.com/jessicatwes)[LinkedIn](https://www.linkedin.com/in/jessicahuynhwestfall/)
 - [Mohit Kumhar](https://github.com/mohitkumhar) [LinkedIn](www.linkedin.com/in/mohitkumhar)
+- [Mohit Kumhar](https://github.com/itz-mohit-014) [LinkedIn](http://linkedin.com/in/mohit487)
 - [Erick Mafra](https://github.com/Erick-Mafra/)
 - [Edgar Budaghyan](https://github.com/Budaghyan)
 - [Jennie](https://github.com/jennie-jd)
