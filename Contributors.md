@@ -1,5 +1,6 @@
 # Contributors
 - [Wesley] (https://github.com/WesleyJammer)
+- [Kasun Munasinghe](https://github.com/kuMunasinghe "Kasun Munasinghe"): I was here :-)
 - [Bas de Bruijn] (https://github.com/Bas0164) Lets go! :D
 - [Guy Pridan] (https://github.com/guypridan) :D
 - [Aditya] (https://github.com/Aditya41150) open source here i come
