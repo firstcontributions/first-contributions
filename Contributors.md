@@ -1,5 +1,6 @@
 # Contributors
 - [Wesley] (https://github.com/WesleyJammer)
+- [Kasun Munasinghe](https://github.com/kuMunasinghe "Kasun Munasinghe"): I was here :-)
 - [Bas de Bruijn] (https://github.com/Bas0164) Lets go! :D
 - [Guy Pridan] (https://github.com/guypridan) :D
 - [Aditya] (https://github.com/Aditya41150) open source here i come
@@ -20,6 +21,7 @@
 - gouree gurjar 123
 - [Akash Jain] (https://github.com/aka8code) Here I am.
 - [AtharvaSail11] (https://github.com/AtharvaSail11)
+v0idborne
 - [Pratik Gurjar] (https://github.com/pratikgurjar)
 - [Saquib Ansari](https://github.com/md-saquib)
 - [Stephen Blevins](https://github.com/sblevins-dev)
@@ -47,6 +49,7 @@
 - [KZH](https://github.com/KyawZawHtet)
 - [Ali Zaghloul(Rubric)](https://github.com/rubr1c)
 - [Cheng Yui Wang](https://github.com/Cywus98213)
+- [Najifa Anjum](https://github.com/NajifaAnjum)
 - [angelo dedaldino](https://github.com/angelodedaldino)
 - Mihir Mirchandani
 - Jay B - bodenmethod
@@ -4043,6 +4046,7 @@ LadegbayeStella)
 - [Trippin Sage] (https://github.com/trippinsage)
 - [Jonathan Armentor](https://github.com/jarmentor)
 - [Abulfasl Ahmadi](https://github.com/AbulfaslAhmadi)
+- [Falilou Khouma](https://github.com/227Faddi)
 - [Ahmad Maartmesrini](https://github.com/Ahmad-Maartmesrini)
 - [Piyaporn Puangprasert](https://github.com/Nan227)
 -[AvariceZhao](https://github.com/AvariceZhao)
@@ -4560,5 +4564,9 @@ utthamr
 - [Floris Christiaansen](https://github.com/flori-s)
 - [Peculia](https://github.com/peculiap1)
 - [Shubham Sahu](https://github.com/shubhcode92)
+<<<<<<< HEAD
 - [Jay Anton Roblico](https://github.com/saerdyey)
+=======
+- [Ashok Manoaharan](https://github.com/ashokm273)
+>>>>>>> b31f484a29eec5fd3123593db04a592030ff9976
 git stat
