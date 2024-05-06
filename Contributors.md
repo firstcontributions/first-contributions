@@ -1,4 +1,6 @@
 # Contributors
+- [Wesley] (https://github.com/WesleyJammer)
+- [Bas de Bruijn] (https://github.com/Bas0164) Lets go! :D
 - [Guy Pridan] (https://github.com/guypridan) :D
 - [Aditya] (https://github.com/Aditya41150) open source here i come
 - [Ajay Yadav](https://github.com/ATechAjay), contribute to this repo;)
@@ -4551,4 +4553,5 @@ utthamr
 - [Colin Agnew](https://github.com/colin-agnew/)
 - [Sjoerd Molenaar](https://github.com/sjomo/)
 - [Sebastiaan Tromper](https://github.com/ST-ADA/)
+- [Floris Christiaansen](https://github.com/flori-s)
 git stat
