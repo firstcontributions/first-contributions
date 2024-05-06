@@ -39,6 +39,7 @@
 - [Ali Zaghloul(Rubric)](https://github.com/rubr1c)
 - [Cheng Yui Wang](https://github.com/Cywus98213)
 - [angelo dedaldino](https://github.com/angelodedaldino)
+- Mihir Mirchandani
 - Jay B - bodenmethod
 - Kshitij Ijari
 - S Prathima Singh
