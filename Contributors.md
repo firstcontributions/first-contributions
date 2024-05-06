@@ -23,6 +23,7 @@
 - [Slava Longinov](https://github.com/sla363) Slava was here :-)
 - [Changsup Lee] (https://github.com/Chang9601)
 - Tanishq was here.
+- Archit Agarwal
 - [Niko Schlüter] (https://github.com/Nikoslr)
 - Droov was here https://github.com/yassir781
 - [Ayoub Laaoufi](https://github.com/aylaaoufi) :D I was pleased to meet you.
