@@ -4558,4 +4558,5 @@ utthamr
 - [Sebastiaan Tromper](https://github.com/ST-ADA/)
 - [Floris Christiaansen](https://github.com/flori-s)
 - [Peculia](https://github.com/peculiap1)
+- [Ashok Manoharan](https://github.com/ashokm273)
 git stat
