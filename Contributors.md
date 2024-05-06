@@ -1,4 +1,5 @@
 # Contributors
+- [Bas de Bruijn] (https://github.com/Bas0164) Lets go! :D
 - [Guy Pridan] (https://github.com/guypridan) :D
 - [Aditya] (https://github.com/Aditya41150) open source here i come
 - [Ajay Yadav](https://github.com/ATechAjay), contribute to this repo;)
