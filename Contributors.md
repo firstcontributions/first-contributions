@@ -21,6 +21,7 @@
 - [Yogesh Rathod](https://github.com/Yogesh9000)
 - [Changsup Lee] (https://github.com/Chang9601)
 - Tanishq was here.
+- [Niko Schlüter] (https://github.com/Nikoslr)
 - Droov was here https://github.com/yassir781
 - [Ayoub Laaoufi](https://github.com/aylaaoufi) :D I was pleased to meet you.
 - [Harsh Suthar](https://github.com/10234567Z)
