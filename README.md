@@ -140,6 +140,22 @@ For example:
 ```bash
 git switch -c add-alonzo-church
 ```
+### Branch Naming Guidelines
+
+When creating branches in this repository, please adhere to the following guidelines:
+
+- Use descriptive names that reflect the purpose or feature being worked on.
+- Avoid using special characters that may cause issues in different environments. These include:
+  - Whitespace
+  - Slash (/)
+  - Backslash (\)
+  - Tilde (~)
+  - Caret (^)
+  - Colon (:)
+  - Asterisk (*)
+  - Question mark (?)
+  - Angle brackets (<,>)
+  - Quotes (", ')
 
 ## Make necessary changes and commit those changes
 
