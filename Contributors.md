@@ -216,6 +216,7 @@ Abhinav Jain
 - Kaat
 - Yi Wu
 - dianzu-intellij
+[Aryan Yadav](https://github.com/aryanyaclav)
 - [Abhinav](https://github.com/Abhinav1326)
 - [Jordan K](https://marinersjk00)
 - [Asaad Shaikh](https://github.com/scramerr)
