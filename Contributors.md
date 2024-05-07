@@ -1,4 +1,5 @@
 # Contributors
+- [Farinde Reuben (SeniorCub)](https://github.com/SeniorCub)
 - [Yogesh kushwaha](https://github.com/Yogi1305)
 - [Marouane-Elgoumiri](https://github.com/Marouane-Elgoumiri)
 - [Ruhi-Khan] (https://github.com/Ruhi-Khan)
@@ -4590,4 +4591,3 @@ utthamr
 - [kinshuk-code-1729] (httsps:github.com/kinshuk-code-1729) : I was also here.... !!!!
 - [Katsu0424](https://github.com/Katsu0424/)
 - [Tom Koevoets](https://github.com/tomkoevoets)
-git stat
