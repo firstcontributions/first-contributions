@@ -11,6 +11,7 @@
 - [Guy Pridan] (https://github.com/guypridan) :D
 - Photon48 ;p
 - The Big Giro Bear was here!
+- [Isuru Adikaram](https://github.com/izuru775)
 - [Imran Hussain](https://github.com/full-StackNinja)
 - [Aditya] (https://github.com/Aditya41150) open source here i come
 - [Guille] (https://github.com/glopezpisani) Heya! Contributing here
@@ -1796,6 +1797,7 @@ Jasmine
 - [Vinit Jahagirdar](https://github.com/Vinit1909)
 - [Tyler Daw](https://github.com/TylerD1105)
 - [Brandon Munisur](https://github.com/Brandonmunisur)
+- [Rafael Vasconcelos](https://github.com/Rellik7)
 - [Jensen Coonradt](https://github.com/CapyBatman)
 - [DAKSH] (https://github.com/Daksh-codes)
 - [Andrew Zhou] (https://github.com/AndrewZhouMQ123)
@@ -4585,4 +4587,5 @@ utthamr
   [Shreya Sanjay](https://github.com/shreyyq)
 - [kinshuk-code-1729] (httsps:github.com/kinshuk-code-1729) : I was also here.... !!!!
 - [Katsu0424](https://github.com/Katsu0424/)
+- [Tom Koevoets](https://github.com/tomkoevoets)
 git stat
