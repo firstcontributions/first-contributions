@@ -4547,6 +4547,7 @@ utthamr
 - [Roland Jansen](https://github.com/roland-jansen)
 - [Sibongile Thanjekwayo](https://github.com/Sbosh11)
 - [Violet Fu](https://github.com/iamziqian)
+- [Bishal Sudarshan] (https://github.com/b1sh4l)
 - [Yuji Teshima](https://github.com/yujiteshima)
 -[Ashio245] (https://github.com/Ashio245)
 - [Emmanuel Maunga] (https://github.com/maunga-et)
