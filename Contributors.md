@@ -41,6 +41,7 @@ v0idborne
 -[Sujithk04] coderboy was here.. :)
 - Kaushal Gosavi
 - Tanishq was here.
+- Rajat Yadav (https://github.com/rajatya713)
 - Archit Agarwal
 - [Niko Schlüter] (https://github.com/Nikoslr)
 - Droov was here https://github.com/yassir781
@@ -134,7 +135,6 @@ Abhinav Jain
 - [Davide Menghini] (https://github.com/davidemenghini)
 - [Mashhoor Ahdal](https://github.com/mashhoorahdal)
 - [KPN](https://github.com/ComputerPhoneNaing)
-- [Vernell C.](https://github.com/VCGithubCode) 🎸⭐️
 - [TZH](https://github.com/ThawZin1804)
 - [Alex Holliday](https://github.com/popnfresh234)
 - [lofisky](https://github.com/lofisky) I was also here :DD
