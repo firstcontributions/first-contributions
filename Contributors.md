@@ -4,6 +4,7 @@
 - [Marouane-Elgoumiri](https://github.com/Marouane-Elgoumiri)
 - [Ruhi-Khan] (https://github.com/Ruhi-Khan)
 - [Arjun-us] (https://github.com/Arjunumesh11)
+- [Dellenoam](https://github.com/Dellenoam)
 - [Kunal Lal](https://github.com/NobleRex)
 - [Wesley] (https://github.com/WesleyJammer)
 - [Abhinav Patra](https://github.com/AbhinavPatra) (www.linkedin.com/in/abhinav-patra1st)
