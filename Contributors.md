@@ -14,6 +14,7 @@
 - [Guy Pridan] (https://github.com/guypridan) :D
 - Photon48 ;p
 - The Big Giro Bear was here!
+- [Nivedh G Krishnan](https://github.com/NIV27e) 
 - [Isuru Adikaram](https://github.com/izuru775)
 - [Imran Hussain](https://github.com/full-StackNinja)
 - [Aditya] (https://github.com/Aditya41150) open source here i come
