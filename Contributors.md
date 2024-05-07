@@ -4595,3 +4595,4 @@ utthamr
 - [Le Van Huong](https://github.com/lvhuong221)
 - [Jared Lawrence](https://github.com/jaredlawrence)
 git stat
+- [Hannah Bradfield](https://github.com/BradfieldH)
