@@ -9,7 +9,7 @@
 - Aamish Ahmad Beg
 - Jack Hunter
 - Arjun K
-- [Annabel Simpson](https://github.com/aSimpson02)
+- [Ann@bel Simpson](https://github.com/aSimpson02)
 - [ku1d33p](https://github.com/ku1d33p)
 - [Bigmancozmo](https://github.com/Bigmancozmo)
 - [Dev DXS](https://github.com/Divyanshu-DXS)
