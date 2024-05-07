@@ -62,6 +62,7 @@ v0idborne
 - [angelo dedaldino](https://github.com/angelodedaldino)
 - Mihir Mirchandani
 - Jay B - bodenmethod
+- Cathy 
 - Kshitij Ijari
 - S Prathima Singh
 - [Ndachj](https://github.com/ndachj) 🆒
