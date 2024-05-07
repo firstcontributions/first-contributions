@@ -4559,7 +4559,8 @@ utthamr
 - [Zayed Ramadan Rahmat](https://github.com/zayedrmdn)
 - [Mihir Naik](https://github.com/TheMihirNaik)
 - [Mihir C Naik](https://github.com/TheMihirNaik)
-- [Garrett Roberts](https://github.com/garrettmroberts)
+- [Chris Smith](https://github.com/CSmith3723)
+[Garrett Roberts](https://github.com/garrettmroberts)
 - [nbieb](https://github.com/nbieb)
 - [AlefRP](https://github.com/AlefRP)
 - [ObiAU](https://github.com/ObiAU)
@@ -4586,4 +4587,5 @@ utthamr
 - [kinshuk-code-1729] (httsps:github.com/kinshuk-code-1729) : I was also here.... !!!!
 - [Katsu0424](https://github.com/Katsu0424/)
 - [Tom Koevoets](https://github.com/tomkoevoets)
+- 
 git stat
