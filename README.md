@@ -147,7 +147,6 @@ When creating branches in this repository, please adhere to the following guidel
 - Use descriptive names that reflect the purpose or feature being worked on.
 - Avoid using special characters that may cause issues in different environments. These include:
   - Whitespace
-  - Slash (/)
   - Backslash (\)
   - Tilde (~)
   - Caret (^)
