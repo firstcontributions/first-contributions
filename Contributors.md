@@ -2,6 +2,7 @@
 - [Ruhi-Khan] (https://github.com/Ruhi-Khan)
 - [Wesley] (https://github.com/WesleyJammer)
 - [Kasun Munasinghe](https://github.com/kuMunasinghe "Kasun Munasinghe"): I was here :-)
+-[chinanagaraju](https://github.com/chinanagaraju/)
 - [Bas de Bruijn] (https://github.com/Bas0164) Lets go! :D
 - [Guy Pridan] (https://github.com/guypridan) :D
 - The Big Giro Bear was here!
