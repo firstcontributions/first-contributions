@@ -4593,4 +4593,5 @@ utthamr
 - [Katsu0424](https://github.com/Katsu0424/)
 - [Tom Koevoets](https://github.com/tomkoevoets)
 - [Le Van Huong](https://github.com/lvhuong221)
+- [Jared Lawrence](https://github.com/jaredlawrence)
 git stat
