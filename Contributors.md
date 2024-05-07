@@ -34,6 +34,7 @@ v0idborne
 - [Changsup Lee] (https://github.com/Chang9601)
 - [Clinton Gilly](https://github.com/Clinton-Gilly) 
 -[Sujithk04] coderboy was here.. :)
+- Kaushal Gosavi
 - Tanishq was here.
 - Archit Agarwal
 - [Niko Schlüter] (https://github.com/Nikoslr)
