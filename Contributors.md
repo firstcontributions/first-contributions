@@ -4582,4 +4582,5 @@ utthamr
 - [kellykiiru](https://github.com/kellykiiru)
   [Shreya Sanjay](https://github.com/shreyyq)
 - [kinshuk-code-1729] (httsps:github.com/kinshuk-code-1729) : I was also here.... !!!!
+- [Katsu0424](https://github.com/Katsu0424/)
 git stat
