@@ -1,5 +1,6 @@
 # Contributors
 - [Ruhi-Khan] (https://github.com/Ruhi-Khan)
+- [Kunal Lal](https://github.com/NobleRex)
 - [Wesley] (https://github.com/WesleyJammer)
 - [Kasun Munasinghe](https://github.com/kuMunasinghe "Kasun Munasinghe"): I was here :-)
 - [Bas de Bruijn] (https://github.com/Bas0164) Lets go! :D
