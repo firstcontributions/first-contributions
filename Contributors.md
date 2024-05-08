@@ -1,5 +1,5 @@
 # Contributors
-- [CleveR.](https://github.com/rekocleve)
+- [CleveR.](https://github.com/rekocleve) - Happy to help with anything =)
 - [Utkarsh verma](https://github.com/utkggjdu2a)
 - [Abdul Waheed](https://github.com/abdulwaheed76)
 - [Yogesh kushwaha](https://github.com/Yogi1305)
