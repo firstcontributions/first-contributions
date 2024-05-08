@@ -4629,4 +4629,5 @@ git stat
 - [bigtoblerones] (https://github.com/bigtoblerones)
 - [ Uma Kommula] (https://github.com/Uma-129/first-contributions.git) Excited to be a contributer.
 - [Artem Zapara](https://github.com/ArtemZapara)
-- [Jason Mok] (https://github.com/jasonmokk) : CS @ Vanderbilt University
+- [Jason Mok](https://github.com/jasonmokk) : CS @ Vanderbilt University
+
