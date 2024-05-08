@@ -36,6 +36,7 @@
 - [Shisojuice](https://github.com/Shisojuice)
 - [Badshah Ajminabanu](https://github.com/BadshahA1)
 - [Shobhit Aggarwal](https://github.com/Shobhit0109)
+- [Sajid Ali Paguthaniya](https://github.com/SajidAliP)
 - [Yashavsi Sharma] (https://github.com/Yashasvi213)
 - [Vikranth Udandarao](https://github.com/Vikranth3140) Let's connect and collaborate :)
 - [Giro Morton](https://github.com/gm0rt4l) Here we go again!
