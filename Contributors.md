@@ -84,6 +84,7 @@ v0idborne
 - [CarrumDraws](https://github.com/CarrumDraws)
 - Austin W
 - [Osama Rabe3](https://github.com/OsamaRab3)
+- [Emmanuel Aminu](https://github.com/darknuma)
 - Kacie Blanchet
 - Srushti Sachdev
 - [P Karanja](https://github.com/karapk) 
