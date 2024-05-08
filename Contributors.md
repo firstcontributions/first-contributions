@@ -4601,6 +4601,7 @@ utthamr
 - [Tom Koevoets](https://github.com/tomkoevoets)
 - [Le Van Huong](https://github.com/lvhuong221)
 - [Jared Lawrence](https://github.com/jaredlawrence)
+git stat
 - [Hannah Bradfield](https://github.com/BradfieldH)
 - [meda0719] (https://github.com/meda0719/)
 - [kumar1397] (https://github.com/kumar1397)
