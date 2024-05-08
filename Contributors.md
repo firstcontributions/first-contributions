@@ -8,6 +8,7 @@
 - [Arjun-us] (https://github.com/Arjunumesh11)
 - [Dellenoam](https://github.com/Dellenoam)
 - [Kunal Lal](https://github.com/NobleRex)
+- [Madhavi Peddireddy](https://github.com/madhavi-peddireddy)
 - [Wesley] (https://github.com/WesleyJammer)
 - [Min-yeong] (https://github.com/minyeong16)
 - [Abhinav Patra](https://github.com/AbhinavPatra) (www.linkedin.com/in/abhinav-patra1st)
