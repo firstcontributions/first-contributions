@@ -1,12 +1,18 @@
 # Contributors
+- [CleveR.](https://github.com/rekocleve) - Happy to help with anything =)
 - [Utkarsh verma](https://github.com/utkggjdu2a)
+- [Abdul Waheed](https://github.com/abdulwaheed76)
+- [Mohamed Ali](https://github.com/devbn3li)
 - [Yogesh kushwaha](https://github.com/Yogi1305)
-- [Marouane-Elgoumiri](https://github.com/Marouane-Elgoumiri)
+- [Marouane-Elgoumiri](https://github.com/Marouane-Elgoumiri) 
+- [Michal]
 - [Ruhi-Khan] (https://github.com/Ruhi-Khan)
 - [Arjun-us] (https://github.com/Arjunumesh11)
 - [Dellenoam](https://github.com/Dellenoam)
 - [Kunal Lal](https://github.com/NobleRex)
+- [Madhavi Peddireddy](https://github.com/madhavi-peddireddy)
 - [Wesley] (https://github.com/WesleyJammer)
+- [Min-yeong] (https://github.com/minyeong16)
 - [Abhinav Patra](https://github.com/AbhinavPatra) (www.linkedin.com/in/abhinav-patra1st)
 - [Kasun Munasinghe](https://github.com/kuMunasinghe "Kasun Munasinghe"): I was here :-)
 -[chinanagaraju](https://github.com/chinanagaraju/)
@@ -29,9 +35,13 @@
 - [ImtiyaazDev](https://github.com/ImtiyaazDev)
 - [Joumaico 🇵🇭](https://github.com/joumaico)
 - [Jamie Quinlan](https://github.com/StringsIV)
+- [Shisojuice](https://github.com/Shisojuice)
+- [Badshah Ajminabanu](https://github.com/BadshahA1)
 - [Shobhit Aggarwal](https://github.com/Shobhit0109)
+- [Sajid Ali Paguthaniya](https://github.com/SajidAliP)
 - [Yashavsi Sharma] (https://github.com/Yashasvi213)
 - [Vikranth Udandarao](https://github.com/Vikranth3140) Let's connect and collaborate :)
+- :shipit: [huuquyet](https://github.com/huuquyet) Hello World :earth_asia:
 - [Giro Morton](https://github.com/gm0rt4l) Here we go again!
 - gouree gurjar 123
 - [Akash Jain] (https://github.com/aka8code) Here I am.
@@ -77,6 +87,7 @@ v0idborne
 - [CarrumDraws](https://github.com/CarrumDraws)
 - Austin W
 - [Osama Rabe3](https://github.com/OsamaRab3)
+- [Emmanuel Aminu](https://github.com/darknuma)
 - Kacie Blanchet
 - Srushti Sachdev
 - [P Karanja](https://github.com/karapk) 
@@ -99,6 +110,7 @@ v0idborne
 - Eggie
 - [Nika Azarashvili](https://github.com/KRhapsody)
 - Rohit Bajaj - Its a new world!
+- [Tanmay Anand] Helloooooo
 - [ku1d33p](https://github.com/ku1d33p)
 - [UrielReyes](https://github.com/UriReyes)
 - [Krish Dave](https://github.com/KrishDave1)
@@ -200,6 +212,7 @@ Abhinav Jain
 - [Bishal Khadka](https://github.com/htoohtooag)
 - [Mihir Bhansali](https://github.com/mihir254)
 - [Cannon Hutcheson]
+- [Michal-Zbob]
 - [jzs-moreno]
 - [charmi1128](https://github.com/charmi1128)
 - [Sourav Bera](https://github.com/souravq)
@@ -806,6 +819,7 @@ weissbrotjaeger
 - Justin Blake
 igntius praise 
 - [satoshi nakamoto](https://en.wikipedia.org/wiki/Adam_Back)
+- [Akash Sharma](https://github.com/aakashsharma003):कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि।।
 - [RitikShukla](https://github.com/kalm-dev)
 - [Nada Ayesh](https://github.com/nadasuhailAyesh12)
 - [JKanaiya](https://github.com/JKanaiya)
@@ -2180,6 +2194,7 @@ Dante Sanchez
 - [Kati Saro](https://github.com/katisaro)
 - [Delton Hughes](https://github.com/dHughes97)
 - [Sixtus Agbo](https://github.com/sixtusagbo)
+- [Siddhesh Gawade](https://github.com/sid293)👋
 - [Huzaifa Azim](https://github.com/huzaifaazim0)
 - [Joanna McDonald](https://github.com/joannamcd)
 - [Tianna Lopes](https://github.com/TiannaLopes)
@@ -4592,6 +4607,7 @@ utthamr
 - [Peculia](https://github.com/peculiap1)
 - [Shubham Sahu](https://github.com/shubhcode92)
 - [Ashok Manoaharan](https://github.com/ashokm273)
+- [Trudeau Okech](https://github.com/TrudeauOkech)
 - [Aratras16](https://github.com/Aratras16)
 - [yutasasaki1219](https://github.com/YutaSasaki1219)
 - [kellykiiru](https://github.com/kellykiiru)
@@ -4605,3 +4621,6 @@ git stat
 - [Hannah Bradfield](https://github.com/BradfieldH)
 - [meda0719] (https://github.com/meda0719/)
 - [kumar1397](https://github.com/kumar1397)
+- [Dan13615] (https://github.com/Dan13615/)
+- [bigtoblerones] (https://github.com/bigtoblerones)
+- [ Uma Kommula] (https://github.com/Uma-129/first-contributions.git) Excited to be a contributer.
