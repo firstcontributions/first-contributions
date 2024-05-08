@@ -8,6 +8,7 @@
 - [Marouane-Elgoumiri](https://github.com/Marouane-Elgoumiri) 
 - [Michal]
 - [Ruhi-Khan] (https://github.com/Ruhi-Khan)
+- [Akanksha12-i] (https://github.com/Akanksha12-i)
 - [Arjun-us] (https://github.com/Arjunumesh11)
 - [Dellenoam](https://github.com/Dellenoam)
 - [Kunal Lal](https://github.com/NobleRex)
