@@ -1,10 +1,16 @@
 # Contributors
 - [CleveR.](https://github.com/rekocleve) - Happy to help with anything =)
+- [Jishnu J](https://github.com/JishnuJayaraj)
 - [Utkarsh verma](https://github.com/utkggjdu2a)
 - [Abdul Waheed](https://github.com/abdulwaheed76)
+- [Mohamed Ali](https://github.com/devbn3li)
 - [Yogesh kushwaha](https://github.com/Yogi1305)
-- [Marouane-Elgoumiri](https://github.com/Marouane-Elgoumiri)
+- [Marouane-Elgoumiri](https://github.com/Marouane-Elgoumiri) 
+- [Shay Asanova](https://github.com/shay122990)
+- [Michal]
 - [Ruhi-Khan] (https://github.com/Ruhi-Khan)
+-[Mohamed Sharif] (https://github.com/mSharifHub)
+- [Akanksha12-i] (https://github.com/Akanksha12-i)
 - [Arjun-us] (https://github.com/Arjunumesh11)
 - [Dellenoam](https://github.com/Dellenoam)
 - [Kunal Lal](https://github.com/NobleRex)
@@ -36,8 +42,10 @@
 - [Shisojuice](https://github.com/Shisojuice)
 - [Badshah Ajminabanu](https://github.com/BadshahA1)
 - [Shobhit Aggarwal](https://github.com/Shobhit0109)
+- [Sajid Ali Paguthaniya](https://github.com/SajidAliP)
 - [Yashavsi Sharma] (https://github.com/Yashasvi213)
 - [Vikranth Udandarao](https://github.com/Vikranth3140) Let's connect and collaborate :)
+- :shipit: [huuquyet](https://github.com/huuquyet) Hello World :earth_asia:
 - [Giro Morton](https://github.com/gm0rt4l) Here we go again!
 - gouree gurjar 123
 - [Akash Jain] (https://github.com/aka8code) Here I am.
@@ -49,6 +57,7 @@ v0idborne
 - [Yogesh Rathod](https://github.com/Yogesh9000)
 - [Slava Longinov](https://github.com/sla363) Slava was here :-)
 - [Changsup Lee] (https://github.com/Chang9601)
+- [Osama Rab3] (https://github.com/OsamaRab3) Let's connect and collaborate :)
 - [Clinton Gilly](https://github.com/Clinton-Gilly) 
 -[Sujithk04] coderboy was here.. :)
 - Kaushal Gosavi
@@ -83,6 +92,7 @@ v0idborne
 - [CarrumDraws](https://github.com/CarrumDraws)
 - Austin W
 - [Osama Rabe3](https://github.com/OsamaRab3)
+- [Emmanuel Aminu](https://github.com/darknuma)
 - Kacie Blanchet
 - Srushti Sachdev
 - [P Karanja](https://github.com/karapk) 
@@ -814,6 +824,7 @@ weissbrotjaeger
 - Justin Blake
 igntius praise 
 - [satoshi nakamoto](https://en.wikipedia.org/wiki/Adam_Back)
+- [Akash Sharma](https://github.com/aakashsharma003):कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि।।
 - [RitikShukla](https://github.com/kalm-dev)
 - [Nada Ayesh](https://github.com/nadasuhailAyesh12)
 - [JKanaiya](https://github.com/JKanaiya)
@@ -4614,5 +4625,10 @@ utthamr
 git stat
 - [Hannah Bradfield](https://github.com/BradfieldH)
 - [meda0719] (https://github.com/meda0719/)
+- [kumar1397](https://github.com/kumar1397)
 - [Dan13615] (https://github.com/Dan13615/)
 - [bigtoblerones] (https://github.com/bigtoblerones)
+- [ Uma Kommula] (https://github.com/Uma-129/first-contributions.git) Excited to be a contributer.
+- [Artem Zapara](https://github.com/ArtemZapara)
+- [Jason Mok](https://github.com/jasonmokk) : CS @ Vanderbilt University
+
