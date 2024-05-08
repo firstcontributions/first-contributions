@@ -34,6 +34,7 @@
 - [Joumaico 🇵🇭](https://github.com/joumaico)
 - [Jamie Quinlan](https://github.com/StringsIV)
 - [Shisojuice](https://github.com/Shisojuice)
+- [Badshah Ajminabanu](https://github.com/BadshahA1)
 - [Shobhit Aggarwal](https://github.com/Shobhit0109)
 - [Yashavsi Sharma] (https://github.com/Yashasvi213)
 - [Vikranth Udandarao](https://github.com/Vikranth3140) Let's connect and collaborate :)
