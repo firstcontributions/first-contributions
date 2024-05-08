@@ -1,5 +1,6 @@
 # Contributors
 - [Utkarsh verma](https://github.com/utkggjdu2a)
+- [Abdul Waheed](https://github.com/abdulwaheed76)
 - [Yogesh kushwaha](https://github.com/Yogi1305)
 - [Marouane-Elgoumiri](https://github.com/Marouane-Elgoumiri)
 - [Ruhi-Khan] (https://github.com/Ruhi-Khan)
