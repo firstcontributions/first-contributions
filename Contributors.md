@@ -4,7 +4,8 @@
 - [Abdul Waheed](https://github.com/abdulwaheed76)
 - [Mohamed Ali](https://github.com/devbn3li)
 - [Yogesh kushwaha](https://github.com/Yogi1305)
-- [Marouane-Elgoumiri](https://github.com/Marouane-Elgoumiri)
+- [Marouane-Elgoumiri](https://github.com/Marouane-Elgoumiri) 
+- [Michal]
 - [Ruhi-Khan] (https://github.com/Ruhi-Khan)
 - [Arjun-us] (https://github.com/Arjunumesh11)
 - [Dellenoam](https://github.com/Dellenoam)
