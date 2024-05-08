@@ -38,7 +38,7 @@ sara
 - [Hardik Jogadia] (https://github.com/hardikjogadia)
 - [Raj Mayekar](https://github.com/MayekarRaj)
 - [Akshika Jain]
-- [Tekalign Mesfin]
+- [Tekalign Mesfin](https://github.com/Tekalig)
 - [Yashwanth Kothakota](https://github.com/yashwanthkothakota9)
 - [Solomon Asregdew](https://github.com/SolomonAHailu)
 - [Vimal 140704]
