@@ -6,6 +6,7 @@
 - [Mohamed Ali](https://github.com/devbn3li)
 - [Yogesh kushwaha](https://github.com/Yogi1305)
 - [Marouane-Elgoumiri](https://github.com/Marouane-Elgoumiri) 
+- [Shay Asanova](https://github.com/shay122990)
 - [Michal]
 - [Ruhi-Khan] (https://github.com/Ruhi-Khan)
 - [Akanksha12-i] (https://github.com/Akanksha12-i)
