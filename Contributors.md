@@ -206,6 +206,7 @@ Abhinav Jain
 - [Bishal Khadka](https://github.com/htoohtooag)
 - [Mihir Bhansali](https://github.com/mihir254)
 - [Cannon Hutcheson]
+- [Michal-Zbob]
 - [jzs-moreno]
 - [charmi1128](https://github.com/charmi1128)
 - [Sourav Bera](https://github.com/souravq)
