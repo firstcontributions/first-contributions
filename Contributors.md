@@ -4477,6 +4477,7 @@ guanj65
  -[Yash Patel](https://github.com/Orca-Gemini23)
 - [imanolie](https://github.com/imanolie)
 - [Raphel6969](https://github.com/Raphel6969)
+- [perla-zg](https://github.com/perla-zg)
 - [ScriptBloom](https://github.com/ScriptBloom)
 - [Sudarsan](https://github.com/Tardigrade-Died)
 - [noxhaze](https://github.com/noxhaze)
