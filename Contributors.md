@@ -39,6 +39,7 @@ sara
 - [Raj Mayekar](https://github.com/MayekarRaj)
 - [Akshika Jain]
 - [Yashwanth Kothakota](https://github.com/yashwanthkothakota9)
+- [Tekalign Mesfin](https://github.com/Tekalig)
 - [Solomon Asregdew](https://github.com/SolomonAHailu)
 - [Vimal 140704]
 - [Anurag Goel]
