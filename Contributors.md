@@ -1,5 +1,6 @@
 # Contributors
 - [CleveR.](https://github.com/rekocleve) - Happy to help with anything =)
+- [Jordan Salamone](https://github.com/JordanSalamone)
 - [Jishnu J](https://github.com/JishnuJayaraj)
 - [Utkarsh verma](https://github.com/utkggjdu2a)
 - [Abdul Waheed](https://github.com/abdulwaheed76)
