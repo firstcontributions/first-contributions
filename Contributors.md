@@ -1997,7 +1997,7 @@ Gyanendra Thakur
 - [BALASANTHOSH01](https://github.com/BALASANTHOSH01)
 - [Greg Delgado](https://github.com/grd888)
 - [YMM](https://github.com/yemyatmin11)
-[Ahmad] (https://github.com/AhmadH23/) lets goooo!! does it work?
+[Ahmad] (https://github.com/AhmadH23/) lets goooo!! does it work? surely it should
 - [Default](https://github.com/bright100)
 - [BrianMuniz](https://github.com/BrianMunizSilveira)
 - [TJ O'Hora](Hello world!)
