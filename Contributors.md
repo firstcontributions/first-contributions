@@ -278,6 +278,7 @@ Abhinav Jain
 - [Ryan Frederich](http://github.com/ryansurf)
 - [Capra94] (http://github.com/Capra94)
 - [Jack Kong](http://github.com/jnkg9five)
+- [Z.D.Sun](https://github.com/zedonggg)
 - Jasman Deol
 - Tarik Carvalho!
 - [Ethan Corbett] (https://github.com/Schnozhand03)
