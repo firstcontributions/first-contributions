@@ -9,6 +9,7 @@
 - [Yogesh kushwaha](https://github.com/Yogi1305)
 - [Marouane-Elgoumiri](https://github.com/Marouane-Elgoumiri) 
 - [Shay Asanova](https://github.com/shay122990)
+- [Nasiff Bello](https://github.com/Nazzcodek)
 - [Michal]
 - [Marvin Romero](https://github.com/Marsmarv)
 - [Ruhi-Khan] (https://github.com/Ruhi-Khan)
