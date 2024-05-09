@@ -8,6 +8,7 @@
 - [Marouane-Elgoumiri](https://github.com/Marouane-Elgoumiri) 
 - [Shay Asanova](https://github.com/shay122990)
 - [Michal]
+- [Marvin Romero](https://github.com/Marsmarv)
 - [Ruhi-Khan] (https://github.com/Ruhi-Khan)
 -[Mohamed Sharif] (https://github.com/mSharifHub)
 - [Akanksha12-i] (https://github.com/Akanksha12-i)
