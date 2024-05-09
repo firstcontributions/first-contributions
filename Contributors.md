@@ -92,6 +92,7 @@ v0idborne
 - Jay B - bodenmethod
 - Kshitij Ijari
 - S Prathima Singh
+- Gandra Rithvik Rao👍
 - [Ndachj](https://github.com/ndachj) 🆒
 - T methot 
 - [CarrumDraws](https://github.com/CarrumDraws)
