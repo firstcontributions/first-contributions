@@ -78,6 +78,7 @@ v0idborne
 - [Anand Suthar](https://github.com/ad956) 👋
 - Anish was here !1
 - [Himangi Tripathy](https://github.com/H1mang1?tab=repositories)
+- [Hariienesh Arumugam](https://github.com/CosmicCodeBase)
 - [Maneesha Gunawardhana (mGunawardhana💀)](https://github.com/mGunawardhana)
 - [Papweer](https://github.com/Papweer)
 - [KZH](https://github.com/KyawZawHtet)
