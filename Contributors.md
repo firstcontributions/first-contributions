@@ -24,6 +24,7 @@
 - [Arjun-us] (https://github.com/Arjunumesh11)
 - [Dellenoam](https://github.com/Dellenoam)
 - [Kunal Lal](https://github.com/NobleRex)
+- [Gabrielle Anderson](https://github.com/gabbyva5)
 - [Madhavi Peddireddy](https://github.com/madhavi-peddireddy)
 - [Atul Yadav] (https://github.com/AtulYadavCodes) 
 - [Wesley] (https://github.com/WesleyJammer)
@@ -4669,4 +4670,3 @@ git stat
 - [Saanvi] (https://github.com/Saanvi26) yo !!! 
 - [Alexander Alcazar](https://github.com/AlexanderAlcazar)
 - [Anh Bui](https://github.com/anhbh310)
-
