@@ -14,7 +14,7 @@
 - [Michal]
 - [Marvin Romero](https://github.com/Marsmarv)
 - [Ruhi-Khan] (https://github.com/Ruhi-Khan)
--[Mohamed Sharif] (https://github.com/mSharifHub)
+ -[Mohamed Sharif] (https://github.com/mSharifHub)
 - [Akanksha12-i] (https://github.com/Akanksha12-i)
 - [Arjun-us] (https://github.com/Arjunumesh11)
 - [Dellenoam](https://github.com/Dellenoam)
@@ -4634,6 +4634,7 @@ utthamr
 - [Shubham Sahu](https://github.com/shubhcode92)
 - [Ashok Manoaharan](https://github.com/ashokm273)
 - [Trudeau Okech](https://github.com/TrudeauOkech)
+- [jakobmichael](https://github.com/jakobmichael)
 - [Aratras16](https://github.com/Aratras16)
 - [yutasasaki1219](https://github.com/YutaSasaki1219)
 - [kellykiiru](https://github.com/kellykiiru)
