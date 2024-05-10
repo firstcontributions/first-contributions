@@ -87,7 +87,8 @@ v0idborne
 - [Mikkel Hebel](https://github.com/MikkelHebel)
 - [Dastonbek Yakubov](https://github.com/D-Yakubov)
 - [Stefano Dongowski] (https://github.com/stefanodongowski)
-[DevEliasKh](https://github.com/DevEliasKh)
+- [Vadim A] (https://github.com/KriFinnSher)
+- [DevEliasKh](https://github.com/DevEliasKh)
 - [Anand Suthar](https://github.com/ad956) 👋
 - [Jean Choi] (https://github.com/jeanchoi62)
 - Anish was here !1
