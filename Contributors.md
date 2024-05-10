@@ -81,6 +81,7 @@ v0idborne
 - Luferox paso por aqui
 - [Mikkel Hebel](https://github.com/MikkelHebel)
 - [Dastonbek Yakubov](https://github.com/D-Yakubov)
+- [Stefano Dongowski] (https://github.com/stefanodongowski)
 [DevEliasKh](https://github.com/DevEliasKh)
 - [Anand Suthar](https://github.com/ad956) 👋
 - Anish was here !1
