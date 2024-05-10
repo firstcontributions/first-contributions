@@ -84,6 +84,7 @@ v0idborne
 - [Stefano Dongowski] (https://github.com/stefanodongowski)
 [DevEliasKh](https://github.com/DevEliasKh)
 - [Anand Suthar](https://github.com/ad956) 👋
+- [Jean Choi] (https://github.com/jeanchoi62)
 - Anish was here !1
 - [Himangi Tripathy](https://github.com/H1mang1?tab=repositories)
 - [Hariienesh Arumugam](https://github.com/CosmicCodeBase)
