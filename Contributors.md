@@ -4,6 +4,7 @@
 - [Jordan Salamone](https://github.com/JordanSalamone)
 - [Jishnu J](https://github.com/JishnuJayaraj)
 - [Utkarsh verma](https://github.com/utkggjdu2a)
+- [Sungjaeyeong]
 - [Abdul Waheed](https://github.com/abdulwaheed76)
 - [Mohamed Ali](https://github.com/devbn3li)
 - [Vishnu N P](https://github.com/VishnuNanilal)
