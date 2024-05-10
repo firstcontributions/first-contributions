@@ -4664,4 +4664,4 @@ git stat
 - [Saanvi] (https://github.com/Saanvi26) yo !!! 
 - [Alexander Alcazar](https://github.com/AlexanderAlcazar)
 - [Anh Bui](https://github.com/anhbh310)
-- [Nigel Saurino] (https://github.com/n-saurino)
+- [Nigel Saurino](https://github.com/n-saurino)
