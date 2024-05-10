@@ -248,6 +248,7 @@ Abhinav Jain
 - [TKO(https://github.com/2-lazyyyy)
 - Kaat
 - Yi Wu
+- ceshi
 - dianzu-intellij
 [Aryan Yadav](https://github.com/aryanyaclav)
 - [Abhinav](https://github.com/Abhinav1326)
