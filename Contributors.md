@@ -366,6 +366,7 @@ git add Contributors.md# Contributors
 - [Alan Chan] (https://github.com/Chanalan1)
 - [Rahul] (https://github.com/rahulram21)
   [majMgCode](https://github.com/majMgCode)
+- [Eisha Singh](https://github.com/cwatr)
 - [HINGA PETER](https://github.com/Hinga-inc)
 - [Anshul Dongre](https://github.com/dongre17)
 - [ewh0](https://github.com/ewh0)
