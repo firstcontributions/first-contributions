@@ -1,4 +1,5 @@
 # Contributors
+- [Kevin Tuei](https://github.com/kevshakes)
 - [Krish Galani] (https://github.com/krishgalani)
 - [Felix Rosén] (https://github.com/rosenfelix/)
 - [CleveR.](https://github.com/rekocleve) - Happy to help with anything =)
