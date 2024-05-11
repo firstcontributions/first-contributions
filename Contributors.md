@@ -2720,6 +2720,7 @@ Dante Sanchez
 - [dhrinch](https://github.com/dhrinch)
 - [its-TROY](https://github.com/its-TROY)
 - [Aditya Shekhar](https://github.com/Aditya-76)
+- [A Z Hasnain Kabir](https://github.com/HasnainKabir-repos)
 - [donkeeman](https://github.com/donkeeman)
 - [adamsocki](https://github.com/adamsocki)
 - [Adam Steiger](https://github.com/adamstgr)
