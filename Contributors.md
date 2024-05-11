@@ -84,6 +84,7 @@ v0idborne
 - [Clinton Gilly](https://github.com/Clinton-Gilly) 
 -[Sujithk04] coderboy was here.. :)
 - Kaushal Gosavi
+- [Alejandro De Luca](https://github.com/tury3001)
 - Tanishq was here.
 - Sriprada
 - Aditya Saini
