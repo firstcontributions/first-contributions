@@ -2529,6 +2529,7 @@ Dante Sanchez
 - [Kapil Sharma](https://github.com/codingwithkapil)
 - [Hasham Taujoo](https://github.com/HashamTaujoo)
 - [Muhammad Aliyu Abubakar](https://github.com/mxg-mega)
+- [Muhammad Hassaan](https://github.com/Hassaan68)
 - [Sachin Kumar](https://github.com/pseudofool)
 - [Apoorv ](https://github.com/APOORV7G)
 - [Vlad D](https://github.com/casual-user-asm)
