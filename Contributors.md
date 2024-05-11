@@ -294,6 +294,7 @@ Abhinav Jain
 - [JhamilMar](https://github.com/JhamilMar)
 - Chiara Curgu
 - [MariaCassandra]
+- [Vaishnavi K](https://github.com/vaishke)
 - [MatiasFernandez] (https://github.com/MFernandez0992)
 - [Santiago Enciso] (https://github.com/Dogeon0)
 - [Leeuwin Ririnui](https://github.com/loubxby)
