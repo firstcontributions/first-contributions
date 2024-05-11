@@ -139,6 +139,7 @@ v0idborne
 - shuang wu
 - juan-est145
 - Mike Vrkljan
+- Yash Vats
 - b web
 - I'm Here!
 - Muhammad Afaq Umar ([CodeTalker007](https://github.com/CodeTalker007))
