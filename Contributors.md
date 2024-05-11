@@ -449,6 +449,7 @@ Sam Barns
 - [Coder Court] (https://github.com/codercourt)
 - [Masaki Nishi] (https://github.com/MasakiNishi)
 - [Vedashree D] (https://github.com/VedashreeD)
+- [Jelson Bonilla] (https://github.com/jels0nb0nilla)
 - [Alexander Maina](https://github.com/Alekiie)
   [Ein Cagle] (https://github.com/eincagle)
 - [Aniket Kanere](https://github.com/anikxt)
