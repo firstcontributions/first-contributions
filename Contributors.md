@@ -4685,4 +4685,5 @@ git stat
 - [Alexander Alcazar](https://github.com/AlexanderAlcazar)
 - [Anh Bui](https://github.com/anhbh310)
 - [Tim Pfeifer](https://github.com/timseoaudit)
+- [Aniket Patil](https://github.com/aniketp166)
 
