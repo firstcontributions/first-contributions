@@ -91,6 +91,7 @@ v0idborne
 -[Sujithk04] coderboy was here.. :)
 - Kaushal Gosavi
 - [Alejandro De Luca](https://github.com/tury3001)
+- Spirited-Coder
 - Tanishq was here.
 - Sriprada
 - Aditya Saini
