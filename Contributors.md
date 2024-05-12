@@ -14,6 +14,7 @@
 - [Srushti Haryan](https://github.com/SrushtiHaryan)
 - [Steven Gross] (https://github.com/grossatron)
 - [Utkarsh verma](https://github.com/utkggjdu2a)
+- [Manish Kumar](https://github.com/manishcodes)
 - [Sungjaeyeong]
   Elsa Lee
 - [Pedro do Vale](https://github.com/pedrodovale)
