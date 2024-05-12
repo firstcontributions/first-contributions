@@ -2,6 +2,7 @@
 - [Muhammad Ridwan Hakim](https://github.com/rescenic)
 - [Ifham Mohamed](https://github.com/ifhammohamed1111)
 - [Mustafa-A-Khan](https://github.com/MUSTAFA-A-KHAN)
+- [Michael Lumbera Jr](https://github.com/mlumbera) 
 - [Ahmed Omar Eissa](https://github.com/AhmedOmarEissa) 
 - [Yuki](https://github.com/yukuri611) 
 - [Kevin Tuei](https://github.com/kevshakes)
