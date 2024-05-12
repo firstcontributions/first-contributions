@@ -79,6 +79,7 @@ Luca B.
 - [AtharvaSail11] (https://github.com/AtharvaSail11)
 v0idborne
 - [Pratik Gurjar] (https://github.com/pratikgurjar)
+- [Raushan Kumar] (https://github.com/raushanstar)
 - [Dhanush Surendra] (https://github.com/dhanushsurendra) First contribution to open source!
 - [Saquib Ansari](https://github.com/md-saquib)
 - [Stephen Blevins](https://github.com/sblevins-dev)
