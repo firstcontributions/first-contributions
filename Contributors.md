@@ -4999,4 +4999,4 @@ Gauresh Rathi
 - [Praveenraj002] (https://github.com/Praveenraj002)
 - [OktayRasimov] (https://github.com/OktayRasimov)
 - [Oliver Nagy](https://github.com/oliver-nagy)
-
+- [Polyana Amaral] (https://github.com/polyanaamaral/)
