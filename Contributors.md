@@ -137,6 +137,7 @@ v0idborne
 - [angelo dedaldino](https://github.com/angelodedaldino)
 - Mihir Mirchandani
 - Jay B - bodenmethod
+- Noah Koebe
 - Kshitij Ijari
 - S Prathima Singh
 - Gandra Rithvik Rao👍
