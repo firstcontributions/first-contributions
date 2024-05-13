@@ -7,7 +7,8 @@
 - [Michael Lumbera Jr](https://github.com/mlumbera) 
 - [Ahmed Omar Eissa](https://github.com/AhmedOmarEissa) 
 - [Yuki](https://github.com/yukuri611)
-rasheem
+rashee
+- [Daniel Schneider](https://github.com/dschne27)
 - [Irene](https://github.com/IreneAragona)
 - [Kevin Tuei](https://github.com/kevshakes)
 - [Vivek Singh] (https://github.com/viveksingh97)
