@@ -1,6 +1,7 @@
 # Contributors
 
 - [Muhammad Ridwan Hakim](https://github.com/rescenic)
+- ["Umair"](https://github.com/UmairRaaz)
 - [Vangaru Shanmukha](https://github.com/vangaru-shanmukha)
 - [Ifham Mohamed](https://github.com/ifhammohamed1111)
 - [Mustafa-A-Khan](https://github.com/MUSTAFA-A-KHAN)
@@ -20,6 +21,7 @@
 - [Steven Gross] (https://github.com/grossatron)
 - [Utkarsh verma](https://github.com/utkggjdu2a)
 - [Manish Kumar](https://github.com/manishcodes)
+- [Rahul](https://github.com/rahul-MyGit)
 - [Sungjaeyeong]
   Elsa Lee
 - [Pedro do Vale](https://github.com/pedrodovale)
@@ -199,7 +201,9 @@
 - [Lía Rosales](https://twitter.com/LiaRosales25)
 - [Shreya Mohanty](https://github.com/shrymhty)
 - 5ecurealf (https://github.com/5ecurealf)
-- [Sarah J.] (https://github.com/huntydhino) -[Liwei](https://github.com/Liwei254)
+- [Sarah J.] (https://github.com/huntydhino)
+- Dhruv J
+-[Liwei](https://github.com/Liwei254)
 - [Ayush Prateek Rai](https://github.com/ayushrai-bhau)
 - [Svetlin Ivanov](https://github.com/zensii)
 - [Davide Menghini] (https://github.com/davidemenghini)
@@ -488,7 +492,8 @@
 - [Venkatesh Alampally](https://github.com/Venki1402)
 - [Jaiman Singh Guliani] (https://github.com/JaimanSingh) -[Maxwell Ahorlu](https://github.com/Quammy93
 - [MEOW_MANJOT
-- [Jessica Ebanks]
+- [Jessica Ebanks] 
+- [KrupickaJan]
 - [YoMomChestHair]
 - [Natasa Trisha](https://github.com/Trish1996-wq)
 - [Balaganesh](https://github.com/balaganesh102004)
@@ -2142,6 +2147,7 @@
 - [Anand Rai](https://github.com/anandrai08)
 - [Agneepradeep Verma](https://github.com/agneepradeep)
 - [Aurélien Lainé](https://github.com/aurelien81)
+- [Syed Zainab] (https://github.com/SyedZainab)
 - [Vishnu Vardan](https://github.com/VV-22)
 - [Maruthi Manideep Gorla] (https://github.com/manideep3069)
 - [Pikachu]
