@@ -28,6 +28,7 @@ rashee
   Elsa Lee
 - [Pedro do Vale](https://github.com/pedrodovale)
 - [gari sa limana](https://github.com/babadroga92)
+- [Omid Khosrowshahli](https://github.com/Omid-Khosrowshahli)
 - [Abdul Waheed](https://github.com/abdulwaheed76)
 chiu
 - [Mohamed Ali](https://github.com/devbn3li)
