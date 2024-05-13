@@ -3928,6 +3928,7 @@ LadegbayeStella)
 - [Bassem Gehad](https://github.com/Bassem272)
 - NeutronBlues
 - Oti Ioana
+- [Jimmy Mishan](https://github.com/jimmyMsh)
 - [Aram Davtyan](https://github.com/Aramazd05)
 - [Pedro Mota](https://github.com/pedromorini)
 - [Vivesh G](https://github.com/Vivesh-G)
