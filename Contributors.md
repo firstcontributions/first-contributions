@@ -2326,6 +2326,7 @@ Dante Sanchez
 - [Anand Rai](https://github.com/anandrai08)
 - [Agneepradeep Verma](https://github.com/agneepradeep)
 - [Aurélien Lainé](https://github.com/aurelien81)
+- [Syed Zainab] (https://github.com/SyedZainab)
 - [Vishnu Vardan](https://github.com/VV-22)
 - [Maruthi Manideep Gorla] (https://github.com/manideep3069)
 - [Pikachu]
