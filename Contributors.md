@@ -20,6 +20,7 @@
 - [Steven Gross] (https://github.com/grossatron)
 - [Utkarsh verma](https://github.com/utkggjdu2a)
 - [Manish Kumar](https://github.com/manishcodes)
+- [Adil K]
 - [Rahul](https://github.com/rahul-MyGit)
 - [Sungjaeyeong]
   Elsa Lee
