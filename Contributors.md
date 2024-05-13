@@ -1032,6 +1032,7 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
 -[xiake](https://github.com/csuyanchong)
 -George Dall
 -[Ankit Singh](https://github.com/AnkitSin24)
+-Ajiri Enoch Osiobe
 -[Carolina Avendaño](https://github.com/Carolinaavendanoq)
 - [Giovane Aguiar](https://github.com/giovane-aG)
 - [Harrison Groves](https://github.com/pkfy)
