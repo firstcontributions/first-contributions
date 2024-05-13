@@ -29,6 +29,7 @@
 - [Abdul Waheed](https://github.com/abdulwaheed76)
 chiu
 - [Mohamed Ali](https://github.com/devbn3li)
+- [Beni Rossman] (https://github.com/beniandthe)
 - [Vishnu N P](https://github.com/VishnuNanilal)
 - [Vinicius Campiotto](https://github.com/Campiottocodes)
 - [Yogesh kushwaha](https://github.com/Yogi1305)
