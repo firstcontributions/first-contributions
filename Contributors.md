@@ -74,6 +74,7 @@ chiu
 - [ImtiyaazDev](https://github.com/ImtiyaazDev)
 - [Joumaico 🇵🇭](https://github.com/joumaico)
 - [Jamie Quinlan](https://github.com/StringsIV)
+- [Uchechukwu Emmanuel](https://github.com/onlyoneuche)
 - [Tomasz Siedlecki](https://github.com/tomekSiedlecki) Wow, first contribution
 - [Shisojuice](https://github.com/Shisojuice)
 - [Badshah Ajminabanu](https://github.com/BadshahA1)
