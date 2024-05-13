@@ -139,6 +139,7 @@ v0idborne
 - S Prathima Singh
 - Gandra Rithvik Rao👍
 - [Ndachj](https://github.com/ndachj) 🆒
+- Jose Rodriguez
 - T methot 
 - [CarrumDraws](https://github.com/CarrumDraws)
 - Austin W
