@@ -31,6 +31,7 @@ chiu
 - [Shay Asanova](https://github.com/shay122990)
 - [Nasiff Bello](https://github.com/Nazzcodek)
 - [Michal]
+- [SeahM]
 - [Marvin Romero](https://github.com/Marsmarv)
 - [Ruhi-Khan] (https://github.com/Ruhi-Khan)
  -[Mohamed Sharif] (https://github.com/mSharifHub)
