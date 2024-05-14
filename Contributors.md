@@ -14,6 +14,7 @@
 rashee
 - [Daniel Schneider](https://github.com/dschne27)
 - [Abdulrahman Idrees](https://github.com/akhaled01)
+- [Argenis De La Rosa](https://github.com/theonlyhennygod)
 - [Irene](https://github.com/IreneAragona)
 - [Kevin Tuei](https://github.com/kevshakes)
 - [Vivek Singh] (https://github.com/viveksingh97)
