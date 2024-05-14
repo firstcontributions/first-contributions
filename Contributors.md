@@ -64,13 +64,14 @@ chiu
 - [Min-yeong] (https://github.com/minyeong16)
 - [Abhinav Patra](https://github.com/AbhinavPatra) (www.linkedin.com/in/abhinav-patra1st)
 - [Kasun Munasinghe](https://github.com/kuMunasinghe "Kasun Munasinghe"): I was here :-)
--[chinanagaraju](https://github.com/chinanagaraju/)
+- [chinanagaraju](https://github.com/chinanagaraju/)
 - [Bas de Bruijn] (https://github.com/Bas0164) Lets go! :D
 - [Guy Pridan] (https://github.com/guypridan) :D
 - Photon48 ;
 - [Akhil kabra] Lets go!!
 - The Big Giro Bear was here!
 - [Tal]
+- [Emilio] (https://github.com/Emiliomontes0)
 - [Nivedh G Krishnan](https://github.com/NIV27e) 
 - [Isuru Adikaram](https://github.com/izuru775)
 - [Imran Hussain](https://github.com/full-StackNinja)
