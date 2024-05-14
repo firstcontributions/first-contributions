@@ -446,6 +446,7 @@ git add Contributors.md# Contributors
 - [Shrijan](https://github.com/shrijxn)
 - jsuto
 - Justin Hosfeld
+- islak
 - VakoB
 - Mi Nguyen
 - [Toan Bui](https://github.com/bmt810818)
