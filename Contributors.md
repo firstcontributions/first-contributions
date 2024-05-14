@@ -118,6 +118,7 @@ v0idborne
 - Tanishq was here.
 - Sriprada
 - Aditya Saini
+- [Christian Gabi](https://github.com/christian80gabi)
 - Archit Agarwal
 - KakDealz
 - [Niko Schlüter] (https://github.com/Nikoslr)
