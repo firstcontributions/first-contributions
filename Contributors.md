@@ -1268,6 +1268,7 @@ guanj65
 - [Able Abenaitwe](https://github.com/abenable)
 - [demomail231]
 - [Aliiyu Sadiiq](https://github.com/sadiiqaliiyu)
+- [Farath Shba](https://github.com/farathshba)
 - [Hein Htet Zaw](https://github.com/Justinpop123)
 - [Saksham Khare] (https://github.com/tyrex1829)
 - [pushrsp] (https://github.com/pushrsp)
