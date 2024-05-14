@@ -4691,6 +4691,7 @@ utthamr
 - [Sibongile Thanjekwayo](https://github.com/Sbosh11)
 - [Violet Fu](https://github.com/iamziqian)
 - [Bishal Sudarshan] (https://github.com/b1sh4l)
+- [Brandon Rude](https://github.com/brandonarude)
 - [Yuji Teshima](https://github.com/yujiteshima)
 -[Ashio245] (https://github.com/Ashio245)
 - [Emmanuel Maunga] (https://github.com/maunga-et)
