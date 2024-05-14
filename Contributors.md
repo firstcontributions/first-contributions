@@ -9,6 +9,7 @@
 - [Yuki](https://github.com/yukuri611)
 rashee
 - [Daniel Schneider](https://github.com/dschne27)
+- [Abdulrahman Idrees](https://github.com/akhaled01)
 - [Irene](https://github.com/IreneAragona)
 - [Kevin Tuei](https://github.com/kevshakes)
 - [Vivek Singh] (https://github.com/viveksingh97)
