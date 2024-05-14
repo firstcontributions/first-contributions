@@ -599,6 +599,7 @@ Kayla Barton
 - [JerrySagwa] (https://github.com/JerrySagwa)
 - [Kushal Bhandari] (https://github.com/kushalb-dev)
 - [Harsh Sonkar](https://github.com/dynamicHarsh)
+- [Sebastian Serrano] (https://git@github.com:sebasSerrano12)
 - [Desiree Sng] (https://github.com/dez2003)
 - [Axel Meister](https://github.com/meisteraxel)
 - [Stephane Mora](https://github.com/stephanemora)
