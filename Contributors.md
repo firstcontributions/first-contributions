@@ -137,6 +137,7 @@ v0idborne
 - [Jean Choi] (https://github.com/jeanchoi62)
 - Anish was here !1
 - [Himangi Tripathy](https://github.com/H1mang1?tab=repositories)
+- [Bipana Regmi](https://github.com/Bipana212)
 - [Hariienesh Arumugam](https://github.com/CosmicCodeBase)
 - [Maneesha Gunawardhana (mGunawardhana💀)](https://github.com/mGunawardhana)
 - [Vignesh S](https://github.com/VigneshVicky97)
