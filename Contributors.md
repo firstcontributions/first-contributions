@@ -1,9 +1,12 @@
 # Contributors
 - [Muhammad Ridwan Hakim](https://github.com/rescenic)
+- [Sumit Dwivedi](https://github.com/SumitDwivedi24X)
 - ["Umair"](https://github.com/UmairRaaz)
 - [Vangaru Shanmukha](https://github.com/vangaru-shanmukha)
 - [Ifham Mohamed](https://github.com/ifhammohamed1111)
+- [Willian Luigi Carneri](https://github.com/willcarneri)
 - [Mustafa-A-Khan](https://github.com/MUSTAFA-A-KHAN)
+- [Meryem Ahmaine](https://github.com/meryemahmaine) - hey !
 - [Michael Lumbera Jr](https://github.com/mlumbera) 
 - [Ahmed Omar Eissa](https://github.com/AhmedOmarEissa) 
 - [Yuki](https://github.com/yukuri611)
@@ -80,6 +83,7 @@ chiu
 - [Michael Jay](https://github.com/MJujh)
 - Bousflix
 - [ImtiyaazDev](https://github.com/ImtiyaazDev)
+- [danyooo](https://github.com/danyooo)
 - [Joumaico 🇵🇭](https://github.com/joumaico)
 - [Jamie Quinlan](https://github.com/StringsIV)
 - [Uchechukwu Emmanuel](https://github.com/onlyoneuche)
@@ -118,6 +122,7 @@ v0idborne
 - Tanishq was here.
 - Sriprada
 - Aditya Saini
+- [Christian Gabi](https://github.com/christian80gabi)
 - Archit Agarwal
 - KakDealz
 - [Niko Schlüter] (https://github.com/Nikoslr)
@@ -598,6 +603,7 @@ Kayla Barton
 - [JerrySagwa] (https://github.com/JerrySagwa)
 - [Kushal Bhandari] (https://github.com/kushalb-dev)
 - [Harsh Sonkar](https://github.com/dynamicHarsh)
+- [Sebastian Serrano] (https://git@github.com:sebasSerrano12)
 - [Desiree Sng] (https://github.com/dez2003)
 - [Axel Meister](https://github.com/meisteraxel)
 - [Stephane Mora](https://github.com/stephanemora)
@@ -679,6 +685,7 @@ Kayla Barton
 - [Moustache9593] (https://github.com/Moustache9593)
 - [PranavNair] (https://github.com/pranavniar)
 - [Jonathan M Pollock] (https://github.com/jonathan-milan-pollock)
+  [Pranjal Sharma](https://github.com/PranjalSharma13)
 - [ArmaanveerSinghSidhu](https://github.com/ArmaanveerSinghSidhu)
 - [Kai Breese](https://github.com/ninjakaib)
 - Valery Legasov
@@ -3278,6 +3285,7 @@ sh5ed
 - [Bhargav Shirin](https://github.com/bhargavshirin)
 - [Johan Chate](https://github.com/TCLJOHANT)
 - Lulu Jiao
+- -[Spaghettimonstar] (https://github.com/Spaghettimonstar)
 - [Kai Kim](https://github.com/KaiKimiOS)
 - [Sourav Narayan](https://github.com/sounar97)
 - [Shay](https://github.com/shay-520)
