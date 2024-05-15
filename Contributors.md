@@ -13,6 +13,7 @@
   [STK](https://github.com/sherlock221B1)
 rashee
 - [Daniel Schneider](https://github.com/dschne27)
+- Elie Inahon
 - [Abdulrahman Idrees](https://github.com/akhaled01)
 - [Argenis De La Rosa](https://github.com/theonlyhennygod)
 - [Irene](https://github.com/IreneAragona)
