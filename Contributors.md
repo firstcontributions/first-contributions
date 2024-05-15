@@ -820,6 +820,7 @@ Pereira
 - [Eduardo León](https://github.com/xEduardo)
 - [Jackie Vargas](https://github.com/jackievivianv) || [LinkedIn](https://www.linkedin.com/in/jackievargascabanilla) || [Twitter](https://www.twitter.com/jackyvivian)
 -Khushi Joshi 
+-Pinocchio 
 110703067
 - nimilgp
 - l0renz0o
