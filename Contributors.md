@@ -61,6 +61,7 @@ chiu
 - [Madhavi Peddireddy](https://github.com/madhavi-peddireddy)
 - [Atul Yadav] (https://github.com/AtulYadavCodes) 
 - [Wesley] (https://github.com/WesleyJammer)
+- [Mahyar] (https://github.com/Mahyar-98)
 - [Min-yeong] (https://github.com/minyeong16)
 - [Abhinav Patra](https://github.com/AbhinavPatra) (www.linkedin.com/in/abhinav-patra1st)
 - [Kasun Munasinghe](https://github.com/kuMunasinghe "Kasun Munasinghe"): I was here :-)
@@ -842,6 +843,7 @@ Pereira
 -Anchita Kakria
 - pritam sonmane
 - Mads Gillis
+- crm
 - [Helios Lis-Grounder](https://github.com/heliosgrounder)
 - Amit Dave (https://github.com/amitdave222)
 - Beatriz Guerrero https://github.com/Beatriz-G
