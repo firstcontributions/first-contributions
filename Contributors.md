@@ -162,6 +162,7 @@ JialingYU
 - Jaime Juarbe
 - [Eyal Yarden](https://github.com/eyalya1)
 - Bennett Wilbert 
+- Nour Mostafa
 - [Mohamed Atta](https://github.com/MohamedAtta-AI)
 - [Mahmoud Mirghani](https://github.com/mahmoudmerghani)
 - [Giorgia Saccon] (https://github.com/GioGio31)
