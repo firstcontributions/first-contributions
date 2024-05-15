@@ -842,6 +842,7 @@ Pereira
 -Anchita Kakria
 - pritam sonmane
 - Mads Gillis
+- crm
 - [Helios Lis-Grounder](https://github.com/heliosgrounder)
 - Amit Dave (https://github.com/amitdave222)
 - Beatriz Guerrero https://github.com/Beatriz-G
