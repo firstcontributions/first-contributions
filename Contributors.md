@@ -2380,6 +2380,7 @@ Dante Sanchez
 - [Maruthi Manideep Gorla] (https://github.com/manideep3069)
 - [Pikachu]
 - [Camilo Sanchez](https://github.com/fairchild-interactive/first-contributions)
+- Tyler Knapp [GitHub](https://github.com/Tyler-KD) [LinkedIn](https://www.linkedin.com/in/tyler-knapp-8717862a7/) Happy to contribute ❤️
 - [Ajay]
 - [Ubaid]
 - [Maximilian Ganske] (https://github.com/MaxGanske)
