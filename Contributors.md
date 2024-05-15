@@ -11,6 +11,7 @@
 - [Michael Lumbera Jr](https://github.com/mlumbera) 
 - [Ahmed Omar Eissa](https://github.com/AhmedOmarEissa) 
 - [Yuki](https://github.com/yukuri611)
+- [Salman Faris](https://github.com/salmanzego)
   [STK](https://github.com/sherlock221B1)
 rashee
 - [Daniel Schneider](https://github.com/dschne27)
