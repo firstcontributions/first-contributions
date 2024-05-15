@@ -59,7 +59,7 @@ chiu
 - [Akanksha12-i] (https://github.com/Akanksha12-i)
 - [Arjun-us] (https://github.com/Arjunumesh11)
 - [Dellenoam](https://github.com/Dellenoam)
-- Mammad
+- Muhammed 
 - [Kunal Lal](https://github.com/NobleRex)
 - [Madhavi Peddireddy](https://github.com/madhavi-peddireddy)
 - [Atul Yadav] (https://github.com/AtulYadavCodes) 
