@@ -4800,4 +4800,5 @@ git stat
 - [Santiago Burgos](https://github.com/SantiBurgos1089)
 - [TransonQ](https://github.com/TransonQ)
 - [Richard Kabi](https://github.com/NebulaScout)
+- [Tamar Wienet](https://github.com/TamiWien)
 
