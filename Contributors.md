@@ -1,4 +1,5 @@
 # Contributors
+- Rachel W
 - [Arsile](https://github.com/itsarsile)
 - Srihari C 
 - [Muhammad Ridwan Hakim](https://github.com/rescenic)
