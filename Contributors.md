@@ -1,5 +1,6 @@
 # Contributors
 - [Arsile](https://github.com/itsarsile)
+- Srihari C 
 - [Muhammad Ridwan Hakim](https://github.com/rescenic)
 - [Luciano Otto Rodrigues](https://github.com/Lucianoottor) - Add me :)
 - [Sumit Dwivedi](https://github.com/SumitDwivedi24X)
