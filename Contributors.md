@@ -86,7 +86,7 @@ chiu
 - [Ajay Yadav](https://github.com/ATechAjay), contribute to this repo;)
 - Shane (https://github.com/ShaneTAdams)
 -[Ramachandra M](https://github.com/ramachandramerla)
-- [Michael Zuo] (https://github.com/Bimikel)
+- [Michael Zuo](https://github.com/Bimikel)
 - [Athifal] (https://github.com/athifal) Lets go...
 - [Mayank Pal] (https://github.com/MayankP2100) Here starts my open-source journey!!
 - [Magdiel GV] (https://github.com/Magdiel-GVdz) I was here xd
