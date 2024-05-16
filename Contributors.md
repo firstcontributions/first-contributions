@@ -1,6 +1,7 @@
 # Contributors
 - [Arsile](https://github.com/itsarsile)
 - [Muhammad Ridwan Hakim](https://github.com/rescenic)
+- [Luciano Otto Rodrigues](https://github.com/Lucianoottor) - Add me :)
 - [Sumit Dwivedi](https://github.com/SumitDwivedi24X)
 - ["Umair"](https://github.com/UmairRaaz)
 - [Vangaru Shanmukha](https://github.com/vangaru-shanmukha)
