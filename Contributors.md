@@ -16,6 +16,7 @@
 rashee
 - [Daniel Schneider](https://github.com/dschne27)
 - Elie Inahon
+- [Lexi McQueen](https://github.com/AeroSmyte))
 - [Abdulrahman Idrees](https://github.com/akhaled01)
 - [Argenis De La Rosa](https://github.com/theonlyhennygod)
 - [Irene](https://github.com/IreneAragona)
@@ -77,6 +78,7 @@ chiu
 - [Akhil kabra] Lets go!!
 - The Big Giro Bear was here!
 - [Tal]
+-
 - [Emilio] (https://github.com/Emiliomontes0)
 - [Nivedh G Krishnan](https://github.com/NIV27e) 
 - [Isuru Adikaram](https://github.com/izuru775)
