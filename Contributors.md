@@ -2959,6 +2959,7 @@ Philip Ambattu
 - [Alan](https://github.com/AlanThisis)
 - [Malibongwe Gumede](https://github.com/maliByatzes)
 - [Flynn](https://github.com/farthaz)
+- [Mahmoud Salah](https://github.com/mahmoudsalah296)
 - [Rahul Jindal](https://github.com/rahuljindal1)
 - [Art Villareal](https://github.com/Bushido-Art)
 - [Jerry Yip](https://github.com/yhmyhm0910)
@@ -4702,4 +4703,3 @@ git stat
 - [Anh Bui](https://github.com/anhbh310)
 - [Tim Pfeifer](https://github.com/timseoaudit)
 - [Aniket Patil](https://github.com/aniketp166)
-
