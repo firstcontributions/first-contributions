@@ -1,4 +1,5 @@
 # Contributors
+- Rachel W
 - [Arsile](https://github.com/itsarsile)
 - Srihari C 
 - [Muhammad Ridwan Hakim](https://github.com/rescenic)
@@ -19,6 +20,7 @@
 rashee
 - [Daniel Schneider](https://github.com/dschne27)
 - Elie Inahon
+- [Tamar Weisskopf](https://github.com/TamarW0)
 - [Abdulrahman Idrees](https://github.com/akhaled01)
 - [Argenis De La Rosa](https://github.com/theonlyhennygod)
 - [Irene](https://github.com/IreneAragona)
