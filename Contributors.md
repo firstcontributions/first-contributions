@@ -1727,6 +1727,7 @@ Jasmine
 - [Devin Jay San Nicolas]
 - [Yao1di] 
 - Gaurav Sharma
+- [Gift Maputle](https://github.com/giftTheProgrammer)
 - [Jenny Nguyen](https://github.com/bennyyenny)
 - [Nitesh Tiwari](https://github.com/nitesh2920)
 - [Noah Tonnesen](https://github.com/ntonnes)
