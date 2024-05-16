@@ -145,6 +145,7 @@ v0idborne
 - Spirited-Coder
 - Tanishq was here.
 - Sriprada
+- Chopipi was here:)
 - Aditya Saini
 - [Christian Gabi](https://github.com/christian80gabi)
 - Archit Agarwal
