@@ -21,6 +21,7 @@
   [STK](https://github.com/sherlock221B1)
 rashee
 - [Daniel Schneider](https://github.com/dschne27)
+- [Leandro Oliveira](https://github.com/LeandroOliveiraDeQueiroz/)
 - Elie Inahon
 - [Tamar Weisskopf](https://github.com/TamarW0)
 - [Abdulrahman Idrees](https://github.com/akhaled01)
