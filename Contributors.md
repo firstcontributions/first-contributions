@@ -4804,4 +4804,5 @@ git stat
 - [TransonQ](https://github.com/TransonQ)
 - [Richard Kabi](https://github.com/NebulaScout)
 - [Tamar Wienet](https://github.com/TamiWien)
+- [Matthew Moriarty](https://github.com/Matt11Moriarty)
 
