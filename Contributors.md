@@ -351,6 +351,7 @@ Abhinav Jain
 - [Darrel Chang](https://github.com/darrelchang03)
 - [Chanin L](https://github.com/chaninlaw)
 - [JhamilMar](https://github.com/JhamilMar)
+- [Mahmoud Salah Egypt](https://github.com/mahmoudsalah296)
 - Chiara Curgu
 - [MariaCassandra]
 - [Vaishnavi K](https://github.com/vaishke)
