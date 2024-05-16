@@ -22,6 +22,7 @@
 rashee
 - [Daniel Schneider](https://github.com/dschne27)
 - [Leandro Oliveira](https://github.com/LeandroOliveiraDeQueiroz/)
+- [Aiden Ayers](https://github.com/FulgurStrike)
 - Elie Inahon
 - [Tamar Weisskopf](https://github.com/TamarW0)
 - [Abdulrahman Idrees](https://github.com/akhaled01)
