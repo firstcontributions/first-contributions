@@ -1,4 +1,5 @@
 # Contributors
+- [Arsile](https://github.com/itsarsile)
 - [Muhammad Ridwan Hakim](https://github.com/rescenic)
 - [Sumit Dwivedi](https://github.com/SumitDwivedi24X)
 - ["Umair"](https://github.com/UmairRaaz)
