@@ -4788,4 +4788,5 @@ git stat
 - [ravi mahadevappa](https://github.com/ravihm17)
 - [Santiago Burgos](https://github.com/SantiBurgos1089)
 - [TransonQ](https://github.com/TransonQ)
+- [Richard Kabi](https://github.com/NebulaScout)
 
