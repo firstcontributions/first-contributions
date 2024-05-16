@@ -40,6 +40,7 @@ taha
   Elsa Lee
 - Enfu Liao
 - [Pedro do Vale](https://github.com/pedrodovale)
+- [Jhon Correa](https://github.com/jcorreahotmail)
 - [gari sa limana](https://github.com/babadroga92)
 - [Omid Khosrowshahli](https://github.com/Omid-Khosrowshahli)
 - [IyiOluwa Adaramola](https://github.com/adaraiyi18)
