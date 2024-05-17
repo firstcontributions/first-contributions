@@ -4828,4 +4828,5 @@ git stat
 - [Matthew Moriarty](https://github.com/Matt11Moriarty)
 - [Bar Shadkhin](https://github.com/ChudoSh)
 - [Amos Machora](https://github.com/amosmachora)
+- [Ygor G. Sena](https://github.com/ygor-sena)
 
