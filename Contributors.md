@@ -16,6 +16,7 @@
 - [Meryem Ahmaine](https://github.com/meryemahmaine) - hey !
 - [Michael Lumbera Jr](https://github.com/mlumbera) 
 - [Ahmed Omar Eissa](https://github.com/AhmedOmarEissa) 
+- Preetham (https://github.com/preethamkonuganti)
 - [Yuki](https://github.com/yukuri611)
 - [Salman Faris](https://github.com/salmanzego)
   [STK](https://github.com/sherlock221B1)
