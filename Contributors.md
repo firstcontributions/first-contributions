@@ -4815,4 +4815,5 @@ git stat
 - [Hamza Khaliq](https://github.com/Hikhal)
 - [Matthew Moriarty](https://github.com/Matt11Moriarty)
 - [Bar Shadkhin](https://github.com/ChudoSh)
+- [Amos Machora](https://github.com/amosmachora)
 
