@@ -183,6 +183,7 @@ v0idborne
 - [angelo dedaldino](https://github.com/angelodedaldino)
 - Mihir Mirchandani
 - Jay B - bodenmethod
+- [darksoul96](https://github.com/darksoul96)
 - Noah Koebe
 - Kshitij Ijari
 - S Prathima Singh
