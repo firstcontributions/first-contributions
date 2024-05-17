@@ -29,6 +29,7 @@ rashee
 - [Aiden Ayers](https://github.com/FulgurStrike)
 - Elie Inahon
 - [Tamar Weisskopf](https://github.com/TamarW0)
+- KSV
 - [Abdulrahman Idrees](https://github.com/akhaled01)
 - [Argenis De La Rosa](https://github.com/theonlyhennygod)
 - [Irene](https://github.com/IreneAragona)
