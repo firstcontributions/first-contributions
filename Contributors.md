@@ -86,10 +86,10 @@ chiu
 - [Bas de Bruijn] (https://github.com/Bas0164) Lets go! :D
 - [Guy Pridan] (https://github.com/guypridan) :D
 - Photon48 ;
--[Rajeswari-Machina](https://github.com/Rajeswari-Machina/)
 - [Akhil kabra] Lets go!!
 - The Big Giro Bear was here!
 - [Tal]
+-[Rajeswari-Machina](https://github.com/Rajeswari-Machina)
 - [Emilio] (https://github.com/Emiliomontes0)
 - [Nivedh G Krishnan](https://github.com/NIV27e) 
 - [Isuru Adikaram](https://github.com/izuru775)
