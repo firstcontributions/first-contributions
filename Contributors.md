@@ -291,6 +291,7 @@ Abhinav Jain
 - [Gaurav Khurana](https://github.com/gaurav-khurana)
 - [Jose Chacon](https://github.com/JoseChaconUrias)
 - [Endekalu Zemenu](https://github.com/Endekalu-Zemenu)
+- [Kevin Joe] (https://github.com/KevinHJoe)
 - [AbhishekYashSingh](https://github.com/AbhishekYashSingh)
 - [Danny](https://github.com/BigBoyBrains)
 - [adalidcht](https://github.com/adalidcht)
