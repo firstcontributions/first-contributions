@@ -4772,6 +4772,7 @@ utthamr
 - [Alberto Raúl José](https://github.com/alberto-rj)
 - [Roi Solomon](https://github.com/roisol144)
 - [Colin Agnew](https://github.com/colin-agnew/)
+- [Subhamay Sur](https://github.com/surhere)
 - [Sjoerd Molenaar](https://github.com/sjomo/)
 - [Sebastiaan Tromper](https://github.com/ST-ADA/)
 - [Floris Christiaansen](https://github.com/flori-s)
