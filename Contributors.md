@@ -1,4 +1,5 @@
 # Contributors
+- [Luke Olende](https://github.com/LukeOlende)
 - [CemreTheBoss](https://github.com/cemrenurkeles)
 - Rachel W
 - [Arsile](https://github.com/itsarsile)
@@ -17,8 +18,13 @@
 - [Meryem Ahmaine](https://github.com/meryemahmaine) - hey !
 - [Michael Lumbera Jr](https://github.com/mlumbera)
 - [Ahmed Omar Eissa](https://github.com/AhmedOmarEissa)
+- [Michael Lumbera Jr](https://github.com/mlumbera)
+- [Saeed Hossen](https://github.com/appsaeed) 👋
+- [Ahmed Omar Eissa](https://github.com/AhmedOmarEissa)
 - Preetham (https://github.com/preethamkonuganti)
+- [Dipaloke Biswas](https://github.com/dipaloke)🇧🇩
 - [Yuki](https://github.com/yukuri611)
+- Dmitriy211
 - [Salman Faris](https://github.com/salmanzego)
   [STK](https://github.com/sherlock221B1)
 rashee
@@ -27,6 +33,7 @@ rashee
 - [Aiden Ayers](https://github.com/FulgurStrike)
 - Elie Inahon
 - [Tamar Weisskopf](https://github.com/TamarW0)
+- KSV
 - [Abdulrahman Idrees](https://github.com/akhaled01)
 - [Argenis De La Rosa](https://github.com/theonlyhennygod)
 - [Irene](https://github.com/IreneAragona)
@@ -64,6 +71,7 @@ chiu
 - [Yogesh kushwaha](https://github.com/Yogi1305)
 - [Marouane-Elgoumiri](https://github.com/Marouane-Elgoumiri)
 - hi!!!👋👋👋
+- [Gracy Garg](https://github.com/amoiba42)
 - [Shay Asanova](https://github.com/shay122990)
 - [Nasiff Bello](https://github.com/Nazzcodek)
 - [Michal]
@@ -91,6 +99,7 @@ chiu
 - [Akhil kabra] Lets go!!
 - The Big Giro Bear was here!
 - [Tal]
+- Sebastian Hillbrecht (https://github.com/sebastianhillbrecht)
 -[Rajeswari-Machina](https://github.com/Rajeswari-Machina)
 - [Emilio] (https://github.com/Emiliomontes0)
 - [Nivedh G Krishnan](https://github.com/NIV27e)
@@ -149,6 +158,7 @@ v0idborne
 - [Alejandro De Luca](https://github.com/tury3001)
 - Spirited-Coder
 - Tanishq was here.
+- jcspacegirl
 - Sriprada
 - Chopipi was here:)
 - Aditya Saini
@@ -187,6 +197,7 @@ v0idborne
 - Jay B - bodenmethod
 - [darksoul96](https://github.com/darksoul96)
 - Noah Koebe
+- [Heidi Fryzell](https://github.com/heidi37)
 - Kshitij Ijari
 - S Prathima Singh
 - Gandra Rithvik Rao👍
@@ -285,6 +296,7 @@ Abhinav Jain
 - [Gaurav Khurana](https://github.com/gaurav-khurana)
 - [Jose Chacon](https://github.com/JoseChaconUrias)
 - [Endekalu Zemenu](https://github.com/Endekalu-Zemenu)
+- [Kevin Joe] (https://github.com/KevinHJoe)
 - [AbhishekYashSingh](https://github.com/AbhishekYashSingh)
 - [Danny](https://github.com/BigBoyBrains)
 - [adalidcht](https://github.com/adalidcht)
@@ -2324,6 +2336,7 @@ Dante Sanchez
 - [Abisola Majeed] (https://github.com/AbisolaMajeed)
 - [Aayushi Sinha](https://github.com/aayushi892)
 - [Naim Ahmad](https://github.com/Naim-Ahmad)
+- [Naim Kim](https://github.com/naim-kim) I'm the mix of both names above and below 🤣
 - [Arco Kim](https://github.com/ArcoKim)
 - archit singh chahuan(https://github.com/archit-8)
 - [Aditya](https://github.com/LogiqueClergyman)
@@ -4767,6 +4780,7 @@ utthamr
 - [Alberto Raúl José](https://github.com/alberto-rj)
 - [Roi Solomon](https://github.com/roisol144)
 - [Colin Agnew](https://github.com/colin-agnew/)
+- [Subhamay Sur](https://github.com/surhere)
 - [Sjoerd Molenaar](https://github.com/sjomo/)
 - [Sebastiaan Tromper](https://github.com/ST-ADA/)
 - [Floris Christiaansen](https://github.com/flori-s)
@@ -4787,6 +4801,7 @@ utthamr
 - [Jared Lawrence](https://github.com/jaredlawrence)
 - [Lawrence 2024]
 - [Ben Wang 20240513]
+- [Gitzzy]
 - Thanh Huynh
 git stat
 - [Hannah Bradfield](https://github.com/BradfieldH)
@@ -4816,3 +4831,4 @@ git stat
 - [Hamza Khaliq](https://github.com/Hikhal)
 - [Matthew Moriarty](https://github.com/Matt11Moriarty)
 - [Bar Shadkhin](https://github.com/ChudoSh)
+- [Amos Machora](https://github.com/amosmachora)
