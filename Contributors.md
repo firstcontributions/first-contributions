@@ -90,6 +90,7 @@ chiu
 - [Akhil kabra] Lets go!!
 - The Big Giro Bear was here!
 - [Tal]
+-[Rajeswari-Machina](https://github.com/Rajeswari-Machina)
 - [Emilio] (https://github.com/Emiliomontes0)
 - [Nivedh G Krishnan](https://github.com/NIV27e) 
 - [Isuru Adikaram](https://github.com/izuru775)
