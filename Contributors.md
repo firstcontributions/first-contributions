@@ -141,6 +141,7 @@ v0idborne
 - [Gaurav Tiwari](https://github.com/gauravti) HI GUYS
 - [Changsup Lee] (https://github.com/Chang9601)
 - [Osama Rab3] (https://github.com/OsamaRab3) Let's connect and collaborate :)
+- [@wazirwazir] (https://github.com/wazirwazir) Let's do it!! ;)
 - [Salaheddine Benkhanous] (https://github.com/salaheddine2011)
 - [Clinton Gilly](https://github.com/Clinton-Gilly) 
 -[Sujithk04] coderboy was here.. :)
