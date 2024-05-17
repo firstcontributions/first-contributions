@@ -12,6 +12,7 @@
 - [Vangaru Shanmukha](https://github.com/vangaru-shanmukha)
 - [Ann Mukami Kiunga](https://github.com/Kiunga1)
 - [Ifham Mohamed](https://github.com/ifhammohamed1111)
+- [Devarsh Shah](https://github.com/devshah95)
 - [Willian Luigi Carneri](https://github.com/willcarneri)
 - [Chedvi Ganz](https://github.com/chedvig)
 - [Mustafa-A-Khan](https://github.com/MUSTAFA-A-KHAN)
