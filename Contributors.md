@@ -86,7 +86,7 @@ chiu
 - [Bas de Bruijn] (https://github.com/Bas0164) Lets go! :D
 - [Guy Pridan] (https://github.com/guypridan) :D
 - Photon48 ;
--[Rajeswari Machina](https://github.com/Rajeswari-Machina/)
+-[Rajeswari-Machina](https://github.com/Rajeswari-Machina/)
 - [Akhil kabra] Lets go!!
 - The Big Giro Bear was here!
 - [Tal]
