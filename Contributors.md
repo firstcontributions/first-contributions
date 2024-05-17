@@ -19,6 +19,7 @@
 - [Michael Lumbera Jr](https://github.com/mlumbera) 
 - [Ahmed Omar Eissa](https://github.com/AhmedOmarEissa) 
 - Preetham (https://github.com/preethamkonuganti)
+- [Dipaloke Biswas](https://github.com/dipaloke)🇧🇩
 - [Yuki](https://github.com/yukuri611)
 - Dmitriy211
 - [Salman Faris](https://github.com/salmanzego)
