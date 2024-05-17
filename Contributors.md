@@ -4814,4 +4814,5 @@ git stat
 - [Tamar Wienet](https://github.com/TamiWien)
 - [Hamza Khaliq](https://github.com/Hikhal)
 - [Matthew Moriarty](https://github.com/Matt11Moriarty)
+- [Bar Shadkhin](https://github.com/ChudoSh)
 
