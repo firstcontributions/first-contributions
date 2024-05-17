@@ -237,7 +237,6 @@ v0idborne
 - [Cyril Baah](https://github.com/CyrilBaah)
 - [Rachelle Buske](https://github.com/rachelle-dbuske)
 - [Vedant Balpande](https://github.com/vedant-35)
-- [Kevin Joe] https://github.com/KevinHJoe
 - [JP Mohr] (https://https://github.com/JPMohr1224)
 - [Eunice Afuye](https://github.com/euniceafuye)
 - [Trevor Atkins](https://github.com/tatkins20)
@@ -305,6 +304,7 @@ Abhinav Jain
 - [Ninad Agashe](https://github.com/mr-ollivander)
 - [KaladinB4](https://github.com/KaladinB4)
 - [filipjaruska](https://github.com/filipjaruska)
+- [Kevin Joe] (https://github.com/KevinHJoe)
 - [Musa Yusuf Magoban] (https://github.com/Magoban)
 - [Dylan Wicker] (https://github.com/pardoner)
 - [Tanya Sorenson](https://github.com/TanyaSorenson)
