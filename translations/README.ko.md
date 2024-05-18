@@ -85,6 +85,7 @@ git commit -m "Add <Your-name> to Contributors list"
 ```
 
 `<Your-name>`을 본인 이름으로 바꾸세요.
+
 예시:
 
 ```
