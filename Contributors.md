@@ -1,4 +1,3 @@
-# Contributors
 - [Luke Olende](https://github.com/LukeOlende)
 - [CemreTheBoss](https://github.com/cemrenurkeles)
 - Rachel W
@@ -115,6 +114,7 @@ chiu
 - [Michael Zuo](https://github.com/Bimikel)
 - [Athifal] (https://github.com/athifal) Lets go...
 - [Mayank Pal] (https://github.com/MayankP2100) Here starts my open-source journey!!
+- [k2357] (git@github.com:Tenod)
 - [Magdiel GV] (https://github.com/Magdiel-GVdz) I was here xd
 - [Yoosuf Aathil] (https://github.com/YoosufAathil) Hey There ! , I am here 
 - [Michael Jay](https://github.com/MJujh)
@@ -4834,4 +4834,3 @@ git stat
 - [Bar Shadkhin](https://github.com/ChudoSh)
 - [Amos Machora](https://github.com/amosmachora)
 - [Ygor G. Sena](https://github.com/ygor-sena)
-
