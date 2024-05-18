@@ -1,4 +1,5 @@
 # Contributors
+- [k2357] (git@github.com:Tenod)
 - [Magdiel GV] (https://github.com/Magdiel-GVdz) I was here xd
 - [Michael Jay](https://github.com/MJujh)
 - [Joumaico 🇵🇭](https://github.com/joumaico)
