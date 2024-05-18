@@ -20,6 +20,8 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
 -[Sanja Rogovic](https://github.com/SanjaRogovic)
 -[Sarwat Jabeen](https://github.com/sarwatj)
  [Sujas Aggarwal🍔](https://github.com/Sujas-Aggarwal)
+
+ - [Praneeth gourla] (https://github.com/praneethgourla18)
 -[Cynthia Aoko](https://github.com/aoko-code/) It's great to be here
 - [Jazer Salazar](https://github.com/jazersalazar/) [LinkedIn](linkedin.com/in/jazersalazar/)
 - [João Azevedo](https://github.com/azevedo-joao)
