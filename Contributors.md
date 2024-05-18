@@ -4832,4 +4832,4 @@ git stat
 - [Bar Shadkhin](https://github.com/ChudoSh)
 - [Amos Machora](https://github.com/amosmachora)
 - [Ygor G. Sena](https://github.com/ygor-sena)
-
+- [Tyler Smith](https://github.com/tyler-in-it)
