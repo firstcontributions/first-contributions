@@ -21,7 +21,7 @@
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="이 저장소 복제하기" />
 
-이제 이 저장소를 자신의 기기에 클론합니다. Clone or download 버튼을 클릭하고 클립보드로 복사 아이콘을 클릭합니다.
+이제 이 저장소를 자신의 기기에 클론합니다. Code 버튼을 클릭하고 클립보드로 복사 아이콘을 클릭합니다.
 
 터미널을 열고 다음 Git 명령을 실행합니다:
 
@@ -50,16 +50,16 @@ git clone https://github.com/this-is-you/first-contributions.git
 cd first-contributions
 ```
 
-그리고 `git checkout` 명령어을 입력하여 브랜치를 생성합니다.
+그리고 `git switch` 명령어을 입력하여 브랜치를 생성합니다.
 
 ```bash
-git checkout -b <add-your-name>
+git switch -c <add-your-name>
 ```
 
 예시:
 
 ```bash
-git checkout -b add-alonzo-church
+git switch -c add-alonzo-church
 ```
 
 (브랜치의 이름에 꼭 *add*가 들어가지 않아도 됩니다. 하지만 이 브랜치의 목적은 당신의 이름을 리스트에 추가하는 것이기 때문에 이름에 *add*를 포함하는 것이 합리적입니다.)
