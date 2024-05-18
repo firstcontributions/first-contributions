@@ -28,6 +28,7 @@
 - [Salman Faris](https://github.com/salmanzego)
   [STK](https://github.com/sherlock221B1)
 rashee
+- [Taylor Phelps] (https://github.com/TaylorPhelps)
 - [Daniel Schneider](https://github.com/dschne27)
 - [Leandro Oliveira](https://github.com/LeandroOliveiraDeQueiroz/)
 - [Aiden Ayers](https://github.com/FulgurStrike)
