@@ -12,6 +12,7 @@
 - [Vangaru Shanmukha](https://github.com/vangaru-shanmukha)
 - [Ann Mukami Kiunga](https://github.com/Kiunga1)
 - [Ifham Mohamed](https://github.com/ifhammohamed1111)
+- [Devarsh Shah](https://github.com/devshah95)
 - [Willian Luigi Carneri](https://github.com/willcarneri)
 - [Chedvi Ganz](https://github.com/chedvig)
 - [Mustafa-A-Khan](https://github.com/MUSTAFA-A-KHAN)
@@ -4832,3 +4833,4 @@ git stat
 - [Matthew Moriarty](https://github.com/Matt11Moriarty)
 - [Bar Shadkhin](https://github.com/ChudoSh)
 - [Amos Machora](https://github.com/amosmachora)
+- [Ygor G. Sena](https://github.com/ygor-sena)
