@@ -101,6 +101,7 @@ chiu
 - [Akhil kabra] Lets go!!
 - The Big Giro Bear was here!
 - [Tal]
+- [Morgan] (https://github.com/JMHA1997)
 - Sebastian Hillbrecht (https://github.com/sebastianhillbrecht)
 -[Rajeswari-Machina](https://github.com/Rajeswari-Machina)
 - [Emilio] (https://github.com/Emiliomontes0)
@@ -292,6 +293,7 @@ Abhinav Jain
 - [kobamkode](https://github.com/kobamkode)
 - [Prasad Hp](https://github.com/prasad-hp)
 - [Arnav Surve](https://github.com/arnavsurve)
+- [Visakh Vijayan](https://github.com/visakhvjn)
 - [Netanel Krotovich](https://github.com/krotonet)
 - [Gaurav Khurana](https://github.com/gaurav-khurana)
 - [Jose Chacon](https://github.com/JoseChaconUrias)
@@ -4634,6 +4636,7 @@ guanj65
 - [Kamil Zalewski](https://github.com/zalewskikamil)
 - [Julie] (https://github.com/RoboticsTeacher)
 = (Paul Brennan) (https://https://github.com/PaulEdwardBrennan)
+- [Rafie A4] (https://github.com/RafieA4) (https://www.linkedin.com/in/rafie-a-9568652a8/) (https://twitter.com/A4Rafie)
 - [YuChen Den] (https://github.com/AbnerTeng)
 - [Rodrigo Mattos] (https://github.com/Rodrigomfab88)
 - [dampc] (https://github.com/drepc)
@@ -4794,6 +4797,7 @@ utthamr
 - [Shreyas A S](https://github.com/shreyas-a-s)
 - [Aratras16](https://github.com/Aratras16)
 - [yutasasaki1219](https://github.com/YutaSasaki1219)
+- [Prayag Raj Acharya] (https://github.com/Prayagrajacharya)
 - [kellykiiru](https://github.com/kellykiiru)
   [Shreya Sanjay](https://github.com/shreyyq)
 - [kinshuk-code-1729] (httsps:github.com/kinshuk-code-1729) : I was also here.... !!!!
