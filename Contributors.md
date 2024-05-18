@@ -1,10 +1,12 @@
 # Contributors
+- [yule153604](https://github.com/yule153604)
 - [Luke Olende](https://github.com/LukeOlende)
 - [CemreTheBoss](https://github.com/cemrenurkeles)
 - Rachel W
 - [Arsile](https://github.com/itsarsile)
 - Srihari C
 - [Spec-DY](https://github.com/Spec-DY) - hi! first merge!
+- [Jayesh](https://github.com/generator45)
 - [Muhammad Ridwan Hakim](https://github.com/rescenic)
 - [Luciano Otto Rodrigues](https://github.com/Lucianoottor) - Add me :)
 - [Sumit Dwivedi](https://github.com/SumitDwivedi24X)
@@ -21,7 +23,8 @@
 - [Ahmed Omar Eissa](https://github.com/AhmedOmarEissa)
 - [Michael Lumbera Jr](https://github.com/mlumbera)
 - [Saeed Hossen](https://github.com/appsaeed) 👋
-- [Ahmed Omar Eissa](https://github.com/AhmedOmarEissa)
+- [Ahmed Omar Eissa](https://github.com/AhmedOmarEissa) 
+- [Omar Bassuni](https://github.com/omarbassuni2)
 - Preetham (https://github.com/preethamkonuganti)
 - [Dipaloke Biswas](https://github.com/dipaloke)🇧🇩
 - [Yuki](https://github.com/yukuri611)
@@ -29,6 +32,7 @@
 - [Salman Faris](https://github.com/salmanzego)
   [STK](https://github.com/sherlock221B1)
 rashee
+- [Taylor Phelps] (https://github.com/TaylorPhelps)
 - [Daniel Schneider](https://github.com/dschne27)
 - [Leandro Oliveira](https://github.com/LeandroOliveiraDeQueiroz/)
 - [Aiden Ayers](https://github.com/FulgurStrike)
@@ -100,6 +104,8 @@ chiu
 - [Akhil kabra] Lets go!!
 - The Big Giro Bear was here!
 - [Tal]
+- [Prathamesh-Kothalkar](https://github.com/Prathamesh-Kothalkar)
+- [Morgan] (https://github.com/JMHA1997)
 - Sebastian Hillbrecht (https://github.com/sebastianhillbrecht)
 -[Rajeswari-Machina](https://github.com/Rajeswari-Machina)
 - [Emilio] (https://github.com/Emiliomontes0)
@@ -293,6 +299,7 @@ Abhinav Jain
 - [kobamkode](https://github.com/kobamkode)
 - [Prasad Hp](https://github.com/prasad-hp)
 - [Arnav Surve](https://github.com/arnavsurve)
+- [Visakh Vijayan](https://github.com/visakhvjn)
 - [Netanel Krotovich](https://github.com/krotonet)
 - [Gaurav Khurana](https://github.com/gaurav-khurana)
 - [Jose Chacon](https://github.com/JoseChaconUrias)
@@ -437,6 +444,7 @@ wobuxinnihuiwuliaodeduwanwodemingzi
 - [Tejima](https://github.com/Dexterte)
 - [Ahmed Salim ](https://github.com/amedsalim)
 - [Stuart Mills](https://github.com/bitsbard/)
+- [curiosity processor](https://github.com/curiosityprocessor)
 # hassan
 - [Martin Bohorquez](https://github.com/martinbohorquez/)
 - [Beita](https://github.com/liny18)
@@ -2594,6 +2602,7 @@ Dante Sanchez
 - [Meow Aadvik]
 - [Yusuf Habib Alfatha]
 - [Ben Picone] $$$
+- [VJ-Sonawane L.No: 2601]
 - [KlevCC](https://github.com/KlevCC)
 - [Armando]
 - [Gatere Kinyanjui] (https://github.com/gatere-kinyanjui)
@@ -4153,6 +4162,7 @@ LadegbayeStella)
 - [Chisha Malama](https://github.com/Chisha2004)
 - [Lewis Sawe](https://github.com/lewisawe)
 - [Chris Ramsey](https://github.com/ChrisRamsey23)
+- [Alien Huntrr](https://github.com/alienHuntrr)
 - [Quentin Macheda](https://github.com/QuentinMacheda)
 - [Igvir](https://github.com/igvir)
 - [Louis] (https://github.com/consistentlyUnfunny)
@@ -4633,6 +4643,7 @@ guanj65
 - [Kamil Zalewski](https://github.com/zalewskikamil)
 - [Julie] (https://github.com/RoboticsTeacher)
 = (Paul Brennan) (https://https://github.com/PaulEdwardBrennan)
+- [Rafie A4] (https://github.com/RafieA4) (https://www.linkedin.com/in/rafie-a-9568652a8/) (https://twitter.com/A4Rafie)
 - [YuChen Den] (https://github.com/AbnerTeng)
 - [Rodrigo Mattos] (https://github.com/Rodrigomfab88)
 - [dampc] (https://github.com/drepc)
@@ -4793,6 +4804,7 @@ utthamr
 - [Shreyas A S](https://github.com/shreyas-a-s)
 - [Aratras16](https://github.com/Aratras16)
 - [yutasasaki1219](https://github.com/YutaSasaki1219)
+- [Prayag Raj Acharya] (https://github.com/Prayagrajacharya)
 - [kellykiiru](https://github.com/kellykiiru)
   [Shreya Sanjay](https://github.com/shreyyq)
 - [kinshuk-code-1729] (httsps:github.com/kinshuk-code-1729) : I was also here.... !!!!
@@ -4834,3 +4846,5 @@ git stat
 - [Bar Shadkhin](https://github.com/ChudoSh)
 - [Amos Machora](https://github.com/amosmachora)
 - [Ygor G. Sena](https://github.com/ygor-sena)
+- [Trxshpandv](https://github.com/Trxshpandv)
+- [Filipe Valentim][https://github.com/filipevalentim] \o/
