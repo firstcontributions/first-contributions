@@ -101,6 +101,7 @@ chiu
 - [Akhil kabra] Lets go!!
 - The Big Giro Bear was here!
 - [Tal]
+- [Morgan] (https://github.com/JMHA1997)
 - Sebastian Hillbrecht (https://github.com/sebastianhillbrecht)
 -[Rajeswari-Machina](https://github.com/Rajeswari-Machina)
 - [Emilio] (https://github.com/Emiliomontes0)
