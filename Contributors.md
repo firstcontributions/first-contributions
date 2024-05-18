@@ -435,6 +435,7 @@ wobuxinnihuiwuliaodeduwanwodemingzi
 - [Tejima](https://github.com/Dexterte)
 - [Ahmed Salim ](https://github.com/amedsalim)
 - [Stuart Mills](https://github.com/bitsbard/)
+- [curiosity processor](https://github.com/curiosityprocessor)
 # hassan
 - [Martin Bohorquez](https://github.com/martinbohorquez/)
 - [Beita](https://github.com/liny18)
