@@ -25,7 +25,7 @@
 
 터미널을 열고 다음 Git 명령을 실행합니다:
 
-```
+```bash
 git clone "방금 복사한 URL"
 ```
 
@@ -35,7 +35,7 @@ git clone "방금 복사한 URL"
 
 예시:
 
-```
+```bash
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
@@ -46,19 +46,19 @@ git clone https://github.com/this-is-you/first-contributions.git
 
 (아직 저장소 디렉토리가 아니라면) 아래의 명령어를 입력하여 조금 전에 컴퓨터에 복사한 저장소 디렉토리로 이동합니다.
 
-```
+```bash
 cd first-contributions
 ```
 
 그리고 `git checkout` 명령어을 입력하여 브랜치를 생성합니다.
 
-```
+```bash
 git checkout -b <add-your-name>
 ```
 
 예시:
 
-```
+```bash
 git checkout -b add-alonzo-church
 ```
 
@@ -74,13 +74,13 @@ git checkout -b add-alonzo-church
 
 변경사항을 아래 `git add` 명령어를 입력하여 추가합니다.
 
-```
+```bash
 git add Contributors.md
 ```
 
 이제 아래 `git commit` 명령어로 변경사항을 커밋합니다.
 
-```
+```bash
 git commit -m "Add <Your-name> to Contributors list"
 ```
 
@@ -94,7 +94,7 @@ git commit -m "Add alonzo-church to Contributors list"
 
 `git push` 명령어로 변경사항을 푸시합니다.
 
-```
+```bash
 git push origin <add-your-name>
 ```
 
@@ -102,7 +102,7 @@ git push origin <add-your-name>
 
 예시:
 
-```
+```bash
 git push origin add-alonzo-church
 ```
 ## 검토를 위해 변경사항을 제출하기
