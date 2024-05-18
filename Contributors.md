@@ -4842,4 +4842,5 @@ git stat
 - [Amos Machora](https://github.com/amosmachora)
 - [Ygor G. Sena](https://github.com/ygor-sena)
 - [Trxshpandv](https://github.com/Trxshpandv)
+- [Filipe Valentim][https://github.com/filipevalentim] \o/
 
