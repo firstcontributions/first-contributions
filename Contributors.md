@@ -2156,7 +2156,7 @@ Gyanendra Thakur
 Daniela Anghel
 - Leonard Sfetcu --> https://github.com/leonardsfetcu/
 Romeu Leite
-
+- 
 - Jeremy(https://github.com/JeremyTran211)
 - Neoncephalopod
 - Rahma Mohamud
@@ -2241,7 +2241,7 @@ Romeu Leite
 - [Jivi ~_~](https://github.com/Jivi-this-side)
 - [Subro](https://www.linkedin.com/in/subrojyoti-paul)
 - [BrianC](https://github.com/BrianSChase
-)
+- [Arthur Almeida] (https://github.com/ragnarthur)
 - [zeden](https://github.com/snowxx456)
 - [Htut Oakkar](https://github.com/htutoakkar)
 - [K G Tint Swe](https://github.com/KG6605)
