@@ -4846,4 +4846,5 @@ git stat
 - [Ygor G. Sena](https://github.com/ygor-sena)
 - [Trxshpandv](https://github.com/Trxshpandv)
 - [Filipe Valentim][https://github.com/filipevalentim] \o/
+- [Bernard .C. Uwaezuoke](https://github.com/Donhadley22)
 
