@@ -196,6 +196,7 @@ v0idborne
 - [Papweer](https://github.com/Papweer)
 - [KZH](https://github.com/KyawZawHtet)
 - [Ali Zaghloul(Rubric)](https://github.com/rubr1c)
+- [Akashdeep](https://github.com/akashchandrakar007)
 - [Cheng Yui Wang](https://github.com/Cywus98213)
 - [Najifa Anjum](https://github.com/NajifaAnjum)
 - [angelo dedaldino](https://github.com/angelodedaldino)
