@@ -14,6 +14,7 @@
 - ["Umair"](https://github.com/UmairRaaz)
 - [Vangaru Shanmukha](https://github.com/vangaru-shanmukha)
 - [Ann Mukami Kiunga](https://github.com/Kiunga1)
+- [Tareq khaled] (https://github.com/Tareqkhaled1998)
 - [Ifham Mohamed](https://github.com/ifhammohamed1111)
 - [Devarsh Shah](https://github.com/devshah95)
 - [Willian Luigi Carneri](https://github.com/willcarneri)
