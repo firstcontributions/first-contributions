@@ -4856,4 +4856,5 @@ git stat
 - [Bernard .C. Uwaezuoke](https://github.com/Donhadley22)
 - [Nceiri mohamed elamine](https://github.com/med066)
 - [Samuel Osei](https://github.com/oseiagm)
+- [Jonathan Suru](https://github.com/5uru) 🇧🇯 from All In Africa
   
