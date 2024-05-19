@@ -124,6 +124,7 @@ chiu
 - [Michael Jay](https://github.com/MJujh)
 - Bousflix
 - [ImtiyaazDev](https://github.com/ImtiyaazDev)
+- [Kyo Terada](https://github.com/Teradad41)
 - [danyooo](https://github.com/danyooo)
 - [Joumaico 🇵🇭](https://github.com/joumaico)
 - [Jamie Quinlan](https://github.com/StringsIV)
