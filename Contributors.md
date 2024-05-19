@@ -1207,6 +1207,7 @@ Kencham Vinay
 - [Sameh ElGazar](https://github.com/samehelgazar95)
 - [Mitchell - mitthoma](https://github.com/mitthoma)
 - [Rafal Lenartowicz](https://github.com/rafdlen)
+- [Lucas Villanueva (Kenaii)](https://github.com/KenaiiDev/)
 - [Yuliia Petryshak](https://github.com/ypetryshak)
 - [Vamsi Srivatsan](https://github.com/vamsisrivatsanc)
 - [Chiharu Hagiwara](https://github.com/mendako1015)
