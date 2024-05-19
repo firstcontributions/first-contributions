@@ -105,6 +105,7 @@ chiu
 - The Big Giro Bear was here!
 - [Tal]
 - [Prathamesh-Kothalkar](https://github.com/Prathamesh-Kothalkar)
+- [Sarthak-Ghosh](https://github.com/sarthak7034)
 - [Morgan] (https://github.com/JMHA1997)
 - Sebastian Hillbrecht (https://github.com/sebastianhillbrecht)
 -[Rajeswari-Machina](https://github.com/Rajeswari-Machina)
