@@ -164,6 +164,7 @@ v0idborne
 - [Alejandro De Luca](https://github.com/tury3001)
 - Spirited-Coder
 - Tanishq was here.
+- gyorama | my first contrib ever
 - jcspacegirl
 - Sriprada
 - Chopipi was here:)
