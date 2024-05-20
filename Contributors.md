@@ -18,6 +18,7 @@
 - [Tareq khaled] (https://github.com/Tareqkhaled1998)
 - [Ifham Mohamed](https://github.com/ifhammohamed1111)
 - [Devarsh Shah](https://github.com/devshah95)
+- Ronak Katariya
 - [Willian Luigi Carneri](https://github.com/willcarneri)
 - [Chedvi Ganz](https://github.com/chedvig)
 - [Mustafa-A-Khan](https://github.com/MUSTAFA-A-KHAN)
