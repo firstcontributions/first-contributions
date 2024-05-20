@@ -4704,4 +4704,4 @@ git stat
 - [Anh Bui](https://github.com/anhbh310)
 - [Tim Pfeifer](https://github.com/timseoaudit)
 - [Aniket Patil](https://github.com/aniketp166)
-
+- [Damian Jasek](https://github.com/D4mianooo)
