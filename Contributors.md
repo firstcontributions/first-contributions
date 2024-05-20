@@ -4869,3 +4869,4 @@ git stat
 - [Terry Li](https://github.com/terryli-vt)
 - [Shanheng Chen](https://github.com/ShanhengChen) Love from China
 - [Softspok](https://github.com/Softspok)
+- [Faruk Yusuf Patel](https://github.com/Skiblinx)
