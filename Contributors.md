@@ -4,6 +4,7 @@
 - [CemreTheBoss](https://github.com/cemrenurkeles)
 - Rachel W
 - [Arsile](https://github.com/itsarsile)
+- [Palash]
 - Srihari C 
 - [Spec-DY](https://github.com/Spec-DY) - hi! first merge!
 - [Jayesh](https://github.com/generator45)
