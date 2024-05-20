@@ -251,10 +251,11 @@ v0idborne
 - [Tanmay Anand] Helloooooo
 - [ku1d33p](https://github.com/ku1d33p)
 - [UrielReyes](https://github.com/UriReyes)
+- [Aishwarya Verma](https://github.com/Aishwarya-Verma)
 - [Krish Dave](https://github.com/KrishDave1)
 - [Asif Iqbal](https://github.com/asifficial)
 - [Abhilov23](https://github.com/abhilov23)
-- [Bigmancozmo](https://github.com/Bigmancozmo)
+- [Bigmancozmo](https://github.com/Bigmancozmo)s
 - [Dev DXS](https://github.com/Divyanshu-DXS)
 - [Dan Siegelman](https://github.com/dansiegelman)
 - [Gitstar-OC](https://github.com/Gitstar-OC)
