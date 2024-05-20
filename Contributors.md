@@ -1986,6 +1986,7 @@ Jasmine
 - [Julius Jones] (https://github.com/jlwj22)
 - [Dave Friedman](https://github.com/heracliteanflux)
 - [Max C](https://github.com/mintmaxed)
+- [yggycs](https://github.com/yggycs) It's me. Hi!
 - [Kayr Zhakupov a.k.a. iamkayrkayr](https://github.com/iamkayrkayr)
 - [Vicente Guzmán](https://vicenteguzman.com/)
 - [Vinit Jahagirdar](https://github.com/Vinit1909)
