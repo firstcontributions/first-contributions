@@ -21,6 +21,7 @@
 - ["Umair"](https://github.com/UmairRaaz)
 - [Vangaru Shanmukha](https://github.com/vangaru-shanmukha)
 - [Ann Mukami Kiunga](https://github.com/Kiunga1)
+- [Climax](https://github.com/Climax12)
 - [Tareq khaled] (https://github.com/Tareqkhaled1998)
 - [Ifham Mohamed](https://github.com/ifhammohamed1111)
 - [Youssef Charif Hamidi](https://github.com/Chareeef)
