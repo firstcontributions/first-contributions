@@ -4904,3 +4904,4 @@ git stat
 - [Binayak Bhattacharjee](https://github.com/ZenMachina16)
 - [Akash Javali](https://github.com/akashjavali)
 - [Shrinav Loka] (https://github.com/lokashrinav)
+- [Talasia Calderon](https://github.com/TalasiaCalderon)
