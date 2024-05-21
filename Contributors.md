@@ -10,7 +10,8 @@
 - **Tehila Etinger**✨[![GitHub](https://img.icons8.com/?size=30&id=sbhfmWq4KRr1)](https://github.com/TehilaEtinger) [![LinkedIn](https://img.icons8.com/?size=25&id=xuvGCOXi8Wyg)](https://www.linkedin.com/in/tehila-etinger-586b38222/)👋
 - - [Arsile](https://github.com/itsarsile)
 - [Palash]
-- Srihari C 
+- Srihari C
+- [Chandrabhatta Sruti Swaroop](https://www.github.com/goatsefl) 
 - [Spec-DY](https://github.com/Spec-DY) - hi! first merge!
 - [Jayesh](https://github.com/generator45)
 - [Muhammad Ridwan Hakim](https://github.com/rescenic)
