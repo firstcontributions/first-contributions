@@ -430,6 +430,7 @@ Abhinav Jain
 - [Ethan Corbett] (https://github.com/Schnozhand03)
 - Cinthylli
 - [Michael Chen](https://github.com/vayfarer/)
+- [ANUJ] (https://github.com/THEBOSS0369)
 - [Jair Balcazar](https://github.com/Jairbal) 🕷️
 - [Erin Nelson](https://github.com/erindust)
 - [Abhiraj Aditya](https://github.com/abhiraj860)
