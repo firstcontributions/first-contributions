@@ -217,6 +217,7 @@ v0idborne
 - [Himangi Tripathy](https://github.com/H1mang1?tab=repositories)
 - [Hariienesh Arumugam](https://github.com/CosmicCodeBase)
 - [Maneesha Gunawardhana (mGunawardhana💀)](https://github.com/mGunawardhana)
+- [Robot8lover](https://github.com/Robot8lover)
 - [Vignesh S](https://github.com/VigneshVicky97)
 - [Papweer](https://github.com/Papweer)
 - [KZH](https://github.com/KyawZawHtet)
