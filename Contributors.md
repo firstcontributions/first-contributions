@@ -1735,6 +1735,7 @@ Jasmine
 - [Arpit Mishra](https://github.com/arpit-mishra-1408)
 - [Arthion Daena](https://github.com/arthiondaena)
 - [De incarnated Wizard](https://github.com/AsikumaGod)
+- [David Serrano] (https://github.com/d-serranos)
 - [Mukul Sharma](https://github.com/mukuliskul)
 - [Kalhara Tennakoon](https://github.com/kalharatennakoon)
 - [@5atoshiNakamoto](https://github.com/5atoshiNakamoto)
