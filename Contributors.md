@@ -598,6 +598,7 @@ Sam Barns
 - [Jessica Ebanks] 
 - [KrupickaJan]
 - [YoMomChestHair]
+- [Collin Montague](https://github.com/collinm10)
 - [Natasa Trisha](https://github.com/Trish1996-wq)
 - [Balaganesh](https://github.com/balaganesh102004)
 - [Maksym Vaskin] (https://github.com/maxxim333/
