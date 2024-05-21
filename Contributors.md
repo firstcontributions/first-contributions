@@ -9,13 +9,12 @@
 - Rachel W
 - **Tehila Etinger**✨[![GitHub](https://img.icons8.com/?size=30&id=sbhfmWq4KRr1)](https://github.com/TehilaEtinger) [![LinkedIn](https://img.icons8.com/?size=25&id=xuvGCOXi8Wyg)](https://www.linkedin.com/in/tehila-etinger-586b38222/)👋
 - - [Arsile](https://github.com/itsarsile)
-- [Palash]
-- Srihari C
-- [Chandrabhatta Sruti Swaroop](https://www.github.com/goatsefl) 
-- [Spec-DY](https://github.com/Spec-DY) - hi! first merge!
+- [Mohanned Sameh](https://github.com/mohanned-sameh)
+- [Chandrabhatta Sruti Swaroop](https://www.github.com/goatsefl)
+- [Spec-DY](https://github.com/Spec-DY)
 - [Jayesh](https://github.com/generator45)
 - [Muhammad Ridwan Hakim](https://github.com/rescenic)
-- [Luciano Otto Rodrigues](https://github.com/Lucianoottor) - Add me :)
+- [Luciano Otto Rodrigues](https://github.com/Lucianoottor)
 - [Sumit Dwivedi](https://github.com/SumitDwivedi24X)
 - [Dhanusha Chittidi]( https://github.com/Dhanusha-Chittidi/)
 - ["Umair"](https://github.com/UmairRaaz)
@@ -25,32 +24,30 @@
 - [Ifham Mohamed](https://github.com/ifhammohamed1111)
 - [Youssef Charif Hamidi](https://github.com/Chareeef)
 - [Devarsh Shah](https://github.com/devshah95)
-- Ronak Katariya
 - [Willian Luigi Carneri](https://github.com/willcarneri)
 - [Chedvi Ganz](https://github.com/chedvig)
 - [Mustafa-A-Khan](https://github.com/MUSTAFA-A-KHAN)
-- [Meryem Ahmaine](https://github.com/meryemahmaine) - hey !
+- [Meryem Ahmaine](https://github.com/meryemahmaine)
 - [Michael Lumbera Jr](https://github.com/mlumbera)
 - [Saeed Hossen](https://github.com/appsaeed) 👋
 - [Ahmed Omar Eissa](https://github.com/AhmedOmarEissa) 
 - Samir
 - [Omar Bassuni](https://github.com/omarbassuni2)
-- Preetham (https://github.com/preethamkonuganti)
+- [Preetham](https://github.com/preethamkonuganti)
 - [Dipaloke Biswas](https://github.com/dipaloke)🇧🇩
 - [Yuki](https://github.com/yukuri611)
-- Dmitriy211
+- [Dmitriy211]
 - [Salman Faris](https://github.com/salmanzego)
 - [Sofiyullahi Jamiu](https://github.com/orpcy)
-  [STK](https://github.com/sherlock221B1)
-rashee
+- [STK](https://github.com/sherlock221B1)
 - [Muhammed Favaz vp](https://github.com/favaz-vp)
 - [Taylor Phelps] (https://github.com/TaylorPhelps)
 - [Daniel Schneider](https://github.com/dschne27)
 - [Leandro Oliveira](https://github.com/LeandroOliveiraDeQueiroz/)
 - [Aiden Ayers](https://github.com/FulgurStrike)
-- Elie Inahon
+- [Elie Inahon]
 - [Tamar Weisskopf](https://github.com/TamarW0)
-- KSV
+- [KSV]
 - [Abdulrahman Idrees](https://github.com/akhaled01)
 - [Argenis De La Rosa](https://github.com/theonlyhennygod)
 - [Irene](https://github.com/IreneAragona)
