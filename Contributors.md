@@ -4865,6 +4865,7 @@ git stat
 - [Abhishek Allaboina](https://github.com/abshek7)
 - [Chiranjibi Neuapne](https://github.com/I-Am-Ashura)
 - [Karthick K](https://github.com/kkz6)
+- [StellaWanja](https://github.com/StellaWanja)
 - [ravi mahadevappa](https://github.com/ravihm17)
 - [Santiago Burgos](https://github.com/SantiBurgos1089)
 - [TransonQ](https://github.com/TransonQ)
