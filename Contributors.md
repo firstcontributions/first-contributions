@@ -4764,6 +4764,7 @@ guanj65
 - [Syed-Muhammad-Hassan-Shah](https://github.com/hassanshah0900)
 - [Microwavedd](https://github.com/microwavedd)
 - [Dennis X](https://github.com/dtx319)
+- [Ntokozo Vilakazi](https://github.com/sprusrxeroxx)
 - [George Zabakhidze](https://github.com/GiorgiZabakhidze)
 - [Sudeep Patel] (https://github.com/devsudeep)
 - [nobu5chi](https://github.com/nobu5chi)
