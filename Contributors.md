@@ -4918,5 +4918,6 @@ git stat
 - [Akash Javali](https://github.com/akashjavali)
 - [Shrinav Loka] (https://github.com/lokashrinav)
 - [Talasia Calderon](https://github.com/TalasiaCalderon)
+  - [Benjamin-Appiah-Poku](https://github.com/Benappiahpoku)
 - [Joyce](https://github.com/swejoycechoi)
 - [bob-feracho](https://github.com/bob-feracho)
