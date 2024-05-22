@@ -71,7 +71,7 @@ git checkout -b add-luke-oliff
 
 Now open `Contributors.md` file in a text editor, add yer name t' it. Don't add it at th' beginnin' or end o' th' file. Put it anywhere in between. Now, save th' file.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcogit ntributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 If ye go t' th' project directory 'n execute th' command `git status`, ye'll see thar are changes.
 
