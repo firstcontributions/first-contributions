@@ -101,6 +101,7 @@ chiu
 - [Nasiff Bello](https://github.com/Nazzcodek)
 - [Michal]
 - [SeahM]
+- [Lama1kid]
 - oberheitzer
 - [Toan nt2311]
 - [Marvin Romero](https://github.com/Marsmarv)
