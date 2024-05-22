@@ -18,6 +18,7 @@
 - [Palash]
 - Srihari C
 - [Chandrabhatta Sruti Swaroop](https://www.github.com/goatsefl) 
+- [Karl D Reta](https://github.com/karldreta) has joined the party!
 - [Spec-DY](https://github.com/Spec-DY) - hi! first merge!
 - [Jayesh](https://github.com/generator45)
 - [Muhammad Ridwan Hakim](https://github.com/rescenic)
