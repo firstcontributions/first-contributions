@@ -2116,6 +2116,7 @@ Gyanendra Thakur
 - [Isabela Magalhães](https://github.com/isarbela)
 - [John Caleb ⚡](https://github.com/thejohncaleb)
 - [Rey Jao](https://github.com/jao-rey)
+- [Wessel Steenkamp](https://github.com/wesse206)
 - [Eiheir] (https://github.com/ebininin)
 - [Maria Carrera](https://github.com/MarieCourse)
 - [Aditya Mitra](https://github.com/mitras-git)
