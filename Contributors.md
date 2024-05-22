@@ -532,6 +532,7 @@ git add Contributors.md# Contributors
 - [Tristan Long](https://github.com/longtr28)
 - [Dawson Bremner](https://github.com/FLYGUY4400)
 - [Shrijan](https://github.com/shrijxn)
+- [Cameron Schultz](https://github.com/cScarletter)
 - jsuto
 - Justin Hosfeld
 - islak
