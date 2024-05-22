@@ -61,6 +61,7 @@ rashee
 - [Irene](https://github.com/IreneAragona)
 - [Kevin Tuei](https://github.com/kevshakes)
 - [Kevin Cherian George](https://github.com/kevin-291)
+- [Vishaal](https://github.com/pneumoniapriest)
 - [josebaeza](https://github.com/josebaezae)
 - [Vivek Singh] (https://github.com/viveksingh97)
 - [Yeon Lee] (https://github.com/yeonholee50) - happy to help with anything =)
