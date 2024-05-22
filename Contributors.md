@@ -2699,6 +2699,7 @@ Dante Sanchez
 - [Faith Adewuyi](https://github.com/faithadewuyi)
 - [Ayush Majumdar]
 - [Suraj](https://github.com/SurajKamal24)
+- [Satvik](https://github.com/DevSatvik)
 - [Alina Wayne](https://github.com/alina-wayne)
   Ashraful
 - [Soliu Adeosun](https://github.com/sawlew)
