@@ -1,5 +1,6 @@
 # Contributors
 - [Rafael Biasiolo] (https://github.com/Biasiolo) ** Go Horse! **
+- [Ekene Ndubueze](https://github.com/Ozi-Tech)
 - [Kelvin Arias] (https://github.com/KelFrontEndDev) ** Happy Coding! **
 - [Yash Agarwal](https://github.com/Yash05080)**have a great open source journey to everyone 🤙**
 - [Angelique Copere](https://github.com/Tonyac-create)
@@ -4937,3 +4938,4 @@ git stat
 - [bob-feracho](https://github.com/bob-feracho)
 - [Juanes527](https://github.com/Juanes527)
 - [Edgar Carrion](https://github.com/efccc0010) 🇵🇪⚽💻
+- 
