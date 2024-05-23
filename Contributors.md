@@ -4955,3 +4955,4 @@ git stat
 - [Aashish Agarwal](https://github.com/aashish47)
 - [shosei](https://github.com/sho-chan-081)
 - [Susan Githaiga](https://github.com/SusanGithaigaN)
+- [Tom Hutchinson](https://github.com/tomhutchi)
