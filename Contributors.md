@@ -1365,6 +1365,7 @@ guanj65
 - [Amanda Downie](https://github.com/aninymous412)
 - [Nick Boswell](https://www.linkedin.com/in/nick-boswell/)
 - [Muhammad Sajeedul Haque](https://github.com/Sajeed7804)
+- [MasonKD](https://github.com/MasonKD)
 - [Ptitet](https://github.com/Ptitet)
   -Jake Bersani
   [Gelu Guta](https://github.com/ggelu) [LinkedIn](https://www.linkedin.com/in/gelu-guta-635bb9233/)
@@ -1776,6 +1777,7 @@ Jasmine
 - [Shahadat Shanto](https://github.com/msh-Shanto)
 - [Josiah Abrahams](https://github.com/josiahabrahams)
 - [Eric]
+- [Anmaa]
 - [oracle002](https://github.com/oracle002)
 - [saingchildren](https://github.com/saingchildren)
 - Faith Ononye
@@ -4961,3 +4963,4 @@ git stat
 - [Susan Githaiga](https://github.com/SusanGithaigaN)
 - [Tom Hutchinson](https://github.com/tomhutchi)
 - [Aleks Zverev](hhttps://github.com/sandexzx)
+- [Zara Phukan](https://github.com/ZaraPhu)
