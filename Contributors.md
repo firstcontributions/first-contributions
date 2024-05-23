@@ -10,10 +10,12 @@
 - [Praveen Sahu](https://github.com/praveen7512)
 - [Luke Olende](https://github.com/LukeOlende)
 - [Ruan S.](https://github.com/ruun)
+- [Hend Mohammed.](https://github.com/HendMohammed90)
 - [narkis9984](https://github.com/narkis9984)
 - [CemreTheBoss](https://github.com/cemrenurkeles)
 - [hawkinswinja](https://github.com/hawkinswinja)
 - Rachel W
+- BlackCro
 - ***[Aharon Seidman](https://github.com/hamachshev)***👋
 - **Tehila Etinger**✨[![GitHub](https://img.icons8.com/?size=30&id=sbhfmWq4KRr1)](https://github.com/TehilaEtinger) [![LinkedIn](https://img.icons8.com/?size=25&id=xuvGCOXi8Wyg)](https://www.linkedin.com/in/tehila-etinger-586b38222/)👋
 - - [Arsile](https://github.com/itsarsile)
@@ -107,6 +109,8 @@ chiu
 - [Marouane-Elgoumiri](https://github.com/Marouane-Elgoumiri) 
 - hi!!!👋👋👋
 - [Gracy Garg](https://github.com/amoiba42)
+- [Aditya Narayanan S](https://github.com/adityanarayanan343)
+- [Sandhya Srinivasan](https://github.com/sandhyasrini)
 - [Shay Asanova](https://github.com/shay122990)
 - [Nasiff Bello](https://github.com/Nazzcodek)
 - [Michal]
@@ -204,6 +208,7 @@ v0idborne
 - gyorama | my first contrib ever
 - jcspacegirl
 - Sriprada
+- [GoblikM] (https://github.com/GoblikM) 
 - Chopipi was here:)
 - Aditya Saini
 - [Christian Gabi](https://github.com/christian80gabi)
@@ -821,6 +826,7 @@ Pereira
 - [Neelanjan Kayal] (https://github.com/nkayal)
 - [Marin Kariuki] (https://github.com/toma5580)
 - [Jasper Zhuang](https://github.com/Jun-wei136/)
+-[Mayur Hedau](https://github.com/mayurcodinglover)
 - [Aidan Stoner](https://github.com/AidanS39)
 - [faiza liyaqat](https://github.com/faizaliyaqat)
 - [Christian McKinnon](https://github.com/christianmckinnon)
@@ -841,6 +847,7 @@ Pereira
 - [Roshan Kawale](https://github.com/roshan-Kawale)
 - [Mayur K M] (https://github.com/mVr89)
 - [TRM](https://github.com/thirimon4550)
+- [ILC]
 - Sree
 - Taylor
 - Monika M
@@ -1940,6 +1947,7 @@ Jasmine
 - [Abhinav] (https://github.com/saiabhinav75)
 - [Gyamposu dodzi](https://github.com/gyamposudodzi) [Linkedin](https://linkedin.com/dodzigyamposu)
 - [turtle-papa](https://github.com/turtle-papa)
+- [Aethereal-Wraith](https://github.com/Aethereal-Wraith) I hope that whoever reads this has a nice day! :)
 - [GCabane] (https://github.com/GCabane)
 - [Soaring Eagle](https://github.com/SoaringEagle910)
 - [TsvetislavRangelov] (https://github.com/TsvetislavRangelov)
@@ -3472,6 +3480,7 @@ sh5ed
 - [Tanisha Agarwal](https://github.com/Agrwaltanisha)
 - [alice](https://github.com/aherston)
 - [Samuel dunamis](https://github.com/dunamislimitless)
+- [Blue owl](https://github.com/b-owl)
 - [Lillyann](https://github.com/lcelisse)
 - [Arun Arunisto](https://github.com/arun-arunisto)
 - [ronnapatPalo] (https://github.com/ronnapatPalo)
@@ -4935,7 +4944,14 @@ git stat
 - [Talasia Calderon](https://github.com/TalasiaCalderon)
 - [Benjamin-Appiah-Poku](https://github.com/Benappiahpoku)
 - [Joyce](https://github.com/swejoycechoi)
-- [Ya-Wei Tsai](https://github.com/Jeremytsai6987)
+- [S-mburu](https://github.com/S-Mburu)
+- [Jeremytsai6987](https://github.com/Jeremytsai6987)
 - [bob-feracho](https://github.com/bob-feracho)
 - [Juanes527](https://github.com/Juanes527)
 - [Edgar Carrion](https://github.com/efccc0010) 🇵🇪⚽💻
+- [Seto](https://github.com/setoaryotomo)
+- [Jess Hew](https://github.com/yezeahew)
+- [Mahmud Hasan](https://github.com/Mahmud-cse)
+- [Aashish Agarwal](https://github.com/aashish47)
+- [shosei](https://github.com/sho-chan-081)
+- [Susan Githaiga](https://github.com/SusanGithaigaN)
