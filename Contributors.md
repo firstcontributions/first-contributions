@@ -108,6 +108,7 @@ chiu
 - [Marouane-Elgoumiri](https://github.com/Marouane-Elgoumiri) 
 - hi!!!👋👋👋
 - [Gracy Garg](https://github.com/amoiba42)
+- [Aditya Narayanan S](https://github.com/adityanarayanan343)
 - [Sandhya Srinivasan](https://github.com/sandhyasrini)
 - [Shay Asanova](https://github.com/shay122990)
 - [Nasiff Bello](https://github.com/Nazzcodek)
