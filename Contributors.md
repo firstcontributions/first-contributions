@@ -4941,3 +4941,4 @@ git stat
 - [Edgar Carrion](https://github.com/efccc0010) 🇵🇪⚽💻
 - [Seto](https://github.com/setoaryotomo)
 - [Jess Hew](https://github.com/yezeahew)
+- [Aashish Agarwal](https://github.com/aashish47)
