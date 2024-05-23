@@ -4962,4 +4962,5 @@ git stat
 - [shosei](https://github.com/sho-chan-081)
 - [Susan Githaiga](https://github.com/SusanGithaigaN)
 - [Tom Hutchinson](https://github.com/tomhutchi)
+- [Aleks Zverev](hhttps://github.com/sandexzx)
 - [Zara Phukan](https://github.com/ZaraPhu)
