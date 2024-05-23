@@ -4862,6 +4862,7 @@ utthamr
 - [Sebastiaan Tromper](https://github.com/ST-ADA/)
 - [Floris Christiaansen](https://github.com/flori-s)
 - [Peculia](https://github.com/peculiap1)
+- [Aashish Agarwal](https://github.com/aashish47)
 - [Shubham Sahu](https://github.com/shubhcode92)
 - [Ashok Manoaharan](https://github.com/ashokm273)
 - [Trudeau Okech](https://github.com/TrudeauOkech)
