@@ -1365,6 +1365,7 @@ guanj65
 - [Amanda Downie](https://github.com/aninymous412)
 - [Nick Boswell](https://www.linkedin.com/in/nick-boswell/)
 - [Muhammad Sajeedul Haque](https://github.com/Sajeed7804)
+- [MasonKD](https://github.com/MasonKD)
 - [Ptitet](https://github.com/Ptitet)
   -Jake Bersani
   [Gelu Guta](https://github.com/ggelu) [LinkedIn](https://www.linkedin.com/in/gelu-guta-635bb9233/)
