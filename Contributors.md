@@ -205,6 +205,7 @@ v0idborne
 -[Sujithk04] coderboy was here.. :)
 - Kaushal Gosavi
 - [Alejandro De Luca](https://github.com/tury3001)
+- [Rodgers Wisdom](https://github.com/rodgerswisdom)
 - Spirited-Coder
 - Tanishq was here.
 - gyorama | my first contrib ever
