@@ -1940,7 +1940,7 @@ Jasmine
 - [Abhinav] (https://github.com/saiabhinav75)
 - [Gyamposu dodzi](https://github.com/gyamposudodzi) [Linkedin](https://linkedin.com/dodzigyamposu)
 - [turtle-papa](https://github.com/turtle-papa)
-- [Aethereal-Wraith](https://github.com/Aethereal-Wraith)
+- [Aethereal-Wraith](https://github.com/Aethereal-Wraith) I hope that whoever reads this has a nice day! :)
 - [GCabane] (https://github.com/GCabane)
 - [Soaring Eagle](https://github.com/SoaringEagle910)
 - [TsvetislavRangelov] (https://github.com/TsvetislavRangelov)
