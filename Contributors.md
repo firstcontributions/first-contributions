@@ -4920,7 +4920,7 @@ git stat
 - [Samuel Osei](https://github.com/oseiagm)
 - [Jonathan Suru](https://github.com/5uru) 🇧🇯 from All In Africa
 - [Siddharth K](https://github.com/Sid-Alpha)
-- [Vikas Jaiswal (StealthX)] (https://github.com/v1kasjaiswal)
+- [Vikas Jaiswal (StealthX)](https://github.com/v1kasjaiswal)
 - [ychibani42](https://github.com/ychibani42)
 - [Terry Li](https://github.com/terryli-vt)
 - [Shanheng Chen](https://github.com/ShanhengChen) Love from China
