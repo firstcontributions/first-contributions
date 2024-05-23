@@ -4935,3 +4935,4 @@ git stat
 - [Joyce](https://github.com/swejoycechoi)
 - [bob-feracho](https://github.com/bob-feracho)
 - [Juanes527](https://github.com/Juanes527)
+- [Edgar Carrion](https://github.com/efccc0010) 🇵🇪⚽💻
