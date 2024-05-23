@@ -1,5 +1,6 @@
 # Contributors
 - [Rafael Biasiolo] (https://github.com/Biasiolo) ** Go Horse! **
+- [Ekene Ndubueze](https://github.com/Ozi-Tech)
 - [Kelvin Arias] (https://github.com/KelFrontEndDev) ** Happy Coding! **
 - [Yash Agarwal](https://github.com/Yash05080)**have a great open source journey to everyone 🤙**
 - [Angelique Copere](https://github.com/Tonyac-create)
@@ -16,6 +17,7 @@
 - Rachel W
 - ***[Aharon Seidman](https://github.com/hamachshev)***👋
 - **Tehila Etinger**✨[![GitHub](https://img.icons8.com/?size=30&id=sbhfmWq4KRr1)](https://github.com/TehilaEtinger) [![LinkedIn](https://img.icons8.com/?size=25&id=xuvGCOXi8Wyg)](https://www.linkedin.com/in/tehila-etinger-586b38222/)👋
+- [Ekene Ndubueze](https://github.com/Ozi-Tech)
 - - [Arsile](https://github.com/itsarsile)
 - [Palash]
 - [andacistan](https://github.com/andacistan)
@@ -4938,3 +4940,4 @@ git stat
 - [bob-feracho](https://github.com/bob-feracho)
 - [Juanes527](https://github.com/Juanes527)
 - [Edgar Carrion](https://github.com/efccc0010) 🇵🇪⚽💻
+- 
