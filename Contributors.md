@@ -4862,7 +4862,6 @@ utthamr
 - [Sebastiaan Tromper](https://github.com/ST-ADA/)
 - [Floris Christiaansen](https://github.com/flori-s)
 - [Peculia](https://github.com/peculiap1)
-- [Aashish Agarwal](https://github.com/aashish47)
 - [Shubham Sahu](https://github.com/shubhcode92)
 - [Ashok Manoaharan](https://github.com/ashokm273)
 - [Trudeau Okech](https://github.com/TrudeauOkech)
@@ -4941,3 +4940,4 @@ git stat
 - [Juanes527](https://github.com/Juanes527)
 - [Edgar Carrion](https://github.com/efccc0010) 🇵🇪⚽💻
 - [Seto](https://github.com/setoaryotomo)
+- [Aashish Agarwal](https://github.com/aashish47)
