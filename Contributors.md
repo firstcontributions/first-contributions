@@ -4918,3 +4918,4 @@ git stat
 - [Shrinav Loka] (https://github.com/lokashrinav)
 - [Talasia Calderon](https://github.com/TalasiaCalderon)
 - [Joyce](https://github.com/swejoycechoi)
+- [Seto](https://github.com/setoaryotomo)
