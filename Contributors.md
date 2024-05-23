@@ -107,6 +107,7 @@ chiu
 - [Marouane-Elgoumiri](https://github.com/Marouane-Elgoumiri) 
 - hi!!!👋👋👋
 - [Gracy Garg](https://github.com/amoiba42)
+- [Sandhya Srinivasan](https://github.com/sandhyasrini)
 - [Shay Asanova](https://github.com/shay122990)
 - [Nasiff Bello](https://github.com/Nazzcodek)
 - [Michal]
@@ -4940,3 +4941,5 @@ git stat
 - [Juanes527](https://github.com/Juanes527)
 - [Edgar Carrion](https://github.com/efccc0010) 🇵🇪⚽💻
 - [Seto](https://github.com/setoaryotomo)
+- [Jess Hew](https://github.com/yezeahew)
+- [Aashish Agarwal](https://github.com/aashish47)
