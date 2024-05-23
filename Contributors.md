@@ -10,6 +10,7 @@
 - [Praveen Sahu](https://github.com/praveen7512)
 - [Luke Olende](https://github.com/LukeOlende)
 - [Ruan S.](https://github.com/ruun)
+- [Thabo Tankiso Thebe](https://github.com/majortank)
 - [narkis9984](https://github.com/narkis9984)
 - [CemreTheBoss](https://github.com/cemrenurkeles)
 - [hawkinswinja](https://github.com/hawkinswinja)
