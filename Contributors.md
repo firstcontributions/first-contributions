@@ -616,6 +616,7 @@ Sam Barns
 - [Lekhana Ganji](https://github.com/lekhana3003)
 - [Luca Castelli](https://github.com/Luca-Castelli)
 - [Raphael Ndiritu](https://github.com/Raph-royalty)
+- [Ashton Jordan](https://github.com/ashjorda)
 - [StrawberryCrepe Cookie](https://github.com/StrawberyCrepeCookie)
 - [Georgios Alexandros Christodoulou](https://github.com/AlexBabkf)
 - [Alec Swift] (https://github.com/alecswift)
