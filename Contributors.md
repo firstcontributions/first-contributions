@@ -3096,6 +3096,7 @@ Philip Ambattu
 - [jrTilak](https://github.com/jrTilak)
 - [Xianyxu](https://github.com/xianyxu)
 - [jerjjj](https://github.com/jerjjj)
+- [rakin](https://github.com/raiyen-zayed-rakin)
 - [raphaeling](https://github.com/raphaeling)
 - [jkasama](https://github.com/jkasama)
 - [ljunya](https://github.com/ljy18)
