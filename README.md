@@ -209,7 +209,7 @@ Now let's get you started with contributing to other projects. We've compiled a 
 ### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
 
 ## AI Tool for Git Commands
-<a href="https://www.gitfluence.com/">GitFluence: Fast & Easy Git Command Generator</a><br>
+<img style="float: right;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC6E+JdAAAAFXRSTlMAQOfuYk3/9m0E2WkwsCcTxAiPc5uUBYizAAAA5UlEQVR4AXXPVwLEIAhF0adYIGr6/tc6UaYx5X7mRAW85zwF/Cn6lDLLb5vSlQ8/NVAaWr7VRSmqxN/vTREljfKHVkppcnCxDY7m3LjQz8CyDmWzQ48qsO2p99xI4pQ0lufMVFTV9CjqdqjqvmpalBaFvSoDzqd3nCYntY6Zc4BPFtPaZ56Ggn7hpgsh5A+ksmxxfDwB9hYTnTv1S08BJHiLWt4XXEmhpLUFRzZ2KWf94IClKZ7dNE496nOeahtexdTbH3PuMOnNa3vsYGN6zmnuhM7szZw23deYOZvtDraQ0yl4dQMkMw2sEFAN4gAAAABJRU5ErkJggg==" /><a href="https://www.gitfluence.com/">GitFluence: Fast & Easy Git Command Generator</a><br>
 <p>Find the Git Command You Need Now!<br>
 The AI-driven solution that helps you quickly find the right command. Get started with Git Command Generator today and save time.</p>
 
