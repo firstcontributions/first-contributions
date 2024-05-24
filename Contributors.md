@@ -86,6 +86,7 @@ rashee
 - [Felix Rosén] (https://github.com/rosenfelix/)
 - [CleveR.](https://github.com/rekocleve) - Happy to help with anything =)
 taha
+- [VASHU JOSHI]
 - [Jordan Salamone](https://github.com/JordanSalamone)
 - [Jishnu J](https://github.com/JishnuJayaraj)
 - [Srushti Haryan](https://github.com/SrushtiHaryan)
@@ -166,6 +167,7 @@ chiu
 - [Magdiel GV] (https://github.com/Magdiel-GVdz) I was here xd
 - [Yoosuf Aathil] (https://github.com/YoosufAathil) Hey There ! , I am here 
 - [Michael Jay](https://github.com/MJujh)
+- [VASHU JOSHI]hey there see me one of the best coder in planet earth!..........coding prince price vegeta
 - Bousflix
 - [ImtiyaazDev](https://github.com/ImtiyaazDev)
 - [Kyo Terada](https://github.com/Teradad41)
