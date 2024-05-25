@@ -2684,6 +2684,7 @@ Dante Sanchez
 - [Suraj Aute](https://github.com/RNTUNOOB) 
 - [Sudip Parajuli](https://github.com/Sudip777)
 - [Mellon Amutuheire](https://github.com/AMUTUHEIREMELLON)
+- [Jason Scott](https://github.com/Scott-Jason)
 - [Metti Alinia](https://github.com/mett-E/)
 - [Shishir Kr] (https://github.com/krshishir1)
 - 🐈‍⬛[lonely_caat](https://github.com/lonely-caat)🐈‍⬛
