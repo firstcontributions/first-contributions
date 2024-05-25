@@ -26,6 +26,7 @@
 - [Yoummu](https://github.com/Yoummu)
 - [Palash]
 - [Sonu]
+- [Jiri Cizek] ** first merge :) **
 - [andacistan](https://github.com/andacistan)
 - Srihari C
 -[V.Aishwarya]
