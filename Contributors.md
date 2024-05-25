@@ -226,6 +226,7 @@ v0idborne
 - [Christian Gabi](https://github.com/christian80gabi)
 - Archit Agarwal
 - KakDealz
+- Snazzy Fazzy
 - [Niko Schlüter] (https://github.com/Nikoslr)
 - Droov was here https://github.com/yassir781
 - [Ayoub Laaoufi](https://github.com/aylaaoufi) :D I was pleased to meet you.
