@@ -19,6 +19,7 @@
 - [narkis9984](https://github.com/narkis9984)
 - [CemreTheBoss](https://github.com/cemrenurkeles)
 - [hawkinswinja](https://github.com/hawkinswinja)
+- [jadahego](https://github.com/jadahego)**jdhg**
 - Rachel W
 - BlackCro
 - ***[Aharon Seidman](https://github.com/hamachshev)***👋
