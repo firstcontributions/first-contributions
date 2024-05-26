@@ -143,6 +143,7 @@ chiu
 - [Lama1kid]
 - oberheitzer
 - [Genie](https://github.com/genie-ru)
+- [DanielTYH]
 - [Toan nt2311]
 - [Marvin Romero](https://github.com/Marsmarv)
 - James Kemboi(https://github.com/Kemboijames7)
