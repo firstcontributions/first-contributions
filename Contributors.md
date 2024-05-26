@@ -5021,3 +5021,4 @@ git stat
 - [Jesse Sigalov] (https://github.com/JesseSigalov)
 - [namebogsecret] (https://github.com/namebogsecret)
 - [Athena Wrenn] (https://github.com/AthenaWrenn)
+- [Stanislav Blinkov] (https://github.com/enoize)
