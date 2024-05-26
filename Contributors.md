@@ -3282,6 +3282,7 @@ Philip Ambattu
 - [Amin Khalsi]
 - [Venkatraj](https://github.com/ivenkatraj)
 - [Tristan Hyams](https://github.com/tristanhyams)
+- [uXTrebla](https://github.com/uxtrebla)
 - [Buse Dağıdır](https://github.com/busedagidir)
 - [Karulina Alencar](https://github.com/karolalencar)
 - [Jake Abed](https://github.com/jake-abed)
