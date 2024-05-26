@@ -139,6 +139,7 @@ chiu
 - [Lama1kid]
 - oberheitzer
 - [Genie](https://github.com/genie-ru)
+- [DanielTYH]
 - [Toan nt2311]
 - [Marvin Romero](https://github.com/Marsmarv)
 - [Ruhi-Khan] (https://github.com/Ruhi-Khan)
