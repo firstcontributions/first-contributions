@@ -1,4 +1,5 @@
 # Contributors
+- [Diptam Dutta](https://github.com/diptamd)
 - [Francis Moran]
 - [Franco Jalil](https://github.com/FrancoJalil)
 - [Ali Dashti](https://github.com/XxDaShTixX) **Happy to be a part of this 😙**
@@ -143,7 +144,6 @@ chiu
 - [Lama1kid]
 - oberheitzer
 - [Genie](https://github.com/genie-ru)
-- [DanielTYH]
 - [Toan nt2311]
 - [Marvin Romero](https://github.com/Marsmarv)
 - James Kemboi(https://github.com/Kemboijames7)
