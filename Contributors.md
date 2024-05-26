@@ -76,6 +76,7 @@
 - Preetham (https://github.com/preethamkonuganti)
 - [Dipaloke Biswas](https://github.com/dipaloke)🇧🇩
 - [Yuki](https://github.com/yukuri611)
+- [Kosuket](https://github.com/Kosuke-Tsunetomo)
 - Dmitriy211
 - [Salman Faris](https://github.com/salmanzego)
 - [Sathvik Duddela](https://github.com/r4iden-IITR)
