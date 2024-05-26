@@ -46,6 +46,7 @@
 - [Sumit Dwivedi](https://github.com/SumitDwivedi24X)
 - [LeonardoVS30](https://github.com/LeonardoVS30)
 - [Dhanusha Chittidi]( https://github.com/Dhanusha-Chittidi/)
+- [R. Mehta](https://github.com/rwmehta)
 - ["Umair"](https://github.com/UmairRaaz)
 - [Vangaru Shanmukha](https://github.com/vangaru-shanmukha)
 - [Ann Mukami Kiunga](https://github.com/Kiunga1)
