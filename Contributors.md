@@ -142,6 +142,7 @@ chiu
 - [Genie](https://github.com/genie-ru)
 - [Toan nt2311]
 - [Marvin Romero](https://github.com/Marsmarv)
+- James Kemboi(https://github.com/Kemboijames7)
 - [Ruhi-Khan] (https://github.com/Ruhi-Khan)
  -[Mohamed Sharif] (https://github.com/mSharifHub)
 - [Akanksha12-i] (https://github.com/Akanksha12-i)
