@@ -1,4 +1,5 @@
 # Contributors
+- [Francis Moran]
 - [Franco Jalil](https://github.com/FrancoJalil)
 - [Ali Dashti](https://github.com/XxDaShTixX) **Happy to be a part of this 😙**
 - [Rafael Biasiolo] (https://github.com/Biasiolo) ** Go Horse! **
