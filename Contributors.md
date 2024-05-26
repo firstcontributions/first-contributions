@@ -73,6 +73,7 @@
 - [Yuki](https://github.com/yukuri611)
 - Dmitriy211
 - [Salman Faris](https://github.com/salmanzego)
+- [Sathvik Duddela](https://github.com/r4iden-IITR)
 - [Sofiyullahi Jamiu](https://github.com/orpcy)
   [STK](https://github.com/sherlock221B1)
 rashee
