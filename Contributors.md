@@ -223,7 +223,8 @@ v0idborne
 - [@wazirwazir] (https://github.com/wazirwazir) Let's do it!! ;)
 - [Salaheddine Benkhanous] (https://github.com/salaheddine2011)
 - [Clinton Gilly](https://github.com/Clinton-Gilly) 
--[Sujithk04] coderboy was here.. :)
+- [quangster](https://github.com/quangster) 
+- [Sujithk04] coderboy was here.. :)
 - Kaushal Gosavi
 - [wonhee] (https://github.com/calcium-0513)
 - [Alejandro De Luca](https://github.com/tury3001)
