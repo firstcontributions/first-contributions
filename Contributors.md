@@ -114,6 +114,7 @@ taha
 - [Sungjaeyeong]
   Elsa Lee
 - Enfu Liao
+- [Siddharth Reddy](https://github.com/SidZRed)
 - [Pedro do Vale](https://github.com/pedrodovale)
 - [Jhon Correa](https://github.com/jcorreahotmail)
 - [gari sa limana](https://github.com/babadroga92)
