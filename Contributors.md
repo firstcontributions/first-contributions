@@ -401,6 +401,7 @@ Abhinav Jain
 - [Dylan Wicker] (https://github.com/pardoner)
 - [Tanya Sorenson](https://github.com/TanyaSorenson)
 - [Oliver Chen](https://github.com/oliver0616)
+- [MiracleDev404](https://github.com/MiracleDev404)
 - [Skylar](https://github.com/0522skylar)
 - [Billavara] (https://github.com/billavara)
 - [saradifranco](https://github.com/saradifranco)
