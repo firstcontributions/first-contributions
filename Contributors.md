@@ -5034,3 +5034,4 @@ git stat
 - [Stanislav Blinkov] (https://github.com/enoize)
 - [Gabriel Alberine] (https://github.com/Gabalba22)
 - [DSQsqblxhq] (https://github.com/DSQsqblxhq)
+- [Benedikt Wolf](https://github.com/Benedikt-Wolf)
