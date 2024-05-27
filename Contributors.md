@@ -2,6 +2,7 @@
 - [Francis Moran]
 - [add-lansar]
 - [Franco Jalil](https://github.com/FrancoJalil)
+- **[KrlitosForever 😎](https://github.com/KrlitosForever/)**
 - [Ali Dashti](https://github.com/XxDaShTixX) **Happy to be a part of this 😙**
 - [Rafael Biasiolo] (https://github.com/Biasiolo) ** Go Horse! **
 - [Kelvin Arias] (https://github.com/KelFrontEndDev) ** Happy Coding! **
