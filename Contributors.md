@@ -1,6 +1,7 @@
 # Contributors
 - [Francis Moran]
 - [add-lansar]
+- [Rohit Ambati](https://github.com/rohitambati)
 - [Franco Jalil](https://github.com/FrancoJalil)
 - [Rohit Ambati](https://github.com/rohitambati)
 - **[KrlitosForever 😎](https://github.com/KrlitosForever/)**
