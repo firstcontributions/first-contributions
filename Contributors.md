@@ -1,4 +1,5 @@
 # Contributors
+- [Diptam Dutta](https://github.com/diptamd)
 - [Francis Moran]
 - [add-lansar]
 - [Franco Jalil](https://github.com/FrancoJalil)
