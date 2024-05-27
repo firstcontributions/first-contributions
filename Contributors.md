@@ -143,6 +143,7 @@ chiu
 - [SeahM]
 - [Lama1kid]
 - oberheitzer
+- [DanielTYH]
 - [Genie](https://github.com/genie-ru)
 - [Toan nt2311]
 - [Marvin Romero](https://github.com/Marsmarv)
