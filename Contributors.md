@@ -137,6 +137,7 @@ chiu
 - [Yogesh kushwaha](https://github.com/Yogi1305)
 - [Marouane-Elgoumiri](https://github.com/Marouane-Elgoumiri) 
 - hi!!!👋👋👋
+- nuraaaiiiii 
 - [Gracy Garg](https://github.com/amoiba42)
 - [Aditya Narayanan S](https://github.com/adityanarayanan343)
 - [Sandhya Srinivasan](https://github.com/sandhyasrini)
