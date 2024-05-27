@@ -196,6 +196,7 @@ chiu
 - [Michael Jay](https://github.com/MJujh)
 - Bousflix
 - [ImtiyaazDev](https://github.com/ImtiyaazDev)
+- [sulemandavid](https://github.com/sulemandavid) Woooooooooooooooooooooooooooooooooo
 - [Kyo Terada](https://github.com/Teradad41)
 - [danyooo](https://github.com/danyooo)
 - [Joumaico 🇵🇭](https://github.com/joumaico)
