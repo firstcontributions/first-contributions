@@ -1,4 +1,5 @@
 # Contributors
+- [Christophe Adami](https://github.com/adach2)
 - [Francis Moran]
 - [add-lansar]
 - [Rohit Ambati](https://github.com/rohitambati)
