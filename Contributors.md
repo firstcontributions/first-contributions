@@ -1,7 +1,9 @@
 # Contributors
 - [Diptam Dutta](https://github.com/diptamd)
 - [Francis Moran]
+- [add-lansar]
 - [Franco Jalil](https://github.com/FrancoJalil)
+- **[KrlitosForever 😎](https://github.com/KrlitosForever/)**
 - [Ali Dashti](https://github.com/XxDaShTixX) **Happy to be a part of this 😙**
 - [Rafael Biasiolo] (https://github.com/Biasiolo) ** Go Horse! **
 - [Kelvin Arias] (https://github.com/KelFrontEndDev) ** Happy Coding! **
@@ -66,6 +68,7 @@
 [payobe](https://github.com/payobe)
 - [Lars Otte](https://github.com/Sarsharses)**BorK!**
 - [Mustafa-A-Khan](https://github.com/MUSTAFA-A-KHAN)
+[Raghav Mehta](https://github.com/raghavmehta1)
 - [Divij](https://github.com/Divij35)
 - [Meryem Ahmaine](https://github.com/meryemahmaine) - hey !
 - [Michael Lumbera Jr](https://github.com/mlumbera)
@@ -76,6 +79,7 @@
 - Preetham (https://github.com/preethamkonuganti)
 - [Dipaloke Biswas](https://github.com/dipaloke)🇧🇩
 - [Yuki](https://github.com/yukuri611)
+- [Kosuket](https://github.com/Kosuke-Tsunetomo)
 - Dmitriy211
 - [Salman Faris](https://github.com/salmanzego)
 - [Sathvik Duddela](https://github.com/r4iden-IITR)
@@ -143,8 +147,8 @@ chiu
 - [SeahM]
 - [Lama1kid]
 - oberheitzer
-- [DanielTYH]
 - [Genie](https://github.com/genie-ru)
+- [DanielTYH]
 - [Toan nt2311]
 - [Marvin Romero](https://github.com/Marsmarv)
 - James Kemboi(https://github.com/Kemboijames7)
@@ -193,6 +197,7 @@ chiu
 - [Michael Jay](https://github.com/MJujh)
 - Bousflix
 - [ImtiyaazDev](https://github.com/ImtiyaazDev)
+- [sulemandavid](https://github.com/sulemandavid) Woooooooooooooooooooooooooooooooooo
 - [Kyo Terada](https://github.com/Teradad41)
 - [danyooo](https://github.com/danyooo)
 - [Joumaico 🇵🇭](https://github.com/joumaico)
@@ -389,6 +394,7 @@ Abhinav Jain
 - [Ajas Sharafudeen](https://github.com/ajas-sharafudeen)
 - [youten410](https://github.com/youten410)
 - [Saurabh Garg](https://github.com/SaurabhGarg6174)
+- [hanacele] (https://github.com/hanacele)
 - [ZS Span](https://github.com/zsspan)
 - [Znods](https://github.com/Znods) :3
 - [Karla Esquivel](https://github.com/karlycaramelo)
@@ -4191,6 +4197,7 @@ LadegbayeStella)
 - [Suraj_Samal](https://github.com/surajssam)
 - [latioms](https://github.com/latioms)
 - [Laedrilga](https://github.com/Laedrilga)
+- [MoeAbasi](https://github.com/MoeAbasi)
 - [Mert Yağmur] (https://github.com/mertyagmur)
 - [Daniel Mallett] (https://github.com/danielmallett)
 - [Vadim Platon] (https://github.com/platonvadim)
@@ -4896,6 +4903,7 @@ utthamr
 - [Avijit Manna](https://github.com/manna-avijit)
 - [Michael Jones](https://github.com/yardquit)
 - [Jack Daly](https://github.com/Jack-Daly-Eng025)
+- [Johanna Michael](https://github.com/JohannaMichael)
 - [Sasi Praveen Chandrasekaran](https://github.com/sasipraveen39)
 - [Aban Khan](https://github.com/abkhan505)
 - [Chidili Chijioke](https://github.com/chidilichijioke)
@@ -5021,3 +5029,6 @@ git stat
 - [Jesse Sigalov] (https://github.com/JesseSigalov)
 - [namebogsecret] (https://github.com/namebogsecret)
 - [Athena Wrenn] (https://github.com/AthenaWrenn)
+- [Stanislav Blinkov] (https://github.com/enoize)
+- [Gabriel Alberine] (https://github.com/Gabalba22)
+- [DSQsqblxhq] (https://github.com/DSQsqblxhq)
