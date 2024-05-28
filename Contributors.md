@@ -1,6 +1,7 @@
 # Contributors
 - [Christophe Adami](https://github.com/adach2)
 - [Francis Moran]
+- [Bhavishya Pancholi](https://github.com/Royalcaptain-v2)
 - [add-lansar]
 - [Rohit Ambati](https://github.com/rohitambati)
 - [Franco Jalil](https://github.com/FrancoJalil)
