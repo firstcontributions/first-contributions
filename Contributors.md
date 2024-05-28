@@ -32,6 +32,7 @@
 - [hawkinswinja](https://github.com/hawkinswinja)
 - [jadahego](https://github.com/jadahego)**jdhg**
 - [ykmanalo](https://github.com/yvesmanalo)
+- [Schuylor]
 - Vaibhav Uttam this is embarassing
 - ***[Msganaw Wondemeneh ](https://github.com/msgewendim)***
 - Rachel W
