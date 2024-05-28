@@ -3,6 +3,7 @@
 - [Francis Moran]
 - [Bhavishya Pancholi](https://github.com/Royalcaptain-v2)
 - [add-lansar]
+- [NAveen Mydur]
 - [Rohit Ambati](https://github.com/rohitambati)
 - [Franco Jalil](https://github.com/FrancoJalil)
 - [Benjamin Kaplan](https://github.com/benKapl)
