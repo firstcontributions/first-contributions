@@ -2,6 +2,7 @@
 - [Christophe Adami](https://github.com/adach2)
 - [Francis Moran]
 - [add-lansar]
+- [NAveen Mydur]
 - [Rohit Ambati](https://github.com/rohitambati)
 - [Franco Jalil](https://github.com/FrancoJalil)
 - [Rohit Ambati](https://github.com/rohitambati)
