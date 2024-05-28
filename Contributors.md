@@ -5042,6 +5042,7 @@ git stat
 - [Natnael Tewodros](https://github.com/Natnael12119)
 - [xvs30](https://github.com/xvs30)
 - [gavyn](https://github.com/Laminir)
+- [Joseph Jung](https://github.com/zapha)
 - [Dominic Domingo] ()
 - [rohith kanchukatla](https://github.com/rohithkanchukatla)
 - [kevin wong] (https://github.com/kevinw8765)
