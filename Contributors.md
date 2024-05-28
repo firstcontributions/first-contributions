@@ -49,6 +49,7 @@
 - [Yoummu](https://github.com/Yoummu)
 - [Palash]
 - [Sonu]
+- [Telicia](https://github.com/teli203)*** 🥳 Happy Coding 💫
 - [Jiri Cizek] ** first merge :) **
 - [andacistan](https://github.com/andacistan)
 - Srihari C
@@ -5063,3 +5064,5 @@ git stat
 - [Benedikt Wolf](https://github.com/Benedikt-Wolf)
 - [hkoh2](https://github.com/hkoh2)
 - [cybarry](https://github.com/cybarry)
+
+
