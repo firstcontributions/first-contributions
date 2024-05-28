@@ -46,6 +46,7 @@
 - [Jiri Cizek] ** first merge :) **
 - [andacistan](https://github.com/andacistan)
 - Srihari C
+-[Roberto-S-C](https://github.com/Roberto-S-C)
 -[V.Aishwarya]
 - [Chandrabhatta Sruti Swaroop](https://www.github.com/goatsefl) 
 - [Karl D Reta](https://github.com/karldreta) has joined the party!
