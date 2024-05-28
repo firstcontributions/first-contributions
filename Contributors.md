@@ -98,6 +98,7 @@
   [STK](https://github.com/sherlock221B1)
 rashee
 - [Muhammed Favaz vp](https://github.com/favaz-vp)
+- [Fasil-MFK](https://github.com/Fasil-MFK)
 - [Pavan sai Krishnamoorthy](https://github.com/pavansai0)
 - [Taylor Phelps] (https://github.com/TaylorPhelps)
 - [Daniel Schneider](https://github.com/dschne27)
