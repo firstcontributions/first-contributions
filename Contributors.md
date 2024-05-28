@@ -373,6 +373,7 @@ Abhinav Jain
 - Dhruv J
 -[Liwei](https://github.com/Liwei254)
 - [Ayush Prateek Rai](https://github.com/ayushrai-bhau)
+- [Schuylorbombuall](https://github.com/ugottricked)
 - [Svetlin Ivanov](https://github.com/zensii)
 - [Davide Menghini] (https://github.com/davidemenghini)
 - [Mashhoor Ahdal](https://github.com/mashhoorahdal)
