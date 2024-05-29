@@ -2,6 +2,7 @@
 - [Christophe Adami](https://github.com/adach2)
 - [Francis Moran]
 - [Bhavishya Pancholi](https://github.com/Royalcaptain-v2)
+- [Parth dey](https://github.com/parthdey)
 - [add-lansar]
 - [NAveen Mydur]
 - [Rohit Ambati](https://github.com/rohitambati)
