@@ -1,6 +1,6 @@
 # Contributors
 
--[Sumit Kumar Singh](https://github.com/Thesumitkrsingh)
+-[Sumit Singh](https://github.com/Thesumitkrsingh)
 
 - [Christophe Adami](https://github.com/adach2)
 - [siddhu gorli](https://github.com/siddhu745)
