@@ -1,5 +1,6 @@
 # Contributors
 - [Christophe Adami](https://github.com/adach2)
+- [siddhu gorli](https://github.com/siddhu745)
 - [Francis Moran]
 - [Bhavishya Pancholi](https://github.com/Royalcaptain-v2)
 - [Parth dey](https://github.com/parthdey)
