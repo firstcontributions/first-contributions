@@ -5,6 +5,7 @@
 - [Angelique Copere](https://github.com/Tonyac-create)
 - Muhammad Hassaan Javed👋[![GitHub](https://img.icons8.com/?size=30&id=sbhfmWq4KRr1)](https://www.github.com/itxcrusher/) [![LinkedIn](https://img.icons8.com/?size=25&id=xuvGCOXi8Wyg)](https://www.linkedin.com/in/itxcrusher/)**✨Good Luck Everyone🚀**
 - [yule153604](https://github.com/yule153604)
+- [Aseru Kevin Ziyada](https://github.com/lucy-kevin)**Glad to be here**
 - [ashish kumar singh](https://github.com/Ashish-sin-gh)
 [MHHT](https://github.com/MyatHmueishere)
 - [thatwonguy](https://github.com/thatwonguy)
