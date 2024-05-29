@@ -1110,6 +1110,7 @@ igntius praise
 - [Wilovy09](https://github.com/Wilovy09)
 - [Azra Naseri](https://github.com/AzraNaseri)(https://www.linkedin.com/in/azra-naseri/)
   [Shubham Kumar] ((https://github.com/)
+- [Anish Katta](https://github.com/Anish-katta)[LinkedIn](https://www.linkedin.com/in/anish-katta-4329791a1)
 - [Arshea Atif](https://github.com/arshea-02)
 - [Cameron Brown](https://github.com/cameronjoebrown)
 - [Cyril Azubuine](https://github.com/cyrilberrypi) [LinkedIn](https://www.linkedin.com/in/cyril-azubuine/) [X](https://twitter.com/iamcyril_edtech)
