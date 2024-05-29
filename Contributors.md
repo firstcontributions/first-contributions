@@ -6,6 +6,7 @@
 - [Parth dey](https://github.com/parthdey)
 - [add-lansar]
 - [NAveen Mydur]
+- [Ethan Wu](https://github.com/aps32221)
 - [Rohit Ambati](https://github.com/rohitambati)
 - [Franco Jalil](https://github.com/FrancoJalil)
 - [Benjamin Kaplan](https://github.com/benKapl)
