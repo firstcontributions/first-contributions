@@ -2,6 +2,8 @@
 - [Christophe Adami](https://github.com/adach2)
 - [siddhu gorli](https://github.com/siddhu745)
 - [Francis Moran]
+- [Aakash Karat] | <a href="https://www.linkedin.com/in/ktaakash/">linkedin</a> | <a href="https://www.github.com/kt-aakash">github</a> 
+- [Sabina Dragotsy]
 - [Bhavishya Pancholi](https://github.com/Royalcaptain-v2)
 - [Parth dey](https://github.com/parthdey)
 - [add-lansar]
@@ -30,11 +32,13 @@
 -[Debapriya kumar](https://github.com/debapriyakumar)
 - [Y W](https://github.com/ywallis)
 - [Praveen Sahu](https://github.com/praveen7512)
+- [Niloy Biswas](https://github.com/Niloy077)
 - [Luke Olende](https://github.com/LukeOlende)
 - [Ruan S.](https://github.com/ruun)
 - [Hend Mohammed.](https://github.com/HendMohammed90)
   [Felipe Pastrian](https://github.com/Pastrian)
 - [Lucius]
+- [Fernando Martinez](https://github.com/Ferb24)
 - [Patnix](https://github.com/iampatnix)
 - [narkis9984](https://github.com/narkis9984)
 - [CemreTheBoss](https://github.com/cemrenurkeles)
@@ -145,6 +149,8 @@ taha
 - [Sungjaeyeong]
   Elsa Lee
 - Enfu Liao
+- [Sarah Hassan](https://github.com/sarahassan0)
+- [Prakash Gadhavi]
 - [Siddharth Reddy](https://github.com/SidZRed)
 - [Pedro do Vale](https://github.com/pedrodovale)
 - [Jhon Correa](https://github.com/jcorreahotmail)
@@ -275,8 +281,9 @@ v0idborne
 - Aditya Saini
 - [Christian Gabi](https://github.com/christian80gabi)
 - Archit Agarwal
+- [Sajid Ali P](https://github.com/SajidAliP)
 - KakDealz
-- Snazzy Fazzy
+- Snazzy Fazz
 - [Niko Schlüter] (https://github.com/Nikoslr)
 - Droov was here https://github.com/yassir781
 - [Ayoub Laaoufi](https://github.com/aylaaoufi) :D I was pleased to meet you.
@@ -2043,6 +2050,7 @@ Jasmine
 - [Ravi Teja]
 - [Damian Di Lodovico] (https://github.com/ddilodovico) ** Happy Coding! **
 - [Vasu]
+- hauntedcupoftea [![GitHub](https://img.icons8.com/?size=30&id=sbhfmWq4KRr1)](https://github.com/hauntedcupoftea) [![LinkedIn](https://img.icons8.com/?size=25&id=xuvGCOXi8Wyg)](https://www.linkedin.com/in/hauntedcupoftea/)👋
 - [Fady Zaky] (https://github.com/0ddAuto00)
 - [Whitehackerneth](https://github.com/Whitehackerneth/first-contributions)
 - [Simons Arhin](https://github.com/simonskayi)
@@ -2664,6 +2672,7 @@ Dante Sanchez
 - [Himanshu Singh](https://github.com/hswrldwide)
 - [Aravind Gunasekaran](https://github.com/AravindGShanthi)
 - [Anjali Jaiswal](https://github.com/ajaisw13)
+- [Kain](https://github.com/kainosaur)
 -[Shaheer Dudekula]
 - [hamza](https://github.com/bouayadhamza )
 - [Rounak Kumar Singh](https://github.com/rounakkumarsingh)
@@ -5073,4 +5082,8 @@ git stat
 - [Brianzhengca] (https://github.com/Brianzhengca)
 - [Sreehari_M] (https://github.com/Sreehari9230) 
 - [Hah-ak] (https://github.com/hah-ak) 
+- [Mauro Giuliano] (https://github.com/MauroGiulianoSCAI) Peace & Serenity you all from Italy
+- [edorusta[ (https://github.com/edorustichini)
+- [Avijit Manna] (https://github.com/manna-avijit)
+- [Mohamed Basher] (https://github.com/SciCode007)
 - [Adarsh-Chaturvedi] (https://github.com/extremistLab)
