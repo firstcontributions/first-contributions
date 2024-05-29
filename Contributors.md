@@ -297,6 +297,7 @@ v0idborne
 - [kwossi](https://github.com/kwossi)
 - [Himangi Tripathy](https://github.com/H1mang1?tab=repositories)
 - [Hariienesh Arumugam](https://github.com/CosmicCodeBase)
+- [Roy Eugene Odhiambo](https://github.com/roy-eugene049)
 - [Maneesha Gunawardhana (mGunawardhana💀)](https://github.com/mGunawardhana)
 - [Robot8lover](https://github.com/Robot8lover)
 - [Vignesh S](https://github.com/VigneshVicky97)
