@@ -5068,6 +5068,7 @@ git stat
 - [Joseph Jung](https://github.com/zapha)
 - [Dominic Domingo] ()
 - [rohith kanchukatla](https://github.com/rohithkanchukatla)
+- [İlayda Taneri] (https://github.com/ilocodes)
 - [kevin wong] (https://github.com/kevinw8765)
 - [Jesse Sigalov] (https://github.com/JesseSigalov)
 - [namebogsecret] (https://github.com/namebogsecret)
@@ -5084,4 +5085,3 @@ git stat
 - [Mauro Giuliano] (https://github.com/MauroGiulianoSCAI) Peace & Serenity you all from Italy
 - [edorusta[ (https://github.com/edorustichini)
 - [Avijit Manna] (https://github.com/manna-avijit)
-- [Mohamed Basher] (https://github.com/SciCode007)
