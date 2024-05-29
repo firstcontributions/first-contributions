@@ -38,6 +38,7 @@
 - [Hend Mohammed.](https://github.com/HendMohammed90)
   [Felipe Pastrian](https://github.com/Pastrian)
 - [Lucius]
+- [Fernando Martinez](https://github.com/Ferb24)
 - [Patnix](https://github.com/iampatnix)
 - [narkis9984](https://github.com/narkis9984)
 - [CemreTheBoss](https://github.com/cemrenurkeles)
