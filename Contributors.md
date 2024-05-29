@@ -2,6 +2,7 @@
 - [Christophe Adami](https://github.com/adach2)
 - [siddhu gorli](https://github.com/siddhu745)
 - [Francis Moran]
+- [Sabina Dragotsy]
 - [Bhavishya Pancholi](https://github.com/Royalcaptain-v2)
 - [Parth dey](https://github.com/parthdey)
 - [add-lansar]
