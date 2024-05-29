@@ -54,6 +54,7 @@ v0idborne
 - Kaushal Gosavi
 - Tanishq was here.
 - Archit Agarwal
+- [Sajid Ali Paguthaniya](https://github.com/SajidAliP)
 - [Niko Schlüter] (https://github.com/Nikoslr)
 - Droov was here https://github.com/yassir781
 - [Ayoub Laaoufi](https://github.com/aylaaoufi) :D I was pleased to meet you.
