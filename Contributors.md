@@ -2048,6 +2048,7 @@ Jasmine
 - [Ravi Teja]
 - [Damian Di Lodovico] (https://github.com/ddilodovico) ** Happy Coding! **
 - [Vasu]
+- hauntedcupoftea [![GitHub](https://img.icons8.com/?size=30&id=sbhfmWq4KRr1)](https://github.com/hauntedcupoftea) [![LinkedIn](https://img.icons8.com/?size=25&id=xuvGCOXi8Wyg)](https://www.linkedin.com/in/hauntedcupoftea/)👋
 - [Fady Zaky] (https://github.com/0ddAuto00)
 - [Whitehackerneth](https://github.com/Whitehackerneth/first-contributions)
 - [Simons Arhin](https://github.com/simonskayi)
