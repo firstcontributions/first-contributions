@@ -5108,3 +5108,4 @@ git stat
 - [Ihsan-Hanif] (https://github.com/Ihsanhanif)
 - [Logan Michalak](https://github.com/loganmichalak)
 - [Donggyu] (https://github.com/ehdrb92)
+- [DANY-DURAN](https://github.com/DANY-DURAND)
