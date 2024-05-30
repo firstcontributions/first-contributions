@@ -13,6 +13,7 @@
 - [Parth dey](https://github.com/parthdey)
 - [add-lansar]
 - [NAveen Mydur]
+- [Yechan Lee] (https://github.com/yechanlee04)
 - [Sarthak Shah]
 - [Michael Corn](github.com/mcorn02)
 - [Ethan Wu](https://github.com/aps32221)
