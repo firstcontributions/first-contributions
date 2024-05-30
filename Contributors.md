@@ -355,6 +355,7 @@ v0idborne
 - juan-est145
 - Mike Vrkljan
 - Yash Vats
+- Manuel Nava
 - b web
 - I'm Here!
 - Muhammad Afaq Umar ([CodeTalker007](https://github.com/CodeTalker007))
