@@ -3637,6 +3637,7 @@ sh5ed
 - [Andres Hernandez](https://github.com/andresFHM)
 - [Arbenis Acosta](https://github.com/ArbenisAcosta)
 - [Qi Li](https://github.com/ordinarylq)
+- [Cranwi](https://github.com/cranwi) I don't know what I'm doing
 - [Aman Path](https://github.com/AmanPathan)
 - [Nitin Vendidandi](https://github.com/Learningcomputers777)
 - [Ruben Maidaniuc](https://github.com/rubanyukm)
