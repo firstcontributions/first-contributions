@@ -119,6 +119,6 @@ These may be skills lacking in the community. I know I'd love it if I could get 
 
 Most of all, listen to what people around you discuss. See if you can recognize a pressing need. For instance, recently on the Parrot developers' mailing list, it was decided to use GitHub as the trouble ticket system, abandoning the old Trac installation they had. Some people were against the move because there was no way to convert the tickets to GitHub's system. After a day of back and forth arguing, I piped up and said "How about if I write a converter?" People were thrilled at the idea. I spent the time to write a conversion program for the 450+ tickets, so we lost none of our ticket history. It was a great success.  I got to pitch in, and the core developers stayed focused on the business of working on Parrot.
 
-15. **Teach and Help others**:
+16. **Teach and Help others**:
 The best way to learn more about a topic is to try to teach it.
 The best teacher is the one who can explain complex stuff with simple examples. So you need to try to be the best teacher to be the best learner and the best in your programming world. Teaching others will make you feel better about yourself and it will help you get better skills and knowledge in your profession. When you get help from someone don't keep it to yourself share it with others. Make the world a better place to live.
