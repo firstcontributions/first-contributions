@@ -4,6 +4,7 @@
 - [Francis Moran]
 - [Aakash Karat] | <a href="https://www.linkedin.com/in/ktaakash/">linkedin</a> | <a href="https://www.github.com/kt-aakash">github</a> 
 - [Sabina Dragotsy]
+- [Dago Bert]
 - [Bhavishya Pancholi](https://github.com/Royalcaptain-v2)
 - [Parth dey](https://github.com/parthdey)
 - [add-lansar]
