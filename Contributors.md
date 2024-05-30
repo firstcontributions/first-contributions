@@ -8,6 +8,7 @@
 - [Parth dey](https://github.com/parthdey)
 - [add-lansar]
 - [NAveen Mydur]
+- [Sarthak Shah]
 - [Ethan Wu](https://github.com/aps32221)
 - [Rohit Ambati](https://github.com/rohitambati)
 - [Franco Jalil](https://github.com/FrancoJalil)
