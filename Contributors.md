@@ -1,3 +1,4 @@
+
 # Contributors
 - [Christophe Adami](https://github.com/adach2)
 - [siddhu gorli](https://github.com/siddhu745)
@@ -7,11 +8,13 @@
 - [Bhavishya Pancholi](https://github.com/Royalcaptain-v2)
 - [Parth dey](https://github.com/parthdey)
 - [add-lansar]
+- **Khushi Sharma** [![GitHub](https://img.icons8.com/?size=30&id=sbhfmWq4KRr1)](https://github.com/KhushiSharma0313) [![LinkedIn](https://img.icons8.com/?size=25&id=xuvGCOXi8Wyg)](https://www.linkedin.com/in/khushi0313/) *happy coding*
 - [NAveen Mydur]
 - [Ethan Wu](https://github.com/aps32221)
 - [Rohit Ambati](https://github.com/rohitambati)
 - [Franco Jalil](https://github.com/FrancoJalil)
 - [Benjamin Kaplan](https://github.com/benKapl)
+
 - [Rohit Ambati](https://github.com/rohitambati)
 - **[KrlitosForever 😎](https://github.com/KrlitosForever/)**
 - [Ali Dashti](https://github.com/XxDaShTixX) **Happy to be a part of this 😙**
