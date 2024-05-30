@@ -1,5 +1,5 @@
 # Contributors
-  [Luigi Gonnella]
+- [Luigi Gonnella]
 - [Christophe Adami](https://github.com/adach2)
 - [Tanish] (https://github.com/beasthellboyy) | **Nice project**
 - [siddhu gorli](https://github.com/siddhu745)
