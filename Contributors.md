@@ -52,6 +52,7 @@
 - ***[Msganaw Wondemeneh ](https://github.com/msgewendim)***
 - Rachel W
 - BlackCro
+- Camilo Arango
 - Ayman Abdalla
 - Larry Jones
 - ***[Aharon Seidman](https://github.com/hamachshev)***👋
