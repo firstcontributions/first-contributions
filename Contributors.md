@@ -5,6 +5,7 @@
 - [siddhu gorli](https://github.com/siddhu745)
 - [Francis Moran]
 - [Aakash Karat] | <a href="https://www.linkedin.com/in/ktaakash/">linkedin</a> | <a href="https://www.github.com/kt-aakash">github</a> 
+- [Shubh Sarpal] | <a href="https://www.linkedin.com/in/shubhsarpal/">linkedin</a> | # Shubh Sarpal
 - [Sabina Dragotsy]
 - [Dago Bert]
 - [Bhavishya Pancholi](https://github.com/Royalcaptain-v2)
