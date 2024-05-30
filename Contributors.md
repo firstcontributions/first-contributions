@@ -5108,5 +5108,5 @@ git stat
 - [Adarsh-Chaturvedi] (https://github.com/extremistLab)
 - [Ihsan-Hanif] (https://github.com/Ihsanhanif)
 - [Logan Michalak](https://github.com/loganmichalak)
-- [jstarksss] (https://github.com/jstarksss)
+- [jstarksss](https://github.com/jstarksss)
 - [Donggyu] (https://github.com/ehdrb92)
