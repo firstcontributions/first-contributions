@@ -4,6 +4,7 @@
 - [Francis Moran]
 - [Aakash Karat] | <a href="https://www.linkedin.com/in/ktaakash/">linkedin</a> | <a href="https://www.github.com/kt-aakash">github</a> 
 - [Sabina Dragotsy]
+- [Dago Bert]
 - [Bhavishya Pancholi](https://github.com/Royalcaptain-v2)
 - [Parth dey](https://github.com/parthdey)
 - [add-lansar]
@@ -1938,6 +1939,7 @@ Jasmine
 - [Rajesh Jonnalagadda](https://github.com/rajeshj11)
 - [Robiul Hossain](https://github.com/coder7475)
 - [Dev With Krishna](https://github.com/devwithkrishna)
+- [Kalhara Tennakoon](https://github.com/kalharatennakoon)
 - [Jonathan Orme](http://github.com/ShadowAndFlame)
 - [Sampei](https://github.com/minihei)
 - [CharanMarasi](https://github.com/Charan-Marasi) 
@@ -5093,3 +5095,4 @@ git stat
 - [Avijit Manna] (https://github.com/manna-avijit)
 - [Mohamed Basher] (https://github.com/SciCode007)
 - [Adarsh-Chaturvedi] (https://github.com/extremistLab)
+- [Ihsan-Hanif] (https://github.com/Ihsanhanif)
