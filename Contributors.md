@@ -5077,7 +5077,7 @@ git stat
 - [shosei](https://github.com/sho-chan-081)
 - [Susan Githaiga](https://github.com/SusanGithaigaN)
 - [Tom Hutchinson](https://github.com/tomhutchi)
-- [Aleks Zverev](hhttps://github.com/sandexzx)
+- [Aleks Zverev](https://github.com/sandexzx)
 - [Zara Phukan](https://github.com/ZaraPhu)
 - [Juan Camilo Ortiz](https://github.com/juancortizgonz)
 - [Esong Ecoma](https://github.com/EsongEcoma)
@@ -5108,3 +5108,4 @@ git stat
 - [Ihsan-Hanif] (https://github.com/Ihsanhanif)
 - [Logan Michalak](https://github.com/loganmichalak)
 - [Donggyu] (https://github.com/ehdrb92)
+- [Dany-Duran](https://github.com/DANY-DURAND)
