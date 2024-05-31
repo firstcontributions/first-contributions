@@ -67,6 +67,7 @@
 - Vaibhav Uttam this is embarassing
 - ***[Msganaw Wondemeneh ](https://github.com/msgewendim)***
 - Rachel W
+- [Supreeth C](https://github.com/ShinichiShi)
 - BlackCro
 - Camilo Arango
 - Ayman Abdalla
@@ -5122,4 +5123,5 @@ git stat
 - [Logan Michalak](https://github.com/loganmichalak)
 - [jstarksss] (https://github.com/jstarksss)
 - [Huang Chao] (https://github.com/foraurorac)
+- [Rick Ning] (https://github.com/rick666666)
 - [Donggyu] (https://github.com/ehdrb92)
