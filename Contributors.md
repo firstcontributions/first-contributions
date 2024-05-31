@@ -16,9 +16,11 @@ aiymzhann08
 - [Bhavishya Pancholi](https://github.com/Royalcaptain-v2)
 - [Parth dey](https://github.com/parthdey)
 - [Works Better](https://github.com/WorksBetter)
+- [Joseph Jia](https://github.com/jsphjia)
 - Life is not bad
 - [add-lansar]
 - [NAveen Mydur]
+- [GP-Development](https://github.com/GP-Development) `print("Hello, World")`
 - [Yechan Lee] (https://github.com/yechanlee04)
 - [Sarthak Shah]
 - [Michael Corn](github.com/mcorn02)
@@ -5133,4 +5135,6 @@ git stat
 - [Huang Chao] (https://github.com/foraurorac)
 - [Rick Ning] (https://github.com/rick666666)
 - [Donggyu] (https://github.com/ehdrb92)
+- [Rahat-Khan-Pathan] (https://github.com/Rahat-Khan-Pathan)
 - [TAKUCH](https://github.com/sacky3105) : I am a japanese software engineer!!
+- [SAUMYA](https://github.com/saumyasinha31) : I am learning open source!
