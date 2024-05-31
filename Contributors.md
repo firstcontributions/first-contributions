@@ -1,6 +1,7 @@
 # Contributors
   [Luigi Gonnella]
 - [Christophe Adami](https://github.com/adach2)
+- [CanGeus] | <a href="https://www.linkedin.com/in/cangeus/">linkedin</a> | (https://github.com/adach2)
 - [Tanish] (https://github.com/beasthellboyy) | **Nice project**
 - [siddhu gorli](https://github.com/siddhu745)
 - [Francis Moran]
