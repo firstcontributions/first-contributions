@@ -12,7 +12,8 @@
 #### _যদি কমান্ড লাইনে সমস্যা হয়, [তবে নীচে একটি GUI টুল ব্যবহার করে টিউটোরিয়াল দেওয়া হয়েছে।](#অন্যান্য-টুল-ব্যবহারের-টিউটোরিয়াল)_
 
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img style="float: right; width: 300px;" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+
 
 আপনার কম্পিউটারে গিট না থাকলে, [ ইনস্টল করুন ](https://help.github.com/articles/set-up-git/)।
 
@@ -23,7 +24,8 @@
 
 ## রিপোজিটরি ক্লোন করুন
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img style="float: right; width: 300px;" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+
 
 এখন এই রিপোজিটরিটি আপনার কম্পিউটারে ক্লোন করুন। এজন্যে প্রথমে ক্লোন(Clone) বাটনে ক্লিক করুন। এরপর ক্লিক করুন _ক্লিপবোর্ডে কপি করুন(copy to clipboard)_ আইকনটিতে।
 
@@ -35,7 +37,7 @@ git clone "url you just copied"
 
 যেখানে "url you just copied" (উদ্ধৃতি চিহ্ন ব্যতীত) হচ্ছে এই রিপোজিটরির ইউআরএল যা আপনি পূর্বের ধাপেই পেয়েছেন।
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img style="float: right; width: 300px;" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 যেমন:
 
@@ -97,9 +99,10 @@ git push origin -u <your-new-branch-name>
 <summary> <strong>পুশ করতে সমস্যা হলে এখানে ক্লিক করুন:</strong> </summary>
 
 - ### অথ্যানটিকেশনে সমস্যা
-     <pre>remote: পাসওয়ার্ড অথ্যানটিকেশনের সাপোর্ট আগস্ট ১৩, ২০২১ থেকে আর নেই। Personal access token ব্যাবহার করুন।
-  remote: https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ তে আরো তথ্য পাবেন।
-  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
+     <pre>remote: পাসওয়ার্ড অথ্যানটিকেশনের সাপোর্ট আগস্ট ১৩, ২০২১ থেকে আর নেই। Personal access token ব্যাবহার করুন।</pre>
+remote: https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ তে আরো তথ্য পাবেন।
+fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/' </pre>
+
   [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) এ আপনার একাউন্টে SSH key generation এবং configuration
   এর আরো তথ্য পাবেন।
 
