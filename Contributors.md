@@ -139,7 +139,7 @@ aiymzhann08
 - [Salman Faris](https://github.com/salmanzego)
 - [Sathvik Duddela](https://github.com/r4iden-IITR)
 - [Sofiyullahi Jamiu](https://github.com/orpcy)
-  [STK](https://github.com/sherlock221B1)
+- [STK](https://github.com/sherlock221B1)
 rashee
 - [Muhammed Favaz vp](https://github.com/favaz-vp)
 - [Fasil-MFK](https://github.com/Fasil-MFK)
@@ -427,6 +427,7 @@ Abhinav Jain
 - [Lía Rosales](https://twitter.com/LiaRosales25)
 - [Shreya Mohanty](https://github.com/shrymhty)
 - 5ecurealf (https://github.com/5ecurealf)
+- open source
 - [Sarah J.] (https://github.com/huntydhino)
 - Dhruv J
 -[Liwei](https://github.com/Liwei254)
