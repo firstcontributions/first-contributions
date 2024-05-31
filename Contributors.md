@@ -5121,4 +5121,5 @@ git stat
 - [Ihsan-Hanif] (https://github.com/Ihsanhanif)
 - [Logan Michalak](https://github.com/loganmichalak)
 - [jstarksss] (https://github.com/jstarksss)
+- [Huang Chao] (https://github.com/foraurorac)
 - [Donggyu] (https://github.com/ehdrb92)
