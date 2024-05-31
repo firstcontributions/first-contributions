@@ -19,6 +19,7 @@ aiymzhann08
 - Life is not bad
 - [add-lansar]
 - [NAveen Mydur]
+- [GP-Development](https://github.com/GP-Development) `print("Hello, World")`
 - [Yechan Lee] (https://github.com/yechanlee04)
 - [Sarthak Shah]
 - [Michael Corn](github.com/mcorn02)
