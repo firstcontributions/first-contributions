@@ -117,6 +117,7 @@
 - Preetham (https://github.com/preethamkonuganti)
 - [Dipaloke Biswas](https://github.com/dipaloke)🇧🇩
 - [Yuki](https://github.com/yukuri611)
+- [Aiden Eyre](https://github.com/AidenEyre)
 - [Kosuket](https://github.com/Kosuke-Tsunetomo)
 - Dmitriy211
 - [Salman Faris](https://github.com/salmanzego)
