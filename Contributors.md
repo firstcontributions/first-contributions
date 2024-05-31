@@ -73,6 +73,7 @@
 - [Yoummu](https://github.com/Yoummu)
 - [Palash]
 - [Sonu]
+- [Heimar Vega](https://github.com/heimarvega)
 - [Ik Teng](https://github.com/ikteng)
 - [Jiri Cizek] ** first merge :) **
 - [andacistan](https://github.com/andacistan)
