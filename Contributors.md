@@ -15,6 +15,7 @@ aiymzhann08
 - [Dago Bert]
 - [Bhavishya Pancholi](https://github.com/Royalcaptain-v2)
 - [Parth dey](https://github.com/parthdey)
+- Life is not bad
 - [add-lansar]
 - [NAveen Mydur]
 - [Yechan Lee] (https://github.com/yechanlee04)
