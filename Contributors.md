@@ -20,6 +20,7 @@ aiymzhann08
 - [NAveen Mydur]
 - [Yechan Lee] (https://github.com/yechanlee04)
 - [Sarthak Shah]
+- [Ganesh159th] |<a href="https://www.linkedin.com/in/ganesh-kumar-3b42b0240/">Linkedin</a> (https://github.com/ganesh-159th) | #Ganesh159th
 - [Michael Corn](github.com/mcorn02)
 - [Vishal Ojha](https://github.com/VishalOjhaa)
 - [Ethan Wu](https://github.com/aps32221)
@@ -4858,7 +4859,7 @@ guanj65
 - [Júlia Yoshida](https://github.com/juliaryoshida/)
 - [Dimitrios Tikvinas] (YEAHHHHHHHHH BUDDYYYYYYYYYYYYY)
 - [Mihir Lad] (Maverick)
-- [tutula](smooth operator)
+- [tutula](smooth%20operator)
 - [Dan Priest]
 - [Yuki]
 - [Aaron Liu](https://github.com/aaronliu5)
