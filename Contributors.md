@@ -67,6 +67,7 @@
 - Vaibhav Uttam this is embarassing
 - ***[Msganaw Wondemeneh ](https://github.com/msgewendim)***
 - Rachel W
+- [Supreeth C](https://github.com/ShinichiShi)
 - BlackCro
 - Camilo Arango
 - Ayman Abdalla
