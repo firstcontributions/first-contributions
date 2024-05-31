@@ -37,11 +37,13 @@
 - [Jameson Baker] (https://github.com/Jami-tsm)
 - [Andrés De La Torre](https://github.com/AndresDeLaTorreVilla)
 - [Angelique Copere](https://github.com/Tonyac-create)
-- Muhammad Hassaan Javed👋[![GitHub](https://img.icons8.com/?size=30&id=sbhfmWq4KRr1)](https://www.github.com/itxcrusher/) [![LinkedIn](https://img.icons8.com/?size=25&id=xuvGCOXi8Wyg)](https://www.linkedin.com/in/itxcrusher/)**✨Good Luck Everyone🚀**
-- [yule153604](https://github.com/yule153604)
+- Muhammad Hassaan Javed👋[![GitHub](https://img.icons8.com/?size=30&id=sbhfmWq4KRr1)](https://www.github.com/itxcrusher/) [![LinkedIn](https://img.icons8.com/?size=25&id=xuvGCOXi8Wyg)](https://www.linkedin.com/in/itxcrusher/) **✨Good Luck Everyone🚀**
+- [yule153604](https://github.com/yule1536
+- [Aseru Kevin Ziyada](https://github.com/lucy-kevin) **Glad to be here**
 - [Keith Nicholson](https://github.com/keithnicholson)
 - [Rashmi Kumari] (https://github.com/rashmi3149) *Thank you
 - [swagman](https://github.com/yule153604)
+
 - [ashish kumar singh](https://github.com/Ashish-sin-gh)
 [MHHT](https://github.com/MyatHmueishere)
 - [thatwonguy](https://github.com/thatwonguy)
