@@ -5122,4 +5122,5 @@ git stat
 - [Logan Michalak](https://github.com/loganmichalak)
 - [jstarksss] (https://github.com/jstarksss)
 - [Huang Chao] (https://github.com/foraurorac)
+- [Rick Ning] (https://github.com/rick666666)
 - [Donggyu] (https://github.com/ehdrb92)
