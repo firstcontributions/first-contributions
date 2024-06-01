@@ -5116,6 +5116,7 @@ git stat
 - [Benjamin-Appiah-Poku](https://github.com/Benappiahpoku)
 - [Joyce](https://github.com/swejoycechoi)
 - [S-mburu](https://github.com/S-Mburu)
+- [magphis](https://github.com/magphis)
 - [Jeremytsai6987](https://github.com/Jeremytsai6987)
 - [bob-feracho](https://github.com/bob-feracho)
 - [Juanes527](https://github.com/Juanes527)
