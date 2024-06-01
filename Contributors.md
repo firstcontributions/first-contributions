@@ -377,6 +377,7 @@ v0idborne
 - Aamish Ahmad Beg
 - Jack Hunter
 - Arjun K
+- Shivam G (https://github.com/gargshi)
 - Yash  nicee
 - Tommy C
 - shuang wu
