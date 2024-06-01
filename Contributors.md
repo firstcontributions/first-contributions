@@ -39,6 +39,9 @@ aiymzhann08
 - [Ali Dashti](https://github.com/XxDaShTixX) **Happy to be a part of this 😙**
 - [Rafael Biasiolo](https://github.com/Biasiolo) ** Go Horse! **
 - [Kelvin Arias](https://github.com/KelFrontEndDev) ** Happy Coding! **
+- [Rafael Biasiolo](https://github.com/Biasiolo) ** Go Horse! **
+- [crystal941](https://github.com/crystal941) ** Kia Ora! **
+- [Kelvin Arias](https://github.com/KelFrontEndDev) ** Happy Coding! **
 - [Yash Agarwal](https://github.com/Yash05080)**have a great open source journey to everyone 🤙**
 - Trishala Ghetiya
 - [Dhruv Chauhan](https://github.com/Dhruv-proto)**Hola Amigos**
@@ -4875,6 +4878,7 @@ guanj65
 - [tutula](smooth operator)
 - [Dan Priest]
 - [Yuki]
+- Anup Bhowmik | [Github](https://github.com/anupbhowmik) | [LinkedIn](https://www.linkedin.com/in/anupbhowmik21/)
 - [Aaron Liu](https://github.com/aaronliu5)
 - [Albert Ngoudjou](https://github.com/angoudjou)
 - [Mike Wittenauer](https://github.com/mawittenauer)
