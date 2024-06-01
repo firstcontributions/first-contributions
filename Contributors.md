@@ -2,6 +2,7 @@
 aiymzhann08
 - [ARPAN SHARMA](https://github.com/adach2) **LIFE IS GOOD✌️**
 - COffee is programmers best friend
+- Jen-Aiken Amanbay
   [Luigi Gonnella]
 - [Christophe Adami](https://github.com/adach2)
 - [CanGeus] | <a href="https://www.linkedin.com/in/cangeus/">linkedin</a> | (https://github.com/adach2)
@@ -161,6 +162,7 @@ rashee
 - [Kevin Tuei](https://github.com/kevshakes)
 - [Kevin Cherian George](https://github.com/kevin-291)
 - [Vishaal](https://github.com/pneumoniapriest)
+- [Sumit Aggarwal](https://github.com/gamersumit)
 - [rerawroy]
 - [josebaeza](https://github.com/josebaezae)
 - [Vivek Singh](https://github.com/viveksingh97)
@@ -215,6 +217,7 @@ chiu
 - oberheitzer
 - [Genie](https://github.com/genie-ru)
 - [DanielTYH]
+- [Marlo Tunggolh](https://github.com/Tunggolh)
 - [Toan nt2311]
 - [Marvin Romero](https://github.com/Marsmarv)
 - [James Kemboi](https://github.com/Kemboijames7)
@@ -377,6 +380,7 @@ v0idborne
 - Aamish Ahmad Beg
 - Jack Hunter
 - Arjun K
+- Shivam G (https://github.com/gargshi)
 - Yash  nicee
 - Tommy C
 - shuang wu
@@ -996,8 +1000,13 @@ Pereira
 - Dianna Pham
 - John Burton
 - Himanshu
+
 - [Geoffrey Muchugi Maina](https://github.com/M-Maina)
 - [faiza liyaqat](https://github.com/faizaliyaqat)
+- [Geoffrey Muchugi Maina](https://github.com/M-Maina)
+- [faiza liyaqat](https://github.com/faizaliyaqat)
+- [Timo](https://https://github.com/TimoMoosmann)
+
 - [David Mbuvi](https://github.com/cheekydavy)
 - [Harshithha](https://github.com/Harshithhha)
 - [Taylor!]
