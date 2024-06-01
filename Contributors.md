@@ -200,7 +200,7 @@ happy# Contributors
 - [Ngonzi Bridget](https://github.com/bree256)
 - [AnshJain]
 - [TexelHack](https://github.com/texelh4ck)
-- [Gnanendra M] (https://github.com/developer-in-wor
+- [Gnanendra M] (https://github.com/developer-in-wor)
 - [matheus-silva-791085] (https://github.com/Theu011)
 - [Victor-Germano](https://github.com/vgmbs1lva)
 - [Zakaria Ait Ali](https://github.com/ZakariaAitAli)
@@ -209,6 +209,7 @@ happy# Contributors
 - [Pavan Badempet](https://github.com/pavanbadempet)
 - [YaelGluskin]
 - [Shaowy05]
+- [fazal ahamed](https://github.com/FazalAhamed20)
 - Andy O
 - [samandar02]
 - [ashmita](https://github.com/Ashmita001)
