@@ -25,6 +25,7 @@ aiymzhann08
 - [GP-Development](https://github.com/GP-Development) `print("Hello, World")`
 - [Yechan Lee] (https://github.com/yechanlee04)
 - [Sarthak Shah]
+- [Ganesh159th] |<a href="https://www.linkedin.com/in/ganesh-kumar-3b42b0240/">Linkedin</a> (https://github.com/ganesh-159th) | #Ganesh159th
 - [Michael Corn](github.com/mcorn02)
 - [Vishal Ojha](https://github.com/VishalOjhaa)
 - [Ethan Wu](https://github.com/aps32221)
@@ -4880,7 +4881,7 @@ guanj65
 - [Júlia Yoshida](https://github.com/juliaryoshida/)
 - [Dimitrios Tikvinas] (YEAHHHHHHHHH BUDDYYYYYYYYYYYYY)
 - [Mihir Lad] (Maverick)
-- [tutula](smooth operator)
+- [tutula](smooth%20operator)
 - [Dan Priest]
 - [Yuki]
 - Anup Bhowmik | [Github](https://github.com/anupbhowmik) | [LinkedIn](https://www.linkedin.com/in/anupbhowmik21/)
