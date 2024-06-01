@@ -5,6 +5,7 @@ aiymzhann08
 - Jen-Aiken Amanbay
   [Luigi Gonnella]
 - [Christophe Adami](https://github.com/adach2)
+- [Tejas] https://github.com/tejdev96
 - [CanGeus] | <a href="https://www.linkedin.com/in/cangeus/">linkedin</a> | (https://github.com/adach2)
 - [Tanish] (https://github.com/beasthellboyy) | **Nice project**
 - [siddhu gorli](https://github.com/siddhu745)
