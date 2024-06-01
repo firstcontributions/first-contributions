@@ -1853,6 +1853,7 @@ Jasmine
 - Ashley Marchant
 - [Abraham Jacob] (https://github.com/Aby-1998)
 - [David S](https://github.com/ds526) 
+- [Mohit Choure] (https://github.com/choure)
 - [Joshua I Michael] (https://github.com/ikjosh)
 - [Emchesso](https://github.com/Emchesso)
 - [Tejas](https://github.com/tejas-ch)
