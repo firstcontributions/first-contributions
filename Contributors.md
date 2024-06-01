@@ -160,6 +160,7 @@ rashee
 - [Kevin Tuei](https://github.com/kevshakes)
 - [Kevin Cherian George](https://github.com/kevin-291)
 - [Vishaal](https://github.com/pneumoniapriest)
+- [Sumit Aggarwal](https://github.com/gamersumit)
 - [rerawroy]
 - [josebaeza](https://github.com/josebaezae)
 - [Vivek Singh] (https://github.com/viveksingh97)
