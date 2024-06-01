@@ -28,6 +28,7 @@ aiymzhann08
 - [Yechan Lee] (https://github.com/yechanlee04)
 - [Sarthak Shah]
 - [Suman Gaire] (https://github.com/sumangaire52)
+- [Bereket Sintayehu] (https://github.com/bereketsintayehu)
 - [Michael Corn](github.com/mcorn02)
 - [Vishal Ojha](https://github.com/VishalOjhaa)
 - [QiongJiaYaTou](https://github.com/qiongjiayatou)
