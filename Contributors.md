@@ -5,9 +5,9 @@ aiymzhann08
 - Jen-Aiken Amanbay
   [Luigi Gonnella]
 - [Christophe Adami](https://github.com/adach2)
-- [Tejas] https://github.com/tejdev96
+- [Tejas]https://github.com/tejdev96
 - [CanGeus] | <a href="https://www.linkedin.com/in/cangeus/">linkedin</a> | (https://github.com/adach2)
-- [Tanish] (https://github.com/beasthellboyy) | **Nice project**
+- [Tanish](https://github.com/beasthellboyy) | **Nice project**
 - [siddhu gorli](https://github.com/siddhu745)
 - [Francis Moran]
 - [David Lauer]
@@ -40,7 +40,7 @@ aiymzhann08
 - [Franco Jalil](https://github.com/FrancoJalil)
 - [Benjamin Kaplan](https://github.com/benKapl)
 - [May Thu Htet](https://github.com/may-thu-htet)
-- [Jonas Fahrney] (https://github.com/b0n3l3ss/)
+- [Jonas Fahrney](https://github.com/b0n3l3ss/)
 - [Rohit Ambati](https://github.com/rohitambati)
 - **[KrlitosForever 😎](https://github.com/KrlitosForever/)**
 - [Ali Dashti](https://github.com/XxDaShTixX) **Happy to be a part of this 😙**
