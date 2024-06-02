@@ -132,6 +132,7 @@ aiymzhann08
 - [Youssef Charif Hamidi](https://github.com/Chareeef)
 - [Devarsh Shah](https://github.com/devshah95)
 - Ronak Katariya
+- MS
 - [Willian Luigi Carneri](https://github.com/willcarneri)
 - [Chedvi Ganz](https://github.com/chedvig)
 [payobe](https://github.com/payobe)
