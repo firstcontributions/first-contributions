@@ -16,6 +16,7 @@ aiymzhann08
 - [Sabina Dragotsy]
 - [Dago Bert]
 - [Ankith Veldandi]
+- [Khursheed](https://github.com/khurshied)
 - [Bhavishya Pancholi](https://github.com/Royalcaptain-v2)
 - [Parth dey](https://github.com/parthdey)
 - [Works Better](https://github.com/WorksBetter)
