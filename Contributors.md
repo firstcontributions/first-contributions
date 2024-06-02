@@ -5,6 +5,7 @@ aiymzhann08
 - COffee is programmers best friend
 - Jen-Aiken Amanbay
   [Luigi Gonnella]
+  [Conan]
 - [Christophe Adami](https://github.com/adach2)
 - [Tejas] https://github.com/tejdev96
 - [CanGeus] | <a href="https://www.linkedin.com/in/cangeus/">linkedin</a> | (https://github.com/adach2)
