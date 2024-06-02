@@ -24,6 +24,7 @@ aiymzhann08
 - Life is not bad
 - [TayaBr] (https://github.com/tayabr)
 - [add-lansar]
+- Jerson Fenadict Andro
 - [NAveen Mydur]
 - [GP-Development](https://github.com/GP-Development) `print("Hello, World")`
 - [Yechan Lee] (https://github.com/yechanlee04)
