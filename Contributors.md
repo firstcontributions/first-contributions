@@ -16,6 +16,7 @@ aiymzhann08
 - [Shubh Sarpal] | <a href="https://www.linkedin.com/in/shubhsarpal/">linkedin</a> | # Shubh Sarpal
 - [Sabina Dragotsy]
 - [Dago Bert]
+- [zizom]
 - [Ankith Veldandi]
 - [Khursheed](https://github.com/khurshied)
 - [Bhavishya Pancholi](https://github.com/Royalcaptain-v2)
