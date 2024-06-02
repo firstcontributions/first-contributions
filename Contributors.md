@@ -5005,4 +5005,5 @@ git stat
 - [Dominic Domingo] ()
 - [rohith kanchukatla](https://github.com/rohithkanchukatla)
 - [kevin wong] (https://github.com/kevinw8765)
+- Venkatesh S
 - [Jesse Sigalov] (https://github.com/JesseSigalov)
