@@ -437,6 +437,7 @@ v0idborne
 - Raghav Sharma (https://github.com/some1uknow)
 - [Mike L](https://github.com/mlegard)
 - Abdurhman Fayad. Me too :) 
+- prakash-pandit. Did 50% of the work.
 - CircuitsToAIM says HI
 Abhinav Jain
 - [Lía Rosales](https://twitter.com/LiaRosales25)
