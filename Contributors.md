@@ -97,6 +97,7 @@ aiymzhann08
 - - [Arsile](https://github.com/itsarsile)
 - [Yoummu](https://github.com/Yoummu)
 - [Palash]
+- [Rajan Poudel](https://github.com/rajan-poudel)
 - [Sonu]
 - [Heimar Vega](https://github.com/heimarvega)
 - [Ik Teng](https://github.com/ikteng)
