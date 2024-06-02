@@ -779,6 +779,7 @@ Sam Barns
 - [Ajay Nischal](https://github.com/ajaynischal/)
 - [Caden Maxwell] (https://github.com/CadenMax)
 - [Chetan] (https://github.com/falcon-96)
+- [DingDingKO] (https://github.com/dingdingko)
 - [Akintunde Olayinka] (https://github.com/oakintunde)
 - Andrew Craeton
 - [JRW] (https://github.com/ShuaRead)
