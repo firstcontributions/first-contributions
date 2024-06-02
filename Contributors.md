@@ -5185,6 +5185,7 @@ git stat
 - [SAUMYA](https://github.com/saumyasinha31) : I am learning open source!
 - [Abdelrahman Elsayed](https://github.com/aaelsay3d)
 - [Code-Viktor](https://github.com/Code-Viktor)
+- [Heidi Fryzell](https://github.com/heidi37)
 - [Sivaprasad.G] (https://github.com/sprasad-g)
 - [wlowrd] (https://github.com/wlowrd)
 - [Méadbh McCollum] (https://github.com/MattMacCollum)    
