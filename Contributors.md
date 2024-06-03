@@ -1032,6 +1032,7 @@ Pereira
 - Dianna Pham
 - John Burton
 - Himanshu
+- [Rashmi Shree Veeraiah](https://github.com/rashmishreev) || Here we go! First open-source contribution :tada:
 - [Geoffrey Muchugi Maina] (https://github.com/M-Maina)
 - [faiza liyaqat] (https://github.com/faizaliyaqat)
 - [Timo] (https://https://github.com/TimoMoosmann)
