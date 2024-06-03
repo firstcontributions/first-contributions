@@ -4022,6 +4022,7 @@ LadegbayeStella)
 - [Alexander Kagerer] (https://github.com/kagerer19)
 - [M Zafir] (https://github.com/zafsire)
 - [Aiman] (https://github.com/helloaim4n)
+- [smagara](https://github.com/smagara)
 - [crystalyn]
 - [Nitipat Ruengsatawit](https://github.com/nitipat21)
 - [Felix](https://github.com/Feliax111)
