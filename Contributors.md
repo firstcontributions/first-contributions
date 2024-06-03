@@ -69,6 +69,7 @@ aiymzhann08
 -[Debapriya kumar](https://github.com/debapriyakumar)
 - [Y W](https://github.com/ywallis)
 - [Praveen Sahu](https://github.com/praveen7512)
+- Aryaman Bansal
 - [Niloy Biswas](https://github.com/Niloy077)
 - [Luke Olende](https://github.com/LukeOlende)
 - [schwong] (https://github.com/schwong)
