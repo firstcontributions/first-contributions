@@ -13,6 +13,7 @@ aiymzhann08
 - [CanGeus] | <a href="https://www.linkedin.com/in/cangeus/">linkedin</a> | (https://github.com/adach2)
 - [Tanish] (https://github.com/beasthellboyy) | **Nice project**
 - [siddhu gorli](https://github.com/siddhu745)
+- [Andreia Domingues] (https://github.com/Andreiadomz)
 - [Francis Moran]
 - [David Lauer]
 - [Ammar Hassan](https://github.com/vroslmend)
