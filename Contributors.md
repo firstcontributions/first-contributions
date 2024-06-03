@@ -339,7 +339,7 @@
 - Arjun K
 - Yash nicee
 - Tommy C
-- [Krimier Sanz](https://github.com/uepzues)
+- [Krimier Sanz](https://github.com/uepzues) ☕
 - shuang wu
 - juan-est145
 - Mike Vrkljan
