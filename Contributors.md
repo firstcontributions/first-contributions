@@ -23,6 +23,7 @@ aiymzhann08
 - [Bhavishya Pancholi](https://github.com/Royalcaptain-v2)
 - [Parth dey](https://github.com/parthdey)
 - [Works Better](https://github.com/WorksBetter)
+- [Yulin Xue](https://github.com/xueyulinn)
 - [Joseph Jia](https://github.com/jsphjia)
 - [Ibrahin Perez](https://github.com/Iptriana98) 😊
 - Life is not bad
