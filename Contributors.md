@@ -78,6 +78,7 @@ aiymzhann08
 - Aryaman Bansal
 - [Niloy Biswas](https://github.com/Niloy077)
 - [Luke Olende](https://github.com/LukeOlende)
+- [Luca](https://github.com/LucaJahnen)
 - [schwong] (https://github.com/schwong)
 - [Ruan S.](https://github.com/ruun)
 - [Hend Mohammed.](https://github.com/HendMohammed90)
