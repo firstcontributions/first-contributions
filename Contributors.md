@@ -8,6 +8,7 @@ aiymzhann08
 - Jen-Aiken Amanbay
   [Luigi Gonnella]
   [Conan]
+  [Pratham Jaiswal](https://github.com/pantha704)
 - [Christophe Adami](https://github.com/adach2)
 - [Zhanel Nzamdin] **stost**
 - [Sandeep Prajapati](https://github.com/Sandy712)
