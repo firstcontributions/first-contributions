@@ -51,6 +51,7 @@
 <kbd>[<img title="اُاردو" alt="اردو" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/pk.svg" width="22">](translations/README.ur.md)</kbd>
 <kbd>[<img title="Polski" alt="Polski" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/pl.svg" width="22">](translations/README.pl.md)</kbd>
 <kbd>[<img title="Português (Portugal)" alt="Português (Portugal)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/pt.svg" width="22">](translations/README.pt-pt.md)</kbd>
+<kbd>[<img title="Português (Moçambique)" alt="Português (Moçambique)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/mz.svg" width="22">](translations/README.pt-pt.md)</kbd>
 <kbd>[<img title="Русский язык" alt="Русский язык" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ru.svg" width="22">](translations/README.ru.md)</kbd>
 <kbd>[<img title="عربى" alt="عربى" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/sa.svg" width="22">](translations/README.ar.md)</kbd>
 <kbd>[<img title="Svenska" alt="Svenska" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/se.svg" width="22">](translations/README.se.md)</kbd>
