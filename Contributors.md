@@ -94,6 +94,7 @@ aiymzhann08
 - Rachel W
 - [Supreeth C](https://github.com/ShinichiShi)
 - BlackCro
+- Riaz (https://github.com/riiazz)
 - Camilo Arango
 - Ayman Abdalla
 - Larry Jones
