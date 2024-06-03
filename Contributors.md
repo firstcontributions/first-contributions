@@ -24,6 +24,7 @@ aiymzhann08
 - [Parth dey](https://github.com/parthdey)
 - [Works Better](https://github.com/WorksBetter)
 - [Joseph Jia](https://github.com/jsphjia)
+- [Ibrahin Perez](https://github.com/Iptriana98) 😊
 - Life is not bad
 - [TayaBr] (https://github.com/tayabr)
 - [add-lansar]
