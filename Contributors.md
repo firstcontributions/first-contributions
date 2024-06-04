@@ -506,6 +506,7 @@ Abhinav Jain
 - [Ajas Sharafudeen](https://github.com/ajas-sharafudeen)
 - [youten410](https://github.com/youten410)
 - [Saurabh Garg](https://github.com/SaurabhGarg6174)
+- [Wardah Khan](https://github.com/Wardahk98)
 - [hanacele] (https://github.com/hanacele)
 - [ZS Span](https://github.com/zsspan)
 - [Znods](https://github.com/Znods) :3
