@@ -12,6 +12,7 @@ aiymzhann08
 - [Christophe Adami](https://github.com/adach2)
 - [Zhanel Nzamdin] **stost**
 - [Sandeep Prajapati](https://github.com/Sandy712)
+- [StreLitziaYc](https://github.com/StreLitziaYc) `Hello OSS!`
 - [Tejas] https://github.com/tejdev96
 - [CanGeus] | <a href="https://www.linkedin.com/in/cangeus/">linkedin</a> | (https://github.com/adach2)
 - [Tanish] (https://github.com/beasthellboyy) | **Nice project**
