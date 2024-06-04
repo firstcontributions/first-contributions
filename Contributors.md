@@ -1801,6 +1801,7 @@ something...changed
 - [Ceyhun Atagec](https://github.com/atagec)
 - [Bikash Chauhan](https://github.com/bikash-789)
 - [lucas](https://github.com/lucas1969)
+- [Josh Pippen](https://github.com/JPIPPEN89)
 - [Eshwanth Karti T R](https://github.com/eshwanthkartitr)
 - [Azhar Aditya Pratama](https://github.com/azharadityapratama)
 - [Abdullah Sohail](https://github.com/abdullahsohailcs)
