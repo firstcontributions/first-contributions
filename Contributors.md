@@ -126,6 +126,7 @@ aiymzhann08
 - [Palash]
 - [Rajan Poudel](https://github.com/rajan-poudel)
 - [Sonu]
+- [Chance Kilmer] (https://github.com/xxXVoidXxx)
 - [Heimar Vega](https://github.com/heimarvega)
 - [Ik Teng](https://github.com/ikteng)
 - [Jiri Cizek] ** first merge :) **
