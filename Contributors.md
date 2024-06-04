@@ -38,6 +38,7 @@ aiymzhann08
 - [Works Better](https://github.com/WorksBetter)
 - [Yulin Xue](https://github.com/xueyulinn)
 - [Joseph Jia](https://github.com/jsphjia)
+- [G O Ashwin Praveen](https://github.com/ashwinpraveengo)
 - [Ibrahin Perez](https://github.com/Iptriana98) 😊
 - Life is not bad
 - [TayaBr] (https://github.com/tayabr)
