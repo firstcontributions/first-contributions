@@ -14,7 +14,7 @@ aiymzhann08
   [Luigi Gonnella]
   [Conan]
   [Bazeel Bin Waris](https://github.com/Bazeel-Waris) # Thanks for Helping Newbies 😊
-  [Daniel Seiji Ohara](https://github.com/DanielSOhara27)
+- [Daniel Seiji Ohara](https://github.com/DanielSOhara27)
   [Pratham Jaiswal](https://github.com/pantha704)
 - [Christophe Adami](https://github.com/adach2)
 - [Zhanel Nzamdin] **stost**
