@@ -3942,6 +3942,7 @@ LadegbayeStella)
 - [Mzwandile MJ Dlomo](https://github.com/Mzwandile-Dlomo)
 - [Nikhil](https://github.com/Nikhil7282)
 - [Testing](https://github.com/)
+- Tate Stradling
 - [Gloria](https://github.com/Lado-Gloria)
 - [Samadou Ouro-agorouko](https://github.com/Bakugo90)
 - [Ihenacho Henry](https://github.com/henrychris)
