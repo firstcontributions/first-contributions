@@ -41,6 +41,7 @@ aiymzhann08
 - [TayaBr] (https://github.com/tayabr)
 - [add-lansar]
 - Jerson Fenadict Andro
+- kantha222 (https://github.com/kanth222)
 - [NAveen Mydur]
 - [GP-Development](https://github.com/GP-Development) `print("Hello, World")`
 - [Yechan Lee] (https://github.com/yechanlee04)
