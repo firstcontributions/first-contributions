@@ -13,6 +13,7 @@ aiymzhann08
 - Jen-Aiken Amanbay
   [Luigi Gonnella]
   [Conan]
+  [Bazeel Bin Waris](https://github.com/Bazeel-Waris) # Thanks for Helping Newbies 😊
   [Pratham Jaiswal](https://github.com/pantha704)
 - [Christophe Adami](https://github.com/adach2)
 - [Zhanel Nzamdin] **stost**
