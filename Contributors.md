@@ -1,5 +1,6 @@
 # Contributors
 aiymzhann08
+- [RIMA DJAMAA](https://github.com/rimadjamaa) **KEEP GOING 🧠**
 - [ARPAN SHARMA](https://github.com/adach2) **LIFE IS GOOD✌️**
 - [Pratik Sondaule](https://github.com/pratikSondaule)
 - [Deep Sresthi](https://github.com/Deepsresthi)
