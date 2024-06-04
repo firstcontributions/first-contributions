@@ -31,6 +31,7 @@ aiymzhann08
 - [zizom]
 - [Ankith Veldandi]
 - [Khursheed](https://github.com/khurshied)
+- [Blue Mutheu](https://github.com/bluemutheu/)
 - [Bhavishya Pancholi](https://github.com/Royalcaptain-v2)
 - [Parth dey](https://github.com/parthdey)
 - [Works Better](https://github.com/WorksBetter)
