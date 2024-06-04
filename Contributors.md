@@ -6,6 +6,7 @@ aiymzhann08
 - [Pratik Sondaule](https://github.com/pratikSondaule)
 - [Deep Sresthi](https://github.com/Deepsresthi)
 - [Chang Won Choi](https://github.com/chang-won-choi)
+- [Kaede Nakayashiki](https://github.com/naka520)
 - COffee is programmers best friend
 - My first contribution
 - My second contribution
