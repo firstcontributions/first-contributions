@@ -776,6 +776,7 @@ Sam Barns
 - [Aniket Kanere](https://github.com/anikxt)
 - [JubaDev](https://github.com/JubaDeveloper)
 - [akhil chiluveru](https://github.com/akhil0203)
+- [lytt925](https://github.com/lytt925)
 - [Steven Curry](https://github.com/YrrucNevets)
 - [Conner Jordan](https://github.com/cjordan223)
 - [Lekhana Ganji](https://github.com/lekhana3003)
