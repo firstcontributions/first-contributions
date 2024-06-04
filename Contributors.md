@@ -1,5 +1,6 @@
 # Contributors
 aiymzhann08
+- [Sushant Pathak](https://github.com/sushant006)**keep learning 👨‍💻**
 - [RIMA DJAMAA](https://github.com/rimadjamaa) **KEEP GOING 🧠**
 - [ARPAN SHARMA](https://github.com/adach2) **LIFE IS GOOD✌️**
 - [Pratik Sondaule](https://github.com/pratikSondaule)
