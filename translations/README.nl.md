@@ -1,17 +1,17 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 # Eerste bijdragen
 
-De eerste keer dat je iets nieuws probeert is altijd lastig, helemaal wanneer je samen werkt - kan het maken van fouten erg vervelend zijn. Maar in open-source ontkom je niet aan samenwerken. We willen het graag makkelijker maken om te leren en bij te dragen voor de eerste keer aan een open-source project.
+Dit project heeft als doel het versimpelen en het begeleiden van beginners in het maken van hun eerste bijdragen. Als je op het punt staat om je eerste bijdragen te maken, volg dan onderstaande stappen.
 
-Het kan helpen om de artikelen te lezen en de video's te bekijken, maar niets is beter dan het gelijk te doen terwijl je leert en je niet de kans hebt om een fout te maken. Dit project richt zich op het begeleiden en het makkelijker maken voor beginners om hun eerste bijdrage te leveren aan een project. Onthoud: Hoe meer ontspannen je bent hoe beter je leert. Indien je op zoek bent om je eerste bijdrage te leveren aan open-source volg dan de onderstaande stappen. Wij beloven dat je het leuk zal vinden xxxx.
+_Als je je niet comfortable voelt met de command line, vind je [hier handleidingen voor het gebruik van GUI tools.](#handleidingen-voor-andere-tools)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork deze repository" />
 
-Indien je git nog niet hebt op je systeem, [ installeer het dan eerst ](https://help.github.com/articles/set-up-git/)
+### Indien je git nog niet hebt op je systeem, [installeer het dan eerst](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
 ## Deze repository forken
 
@@ -25,40 +25,40 @@ Kloon nu deze repository naar je systeem. Klik op de kloon knop en dan op het ko
 
 Open een terminal en voer het volgende git commando uit:
 
-```
-git clone "Gekopieerde repository"
+```bash
+git clone "Gekopieerde repository url"
 ```
 
-Waar "Gekopieerde repository" (zonder aanhalingstekens) de url naar (jouw fork van) deze repository is. Zie de vorige stappen om de url te vinden.
+Waar "Gekopieerde repository url" (zonder aanhalingstekens) de url naar (jouw fork van) deze repository is. Zie de vorige stappen om de url te vinden.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="kopieer URL naar het klembord" />
 
 Bijvoorbeeld:
 
-```
-git clone https://github.com/this-is-you/first-contributions.git
+```bash
+git clone git@github.com:this-is-you/first-contributions.git
 ```
 
-Waar 'this-is-you' staat vul jij je GitHub gebruikersnaam is. Hiermee kopieer je de inhoud van de first-contributions repo op GitHub naar je systeem.
+Waar 'this-is-you' staat, vul jij je GitHub gebruikersnaam is. Hiermee kopieer je de inhoud van de first-contributions repo op GitHub naar je systeem.
 
 ## Een branch aanmaken
 
 Navigeer naar de map van de repository op je systeem (mocht je daar niet al zijn).
 
-```
+```bash
 cd first-contributions
 ```
 
-Maak nu een branch aan door middel van het `git checkout command`
+Maak nu een branch aan door middel van het `git switch` commando:
 
-```
-git checkout -b <je-nieuwe-branch-naam>
+```bash
+git switch -c <je-nieuwe-branch-naam>
 ```
 
 Bijvoorbeeld:
 
-```
-git checkout -b add-thibmaek
+```bash
+git switch -c add-alonzo-church
 ```
 
 (De naam van de branch hoeft niet het woord _add_ te bevatten. In dit voorbeeld is het wel te adviseren aangezien het doel van deze branch hiermee duidelijk wordt gemaakt.)
@@ -67,15 +67,19 @@ git checkout -b add-thibmaek
 
 Open nu het `Contributors.md` bestand in een teksteditor en voeg je naam toe. Doe dit niet aan het begin of eind, maar ergens in het midden. Sla vervolgens het bestand op.
 
-Als je naar de projectmap gaat en `git status` doet, zul je zien dat er wijzigingen zijn. Voeg deze toe aan je branch met behulp van onderstaand `git add` commando.
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-```
+Als je naar de projectmap gaat en `git status` doet, zul je zien dat er wijzigingen zijn. 
+
+Voeg deze toe aan je branch met behulp van onderstaand `git add` commando.
+
+```bash
 git add Contributors.md
 ```
 
 Commit nu deze wijzigingen door onderstaand `git commit` commando te gebruiken.
 
-```
+```bash
 git commit -m "Add <jouw-naam> to Contributors list"
 ```
 
@@ -83,13 +87,25 @@ vervang `<jouw-naam>` met jouw naam
 
 ## Push de wijzigingen naar GitHub
 
-Push je wijzigingen met `git push`
+Push je wijzigingen met `git push`:
 
-```
-git push origin <je-nieuwe-branch-naam>
+```bash
+git push -u origin <je-nieuwe-branch-naam>
 ```
 
-Vervang `<je-nieuwe-branch-naam>` met de naam van de branch die je eerder aanmaakte.
+Vervang `<je-nieuwe-branch-naam>` met de naam van de branch die je eerder hebt aangemaakt.
+
+
+<details>
+<summary> <strong>Als je foutmeldingen krijgt tijdens het pushen, klik dan hier:</strong> </summary>
+
+- ### Authentication Error
+     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  Ga naar [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) voor het genereren en configureren van een SSH-sleutel in je account.
+
+</details>
 
 ## Verstuur je wijzigingen voor review
 
@@ -103,37 +119,7 @@ Verstuur nu je pull request.
 
 Nu ga ik (de beheerder) al je wijzigingen mergen in de master branch van dit project. Als de veranderingen gemerged zijn, zul je hier een e-mailnotificatie over ontvangen.
 
-## Je fork in sync houden met de hoofd-repository
-
-Wanneer de pull request wordt geaccepteerd en gemerged, zal jouw fork de wijzigingen nog niet bevatten - hiervoor moet je nog een aantal extra stappen ondernemen.
-
-Om beide repo's met elkaar in sync te houden voeg je de hoofd repo (mijne) url in als `upstream remote url`.
-
-```
-git remote add upstream https://github.com/firstcontributions/first-contributions
-```
-
-Hiermee vertel je git dat er nog een andere versie van dit project bestaat op dit specifieke url punt en dat we het upstream zullen noemen. Wanneer de wijzigingen gemerged zijn, kun je de nieuwe versie ophalen (fetchen) van mijn repo.
-
-```
-git fetch upstream
-```
-
-Hiermee fetchen we alle wijzigingen in mijn fork (upstream remote). Nu zal je de nieuwe revisie/versie van mijn repo moeten mergen in jouw master branch.
-
-```
-git rebase upstream/master
-```
-
-Dit voegt alle wijzigingen toe die je net fetchte van de master branch. Als je nu probeert je master branch te pushen, zal je fork al deze wijzigingen ook bevatten.
-
-```
-git push origin master
-```
-
-Merk op dat je in dit geval pusht naar de remote met de naam origin.
-
-## Tutorials gebruiken Andere hulpmiddelen
+## Handleidingen voor andere tools
 
 | <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | --- | --- | --- | --- | --- | --- |
