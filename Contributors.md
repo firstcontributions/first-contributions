@@ -5219,3 +5219,4 @@ git stat
 - [lowzx](https://github.com/lowzx)
 - [CuriousGu](https://github.com/CuriousGu)
 Hector
+- [Dan Yunheum Seol](https://github.com/dan-seol)
