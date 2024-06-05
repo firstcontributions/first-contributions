@@ -40,6 +40,7 @@ aiymzhann08
 - [Blue Mutheu](https://github.com/bluemutheu/)
 - [Bhavishya Pancholi](https://github.com/Royalcaptain-v2)
 - [Parth dey](https://github.com/parthdey)
+[Pranav Dua](https://github.com/pranavdua02)
 - [Works Better](https://github.com/WorksBetter)
 - [Yulin Xue](https://github.com/xueyulinn)
 - [Joseph Jia](https://github.com/jsphjia)
