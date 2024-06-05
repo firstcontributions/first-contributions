@@ -194,8 +194,7 @@ aiymzhann08
 - [Sofiyullahi Jamiu](https://github.com/orpcy)
 - [STK](https://github.com/sherlock221B1)
 rashee
-- [Muhammed Favaz vp](https://github.com/favaz-vp)
-- [Fasil-MFK](https://github.com/Fasil-MFK)
+- [Muhammed Favaz vp](https://github.com/favaz-vp)- [Fasil-MFK](https://github.com/Fasil-MFK)
 - [Pavan sai Krishnamoorthy](https://github.com/pavansai0)
 - [Taylor Phelps] (https://github.com/TaylorPhelps)
 - [Daniel Schneider](https://github.com/dschne27)
@@ -213,6 +212,7 @@ rashee
 - [Sumit Aggarwal](https://github.com/gamersumit)
 - [rerawroy]
 - [josebaeza](https://github.com/josebaezae)
+- [Leyu Sisay](https://github.com/LeyuSisay)
 - [Vivek Singh] (https://github.com/viveksingh97)
 - [Yeon Lee] (https://github.com/yeonholee50) - happy to help with anything =)
 - [Narinder Singh](https://github.com/nsingh-phd)
