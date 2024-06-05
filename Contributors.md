@@ -112,6 +112,7 @@ aiymzhann08
 - [jadahego](https://github.com/jadahego)**jdhg**
 - [ykmanalo](https://github.com/yvesmanalo)
 - [Aditya Srivastava](https://github.com/adityas-2990)
+- [Emmanuel Ideho] (https://github.com/EmmanuelIdeho) (https://www.linkedin.com/in/emmanuel-ideho-522a42185/)
 - Vaibhav Uttam this is embarassing
 - ***[Msganaw Wondemeneh ](https://github.com/msgewendim)***
 - Rachel W
