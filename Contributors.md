@@ -149,6 +149,7 @@ aiymzhann08
 - [Karl D Reta](https://github.com/karldreta) has joined the party!
 - [Spec-DY](https://github.com/Spec-DY) - hi! first merge!
 - [Jayesh](https://github.com/generator45)
+- [Michał Zaremba-Śmietański](https://github.com/michalzarsm)
 - [Jones David](https://github.com/redomic) - Redomic was here!
 - [Muhammad Ridwan Hakim](https://github.com/rescenic)
 - [Luciano Otto Rodrigues](https://github.com/Lucianoottor) - Add me :)
