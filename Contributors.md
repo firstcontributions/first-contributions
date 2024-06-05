@@ -48,6 +48,7 @@ aiymzhann08
 - Life is not bad
 - [TayaBr] (https://github.com/tayabr)
 - [add-lansar]
+- George Godfrey Blue (https://github.com/gBlue1)
 - Jerson Fenadict Andro
 - kantha222 (https://github.com/kanth222)
 - [NAveen Mydur]
