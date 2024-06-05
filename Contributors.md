@@ -57,6 +57,7 @@ aiymzhann08
 - [GP-Development](https://github.com/GP-Development) `print("Hello, World")`
 - [Yechan Lee] (https://github.com/yechanlee04)
 - [Sarthak Shah]
+- [Geet S]
 - [NDC]
 - [Suman Gaire] (https://github.com/sumangaire52)
 - [Bereket Sintayehu] (https://github.com/bereketsintayehu)
