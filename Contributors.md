@@ -3689,6 +3689,7 @@ sh5ed
 - [Kien Nguyen](https://github.com/vn-vietnam)
 - [Frank](https://github.com/Frank40790)
 - [Slavikmmk] 
+- [Lajos Mihalffy] (https://github/mluighy)
 - [Sagar Negi](https://github.com/sxxrfx)
 - [mthomsn](https://github.com/mthomsn/mthomsn)sabe
 - [Kshitij Jadhav](https://github.com/kshitij-create)
