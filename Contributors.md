@@ -119,6 +119,7 @@ aiymzhann08
 - BlackCro
 - Riaz (https://github.com/riiazz)
 - Camilo Arango
+- Bardia Boghrati
 - Ayman Abdalla
 - Larry Jones
 - [Elton Salanic] (https://github.com/eltonSalanic)
