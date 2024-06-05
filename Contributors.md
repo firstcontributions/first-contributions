@@ -14,8 +14,9 @@ aiymzhann08
 - Jen-Aiken Amanbay
   [Luigi Gonnella]
   [Conan]
+- [pramath subramanian]
   [Bazeel Bin Waris](https://github.com/Bazeel-Waris) # Thanks for Helping Newbies 😊
-  [Pratham Jaiswal](https://github.com/pantha704)
+  [Pratham Jaiswal](https://github.com/pantha
 - [Christophe Adami](https://github.com/adach2)
 - [Zhanel Nzamdin] **stost**
 - [Sandeep Prajapati](https://github.com/Sandy712)
