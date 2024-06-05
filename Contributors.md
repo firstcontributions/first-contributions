@@ -521,6 +521,7 @@ Abhinav Jain
 - [Prasad Hp](https://github.com/prasad-hp)
 - [Arnav Surve](https://github.com/arnavsurve)
 - [Visakh Vijayan](https://github.com/visakhvjn)
+- [Steven Yi](https://github.com/stevenysy)
 - [Netanel Krotovich](https://github.com/krotonet)
 - [Gaurav Khurana](https://github.com/gaurav-khurana)
 - [Jose Chacon](https://github.com/JoseChaconUrias)
