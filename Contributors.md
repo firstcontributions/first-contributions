@@ -16,6 +16,7 @@ aiymzhann08
 - My second contribution
 - Aditi (https://github.com/AditiSharma00)
 - Jen-Aiken Amanbay
+- Great way to start
   [Luigi Gonnella]
   [Conan]
 - [pramath subramanian]
