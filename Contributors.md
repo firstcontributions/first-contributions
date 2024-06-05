@@ -1139,6 +1139,7 @@ Pereira
 -Anchita Kakria
 - pritam sonmane
 - Mads Gillis
+- [Szymon Dawidowicz](a.k.a GalacticWarrior)
 - crm
 - [Helios Lis-Grounder](https://github.com/heliosgrounder)
 - Amit Dave (https://github.com/amitdave222)
