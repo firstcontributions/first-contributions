@@ -3457,6 +3457,7 @@ Philip Ambattu
 - [Hamil Dimapanat](https://github.com/hvmil)
 - [Sagar Shelke](https://github.com/seeprogramming)
 - [Wilson Chin](https://github.com/shitofshit)
+- [Ben Summerill](https://github.com/Bengsumm)
 - [Sophie S](https://github.com/ssun00)
 - [Harsha Siddalingachar](https://www.github.com/sharsha315)
 - [JayeLee17](https://github.com/JayeLee17)
