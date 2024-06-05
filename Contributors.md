@@ -5225,4 +5225,4 @@ git stat
 - [CuriousGu](https://github.com/CuriousGu)
 Hector
 - [Dan Yunheum Seol](https://github.com/dan-seol)
-- [Carl Guo](https://github.com/carlguo508)
+- [Carl](https://github.com/carlguo508)
