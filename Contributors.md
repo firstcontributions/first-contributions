@@ -2,6 +2,7 @@
 aiymzhann08
 - [@sriharsha_cr](https://twitter.com/sriharsha_cr): Hello world, it's good to start from here! 👍
 - [Jae Choi] (https://github.com/JCz-Zen) **👁👄👁 👍👍**
+- [Hamidat Bello](https://github.com/hamidatb)**Hi hi! 😃**
 - [Sushant Pathak](https://github.com/sushant006)**keep learning 👨‍💻**
 - [RIMA DJAMAA](https://github.com/rimadjamaa) **KEEP GOING 🧠**
 - [ARPAN SHARMA](https://github.com/adach2) **LIFE IS GOOD✌️**
