@@ -5279,3 +5279,4 @@ Hector
 - [Harsh Navdiya](https://github.com/hpnavadiya)
 - [Jonathan Keller](https://github.com/mrjokeller)
 - [Johan Sebastian Florez Ospina](https://github.com/sebasflorezo)
+- [Divyank Bhalla](https://github.com/divyankbhalla)
