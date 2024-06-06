@@ -38,6 +38,7 @@ aiymzhann08
 - [Shubh Sarpal] | <a href="https://www.linkedin.com/in/shubhsarpal/">linkedin</a> | # Shubh Sarpal
 - [Sabina Dragotsy]
 - [Dago Bert]
+- [abesegR]
 - [zizom]
 - [Ankith Veldandi]
 - [Khursheed](https://github.com/khurshied)
