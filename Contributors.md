@@ -141,6 +141,7 @@ aiymzhann08
 - [Palash]
 - [Rajan Poudel](https://github.com/rajan-poudel)
 - [Sonu]
+- [Bernardo Alves](https://github.com/Bernardo-Alvess) ***Thanks for the opportunity!*** 😁
 - [Chance Kilmer] (https://github.com/xxXVoidXxx)
 - [Heimar Vega](https://github.com/heimarvega)
 - [Ik Teng](https://github.com/ikteng)
