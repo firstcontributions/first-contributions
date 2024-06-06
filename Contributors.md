@@ -3,6 +3,7 @@ aiymzhann08
 - [Cjensen32](https://github.com/cojense4) First contribution lol
 - dm - first timer!
 - [@sriharsha_cr](https://twitter.com/sriharsha_cr): Hello world, it's good to start from here! 👍
+- [@ghritak](https://github.com/ghritak) **Good to be here** 🚀🔥
 - [@jakeevans00](https://github.com/jakeevans00) 🦆🦆🦆🦆🦆🦆...🦆 
 - [Ahzem](https://github.com/ahzem) **Love to OpenSource**
 - [Jae Choi] (https://github.com/JCz-Zen) **👁👄👁 👍👍**
