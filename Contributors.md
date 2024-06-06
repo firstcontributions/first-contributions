@@ -16,7 +16,7 @@ aiymzhann08
 - Aditi (https://github.com/AditiSharma00)
 - Jen-Aiken Amanbay
   [Luigi Gonnella]
-  [John Deighan]
+  [John Deighan - I love CoffeeScript]
   [Conan]
 - [pramath subramanian]
   [Bazeel Bin Waris](https://github.com/Bazeel-Waris) # Thanks for Helping Newbies 😊
