@@ -5271,3 +5271,4 @@ Hector
 - [seo jung uk](https://github.com/dj-doublejack)
 - [Harsh Navdiya](https://github.com/hpnavadiya)
 - [Jonathan Keller](https://github.com/mrjokeller)
+- [Johan Sebastian Florez Ospina](https://github.com/sebasflorezo)
