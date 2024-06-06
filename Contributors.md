@@ -74,6 +74,7 @@ aiymzhann08
 - [Rohit Ambati](https://github.com/rohitambati)
 - [Franco Jalil](https://github.com/FrancoJalil)
 - [Benjamin Kaplan](https://github.com/benKapl)
+- [Bunmi Oye](hhttps://github.com/cyanhead)
 - [May Thu Htet](https://github.com/may-thu-htet)
 - [Jonas Fahrney] (https://github.com/b0n3l3ss/)
 - [Rohit Ambati](https://github.com/rohitambati)
