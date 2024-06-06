@@ -168,6 +168,7 @@ aiymzhann08
 - [R. Mehta](https://github.com/rwmehta)
 - ["Umair"](https://github.com/UmairRaaz)
 - [Vangaru Shanmukha](https://github.com/vangaru-shanmukha)
+- [Charlie Chen](https://github.com/Oopsiepoopsie) - Periphery BEST Band in the world!
 - [Ann Mukami Kiunga](https://github.com/Kiunga1)
 - [✨God'swill Jonathan✨](https://github.com/Godzuche)
 - [MariMuthu](https://github.com/M-Aadhi)**I am placing my name in 69th postion lol....**
