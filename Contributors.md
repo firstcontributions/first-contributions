@@ -1,6 +1,7 @@
 # Contributors
 aiymzhann08
 - [Cjensen32](https://github.com/cojense4) First contribution lol
+- [Med-Yassine-B](https://github.com/Med-Yassine-B)
 - dm - first timer!
 - [@sriharsha_cr](https://twitter.com/sriharsha_cr): Hello world, it's good to start from here! 👍
 - [@ghritak](https://github.com/ghritak) **Good to be here** 🚀🔥
