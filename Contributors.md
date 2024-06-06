@@ -5271,6 +5271,7 @@ git stat
 - [CuriousGu](https://github.com/CuriousGu)
 Hector
 - [Dan Yunheum Seol](https://github.com/dan-seol)
+- [Carl Guo](https://github.com/carlguo508)
 - [cyblcode](https://github.com/cyblcode)
 - [tymehopkins](https://github.com/TymeHopkins)
 - [Paek Do Hyun](https://github.com/dh1010a)
