@@ -27,6 +27,7 @@ aiymzhann08
   [Luigi Gonnella]
   [Conan]
 - [pramath subramanian]
+- [Priyanshi]
   [Bazeel Bin Waris](https://github.com/Bazeel-Waris) # Thanks for Helping Newbies 😊
   [Pratham Jaiswal](https://github.com/pantha
 - [Christophe Adami](https://github.com/adach2)
