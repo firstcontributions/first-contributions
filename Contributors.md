@@ -2,6 +2,7 @@
 aiymzhann08
 - dm - first timer!
 - [@sriharsha_cr](https://twitter.com/sriharsha_cr): Hello world, it's good to start from here! 👍
+- [@jakeevans00](https://github.com/jakeevans00) 🦆🦆🦆🦆🦆🦆...🦆 
 - [Ahzem](https://github.com/ahzem) **Love to OpenSource**
 - [Jae Choi] (https://github.com/JCz-Zen) **👁👄👁 👍👍**
 - [Hamidat Bello](https://github.com/hamidatb)**Hi hi! 😃**
