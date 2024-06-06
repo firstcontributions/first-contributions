@@ -142,6 +142,7 @@ aiymzhann08
 - [Palash]
 - [Rajan Poudel](https://github.com/rajan-poudel)
 - [Sonu]
+- [Bernardo Alves](https://github.com/Bernardo-Alvess) ***Thanks for the opportunity!*** 😁
 - [Chance Kilmer] (https://github.com/xxXVoidXxx)
 - [Heimar Vega](https://github.com/heimarvega)
 - [Ik Teng](https://github.com/ikteng)
@@ -5269,3 +5270,4 @@ Hector
 - [Paek Do Hyun](https://github.com/dh1010a)
 - [seo jung uk](https://github.com/dj-doublejack)
 - [Harsh Navdiya](https://github.com/hpnavadiya)
+- [Jonathan Keller](https://github.com/mrjokeller)
