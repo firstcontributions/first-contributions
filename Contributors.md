@@ -43,6 +43,7 @@ aiymzhann08
 - [Dago Bert]
 - [abesegR]
 - [zizom]
+- [Dennis Gustavsson](https://github.com/dennisGustavsson)
 - [Ankith Veldandi]
 - [Khursheed](https://github.com/khurshied)
 - [lokesh](https://github.com/lokeshleela04)
