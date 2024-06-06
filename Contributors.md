@@ -4088,6 +4088,7 @@ LadegbayeStella)
 - [Verissimo Cassange](https://github.com/Vec21)
 - [DevSquares] (https://github.com/devsquaresio)
 - [Mak]
+- [Kofi Reeves-Miller]
 - [Matthew Parkes] (https://github.com/matthewjparkes)
 - [moNassar] (https://github.com/moNassar12)
 - [Galadima3] (https://github.com/Galadima3)
