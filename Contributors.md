@@ -13,6 +13,7 @@ aiymzhann08
 - [Kaede Nakayashiki](https://github.com/naka520)
 - [Gunju Yoo](https://github.com/bakgom123)
 - [YeThihaMyoLwin](https://github.com/yethihamyolwin)
+- [Yushi Cui](https://github.com/realYushi)
 - COffee is programmers best friend
 - My first contribution
 - My second contribution
