@@ -127,6 +127,7 @@ aiymzhann08
 - [Praveen Sahu](https://github.com/praveen7512)
 - Aryaman Bansal
 - [Niloy Biswas](https://github.com/Niloy077)
+- [Neeraj Sharma](https://github.com/imneerajsharma)
 - [Luke Olende](https://github.com/LukeOlende)
 - [Luca](https://github.com/LucaJahnen)
 - [schwong] (https://github.com/schwong)
