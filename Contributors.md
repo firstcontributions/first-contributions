@@ -3735,6 +3735,7 @@ sh5ed
 - [Vajda Örs](https://github.com/vajdao)
 - [miacodehub](https://github.com/miacodehub)
 - [Maximus Niu](https://github.com/maxx-niu)
+- [brianshrry](https://github.com/brianshrry/)
 - [aid-in](https://github.com/aid-in)
 - [jsj8051](https://github.com/jsj8051)
 - [ikhoza](https://github.com/ikhoza)
