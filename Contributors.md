@@ -1,5 +1,5 @@
 # Contributors
-aiymzhann08
+yumi-kim-0827
 - dm - cli
 - [Cjensen32](https://github.com/cojense4) First contribution lol
 - [Med-Yassine-B](https://github.com/Med-Yassine-B)
@@ -5314,3 +5314,4 @@ Hector
 - [Kennet Shin](https://github.com/WoofWoof0)
 - [Bobby M](https://github.com/bbm2910)
 - [Cecilia Tivir](https://github.com/ctivir)
+- [yumi-kim-0827](https://github.com/yumi-kim-0827)
