@@ -1,9 +1,18 @@
 # Contributors
 aiymzhann08
+- [Cjensen32](https://github.com/cojense4) First contribution lol
+- [Med-Yassine-B](https://github.com/Med-Yassine-B)
+- dm - first timer!
 - [@sriharsha_cr](https://twitter.com/sriharsha_cr): Hello world, it's good to start from here! 👍
+- [@ghritak](https://github.com/ghritak) **Good to be here** 🚀🔥
+- [@jakeevans00](https://github.com/jakeevans00) 🦆🦆🦆🦆🦆🦆...🦆 
+- [Ahzem](https://github.com/ahzem) **Love to OpenSource**
 - [Jae Choi] (https://github.com/JCz-Zen) **👁👄👁 👍👍**
+- [Hamidat Bello](https://github.com/hamidatb)**Hi hi! 😃**
 - [Sushant Pathak](https://github.com/sushant006)**keep learning 👨‍💻**
 - [RIMA DJAMAA](https://github.com/rimadjamaa) **KEEP GOING 🧠**
+- Siddhesh Sawant
+- [Swarnabha Halder](https://github.com/swarnabha-dev) **First Contribution 😎**
 - [ARPAN SHARMA](https://github.com/adach2) **LIFE IS GOOD✌️**
 - [Pratik Sondaule](https://github.com/pratikSondaule)
 - [Deep Sresthi](https://github.com/Deepsresthi)
@@ -13,6 +22,10 @@ aiymzhann08
 - [Gunju Yoo](https://github.com/bakgom123)
   +- [Jothiprakash](https://github.com/TJothiprakash)
 - [YeThihaMyoLwin](https://github.com/yethihamyolwin)
+- [Yushi Cui](https://github.com/realYushi)
+- [Alphin Jain](https://github.com/jainalphin)
+- [Muhammad ALi Hassan](https://github.com/CodeBy-Ali) **Coding is Love ✌️**
+- [David Hong](https://github.com/hyt152004)
 - COffee is programmers best friend
 - My first contribution
 - My second contribution
@@ -20,7 +33,9 @@ aiymzhann08
 - Jen-Aiken Amanbay
   [Luigi Gonnella]
   [Conan]
+-[Benomar Mohamed](https://github.com/Phfyx)
 - [pramath subramanian]
+- [Priyanshi]
   [Bazeel Bin Waris](https://github.com/Bazeel-Waris) # Thanks for Helping Newbies 😊
   [Pratham Jaiswal](https://github.com/pantha
 - [Christophe Adami](https://github.com/adach2)
@@ -33,6 +48,7 @@ aiymzhann08
 - [siddhu gorli](https://github.com/siddhu745)
 - [Andreia Domingues] (https://github.com/Andreiadomz)
 - [Francis Moran]
+- I love kubernetes and go lang
 - [David Lauer]
 - [Ammar Hassan](https://github.com/vroslmend)
 - [Pruthvik](https://github.com/Pruthvik-P)
@@ -42,6 +58,7 @@ aiymzhann08
 - [Dago Bert]
 - [abesegR]
 - [zizom]
+- [Dennis Gustavsson](https://github.com/dennisGustavsson)
 - [Ankith Veldandi]
 - [Khursheed](https://github.com/khurshied)
 - [lokesh](https://github.com/lokeshleela04)
@@ -81,6 +98,7 @@ aiymzhann08
 - [Bunmi Oye](hhttps://github.com/cyanhead)
 - [May Thu Htet](https://github.com/may-thu-htet)
 - [Jonas Fahrney] (https://github.com/b0n3l3ss/)
+- [SK Deeraj] (https://github.com/DeerajKarthik)
 - [Rohit Ambati](https://github.com/rohitambati)
 - **[KrlitosForever 😎](https://github.com/KrlitosForever/)**
 - [Ali Dashti](https://github.com/XxDaShTixX) **Happy to be a part of this 😙**
@@ -95,6 +113,7 @@ aiymzhann08
 - [Andrés De La Torre](https://github.com/AndresDeLaTorreVilla)
 - [krishna babu] (https://github.com/Krish-2505)
 - [Angelique Copere](https://github.com/Tonyac-create)
+- [Tony James](https://github.com/ItsmeToney)
 - [Gunjan Verma](https://github.com/gunjan409) Love to contribute on this 
 - Muhammad Hassaan Javed👋[![GitHub](https://img.icons8.com/?size=30&id=sbhfmWq4KRr1)](https://www.github.com/itxcrusher/) [![LinkedIn](https://img.icons8.com/?size=25&id=xuvGCOXi8Wyg)](https://www.linkedin.com/in/itxcrusher/)**✨Good Luck Everyone🚀**
 - [yule153604](https://github.com/yule153604)
@@ -109,6 +128,7 @@ aiymzhann08
 - [Praveen Sahu](https://github.com/praveen7512)
 - Aryaman Bansal
 - [Niloy Biswas](https://github.com/Niloy077)
+- [Neeraj Sharma](https://github.com/imneerajsharma)
 - [Luke Olende](https://github.com/LukeOlende)
 - [Luca](https://github.com/LucaJahnen)
 - [schwong] (https://github.com/schwong)
@@ -170,7 +190,7 @@ aiymzhann08
 - [R. Mehta](https://github.com/rwmehta)
 - ["Umair"](https://github.com/UmairRaaz)
 - [Vangaru Shanmukha](https://github.com/vangaru-shanmukha)
-- [Charlie Chen](https://github.com/Oopsiepoopsie) - Periphery BEST Band in the world!
+- [Charlie Chen](https://github.com/Oopsiepoopsie) - Periphery BEST Band in the world! But Misha Mansoor sucks
 - [Ann Mukami Kiunga](https://github.com/Kiunga1)
 - [✨God'swill Jonathan✨](https://github.com/Godzuche)
 - [MariMuthu](https://github.com/M-Aadhi)**I am placing my name in 69th postion lol....**
@@ -181,6 +201,7 @@ aiymzhann08
 - [Youssef Charif Hamidi](https://github.com/Chareeef)
 - [Devarsh Shah](https://github.com/devshah95)
 - Ronak Katariya
+- haha
 - MS
 - [Willian Luigi Carneri](https://github.com/willcarneri)
 - [Chedvi Ganz](https://github.com/chedvig)
@@ -5235,6 +5256,7 @@ git stat
 - [Stanislav Blinkov] (https://github.com/enoize)
 - [Gabriel Alberine] (https://github.com/Gabalba22)
 - [DSQsqblxhq] (https://github.com/DSQsqblxhq)
+- [AmitabhKumar](https://github.com/nithamitabh)
 - [Benedikt Wolf](https://github.com/Benedikt-Wolf)
 - [hkoh2](https://github.com/hkoh2)
 - [cybarry](https://github.com/cybarry)
@@ -5272,6 +5294,7 @@ git stat
 - [CuriousGu](https://github.com/CuriousGu)
 Hector
 - [Dan Yunheum Seol](https://github.com/dan-seol)
+- [Carl Guo](https://github.com/carlguo508)
 - [cyblcode](https://github.com/cyblcode)
 - [tymehopkins](https://github.com/TymeHopkins)
 - [Paek Do Hyun](https://github.com/dh1010a)
@@ -5279,3 +5302,5 @@ Hector
 - [Harsh Navdiya](https://github.com/hpnavadiya)
 - [Jonathan Keller](https://github.com/mrjokeller)
 - [Johan Sebastian Florez Ospina](https://github.com/sebasflorezo)
+- [Kennet Shin](https://github.com/WoofWoof0)
+- [Bobby M](https://github.com/bbm2910)
