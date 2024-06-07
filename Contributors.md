@@ -2,6 +2,7 @@
 yumi-kim-0827
 - dm - cli
 - [Cjensen32](https://github.com/cojense4) First contribution lol
+- Dsparcade
 - [Med-Yassine-B](https://github.com/Med-Yassine-B)
 - dm - first timer!
 - [@sriharsha_cr](https://twitter.com/sriharsha_cr): Hello world, it's good to start from here! 👍
