@@ -21,6 +21,7 @@ aiymzhann08
 - [Pratik Sondaule](https://github.com/pratikSondaule)
 - [Piyansh Jain](https://github.com/pri7ansh)
 - [Deep Sresthi](https://github.com/Deepsresthi)
+- [Avantikka](https://github.com/avanti146)
 - [Chang Won Choi](https://github.com/chang-won-choi)
 - [Wisdom Ofogba](https://github.com/WisdomOfogba)
 - [Kaede Nakayashiki](https://github.com/naka520)
