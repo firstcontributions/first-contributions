@@ -205,6 +205,7 @@ aiymzhann08
 - [Ifham Mohamed](https://github.com/ifhammohamed1111)
 - Mahmud Kandawala
 - [Youssef Charif Hamidi](https://github.com/Chareeef)
+- [Gabriel Marchegiani] (https://github.com/gabrimarch3) **l'inizio di un lunghissimo viaggio**
 - [Devarsh Shah](https://github.com/devshah95)
 - Ronak Katariya
 - haha
