@@ -325,6 +325,7 @@ chiu
 - [chinanagaraju](https://github.com/chinanagaraju/)
 - [Bas de Bruijn] (https://github.com/Bas0164) Lets go! :D
 - [Guy Pridan] (https://github.com/guypridan) :D
+- [Chi Nhan](https://github.com/hxajk) 😴 Hello
 - Photon48 ;
 - [Akhil kabra] Lets go!!
 - The Big Giro Bear was here!
