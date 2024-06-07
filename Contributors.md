@@ -970,10 +970,7 @@ Kayla Barton
 - [Benjamin Lane] (https://github.com/UnseemlyDuck) 
 - [Chris Reed] (https://github.com/WebDevByCR)
 - [ash-tise](https://github.com/ash-tise)
-- [Dennis Witnauer](https://github.com/witnauer)
-- [Will](https://github.com/WillTheCodeWork)
-- [Lovis Tawiah](https://github.com/lovistawiah)
-- [Kunal Tyagi](https://github.com/tykunal)
+- [Dennis Witnauer](https://github.com/witnauhttps://github.com/NateOs/first-contributions.git
 - [Moslem Ajra](https://github.com/moslemajra85)
 - [Hari Kishore Sepuri](https://github.com/HK-Sepuri)
 - [Muhaimin](https://github.com/abdulmuhaiminshahriman)
@@ -5319,3 +5316,4 @@ Hector
 - [zunaed-farabe](https://github.com/bbm2910)
 - [Cecilia Tivir](https://github.com/ctivir)
 - [yumi-kim-0827](https://github.com/yumi-kim-0827)
+- [nathan-sodja](https://github.com/nateos)
