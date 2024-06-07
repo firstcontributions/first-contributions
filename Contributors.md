@@ -1,5 +1,6 @@
 # Contributors
 aiymzhann08
+- dm - cli
 - [Cjensen32](https://github.com/cojense4) First contribution lol
 - [Med-Yassine-B](https://github.com/Med-Yassine-B)
 - dm - first timer!
