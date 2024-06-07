@@ -9,6 +9,7 @@ aiymzhann08
 - [Ahzem](https://github.com/ahzem) **Love to OpenSource**
 - [Jae Choi] (https://github.com/JCz-Zen) **👁👄👁 👍👍**
 - [p1x1p](https://github.com/p1x1p)
+- [SwelMyel](https://github.com/LazyBoiSM)
 - [Hamidat Bello](https://github.com/hamidatb)**Hi hi! 😃**
 - [Sushant Pathak](https://github.com/sushant006)**keep learning 👨‍💻**
 - [RIMA DJAMAA](https://github.com/rimadjamaa) **KEEP GOING 🧠**
