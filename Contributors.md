@@ -105,6 +105,7 @@ aiymzhann08
 - [SK Deeraj] (https://github.com/DeerajKarthik)
 - [Rohit Ambati](https://github.com/rohitambati)
 - **[KrlitosForever 😎](https://github.com/KrlitosForever/)**
+- [Dhananjay](https://github.com/DChitale/)
 - [Ali Dashti](https://github.com/XxDaShTixX) **Happy to be a part of this 😙**
 - [Rafael Biasiolo] (https://github.com/Biasiolo) ** Go Horse! **
 - [crystal941] (https://github.com/crystal941) ** Kia Ora! **
@@ -127,6 +128,7 @@ aiymzhann08
 - [ashish kumar singh](https://github.com/Ashish-sin-gh)
 [MHHT](https://github.com/MyatHmueishere)
 - [thatwonguy](https://github.com/thatwonguy)
+-[DChitale](https://github.com/DChitale)
 -[Debapriya kumar](https://github.com/debapriyakumar)
 - [Y W](https://github.com/ywallis)
 - [Praveen Sahu](https://github.com/praveen7512)
