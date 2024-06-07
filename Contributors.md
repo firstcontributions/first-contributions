@@ -2223,6 +2223,7 @@ Jasmine
 - [Thales Winther](https://github.com/thaleswinther)
 - [Tornike Tsulukidze](https://github.com/TheMechanicalBeing)
 - - [Ryan Lucero](https://github.com/ryanluceroo)
+- [Alwin Sajan](https://github.com/Alwin-Sajan)
 - [Alonso Jimenez](https://github.com/alonsojmnz)
 - [Antonio Fábio](https://github.com/zodiecko)
 - masaymd
