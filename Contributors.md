@@ -43,7 +43,7 @@ aiymzhann08
   [Pratham Jaiswal](https://github.com/pantha
 - [Christophe Adami](https://github.com/adach2)
 - [Zhanel Nzamdin] **stost**
-- Miguel Salvador
+- Miguel Salvador - Hi!
 - [Sandeep Prajapati](https://github.com/Sandy712)
 - [StreLitziaYc](https://github.com/StreLitziaYc) `Hello OSS!`
 - [Tejas] https://github.com/tejdev96
