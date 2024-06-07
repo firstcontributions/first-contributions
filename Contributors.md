@@ -66,6 +66,7 @@ aiymzhann08
 - [lokesh](https://github.com/lokeshleela04)
 - [mythily](https://github.com/mythily90)
 - [Blue Mutheu](https://github.com/bluemutheu/)
+- [Charles Nilsson](https://github.com/charlesnilsson)
 - [Bhavishya Pancholi](https://github.com/Royalcaptain-v2)
 - [Parth dey](https://github.com/parthdey)
 [Pranav Dua](https://github.com/pranavdua02)
