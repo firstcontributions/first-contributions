@@ -15,6 +15,7 @@ yumi-kim-0827
 - [SwelMyel](https://github.com/LazyBoiSM)
 - [Hamidat Bello](https://github.com/hamidatb)**Hi hi! 😃**
 - [Sushant Pathak](https://github.com/sushant006)**keep learning 👨‍💻**
+- [Jyotika Kishor](https://github.com/jyotika-dev)
 - [RIMA DJAMAA](https://github.com/rimadjamaa) **KEEP GOING 🧠**
 - Siddhesh Sawant
 - [Swarnabha Halder](https://github.com/swarnabha-dev) **First Contribution 😎**
