@@ -1,5 +1,5 @@
 # Contributors
-aiymzhann08
+yumi-kim-0827
 - dm - cli
 - [Cjensen32](https://github.com/cojense4) First contribution lol
 - [Med-Yassine-B](https://github.com/Med-Yassine-B)
