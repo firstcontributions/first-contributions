@@ -28,6 +28,7 @@ yumi-kim-0827
 - [Pratik Sondaule](https://github.com/pratikSondaule)
 - [Piyansh Jain](https://github.com/pri7ansh)
 - [Deep Sresthi](https://github.com/Deepsresthi)
+- [Rajath Hongal](https://github.com/rajathongal)
 - [Avantikka](https://github.com/avanti146)
 - [Chang Won Choi](https://github.com/chang-won-choi)
 - [Wisdom Ofogba](https://github.com/WisdomOfogba)
