@@ -1,5 +1,6 @@
 # Contributors
 yumi-kim-0827
+- [Ivan Chekunkov](https://github.com/ivan-chekunkov)**Hi! 😃**
 - [HongweiRuan] (https://github.com/HongweiRuan) Nice to meet you guys✌️
 - dm - cli
 - [@Lakshya-Kapoor](https://github.com/Lakshya-Kapoor) First open source contribution 🥳🥳
