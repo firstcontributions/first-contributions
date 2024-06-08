@@ -47,7 +47,7 @@ yumi-kim-0827
 - [YeThihaMyoLwin](https://github.com/yethihamyolwin)
 - [Yushi Cui](https://github.com/realYushi)
 - [Alphin Jain](https://github.com/jainalphin)
-- [Muhammad ALi Hassan](https://github.com/CodeBy-Ali) **Coding is Love ✌️**
+- [Muhammad ALi Hassan](https://github.com/CodeBy-Ali)
 - [David Hong](https://github.com/hyt152004)
 - COffee is programmers best friend
 - My first contribution
@@ -108,6 +108,7 @@ yumi-kim-0827
 - [Yechan Lee] (https://github.com/yechanlee04)
 - [Sarthak Shah]
 - [Geet S]
+- [Yoon Thiri Aung](https://github.com/yoon-thiri04)
 - [NDC]
 - [Joel Burns]
 - [Suman Gaire] (https://github.com/sumangaire52)
