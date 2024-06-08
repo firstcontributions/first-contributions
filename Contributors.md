@@ -10,6 +10,7 @@ aiymzhann08
 - [@jakeevans00](https://github.com/jakeevans00) 🦆🦆🦆🦆🦆🦆...🦆 
 - [Ahzem](https://github.com/ahzem) **Love to OpenSource**
 - [Jae Choi] (https://github.com/JCz-Zen) **👁👄👁 👍👍**
+- [samuel Blessing](https://github.com/sammykleffh) **First ever**
 - [p1x1p](https://github.com/p1x1p)
 - [SwelMyel](https://github.com/LazyBoiSM)
 - [Hamidat Bello](https://github.com/hamidatb)**Hi hi! 😃**
