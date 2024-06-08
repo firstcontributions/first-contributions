@@ -47,7 +47,8 @@ yumi-kim-0827
 - [YeThihaMyoLwin](https://github.com/yethihamyolwin)
 - [Yushi Cui](https://github.com/realYushi)
 - [Alphin Jain](https://github.com/jainalphin)
-- [Muhammad ALi Hassan](https://github.com/CodeBy-Ali) **Coding is Love ✌️**
+- [Muhammad ALi Hassan](https://github.com/CodeBy-Ali)
+- [Yoon Thiri Aung](https://github.com/yoon-thiri04) **Coding is Love ✌️**
 - [David Hong](https://github.com/hyt152004)
 - COffee is programmers best friend
 - My first contribution
