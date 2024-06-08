@@ -2720,6 +2720,7 @@ Dante Sanchez
 - [Contidex]
 - [DPHung]
 - [Angelica Michaca](https://github.com/Angelica-Michaca)
+- [vin709](https://github.com/vin709)
 - [Chandana Srinivasa Yatisha](https://github.com/chandanasy)
 - [Sivapannier]
 - [Nb](https://github.com/Neeraj6Maths)
