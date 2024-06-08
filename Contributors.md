@@ -32,6 +32,7 @@ yumi-kim-0827
 - [ARPAN SHARMA](https://github.com/adach2) **LIFE IS GOOD✌️**
 - [Pratik Sondaule](https://github.com/pratikSondaule)
 - [Piyansh Jain](https://github.com/pri7ansh)
+- [Rachael Odetayo](https://github.com/Rakielle)
 - [Deep Sresthi](https://github.com/Deepsresthi)
 - [Rajath Hongal](https://github.com/rajathongal)
 - [Avantikka](https://github.com/avanti146)
