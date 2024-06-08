@@ -53,6 +53,7 @@ yumi-kim-0827
 - COffee is programmers best friend
 - My first contribution
 - My second contribution
+- JoyBas
 - [Jonathan Batanian] (https://github.com/jOBT0)
 - Aditi (https://github.com/AditiSharma00)
 - Jen-Aiken Amanbay
