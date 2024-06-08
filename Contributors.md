@@ -180,6 +180,7 @@ yumi-kim-0827
 - Rachel W
 - [Supreeth C](https://github.com/ShinichiShi)
 - BlackCro
+- [aar-rafi](https://github.com/aar-rafi)
 - Riaz (https://github.com/riiazz)
 - Camilo Arango
 - Bardia Boghrati
