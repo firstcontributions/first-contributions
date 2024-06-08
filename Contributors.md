@@ -5046,6 +5046,7 @@ guanj65
 - [__Chisato__](https://github.com/chisato2233)
 - [Keith Pryor]https://github.com/pryorka82/
 - [harleny angellica](https://github.com/Angelicahaas)
+- [Ameya Khot](https://github.com/ameyakhot)
 - [Erick Miranda Santos](https://github.com/Erick-ems)
 - [Jishnu K B] (https://github.com/Jishnu-k-b)
 -_[Pedro Braga](https://github.com/Stain19)
