@@ -7,6 +7,7 @@ yumi-kim-0827
 - [@Lakshya-Kapoor](https://github.com/Lakshya-Kapoor) First open source contribution 🥳🥳
 - [Cjensen32](https://github.com/cojense4) First contribution lol
 - Dsparcade
+-[Durgesh] (https://github.com/Durgeshityar/) OS here i come 🚶🏼‍♂️
 - [xbryan25](https://github.com/xbryan25) Hello world!
 - [Med-Yassine-B](https://github.com/Med-Yassine-B)
 - dm - first timer!
