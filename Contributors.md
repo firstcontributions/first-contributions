@@ -5364,5 +5364,6 @@ Hector
 - [ElijahSource](https://github.com/ElijahSource)
 - [SudarshanJadhav](https://github.com/sjadhav07)
 - [Cheng-Yi Tang](https://github.com/chengyitang)
+- [Wairimu Maringa](https://github.com/WairimuMaringa)
 - [Humzah alkindi]((https://github.com/hamzakindi)) 
 - [Rishi Sudhakar]((https://github.com/Rishi-Sudhakar)) : Somewhere in the middle they said 😏
