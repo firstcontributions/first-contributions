@@ -62,6 +62,7 @@ roshan ahamed iam the strong man inthe world
 - Jen-Aiken Amanbay
   [Luigi Gonnella]
   [Conan]
+- Daniel Onstwedder
 -[Benomar Mohamed](https://github.com/Phfyx)
 - [pramath subramanian]
 - [Priyanshi]
