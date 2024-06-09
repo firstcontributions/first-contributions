@@ -2566,6 +2566,7 @@ Romeu Leite
 - [Pranav Hajare](https://github.com/pranavhajare)
 - [Emmanuel](https://github.com/codesmith-emmy)
 - [luispunx](https://github.com/luispunx)
+- [maxgmr](https://github.com/maxgmr)
 - [Rose Liu](https://github.com/BlueRosy) An interesting contribution experience! Thanks. 🩷🩵
 - [Yufa Zhou](https://github.com/MasterZhou1)
 - [Modupe Marvellous](https://github.com/Marvie-03)
