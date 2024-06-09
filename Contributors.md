@@ -5365,3 +5365,4 @@ Hector
 - [SudarshanJadhav](https://github.com/sjadhav07)
 - [Cheng-Yi Tang](https://github.com/chengyitang)
 - [Humzah alkindi]((https://github.com/hamzakindi)) 
+- [Rishi Sudhakar]((https://github.com/Rishi-Sudhakar)) : Somewhere in the middle they said 😏
