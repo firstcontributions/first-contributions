@@ -22,6 +22,7 @@ roshan ahamed iam the strong man inthe world
 - [@jakeevans00](https://github.com/jakeevans00) 🦆🦆🦆🦆🦆🦆...🦆 
 - [Ahzem](https://github.com/ahzem) **Love to OpenSource**
 - [Jae Choi] (https://github.com/JCz-Zen) **👁👄👁 👍👍**
+- [Samuel Blessing](https://github.com/sammykleffh) **First ever**
 - [@talhakammybond] (https://github.com/talhakammybond) 0️⃣0️⃣7️⃣
 - [Leo Raggio](https://github.com/leoraggio) **Hello World!**
 - [p1x1p](https://github.com/p1x1p)
@@ -852,7 +853,7 @@ git add Contributors.md# Contributors
 - Jack Youssef
 - sakcer
 - Brooke Smith
-Sam Barns
+-Sam Barns
 - [moddingforreal](https://github.com/moddingforreal)
 - [Shane Ludwig] (https://github.com/FoopyPoopy)
 - [Coder Court] (https://github.com/codercourt)
@@ -2506,7 +2507,6 @@ Gyanendra Thakur
 Daniela Anghel
 - Leonard Sfetcu --> https://github.com/leonardsfetcu/
 Romeu Leite
-
 - Jeremy(https://github.com/JeremyTran211)
 - Neoncephalopod
 - Rahma Mohamud
@@ -2590,8 +2590,7 @@ Romeu Leite
 - [Essi Akpevwe Praise](https://https://github.com/Akpevwe11)
 - [Jivi ~_~](https://github.com/Jivi-this-side)
 - [Subro](https://www.linkedin.com/in/subrojyoti-paul)
-- [BrianC](https://github.com/BrianSChase
-)
+- [BrianC](https://github.com/BrianSChase)
 - [zeden](https://github.com/snowxx456)
 - [Htut Oakkar](https://github.com/htutoakkar)
 - [K G Tint Swe](https://github.com/KG6605)
@@ -2623,8 +2622,6 @@ Romeu Leite
 - [Satyajit Patra] (https://github.com/SatyajitPatra06)
 - [Abishek S R] (https://github.com/Abishek0411)
 - [bharathkanchoju](https://github.com/bharathkanchoju) I'm passionate about cybersecurity.
-
-
 - [NIteshNaidu(Moonie)](https://github.com/Moon1Knight) Heya !! >.<
 - [Kyle O'Leary] (https://github.com/kyle-oleary)
 - [Irfan](https://github.com/0xNafri)
