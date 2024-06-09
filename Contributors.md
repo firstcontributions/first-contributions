@@ -14,7 +14,7 @@ yumi-kim-0827
 - dm - first timer!
 - [@sriharsha_cr](https://twitter.com/sriharsha_cr): Hello world, it's good to start from here! 👍
 - [Rupika C](https://github.com/rupika14)
-- [Jacqueline R Jackson]https://github.com/jackrataty) **Hello, from OHIO, 2024 Nice to meet you*
+- [Jacqueline R Jackson]https://github.com/jackrataty)**Hello, OHIO USA, June 2024**🚀🔥
 - [Karan Khatik](https://github.com/Karankhatik) **Hello, great to start from here**🚀🔥
 - [Arad Soutehkeshan](https://github.com/Gonzaleski)
 - [@ghritak](https://github.com/ghritak) **Good to be here** 🚀🔥
