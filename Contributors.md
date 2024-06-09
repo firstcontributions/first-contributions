@@ -73,6 +73,7 @@ yumi-kim-0827
 - [Tanish] (https://github.com/beasthellboyy) | **Nice project**
 - [siddhu gorli](https://github.com/siddhu745)
 - [Andreia Domingues] (https://github.com/Andreiadomz)
+- [Yuhan Wang] I hope it works out
 - [Francis Moran]
 - I love kubernetes and go lang
 - Ramya
