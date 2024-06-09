@@ -40,6 +40,7 @@ yumi-kim-0827
 - [Piyansh Jain](https://github.com/pri7ansh)
 - [Rachael Odetayo](https://github.com/Rakielle)
 - [Deep Sresthi](https://github.com/Deepsresthi)
+- [Omkareshwar Nath Dwivedy](https://github.com/Dwivedy2)
 - [Rajath Hongal](https://github.com/rajathongal)
 - [Avantikka](https://github.com/avanti146)
 - [Chang Won Choi](https://github.com/chang-won-choi)
@@ -74,10 +75,12 @@ yumi-kim-0827
 - [Tanish] (https://github.com/beasthellboyy) | **Nice project**
 - [siddhu gorli](https://github.com/siddhu745)
 - [Andreia Domingues] (https://github.com/Andreiadomz)
+- [Yuhan Wang] I hope it works out
 - [Francis Moran]
 - I love kubernetes and go lang
 - Ramya
 - [David Lauer]
+- [Saurabh singh](https://github.com/Sourabh7singh)
 - [Ammar Hassan](https://github.com/vroslmend)
 - [Pruthvik](https://github.com/Pruthvik-P)
 - [Aakash Karat] | <a href="https://www.linkedin.com/in/ktaakash/">linkedin</a> | <a href="https://www.github.com/kt-aakash">github</a> 
@@ -144,6 +147,7 @@ yumi-kim-0827
 - [Andrés De La Torre](https://github.com/AndresDeLaTorreVilla)
 - [krishna babu] (https://github.com/Krish-2505)
 - [Angelique Copere](https://github.com/Tonyac-create)
+- [Dileepkumar Sasanapuri](https://github.com/dileepkumarsasanapuri)**first contribution**
 - [Tony James](https://github.com/ItsmeToney)
 - [gagan-bhullar](https://github.com/gagan-bhullar-tech)
 - [Gunjan Verma](https://github.com/gunjan409) Love to contribute on this 
@@ -1474,6 +1478,7 @@ Kencham Vinay
 -[Aswin Jose](https://github.com/aswinjose89)
 -[chim chikwakea](https://github.com/chim)
 -[Anita Dennis](https://github.com/anitadenn)
+-[Dhruv](https://github.com/dhruv1397)
 -[Moe Sidibeh](https://github.com/kkonteh97)
 -[Doddi Shiva](https://github.com/shiva0500)
 -[Alan Winters](https://github.com/winters-ag)
@@ -1853,6 +1858,7 @@ guanj65
 - [Sravan kumar](https://github.com/vishnusk2004)
 - [Alex King](https://github.com/ak2466) 🕳️
 - [Olivia Vester] (https://github.com/oliveoil222)
+- [Aditi Prabakaran](https://github.com/Aditi2k5)
 - [Oscar Agurto] (https://github.com/ImMalwaree)
 something...changed
 - [Amina Ahmed] (https://github.com/Aminaa27)
@@ -5352,5 +5358,7 @@ Hector
 - [yumi-kim-0827](https://github.com/yumi-kim-0827)
 - [Rithik Roshan](https://github.com/Rithik1010)
 - [Kotni Vamsi Sai](https://github.com/thevamsithecoder)
-- [ElijahSource](https://github.com/ElijahSource)
-- 
+- [SudarshanJadhav](https://github.com/sjadhav07)
+- [Cheng-Yi Tang](https://github.com/chengyitang)
+- [Humzah alkindi]((https://github.com/hamzakindi)) 
+
