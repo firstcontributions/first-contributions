@@ -3,7 +3,8 @@
 yumi-kim-0827
 
 - [Ivan Chekunkov](https://github.com/ivan-chekunkov)**Hi! 😃**
-  [Sreeraj N R] https://github.com/astralsmith - I started from here! 😊 -[Gokula Kanna] (https://github.com/Gokula-Kanna) - **All my fellas 👋🏾, This is just the beginning and it's only going to get better from here 🚀**
+- [Sreeraj N R] https://github.com/astralsmith - I started from here! 😊
+- [Gokula Kanna] (https://github.com/Gokula-Kanna) - **All my fellas 👋🏾, This is just the beginning and it's only going to get better from here 🚀**
 - [HongweiRuan] (https://github.com/HongweiRuan) Nice to meet you guys✌️
 - dm - cli
 - [@Lakshya-Kapoor](https://github.com/Lakshya-Kapoor) First open source contribution 🥳🥳
