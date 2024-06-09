@@ -13,6 +13,7 @@ roshan ahamed iam the strong man inthe world
 - [xbryan25](https://github.com/xbryan25) Hello world
 - [Med-Yassine-B](https://github.com/Med-Yassine-B)
 - dm - first timer!
+- [@jgarzon97] (https://github.com/jgarzon97) **First Contribution!**
 - [@sriharsha_cr](https://twitter.com/sriharsha_cr): Hello world, it's good to start from here! 👍
 - [Rupika C](https://github.com/rupika14)
 - [Karan Khatik](https://github.com/Karankhatik) **Hello, great to start from here**🚀🔥
