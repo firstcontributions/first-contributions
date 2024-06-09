@@ -39,6 +39,7 @@ yumi-kim-0827
 - [Piyansh Jain](https://github.com/pri7ansh)
 - [Rachael Odetayo](https://github.com/Rakielle)
 - [Deep Sresthi](https://github.com/Deepsresthi)
+- [Omkareshwar Nath Dwivedy](https://github.com/Dwivedy2)
 - [Rajath Hongal](https://github.com/rajathongal)
 - [Avantikka](https://github.com/avanti146)
 - [Chang Won Choi](https://github.com/chang-won-choi)
