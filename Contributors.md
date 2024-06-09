@@ -181,6 +181,7 @@ yumi-kim-0827
 - [jadahego](https://github.com/jadahego)**jdhg**
 - [ykmanalo](https://github.com/yvesmanalo)
 - [Aditya Srivastava](https://github.com/adityas-2990)
+- [Jhonacode](https://github.com/JhonaCodes)
 - [Emmanuel Ideho] (https://github.com/EmmanuelIdeho) (https://www.linkedin.com/in/emmanuel-ideho-522a42185/)
 - [Gaurav] changing the contributors.md will directly accept the PR
 - Vaibhav Uttam this is embarassing
