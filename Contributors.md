@@ -187,6 +187,7 @@ yumi-kim-0827
 - Riaz (https://github.com/riiazz)
 - Camilo Arango
 - Bardia Boghrati
+- Raleesa Perera
 - Ayman Abdalla
 - Larry Jones
 - [Elton Salanic] (https://github.com/eltonSalanic)
