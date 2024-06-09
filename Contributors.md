@@ -527,6 +527,7 @@ v0idborne
 - [Alaz Dogu](https://github.com/akbyk) peace out 
 - [4UGU5T](https://github.com/4UGU5T1001):Nice to meet ya'll
 - Eggie
+- Dodd
 - [Nika Azarashvili](https://github.com/KRhapsody)
 - Rohit Bajaj - Its a new world!
 - [Tanmay Anand] Helloooooo
