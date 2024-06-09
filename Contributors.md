@@ -13,6 +13,7 @@ happy# Contributors
 - [Viral Jain](https://github.com/viraljain7)
 - [Alex King](https://github.com/ak2466) 🕳️
 - [Olivia Vester] (https://github.com/oliveoil222)
+- [Aditi Prabakaran](https://github.com/Aditi2k5)
 - [Oscar Agurto] (https://github.com/ImMalwaree)
 - [Dallon Jarman](https://github.com/dallonjarman)
 - [Dhel Malith](https://github.com/thomasobote211)
