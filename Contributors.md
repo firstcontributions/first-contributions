@@ -4836,7 +4836,7 @@ mohit
 [Ben Choo]
 - [Elias Ngafia](https://github.com/Elias-ngafia)
 - [luiz opiyo](https://github.com/Lewisphalez)
--[Ferdinand] [(https://github.com/isferdinand)]
+-[Ferdinand](https://github.com/isferdinand)
 -[hocine](https://github.com/hocineMK03)[linkedin](https://www.linkedin.com/in/mechkak-hocine-712b5b244/)
 'Rakesh_J' [https://github.com/blackjackal010]
 - [Felix Jumason](https://github.com/Blackie360)
@@ -4870,7 +4870,7 @@ murari2401
 - [Jose Ald] (https://github.com/JoseAld)
 - [Shantanu Dutta](https://github.com/nlern)
 - [Muhammad Owais Khan](https://github.com/owaiskhan820)
-- [Vinay Khanagavi][ https://github.com/Vinu-sk ] 
+- [Vinay Khanagavi]( https://github.com/Vinu-sk)
 - [Corban Pendrak](https://github.com/CorbanPendrak)
 - [judeigwe](https://github.com/judeigwe)
 - [Gamari](https://github.com/gamari)
@@ -5007,14 +5007,14 @@ guanj65
 - [Tatev Srapivonyan](https://github.com/tatevsrapivonyan)
 - [Prabesh Shrestha](https://github.com/prabesh09)
 - [nii](https://github.com/nii-git)
-- [Papfinn] (https://github.com/papfinn)
-- [David Watkins] (https://dwatkins2)
+- [Papfinn](https://github.com/papfinn)
+- [David Watkins](https://dwatkins2)
 - [Adarsh Gupta](https://github.com/Adarshagupta)
 - [Calum Moir-Mattox](https://github.com/calummm)
 - [Aleesha Alston](https://github.com/Aleesha-Alston)
 - [Raghav Gupta](https://github.com/RaghavGit84)
 - [Josh Miles](https://github.com/Josh-Miles)
-- [NavinSunar] ([text](https://github.com/jafinsunar))
+- [NavinSunar](https://github.com/jafinsunar)
 - [monkey d luffy](https://github.com/missboa)
 - [Zack Waterman](https://github.com/zackwaterman)
 - [Quante31](https://github.com/Quante31)
@@ -5383,8 +5383,8 @@ Hector
 - [SudarshanJadhav](https://github.com/sjadhav07)
 - [Cheng-Yi Tang](https://github.com/chengyitang)
 - [Wairimu Maringa](https://github.com/WairimuMaringa)
-- [Humzah alkindi]((https://github.com/hamzakindi)) 
-- [Rishi Sudhakar]((https://github.com/Rishi-Sudhakar)) : Somewhere in the middle they said 😏
+- [Humzah alkindi](https://github.com/hamzakindi) 
+- [Rishi Sudhakar](https://github.com/Rishi-Sudhakar) : Somewhere in the middle they said 😏
 - [Dabi-ayu](https://github.com/Dabi-ayu) : I'm a Cameroonian
 - [SkyrimgamerDovahkiin](https://github.com/SkyrimgamerDovahkiin) : I play Skyrim!
 - [SahilRaj1](https://github.com/SahilRaj1)
