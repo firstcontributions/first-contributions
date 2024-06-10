@@ -477,6 +477,7 @@ v0idborne
 - [Niko Schlüter] (https://github.com/Nikoslr)
 - Droov was here https://github.com/yassir781
 - [Ayoub Laaoufi](https://github.com/aylaaoufi) :D I was pleased to meet you.
+- [Learnmore Mombe] (https://github.com/lenmorelms) Greetings from Zimbabwe, nice meeting ya'll.
 - [Harsh Suthar](https://github.com/10234567Z)
 - [Shili Lin](https://github.com/shililin92)
 - [Aby George](https://github.com/AbyG1)
@@ -5404,3 +5405,4 @@ Hector
  Sapphire smith from India, Kerala :) 
 - [Michael-2](https://github.com/mtcode16)
 - [Ronithere](https://github.com/Ronithere)
+
