@@ -4714,6 +4714,7 @@ LadegbayeStella)
 - [Ayush4cosmos]🙃🍎♥💙
 - [Andrew Zhang](https://github.com/zhangleivip)
 - [Aaron Smith] (https://github.com/AaronSmithITD)
+- [Vlad] (https://github.com/vladimirmak02)
 - [Robert Blanton](https://github.com/blantonrobert)
 - [Shivam Kumar] (https://github.com/shivamkr2001)
 - [Ahmed Bentabet](https://github.com/ahmedbentabet)
