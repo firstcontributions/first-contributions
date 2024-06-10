@@ -99,6 +99,7 @@ roshan ahamed iam the strong man inthe world
 - [Dago Bert]
 - [abesegR]
 - [zizom]
+- [dani3lfrenc](https://github.com/dani3lfrenc)
 - [Dennis Gustavsson](https://github.com/dennisGustavsson)
 - [Ankith Veldandi]
 - [Khursheed](https://github.com/khurshied)
