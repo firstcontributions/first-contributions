@@ -137,6 +137,7 @@ roshan ahamed iam the strong man inthe world
 - [Rohit Ambati](https://github.com/rohitambati)
 - [Franco Jalil](https://github.com/FrancoJalil)
 - [Benjamin Kaplan](https://github.com/benKapl)
+- [Sudip Shrestha](https://github.com/sudipstha08)
 - [Bunmi Oye](hhttps://github.com/cyanhead)
 - [May Thu Htet](https://github.com/may-thu-htet)
 - [Jonas Fahrney] (https://github.com/b0n3l3ss/)
