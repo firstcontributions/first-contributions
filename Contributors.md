@@ -1552,6 +1552,7 @@ guanj65
 - [Abhishek Pattanayak](https://github.com/abhishekppattanayak)
 - [Alt Zin KKM] (https://github.com/altzinkkm)
 - [Harjas Singh](https://github.com/harjasae2001)
+- [Harjinder Singh Kalra](https://github.com/harjasae2001) **Hey Mom! Look I made open source contribution**
 - [Mignot Dansa](https://github.com/mignotdansa)
 - [Corbin Griffin](https://github.com/Kaboombafoo)
 - [Hari prasad1](https://github.com/haripd)
