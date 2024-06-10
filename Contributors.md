@@ -34,6 +34,7 @@ roshan ahamed iam the strong man inthe world
 - [RIMA DJAMAA](https://github.com/rimadjamaa) **KEEP GOING 🧠**
 - [DilanEspinoza](https://github.com/DilanEspinoza) **Nothing to say**
 - [Yixuan]
+- [Muhammad Muzamal](https://github.com/MUHAMMADmuzamal)
 - [Ritesh Saini](https://github.com/ritesh1601)**Block Chain Development**
 - Siddhesh Sawant
 - Sahil Ahmad **First Contribution**
@@ -5220,6 +5221,7 @@ utthamr
 - [kinshuk-code-1729] (httsps:github.com/kinshuk-code-1729) : I was also here.... !!!!
 - [Katsu0424](https://github.com/Katsu0424/)
 - [Tom Koevoets](https://github.com/tomkoevoets)
+- [Dimitar Nikolov]
 - [Le Van Huong](https://github.com/lvhuong221)
 - [Jared Lawrence](https://github.com/jaredlawrence)
 - [Lawrence 2024]
@@ -5380,3 +5382,4 @@ Hector
 - [Dabi-ayu](https://github.com/Dabi-ayu) : I'm a Cameroonian
 - [SkyrimgamerDovahkiin](https://github.com/SkyrimgamerDovahkiin) : I play Skyrim!
 - [SahilRaj1](https://github.com/SahilRaj1)
+- [Michael](https://github.com/mtcode16)
