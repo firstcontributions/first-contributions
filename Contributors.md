@@ -449,6 +449,7 @@ v0idborne
 - [Changsup Lee] (https://github.com/Chang9601)
 - [Osama Rab3] (https://github.com/OsamaRab3) Let's connect and collaborate :)
 - [@wazirwazir] (https://github.com/wazirwazir) Let's do it!! ;)
+- [krishealty](https://github.com/krishealty) **i bet you wont find a more detailed readme file than mine.**
 - [Salaheddine Benkhanous] (https://github.com/salaheddine2011)
 - [Clinton Gilly](https://github.com/Clinton-Gilly) 
 - [quangster](https://github.com/quangster) 
