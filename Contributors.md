@@ -87,6 +87,7 @@ roshan ahamed iam the strong man inthe world
 - [Francis Moran]
 - I love kubernetes and go lang
 - Ramya
+- Ladomérszky Torda
 - [David Lauer]
 - [Saurabh singh](https://github.com/Sourabh7singh)
 - [Ammar Hassan](https://github.com/vroslmend)
