@@ -2552,6 +2552,7 @@ Romeu Leite
 -[Anjali Sachan]
 - [Elcosas](https://github.com/elcosas)
 -[HP](https://github.com/Hermeshasnowings)
+-[Adel Abdulazeem](https://github.com/adelnasr029)
 - [Hemant](https://github.com/hemant187)
 - [Pradip Borade](https://github.com/pradipborade911)
 - [Sandeep Dewangan](https://github.com/sandy15d)
