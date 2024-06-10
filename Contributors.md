@@ -18,6 +18,7 @@ roshan ahamed iam the strong man inthe world
 - [xbryan25](https://github.com/xbryan25) Hello world
 - [Med-Yassine-B](https://github.com/Med-Yassine-B)
 - dm - first timer!
+- [eastsage] (https://github.com/eastsage) **Hello Contributors!**
 - [@jgarzon97] (https://github.com/jgarzon97) **First Contribution!**
 - [@sriharsha_cr](https://twitter.com/sriharsha_cr): Hello world, it's good to start from here! 👍
 - [Rupika C](https://github.com/rupika14)
@@ -38,6 +39,7 @@ roshan ahamed iam the strong man inthe world
 - [RIMA DJAMAA](https://github.com/rimadjamaa) **KEEP GOING 🧠**
 - [DilanEspinoza](https://github.com/DilanEspinoza) **Nothing to say**
 - [Yixuan]
+- [Ritesh Saini](https://github.com/ritesh1601)**Block Chain Development**
 - Siddhesh Sawant
 - Sahil Ahmad **First Contribution**
 - [Swarnabha Halder](https://github.com/swarnabha-dev) **First Contribution 😎**
@@ -67,6 +69,9 @@ roshan ahamed iam the strong man inthe world
 - Jen-Aiken Amanbay
   [Luigi Gonnella]
   [Conan] -[Benomar Mohamed](https://github.com/Phfyx)
+  [Conan]
+- Daniel Onstwedder
+-[Benomar Mohamed](https://github.com/Phfyx)
 - [pramath subramanian]
 - [Priyanshi]
   [Bazeel Bin Waris](https://github.com/Bazeel-Waris) # Thanks for Helping Newbies 😊
@@ -525,6 +530,7 @@ roshan ahamed iam the strong man inthe world
 - [Alaz Dogu](https://github.com/akbyk) peace out
 - [4UGU5T](https://github.com/4UGU5T1001):Nice to meet ya'll
 - Eggie
+- Dodd
 - [Nika Azarashvili](https://github.com/KRhapsody)
 - Rohit Bajaj - Its a new world!
 - [Tanmay Anand] Helloooooo
@@ -2281,6 +2287,7 @@ roshan ahamed iam the strong man inthe world
 - [Suved Ganduri](https://github.com/Sooowayydh)
 - [Mariusz Sobczak](https://github.com/SmoQ)
 - [Mayank Pratap Singh](https://github.com/04-mayank)
+- [Aryan Suvarna](https://github.com/AryanSuvarna)
 - [Tunde Suleiman] (https://github.com/tsuleiman03)
 - Temmy
 - [shappp1](https://github.com/shappp1) :)
@@ -2404,6 +2411,7 @@ roshan ahamed iam the strong man inthe world
 - [Pranav Hajare](https://github.com/pranavhajare)
 - [Emmanuel](https://github.com/codesmith-emmy)
 - [luispunx](https://github.com/luispunx)
+- [maxgmr](https://github.com/maxgmr)
 - [Rose Liu](https://github.com/BlueRosy) An interesting contribution experience! Thanks. 🩷🩵
 - [Yufa Zhou](https://github.com/MasterZhou1)
 - [Modupe Marvellous](https://github.com/Marvie-03)
@@ -5095,6 +5103,7 @@ git stat
 - [Johan Sebastian Florez Ospina](https://github.com/sebasflorezo)
 - [Kennet Shin](https://github.com/WoofWoof0)
 - [Bobby M](https://github.com/bbm2910)
+- [Rafael Jose](https://github.com/nutuxedo)
 - [zunaed-farabe](https://github.com/bbm2910)
 - [Cecilia Tivir](https://github.com/ctivir)
 - [yumi-kim-0827](https://github.com/yumi-kim-0827)
@@ -5103,5 +5112,7 @@ git stat
 - [ElijahSource](https://github.com/ElijahSource)
 - [SudarshanJadhav](https://github.com/sjadhav07)
 - [Cheng-Yi Tang](https://github.com/chengyitang)
+- [Wairimu Maringa](https://github.com/WairimuMaringa)
 - [Humzah alkindi]((https://github.com/hamzakindi)) 
 - [Rishi Sudhakar]((https://github.com/Rishi-Sudhakar)) : Somewhere in the middle they said 😏
+- [Dabi-ayu](https://github.com/Dabi-ayu) : I'm a Cameroonian
