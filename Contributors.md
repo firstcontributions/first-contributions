@@ -151,6 +151,7 @@ roshan ahamed iam the strong man inthe world
 - [Andrés De La Torre](https://github.com/AndresDeLaTorreVilla)
 - [krishna babu] (https://github.com/Krish-2505)
 - [Angelique Copere](https://github.com/Tonyac-create)
+- [Ajay Biswas](https://github.com/BlueSquare4)**Hello Guys, am a Backend developer, Happy learning🚀✨**
 - [Dileepkumar Sasanapuri](https://github.com/dileepkumarsasanapuri)**first contribution**
 - [Tony James](https://github.com/ItsmeToney)
 - [gagan-bhullar](https://github.com/gagan-bhullar-tech)
