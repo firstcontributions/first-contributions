@@ -26,6 +26,8 @@ roshan ahamed iam the strong man inthe world
 - [Arad Soutehkeshan](https://github.com/Gonzaleski)
 - [@ghritak](https://github.com/ghritak) **Good to be here** 🚀🔥
 - [@jakeevans00](https://github.com/jakeevans00) 🦆🦆🦆🦆🦆🦆...🦆
+- [@jakeevans00](https://github.com/jakeevans00) 🦆🦆🦆🦆🦆🦆...🦆 
+- [Luca Caputo] (https://github.com/lucapu88) **Hello there**
 - [Ahzem](https://github.com/ahzem) **Love to OpenSource**
 - [Jae Choi] (https://github.com/JCz-Zen) **👁👄👁 👍👍**
 - [@talhakammybond] (https://github.com/talhakammybond) 0️⃣0️⃣7️⃣
@@ -39,6 +41,7 @@ roshan ahamed iam the strong man inthe world
 - [RIMA DJAMAA](https://github.com/rimadjamaa) **KEEP GOING 🧠**
 - [DilanEspinoza](https://github.com/DilanEspinoza) **Nothing to say**
 - [Yixuan]
+- [Muhammad Muzamal](https://github.com/MUHAMMADmuzamal)
 - [Ritesh Saini](https://github.com/ritesh1601)**Block Chain Development**
 - Siddhesh Sawant
 - Sahil Ahmad **First Contribution**
@@ -72,6 +75,7 @@ roshan ahamed iam the strong man inthe world
   [Conan]
 - Daniel Onstwedder
 -[Benomar Mohamed](https://github.com/Phfyx)
+- [Sreekar G](https://github.com/sreekar-G)
 - [pramath subramanian]
 - [Priyanshi]
   [Bazeel Bin Waris](https://github.com/Bazeel-Waris) # Thanks for Helping Newbies 😊
@@ -157,6 +161,7 @@ roshan ahamed iam the strong man inthe world
 - [Andrés De La Torre](https://github.com/AndresDeLaTorreVilla)
 - [krishna babu] (https://github.com/Krish-2505)
 - [Angelique Copere](https://github.com/Tonyac-create)
+- [Ajay Biswas](https://github.com/BlueSquare4)**Hello Guys, am a Backend developer, Happy learning🚀✨**
 - [Dileepkumar Sasanapuri](https://github.com/dileepkumarsasanapuri)**first contribution**
 - [Tony James](https://github.com/ItsmeToney)
 - [gagan-bhullar](https://github.com/gagan-bhullar-tech)
@@ -372,6 +377,7 @@ roshan ahamed iam the strong man inthe world
 - [Guy Pridan] (https://github.com/guypridan) :D
 - [Chi Nhan](https://github.com/hxajk) 😴 Hello
 - Photon48 ;
+- obney
 - [Akhil kabra] Lets go!!
 - The Big Giro Bear was here!
 - [Tal]
@@ -2526,6 +2532,7 @@ roshan ahamed iam the strong man inthe world
 - [Mohamed Afraar](https://github.com/Afraar99)
 - [Prathwik](https://github.com/Prathwikacharya)
 - [Omkar Kulkarni](https://github.com/omkarkulkarnii)
+- [Two Spikes](https://github.com/TwoSpikes)
 - [Faisal Aduko Wahabu](https://github.com/faisaladuko)
 - [VikramK]
   [William D. Miller Jr.](https://github.com/bijiyiqi2017)
@@ -4959,6 +4966,7 @@ roshan ahamed iam the strong man inthe world
 - [kinshuk-code-1729] (httsps:github.com/kinshuk-code-1729) : I was also here.... !!!!
 - [Katsu0424](https://github.com/Katsu0424/)
 - [Tom Koevoets](https://github.com/tomkoevoets)
+- [Dimitar Nikolov]
 - [Le Van Huong](https://github.com/lvhuong221)
 - [Jared Lawrence](https://github.com/jaredlawrence)
 - [Lawrence 2024]
@@ -5106,6 +5114,7 @@ git stat
 - [Rafael Jose](https://github.com/nutuxedo)
 - [zunaed-farabe](https://github.com/bbm2910)
 - [Cecilia Tivir](https://github.com/ctivir)
+  ["LM"](https://github.com/lm-2024)
 - [yumi-kim-0827](https://github.com/yumi-kim-0827)
 - [Rithik Roshan](https://github.com/Rithik1010)
 - [Kotni Vamsi Sai](https://github.com/thevamsithecoder)
@@ -5116,3 +5125,6 @@ git stat
 - [Humzah alkindi]((https://github.com/hamzakindi)) 
 - [Rishi Sudhakar]((https://github.com/Rishi-Sudhakar)) : Somewhere in the middle they said 😏
 - [Dabi-ayu](https://github.com/Dabi-ayu) : I'm a Cameroonian
+- [SkyrimgamerDovahkiin](https://github.com/SkyrimgamerDovahkiin) : I play Skyrim!
+- [SahilRaj1](https://github.com/SahilRaj1)
+- [Michael](https://github.com/mtcode16)
