@@ -78,6 +78,7 @@ roshan ahamed iam the strong man inthe world
 - [Priyanshi]
   [Bazeel Bin Waris](https://github.com/Bazeel-Waris) # Thanks for Helping Newbies 😊
   [Pratham Jaiswal](https://github.com/pantha
+- [sandhya kondmare](https://github.com/sandhyakp) **this is my first  open source**
 - [Christophe Adami](https://github.com/adach2)
 - [Zhanel Nzamdin] **stost**
 - [Sandeep Prajapati](https://github.com/Sandy712)
@@ -261,6 +262,7 @@ roshan ahamed iam the strong man inthe world
 - Ronak Katariya
 - haha
 - MS
+- [sandhyakp] (https://github.com/sandhyakp) **this is my first os**
 - [Willian Luigi Carneri](https://github.com/willcarneri)
 - [Chedvi Ganz](https://github.com/chedvig)
 [payobe](https://github.com/payobe)
