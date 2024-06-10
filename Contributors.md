@@ -34,6 +34,7 @@ roshan ahamed iam the strong man inthe world
 - [RIMA DJAMAA](https://github.com/rimadjamaa) **KEEP GOING 🧠**
 - [DilanEspinoza](https://github.com/DilanEspinoza) **Nothing to say**
 - [Yixuan]
+- [Muhammad Muzamal](https://github.com/MUHAMMADmuzamal)
 - [Ritesh Saini](https://github.com/ritesh1601)**Block Chain Development**
 - Siddhesh Sawant
 - Sahil Ahmad **First Contribution**
