@@ -2,12 +2,12 @@
 - [Shobhit Aggarwal](https://github.com/Shobhit0109)
 - [Vikranth Udandarao](https://github.com/Vikranth3140) Let's connect and collaborate :)
 - [Akash Jain] (https://github.com/aka8code) Here I am.
-- [Learnmore Mombe] (https://github.com/lenmorelms) Greetings from Zimbabwe, nice meeting you :)
 - [Pratik Gurjar] (https://github.com/pratikgurjar)
 - [Saquib Ansari](https://github.com/md-saquib)
 - [Yogesh Rathod](https://github.com/Yogesh9000)
 - Tanishq was here.
 - [Ayoub Laaoufi](https://github.com/aylaaoufi) :D I was pleased to meet you.
+- [Learnmore Mombe] (https://github.com/lenmorelms) Greetings from Zimbabwe, nice meeting ya'll.
 - [Harsh Suthar](https://github.com/10234567Z)
 - [Aby George](https://github.com/AbyG1)
 - Luferox paso por aqui
