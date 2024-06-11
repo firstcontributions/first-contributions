@@ -1,4 +1,5 @@
 # Contributors
+- Harsha (https://github.com/thedevopsknight) First contribution, definitely not the last 🔥❤️
 - Chralsh (https://github.com/Chralsh) First contribution on a open-source 🤯
 - [krishealty](https://github.com/krishealty) **i bet you wont find a more detailed readme file than mine.**
 - [Na-Tag](https://github.com/Na-Tag) **hi, cotributors!**
