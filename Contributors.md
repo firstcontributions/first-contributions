@@ -23,6 +23,8 @@ my name here
 - dm - first timer!
 - [eastsage] (https://github.com/eastsage) **Hello Contributors!**
 - [@jgarzon97] (https://github.com/jgarzon97) **First Contribution!**
+- @cptkaveman **First Contribution**
+- Yucheng **First Contribution**
 - [@sriharsha_cr](https://twitter.com/sriharsha_cr): Hello world, it's good to start from here! 👍
 - [Rupika C](https://github.com/rupika14)
 - [@LucaOtto] (https://github.com/lucaotto)
