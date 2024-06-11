@@ -1023,6 +1023,7 @@ Kayla Barton
 - [Stephane Mora](https://github.com/stephanemora)
 - [Aakarshit Srivastava](https://github.com/ArkS0001)
 - [Chris Asbury](https://github.com/CGA15)
+- [Fang Huang](https://github.com/huangfang100)
 - [Boujendar Abderrahmane](https://github.com/Boujendar-Abderrahmane) -> My first contribution 
 - [Khushi Rathore](https://github.com/khushistar)
 - [Kenneth Quibel](https://github.com/Exzort567)
