@@ -2024,6 +2024,7 @@ Jasmine
 - [Ashley Hendrata](https://github.com/ashhendrata)
 - Ashley Marchant
 - [Abraham Jacob] (https://github.com/Aby-1998)
+- [Krrish Mahar] (https://github.com/krrishmahar)
 - [David S](https://github.com/ds526) 
 - [Mohit Choure] (https://github.com/choure)
 - [Joshua I Michael] (https://github.com/ikjosh)
