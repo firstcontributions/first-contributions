@@ -116,6 +116,7 @@ my name here
 - [Blue Mutheu](https://github.com/bluemutheu/)
 - [Charles Nilsson](https://github.com/charlesnilsson)
 - [Bhavishya Pancholi](https://github.com/Royalcaptain-v2)
+- [Dhushyanth Manjunath](https://github.com/dhushyanth-h-m)
 - [Parth dey](https://github.com/parthdey)
 [Pranav Dua](https://github.com/pranavdua02)
 - [Works Better](https://github.com/WorksBetter)
