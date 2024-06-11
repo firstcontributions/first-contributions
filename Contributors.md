@@ -47,7 +47,7 @@ my name here
 - [DilanEspinoza](https://github.com/DilanEspinoza) **Nothing to say**
 - [Yixuan]
 - [Muhammad Muzamal](https://github.com/MUHAMMADmuzamal)
-- [Matichelo](https://github.com/MichaellIbarra)
+- [Matichelo Studio](https://github.com/MichaellIbarra)
 - [Ritesh Saini](https://github.com/ritesh1601)**Block Chain Development**
 - Siddhesh Sawant
 - Nivesh kumar(https://github.com/Nivesh12345)
