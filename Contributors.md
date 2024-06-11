@@ -124,6 +124,7 @@ my name here
 - [Dago Bert]
 - [abesegR]
 - [zizom]
+- Tryin to make a change :-/
 - [dani3lfrenc](https://github.com/dani3lfrenc)
 - [Dennis Gustavsson](https://github.com/dennisGustavsson)
 - [Ankith Veldandi]
