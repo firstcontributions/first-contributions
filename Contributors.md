@@ -583,6 +583,7 @@ v0idborne
 - Rohit Bajaj - Its a new world!
 - [Tanmay Anand] Helloooooo
 - [ku1d33p](https://github.com/ku1d33p)
+- [codeeter](https://github.com/codeeter)
 - [UrielReyes](https://github.com/UriReyes)
 - [Aishwarya Verma](https://github.com/Aishwarya-Verma)
 - [Krish Dave](https://github.com/KrishDave1)
