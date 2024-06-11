@@ -379,6 +379,7 @@ chiu
 - [Ruhi-Khan] (https://github.com/Ruhi-Khan)
  -[Mohamed Sharif] (https://github.com/mSharifHub)
 - [Akanksha12-i] (https://github.com/Akanksha12-i)
+- [Peter Viegas](https://github.com/peterviegas)
 - [Arjun-us] (https://github.com/Arjunumesh11)
 - [Dellenoam](https://github.com/Dellenoam)
 - [Ben](https://github.com/benab04)
