@@ -47,7 +47,7 @@ my name here
 - [DilanEspinoza](https://github.com/DilanEspinoza) **Nothing to say**
 - [Yixuan]
 - [Muhammad Muzamal](https://github.com/MUHAMMADmuzamal)
-- [Matichelo Studio](https://github.com/MichaellIbarra)
+- [Matichelo](https://github.com/MichaellIbarra)
 - [Ritesh Saini](https://github.com/ritesh1601)**Block Chain Development**
 - Siddhesh Sawant
 - Nivesh kumar(https://github.com/Nivesh12345)
@@ -58,6 +58,7 @@ my name here
 - [Shivaraj-Kolekar] (https://github.com/Shivaraj-Kolekar) **Hello !, this is my first contribution**
 - [Piyansh Jain](https://github.com/pri7ansh)
 - [Rachael Odetayo](https://github.com/Rakielle)
+- [Anz Jo Xavier](https://github.com/anzjoxavier) **Open to Jobs**
 - [Deep Sresthi](https://github.com/Deepsresthi)
 - Phoebe Muthoni
 - [Omkareshwar Nath Dwivedy](https://github.com/Dwivedy2)
@@ -595,6 +596,7 @@ v0idborne
 - [SinghAstra](https://github.com/SinghAstra).
 - [acageduser](https://github.com/acageduser).
 - [Ildar Shagidullin](https://github.com/meth0dMain).
+- [kerokerotur](https://github.com/kerokerotur).
 - [Adeboye Famurewa](https://github.com/fadarboye) 😀 I was here.
 - [Abhishek Mishra](https://github.com/Abhicodes55)😀 I was here.
 - [Juan Carlos Mondalgo Tapia](https://github.com/Jmond544) ✨ I was here too.
