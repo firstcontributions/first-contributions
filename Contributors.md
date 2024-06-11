@@ -281,8 +281,8 @@ my name here
 - haha
 - MS
 - [Willian Luigi Carneri](https://github.com/willcarneri)
-- [Daniel Chun](https://github.com/DNML31) 
 - [Chedvi Ganz](https://github.com/chedvig)
+- [Daniel Chun](https://github.com/DNML31)
 [payobe](https://github.com/payobe)
 - [Lars Otte](https://github.com/Sarsharses)**BorK!**
 - [Mustafa-A-Khan](https://github.com/MUSTAFA-A-KHAN)
