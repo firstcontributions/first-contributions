@@ -1,6 +1,7 @@
 # Contributors
 - Harsha (https://github.com/thedevopsknight) First contribution, definitely not the last 🔥❤️
 - Chralsh (https://github.com/Chralsh) First contribution on a open-source 🤯
+- [PalashSharma20](https://github.com/PalashSharma20) Hello!
 - [krishealty](https://github.com/krishealty) **i bet you wont find a more detailed readme file than mine.**
 - [Na-Tag](https://github.com/Na-Tag) **hi, cotributors!**
 - [Mohan vamsi B](https://github.com/mohanvamsi04) **Hello First Time Contributors!**
@@ -67,6 +68,7 @@ my name here
 - [Omkareshwar Nath Dwivedy](https://github.com/Dwivedy2)
 - [Rajath Hongal](https://github.com/rajathongal)
 - [Avantikka](https://github.com/avanti146)
+- [aayushgupta1](https://github.com/aayushgupta1) **Hello World! My first contribution :)**
 - [Chang Won Choi](https://github.com/chang-won-choi)
 - [Jyotsna](https://github.com/Akki-58) **Contributing**
 - [Wisdom Ofogba](https://github.com/WisdomOfogba)
@@ -5420,6 +5422,7 @@ Hector
 - [Bobby M](https://github.com/bbm2910)
 - [Rafael Jose](https://github.com/nutuxedo)
 - [zunaed-farabe](https://github.com/bbm2910)
+- [Akash Gupta](https://github.com/SKY24)
 - [Cecilia Tivir](https://github.com/ctivir)
   ["LM"](https://github.com/lm-2024)
 - [yumi-kim-0827](https://github.com/yumi-kim-0827)
