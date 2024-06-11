@@ -2728,6 +2728,7 @@ Dante Sanchez
 - [Palash Chitnavis](https://github.com/PalashChitnavis)
 - [abedalavi](https://github.com/abedalavi)
 - [StablePeru] (https://github.com/StablePeru)
+- [Santos Arellano](https://github.com/Santos-Arellano)
 - [Zack F]
 - [Julian]
 - [Benjamin B]
