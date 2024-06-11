@@ -1243,6 +1243,7 @@ Pereira
 - Jody Hunter
 - Pete Zeroyxz
 - Udana95
+- [Khushi](https://github.com/Khushi-Mahato)
 - [Amy Mummert](https://github.com/ARMummert)
 - [D2-G2] (https://github.com/D2-G2)
 - [Doug W](https://github.com/NoDouggity)
