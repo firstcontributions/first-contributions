@@ -5429,4 +5429,5 @@ Hector
 - [Michael-2](https://github.com/mtcode16)
 - [Ronithere](https://github.com/Ronithere)
 - [Bala](https://github.com/BalaGunaseelan) : Hi There
+- [Krish Koria](https://github.com/sojgja) **First Contribution**
 
