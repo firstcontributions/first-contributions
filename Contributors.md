@@ -5418,6 +5418,7 @@ Hector
 - [Bobby M](https://github.com/bbm2910)
 - [Rafael Jose](https://github.com/nutuxedo)
 - [zunaed-farabe](https://github.com/bbm2910)
+- [Akash Gupta](https://github.com/SKY24)
 - [Cecilia Tivir](https://github.com/ctivir)
   ["LM"](https://github.com/lm-2024)
 - [yumi-kim-0827](https://github.com/yumi-kim-0827)
