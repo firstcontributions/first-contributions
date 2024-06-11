@@ -7,6 +7,7 @@ yumi-kim-0827
 [Sreeraj N R] https://github.com/astralsmith  -  I started from here! 😊
 - [HongweiRuan] (https://github.com/HongweiRuan) Nice to meet you guys✌️
 - dm - cli
+-[Vidhi Vinchhi] Super work
 - [@Lakshya-Kapoor](https://github.com/Lakshya-Kapoor) First open source contribution 🥳🥳
 - [Cjensen32](https://github.com/cojense4) First contribution lol
 - Dsparcade
