@@ -9,6 +9,7 @@ yumi-kim-0827
 - [Ivan Chekunkov](https://github.com/ivan-chekunkov)**Hi! 😃**
 [Sreeraj N R] https://github.com/astralsmith  -  I started from here! 😊
 - [HongweiRuan] (https://github.com/HongweiRuan) Nice to meet you guys✌️
+- [Maggie Rong] (https://github.com/maggier2124) First Contribution!!
 - dm - cli
 -[Vidhi Vinchhi] Super work
 - [@Lakshya-Kapoor](https://github.com/Lakshya-Kapoor) First open source contribution 🥳🥳
