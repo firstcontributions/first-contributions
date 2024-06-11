@@ -327,6 +327,7 @@ taha
 - [Ramakrushna Biswal](https://github.com/RamakrushnaBiswal)-Happy Coding!!
 - [Jordan Salamone](https://github.com/JordanSalamone)
 - [Jishnu J](https://github.com/JishnuJayaraj)
+- [Harshit Modi](https://github.com/hmodi51)
 - [Srushti Haryan](https://github.com/SrushtiHaryan)
 - [Steven Gross] (https://github.com/grossatron)
 - [Utkarsh verma](https://github.com/utkggjdu2a)
@@ -432,6 +433,7 @@ chiu
 - [Tomasz Siedlecki](https://github.com/tomekSiedlecki) Wow, first contribution
 - [Shisojuice](https://github.com/Shisojuice)
 - [Badshah Ajminabanu](https://github.com/BadshahA1)
+
 Luca B.
 - [Shobhit Aggarwal](https://github.com/Shobhit0109)
 - [EvilloneWolf](https://github.com/EvilloneWolf) 😎
