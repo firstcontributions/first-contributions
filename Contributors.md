@@ -48,6 +48,7 @@ my name here
 - [Muhammad Muzamal](https://github.com/MUHAMMADmuzamal)
 - [Ritesh Saini](https://github.com/ritesh1601)**Block Chain Development**
 - Siddhesh Sawant
+- Nivesh kumar(https://github.com/Nivesh12345)
 - Sahil Ahmad **First Contribution**
 - [Swarnabha Halder](https://github.com/swarnabha-dev) **First Contribution 😎**
 - [ARPAN SHARMA](https://github.com/adach2) **LIFE IS GOOD✌️**
