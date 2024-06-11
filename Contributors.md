@@ -66,6 +66,7 @@ my name here
 - COffee is programmers best friend
 - My first contribution
 - My second contribution
+- - [krishealty](https://github.com/krishealty) **i bet you wont find a more detailed readme file than mine.**
 - JoyBas
 - [Jonathan Batanian] (https://github.com/jOBT0)
 - Aditi (https://github.com/AditiSharma00)
@@ -165,6 +166,7 @@ my name here
 - [krishna babu] (https://github.com/Krish-2505)
 - [Angelique Copere](https://github.com/Tonyac-create)
 - [Ajay Biswas](https://github.com/BlueSquare4)**Hello Guys, am a Backend developer, Happy learning🚀✨**
+- 
 - [Dileepkumar Sasanapuri](https://github.com/dileepkumarsasanapuri)**first contribution**
 - [Tony James](https://github.com/ItsmeToney)
 - [gagan-bhullar](https://github.com/gagan-bhullar-tech)
