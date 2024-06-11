@@ -5213,6 +5213,7 @@ utthamr
 - [mesh-dell]
 - [Owan Lin]
 - [Evan Roche]
+- [Harpreet Singh](https://github.com/jackofalltradesprogrammer) 
 - [Camdyn Hamilton](https://github.com/CHamilton02)
 -[Joyel Sebastian](https://github.com/joyelsebastian)
 - [lava114514](https://github.com/lava114514)
