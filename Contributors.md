@@ -125,6 +125,7 @@ aiymzhann08
 -[Roberto-S-C](https://github.com/Roberto-S-C)
 -[V.Aishwarya]
 - [Chandrabhatta Sruti Swaroop](https://www.github.com/goatsefl) 
+-[Aditi Tapariya](https://www.github.com/adititapariya)
 - [Karl D Reta](https://github.com/karldreta) has joined the party!
 - [Spec-DY](https://github.com/Spec-DY) - hi! first merge!
 - [Jayesh](https://github.com/generator45)
