@@ -5374,6 +5374,7 @@ git stat
 - [gavyn](https://github.com/Laminir)
 - [Joseph Jung](https://github.com/zapha)
 - [Dominic Domingo] ()
+- [Eric Cameron](https://github.com/profcameron)
 - [rohith kanchukatla](https://github.com/rohithkanchukatla)
 - [kevin wong] (https://github.com/kevinw8765)
 - Venkatesh S
