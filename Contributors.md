@@ -5405,6 +5405,7 @@ git stat
 - [Adarsh-Chaturvedi] (https://github.com/extremistLab)
 - [Ihsan-Hanif] (https://github.com/Ihsanhanif)
 - [Logan Michalak](https://github.com/loganmichalak)
+- [Meghana S] (https://github.com/meghanaseshasai)
 - [jstarksss] (https://github.com/jstarksss)
 - [CPiliafas] (https://github.com/CPiliafas)
 - [Huang Chao] (https://github.com/foraurorac)
