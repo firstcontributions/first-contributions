@@ -822,6 +822,12 @@ wobuxinnihuiwuliaodeduwanwodemingzi
 - [MANAS JHA] (https://github.com/02Manas-jha)
 git add Contributors.md# Contributors
 
+Changes not staged for commit:
+(use "git add<file>..."to update what will be committed)
+(use "git checkout -- <file>..." to discard changes in word)
+Thanks
+modified: Contributers.md
+
 111111111111111111111111111111111
 - [iv660](https://github.com/iv660)
 - Kevin Liu
