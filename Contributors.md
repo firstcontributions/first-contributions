@@ -95,6 +95,7 @@ my name here
 - Jen-Aiken Amanbay
   [Luigi Gonnella]
   [Conan]
+- [Christine Brown Clayton](https://github.com/chitech)
 - Daniel Onstwedder
 - Jenil Radadiya #hoping to contribute to many projects;
 -[Benomar Mohamed](https://github.com/Phfyx)
