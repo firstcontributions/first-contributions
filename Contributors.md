@@ -101,6 +101,7 @@ my name here
   [Luigi Gonnella]
   [Conan]
 - [Christine Brown Clayton](https://github.com/chitech)
+- Gab
 - Daniel Onstwedder
 - Jenil Radadiya #hoping to contribute to many projects;
 -[Benomar Mohamed](https://github.com/Phfyx)
