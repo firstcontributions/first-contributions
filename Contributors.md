@@ -87,6 +87,7 @@ my name here
 - COffee is programmers best friend
 - My first contribution
 - My second contribution
+-Alfred Obeng-Danquah (https://github.com/Alfred-Obeng-Danquah)
 - JoyBas
 - [Jonathan Batanian] (https://github.com/jOBT0)
 - Aditi (https://github.com/AditiSharma00)
