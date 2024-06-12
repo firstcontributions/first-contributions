@@ -54,6 +54,7 @@ my name here
 - [Jyotika Kishor](https://github.com/jyotika-dev)
 - [RIMA DJAMAA](https://github.com/rimadjamaa) **KEEP GOING 🧠**
 - [DilanEspinoza](https://github.com/DilanEspinoza) **Nothing to say**
+- [PersoNameDaniel](https://github.com/PersoNameDaniel)
 - [Yixuan]
 - [Muhammad Muzamal](https://github.com/MUHAMMADmuzamal)
 - [Matichelo](https://github.com/MichaellIbarra)
