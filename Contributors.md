@@ -177,6 +177,7 @@ my name here
 - [Abubaker Alsiddiq](https://github.com/AbubakerAlsiddiq)
 - [Rohit Ambati](https://github.com/rohitambati)
 - [Franco Jalil](https://github.com/FrancoJalil)
+- **`Vlad Mosiichuk`** >> [GitHub](https://github.com/vladnomad)
 - [Benjamin Kaplan](https://github.com/benKapl)
 - [Sudip Shrestha](https://github.com/sudipstha08)
 - [Bunmi Oye](hhttps://github.com/cyanhead)
