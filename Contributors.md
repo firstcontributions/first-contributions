@@ -5481,5 +5481,6 @@ Hector
 - [Bala](https://github.com/BalaGunaseelan) : Hi There
 - [Krish Koria](https://github.com/sojgja) **First Contribution**
 - [jihodaddy](https://github.com/jihodaddy) **Good start to open source Contribution**
+- [ViniciusCubi](https://github.com/viniciuscubi) **Cooperatores Veritatis**
 - [davidsmonkeys](https://github.com/davidsmonkeys) Do we add to the top of the list?
 
