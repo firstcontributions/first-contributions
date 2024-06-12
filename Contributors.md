@@ -81,6 +81,7 @@ my name here
 - [Kaede Nakayashiki](https://github.com/naka520)
 - [Gunju Yoo](https://github.com/bakgom123)
 - [YeThihaMyoLwin](https://github.com/yethihamyolwin)
+- [nyangoto](https://github.com/nyangoto) **First OSS contribution**
 - [Yushi Cui](https://github.com/realYushi)
 - [Alphin Jain](https://github.com/jainalphin)
 - [Muhammad ALi Hassan](https://github.com/CodeBy-Ali)
