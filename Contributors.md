@@ -3125,6 +3125,7 @@ Dante Sanchez
 - [Alina Wayne](https://github.com/alina-wayne)
   Ashraful
   Namita
+- [@freez3fram3] (https://github.com/freez3fram3) **Thank you.**
 - [Soliu Adeosun](https://github.com/sawlew)
 - [Martins Olumide](https://github.com/Martins100-Tmd)
 - [Racheal Oyebamiji](https://github.com/rachealeniola)
