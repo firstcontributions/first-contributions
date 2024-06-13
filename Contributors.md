@@ -2199,6 +2199,7 @@ Jasmine
 - Colton Leighton
 - [Colton Sanchez](githttps://github.com/codeinecrazy420)
 - [Pop Sergiu-George](https://github.com/SeGePop)
+- [Daniel Venable](https://github.com/DanielVenable)
 - [Ankit Gupta](https://github.com/ankit-gupta-24)
 - [Devin Jay San Nicolas]
 - [Yao1di] 
