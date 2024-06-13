@@ -1,3 +1,4 @@
+
 # Contributors
 - Harsha (https://github.com/thedevopsknight) First contribution, definitely not the last 🔥❤️
 - [Oscar Novás](https://oscarnovas.com) My first contribution!!!!
@@ -39,6 +40,7 @@ my name here
 - [xbryan25](https://github.com/xbryan25) Hello world
 - [Med-Yassine-B](https://github.com/Med-Yassine-B)
 - dm - first timer!
+- [Dixon Araya] (https://github.com/DixonA2) **I just want to say thanks you 👾**
 - [eastsage] (https://github.com/eastsage) **Hello Contributors!**
 - [sachinm121](https://github.com/sachinm121) **My first contribution 😊**
 - [@jgarzon97] (https://github.com/jgarzon97) **First Contribution!**
