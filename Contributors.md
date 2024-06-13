@@ -16,6 +16,7 @@ yumi-kim-0827
 - [HongweiRuan] (https://github.com/HongweiRuan) Nice to meet you guys✌️
 - [Maggie Rong] (https://github.com/maggier2124) First Contribution!!
 - dm - cli
+- Erich El developer del Peru
 -[Vidhi Vinchhi] Super work
 - [@Lakshya-Kapoor](https://github.com/Lakshya-Kapoor) First open source contribution 🥳🥳
 - [Cjensen32](https://github.com/cojense4) First contribution lol
