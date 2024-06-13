@@ -51,6 +51,7 @@ my name here
 - [KrishnaChoudhary](https://github.com/Krishnachoudhary619) **Flutter Developer heree, happy learning..**
 - [Kartik Singhal](https://github.com/KTKChAoS) **Wonder where I'll be this time next year ☺**
 - [TamalChakraborty](https://github.com/Tamalckb531/) **Hey There! My first contribution. Miles to go before we sleep**
+- [Igor Mitrovic](https://github.com/igor-mitrovic) **My first open source contribution!**
 - [SwelMyel](https://github.com/LazyBoiSM)
 - [Daisy Arusey](https://github.com/AruseyDaisy/)**Nice to meet you all!**
 - [Hamidat Bello](https://github.com/hamidatb)**Hi hi! 😃**
