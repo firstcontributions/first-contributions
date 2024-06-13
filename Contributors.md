@@ -55,6 +55,7 @@ my name here
 - [Kartik Singhal](https://github.com/KTKChAoS) **Wonder where I'll be this time next year ☺**
 - [TamalChakraborty](https://github.com/Tamalckb531/) **Hey There! My first contribution. Miles to go before we sleep**
 - [SwelMyel](https://github.com/LazyBoiSM)
+- [Shreyanshu Sharma]**Cheers to a new beginning
 - [Daisy Arusey](https://github.com/AruseyDaisy/)**Nice to meet you all!**
 - [Hamidat Bello](https://github.com/hamidatb)**Hi hi! 😃**
 - [Sushant Pathak](https://github.com/sushant006)**keep learning 👨‍💻**
