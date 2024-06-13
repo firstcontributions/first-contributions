@@ -48,16 +48,16 @@ Prebacite se u radni direktorijum na vašoj mašini:
 ```
 cd first-contributions
 ```
-Pa zatim napravite novo grananje *branch* koristeći `git checkout` comandu:
+Pa zatim napravite novo grananje *branch* koristeći `git switch` comandu:
 ```
-git checkout -b <add-your-new-branch-name>
+git switch -c <add-your-new-branch-name>
 ```
 
 Na primer:
 ```
-git checkout -b add-alonzo-church
+git switch -c add-alonzo-church
 ```
-(Naziv grane ne mora da sadrži *add* na početku, ali je zgodno uključiti ga jer je svrha ove grane da doda vaše ime na listu.
+Naziv grane ne mora da sadrži *add* na početku, ali je zgodno uključiti ga jer je svrha ove grane da doda vaše ime na listu.
 
 ## Napravite potrebne izmene i potvrdite promene
 
