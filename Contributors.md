@@ -204,6 +204,7 @@ my name here
 - [Kelvin Arias] (https://github.com/KelFrontEndDev) ** Happy Coding! **
 - [Yash Agarwal](https://github.com/Yash05080)**have a great open source journey to everyone 🤙**
 - Trishala Ghetiya
+- [Jash Shah](https://github.com/jash0803)**This is my first contibution! Onto many more.**
 - [Dhruv Chauhan](https://github.com/Dhruv-proto)**Hola Amigos**
 - [Jameson Baker] (https://github.com/Jami-tsm)
 - [Andrés De La Torre](https://github.com/AndresDeLaTorreVilla)
