@@ -4578,6 +4578,7 @@ LadegbayeStella)
 - [Yacine Mahdi](https://github.com/Yacine-Mahdi)
 - [adityaxx21]: (https://github.com/adityaxx21)
 - [Kshitij Dhande] (https://github.com/kshitijd-2004/)
+- [Adrien Chopard]
 - [David Christian](https://github.com/ChrisChloe)
 - [POQUELANDON](https://github.com/POQUELANDON)
 - [Dawid Żeleźniak](https://github.com/DawidZelezniak420)
