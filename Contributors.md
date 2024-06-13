@@ -83,6 +83,7 @@ my name here
 - [Avantikka](https://github.com/avanti146)
 - [Roopesh](https://github.com/Roopasdev)
 - Kazu Sakamoto
+- Aditya Lohar (https://github.com/AdityaLohar)
 - [aayushgupta1](https://github.com/aayushgupta1) **Hello World! My first contribution :)**
 - [Chang Won Choi](https://github.com/chang-won-choi)
 - [Jyotsna](https://github.com/Akki-58) **Contributing**
