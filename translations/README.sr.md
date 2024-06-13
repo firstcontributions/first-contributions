@@ -32,15 +32,16 @@ Otvorite terminal i upišite sledeće git komande:
 ```
 git clone "url you just copied"
 ```
-Umesto "url you just copied" (bez navodnika i razmaka) upišite url repozitorijuma koji ste kopirali u prethodnom koraku.
-
+<span style="color:#3EA055"> Gde umesto `"url you just copied"` (bez navodnika i razmaka) upišite url repozitorijuma koji ste kopirali u prethodnom koraku.
+</span>
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Na primer:
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
-Gde je umesto `this-is-you` upisano vaše korisničko ime. Ovim kopirate sadržaj repozitorijuma *first-contributions* na vašu mašinu.
+<span style="color:#3EA055"> Gde je umesto `this-is-you` upisano vaše korisničko ime. Ovim kopirate sadržaj repozitorijuma *first-contributions* na vašu mašinu.</span>
+
 
 ## Pravljenje grane *branch*
 
@@ -57,7 +58,7 @@ Na primer:
 ```
 git switch -c add-alonzo-church
 ```
-Naziv grane ne mora da sadrži *add* na početku, ali je zgodno uključiti ga jer je svrha ove grane da doda vaše ime na listu.
+<span style="color:red"> Naziv grane ne mora da sadrži `add` na početku, ali ga je zgodno uključiti, jer je svrha ove grane da doda vaše ime na listu. </span>
 
 ## Napravite potrebne izmene i potvrdite promene
 
@@ -77,15 +78,17 @@ Sada potvrdite ove promene koristeći `git commit` komandu:
 ```
 git commit -m "Add <your-name> to Contributors list"
 ```
-Gde umesto `<your-name>` upisujete svoje ime.
+<span style="color:#3EA055"> Gde umesto `<your-name>` upisujete svoje ime.
+</span>
 
 ## Push changes to GitHub
 
 Pošaljite izmene u repozitorijum na GitHub nalogu `git push`:
 ```
-git push origin <add-your-branch-name>
+git push -u origin <add-your-branch-name>
 ```
-gde umesto `<add-your-branch-name>` stavljate ime vašeg grananja.
+<span style="color:#3EA055"> Gde umesto `<add-your-branch-name>` stavljate ime vašeg grananja.
+</span>
 
 ## Pošaljite izmene na reviziju
 
