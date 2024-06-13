@@ -417,6 +417,7 @@ chiu
 - [Michal]
 - [SeahM]
 - [Lama1kid]
+- [Jhutchinson98](https://github.com/Jhutchinson98)
 - oberheitzer
 - [Genie](https://github.com/genie-ru)
 - [DanielTYH]
