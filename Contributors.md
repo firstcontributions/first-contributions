@@ -6,9 +6,7 @@
 - [PalashSharma20](https://github.com/PalashSharma20) Hello!
 - [Abigail sylvie](https://github.com/abigailsylvie) this is were i began my journey!
 - Devjit [devjit-sarkar](https://github.com/devjit-sarkar) My first contribution to an open-source repo! Thanks!
-
 - [Enrico Piffer](https://github.com/enrypiff) - Check out my contributions!
-
 - [krishealty](https://github.com/krishealty) **i bet you wont find a more detailed readme file than mine.**
 - [Na-Tag](https://github.com/Na-Tag) **hi, cotributors!**
 - [Mohan vamsi B](https://github.com/mohanvamsi04) **Hello First Time Contributors!**
