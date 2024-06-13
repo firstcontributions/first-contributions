@@ -956,6 +956,7 @@ Sam Barns
 - [Alexander Maina](https://github.com/Alekiie)
   [Ein Cagle] (https://github.com/eincagle)
 - [Aniket Kanere](https://github.com/anikxt)
+- [Jamie](https://github.com/jb791)
 - [JubaDev](https://github.com/JubaDeveloper)
 - [akhil chiluveru](https://github.com/akhil0203)
 - [lytt925](https://github.com/lytt925)
