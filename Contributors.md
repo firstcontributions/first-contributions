@@ -5500,4 +5500,4 @@ Hector
 - [ViniciusCubi](https://github.com/viniciuscubi) **Cooperatores Veritatis**
 - [davidsmonkeys](https://github.com/davidsmonkeys) Do we add to the top of the list?
 - [Sliver](https://github.com/PwwwLe)
-
+- [Quevedo](https://github.com/dione-quevedo-avanade) **New Cooperator**
