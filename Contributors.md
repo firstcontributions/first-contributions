@@ -5462,12 +5462,6 @@ Hector
 - [Cecilia Tivir](https://github.com/ctivir)
   ["LM"](https://github.com/lm-2024)
 - [yumi-kim-0827](https://github.com/yumi-kim-0827)
-- [Rithik Roshan](https://github.com/Rithik1010)
-- [Kotni Vamsi Sai](https://github.com/thevamsithecoder)
-- [ElijahSource](https://github.com/ElijahSource)
-- [SudarshanJadhav](https://github.com/sjadhav07)
-- [Andres Quiroga] (https://github.com/AndresQ-Dev)
-- [Cheng-Yi Tang](https://github.com/chengyitang)
 - [Wairimu Maringa](https://github.com/WairimuMaringa)
 - [Humzah alkindi]((https://github.com/hamzakindi)) 
 - [Rishi Sudhakar]((https://github.com/Rishi-Sudhakar)) : Somewhere in the middle they said 😏
