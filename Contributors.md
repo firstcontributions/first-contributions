@@ -3330,6 +3330,7 @@ Dante Sanchez
 - [Emmett Fitzharris](https://github.com/emmettirl)
 - [Zachary D Liu](https://github.com/ZacharyDLiu)
 - [Calen Shirfield](https://github.com/CalenShirfield)
+- [nikolacox](https://github.com/nikolacox)
 - [Aditya Patel](https://github.com/thepateladitya)
 - [Ling Xiao](https://github.com/lingxiao14122)
 - [Azkaar Rauf Khatib](https://github.com/AzkaarRauf) First of many contributions 🤩 
