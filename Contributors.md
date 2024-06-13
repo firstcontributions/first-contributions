@@ -5435,6 +5435,7 @@ git stat
 - [Meghana S] (https://github.com/meghanaseshasai)
 - [jstarksss] (https://github.com/jstarksss)
 - [CPiliafas] (https://github.com/CPiliafas)
+- [Miguel Angel Ramirez](https://github.com/miguelangelxramirez)
 - [Huang Chao] (https://github.com/foraurorac)
 - [Rick Ning] (https://github.com/rick666666)
 - [Donggyu] (https://github.com/ehdrb92)
