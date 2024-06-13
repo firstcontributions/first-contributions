@@ -7,6 +7,7 @@
 - [Young Eun Choi](https://github.com/youngeunChoi) **Hello Everyone!**
 - [PalashSharma20](https://github.com/PalashSharma20) Hello!
 - [Abigail sylvie](https://github.com/abigailsylvie) this is were i began my journey!
+- [Shashank](https://github.com/U-Shashank)
 - [Louis Simpson] (https://github.com/Louis-Simpson) Hello all!  
 - Devjit [devjit-sarkar](https://github.com/devjit-sarkar) My first contribution to an open-source repo! Thanks!
 - [krishealty](https://github.com/krishealty) **i bet you wont find a more detailed readme file than mine.**
