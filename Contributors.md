@@ -82,6 +82,7 @@ my name here
 - [Sushant Pathak](https://github.com/sushant006)**keep learning 👨‍💻**
 - [Jyotika Kishor](https://github.com/jyotika-dev)
 - [RIMA DJAMAA](https://github.com/rimadjamaa) **KEEP GOING 🧠**
+- [lexolotl14]
 - [DilanEspinoza](https://github.com/DilanEspinoza) **Nothing to say**
 - [PersoNameDaniel](https://github.com/PersoNameDaniel)
 - [Yixuan]
