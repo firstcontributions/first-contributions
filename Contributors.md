@@ -46,6 +46,7 @@ my name here
 - [Oliver De Leon](https://github.com/Oliverdeleonxd) **Hello world xdddd**, my first contribution lol :o, **Keep learning 👻🐱‍👤**
 -[shubham senger] (https://github.com/Shubham-senger) "MY FIRST CONTRIBUTION IN OPEN SOURCE"  
 - [Hariz] (https://github.com/CharKwehTiawKerang) **The Hunter >:(**
+- [AnaIxch]
 - [xbryan25](https://github.com/xbryan25) Hello world
 - [Med-Yassine-B](https://github.com/Med-Yassine-B)
 - dm - first timer!
@@ -774,6 +775,7 @@ Abhinav Jain
 - Yi Wu
 - ceshi
 - dianzu-intellij
+- [PedroJOHE](https://github.com/PedroJOHE)
 [Aryan Yadav](https://github.com/aryanyaclav)
 - [Abhinav](https://github.com/Abhinav1326)
 - [Jordan K](https://marinersjk00)
@@ -2597,6 +2599,7 @@ Gyanendra Thakur
 - [Ala Gowtham Siva Kumar](https://github.com/gowtham-2oo5) 
 - [Swapnilkumar Dwivedi](https://github.com/swappy-2003)
 - [Gergely Kántor](https://github.com/kantorge)
+- [Antonimo](https://github.com/EAntonioFH)
 - Arjun
 - [Ahmed Abdelmageed](https://github.com/Ahmad-Abdalmageed)
 - [Annuar](https://github.com/ramo-dev)
@@ -3279,6 +3282,7 @@ Dante Sanchez
 - [Nikalas Armstrong] (https://github.com/hangonasecond)
 - [Duc Dong](https://github.com/ducdongmg)
 - [Abstract Hunter](https://github.com/abstractHunter) [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/yao-daniel-attitsogbe/)
+- [Jessenavas](https://github.com/Jessenavas)
 - [Charley Yoshi](https://github.com/charleyoshi)
 - [Sai Preetham Reddy](https://github.com/SaiPreethamReddyy)
 - [Paul Lee](https://github.com/plee30)
@@ -4792,6 +4796,7 @@ LadegbayeStella)
 - [M Akiyama](https://github.com/MAKIYAMA-ma)
 - [Trippin Sage] (https://github.com/trippinsage)
 - [Jonathan Armentor](https://github.com/jarmentor)
+- [Escuela Nacional Preparatoria Antonio Caso](https://github.com/ENP-6)
 - [Abulfasl Ahmadi](https://github.com/AbulfaslAhmadi)
 - [Falilou Khouma](https://github.com/227Faddi)
 - [Ahmad Maartmesrini](https://github.com/Ahmad-Maartmesrini)
@@ -5485,6 +5490,7 @@ git stat
 - [Arunachaleswaran] (https://github.com/arunachaleswaranms)
 - [Sandman](https://github.com/sandeepsalwan1)
 - [alan](https://github.com/redwing710886)
+- [KevinAlanTC] (https://github.com/KevinAlanTC)
 - [lowzx](https://github.com/lowzx)
 - [CuriousGu](https://github.com/CuriousGu)
 Hector
