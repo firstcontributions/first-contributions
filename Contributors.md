@@ -1,13 +1,19 @@
 # Contributors
+- [Luifer](https://github.com/luifer991) **First contribution, awesome**
 - Harsha (https://github.com/thedevopsknight) First contribution, definitely not the last 🔥❤️
+- [Oscar Novás](https://oscarnovas.com) My first contribution!!!!
 - Ivan (https://github.com/pelican103) First contribution on an open-source !! 
 - Chralsh (https://github.com/Chralsh) First contribution on a open-source 🤯
 - [HemalTharakaeEranga](https://github.com/HemalTharakaeEranga) **Ayubowan...! I'm Hemal, Do you know about my strengths, if you don't know please still be with me. Change the World.🦁😍😇**
+- [Young Eun Choi](https://github.com/youngeunChoi) **Hello Everyone!**
 - [PalashSharma20](https://github.com/PalashSharma20) Hello!
 - [Abigail sylvie](https://github.com/abigailsylvie) this is were i began my journey!
+- [Shashank](https://github.com/U-Shashank)
 - [Louis Simpson] (https://github.com/Louis-Simpson) Hello all!  
 - Devjit [devjit-sarkar](https://github.com/devjit-sarkar) My first contribution to an open-source repo! Thanks!
+- [Enrico Piffer](https://github.com/enrypiff) - Check out my contributions!
 - [krishealty](https://github.com/krishealty) **i bet you wont find a more detailed readme file than mine.**
+- [Reyas-addy](https://github.com/rewyekha) **Nothing to Anything🫵🏼**
 - [Na-Tag](https://github.com/Na-Tag) **hi, cotributors!**
 -irvincardoza
 - [Mohan vamsi B](https://github.com/mohanvamsi04) **Hello First Time Contributors!**
@@ -30,6 +36,7 @@ roshan ahamed iam the strong man inthe world
 my name here
 -[David Samuel Suarez Montoya] (Escanor) **Hello world**
 - [Oliver De Leon](https://github.com/Oliverdeleonxd) **Hello world xdddd**, my first contribution lol :o, **Keep learning 👻🐱‍👤**
+-[shubham senger] (https://github.com/Shubham-senger) "MY FIRST CONTRIBUTION IN OPEN SOURCE"  
 - [Hariz] (https://github.com/CharKwehTiawKerang) **The Hunter >:(**
 - [xbryan25](https://github.com/xbryan25) Hello world
 - [Med-Yassine-B](https://github.com/Med-Yassine-B)
@@ -79,6 +86,7 @@ my name here
 - [Piyansh Jain](https://github.com/pri7ansh)
 - [Rachael Odetayo](https://github.com/Rakielle)
 - [Anz Jo Xavier](https://github.com/anzjoxavier) **Open to Jobs**
+- [Alley Chaggar](https://github.com/AlleyCH) **HELLO EARTHLINGS!!!!!! My first contribution but not my last 👽**
 - [Deep Sresthi](https://github.com/Deepsresthi)
 - Phoebe Muthoni
 - [Omkareshwar Nath Dwivedy](https://github.com/Dwivedy2)
@@ -108,6 +116,7 @@ my name here
 - My second contribution
 -Alfred Obeng-Danquah (https://github.com/Alfred-Obeng-Danquah)
 - [ykaterina](https://github.com/ykaterina) **Hallo, first contribution here!**
+- Sublics
 - JoyBas
 - [Jonathan Batanian] (https://github.com/jOBT0)
 - Aditi (https://github.com/AditiSharma00)
@@ -180,6 +189,7 @@ my name here
 - [NAveen Mydur]
 - [GP-Development](https://github.com/GP-Development) `print("Hello, World")`
 - [Yechan Lee] (https://github.com/yechanlee04)
+- [Shaishav Shah](https://github.com/ShaishavShah) 
 - [Sarthak Shah]
 - [Geet S]
 - [Yoon Thiri Aung](https://github.com/yoon-thiri04)
@@ -417,6 +427,7 @@ chiu
 - [Michal]
 - [SeahM]
 - [Lama1kid]
+- [Jhutchinson98](https://github.com/Jhutchinson98)
 - oberheitzer
 - [Genie](https://github.com/genie-ru)
 - [DanielTYH]
@@ -947,6 +958,7 @@ Sam Barns
 - [Alexander Maina](https://github.com/Alekiie)
   [Ein Cagle] (https://github.com/eincagle)
 - [Aniket Kanere](https://github.com/anikxt)
+- [Jamie](https://github.com/jb791)
 - [JubaDev](https://github.com/JubaDeveloper)
 - [akhil chiluveru](https://github.com/akhil0203)
 - [lytt925](https://github.com/lytt925)
@@ -2190,6 +2202,7 @@ Jasmine
 - Colton Leighton
 - [Colton Sanchez](githttps://github.com/codeinecrazy420)
 - [Pop Sergiu-George](https://github.com/SeGePop)
+- [Daniel Venable](https://github.com/DanielVenable)
 - [Ankit Gupta](https://github.com/ankit-gupta-24)
 - [Devin Jay San Nicolas]
 - [Yao1di] 
@@ -5434,6 +5447,7 @@ git stat
 - [Meghana S] (https://github.com/meghanaseshasai)
 - [jstarksss] (https://github.com/jstarksss)
 - [CPiliafas] (https://github.com/CPiliafas)
+- [Miguel Angel Ramirez](https://github.com/miguelangelxramirez)
 - [Huang Chao] (https://github.com/foraurorac)
 - [Rick Ning] (https://github.com/rick666666)
 - [Donggyu] (https://github.com/ehdrb92)
