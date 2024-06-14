@@ -769,6 +769,7 @@ Abhinav Jain
 - [charmi1128](https://github.com/charmi1128)
 - [Sourav Bera](https://github.com/souravq)
 - [Juan Jose](https://github.com/JuanJoseLL)
+- [Nem Blagojevic](https://github.com/nem-bla)
   [alejandra](https://github.com/solisaleb)
 - [Richard Castellano](https://github.com/RichardCastellano)
 - [Sebastian Obando](https://github.com/sebas2002cr)
