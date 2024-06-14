@@ -866,6 +866,7 @@ wobuxinnihuiwuliaodeduwanwodemingzi
 - [TREVOR ARNOLDS](https://github.com/TREVORNDONJI)
 -[Vamshi krishna Jillela] (https://github.com/VamshiKrishna-jillela/)
 - [Andrija Mandic](https://github.com/ziftpool)
+- [Adan Zadkiel](https://github.com/adanzadk)
 - [Manthan Vyas](https://github.com/xmanthanvyas)
 - [Sabyatha Kumar](https://github.com/sathishs322)
 - [Rithvik](https://github.com/ChilivereRithvik)
