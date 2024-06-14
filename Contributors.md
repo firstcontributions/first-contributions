@@ -3,6 +3,7 @@
 - [Charles](https://github.com/charcg) 
 - [Luifer](https://github.com/luifer991) **First contribution, awesome**
 - [Om Asatu](https://github.com/omasati1709) **My first contribution**
+- [Shreyan](https://github.com/shreyannandanwar) **Contribution, It was EPIC
 - Harsha (https://github.com/thedevopsknight) First contribution, definitely not the last 🔥❤️
 - [Oscar Novás](https://oscarnovas.com) My first contribution!!!!
 - Ivan (https://github.com/pelican103) First contribution on an open-source !!
@@ -15,6 +16,7 @@
 - [Abigail sylvie](https://github.com/abigailsylvie) this is were i began my journey!
 - [Shashank](https://github.com/U-Shashank)
 - [ISRAEL](https://github.com/U-israel)
+- **Claudio Mendonça**[![GitHub](https://img.icons8.com/?size=30&id=sbhfmWq4KRr1)](https://github.com/ClaudioMendonca-Eng/) [![LinkedIn](https://img.icons8.com/?size=25&id=xuvGCOXi8Wyg)](https://www.linkedin.com/in/claudio-mendonca/)👋 **Thanks for the opportunity!** 😁
 -[Paulo](https://github.com/gomespr)
 - [Louis Simpson] (https://github.com/Louis-Simpson) Hello all!  
 - Devjit [devjit-sarkar](https://github.com/devjit-sarkar) My first contribution to an open-source repo! Thanks!
