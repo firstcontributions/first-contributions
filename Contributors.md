@@ -82,6 +82,7 @@ my name here
 - [PersoNameDaniel](https://github.com/PersoNameDaniel)
 - [Yixuan]
 - [Muhammad Muzamal](https://github.com/MUHAMMADmuzamal)
+- [Syed Hassan Ali](https://github.com/upodesta) **Thanks a lot**
 - [Matichelo](https://github.com/MichaellIbarra)
 - [Ritesh Saini](https://github.com/ritesh1601)**Block Chain Development**
 - Siddhesh Sawant
