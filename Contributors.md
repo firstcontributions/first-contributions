@@ -774,6 +774,7 @@ Abhinav Jain
 - Yi Wu
 - ceshi
 - dianzu-intellij
+- [PedroJOHE](https://github.com/PedroJOHE)
 [Aryan Yadav](https://github.com/aryanyaclav)
 - [Abhinav](https://github.com/Abhinav1326)
 - [Jordan K](https://marinersjk00)
