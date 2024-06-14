@@ -4408,6 +4408,7 @@ LadegbayeStella)
 -[NdangiKanime](https://github.com/NdangiKanime)
 -[IceHUN](https://github.com/IceHUN)
 -[Matt Zimmerman](https://github.com/MattZim2000)
+-[Ivan Sidiq](https://github.com/IvanSidiq)
 -[crisdebo0723](https://github.com/crisdebo0723)
 -[Esteban Charry](https://github.com/escharry)
 -[David Achoy](https://github.com/Davidachoy)
@@ -5516,5 +5517,4 @@ Hector
 - [davidsmonkeys](https://github.com/davidsmonkeys) Do we add to the top of the list?
 - [Sliver](https://github.com/PwwwLe)
 - [Ariful Ahsan](https://github.com/supal) 
-- [Ivan Sidiq] (https://github.com/IvanSidiq)
 
