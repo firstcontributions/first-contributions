@@ -22,6 +22,7 @@ yumi-kim-0827
 roshan ahamed iam the strong man inthe world
 -[Durgesh] (https://github.com/Durgeshityar/) OS here i come 🚶🏼‍♂️
 my name here
+  [Daniel Jimenez](https://github.com/stonedjjh)
 - [Oliver De Leon](https://github.com/Oliverdeleonxd) **Hello world xdddd**, my first contribution lol :o, **Keep learning 👻🐱‍👤**
 - [Hariz] (https://github.com/CharKwehTiawKerang) **The Hunter >:(**
 - [xbryan25](https://github.com/xbryan25) Hello world
