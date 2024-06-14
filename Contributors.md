@@ -1,4 +1,5 @@
 # Contributors
+- [Charles](https://github.com/charcg) 
 - [Luifer](https://github.com/luifer991) **First contribution, awesome**
 - Harsha (https://github.com/thedevopsknight) First contribution, definitely not the last 🔥❤️
 - [Oscar Novás](https://oscarnovas.com) My first contribution!!!!
