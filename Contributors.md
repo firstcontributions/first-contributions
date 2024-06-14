@@ -372,6 +372,7 @@ rashee
 - [Pavan sai Krishnamoorthy](https://github.com/pavansai0)
 - [Taylor Phelps] (https://github.com/TaylorPhelps)
 - [Daniel Schneider](https://github.com/dschne27)
+- [Christopher Axel](https://github.com/GhostS9029)
 - [Leandro Oliveira](https://github.com/LeandroOliveiraDeQueiroz/)
 - [Aiden Ayers](https://github.com/FulgurStrike)
 - Elie Inahon
