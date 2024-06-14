@@ -14,7 +14,8 @@
 - [PalashSharma20](https://github.com/PalashSharma20) Hello!
 - [Abigail sylvie](https://github.com/abigailsylvie) this is were i began my journey!
 - [Shashank](https://github.com/U-Shashank)
-- [Paulo](https://github.com/gomespr)
+- [ISRAEL](https://github.com/U-israel)
+-[Paulo](https://github.com/gomespr)
 - [Louis Simpson] (https://github.com/Louis-Simpson) Hello all!  
 - Devjit [devjit-sarkar](https://github.com/devjit-sarkar) My first contribution to an open-source repo! Thanks!
 - [Enrico Piffer](https://github.com/enrypiff) - Check out my contributions!
