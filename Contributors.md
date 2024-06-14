@@ -1,4 +1,5 @@
 # Contributors
+- [Shreyan](https://github.com/shreyannandanwar) **Contribution, It was EPIC
 - [Charles](https://github.com/charcg) 
 - [Luifer](https://github.com/luifer991) **First contribution, awesome**
 - [Om Asatu](https://github.com/omasati1709) **My first contribution**
@@ -6,6 +7,7 @@
 - [Oscar Novás](https://oscarnovas.com) My first contribution!!!!
 - Ivan (https://github.com/pelican103) First contribution on an open-source !!
 - Chralsh (https://github.com/Chralsh) First contribution on a open-source 🤯
+- Matt Steel (https://github.com/mattsteel87) **G'day!**
 - - Sumaira(https://github.com/Sumairahafeez) **Learning New**
 - [HemalTharakaeEranga](https://github.com/HemalTharakaeEranga) **Ayubowan...! I'm Hemal, Do you know about my strengths, if you don't know please still be with me. Change the World.🦁😍😇**
 - [Young Eun Choi](https://github.com/youngeunChoi) **Hello Everyone!**
@@ -37,6 +39,7 @@ yumi-kim-0827
 roshan ahamed iam the strong man inthe world
 -[Durgesh] (https://github.com/Durgeshityar/) OS here i come 🚶🏼‍♂️
 my name here
+- [Ziphozenkosi](https://github.com/Ziphozenkosimthombe) **Hello.. My first contribution!!....**
 -[David Samuel Suarez Montoya] (Escanor) **Hello world**
 - [Oliver De Leon](https://github.com/Oliverdeleonxd) **Hello world xdddd**, my first contribution lol :o, **Keep learning 👻🐱‍👤**
 -[shubham senger] (https://github.com/Shubham-senger) "MY FIRST CONTRIBUTION IN OPEN SOURCE"  
@@ -51,6 +54,7 @@ my name here
 - [@sriharsha_cr](https://twitter.com/sriharsha_cr): Hello world, it's good to start from here! 👍
 - [Rupika C](https://github.com/rupika14)
 - [@LucaOtto] (https://github.com/lucaotto)
+- [Cil-liers] (https://github.com/Cil-liers) **_MyFirstContribution_** 
 - [Karan Khatik](https://github.com/Karankhatik) **Hello, great to start from here**🚀🔥
 - [Arad Soutehkeshan](https://github.com/Gonzaleski)
 - [@ghritak](https://github.com/ghritak) **Good to be here** 🚀🔥
@@ -199,6 +203,7 @@ my name here
 - [Yoon Thiri Aung](https://github.com/yoon-thiri04)
 - [NDC]
 - [Joel Burns]
+- [Priyal Shah]
 - [Suman Gaire] (https://github.com/sumangaire52)
 - [Bereket Sintayehu] (https://github.com/bereketsintayehu)
 - [Michael Corn](github.com/mcorn02)
@@ -884,6 +889,7 @@ git add Contributors.md# Contributors
 - Tokar :) 
 - [Kurtis] (https://github.com/kurtisjw)
 - [Kevin] (https://github.com/Walshkev)
+- [Alicia] (https://github.com/ALICIALVO)
 - [Agus] (https://github.com/agusaar)
 - [Dan Taylor](https://github.com/dantaylor28)
 -[Mariana Ramirez](https://github.com/MarianaRamirezCastro)
@@ -1774,6 +1780,7 @@ guanj65
 - [Saksham Khare] (https://github.com/tyrex1829)
 - [pushrsp] (https://github.com/pushrsp)
 - [YTM] (https://github.com/Yinthirimon02)
+- [Aashish_Singh] (https://github.com/realaashishly/)
 - Challa Nishanth Babu [Github](https://github.com/NISHANTH1221) [LinkedIn](https://www.linkedin.com/in/nishanth-babu-challa/)
 - [Jeffrey Huang] (http://github.com/abandons)
 - [Rohit Manivel] (https://github.com/rohit-iwnl)
@@ -4909,6 +4916,7 @@ LadegbayeStella)
 -[Jean Marcelo](https://github.com/JeanzitoMilgrau)
 -[Reinier Jesus](https://github.com/ReinierJesusMR)
 -[Sasmitha Kavindu](https://github.com/sasmithaK)
+- [Yashvi Sharma](https://github.com/yashvisharma1204) **Hello, Its my first contribution**
 -[Nicola Solazzo Logix](https://github.com/NikSolazLogix)
 --[Okunade Yusuf Micheal](https://github.com/achur00)
 -[aoi-stella](https://github.com/aoi-stella)
@@ -5520,4 +5528,5 @@ Hector
 - [davidsmonkeys](https://github.com/davidsmonkeys) Do we add to the top of the list?
 - [Sliver](https://github.com/PwwwLe)
 - [Ariful Ahsan](https://github.com/supal) 
+- [Joydip chakraborty](https://github.com/XyonX) **Hello ,Its My First Contribution!**
 
