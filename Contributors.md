@@ -1,7 +1,7 @@
 # Contributors
 - [Charles](https://github.com/charcg) 
 - [Luifer](https://github.com/luifer991) **First contribution, awesome**
-- [Om Asatu](https://github.com/omasati1709) **My first contribution**
+- [Om Asati](https://github.com/omasati1709) **My first contribution**
 - Harsha (https://github.com/thedevopsknight) First contribution, definitely not the last 🔥❤️
 - [Oscar Novás](https://oscarnovas.com) My first contribution!!!!
 - Ivan (https://github.com/pelican103) First contribution on an open-source !!
