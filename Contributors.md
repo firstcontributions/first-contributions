@@ -1,4 +1,5 @@
-# Contributors
+﻿# Contributors
+-drijusha
 - [Shreyan](https://github.com/shreyannandanwar) **Contribution, It was EPIC
 - [Charles](https://github.com/charcg) 
 - [Luifer](https://github.com/luifer991) **First contribution, awesome**
@@ -66,7 +67,7 @@ my name here
 - [@LucaOtto] (https://github.com/lucaotto)
 - [Cil-liers] (https://github.com/Cil-liers) **_MyFirstContribution_** 
 - [Karan Khatik](https://github.com/Karankhatik) **Hello, great to start from here**🚀🔥
-- [Arad Soutehkeshan](https://github.com/Gonzaleski)
+- [Arad Soutehkeshan](https://github.com/Gonzaleski)drijusha
 - [@ghritak](https://github.com/ghritak) **Good to be here** 🚀🔥
 - [@jakeevans00](https://github.com/jakeevans00) 🦆🦆🦆🦆🦆🦆...🦆 
 - [Erin Tiha]
