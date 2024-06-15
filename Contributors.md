@@ -10,6 +10,7 @@
 - [Zi-Onn](https://github.com/hzionn) WAHAHA
 - [Julio Hernandez](https://github.com/jchernandez88) **Go!** 🚀
 - Ivan (https://github.com/pelican103) First contribution on an open-source !!
+- [Vishal Verma (https://github.com/VishalVermaa01) **One Piece is real!!**
 - Chralsh (https://github.com/Chralsh) First contribution on a open-source 🤯
 - Matt Steel (https://github.com/mattsteel87) **G'day!**
 - - Sumaira(https://github.com/Sumairahafeez) **Learning New**
