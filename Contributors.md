@@ -7,6 +7,7 @@
 - Harsha (https://github.com/thedevopsknight) First contribution, definitely not the last 🔥❤️
 - [Sumit Chougale](https://github.com/SumitChougale09)🥵
 - [Oscar Novás](https://oscarnovas.com) My first contribution!!!!
+- [Zi-Onn](https://github.com/hzionn) WAHAHA
 - [Julio Hernandez](https://github.com/jchernandez88) **Go!** 🚀
 - Ivan (https://github.com/pelican103) First contribution on an open-source !!
 - Chralsh (https://github.com/Chralsh) First contribution on a open-source 🤯
