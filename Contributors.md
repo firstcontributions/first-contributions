@@ -2323,6 +2323,7 @@ Jasmine
 - [s2c97](https://github.com/s2c97)
 - [Shaowy05]
 - Andy O
+- [Dawei Lin](https://github.com/dawwwei)
 - [samandar02]
 - [ashmita](https://github.com/Ashmita001)
 - [nade-em]
