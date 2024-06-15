@@ -5570,5 +5570,5 @@ Hector
 - [Adarsh Maharjan](https://github.com/adarshmaharjan) **Hello, Glad It's My First Contribution To Opensource, Glad To be Part Of It** 
 - [Andrew Johnson](https://github.com/Koi-IT) **Happy to be here. This is my first contribution!**
 - [yas ranjeet](https://github.com/yasranjeet) **started**
-
+- [Mira Violet](https://github.com/major-mira666) **Learning the ropes of open-source development!**
 - [Sai Bhargav](https://github.com/SaiBhargav11) 
