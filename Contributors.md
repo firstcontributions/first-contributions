@@ -100,6 +100,7 @@ my name here
 - Nivesh kumar(https://github.com/Nivesh12345)
 - Sahil Ahmad **First Contribution**
 - [Swarnabha Halder](https://github.com/swarnabha-dev) **First Contribution 😎**
+- [Ritik Thakur](https://github.com/rthakur2712) **First contribution**
 - [ARPAN SHARMA](https://github.com/adach2) **LIFE IS GOOD✌️**
 - [Pratik Sondaule](https://github.com/pratikSondaule)
 - [Shivaraj-Kolekar] (https://github.com/Shivaraj-Kolekar) **Hello !, this is my first contribution**
