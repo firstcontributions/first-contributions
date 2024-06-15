@@ -35,7 +35,7 @@
 - [Treasure Okafor](https://github.com/Teekafey) - My first contribution 
 yumi-kim-0827
  - [Kiran Kulkarni]
- - [Will J]
+ - [Will J](https://github.com/Will-Jameson) HEEERRREEE
 -[Gianni] First contribution
 - [emitaka](https://github.com/emitakaa) ola papus :vvvv
 - [Ivan Chekunkov](https://github.com/ivan-chekunkov)**Hi! 😃**
