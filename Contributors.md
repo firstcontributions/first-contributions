@@ -36,6 +36,7 @@
 yumi-kim-0827
  - [Kiran Kulkarni]
  - [Will J](https://github.com/Will-Jameson) **HEEERRREEE**
+ - [Jakey J] ** Feeling Good **
  -[Gianni] First contribution
 - [emitaka](https://github.com/emitakaa) ola papus :vvvv
 - [Ivan Chekunkov](https://github.com/ivan-chekunkov)**Hi! 😃**
