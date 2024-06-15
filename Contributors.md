@@ -1338,6 +1338,7 @@ Pereira
 - ericbox
 - [Amersbahi](https://github.com/amersbahi)
 - Jody Hunter
+- [Dom Luther](https://github.com/domluther)
 - Pete Zeroyxz
 - Udana95
 - [Khushi](https://github.com/Khushi-Mahato)
