@@ -5,6 +5,7 @@
 - [Om Asatu](https://github.com/omasati1709) **My first contribution**
 - [Ameya Patel](https://github.com/ampcod) **My first contribution**
 - Harsha (https://github.com/thedevopsknight) First contribution, definitely not the last 🔥❤️
+- [Sumit Chougale](https://github.com/SumitChougale09)🥵
 - [Oscar Novás](https://oscarnovas.com) My first contribution!!!!
 - [Julio Hernandez](https://github.com/jchernandez88) **Go!** 🚀
 - Ivan (https://github.com/pelican103) First contribution on an open-source !!
