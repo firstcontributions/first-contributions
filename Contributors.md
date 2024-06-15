@@ -1,4 +1,4 @@
-https://github.com/dev-rwt/first-contributions.git# Contributors
+# Contributors
 - [Shreyan](https://github.com/shreyannandanwar) **Contribution, It was EPIC
 - [Charles](https://github.com/charcg) 
 - [Luifer](https://github.com/luifer991) **First contribution, awesome**
