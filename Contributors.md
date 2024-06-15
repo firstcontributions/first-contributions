@@ -1,11 +1,12 @@
 # Contributors
-- [Shreyan](https://github.com/shreyannandanwar) **Contribution, It was EPIC
+- [Aakash Sharma](https://github.com/AAKASH-2207) **First contribution**
+- [Shreyan](https://github.com/shreyannandanwar) **Contribution, It was EPIC**
 - [Charles](https://github.com/charcg) 
 - [Luifer](https://github.com/luifer991) **First contribution, awesome**
 - [Om Asatu](https://github.com/omasati1709) **My first contribution**
 - [prawin999] - all then best:)
 - [Ameya Patel](https://github.com/ampcod) **My first contribution**
-- Harsha (https://github.com/thedevopsknight) First contribution, definitely not the last 🔥❤️
+- Harsha (https://github.com/thedevopsknight) **First contribution, definitely not the last 🔥❤️**
 - [Sumit Chougale](https://github.com/SumitChougale09)🥵
 - [Oscar Novás](https://oscarnovas.com) My first contribution!!!!
 - [Zi-Onn](https://github.com/hzionn) WAHAHA
