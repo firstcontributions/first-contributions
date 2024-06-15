@@ -627,6 +627,7 @@ v0idborne
 - Ashley Hainline (https://github.com/ahainline)
 - Srushti Sachdev
 - [P Karanja](https://github.com/karapk) 
+- [Thales Guilherme da Cruz Godoy](https://github.com/thalesdemond)
 - Dawdlergit
 - TiPa7 (https://github.com/TiPa7) 
 - Aamish Ahmad Beg
