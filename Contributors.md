@@ -35,9 +35,9 @@
 - [Treasure Okafor](https://github.com/Teekafey) - My first contribution 
 yumi-kim-0827
  - [Kiran Kulkarni]
- - [Will J](https://github.com/Will-Jameson) **HEEERRREEE**
- - [Jakey J] ** Feeling kinda Good **
- -[Gianni] First contribution
+ - [Will J](https://github.com/Will-Jameson) HEEERRREEE
+-[Gianni] First contribution
+>>>>>>> origin/main
 - [emitaka](https://github.com/emitakaa) ola papus :vvvv
 - [Ivan Chekunkov](https://github.com/ivan-chekunkov)**Hi! 😃**
 [Sreeraj N R] https://github.com/astralsmith  -  I started from here! 😊
@@ -117,6 +117,7 @@ my name here
 - [Rachael Odetayo](https://github.com/Rakielle)
 - [Anz Jo Xavier](https://github.com/anzjoxavier) **Open to Jobs**
 - [Alley Chaggar](https://github.com/AlleyCH) **HELLO EARTHLINGS!!!!!! My first contribution but not my last 👽**
+- [leesxs](https://github.com/leesxs) **First contribution! Live long and prosper 🖖**
 - [Deep Sresthi](https://github.com/Deepsresthi)
 - Phoebe Muthoni
 - [Omkareshwar Nath Dwivedy](https://github.com/Dwivedy2)
