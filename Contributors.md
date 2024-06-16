@@ -1,4 +1,5 @@
 # Contributors
+
 - [vincent Obaro](https://github.com/vincelogs) **Hello World!, it's nice to be here🫶**
 - [**Nastaran Motiee**](https://github.com/nastaran-motiee) 😉
 - [Kenneth](https://github.com/neke97) **Hi World, my first contribution
@@ -39,6 +40,7 @@
 - [Mohan vamsi B](https://github.com/mohanvamsi04) **Hello First Time Contributors!**
 - [Treasure Okafor](https://github.com/Teekafey) - My first contribution 
 yumi-kim-0827
+- [Axel Yeray](https://github.com/AxelYeray)
  - [Kiran Kulkarni]
  - [Jamie Jacobs]  MY SECOND CONTRIBUTION
  - [Will J](https://github.com/Will-Jameson) HEEERRREEE
