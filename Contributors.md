@@ -5598,4 +5598,4 @@ Hector
 - [katje3009](https://github.com/katje3009)
 - [huraicid](https://github.com/huraicid) 
 - [CosminJ2004](https://github.com/CosminJ2004) **Let`s go!**
-- [c4dr-me](https://github.com/c4dr-me) **I like to say Yummy!**
+- [c4dr-me](https://github.com/c4dr-me) **Hello!**
