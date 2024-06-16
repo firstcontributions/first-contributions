@@ -37,6 +37,7 @@ yumi-kim-0827
  - [Kiran Kulkarni]
  - [Will J](https://github.com/Will-Jameson) HEEERRREEE
 -[Gianni] First contribution
+>>>>>>> origin/main
 - [emitaka](https://github.com/emitakaa) ola papus :vvvv
 - [Ivan Chekunkov](https://github.com/ivan-chekunkov)**Hi! 😃**
 [Sreeraj N R] https://github.com/astralsmith  -  I started from here! 😊
