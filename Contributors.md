@@ -1,7 +1,7 @@
 ﻿# Contributors
 - [Suraj Mitake](https://github.com/mitake2003) **First Constribution 😊**
 - [vincent Obaro](https://github.com/vincelogs) **Hello World!, it's nice to be here🫶**
--[Mohit Joping](https://github.com/mohitjoping) ** Hi everyone, Let's connects on x** * -[clickhere](https://x.com/mohitjoping)*
+- [Mohit Joping](https://github.com/mohitjoping) ** Hi everyone, Let's connects on x** * -[clickhere](https://x.com/mohitjoping)*
 - [**Nastaran Motiee**](https://github.com/nastaran-motiee) 😉
 - [Sanchit](https://github.com/Sanchit33) **सादर प्रणाम**
 - [Kenneth](https://github.com/neke97) **Hi World, my first contribution
@@ -19,6 +19,7 @@
 - Harsha (https://github.com/thedevopsknight) First contribution, definitely not the last 🔥❤️
 - [Sumit Chougale](https://github.com/SumitChougale09)🥵
 - [leoccom] Hello, Lovely World!
+- [Ark Fen] **Global Peace!**
 - [Oscar Novás](https://oscarnovas.com) My first contribution!!!!
 - [Zi-Onn](https://github.com/hzionn) WAHAHA
 - [Julio Hernandez](https://github.com/jchernandez88) **Go!** 🚀
