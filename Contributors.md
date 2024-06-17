@@ -1,6 +1,7 @@
 ﻿# Contributors
 - [vincent Obaro](https://github.com/vincelogs) **Hello World!, it's nice to be here🫶**
 - [**Nastaran Motiee**](https://github.com/nastaran-motiee) 😉
+- [Sanchit](https://github.com/Sanchit33) **सादर प्रणाम**
 - [Kenneth](https://github.com/neke97) **Hi World, my first contribution
 - [Shreyan](https://github.com/shreyannandanwar) **Contribution, It was EPIC
 - [Biswajit](https://github.com/ImBiswajitslg) First contribution
