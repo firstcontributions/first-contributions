@@ -11,6 +11,7 @@
 - [Om Asatu](https://github.com/omasati1709) **My first contribution**
 - [KKK](https://github.com/nlpkyukyu)
 - [lislovelly](https://github.com/lislovelly) **My first contribution**
+- [Sujan Mandal](https://github.com/Rintu341) 
 - [prawin999] - all then best:)
 - [Ameya Patel](https://github.com/ampcod) **My first contribution**
 - Harsha (https://github.com/thedevopsknight) First contribution, definitely not the last 🔥❤️
