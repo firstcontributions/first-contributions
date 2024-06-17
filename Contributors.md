@@ -5387,6 +5387,7 @@ utthamr
 - [Eduardo Villalobos](https://github.com/eduardomv2)
 - [Prajwal Acharya](https://github.com/PrajwalAcharya123/)
 - [Edzer Dionido](https://github.com/edsaur)
+- [Andrew Sykes](https://github.com/AndrewSykes1)
 - [Abeer Mukhemir](https://github.com/abeermmukhemir)
 - [Zeni](https://github.com/akutabig)
 - [Roland Jansen](https://github.com/roland-jansen)
