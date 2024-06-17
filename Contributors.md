@@ -10,6 +10,7 @@
 - [Charles](https://github.com/charcg) 
 - [David Zhu](https://github.com/charcg) 
 - [Tarun Khadolia](https://github.com/Tarunkhadolia11)
+- [Talha Ahmed](https://github.com/TalhaAhmedAI)
 - [Luifer](https://github.com/luifer991) **First contribution, awesome**
 - [Om Asatu](https://github.com/omasati1709) **My first contribution**
 - [KKK](https://github.com/nlpkyukyu)
