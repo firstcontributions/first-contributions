@@ -5619,3 +5619,4 @@ Hector
 - [Dhanush](https://github.com/dhan-profile)
 - [vladimirv](https://github.com/vladimirvasovic/first-contributions.git) **Zdravo!**
 - [Amansharma1821](https://github.com/Amansharma1821) 
+- [izzalDev][https://github.com/izzalDev]
