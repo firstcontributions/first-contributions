@@ -12,6 +12,7 @@
 - [Tarun Khadolia](https://github.com/Tarunkhadolia11)
 - [Talha Ahmed](https://github.com/TalhaAhmedAI)
 - [Luifer](https://github.com/luifer991) **First contribution, awesome**
+- [Suryansh](https://github.com/SxryxnshS5) **First contribution, lessgoo**
 - [Om Asatu](https://github.com/omasati1709) **My first contribution**
 - [KKK](https://github.com/nlpkyukyu)
 - [lislovelly](https://github.com/lislovelly) **My first contribution**
