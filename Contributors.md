@@ -1,8 +1,9 @@
-# Contributors
+﻿# Contributors
 - [vincent Obaro](https://github.com/vincelogs) **Hello World!, it's nice to be here🫶**
 - [**Nastaran Motiee**](https://github.com/nastaran-motiee) 😉
 - [Kenneth](https://github.com/neke97) **Hi World, my first contribution
 - [Shreyan](https://github.com/shreyannandanwar) **Contribution, It was EPIC
+- [Biswajit](https://github.com/ImBiswajitslg) First contribution
 - [Charles](https://github.com/charcg) 
 - [David Zhu](https://github.com/charcg) 
 - [Luifer](https://github.com/luifer991) **First contribution, awesome**
