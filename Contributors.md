@@ -3099,6 +3099,7 @@ Dante Sanchez
 - [Georgios Malandrakis] (https://github.com/giormala)
 - [Meow Aadvik]
 - [Yusuf Habib Alfatha]
+- [Juan Fajardo] (https://github.com/fajardo2204)
 - [Ben Picone] $$$
 - [VJ-Sonawane L.No: 2601]
 - [KlevCC](https://github.com/KlevCC)
