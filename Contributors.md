@@ -5,6 +5,7 @@
 - [Shreyan](https://github.com/shreyannandanwar) **Contribution, It was EPIC
 - [Charles](https://github.com/charcg) 
 - [David Zhu](https://github.com/charcg) 
+- [Amiya Lahiri](https://github.com/Amiya-Lahiri-AI) ** Hello EveryOne, Today I am starting my journey as a open source contributer and I am very excited about it.
 - [Luifer](https://github.com/luifer991) **First contribution, awesome**
 - [Om Asatu](https://github.com/omasati1709) **My first contribution**
 - [KKK](https://github.com/nlpkyukyu)
