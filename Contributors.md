@@ -82,7 +82,6 @@ my name here
 - [DilanEspinoza](https://github.com/DilanEspinoza) **Nothing to say**
 - [PersoNameDaniel](https://github.com/PersoNameDaniel)
 - [Yixuan]
-- [switchbladechocolate](https://github.com/switchbladechocolate) 
 - [Muhammad Muzamal](https://github.com/MUHAMMADmuzamal)
 - [Syed Hassan Ali](https://github.com/upodesta) **Thanks a lot**
 - [Matichelo](https://github.com/MichaellIbarra)
@@ -340,6 +339,7 @@ my name here
 - Ronak Katariya
 - haha
 - MS
+- [switchbladechocolate](https://github.com/switchbladechocolate)
 - [Willian Luigi Carneri](https://github.com/willcarneri)
 - [Chedvi Ganz](https://github.com/chedvig)
 - [Daniel Chun](https://github.com/DNML31)
