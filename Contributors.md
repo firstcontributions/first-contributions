@@ -1,6 +1,5 @@
 ﻿# Contributors
 - [vincent Obaro](https://github.com/vincelogs) **Hello World!, it's nice to be here🫶**
--[Mohit Joping](https://github.com/mohitjoping) ** Hi everyone, Let's connects on x** * -[clickhere](https://x.com/mohitjoping)*
 - [**Nastaran Motiee**](https://github.com/nastaran-motiee) 😉
 - [Sanchit](https://github.com/Sanchit33) **सादर प्रणाम**
 - [Kenneth](https://github.com/neke97) **Hi World, my first contribution
