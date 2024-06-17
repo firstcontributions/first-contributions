@@ -5601,4 +5601,4 @@ Hector
 - [huraicid](https://github.com/huraicid) 
 - [CosminJ2004](https://github.com/CosminJ2004) **Let`s go!**
 - [C4dr-me](https://github.com/c4dr-me) **Yay!!**
-- [Micah Bala](https://github.com/Micah Bala) **Hello World!, I am glad to be here**
+- [Micah Bala](https://github.com/MicahBala) **Hello World!, I am glad to be here**
