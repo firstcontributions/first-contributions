@@ -118,6 +118,7 @@ my name here
 - [Yixuan]
 - [Angel Ortiz](https://github.com/Ang115)
 - [Muhammad Muzamal](https://github.com/MUHAMMADmuzamal)
+- [Amiya Lahiri](https://github.com/Amiya-Lahiri-AI)
 - [Syed Hassan Ali](https://github.com/upodesta) **Thanks a lot**
 - [Soni Canra Wiguna](https://github.com/soni-canra-wiguna) **Cool!** 🚀
 - [Matichelo](https://github.com/MichaellIbarra)
