@@ -5619,3 +5619,5 @@ Hector
 - [Dhanush](https://github.com/dhan-profile)
 - [vladimirv](https://github.com/vladimirvasovic/first-contributions.git) **Zdravo!**
 - [izzalDev](https://github.com/izzalDev/first-contributions.git) **Halo Dunia**
+- [izzalDev](https://github.com/izzalDev/first-contributions.git) **Halo Dunia**
+- [Amansharma1821](https://github.com/Amansharma1821) 
