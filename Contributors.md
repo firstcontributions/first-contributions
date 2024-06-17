@@ -250,6 +250,7 @@ my name here
 - [Suman Gaire] (https://github.com/sumangaire52)
 - [Bereket Sintayehu] (https://github.com/bereketsintayehu)
 - [Michael Corn](github.com/mcorn02)
+- [John Lukich](github.com/funksy)
 - [Vishal Ojha](https://github.com/VishalOjhaa)
 - [Kristian & Fixi](https://github.com/Fixi2731)
 - [QiongJiaYaTou](https://github.com/qiongjiayatou)
