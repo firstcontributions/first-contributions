@@ -1296,6 +1296,7 @@ Pereira
 - [Bhumi Padhiyar](https://github.com/Bhumiba01)
 - [Victor Ukam](https://github.com/veeqtoh) [Linkedin](https://www.linkedin.com/in/victorjohnukam/)
 - [Ruhan Saad Dave](https://github.com/Ruhan-Saad-Dave)
+- [Raunak Singh] (https://github.com/raunaksingh9800)
 - Ruth
 - Dianna Pham
 - John Burton
