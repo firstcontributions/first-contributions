@@ -3330,6 +3330,7 @@ Dante Sanchez
 - [Miguel Vela](https://github.com/miguelarian)
 - [Guillaume Muller](https://github.com/gmuller-dev)
 - [Jules Reego Rufo](https://github.com/julesrufo26)
+- [Reiner Balschun](https://github.com/ReinerBalschun)
 - Nandini Kashyap
 - [Ashish Dochania](https://github.com/AshishDochania)
 - [N1krat](https://github.com/N1krat)
