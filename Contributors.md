@@ -5606,4 +5606,6 @@ Hector
 - [huraicid](https://github.com/huraicid) 
 - [CosminJ2004](https://github.com/CosminJ2004) **Let`s go!**
 - [C4dr-me](https://github.com/c4dr-me) **Yay!!**
+- [Gustavo Galarza](https://github.com/gustavogalarza1091) **Hello!!**
+- [Dhanush](https://github.com/dhan-profile)
 - [Vladimir V](https://github.com/vladimirvasovic/first-contributions) **Zdravo!**
