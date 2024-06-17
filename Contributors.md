@@ -82,6 +82,7 @@ my name here
 - [DilanEspinoza](https://github.com/DilanEspinoza) **Nothing to say**
 - [PersoNameDaniel](https://github.com/PersoNameDaniel)
 - [Yixuan]
+- [switchbladechocolate](https://github.com/switchbladechocolate) 
 - [Muhammad Muzamal](https://github.com/MUHAMMADmuzamal)
 - [Syed Hassan Ali](https://github.com/upodesta) **Thanks a lot**
 - [Matichelo](https://github.com/MichaellIbarra)
