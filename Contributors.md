@@ -1,6 +1,7 @@
 # Contributors
 - [Shreyan](https://github.com/shreyannandanwar) **Contribution, It was EPIC
-- [Charles](https://github.com/charcg) 
+- [Charles](https://github.com/charcg)
+- [Sanchit](https://github.com/Sanchit33) **सादर प्रणाम**
 - [Luifer](https://github.com/luifer991) **First contribution, awesome**
 - [Om Asatu](https://github.com/omasati1709) **My first contribution**
 - [Ameya Patel](https://github.com/ampcod) **My first contribution**
