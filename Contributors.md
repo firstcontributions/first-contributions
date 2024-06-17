@@ -40,6 +40,7 @@
 - [krishealty](https://github.com/krishealty) **i bet you wont find a more detailed readme file than mine.**
 - [Reyas-addy](https://github.com/rewyekha) **Nothing to Anything🫵🏼**
 - [Na-Tag](https://github.com/Na-Tag) **hi, cotributors!**
+- [Matthaios Zafeiriou](https://github.com/MattZafeiriou) **Hello there**
 -irvincardoza
 - [Mohan vamsi B](https://github.com/mohanvamsi04) **Hello First Time Contributors!**
 - [Treasure Okafor](https://github.com/Teekafey) - My first contribution 
