@@ -5625,3 +5625,4 @@ Hector
 - [vladimirv](https://github.com/vladimirvasovic/first-contributions.git) **Zdravo!**
 - [Amansharma1821](https://github.com/Amansharma1821) 
 - [izzalDev][https://github.com/izzalDev]
+- [Sai Teja Inampudi] (https://github.com/saitejainampudi)
