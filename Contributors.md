@@ -386,6 +386,7 @@ my name here
 - Ronak Katariya
 - haha
 - MS
+- [switchbladechocolate](https://github.com/switchbladechocolate)
 - [Willian Luigi Carneri](https://github.com/willcarneri)
 - [Chedvi Ganz](https://github.com/chedvig)
 - [Daniel Chun](https://github.com/DNML31)
