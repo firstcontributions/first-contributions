@@ -1,4 +1,5 @@
-# Contributors
+# Contributors  
+- [SavvyHex](https://github.com/SavvyHex) First Contribution!
 - [Haily Belle Stevens](https://github.com/hailystevens) **see yall at the finish line
 - [Suraj Mitake](https://github.com/mitake2003) **First Constribution 😊**
 - [vincent Obaro](https://github.com/vincelogs) **Hello World!, it's nice to be here🫶**
