@@ -629,6 +629,7 @@ v0idborne
 - KakDealz
 - Snazzy Fazz
 - [Niko Schlüter] (https://github.com/Nikoslr)
+- Madhav Ganesan (https://github.com/MadGanGithub)
 - Droov was here https://github.com/yassir781
 - [Ayoub Laaoufi](https://github.com/aylaaoufi) :D I was pleased to meet you.
 - [Harshabardhana Parida](https://github.com/harshaparida)
