@@ -416,7 +416,8 @@ vrushabhpatil48
 - [Michael Lumbera Jr](https://github.com/mlumbera)
 - [Saeed Hossen](https://github.com/appsaeed) 👋
 - [Ahmed Omar Eissa](https://github.com/AhmedOmarEissa) 
-- [Ian Speelman](https://github.com/ianspeelman) 
+- [Ian Speelman](https://github.com/ianspeelman)
+- [Dragon Rider](https://github.com/DragonRider01598) 
 - Samir
 - [Omar Bassuni](https://github.com/omarbassuni2)
 - Preetham (https://github.com/preethamkonuganti)
