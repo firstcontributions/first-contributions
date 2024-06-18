@@ -10,9 +10,9 @@
 - [Biswajit](https://github.com/ImBiswajitslg) First contribution
 - [Julio Paz](https://github.com/juliopzsosa) Follow me!
 - [Charles](https://github.com/charcg) 
-- [David Zhu](https://github.com/charcg) 
+- [David Zhu](https://github.com/charcg)
+- [Camilo](https://github.com/camilomontenegro) My first contribution to open source!!
 - [Tarun Khadolia](https://github.com/Tarunkhadolia11)
-- [Talha Ahmed](https://github.com/TalhaAhmedAI)
 - [Luifer](https://github.com/luifer991) **First contribution, awesome**
 - [Suryansh](https://github.com/SxryxnshS5) **First contribution, lessgoo**
 - [Om Asatu](https://github.com/omasati1709) **My first contribution**
