@@ -1,4 +1,5 @@
-﻿# Contributors
+# Contributors
+- [Haily Belle Stevens](https://github.com/hailystevens) **see yall at the finish line
 - [Suraj Mitake](https://github.com/mitake2003) **First Constribution 😊**
 - [vincent Obaro](https://github.com/vincelogs) **Hello World!, it's nice to be here🫶**
 -[Mohit Joping](https://github.com/mohitjoping) ** Hi everyone, Let's connects on x** * -[clickhere](https://x.com/mohitjoping)*
