@@ -1,5 +1,6 @@
-# Contributors 
-- [Sanil-Surve](https://github.com/Sanil-Surve) **Good Contribution** 
+# Contributors
+- [Sanil-Surve](https://github.com/Sanil-Surve) **Good Contribution**
+- [cofybeans](https://github.com/cofybeans)	**1st Contribution!**
 - [SavvyHex](https://github.com/SavvyHex) First Contribution!
 - [Haily Belle Stevens](https://github.com/hailystevens) **see yall at the finish line
 - [Suraj Mitake](https://github.com/mitake2003) **First Constribution 😊**
