@@ -7,6 +7,7 @@
 - [**Nastaran Motiee**](https://github.com/nastaran-motiee) 😉
 - [Sanchit](https://github.com/Sanchit33) **सादर प्रणाम**
 - [Kenneth](https://github.com/neke97) **Hi World, my first contribution
+- [Sidharth N Krishna](https://github.com/Sidharth-NK)**My first open-source contribution!!**
 - [Shreyan](https://github.com/shreyannandanwar) **Contribution, It was EPIC
 - [Biswajit](https://github.com/ImBiswajitslg) First contribution
 - [Julio Paz](https://github.com/juliopzsosa) Follow me!
