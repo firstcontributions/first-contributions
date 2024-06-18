@@ -2557,6 +2557,7 @@ Jasmine
 - [Stephen Ng](https://github.com/snust)
 - [Axel Valerio Ertamto](https://github.com/AxelValerioErtamto)
 - [Justin](https://github.com/JustinBifeld)
+- [Lulu Harvey](https://github.com/luluharvey)
 - anuj bhiasal
 -sushil maurya
 - [ma3ti] (https://github.com/ma3ti)
