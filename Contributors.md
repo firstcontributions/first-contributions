@@ -20,6 +20,7 @@
 - [Suryansh](https://github.com/SxryxnshS5) **First contribution, lessgoo**
 - [Om Asatu](https://github.com/omasati1709) **My first contribution**
 - [KKK](https://github.com/nlpkyukyu)
+- [SharonLin](https://github.com/sharonlin19) **try out github exercise**
 - [lislovelly](https://github.com/lislovelly) **My first contribution**
 - [Sujan Mandal](https://github.com/Rintu341) 
 - [prawin999] - all then best:)
