@@ -3267,6 +3267,7 @@ Dante Sanchez
 - [FBirdCS](https://github.com/flappybirdcs)
 - [Anslem](https://github.com/Anslem1)
 - [Kelvin okumu](https://github.com/kelvinokumu)
+- [Eli Lewis] (https://github.com/elilewis327)
 - [Betsalel Geoffrey GOLO] (https://github.com/betsalel44)
   [Achraf Elhadjaoui] (https://github.com/achrafelhadjaoui)
 - [Toph](https://github.com/IndexChris)
