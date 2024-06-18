@@ -5476,7 +5476,7 @@ utthamr
 - [Gitzzy]
 - Thanh Huynh
 - [Yousif-J](https://github.com/yousifj129)
-git stat
+- [Eli-Lewis](https://github.com/elilewis327)
 - [Hannah Bradfield](https://github.com/BradfieldH)
 - [meda0719] (https://github.com/meda0719/)
 - [kumar1397](https://github.com/kumar1397)
