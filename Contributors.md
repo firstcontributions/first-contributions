@@ -7,6 +7,7 @@
 - [Kenneth](https://github.com/neke97) **Hi World, my first contribution
 - [Shreyan](https://github.com/shreyannandanwar) **Contribution, It was EPIC
 - [Biswajit](https://github.com/ImBiswajitslg) First contribution
+- [Ashok Kadagala](https://github.com/a-lone-walker/first-contributions) **నమస్తే తెలుగోడా 💖**
 - [Charles](https://github.com/charcg) 
 - [David Zhu](https://github.com/charcg) 
 - [Tarun Khadolia](https://github.com/Tarunkhadolia11)
