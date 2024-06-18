@@ -1,4 +1,5 @@
 # Contributors
+- [Chamodya Ganegamege](https://github.com/chamo7788) **Hello!!!**
 - [Haily Belle Stevens](https://github.com/hailystevens) **see yall at the finish line
 - [Suraj Mitake](https://github.com/mitake2003) **First Constribution 😊**
 - [vincent Obaro](https://github.com/vincelogs) **Hello World!, it's nice to be here🫶**
@@ -5660,3 +5661,5 @@ Hector
 - [RaymondFH](https://github.com/RaymondFH)
 - [Bangladesh Open Source](https://github.com/bangladeshos) **Bangladesh Open Source**
 - [Daniel Gallo](https://github.com/danielphilip12) **First contribution to open source**
+- [Chamodya Ganegamege](https://github.com/chamo7788) **Hello!!!**
+
