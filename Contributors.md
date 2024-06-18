@@ -190,6 +190,7 @@ vrushabhpatil48
   [Conan]
 - [Christine Brown Clayton](https://github.com/chitech)
 - Gab
+- [Jorge](https://github.com/jorge09bb/)
 - Daniel Onstwedder
 - Jenil Radadiya #hoping to contribute to many projects;
 -[Benomar Mohamed](https://github.com/Phfyx)
