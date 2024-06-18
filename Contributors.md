@@ -154,6 +154,7 @@ vrushabhpatil48
 - [Avantikka](https://github.com/avanti146)
 - [Roopesh](https://github.com/Roopasdev)
 - Kazu Sakamoto
+- [Jonathan Lu] (https://github.com/jonL0001) **Hello World! Turning a new leaf (:**
 - Aditya Lohar (https://github.com/AdityaLohar)
 - [aayushgupta1](https://github.com/aayushgupta1) **Hello World! My first contribution :)**
 - [Chang Won Choi](https://github.com/chang-won-choi)
