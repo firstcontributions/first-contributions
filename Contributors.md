@@ -51,6 +51,7 @@
 - [Abigail sylvie](https://github.com/abigailsylvie) this is were i began my journey!
 - [Eduardo Castro](https://github.com/eduardocastrogt) **This is my first contribution!!!**
 - [Shashank](https://github.com/U-Shashank)
+- Abinaya Murugan (https://github.com/Abinaya-Murugan)
 - [ISRAEL](https://github.com/U-israel)
 - [Uday Kumar Reddy](https://github.com/Uday517) **We are here today to be on top of the world someday LFG!!!!**
 - [Fredrick Oladipupo](https://github.com/fredpen) let's go 🚀
@@ -431,6 +432,7 @@ vrushabhpatil48
 - [Dragon Rider](https://github.com/DragonRider01598) 
 - Samir
 - [Omar Bassuni](https://github.com/omarbassuni2)
+- [Abinaya Murugan] (https://github.com/Abinaya-Murugan)
 - Preetham (https://github.com/preethamkonuganti)
 - [Dipaloke Biswas](https://github.com/dipaloke)🇧🇩
 - [Yuki](https://github.com/yukuri611)
