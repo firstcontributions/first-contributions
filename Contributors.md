@@ -737,6 +737,7 @@ v0idborne
 - [Jerri Tan](https://github.com/jerritan727)
 - [SinghAstra](https://github.com/SinghAstra).
 - [acageduser](https://github.com/acageduser).
+- [telli01](https://github.com/telli01).
 - [Ildar Shagidullin](https://github.com/meth0dMain).
 - [kerokerotur](https://github.com/kerokerotur).
 - [Adeboye Famurewa](https://github.com/fadarboye) 😀 I was here.
