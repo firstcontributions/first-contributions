@@ -1,5 +1,10 @@
-# Contributors 
+# Contributors
 - [Sudhanshu Kumar](https://github.com/sudhaanshuu) **My Contribution**
+- | <a href="https://github.com/sudhaanshuu"><img alt="Sudhanshu Kumar" src="https://sudhanshuuu.netlify.app/images/user.png" width="100" style="border-radius: 50%;"></a> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Sudhanshu Kumar](https://github.com/sudhaanshuu) |
+ 
+
 - [Sahil Singh](https://github.com/amberIS01) **My First Contribution**
 - [Alonso - AztFireSpell](https://github.com/aztfirespell) **My Contribution **
 - [Sanil-Surve](https://github.com/Sanil-Surve) **Good Contribution** 
