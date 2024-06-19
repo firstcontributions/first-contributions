@@ -5424,6 +5424,7 @@ utthamr
 - [mesh-dell]
 - [Owan Lin]
 - [Evan Roche]
+- [Manish Verma](https://github.com/manish-verma0)
 - [Harpreet Singh](https://github.com/jackofalltradesprogrammer) 
 - [Camdyn Hamilton](https://github.com/CHamilton02)
 -[Joyel Sebastian](https://github.com/joyelsebastian)
