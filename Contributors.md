@@ -21,7 +21,7 @@
 - [Sidharth N Krishna](https://github.com/Sidharth-NK)**My first open-source contribution!!**
 - [Shreyan](https://github.com/shreyannandanwar) **Contribution, It was EPIC
 - [Biswajit](https://github.com/ImBiswajitslg) First contribution
-- [Julio Paz](https://github.com/juliopzsosa) Follow me!
+- [Julio Paz](https://github.com/juliopzsosa) Please follow him and learn!!!
 - [Charles](https://github.com/charcg) 
 - [David Zhu](https://github.com/charcg) 
 - [Tarun Khadolia](https://github.com/Tarunkhadolia11)
