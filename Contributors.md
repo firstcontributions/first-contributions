@@ -12,6 +12,7 @@
 - [**Nastaran Motiee**](https://github.com/nastaran-motiee) 😉
 * Eter Nada(https://github.com/tarenjk24)
 - [Sanchit](https://github.com/Sanchit33) **सादर प्रणाम**
+- [ImTemane](https://github.com/ImTemane) **Hi, this is my first contribution 😉**
 - [Kenneth](https://github.com/neke97) **Hi World, my first contribution
 - [Sidharth N Krishna](https://github.com/Sidharth-NK)**My first open-source contribution!!**
 - [Shreyan](https://github.com/shreyannandanwar) **Contribution, It was EPIC
