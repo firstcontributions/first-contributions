@@ -13,7 +13,7 @@
 * Eter Nada(https://github.com/tarenjk24)
 
 - [Sanchit](https://github.com/Sanchit33) **सादर प्रणाम**
-- [Apoorv Jain](https://github.com/jain-apoorv) **JAY JINENDRA**
+- [Apoorv Jain](https://github.com/jain-apoorv) **my first contribution**
 - [Kenneth](https://github.com/neke97) \*\*Hi World, my first contribution
 - [Sidharth N Krishna](https://github.com/Sidharth-NK)**My first open-source contribution!!**
 - [Shreyan](https://github.com/shreyannandanwar) \*\*Contribution, It was EPIC
