@@ -9,6 +9,7 @@
 - [Ajinkya](https://github.com/AtiwadkarAjinkya) **Hello**
 - [Haily Belle Stevens](https://github.com/hailystevens) **see yall at the finish line
 - [Lorenz-127](https://github.com/Lorenz-127) My first contribution
+- [Rahul](https://github.com/R-05368) My first contribution
 - [Suraj Mitake](https://github.com/mitake2003) **First Constribution 😊**
 - [Abdulai Bah](https://github.com/Abdulai123) **Hello World, first constribution. 😊 PHP, Laravel dev click on my name let connect.**
 - [vincent Obaro](https://github.com/vincelogs) **Hello World!, it's nice to be here🫶**
