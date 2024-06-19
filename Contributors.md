@@ -24,6 +24,7 @@
 - [Biswajit](https://github.com/ImBiswajitslg) First contribution
 - [Julio Paz](https://github.com/juliopzsosa) Follow me!
 - [Charles](https://github.com/charcg) 
+- [CrozzDev](https://github.com/crozzdev) Follow me if you are interest in FullStack programming!
 - [David Zhu](https://github.com/charcg) 
 - [Tarun Khadolia](https://github.com/Tarunkhadolia11)
 - [Nagma Khan](https://github.com/nagmakhan)
