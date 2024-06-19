@@ -1,5 +1,4 @@
 # Contributors 
-- [Houssam Kanso](https://github.com/houssamkanso)**Hello World**
 - [Houssam Kanso](https://github.com/houssamkanso) **Hello World**
 - [Sudhanshu Kumar](https://github.com/sudhaanshuu) **My Contribution**
 - [Sahil Singh](https://github.com/amberIS01) **My First Contribution**
