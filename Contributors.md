@@ -34,6 +34,7 @@
 - [Sujan Mandal](https://github.com/Rintu341) 
 - [aarghtw](https://github.com/aarghtw)
 - [prawin999] - all then best:)
+- [Ganesh Rajana] - Krishna University --> Machilipatnam 
 - [jatinpatel77] - testing first controbution 
 - [Ameya Patel](https://github.com/ampcod) **My first contribution**
 - [Regis Perrin](https://github.com/perrinregi) **My first contribution**
