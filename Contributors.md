@@ -122,6 +122,7 @@ my name here
 - [Hariz] (https://github.com/CharKwehTiawKerang) **The Hunter >:(**
 - [Nemesis](https://github.com/nemesis-0001) **Hey, My first contribution**
 - [AnaIxch]
+- [Ali](https://github.com/alimnaqvi) **Hello, World! This is my first contribution!
 - [xbryan25](https://github.com/xbryan25) Hello world
 - [Med-Yassine-B](https://github.com/Med-Yassine-B)
 - dm - first timer!
