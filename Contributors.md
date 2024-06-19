@@ -5482,6 +5482,7 @@ utthamr
 - [Shreyas A S](https://github.com/shreyas-a-s)
 - [Aratras16](https://github.com/Aratras16)
 - [yutasasaki1219](https://github.com/YutaSasaki1219)
+- [Sasaki1994](https://github.com/Sasaki1994)
 - [Prayag Raj Acharya] (https://github.com/Prayagrajacharya)
 - [kellykiiru](https://github.com/kellykiiru)
   [Shreya Sanjay](https://github.com/shreyyq)
