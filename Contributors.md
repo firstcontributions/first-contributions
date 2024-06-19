@@ -29,7 +29,8 @@
 - [Julio Paz](https://github.com/juliopzsosa) Follow me!
 - [Charles](https://github.com/charcg) 
 - [CrozzDev](https://github.com/crozzdev) Follow me if you are interest in FullStack programming!
-- [David Zhu](https://github.com/charcg) 
+- [David Zhu](https://github.com/charcg)
+- [Sriaknth Peetha](https://github.com/skpeetha)
 - [Tarun Khadolia](https://github.com/Tarunkhadolia11)
 - [Nagma Khan](https://github.com/nagmakhan)
 - [Talha Ahmed](https://github.com/TalhaAhmedAI)
