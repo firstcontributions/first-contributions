@@ -15,11 +15,11 @@ Esta guía es un poco más desafiante ya que no usamos ninguna interfaz gráfica
 
 El primer requisito es tener:
 - Git instalado (cómo instalar [git](https://git-scm.com/downloads))
-- Cuenta Github
+- Cuenta de Github
 
-Now we need to install the `github-cli` tool in our system by following the [official documentation](https://github.com/cli/cli#installation)
+Ahora necesitamos instalar el `github-cli` arriemienta en nuestra systema siguiendo el [documentacion oficial](https://github.com/cli/cli#installation)
 
-After that, we need to login in the CLI, so enter this command: 
+Despues de eso, necesitamos iniciar un sesion del CLI, y poner esta commanda: 
 ```bash 
 gh auth login
 ```
