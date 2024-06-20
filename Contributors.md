@@ -2,7 +2,7 @@
 - [Callum Haley](https://github.com/binbang12) **Hello world! Let's make you better together!**
 - [Wasiu Yusuf](https://github.com/yusuphwasiu) *Hello Everyone*, I've decided to take my first baby step towards contributing to open source. Although i feel ashamed i should have done this years ago, however, i believe it is never too late to start something worthwhile.*
 - [José Furlán](https://github.com/j-furlan) *My first contribution*, maybe a little to late to start learning about this but here I am.
-- [Ten 9](https://github.com/lm83680)  😎**Ha Ha. So Easy**
+- [Ten 9](https://github.com/lm83680)  😎😎**Ha Ha. So Easy**
 - [Houssam Kanso](https://github.com/houssamkanso)**Hello World**
 - [Sudhanshu Kumar](https://github.com/sudhaanshuu) **My Contribution**
 - [Sahil Singh](https://github.com/amberIS01) **My First Contribution**
