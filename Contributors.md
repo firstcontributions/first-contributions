@@ -522,6 +522,7 @@ taha
 - Enfu Liao
 - [Sarah Hassan](https://github.com/sarahassan0)
 - [Prakash Gadhavi]
+- [Luis Orozco](https://github.com/Luisorozco43)
 - [Siddharth Reddy](https://github.com/SidZRed)
 - [Pedro do Vale](https://github.com/pedrodovale)
 - [Jhon Correa](https://github.com/jcorreahotmail)
