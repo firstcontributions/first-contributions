@@ -1,5 +1,6 @@
 # Contributors 
 - [Callum Haley](https://github.com/binbang12) **Hello world! Let's make you better together!**
+- [Wasiu Yusuf](https://github.com/yusuphwasiu) *Hello Everyone*, I've decided to take my first baby step towards contributing to open source. Although i feel ashamed i should have done this years ago, however, i believe it is never too late to start something worthwhile.*
 - [Houssam Kanso](https://github.com/houssamkanso)**Hello World**
 - [Sudhanshu Kumar](https://github.com/sudhaanshuu) **My Contribution**
 - [Sahil Singh](https://github.com/amberIS01) **My First Contribution**
