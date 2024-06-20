@@ -956,6 +956,7 @@ Abhinav Jain
 - [brstreet2] (https://github.com/brstreet2)
 - [Ethan Corbett] (https://github.com/Schnozhand03)
 - Cinthylli
+- gulrez pasha
 - [Michael Chen](https://github.com/vayfarer/)
 - [ANUJ] (https://github.com/THEBOSS0369)
 - [Jair Balcazar](https://github.com/Jairbal) 🕷️
