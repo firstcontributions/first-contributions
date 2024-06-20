@@ -220,6 +220,7 @@ vrushabhpatil48
 - My second contribution
 -Alfred Obeng-Danquah (https://github.com/Alfred-Obeng-Danquah)
 - [ykaterina](https://github.com/ykaterina) **Hallo, first contribution here!**
+- Rohith Kankipati (https://github.com/rohith4743)
 - Sublics
 - JoyBas
 - [Jonathan Batanian] (https://github.com/jOBT0)
