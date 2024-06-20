@@ -1687,6 +1687,7 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
 - [Marcetto] (https://github.com/Marcetto)
 - [Elly Oyugi](hhttps://github.com/eoyugi)
 -[Miguel Antonio Cortés Muñoz](https://github.com/miguel-dev)
+- [Koldo Gallostra de Prada](https://github.com/itxialdiak) **My first contribution**
 -[Mohammad Reza Akbari 🎧](https://github.com/mra-ak)
 -[Javeria Zahid] (https://github.com/dismalwanderer)
 -[HyperPiggyMan](109302067@nccu)
