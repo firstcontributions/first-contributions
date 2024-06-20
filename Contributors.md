@@ -5687,6 +5687,7 @@ Hector
 - [John Pepino] (https://github.com/jvpepino)
 - [Ronithere](https://github.com/Ronithere)
 - [alvaroml](https://github.com/alvaroml)
+- [gyrnjs12](https://github.com/gyrnjs12)
 - [Bala](https://github.com/BalaGunaseelan) : Hi There
 - [Krish Koria](https://github.com/sojgja) **First Contribution**
 - [jihodaddy](https://github.com/jihodaddy) **Good start to open source Contribution**
