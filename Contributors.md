@@ -5621,10 +5621,11 @@ git stat
 - [Sreehari_M] (https://github.com/Sreehari9230) 
 - [Hah-ak] (https://github.com/hah-ak) 
 - [Mauro Giuliano] (https://github.com/MauroGiulianoSCAI) Peace & Serenity you all from Italy
-- [edorusta[ (https://github.com/edorustichini)
+- [edorusta] (https://github.com/edorustichini)
 - [Avijit Manna] (https://github.com/manna-avijit)
 - [Mohamed Basher] (https://github.com/SciCode007)
 - [Adarsh-Chaturvedi] (https://github.com/extremistLab)
+- [BlueKilvin] (https://github.com/BlueKilvin) : World Peace!
 - [Ihsan-Hanif] (https://github.com/Ihsanhanif)
 - [Logan Michalak](https://github.com/loganmichalak)
 - [Meghana S] (https://github.com/meghanaseshasai)
