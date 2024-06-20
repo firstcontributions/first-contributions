@@ -2,6 +2,7 @@
 - [Callum Haley](https://github.com/binbang12) **Hello world! Let's make you better together!**
 - [Wasiu Yusuf](https://github.com/yusuphwasiu) *Hello Everyone*, I've decided to take my first baby step towards contributing to open source. Although i feel ashamed i should have done this years ago, however, i believe it is never too late to start something worthwhile.*
 - [José Furlán](https://github.com/j-furlan) *My first contribution*, maybe a little to late to start learning about this but here I am.
+- [Ten 9](https://github.com/lm83680)  😎**Ha Ha. So Easy**
 - [Houssam Kanso](https://github.com/houssamkanso)**Hello World**
 - [Sudhanshu Kumar](https://github.com/sudhaanshuu) **My Contribution**
 - [Sahil Singh](https://github.com/amberIS01) **My First Contribution**
@@ -1612,7 +1613,7 @@ Hannah Sung
 - [Nimrod Kabiru](https://github.com/nimuragz)
 - [MuhammadNurHakimi] (https://github.com/nurhakimi97) i'm going to be the best developer in the world
  [111703012](https://github.com/caijinghong1468)
- [pentagonpie](https://github.com/pentagonpie)
+  [pentagonpie](https://github.com/pentagonpie)
 - [Praneeth Gourla] (https://github.com/praneethgourla18)
 - [Olha Zakharchevna](https://github.com/zakharchevna)
 - [Maxime de Montbron](https://github.com/mijnog/) Just learning how to code
@@ -1649,7 +1650,7 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
 - [william nyaranga](https://github.com/William-nyarash)
 - [Narek](https://github.com/Naki1995/first-contributions)
  [Adam Honvedo](https://github.com/Homvi)
--Tim Shurlock
+  -Tim Shurlock
 - [Blake Hill](https://github.com/Blake-Hill)<3
 - [Luka D](https://github.com/Luka-D) Hoping to start contributing to open source projects
 - [hovhannisyangevorg](https://github.com/hovhannisyangevorg)
@@ -5362,7 +5363,7 @@ guanj65
 - [Fabrício Queiroz](https://github.com/FabricioDeQueiroz)
 - [Aiden ALlred](https://github.com/AidenALlredOfficial)
  -[kami1152](https://github.com/kami1152)
- -[Yash Patel](https://github.com/Orca-Gemini23)
+  -[Yash Patel](https://github.com/Orca-Gemini23)
 - [imanolie](https://github.com/imanolie)
 - [Raphel6969](https://github.com/Raphel6969)
 - [perla-zg](https://github.com/perla-zg)
