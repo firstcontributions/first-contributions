@@ -910,6 +910,7 @@ Abhinav Jain
 - Jasman Deol
 - Tarik Carvalho!
 - David Qu
+- Brett Wells(https://github.com/Wells245)
 - [brstreet2] (https://github.com/brstreet2)
 - [Ethan Corbett] (https://github.com/Schnozhand03)
 - Cinthylli
