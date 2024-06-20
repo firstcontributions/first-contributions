@@ -135,6 +135,7 @@ my name here
 - [@jgarzon97] (https://github.com/jgarzon97) **First Contribution!**
 - @cptkaveman **First Contribution**
 - [@sriharsha_cr](https://twitter.com/sriharsha_cr): Hello world, it's good to start from here! 👍
+- [Arnav Vadnere](https://github.com/arnavvadnere)
 - [Rupika C](https://github.com/rupika14)
 vrushabhpatil48
 - [@LucaOtto] (https://github.com/lucaotto)
