@@ -3304,6 +3304,7 @@ Dante Sanchez
 - [Olayinkascott Andee](https://github.com/scottandee)
 - [Steven Hedges](https://github.com/StevenH34)
 - [Giorgos](https://github.com/geopat24)
+- [thourihan](https://github.com/thourihan)
 - [Faith Adewuyi](https://github.com/faithadewuyi)
 - [Ayush Majumdar]
 - [Suraj](https://github.com/SurajKamal24)
