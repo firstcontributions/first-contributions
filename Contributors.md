@@ -1,4 +1,5 @@
 # Contributors 
+
 - [Callum Haley](https://github.com/binbang12) **Hello world! Let's make you better together!**
 - [Wasiu Yusuf](https://github.com/yusuphwasiu) *Hello Everyone*, I've decided to take my first baby step towards contributing to open source. Although i feel ashamed i should have done this years ago, however, i believe it is never too late to start something worthwhile.*
 - [José Furlán](https://github.com/j-furlan) *My first contribution*, maybe a little to late to start learning about this but here I am.
@@ -14,6 +15,7 @@
 - [Haily Belle Stevens](https://github.com/hailystevens) **see yall at the finish line
 - [Lorenz-127](https://github.com/Lorenz-127) My first contribution
 - [Rahul](https://github.com/R-05368) My first contribution
+- [Victor Diaz](https://github.com/victords84)
 - [Suraj Mitake](https://github.com/mitake2003) **First Constribution 😊**
 - [Abdulai Bah](https://github.com/Abdulai123) **Hello World, first constribution. 😊 PHP, Laravel dev click on my name let connect.**
 - [JohnKun136NVCP](https://github.com/JohnKun136NVCP) **こんにちは, this my contribution. Follow me** 😉🚀
