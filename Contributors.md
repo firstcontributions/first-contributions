@@ -2997,6 +2997,7 @@ Dante Sanchez
 - [Joanna McDonald](https://github.com/joannamcd)
 - [Tianna Lopes](https://github.com/TiannaLopes)
 - [nameless wizard]
+- [dDevAhmed](https://github.com/dDevAhmed/)
 - [WaiyakiDev] (https://github.com/MONSURU-rgb)
 - [toya33](https://github.com/toya33)
 - [Oluwasemilore Omotade-Michaels](https://github.com/shemigam1)
