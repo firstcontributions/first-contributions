@@ -1798,6 +1798,7 @@ guanj65
 - [xiaotianzi](https://github.com/xiaotianzi)
 - [Bhuvanesh Prasad](https://github.com/bhuvaneshprasad)
 - [Westin Smiley](https://github.com/WSmiley-void)
+- [Dvid B Weinstein](https://github.com/dwstein)
 -[Laxman P](https://github.com/laxmanp090404)
 -[Oleksandr Nedzelnytskyi](https://github.com/Sasha2511)
 -[Krunal Patel](https://github.com/kd05)
@@ -2091,6 +2092,7 @@ guanj65
 - [Franco-Spaniard]
 - [Josef Da Costa](https://github.com/Devjosef)
 - [Dev0xgenius]
+- [David B Weinstein](https://github.com/dwstein)
 - [Marc Darryl Dalangin](https://github.com/marcdalangin)
 -[Gideon Kiprono](https://github.com/Gideon-Kiprono)
 - [Jon Orth](https://github.com/funwithgit)
