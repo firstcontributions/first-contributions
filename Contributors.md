@@ -5736,3 +5736,4 @@ Hector
 - [Lukasz Gamza](https://github.com/Lukasz871)
 - [Crystel Ratsimbazafy](https://github.com/crystel1996): **Hello world! Have a good day. This is my first contribution.**
 - [Priyanshu Arya](https://github.com/YASTREAMER) **My first contribution to opensource!_
+- [hirata-keisuke](https://github.com/hirata-keisuke) :sushi:
