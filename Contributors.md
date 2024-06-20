@@ -12,6 +12,7 @@
 - [SavvyHex](https://github.com/SavvyHex) First Contribution!
 - [Ajinkya](https://github.com/AtiwadkarAjinkya) **Hello**
 - [Haily Belle Stevens](https://github.com/hailystevens) **see yall at the finish line
+- [Preston Schumacher](https: //github.com/PrestonSchumacher)**First Contribution!!!**
 - [Lorenz-127](https://github.com/Lorenz-127) My first contribution
 - [Rahul](https://github.com/R-05368) My first contribution
 - [Suraj Mitake](https://github.com/mitake2003) **First Constribution 😊**
