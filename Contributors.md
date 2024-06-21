@@ -67,6 +67,7 @@
 - Harsha (https://github.com/thedevopsknight) First contribution, definitely not the last 🔥❤️
 - [Sumit Chougale](https://github.com/SumitChougale09)🥵
 - [Arushi Gupta](https://github.com/arushi12321) woohoo first contribution.
+- [Jothi Murugan](https://github.com/JothiMurugan-TS) **Hey Guys, This is my first contribution**
 - [leoccom] Hello, Lovely World!
 - [Ashok Kadagala](https://github.com/a-lone-walker/first-contributions) **Namaste y'all**
 - [Oscar Novás](https://oscarnovas.com) My first contribution!!!!
