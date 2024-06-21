@@ -5753,3 +5753,4 @@ Hector
 - [Cheikh Babacar GOUDIABY](https://github.com/cbag1) :cbag1:
 - [anurpeljto](https://github.com/anurpeljto) _I like opensource projects_
 - [jaiderbernal90](https://github.com/jaiderbernal90) _Hello word! This is my first contribution on opensource repo_
+- [NoMeLlamoDante](https://github.com/NoMeLlamoDante) **Dante**
