@@ -12,7 +12,8 @@
 - [Sanil-Surve](https://github.com/Sanil-Surve) **Good Contribution** 
 - [vansh bhatia](https://github.com/vanshbhatia2192) **My first contribution, Hello from India!
 - [Leanna T](https://github.com/morsebones) My first contribution
-- [Arshiyan Shaikh](https://github.com/itsshaikhaj) 
+- [Arshiyan Shaikh](https://github.com/itsshaikhaj)
+- [William Carlstedt](https://github.com/thelizri) **My first contribution to this repo!**
 - [james-a-stephans](https://github.com/james-a-stephans)
 - [SavvyHex](https://github.com/SavvyHex) First Contribution!
 - [Ajinkya](https://github.com/AtiwadkarAjinkya) **Hello**
