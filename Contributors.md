@@ -5690,6 +5690,7 @@ Hector
 - [Akash Gupta](https://github.com/SKY24)
 - [Cecilia Tivir](https://github.com/ctivir)
   ["LM"](https://github.com/lm-2024)
+  ["AMAI"](https://github.com/am2ai)
 - [Asutosh](https://github.com/BedBug2479) ``Just a line``
 - [yumi-kim-0827](https://github.com/yumi-kim-0827)
 - [Rithik Roshan](https://github.com/Rithik1010)
