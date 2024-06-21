@@ -60,6 +60,7 @@
 - [Rowan Cake](https://github.com/rowan-cake) **Go oilers** 
 - [Ameya Patel](https://github.com/ampcod) **My first contribution**
 - [Regis Perrin](https://github.com/perrinregi) **My first contribution**
+- [James Winslow](https://github.com/JamesWinslow123)**Kids can make contributions**
 - [RickContreras](https://github.com/RickContreras) **My first contribution**
 - [Daniel H] **My first contribution**
 - Harsha (https://github.com/thedevopsknight) First contribution, definitely not the last 🔥❤️
