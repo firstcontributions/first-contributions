@@ -8,6 +8,7 @@
 - [Sahil Singh](https://github.com/amberIS01) **My First Contribution**
 - [Alonso - AztFireSpell](https://github.com/aztfirespell) **My Contribution **
 - [Sanil-Surve](https://github.com/Sanil-Surve) **Good Contribution** 
+- [vansh bhatia](https://github.com/vanshbhatia2192) **My first contribution, Hello from India!
 - [Leanna T](https://github.com/morsebones) My first contribution
 - [Arshiyan Shaikh](https://github.com/itsshaikhaj) 
 - [james-a-stephans](https://github.com/james-a-stephans)
