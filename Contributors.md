@@ -3496,6 +3496,7 @@ Dante Sanchez
 - [David Cao](https://github.com/dave-cao)
 - [Abijith L J]
 - [suhny]
+- [cl60]
 - [Bat-Hen Sharvit](https://github.com/bat-chen)
 - [Matteo Urso](https://github.com/MatteoUrso)
 - [David Shandor] (https://github.com/DavidShandor)
