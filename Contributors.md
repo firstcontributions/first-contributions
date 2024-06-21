@@ -1,5 +1,6 @@
 # Contributors 
 [Goran Gelevski] (https:/github.com/goranMecka) ** Hi I am Goran From itay**
+- [Nate R6](https://github.com/nater6) **My First Contribution**
 - [Jaimin Suthar](https://github.com/jaimin78) **Hello, I'm Jaimin From India**
 - [Forest Xiao](https://github.com/XiaoLinhong) **Hello, I'm Forest From China**
 - [Callum Haley](https://github.com/binbang12) **Hello world! Let's make you better together!**
