@@ -5710,6 +5710,7 @@ Hector
 - [Doyle](https://github.com/Cosmo-Doyle)
  Sapphire smith from India, Kerala :) 
 - [Michael-2](https://github.com/mtcode16)
+- [viegasnavin](https://github.com/viegasnavin)
 - [John Pepino] (https://github.com/jvpepino)
 - [Ronithere](https://github.com/Ronithere)
 - [alvaroml](https://github.com/alvaroml)
