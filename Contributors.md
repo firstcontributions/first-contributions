@@ -9,6 +9,7 @@
 - [Sanil-Surve](https://github.com/Sanil-Surve) **Good Contribution** 
 - [Leanna T](https://github.com/morsebones) My first contribution
 - [Arshiyan Shaikh](https://github.com/itsshaikhaj) 
+- [james-a-stephans](https://github.com/james-a-stephans)
 - [SavvyHex](https://github.com/SavvyHex) First Contribution!
 - [Ajinkya](https://github.com/AtiwadkarAjinkya) **Hello**
 - [Haily Belle Stevens](https://github.com/hailystevens) **see yall at the finish line
