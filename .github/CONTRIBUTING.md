@@ -37,6 +37,7 @@ If you're making changes to a translation, please request a review from our prev
 | हिन्दी | [Hindi](../translations/README.hi.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/4654382?s=460&v=4" alt="@arshadkazmi42" />](https://github.com/arshadkazmi42) [<img width="100" src="https://avatars2.githubusercontent.com/u/7047079?s=460&v=4" alt="@sara-02" />](https://github.com/sara-02) [<img width="100" src="https://avatars.githubusercontent.com/u/20799404?v=4" alt="shrut1996" />](https://github.com/shrut1996) |
 | Chhattisgarhi | [Chhattisgarhi](../translations/README.hne.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/54806739?s=400&v=4" alt="@pradyyadav" />](https://github.com/pradyyadav) |
 | Magyar | [Hungarian](../translations/README.hu.md) | []() |
+| Hindi | [Indian] |  |
 | Armenian | [Armenian](../translations/README.hy.md) | []() |
 | Indonesian | [Indonesian](../translations/README.id.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/315048?s=460&v=4" alt="@hahn" />](https://github.com/hahn) |
 | Igbo | [Igbo](../translations/README.igb.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/36197725?v=4" alt="@zecollokaris" />](https://github.com/zecollokaris) []() |
