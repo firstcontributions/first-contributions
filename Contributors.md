@@ -2,6 +2,7 @@
 [Goran Gelevski] (https:/github.com/goranMecka) ** Hi I am Goran From itay**
 - [Nate R6](https://github.com/nater6) **My First Contribution**
 - [Marupaka Sai Teja](https://github.com/saiteja1323) **Just the start!**
+- [Noel](https://github.com/joyles28) **+1**
 - [Jaimin Suthar](https://github.com/jaimin78) **Hello, I'm Jaimin From India**
 - - [Christian](https://github.com/ginoongflores) **Hello, I'm Christian From Philippines**
 - [M3XH4](https://github.com/M3XH4) **Hello, I'm Sean From Philippines**
@@ -30,6 +31,7 @@
 - [Lorenz-127](https://github.com/Lorenz-127) My first contribution
 - [Dizzy] (https://github.com/DizzyG123) **Trying out the new contribution and learning**
 - [AikSaiWan](https://github.com/AikSaiWan) My first contribution
+- [Errol-Anthony-Jano] (https://github.com/Errol-Anthony-Jano)
 - [Rahul](https://github.com/R-05368) My first contribution
 - [Gihan](https://github.com/ceeejeey) My first contribution
 - [Suraj Mitake](https://github.com/mitake2003) **First Constribution 😊**
