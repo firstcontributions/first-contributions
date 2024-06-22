@@ -2582,6 +2582,7 @@ Jasmine
 - [Antonio Fábio](https://github.com/zodiecko)
 - masaymd
 - [Anand Shende](https://github.com/anandshende)
+- [Mogahid Gaffar](https://github.com/MogahidGaffar)
 - [WHA](https://github.com/wynehtetaung)
 - [Captain] (https://github.com/CaptainPatel)
 - [Ishita](https://github.com/elekish)
