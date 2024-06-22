@@ -3,15 +3,7 @@
 - [Nate R6](https://github.com/nater6) **My First Contribution**
 - [Marupaka Sai Teja](https://github.com/saiteja1323) **Just the start!**
 - [Jaimin Suthar](https://github.com/jaimin78) **Hello, I'm Jaimin From India**
-- [Forest Xiao](https://github.com/XiaoLinhong) **Hello, I'm Forest From China**
-- [Callum Haley](https://github.com/binbang12) **Hello world! Let's make you better together!**
-- [Wasiu Yusuf](https://github.com/yusuphwasiu) *Hello Everyone*, I've decided to take my first baby step towards contributing to open source. Although i feel ashamed i should have done this years ago, however, i believe it is never too late to start something worthwhile.*
-- [José Furlán](https://github.com/j-furlan) *My first contribution*, maybe a little to late to start learning about this but here I am.
-- [Houssam Kanso](https://github.com/houssamkanso)**Hello World**
-- [Sudhanshu Kumar](https://github.com/sudhaanshuu) **My Contribution**
-- [Sahil Singh](https://github.com/amberIS01) **My First Contribution**
-- [Alonso - AztFireSpell](https://github.com/aztfirespell) **My Contribution **
-- [Sanil-Surve](https://github.com/Sanil-Surve) **Good Contribution** 
+- [Forest Xiao](https://github.com/XiaoLinhong) **Hello, I'm Forest From 
 - [vansh bhatia](https://github.com/vanshbhatia2192) **My first contribution, Hello from India!
 - [Leanna T](https://github.com/morsebones) My first contribution
 - [K Om Senapati](https://github.com/kom-senapati) *"Hello, I am K Om from India!"*
