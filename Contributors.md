@@ -28,6 +28,7 @@
 - [Lorenz-127](https://github.com/Lorenz-127) My first contribution
 - [Dizzy] (https://github.com/DizzyG123) **Trying out the new contribution and learning**
 - [AikSaiWan](https://github.com/AikSaiWan) My first contribution
+- [Errol-Anthony-Jano] (https://github.com/Errol-Anthony-Jano)
 - [Rahul](https://github.com/R-05368) My first contribution
 - [Gihan](https://github.com/ceeejeey) My first contribution
 - [Suraj Mitake](https://github.com/mitake2003) **First Constribution 😊**
