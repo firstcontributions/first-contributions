@@ -1,7 +1,9 @@
 # Popular CLI Commands for MacOS
 
 
-- `mkdir`: To make directory /n
+- ``` mkdir 
+```
+ : To make directory /n
 - `cd` : To open current directory /n
 - `ls` : To list directory details /n
 - `echo`: Display a line of text /n
