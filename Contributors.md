@@ -314,6 +314,7 @@ vrushabhpatil48
 - [Ankith Veldandi]
 - [Khursheed](https://github.com/khurshied)
 - [MaggieYi](https://github.com/jiaheyi-maggie)
+- [MaggieYi](https://github.com/jiaheyi-maggie)
 - [lokesh](https://github.com/lokeshleela04)
 - [mythily](https://github.com/mythily90)
 - [Gauransh Mathur](https://github.com/GauranshMathur)
