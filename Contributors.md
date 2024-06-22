@@ -1966,6 +1966,7 @@ guanj65
 - [pushrsp] (https://github.com/pushrsp)
 - [YTM] (https://github.com/Yinthirimon02)
 - [Aashish_Singh] (https://github.com/realaashishly/)
+- Nitin Thite [Github](https://github.com/nitint007) [LinkedIn](https://www.linkedin.com/in/thitenitin07/) [hashnode](https://nitinthite.hashnode.dev/)
 - Challa Nishanth Babu [Github](https://github.com/NISHANTH1221) [LinkedIn](https://www.linkedin.com/in/nishanth-babu-challa/)
 - [Jeffrey Huang] (http://github.com/abandons)
 - [Rohit Manivel] (https://github.com/rohit-iwnl)
