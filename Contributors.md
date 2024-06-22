@@ -720,6 +720,7 @@ v0idborne
 - [Stefano Dongowski] (https://github.com/stefanodongowski)
 - [Vadim A] (https://github.com/KriFinnSher)
 - [DevEliasKh](https://github.com/DevEliasKh)
+- [Shali Peng](https://github.com/DingoDang1113)
 - [Anand Suthar](https://github.com/ad956) 👋
 - [Jean Choi] (https://github.com/jeanchoi62)
 - Anish was here !1
