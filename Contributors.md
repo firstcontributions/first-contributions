@@ -5798,3 +5798,4 @@ Hector
 -[Nicolas Frazao](https://github.com/Nicolasfrazao) **My first contribution 
 -[James Elisan] (https://github.com/elisanj23) **my first contribution. 
 -[Bharat Katyal] (https://github.com/bharatkatyal) **First Opensource contribution 
+- [Mohamed Chatr](https://github.com/Mochatr)
