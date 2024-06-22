@@ -726,6 +726,7 @@ v0idborne
 - [Shili] (https://www.linkedin.com/in/shi-li-lin-20075213b/)
 - Luferox paso por aqui
 - [Mikkel Hebel](https://github.com/MikkelHebel)
+- [Daniel Bitengo](https://github.com/Dancode-188) **Wish I did it earlier**
 - [Dastonbek Yakubov](https://github.com/D-Yakubov)
 - [Stefano Dongowski] (https://github.com/stefanodongowski)
 - [Vadim A] (https://github.com/KriFinnSher)
