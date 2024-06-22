@@ -14,6 +14,7 @@
 - [Sanil-Surve](https://github.com/Sanil-Surve) **Good Contribution** 
 - [vansh bhatia](https://github.com/vanshbhatia2192) **My first contribution, Hello from India!
 - [Leanna T](https://github.com/morsebones) My first contribution
+- [K Om Senapati](https://github.com/kom-senapati) *"Hello, I am K Om from India!"*
 - [Gerardo Salinas]() **Hello i'm Gerardo from Honduras and this is my first contribution!** 
 - [Miguel Rubiano](https://github.com/xArkqngel) **Hello, I'm Miguel From Colombia and this is my first contribution.** Chocolate con queso
 - [Arshiyan Shaikh](https://github.com/itsshaikhaj)
