@@ -774,6 +774,7 @@ v0idborne
 - b web
 - I'm Here!
 - Muhammad Afaq Umar ([CodeTalker007](https://github.com/CodeTalker007))
+- Vincent Far (https://github.com/vincentfar)
 - [Saba Azeem](https://github.com/SABA-AZEEM) 😎
 - [JDH121702](https://github.com/justinh121702)
 - [Furyfree](https://github.com/Furyfree)
