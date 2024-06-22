@@ -187,7 +187,7 @@ If you go to your repository on GitHub, you'll see a `Compare & pull request` bu
 
 Now submit the pull request.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" alt="Screen Shot 2024-06-21 at 1 48 07 AM" src="https://github.com/scothann/PRpracticerepo/assets/55214847/35b1f7a5-3ccd-4613-9bd5-22d4984086be">
 
 Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
