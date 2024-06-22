@@ -5760,6 +5760,7 @@ Hector
 - [Sai Bhargav](https://github.com/SaiBhargav11) 
 - [katje3009](https://github.com/katje3009)
 - [huraicid](https://github.com/huraicid) 
+- [coltilkis](https://github.com/coltilkis)
 - [CosminJ2004](https://github.com/CosminJ2004) **Let`s go!**
 - [C4dr-me](https://github.com/c4dr-me) **Yay!!**
 - [Gustavo Galarza](https://github.com/gustavogalarza1091) **Hello!!**
@@ -5789,4 +5790,5 @@ Hector
 - [jaiderbernal90](https://github.com/jaiderbernal90) _Hello word! This is my first contribution on opensource repo_
 - [NoMeLlamoDante](https://github.com/NoMeLlamoDante) **Dante**
 - [AugustFri](https://github.com/AugustFri) **I'm contributing alright**
--[Arnab Paul](https://github.com/arnab1656) **Hello Myself is Very Lucky Go across this Repo and Shout Out And Have Nice Day Ahead**  
+-[Arnab Paul](https://github.com/arnab1656) **Hello Myself is Very Lucky Go across this Repo and Shout Out And Have Nice Day Ahead**
+-[Nicolas Frazao](https://github.com/Nicolasfrazao) **My first contribution 
