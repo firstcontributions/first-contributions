@@ -2837,6 +2837,7 @@ Romeu Leite
 - [test21]
 - John Wood
 -[Anjali Sachan]
+- [Chetan Kesare](https://github.com/0x1Luffy) HardWork Beats Talent !
 - [Elcosas](https://github.com/elcosas)
 -[HP](https://github.com/Hermeshasnowings)
 - [Hemant](https://github.com/hemant187)
