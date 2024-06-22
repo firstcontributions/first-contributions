@@ -583,6 +583,7 @@ chiu
 - [SeahM]
 - [Lama1kid]
 - [Jhutchinson98](https://github.com/Jhutchinson98)
+Richard Faulk
 - oberheitzer
 - [Genie](https://github.com/genie-ru)
 - [DanielTYH]
