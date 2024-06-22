@@ -5780,4 +5780,5 @@ Hector
 - [anurpeljto](https://github.com/anurpeljto) _I like opensource projects_
 - [jaiderbernal90](https://github.com/jaiderbernal90) _Hello word! This is my first contribution on opensource repo_
 - [NoMeLlamoDante](https://github.com/NoMeLlamoDante) **Dante**
+- [Sean Ben](https://github.com/sean-auditor) **Hello world(???)**
 - [AugustFri](https://github.com/AugustFri) **I'm contributing alright**
