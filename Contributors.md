@@ -2498,6 +2498,7 @@ Jasmine
 - [Okuta Omeiza](https://github.com/omeiza-devops)
 - [AnshJain]
 - [Aditya Pandey](https://github.com/aditya-524)
+- [Richyp] (https://github.com/richyp)
 - [TexelHack](https://github.com/texelh4ck)
 - [Gnanendra M](https://github.com/developer-in-wor)
 - [matheus-silva-791085] (https://github.com/Theu011)
