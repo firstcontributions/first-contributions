@@ -1763,6 +1763,7 @@ Kencham Vinay
 -[AmirAbbas Mousavi](https://github.com/Amir-A-M)
 -[DavidOhanyan](https://github.com/DavidOhanyan)
 -[Maria Sui](https://github.com/msui51)
+-[Sneha Holehonnur Sridhar](https://github.com/SnehaHS65) My First Open Source Code
 -[Buhari Ahmed](https://github.com/makajeez)
 - T Mez
 - [Tri Phan] (https://github.com/MuroKouro)
