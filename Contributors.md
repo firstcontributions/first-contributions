@@ -32,6 +32,7 @@
 - [Rishi Srivastava](https://github.com/Lordgrim999)
 - [Arshiyan Shaikh](https://github.com/itsshaikhaj)
 - [William Carlstedt](https://github.com/thelizri) **My first contribution to this repo!**
+- [Anikesh Thakur](https://github.com/Anikesh348) **My first contribution here**
 - [james-a-stephans](https://github.com/james-a-stephans)
 - [SavvyHex](https://github.com/SavvyHex) First Contribution!
 - [Ajinkya](https://github.com/AtiwadkarAjinkya) **Hello**
