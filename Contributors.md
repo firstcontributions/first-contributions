@@ -128,6 +128,7 @@
 - [Ntokozo-Ndlovu](https://github.com/Ntokozo-Ndlovu)
 - [Shashank](https://github.com/U-Shashank)
 - [ISRAEL](https://github.com/U-israel)
+- [Barbara Mangiri] (https://github.com/barbzyqueen) **Hello fellow contributors! This is my first contribution.**
 - [Uday Kumar Reddy](https://github.com/Uday517) **We are here today to be on top of the world someday LFG!!!!**
 - [Fredrick Oladipupo](https://github.com/fredpen) let's go 🚀
 - [Adeduende](https://github.com/adesduende) **My first contribution** 
