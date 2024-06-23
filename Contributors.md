@@ -6,6 +6,7 @@
 - [Nate R6](https://github.com/nater6) **My First Contribution**
 - [Marupaka Sai Teja](https://github.com/saiteja1323) **Just the start!**
 - [Noel](https://github.com/joyles28) **+1**
+- Ruchitankshi
 - [Jaimin Suthar](https://github.com/jaimin78) **Hello, I'm Jaimin From India**
 - - [Christian](https://github.com/ginoongflores) **Hello, I'm Christian From Philippines**
 - [M3XH4](https://github.com/M3XH4) **Hello, I'm Sean From Philippines**
