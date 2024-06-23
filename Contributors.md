@@ -651,6 +651,7 @@ Richard Faulk
 - [Kevin Maldonado-Cota](https://github.com/Kevinm27) I was here
 - Alexander Gullen wuz here
 - [Aditya] (https://github.com/Aditya41150) open source here i come
+- [Sky] (https://github.com/cyng268/) I love github
 - [Guille] (https://github.com/glopezpisani) Heya! Contributing here
 - [Ajay Yadav](https://github.com/ATechAjay), contribute to this repo;)
 - Shane (https://github.com/ShaneTAdams)
