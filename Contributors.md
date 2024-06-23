@@ -16,6 +16,7 @@
 - [Houssam Kanso](https://github.com/houssamkanso)**Hello World**
 - [Collin Clifford](https://github.com/CollinClifford)
 - [Sudhanshu Kumar](https://github.com/sudhaanshuu) **My Contribution**
+- [Pratham Raj](https://github.com/itsprs) **Just a clean start 🌿, Visit my website (https://imprs.vercel.app)**
 - [Sahil Singh](https://github.com/amberIS01) **My First Contribution**
 - [Alonso - AztFireSpell](https://github.com/aztfirespell) **My Contribution **
 - [Daniel Alexandru] (https://github.com/04lex) *My first push to an open-source, hello fellow contributors!*
