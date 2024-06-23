@@ -3861,6 +3861,7 @@ Philip Ambattu
 - [Sinan Balıbey](https://github.com/sinanbalibey)
 - [Rob](https://github.com/robbievolker)
 - [Taylor Cottrell](https://github.com/tlcottr)
+- [FredyGuerrero](https://github.com/manager-gos-sas/)
 - [HWu](https://github.com/Aucannot)
 - [JJM](https://github.com/Jiaming-Jin)
 - [OneSrX](https://github.com/OneSrX)
