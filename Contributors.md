@@ -1,4 +1,5 @@
 # Contributors 
+- [Tarzan] (https://github.com/Tarzan-07)
 [Goran Gelevski] (https:/github.com/goranMecka) ** Hi I am Goran From itay**
 - [Nate R6](https://github.com/nater6) **My First Contribution**
 - [Marupaka Sai Teja](https://github.com/saiteja1323) **Just the start!**
