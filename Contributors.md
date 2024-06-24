@@ -3929,6 +3929,7 @@ Philip Ambattu
 - [Prabel](https://github.com/HiPrabel)
 - [Aryan Mahida](https://github.com/aryan083)
 - [Vetle HJ](https://github.com/VetleHJ)
+- [Niranjan A S](https://github.com/Niranjan-A-S)
 - [Avinash Mangalore Suresh](https://github.com/msavinash)
 - [Ridhi Priya](https://github.com/Ridhi-priya)
 - [Deepak Saini](https://github.com/dipaksaini98)
