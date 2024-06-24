@@ -1006,6 +1006,7 @@ Abhinav Jain
 - [Yogesh Khutwad](https://github.com/YogeshK34)
 - [mary](https://github.com/mary)
 - [Khin Myat Myat Thein](https://github.com/khinmyat29)
+- [Sajini Weerasinghe](https://github.com/SajiniWeerasinghe)
 - [James Olsen](https://github.com/olsenjames1116)
 - [Ryan Frederich](http://github.com/ryansurf)
 - [Capra94] (http://github.com/Capra94)
