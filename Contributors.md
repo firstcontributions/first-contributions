@@ -381,6 +381,7 @@ vrushabhpatil48
 - [Sudip Shrestha](https://github.com/sudipstha08)
 - [Bunmi Oye](hhttps://github.com/cyanhead)
 - [May Thu Htet](https://github.com/may-thu-htet)
+Nitol Chowdhury
 - [Jonas Fahrney] (https://github.com/b0n3l3ss/)
 - [SK Deeraj] (https://github.com/DeerajKarthik)
 - [Rohit Ambati](https://github.com/rohitambati)
@@ -1600,6 +1601,7 @@ weissbrotjaeger
 - [Rudi Bakaal](https://github.com/rudibakaal)
 - Justin Blake
 igntius praise 
+[Nitol Chowdhury]
 - [satoshi nakamoto](https://en.wikipedia.org/wiki/Adam_Back)
 - [Akash Sharma](https://github.com/aakashsharma003):कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि।।
 - [RitikShukla](https://github.com/kalm-dev)
@@ -1613,7 +1615,7 @@ igntius praise
 - [AnaMontero](https://github.com/AnaMontero)
 - [Rahul Patanwadia](https://github.com/Rahul-Patanwadia)
 - [Veronika Gorbatenko](https://github.com/veron-ee)
-- [Afnan Abdul] (https://github.com/AfnanAbdul)
+- [Afnan Abdul] (https://github.com/AfnanAbdul)~
 - [Wilovy09](https://github.com/Wilovy09)
 - [Azra Naseri](https://github.com/AzraNaseri)(https://www.linkedin.com/in/azra-naseri/)
   [Shubham Kumar] ((https://github.com/)
