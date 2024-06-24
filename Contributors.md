@@ -76,6 +76,7 @@
 - [Sidharth N Krishna](https://github.com/Sidharth-NK)**My first open-source contribution!!**
 - [sia-6](https://github.com/sia-6) Hi😸
 - [Shreyan](https://github.com/shreyannandanwar) **Contribution, It was EPIC
+- [raoole2](https://github.com/raoole20) Follow me!
 - [Jonai Bolaños](https://github.com/Jonayj0) **Contribuyendo, Sigueme en Linkedin (https://www.linkedin.com/in/jonay-bolanos-molina/)
 - [Biswajit](https://github.com/ImBiswajitslg) First contribution
 - [Julio Paz](https://github.com/juliopzsosa) Follow me!
