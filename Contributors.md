@@ -8,6 +8,7 @@
 - [Nate R6](https://github.com/nater6) **My First Contribution**
 - [Marupaka Sai Teja](https://github.com/saiteja1323) **Just the start!**
 - [Noel](https://github.com/joyles28) **+1**
+- [graycracker1](https://github.com/graycracker1) **First Contribution start of something new**
 - Ruchitankshi
 - [Kuzey Görgülü](https://github.com/KuzeyGorgulu)**Hey! Kuzey Görgülü from Turkey! A good way to start my career, huh?**
 - [Jaimin Suthar](https://github.com/jaimin78) **Hello, I'm Jaimin From India**
@@ -75,6 +76,7 @@
 - [Sidharth N Krishna](https://github.com/Sidharth-NK)**My first open-source contribution!!**
 - [sia-6](https://github.com/sia-6) Hi😸
 - [Shreyan](https://github.com/shreyannandanwar) **Contribution, It was EPIC
+- [raoole2](https://github.com/raoole20) Follow me!
 - [Jonai Bolaños](https://github.com/Jonayj0) **Contribuyendo, Sigueme en Linkedin (https://www.linkedin.com/in/jonay-bolanos-molina/)
 - [Biswajit](https://github.com/ImBiswajitslg) First contribution
 - [Julio Paz](https://github.com/juliopzsosa) Follow me!
