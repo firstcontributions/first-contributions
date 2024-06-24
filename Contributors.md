@@ -5846,3 +5846,4 @@ Hector
 - [huynhhit92](https://github.com/huynhsx) **Hi there!**
 - [gmpy99] (https://github.com/gmpy99) *Hi*
 - [Rapphy243](https://github.com/rapphy243) :wave:
+- [Juandent] (https://github.com/juandent/first-contributions) Hello!
