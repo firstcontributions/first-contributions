@@ -23,6 +23,7 @@
 -[win khant](https://github.com/WinKhantNaing)**Hello World**
 - [morenzo rafael]
 - [Collin Clifford](https://github.com/CollinClifford)
+- [Oksana](https://github.com/oprokopieva382) **Yo, all contributors! Let's polish our skills and help open source projects!**
 - [Sudhanshu Kumar](https://github.com/sudhaanshuu) **My Contribution**
 - [Pratham Raj](https://github.com/itsprs) **Just a clean start 🌿, Visit my website (https://imprs.vercel.app)**
 - [Sahil Singh](https://github.com/amberIS01) **My First Contribution**
