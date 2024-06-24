@@ -158,6 +158,7 @@ yumi-kim-0827
 -[Gianni] First contribution
 >>>>>>> origin/main
 - [emitaka](https://github.com/emitakaa) ola papus :vvvv
+- [Rohit](https://github.com/hack-sketch) **Hello there!!**
 - [Ivan Chekunkov](https://github.com/ivan-chekunkov)**Hi! 😃**
 [Sreeraj N R] https://github.com/astralsmith  -  I started from here! 😊
 - [HongweiRuan] (https://github.com/HongweiRuan) Nice to meet you guys✌️
