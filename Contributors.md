@@ -37,6 +37,7 @@
 - [Dibyendu Bhattacharya](https://github.com/Debu20051115) **Have a good day to anyone who is reading** 
 - [Miguel Rubiano](https://github.com/xArkqngel) **Hello, I'm Miguel From Colombia and this is my first contribution.** Chocolate con queso
 - [Rishi Srivastava](https://github.com/Lordgrim999)
+- [morenzo](https://github.com/morenzorafael)
 - [Arshiyan Shaikh](https://github.com/itsshaikhaj)
 - [William Carlstedt](https://github.com/thelizri) **My first contribution to this repo!**
 - [Gokula Krishnan](https://github.com/Gokulakrishnan-r) **Hello, Happy to be part of Opensource Contributions. Better late than never to contribute. 
