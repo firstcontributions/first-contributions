@@ -5870,6 +5870,7 @@ Hector
 -[Nicolas Frazao](https://github.com/Nicolasfrazao) **My first contribution 
 -[James Elisan] (https://github.com/elisanj23) **my first contribution. 
 -[Bharat Katyal] (https://github.com/bharatkatyal) **First Opensource contribution 
+- [DonTheScot](https://github.com/DonTheScot) **2nd 1st Commit**
 - [Mohamed Chatr](https://github.com/Mochatr)
 - [Travis Buchan](https://github.com/TravisBuchan) **Hello, world **
 - [u2au](https://github.com/u2au) **First contribution** >w<
