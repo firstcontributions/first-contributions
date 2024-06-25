@@ -5849,5 +5849,6 @@ Hector
 - [Suraj Wate](https://github.com/surajwate) **Hello.**
 - [huynhhit92](https://github.com/huynhsx) **Hi there!**
 - [gmpy99] (https://github.com/gmpy99) *Hi*
+- [justintaekim] (https://github.com/justintaekim) *Wassup yall im here to reinvent the wheel*
 - [Rapphy243](https://github.com/rapphy243) :wave:
 - [Juandent] (https://github.com/juandent/first-contributions) Hello!
