@@ -15,6 +15,7 @@ SahilDhavale
 - [frankfolabi](https://github.com/frankfolabi) ***DevOps Engineer*** Connect with me on ![LinkedIn](https://linkedin.com/in/frankfolabi) 
 - [SHIVAM](https://github.com/GH-Shivam007)
 - [Tarzan] (https://github.com/Tarzan-07)
+- [Vetrii] (https://github.com/laughingbuoy)
 - [Conner Whitis] (https://github.com/Continniuum) ** Hello All!**
 - [Ridwan Yinus](https://github.com/ridwanyinus) My first contribution 💫
 [Goran Gelevski] (https:/github.com/goranMecka) ** Hi I am Goran From itay**
