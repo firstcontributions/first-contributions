@@ -97,6 +97,7 @@ Esta es mi primera contribucion por parte de la URC
 - [Charles](https://github.com/charcg) 
 - [N0madC0de](https://github.com/N0madC0de)**Hello World! My first contribution at age 37. Seems a bit late but I am glad that I started.**
 - [CrozzDev](https://github.com/crozzdev) Follow me if you are interest in FullStack programming!
+- [Sam](https://github.com/MHLSamM)**First contribution, hopefully one of many!**
 - [David Zhu](https://github.com/charcg)
 - [Sriaknth Peetha](https://github.com/skpeetha)
 - [Tarun Khadolia](https://github.com/Tarunkhadolia11)
