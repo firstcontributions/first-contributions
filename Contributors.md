@@ -159,6 +159,7 @@ Esta es mi primera contribucion por parte de la URC
 - [Abigail sylvie](https://github.com/abigailsylvie) this is were i began my journey!
 - [Eduardo Castro](https://github.com/eduardocastrogt) **This is my first contribution!!!**
 - [ashish0kumar](https://github.com/ashish0kumar)
+- [Akash Arumugam](https://github.com/akasharumugamm)
 - [Ntokozo-Ndlovu](https://github.com/Ntokozo-Ndlovu)
 - [Shashank](https://github.com/U-Shashank)
 - [Aparanji Nemmani](https://github.com/aparanji49) **I'm Aparanji and it's my First Contribution!**
