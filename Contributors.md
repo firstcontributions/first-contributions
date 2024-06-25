@@ -148,6 +148,7 @@ Esta es mi primera contribucion por parte de la URC
 - [José Vitor] (https://github.com/Jose-silvaa)**My first contribution**
 - [Abigail sylvie](https://github.com/abigailsylvie) this is were i began my journey!
 - [Eduardo Castro](https://github.com/eduardocastrogt) **This is my first contribution!!!**
+- [ashish0kumar](https://github.com/ashish0kumar)
 - [Ntokozo-Ndlovu](https://github.com/Ntokozo-Ndlovu)
 - [Shashank](https://github.com/U-Shashank)
 - [ISRAEL](https://github.com/U-israel)
