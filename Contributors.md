@@ -5,6 +5,7 @@
 - [Shailesh Chauhan](https://github.com/sh1lezh) **Hey My first contri** Connect with me [X.com](https://x.com/sh1lezh) [Linkedin](https://linkedin.com/in/shaileshcn)
 - [Rudra]
 -[Mihir](https://github.com/MIHIRstoic)***first time***
+-[Shruti] (https://github.com/shrutigupta02) **this is my first contribution, hello all!**
 - [Vaishnavi] (https://github.com/vishu1089) ***First Time, Hello to all!***
 - [Arul MUrugan](https://github.com/ArulMurugan13)
 - [frankfolabi](https://github.com/frankfolabi) ***DevOps Engineer*** Connect with me on ![LinkedIn](https://linkedin.com/in/frankfolabi) 
