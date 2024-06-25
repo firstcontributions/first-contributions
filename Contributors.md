@@ -145,6 +145,7 @@ Esta es mi primera contribucion por parte de la URC
 - [Bhukya-Sriram] (https://github.com/Bhukya-Sriram) **role_of_smile**
 - [Young Eun Choi](https://github.com/youngeunChoi) **Hello Everyone!**
 - [PalashSharma20](https://github.com/PalashSharma20) Hello!
+- [so-ch](https://github.com/so-ch) Hey :) Thanks for teaching me how to do this! 🌞
 - [José Vitor] (https://github.com/Jose-silvaa)**My first contribution**
 - [Abigail sylvie](https://github.com/abigailsylvie) this is were i began my journey!
 - [Eduardo Castro](https://github.com/eduardocastrogt) **This is my first contribution!!!**
