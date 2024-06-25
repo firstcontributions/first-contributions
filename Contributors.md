@@ -363,6 +363,7 @@ vrushabhpatil48
 - [MaggieYi](https://github.com/jiaheyi-maggie)
 - [MaggieYi](https://github.com/jiaheyi-maggie)
 - [lokesh](https://github.com/lokeshleela04)
+- [DarkSlayer102](https://github.com/DarkSlayer102)
 - [mythily](https://github.com/mythily90)
 - [Gauransh Mathur](https://github.com/GauranshMathur)
 - [Akshat Kumar](https://github.com/Akshat2713)
