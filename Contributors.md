@@ -28,7 +28,8 @@
 - [Wasiu Yusuf](https://github.com/yusuphwasiu) *Hello Everyone*, I've decided to take my first baby step towards contributing to open source. Although i feel ashamed i should have done this years ago, however, i believe it is never too late to start something worthwhile.*
 - [José Furlán](https://github.com/j-furlan) *My first contribution*, maybe a little to late to start learning about this but here I am.
 - [Houssam Kanso](https://github.com/houssamkanso)**Hello World**
--[win khant](https://github.com/WinKhantNaing)**Hello World**
+- [Jessika](https://github.com/Jessika297)**Hello there**
+- [win khant](https://github.com/WinKhantNaing)**Hello World**
 - [morenzo rafael]
 - [Collin Clifford](https://github.com/CollinClifford)
 - [Oksana](https://github.com/oprokopieva382) **Yo, all contributors! Let's polish our skills and help open source projects!**
