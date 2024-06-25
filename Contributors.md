@@ -3,6 +3,7 @@
 - [himanshu-sheetlani](https://github.com/himanshu-sheetlani) [![GitHub](https://img.icons8.com/?size=30&id=sbhfmWq4KRr1)](https://github.com/himanshu-sheetlani) Hello I'm **Himanshu Sheetlani** from **India 🇮🇳** currently pursuing my bachelor's degree in engineering. This is my first contribution, I want to enter the world of open source and this is my first step towards it. Feel free to connect with me on [![LinkedIn](https://img.icons8.com/?size=25&id=xuvGCOXi8Wyg)](https://linkedin.com/in/himanshu-sheetlani) 
 - [Eunbi-Sung]
 - [Rudra]
+- [Arul MUrugan](https://github.com/ArulMurugan13)
 - [frankfolabi](https://github.com/frankfolabi) ***DevOps Engineer*** Connect with me on ![LinkedIn](https://linkedin.com/in/frankfolabi) 
 - [SHIVAM](https://github.com/GH-Shivam007)
 - [Tarzan] (https://github.com/Tarzan-07)
