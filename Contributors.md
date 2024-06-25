@@ -28,7 +28,8 @@
 - [Wasiu Yusuf](https://github.com/yusuphwasiu) *Hello Everyone*, I've decided to take my first baby step towards contributing to open source. Although i feel ashamed i should have done this years ago, however, i believe it is never too late to start something worthwhile.*
 - [José Furlán](https://github.com/j-furlan) *My first contribution*, maybe a little to late to start learning about this but here I am.
 - [Houssam Kanso](https://github.com/houssamkanso)**Hello World**
--[win khant](https://github.com/WinKhantNaing)**Hello World**
+- [Jessika](https://github.com/Jessika297)**Hello there**
+- [win khant](https://github.com/WinKhantNaing)**Hello World**
 - [morenzo rafael]
 - [Collin Clifford](https://github.com/CollinClifford)
 - [Oksana](https://github.com/oprokopieva382) **Yo, all contributors! Let's polish our skills and help open source projects!**
@@ -148,6 +149,7 @@ Esta es mi primera contribucion por parte de la URC
 - [José Vitor] (https://github.com/Jose-silvaa)**My first contribution**
 - [Abigail sylvie](https://github.com/abigailsylvie) this is were i began my journey!
 - [Eduardo Castro](https://github.com/eduardocastrogt) **This is my first contribution!!!**
+- [ashish0kumar](https://github.com/ashish0kumar)
 - [Ntokozo-Ndlovu](https://github.com/Ntokozo-Ndlovu)
 - [Shashank](https://github.com/U-Shashank)
 - [ISRAEL](https://github.com/U-israel)
@@ -1158,6 +1160,7 @@ git add Contributors.md# Contributors
 - [zisuu](https://github.com/zisuu)
 - [Prashant Singh](https://github.com/prashantsingh181)
 - [Brennan Pate] (https://github.com/brennanpate)
+- ADJStreams - [github](https://github.com/adjstreams) // [X/Twitter](https://x.com/adjstreams) // [twitch](https://twitch.tv/adjstreams) 
 - [Weslen Lakins](https://github.com/WeslenLakins)
 - [Rances Rodriguez] (https://github.com/caliza)
 - [Giorgos Papoutsakis](https://github.com/GiorgosPapoutsakis)
