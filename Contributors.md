@@ -22,6 +22,8 @@ SahilDhavale
 - [Ridwan Yinus](https://github.com/ridwanyinus) My first contribution 💫
 [Goran Gelevski] (https:/github.com/goranMecka) ** Hi I am Goran From itay**
 - [Nate R6](https://github.com/nater6) **My First Contribution**
+- [Anoop sharma](https://github.com/FatPoki) **My First Contribution**
+
 - [Marupaka Sai Teja](https://github.com/saiteja1323) **Just the start!**
 - [Noel](https://github.com/joyles28) **+1**
 - [graycracker1](https://github.com/graycracker1) **First Contribution start of something new**
@@ -30,7 +32,7 @@ SahilDhavale
 - [Jaimin Suthar](https://github.com/jaimin78) **Hello, I'm Jaimin From India**
 - - [Christian](https://github.com/ginoongflores) **Hello, I'm Christian From Philippines**
 - [M3XH4](https://github.com/M3XH4) **Hello, I'm Sean From Philippines**
-- [Forest Xiao](https://github.com/XiaoLinhong) **Hello, I'm Forest From China**
+- [Forest Xiao](https://github.com/XiaoLinhong) **Hello, I'm  From China**
 - [xndr](https://github.com/xndrgit) **Ehyy!, I'm Xander From Italy! Feel free to contact me!**
 - [Callum Haley](https://github.com/binbang12) **Hello world! Let's make you better together!**
 - [Wasiu Yusuf](https://github.com/yusuphwasiu) *Hello Everyone*, I've decided to take my first baby step towards contributing to open source. Although i feel ashamed i should have done this years ago, however, i believe it is never too late to start something worthwhile.*
