@@ -14,6 +14,7 @@ SahilDhavale
 -[Mihir](https://github.com/MIHIRstoic)***first time***
 -[Shruti] (https://github.com/shrutigupta02) **this is my first contribution, hello all!**
 - [Vaishnavi] (https://github.com/vishu1089) ***First Time, Hello to all!***
+- [Aaina Akbar] (https://www.github.com/aaina942) ***First Timer***
 - [Arul MUrugan](https://github.com/ArulMurugan13)
 - [frankfolabi](https://github.com/frankfolabi) ***DevOps Engineer*** Connect with me on ![LinkedIn](https://linkedin.com/in/frankfolabi) 
 - [SHIVAM](https://github.com/GH-Shivam007)
