@@ -137,7 +137,7 @@ Esta es mi primera contribucion por parte de la URC
 - [prawin999] - all then best:)
 - [Ganesh Rajana] - Krishna University --> Machilipatnam 
 - [jatinpatel77] - testing first controbution
-- Paul Davidson - Hello, Fellow Devs
+- [Paul Davidson](https://github.com/Pauljd1) - Hello, Fellow Devs
 - [Rowan Cake](https://github.com/rowan-cake) **Go oilers** 
 - [Ameya Patel](https://github.com/ampcod) **My first contribution**
 - [Regis Perrin](https://github.com/perrinregi) **My first contribution**
