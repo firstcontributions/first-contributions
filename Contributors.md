@@ -240,6 +240,8 @@ vrushabhpatil48
 - [Abhishikt Emmanuel Prakash](https://x.com/iam_abhishikt) **And kids, here it all started 📈**
 - [@jakeevans00](https://github.com/jakeevans00) 🦆🦆🦆🦆🦆🦆...🦆 
 - [Erin Tiha]
+- [swastik]  **_MyFirstContribution_** 
+- mai pagal hu
 - [Luca Caputo] (https://github.com/lucapu88) **Hello there**
 - [Ahzem](https://github.com/ahzem) **Love to OpenSource**
 - [Elmer](https://github.com/baca217) **Hello world!**
