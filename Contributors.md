@@ -5888,3 +5888,4 @@ Hector
 - [Shrikanth](https://github.com/srics-dev)
 - [Saurabh Deshmukh] (https://github.com/saurabh-deshmukh)
 - [Mielon](https://github.com/mielonxd) **Hello everyone**
+- [Nicolous](https://github.com/nicolous-peril) **Hello! Excited to learn Git and GitHub!**
