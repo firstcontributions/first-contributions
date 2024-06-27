@@ -1,5 +1,6 @@
 # Contributors 
-- [Thu Rain Ko] 
+- [Thu Rain Ko]
+- [Imran Parthib](https://github.com/ImranParthiib)
 - [SrinidhiPS11](https://github.com/SrinidhiPs11)**Small step for man, Big step for mankind.**
 - [Hacetheworld](https://github.com/hacetheworld)  **Learning about open source ,hopefully will build cool things in the future.** Say Hii to me on **[Linkdin](https://www.linkedin.com/in/ajay-meena1/)**
 - [nhatminh0509](https://github.com/nhatminh0509) **Hi I am Nhat from VN**
