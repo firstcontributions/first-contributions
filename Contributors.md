@@ -21,7 +21,6 @@
 - Chralsh (https://github.com/Chralsh) First contribution on a open-source 🤯
 - Matt Steel (https://github.com/mattsteel87) **G'day!**
 - [Gloria Ebube Okeke](https://github.com/gloriaebubeokeke) **I finally get to do this.**
-- Connect with Gloria on Linkedin (https://www.linkedin.com/in/gloria-okeke-e-j/)
 - - Sumaira(https://github.com/Sumairahafeez) **Learning New**
 - Anirudh(https://github.com/panipurimasala/)**Building stuff**
 - Mahima Uliyar (https://github.com/mahimu04) 
@@ -38,6 +37,7 @@
 - Devjit [devjit-sarkar](https://github.com/devjit-sarkar) My first contribution to an open-source repo! Thanks!
 - [Enrico Piffer](https://github.com/enrypiff) - Check out my contributions!
 - [krishealty](https://github.com/krishealty) **i bet you wont find a more detailed readme file than mine.**
+- Connect with Gloria on Linkedin (https://www.linkedin.com/in/gloria-okeke-e-j/)
 - [Reyas-addy](https://github.com/rewyekha) **Nothing to Anything🫵🏼**
 - [Na-Tag](https://github.com/Na-Tag) **hi, cotributors!**
 -irvincardoza
