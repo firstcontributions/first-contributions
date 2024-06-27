@@ -3457,6 +3457,7 @@ Dante Sanchez
 - [Racheal Oyebamiji](https://github.com/rachealeniola)
 - [FBirdCS](https://github.com/flappybirdcs)
 - [Anslem](https://github.com/Anslem1)
+- [Nehal Ingole](https://github.com/Ingole712521)
 - [Kelvin okumu](https://github.com/kelvinokumu)
 - [Betsalel Geoffrey GOLO] (https://github.com/betsalel44)
   [Achraf Elhadjaoui] (https://github.com/achrafelhadjaoui)
