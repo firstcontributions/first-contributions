@@ -4,6 +4,7 @@
 - [Hacetheworld](https://github.com/hacetheworld)  **Learning about open source ,hopefully will build cool things in the future.** Say Hii to me on **[Linkdin](https://www.linkedin.com/in/ajay-meena1/)**
 - [nhatminh0509](https://github.com/nhatminh0509) **Hi I am Nhat from VN**
 - [JIMIN1020](https://github.com/JIMIN1020) **Hi 👋**
+- [Aarav Bundela](https://github.com/Ab20zip) **_"Programs must be written for people to read, and only incidentally for machines to execute."_ - Harold Abelson**
 - [angad363](https://github.com/angad363) **My first open source contribution!!**
 - [Ayid Sudirman](https://github.com/a10n-jsd) | **I use a computer to build things** 
 - [dakotaepton](https://github.com/dakotaepton) **Way too late to the contributor party but let's get it.**
