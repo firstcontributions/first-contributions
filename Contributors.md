@@ -20,6 +20,7 @@
 - [Vishal Verma (https://github.com/VishalVermaa01) **One Piece is real!!**
 - Chralsh (https://github.com/Chralsh) First contribution on a open-source 🤯
 - Matt Steel (https://github.com/mattsteel87) **G'day!**
+- [Gloria Ebube Okeke](https://github.com/gloriaebubeokeke) **I finally get to do this.**
 - - Sumaira(https://github.com/Sumairahafeez) **Learning New**
 - Anirudh(https://github.com/panipurimasala/)**Building stuff**
 - Mahima Uliyar (https://github.com/mahimu04) 
