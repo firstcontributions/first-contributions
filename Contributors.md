@@ -30,6 +30,7 @@ SahilDhavale
 - [Mowriyaa BK](https://github.com/techiemow)
 - [SHIVAM](https://github.com/GH-Shivam007)
 - [DavidUGH](https://github.com/DavidUGH)
+- [JackJUson](https://github.com/JackJUson) **Hello Everyone!!! Lets get things going!!!**
 - [Tarzan] (https://github.com/Tarzan-07)
 - [Vetrii] (https://github.com/laughingbuoy)
 - [Conner Whitis] (https://github.com/Continniuum) ** Hello All!**
