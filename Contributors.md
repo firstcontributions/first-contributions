@@ -2554,6 +2554,7 @@ Jasmine
 - [benjamindotdev](https://github.com/benjamindotdev)
 -[Prisha Behera] (https://github.com/prisha-behera)
 - [Adam Dobelbower](https://github.com/adobe5062)
+  [jinscoding](https://github.com/jinscoding)
 - [chrisgitn] (https://github.com/chrisgitn)
 - [Enrique Garcia](https://github.com/enriquegv001)
 - [Kevin B] (https://github.com/KJBlinn01)
