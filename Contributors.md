@@ -322,6 +322,7 @@ vrushabhpatil48
 - [Avantikka](https://github.com/avanti146)
 - [Roopesh](https://github.com/Roopasdev)
 - Kazu Sakamoto
+- [Shay] (https://github.com/Devid3000/first-contributions) **Hello World! My first contribution :)**
 - [Jonathan Lu] (https://github.com/jonL0001) **Hello World! Turning a new leaf (:**
 - Aditya Lohar (https://github.com/AdityaLohar)
 - [aayushgupta1](https://github.com/aayushgupta1) **Hello World! My first contribution :)**
