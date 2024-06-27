@@ -441,6 +441,7 @@ vrushabhpatil48
 - [Sudip Shrestha](https://github.com/sudipstha08)
 - [Bunmi Oye](hhttps://github.com/cyanhead)
 - [May Thu Htet](https://github.com/may-thu-htet)
+- [hajin24](https://github.com/hajin0324)
 - [Jonas Fahrney] (https://github.com/b0n3l3ss/)
 - [SK Deeraj] (https://github.com/DeerajKarthik)
 - [Rohit Ambati](https://github.com/rohitambati)
