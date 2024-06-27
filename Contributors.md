@@ -811,6 +811,7 @@ v0idborne
 - [Learnmore Mombe] (https://github.com/lenmorelms) Greetings from Zimbabwe, nice meeting ya'll.
 - [Harsh Suthar](https://github.com/10234567Z)
 - [Shili Lin](https://github.com/shililin92)
+- [jh0222](https://github.com/jh0222)
 - [Aby George](https://github.com/AbyG1)
 - [Parm Dhillon](https://github.com/parm-is-coding/)
 - [Shili] (https://www.linkedin.com/in/shi-li-lin-20075213b/)
