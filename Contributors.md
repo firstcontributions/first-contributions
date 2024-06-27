@@ -5731,6 +5731,7 @@ git stat
 - [Joyce](https://github.com/swejoycechoi)
 - [S-mburu](https://github.com/S-Mburu)
 - [magphis](https://github.com/magphis)
+- [Abigeal Afolabi] (https://github.com/Arbythecoder) My first open source contributions, yes!
 - [Jeremytsai6987](https://github.com/Jeremytsai6987)
 - [bob-feracho](https://github.com/bob-feracho)
 - [Juanes527](https://github.com/Juanes527)
