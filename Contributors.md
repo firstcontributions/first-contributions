@@ -180,6 +180,7 @@ Esta es mi primera contribucion por parte de la URC
 - Chralsh (https://github.com/Chralsh) First contribution on a open-source 🤯
 - **Claudio Mendonça**[![GitHub](https://img.icons8.com/?size=30&id=sbhfmWq4KRr1)](https://github.com/ClaudioMendonca-Eng/) [![LinkedIn](https://img.icons8.com/?size=25&id=xuvGCOXi8Wyg)](https://www.linkedin.com/in/claudio-mendonca/)👋 **Thanks for the opportunity!** 😁
 - Matt Steel (https://github.com/mattsteel87) **G'day!**
+- [Gloria Ebube Okeke](https://github.com/gloriaebubeokeke) **I finally get to do this.**
 - - Sumaira(https://github.com/Sumairahafeez) **Learning New**
 - Anirudh(https://github.com/panipurimasala/)**Building stuff**
 - Habibullahi Mohammed(https://github.com/habibullaimohammed) **Lovely repo**
