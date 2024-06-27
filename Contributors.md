@@ -2,6 +2,7 @@
 - [Thu Rain Ko] 
 - [SrinidhiPS11](https://github.com/SrinidhiPs11)**Small step for man, Big step for mankind.**
 - [nhatminh0509](https://github.com/nhatminh0509) **Hi I am Nhat from VN**
+- [JIMIN1020](https://github.com/JIMIN1020) **Hi 👋**
 - [angad363](https://github.com/angad363) **My first open source contribution!!**
 - [Ayid Sudirman](https://github.com/a10n-jsd) | **I use a computer to build things** 
 - [dakotaepton](https://github.com/dakotaepton) **Way too late to the contributor party but let's get it.**
