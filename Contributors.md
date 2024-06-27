@@ -39,7 +39,6 @@
 - [José Furlán](https://github.com/j-furlan) _My first contribution_, maybe a little to late to start learning about this but here I am.
 - [Houssam Kanso](https://github.com/houssamkanso)**Hello World**
 - [Jessika](https://github.com/Jessika297)**Hello there**
-- [Vishwajeet rout](https://github.com/vishwajeet-8)**Hello there**
 - [win khant](https://github.com/WinKhantNaing)**Hello World**
 - [morenzo rafael]
 - [Collin Clifford](https://github.com/CollinClifford)
@@ -3728,6 +3727,7 @@
 - [Taha S. ASAN](https://github.com/tahaasann)
 - [Safa Osman](https://github.com/swafak)
 - [Hamil Dimapanat](https://github.com/hvmil)
+- [Vishwajeet rout](https://github.com/vishwajeet-8)
 - [Sagar Shelke](https://github.com/seeprogramming)
 - [Wilson Chin](https://github.com/shitofshit)
 - [Ben Summerill](https://github.com/Bengsumm)
