@@ -345,6 +345,7 @@ vrushabhpatil48
 - [ykaterina](https://github.com/ykaterina) **Hallo, first contribution here!**
 - Rohith Kankipati (https://github.com/rohith4743)
 - Sublics
+- [jihwan1211](https://github.com/jihwan1211) 가보자고!
 - [nozzyftw](https://github.com/nozzyftw) `print("First Contribution to OSS!")`
 - JoyBas
 - [Jonathan Batanian] (https://github.com/jOBT0)
