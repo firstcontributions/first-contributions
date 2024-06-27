@@ -2342,6 +2342,7 @@ Jasmine
 - [Mohsine Mosin(x)]
 - [Jakub Cabala] (https://github.com/jCabala)
 - [Tyler Austin]
+- [Patel Tirth](https://github.com/p-tirth)
 - [Terry]
 - th0rnium
 - [Brady Wisniewski]
