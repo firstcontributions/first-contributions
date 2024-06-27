@@ -5870,6 +5870,7 @@ Hector
 - [Daniel Gallo](https://github.com/danielphilip12) **First contribution to open source**
 - [Naveen Prasad](https://github.com/naveenTheEngineer) **Started my Open Source Contribution**
 - [Akshay](https://github.com/AkshayUdupi/) **Started my Contribution**
+- [juandiegouq](https://github.com/juandiegouq) **First contribution!**
 - [l3inapo](https://github.com/l3inapo/) **Started my Contribution**
 - [1wyl](https://github.com/1wyl) **This is my first contribution!**
 - [SayasCampos](https://github.com/SayasCampos) _This is my first contribution on opensource code!_ 
