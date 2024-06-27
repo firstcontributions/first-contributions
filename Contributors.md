@@ -21,6 +21,7 @@
 - Chralsh (https://github.com/Chralsh) First contribution on a open-source 🤯
 - Matt Steel (https://github.com/mattsteel87) **G'day!**
 - [Gloria Ebube Okeke](https://github.com/gloriaebubeokeke) **I finally get to do this.**
+- Connect with Gloria on Linkedin (https://www.linkedin.com/in/gloria-okeke-e-j/)
 - - Sumaira(https://github.com/Sumairahafeez) **Learning New**
 - Anirudh(https://github.com/panipurimasala/)**Building stuff**
 - Mahima Uliyar (https://github.com/mahimu04) 
