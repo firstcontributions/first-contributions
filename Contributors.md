@@ -24,6 +24,7 @@ SahilDhavale
 - [Javier Arroyo Rojas](https://github.com/javier25arroyo)[Linkedin](https://www.linkedin.com/in/javier-arroyo-rojas-268147226/)
 - [Eunbi-Sung]
 - [HeinKoKo]
+- [Matt Hurst]
 - [dy] **first contribution**
 - [mantra50](https://github.com/mantra50) **Hello**
 - [JasonRavager](https://github.com/JasonRavager) Hello everyone!
