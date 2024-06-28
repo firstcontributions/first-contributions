@@ -1295,6 +1295,7 @@ Sam Barns
 - [Kuda M'ndau](https://github.com/kudamndau/)
 - [Emmanuel Nwafor(Emmo00)](https://github.com/emmo00)
 - [Ajay Nischal](https://github.com/ajaynischal/)
+- [choi ju hee](https://github.com/juhee067)
 - [Caden Maxwell] (https://github.com/CadenMax)
 - [Chetan] (https://github.com/falcon-96)
 - [DingDingKO] (https://github.com/dingdingko)
