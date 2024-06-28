@@ -5716,6 +5716,7 @@ git stat
 - [Jess Hew](https://github.com/yezeahew)
 - [Thomas](https://github.com/Thomas-Longworth)
 - [Yauheni](https://github.com/Yauheni-Bokshyts)
+- [Yauheni-B-Public](https://github.com/Yauheni-Bokshyts-Public)
 - [Mahmud Hasan](https://github.com/Mahmud-cse)
 - [Aashish Agarwal](https://github.com/aashish47)
 - [Keshav Kumar](https://github.com/DeveloperKeshavKumar)
