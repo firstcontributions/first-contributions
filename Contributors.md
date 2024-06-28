@@ -182,6 +182,7 @@ Esta es mi primera contribucion por parte de la URC
 - [Ashok Kadagala](https://github.com/a-lone-walker/first-contributions) **Namaste y'all**
 - [Oscar Novás](https://oscarnovas.com) My first contribution!!!!
 - [Zi-Onn](https://github.com/hzionn) WAHAHA
+- [namahu](https://github.com/namahu) **Hello! my first contribution!**
 -[Sulagna](https://github.com/sulagnamahapatra) *fingers crossed*
 - PWRUP05 (https://github.com/PWRUP05) My first contribution to open source!
 - [Julio Hernandez](https://github.com/jchernandez88) **Go!** 🚀
