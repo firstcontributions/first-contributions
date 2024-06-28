@@ -132,6 +132,7 @@ Niggesh
 - [Sidharth N Krishna](https://github.com/Sidharth-NK)**My first open-source contribution!!**
 Esta es mi primera contribucion por parte de la URC
 - [sia-6](https://github.com/sia-6) Hi😸
+- [andrew45655](https://github.com/andrew45655) Hello all. **Let's contribute together**
 - [Shreyan](https://github.com/shreyannandanwar) **Contribution, It was EPIC
 - [raoole2](https://github.com/raoole20) Follow me!
 - [Jonai Bolaños](https://github.com/Jonayj0) **Contribuyendo, Sigueme en Linkedin (https://www.linkedin.com/in/jonay-bolanos-molina/)
@@ -222,10 +223,10 @@ Esta es mi primera contribucion por parte de la URC
 - [Mohan vamsi B](https://github.com/mohanvamsi04) **Hello First Time Contributors!**
 - [Treasure Okafor](https://github.com/Teekafey) - My first contribution 
 yumi-kim-0827
- - [Kiran Kulkarni]
- - [Mansoor Zafar](https://github.com/MansoorAZafar) This is my first contribution! This is my start!
- - [Jamie Jacobs]  MY SECOND CONTRIBUTION
- - [Will J](https://github.com/Will-Jameson) HEEERRREEE
+- [Kiran Kulkarni]
+- [Mansoor Zafar](https://github.com/MansoorAZafar) This is my first contribution! This is my start!
+- [Jamie Jacobs]  MY SECOND CONTRIBUTION
+- [Will J](https://github.com/Will-Jameson) HEEERRREEE
 -[Gianni] First contribution
 >>>>>>> origin/main
 - [emitaka](https://github.com/emitakaa) ola papus :vvvv
