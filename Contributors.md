@@ -337,6 +337,7 @@ vrushabhpatil48
 - [Rajath Hongal](https://github.com/rajathongal)
 - [Avantikka](https://github.com/avanti146)
 - [Roopesh](https://github.com/Roopasdev)
+- [NSchiffmacher](https://github.com/NSchiffmacher) 🚀🚀
 - Kazu Sakamoto
 - [Shay] (https://github.com/Devid3000/first-contributions) **Hello World! My first contribution :)**
 - [Jonathan Lu] (https://github.com/jonL0001) **Hello World! Turning a new leaf (:**
