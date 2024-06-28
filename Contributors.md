@@ -27,6 +27,9 @@ SahilDhavale
 - [Eunbi-Sung]
 - [HeinKoKo]
 - [Matt Hurst]
+
+Anjan Shetty R
+
 - [dy] **first contribution**
 - [mantra50](https://github.com/mantra50) **Hello**
 - [JasonRavager](https://github.com/JasonRavager) Hello everyone!
