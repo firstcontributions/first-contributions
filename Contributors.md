@@ -69,6 +69,7 @@ SahilDhavale
 - [Jessika](https://github.com/Jessika297)**Hello there**
 - [win khant](https://github.com/WinKhantNaing)**Hello World**
 - [morenzo rafael]
+- [Shubham Patil] **Hello world from India. It's a new day!
 - [Sahil Ghadigaonkar](https://github.com/sahilghadi47) **First Contribution start of something new, From India**
 - [Collin Clifford](https://github.com/CollinClifford)
 - [Oksana](https://github.com/oprokopieva382) **Yo, all contributors! Let's polish our skills and help open source projects!**
