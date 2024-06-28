@@ -2919,6 +2919,7 @@ Gyanendra Thakur
 - [Annuar](https://github.com/ramo-dev)
 - [Mike Mclean](https://github.com/Mike-Mclean)
 - [Brian Kyalo](https://github.com/kyalo3)
+- [Michael Scarborough](https://github.com/MackMike)
 - [Hermoine]
 - [Uday Raj]
 - [Ch.Varun]
