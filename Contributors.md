@@ -8,3 +8,5 @@ Colin Cheng ^_^
 Matthew O'Malley-Nichols <_<
 Lydia Fares :D
 Kippen Lee (╯°□°）╯︵ ┻━┻ 
+Jonathan Toussaint ;-)
+Monica Zhang
