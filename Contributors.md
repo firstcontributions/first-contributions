@@ -3847,6 +3847,7 @@ Cheeto Lord
 - [Manikanta Vasana]
 - [Amardeep]
 Philip Ambattu
+- [RegianaBarbosa](https://github.com/RegianaBarbosa)
 - [derronli](https://github.com/derronli)
 - [EnesUnlu](https://github.com/enes9103)
 - [Dhruv Koli](https://github.com/dask-58)
