@@ -1,6 +1,7 @@
 Hann Scott (•̀ᴗ•́)و
 Janita Aamir ʕ •ᴥ•ʔ
 Aniket Poojari ʕ•|•ʔ
+Steven Wallace ¯\_(ツ)_/¯ 
 Steven Schaerer ><>
 Liam Pestrella :)
 Colin Cheng ^_^
