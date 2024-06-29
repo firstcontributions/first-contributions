@@ -5967,3 +5967,4 @@ Hector
 - [Ajeya P] (https://github.com/Ajeya2691)
 - [futse](https://github.com/futse) **My first contribution!**
 - [Marco Bustos](https://github.com/marcobustos9)
+- [Freddy Rodriguez](https://github.com/freeddyy0124)
