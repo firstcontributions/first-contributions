@@ -5989,3 +5989,4 @@ Hector
 - [Nathan Sodja](https://github.com/NateOs)
 - [Sheela Aprameya]
 - [zeekbyte](https://github.com/zeekbyte)
+- [Mahir Daiyan](https://github.com/RealMDaiyan)
