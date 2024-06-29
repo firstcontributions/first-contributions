@@ -2155,6 +2155,7 @@ guanj65
 - [Colin] (https://github.com/Coltnickers)
 - [Vembu](https://github.com/vembu2991)
 - [harish](https://github.com/harish885)
+- [Harish Maganti](https://github.com/harishm22)
 - [Kamangu Maeti](https://github.com/KmgSamuel)
 - [Jay CP](https://github.com/jaycp30) 
 - [Snagnik Das](https://github.com/snagnikd)
