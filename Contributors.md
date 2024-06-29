@@ -5986,3 +5986,4 @@ Hector
 - [Matth](https://github.com/Matth-M)
 - [Nathan Sodja](https://github.com/NateOs)
 - [Sheela Aprameya]
+- [zeekbyte](https://github.com/zeekbyte)
