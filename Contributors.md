@@ -2,6 +2,7 @@
 - [wrkean](https://github.com/wrkean) ...and to the next one
 - [Raghav Angra]
 - [Thu Rain Ko] 
+-[Shreya]
 - [PassionOverPain](https://github.com/PassionOverPain) **😎Anime + Games + Code #_Follow_ Me On this Journey**
 - [Swapnil](https://github.com/swapnilpatil-github/) Hmm!!!Lets Do This 💪🔥
 - [Tiago Afonso](https://github.com/thiago-Coderr) Contributing to open source helps foster innovation, collaboration, and community growth
