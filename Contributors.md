@@ -5903,7 +5903,6 @@ Hector
 - [yas ranjeet](https://github.com/yasranjeet) **started**
 - [SHRIKANTH](https://github.com/srics-dev)
 - [Prakash chandra muduli](https://github.com/Prakashchandra-007)
-- [Caitlin Hathaway](https://github.com/Prakashchandra-007)
 - [Sai Bhargav](https://github.com/SaiBhargav11) 
 - [katje3009](https://github.com/katje3009)
 - [huraicid](https://github.com/huraicid) 
