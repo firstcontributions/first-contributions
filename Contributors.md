@@ -321,6 +321,7 @@ vrushabhpatil48
 - Ramya
 - John McGlynn whassup
 - [Madava Raj K (https://github.com/madavarajK) My First contribution on an open-source]
+- tomhwidd
 - [David Lauer]
 - [Saurabh singh](https://github.com/Sourabh7singh)
 - [Ammar Hassan](https://github.com/vroslmend)
