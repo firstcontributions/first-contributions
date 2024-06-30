@@ -6000,3 +6000,4 @@ Hector
 - [ivanreeve](https://github.com/ivanreeve)
 - [lucas] (https://github.com/lucas-low/) `just having weird fun in github giant list at the end been working in gitlab for too long`
 - [WhiteLiu](https://github.com/LcenArthas) 😀
+- [m-kicherov](https://github.com/m-kicherov) **Hello World**
