@@ -40,6 +40,7 @@ SahilDhavale
 - [HeinKoKo]
 - [Parker-DeYoung](https://github.com/parker-deyoung)**Hello! This is my first contirbution!**
 - [Matt Hurst]
+- [Nasif Swalah] **First contribution**
 - [dy] **first contribution**
 - [mantra50](https://github.com/mantra50) **Hello**
 - [JasonRavager](https://github.com/JasonRavager) Hello everyone!
