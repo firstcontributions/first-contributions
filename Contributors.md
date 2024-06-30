@@ -9,6 +9,7 @@
 - [Swapnil](https://github.com/swapnilpatil-github/) Hmm!!!Lets Do This 💪🔥
 - [Tiago Afonso](https://github.com/thiago-Coderr) Contributing to open source helps foster innovation, collaboration, and community growth
 - [Aman Kumar]-Yeah!!done with my first contribution lets see whats next 
+- [Daniel Osojnik] (https://github.com/zabooz/)
 - [Flimmers]!!!!
 - [Amit kumar] (https://github.com/amitkrmaurya09) ----Hi-----
 - [Gemini Lo](https://github.com/geminixmemory) **Hi I'm Gemini fm HK, welcome any connection**
