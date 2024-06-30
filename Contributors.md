@@ -1543,6 +1543,7 @@ Pereira
 - Taylor
 - Monika M
 - 0x504a
+- [Gia Patel](https://github.com/giaptl)
 - Yohan Moon
 - Mee Too
 - Matt Jung
