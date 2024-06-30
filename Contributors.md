@@ -1541,8 +1541,8 @@ Pereira
 - Taylor
 - Monika M
 - 0x504a
-- Yohan Moon
 - [Gia Patel](https://github.com/giaptl)
+- Yohan Moon
 - Mee Too
 - Matt Jung
 - [Jayesh Kahnani](https://github.com/Jayesh-kahnani)  || [LinkedIn](https://www.linkedin.com/in/jayeshk13)
