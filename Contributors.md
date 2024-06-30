@@ -11,4 +11,5 @@ Lydia Fares :D
 Kippen Lee (╯°□°）╯︵ ┻━┻ 
 Jonathan Toussaint ;-)
 Monica Zhang
+Juan Pablo Duque Ochoa :D
 Kyle Pfiuster 😊
