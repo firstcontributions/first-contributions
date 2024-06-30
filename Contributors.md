@@ -1494,6 +1494,7 @@ Martin Ferrero-Thompson was here
 - [Steven Herrera](https://github.com/Steven-Herrera)
 - [Juan Pedro Martin](https://github.com/jmartinn)
 - [Nebojsa Pavlovic](https://github.com/Nele82)
+- [Gia Patel](https://github.com/giaptl)
 - [Mohammad Dahamshi](https://github.com/mdahamshi)
 - [Mohammad Hosein Lashani](https://github.com/MhL5)
 - [DevPeriwal07](https://github.com/DevPeriwal07)
