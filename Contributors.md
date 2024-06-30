@@ -10,6 +10,7 @@
 - [Tiago Afonso](https://github.com/thiago-Coderr) Contributing to open source helps foster innovation, collaboration, and community growth
 - [Aman Kumar]-Yeah!!done with my first contribution lets see whats next 
 - [Flimmers]!!!!
+- [smarbo](https://github.com/smarbo) **My first step on this long journey!**
 - [Gemini Lo](https://github.com/geminixmemory) **Hi I'm Gemini fm HK, welcome any connection**
 - [Oscar McGlone](https://github.com/oscarmcgl) **hey, I'm Oscar**
 - [SrinidhiPS11](https://github.com/SrinidhiPs11)**Small step for man, Big step for mankind.**
