@@ -11,6 +11,7 @@ Lydia Fares :D
 Kippen Lee (╯°□°）╯︵ ┻━┻ 
 Jonathan Toussaint ;-)
 Monica Zhang
+Rasika Baskaran (◕‿◕)
 Philip Tasabia :O
 Zachary Robertson :)
 Antony Thomas :o
