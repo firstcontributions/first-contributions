@@ -40,6 +40,7 @@ SahilDhavale
 - [HeinKoKo]
 - [Parker-DeYoung](https://github.com/parker-deyoung)**Hello! This is my first contirbution!**
 - [Matt Hurst]
+- [Nasif Swalah] **First contribution**
 - [dy] **first contribution**
 - [mantra50](https://github.com/mantra50) **Hello**
 - [JasonRavager](https://github.com/JasonRavager) Hello everyone!
@@ -65,6 +66,7 @@ SahilDhavale
 - [Conner Whitis] (https://github.com/Continniuum) ** Hello All!**
 - [Ridwan Yinus](https://github.com/ridwanyinus) My first contribution 💫
 [Goran Gelevski] (https:/github.com/goranMecka) ** Hi I am Goran From itay**
+- [Jiamu](https://github.com/Cidyerlia) **Hi I am Jiamu From China**
 - [Nate R6](https://github.com/nater6) **My First Contribution**
 - [Marupaka Sai Teja](https://github.com/saiteja1323) **Just the start!**
 - [Noel](https://github.com/joyles28) **+1**
