@@ -5980,6 +5980,7 @@ Hector
 - [Juandent] (https://github.com/juandent/first-contributions) Hello!
 - [AndrewSantanastaso](https://github.com/andrewSantanastaso)
 - [Shrikanth](https://github.com/srics-dev)
+- [Olateju](https://github.com/Oladcoder) **Hello World**
 - [Saurabh Deshmukh] (https://github.com/saurabh-deshmukh)
 - [Mielon](https://github.com/mielonxd) **Hello everyone**
 - [YaoYiYao](https://github.com/yaodada123) **Hi!**
