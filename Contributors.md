@@ -477,6 +477,7 @@ vrushabhpatil48
 - [pavanmahesh107](https://github.com/pavanmahesh107) **First Contribution by Pavan Mahesh**
 - [Yulin Xue](https://github.com/xueyulinn)
 - [Joseph Jia](https://github.com/jsphjia)
+- [Akshay Ramabhat]
 - [G O Ashwin Praveen](https://github.com/ashwinpraveengo)
 - [Ibrahin Perez](https://github.com/Iptriana98) 😊
 - Life is not bad
@@ -1922,6 +1923,7 @@ Kencham Vinay
 -[Daniele Russo](https://github.com/DaniVS) [Linkedin](https://www.linkedin.com/in/daniele-russo-0317a3289/)
 -[Yogeshwar Khurmi](https://github.com/ykverma99)
 -[Azucena Marroquin](https://github.com/azucena-m)
+-[Nishi Kantamneni](https://github.com/Nishi46)
 -[Dogukan Aysan](https://github.com/dogukan-aysan)
 - [Open Source Day](https://github.com/mwanyumba7)
 -[Juan Cruz Francitorra](https://github.com/Jufaa)
