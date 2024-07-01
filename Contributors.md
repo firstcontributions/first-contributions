@@ -2910,7 +2910,6 @@ Gyanendra Thakur
 - [Suved Ganduri](https://github.com/Sooowayydh)
 - [Mariusz Sobczak](https://github.com/SmoQ)
 - [Mayank Pratap Singh](https://github.com/04-mayank)
-- [Aishat Muhammed] (https:github.com/Aysha-py)
 - [Aryan Suvarna](https://github.com/AryanSuvarna)
 - [Tunde Suleiman] (https://github.com/tsuleiman03)
 - Temmy
