@@ -1,5 +1,6 @@
 # Contributors 
 - [wrkean](https://github.com/wrkean) ...and to the next one
+- [Asmit singh bisht](https://github.com/Asmit-ctrl) *** going to be next revolutionary in tech industry ***
 - [Raghav Angra]
 - [Thu Rain Ko] 
 -[Shreya]
