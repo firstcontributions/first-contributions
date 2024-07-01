@@ -4874,6 +4874,7 @@ LadegbayeStella)
 - [Cat](https://github.com/Zeddex)
 - [Lava558](https://github.com/lava558)
 - [Siddhant385](https://github.com/siddhant385)
+- [sidrender](https://github.com/sidrender)  ---- First commit committed
 - [Jawad Saeed](https://github.com/Jawamegamind)
 - [Aryan Mittal](https://github.com/Rishu2023)
 - [H4rz](https://github.com/h4rz)
