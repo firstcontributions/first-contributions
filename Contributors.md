@@ -56,6 +56,7 @@ SahilDhavale
 - [Matt Hurst]
 - [Nasif Swalah] **First contribution**
 - [dy] **first contribution**
+- [Mahim Masrafi](https://github.com/ThisIsMahim)
 - [mantra50](https://github.com/mantra50) **Hello**
 - [JasonRavager](https://github.com/JasonRavager) Hello everyone!
 - [Shailesh Chauhan](https://github.com/sh1lezh) **Hey My first contri** Connect with me [X.com](https://x.com/sh1lezh) [Linkedin](https://linkedin.com/in/shaileshcn)
@@ -2918,7 +2919,6 @@ Gyanendra Thakur
 - [Suved Ganduri](https://github.com/Sooowayydh)
 - [Mariusz Sobczak](https://github.com/SmoQ)
 - [Mayank Pratap Singh](https://github.com/04-mayank)
-- [Aishat Muhammed] (https:github.com/Aysha-py)
 - [Aryan Suvarna](https://github.com/AryanSuvarna)
 - [Tunde Suleiman] (https://github.com/tsuleiman03)
 - Temmy
