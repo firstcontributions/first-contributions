@@ -16,6 +16,7 @@
 - [Amit kumar] (https://github.com/amitkrmaurya09) ----Hi-----
 - [Gemini Lo](https://github.com/geminixmemory) **Hi I'm Gemini fm HK, welcome any connection**
 - [Oscar McGlone](https://github.com/oscarmcgl) **hey, I'm Oscar**
+- [Shashank](https://github.com/shshaank) **hey, this is my second pr**
 - [SrinidhiPS11](https://github.com/SrinidhiPs11)**Small step for man, Big step for mankind.**
 - [Ajmal Ras](https://github.com/Dynopro) `I will make a valuable contribution to the open source project by meticulously documenting all the bugs I introduce.`🤞
 - [Sandip Kumar Dey](https://github.com/sandipkumardey) **Hey! This is my first contribution**
