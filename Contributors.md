@@ -6013,6 +6013,7 @@ Hector
 - [Nathan Sodja](https://github.com/NateOs)
 - [Sheela Aprameya]
 - [zeekbyte](https://github.com/zeekbyte)
+- [Faizah Farzana](https://github.com/faizahfarzana) **Starting my open source journey!**
 - [Mahir Daiyan](https://github.com/RealMDaiyan)
 - [ivanreeve](https://github.com/ivanreeve)
 - [lucas] (https://github.com/lucas-low/) `just having weird fun in github giant list at the end been working in gitlab for too long`
