@@ -6033,3 +6033,4 @@ Hector
 - [Naufaldi](https://github.com/naufalD) **yippee**
 - [Ronnie] (https://github.com/MonsieurRadiant) **start now**
 - [MiGao](https://github.com/migaox) **my first contributions**
+- [dycoo](https://github.com/dycoo) **my first contributions - lets go**
