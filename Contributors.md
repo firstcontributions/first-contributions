@@ -1,6 +1,7 @@
 # Contributors 
 - [wrkean](https://github.com/wrkean) ...and to the next one
 - [Asmit singh bisht](https://github.com/Asmit-ctrl) *** going to be next revolutionary in tech industry ***
+- [Ritesh Singh](https://github.com/ritzzh) *** Do not go gentle into that good night, Rage, rage againt the dying of light ***
 - [Raghav Angra]
 - [Ndifon Titiana](https://github.com/N-TITIAN)
 - [Thu Rain Ko] 
