@@ -1975,6 +1975,7 @@ Kencham Vinay
 - [Laurence Cook](https://github.com/07cookl)
 - [Mark Noble](https://github.com/marknoble): Not my first contribution, but sometimes it's good to review the basics and I hadn't checked in yet. ;D
 - [Nikola - nicywi](https://github.com/nicywi)
+- [Tahzib Mahmud Rifat](https://github.com/rifat87) : **I am Rifat from Bangladesh, learning Blockchain and DevOps. Date: 7/1/2024, 2:10pm**
 - [Sameh ElGazar](https://github.com/samehelgazar95)
 - [Mitchell - mitthoma](https://github.com/mitthoma)
 - [Rafal Lenartowicz](https://github.com/rafdlen)
@@ -5969,14 +5970,14 @@ Hector
 - [hirata-keisuke](https://github.com/hirata-keisuke) :sushi:
 - [Cheikh Babacar GOUDIABY](https://github.com/cbag1) :cbag1:
 - [anurpeljto](https://github.com/anurpeljto) _I like opensource projects_
-- [jaiderbernal90](https://github.com/jaiderbernal90) _Hello word! This is my first contribution on opensource repo_
+- [jaiderbernal90](https://github.com/jaiderbernal90) _Hello world! This is my first contribution on opensource repo_
 - [NoMeLlamoDante](https://github.com/NoMeLlamoDante) **Dante**
 - [AugustFri](https://github.com/AugustFri) **I'm contributing alright**
--[Arnab Paul](https://github.com/arnab1656) **Hello Myself is Very Lucky Go across this Repo and Shout Out And Have Nice Day Ahead**
--[Raphaella](https://github.com/Raphaelavazq) ### My first contribution 
--[Nicolas Frazao](https://github.com/Nicolasfrazao) **My first contribution 
--[James Elisan] (https://github.com/elisanj23) **my first contribution. 
--[Bharat Katyal] (https://github.com/bharatkatyal) **First Opensource contribution 
+- [Arnab Paul](https://github.com/arnab1656) **Hello Myself is Very Lucky Go across this Repo and Shout Out And Have Nice Day Ahead**
+- [Raphaella](https://github.com/Raphaelavazq) ### My first contribution 
+- [Nicolas Frazao](https://github.com/Nicolasfrazao) **My first contribution 
+- [James Elisan] (https://github.com/elisanj23) **my first contribution. 
+- [Bharat Katyal] (https://github.com/bharatkatyal) **First Opensource contribution 
 - [DonTheScot](https://github.com/DonTheScot) **2nd 1st Commit**
 - [Mohamed Chatr](https://github.com/Mochatr)
 - [Travis Buchan](https://github.com/TravisBuchan) **Hello, world **
@@ -5996,7 +5997,7 @@ Hector
 - [Saurabh Deshmukh] (https://github.com/saurabh-deshmukh)
 - [Mielon](https://github.com/mielonxd) **Hello everyone**
 - [YaoYiYao](https://github.com/yaodada123) **Hi!**
-- [Sunil_Rathor](https://github.com/sunilrathor26) **Learning git to complete cetification, Let's go **
+- [Sunil_Rathor](https://github.com/sunilrathor26) **Learning git to complete certification, Let's go **
 - **Siva**
 - [Kevin Crooks](https://github.com/kevcrooks)
 - [Izzy](https://github.com/saiismael) **Hello World**
