@@ -13,6 +13,7 @@
 - [Aman Kumar]-Yeah!!done with my first contribution lets see whats next 
 - [Daniel Osojnik] (https://github.com/zabooz/)
 - [Flimmers]!!!!
+- [Shashank](https://github.com/shshaank)**making my first contribution ever🫂**
 - [Amit kumar] (https://github.com/amitkrmaurya09) ----Hi-----
 - [Gemini Lo](https://github.com/geminixmemory) **Hi I'm Gemini fm HK, welcome any connection**
 - [Oscar McGlone](https://github.com/oscarmcgl) **hey, I'm Oscar**
