@@ -1,4 +1,3 @@
-        self.advance()0
 # Contributors 
 - [wrkean](https://github.com/wrkean) ...and to the next one
 - [Raghav Angra]
