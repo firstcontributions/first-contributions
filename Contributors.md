@@ -20,7 +20,7 @@
 -   [Shashank](https://github.com/shshaank)**making my first contribution ever🫂**
 -   [Amit kumar] (https://github.com/amitkrmaurya09) ----Hi-----
 -   [rishabh-sarang] yo
--   [hcheorii] (https://github.com/hcheorii)
+-   [hcheorii] (https://github.com/hcheorii) yo
 -   [Gemini Lo](https://github.com/geminixmemory) **Hi I'm Gemini fm HK, welcome any connection**
 -   [Oscar McGlone](https://github.com/oscarmcgl) **hey, I'm Oscar**
 -   [Shashank](https://github.com/shshaank) **hey, this is my second pr**
@@ -224,7 +224,7 @@
 -   Anirudh(https://github.com/panipurimasala/)**Building stuff\*\*
 -   Habibullahi Mohammed(https://github.com/habibullaimohammed) **Lovely repo**
 -   Min Thant Kyaw (https://github.com/mintechkyaw)
--   Abhilash ****for my friend****
+-   Abhilash \***\*for my friend\*\***
 -   Mahima Uliyar (https://github.com/mahimu04)
 -   [HemalTharakaeEranga](https://github.com/HemalTharakaeEranga) **Ayubowan...! I'm Hemal, Do you know about my strengths, if you don't know please still be with me. Change the World.🦁😍😇**
 -   [Bhukya-Sriram] (https://github.com/Bhukya-Sriram) **role_of_smile**
