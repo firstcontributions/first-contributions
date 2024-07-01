@@ -6026,3 +6026,4 @@ Hector
 - [matt](https://github.com/matt-the-thew) **Buckle Up!** Here to squash bugs and build cool stuff
 - [Vinita](https://github.com/VINITASUTHAR) 
 - [Naufaldi](https://github.com/naufalD) **yippee**
+- [Ronnie] (https://github.com/MonsieurRadiant) **start now**
