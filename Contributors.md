@@ -168,7 +168,7 @@ Esta es mi primera contribucion por parte de la URC
 - [sia-6](https://github.com/sia-6) Hi😸
 - [Shreyan](https://github.com/shreyannandanwar) **Contribution, It was EPIC
 - [raoole2](https://github.com/raoole20) Follow me!
-- [Jonai Bolaños](https://github.com/Jonayj0) **Contribuyendo, Sigueme en Linkedin (https://www.linkedin.com/in/jonay-bolanos-molina/)
+- [Jonai Bolaños](https://github.com/Jonayj0) **Contribuyendo, Sigueme en Linkedin** (https://www.linkedin.com/in/jonay-bolanos-molina/)
 - [Biswajit](https://github.com/ImBiswajitslg) First contribution
 - [Julio Paz](https://github.com/juliopzsosa) Follow me!
 - [Charles](https://github.com/charcg) 
@@ -177,6 +177,7 @@ Esta es mi primera contribucion por parte de la URC
 - [Sam](https://github.com/MHLSamM)**First contribution, hopefully one of many!**
 - [David Zhu](https://github.com/charcg)
 - [Sriaknth Peetha](https://github.com/skpeetha)
+- [Soham Pansare] *(https://github.com/SohamDevelop712)* **Happy to Contribute... Looking forward to contribution more**
 - [Tarun Khadolia](https://github.com/Tarunkhadolia11)
 - [Nagma Khan](https://github.com/nagmakhan)
 - [Talha Ahmed](https://github.com/TalhaAhmedAI)
