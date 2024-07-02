@@ -21,6 +21,7 @@
  [PEP] (https://github.com/Piangpi12345)
 - [Lawior]
 - [Flimmers]!!!!
+- [Abdul Khaliq](https://github.com/realabdulkhaliq) *Started **GitHub Certification Track** to become a feature **AI Engineer**. Already **Python** and **Azure AI** Certified*
 - [Shashank](https://github.com/shshaank)**making my first contribution ever🫂**
 - [Amit kumar] (https://github.com/amitkrmaurya09) ----Hi-----
 - [rishabh-sarang] yo
