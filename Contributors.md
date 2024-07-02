@@ -66,6 +66,7 @@ SahilDhavale
 - [Matt Hurst]
 - [Nasif Swalah] **First contribution**
 - [dy] **first contribution**
+Vedant Raut here and this is my first Contribution
 - [mantra50](https://github.com/mantra50) **Hello**
 - [JasonRavager](https://github.com/JasonRavager) Hello everyone!
 - [Shailesh Chauhan](https://github.com/sh1lezh) **Hey My first contri** Connect with me [X.com](https://x.com/sh1lezh) [Linkedin](https://linkedin.com/in/shaileshcn)
