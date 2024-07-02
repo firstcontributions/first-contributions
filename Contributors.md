@@ -3330,6 +3330,7 @@ Dante Sanchez
 - [Katherine Tomkins](https://github.com/KatherineTomkins)
 - [Diego Lavezzari](https://github.com/diegolavezzari)
 - [Lavezzari]
+- [Oskar](https://github.com/oskarmeyenburg)
 - [Johnathan]
 - [Vaishnavi]
 - [kamada-maki](https://github.com/kamada-maki)
@@ -3832,7 +3833,7 @@ Dante Sanchez
 - [Dinesh Dhanji](https://github.com/DineshDhanji)
 - [Ziwen Ming](https://github.com/3miumi)
 - [Joise](https://github.com/Hawthorn-1010)
-- [Mtwa Mgimwa](https://github.com/cisco2001)
+- [Mtwa Mgimwa](https://github.com/cisCO₂001)
 - [Danny Rivas](https://github.com/DannyRivasDev)
 - [promax1113](https://github.com/promax1113)
 - [darkdevil3610](https://github.com/darkdevil3610)
