@@ -78,6 +78,7 @@ Vedant Raut here and this is my first Contribution
 - [Swaminathan]
 -[Mihir](https://github.com/MIHIRstoic)***first time***
 - [David Myat]
+-[FrancescoLegg](https://github.com/FrancescoLegg) **this is my first contribution, hello all!**
 -[Shruti] (https://github.com/shrutigupta02) **this is my first contribution, hello all!**
 - [ali hamraoui](https://github.com/alihamraoui)***Hello allstatus**
 - [Vaishnavi] (https://github.com/vishu1089) ***First Time, Hello to all!***
