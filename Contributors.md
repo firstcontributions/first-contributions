@@ -15,6 +15,7 @@
 - [Wingyee He](https://github.com/KuKustudy) **This is Wingyee from Australia, lets GOOOO**
 - [Aman Kumar]-Yeah!!done with my first contribution lets see whats next 
 - [Daniel Osojnik] (https://github.com/zabooz/)
+- [Dan Gunter] learning how I can contribute
 - [Ayala Kirshboim](https://github.com/ayala-mangel) Hi! **It's My first open source contribution!!** [Linkedin](https://www.linkedin.com/in/ayala-kirshboim/)
  [PEP] (https://github.com/Piangpi12345)
 - [Lawior]
