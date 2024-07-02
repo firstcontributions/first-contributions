@@ -6059,6 +6059,7 @@ Hector
 - [Vinita](https://github.com/VINITASUTHAR) 
 - [Naufaldi](https://github.com/naufalD) **yippee**
 - [Ronnie] (https://github.com/MonsieurRadiant) **start now**
+- [Christian](https://github.com/christianoneill) Restarting and excited! Let's go!!
 - [MiGao](https://github.com/migaox) **my first contributions**
 - [dycoo](https://github.com/dycoo) **my first contributions - lets go**
 - [Samuel](https://github.com/Samuelchigozie) **Here we Go 😂**
