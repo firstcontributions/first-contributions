@@ -73,7 +73,9 @@ SahilDhavale
 -[Mihir](https://github.com/MIHIRstoic)***first time***
 - [David Myat]
 -[Shruti] (https://github.com/shrutigupta02) **this is my first contribution, hello all!**
-- [ali hamraoui](https://github.com/alihamraoui)***Hello allstatus**
+- [ali hamraoui](https://github.com/alihamraoui)
+***Hello allstatus**
+- [sukant]
 - [Vaishnavi] (https://github.com/vishu1089) ***First Time, Hello to all!***
 - [Aaina Akbar] (https://www.github.com/aaina942) ***First Timer***
 - [Arul MUrugan](https://github.com/ArulMurugan13)
