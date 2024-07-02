@@ -5309,3 +5309,4 @@ Hector
 - [Kennet Shin](https://github.com/WoofWoof0)
 - [Bobby M](https://github.com/bbm2910)
 - [Cecilia Tivir](https://github.com/ctivir)
+- [Chris Ayeh-Datey](https://github.com/chrisaydat)
