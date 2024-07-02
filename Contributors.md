@@ -18,7 +18,7 @@
 - [Flimmers]!!!!
 - [Shashank](https://github.com/shshaank)**making my first contribution ever🫂**
 - [Amit kumar] (https://github.com/amitkrmaurya09) ----Hi-----
-- [rishabh-sarang] yo
+- [rishabh-sarang](https://github.com/rishabhsarang) yo
 - [Gemini Lo](https://github.com/geminixmemory) **Hi I'm Gemini fm HK, welcome any connection**
 - [Oscar McGlone](https://github.com/oscarmcgl) **hey, I'm Oscar**
 - [Shashank](https://github.com/shshaank) **hey, this is my second pr**
