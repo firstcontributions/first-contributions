@@ -20,7 +20,7 @@
 - [Daniel Osojnik] (https://github.com/zabooz/)
 - [Dan Gunter] learning how I can contribute
 - [Ayala Kirshboim](https://github.com/ayala-mangel) Hi! **It's My first open source contribution!!** [Linkedin](https://www.linkedin.com/in/ayala-kirshboim/)
- [PEP] (https://github.com/Piangpi12345)
+-  [PEP] (https://github.com/Piangpi12345)
 - [Lawior]
 - [Flimmers]!!!!
 - [Abdul Khaliq](https://github.com/realabdulkhaliq) *Started **GitHub Certification Track** to become a feature **AI Engineer**. Already **Python** and **Azure AI** Certified*
