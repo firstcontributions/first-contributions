@@ -158,6 +158,7 @@ Niggesh
 - [Errol-Anthony-Jano] (https://github.com/Errol-Anthony-Jano)
 - [Rahul](https://github.com/R-05368) My first contribution
 - [Gihan](https://github.com/ceeejeey) My first contribution
+- [Jarod Searle](https://github.com/searleja) **First contribution**
 - [Anas](https://github.com/Sharbajii) My first contribution :D
 - [Rahul](https://github.com/Rahul-0410) **My first contribution here**
 - [Suraj Mitake](https://github.com/mitake2003) **First Constribution 😊**
