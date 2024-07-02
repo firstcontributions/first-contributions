@@ -3154,6 +3154,7 @@ Romeu Leite
 Dante Sanchez
 - [Chijioke Ugwuanyi](https://github.com/xplorer1)
 - [Horatio Hanley](https://github.com/horatioDev)
+- [Devansh Soni](https://github.com/indenigrate) Let's connect
 - [Ahmet Gello](https://github.com/ahmetgello) 😀
 - [Nadav J. Outmezguine](https://github.com/Nadav-out)
 - [Gokularaju](https://github.com/gokul78590)
