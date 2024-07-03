@@ -6080,4 +6080,4 @@ Hector
 - [Roboman](https://github.com/RomanDominguez)**MIT student_this is my first contribution**
 - [Nada Feteiha] **my first contributions here**
 - [Udath](https://github.com/udathPaladugu) **my first contributions here**
-- [Priceless7] **my first contributions here**
+- [Priceless7](https://github.com/Priceless7) **my first contributions here**
