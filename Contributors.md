@@ -17,6 +17,7 @@
 -[Shreya]
 - [Mehdi Ben Hadj Khelifa](https://github.com/Mehdibenhadjkhelifa) **My First Contribution! Here is to many More!!**
 - [PassionOverPain](https://github.com/PassionOverPain) **😎Anime + Games + Code #_Follow_ Me On this Journey**
+- [AmyZZZ]
 - [James McKey](https://github.com/jmmckey)
 - [Siddharth Pranay](https://github.com/SId-pranay123) ***My first contrib!***
 - [Porin](https://github.com/p0r1n) **Hi!**
