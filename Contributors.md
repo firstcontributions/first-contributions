@@ -12,7 +12,8 @@
 - [Ritesh Singh](https://github.com/ritzzh) *** Do not go gentle into that good night, Rage, rage againt the dying of light ***
 - [Raghav Angra]
 - [Ndifon Titiana](https://github.com/N-TITIAN)
-- [Thu Rain Ko] 
+- [Thu Rain Ko]
+- [Polargeddon] ***i like chez***
 -[Shreya]
 - [Mehdi Ben Hadj Khelifa](https://github.com/Mehdibenhadjkhelifa) **My First Contribution! Here is to many More!!**
 - [PassionOverPain](https://github.com/PassionOverPain) **😎Anime + Games + Code #_Follow_ Me On this Journey**
