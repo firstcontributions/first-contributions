@@ -67,6 +67,7 @@ SahilDhavale
   [Joel](https://github.com/Joeljoy712002) **Hello there,my fellow weebs**
 - [Javier Arroyo Rojas](https://github.com/javier25arroyo)[Linkedin](https://www.linkedin.com/in/javier-arroyo-rojas-268147226/)
 - [Eunbi-Sung]
+- [Ovas04]
 - [HeinKoKo]
 - [Ben Singeltary]
 - [Parker-DeYoung](https://github.com/parker-deyoung)**Hello! This is my first contirbution!**
