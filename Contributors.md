@@ -1,5 +1,6 @@
 # Contributors
 - [Shreyas Shetty](https://github.com/shreyasshetty07) --Learning Fundamentals Right--
+- [FrancescoLegg](https://github.com/FrancescoLegg) ***First open source contribution***
 - [Abhinav mohandas](https://github.com/itsabhinavm) ***First open source contribution***
 - [Abdul Khaliq](https://github.com/realabdulkhaliq) *Started **GitHub Certification Track** to become a feature **AI Engineer**. Already **Python** and **Azure AI** Certified*
 - [wrkean](https://github.com/wrkean) ...and to the next one
