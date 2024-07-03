@@ -1,5 +1,6 @@
 # Contributors
 - [Shreyas Shetty](https://github.com/shreyasshetty07) --Learning Fundamentals Right--
+- [Joy Li](https://github.com/Joy4620) ***First open source contribution***
 - [FrancescoLegg](https://github.com/FrancescoLegg) ***First open source contribution***
 - [Abhinav mohandas](https://github.com/itsabhinavm) ***First open source contribution***
 - [Hilton Cabral](https://github.com/hjccabral) ***My first contrib!***
