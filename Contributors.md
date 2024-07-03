@@ -6059,6 +6059,7 @@ Hector
 - [Nathan Sodja](https://github.com/NateOs)
 - [Sheela Aprameya]
 - [zeekbyte](https://github.com/zeekbyte)
+- [hystee](https://github.com/hystee)
 - [Faizah Farzana](https://github.com/faizahfarzana) **Starting my open source journey!**
 - [Mahir Daiyan](https://github.com/RealMDaiyan)
 - [ivanreeve](https://github.com/ivanreeve)
