@@ -4,6 +4,7 @@
 - [Shreyas Shetty](https://github.com/shreyasshetty07) --Learning Fundamentals Right--
 - [Joy Li](https://github.com/Joy4620) ***First open source contribution***
 - [FrancescoLegg](https://github.com/FrancescoLegg) ***First open source contribution***
+- ## Hello World My Name is **GLORIAH** this is my second Open Source contribution. I'm adding my name in the sands of time.
 - [Abhinav mohandas](https://github.com/itsabhinavm) ***First open source contribution***
 - [Hilton Cabral](https://github.com/hjccabral) ***My first contrib!***
 - [Abdul Khaliq](https://github.com/realabdulkhaliq) *Started **GitHub Certification Track** to become a feature **AI Engineer**. Already **Python** and **Azure AI** Certified*
