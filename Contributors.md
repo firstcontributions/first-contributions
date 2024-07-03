@@ -6084,7 +6084,7 @@ Hector
 - [dycoo](https://github.com/dycoo) **my first contributions - lets go**
 - [Samuel](https://github.com/Samuelchigozie) **Here we Go 😂**
 - [Antoni Marczuk](https://github.com/antonimarczuk123)
--[Samiksha Gariya](https://github.com/samikshagariya) **finally first contribution**
+- [Samiksha Gariya](https://github.com/samikshagariya) **finally first contribution**
 - [arimakishou0505](https://github.com/arimakishou0505)**mochi**
 - [Roboman](https://github.com/RomanDominguez)**MIT student_this is my first contribution**
 - [Nada Feteiha] **my first contributions here**
@@ -6092,3 +6092,4 @@ Hector
 - [Priceless7] **my first contributions here**
 - [Abani] **Hello World, Starting my open source journey, Thanks all**
 - [sash641](https://github.com/sash641)
+- [Mailbek](https://github.com/Mailbek) **Hello all!**
