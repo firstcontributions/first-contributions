@@ -1905,6 +1905,7 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
 - [Maxwell Bruce](https://github.com/MWBruce)
 - [Yodit Abebe] (https://github.com/yodit93)
 - [Amanda Havens](https://github.com/a-havens)
+- [Masseeh Safi] (https://github.com/massgits) (ง'̀-'́)ง
 - [Charles Antoine Malenfant] (https://github.com/Chuck1823)
 - [jatin] (https://github.com/notjatin)
 - [Anton Belov](https://github.com/Commit2Cosmos) **My first contribution**
