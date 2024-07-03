@@ -15,6 +15,7 @@
 -[Shreya]
 - [PassionOverPain](https://github.com/PassionOverPain) **😎Anime + Games + Code #_Follow_ Me On this Journey**
 - [James McKey](https://github.com/jmmckey)
+- [Siddharth Pranay](https://github.com/SId-pranay123) ***My first contrib!***
 - [Porin](https://github.com/p0r1n) **Hi!**
 - [Sagar Singh](https://github.com/Singh-Sagar)**Long journey ahead**
 - [Swapnil](https://github.com/swapnilpatil-github/) Hmm!!!Lets Do This 💪🔥
