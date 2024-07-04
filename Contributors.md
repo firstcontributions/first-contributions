@@ -22,6 +22,7 @@
 - [Brendan Dileo (Drendos)] (https://github.com/devDrendos) *** My first open source code! ***
 - [Ndifon Titiana](https://github.com/N-TITIAN)
 - [Thu Rain Ko]
+- [Samyuktha] ***Yaaay! Lets Goo!***
 - [Polargeddon] ***i like chez***
 -[Shreya]
 - [Harish Rangan](https://github.com/Harish000001) *** My first open source contribution! ***
