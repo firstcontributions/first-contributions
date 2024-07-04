@@ -10,6 +10,8 @@
 - [FrancescoLegg](https://github.com/FrancescoLegg) ***First open source contribution***
 - [Gloria Johnson](https://github.com/riahtgl) ***Hello World My Name is Gloria this is my second Open Source contribution. I'm adding my name in the sands of time.***
 - [Abhinav mohandas](https://github.com/itsabhinavm) ***First open source contribution***
+- [Farouk Sedick](https://github.com/sedfarouk) --
+***Hello everyone, this is Farouk, a problem solver looking to connect with people that push me to my limits. I'm open to collaborating on software engineering and machine learning projects 🔥💻***
 - [Hilton Cabral](https://github.com/hjccabral) ***My first contrib!***
 - [Abdul Khaliq](https://github.com/realabdulkhaliq) *Started **GitHub Certification Track** to become a feature **AI Engineer**. Already **Python** and **Azure AI** Certified*
 - [Vishwajeet Bharadia](https://github.com/Vishwajeet-11) *** 04/07/2024 ***
