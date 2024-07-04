@@ -404,6 +404,7 @@ vrushabhpatil48
 - [Matichelo](https://github.com/MichaellIbarra)
 - [Ritesh Saini](https://github.com/ritesh1601)**Block Chain Development**
 - Siddhesh Sawant
+- Gaurav Ghidiyal **Trying new things**
 - Nivesh kumar(https://github.com/Nivesh12345)
 - Sahil Ahmad **First Contribution**
 - [Swarnabha Halder](https://github.com/swarnabha-dev) **First Contribution 😎**
