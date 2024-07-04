@@ -4,7 +4,7 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-#առաջին նվիրատվություններ
+<h1>առաջին նվիրատվություններ</h1>
 
 Եթե ցանկանում եք կատարել ձեր առաջին ներդրումը, հետեւեք ստորեւ բերված քայլերին:
 
