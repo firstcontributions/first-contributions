@@ -374,6 +374,7 @@ vrushabhpatil48
 - [Leo Raggio](https://github.com/leoraggio) **Hello World!**
 - [p1x1p](https://github.com/p1x1p)
 - [KrishnaChoudhary](https://github.com/Krishnachoudhary619) **Flutter Developer heree, happy learning..**
+- [Thawan Silva](https://github.com/thawansilva) **Front End Developer**
 - [Kartik Singhal](https://github.com/KTKChAoS) **Wonder where I'll be this time next year ☺**
 - [TamalChakraborty](https://github.com/Tamalckb531/) **Hey There! My first contribution. Miles to go before we sleep**
 - [SwelMyel](https://github.com/LazyBoiSM)
