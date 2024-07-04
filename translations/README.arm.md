@@ -2,16 +2,17 @@
 [<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
+#առաջին նվիրատվություններ
 
-# Առաջին ներդրումները
+Եթե ցանկանում եք կատարել ձեր առաջին ներդրումը, հետեւեք ստորեւ բերված քայլերին:
 
-Այս նախագիծը նպատակ ունի պարզեցնել և ուղղորդել, թե ինչպես են սկսնակները կատարում իրենց առաջին ներդրումը: Եթե ​​ցանկանում եք կատարել ձեր առաջին ներդրումը, հետևեք ստորև նշված քայլերին.
-
-_Եթե ​​ձեզ դուր չի գալիս հրամանի տողը, [այստեղ կան ձեռնարկներ՝ օգտագործելով GUI գործիքները](#tutorials-using-other-tools)_
+Եթե դուք չեք համապատասխանում հրամանի տողին, [այստեղ կան tutorials օգտագործելով GUI (գրաֆիկական օգտագործողի ինտերֆեյս) գործիքները](#tutorials-using-other-tools)
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="պատառաքաղել այս պահոցը" />
 
-#### Եթե ​​դուք չունեք git ձեր մեքենայի վրա, [տեղադրեք այն](https://docs.github.com/en/get-started/quickstart/set-up-git).
+#### Եթե չունեք git ձեր համակարգչի մեջ, [տեղադրեք այն][link_Github_git].
+
+[link_Github_git]:https://docs.github.com/en/get-started/quickstart/set-up-git
 
 ## Պատառաքաղեք այս պահոցը
 
