@@ -14,7 +14,8 @@ Readin' tales & watchin' tutorials can help, but wha''s better than actually doi
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-If ye don't 'ave git on yer machine, [install it](https://help.github.com/articles/set-up-git/).
+If ye don't 'ave git on yer machine, [install it][link_Github_git].
+[link_Github_git]: https://help.github.com/articles/set-up-git/
 
 ## Fork this repository
 

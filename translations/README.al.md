@@ -12,7 +12,8 @@ Leximi i artikujve & shikimi i tutorialve ndihmojnë, por ç'është më mirë s
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Nëse nuk ke Git të instaluar në pajisjen tënde, [instaloje](https://help.github.com/articles/set-up-git/).
+Nëse nuk ke Git të instaluar në pajisjen tënde, [instaloje][link_Github_git].
+[link_Github_git]: https://help.github.com/articles/set-up-git/
 
 ## Bëje fork këtë repozitor
 
