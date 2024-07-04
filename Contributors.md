@@ -23,6 +23,7 @@
 - [Brendan Dileo (Drendos)] (https://github.com/devDrendos) *** My first open source code! ***
 - [Ndifon Titiana](https://github.com/N-TITIAN)
 - [Thu Rain Ko]
+- [Samyuktha] ***Yaaay! Lets Goo!***
 - [Polargeddon] ***i like chez***
 -[Shreya]
 - [Harish Rangan](https://github.com/Harish000001) *** My first open source contribution! ***
@@ -31,6 +32,7 @@
 - [AmyZZZ]
 - [James McKey](https://github.com/jmmckey)
 - [Siddharth Pranay](https://github.com/SId-pranay123) ***My first contrib!***
+- [Ann Mukami](https://github.com/Kiunga1) ***Hello World My Name is Ann Mukami. This is my first Open Source contribution. I'm adding my name in the sands of time. ***
 - [Porin](https://github.com/p0r1n) **Hi!**
 - [Sagar Singh](https://github.com/Singh-Sagar)**Long journey ahead**
 - [Swapnil](https://github.com/swapnilpatil-github/) Hmm!!!Lets Do This 💪🔥
@@ -404,6 +406,7 @@ vrushabhpatil48
 - [Matichelo](https://github.com/MichaellIbarra)
 - [Ritesh Saini](https://github.com/ritesh1601)**Block Chain Development**
 - Siddhesh Sawant
+- Gaurav Ghidiyal **Trying new things**
 - Nivesh kumar(https://github.com/Nivesh12345)
 - Sahil Ahmad **First Contribution**
 - [Swarnabha Halder](https://github.com/swarnabha-dev) **First Contribution 😎**
