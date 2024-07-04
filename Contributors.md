@@ -16,6 +16,7 @@
 - [Vishwajeet Bharadia](https://github.com/Vishwajeet-11) *** 04/07/2024 ***
 - [wrkean](https://github.com/wrkean) ...and to the next one
 - [Hussien Ahmed](https://github.com/Ronen-z)
+- [Jayce]
 - [Asmit singh bisht](https://github.com/Asmit-ctrl) *** going to be next revolutionary in tech industry ***
 - [Sohum Chandra Srivastava](https://github.com/sohumcs) *** Trying Open Source ***
 - [Ritesh Singh](https://github.com/ritzzh) *** Do not go gentle into that good night, Rage, rage againt the dying of light ***
@@ -56,7 +57,8 @@
 - [Gemini Lo](https://github.com/geminixmemory) **Hi I'm Gemini fm HK, welcome any connection**
 - [Oscar McGlone](https://github.com/oscarmcgl) **hey, I'm Oscar**
 - [Shashank](https://github.com/shshaank) **hey, this is my second pr**
-- [Mario Gonzalez Lozano] (https://github.com/Mayin2023mj) 
+- [Mario Gonzalez Lozano] (https://github.com/Mayin2023mj)
+- Suryanshi - KVY 
 - [SrinidhiPS11](https://github.com/SrinidhiPs11)**Small step for man, Big step for mankind.**
 - [Ajmal Ras](https://github.com/Dynopro) `I will make a valuable contribution to the open source project by meticulously documenting all the bugs I introduce.`🤞
 - [Sandip Kumar Dey](https://github.com/sandipkumardey) **Hey! This is my first contribution**
@@ -6113,3 +6115,4 @@ Hector
 - [Mailbek](https://github.com/Mailbek) **Hello all!**
 - [nietoyface](https://github.com/nietoyface) **my first contributions here, thanks!**
 - [Roberto Gutiérrez](https://github.com/robertoargs) **This is my first contribution**
+- [Tobias Leong](https://github.com/jaabberwocky) **Hello everyone!**
