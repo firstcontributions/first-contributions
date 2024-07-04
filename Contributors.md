@@ -72,6 +72,7 @@
 - [JIMIN1020](https://github.com/JIMIN1020) **Hi 👋**
 - [Fizza Rubab](https://github.com/Fizza-Rubab)
 - [Aarav Bundela](https://github.com/Ab20zip) **_"Programs must be written for people to read, and only incidentally for machines to execute."_ - Harold Abelson**
+- [Switch]
 - [dhairya-1105](https://github.com/dhairya-1105) **My first open source contribution!!**
 - [Phone Pyae Sone Phyo](https://github.com/sonephyo) **Hello, I hope everyone contribute to open source projects for solutions towards problems**
 - [Tejas Gadhe](https://github.com/triple4t) 
