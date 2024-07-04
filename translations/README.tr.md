@@ -11,7 +11,7 @@ Makale okumak ve eğitim videoları izlemek yardımcı olabilir, fakat bir işi 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Eğer bilgisayarınızda git kurulu değil ise, [ yükleyin ]( https://help.github.com/articles/set-up-git/ ).
+Eğer bilgisayarınızda git kurulu değil ise, [ yükleyin ][link-Github_git].
 
 ## Projeyi "çatallama"
 
@@ -132,3 +132,6 @@ Artık diğer projelere katkı sunmaya hazırsınız. Çözmeye başlayabileceğ
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
 
+
+
+[link-Github_git]: https://help.github.com/articles/set-up-git/

@@ -15,7 +15,7 @@ Maaaring makatulong ang pagbabasa ng mga artikulo at panonood ng mga *tutorials*
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Kung hindi naka-*install* ang *git* sa iyong kompyuter, [i-install mo](https://help.github.com/articles/set-up-git/).
+Kung hindi naka-*install* ang *git* sa iyong kompyuter, [i-install mo][link-Github_git].
 
 ## I-fork ang repository
 
@@ -122,3 +122,6 @@ Ngayon, magsimula ka na mag-contribute sa ibang proyekto. Nagtipon kami ng lista
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
 
+
+
+[link-Github_git]: https://help.github.com/articles/set-up-git/
