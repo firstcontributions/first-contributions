@@ -13,7 +13,7 @@ Karatun labarai da koyawa kan layi na iya taimaka muku, amma menene ya fi yin ai
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Idan ba ku da inji a kan injin ku, [shigar da shi]( https://help.github.com/articles/set-up-git/).
+Idan ba ku da inji a kan injin ku, [shigar da shi][link-Github_git].
 
 
 ## Cire wannan babban fayil ɗin
@@ -132,3 +132,6 @@ Yanzu, bari mu fara da ba da gudummawa don wasu ayyuka. Mun tattara jerin ayyuka
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
 
+
+
+[link-Github_git]: https://help.github.com/articles/set-up-git/

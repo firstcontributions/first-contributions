@@ -13,7 +13,7 @@
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="forknite tento repozitár" />
 
-Ak máte nainštalovaný git, [nainštalujte si ho]( https://help.github.com/articles/set-up-git/).
+Ak máte nainštalovaný git, [nainštalujte si ho][link-Github_git].
 
 ## Forknite tento repozitár
 
@@ -123,3 +123,5 @@ Teraz vám už nič nebráni v prispievaní do ostatných projektov. Pripravili 
 |<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width=" 100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia /commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https:/ /firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
 |---|---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md )|[Visual Studio Code](../github-windows-vs-code-tutorial.md)|
+
+[link-Github_git]: https://help.github.com/articles/set-up-git/
