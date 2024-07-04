@@ -16,6 +16,7 @@
 - [wrkean](https://github.com/wrkean) ...and to the next one
 - [Hussien Ahmed](https://github.com/Ronen-z)
 - [Asmit singh bisht](https://github.com/Asmit-ctrl) *** going to be next revolutionary in tech industry ***
+- [Sohum Chandra Srivastava](https://github.com/sohumcs) *** Trying Open Source ***
 - [Ritesh Singh](https://github.com/ritzzh) *** Do not go gentle into that good night, Rage, rage againt the dying of light ***
 - [Raghav Angra]
 - [Brendan Dileo (Drendos)] (https://github.com/devDrendos) *** My first open source code! ***
