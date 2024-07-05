@@ -534,6 +534,7 @@ vrushabhpatil48
 - [Yoon Thiri Aung](https://github.com/yoon-thiri04)
 - [NDC]
 - [Joel Burns]
+- [DevarshShroff](https://github.com/DevarshShroff) **My First Contribution <3**
 - [negraop](https://github.com/negraop) **Hello, World! 🌎👾**
 - [Priyal Shah]
 - [Suman Gaire] (https://github.com/sumangaire52)
