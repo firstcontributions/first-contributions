@@ -6110,6 +6110,7 @@ Hector
 - [zeekbyte](https://github.com/zeekbyte)
 - [hystee](https://github.com/hystee)
 - [Faizah Farzana](https://github.com/faizahfarzana) **Starting my open source journey!**
+- [Al Fahad](https://github.com/TheCodeWhispererBard) **Time to whisper some contribution**
 - [Mahir Daiyan](https://github.com/RealMDaiyan)
 - [ivanreeve](https://github.com/ivanreeve)
 - [lucas] (https://github.com/lucas-low/) `just having weird fun in github giant list at the end been working in gitlab for too long`
