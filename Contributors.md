@@ -144,6 +144,7 @@ Vedant Raut here and this is my first Contribution
 - [Youssef Wageeh](https://github.com/ywageeh) **Hopefully the first of many!**
 - [Marupaka Sai Teja](https://github.com/saiteja1323) **Just the start!**
 - [Noel](https://github.com/joyles28) **+1**
+- [Shubham Sinha](https://github.com/shubhamsinha2512) **Hello Guys, staring my Open-Source journey here!!**
 - [Khin Myint Myat Thu]  **Hello, I'm Khin from Myanmar**
 - [graycracker1](https://github.com/graycracker1) **First Contribution start of something new**
 - Ruchitankshi
