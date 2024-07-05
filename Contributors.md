@@ -1,5 +1,6 @@
 # Contributors
 - [Hasson](https://github.com/ahmeedHassan1) **Hello**
+- [Nagi](https://github.com/Nagi132/) **First Open Source Contribution**
 - [Diogo Lima](https://github.com/h8machine) **Hi! This is my first contribution on GitHub!**
 - [Al-Musbahi](https://github.com/musbahi-git) **Salam.**
 - [Hemraj Bhatt](https://github.com/HemrajB87/) **First Open Source Contribution**
