@@ -6128,3 +6128,4 @@ Hector
 - [nietoyface](https://github.com/nietoyface) **my first contributions here, thanks!**
 - [Roberto Gutiérrez](https://github.com/robertoargs) **This is my first contribution**
 - [Tobias Leong](https://github.com/jaabberwocky) **Hello everyone!**
+- [Gonnawooh](https://github.com/gonnawooh) **Halo**
