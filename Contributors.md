@@ -5,6 +5,7 @@
 - [Adarsh](https://github.com/adarshsingh7) **root@adarsh i use fedora BTW**
 - [Nagi](https://github.com/Nagi132/) **First Open Source Contribution**
 - [Diogo Lima](https://github.com/h8machine) **Hi! This is my first contribution on GitHub!**
+- [Binyam Mamo](https://github.com/BinyamMamo) **Didn't break anything on my first try! Contributing was easier than I thought.**
 - [Al-Musbahi](https://github.com/musbahi-git) **Salam.**
 - [Hemraj Bhatt](https://github.com/HemrajB87/) **First Open Source Contribution**
 - [Kuan-Fu Lin](https://github.com/kfulin) **First Open Source Contribution**
