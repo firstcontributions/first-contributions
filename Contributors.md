@@ -15,6 +15,7 @@
 - [Kuan-Fu Lin](https://github.com/kfulin) **First Open Source Contribution**
 [lakshitha-madushan](https://github.com/lakshitha779988) **This is my first contribution and is awesome**
 - [AbelolDev](https://github.com/AbelolDev) **This is my first contribution and is awesome**
+- [Haya](https://github.com/HayaOnGit) **First contribution**
 - [Jaeah Lee - Ruthgyeul](https://github.com/ruthgyeul) **Don't Stop, Keep Coding!**
 - [Trazer09](https://github.com/Trazer09)
 - [Shreyas Shetty](https://github.com/shreyasshetty07) --Learning Fundamentals Right--
