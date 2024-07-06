@@ -24,6 +24,7 @@
 - [Joy Li](https://github.com/Joy4620) ***First open source contribution***
 - [FrancescoLegg](https://github.com/FrancescoLegg) ***First open source contribution***
 - [Camille Barker](https://github.com/camillebarker) ***yay i did it***
+- [M Sekhon](https://github.com/markussekhon) ***hello!***
 - [Bala Murali](https://github.com/balamurali0701) ***First Open Source Contribution***
 - [Kevin Giron](https://github.com/K-Giron) ***Agregando datos***
 - [Gloria Johnson](https://github.com/riahtgl) ***Hello World My Name is Gloria this is my second Open Source contribution. I'm adding my name in the sands of time.***
