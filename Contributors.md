@@ -1,5 +1,6 @@
 # Contributors
 - [Uma Avula](https://github.com/umavl6) **Hoping for many more such contributions..!! this is Uma and happy coding :)**
+- [Harshana Srimal](https://harshanasrimal.com) **Love to Code. find me on** [**Github**](https://github.com/harshanasrimal) **also**
 - [Qamreen](https://github.com/Qamreen22) **Hi**
 - [Hasson](https://github.com/ahmeedHassan1) **Hello**
 - [Julius278](https://github.com/julius278) **Just here for the contribution on my profile :D**
