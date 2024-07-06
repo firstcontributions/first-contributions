@@ -91,6 +91,7 @@
 - I am Muhammad Musa Mueed (M.M.M) exploring Git & GitHub
 - [nhatminh0509](https://github.com/nhatminh0509) **Hi I am Nhat from VN**
 - [JIMIN1020](https://github.com/JIMIN1020) **Hi 👋**
+- [Mohammed Afzal](https://github.com/afzal-456) **Hello, I am here tooooooo....**
 - [Fizza Rubab](https://github.com/Fizza-Rubab)
 - [Aarav Bundela](https://github.com/Ab20zip) **_"Programs must be written for people to read, and only incidentally for machines to execute."_ - Harold Abelson**
 - [Switch]
