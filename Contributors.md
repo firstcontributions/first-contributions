@@ -6148,3 +6148,4 @@ Hector
 - [Namae Conde](https://github.com/namaeconde) **Hello world**
 - [Adarsh Naik](https://github.com/adarsh-naik-2004)**Hello All**
 - [Raul Matarazo](https://github.com/RaulMatarazo)**What's UP**
+- [Joseph Ressler] (https://github.com/joeressler) **Hello, world!**
