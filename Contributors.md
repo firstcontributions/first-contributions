@@ -2,7 +2,7 @@
 - [Hasson](https://github.com/ahmeedHassan1) **Hello**
 - [Ekaums](https://github.com/Ekaums) **hehehhehehehehehehhehehe**
 - [nouracea](https://github.com/nourpups) **Invoker mainer)**
-- [Adarsh](https://github.com/adarshsingh7) **root@adarsh i use fedora btw**
+- [Adarsh](https://github.com/adarshsingh7) **root@adarsh i use fedora BTW**
 - [Nagi](https://github.com/Nagi132/) **First Open Source Contribution**
 - [Diogo Lima](https://github.com/h8machine) **Hi! This is my first contribution on GitHub!**
 - [Al-Musbahi](https://github.com/musbahi-git) **Salam.**
