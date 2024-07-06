@@ -10,8 +10,8 @@
   [lakshitha-madushan](https://github.com/lakshitha779988) **This is my first contribution and is awesome**
 - [AbelolDev](https://github.com/AbelolDev) **This is my first contribution and is awesome**
 - [Jaeah Lee - Ruthgyeul](https://github.com/ruthgyeul) **Don't Stop, Keep Coding!**
-- [Trazer09](https://github.com/Trazer09)
 - [Ian Tawileh](https://github.com/iantaw) **This is my first contribution! Dont Stop Coding!**
+- [Trazer09](https://github.com/Trazer09)
 - [Shreyas Shetty](https://github.com/shreyasshetty07) --Learning Fundamentals Right--
 - [Joy Li](https://github.com/Joy4620) **_First open source contribution_**
 - [FrancescoLegg](https://github.com/FrancescoLegg) **_First open source contribution_**
@@ -91,6 +91,8 @@
 - [dhairya-1105](https://github.com/dhairya-1105) **My first open source contribution!!**
 - [Phone Pyae Sone Phyo](https://github.com/sonephyo) **Hello, I hope everyone contribute to open source projects for solutions towards problems**
 - [Tejas Gadhe](https://github.com/triple4t)
+- [Tejas Gadhe](https://github.com/triple4t) 
+- [Taarik Ashenafi](https://github.com/taarikashenafi) **First contribution ever.**
 - [Wesley Kambale](https://github.com/wkambale) **the matrix brought me here**
 - [angad363](https://github.com/angad363) **My first open source contribution!!**
 - [Ayid Sudirman](https://github.com/a10n-jsd) | **I use a computer to build things**
@@ -306,6 +308,7 @@
 - [José Vitor] (https://github.com/Jose-silvaa)**My first contribution\*\*
 - [Abigail sylvie](https://github.com/abigailsylvie) this is were i began my journey!
 - [Eduardo Castro](https://github.com/eduardocastrogt) **This is my first contribution!!!**
+- [Samil Rodriguez](https://github.com/SamilRod) **First contribution 😅, hope it goes well**
 - [ashish0kumar](https://github.com/ashish0kumar)
 - [Akash Arumugam](https://github.com/akasharumugamm)
 - [Ntokozo-Ndlovu](https://github.com/Ntokozo-Ndlovu)
