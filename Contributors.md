@@ -19,6 +19,7 @@
 - [Flimmers]!!!!
 - [Shashank](https://github.com/shshaank)**making my first contribution ever🫂**
 - [Amit kumar] (https://github.com/amitkrmaurya09) ----Hi-----
+- [James Demo McKey] (https://github.com/jmmckey)
 - [rishabh-sarang] yo
 - [Gemini Lo](https://github.com/geminixmemory) **Hi I'm Gemini fm HK, welcome any connection**
 - [Oscar McGlone](https://github.com/oscarmcgl) **hey, I'm Oscar**
