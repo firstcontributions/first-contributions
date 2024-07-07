@@ -6186,5 +6186,5 @@ Hector
 - [Joseph Ressler] (https://github.com/joeressler) **Hello, world!**
 - [Monish Soni] (https://github.com/Monishsoni296) **Helo**
 - [Justin Tan] (https://github.com/jtyj-github) **Hello, world!**
-- [Serhii Serdiuk] (https://github.com/SerhiiSerdiukDev) **Glory to Ukraine!**
+- [Serhii Serdiuk](https://github.com/SerhiiSerdiukDev) **Glory to Ukraine!**
 - [Muhamad Arido](https://github.com/muhamad-arido) **This is my first contribution**
