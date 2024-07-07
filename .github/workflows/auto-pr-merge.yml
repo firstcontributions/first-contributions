@@ -1,4 +1,4 @@
-name: Auto-merge PRs
+name: Lav Kushwaha
 on:
   pull_request_target:
     types: [opened, synchronize]
@@ -7,11 +7,11 @@ on:
     
 jobs:
   auto-merge:
-    runs-on: ubuntu-latest
+    runs-on: dsa
     permissions:
-      contents: write
-      pull-requests: write
-      issues: write
+      contents: java
+      pull-requests: just see how it works open source
+      issues: no issue
       
     steps:
       # Check out the repository code
