@@ -34,6 +34,7 @@
 - [Gloria Johnson](https://github.com/riahtgl) ***Hello World My Name is Gloria this is my second Open Source contribution. I'm adding my name in the sands of time.***
 -[Deepa Shree](https://github.com/ahmeedHassan1) **Open source contribution**
 -[Praneeth Gourla](https://github.com/praneethgourla18) **open source contribution**
+- [Suvan Shenoy](https://github.com/suvanshenoy) **open source contribution**
 - [Abhinav mohandas](https://github.com/itsabhinavm) ***First open source contribution***
 - [Hilton Cabral](https://github.com/hjccabral) ***My first contrib!***
 - [Abdul Khaliq](https://github.com/realabdulkhaliq) *Started **GitHub Certification Track** to become a feature **AI Engineer**. Already **Python** and **Azure AI** Certified*
