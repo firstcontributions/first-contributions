@@ -1,4 +1,5 @@
 # Contributors
+- [Fei_NoLabel](https://github.com/umavl6) **Stay hungry，stay foolish.**
 - [Uma Avula](https://github.com/umavl6) **Hoping for many more such contributions..!! this is Uma and happy coding :)**
 - [Shyam Raj D](https:github.com/shyamshyam018) **Stoic Coder Shyam Says HI**
 - [Harshana Srimal](https://harshanasrimal.com) **Love to Code. find me on** [**Github**](https://github.com/harshanasrimal) **also**
@@ -14,10 +15,12 @@
 - [Binyam Mamo](https://github.com/BinyamMamo) **Didn't break anything on my first try! Contributing was easier than I thought.**
 - [Al-Musbahi](https://github.com/musbahi-git) **Salam.**
 - [Donald](https://github.com/Nodebaron) **First Open Source Contribution**
+- [Dasu Rahul](https://github.com/dasurahul) **First Open Source Contribution**
 - [Hemraj Bhatt](https://github.com/HemrajB87/) **First Open Source Contribution**
 - [Kuan-Fu Lin](https://github.com/kfulin) **First Open Source Contribution**
 [lakshitha-madushan](https://github.com/lakshitha779988) **This is my first contribution and is awesome**
 - [AbelolDev](https://github.com/AbelolDev) **This is my first contribution and is awesome**
+-[Mayank kakkar](https://github.com/Mynk1701) **First Contribution**
 - [Haya](https://github.com/HayaOnGit) **First contribution**
 - [Jaeah Lee - Ruthgyeul](https://github.com/ruthgyeul) **Don't Stop, Keep Coding!**
 - [Trazer09](https://github.com/Trazer09)
@@ -35,6 +38,7 @@
 - [Hilton Cabral](https://github.com/hjccabral) ***My first contrib!***
 - [Abdul Khaliq](https://github.com/realabdulkhaliq) *Started **GitHub Certification Track** to become a feature **AI Engineer**. Already **Python** and **Azure AI** Certified*
 - [Vishwajeet Bharadia](https://github.com/Vishwajeet-11) *** 04/07/2024 ***
+- [yeahdy](https://github.com/yeahdy) *** 2024-07-07 Let's be a contributor ***
 - [Michael Studley](https://github.com/M-Studley) ***This is my first attempt at a contribution!***
 - [wrkean](https://github.com/wrkean) ...and to the next one
 - [Hussien Ahmed](https://github.com/Ronen-z)
@@ -94,6 +98,7 @@
 - [SrinidhiPS11](https://github.com/SrinidhiPs11)**Small step for man, Big step for mankind.**
 - [Ajmal Ras](https://github.com/Dynopro) `I will make a valuable contribution to the open source project by meticulously documenting all the bugs I introduce.`🤞
 - [Sandip Kumar Dey](https://github.com/sandipkumardey) **Hey! This is my first contribution**
+- [Janhavi Patil](https://github.com/JanhaviPatil05) **Heyy,This is my First contribution!**
 - [Vincent La]
 - [Junaidali Barodawala](https://github.com/junaidali-b) **Greetings! I am Junaidali, an aspiring Data Scientist based in London.** Let's connect on **[Linkdin](https://www.linkedin.com/in/junaidalib)!**
 - **Dimitris Anastasopoulos**[![GitHub](https://img.icons8.com/?size=30&id=sbhfmWq4KRr1)](https://github.com/Trilien) [![LinkedIn](https://img.icons8.com/?size=25&id=xuvGCOXi8Wyg)](https://www.linkedin.com/in/dimitrios-anastasopoulos-2993b712b/)
@@ -212,6 +217,7 @@ Niggesh
 - [vansh bhatia](https://github.com/vanshbhatia2192) **My first contribution, Hello from India!
 - [Leanna T](https://github.com/morsebones) My first contribution
 - [K Om Senapati](https://github.com/kom-senapati) *"Hello, I am K Om from India!"*
+- [Sriya](https://github.com/sriyanope) **yipee!!**
 - [Gerardo Salinas]() **Hello i'm Gerardo from Honduras and this is my first contribution!**
 - Hi! I am Jaspreet and i'm here to Rock & Roll haha
 - [Dibyendu Bhattacharya](https://github.com/Debu20051115) **Have a good day to anyone who is reading** 
@@ -1251,6 +1257,7 @@ Abhinav Jain
 - [Jair Balcazar](https://github.com/Jairbal) 🕷️
 - [Erin Nelson](https://github.com/erindust)
 - [Yalê](https://github.com/ericssendelima)
+- [ZaidNadaf](https://github.com/zaidnadaff) **A New Journey, let's hope for the best!**
 - [Abhiraj Aditya](https://github.com/abhiraj860)
 - [Jason Allen](https://github.com/jtoallen)
 - Ruben Gomez Bahamonde
@@ -1919,6 +1926,7 @@ Hannah Sung
 - Muluken Mamo
 - Henry Christiani
 - Nishant Kumar(https://github.com/bitunishant)
+- Chris Gutu(https://github.com/Gutuchris)
 - [Nimrod Kabiru](https://github.com/nimuragz)
 - [MuhammadNurHakimi] (https://github.com/nurhakimi97) i'm going to be the best developer in the world
  [111703012](https://github.com/caijinghong1468)
