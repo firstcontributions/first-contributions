@@ -1,4 +1,5 @@
-# Contributors 
+# Contributors
+-[Kandarp-C](https://github.com/Kandarp-C) **Hey, I would like to contribute to open source and make this world an easier place to exist**
 - [wrkean](https://github.com/wrkean) ...and to the next one
 - [Raghav Angra]
 - [Thu Rain Ko] 
