@@ -1,5 +1,6 @@
 # Contributors
 - [Uma Avula](https://github.com/umavl6) **Hoping for many more such contributions..!! this is Uma and happy coding :)**
+- [Shyam Raj D](https:github.com/shyamshyam018) **Stoic Coder Shyam Says HI**
 - [Harshana Srimal](https://harshanasrimal.com) **Love to Code. find me on** [**Github**](https://github.com/harshanasrimal) **also**
 - [Qamreen](https://github.com/Qamreen22) **Hi**
 - [Hasson](https://github.com/ahmeedHassan1) **Hello**
