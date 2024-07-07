@@ -458,6 +458,7 @@ vrushabhpatil48
 - [Rachael Odetayo](https://github.com/Rakielle)
 - [Anz Jo Xavier](https://github.com/anzjoxavier) **Open to Jobs**
 - [Alley Chaggar](https://github.com/AlleyCH) **HELLO EARTHLINGS!!!!!! My first contribution but not my last 👽**
+- [gblasd](https://github.com/GustavoBD-Dev) **My First Contribution 🚀**
 - [leesxs](https://github.com/leesxs) **First contribution! Live long and prosper 🖖**
 - [Deep Sresthi](https://github.com/Deepsresthi)
 - Phoebe Muthoni
