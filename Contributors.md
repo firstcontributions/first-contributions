@@ -61,6 +61,7 @@
 - [Arisandi kader](https://github.com/arisandidev29) ** go beyond **
 - [AmyZZZ]
 - [Lautaro Beutel](https://github.com/LautaroBeutel) *** My first step on this jurney ***
+- [Meir Neustadt](https://github.com/meir-neustadt) *** My first step on this jurney ***
 - [James McKey](https://github.com/jmmckey)
 - [Siddharth Pranay](https://github.com/SId-pranay123) ***My first contrib!***
 - [Ann Mukami](https://github.com/Kiunga1) ***Hello World My Name is Ann Mukami. This is my first Open Source contribution. I'm adding my name in the sands of time. ***
