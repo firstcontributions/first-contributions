@@ -631,6 +631,7 @@ vrushabhpatil48
 - [Ali Dashti](https://github.com/XxDaShTixX) **Happy to be a part of this 😙**
 - [Rafael Biasiolo] (https://github.com/Biasiolo) ** Go Horse! **
 - [crystal941] (https://github.com/crystal941) ** Kia Ora! **
+- [Chaitanya Varma Rudraraju] (https://github.com/Chaitu5210) **Holaaaaaaaa Every One**
 - Afonso Matoso Magalhães
 - [Kelvin Arias] (https://github.com/KelFrontEndDev) ** Happy Coding! **
 - [Yash Agarwal](https://github.com/Yash05080)**have a great open source journey to everyone 🤙**
