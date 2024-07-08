@@ -6217,3 +6217,4 @@ Hector
 - [pie2cookie](https://github.com/pie2cookie) **First Little Step**
 - [Loooouuu](https://github.com/lucatodeschini) **My first contribution**
 - [Med-Ri](https://github.com/Med-Ri) **In programming, every problem is an opportunity to learn.**
+- [Ángel Ramírez](https://github.com/eledoce) **Yooo!**
