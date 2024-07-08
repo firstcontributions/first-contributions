@@ -32,7 +32,8 @@
 -[Mayank kakkar](https://github.com/Mynk1701) **First Contribution**
 - [Haya](https://github.com/HayaOnGit) **First contribution**
 - [Jaeah Lee - Ruthgyeul](https://github.com/ruthgyeul) **Don't Stop, Keep Coding!**
-- [Trazer09](https://github.com/Trazer09)
+- [Trazer09](https://github.com/Trazer09)~
+- [hugoConceicaoPT] (https://github.com/hugoConceicaoPT/) **I'm going to be successful, you have seen here first!!**
 - [Shreyas Shetty](https://github.com/shreyasshetty07) --Learning Fundamentals Right--
 - [Joy Li](https://github.com/Joy4620) ***First open source contribution***
 - [FrancescoLegg](https://github.com/FrancescoLegg) ***First open source contribution***
