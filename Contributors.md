@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 -JOHAN
 -JohnK
 - [modestlyhubris](https://github.com/modestlyhubris/) **This is a contribution. Attempt 2**
@@ -45,6 +45,7 @@
 - [Gloria Johnson](https://github.com/riahtgl) ***Hello World My Name is Gloria this is my second Open Source contribution. I'm adding my name in the sands of time.***
 -[Deepa Shree](https://github.com/ahmeedHassan1) **Open source contribution**
 -[Praneeth Gourla](https://github.com/praneethgourla18) **open source contribution**
+Shullll-
 - [Suvan Shenoy](https://github.com/suvanshenoy) **open source contribution**
 - [Abhinav mohandas](https://github.com/itsabhinavm) ***First open source contribution***
 - [Hilton Cabral](https://github.com/hjccabral) ***My first contrib!***
@@ -274,7 +275,7 @@ Niggesh
 - [vincent Obaro](https://github.com/vincelogs) **Hello World!, it's nice to be here🫶**
 -[Mohit Joping](https://github.com/mohitjoping) ** Hi everyone, Let's connects on x** * -[clickhere](https://x.com/mohitjoping)*
 - [**Nastaran Motiee**](https://github.com/nastaran-motiee) 😉
-- [Stefan](https://github.com/Stefanroets180) **This is my first contribution Lets GO!!** 👾👽
+- [Stefan](https://github.com/Stefanroets180) **This is my first contribution Lets GO!!** 👾??
 - [Vishwas](https://github.com/vshws)**This is my First Contribution in github thank you so much to make us learn contributing**
 - [Manogna] (https://github.com/manojna18) 
 - [Matthew Keaton](https://github.com/mkeaton08)**Hello World**
@@ -347,7 +348,7 @@ Esta es mi primera contribucion por parte de la URC
 - Min Thant Kyaw (https://github.com/mintechkyaw)
 - Abhilash __**for my friend**__
 - Mahima Uliyar (https://github.com/mahimu04) 
-- [HemalTharakaeEranga](https://github.com/HemalTharakaeEranga) **Ayubowan...! I'm Hemal, Do you know about my strengths, if you don't know please still be with me. Change the World.🦁😍😇**
+- [HemalTharakaeEranga](https://github.com/HemalTharakaeEranga) **Ayubowan...! I'm Hemal, Do you know about my strengths, if you don't know please still be with me. Change the World.??😍😇**
 - [Bhukya-Sriram] (https://github.com/Bhukya-Sriram) **role_of_smile**
 - [Young Eun Choi](https://github.com/youngeunChoi) **Hello Everyone!**
 - [PalashSharma20](https://github.com/PalashSharma20) Hello!
@@ -791,7 +792,7 @@ vrushabhpatil48
 - [Yuki](https://github.com/yukuri611)
 - [Aiden Eyre](https://github.com/AidenEyre)
 - [Kosuket](https://github.com/Kosuke-Tsunetomo)
-- [Jason](https://github.com/jasoncobra3)**Hello, great to start from here**🚀🔥
+- [Jason](https://github.com/jasoncobra3)**Hello, great to start from here**??🔥
 - Dmitriy211
 - [Salman Faris](https://github.com/salmanzego)
 - [Sathvik Duddela](https://github.com/r4iden-IITR)
