@@ -97,6 +97,7 @@
   [Arian Soltani](https://github.com/Arian1-dev)
 - [Gemini Lo](https://github.com/geminixmemory) **Hi I'm Gemini fm HK, welcome any connection**
 - [Oscar McGlone](https://github.com/oscarmcgl) **hey, I'm Oscar**
+- [Aditya](https://github.com/adityax4) **Hello World**
 - [Shashank](https://github.com/shshaank) **hey, this is my second pr**
 - [Mario Gonzalez Lozano] (https://github.com/Mayin2023mj)
 - Suryanshi - KVY 
