@@ -6202,3 +6202,4 @@ Hector
 - [Muhamad Arido](https://github.com/muhamad-arido) **This is my first contribution**
 - [Michal Bielawski](https://github.com/bielawskimichal) **My first contribution**
 - [pie2cookie](https://github.com/pie2cookie) **First Little Step**
+- [Loooouuu](https://github.com/lucatodeschini) **My first contribution**
