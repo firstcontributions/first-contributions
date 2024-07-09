@@ -27,6 +27,7 @@
 - [nouracea](https://github.com/nourpups) **Invoker mainer)**
 - [Adarsh](https://github.com/adarshsingh7) **root@adarsh i use fedora BTW**
 mh
+- [Yash Bhavsar](https://github.com/yashexe) **First Contribution, heres to many more!**
 - [SameerR](https://github.com/SameerSRao) ***First contribution***
 - [Nagi](https://github.com/Nagi132/) **First Open Source Contribution**
 - [Diogo Lima](https://github.com/h8machine) **Hi! This is my first contribution on GitHub!**
