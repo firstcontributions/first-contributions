@@ -92,6 +92,7 @@
 - [Swapnil](https://github.com/swapnilpatil-github/) Hmm!!!Lets Do This 💪🔥
 - [Tiago Afonso](https://github.com/thiago-Coderr) Contributing to open source helps foster innovation, collaboration, and community growth
 - [Wingyee He](https://github.com/KuKustudy) **This is Wingyee from Australia, lets GOOOO**
+- [Phanis Parpas](https://github.com/fparpas) **This is Phanis from lovely and sunny Cyprus**
 - [Aman Kumar]-Yeah!!done with my first contribution lets see whats next 
 - [Daniel Osojnik] (https://github.com/zabooz/)
 - [Michael Shiferaw] (https://github.com/mickshiferaw)
