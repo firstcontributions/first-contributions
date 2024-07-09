@@ -83,7 +83,7 @@ git clone https://github.com/this-is-you/first-contributions.git
 </div>
 
 <div dir="rtl">
-החליפו לתיקיית המאגר בתוך המחשב שלכם (אם אינכם נמצאים כבר בתיקייה זו ):
+החליפו לתיקיית המאגר בתוך המחשב שלכם (באם טרם נכנסתם לתיקייה זו):
 </div>
 
 ```
@@ -91,7 +91,7 @@ cd first-contributions
 ```
 <div dir="rtl">
   
-כעת, תצרו ענף בשימוש הפעולה `git checkout`:
+כעת, צרו ענף (branch) בשימוש הפעולה `git checkout`:
 </div>
 
 ```
@@ -169,7 +169,7 @@ git push origin <add-your-branch-name>
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-בקרוב, אני אצרף את כל השינויים לתוך הענף הראשי של פרויקט זה. אתם תקבלו עדכון במייל ברגע שהשינויים ימוזגו.
+בקרוב, אצרף את כל השינויים לתוך הענף הראשי של פרויקט זה. אתם תקבלו עדכון במייל ברגע שהשינויים ימוזגו.
 </div>
 
 <div dir="rtl">
