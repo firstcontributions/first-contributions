@@ -16,6 +16,7 @@
 - [Aaron](https://github.com/nuffQuantumSayd) **First timer!!**
 - [AaronR](https://github.com/AaronR23)**Also a first timer**
 - [Hasson](https://github.com/ahmeedHassan1) **Hello**
+- [guruprashanth2004](https://github.com/guruprashanth2004)** guru was here**   
 - [Julius278](https://github.com/julius278) **Just here for the contribution on my profile :D**
 - [ChrisSpencer](https://github.com/crspencer11) **Gonna fix pandas**
 - [Ekaums](https://github.com/Ekaums) **hehehhehehehehehehhehehe**
