@@ -35,6 +35,7 @@
 - [Hemraj Bhatt](https://github.com/HemrajB87/) **First Open Source Contribution**
 - [Affan Khan](https://github.com/affank1020) **First open source contribution**
 - [Kuan-Fu Lin](https://github.com/kfulin) **First Open Source Contribution**
+- [Titiksha Gupta](https://github.com/titiksha6390) **Lets Try something new 10-07-2024**
 [lakshitha-madushan](https://github.com/lakshitha779988) **This is my first contribution and is awesome**
 - [AbelolDev](https://github.com/AbelolDev) **This is my first contribution and is awesome**
 -[Mayank kakkar](https://github.com/Mynk1701) **First Contribution**
