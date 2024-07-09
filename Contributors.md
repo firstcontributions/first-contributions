@@ -2349,6 +2349,7 @@ guanj65
 - [Harish Maganti](https://github.com/harishm22)
 - [Kamangu Maeti](https://github.com/KmgSamuel)
 - [Jay CP](https://github.com/jaycp30) 
+- [Alex-de-code](https://github.com/Alex-de-code) <!-- -Remember to stretch + touch grass. Have a good life! -->
 - [Snagnik Das](https://github.com/snagnikd)
 - [Jesus Fernando Torres](https://github.com/JFerchoTorres)
 - [Jose Luna](https://github.com/jlunabacilio)
