@@ -3,6 +3,7 @@
 -JOHAN
 -JohnK
 - [Kira](https://github.com/KiraTheComputer) **Hiiii :3333**
+- [Edwin Parejas](https://github.com/edwinparejas) **Testing my contribution on GitHub!**
 - [Estuart] **Trying Contribution**
 - [modestlyhubris](https://github.com/modestlyhubris/) **This is a contribution. Attempt 2**
 -Bhavishya Singla
