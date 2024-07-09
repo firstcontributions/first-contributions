@@ -694,6 +694,7 @@ vrushabhpatil48
 - Aryaman Bansal
 - [Niloy Biswas](https://github.com/Niloy077)
 - [Neeraj Sharma](https://github.com/imneerajsharma)
+- [Tristan Rentsch](https://github.com/TristanRentsch) **My first open source contribution!**
 - [Luke Olende](https://github.com/LukeOlende)
 - [Luca](https://github.com/LucaJahnen)
 - [schwong] (https://github.com/schwong)
