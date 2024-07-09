@@ -11,6 +11,7 @@
 - [Abraham](https://github.com/Abraham-Chileshe/) **Hi**
 - [Qamreen](https://github.com/Qamreen22) **Hi**
 - [Abhi](https://github.com/Abhi-goyal1) **Hi**
+- [Aaron](https://github.com/nuffQuantumSayd) **First timer!!**
 - [Hasson](https://github.com/ahmeedHassan1) **Hello**
 - [Julius278](https://github.com/julius278) **Just here for the contribution on my profile :D**
 - [ChrisSpencer](https://github.com/crspencer11) **Gonna fix pandas**
