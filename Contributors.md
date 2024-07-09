@@ -56,16 +56,17 @@
 - [Vishwajeet Bharadia](https://github.com/Vishwajeet-11) *** 04/07/2024 ***
 - [Logan Snelling](https://github.com/lsnellin) ***07-08-2024***
 - [yeahdy](https://github.com/yeahdy) *** 2024-07-07 Let's be a contributor ***
-- [Michael Studley](https://github.com/M-Studley) ***This is my first attempt at a contribution!***
+- [Michael Studley](https://github.com/M-Studley) *** This is my first attempt at a contribution! ***
 - [wrkean](https://github.com/wrkean) ...and to the next one
 - [Hussien Ahmed](https://github.com/Ronen-z)
 - [Jayce]
 -[wamosa]
+- [Wilsonpaulraj D](https://github.com/wilsonpaulraj) *** My First Contribution! ***
 - [David Jones] (https://github.com/daj7) First contribution
 - [Asmit singh bisht](https://github.com/Asmit-ctrl) *** going to be next revolutionary in tech industry ***
-- [Naveen Singh](https://github.com/sisyphusisstillcarrying) ***starting over. Hope it works out this time. Aims to be an AI/ML Engineer in the future. God bless!!***
+- [Naveen Singh](https://github.com/sisyphusisstillcarrying) *** starting over. Hope it works out this time. Aims to be an AI/ML Engineer in the future. God bless!! ***
 - [Sohum Chandra Srivastava](https://github.com/sohumcs) *** Trying Open Source ***
-- [Andres Pedreros Castro] (https://github.com/AndresPedrerosC) *** My first and hopefully not last open source contribution 😁
+- [Andres Pedreros Castro] (https://github.com/AndresPedrerosC) *** My first and hopefully not last open source contribution 😁 ***
 - [Ritesh Singh](https://github.com/ritzzh) *** Do not go gentle into that good night, Rage, rage againt the dying of light ***
 - [Raghav Angra]
 - [NoPermissionZetoile]
