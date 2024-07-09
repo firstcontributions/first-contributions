@@ -15,7 +15,10 @@
 - [Aaron](https://github.com/nuffQuantumSayd) **First timer!!**
 - [Hasson](https://github.com/ahmeedHassan1) **Hello**
 - [Julius278](https://github.com/julius278) **Just here for the contribution on my profile :D**
-- [ChrisSpencer](https://github.com/crspencer11) **Gonna fix pandas**
+- [ChrisSpencer](https://github.com/crspencer11) 
+**Moinmoin!**
+- [MaPankow] (https://github.com/MaPankow)
+**Gonna fix pandas**
 - [Ekaums](https://github.com/Ekaums) **hehehhehehehehehehhehehe**
 - [Rory](https://github.com/RLalor) **"Rory was ere 24"**
 - [nouracea](https://github.com/nourpups) **Invoker mainer)**
