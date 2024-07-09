@@ -16,6 +16,7 @@
 - [Julius278](https://github.com/julius278) **Just here for the contribution on my profile :D**
 - [ChrisSpencer](https://github.com/crspencer11) **Gonna fix pandas**
 - [Ekaums](https://github.com/Ekaums) **hehehhehehehehehehhehehe**
+- [Rory](https://github.com/RLalor) **"Rory was ere 24"**
 - [nouracea](https://github.com/nourpups) **Invoker mainer)**
 - [Adarsh](https://github.com/adarshsingh7) **root@adarsh i use fedora BTW**
 - [Nagi](https://github.com/Nagi132/) **First Open Source Contribution**
