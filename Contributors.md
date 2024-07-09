@@ -6177,6 +6177,7 @@ Hector
 - [zeekbyte](https://github.com/zeekbyte)
 - [hystee](https://github.com/hystee)
 - [TR Arial](https://github.com/arialCoding) **Never gonna give you up**
+- [uncomplicated08](https://github.com/uncomplicated08) **Never gonna let you down**
 - [Faizah Farzana](https://github.com/faizahfarzana) **Starting my open source journey!**
 - [Al Fahad](https://github.com/TheCodeWhispererBard) **Time to whisper some contribution**
 - [Mahir Daiyan](https://github.com/RealMDaiyan)
