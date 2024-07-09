@@ -2,6 +2,7 @@
 -[Charles Lambert](https://github.com/Lambert-Charles) **2024/07/09 Latest addition until the latest latest addition**
 -JOHAN
 -JohnK
+- [Kira](https://github.com/KiraTheComputer) **Hiiii :3333**
 - [Estuart] **Trying Contribution**
 - [modestlyhubris](https://github.com/modestlyhubris/) **This is a contribution. Attempt 2**
 -Bhavishya Singla
