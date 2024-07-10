@@ -6238,6 +6238,7 @@ Hector
 - [Priceless7] **my first contributions here**
 - [Abani] **Hello World, Starting my open source journey, Thanks all**
 - [Ines]
+- [Francone Mariot] **Hi, this is my first contribution**
 - [sash641](https://github.com/sash641)
 - [jaker-joker](https://github.com/jaker-joker) **Just for fun**
 - [Mailbek](https://github.com/Mailbek) **Hello all!**
