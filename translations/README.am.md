@@ -13,7 +13,7 @@
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-በማሽንዎ ላይ git ከሌለዎት, [ይጫኑት](https://help.github.com/articles/set-up-git/).
+በማሽንዎ ላይ git ከሌለዎት, [ይጫኑት][link-Github_git].
 
 ## Fork this repository
 
@@ -122,3 +122,6 @@ git push origin <የእርስዎ-branch-name>
 |<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)| 
+
+
+[link-Github_git]: https://help.github.com/articles/set-up-git/

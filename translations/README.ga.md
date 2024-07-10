@@ -12,7 +12,7 @@ _Más rud é nach bhfuil tú compordach leis an líne smachta, [tá tutóirialan
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-#### Mura bhfuil git ar do mhaisín agat, [suiteáil é](https://docs.github.com/en/get-started/quickstart/set-up-git).
+#### Mura bhfuil git ar do mhaisín agat, [suiteáil é][link-Github_git].
 
 ## Foirgneamh an repositry a shábháil
 
@@ -150,3 +150,6 @@ Anois, lig dúinn tú a thosú ag tacú le tionscadail eile. Tá liosta againn d
     <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
   </a>
 </p>
+
+
+[def]: https://docs.github.com/en/get-started/quickstart/set-up-git

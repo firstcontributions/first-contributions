@@ -10,9 +10,9 @@ Esesẽna ɣesiaɣi ne èwɔ nane zi gbãtɔ.Vɔvɔ̃ be yeawɔ vodadawo meɖea 
 
 Nyatiwo kple nufiamewo xexlẽ ate ŋu akpe ɖe ŋuwò, gake nukae nyo wu be nàdze agbagba eye màte ŋu awɔ vodada o? Dɔ sia ƒe taɖodzinue nye be wòana mɔfiame eye wòana alesi dɔsrɔ̃viwo wɔa woƒe nudzɔdzɔ gbãtɔ nanɔ bɔbɔe.Ðo ŋku edzi be: zi alesi nèfa tu la, zi nenemae nèsrɔ̃a nu nyuie wu.Ne èdi vevie be yeadzɔ nu gbãtɔ la, ɖeko nàwɔ ɖe afɔɖeɖe siawo dzi.Medo ŋugbe be anye modzakaɖeɖe.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="ŋe asi ɖe nu sia ŋu" />
+<img align="right" width="300" src="[def]" alt="ŋe asi ɖe nu sia ŋu" />
 
-Ne git mele wò kɔmpiuta dzi o, [ tsɔe de wò kɔmpiuta dzi ]( https://help.github.com/articles/set-up-git/ ).
+Ne git mele wò kɔmpiuta dzi o, [ tsɔe de wò kɔmpiuta dzi ][link-Github_git].
 
 ## Miɖe asi le agbalẽdzraɖoƒe sia (si woyɔna hã be Fork) .
 
@@ -140,3 +140,7 @@ Esia mehiã o, gake alɔdzedɔwɔƒea ƒe ŋkɔ ɖee fia be eƒe taɖodzinua nye
 
 Àte ŋu awɔ ɖeka kple míaƒe ƒuƒoƒoa hã le Slack nenye be èhiã kpekpeɖeŋu alo nyabiase aɖewo le asiwò.  [Wɔ ɖeka kple ƒuƒoƒoa le Slack dzi](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 
+
+
+[link-Github_git]: https://help.github.com/articles/set-up-git/
+[def]: ttps://firstcontributions.github.io/assets/Readme/fork.pn

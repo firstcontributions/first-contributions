@@ -13,7 +13,7 @@ _اگر با محیط کامندی (CLI) احساس راحتی نمی‌کنید
 
 <img align="left" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-#### اگر نرم‌افزار git را آماده ندارید، [از اینجا نصب کنید](https://help.github.com/articles/set-up-git/).
+#### اگر نرم‌افزار git را آماده ندارید، [از اینجا نصب کنید][def].
 
 ## مخزن را فورک کنید
 
@@ -128,3 +128,6 @@ git push origin <add-your-branch-name>
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
 
 </p>
+
+
+[def]: https://help.github.com/articles/set-up-git/

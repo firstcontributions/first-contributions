@@ -11,7 +11,7 @@ Ler artículos e ver titoriais pode axudar, pero ¿que haberá mellor que facer 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork de éste repositorio" />
 
-Se aínda non tés git na túa máquina, [ instálao ]( https://help.github.com/articles/set-up-git/ )
+Se aínda non tés git na túa máquina, [ instálao ][link-Github_git]
 
 ## Bifurca(*Fork*) este repositorio
 
@@ -110,3 +110,6 @@ Axiña mesturarei os teus cambios (facendo *merge*) na master branch deste proxe
 ## Onde ir dende aquí?
 
 Tamén poderías unirte á nosa *equipa* en Slack no caso de que necesites axuda ou teñas algunha pregunta. [Únete ó noso Slack](https://firstcontributors.slack.com/join/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+
+
+[link-Github_git]: https://help.github.com/articles/set-up-git/

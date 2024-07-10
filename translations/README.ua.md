@@ -11,7 +11,7 @@
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Якщо ви ще не встановили GIT, тоді [ зробіть це негайно ]( https://help.github.com/articles/set-up-git/ ) :)
+Якщо ви ще не встановили GIT, тоді [ зробіть це негайно ][link-Github_git] [comment] : <> ("Rip to happy face. It was red and I could'nt put in the comment.")  
 
 ## Відгалужте репозиторій
 
@@ -136,3 +136,6 @@ git push origin --delete <add-your-name>
 ## Що далі?
 
 Ви можете приєднатися до нашої команди в Slack, якщо ви потребуєте будь-якої допомоги або маєте якісь запитання. [Приєднатися до команди в Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
+
+
+[link-Github_git]: https://help.github.com/articles/set-up-git/
