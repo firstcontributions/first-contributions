@@ -19,7 +19,8 @@
 - [Uma Avula](https://github.com/umavl6) **Hoping for many more such contributions..!! this is Uma and happy coding :)**
 - [Shyam Raj D](https:github.com/shyamshyam018) **Stoic Coder Shyam Says HI**
 - [Harshana Srimal](https://harshanasrimal.com) **Love to Code. find me on** [**Github**](https://github.com/harshanasrimal) **also**
-- [Abraham](https://github.com/Abraham-Chileshe/) **Hi**
+- [CoreyLazenby](https://github.com/TheRealCorey22)**You'll do great! Just keep going! We all start somewhere!**
+[Abraham](https://github.com/Abraham-Chileshe/) **Hi**
 - [Qamreen](https://github.com/Qamreen22) **Hi**
 -[SHUBHAM]**YAAAY MY first contri in this tech world letss go guys keep hustling
 - [Abhi](https://github.com/Abhi-goyal1) **Hi**
