@@ -510,6 +510,7 @@ vrushabhpatil48
 - [PersoNameDaniel](https://github.com/PersoNameDaniel)
 - [SebasTB02](https://github.com/SebasTB02)
 - [Yixuan]
+- [Rishikesh Suvarna](https://github.com/rishikesh-suvarna)
 - [Angel Ortiz](https://github.com/Ang115)
 - [Muhammad Muzamal](https://github.com/MUHAMMADmuzamal)
 - [Amiya Lahiri](https://github.com/Amiya-Lahiri-AI)
