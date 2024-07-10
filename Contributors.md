@@ -2067,6 +2067,7 @@ Kencham Vinay
 -[Anikhet Mulky](https://github.com/Anikhet)
 - [JB](https://github.com/jb90000)
 -[AmirAbbas Mousavi](https://github.com/Amir-A-M)
+-[Ari Ward](https://github.com/ariward)
 -[DavidOhanyan](https://github.com/DavidOhanyan)
 -[Maria Sui](https://github.com/msui51)
 -[Sneha Holehonnur Sridhar](https://github.com/SnehaHS65) My First Open Source Code
