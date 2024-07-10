@@ -84,6 +84,7 @@ mh
 - [Sohum Chandra Srivastava](https://github.com/sohumcs) *** Trying Open Source ***
 - [Andres Pedreros Castro] (https://github.com/AndresPedrerosC) *** My first and hopefully not last open source contribution 😁
 - [Ritesh Singh](https://github.com/ritzzh) *** Do not go gentle into that good night, Rage, rage againt the dying of light ***
+- [Manveer Singh](https://github.com/IEYT) ## This is my first contribution to repos that I don't own! ##
 - [Raghav Angra]
 - [NoPermissionZetoile]
 - [Brendan Dileo (Drendos)] (https://github.com/devDrendos) *** My first open source code! ***
