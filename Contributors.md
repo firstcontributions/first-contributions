@@ -1303,6 +1303,7 @@ Abhinav Jain
 - [Mahmoud Salah Egypt](https://github.com/mahmoudsalah296)
 - [Mirzaaa] https://github.com/mahmoudsalah296
 - Chiara Curgu
+- Pandakiller
 - [MariaCassandra]
 - [Vaishnavi K](https://github.com/vaishke)
 - [MatiasFernandez] (https://github.com/MFernandez0992)
