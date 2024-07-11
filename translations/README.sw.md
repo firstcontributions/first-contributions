@@ -4,7 +4,7 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# Mchango wa kwanza
+# Mchango wa Kwanza
 
 Ni vigumu. Mara zote ni vigumu kufanya kitu kwa mara ya kwanza. Hasa hasa kama unashirikiana na wengine, kufanya makosa sio jambo la kushangaza. Tulitaka kurahisisha namna ambavyo wachangiaji wapya wa mifumo ya wazi wanavyojifunza na kuchangia kwa mara ya kwanza.
 
@@ -113,7 +113,7 @@ Haitochukua muda mrefu nitaanza kuchukua mabadiliko yaliyofanyika na kuyapeleka 
 
 ## Nini cha kufanya baada ya hapa?
 
-Hongera! umeweza kumaliza hatua za msingi ambazo ni _fork -> clone -> edit -> PR_ ambazo utakutana nazo mara nyingi ukiwa kama mchangiaji!
+Hongera! Umeweza kumaliza hatua za msingi ambazo ni _fork -> clone -> edit -> PR_ ambazo utakutana nazo mara nyingi ukiwa kama mchangiaji!
 
 Sheherekea hatua uliyofikia na wajulishe wengine kwa kwenda kwenye [wavuti](https://roshanjossey.github.io/first-contributions/#social-share).
 
