@@ -4,6 +4,7 @@
 -[Charles Lambert](https://github.com/Lambert-Charles) **2024/07/09 Latest addition until the latest latest addition**
 -JOHAN
 -JohnK
+- [Sarath Kondeti](https://github.com/sarathkondeti) **Recently started open source contribution :)** 
 -Sachin Singh
 - [Adarsh Prakash Patil](https://github.com/AdarshPatil04/) **First Open Source Contribution"
 - [Kira](https://github.com/KiraTheComputer) **Hiiii :3333**
