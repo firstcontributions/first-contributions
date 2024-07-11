@@ -29,6 +29,7 @@
 -[SHUBHAM]**YAAAY MY first contri in this tech world letss go guys keep hustling
 - [Abhi](https://github.com/Abhi-goyal1) **Hi**
 - [Parvesh](https://github.com/parveshm) **Hello contribution world!**
+- [Himanshu Negi](https://github.com/negihimanshu015) **Hi**
 - [Aaron](https://github.com/nuffQuantumSayd) **First timer!!**
 - JRV [https://github.com/JRV7903] **Hello World!**
 - [AaronR](https://github.com/AaronR23)**Also a first timer**
