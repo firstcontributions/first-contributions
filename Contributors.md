@@ -39,7 +39,7 @@
 - [Rory](https://github.com/RLalor) **"Rory was ere 24"**
 - [nouracea](https://github.com/nourpups) **Invoker mainer)**
 - [Adarsh](https://github.com/adarshsingh7) **root@adarsh i use fedora BTW**
-mh
+- [Emirhan](https://github.com/EmirhanPolat) **Bunu yazan tosun okuyana kosun**
 - [Yash Bhavsar](https://github.com/yashexe) **First Contribution, heres to many more!**
 - [SameerR](https://github.com/SameerSRao) ***First contribution***
 - [Nagi](https://github.com/Nagi132/) **First Open Source Contribution**
