@@ -1973,7 +1973,7 @@ Hannah Sung
 - [Mohamed anis bousselmi](https://github.com/anysbslm/): First contribution.
 
 - [Habishath Thavachelvan](https://github.com/habishath)
-- [Rick Hanley] (https://github.com/rickhanley) **first OS contribution**
+- [Rick Hanley] (https://github.com/rickhanley) **first OS contribution!**
 - [Jennie D](https://github.com/jennie-jd) 2nd try! :)
 - [Ertyk](https://github.com/Ertyk/)
 - [Rajendran S](https://github.com/Rajendran2201)
