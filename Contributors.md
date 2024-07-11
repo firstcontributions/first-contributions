@@ -1397,6 +1397,7 @@ git add Contributors.md# Contributors
   [majMgCode](https://github.com/majMgCode)
 - [Eisha Singh](https://github.com/cwatr)
 - [HINGA PETER](https://github.com/Hinga-inc)
+- [Stella Nwae](https://github.com/Stellanwae) **Glad to be here!**:stuck_out_tongue_winking_eye:
 - [Anshul Dongre](https://github.com/dongre17)
 - [ewh0](https://github.com/ewh0)
 - [Saleem Djima]
