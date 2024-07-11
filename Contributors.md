@@ -17,6 +17,7 @@
 -Bhavishya Singla
 -Mehul kumar dhusia
 - [Sanket Sonawane](https://github.com/SanketSonawane11) **First**
+- [Domenico Tenace](https://github.com/DomeT99) **Hi guys**
 - [Neeraj Bansal](https://github.com/Neeraj00010) **First contri**
 - [Fei_NoLabel](https://github.com/umavl6) **Stay hungry，stay foolish.**
 - [Tien Dat Pham](https://github.com/datpham0412) **My first contribution to open source on Github!**
