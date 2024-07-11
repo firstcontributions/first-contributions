@@ -34,8 +34,8 @@
 - [Hasson](https://github.com/ahmeedHassan1) **Hello**
 - [guruprashanth2004](https://github.com/guruprashanth2004)** guru was here**   
 - [Julius278](https://github.com/julius278) **Just here for the contribution on my profile :D**
-- [Richj-dev] (https://github.com/richj-dev) **first contribution**
 - [ChrisSpencer](https://github.com/crspencer11) **Gonna fix pandas**
+- [Richj-dev] (https://github.com/richj-dev) **first contribution**
 - [Ekaums](https://github.com/Ekaums) **hehehhehehehehehehhehehe**
 - [Rory](https://github.com/RLalor) **"Rory was ere 24"**
 - [nouracea](https://github.com/nourpups) **Invoker mainer)**
