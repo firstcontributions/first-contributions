@@ -23,6 +23,7 @@
 - [Estuart] **Trying Contribution**
 - [modestlyhubris](https://github.com/modestlyhubris/) **This is a contribution. Attempt 2**
 -Bhavishya Singla
+-[siha](https://github.com/sihawido) I *like* **crisps**~~.~~
 -Mehul kumar dhusia
 - [Sanket Sonawane](https://github.com/SanketSonawane11) **First**
 - [Domenico Tenace](https://github.com/DomeT99) **Hi guys**
