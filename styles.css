@@ -1,0 +1,313 @@
+:root {
+    --dark-blue: #252b3f;
+    --medium-blue: #424d6e;
+    --light-blue: #7c86a1;
+    --peach: #ffb38a;
+    --white: #ffffff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.6;
+    color: var(--white);
+    background-color: var(--dark-blue);
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+header {
+    background-color: var(--medium-blue);
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    position: fixed;
+    width: 100%;
+    padding: 15px 0;
+    z-index: 1000;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 0;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    height: 60px; /* Adjust this value to make the logo smaller */
+    width: auto;
+    margin-right: 10px; /* Add some space between logo and other nav items */
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+nav ul li {
+    margin-left: 30px;
+}
+
+nav a {
+    color: var(--white);
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+nav a:hover {
+    color: var(--peach);
+    transform: translateY(-2px);
+}
+
+.burger-menu {
+    display: none;
+    cursor: pointer;
+    z-index: 1002;
+}
+
+.burger-menu div {
+    width: 25px;
+    height: 3px;
+    background-color: var(--white);
+    margin: 5px 0;
+    transition: all 0.3s ease;
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: var(--dark-blue);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 600;
+}
+
+.overlay-content {
+    text-align: center;
+}
+
+.overlay-content a {
+    display: block;
+    font-size: 24px;
+    color: var(--white);
+    margin: 20px 0;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.overlay-content a:hover {
+    color: var(--peach);
+}
+
+.hero {
+    background: linear-gradient(135deg, var(--medium-blue), var(--light-blue));
+    color: var(--white);
+    text-align: center;
+    padding: 8rem 0 6rem;
+    clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
+}
+
+.hero h1 {
+    font-size: 3.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.hero p {
+    font-size: 1.2rem;
+    max-width: 600px;
+    margin: 0 auto 2rem;
+}
+
+.cta-button {
+    display: inline-block;
+    background-color: var(--peach);
+    color: var(--dark-blue);
+    padding: 0.8rem 1.5rem;
+    text-decoration: none;
+    border-radius: 50px;
+    font-weight: 600;
+    transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
+}
+
+.cta-button:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    background-color: var(--white);
+}
+
+.section {
+    padding: 6rem 0;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 3rem;
+    font-size: 2.5rem;
+    color: var(--peach);
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+}
+
+.card {
+    background-color: var(--medium-blue);
+    border-radius: 10px;
+    padding: 2rem;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+.card i {
+    font-size: 3rem;
+    color: var(--peach);
+    margin-bottom: 1rem;
+    transition: transform 0.3s ease;
+}
+
+.card:hover i {
+    transform: scale(1.1);
+}
+
+.card h3 {
+    margin-bottom: 1rem;
+    color: var (--white);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card h3 i {
+    font-size: 1.5rem;
+    margin-right: 0.5rem;
+}
+
+.tutorials {
+    background-color: var(--medium-blue);
+    padding: 3rem 0;
+}
+
+.tutorials .grid {
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1rem;
+    justify-content: center;
+}
+
+.tutorials img {
+    max-width: 60%;
+    height: auto;
+    transition: transform 0.3s ease;
+    display: block;
+    margin: 0 auto;
+}
+
+.tutorials img:hover {
+    transform: scale(1.05);
+}
+
+.support {
+    text-align: center;
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+}
+
+.support img {
+    max-width: 350px;
+    height: auto;
+}
+
+footer {
+    background-color: var(--medium-blue);
+    color: var(--white);
+    text-align: center;
+    padding: 2rem 0;
+}
+
+.social-links {
+    margin-top: 1rem;
+}
+
+.social-links a {
+    color: var(--white);
+    font-size: 1.5rem;
+    margin: 0 10px;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.social-links a:hover {
+    color: var(--peach);
+    transform: translateY(-3px);
+}
+
+@media (max-width: 768px) {
+    .burger-menu {
+        display: block;
+    }
+
+    nav ul {
+        display: none;
+    }
+
+    .hero h1 {
+        font-size: 2.5rem;
+    }
+
+    .section {
+        padding: 4rem 0;
+    }
+
+    h2 {
+        font-size: 2rem;
+    }
+
+    .card {
+        padding: 1.5rem;
+    }
+}
+
+.burger-menu.active .line1 {
+    transform: rotate(-45deg) translate(-5px, 6px);
+}
+
+.burger-menu.active .line2 {
+    opacity: 0;
+}
+
+.burger-menu.active .line3 {
+    transform: rotate(45deg) translate(-5px, -6px);
+}
+
+@media (max-width: 768px) {
+    .logo-container {
+        flex-grow: 1;
+    }
+    
+    nav {
+        flex-wrap: wrap;
+    }
+}
