@@ -47,9 +47,9 @@ nav {
 }
 
 .logo {
-    height: 60px; /* Adjust this value to make the logo smaller */
+    height: 60px;
     width: auto;
-    margin-right: 10px; /* Add some space between logo and other nav items */
+    margin-right: 10px;
 }
 
 nav ul {
