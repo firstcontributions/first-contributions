@@ -7,7 +7,7 @@
 -JOHAN
 -JohnK
 -ali
-- [theNareshofficial](https://github.com/theNareshofficial) **Just fun with open source🎉**
+- [theNareshofficial](https://github.com/theNareshofficial) **Just frist Contribution with open source🎉**
 - [Sarath Kondeti](https://github.com/sarathkondeti) **Recently started open source contribution :)** 
 -Sachin Singh
 - [Adarsh Prakash Patil](https://github.com/AdarshPatil04/) **First Open Source Contribution"
