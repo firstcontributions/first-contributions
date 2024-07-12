@@ -6,6 +6,7 @@
 -JohnK
 -ali
 - [Sarath Kondeti](https://github.com/sarathkondeti) **Recently started open source contribution :)** 
+- [Natnael Tedros](https://github.com/natitedros) **Insert motivational quote here to impress the contributor community**
 -Sachin Singh
 - [Adarsh Prakash Patil](https://github.com/AdarshPatil04/) **First Open Source Contribution"
 - [Kira](https://github.com/KiraTheComputer) **Hiiii :3333**
