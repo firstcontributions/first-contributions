@@ -50,6 +50,7 @@
 - [nouracea](https://github.com/nourpups) **Invoker mainer)**
 - [Adarsh](https://github.com/adarshsingh7) **root@adarsh i use fedora BTW**
 mh
+-[Shamel Rai](https://github.com/shamel-rai) **First Contribution**
 - [Yash Bhavsar](https://github.com/yashexe) **First Contribution, heres to many more!**
 - [Aameshi](https://github.com/aameshi) **FIRST CONTRIBUTION :)**
 - [SameerR](https://github.com/SameerSRao) ***First contribution***
