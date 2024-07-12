@@ -1,5 +1,5 @@
 # Contributors
--[Aditya Ryaka](https://github.com/thatadi) **My first contribution.This project is very helpful for beginners**
+
 -[Muhammad Ibrahim](https://github.com/ibrahimnd2000)
 -[GuranReiSero](https://github.com/GuranReiSero) **2024/07/11 To infinity and beyond!**
 -[Charles Lambert](https://github.com/Lambert-Charles) **2024/07/09 Latest addition until the latest latest addition**
@@ -8,6 +8,7 @@
 - [Sarath Kondeti](https://github.com/sarathkondeti) **Recently started open source contribution :)** 
 -Sachin Singh
 - [Adarsh Prakash Patil](https://github.com/AdarshPatil04/) **First Open Source Contribution"
+- [Aditya Ryaka](https://github.com/thatadi) **My first contribution.This project is very helpful for beginners**
 - [Kira](https://github.com/KiraTheComputer) **Hiiii :3333**
 - [Edwin Parejas](https://github.com/edwinparejas) **Testing my contribution on GitHub!**
 - [Nguyen Huu Thien](https://github.com/thiennh23) **To Infinity and Beyond!🤠**
