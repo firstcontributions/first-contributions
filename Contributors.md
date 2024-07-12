@@ -233,6 +233,7 @@ Vedant Raut here and this is my first Contribution
 -[Shruti] (https://github.com/shrutigupta02) **this is my first contribution, hello all!**
 - [ali hamraoui](https://github.com/alihamraoui)***Hello allstatus**
 - [Vaishnavi] (https://github.com/vishu1089) ***First Time, Hello to all!***
+- [Nischal Neupane] (https://github.com/nischal170) ***First step in contribution, Hello all***
 - [Aaina Akbar] (https://www.github.com/aaina942) ***First Timer***
 - [Plamen Nikolov](https://github.com/pgnikolov) ***First Timer***
 - [Arul MUrugan](https://github.com/ArulMurugan13)
@@ -511,6 +512,7 @@ vrushabhpatil48
 - [Jae Choi] (https://github.com/JCz-Zen) **👁👄👁 👍👍**
 - [@talhakammybond] (https://github.com/talhakammybond) 0️⃣0️⃣7️⃣
 - [Leo Raggio](https://github.com/leoraggio) **Hello World!**
+- [Nischal Neupane](https://github.com/nischal170) *** First Step in Contributon. Yoii!! All The way From Nepal 🇳🇵 ***
 - [p1x1p](https://github.com/p1x1p)
 - [KrishnaChoudhary](https://github.com/Krishnachoudhary619) **Flutter Developer heree, happy learning..**
 - [Thawan Silva](https://github.com/thawansilva) **Front End Developer**
