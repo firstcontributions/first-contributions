@@ -6305,6 +6305,7 @@ Hector
 - [Med-Ri](https://github.com/Med-Ri) **In programming, every problem is an opportunity to learn.**
 - [Ángel Ramírez](https://github.com/eledoce) **Yooo!**
 - [Kovi Elango](https://github.com/KoviElango)) **Truth can only be found in one place: the code**
+- [Joy] **Vamos**
 - [Ryoya Imada](https://github.com/ryoya-i-1215)
 - [Yutan Kaifa](https://github.com/yutankaifa) **My name is yutan,Hello everyone!**
 - [chiweily](http://github.com/chiweily) **Hello everyone!!!**
