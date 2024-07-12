@@ -1,4 +1,5 @@
 # Contributors
+-[Sutipong Panyanil](https://github.com/sutigit) **2024/07/12 First contribution ever! Stay open!**
 - [Yu]**2024年7月12日21:23:54 Yuuuuuuu**
 - [Mpara Romaric](https://github.com/sampleris) **2024/07/12 :)**
 -[Muhammad Ibrahim](https://github.com/ibrahimnd2000)
@@ -14,6 +15,7 @@
 -[Aditya Ryaka](https://github.com/thatadi)** My first contribution.Very helpful! **
 - [theNareshofficial](https://github.com/theNareshofficial) **Just frist Contribution with open source🎉**
 - [Sarath Kondeti](https://github.com/sarathkondeti) **Recently started open source contribution :)** 
+- [Natnael Tedros](https://github.com/natitedros) **Insert motivational quote here to impress the contributor community**
 -Sachin Singh
 - [Adarsh Prakash Patil](https://github.com/AdarshPatil04/) **First Open Source Contribution"
 - [Devansh Vaidya](https://github.com/Devansh-Vaidya/) ** First Open-Source Contribution | It's just the beginning! **
@@ -6327,3 +6329,4 @@ Hector
 - [Jason Doe] **All right, done it...***
 - [Swastick Das](https://github.com/algoplutus1708) **Hail Algoplutus**
 - [blurry16](https://github.com/blurry16) **woof woof**
+- [vladimir-shirmanov](https://github.com/vladimir-shirmanov) **My first open source contribution**
