@@ -8,7 +8,7 @@
 -JOHAN
 -JohnK
 -ali
--Masudur Bhuiyan
+-Syed Suleman
 -[Luke Southerton](https://github.com/LSoutherton)**12/07/2024 First Contribution!**
 -[Aditya Ryaka](https://github.com/thatadi)** My first contribution.Very helpful! **
 - [theNareshofficial](https://github.com/theNareshofficial) **Just frist Contribution with open source🎉**
@@ -23,6 +23,7 @@
 - [Estuart] **Trying Contribution**
 - [modestlyhubris](https://github.com/modestlyhubris/) **This is a contribution. Attempt 2**
 -Bhavishya Singla
+-[siha](https://github.com/sihawido) I *like* **crisps**~~.~~
 -Mehul kumar dhusia
 - [Sanket Sonawane](https://github.com/SanketSonawane11) **First**
 - [Domenico Tenace](https://github.com/DomeT99) **Hi guys**
