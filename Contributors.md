@@ -9,6 +9,7 @@
 - [Sarath Kondeti](https://github.com/sarathkondeti) **Recently started open source contribution :)** 
 -Sachin Singh
 - [Adarsh Prakash Patil](https://github.com/AdarshPatil04/) **First Open Source Contribution"
+- [Devansh Vaidya](https://github.com/Devansh-Vaidya/) ** First Open-Source Contribution | It's just the beginning! **
 - [Kira](https://github.com/KiraTheComputer) **Hiiii :3333**
 - [Edwin Parejas](https://github.com/edwinparejas) **Testing my contribution on GitHub!**
 - [Nguyen Huu Thien](https://github.com/thiennh23) **To Infinity and Beyond!🤠**
