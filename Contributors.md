@@ -107,6 +107,7 @@ mh
 - [Gloria Johnson](https://github.com/riahtgl) ***Hello World My Name is Gloria this is my second Open Source contribution. I'm adding my name in the sands of time.***
 - Vageeshprasad
 -[Deepa Shree](https://github.com/ahmeedHassan1) **Open source contribution**
+- [Anastacio Ruiz](https://github.com/anastar99) **First open source, 7/13/24**
 -[Praneeth Gourla](https://github.com/praneethgourla18) **open source contribution** 
 -[Aman Patel](https://github.com/Amanpatel2529) **open source -contribution**
 - [Suvan Shenoy](https://github.com/suvanshenoy) **open source contribution**
