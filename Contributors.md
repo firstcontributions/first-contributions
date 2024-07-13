@@ -40,6 +40,7 @@
 - [Tien Dat Pham](https://github.com/datpham0412) **My first contribution to open source on Github!**
 - [Ender Dreams ˙ᵕ˙](https://github.com/notenderdreams) **Rolling up**
 - Masudur Bhuiyan
+- Patricio Améstica
 - [Keith Obando](https://github.com/17Keith)
 - [Abhirup Nandy](https://github.com/abhirupnandy) **That's all folks!!**
 - [Uma Avula](https://github.com/umavl6) **Hoping for many more such contributions..!! this is Uma and happy coding :)**
