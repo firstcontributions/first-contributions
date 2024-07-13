@@ -80,6 +80,7 @@ mh
 - [Ahmed Said](https://github.com/AhmedSaid3617) **My first open-source contribution**
 - [Dina Haker] (https://github.com/DinaHaker) **First Open Source Contribution**
 - [Donald](https://github.com/Nodebaron) **First Open Source Contribution**
+- [Taruna Mulugur](https://github.com/Taruna-M) **First Open Source Contribution 14-07-24**
 - [Zeynal Zeynalov](https://github.com/zeynalzeynalov/) **Hello Open Source World!**
 - [Dasu Rahul](https://github.com/dasurahul) **First Open Source Contribution**
 - [Hemraj Bhatt](https://github.com/HemrajB87/) **First Open Source Contribution**
