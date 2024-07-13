@@ -1910,6 +1910,7 @@ Pereira
 -[Joel Fernandes](https://github.com/jfernsio)
 -[Sanka-YT](https://github.com/Sanka-YT)
 -[Kunal Jhatta](https://github.com/kunaljhatta)
+-[CrimsonKln](https://github.com/CrimsonKln) (づ ◕‿◕ )づ
 -[Basim Hilal V](https://github.com/basimhilalv)
 -[Major Yao ] (https://github.com/yoyov51234)
 -[Saskia George](https://github.com/SaskiaGeorge)
