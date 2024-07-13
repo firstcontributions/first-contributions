@@ -41,6 +41,7 @@
 - [Tien Dat Pham](https://github.com/datpham0412) **My first contribution to open source on Github!**
 - [Ender Dreams ˙ᵕ˙](https://github.com/notenderdreams) **Rolling up**
 - Masudur Bhuiyan
+- Ernesto Saer
 - Patricio Améstica
 - [Keith Obando](https://github.com/17Keith)
 - [Abhirup Nandy](https://github.com/abhirupnandy) **That's all folks!!**
