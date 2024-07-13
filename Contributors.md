@@ -8,6 +8,7 @@
 -[Charles Lambert](https://github.com/Lambert-Charles) **2024/07/09 Latest addition until the latest latest addition**
 - Jane Doe Giddy (add some text)
 -JOHAN
+- Ashwin Varma (Excited to contribute to open source!)
 -JohnK
 -ali
 -Syed Suleman
