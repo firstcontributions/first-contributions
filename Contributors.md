@@ -887,6 +887,7 @@ vrushabhpatil48
 - [Sofiyullahi Jamiu](https://github.com/orpcy)
 - [STK](https://github.com/sherlock221B1)
 rashee
+- [Alex Lucas](https://github.com/fearlucas)
 - [Muhammed Favaz vp](https://github.com/favaz-vp)
 - [Fasil-MFK](https://github.com/Fasil-MFK)
 - [Pavan sai Krishnamoorthy](https://github.com/pavansai0)
@@ -6344,3 +6345,4 @@ Hector
 - [vladimir-shirmanov](https://github.com/vladimir-shirmanov) **My first open source contribution**
 -[asa9874](https://github.com/asa9874) **2024.07.13 my first contribute!!**
 [24 Labs UK Limited] **OpenSource FTW**
+
