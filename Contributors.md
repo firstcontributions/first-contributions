@@ -121,6 +121,7 @@ mh
 - [Samyuktha] ***Yaaay! Lets Goo!***
 - [Polargeddon] ***i like chez***
 -[Shreya]
+- [Charles Wachira](https://github.com/Charlo-tech) ***Trying out open source!!***
 -[Pratik Abnave] (https://github.com/pratik9409) *** My first contributions ***
 -[Gourav]
 - [Harish Rangan](https://github.com/Harish000001) *** My first open source contribution! ***
