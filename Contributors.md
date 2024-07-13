@@ -6817,6 +6817,7 @@ Aadi Deshmukh
 - [Dan Calabia](https://github.com/DandarandanEC)
 - [Siddharth](https://github.com/Siddhart899)
 - [Carlos Grajeda](https://github.com/grajedacarlos)
+- [Mariam Bello](https://github.com/MariammBello)
 - [Rabab Shayra](https://github.com/Rababdhruba1996)
 - [Gabriel Mackenzie](https://github.com/Kenn-243)
 - [Romeo Noveanre](https://github.com/kraken-afk)
