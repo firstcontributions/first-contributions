@@ -12,6 +12,9 @@
 -JohnK
 -ali
 -Syed Suleman
+
+- [JohnDev19](https://github.com/JohnDev19) **JohnDev19** 
+
 -[Ignacio Gonzalez](https://github.com/IgnaGonza)_**Hello Everyone!🎉**_
 -[Luke Southerton](https://github.com/LSoutherton)**12/07/2024 First Contribution!**
 -[Mike Keough](https://github.com/keyohhh)**13/7/2024 First Contrib!**
