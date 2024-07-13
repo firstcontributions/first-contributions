@@ -4,7 +4,8 @@
 - [Mpara Romaric](https://github.com/sampleris) **2024/07/12 :)**
 -[Muhammad Ibrahim](https://github.com/ibrahimnd2000)
 -[Jhon Condor](https://github.com/jhon-elen) **2024/07/11 Just add a contribution :)**
--[GuranReiSero](https://github.com/GuranReiSero) **2024/07/11 To infinity and beyond!**
+-[GuranReiSero](https://github.com/GuranReiSero)
+**2024/07/11 To infinity and beyond!**
 -[Charles Lambert](https://github.com/Lambert-Charles) **2024/07/09 Latest addition until the latest latest addition**
 - Jane Doe Giddy (add some text)
 -JOHAN
@@ -12,6 +13,9 @@
 -JohnK
 -ali
 -Syed Suleman
+
+- [JohnDev19](https://github.com/JohnDev19) **First Contribution**
+
 -[Ignacio Gonzalez](https://github.com/IgnaGonza)_**Hello Everyone!🎉**_
 -[Luke Southerton](https://github.com/LSoutherton)**12/07/2024 First Contribution!**
 -[Mike Keough](https://github.com/keyohhh)**13/7/2024 First Contrib!**
