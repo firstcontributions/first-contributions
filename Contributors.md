@@ -22,6 +22,7 @@
 -Sachin Singh
 - Josiah Bagley
 -Leopoldo Chavarria
+-Biplav Bhandari
 - [Adarsh Prakash Patil](https://github.com/AdarshPatil04/) **First Open Source Contribution"
 - [Devansh Vaidya](https://github.com/Devansh-Vaidya/) ** First Open-Source Contribution | It's just the beginning! **
 - [Kira](https://github.com/KiraTheComputer) **Hiiii :3333**
