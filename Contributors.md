@@ -21,6 +21,7 @@
 - [Sarath Kondeti](https://github.com/sarathkondeti) **Recently started open source contribution :)** 
 - [Natnael Tedros](https://github.com/natitedros) **Insert motivational quote here to impress the contributor community**
 -Sachin Singh
+-barath raj
 - Josiah Bagley
 -Leopoldo Chavarria
 - [Adarsh Prakash Patil](https://github.com/AdarshPatil04/) **First Open Source Contribution"
