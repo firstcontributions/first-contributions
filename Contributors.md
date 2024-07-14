@@ -49,6 +49,7 @@
 - [Ahmed Edrees (EdroVolt)](https://github.com/EdroVolt/)
 - Masudur Bhuiyan
 - Ernesto Saer
+- Shambhabya Medhi
 - Patricio Améstica
 Rohit Rawat
 - [Keith Obando](https://github.com/17Keith)
