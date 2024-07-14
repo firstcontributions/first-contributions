@@ -41,6 +41,7 @@
 - [Fei_NoLabel](https://github.com/umavl6) **Stay hungry，stay foolish.**
 - [Tien Dat Pham](https://github.com/datpham0412) **My first contribution to open source on Github!**
 - [Ender Dreams ˙ᵕ˙](https://github.com/notenderdreams) **Rolling up**
+- [Ahmed Edrees (EdroVolt)](https://github.com/EdroVolt/)
 - Masudur Bhuiyan
 - Ernesto Saer
 - Patricio Améstica
