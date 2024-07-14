@@ -6363,3 +6363,4 @@ Hector
 -[mabelsymes](https://github.com/mabelsymes) **Excited to start contributing!**
 [24 Labs UK Limited] **OpenSource FTW**
 https://github.com/06Gagan  
+-[Swastick Das](https://github.com/algoplutus1708) **Excited to start contributing!**
