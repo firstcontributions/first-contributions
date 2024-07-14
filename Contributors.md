@@ -22,6 +22,7 @@
 - [theNareshofficial](https://github.com/theNareshofficial) **Just frist Contribution with open source🎉**
 - [Sarath Kondeti](https://github.com/sarathkondeti) **Recently started open source contribution :)** 
 - [Natnael Tedros](https://github.com/natitedros) **Insert motivational quote here to impress the contributor community**
+- [Björn Sterling](https://github.com/brainycarp67531) **Add second entery**
 -Sachin Singh
 - Josiah Bagley
 -Leopoldo Chavarria
