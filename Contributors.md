@@ -15,6 +15,7 @@
 -Prateek ** Hello coders! **
 -[Ignacio Gonzalez](https://github.com/IgnaGonza)_**Hello Everyone!🎉**_
 -[Luke Southerton](https://github.com/LSoutherton)**12/07/2024 First Contribution!**
+- [Jay Prajapati](https://github.com/jayprajapati19) **Jay Prajapati**
 -[Mike Keough](https://github.com/keyohhh)**13/7/2024 First Contrib!**
 -[Aditya Ryaka](https://github.com/thatadi)** My first contribution.Very helpful! **
 - [theNareshofficial](https://github.com/theNareshofficial) **Just frist Contribution with open source🎉**
