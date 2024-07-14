@@ -6365,3 +6365,5 @@ Hector
 [24 Labs UK Limited] **OpenSource FTW**
 https://github.com/06Gagan  
 -[Swastick Das](https://github.com/algoplutus1708) **Excited to start contributing!**
+-[SA71H](https://github.com/SA71H) **C1**
+
