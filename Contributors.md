@@ -6360,6 +6360,7 @@ Hector
 - [Mustafa Sansar](https://github.com/mustafasansar44) **Selamun Aleyküm Kankalar :D - Hello Everyone my friends**
 - [Emirhan Polat](https://github.com/EmirhanPolat) **Time to get started!!!!**
 - [Bryan Montejano] (https://github.com/Bryan-Montejano) **Puro Club América, padrinos, siuuuuuuu**
+- [Raza Saleemi](https://github.com/KingPegasus) **Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-raza-khalid-saleemi/)**
 - [Leslie Jiang]
 - [Jason Doe] **All right, done it...***
 - [Swastick Das](https://github.com/algoplutus1708) **Hail Algoplutus**
@@ -6370,3 +6371,4 @@ Hector
 [24 Labs UK Limited] **OpenSource FTW**
 https://github.com/06Gagan  
 -[Swastick Das](https://github.com/algoplutus1708) **Excited to start contributing!**
+
