@@ -148,6 +148,7 @@ mh
 - [Samyuktha] ***Yaaay! Lets Goo!***
 - [Polargeddon] ***i like chez***
 -[Shreya]
+- [Incharajayaram](https://github.com/Incharajayaram) ***This is my second open source contribution, adding my name in the big list of developers!***
 - [Charles Wachira](https://github.com/Charlo-tech) ***Trying out open source!!***
 -[Pratik Abnave] (https://github.com/pratik9409) *** My first contributions ***
 -[Gourav]
