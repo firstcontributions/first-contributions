@@ -16,6 +16,7 @@
 -[Sumit Sagar](https://github.com/mostpalon3)**Just continue coding and fall in love with it.(btw I am a Web Developer)**
 -JohnK
 -ali
+-[Bogi] **Simple and Easy :D**
 -Syed Suleman
 -Shereyar Ali (Shits Tough But Fun)
 -Prateek ** Hello coders! **
