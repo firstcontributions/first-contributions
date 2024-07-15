@@ -35,9 +35,9 @@
 - [Tien Dat Pham](https://github.com/datpham0412) **My first contribution to open source on Github!**
 - [Estuart] **Trying Contribution**
 - [modestlyhubris](https://github.com/modestlyhubris/) **This is a contribution. Attempt 2**
--Bhavishya Singla
--[siha](https://github.com/sihawido) I *like* **crisps**~~.~~
--Mehul kumar dhusia
+- Bhavishya Singla
+- [siha](https://github.com/sihawido) I *like* **crisps**~~.~~
+- Mehul kumar dhusia
 - [Sanket Sonawane](https://github.com/SanketSonawane11) **First**
 - [Henry Fajardo](https://github.com/HenryFR) **First time!**
 - [Elias M.](https://github.com/cezelot) **Hello friend!**
@@ -51,7 +51,8 @@
 - Ernesto Saer
 - Shambhabya Medhi
 - Patricio Améstica
-Rohit Rawat
+- Rohit Rawat
+- [Matin Mollapur](https://github.com/MatinMollapur01/)
 - [Keith Obando](https://github.com/17Keith)
 - [Abhirup Nandy](https://github.com/abhirupnandy) **That's all folks!!**
 - [Uma Avula](https://github.com/umavl6) **Hoping for many more such contributions..!! this is Uma and happy coding :)**
