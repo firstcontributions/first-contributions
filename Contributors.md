@@ -150,6 +150,7 @@ mh
 - [Akeem Danial](https://github.com/Akeemdnl) ***Hello World!***
 - [Jayce]
 -[wamosa]
+-[geeta]
 - [Philippe Renard](https://github.com) Test contrib
 - [David Jones] (https://github.com/daj7) First contribution
 - [Asmit singh bisht](https://github.com/Asmit-ctrl) *** going to be next revolutionary in tech industry ***
