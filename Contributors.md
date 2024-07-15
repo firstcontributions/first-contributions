@@ -73,6 +73,7 @@ mh
 - [Michael Studley](https://github.com/M-Studley) ***This is my first attempt at a contribution!***
 - [wrkean](https://github.com/wrkean) ...and to the next one
 - [Hussien Ahmed](https://github.com/Ronen-z)
+- [Alan Sosa](https://github.com/Alsosa) ***My first contribution***
 - [Jayce]
 -[wamosa]
 - [David Jones] (https://github.com/daj7) First contribution
