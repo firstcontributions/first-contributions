@@ -22,6 +22,7 @@
 -Samir Almeida
 -Shereyar Ali (Shits Tough But Fun)
 -Prateek ** Hello coders! **
+-Sartaj(https://github.com/TAJ-32) **excited to contribute!!**
 -[Ignacio Gonzalez](https://github.com/IgnaGonza)_**Hello Everyone!🎉**_
 -[Luke Southerton](https://github.com/LSoutherton)**12/07/2024 First Contribution!**
 - [Jay Prajapati](https://github.com/jayprajapati19) **Jay Prajapati**
