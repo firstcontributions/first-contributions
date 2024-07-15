@@ -60,6 +60,7 @@
 - Patricio Améstica
 Rohit Rawat
 - [Keith Obando](https://github.com/17Keith)
+- [Sylvester Ashford](https://github.com/SylvesterAshford)
 - [Abhirup Nandy](https://github.com/abhirupnandy) **That's all folks!!**
 - [Uma Avula](https://github.com/umavl6) **Hoping for many more such contributions..!! this is Uma and happy coding :)**
 - [Shyam Raj D](https:github.com/shyamshyam018) **Stoic Coder Shyam Says HI**
