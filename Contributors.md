@@ -4,6 +4,7 @@
 - [Yu]**2024年7月12日21:23:54 Yuuuuuuu**
 - [Mpara Romaric](https://github.com/sampleris) **2024/07/12 :)**
 -[Muhammad Ibrahim](https://github.com/ibrahimnd2000)
+- [Alan Sosa](https://github.com/Alsosa) **My first contribution**
 - [Hani Shaikh](https://github.com/Code-Hacker26)**2024/07/14**
 - [Sheikh Abdul Nisar](https://github.com/abdul-nishar)**And so my open source journey begins.**
 -[Jhon Condor](https://github.com/jhon-elen) **2024/07/11 Just add a contribution :)**
