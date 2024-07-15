@@ -18,6 +18,7 @@
 -ali
 -[Bogi] **Simple and Easy :D**
 -Syed Suleman
+-Samir Almeida
 -Shereyar Ali (Shits Tough But Fun)
 -Prateek ** Hello coders! **
 -[Ignacio Gonzalez](https://github.com/IgnaGonza)_**Hello Everyone!🎉**_
