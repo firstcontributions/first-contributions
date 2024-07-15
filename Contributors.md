@@ -28,6 +28,7 @@
 - Josiah Bagley
 -Leopoldo Chavarria
 - [Adarsh Prakash Patil](https://github.com/AdarshPatil04/) **First Open Source Contribution"
+- [Reales09](https://github.com/Reales09) ** frist Contribution  🎉**
 - [Devansh Vaidya](https://github.com/Devansh-Vaidya/) ** First Open-Source Contribution | It's just the beginning! **
 - [Kira](https://github.com/KiraTheComputer) **Hiiii :3333**
 - [Edwin Parejas](https://github.com/edwinparejas) **Testing my contribution on GitHub!**
