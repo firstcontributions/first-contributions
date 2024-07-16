@@ -3117,6 +3117,7 @@ Jasmine
 - [Stephen Ng](https://github.com/snust)
 - [Axel Valerio Ertamto](https://github.com/AxelValerioErtamto)
 - [Justin](https://github.com/JustinBifeld)
+- [Vinicius Alves Amorim](https://github.com/am0rimdev)
 - [Lulu Harvey](https://github.com/luluharvey)
 - anuj bhiasal
 -sushil maurya
