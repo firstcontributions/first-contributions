@@ -2908,6 +2908,7 @@ Jasmine
 - [Dheeraj](https://github.com/raj1802)
 - [ASJordi](https://github.com/ASJordi)
 - [k-souvatzidaki](https://github.com/k-souvatzidaki)
+- [JesusOsama](https://github.com/JesusOsama) **Hello World from Pasco, Peru**
 - [Sam Little](https://github.com/Moopy559)
 - [Larry Griffith](https://github.com/LunaticSage218)
 - [zpearson36](https://github.com/zpearson36)
