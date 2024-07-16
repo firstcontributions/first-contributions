@@ -24,6 +24,7 @@
 -ali
 -zenki
 -[Bogi] **Simple and Easy :D**
+-[s0lder] ** <3 open source **
 -Syed Suleman
 -Samir Almeida
 -Shereyar Ali (Shits Tough But Fun)
