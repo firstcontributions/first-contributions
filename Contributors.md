@@ -1,5 +1,6 @@
 # Contributors
 -[DanielHinnigan](https://github.com/dsadasdasdasd123)**Hi!**
+- jaajaaBinks
 -[Romaric Tokpa](https://github.com/Tokpawood) **Hi, this is my first contribution. I am open**
 -[Zain Fareed](https://github.com/zfareed) **First contribution. It's great to see all of you here!**
 -[abhay tomar](https://github.com/uniquepersun) **here me goooo! :)**
