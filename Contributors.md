@@ -6411,3 +6411,4 @@ https://github.com/06Gagan
 - [superworld] (https://github.com/whosetagdotzip) **superworld was one of the usernames i used in a website i still dont remember the name of**
 -[Nguyen Duc](https://github.com/duckmkl/) **first commit**
 -[sajan karki] **This is my first contribution as a developer** (https://github.com/sajjankarki18)
+- [Rich Celedon](https://github.com/rjceledon) **07/16/24 My first public contribution :D**
