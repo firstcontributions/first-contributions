@@ -37,6 +37,7 @@
 - [Björn Sterling](https://github.com/brainycarp67531) **Add second entery**
 -Sachin Singh
 - Josiah Bagley
+- [Tanner Smallwood](https://github.com/tsmallwood23) 
 -Leopoldo Chavarria
 - [Adarsh Prakash Patil](https://github.com/AdarshPatil04/) **First Open Source Contribution"
 - [Reales09](https://github.com/Reales09) ** frist Contribution  🎉**
