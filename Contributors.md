@@ -6409,4 +6409,4 @@ https://github.com/06Gagan
 - [jinwoole](https://github.com/seanmckee) **first contribution, from 42**  
 - [superworld] (https://github.com/whosetagdotzip) **superworld was one of the usernames i used in a website i still dont remember the name of**
 -[Nguyen Duc](https://github.com/duckmkl/) **first commit**
--[sajan karki] **This is my first contribution as a developer** (https://github.com/sajjankarki18)
+-[sajan karki] **This is my first contribution as a developer** (https://github.com/sajjankarki18), Thankyou for this opensource contributions
