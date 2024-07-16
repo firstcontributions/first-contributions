@@ -18,6 +18,9 @@
 - Jane Doe Giddy (add some text)
 -JOHAN
 - Ashwin Varma (Excited to contribute to open source!)
+
+- [***Megha Wadhwa***](https://github.com/megha-wadhwa12) Hey Guys, Cheers to my first open-source contributions on github! Would love to know you all!
+
 -[Sumit Sagar](https://github.com/mostpalon3)**Just continue coding and fall in love with it.(btw I am a Web Developer)**
 -JohnK
 -ali
