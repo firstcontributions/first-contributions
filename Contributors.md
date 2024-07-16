@@ -2608,6 +2608,7 @@ guanj65
 - [Lorenzo Petraroli](https://github.com/ReflexiveFox)
 - [Iikka Borgström] (https://github.com/iibor)
 - [Akash Pal](https://github.com/farzigulzar)
+- [João Pedro Pires](https://github.com/jonascotch) first step in my *open source contributor* journey
 - [Juan Bedoya](https://github.com/Camilo1753)
 - [Ahmed Gamal](https://github.com/ahmedgamalpro)
 - [Charles D.](https://github.com/cmd644)
