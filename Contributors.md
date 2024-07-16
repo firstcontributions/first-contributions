@@ -2684,6 +2684,7 @@ Jasmine
 - [David P]
 - [Xavier Graham]
 - [Victoria Zamora](https://github.com/zamoraV)
+- [Trikidou Eleonora](https://github.com/eleonora2687)
 - [Rashaad10](https://github.com/Rashaad10)
 - [Denis Alex](https://github.com/devdenisalex)
 - [Ashutosh Kanade]
