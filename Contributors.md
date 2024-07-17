@@ -31,6 +31,7 @@
 -[Sumit Sagar](https://github.com/mostpalon3)**Just continue coding and fall in love with it.(btw I am a Web Developer)**
 -JohnK
 -ali
+-first contribution
 - El Vitas
 -zenki
 -[Bogi] **Simple and Easy :D**
