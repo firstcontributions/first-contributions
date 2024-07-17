@@ -1,6 +1,7 @@
 # Contributors
 ### Paul Quito
 -[DanielHinnigan](https://github.com/dsadasdasdasd123)**Hi!**
+-[Durvesh Wagh](https://github.com/durveshwagh11)**First Contribution Here👋**
 - jaajaaBinks
 - [Oluwatobiloba Mosinmiloluwa Ajani Jesulayomi Ibrahim Abidoye AKA Tobi Abidoye](https://github.com/tobiabidoye)"Hipster by heart but i can tell you how them streets feel"
 -[Romaric Tokpa](https://github.com/Tokpawood) **Hi, this is my first contribution. I am open**
