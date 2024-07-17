@@ -6366,6 +6366,7 @@ Hector
 - [Jason Doe] **All right, done it...***
 - [Swastick Das](https://github.com/algoplutus1708) **Hail Algoplutus**
 - [blurry16](https://github.com/blurry16) **woof woof**
+- [Noci27](https://github.com/Noci27) **This is a great way to learn git, thank you very much :D**
 - [vladimir-shirmanov](https://github.com/vladimir-shirmanov) **My first open source contribution**
 -[asa9874](https://github.com/asa9874) **2024.07.13 my first contribute!!**
 -[mabelsymes](https://github.com/mabelsymes) **Excited to start contributing!**
