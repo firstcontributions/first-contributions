@@ -1,7 +1,9 @@
 # Contributors
 ### Paul Quito
 -[DanielHinnigan](https://github.com/dsadasdasdasd123)**Hi!**
+-[Durvesh Wagh](https://github.com/durveshwagh11)**First Contribution Here👋**
 - jaajaaBinks
+- [Oluwatobiloba Mosinmiloluwa Ajani Jesulayomi Ibrahim Abidoye AKA Tobi Abidoye](https://github.com/tobiabidoye)"Hipster by heart but i can tell you how them streets feel"
 -[Romaric Tokpa](https://github.com/Tokpawood) **Hi, this is my first contribution. I am open**
 -[Burak Anil Cila](https://github.com/bcila) **Every line of code is a blend of imagination and logic; every algorithm we write to solve problems is a step shaping the future 🌟**
 -[Zain Fareed](https://github.com/zfareed) **First contribution. It's great to see all of you here!**
@@ -14,18 +16,22 @@
 - [Jyotirmoy Kashyap](https://github.com/jyotirmoy009) **2024/07/13: This is my first contribution 😍)**
 -[Muhammad Ibrahim](https://github.com/ibrahimnd2000)
 - [Alan Sosa](https://github.com/Alsosa) **My first contribution**
+- [Jay Valiaya](https://github.com/jayvaliya) **My firse contribution to open source 🎉**
 - [Hani Shaikh](https://github.com/Code-Hacker26)**2024/07/14**
 - [Sheikh Abdul Nisar](https://github.com/abdul-nishar)**And so my open source journey begins.**
 -[Jhon Condor](https://github.com/jhon-elen) **2024/07/11 Just add a contribution :)**
 -[GuranReiSero](https://github.com/GuranReiSero) **2024/07/11 To infinity and beyond!**
 -[Charles Lambert](https://github.com/Lambert-Charles) **2024/07/09 Latest addition until the latest latest addition**
+-[Ritwik Mishra](https://github.com/Ritwik740)
 -[MinTse Hsu](https://github.com/MinTse-Hsu) **2024/07/17 My First Open source contribution.**  
+-[Tahseen](https://github.com/tahseentajmal) **first Open source commit.**  
 - Jane Doe Giddy (add some text)
 -JOHAN
 - Ashwin Varma (Excited to contribute to open source!)
 -[Sumit Sagar](https://github.com/mostpalon3)**Just continue coding and fall in love with it.(btw I am a Web Developer)**
 -JohnK
 -ali
+- El Vitas
 -zenki
 -[Bogi] **Simple and Easy :D**
 -[s0lder] ** <3 open source **
@@ -122,6 +128,7 @@ mh
 - [Naveen Kumar](https:github.com/Naveen-369) **First Open Source Contribution Made ! ! !**
 - [Ahmed Said](https://github.com/AhmedSaid3617) **My first open-source contribution**
 - [Dina Haker] (https://github.com/DinaHaker) **First Open Source Contribution**
+- [Ismael Rios](https://github.com/AhmedSaid3617) **My first open-source contribution 17/07/2024**
 - [Donald](https://github.com/Nodebaron) **First Open Source Contribution**
 - [Taruna Mulugur](https://github.com/Taruna-M) **First Open Source Contribution 14-07-24**
 - [Zeynal Zeynalov](https://github.com/zeynalzeynalov/) **Hello Open Source World!**
@@ -909,6 +916,7 @@ vrushabhpatil48
 - [Youssef Charif Hamidi](https://github.com/Chareeef)
 - [Gabriel Marchegiani] (https://github.com/gabrimarch3) **l'inizio di un lunghissimo viaggio**
 - [Devarsh Shah](https://github.com/devshah95)
+- [Rodrivzq](https://github.com/rodry22310)
 - Ronak Katariya
 - haha
 - MS
@@ -4516,6 +4524,7 @@ sh5ed
 - [NabeelWaq1](https://github.com/NabeelWaq1)
 - [`Ethan Villarosa`](https://github.com/something456)
 - [nami773](https://github.com/nami773/)
+- [Lucas Tiangco](https://github.com/LTiangco) **Hey everyone, hope you're well!**
 - [PJ1256](https://github.com/PJ1256)
 - [Eyal Gal](https://github.com/eyalgal)
 - [Komsan21](https://github.com/komsan21)
