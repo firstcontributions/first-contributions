@@ -230,7 +230,8 @@ mh
 - [Shashank](https://github.com/shshaank)**making my first contribution ever🫂**
 - [Amit kumar] (https://github.com/amitkrmaurya09) ----Hi-----
 - [Gagan] https://github.com/learngpsk
-- [rishabh-sarang] yo
+- [rishabh-sarang] yo- 
+- [Adrian Szydlowski] **first contribution :) **
 - [gino] hello~~
   [Arian Soltani](https://github.com/Arian1-dev)
 - [Gemini Lo](https://github.com/geminixmemory) **Hi I'm Gemini fm HK, welcome any connection**
