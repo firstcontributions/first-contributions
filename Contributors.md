@@ -6420,3 +6420,4 @@ https://github.com/06Gagan
 -[Nguyen Duc](https://github.com/duckmkl/) **first commit**
 -[sajan karki] **This is my first contribution as a developer** (https://github.com/sajjankarki18)
 - [Rich Celedon](https://github.com/rjceledon) **07/16/24 My first public contribution :D**
+- [Grant Chugh](https://github.com/grantchugh)
