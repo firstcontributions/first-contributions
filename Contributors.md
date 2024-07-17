@@ -154,6 +154,7 @@ mh
 - [Suvan Shenoy](https://github.com/suvanshenoy) **open source contribution**
 - [Abhinav mohandas](https://github.com/itsabhinavm) ***First open source contribution***
 - [Hilton Cabral](https://github.com/hjccabral) ***My first contrib!***
+- [Maitreyi Sinha](https://github.com/maitreyyi/)***My first contrib!***
 - [Abdul Khaliq](https://github.com/realabdulkhaliq) *Started **GitHub Certification Track** to become a feature **AI Engineer**. Already **Python** and **Azure AI** Certified*
 - [Bishwarup Mandal](https://github.com/bishwamandal) *This is Bishwarup Mandal, and it's my first contribution.*
 - [Dhanashree Bansode](https://github.com/dhanashree23112003)**my first contribution**
