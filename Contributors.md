@@ -3,6 +3,7 @@
 - [DanielHinnigan](https://github.com/dsadasdasdasd123)**Hi!**
 - jaajaaBinks
 - [Romaric Tokpa](https://github.com/Tokpawood) **Hi, this is my first contribution. I am open**
+- [Burak Anil Cila](https://github.com/bcila) **Every line of code is a blend of imagination and logic; every algorithm we write to solve problems is a step shaping the future 🌟**
 - [Zain Fareed](https://github.com/zfareed) **First contribution. It's great to see all of you here!**
 - [abhay tomar](https://github.com/uniquepersun) **here me goooo! :)**
 - [Sutipong Panyanil](https://github.com/sutigit) **2024/07/12 First contribution ever! Stay open!**
@@ -229,7 +230,8 @@
 - [Shashank](https://github.com/shshaank)**making my first contribution ever🫂**
 - [Amit kumar] (https://github.com/amitkrmaurya09) ----Hi-----
 - [Gagan] https://github.com/learngpsk
-- [rishabh-sarang] yo
+- [rishabh-sarang] yo- 
+- [Adrian Szydlowski] **first contribution :) **
 - [gino] hello~~
   [Arian Soltani](https://github.com/Arian1-dev)
 - [Gemini Lo](https://github.com/geminixmemory) **Hi I'm Gemini fm HK, welcome any connection**
@@ -405,7 +407,7 @@
 - [choongnhyeong6215](https://github.com/choongnyeong6215) **Firt Contribution!**
 - [Abdulai Bah](https://github.com/Abdulai123) **Hello World, first constribution. 😊 PHP, Laravel dev click on my name let connect.**
 - [JohnKun136NVCP](https://github.com/JohnKun136NVCP) **こんにちは, this my contribution. Follow me** 😉🚀
--[Clement Sello Tsetsa](https://github.com/clementsellotsetsa) **Hello everyone, my name is Clement and i am from South Africa. I am studying towards a bachelor's degree in information technology at NWU. This is my first contribution and hoping it will not be the last.**
+- [Clement Sello Tsetsa](https://github.com/clementsellotsetsa) **Hello everyone, my name is Clement and i am from South Africa. I am studying towards a bachelor's degree in information technology at NWU. This is my first contribution and hoping it will not be the last.**
 - [vincent Obaro](https://github.com/vincelogs) **Hello World!, it's nice to be here🫶**
 - [Mohit Joping](https://github.com/mohitjoping) ** Hi everyone, Let's connects on x** * -[clickhere](https://x.com/mohitjoping)*
 - [**Nastaran Motiee**](https://github.com/nastaran-motiee) 😉
@@ -672,8 +674,8 @@ vrushabhpatil48
 - [Jonathan Batanian] (https://github.com/jOBT0)
 - Aditi (https://github.com/AditiSharma00)
 - Jen-Aiken Amanbay
-  [Luigi Gonnella]
-  [Conan]
+- [Luigi Gonnella]
+- [Conan]
 - [Christine Brown Clayton](https://github.com/chitech)
 - Gab
 - [Jorge](https://github.com/jorge09bb/)
@@ -683,8 +685,8 @@ vrushabhpatil48
 - [Sreekar G](https://github.com/sreekar-G)
 - [pramath subramanian]
 - [Priyanshi]
-  [Bazeel Bin Waris](https://github.com/Bazeel-Waris) # Thanks for Helping Newbies 😊
-  [Pratham Jaiswal](https://github.com/pantha
+- [Bazeel Bin Waris](https://github.com/Bazeel-Waris) # Thanks for Helping Newbies 😊
+- [Pratham Jaiswal](https://github.com/pantha
 - [Christophe Adami](https://github.com/adach2)
 - [Zhanel Nzamdin] **stost**
 - [Sandeep Prajapati](https://github.com/Sandy712)
@@ -5535,6 +5537,7 @@ LadegbayeStella)
 - [Luke Hardy]
 - [Aviv Barak]
 - [Ayden]
+- [Sadie Swen](https://github.com/tswen90) Slayyyyy 
 - [Radmehr Vafadar](https://github.com/RadmehrVafadar)
 - [Kaitlyn](https://github.com/kbrandt8)
 - [Wesley David](https://github.com/euchoba)
