@@ -18,6 +18,7 @@
 -[Jhon Condor](https://github.com/jhon-elen) **2024/07/11 Just add a contribution :)**
 -[GuranReiSero](https://github.com/GuranReiSero) **2024/07/11 To infinity and beyond!**
 -[Charles Lambert](https://github.com/Lambert-Charles) **2024/07/09 Latest addition until the latest latest addition**
+-[MinTse Hsu](https://github.com/MinTse-Hsu) **2024/07/17 My First Open source contribution.**  
 - Jane Doe Giddy (add some text)
 -JOHAN
 - Ashwin Varma (Excited to contribute to open source!)
