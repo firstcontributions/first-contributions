@@ -6426,3 +6426,4 @@ https://github.com/06Gagan
 - [Rich Celedon](https://github.com/rjceledon) **07/16/24 My first public contribution :D**
 - [Grant Chugh](https://github.com/grantchugh)
 - [Ronnie Conlon](https://github.com/rjamesconlon)
+- [Salsabeel Youssef](https://github.com/Salsabeelyf) **17/07/2024 Proudly editing the arabic version of the project**
