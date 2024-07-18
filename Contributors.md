@@ -56,6 +56,7 @@
 - Josiah Bagley
 - [Tanner Smallwood](https://github.com/tsmallwood23) 
 - Leopoldo Chavarria
+- Biplav Bhandari
 - [Adarsh Prakash Patil](https://github.com/AdarshPatil04/) **First Open Source Contribution"
 - [Reales09](https://github.com/Reales09) ** frist Contribution  🎉**
 - [Devansh Vaidya](https://github.com/Devansh-Vaidya/) ** First Open-Source Contribution | It's just the beginning! **
@@ -6448,3 +6449,4 @@ git stat
 - [Noci27](https://github.com/Noci27) **This is a great tutorial, this helped a lot :D**
 - [Darian Toledo](https://github.com/darianmorat) **Getting better**
 - [Kenny Blau](https://github.com/kblau237) **30 years experience coding-Need coding work
+- [Jaswanth Kumar](https://github.com/Jaswanth-0401) **My first contribution**
