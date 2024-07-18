@@ -80,6 +80,7 @@
 - [Ahmed Edrees (EdroVolt)](https://github.com/EdroVolt/)
 - Masudur Bhuiyan
 - Ernesto Saer
+- Joshua Kuschner
 - Shambhabya Medhi
 - Patricio Améstica
 Rohit Rawat
