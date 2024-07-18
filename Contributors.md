@@ -56,8 +56,7 @@
 - [Sarath Kondeti](https://github.com/sarathkondeti) **Recently started open source contribution :)** 
 - [Natnael Tedros](https://github.com/natitedros) **Insert motivational quote here to impress the contributor community**
 - [Björn Sterling](https://github.com/brainycarp67531) **Add second entery**
--Sachin Singh
-- Alex-jintou (https://github.com/ACJT123) **Just frist Contribution with open source🎉, hi**
+- Alex-jintou (https://github.com/ACJT123) **Just second attempt for the first Contribution with open source🎉, hi**
 - Josiah Bagley
 - [Tanner Smallwood](https://github.com/tsmallwood23) 
 -Leopoldo Chavarria
@@ -550,7 +549,6 @@ yumi-kim-0827
  - [Jamie Jacobs]  MY SECOND CONTRIBUTION
  - [Will J](https://github.com/Will-Jameson) HEEERRREEE
 -[Gianni] First contribution
->>>>>>> origin/main
 - [emitaka](https://github.com/emitakaa) ola papus :vvvv
 - [Rohit](https://github.com/hack-sketch) **Hello there!!**
 - [Ivan Chekunkov](https://github.com/ivan-chekunkov)**Hi! 😃**
