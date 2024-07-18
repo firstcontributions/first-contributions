@@ -996,6 +996,7 @@ rashee
 - [Felix Rosén] (https://github.com/rosenfelix/)
 - [CleveR.](https://github.com/rekocleve) - Happy to help with anything =)
 taha
+- [Jolo] (https://github.com/louijose) **They let me in**
 - [qhtutorials](https://github.com/qhtutorials)
 - [Ramakrushna Biswal](https://github.com/RamakrushnaBiswal)-Happy Coding!!
 - [Jordan Salamone](https://github.com/JordanSalamone)
