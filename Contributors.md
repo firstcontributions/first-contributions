@@ -6465,3 +6465,4 @@ https://github.com/06Gagan
 - [Darian Toledo](https://github.com/darianmorat) **Getting better**
 - [Kenny Blau](https://github.com/kblau237) **30 years experience coding-Need coding work
 - [Jaswanth Kumar](https://github.com/Jaswanth-0401) **My first contribution**
+- [Angelo Huaraca](https://github.com/ahuaracab) **I was here! 07/18/24**
