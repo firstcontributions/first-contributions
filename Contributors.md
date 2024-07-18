@@ -6445,3 +6445,4 @@ https://github.com/06Gagan
 - [Chip Dipson](https://github.com/mackslevin)
 - [Ronnie Conlon](https://github.com/rjamesconlon)
 - [Noci27](https://github.com/Noci27) **This is a great tutorial, this helped a lot :D**
+- [Darian Toledo](https://github.com/darianmorat) **Getting better**
