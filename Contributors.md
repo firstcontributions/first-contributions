@@ -321,6 +321,7 @@ Vedant Raut here and this is my first Contribution
 - [Aaina Akbar] (https://www.github.com/aaina942) ***First Timer***
 - [John](https://github.com/Johnathaniel6) Hi!
 - [Plamen Nikolov](https://github.com/pgnikolov) ***First Timer***
+- [Jaime Gaete](https://github.com/JaimeGaeteLizama)
 - [Arul MUrugan](https://github.com/ArulMurugan13)
 - [frankfolabi](https://github.com/frankfolabi) ***DevOps Engineer*** Connect with me on ![LinkedIn](https://linkedin.com/in/frankfolabi) 
 - [Mowriyaa BK](https://github.com/techiemow)
