@@ -8,6 +8,7 @@
 -[Romaric Tokpa](https://github.com/Tokpawood) **Hi, this is my first contribution. I am open**
 -[Burak Anil Cila](https://github.com/bcila) **Every line of code is a blend of imagination and logic; every algorithm we write to solve problems is a step shaping the future 🌟**
 -[Zain Fareed](https://github.com/zfareed) **First contribution. It's great to see all of you here!**
+-[Sitotaw Ashagre](https://github.com/yotors) **May be the first appearance in the os contribution realm**
 -[abhay tomar](https://github.com/uniquepersun) **here me goooo! :)**
 -[Sutipong Panyanil](https://github.com/sutigit) **2024/07/12 First contribution ever! Stay open!**
 - [Yu]**2024年7月12日21:23:54 Yuuuuuuu**
