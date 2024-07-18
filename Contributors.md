@@ -1,5 +1,7 @@
 # Contributors
 ### Paul Quito
+
+-[ UMER KHAN ](https://github.com/umer-khan-19)**heyyyyyyyyy🙋‍♂️🙋‍♂️!**
 -[DanielHinnigan](https://github.com/dsadasdasdasd123)**Hi!**
 -[Abdullahi Hamisu](https://github.com/captainprinz)**First Contribution and first emoji ever on desktop🎆🎈🚀**
 -[Durvesh Wagh](https://github.com/durveshwagh11)**First Contribution Here👋**
