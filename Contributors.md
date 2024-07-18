@@ -6468,4 +6468,5 @@ https://github.com/06Gagan
 - [Jaswanth Kumar](https://github.com/Jaswanth-0401) **My first contribution**
 - [Guoqing Cao](https://github.com/g4li0)
 - [Angelo Huaraca](https://github.com/ahuaracab) **I was here! 07/18/24**
+- [Corbin Ainsworth](http://github.com/Promingy) **First Open source Contribution :D**
 - [Leyvi Garcia](https://github.com/lgarcia-latexpress)**this is my firt contribution 07/18/24**
