@@ -12,7 +12,6 @@
 -JohnK
 -ali
 -Syed Suleman
--Biplav Bhandari(Hoping this is the first of many)
 -[Ignacio Gonzalez](https://github.com/IgnaGonza)_**Hello Everyone!🎉**_
 -[Luke Southerton](https://github.com/LSoutherton)**12/07/2024 First Contribution!**
 -[Mike Keough](https://github.com/keyohhh)**13/7/2024 First Contrib!**
