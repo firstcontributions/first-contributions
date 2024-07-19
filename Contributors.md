@@ -96,6 +96,7 @@
 - [Ender Dreams ˙ᵕ˙](https://github.com/notenderdreams) **Rolling up**
 - [Ahmed Edrees (EdroVolt)](https://github.com/EdroVolt/)
 - Masudur Bhuiyan
+- Roman Watson
 - Ernesto Saer
 - Joshua Kuschner
 - Shambhabya Medhi
