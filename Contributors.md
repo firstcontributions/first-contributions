@@ -2697,6 +2697,7 @@ something...changed
 - [Om Gaikwad](https://github.com/gaikwadomg)
 - [Denny John](https://github.com/dennyjohnk)
 - [Dominique G](https://github.com/djag118)
+- [yurim](https://github.com/yeol0324) **새로운 시작 ☀️**
 - [Jakub Karp](https://github.com/fn-jakubkarp/)
 - [RYURI](https://github.com/iamhnineishweyee)
 - [Max B.]
