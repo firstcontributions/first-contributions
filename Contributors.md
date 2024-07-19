@@ -19,7 +19,7 @@
 -[Sitotaw Ashagre](https://github.com/yotors) **May be the first appearance in the os contribution realm**
 - [AMKCode] (https://github.com/AMKCode/) **added AMKCode to the contributions list, added descriptions**
 -[abhay tomar](https://github.com/uniquepersun) **here me goooo! :)**
--[Benjamin Helm] (https://github.com/BenjaminHelm) **to many more contributions**
+-[Benjamin Helm] (https://github.com/BenjaminHelm) **to many more contributions to come**
 -[Sutipong Panyanil](https://github.com/sutigit) **2024/07/12 First contribution ever! Stay open!**
 - [Yu]**2024年7月12日21:23:54 Yuuuuuuu**
 - [Mpara Romaric](https://github.com/sampleris) **2024/07/12 :)**
