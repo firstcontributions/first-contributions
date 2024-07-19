@@ -6,6 +6,7 @@
 - jaajaaBinks
 - [Oluwatobiloba Mosinmiloluwa Ajani Jesulayomi Ibrahim Abidoye AKA Tobi Abidoye](https://github.com/tobiabidoye)"Hipster by heart but i can tell you how them streets feel"
 - [Eren Turkoglu] (https://github.com/erenworld) **Hi, I'm Eren'**
+- [Ames](https://github.com/theamescsm) 19 Jul 2024
 -[Abhijith Sudhakaran](https://github.com/abhijithx) ** 19/07/2024 FIRST COMMIT**
 -[Anthony Lee](https://github.com/mygod0108)**Hi,my name is Anthony.This is my first ever commit**
 -[Romaric Tokpa](https://github.com/Tokpawood) **Hi, this is my first contribution. I am open**
