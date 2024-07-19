@@ -1,5 +1,6 @@
 # Contributors
 ### Paul Quito
+-[Tirth Patel](https://github.com/TirthWillLearn)**Hi!, First Contribution Here👋**
 -[DanielHinnigan](https://github.com/dsadasdasdasd123)**Hi!**
 -[Abdullahi Hamisu](https://github.com/captainprinz)**First Contribution and first emoji ever on desktop🎆🎈🚀**
 -[Durvesh Wagh](https://github.com/durveshwagh11)**First Contribution Here👋**
