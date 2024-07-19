@@ -6453,20 +6453,20 @@ Hector
 - [Swastick Das](https://github.com/algoplutus1708) **Hail Algoplutus**
 - [blurry16](https://github.com/blurry16) **woof woof**
 - [vladimir-shirmanov](https://github.com/vladimir-shirmanov) **My first open source contribution**
--[asa9874](https://github.com/asa9874) **2024.07.13 my first contribute!!**
--[mabelsymes](https://github.com/mabelsymes) **Excited to start contributing!**
+- [asa9874](https://github.com/asa9874) **2024.07.13 my first contribute!!**
+- [mabelsymes](https://github.com/mabelsymes) **Excited to start contributing!**
 [24 Labs UK Limited] **OpenSource FTW**
 https://github.com/06Gagan  
--[Swastick Das](https://github.com/algoplutus1708) **Excited to start contributing!**
--[beardigumantara](https://github.com/beardigumantara) **Excited to start contributing!**
--[Vince zw](https://github.com/Vincewemo) **2024/07/16 My first contribution!**
--[Adham Gohar](https://github.com/Adham-Gohar) **2024/07/15 First Open source contribution eveerrr!**
--[Vijay Londhe](https://github.com/vijulondhe) **2024/07/15 My First Open source contribution.**
--[Sean McKee](https://github.com/seanmckee) **2024/07/15 My First Open source contribution.**  
+- [Swastick Das](https://github.com/algoplutus1708) **Excited to start contributing!**
+- [beardigumantara](https://github.com/beardigumantara) **Excited to start contributing!**
+- [Vince zw](https://github.com/Vincewemo) **2024/07/16 My first contribution!**
+- [Adham Gohar](https://github.com/Adham-Gohar) **2024/07/15 First Open source contribution eveerrr!**
+- [Vijay Londhe](https://github.com/vijulondhe) **2024/07/15 My First Open source contribution.**
+- [Sean McKee](https://github.com/seanmckee) **2024/07/15 My First Open source contribution.**  
 - [jinwoole](https://github.com/seanmckee) **first contribution, from 42**  
 - [superworld] (https://github.com/whosetagdotzip) **superworld was one of the usernames i used in a website i still dont remember the name of**
--[Nguyen Duc](https://github.com/duckmkl/) **first commit**
--[sajan karki] **This is my first contribution as a developer** (https://github.com/sajjankarki18)
+- [Nguyen Duc](https://github.com/duckmkl/) **first commit**
+- [sajan karki] **This is my first contribution as a developer** (https://github.com/sajjankarki18)
 - [Rich Celedon](https://github.com/rjceledon) **07/16/24 My first public contribution :D**
 - [Grant Chugh](https://github.com/grantchugh)
 - [Chip Dipson](https://github.com/mackslevin)
