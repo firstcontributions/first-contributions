@@ -6,6 +6,7 @@
 -[Abdullahi Hamisu](https://github.com/captainprinz)**First Contribution and first emoji ever on desktop🎆🎈🚀**
 -[Durvesh Wagh](https://github.com/durveshwagh11)**First Contribution Here👋**
 - jaajaaBinks
+- [Manoj Sai](https://github.com/bmanojsai)**Thanks for this repo! It's helps a lot of people.
 - [Oluwatobiloba Mosinmiloluwa Ajani Jesulayomi Ibrahim Abidoye AKA Tobi Abidoye](https://github.com/tobiabidoye)"Hipster by heart but i can tell you how them streets feel"
 - [Eren Turkoglu] (https://github.com/erenworld) **Hi, I'm Eren'**
 - [Ames](https://github.com/theamescsm) 19 Jul 2024 "Playing with Git is fun"
