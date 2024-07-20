@@ -121,4 +121,4 @@ Você pode se juntar à nossa comunidade no slack, caso precise de alguma ajuda 
 
 ## Tutoriais utilizando outras ferramentas
 
-[Retorne para a página principal](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.pt_br.md)
+[Retorne para a página principal](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.pt-br.md)

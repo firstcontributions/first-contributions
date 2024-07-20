@@ -87,7 +87,7 @@ Partilhe com seus amigos e seguidores [web app](https://firstcontributions.githu
 
 Aqui tens mais suguestões para a sua próxima contribuição, Baza lá dar uma olhada:
 
-### [ Material adicional ](../additional-material/translations/Portuguese/additional-material.pt_br.md)
+### [ Material adicional ](../additional-material/translations/Portuguese/additional-material.pt-br.md)
 
 ## Tutoriais com outras ferramentas
 
