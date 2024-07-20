@@ -116,7 +116,7 @@ Você pode se juntar-se à nossa equipe no Slack caso precise de alguma ajuda ou
 
 Agora vamos colocá-lo para contribuir com outros projetos. Nós compilamos uma lista de projetos com problemas simples nos quais você pode começar a trabalhar. Verifique [a lista de projetos na aplicação web](https://firstcontributions.github.io/#project-list).
 
-### [ Material adicional ](../additional-material/translations/Portugues/additional-material.pt-br.md)
+### [ Material adicional ](../additional-material/translations/Portuguese/additional-material.pt-br.md)
 
 ## Tutoriais usando outras ferramentas
 
