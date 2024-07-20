@@ -630,6 +630,7 @@ vrushabhpatil48
 - [@jakeevans00](https://github.com/jakeevans00) 🦆🦆🦆🦆🦆🦆...🦆 
 - [Erin Tiha]
 - [Luca Caputo] (https://github.com/lucapu88) **Hello there**
+- [YahyaHassan1914] (https://github.com/YahyaHassan1914) **Stepping into the world of open source, one small change at a time.**
 - [Ahzem](https://github.com/ahzem) **Love to OpenSource**
 - [Elmer](https://github.com/baca217) **Hello world!**
 - [JoksimovicM](https://github.com/JoksimovicM) **Probably should've done this sooner**
