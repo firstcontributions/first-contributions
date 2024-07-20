@@ -107,6 +107,7 @@
 - Shambhabya Medhi
 - Patricio Améstica
 Rohit Rawat
+- [Kriti Raj](https://github.com/kriti-raj)
 - [Keith Obando](https://github.com/17Keith)
 - [Sylvester Ashford](https://github.com/timvma) **Hello World**
 - [Tim Ambi](https://github.com/SylvesterAshford)
