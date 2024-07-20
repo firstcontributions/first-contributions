@@ -1,6 +1,5 @@
 # Contributors
 ### Paul Quito
-- [Olubakinde Tito] (https://github.com/Olubakinde) **Hey There! CheckOut my Github Profile**
 -[Tirth Patel](https://github.com/TirthWillLearn)**Hi!, First Contribution Here👋**
 -[DanielHinnigan](https://github.com/dsadasdasdasd123)**Hi!**
 -[Charlie Nourrcier](https://github.com/cnourrcier)**First Contribution here 07/19/24. Reach out to me if you want to collaborate on a MERN project :D**
@@ -11,6 +10,7 @@
 - [Oluwatobiloba Mosinmiloluwa Ajani Jesulayomi Ibrahim Abidoye AKA Tobi Abidoye](https://github.com/tobiabidoye)"Hipster by heart but i can tell you how them streets feel"
 - [Swam Yi Phyo](https://github.com/fisheeesh) **Yes, I did baby. 20.7.2024**
 - [Eren Turkoglu](https://github.com/erenworld) **Hi, I'm Eren'**
+- [Olubakinde Tito!] (https://github.com/Olubakinde) **Hey There! CheckOut my Github Profile!**
 - [Ames](https://github.com/theamescsm) 19 Jul 2024 "Playing with Git is fun"
 -[Abhijith Sudhakaran](https://github.com/abhijithx) ** 19/07/2024 FIRST COMMIT**
 -[Anthony Lee](https://github.com/mygod0108)**Hi,my name is Anthony.This is my first ever commit**
