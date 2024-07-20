@@ -233,7 +233,7 @@ Vedant Raut here and this is my first Contribution
 -[Shruti] (https://github.com/shrutigupta02) **this is my first contribution, hello all!**
 - [ali hamraoui](https://github.com/alihamraoui)***Hello allstatus**
 - [Vaishnavi] (https://github.com/vishu1089) ***First Time, Hello to all!***
-- [Nischal Neupane] (https://github.com/nischal170) ***First step in contribution, Hello all***
+- [Nischal Neupane](https://github.com/nischal170) ***First step in contribution, Hello all***
 - [Aaina Akbar] (https://www.github.com/aaina942) ***First Timer***
 - [Plamen Nikolov](https://github.com/pgnikolov) ***First Timer***
 - [Arul MUrugan](https://github.com/ArulMurugan13)
