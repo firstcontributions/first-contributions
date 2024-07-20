@@ -146,4 +146,4 @@ Você pode se juntar à nossa comunidade no slack, caso precise de alguma ajuda 
 ### [Material adicional](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Tutoriais utilizando outras ferramentas
-[Retorne para a página principal](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.pt-br.md)
+[Retorne para a página principal](https://github.com/firstcontributions/first-contributions/blob/main/translations/README.pt-br.md)
