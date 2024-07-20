@@ -6481,7 +6481,7 @@ https://github.com/06Gagan
 - [Ronnie Conlon](https://github.com/rjamesconlon)
 - [Noci27](https://github.com/Noci27) **This is a great tutorial, this helped a lot :D**
 - [Darian Toledo](https://github.com/darianmorat) **Getting better**
-- [Kenny Blau](https://github.com/kblau237) **30 years experience coding-Need coding work
+- [Kenny Blau](https://github.com/kblau237) **30 years experience coding-Need coding work**
 - [Jaswanth Kumar](https://github.com/Jaswanth-0401) **My first contribution**
 - [Guoqing Cao](https://github.com/g4li0)
 - [Angelo Huaraca](https://github.com/ahuaracab) **I was here! 07/18/24**
@@ -6492,3 +6492,4 @@ https://github.com/06Gagan
 - [Nyein Chan Ko](https://github.com/NyeinChanKo-tech) **first public contribution**
 - [Ashwin P Shine](https://github.com/prisoneroflove) **Not first, but a contribution. From GreySkale Robotics**
 - [Farzan Ullah](https://github.com/Farzan-Ullah) **My first contribution**
+- [Sahai Jordi Alan](https://github.com/SJAlanA) **My first open source contribution, Thanks!**
