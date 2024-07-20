@@ -8,7 +8,8 @@
 - jaajaaBinks
 - [Manoj Sai](https://github.com/bmanojsai)**Thanks for this repo! It's helps a lot of people.
 - [Oluwatobiloba Mosinmiloluwa Ajani Jesulayomi Ibrahim Abidoye AKA Tobi Abidoye](https://github.com/tobiabidoye)"Hipster by heart but i can tell you how them streets feel"
-- [Eren Turkoglu] (https://github.com/erenworld) **Hi, I'm Eren'**
+- [Swam Yi Phyo](https://github.com/fisheeesh) **Yes, I did baby. 20.7.2024**
+- [Eren Turkoglu](https://github.com/erenworld) **Hi, I'm Eren'**
 - [Ames](https://github.com/theamescsm) 19 Jul 2024 "Playing with Git is fun"
 - [Abhijith Sudhakaran](https://github.com/abhijithx) ** 19/07/2024 FIRST COMMIT**
 - [Anthony Lee](https://github.com/mygod0108)**Hi,my name is Anthony.This is my first ever commit**
@@ -106,6 +107,7 @@
 - Shambhabya Medhi
 - Patricio Améstica
 - Rohit Rawat
+- [Kriti Raj](https://github.com/kriti-raj)
 - [Keith Obando](https://github.com/17Keith)
 - [Sylvester Ashford](https://github.com/timvma) **Hello World**
 - [Tim Ambi](https://github.com/SylvesterAshford)
