@@ -50,6 +50,7 @@
 -JohnK
 -ali
 -first Contribution
+-piyush (first contribution)
 - El Vitas
 - [vigneshsb](https://vigneshsb.fun)
 -zenki
