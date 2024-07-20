@@ -2,6 +2,7 @@
 ### Paul Quito
 - [Arham Begani](https://github.com/Arham-Begani)**Hi!, first Contribution Here**
 - [Tirth Patel](https://github.com/TirthWillLearn)**Hi!, First Contribution Here👋**
+- [Eddie Vartanessian](https://github.com/EddieV2)**Hello from Boston! :shamrock:**
 - [DanielHinnigan](https://github.com/dsadasdasdasd123)**Hi!**
 - [Charlie Nourrcier](https://github.com/cnourrcier)**First Contribution here 07/19/24. Reach out to me if you want to collaborate on a MERN project :D**
 - [Abdullahi Hamisu](https://github.com/captainprinz)**First Contribution and first emoji ever on desktop🎆🎈🚀**
@@ -588,6 +589,7 @@ yumi-kim-0827
 - Erich El developer del Peru
 - Liam Pestrella :)
 - [Vidhi Vinchhi] Super work
+- [Naseem Muhammad] (https://github.com/Naseemm123) first contribution to open source 
 - [Sharvani Vadlamani] First open source contribution!! 
 - [@Lakshya-Kapoor](https://github.com/Lakshya-Kapoor) First open source contribution 🥳🥳
 - [Cjensen32](https://github.com/cojense4) First contribution lol
@@ -628,6 +630,7 @@ vrushabhpatil48
 - [@jakeevans00](https://github.com/jakeevans00) 🦆🦆🦆🦆🦆🦆...🦆 
 - [Erin Tiha]
 - [Luca Caputo] (https://github.com/lucapu88) **Hello there**
+- [YahyaHassan1914] (https://github.com/YahyaHassan1914) **Stepping into the world of open source, one small change at a time.**
 - [Ahzem](https://github.com/ahzem) **Love to OpenSource**
 - [Elmer](https://github.com/baca217) **Hello world!**
 - [JoksimovicM](https://github.com/JoksimovicM) **Probably should've done this sooner**
