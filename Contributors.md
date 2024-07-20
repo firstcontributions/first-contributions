@@ -1611,7 +1611,7 @@ git add Contributors.md# Contributors
 - [Zeffanine Aimen](https://github.com/zeffanine-aimen)
 - [Swastik Banerjee](https://github.com/swastik-apk)
 - [Jose Aliaga](https://github.com/metalargento)
-- [Ratnesh Rastogi] (https://github.com/TheYorouzoya)
+- [Ratnesh Rastogi](https://github.com/TheYorouzoya)
 - [Pablo Andujar](https://github.com/pabloandujar-bahia)
 - [Jayesh Chouhan](https://github.com/jayesh-xyz)
 - Jack Youssef
@@ -1682,14 +1682,14 @@ Sam Barns
 -Prab-27
 - Kyle Free
 Lindsay A
-- [addy-luna] (https://github.com/addy-luna)
+- [addy-luna](https://github.com/addy-luna)
 - Jesse Soliman [CS464]
 - Skylar Posler [CS464] (https://github.com/skylarposler)
 - MrF1ow
-- [Audrey] (https://github.com/aflanders7)
-- [Raneem] (https://github.com/ra2230)
+- [Audrey](https://github.com/aflanders7)
+- [Raneem](https://github.com/ra2230)
 - Argoxonium
-- [Miguel Alvarez] (https://github.com/formalmiguel)
+- [Miguel Alvarez](https://github.com/formalmiguel)
 - [Brett Dixon] (https://github.com/BDixon)
 - [Cundaneswara Reddy](https://github.com/Cundanreddy) Watashi wa kaihatsu-ō ni naru!! :crown:
 - [MaccSob] (https://github.com/MaccSob)
@@ -1767,8 +1767,8 @@ Kayla Barton
 - [DSCmatter](https://github.com/DSCmatter)
 - [Jason Zelmanovich](https://github.com/JasonZelmanovich)
 - [Chad Holst](https://github.com/HolstCh)
-- [Benjamin Lane] (https://github.com/UnseemlyDuck) 
-- [Chris Reed] (https://github.com/WebDevByCR)
+- [Benjamin Lane](https://github.com/UnseemlyDuck) 
+- [Chris Reed](https://github.com/WebDevByCR)
 - [ash-tise](https://github.com/ash-tise)
 - [Dennis Witnauer](https://github.com/witnauer)
 - [Will](https://github.com/WillTheCodeWork)
