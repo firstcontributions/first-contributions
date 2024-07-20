@@ -114,6 +114,7 @@ Rohit Rawat
 - [Shyam Raj D](https:github.com/shyamshyam018) **Stoic Coder Shyam Says HI**
 - [Harshana Srimal](https://harshanasrimal.com) **Love to Code. find me on** [**Github**](https://github.com/harshanasrimal) **also**
 - [CoreyLazenby](https://github.com/TheRealCorey22)**You'll do great! Just keep going! We all start somewhere!**
+- [NovaFurry](https://github.com/NovaFurry) **cool**
 - [Jason Morgan](https://github.com/okrayum)**"I'll give it a whirl!"**
 - [Hassan Ali](https://github.com/HassanDev1)**Hassan Ali**
 [Abraham](https://github.com/Abraham-Chileshe/) **Hi**
