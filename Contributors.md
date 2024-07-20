@@ -15,7 +15,7 @@
 -[Anthony Lee](https://github.com/mygod0108)**Hi,my name is Anthony.This is my first ever commit**
 -[Romaric Tokpa](https://github.com/Tokpawood) **Hi, this is my first contribution. I am open**
 -[Kaustubh Warme](https://github.com/siddharth-123) **Hi My name is Kaustubh Warme. This is my first github contribution**
--[Roshan Kumar](https://github.com/roshankrr) **Hi My name is Roshan Kumar. This is my first github contribution**
+-[Roshan Kumar ](https://github.com/roshankrr) **Hi My name is Roshan Kumar. This is my first github contribution**
 -[Burak Anil Cila](https://github.com/bcila) **Every line of code is a blend of imagination and logic; every algorithm we write to solve problems is a step shaping the future 🌟**
 -[Zain Fareed](https://github.com/zfareed) **First contribution. It's great to see all of you here!**
 -[Sitotaw Ashagre](https://github.com/yotors) **May be the first appearance in the os contribution realm**
