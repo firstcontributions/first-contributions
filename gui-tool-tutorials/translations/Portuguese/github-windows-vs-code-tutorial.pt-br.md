@@ -111,7 +111,7 @@ Comemore sua contribuição e compartilhe com seus amigos e seguidores acessando
 
 Você pode se juntar à nossa equipe do slack caso precise de ajuda ou tenha alguma dúvida. [Junte-se à equipe do Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-### [Material adicional](../additional-material/translations/Portuguese/additional-material.pt-br.md)
+### [Material adicional](/additional-material/translations/Portuguese/additional-material.pt-br.md)
 
 ## Tutoriais usando outras ferramentas
 [Back to main page](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)

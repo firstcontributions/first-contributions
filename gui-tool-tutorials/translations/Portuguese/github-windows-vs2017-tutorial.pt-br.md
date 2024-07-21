@@ -143,7 +143,7 @@ Você pode se juntar à nossa comunidade no slack, caso precise de alguma ajuda 
 [Faça parte da nossa comunidade no Slack!](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 
 
-### [Material adicional](../additional-material/git_workflow_scenarios/additional-material.md)
+### [Material adicional](/additional-material/translations/Portuguese/additional-material.pt-br.md)
 
 ## Tutoriais utilizando outras ferramentas
 [Retorne para a página principal](https://github.com/firstcontributions/first-contributions/blob/main/translations/README.pt-br.md)
