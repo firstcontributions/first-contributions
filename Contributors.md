@@ -6518,3 +6518,4 @@ https://github.com/06Gagan
 - [Siddharth Jain](https://github.com/sjain166) **Let's Get Started With Open Source !!!**
 - [Daniel Obode](https://github.com/hoodiedan) **Let's Get Started With Open Source !!!**
 - [Rafał-Tomczyk](https://github.com/Faflox) **Hello World!**
+- [Bartek2050](https://github.com/bartek2050) **Hello 👋🏻**
