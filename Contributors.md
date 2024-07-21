@@ -1,4 +1,5 @@
 # Contributors
+-[Thiago Queiroz](https://github.com/thiagoqueiroz97) **Re-learning the ropes!** 
 ### Paul Quito
 -[Arham Begani](https://github.com/Arham-Begani)**Hi!, first Contribution Here**
 -[SevimBusraGul78](https://github.com/SevimBusraGul78)**Hello easy :)
