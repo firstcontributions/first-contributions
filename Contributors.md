@@ -14,6 +14,7 @@
 - [Oluwatobiloba Mosinmiloluwa Ajani Jesulayomi Ibrahim Abidoye AKA Tobi Abidoye](https://github.com/tobiabidoye)"Hipster by heart but i can tell you how them streets feel"
 - [Swam Yi Phyo](https://github.com/fisheeesh) **Yes, I did baby. 20.7.2024**
 - Hasmeet Khatri: 1st github contribution.
+- [shechet](https://github.com/shefchet)
 - [Eren Turkoglu](https://github.com/erenworld) **Hi, I'm Eren'**
 - [Olubakinde Tito!] (https://github.com/Olubakinde) **Hey There! CheckOut my Github Profile!**
 - [Ames](https://github.com/theamescsm) 19 Jul 2024 "Playing with Git is fun"
