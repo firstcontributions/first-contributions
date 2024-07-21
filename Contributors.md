@@ -2623,6 +2623,7 @@ guanj65
 - [Mahnoor Ismail] (https://github.com/mahnewr)
 - [Mr E](https://github.com/MrE00)
 - [Peter Adepoju] (https://github.com/peralivet)
+- [Arthur Howard] (https://github.com/ArthurHoward1)
 - [Saurabh Gattani](https://github.com/saurabh1294)
 - [Yyunozor](https://github.com/Yyunozor)
 - [Shivansh Gupta](https://github.com/Shivansh-04)
