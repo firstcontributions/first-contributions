@@ -2877,6 +2877,7 @@ Jasmine
 - [Jongsoo ha](https://github.com/jongsoo1203)
 - [JayJayleee](https://github.com/JayJayleee)
 - [Shahadat Shanto](https://github.com/msh-Shanto)
+- [Mario Sanchez](https://github.com/malejandrosan/)
 - [Josiah Abrahams](https://github.com/josiahabrahams)
 - [Eric]
 - [Supposable](https://github.com/supposable)
