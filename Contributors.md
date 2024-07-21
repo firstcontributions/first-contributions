@@ -1,6 +1,7 @@
 # Contributors
 ### Paul Quito
 -[Arham Begani](https://github.com/Arham-Begani)**Hi!, first Contribution Here**
+-[SevimBusraGul78](https://github.com/SevimBusraGul78)**Hello easy :)
 -[Tirth Patel](https://github.com/TirthWillLearn)**Hi!, First Contribution Here👋**
 - [Eddie Vartanessian](https://github.com/EddieV2)**Hello from Boston! :shamrock:**
 -[DanielHinnigan](https://github.com/dsadasdasdasd123)**Hi!**
@@ -51,6 +52,8 @@
 - Ashwin Varma (Excited to contribute to open source!)
 -[Sumit Sagar](https://github.com/mostpalon3)**Just continue coding and fall in love with it.(btw I am a Web Developer)**
 -JohnK
+-Yoshito
+-jp1593
 -ali
 -first Contribution
 -piyush (first contribution)
@@ -2621,6 +2624,7 @@ guanj65
 - [Mahnoor Ismail] (https://github.com/mahnewr)
 - [Mr E](https://github.com/MrE00)
 - [Peter Adepoju] (https://github.com/peralivet)
+- [Arthur Howard] (https://github.com/ArthurHoward1)
 - [Saurabh Gattani](https://github.com/saurabh1294)
 - [Yyunozor](https://github.com/Yyunozor)
 - [Shivansh Gupta](https://github.com/Shivansh-04)
@@ -2875,6 +2879,7 @@ Jasmine
 - [Jongsoo ha](https://github.com/jongsoo1203)
 - [JayJayleee](https://github.com/JayJayleee)
 - [Shahadat Shanto](https://github.com/msh-Shanto)
+- [Mario Sanchez](https://github.com/malejandrosan/)
 - [Josiah Abrahams](https://github.com/josiahabrahams)
 - [Eric]
 - [Supposable](https://github.com/supposable)
@@ -3232,6 +3237,7 @@ Gyanendra Thakur
 - [eszanon](https://github.com/eszanon)
 - [TejoSaiSwaroop](https://github.com/tejosaiswaroop)
 [ronny mekin]
+- [MAT]
 -[RohitkumbarRK](https://github.com/RohitkumbarRK)
 - [Kores Nkoidila](https://github.com/Nkoidila)
 - [Ian McManus](https://github.com/ianmcman)
@@ -6512,4 +6518,9 @@ https://github.com/06Gagan
 - Giriselvan **My First contribution**
 - [Siddharth Jain](https://github.com/sjain166) **Let's Get Started With Open Source !!!**
 - [Daniel Obode](https://github.com/hoodiedan) **Let's Get Started With Open Source !!!**
+<<<<<<< HEAD
 - [Jay2459](https://github.com/jay2459) **It is going to be interesting. 2024-07-21 !!!**
+=======
+- [Rafał-Tomczyk](https://github.com/Faflox) **Hello World!**
+- [Bartek2050](https://github.com/bartek2050) **Hello 👋🏻**
+>>>>>>> 30afe63dacf4c726d025ca309ac479ce3b461a0d
