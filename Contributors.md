@@ -6516,6 +6516,7 @@ https://github.com/06Gagan
 - [Sahai Jordi Alan](https://github.com/SJAlanA) **My first open source contribution, Thanks!**
 - [Sandeep Kumar Behera](https://github.com/sandeepkumar-skb) **So it begins!**
 - Giriselvan **My First contribution**
+- [Rudra Prasad Pati](https://github.com/Rudra-Prasad-001) **My first Open Source contribution,I'm a web developer(Ruby on rails)**
 - [Siddharth Jain](https://github.com/sjain166) **Let's Get Started With Open Source !!!**
 - [Daniel Obode](https://github.com/hoodiedan) **Let's Get Started With Open Source !!!**
 - [Rafał-Tomczyk](https://github.com/Faflox) **Hello World!**
