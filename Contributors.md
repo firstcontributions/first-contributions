@@ -6546,3 +6546,5 @@ https://github.com/06Gagan
 - [Priyanshu Solon](https://github.com/priyanshu-solon) **Let's Go!**
 - [Tornike Skhulukhia](https://github.com/Tornike-Skhulukhia) ** Not the first FOSS commit, but this is still cool **
 - [Kris Furer](https://github.com/kris-furer) **My first open source contribution**
+- Angola **Minha primeira contribuição**
+- [Henrique de Oliveira da Silva](https://github.com/HenriqueSilva20) **Não existe tentar, ou você faz ou não faz! Mbora práticar**
