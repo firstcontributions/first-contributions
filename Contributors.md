@@ -350,6 +350,7 @@ Vedant Raut here and this is my first Contribution
 - [Rudra]
 - [YumikoChow] (https://github.com/yumi520) **Hi**
 - Tamiris from Brazil
+- [lsprdev - Gabriel](https://github.com/lsprdev) || [Linkedin](https://www.linkedin.com/in/lsprgabriel) || Cypherpunks write code.
 - [Swaminathan]
 -[Mihir](https://github.com/MIHIRstoic)***first time***
 - [David Myat]
