@@ -6531,3 +6531,4 @@ https://github.com/06Gagan
 - [Rafał-Tomczyk](https://github.com/Faflox) **Hello World!**
 - [Bartek2050](https://github.com/bartek2050) **Hello 👋🏻**
 - [Priyanshu Solon](https://github.com/priyanshu-solon) **Let's Go!**
+- [Kris Furer](https://github.com/kris-furer) **My first open source contribution**
