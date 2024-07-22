@@ -17,6 +17,23 @@
 - [Ames](https://github.com/theamescsm) 19 Jul 2024 "Playing with Git is fun" -[Abhijith Sudhakaran](https://github.com/abhijithx) ** 19/07/2024 FIRST COMMIT** -[Anthony Lee](https://github.com/mygod0108)**Hi,my name is Anthony.This is my first ever commit** -[Romaric Tokpa](https://github.com/Tokpawood) **Hi, this is my first contribution. I am open** -[Kaustubh Warme](https://github.com/siddharth-123) **Hi My name is Kaustubh Warme. This is my first github contribution** -[Roshan Kumar ](https://github.com/roshankrr) **Hi My name is Roshan Kumar. This is my first github contribution** -[Burak Anil Cila](https://github.com/bcila) **Every line of code is a blend of imagination and logic; every algorithm we write to solve problems is a step shaping the future 🌟** -[Zain Fareed](https://github.com/zfareed) **First contribution. It's great to see all of you here!** -[Sitotaw Ashagre](https://github.com/yotors) **May be the first appearance in the os contribution realm**
 - [AMKCode] (https://github.com/AMKCode/) **added AMKCode to the contributions list, added descriptions** -[abhay tomar](https://github.com/uniquepersun) **here me goooo! :)** -[Samyak Aditya](https://github.com/samyak-aditya) **July 20, 2024: The day my code went open source and the world became a little better (or at least more interesting)! --- proof that even small bugs can be big wins!"** 🌍💾 -[Benjamin Helm] (https://github.com/BenjaminHelm) **to many more contributions to come** -[Sutipong Panyanil](https://github.com/sutigit) **2024/07/12 First contribution ever! Stay open!**
 - [Yu]**2024 年 7 月 12 日 21:23:54 Yuuuuuuu**
+- [Ames](https://github.com/theamescsm) 19 Jul 2024 "Playing with Git is fun"
+-[Abhijith Sudhakaran](https://github.com/abhijithx) ** 19/07/2024 FIRST COMMIT**
+-[Anthony Lee](https://github.com/mygod0108)**Hi,my name is Anthony.This is my first ever commit**
+-[Romaric Tokpa](https://github.com/Tokpawood) **Hi, this is my first contribution. I am open**
+-[Kaustubh Warme](https://github.com/siddharth-123) **Hi My name is Kaustubh Warme. This is my first github contribution**
+-[Roshan Kumar ](https://github.com/roshankrr) **Hi My name is Roshan Kumar. This is my first github contribution**
+-[Burak Anil Cila](https://github.com/bcila) **Every line of code is a blend of imagination and logic; every algorithm we write to solve problems is a step shaping the future 🌟**
+-[Zain Fareed](https://github.com/zfareed) **First contribution. It's great to see all of you here!**
+-[Ahmed Obaidullah](https://github.com/ahmedobaid23) **First Contribution!**
+-[Sitotaw Ashagre](https://github.com/yotors) **May be the first appearance in the os contribution realm**
+- [AMKCode] (https://github.com/AMKCode/) **added AMKCode to the contributions list, added descriptions**
+-[abhay tomar](https://github.com/uniquepersun) **here me goooo! :)**
+-[Samyak Aditya](https://github.com/samyak-aditya) **July 20, 2024: The day my code went open source and the world became a little better (or at least more interesting)! --- proof that even small bugs can be big wins!"** 🌍💾
+-[Jerin Thomas] (https://github.com/jerinthomascarmel) ** 22-07-2024 : my first commit ** 
+-[Benjamin Helm] (https://github.com/BenjaminHelm) **to many more contributions to come**
+-[Sutipong Panyanil](https://github.com/sutigit) **2024/07/12 First contribution ever! Stay open!**
+- [Yu]**2024年7月12日21:23:54 Yuuuuuuu**
 - [Mpara Romaric](https://github.com/sampleris) **2024/07/12 :)**
 - [Patrick Chukwu](https://github.com/Patrick-Chukwu) **Cheers to the first of many contributions in the OS, community.**
 - Noo Dev **My first baby step of future contributions**
@@ -83,6 +100,7 @@
 - Roman Watson
 - Ernesto Saer
 - Joshua Kuschner
+- Darshan
 - Shambhabya Medhi
 - Patricio Améstica
   Rohit Rawat
