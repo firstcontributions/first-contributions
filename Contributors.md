@@ -132,6 +132,7 @@
 - Shambhabya Medhi
 - Patricio Améstica
 Rohit Rawat
+- [Maggie Chua](https://github.com/maggiechua) **<3**
 - [Kriti Raj](https://github.com/kriti-raj)
 - [Keith Obando](https://github.com/17Keith)
 - [Sylvester Ashford](https://github.com/timvma) **Hello World**
