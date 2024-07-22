@@ -6206,7 +6206,7 @@ git stat
 - [Samuel Osei](https://github.com/oseiagm)
 - [Jonathan Suru](https://github.com/5uru) 🇧🇯 from All In Africa
 - [Siddharth K](https://github.com/Sid-Alpha)
-
+- [Liam Davis](https://github.com/liamjdavis/)
 - [ychibani42](https://github.com/ychibani42)
 - [Terry Li](https://github.com/terryli-vt)
 - [Shanheng Chen](https://github.com/ShanhengChen) Love from China
@@ -6494,6 +6494,7 @@ Hector
 - [Kovi Elango](https://github.com/KoviElango)) **Truth can only be found in one place: the code**
 - [Joy] **Vamos**
 - [Ryoya Imada](https://github.com/ryoya-i-1215)
+- [Liam Davis](https://github.com/liamjdavis)
 - [Yutan Kaifa](https://github.com/yutankaifa) **My name is yutan,Hello everyone!**
 - [chiweily](http://github.com/chiweily) **Hello everyone!!!**
 - [Nicholas Egerton](https://github.com/NicholasEgerton) **Time to get started!**
