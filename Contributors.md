@@ -83,6 +83,7 @@
 -Samir Almeida
 -Shereyar Ali (Shits Tough But Fun)
 -Prateek ** Hello coders! **
+-Satyadarshi
 -Sartaj(https://github.com/TAJ-32) **excited to contribute!!**
 -[add-mydomain]
 -[Ignacio Gonzalez](https://github.com/IgnaGonza)_**Hello Everyone!🎉**_
