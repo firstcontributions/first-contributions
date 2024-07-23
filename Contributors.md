@@ -5,6 +5,7 @@
 -[Frank Costanza](https://github.com/wrx777)**My first contribution**
 -[Arjun TK](https://github.com/Arjun941)**Good shit frfr.find me on insta @arjunoffspace**
 -[Andrew]**HelloWorld!!!**
+-[Daksh Malhan](https://github.com/daksh-malhan)**my first contribution**
 -[Estelle Costanza](https://github.com/wrx777)**My second contribution**
 -[Arham Begani](https://github.com/Arham-Begani)**Hi!, first Contribution Here**
 -[Valeria Martynenko](https://github.com/busydayhuh) **Hello guys!**
@@ -243,6 +244,7 @@ mh
 - [Akeem Danial](https://github.com/Akeemdnl) ***Hello World!***
 - [Jayce]
 -[wamosa]
+- [Ricardo UMA](https://github.rplumua)
 -[geeta]
 -[Ashraff]-(https://github.com/Ashraff-Shaik) - Lets get started
 - [Philippe Renard](https://github.com) Test contrib
