@@ -28,6 +28,7 @@
 -[Preetha S](https://github.com/Pree-04)**Hello! Making a basic open-source contribution to understand the fork, clone, edit and pull requests workflow. 23/07/2024**
 - Hasmeet Khatri: 1st github contribution.
 - [shechet](https://github.com/shefchet)
+- [gdziewon] **she puppy on my linux till i ram**
 - [Eren Turkoglu](https://github.com/erenworld) **Hi, I'm Eren'**
 -[Ayush Raj](https://github.com/Bitwise-AR)**Hi!, First Contribution Here, do checkout my GitHub profile**
 - [Olubakinde Tito!] (https://github.com/Olubakinde) **Hey There! CheckOut my Github Profile!**
