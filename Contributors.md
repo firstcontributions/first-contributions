@@ -6552,3 +6552,4 @@ https://github.com/06Gagan
 - [Tornike Skhulukhia](https://github.com/Tornike-Skhulukhia) ** Not the first FOSS commit, but this is still cool **
 - [Mark Liu](https://github.com/markliu2013)**Hi!**
 - [Kris Furer](https://github.com/kris-furer) **My first open source contribution**
+- [Valentino Lopez](https://github.com/valentinolopezbruno)
