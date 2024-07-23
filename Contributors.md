@@ -1517,7 +1517,8 @@ Abhinav Jain
 - David Qu
 - Brett Wells(https://github.com/Wells245)
 - [brstreet2] (https://github.com/brstreet2)
-- [Ethan Corbett] (https://github.com/Schnozhand03)
+- [Ethan Corbett] (htps://github.com/Schnozhand03)
+- vinicius amaral
 - Cinthylli
 - [Michael Chen](https://github.com/vayfarer/)
 - [ANUJ] (https://github.com/THEBOSS0369)
