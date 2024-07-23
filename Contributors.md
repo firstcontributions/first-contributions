@@ -13,6 +13,7 @@
 -[Tirth Patel](https://github.com/TirthWillLearn)**Hi!, First Contribution Here👋**
 - [Eddie Vartanessian](https://github.com/EddieV2)**Hello from Boston! :shamrock:**
 - [silvermaking](https://github.com/silvermaking)**Hello, First Contribution**
+- [JhayaLvannyahM](https://github.com/mjhayalavannyah)**My First Contribution too!!!**
 -[DanielHinnigan](https://github.com/dsadasdasdasd123)**Hi!**
 -[Charlie Nourrcier](https://github.com/cnourrcier)**First Contribution here 07/19/24. Reach out to me if you want to collaborate on a MERN project :D**
 -[Abdullahi Hamisu](https://github.com/captainprinz)**First Contribution and first emoji ever on desktop🎆🎈🚀**
@@ -21,6 +22,7 @@
 - [Manoj Sai](https://github.com/bmanojsai)**Thanks for this repo! It's helps a lot of people.
 - [Oluwatobiloba Mosinmiloluwa Ajani Jesulayomi Ibrahim Abidoye AKA Tobi Abidoye](https://github.com/tobiabidoye)"Hipster by heart but i can tell you how them streets feel"
 - [Swam Yi Phyo](https://github.com/fisheeesh) **Yes, I did baby. 20.7.2024**
+-[Preetha S](https://github.com/Pree-04)**Hello! Making a basic open-source contribution to understand the fork, clone, edit and pull requests workflow. 23/07/2024**
 - Hasmeet Khatri: 1st github contribution.
 - [shechet](https://github.com/shefchet)
 - [Eren Turkoglu](https://github.com/erenworld) **Hi, I'm Eren'**
@@ -33,11 +35,13 @@
 -[Kaustubh Warme](https://github.com/siddharth-123) **Hi My name is Kaustubh Warme. This is my first github contribution**
 -[Roshan Kumar ](https://github.com/roshankrr) **Hi My name is Roshan Kumar. This is my first github contribution**
 -[Burak Anil Cila](https://github.com/bcila) **Every line of code is a blend of imagination and logic; every algorithm we write to solve problems is a step shaping the future 🌟**
+-[Nishant Choudhary](https://github.com/nishant998) **Hi this is my first contribution on github**
 -[Zain Fareed](https://github.com/zfareed) **First contribution. It's great to see all of you here!**
 -[Ahmed Obaidullah](https://github.com/ahmedobaid23) **First Contribution!**
 -[Sitotaw Ashagre](https://github.com/yotors) **May be the first appearance in the os contribution realm**
 - [AMKCode] (https://github.com/AMKCode/) **added AMKCode to the contributions list, added descriptions**
 -[abhay tomar](https://github.com/uniquepersun) **here me goooo! :)**
+-[Karafakeu] (https://github.com/Karafakeu) **July 23, 2024: starting with open-source, hope I like it.**
 -[Samyak Aditya](https://github.com/samyak-aditya) **July 20, 2024: The day my code went open source and the world became a little better (or at least more interesting)! --- proof that even small bugs can be big wins!"** 🌍💾
 -[Jerin Thomas] (https://github.com/jerinthomascarmel) ** 22-07-2024 : my first commit ** 
 -[Benjamin Helm] (https://github.com/BenjaminHelm) **to many more contributions to come**
@@ -1484,6 +1488,7 @@ Abhinav Jain
 - Pandakiller
 -Gitik
 - [MariaCassandra]
+- [Mathew Alex](https://github.com/mathewalexKerala)
 - [Vaishnavi K](https://github.com/vaishke)
 - [MatiasFernandez] (https://github.com/MFernandez0992)
 - [Santiago Enciso] (https://github.com/Dogeon0)
@@ -4309,6 +4314,7 @@ Philip Ambattu
 - [Zain-Alabdeen](https://github.com/zainalabdeen)
 - [AhmadMustafa01](https://github.com/AhmadMustafa01)
 - [aromko 👨‍💻](https://github.com/aromko)
+- [Vincenzo Schimmenti](https://github.com/Skimmenthal13)
 - [jithinphilip](https://github.com/jithinphilip347)
 - [michik0](https://github.com/michik0)
 - [TimotheeMarreroMeyer](https://github.com/TimotheeMarreroMeyer)
@@ -6555,4 +6561,11 @@ https://github.com/06Gagan
 - [Mark Liu](https://github.com/markliu2013)**Hi!**
 - [Kris Furer](https://github.com/kris-furer) **My first open source contribution**
 - [Valentino Lopez](https://github.com/valentinolopezbruno)
-- [SM ORIGINALS](https://github.com/SMOS-Github) **My First Open Source Contribution on Github.Well I like the the github desktop.
+<<<<<<< HEAD
+- [SM ORIGINALS](https://github.com/SMOS-Github) **My First Open Source Contribution on Github
+=======
+- [Mark Sosa]
+- [Chaitanya Harish] (https://github.com/chaitnayah) **My firs open source contribution**
+- First Contribution!
+- [Carl Martin](https://github.com/cmartin-gnrc) **My firs open source contribution**
+>>>>>>> upstream/main
