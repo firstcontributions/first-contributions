@@ -1527,6 +1527,7 @@ Abhinav Jain
 - [ZaidNadaf](https://github.com/zaidnadaff) **A New Journey, let's hope for the best!**
 - [Abhiraj Aditya](https://github.com/abhiraj860)
 - [Jason Allen](https://github.com/jtoallen)
+- Rafael Rocha
 - Ruben Gomez Bahamonde
 - Elaine
 - [Simrana Farrukh] (https://github.com/simranfarrukh)
