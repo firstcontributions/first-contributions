@@ -28,6 +28,7 @@
 - Hasmeet Khatri: 1st github contribution.
 - [shechet](https://github.com/shefchet)
 - [Eren Turkoglu](https://github.com/erenworld) **Hi, I'm Eren'**
+- [gdziewon] **she puppy on my linux till i ram**
 -[Ayush Raj](https://github.com/Bitwise-AR)**Hi!, First Contribution Here, do checkout my GitHub profile**
 - [Olubakinde Tito!] (https://github.com/Olubakinde) **Hey There! CheckOut my Github Profile!**
 - [Ames](https://github.com/theamescsm) 19 Jul 2024 "Playing with Git is fun"
