@@ -243,6 +243,7 @@ mh
 - [Akeem Danial](https://github.com/Akeemdnl) ***Hello World!***
 - [Jayce]
 -[wamosa]
+- [Ricardo UMA](https://github.rplumua)
 -[geeta]
 -[Ashraff]-(https://github.com/Ashraff-Shaik) - Lets get started
 - [Philippe Renard](https://github.com) Test contrib
