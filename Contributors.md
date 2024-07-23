@@ -2802,6 +2802,7 @@ Jasmine
 - [Ashutosh Kanade]
 - [test-new-user]
 - [Risa Walles](https://github.com/rmw395)
+- [Visak Paul](https://github.com/visakpaul)
 - [Mohsine Mosin(x)]
 - [Jakub Cabala] (https://github.com/jCabala)
 - [Tyler Austin]
