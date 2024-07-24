@@ -25,6 +25,7 @@ Abdullah Ansari
 -[Charlie Nourrcier](https://github.com/cnourrcier)**First Contribution here 07/19/24. Reach out to me if you want to collaborate on a MERN project :D**
 -[Abdullahi Hamisu](https://github.com/captainprinz)**First Contribution and first emoji ever on desktop🎆🎈🚀**
 -[Durvesh Wagh](https://github.com/durveshwagh11)**First Contribution Here👋**
+-[Kyaw Zin Thet](https://github.com/KyawZin369)**First Contribution in 7/24/2024👋**
 - jaajaaBinks
 - [Manoj Sai](https://github.com/bmanojsai)**Thanks for this repo! It's helps a lot of people.
 - [Oluwatobiloba Mosinmiloluwa Ajani Jesulayomi Ibrahim Abidoye AKA Tobi Abidoye](https://github.com/tobiabidoye)"Hipster by heart but i can tell you how them streets feel"
@@ -6193,6 +6194,7 @@ utthamr
 - [Ben Wang 20240513]
 - [Gitzzy]
 - Thanh Huynh
+- Sushil Sharma
 - [Yousif-J](https://github.com/yousifj129)
 git stat
 - [Hannah Bradfield](https://github.com/BradfieldH)
@@ -6588,3 +6590,4 @@ https://github.com/06Gagan
 - [Carl Martin](https://github.com/cmartin-gnrc) **My firs open source contribution**
 - [Anand Maurya](https://github.com/SMOS-Github) ||My first open source contribution||
 - [Benjamin M](https://github.com/bzm10) **My first open source contribution**
+- [Iris Onwa](https://github.com/aloneInEntropy) **First open source contribution!**
