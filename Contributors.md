@@ -6431,6 +6431,7 @@ Hector
 - [jaiderbernal90](https://github.com/jaiderbernal90) _Hello word! This is my first contribution on opensource repo_
 - [NoMeLlamoDante](https://github.com/NoMeLlamoDante) **Dante**
 - [AugustFri](https://github.com/AugustFri) **I'm contributing alright**
+- [Jurako](https://github.com/jurako)
 -[Arnab Paul](https://github.com/arnab1656) **Hello Myself is Very Lucky Go across this Repo and Shout Out And Have Nice Day Ahead**
 -[Raphaella](https://github.com/Raphaelavazq) ### My first contribution 
 -[Nicolas Frazao](https://github.com/Nicolasfrazao) **My first contribution 
