@@ -1015,6 +1015,7 @@ vrushabhpatil48
 - Ronak Katariya
 - haha
 - MS
+- [Anwar Rahim](https://anwarrahim.com)
 - [switchbladechocolate](https://github.com/switchbladechocolate)
 - [Willian Luigi Carneri](https://github.com/willcarneri)
 - [Chedvi Ganz](https://github.com/chedvig)
