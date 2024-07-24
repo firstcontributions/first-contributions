@@ -6450,6 +6450,7 @@ Hector
 - [gmpy99] (https://github.com/gmpy99) *Hi*
 - [justintaekim] (https://github.com/justintaekim) *Wassup yall im here to reinvent the wheel*
 - [Rapphy243](https://github.com/rapphy243) :wave:
+- [jitesh](https://github.com/JiteshNayak2004) my first step to oss hoping to make a mark !!! wish me luck
 - [Juandent] (https://github.com/juandent/first-contributions) Hello!
 - [AndrewSantanastaso](https://github.com/andrewSantanastaso)
 - [Shrikanth](https://github.com/srics-dev)
