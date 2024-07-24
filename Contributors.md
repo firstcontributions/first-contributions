@@ -6193,6 +6193,7 @@ utthamr
 - [Ben Wang 20240513]
 - [Gitzzy]
 - Thanh Huynh
+- Sushil Sharma
 - [Yousif-J](https://github.com/yousifj129)
 git stat
 - [Hannah Bradfield](https://github.com/BradfieldH)
