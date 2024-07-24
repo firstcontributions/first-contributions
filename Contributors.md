@@ -10,6 +10,7 @@ Abdullah Ansari
 -[Andrew]**HelloWorld!!!**
 -[Daksh Malhan](https://github.com/daksh-malhan)**my first contribution**
 -[Estelle Costanza](https://github.com/wrx777)**My second contribution**
+-[lain](https://github.com/JiteshNayak2004) my first oss contribution!! lessgo looking forward to make a mark here
 -[Arham Begani](https://github.com/Arham-Begani)**Hi!, first Contribution Here**
 -[Valeria Martynenko](https://github.com/busydayhuh) **Hello guys!**
 -[SevimBusraGul78](https://github.com/SevimBusraGul78)**Hello easy :)
