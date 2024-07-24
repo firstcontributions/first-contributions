@@ -5400,6 +5400,7 @@ LadegbayeStella)
 - [Jasper Nummi] (https://github.com/jaspe136)
 - [Edwin Hallikainen] (https://github.com/EdwinHallikainen)
 - [Pyaesone Nandar] (https://github.com/JohnMyungOo)
+- [Umer Malik] (https://github.com/umer901)
 - [ydoow]
 -[Selam] (https://github.com/Selamkd)
 - [Harshit Halwan]
