@@ -238,6 +238,7 @@ mh
 -[Deepa Shree](https://github.com/ahmeedHassan1) **Open source contribution**
 - [Anastacio Ruiz](https://github.com/anastar99) **First open source, 7/13/24**
 -[Praneeth Gourla](https://github.com/praneethgourla18) **open source contribution** 
+-[Omer Farooq](https://github.com/omerfarooqBM) **open source contribution** 
 -[Aman Patel](https://github.com/Amanpatel2529) **open source -contribution**
 - [Suvan Shenoy](https://github.com/suvanshenoy) **open source contribution**
 - [Abhinav mohandas](https://github.com/itsabhinavm) ***First open source contribution***
