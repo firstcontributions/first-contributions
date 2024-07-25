@@ -1327,6 +1327,7 @@ v0idborne
 - Yash  nicee
 - Tommy C
 - shuang wu
+- [Muhammad Hanzla] (https://github.com/hanzala-h) 👨‍🎓
 - juan-est145
 - Mike Vrkljan
 - Yash Vats
