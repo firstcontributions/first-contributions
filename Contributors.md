@@ -6613,3 +6613,4 @@ https://github.com/06Gagan
 - [Benjamin M](https://github.com/bzm10) **My first open source contribution**
 - [Iris Onwa](https://github.com/aloneInEntropy) **First open source contribution!**
 - [Sr Kush](https://github.com/SenorKush) **Finally! this is my first open source contribution. Aluta Continua!**
+- [Nim](https://github.com/HypernovaNim) ** First Open Source Contribution
