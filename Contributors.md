@@ -2802,6 +2802,7 @@ something...changed
 - [RASHMIKA](https://github.com/rashmikagudepu)
 - [Kiichi Watanabe](https://github.com/watackeech)
 - [Krishna Mohan Shah](https://github.com/krishnamshah)
+- [Sparsh Amitbhai Ladani] (https://github.com/SparshLadani)
 - [Chandani Mourya](https://github.com/chandani7021)
 - [Roman Bukovskyi](https://github.com/BukovskyiRoman)
 - [Javier Baez] (https://github.com/Vlorrk)
