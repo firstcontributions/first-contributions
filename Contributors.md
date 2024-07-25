@@ -6584,6 +6584,7 @@ https://github.com/06Gagan
 - [Corbin Ainsworth](http://github.com/Promingy) **First Open source Contribution :D**
 - [Leyvi Garcia](https://github.com/lgarcia-latexpress)**this is my firt contribution 07/18/24**
 - [bruhnugget-nice](https://github.com/bruhnugget-nice)**Open source forever! 7/18/24**
+- [Aleš Zima](https://github.com/Esosek) **Added on 25.7.2024**
 - [Chaitrali Kore](https://github.com/Chaitralikore)
 - [Nyein Chan Ko](https://github.com/NyeinChanKo-tech) **first public contribution**
 - [Ashwin P Shine](https://github.com/prisoneroflove) **Not first, but a contribution. From GreySkale Robotics**
