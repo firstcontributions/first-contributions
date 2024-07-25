@@ -1,4 +1,6 @@
 # Contributors
+
+-[Exhuzaifa](https://github.com/ExHuzaifa)
 -[Julius Pascual](https://github.com/JProfessor) **OLFU Antipolo Graduate 2024!** 
 -[Thiago Queiroz](https://github.com/thiagoqueiroz97) **Re-learning the ropes!** 
 ### Paul Quito
