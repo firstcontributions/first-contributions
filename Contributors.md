@@ -722,6 +722,7 @@ vrushabhpatil48
 - Siddhesh Sawant
 - Gaurav Ghidiyal **Trying new things**
 - Nivesh kumar(https://github.com/Nivesh12345)
+- [Isaac Larrubia](https://github.com/isaaclarrubia)
 - Sahil Ahmad **First Contribution**
 - [Swarnabha Halder](https://github.com/swarnabha-dev) **First Contribution 😎**
 - [ARPAN SHARMA](https://github.com/adach2) **LIFE IS GOOD✌️**
