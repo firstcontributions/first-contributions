@@ -11,6 +11,7 @@ Abdullah Ansari
 -[Arjun TK](https://github.com/Arjun941)**Good shit frfr.find me on insta @arjunoffspace**
 -[Andrew]**HelloWorld!!!**
 -[Daksh Malhan](https://github.com/daksh-malhan)**my first contribution**
+-[Marga Buke-Lowe](https://github.com/margaburke)**Hello from Newcastle upon Tyne!**
 -[Estelle Costanza](https://github.com/wrx777)**My second contribution**
 -[lain](https://github.com/JiteshNayak2004) my first oss contribution!! lessgo looking forward to make a mark here
 -[Arham Begani](https://github.com/Arham-Begani)**Hi!, first Contribution Here**
