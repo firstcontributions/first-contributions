@@ -46,6 +46,7 @@ Abdullah Ansari
 -[Preetha S](https://github.com/Pree-04)**Hello! Making a basic open-source contribution to understand the fork, clone, edit and pull requests workflow. 23/07/2024**
 - Hasmeet Khatri: 1st github contribution.
 - Talles Cardoso
+- Jeferson Ramos Fonseca
 - malka
 - [shechet](https://github.com/shefchet)
 - [gdziewon] **she puppy on my linux till i ram**
