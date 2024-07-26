@@ -6627,3 +6627,4 @@ https://github.com/06Gagan
 - [Nim](https://github.com/HypernovaNim) ** First Open Source Contribution
 - [Alex Castellanos](https://github.com/AlexCastel14) **Studing for the Github Foundations certification**
 - [Rhuan Hianc](https://github.com/rhuanhianc) **Hi**
+- [Vin Cent](https://github.com/Vincent7564) **Hi, I'm New to Open Source. Nice to meet you guys and this is my first open source project!**
