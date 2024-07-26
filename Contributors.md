@@ -19,6 +19,7 @@ Abdullah Ansari
 -[Marga Buke-Lowe](https://github.com/margaburke)**Hello from Newcastle upon Tyne!**
 -[Estelle Costanza](https://github.com/wrx777)**My second contribution**
 -[lain](https://github.com/JiteshNayak2004) my first oss contribution!! lessgo looking forward to make a mark here
+- [Parinita Edke](https://github.com/parinitaedke)**First contribution :)**
 -[Arham Begani](https://github.com/Arham-Begani)**Hi!, first Contribution Here**
 -[Valeria Martynenko](https://github.com/busydayhuh) **Hello guys!**
 -[SevimBusraGul78](https://github.com/SevimBusraGul78)**Hello easy :)
