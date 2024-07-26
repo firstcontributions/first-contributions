@@ -1740,6 +1740,7 @@ Sam Barns
 - [MEOW_MANJOT
 - [Jessica Ebanks] 
 - [KrupickaJan]
+- [diozrios]
 - [YoMomChestHair]
 - [Collin Montague](https://github.com/collinm10)
 - [Natasa Trisha](https://github.com/Trish1996-wq)
