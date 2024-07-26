@@ -1,12 +1,15 @@
 # Contributors
+- [Yaseen Halabi](https://github.com/yaseenhalabi) **I'm him**
 - 🇰🇷 [Donggeon Na](https://github.com/doongeon)
 - [Julius Pascual](https://github.com/JProfessor) **OLFU Antipolo Graduate 2024!** 
 - [Thiago Queiroz](https://github.com/thiagoqueiroz97) **Re-learning the ropes!** 
+- [Brian Caldera](https://github.com/briancaldera)  **Long live OSS!**
 ### Paul Quito
 - [Rahul Verma](https://github.com/rahuwul) **23-07-2024: woah there are too many people here lessgo**
 - Abdullah Ansari
 - [Kaleb Fenley](https://github.com/KalebFenley) **7/21/24**
 - [Matthew H] **25/07/2024**
+- [Prabhat Ghimire] **grinding my way**
 - [Frank Costanza](https://github.com/wrx777)**My first contribution**
 - [Arjun TK](https://github.com/Arjun941)**Good shit frfr.find me on insta @arjunoffspace**
 - [Andrew]**HelloWorld!!!**
@@ -25,6 +28,7 @@
 - [silvermaking](https://github.com/silvermaking)**Hello, First Contribution**
 - [Vicky](https://github.com/Vick-258)**Hello, Nothing special just a line written on 24-07-24**
 - [JhayaLvannyahM](https://github.com/mjhayalavannyah)**My First Contribution too!!!**
+- [Prabhat Ghimire](https://github.com/PrabhatGhm7) **Trying to Learn it **
 - [DanielHinnigan](https://github.com/dsadasdasdasd123)**Hi!**
 - [Charlie Nourrcier](https://github.com/cnourrcier)**First Contribution here 07/19/24. Reach out to me if you want to collaborate on a MERN project :D**
 - [Abdullahi Hamisu](https://github.com/captainprinz)**First Contribution and first emoji ever on desktop🎆🎈🚀**
@@ -72,6 +76,7 @@
 - [Miguel Pereira](https://github.com/migueltmpereira) **Esta é a minha primeira contribuição, a primeira de muitas! Coimbra e NEI <3**
 - Noo Dev **My first baby step of future contributions**
 - [Jyotirmoy Kashyap](https://github.com/jyotirmoy009) **2024/07/13: This is my first contribution 😍)**
+- [Seifolah Ghaderi](https://github.com/seifolah-ghaderi)
 - [Muhammad Ibrahim](https://github.com/ibrahimnd2000)
 - [Shabeeh Fatima](https://github.com/shabeeh200)
 - [Alan Sosa](https://github.com/Alsosa) **My first contribution**
@@ -85,6 +90,7 @@
 - [GuranReiSero](https://github.com/GuranReiSero) **2024/07/11 To infinity and beyond!**
 - [Charles Lambert](https://github.com/Lambert-Charles) **2024/07/09 Latest addition until the latest latest addition**
 - [Ritwik Mishra](https://github.com/Ritwik740)
+- [Bhagyshree] (https://github.com/Bhagyashree-Bhattacharyya) **first time contributor**
 - [Saurabh Singh](https://github.com/SinghSaurabh030)**Lets Go**
 - [MinTse Hsu](https://github.com/MinTse-Hsu) **2024/07/17 My First Open source contribution.**  
 - [Tahseen](https://github.com/tahseentajmal) **first Open source commit.**  
@@ -151,6 +157,7 @@
 - [Henry Fajardo](https://github.com/HenryFR) **First time!**
 - [Elias M.](https://github.com/cezelot) **Hello friend!**
 - [Domenico Tenace](https://github.com/DomeT99) **Hi guys**
+- [Val Gee](https://github.com/Val-Ge) **Hi Everyone!!**
 - [Neeraj Bansal](https://github.com/Neeraj00010) **First contri**
 - [Fei_NoLabel](https://github.com/umavl6) **Stay hungry，stay foolish.**
 - [Tien Dat Pham](https://github.com/datpham0412) **My first contribution to open source on Github!**
@@ -657,8 +664,8 @@
 - [Tristan Samuk](https://www.github.com/tristansamuk) "Was this the face that launched a thousand ships?" (Marlowe, *Doctor Faustus*) 
 - Dsparcade
 - roshan ahamed iam the strong man inthe world
--[Durgesh] (https://github.com/Durgeshityar/) OS here i come 🚶🏼‍♂️
-my name here
+- [Durgesh] (https://github.com/Durgeshityar/) OS here i come 🚶🏼‍♂️
+- my name here
 - [Ziphozenkosi](https://github.com/Ziphozenkosimthombe) **Hello.. My first contribution!!....**
 - MG 
 - Rebecca "I love programming"
@@ -1698,6 +1705,7 @@ git add Contributors.md# Contributors
 - Jack Youssef
 - sakcer
 - Brooke Smith
+- Matheus Jorge
 - Sam Barns
 - [moddingforreal](https://github.com/moddingforreal)
 - [Shane Ludwig] (https://github.com/FoopyPoopy)
@@ -1732,6 +1740,7 @@ git add Contributors.md# Contributors
 - [MEOW_MANJOT
 - [Jessica Ebanks] 
 - [KrupickaJan]
+- [diozrios]
 - [YoMomChestHair]
 - [Collin Montague](https://github.com/collinm10)
 - [Natasa Trisha](https://github.com/Trish1996-wq)
@@ -2053,7 +2062,7 @@ git add Contributors.md# Contributors
 - Kanishka Utagikar(https://github.com/kanishkautag)
 - Jacob Coles
 110703067
--[Koushik Gaddam](https://github.com/Koushikgaddam04)
+- [Koushik Gaddam](https://github.com/Koushikgaddam04)
 - [yasinxdxd](https://github.com/yasinxdxd) **😽 first time contribition for a public repo 🫶**
 - [Angelo Yana](https://github.com/angeloyana-dev)
 - [Seb Gillman](https://github.com/SebGillman)
@@ -4717,6 +4726,7 @@ something...changed
 - [Yeshwanth A](https://github.com/Yeshwanth-A)
 - [type-yun](https://github.com/2648782102)
 - [bidyasagar-mohapatra](https://github.com/bidyasagaranupam)
+- [Brandon Blackburn](https://github.com/bblackburn0805)
 - [Double-think](https://github.com/doublethink-bps)
 - [Manuel Zorrilla](https://github.com/manuelzorrilladev)
 - [Samuel Palomino](https://github.com/spalominor)
@@ -6589,6 +6599,7 @@ git stat
 - [Leyvi Garcia](https://github.com/lgarcia-latexpress)**this is my firt contribution 07/18/24**
 - [bruhnugget-nice](https://github.com/bruhnugget-nice)**Open source forever! 7/18/24**
 - [Aleš Zima](https://github.com/Esosek) **Added on 25.7.2024**
+- [Mads Franzen] (https://github.com/madsfranzen) **LFG**
 - [Chaitrali Kore](https://github.com/Chaitralikore)
 - [Nyein Chan Ko](https://github.com/NyeinChanKo-tech) **first public contribution**
 - [Ashwin P Shine](https://github.com/prisoneroflove) **Not first, but a contribution. From GreySkale Robotics**
@@ -6616,3 +6627,8 @@ git stat
 - [Sr Kush](https://github.com/SenorKush) **Finally! this is my first open source contribution. Aluta Continua!**
 - [Nim](https://github.com/HypernovaNim) ** First Open Source Contribution
 - [Alex Castellanos](https://github.com/AlexCastel14) **Studing for the Github Foundations certification**
+- [Rhuan Hianc](https://github.com/rhuanhianc) **Hi**
+- [Vin Cent](https://github.com/Vincent7564) **Hi, I'm New to Open Source. Nice to meet you guys and this is my first open source project!**
+- [Tatsumi Yamamoto](https://github.com/yamapi-t) **Hi**
+- [angelica-help](https://github.com/angelica-help)**It is really a talented idea to create it for the beginner**
+- [kotteeshwaran](https://github.com/kotteeshwaran) **first_opensource**
