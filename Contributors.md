@@ -4722,6 +4722,7 @@ sh5ed
 - [Yeshwanth A](https://github.com/Yeshwanth-A)
 - [type-yun](https://github.com/2648782102)
 - [bidyasagar-mohapatra](https://github.com/bidyasagaranupam)
+- [Brandon Blackburn](https://github.com/bblackburn0805)
 - [Double-think](https://github.com/doublethink-bps)
 - [Manuel Zorrilla](https://github.com/manuelzorrilladev)
 - [Samuel Palomino](https://github.com/spalominor)
