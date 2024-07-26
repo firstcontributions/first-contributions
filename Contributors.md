@@ -27,6 +27,7 @@ Abdullah Ansari
 - [silvermaking](https://github.com/silvermaking)**Hello, First Contribution**
 -[Vicky](https://github.com/Vick-258)**Hello, Nothing special just a line written on 24-07-24**
 - [JhayaLvannyahM](https://github.com/mjhayalavannyah)**My First Contribution too!!!**
+-[Prabhat Ghimire](https://github.com/PrabhatGhm7) **Trying to Learn it **
 -[DanielHinnigan](https://github.com/dsadasdasdasd123)**Hi!**
 -[Charlie Nourrcier](https://github.com/cnourrcier)**First Contribution here 07/19/24. Reach out to me if you want to collaborate on a MERN project :D**
 -[Abdullahi Hamisu](https://github.com/captainprinz)**First Contribution and first emoji ever on desktop🎆🎈🚀**
