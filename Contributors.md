@@ -1026,6 +1026,7 @@ vrushabhpatil48
 - [Michał Zaremba-Śmietański](https://github.com/michalzarsm)
 - [Jones David](https://github.com/redomic) - Redomic was here!
 - [Muhammad Ridwan Hakim](https://github.com/rescenic)
+- [Naim Katiman](https://github.com/naimkatiman) - I'm contributing to the repository by coding things they don't need.
 - [Luciano Otto Rodrigues](https://github.com/Lucianoottor) - Add me :)
 - [Sumit Dwivedi](https://github.com/SumitDwivedi24X)
 - [LeonardoVS30](https://github.com/LeonardoVS30)
