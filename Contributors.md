@@ -49,6 +49,7 @@ Abdullah Ansari
 - Jeferson Ramos Fonseca
 - malka
 - [shechet](https://github.com/shefchet)
+- [Peter Nguyen](https://github.com/petern48) hi
 - [gdziewon] **she puppy on my linux till i ram**
 -"hello from green gecko"
 - [Eren Turkoglu](https://github.com/erenworld) **Hi, I'm Eren'**
