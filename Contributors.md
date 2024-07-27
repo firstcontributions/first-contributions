@@ -219,6 +219,7 @@ mh
 -[Shamel Rai](https://github.com/shamel-rai) **First Contribution**
 - [Yash Bhavsar](https://github.com/yashexe) **First Contribution, heres to many more!**
 - [Kumar Sanjeev Dutta](https://github.com/sanjeevWeb) **Testing Open Source Contribution, I thank this repo creator!**
+- [Denim] **i like foss and i hope i can be helpful 2024**
 - [Aameshi](https://github.com/aameshi) **FIRST CONTRIBUTION :)**
 - [SameerR](https://github.com/SameerSRao) ***First contribution***
 - [Nagi](https://github.com/Nagi132/) **First Open Source Contribution**
