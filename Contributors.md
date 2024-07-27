@@ -2642,6 +2642,7 @@ guanj65
 - [Kamangu Maeti](https://github.com/KmgSamuel)
 - [Jay CP](https://github.com/jaycp30)
 - [Nizaaa](https://github.com/nizanixi) 
+- [Avkoll](https://github.com/avkoll)
 - [Snagnik Das](https://github.com/snagnikd)
 - [Jesus Fernando Torres](https://github.com/JFerchoTorres)
 - [Jose Luna](https://github.com/jlunabacilio)
