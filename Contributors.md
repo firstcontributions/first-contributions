@@ -56,6 +56,7 @@ Abdullah Ansari
 - [Peter Nguyen](https://github.com/petern48) hi
 - [gdziewon] **she puppy on my linux till i ram**
 -"hello from green gecko"
+- [Davi Magalhaes](https://github.com/CS-DaviMagalhaes) **Hi!! I'm Davi, hoping to contribute to bigger and better projects!**
 - [Eren Turkoglu](https://github.com/erenworld) **Hi, I'm Eren'**
 -[Ayush Raj](https://github.com/Bitwise-AR)**Hi!, First Contribution Here, do checkout my GitHub profile**
 - [Olubakinde Tito!] (https://github.com/Olubakinde) **Hey There! CheckOut my Github Profile!**
