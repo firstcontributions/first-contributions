@@ -7,6 +7,7 @@
 -[Thiago Queiroz](https://github.com/thiagoqueiroz97) **Re-learning the ropes!** 
 -[Brian Caldera](https://github.com/briancaldera)  **Long live OSS!**
 ### Paul Quito
+-[Srinish](https://github.com/Universelord) **HI I am Starting to programing**
 -[Karan Sewa]()
 - [Rahul Verma](https://github.com/rahuwul) **23-07-2024: woah there are too many people here lessgo**
 Abdullah Ansari
