@@ -4,7 +4,8 @@
 - [Yaseen Halabi](https://github.com/yaseenhalabi) **I'm him**
 - 🇰🇷 [Donggeon Na](https://github.com/doongeon)
 -[Vani Verma](https://github.com/VaniVerma16) **Excited to be here!**
--[Julius Pascual](https://github.com/JProfessor) **OLFU Antipolo Graduate 2024!** 
+- [Piotr Daniel](https://github.com/pino888) **There's a first time for everything!**
+- [Julius Pascual](https://github.com/JProfessor) **OLFU Antipolo Graduate 2024!** 
 -[Thiago Queiroz](https://github.com/thiagoqueiroz97) **Re-learning the ropes!** 
 -[Brian Caldera](https://github.com/briancaldera)  **Long live OSS!**
 ### Paul Quito
