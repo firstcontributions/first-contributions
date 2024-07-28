@@ -12,7 +12,7 @@ Zhiyuan Zhao
 -[Thiago Queiroz](https://github.com/thiagoqueiroz97) **Re-learning the ropes!** 
 -[Brian Caldera](https://github.com/briancaldera)  **Long live OSS!**
 - [Darshan Aware](https://github.com/blaze-d83) **on god no cap fr 28/07/2024**
--[Srinish](https://github.com/Universelord) **HI I am Starting to programing**
+- [Srinish](https://github.com/Universelord) **HI I am Starting to programing**
 -[Karan Sewa]()
 - [Rahul Verma](https://github.com/rahuwul) **23-07-2024: woah there are too many people here lessgo**
 Abdullah Ansari
