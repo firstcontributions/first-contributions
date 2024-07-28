@@ -1,7 +1,8 @@
 # Contributors
+- [VishnuKanth](https://github.com/VishnuKanthcr7) **Excited to contribute to open source!**
 - [crabCatcher0](https://github.com/crabcatcher0/) **Learning**
-- [Aung Nanda Oo] (https://github.com/NikkiAung) 🇲🇲 **Excited to contribute many more after this one** 
-Zhiyuan Zhao
+- [Aung Nanda Oo](https://github.com/NikkiAung) 🇲🇲 **Excited to contribute many more after this one** 
+- Zhiyuan Zhao
 - [Mohamed Essam](https://github.com/mohamed-official) **First try!**
 - [Kyi Lei Aye](https://github.com/kyileiaye2021) **First Time Contributing to open source! Excited to learn more!**
 - [Meywy](https://github.com/Meywy) **Lets, btw there are so many people :D**
@@ -9,16 +10,16 @@ Zhiyuan Zhao
 - [Yaseen Halabi](https://github.com/yaseenhalabi) **I'm him**
 - [mbsev] **Lets gooo**
 - 🇰🇷 [Donggeon Na](https://github.com/doongeon)
--[Vani Verma](https://github.com/VaniVerma16) **Excited to be here!**
+- [Vani Verma](https://github.com/VaniVerma16) **Excited to be here!**
 - [Piotr Daniel](https://github.com/pino888) **There's a first time for everything!**
 - [Julius Pascual](https://github.com/JProfessor) **OLFU Antipolo Graduate 2024!** 
--[Thiago Queiroz](https://github.com/thiagoqueiroz97) **Re-learning the ropes!** 
--[Brian Caldera](https://github.com/briancaldera)  **Long live OSS!**
-### Paul Quito
--[Srinish](https://github.com/Universelord) **HI I am Starting to programing**
--[Karan Sewa]()
+- [Thiago Queiroz](https://github.com/thiagoqueiroz97) **Re-learning the ropes!** 
+- [Brian Caldera](https://github.com/briancaldera) **Long live OSS!**
+- [Paul Quito](https://github.com/PaulQuito) **Excited to start contributing!**
+- [Srinish](https://github.com/Universelord) **HI I am Starting to programming**
+- [Karan Sewa]()
 - [Rahul Verma](https://github.com/rahuwul) **23-07-2024: woah there are too many people here lessgo**
-Abdullah Ansari
+- Abdullah Ansari
 - [Kaleb Fenley](https://github.com/KalebFenley) **7/21/24**
 - [Aman ] (https://github.com/aizwal9) **7/28/24 bininging of the end**
 - [Aaron](https://github.com/pykm05) **7/26/24 skibidi rizz**
