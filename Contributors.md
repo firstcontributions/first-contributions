@@ -4,6 +4,7 @@
 Zhiyuan Zhao
 - [Kyi Lei Aye](https://github.com/kyileiaye2021) **First Time Contributing to open source! Excited to learn more!**
 - [Meywy](https://github.com/Meywy) **Lets, btw there are so many people :D**
+- [VaradJadhav](https://github.com/VaradJadhav) **How you doing?**
 - [Yaseen Halabi](https://github.com/yaseenhalabi) **I'm him**
 - 🇰🇷 [Donggeon Na](https://github.com/doongeon)
 -[Vani Verma](https://github.com/VaniVerma16) **Excited to be here!**
