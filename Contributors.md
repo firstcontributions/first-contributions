@@ -6683,3 +6683,4 @@ Hey There
 - [kotteeshwaran](https://github.com/kotteeshwaran) **first_opensource**
 - [wolf-966](https://github.com/wolf-966) **first_opensource**
 - [K-dash](https://github.com/K-dash) **Hi**
+- [potusdev](https://github.com/potusdev) **First open source contribution!**
