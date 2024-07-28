@@ -997,6 +997,7 @@ vrushabhpatil48
 - [Aditya Srivastava](https://github.com/adityas-2990)
 - [Jhonacode](https://github.com/JhonaCodes)
 - Sonia (https://github.com/soniasusanto) First contribution, Hi!
+- [Joseph Albert D Costa](https://github.com/josephdcosta01) **28/07/2024..This is my first github contribution. From Bangladesh.Full stack Developer**
 - [Emmanuel Ideho] (https://github.com/EmmanuelIdeho) (https://www.linkedin.com/in/emmanuel-ideho-522a42185/)
 - [Gaurav] changing the contributors.md will directly accept the PR
 - Vaibhav Uttam this is embarassing
