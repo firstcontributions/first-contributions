@@ -170,6 +170,7 @@ Abdullah Ansari
 -[daniela](https://github.com/dggtn9) **Testing my contribution on GitHub!**
 - [Nguyen Huu Thien](https://github.com/thiennh23) **To Infinity and Beyond!🤠**
 - [Tien Dat Pham](https://github.com/datpham0412) **My first contribution to open source on Github!**
+- [Ashrita Das](https://github.com/Ashrita-Das) **There's always a first time, for everything!**
 - [Estuart] **Trying Contribution**
 - [modestlyhubris](https://github.com/modestlyhubris/) **This is a contribution. Attempt 2**
 - [Rohan] **Testing my first contribution**
