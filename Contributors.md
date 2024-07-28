@@ -129,6 +129,7 @@ Swapnonil Mitra
 -[Tahseen](https://github.com/tahseentajmal) **first Open source commit.**  
 - Jane Doe Giddy (add some text)
 -JOHAN
+-[Kaitlin Carleton](https://github.com/KaiPlusLin) **7/28/2024 My First Open source contribution.** 
 -[Dylan Loomis](https://github.com/dloomis0) **July 24, 2024. Wooooo!**
 - Ashwin Varma (Excited to contribute to open source!)
 -[Kiet Ly](https://github.com/kietly2k) **Hi Open source world!**
