@@ -123,6 +123,7 @@ Abdullah Ansari
 -[Tahseen](https://github.com/tahseentajmal) **first Open source commit.**  
 - Jane Doe Giddy (add some text)
 -JOHAN
+-[Kaitlin Carleton](https://github.com/KaiPlusLin) **7/28/2024 My First Open source contribution.** 
 -[Dylan Loomis](https://github.com/dloomis0) **July 24, 2024. Wooooo!**
 - Ashwin Varma (Excited to contribute to open source!)
 -[Sumit Sagar](https://github.com/mostpalon3)**Just continue coding and fall in love with it.(btw I am a Web Developer)**
