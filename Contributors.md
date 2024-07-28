@@ -24,6 +24,7 @@ Abdullah Ansari
 - [Harshavardhan K](https://github.com/tronbeing3030) **7/28/24 #LFG**
 -[Matthew H] **25/07/2024**
 -[Prabhat Ghimire] **grinding my way**
+-[Ayman Badouzi](https://github.com/itzAymvn)
 -[Frank Costanza](https://github.com/wrx777)**My first contribution**
 -[Arjun TK](https://github.com/Arjun941)**Good shit frfr.find me on insta @arjunoffspace**
 -[Andrew]**HelloWorld!!!**
