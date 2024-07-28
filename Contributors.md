@@ -18,6 +18,7 @@ Zhiyuan Zhao
 - [Rahul Verma](https://github.com/rahuwul) **23-07-2024: woah there are too many people here lessgo**
 Abdullah Ansari
 - [Kaleb Fenley](https://github.com/KalebFenley) **7/21/24**
+- [Aman ] (https://github.com/aizwal9) **7/28/24 bininging of the end**
 - [Aaron](https://github.com/pykm05) **7/26/24 skibidi rizz**
 - [Abdul Moazzim](https://github.com/AbdulMoazzim/) **My First Contribution! Thanks for tutorials!**
 - [Harshavardhan K](https://github.com/tronbeing3030) **7/28/24 #LFG**
