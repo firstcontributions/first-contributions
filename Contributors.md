@@ -6694,3 +6694,4 @@ Hey There
 - [potusdev](https://github.com/potusdev) **First open source contribution!**
 - [Murat Toğunçhan Düzgün](https://github.com/togunchan) **First open source contribution!**
 - [Cesar Fernando Castro Parada](https://github.com/Lordbear117) **First open source contribution! 28/07/2024**
+- [Lhlos](https://github.com/lhlos)**First open source contribution!**
