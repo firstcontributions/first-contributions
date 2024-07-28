@@ -1,4 +1,5 @@
 # Contributors
+- [wal-058](https://github.com/wal-058) **Can't believe it took me this long to start with OSS. Hi, I'm Waleed. Hopefully you are doing well, fellow coder, whoever and whereever you may be :D**
 - [crabCatcher0](https://github.com/crabcatcher0/) **Learning**
 - [Aung Nanda Oo] (https://github.com/NikkiAung) 🇲🇲 **Excited to contribute many more after this one** 
 - [Kyi Lei Aye](https://github.com/kyileiaye2021) **First Time Contributing to open source! Excited to learn more!**
