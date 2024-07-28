@@ -124,6 +124,7 @@ Abdullah Ansari
 -[Sumit Sagar](https://github.com/mostpalon3)**Just continue coding and fall in love with it.(btw I am a Web Developer)**
 -JohnK
 - [Kinesin14]
+-[Chana Roz](https://github.com/ChaniRoz) ** My first contribution to open source 🎉28/07/2024 **
 -Yoshito
 -jp1593
 -ali
