@@ -92,6 +92,12 @@ Swapnonil Mitra
 -[Ahmed Obaidullah](https://github.com/ahmedobaid23) **First Contribution!**
 - Ammar
 -[Sitotaw Ashagre](https://github.com/yotors) **May be the first appearance in the os contribution realm**
+  lalitcap23 have some blockchain stuff ---pragma solidity ^0.8.26;
+
+contract TweetStorage {
+    uint16 public maxTweetLength = 280; // Renamed for clarity
+    address public owner;
+    
 -[Aayush Mishra](https://github.com/skywlker17) **Hi, Thanks for this repo!!**
 - [AMKCode] (https://github.com/AMKCode/) **added AMKCode to the contributions list, added descriptions**
 -[abhay tomar](https://github.com/uniquepersun) **here me goooo! :)**
