@@ -6712,3 +6712,4 @@ Hey There
 - [jolsefu](https://github.com/jolsefu)
 - [chengh233](https://github.com/chengh233) **Happy Friday!**
 - [YSevenK](https://github.com/YSevenK) **Long live the people**
+- [WickedzFrost] (https://github.com/wickedzfrost) **First contribution. 29/7/2024**
