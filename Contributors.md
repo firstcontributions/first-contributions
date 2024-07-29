@@ -1040,6 +1040,7 @@ vrushabhpatil48
 - [Sai Krishna](https://github.com/krishna-o73)
 - [Ashton_Martin]
 - [Sonu]
+- [Koni](https://github.com/0xkon1)
 - [Michael Roberts](https://github.com/devmikeroberts)
 - [Bernardo Alves](https://github.com/Bernardo-Alvess) ***Thanks for the opportunity!*** 😁
 - [Chance Kilmer] (https://github.com/xxXVoidXxx)
