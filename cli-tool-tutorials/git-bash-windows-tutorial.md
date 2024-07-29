@@ -3,6 +3,17 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
+## Over view of git commands
+
+cd <folder>
+git clone <repo-url>
+git checkout -b <branch-name>
+git status
+git add <file-name>
+git commit -m "Add <your-name> to Contributors list"
+git push origin <branch-name>
+git log --oneline
+
 # First Contributions
 
 | <img alt="Git Bash" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/git_scm_logo_icon_170096.png" width="200"> | Git Bash Edition |
@@ -10,16 +21,18 @@
 
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
+
 Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
 
-If you don't have Git Bash on your windows machine, [install it](https://git-scm.com/download/win).
+
+If you don't have Git Bash on your Windows machine, [install it](https://git-scm.com/download/win).
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/fork.png" alt="fork this repository" />
 
 ## Fork this repository
 
 Fork this repo by clicking on the fork button on the top right of this page.
-This will create a copy of this repository in your account.
+This will create a copy of this repository in your account
 
 ## Clone the repository
 
