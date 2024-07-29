@@ -8,6 +8,9 @@ Zhiyuan Zhao
 - [Meywy](https://github.com/Meywy) **Lets, btw there are so many people :D**
 - [VaradJadhav](https://github.com/VaradJadhav) **How you doing?**
 - [Yaseen Halabi](https://github.com/yaseenhalabi) **I'm him**
+- [mbsev] **Lets gooo**
+- [Ahmad Fayyaz](https://github.com/ahmad-fayyaz) **fr fr**
+- [Tarunvamsi](https://github.com/Tarunvamsi) **Contributed to open source for the first time. It's a great learning experience!**
 - 🇰🇷 [Donggeon Na](https://github.com/doongeon)
 -[Vani Verma](https://github.com/VaniVerma16) **Excited to be here!**
 - [Piotr Daniel](https://github.com/pino888) **There's a first time for everything!**
@@ -23,6 +26,7 @@ Abdullah Ansari
 - [Aman ] (https://github.com/aizwal9) **7/28/24 bininging of the end**
 - [Aaron](https://github.com/pykm05) **7/26/24 skibidi rizz**
 - [Abdul Moazzim](https://github.com/AbdulMoazzim/) **My First Contribution! Thanks for tutorials!**
+Swapnonil Mitra
 - [Harshavardhan K](https://github.com/tronbeing3030) **7/28/24 #LFG**
 -[Matthew H] **25/07/2024**
 -[Prabhat Ghimire] **grinding my way**
@@ -128,8 +132,10 @@ Abdullah Ansari
 -[Tahseen](https://github.com/tahseentajmal) **first Open source commit.**  
 - Jane Doe Giddy (add some text)
 -JOHAN
+-[Kaitlin Carleton](https://github.com/KaiPlusLin) **7/28/2024 My First Open source contribution.** 
 -[Dylan Loomis](https://github.com/dloomis0) **July 24, 2024. Wooooo!**
 - Ashwin Varma (Excited to contribute to open source!)
+-[Kiet Ly](https://github.com/kietly2k) **Hi Open source world!**
 -[Sumit Sagar](https://github.com/mostpalon3)**Just continue coding and fall in love with it.(btw I am a Web Developer)**
 -JohnK
 - [Kinesin14]
@@ -1631,6 +1637,7 @@ wobuxinnihuiwuliaodeduwanwodemingzi
 - [Ripak Raj](https://github.com/Ripak2005)
 - [kushal chaulgain] (https://github.com/kushhal13)
 - [Tomy Roy](https://github.com/tomyroydotcom/)
+- [Kushahahaha]
 - [ODragonborn](https://github.com/JoaoODragonborn)
 - [Daniel S](https://github.com/MomentusCritisae)
 - [UmaidMalik](https://github.com/UmaidMalik)
@@ -6690,3 +6697,6 @@ Hey There
 - [K-dash](https://github.com/K-dash) **Hi**
 - [potusdev](https://github.com/potusdev) **First open source contribution!**
 - [Murat Toğunçhan Düzgün](https://github.com/togunchan) **First open source contribution!**
+- [Cesar Fernando Castro Parada](https://github.com/Lordbear117) **First open source contribution! 28/07/2024**
+- [Lhlos](https://github.com/lhlos)**First open source contribution!**
+- [liangfengyouxing3](<https://github.com/liangfengyouyxing3>)
