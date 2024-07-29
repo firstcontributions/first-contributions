@@ -55,7 +55,8 @@ Swapnonil Mitra
 -[N3KT4R105](https://github.com/N3KT4R105)**#cumming_is_fun**
 - [AliSinaYOusofi](https://github.com/AliSinaYOusofi/)**My nth contribution**
 - [Dhruv Jain](https://github.com/dhruvjaink07)**Hola Amigos! from India**
--[Tirth Patel](https://github.com/TirthWillLearn)**Hi!, First Contribution Here👋**
+- [Gina Serakalala](https://github.com/ginaserakalala)**Hello World**
+- [Tirth Patel](https://github.com/TirthWillLearn)**Hi!, First Contribution Here👋**
 - [Eddie Vartanessian](https://github.com/EddieV2)**Hello from Boston! :shamrock:**
 - [silvermaking](https://github.com/silvermaking)**Hello, First Contribution**
 -[Anuj Mishra](https://github.com/imAnujMishra/)**Starting Open Source**
