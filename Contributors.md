@@ -256,6 +256,7 @@ mh
 -[Shamel Rai](https://github.com/shamel-rai) **First Contribution**
 - [Yash Bhavsar](https://github.com/yashexe) **First Contribution, heres to many more!**
 - [Kumar Sanjeev Dutta](https://github.com/sanjeevWeb) **Testing Open Source Contribution, I thank this repo creator!**
+- [John Steve](https://github.com/jamjohn600) **This is my first time contributing to an open source project and I'm really happy the vibe is cool, looking forward to making more contributions in the future**
 - [Denim] **i like foss and i hope i can be helpful 2024**
 - [Aameshi](https://github.com/aameshi) **FIRST CONTRIBUTION :)**
 - [SameerR](https://github.com/SameerSRao) ***First contribution***
