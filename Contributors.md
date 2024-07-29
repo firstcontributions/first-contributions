@@ -137,6 +137,7 @@ Yulia Lantzberg
 -[Saurabh Singh](https://github.com/SinghSaurabh030)**Lets Go**
 -[MinTse Hsu](https://github.com/MinTse-Hsu) **2024/07/17 My First Open source contribution.**  
 -[Tahseen](https://github.com/tahseentajmal) **first Open source commit.**  
+-[Anuj](https://github.com/anuj0456) **Open source commit.**
 - Jane Doe Giddy (add some text)
 -JOHAN
 -[Kaitlin Carleton](https://github.com/KaiPlusLin) **7/28/2024 My First Open source contribution.** 
