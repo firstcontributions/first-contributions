@@ -4365,6 +4365,7 @@ Parthiv Saikia
 - [yangchunhua](https://github.com/1250855168/)
 - [Kundan Kumar](https://github.com/kundank02)
 - [matthew]
+- [Ishraq Ahmad](https://github.com/KarlMagus)
 - [SilencioPz](https://github.com/SilencioPz)
 - [Samuel Church](https://github.com/samdcchurch)
 - [mkeithx](https://github.com/mkeithX)
