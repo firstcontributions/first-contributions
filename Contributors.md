@@ -13,12 +13,12 @@
 - [VaradJadhav](https://github.com/VaradJadhav) **How you doing?**
 - [Yaseen Halabi](https://github.com/yaseenhalabi) **I'm him**
 - [mbsev] **Lets gooo**
-- [awfullyquiet] **wooooo**
 - [Ahmad Fayyaz](https://github.com/ahmad-fayyaz) **fr fr**
 - [Tarunvamsi](https://github.com/Tarunvamsi) **Contributed to open source for the first time. It's a great learning experience!**
 - 🇰🇷 [Donggeon Na](https://github.com/doongeon) -[Vani Verma](https://github.com/VaniVerma16) **Excited to be here!**
 - [Piotr Daniel](https://github.com/pino888) **There's a first time for everything!**
 - [Julius Pascual](https://github.com/JProfessor) **OLFU Antipolo Graduate 2024!** -[Thiago Queiroz](https://github.com/thiagoqueiroz97) **Re-learning the ropes!** -[Brian Caldera](https://github.com/briancaldera) **Long live OSS!**
+- [awfullyquiet] **wooooo**
 
 ### Paul Quito
 
@@ -550,7 +550,7 @@
 - Anirudh(https://github.com/panipurimasala/)**Building stuff\*\*
 - Habibullahi Mohammed(https://github.com/habibullaimohammed) **Lovely repo**
 - Min Thant Kyaw (https://github.com/mintechkyaw)
-- Abhilash ****for my friend****
+- Abhilash \***\*for my friend\*\***
 - Mahima Uliyar (https://github.com/mahimu04)
 - [HemalTharakaeEranga](https://github.com/HemalTharakaeEranga) **Ayubowan...! I'm Hemal, Do you know about my strengths, if you don't know please still be with me. Change the World.🦁😍😇**
 - [Bhukya-Sriram] (https://github.com/Bhukya-Sriram) **role_of_smile**
