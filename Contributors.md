@@ -3718,6 +3718,7 @@ Parthiv Saikia
 - [Huzaifa Azim](https://github.com/huzaifaazim0)
 - [Joanna McDonald](https://github.com/joannamcd)
 - [Tianna Lopes](https://github.com/TiannaLopes)
+- [1ndypoland](https://github.com/1ndypoland) Hello beautiful world 🌍 Autumn is coming! 🍂
 - [nameless wizard]
 - [dDevAhmed](https://github.com/dDevAhmed/)
 - [WaiyakiDev] (https://github.com/MONSURU-rgb)
