@@ -54,7 +54,7 @@ Swapnonil Mitra
 - [AliSinaYOusofi](https://github.com/AliSinaYOusofi/)**My nth contribution**
 - [Dhruv Jain](https://github.com/dhruvjaink07)**Hola Amigos! from India**
 - [Gina Serakalala](https://github.com/ginaserakalala)**Hello World**
--[Tirth Patel](https://github.com/TirthWillLearn)**Hi!, First Contribution Here👋**
+- [Tirth Patel](https://github.com/TirthWillLearn)**Hi!, First Contribution Here👋**
 - [Eddie Vartanessian](https://github.com/EddieV2)**Hello from Boston! :shamrock:**
 - [silvermaking](https://github.com/silvermaking)**Hello, First Contribution**
 -[Anuj Mishra](https://github.com/imAnujMishra/)**Starting Open Source**
