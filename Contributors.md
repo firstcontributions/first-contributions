@@ -6702,3 +6702,4 @@ Hey There
 - [Cesar Fernando Castro Parada](https://github.com/Lordbear117) **First open source contribution! 28/07/2024**
 - [Lhlos](https://github.com/lhlos)**First open source contribution!**
 - [liangfengyouxing3](<https://github.com/liangfengyouyxing3>)
+- [jolsefu](https://github.com/jolsefu)
