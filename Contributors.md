@@ -90,6 +90,7 @@ Swapnonil Mitra
 - Hasmeet Khatri: 1st github contribution.
 - Talles Cardoso
 - Jeferson Ramos Fonseca
+- Alan Lucas De Souza
 - malka
 - [Joseph W. Allen](https://github.com/jwallen3801) **Hey everybody**
 - [shechet](https://github.com/shefchet)
