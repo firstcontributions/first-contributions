@@ -1157,6 +1157,7 @@ rashee
 - [Argenis De La Rosa](https://github.com/theonlyhennygod)
 - [Irene](https://github.com/IreneAragona)
 - [Kevin Tuei](https://github.com/kevshakes)
+- [Moses Mtengo](https://github.com/Kmtengo) **Hello world! First open source contribution. Happy coding**
 - [Kevin Cherian George](https://github.com/kevin-291)
 - [Vishaal](https://github.com/pneumoniapriest)
 - [Sumit Aggarwal](https://github.com/gamersumit)
