@@ -16,6 +16,7 @@ Zhiyuan Zhao
 - [VaradJadhav](https://github.com/VaradJadhav) **How you doing?**
 - [Yaseen Halabi](https://github.com/yaseenhalabi) **I'm him**
 - [mbsev] **Lets gooo**
+- [Denis Pianelli](https://github.com/denispianelli) **My first step into the world of open source.**
 - [Ahmad Fayyaz](https://github.com/ahmad-fayyaz) **fr fr**
 - [Tarunvamsi](https://github.com/Tarunvamsi) **Contributed to open source for the first time. It's a great learning experience!**
 - 🇰🇷 [Donggeon Na](https://github.com/doongeon)
