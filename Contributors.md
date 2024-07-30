@@ -6718,6 +6718,7 @@ https://github.com/06Gagan
 - [Mark Sosa]
 - [Chaitanya Harish] (https://github.com/chaitnayah) **My firs open source contribution**
 - First Contribution!
+- [Gallypotato](https://github.com/Gallypotato) **please**
 - [Carl Martin](https://github.com/cmartin-gnrc) **My firs open source contribution**
 - [Anand Maurya](https://github.com/SMOS-Github) ||My first open source contribution||
 Hey There
