@@ -67,7 +67,7 @@
 - [Tarun Khadolia](https://github.com/Tarunkhadolia11)
 - [Nagma Khan](https://github.com/nagmakhan)
 - [Talha Ahmed](https://github.com/TalhaAhmedAI)
-- Jonas Bessanh
+- [Jonas Bessanh](https://github.com/Rutho)
 - [Luifer](https://github.com/luifer991) **First contribution, awesome**
 - [Suryansh](https://github.com/SxryxnshS5) **First contribution, lessgoo**
 - [Om Asatu](https://github.com/omasati1709) **My first contribution**
