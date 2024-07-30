@@ -91,6 +91,7 @@ Swapnonil Mitra
 - Talles Cardoso
 - Jeferson Ramos Fonseca
 - malka
+- [Joseph W. Allen](https://github.com/jwallen3801) **Hey everybody**
 - [shechet](https://github.com/shefchet)
 - [Peter Nguyen](https://github.com/petern48) hi
 - [gdziewon] **she puppy on my linux till i ram**
