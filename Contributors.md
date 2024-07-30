@@ -449,6 +449,7 @@ SahilDhavale
 - [Eunbi-Sung]
 - [Ovas04]
 - [HeinKoKo]
+- **Hi! My name's** [Paschoal Colombini](https://github.com/ColombiniP), nice to meet your!
 - [Cristhian Zevallos] ** Trying to contribute to Open Source project more this year
 - [Ben Singeltary]
 - [Jonas Scherer](https://github.com/JLBS16180/) **I was here in 2024**
