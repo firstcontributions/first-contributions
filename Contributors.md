@@ -6470,6 +6470,7 @@ Hector
 - [tymehopkins](https://github.com/TymeHopkins)
 - [Paek Do Hyun](https://github.com/dh1010a)
 - [Brian Hitchin](https://github.com/brianhitchin)
+- [João Mendes](https://github.com/VictorMSousa) **BR-RN**
 - [Teefkiller]
 - [seo jung uk](https://github.com/dj-doublejack)
 - [Keshav Priyam](https://github.com/kshavp)
