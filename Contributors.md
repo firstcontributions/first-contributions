@@ -15,6 +15,7 @@ Zhiyuan Zhao
 - [Abhiraaj R C](https://github.com/neox-d) **Yea!!**
 - [Kyi Lei Aye](https://github.com/kyileiaye2021) **First Time Contributing to open source! Excited to learn more!**
 - [Niall Geoghegan](https://github.com/nealgoogs)**Let's try this**
+- [Patrick maged](https://github.com/Patrick-maged) **let's give it a shot!!**
 - [Meywy](https://github.com/Meywy) **Lets, btw there are so many people :D**
 - [Moin Khan](https://github.com/Moink25) **My first open-source contribution**
 - [VaradJadhav](https://github.com/VaradJadhav) **How you doing?**
