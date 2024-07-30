@@ -84,23 +84,7 @@ Swapnonil Mitra
 -[Jean Solano](https://github.com/JeanSt98/)**Hi I'm Jean I'm so excited to be working on this project**
 - [Manoj Sai](https://github.com/bmanojsai)**Thanks for this repo! It's helps a lot of people.
 - [Oluwatobiloba Mosinmiloluwa Ajani Jesulayomi Ibrahim Abidoye AKA Tobi Abidoye](https://github.com/tobiabidoye)"Hipster by heart but i can tell you how them streets feel"
-- [Swam Yi Phyo](https://github.com/fisheeesh) **Yes, I did baby. 20.7.2024**
--[Preetha S](https://github.com/Pree-04)**Hello! Making a basic open-source contribution to understand the fork, clone, edit and pull requests workflow. 23/07/2024**
-- [undefined010] **hello world !**
-- Hasmeet Khatri: 1st github contribution.
-- Talles Cardoso
-- Jeferson Ramos Fonseca
-- malka
-- [shechet](https://github.com/shefchet)
-- [Peter Nguyen](https://github.com/petern48) hi
-- [gdziewon] **she puppy on my linux till i ram**
--"hello from green gecko"
-- [Davi Magalhaes](https://github.com/CS-DaviMagalhaes) **Hi!! I'm Davi, hoping to contribute to bigger and better projects!**
-- [Eren Turkoglu](https://github.com/erenworld) **Hi, I'm Eren'**
--[Ayush Raj](https://github.com/Bitwise-AR)**Hi!, First Contribution Here, do checkout my GitHub profile**
-- [Olubakinde Tito!] (https://github.com/Olubakinde) **Hey There! CheckOut my Github Profile!**
-- [Ames](https://github.com/theamescsm) 19 Jul 2024 "Playing with Git is fun"
--[shehab](https://github.com/Shehab-K)**7/22/2024 first commit**
+
 -[Abhijith Sudhakaran](https://github.com/abhijithx) ** 19/07/2024 FIRST COMMIT**
 -[Anthony Lee](https://github.com/mygod0108)**Hi,my name is Anthony.This is my first ever commit**
 -[Code to commit]
@@ -113,6 +97,12 @@ Swapnonil Mitra
 -[Ahmed Obaidullah](https://github.com/ahmedobaid23) **First Contribution!**
 - Ammar
 -[Sitotaw Ashagre](https://github.com/yotors) **May be the first appearance in the os contribution realm**
+  lalitcap23 have some blockchain stuff ---pragma solidity ^0.8.26;
+
+contract TweetStorage {
+    uint16 public maxTweetLength = 280; // Renamed for clarity
+    address public owner;
+    
 -[Aayush Mishra](https://github.com/skywlker17) **Hi, Thanks for this repo!!**
 - [AMKCode] (https://github.com/AMKCode/) **added AMKCode to the contributions list, added descriptions**
 -[abhay tomar](https://github.com/uniquepersun) **here me goooo! :)**
