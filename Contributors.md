@@ -3,6 +3,7 @@
 - [crabCatcher0](https://github.com/crabcatcher0/) **Learning**
 - [arundas](https://github.com/arundas285/) **Backend developer,mastered in golang.Feel free to connect with me**
 - [Gurveen Sahni](https://github.com/gurveenkaur6) **This is my first OpenSource contribution, Yayyy !!**
+- [Gordon don](https://github.com/dudigoo) **This is my first one**
 - [Aung Nanda Oo] (https://github.com/NikkiAung) 🇲🇲 **Excited to contribute many more after this one** 
 Zhiyuan Zhao
 - [Gopractitioner] (https://github.com/gopractitioner) **This is my first open source contribution!**
