@@ -353,7 +353,12 @@
 - [Eunbi-Sung]
 - [Ovas04]
 - [HeinKoKo]
+<<<<<<< HEAD
 - [Cristhian Zevallos] \*\* Trying to contribute to Open Source project more this year
+=======
+- **Hi! My name's** [Paschoal Colombini](https://github.com/ColombiniP), nice to meet your!
+- [Cristhian Zevallos] ** Trying to contribute to Open Source project more this year
+>>>>>>> f061fcfe701a7a0a18f267d6cb7d9de322597134
 - [Ben Singeltary]
 - [Jonas Scherer](https://github.com/JLBS16180/) **I was here in 2024**
 - [Parker-DeYoung](https://github.com/parker-deyoung)**Hello! This is my first contirbution!**
@@ -1587,6 +1592,7 @@
 - [Dan Taylor](https://github.com/dantaylor28) -[Mariana Ramirez](https://github.com/MarianaRamirezCastro)
 - [jesc52](https://github.com/jesc52)
 - [Cathy Xu](https://github.com/xyz-3)
+-[Estevao-Castilho](https://github.com/estevao-castilho)
 - [Ezra Natanael](https://github.com/ezrantn)
 - [Blake Norman](https://github.com/BlakeNorman12)
 - [T Ave](https://github.com/Lord-Topa)
@@ -2953,6 +2959,7 @@
 - [m4tej](https://github.com/m4tej241)
 - [Auwalu Hamza](https://github.com/afhamu)
 - [Varun Sharma](https://github.com/varunsh20/)
+- [emrlk](https://github.com/emrlk)
 - [Sushanth hebri](https://github.com/Sushanth-Hebri/)
 - [Swetha Kannan](https://github.com/swethakannan12)
 - [gpalacios26] (https://github.com/gpalacios26/curso-git-fork)
@@ -6293,6 +6300,7 @@
 - [Vin Cent](https://github.com/Vincent7564) **Hi, I'm New to Open Source. Nice to meet you guys and this is my first open source project!**
 - [Tatsumi Yamamoto](https://github.com/yamapi-t) **Hi**
 - [angelica-help](https://github.com/angelica-help)**It is really a talented idea to create it for the beginner**
+- [Yasaswini](https://github.com/yasaswini-m) **This is my first open source contribution**
 - [kotteeshwaran](https://github.com/kotteeshwaran) **first_opensource**
 - [wolf-966](https://github.com/wolf-966) **first_opensource**
 - [K-dash](https://github.com/K-dash) **Hi**
@@ -6308,3 +6316,4 @@
 - [nx-xn2002](https://github.com/nx-xn2002) **Hello everyone, this marks my maiden contribution to an open-source project, but it won't be my last**
 - [Lucas Murakami](https://github.com/LucasMurakami) **Hello! - 29/7/2024**
 - [Moneroboi](https://github.com/Moneroboi) **First contribution, looking forward to contribute to the linux kernel, 29/7/2024**
+- [AndreyTB](https://github.com/AndreyTB) **This is my time capsule, me telling myself, dude.. I feel like I know nothing**
