@@ -3,6 +3,7 @@
 - [Gurveen Sahni](https://github.com/gurveenkaur6) **This is my first OpenSource contribution, Yayyy !!**
 - [Aung Nanda Oo] (https://github.com/NikkiAung) 🇲🇲 **Excited to contribute many more after this one** 
 Zhiyuan Zhao
+- [Gopractitioner] (https://github.com/gopractitioner) **This is my first open source contribution!**
 - piyush malik
 - [wal-058](https://github.com/wal-058) **Can't believe it took me this long to start with OSS. Hi, I'm Waleed. Hopefully you are doing well, fellow coder, whoever and whereever you may be :D**
 - [Ivan Marinov] (https://github.com/IvanM-19)
