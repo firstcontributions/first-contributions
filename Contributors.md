@@ -142,6 +142,7 @@ Abdullah Ansari
 - [Tanner Smallwood](https://github.com/tsmallwood23) 
 -Leopoldo Chavarria
 -Biplav Bhandari
+- Micael Pereira da Silva
 - [Adarsh Prakash Patil](https://github.com/AdarshPatil04/) **First Open Source Contribution"
 - [Reales09](https://github.com/Reales09) ** frist Contribution  🎉**
 - [Devansh Vaidya](https://github.com/Devansh-Vaidya/) ** First Open-Source Contribution | It's just the beginning! **
