@@ -32,6 +32,7 @@ Zhiyuan Zhao
 -[Thiago Queiroz](https://github.com/thiagoqueiroz97) **Re-learning the ropes!** 
 -[Brian Caldera](https://github.com/briancaldera)  **Long live OSS!**
 ### Paul Quito
+-[Lynda Nwa]()
 -vidya
 -[Srinish](https://github.com/Universelord) **HI I am Starting to programing**
 -[Karan Sewa]()
