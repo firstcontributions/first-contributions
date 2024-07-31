@@ -4,6 +4,7 @@
 - [MaksStuff](https://github.com/MaksStuff) **The first step into a career**
 - [david gordon](https://github.com/dudigoo/) **second step**
 - [crabCatcher0](https://github.com/crabcatcher0/) **Learning**
+- Miri :)
 - [arundas](https://github.com/arundas285/) **Backend developer,mastered in golang.Feel free to connect with me**
 - [Gurveen Sahni](https://github.com/gurveenkaur6) **This is my first OpenSource contribution, Yayyy !!**
 - [Nishant Kumar](https://github.com/nyshnt) **Thrilled to make my first contribution to open source!**
