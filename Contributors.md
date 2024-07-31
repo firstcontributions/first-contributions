@@ -9,6 +9,7 @@ Zhiyuan Zhao
 - [Meywy](https://github.com/Meywy) **Lets, btw there are so many people :D**
 - [VaradJadhav](https://github.com/VaradJadhav) **How you doing?**
 - [Yaseen Halabi](https://github.com/yaseenhalabi) **I'm him**
+- [alex qiao](https://github.com/alexqiao) **I'm alex**
 - [mbsev] **Lets gooo**
 - [Ahmad Fayyaz](https://github.com/ahmad-fayyaz) **fr fr**
 - [Tarunvamsi](https://github.com/Tarunvamsi) **Contributed to open source for the first time. It's a great learning experience!**
