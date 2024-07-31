@@ -6,7 +6,7 @@
 - [crabCatcher0](https://github.com/crabcatcher0/) **Learning**
 - [arundas](https://github.com/arundas285/) **Backend developer,mastered in golang.Feel free to connect with me**
 - [Gurveen Sahni](https://github.com/gurveenkaur6) **This is my first OpenSource contribution, Yayyy !!**
-- [Aung Nanda Oo] (https://github.com/NikkiAung) 🇲🇲 **Excited to contribute many more after this one** 
+- [Aung Nanda Oo] (https://github.com/NikkiAung) 🇲🇲 **Excited to contribute many more after this one**
 Zhiyuan Zhao
 - [Gopractitioner] (https://github.com/gopractitioner) **This is my first open source contribution!**
 - piyush malik
@@ -20,6 +20,7 @@ Zhiyuan Zhao
 - [Abhiraaj R C](https://github.com/neox-d) **Yea!!**
 - [Kyi Lei Aye](https://github.com/kyileiaye2021) **First Time Contributing to open source! Excited to learn more!**
 - [Pyae Sone Han](https://github.com/PyaeSoneHan246810) **first open sourc contribution :D**
+- [Valentina Mota](https://github.com/valentina-mota) **My first contribution to an open source project**
 - [Niall Geoghegan](https://github.com/nealgoogs)**Let's try this**
 - [Kayla Moorcroft](https://github.com/kaylamoorcroft)**Trying something new. Hoping to contribute more to the community**
 - [Patrick maged](https://github.com/Patrick-maged) **let's give it a shot!!**
