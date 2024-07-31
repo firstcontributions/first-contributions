@@ -227,6 +227,7 @@ Yulia Lantzberg
 -Bhavishya Singla
 -[siha](https://github.com/sihawido) I *like* **crisps**~~.~~
 -Mehul kumar dhusia
+- [Venkat](https://github.com/venkatk-git) **First Contribution!! 31/07/2024**
 - [Sanket Sonawane](https://github.com/SanketSonawane11) **First**
 - [Henry Fajardo](https://github.com/HenryFR) **First time!**
 - [Darshkumar Jasani](https://github.com/darshjasani) **My First Contribution - Beginning of all future contributions!!**
