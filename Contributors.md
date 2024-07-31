@@ -44,7 +44,7 @@ Zhiyuan Zhao
 -[Srinish](https://github.com/Universelord) **HI I am Starting to programing**
 -[Karan Sewa]()
 - [Rahul Verma](https://github.com/rahuwul) **23-07-2024: woah there are too many people here lessgo**
-Abdullah Ansari
+Vishal Gupta
 - [Kaleb Fenley](https://github.com/KalebFenley) **7/21/24**
 - [Aman ] (https://github.com/aizwal9) **7/28/24 bininging of the end**
 - [Aaron](https://github.com/pykm05) **7/26/24 skibidi rizz**
@@ -6768,3 +6768,4 @@ Hey There
 - [Sakura](https://github.com/wxh-cyber) **This is my first contribution to an open source project.I am keeping learning!**
 - [Alejandro SM](https://github.com/AleMonz) **First contribution**
 - [Cevheri](https://github.com/cevheri) **Hi guys, from Turkiye**
+- Vishal Gupta - 31-07-2024 
