@@ -38,6 +38,7 @@ sara
 - [Shreyas Agrawal](https://github.com/shreyasagrawal)
 - [Milind V] (https://github.com/milindva)
 - smilefabri
+- Armaan (https://github.com/iarmaansingh)
 - [Aashish Pandey] (https://github.com/aashish-pandey)
 -[Matt Mancuso](https://github.com/MancusoM)
 - [Samip Neupane](https://github.com/samipneupane)
