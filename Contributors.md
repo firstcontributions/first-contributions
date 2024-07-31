@@ -6778,7 +6778,9 @@ Hey There
 - [Moneroboi](https://github.com/Moneroboi) **First contribution, looking forward to contribute to the linux kernel, 29/7/2024**
 - [AndreyTB](https://github.com/AndreyTB) **This is my time capsule, me telling myself, dude.. I feel like I know nothing**
 - [Sakura](https://github.com/wxh-cyber) **This is my first contribution to an open source project.I am keeping learning!**
+- [DiegoCM1](https://github.com/DiegoCM1) **Hi, this is one of my first contributions, VIVA MEXICO 🌮🌮**
 - [Alejandro SM](https://github.com/AleMonz) **First contribution**
 - [Cevheri](https://github.com/cevheri) **Hi guys, from Turkiye**
 - Vishal Gupta - 31-07-2024 
 - [ManojPanda](https://github.com/ManojPanda3) **Hello👋 from India**
+
