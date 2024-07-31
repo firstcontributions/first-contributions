@@ -8,7 +8,7 @@
 - [Gurveen Sahni](https://github.com/gurveenkaur6) **This is my first OpenSource contribution, Yayyy !!**
 - [Aung Nanda Oo] (https://github.com/NikkiAung) 🇲🇲 **Excited to contribute many more after this one** 
 Zhiyuan Zhao
-[prabhat Ghimire] "This is my first contribution"
+[prabhat Ghimire] "This is my first contribution. And I made a mistake"
 - [Gopractitioner] (https://github.com/gopractitioner) **This is my first open source contribution!**
 - piyush malik
 -[Muhammad Fawwaz](https://github.com/FawwazRaza)**Hi!**
