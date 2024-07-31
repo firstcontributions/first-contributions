@@ -30,6 +30,7 @@ Zhiyuan Zhao
 - [Tarunvamsi](https://github.com/Tarunvamsi) **Contributed to open source for the first time. It's a great learning experience!**
 - 🇰🇷 [Donggeon Na](https://github.com/doongeon)
 -[Vani Verma](https://github.com/VaniVerma16) **Excited to be here!**
+- [Lu-Akira](https://github.com/Lu-Akira) **Life is short, blame jungler and move on**
 - [Piotr Daniel](https://github.com/pino888) **There's a first time for everything!**
 - [Julius Pascual](https://github.com/JProfessor) **OLFU Antipolo Graduate 2024!** 
 -[Thiago Queiroz](https://github.com/thiagoqueiroz97) **Re-learning the ropes!** 
