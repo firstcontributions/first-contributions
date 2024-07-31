@@ -137,6 +137,7 @@ Swapnonil Mitra
 Yulia Lantzberg
 - [Pedro Cardozo de Mello](https://github.com/jpcardozx) **this is my first contribution**
 -[Jerin Thomas] (https://github.com/jerinthomascarmel) ** 22-07-2024 : my first commit ** 
+-[Ssemov] (https://github.com/ssemov) ** first contribution **
 -[Benjamin Helm] (https://github.com/BenjaminHelm) **to many more contributions to come**
 -[Sutipong Panyanil](https://github.com/sutigit) **2024/07/12 First contribution ever! Stay open!**
 - [Yu]**2024年7月12日21:23:54 Yuuuuuuu**
