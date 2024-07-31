@@ -7,9 +7,15 @@
 - [arundas](https://github.com/arundas285/) **Backend developer,mastered in golang.Feel free to connect with me**
 - [Gurveen Sahni](https://github.com/gurveenkaur6) **This is my first OpenSource contribution, Yayyy !!**
 - [Aung Nanda Oo] (https://github.com/NikkiAung) 🇲🇲 **Excited to contribute many more after this one**
+
+- [Nishant Kumar](https://github.com/nyshnt) **Thrilled to make my first contribution to open source!**
+- [Aung Nanda Oo] (https://github.com/NikkiAung) 🇲🇲 **Excited to contribute many more after this one** 
+9e119125c74479d1e545d93679a2e2760f96b2c2
 Zhiyuan Zhao
+[prabhat Ghimire] "This is my first contribution. And I made a mistake"
 - [Gopractitioner] (https://github.com/gopractitioner) **This is my first open source contribution!**
 - piyush malik
+- [Jai Maini](https://github.com/MaxTGM) **This is so cool 🐳**
 -[Muhammad Fawwaz](https://github.com/FawwazRaza)**Hi!**
 - [nahowo](https://github.com/nahowo) **Hello!**
 - [wal-058](https://github.com/wal-058) **Can't believe it took me this long to start with OSS. Hi, I'm Waleed. Hopefully you are doing well, fellow coder, whoever and whereever you may be :D**
@@ -62,6 +68,7 @@ Swapnonil Mitra
 -[Andrew]**HelloWorld!!!**
 -[Siddhi](https://github.com/mulesiddhi)**First Contribution!!**
 -[nagabasavanna]**HelloWorld!!!**
+- [Taylor Hellen](https://github.com/taylorhelene)**First contribution :)**
 -[Yoenuts](https://github.com/yoenuts)**Per aspera Ad Astra. Line 18, 270724**
 -[Barbi](https://github.com/bcot-code)**First contribution jul2624**
 -[Daksh Malhan](https://github.com/daksh-malhan)**my first contribution**
@@ -134,6 +141,7 @@ Swapnonil Mitra
 Yulia Lantzberg
 - [Pedro Cardozo de Mello](https://github.com/jpcardozx) **this is my first contribution**
 -[Jerin Thomas] (https://github.com/jerinthomascarmel) ** 22-07-2024 : my first commit ** 
+-[Ssemov] (https://github.com/ssemov) ** first contribution **
 -[Benjamin Helm] (https://github.com/BenjaminHelm) **to many more contributions to come**
 -[Sutipong Panyanil](https://github.com/sutigit) **2024/07/12 First contribution ever! Stay open!**
 - [Yu]**2024年7月12日21:23:54 Yuuuuuuu**
@@ -248,7 +256,8 @@ Yulia Lantzberg
 - Darshan
 - Shambhabya Medhi
 - Patricio Améstica
-Rohit Rawat
+- Rohit Rawat
+- franroyoo
 - [Maggie Chua](https://github.com/maggiechua) **<3**
 - [Kriti Raj](https://github.com/kriti-raj)
 - [Keith Obando](https://github.com/17Keith)
@@ -289,6 +298,7 @@ Rohit Rawat
 - [Adarsh](https://github.com/adarshsingh7) **root@adarsh i use fedora BTW**
 mh
 - [Raulfbr](https://github.com/raulfbr) **Raul Rodrigues first contribuition**
+- [Moreen Hettihewa](https://github.com/moreenhettihewa) **First Contribution**
 -[Shamel Rai](https://github.com/shamel-rai) **First Contribution**
 - [Yash Bhavsar](https://github.com/yashexe) **First Contribution, heres to many more!**
 - [Kumar Sanjeev Dutta](https://github.com/sanjeevWeb) **Testing Open Source Contribution, I thank this repo creator!**
@@ -779,6 +789,7 @@ my name here
 - [Rupika C](https://github.com/rupika14)
 vrushabhpatil48
 - [@LucaOtto] (https://github.com/lucaotto)
+- [Kouzi99] (https://github.com/Kouzi99) **SoFarSoGood**
 - [User634832](https://github.com/User634832)
 - [Cil-liers] (https://github.com/Cil-liers) **_MyFirstContribution_** 
 - [Karan Khatik](https://github.com/Karankhatik) **Hello, great to start from here**🚀🔥
@@ -6756,6 +6767,7 @@ Hey There
 - [wolf-966](https://github.com/wolf-966) **first_opensource**
 - [K-dash](https://github.com/K-dash) **Hi**
 - [potusdev](https://github.com/potusdev) **First open source contribution!**
+- [AmethystMac](https://github.com/amethystmac) **Hey everyone! I'm pretty late to the party but I'm glad to get started with open-source.**
 - [Murat Toğunçhan Düzgün](https://github.com/togunchan) **First open source contribution!**
 - [Cesar Fernando Castro Parada](https://github.com/Lordbear117) **First open source contribution! 28/07/2024**
 - [Lhlos](https://github.com/lhlos)**First open source contribution!**
@@ -6771,3 +6783,4 @@ Hey There
 - [Alejandro SM](https://github.com/AleMonz) **First contribution**
 - [Cevheri](https://github.com/cevheri) **Hi guys, from Turkiye**
 - Vishal Gupta - 31-07-2024 
+- [ManojPanda](https://github.com/ManojPanda3) **Hello👋 from India**
