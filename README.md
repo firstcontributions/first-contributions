@@ -65,7 +65,8 @@
 <kbd>[<img title="Zulu (South Africa)" alt="Zulu (South Africa)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/za.svg" width="22">](translations/README.zul.md)</kbd>
 <kbd>[<img title="Afrikaans (South Africa)" alt="Afrikaans (South Africa)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/za.svg" width="22">](translations/README.afk.md)</kbd>
 <kbd>[<img title="Igbo (Nigeria)" alt="Igbo (Nigeria)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ng.svg" width="22">](translations/README.igb.md)</kbd>
-<kbd>[<img title="Yoruba (Nigeria)" alt="Yoruba (Nigeria)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ng.svg" width="22">](translations/README.yor.md)</kbd>
+<kbd>[<img title="Yoruba (Nigeria)" alt="Yoruba (Nigeria)" src=<img src="https://cdn.statically.io/img/www.theinfostride.com/resize,300,300/wp-content/uploads/2022/06/Yoruba-Nations-Flag.jpg" alt="Yoruba Nations Flag">
+ width="22">](translations/README.yor.md)</kbd>
 <kbd>[<img title="Hausa (Nigeria)" alt="Hausa (Nigeria)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ng.svg" width="22">](translations/README.hau.md)</kbd>
 <kbd>[<img title="Latvia" alt="Latvia" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/lv.svg" width="22">](translations/README.lv.md)</kbd>
 <kbd>[<img title="Suomeksi" alt="Suomeksi" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/fi.svg" width="22">](translations/README.fi.md)</kbd>
