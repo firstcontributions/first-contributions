@@ -4,7 +4,6 @@
 Zhiyuan Zhao
 - piyush malik
 - [wal-058](https://github.com/wal-058) **Can't believe it took me this long to start with OSS. Hi, I'm Waleed. Hopefully you are doing well, fellow coder, whoever and whereever you may be :D**
-- [nahowo](https://github.com/nahowo) **First Contribution! :D**
 - [Ivan Marinov] (https://github.com/IvanM-19)
 - [Mohamed Essam](https://github.com/mohamed-official) **First try!**
 - [Kyi Lei Aye](https://github.com/kyileiaye2021) **First Time Contributing to open source! Excited to learn more!**
