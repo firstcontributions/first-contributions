@@ -957,6 +957,7 @@ vrushabhpatil48
 - [Charles Nilsson](https://github.com/charlesnilsson)
 - [Subashree-selvaraj](https://github.com/Subashree-selvaraj)
 - [Bhavishya Pancholi](https://github.com/Royalcaptain-v2)
+- [Joshua Gu](https://github.com/joshuagu789)
 - [Dhushyanth Manjunath](https://github.com/dhushyanth-h-m)
 - [Parth dey](https://github.com/parthdey)
 [Pranav Dua](https://github.com/pranavdua02)
