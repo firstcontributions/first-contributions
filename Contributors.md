@@ -9,6 +9,7 @@
 - [Tridev Verma](https://github.com/tridevVerma)
 - [Tarun Mankar](https://github.com/tarunmankar)
 - [Raj_Pabnani](https://github.com/RajPabnani03)
+- [Ana Maria Amorim](https://github.com/anamariaamorim)
 - [Kundan Sahu](https://github.com/Kundan730)
 - [Lean Dwarf](https://github.com/LeanDwarf)
 [martindevelopske] (martindevelops.dev)
