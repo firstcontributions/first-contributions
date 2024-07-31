@@ -6755,6 +6755,7 @@ Hey There
 - [wolf-966](https://github.com/wolf-966) **first_opensource**
 - [K-dash](https://github.com/K-dash) **Hi**
 - [potusdev](https://github.com/potusdev) **First open source contribution!**
+- [AmethystMac](https://github.com/amethystmac) **Hey everyone! I'm pretty late to the party but I'm glad to get started with open-source.**
 - [Murat Toğunçhan Düzgün](https://github.com/togunchan) **First open source contribution!**
 - [Cesar Fernando Castro Parada](https://github.com/Lordbear117) **First open source contribution! 28/07/2024**
 - [Lhlos](https://github.com/lhlos)**First open source contribution!**
