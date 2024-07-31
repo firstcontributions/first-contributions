@@ -251,7 +251,8 @@ Yulia Lantzberg
 - Darshan
 - Shambhabya Medhi
 - Patricio Améstica
-Rohit Rawat
+- Rohit Rawat
+- franroyoo
 - [Maggie Chua](https://github.com/maggiechua) **<3**
 - [Kriti Raj](https://github.com/kriti-raj)
 - [Keith Obando](https://github.com/17Keith)
