@@ -1,5 +1,7 @@
 # Contributors
+
 - [Samantha Adams](https://github.com/honeydewdrop) **Did personal project, now first contribution. Yippee!**
+- [Aryan Verma](https://github.com/aryan-SVG) **Hello Guys, My name is Aryan nice to meet you!** 
 - [webscriptmaster](https://github.com/webscriptmaster) **web and blockchain developer with a strong work ethic**
 - [MaksStuff](https://github.com/MaksStuff) **The first step into a career**
 - [david gordon](https://github.com/dudigoo/) **second step**
