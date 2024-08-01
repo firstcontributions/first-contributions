@@ -23,6 +23,7 @@ Elisheva R
 -[PrabhatGhimire](https://github.com/PrabhatGhm7)**Tutorial on contribution**
 - [Ivan Marinov] (https://github.com/IvanM-19)
 - [Mohamed Essam](https://github.com/mohamed-official) **First try!**
+- [Lautaro Skarkloff](https://github.com/skarkloff) **Linux OpenSource**
 - [Elyas Shamal](https://github.com/ElyasShamal) **let's give it a shot!**
 - [Abhiraaj R C](https://github.com/neox-d) **Yea!!**
 - [Aniruddha Rawool](https://github.com/rawani123)**I am ready to give my best**
