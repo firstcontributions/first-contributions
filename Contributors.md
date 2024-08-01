@@ -74,6 +74,7 @@ Swapnonil Mitra
 -[Daksh Malhan](https://github.com/daksh-malhan)**my first contribution**
 -[Marga Buke-Lowe](https://github.com/margaburke)**Hello from Newcastle upon Tyne!**
 -[Estelle Costanza](https://github.com/wrx777)**My second contribution**
+-[Shyam Gowtham](https://github.com/nameishyam)**My first opensource contribution**
 -[lain](https://github.com/JiteshNayak2004) my first oss contribution!! lessgo looking forward to make a mark here
 - [Parinita Edke](https://github.com/parinitaedke)**First contribution :)**
 -[Arham Begani](https://github.com/Arham-Begani)**Hi!, first Contribution Here**
@@ -1150,6 +1151,7 @@ vrushabhpatil48
 - MS
 - [Anwar Rahim](https://anwarrahim.com) **Hello World! I am Data Scientist**
 - [switchbladechocolate](https://github.com/switchbladechocolate)
+- [Shyam]
 - [Willian Luigi Carneri](https://github.com/willcarneri)
 - [Chedvi Ganz](https://github.com/chedvig)
 - [Daniel Chun](https://github.com/DNML31)
