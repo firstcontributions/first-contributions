@@ -6787,3 +6787,4 @@ Hey There
 - Vishal Gupta - 31-07-2024 
 - [ManojPanda](https://github.com/ManojPanda3) **Hello👋 from India**
 - [qhale](https://github.com/qhale) **First contribution sincerely from someone with imposter syndrome**
+- [RichardKF] (https://github.com/RichardKF) **This is suspiciously easy...**
