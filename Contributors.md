@@ -749,7 +749,6 @@ yumi-kim-0827
  - [Jamie Jacobs]  MY SECOND CONTRIBUTION
  - [Will J](https://github.com/Will-Jameson) HEEERRREEE
 -[Gianni] First contribution
->>>>>>> origin/main
 - [emitaka](https://github.com/emitakaa) ola papus :vvvv
 - [Rohit](https://github.com/hack-sketch) **Hello there!!**
 - [Ivan Chekunkov](https://github.com/ivan-chekunkov)**Hi! 😃**
@@ -6691,6 +6690,7 @@ Hector
 - [Med-Ri](https://github.com/Med-Ri) **In programming, every problem is an opportunity to learn.**
 - [Ángel Ramírez](https://github.com/eledoce) **Yooo!**
 - [Kovi Elango](https://github.com/KoviElango)) **Truth can only be found in one place: the code**
+- Hello I'm Sujan Magar from Nepal.
 - [Joy] **Vamos**
 - [Ryoya Imada](https://github.com/ryoya-i-1215)
 - [Melissa](https://github.com/Melissabeedev) **hello! just testing**
