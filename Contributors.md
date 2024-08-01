@@ -14,6 +14,7 @@ Zhiyuan Zhao
 -[Satyam Sharma](https://github.com/Satyams-23) **I am ready to contribute** 
 - [Gopractitioner] (https://github.com/gopractitioner) **This is my first open source contribution!**
 - piyush malik
+- [Luis Vinatea](https://github.com/luisvinatea) **I bird told me this is how I can get a job**
 - [Jai Maini](https://github.com/MaxTGM) **This is so cool 🐳**
 -[Muhammad Fawwaz](https://github.com/FawwazRaza)**Hi!**
 - [nahowo](https://github.com/nahowo) **Hello!**
