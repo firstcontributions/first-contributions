@@ -6809,3 +6809,4 @@ Hey There
 - [SathyaBalaji] (https://github.com/sathyagb4)
 - [xjaylandero] (https://github.com/Jhayrolandero) **Hello, World! 01-08-2024**
 - [Matthew Speake] (https://github.com/mspeake161)
+- [Lucas Bautista] (https://github.com/Lucas-Bautista) **Let's do this!!!**
