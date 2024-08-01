@@ -6678,6 +6678,7 @@ Hector
 - [Adarsh Naik](https://github.com/adarsh-naik-2004)**Hello All**
 - [Raul Matarazo](https://github.com/RaulMatarazo)**What's UP**
 - [Joseph Ressler] (https://github.com/joeressler) **Hello, world!**
+- [Daniel Aneke] (https://github.com/ImDanielGitHub)
 - [Monish Soni] (https://github.com/Monishsoni296) **Helo**
 - [Justin Tan] (https://github.com/jtyj-github) **Hello, world!**
 - [Serhii Serdiuk] (https://github.com/SerhiiSerdiukDev) **Glory to Ukraine!**
