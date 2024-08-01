@@ -10,6 +10,7 @@
 - [Aung Nanda Oo] (https://github.com/NikkiAung) 🇲🇲 **Excited to contribute many more after this one** 
 Zhiyuan Zhao
 [prabhat Ghimire] "This is my first contribution. And I made a mistake"
+-[Satyam Sharma](https://github.com/Satyams-23) **I am ready to contribute** 
 - [Gopractitioner] (https://github.com/gopractitioner) **This is my first open source contribution!**
 - piyush malik
 - [Jai Maini](https://github.com/MaxTGM) **This is so cool 🐳**
