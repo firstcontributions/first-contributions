@@ -6784,6 +6784,7 @@ Hey There
 - [AmethystMac](https://github.com/amethystmac) **Hey everyone! I'm pretty late to the party but I'm glad to get started with open-source.**
 - [Murat Toğunçhan Düzgün](https://github.com/togunchan) **First open source contribution!**
 - [Cesar Fernando Castro Parada](https://github.com/Lordbear117) **First open source contribution! 28/07/2024**
+- [Muhammadnur](https://github.com/darklowlyx) **My first contribution to open source:D**
 - [Lhlos](https://github.com/lhlos)**First open source contribution!**
 - [liangfengyouxing3](<https://github.com/liangfengyouyxing3>)
 - [jolsefu](https://github.com/jolsefu)
