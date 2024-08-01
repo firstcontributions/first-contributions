@@ -25,6 +25,7 @@ Elisheva R
 - [Mohamed Essam](https://github.com/mohamed-official) **First try!**
 - [Elyas Shamal](https://github.com/ElyasShamal) **let's give it a shot!**
 - [Abhiraaj R C](https://github.com/neox-d) **Yea!!**
+- [Aniruddha Rawool](https://github.com/rawani123)**I am ready to give my best**
 - [Kyi Lei Aye](https://github.com/kyileiaye2021) **First Time Contributing to open source! Excited to learn more!**
 - [Pyae Sone Han](https://github.com/PyaeSoneHan246810) **first open sourc contribution :D**
 - [Niall Geoghegan](https://github.com/nealgoogs)**Let's try this**
