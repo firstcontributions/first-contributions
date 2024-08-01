@@ -212,6 +212,7 @@ Yulia Lantzberg
 - [Natnael Tedros](https://github.com/natitedros) **Insert motivational quote here to impress the contributor community**
 - [Björn Sterling](https://github.com/brainycarp67531) **Add second entery**
 - [JvRivera](https://github.com/JVRivera)
+- [Stewar Marin AKA Stu](https://github.com/is-stu) **Mejor tarde que nunca😎**
 -Sachin Singh
 - Alex-jintou (https://github.com/ACJT123) **Just frist Contribution with open source🎉, hi**
 - Josiah Bagley
