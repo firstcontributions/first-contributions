@@ -6771,6 +6771,7 @@ https://github.com/06Gagan
 - [Rafał-Tomczyk](https://github.com/Faflox) **Hello World!**
 - [Bartek2050](https://github.com/bartek2050) **Hello 👋🏻**
 - [Priyanshu Solon](https://github.com/priyanshu-solon) **Let's Go!**
+- [Aditya Jani](https://github.com/AdityaJani616) **My first Open Source contribution, Aspiring Full Stack Web Developer(MERN),Journey Starts here!!!**
 - [Tornike Skhulukhia](https://github.com/Tornike-Skhulukhia) ** Not the first FOSS commit, but this is still cool **
 - [Mark Liu](https://github.com/markliu2013)**Hi!**
 - [Kris Furer](https://github.com/kris-furer) **My first open source contribution**
@@ -6822,3 +6823,4 @@ Hey There
 - [Matthew Speake] (https://github.com/mspeake161)
 - [Lucas Bautista] (https://github.com/Lucas-Bautista) **Let's do this!!!**
 - [Kukuliak Dmytro] (https://github.com/Kukuliak-Dmytro) **First step into the open source**
+>>>>>>> ed9ca4df304e0e327a81e0fe8c14696815a83c3a
