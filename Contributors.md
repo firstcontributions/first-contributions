@@ -3463,6 +3463,7 @@ Gyanendra Thakur
 - [Leonardo Lopes] (https://github.com/leonardo-lopes-br)
 - [Steve Armstrong] (https://github.com/W0474997SteveArmstrong)
 - Marcos
+- [Andres Riaño] (https://github.com/afrianodev)
 - Iga Meddie
 - [Irksomehails](https://github.com/irksomehails)
 - Testing purpose
