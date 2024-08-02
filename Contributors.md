@@ -6606,6 +6606,7 @@ Hector
 - [Priyanshu Arya](https://github.com/YASTREAMER) **My first contribution to opensource!_
 - [hirata-keisuke](https://github.com/hirata-keisuke) :sushi:
 - [Cheikh Babacar GOUDIABY](https://github.com/cbag1) :cbag1:
+- [Fuxy83](https://github.com/Fuxy83) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 - [anurpeljto](https://github.com/anurpeljto) _I like opensource projects_
 - [jaiderbernal90](https://github.com/jaiderbernal90) _Hello word! This is my first contribution on opensource repo_
 - [NoMeLlamoDante](https://github.com/NoMeLlamoDante) **Dante**
