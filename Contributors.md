@@ -1515,6 +1515,7 @@ v0idborne
 - [SinghAstra](https://github.com/SinghAstra).
 - [acageduser](https://github.com/acageduser).
 - [telli01](https://github.com/telli01).
+- [Huy Nguyen](https://github.com/patrick204nqh)
 - [Ildar Shagidullin](https://github.com/meth0dMain).
 - [kerokerotur](https://github.com/kerokerotur).
 - [Adeboye Famurewa](https://github.com/fadarboye) 😀 I was here.
