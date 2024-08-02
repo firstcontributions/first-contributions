@@ -31,8 +31,9 @@ Elisheva R
 - [Kushal Khivasara](https://github.com/its-kushal) **He contributed to this project**
 -[PrabhatGhimire](https://github.com/PrabhatGhm7)**Tutorial on contribution**
 -[Shakir Bakare](https://github.com/shakirbakare) **Hello world! Peace be upon you!**
-- [Ivan Marinov] (https://github.com/IvanM-19)
+- [Ivan Marinov](https://github.com/IvanM-19)
 - [Mohamed Essam](https://github.com/mohamed-official) **First try!**
+- [Arbaz Ahmad](https://github.com/arbaz686) **if i can do it, u can also do it!**
 - [Lautaro Skarkloff](https://github.com/skarkloff) **Linux OpenSource**
 - [Elyas Shamal](https://github.com/ElyasShamal) **let's give it a shot!**
 - [Abhiraaj R C](https://github.com/neox-d) **Yea!!**
