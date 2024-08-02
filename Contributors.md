@@ -7,9 +7,12 @@
 - [crabCatcher0](https://github.com/crabcatcher0/) **Learning**
 - [arundas](https://github.com/arundas285/) **Backend developer,mastered in golang.Feel free to connect with me**
 - [Gurveen Sahni](https://github.com/gurveenkaur6) **This is my first OpenSource contribution, Yayyy !!**
+- [Aung Nanda Oo] (https://github.com/NikkiAung) 🇲🇲 **Excited to contribute many more after this one**
+
 - [Nishant Kumar](https://github.com/nyshnt) **Thrilled to make my first contribution to open source!**
 - [sai](https://github.com/khum23) **Thrilled to make my first contribution to open source!**
 - [Aung Nanda Oo] (https://github.com/NikkiAung) 🇲🇲 **Excited to contribute many more after this one** 
+9e119125c74479d1e545d93679a2e2760f96b2c2
 Zhiyuan Zhao
 [prabhat Ghimire] "This is my first contribution. And I made a mistake"
 -[Satyam Sharma](https://github.com/Satyams-23) **I am ready to contribute** 
@@ -32,6 +35,7 @@ Elisheva R
 - [Aniruddha Rawool](https://github.com/rawani123)**I am ready to give my best**
 - [Kyi Lei Aye](https://github.com/kyileiaye2021) **First Time Contributing to open source! Excited to learn more!**
 - [Pyae Sone Han](https://github.com/PyaeSoneHan246810) **first open sourc contribution :D**
+- [Valentina Mota](https://github.com/valentina-mota) **My first contribution to an open source project**
 - [Niall Geoghegan](https://github.com/nealgoogs)**Let's try this**
 - [Kayla Moorcroft](https://github.com/kaylamoorcroft)**Trying something new. Hoping to contribute more to the community**
 - [Patrick maged](https://github.com/Patrick-maged) **let's give it a shot!!**
