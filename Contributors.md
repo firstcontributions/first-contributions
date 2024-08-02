@@ -3443,6 +3443,7 @@ Jasmine
 - [Subin Mariyadas](https://github.com/subin170)
 - [Albert Byrone](https://github.com/Albert-Byrone)
 - [zurfjereluhmie](https://github.com/zurfjereluhmie)
+- [Rishan Thangaraj](https://github.com/rishant3441)
 - [Arshadakl](https://www.linkedin.com/in/arshad-akl)
 - [Samuel Rudqvist](https://github.com/srudqvist)
 - [Mohammed Abdulaziz]
