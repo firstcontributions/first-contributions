@@ -36,6 +36,7 @@ Elisheva R
 - [Arbaz Ahmad](https://github.com/arbaz686) **if i can do it, u can also do it!**
 - [Lautaro Skarkloff](https://github.com/skarkloff) **Linux OpenSource**
 - [Elyas Shamal](https://github.com/ElyasShamal) **let's give it a shot!**
+- [Gabriel Fonseca](https://github.com/GabrielKLS) **I was here**
 - [Abhiraaj R C](https://github.com/neox-d) **Yea!!**
 - [Aniruddha Rawool](https://github.com/rawani123)**I am ready to give my best**
 - [Kyi Lei Aye](https://github.com/kyileiaye2021) **First Time Contributing to open source! Excited to learn more!**
