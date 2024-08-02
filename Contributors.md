@@ -186,6 +186,7 @@ Yulia Lantzberg
 -[Anuj](https://github.com/anuj0456) **Open source commit.**
 - Jane Doe Giddy (add some text)
 -JOHAN
+-[Ishan Chowdhury](https://github.com/ishan-chowdhury) **hello open source world**
 -[Kaitlin Carleton](https://github.com/KaiPlusLin) **7/28/2024 My First Open source contribution.** 
 -[Dylan Loomis](https://github.com/dloomis0) **July 24, 2024. Wooooo!**
 - Ashwin Varma (Excited to contribute to open source!)
