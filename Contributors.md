@@ -6793,3 +6793,6 @@ Hey There
 - [RichardKF] (https://github.com/RichardKF) **This is suspiciously easy...**
 - [SathyaBalaji] (https://github.com/sathyagb4)
 - [DEVSIM] (https://github.com/bhsim7) **First Contribution, Hello I'm From South Korea!**
+- [xjaylandero] (https://github.com/Jhayrolandero) **Hello, World! 01-08-2024**
+- [Matthew Speake] (https://github.com/mspeake161)
+- [Lucas Bautista] (https://github.com/Lucas-Bautista) **Let's do this!!!**
