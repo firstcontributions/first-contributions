@@ -6820,6 +6820,7 @@ Hey There
 - [ManojPanda](https://github.com/ManojPanda3) **Hello👋 from India**
 - [qhale](https://github.com/qhale) **First contribution sincerely from someone with imposter syndrome**
 - [RichardKF] (https://github.com/RichardKF) **This is suspiciously easy...**
+- [wbmper] (https://github.com/wbmper) **Hello from South Korea (@J@)**
 - [SathyaBalaji] (https://github.com/sathyagb4)
 - [xjaylandero] (https://github.com/Jhayrolandero) **Hello, World! 01-08-2024**
 - [Matthew Speake] (https://github.com/mspeake161)
