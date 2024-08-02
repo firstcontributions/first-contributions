@@ -6839,3 +6839,4 @@ Hey There
 - [Akash Adarsh] (https://github.com/AkashAdarsh) **OpenSource here i come!!**
 - [AZER AZERT DZ] (https://github.com/azerazerty) ** ♥ Next Person Please Visit My github And Star my Projects ♥ !!**
 - [Pranav S Narayanan](https://github.com/buzzpranav) **First Commit!**
+- [Justgabz](https://github.com/Justgabz/GP-CODING.git) **im new to github, started this journey at 02/08/2024!**
