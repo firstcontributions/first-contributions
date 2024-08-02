@@ -6530,3 +6530,4 @@ https://github.com/06Gagan
 - [Rafał-Tomczyk](https://github.com/Faflox) **Hello World!**
 - [Bartek2050](https://github.com/bartek2050) **Hello 👋🏻**
 - [Priyanshu Solon](https://github.com/priyanshu-solon) **Let's Go!**
+- [Aditya Jani](https://github.com/AdityaJani616) **My first Open Source contribution, Aspiring Full Stack Web Developer(MERN),Journey Starts here..**
