@@ -6530,6 +6530,7 @@ Hector
 - [Dan Yunheum Seol](https://github.com/dan-seol)
 - [Carl Guo](https://github.com/carlguo508)
 - [cyblcode](https://github.com/cyblcode)
+- [Yisusle](https://github.com/Yisusle) **Im new to github, started this journey at 02/08/2024!**
 - [tymehopkins](https://github.com/TymeHopkins)
 - [Paek Do Hyun](https://github.com/dh1010a)
 - [Brian Hitchin](https://github.com/brianhitchin)
