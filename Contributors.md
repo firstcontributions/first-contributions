@@ -95,6 +95,7 @@ Swapnonil Mitra
 -[Cryptic4Life](https://github.com/Cryptic4Life) **.-.**
 -[N3KT4R105](https://github.com/N3KT4R105)**#cumming_is_fun**
 - [AliSinaYOusofi](https://github.com/AliSinaYOusofi/)**My nth contribution**
+- [Crank778](https://github.com/Crank778)**We are here , we are waiting**
 - [Dhruv Jain](https://github.com/dhruvjaink07)**Hola Amigos! from India**
 - [Gina Serakalala](https://github.com/ginaserakalala)**Hello World**
 - [Abdul Latif Nizamani Pakistan] (https://github.com/anoniz)** Reach out to me for Javascript things 01/08/2024**
