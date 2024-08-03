@@ -1108,6 +1108,7 @@ vrushabhpatil48
 - Vaibhav Uttam this is embarassing
 - ***[Msganaw Wondemeneh ](https://github.com/msgewendim)***
 - Rachel W
+- [XQZmeSIR](https://github.com/XQZmeSIR) **...because who you are becoming is the thing that you are amounting to, in real time, every day. - Alex Hormozi**
 - [Supreeth C](https://github.com/ShinichiShi)
 - BlackCro
 - [aar-rafi](https://github.com/aar-rafi)
