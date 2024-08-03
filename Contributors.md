@@ -6749,6 +6749,7 @@ Hector
 - [Leslie Jiang]
 - [Jason Doe] **All right, done it...***
 - [Swastick Das](https://github.com/algoplutus1708) **Hail Algoplutus**
+- [Maciej Zelder](https://github.com/mzelder) **Time to get started...**
 - [blurry16](https://github.com/blurry16) **woof woof**
 - [vladimir-shirmanov](https://github.com/vladimir-shirmanov) **My first open source contribution**
 -[asa9874](https://github.com/asa9874) **2024.07.13 my first contribute!!**
