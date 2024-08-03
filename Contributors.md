@@ -132,6 +132,7 @@ Rudraksh Upadhyay- learing to contribute in open source projects
 - Jeferson Ramos Fonseca
 - Alan Lucas De Souza
 - malka
+- Asyraf Zaid first contribution on GitHub [Hi developers!]
 - [Joseph W. Allen](https://github.com/jwallen3801) **Hey everybody**
 - [shechet](https://github.com/shefchet)
 - [Peter Nguyen](https://github.com/petern48) hi
