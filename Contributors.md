@@ -1,4 +1,5 @@
 # Contributors
+- [Thanh Nguyen Duc](https://github.com/ducthanhnguyen95) **First open source contribution!**
 - [Samantha Adams](https://github.com/honeydewdrop) **Did personal project, now first contribution. Yippee!**
 - [webscriptmaster](https://github.com/webscriptmaster) **web and blockchain developer with a strong work ethic**
 - [MaksStuff](https://github.com/MaksStuff) **The first step into a career**
