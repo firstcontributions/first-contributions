@@ -539,6 +539,7 @@ Vedant Raut here and this is my first Contribution
 - [David Myat]
 -[FrancescoLegg](https://github.com/FrancescoLegg) **this is my first contribution, hello all!**
 - [Shiva Prakash](https://github.com/shiva233/) **Hi everyone excited to contribute to opensource :D my linkedin is shiva-prakash233 feel free to connect**
+- [Kavin Nimalarajan](https://github.com/KavEn06/) **first contribution, (was forced to learn this by the guy above)**
 - [Laura] (https://github.com/Lwenz95) **Hi all! Happy to learn new things!**
 -[Shruti] (https://github.com/shrutigupta02) **this is my first contribution, hello all!**
 - [ali hamraoui](https://github.com/alihamraoui)***Hello allstatus**
