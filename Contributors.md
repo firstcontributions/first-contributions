@@ -94,6 +94,7 @@ Rudraksh Upadhyay- learing to contribute in open source projects
 -[Malusi Mhlanga](https://github.com/malusiT)**My first open source contribution 29-07-2024**
 -[Andrew]**HelloWorld!!!**
 -[Siddhi](https://github.com/mulesiddhi)**First Contribution!!**
+-[gouri](https://github.com/gouri138)**my first contribution**
 -[nagabasavanna]**HelloWorld!!!**
 - [Taylor Hellen](https://github.com/taylorhelene)**First contribution :)**
 -[Yoenuts](https://github.com/yoenuts)**Per aspera Ad Astra. Line 18, 270724**
