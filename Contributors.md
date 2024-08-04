@@ -185,7 +185,7 @@ Yulia Lantzberg
 - [Patrick Chukwu](https://github.com/Patrick-Chukwu) **Cheers to the first of many contributions in the OS, community.**
 - [Tomas Rando](https://github.com/TomasRandoM) **Hello World!**
 - [Jason Okahishie](https://github.com/jasonokhaishie) **this is my first contribution**
-- [Miguel Pereira](https://github.com/migueltmpereira) **Esta é a minha primeira contribuição, a primeira de muitas! Coimbra e NEI <3**
+- [Miguel Pereira](https://github.com/migueltmpereira) **Esta é a minha pri meira contribuição, a primeira de muitas! Coimbra e NEI <3**
 - Noo Dev **My first baby step of future contributions**
 - [Jyotirmoy Kashyap](https://github.com/jyotirmoy009) **2024/07/13: This is my first contribution 😍)**
 -[Seifolah Ghaderi](https://github.com/seifolah-ghaderi)
@@ -6616,6 +6616,7 @@ Hector
 - [huraicid](https://github.com/huraicid) 
 - [coltilkis](https://github.com/coltilkis)
 - [CosminJ2004](https://github.com/CosminJ2004) **Let`s go!**
+- [aprilschuppel] (https://github.com/aprilschuppel) **excited to join the party**
 - [C4dr-me](https://github.com/c4dr-me) **Yay!!**
 - [Gustavo Galarza](https://github.com/gustavogalarza1091) **Hello!!**
 - [Dhanush](https://github.com/dhan-profile)
