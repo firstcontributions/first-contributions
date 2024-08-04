@@ -14,9 +14,11 @@
 - [MaksStuff](https://github.com/MaksStuff) **The first step into a career**
 - [david gordon](https://github.com/dudigoo/) **second step**
 - [crabCatcher0](https://github.com/crabcatcher0/) **Learning**
+- [madhura_ingole](https://github.com/madhura-ingole/) **Getting there!**
 - [yuthadda](https://github.com/yuthadda)
 - [Lokesh11868](https://github.com/Lokesh11868) **First Open Source Contribution**
 - [Dev AKS](https://github.com/devaaks) **Hello Open Source!**
+- [Madhura Ingole](https://github.com/madhura-ingole/) **Learning**
 - [kisia0916](https://github.com/kisia0916) "Hello!"
 - [samarth1011-1](https://github.com/samarth1011-1) **LMAO HELLO**
 - [Abhijeet_Mate](https://github.com/Abhijeet314/)**Learning**
