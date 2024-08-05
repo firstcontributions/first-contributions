@@ -4118,6 +4118,7 @@ Parthiv Saikia
 - [Henry Saya](https://github.com/HenrySaya) ##Backend Engineer
 - [Bishal Adhikari](https://github.com/ezbishal)
 - [Muhammad Ahmod](https://github.com/Muhammad-1990)
+- [Hugin](https://github.com/hoo-gin)
 - [Alan Francisco Mora González](https://github.com/alanmgg)
 - [Deepika Jain] (https://github.com/deepika8383)
 - [Avadhoot Tavhare](https://github.com/AvadhootT)
@@ -4127,6 +4128,7 @@ Parthiv Saikia
 - Ho Ho Ho [Aditya Kapadia]
 - [Daniel Ndirangu](https://github.com/daniel-ndirangu)
 - [Gyanavardhan](https://github.com/gyanavardhana)
+- [hoo-gin]
 - [Sourav Sathyan](https://github.com/souravsathyan)
 - [tharendra](https://github.com/tharendra)
 - [Nehal Ingole](https://github.com/Ingole712521) #Thanks
