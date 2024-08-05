@@ -1,7 +1,8 @@
 # Contributors
--[Akshit Vig](https://github.com/Akshit-Vig01) **Trying out OpenSource Contributions, excited**
+
 - [Adarsh Tiwari](https://github.com/Adarsh753) **Adarsh's First open source contribution!**
 - [Thanh Nguyen Duc](https://github.com/ducthanhnguyen95) **First open source contribution!**
+-[Akshit Vig](https://github.com/Akshit-Vig01) **Trying out OpenSource Contributions, excited**
 - [Harshit Sharma](https://github.com/harshitsharma-dev) **Work to Learn**
 - [Daniela Cubillos](https://github.com/LDanic)
 - [Shiva Kartheek](https://github.com/shiva1485) **let's go open-source contribution**
