@@ -6104,6 +6104,7 @@ guanj65
 - [WHEEL](https://github.com/Hynobius-formosanus)
 - [JasonKCVT23](https://github.com/JasonKCVT23)
 - [Noah Kubler](https://github.com/nskubler)
+- [Gummy](https://github.com/packmanrei) **Hello, Japan**
 - [Jin](https://github.com/jiwawa98)
 - [sunhee](https://github.com/iris-starry)
 - [Luke Padiachy](https://github.com/lukepadiachy)
