@@ -1,4 +1,5 @@
 # Contributors
+- [Vimal Vinod](https://github.com/dalekvim) **Vimal's First open source contribution!**
 - [Adarsh Tiwari](https://github.com/Adarsh753) **Adarsh's First open source contribution!**
 - [Phoebe Gangoso](https://github.com/peewweee) **Phoebe's First open source contribution!**
 - [Thanh Nguyen Duc](https://github.com/ducthanhnguyen95) **First open source contribution!**
