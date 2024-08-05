@@ -1,4 +1,5 @@
 # Contributors
+-[Akshit Vig](https://github.com/Akshit-Vig01) **Trying out OpenSource Contributions, excited**
 - [Adarsh Tiwari](https://github.com/Adarsh753) **Adarsh's First open source contribution!**
 - [Thanh Nguyen Duc](https://github.com/ducthanhnguyen95) **First open source contribution!**
 - [Harshit Sharma](https://github.com/harshitsharma-dev) **Work to Learn**
