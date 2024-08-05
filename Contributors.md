@@ -6894,3 +6894,4 @@ vivek saskar
 - [Hariharan](https://github.com/hariharan409) **STARTED CONTRIBUTING TO OPEN SOUCE PROJECTS**
 - [Abubakr Saddiq](https://github.com/Saddickq) **05/08/2024**
 - [Yaragos](https://github.com/yaragos) ** Hello! This is my first contribution **
+- [Asim Naseer](https://github.com/awsimness) **The start of my voyage on 5th August 2024**
