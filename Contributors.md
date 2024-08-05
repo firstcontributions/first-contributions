@@ -246,6 +246,7 @@ Yulia Lantzberg
 -piyush (first contribution)
 - El Vitas
 - [vigneshsb](https://vigneshsb.fun)
+-[Simran Kumari Singh](https://github.com/SimranSingh5019) ** My first contribution to open source 🎉05/08/2024 **
 -zenki
 -[Bogi] **Simple and Easy :D**
 -[Varun] **Hi there :D**
