@@ -22,7 +22,7 @@
 - [crabCatcher0](https://github.com/crabcatcher0/) **Learning**
 - [yuthadda](https://github.com/yuthadda)
 - [FernandoSiavato](https://github.com/FernandoSiavato)
-
+- [The Wandering Trader](https://github.com/thewanderingtraderm) **i created this contribution only using the github website**
 - [Lokesh11868](https://github.com/Lokesh11868) **First Open Source Contribution**
 - [John McLaughlin](https://github.com/johnmclaughlin) **Hello World**≈
 - [Dev AKS](https://github.com/devaaks) **Hello Open Source!**
