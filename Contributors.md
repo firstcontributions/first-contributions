@@ -6889,4 +6889,5 @@ Hey There
 - [5yn7hW4v3](https://github.com/5yn7hW4v3) **INSPIRING WEB DEVELOPER**
 - [Jose Almenarez](https://github.com/jalmenarez) **Hello from Chile**
 - [Hariharan](https://github.com/hariharan409) **STARTED CONTRIBUTING TO OPEN SOUCE PROJECTS**
+- [Abubakr Saddiq](https://github.com/Saddickq) **05/08/2024**
 - [Yaragos](https://github.com/yaragos) ** Hello! This is my first contribution **
