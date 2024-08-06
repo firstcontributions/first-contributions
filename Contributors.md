@@ -16,6 +16,8 @@
 - [Samantha Adams](https://github.com/honeydewdrop) **Did personal project, now first contribution. Yippee!**
 - [Hanzel Godinez](https://github.com/hgodinez89) **First open source contribution!**
 - [Sridevi Shankar](https://github.com/srii5477) **Web and app developer, trying out open source contribution for the first time**
+- [Tanish Pathania](https://github.com/Tanish-pat) **Mark my Attendance please for SE LAB!!!**
+- [Tanish Pathania](https://github.com/Tanish-pat) **Mark my Attendance please for SE LAB!!!**
 - [webscriptmaster](https://github.com/webscriptmaster) **web and blockchain developer with a strong work ethic**
 - [Siniade](https://github.com/Siniade) **First open source contribution!**
 - [Mahumitha-b](https://github.com/madhumitha-b)
@@ -5901,6 +5903,7 @@ LadegbayeStella)
 - [Ahmed Bentabet](https://github.com/ahmedbentabet)
 - [Qizhao Chen](https://github.com/kx412764776)
 - [Ronald Chan](https://github.com/ronaldchanhk)
+- [Tanish Pathania](https://github.com/Tanish-pat) **Mark my Attendance please for SE LAB!!!**
 - [Cristian Jitca](https://github.com/CristianJitca)
 - [Moh](https://github.com/mohk23)
 - [Luke Hardy]
@@ -5996,6 +5999,7 @@ LadegbayeStella)
 -[Reinier Jesus](https://github.com/ReinierJesusMR)
 -[Sasmitha Kavindu](https://github.com/sasmithaK)
 - [Yashvi Sharma](https://github.com/yashvisharma1204) **Hello, Its my first contribution**
+- [Tanish Pathania](https://github.com/Tanish-pat) **Mark my Attendance please for SE LAB!!!**
 -[Nicola Solazzo Logix](https://github.com/NikSolazLogix)
 --[Okunade Yusuf Micheal](https://github.com/achur00)
 -[aoi-stella](https://github.com/aoi-stella)
@@ -6066,6 +6070,7 @@ murari2401
 - [Yang Jinwook](https://github.com/overseeas)
 - [nexbelgium](https://github.com/nexbelgium)
 - [Jose Ald] (https://github.com/JoseAld)
+- [Tanish Pathania](https://github.com/Tanish-pat) **Mark my Attendance please for SE LAB!!!**
 - [Shantanu Dutta](https://github.com/nlern)
 - [Muhammad Owais Khan](https://github.com/owaiskhan820)
 - [Vinay Khanagavi][ https://github.com/Vinu-sk ] 
@@ -6113,6 +6118,7 @@ guanj65
 - [Claire]
 - [Monica]
 - [SinSheng]
+- [Tanish Pathania](https://github.com/Tanish-pat) **Mark my Attendance please for SE LAB!!!**
 - [Asumi]
 - [Angelika Valerio](https://github.com/angelikavalerio)
 - [Tanish Pathania](https://github.com/Tanish-pat) **Mark my Attendance please!!!**
