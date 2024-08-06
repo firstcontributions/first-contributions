@@ -1,5 +1,6 @@
 # Contributors
-- Davud Ciftci
+- [Davud Ciftci](https://github.com/davud2635) **davud's First open source contribution!**
+
 - [Harshith reddy](https://github.com/Harshith2835) **Harshith's First open source contribution!**
 - [Vimal Vinod](https://github.com/dalekvim) **Vimal's First open source contribution!**
 - [Adarsh Tiwari](https://github.com/Adarsh753) **Adarsh's First open source contribution!**
