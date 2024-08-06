@@ -209,6 +209,7 @@ Yulia Lantzberg
 - [Jason Okahishie](https://github.com/jasonokhaishie) **this is my first contribution**
 - [Miguel Pereira](https://github.com/migueltmpereira) **Esta é a minha primeira contribuição, a primeira de muitas! Coimbra e NEI <3**
 - Noo Dev **My first baby step of future contributions**
+- Dyuthi Vivek
 - [Jyotirmoy Kashyap](https://github.com/jyotirmoy009) **2024/07/13: This is my first contribution 😍)**
 -[Seifolah Ghaderi](https://github.com/seifolah-ghaderi)
 -[Prince Majestal](https://github.com/Prince-Majestal) **In honor of my first contribution! 2024/08/03 **
