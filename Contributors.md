@@ -6078,6 +6078,7 @@ murari2401
 - [nebu] (https://github.com/nebvx)
 - [coolmning] (https://github.com/coolmning)
 - [Wei Way](https://github.com/Wei-whey-way)
+- [Aditya Priyadarshi](https://github.com/apcopyap)
 - [Zhanylai](https://github.com/Zhanyl3909)
 - [Logan Zhang](https://github.com/logzhang)
 [Manivannan](https://github.com/mani1312-code)
