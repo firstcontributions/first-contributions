@@ -660,6 +660,7 @@ Vedant Raut here and this is my first Contribution
 - [Houssam Kanso](https://github.com/houssamkanso)**Hello World**
 - [João Augusto](https://github.com/joaugustoo)
 - [Jessika](https://github.com/Jessika297)**Hello there**
+- [LucianoSJr](https://github.com/LucianoSJr)**Don't give up, skeleton**
 - [win khant](https://github.com/WinKhantNaing)**Hello World**
 - [sota009](https://github.com/sota009)**Hello World!**
 - [morenzo rafael]
