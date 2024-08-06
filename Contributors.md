@@ -143,6 +143,7 @@ Rudraksh Upadhyay- learing to contribute in open source projects
 - [Abheek G](https://github.com/AbheekGandhi)**Hello, W First Contribution**
 - [JhayaLvannyahM](https://github.com/mjhayalavannyah)**My First Contribution too!!!**
 -[Prabhat Ghimire](https://github.com/PrabhatGhm7) **Trying to Learn it **
+-[Jinesh Pagaria](https://github.com/JConquers) ** My first commit, IMT2022044 **
 -[DanielHinnigan](https://github.com/dsadasdasdasd123)**Hi!**
 -[Charlie Nourrcier](https://github.com/cnourrcier)**First Contribution here 07/19/24. Reach out to me if you want to collaborate on a MERN project :D**
 -[Abdullahi Hamisu](https://github.com/captainprinz)**First Contribution and first emoji ever on desktop🎆🎈🚀**
