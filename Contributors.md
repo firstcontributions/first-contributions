@@ -1,5 +1,6 @@
 # Contributors
 - [Vimal Vinod](https://github.com/dalekvim) **Vimal's First open source contribution!**
+
 - [Adarsh Tiwari](https://github.com/Adarsh753) **Adarsh's First open source contribution!**
 - [Phoebe Gangoso](https://github.com/peewweee) **Phoebe's First open source contribution!**
 - [Lemuel Centina](https://github.com/whatataps123) **Lemuel's First open source contribution!**
@@ -129,6 +130,7 @@ Rudraksh Upadhyay- learing to contribute in open source projects
 -[SevimBusraGul78](https://github.com/SevimBusraGul78)**Hello easy :)
 -[Cryptic4Life](https://github.com/Cryptic4Life) **.-.**
 - [Eddie Almada](https://github.com/EddieAlmada) **Aug 2024**
+- [Madhav Sanjay Patil](https://github.com/Madhav-Sanjay-Patil) **Madhav's First open source contribution!**
 -[N3KT4R105](https://github.com/N3KT4R105)**#cumming_is_fun**
 - [AliSinaYOusofi](https://github.com/AliSinaYOusofi/)**My nth contribution**
 - [Crank778](https://github.com/Crank778)**We are here , we are waiting**
