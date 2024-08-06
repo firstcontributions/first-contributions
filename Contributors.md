@@ -1722,6 +1722,7 @@ Abhinav Jain
 - [Matt Palmer](https://github.com/this-is-matt)
 - [mr-xcode](https://github.com/mr-xcode)
 - [TKO(https://github.com/2-lazyyyy)
+- Aydhiny
 - Kaat
 - Yi Wu
 - ceshi
