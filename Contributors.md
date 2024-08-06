@@ -6914,3 +6914,5 @@ vivek saskar
 - [lai dudum](https://github.com/laidudum) **my first ever open-source contribution**
 - [Tarun Sharma](https://github.com/tarunsharmawee)**My first contribution**
 - [Haaris](https://github.com/haaris7) **I did a thing**
+- [Lakshman] (https://github.com/ThalaLak/) **Guwahati rockz**
+- [Peter](https://github.com/PraveenPeterJay/) **Shoutout to my bois in yelahanka**
