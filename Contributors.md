@@ -6640,6 +6640,7 @@ Hector
 - [SHRIKANTH](https://github.com/srics-dev)
 - [Prakash chandra muduli](https://github.com/Prakashchandra-007)
 - [Sai Bhargav](https://github.com/SaiBhargav11)
+- [arnavp103](https://github.com/arnavp103) **A first contribution**
 - [katje3009](https://github.com/katje3009)
 - [huraicid](https://github.com/huraicid)
 - [coltilkis](https://github.com/coltilkis)
@@ -6906,4 +6907,3 @@ vivek saskar
 - [Asim Naseer](https://github.com/awsimness) **The start of my voyage on 5th August 2024**
 - [Arpit Paliwal](https://github.com/Arpit-paliwal555) **First Contribution on 5th August 2024 18:43 IST**
 - [unKnown_NG](https://github.com/unKnownNG) **My first open source contribution!**
-- [arnavp103](https://github.com/arnavp103) **My first contribution**
