@@ -6961,3 +6961,4 @@ vivek saskar
 - [Prateek Rath](https://github.com/PrateekRath) **I did a thing**
 - [Kandarp Dave] (https://github.com/Kandarp08)
 - [Evan Hanks] **First open source contribution!**
+- [Jacob R. Stacy](https://github.com/JacobStacy) **My first contribution to an open source project**
