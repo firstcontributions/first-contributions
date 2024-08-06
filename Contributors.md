@@ -6954,3 +6954,4 @@ vivek saskar
 - [Haaris](https://github.com/haaris7) **I did a thing**
 - [Prateek Rath](https://github.com/PrateekRath) **I did a thing**
 - [Kandarp Dave] (https://github.com/Kandarp08)
+- [Evan Hanks] **First open source contribution!**
