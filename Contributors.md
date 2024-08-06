@@ -676,6 +676,7 @@ Niggesh
 - [Dizzy] (https://github.com/DizzyG123) **Trying out the new contribution and learning**
 - [AikSaiWan](https://github.com/AikSaiWan) My first contribution
 - [Errol-Anthony-Jano] (https://github.com/Errol-Anthony-Jano)
+- [Ayush Gupta](https://github.com/AyushCodez)
 - [Rahul](https://github.com/R-05368) My first contribution
 - [Gihan](https://github.com/ceeejeey) My first contribution
 - [Jarod Searle](https://github.com/searleja) **First contribution**
