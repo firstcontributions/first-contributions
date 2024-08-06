@@ -6776,6 +6776,7 @@ Hector
 - [Justin Tan] (https://github.com/jtyj-github) **Hello, world!**
 - [Serhii Serdiuk] (https://github.com/SerhiiSerdiukDev) **Glory to Ukraine!**
 - [Muhamad Arido](https://github.com/muhamad-arido) **This is my first contribution**
+- [OuroborosTheColossal](https://github.com/OuroborosTheColossal) **My first Contribution here**
 - [Michal Bielawski](https://github.com/bielawskimichal) **My first contribution**
 - [pie2cookie](https://github.com/pie2cookie) **First Little Step**
 - [Loooouuu](https://github.com/lucatodeschini) **My first contribution**
