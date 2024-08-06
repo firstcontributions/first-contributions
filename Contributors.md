@@ -5,11 +5,13 @@
 - [Lemuel Centina](https://github.com/whatataps123) **Lemuel's First open source contribution!**
 - [Thanh Nguyen Duc](https://github.com/ducthanhnguyen95) **First open source contribution!**
 - [Harshit Sharma](https://github.com/harshitsharma-dev) **Work to Learn**
+- [Shashwat Chaturvedi](https://github.com/sassy2711) **SE_Lab1**
 - [Daniela Cubillos](https://github.com/LDanic)
 - [Juan Alvarado](https://github.com/JuanAlvarado305)
 - [Shiva Kartheek](https://github.com/shiva1485) **let's go open-source contribution**
 - [Caleb Anderson](https://github.com/Canderson0115) **Amogus**
 - [Vaibhav Gangurde](https://github.com/Vaibhavsg17) **Thrilled to make my first contribution to open source!**
+- [Aaryan Ajith Dev](https://github.com/Aaryan-Ajith-Dev) **First open source contribution!**
 - [Miguel Arturo Madrigal Escoto](https://github.com/Miguel-Arturo-Madrigal-Escoto) **This is my first open source contribution**
 - [Krupal Shah](https://github.com/krupal-shah) **Trying out OpenSource contributions and am very excited about it!!!**
 - [Shoaib Sadiq Salehmohamed](https://github.com/shoaib2000857) **Persuing Data Science From IIT Madras Thrilled to make my first contribution to open source!**
@@ -2564,6 +2566,7 @@ Kencham Vinay
 - [Mike Cha](https://github.com/MckCha)
 - [Mehtab Gill](https://github.com/mehtab39)
 - [Samuel Kaing](https://github.com/SamuelKaing)
+- [Harsh Modani](https://github.com/modaniharsh-iiitb/)
 -[Aswin Jose](https://github.com/aswinjose89)
 -[chim chikwakea](https://github.com/chim)
 -[Anita Dennis](https://github.com/anitadenn)
