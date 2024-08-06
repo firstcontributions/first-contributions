@@ -294,6 +294,7 @@ Yulia Lantzberg
 - Josiah Bagley
 - [Tanner Smallwood](https://github.com/tsmallwood23) 
 -Leopoldo Chavarria
+-Shashank here
 -Biplav Bhandari
 - Micael Pereira da Silva
 - [Adarsh Prakash Patil](https://github.com/AdarshPatil04/) **First Open Source Contribution"
