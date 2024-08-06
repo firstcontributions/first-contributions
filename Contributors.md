@@ -15,6 +15,7 @@
 - [Juan Alvarado](https://github.com/JuanAlvarado305)
 - [Shiva Kartheek](https://github.com/shiva1485) **let's go open-source contribution**
 - [Caleb Anderson](https://github.com/Canderson0115) **Amogus**
+- [Neha Jaladi] (https://github.com/nehajaladi) **Try, fail, Try again, succeed**
 - [Vaibhav Gangurde](https://github.com/Vaibhavsg17) **Thrilled to make my first contribution to open source!**
 - [Aaryan Ajith Dev](https://github.com/Aaryan-Ajith-Dev) **First open source contribution!**
 - [Miguel Arturo Madrigal Escoto](https://github.com/Miguel-Arturo-Madrigal-Escoto) **This is my first open source contribution**
@@ -214,7 +215,7 @@ Rudraksh Upadhyay- learing to contribute in open source projects
 - [AMKCode] (https://github.com/AMKCode/) **added AMKCode to the contributions list, added descriptions**
 -[abhay tomar](https://github.com/uniquepersun) **here me goooo! :)**
 -[Karafakeu] (https://github.com/Karafakeu) **July 23, 2024: starting with open-source, hope I like it.**
--[Samyak Aditya](https://github.com/samyak-aditya) **July 20, 2024: The day my code went open source and the world became a little better (or at least more interesting)! --- proof that even small bugs can be big wins!"** 🌍💾
+-[Samyak Aditya](https://github.com/samyaksamyak-aditya) **July 20, 2024: The day my code went open source and the world became a little better (or at least more interesting)! --- proof that even small bugs can be big wins!"** 🌍💾
 Yulia Lantzberg
 - [Pedro Cardozo de Mello](https://github.com/jpcardozx) **this is my first contribution**
 -[Jerin Thomas] (https://github.com/jerinthomascarmel) ** 22-07-2024 : my first commit ** 
