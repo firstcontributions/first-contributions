@@ -273,7 +273,7 @@ Yulia Lantzberg
 -Shereyar Ali (Shits Tough But Fun)
 -Prateek ** Hello coders! **
 -Satyadarshi
--Sartaj(https://github.com/TAJ-32) **excited to contribute!!**
+-Sartaj(https://github.com/TAJ-32) **excited tocd first-contributions contribute!!**
 -[add-mydomain]
 -[Ignacio Gonzalez](https://github.com/IgnaGonza)_**Hello Everyone!🎉**_
 -[Luke Southerton](https://github.com/LSoutherton)**12/07/2024 First Contribution!**
@@ -4072,6 +4072,7 @@ Parthiv Saikia
 - Davide Coppola
 -[RushilShandilya](https://github.com/RushilShandilya)
 -[Akshath-dev](https://github.com/Akshath-dev)
+- [Siddharth](https://github.com/Siddharth194)
 - [Jesus-Rojas](https://github.com/Jesus-Rojas)
 - [gmpsankalpa](https://github.com/gmpsankalpa)
 - [Heesu Han](https://github.com/han990702)
