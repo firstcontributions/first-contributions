@@ -6914,4 +6914,4 @@ vivek saskar
 - [lai dudum](https://github.com/laidudum) **my first ever open-source contribution**
 - [Tarun Sharma](https://github.com/tarunsharmawee)**My first contribution**
 - [Haaris](https://github.com/haaris7) **I did a thing**
-- [Nathan Mathew Verghese](https://github.com/nathanmathewv) **Benchooo**
+- [Nathan Mathew Verghese](https://github.com/nathanmathewv) **Benchooo wudh**
