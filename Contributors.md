@@ -577,6 +577,7 @@ Vedant Raut here and this is my first Contribution
 -[Mihir](https://github.com/MIHIRstoic)***first time***
 - [David Myat]
 -[FrancescoLegg](https://github.com/FrancescoLegg) **this is my first contribution, hello all!**
+-[Gio mustard](https://github.com/Gio-mustard)**Arriba el cuarteto de nos!**
 - [Shiva Prakash](https://github.com/shiva233/) **Hi everyone excited to contribute to opensource :D my linkedin is shiva-prakash233 feel free to connect**
 - [Kavin Nimalarajan](https://github.com/KavEn06/) **first contribution, (was forced to learn this by the guy above)**
 - [Laura] (https://github.com/Lwenz95) **Hi all! Happy to learn new things!**
