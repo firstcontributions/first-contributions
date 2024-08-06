@@ -1152,6 +1152,10 @@ vrushabhpatil48
 - [XQZmeSIR](https://github.com/XQZmeSIR) **...because who you are becoming is the thing that you are amounting to, in real time, every day. - Alex Hormozi**
 - [Supreeth C](https://github.com/ShinichiShi)
 - BlackCro
+- [Siddharth Palod](https://github.com/SiddharthPalod)
+- Siddharth Palod
+- [Hemang Seth](https://github.com/Hemang-2004)
+- Hemang Seth handsome 
 - [aar-rafi](https://github.com/aar-rafi)
 - Riaz (https://github.com/riiazz)
 - Camilo Arango
