@@ -1,5 +1,4 @@
 # Contributors
-- Bhavya Kapadia Software Lab
 - [Vimal Vinod](https://github.com/dalekvim) **Vimal's First open source contribution!**
 - [Adarsh Tiwari](https://github.com/Adarsh753) **Adarsh's First open source contribution!**
 - [Phoebe Gangoso](https://github.com/peewweee) **Phoebe's First open source contribution!**
@@ -8,7 +7,7 @@
 - [Harshit Sharma](https://github.com/harshitsharma-dev) **Work to Learn**
 - [Daniela Cubillos](https://github.com/LDanic)
 - [Juan Alvarado](https://github.com/JuanAlvarado305)
-- [Shiva Kartheek](https://github.com/shiva1485) **let's go open-source contribution**
+- [Shiva Kartheek](https://github.com/shiva1485) **let's go open-source contribugit@github.com:firstcontributions/first-contributions.gittion**
 - [Caleb Anderson](https://github.com/Canderson0115) **Amogus**
 - [Vaibhav Gangurde](https://github.com/Vaibhavsg17) **Thrilled to make my first contribution to open source!**
 - [Miguel Arturo Madrigal Escoto](https://github.com/Miguel-Arturo-Madrigal-Escoto) **This is my first open source contribution**
@@ -3081,6 +3080,7 @@ Jasmine
 - [Akram Hany](https://github.com/akramhany)
 - [Hein Htut Zaw] (https://github.com/HeinHtutZaw19)
 - [PeymanSF2000](https://github.com/peymansf2000) 🇮🇷 💻 🎮 🥇
+- [BKAPADIA04] (https://github.com/BKAPADIA04) **New Contributor**
 - [SahutoL](https://github.com/SahutoL)
 - [Johnnie](https://github.com/Johnnie71) **This seems like the middle of all middles**
 - [Karthik Sp](https://github.com/karthisp)
