@@ -130,7 +130,7 @@ Rudraksh Upadhyay- learing to contribute in open source projects
 -[SevimBusraGul78](https://github.com/SevimBusraGul78)**Hello easy :)
 -[Cryptic4Life](https://github.com/Cryptic4Life) **.-.**
 - [Eddie Almada](https://github.com/EddieAlmada) **Aug 2024**
-- [Madhav Sanjay Patil](https://github.com/Madhav-Sanjay-Patil) **Madhav's First open source contribution!**
+- [Madhav Sanjay Patil](https://github.com/Madhav-Sanjay-Patil) **Maddy's First open source contribution!**
 -[N3KT4R105](https://github.com/N3KT4R105)**#cumming_is_fun**
 - [AliSinaYOusofi](https://github.com/AliSinaYOusofi/)**My nth contribution**
 - [Crank778](https://github.com/Crank778)**We are here , we are waiting**
