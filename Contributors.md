@@ -18,6 +18,7 @@ Here are :
 - [Shreyas](https://github.com/Shreyas4256)
 - [Eduardo Montano](https://github.com/edulol-1)
 - [Nihal]
+  [Kenny Allen](https://github.com/LeeAllenK)
 - [Keerthi Nannepamula](https://github.com/keerthinannepamula7)
 - [Iman] (https://github.com/iman2153)
 - [Hassan Kazeem]
@@ -116,7 +117,7 @@ Here are :
 - [Hari Prasad] (https://github.com/itcodehery)
 - [Khushi](https://github.com/KhushiP098)
 - [Ambroise Ngayinoko](https://github.com/Ambro19)
-  [Kenny](https://github.com/LeeAllenK)
+  [Kenny Allen](https://github.com/LeeAllenK)
 - [Pradyumna Hegde](https://github.com/pradyumna-ph)
 - [Sanjay Karthic](https://github.com/Leon-Skar)
 - [Widdershins](https://github.com/Widdershins89)
