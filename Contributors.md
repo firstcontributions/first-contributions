@@ -109,6 +109,7 @@ Rudraksh Upadhyay- learing to contribute in open source projects
 -[Prabhat Ghimire] **grinding my way**
 -[Ayman Badouzi](https://github.com/itzAymvn)
 -[Frank Costanza](https://github.com/wrx777)**My first contribution**
+-[Pudi Kireeti] (https://github.com/3kp-0502)
 -[Arjun TK](https://github.com/Arjun941)**Good shit frfr.find me on insta @arjunoffspace**
 -[Malusi Mhlanga](https://github.com/malusiT)**My first open source contribution 29-07-2024**
 -[Andrew]**HelloWorld!!!**
