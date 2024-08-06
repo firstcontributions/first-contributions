@@ -1560,6 +1560,7 @@ v0idborne
 - [Ridampreet](https://github.com/ridampreet)
 - [RuxCastillo](https://github.com/RuxCastillo)
 - [Saidou Monta](https://github.com/Saidou25)
+- [Ashirwad Mishra](https://github.com/Ashirwad427) **I contributed**
 - [Cyril Baah](https://github.com/CyrilBaah)
 - [Rachelle Buske](https://github.com/rachelle-dbuske)
 - [Vedant Balpande](https://github.com/vedant-35)
