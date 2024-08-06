@@ -130,6 +130,7 @@ Rudraksh Upadhyay- learing to contribute in open source projects
 -[Siddhi](https://github.com/mulesiddhi)**First Contribution!!**
 -[gouri](https://github.com/gouri138)**my first contribution**
 -[nagabasavanna]**HelloWorld!!!**
+-[CHR0N1]**HELLO BROTHERS & SISTERS**
 - [Taylor Hellen](https://github.com/taylorhelene)**First contribution :)**
 -[Yoenuts](https://github.com/yoenuts)**Per aspera Ad Astra. Line 18, 270724**
 -[Barbi](https://github.com/bcot-code)**First contribution jul2624**
