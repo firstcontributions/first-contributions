@@ -6914,3 +6914,5 @@ vivek saskar
 - [lai dudum](https://github.com/laidudum) **my first ever open-source contribution**
 - [Tarun Sharma](https://github.com/tarunsharmawee)**My first contribution**
 - [Haaris](https://github.com/haaris7) **I did a thing**
+- [Siddharth Reddy](https://https://github.com/siddharthmaram) **My first open source contribution**
+- [Sohith Gutta](https://https://github.com/sohith18) **I am marvel jesus**
