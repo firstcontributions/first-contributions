@@ -24,7 +24,6 @@
 - [crabCatcher0](https://github.com/crabcatcher0/) **Learning**
 - [yuthadda](https://github.com/yuthadda)
 - [FernandoSiavato](https://github.com/FernandoSiavato)
-- [varnit-mittal](https://github.com/varnit-mittal) **Just for my SE Lab Attendance purpose**
 
 -[chedva and Libby](https://github.com/chedva-n)**Try first time open source**
 - [Lokesh11868](https://github.com/Lokesh11868) **First Open Source Contribution**
@@ -55,7 +54,6 @@ Elisheva R
 -[Aman Jha](https://github.com/i-aman-jha/) **______________This is my first Contribution__________**
 -[Avinash KT]****Excited *****************
 - [Kushal Khivasara](https://github.com/its-kushal) **He contributed to this project**
-- [rpatel1605](https://github.com/rpatel1605) **Newly contributed**
 -[PrabhatGhimire](https://github.com/PrabhatGhm7)**Tutorial on contribution**
 -[Shakir Bakare](https://github.com/shakirbakare) **Hello world! Peace be upon you!**
 - [Ivan Marinov](https://github.com/IvanM-19)
@@ -210,7 +208,6 @@ Yulia Lantzberg
 - [Jason Okahishie](https://github.com/jasonokhaishie) **this is my first contribution**
 - [Miguel Pereira](https://github.com/migueltmpereira) **Esta é a minha primeira contribuição, a primeira de muitas! Coimbra e NEI <3**
 - Noo Dev **My first baby step of future contributions**
-- Dyuthi Vivek
 - [Jyotirmoy Kashyap](https://github.com/jyotirmoy009) **2024/07/13: This is my first contribution 😍)**
 -[Seifolah Ghaderi](https://github.com/seifolah-ghaderi)
 -[Prince Majestal](https://github.com/Prince-Majestal) **In honor of my first contribution! 2024/08/03 **
@@ -6779,7 +6776,6 @@ Hector
 - [Justin Tan] (https://github.com/jtyj-github) **Hello, world!**
 - [Serhii Serdiuk] (https://github.com/SerhiiSerdiukDev) **Glory to Ukraine!**
 - [Muhamad Arido](https://github.com/muhamad-arido) **This is my first contribution**
-- [OuroborosTheColossal](https://github.com/OuroborosTheColossal) **My first Contribution here**
 - [Michal Bielawski](https://github.com/bielawskimichal) **My first contribution**
 - [pie2cookie](https://github.com/pie2cookie) **First Little Step**
 - [Loooouuu](https://github.com/lucatodeschini) **My first contribution**
