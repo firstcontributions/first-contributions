@@ -5866,10 +5866,12 @@ LadegbayeStella)
 - [Piyaporn Puangprasert](https://github.com/Nan227)
 -[AvariceZhao](https://github.com/AvariceZhao)
 -[DataDroog](https://github.com/DataDroog)
+- [Tanish Pathania](https://github.com/Tanish-pat) **Mark my Attendance please!!!**
 - [Janusz Kuznik](https://github.com/jkuznik)
 - [Francisco Ribeiro](https://github.com/fpribeiro3069)
 - [Francisco Gouveia](https://github.com/franciscotgouveia)
 - [Vander Otis](https://github.com/vanotis720)
+- [Tanish Pathania](https://github.com/Tanish-pat) **Mark my Attendance please!!!**
 - [Yusuf Imran](https://github.com/TAYLOR0546)
 - [Amin Mardani](https://github.com/AminMardani79)
 - [afilipkowski](https://github.com/afilipkowski)
@@ -5958,6 +5960,7 @@ LadegbayeStella)
 - [Bucky](https://github.com/bucky1947)
 - [Minh Conal](https://github.com/conaldev)
 - [Satyam](https://github.com/satyamkittu91)
+- [Tanish Pathania](https://github.com/Tanish-pat) **Mark my Attendance please!!!**
 - [satory074](https://github.com/satory074)
 - [Praveen](https://github.com/Praveen787)
 - [Zachary Church](https://github.com/Zchurch11/)
@@ -6044,6 +6047,8 @@ murari2401
 - [Jacob Robinson](https://github.com/jrobinson0430)
 - [Fayaz Rafin](https://github.com/fayaz-rafin)
 - [Shuyi Lai](https://github.com/asd58584388)
+- [Tanish Pathania](https://github.com/Tanish-pat) **Mark my Attendance please!!!**
+- [Tanish Pathania](https://github.com/Tanish-pat) **Mark my Attendance please!!!**
 - [royalknight56](https://github.com/royalknight56)
 - [Soner Türkölmez](https://github.com/sonertnp)
 -[SubikshaMuralidass]
@@ -6110,6 +6115,7 @@ guanj65
 - [SinSheng]
 - [Asumi]
 - [Angelika Valerio](https://github.com/angelikavalerio)
+- [Tanish Pathania](https://github.com/Tanish-pat) **Mark my Attendance please!!!**
 - [jeong-haerim](https://github.com/Jeong-hae-rim)
 - [Smoothie](https://github.com/Smoothie1023)
 - [WHEEL](https://github.com/Hynobius-formosanus)
@@ -6223,6 +6229,7 @@ guanj65
 - [Utkarsh Tripathi](https://github.com/utkarshilh)
 - [Amyr](https://github.com/amyrd)
 - [Nkatha](https://github.com/Nkathaaa)
+- [Tanish Pathania](https://github.com/Tanish-pat) **Mark my Attendance please!!!**
 - [kemelman](https://github.com/kemelman)
 - [Ethan Coco](https://github.com/cocoethan)
 - [whangho](https://github.com/whangho)
@@ -6401,6 +6408,7 @@ utthamr
 - [Mihir C Naik](https://github.com/TheMihirNaik)
 - [Garrett Roberts](https://github.com/garrettmroberts)
 - [nbieb](https://github.com/nbieb)
+- [Tanish Pathania](https://github.com/Tanish-pat) **Mark my Attendance please!!!**
 - [AlefRP](https://github.com/AlefRP)
 - [ObiAU](https://github.com/ObiAU)
 - [Naveen KP](https://github.com/Navee-n)
@@ -6648,6 +6656,7 @@ Hector
 - [katje3009](https://github.com/katje3009)
 - [huraicid](https://github.com/huraicid) 
 - [coltilkis](https://github.com/coltilkis)
+- [Tanish Pathania](https://github.com/Tanish-pat) **Mark my Attendance please!!!**
 - [CosminJ2004](https://github.com/CosminJ2004) **Let`s go!**
 - [C4dr-me](https://github.com/c4dr-me) **Yay!!**
 - [Gustavo Galarza](https://github.com/gustavogalarza1091) **Hello!!**
@@ -6785,6 +6794,8 @@ Hector
 - [Joy] **Vamos**
 - [Ryoya Imada](https://github.com/ryoya-i-1215)
 - [Melissa](https://github.com/Melissabeedev) **hello! just testing**
+- [Tanish Pathania](https://github.com/Tanish-pat) **Mark my Attendance please!!!**
+- [Tanish Pathania](https://github.com/Tanish-pat) **Mark my Attendance please!!!**
 - [Liam Davis](https://github.com/liamjdavis)
 - [Yutan Kaifa](https://github.com/yutankaifa) **My name is yutan,Hello everyone!**
 - [chiweily](http://github.com/chiweily) **Hello everyone!!!**
@@ -6819,6 +6830,7 @@ https://github.com/06Gagan
 - [Ronnie Conlon](https://github.com/rjamesconlon)
 - [TY] **Feels Good**
 - [Noci27](https://github.com/Noci27) **This is a great tutorial, this helped a lot :D**
+- [Tanish Pathania](https://github.com/Tanish-pat) **Mark my Attendance please!!!**
 - [Darian Toledo](https://github.com/darianmorat) **Getting better**
 - [Kenny Blau](https://github.com/kblau237) **30 years experience coding-Need coding work**
 - [Jaswanth Kumar](https://github.com/Jaswanth-0401) **My first contribution**
@@ -6853,6 +6865,7 @@ https://github.com/06Gagan
 - First Contribution!
 - [Gallypotato](https://github.com/Gallypotato) **please**
 - [Carl Martin](https://github.com/cmartin-gnrc) **My firs open source contribution**
+- [Tanish Pathania](https://github.com/Tanish-pat) **Mark my Attendance please!!!**
 - [Anand Maurya](https://github.com/SMOS-Github) ||My first open source contribution||
 Hey There
 - [Benjamin M](https://github.com/bzm10) **My first open source contribution**
@@ -6883,6 +6896,7 @@ Hey There
 - [Valentino Valle](https://github.com/ValentinoValle)
 - [Moneroboi](https://github.com/Moneroboi) **First contribution, looking forward to contribute to the linux kernel, 29/7/2024**
 - [AndreyTB](https://github.com/AndreyTB) **This is my time capsule, me telling myself, dude.. I feel like I know nothing**
+- [Tanish Pathania](https://github.com/Tanish-pat) **Mark my Attendance please!!!**
 - [Sakura](https://github.com/wxh-cyber) **This is my first contribution to an open source project.I am keeping learning!**
 - [Alejandro SM](https://github.com/AleMonz) **First contribution**
 - [Cevheri](https://github.com/cevheri) **Hi guys, from Turkiye**
@@ -6914,3 +6928,4 @@ vivek saskar
 - [lai dudum](https://github.com/laidudum) **my first ever open-source contribution**
 - [Tarun Sharma](https://github.com/tarunsharmawee)**My first contribution**
 - [Haaris](https://github.com/haaris7) **I did a thing**
+- [Tanish Pathania](https://github.com/Tanish-pat) **Mark my Attendance please!!!**
