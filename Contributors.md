@@ -6883,6 +6883,7 @@ Hey There
 - [Benjamin M](https://github.com/bzm10) **My first open source contribution**
 - [Iris Onwa](https://github.com/aloneInEntropy) **First open source contribution!**
 - [Sr Kush](https://github.com/SenorKush) **Finally! this is my first open source contribution. Aluta Continua!**
+- [Vansh Sinha](https://github.com/IMT2022122) **Majboori**
 - [Nim](https://github.com/HypernovaNim) ** First Open Source Contribution
 - [Alex Castellanos](https://github.com/AlexCastel14) **Studing for the Github Foundations certification**
 - [Rhuan Hianc](https://github.com/rhuanhianc) **Hi**
