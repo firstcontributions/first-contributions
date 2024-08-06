@@ -1,5 +1,9 @@
 # Contributors
+<<<<<<< HEAD
+- [Koushik Mupparapu](https://github.com/SaFFireGHOST) **Koushik's first open source contribution
+=======
 - [Harshith reddy](https://github.com/Harshith2835) **Harshith's First open source contribution!**
+>>>>>>> 21b8820d60994e075cd76474c51a01a8f0435163
 - [Vimal Vinod](https://github.com/dalekvim) **Vimal's First open source contribution!**
 - [Adarsh Tiwari](https://github.com/Adarsh753) **Adarsh's First open source contribution!**
 - [Phoebe Gangoso](https://github.com/peewweee) **Phoebe's First open source contribution!**
