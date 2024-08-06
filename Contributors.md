@@ -8,6 +8,7 @@
 - [Harshit Sharma](https://github.com/harshitsharma-dev) **Work to Learn**
 - [Shashwat Chaturvedi](https://github.com/sassy2711) **SE_Lab1**
 - [Daniela Cubillos](https://github.com/LDanic)
+- [Trupti Khodwe](https://github.com/truptikhodwe)
 - [Juan Alvarado](https://github.com/JuanAlvarado305)
 - [Shiva Kartheek](https://github.com/shiva1485) **let's go open-source contribution**
 - [Caleb Anderson](https://github.com/Canderson0115) **Amogus**
