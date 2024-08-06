@@ -4,7 +4,9 @@
 - [Phoebe Gangoso](https://github.com/peewweee) **Phoebe's First open source contribution!**
 - [Lemuel Centina](https://github.com/whatataps123) **Lemuel's First open source contribution!**
 - [Thanh Nguyen Duc](https://github.com/ducthanhnguyen95) **First open source contribution!**
-- [Harshit Sharma](https://github.com/harshitsharma-dev) **Work to Learn**
+- [Harshit Sharma](https://github.com/harshitsharma-dev)
+
+**Work to Learn**
 - [Daniela Cubillos](https://github.com/LDanic)
 - [Juan Alvarado](https://github.com/JuanAlvarado305)
 - [Shiva Kartheek](https://github.com/shiva1485) **let's go open-source contribution**
@@ -157,6 +159,8 @@ Rudraksh Upadhyay- learing to contribute in open source projects
 - [Oluwatobiloba Mosinmiloluwa Ajani Jesulayomi Ibrahim Abidoye AKA Tobi Abidoye](https://github.com/tobiabidoye)"Hipster by heart but i can tell you how them streets feel"
 - [Swam Yi Phyo](https://github.com/fisheeesh) **Yes, I did baby. 20.7.2024**
 -[Preetha S](https://github.com/Pree-04)**Hello! Making a basic open-source contribution to understand the fork, clone, edit and pull requests workflow. 23/07/2024**
+** UWU First ever contribution **
+- [Shiven Phogat] (https://github.com/shiven-phogat)
 - [undefined010] **hello world !**
 - Hasmeet Khatri: 1st github contribution.
 - Talles Cardoso
