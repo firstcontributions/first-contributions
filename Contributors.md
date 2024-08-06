@@ -32,6 +32,7 @@
 - [Mohit Naik](https://github.com/mohit086) **Contributed**
 
 -[chedva and Libby](https://github.com/chedva-n)**Try first time open source**
+- [Owais](https://github.com/Owais-Md/)
 - [Lokesh11868](https://github.com/Lokesh11868) **First Open Source Contribution**
 - [John McLaughlin](https://github.com/johnmclaughlin) **Hello World**≈
 - [Dev AKS](https://github.com/devaaks) **Hello Open Source!**
