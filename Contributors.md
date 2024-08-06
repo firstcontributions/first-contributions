@@ -42,6 +42,7 @@
 - [John McLaughlin](https://github.com/johnmclaughlin) **Hello World**≈
 - [Dev AKS](https://github.com/devaaks) **Hello Open Source!**
 - [kisia0916](https://github.com/kisia0916) "Hello!"
+Theresia Calista
 - [samarth1011-1](https://github.com/samarth1011-1) **LMAO HELLO**
 - [Abhijeet_Mate](https://github.com/Abhijeet314/)**Learning**
 - Hemant Gupta here!!
