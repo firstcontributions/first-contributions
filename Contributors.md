@@ -16,6 +16,7 @@
 - [Daniela Cubillos](https://github.com/LDanic)
 - [Sasha Kenta Quinnn](https://github.com/quinn-sasha) **I want contribute to oss for better world!**
 - [Trupti Khodwe](https://github.com/truptikhodwe)
+- [Lucky Samuel](https://github.com/alchemistlowkey)
 - [Juan Manuel Avila Perez](https://github.com/JuanAvilaOficial)
 - [Juan Alvarado](https://github.com/JuanAlvarado305)
 - [Jaswanth Damarla](https://github.com/jaswanth-damarla)
