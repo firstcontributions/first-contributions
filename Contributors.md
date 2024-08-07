@@ -339,6 +339,7 @@ Yulia Lantzberg
 -Mehul kumar dhusia
 - [Venkat](https://github.com/venkatk-git) **First Contribution!! 31/07/2024**
 - [Sanket Sonawane](https://github.com/SanketSonawane11) **First**
+- [sohaib chebah](https://github.com/sohaibchebah) **sohaib's first contribution**
 - [Henry Fajardo](https://github.com/HenryFR) **First time!**
 - [Darshkumar Jasani](https://github.com/darshjasani) **My First Contribution - Beginning of all future contributions!!**
 - [Elias M.](https://github.com/cezelot) **Hello friend!**
@@ -6979,3 +6980,5 @@ vivek saskar
 - [Jacob R. Stacy](https://github.com/JacobStacy) **My first contribution to an open source project**
 - [Ammar Sahyoun](https://github.com/AmmarSahyoun) **Hi, my first contribution here**
 - [Ali Agabalayev](https://github.com/AliAgabalayev) **My first contribution to an open source project**
+-  [Sohaib Chebah](https://github.com/sohaibchebah) **diving into open source world**
+
