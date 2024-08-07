@@ -14,6 +14,7 @@
 - [Trupti Khodwe](https://github.com/truptikhodwe)
 - [Juan Manuel Avila Perez](https://github.com/JuanAvilaOficial)
 - [Juan Alvarado](https://github.com/JuanAlvarado305)
+- [Jaswanth Damarla](https://github.com/jaswanth-damarla)
 - [Shiva Kartheek](https://github.com/shiva1485) **let's go open-source contribution**
 - [Caleb Anderson](https://github.com/Canderson0115) **Amogus**
 - [Neha Jaladi] (https://github.com/nehajaladi) **Try, fail, Try again, succeed**
