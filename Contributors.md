@@ -19,6 +19,7 @@
 - [Jaswanth Damarla](https://github.com/jaswanth-damarla)
 - [Shiva Kartheek](https://github.com/shiva1485) **let's go open-source contribution**
 - [Caleb Anderson](https://github.com/Canderson0115) **Amogus**
+- [Preeti Khamkar](https://github.com/p0203k)
 - [Neha Jaladi] (https://github.com/nehajaladi) **Try, fail, Try again, succeed**
 - [Vaibhav Gangurde](https://github.com/Vaibhavsg17) **Thrilled to make my first contribution to open source!**
 - [Aaryan Ajith Dev](https://github.com/Aaryan-Ajith-Dev) **First open source contribution!**
