@@ -10,6 +10,7 @@
 - [Harshit Sharma](https://github.com/harshitsharma-dev) **Work to Learn**
 - [Shashwat Chaturvedi](https://github.com/sassy2711) **SE_Lab1**
 - [Daniela Cubillos](https://github.com/LDanic)
+- [Sasha Kenta Quinnn](https://github.com/quinn-sasha) **I want contribute to oss for better world!**
 - [Trupti Khodwe](https://github.com/truptikhodwe)
 - [Juan Manuel Avila Perez](https://github.com/JuanAvilaOficial)
 - [Juan Alvarado](https://github.com/JuanAlvarado305)
