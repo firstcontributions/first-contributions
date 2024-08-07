@@ -1638,6 +1638,7 @@ Abhinav Jain
 - [Angela] (https://github.com/angela-odette)
 - [Shreya Mohanty](https://github.com/shrymhty)
 - 5ecurealf (https://github.com/5ecurealf)
+- [pikul-lazy] (https://github.com/pikul-lazy) cool.
 - open source
 - [Sarah J.] (https://github.com/huntydhino)
 - Dhruv J
