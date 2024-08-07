@@ -2,6 +2,7 @@
 - [Manda Kausthubh](https://github.com/MandaKausthubh) **Manda Kausthubh's SE_Lab1 contribution**
 - [Harshith reddy](https://github.com/Harshith2835) **Harshith's First open source contribution!**
 - [Vimal Vinod](https://github.com/dalekvim) **Vimal's First open source contribution!**
+- [Aaron Mathew](https://github.com/Geeruz) **Contributing SOmething IG** 
 - [Adarsh Tiwari](https://github.com/Adarsh753) **Adarsh's First open source contribution!**
 - [Phoebe Gangoso](https://github.com/peewweee) **Phoebe's First open source contribution!**
 - [Lemuel Centina](https://github.com/whatataps123) **Lemuel's First open source contribution!**
