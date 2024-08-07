@@ -6969,3 +6969,4 @@ vivek saskar
 - [Evan Hanks] **First open source contribution!**
 - [Jacob R. Stacy](https://github.com/JacobStacy) **My first contribution to an open source project**
 - [Ammar Sahyoun](https://github.com/AmmarSahyoun) **Hi, my first contribution here**
+- [Ali Agabalayev](https://github.com/AliAgabalayev) **My first contribution to an open source project**
