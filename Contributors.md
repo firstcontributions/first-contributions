@@ -3753,6 +3753,7 @@ Romeu Leite
 - [luispunx](https://github.com/luispunx)
 - [maxgmr](https://github.com/maxgmr)
 - [Rose Liu](https://github.com/BlueRosy) An interesting contribution experience! Thanks. 🩷🩵
+- [Leinad Odreiuqzi](https://github.com/LeinadOdreiuqzi) **HolaHolaHola**
 - [Yufa Zhou](https://github.com/MasterZhou1)
 - [Modupe Marvellous](https://github.com/Marvie-03)
 - [Aaron Ghebretinsae] (https://github.com/AaronGhebretinsae)
