@@ -414,6 +414,7 @@ mh
 - [Nagi](https://github.com/Nagi132/) **First Open Source Contribution**
 - [Diogo Lima](https://github.com/h8machine) **Hi! This is my first contribution on GitHub!**
 - [Binyam Mamo](https://github.com/BinyamMamo) **Didn't break anything on my first try! Contributing was easier than I thought.**
+- [yeopseung](https://github.com/yeopseung) **First Contribution!!**
 - [Ege Erdag](https://github.com/ErdagEge) **Made my first contribution! Did okay...**
 - [Al-Musbahi](https://github.com/musbahi-git) **Salam.**
 - [Naveen Kumar](https:github.com/Naveen-369) **First Open Source Contribution Made ! ! !**
