@@ -6991,3 +6991,4 @@ vivek saskar
 - [Ali Agabalayev](https://github.com/AliAgabalayev) **My first contribution to an open source project**
 - JMA was here!
 - [YKDMan](https://github.com/ykdman)**Hello! i'm from south Korea!**
+- [Rois Khoiron](https://github.com/roiskhoiron) ** I wanna be a good programmer with join open-source projects **
