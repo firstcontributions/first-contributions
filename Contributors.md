@@ -79,7 +79,7 @@ Zhiyuan Zhao
 Elisheva R
 -[Aman Jha](https://github.com/i-aman-jha/) **______________This is my first Contribution__________**
 -[Avinash KT]****Excited *****************
-- [Kushal Khivasara](https://github.com/its-kushal) **He contributed to this project**
+- [Kushal Khivasara](https://github.com/its-kushal) **He contributed to this project** 
 - [rpatel1605](https://github.com/rpatel1605) **Newly contributed**
 -[PrabhatGhimire](https://github.com/PrabhatGhm7)**Tutorial on contribution**
 -[Shakir Bakare](https://github.com/shakirbakare) **Hello world! Peace be upon you!**
@@ -89,6 +89,7 @@ Elisheva R
 - [Arbaz Ahmad](https://github.com/arbaz686) **if i can do it, u can also do it!**
 - [Lautaro Skarkloff](https://github.com/skarkloff) **Linux OpenSource**
 - [Elyas Shamal](https://github.com/ElyasShamal) **let's give it a shot!**
+- [Lucky Mathias Kispotta](https://github.com/YOmaann) **Lesssgooo 🔥**
 - [Gabriel Fonseca](https://github.com/GabrielKLS) **I was here**
 - [ItzAAcromatix](https://github.com/ItzAcromatix) **I was here**
 - [Abhiraaj R C](https://github.com/neox-d) **Yea!!**
