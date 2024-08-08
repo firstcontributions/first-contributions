@@ -129,6 +129,7 @@ Swapnonil Mitra
 -[Zain Fareed](https://github.com/zfareed) **First contribution. It's great to see all of you here!**
 -[Ahmed Obaidullah](https://github.com/ahmedobaid23) **First Contribution!**
 - Ammar
+- EMR
 -[Sitotaw Ashagre](https://github.com/yotors) **May be the first appearance in the os contribution realm**
 -[Aayush Mishra](https://github.com/skywlker17) **Hi, Thanks for this repo!!**
 - [AMKCode] (https://github.com/AMKCode/) **added AMKCode to the contributions list, added descriptions**
