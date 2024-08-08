@@ -144,6 +144,7 @@ Rudraksh Upadhyay- learing to contribute in open source projects
 - [Michael Callahan] **hello**
 -[Aksal Abiahta T](https://github.com/aksalatdev)**Hello From Indonesia**
 -[Ayman Badouzi](https://github.com/itzAymvn)
+-[Khushi Rani](https://github.com/KhushiRani007)
 -[Frank Costanza](https://github.com/wrx777)**My first contribution**
 -[Shreyas S](https://github.com/Shreyas0S) **First open source contribution**
 -[Oussama](https://github.com/oussamaB14) **first contibution 08/August/2024**
