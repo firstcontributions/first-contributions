@@ -6939,6 +6939,7 @@ Hey There
 - [Tatsumi Yamamoto](https://github.com/yamapi-t) **Hi**
 - [angelica-help](https://github.com/angelica-help)**It is really a talented idea to create it for the beginner**
 - [Yasaswini](https://github.com/yasaswini-m) **This is my first open source contribution**
+- [LOL-li-POP](https://github.com/LOL-li-POP) **first contribution, such a confusion**
 - [kotteeshwaran](https://github.com/kotteeshwaran) **first_opensource**
 - [wolf-966](https://github.com/wolf-966) **first_opensource**
 - [K-dash](https://github.com/K-dash) **Hi**
