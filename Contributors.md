@@ -1223,6 +1223,7 @@ vrushabhpatil48
 - [Palash]
 - [Rajan Poudel](https://github.com/rajan-poudel)
 - [Sai Krishna](https://github.com/krishna-o73)
+- [rhysjo](https://github.com/rhysjo) **First contribution on GitHub**
 - [Ashton_Martin]
 - [Sonu]
 - [Koni](https://github.com/0xkon1)
