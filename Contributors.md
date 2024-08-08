@@ -7008,6 +7008,7 @@ vivek saskar
 - [Tarun Sharma](https://github.com/tarunsharmawee)**My first contribution**
 - [Haaris](https://github.com/haaris7) **I did a thing**
 - [Prateek Rath](https://github.com/PrateekRath) **I did a thing**
+- [Henry Nicollas Issicaba Neves](https://github.com/henrynicollasissicaba) **My first open source contribution**
 - [Kandarp Dave] (https://github.com/Kandarp08)
 - [Evan Hanks] **First open source contribution!**
 - [Jacob R. Stacy](https://github.com/JacobStacy) **My first contribution to an open source project**
