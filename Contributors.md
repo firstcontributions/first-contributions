@@ -5,7 +5,10 @@
 - [Manda Kausthubh](https://github.com/MandaKausthubh) **Manda Kausthubh's SE_Lab1 contribution**
 - [Harshith reddy](https://github.com/Harshith2835) **Harshith's First open source contribution!**
 - [Vedant Poduval](https://github.com/vedantpoduval) **Vedant tried oss**
-- [Vimal Vinod](https://github.com/dalekvim) **Vimal's First open source contribution!**
+- [Vimal Vinod](https://github.com/dalekvim) **Vimal's 
+**fedis first controbution**
+- [fedi sghaier](https://github.com/m3gaf3di) **fedi's first controbution**
+
 - [Joosty](https://github.com/Joosty) **Hopefully the start of something big...**
 - [Aaron Mathew](https://github.com/Geeruz) **Contributing SOmething IG** 
 - [Kristian Cifuentes](https://github.com/KristianC8) **First open source contribution**
@@ -23,6 +26,7 @@
 - [Trupti Khodwe](https://github.com/truptikhodwe)
 - [Lucky Samuel](https://github.com/alchemistlowkey)
 - [Juan Manuel Avila Perez](https://github.com/JuanAvilaOficial)
+- [fedi sghaier](https://github.com/m3gaf3di)
 - [Juan Alvarado](https://github.com/JuanAlvarado305)
 - [Jaswanth Damarla](https://github.com/jaswanth-damarla)
 - [Shiva Kartheek](https://github.com/shiva1485) **let's go open-source contribution**
@@ -2681,6 +2685,7 @@ Kencham Vinay
 - [Yuliia Petryshak](https://github.com/ypetryshak)
 - [Vamsi Srivatsan](https://github.com/vamsisrivatsanc)
 - [Chiharu Hagiwara](https://github.com/mendako1015)
+- [fedi sghaier](https://github.com/m3gaf3di)
 - [Alan Montgomery](https://github.com/alanmontgomery)
 - [Santu Dhali](https://github.com/santu-dhali): just checking how to contribute in open source.
 - [Jenna Huang](https://github.com/Episkey0109)
