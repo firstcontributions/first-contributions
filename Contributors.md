@@ -365,6 +365,7 @@ Yulia Lantzberg
 - Rohit Rawat
 - franroyoo
 - Ananthakrishna K
+- [Shivam SL](https://github.com/ShivamSV1)**:)**
 - [Maggie Chua](https://github.com/maggiechua) **<3**
 - [Kriti Raj](https://github.com/kriti-raj)
 - [Keith Obando](https://github.com/17Keith)
