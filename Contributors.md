@@ -6880,6 +6880,7 @@ https://github.com/06Gagan
 - [Vince2626](https://github.com/Vince2626) **2024/07/22 Time to start a contribute!**
 -[Sean McKee](https://github.com/seanmckee) **2024/07/15 My First Open source contribution.**  
 - [jinwoole](https://github.com/seanmckee) **first contribution, from 42**  
+- [JSLEE](https://github.com/JSLEE753) **Hello! My first contribution!**
 - [superworld] (https://github.com/whosetagdotzip) **superworld was one of the usernames i used in a website i still dont remember the name of**
 -[Nguyen Duc](https://github.com/duckmkl/) **first commit**
 -[sajan karki] **This is my first contribution as a developer** (https://github.com/sajjankarki18)
