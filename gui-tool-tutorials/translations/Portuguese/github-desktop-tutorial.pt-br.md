@@ -14,7 +14,7 @@ Ler artigos e ver tutoriais pode ajudar, mas o que é melhor do que realmente p�
 
 Se você nao tem o Github desktop na sua máquina, [instale aqui](https://desktop.github.com/).
 
-Se você está usando uma versão do Github desktop antes da 1.0, [consulte este tutorial](github-desktop-old-version-tutorial.md).
+Se você está usando uma versão do Github desktop antes da 1.0, [consulte este tutorial](/gui-tool-tutorials/github-desktop-old-version-tutorial.md).
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/fork.png" alt="fork este repositório" />
 
@@ -111,7 +111,7 @@ Comemore sua contribuição e compartilhe com seus amigos e seguidores acessando
 
 Você pode entrar na nossa equipe no Slack caso precise de alguma ajuda ou tenha alguma dúvida. [Entre no Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-### [Material adicional](../additional-material/git_workflow_senarios/additional-material.md)
+### [Material adicional](/additional-material/translations/Portuguese/additional-material.pt-br.md)
 
 ## Tutoriais usando outras ferramentas
 
