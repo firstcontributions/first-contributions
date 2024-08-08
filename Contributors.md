@@ -1,4 +1,5 @@
 # Contributors
+- [The Wandering Trader](https://github.com/thewanderingtraderm) **i made this contribution with only using the github webite**
 - [Brother-Rabbit](https://github.com/brotherrabbit91) **Open Source Contribution.**
 - [Utkarsh Kushwaha](https://github.com/theutkarshdev) **First open source contribution.**
 - [Almoiz khan](https://github.com/moiz2405) **Made First Open Source Contribution**
