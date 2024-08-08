@@ -111,6 +111,7 @@ Elisheva R
 - [Yaseen Halabi](https://github.com/yaseenhalabi) **I'm him**
 - [Yusif Elkamshushi](https://github.com/elkamshushi) **ezpz + He is not him**
 - [mbsev] **Lets gooo**
+- [Shashidhar Sripada](https://github.com/mrrobot1795) **welcome to fsociety**
 - [Denis Pianelli](https://github.com/denispianelli) **My first step into the world of open source.**
 - [Ahmad Fayyaz](https://github.com/ahmad-fayyaz) **fr fr**
 - [Tarunvamsi](https://github.com/Tarunvamsi) **Contributed to open source for the first time. It's a great learning experience!**
