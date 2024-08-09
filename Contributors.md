@@ -986,6 +986,7 @@ vrushabhpatil48
 - Siddhesh Sawant
 - Gaurav Ghidiyal **Trying new things**
 - Nivesh kumar(https://github.com/Nivesh12345)
+- [Romão Souza](https://github.com/romaogs) **First Contribution!**
 - [Isaac Larrubia](https://github.com/isaaclarrubia)
 - [Gabriel Dias](https://github.com/Gab0885) **First Contribution 😎👍**
 - [Caique Pereira Costa](https://https://github.com/caiquepc07) **Primeira**
