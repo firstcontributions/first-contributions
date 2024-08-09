@@ -876,6 +876,7 @@ Esta es mi primera contribucion por parte de la URC
 -irvincardoza
 - [Mohan vamsi B](https://github.com/mohanvamsi04) **Hello First Time Contributors!**
 - [Rubin R] (https://github.com/rubin-r12) **My first contribution to Open Source!**
+- [shimzini](https://github.com/shimzini)
 - [Treasure Okafor](https://github.com/Teekafey) - My first contribution 
 yumi-kim-0827
  - [Kiran Kulkarni]
