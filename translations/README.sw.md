@@ -6,9 +6,9 @@
 
 # Mchango wa kwanza
 
-Ni vigumu. Mara zote ni vigumu kufanya kitu kwa mara ya kwanza. Hasa hasa kama unashirikiana na wengine, kufanya makosa sio jambo la kushangaza. Tulitaka kurahisisha namna ambavyo wachangiaji wapya wa mifumo ya wazi wanavyojifunza na kuchangia kwa mara ya kwanza.
+Ni vigumu. Mara zote ni vigumu kufanya kitu kwa mara ya kwanza. Hasa kama unashirikiana na wengine, kufanya makosa sio jambo la kushangaza. Tulitaka kurahisisha namna ambavyo wachangiaji wapya wa mifumo ya wazi wanavyojifunza na kuchangia kwa mara ya kwanza.
 
-Kusoma makala na kuangalia mafunzo ya video yaweza kusaidia, Lakini ni jambo lipi bora zaidi kuliko kufanya kwa vitendo katika mazingira ya kujifunzia? Mradi huu unalenga kutoa mwongozo na kurahisisha namna ambavyo wachangiaji wapya wanavyoweza kuchangia kwa mara ya kwanza. Ikiwa unataka kuchangia kwa mara ya kwanza , fuata hatua zifuatazo.
+Kusoma makala na kuangalia mafunzo ya video yaweza kusaidia, lakini ni jambo lipi bora zaidi kuliko kufanya kwa vitendo katika mazingira ya kujifunzia? Mradi huu unalenga kutoa mwongozo na kurahisisha namna ambavyo wachangiaji wapya wanavyoweza kuchangia kwa mara ya kwanza. Ikiwa unataka kuchangia kwa mara ya kwanza , fuata hatua zifuatazo.
 
 #### *Kama haujazoea kutumia 'command line', [waweza kutumia GUI.](#Makala ya namna ya kutumia nyenzo nyingine)*
 
@@ -19,7 +19,7 @@ Kama hauna git kwenye kompyuta yako, [pakua](https://help.github.com/articles/se
 ## Tengeneza nakala ya repository kwenye akaunti yako ya Github
 
 'Fork' repository hii kwa kubonyeza kitufe kilichopo juu ya ukurasa huu
-Kwa kufanya hivyo nakala ya repository hii itatengenezwa kwenye akaunti yako.
+Kwa kufanya hivyo nakala ya repository hii itatengenezwa kwenye akaunti yako ya Github.
 
 ## Tengeneza nakala ya repository kwenye kompyuta yako
 
@@ -27,10 +27,10 @@ Kwa kufanya hivyo nakala ya repository hii itatengenezwa kwenye akaunti yako.
 
 Sasa clone repository kwenye kompyuta yako. Nenda kwenye akaunti yako ya Github bonyeza kitufe kilichoandikwa clone na baada ya hapo bonyeza kitufe kilichoandikwa *copy to clipboard* icon.
 
-Fungua terminal kwenye kompyuta yako na weka command ifuatayo:
+Fungua terminal >_ kwenye kompyuta yako kisha command ifuatayo:
 
 ```
-git clone "url uliyo nakili github"
+git clone "url-uliyo-nakili-github"
 ```
 
 url hiyo inapatikana kwenye hatua ya ku clone, hakikisha unaondoa fungua semi na funga semi.
@@ -69,7 +69,7 @@ git checkout -b add-luke-oliff
 
 ## Fanya mabadiliko na baada ya hapo commit:
 
-Sasa fungua faili linaloitwa Contributors.md`, Andika jina lako. Usiweke jina lako mwanzoni au mwishoni mwa faili. Weka sehemu yoyote katikati. Baada ya hapo save faili.
+Sasa fungua faili linaloitwa `Contributors.md`, Andika jina lako. Usiweke jina lako mwanzoni au mwishoni mwa faili. Weka sehemu yoyote katikati. Baada ya hapo save faili.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
