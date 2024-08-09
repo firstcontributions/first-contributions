@@ -1,4 +1,3 @@
-Here is the provided content translated into Kannada:
 
 ---
 
