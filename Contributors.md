@@ -1,5 +1,7 @@
 # Contributors
 - [The Wandering Trader](https://github.com/thewanderingtraderm) **i made this contribution with only using the github webite**
+
+- [mr.mister](https://github.com/mysteriousman) **My first contribution**
 - [Brother-Rabbit](https://github.com/brotherrabbit91) **Open Source Contribution.**
 - [Utkarsh Kushwaha](https://github.com/theutkarshdev) **First open source contribution.**
 - [Almoiz khan](https://github.com/moiz2405) **Made First Open Source Contribution**
@@ -29,6 +31,7 @@
 - [Trupti Khodwe](https://github.com/truptikhodwe)
 - [Wonseok] (https://github.com/SadDONUT1/)
 - [Lucky Samuel](https://github.com/alchemistlowkey)
+
 - [Juan Manuel Avila Perez](https://github.com/JuanAvilaOficial)
 - [Juan Alvarado](https://github.com/JuanAlvarado305)
 - [Jaswanth Damarla](https://github.com/jaswanth-damarla)
