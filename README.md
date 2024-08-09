@@ -141,6 +141,20 @@ For example:
 git switch -c add-alonzo-church
 ```
 
+> Create a branch name that doesn't contain special characters, as these need to be escaped. 
+> 
+> A safe default set of characters to use for branch names is:
+>
+> -   The English alphabet (`a` to `z` and `A` to `Z`)
+> -   Numbers (`0` to `9`)
+> -   A limited set of punctuation characters:
+>     -   period (`.`)
+>     -   hyphen (`-`)
+>     -   underscore (`_`)
+>     -   forward slash (`/`)
+>
+> To avoid confusion, you should start branch names with a letter.
+
 ## Make necessary changes and commit those changes
 
 Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
