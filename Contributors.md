@@ -247,6 +247,7 @@ Rudraksh Upadhyay- learing to contribute in open source projects
 -[Romaric Tokpa](https://github.com/Tokpawood) **Hi, this is my first contribution. I am open**
 -[Kaustubh Warme](https://github.com/siddharth-123) **Hi My name is Kaustubh Warme. This is my first github contribution**
 -[Roshan Kumar ](https://github.com/roshankrr) **Hi My name is Roshan Kumar. This is my first github contribution**
+- [Dominic De La Cerda](https://github.com/Domdelacerda) **First contribution, glad to be a part of such a talented and supportive community**
 -[Burak Anil Cila](https://github.com/bcila) **Every line of code is a blend of imagination and logic; every algorithm we write to solve problems is a step shaping the future 🌟**
 -[Andres Fernandez](https://github.com/andresdanfernandez) **My first contribution to open source! **
 -[Nishant Choudhary](https://github.com/nishant998) **Hi this is my first contribution on github**
