@@ -136,6 +136,7 @@ Elisheva R
 - [Lu-Akira](https://github.com/Lu-Akira) **Life is short, blame jungler and move on**
 - [Piotr Daniel](https://github.com/pino888) **There's a first time for everything!**
 - [Julius Pascual](https://github.com/JProfessor) **OLFU Antipolo Graduate 2024!** 
+- [Seiji Ueno] **I'm Here**
 -[Thiago Queiroz](https://github.com/thiagoqueiroz97) **Re-learning the ropes!** 
 -[Brian Caldera](https://github.com/briancaldera)  **Long live OSS!**
 ### Paul Quito
