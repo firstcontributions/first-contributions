@@ -349,6 +349,7 @@ Yulia Lantzberg
 - [Kira](https://github.com/KiraTheComputer) **Hiiii :3333**
 -[Mutsa Murapa](https://github.com/mue864)
 - [Edwin Parejas](https://github.com/edwinparejas) **Testing my contribution on GitHub!**
+-[Meet Dawda](https://github.com/meet-Dawda) **AI, Ml Enthusiast 🍃**
 -[daniela](https://github.com/dggtn9) **Testing my contribution on GitHub!**
 - [Nguyen Huu Thien](https://github.com/thiennh23) **To Infinity and Beyond!🤠**
 - [Tien Dat Pham](https://github.com/datpham0412) **My first contribution to open source on Github!**
