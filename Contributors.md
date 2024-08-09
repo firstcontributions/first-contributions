@@ -549,6 +549,7 @@ mh
 - [Michael Shiferaw] (https://github.com/mickshiferaw)
 - [Richard G `<RixDev/>`](https://github.com/RixCrafts) *Code is coming . . .*
 - [Dan Gunter] learning how I can contribute
+- [Natsume Neko](https://github.com/Natsume-Neko) **This is my first contribution!**
 - [Ayala Kirshboim](https://github.com/ayala-mangel) Hi! **It's My first open source contribution!!** [Linkedin](https://www.linkedin.com/in/ayala-kirshboim/)
  [PEP] (https://github.com/Piangpi12345)
 - [Lawior]
