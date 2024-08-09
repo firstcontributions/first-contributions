@@ -48,6 +48,7 @@
 - [Hanzel Godinez](https://github.com/hgodinez89) **First open source contribution!**
 - [Sridevi Shankar](https://github.com/srii5477) **Web and app developer, trying out open source contribution for the first time**
 - [webscriptmaster](https://github.com/webscriptmaster) **web and blockchain developer with a strong work ethic**
+- [Talha Arfan](https://github.com/talha6663) **My First open source contribution in some project!**
 - [Siniade](https://github.com/Siniade) **First open source contribution!**
 - [Mahumitha-b](https://github.com/madhumitha-b)
 - [MaksStuff](https://github.com/MaksStuff) **The first step into a career**
