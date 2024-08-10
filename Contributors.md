@@ -8,6 +8,7 @@
 - [Almoiz khan](https://github.com/moiz2405) **Made First Open Source Contribution**
 - [Hamilcer](https://github.com/Hamilcer) **Let's do it**  
 - [Aditya Pandey](https://github.com/adityapandey78)
+- [Raphael Adesegun](https://github.com/TheInvincibleRalph) **Hi, Go is my love language. Glad to be making my first ever contribution!
 - [Rameel Haroon](https://github.com/RameelHaroon) **UwU**
 - [Saad Sohail] (https://github.com/Xaad989) **My first contribution!!**
 - [Kosi Chima] (https://github.com/cozyDevs) **Contributed!!**
