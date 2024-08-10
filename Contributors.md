@@ -159,6 +159,7 @@ PABLO MOLINA NEIRA EL DANDY
 -[Rabiya Nadeem](https://github.com/RabiyaNadeem22) **First Contribution**
 -[Karan Sewa]()
 - [Rahul Verma](https://github.com/rahuwul) **23-07-2024: woah there are too many people here lessgo**
+- [Noah Tibben-Lembke](https://github.com/ntibbenlembke) **10-08-2024 first open source contribution!**
 Vishal Gupta
 - [Kaleb Fenley](https://github.com/KalebFenley) **7/21/24**
 - [Aman ] (https://github.com/aizwal9) **7/28/24 bininging of the end**
