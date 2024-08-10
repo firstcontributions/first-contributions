@@ -96,14 +96,14 @@
 -   [Jai Maini](https://github.com/MaxTGM) **This is so cool 🐳** -[Muhammad Fawwaz](https://github.com/FawwazRaza)**Hi!**
 -   [nahowo](https://github.com/nahowo) **Hello!**
 -   [wal-058](https://github.com/wal-058) **Can't believe it took me this long to start with OSS. Hi, I'm Waleed. Hopefully you are doing well, fellow coder, whoever and whereever you may be :D**
-    Elisheva R -[Aman Jha](https://github.com/i-aman-jha/) ********\_\_******This is my first Contribution****\_\_****** -[Avinash KT]\***\*Excited ******\*\*\*********
+    Elisheva R -[Aman Jha](https://github.com/i-aman-jha/) **\*\*\*\***\_\_**\*\***This is my first Contribution\***\*\_\_\*\*\*\*** -[Avinash KT]\***\*Excited \*\*\*\***\*\*\***\*\*\*\***
 -   [Kushal Khivasara](https://github.com/its-kushal) **He contributed to this project**
 -   [rpatel1605](https://github.com/rpatel1605) **Newly contributed** -[PrabhatGhimire](https://github.com/PrabhatGhm7)**Tutorial on contribution** -[Shakir Bakare](https://github.com/shakirbakare) **Hello world! Peace be upon you!**
 -   [Ivan Marinov](https://github.com/IvanM-19)
 -   [Shreyank Gopal](https://github.com/ShreyankGopal/first-contributions)
 -   [Mohamed Essam](https://github.com/mohamed-official) **First try!**
 -   [Arbaz Ahmad](https://github.com/arbaz686) **if i can do it, u can also do it!**
--   [Prakash Rawat](https://github.com/PrakashSinghRawat-git) **First step towards open source contribution**
+-   [Prakash Rawat](https://github.com/PrakashSinghRawat-git) **My First step towards open source contribution**
 -   [Lautaro Skarkloff](https://github.com/skarkloff) **Linux OpenSource**
 -   [Elyas Shamal](https://github.com/ElyasShamal) **let's give it a shot!**
 -   [Lucky Mathias Kispotta](https://github.com/YOmaann) **Lesssgooo 🔥**
@@ -117,7 +117,7 @@
 -   [Niall Geoghegan](https://github.com/nealgoogs)**Let's try this**
 -   [Kayla Moorcroft](https://github.com/kaylamoorcroft)**Trying something new. Hoping to contribute more to the community**
 -   [Patrick maged](https://github.com/Patrick-maged) **let's give it a shot!!**
--   [Arpit Sachan](https://github.com/arpitsachan5/) ********\_\_******This is my first Contribution****\_\_******
+-   [Arpit Sachan](https://github.com/arpitsachan5/) **\*\*\*\***\_\_**\*\***This is my first Contribution\***\*\_\_\*\*\*\***
 -   [Meywy](https://github.com/Meywy) **Lets, btw there are so many people :D**
 -   [Moin Khan](https://github.com/Moink25) **My first open-source contribution**
 -   [Mark Mburu](https://github.com/MarkMburu) **Hello open-source!**
@@ -727,7 +727,7 @@
 -   Anirudh(https://github.com/panipurimasala/)**Building stuff\*\*
 -   Habibullahi Mohammed(https://github.com/habibullaimohammed) **Lovely repo**
 -   Min Thant Kyaw (https://github.com/mintechkyaw)
--   Abhilash ****for my friend****
+-   Abhilash \***\*for my friend\*\***
 -   Mahima Uliyar (https://github.com/mahimu04)
 -   [HemalTharakaeEranga](https://github.com/HemalTharakaeEranga) **Ayubowan...! I'm Hemal, Do you know about my strengths, if you don't know please still be with me. Change the World.🦁😍😇**
 -   [Bhukya-Sriram] (https://github.com/Bhukya-Sriram) **role_of_smile**
