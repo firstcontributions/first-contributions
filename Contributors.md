@@ -7039,6 +7039,7 @@ vivek saskar
 - [Asim Naseer](https://github.com/awsimness) **The start of my voyage on 5th August 2024**
 - [Bryan Alvarez](https://github.com/bry4n-lvz) **Glad to be part of this :>. Its 08/08/2024!**
 - [Arpit Paliwal](https://github.com/Arpit-paliwal555) **First Contribution on 5th August 2024 18:43 IST**
+- [red3blue](https://github.com/red3blue) **Hello World!. This is my first contribution :D**
 - [unKnown_NG](https://github.com/unKnownNG) **My first open source contribution!**
 - [lai dudum](https://github.com/laidudum) **my first ever open-source contribution**
 - [Tarun Sharma](https://github.com/tarunsharmawee)**My first contribution**
