@@ -4,7 +4,8 @@
 - [Brother-Rabbit](https://github.com/brotherrabbit91) **Open Source Contribution.**
 - [Utkarsh Kushwaha](https://github.com/theutkarshdev) **First open source contribution.**
 - [Almoiz khan](https://github.com/moiz2405) **Made First Open Source Contribution**
-- [Hamilcer](https://github.com/Hamilcer) **Let's do it**
+- [Hamilcer](https://github.com/Hamilcer) **Let's do it**  
+- [Aditya Pandey](https://github.com/adityapandey78)
 - [Rameel Haroon](https://github.com/RameelHaroon) **UwU**
 - [Saad Sohail] (https://github.com/Xaad989) **My first contribution!!**
 - [Manda Kausthubh](https://github.com/MandaKausthubh) **Manda Kausthubh's SE_Lab1 contribution**
