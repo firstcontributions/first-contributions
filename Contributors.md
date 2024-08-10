@@ -5137,6 +5137,7 @@ sh5ed
 - [shinpy](https://github.com/shinyshinpy)
 - [Andres Hernandez](https://github.com/andresFHM)
 - [Arbenis Acosta](https://github.com/ArbenisAcosta)
+- [Suren Maharjan](https://github.com/maharjansuren37)
 - [Qi Li](https://github.com/ordinarylq)
 - [Cranwi](https://github.com/cranwi) I don't know what I'm doing
 - [Aman Path](https://github.com/AmanPathan)
