@@ -3680,6 +3680,7 @@ Gyanendra Thakur
 - [Bryson Morton] (https://github.com/bryson-morton)
 - Bhavya Singla
 - Gabriele Agosta
+- Kalhara Batangala (https://github.com/KalharaBatangala)
 - [Ricardo Gomes](https://github.com/ricardogomes)
 - [Max]
 - [Jon Gumero](https://github.com/jongumero)
