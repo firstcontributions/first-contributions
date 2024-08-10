@@ -1,9 +1,9 @@
-#प्रथम
 
-[![मुक्त स्रोत प्रेम](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/join-slack-team.png">] (https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MxDzmgzNzMgzNZKZYTQ lMDM)
-[![परवाना: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/ licenses/MIT)
-[![मुक्त स्रोत मदतनीस](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
+
 
 # प्रथम योगदान
 
@@ -23,9 +23,9 @@
 
 त्यानंतर, आम्हाला CLI वर लॉग इन करणे आवश्यक आहे, म्हणून ही आज्ञा प्रविष्ट करा:
 
-`bash
+```bash
 gh auth login
-`
+```
 
 सूचनांचे अनुसरण करा आणि आम्ही तयार आहोत!
 
@@ -33,9 +33,9 @@ gh auth login
 
 ही कमांड चालवणे तितकेच सोपे आहे:
 
-`bash
+```bash
 gh repo fork firstcontributions/first-contributions
-`
+```
 
 **महत्त्वाचे: तुम्हाला हे देखील क्लोन करायचे असल्यास ते तुम्हाला सूचित करेल, "होय" निवडा**
 
@@ -43,37 +43,37 @@ gh repo fork firstcontributions/first-contributions
 
 आम्ही ही पायरी `git` सह करू, म्हणून ही आज्ञा तुमच्या नावाने पुनर्नामित करून प्रविष्ट करा, उदाहरणार्थ:
 
-`bash
+```bash
 git switch -c add-जॉन-डूई
-`
+```
 
 # आवश्यक बदल करा आणि ते बदल `किट` करा
 
 आता तुम्ही मजकूर संपादकामध्ये `Contributors.md` फाईल उघडू शकता आणि त्यात तुमचे नाव जोडू शकता. तुमचे नाव सुरुवातीपासून शेवटच्या दरम्यान कुठेही ठेवा, नंतर फाइल सेव्ह करा.
 
-प्रोजेक्ट डिरेक्टरीमध्ये 'गिट स्टेटस' कार्यान्वित करा आणि तुम्हाला बदल दिसतील.
-![image-git](https://camo.githubusercontent.com/a35c4722d7aab337eefc655d1488f7b4dc038508e6adaf5e88e2e052a976f010/6874747076f010/6874747026747474763f26763f266734267374263738 9627574 696f6e732e6769746875622e696f2f6173736574732f526561646d652f6769742d7374617475732e706e67)
+प्रोजेक्ट डिरेक्टरीमध्ये `git status` कार्यान्वित करा आणि तुम्हाला बदल दिसतील.
+
 
 ते बदल तुम्ही 'git add' कमांड वापरून तयार केलेल्या शाखेत जोडा:
 `git add contributors.md`
 
-आता ते बदल `git कमिट` कमांड वापरून करा: `git कमिट -m "कंट्रिब्युटर लिस्टमध्ये तुमचे-नाव जोडा` तुमच्या नावाने `your-name` बदला.
+आता ते बदल `git कमिट` कमांड वापरून करा: `git commit -m "Add your-name to Contributors list` तुमच्या नावाने `your-name` बदला.
 
 # Github मध्ये बदल पुश करा
 
 'git push' कमांड वापरून तुमचे बदल पुश करा:
 
-``bash
+```bash
 git push origin -u your-branch-name
-`
+```
 
 तुम्ही आधी तयार केलेल्या शाखेच्या नावाने `your-branch-name` बदला.
 
 <details><summary> <strong>पुश करताना तुम्हाला काही त्रुटी आढळल्यास, येथे क्लिक करा:</strong></summary></details>
 
 - ### प्रमाणीकरण त्रुटी
-  रिमोट: 13 ऑगस्ट 2021 रोजी पासवर्ड ऑथेंटिकेशनसाठी सपोर्ट काढून टाकण्यात आला. कृपया त्याऐवजी वैयक्तिक प्रवेश टोकन वापरा. रिमोट: अधिक माहितीसाठी कृपया https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ पहा. घातक: 'https://github.com//first-contrib.git/' साठी प्रमाणीकरण अयशस्वी
-  [तुमच्या खात्यासाठी एसएसएच की तयार आणि कॉन्फिगर करण्यावर गिटहबचे ट्यूटोरियल](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key -to -your-github-खाते).
+        रिमोट: 13 ऑगस्ट 2021 रोजी पासवर्ड ऑथेंटिकेशनसाठी सपोर्ट काढून टाकण्यात आला. कृपया त्याऐवजी वैयक्तिक प्रवेश टोकन वापरा. रिमोट: अधिक माहितीसाठी कृपया https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ पहा. घातक: 'https://github.com//first-contrib.git/' साठी प्रमाणीकरण अयशस्वी
+  [तुमच्या खात्यासाठी एसएसएच की तयार आणि कॉन्फिगर करण्यावर गिटहबचे ट्यूटोरियल](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
 
 # तुमचे बदल पुनरावलोकनासाठी सबमिट करा
 
