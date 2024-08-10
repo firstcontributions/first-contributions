@@ -5516,7 +5516,7 @@ LadegbayeStella)
 - [kich-ryo](https://github.com/kich-ryo)
 - [Akbar Khotamov] (https://github.com/kingoker)
 - [Anna Muse] (https://github.com/anna-muse)
-
+- [Mario Alberto Triana Aguilar] (https://github.com/mariotriana) **Hi, this is my first contribution!**
 - [James M-staxxtec] (https://github.com/staxxtec)
 - [tomato]
 - [Michael Thompson] (https://github.com/mctworks)
