@@ -33,6 +33,7 @@
 - [Sasha Kenta Quinnn](https://github.com/quinn-sasha) **I want contribute to oss for better world!**
 -[NoorUlAin] (https://github.com/Noor508) **My first open source contributions**
 - [Trupti Khodwe](https://github.com/truptikhodwe)
+- [Vinicius Wessner 🇧🇷](https://github.com/ViniciusWessner)
 - [Wonseok] (https://github.com/SadDONUT1/)
 - [Lucky Samuel](https://github.com/alchemistlowkey)
 - [Juan Manuel Avila Perez](https://github.com/JuanAvilaOficial)
