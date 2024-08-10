@@ -169,7 +169,7 @@ Swapnonil Mitra
 Rudraksh Upadhyay- learing to contribute in open source projects
 -[Prabhat Ghimire] **grinding my way**
 - [Michael Callahan] **hello**
-- [Kanhav Vohra] **First Contribution
+- [Kanhav Vohra] **First Contribution**
 -[Aksal Abiahta T](https://github.com/aksalatdev)**Hello From Indonesia**
 -[Ayman Badouzi](https://github.com/itzAymvn)
 -[Khushi Rani](https://github.com/KhushiRani007)
