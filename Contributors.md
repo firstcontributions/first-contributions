@@ -1741,6 +1741,7 @@ Abhinav Jain
 - [Saurabh Garg](https://github.com/SaurabhGarg6174)
 - [Wardah Khan](https://github.com/Wardahk98)
 - [hanacele] (https://github.com/hanacele)
+- [Tejas V](https://github.com/iamtejasv)
 - [ZS Span](https://github.com/zsspan)
 - [Znods](https://github.com/Znods) :3
 - [Karla Esquivel](https://github.com/karlycaramelo)
