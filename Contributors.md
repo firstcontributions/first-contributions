@@ -46,6 +46,7 @@
 - [Leonardo Ramos](https://github.com/leoferamos)
 - [Caleb Anderson](https://github.com/Canderson0115) **Amogus**
 - [Preeti Khamkar](https://github.com/p0203k)
+- [Srinidhi P Rao] (https://github.com/SrinidhiPRao) **First open source contributions of many more to come.**
 - [Umer Amjad](https://github.com/umer-amjad) **To try to make a difference...**
 - [Neha Jaladi] (https://github.com/nehajaladi) **Try, fail, Try again, succeed**
 - [Vaibhav Gangurde](https://github.com/Vaibhavsg17) **Thrilled to make my first contribution to open source!**
