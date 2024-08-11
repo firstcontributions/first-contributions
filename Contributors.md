@@ -59,6 +59,7 @@
 - [Samantha Adams](https://github.com/honeydewdrop) **Did personal project, now first contribution. Yippee!**
 - [Hanzel Godinez](https://github.com/hgodinez89) **First open source contribution!**
 - [Nishant Das](https://github.com/nishantdas16) **First contribution**
+- [Zabiullah Shukrulla](https://github.com/zabiullahss) **First contribution, more to come**
 - [Sridevi Shankar](https://github.com/srii5477) **Web and app developer, trying out open source contribution for the first time**
 - [webscriptmaster](https://github.com/webscriptmaster) **web and blockchain developer with a strong work ethic**
 - [Talha Arfan](https://github.com/talha6663) **My First open source contribution in some project!**
