@@ -1054,6 +1054,7 @@ vrushabhpatil48
 - [Wisdom Ofogba](https://github.com/WisdomOfogba)
 - [Kaede Nakayashiki](https://github.com/naka520)
 - [Gunju Yoo](https://github.com/bakgom123)
+- [Seyyed Amirreza Hosseini](https://github.com/seyyed-amirreza-hosseini/)
 - [HenryD11703](https://github.com/HenryD11703)
 - [YeThihaMyoLwin](https://github.com/yethihamyolwin)
 - [nyangoto](https://github.com/nyangoto) **First OSS contribution**
