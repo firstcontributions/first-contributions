@@ -7087,3 +7087,4 @@ vivek saskar
 - [hubtanakas](https://github.com/hubtanaka) **My first contribution to an open source project**
 - [M Abrar](https://github.com/abrarishere) **My first contribution**
 - [MayvenF](https://github.com/MayvenF) **Excited to contribute!!**
+- [Ashutosh Singh](https://github.com/codeaashu) **Just putting my name here**
