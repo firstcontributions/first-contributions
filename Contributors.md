@@ -232,6 +232,7 @@ Rudraksh Upadhyay- learing to contribute in open source projects
 - Alan Lucas De Souza
 - malka
 - Ananthakrishna K
+- Anton
 - [Subham Agarwala](https://github.com/subham-agarwal05)
 - [Krithik Ravindran](https://github.com/krithikravi) **First of many hopefully**
 - Asyraf Zaid first contribution on GitHub [Hi developers!]
