@@ -13,6 +13,7 @@
 - [Aditya Pandey](https://github.com/adityapandey78)
 - [Raphael Adesegun](https://github.com/TheInvincibleRalph) **Hi, Go is my love language. Glad to be making my first ever contribution!
 - [Rameel Haroon](https://github.com/RameelHaroon) **UwU**
+- [Vasley Mus](https://github.com/vasleymus) **My first open source contribution**
 - [Saad Sohail] (https://github.com/Xaad989) **My first contribution!!**
 - [Kosi Chima] (https://github.com/cozyDevs) **Contributed!!**
 - [Manda Kausthubh](https://github.com/MandaKausthubh) **Manda Kausthubh's SE_Lab1 contribution**
