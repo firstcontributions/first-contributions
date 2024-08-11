@@ -2583,6 +2583,7 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
 - [Kashishkumar Shah](https://github.com/shahkashish)
 - [Cynthia Aoko](https://github.com/aoko-code)
 - [Jordan Fable](https://github.com/RimuruWasTaken9)
+- [Edoardo Rosiello](https://github.com/EdoRosDev) **To anyone reading this, you are important!**
 - [Fatemeh Salehi](https://github.com/fnysalehi)
 - [Cramer Tim](https://github.com/cramertim)
 -[Avinash verma](https://github.com/nkvavinash)
