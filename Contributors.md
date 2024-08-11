@@ -346,6 +346,7 @@ Yulia Lantzberg
 -[Bogi] **Simple and Easy :D**
 -[Varun] **Hi there :D**
 -[s0lder] ** <3 open source **
+-[Nastia Bigun] (https://github.com/inastia) **My first contribution to open source**
 -Syed Suleman
 -Samir Almeida
 -Shereyar Ali (Shits Tough But Fun)
