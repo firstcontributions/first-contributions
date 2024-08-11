@@ -1,4 +1,4 @@
-# Contributors
+Contributors
 - [isidro rivera](https://github.com/lyrics05) **This is my first contribution**
 - [Vijay Raj](https://github.com/V1j4YRaj) **This is my first contribution**
 - [The Wandering Trader](https://github.com/thewanderingtraderm) **i made this contribution with only using the github webite**
@@ -7080,6 +7080,7 @@ vivek saskar
 - [Dennis Polukaroff](https://github.com/denderange)
 - My first comment to open sourc - Pradeep
 - [Shuji Ochi](https://github.com/OchiShuji)
+- [Chris Hunt](https://github.com/CHRISDWHUNT) **My first contributions to open source**
 - [Amiya Piyush1](https://github.com/AmiyaPiyush1) **My first Contribution**
 - [hubtanakas](https://github.com/hubtanaka) **My first contribution to an open source project**
 - [M Abrar](https://github.com/abrarishere) **My first contribution**
