@@ -1,4 +1,5 @@
 # Contributors
+-[Adithya R]{https://github.com/Adithya-R-Gowda} "This is my First Contribution"
 - [@venelouis](https://github.com/venelouis) **Contributing!**
 - [RakulAgn](https://github.com/RakulAgn) **This is My First Contribution**
 - [isidro rivera](https://github.com/lyrics05) **This is my first contribution**
