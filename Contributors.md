@@ -1,5 +1,6 @@
 # Contributors
 - [crabCatcher0](https://github.com/crabcatcher0/) **Learning**
+- [Prathamesh Shinde](https://github.com/prathamesh901) **My first contribution!!**
 - [Aung Nanda Oo] (https://github.com/NikkiAung) 🇲🇲 **Excited to contribute many more after this one** 
 Zhiyuan Zhao
 - piyush malik
@@ -119,7 +120,8 @@ Swapnonil Mitra
 -[Chetna Sharma](https://github.com/chetna0610)
 - [Alan Sosa](https://github.com/Alsosa) **My first contribution**
 - [Ansh Bansal](https://github.com/Anshhb) **Lets get Started!!**
-- [Prathamesh Shinde](https://github.com/prathamesh901) **My first contribution!!**
+- [Prathamesh Shinde](https://github.com/Alsosa) **My first contribution!**
+
 - [Oliver Lowe](C:\Users\Olive\Documents\FirstGitHub\first-contributions>) **This is my first commit**
 - [Jay Valiaya](https://github.com/jayvaliya) **My firse contribution to open source 🎉**
 -[Malav Lakhani](https://github.com/Malav-DPC) **Hi!, My name is Malav Lakhani. This is my first github contribution**
