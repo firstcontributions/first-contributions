@@ -6,6 +6,7 @@
 - [theC0ding](https://github.com/theC0ding) **Like Nemesis, I rise not for revenge, but to prove that I was always capable of standing on my own.**
 - [Scarlett Lim]
 - [Neha Kumari](https://github.com/Nkovaturient) **Dive into Open Source (Adventure)Contribution**
+- [Reshmail Fatima](https://github.com/reshmailfatima) **Hi, Everyone..This is my first open source contribution.Let's do it**
 - [Saatwik55](https://github.com/Saatwik55) **One step at a time!**
 - [Brother-Rabbit](https://github.com/brotherrabbit91) **Open Source Contribution.**
 - [Utkarsh Kushwaha](https://github.com/theutkarshdev) **First open source contribution.**
@@ -115,7 +116,6 @@ Zhiyuan Zhao
 - [Jai Maini](https://github.com/MaxTGM) **This is so cool 🐳**
 -[Muhammad Fawwaz](https://github.com/FawwazRaza)**Hi!**
 - [nahowo](https://github.com/nahowo) **Hello!**
-- [Reshmail Fatima](https://github.com/reshmailfatima) **Hi, Everyone..This is my first open source contribution**
 - [wal-058](https://github.com/wal-058) **Can't believe it took me this long to start with OSS. Hi, I'm Waleed. Hopefully you are doing well, fellow coder, whoever and whereever you may be :D**
 Elisheva R
 -[Aman Jha](https://github.com/i-aman-jha/) **______________This is my first Contribution__________**
