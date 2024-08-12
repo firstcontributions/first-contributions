@@ -6727,6 +6727,7 @@ git stat
 - [Miguel Angel Ramirez](https://github.com/miguelangelxramirez)
 - [Huang Chao] (https://github.com/foraurorac)
 - [Rick Ning] (https://github.com/rick666666)
+- [Franco Joaquin, TORRES BELTRÁN](https://github.com/FrancoJoaquinTB)
 - [Donggyu] (https://github.com/ehdrb92)
 - [remo] (https://github.com/RemoTechDev)
 - [jilpoom] (https://github.com/jilpoom)
