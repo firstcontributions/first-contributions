@@ -12,6 +12,7 @@
 - [Reshmail Fatima](https://github.com/reshmailfatima) **Hi, Everyone..This is my first open source contribution.Let's do it**
 - [Saatwik55](https://github.com/Saatwik55) **One step at a time!**
 - [Brother-Rabbit](https://github.com/brotherrabbit91) **Open Source Contribution.**
+- [Faraz Naqshbandi](https://github.com/faraznaqshbandi04) **Do it one more time!!!**
 - [Utkarsh Kushwaha](https://github.com/theutkarshdev) **First open source contribution.**
 - [Almoiz khan](https://github.com/moiz2405) **Made First Open Source Contribution**
 - [Hamilcer](https://github.com/Hamilcer) **Let's do it**  
