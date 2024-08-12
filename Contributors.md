@@ -7111,3 +7111,5 @@ vivek saskar
 - [CodenTheSynth](https://github.com/CodenTheSynth) **Beep, My First Contribution!**
 - [Ivan Statkevich](https://github.com/mist941) **First open source contribution!**
 - [daisuke8000](https://github.com/daisuke8000) **First open source contribution!**
+- [Lokki68](https://github.com/Lokki68) ** First (but not the last) open source contribution! **
+
