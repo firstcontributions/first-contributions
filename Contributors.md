@@ -44,6 +44,7 @@
 - [Vinicius Wessner 🇧🇷](https://github.com/ViniciusWessner)
 - [Wonseok] (https://github.com/SadDONUT1/)
 - [Lucky Samuel](https://github.com/alchemistlowkey)
+- [Jaikrat Singh Tariyal](https://github.com/jaikratsinghtariyal)
 - [Juan Manuel Avila Perez](https://github.com/JuanAvilaOficial)
 - [Juan Alvarado](https://github.com/JuanAlvarado305)
 - [Jaswanth Damarla](https://github.com/jaswanth-damarla)
