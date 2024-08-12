@@ -24,6 +24,7 @@
 - [Vimal Vinod](https://github.com/dalekvim) **Vimal's First open source contribution!**
 - [Joosty](https://github.com/Joosty) **Hopefully the start of something big...**
 - [Aaron Mathew](https://github.com/Geeruz) **Contributing SOmething IG** 
+- [Agron Gojcaj](https://github.com/agron-gojcaj) **My first open source contribution!**
 - [Kristian Cifuentes](https://github.com/KristianC8) **First open source contribution**
 - [Ankush Kumar](https://github.com/Ankush7Kumar) **Gujjar of Panipat**
 - [Yan Naing Aung](https://github.com/yan-naing-a) **You know what? I'm sleepy right now.** 
