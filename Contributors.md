@@ -7102,6 +7102,7 @@ vivek saskar
 - My first comment to open sourc - Pradeep
 - [Shuji Ochi](https://github.com/OchiShuji)
 - [Amiya Piyush1](https://github.com/AmiyaPiyush1) **My first Contribution**
+- [Nizar Yassine](https://github.com/nyassine-git) **Glad to make my first contribution to an open source project!!**
 - [hubtanakas](https://github.com/hubtanaka) **My first contribution to an open source project**
 - [M Abrar](https://github.com/abrarishere) **My first contribution**
 - [MayvenF](https://github.com/MayvenF) **Excited to contribute!!**
