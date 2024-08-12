@@ -1822,6 +1822,7 @@ Abhinav Jain
 - [Ankit Saxena](https://github.com/ankit282k)
 - [Matt Palmer](https://github.com/this-is-matt)
 - [mr-xcode](https://github.com/mr-xcode)
+- [jshutone](https://github.com/jshutone)
 - [TKO(https://github.com/2-lazyyyy)
 - Aydhiny
 - Kaat
