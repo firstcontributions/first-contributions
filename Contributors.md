@@ -16,6 +16,7 @@
 - [Aditya Pandey](https://github.com/adityapandey78)
 - [Raphael Adesegun](https://github.com/TheInvincibleRalph) **Hi, Go is my love language. Glad to be making my first ever contribution!
 - [Rameel Haroon](https://github.com/RameelHaroon) **UwU**
+- [Orlandini Sebastien] (https://github.com/Orlandini-Sebastien) ** First contribution **
 - [Vasley Mus](https://github.com/vasleymus) **My first open source contribution**
 - [Saad Sohail] (https://github.com/Xaad989) **My first contribution!!**
 - [Kosi Chima] (https://github.com/cozyDevs) **Contributed!!**
@@ -7105,5 +7106,7 @@ vivek saskar
 - [Omotayo Iyiola](https://github.com/omotayoiyiola) **Excited to contribute!!!**
 - [Ashutosh Singh](https://github.com/codeaashu) **Just putting my name here**
 - [CodenTheSynth](https://github.com/CodenTheSynth) **Beep, My First Contribution!**
+
 - [Ivan Statkevich](https://github.com/mist941) **First open source contribution!**
 - [daisuke8000](https://github.com/daisuke8000) **First open source contribution!**
+
