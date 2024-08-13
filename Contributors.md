@@ -19,7 +19,8 @@ Ahmad
 - [Faraz Naqshbandi](https://github.com/faraznaqshbandi04) **Do it one more time!!!**
 - [Utkarsh Kushwaha](https://github.com/theutkarshdev) **First open source contribution.**
 - [Almoiz khan](https://github.com/moiz2405) **Made First Open Source Contribution**
-- [Hamilcer](https://github.com/Hamilcer) **Let's do it**  
+- [Hamilcer](https://github.com/Hamilcer) **Let's do it**
+- [Davidd0605](https://github.com/Davidd0605) **I wanna punch th guy who made js**
 - [Helter Jay] (https://github.com/HelterJay) **My first Contribution!**
 - [Aditya Pandey](https://github.com/adityapandey78)
 - [Raphael Adesegun](https://github.com/TheInvincibleRalph) **Hi, Go is my love language. Glad to be making my first ever contribution!
