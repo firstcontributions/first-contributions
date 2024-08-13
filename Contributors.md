@@ -3237,6 +3237,7 @@ Jasmine
 - [Sudhanshu Kumar Roy] (https://github.com/sudhanshu576)
 - [Rocio Gutierrez](https://github.com/rociogutz)
 - kennyoHai
+- [Nikki Barry](https://github.com/nikkibarry)
 - [wisdomWindy](https://github.com/wisdomWindy)
 - [Dacidev](https://github.com/dacidev)
 - [Akram Hany](https://github.com/akramhany)
