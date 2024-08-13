@@ -46,6 +46,7 @@ Ahmad
 - [Anudeep Rao Dugyala](https://github.com/agap-0251) **First open source contribution!**
 - [Lemuel Centina](https://github.com/whatataps123) **Lemuel's First open source contribution!**
 [Ullas G](https://github.com/Ullas-0-1/first-contributions)
+- [Aliya Tariq](https://github.com/Aliya-Tariq) **finally making the first open source contribution. The beginning of something NEW!.**
 - [Thanh Nguyen Duc](https://github.com/ducthanhnguyen95) **First open source contribution!**
 - [Bianca Iordache](https://bento.me/biordache)
 - [Harshit Sharma](https://github.com/harshitsharma-dev) **Work to Learn**
