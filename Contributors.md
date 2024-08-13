@@ -27,6 +27,7 @@ Ahmad
 - [Rameel Haroon](https://github.com/RameelHaroon) **UwU**
 -[Mehran Moazeni] (https://github.com/Mehranmzn) **It is just the begining**
 - [Vasley Mus](https://github.com/vasleymus) **My first open source contribution**
+- [Ethan Sampson] (https://github.com/ecsampson) **First Open Source Contribution!!
 - [Saad Sohail] (https://github.com/Xaad989) **My first contribution!!**
 - [Kosi Chima] (https://github.com/cozyDevs) **Contributed!!**
 - [Khushneet Kumar] (https://github.com/k2devil) **My first Contribution!**
