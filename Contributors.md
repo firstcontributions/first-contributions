@@ -34,6 +34,7 @@ Ahmad
 - [Zainab Zulfiqar](https://github.com/Zaynab511) **Zainab's First open source contribution!**
 - [Joosty](https://github.com/Joosty) **Hopefully the start of something big...**
 - [Aaron Mathew](https://github.com/Geeruz) **Contributing SOmething IG** 
+- [Patrick Redman] (https://PredmaBBK) **Hello all!**
 - [Agron Gojcaj](https://github.com/agron-gojcaj) **My first open source contribution!**
 - [Kristian Cifuentes](https://github.com/KristianC8) **First open source contribution**
 - [Ankush Kumar](https://github.com/Ankush7Kumar) **Gujjar of Panipat**
