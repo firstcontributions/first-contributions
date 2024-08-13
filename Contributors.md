@@ -136,6 +136,13 @@ Elisheva R
 - [rpatel1605](https://github.com/rpatel1605) **Newly contributed**
 -[PrabhatGhimire](https://github.com/PrabhatGhm7)**Tutorial on contribution**
 -[Shakir Bakare](https://github.com/shakirbakare) **Hello world! Peace be upon you!**
+
+
+Dark Lord was here
+- [Shivansh Yadav](hhtps://github.com/DarkLord0708)
+**Hello people, I'm new to opensource contributions and willing to learn, let's see where this leads me :)**
+
+
 - [Ivan Marinov](https://github.com/IvanM-19)
 - [Shreyank Gopal](https://github.com/ShreyankGopal/first-contributions)
 - [Mohamed Essam](https://github.com/mohamed-official) **First try!**
