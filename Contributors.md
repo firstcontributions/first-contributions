@@ -1007,6 +1007,7 @@ vrushabhpatil48
 - [YahyaHassan1914] (https://github.com/YahyaHassan1914) **Stepping into the world of open source, one small change at a time.**
 - [Ahzem](https://github.com/ahzem) **Love to OpenSource**
 - [Elmer](https://github.com/baca217) **Hello world!**
+- [Nico De Castro](https://github.com/nicodecastro)
 - [JoksimovicM](https://github.com/JoksimovicM) **Probably should've done this sooner**
 - [Jae Choi] (https://github.com/JCz-Zen) **👁👄👁 👍👍**
 - [@talhakammybond] (https://github.com/talhakammybond) 0️⃣0️⃣7️⃣
