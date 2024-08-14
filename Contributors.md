@@ -1,6 +1,7 @@
 # Contributors
 Ahmad
 -[Adithya R]{https://github.com/Adithya-R-Gowda} "This is my First Contribution"
+- [@Condition00](https://github.com/Condition00) **Heya!! my journey starts here!!**
 - [@venelouis](https://github.com/venelouis) **Contributing!**
 - [Wee Ki Joon](https://github.com/weekijoon) **First of many**
 - [RakulAgn](https://github.com/RakulAgn) **This is My First Contribution**
