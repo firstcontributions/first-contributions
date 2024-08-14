@@ -7149,6 +7149,6 @@ vivek saskar
 - [daisuke8000](https://github.com/daisuke8000) **First open source contribution!**
 - [Jennet Turkkan] (https://github.com/jennethydyrova) **First open source contribution!** 
 - [MidnightJump](https://github.com/MidnightJump) **First open souece contribution!**
-- [ASChirag](https://github.com/ASChirag)
+- [ASChirag](https://github.com/ASChirag) **Making a Contribution**
 - [Angel Aldana](https://github.com/aldanaangel) **Hi everybody!**
 - [Landon Hughes](https://github.com/landonhughes) **hey y'all 👋**
