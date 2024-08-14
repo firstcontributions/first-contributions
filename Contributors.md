@@ -7152,3 +7152,4 @@ vivek saskar
 - [ASChirag](https://github.com/ASChirag)
 - [Angel Aldana](https://github.com/aldanaangel) **Hi everybody!**
 - [Landon Hughes](https://github.com/landonhughes) **hey y'all 👋**
+- [Joaquin Gallegos](https://github.com/JgallegosI) **Hola desde chile**
