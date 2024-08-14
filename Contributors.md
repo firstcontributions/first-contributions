@@ -90,6 +90,7 @@ Ahmad
 - [Samuel Apaza](https://github.com/SamuelHumasi)**My first contribution. Hoping to contribute more!!** 🇵🇪
 - [Yago Pazos](https://github.com/Pletus) **Hello World, Starting my open source journey!**
 - [Shoaib Sadiq Salehmohamed](https://github.com/shoaib2000857) **Persuing Data Science From IIT Madras Thrilled to make my first contribution to open source!**
+Parth Bhovad
 - [Samantha Adams](https://github.com/honeydewdrop) **Did personal project, now first contribution. Yippee!**
 - [Hanzel Godinez](https://github.com/hgodinez89) **First open source contribution!**
 - [Ankit kumar Malik](https://github.com/hgodinez89) **First open source contribution!**
