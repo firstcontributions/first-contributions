@@ -1,18 +1,18 @@
 # Contributors
-
-Ahmad -[Adithya R]{https://github.com/Adithya-R-Gowda} "This is my First Contribution"
-
-Ahmad -[Adithya R]{https://github.com/Adithya-R-Gowda} "This is my First Contribution"
-
+Ahmad
+-[Adithya R]{https://github.com/Adithya-R-Gowda} "This is my First Contribution"
+- [@Condition00](https://github.com/Condition00) **Heya!! my journey starts here!!**
 - [@venelouis](https://github.com/venelouis) **Contributing!**
 - [Wee Ki Joon](https://github.com/weekijoon) **First of many**
 - [RakulAgn](https://github.com/RakulAgn) **This is My First Contribution**
+- [Shashwat Tripathi](https://github.com/devshashwat4u)**My First ever contribution**
 - [isidro rivera](https://github.com/lyrics05) **This is my first contribution**
 - [Vijay Raj](https://github.com/V1j4YRaj) **This is my first contribution**
 - [The Wandering Trader](https://github.com/thewanderingtraderm) **i made this contribution with only using the github webite**
 - [theC0ding](https://github.com/theC0ding) **Like Nemesis, I rise not for revenge, but to prove that I was always capable of standing on my own.**
 - [Scarlett Lim]
 - [@Betsaleel237]
+- [Krsna Agrawal]
 - [cleo miao](https://cleomiao.info) **hello hello**
 - [Kevin Doshi](https://github.com/doshi-kevin) **Hey Fellas.**
 - [Adarsh Kumar](https://github.com/Adarshkumar03) **Hi Everyone, This is my First Open Source Contribution.**
@@ -65,6 +65,7 @@ Ahmad -[Adithya R]{https://github.com/Adithya-R-Gowda} "This is my First Contrib
 - [Aliya Tariq](https://github.com/Aliya-Tariq) **finally making the first open source contribution. The beginning of something NEW!.**
 - [Thanh Nguyen Duc](https://github.com/ducthanhnguyen95) **First open source contribution!**
 - [Bianca Iordache](https://bento.me/biordache)
+- [Prudhvi Kovagana](https://github.com/prudhviko) **First open source contribution!**
 - [Harshit Sharma](https://github.com/harshitsharma-dev) **Work to Learn**
 - [Shashwat Chaturvedi](https://github.com/sassy2711) **SE_Lab1**
 - [Rohan](https://github.com/r0han44) **Rohan's First open source contribution!**
@@ -98,6 +99,7 @@ Ahmad -[Adithya R]{https://github.com/Adithya-R-Gowda} "This is my First Contrib
 - [Samuel Apaza](https://github.com/SamuelHumasi)**My first contribution. Hoping to contribute more!!** 🇵🇪
 - [Yago Pazos](https://github.com/Pletus) **Hello World, Starting my open source journey!**
 - [Shoaib Sadiq Salehmohamed](https://github.com/shoaib2000857) **Persuing Data Science From IIT Madras Thrilled to make my first contribution to open source!**
+Parth Bhovad
 - [Samantha Adams](https://github.com/honeydewdrop) **Did personal project, now first contribution. Yippee!**
 - [Hanzel Godinez](https://github.com/hgodinez89) **First open source contribution!**
 - [Ankit kumar Malik](https://github.com/hgodinez89) **First open source contribution!**
