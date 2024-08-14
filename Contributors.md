@@ -11,6 +11,7 @@ Ahmad
 - [theC0ding](https://github.com/theC0ding) **Like Nemesis, I rise not for revenge, but to prove that I was always capable of standing on my own.**
 - [Scarlett Lim]
 - [@Betsaleel237]
+- [Krsna Agrawal]
 - [cleo miao](https://cleomiao.info) **hello hello**
 - [Kevin Doshi](https://github.com/doshi-kevin) **Hey Fellas.**
 - [Adarsh Kumar](https://github.com/Adarshkumar03) **Hi Everyone, This is my First Open Source Contribution.**
