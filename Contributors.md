@@ -16,6 +16,7 @@ Ahmad
 - [Scarlett Lim]
 - [@Betsaleel237]
 - [Krsna Agrawal]
+- [prajwal choudhari](https://github.com/prajwalc22)**Hello,this is my first contribution.** 
 - [cleo miao](https://cleomiao.info) **hello hello**
 - [Kevin Doshi](https://github.com/doshi-kevin) **Hey Fellas.**
 - [Adarsh Kumar](https://github.com/Adarshkumar03) **Hi Everyone, This is my First Open Source Contribution.**
