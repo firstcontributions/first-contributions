@@ -3656,6 +3656,7 @@ Jasmine
 - [BOUKARI Marfourz](https://github.com/Marfourz)
 - [Hillary Nyakundi] (https://github.com/HillaryNyakundi)
 - [JFK]
+- [Sevardon](https://github.com/Sevardon-Code) **Analog tech > digital :)**
 - [Claudio Jara](https://github.com/claudiojara)
 -[j.f .keneddy]
 - [LSR]
