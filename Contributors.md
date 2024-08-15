@@ -5,6 +5,7 @@ Ahmad
 -[Adithya R]{https://github.com/Adithya-R-Gowda} "This is my First Contribution"
 - [Ng Xuan Yi](https://github.com/Xuanniee) **First Open Source Contribution**
 - [@Condition00](https://github.com/Condition00) **Heya!! my journey starts here!!**
+- [KrishnaJoshi](https://github.com/ProgrammerKJ) **Hello!! my journey is beginning!!**
 - [@venelouis](https://github.com/venelouis) **Contributing!**
 - [Wee Ki Joon](https://github.com/weekijoon) **First of many**
 - [thesilverwolfx]{https://github.com/thesilverwolfx} **it's 2024, here I am contributing for the first time.**
