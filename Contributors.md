@@ -2,6 +2,7 @@
 Ahmad
 - [Rohit Sali](https://github.com/Rohit2sali) **this is my first opensource contribution**
 -[Adithya R]{https://github.com/Adithya-R-Gowda} "This is my First Contribution"
+- [Ng Xuan Yi](https://github.com/Xuanniee) **First Open Source Contribution**
 - [@Condition00](https://github.com/Condition00) **Heya!! my journey starts here!!**
 - [@venelouis](https://github.com/venelouis) **Contributing!**
 - [Wee Ki Joon](https://github.com/weekijoon) **First of many**
@@ -96,6 +97,7 @@ Ahmad
 Parth Bhovad
 - [Samantha Adams](https://github.com/honeydewdrop) **Did personal project, now first contribution. Yippee!**
 - [Hanzel Godinez](https://github.com/hgodinez89) **First open source contribution!**
+- [Roostersalad24] (https://github.com/Roostersalad24) **First open sourch contribution!!**
 - [Ankit kumar Malik](https://github.com/hgodinez89) **First open source contribution!**
 - [Nishant Das](https://github.com/nishantdas16) **First contribution**
 - [Zabiullah Shukrulla](https://github.com/zabiullahss) **First contribution, more to come**
@@ -1407,6 +1409,7 @@ vrushabhpatil48
 - [Jason](https://github.com/jasoncobra3)**Hello, great to start from here**🚀🔥
 - Dmitriy211
 - [Salman Faris](https://github.com/salmanzego)
+- [Faiz](https://github.com/faizdotid) **Hello everyone**
 - [Sathvik Duddela](https://github.com/r4iden-IITR)
 - [Sofiyullahi Jamiu](https://github.com/orpcy)
 - [STK](https://github.com/sherlock221B1)
