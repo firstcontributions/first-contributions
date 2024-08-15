@@ -5679,6 +5679,7 @@ LadegbayeStella)
 -[Ayush-Gupta](https://github.com/AyushisPro2011)
 -[Shemar Brown-Wright](https://github.com/shemr1)
 -[Aravind Ramaraju](https://github.com/aramaraju)
+- [levipalait](https://github.com/levipalait) This is my first contribution
 -[NdangiKanime](https://github.com/NdangiKanime)
 -[IceHUN](https://github.com/IceHUN)
 -[Matt Zimmerman](https://github.com/MattZim2000)
