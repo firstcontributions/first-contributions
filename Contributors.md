@@ -40,6 +40,7 @@ Ahmad
 - [Helter Jay] (https://github.com/HelterJay) **My first Contribution!**
 - [Aditya Pandey](https://github.com/adityapandey78)
 - [Raphael Adesegun](https://github.com/TheInvincibleRalph) **Hi, Go is my love language. Glad to be making my first ever contribution!
+- [Atiba Ishamali](https://github.com/atibaishamali) **Atiba Ishamali - first Contribution**
 - [Rameel Haroon](https://github.com/RameelHaroon) **UwU**
 -[Mehran Moazeni] (https://github.com/Mehranmzn) **It is just the begining**
 - [Vasley Mus](https://github.com/vasleymus) **My first open source contribution**
