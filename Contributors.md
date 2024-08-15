@@ -1934,6 +1934,7 @@ Abhinav Jain
 - Rafael Rocha
 - Ruben Gomez Bahamonde
 - Elaine
+- [Farhan] (https://github.com/Farhan543)
 - [Simrana Farrukh] (https://github.com/simranfarrukh)
 - ashtise
 - [Mohammed Riyaz J] (https://github.com/riyazjahangir)
