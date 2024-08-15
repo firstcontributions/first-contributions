@@ -1407,6 +1407,7 @@ vrushabhpatil48
 - [Jason](https://github.com/jasoncobra3)**Hello, great to start from here**🚀🔥
 - Dmitriy211
 - [Salman Faris](https://github.com/salmanzego)
+- [Faiz](https://github.com/faizdotid) **Hello everyone**
 - [Sathvik Duddela](https://github.com/r4iden-IITR)
 - [Sofiyullahi Jamiu](https://github.com/orpcy)
 - [STK](https://github.com/sherlock221B1)
