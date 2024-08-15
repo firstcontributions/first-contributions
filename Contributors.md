@@ -2,6 +2,7 @@
 Ahmad
 - [Rohit Sali](https://github.com/Rohit2sali) **this is my first opensource contribution**
 -[Adithya R]{https://github.com/Adithya-R-Gowda} "This is my First Contribution"
+- [Ng Xuan Yi](https://github.com/Xuanniee) **First Open Source Contribution**
 - [@Condition00](https://github.com/Condition00) **Heya!! my journey starts here!!**
 - [@venelouis](https://github.com/venelouis) **Contributing!**
 - [Wee Ki Joon](https://github.com/weekijoon) **First of many**
