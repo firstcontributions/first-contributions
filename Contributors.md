@@ -682,6 +682,7 @@ mh
 - [Caleb Yaghoubi](https://github.com/Caleby315) **Thanks for the help 
 - Suryanshi - KVY 
 - [SrinidhiPS11](https://github.com/SrinidhiPs11)**Small step for man, Big step for mankind.**
+- [Pedro Viel](https://github.com/pedroviel) **Hello there!**
 - [Ajmal Ras](https://github.com/Dynopro) `I will make a valuable contribution to the open source project by meticulously documenting all the bugs I introduce.`🤞
 - [Sandip Kumar Dey](https://github.com/sandipkumardey) **Hey! This is my first contribution**
 - [Janhavi Patil](https://github.com/JanhaviPatil05) **Heyy,This is my First contribution!**
