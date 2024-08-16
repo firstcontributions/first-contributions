@@ -7199,4 +7199,5 @@ vivek saskar
 - [Vennela Katasani](https://github.com/K-vennela) **Finally took bog step to start contributing!Yaayyyy**
 - [Doug Sky](https://github.com/XiaoTianJava) **My first Contribution**
 - [Onivas0308](https://github.com/onivas0308) **Ready to be part of the community**
-- [Aaryendra Nargotra](https://github.com/aryannargotra) *Pirate King 
+- [Aaryendra Nargotra](https://github.com/aryannargotra) **Pirate King**
+- [Mushfikur R. Mahi](https://github.com/mushfikurahmaan) **Happy to be the part of this community**
