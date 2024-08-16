@@ -62,6 +62,7 @@ Ahmad
 - [Agron Gojcaj](https://github.com/agron-gojcaj) **My first open source contribution!**
 - [Kristian Cifuentes](https://github.com/KristianC8) **First open source contribution**
 - [Ankush Kumar](https://github.com/Ankush7Kumar) **Gujjar of Panipat**
+- [Harshal Sawatkar](https://github.com/Anonymous-hss) **Stepping in the world of Open Source Contributions**
 - [Yan Naing Aung](https://github.com/yan-naing-a) **You know what? I'm sleepy right now.** 
 - [Adarsh Tiwari](https://github.com/Adarsh753) **Adarsh's First open source contribution!**
 - [Phoebe Gangoso](https://github.com/peewweee) **Phoebe's First open source contribution!**
