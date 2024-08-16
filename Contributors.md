@@ -115,6 +115,7 @@ Ahmad
 - [Shoaib Sadiq Salehmohamed](https://github.com/shoaib2000857) **Persuing Data Science From IIT Madras Thrilled to make my first contribution to open source!**
 Parth Bhovad
 - [Samantha Adams](https://github.com/honeydewdrop) **Did personal project, now first contribution. Yippee!**
+- [Rishika Chatterjee](https://github.com/RishikaC06) **First open source contribution.**
 - [Hanzel Godinez](https://github.com/hgodinez89) **First open source contribution!**
 - [Roostersalad24] (https://github.com/Roostersalad24) **First open sourch contribution!!**
 - [Ankit kumar Malik](https://github.com/hgodinez89) **First open source contribution!**
