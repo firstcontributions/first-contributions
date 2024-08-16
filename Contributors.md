@@ -7198,3 +7198,5 @@ vivek saskar
 - [Doug Sky](https://github.com/XiaoTianJava) **My first Contribution**
 - [Onivas0308](https://github.com/onivas0308) **Ready to be part of the community**
 - [Aaryendra Nargotra](https://github.com/aryannargotra) *Pirate King 
+- [Sagar Shinde](https://github.com/sagar4696) ** Grateful to be part of this awesome community! 🚀**
+
