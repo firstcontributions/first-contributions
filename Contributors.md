@@ -1046,6 +1046,7 @@ my name here
 - dm - first timer!
 - [Sebasclz](https://github.com/Sebasclz) **Hello first contribution :)**
 - [Anvar](https://github.com/Anvarkangadiyil) **Hello**
+- [Leonardo Bracci](https://github.com/leonardo-bracci) **This is my precious contribution to the repo*
 - [eastsage] (https://github.com/eastsage) **Hello Contributors!**
 - [sachinm121](https://github.com/sachinm121) **My first contribution 😊**
 - [@jgarzon97] (https://github.com/jgarzon97) **First Contribution!**
