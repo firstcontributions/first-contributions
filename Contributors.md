@@ -1,14 +1,14 @@
 # Contributors
 - [Shrinedhi](https://github.com/Web-Dev-Learner)**this is my first opensource contribution**
 Ahmad
-- [Yanga M. Mdede](https://github.com/jumpman-cmd) **Hello World!👋 Join me on my journey through the world of programming. Let's work together to build something great. Let's Code!💻🚀**
+- [Yanga M. Mdede](https://github.com/jumpman-cmd) **Hello World! ~K Join me on my journey through the world of programming. Let's work together to build something great. Let's Code! M-; ~@**
 - [Renaldy](https://github.com/laurentiusrenaldy27) **Hello World**
 - [Rohit Sali](https://github.com/Rohit2sali) **this is my first opensource contribution**
 - [Moustapha Camara](https://github.com/MoustaphaCamara) Finally time to step in :)
 - [Adithya R]{https://github.com/Adithya-R-Gowda} "This is my First Contribution"
 - [Ng Xuan Yi](https://github.com/Xuanniee) **First Open Source Contribution**
 - [Vibhum](https://github.com/vibhum15) **Hey I'am new hear , connect me hear and all the best for your open source journey**
-- [TrungAnhVu](https://github.com/trunganhvu) **I'm a Vietnamese guy😉, readly happy to connect with everyone. Ping me and let's code together😎😎**
+- [TrungAnhVu](https://github.com/trunganhvu) **I'm a Vietnamese guy ~I, readly happy to connect with everyone. Ping me and let's code together ~N ~N**
 - [@Condition00](https://github.com/Condition00) **Heya!! my journey starts here!!**
 - [KrishnaJoshi](https://github.com/ProgrammerKJ) **Hello!! my journey is beginning!!**
 - [@venelouis](https://github.com/venelouis) **Contributing!**
