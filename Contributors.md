@@ -150,6 +150,7 @@ Parth Bhovad
 - [Vishruth23](https://github.com/Vishruth23) **First OSC**
 - [david gordon](https://github.com/dudigoo/) **second step**
 - [crabCatcher0](https://github.com/crabcatcher0/) **Learning**
+- [madhura_ingole](https://github.com/madhura-ingole/) **Getting there!**
 - [yuthadda](https://github.com/yuthadda)
 - [FernandoSiavato](https://github.com/FernandoSiavato)
 - [varnit-mittal](https://github.com/varnit-mittal) **Just for my SE Lab Attendance purpose**
@@ -160,6 +161,7 @@ Parth Bhovad
 - [Lokesh11868](https://github.com/Lokesh11868) **First Open Source Contribution**
 - [John McLaughlin](https://github.com/johnmclaughlin) **Hello World** 
 - [Dev AKS](https://github.com/devaaks) **Hello Open Source!**
+- [Madhura Ingole](https://github.com/madhura-ingole/) **Learning**
 - [kisia0916](https://github.com/kisia0916) "Hello!"
 Theresia Calista
 - [samarth1011-1](https://github.com/samarth1011-1) **LMAO HELLO**
