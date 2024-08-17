@@ -27,6 +27,7 @@ Ahmad
 - [VVS Basanth](hrrps://github.com/vvs-basanth) **Hello World!!....(literally...haha!!)**
 - [@Betsaleel237]
 - [Krsna Agrawal]
+- [Andy Nguyen](https://github.com/andyTCS) **This is my first open source contribution**
 - [Guno327](https://github.com/Guno327) 
 - [prajwal choudhari](https://github.com/prajwalc22)**Hello,this is my first contribution.** 
 - [Sébastien SAMSON](https://github.com/RoyalBN)**Hello World ! Starting my OpenSource contributions journey.**
@@ -102,6 +103,7 @@ Ahmad
 - [Leonardo Ramos](https://github.com/leoferamos)
 - [Caleb Anderson](https://github.com/Canderson0115) **Amogus**
 - [Preeti Khamkar](https://github.com/p0203k)
+- [Glenn Fox](https://github.com/glenn-fox)
 - [Carlos Napoles Avila](https://github.com/napolesmoa1006)
 - [Srinidhi P Rao] (https://github.com/SrinidhiPRao) **First open source contributions of many more to come.**
 - [Umer Amjad](https://github.com/umer-amjad) **To try to make a difference...**
@@ -293,6 +295,7 @@ Rudraksh Upadhyay- learing to contribute in open source projects
 -[Jinesh Pagaria](https://github.com/JConquers) ** My first commit, IMT2022044 **
 -[DanielHinnigan](https://github.com/dsadasdasdasd123)**Hi!**
 -[Charlie Nourrcier](https://github.com/cnourrcier)**First Contribution here 07/19/24. Reach out to me if you want to collaborate on a MERN project :D**
+-[Arijan Brkic](https://github.com/arijanbrkic)**Hello World! Greetings from Germany. 16.08.2024**
 -[Abdullahi Hamisu](https://github.com/captainprinz)**First Contribution and first emoji ever on desktop🎆🎈🚀**
 -[Durvesh Wagh](https://github.com/durveshwagh11)**First Contribution Here👋**
 -[Kyaw Zin Thet](https://github.com/KyawZin369)**First Contribution in 7/24/2024👋**
@@ -2419,6 +2422,7 @@ Pereira
 - [hyunwoo](https://github.com/Na-hyunwoo)
 - [Ryan Guo] (https://github.com/ryanguomd)
 - [Ahmed El Otmani](https://github.com/OtmaniCodes)
+- [Jerry Ngueyn] (https://github.com/jerry-ng2) **First commit!**
 - [Sethika Manumitha](https://github.com/SethikaManumitha/)
 -[Soyoon Moon](https://github.com/soyoonmoon)
 - [Hadi-M-Taheri](https://github.com/hadi-mollataheri)
@@ -4419,6 +4423,7 @@ Parthiv Saikia
 - [Arun Erram](https://github.com/arunerram)
 - [Venkata Bharath]
 - [Jeremy Rule](https://github.com/macaw2000)
+- [Juan Martinez](https://github.com/juanm18)
 - [Alyssa Ortiz](https://github.com/ao994)
 - [Dev Aggarwal](https://github.com/devaggarwal-1)
 - [Dibya Shakti Panda](https://github.com/Dibyas98)
@@ -7209,3 +7214,4 @@ vivek saskar
 - [Onivas0308](https://github.com/onivas0308) **Ready to be part of the community**
 - [Aaryendra Nargotra](https://github.com/aryannargotra) **Pirate King**
 - [Mushfikur R. Mahi](https://github.com/mushfikurahmaan) **Happy to be the part of this community**
+- [Naveen Prasad K](https://github.com/naveenprasad07) **My updated github id**
