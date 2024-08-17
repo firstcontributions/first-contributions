@@ -6997,6 +6997,7 @@ Hector
 - [Samuel](https://github.com/Samuelchigozie) **Here we Go 😂**
 - [Antoni Marczuk](https://github.com/antonimarczuk123)
 - [Samiksha Gariya](https://github.com/samikshagariya) **finally first contribution**
+- [Thales Alves](https://github.com/thalesalves758) **My first contribution!!🤘 Go Brazil!!!**
 - [arimakishou0505](https://github.com/arimakishou0505)**mochi**
 - [Roboman](https://github.com/RomanDominguez)**MIT student_this is my first contribution**
 - [RaffyLeong](https://github.com/RaffyLeong)**my first contribution - yaaaa boyyyyy**
