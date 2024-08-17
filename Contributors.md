@@ -7246,5 +7246,5 @@ vivek saskar
 - [Naveen Prasad K](https://github.com/naveenprasad07) **My updated github id**
 - [Johanes Galicia](https://github.com/Johanesgalicia/first-contributions) **First open source contribution!**
 - [Rohith M] (https://github.com/AlphaZero4/first-contributions) *first contribution. Time to kickstart* 
-
+- [Karamjeet Singh](https://github.com/itskaramaman) **Open source journey begins**
 - [Gaurav Latpate](https://github.com/latpategaurav/first-contributions) **First open source contribution!**
