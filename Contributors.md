@@ -15,6 +15,7 @@ Ahmad
 - [TrungAnhVu](https://github.com/trunganhvu) **I'm a Vietnamese guy😉, readly happy to connect with everyone. Ping me and let's code together😎😎**
 - [@Condition00](https://github.com/Condition00) **Heya!! my journey starts here!!**
 - [KrishnaJoshi](https://github.com/ProgrammerKJ) **Hello!! my journey is beginning!!**
+- [Devanshi-Bavaria](https://github.com/Devubavariaa) **Learning to contribute to open source!!**
 - [@venelouis](https://github.com/venelouis) **Contributing!**
 - [Wee Ki Joon](https://github.com/weekijoon) **First of many**
 - [Sam Xia](https://github.com/samsmithspace)**Let him cook**
