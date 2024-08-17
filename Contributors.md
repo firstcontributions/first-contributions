@@ -26,6 +26,7 @@ Ahmad
 - [VVS Basanth](hrrps://github.com/vvs-basanth) **Hello World!!....(literally...haha!!)**
 - [@Betsaleel237]
 - [Krsna Agrawal]
+- [Elie-Simard](https://github.com/Elie-Simard) **Hello there, first contributors**
 - [Guno327](https://github.com/Guno327) 
 - [prajwal choudhari](https://github.com/prajwalc22)**Hello,this is my first contribution.** 
 - [Sébastien SAMSON](https://github.com/RoyalBN)**Hello World ! Starting my OpenSource contributions journey.**
