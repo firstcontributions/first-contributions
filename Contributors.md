@@ -96,6 +96,7 @@ Ahmad
 - [Shashwat Chaturvedi](https://github.com/sassy2711) **SE_Lab1**
 - [Rohan](https://github.com/r0han44) **Rohan's First open source contribution!**
 - [Daniela Cubillos](https://github.com/LDanic)
+- [GregDask](https://github.com/daskgreg)
 - [Sasha Kenta Quinnn](https://github.com/quinn-sasha) **I want contribute to oss for better world!**
 -[NoorUlAin] (https://github.com/Noor508) **My first open source contributions**
 - [Trupti Khodwe](https://github.com/truptikhodwe)
