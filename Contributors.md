@@ -7194,6 +7194,7 @@ vivek saskar
 - [Dennis Polukaroff](https://github.com/denderange)
 - My first comment to open sourc - Pradeep
 - [Shuji Ochi](https://github.com/OchiShuji)
+- [Giao Le](https://github.com/giolynx104)
 - [Amiya Piyush1](https://github.com/AmiyaPiyush1) **My first Contribution**
 - [Nizar Yassine](https://github.com/nyassine-git) **Glad to make my first contribution to an open source project!!**
 - [hubtanakas](https://github.com/hubtanaka) **My first contribution to an open source project**
