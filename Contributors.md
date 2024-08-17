@@ -1,7 +1,7 @@
 # Contributors
 - [Shrinedhi](https://github.com/Web-Dev-Learner)**this is my first opensource contribution**
 Ahmad
-- [Yanga M. Mdede](https://github.com/jumpman-cmd) **Hello World.👋 Join me on my journey through the world of programming. Let's work together to build something great. Let's Code!💻🚀**
+- [Yanga M. Mdede](https://github.com/jumpman-cmd) **Hello World!👋 Join me on my journey through the world of programming. Let's work together to build something great. Let's Code!💻🚀**
 - [Renaldy](https://github.com/laurentiusrenaldy27) **Hello World**
 - [Rohit Sali](https://github.com/Rohit2sali) **this is my first opensource contribution**
 - [Moustapha Camara](https://github.com/MoustaphaCamara) Finally time to step in :)
