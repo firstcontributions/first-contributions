@@ -17,11 +17,13 @@ Ahmad
 - [KrishnaJoshi](https://github.com/ProgrammerKJ) **Hello!! my journey is beginning!!**
 - [Devanshi-Bavaria](https://github.com/Devubavariaa) **Learning to contribute to open source!!**
 - [@venelouis](https://github.com/venelouis) **Contributing!**
+i
 - [Wee Ki Joon](https://github.com/weekijoon) **First of many**
 - [Sam Xia](https://github.com/samsmithspace)**Let him cook**
 - [thesilverwolfx]{https://github.com/thesilverwolfx} **it's 2024, here I am contributing for the first time.**
 - [hiiii](https://github.com/2706mydhili/)**I am contributing for the first time
 - [RakulAgn](https://github.com/RakulAgn) **This is My First Contribution**
+- [Aarushi Aggrwal](https://github.com/aarushia3) ** My first contribution! **
 - [Shashwat Tripathi](https://github.com/devshashwat4u)**My First ever contribution**
 - [Obianuko Daniel](https://github.com/ascomani)**First *opens source contribution**
 - [isidro rivera](https://github.com/lyrics05) **This is my first contribution**
