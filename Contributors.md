@@ -1,6 +1,7 @@
 # Contributors
--[Shrinedhi](https://github.com/Web-Dev-Learner)**this is my first opensource contribution**
+- [Shrinedhi](https://github.com/Web-Dev-Learner)**this is my first opensource contribution**
 Ahmad
+- [Yanga M. Mdede](https://github.com/jumpman-cmd) **Hello World.👋 Join me on my journey through the world of programming. Let's work together to build something great. Let's Code!💻🚀**
 - [Renaldy](https://github.com/laurentiusrenaldy27) **Hello World**
 - [Rohit Sali](https://github.com/Rohit2sali) **this is my first opensource contribution**
 - [Moustapha Camara](https://github.com/MoustaphaCamara) Finally time to step in :)
@@ -173,12 +174,12 @@ Zhiyuan Zhao
 - [Reshmail Fatima](https://github.com/reshmailfatima) **Hi, Everyone..This is my first open source contribution**
 - [wal-058](https://github.com/wal-058) **Can't believe it took me this long to start with OSS. Hi, I'm Waleed. Hopefully you are doing well, fellow coder, whoever and whereever you may be :D**
 Elisheva R
--[Aman Jha](https://github.com/i-aman-jha/) **______________This is my first Contribution__________**
--[Avinash KT]****Excited *****************
+- [Aman Jha](https://github.com/i-aman-jha/) **______________This is my first Contribution__________**
+- [Avinash KT]****Excited *****************
 - [Kushal Khivasara](https://github.com/its-kushal) **He contributed to this project** 
 - [rpatel1605](https://github.com/rpatel1605) **Newly contributed**
--[PrabhatGhimire](https://github.com/PrabhatGhm7)**Tutorial on contribution**
--[Shakir Bakare](https://github.com/shakirbakare) **Hello world! Peace be upon you!**
+- [PrabhatGhimire](https://github.com/PrabhatGhm7)**Tutorial on contribution**
+- [Shakir Bakare](https://github.com/shakirbakare) **Hello world! Peace be upon you!**
 - [Ivan Marinov](https://github.com/IvanM-19)
 - [Shreyank Gopal](https://github.com/ShreyankGopal/first-contributions)
 - [Mohamed Essam](https://github.com/mohamed-official) **First try!**
@@ -218,19 +219,19 @@ Elisheva R
 - [Piotr Daniel](https://github.com/pino888) **There's a first time for everything!**
 - [Julius Pascual](https://github.com/JProfessor) **OLFU Antipolo Graduate 2024!** 
 - [Seiji Ueno] **I'm Here**
--[Thiago Queiroz](https://github.com/thiagoqueiroz97) **Re-learning the ropes!** 
--[Brian Caldera](https://github.com/briancaldera)  **Long live OSS!**
+- [Thiago Queiroz](https://github.com/thiagoqueiroz97) **Re-learning the ropes!** 
+- [Brian Caldera](https://github.com/briancaldera)  **Long live OSS!**
 ### Paul Quito
--[Lynda Nwa]()
+- [Lynda Nwa]()
 - Vyshnavi Daka
 -vidya
 Monika
 PABLO MOLINA NEIRA EL DANDY
 - [pablo molina](https://github.com/pabloskydocker) **You know what? el mejor de todos** 
--[Srinish](https://github.com/Universelord) **HI I am Starting to programing**
+- [Srinish](https://github.com/Universelord) **HI I am Starting to programing**
 - [Patel Harsh](https://github.com/patelharsh03) **Hello**
--[Rabiya Nadeem](https://github.com/RabiyaNadeem22) **First Contribution**
--[Karan Sewa]()
+- [Rabiya Nadeem](https://github.com/RabiyaNadeem22) **First Contribution**
+- [Karan Sewa]()
 - [Rahul Verma](https://github.com/rahuwul) **23-07-2024: woah there are too many people here lessgo**
 - [Noah Tibben-Lembke](https://github.com/ntibbenlembke) **10-08-2024 first open source contribution!**
 Vishal Gupta
@@ -240,12 +241,12 @@ Vishal Gupta
 - [Abdul Moazzim](https://github.com/AbdulMoazzim/) **My First Contribution! Thanks for tutorials!**
 Swapnonil Mitra
 - [Harshavardhan K](https://github.com/tronbeing3030) **7/28/24 #LFG**
--[Matthew H] **25/07/2024**
+- [Matthew H] **25/07/2024**
 Rudraksh Upadhyay- learing to contribute in open source projects
--[Prabhat Ghimire] **grinding my way**
+- [Prabhat Ghimire] **grinding my way**
 - [Michael Callahan] **hello**
 - [Kanhav Vohra] **First Contribution**
--[Aksal Abiahta T](https://github.com/aksalatdev)**Hello From Indonesia**
+- [Aksal Abiahta T](https://github.com/aksalatdev)**Hello From Indonesia**
 -[Ayman Badouzi](https://github.com/itzAymvn)
 -[Khushi Rani](https://github.com/KhushiRani007)
 -[Frank Costanza](https://github.com/wrx777)**My first contribution**
