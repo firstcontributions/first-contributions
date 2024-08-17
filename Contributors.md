@@ -353,6 +353,7 @@ Rudraksh Upadhyay- learing to contribute in open source projects
 -[Zain Fareed](https://github.com/zfareed) **First contribution. It's great to see all of you here!**
 -[Ahmed Obaidullah](https://github.com/ahmedobaid23) **First Contribution!**
 - Ammar
+- EMR
 -[Sitotaw Ashagre](https://github.com/yotors) **May be the first appearance in the os contribution realm**
 -[Agustin Salaverry](https://github.com/asalaverry) **Hi!**
 -[Aayush Mishra](https://github.com/skywlker17) **Hi, Thanks for this repo!!**
