@@ -15,6 +15,8 @@ Ahmad
 - [Wee Ki Joon](https://github.com/weekijoon) **First of many**
 - [Sam Xia](https://github.com/samsmithspace)**Let him cook**
 - [thesilverwolfx]{https://github.com/thesilverwolfx} **it's 2024, here I am contributing for the first time.**
+- [Rishabh Raj Verma]{https://github.com/RishabhRaj43} **Just contributed for fun**
+
 - [hiiii](https://github.com/2706mydhili/)**I am contributing for the first time
 - [RakulAgn](https://github.com/RakulAgn) **This is My First Contribution**
 - [Shashwat Tripathi](https://github.com/devshashwat4u)**My First ever contribution**
