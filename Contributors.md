@@ -17,6 +17,7 @@ Ahmad
 - [hiiii](https://github.com/2706mydhili/)**I am contributing for the first time
 - [RakulAgn](https://github.com/RakulAgn) **This is My First Contribution**
 - [Shashwat Tripathi](https://github.com/devshashwat4u)**My First ever contribution**
+- [Obianuko Daniel](https://github.com/ascomani)**First *opens source contribution**
 - [isidro rivera](https://github.com/lyrics05) **This is my first contribution**
 - [Vijay Raj](https://github.com/V1j4YRaj) **This is my first contribution**
 -Venkat
