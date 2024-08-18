@@ -2945,6 +2945,7 @@ guanj65
   bios021
   KaKu
 - [Gabriela Sena da Silva] (https://github.com/Gabriela-Sena)
+
 - [The-Linux-User] (https://github.com/The-Linux-User)
 - [kalpesh-d](https://github.com/kalpesh-d)
 - [Mwongera] - DennisMwongera
@@ -3045,6 +3046,7 @@ guanj65
 - SHUBHAM SINGH
 - Mujtaba Saqib
 - Andrew Serrano
+- [Danizelle](https://github.com/Danizelle)
 - [olivia] (https://github.com/mccoli)
 - [gitFerdo](https://github.com/gitFerdo)
 - [Hisham Raihan](https://github.com/Bluehorizon65)
