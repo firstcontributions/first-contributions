@@ -140,7 +140,20 @@ For example:
 ```bash
 git switch -c add-alonzo-church
 ```
+### Additionally you can create a branch using the `git branch` command (this is how the git switch -c command works behind the scenes):
+```bash
+git branch your-new-branch-name
+```
+Then switch to your newly-created branch using `git switch` or `git checkout`, For example:
 
+#### Option 1: git switch
+```bash
+git switch add-alonzo-church
+```
+#### Option 2: git checkout
+```bash
+git checkout add-alonzo-church
+```
 ## Make necessary changes and commit those changes
 
 Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
