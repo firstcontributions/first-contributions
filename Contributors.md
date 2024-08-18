@@ -5793,6 +5793,7 @@ LadegbayeStella)
 - [Daniel Fink](https://github.com/daniel-fink-de)
 - [Sumire](https://github.com/SumiReCord)
 - [Jason](https://github.com/yhoo17)
+- [TheXGuy] (https://github.com/TheXGuy) **Hi! I'm a YouTuber guy who also does some coding :3**
 - [Daniel Villalobos](https://github.com/danielvilla04)
 - [Nelan](https://github.com/NelanJoe)
 - [Claire Wicher](https://github.com/GirlGeekUpNorth)
