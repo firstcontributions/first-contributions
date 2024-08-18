@@ -50,6 +50,7 @@
 <kbd>[<img title="English (Pirate)" alt="English (Pirate)" src="https://firstcontributions.github.io/assets/Readme/pirate.png" width="22">](translations/README.en-pirate.md)</kbd>
 <kbd>[<img title="اُاردو" alt="اردو" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/pk.svg" width="22">](translations/README.ur.md)</kbd>
 <kbd>[<img title="Polski" alt="Polski" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/pl.svg" width="22">](translations/README.pl.md)</kbd>
+Lincoln
 <kbd>[<img title="Português (Portugal)" alt="Português (Portugal)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/pt.svg" width="22">](translations/README.pt-pt.md)</kbd>
 <kbd>[<img title="Русский язык" alt="Русский язык" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ru.svg" width="22">](translations/README.ru.md)</kbd>
 <kbd>[<img title="عربى" alt="عربى" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/sa.svg" width="22">](translations/README.ar.md)</kbd>
