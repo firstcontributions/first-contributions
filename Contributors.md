@@ -646,6 +646,7 @@ mh
 - [Kolade Elizabeth](https://github.com/Lizzy223) *** My first contribution!!! ***
 - [Andres Pedreros Castro] (https://github.com/AndresPedrerosC) *** My first and hopefully not last open source contribution 😁
 - [Ritesh Singh](https://github.com/ritzzh) *** Do not go gentle into that good night, Rage, rage againt the dying of light ***
+- [Manveer Singh](https://github.com/IEYT) ## This is my first contribution to repos that I don't own! ##
 - [Raghav Angra]
 - היי לכולם! גם אני כאן!!!!!
 - [NoPermissionZetoile]
