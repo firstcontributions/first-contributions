@@ -152,7 +152,8 @@ Parth Bhovad
 - [Mahumitha-b](https://github.com/madhumitha-b)
 - [MaksStuff](https://github.com/MaksStuff) **The first step into a career**
 - [Juan Calderon](https://github.com/JuanCalderon-17) **my first contribution, not giving up anytime soon**
-- [Vishruth23](https://github.com/Vishruth23) **First OSC**
+- [Vishruth23](https://github.com/Vishruth23) **First OSC** 
+- [Sweta]**NEWW**
 - [david gordon](https://github.com/dudigoo/) **second step**
 - [crabCatcher0](https://github.com/crabcatcher0/) **Learning**
 - [yuthadda](https://github.com/yuthadda)
