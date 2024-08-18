@@ -207,6 +207,7 @@ Elisheva R
 - [Shreyank Gopal](https://github.com/ShreyankGopal/first-contributions)
 - [Mohamed Essam](https://github.com/mohamed-official) **First try!**
 - [Arbaz Ahmad](https://github.com/arbaz686) **if i can do it, u can also do it!**
+- [Gideon Bature](https://github.com/GideonBature) **LFG, this is me learning open source contribution**
 - [Lautaro Skarkloff](https://github.com/skarkloff) **Linux OpenSource**
 - [Elyas Shamal](https://github.com/ElyasShamal) **let's give it a shot!**
 - [Shoshi Sternberg](https://github.com/ShoshiSternberg)**very good and important idea!**
