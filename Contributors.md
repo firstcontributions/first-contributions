@@ -1202,6 +1202,7 @@ vrushabhpatil48
 - [Ndriqim Lahu](https://github.com/ndriqimlahu)
 - [StreLitziaYc](https://github.com/StreLitziaYc) `Hello OSS!`
 - [Tejas] https://github.com/tejdev96
+- [Arthur Romani] (https://github.com/aRomanig) Long live open source software
 - [CanGeus] | <a href="https://www.linkedin.com/in/cangeus/">linkedin</a> | (https://github.com/adach2)
 - [Tanish] (https://github.com/beasthellboyy) | **Nice project**
 - [siddhu gorli](https://github.com/siddhu745)
