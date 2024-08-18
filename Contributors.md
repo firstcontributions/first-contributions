@@ -124,6 +124,7 @@ i
 - [Caleb Anderson](https://github.com/Canderson0115) **Amogus**
 - [Preeti Khamkar](https://github.com/p0203k)
 - [Glenn Fox](https://github.com/glenn-fox)
+- [Yehia Rasheed](https://github.com/yehiarasheed)
 - [Carlos Napoles Avila](https://github.com/napolesmoa1006)
 - [Srinidhi P Rao] (https://github.com/SrinidhiPRao) **First open source contributions of many more to come.**
 - [Umer Amjad](https://github.com/umer-amjad) **To try to make a difference...**
