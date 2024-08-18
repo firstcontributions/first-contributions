@@ -22,6 +22,7 @@ Ahmad
 - [@venelouis](https://github.com/venelouis) **Contributing!**
 i
 - [Wee Ki Joon](https://github.com/weekijoon) **First of many**
+- [Prabha Krishna](https://github.com/tpks27) **My First Contribution Open Source**
 - [Sam Xia](https://github.com/samsmithspace)**Let him cook**
 - [thesilverwolfx]{https://github.com/thesilverwolfx} **it's 2024, here I am contributing for the first time.**
 - [Rishabh Raj Verma]{https://github.com/RishabhRaj43} **Just contributed for fun**
