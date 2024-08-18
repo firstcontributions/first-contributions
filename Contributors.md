@@ -7257,3 +7257,4 @@ vivek saskar
 - [Rohith M] (https://github.com/AlphaZero4/first-contributions) *first contribution. Time to kickstart* 
 
 - [Gaurav Latpate](https://github.com/latpategaurav/first-contributions) **First open source contribution!**
+- [Jordan-Iralde](https://github.com/Jordan-Iralde/first-contributions) **Uno, Dos, Tres...🚀**
