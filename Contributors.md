@@ -9,7 +9,7 @@ Ahmad
 - [Sukrija Kararic](https://github.com/sukrijakararic) **Practicing some open source contributing**
 - [Renaldy](https://github.com/laurentiusrenaldy27) **Hello World**
 - [Rohit Sali](https://github.com/Rohit2sali) **this is my first opensource contribution**
-- [Moustapha Camara](https://github.com/MoustaphaCamara) Finally time to step in :)
+- [Moustapha Camara](https://github.com/MoustaphaCamara) **Finally time to step in :)**
 - [Adithya R]{https://github.com/Adithya-R-Gowda} "This is my First Contribution"
 - [Ng Xuan Yi](https://github.com/Xuanniee) **First Open Source Contribution**
 - [Ashish Dabral](https://github.com/DexAsHisH)
@@ -22,6 +22,7 @@ Ahmad
 - [Devanshi-Bavaria](https://github.com/Devubavariaa) **Learning to contribute to open source!!**
 - [@venelouis](https://github.com/venelouis) **Contributing!**
 i
+- [Shreyash Waghe] (https://github.com/Shreyashwaghe) **As they say, A journey of a thousand miles begins with a single step**
 - [Wee Ki Joon](https://github.com/weekijoon) **First of many**
 - [Prabha Krishna](https://github.com/tpks27) **My First Contribution Open Source**
 - [Sam Xia](https://github.com/samsmithspace)**Let him cook**
