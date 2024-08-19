@@ -1,4 +1,5 @@
 
+
 # Contributors
 - [Pankaj Kumar Bind](https://github.com/pankaj-bind) **Heya!! my journey starts here!!**
 -[KithM4](https://github.com/KithM4)**This is my First Git contribution, Follow me on Git**
@@ -15,6 +16,7 @@ Ahmad
 - [Adithya R]{https://github.com/Adithya-R-Gowda} "This is my First Contribution"
 - [Ng Xuan Yi](https://github.com/Xuanniee) **First Open Source Contribution**
 - [Ashish Dabral](https://github.com/DexAsHisH)
+- [Brenda Szuszczewicz](https://github.com/brendaSzu) **first commit**
 - [Vibhum](https://github.com/vibhum15) **Hey I'am new hear , connect me hear and all the best for your open source journey**
 - [Sasha Persaud](https://github.com/soshwosh) **New grad making her first open source commit! Better late than never :p**
 - [Elie-Simard](https://github.com/Elie-Simard) **Hello there, first contributors**
