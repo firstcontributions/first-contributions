@@ -7272,3 +7272,4 @@ vivek saskar
 - [Mzaksana](https://github.com/mzaksana) **Mars Exploration** :atom:
 - [Ritesh](https://github.com/riteshshami) **OS CONTRIBUTION**
 - [kpsy20](https://github.com/kpsy20) **First open source contribution!**
+- [volidesus](https://github.com/volidesus) **Satu, Dua, Tiga...🚀👋**
