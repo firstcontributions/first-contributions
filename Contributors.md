@@ -157,6 +157,7 @@ Parth Bhovad
 - [Juan Calderon](https://github.com/JuanCalderon-17) **my first contribution, not giving up anytime soon**
 - [Vishruth23](https://github.com/Vishruth23) **First OSC** 
 - [Sweta]**NEWW**
+- [Yugal](https://github.com/Yugalgarg2002) **First Contribution**
 - [david gordon](https://github.com/dudigoo/) **second step**
 - [crabCatcher0](https://github.com/crabcatcher0/) **Learning**
 - [yuthadda](https://github.com/yuthadda)
