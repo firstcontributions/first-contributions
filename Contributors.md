@@ -8,6 +8,7 @@ Ahmad
 - [Abhinav Reddy](https://github.com/abhinavreddy05) **One of many to go**
 - [Sukrija Kararic](https://github.com/sukrijakararic) **Practicing some open source contributing**
 - [Renaldy](https://github.com/laurentiusrenaldy27) **Hello World**
+- [Peter Zannes]{https://github.com/pzannes} **open_source_contributions++**
 - [Rohit Sali](https://github.com/Rohit2sali) **this is my first opensource contribution**
 - [Moustapha Camara](https://github.com/MoustaphaCamara) **Finally time to step in :)**
 - [Adithya R]{https://github.com/Adithya-R-Gowda} "This is my First Contribution"
