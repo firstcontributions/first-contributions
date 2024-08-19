@@ -7275,6 +7275,7 @@ vivek saskar
 - [Aaryendra Nargotra](https://github.com/aryannargotra) **Pirate King**
 - [Mushfikur R. Mahi](https://github.com/mushfikurahmaan) **Happy to be the part of this community**
 - [Naveen Prasad K](https://github.com/naveenprasad07) **My updated github id**
+- [Your Average Mo](https://github.com/YourAverageMo) **If your reading this, your awesome. Never give up!**
 - [Johanes Galicia](https://github.com/Johanesgalicia/first-contributions) **First open source contribution!**
 - [Rohith M] (https://github.com/AlphaZero4/first-contributions) *first contribution. Time to kickstart* 
 - [Hedache77] (https://github.com/Hedache77) ***Hi people***
