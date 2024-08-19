@@ -360,6 +360,7 @@ Rudraksh Upadhyay- learing to contribute in open source projects
 -[Code to commit]
 -[Romaric Tokpa](https://github.com/Tokpawood) **Hi, this is my first contribution. I am open**
 -[Kaustubh Warme](https://github.com/siddharth-123) **Hi My name is Kaustubh Warme. This is my first github contribution**
+-[andresriverafrias](https://github.com/andresriverafrias) **Hi My name is Andres Rivera Frias. This is my first github contribution**
 -[Roshan Kumar ](https://github.com/roshankrr) **Hi My name is Roshan Kumar. This is my first github contribution**
 - [Dominic De La Cerda](https://github.com/Domdelacerda) **First contribution, glad to be a part of such a talented and supportive community**
 -[Burak Anil Cila](https://github.com/bcila) **Every line of code is a blend of imagination and logic; every algorithm we write to solve problems is a step shaping the future 🌟**
