@@ -142,6 +142,7 @@ i
 - [Jared Hooker](https://github.com/jrh89) **here we go**
 - [Krupal Shah](https://github.com/krupal-shah) **Trying out OpenSource contributions and am very excited about it!!!**
 - [Samuel Apaza](https://github.com/SamuelHumasi)**My first contribution. Hoping to contribute more!!** 🇵🇪
+- [Vickcoo](https://github.com/vickcoo) Hi👋🏻, This is my first open source contribution.
 - [Yago Pazos](https://github.com/Pletus) **Hello World, Starting my open source journey!**
 - [Shoaib Sadiq Salehmohamed](https://github.com/shoaib2000857) **Persuing Data Science From IIT Madras Thrilled to make my first contribution to open source!**
 Parth Bhovad
