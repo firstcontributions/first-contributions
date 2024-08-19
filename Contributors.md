@@ -6818,6 +6818,7 @@ git stat
 - [kevin wong] (https://github.com/kevinw8765)
 - [Yunfan] (https://github.com/ClarenceJiang71) **Start rolling this open source community**
 - Venkatesh S
+Rohan kumar - Creating driverless cars at IIT BOMBAY
 - [Jesse Sigalov] (https://github.com/JesseSigalov)
 - [namebogsecret] (https://github.com/namebogsecret)
 - [Athena Wrenn] (https://github.com/AthenaWrenn)
