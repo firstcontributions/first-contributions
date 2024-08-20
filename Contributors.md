@@ -74,6 +74,7 @@ i
 - [Davidd0605](https://github.com/Davidd0605) **I wanna punch th guy who made js**
 - [Helter Jay] (https://github.com/HelterJay) **My first Contribution!**
 - [Aditya Pandey](https://github.com/adityapandey78)
+- [Yash Jewalkar](https://github.com/Yash12169) **Good luck
 - [Raphael Adesegun](https://github.com/TheInvincibleRalph) **Hi, Go is my love language. Glad to be making my first ever contribution!
 - [Atiba Ishamali](https://github.com/atibaishamali) **Atiba Ishamali - first Contribution**
 - [Rameel Haroon](https://github.com/RameelHaroon) **UwU**
