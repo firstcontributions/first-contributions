@@ -30,6 +30,7 @@ i
 - [Sam Xia](https://github.com/samsmithspace)**Let him cook**
 - [thesilverwolfx]{https://github.com/thesilverwolfx} **it's 2024, here I am contributing for the first time.**
 - [Rishabh Raj Verma]{https://github.com/RishabhRaj43} **Just contributed for fun**
+- [thepiyush-303](https://github.com/thepiyush-303) **~First OSC will do more in future**
 - [Ronel Torregoza]{https://github.com/Lesterronel} **Just contributed for fun. My first open source contribution😎**
 -[Firoar]{https://github.com/Firoar}
 **Testing few things out**
@@ -7291,4 +7292,3 @@ vivek saskar
 - [volidesus](https://github.com/volidesus) **Satu, Dua, Tiga...🚀👋**
 - [benjaquaria](https://github.com/benjaquaria) **First opensource contribution**
 - [surhudkhare](https://github.com/surhudkhare) **Test OS contribution**
-- [thepiyush-303](https://github.com/thepiyush-303) **~First OSC will do more in future**
