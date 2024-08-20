@@ -794,6 +794,7 @@ Vedant Raut here and this is my first Contribution
 - [JasonRavager](https://github.com/JasonRavager) Hello everyone!
 - [Shailesh Chauhan](https://github.com/sh1lezh) **Hey My first contri** Connect with me [X.com](https://x.com/sh1lezh) [Linkedin](https://linkedin.com/in/shaileshcn)
 - [Rudra]
+- [HeyImNomee](https://github.com/imnomee)**Thanks for helping me make first Contribution to Open Source**
 - [VasanthJS]
 - [YumikoChow] (https://github.com/yumi520) **Hi**
 - Tamiris from Brazil
