@@ -3065,6 +3065,7 @@ guanj65
 - [adeatt](https://github.com/adeatt)
 - [Juliusz](https://github.com/AdeJulius46)
 - [phee]
+- [Fede](https://github.com/FedericoGoffi)
 - SHUBHAM SINGH
 - Mujtaba Saqib
 - Andrew Serrano
