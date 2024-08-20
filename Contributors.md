@@ -7282,6 +7282,7 @@ vivek saskar
 - [Johanes Galicia](https://github.com/Johanesgalicia/first-contributions) **First open source contribution!**
 - [Rohith M] (https://github.com/AlphaZero4/first-contributions) *first contribution. Time to kickstart* 
 - [Hedache77] (https://github.com/Hedache77) ***Hi people***
+- [roushannn] (https://github.com/roushannn) ***Hi everyone! Excited to start contributing!***
 
 - [Gaurav Latpate](https://github.com/latpategaurav/first-contributions) **First open source contribution!**
 - [Jordan-Iralde](https://github.com/Jordan-Iralde/first-contributions) **Uno, Dos, Tres...🚀**
