@@ -88,6 +88,7 @@ i
 - [Manda Kausthubh](https://github.com/MandaKausthubh) **Manda Kausthubh's SE_Lab1 contribution**
 - [Harshith reddy](https://github.com/Harshith2835) **Harshith's First open source contribution!**
 - [LegendYt4k](https://github.com/FreeCode911) **LegendYt4k's First open source contribution!**
+- [Katrina Clow] (https://github.com/katrinaclow) **First contribution**
 - [Vedant Poduval](https://github.com/vedantpoduval) **Vedant tried oss**
 - [Vimal Vinod](https://github.com/dalekvim) **Vimal's First open source contribution!**
 - [Diniru Karunarathne](https://github.com/DiniruKarunarathne) **My first open source contribution**
