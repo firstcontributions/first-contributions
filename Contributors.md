@@ -76,6 +76,7 @@ i
 - [Aditya Pandey](https://github.com/adityapandey78)
 - [Yash Jewalkar](https://github.com/Yash12169) **Good luck
 - [Raphael Adesegun](https://github.com/TheInvincibleRalph) **Hi, Go is my love language. Glad to be making my first ever contribution!
+- [Gabriel Sousa](https://github.com/gablsl) **Gabriel Sousa - My first contribution**
 - [Atiba Ishamali](https://github.com/atibaishamali) **Atiba Ishamali - first Contribution**
 - [Rameel Haroon](https://github.com/RameelHaroon) **UwU**
 -[Mehran Moazeni] (https://github.com/Mehranmzn) **It is just the begining**
