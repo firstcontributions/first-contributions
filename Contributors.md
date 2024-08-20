@@ -7291,3 +7291,4 @@ vivek saskar
 - [volidesus](https://github.com/volidesus) **Satu, Dua, Tiga...🚀👋**
 - [benjaquaria](https://github.com/benjaquaria) **First opensource contribution**
 - [surhudkhare](https://github.com/surhudkhare) **Test OS contribution**
+- [thepiyush-303](https://github.com/thepiyush-303) **~First OSC will do more in future**
