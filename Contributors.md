@@ -530,6 +530,7 @@ Yulia Lantzberg
 - Patricio Améstica
 - Rohit Rawat
 - franroyoo
+- Abhinav Kuppasad (27-abhi)
 - Ananthakrishna K
 - [Shivam SL](https://github.com/ShivamSV1)**:)**
 - [Maggie Chua](https://github.com/maggiechua) **<3**
