@@ -3023,6 +3023,7 @@ guanj65
 - [Farath Shba](https://github.com/farathshba)
 - [Hein Htet Zaw](https://github.com/Justinpop123)
 - [Saksham Khare] (https://github.com/tyrex1829)
+- [Syed Ali Zeeshan] (https://github.com/syedaliwaqar12)
 - [pushrsp] (https://github.com/pushrsp)
 - [YTM] (https://github.com/Yinthirimon02)
 - [Aashish_Singh] (https://github.com/realaashishly/)
