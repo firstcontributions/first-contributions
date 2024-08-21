@@ -16,6 +16,7 @@ Ahmad
 - [Renaldy](https://github.com/laurentiusrenaldy27) **Hello World**
 - [Peter Zannes]{https://github.com/pzannes} **open_source_contributions++**
 - [Rohit Sali](https://github.com/Rohit2sali) **this is my first opensource contribution**
+- [Muhammad Mehar](https://github.com/muhammad-mehar) **this is my first open source contribution**
 - [Moustapha Camara](https://github.com/MoustaphaCamara) **Finally time to step in :**
 - [Dara Yazdani](https://github.com/dyazdani) **I have now touched the source...the *open* source.**
 - [Adithya R]{https://github.com/Adithya-R-Gowda} "This is my First Contribution"
