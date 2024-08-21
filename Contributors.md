@@ -23,6 +23,7 @@ Ahmad
 - [Peter Zannes]{https://github.com/pzannes} **open_source_contributions++**
 - [Rohit Sali](https://github.com/Rohit2sali) **this is my first opensource contribution**
 - [Ranjith R](https://github.com/Ranjithr-007) **First open source contribution!!!**
+- [Khaled Ahmed](https://github.com/wtcherr) **Yay! My first ever open source contribution.**
 - [Rohith Ramaswamy](https://github.com/Rohith404) **First open source contribution by Rohith Ramaswamy!!!**
 - [Yash Saini](https://github.com/yash-saini) **this is my first opensource contribution**
 - [Muhammad Mehar](https://github.com/muhammad-mehar) **this is my first open source contribution**
