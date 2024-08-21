@@ -4619,6 +4619,7 @@ Parthiv Saikia
 - [Jules Reego Rufo](https://github.com/julesrufo26)
 - [Reiner Balschun](https://github.com/ReinerBalschun)
 - Nandini Kashyap
+- [Gabriel Alvim] (https://github.com/Alvimz) **"Who's gonna carry the boats and the logs???" - Goggins
 - [Ashish Dochania](https://github.com/AshishDochania)
 - [N1krat](https://github.com/N1krat)
 - [Nikalas Armstrong] (https://github.com/hangonasecond)
