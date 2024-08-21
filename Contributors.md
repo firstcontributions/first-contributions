@@ -10,6 +10,7 @@
 -[Memoona Shah](https://github.com/maymunashah)**this is one of my first open source contributino and one of many to go  , lets goooo**
 Ahmad
 - [Kyra Cho](https://github.com/kyracho)
+- [Mitchell Friess]
 - [Iván Luis Leiva](https://github.com/illeiva2) **Hi everyone! This is my first contributing on opensource code**
 - [Abhinav Reddy](https://github.com/abhinavreddy05) **One of many to go**
 - [Sukrija Kararic](https://github.com/sukrijakararic) **Practicing some open source contributing**
