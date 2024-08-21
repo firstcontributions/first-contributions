@@ -99,6 +99,7 @@ i
 - [Gabriel Sousa](https://github.com/gablsl) **Gabriel Sousa - My first contribution**
 - [Atiba Ishamali](https://github.com/atibaishamali) **Atiba Ishamali - first Contribution**
 - [Rameel Haroon](https://github.com/RameelHaroon) **UwU**
+- [Rachid Sassine](https://github.com/romegasassine) **Rachid Sassine - first contribution!, starting the grind!!!*
 -[Mehran Moazeni] (https://github.com/Mehranmzn) **It is just the begining**
 - [Vasley Mus](https://github.com/vasleymus) **My first open source contribution**
 - [Ethan Sampson] (https://github.com/ecsampson) **First Open Source Contribution!!
