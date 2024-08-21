@@ -7338,3 +7338,4 @@ vivek saskar
 - [Abhineet Sahay](https://github.com/Abhineetsahay) **First Contribution**
 - [Habeebah Muse](https://github.com/Habeebah157) **Habeebah's First Contribution**
 - [Raman Luhach](https://github.com/Raman-Luhach) ** Happy Coding **
+- [Alex Sthali](https://github.com/AlexSt14) ** My First Contribution **
