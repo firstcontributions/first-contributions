@@ -24,6 +24,7 @@ Ahmad
 - [Iván Luis Leiva](https://github.com/illeiva2) **Hi everyone! This is my first contributing on opensource code**
 - [Abhinav Reddy](https://github.com/abhinavreddy05) **One of many to go**
 - [Sukrija Kararic](https://github.com/sukrijakararic) **Practicing some open source contributing**
+- [Maurik Angelo Fernandez](https://github.com/Maur1k) **My first contribution 3rd year IT Student**
 - [Renaldy](https://github.com/laurentiusrenaldy27) **Hello World**
 - [Peter Zannes]{https://github.com/pzannes} **open_source_contributions++**
 - [Rohit Sali](https://github.com/Rohit2sali) **this is my first opensource contribution**
