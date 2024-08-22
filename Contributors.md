@@ -6849,6 +6849,7 @@ git stat
 - [Nallll88](https://github.com/Nallll88)
 - [Binayak Bhattacharjee](https://github.com/ZenMachina16)
 - [Akash Javali](https://github.com/akashjavali)
+- [Gaia](https://github.com/gbanchelli)
 - [Shrinav Loka] (https://github.com/lokashrinav)
 - [Talasia Calderon](https://github.com/TalasiaCalderon)
 - [Benjamin-Appiah-Poku](https://github.com/Benappiahpoku)
