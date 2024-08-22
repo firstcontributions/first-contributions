@@ -5795,6 +5795,7 @@ LadegbayeStella)
 - [taitep](https://github.com/taitep)
 - [Austin Kim]
 - [Battousai](https://github.com/Battosuai)
+- [TerexNik](https://github.com/TerexNik) **First** ~~and hopefully not last~~
 - [Tushar Chaudhary] (https://github.com/chaudhary-tushar)
 -[kavya-somireddy](https://github.com/Kavya-somireddy/first-contributions.git)
 -[LIZA](https://github.com/LIZA1608)
