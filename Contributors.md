@@ -1,5 +1,6 @@
 
 # Contributors
+- [owobu frank] (https://github.com/frankowobu) ****contributing to an open source project***
 - [Abhinandan Singh](https://github.com/abhinandan29) **☻**
 - [Nalindu Melaka](https://github.com/NalinduMelaka)***This is my contribution***
 - [Aadesh Dubey](https://github.com/aadeshdubey) **Joining Contributors List**
@@ -14,9 +15,8 @@
 - [Mohamed Farid](https://github.com/08mfp) **Hey Everyone, good luck in your journey!**
 -[Memoona Shah](https://github.com/maymunashah)**this is one of my first open source contributino and one of many to go  , lets goooo**
 Ahmad
-sskks
-lkkss
-
+-[Conta De](https://github.com/secbranch)
+Onyi Ajoku😄 #My very first contribution! Excited for whats to come.******
 -[Xiahui Zhang](https://github.com/Xhz0729)**this is my first open source project!**
 -[Keyrun Shrestha](https://github.com/DEADBODY142/)**First time contributing**
 - [Yuriy Mysak](https://github.com/ChairBorn)**ChairBorn**
@@ -26,6 +26,7 @@ lkkss
 - [Iván Luis Leiva](https://github.com/illeiva2) **Hi everyone! This is my first contributing on opensource code**
 - [Abhinav Reddy](https://github.com/abhinavreddy05) **One of many to go**
 - [Sukrija Kararic](https://github.com/sukrijakararic) **Practicing some open source contributing**
+- [Maurik Angelo Fernandez](https://github.com/Maur1k) **My first contribution 3rd year IT Student**
 - [Renaldy](https://github.com/laurentiusrenaldy27) **Hello World**
 - [Peter Zannes]{https://github.com/pzannes} **open_source_contributions++**
 - [Rohit Sali](https://github.com/Rohit2sali) **this is my first opensource contribution**
@@ -41,6 +42,7 @@ lkkss
 - [Ashish Dabral](https://github.com/DexAsHisH)
 - [Vibhum](https://github.com/vibhum15) **Hey I'am new hear , connect me hear and all the best for your open source journey**
 - [Sasha Persaud](https://github.com/soshwosh) **New grad making her first open source commit! Better late than never :p**
+- [Eben](https://github.com.iNezerr) **Better late than never!**
 - [Elly Bachubila](https://github.com/EllyBax) **Hello developers, let me in!**
 - [Elie-Simard](https://github.com/Elie-Simard) **Hello there, first contributors**
 - [TrungAnhVu](https://github.com/trunganhvu) **I'm a Vietnamese guy😉, readly happy to connect with everyone. Ping me and let's code together😎😎**
