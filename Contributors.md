@@ -160,6 +160,7 @@ i
 - [Rohan](https://github.com/r0han44) **Rohan's First open source contribution!**
 - [Yeonjoo](https://github.com/yeonjoo8231) **Yeonjoo's First open source contribution!**
 - [Daniela Cubillos](https://github.com/LDanic)
+- [Rajen Choudhari](https://github.com/hellorajen) **revisiting years later**
 - [GregDask](https://github.com/daskgreg)
 - [Jinseong Choi] (https://github.com/5peaker)
 -[Santosh] (https://github.com/Santoshhhhhhh)
