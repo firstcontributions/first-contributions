@@ -148,11 +148,11 @@ Then switch to your newly-created branch using `git switch` or `git checkout`, F
 
 #### Option 1: git switch
 ```bash
-git switch add-alonzo-church
+git switch your-new-branch-name
 ```
 #### Option 2: git checkout
 ```bash
-git checkout add-alonzo-church
+git checkout your-new-branch-name
 ```
 ## Make necessary changes and commit those changes
 
