@@ -2617,6 +2617,7 @@ Pereira
 - [Siddharth Garg](https://github.com/Siddu24294)
 - [Matthew F](https://github.com/mfecco)
 - [Atharva Domale](https://github.com/AtharvaDomale)
+- [Danny Segal](https://github.com/dannysigalovich)
 - [Akash Verma](https://github.com/akashthemosh)
 - [Aswathy J](https://github.com/purple-black)
 - [Vansh Gupta](https://github.com/goyalvansh4)
