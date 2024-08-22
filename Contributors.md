@@ -3282,6 +3282,7 @@ guanj65
 - [Ahmed Gamal](https://github.com/ahmedgamalpro)
 - [Charles D.](https://github.com/cmd644)
 - [TEYA]
+- [Bernardo Cerqueira](https://github.com/BernardoCerqueira) **FLAMENGO**
 - [Viral Jain](https://github.com/viraljain7)
 - [Sravan kumar](https://github.com/vishnusk2004)
 - [Alex King](https://github.com/ak2466) 🕳️
