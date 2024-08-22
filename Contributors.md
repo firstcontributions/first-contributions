@@ -15,6 +15,7 @@
 - [Mohamed Farid](https://github.com/08mfp) **Hey Everyone, good luck in your journey!**
 -[Memoona Shah](https://github.com/maymunashah)**this is one of my first open source contributino and one of many to go  , lets goooo**
 Ahmad
+Onyi Ajoku😄 #My very first contribution! Excited for whats to come.******
 -[Xiahui Zhang](https://github.com/Xhz0729)**this is my first open source project!**
 -[Keyrun Shrestha](https://github.com/DEADBODY142/)**First time contributing**
 - [Yuriy Mysak](https://github.com/ChairBorn)**ChairBorn**
