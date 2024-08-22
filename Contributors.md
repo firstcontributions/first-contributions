@@ -19,7 +19,7 @@ Ahmad
 -[Conta De](https://github.com/secbranch)
 Onyi Ajoku😄 #My very first contribution! Excited for whats to come.******
 -[Xiahui Zhang](https://github.com/Xhz0729)**this is my first open source project!**
--[Keyrun Shrestha](https://github.com/DEADBODY142/)**First time contributing**
+- [Keyrun Shrestha](https://github.com/DEADBODY142/)**First time contributing**
 - [Yuriy Mysak](https://github.com/ChairBorn)**ChairBorn**
 - [Kyra Cho](https://github.com/kyracho)
 - [Mitchell Friess]
