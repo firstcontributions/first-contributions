@@ -26,6 +26,7 @@ Ahmad
 Onyi Ajoku😄 #My very first contribution! Excited for whats to come.******
 -[Xiahui Zhang](https://github.com/Xhz0729)**this is my first open source project!**
 -[Keyrun Shrestha](https://github.com/DEADBODY142/)**First time contributing**
+-[Shahraiz Aziz](https://github.com/Shahraiz-commits/) **Well this is something, isn't it?**
 - [Yuriy Mysak](https://github.com/ChairBorn)**ChairBorn**
 - [Kyra Cho](https://github.com/kyracho)
 - [Mitchell Friess]
