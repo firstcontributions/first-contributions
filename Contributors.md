@@ -22,6 +22,7 @@
 - [Mohamed Farid](https://github.com/08mfp) **Hey Everyone, good luck in your journey!**
 -[Memoona Shah](https://github.com/maymunashah)**this is one of my first open source contributino and one of many to go  , lets goooo**
 Ahmad
+- [Harshit Varshney]
 - [Meeran Tofiq](https://github.com/Meeran-Tofiq) **First of many, many, MANY more to come**
 -[Conta De](https://github.com/secbranch)
 - [praveen kumar](https://github.com/praveenkumar-4E2)
