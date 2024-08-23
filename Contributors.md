@@ -27,6 +27,7 @@ Ahmad
 - [Unnat Sharma](https://github.com/unnxt30) **First contribution to OS :)**
 - [Meeran Tofiq](https://github.com/Meeran-Tofiq) **First of many, many, MANY more to come**
 - [Tanapat Samranchit](https://github.com/1jamessam)
+- [Monojit Tewari](https://github.com/FlowerC9) **new to os**
 -[Conta De](https://github.com/secbranch)
 - [praveen kumar](https://github.com/praveenkumar-4E2)
 Onyi Ajoku😄 #My very first contribution! Excited for whats to come.******
