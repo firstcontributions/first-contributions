@@ -945,6 +945,7 @@ Niggesh
 - [Rishi Srivastava](https://github.com/Lordgrim999)
 - [Aditya](https://github.com/NikaYz)
 - [Vitalii Zghonnik](https://github.com/vitaliizghonnik) **Hello Everyone! I'm Vitalii and I'm thrilled to contribute to the Open-source project. More will be😉**
+- [Vishwajeet Singh Rana](https://github.com/vishwajeetsinghrana8) **Hello Everyone! I'm Vishwajeet Singh Rana and I'm thrilled to contribute to the Open-source project. This is my first open source contribution😉**
 - [morenzo](https://github.com/morenzorafael)
 - [Arshiyan Shaikh](https://github.com/itsshaikhaj)
 - [Caitlin Hathaway](https://github.com/caitlinhat) **Hello! :D**
