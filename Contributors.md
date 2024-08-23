@@ -7331,7 +7331,7 @@ vivek saskar
 - [Rohith M] (https://github.com/AlphaZero4/first-contributions) *first contribution. Time to kickstart* 
 - [Hedache77] (https://github.com/Hedache77) ***Hi people***
 - [roushannn] (https://github.com/roushannn) ***Hi everyone! Excited to start contributing!***
-- [Junhyuk] (https://github.com/njm1250/) *** Hehe ***
+- [Junhyuk](https://github.com/njm1250/) *** Hehe ***
 - [Gaurav Latpate](https://github.com/latpategaurav/first-contributions) **First open source contribution!**
 - [Jordan-Iralde](https://github.com/Jordan-Iralde/first-contributions) **Uno, Dos, Tres...🚀**
 - [Mzaksana](https://github.com/mzaksana) **Mars Exploration** :atom:
