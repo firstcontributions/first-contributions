@@ -7,6 +7,7 @@
 - [Gabriel Lipaysa](https://github.com/Er000s) **I am now ready for world domination**
 - [Nalindu Melaka](https://github.com/NalinduMelaka)***This is my contribution***
 - [Aadesh Dubey](https://github.com/aadeshdubey) **Joining Contributors List**
+- [ni pate](https://github.com/nipate) **I am a newbie!**
 - [Pankaj Kumar Bind](https://github.com/pankaj-bind) **Heya!! my journey starts here!!**
 - [Nathan Hagan](https://github.com/BeastieNate5) *2Best Girl!!!*
 - [Dhrubo Roy Partho](https://github.com/DhruboRoyPartho) **First step in OpenSource Contribution**
