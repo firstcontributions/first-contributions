@@ -1,5 +1,5 @@
 # Contributors
-- [Joseph Tiglao](https://github.com/JosephTiglao) **Getting started!!!** Cram hard
+- [Joseph Tiglao](https://github.com/JosephTiglao) **Getting Started!!!** Cram hard
 - [owobu frank] (https://github.com/frankowobu) ****contributing to an open source project***
 - [Li Jiajun](https://github.com/lijiajun3029) **I am a newbie!**
 - [Abhinandan Singh](https://github.com/abhinandan29) **☻**
@@ -22,6 +22,7 @@
 - [Mohamed Farid](https://github.com/08mfp) **Hey Everyone, good luck in your journey!**
 -[Memoona Shah](https://github.com/maymunashah)**this is one of my first open source contributino and one of many to go  , lets goooo**
 Ahmad
+- [Harshit Varshney]
 - [Meeran Tofiq](https://github.com/Meeran-Tofiq) **First of many, many, MANY more to come**
 -[Conta De](https://github.com/secbranch)
 - [praveen kumar](https://github.com/praveenkumar-4E2)
@@ -2268,6 +2269,7 @@ Sam Barns
 - [Caden Maxwell] (https://github.com/CadenMax)
 - [Chetan] (https://github.com/falcon-96)
 - [DingDingKO] (https://github.com/dingdingko)
+- [Panthomema](https://github.com/Panthomema) **Ok, let's go!**
 - [Akintunde Olayinka] (https://github.com/oakintunde)
 - Andrew Craeton
 - [JRW] (https://github.com/ShuaRead)
