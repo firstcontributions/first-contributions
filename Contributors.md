@@ -59,6 +59,7 @@ Onyi Ajoku😄 #My very first contribution! Excited for whats to come.******
 - [Ng Xuan Yi](https://github.com/Xuanniee) **First Open Source Contribution**
 - [Ashish Dabral](https://github.com/DexAsHisH)
 - [Vibhum](https://github.com/vibhum15) **Hey I'am new hear , connect me hear and all the best for your open source journey**
+- [P Chatman] (https://github.com/pchatman) **Hello✌️** 
 - [Sasha Persaud](https://github.com/soshwosh) **New grad making her first open source commit! Better late than never :p**
 - [George] (https://github.com/joji-tek) 
 - [Eben](https://github.com.iNezerr) **Better late than never!**
