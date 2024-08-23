@@ -6866,4 +6866,4 @@
 - [Habeebah Muse](https://github.com/Habeebah157) **Habeebah's First Contribution**
 - [Raman Luhach](https://github.com/Raman-Luhach) ** Happy Coding **
 - [Alex Sthali](https://github.com/AlexSt14) ** My First Contribution **
-- [Akash](https://github.com/divine7022) ** My first contributiob **
+- [Akash](https://github.com/divine7022) ** My first contribution exicited to start **
