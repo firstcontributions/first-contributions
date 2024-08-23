@@ -30,6 +30,7 @@ Ahmad
 - [Tanapat Samranchit](https://github.com/1jamessam)
 - [Monojit Tewari](https://github.com/FlowerC9) **new to os**
 -[Conta De](https://github.com/secbranch)
+-[Falak Rastogi](https://github.com/FalakR) **Wow, this was fun!!**
 - [praveen kumar](https://github.com/praveenkumar-4E2)
 Onyi Ajoku😄 #My very first contribution! Excited for whats to come.******
 -[Xiahui Zhang](https://github.com/Xhz0729)**this is my first open source project!**
