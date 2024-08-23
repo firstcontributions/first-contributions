@@ -506,6 +506,7 @@ Yulia Lantzberg
 -[Kiet Ly](https://github.com/kietly2k) **Hi Open source world!**
 -[Sumit Sagar](https://github.com/mostpalon3)**Just continue coding and fall in love with it.(btw I am a Web Developer)**
 -JohnK
+-Satchit1910
 - [Kinesin14]
 -[Chana Roz](https://github.com/ChaniRoz) ** My first contribution to open source 🎉28/07/2024 **
 -Yoshito
