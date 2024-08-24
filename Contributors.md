@@ -29,7 +29,6 @@
 - [Mohamed Farid](https://github.com/08mfp) **Hey Everyone, good luck in your journey!**
 -[Memoona Shah](https://github.com/maymunashah)**this is one of my first open source contributino and one of many to go  , lets goooo**
 Ahmad
--[Jyothishree Rajkumar](https://github.com/Jyothishree2k5) **This is my first contribution and i am already feeling overwhelmed!!idk why lol, long way to go man**
 - [Anjali] [https://github.com/Anjalii-09] **I'm Anjali Singh. Would like to connect with you all!**
 - [Arpit Nehra] [https://github.com/arpitnehra16] **I'm Arpit Nehra. Would like to connect with you all!**
 - [Harshit Varshney]
@@ -2926,7 +2925,6 @@ Kencham Vinay
 -[Shaurya Sambyal](https://github.com/ShauryaSambyal)
 -[Anirudh Patil] (https://github.com/Anirudh2112)
 -[Amir Abdullahi](https://github.com/amirabdullahi)
--[Akilesh Jayakumar](https://github.com/akileshjayakumar) [LinkedIn](https://www.linkedin.com/in/akileshjayakumar/) 
 -[Comfort Prince](https://github.com/comfortprince)
 -[rukmaniVijay](https://github.com/rukmanivijay)
 -[Dileep Kumar D](https://github.com/Dileep-kumar-D)
@@ -4045,6 +4043,7 @@ Romeu Leite
 - [Hemant](https://github.com/hemant187)
 - [Pradip Borade](https://github.com/pradipborade911)
 - [Sandeep Dewangan](https://github.com/sandy15d)
+- [Akilesh Jayakumar](https://github.com/akileshjayakumar)
 - [Jess Lane](https://github.com/jesslane94)
 - [Osman](https://github.com/Osmansiddiquer)
 - [Abhijith Subash](https://github.com/abhijith-07) Happy to contribute more to open source
