@@ -4,7 +4,7 @@
 -[BinaryBrain](https://github.com/BinaryBrain45)**This is my first contribution. Follow me, let's collaborate and make some awesone projects**
 -[Joseph Tiglao](https://github.com/JosephTiglao) **Getting Started!!!** Cram hard
 ashutosh Sharma
--[Vandana Choudhari](https://github.com/VandanaChoudhari) **Start Contribution**
+-[Vandana Choudhari](https://github.com/VandanaChoudhari) **Start Contribution!**
 - [Godfrey Javier](https://github.com/GodfreyPotato) **hellowiee**
 -[naga jaideep](https;//github.com/nagajaideep) **getting started with open source**
 - [🇯🇵codekakitai51] (https://github.com/codekakitai51) **what's uuuuuuuuuuuuuuuuuuuuuuup!**
