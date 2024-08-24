@@ -1,6 +1,7 @@
 
 # Contributors
 -[Joseph Tiglao](https://github.com/JosephTiglao) **Getting Started!!!** Cram hard
+-[naga jaideep](https;//github.com/nagajaideep) **getting started with open source**
 - [owobu frank] (https://github.com/frankowobu) ****contributing to an open source project***
 - [Li Jiajun](https://github.com/lijiajun3029) **I am a newbie!**
 - [Brenton Gray](https://github.com/gray-skull) **First Contribution - 08/23/2024**
