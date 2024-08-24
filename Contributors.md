@@ -102,6 +102,7 @@ i
 - [Aarushi Aggrwal](https://github.com/aarushia3) ** My first contribution! **
 - [Shashwat Tripathi](https://github.com/devshashwat4u)**My First ever contribution**
 - [Nicole Cosmany] (https://github.com/nicolecosmany) **Learning!!**
+-[Anurag Mishra] (https://github.com/Anuragmishra1000) **My First ever Contribution**
 - [Obianuko Daniel](https://github.com/ascomani)**First *opens source contribution**
 - [isidro rivera](https://github.com/lyrics05) **This is my first contribution**
 - [Vijay Raj](https://github.com/V1j4YRaj) **This is my first contribution**
