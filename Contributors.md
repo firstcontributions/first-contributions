@@ -7415,3 +7415,4 @@ vivek saskar
 - [Diego Souza] (https://github.com/SouzaDiegoCl) **Adentrando no universo open source 24/08/2024**
 - [Abhishek Shankar] (https://github.com/abhisheksd27) **Lets Learn Together**
 - [Sanjay Kaushik] (https://github.com/sanju-gif) **Lets Learn we all Together**
+- [Pratyush Shukla] (https://github.com/pshukla441)
