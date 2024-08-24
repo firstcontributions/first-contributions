@@ -7402,4 +7402,5 @@ vivek saskar
 - [Adrian Alarcon](https://github.com/pelaokano) **Hola Hola desde España.**
 - [Yunjia Li](https://github.com/alv-en) **always be contributing**
 - [RjayBrown] (https://github.com/RjayBrown) **Hello Open Source!**
+- [Gopal Tiwari] (https://github.com/GopaltiwariIET) **I now understand how these things works 24/08/2024**
 - [Diego Souza] (https://github.com/SouzaDiegoCl) **Adentrando no universo open source 24/08/2024**
