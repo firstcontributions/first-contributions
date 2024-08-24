@@ -1,5 +1,6 @@
 
 # Contributors
+- - [Godfrey Javier](https://github.com/GodfreyPotato) ** Zed Forever **
 - [owobu frank] (https://github.com/frankowobu) ****contributing to an open source project***
 - [Abhinandan Singh](https://github.com/abhinandan29) **☻**
 - [Nalindu Melaka](https://github.com/NalinduMelaka)***This is my contribution***
@@ -7350,4 +7351,3 @@ vivek saskar
 - [Habeebah Muse](https://github.com/Habeebah157) **Habeebah's First Contribution**
 - [Raman Luhach](https://github.com/Raman-Luhach) ** Happy Coding **
 - [Alex Sthali](https://github.com/AlexSt14) ** My First Contribution **
-- [Godfrey Javier](https://github.com/GodfreyPotato) ** Zed Forever **
