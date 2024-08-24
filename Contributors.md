@@ -27,6 +27,7 @@
 - [Mohamed Farid](https://github.com/08mfp) **Hey Everyone, good luck in your journey!**
 -[Memoona Shah](https://github.com/maymunashah)**this is one of my first open source contributino and one of many to go  , lets goooo**
 Ahmad
+- [Anjali] [https://github.com/Anjalii-09] **I'm Anjali Singh. Would like to connect with you all!**
 - [Harshit Varshney]
 - [Noah Woods](https://github.com/noahcwoods/) **What is going on right now?**
 - [Unnat Sharma](https://github.com/unnxt30) **First contribution to OS :)**
