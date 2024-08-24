@@ -3,6 +3,7 @@
 -[Joseph Tiglao](https://github.com/JosephTiglao) **Getting Started!!!** Cram hard
 - [owobu frank] (https://github.com/frankowobu) ****contributing to an open source project***
 - [Li Jiajun](https://github.com/lijiajun3029) **I am a newbie!**
+- [Brenton Gray](https://github.com/gray-skull) **First Contribution - 08/23/2024**
 - [Abhinandan Singh](https://github.com/abhinandan29) **☻**
 - [Gabriel Lipaysa](https://github.com/Er000s) **I am now ready for world domination**
 - [Nalindu Melaka](https://github.com/NalinduMelaka)***This is my contribution***
