@@ -16,6 +16,7 @@
 - [Noah Evans](https://github.com/Noahkevans) **Here we go**
 - [Moteeullah Azmi](https://github.com/moteeullahazmi)***This is my contribution***
 -[KithM4](https://github.com/KithM4)**This is my First Git contribution, Follow me on Git**
+-[Akshay Sodhi](https://github.com/AkshaySodhi) **Hello**
 -[Shivam Moray](https://github.com/shivam-moray/)**This is my first github open source contribution**
 -[Sohan Rai](https://github.com/SohanRaidev/)**Hey there!! Yes YOU! Best of luck. Sohan was here! 17Y/O**
 -[Mariela Montaldo](https://github.com/m0nt4ld0/)**Marie was here! This is my first open source contribution**
