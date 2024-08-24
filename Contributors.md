@@ -7404,3 +7404,4 @@ vivek saskar
 - [RjayBrown] (https://github.com/RjayBrown) **Hello Open Source!**
 - [Gopal Tiwari] (https://github.com/GopaltiwariIET) **I now understand how these things works 24/08/2024**
 - [Diego Souza] (https://github.com/SouzaDiegoCl) **Adentrando no universo open source 24/08/2024**
+-[Abhishek Shankar] (https://github.com/abhisheksd27) **Lets Learn Together**
