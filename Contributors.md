@@ -7358,6 +7358,7 @@ vivek saskar
 - [red3blue](https://github.com/red3blue) **Hello World!. This is my first contribution :D**
 - [unKnown_NG](https://github.com/unKnownNG) **My first open source contribution!**
 - [lai dudum](https://github.com/laidudum) **my first ever open-source contribution**
+- [Samet](https://github.com/sametmarasli) **hello world!**
 - [Tarun Sharma](https://github.com/tarunsharmawee)**My first contribution**
 - [Haaris](https://github.com/haaris7) **I did a thing**
 - [Prateek Rath](https://github.com/PrateekRath) **I did a thing**
