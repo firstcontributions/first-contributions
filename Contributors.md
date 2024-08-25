@@ -166,6 +166,7 @@ rashee
 - [Leandro Oliveira](https://github.com/LeandroOliveiraDeQueiroz/)
 - [Aiden Ayers](https://github.com/FulgurStrike)
 - Elie Inahon
+- [Ibro Abdulazee]
 - [Tamar Weisskopf](https://github.com/TamarW0)
 - KSV
 - [Abdulrahman Idrees](https://github.com/akhaled01)
