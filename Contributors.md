@@ -5184,7 +5184,13 @@ git stat
 - [Rahat-Khan-Pathan] (https://github.com/Rahat-Khan-Pathan)
 - [TAKUCH](https://github.com/sacky3105) : I am a japanese software engineer!!
 - [SAUMYA](https://github.com/saumyasinha31) : I am learning open source!
-- [Abdelrahman Elsayed](https://github.com/aaelsay3d)
+- [Ibrahim Abdulazee] (https://gitbub.com/owoblow0001): I am a Nigerian
+- [zizom]
+- [Ankith Veldandi]
+- [Khursheed](https://github.com/khurshied)
+- [Bhavishya Pancholi](https://github.com/Royalcaptain-v2)
+- [Parth dey](https://github.com/parthdey)
+- [Works Better](ht [Abdelrahman Elsayed](https://github.com/aaelsay3d)
 - [Code-Viktor](https://github.com/Code-Viktor)
 - [Sivaprasad.G] (https://github.com/sprasad-g)
 - [wlowrd] (https://github.com/wlowrd)
