@@ -659,6 +659,7 @@ Yulia Lantzberg
 - [Aaron](https://github.com/nuffQuantumSayd) **First timer!!**
 - [Niels](https://github.com/nielsfechtel) **Hello there**
 - JRV [https://github.com/JRV7903] **Hello World!**
+- [Kazi Alliian](https://github.com/allian000) **open source contribution**
 - [AaronR](https://github.com/AaronR23)**Also a first timer**
 - [Hasson](https://github.com/ahmeedHassan1) **Hello**
 - [guruprashanth2004](https://github.com/guruprashanth2004)** guru was here**   
