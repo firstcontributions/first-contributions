@@ -4845,6 +4845,7 @@ Parthiv Saikia
 - [DankGuy](https://github.com/DankGuy)
 -[Leonidov Egor](https://github.com/leonidov-dev)
 - [oladetohun1](https://github.com/oladetohun1)
+- Pol Rius (https://github.com/pol-rius)
 - [Edmond Prin] (https://github.com/edmondprin)
 - [DuckWithDrip] (https://github.com/DuckWithDrip)
 - [Ram Deepak] (https://github.com/Ram-Deepak)
