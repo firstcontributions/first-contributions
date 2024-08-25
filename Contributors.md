@@ -67,6 +67,7 @@ Onyi Ajoku😄 #My very first contribution! Excited for whats to come.******
 - [Yuriy Mysak](https://github.com/ChairBorn)**ChairBorn**
 - [Kyra Cho](https://github.com/kyracho)
 - [Mitchell Friess]
+- [Jame Gross](https://github.com/Jamesa144)
 - Sammy Farida -[(GitHub)](https://github.com/samerfarida) [(Linkedin)](https://www.linkedin.com/in/sammyfarida/) 
 - [Keyrun Shrestha](https://github.com/DEADBODY142/)**First time contributing**
 - [Iván Luis Leiva](https://github.com/illeiva2) **Hi everyone! This is my first contributing on opensource code**
