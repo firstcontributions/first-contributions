@@ -5,7 +5,7 @@
 -[Mariela Montaldo](https://github.com/m0nt4ld0/)**Marie was here! This is my first open source contribution**
 -[Shrinedhi](https://github.com/Web-Dev-Learner)**this is my first opensource contribution**
 Ahmad
-- [Shrinedhi](https://github.com/Kyorzo)**kyorzo was here 👹**
+- [Kyorzo](https://github.com/Kyorzo)**kyorzo was here 👹**
 - [Iván Luis Leiva](https://github.com/illeiva2) **Hi everyone! This is my first contributing on opensource code**
 - [Abhinav Reddy](https://github.com/abhinavreddy05) **One of many to go**
 - [Sukrija Kararic](https://github.com/sukrijakararic) **Practicing some open source contributing**
