@@ -7477,3 +7477,4 @@ vivek saskar
 - [Nicolen Evanz Aricayos](https://github.com/razstvien01) **Let's git started.**
 - [Mohamed-588](https://github.com/Mohamed-588)
 - [Muhammad Owais Mushtaq](https://github.com/muhammadowaismushtaq) **First of many upcoming contributions.**
+- [Bryan Daniel](https://github.com/BRobDan) **First, we post to GitHub, Pinky...Then we take over the world!**
