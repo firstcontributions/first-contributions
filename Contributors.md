@@ -98,6 +98,7 @@ Onyi Ajoku😄 #My very first contribution! Excited for whats to come.******
 - [George] (https://github.com/joji-tek) 
 - [Vincen-Cueva]
 - [Eben](https://github.com.iNezerr) **Better late than never!**
+- [MicaellaAlmoite]
 - [Danielle Gaither](https://github.com/daniellegaither) **The tech comeback is on!**
 - [Elly Bachubila](https://github.com/EllyBax) **Hello developers, let me in!**
 - [Elie-Simard](https://github.com/Elie-Simard) **Hello there, first contributors**
