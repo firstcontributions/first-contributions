@@ -4,8 +4,6 @@
 -[Teoman ÇELİK](https://github.com/Teocelik)**Bu benim ilk github açık kaynaklı bir projeye katkımdır!**
 -[BinaryBrain](https://github.com/BinaryBrain45)**This is my first contribution. Follow me, let's collaborate and make some awesone projects**
 -[Joseph Tiglao](https://github.com/JosephTiglao) **Getting Started!!!** Cram hard
-ashutosh Sharma
-Rakesh Radhakrishnan dev was here.
 -  [Mathhtew]
 - [Robert Dobre](https://robert-dobre.github.io/) **Let's get in touch and create something together**
 - [Si Thu Ko](https://github.com/ST-KO) **Lets go**
@@ -22,6 +20,7 @@ Rakesh Radhakrishnan dev was here.
 - [Daniel Fekede](https://github.com/ljdan1) **my day one journey**
 - [Abhinandan Singh](https://github.com/abhinandan29) **☻**
 - [Agamjot Bedi](https://github.com/agxmbedi) **Hi agam this side**
+- [Usman](https://github.com/UsmanIftikhar921) **Newbie dev here**
 - [Gabriel Lipaysa](https://github.com/Er000s) **I am now ready for world domination**
 - [Nalindu Melaka](https://github.com/NalinduMelaka)***This is my contribution***
 - [Aadesh Dubey](https://github.com/aadeshdubey) **Joining Contributors List**
