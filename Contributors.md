@@ -6,7 +6,7 @@
 -[Joseph Tiglao](https://github.com/JosephTiglao) **Getting Started!!!** Cram hard
 ashutosh Sharma
 Rakesh Radhakrishnan dev was here.
--  [Mathhtew]
+  
 - [Si Thu Ko](https://github.com/ST-KO) **Lets go**
 - [Fionah Santua](https://github.com/itsmefionah) **hello**
 -[Vandana Choudhari](https://github.com/VandanaChoudhari) **Start Contribution!**
@@ -74,6 +74,7 @@ Onyi Ajoku😄 #My very first contribution! Excited for whats to come.******
 - [Yuriy Mysak](https://github.com/ChairBorn)**ChairBorn**
 - [Kyra Cho](https://github.com/kyracho)
 - [Mitchell Friess]
+- [Min Thway Htut](https://github.com/Min-Thway-Htut) **Los geht's**
 - [Jame Gross](https://github.com/Jamesa144)
 - Sammy Farida -[(GitHub)](https://github.com/samerfarida) [(Linkedin)](https://www.linkedin.com/in/sammyfarida/) 
 - [Keyrun Shrestha](https://github.com/DEADBODY142/)**First time contributing**
