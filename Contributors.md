@@ -9,6 +9,7 @@ Rakesh Radhakrishnan dev was here.
 - [Essa] 
 -  [Mathhtew]
 - [Robert Dobre](https://robert-dobre.github.io/) **Let's get in touch and create something together**
+-[Nazim saifi](https;//github.com/Nazim9945) **just warming up**
 - [Si Thu Ko](https://github.com/ST-KO) **Lets go**
 - [Shivam Kamat](git@github.com:Light-Yagami-7/) **hmmm...**
 - [Fionah Santua](https://github.com/itsmefionah) **hello**
