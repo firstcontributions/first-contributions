@@ -5,7 +5,7 @@
 -[Joseph Tiglao](https://github.com/JosephTiglao) **Getting Started!!!** Cram hard
 ashutosh Sharma
 Rakesh Radhakrishnan dev was here.
--[Chiefspy] (https://github.com/Chiefspy) ** first contribution very excited ** 
+- [Chiefspy](https://github.com/Chiefspy) **first contribution very excited** 
 There are no shortcuts in life only hard work and long hours
 - [Si Thu Ko](https://github.com/ST-KO) **Lets go**
 -[Vandana Choudhari](https://github.com/VandanaChoudhari) **Start Contribution!**
