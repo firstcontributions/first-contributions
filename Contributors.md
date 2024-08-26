@@ -122,7 +122,7 @@
 - [Krsna Agrawal]
 - [Stackoverflow-addict]
 
--[Zaid Waseem](https://github.com/ZaidWaseem7) **I am trying Learn how we can contribute to open source projects**
+-[Zaid Waseem](https://github.com/ZaidWaseem7) **I am trying Learn how we can contribute to open source projects** -[Zaid Waseem](https://github.com/ZaidWaseem7) **I am trying Learn how we can contribute to open source projects** -[Zaid Waseem](https://github.com/ZaidWaseem7) **I am trying Learn how we can contribute to open source projects** -[Zaid Waseem](https://github.com/ZaidWaseem7) **I am trying Learn how we can contribute to open source projects** -[Zaid Waseem](https://github.com/ZaidWaseem7) **I am trying Learn how we can contribute to open source projects** -[Zaid Waseem](https://github.com/ZaidWaseem7) **I am trying Learn how we can contribute to open source projects** -[Zaid Waseem](https://github.com/ZaidWaseem7) **I am trying Learn how we can contribute to open source projects** -[Zaid Waseem](https://github.com/ZaidWaseem7) **I am trying Learn how we can contribute to open source projects** -[Zaid Waseem](https://github.com/ZaidWaseem7) **I am trying Learn how we can contribute to open source projects**
 
 - [Rishabh Dang](https://github.com/Rish-1903) **This is my first open source contribution**
 - [Andy Nguyen](https://github.com/andyTCS) **This is my first open source contribution**
