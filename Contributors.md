@@ -1,17 +1,18 @@
 
 # Contributors
 - [SaravanaGanesh Ulagamani](https://github.com/usganesh/) **Lets go to OpenWorld(Ulagi)**
--[Teoman ÇELİK](https://github.com/Teocelik)**Bu benim ilk github açık kaynaklı bir projeye katkımdır!**
--[BinaryBrain](https://github.com/BinaryBrain45)**This is my first contribution. Follow me, let's collaborate and make some awesone projects**
--[Joseph Tiglao](https://github.com/JosephTiglao) **Getting Started!!!** Cram hard
+- [Alya Rees](https://github.com/AlyaRees) **My first contribution in a while, and here's to many more!**
+- [Teoman ÇELİK](https://github.com/Teocelik)**Bu benim ilk github açık kaynaklı bir projeye katkımdır!**
+- [ BinaryBrain](https://github.com/BinaryBrain45)**This is my first contribution. Follow me, let's collaborate and make some awesone projects**
+- [Joseph Tiglao](https://github.com/JosephTiglao) **Getting Started!!!** Cram hard
 ashutosh Sharma
 Rakesh Radhakrishnan dev was here.
 - [Si Thu Ko](https://github.com/ST-KO) **Lets go**
 - [Fionah Santua](https://github.com/itsmefionah) **hello**
--[Vandana Choudhari](https://github.com/VandanaChoudhari) **Start Contribution!**
+- [Vandana Choudhari](https://github.com/VandanaChoudhari) **Start Contribution!**
 - [Godfrey Javier](https://github.com/GodfreyPotato) **hellowiee**
--[naga jaideep](https;//github.com/nagajaideep) **getting started with open source**
-- [🇯🇵codekakitai51] (https://github.com/codekakitai51) **what's uuuuuuuuuuuuuuuuuuuuuuup!**
+- [naga jaideep](https;//github.com/nagajaideep) **getting started with open source**
+- [🇯🇵codekakitai51](https://github.com/codekakitai51) **what's uuuuuuuuuuuuuuuuuuuuuuup!**
 - [tommaso muraca](https://github.com/tommy987-droid) **Viva l'open source**
 - [owobu frank] (https://github.com/frankowobu) ****contributing to an open source project***
 - [Li Jiajun](https://github.com/lijiajun3029) **I am a newbie!**
