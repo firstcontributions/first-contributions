@@ -6580,6 +6580,7 @@ guanj65
 - [Emilio M]
 - [CrispNight]
 - [MisouMisou]
+- [Duke](https://github.com/Duke242)
 - [MJ Studio](https://github.com/mym0404)
 - [BiniyamDS](https://github.com/BiniyamDS)
 - [ihazrel](https://github.com/ihazrel)
