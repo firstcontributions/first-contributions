@@ -96,6 +96,7 @@ Onyi Ajoku😄 #My very first contribution! Excited for whats to come.******
 - [P Chatman] (https://github.com/pchatman) **Hello✌️** 
 - [Sasha Persaud](https://github.com/soshwosh) **New grad making her first open source commit! Better late than never :p**
 - [George] (https://github.com/joji-tek) 
+- [Vincen-Cueva]
 - [Eben](https://github.com.iNezerr) **Better late than never!**
 - [Danielle Gaither](https://github.com/daniellegaither) **The tech comeback is on!**
 - [Elly Bachubila](https://github.com/EllyBax) **Hello developers, let me in!**
