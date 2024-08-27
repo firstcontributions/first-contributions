@@ -292,6 +292,7 @@ Parth Bhovad
 - [yuthadda](https://github.com/yuthadda)
 - [FernandoSiavato](https://github.com/FernandoSiavato)
 - [varnit-mittal](https://github.com/varnit-mittal) **Just for my SE Lab Attendance purpose**
+- [Ender Gooseman](https://github.com/EnderDev7379) **yaay, first contribution**
 - [Mohit Naik](https://github.com/mohit086) **Contributed**
 - [Vineet Upadhyay](https://github.com/uvineet53) **Data Scientist and AI developer. This is my first OSS contribution. Woohoo!**
 -[chedva and Libby](https://github.com/chedva-n)**Try first time open source**
