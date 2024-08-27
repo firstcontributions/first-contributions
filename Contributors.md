@@ -612,6 +612,7 @@ Yulia Lantzberg
 -Leopoldo Chavarria
 -Shashank here
 -Biplav Bhandari
+-Lin Yuan
 - Micael Pereira da Silva
 - [Adarsh Prakash Patil](https://github.com/AdarshPatil04/) **First Open Source Contribution"
 - [Matteo Lombardi](https://github.com/lombichh)
