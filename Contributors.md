@@ -7492,4 +7492,5 @@ vivek saskar
 - [Muhammad Owais Mushtaq](https://github.com/muhammadowaismushtaq) **First of many upcoming contributions.**
 - [Bryan Daniel](https://github.com/BRobDan) **First, we post to GitHub, Pinky...Then we take over the world!**
 - [Ayush Tripathi](https://github.com/AyushTripathi07) **First Contribution**
+- [Art Haxholli](https://github.com/ATEZH) **Hi from lajthia :o this is awesome :D**
 
