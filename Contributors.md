@@ -1330,6 +1330,7 @@ vrushabhpatil48
 - [Gilbert Kamau](https://github.com/GilbertKamau) **First contibutions**
 - [Jyotsna](https://github.com/Akki-58) **Contributing**
 - [Wisdom Ofogba](https://github.com/WisdomOfogba)
+- [Gonzalo Orsi](https://github.com/gonzaloorsi) **Patience is good, but perseverance is better.**
 - [Kaede Nakayashiki](https://github.com/naka520)
 - [Gunju Yoo](https://github.com/bakgom123)
 - [Seyyed Amirreza Hosseini](https://github.com/seyyed-amirreza-hosseini/)
