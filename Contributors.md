@@ -298,6 +298,7 @@ Theresia Calista
 - [samarth1011-1](https://github.com/samarth1011-1) **LMAO HELLO**
 - [Abhijeet_Mate](https://github.com/Abhijeet314/)**Learning**
 - Hemant Gupta here!!
+- Dean Eby
 - Jesus Enrique Tomas Rodriguez Mac Lean was here.
 - [Drew Payton](https://github.com/Drewpayton) **My first OpenSource Contributions!!**
 - Vismaya Nair "First ever open source contribution and many more to go...💫"
