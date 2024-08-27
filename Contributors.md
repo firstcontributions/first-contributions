@@ -91,6 +91,7 @@ Onyi Ajoku😄 #My very first contribution! Excited for whats to come.******
 -[Shahraiz Aziz](https://github.com/Shahraiz-commits/) **Well this is something, isn't it?**
 - [Yuriy Mysak](https://github.com/ChairBorn)**ChairBorn**
 - [Kyra Cho](https://github.com/kyracho)
+- [snowhawk1000](https://github.com/snowhawk1000)
 - [Mitchell Friess]
 - [Jame Gross](https://github.com/Jamesa144)
 - Sammy Farida -[(GitHub)](https://github.com/samerfarida) [(Linkedin)](https://www.linkedin.com/in/sammyfarida/) 
