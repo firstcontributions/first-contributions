@@ -392,3 +392,6 @@ FodyWeavers.xsd
 
 # Desktop.ini (Google Drive info file)
 desktop.ini
+
+# notebook checkpoints
+*.ipynb.ipynb_checkpoints/
