@@ -7,6 +7,7 @@
 ashutosh Sharma
 Rakesh Radhakrishnan dev was here.
 - [Essa] 
+- [x] **Make my first contribution!** [Gonzalo 😁](https://github.com/Gonzalo-Turusi)
 -  [Mathhtew]
 - [Robert Dobre](https://robert-dobre.github.io/) **Let's get in touch and create something together**
 -[Nazim saifi](https;//github.com/Nazim9945) **just warming up**
