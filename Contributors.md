@@ -32,7 +32,7 @@ Rakesh Radhakrishnan dev was here.
 - [kzAndrew](https://github.com/foryomacaroll) ** Let's go baby!!! **
 - [Namitha](https://github.com/namitha-27)**hey!!**
 - [Pankaj Kumar Bind](https://github.com/pankaj-bind) **Heya!! my journey starts here!!**
-- [Precious Ajuru](https://github.com/preciousajuru) **I'm new here, but it feels good already** **_Let's go!_**
+- [Precious Ajuru](https://github.com/preciousajuru) **I'm new here, but it feels good already**.  **_Let's go!_**
 - [Ebrahim Al-Aghbari](https://github.com/E-Aghbari) **Remind me in 5 years.**
 - [irsyad212](https://github.com/irsyad212) **Hello!**
 - [Nathan Hagan](https://github.com/BeastieNate5) *2Best Girl!!!*
