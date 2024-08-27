@@ -47,6 +47,7 @@ Rakesh Radhakrishnan dev was here.
 - [Moteeullah Azmi](https://github.com/moteeullahazmi)***This is my contribution***
 -[Vince Baniago](https://github.com/vincebaniago) **Here we go again**
 -[KithM4](https://github.com/KithM4)**This is my First Git contribution, Follow me on Git**
+- [Ajiththeerthiya](https://github.com/Ajiththeerthiya)**My First contribution, I am excited**
 -[Akshay Sodhi](https://github.com/AkshaySodhi) **Hello**
 -[Shivam Moray](https://github.com/shivam-moray/)**This is my first github open source contribution**
 -[Sohan Rai](https://github.com/SohanRaidev/)**Hey there!! Yes YOU! Best of luck. Sohan was here! 17Y/O**
