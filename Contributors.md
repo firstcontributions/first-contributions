@@ -10,6 +10,7 @@ Rakesh Radhakrishnan dev was here.
 - [Essa] 
 - [x] **Make my first contribution!** [Gonzalo 😁](https://github.com/Gonzalo-Turusi)
 -  [Mathhtew]
+- [Jansen Long](https://github.com/jantz27) **First contribution. Excited to work on new projects!!**
 - [Robert Dobre](https://robert-dobre.github.io/) **Let's get in touch and create something together**
 -[Nazim saifi](https;//github.com/Nazim9945) **just warming up**
 - [Si Thu Ko](https://github.com/ST-KO) **Lets go**
