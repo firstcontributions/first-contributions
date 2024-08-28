@@ -1812,6 +1812,7 @@ Richard Faulk
 - [Badshah Ajminabanu](https://github.com/BadshahA1)
 Luca B.
 - [Shobhit Aggarwal](https://github.com/Shobhit0109)
+- [Athan J](https://github.com/Athan-Johnson) 🥳
 - [EvilloneWolf](https://github.com/EvilloneWolf) 😎
 - [st4rshine](https://github.com/st4rshine)
 - [Sajid Ali Paguthaniya](https://github.com/SajidAliP)
