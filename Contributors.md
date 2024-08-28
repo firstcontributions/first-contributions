@@ -11,7 +11,8 @@
 -[Joseph Tiglao](https://github.com/JosephTiglao) **Getting Started!!!** Cram hard
 ashutosh Sharma
 Rakesh Radhakrishnan dev was here.
-- [Chiefspy](https://github.com/Chiefspy) **first contribution very excited** 
+- [Chiefspy](https://github.com/Chiefspy) **first contribution very excited**
+- [Mônica Cruz](https://github.com/monicacruzs) **directly from Brasil**
 - [Essa] 
 - [x] **Make my first contribution!** [Gonzalo 😁](https://github.com/Gonzalo-Turusi)
 -  [Mathhtew]
