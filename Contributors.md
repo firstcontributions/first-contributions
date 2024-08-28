@@ -14,6 +14,7 @@
 ashutosh Sharma
 Rakesh Radhakrishnan dev was here.
 - [Chiefspy](https://github.com/Chiefspy) **first contribution very excited**
+- [Matiyendou Djato](https://github.com/matieydjato) **Hello ! this my first contribution**
 - [Mônica Cruz](https://github.com/monicacruzs) **directly from Brasil**
 - [Essa] 
 - [x] **Make my first contribution!** [Gonzalo 😁](https://github.com/Gonzalo-Turusi)
