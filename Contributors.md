@@ -16,7 +16,7 @@ Rakesh Radhakrishnan dev was here.
 - [Chiefspy](https://github.com/Chiefspy) **first contribution very excited**
 - [Matiyendou Djato](https://github.com/matieydjato) **Hello ! this my first contribution**
 - [Mônica Cruz](https://github.com/monicacruzs) **directly from Brasil**
-- [Essa] 
+- [Essa]
 - [x] **Make my first contribution!** [Gonzalo 😁](https://github.com/Gonzalo-Turusi)
 -  [Mathhtew]
 - [Jansen Long](https://github.com/jantz27) **First contribution. Excited to work on new projects!!**
@@ -102,6 +102,7 @@ Onyi Ajoku😄 #My very first contribution! Excited for whats to come.******
 - [snowhawk1000](https://github.com/snowhawk1000)
 - [Mitchell Friess]
 - [Jame Gross](https://github.com/Jamesa144)
+- [Januar Byron Garcia](https://github.com/JanuarGarcia)
 - Sammy Farida -[(GitHub)](https://github.com/samerfarida) [(Linkedin)](https://www.linkedin.com/in/sammyfarida/) 
 - [Keyrun Shrestha](https://github.com/DEADBODY142/)**First time contributing**
 - [Iván Luis Leiva](https://github.com/illeiva2) **Hi everyone! This is my first contributing on opensource code**
