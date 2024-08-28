@@ -340,6 +340,7 @@ Theresia Calista
 Zhiyuan Zhao
 [prabhat Ghimire] "This is my first contribution. And I made a mistake"
 -[Satyam Sharma](https://github.com/Satyams-23) **I am ready to contribute** 
+-[Hrushikesh Mysala](https://github.com/hrushikeshmysala2003) **This is my first contribution**
 - [Gopractitioner] (https://github.com/gopractitioner) **This is my first open source contribution!**
 - [donutz03] (https://github.com/donutz03) **This is my first open source contribution. Can't wait to do more :D**
 - piyush malik
