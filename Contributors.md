@@ -191,6 +191,7 @@ i
 - [KaterynaJ](https://github.com/KaterynaJ) **Huge thanks to those who made this exercise and let us learn**
 - [Neha Kumari](https://github.com/Nkovaturient) **Dive into Open Source (Adventure)Contribution**
 - [Reshmail Fatima](https://github.com/reshmailfatima) **Hi, Everyone..This is my first open source contribution.Let's do it**
+  [CoriRen](https://github.com/CoriRen/) **This is my first contribution. Let's go!**
 - [ErikRSN](https://github.com/ErikRSN) **This is my contribution to Opensource. Here's to many more** 
 - [Saatwik55](https://github.com/Saatwik55) **One step at a time!**
 - [Jack Garratt](https://github.com/Jg2525) **Now Is the start of my open source contributions!**
