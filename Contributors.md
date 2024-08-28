@@ -7315,6 +7315,7 @@ https://github.com/06Gagan
 - [Leyvi Garcia](https://github.com/lgarcia-latexpress)**this is my firt contribution 07/18/24**
 - [bruhnugget-nice](https://github.com/bruhnugget-nice)**Open source forever! 7/18/24**
 - [Aleš Zima](https://github.com/Esosek) **Added on 25.7.2024**
+- [Chrisil](https://github.com/ChrisilDavid28)
 - [Mads Franzen] (https://github.com/madsfranzen) **LFG**
 - [Chaitrali Kore](https://github.com/Chaitralikore)
 -[Adedamola Omoniyi](https://github.com/Damola-Omoniyi)**:D**
