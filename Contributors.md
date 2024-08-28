@@ -18,6 +18,7 @@ Rakesh Radhakrishnan dev was here.
 - [x] **Make my first contribution!** [Gonzalo 😁](https://github.com/Gonzalo-Turusi)
 -  [Mathhtew]
 - [Jansen Long](https://github.com/jantz27) **First contribution. Excited to work on new projects!!**
+- [Sam LeGro](https://github.com/slegro97) **Hey yall**
 - [Robert Dobre](https://robert-dobre.github.io/) **Let's get in touch and create something together**
 - [Jeremy Kalen Knox](https:github.com/KalenKnox). Hey, this is cool
 -[Nazim saifi](https;//github.com/Nazim9945) **just warming up**
