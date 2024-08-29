@@ -3852,6 +3852,7 @@ Jasmine
 - - [Ryan Lucero](https://github.com/ryanluceroo)
 - [Alwin Sajan](https://github.com/Alwin-Sajan)
 - [Alonso Jimenez](https://github.com/alonsojmnz)
+- [Jeff Dan](https://github.com/jeffrickdan) **Am I... doing it right?**
 - [Antonio Fábio](https://github.com/zodiecko)
 - masaymd
 - [Anand Shende](https://github.com/anandshende)
