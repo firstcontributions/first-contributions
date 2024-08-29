@@ -2883,6 +2883,7 @@ Hannah Sung
 - Quinter Wangare
 - Muluken Mamo
 - Henry Christiani
+- [Nechama Ini]**My firse contribution to open source 🎉**
 - Nishant Kumar(https://github.com/bitunishant)
 - Chris Gutu(https://github.com/Gutuchris)
 - [Nimrod Kabiru](https://github.com/nimuragz)
