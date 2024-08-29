@@ -8,7 +8,9 @@
 - [Aditya Pratama](https://github.com/Aditypraa) **Nice to meet you all, I'm proud to be here**
 - [Kevin Morales](https://github.com/KeviinMoralees) **Everyone on this list is going to be successful. :D**
 - [Leonardo Bazan Marquez](https://github.com/ky210299) **Come to grow together**
-- [Ranjan Sharma](https://github.com/ranjansharma1) **First Contribution to opensource project, All Thanks to this repo who guide overall process**
+- [Ranjan Sharma](https://github.com/ranjansharma1) **First Contribution to opensource project, All Thanks to this repo who guide
+- [Noa More](https://github.com/NoaMoore/)
+ overall process**
 - [Avyukt Aggarwal](https://github.com/Avyukt27) **Learning Is Great!**
 - [Ofek Tal](https://github.com/kafuexe) **hio**
 - [Nang Win Myat Thiri Han](https://github.com/WinMyatThiriHan)
