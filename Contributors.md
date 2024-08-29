@@ -897,6 +897,7 @@ mh
 - [Shashank](https://github.com/shshaank) **hey, this is my second pr**
 - Nifane Borges
 - [Mario Gonzalez Lozano] (https://github.com/Mayin2023mj)
+- [John Pert Millena]
 - [Caleb Yaghoubi](https://github.com/Caleby315) **Thanks for the help 
 - [Sameer Mathad] (https://github.com/sameermathad) **Let's go 🚀**
 - Suryanshi - KVY 
