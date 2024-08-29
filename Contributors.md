@@ -7535,4 +7535,6 @@ vivek saskar
 - [Allen Benny](https://github.com/allenhack638) **Hello all I am hope all are doing good ***
 - [FionaFu](https://github.com/annanfu) **Testing the fork!** 
 - [Aymen Mejri](https://github.com/napalmCore) **Hello all :) ***
+**You guys are awesome.**
+- [Rizky Verandi](https://github.com/rizkyverandi) **Keep your energy up, and finish your project as soon as possible, don't forget to smile :D**
 
