@@ -33,6 +33,7 @@ Rakesh Radhakrishnan dev was here.
 - [fug0](https://github.com/fug0) **My first contrib**
 - [Robert Dobre](https://robert-dobre.github.io/) **Let's get in touch and create something together**
 - [Jeremy Kalen Knox](https:github.com/KalenKnox). Hey, this is cool
+- [Tejas Narkhede](https://github.com/TejasNarkhede). *Hello Tejas Here!*
 - [SSK](https://github.com/2SSK) **I use arch BTW!**
 -[Nazim saifi](https;//github.com/Nazim9945) **just warming up**
 - [Si Thu Ko](https://github.com/ST-KO) **Lets go**
