@@ -2,6 +2,7 @@
 # Contributors
 - [Xiao Liu](https://github.com/XiaoLiu8811) **Hello github**
 - [Faaz Sherwani]--YOLO peeps--
+- [Advait Chalke] (https://github.com/chalky25) **I wanna be the very best, like no one ever was!**
 -[Felipe calle](https://github.com/Felipe0987) **Hello This is so good :J**
 - [S Mahesh](https://github.com/Mahe9041) **Ready to start my first open source journey**
 - [Omar Baraja](https://github.com/omarbr44) **My goal is to be able to read pro code**
