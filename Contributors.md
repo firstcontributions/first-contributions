@@ -20,6 +20,7 @@
 -[Joseph Tiglao](https://github.com/JosephTiglao) **Getting Started!!!** Cram hard
 ashutosh Sharma
 Rakesh Radhakrishnan dev was here.
+- [TehilaTheStudent😊](https://github.com/TehilaTheStudent)
 - [Chiefspy](https://github.com/Chiefspy) **first contribution very excited**
 -[N Dayakar ](https://github.com/dayakar-007)**I am ready to start my open source contribution
 - [Matiyendou Djato](https://github.com/matieydjato) **Hello ! this my first contribution**
