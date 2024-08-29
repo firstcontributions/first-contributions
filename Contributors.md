@@ -40,6 +40,7 @@ Rakesh Radhakrishnan dev was here.
 - [Si Thu Ko](https://github.com/ST-KO) **Lets go**
 - [Shivam Kamat](git@github.com:Light-Yagami-7/) **hmmm...**
 - [Fionah Santua](https://github.com/itsmefionah) **hello**
+- [Gal Halili]( "https://github.com/GalHalili) **hello**
 -[Vandana Choudhari](https://github.com/VandanaChoudhari) **Start Contribution!**
 - [Omer Ozkaya](https://github.com/oozkaya2002) **Gotta do what you gotta do...**
 - [Godfrey Javier](https://github.com/GodfreyPotato) **hellowiee**
