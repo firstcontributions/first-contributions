@@ -7517,6 +7517,7 @@ vivek saskar
 - [Layton Chandler](https://github.com/chandlerkl96)
 
 - [Gaurav Latpate](https://github.com/latpategaurav/first-contributions) **First open source contribution!**
+- [R S T](https://github.com/RichardTabaka/first-contributions) **Here goes nothing 🎃**
 - [Jordan-Iralde](https://github.com/Jordan-Iralde/first-contributions) **Uno, Dos, Tres...🚀**
 - [Mzaksana](https://github.com/mzaksana) **Mars Exploration** :atom:
 - [Ritesh](https://github.com/riteshshami) **OS CONTRIBUTION**
