@@ -39,6 +39,7 @@ Rakesh Radhakrishnan dev was here.
 - [Jeremy Kalen Knox](https:github.com/KalenKnox). Hey, this is cool
 - [Tejas Narkhede](https://github.com/TejasNarkhede). *Hello Tejas Here!*
 - [SSK](https://github.com/2SSK) **I use arch BTW!**
+- [SSK](https://github.com/Motherbloods) **Let's gooo brotherrr**
 -[Nazim saifi](https;//github.com/Nazim9945) **just warming up**
 - [Si Thu Ko](https://github.com/ST-KO) **Lets go**
 - [Shivam Kamat](git@github.com:Light-Yagami-7/) **hmmm...**
