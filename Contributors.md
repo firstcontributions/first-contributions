@@ -1,5 +1,6 @@
 
 # Contributors
+- [Dustin Reuter]((https://github.com/Dxxtxx) **Hello I am new to git and GitHub**
 - [Xiao Liu](https://github.com/XiaoLiu8811) **Hello github**
 - [Ruhi Tyagi](https://github.com/ruhi47) **Hey!, here to build a course on open-source. Interested? Hit me up on Linkedin!**
 - [Faaz Sherwani]--YOLO peeps--
