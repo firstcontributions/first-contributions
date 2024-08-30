@@ -714,6 +714,7 @@ Yulia Lantzberg
 - [Shivam SL](https://github.com/ShivamSV1)**:)**
 - [Maggie Chua](https://github.com/maggiechua) **<3**
 - [Kriti Raj](https://github.com/kriti-raj)
+- [Poornank Purohit] (https://github.com/sh1n-afk)
 - [Keith Obando](https://github.com/17Keith)
 - [Sylvester Ashford](https://github.com/timvma) **Hello World**
 - [Tim Ambi](https://github.com/SylvesterAshford)
