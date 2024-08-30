@@ -725,6 +725,7 @@ Yulia Lantzberg
 - franroyoo
 - Abhinav Kuppasad (27-abhi)
 - Ananthakrishna K
+- [Leonardo-El-Caminante](https://github.com/Ydigit)**Helouuu there**
 - [Shivam SL](https://github.com/ShivamSV1)**:)**
 - [Maggie Chua](https://github.com/maggiechua) **<3**
 - [Kriti Raj](https://github.com/kriti-raj)
