@@ -131,6 +131,7 @@ Onyi Ajoku😄 #My very first contribution! Excited for whats to come.******
 - [snowhawk1000](https://github.com/snowhawk1000)
 - [Mitchell Friess]
 - [Jame Gross](https://github.com/Jamesa144)
+- [Madalyn Bartman](https://github.com/madalynbartman) **woo! go OS!!** 
 - [Januar Byron Garcia](https://github.com/JanuarGarcia)
 - Sammy Farida -[(GitHub)](https://github.com/samerfarida) [(Linkedin)](https://www.linkedin.com/in/sammyfarida/) 
 - [Keyrun Shrestha](https://github.com/DEADBODY142/)**First time contributing**
