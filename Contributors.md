@@ -3,7 +3,8 @@
 - [Xiao Liu](https://github.com/XiaoLiu8811) **Hello github**
 - [Faaz Sherwani]--YOLO peeps--
 - [Advait Chalke] (https://github.com/chalky25) **I wanna be the very best, like no one ever was!**
--[Felipe calle](https://github.com/Felipe0987) **Hello This is so good :J**
+- [Adeir Junior](https://github.com/adeirjunior) **Hi!** It's nice to see my name between people from everyplace in the world `:)`
+- [Felipe calle](https://github.com/Felipe0987) **Hello This is so good :J**
 - [S Mahesh](https://github.com/Mahe9041) **Ready to start my first open source journey**
 - [Omar Baraja](https://github.com/omarbr44) **My goal is to be able to read pro code**
 - [Aditya Pratama](https://github.com/Aditypraa) **Nice to meet you all, I'm proud to be here**
