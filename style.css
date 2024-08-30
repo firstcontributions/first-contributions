@@ -1,0 +1,26 @@
+.container{
+    width: 300px;
+    height: 300px;
+    margin-left: 35%;
+    margin-top: 5%;
+}
+#heading{
+    text-align: center;
+    color: red;
+}
+#total-count{
+   text-align: center;
+}
+.button-container{
+    display: flex;
+    justify-content:space-around;
+}
+.container button{
+    border-radius: 3px;
+    color: black;
+    cursor: pointer;
+}
+#warning{
+    text-align: center;
+    color: red;
+}
