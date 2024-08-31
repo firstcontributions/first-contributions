@@ -22,6 +22,7 @@
 - [Avishek Saha](https://github.com/Avishek27) **First contribution to an opensource**
 Zipi Asrin
 - [Avyukt Aggarwal](https://github.com/Avyukt27) **Learning Is Great!**
+- [Yael Werner](https://github.com/YaelWerner)
 - [Aditya Rajput](https://github.com/Adiyta-rajput200) **Its my first contribution but not the last,Here to start the new World Aditya Rajput form Bihar,India**
 - [Ofek Tal](https://github.com/kafuexe) **hio**
 - [Nang Win Myat Thiri Han](https://github.com/WinMyatThiriHan)
