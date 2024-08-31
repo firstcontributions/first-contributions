@@ -1363,7 +1363,8 @@ vrushabhpatil48
 - [Romão Souza](https://github.com/romaogs) **First Contribution!**
 - [Jorge Mendes](https://github.com/jorgemendes07) **Primeira contribuição!**
 - [Isaac Larrubia](https://github.com/isaaclarrubia)
-- [Gabriel Dias](https://github.com/Gab0885) **First Contribution 😎👍**
+- [Cesar Willemberg](https://github.com/cesarwillemberg) **First Contribution 😎🚀**
+- [Gabriel as](https://github.com/Gab0885) **First Contribution 😎👍**
 - [Caique Pereira Costa](https://https://github.com/caiquepc07) **Primeira**
 - Sahil Ahmad **First Contribution**
 - [Swarnabha Halder](https://github.com/swarnabha-dev) **First Contribution 😎**
