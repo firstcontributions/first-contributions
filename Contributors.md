@@ -63,6 +63,7 @@ Rakesh Radhakrishnan dev was here.
 - [tommaso muraca](https://github.com/tommy987-droid) **Viva l'open source**
 - [owobu frank] (https://github.com/frankowobu) ****contributing to an open source project***
 - [Li Jiajun](https://github.com/lijiajun3029) **I am a newbie!**
+- [Pranit OP](https://github.com/etherealone0) **The day has come**
 Prajwal was here.
 - [Brenton Gray](https://github.com/gray-skull) **First Contribution - 08/23/2024**
 - [Daniel Fekede](https://github.com/ljdan1) **my day one journey**
