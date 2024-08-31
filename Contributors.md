@@ -3498,6 +3498,7 @@ Franco Lai
 - [Rose Rousseau](https://github.com/MapleRose))
 - [Juan Aviles](https://github.com/Juan11211)
 - [Ashutosh Pandey]()
+- [Jerry Bture] (https://github.com/iam-jerry)
 - [Fathi Abdi](https://github.com/Fathyy)
 - [Oliver Warne]()
 - [Bamsejon](https://github.com/bamsejon)
