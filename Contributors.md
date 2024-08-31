@@ -116,6 +116,7 @@ Rehan
 - [Stanley Navarrete] 
 - [ConfluxEcho](https://github.com/ConfluxEcho)**Is this it? My very first contribution to an open source project? Wow**
 - [Mohamed Farid](https://github.com/08mfp) **Hey Everyone, good luck in your journey!**
+- [Brian Tse](https://github.com/brianthl) **Hi everyone, lfg!!!**
 -[Memoona Shah](https://github.com/maymunashah)**this is one of my first open source contributino and one of many to go  , lets goooo**
 Ahmad
 - [Kyorzo](https://github.com/Kyorzo)**kyorzo was here 👹**
