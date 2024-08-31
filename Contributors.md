@@ -52,6 +52,7 @@ Rakesh Radhakrishnan dev was here.
 -[Nazim saifi](https;//github.com/Nazim9945) **just warming up**
 - [Si Thu Ko](https://github.com/ST-KO) **Lets go**
 - [Shivam Kamat](git@github.com:Light-Yagami-7/) **hmmm...**
+- [Aryaman Ranjit](https://github.com/Aryaman-RR) **I don't wanna act to high and mighty cause tomorrow I may fall from my grace**
 - [Fionah Santua](https://github.com/itsmefionah) **hello**
 - [Gal Halili]( "https://github.com/GalHalili) **hello**
 -[Vandana Choudhari](https://github.com/VandanaChoudhari) **Start Contribution!**
