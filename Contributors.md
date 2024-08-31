@@ -595,6 +595,7 @@ Yulia Lantzberg
 - [Yu]**2024年7月12日21:23:54 Yuuuuuuu**
 - [Skmayya] (https://github.com/skmayya1) **This is my first contribution** 
 - [García Justo](https://github.com/Tlayuda66) **Im new**
+- [Pawel Bialkowski](https://github.com/Pavelosky) **Whazzzuuuuupp?**
 - [Mickey Rasmussen](https://github.com/egmose1224) **Read the documentation**
 - [Mpara Romaric](https://github.com/sampleris) **2024/07/12 :)**
 - [Patrick Chukwu](https://github.com/Patrick-Chukwu) **Cheers to the first of many contributions in the OS, community.**
