@@ -774,6 +774,7 @@ Yulia Lantzberg
 - [Adarsh](https://github.com/adarshsingh7) **root@adarsh i use fedora BTW**
 mh
 - [Anurag](https://github.com/anurag-sharma17) **My journey begins from here**
+- [Patrick S](https://github.com/patch-sys) **My first contribution**
 - [Raulfbr](https://github.com/raulfbr) **Raul Rodrigues first contribuition**
 - [Moreen Hettihewa](https://github.com/moreenhettihewa) **First Contribution**
 -[Shamel Rai](https://github.com/shamel-rai) **First Contribution**
