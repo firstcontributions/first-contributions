@@ -5,6 +5,7 @@
 - [Xiao Liu](https://github.com/XiaoLiu8811) **Hello github**
 - [Ruhi Tyagi](https://github.com/ruhi47) **Hey!, here to build a course on open-source. Interested? Hit me up on Linkedin!**
 - [Faaz Sherwani]--YOLO peeps--
+- [Kaizzen](https://github.com/Kaizzen42) And so, it begins!
 - [Advait Chalke] (https://github.com/chalky25) **I wanna be the very best, like no one ever was!**
 - [Adeir Junior](https://github.com/adeirjunior) **Hi!** It's nice to see my name between people from everyplace in the world `:)`
 - [Felipe calle](https://github.com/Felipe0987) **Hello This is so good :J**
