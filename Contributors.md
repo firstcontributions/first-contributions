@@ -205,6 +205,7 @@
 - [Jermy Deer](https://github.com/JermyDeer)
 - [Ankit Somani](https://github.com/Ankit-Somani)
 - [Artem Yershov](https://github.com/YershovArt)
+- [Demilade Akinyemi](https://github.com/demilade01)
 - [Alen Chen](https://github.com/ChenYunyue)
 - [Hebert Macedo](https://github.com/HebertMacedo)
 - [MD Ahsan Habib](https://github.com/md-ahsanhabib)
