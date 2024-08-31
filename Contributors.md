@@ -2,6 +2,7 @@
 # Contributors
 - [owobu frank] (https://github.com/frankowobu) ****contributing to an open source project***
 - [Li Jiajun](https://github.com/lijiajun3029) **I am a newbie!**
+- [Pranit OP](https://github.com/etherealone0) **The day has come**
 - [Abhinandan Singh](https://github.com/abhinandan29) **☻**
 - [Gabriel Lipaysa](https://github.com/Er000s) **I am now ready for world domination**
 - [Nalindu Melaka](https://github.com/NalinduMelaka)***This is my contribution***
