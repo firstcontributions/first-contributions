@@ -63,6 +63,7 @@ Rakesh Radhakrishnan dev was here.
 -[Vandana Choudhari](https://github.com/VandanaChoudhari) **Start Contribution!**
 - [Omer Ozkaya](https://github.com/oozkaya2002) **Gotta do what you gotta do...**
 - [Godfrey Javier](https://github.com/GodfreyPotato) **hellowiee**
+- [LewisOSF](https://github.com/LewisOSF) **Hello, first contribution**
 - Init
 -[naga jaideep](https;//github.com/nagajaideep) **getting started with open source**
 - [🇯🇵codekakitai51] (https://github.com/codekakitai51) **what's uuuuuuuuuuuuuuuuuuuuuuup!**
