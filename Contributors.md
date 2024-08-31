@@ -30,9 +30,9 @@ Zipi Asrin
 - [SaravanaGanesh Ulagamani](https://github.com/usganesh/) **Lets go to OpenWorld(Ulagi)**
 -[Teoman ÇELİK](https://github.com/Teocelik)**Bu benim ilk github açık kaynaklı bir projeye katkımdır!**
 -[BinaryBrain](https://github.com/BinaryBrain45)**This is my first contribution. Follow me, let's collaborate and make some awesone projects**  
-- [Joseph Tiglao](https://github.com/JosephTiglao) **Getting Started!!!** Cram hard  
 ashutosh Sharma
 Rakesh Radhakrishnan dev was here.
+- [Joseph Tiglao](https://github.com/JosephTiglao) **Getting Started!!!** Cram hard  
 - [Shriharsh Deshmukh](https://github.com/Shriharsh-Deshmukh) **First Contribution to opensource project, All Thanks to this repo who guide overall process**
 - [Corl](https://github.com/corl64/) **Hey y'all! Carl here! My first Open Source Contribrution!!! `;)`**
 - [TehilaTheStudent😊](https://github.com/TehilaTheStudent)
