@@ -4,6 +4,7 @@
 - [Abdul Khaliq](https://github.com/realabdulkhaliq) *Started **GitHub Certification Track** to become a feature **AI Engineer**. Already **Python** and **Azure AI** Certified*
 - [wrkean](https://github.com/wrkean) ...and to the next one
 - [Asmit singh bisht](https://github.com/Asmit-ctrl) *** going to be next revolutionary in tech industry ***
+- [Heet Dalsania](https://github.com/heet007-code) *** First Contribution! ***
 - [Ritesh Singh](https://github.com/ritzzh) *** Do not go gentle into that good night, Rage, rage againt the dying of light ***
 - [Raghav Angra]
 - [Ndifon Titiana](https://github.com/N-TITIAN)
