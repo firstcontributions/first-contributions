@@ -2548,7 +2548,7 @@ Kayla Barton
 Martin Ferrero-Thompson was here
 -Vertechs
 -[Prathamesh Pawar](https://github.com/Prathameshppawar)
-- [<a href="https://github.com/ShreyasNandanwar"><b>Shreyas Nandanwar<b></a>]
+- [<a href="https://github.com/ShreyasNandanwar"><b>Shreyas Nandanwar</b></a>]
 - [AnthonyUPF](https://github.com/AnthonyUPF)
 - [Giancarlo Groaznicu](https://github.com/grimmiegramm)
 - [Ciprian Pop](https://github.com/c-v-pop)
@@ -7583,5 +7583,6 @@ vivek saskar
 - [Allen Benny](https://github.com/allenhack638) **Hello all I am hope all are doing good ***
 - [FionaFu](https://github.com/annanfu) **Testing the fork!** 
 - [Aymen Mejri](https://github.com/napalmCore) **Hello all :) ***
+- [Amanullah Atthar](https://github.com/amanullahatthar)'s _first_ contribution
 
   ​                                                            
