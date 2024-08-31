@@ -5,6 +5,7 @@
 - [Xiao Liu](https://github.com/XiaoLiu8811) **Hello github**
 - [Ruhi Tyagi](https://github.com/ruhi47) **Hey!, here to build a course on open-source. Interested? Hit me up on Linkedin!**
 - [Faaz Sherwani]--YOLO peeps--
+- [Heet Dalsania](https://github.com/heet007-code) **First Open Source Contribution**
 - [Advait Chalke] (https://github.com/chalky25) **I wanna be the very best, like no one ever was!**
 - [Adeir Junior](https://github.com/adeirjunior) **Hi!** It's nice to see my name between people from everyplace in the world `:)`
 - [Felipe calle](https://github.com/Felipe0987) **Hello This is so good :J**
@@ -868,11 +869,15 @@ mh
 - [Philippe Renard](https://github.com) Test contrib
 - [David Jones] (https://github.com/daj7) First contribution
 - [Asmit singh bisht](https://github.com/Asmit-ctrl) *** going to be next revolutionary in tech industry ***
+<<<<<<< HEAD
+- [Heet Dalsania](https://github.com/heet007-code) *** First Contribution! ***
+=======
 - [lovepop1](https://github.com/lovepop1) *** nakn ***
 - [Naveen Singh](https://github.com/sisyphusisstillcarrying) ***starting over. Hope it works out this time. Aims to be an AI/ML Engineer in the future. God bless!!***
 - [Sohum Chandra Srivastava](https://github.com/sohumcs) *** Trying Open Source ***
 - [Kolade Elizabeth](https://github.com/Lizzy223) *** My first contribution!!! ***
 - [Andres Pedreros Castro] (https://github.com/AndresPedrerosC) *** My first and hopefully not last open source contribution 😁
+>>>>>>> d31842c1ef7b7b5a842445e4b3ff7282886bcddc
 - [Ritesh Singh](https://github.com/ritzzh) *** Do not go gentle into that good night, Rage, rage againt the dying of light ***
 - [Raghav Angra]
 - היי לכולם! גם אני כאן!!!!!
