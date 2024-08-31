@@ -83,6 +83,7 @@ Prajwal was here.
 - [Namitha](https://github.com/namitha-27)**hey!!**
 - https://github.com/LeoTao777 This is my first Open Source Commit! 
 - [Pankaj Kumar Bind](https://github.com/pankaj-bind) **Heya!! my journey starts here!!**
+- [Brian Horsley](https://github.com/brianhorsley926) **Hello!**
 - [Ebrahim Al-Aghbari](https://github.com/E-Aghbari) **Remind me in 5 years.**
 - [irsyad212](https://github.com/irsyad212) **Hello!**
 - [Mischa Tobias](https://github.com/MischaTobias) **Hey there!**
