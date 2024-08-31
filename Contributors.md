@@ -43,7 +43,6 @@ Rakesh Radhakrishnan dev was here.
 - [Essa]
 - [x] **Make my first contribution!** [Gonzalo 😁](https://github.com/Gonzalo-Turusi)
 -  [Mathhtew]
--  [Yael W]
 - [santhosh rr] #This is my first contribution to open source
 - [Jansen Long](https://github.com/jantz27) **First contribution. Excited to work on new projects!!**
 - [Sam LeGro](https://github.com/slegro97) **Hey yall**
