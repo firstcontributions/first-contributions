@@ -106,6 +106,7 @@ Prajwal was here.
 - [Coson Lu](https://github.com/coson-lu) **hello everyone!**
 - [Tom Brown](https://github.com/Tom-js-python) **Looking to jump into some super cool OpenSource projects on GitHub**
 - [Akeel] (https://github.com/akeel-etel) **Hello**
+- [Yusuf Isah](https://github.com/yusbuntu) **Hello Everyone! I happy to be here**
 - [Samama Farooq](https://github.com/Sam-Coding77)**We Go Open Source Baby!**
 - [Dhrubo Roy Partho](https://github.com/DhruboRoyPartho) **First step in OpenSource Contribution**
 - [Noah Evans](https://github.com/Noahkevans) **Here we go**
