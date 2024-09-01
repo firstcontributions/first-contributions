@@ -72,6 +72,7 @@ Rakesh Radhakrishnan dev was here.
 - [LewisOSF](https://github.com/LewisOSF) **Hello, first contribution**
 - Init
 - [Awry](https://github.com/awry1) **hi**
+- [Anjali Thakur](https://github.com/anjalit03) **hello just getting started with open source hope to have a great time**
 -[naga jaideep](https;//github.com/nagajaideep) **getting started with open source**
 - [🇯🇵codekakitai51] (https://github.com/codekakitai51) **what's uuuuuuuuuuuuuuuuuuuuuuup!**
 - [tommaso muraca](https://github.com/tommy987-droid) **Viva l'open source**
