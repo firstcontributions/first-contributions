@@ -9,6 +9,7 @@
 - [Kaizzen](https://github.com/Kaizzen42) And so, it begins!
 - [Advait Chalke] (https://github.com/chalky25) **I wanna be the very best, like no one ever was!**
 - [Adeir Junior](https://github.com/adeirjunior) **Hi!** It's nice to see my name between people from everyplace in the world `:)`
+
 - [Felipe calle](https://github.com/Felipe0987) **Hello This is so good :J**
 - [S Mahesh](https://github.com/Mahe9041) **Ready to start my first open source journey**
 - [Gaurav Deshmukh](https://github.com/GAURAV8520) **Ready to start my first open source journey**
@@ -26,7 +27,9 @@
 Zipi Asrin
 - [Avyukt Aggarwal](https://github.com/Avyukt27) **Learning Is Great!**
 - [Yael Werner](https://github.com/YaelWerner)
+- [Kartikey Korimilli] (https://github.com/kartikey369-ind)  **Hey y'all! kartikey here! My first Open Source Contribrution!!!  !**
 - [Rosis Kharel](https://github.com/RosisK)
+
 - [Aditya Rajput](https://github.com/Adiyta-rajput200) **Its my first contribution but not the last,Here to start the new World Aditya Rajput form Bihar,India**
 - [Ofek Tal](https://github.com/kafuexe) **hio**
 - [Nang Win Myat Thiri Han](https://github.com/WinMyatThiriHan)
@@ -7613,6 +7616,7 @@ vivek saskar
 - [Aymen Mejri](https://github.com/napalmCore) **Hello all :) ***
 - [Amanullah Atthar](https://github.com/amanullahatthar)'s _first_ contribution
 - [Solomon Taiwo](https://github.com/solomontaiwo) **This is so cool, thanks for making this useful repo. Here's the first of (hopefully) many contributions. Ad maiora!**
+
 - [Navjeet Singh Kukreja](https://github.com/NavjeetSinghKukreja)
 
   ​                                                            
