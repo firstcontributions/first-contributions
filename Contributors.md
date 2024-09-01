@@ -7442,6 +7442,7 @@ https://github.com/06Gagan
 - [Umer Islam](https://github.com/umer-islam) 👋🌍
 - [Daniel Obode](https://github.com/hoodiedan) **Let's Get Started With Open Source !!!**
 - [Rafał-Tomczyk](https://github.com/Faflox) **Hello World!**
+- [Alec Worthington] (https://github.com/alecworth) **Hey!!**
 - [Bartek2050](https://github.com/bartek2050) **Hello 👋🏻**
 - [Priyanshu Solon](https://github.com/priyanshu-solon) **Let's Go!**
 - [Tornike Skhulukhia](https://github.com/Tornike-Skhulukhia) ** Not the first FOSS commit, but this is still cool **
