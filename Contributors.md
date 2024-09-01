@@ -39,8 +39,6 @@ Zipi Asrin
 -[Teoman ÇELİK](https://github.com/Teocelik)**Bu benim ilk github açık kaynaklı bir projeye katkımdır!**
 -[BinaryBrain](https://github.com/BinaryBrain45)**This is my first contribution. Follow me, let's collaborate and make some awesone projects**
 -[Joseph Tiglao](https://github.com/JosephTiglao) **Getting Started!!!** Cram hard
-ashutosh Sharma
-Rakesh Radhakrishnan dev was here.
 - [Shriharsh Deshmukh](https://github.com/Shriharsh-Deshmukh) **First Contribution to opensource project, All Thanks to this repo who guide overall process**
 - [Corl](https://github.com/corl64/) **Hey y'all! Carl here! My first Open Source Contribrution!!! `;)`**
 - [TehilaTheStudent😊](https://github.com/TehilaTheStudent)
@@ -97,7 +95,6 @@ Prajwal was here.
 - [Ebrahim Al-Aghbari](https://github.com/E-Aghbari) **Remind me in 5 years.**
 - [irsyad212](https://github.com/irsyad212) **Hello!**
 - [Mischa Tobias](https://github.com/MischaTobias) **Hey there!**
-- Hello
 - [Mansoor Ahmad Mir](https://github.com/Marshalll99/) **First Contribution**
 - [Nathan Hagan](https://github.com/BeastieNate5) *2Best Girl!!!*
 - [Siddharth](https://github.com/51ddh4r7h/) **-__-**
@@ -120,9 +117,7 @@ Prajwal was here.
 -[Shivam Moray](https://github.com/shivam-moray/)**This is my first github open source contribution**
 -[Sohan Rai](https://github.com/SohanRaidev/)**Hey there!! Yes YOU! Best of luck. Sohan was here! 17Y/O**
 -[Mariela Montaldo](https://github.com/m0nt4ld0/)**Marie was here! This is my first open source contribution**
--[DorianMcCutchan] (https://github.com/DorianMcCutchan) **this is my first contribution**
 -[Shrinedhi](https://github.com/Web-Dev-Learner)**this is my first opensource contribution**
-Rehan
 - [Meenakshi](https://github.com/meenakship3) **Maybe ~~third~~ fourth time's the charm.**
 -[Kirito72-hub](https://github.com/Kirito72-hub)**this line is taken by ME please refrain from taking it as i like this number. moving me from this spot will result in me getting depressed.**
 - [Stanley Navarrete] 
@@ -130,13 +125,11 @@ Rehan
 - [Mohamed Farid](https://github.com/08mfp) **Hey Everyone, good luck in your journey!**
 - [Brian Tse](https://github.com/brianthl) **Hi everyone, lfg!!!**
 -[Memoona Shah](https://github.com/maymunashah)**this is one of my first open source contributino and one of many to go  , lets goooo**
-Ahmad
 - [Kyorzo](https://github.com/Kyorzo)**kyorzo was here 👹**
 -[Jyothishree Rajkumar](https://github.com/Jyothishree2k5) **This is my first contribution and i am already feeling overwhelmed!!idk why lol, long way to go man**
 - [Anjali] [https://github.com/Anjalii-09] **I'm Anjali Singh. Would like to connect with you all!**
 - [Arpit Nehra] [https://github.com/arpitnehra16] **I'm Arpit Nehra. Would like to connect with you all!**
-- [Harshit Varshney]
-- [Jhon Alexander Marín Estrada] 
+- [Harsh Singh](https://github.com/karmicharsh) **Getting Started!!!** I want github stickers!!!!
 - [Noah Woods](https://github.com/noahcwoods/) **What is going on right now?**
 - [Unnat Sharma](https://github.com/unnxt30) **First contribution to OS :)**
 - [Beverly White](https://github.com/bevyw8888) **First contribution**
