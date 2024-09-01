@@ -323,6 +323,7 @@ i
 - [Jaikrat Singh Tariyal](https://github.com/jaikratsinghtariyal)
 -[Hari Krishna Gunnala] (https://github.com/itsmehk8333)
 - [Juan Manuel Avila Perez](https://github.com/JuanAvilaOficial)
+- [Parinam](https://github.com/parinam07) **Yosh**
 - [Juan Alvarado](https://github.com/JuanAlvarado305)
 - [Jaswanth Damarla](https://github.com/jaswanth-damarla)
 - [Shiva Kartheek](https://github.com/shiva1485) **let's go open-source contribution**
