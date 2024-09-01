@@ -1,6 +1,7 @@
 
 # Contributors
 - [Aviraj Saha] (https://github.com/avirsaha) **I love open-source.**
+- [Chetan Zagade](https://github.com/chetangotgithub) ** Starting Open Source**
 - [Dustin Reuter]((https://github.com/Dxxtxx) **Hello I am new to git and GitHub**
 - [Mya Gwinn](https://github.com/MyaGwinn) **Hello lads!**
 - [Xiao Liu](https://github.com/XiaoLiu8811) **Hello github**
@@ -97,6 +98,7 @@ Prajwal was here.
 - Hello
 - [Mansoor Ahmad Mir](https://github.com/Marshalll99/) **First Contribution**
 - [Nathan Hagan](https://github.com/BeastieNate5) *2Best Girl!!!*
+- [Siddharth](https://github.com/51ddh4r7h/) **-__-**
 - [Rizzy](https://github.com/rizkyverandi) **Hey there!!**
 - [Coson Lu](https://github.com/coson-lu) **hello everyone!**
 - [Tom Brown](https://github.com/Tom-js-python) **Looking to jump into some super cool OpenSource projects on GitHub**
