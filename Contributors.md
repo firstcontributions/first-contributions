@@ -35,6 +35,7 @@ Zipi Asrin
 - [Rosis Kharel](https://github.com/RosisK)
 - [Aditya Rajput](https://github.com/Adiyta-rajput200) **Its my first contribution but not the last,Here to start the new World Aditya Rajput form Bihar,India**
 - [Ofek Tal](https://github.com/kafuexe) **hio**
+- [aniruddha chaudhari](https://github.com/aniruddha-chaudhari)**Hello Thanks For This**
 - [Nang Win Myat Thiri Han](https://github.com/WinMyatThiriHan)
 - [Kevin Chen](https://github.com/kevin5112) **Woo! GL on everyone's open source journey! Let's collab :D**
 - [Mayur Kishor Kumar](https://github.com/MayurKishorKumar) **Hello, My First Open SOurce Contribution. Let's Go**
