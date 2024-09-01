@@ -41,6 +41,7 @@ Zipi Asrin
 -[Joseph Tiglao](https://github.com/JosephTiglao) **Getting Started!!!** Cram hard
 ashutosh Sharma
 Rakesh Radhakrishnan dev was here.
+- [mitarumi](https://github.com/mitarumi) **Sup**
 - [Shriharsh Deshmukh](https://github.com/Shriharsh-Deshmukh) **First Contribution to opensource project, All Thanks to this repo who guide overall process**
 - [Corl](https://github.com/corl64/) **Hey y'all! Carl here! My first Open Source Contribrution!!! `;)`**
 - [TehilaTheStudent😊](https://github.com/TehilaTheStudent)
