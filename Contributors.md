@@ -7628,5 +7628,5 @@ vivek saskar
 - [Amanullah Atthar](https://github.com/amanullahatthar)'s _first_ contribution
 - [Solomon Taiwo](https://github.com/solomontaiwo) **This is so cool, thanks for making this useful repo. Here's the first of (hopefully) many contributions. Ad maiora!**
 - [Navjeet Singh Kukreja](https://github.com/NavjeetSinghKukreja)
-
+- [Nishant Dev](https://github.com/n1shan1) **My first contribution LOL, on 1st of September 2024!**
   ​                                                            
