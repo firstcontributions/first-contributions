@@ -233,6 +233,7 @@ i
 - [@Betsaleel237]
 - [Krsna Agrawal]
 - [Stackoverflow-addict]
+  [Pratik Sonawane](https://github.com/iampratik9)  **Hello,this is my first contribution trying out open source.** 
 - [Rishabh Dang](https://github.com/Rish-1903) **This is my first open source contribution**
 - [Andy Nguyen](https://github.com/andyTCS) **This is my first open source contribution**
 - [Guno327](https://github.com/Guno327) 
