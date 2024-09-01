@@ -101,6 +101,7 @@ Prajwal was here.
 - [irsyad212](https://github.com/irsyad212) **Hello!**
 - [Mischa Tobias](https://github.com/MischaTobias) **Hey there!**
 - Hello
+- [Franklin Okoye](https://github.com/franklin-okoye) **My First Contribution**
 - [Mansoor Ahmad Mir](https://github.com/Marshalll99/) **First Contribution**
 - [Nathan Hagan](https://github.com/BeastieNate5) *2Best Girl!!!*
 - [Siddharth](https://github.com/51ddh4r7h/) **-__-**
