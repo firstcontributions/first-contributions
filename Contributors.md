@@ -1,6 +1,7 @@
 
 # Contributors
 - [Aviraj Saha] (https://github.com/avirsaha) **I love open-source.**
+- [Chetan Zagade](https://github.com/chetangotgithub) ** Starting Open Source**
 - [Dustin Reuter]((https://github.com/Dxxtxx) **Hello I am new to git and GitHub**
 - [Mya Gwinn](https://github.com/MyaGwinn) **Hello lads!**
 - [Xiao Liu](https://github.com/XiaoLiu8811) **Hello github**
