@@ -3,7 +3,7 @@
 - [Nischal Neupane](https://github.com/nischal170) **First Step in Contributon. Yoii!! All The way From Nepal 🇳🇵**
  
 - [Rodan Ramdam](https://github.com/rodanr) **Good luck to anyone reading this**
-
+- [JinYoung Park](https://github.com/pjyy2k) **It's my pleasure**
 - [Aviraj Saha] (https://github.com/avirsaha) **I love open-source.**
 - [Chetan Zagade](https://github.com/chetangotgithub) ** Starting Open Source**
 - [Nazmul Hasan] (https://github.com/imnazmul99) **Beginning open source journey!**
