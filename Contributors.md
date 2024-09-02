@@ -485,6 +485,7 @@ Elisheva R
 - [Seiji Ueno] **I'm Here**
 -[Thiago Queiroz](https://github.com/thiagoqueiroz97) **Re-learning the ropes!** 
 -[Brian Caldera](https://github.com/briancaldera)  **Long live OSS!**
+-[Robert Joo] (https://github.com/sapienthttps://github.com/sapient-sapiens) 
 ### Paul Quito
 -[Lynda Nwa]()
 - Vyshnavi Daka
@@ -3844,6 +3845,7 @@ Jasmine
 - [Pr-nv-S] ((https://github.com/Pr-nv-S)
 - [Pavan Badempet](https://github.com/pavanbadempet)
 - [YaelGluskin]
+- [YaelZruya]
 - [s2c97](https://github.com/s2c97)
 - [Shaowy05]
 - Andy O
