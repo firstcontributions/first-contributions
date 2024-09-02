@@ -7018,6 +7018,7 @@ utthamr
 - [kinshuk-code-1729] (httsps:github.com/kinshuk-code-1729) : I was also here.... !!!!
 - [Katsu0424](https://github.com/Katsu0424/)
 - [Tom Koevoets](https://github.com/tomkoevoets)
+- [Amanda Stone] (https://github.com/ladyfenharel) **Thanks for making a genuinely lovely practical contribution to the community!**
 - [Dimitar Nikolov]
 - [Le Van Huong](https://github.com/lvhuong221)
 - [Trevor Streng](https://github.com/TrevorStreng) First contribution!
@@ -7638,5 +7639,4 @@ vivek saskar
 - [Solomon Taiwo](https://github.com/solomontaiwo) **This is so cool, thanks for making this useful repo. Here's the first of (hopefully) many contributions. Ad maiora!**
 - [Navjeet Singh Kukreja](https://github.com/NavjeetSinghKukreja)
 [Srikanth Bisai](https://github.com/srikanthbisai)
-
   ​                                                            
