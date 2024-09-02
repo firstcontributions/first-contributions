@@ -1,6 +1,8 @@
 
 # Contributors
-- [Nischal Neupane](https://github.com/nischal170) **First Step in Contributon. Yoii!! All The way From Nepal 🇳🇵**
+
+- [kartikey korimilli](https://github.com/kartikey369-ind) **Good luck to anyone reading this love from india**-
+[Nischal Neupane](https://github.com/nischal170) **First Step in Contributon. Yoii!! All The way From Nepal 🇳🇵**- 
  
 - [Rodan Ramdam](https://github.com/rodanr) **Good luck to anyone reading this**
 
