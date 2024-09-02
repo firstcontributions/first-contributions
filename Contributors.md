@@ -7648,4 +7648,10 @@ vivek saskar
 - [Navjeet Singh Kukreja](https://github.com/NavjeetSinghKukreja)
 [Srikanth Bisai](https://github.com/srikanthbisai)
 
-  ​                                                            
+  ​                                                 
+{
+  "name": "chand kaurati",
+  "github_profile": "https://github.com.chandkaurati",
+  "status": "200",
+  "messege": "happy to take first step toward my tech jouny and towads my dream as well"
+}
