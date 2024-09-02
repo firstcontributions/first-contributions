@@ -5,13 +5,18 @@
 - [Aviraj Saha] (https://github.com/avirsaha) **I love open-source.**
 - [Efrat Kalazan] (https://github.com/efrat-code) **My first Contribution to opensource project.**
 - [Chetan Zagade](https://github.com/chetangotgithub) ** Starting Open Source**
+- [Nazmul Hasan] (https://github.com/imnazmul99) **Beginning open source journey!**
 - [Dustin Reuter]((https://github.com/Dxxtxx) **Hello I am new to git and GitHub**
+- [Stavros Gkounis](https://github.com/lArch1t3ct) **Learning about contributing to open-source projects!**
 - [Mya Gwinn](https://github.com/MyaGwinn) **Hello lads!**
 - [Xiao Liu](https://github.com/XiaoLiu8811) **Hello github**
 - [Ruhi Tyagi](https://github.com/ruhi47) **Hey!, here to build a course on open-source. Interested? Hit me up on Linkedin!**
 - [Faaz Sherwani]--YOLO peeps--
 - [Kaizzen](https://github.com/Kaizzen42) And so, it begins!
+- [Malkaf] (https://github.com/Malka-f) Always challenge yourself!
 - [THE ALMIGHTY](Ashutosh Tiwari) #1 in the world
+- [Maidah] (https://github.com/Maida-Tariq) **Call of the Programmers!**
+- SaQiB Wani - **Ready to start Open-source Contribution**
 - [Advait Chalke] (https://github.com/chalky25) **I wanna be the very best, like no one ever was!**
 - [Adeir Junior](https://github.com/adeirjunior) **Hi!** It's nice to see my name between people from everyplace in the world `:)`
 - [Felipe calle](https://github.com/Felipe0987) **Hello This is so good :J**
@@ -35,11 +40,13 @@
 - [Yael Werner](https://github.com/YaelWerner)
 - [Rosis Kharel](https://github.com/RosisK)
 - [Aditya Rajput](https://github.com/Adiyta-rajput200) **Its my first contribution but not the last,Here to start the new World Aditya Rajput form Bihar,India**
+- [Israel Rivas](https://github.com/ILRivas) **Hello World!**
 - [Ofek Tal](https://github.com/kafuexe) **hio**
 - [aniruddha chaudhari](https://github.com/aniruddha-chaudhari)**Hello Thanks For This,really appreciate it**
 - [Nang Win Myat Thiri Han](https://github.com/WinMyatThiriHan)
 - [Kevin Chen](https://github.com/kevin5112) **Woo! GL on everyone's open source journey! Let's collab :D**
 - [Mayur Kishor Kumar](https://github.com/MayurKishorKumar) **Hello, My First Open SOurce Contribution. Let's Go**
+- [h4ckxel] **LET'S DO IT MY CODER FRIENDS**
 - [SaravanaGanesh Ulagamani](https://github.com/usganesh/) **Lets go to OpenWorld(Ulagi)**
 -[Teoman ÇELİK](https://github.com/Teocelik)**Bu benim ilk github açık kaynaklı bir projeye katkımdır!**
 -[BinaryBrain](https://github.com/BinaryBrain45)**This is my first contribution. Follow me, let's collaborate and make some awesone projects**
@@ -54,9 +61,10 @@ Rakesh Radhakrishnan dev was here.
 - [Chiefspy](https://github.com/Chiefspy) **first contribution very excited** -[N Dayakar ](https://github.com/dayakar-007)\*\*I am ready to start my open source contribution
 - [Matiyendou Djato](https://github.com/matieydjato) **Hello ! this my first contribution**
 - [Mônica Cruz](https://github.com/monicacruzs) **directly from Brasil**
+- [Jakob] **First contribution**
 - [Essa]
 - [x] **Make my first contribution!** [Gonzalo 😁](https://github.com/Gonzalo-Turusi)
-- [Mathhtew]
+
 - [santhosh rr] #This is my first contribution to open source
 - [Jansen Long](https://github.com/jantz27) **First contribution. Excited to work on new projects!!**
 - [Sam LeGro](https://github.com/slegro97) **Hey yall**
@@ -167,6 +175,7 @@ Rakesh Radhakrishnan dev was here.
 - [Khaled Ahmed](https://github.com/wtcherr) **Yay! My first ever open source contribution.**
   [Savannah] **open source contribution**
 - [Ilyas Torun] (https://github.com/ilyastorunn) **First open source contribution!**
+- [Siraj Khatti] (https://github.com/Siraj01576/) **Finally time to step in :**
 - [Rohith Ramaswamy](https://github.com/Rohith404) **First open source contribution by Rohith Ramaswamy!!!**
 - [Yash Saini](https://github.com/yash-saini) **this is my first opensource contribution**
 - [Muhammad Mehar](https://github.com/muhammad-mehar) **this is my first open source contribution**
@@ -192,7 +201,7 @@ Rakesh Radhakrishnan dev was here.
 - [KrishnaJoshi](https://github.com/ProgrammerKJ) **Hello!! my journey is beginning!!**
 - [Devanshi-Bavaria](https://github.com/Devubavariaa) **Learning to contribute to open source!!**
 - [@venelouis](https://github.com/venelouis) **Contributing!**
-  i
+
 - [Shreyash Waghe] (https://github.com/Shreyashwaghe) **As they say, A journey of a thousand miles begins with a single step**
 - [Wee Ki Joon](https://github.com/weekijoon) **First of many**
 - [Prabha Krishna](https://github.com/tpks27) **My First Contribution Open Source**
@@ -408,6 +417,7 @@ Rakesh Radhakrishnan dev was here.
 - [Lucky Mathias Kispotta](https://github.com/YOmaann) **Lesssgooo 🔥**
 - [Gabriel Fonseca](https://github.com/GabrielKLS) **I was here**
 - [ItzAAcromatix](https://github.com/ItzAcromatix) **I was here**
+- [balavignesh]
 - [Abhiraaj R C](https://github.com/neox-d) **Yea!!**
 - [Ramxcodes](https://github.com/Ramxcodes) **Let's go with my first open source contribution**
 - [Aniruddha Rawool](https://github.com/rawani123)**I am ready to give my best**
@@ -433,9 +443,6 @@ Rakesh Radhakrishnan dev was here.
 - [Tarunvamsi](https://github.com/Tarunvamsi) **Contributed to open source for the first time. It's a great learning experience!**
 - 🇰🇷 [Donggeon Na](https://github.com/doongeon) -[Vani Verma](https://github.com/VaniVerma16) **Excited to be here!**
 - [Lu-Akira](https://github.com/Lu-Akira) **Life is short, blame jungler and move on**
-- [Piotr Daniel](https://github.com/pino888) **There's a first time for everything!**
-- [Julius Pascual](https://github.com/JProfessor) **OLFU Antipolo Graduate 2024!**
-- [Seiji Ueno] **I'm Here** -[Thiago Queiroz](https://github.com/thiagoqueiroz97) **Re-learning the ropes!** -[Brian Caldera](https://github.com/briancaldera) **Long live OSS!**
 
 ### Paul Quito
 
@@ -1867,6 +1874,7 @@ Rakesh Radhakrishnan dev was here.
 - [Kiarash Salehi](https://github.com/kiarash-salehi)
 - [Jimmy Toner]
 - [Abhilov23](https://github.com/abhilov23)
+- [Rohan](https://github.com/Rohan-3337)
 - [Bigmancozmo](https://github.com/Bigmancozmo)s
 - [Dev DXS](https://github.com/Divyanshu-DXS)
 - [Dan Siegelman](https://github.com/dansiegelman)
@@ -2832,6 +2840,7 @@ Rakesh Radhakrishnan dev was here.
 - [Olivia Hinson] (https://github.com/ohinson01): my first open-source contribution.
   guanj65
 - [Marlyn González] (https://github.com/magzaGL) **Learning something new**
+- [Glushchenko Maksim] (https://github.com/glabular) **Hello, world! My first open source contribution ever.**
 - [Abhishek Pattanayak](https://github.com/abhishekppattanayak)
 - [Alt Zin KKM] (https://github.com/altzinkkm)
 - [Harjas Singh](https://github.com/harjasae2001)
@@ -3483,6 +3492,7 @@ Rakesh Radhakrishnan dev was here.
 - [Pr-nv-S] ((https://github.com/Pr-nv-S)
 - [Pavan Badempet](https://github.com/pavanbadempet)
 - [YaelGluskin]
+- [YaelZruya]
 - [s2c97](https://github.com/s2c97)
 - [Shaowy05]
 - Andy O
@@ -4972,6 +4982,7 @@ Rakesh Radhakrishnan dev was here.
 - [Ankit Dani] (https://github.com/ankitdani)
 - [Ankita Kumar]
 - [Vamshi]
+- [yuli314]
 - [Igor Mykhalchuk](https://github.com/For1207)
 - [Joseph Mickler](https://github.com/micklerj)
 - [Robert.M]
@@ -6946,6 +6957,7 @@ Rakesh Radhakrishnan dev was here.
 - [Umer Islam](https://github.com/umer-islam) 👋🌍
 - [Daniel Obode](https://github.com/hoodiedan) **Let's Get Started With Open Source !!!**
 - [Rafał-Tomczyk](https://github.com/Faflox) **Hello World!**
+- [Alec Worthington] (https://github.com/alecworth) **Hey!!**
 - [Bartek2050](https://github.com/bartek2050) **Hello 👋🏻**
 - [Priyanshu Solon](https://github.com/priyanshu-solon) **Let's Go!**
 - [Tornike Skhulukhia](https://github.com/Tornike-Skhulukhia) ** Not the first FOSS commit, but this is still cool **
@@ -7128,12 +7140,14 @@ Rakesh Radhakrishnan dev was here.
 - [Bryan Daniel](https://github.com/BRobDan) **First, we post to GitHub, Pinky...Then we take over the world!**
 - [Ayush Tripathi](https://github.com/AyushTripathi07) **First Contribution**
 - [Art Haxholli](https://github.com/ATEZH) **Hi from lajthia :o this is awesome :D**
-- [Allen Benny](https://github.com/allenhack638) **Hello all I am hope all are doing good \***
-- [FionaFu](https://github.com/annanfu) **Testing the fork!**
-- [Aymen Mejri](https://github.com/napalmCore) **Hello all :) \***
+
 - [Amanullah Atthar](https://github.com/amanullahatthar)'s _first_ contribution
+-[Sara Cohen](https://github.com/Sara-Cohen)
 - [Efrat Grinberg](https://github.com/efratfried)
+- [Jagadeesh Madinni](https://github.com/jagadeeshmadinni) **Happy to be taking this first step in contributing to the open source community**
+**This is my first contribution, I Hope to contribute more in the coming future for the development**
 - [Solomon Taiwo](https://github.com/solomontaiwo) **This is so cool, thanks for making this useful repo. Here's the first of (hopefully) many contributions. Ad maiora!**
 - [Navjeet Singh Kukreja](https://github.com/NavjeetSinghKukreja)
+[Srikanth Bisai](https://github.com/srikanthbisai)
 
   ​
