@@ -41,6 +41,7 @@ Zipi Asrin
 - [shoshi hoffner]
 - [Yael Werner](https://github.com/YaelWerner)
 - [Rosis Kharel](https://github.com/RosisK)
+- [Darren Foote](https://github.con/Themandme)
 - [Aditya Rajput](https://github.com/Adiyta-rajput200) **Its my first contribution but not the last,Here to start the new World Aditya Rajput form Bihar,India**
 - [Israel Rivas](https://github.com/ILRivas) **Hello World!**
 - [Ofek Tal](https://github.com/kafuexe) **hio**
