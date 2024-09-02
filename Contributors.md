@@ -27,7 +27,7 @@
 Zipi Asrin
 - [Avyukt Aggarwal](https://github.com/Avyukt27) **Learning Is Great!**
 - [Yael Werner](https://github.com/YaelWerner)
-- [Kartikey Korimilli] (https://github.com/kartikey369-ind)  **Hey y'all! kartikey here! My first Open Source Contribrution!!!  !**
+- [Kartikey Korimilli](https://github.com/kartikey369-ind)  **Hey y'all! kartikey here! My first Open Source Contribrution!!!  !**
 - [Rosis Kharel](https://github.com/RosisK)
 
 - [Aditya Rajput](https://github.com/Adiyta-rajput200) **Its my first contribution but not the last,Here to start the new World Aditya Rajput form Bihar,India**
