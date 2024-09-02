@@ -3163,7 +3163,7 @@ Kencham Vinay
 - [Olivia Hinson] (https://github.com/ohinson01): my first open-source contribution.
 guanj65
 - [Marlyn González] (https://github.com/magzaGL) **Learning something new**
-- [Glushchenko Maksim] (https://github.com/glabular) **Hello, world! My first contribution ever.**
+- [Glushchenko Maksim] (https://github.com/glabular) **Hello, world! My first open source contribution ever.**
 - [Abhishek Pattanayak](https://github.com/abhishekppattanayak)
 - [Alt Zin KKM] (https://github.com/altzinkkm)
 - [Harjas Singh](https://github.com/harjasae2001)
