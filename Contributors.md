@@ -7639,6 +7639,7 @@ vivek saskar
 - [Bryan Daniel](https://github.com/BRobDan) **First, we post to GitHub, Pinky...Then we take over the world!**
 - [Ayush Tripathi](https://github.com/AyushTripathi07) **First Contribution**
 - [Art Haxholli](https://github.com/ATEZH) **Hi from lajthia :o this is awesome :D**
+- [Ujjawal Kaul] (https://github.com/UjjwalKaul) **My First Open Source Contri**
 - [Allen Benny](https://github.com/allenhack638) **Hello all I am hope all are doing good ***
 - [FionaFu](https://github.com/annanfu) **Testing the fork!** 
 - [Aymen Mejri](https://github.com/napalmCore) **Hello all :) ***
