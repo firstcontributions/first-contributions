@@ -7650,6 +7650,7 @@ vivek saskar
 - [FionaFu](https://github.com/annanfu) **Testing the fork!** 
 - [Aymen Mejri](https://github.com/napalmCore) **Hello all :) ***
 - [Amanullah Atthar](https://github.com/amanullahatthar)'s _first_ contribution
+-[Sara Cohen](https://github.com/Sara-Cohen)
 - [Efrat Grinberg](https://github.com/efratfried)
 - [Jagadeesh Madinni](https://github.com/jagadeeshmadinni) **Happy to be taking this first step in contributing to the open source community**
 **This is my first contribution, I Hope to contribute more in the coming future for the development**
