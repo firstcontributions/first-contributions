@@ -1,5 +1,6 @@
 
 # Contributors
+
 - [Nischal Neupane](https://github.com/nischal170) **First Step in Contributon. Yoii!! All The way From Nepal 🇳🇵**
  
 - [Rodan Ramdam](https://github.com/rodanr) **Good luck to anyone reading this**
@@ -11,6 +12,7 @@
 - [Stavros Gkounis](https://github.com/lArch1t3ct) **Learning about contributing to open-source projects!**
 - [Mya Gwinn](https://github.com/MyaGwinn) **Hello lads!**
 - [Xiao Liu](https://github.com/XiaoLiu8811) **Hello github**
+- [Cris Picado](https://github.com/CrisPicado) **Hello Gitminds**
 - [Ruhi Tyagi](https://github.com/ruhi47) **Hey!, here to build a course on open-source. Interested? Hit me up on Linkedin!**
 - [Faaz Sherwani]--YOLO peeps--
 - [Kaizzen](https://github.com/Kaizzen42) And so, it begins!
