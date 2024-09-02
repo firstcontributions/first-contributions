@@ -182,6 +182,7 @@ i
 - [Vijay Raj](https://github.com/V1j4YRaj) **This is my first contribution**
 - [Harsh Kumar](https://github.com/Harshkumart) **This is my first Contribution**
 -Venkat
+- [Mali Ascher](https://github.com/MaliAscher20)**First *opens source contribution**
 - [Saleem Vellekkat](https://www.linkedin.com/in/saleem-vellekkat/)
 - [Jasael Palma](https://github.com/jasael) **My first open source contributon**
 - [Nabs](https://github.com/Nabs2000) **This is my first contribution**
