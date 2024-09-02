@@ -1,5 +1,6 @@
 
 # Contributors
+
 - [Xiao Liu](https://github.com/XiaoLiu8811) **Hello github**
 - [Faaz Sherwani]--YOLO peeps--
 -[Felipe calle](https://github.com/Felipe0987) **Hello This is so good :J**
@@ -11,6 +12,7 @@
 - [Ranjan Sharma](https://github.com/ranjansharma1) **First Contribution to opensource project, All Thanks to this repo who guide overall process**
 - [Avyukt Aggarwal](https://github.com/Avyukt27) **Learning Is Great!**
 - [Ofek Tal](https://github.com/kafuexe) **hio**
+**Chava Singer**
 - [Nang Win Myat Thiri Han](https://github.com/WinMyatThiriHan)
 - [Kevin Chen](https://github.com/kevin5112) **Woo! GL on everyone's open source journey! Let's collab :D**
 - [Mayur Kishor Kumar](https://github.com/MayurKishorKumar) **Hello, My First Open SOurce Contribution. Let's Go**
