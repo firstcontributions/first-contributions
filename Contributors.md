@@ -55,6 +55,7 @@ Rakesh Radhakrishnan dev was here.
 -[N Dayakar ](https://github.com/dayakar-007)**I am ready to start my open source contribution
 - [Matiyendou Djato](https://github.com/matieydjato) **Hello ! this my first contribution**
 - [Mônica Cruz](https://github.com/monicacruzs) **directly from Brasil**
+- [Jakob] **First contribution**
 - [Essa]
 - [x] **Make my first contribution!** [Gonzalo 😁](https://github.com/Gonzalo-Turusi)
 -  [Mathhtew]
