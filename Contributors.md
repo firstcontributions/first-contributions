@@ -7572,5 +7572,5 @@ vivek saskar
 - [Allen Benny](https://github.com/allenhack638) **Hello all I am hope all are doing good ***
 - [FionaFu](https://github.com/annanfu) **Testing the fork!** 
 - [Aymen Mejri](https://github.com/napalmCore) **Hello all :) ***
-
+- [Aditya-Raut](https://github.com/adityaraut-cs) **Hello everyone! I'm excited to start my open source journey with this as my first contribution.**
   ​                                                            
