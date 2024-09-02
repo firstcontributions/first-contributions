@@ -29,6 +29,7 @@
 -[Achyuth Reddy Chamakura](https://github.com/CHINTU1253)  **Hi to Everyone..**
 - [Ritabrata Patra](https://github.com/RitabrataPatra) **I know/hope that all of us here will make it one day.So keep grinding and be a good person.Thanks for reading.Cheers!!**
 - [Hamid jalili](https://github.com/hamidjalili59) **Wow, I want to see my name among the best programmers.**
+[Aitya jain](https://github.com/aditya76-webdev)** I will surely get selected in gsoc in 2025**Aditya promise
 - [Rizky Verandi](https://github.com/rizkyverandi) **This is my first contribution in open source project, keep up the energy and happy coding!!**
 - [Kevin Morales](https://github.com/KeviinMoralees) **Everyone on this list is going to be successful. :D**
 - [Leonardo Bazan Marquez](https://github.com/ky210299) **Come to grow together**
