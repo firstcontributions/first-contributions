@@ -1,7 +1,6 @@
 
 # Contributors
 - [Nischal Neupane](https://github.com/nischal170) **First Step in Contributon. Yoii!! All The way From Nepal 🇳🇵**
- 
 - [Rodan Ramdam](https://github.com/rodanr) **Good luck to anyone reading this**
 
 - [Aviraj Saha] (https://github.com/avirsaha) **I love open-source.**
@@ -16,6 +15,7 @@
 - [Faaz Sherwani]--YOLO peeps--
 - [Marcus Quibol]
 - [Kaizzen](https://github.com/Kaizzen42) And so, it begins!
+- [Jared Anastacio Ferrer](hhttps://github.com/JaredSkates) **Learning to Contribute!**
 - [Malkaf] (https://github.com/Malka-f) Always challenge yourself!
 - [THE ALMIGHTY](Ashutosh Tiwari) #1 in the world
 - [Maidah] (https://github.com/Maida-Tariq) **Call of the Programmers!**
