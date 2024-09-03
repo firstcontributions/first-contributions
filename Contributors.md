@@ -318,7 +318,7 @@ i
 -[Thanh Mai](https://github.com/Maithanhceu)**This is my First Git contribution, Follow me on Git**
 - [Diniru Karunarathne](https://github.com/DiniruKarunarathne) **My first open source contribution**
 - [Zainab Zulfiqar](https://github.com/Zaynab511) **Zainab's First open source contribution!**
-- [Thanzia](https://github.com/Thanzia) **Happy Coding!**
+- [Thanzia](https://github.com/Thanzia) **Happy Coding to all coding enthusiast!**
 - [Poyi Liu] (https://github.com/fraubentz) **My first contribution!**
 - [Kim Scott] (https://github.com/ISMKim) **My First Contribution!**
 - [Adrian Maresca](https://github.com/AdrianMaresDev) **My first open source contribution**
