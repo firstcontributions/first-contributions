@@ -13,6 +13,9 @@
 - [Mya Gwinn](https://github.com/MyaGwinn) **Hello lads!**
 - [Xiao Liu](https://github.com/XiaoLiu8811) **Hello github**
 - [Ruhi Tyagi](https://github.com/ruhi47) **Hey!, here to build a course on open-source. Interested? Hit me up on Linkedin!**
+
+-[Sammaiah Guguloth] (https://github.com/Sammaiah-Guguloth) **Hello World**
+
 - [Faaz Sherwani]--YOLO peeps--
 - [Marcus Quibol]
 - [Kaizzen](https://github.com/Kaizzen42) And so, it begins!
