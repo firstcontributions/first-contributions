@@ -129,7 +129,9 @@ Change to the repository directory on your computer (if you are not already ther
 cd first-contributions
 ```
 
-Now create a branch using the `git switch` command:
+Now follow one of the two ways to create a branch:
+
+1-create a branch using the `git switch` command:
 
 ```bash
 git switch -c your-new-branch-name
@@ -140,6 +142,23 @@ For example:
 ```bash
 git switch -c add-alonzo-church
 ```
+
+2-create a branch using the `git branch` and `git checkout` commands:
+`git branch` creates the branch, and `git checkout` switches to it
+
+```bash
+git branch your-new-branch-name
+git checkout your-new-branch-name
+```
+
+For example:
+
+```bash
+git branch add-alonzo-church
+git checkout add-alonzo-church
+```
+
+Note: You can also use `git checkout -b your-new-branch-name` as a shorthand for creating and switching to a new branch in one step.
 
 ## Make necessary changes and commit those changes
 
