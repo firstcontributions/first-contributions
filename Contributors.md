@@ -36,6 +36,7 @@
 [Aitya jain](https://github.com/aditya76-webdev)** I will surely get selected in gsoc in 2025**Aditya promise
 - [Rizky Verandi](https://github.com/rizkyverandi) **This is my first contribution in open source project, keep up the energy and happy coding!!**
 - [Kevin Morales](https://github.com/KeviinMoralees) **Everyone on this list is going to be successful. :D**
+- [Chloe Yun](https://github.com/chloeyun) **Hi Everyone! This is my first contribution, and I'm happy to start my journey! :) **
 - [Leonardo Bazan Marquez](https://github.com/ky210299) **Come to grow together**
 - [Agilan Ilankon](https://github.com/alcor28)**Good luck to anyone reading this**
 - [Rami cheikh](https://github.com/Rami-cd) **trying**
