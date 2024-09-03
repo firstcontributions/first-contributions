@@ -149,6 +149,7 @@ Prajwal was here.
 -[Sohan Rai](https://github.com/SohanRaidev/)**Hey there!! Yes YOU! Best of luck. Sohan was here! 17Y/O**
 -[Mariela Montaldo](https://github.com/m0nt4ld0/)**Marie was here! This is my first open source contribution**
 -[DorianMcCutchan] (https://github.com/DorianMcCutchan) **this is my first contribution**
+-[Thamannashaji](https://github.com/Thamanna11234)**Here i am for my baby steps in opensource.**
 -[Shrinedhi](https://github.com/Web-Dev-Learner)**this is my first opensource contribution**
 Rehan
 - [Meenakshi](https://github.com/meenakship3) **Maybe ~~third~~ fourth time's the charm.**
