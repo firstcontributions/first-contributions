@@ -1,23 +1,23 @@
 
 # Contributors
+- [Asad Ullah](https://github.com/Asad-960) **Procrastination Sucks**
 - [Nischal Neupane](https://github.com/nischal170) **First Step in Contributon. Yoii!! All The way From Nepal 🇳🇵**
- 
 - [Rodan Ramdam](https://github.com/rodanr) **Good luck to anyone reading this**
 
-- [Aviraj Saha] (https://github.com/avirsaha) **I love open-source.**
-- [Shayna Segal] (https://github.com/ShaynaSegal45) **OPEN SOURCE IS THE BEST!**
+- [Aviraj Saha](https://github.com/avirsaha) **I love open-source.**
+- [Shayna Segal](https://github.com/ShaynaSegal45) **OPEN SOURCE IS THE BEST!**
 - [Chetan Zagade](https://github.com/chetangotgithub) ** Starting Open Source**
-- [Nazmul Hasan] (https://github.com/imnazmul99) **Beginning open source journey!**
-- [Dustin Reuter]((https://github.com/Dxxtxx) **Hello I am new to git and GitHub**
+- [Nazmul Hasan](https://github.com/imnazmul99) **Beginning open source journey!**
+- [Dustin Reuter](https://github.com/Dxxtxx) **Hello I am new to git and GitHub**
 - [Stavros Gkounis](https://github.com/lArch1t3ct) **Learning about contributing to open-source projects!**
 - [Mya Gwinn](https://github.com/MyaGwinn) **Hello lads!**
 - [Xiao Liu](https://github.com/XiaoLiu8811) **Hello github**
 - [Ruhi Tyagi](https://github.com/ruhi47) **Hey!, here to build a course on open-source. Interested? Hit me up on Linkedin!**
-- [Faaz Sherwani]--YOLO peeps--
+- [Faaz Sherwani]()--YOLO peeps--
 - [Kaizzen](https://github.com/Kaizzen42) And so, it begins!
-- [Malkaf] (https://github.com/Malka-f) Always challenge yourself!
+- [Malkaf](https://github.com/Malka-f) Always challenge yourself!
 - [THE ALMIGHTY](Ashutosh Tiwari) #1 in the world
-- [Maidah] (https://github.com/Maida-Tariq) **Call of the Programmers!**
+- [Maidah](https://github.com/Maida-Tariq) **Call of the Programmers!**
 - SaQiB Wani - **Ready to start Open-source Contribution**
 - [Advait Chalke] (https://github.com/chalky25) **I wanna be the very best, like no one ever was!**
 - [Adeir Junior](https://github.com/adeirjunior) **Hi!** It's nice to see my name between people from everyplace in the world `:)`
