@@ -3,7 +3,7 @@
 - [Nischal Neupane](https://github.com/nischal170) **First Step in Contributon. Yoii!! All The way From Nepal 🇳🇵**
  
 - [Rodan Ramdam](https://github.com/rodanr) **Good luck to anyone reading this**
-
+- [Kendra Lambillon](https://github.com/KendraLambillon) **Open source is good for practise, I love it!**
 - [Aviraj Saha] (https://github.com/avirsaha) **I love open-source.**
 - [Shayna Segal] (https://github.com/ShaynaSegal45) **OPEN SOURCE IS THE BEST!**
 - [Chetan Zagade](https://github.com/chetangotgithub) ** Starting Open Source**
