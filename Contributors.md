@@ -62,6 +62,7 @@ Zipi Asrin
 ashutosh Sharma
 Rakesh Radhakrishnan dev was here.
 - [mitarumi](https://github.com/mitarumi) **Sup**
+- [Jamie Heathorn](https://github.com/heathornJ) **Amazing how many folk got started here. Hi, from England!**
 - [Shriharsh Deshmukh](https://github.com/Shriharsh-Deshmukh) **First Contribution to opensource project, All Thanks to this repo who guide overall process**
 - [Nicolás Alfaro](https://github.com/Alfa06N)
 - [Corl](https://github.com/corl64/) **Hey y'all! Carl here! My first Open Source Contribrution!!! `;)`**
