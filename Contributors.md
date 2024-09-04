@@ -1,5 +1,8 @@
 
 # Contributors
+
+- [Aryan Kumar](https://https://github.com/AryanKumar101/) **Hello world! I am taking my first steps in open source!**
+
 - [Nischal Neupane](https://github.com/nischal170) **First Step in Contributon. Yoii!! All The way From Nepal 🇳🇵**
  
 - [Rodan Ramdam](https://github.com/rodanr) **Good luck to anyone reading this**
