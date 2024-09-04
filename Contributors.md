@@ -2,7 +2,7 @@
 # Contributors
 - [Nischal Neupane](https://github.com/nischal170) **First Step in Contributon. Yoii!! All The way From Nepal 🇳🇵**
 - [Enrique Uribe](https://github.com/UribeJr) **LEGOOOO**
- 
+- [Chirag A K](https://github.com/chiragak) **This is my first contribution** 
 - [Rodan Ramdam](https://github.com/rodanr) **Good luck to anyone reading this**
 
 - [Aviraj Saha] (https://github.com/avirsaha) **I love open-source.**
