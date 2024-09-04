@@ -18,6 +18,7 @@
 - [Faaz Sherwani]--YOLO peeps--
 - [Marcus Quibol]
 - [Farhan Abbas]
+- [Fran Diaz]
 - Chad W
 - Allan Branson  [https://github.com/Ghostified/] **Okay here we go!!!**
 -Alexander Bokedal (https://github.com/alexander-bokedal) **Exicted to get started**
