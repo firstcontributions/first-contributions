@@ -22,6 +22,7 @@
 - [THE ALMIGHTY](Ashutosh Tiwari) #1 in the world
 - [Maidah] (https://github.com/Maida-Tariq) **Call of the Programmers!**
 - SaQiB Wani - **Ready to start Open-source Contribution**
+- [Shashidhar Rao] (https://github.com/shashidharrao19) - **Ready to start open source contribution**
 - [Morgan Anderson] (https://github.com/morganog) **Just trying to do something that matters!**
 - [Advait Chalke] (https://github.com/chalky25) **I wanna be the very best, like no one ever was!**
 - [Adeir Junior](https://github.com/adeirjunior) **Hi!** It's nice to see my name between people from everyplace in the world `:)`
