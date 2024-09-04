@@ -224,6 +224,7 @@ Onyi Ajoku😄 #My very first contribution! Excited for whats to come.******
 - [Rohith Ramaswamy](https://github.com/Rohith404) **First open source contribution by Rohith Ramaswamy!!!**
 - [Yash Saini](https://github.com/yash-saini) **this is my first opensource contribution**
 - [Muhammad Mehar](https://github.com/muhammad-mehar) **this is my first open source contribution**
+- [Kolapo Wariz](https://github.com/kolapowariz) **First open source contribution. Cheers to more contributions**
 - [Moustapha Camara](https://github.com/MoustaphaCamara) **Finally time to step in :**
 - [Dara Yazdani](https://github.com/dyazdani) **I have now touched the source...the *open* source.**
 - [Adithya R]{https://github.com/Adithya-R-Gowda} "This is my First Contribution"
