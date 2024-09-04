@@ -70,6 +70,7 @@ Zipi Asrin
 -[Joseph Tiglao](https://github.com/JosephTiglao) **Getting Started!!!** Cram hard
 ashutosh Sharma
 Rakesh Radhakrishnan dev was here.
+-[Yash Shukla](https://github.com/YashShukla925/) **Dam cool !!**
 - [mitarumi](https://github.com/mitarumi) **Sup**
 - [CYCHIU](https://github.com/cychiu8)
 - [Jamie Heathorn](https://github.com/heathornJ) **Amazing how many folk got started here. Hi, from England!**
