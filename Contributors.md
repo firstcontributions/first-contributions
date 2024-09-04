@@ -146,6 +146,7 @@ Prajwal was here.
 - [Yusuf Isah](https://github.com/yusbuntu) **Hello Everyone! I happy to be here**
 - [Samama Farooq](https://github.com/Sam-Coding77)**We Go Open Source Baby!**
 - [Dhrubo Roy Partho](https://github.com/DhruboRoyPartho) **First step in OpenSource Contribution**
+- [Gabriel Adeife](https://github.com/gabrieladeife) **ITS TIME TO BLUE LOCK IN**
 - [Noah Evans](https://github.com/Noahkevans) **Here we go**
 - [Railey Mitchell Quimson Capitis](https://github.com/MichiruRi) **Crazy? I was crazy once.**
 - [Ali Hamza Noor](https://github.com/ALIHAMZA99) **Here we go**
