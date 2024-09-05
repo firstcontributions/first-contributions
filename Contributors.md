@@ -4,7 +4,7 @@
 - [Enrique Uribe](https://github.com/UribeJr) **LEGOOOO**
  
 - [Rodan Ramdam](https://github.com/rodanr) **Good luck to anyone reading this**
-- [Ravi Kumar] (https://github.com/ravixis29) ** Hey there My First contribution!! **
+- [Ravi Kumar] (https://github.com/ravixis29) ** Hey there My First contribution **
 - [Aviraj Saha] (https://github.com/avirsaha) **I love open-source.**
 - [Shayna Segal] (https://github.com/ShaynaSegal45) **OPEN SOURCE IS THE BEST!**
 - [Chetan Zagade](https://github.com/chetangotgithub) ** Starting Open Source**
