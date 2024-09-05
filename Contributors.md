@@ -4,7 +4,7 @@
 - [Nischal Neupane](https://github.com/nischal170) **First Step in Contributon. Yoii!! All The way From Nepal 🇳🇵**
 - [Bishwas Bhatt](https://github.com/bishwasbhatt2) ** First time contributing in open source **
 - [Enrique Uribe](https://github.com/UribeJr) **LEGOOOO**
- 
+- [Abhijeet Sharma](https://github.com/badmuffin) ** Dear reader, stop scrolling and start building stuffs ffs**
 - [Rodan Ramdam](https://github.com/rodanr) **Good luck to anyone reading this**
 - [Chaturansh Maurya](https://github.com/venerable-hunter) **First Step in. ** 
 
