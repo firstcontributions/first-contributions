@@ -4,7 +4,8 @@
 - [Enrique Uribe](https://github.com/UribeJr) **LEGOOOO**
  
 - [Rodan Ramdam](https://github.com/rodanr) **Good luck to anyone reading this**
-- [Chaturansh Maurya](https://github.com/venerable-hunter) **First Step in. ** 
+- [Chaturansh Maurya](https://github.com/venerable-hunter) **First Step in. **
+- [Ghada_Abdullah](https://github.com/Ghadaala)**I like to be here!**
 
 - [Aviraj Saha] (https://github.com/avirsaha) **I love open-source.**
 - [Shayna Segal] (https://github.com/ShaynaSegal45) **OPEN SOURCE IS THE BEST!**
