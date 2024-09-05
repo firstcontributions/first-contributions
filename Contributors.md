@@ -4343,6 +4343,7 @@ Romeu Leite
 - [BrianC](https://github.com/BrianSChase
 )
 - [zeden](https://github.com/snowxx456)
+- [Akshat Shah](https://github.com/akshatshah811)
 - [Htut Oakkar](https://github.com/htutoakkar)
 - [K G Tint Swe](https://github.com/KG6605)
 - [Aakash Srivastava](https://github.com/kayasthasky)
