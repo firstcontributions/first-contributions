@@ -3420,6 +3420,7 @@ guanj65
 -[NNO] (https://github.com/nwenioo)
 -Prasad
 - [tk-wong](https://github.com/tk-wong)
+- [Michael Scott](https://github.com/Rashuneagle)
 - [Terry] (https://github.com/Xsszbhzxsl)
 - [G Madhu Sudan Reddy](https://github.com/geekofcodes) 👨‍💻💡💻📚🔍
 - [Raven842](https://github.com/Raven842)
@@ -3428,7 +3429,7 @@ guanj65
 - [Matheus Zahorcak](https://github.com/mathzak)
 - [Lucas Hogg](https://github.com/lucashogg)
 -[mrdst-code](https://github.com/mrdst-code)
-- [Kedju Precious](https://github.com/Kedjuprecious).
+- [Kedju Precious](https://github.com/Kedjuprecious)
 - [Netta Kaufman] (https://github.com/0NeKa0)
 [Matt Heeter](https://github.com/mattheeter)
 - [salvlan](https://github.com/salvlan)
@@ -7699,5 +7700,6 @@ vivek saskar
 - [RyanTH98](https://github.com/RyanTH98) ** Hello World **
 - [Fumika Mochizuki](https://github.com/maejima-fumika) **Hello world!**
 - [Olleg Thornbill](https://github.com/aturnbul) **GitHub is intimidating!**
+
 
   ​                                                            
