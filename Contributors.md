@@ -247,6 +247,7 @@ Onyi Ajoku😄 #My very first contribution! Excited for whats to come.******
 - [Vincen-Cueva]
 - [Eben](https://github.com.iNezerr) **Better late than never!**
 - [Ashton-Hull](https://github.com/ashtonh2022) **First of many**
+- [ShunT](https://github.com/ShT9m) **I'm so excited to contribute my first open source commit!**
 - [MicaellaAlmoite]
 - [Danielle Gaither](https://github.com/daniellegaither) **The tech comeback is on!**
 - [Elly Bachubila](https://github.com/EllyBax) **Hello developers, let me in!**
