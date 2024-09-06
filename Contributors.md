@@ -67,6 +67,7 @@
 - [Ranjan Sharma](https://github.com/ranjansharma1) **First Contribution to opensource project, All Thanks to this repo who guide overall process**
 - [Avishek Saha](https://github.com/Avishek27) **First contribution to an opensource**
 Zipi Asrin
+-[Anshu Ranjan](https://github.com/Anshu6513) **First contribution to an opensource**
 - [Avyukt Aggarwal](https://github.com/Avyukt27) **Learning Is Great!**
 - [shoshi hoffner]
 - [Akhilesh Reddy](https://github.com/Akhilesh-Reddy13) **Learning my first contribution to open source.Great to be here##@@**
