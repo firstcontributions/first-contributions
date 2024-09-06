@@ -4,6 +4,7 @@
 - [Gabriel Lipaysa](https://github.com/Er000s) **Eyy ka muna eyy**
 - [Nischal Neupane](https://github.com/nischal170) **First Step in Contributon. Yoii!! All The way From Nepal 🇳🇵**
 - [Bishwas Bhatt](https://github.com/bishwasbhatt2) ** First time contributing in open source **
+- [BVI Engineer](https://github.com/bviengineer) **Coding is a journey**
 - [Enrique Uribe](https://github.com/UribeJr) **LEGOOOO**
  
 - [Rodan Ramdam](https://github.com/rodanr) **Good luck to anyone reading this**
