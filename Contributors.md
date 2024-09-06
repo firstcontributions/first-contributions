@@ -1,5 +1,6 @@
 
 # Contributors
+- [Suraj Senapati](https://github.com/SurajSenapati24) **First Contribution to open source**
 - [Artan Kadriju](https://github.com/R10Kdr) **First Contribution**
 - [Gabriel Lipaysa](https://github.com/Er000s) **Eyy ka muna eyy**
 - [Nischal Neupane](https://github.com/nischal170) **First Step in Contributon. Yoii!! All The way From Nepal 🇳🇵**
