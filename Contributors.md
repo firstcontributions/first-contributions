@@ -1,6 +1,7 @@
 
 # Contributors
 - [Artan Kadriju](https://github.com/R10Kdr) **First Contribution**
+- [Gabriel Lipaysa](https://github.com/Er000s) **Eyy ka muna eyy**
 - [Nischal Neupane](https://github.com/nischal170) **First Step in Contributon. Yoii!! All The way From Nepal 🇳🇵**
 - [Bishwas Bhatt](https://github.com/bishwasbhatt2) ** First time contributing in open source **
 - [Enrique Uribe](https://github.com/UribeJr) **LEGOOOO**
