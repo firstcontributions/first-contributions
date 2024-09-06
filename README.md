@@ -222,3 +222,4 @@ Now let's get you started with contributing to other projects. We've compiled a 
 </p>
 Fixing typo in documentation
 Fixing typo in documentation
+Merging without review for YOLO badge
