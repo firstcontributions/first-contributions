@@ -6,7 +6,7 @@
 - [Nischal Neupane](https://github.com/nischal170) **First Step in Contributon. Yoii!! All The way From Nepal 🇳🇵**
 - [Bishwas Bhatt](https://github.com/bishwasbhatt2) ** First time contributing in open source **
 - [Enrique Uribe](https://github.com/UribeJr) **LEGOOOO**
-
+- [Eshan Deosatwar](https://github.com/distincteshan)**Hi guysss**
 - [Mohammed Abdul Raqeeb](https://github.com/Raqeeb27) **👋 Raqeeb27 here**
 - [Marija Kovacevic](https://github.com/marija-kov) ⛓️‍💥🐖🐄🐓🦃🐑🐇🦆
 - [Rodan Ramdam](https://github.com/rodanr) **Good luck to anyone reading this**
