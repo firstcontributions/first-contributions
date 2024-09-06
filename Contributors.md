@@ -1,5 +1,6 @@
 
 # Contributors
+- [Jahzeel Amador](https://github.com/Jahzeelin24/first-contributions.git) **First contribution**
 - [Suraj Senapati](https://github.com/SurajSenapati24) **First Contribution to open source**
 - [Artan Kadriju](https://github.com/R10Kdr) **First Contribution**
 - [Gabriel Lipaysa](https://github.com/Er000s) **Eyy ka muna eyy**
