@@ -50,6 +50,7 @@
 - [Pooja Chothani](https://github.com/pooja180795) **MY first open source contribution**
 - [Omar Baraja](https://github.com/omarbr44) **My goal is to be able to read pro code**
 - [Aditya Pratama](https://github.com/Aditypraa) **Nice to meet you all, I'm proud to be here**
+- [Mingo bit](https://github.com/mingo-bit) **My first contribution, so good!**
 -[Achyuth Reddy Chamakura](https://github.com/CHINTU1253)  **Hi to Everyone..**
 - [Ebenezer Raphael](https://github.com/ebenezerraph) **I hope this counts**
 - [Michal Ben Abu](https://github.com/michal55128)
