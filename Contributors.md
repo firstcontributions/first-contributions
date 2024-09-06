@@ -7735,5 +7735,4 @@ vivek saskar
 - [Yago Tobio Souto](https://github.com/yagoTobi) **Hey everyone, eager to contribute to OS!**
 - [Olleg Thornbill](https://github.com/aturnbul) **GitHub is intimidating!**
 - [So Ichihashi](https://github.com/aquarium23)
-
-  ​                                                            
+- [Wojciech Perzybski](https://github.com/AresQQ/) Hello​                                                            
