@@ -111,7 +111,7 @@ git clone "url you just copied"
 
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://github.com/Nishesh73/first-contributions/raw/update-ssh-image/assets/images/ssh_option.png" alt="copy URL to clipboard" />
 
 For example:
 
