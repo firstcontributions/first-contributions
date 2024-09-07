@@ -249,6 +249,7 @@ Onyi Ajoku😄 #My very first contribution! Excited for whats to come.******
 - [Maurik Angelo Fernandez](https://github.com/Maur1k) **My first contribution 3rd year IT Student**
 - [Nikhil Thakkar](https://github.com/nthakkar11) **New to Tech**
 - [Renaldy](https://github.com/laurentiusrenaldy27) **Hello World**
+- [Mark Major](https://github.com/mark-major) **First open source contribution!**
 - [Caleb Eickholt](https://github.com/RedDynamo) **this is my first opensource contribution**
 - [Peter Zannes]{https://github.com/pzannes} **open_source_contributions++**
 - [Rohit Sali](https://github.com/Rohit2sali) **this is my first opensource contribution**
