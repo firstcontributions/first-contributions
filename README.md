@@ -220,3 +220,12 @@ Now let's get you started with contributing to other projects. We've compiled a 
     <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
   </a>
 </p>
+Fixing typo in documentation
+Fixing typo in documentation
+Merging without review for YOLO badge
+Fixing typo in documentation for Pull Shark
+Merging without review for YOLO badge
+Fixing typo in documentation for Pull Shark
+Merging without review for YOLO badge
+Fixing typo in documentation for Pull Shark
+Fixing typo in documentation for Pull Shark
