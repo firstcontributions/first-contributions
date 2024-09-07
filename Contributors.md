@@ -1945,6 +1945,7 @@ Richard Faulk
 -[Rajeswari-Machina](https://github.com/Rajeswari-Machina)
 - [Emilio] (https://github.com/Emiliomontes0)
 - [Nivedh G Krishnan](https://github.com/NIV27e) 
+- [Anshit Chauhan] (https://github.com/Chauhan48/first-contributions)
 - [Isuru Adikaram](https://github.com/izuru775)
 - [Imran Hussain](https://github.com/full-StackNinja)
 - [Kevin Maldonado-Cota](https://github.com/Kevinm27) I was here
