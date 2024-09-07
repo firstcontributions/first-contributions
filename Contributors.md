@@ -8,7 +8,7 @@
 - [Bishwas Bhatt](https://github.com/bishwasbhatt2) ** First time contributing in open source **
 - [Enrique Uribe](https://github.com/UribeJr) **LEGOOOO**
 - [El Mehdi Souiyah](https://github.com/mehdi1193) **Moroccan guy making his first Contribution**
-
+- [Gabriel Belmonte](https://github.com/Lynx92) **Heeeey!! Nice to get here**
 - [Mohammed Abdul Raqeeb](https://github.com/Raqeeb27) **👋 Raqeeb27 here**
 - [Marija Kovacevic](https://github.com/marija-kov) ⛓️‍💥🐖🐄🐓🦃🐑🐇🦆
 - [Rodan Ramdam](https://github.com/rodanr) **Good luck to anyone reading this**
