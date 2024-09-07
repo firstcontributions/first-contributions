@@ -7713,6 +7713,7 @@ vivek saskar
 - [Mussi Mendelson] (https://github.com/MussiM) **Bring Them Home Now!**
 - [Pratyush Shukla] (https://github.com/pshukla441)
 - [Matheus Henrique Parreira] (https://github.com/Matheus-Parreira)
+- [Mo Sa] (https://github.com/MoSa89)
 - [Abbas Endari] (https://github.com/a-endari)
 - [Nicolen Evanz Aricayos](https://github.com/razstvien01) **Let's git started.**
 - [Mohamed-588](https://github.com/Mohamed-588)
