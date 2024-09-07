@@ -7739,6 +7739,7 @@ vivek saskar
 - [RyanTH98](https://github.com/RyanTH98) ** Hello World **
 - [Fumika Mochizuki](https://github.com/maejima-fumika) **Hello world!**
 - [Yago Tobio Souto](https://github.com/yagoTobi) **Hey everyone, eager to contribute to OS!**
+- [Eugene Goh Koon Lum](https://github.com/Youjin29) **Learning with thousands of people is great**
 - [Olleg Thornbill](https://github.com/aturnbul) **GitHub is intimidating!**
 - [So Ichihashi](https://github.com/aquarium23)
 
