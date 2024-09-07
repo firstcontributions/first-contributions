@@ -723,6 +723,7 @@ Yulia Lantzberg
 -[Prince Majestal](https://github.com/Prince-Majestal) **In honor of my first contribution! 2024/08/03 **
 -[Sophie Yanan Wang](https://github.com/sophieynw)
 -[Muhammad Ibrahim](https://github.com/ibrahimnd2000)
+- [Fernando de Souza](https://github.com/fernandoDusk)
 -[Shabeeh Fatima](https://github.com/shabeeh200)
 -[Chetna Sharma](https://github.com/chetna0610)
 - [Alan Sosa](https://github.com/Alsosa) **My first contribution**
