@@ -7608,6 +7608,7 @@ vivek saskar
 - [Jose Almenarez](https://github.com/jalmenarez) **Hello from Chile**
 - [Hariharan](https://github.com/hariharan409) **STARTED CONTRIBUTING TO OPEN SOUCE PROJECTS**
 - [Abubakr Saddiq](https://github.com/Saddickq) **05/08/2024**
+-[Tushar]
 - [Yaragos](https://github.com/yaragos) ** Hello! This is my first contribution **
 - [Asim Naseer](https://github.com/awsimness) **The start of my voyage on 5th August 2024**
 - [Bryan Alvarez](https://github.com/bry4n-lvz) **Glad to be part of this :>. Its 08/08/2024!**
@@ -7743,5 +7744,6 @@ vivek saskar
 - [Eugene Goh Koon Lum](https://github.com/Youjin29) **Learning with thousands of people is great**
 - [Olleg Thornbill](https://github.com/aturnbul) **GitHub is intimidating!**
 - [So Ichihashi](https://github.com/aquarium23)
+
 
   ​                                                            
