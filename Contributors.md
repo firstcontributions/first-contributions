@@ -1,6 +1,7 @@
 
 # Contributors
 - [Amit kumar Ashutosh](https://github.com/amitkumarashutosh) **First contribution**
+- [Anuj Parwal](https://github.com/Raltoos) **Ready to learn**
 - [Jahzeel Amador](https://github.com/Jahzeelin24/first-contributions.git) **First contribution**
 - [Suraj Senapati](https://github.com/SurajSenapati24) **First Contribution to open source**
 - [Artan Kadriju](https://github.com/R10Kdr) **First Contribution**
