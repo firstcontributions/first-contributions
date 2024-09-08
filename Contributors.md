@@ -7771,5 +7771,6 @@ vivek saskar
 - [Mate Kortvelyessy](https://github.com/MKKORTVELYESS) **Hey 👋**
 - [So Ichihashi](https://github.com/aquarium23)
 - [seosieve](https://github.com/seosieve)
+- [Zan Pisotek](https://github.com/zan-super-zan) **Just Learning**
 
   ​                                                            
