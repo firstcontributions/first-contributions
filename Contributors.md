@@ -1,10 +1,12 @@
 
 # Contributors
+- [Debopriyo Chakrabarty](https://github.com/debapcha) **Starting with a small contribution**
 - [Ravikant Jangir](https://github.com/Marcos331305) **Ready to Start Open Source**
 - [Amit kumar Ashutosh](https://github.com/amitkumarashutosh) **First contribution**
 - [Milan Ram](https://github.com/milanram) **First contribution**
 - [Anuj Parwal](https://github.com/Raltoos) **Ready to learn**
 - [Jahzeel Amador](https://github.com/Jahzeelin24/first-contributions.git) **First contribution**
+- [Yassine OZ](https://github.com/crazydev-art) **First Baby Step open source contribution Ever Follow Me**
 - [Suraj Senapati](https://github.com/SurajSenapati24) **First Contribution to open source**
 - [Artan Kadriju](https://github.com/R10Kdr) **First Contribution**
 - [Gabriel Lipaysa](https://github.com/Er000s) **Eyy ka muna eyy**
@@ -22,6 +24,7 @@
 
 - [Adam Johnston](https://github.com/uxillary) **Scottish Contribution - Freedom!!**
 - [Aviraj Saha] (https://github.com/avirsaha) **I love open-source.**
+- [Tasneem Manga](https://github.com/TasneemHannahManga) **Contributed**
 - [Shayna Segal] (https://github.com/ShaynaSegal45) **OPEN SOURCE IS THE BEST!**
 - [Chetan Zagade](https://github.com/chetangotgithub) ** Starting Open Source**
 - [Harsh Thakkar](https://github.com/harshthakkr) **Starting my open source journey! Let's goo!**
@@ -66,6 +69,7 @@
 - [Nathaniel Ruble](https://github.com/nathanielruble) **<',=,~~ rat to eat bugs**
 - [Aditya Pratama](https://github.com/Aditypraa) **Nice to meet you all, I'm proud to be here**
 - [Mingo bit](https://github.com/mingo-bit) **My first contribution, so good!**
+- [Pallavi Maity](https://github.com/pmaity7) **Starting my open source journey!**
 -[Achyuth Reddy Chamakura](https://github.com/CHINTU1253)  **Hi to Everyone..**
 - [Ebenezer Raphael](https://github.com/ebenezerraph) **I hope this counts**
 - [Michal Ben Abu](https://github.com/michal55128)
@@ -3448,6 +3452,7 @@ guanj65
 - [Harish Maganti](https://github.com/harishm22)
 - [Kamangu Maeti](https://github.com/KmgSamuel)
 - [Jay CP](https://github.com/jaycp30)
+- [Gavy Sohal](https://github.com/gavi04)
 - [Nizaaa](https://github.com/nizanixi) 
 - [Avkoll](https://github.com/avkoll)
 - [Snagnik Das](https://github.com/snagnikd)
@@ -6483,6 +6488,7 @@ LadegbayeStella)
 - [suzukiyut](https://github.com/suzukiyut27)
 - [Vivek Kumar Singh](git@github.com:v-s-chauhan)
 - [Matthew Gardner](https://github.com/meg546)
+- [Nivin Emmanuel](https://github.com/nivinemmanuel)
 - [Daniel Austin](https://github.com/dja322)
 - [Nhat Luong] (https://github.com/NhatLg)
 - [Thomas Rotchford](https://github.com/thomasrotchford)
@@ -7767,7 +7773,10 @@ vivek saskar
 - [Yago Tobio Souto](https://github.com/yagoTobi) **Hey everyone, eager to contribute to OS!**
 - [Eugene Goh Koon Lum](https://github.com/Youjin29) **Learning with thousands of people is great**
 - [Olleg Thornbill](https://github.com/aturnbul) **GitHub is intimidating!**
+- [Mate Kortvelyessy](https://github.com/MKKORTVELYESS) **Hey 👋**
 - [So Ichihashi](https://github.com/aquarium23)
 - [seosieve](https://github.com/seosieve)
+- [Tanaka Gosu](https://github.com/Tanaka) **water**
+- [Zan Pisotek](https://github.com/zan-super-zan) **Just Learning**
 
   ​                                                            
