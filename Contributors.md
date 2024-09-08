@@ -24,6 +24,7 @@
 
 - [Adam Johnston](https://github.com/uxillary) **Scottish Contribution - Freedom!!**
 - [Aviraj Saha] (https://github.com/avirsaha) **I love open-source.**
+- [Tasneem Manga](https://github.com/TasneemHannahManga) **Contributed**
 - [Shayna Segal] (https://github.com/ShaynaSegal45) **OPEN SOURCE IS THE BEST!**
 - [Chetan Zagade](https://github.com/chetangotgithub) ** Starting Open Source**
 - [Harsh Thakkar](https://github.com/harshthakkr) **Starting my open source journey! Let's goo!**
