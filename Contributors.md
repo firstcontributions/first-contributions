@@ -5298,7 +5298,7 @@ Philip Ambattu
 - [corvo](https://github.com/Tathagata94)
 - [pnambiar24770](https://github.com/pnambiar24770)
 - [Hamd Waseem](https://github.com/hamdivazim)
-- [Sengphachanh Chanthavong](https://github.com/tyecode)
+- [tyecode](https://github.com/tyecode) - **Sengphachanh Chanthavong**
 - [aoi-hiraeth](https://github.com/aoi-hiraeth)
 - [OsvaFernandez](https://github.com/osvafernandez)
 - [HarryKim24](https://github.com/HarryKim24)
