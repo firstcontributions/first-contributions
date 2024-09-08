@@ -22,6 +22,7 @@
 - [Aviraj Saha] (https://github.com/avirsaha) **I love open-source.**
 - [Shayna Segal] (https://github.com/ShaynaSegal45) **OPEN SOURCE IS THE BEST!**
 - [Chetan Zagade](https://github.com/chetangotgithub) ** Starting Open Source**
+- [Harsh Thakkar](https://github.com/harshthakkr) **Starting my open source journey! Let's goo!**
 - [Nazmul Hasan] (https://github.com/imnazmul99) **Beginning open source journey!**
 - [Dustin Reuter]((https://github.com/Dxxtxx) **Hello I am new to git and GitHub**
 - [Mustapha Shafihu]((https://github.com/Dxxtxx) **Hello I am new to git and GitHub**
