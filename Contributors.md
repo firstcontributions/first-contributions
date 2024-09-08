@@ -330,6 +330,7 @@ i
 - [Stackoverflow-addict]
   [Pratik Sonawane](https://github.com/iampratik9)  **Hello,this is my first contribution trying out open source ,trying out something new.** 
 - [Rishabh Dang](https://github.com/Rish-1903) **This is my first open source contribution**
+- [Alex Duong] (https://github.com/AlexDuong93) **AI does not stop me from learning how to code**
 - [Andy Nguyen](https://github.com/andyTCS) **This is my first open source contribution**
 - [Guno327](https://github.com/Guno327) 
 - [prajwal choudhari](https://github.com/prajwalc22)**Hello,this is my first contribution.** 
