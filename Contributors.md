@@ -2,6 +2,7 @@
 # Contributors
 - [Ravikant Jangir](https://github.com/Marcos331305) **Ready to Start Open Source**
 - [Amit kumar Ashutosh](https://github.com/amitkumarashutosh) **First contribution**
+- [Milan Ram](https://github.com/milanram) **First contribution**
 - [Anuj Parwal](https://github.com/Raltoos) **Ready to learn**
 - [Jahzeel Amador](https://github.com/Jahzeelin24/first-contributions.git) **First contribution**
 - [Suraj Senapati](https://github.com/SurajSenapati24) **First Contribution to open source**
