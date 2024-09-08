@@ -3450,6 +3450,7 @@ guanj65
 - [Harish Maganti](https://github.com/harishm22)
 - [Kamangu Maeti](https://github.com/KmgSamuel)
 - [Jay CP](https://github.com/jaycp30)
+- [Gavy Sohal](https://github.com/gavi04)
 - [Nizaaa](https://github.com/nizanixi) 
 - [Avkoll](https://github.com/avkoll)
 - [Snagnik Das](https://github.com/snagnikd)
