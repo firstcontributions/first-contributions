@@ -66,6 +66,7 @@
 - [Nathaniel Ruble](https://github.com/nathanielruble) **<',=,~~ rat to eat bugs**
 - [Aditya Pratama](https://github.com/Aditypraa) **Nice to meet you all, I'm proud to be here**
 - [Mingo bit](https://github.com/mingo-bit) **My first contribution, so good!**
+- [Pallavi Maity](https://github.com/pmaity7) **Starting my open source journey!**
 -[Achyuth Reddy Chamakura](https://github.com/CHINTU1253)  **Hi to Everyone..**
 - [Ebenezer Raphael](https://github.com/ebenezerraph) **I hope this counts**
 - [Michal Ben Abu](https://github.com/michal55128)
