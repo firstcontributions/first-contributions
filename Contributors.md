@@ -4,6 +4,7 @@
 - [Rakesh Mishra](https://github.com/NameawaShinderu) **Starting with a small contribution**
 - [Ravikant Jangir](https://github.com/Marcos331305) **Ready to Start Open Source**
 - [Amit kumar Ashutosh](https://github.com/amitkumarashutosh) **First contribution**
+- [Aryan Jand](https://github.com/aryanjand) **I'd love to learn more from amazing repositories like this one!**
 - [Milan Ram](https://github.com/milanram) **First contribution**
 - [Anuj Parwal](https://github.com/Raltoos) **Ready to learn**
 - [Jahzeel Amador](https://github.com/Jahzeelin24/first-contributions.git) **First contribution**
