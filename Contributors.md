@@ -18,6 +18,7 @@
 - [Chaturansh Maurya](https://github.com/venerable-hunter) **First Step in. ** 
 - [Jayesh Purswani](https://github.com/jerry-xon) **Hey this is my first contribution please view my profile to work together** 
 
+- [Adam Johnston](https://github.com/uxillary) **Scottish Contribution - Freedom!!**
 - [Aviraj Saha] (https://github.com/avirsaha) **I love open-source.**
 - [Shayna Segal] (https://github.com/ShaynaSegal45) **OPEN SOURCE IS THE BEST!**
 - [Chetan Zagade](https://github.com/chetangotgithub) ** Starting Open Source**
