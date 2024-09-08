@@ -7775,5 +7775,5 @@ vivek saskar
 - [seosieve](https://github.com/seosieve)
 - [Tanaka Gosu](https://github.com/Tanaka) **water**
 - [Zan Pisotek](https://github.com/zan-super-zan) **Just Learning**
-
+- [Kris Kensy](https://github.com/kriskensy) **continuous motivation for learning**
   ​                                                            
