@@ -24,7 +24,7 @@
 - [Rodan Ramdam](https://github.com/rodanr) **Good luck to anyone reading this**
 - [Chaturansh Maurya](https://github.com/venerable-hunter) **First Step in. ** 
 - [Jayesh Purswani](https://github.com/jerry-xon) **Hey this is my first contribution please view my profile to work together** 
-
+- [Tamar Ger](https://github.com/tamar-g) **Elulll!**
 - [Adam Johnston](https://github.com/uxillary) **Scottish Contribution - Freedom!!**
 - [Aviraj Saha] (https://github.com/avirsaha) **I love open-source.**
 - [Tasneem Manga](https://github.com/TasneemHannahManga) **Contributed**
