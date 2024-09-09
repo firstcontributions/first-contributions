@@ -7769,6 +7769,7 @@ vivek saskar
 -[Sara Cohen](https://github.com/Sara-Cohen)
 - [Efrat Grinberg](https://github.com/efratfried)
 - [Borgias ODOULAMI](https://github.com/DarkBillBorg)
+- [Karan Kataria](https://github.com/KaranBKataria)
 - [Jagadeesh Madinni](https://github.com/jagadeeshmadinni) **Happy to be taking this first step in contributing to the open source community**
 **This is my first contribution, I Hope to contribute more in the coming future for the development**
 - [Tiffany Rose](https://github.com/tdr3215)**First time contributing and I'm excited for the journey!**
