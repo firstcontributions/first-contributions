@@ -148,6 +148,7 @@ Rakesh Radhakrishnan dev was here.
 - [SSK](https://github.com/Motherbloods) **Let's gooo brotherrr**
 -[Nazim saifi](https;//github.com/Nazim9945) **just warming up**
 - [Si Thu Ko](https://github.com/ST-KO) **Lets go**
+-[K.Bharat Reddy](https://github.com/kbharat1210) ** first contribution **
 - [Shivam Kamat](git@github.com:Light-Yagami-7/) **hmmm...**
 - [Aryaman Ranjit](https://github.com/Aryaman-RR) **I don't wanna act to high and mighty cause tomorrow I may fall from my grace**
 - [Fionah Santua](https://github.com/itsmefionah) **hello**
