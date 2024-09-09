@@ -1243,6 +1243,7 @@ Niggesh
 - [Anikesh Thakur](https://github.com/Anikesh348) **My first contribution here**
 - [Mike](https://github.com/miketester10) **My first contribution here**
 - [james-a-stephans](https://github.com/james-a-stephans)
+- [Jomar Banting](https://github.com/JomarBanting) **First contribution here, I'm hoping to learn how to contribute to open source projects.**
 - [hyoeun0001](https://github.com/hyoeun0001)
 - [SavvyHex](https://github.com/SavvyHex) First Contribution!
 - [Ajinkya](https://github.com/AtiwadkarAjinkya) **Hello**
