@@ -1,5 +1,6 @@
-
++
 # Contributors
+- [Somya Malik](https://github.com/somyasinghmalik) **Learning to contribute**
 - [Debopriyo Chakrabarty](https://github.com/debapcha) **Starting with a small contribution**
 - [Rakesh Mishra](https://github.com/NameawaShinderu) **Starting with a small contribution**
 - [Ravikant Jangir](https://github.com/Marcos331305) **Ready to Start Open Source**
