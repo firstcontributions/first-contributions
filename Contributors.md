@@ -3,6 +3,7 @@
 - [Somya Malik](https://github.com/somyasinghmalik) **Learning to contribute**
 - [Debopriyo Chakrabarty](https://github.com/debapcha) **Starting with a small contribution**
 - [Rakesh Mishra](https://github.com/NameawaShinderu) **Starting with a small contribution**
+- [deepak kumar](https://github.com/Deepak-kumar-2023)**i am good**
 - [Ravikant Jangir](https://github.com/Marcos331305) **Ready to Start Open Source**
 - [Amit kumar Ashutosh](https://github.com/amitkumarashutosh) **First contribution**
 - [Aryan Jand](https://github.com/aryanjand) **I'd love to learn more from amazing repositories like this one!**
