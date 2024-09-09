@@ -3236,6 +3236,7 @@ Kencham Vinay
 -[Kanchan Shirke](https://github.com/kanchan78)
 -[Israel Medrano](https://github.com/IsmedranoDev) 
 - [Szymon Gałązka](https://github.com/SzymonGalazka)
+- [Manuel Ramirez](https://github.com/Manuel3115)
 - [Darshan Gaikwad 🔱](https://github.com/darshangaikwad4114)
 - [Philip John](https://github.com/jpngeta)
 - [Abhiroop Tejomay](https://github.com/the-neural-networker): Long time coming!
