@@ -54,6 +54,7 @@
 - [Faaz Sherwani]--YOLO peeps--
 - [Marcus Quibol]
 - [Farhan Abbas]
+- [Jeffrey Hoelzel]
 - [Fran Diaz]
 - Chad W
 - [Jaitra Saketh](https://github.com/jaitrasaketh/) **Task-1 under FOSS Mentorship!**
