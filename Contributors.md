@@ -57,6 +57,7 @@
 - [Jeffrey Hoelzel]
 - [Fran Diaz]
 - Chad W
+- Collin Boyer
 - [Jaitra Saketh](https://github.com/jaitrasaketh/) **Task-1 under FOSS Mentorship!**
 - [NIKHIL KUMAR] (https://github.com/Nikhil-002/) **STARTING MY OPEN SOURCE JOURNEY!!**
 - [Sandesh Ganesh](https://github.com/sandesh-ganesh)**here we go again** 
