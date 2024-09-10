@@ -20,13 +20,11 @@
 - [BVI Engineer](https://github.com/bviengineer) **Coding is a journey, join in!**
 - [Enrique Uribe](https://github.com/UribeJr) **LEGOOOO**
 - [El Mehdi Souiyah](https://github.com/mehdi1193) **Moroccan guy making his first Contribution**
-
 - [Mohammed Abdul Raqeeb](https://github.com/Raqeeb27) **👋 Raqeeb27 here**
 - [Marija Kovacevic](https://github.com/marija-kov) ⛓️‍💥🐖🐄🐓🦃🐑🐇🦆
 - [Rodan Ramdam](https://github.com/rodanr) **Good luck to anyone reading this**
 - [Chaturansh Maurya](https://github.com/venerable-hunter) **First Step in. ** 
 - [Jayesh Purswani](https://github.com/jerry-xon) **Hey this is my first contribution please view my profile to work together** 
-
 - [Adam Johnston](https://github.com/uxillary) **Scottish Contribution - Freedom!!**
 - [SkkDevCraft](https://github.com/skkdevcraft) **"Most programmers do programming because it is fun." _Linus Torvalds_**
 - [Isaac Schwarz](https://github.com/shantz14) **Lets get it gamers**
@@ -34,6 +32,7 @@
 - [Tasneem Manga](https://github.com/TasneemHannahManga) **Contributed**
 - [Shayna Segal] (https://github.com/ShaynaSegal45) **OPEN SOURCE IS THE BEST!**
 - [Chetan Zagade](https://github.com/chetangotgithub) ** Starting Open Source**
+- [Can Manalp](https://github.com/CanManalp) **That's one small step for a man, one giant leap for mankind.**
 - [Harsh Thakkar](https://github.com/harshthakkr) **Starting my open source journey! Let's goo!**
 - [Nazmul Hasan] (https://github.com/imnazmul99) **Beginning open source journey!**
 - [Dustin Reuter]((https://github.com/Dxxtxx) **Hello I am new to git and GitHub**
