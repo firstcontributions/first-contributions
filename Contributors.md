@@ -836,6 +836,7 @@ Yulia Lantzberg
 - [Eduardo GOMES Araujo](https://github.com/eduardoGomesAraujo)
 - Micael Pereira da Silva
 - [Adarsh Prakash Patil](https://github.com/AdarshPatil04/) **First Open Source Contribution"
+- [teodnz](https://github.com/teodnz) **testing testing trying**
 - [Matteo Lombardi](https://github.com/lombichh)
 - [Reales09](https://github.com/Reales09) ** frist Contribution  🎉**
 - [Devansh Vaidya](https://github.com/Devansh-Vaidya/) ** First Open-Source Contribution | It's just the beginning! **
