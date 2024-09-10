@@ -5473,6 +5473,7 @@ Philip Ambattu
 - [Rohail Zubair](https://github.com/Rohail-Zubair)
 - [Johnnoe Dom] (https://github.com/johnniedom/ )
 - [MichaelSoto95](https://github.com/MichaelSoto95)
+- [Jorge M Soto Pena](https:://github.com/jorgemsotopena)
 - [Michael](https://github.com/MichaelGrmns)
 - [jeevan-aj](https://github.com/jeevan-aj)
 - [shilinwang](https://github.com/crzwzy)
