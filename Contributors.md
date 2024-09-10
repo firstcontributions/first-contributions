@@ -7723,6 +7723,7 @@ vivek saskar
 - [Hedache77] (https://github.com/Hedache77) ***Hi people***
 - [roushannn] (https://github.com/roushannn) ***Hi everyone! Excited to start contributing!***
 - [Layton Chandler](https://github.com/chandlerkl96)
+- [Tharusha Dilhara](https://github.com/TDila) **Hello, this is my first open source contribution**
 
 - [Gaurav Latpate](https://github.com/latpategaurav/first-contributions) **First open source contribution!**
 - [R S T](https://github.com/RichardTabaka/first-contributions) **Here goes nothing 🎃**
