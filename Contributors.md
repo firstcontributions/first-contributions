@@ -1,5 +1,6 @@
 +
 # Contributors
+- [Alonso Garcia](https://github.com/abg287) **Awesome Sauce**
 - [Somya Malik](https://github.com/somyasinghmalik) **Learning to contribute**
 - I am glad to use Github
 - [Debopriyo Chakrabarty](https://github.com/debapcha) **Starting with a small contribution**
