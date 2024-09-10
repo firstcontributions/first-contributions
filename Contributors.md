@@ -2328,6 +2328,7 @@ Abhinav Jain
 - [Chanin L](https://github.com/chaninlaw)
 - [JhamilMar](https://github.com/JhamilMar)
 - [Mahmoud Salah Egypt](https://github.com/mahmoudsalah296)
+- [Mahmoud Husam](https://github.com/mahmoudhusam)
 - [Mirzaaa] https://github.com/mahmoudsalah296
 - Chiara Curgu
 - Pandakiller
