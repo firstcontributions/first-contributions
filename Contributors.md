@@ -1851,6 +1851,7 @@ vrushabhpatil48
 - [Aiden Eyre](https://github.com/AidenEyre)
 - [Kosuket](https://github.com/Kosuke-Tsunetomo)
 - [Jason](https://github.com/jasoncobra3)**Hello, great to start from here**🚀🔥
+- [Nicholas Blake](https://github.com/nicholaschristopherblake)**Hey everyone, happy coding!**
 - Dmitriy211
 - [Salman Faris](https://github.com/salmanzego)
 - [Faiz](https://github.com/faizdotid) **Hello everyone**
