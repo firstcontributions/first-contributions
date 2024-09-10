@@ -190,7 +190,7 @@ Prajwal was here.
 - [irsyad212](https://github.com/irsyad212) **Hello!**
 - [Mischa Tobias](https://github.com/MischaTobias) **Hey there!**
 - Hello
-- [Lucas Larson](https://github.com/lucaslarson25) **hello**
+- [Lucas Larson](https://github.com/lucaslarson25) **hello im back**
 - [Vivek raj] (https://github.com/256bitguy) **Boom This is gonna my first  open source contribution!!!!**
 - [Franklin Okoye](https://github.com/franklin-okoye) **My First Contribution**
 - [Mansoor Ahmad Mir](https://github.com/Marshalll99/) **First Contribution**
