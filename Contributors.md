@@ -7850,5 +7850,5 @@ vivek saskar
 - [Amit Kumar Pradhan](https://github.com/amitkpradhan) **First contribution**
 - [Hoang Tran](https://github.com/dekkov/) **Eager to contribute !!!.**
 - [Valentino Valero](https://github.com/vsv7nau) **V-Man was here.**
-
+- [Khalid Brelvi](https://github.com/itsmekhalidb) **Excited to hop in**
   ​                                                           
