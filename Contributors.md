@@ -1,6 +1,7 @@
 +
 # Contributors
 - [Alonso Garcia](https://github.com/abg287) **Awesome Sauce**
+- [Kunal Suraniya](https://github.com/suraniyakunal) ** It's Fun
 - [Somya Malik](https://github.com/somyasinghmalik) **Learning to contribute**
 - I am glad to use Github
 - [Brody England](https://github.com/bme2003) **LETS GOOOOOOOO**
