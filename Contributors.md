@@ -399,6 +399,7 @@ i
 - [Raphael Adesegun](https://github.com/TheInvincibleRalph) **Hi, Go is my love language. Glad to be making my first ever contribution!
 - [Gabriel Sousa](https://github.com/gablsl) **Gabriel Sousa - My first contribution**
 - [Atiba Ishamali](https://github.com/atibaishamali) **Atiba Ishamali - first Contribution**
+- [Rudra Amin](https://github.com/rudraamin06) **My first contribution**
 - [Rameel Haroon](https://github.com/RameelHaroon) **UwU**
 - [Rachid Sassine](https://github.com/romegasassine) **Rachid Sassine - first contribution!, starting the grind!!!*
 -[Mehran Moazeni] (https://github.com/Mehranmzn) **It is just the begining**
