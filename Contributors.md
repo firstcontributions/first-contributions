@@ -254,6 +254,7 @@ Ahmad
 - [Arpit Nehra] [https://github.com/arpitnehra16] **I'm Arpit Nehra. Would like to connect with you all!**
 - [Harshit Varshney]
 - [Jhon Alexander Marín Estrada] 
+- [Cecil Choi](https://github.com/cerealceec) **meow!**
 - [Noah Woods](https://github.com/noahcwoods/) **What is going on right now?**
 - [Unnat Sharma](https://github.com/unnxt30) **First contribution to OS :)**
 - [Beverly White](https://github.com/bevyw8888) **First contribution**
