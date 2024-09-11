@@ -1,5 +1,6 @@
 +
 # Contributors
+- [Kanatov Vladislav](https://github.com/lon8/) **Good day, bro!**
 - [Levi Ly](https://github.com/levihly) **bepbepbep**
 - [Alonso Garcia](https://github.com/abg287) **Awesome Sauce**
 - [Kunal Suraniya](https://github.com/suraniyakunal) ** It's Fun
