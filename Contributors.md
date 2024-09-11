@@ -10,6 +10,7 @@
 - [Brody England](https://github.com/bme2003) **LETS GOOOOOOOO**
 - [William Barnett](https://github.com/Will-78) **First Contribution**
 - [Debopriyo Chakrabarty](https://github.com/debapcha) **Starting with a small contribution**
+- [Jadyn Calhoun](https://github.com/jadynlaila)
 - [Rakesh Mishra](https://github.com/NameawaShinderu) **Starting with a small contribution**
 - [deepak kumar](https://github.com/Deepak-kumar-2023)**i am good**
 - [Ravikant Jangir](https://github.com/Marcos331305) **Ready to Start Open Source**
