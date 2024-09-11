@@ -3107,7 +3107,7 @@ Hannah Sung
 - [Nimrod Kabiru](https://github.com/nimuragz)
 - [MuhammadNurHakimi] (https://github.com/nurhakimi97) i'm going to be the best developer in the world
  [111703012](https://github.com/caijinghong1468)
- [pentagonpie](https://github.com/pentagonpie)
+  [pentagonpie](https://github.com/pentagonpie)
 - [Praneeth Gourla] (https://github.com/praneethgourla18)
 - [Olha Zakharchevna](https://github.com/zakharchevna)
 - [Maxime de Montbron](https://github.com/mijnog/) Just learning how to code
@@ -3147,7 +3147,7 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
 - [william nyaranga](https://github.com/William-nyarash)
 - [Narek](https://github.com/Naki1995/first-contributions)
  [Adam Honvedo](https://github.com/Homvi)
--Tim Shurlock
+ -Tim Shurlock
 - [Blake Hill](https://github.com/Blake-Hill)<3
 - [Seo-Eun Kim] (https://github.com/SeoeunK)
 - [Luka D](https://github.com/Luka-D) Hoping to start contributing to open source projects
@@ -7037,7 +7037,7 @@ guanj65
 - [Fabrício Queiroz](https://github.com/FabricioDeQueiroz)
 - [Aiden ALlred](https://github.com/AidenALlredOfficial)
  -[kami1152](https://github.com/kami1152)
- -[Yash Patel](https://github.com/Orca-Gemini23)
+  -[Yash Patel](https://github.com/Orca-Gemini23)
 - [imanolie](https://github.com/imanolie)
 - [Raphel6969](https://github.com/Raphel6969)
 - [perla-zg](https://github.com/perla-zg)
@@ -7839,5 +7839,6 @@ vivek saskar
 - [sharonakk](https://github.com/sharonakk) **hey guys!!**
 - [samuel Kougbam](https://github.com/samuelkkes/) **First time contributing.**
 - [Hoang Tran](https://github.com/dekkov/) **Eager to contribute !!!.**
+- [Chittaranjan Panda](https://github.com/pandaind/) **Code & Share**
 
   ​                                                           
