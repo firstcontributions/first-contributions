@@ -1090,6 +1090,7 @@ mh
 - [Mohamed Ashmal] (https://github.com/mhd-ashmal38) **First open source contribution**
 - [Daniel Osojnik] (https://github.com/zabooz/)
 - [Michael Shiferaw] (https://github.com/mickshiferaw)
+- [Diego-clou] (https://github.com/Diego-clou)
 - [Richard G `<RixDev/>`](https://github.com/RixCrafts) *Code is coming . . .*
 - [Dan Gunter] learning how I can contribute
 - [Natsume Neko](https://github.com/Natsume-Neko) **This is my first contribution!**
