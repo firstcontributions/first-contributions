@@ -37,6 +37,8 @@
 - [El Mehdi Souiyah](https://github.com/mehdi1193) **Moroccan guy making his first Contribution**
 - Andrew Gajewski
 
+- [Kayden Maddie Vicenti](https://github.com/kv422) **I hope i did this correctly ;-;**
+
 - [Mohammed Abdul Raqeeb](https://github.com/Raqeeb27) **👋 Raqeeb27 here**
 - [Marija Kovacevic](https://github.com/marija-kov) ⛓️‍💥🐖🐄🐓🦃🐑🐇🦆
 - [Rodan Ramdam](https://github.com/rodanr) **Good luck to anyone reading this**
