@@ -2,7 +2,8 @@
 # Contributors
 - [Alonso Garcia](https://github.com/abg287) **Awesome Sauce**
 - [Kunal Suraniya](https://github.com/suraniyakunal) ** It's Fun
-- [Somya Malik](https://github.com/somyasinghmalik) **Learning to contribute**
+- [Daira Santacruz](https://github.com/daira27)
+- [Somya Malik][def] **Learning to contribute**
 - I am glad to use Github
 - [Brody England](https://github.com/bme2003) **LETS GOOOOOOOO**
 - [William Barnett](https://github.com/Will-78) **First Contribution**
@@ -7843,3 +7844,6 @@ vivek saskar
 - [Hoang Tran](https://github.com/dekkov/) **Eager to contribute !!!.**
 
   ​                                                           
+
+
+[def]: https://github.com/somyasinghmalik
