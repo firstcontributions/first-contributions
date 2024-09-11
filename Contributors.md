@@ -7829,7 +7829,8 @@ vivek saskar
 - [Tanaka Gosu](https://github.com/Tanaka) **water**
 - [Zan Pisotek](https://github.com/zan-super-zan) **Just Learning**
 - [TaqueriaVallarta](https://github.com/TaqueriaVallarta) **Glad to be here**
-- [sharonakk](https://github.com/sharonakk) **hey guys!!**
-- [samuel Kougbam](https://github.com/samuelkkes/) **First time contributing.**
+- [Sharon Akk](https://github.com/sharonakk) **hey guys!!**
+- [Samuel Kougbam](https://github.com/samuelkkes/) **First time contributing.**
+- [Ming Xiang](https://github.com/Xiang625) **Hello!**
 
   ​                                                            
