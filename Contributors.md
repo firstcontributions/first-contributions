@@ -7847,5 +7847,6 @@ vivek saskar
 - [samuel Kougbam](https://github.com/samuelkkes/) **First time contributing.**
 - [Amit Kumar Pradhan](https://github.com/amitkpradhan) **First contribution**
 - [Hoang Tran](https://github.com/dekkov/) **Eager to contribute !!!.**
+- [Valentino Valero](https://github.com/vsv7nau) **V-Man was here.**
 
   ​                                                           
