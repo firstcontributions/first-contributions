@@ -155,6 +155,7 @@ Rakesh Radhakrishnan dev was here.
 -  [Mathhtew]
 - [Risahabh Jain](https://github.com/rishabhjain1712)**first contribution, let's go**
 - [santhosh rr] #This is my first contribution to open source
+- [Sean Golez] **doing this for school**
 - [Jansen Long](https://github.com/jantz27) **First contribution. Excited to work on new projects!!**
 - [Sam LeGro](https://github.com/slegro97) **Hey yall**
 - [fug0](https://github.com/fug0) **My first contrib**
