@@ -1,5 +1,6 @@
 +
 # Contributors
+- [Tristen Calder](https://github.com/TristenCalder) **Hello**
 - [Muhammad Zakria](https://github.com/MZakria54321/)**Its my first time to contribute in open source , thanks**
 - [James Harris](https://github.com/James-d-Harris/) **I'm doing my part**
 - [Kanatov Vladislav](https://github.com/lon8/) **Good day, bro!**
