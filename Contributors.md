@@ -1550,6 +1550,7 @@ vrushabhpatil48
 - [Romão Souza](https://github.com/romaogs) **First Contribution!**
 - [Jorge Mendes](https://github.com/jorgemendes07) **Primeira contribuição!**
 - [Isaac Larrubia](https://github.com/isaaclarrubia)
+- [Felipe Quierelli](https://github.com/FerelpsFelps)
 - [Victor Pansardis](https://github.com/victorpansardis)
 - [Cesar Willemberg](https://github.com/cesarwillemberg) **First Contribution 😎🚀**
 - [Gabriel as](https://github.com/Gab0885) **First Contribution 😎👍**
