@@ -27,7 +27,7 @@
 - [BVI Engineer](https://github.com/bviengineer) **Coding is a journey, join in!**
 - [Enrique Uribe](https://github.com/UribeJr) **LEGOOOO**
 - [El Mehdi Souiyah](https://github.com/mehdi1193) **Moroccan guy making his first Contribution**
-
+- [Frank Dong]
 - [Mohammed Abdul Raqeeb](https://github.com/Raqeeb27) **👋 Raqeeb27 here**
 - [Marija Kovacevic](https://github.com/marija-kov) ⛓️‍💥🐖🐄🐓🦃🐑🐇🦆
 - [Rodan Ramdam](https://github.com/rodanr) **Good luck to anyone reading this**
