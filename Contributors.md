@@ -4375,6 +4375,7 @@ Romeu Leite
 - [tayobaki] (https://github.com/tayobaki)
 - [Charles Sanders @visionthex](https://github.com/visionthex)
 - [Edmond Neziraj](https://github.com/EdmondNeziraj)
+- [Kaivan Shah](https://github.com/Kaivanshah1)
 - [Felix Gomez @felixdavid12](https://github.com/felixdavid12)
 - [doudouCodingInGithub](https://github.com/doudouCodingInGithub)
 - [Alberto Pe#a](https://github.com/APC9) 🔥
