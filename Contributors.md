@@ -3,6 +3,7 @@
 - [Robert McClung](https://github.com/Bobaliciousss) **Hi from Arizona!**
 - [Ryan Todd](https://github.com/r2neatha) **Hello :)**
 - [Tristen Calder](https://github.com/TristenCalder) **Hello**
+- [Brox](https://github.com/ibrahim215) **Puuuuuuump**
 - [John-PatrickLeis](https://github.com/jleisz/) **my first pull request**
 - [Muhammad Zakria](https://github.com/MZakria54321/)**Its my first time to contribute in open source , thanks**
 - [James Harris](https://github.com/James-d-Harris/) **I'm doing my part**
@@ -69,6 +70,7 @@
 - [Nazmul Hasan] (https://github.com/imnazmul99) **Beginning open source journey!**
 - [Tolulope Olagunju](https://github.com/Powerisinschool) **Hello, World!!!**
 - [Dustin Reuter]((https://github.com/Dxxtxx) **Hello I am new to git and GitHub**
+- [Asa Dorville] (https://github.com/AsaDorville758) **Hello world!**
 - [Mustapha Shafihu]((https://github.com/Dxxtxx) **Hello I am new to git and GitHub**
 - [Harrison]((https://github.com/ftwfabian) **Hello**
 - [Lin Sat Naing](https://github.com/Shafihu) **Alhamdulillah**
