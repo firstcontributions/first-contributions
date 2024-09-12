@@ -15,6 +15,7 @@
 - [Kunal Suraniya](https://github.com/suraniyakunal) ** It's Fun
 - [Somya Malik](https://github.com/somyasinghmalik) **Learning to contribute**
 - I am glad to use Github
+- [Matei Filibiu](https://github.com/MateiF23) **FIRST CONTRIBUTIONS LETSSSSS GOOOOO BOYSSS"**
 - [Brody England](https://github.com/bme2003) **LETS GOOOOOOOO**
 - [William Barnett](https://github.com/Will-78) **First Contribution**
 - [Ayla Tudor](https://github.com/ayluhrene) **first contribution :))**
