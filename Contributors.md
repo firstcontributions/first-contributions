@@ -1,4 +1,5 @@
 # Contributors
+- [Shi Ya Connie](https://github.com/angular-triangle) **Whoohoo!**
 - [Aditya Medhane](https://github.com/flash1729) ** This is the start of my legendary Open-Source Journey...**
 - [Robert McClung](https://github.com/Bobaliciousss) **Hi from Arizona!**
 - [Ryan Todd](https://github.com/r2neatha) **Hello :)**
