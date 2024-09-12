@@ -145,6 +145,7 @@ Zipi Asrin
 -[Anshu Ranjan](https://github.com/Anshu6513) **First contribution to an opensource**
 - [Avyukt Aggarwal](https://github.com/Avyukt27) **Learning Is Great!**
 - [shoshi hoffner]
+- [Vinicius Porto](https://github.com/PortoVinicius) **Hello world"**
 - [Akhilesh Reddy](https://github.com/Akhilesh-Reddy13) **Learning my first contribution to open source.Great to be here##@@**
 - [Yael Werner](https://github.com/YaelWerner)
 - [Karan Kataria](https://github.com/KaranBKataria) **My first step towards contributing to open source projects!**
