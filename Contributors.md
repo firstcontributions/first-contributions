@@ -5331,6 +5331,7 @@ Philip Ambattu
 - [aromko 👨‍💻](https://github.com/aromko)
 - [Vincenzo Schimmenti](https://github.com/Skimmenthal13)
 - [jithinphilip](https://github.com/jithinphilip347)
+- [Jithin Thankachan](https://github.com/jithin-space)
 - [michik0](https://github.com/michik0)
 - [TimotheeMarreroMeyer](https://github.com/TimotheeMarreroMeyer)
 - [Salmah Lasisi](https://github.com/salmah52)
