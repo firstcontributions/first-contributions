@@ -122,6 +122,7 @@
 - [Leonardo Bazan Marquez](https://github.com/ky210299) **Come to grow together**
 - [Agilan Ilankon](https://github.com/alcor28)**Good luck to anyone reading this**
 - [Maidah] (https://github.com/LucianoSchwalm) **First contribution and here we go!**
+- [Tate Whittaker] (https://github.com/trw286) **Let's do this!**
 - [Ike Thibault](https://github.com/Ikermann)**To you as well brother**
 - [Rami cheikh](https://github.com/Rami-cd) **trying**
 - [Ranjan Sharma](https://github.com/ranjansharma1) **First Contribution to opensource project, All Thanks to this repo who guide overall process**
