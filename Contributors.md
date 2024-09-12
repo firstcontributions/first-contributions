@@ -78,6 +78,7 @@
 - [Mustapha Shafihu]((https://github.com/Dxxtxx) **Hello I am new to git and GitHub**
 - [Harrison]((https://github.com/ftwfabian) **Hello**
 - [Lin Sat Naing](https://github.com/Shafihu) **Alhamdulillah**
+- [Rohan S](https://github.com/Rohans-7) ** Hello Everyone !**
 - [Stavros Gkounis](https://github.com/lArch1t3ct) **Learning about contributing to open-source projects!**
 - [Mya Gwinn](https://github.com/MyaGwinn) **Hello lads!**
 - [Xiao Liu](https://github.com/XiaoLiu8811) **Hello github**
