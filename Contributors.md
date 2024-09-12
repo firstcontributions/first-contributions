@@ -3,6 +3,7 @@
 - [Robert McClung](https://github.com/Bobaliciousss) **Hi from Arizona!**
 - [Ryan Todd](https://github.com/r2neatha) **Hello :)**
 - [Tristen Calder](https://github.com/TristenCalder) **Hello**
+- [Hodaya Zohar](https://github.com/hozohar1) **Ready to my first contribution**
 - [John-PatrickLeis](https://github.com/jleisz/) **my first pull request**
 - [Muhammad Zakria](https://github.com/MZakria54321/)**Its my first time to contribute in open source , thanks**
 - [James Harris](https://github.com/James-d-Harris/) **I'm doing my part**
