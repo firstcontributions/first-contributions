@@ -22,6 +22,7 @@
 - [Jadyn Calhoun](https://github.com/jadynlaila)
 - [Rakesh Mishra](https://github.com/NameawaShinderu) **Starting with a small contribution**
 - [deepak kumar](https://github.com/Deepak-kumar-2023)**i am good**
+- [Santiago Ocampo](https://github.com/santiocampo1)**Nice**
 - [Ravikant Jangir](https://github.com/Marcos331305) **Ready to Start Open Source**
 - [Esneldy Caballero](https://github.com/Esnelbel) **First contribution**
 - [Amit kumar Ashutosh](https://github.com/amitkumarashutosh) **First contribution**
