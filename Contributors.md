@@ -41,7 +41,7 @@
 - Andrew Gajewski
 - CarlosMartinez
 - Luke Bowen
-
+- [Sindhu Sannabhadti](https://github.com/sindhu-sannabhadti)**my first open-source!**
 - [Mohammed Abdul Raqeeb](https://github.com/Raqeeb27) **👋 Raqeeb27 here**
 - [Marija Kovacevic](https://github.com/marija-kov) ⛓️‍💥🐖🐄🐓🦃🐑🐇🦆
 - [Rodan Ramdam](https://github.com/rodanr) **Good luck to anyone reading this**
