@@ -1,6 +1,6 @@
 +
 # Contributors
-- [Robert McClung](https://github.com/Bobaliciousss) **Hello from Arizona!**
+- [Robert McClung](https://github.com/Bobaliciousss) **Hi from Arizona!**
 - [Tristen Calder](https://github.com/TristenCalder) **Hello**
 - [John-PatrickLeis](https://github.com/jleisz/) **my first pull request**
 - [Muhammad Zakria](https://github.com/MZakria54321/)**Its my first time to contribute in open source , thanks**
