@@ -6,6 +6,7 @@
 - [John-PatrickLeis](https://github.com/jleisz/) **my first pull request**
 - [Muhammad Zakria](https://github.com/MZakria54321/)**Its my first time to contribute in open source , thanks**
 - [James Harris](https://github.com/James-d-Harris/) **I'm doing my part**
+- [Noah Carges](https://github.com/strictlyrare) **Lets do this pull request thing"
 - [Shruti Mittal](https://github.com/shrutimittal23) **first pull req!**
 - [Kanatov Vladislav](https://github.com/lon8/) **Good day, bro!**
 - [Levi Ly](https://github.com/levihly) **bepbepbep**
