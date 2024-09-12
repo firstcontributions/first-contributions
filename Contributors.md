@@ -28,6 +28,7 @@
 - [Milan Ram](https://github.com/milanram) **First contribution**
 - [Anuj Parwal](https://github.com/Raltoos) **Ready to learn**
 - [Jahzeel Amador](https://github.com/Jahzeelin24/first-contributions.git) **First contribution**
+- [Saqib Malik](https://github.com/maliksaqibahmad) **Learning to contribute**
 - [Yassine OZ](https://github.com/crazydev-art) **First Baby Step open source contribution Ever Follow Me**
 - [Monisha Rani](https://github.com/MonRani/) **ready to contribute!**
 - [whoIsJihad](https://github.com/whoIsJihad/first-contributions.git)**ready**
