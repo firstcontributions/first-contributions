@@ -7773,7 +7773,8 @@ vivek saskar
 - [Naveen Prasad K](https://github.com/naveenprasad07) **My updated github id**
 - [Your Average Mo](https://github.com/YourAverageMo) **If your reading this, your awesome. Never give up!**
 - [Johanes Galicia](https://github.com/Johanesgalicia/first-contributions) **First open source contribution!**
-- [Rohith M] (https://github.com/AlphaZero4/first-contributions) *first contribution. Time to kickstart* 
+- [Rohith M](https://github.com/AlphaZero4/first-contributions) *first contribution. Time to kickstart* 
+- [Tony Hernandez](https://github.com/tonyhdz24) **First contribution**
 - [Hedache77] (https://github.com/Hedache77) ***Hi people***
 - [roushannn] (https://github.com/roushannn) ***Hi everyone! Excited to start contributing!***
 - [Layton Chandler](https://github.com/chandlerkl96)
