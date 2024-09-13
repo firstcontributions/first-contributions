@@ -62,7 +62,8 @@
 - [Rodan Ramdam](https://github.com/rodanr) **Good luck to anyone reading this**
 - [Benjamin Levine]
 - [Ronan Degeyter](https://github.com/uploading3211)**ell people**
-- [Chaturansh Maurya](https://github.com/venerable-hunter) **First Step in. ** 
+- [Chaturansh Maurya](https://github.com/venerable-hunter) **First Step in. **
+- [Zafira Ibraeva] (https://github.com/zafirazz) **First contribution!**
 - [Jayesh Purswani](https://github.com/jerry-xon) **Hey this is my first contribution please view my profile to work together** 
 - [Chagit Alexander](https://github.com/chagitA) **This contribution is in memory of Chandler Bing🐥🦆**
 
