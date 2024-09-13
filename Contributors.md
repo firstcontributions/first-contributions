@@ -7902,6 +7902,7 @@ vivek saskar
 - [Hoang Tran](https://github.com/dekkov/) **Eager to contribute !!!.**
 - [Valentino Valero](https://github.com/vsv7nau) **V-Man was here.**
 - [Lucas](https://github.com/Seabass2333) **Welcome to my github**
+- [Uvindu Herath](https://github.com/herathua) **first contribution**
 - [Dylan Hyer](https://github.com/deh277) **hello from flagstaff**
 - [Sean Weston](https://github.com/itzpongo) **Welcome to my github**
 - [Ivan Guzman](https://github.com/ivngzmn) **Hello from southern Cali**
