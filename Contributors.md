@@ -8,6 +8,7 @@
 - [Ryan Todd](https://github.com/r2neatha) **Hello :)**
 - [Tristen Calder](https://github.com/TristenCalder) **Hello**
 - [Brox](https://github.com/ibrahim215) **Puuuuuuump**
+- [Sam Mansat](https://github.com/mansatCode) **blessed**
 - [John-PatrickLeis](https://github.com/jleisz/) **my first pull request**
 - [Muhammad Zakria](https://github.com/MZakria54321/)**Its my first time to contribute in open source , thanks**
 - [James Harris](https://github.com/James-d-Harris/) **I'm doing my part**
