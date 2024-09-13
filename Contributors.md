@@ -54,7 +54,7 @@
 - Andrew Gajewski
 - CarlosMartinez
 - Luke Bowen
-
+- [Junsu Lee](https://github.com/YieumYoon) **Hi from South Korea! 👋**
 - [Mohammed Abdul Raqeeb](https://github.com/Raqeeb27) **👋 Raqeeb27 here**
 - [Marija Kovacevic](https://github.com/marija-kov) ⛓️‍💥🐖🐄🐓🦃🐑🐇🦆
 - [Rodan Ramdam](https://github.com/rodanr) **Good luck to anyone reading this**
@@ -7901,5 +7901,6 @@ vivek saskar
 - [Dylan Hyer](https://github.com/deh277) **hello from flagstaff**
 - [Sean Weston](https://github.com/itzpongo) **Welcome to my github**
 - [Ivan Guzman](https://github.com/ivngzmn) **Hello from southern Cali**
+
 
   ​                                                           
