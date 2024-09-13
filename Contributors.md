@@ -1,6 +1,7 @@
 # Contributors
 - [Emmanuel cruz olivarez](https://github.com/ecoisc) **¯\_(ツ)_/¯**
 - [Niginabonu Isamukhamedova](https://github.com/nigina23) ** Hello Girls! I'm from Usbekistan! Let's code and study together :))**
+- [Jenny](https://github.com/JenniferLA) **My first open-source contribution! Thank you for the help!! :)**
 - [Shi Ya Connie](https://github.com/angular-triangle) **Whoohoo!**
 - [Aditya Medhane](https://github.com/flash1729) ** This is the start of my legendary Open-Source Journey...**
 - [Robert McClung](https://github.com/Bobaliciousss) **Hi from Arizona!**
