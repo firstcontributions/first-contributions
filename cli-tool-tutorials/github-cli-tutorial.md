@@ -44,7 +44,7 @@ git switch -c add-john-doe
 Now you can open `Contributors.md` file in a text editor and add your name to it. Put your name anywhere between the beginning and the end, then save the file.
 
 In the project directory execute `git status` and you will see the changes.
-![image-git](https://camo.githubusercontent.com/a35c4722d7aab337eefc655d1488f7b4dc038508e6adaf5e88e2e052a976f010/68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f6769742d7374617475732e706e67)
+![image-git](https://camo.githubusercontent.com/fc14d06b87cd9f29d0f85030143e785903c8b4a56e6c698cf15d21e1bbaa6d6f/68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f6769742d7374617475732e706e67)
 
 Add those changes to the branch you just created using the `git add` command:
 `git add Contributors.md`
