@@ -7919,6 +7919,7 @@ vivek saskar
 - [Sean Weston](https://github.com/itzpongo) **Welcome to my github**
 - [Ivan Guzman](https://github.com/ivngzmn) **Hello from southern Cali**
 - [Jon Chen](https://github.com/thisisjonchen) **:)**
+- [Thalyson Wilker](https://github.com/thalisonwilker) **;D**
 
 
   ​                                                           
