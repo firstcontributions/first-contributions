@@ -7915,4 +7915,4 @@ vivek saskar
 - [Sean Weston](https://github.com/itzpongo) **Welcome to my github**
 - [Ivan Guzman](https://github.com/ivngzmn) **Hello from southern Cali**
 - [Jon Chen](https://github.com/thisisjonchen) **:)**
-- [Willie169](https://github.com/Willie169) **Fixed typos in [github-cli-tutorial.md](https://github.com/firstcontributions/first-contributions/blob/main/cli-tool-tutorials%2Fgithub-cli-tutorial.md) and [Contributors.md](https://github.com/firstcontributions/first-contributions/blob/main/Contributors.md)**
+- [Willie169](https://github.com/Willie169) **Fixed typos in [github-cli-tutorial.md](https://github.com/firstcontributions/first-contributions/blob/main/cli-tool-tutorials%2Fgithub-cli-tutorial.md) and [Contributors.md](https://github.com/firstcontributions/first-contributions/blob/main/Contributors.md). Please remember the space after \"-\" in MarkDown. BTW, I am working on some games, template libraries, parsers, tutorials, command line tools, etc.**
