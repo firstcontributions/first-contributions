@@ -20,6 +20,7 @@
 - [Nikhilesh Sai Badithaboyina] (https://github.com/Nikhileshsai/)**Pull Request Incoming**
 - [Noah Carges](https://github.com/strictlyrare) **Lets do this pull request thing"
 - [Karthik Arulmani](https://github.com/Kartell-stack/Kartell-stack) **My first step into the tech world**
+- [Christopher Evangelista](https://github.com/cevangel/) **first contribution**
 - [Shruti Mittal](https://github.com/shrutimittal23) **first pull req!**
 - [Kariuki Mwangi](https://github.com/kariuki79) ** first contribution**
 - [Kanatov Vladislav](https://github.com/lon8/) **Good day, bro!**
