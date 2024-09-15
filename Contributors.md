@@ -40,6 +40,7 @@
 - [Brody England](https://github.com/bme2003) **LETS GOOOOOOOO**
 - [William Barnett](https://github.com/Will-78) **First Contribution**
 - [Ayla Tudor](https://github.com/ayluhrene) **first contribution :))**
+- [Murat Ishen](https://github.com/matishen7) **first contribution :))**
 - [Debopriyo Chakrabarty](https://github.com/debapcha) **Starting with a small contribution**
 - [Riley Calhoun][https://github.com/rileycalhoun] **first contribution!**
 - [Jadyn Calhoun](https://github.com/jadynlaila)
