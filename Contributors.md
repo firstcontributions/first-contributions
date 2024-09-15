@@ -5,6 +5,7 @@
 - [Niginabonu Isamukhamedova](https://github.com/nigina23) ** Hello Girls! I'm from Usbekistan! Let's code and study together :))**
 - [Mohammed R. Attia](https://github.com/mohammedrattia) **Feels great to be part of this repo. Contact me if you want to talk :))**
 - [Zaw](https://github.com/zaw-creator) **Gotta Say time to locked in :D** 
+- [Faruk idris](https://github.com/farooq13) **Thanks for providing such repository**
 - [Jenny](https://github.com/JenniferLA) **Ayeeee first contribution:) Thank you for the help!**
 - [Shi Ya Connie](https://github.com/angular-triangle) **Whoohoo!**
 - [Aditya Medhane](https://github.com/flash1729) ** This is the start of my legendary Open-Source Journey...**
