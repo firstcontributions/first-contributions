@@ -1806,6 +1806,7 @@ vrushabhpatil48
 - [Ajay Biswas](https://github.com/BlueSquare4)**Hello Guys, am a Backend developer, Happy learning🚀✨**
 - [Dileepkumar Sasanapuri](https://github.com/dileepkumarsasanapuri)**first contribution**
 - [Kumaraswamy R](https://github.com/KumaraSwamyR94/)**Hello to the open source community**
+- [Alankar Mishra](https://github.com/0xAlankar)**My first contribution on github. Thanks to the creators**
 - [Tony James](https://github.com/ItsmeToney)
 - [Asim Aftab](https://github.com/AsimAftab) **Hello Guys, I am Mobile Developer, Happy Learning **
 - [gagan-bhullar](https://github.com/gagan-bhullar-tech)
