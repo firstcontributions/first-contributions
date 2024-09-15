@@ -10,6 +10,7 @@
 - [Aditya Medhane](https://github.com/flash1729) ** This is the start of my legendary Open-Source Journey...**
 - [Vin Rayudu](https://github.com/vinDelphini) **Here we go**
 - [Robert McClung](https://github.com/Bobaliciousss) **Hi from Arizona!**
+- [Tian Yi](https://github.com/ztygod) **my first time**
 - [Ryan Todd](https://github.com/r2neatha) **Hello :)**
 - [Tristen Calder](https://github.com/TristenCalder) **Hello**
 - [Brox](https://github.com/ibrahim215) **Puuuuuuump**
