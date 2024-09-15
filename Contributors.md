@@ -28,6 +28,7 @@
 - [Shruti Mittal](https://github.com/shrutimittal23) **first pull req!**
 - [Kariuki Mwangi](https://github.com/kariuki79) ** first contribution**
 - [Kanatov Vladislav](https://github.com/lon8/) **Good day, bro!**
+- [Lishin V S](https://github.com/Ellvius/) **Venturing into the world of Open Source**
 - [Levi Ly](https://github.com/levihly) **bepbepbep**
 - [Alonso Garcia](https://github.com/abg287) **Awesome Sauce**
 - [Kunal Suraniya](https://github.com/suraniyakunal) ** It's Fun
