@@ -13,6 +13,7 @@
 - [Robert McClung](https://github.com/Bobaliciousss) **Hi from Arizona!**
 - [Tian Yi](https://github.com/ztygod) **my first time**
 - [Ryan Todd](https://github.com/r2neatha) **Hello :)**
+- [Sivert] **Hi!**
 - [Tristen Calder](https://github.com/TristenCalder) **Hello**
 - [Brox](https://github.com/ibrahim215) **Puuuuuuump**
 - [Sam Mansat](https://github.com/mansatCode) **blessed**
