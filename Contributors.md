@@ -197,6 +197,7 @@ Zipi Asrin
 - [Karan Kataria](https://github.com/KaranBKataria) **My first step towards contributing to open source projects!**
 - [Rosis Kharel](https://github.com/RosisK)
 - [Darren Foote](https://github.con/Themandme)
+- [Michael M.](https://github.com/MightyCharm) **Hello from Germany**
 - [Aditya Rajput](https://github.com/Adiyta-rajput200) **Its my first contribution but not the last,Here to start the new World Aditya Rajput form Bihar,India**
 - [Israel Rivas](https://github.com/ILRivas) **Hello World!**
 - [Ofek Tal](https://github.com/kafuexe) **hio**
