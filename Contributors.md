@@ -1,5 +1,7 @@
 # Contributors
 - [Abdul Jawad Azizi](https://github.com/Abdulzizi) **👨‍💻💪👦😎😅🇮🇩🌯🍖 Hey this is my first ever contribution maannn!?!?!?**
+- [Rishi Verma](https://github.com/coder-writes)
+**😍😍👌👌🤞😶‍🌫️ Going to Do my first Ever Contribution,Feeling like a hacker!!!!**
 - [Shashi Prabha](https://github.com/WednesdaySP) **👩👩🏻‍💻 Marking my first contribution... And the journey begins..😉**
 - [Emmanuel cruz olivarez](https://github.com/ecoisc) **¯\_(ツ)_/¯**
 - [Niginabonu Isamukhamedova](https://github.com/nigina23) ** Hello Girls! I'm from Usbekistan! Let's code and study together :))**
