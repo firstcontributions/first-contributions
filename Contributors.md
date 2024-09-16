@@ -11,6 +11,7 @@
 - [Jenny](https://github.com/JenniferLA) **Ayeeee first contribution:) Thank you for the help!**
 - [Shi Ya Connie](https://github.com/angular-triangle) **Whoohoo!**
 - [Aditya Medhane](https://github.com/flash1729) ** This is the start of my legendary Open-Source Journey...**
+- [Chani Shain](https://github.com/ChaniShain)**Code is fun**
 - [Vin Rayudu](https://github.com/vinDelphini) **Here we go**
 - [Robert McClung](https://github.com/Bobaliciousss) **Hi from Arizona!**
 - [Tian Yi](https://github.com/ztygod) **my first time**
