@@ -706,6 +706,7 @@ Swapnonil Mitra
 - [Harshavardhan K](https://github.com/tronbeing3030) **7/28/24 #LFG**
 -[Matthew H] **25/07/2024**
 Rudraksh Upadhyay- learing to contribute in open source projects
+- [Gabriel dos Reis](https://github.com/Barderus) **My first contribution! I'm so excited!**
 -[Prabhat Ghimire] **grinding my way**
 - [Michael Callahan] **hello**
 - [Kanhav Vohra] **First Contribution**
