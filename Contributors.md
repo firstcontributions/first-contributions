@@ -55,6 +55,7 @@
 - [Debopriyo Chakrabarty](https://github.com/debapcha) **Starting with a small contribution**
 - [Riley Calhoun][https://github.com/rileycalhoun] **first contribution!**
 - [Jadyn Calhoun](https://github.com/jadynlaila)
+- [jdd](https://github.com/jadynlaila) **first contribution!**
 - [Rakesh Mishra](https://github.com/NameawaShinderu) **Starting with a small contribution**
 - [deepak kumar](https://github.com/Deepak-kumar-2023)**i am good**
 - [Santiago Ocampo](https://github.com/santiocampo1)**Nice**
