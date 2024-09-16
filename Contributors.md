@@ -5289,6 +5289,7 @@ Parthiv Saikia
 - [CaitlinIsShort](https://github.com/caitlinisshort)
 - myname
 - [viswanathr](https://github.com/viswanathr73)
+- [Daniel Guerra](https://github.com/DakkuaDev)
 - [Filippos Gkotsopoulos](https://github.com/fgkotsopoulos)
 - [Akashzealzoft](https://github.com/Akashzealzoft)
 - [Pritam Das](https://github.com/4ritam)
