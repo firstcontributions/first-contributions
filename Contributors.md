@@ -2,6 +2,8 @@
 - Zara Phukan 
 - [Atul Deshpande](https://github.com/AtulDeshpande09) **I use Arch , BTW**
 - [Abdul Jawad Azizi](https://github.com/Abdulzizi) **👨‍💻💪👦😎😅🇮🇩🌯🍖 Hey this is my first ever contribution maannn!?!?!?**
+- [Rishi Verma](https://github.com/coder-writes)
+**😍😍👌👌🤞😶‍🌫️ Going to Do my first Ever Contribution,Feeling like a hacker!!!!**
 - [Shashi Prabha](https://github.com/WednesdaySP) **👩👩🏻‍💻 Marking my first contribution... And the journey begins..😉**
 - [Emmanuel cruz olivarez](https://github.com/ecoisc) **¯\_(ツ)_/¯**
 - [Daniella Elsie](https://github.com/codercodingss) **Hello, let's do this💪**
