@@ -535,6 +535,7 @@ i
 - [Vinicius Wessner 🇧🇷](https://github.com/ViniciusWessner)
 - [Mônica Cruz 🇧🇷](https://github.com/monicacruzs)
 - [Wonseok] (https://github.com/SadDONUT1/)
+- [CWSODA] **Im trying my best to copy the format :3**
 - [Lucky Samuel](https://github.com/alchemistlowkey)
 - [Jaikrat Singh Tariyal](https://github.com/jaikratsinghtariyal)
 -[Hari Krishna Gunnala] (https://github.com/itsmehk8333)
