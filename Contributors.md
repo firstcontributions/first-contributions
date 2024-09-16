@@ -7925,10 +7925,7 @@ vivek saskar
 - [seosieve](https://github.com/seosieve)
 - [Tanaka Gosu](https://github.com/Tanaka) **water**
 - [Zan Pisotek](https://github.com/zan-super-zan) **Just Learning**
-<<<<<<< HEAD
 - [hyeon wook](https://github.com/YuHyeonWook)
-  ​                                                            
-=======
 - [TaqueriaVallarta](https://github.com/TaqueriaVallarta) **Glad to be here**
 - [sharonakk](https://github.com/sharonakk) **hey guys!!**
 - [samuel Kougbam](https://github.com/samuelkkes/) **First time contributing.**
@@ -7946,4 +7943,3 @@ vivek saskar
 
 
   ​                                                           
->>>>>>> 6cddf90f1758a8a91f2c76ecd4dd7d383f0d03dc
