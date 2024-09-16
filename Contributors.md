@@ -314,6 +314,7 @@ Prajwal was here.
 -[Thamannashaji](https://github.com/Thamanna11234)**Here i am for my baby steps in opensource.**
 -[Shrinedhi](https://github.com/Web-Dev-Learner)**this is my first opensource contribution**
 Rehan
+-[Dvora Novogrotzki](https://github.com/DvoraNovogrotzki)**First open source contribution!!!! Thanks!!**
 - [Meenakshi](https://github.com/meenakship3) **Maybe ~~third~~ fourth time's the charm.**
 -[Kirito72-hub](https://github.com/Kirito72-hub)**this line is taken by ME please refrain from taking it as i like this number. moving me from this spot will result in me getting depressed.**
 - [Stanley Navarrete] 
