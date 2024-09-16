@@ -174,6 +174,7 @@ v0idborne
 - Mihir Mirchandani
 - Jay B - bodenmethod
 - Noah Koebe
+- Rivka Mi
 - Kshitij Ijari
 - S Prathima Singh
 - Gandra Rithvik Rao👍
