@@ -7969,6 +7969,6 @@ vivek saskar
 - [Jinnawat Vilairat](https://github.com/LynchzDEV) **First step on the moon!**
 - [Rushikesh Sapkale](https://github.com/Rushikesh23-creator) **Hello developers!**
 - [Edward Magtoto](https://github.com/Kiydo) **First step with open-source!**
-
+- [Shira Vinograd - shirawin](https://github.com/shirawin) **My first contribution😁🚀!**
 
   ​                                                           
