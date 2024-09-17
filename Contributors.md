@@ -7998,6 +7998,7 @@ vivek saskar
 - [Rushikesh Sapkale](https://github.com/Rushikesh23-creator) **Hello developers!**
 - [Edward Magtoto](https://github.com/Kiydo) **First step with open-source!**
 - [Abhishek Patel](https://github.com/patelabhi1607) **First step with open-source!**
+- [James Johnson](https://github.com/jamesjohnson-3cloudsolutions) **Hello GitHub World!**
 - [Klyde Bairulla](https://github.com/codingKlyde) **Hello World!**
 
 
