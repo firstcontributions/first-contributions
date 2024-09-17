@@ -16,6 +16,7 @@
 - [Ryan Todd](https://github.com/r2neatha) **Hello :)**
 - [Sivert] **Hi!**
 - [Tristen Calder](https://github.com/TristenCalder) **Hello**
+- [Steven Martin](https://github.com/StevenM27) **Ready to start contributing!**
 - [Brox](https://github.com/ibrahim215) **Puuuuuuump**
 - [Sam Mansat](https://github.com/mansatCode) **blessed**
 - [John-PatrickLeis](https://github.com/jleisz/) **my first pull request**
