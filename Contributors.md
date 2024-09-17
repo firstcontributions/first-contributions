@@ -7999,6 +7999,6 @@ vivek saskar
 - [Edward Magtoto](https://github.com/Kiydo) **First step with open-source!**
 - [Abhishek Patel](https://github.com/patelabhi1607) **First step with open-source!**
 - [Klyde Bairulla](https://github.com/codingKlyde) **Hello World!**
+- [Harsh Patadia](https://github/hp-8)
 
-
-  ​                                                           
+  ​                                                         
