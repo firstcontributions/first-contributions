@@ -19,6 +19,7 @@
 - ['Layomi Lawore](https://github.com/Layomi1) **My journey into the world of open source**
 - [Jenny](https://github.com/JenniferLA) **Ayeeee first contribution:) Thank you for the help!**
 - [Shi Ya Connie](https://github.com/angular-triangle) **Whoohoo!**
+- [Yuto Morohoshi](https://github.com/YutoMorohoshi) **This is my first issue**
 - [Aditya Medhane](https://github.com/flash1729) ** This is the start of my legendary Open-Source Journey...**
 - [Chani Shain](https://github.com/ChaniShain)**Code is fun**
 - [Vin Rayudu](https://github.com/vinDelphini) **Here we go**
