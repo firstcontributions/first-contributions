@@ -1,5 +1,6 @@
 # Contributors
 - [Shoutao Sun](https://github.com/ShoutaoSun) **Happy Mid-Autumn Festival!**
+- [Jemmyjs](https://github.com/JemmyJs) **My first contribution!**
 - Zara Phukan 
 - [Atul Deshpande](https://github.com/AtulDeshpande09) **I use Arch , BTW**
 - [Sid Senthil](https://github.com/sidsenthilexe) **Hi everyone!**
