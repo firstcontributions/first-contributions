@@ -48,6 +48,7 @@
 - [Lars Rider](https://github.com/ArethusaSpring) **This is the beginning**
 - [Akram Aouiche](https://github.com/AAouiche/) **thanks for teaching me this**
 - [Karthik Arulmani](https://github.com/Kartell-stack/Kartell-stack) **My first step into the tech world**
+- [Moses Kubeka] (https://github.com/bit-bytes-101/) **Code Blooded**
 - [Christopher Evangelista](https://github.com/cevangel/) **first contribution**
 - [Shruti Mittal](https://github.com/shrutimittal23) **first pull req!**
 - [Kariuki Mwangi](https://github.com/kariuki79) ** first contribution**
