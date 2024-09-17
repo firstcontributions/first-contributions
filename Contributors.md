@@ -1847,6 +1847,7 @@ vrushabhpatil48
 - [Dileepkumar Sasanapuri](https://github.com/dileepkumarsasanapuri)**first contribution**
 - [Kumaraswamy R](https://github.com/KumaraSwamyR94/)**Hello to the open source community**
 - [Alankar Mishra](https://github.com/0xAlankar)**My first contribution on github. Thanks to the creators**
+- [Priyanshi Chourasia](https://github.com/priyanshi0222)**new to open source**
 - [Tony James](https://github.com/ItsmeToney)
 - [Asim Aftab](https://github.com/AsimAftab) **Hello Guys, I am Mobile Developer, Happy Learning **
 - [gagan-bhullar](https://github.com/gagan-bhullar-tech)
