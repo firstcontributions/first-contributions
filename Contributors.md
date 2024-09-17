@@ -6968,6 +6968,7 @@ murari2401
 - [Anastasios Poursaitides](https://github.com/anastasiosPou)
 - [RahulKarthick](https://github.com/rahulkarthickr)
 - [Sandeep Gummadavelli](https://github.com/GummadavelliSandeep)
+- [Rivka Weiss](https://github.com/rivka14)
 - [Mova](https://github.com/the-mova)
 - [Omkar Mishra](https://github.com/OmkarMishr)
 - [Nico](https://github.com/nzantopp)
