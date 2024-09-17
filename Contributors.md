@@ -28,6 +28,7 @@
 - [Tian Yi](https://github.com/ztygod) **my first time**
 - [Ryan Todd](https://github.com/r2neatha) **Hello :)**
 - [Sivert] **Hi!**
+- [Kevin Christie](https://github.com/Maximus7395) **Hello everyone, my first contribution to open source** 
 - [Abhinav Pandey](https://github.com/Abhinav2656) **Hey, there this is my first contribution to open source!**
 - [N1femi](https://github.com/N1femi) **Literally confused rn but it will diminish as time passes ;)**
 - [Kaan Eren](https://github.com/eminkaaneren) **Hey everyone!)**
