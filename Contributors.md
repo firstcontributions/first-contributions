@@ -2,6 +2,9 @@
 - [Shoutao Sun](https://github.com/ShoutaoSun) **Happy Mid-Autumn Festival!**
 - [Jemmyjs](https://github.com/JemmyJs) **My first contribution!**
 - Zara Phukan 
+- [Milton K](https://github.com/Milton3000) **Follow for a Follow!**
+- [Milton K](https://github.com/Milton3000) **Follow for a Follow!**
+- [Milton K](https://github.com/Milton3000) **Follow for a Follow!**
 - [Atul Deshpande](https://github.com/AtulDeshpande09) **I use Arch , BTW**
 - [Sid Senthil](https://github.com/sidsenthilexe) **Hi everyone!**
 - [Mads Rehof](https://github.com/madsrehof) **My first contribution!**
