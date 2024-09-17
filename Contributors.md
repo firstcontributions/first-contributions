@@ -1891,6 +1891,7 @@ vrushabhpatil48
 - [Patnix](https://github.com/iampatnix)
 - [narkis9984](https://github.com/narkis9984)
 - [CemreTheBoss](https://github.com/cemrenurkeles)
+- [Nick Lanzo](https://github.com/nlanzo/)
 - [hawkinswinja](https://github.com/hawkinswinja)
 - [jadahego](https://github.com/jadahego)**jdhg**
 - [ykmanalo](https://github.com/yvesmanalo)
