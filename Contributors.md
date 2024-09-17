@@ -16,7 +16,8 @@
 - [Niginabonu Isamukhamedova](https://github.com/nigina23) ** Hello Girls! I'm from Usbekistan! Let's code and study together :))**
 - [Segiterio](https://github.com/segiterio) **This is my First Contribution**
 - [Mohammed R. Attia](https://github.com/mohammedrattia) **Feels great to be part of this repo. Contact me if you want to talk :))**
-- [Zaw](https://github.com/zaw-creator) **Gotta Say time to locked in :D**
+- [Sai](https://github.com/sailanka02) **Excited to contribute! Follow me!** 
+- [Zaw](https://github.com/zaw-creator) **Gotta Say time to locked in :D** 
 - [Faruk idris](https://github.com/farooq13) **Thanks for providing such repository**
 - ['Layomi Lawore](https://github.com/Layomi1) **My journey into the world of open source**
 - [Jenny](https://github.com/JenniferLA) **Ayeeee first contribution:) Thank you for the help!**
@@ -160,6 +161,7 @@
 - [Maidah] (https://github.com/Maida-Tariq) **Call of the Programmers!**
 - SaQiB Wani - **Ready to start Open-source Contribution**
 - [Shashidhar Rao] (https://github.com/shashidharrao19) - **Ready to start open source contribution**
+- [Spoorthi Uday Karakaraddi] (https://github.com/spoorthiuk) - **Lessgoo**
 - [Code Zero Null] was here! YOLO!
 - [Morgan Anderson] (https://github.com/morganog) **Just trying to do something that matters!**
 - [Advait Chalke] (https://github.com/chalky25) **I wanna be the very best, like no one ever was!**
@@ -1654,6 +1656,7 @@
 - [Dileepkumar Sasanapuri](https://github.com/dileepkumarsasanapuri)**first contribution**
 - [Kumaraswamy R](https://github.com/KumaraSwamyR94/)**Hello to the open source community**
 - [Alankar Mishra](https://github.com/0xAlankar)**My first contribution on github. Thanks to the creators**
+- [Priyanshi Chourasia](https://github.com/priyanshi0222)**new to open source**
 - [Tony James](https://github.com/ItsmeToney)
 - [Asim Aftab](https://github.com/AsimAftab) **Hello Guys, I am Mobile Developer, Happy Learning **
 - [gagan-bhullar](https://github.com/gagan-bhullar-tech)
