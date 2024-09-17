@@ -107,6 +107,7 @@ I am glad to use Github
 - Andrew Gajewski
 - CarlosMartinez
 - Luke Bowen
+- Raj Palival
 - [Fitri Yasmin](https://github.com/almirayasmin) **Rookie github-ers trying to move on from Azure DevOps**
 - [Junsu Lee](https://github.com/YieumYoon) **Hi from South Korea! 👋**
 - [Mohammed Abdul Raqeeb](https://github.com/Raqeeb27) **👋 Raqeeb27 here**
