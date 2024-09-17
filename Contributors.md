@@ -14,6 +14,7 @@
 - [Mohammed R. Attia](https://github.com/mohammedrattia) **Feels great to be part of this repo. Contact me if you want to talk :))**
 - [Zaw](https://github.com/zaw-creator) **Gotta Say time to locked in :D** 
 - [Faruk idris](https://github.com/farooq13) **Thanks for providing such repository**
+- ['Layomi Lawore](https://github.com/Layomi1) **My journey into the world of open source**
 - [Jenny](https://github.com/JenniferLA) **Ayeeee first contribution:) Thank you for the help!**
 - [Shi Ya Connie](https://github.com/angular-triangle) **Whoohoo!**
 - [Aditya Medhane](https://github.com/flash1729) ** This is the start of my legendary Open-Source Journey...**
