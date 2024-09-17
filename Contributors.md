@@ -19,6 +19,7 @@
 - [Tian Yi](https://github.com/ztygod) **my first time**
 - [Ryan Todd](https://github.com/r2neatha) **Hello :)**
 - [Sivert] **Hi!**
+- [N1femi] **Literally confused rn but it will diminish as time passes ;)**
 - [Kaan Eren](https://github.com/eminkaaneren) **Hey everyone!)**
 - [Anup Saud](https://github.com/anup810) **Reaching for the stars, one line of code at a time!**
 - [Tristen Calder](https://github.com/TristenCalder) **Hello**
