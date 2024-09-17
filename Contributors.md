@@ -45,6 +45,7 @@
 - [Alonso Garcia](https://github.com/abg287) **Awesome Sauce**
 - [Kunal Suraniya](https://github.com/suraniyakunal) ** It's Fun
 - [Josef Wolf](https://github.com/JosefJW)
+- [Thilina Jayamal](https://github.com/ThilinaJayamal)
 - [Jazlaan Jamsheer](https://github.com/itzzJaz) *I DONT USE ARCH BTW*
 - [XZanderU](https://github.com/XZanderU) **First contribution**
 - [Somya Malik](https://github.com/somyasinghmalik) **Learning to contribute**
