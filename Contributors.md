@@ -57,6 +57,7 @@ I am glad to use Github
 - [Jacob Casas](https://github.com/jacobcasas) **Game Dev looking to contribute my skills to community**
 - [Brody England](https://github.com/bme2003) **LETS GOOOOOOOO**
 - [William Barnett](https://github.com/Will-78) **First Contribution**
+- [Simon Petre](https://github.com/simpetre) **First contribution - let's do this!**
 - [Ayla Tudor](https://github.com/ayluhrene) **first contribution :))**
 - [Murat Ishen](https://github.com/matishen7) **first contribution :))**
 - [Debopriyo Chakrabarty](https://github.com/debapcha) **Starting with a small contribution**
