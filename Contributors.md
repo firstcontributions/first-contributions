@@ -160,6 +160,7 @@ I am glad to use Github
 - [Ruhi Tyagi](https://github.com/ruhi47) **Hey!, here to build a course on open-source. Interested? Hit me up on Linkedin!**
 - [Shruti Jawale] (https://github.com/shjawale/) **Hey! I'm excited start  my open source journey!
 - [Faaz Sherwani]--YOLO peeps--
+- [Chris] Vas a caer Gege akutami
 - [Marcus Quibol]
 - [Farhan Abbas]
 - [Jeffrey Hoelzel]
