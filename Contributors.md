@@ -527,6 +527,7 @@ i
 - [Rameel Haroon](https://github.com/RameelHaroon) **UwU**
 - [Rachid Sassine](https://github.com/romegasassine) **Rachid Sassine - first contribution!, starting the grind!!!*
 -[Mehran Moazeni] (https://github.com/Mehranmzn) **It is just the begining**
+- [Alejandro Manzano] (https://github.com/amanzano7) **My first contributions!**
 - [Vasley Mus](https://github.com/vasleymus) **My first open source contribution**
 - [Ethan Sampson] (https://github.com/ecsampson) **First Open Source Contribution!!
 - [Saad Sohail] (https://github.com/Xaad989) **My first contribution!!**
