@@ -4545,6 +4545,7 @@ Romeu Leite
 - [luispunx](https://github.com/luispunx)
 - [maxgmr](https://github.com/maxgmr)
 - [Rose Liu](https://github.com/BlueRosy) An interesting contribution experience! Thanks. 🩷🩵
+- [Erik Scantamburlo](https://github.com/eriksca) **first contribution!**
 - [Leinad Odreiuqzi](https://github.com/LeinadOdreiuqzi) **HolaHolaHola**
 - [C0Mon](https://github.com/C0Mon) **yayayayayayay :3**
 - [Yufa Zhou](https://github.com/MasterZhou1)
