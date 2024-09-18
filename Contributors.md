@@ -2737,6 +2737,7 @@ Sam Barns
 - [Chetan] (https://github.com/falcon-96)
 - [DingDingKO] (https://github.com/dingdingko)
 - [Panthomema](https://github.com/Panthomema) **Ok, let's go!**
+- [Slavinto](https://github.com/Slavinto) **My first contribution💪😘😁**
 - [Akintunde Olayinka] (https://github.com/oakintunde)
 - Andrew Craeton
 - [JRW] (https://github.com/ShuaRead)
