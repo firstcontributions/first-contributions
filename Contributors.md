@@ -7016,6 +7016,7 @@ murari2401
 - [RahulKarthick](https://github.com/rahulkarthickr)
 - [Sandeep Gummadavelli](https://github.com/GummadavelliSandeep)
 - [Rivka Weiss](https://github.com/rivka14)
+- [Michal Fogel](https://github.com/MichalFogel)
 - [Mova](https://github.com/the-mova)
 - [Omkar Mishra](https://github.com/OmkarMishr)
 - [Nico](https://github.com/nzantopp)
