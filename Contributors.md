@@ -8050,6 +8050,6 @@ vivek saskar
 Didac Vilarnau
 - [Montserrat Lopez](https://github.com/cutmountain) **So excited with my first contribution!**
 - [Pedro Castro](https://github.com/peucastro/) **Hello from Porto-PT!**
-
+- [Michael Yip](https://github.com/Tinkybala) **Hello, hope to contribute more!**
 
   ​                                                           
