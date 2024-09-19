@@ -8044,6 +8044,6 @@ vivek saskar
 Didac Vilarnau
 - [Montserrat Lopez](https://github.com/cutmountain) **So excited with my first contribution!**
 - [Pedro Castro](https://github.com/peucastro/) **Hello from Porto-PT!**
-
+- [Seonggon Cho](https://github.com/jmsmg) **My First Open Source**
 
   ​                                                           
