@@ -123,7 +123,8 @@ Prajwal was here.
 - [Ebrahim Al-Aghbari](https://github.com/E-Aghbari) **Remind me in 5 years.**
 - [irsyad212](https://github.com/irsyad212) **Hello!**
 - [Mischa Tobias](https://github.com/MischaTobias) **Hey there!**
--[Shrivarsha Poojary](https://github.com/shrivarshapoojari) **Learning to to contribute**
+
+-[Shrivarsha Poojary](https://github.com/shrivarshapoojari) **Learning to to contribute .. First step into open source**
 - [Franklin Okoye](https://github.com/franklin-okoye) **My First Contribution**
 - [Mansoor Ahmad Mir](https://github.com/Marshalll99/) **First Contribution**
 - [Nathan Hagan](https://github.com/BeastieNate5) *2Best Girl!!!*
