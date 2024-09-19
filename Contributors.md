@@ -3461,7 +3461,8 @@ guanj65
 - [Harjas Singh](https://github.com/harjasae2001)
 - [Harjinder Singh Kalra](https://github.com/harjinder20) **Hey Mom! Look I made open source contribution**
 - [Jessica He] (https://github.com/jessicahe004) **i hope this is right** 
-- [Rishabh Bansal](https://github.com/Rishabh0797) 
+- [Rishabh Bansal](https://github.com/Rishabh0797)
+- [Lakshya](https://github.com/lakshyajoshii) 
 - [Mignot Dansa](https://github.com/mignotdansa)
 - [Corbin Griffin](https://github.com/Kaboombafoo)
 - [Hari prasad1](https://github.com/haripd)
