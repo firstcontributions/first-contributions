@@ -1,6 +1,7 @@
+:I
 # Contributors
 - [Shoutao Sun](https://github.com/ShoutaoSun) **Happy Mid-Autumn Festival!**
-- [Jemmyjs](https://github.com/JemmyJs) **My first contribution!**
+-[Jemmyjs](https://github.com/JemmyJs) **My first contribution!**
 - Zara Phukan 
 - [Atul Deshpande](https://github.com/AtulDeshpande09) **I use Arch , BTW**
 - [Aasif](https://github.com/aasiflm10/) **Hey there, make your first contribution**
@@ -27,6 +28,7 @@
 - [Shi Ya Connie](https://github.com/angular-triangle) **Whoohoo!**
 - [Yuto Morohoshi](https://github.com/YutoMorohoshi) **This is my first issue**
 - [Aditya Medhane](https://github.com/flash1729) ** This is the start of my legendary Open-Source Journey...**
+- [Sayuri] (https://github.com/Sayo18) **Hola Mundo**
 - [Chani Shain](https://github.com/ChaniShain)**Code is fun**
 - [Vin Rayudu](https://github.com/vinDelphini) **Here we go**
 - [Robert McClung](https://github.com/Bobaliciousss) **Hi from Arizona!**
