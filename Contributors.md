@@ -1,4 +1,5 @@
 # Contributors
+- [Rick] ** Good good study **
 - [Jezex] (https://github.com/Jezex) **9/18/2024**
 - [Miquel] ** Testing **
 - [Shaheer Mansoor](https://github.com/Shaheer5) **On the way to create robust apps**
