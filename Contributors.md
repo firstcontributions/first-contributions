@@ -8,6 +8,7 @@
 - [Jemmyjs](https://github.com/JemmyJs) **My first contribution!**
 - [rjm](https://github.com/rufusjm) **Getting started with open source**
 - Zara Phukan 
+- [Ammar Aziz](https://github.com/ammaraziz493) **Start a new Journey**
 - [elvisortegaec](https://github.com/elvisortegaec) **Hey there, making my first contribution**
 - [Atul Deshpande](https://github.com/AtulDeshpande09) **I use Arch , BTW**
 - [Aasif](https://github.com/aasiflm10/) **Hey there, make your first contribution**
