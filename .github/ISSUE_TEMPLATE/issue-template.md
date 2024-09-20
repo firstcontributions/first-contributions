@@ -1,12 +1,19 @@
----
-name: Suggest changes
+---AKUDIAKU 
+name: Suggest changes 
 about: If you want to report a bug or suggest improvements, please open an issue.
 title: ''
 labels: discussion, question
 assignees: Roshanjossey
 
 ---
-
+```: Suggest changes 
+about: add my word 
+title: 'MAYA'S Word'
+labels: BAHASA MAYA
+assignees: https://github.com/cli/oauth 
+```
+```
+https://github.com/AkudiAku191219/oauth/commit/adf5f733ffd14993aad9f3ff02c757a737f7c63b
 <!--- Provide a general summary of the issue in the Title above -->
 <!-- Make sure that you've read through https://github.com/firstcontributions/first-contributions/issues/35892 and understand the design of this project. If you have questions about it, please write a comment in that issue. -->
 
