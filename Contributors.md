@@ -37,6 +37,7 @@
 Jojo Nigs
 - ['Layomi Lawore](https://github.com/Layomi1) **My journey into the world of open source**
 - [Jenny](https://github.com/JenniferLA) **Ayeeee first contribution:) Thank you for the help!**
+- [Zoe](https://github.com/Zhaoweizoe)**Helle Hello This is my first contribution,thank you**
 - [Miki](https://github.com/Miki1734) ** First Test! Thks! ** 
 - [Arthur Morvan] (https://github.com/Hautzii) **Hello everyone, my first contribution to open source** 
 - [Shi Ya Connie](https://github.com/angular-triangle) **Whoohoo!**
