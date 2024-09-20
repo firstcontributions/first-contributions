@@ -60,6 +60,7 @@ Jojo Nigs
 - [Steven Martin](https://github.com/StevenM27) **Ready to start contributing!**
 - [Brox](https://github.com/ibrahim215) **Puuuuuuump**
 - [Sam Mansat](https://github.com/mansatCode) **blessed**
+- [fabie37](https://github.com/fabie37) **What is love? Baby don't hurt me, don't hurt me... no more**
 - [John-PatrickLeis](https://github.com/jleisz/) **my first pull request**
 - [Muhammad Zakria](https://github.com/MZakria54321/)**Its my first time to contribute in open source , thanks**
 - [James Harris](https://github.com/James-d-Harris/) **I'm doing my part**
