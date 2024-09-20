@@ -11,6 +11,7 @@
 - [elvisortegaec](https://github.com/elvisortegaec) **Hey there, making my first contribution**
 - [Atul Deshpande](https://github.com/AtulDeshpande09) **I use Arch , BTW**
 - [Aasif](https://github.com/aasiflm10/) **Hey there, make your first contribution**
+- [Paing Myo Swe](https://github.com/paing-myo-swe) **Hello, This is my first contribution**
 - Probando mi primera contribución -- Manuel Garcia
 - [Sid Senthil](https://github.com/sidsenthilexe) **Hi everyone!**
 -[Alex](https://github.com/Alex-S1by)
