@@ -105,6 +105,9 @@ I am glad to use Github
 - [deepak kumar](https://github.com/Deepak-kumar-2023)**i am good**
 - [Santiago Ocampo](https://github.com/santiocampo1)**Nice**
 - [Prueba](https://prueba)**prueba**
+
+- [Gurpreet Singh](https://github.com/GurpreetAndroid) **Ready to start contributing!**
+
 - [Ibrahim Anifowoshe](https://github.com/IbrahimAni)**Initial contribution**
 - [Ravikant Jangir](https://github.com/Marcos331305) **Ready to Start Open Source**
 - [Esneldy Caballero](https://github.com/Esnelbel) **First contribution**
