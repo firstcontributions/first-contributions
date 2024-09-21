@@ -82,6 +82,7 @@ Jojo Nigs
 - [Christopher Evangelista](https://github.com/cevangel/) **first contribution**
 - [Shruti Mittal](https://github.com/shrutimittal23) **first pull req!**
 - [Kariuki Mwangi](https://github.com/kariuki79) ** first contribution**
+- [Christopher Msindo](https://github.com/Christopher-Kaiser) **Great to be here with you guys!**
 - [Kanatov Vladislav](https://github.com/lon8/) **Good day, bro!**
 - [Lishin V S](https://github.com/Ellvius/) **Venturing into the world of Open Source**
 - [Levi Ly](https://github.com/levihly) **bepbepbep**
