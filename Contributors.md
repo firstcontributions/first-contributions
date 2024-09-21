@@ -2118,6 +2118,7 @@ taha
 - [Sungjaeyeong]
   Elsa Lee
   Samko
+  kthun91
   Chani Zarbiv
 - Enfu Liao
 - [Sarah Hassan](https://github.com/sarahassan0)
