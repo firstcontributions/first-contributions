@@ -513,6 +513,7 @@ i
 - [Priyanka Yadav](https://github.com/Priyanka141cc) **This is my first Contribution**
 -Venkat
 - [tus90](https://github.com/tus90)**First contribution, hello world**
+- [Shemang David](https://github.com/shemzz) **Let's make this happen**
 - [Mali Ascher](https://github.com/MaliAscher20)**First *opens source contribution**
 - [Saleem Vellekkat](https://www.linkedin.com/in/saleem-vellekkat/)
 - [Jasael Palma](https://github.com/jasael) **My first open source contributon**
