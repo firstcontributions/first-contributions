@@ -178,6 +178,7 @@ I am glad to use Github
 - [Mingo bit](https://github.com/mingo-bit) **My first contribution, so good!**
 - [Pallavi Maity](https://github.com/pmaity7) **Starting my open source journey!**
 - [Abdelhay bouramdane](https://github.com/abouramd) **My first contribute**
+- [Anastasia Kol]
 -[Achyuth Reddy Chamakura](https://github.com/CHINTU1253)  **Hi to Everyone..**
 - [Ebenezer Raphael](https://github.com/ebenezerraph) **I hope this counts**
 - [Michal Ben Abu](https://github.com/michal55128)
