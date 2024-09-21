@@ -1,5 +1,6 @@
 # Contributors
 - [Rick] ** Good good study **
+- [Sergio Niño] (https://github.com/sergiend) **😇First steps with gitHub 👨🏽‍💻**
 - [Jezex] (https://github.com/Jezex) **9/18/2024**
 - [Miquel] ** Testing **
 - [Dharma Krishnan](https://github.com/Dharma-krishnan)**My First One, gets to go**
