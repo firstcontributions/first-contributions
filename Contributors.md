@@ -8094,6 +8094,7 @@ Didac Vilarnau
 - [Pedro Castro](https://github.com/peucastro/) **Hello from Porto-PT!**
 - [Oluwasanmi Triumph](https://github.com/triumph-OvO/) **This is my first contribution. I hope to have many more in the future!**
 - [Jun Y]
+- [Noorulhuda Usman](https://github.com/Noorulhuda-Usman) **Hello from Pakistan. My first open source contribution!**
 
 
   ​                                                           
