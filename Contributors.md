@@ -1,4 +1,5 @@
 # Contributors
+- [Jad] **My first contribution**
 - [Rick] ** Good good study **
 - [Sergio Niño] (https://github.com/sergiend) **😇First steps with gitHub 👨🏽‍💻**
 - [Jezex] (https://github.com/Jezex) **9/18/2024**
