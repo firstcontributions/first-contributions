@@ -1,13 +1,11 @@
 # Contributors
 - [K Naga Himaja] Hello everyone! So happy to finally start my OS journey [https://www.linkedin.com/in/k-naga-himaja/]
 - [I K Kevin Samuels] *2024 1st year *[https://www.linkedin.com/in/i-k-kevin-samuels-800689321/]
-- [Oğuzhan Kökülü] (https://github.com/Oguzhankokulu) **22/09/2024**
 - [Jad] **My first contribution**
 - [Rick] ** Good good study **
 - [Sergio Niño] (https://github.com/sergiend) **😇First steps with gitHub 👨🏽‍💻**
 - [Jezex] (https://github.com/Jezex) **9/18/2024**
 - [Miquel] ** Testing **
-- [Gourav Rawat] ** firstone **
 - [Kethavrapu Likhitha] (https://github.com/Kethavarapu-Likhitha) **Hello, Lets discuss to open contribution**
 - [Dharma Krishnan](https://github.com/Dharma-krishnan)**My First One, gets to go**
 - [Shaheer Mansoor](https://github.com/Shaheer5) **On the way to create robust apps**
@@ -8097,7 +8095,6 @@ Didac Vilarnau
 - [Montserrat Lopez](https://github.com/cutmountain) **So excited with my first contribution!**
 - [Pedro Castro](https://github.com/peucastro/) **Hello from Porto-PT!**
 - [Oluwasanmi Triumph](https://github.com/triumph-OvO/) **This is my first contribution. I hope to have many more in the future!**
-- [Aaditi](https://github.com/AADITI-NIRFARAKE) **This is my first contribution. I hope to have many more in the future!**
 - [Jun Y]
 - [Noorulhuda Usman](https://github.com/Noorulhuda-Usman) **Hello from Pakistan. My first open source contribution!**
 - [Raff Prams](https://github.com/Pramsh) **Don't let your intrusive thought win.** 
