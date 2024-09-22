@@ -66,6 +66,7 @@ Jojo Nigs
 - [Chani Shain](https://github.com/ChaniShain)**Code is fun**
 - [Vin Rayudu](https://github.com/vinDelphini) **Here we go**
 - [Juan Christian](https://github.com/Juan-Christian-2711) **Hi from the Isle of Man!**
+- [Shylesh V R](https://github.com/ShyleshVR/) **Hey, there 😊**
 - [Robert McClung](https://github.com/Bobaliciousss) **Hi from Arizona!**
 - [Felipe Figueiredo](https://github.com/felipefigueiredo1) **Hi from Brazil**
 - [Tian Yi](https://github.com/ztygod) **my first time**
