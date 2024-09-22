@@ -219,6 +219,7 @@ I am glad to use Github
 - [Shashidhar Rao] (https://github.com/shashidharrao19) - **Ready to start open source contribution**
 - [Spoorthi Uday Karakaraddi] (https://github.com/spoorthiuk) - **Lessgoo**
 - [Code Zero Null] was here! YOLO!
+- Yaeli Sheinberger[https://github.com/yaeli2002]
 - [Morgan Anderson] (https://github.com/morganog) **Just trying to do something that matters!**
 - [Advait Chalke] (https://github.com/chalky25) **I wanna be the very best, like no one ever was!**
 - [Bruce G](https://github.com/bruceg14) **Good Luck**
