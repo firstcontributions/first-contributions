@@ -88,6 +88,7 @@ Jojo Nigs
 - [Muhammad Zakria](https://github.com/MZakria54321/)**Its my first time to contribute in open source , thanks**
 - [ffaithq-Stepan](https://github.com/ffaithq) **WOOOOA! First contribution in open sourcs! WAHNSINN**
 - [James Harris](https://github.com/James-d-Harris/) **I'm doing my part**
+- [Fred Ouamba](https://github.com/Hafro05/) **Learning how to qdd contributions**
 - [Gus Threlfall] (https://github.com/gus-t27) **My first (and hopefully not last) contribution to open-source!**
 - [Nikhilesh Sai Badithaboyina] (https://github.com/Nikhileshsai/)**Pull Request Incoming**
 - [Noah Carges](https://github.com/strictlyrare) **Lets do this pull request thing"
