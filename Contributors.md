@@ -8068,6 +8068,7 @@ vivek saskar
 - [hyeon wook](https://github.com/YuHyeonWook)
 - [TaqueriaVallarta](https://github.com/TaqueriaVallarta) **Glad to be here**
 - [Dave Tate](https://github.com/derpbuffalo) **Start of a journey**
+- [Bryan Suello](https://github.com/bryansuello) **All-in**
 - [Andreas Patsalos](https://github.com/dev77cmd) **Start of my open source journey**
 - [sharonakk](https://github.com/sharonakk) **hey guys!!**
 - [samuel Kougbam](https://github.com/samuelkkes/) **First time contributing.**
