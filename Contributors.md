@@ -12,6 +12,7 @@
 - [Shoutao Sun](https://github.com/ShoutaoSun) **Happy Mid-Autumn Festival!**
 - [Jemmyjs](https://github.com/JemmyJs) **My first contribution!**
 - [Maritha Miracle](https://github.com/MarithaMiracle) **Excited for my first contribution to open source!**
+- [Inzamam Ulhaq](https://github.com/Inzamamulhaq01)  [https://www.linkedin.com/in/inzamam-ulhaq1/] **My first step on OS projects** 
 - [rjm](https://github.com/rufusjm) **Getting started with open source**
 - Zara Phukan 
 - [Ammar Aziz](https://github.com/ammaraziz493) **Start a new Journey**
