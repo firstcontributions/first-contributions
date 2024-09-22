@@ -1,6 +1,7 @@
 # Contributors
 - [K Naga Himaja] Hello everyone! So happy to finally start my OS journey [https://www.linkedin.com/in/k-naga-himaja/]
 - [I K Kevin Samuels] *2024 1st year *[https://www.linkedin.com/in/i-k-kevin-samuels-800689321/]
+- [eswari](https://github.com/saieswari2005) **this is my first contribution if it is accepted i am so happy!**
 - [Oğuzhan Kökülü] (https://github.com/Oguzhankokulu) **22/09/2024**
 - [Jad] **My first contribution**
 - [Rick] ** Good good study **
