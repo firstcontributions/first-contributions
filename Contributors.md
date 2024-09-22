@@ -229,6 +229,7 @@ I am glad to use Github
 - [Austin Bennett](https://github.com/auggiebennett) ** Mark 1:15 **
 - [Diana Ma] - **Hello, open source!**
 - [Laiba Khalil](https://github.com/LaibaKhalil61) **Let's gooo!!!**
+[DP-Prarthana](https://github.com/DP-Prarthana)**Hello, open source!**
 - [Felipe calle](https://github.com/Felipe0987) **Hello This is so good :J**
 - [Vinit Tavde] (https://github.com/vinit5112) **Hello exited to start my first contribution**
 - [S Mahesh](https://github.com/Mahe9041) **Ready to start my first open source journey**
