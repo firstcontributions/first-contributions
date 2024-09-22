@@ -51,6 +51,7 @@
 - [steko](https://github.com/steko0) **sup fellas* 
 - [Zaw](https://github.com/zaw-creator) **Gotta Say time to locked in :D** 
 - [Faruk idris](https://github.com/farooq13) **Thanks for providing such repository**
+-[Naj](Man this is overwhelming but not impossible!)
 Jojo Nigs
 - ['Layomi Lawore](https://github.com/Layomi1) **My journey into the world of open source**
 - [Jenny](https://github.com/JenniferLA) **Ayeeee first contribution:) Thank you for the help!**
