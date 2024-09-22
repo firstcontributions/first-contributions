@@ -8092,6 +8092,7 @@ vivek saskar
 - [Thalyson Wilker](https://github.com/thalisonwilker) **;D**
 - [Ishaan Agarwal](https://github.com/ishaanagw) **Hi! Start of a new adventure**
 - [Sagar Satpute](https://github.com/Sagar7pute)
+- [daliaLasso] **Great!**
 - [Jinnawat Vilairat](https://github.com/LynchzDEV) **First step on the moon!**
 - [Rushikesh Sapkale](https://github.com/Rushikesh23-creator) **Hello developers!**
 - [Edward Magtoto](https://github.com/Kiydo) **First step with open-source!**
