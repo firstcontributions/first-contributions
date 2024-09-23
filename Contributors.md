@@ -248,6 +248,7 @@ I am glad to use Github
 - [Nathaniel Ruble](https://github.com/nathanielruble) **<',=,~~ rat to eat bugs**
 - [Aditya Pratama](https://github.com/Aditypraa) **Nice to meet you all, I'm proud to be here**
 - [Tyler Stahl](https://github.com/VolantTyler) **First of many commits**
+- [ogane0112](https://github.com/ogane0112) **I'm currently learning about GitHub**
 - [Mumbere Asingya Joshua](https://github.com/mumberejoshuaasingya) **I'm glad i have learnt how to contribute to free open source software**
 - [Atharva Shivankar] (https://github.com/ads8046) **Excited to take my first step towards open-source contributions! Wishing everyone here immense success in their journey of making the world a better place**
 - [Mingo bit](https://github.com/mingo-bit) **My first contribution, so good!**
