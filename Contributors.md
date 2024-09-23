@@ -9,7 +9,7 @@
 - [Jad] **My first contribution**
 - [K N S M Pavan ] **First Contribution**
 - [Rick] ** Good good study **
-- [Hariprasath(https://github.com/Hariprasathk13)   **Hello World! This is my first OS contribution. Ping for Flutter Projects ** [https://www.linkedin.com/in/hari-prasath-k-81a2b227a/]
+- [Hariprasath(https://github.com/Hariprasathk13)   **Hello World! This is my second OS contribution. Ping for Flutter Projects *[https://www.linkedin.com/in/hari-prasath-k-81a2b227a/]
 - [Sergio Niño] (https://github.com/sergiend) **😇First steps with gitHub 👨🏽‍💻**
 - [Jezex] (https://github.com/Jezex) **9/18/2024**
 - [Leti] (https://github.com/leticarvalho) ** thank you, I'm excited to start contributing to OS! ☺️ **
