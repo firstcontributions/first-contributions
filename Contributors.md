@@ -341,6 +341,7 @@ Rakesh Radhakrishnan dev was here.
 - [Robert Dobre](https://robert-dobre.github.io/) **Let's get in touch and create something together**
 - [Jeremy Kalen Knox](https:github.com/KalenKnox). Hey, this is cool
 - [Tejas Narkhede](https://github.com/TejasNarkhede). *Hello Tejas Here!*
+- [Ehtesham Ul Haq](https://github.com/Ehtesham-Ul-Haq) **contributing 1st time**
 - [SSK](https://github.com/2SSK) **I use arch BTW!**
 - [SSK](https://github.com/Motherbloods) **Let's gooo brotherrr**
 -[Nazim saifi](https;//github.com/Nazim9945) **just warming up**
