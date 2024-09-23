@@ -7,6 +7,7 @@
 - [Oğuzhan Kökülü] (https://github.com/Oguzhankokulu) **22/09/2024**
 - [Inayat Hasan](https://github.com/Inayat-hasan) **thank u for making this type of open source repo it is very helpful for the first contributors like me**
 - [Jad] **My first contribution**
+- [Shaik Arfath Ali] **My_First_Contribution**
 - [K N S M Pavan ] **First Contribution**
 - [Rick] ** Good good study **
 - [Hariprasath(https://github.com/Hariprasathk13)   **Hello World! This is my first OS contribution. Ping for Flutter Projects ** [https://www.linkedin.com/in/hari-prasath-k-81a2b227a/]
