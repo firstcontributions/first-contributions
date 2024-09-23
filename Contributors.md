@@ -66,6 +66,7 @@ Jojo Nigs
 - [Arthur Morvan] (https://github.com/Hautzii) **Hello everyone, my first contribution to open source** 
 - [Shi Ya Connie](https://github.com/angular-triangle) **Whoohoo!**
 - [Yuto Morohoshi](https://github.com/YutoMorohoshi) **This is my first issue**
+- [Fred](https://github.com/FHobbs8030) **I'm Ready!!!**
 - [Trone Golf]**This is my first issue**
 - [ManuHN](https://github.com/manu-hn) `Code for change: This is the beginning of something big.`
 - [Aditya Medhane](https://github.com/flash1729) ** This is the start of my legendary Open-Source Journey...**
@@ -145,6 +146,7 @@ I am glad to use Github
 - [Esneldy Caballero](https://github.com/Esnelbel) **First contribution**
 - [Amit kumar Ashutosh](https://github.com/amitkumarashutosh) **First contribution**
 - [Aryan Jand](https://github.com/aryanjand) **I'd love to learn more from amazing repositories like this one!**
+- [Salman Mehdi](https://github.com/salmanrh02) **First contribution :)**
 - [Asier Ortiz](https://github.com/asier-ortiz) **My first open source contribution, thanks to First Contributions for making it so easy! 🚀**
 - [Nava Sasson](https://github.com/NavaSasson/first-contributions) **First contribution**
 - [Milan Ram](https://github.com/milanram) **First contribution**
