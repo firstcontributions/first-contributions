@@ -115,6 +115,7 @@ Jojo Nigs
 - [Kanatov Vladislav](https://github.com/lon8/) **Good day, bro!**
 - [Lishin V S](https://github.com/Ellvius/) **Venturing into the world of Open Source**
 - [Levi Ly](https://github.com/levihly) **bepbepbep**
+- [Abhinav Surya](https://github.com/Abhinavsuryakolla) **My First Contribution**
 - [Alonso Garcia](https://github.com/abg287) **Awesome Sauce**
 - [Kunal Suraniya](https://github.com/suraniyakunal) ** It's Fun
 - [Gilberto Valdez Arreola] (https://github.com/GilVA1) ** step zero **
