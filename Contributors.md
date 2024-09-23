@@ -10,6 +10,7 @@
 - [Shaik Arfath Ali] **My First Contribution**
 - [K N S M Pavan ] **First Contribution**
 - [Ganesh M] **My First Contribution**
+- [Teja S]**My First Contribution**
 - [Rick] ** Good good study **
 - [Rohith Kumar K] **My First Contribution**
 - [Hariprasath(https://github.com/Hariprasathk13)   **Hello World! This is my first OS contribution. Ping for Flutter Projects ** [https://www.linkedin.com/in/hari-prasath-k-81a2b227a/]
