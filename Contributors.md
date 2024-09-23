@@ -841,6 +841,7 @@ Rudraksh Upadhyay- learing to contribute in open source projects
 -[Prueba2](https://github.com/Daniela009)**Hello World**
 -[MichaelaTing](https://github.com/MichaelaTing)**Hello, this is my first contribution.**
 -[Jinnysia](https://github.com/Jinnysia)**First contribution to a repo that isn't mine!**
+-[Anushree](https://github.com/anushree0809)**My first contribution!!**
 -[Yoenuts](https://github.com/yoenuts)**Per aspera Ad Astra. Line 18, 270724**
 -[Barbi](https://github.com/bcot-code)**First contribution jul2624**
 -[Daksh Malhan](https://github.com/daksh-malhan)**my first contribution**
