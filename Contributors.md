@@ -8065,6 +8065,7 @@ vivek saskar
 - [FionaFu](https://github.com/annanfu) **Testing the fork!** 
 - [Aymen Mejri](https://github.com/napalmCore) **Hello all :) ***
 - [Amanullah Atthar](https://github.com/amanullahatthar)'s _first_ contribution
+- [Florian Cherubin](https://github.com/FloCheru)
 -[Sara Cohen](https://github.com/Sara-Cohen)
 - [Reza Yeganeh](https://github.com/r-yeganeh)
 - [Efrat Grinberg](https://github.com/efratfried)
