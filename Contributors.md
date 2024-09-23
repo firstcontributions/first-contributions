@@ -4,6 +4,7 @@
 - [I K Kevin Samuels] *2024 1st year *[https://www.linkedin.com/in/i-k-kevin-samuels-800689321/]
 - [eswari](https://github.com/saieswari2005) **this is my first contribution if it is accepted i am so happy!**
 - [Oğuzhan Kökülü] (https://github.com/Oguzhankokulu) **22/09/2024**
+- [Inayat Hasan](https://github.com/Inayat-hasan) **thank u for making this type of open source repo it is very helpful for the first contributors like me**
 - [Jad] **My first contribution**
 - [K N S M Pavan ] **First Contribution**
 - [Rick] ** Good good study **
