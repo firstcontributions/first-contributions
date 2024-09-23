@@ -3442,6 +3442,7 @@ Kencham Vinay
 - [Yahya Chanat](https://github.com/YASHDEV42) 
 -[Stephen jamthianmuan](https://github.com/Stephenmuan1)
 -[Gerald Calotes](https://github.com/geraldcalotes)
+-[Rafael Pinto](https://github.com/RafaeIGP) Im cool now 😎😎
 -[Joseph Mbuyamba](https://github.com/jnmii)
 -[Gerzson Pszota] (https://github.com/gerzson-pszota)
 -[Daniele Russo](https://github.com/DaniVS) [Linkedin](https://www.linkedin.com/in/daniele-russo-0317a3289/)
