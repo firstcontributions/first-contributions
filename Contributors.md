@@ -8128,6 +8128,7 @@ Didac Vilarnau
 - [Noorulhuda Usman](https://github.com/Noorulhuda-Usman) **Hello from Pakistan. My first open source contribution!**
 - [Raff Prams](https://github.com/Pramsh) **Don't let your intrusive thought win.** 
 - [Nirdesh Jain](https://github.com/Nirdeshjain1) **True analyst**
+- [Nathan Valero](https://github.com/elnathval) **vago de los cojones**
 
 
   ​                                                           
