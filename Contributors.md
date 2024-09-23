@@ -116,6 +116,7 @@ Jojo Nigs
 - [Moses Kubeka] (https://github.com/bit-bytes-101/) **Code Blooded**
 - [Christopher Evangelista](https://github.com/cevangel/) **first contribution**
 - [Shruti Mittal](https://github.com/shrutimittal23) **first pull req!**
+- [Dushyanth Yadav v](https://github.com/Dushyanthyadav) **beginning of new journey**
 - [Kariuki Mwangi](https://github.com/kariuki79) ** first contribution**
 - [Christopher Msindo](https://github.com/Christopher-Kaiser) **Great to be here with you guys!**
 - [Kanatov Vladislav](https://github.com/lon8/) **Good day, bro!**
