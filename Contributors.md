@@ -80,6 +80,7 @@ Jojo Nigs
 - [Abhinav Pandey](https://github.com/Abhinav2656) **Hey, there this is my first contribution to open source!**
 - [N1femi](https://github.com/N1femi) **Literally confused rn but it will diminish as time passes ;)**
 - [Kaan Eren](https://github.com/eminkaaneren) **Hey everyone!)**
+- [Bisman Sahni](https://github.com/bismansahni) ** Learning open source contributions **
 - [Jake Henderson](https://github.com/Henderson-Jake) **Love ya'll**
 - [Anup Saud](https://github.com/anup810) **Reaching for the stars, one line of code at a time!**
 - [Tristen Calder](https://github.com/TristenCalder) **Hello**
