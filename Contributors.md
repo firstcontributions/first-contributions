@@ -7,6 +7,7 @@
 - [Oğuzhan Kökülü] (https://github.com/Oguzhankokulu) **22/09/2024**
 - [Inayat Hasan](https://github.com/Inayat-hasan) **thank u for making this type of open source repo it is very helpful for the first contributors like me**
 - [Jad] **My first contribution**
+- [Shaik Arfath Ali] **My First Contribution**
 - [K N S M Pavan ] **First Contribution**
 - [Ganesh M] **My First Contribution**
 - [Rick] ** Good good study **
