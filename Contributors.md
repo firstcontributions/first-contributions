@@ -205,6 +205,7 @@ Yulia Lantzberg
 - [Tanner Smallwood](https://github.com/tsmallwood23) 
 -Leopoldo Chavarria
 -Biplav Bhandari
+- Kenneth David Blake [https://www.kbtechconsulting.com] 
 - Micael Pereira da Silva
 - [Adarsh Prakash Patil](https://github.com/AdarshPatil04/) **First Open Source Contribution"
 - [Reales09](https://github.com/Reales09) ** frist Contribution  🎉**
