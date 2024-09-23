@@ -4322,6 +4322,7 @@ Jasmine
   [zoHC] (https://github.com/zoHC)
   [midhun](https://github.com/Midhun134)
 - [Sashin Trout](https://github.com/sashin123)
+- [Jordy19](https://github.com/Jordy19)
 - [Whrisper](https://github.com/SChrisper)
 - [Neethu Hari](https://github.com/Neethuharii)
 - [Matheus Ranzani](https://github.com/matheusranzani)
