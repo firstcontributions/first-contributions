@@ -8130,6 +8130,7 @@ Didac Vilarnau
 - [Oluwasanmi Triumph](https://github.com/triumph-OvO/) **This is my first contribution. I hope to have many more in the future!**
 - [Aaditi](https://github.com/AADITI-NIRFARAKE) **This is my first contribution. I hope to have many more in the future!**
 - [Jun Y]
+- [Lasantha Mudalige](https://github.com/lasanthamudalige/)
 - [Noorulhuda Usman](https://github.com/Noorulhuda-Usman) **Hello from Pakistan. My first open source contribution!**
 - [Raff Prams](https://github.com/Pramsh) **Don't let your intrusive thought win.** 
 - [Nirdesh Jain](https://github.com/Nirdeshjain1) **True analyst**
