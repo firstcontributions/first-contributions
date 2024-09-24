@@ -1,4 +1,5 @@
 # Contributors
+- [Mason] Hello World! I'm [Mason](https://github.com/MasonCodingHere)!
 - Alban Ngwa https://github.com/firstcontributions/first-contributions
 - [Joshua Tsou] First Contribution
 - [K Naga Himaja] Hello everyone! So happy to finally start my OS journey [https://www.linkedin.com/in/k-naga-himaja/]
