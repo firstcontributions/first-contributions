@@ -1499,6 +1499,7 @@ Niggesh
 - [Zakaria CHOUKRI](https://github.com/zakariaCHOUKRI)
 - [Daniel Alexandru] (https://github.com/04lex) *My first push to an open-source, hello fellow contributors!*
 - [Sanil-Surve](https://github.com/Sanil-Surve) **Good Contribution** 
+- [Prisha-Singh](https://github.com/sing1757) **Hello! This is my first contribution!**
 - [LittleSoftwareEngineer] (https://github.com/little-software-engineer) **Hello world, nice to meet you!**
 - [vansh bhatia](https://github.com/vanshbhatia2192) **My first contribution, Hello from India!
 - [Leanna T](https://github.com/morsebones) My first contribution
