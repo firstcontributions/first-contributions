@@ -3998,6 +3998,7 @@ Jasmine
 - [Jakub Cabala] (https://github.com/jCabala)
 - [Tyler Austin]
 - [Patel Tirth](https://github.com/p-tirth)
+- [Yousef Farge](http://github.com/yfarge)
 - [Terry]
 - th0rnium
 - [Brady Wisniewski]
