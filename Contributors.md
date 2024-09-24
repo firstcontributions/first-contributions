@@ -8174,3 +8174,4 @@ Didac Vilarnau
 - [Kenil Sudani](https://github.com/Super-Kenil)  **Location: Her Heart**
  ### Read Jokes Below:
   1. What do you call a thieving alligator?    ->  A crookodile!​                                                           
+  2. Do you know what the word 'was' was initially?     -> Before was was was was was is.
