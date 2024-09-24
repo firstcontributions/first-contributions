@@ -3732,6 +3732,7 @@ guanj65
 - [NandaMonroe](https://github.com/NandaMonroe)
 - [Varun Krishnan](https://github.com/Varun-Krishnan1)
 - [Huang Jingheng](https://github.com/JohnHenryEden)
+- [Duniel Mesa Diaz](https://github.com/dunielm02) **Rigth in the middle. The journey begins...**
 - [Jeswin](https://github.com/Jesiwn)
 - [waltofalltrades]
 - [wagger]
