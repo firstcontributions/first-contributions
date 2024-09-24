@@ -154,6 +154,7 @@ I am glad to use Github
 - [Santiago Ocampo](https://github.com/santiocampo1)**Nice**
 - [Carlos](https://github.com/DevmonCoder) **First contribution - Committed to learn and build amazing things with the community! 🌱🔧!**
 - [Prueba](https://prueba)**prueba**
+- [Gurpreet Singh](https://github.com/Gurpreets11) **Ready to start contributing!**
 - [Ibrahim Anifowoshe](https://github.com/IbrahimAni)**Initial contribution**
 - [Ravikant Jangir](https://github.com/Marcos331305) **Ready to Start Open Source**
 - [Esneldy Caballero](https://github.com/Esnelbel) **First contribution**
