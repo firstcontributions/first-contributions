@@ -496,6 +496,7 @@ Onyi Ajoku😄 #My very first contribution! Excited for whats to come.******
 - Sammy Farida -[(GitHub)](https://github.com/samerfarida) [(Linkedin)](https://www.linkedin.com/in/sammyfarida/) 
 - [Keyrun Shrestha](https://github.com/DEADBODY142/)**First time contributing**
 - [Iván Luis Leiva](https://github.com/illeiva2) **Hi everyone! This is my first contributing on opensource code**
+- [Mridul Sharma](https://github.com/MridulSharma2105) **Hi everyone! This is me from India making my first contribution on opensource code**
 - [Abhinav Reddy](https://github.com/abhinavreddy05) **One of many to go**
 - [Darren Christie](https://github.com/TheGreatDefector/first-contributions) **Open Source FTW!**
 - [Robert J.] (https://github.com/HoveBroker)
