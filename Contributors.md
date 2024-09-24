@@ -7,6 +7,7 @@
 - [eswari](https://github.com/saieswari2005) **this is my first contribution if it is accepted i am so happy!**
 - [Oğuzhan Kökülü] (https://github.com/Oguzhankokulu) **22/09/2024**
 - [Inayat Hasan](https://github.com/Inayat-hasan) **thank u for making this type of open source repo it is very helpful for the first contributors like me**
+- [Samantha Tamiosso - smiosso] **I am so happy to -be- here**
 - [Jad] **My first contribution**
 - [Shaik Arfath Ali] **My First Contribution**
 - [K N S M Pavan ] **First Contribution**
