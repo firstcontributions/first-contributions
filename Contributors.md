@@ -4080,6 +4080,7 @@ Jasmine
 - [Zestoo](https://github.com/zesto-shoaib/)
 - [Devansh Garg](https://github.com/garg-tech)
 - [Muskaan Bhargava](https://github.com/muskaanbh)
+- [Angelo Rodelas](https://github.com/Gelatino0308)
 - [ashrees](https://github.com/ashrees)
 - [Xia3412](https://github.com/Xia3412)
 - [Kavin Prrasad Arjunan](https://github.com/thulaa-glory)
