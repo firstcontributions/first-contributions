@@ -496,6 +496,7 @@ Onyi Ajoku😄 #My very first contribution! Excited for whats to come.******
 - [Kyra Cho](https://github.com/kyracho)
 - [snowhawk1000](https://github.com/snowhawk1000)
 - [Mitchell Friess]
+-
 - [Jame Gross](https://github.com/Jamesa144)
 - [Ahaan Desai](https://github.com/ahaandesai27)
 - [Madalyn Bartman](https://github.com/madalynbartman) **woo! go OS!!** 
@@ -552,7 +553,7 @@ Sheila Akoto
 - [Devanshi-Bavaria](https://github.com/Devubavariaa) **Learning to contribute to open source!!**
 - [@venelouis](https://github.com/venelouis) **Contributing!**
 - [Ahmad Ishaque Karimi](https://github.com/Ahmadishaque)**Trying out a new thing just like many other here heehee**
-i
+Hello
 - [Shreyash Waghe] (https://github.com/Shreyashwaghe) **As they say, A journey of a thousand miles begins with a single step**
 - [Wee Ki Joon](https://github.com/weekijoon) **First of many**
 - [Prabha Krishna](https://github.com/tpks27) **My First Contribution Open Source**
