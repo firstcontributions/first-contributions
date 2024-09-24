@@ -8173,4 +8173,4 @@ Didac Vilarnau
 - [Anish Poudel](https://github.com/anishpoudel007) **Hello from Nepal**
 - [Kenil Sudani](https://github.com/Super-Kenil)  **Location: Her Heart**
  ### Read Jokes Below:
-  ​                                                           
+  1. What do you call a thieving alligator?    ->  A crookodile!​                                                           
