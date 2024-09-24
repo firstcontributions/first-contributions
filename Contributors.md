@@ -5222,6 +5222,7 @@ Parthiv Saikia
 - [chief-fei](https://github.com/chief-fei)
 - [Sushant](https://github.com/sushxnt)
 - [Edward Bordenave](https://github.com/ebordenave)
+- [Ashwin Anand](https://github.com/AshwinAnand868/) **Hopefully, my open source contribution journey begins here. Period.**
 - [Ojo Tolulope] (https://github.com/tolu1123)
 - [Mohamed Amine Basdouri](https://github.com/MohamedAmin324)
 - [JamZ](https://github.com/JamZYM)
