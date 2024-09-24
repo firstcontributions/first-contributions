@@ -13,6 +13,7 @@
 - [Inayat Hasan](https://github.com/Inayat-hasan) **thank u for making this type of open source repo it is very helpful for the first contributors like me**
 - [Samantha Tamiosso - smiosso] **I am so happy to -be- here**
 - [Jad] **My first contribution**
+- [Avanish Mallya] **My First Contribution**
 - [Shaik Arfath Ali] **My First Contribution**
 - [K N S M Pavan ] **First Contribution**
 - [Worlanyo Kwabla Kporfeame](https://github.com/kworlanyo) **First Contribution**
