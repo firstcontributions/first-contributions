@@ -125,9 +125,10 @@ Jojo Nigs
 - [Lishin V S](https://github.com/Ellvius/) **Venturing into the world of Open Source**
 - [Levi Ly](https://github.com/levihly) **bepbepbep**
 - [Abhinav Surya](https://github.com/Abhinavsuryakolla) **My First Contribution**
+- [Ambuj Baranwal](https://github.com/ambuj-baranwal) **My First Contribution**
 - [Alonso Garcia](https://github.com/abg287) **Awesome Sauce**
-- [Kunal Suraniya](https://github.com/suraniyakunal) ** It's Fun
-- [Gilberto Valdez Arreola] (https://github.com/GilVA1) ** step zero **
+- [Kunal Suraniya](https://github.com/suraniyakunal) ** It's Fun **
+- [Gilberto Valdez Arreola](https://github.com/GilVA1) ** step zero **
 Sabrina J Valcin
 - [Josef Wolf](https://github.com/JosefJW)
 - [Thilina Jayamal](https://github.com/ThilinaJayamal)
