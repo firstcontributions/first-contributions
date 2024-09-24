@@ -474,6 +474,7 @@ Ahmad
 - [Beverly White](https://github.com/bevyw8888) **First contribution**
 - [Umair Khan](https://github.com/umairrkhan009) **Added my name to the contributors list as my first open-source contribution. Excited to start my open-source journey!**
 - [Mohith](https://github.com/mohithbanka)
+- [Sushanth](https://github.com/Sushanth6229)
 - [Meeran Tofiq](https://github.com/Meeran-Tofiq) **First of many, many, MANY more to come**
 - [Tanapat Samranchit](https://github.com/1jamessam)
 - [Monojit Tewari](https://github.com/FlowerC9) **new to os**
