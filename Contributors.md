@@ -8151,6 +8151,7 @@ Didac Vilarnau
 - [Nathan Valero](https://github.com/elnathval) **vago de los cojones**
 - [Animesh Kotka](https://github.com/AnimeshKotka) **Hello World**
 - [Joseph Ekpaha-Kwofie](https://github.com/KingMastana) **Hello Open Source, I am here to stay**
+- [dareckolo](https://github.com/dareckolo) **help**
 
 
   ​                                                           
