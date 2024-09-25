@@ -1,4 +1,5 @@
 # Contributors
+- [Paulo Marchi](https://github.com/paulomarchi) **My first contribution**
 - [Hrshal Bhosale](https://github.com/Harshal-Bhosale )**<Optimized Database Queries for 30% Faster Load Times>** potential next contribution!!
 - [Sai Srujan Reddy Pothamsetti](https://github.com/SaiSrujanReddyP)Hi, I'm a  CTF player of team bi0sblr, I do OSINT and Web Exploitation. I am also an aspiring Full Stack Developer. Feel free to connect on [Linkedin](www.linkedin.com/in/pothamsetti-sai-srujan-reddy)!. 
 - [Hafiz Mahamud](https://github.com/hafizmahamud )Hi, i am happy to be a contributer in Github. Feel free to connect!.
