@@ -1090,6 +1090,7 @@ Yulia Lantzberg
 -Biplav Bhandari
 -Lin Yuan
 - [Eduardo GOMES Araujo](https://github.com/eduardoGomesAraujo)
+- B Carpenter
 - Micael Pereira da Silva
 - [Adarsh Prakash Patil](https://github.com/AdarshPatil04/) **First Open Source Contribution"
 - [teodnz](https://github.com/teodnz) **testing testing trying**
