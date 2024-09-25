@@ -6669,3 +6669,4 @@ Hey There
 - [angelica-help](https://github.com/angelica-help)**It is really a talented idea to create it for the beginner**
 - [kotteeshwaran](https://github.com/kotteeshwaran) **first_opensource**
 - [wolf-966](https://github.com/wolf-966) **first_opensource**
+- [OmarSamim](https://github.com/Omar-samim) **first-app**
