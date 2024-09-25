@@ -1222,6 +1222,7 @@ mh
 - [Ahmed Said](https://github.com/AhmedSaid3617) **My first open-source contribution**
 - [Dina Haker](https://github.com/DinaHaker) **First Open Source Contribution**
 - [Ismael Rios](https://github.com/AhmedSaid3617) **My first open-source contribution 17/07/2024**
+- [SenhorCafe](https://github.com/FernandoBersellini) **Minha primeira contribuição open-source 🤠 25/09/2024**
 - [Donald](https://github.com/Nodebaron) **First Open Source Contribution**
 - [Mohamed Shalaby](https://github.com/ms766/ms766) **First Open Source Contribution ⚡️**
 - [Dennis Mwongera](https://github.com/DennisMwongera) **First Open Source Contribution on 2024-09-12**
