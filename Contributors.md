@@ -76,6 +76,7 @@
 - [Daniella Elsie](https://github.com/codercodingss) **Hello, let's do this💪**
 - [Misha Kharkovski](https://github.com/misha-khar) ** My first contribution!! **
 - [Victor_B](https://github.com/VictorBassas)**La meva contribution**
+- [Giovanni Clini](https://github.com/Giovanniclini)**First contribution here, hope it will be the first of many!**
 - [Niginabonu Isamukhamedova](https://github.com/nigina23) ** Hello Girls! I'm from Usbekistan! Let's code and study together :))**
 - [Segiterio](https://github.com/segiterio) **This is my First Contribution**
 - [Kiruthika](https://www.linkedin.com/in/kiruthika-subramanian-920964298/)**This is my First Contribution**
