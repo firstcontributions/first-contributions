@@ -989,6 +989,7 @@ Rudraksh Upadhyay- learing to contribute in open source projects
 -[Ahmed Obaidullah](https://github.com/ahmedobaid23) **First Contribution!**
 -[Fahim Foysal](https://github.com/fahim-is-zero)  **Heyyyy People**
 - Ammar
+- [Larry Barreto](https://github.com/larrysbarretot) _Learning how to cotribute_, **thx** ❤️
 - EMR
 -[Ganang abimanyu](https://github.com/ganangAbimanyu) **persta rakyat indonesia cooming really soon homie!!**
 -[Sitotaw Ashagre](https://github.com/yotors) **May be the first appearance in the os contribution realm**
