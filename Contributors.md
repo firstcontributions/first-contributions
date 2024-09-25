@@ -174,6 +174,7 @@ I am glad to use Github
 - [Rakesh Mishra](https://github.com/NameawaShinderu) **Starting with a small contribution**
 - [deepak kumar](https://github.com/Deepak-kumar-2023)**i am good**
 - [Santiago Ocampo](https://github.com/santiocampo1)**Nice**
+- I'm [jjasardi](https://github.com/jjasardi) **Yabadabadu!**
 - [Carlos](https://github.com/DevmonCoder) **First contribution - Committed to learn and build amazing things with the community! 🌱🔧!**
 - [Prueba](https://prueba)**prueba**
 - [DanR](https://github.com/DanielRamos84) **So what's up** 😎
