@@ -8178,6 +8178,7 @@ Didac Vilarnau
 - [Franco Blanco](https://github.com/FrancoBlanco93) **Saludos desde Argentina wachines**
 - [Montserrat Lopez](https://github.com/cutmountain) **So excited with my first contribution!**
 - [Pedro Castro](https://github.com/peucastro/) **Hello from Porto-PT!**
+- [Guillermo](https://github.com/CWCreacionWeb) **Hello from Barcelona**
 - [Oluwasanmi Triumph](https://github.com/triumph-OvO/) **This is my first contribution. I hope to have many more in the future!**
 - [Aaditi](https://github.com/AADITI-NIRFARAKE) **This is my first contribution. I hope to have many more in the future!**
 - [Jun Y]
@@ -8193,5 +8194,3 @@ Didac Vilarnau
 - [Anish Poudel](https://github.com/anishpoudel007) **Hello from Nepal**
 - [Sribastav](https://github.com/prajguru54/) **My first contribution**
 - [Kenil Sudani](https://github.com/Super-Kenil)  **Location: Her Heart**
-
-  ​                                                           
