@@ -10,6 +10,7 @@
 - [Habibul Mursaleen](https://github.com/hmursaleen) **Trying my first contribution**
 - [Muhammad Ahmed](https://github.com/Ahm3d-Shaikh) **My first contribution**
 - [Joshua Tsou] First Contribution
+- Hey folks! [GURRAM YOGIT](https://github.com/yogit043) here . Thrilled to be part of the open source community.
 - [K Naga Himaja] Hello everyone! So happy to finally start my OS journey [https://www.linkedin.com/in/k-naga-himaja/]
 - [I K Kevin Samuels] *2024 1st year *[https://www.linkedin.com/in/i-k-kevin-samuels-800689321/]
 - [John Dev](https://github.com/danish )Hi, i am happy to be a contributer in Github. Feel free to connect!.
