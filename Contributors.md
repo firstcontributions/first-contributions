@@ -7997,6 +7997,7 @@ Hey There
 - [RichardKF] (https://github.com/RichardKF) **This is suspiciously easy...**
 - [wbmper] (https://github.com/wbmper) **Hello from South Korea (@J@)**
 - [SathyaBalaji] (https://github.com/sathyagb4)
+- [Netnet78] (https://github.com/Netnet78) **First contribution!!! Let's gooooo!!!!**
 - [xjaylandero] (https://github.com/Jhayrolandero) **Hello, World! 01-08-2024**
 - [Matthew Speake] (https://github.com/mspeake161)
 - [Lucas Bautista] (https://github.com/Lucas-Bautista) **Let's do this!!!**
