@@ -1479,6 +1479,7 @@ Vedant Raut here and this is my first Contribution
 - [Arul MUrugan](https://github.com/ArulMurugan13)
 - [frankfolabi](https://github.com/frankfolabi) ***DevOps Engineer*** Connect with me on ![LinkedIn](https://linkedin.com/in/frankfolabi) 
 - [Mowriyaa BK](https://github.com/techiemow)
+- [Stacy Deng] (https://github.com/stacy-d-610) Cheers to the start of a new journey!
 - [SHIVAM](https://github.com/GH-Shivam007)
 - [DavidUGH](https://github.com/DavidUGH)
 - [Ammar Qazi](https://github.com/ammar-qazi)
