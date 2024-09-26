@@ -196,6 +196,15 @@ Now submit the pull request.
 
 Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
+## Beginner Tips
+1. Take it step by step, contributing to a project can feel overwhelming at first but break down the process and make it manageable. Start with small changes and be sure to follow instructions/documentation closely
+
+2. Get comfortable with Git! If you're unfamiliar with Git reread the README and try to understand the various Git commands provided.
+
+3. Don't be afraid to ask for help! We welcome new contributions and if you're unsure about something don't be afraid to ask the community for help!
+
+4. Learn by doing, making mistakes is part of the learning process. The important thing to do is keep trying and learning. Take note of feedback and don't be discouraged by it.
+
 ## Where to go from here?
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
