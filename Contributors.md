@@ -22,6 +22,7 @@
 - [Muhammad Ahmed](https://github.com/Ahm3d-Shaikh) **My first contribution**
 - Gayathri (https://github.com/Gayathri-Gondi) My first contribution
 - [Eren Jeager] First Contribution
+- [Tiziano Carranza](https://github.com/tizianocarranza) **My first contribution, thank you guys!**
 - [Joshua Tsou] First Contribution
 - Hey folks! [GURRAM YOGIT](https://github.com/yogit043) here . Thrilled to be part of the open source community.
 - [K Naga Himaja] Hello everyone! So happy to finally start my OS journey [https://www.linkedin.com/in/k-naga-himaja/]
