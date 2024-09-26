@@ -982,6 +982,7 @@ Rudraksh Upadhyay- learing to contribute in open source projects
 - Ananthakrishna K
 - Anton
 - [Subham Agarwala](https://github.com/subham-agarwal05)
+- [Vihaan Pradeep](https://github.com/Vihaan-Pradeep) **Contributing to an Open source!!**
 - [Krithik Ravindran](https://github.com/krithikravi) **First of many hopefully**
 - Asyraf Zaid first contribution on GitHub [Hi developers!]
 - [Joseph W. Allen](https://github.com/jwallen3801) **Hey everybody**
