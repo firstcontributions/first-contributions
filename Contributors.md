@@ -95,7 +95,8 @@
 - [Faruk idris](https://github.com/farooq13) **Thanks for providing such repository**
 -[Nicco mai]
 -[Naj](Man this is overwhelming but not impossible!)
-Jojo Nigs
+Jojo 
+- hello
 - ['Layomi Lawore](https://github.com/Layomi1) **My journey into the world of open source**
 - [Jenny](https://github.com/JenniferLA) **Ayeeee first contribution:) Thank you for the help!**
 - [Kamyar Bashar](https://github.com/JustMrNone)**₮ØØ ₩ɆłⱤĐ ₮Ø ⱠłVɆ, ₮ØØ Ɽ₳ⱤɆ ₮Ø ĐłɆ!**
