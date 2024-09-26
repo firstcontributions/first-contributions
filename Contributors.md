@@ -71,6 +71,7 @@
 - [Adriano Garcia](https://github.com/adrianogtl) **Hello world! This is my first contribution 🙂**
 -[Vaks]
 -[Alex](https://github.com/Alex-S1by)
+-[Aashika](https://github.com/aashika-j18)
 - [Mayur Tekale](https://github.com/mayurr7) *Hi everyone! follow me I will follow you back👨‍💻*
 - [Divya Kumar](https://github.com/divyakhatiyan) ** Learning to contribute by starting with first contribution**
 - [Mads Rehof](https://github.com/madsrehof) **My first contribution!**
