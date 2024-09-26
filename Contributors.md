@@ -570,7 +570,7 @@ Onyi Ajoku😄 #My very first contribution! Excited for whats to come.******
 - [Danielle Gaither](https://github.com/daniellegaither) **The tech comeback is on!**
 - [Elly Bachubila](https://github.com/EllyBax) **Hello developers, let me in!**
 - [Elie-Simard](https://github.com/Elie-Simard) **Hello there, first contributors**
-- [Alaa](https://github.com/alaafsmk) **Hello World, First ever public contribution! Thank you firstcontributions!**
+- [Alaa](https://github.com/alaafsmk) **Hello World, my first ever public contribution! Thank you firstcontributions!**
 - [TrungAnhVu](https://github.com/trunganhvu) **I'm a Vietnamese guy😉, readly happy to connect with everyone. Ping me and let's code together😎😎**
 - [ManhTrinhNguyen](https://github.com/ManhTrinhNguyen)**Hello guys! Let's start the journey together**
 - [@Condition00](https://github.com/Condition00) **Heya!! my journey starts here!!**
