@@ -17,6 +17,7 @@
 - Alban Ngwa https://github.com/firstcontributions/first-contributions
 - [Habibul Mursaleen](https://github.com/hmursaleen) **Trying my first contribution**
 - [Muhammad Ahmed](https://github.com/Ahm3d-Shaikh) **My first contribution**
+- [Eren Jeager] First Contribution
 - [Joshua Tsou] First Contribution
 - Hey folks! [GURRAM YOGIT](https://github.com/yogit043) here . Thrilled to be part of the open source community.
 - [K Naga Himaja] Hello everyone! So happy to finally start my OS journey [https://www.linkedin.com/in/k-naga-himaja/]
