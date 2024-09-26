@@ -30,6 +30,7 @@
 - [Samantha Tamiosso - smiosso] **I am so happy to -be- here**
 - [Jad] **My first contribution**
 - [Avanish Mallya] **My First Contribution**
+- [Thelen] **First contribution
 - [Shaik Arfath Ali] **My First Contribution**
 - [K N S M Pavan ] **First Contribution**
 - [Worlanyo Kwabla Kporfeame](https://github.com/kworlanyo) **First Contribution**
