@@ -2768,6 +2768,7 @@ git add Contributors.md# Contributors
 111111111111111111111111111111111
 - [iv660](https://github.com/iv660)
 - Kevin Liu
+- [Harshit Agarwal](https://github.com/Harshit-Agarwal-2022)
 - goodCircle
 - [Om Singh](https://github.com/fieryprofessor)
 - [Vikas Kumar](https://github.com/vikaskumar168)
