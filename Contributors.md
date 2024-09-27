@@ -1,5 +1,6 @@
 # Contributors
 - Hello World! I'm [Shankhya Subhra Chatterjee](https://github.com/SSC-SDE). **Cheers to the community of never ending learning!**
+- [Dumitrescu Richárd Ádám] (https://github.com/Trescu) **newbie**
 - [nchong128](https://github.com/nchong128) was here!
 - Hello People this is my First time Github!. [Taeos](https://github.com/taeos). 
 - Hello fellow first time GitHub users! [Andrew Thomas](https://github/com/asteng88). **Thrilled to be learning new things every day from an awesome community!**
