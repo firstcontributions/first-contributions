@@ -8253,5 +8253,5 @@ Didac Vilarnau
 - **Hello, from Kenya** [Njoro90260](https://github.com/Njoro90260)here. Let's connect on [LinkedIn](https://www.linkedin.com/in/peter-njoroge-71b689251/).
 - Samuel G
 - [**Krishna Chaitanya**](https://github.com/ekrishnachaitanya2004) Creater of [Dev-BLogs](https://developersblogs.netlify.app)
-
+- [Leexyy0804] (https://github.com/leexyy0804) **Start of my open source journey**
   ​                                                           
