@@ -16,6 +16,7 @@
 - [Daksh Malhotra](https://github.com/DakshMalhotra15) Hey all, I am a compsci student in my final year exploring open source programming.
 - **[Dharmendra Ahirwar](https://github.com/Kilvish25/)** Bliss! My first open-source contribution. Let's get started. Lets Connect on [LinkedIn](https://www.linkedin.com/in/kilvish25/) and collaborate.
 - [Hafiz Mahamud](https://github.com/hafizmahamud )Hi, i am happy to be a contributer in Github. Feel free to connect!.
+- [Elijah Frempong](https://github.com/elijah-6) Hey all, let's get better and better.
 - Hi everyone, [Rishi](https://github.com/rishikesanr) here! Excited to contribute to the open source.
 - [Alyssa Risius](https://github.com/alrisius1) ** First Contribution**  
 - [Super Kenil](https://github.com/Super-Kenil) **If you are reading this, Remember, I'll always Love You**
