@@ -3484,6 +3484,7 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
 -[Ajani Timothy](https://github.com/Tim1119)
 - [Wah Vanessa](https://github.com/Vanessa082)
 - [Arturo](https://github.com/jarclep)
+- [Tirth Thoria](https://github.com/AceAltair13)
 - [Yauhen Yushkevich](https://github.com/eugenyush)
 - [Maxwell Bruce](https://github.com/MWBruce)
 - [Yodit Abebe] (https://github.com/yodit93)
@@ -8259,5 +8260,4 @@ Didac Vilarnau
 - **Hello, from Kenya** [Njoro90260](https://github.com/Njoro90260)here. Let's connect on [LinkedIn](https://www.linkedin.com/in/peter-njoroge-71b689251/).
 - Samuel G
 - [**Krishna Chaitanya**](https://github.com/ekrishnachaitanya2004) Creater of [Dev-BLogs](https://developersblogs.netlify.app)
-
-  ​                                                           
+                                         
