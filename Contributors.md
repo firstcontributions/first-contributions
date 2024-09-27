@@ -2270,6 +2270,7 @@ chiu
 - hi!!!👋👋👋
 - nuraaaiiiii 
 - [Gracy Garg](https://github.com/amoiba42)
+- [Guilherme Freschi](https://github.com/guifreschi) **My first open source contribution!**
 - [Aditya Narayanan S](https://github.com/adityanarayanan343)
 - [Sandhya Srinivasan](https://github.com/sandhyasrini)
 - [Shay Asanova](https://github.com/shay122990)
