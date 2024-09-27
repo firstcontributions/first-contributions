@@ -7,6 +7,7 @@
 - Hello, [Hope Walton](https://github.com/HopeWalton) here! Excited to contribute to the open source. Feel free to connect on [Linkedin](https://www.linkedin.com/in/hope-walton1994/)!
 - [Paulo Marchi](https://github.com/paulomarchi) **My first contribution**
 - [Mohamed Salah Arfa](https://github.com/MedSalahArfa1) **My first contribution**
+- Hello! I am Srihari aka sambar-boi **My first Open source contri**
 - [Hrshal Bhosale](https://github.com/Harshal-Bhosale )**<Optimized Database Queries for 30% Faster Load Times>** potential next contribution!!
 - [Sai Srujan Reddy Pothamsetti](https://github.com/SaiSrujanReddyP)Hi, I'm a  CTF player of team bi0sblr, I do OSINT and Web Exploitation. I am also an aspiring Full Stack Developer. Feel free to connect on [Linkedin](www.linkedin.com/in/pothamsetti-sai-srujan-reddy)!. 
 - [Daksh Malhotra](https://github.com/DakshMalhotra15) Hey all, I am a compsci student in my final year exploring open source programming.
