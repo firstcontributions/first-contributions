@@ -6500,6 +6500,7 @@ LadegbayeStella)
 - [kich-ryo](https://github.com/kich-ryo)
 - [Akbar Khotamov] (https://github.com/kingoker)
 - [Anna Muse] (https://github.com/anna-muse)
+- [Felix Boachie](https://github.com/FelixNotter)
 - [Anna](https://github.com/AnnaWijetunga)
 - [James M-staxxtec] (https://github.com/staxxtec)
 - [tomato]
