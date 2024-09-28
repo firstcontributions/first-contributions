@@ -79,6 +79,7 @@
 - [Miquel] ** Testing **
 - [Gourav Rawat] ** firstone **
 - [Tanish Kushwaha](https://github.com/tanishkushwaha) My first contribution!
+- [Dalveer Singh] (https://github.com/Dalveer-Singh) **Still Learning**
 - [Kethavrapu Likhitha] (https://github.com/Kethavarapu-Likhitha) **Hello, Lets discuss to open contribution**
 - [Dharma Krishnan](https://github.com/Dharma-krishnan)**My First One, gets to go**
 - [Shaheer Mansoor](https://github.com/Shaheer5) **On the way to create robust apps**
@@ -215,6 +216,7 @@ I am glad to use Github
 - [Murat Ishen](https://github.com/matishen7) **first contribution :))**
 - [Debopriyo Chakrabarty](https://github.com/debapcha) **Starting with a small contribution**
 - [Riley Calhoun][https://github.com/rileycalhoun] **first contribution!**
+- [Dalveer Singh] (https://github.com/Dalveer-Singh) **Still Learning**
 - [Jadyn Calhoun](https://github.com/jadynlaila)
 - [Samuel Olorunfemi](https://github.com/olorunfemisamuel) **first contribution**
 - [jdd](https://github.com/jadynlaila) **first contribution!**
