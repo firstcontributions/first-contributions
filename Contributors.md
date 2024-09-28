@@ -248,6 +248,7 @@ I am glad to use Github
 - [Bishwas Bhatt](https://github.com/bishwasbhatt2) ** First time contributing in open source **
 - [BVI Engineer](https://github.com/bviengineer) **Coding is a journey, join in!**
 - [Enrique Uribe](https://github.com/UribeJr) **LEGOOOO**
+- [John Patrick Valera](https://github.com/withoutwax13) **Hi**
 - [El Mehdi Souiyah](https://github.com/mehdi1193) **Moroccan guy making his first Contribution**
 - Andrew Gajewski
 - CarlosMartinez
