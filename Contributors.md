@@ -8265,6 +8265,7 @@ Didac Vilarnau
 - Samuel G
 - [**Krishna Chaitanya**](https://github.com/ekrishnachaitanya2004) Creater of [Dev-BLogs](https://developersblogs.netlify.app)
 - [Karan Swami](https://github.com/Karan3304)
+- [a-lebed](https://github.com/a-lebedynets) **Let's begin!!!**
 - [Buddhi Wickramasinghe] (https://github.com/buddhiW) **Starting my Open Source journey!**
 - [Paolo Lache] (https://github.com/paololache) **My first step as a dev**
 
