@@ -265,7 +265,7 @@ I am glad to use Github
 - [Zafira Ibraeva] (https://github.com/zafirazz) **First contribution!**
 - [Jayesh Purswani](https://github.com/jerry-xon) **Hey this is my first contribution please view my profile to work together** 
 - [Chagit Alexander](https://github.com/chagitA) **This contribution is in memory of Chandler Bing🐥🦆**
-
+- [CommandoBryxe](https://github.com/CommandoBryxe) **What's up, ladies and gentlemen? Behold, my first contribution!**
 - [Adam Johnston](https://github.com/uxillary) **Scottish Contribution - Freedom!!**
 - [SkkDevCraft](https://github.com/skkdevcraft) **"Most programmers do programming because it is fun." _Linus Torvalds_**
 - [Isaac Schwarz](https://github.com/shantz14) **Lets get it gamers**
