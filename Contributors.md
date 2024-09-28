@@ -66,6 +66,7 @@
 - [Rick] ** Good good study **
 - [Rohith Kumar K] **My First Contribution**
 - [Sarthak Tyagi](https://github.com/itSarthak) **I am really glad you guys made something like this. Helps a lot!**
+- [Dhruti Purushotham] (https://github.com/Dhru3) **Learning git for the first time, while Gaurav Shetty is on ft helping me w this!**
 - [Hariprasath(https://github.com/Hariprasathk13)   **Hello World! This is my first OS contribution. Ping for Flutter Projects ** [https://www.linkedin.com/in/hari-prasath-k-81a2b227a/]
 - [Sergio Niño] (https://github.com/sergiend) **😇First steps with gitHub 👨🏽‍💻**
 - [Siddharth] (siddharthruria) **looking forward to understand open source with this**
@@ -8276,5 +8277,4 @@ Didac Vilarnau
 - [a-lebed](https://github.com/a-lebedynets) **Let's begin!!!**
 - [Buddhi Wickramasinghe] (https://github.com/buddhiW) **Starting my Open Source journey!**
 - [Paolo Lache] (https://github.com/paololache) **My first step as a dev**
-
   ​                                                           
