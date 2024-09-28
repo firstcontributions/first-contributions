@@ -8270,5 +8270,5 @@ Didac Vilarnau
 - [Karan Swami](https://github.com/Karan3304)
 - [Buddhi Wickramasinghe] (https://github.com/buddhiW) **Starting my Open Source journey!**
 - [Paolo Lache] (https://github.com/paololache) **My first step as a dev**
-
+- [GMohammadAli](https://github.com/GMohammadAli) **Hello, I am Ali from India**
   ​                                                           
