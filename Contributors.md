@@ -2821,7 +2821,7 @@ git add Contributors.md# Contributors
 - [Anshul Dongre](https://github.com/dongre17)
 - [ewh0](https://github.com/ewh0)
 - [Saleem Djima]
-- D
+- [Meet Sisodiya](https://github.com/Meetsisodiya50)
 - [deanisty](https://github.com/deanisty)
 - [linahamila](https://github.com/linahamila)
 - [Kabil Shrestha](https://github.com/Kabilshr)
