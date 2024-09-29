@@ -8055,6 +8055,7 @@ Hey There
 - [jolsefu](https://github.com/jolsefu)
 - [chengh233](https://github.com/chengh233) **Happy Friday!**
 - [YSevenK](https://github.com/YSevenK) **Long live the people**
+- [lucaase](https://github.com/lucaase) **Never too late for a first public PR :)**
 - [WickedzFrost] (https://github.com/wickedzfrost) **First contribution. 29/7/2024**
 - [nx-xn2002](https://github.com/nx-xn2002) **Hello everyone, this marks my maiden contribution to an open-source project, but it won't be my last**
 - [Valentino Valle](https://github.com/ValentinoValle)
