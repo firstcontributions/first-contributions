@@ -3631,6 +3631,7 @@ Kencham Vinay
 - [Darshan Gaikwad 🔱](https://github.com/darshangaikwad4114)
 - [Philip John](https://github.com/jpngeta)
 - [Abhiroop Tejomay](https://github.com/the-neural-networker): Long time coming!
+- [D L Siem](https://github.com/DLSiem) **Gear Second-oh**
 - [Ngeta John](https://github.com/jpngeta)
 - [JAGNATH SHANKER](https://github.com/jagnathshanker)
 - [Rene Ruano](https://github.com/reneruano95)
