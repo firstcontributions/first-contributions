@@ -8290,5 +8290,5 @@ Didac Vilarnau
 - [Paolo Lache] (https://github.com/paololache) **My first step as a dev**
 - [Kiran Patil](https://github.com/Kiranpatil02) **First PR for the OS 🚀**
 - [Leexyy0804](https://github.com/leexyy0804) **Start of my open source journey**
-  
+- [Oleg Cheban](https://github.com/OlegCheban) **Thanks, guys, for this little journey.**
   ​                                                           
