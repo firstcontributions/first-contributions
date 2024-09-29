@@ -8312,5 +8312,5 @@ Didac Vilarnau
 - [PavitraSharma01](https://github.com/PavitraSharma01)(** Hello evryone, let's start the Open Source ontribution journey!!!**
 - [Oleg Cheban](https://github.com/OlegCheban) **Thanks, guys, for this little journey.** 
 - [1052356](https://github.com/1052356) **Trying my best.** 
-  [Gaurav Singh Tomar](https://github.com/Tomar606) The aspirations I had with life seem harder and harder with time. Anyways, here goes nothing. ;)
+- [Gaurav Singh Tomar](https://github.com/Tomar606) The aspirations I had with life seem harder and harder with time. Anyways, here goes nothing. ;)
   ​                                                           
