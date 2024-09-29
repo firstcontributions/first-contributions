@@ -8282,6 +8282,7 @@ Didac Vilarnau
 - [**Krishna Chaitanya**](https://github.com/ekrishnachaitanya2004) Creater of [Dev-BLogs](https://developersblogs.netlify.app)
 - [Karan Swami](https://github.com/Karan3304)
 - [a-lebed](https://github.com/a-lebedynets) **Let's begin!!!**
+- [David Ma](https://github.com/madavidcoder) **Hello World! My first PR!!!!!**
 - [Buddhi Wickramasinghe] (https://github.com/buddhiW) **Starting my Open Source journey!**
 - [Paolo Lache] (https://github.com/paololache) **My first step as a dev**
 - [Kiran Patil](https://github.com/Kiranpatil02) **First PR for the OS 🚀**
