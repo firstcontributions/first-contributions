@@ -7759,6 +7759,7 @@ Hector
 - [Dabi-ayu](https://github.com/Dabi-ayu) : I'm a Cameroonian
 - [SkyrimgamerDovahkiin](https://github.com/SkyrimgamerDovahkiin) : I play Skyrim!
 - [SahilRaj1](https://github.com/SahilRaj1)
+- [Vaishnavi](https://github.com/VaishnaviShirsath11)
 - [Michael](https://github.com/mtcode16)
 - [Nyle](https://github.com/nah353)
 - [Divyank](https://github.com/divyankbhalla)
