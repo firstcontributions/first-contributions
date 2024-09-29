@@ -29,6 +29,7 @@
 - [Hafiz Mahamud](https://github.com/hafizmahamud )Hi, i am happy to be a contributer in Github. Feel free to connect!.
 - [Elijah Frempong](https://github.com/elijah-6) Hey all, let's get better and better.
 - Hi everyone, [Rishi](https://github.com/rishikesanr) here! Excited to contribute to the open source.
+- [Dhruv Kadam](https://github.com/DhruvKadam-git )Hi, i am happy to be a contributer in Github. Feel free to connect!.
 - [Alyssa Risius](https://github.com/alrisius1) ** First Contribution**
 - [Davi Brasileiro](https://github.com/Redondave) **Expanding on my Github skills!**
 - [Super Kenil](https://github.com/Super-Kenil) **If you are reading this, Remember, I'll always Love You**
@@ -43,6 +44,7 @@
 - [Eren Jeager] First Contribution
 - [Tiziano Carranza](https://github.com/tizianocarranza) **My first contribution, thank you guys!**
 - [Kjetil Paulsen](https://github.com/noorac) **Thanks for the opportunity to make my first contribution!
+- [Yogesh Singh](https://github.com/yogesh3singh) **My first contribution, thank you guys!**
 - [Anvisha Vartak](https://github.com/Anvisha2004) **My first contribution to open source community
 - [Joshua Tsou] First Contribution
 - Hey folks! [GURRAM YOGIT](https://github.com/yogit043) here . Thrilled to be part of the open source community.
@@ -6515,6 +6517,7 @@ LadegbayeStella)
 - [Shakthi](https://github.com/Lokak07)
 - [NHSon](https://github.com/nhson2612)
 - [Alexander Beier] (https://github.com/xbeier)
+- [Sanket Rout] (https://github.com/SanketRt)
 - [Abhinav B]
 - [Brian Kim] (https://github.com/brianshkim)
 - [L-N1988] (https://github.com/L-N1988)
@@ -8289,6 +8292,8 @@ Didac Vilarnau
 - [Buddhi Wickramasinghe] (https://github.com/buddhiW) **Starting my Open Source journey!**
 - [Paolo Lache] (https://github.com/paololache) **My first step as a dev**
 - [Kiran Patil](https://github.com/Kiranpatil02) **First PR for the OS 🚀**
+- [Chirag Arora](https://github.com/Chirag8023) **Open Source is best 🍕**
 - [Leexyy0804](https://github.com/leexyy0804) **Start of my open source journey**
 - [Oleg Cheban](https://github.com/OlegCheban) **Thanks, guys, for this little journey.**
+- [PavitraSharma01](https://github.com/PavitraSharma01)(** Hello evryone, let's start the Open Source ontribution journey!!!**
   ​                                                           
