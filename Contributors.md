@@ -43,6 +43,7 @@
 - [Eren Jeager] First Contribution
 - [Tiziano Carranza](https://github.com/tizianocarranza) **My first contribution, thank you guys!**
 - [Kjetil Paulsen](https://github.com/noorac) **Thanks for the opportunity to make my first contribution!
+- [Yogesh Singh](https://github.com/yogesh3singh) **My first contribution, thank you guys!**
 - [Anvisha Vartak](https://github.com/Anvisha2004) **My first contribution to open source community
 - [Joshua Tsou] First Contribution
 - Hey folks! [GURRAM YOGIT](https://github.com/yogit043) here . Thrilled to be part of the open source community.
