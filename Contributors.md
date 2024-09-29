@@ -8295,5 +8295,6 @@ Didac Vilarnau
 - [Chirag Arora](https://github.com/Chirag8023) **Open Source is best 🍕**
 - [Leexyy0804](https://github.com/leexyy0804) **Start of my open source journey**
 - [PavitraSharma01](https://github.com/PavitraSharma01)(** Hello evryone, let's start the Open Source ontribution journey!!!**
+- [Oleg Cheban](https://github.com/OlegCheban) **Thanks, guys, for this little journey.** 
   
   ​                                                           
