@@ -295,6 +295,7 @@ I am glad to use Github
 - [Julia Vvedenskaya](https://github.com/vvedenskaya)**Making my first contribution here. Soo excited!**
 - [Vishwajeet Kotkar](https://github.com/Vishwajeet-29-pro) **First Contribution here, many more ways to go.**
 - [Aviraj Saha] (https://github.com/avirsaha) **I love open-source.**
+- [Vijay Ram Enaganti](https://github.com/VjayRam) [Linkedin](https://www.linkedin.com/in/vijay-ram-enaganti/) **First step to open-source contribution! Excited to learn and grow.** 
 - [Tasneem Manga](https://github.com/TasneemHannahManga) **Contributed**
 - [Shayna Segal] (https://github.com/ShaynaSegal45) **OPEN SOURCE IS THE BEST!**
 - [Chetan Zagade](https://github.com/chetangotgithub) ** Starting Open Source**
