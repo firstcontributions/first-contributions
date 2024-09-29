@@ -33,6 +33,7 @@
 - [Davi Brasileiro](https://github.com/Redondave) **Expanding on my Github skills!**
 - [Super Kenil](https://github.com/Super-Kenil) **If you are reading this, Remember, I'll always Love You**
 - [Mason] Hello World! I'm [Mason](https://github.com/MasonCodingHere)!
+- Hi, I'm [Anthony](https://github.com/AnthonyErazo) and this is my first contribution. 
 - Hey folks, it’s [Brunades](https://github.com/brunades). Thrilled to be part of the open source community.
 - [Ishan's Github](https://github.com/Ishaannn31) **👋 Hey there! I’m Ishan (@Ishaannn31) Welcome to my corner of the internet! 😄**
 - Alban Ngwa https://github.com/firstcontributions/first-contributions
