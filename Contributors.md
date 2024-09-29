@@ -29,6 +29,7 @@
 - [Hafiz Mahamud](https://github.com/hafizmahamud )Hi, i am happy to be a contributer in Github. Feel free to connect!.
 - [Elijah Frempong](https://github.com/elijah-6) Hey all, let's get better and better.
 - Hi everyone, [Rishi](https://github.com/rishikesanr) here! Excited to contribute to the open source.
+- [Dhruv Kadam](https://github.com/DhruvKadam-git )Hi, i am happy to be a contributer in Github. Feel free to connect!.
 - [Alyssa Risius](https://github.com/alrisius1) ** First Contribution**
 - [Davi Brasileiro](https://github.com/Redondave) **Expanding on my Github skills!**
 - [Super Kenil](https://github.com/Super-Kenil) **If you are reading this, Remember, I'll always Love You**
