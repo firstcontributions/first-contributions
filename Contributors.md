@@ -52,6 +52,7 @@
 - [Joe Laporte] **Joe was here - 9/24/2024**
 - [eswari](https://github.com/saieswari2005) **this is my first contribution if it is accepted i am so happy!**
 - [Jasmin Kaseva] (https://github.com/kasevaj) **24/09/2024**
+- [Jesus Gil] (https://github.com/Jrgil20) **29/09/2024**
 - [Oğuzhan Kökülü] (https://github.com/Oguzhankokulu) **22/09/2024**
 - [madhav mishra](https://github.com/madhav_gfn) Hello, guys if you are reading this and you need a guy to make your documentation, happy to contribute **24/09/2024**
 - [Inayat Hasan](https://github.com/Inayat-hasan) **thank u for making this type of open source repo it is very helpful for the first contributors like me**
