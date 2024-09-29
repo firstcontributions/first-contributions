@@ -67,6 +67,7 @@
 - [Avanish Mallya] **My First Contribution**
 - [Thelen] **First contribution
 - [JavaScribeXixi2024] **My First Contribution**
+BeringeloF **Eu estive aqui**
 - [Shaik Arfath Ali] **My First Contribution**
 - [K N S M Pavan ] **First Contribution**
 - [Worlanyo Kwabla Kporfeame](https://github.com/kworlanyo) **First Contribution**
