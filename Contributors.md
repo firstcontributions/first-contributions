@@ -8299,4 +8299,5 @@ Didac Vilarnau
 - [Leexyy0804](https://github.com/leexyy0804) **Start of my open source journey**
 - [PavitraSharma01](https://github.com/PavitraSharma01)(** Hello evryone, let's start the Open Source ontribution journey!!!**
 - [Oleg Cheban](https://github.com/OlegCheban) **Thanks, guys, for this little journey.** 
-- [Deepak Kewalramani](https://github.com/DeepakKewalramani) **Thanks, everyone, this is my first small contribution..**
+- [Deepak Kewalramani](https://github.com/DeepakKewalramani) **Thanks, everyone, this is my first small contribution.**  
+  ​                                                           
