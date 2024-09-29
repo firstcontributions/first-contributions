@@ -8284,5 +8284,6 @@ Didac Vilarnau
 - [a-lebed](https://github.com/a-lebedynets) **Let's begin!!!**
 - [Buddhi Wickramasinghe] (https://github.com/buddhiW) **Starting my Open Source journey!**
 - [Paolo Lache] (https://github.com/paololache) **My first step as a dev**
+- [Kiran Patil](https://github.com/Kiranpatil02) **First PR for the OS 🚀**
 
   ​                                                           
