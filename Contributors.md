@@ -497,6 +497,7 @@ Prajwal was here.
 - [Brenton Gray](https://github.com/gray-skull) **First Contribution - 08/23/2024**
 - [Daniel Fekede](https://github.com/ljdan1) **my day one journey**
 - [Dylan Fitch](https://https://github.com/dfitch96) **New grad wanting to contribute to open source**
+- Harshvardhan Patil 
 - [Abhinandan Singh](https://github.com/abhinandan29) **☻**
 - [Agamjot Bedi](https://github.com/agxmbedi) **Hi agam this side**
 - [Gabriel Lipaysa](https://github.com/Er000s) **I am now ready for world domination**
