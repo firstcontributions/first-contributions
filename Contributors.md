@@ -8323,6 +8323,7 @@ Didac Vilarnau
 - [PavitraSharma01](https://github.com/PavitraSharma01)(** Hello evryone, let's start the Open Source ontribution journey!!!**
 - [Oleg Cheban](https://github.com/OlegCheban) **Thanks, guys, for this little journey.** 
 - [1052356](https://github.com/1052356) **Trying my best.** 
+- [Amal]
 - [Adeyinka] First Contribution
   
   ​                                                           
