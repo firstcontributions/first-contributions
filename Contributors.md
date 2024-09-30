@@ -122,6 +122,7 @@
 - [Ahmed Bay](https://github.com/ab0y) **Hello World!!! 👋**
 - Zara Phukan 
 - [Ammar Aziz](https://github.com/ammaraziz493) **Start a new Journey**
+- [Elissa Yang](https://github.com/eyang-zeta) **9.30.24 hope this goes places**
 - [AminNeji](https://github.com/AminNeji) **adding my name**
 - [AjayChakka] First Contribution
 - [elvisortegaec](https://github.com/elvisortegaec) **Hey there, making my first contribution**
