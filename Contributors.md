@@ -10,6 +10,7 @@
 - Hello, nice to meet you, I will find my way someday(https://github.com/young-ye).**cheer up!**
 - el
 - [Dumitrescu Richárd Ádám] (https://github.com/Trescu) **newbie**
+- sergiodiazfactorenergia (https://github.com/sergiodiazfactorenergia) 
 - [nchong128](https://github.com/nchong128) was here!
 - [MrBowis](https://github.com/MrBowis) Hi from ECUADOR 🇪🇨 !!! 
 - Hello People this is my First time Github!. [Taeos](https://github.com/taeos). 
