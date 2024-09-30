@@ -112,6 +112,7 @@
 - [Jemmyjs](https://github.com/JemmyJs) **My first contribution!**
 - [Maritha Miracle](https://github.com/MarithaMiracle) **Excited for my first contribution to open source!**
 - [Inzamam Ulhaq](https://github.com/Inzamamulhaq01)  [https://www.linkedin.com/in/inzamam-ulhaq1/] **My first step on OS projects** 
+- [ckullo](https://github.com/ckullo) **Not my first contribution**
 - [rjm](https://github.com/rufusjm) **Getting started with open source**
 - [Ahmed Bay](https://github.com/ab0y) **Hello World!!! 👋**
 - Zara Phukan 
