@@ -885,7 +885,7 @@ Zhiyuan Zhao
 - [donutz03] (https://github.com/donutz03) **This is my first open source contribution. Can't wait to do more :D**
 - piyush malik
 -[Md Sharif Hossain](https://github.com/sharif2552) **Someone told me to do this**
-- [Wericio Alvarez](https://github.com/Wericio)
+- [Mauricio Alvarez](https://github.com/Wericio)
 - [Luis Vinatea](https://github.com/luisvinatea) **I bird told me this is how I can get a job**
 - [Jai Maini](https://github.com/MaxTGM) **This is so cool 🐳**
 -[Muhammad Fawwaz](https://github.com/FawwazRaza)**Hi!**
