@@ -1417,6 +1417,7 @@ mh
 - [Lawior]
 - [Tal Hadary](https://github.com/talhadary) **First contribution**
 - [Jason Park](https://github.com/jjpark987)
+- [Joe Kaiser] (https://github.com/cromulent0101) **First of many**
 - [Flimmers]!!!!
 - [chinmaymjog](https://github.com/chinmaymjog)
 - [Abdul Khaliq](https://github.com/realabdulkhaliq) *Started **GitHub Certification Track** to become a feature **AI Engineer**. Already **Python** and **Azure AI** Certified*
