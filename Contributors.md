@@ -1,5 +1,6 @@
 # Contributors
 - Hello World! I'm [Ronak Singh ](https://github.com/ronaksingh27). **Cheers to the community of never ending learning!**
+- Hello World! I'm [ Daniel Du ](https://github.com/DanielDu95). **I will never git up coding**
 - [Jitendra Kumar ](https://github.com/zsquare12)
 - Hello World! I'm [Shankhya Subhra Chatterjee](https://github.com/SSC-SDE). **Cheers to the community of never ending learning!**
 - Hello World! I'm [Mayank Patel](https://github.com/MayANKPaTeL2303) from IIT Bhilai currently pursing my BTech in computer science. Let's connect on [LinkedIn](https://www.linkedin.com/in/mayank-patel-555163253/) **Cheers to the community of never ending learning!**
@@ -8152,6 +8153,7 @@ vivek saskar
 - [Vennela Katasani](https://github.com/K-vennela) **Finally took bog step to start contributing!Yaayyyy**
 - [Doug Sky](https://github.com/XiaoTianJava) **My first Contribution**
 - [Onivas0308](https://github.com/onivas0308) **Ready to be part of the community**
+
 - [Aaryendra Nargotra](https://github.com/aryannargotra) **Pirate King**
 - [Mushfikur R. Mahi](https://github.com/mushfikurahmaan) **Happy to be the part of this community**
 - [Naveen Prasad K](https://github.com/naveenprasad07) **My updated github id**
