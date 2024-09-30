@@ -526,6 +526,8 @@ Prajwal was here.
 -[Akshay Sodhi](https://github.com/AkshaySodhi) **Hello**
 -[Jitanka Sarkar](https://github.com/Jitankasarkar)**This is my first open source contribution. All thanks to this repo**
 -[Shivam Moray](https://github.com/shivam-moray/)**This is my first github open source contribution**
+-[Michael Dhiman](https://github.com/Michaeldhiman)**This is my first github open source contribution**
+
 -[Sohan Rai](https://github.com/SohanRaidev/)**Hey there!! Yes YOU! Best of luck. Sohan was here! 17Y/O**
 -[Mariela Montaldo](https://github.com/m0nt4ld0/)**Marie was here! This is my first open source contribution**
 -[DorianMcCutchan] (https://github.com/DorianMcCutchan) **this is my first contribution**
