@@ -38,6 +38,7 @@
 - [Alyssa Risius](https://github.com/alrisius1) ** First Contribution**
 - [Davi Brasileiro](https://github.com/Redondave) **Expanding on my Github skills!**
 - [Super Kenil](https://github.com/Super-Kenil) **If you are reading this, Remember, I'll always Love You**
+- **[Jaseel T A](https://github.com/Jaseel-Thalikulam/)** Excited to make my first open-source contribution! Looking forward to collaborating and learning together. Let's connect!
 - [Mason] Hello World! I'm [Mason](https://github.com/MasonCodingHere)!
 - Hi, I'm [Anthony](https://github.com/AnthonyErazo) and this is my first contribution. 
 - Hey folks, it’s [Brunades](https://github.com/brunades). Thrilled to be part of the open source community.
