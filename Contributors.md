@@ -1,6 +1,6 @@
 # Contributors
 - Underdog Engineering im  [Mustapha Barki "embedded sys"  Automation  ](https://github.com/akabarki) 
-- Hello World! I'm [Ronak Singh ](https://github.com/ronaksingh27). **Cheers to the community of never ending learning!**
+- Hello World! I'm Brurya [Ronak Singh ](https://github.com/ronaksingh27). **Cheers to the community of never ending learning!**
 - [Jitendra Kumar ](https://github.com/zsquare12)
 - - Hello World! I'm [Piyush ](https://github.com/Pyasma). **Cheers to the community of never ending learning!**
 - Hello World! I'm [Shankhya Subhra Chatterjee](https://github.com/SSC-SDE). **Cheers to the community of never ending learning!**
