@@ -28,6 +28,7 @@
 - Hello I'm [Ugochukwu Chizaram](https://github.com/ugochukwu-850) just putting down my flag.
 - [Mohamed Salah Arfa](https://github.com/MedSalahArfa1) **My first contribution**
 - Hello! I am Srihari aka sambar-boi **My first Open source contri**
+- Hello, [Ajit Sharma](https://github.com/Ajitcool008) here! Excited to contribute to the open source. Feel free to connect on [Linkedin](https://www.linkedin.com/in/ajit-sharma-a0883a72/)! and checkout my [Portfolio website](https://ajit-portfolio.web.app/)
 - Hi priyanshu here **making my first mark on github**
 - [Hrshal Bhosale](https://github.com/Harshal-Bhosale )**<Optimized Database Queries for 30% Faster Load Times>** potential next contribution!!
 - [Sai Srujan Reddy Pothamsetti](https://github.com/SaiSrujanReddyP)Hi, I'm a  CTF player of team bi0sblr, I do OSINT and Web Exploitation. I am also an aspiring Full Stack Developer. Feel free to connect on [Linkedin](www.linkedin.com/in/pothamsetti-sai-srujan-reddy)!. 
