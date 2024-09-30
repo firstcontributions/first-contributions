@@ -2497,6 +2497,7 @@ v0idborne
 - [Michael Zhang](https://github.com/Festyve)
 - Mihir Mirchandani
 - Jay B - bodenmethod
+- [Darshan C N](https://github.com/darshancn)  **Every great journey begins with a single step. Here’s to the first of many! 🚀✨**
 - [darksoul96](https://github.com/darksoul96)
 - Noah Koebe
 - Oyediran Oyewande (https://github.com/Oyewande)
