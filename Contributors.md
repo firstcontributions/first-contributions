@@ -3954,6 +3954,7 @@ guanj65
 - [Aryan Panwar](https://github.com/aryannpanwarr)
 - [Dooki] (https://github.com/Dookisan)
 - [Jay Kumar](https://github.com/jayk245)
+- [Aldo Miralles](https://github.com/aldomf)
 - [Shailesh Chaudhari](https://github.com/shailesh93602)
 - [Sujith Kamme](https://github.com/sujith-kamme)
 - [Juan Carlos Garcia Esquivel](https://github.com/jcmexdev)
