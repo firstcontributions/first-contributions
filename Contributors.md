@@ -16,6 +16,7 @@
 - Hello everyone I'm [Ali Asghar Kazmi]. Very excited to take my first steps into the open-source community and contribute to projects! **Cheers to the community of never ending learning!**
 - sergiodiazfactorenergia (https://github.com/sergiodiazfactorenergia) 
 - [nchong128](https://github.com/nchong128) was here!
+Hi there! [Rishi](https://github.com/rishisulakhe) here.
 - [MrBowis](https://github.com/MrBowis) Hi from ECUADOR 🇪🇨 !!! 
 - Hello People this is my First time Github!. [Taeos](https://github.com/taeos). 
 - Hello universe....loading satishba.....
