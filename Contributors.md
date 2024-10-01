@@ -101,6 +101,7 @@
 - [Jorgirerison Leite Peixoto] (https://github.com/Jorgirerison) (https://www.linkedin.com/in/jorgi/) **Hi guys, i'm a brazilian boy. And this is my first contribution. And if you want to exchange a idea with me and my projects i'm very available, you can send me a message. Thank you for read. Bye**
 - [Jad] **My first contribution**
 - [Avanish Mallya] **My First Contribution**
+- [Yakub Abdulrahman Alada] **My First Contribution**
 - [Thelen] **First contribution
 - [JavaScribeXixi2024] **My First Contribution**
 - [sahith][s-venom] **My First Contribution**
