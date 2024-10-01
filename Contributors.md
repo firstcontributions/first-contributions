@@ -7790,6 +7790,7 @@ Rohan kumar - Creating driverless cars at IIT BOMBAY
 - [Abdelrahman Elsayed](https://github.com/aaelsay3d)
 - [Spartan-71](https://github.com/Spartan-71)
 - [Code-Viktor](https://github.com/Code-Viktor)
+- Hey, it's [Sammy-Barasa](https://github.com/Sammy-Barasa) here, it's my first contribution. Let's connect on [linkedIn](https://www.linkedin.com/in/sammy-barasa). Visit my blog here for issues and resolutions [here](https://github.com/Sammy-Barasa/Ubuntu_Problem_Solving_Library_by_Barasa).
 - [Heidi Fryzell](https://github.com/heidi37)
 - [Sivaprasad.G] (https://github.com/sprasad-g)
 - [wlowrd] (https://github.com/wlowrd)
