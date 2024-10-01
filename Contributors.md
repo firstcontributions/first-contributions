@@ -97,6 +97,7 @@
 - [Teja S]**My First Contribution**
 - [SH]**Hello World My First Contribution**
 - [Diogo Neto](https://github.com/diogonet0) **Hi everybody ! This is my first contribution!! Im very proud of my progress so far.**
+- [Abdulazim Rabie](https://github.com/abdulazimRabie) **First Contribution...Iam really happy**
 - [Rick] ** Good good study **
 - [Luan] Hello guys, I'm happy to contribute **29/09/2024**
 - [Rohith Kumar K] **My First Contribution**
