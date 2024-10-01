@@ -774,6 +774,7 @@ Hello
 - [Patrick Redman] (https://PredmaBBK) **Hello all!**
 - [Agron Gojcaj](https://github.com/agron-gojcaj) **My first open source contribution!**
 - [Kristian Cifuentes](https://github.com/KristianC8) **First open source contribution**
+- [Mitarpal Grover](https://github.com/MITARPALGROVER) **My first contribution to Open Source world**
 - [Ankush Kumar](https://github.com/Ankush7Kumar) **Gujjar of Panipat**
 - [Jiahuan He](https://github.com/nakurahe) **Am I doing it alright?**
 - [Harshal Sawatkar](https://github.com/Anonymous-hss) **Stepping in the world of Open Source Contributions**
