@@ -907,6 +907,7 @@ Elisheva R
 - [Gideon Bature](https://github.com/GideonBature) **LFG, this is me learning open source contribution**
 - [Lautaro Skarkloff](https://github.com/skarkloff) **Linux OpenSource**
 - [Elyas Shamal](https://github.com/ElyasShamal) **let's give it a shot!**
+- [Saif Punjwani](https://github.com/SaifPunjwani) **Contribute!**
 - [Shoshi Sternberg](https://github.com/ShoshiSternberg)**very good and important idea!**
 - [Lucky Mathias Kispotta](https://github.com/YOmaann) **Lesssgooo 🔥**
 - [Gabriel Fonseca](https://github.com/GabrielKLS) **I was here**
