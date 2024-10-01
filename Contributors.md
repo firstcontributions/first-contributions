@@ -288,6 +288,7 @@ I am glad to use Github
 - [Milan Ram](https://github.com/milanram) **First contribution**
 - [Anuj Parwal](https://github.com/Raltoos) **Ready to learn**
 - [Jahzeel Amador](https://github.com/Jahzeelin24/first-contributions.git) **First contribution**
+- [Julius Ettu](https://github.com/Skibo555) **I am so excited to start my Open Source journey**
 - [Saqib Malik](https://github.com/maliksaqibahmad) **Learning to contribute**
 - [Yassine OZ](https://github.com/crazydev-art) **First Baby Step open source contribution Ever Follow Me**
 - [Monisha Rani](https://github.com/MonRani/) **ready to contribute!**
