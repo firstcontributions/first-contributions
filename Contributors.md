@@ -10,6 +10,7 @@
 - Hello, nice to meet you, I will find my way someday(https://github.com/young-ye).**cheer up!**
 - el
 - [Dumitrescu Richárd Ádám] (https://github.com/Trescu) **newbie**
+-  **Hello, World! I'm [ChandraShekhar](https://github.com/StarDust130) on my way to becoming a billionaire ASAP! 😄**
 - Hello everyone I'm [Ali Asghar Kazmi]. Very excited to take my first steps into the open-source community and contribute to projects! **Cheers to the community of never ending learning!**
 - sergiodiazfactorenergia (https://github.com/sergiodiazfactorenergia) 
 - [nchong128](https://github.com/nchong128) was here!
