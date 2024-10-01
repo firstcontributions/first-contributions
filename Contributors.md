@@ -6,6 +6,7 @@
 - [Michael Jay](https://github.com/MJujh)
 - [Joumaico 🇵🇭](https://github.com/joumaico)
 - [Jamie Quinlan](https://github.com/StringsIV)
+- [Yoosuf Aathil](https://github.com/YoosufAathil)
 - [Shobhit Aggarwal](https://github.com/Shobhit0109)
 - [Vikranth Udandarao](https://github.com/Vikranth3140) Let's connect and collaborate :)
 - [Giro Morton](https://github.com/gm0rt4l) Here we go again!
