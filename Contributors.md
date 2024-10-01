@@ -29,10 +29,11 @@
 - Hello I'm Mika, this is my first contribution.
 - [h4n0sh1](https://github.com/h4n0sh1)**Hello world!**
 - **Hi! Im [Andy](https://github.com/ANDYzytnb)** *Come to play my games!* [Click!](https://github.com/ANDYzytnb/GuessTheNumber)
-- Hello everyone! I’m [Gayan Pathirage](https://github.com/Gayan-98). **I’m happy to take my first steps into the open-source community.** 
+- Hello everyone! I’m [Gayan Pathirage](https://github.com/Gayan-98git). **I’m happy to take my first steps into the open-source community.** 
 - Hi contibutors! I'm [Thilina Sandaruwan](https://github.com/tsjayakody). **I'm excited to join the open-source community and contribute to projects that make a difference.**
 - [Ananya S Kaligal]
 - Hello guys, Matheus here aka otetis!
+- Hello to Open Source ! [Ambuj](https://github.com/ambujbaranwal)
 - Hello Open source World, myself Priya Singh!!
 - Hello everyone, myself Anupsinh Chauhan.
 - [yousseftarhri](https://github.com/yousseftarhri), hello world
