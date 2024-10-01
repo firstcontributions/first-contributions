@@ -193,6 +193,7 @@
 - [steko](https://github.com/steko0) **sup fellas* 
 - [Zaw](https://github.com/zaw-creator) **Gotta Say time to locked in :D** 
 - [Faruk idris](https://github.com/farooq13) **Thanks for providing such repository**
+- [Jeremy] **Hi! This is my (not so) first open source contribution!** 
 -[Nicco mai]
 -[Naj](Man this is overwhelming but not impossible!)
 Jojo 
