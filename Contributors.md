@@ -807,6 +807,7 @@ Hello
 - [Harshal Sawatkar](https://github.com/Anonymous-hss) **Stepping in the world of Open Source Contributions**
 - [Yan Naing Aung](https://github.com/yan-naing-a) **You know what? I'm sleepy right now.** 
 - [Adarsh Tiwari](https://github.com/Adarsh753) **Adarsh's First open source contribution!**
+- [Eddie Tse](https://github.com/tse00022) **Eddie's First open source contribution!**
 - [Phoebe Gangoso](https://github.com/peewweee) **Phoebe's First open source contribution!**
 - [Mehak Amir](https://github.com/MehakAmi) **Mehak First open source contribution!**
 - [Krish Singh](https://github.com/KrishSingh2006) **First open source contribution**
