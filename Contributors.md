@@ -8335,6 +8335,7 @@ vivek saskar
 - [Bryan Suello](https://github.com/bryansuello) **All-in**
 - [Andreas Patsalos](https://github.com/dev77cmd) **Start of my open source journey**
 - [sharonakk](https://github.com/sharonakk) **hey guys!!**
+- [Arhan](https://github.com/Arulyhere) **the start of something beautiful :D**
 - [samuel Kougbam](https://github.com/samuelkkes/) **First time contributing.**
 - [Amit Kumar Pradhan](https://github.com/amitkpradhan) **First contribution**
 - [Hoang Tran](https://github.com/dekkov/) **Eager to contribute !!!.**
