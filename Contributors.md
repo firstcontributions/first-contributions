@@ -617,6 +617,7 @@ Rehan
 - [ConfluxEcho](https://github.com/ConfluxEcho)**Is this it? My very first contribution to an open source project? Wow**
 - [Mohamed Farid](https://github.com/08mfp) **Hey Everyone, good luck in your journey!**
 - [Brian Tse](https://github.com/brianthl) **Hi everyone, lfg!!!**
+- [Sophie Lai](https://github.com/sophie1620) **This is my first open source contribution**
 -[Memoona Shah](https://github.com/maymunashah)**this is one of my first open source contributino and one of many to go  , lets goooo**
 Ahmad
 - Batsheva Kadosh
