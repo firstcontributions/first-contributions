@@ -8421,6 +8421,7 @@ Didac Vilarnau
 - [hero](https://github.com/heropj) **woohoo**
 - [Adeyinka] First Contribution
 - [Andrew Chanthakoun] (https://github.com/chanthakoun2002) **Hello from seattle**
+- [Jorge Arrieta] (https://github.com/JorgeArrieta87/first-contributions) __Hello World__
 - [Peace Akoja] (https://github.com/BluTargaryan) **Hello from the UK!!!!!!**
   
   ​                                                           
