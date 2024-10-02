@@ -7681,6 +7681,7 @@ git stat
 - [Hannah Bradfield](https://github.com/BradfieldH)
 - [meda0719] (https://github.com/meda0719/)
 - [kumar1397](https://github.com/kumar1397)
+- [Nemat Aloush](https://github.com/nemat-al)
 - [Dan13615] (https://github.com/Dan13615/)
 - [bigtoblerones] (https://github.com/bigtoblerones)
 - [ Uma Kommula] (https://github.com/Uma-129/first-contributions.git) Excited to be a contributer.
