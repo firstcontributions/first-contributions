@@ -8314,7 +8314,8 @@ vivek saskar
 - [Ujjawal Kaul] (https://github.com/UjjwalKaul) **My First Open Source Contri**
 - [Benjamin Cohen](https://github.com/OfficialBenjaminCohen) **Hello Guys I want to contribute to OSS :)** 
 - [Allen Benny](https://github.com/allenhack638) **Hello all I am hope all are doing good ***
-- [FionaFu](https://github.com/annanfu) **Testing the fork!** 
+- [FionaFu](https://github.com/annanfu) **Testing the fork!**
+- [MarcFr] (https://github.com/SneakyFriday) **OpenSource is great**
 - [Aymen Mejri](https://github.com/napalmCore) **Hello all :) ***
 - [Amanullah Atthar](https://github.com/amanullahatthar)'s _first_ contribution
 - [Florian Cherubin](https://github.com/FloCheru)
