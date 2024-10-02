@@ -3,6 +3,7 @@
 - Hello, I'm Otto
 - Hey I m Eason!
 - Hello fellow **Programmers!** I'm [Henry](https://github.com/hevprog) and this is my **First time making a PR**
+- Hi I'm Michelle Sheu uwu
 -Hi guys I'm Chieler from Taiwa and this is my first time trying open source
 - Hi Friends, This is [Sivaprasad. G](https://github.com/sp-futuredev), Happy learning & Happy coding ! 
 - Hii, It's [Ayush](https://github.com/ayushk-1801) and **it's my first contribution to open source!!**
