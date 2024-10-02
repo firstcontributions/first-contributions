@@ -8239,6 +8239,7 @@ vivek saskar
 - [Jordan-Iralde](https://github.com/Jordan-Iralde/first-contributions) **Uno, Dos, Tres...🚀**
 - [Mzaksana](https://github.com/mzaksana) **Mars Exploration** :atom:
 - [Ritesh](https://github.com/riteshshami) **OS CONTRIBUTION**
+- [Annie] **henlo**
 - [samualon](https://github.com/samualon) **Here we go**
 - [Deepak Saldanha](https://github.com/saldanhad) **The start of a new beginning**
 - [kpsy20](https://github.com/kpsy20) **First open source contribution!**
