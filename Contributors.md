@@ -8393,5 +8393,5 @@ Didac Vilarnau
 - [hero](https://github.com/heropj) **woohoo**
 - [Adeyinka] First Contribution
 - [Andrew Chanthakoun] (https://github.com/chanthakoun2002) **Hello from seattle**
-- [Terry](https://github.com/wong0373 )**My first contribution**
+- [Terry](https://github.com/wong0373) **My first contribution**
   ​                                                           
