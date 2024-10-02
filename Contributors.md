@@ -17,6 +17,7 @@
 - Hello World! I`m [Shreya Mittal](https://github.com/shreyamittal10) and this is my **first time contributing to a GitHub repository!**
 - Hello World! I`m [Furkan Çalık](https://github.com/furkanCalik7) and this is my **first time contributing to a GitHub repository!**
 - Underdog Engineering im  [Mustapha Barki "embedded sys"  Automation  ](https://github.com/akabarki) 
+- Keep it simple, keep it smart. Code is art, and I'm Maddzon.
 - Hello World! I'm [Venkat Prashanth](https://github.com/m-vp). **Hi, I'm a  CTF player of team bi0sblr, I do Web Exploitation. I am also an aspiring Full Stack Developer. Feel free to connect on [Linkedin](https://www.linkedin.com/in/venkat-prashanth-m/)!**
 -Hello, it's Christina RF, *Your dreams shall come true, Be consistent*
 - Hello World! I'm [Ronak Singh ](https://github.com/ronaksingh27). **Cheers to the community of never ending learning!**
