@@ -1,5 +1,4 @@
 # Contributors
-- Hey I m Eason!
 - Hello fellow **Programmers!** I'm [Henry](https://github.com/hevprog) and this is my **First time making a PR**
 -Hi guys I'm Chieler from Taiwa and this is my first time trying open source
 - Hii, It's [Ayush](https://github.com/ayushk-1801) and **it's my first contribution to open source!!**
@@ -25,6 +24,7 @@
 - [Dumitrescu Richárd Ádám] (https://github.com/Trescu) **newbie**
 -  **Hello, World! I'm [ChandraShekhar](https://github.com/StarDust130) on my way to becoming a billionaire ASAP! 😄**
 - Hello everyone I'm [Ali Asghar Kazmi]. Very excited to take my first steps into the open-source community and contribute to projects! **Cheers to the community of never ending learning!**
+[Eason Lin](https://github.com/lin00212) **I Was Here!**
 - sergiodiazfactorenergia (https://github.com/sergiodiazfactorenergia) 
 - [nchong128](https://github.com/nchong128) was here!
 - [MrBowis](https://github.com/MrBowis) Hi from ECUADOR 🇪🇨 !!! 
