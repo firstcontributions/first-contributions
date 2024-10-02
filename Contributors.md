@@ -3,6 +3,7 @@
 
 - [Rahul Kumat](https://github.com/rahul-2327 )
 - [Deepak Sah](https://github.com/sahji92)
+- [Guillermo Guillen](https://github.com/guillermochristopher)
 - [Olumide Micheal](https://github.com/codewithmide)
 - [dogiloki] (https://github.com/dogiloki)
 - [João Victor Cosme Melo] (https://github.com/VictorCosme)
