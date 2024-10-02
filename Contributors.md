@@ -513,6 +513,7 @@ Rakesh Radhakrishnan dev was here.
 - [fug0](https://github.com/fug0) **My first contrib**
 - [Robert Dobre](https://robert-dobre.github.io/) **Let's get in touch and create something together**
 - [Jeremy Kalen Knox](https:github.com/KalenKnox). Hey, this is cool
+- [Baker Sekitoleko](https:github.com/Qadriyah) **Curiosity led me here. Am excited to be part of this awesome community**
 - [Tejas Narkhede](https://github.com/TejasNarkhede). *Hello Tejas Here!*
 - [Ehtesham Ul Haq](https://github.com/Ehtesham-Ul-Haq) **contributing 1st time**
 - [SSK](https://github.com/2SSK) **I use arch BTW!**
