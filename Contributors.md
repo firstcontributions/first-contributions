@@ -8296,4 +8296,4 @@ Didac Vilarnau
 - [Leexyy0804](https://github.com/leexyy0804) **Start of my open source journey**
 - [PavitraSharma01](https://github.com/PavitraSharma01)(** Hello evryone, let's start the Open Source ontribution journey!!!**
 - [Oleg Cheban](https://github.com/OlegCheban) **Thanks, guys, for this little journey.** 
-- [Dabobroto Sarkar](https://github.com/dstushar7) **To the person reading this, I hope you can achieve your dreams**                                                   
+- [Dabobroto Sarkar](https://github.com/dstushar7)  **Starting my open source journey!**                                     
