@@ -74,6 +74,7 @@
 - Hello, World! I'm [John-Alvin Ambalong](https://github.com/jambalong). Thank you for the opportunity! I use neovim btw.
 - [Ananya S Kaligal]
 - Hi [Ocy-6]
+- Gregor was here!
 - Hello guys, Matheus here aka otetis!
 - Hello to Open Source ! [Ambuj](https://github.com/ambujbaranwal)
 - Hello Open source World, myself Priya Singh!!
