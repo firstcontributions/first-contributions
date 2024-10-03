@@ -99,7 +99,7 @@ git push origin <分支的名称>
 ## 提出 Pull Request 将你的修改供他人审阅
 
 前往你的 Github 代码仓库，你会看到一个 `Compare & pull request` 的按钮。点击该按钮。
-
+ 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 接着再点击 `Create pull request` 按钮，正式提交 pull request。
