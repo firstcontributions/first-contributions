@@ -8465,3 +8465,4 @@ Didac Vilarnau
 - [Dabobroto Sarkar](https://github.com/dstushar7) **A small step today is a big leap for your career!**
 - [Srijan Baniyal](https://github.com/Srijan-Baniyal) **Second year of hacktoberfest. First PR to the Second year. Cheers.**
 - [Irfan Ansari](https://github.com/IRFANSARI) **First**
+- [Guilhermne Fernandes do bem](https://github.com/GuilhermeFer29) **Hello Brasil**
