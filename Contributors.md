@@ -147,6 +147,7 @@
 - [sahith][s-venom] **My First Contribution**
 - [BeringeloF] **Eu estive aqui**
 - [Shaik Arfath Ali] **My First Contribution**
+- [Oscar Murrieta](https://github.com/mobml/) **First Contribution**
 - [K N S M Pavan ] **First Contribution**
 - [Worlanyo Kwabla Kporfeame](https://github.com/kworlanyo) **First Contribution**
 - [Ganesh M] **My First Contribution**
