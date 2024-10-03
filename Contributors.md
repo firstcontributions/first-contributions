@@ -10,6 +10,7 @@
 - Hi Friends, This is [Sivaprasad. G](https://github.com/sp-futuredev), Happy learning & Happy coding ! 
 - Hii, It's [Ayush](https://github.com/ayushk-1801) and **it's my first contribution to open source!!**
 - Hi from no-ppp
+- Hi I'm Pratyusha
 - Hi I'm [Abrham](https://githb.com/abm-19) and this is my first contribution.
 - Hey I'm Palozz
 - Hey y'all! I'm [David Shin](https://github.com/shindavid951) and this is my **first open-source contribution on GitHub!**
