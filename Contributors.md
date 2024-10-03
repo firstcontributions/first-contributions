@@ -223,6 +223,7 @@
 - [Daniella Elsie](https://github.com/codercodingss) **Hello, let's do this💪**
 - [Misha Kharkovski](https://github.com/misha-khar) ** My first contribution!! **
 - [Victor_B](https://github.com/VictorBassas)**La meva contribution**
+- [Aditya_Bhosale] (https://github.com/Adi1912-pro) **my first contribution**
 - [Giovanni Clini](https://github.com/Giovanniclini)**First contribution here, hope it will be the first of many!**
 - [Niginabonu Isamukhamedova](https://github.com/nigina23) ** Hello Girls! I'm from Usbekistan! Let's code and study together :))**
 - [Segiterio](https://github.com/segiterio) **This is my First Contribution**
