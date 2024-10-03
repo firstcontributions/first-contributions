@@ -8426,5 +8426,6 @@ Didac Vilarnau
 - [Andrew Chanthakoun] (https://github.com/chanthakoun2002) **Hello from seattle**
 - [Jorge Arrieta] (https://github.com/JorgeArrieta87/first-contributions) __Hello World__
 - [Peace Akoja] (https://github.com/BluTargaryan) **Hello from the UK!!!!!!**
+- [Patricio Pilco] (https://github.com/patriciopilco) **Hello from Ecuador**
   
   ​                                                           
