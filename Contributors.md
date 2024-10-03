@@ -4,6 +4,7 @@
 - Hello World! I`m [Isaac Huang](https://github.com/isaac-tw) and this is my **first time contributing to another GitHub repository!**
 - Hello, I'm Otto
 - Hey I m Eason!
+- Hello I'm [Abhay Jain](https://github.com/abhay2jn)
 - Hello fellow **Programmers!** I'm [Henry](https://github.com/hevprog) and this is my **First time making a PR**
 - Hi I'm Michelle Sheu uwu
 -Hi guys I'm Chieler from Taiwa and this is my first time trying open source
@@ -3951,7 +3952,7 @@ guanj65
 - [gitFerdo](https://github.com/gitFerdo)
 - [Hisham Raihan](https://github.com/Bluehorizon65)
 - Feng Er[1fenger (github.com)](https://github.com/1fenger)
-- [Rodrigo Vallejos](https://github.com/rodrvn)
+- [Rodrigo Valle   jos](https://github.com/rodrvn)
 - [Arturo]
 - [Sivaselvan] 
 - [Karan Khatavkar](https://github.com/karankhatavkar)
