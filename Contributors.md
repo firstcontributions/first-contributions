@@ -8439,5 +8439,6 @@ Didac Vilarnau
 - [Jorge Arrieta] (https://github.com/JorgeArrieta87/first-contributions) __Hello World__
 - [Peace Akoja] (https://github.com/BluTargaryan) **Hello from the UK!!!!!!**
   
-  ​                                                           
+  ​                                                          
 - [victor de lima](https://github.com/victor-engineer)
+- [juhdakd](https://github.com/juhdakd)**Hello World**
