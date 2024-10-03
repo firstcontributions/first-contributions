@@ -1279,6 +1279,7 @@ Yulia Lantzberg
 - [Tanner Smallwood](https://github.com/tsmallwood23) 
 -Leopoldo Chavarria
 -Shashank here
+- Aryan S Shandilya (https://github.com/gametriol) **First big leap**
 -Biplav Bhandari
 -Lin Yuan
 - [Eduardo GOMES Araujo](https://github.com/eduardoGomesAraujo)
