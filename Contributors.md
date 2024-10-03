@@ -5,6 +5,8 @@
 - Hello, I'm Otto
 - Hey I m Eason!
 - Hello fellow **Programmers!** I'm [Henry](https://github.com/hevprog) and this is my **First time making a PR**
+- Hello Guys, This is Vaasu Marothia aka [jeetungaa] (https://github.com/jeetungaa).
+**First time making a contro**
 - Hi I'm Michelle Sheu uwu
 -Hi guys I'm Chieler from Taiwa and this is my first time trying open source
 - Hello World! I`m [Hamzathul Favas E](https://github.com/hamzathul) and **Welcome to the dawn of a new coding era – let's innovate, collaborate, and build the future together!**
