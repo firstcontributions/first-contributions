@@ -4394,7 +4394,7 @@ Jasmine
 - [Set Wai](https://github.com/SetWai)
 - [Dinto](https://github.com/Dinto2)
 - [Yash Kumar Saini](https://github.com/yashksaini-coder)
-- [Hadi Kaddoura](https://github.com/hadi14250) **My First Contribution**
+- [Hadi Kaddoura](https://github.com/hadi14250) **My First Contribution!**
 - [Rohini](https://github.com/rohinigudimetla)
 - [Ankit24007] (https://github.com/ankit24007)
 - [Narendherraj Senthil](https://github.com/Narendherraj)
