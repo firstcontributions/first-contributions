@@ -8478,3 +8478,4 @@ Didac Vilarnau
 - [Joey da Souza](https://github.com/joeydasouza) **Bom dia familia vascaina!!**
 - [Yash Israni] (https://github.com/yashisrani) ** I am a Developer from India **
 - [Taisei Kamimizu](https://github.com/Kamy-dev) ** Konnichiwa! I'm Developer from Japan **
+- [Robert Sharp] (https://github.com/Zapherail) **I am a new Developer in the USA**
