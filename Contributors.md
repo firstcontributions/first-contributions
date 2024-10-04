@@ -8466,3 +8466,4 @@ Didac Vilarnau
 - [Srijan Baniyal](https://github.com/Srijan-Baniyal) **Second year of hacktoberfest. First PR to the Second year. Cheers.**
 - [Irfan Ansari](https://github.com/IRFANSARI) **First**
 - [Guilhermne Fernandes do bem](https://github.com/GuilhermeFer29) **Hello Brasil**
+- [Samantha Gomes da Silva](https://github.com/Samantha-SilvaG) **Oi, tudo belezinha?**
