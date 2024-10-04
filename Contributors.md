@@ -8462,7 +8462,7 @@ Didac Vilarnau
 - [Jorge Arrieta] (https://github.com/JorgeArrieta87/first-contributions) __Hello World__
 - [Peace Akoja] (https://github.com/BluTargaryan) **Hello from the UK!!!!!!**
 - [Patricio Pilco] (https://github.com/patriciopilco) **Hello from Ecuador**
-  
+- [Elias Dias Junior] (https://github.com/eldias) **Olá do Brasil - Arapongas PR**
   ​                                                          
 - [victor de lima](https://github.com/victor-engineer)
 - [juhdakd](https://github.com/juhdakd)**Hello World**
