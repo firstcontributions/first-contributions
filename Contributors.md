@@ -8476,3 +8476,4 @@ Didac Vilarnau
 - [Mayara Menezes](https://github.com/MayaraMenezes) **Olá, Brasil**
 - [Joey da Souza](https://github.com/joeydasouza) **Bom dia familia vascaina!!**
 - [Yash Israni] (https://github.com/yashisrani) ** I am a Developer from India **
+- [Taisei Kamimizu](https://github.com/Kamy-dev) ** Konnichiwa! I'm Developer from Japan **
