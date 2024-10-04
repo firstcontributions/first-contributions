@@ -1,5 +1,6 @@
 # Contributors
 -Hey, I'm Jitesh Pathak. Check me out on [Github](https://github.com/jiteshpathak)
+-Hi, I am Thang. This is my first contibution to an open source project.
 -Hey I am Harshvardhan Jha . I am new programmer learning to code .
 -FuelTheburn
 -[Vijayan K S](https://github.com/ksvijayan06) **If you are reading this, Remember, I'll always Love You🫵. This contribution made for the Octoberfest 2024 event. If you want to join with for the Open Source Contribution follow me on github😘**
