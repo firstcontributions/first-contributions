@@ -8481,3 +8481,5 @@ Didac Vilarnau
 - [Yash Israni] (https://github.com/yashisrani) ** I am a Developer from India **
 - [Taisei Kamimizu](https://github.com/Kamy-dev) ** Konnichiwa! I'm Developer from Japan **
 - [Robert Sharp] (https://github.com/Zapherail) **I am a new Developer in the USA**
+
+- [Pei Kang] (https://github.com/peiKanguu) **Hi! I am Pei Kang form China.This is my first try to be a Developer."
