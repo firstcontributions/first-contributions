@@ -9,6 +9,7 @@
 - Hey, I'm [Rakshit Upadhyay](https://github.com/rakshit-upadhyay214) and it's my first open source contribution.
 - Hello, I'm Otto
 - Hey I m Eason!
+- Hello everyone, I am [Mohammed Anaf](https://github.com/mohammedanaf) and excited to contribute to open-source projects.
 - Hello fellow **Programmers!** I'm [Henry](https://github.com/hevprog) and this is my **First time making a PR**
 - Hi I'm Michelle Sheu uwu
 -Hi guys I'm Chieler from Taiwa and this is my first time trying open source
