@@ -193,6 +193,7 @@ hello world! I'm [sanika bhalerao](https://github.com/SanikaBhalerao1345) and th
 - [rjm](https://github.com/rufusjm) **Getting started with open source**
 - [Ahmed Bay](https://github.com/ab0y) **Hello World!!! 👋**
 - Zara Phukan 
+- hello i am abdul this is my contributrion
 - [Ammar Aziz](https://github.com/ammaraziz493) **Start a new Journey**
 - [Elissa Yang](https://github.com/eyang-zeta) **9.30.24 hope this goes places**
 - [AminNeji](https://github.com/AminNeji) **adding my name**
