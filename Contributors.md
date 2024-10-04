@@ -42,6 +42,7 @@ hello world! I'm [sanika bhalerao](https://github.com/SanikaBhalerao1345) and th
 - Underdog Engineering im  [Mustapha Barki "embedded sys"  Automation  ](https://github.com/akabarki) 
 - Keep it simple, keep it smart. Code is art, and I'm Maddzon.
 - Hello World! I'm [Venkat Prashanth](https://github.com/m-vp). **Hi, I'm a  CTF player of team bi0sblr, I do Web Exploitation. I am also an aspiring Full Stack Developer. Feel free to connect on [Linkedin](https://www.linkedin.com/in/venkat-prashanth-m/)!**
+- Namaste Duniya! I`m [Mayukh Mandal](https://github.com/Mayukh-Mandal2005) and this is my **first time contributing to an open source project! You can connect with me on [LinkedIn](www.linkedin.com/in/mayukh-mandal-a8a938276)**
 -Hello, it's Christina RF, *Your dreams shall come true, Be consistent*
 - Hello World! I'm [Ronak Singh ](https://github.com/ronaksingh27). **Cheers to the community of never ending learning!**
 - Hello World! I'm Dilip Hiremath
