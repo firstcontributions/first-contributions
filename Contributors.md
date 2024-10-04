@@ -2978,6 +2978,7 @@ git add Contributors.md# Contributors
 - islak
 - VakoB
 - Mi Nguyen
+- Anish
 - [Toan Bui](https://github.com/bmt810818)
 - A. Mishra
 - [Faysal Hasan](https://github.com/mollik001)
