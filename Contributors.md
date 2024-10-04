@@ -24,6 +24,7 @@
 - Hi I'm [Abrham](https://githb.com/abm-19) and this is my first contribution.
 - Hi I am Batman.
 - Hey I'm Palozz
+- Hi Friends, This is [Rajat Singh](https://github.com/Rajat3254/), Happy learning & Happy coding ! 
 hello world! I'm [sanika bhalerao](https://github.com/SanikaBhalerao1345) and this is my first contribution.
 - Hey y'all! I'm [David Shin](https://github.com/shindavid951) and this is my **first open-source contribution on GitHub!**
 - Hello! I'm Chuck from Italy and this is my first contribution. **Just started this amazing journey**
