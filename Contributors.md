@@ -34,6 +34,7 @@ hello world! I'm [sanika bhalerao](https://github.com/SanikaBhalerao1345) and th
 - Hello World! I`m [Basit](https://github.com/b9sit) and this is my **first time contributing to another GitHub repository!**
 - Hello World! I'm [Aditya Kalburgi](https://github.com/adityakalburgi) and this is my **first time contributing to another GitHub repository!**
 - Hello World! I`m [Shreya Mittal](https://github.com/shreyamittal10) and this is my **first time contributing to a GitHub repository!**
+- Hello World! I'm [Shrey Raj](https://github.com/shreyraj2002) and this is my **first time contributing to a GitHub repository!**
 - Hello World! I`m [Furkan Çalık](https://github.com/furkanCalik7) and this is my **first time contributing to a GitHub repository!**
 - Underdog Engineering im  [Mustapha Barki "embedded sys"  Automation  ](https://github.com/akabarki) 
 - Keep it simple, keep it smart. Code is art, and I'm Maddzon.
