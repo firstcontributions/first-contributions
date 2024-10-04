@@ -163,6 +163,7 @@ hello world! I'm [sanika bhalerao](https://github.com/SanikaBhalerao1345) and th
 - [Jad] **My first contribution**
 - [Avanish Mallya] **My First Contribution**
 - [Yakub Abdulrahman Alada] **My First Contribution**
+- Hey I´m Nico
 - [Thelen] **First contribution
 - [JavaScribeXixi2024] **My First Contribution**
 - [sahith][s-venom] **My First Contribution**
