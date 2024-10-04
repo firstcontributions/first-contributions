@@ -9,6 +9,7 @@
 - Hello World! I`m [Isaac Huang](https://github.com/isaac-tw) and this is my **first time contributing to another GitHub repository!**
 - Hey, I'm [Rakshit Upadhyay](https://github.com/rakshit-upadhyay214) and it's my first open source contribution.
 - Hello, I'm Otto
+- Hey There, I'm RussL [Russell Dsouza](https://github.com/Russell-Dsouzaa), and it's my first git contribution.
 - Hey I m Eason!
 - Hello everyone, I am [Mohammed Anaf](https://github.com/mohammedanaf) and excited to contribute to open-source projects.
 - Hello fellow **Programmers!** I'm [Henry](https://github.com/hevprog) and this is my **First time making a PR**
