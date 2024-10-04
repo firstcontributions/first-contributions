@@ -8173,6 +8173,7 @@ https://github.com/06Gagan
 - [Anand Maurya](https://github.com/SMOS-Github) ||My first open source contribution||
 Hey There
 - [Benjamin M](https://github.com/bzm10) **My first open source contribution**
+- [Giulio Tantaro](https://github.com/lorduke22) **Hi everyone, this is my first step with open-source!**
 - [Iris Onwa](https://github.com/aloneInEntropy) **First open source contribution!**
 - [Sr Kush](https://github.com/SenorKush) **Finally! this is my first open source contribution. Aluta Continua!**
 - [Vansh Sinha](https://github.com/IMT2022122) **Majboori**
