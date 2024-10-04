@@ -8473,3 +8473,4 @@ Didac Vilarnau
 - [Guilhermne Fernandes do bem](https://github.com/GuilhermeFer29) **Hello Brasil**
 - [Mayara Menezes](https://github.com/MayaraMenezes) **Olá, Brasil**
 - [Joey da Souza](https://github.com/joeydasouza) **Bom dia familia vascaina!!**
+- [Yash Israni] (https://github.com/yashisrani) ** I am a Developer from India **
