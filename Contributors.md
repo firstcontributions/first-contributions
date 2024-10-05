@@ -8532,4 +8532,3 @@ Didac Vilarnau
 - **Hey there this is my second contribution from India** [Nikson](https://github.com/Nikson2003)
 - [Katarzyna Srebro](https://github.com/ksrebro-dev) **Hello Open Source!*
 - [Servet Isikli](https://github.com/servetisikli)
-- [Vaibhav Shelke](https://github.com/Vaibhav-shelke1) *Web Developer*
