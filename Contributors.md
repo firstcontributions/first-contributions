@@ -8335,5 +8335,5 @@ Didac Vilarnau
 - [Ahmed Hani](https://github.com/AhmedHani-dev)
 - [4UGU5T1001](https://github.com/4UGU5T1001) **Github is Cool**
 - [Adeyinka] First Contribution
-  
+-[Shantanu Shinde] First contibution to open source 
   ​                                                           
