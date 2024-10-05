@@ -1220,6 +1220,7 @@ Yulia Lantzberg
 - [Mpara Romaric](https://github.com/sampleris) **2024/07/12 :)**
 - [Patrick Chukwu](https://github.com/Patrick-Chukwu) **Cheers to the first of many contributions in the OS, community.**
 - [Tomas Rando](https://github.com/TomasRandoM) **Hello World!**
+-[Gu Zhuchang](https://github.com/Gu2thousand) **Hiiiii!,good start!**
 - [Jason Okahishie](https://github.com/jasonokhaishie) **this is my first contribution**
 - [Miguel Pereira](https://github.com/migueltmpereira) **Esta é a minha primeira contribuição, a primeira de muitas! Coimbra e NEI <3**
 - Noo Dev **My first baby step of future contributions**
