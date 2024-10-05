@@ -4665,6 +4665,7 @@ Jasmine
 - [Vicente Guzmán](https://vicenteguzman.com/)
 - [Vinit Jahagirdar](https://github.com/Vinit1909)
 - [Tyler Daw](https://github.com/TylerD1105)
+- [maxrosciano] adding myself to the contributors (https://github.com/maxrosciano)
 - [Minjae Kwon](https://github.com/minjaekwon97)
 - [Brandon Munisur](https://github.com/Brandonmunisur)
 - [Rafael Vasconcelos](https://github.com/Rellik7)
@@ -8514,4 +8515,4 @@ Didac Vilarnau
 - [Asley Echarry](https://github.com/asleybach) **Hello from Brazil kkkk** 
 - Hey there first contribution from [Francisco Molina](https://github.com/GhostlyCoder20)
 - **Hey there this is my second contribution from India** [Nikson](https://github.com/Nikson2003)
-- [Katarzyna Srebro](https://github.com/ksrebro-dev) **Hello Open Source!**
+- [Katarzyna Srebro](https://github.com/ksrebro-dev) **Hello Open Source!*
