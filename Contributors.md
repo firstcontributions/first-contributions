@@ -8,6 +8,14 @@
 -Hey I am Harshvardhan Jha . I am new programmer learning to code .
 -FuelTheburn
 -[Vijayan K S](https://github.com/ksvijayan06) **If you are reading this, Remember, I'll always Love You🫵. This contribution made for the Octoberfest 2024 event. If you want to join with for the Open Source Contribution follow me on github😘**
+
+
+Hello, World!
+I'm Raju Kumar Raja, a passionate developer excited to contribute to the open-source community. **This marks my first contribution to another GitHub repository! I'm eager to learn, collaborate, and make a meaningful impact through coding and innovative projects.
+Check out my profile: GitHub - RajukrRaja
+GitHub Profile Link: https://github.com/RajukrRaja**
+
+
 - Hello World! I`m [Isaac Huang](https://github.com/isaac-tw) and this is my **first time contributing to another GitHub repository!**
 - Hey, I'm [Rakshit Upadhyay](https://github.com/rakshit-upadhyay214) and it's my first open source contribution.
 - Hello, I'm Otto
