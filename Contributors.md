@@ -4,6 +4,7 @@
 -Hey, I'm Jitesh Pathak. Check me out on [Github](https://github.com/jiteshpathak)
 -Hi, I am Thang. This is my first contibution to an open source project.
 -Hello World the **GREAT** Leo has arrived: [Github](https://github.com/Leorev01)
+- Hello, I'm [Prabal Singh](https://github.com/prblsing). Excited to be part of this community and contribute to open-source projects! 🚀💡 Always eager to learn and build together!
 -[Vishal Bist](https://github.com/Vishal-Bisht) **Getting started with the open source contributions (2024)🥂🔥**
 -Hey I am Harshvardhan Jha . I am new programmer learning to code .
 -FuelTheburn
