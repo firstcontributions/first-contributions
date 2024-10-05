@@ -10,6 +10,7 @@
 - Hello, nice to meet you, I will find my way someday(https://github.com/young-ye).**cheer up!**
 - el
 - [Dumitrescu Richárd Ádám] (https://github.com/Trescu) **newbie**
+- [Shantanu Shinde] ** First Contributions to Open Source. Very Cool
 - [nchong128](https://github.com/nchong128) was here!
 - [MrBowis](https://github.com/MrBowis) Hi from ECUADOR 🇪🇨 !!! 
 - Hello People this is my First time Github!. [Taeos](https://github.com/taeos). 
@@ -8335,5 +8336,4 @@ Didac Vilarnau
 - [Ahmed Hani](https://github.com/AhmedHani-dev)
 - [4UGU5T1001](https://github.com/4UGU5T1001) **Github is Cool**
 - [Adeyinka] First Contribution
--[Shantanu Shinde] First contibution to open source 
   ​                                                           
