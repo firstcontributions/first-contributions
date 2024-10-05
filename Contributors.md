@@ -157,6 +157,7 @@ hello world! I'm [sanika bhalerao](https://github.com/SanikaBhalerao1345) and th
 - Gayathri (https://github.com/Gayathri-Gondi) My first contribution
 - [Dipanshu Rawat](https://github.com/dipanshurdev) 🫡
 - [Eren Jeager] First Contribution
+- Greetings! from [Muaaz](https://github.com/MShaikh17). My 1st contribution! <br/>
 - [Tiziano Carranza](https://github.com/tizianocarranza) **My first contribution, thank you guys!**
 - [Kjetil Paulsen](https://github.com/noorac) **Thanks for the opportunity to make my first contribution!
 - [Yogesh Singh](https://github.com/yogesh3singh) **My first contribution, thank you guys!**
