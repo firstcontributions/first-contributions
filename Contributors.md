@@ -24,6 +24,7 @@
 - Hey There, I'm RussL [Russell Dsouza](https://github.com/Russell-Dsouzaa), and it's my first git contribution.
 - Hey I m Eason!
 - Hi! I'm kliftun!
+- Hi! I'm Moiads. I am trying to be a contributer!
 - Hello everyone, I am [Mohammed Anaf](https://github.com/mohammedanaf) and excited to contribute to open-source projects.
 - Hello fellow **Programmers!** I'm [Henry](https://github.com/hevprog) and this is my **First time making a PR**
 - Hi I'm Michelle Sheu uwu
@@ -439,7 +440,6 @@ I am glad to use Github
 - [Zafira Ibraeva] (https://github.com/zafirazz) **First contribution!**
 - [Jayesh Purswani](https://github.com/jerry-xon) **Hey this is my first contribution please view my profile to work together** 
 - [Chagit Alexander](https://github.com/chagitA) **This contribution is in memory of Chandler Bing🐥🦆**
-
 - [Adam Johnston](https://github.com/uxillary) **Scottish Contribution - Freedom!!**
 - [SkkDevCraft](https://github.com/skkdevcraft) **"Most programmers do programming because it is fun." _Linus Torvalds_**
 - [Isaac Schwarz](https://github.com/shantz14) **Lets get it gamers**
