@@ -8452,6 +8452,7 @@ vivek saskar
 - [Eugene Goh Koon Lum](https://github.com/Youjin29) **Learning with thousands of people is great**
 - [Olleg Thornbill](https://github.com/aturnbul) **GitHub is intimidating!**
 - [Mate Kortvelyessy](https://github.com/MKKORTVELYESS) **Hey 👋**
+- [Gabriel Menacho](https://github.com/gabriel-menacho) **Hello from Bolivia**
 - [So Ichihashi](https://github.com/aquarium23)
 - [seosieve](https://github.com/seosieve)
 - [TomLincoln](https://github.com/TomLincoln066) **I want to get hired""
