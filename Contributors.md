@@ -8559,3 +8559,4 @@ Didac Vilarnau
 - Hey world, my name is Hayden White out of LA, thank you for this experience! (https://github.com/HK-White)
 - Hi :) this is my first contributions by [misim3](https://github.com/misim3).
 - [hazukit] First Contribution
+- [ChrissiWi] (https://github.com/ChrissiWi)
