@@ -26,6 +26,8 @@
 - Hi! I'm kliftun!
 - Hello everyone, I am [Mohammed Anaf](https://github.com/mohammedanaf) and excited to contribute to open-source projects.
 - Hello fellow **Programmers!** I'm [Henry](https://github.com/hevprog) and this is my **First time making a PR**
+- Hello Guys, This is Vaasu Marothia aka [jeetungaa] (https://github.com/jeetungaa).
+**First time making a contro**
 - Hi I'm Michelle Sheu uwu
 - [Inzamam Ulhaq](https://github.com/Inzamamulhaq01)  [https://www.linkedin.com/in/inzamam-ulhaq1/] **My first step on OS projects** 
 -Hi guys I'm Chieler from Taiwa and this is my first time trying open source
