@@ -8549,3 +8549,4 @@ Didac Vilarnau
 - [Servet Isikli](https://github.com/servetisikli)
 - Hey world, my name is Hayden White out of LA, thank you for this experience! (https://github.com/HK-White)
 - Hi :) this is my first contributions by [misim3](https://github.com/misim3).
+- [hazukit] First Contribution
