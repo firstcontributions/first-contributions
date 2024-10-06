@@ -129,6 +129,7 @@ hello world! I'm [sanika bhalerao](https://github.com/SanikaBhalerao1345) and th
 - Hello to Open Source ! [Ambuj](https://github.com/ambujbaranwal)
 - Hello Open source World, myself Priya Singh!!
 - Hello world, Key2g started here.
+- Hello everyone !! This is [Rohit Elamurugan](https://github.com/rohit-373). I am excited to start my open source journey !! :)
 - Hi, everyone. Vlad was here!
 - **Hi myself [Kaushal Bhatt], this is m,y first contribution** 
 - Hello everyone, myself Anupsinh Chauhan.
