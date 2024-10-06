@@ -3127,6 +3127,7 @@ Sam Barns
 - [Collin Montague](https://github.com/collinm10)
 - [Natasa Trisha](https://github.com/Trish1996-wq)
 - [Caue Abba](https://github.com/caueabba) **First Contribution!**
+- [Nico Quilpatay](https://github.com/nicoQuilpatay) **El software, las iglesias y las catedrales son muy parecidos: primero los construimos, luego rezamos**
 - [Balaganesh](https://github.com/balaganesh102004)
 - [Maksym Vaskin] (https://github.com/maxxim333/
 - [Ethan Flow] (https://github.com/MrF1ow)
