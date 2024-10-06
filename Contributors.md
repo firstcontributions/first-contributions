@@ -96,6 +96,7 @@ hello world! I'm [sanika bhalerao](https://github.com/SanikaBhalerao1345) and th
 - Hello, I am Santiago Morel. This is my first time contributing to another GitHub repository!
 - Hello, I am [Daniel Phillips](https://github.com/DanielPhillips632). This is my **first time contributing to another GitHub repository!**
 - Hello Guys, this is my first contribution to open source
+- Hey Everyone, I am [Diljit] (https://github.com/diljitsgit) and this is my first ever contribution.
 - Hey Guys, My first Open source contribution
 - Hey guys, Mott-Coder here [https://github.com/mott-coder]. **I'm really excited to take my first steps into the open-source community.**
 - Hi everyone , cheers to me for first time contributing to opens source [Apoorva] (https://github.com/ApoorvaLandge)
