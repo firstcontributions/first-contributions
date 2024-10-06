@@ -33,6 +33,7 @@
 - Hii, It's [Ayush](https://github.com/ayushk-1801) and **it's my first contribution to open source!!**
 - Hi from no-ppp
 - Hi I'm Pratyusha
+- Hi I'm Gauri
 - Hi I'm [Abrham](https://githb.com/abm-19) and this is my first contribution.
 - Hi I'm a Harsssssh singh.(https://github.com/harsh48389)
 - hey folks! I'm Veneela taking my first steps to contribute in open source.
