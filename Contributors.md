@@ -8567,3 +8567,5 @@ Didac Vilarnau
 - [hazukit] First Contribution
 - [ChrissiWi] (https://github.com/ChrissiWi)
 - [ffreed101] my first contribution! (https://github.com/ffreed101)
+- [Vaibhav Shelke](https://github.com/Vaibhav-shelke1) *Web Developer*
+
