@@ -869,7 +869,6 @@ Hello
 - [Brother-Rabbit](https://github.com/brotherrabbit91) **Open Source Contribution**
 - [Saadgi Bawa](https://github.com/saadgibawa) **Open Source Contribution**
 - [Faraz Naqshbandi](https://github.com/faraznaqshbandi04) **Do it one more time!!!**
->>>>>>> origin/main
 - [Utkarsh Kushwaha](https://github.com/theutkarshdev) **First open source contribution.**
 - [Almoiz khan](https://github.com/moiz2405) **Made First Open Source Contribution**
 - [Hamilcer](https://github.com/Hamilcer) **Let's do it**
@@ -8566,3 +8565,4 @@ Didac Vilarnau
 - [hazukit] First Contribution
 - [ChrissiWi] (https://github.com/ChrissiWi)
 - [ffreed101] my first contribution! (https://github.com/ffreed101)
+- https://github.com/mrmagicpotato007 Hello, this is magicpotato
