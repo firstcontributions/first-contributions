@@ -10,6 +10,7 @@
 - [Noel](https://github.com/joyles28) **+1**
 - Ruchitankshi
 - [Jaimin Suthar](https://github.com/jaimin78) **Hello, I'm Jaimin From India**
+- [Akrati Bhadauria](https://github.com/Akrati00)
 - - [Christian](https://github.com/ginoongflores) **Hello, I'm Christian From Philippines**
 - [M3XH4](https://github.com/M3XH4) **Hello, I'm Sean From Philippines**
 - [Forest Xiao](https://github.com/XiaoLinhong) **Hello, I'm Forest From China**
