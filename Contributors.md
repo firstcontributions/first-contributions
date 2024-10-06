@@ -8564,3 +8564,4 @@ Didac Vilarnau
 - Hi :) this is my first contributions by [misim3](https://github.com/misim3).
 - [hazukit] First Contribution
 - [ChrissiWi] (https://github.com/ChrissiWi)
+- https://github.com/mrmagicpotato007 Hello, this is magicpotato
