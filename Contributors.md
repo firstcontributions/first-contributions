@@ -8532,3 +8532,4 @@ Didac Vilarnau
 - **Hey there this is my second contribution from India** [Nikson](https://github.com/Nikson2003)
 - [Katarzyna Srebro](https://github.com/ksrebro-dev) **Hello Open Source!*
 - [Bruno Almeida da Silva](https://www.google.com.br) **Hellow Rio de Janeiro**
+- [Bruno Almeida da Silva](https://www.google.com.br) **Hellow Rio de Janeiro**
