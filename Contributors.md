@@ -9,12 +9,13 @@
 -Hey I am Harshvardhan Jha . I am new programmer learning to code .
 -FuelTheburn
 -SummerInDecember was here
-- Rubén Guerrero
+- 
 -Hi their, i am Harpreet from Bharat 🙏
 -[Vijayan K S](https://github.com/ksvijayan06) **If you are reading this, Remember, I'll always Love You🫵. This contribution made for the Octoberfest 2024 event. If you want to join with for the Open Source Contribution follow me on github😘**
 - Hello World! I`m [Isaac Huang](https://github.com/isaac-tw) and this is my **first time contributing to another GitHub repository!**
 - Hey, I'm [Rakshit Upadhyay](https://github.com/rakshit-upadhyay214) and it's my first open source contribution.
 - Hello, this is Shelly, My first try on Git
+- Hello My Name is Rubén Guerrero I am From Venezuela ...
 - Hello, I'm Otto
 - Hi! I'm Kyle (https://github.com/KyleGal) and this is my first open source contribution.
 - Hey There, I'm RussL [Russell Dsouza](https://github.com/Russell-Dsouzaa), and it's my first git contribution.
