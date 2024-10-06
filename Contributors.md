@@ -2068,6 +2068,7 @@ vrushabhpatil48
 - [Roopesh](https://github.com/Roopasdev)
 - [NSchiffmacher](https://github.com/NSchiffmacher) 🚀🚀
 - Kazu Sakamoto
+- Hi it's [Elias](https://github.com/eliasnorta). Good luck to everyone getting into open source! 6.10.2024
 - [Shay] (https://github.com/Devid3000/first-contributions) **Hello World! My first contribution :)**
 - [Jonathan Lu] (https://github.com/jonL0001) **Hello World! Turning a new leaf (:**
 - Aditya Lohar (https://github.com/AdityaLohar)
