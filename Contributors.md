@@ -1,6 +1,7 @@
 # Contributors
 -Testing out CLI, aprv
 - Hey, I'm Zaid and it's my first open source contribution.
+- Hey there! I'm [Anuj Kumar](https://github.com/anuj846k). Let's connect, collaborate, and grow together in the vast ocean of ***Open Source*** 🌊.
 - Hey, I'm [Sara](https://github.com/sara-mat100) and it's my first open source contribution.
 - Hey, I'm [Jose Alvarado](https://github.com/jrag-dev) and it's my fisrt open source contribution.
 - Hello, I'm [Prabal Singh](https://github.com/prblsing). Excited to be part of this community and contribute to open-source projects! 🚀💡 Always eager to learn and build together!
