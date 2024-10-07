@@ -59,6 +59,7 @@
 Thisarani Gunathilaka
 - Hi I'm Pratyusha
 - Namaste, I'm Lochan
+  Hi I'm Maxi
 - Hi I'm Adam
 - Hi I'm Gauri
 - Hi I'm [Adithya](https://github.com/ADITHYA-NS). This is my first ever contribution. :)
