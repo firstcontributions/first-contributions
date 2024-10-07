@@ -13,6 +13,7 @@
 -Hey , Im Neeraj Yadav Gosu , Check me out on (https://github.com/NeerajYadavGosu)
 -+- Hi, I'm Shoshana Morgenstern, and I enjoy solving complex problems with simple solutions. [Check me out on GitHub](https://github.com/shoshanamo)
 -Hey, I'm Jitesh Pathak. Check me out on [Github](https://github.com/jiteshpathak)
+- Hello everyone! I'm [Khalid ZEGANI](https://github.com/kzegani), **thrilled to embark on my open-source journey and connect with this vibrant community! 🚀**
 -Hi, I am Thang. This is my first contibution to an open source project.
 - Hey, I'm [Akshay Satya](https://github.com/akki-2004) and it's my first open source contribution.
 -Hello World the **GREAT** Leo has arrived: [Github](https://github.com/Leorev01)
