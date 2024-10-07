@@ -12,6 +12,7 @@
 -+- Hi, I'm Shoshana Morgenstern, and I enjoy solving complex problems with simple solutions. [Check me out on GitHub](https://github.com/shoshanamo)
 -Hey, I'm Jitesh Pathak. Check me out on [Github](https://github.com/jiteshpathak)
 -Hi, I am Thang. This is my first contibution to an open source project.
+- Hey, I'm [Meet](https://github.com/meetdomadiya) and it's my first open source contribution.
 -Hello World the **GREAT** Leo has arrived: [Github](https://github.com/Leorev01)
 -[Vishal Bist](https://github.com/Vishal-Bisht) **Getting started with the open source contributions (2024)🥂🔥**
 -Hey I am Harshvardhan Jha . I am new programmer learning to code .
@@ -8560,6 +8561,7 @@ Didac Vilarnau
 - [Guilhermne Fernandes do bem](https://github.com/GuilhermeFer29) **Hello Brasil**
 - [Mayara Menezes](https://github.com/MayaraMenezes) **Olá, Brasil**
 - Vikraman, IN (^_~)
+-
 - [Joey da Souza](https://github.com/joeydasouza) **Bom dia familia vascaina!!**
 - [Yash Israni] (https://github.com/yashisrani) ** I am a Developer from India **
 - [Taisei Kamimizu](https://github.com/Kamy-dev) ** Konnichiwa! I'm Developer from Japan **
