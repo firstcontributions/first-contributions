@@ -7677,6 +7677,7 @@ guanj65
 - [Budianto IP](https://github.com/budiantoip)
 - [Sergio Garcia Gallego](https://github.com/sgarciagallego)
 - [Rostam Sodagari](https://github.com/rostamsodagari)
+- [mis825](https://github.com/mis825)
 - [Andrew Lin] (https://github.com/Alin2299)
 - [Robert Lovari] (https://github.com/rjlovari)
 - [ananth](https://github.com/ananthvk)
