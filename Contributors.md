@@ -702,6 +702,7 @@ Prajwal was here.
 - [Ali Hamza Noor](https://github.com/ALIHAMZA99) **Here we go**
 - [Moteeullah Azmi](https://github.com/moteeullahazmi)***This is my contribution***
 - [Vince Cabuloy](https://github.com/vincecabuloy) **Hello there, first contributors**
+- [Samuel Kyama](https://github.com/kyamasam) **Here is my first contribution**
 -[Vince Baniago](https://github.com/vincebaniago) **Here we go again**
 - [Vishrut Sharma](https://github.com/vishrutss) **My first contribution**
 -[KithM4](https://github.com/KithM4)**This is my First Git contribution, Follow me on Git**
