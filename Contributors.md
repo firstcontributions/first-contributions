@@ -8578,3 +8578,4 @@ Didac Vilarnau
 - [codymathews1995] Hello world, my name is Cody! (https://github.com/codymathews1995)
 - Hello World,I'm [caolib](https://github.com/caolib)
 - [ymzhang-cs](https://github.com/ymzhang-cs) Hello! I'm a student from BJTU. Nice to meet you!
+- Hey, I'm [Chia-Lin](https://github.com/ChiaLinz), an AI Engineer with experience in AI and data science. Excited for my first open source contribution!
