@@ -406,6 +406,7 @@ Sabrina J Valcin
 - [Somya Malik](https://github.com/somyasinghmalik) **Learning to contribute**
 - adosari 
 I am glad to use Github
+- [Grace] (https://github.com/GraceC-339) **FIRST CONTRIBUTIONS! Let's do it girls!**
 - [Matei](https://github.com/MateiF23) **FIRST CONTRIBUTIONS LETSSSSS GOOOOO BOYSSS"**
 wowww
 - [Mogboluwaga Onayade](https://github.com/MogboPython) **Trying to get into contributing to open source, excited to begin.**
