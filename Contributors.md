@@ -2117,6 +2117,7 @@ vrushabhpatil48
 - [Yushi Cui](https://github.com/rafaricardo)
 - [Vish Lella] (https://github.com/VishLella) **Hello!**
 - [Alphin Jain](https://github.com/jainalphin)
+- [Jose A. Garcia] (https://github.com/jaggdsw)
 - [Ahmad Abuzaina](https://github.com/ahabuzaina)**El Psy Kongroo**
 - [Muhammad ALi Hassan](https://github.com/CodeBy-Ali)
 - [David Hong](https://github.com/hyt152004)
