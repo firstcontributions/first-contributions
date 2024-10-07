@@ -59,6 +59,7 @@ Thisarani Gunathilaka
 - Namaste, I'm Lochan
 - Hi I'm Adam
 - Hi I'm Gauri
+- Hi I'm [Adithya](https://github.com/ADITHYA-NS). This is my first ever contribution. :)
 - Hi I'm [Abrham](https://githb.com/abm-19) and this is my first contribution.
 - Hi I'm a Harsssssh singh.(https://github.com/harsh48389)
 - hey folks! I'm Veneela taking my first steps to contribute in open source.
