@@ -8580,4 +8580,4 @@ Didac Vilarnau
 - [ymzhang-cs](https://github.com/ymzhang-cs) Hello! I'm a student from BJTU. Nice to meet you!
 - Hey, I'm [Chia-Lin](https://github.com/ChiaLinz), an AI Engineer with experience in AI and data science. Excited for my first open source contribution!
   Hey,I'm [GGG-xsb],a student from China .And I'm so glad to take a part in a new program and add MYNAME.Wish all then best;
-  Hey,I'm [wang15653572782],a student from China,I hope my pr can be merge;
+  Hi,I'm [wang15653572782],a student from china.
