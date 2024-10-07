@@ -108,6 +108,7 @@ hello world! I'm [sanika bhalerao](https://github.com/SanikaBhalerao1345) and th
 - ash
 - Heyy all!, I am Rama Krishna Chaithanya from India. **This is my first contribution to an open source project!!!** . Check me out on [Github](https://github.com/SRKChaithanya)
 - Hello, I am Santiago Morel. This is my first time contributing to another GitHub repository!
+- Hey everyone, I am Hardik from India. Although I have made contributions before, I am doing this just for fun.
 - Hello, I am [Daniel Phillips](https://github.com/DanielPhillips632). This is my **first time contributing to another GitHub repository!**
 - Hello Guys, this is my first contribution to open source
 - Hey Everyone, I am [Diljit] (https://github.com/diljitsgit) and this is my first ever contribution.
