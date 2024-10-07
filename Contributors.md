@@ -6090,6 +6090,7 @@ Philip Ambattu
 - [Eliptik111](https://github.com/eliptik1)
 - [Eliptik1](https://github.com/eliptik1)
 - [yearofglad](https://github.com/yearofglad) 早上好
+- [David_Li](https://github.com/1320503154)Just do it! Don`t think to much!
 - [cazza91](https://github.com/cazza91)
 - [sognatoreZ](https://github.com/sognatoreZ)
 - [Ratnesh kumar](https://github.com/16ratneshkumar)learning by doing
