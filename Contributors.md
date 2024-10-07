@@ -13,6 +13,7 @@
 -+- Hi, I'm Shoshana Morgenstern, and I enjoy solving complex problems with simple solutions. [Check me out on GitHub](https://github.com/shoshanamo)
 -Hey, I'm Jitesh Pathak. Check me out on [Github](https://github.com/jiteshpathak)
 -Hi, I am Thang. This is my first contibution to an open source project.
+- Hey, I'm [Akshay Satya](https://github.com/akki-2004) and it's my first open source contribution.
 -Hello World the **GREAT** Leo has arrived: [Github](https://github.com/Leorev01)
 -[Vishal Bist](https://github.com/Vishal-Bisht) **Getting started with the open source contributions (2024)🥂🔥**
 -Hey I am Harshvardhan Jha . I am new programmer learning to code .
