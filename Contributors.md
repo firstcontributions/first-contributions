@@ -8578,6 +8578,7 @@ Didac Vilarnau
 - Hey world, my name is Hayden White out of LA, thank you for this experience! (https://github.com/HK-White)
 - Hi :) this is my first contributions by [misim3](https://github.com/misim3).
 - [hazukit] First Contribution
+- [Itsuren](https://github.com/ITSUREN) from Nepal, nice to be here.
 - [ChrissiWi] (https://github.com/ChrissiWi)
 - [ffreed101] my first contribution! (https://github.com/ffreed101)
 - [shaowei] **Hello World!** 
