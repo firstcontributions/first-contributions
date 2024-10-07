@@ -66,6 +66,7 @@ Hi, it's me Saad (linkedin: https://www.linkedin.com/in/saad-ashraf-380715222/) 
 Thisarani Gunathilaka
 - Hi I'm Pratyusha
 - Namaste, I'm Lochan
+  Hi I'm Maxi
 - Hi I'm Adam
 - Hi I'm Gauri
 - Hi, I'm [Jace](https://github.com/jarock123)! This is my first contribution.
