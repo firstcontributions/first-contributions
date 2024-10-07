@@ -45,6 +45,7 @@
 - Hii, It's [Ayush](https://github.com/ayushk-1801) and **it's my first contribution to open source!!**
 - Hi from no-ppp
 Thisarani Gunathilaka
+- Hi I'M Meer arsalan ali and i am a full stack web developer
 - Hi I'm Pratyusha
 - Hi I'm Gauri
 - Hi I'm [Abrham](https://githb.com/abm-19) and this is my first contribution.
@@ -52,6 +53,7 @@ Thisarani Gunathilaka
 - hey folks! I'm Veneela taking my first steps to contribute in open source.
 - Hi I am Batman.
 - Hi I am Spiderman. 
+- Hi i am superman
 - Hi eveyone I am Rahul this is my first ever open soure contribution and definitely not my last. Here's my GitHub [Rahul](https://github.com/RahulHarihar)
 - Hey I'm Palozz
 - Hi Friends, This is [Rajat Singh](https://github.com/Rajat3254/), Happy learning & Happy coding ! 
