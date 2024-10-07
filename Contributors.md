@@ -16,6 +16,7 @@
 -[Vishal Bist](https://github.com/Vishal-Bisht) **Getting started with the open source contributions (2024)🥂🔥**
 -Hey I am Harshvardhan Jha . I am new programmer learning to code .
 - Hey, Harshad This side [Github](https://github.com/MaratheHarshad)
+- Hey, Suhel this side [Github](https://github.com/Suhelkhan12)
 -FuelTheburn
 -SummerInDecember was here
 -Hi their, i am Harpreet from Bharat 🙏
