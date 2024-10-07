@@ -5,6 +5,7 @@
 - Hey there! I'm [Anuj Kumar](https://github.com/anuj846k). Let's connect, collaborate, and grow together in the vast ocean of ***Open Source*** 🌊.
 - Hey, I'm [Sara](https://github.com/sara-mat100) and it's my first open source contribution.
 - Hey, I'm [Jose Alvarado](https://github.com/jrag-dev) and it's my fisrt open source contribution.
+- Loading..., Hey! it's me Yash: [GitHub](https://github.com/YASH2204V)& [Linkedin](https://www.linkedin.com/in/yash-varma-/) I am very excited to carry on my journey on open source contribution. You wanna come along and see my journey, have a look to my social handles mentioned🎊⭐.
 - Hello, I'm [Atin](https://github.com/atinbera), it's my first open source contribution and let's learn, connect & help together towards a smart developer🔥🚀.
 - Hello, I'm [Prabal Singh](https://github.com/prblsing). Excited to be part of this community and contribute to open-source projects! 🚀💡 Always eager to learn and build together!
 - **Brace yourselves!** Mohamed Nour is here to code, conquer, and contribute! 💻✨ [Check me out on GitHub](https://github.com/MohamedNourDerbeli) before I accidentally break the internet... again. 😅 First open-source PR, but definitely not the last!
