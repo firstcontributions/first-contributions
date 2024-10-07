@@ -8554,6 +8554,7 @@ Didac Vilarnau
 - [Jorge Arrieta] (https://github.com/JorgeArrieta87/first-contributions) __Hello World__
 - [Peace Akoja] (https://github.com/BluTargaryan) **Hello from the UK!!!!!!**
 - [Patricio Pilco] (https://github.com/patriciopilco) **Hello from Ecuador**
+- [Yetso] (https://github.com/Yetso) **Hello from Belgium !**
   
   ​                                                          
 - [victor de lima](https://github.com/victor-engineer)
