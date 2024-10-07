@@ -1222,6 +1222,7 @@ Rudraksh Upadhyay- learing to contribute in open source projects
 - Alan Lucas De Souza
 - malka
 - Ananthakrishna K
+- Hello I'm [Ferfoui](https://github.com/Ferfoui), I'm a French student and I love *Java* !
 - Anton
 - [Subham Agarwala](https://github.com/subham-agarwal05)
 - [Vihaan Pradeep](https://github.com/Vihaan-Pradeep) **Contributing to an Open source!!**
