@@ -49,6 +49,7 @@
 - Hi from no-ppp
 Thisarani Gunathilaka
 - Hi I'm Pratyusha
+- Namaste, I'm Lochan 
 - Hi I'm Gauri
 - Hi I'm [Abrham](https://githb.com/abm-19) and this is my first contribution.
 - Hi I'm a Harsssssh singh.(https://github.com/harsh48389)
