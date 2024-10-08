@@ -12,6 +12,7 @@
 - [Sahin was here](https://github.com/sahinyes)
 - Hello world this is Avike
 - It's Caroline!
+- Hi! My name is Al2! Happy to try this!
 - Hello from Ravindu! Happy to be here.
 - Hi, I'm [ParkNaJin](https://github.com/cosmoss919) from Korea. It's my my first open source contribution.
 - Hi, Im [Young](https://youkoutaku.github.io/) from China. I'm a learning master’s student at Japan and it's my first open source contribution.
