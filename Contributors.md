@@ -1,5 +1,6 @@
-# Contributors
--Testing out CLI, aprv
+
+- Hello, I'm [Hassan R](https://github.com/hassanraha) and it's my first open source contribution.
+- Testing out CLI, aprv
 - Hello, I'm Anuraj Shrestha and it's my first open source contribution. (https://github.com/raj1552)
 - [Prasad Patil](https://github.com/purrsad) **open-source has a new Don in town**
 - Never Forget, Confusion is part of Programming - Vishal Wagh
