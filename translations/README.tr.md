@@ -5,13 +5,11 @@
 
 # İlk katkılar
 
-Zor gelir. Bir işi ilk kez yapmak her zaman zor gelir. Özellikle birileriyle işbirliği içindeyseniz, hata yapmak içinize sinmez. Fakat açık kaynağın temelinde işbirliği ve birlikte çalışma yatar. Biz açık kaynak projelere ilk kez katkıda bulunacak kişilerin süreci öğrenmesini ve ilk katkılarını sunmalarını kolaylaştırmak istiyoruz.
+Bu proje yeni başlayan geliştiricilerin nasıl ilk katkılarını yapacağını basitleştirmeyi ve öğretmeyi amaçlar. Eğer ilk katkılarınızı yapmak istiyorsanız aşağıdaki adımları takip edin.
 
-Makale okumak ve eğitim videoları izlemek yardımcı olabilir, fakat bir işi gerçekten yapmanın yerini ne tutabilir ki? Bu proje yeni başlayanların veya ilk defa katkıda bulunacakların işini kolaylaştırmak ve onlara rehberlik etmek amacındadır. Unutmayın ki ne kadar rahat olursanız o kadar rahat öğrenirsiniz. Eğer bir GitHub projesine ilk defa katkıda bulunacaksanız, aşağıda gösterilen basit adımları izlemeniz yeterli olacaktır. Söz veriyoruz, eğlenceli olacak.
+_Eğer komut satırı kullanarak rahat etmezseniz, [Grafik Arayüzü Eğitimleri](https://github.com/firstcontributions/first-contributions/blob/main/README.md#tutorials-using-other-tools)
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
-
-Eğer bilgisayarınızda git kurulu değil ise, [ yükleyin ]( https://help.github.com/articles/set-up-git/ ).
+**Eğer bilgisayarınızda git kurulu değil ise,** [ yükleyin ]( https://help.github.com/articles/set-up-git/ ).
 
 ## Projeyi "çatallama"
 
@@ -22,7 +20,7 @@ Bu işlem sizin hesabınız altında projenin bir kopyasını oluşturacaktır.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Şimdi bu depoyu bilgisayarınıza klonlayın. GitHub hesabınıza gidin, çatalladığınız depoyu açın, 'clone' butonuna basıp ardından *copy to clipboard* ikonuna basın.
+Şimdi çatallanmış depoyu bilgisayarınıza klonlayın. GitHub hesabınıza gidin, çatalladığınız depoyu açın, 'clone' butonuna basıp ardından *copy to clipboard* ikonuna basın.
 
 Daha sonra komut istemini açıp aşağıdaki git komutunu çalıştırın:
 
