@@ -8652,3 +8652,4 @@ Didac Vilarnau
 - Hey, I'm [Mithila Prabashwara](https://github.com/mthlpbs), SE student. Nice to be here.
 - Hey, I am [Rob Thomas](https://github.com/Rob-Thomas-236), all the way from Canberra, Australia!
 - Hello World! I'm [rubemoon](https://github.com/rubemoon). 🌟 This is my **first contribution**! I am a **Full Stack Developer**. Let's connect on [LinkedIn](https://www.linkedin.com/in/rubens-jean-simon)!
+- Hello programmers' world! I am [Diego Cubillo](https://github.com/diegocubillo) and hopefully this is not only my first PR, but also the first of many more upcoming PRs.
