@@ -1,5 +1,6 @@
 # Contributors
 -Testing out CLI, aprv
+- [Prasad Patil](https://github.com/purrsad) **open-source has a new Don in town**
 - Never Forget, Confusion is part of Programming - Vishal Wagh
 - I'm [Furkan Kapukaya](https://github.com/furkankapukayaa). **Hi from TÜRKİYE**
 - Hello, I'm [Cyber DK](https://github.com/dk1285) and it's my first open source contribution.
