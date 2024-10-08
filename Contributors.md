@@ -8681,3 +8681,4 @@ Didac Vilarnau
 - Hello, I am [Auntie Yafe](https://github.com/auntieyafen). Danke!
 - Hi there, greetings!
 - Hi, I am Sagar!
+- Hi, i'm samy; from Algeria
