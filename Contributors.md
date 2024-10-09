@@ -30,6 +30,9 @@
 - # Hi, I am [Vatsal Saxena](https://vatsalsaxena22.github.io/myPortfolio/) ✨ [![Static Badge](https://img.shields.io/badge/Vatsal%20Saxena-white?style=flat&logo=github&logoColor=white&labelColor=black)](https://github.com/vatsalsaxena22) ✨ [![Static Badge](https://img.shields.io/badge/Vatsal%20Saxena-white?style=flat&logo=linkedin&logoColor=blue&labelColor=white&color=blue)](https://linkedin.com/in/vatsalsaxena), this is my first open-source contribution.
 - Hello I am [Abraham](https://github.com/VSAbraham)
 - Hey there! I'm [Anuj Kumar](https://github.com/anuj846k). Let's connect, collaborate, and grow together in the vast ocean of ***Open Source*** 🌊.
+- **Hey, I'm [Nand Patel](https://github.com/Nand1904), and this is my first leap into the world of open-source contributions!** 🚀 As a software developer with a passion for solving complex problems, I'm *excited* to start giving back to the community that has taught me so much.
+> **My focus** is on clean, efficient code and tackling challenges with a fresh perspective—whether it's fixing bugs, enhancing features, or contributing new ideas. I'm eager to collaborate, learn, and make a positive impact. *Let's build something awesome together!* 💻✨
+Check out my personal portfolio: **[my-brown-portfolio.com](https://my-brown-portfolio.com)**
 - Hey, I'm [Sara](https://github.com/sara-mat100) and it's my first open source contribution.
 - Hey, I'm [Jose Alvarado](https://github.com/jrag-dev) and it's my fisrt open source contribution.
 - Loading..., Hey! it's me Yash: [GitHub](https://github.com/YASH2204V)& [Linkedin](https://www.linkedin.com/in/yash-varma-/) I am very excited to carry on my journey on open source contribution. You wanna come along and see my journey, have a look to my social handles mentioned🎊⭐.
