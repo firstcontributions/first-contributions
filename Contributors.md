@@ -1304,6 +1304,7 @@ Rudraksh Upadhyay- learing to contribute in open source projects
 - [Subham Agarwala](https://github.com/subham-agarwal05)
 [David Rosario](https://github.com/DavidRosario26387), Astra Was here->Fata Vien Invenient
 - [Vihaan Pradeep](https://github.com/Vihaan-Pradeep) **Contributing to an Open source!!**
+- [David Henein] (https://github.com/kingdavid93) **FIRST**
 - [Krithik Ravindran](https://github.com/krithikravi) **First of many hopefully**
 - Asyraf Zaid first contribution on GitHub [Hi developers!]
 - [Joseph W. Allen](https://github.com/jwallen3801) **Hey everybody**
