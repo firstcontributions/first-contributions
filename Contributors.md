@@ -4,6 +4,7 @@
 - Hey! Myself [Touseef Ahmed](https://github.com/touseef0707). Excited for my first contribution.
 - Hello, I'm Anuraj Shrestha and it's my first open source contribution. (https://github.com/raj1552)
 - [Prasad Patil](https://github.com/purrsad) **open-source has a new Don in town**
+- Hello, my name is [OndrejDudacek](https://github.com/OndrejDudacek). Team Czech Republic
 - Never Forget, Confusion is part of Programming - Vishal Wagh
 - Hello, I'm [Nishil](https://github.com/nishoof), a CS major at the University of San Francisco!
 - I'm [Furkan Kapukaya](https://github.com/furkankapukayaa). **Hi from TÜRKİYE**
