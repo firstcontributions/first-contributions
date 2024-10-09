@@ -268,6 +268,7 @@ hello world! I'm [sanika bhalerao](https://github.com/SanikaBhalerao1345) and th
 - [Yogesh Singh](https://github.com/yogesh3singh) **My first contribution, thank you guys!**
 - [Anvisha Vartak](https://github.com/Anvisha2004) **My first contribution to open source community
 - [Joshua Tsou] First Contribution
+- [Shreyash Sharma] First Contribution
 - Hey folks! [GURRAM YOGIT](https://github.com/yogit043) here . Thrilled to be part of the open source community.
 - [K Naga Himaja] Hello everyone! So happy to finally start my OS journey [https://www.linkedin.com/in/k-naga-himaja/]
 - [I Bemdev] *2024 1st year* Hello everyone! So happy and to finally start OS journey [https://github.com/Adebemdev]
