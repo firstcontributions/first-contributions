@@ -1,6 +1,7 @@
 # Contributors
 -Testing out CLI, aprv
 - Hey New Contributors, Myself [Govardhan](https://github.com/GovardhanGova7277). I want to be the best open source contributor in the world.
+- hola, soy sanyiago
 - Hey! Myself [Touseef Ahmed](https://github.com/touseef0707). Excited for my first contribution.
 - Hello, I'm Anuraj Shrestha and it's my first open source contribution. (https://github.com/raj1552)
 - [Prasad Patil](https://github.com/purrsad) **open-source has a new Don in town**
@@ -8714,4 +8715,4 @@ Didac Vilarnau
 - Hello, I'm [cqw-acq](https://github.com/cqw-acq). I am from Beijing
 - Hello, My name is [Aung Bhone Myat], and you can call me "Aung" (https://github.com/aungbhonemyat155). and hello from Myanmar.
 - Hello, I'm [Henry](https://github.com/henry200601)
-- Hello, I'm [Suman](https://github.com/shoomankhatri) , I am  from Nepal and I love building logic.
+- Hello, I'm [Suman](https://github.com/shoomankhatri) , I am  from Nepal and I love building logic.- Hello, I'm [Suman](https://github.com/shoomankhatri) , I am  from Nepal and I love building logic.
