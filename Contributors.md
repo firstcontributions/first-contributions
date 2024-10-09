@@ -576,7 +576,8 @@ wowww
 - [Morgan Anderson] (https://github.com/morganog) **Just trying to do something that matters!**
 - [Advait Chalke] (https://github.com/chalky25) **I wanna be the very best, like no one ever was!**
 - [Bruce G](https://github.com/bruceg14) **Good Luck**
-- [Adeir Junior](https://github.com/adeirjunior) **Hi!** It's nice to see my name between people from everyplace in the world `:)`
+- [Adeir Junior](https://github.com/adeirjunior) **Hi!** It's nice to see my name between people from everyplace in the world `
+- N3rdyOne - ] (https://github.com/n3rdyone) *commit commit!*
 - [Gitika]
 - Akshay Sagar
 - [Rheann V] ** HI **
