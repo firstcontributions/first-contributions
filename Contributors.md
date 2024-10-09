@@ -425,6 +425,7 @@ Jojo
 - [Kariuki Mwangi](https://github.com/kariuki79) ** first contribution**
 - [Christopher Msindo](https://github.com/Christopher-Kaiser) **Great to be here with you guys!**
 - [Kanatov Vladislav](https://github.com/lon8/) **Good day, bro!**
+- [Chiyou Xiong] (https://github.com/Orpheus-1) **First Step Into A Lifelong Journey, Feels Great to Start Here** 
 - [Lishin V S](https://github.com/Ellvius/) **Venturing into the world of Open Source**
 - [Levi Ly](https://github.com/levihly) **bepbepbep**
 - [Ko Ko Naing](https://github.com/ko-ko-naing) **dev27/9/24**
