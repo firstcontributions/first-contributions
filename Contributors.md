@@ -23,6 +23,7 @@
 - Hello world this is Avike
 - Hi! This is AV13, marking my first step into open-source-projects.
 - It's Caroline!
+- [Thomas] - Hello Here
 - Hola, Fernando estuvo aquí:)
 - Hi im niv,excited to be here.
 - It's Nitin !!! learning open source and trying to be the part of community.
@@ -7776,7 +7777,6 @@ guanj65
 - [LXTKay]
 - [bergsj] (https://github.com/bergsj)
 - [Siddarth Sangavi](https://github.com/Siddarthsangavi)
-- Hi! I'm [Juan Daniel](https://github.com/JuanDaniel00), from Colombia. Have a nice day if you read this.
 - [Daniele Messina](https://github.com/MessinaDev)
 - [rysya] (https://github.com/rysya2000)
 - [Pramodh Ugargol] (https://github.com/PRAMOMDHUGARGOL)
@@ -8716,5 +8716,4 @@ Didac Vilarnau
 - Hello, I'm [cqw-acq](https://github.com/cqw-acq). I am from Beijing
 - Hello, My name is [Aung Bhone Myat], and you can call me "Aung" (https://github.com/aungbhonemyat155). and hello from Myanmar.
 - Hello, I'm [Henry](https://github.com/henry200601)
-- Hello, I'm [Suman](https://github.com/shoomankhatri) , I am  from Nepal and I love building logic.- Hello, I'm [Suman](https://github.com/shoomankhatri) , I am  from Nepal and I love building logic.
-- Hello, I'm [Fuyuko](https://github.com/fuyuko)
+- Hello, I'm [Suman](https://github.com/shoomankhatri) , I am  from Nepal and I love building logic.
