@@ -18,6 +18,7 @@
 - [Sahin was here](https://github.com/sahinyes)
 - Hello from meet.(https://github.com/meetdomadiya/)
 - Hello, I'm [Mathangi](https://github.com/math121). I'm getting into open source contributions and this is my first step into it!
+- Hello World! My name is Vini (https://github.com/nogsposito)
 - Hello world this is Avike
 - Hi! This is AV13, marking my first step into open-source-projects.
 - It's Caroline!
