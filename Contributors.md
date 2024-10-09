@@ -8698,3 +8698,4 @@ Didac Vilarnau
 - Hi, i'm samy; from Algeria
 - Hello, I'm [wanlu](https://github.com/wanlufun). I am very excited to carry on my journey on open source contribution.
 - Hello, I'm [thanhtayaung](https://github.com/thanhtayaung-1989). I am from Myanmar.
+- Hello, I'm [cqw-acq](https://github.com/cqw-acq). I am from Beijing
