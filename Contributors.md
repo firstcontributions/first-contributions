@@ -1290,6 +1290,7 @@ Rudraksh Upadhyay- learing to contribute in open source projects
 - [undefined010] **hello world !**
 - Hasmeet Khatri: 1st github contribution.
 - Talles Cardoso
+- [Spoikee](https://github.com/spoikee) **Hello, World!**
 - Jeferson Ramos Fonseca
 - Alan Lucas De Souza
 - malka
