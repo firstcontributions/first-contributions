@@ -8629,6 +8629,7 @@ Didac Vilarnau
 - [Vatsal Goel] (https://github.com/VatsalGoel3) **First public repo contribution**
 - [Kiran Patil](https://github.com/Kiranpatil02) **First PR for the OS 🚀**
 - [Pei Kang] (https://github.com/peiKanguu) **Hi! I am Pei Kang form China.This is my first PR."
+- [Pradhyuman Pandey] (https://github.com/CODERPP10) **HacktoberFest'24 Let's Go!!**
 - [Chirag Arora](https://github.com/Chirag8023) **Open Source is best 🍕**
 - [Leexyy0804](https://github.com/leexyy0804) **Start of my open source journey**
 - [PavitraSharma01](https://github.com/PavitraSharma01)(** Hello evryone, let's start the Open Source ontribution journey!!!**
@@ -8698,3 +8699,4 @@ Didac Vilarnau
 - Hi, i'm samy; from Algeria
 - Hello, I'm [wanlu](https://github.com/wanlufun). I am very excited to carry on my journey on open source contribution.
 - Hello, I'm [thanhtayaung](https://github.com/thanhtayaung-1989). I am from Myanmar.
+
