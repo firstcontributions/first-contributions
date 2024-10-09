@@ -7265,6 +7265,7 @@
 - [LXTKay]
 - [bergsj] (https://github.com/bergsj)
 - [Siddarth Sangavi](https://github.com/Siddarthsangavi)
+- Hi! I'm [Juan Daniel](https://github.com/JuanDaniel00), from Colombia. Have a nice day if you read this.
 - [Daniele Messina](https://github.com/MessinaDev)
 - [rysya] (https://github.com/rysya2000)
 - [Pramodh Ugargol] (https://github.com/PRAMOMDHUGARGOL)
@@ -8124,9 +8125,6 @@
 - [Peace Akoja] (https://github.com/BluTargaryan) **Hello from the UK!!!!!!**
 - [Patricio Pilco] (https://github.com/patriciopilco) **Hello from Ecuador**
 - [Yetso] (https://github.com/Yetso) **Hello from Belgium !**
-
-  ​
-
 - [victor de lima](https://github.com/victor-engineer)
 - [juhdakd](https://github.com/juhdakd)**Hello World**
 - [sph](https://github.com/sphcode) **Hello World my first PR**
@@ -8184,3 +8182,5 @@
 - Hello, My name is [Aung Bhone Myat], and you can call me "Aung" (https://github.com/aungbhonemyat155). and hello from Myanmar.
 - Hello, I'm [Henry](https://github.com/henry200601)
 - Hello, I'm [Suman](https://github.com/shoomankhatri) , I am from Nepal and I love building logic.
+- Hello, I'm [Suman](https://github.com/shoomankhatri) , I am  from Nepal and I love building logic.
+- - Hello, I'm [Suman](https://github.com/shoomankhatri) , I am  from Nepal and I love building logic.
