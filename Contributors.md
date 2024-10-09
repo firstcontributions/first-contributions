@@ -1,5 +1,4 @@
 # Contributors
- Hi, I'm [Arun](https://github.com/arun-alagu) and it's my first open source contribution.
 -Testing out CLI, aprv
 - Hey New Contributors, Myself [Govardhan](https://github.com/GovardhanGova7277). I want to be the best open source contributor in the world.
 - Hey! Myself [Touseef Ahmed](https://github.com/touseef0707). Excited for my first contribution.
@@ -8690,3 +8689,7 @@ Didac Vilarnau
 - Hi, I am Sagar!
 - Hola, Me llamo [Victor Garcia] Esta es mi primera contribucion, quiero ser Front End Developer. https://github.com/VictorGarcia2/
 - Hi, i'm samy; from Algeria
+- Hello, I'm [wanlu](https://github.com/wanlufun). I am very excited to carry on my journey on open source contribution.
+- Hello, I'm [thanhtayaung](https://github.com/thanhtayaung-1989). I am from Myanmar.
+- Hello, I'm [cqw-acq](https://github.com/cqw-acq). I am from Beijing
+- Hello, My name is [Aung Bhone Myat], and you can call me "Aung" (https://github.com/aungbhonemyat155). and hello from Myanmar.
