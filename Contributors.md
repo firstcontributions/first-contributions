@@ -67,6 +67,7 @@ Hi, it's me Saad (linkedin: https://www.linkedin.com/in/saad-ashraf-380715222/) 
 - Hello World! I`m [Isaac Huang](https://github.com/isaac-tw) and this is my **first time contributing to another GitHub repository!**
 - Hey, I'm [Rakshit Upadhyay](https://github.com/rakshit-upadhyay214) and it's my first open source contribution.
 - Hello World! I am [Tommaso Frau](https://github.com/tommasofrau). This is my first contribution and I'm really excited to be part of the community!
+- Hello All! I am [Jeet Das](https://github.com/JeetDas5). Nice to meet you all.
 - Hello, this is Shelly, My first try on Git
 - Hello, I'm Otto
 - Hy, I'm Bibungthi Borgayary, check me out on (https://github.com/bibungthiborgayary)😊😊😅
