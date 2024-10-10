@@ -95,6 +95,7 @@ Hi, it's me Saad (linkedin: https://www.linkedin.com/in/saad-ashraf-380715222/) 
 - Hello, I'm [Samuel](https://github.com/sammy6378), happy to contribute.
 - Hello, I'm [Sarthak](https://github.com/sarthak-12), this is my first open source contribution.
 - Hi! I'm Kyle (https://github.com/KyleGal) and this is my first open source contribution.
+- Hey! I'm Anandu and this is my first open-source contribution.
 - Hi! I'm [Sreeram](https://github.com/srrm99).
 - Hey There, I'm RussL [Russell Dsouza](https://github.com/Russell-Dsouzaa), and it's my first git contribution.
 - Hey There, I'm Jaime [Jaime Nunes](https://github.com/jaimenunes), and it's my first git contribution.
