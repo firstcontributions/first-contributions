@@ -8375,6 +8375,7 @@ https://github.com/06Gagan
 - [Ivan Yanez] (https://github.com/ivanyanez27) **Contribution from somewhere in the world**
 - [Chaitanya Harish] (https://github.com/chaitnayah) **My firs open source contribution**
 - First Contribution!
+- [Michele Lorenzo](https://github.com/michelelorenzo) **Hello, this is my first contribution! Wish everyone an exciting journey**
 - [Gallypotato](https://github.com/Gallypotato) **please**
 - [Carl Martin](https://github.com/cmartin-gnrc) **My firs open source contribution**
 - [Anand Maurya](https://github.com/SMOS-Github) ||My first open source contribution||
