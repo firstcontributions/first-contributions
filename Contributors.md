@@ -8744,3 +8744,4 @@ Didac Vilarnau
 - Hello I'm [Daksh](https://github.com/daksh-xyz) I am from India, I am a first time contributor!
 - Hi, I'm [daframp](https://github.com/Daframp)
 - Hello I'm [Kierinter](https://github.com/Kierinter) I am just normal university student hopping for peaceful live .
+- Hello I'm [Nihar](https://github.com/anihar2003) and this is my first contribution.
