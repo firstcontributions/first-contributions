@@ -79,6 +79,7 @@ Hi, it's me Saad (linkedin: https://www.linkedin.com/in/saad-ashraf-380715222/) 
 - Hey, Harshad This side [Github](https://github.com/MaratheHarshad)
 - Hey, Suhel this side [Github](https://github.com/Suhelkhan12)
 -FuelTheburn
+- Hi👋! [Dario Marin](https://github.com/DarioAMarinRoth) here!
 -Lavish Agarwal❤️
 -SummerInDecember was here
 -Hello I am Omar. I am making this contribution as practice. 
