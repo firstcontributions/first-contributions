@@ -8750,6 +8750,7 @@ Didac Vilarnau
 - Hello I'm [Liam](https://github.com/l33445) Nice to meet you!
 - Hello I'm [Daksh](https://github.com/daksh-xyz) I am from India, I am a first time contributor!
 - Hi, I'm [daframp](https://github.com/Daframp)
+- Hello from VE i'm [Gregorio](https://github.com/Grego14)
 - Hello I'm [Kierinter](https://github.com/Kierinter) I am just normal university student hopping for peaceful live .
 - Hello I'm [Nihar](https://github.com/anihar2003) and this is my first contribution.
 - Hello, my name is [Prince](https://github.com/Prince-Bassi) and I think I got how it works?
