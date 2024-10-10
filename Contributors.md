@@ -1,4 +1,6 @@
 # Contributors
+
+- Hi, I'm Reddi Rani, and this is my first open-source contribution! I'm excited to join this community and look forward to collaborating with others. Feel free to connect with me on [Github!](https://github.com/reddirani8496) and [LinkedIn!](https://www.linkedin.com/in/reddirani/)
 - Hi, I'm [Arun](https://github.com/arun-alagu) and it's my first open source contribution.
 -Testing out CLI, aprv
 - Hey New Contributors, Myself [Govardhan](https://github.com/GovardhanGova7277). I want to be the best open source contributor in the world.
