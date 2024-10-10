@@ -1,5 +1,6 @@
 # Contributors
 -Testing out CLI, aprv
+- woow! first contribution made. I am [Kwesi](https://github.com/Kwesi-dev).
 - Hi, I'm [Arun](https://github.com/arun-alagu) and it's my first open source contribution.
 - Hey New Contributors, Myself [Govardhan](https://github.com/GovardhanGova7277). I want to be the best open source contributor in the world.
 - hola, soy sanyiago
@@ -13,6 +14,7 @@
 - Hello, I'm [Pavel Olysar](https://github.com/PavelOlysar). Happy to make my first contribution.
 - Never Forget, Confusion is part of Programming - Vishal Wagh
 - Hello, I'm [Nishil](https://github.com/nishoof), a CS major at the University of San Francisco!
+- Hi this is [Haya]
 - I'm [Furkan Kapukaya](https://github.com/furkankapukayaa). **Hi from TÜRKİYE**
 - Hello, I'm [Cyber DK](https://github.com/dk1285) and it's my first open source contribution.
 - Loading..., Hey! it's me Arun: [GitHub](https://github.com/herearunsharma)& [Linkedin](https://www.linkedin.com/in/herearunsharma/) I am very excited to carry on my journey on open source contribution. You wanna come along and see my journey, have a look to my social handles mentioned🎊⭐.
@@ -8734,3 +8736,6 @@ Didac Vilarnau
 - Hi, I am [Radowids](https://github.com/Radowids)
 - Hi! I'm [Abby](https://github.com/KyleGal) and this is my first open source contribution.
 - Hello I'm [Tyler](https://github.com/TLeFevre2003) check out some of my projects!
+- Hi! I'm [Leslie](https://github.com/MrD-Lt) After using GitHub casually for a few years, I'm starting to try to be a little more careful today:)
+- Hello I'm [Liam](https://github.com/l33445) Nice to meet you!
+- Hello I'm [Daksh](https://github.com/daksh-xyz) I am from India, I am a first time contributor!
