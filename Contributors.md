@@ -1,6 +1,6 @@
 # Contributors
-- Hi, I'm [Arun](https://github.com/arun-alagu) and it's my first open source contribution.
 -Testing out CLI, aprv
+- Hi, I'm [Arun](https://github.com/arun-alagu) and it's my first open source contribution.
 - Hey New Contributors, Myself [Govardhan](https://github.com/GovardhanGova7277). I want to be the best open source contributor in the world.
 - hola, soy sanyiago
 - yo
