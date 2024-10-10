@@ -7,6 +7,7 @@
 - yo
 - hi, I'm krishna
 - Hey! I'm [Aditya](https://github.com/AdityaSinha2305) and it's my first open source contribution.
+- Hey! I'm [Mashrafie] (https://github.com/m3tal10) and it's my first contribution.
 - Hola! Mi nombre es Windel [WindelCruz](https://github.com/WindelCruzR). Excited for my first contribution.
 - Hey! Myself [Touseef Ahmed](https://github.com/touseef0707). Excited for my first contribution.
 - Hi all, I'm Nirmaan [Nirmaan Goyal](https://github.com/nirmaangoyal). CS major at Cal state Dominguez Hills.
