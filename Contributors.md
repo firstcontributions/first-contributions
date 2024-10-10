@@ -2,12 +2,14 @@
 
 - woow! first contribution made. I am [Kwesi](https://github.com/Kwesi-dev).
 - # Hi im [Vaibhav](https://github.com/vai195), this is my first open source contribution.
+- I'm [Biruk](https://github.com/Biruk42)
 - Hi, I'm [Arun](https://github.com/arun-alagu) and it's my first open source contribution.
   -Testing out CLI, aprv
 - Hey New Contributors, Myself [Govardhan](https://github.com/GovardhanGova7277). I want to be the best open source contributor in the world.
 - hola, soy sanyiago
 - yo
 - hi, I'm krishna
+- Hey! I'm Ritesh Kumar
 - Hey! I'm [Aditya](https://github.com/AdityaSinha2305) and it's my first open source contribution.
 - Hey! I'm [Mashrafie] (https://github.com/m3tal10) and it's my first contribution.
 - Hola! Mi nombre es Windel [WindelCruz](https://github.com/WindelCruzR). Excited for my first contribution.
