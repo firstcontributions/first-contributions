@@ -5,6 +5,7 @@
 - Hey New Contributors, Myself [Govardhan](https://github.com/GovardhanGova7277). I want to be the best open source contributor in the world.
 - hola, soy sanyiago
 - yo
+- hi, I'm krishna
 - Hey! I'm [Aditya](https://github.com/AdityaSinha2305) and it's my first open source contribution.
 - Hola! Mi nombre es Windel [WindelCruz](https://github.com/WindelCruzR). Excited for my first contribution.
 - Hey! Myself [Touseef Ahmed](https://github.com/touseef0707). Excited for my first contribution.
