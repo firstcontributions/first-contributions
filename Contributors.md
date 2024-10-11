@@ -74,6 +74,7 @@ Hi am [Jambong Ralpher](https://github.com/Jambong-Ralpher).Love to connect with
 - Hello! Sumukh beaming in!
 - Hey I am Abhinav and this is my introduction to the world of open-source!
 - This is Pankaj Kumar Pandit, starting my contribution journey.
+- This is Kratharth and here is my first open source contribution.
 - [Niklas](https://github.com/niklasfriberg) checking in for duty.
 - Hello, this is Anamitra, excited to begin my open source journey!
 - Hy, I'm Bhatesh Khairnar, check me out on (https://github.com/BhateshKhairnar)
