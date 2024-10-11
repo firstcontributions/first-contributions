@@ -5499,6 +5499,7 @@ Parthiv Saikia
 - manato-takahashi
 - [Fexxix](https://github.com/Fexxix/first-contributions.git)
 - [James E.]
+- [Peterson Moro](https://github.com/PM0R0)
 - [Arnav Gupta] -[Inthiyaz](https://github.com/S-gif-eng)
 - [Mark Louis Bernardo](https://github.com/marklouisALTER)
 - [gjeodnd12165](https://github.com/gjeodnd12165)
