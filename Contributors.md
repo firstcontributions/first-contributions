@@ -2,6 +2,7 @@
 - woow! first contribution made. I am [Kwesi](https://github.com/Kwesi-dev).
 - I'm [Biruk](https://github.com/Biruk42)
 - Hi, I'm [Arun](https://github.com/arun-alagu) and it's my first open source contribution.
+- Hi, I'm [KushalSuvan](https://github.com/KushalSuvan) 
 -Testing out CLI, aprv
 - Hey New Contributors, Myself [Govardhan](https://github.com/GovardhanGova7277). I want to be the best open source contributor in the world.
 - hola, soy sanyiago
