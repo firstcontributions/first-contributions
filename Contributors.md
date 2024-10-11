@@ -67,7 +67,7 @@ Oi eu sou o Lucas Rocha
 - Hello. I'm Akhil. 
 - Hello i love panpy so much , thankyou
 - Hi, I'm [ParkNaJin](https://github.com/cosmoss919) from Korea. It's my my first open source contribution.
-- Hi, I'm [Vedant](https://github.com/vedant-dwivedi/) and it's my first open source contribution.
+- Hi, I'm [Vedant](https://github.com/vedant-dwivedi/) and  it's my first open source contribution.
 - Hi, Im [Young](https://youkoutaku.github.io/) from China. I'm a learning master’s student at Japan and it's my first open source contribution.
 - Hi there, I am Arnav from India. Excited to start my open source contribution journey!!
 - Hi, I'm [Masahiro Miwa (masa0902dev)](https://github.com/masa0902dev). &nbsp;&nbsp;<span style='font-weight: bold; font-style: italic;'>\~~<span style='color: pink;'>Hello World</span>\~~</span>
