@@ -15,6 +15,7 @@ Hi, i am dev
 - Hi, Im [MangPi](https://github.com/Mangpi4code)
 - hi, I'm Jacob Davis
 - hi, I'm krishna
+- Hi, I'm [Cate](https://github.com/cateallen)
 - Hey! I'm Ritesh Kumar
 - Hey! I'm Nilanshu Ranjan (https://github.com/NilanshuRanjan)
 - Hey! I'm [Aditya](https://github.com/AdityaSinha2305) and it's my first open source contribution.
