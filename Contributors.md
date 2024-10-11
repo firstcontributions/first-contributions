@@ -15,7 +15,7 @@
 - Hey! I'm Ritesh Kumar
 - Hey! I'm Nilanshu Ranjan (https://github.com/NilanshuRanjan)
 - Hey! I'm [Aditya](https://github.com/AdityaSinha2305) and it's my first open source contribution.
-- 
+- Hi, I'm Reddi Rani, and this is my first open-source contribution! I'm excited to join this community and look forward to collaborating with others. Feel free to connect with me on [Github!](https://github.com/reddirani8496) and [LinkedIn!](https://www.linkedin.com/in/reddirani/)
 - Hey! I'm [Mashrafie] (https://github.com/m3tal10) and it's my first contribution.
 - Hola! Mi nombre es Windel [WindelCruz](https://github.com/WindelCruzR). Excited for my first contribution.
 - Hey! Myself [Touseef Ahmed](https://github.com/touseef0707). Excited for my first contribution.
