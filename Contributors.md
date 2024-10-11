@@ -6127,6 +6127,7 @@ Philip Ambattu
 - [Paul Danso Asare](https://github.com/colorwhite-git)
 - [Hasan Dilshad Husain](https://github.com/Hasan-1-6)
 - [Alfonso de Mora Navarro](https://github.com/demora33)
+- [Penguintheorem](https://github.com/penguintheorem) Pingu philosophy 🐧🐧🐧
 - [Gaopo Huang](https://github.com/GaopoHuang)
 - [Victor Alejandro Contreras Vargas](https://github.com/vc743) Who's gonna carry the boats?💪🔥
 - [titamoto](https://github.com/titamoto)
