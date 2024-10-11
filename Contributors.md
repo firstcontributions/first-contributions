@@ -6,6 +6,8 @@
 - el
 - [Dumitrescu Richárd Ádám] (https://github.com/Trescu) **newbie**
 - [nchong128](https://github.com/nchong128) was here!
+Hello folks !!! I'm [Harsh Banerjee] and this is my first COntribution . .THIS IS THE STARTING OF MY OPEN SOURCE JOURNEY . Let's get this party started . (https://github.com/h-banerjee) **Hello world!**
+
 - Hello People this is my First time Github!. [Taeos](https://github.com/taeos). 
 - Hello fellow first time GitHub users! [Andrew Thomas](https://github/com/asteng88). **Thrilled to be learning new things every day from an awesome community!**
 - Hi there! [Prabhav](https://github.com/perbaw) here. Let's connect on [LinkedIn](https://www.linkedin.com/in/prabhavshetty). (:
