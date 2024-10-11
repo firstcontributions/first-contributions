@@ -1,5 +1,4 @@
 # Contributors
-- Hi, I'm Vishal Yadav (@vishxly), a passionate developer with a background in web development and experience in React.js, JavaScript, and full-stack technologies. This is my first open-source contribution, and I'm excited to collaborate and learn from the community!
 - woow! first contribution made. I am [Kwesi](https://github.com/Kwesi-dev).
 - I'm [Biruk](https://github.com/Biruk42)
 - Hi, I'm [Arun](https://github.com/arun-alagu) and it's my first open source contribution.
@@ -16,6 +15,7 @@
 - Hey! I'm Ritesh Kumar
 - Hey! I'm Nilanshu Ranjan (https://github.com/NilanshuRanjan)
 - Hey! I'm [Aditya](https://github.com/AdityaSinha2305) and it's my first open source contribution.
+- 
 - Hey! I'm [Mashrafie] (https://github.com/m3tal10) and it's my first contribution.
 - Hola! Mi nombre es Windel [WindelCruz](https://github.com/WindelCruzR). Excited for my first contribution.
 - Hey! Myself [Touseef Ahmed](https://github.com/touseef0707). Excited for my first contribution.
