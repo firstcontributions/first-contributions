@@ -25,6 +25,7 @@ Hi, i am dev
 - Hello, I'm Anuraj Shrestha and it's my first open source contribution. (https://github.com/raj1552)
 - [Prasad Patil](https://github.com/purrsad) **open-source has a new Don in town**
 - Hello, my name is [OndrejDudacek](https://github.com/OndrejDudacek). Team Czech Republic
+Oi eu sou o Lucas Rocha
 - Hello, I'm [Pavel Olysar](https://github.com/PavelOlysar). Happy to make my first contribution.
 - Never Forget, Confusion is part of Programming - Vishal Wagh
 - Hello, I'm [Nishil](https://github.com/nishoof), a CS major at the University of San Francisco!
