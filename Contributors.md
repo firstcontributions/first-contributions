@@ -452,6 +452,7 @@ Hej! I'm Gustav from Stockholm, Sweden.
 -[Naj](Man this is overwhelming but not impossible!)
 Jojo 
 - hello
+- hi!
 - ['Layomi Lawore](https://github.com/Layomi1) **My journey into the world of open source**
 - [Jenny](https://github.com/JenniferLA) **Ayeeee first contribution:) Thank you for the help!**
 - [bhakti](https://github.com/BhaktiMore18) **Great way to learn how to contribute for the first time!!**
@@ -563,6 +564,7 @@ wowww
 - [Aryan Jand](https://github.com/aryanjand) **I'd love to learn more from amazing repositories like this one!**
 - [Salman Mehdi](https://github.com/salmanrh02) **First contribution :)**
 - [Asier Ortiz](https://github.com/asier-ortiz) **My first open source contribution, thanks to First Contributions for making it so easy! 🚀**
+- Hi!
 - [Nava Sasson](https://github.com/NavaSasson/first-contributions) **First contribution**
 - [Milan Ram](https://github.com/milanram) **First contribution**
 - [Anuj Parwal](https://github.com/Raltoos) **Ready to learn**
