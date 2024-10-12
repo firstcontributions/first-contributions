@@ -2089,7 +2089,8 @@ Esta es mi primera contribucion por parte de la URC
 - [Jiseob Byeon](https://github.com/simple-is-great) **This is my first contribution:) Let's be bold** 
 - [Claire-Youmans](https://github.com/clairebeware) **First contribution to open source**
 - [Maximilian Isidore](https://github.com/MaximilianIsidore) **My first contribution, look forward to contribute more**
-- [Aarav Jaichand](https://github.com/aaravjaichand)
+- [Aarav Jaichand](https://github.com/aaravjaichand) 
+- [Jacob Lawson](https://github.com/L4wson) **Hi, I'm jacob lawson making my first contribution**
 - [Ashley Conner](https://github.com/valardohaeris2) First timer! 
 - [Na-Tag](https://github.com/Na-Tag) **hi, cotributors!**
 - [Matthaios Zafeiriou](https://github.com/MattZafeiriou) **Hello there**
