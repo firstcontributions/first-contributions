@@ -20,6 +20,7 @@ Hi, i am dev
 - Hi, Im [MangPi](https://github.com/Mangpi4code)
 - hi, I'm Jacob Davis
 - hi, I'm krishna
+- Hi, I'm [Satyam](https://github.com/satyam0827/) and it's my first contribution to opensource 
 - Hi, I'm [Cate](https://github.com/cateallen)
 - Hola! Soy [pabloreina97](https://github.com/pabloreina97), de España.
 - Hey! I'm Ritesh Kumar
