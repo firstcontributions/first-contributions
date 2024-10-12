@@ -4617,6 +4617,7 @@ Jasmine
 - [Ruben Rios](https://github.com/kinhsiz)
 - [Houri MK](https://github.com/hmoham42)
 - [Muhammad Arslan](https://github.com/muh-arslan)
+- [Tautminas](https://github.com/tautminas)
 - [Hava] (https://github.com/stellar-flame)
 - [Harshil Sharma](https://github.com/harshilshrma)
 - [Nitin S](https://github.com/bruhhnitin)
