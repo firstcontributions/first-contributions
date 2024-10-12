@@ -8824,3 +8824,4 @@ Didac Vilarnau
 - Hi, I'm [demitry](https://github.com/demitry), let's contribute.
 - Hello, I'm Matheus and it is my first contribution
 - Hi, I'm [allenlim] and I am from Malaysia.
+- Hi, I'm [kami] (https://github.com/kamifish) from France **go to contrib !**
