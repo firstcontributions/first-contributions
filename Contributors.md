@@ -8386,6 +8386,7 @@ https://github.com/06Gagan
 - [Guoqing Cao](https://github.com/g4li0)
 - [Angelo Huaraca](https://github.com/ahuaracab) **I was here! 07/18/24**
 - [Corbin Ainsworth](http://github.com/Promingy) **First Open source Contribution :D**
+- [Gagan Ahirrao](http://github.com/GaganAhirrao) **My very first open source contribution XD**
 - [Leyvi Garcia](https://github.com/lgarcia-latexpress)**this is my firt contribution 07/18/24**
 - [bruhnugget-nice](https://github.com/bruhnugget-nice)**Open source forever! 7/18/24**
 - [Aleš Zima](https://github.com/Esosek) **Added on 25.7.2024**
