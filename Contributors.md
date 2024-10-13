@@ -8850,3 +8850,4 @@ Didac Vilarnau
 - Hey, this is Karan from Canada!
 - Hi this is Yu from China.
 - Hi, this is [Leonardo Trindade] from Brazil(https://github.com/leotavo)
+- Hi, this is [Kanishk Mittal] from UK(https://github.com/Kanishkmittal55)
