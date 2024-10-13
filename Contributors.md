@@ -63,6 +63,7 @@ Oi eu sou o Lucas Rocha
 - Hey, This is [Dibyadyuti (a.k.a. unknownguy49)](https://www.linkedin.com/in/dibyadyuti-dutta/), a tech enthusiast. You can connect with me.
 - Hey, I'm [Shaz](https://github.com/MdShaz9771) and it's my first open source contribution.
 - [Sahin was here](https://github.com/sahinyes)
+- Hello World from [Aditya More](https://Dev-Aditya-More)
 - Hello from meet.(https://github.com/meetdomadiya/)
 - Hello, I'm [Mathangi](https://github.com/math121). I'm getting into open source contributions and this is my first step into it!
 - Hello World! My name is Vini (https://github.com/nogsposito)
