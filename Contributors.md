@@ -3,6 +3,7 @@
 - Hi! I'm [Lucas](https://github.com/lucasmartins-92/) from Brazil.
 - woow! first contribution made. I am [Kwesi](https://github.com/Kwesi-dev).
 - Namaste GitHub. I am [Shubhamsharmaer](https://github.com/shubhamsharmaer), just made my first Open Source Contribution.
+-I'm[Sylvan](https://github.com/Shaka42)
 - I'm [Biruk](https://github.com/Biruk42)
 - Hi, I'm [Arun](https://github.com/arun-alagu) and it's my first open source contribution.
 - Hi I'm [Michelle](https://github.com/michelledeeney85) and this is my first open source contribution. 
