@@ -47,7 +47,7 @@ Hi, i am dev
 - Hey! I'm Ritesh Kumar
 - Hey! I'm Nilanshu Ranjan (https://github.com/NilanshuRanjan)
 - Hey! I'm [Aditya](https://github.com/AdityaSinha2305) and it's my first open source contribution.
-- 
+- Hello everyone! 😊 I'm [Angela] (https://github.com/akurtalieva) ⭐ This is my first contribution to an open source project ⭐
 - Hey! I'm [Mashrafie] (https://github.com/m3tal10) and it's my first contribution.
 - Hola! Mi nombre es Windel [WindelCruz](https://github.com/WindelCruzR). Excited for my first contribution.
 - Hey! Myself [Touseef Ahmed](https://github.com/touseef0707). Excited for my first contribution.
