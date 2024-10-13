@@ -1,5 +1,5 @@
 # Contributors
-- Hey everyone! Greetings from Risav, I am [Risav Kumar Jha](https://github.com/risavjhagithubrit) from India.
+Hey everyone! Greetings from Risav. I am [Risav Kumar Jha](https://github.com/risavjhagithubrit) from India.
 - hey everyone! Greetings from Cyprus, I am [bluemindset](https://github.com/bluemindset).
 - Hi! I'm [Lucas](https://github.com/lucasmartins-92/) from Brazil.
 - woow! first contribution made. I am [Kwesi](https://github.com/Kwesi-dev).
