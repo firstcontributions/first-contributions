@@ -8839,3 +8839,4 @@ Didac Vilarnau
 - Yoo I'm [Sathwik] and I am here to play with alien species named humans.
 - Hey, soy [Marcos Sánchez](https://github.com/basurakid), un saludo!
 - Hey, this is Karan from Canada!
+- Hi this is Yu from China.
