@@ -7667,6 +7667,7 @@ guanj65
 - [Monica]
 - [SinSheng]
 - [Asumi]
+- [rodrigo-lex]
 - [Xiang You] (https://github.com/emp-912) ** Hello, first**
 - [Angelika Valerio](https://github.com/angelikavalerio)
 - [jeong-haerim](https://github.com/Jeong-hae-rim)
