@@ -21,6 +21,7 @@
 Hi, i am dev
 - Hi, I'm Masahiro and it's my first contribution to opensource!
 - Hi yo, I'm Vam
+- Hey Everyone! My name is [Zargul](https://github.com/zar373) and that's my Second Contribution :)
 - Hey what's up? My name's [Gabriel Venturini](https://github.com/Gabriel-Venturini) and that's my first contribution!
 - It's meee!!!! [Dheeraj](https://github.com/Dheeraj-147)
 - Hello there!I'm Crab, and this right here, is history
