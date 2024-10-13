@@ -23,6 +23,7 @@ Hi, I'm aashik here
 Hi, i am dev
 - Hi, I'm Masahiro and it's my first contribution to opensource!
 - Hi yo, I'm Vam
+- Hi I'm Anuj (https://github.com/anujtiwari1406)
 - hi, myself ayushi mittal
 - Hey Everyone! My name is [Zargul](https://github.com/zar373) and that's my Second Contribution :)
 - Hey what's up? My name's [Gabriel Venturini](https://github.com/Gabriel-Venturini) and that's my first contribution!
