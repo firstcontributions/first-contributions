@@ -27,6 +27,7 @@ Hi, i am dev
 - Hi, Im [Blondestan](https://github.com/Blondestan)
 - Hi, Im [MangPi](https://github.com/Mangpi4code)
 - hi, I'm Jacob Davis
+- Hello!👋 I am [Tore m. Hirth](https://github.com/Torehirth), and this is my first contribution to open source🚀
 - hi guys, I'm Akash it's my first contribution
 - hi, I'm krishna
 - Hi, I'm [Satyam](https://github.com/satyam0827/) and it's my first contribution to opensource
