@@ -4418,6 +4418,7 @@ something...changed
 - [Aryan Singh](https://github.com/LongClawSword)
 - [Smihah A](https://github.com/smi-unicorn)
 - [Benjamin Cruickshank](https://github.com/OfficerClucks)
+- [Aryan Jain](https://github.com/jaryan728)
 - [Renna Carver](https://github.com/rennacarver)
 - [Diptaraj Sen](https://github.com/diptaraj23)
 - [Danyang Zhao](https://github.com/Alaurant)
