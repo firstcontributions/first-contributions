@@ -1,6 +1,7 @@
 # Contributors
   Hi! Am [LewisMoruri](https://github.com/Lewismoruri)..well am glad this is the first contribution I've made.
 - Hi! Greetings from Joel
+- Hi, [Nitesh Jadhav](https://github.com/NitZZ057) here. Please feel free to connect.
 - Hi, I'm Nick and this is my first contribution.
  - https://github.com/Sandigupta
 - hey everyone! Greetings from Cyprus, I am [bluemindset](https://github.com/bluemindset).
