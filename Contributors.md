@@ -7279,6 +7279,7 @@ LadegbayeStella)
 - [Eric Compton](https://github.com/ecomptonn)
 - [Roshan](https://github.com/roshaneleshaddai)
 - [HoangNamIO](https://github.com/hoang1510-dt)
+- Hey, I'm [Paulo Santiago](https://github.com/Psantiag0) and it's my first open source contribution.
 - [Aon Daniel Aoncoded14](https://github.com/aoncoded14)
 - [Jorge Zapata](https://github.com/gmixzapata/curso-git.git)
 - [Chisha Malama](https://github.com/Chisha2004)
