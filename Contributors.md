@@ -8875,3 +8875,4 @@ Didac Vilarnau
 - Hi, I'm [Natan] (https://github.com/natanxds), this contribution came from Brazil!!!
 - Hi, I'm [Dinal] From Sri Lanka
 - Selam, my name is [Leul Mesfin](https://github.com/leulmesfin). I'm from the USA!
+- Halo, saya [Rizal Hanafi](https://github.com/hana-ri). This contribution came from Bandung, Jawa Barat, Indonesia.
