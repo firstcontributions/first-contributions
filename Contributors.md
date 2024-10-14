@@ -1230,6 +1230,7 @@ Theresia Calista
 - [arundas](https://github.com/arundas285/) **Backend developer,mastered in golang.Feel free to connect with me**
 - [Gurveen Sahni](https://github.com/gurveenkaur6) **This is my first OpenSource contribution, Yayyy !!**
 - [Shivam Sharma](https://github.com/10sharmashivam) **Making my First OSS, looking forward to growing with you guys**
+- [Shajandevz](https://github.com/shahjahan-arif) **Making my First OSS, looking forward to growing with you guys**
 - [Aryan Surin](https://github.com/aryan-surin) **Let's gooo my 1st contribution🥳**
 - [Nishant Kumar](https://github.com/nyshnt) **Thrilled to make my first contribution to open source!**
 - [Jay Malli](https://github.com/jaymalli) **First open source contribution**
