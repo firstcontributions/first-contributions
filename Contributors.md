@@ -1,5 +1,6 @@
 # Contributors
-  Hi! Am [LewisMoruri](https://github.com/Lewismoruri)..well am glad this is the first contribution I've made.
+- नमस्ते This is [Devesh] (https://github.com/devesh192)
+  -Hi! Am [LewisMoruri](https://github.com/Lewismoruri)..well am glad this is the first contribution I've made.
 - Hi! Greetings from Joel
 - Hello! This is [Adarsh Tripathi] (https://github.com/iaadarsh23) here. This is my     first open source contribution
 - Hi, [Nitesh Jadhav](https://github.com/NitZZ057) here. Please feel free to connect.
