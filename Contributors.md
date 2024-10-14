@@ -8875,6 +8875,7 @@ Didac Vilarnau
 - Hi, this is [sofi bonch] (https://github.com/sofibonch)
 - Hi, I'm [Natan] (https://github.com/natanxds), this contribution came from Brazil!!!
 - Hi, I'm [Dinal] From Sri Lanka
+- Hi, I'm [romy] (https://github.com/parksaerom)
 - Selam, my name is [Leul Mesfin](https://github.com/leulmesfin). I'm from the USA!
 - Halo, saya [Rizal Hanafi](https://github.com/hana-ri). This contribution came from Bandung, Jawa Barat, Indonesia.
 - Hi, this is [JamesSand](https://github.com/JamesSand). Very happy to say hi to everyone here. I am looking for any chat or collaborations!. Feel free to email me to shazhizhou0@gmail.com
