@@ -18,6 +18,7 @@ Hi, I'm aashik here
 - Hi, I'm [Arun](https://github.com/arun-alagu) and it's my first open source contribution.
 - Hi I'm [Michelle](https://github.com/michelledeeney85) and this is my first open source contribution. 
 - Making my first contribution to a project [pkimSec](https://github.com/pkimsec).
+- [Vishal Sharma](https://github.com/vishal4dev) **It's a good day to get into Open Source Contributions**
 - Hi, I'm [KushalSuvan](https://github.com/KushalSuvan) 
 -Testing out CLI, aprv
 -Hi tech nerds, I'm Adeesha. You can find me on https://www.linkedin.com/in/ahttps://www.linkedin.com/in/arunodagunawardana/
