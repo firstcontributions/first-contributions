@@ -8026,5 +8026,3 @@ vivek saskar
 - [Montserrat Lopez](https://github.com/cutmountain) **So excited with my first contribution!**
 - [Pedro Castro](https://github.com/peucastro/) **Hello from Porto-PT!**
 - [Masa](https://github.com/Masa512411) **Hello World!!!!!!**
-
-  ​                                                           
