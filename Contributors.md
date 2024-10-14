@@ -382,6 +382,7 @@ Hej! I'm Gustav from Stockholm, Sweden.
 - [Yakub Abdulrahman Alada] **My First Contribution**
 - Hey I´m Nico
 - [Thelen] **First contribution
+- [Dhaqane] **First Ever contribution
 - [JavaScribeXixi2024] **My First Contribution**
 - [sahith][s-venom] **My First Contribution**
 - [BeringeloF] **Eu estive aqui**
