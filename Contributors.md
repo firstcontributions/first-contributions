@@ -8876,3 +8876,4 @@ Didac Vilarnau
 - Hi, I'm [Dinal] From Sri Lanka
 - Selam, my name is [Leul Mesfin](https://github.com/leulmesfin). I'm from the USA!
 - Halo, saya [Rizal Hanafi](https://github.com/hana-ri). This contribution came from Bandung, Jawa Barat, Indonesia.
+- Hi, this is [JamesSand](https://github.com/JamesSand). Very happy to say hi to everyone here. I am looking for any chat or collaborations!. Feel free to email me to shazhizhou0@gmail.com
