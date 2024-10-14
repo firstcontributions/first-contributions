@@ -22,7 +22,8 @@ Hi, I'm aashik here
 - Hi, I'm [KushalSuvan](https://github.com/KushalSuvan) 
 - Hi, I'm [busa2022](https://github.com/busa2022)
 -Testing out CLI, aprv
--Hi tech nerds, I'm Adeesha. You can find me on https://www.linkedin.com/in/ahttps://www.linkedin.com/in/arunodagunawardana/
+- Hi, I am Harsha Siddalingachar from India. Happy to contribute to this repo.
+- Hi tech nerds, I'm Adeesha. You can find me on https://www.linkedin.com/in/ahttps://www.linkedin.com/in/arunodagunawardana/
 - Hey New Contributors, Myself [Govardhan](https://github.com/GovardhanGova7277). I want to be the best open source contributor in the world.
 - hola, soy sanyiago
 Hi, i am dev
