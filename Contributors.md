@@ -1,5 +1,9 @@
 # Contributors
+<<<<<<< HEAD
+- Hi I am Anurag Das!! (https://github.com/Anurag3000/)
+=======
 - This is the beta testing.
+>>>>>>> 94059af7449526a3e29d26d94e36891cec9828e2
 - Hi I am Shahnwaz Khan!!! (https://github.com/khanshahnwaz/)
 - Hi I am Audrie!!! (https://github.com/audrie-nielsen)
 - नमस्ते This is [Devesh] (https://github.com/devesh192)
