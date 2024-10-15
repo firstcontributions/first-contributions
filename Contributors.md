@@ -6,6 +6,7 @@
 - नमस्ते This is [Devesh] (https://github.com/devesh192)
   -Hi! Am [LewisMoruri](https://github.com/Lewismoruri)..well am glad this is the first contribution I've made.
 - Hi! Greetings from Joel
+- Hi! Richmond loved this session. 
 - Hi I am 주영준!!! (https://github.com/jooladen)
 - Hi folks! I'm glad to be part of this huge contributing community. [[[ Cheers from EGYPT ]]]
 - Hello, [Vict75](https://github.com/vict75) here from the Netherlands
