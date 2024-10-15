@@ -1,6 +1,7 @@
 # Contributors
 - This is the beta testing.
 - Hi iam Chiru !!
+- Hi! My name is David Wamiti from Kenya.(https://github.com/Wamiti1)
 - Hi I am Shahnwaz Khan!!! (https://github.com/khanshahnwaz/)
 - Hi I am Audrie!!! (https://github.com/audrie-nielsen)
 - नमस्ते This is [Devesh] (https://github.com/devesh192)
