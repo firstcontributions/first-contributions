@@ -99,6 +99,7 @@ Oi eu sou o Lucas Rocha
 -Hello world this is MIhir Katakdhond
 - Hi! This is AV13, marking my first step into open-source-projects.
 - It's Caroline!
+- Namaskara from Karnataka. I'm Hemachandra MS. Dhanyavada.
 - Hey It's Namu
 - Hello guys. With this commit I, [phos-web](https://github.com/phos-web), hereby embark on my journey into the world of opensource contributions.
 - Hola, Fernando estuvo aquí:)
