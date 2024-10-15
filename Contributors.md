@@ -8928,4 +8928,5 @@ Didac Vilarnau
 - Hallo Leute, bin [Lam Tran](https://github.com/lamteteeow). Viel Erfolg!
 - Hi, I am Aamash Ansari [Aamash Ansari](https://github.com/Aamash-18). Please Follow.
 - Hi, I'm Tausif Raza [Tausif Raza] (https://github.com/taussy10). Thanks 
+- Hi, I am Adnaan (https://www.linkedin.com/in/adnaan-ali1/)
 - This is Ravi [Ravi](https://github.com/coderravi7870)
