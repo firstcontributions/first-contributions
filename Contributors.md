@@ -4463,7 +4463,7 @@ something...changed
 - [Aryan Singh](https://github.com/LongClawSword)
 - [Smihah A](https://github.com/smi-unicorn)
 - [Benjamin Cruickshank](https://github.com/OfficerClucks)
-- [Vasanthakumar] (https://github.com/vk-vasantk-vk) **Let's make some great impacts in the Open-Source**
+- [Vasanthakumar](https://github.com/vk-vasantk-vk) **Let's make some great impacts in the Open-Source**
 - [Aryan Jain](https://github.com/jaryan728)
 - [Renna Carver](https://github.com/rennacarver)
 - [Diptaraj Sen](https://github.com/diptaraj23)
