@@ -1,7 +1,11 @@
 # Contributors
 - This is the beta testing.
+<<<<<<< HEAD
+- Hi I am Neeeeeeel!!! (https://github.com/neelkanthsahu)
+=======
 - Hi I am Shahnwaz Khan!!! (https://github.com/khanshahnwaz/)
 - Hi I am Audrie!!! (https://github.com/audrie-nielsen)
+>>>>>>> 4aeb86445a2f256ce7c823e30634837c388a89b0
 - नमस्ते This is [Devesh] (https://github.com/devesh192)
   -Hi! Am [LewisMoruri](https://github.com/Lewismoruri)..well am glad this is the first contribution I've made.
 - Hi! Greetings from Joel
