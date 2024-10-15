@@ -1,6 +1,6 @@
 # Contributors
 - This is the beta testing.
-- ###Hi I am Bryscar20 :-) Nice to meet you 👍
+- ###Hi I am Bryscar20 :-) Nice to meet you 👍 
 - Hi iam Chiru !!
 - Hi I am Shahnwaz Khan!!! (https://github.com/khanshahnwaz/)
 - Hi I am Audrie!!! (https://github.com/audrie-nielsen)
