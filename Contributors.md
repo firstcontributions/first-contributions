@@ -20,6 +20,7 @@ Hi, I'm aashik here
 - Hello world! I'm Raşit Yılmaz [rasityilmazdev](https://github.com/rasityilmazdev) and this is my first open source contribution.
 - woow! first contribution made. I am [Kwesi](https://github.com/Kwesi-dev).
 - Hi , I am [Manish Walia](https://github.com/manishwalia15). This is my first contribution.
+- Hi, I am Shreya https://github.com/shreya-koder, just made my first contribution
 - Hey everyone! I am Divyansh (https://github.com/div-dev123)
 - Namaste GitHub. I am [Shubhamsharmaer](https://github.com/shubhamsharmaer), just made my first Open Source Contribution.
 -I'm[Sylvan](https://github.com/Shaka42)
