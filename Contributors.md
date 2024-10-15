@@ -43,6 +43,10 @@ I am Adnaan (https://github.com/Valley-15)
 - Hi, I'm [busa2022](https://github.com/busa2022)
 -Testing out CLI, aprv
 - HIIII , I am Neeraj and this is my first contribution thank you.
+
+- Hi! I'm Winnie Gitau from <kbd>[<img title="Kiswahili (Kenya)" alt="Kiswahili (Kenya)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ke.svg" width="22">](translations/README.kws.md)</kbd> <kbd>[<img title="Tanzania" alt="Swahili language" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tz.svg" width="22">](translations/README.sw.md)</kbd>, I just made my first two contributions
+
+
 - Hi, I am Harsha Siddalingachar from India. Happy to contribute to this repo.
 - Hi tech nerds, I'm Adeesha. You can find me on https://www.linkedin.com/in/ahttps://www.linkedin.com/in/arunodagunawardana/
 - Hey New Contributors, Myself [Govardhan](https://github.com/GovardhanGova7277). I want to be the best open source contributor in the world.
