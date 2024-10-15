@@ -699,6 +699,7 @@ wowww
 - [Remus](https://github.com/TheDude-Dude) **I'll look back on this**
 - Chad W
 - Collin Boyer
+- [James R](https://github.com/jamesruffle/) **Git commit -m 'Hawk Tuah'**
 - [Jaitra Saketh](https://github.com/jaitrasaketh/) **Task-1 under FOSS Mentorship!**
 - [NIKHIL KUMAR] (https://github.com/Nikhil-002/) **STARTING MY OPEN SOURCE JOURNEY!!**
 - [Sandesh Ganesh](https://github.com/sandesh-ganesh)**here we go again** 
