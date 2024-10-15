@@ -127,6 +127,7 @@ Oi eu sou o Lucas Rocha
 - It's Nitin !!! learning open source and trying to be the part of community.
 - Hi! My name is Al2! Happy to try this!
 - Hi there, I'm Nico :)
+- Hi I am Akrati Bhadauria(https://github.com/Akrati00) 
 - Hello, I am Cui Chenhao. It's nice to meet you all here and wish you all the best.
 - Hello from Ravindu! Happy to be here.
 - Hello. I'm Akhil. 
