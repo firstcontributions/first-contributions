@@ -63,6 +63,7 @@ Hi, i am dev
 - hi guys, I'm Akash it's my first contribution
 - hi, I'm krishna
 - hi, I' m Paul
+- Hi, I'm Andre-dev! I am know and would love a follow (https://github.com/AndreMiranda-dev). Thank you!
 - Hi, I'm [Satyam](https://github.com/satyam0827/) and it's my first contribution to opensource
 - Hi, I'm [Srikar](https://github.com/Mystery-Coder), this is my beginning to opensoure
 - Hi, I'm [Cate](https://github.com/cateallen)
