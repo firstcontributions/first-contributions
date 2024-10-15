@@ -231,7 +231,7 @@ Hi, it's me Saad (linkedin: https://www.linkedin.com/in/saad-ashraf-380715222/) 
 Thisarani Gunathilaka
 - Hi I'm Pratyusha
 - Namaste, I'm Lochan
-  Hi I'm Maxi
+  Hi I'm kriti
 - Hi I'm Adam
 - Helooo I'm Artin!!!
 - Hi, I'm [Mezbaul Anam](https://github.com/mezbaulanam) from Bangladesh
