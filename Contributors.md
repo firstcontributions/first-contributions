@@ -66,6 +66,7 @@ Hi, i am dev
 - Hello, this is a very useful contribution
 - Hello, this is [bbyoda](https://github.com/tridungng).
 - Hey! I'm [Mashrafie] (https://github.com/m3tal10) and it's my first contribution.
+- Hi, I'm [João](https://github.com/joaodll).
 - Hola! Mi nombre es Windel [WindelCruz](https://github.com/WindelCruzR). Excited for my first contribution.
 - Hey! Myself [Touseef Ahmed](https://github.com/touseef0707). Excited for my first contribution.
 - Hi all, I'm Nirmaan [Nirmaan Goyal](https://github.com/nirmaangoyal). CS major at Cal state Dominguez Hills.
