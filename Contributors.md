@@ -1,5 +1,10 @@
 # Contributors
+<<<<<<< HEAD
 - Hi I am Neeeeeeel!!! (https://github.com/neelkanthsahu)
+=======
+- Hi I am Shahnwaz Khan!!! (https://github.com/khanshahnwaz/)
+- Hi I am Audrie!!! (https://github.com/audrie-nielsen)
+>>>>>>> 4aeb86445a2f256ce7c823e30634837c388a89b0
 - नमस्ते This is [Devesh] (https://github.com/devesh192)
   -Hi! Am [LewisMoruri](https://github.com/Lewismoruri)..well am glad this is the first contribution I've made.
 - Hi! Greetings from Joel
@@ -12,6 +17,7 @@
 - Hi, [Nitesh Jadhav](https://github.com/NitZZ057) here. Please feel free to connect.
 Hi, I'm aashik here
 - Hallo! I am HawkerX and this is my first contribution!!!!
+- Hi guys 👋 this is my first contribution 🎉
 - Hi, I'm Nick and this is my first contribution.
  - https://github.com/Sandigupta
 - hey everyone! Greetings from Cyprus, I am [bluemindset](https://github.com/bluemindset).
