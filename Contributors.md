@@ -4463,6 +4463,7 @@ something...changed
 - [Aryan Singh](https://github.com/LongClawSword)
 - [Smihah A](https://github.com/smi-unicorn)
 - [Benjamin Cruickshank](https://github.com/OfficerClucks)
+- [Vasanthakumar] (https://github.com/vk-vasantk-vk) **Let's make some great impacts in the Open-Source**
 - [Aryan Jain](https://github.com/jaryan728)
 - [Renna Carver](https://github.com/rennacarver)
 - [Diptaraj Sen](https://github.com/diptaraj23)
@@ -8281,7 +8282,7 @@ Hector
 - [Amansharma1821](https://github.com/Amansharma1821) 
 - [izzalDev][https://github.com/izzalDev]
 - [Sai Teja Inampudi] (https://github.com/saitejainampudi)
-- [Daniel Chen](https://github.com/spirita1204) **Its is my first contribution to open source !!**
+- [Daniel Chen](https://github.com/spirita1204) **Its is my first contribution to open source !!** 
 - [xvs03]**TEST**
 - Hello OS
 - [RaymondFH](https://github.com/RaymondFH)
