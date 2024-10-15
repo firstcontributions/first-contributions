@@ -16,6 +16,7 @@
 Hi, I'm aashik here
 - Hallo! I am HawkerX and this is my first contribution!!!!
 - Hi guys 👋 this is my first contribution 🎉
+- Salama eh 👋! I am [Lovanirina R](https://github.com/Ryuka25). Just here to put Madagascar (🇲🇬) on the list.
 - Hi, I'm Nick and this is my first contribution.
  - https://github.com/Sandigupta
 - hey everyone! Greetings from Cyprus, I am [bluemindset](https://github.com/bluemindset).
