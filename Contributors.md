@@ -63,6 +63,7 @@ Hi, i am dev
 - hi guys, I'm Akash it's my first contribution
 - hi, I'm krishna
 - hi, I' m Paul
+- Hi, I'm Andre! Hello World!
 - Hi, I'm [Satyam](https://github.com/satyam0827/) and it's my first contribution to opensource
 - Hi, I'm [Srikar](https://github.com/Mystery-Coder), this is my beginning to opensoure
 - Hi, I'm [Cate](https://github.com/cateallen)
@@ -3881,6 +3882,7 @@ Hannah Sung
 -[muhammad-hamza-ghafoor-hussain](https://github.com/Mrhamza01)
 - [MPC] (https://github.com/Myat-00)
 - Rambo
+- Andre-dev
 - Quinter Wangare
 - [Faris Haziq] (https://github.com/FarisHaziq02) **Hello my name is Faris**
 - Muluken Mamo
