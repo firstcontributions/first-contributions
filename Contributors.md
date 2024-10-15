@@ -8917,4 +8917,4 @@ Didac Vilarnau
 - Hello World, my name is [Sugeng Sulistiyawan](https://github.com/sugeng-sulistiyawan), I love open source.
 - And here is [Yiorgos Bagakis](https://github.com/yiorgosbagakis), and this is my first contribution. I am going to make many more.
 - Hallo Leute, bin [Lam Tran](https://github.com/lamteteeow). Viel Erfolg!
-- Hi, I am Aamash Ansari [Aamash Ansari](https://github.com/Aamash-18/first-contributions). Please Follow.
+- Hi, I am Aamash Ansari [Aamash Ansari](https://github.com/Aamash-18). Please Follow.
