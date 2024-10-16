@@ -8954,4 +8954,8 @@ Didac Vilarnau
 - This is [Carlos Tranquilino] (https://github.com/valium69mg). God bless you from Mexico.
 This is [Shallom Omamo] (https://github.com/graciewakir)
 - I'm [Fachry](https://github.com/fachryluid), and I'm thrilled to start my journey as an open-source developer.
+<<<<<<< HEAD
 - [Simran] (https://github.com/pixelledbot)
+=======
+- [Simran] (https://github.com/pixelledbot) from India.
+>>>>>>> my-first-contribution
