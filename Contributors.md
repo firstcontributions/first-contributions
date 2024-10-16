@@ -3231,6 +3231,7 @@ wobuxinnihuiwuliaodeduwanwodemingzi
 - [David Ulu](https://github.com/davidulu25)
 - [curiosity processor](https://github.com/curiosityprocessor)
 # hassan
+- [Omar Hidalgo] (https://github.com/OmarHG098)
 - [Martin Bohorquez](https://github.com/martinbohorquez/)
 - [Beita](https://github.com/liny18)
 - [Yoummu](https://github.com/Yoummu)
