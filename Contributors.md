@@ -1021,6 +1021,7 @@ Onyi Ajoku😄 #My very first contribution! Excited for whats to come.******
 - [Dara Yazdani](https://github.com/dyazdani) **I have now touched the source...the *open* source.**
 - [Adithya R]{https://github.com/Adithya-R-Gowda} "This is my First Contribution"
 - [Ng Xuan Yi](https://github.com/Xuanniee) **First Open Source Contribution**
+- Hi I am [Azzami](https://github.com/sternrest) this is my first contribution :D
 - [Ashish Dabral](https://github.com/DexAsHisH)
 - [Vibhum](https://github.com/vibhum15) **Hey I'am new hear , connect me hear and all the best for your open source journey**
 - [P Chatman] (https://github.com/pchatman) **Hello✌️** 
@@ -1148,6 +1149,7 @@ Hello
 - [Joosty](https://github.com/Joosty) **Hopefully the start of something big...**
 - [Aaron Mathew](https://github.com/Geeruz) **Contributing SOmething IG** 
 - [Patrick Redman] (https://PredmaBBK) **Hello all!**
+- [Ajo Jose](https://github.com/ajojose803/)**Hey you, Yes you, Everything will be alright**
 - [Agron Gojcaj](https://github.com/agron-gojcaj) **My first open source contribution!**
 - [Kristian Cifuentes](https://github.com/KristianC8) **First open source contribution**
 - [Mitarpal Grover](https://github.com/MITARPALGROVER) **My first contribution to Open Source world**
