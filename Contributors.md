@@ -1149,6 +1149,7 @@ Hello
 - [Joosty](https://github.com/Joosty) **Hopefully the start of something big...**
 - [Aaron Mathew](https://github.com/Geeruz) **Contributing SOmething IG** 
 - [Patrick Redman] (https://PredmaBBK) **Hello all!**
+- [Ajo Jose](https://github.com/ajojose803/)**Hey you, Yes you, Everything will be alright**
 - [Agron Gojcaj](https://github.com/agron-gojcaj) **My first open source contribution!**
 - [Kristian Cifuentes](https://github.com/KristianC8) **First open source contribution**
 - [Mitarpal Grover](https://github.com/MITARPALGROVER) **My first contribution to Open Source world**
