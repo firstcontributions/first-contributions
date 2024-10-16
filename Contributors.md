@@ -8596,8 +8596,7 @@ vivek saskar
 - JMA was here!
 - [YKDMan](https://github.com/ykdman)**Hello! i'm from south Korea!**
 - [Rois Khoiron](https://github.com/roiskhoiron) ** I wanna be a good programmer with join open-source projects **
-- [Hello! I'm Marwa Sayed(https://github.com/Marwa-Sayed9588) from Afghanistan] 
-
+- [Marwa Sayed from Afghanistan](https://github.com/Marwa-Sayed9588) 
 - [pierreanri] (https://github.com/pierreanri) **pierreanri's first open source contribution!**
 - [Kouta Shuhei](https://github.com/Shuhei-pp) **My first contribution**
 - [Andres Marin](https://github.com/Marin-Andres) **My first contribution**
