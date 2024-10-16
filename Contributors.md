@@ -2,6 +2,7 @@
 - This is the beta testing.
 - Hi i am fazil !!(https://github.com/MuhammedFazilPc)
 - Hi I am John Leshan!!! (https://github.com/johnleshan)
+- Hello everyone! I am Manish(https://github.com/TwilightDawn7/) and this is my first contribution to the Open Source. Really excited for this journey! God bless you All!
 - Hi iam Chiru !!
 - Hi i am Watiri
 - Hi i am Algo
