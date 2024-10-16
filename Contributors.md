@@ -49,6 +49,7 @@ I am Adnaan (https://github.com/Valley-15)
 - Hi, I am Harsha Siddalingachar from India. Happy to contribute to this repo.
 - Hi tech nerds, I'm Adeesha. You can find me on https://www.linkedin.com/in/ahttps://www.linkedin.com/in/arunodagunawardana/
 - Hey New Contributors, Myself [Govardhan](https://github.com/GovardhanGova7277). I want to be the best open source contributor in the world.
+- Hello, I'm Charan
 - hola, soy sanyiago
 Hi, i am dev
 - Hi, I'm Masahiro and it's my first contribution to opensource!
