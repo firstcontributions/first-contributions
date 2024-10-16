@@ -8948,3 +8948,4 @@ Didac Vilarnau
 - Hi, I'm [Eduardo Baptista](https://github.com/EduardoBaptista01) and I'm from Portugal.
 - This is [Carlos Tranquilino] (https://github.com/valium69mg). God bless you from Mexico.
 This is [Shallom Omamo] (https://github.com/graciewakir)
+- I'm [Fachry](https://github.com/fachryluid), and I'm thrilled to start my journey as an open-source developer.
