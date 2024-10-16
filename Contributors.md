@@ -8,6 +8,7 @@
 - Hi i am Watiri
 - Hi i am Algo
 - Hi i am Itachi Uchiha
+- Hi, this is Arun!
 - Hi I am Shahnwaz Khan!!! (https://github.com/khanshahnwaz/)
 - Hi I am Audrie!!! (https://github.com/audrie-nielsen)
 - Hi I am TTL (https://github.com/theintLwin)
