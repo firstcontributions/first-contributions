@@ -9,6 +9,7 @@
 - Hi, I'm Brian Casio (https://github.com/briancasio)
 - Hi everyone! I am Onur (https://github.com/onurerdinc) this is my first contribution to the Open Source. 
 - Hi iam Chiru !!
+- Hi iam james ngandu ! (https://github.com/jmngandu)
 - Hi i am Watiri
 - Hi i am Algo
 - Hi i am Itachi Uchiha
