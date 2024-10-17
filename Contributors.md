@@ -3225,6 +3225,7 @@ Tamar
 - [Ethan Corbett] (htps://github.com/Schnozhand03)
 - vinicius amaral
 - Cinthylli
+- gulrez pasha
 - [Michael Chen](https://github.com/vayfarer/)
 - [ANUJ] (https://github.com/THEBOSS0369)
 - [Jair Balcazar](https://github.com/Jairbal) 🕷️
