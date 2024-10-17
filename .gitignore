@@ -269,7 +269,7 @@ ServiceFabricBackup/
 *.mdf
 *.ldf
 *.ndf
-
+amber
 # Business Intelligence projects
 *.rdl.data
 *.bim.layout
