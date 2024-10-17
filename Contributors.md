@@ -81,6 +81,7 @@ Hi, i am dev
 - hi, myself ayushi mittal
 - Hey Everyone! My name is [Zargul](https://github.com/zar373) and that's my Second Contribution :)
 - Hey what's up? My name's [Gabriel Venturini](https://github.com/Gabriel-Venturini) and that's my first contribution!
+- Konichiwa! Giftlin here. Glad I am doing my first contribution here[Giftlin](https://github.com/Giftlin27)
 - It's meee!!!! [Dheeraj](https://github.com/Dheeraj-147)
 - Hello there!I'm Crab, and this right here, is history
 -Hi everyone Duncan here
