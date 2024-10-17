@@ -13,6 +13,7 @@
 - Hi iam Chiru !!
 - Hi iam james ngandu ! (https://github.com/jmngandu)
 - Hi i am Watiri
+- Hi I'm Rajkumar BM! (https://github.com/RajkumarBM-1963/)
 - Hi i am Algo
 - Hi i am నిRमல் (https://github.com/NirmalPuttamon)
 - Hi i am Itachi Uchiha
