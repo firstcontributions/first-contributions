@@ -8946,6 +8946,7 @@ Didac Vilarnau
 - Hello I'm [Daksh](https://github.com/daksh-xyz) I am from India, I am a first time contributor!
 - Hi, I'm [daframp](https://github.com/Daframp)
 - Hello from VE i'm [Gregorio](https://github.com/Grego14)
+- Hi, I'm pravin and it's my second contribution. 
 - Hello I'm [Kierinter](https://github.com/Kierinter) I am just normal university student hopping for peaceful live .
 - Hello I'm [Nihar](https://github.com/anihar2003) and this is my first contribution.
 - Hello, my name is [Prince](https://github.com/Prince-Bassi) and I think I got how it works?
@@ -8969,6 +8970,7 @@ Didac Vilarnau
 - Hey, soy [Marcos Sánchez](https://github.com/basurakid), un saludo!
 - Hi, I'm Pravin.
 - Hey, this is Karan from Canada!
+- Hi, I'm Pravin and I am from India.  
 - Hi this is Yu from China.
 - Hi, this is [Leonardo Trindade] from Brazil(https://github.com/leotavo)
 - Hi, this is [Kanishk Mittal] from UK(https://github.com/Kanishkmittal55)
