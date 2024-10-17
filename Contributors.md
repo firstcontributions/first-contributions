@@ -9001,3 +9001,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, I'm Blaise
 - Hey, this is (https://github.com/cabmatthew). Nice to see you here!
 - [Victor Amaral de Sousa](https://github.com/AmaVic) **Blockchain Consultant, Lecturer and Researcher**
+- Hey, lets hope i make some changes
