@@ -1,6 +1,8 @@
 # Contributors
 - Hello My name is Preston Mayieka (https://github.com/preston176)
+- Hello i am Dorin.
 - This is the beta testing.
+- Hello I'm Suzzie{wanjicode}
 - Hello i am Jzz.
 - Hi I am Alex Maxwell.
 - Hi i am fazil !!(https://github.com/MuhammedFazilPc)
@@ -9,6 +11,7 @@
 - Hi, I'm Brian Casio (https://github.com/briancasio)
 - Hi everyone! I am Onur (https://github.com/onurerdinc) this is my first contribution to the Open Source. 
 - Hi iam Chiru !!
+- Hi iam james ngandu ! (https://github.com/jmngandu)
 - Hi i am Watiri
 - Hi i am Algo
 - Hi i am Itachi Uchiha
@@ -185,6 +188,7 @@ Hi am [Jambong Ralpher](https://github.com/Jambong-Ralpher).Love to connect with
 - Hey! I'm Sunil, starting this shit now
 - Hello! I'm Jisol! 
 - Hello! Sumukh beaming in!
+- Hi i am Luna Hacks
 - Hey I am Abhinav and this is my introduction to the world of open-source!
 - This is Pankaj Kumar Pandit, starting my contribution journey.
 - This is Kratharth and here is my first open source contribution.
