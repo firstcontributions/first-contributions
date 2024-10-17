@@ -42,4 +42,5 @@ Dokumen ini didedikasikan untuk semua situs web tips dan trik, postingan blog, d
 36. [10 Hari tentang Git and Github](https://github.com/Asabeneh/10-days-of-git-and-github)
 37. [Pintasan Keyboard untuk Github](https://docs.github.com/en/get-started/using-github/keyboard-shortcuts)
 38. [Tutorial Lengkap Git and GitHub oleh Kunal Kushwaha](https://www.youtube.com/watch?v=apGV9Kg7ics&ab_channel=KunalKushwaha)
-Keep adding more links, that you find helpful.
+
+Tambahkan tautan baru yang menurut Anda dapat membantu.

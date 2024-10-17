@@ -1,8 +1,9 @@
 # Mengatur Ulang Sebuah commit
 
-`reset` adalah perintah yang dapat digunakan ketika kita ingin memindahkan repositori kembali ke commit sebelumnya, membuang semua perubahan yang dibuat setelah commit tersebut.<br/>
-Perbedaan utama antara mengatur ulang dan mengembalikan commit adalah bahwa git reset `unstages a file and bring our changes back to the working directory`
-dan git revert `removes the commits from the remote repository`. <br/>
+`git reset` adalah perintah yang dapat digunakan ketika kita ingin memindahkan repositori kembali ke _commit_ sebelumnya, membuang semua perubahan yang dibuat setelah _commit_ tersebut.<br/>
+
+Perbedaan utama antara mengatur ulang dan mengembalikan _commit_ adalah bahwa `git reset` menghapus tahapan berkas dan membawa perubahan Anda ke direktori kerja
+dan `git revert` menghapus _commit_ dari repositori remote.<br/>
 
 `git reset` dapat dicapai dengan menggunakan perintah berikut:
 
