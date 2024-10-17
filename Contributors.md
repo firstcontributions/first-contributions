@@ -8869,11 +8869,15 @@ Didac Vilarnau
 - [4UGU5T1001](https://github.com/4UGU5T1001) **Github is Cool**
 - [hero](https://github.com/heropj) **woohoo**
 - [Adeyinka] First Contribution
+<<<<<<< HEAD
+- [ennzin](https://github.com/ennzin) **primeira contribuicao**
+=======
 - [Andrew Chanthakoun] (https://github.com/chanthakoun2002) **Hello from seattle**
 - [Jorge Arrieta] (https://github.com/JorgeArrieta87/first-contributions) __Hello World__
 - [Peace Akoja] (https://github.com/BluTargaryan) **Hello from the UK!!!!!!**
 - [Patricio Pilco] (https://github.com/patriciopilco) **Hello from Ecuador**
 - [Yetso] (https://github.com/Yetso) **Hello from Belgium !**
+>>>>>>> upstream/main
   
   ​                                                          
 - [victor de lima](https://github.com/victor-engineer)
