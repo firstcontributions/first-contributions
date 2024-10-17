@@ -5486,6 +5486,7 @@ Parthiv Saikia
 - [GreenWeegeeCantCode](https://github.com/GreenWeegeeCantCode)
 - [Contidex]
 - [DPHung]
+
 - [Angelica Michaca](https://github.com/Angelica-Michaca)
 - [vin709](https://github.com/vin709)
 - [Chandana Srinivasa Yatisha](https://github.com/chandanasy)
@@ -5663,6 +5664,7 @@ Parthiv Saikia
 - [CHONG JI XUAN]
 - [Avijit Tripathi](https://github.com/avitripathi15)
 - [andrewyo44]
+- hi, i'm thexwon
 - manato-takahashi
 - [Fexxix](https://github.com/Fexxix/first-contributions.git)
 - [James E.]
