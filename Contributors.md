@@ -2346,6 +2346,7 @@ vrushabhpatil48
 - [Caique Pereira Costa](https://https://github.com/caiquepc07) **Primeira**
 - Sahil Ahmad **First Contribution**
 - [Swarnabha Halder](https://github.com/swarnabha-dev) **First Contribution 😎**
+- [Ritik Thakur](https://github.com/rthakur2712) **First contribution as a pupil**
 - [ARPAN SHARMA](https://github.com/adach2) **LIFE IS GOOD✌️**
 - [Pratik Sondaule](https://github.com/pratikSondaule)
 - [Shivaraj-Kolekar] (https://github.com/Shivaraj-Kolekar) **Hello !, this is my first contribution**
