@@ -3282,8 +3282,6 @@ wobuxinnihuiwuliaodeduwanwodemingzi
 - [Edward Kabue] (https://github.com/EdwardKabue)
 - [Daniel dos Santos] (https://github.com/daniel-de-sousa)
 - [MANAS JHA] (https://github.com/02Manas-jha)
-git add Contributors.md# Contributors
-
 111111111111111111111111111111111
 - [iv660](https://github.com/iv660)
 - Kevin Liu
@@ -4840,6 +4838,7 @@ Jasmine
 - [Anirudh-Narra](https://github.com/Anirudh-Narra)
 - [m10610](https://github.com/m10610)
 - [Daniel Wong](https://github.com/Dwjf)
+- [Bernhard Buss](https://github.com/bernhard-buss)
 - [Ngonzi Bridget](https://github.com/bree256)
 - [Okuta Omeiza](https://github.com/omeiza-devops)
 - [AnshJain]
