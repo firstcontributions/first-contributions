@@ -14,7 +14,7 @@ Reading articles & watching tutorials can help, but what comes better than actua
 
 If you don't have GitHub Desktop on your machine, [install it](https://desktop.github.com/).
 
-If you're using a version of GitHub desktop before 1.0, [refer this tutorial](github-desktop-old-version-tutorial.md).
+If you're using a version of GitHub desktop before 1.0, [refer to this tutorial](github-desktop-old-version-tutorial.md).
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/fork.png" alt="fork this repository" />
 
