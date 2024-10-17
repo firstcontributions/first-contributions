@@ -8244,6 +8244,7 @@ Rohan kumar - Creating driverless cars at IIT BOMBAY
 - [Rick Ning] (https://github.com/rick666666)
 - [Franco Joaquin, TORRES BELTRÁN](https://github.com/FrancoJoaquinTB)
 - [Donggyu] (https://github.com/ehdrb92)
+- [Vaibhav] (https://github.com/Vsingh2004) 
 - [remo] (https://github.com/RemoTechDev)
 - [jilpoom] (https://github.com/jilpoom)
 - [Rahat-Khan-Pathan] (https://github.com/Rahat-Khan-Pathan)
@@ -8290,12 +8291,6 @@ Hector
   ["AMAI"](https://github.com/am2ai)
 - [Asutosh](https://github.com/BedBug2479) ``Just a line``
 - [yumi-kim-0827](https://github.com/yumi-kim-0827)
-- [Rithik Roshan](https://github.com/Rithik1010)
-- [Kotni Vamsi Sai](https://github.com/thevamsithecoder)
-- [ElijahSource](https://github.com/ElijahSource)
-- [SudarshanJadhav](https://github.com/sjadhav07)
-- [Andres Quiroga] (https://github.com/AndresQ-Dev)
-- [Cheng-Yi Tang](https://github.com/chengyitang)
 - [Wairimu Maringa](https://github.com/WairimuMaringa)
 - [Humzah alkindi]((https://github.com/hamzakindi)) 
 - [Rishi Sudhakar]((https://github.com/Rishi-Sudhakar)) : Somewhere in the middle they said 😏
