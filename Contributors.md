@@ -253,6 +253,7 @@ Hi, it's me Saad (linkedin: https://www.linkedin.com/in/saad-ashraf-380715222/) 
 - Hello fellow **Programmers!** I'm [Henry](https://github.com/hevprog) and this is my **First time making a PR**
 - Hi, [Pravallika Nunna](https://github.com/pravallika-nunna), excited to get into open source.
 - Hi I'm Michelle Sheu uwu
+- Hi, I'm Jake (⑅˘꒳˘)
 - [Inzamam Ulhaq](https://github.com/Inzamamulhaq01)  [https://www.linkedin.com/in/inzamam-ulhaq1/] **My first step on OS projects** 
 -Hi guys I'm Chieler from Taiwa and this is my first time trying open source
 - Hello, world! I am Anubhav from India, and this is my first ever open source contribution!
