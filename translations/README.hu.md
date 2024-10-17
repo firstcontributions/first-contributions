@@ -4,9 +4,9 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# Első közreműködés nyílt forráskodú projektben
+# Első közreműködés nyílt forráskódú projektben
 
-Minden kezdet nehéz, ezért szeretnénk segíteni számodra az első lépésekben ahhoz, hogy bátran kódolj kooperatívan nyílt forráskodú projekteket. Senki sem szeret hibázni, de szerencsére itt most nyugodtan megteheted. A lényeg, hogy gyakorolj!
+Minden kezdet nehéz, ezért szeretnénk segíteni számodra az első lépésekben ahhoz, hogy bátran kódolj kooperatívan nyílt forráskódú projekteket. Senki sem szeret hibázni, de szerencsére itt most nyugodtan megteheted. A lényeg, hogy gyakorolj!
 
 A projekt célja, hogy útmutatást nyújtson, egyszerűsítse és segítse a kezdők első lépéseit nyílt forráskódú szoftverek közös programozásában. Ha te is most készülsz először ilyet csinálni, segítünk neked, kövesd az alábbi lépéseket.
 
