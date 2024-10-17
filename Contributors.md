@@ -14,6 +14,7 @@
 - Hi iam james ngandu ! (https://github.com/jmngandu)
 - Hi i am Watiri
 - Hi i am Algo
+- Hi i am నిRमல் (https://github.com/NirmalPuttamon)
 - Hi i am Itachi Uchiha
 - Hi, this is Arun!
 - Hi I am Shahnwaz Khan!!! (https://github.com/khanshahnwaz/)
