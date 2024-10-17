@@ -1,5 +1,6 @@
 # Contributors
 - This is the beta testing.
+- Hello I'm Suzzie{wanjicode}
 - Hello i am Jzz.
 - Hi I am Alex Maxwell.
 - Hi i am fazil !!(https://github.com/MuhammedFazilPc)
