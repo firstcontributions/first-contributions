@@ -11,6 +11,7 @@
 - Hi I am John Leshan!!! (https://github.com/johnleshan)
 - Hello everyone! I am Manish (https://github.com/TwilightDawn7/) and this is my first contribution to the Open Source. Really excited for this journey! God bless you All!
 - Hi, I'm Brian Casio (https://github.com/briancasio)
+- Hi, I'm Kate Gandara (https://github.com/KateGandara)
 - Hi everyone! I am Onur (https://github.com/onurerdinc) this is my first contribution to the Open Source. 
 - Hi iam Chiru !!
 - Hi iam james ngandu ! (https://github.com/jmngandu)
