@@ -84,7 +84,7 @@
 
 # First Contributions
 
-This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+This project is designed to simplify and guide beginners through making their first contribution. If you're ready to make your first contribution, just follow the steps outlined below.
 
 _If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
@@ -101,7 +101,7 @@ This will create a copy of this repository in your account.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
+Now, clone the forked repository to your local machine. To do this, go to your GitHub account, open the forked repository, click on the "Code" button, and then click the _copy-to-clipboard_ icon.
 
 Open a terminal and run the following git command:
 
