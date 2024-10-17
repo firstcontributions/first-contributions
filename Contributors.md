@@ -1,4 +1,5 @@
 # Contributors
+- Hello i am Dorin.
 - This is the beta testing.
 - Hello i am Jzz.
 - Hi I am Alex Maxwell.
