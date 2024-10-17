@@ -56,6 +56,7 @@ Thisarani Gunathilaka
 - Hi I'm Pratyusha
 - Namaste, I'm Lochan 
 - Hi I'm Gauri
+- Hello World! I'm Nayan Kaushik (https://github.com/NayanKaushik25), making my first open source contribution.
 - Hi I'm [Abrham](https://githb.com/abm-19) and this is my first contribution.
 - Hi I'm a Harsssssh singh.(https://github.com/harsh48389)
 - hey folks! I'm Veneela taking my first steps to contribute in open source.
