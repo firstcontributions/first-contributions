@@ -1,4 +1,5 @@
 # Contributors
+- hi i am Slonetech.
 - This is the beta testing.
 - Hello i am Jzz.
 - Hi I am Alex Maxwell.
