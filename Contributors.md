@@ -142,6 +142,7 @@ Oi eu sou o Lucas Rocha
 - Hi, it's [Yaman](https://github.com/yyamandevrim) from Turkey
 - Hi, it's [Haseeb](https://github.com/HaseebIjaz) from Pakistan
 - Hey, I'm Zaid and it's my first open source contribution.
+- Hello, I am Mushtaq and this is my first contribution (https://github.com/IOutis)
 - hi, I'm jojo and I'm so lost 
 - Hey, Its Jenil [Jenil1217](https://github.com/Jenil1217), making my first open source contribution.
 - Hey, This is [Dibyadyuti (a.k.a. unknownguy49)](https://www.linkedin.com/in/dibyadyuti-dutta/), a tech enthusiast. You can connect with me.
