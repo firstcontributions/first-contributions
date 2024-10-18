@@ -8986,6 +8986,7 @@ Didac Vilarnau
 - Hi, I'm Pravin.
 - Hi I am Mikheil from Georgia (https://github.com/MikheilKvizhinadze2001)
 - Hey, this is Karan from Canada!
+- Hello, I am Tasos from Ptolemaida, Greece
 - Hi this is Yu from China.
 - Hi, this is [Leonardo Trindade] from Brazil(https://github.com/leotavo)
 - Hi, this is [Kanishk Mittal] from UK(https://github.com/Kanishkmittal55)
