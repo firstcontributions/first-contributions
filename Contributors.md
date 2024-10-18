@@ -394,6 +394,7 @@ Hej! I'm Gustav from Stockholm, Sweden.
 - Hello world, Key2g started here.
 - Hello everyone !! This is [Rohit Elamurugan](https://github.com/rohit-373). I am excited to start my open source journey !! :)
 - Hi, everyone. Vlad was here!
+- Hi, I'm Ash, this is my 1st contribution
 - **Hi myself [Kaushal Bhatt], this is m,y first contribution** 
 - Hello everyone, myself Anupsinh Chauhan.
 - [yousseftarhri](https://github.com/yousseftarhri), hello world
