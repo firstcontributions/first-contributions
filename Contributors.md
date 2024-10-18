@@ -22,6 +22,7 @@
 - Hi I'm Rajkumar BM! (https://github.com/RajkumarBM-1963/)
 - Hi i am Algo
 - Hello I am Tony
+- Servus, I am Nico! (https://github.com/Nico51528/)
 - Halloechen im phil :P
 - Hi i am నిRमல் (https://github.com/NirmalPuttamon)
 - Hi i am Itachi Uchiha
