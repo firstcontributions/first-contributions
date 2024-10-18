@@ -8942,6 +8942,7 @@ Didac Vilarnau
 - Hi there, greetings!
 - Hello there, this is Alex and I am learning how to contribute to open source
 - Hi, I am Sagar!
+- Hello, I'm Harmeet from India
 - Hi, I'm [Suraj] From India ** Namaste 🙏 from India** 
 - Hi, I am Bracha!
 - Hola, Me llamo [Victor Garcia] Esta es mi primera contribucion, quiero ser Front End Developer. https://github.com/VictorGarcia2/
