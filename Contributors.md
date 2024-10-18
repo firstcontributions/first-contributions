@@ -2,6 +2,7 @@
 - Hello My name is Preston Mayieka (https://github.com/preston176)
 - Hey 👋 I'm [HorebZ](https://github.com/HorebZ)
 - Hello i am Dorin.
+- Hi, I'm Faizan Hussain. <a href="https://github.com/faiizanhussain/">Let's connect</a>
 - This is the beta testing.
 - Hello I'm Suzzie{wanjicode}
 - Hey im mohammed sulthan from 2024 ,this is my first contribution and a message to my future self .[myGitHub](https://github.com/sulthan1866)
