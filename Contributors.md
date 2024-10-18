@@ -38,6 +38,7 @@ Hello! I am mn121mn121. First time trying.. ^_^
 - Hi I am 주영준!!! (https://github.com/jooladen)
 - Hi! I am Snehit !!!
 - Hi I am Alex!!!
+- Servus, I am Nico (https://github.com/Nico51528/)
 - Hello I'm Stan ;)
 - Hi! [Francisco Proboste](https://www.linkedin.com/in/francisco-proboste/) from Chile 🇨🇱 🏞️
 - ¡Hola, soy Juanlu, y estoy emocionado de hacer mi primera contribución!
