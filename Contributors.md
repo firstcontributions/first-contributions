@@ -9018,4 +9018,3 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi I am [Yash3339](https://github.com/yash3339) from Hyderabad India.
 - Hi, I am [azero1791](https://github.com/azero1791) from Nanjing, China.Nice to meet you all!
 - Hi, I'm [pixelledbot](https://github.com/pixelledbot) from India.
-- Hello![pixelledbot](https://github.com/pixelledbot) from India.
