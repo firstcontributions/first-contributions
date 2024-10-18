@@ -8982,6 +8982,7 @@ Didac Vilarnau
 - Yoo I'm [Sathwik] and I am here to play with alien species named humans.
 - Hey, soy [Marcos Sánchez](https://github.com/basurakid), un saludo!
 - Hi, I'm Pravin.
+- Hi I am Mikheil from Georgia (https://github.com/MikheilKvizhinadze2001)
 - Hey, this is Karan from Canada!
 - Hi this is Yu from China.
 - Hi, this is [Leonardo Trindade] from Brazil(https://github.com/leotavo)
