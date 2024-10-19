@@ -12,6 +12,7 @@
 - Hi, I'm [Ruan Carlos](https://github.com/Ruan-CRC)
 - Hi i am fazil !!(https://github.com/MuhammedFazilPc)
 - Hi I am John Leshan!!! (https://github.com/johnleshan)
+- Hi I am [Vikas](https://github.com/vicky2399)
 - Hello everyone! I am Manish (https://github.com/TwilightDawn7/) and this is my first contribution to the Open Source. Really excited for this journey! God bless you All!
 - Hi, I'm Brian Casio (https://github.com/briancasio)
 - Hi, I'm Kate Gandara (https://github.com/KateGandara)
