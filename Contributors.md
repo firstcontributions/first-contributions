@@ -2990,6 +2990,7 @@ v0idborne
 - [angelo dedaldino](https://github.com/angelodedaldino)
 - [Michael Zhang](https://github.com/Festyve)
 - Mihir Mirchandani
+- Stefano
 - Jay B - bodenmethod
 - [Darshan C N](https://github.com/darshancn)  **Every great journey begins with a single step. Here’s to the first of many! 🚀✨**
 - [darksoul96](https://github.com/darksoul96)
