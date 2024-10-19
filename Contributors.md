@@ -1,4 +1,5 @@
 # Contributors
+- Hi, I'm sio-salt. [YouTube](https://www.youtube.com/@sio-salt8979), [GitHub](https://github.com/)- Hi, I'm sio-salt. [YouTube](https://www.youtube.com/@sio-salt8979), [GitHub](https://github.com/)
 - hello my name is riya
 - Hello My name is Preston Mayieka (https://github.com/preston176)
 - Hey 👋 I'm [HorebZ](https://github.com/HorebZ)
