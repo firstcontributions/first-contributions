@@ -482,7 +482,8 @@ Hej! I'm Gustav from Stockholm, Sweden.
 - [eswari](https://github.com/saieswari2005) **this is my first contribution if it is accepted i am so happy!**
 - [Jasmin Kaseva] (https://github.com/kasevaj) **24/09/2024**
 - [Jesus Gil] (https://github.com/Jrgil20) **29/09/2024**
-- [Oğuzhan Kökülü] (https://github.com/Oguzhankokulu) **22/09/2024**
+- [Malakai Ashenafi] (https://github.com/malakai-a1) **19/10/2024** Hello guys happy to be here, ready to learn and grow.
+- [Oğuzhan Kökülü] (https://github.com/Oguzhankokulu) **22/09/2024** 
 - [madhav mishra](https://github.com/madhav_gfn) Hello, guys if you are reading this and you need a guy to make your documentation, happy to contribute **24/09/2024**
 - [Manh Ng](https://github.com/LetsCodeManh) Hello guys, thank you for this repo. Now I can make my first contribution. If someone needs help in Frontend or UX/UI feel free to ask me.
 - [Inayat Hasan](https://github.com/Inayat-hasan) **thank u for making this type of open source repo it is very helpful for the first contributors like me**
