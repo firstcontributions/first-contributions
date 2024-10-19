@@ -371,6 +371,7 @@ Hej! I'm Gustav from Stockholm, Sweden.
 - Hey Everyone, I am [Diljit] (https://github.com/diljitsgit) and this is my first ever contribution.
 - Hey Guys, My first Open source contribution
 - Hey Guys, i am [KAHISS](https://github.com/KAHISS) and this is my first contribution
+- Hello guys, I am Chibuike Chijioke (https://github.com/Chisquare7)
 - Hey guys, Mott-Coder here [https://github.com/mott-coder]. **I'm really excited to take my first steps into the open-source community.**
 - Hi everyone , cheers to me for first time contributing to opens source [Apoorva] (https://github.com/ApoorvaLandge)
 - [Zarka](https://github.com/Abdelrahmanelzarka) ## Hello I'm a SW Engineer, take a look on my profile
