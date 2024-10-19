@@ -4998,6 +4998,7 @@ Jasmine
 - [Antonio Fábio](https://github.com/zodiecko)
 - masaymd
 - [Anand Shende](https://github.com/anandshende)
+- [Alexies](https://github.com/AlexiesHyro) **Another contribution to open source!**
 - [WHA](https://github.com/wynehtetaung)
 - [Captain] (https://github.com/CaptainPatel)
 - [Ishita](https://github.com/elekish)
