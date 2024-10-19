@@ -17,6 +17,7 @@
 - Hi, I'm Brian Casio (https://github.com/briancasio)
 - Hi, I'm Kate Gandara (https://github.com/KateGandara)
 - Hi everyone! I am Onur (https://github.com/onurerdinc) this is my first contribution to the Open Source. 
+- Hi, I'm Hubert!
 - Hi iam Chiru !!
 - Hi, Vansh here. Not my first open-source contribution but getting back into it
 - Hi I'm Lukas :D
