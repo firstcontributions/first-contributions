@@ -4,6 +4,7 @@
 - Hello My name is Preston Mayieka (https://github.com/preston176)
 - Hey 👋 I'm [HorebZ](https://github.com/HorebZ)
 - Hello i am Dorin.
+- Hello I'm Swam. <a href="https://swam13.vercel.app">Lets Connect and Explore together</a>
 - Hi, I'm Faizan Hussain. <a href="https://github.com/faiizanhussain/">Let's connect</a>
 - This is the beta testing.
 - Hello I'm Suzzie{wanjicode}
@@ -9045,6 +9046,7 @@ Didac Vilarnau
 This is [Shallom Omamo] (https://github.com/graciewakir)
 - I'm [Fachry](https://github.com/fachryluid), and I'm thrilled to start my journey as an open-source developer.
 - I'm [Piyush](https://github.com/Piyushrathoree) , this is the first contribution that I'm making to know how to do it , thanks 
+-Hi , My name is [Anguilet Joan-Yves Darys](https://github.com/Darys21) from Gabon living in Senegal , also starting my journey , really appreciate the opportunity to learn and grow with you all.
 - Hi, I'm [Mohammad Sabouri](https://github.com/Sabouri1994) and here is my first open source contribution. I am so happy to be pary of this community.
 - Hi, I'm Subhasish Saha
 - Hi, I'm Blaise
