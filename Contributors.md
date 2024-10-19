@@ -17,6 +17,7 @@
 - Hi everyone! I am Onur (https://github.com/onurerdinc) this is my first contribution to the Open Source. 
 - Hi iam Chiru !!
 - Hi I'm Lukas :D
+- Hello, I'm Troy! (https://github.com/guideoftheblue)
 - Hi I'm Sauravi Sar (https://github.com/SarthVader2004)
 - Hi iam james ngandu ! (https://github.com/jmngandu)
 - Hi i am Watiri
