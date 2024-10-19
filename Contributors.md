@@ -16,6 +16,7 @@
 - Hello everyone! I am Manish (https://github.com/TwilightDawn7/) and this is my first contribution to the Open Source. Really excited for this journey! God bless you All!
 - Hi, I'm Brian Casio (https://github.com/briancasio)
 - Hi, I'm Kate Gandara (https://github.com/KateGandara)
+- [Abhinav_Chaudhary] (https://github.com/abhi0842) This is my first time contributing to open source.
 - Hi everyone! I am Onur (https://github.com/onurerdinc) this is my first contribution to the Open Source. 
 - Hi iam Chiru !!
 - Hi, Vansh here. Not my first open-source contribution but getting back into it
