@@ -98,6 +98,7 @@ Hi everyone I'm Kithmini Mayodya
 - Namaste GitHub. I am [Shubhamsharmaer](https://github.com/shubhamsharmaer), just made my first Open Source Contribution.
 -I'm[Sylvan](https://github.com/Shaka42)
 - I'm [Biruk](https://github.com/Biruk42)
+-I'm [YasloMohamedAmine](https://github.com/yasloxamine) ,this is my first contribution to an open source repo,greetings from Morocco.
 - Hi, I'm [Arun](https://github.com/webwithyaroo) and it's my first open source contribution.
 -Hi, I'm [Issa](https://github.com/nick-dev123) and this is my  contribution.
 - Hi I'm [Michelle](https://github.com/michelledeeney85) and this is my first open source contribution. 
