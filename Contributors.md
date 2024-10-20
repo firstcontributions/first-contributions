@@ -1118,6 +1118,7 @@ Onyi Ajoku😄 #My very first contribution! Excited for whats to come.******
 - [@Condition00](https://github.com/Condition00) **Heya!! my journey starts here!!**
 Sheila Akoto
 - [KrishnaJoshi](https://github.com/ProgrammerKJ) **Hello!! my journey is beginning!!**
+- [AnmolDewan] (https://github.com/anmoldewanrai) **getting back to opensource**
 - [Devanshi-Bavaria](https://github.com/Devubavariaa) **Learning to contribute to open source!!**
 - [@venelouis](https://github.com/venelouis) **Contributing!**
 - [Ahmad Ishaque Karimi](https://github.com/Ahmadishaque)**Trying out a new thing just like many other here heehee**
