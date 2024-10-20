@@ -305,6 +305,8 @@ Hi, it's me Saad (linkedin: https://www.linkedin.com/in/saad-ashraf-380715222/) 
 - Hello World! I`m [Hamzathul Favas E](https://github.com/hamzathul) and **Welcome to the dawn of a new coding era – let's innovate, collaborate, and build the future together!**
 - Hi Friends, This is [Sivaprasad. G](https://github.com/sp-futuredev), Happy learning & Happy coding ! 
 - [All the World's a Stage](https://github.com/Oolazile)
+- Hey, it's [Vaishnavi Chelagola](https://github.com/VaishnaviChelagola) and "this is my first contribution to open source!!"
+
 - Hii, It's [Ayush](https://github.com/ayushk-1801) and **it's my first contribution to open source!!**
 - Hi from no-ppp
 Thisarani Gunathilaka
