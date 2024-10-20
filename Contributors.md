@@ -11,7 +11,8 @@ Abdul haseeb
 - Hello I'm Swam. <a href="https://swam13.vercel.app">Lets Connect and Explore together</a>
 - Hi, I'm Faizan Hussain. <a href="https://github.com/faiizanhussain/">Let's connect</a>
 - This is the beta testing.
-- Hello I'm Suzzie{wanjicode}
+- Hello I'm Suzzie{wanjicode}.
+ asasd
 - Hey im mohammed sulthan from 2024 ,this is my first contribution and a message to my future self .[myGitHub](https://github.com/sulthan1866)
 - Hello i am Jzz.
 - Hi I am Alex Maxwell.
