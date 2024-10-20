@@ -93,6 +93,7 @@ Hi everyone I'm Kithmini Mayodya
 - Hi , I am [Manish Walia](https://github.com/manishwalia15). This is my first contribution.
 - Hi, I am Shreya https://github.com/shreya-koder, just made my first contribution
 - Hey everyone! I am Divyansh (https://github.com/div-dev123)
+- Hi, love from VietNam, I'm [Loc](https://github.com/Chisj1), happy to be here
 - Namaste GitHub. I am [Shubhamsharmaer](https://github.com/shubhamsharmaer), just made my first Open Source Contribution.
 -I'm[Sylvan](https://github.com/Shaka42)
 - I'm [Biruk](https://github.com/Biruk42)
