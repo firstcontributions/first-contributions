@@ -43,6 +43,7 @@ Hello there , I am avisek . this is my another contribution in open source.
 - Hi, Nikhilesh here!!!
 - Buenas! Hi, my name is Hector! I hope yall have a great time coding!!!
 - Heya glad to be here!
+- Hi! My name is Luis From Chile 🇨🇱!! (https://github.com/luch1u)
 - नमस्ते This is [Devesh] (https://github.com/devesh192)
 Hello! I am mn121mn121. First time trying.. ^_^
   -Hi! Am [LewisMoruri](https://github.com/Lewismoruri)..well am glad this is the first contribution I've made.
