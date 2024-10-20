@@ -54,7 +54,7 @@ Hello there , I am avisek . this is my another contribution in open source.
 - Heya glad to be here!
 - Hi! My name is Luis From Chile 🇨🇱!! (https://github.com/luch1u)
 - नमस्ते This is [Devesh] (https://github.com/devesh192)
-Hello! I am mn121mn121. First time trying.. ^_^
+  Hello! I am mn121mn121. First time trying.. ^_^
   -Hi! Am [LewisMoruri](https://github.com/Lewismoruri)..well am glad this is the first contribution I've made.
 - Hey I am Caiden.
 - Hello i am Ashed.
@@ -4007,7 +4007,7 @@ Hannah Sung
 - [Nimrod Kabiru](https://github.com/nimuragz)
 - [MuhammadNurHakimi] (https://github.com/nurhakimi97) i'm going to be the best developer in the world
  [111703012](https://github.com/caijinghong1468)
- [pentagonpie](https://github.com/pentagonpie)
+  [pentagonpie](https://github.com/pentagonpie)
 - [Praneeth Gourla] (https://github.com/praneethgourla18)
 - [Olha Zakharchevna](https://github.com/zakharchevna)
 - [Maxime de Montbron](https://github.com/mijnog/) Just learning how to code
@@ -4047,7 +4047,7 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
 - [william nyaranga](https://github.com/William-nyarash)
 - [Narek](https://github.com/Naki1995/first-contributions)
  [Adam Honvedo](https://github.com/Homvi)
--Tim Shurlock
+  -Tim Shurlock
 - [Blake Hill](https://github.com/Blake-Hill)<3
 - [Seo-Eun Kim] (https://github.com/SeoeunK)
 - [Luka D](https://github.com/Luka-D) Hoping to start contributing to open source projects
@@ -8017,7 +8017,7 @@ guanj65
 - [Fabrício Queiroz](https://github.com/FabricioDeQueiroz)
 - [Aiden ALlred](https://github.com/AidenALlredOfficial)
  -[kami1152](https://github.com/kami1152)
- -[Yash Patel](https://github.com/Orca-Gemini23)
+  -[Yash Patel](https://github.com/Orca-Gemini23)
 - [imanolie](https://github.com/imanolie)
 - [Raphel6969](https://github.com/Raphel6969)
 - [perla-zg](https://github.com/perla-zg)
@@ -9081,3 +9081,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, My name is [Efe Yasir Solmaz](https://github.com/avfa09) from Turkey.I'm just starting my journey, are you ready?
 - Hi, I'm [HelloLife](https://github.com/HelloLife09) from the UK.
 - Hi, I'm [Douglas Campos](https://github.com/Douglascrc) from the Brazil, nice to meet you.
+- Hi, I'm [Yuchen Wu](https://github.com/yuchenwu73/) from the China, nice to meet you.
