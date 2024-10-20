@@ -13,7 +13,7 @@ Abdul haseeb
 - This is the beta testing.
 - Hello I'm Suzzie{wanjicode}.
  asasdsa d
-- Hey im mohammed sulthan from 2024 ,this is my first contribution and a message to my future self .[myGitHub](https://github.com/sulthan1866)
+- Hey im mohammed sulthan from 2024 ,this is my first contribution and a message to my future self .[myGitHub](https://github.com/sulthan1866)s das
 - Hello i am Jzz.
 - Hi I am Alex Maxwell.
 - Hi I am Akshat Tripathi
