@@ -3349,6 +3349,7 @@ git add Contributors.md# Contributors
 - [ewh0](https://github.com/ewh0)
 - [Saleem Djima]
 - D
+- [pbpeterson](https://github.com/pbpeterson)
 - [deanisty](https://github.com/deanisty)
 - [linahamila](https://github.com/linahamila)
 - [Kabil Shrestha](https://github.com/Kabilshr)
