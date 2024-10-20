@@ -7464,6 +7464,7 @@ Hey there its Adarsh Rout aka ideal.x_
 - [Priyanjith N] (https://github.com/Priyanjith-N)
 - [Stubh] (https://github.com/stubhohm)
 - [Purple Wazard]
+- [Steve Gordon] (https://github.com/StevenGordon40)
 - [Den] (https://github.com/den319)
 - [Sadullah Mohamed Yoosuf Chithik] (https://github.com/Sadu-sadullah)
 - [Coding_Dynasty] (https://github.com/coding-dynasty)
