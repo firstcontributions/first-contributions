@@ -66,6 +66,7 @@ Hello! I am mn121mn121. First time trying.. ^_^
 -Hello , Iam [Annet Namazzi](https://github.com/Amzzet) here, Glad to contribute to opensource 
 - Hello , I'm [Shashi Kumar Kasturi](https://github.com/kshashikumar). Very happy to be a part of this contribution initiative.
 - Hi, [Nitesh Jadhav](https://github.com/NitZZ057) here. Please feel free to connect.
+- Aomine here.
 Hi, I'm aashik here
 Hello ,I'm Abraham (https://github.com/Abraham-Dagnew)
 Hi im Sebastian Heredia(kid ash)
