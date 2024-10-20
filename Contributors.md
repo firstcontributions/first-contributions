@@ -2100,6 +2100,7 @@ Vedant Raut here and this is my first Contribution
 - [@hedrobyte](https://github.com/Hedrobyte) ***First open source contribution***
 - [ProgrammingAcolyte](https://github.com/ProgrammingAcolyte) **A beginning, with an auspicious number! Hellow World!**
 Niggesh
+- Hey, I'm [Rocky Frank](https://github.com/rockwoodfrank). I'm from America but I'm currently in Spain! Nice to meet you!
 - [Lautaro Cepero](https://github.com/M1lcstery)[Linkedin](https://www.linkedin.com/in/cepero-lautaro/)
 - [Habib -legerise] - Interesting Experience
 - [Sahil Singh](https://github.com/amberIS01) **My First Contribution**
