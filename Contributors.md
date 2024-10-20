@@ -9081,3 +9081,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, My name is [Efe Yasir Solmaz](https://github.com/avfa09) from Turkey.I'm just starting my journey, are you ready?
 - Hi, I'm [HelloLife](https://github.com/HelloLife09) from the UK.
 - Hi, I'm [Douglas Campos](https://github.com/Douglascrc) from the Brazil, nice to meet you.
+- Hi, I'm [LauraA-03](https://github.com/LauraA-03) from Italy, happy to learn about coding. 
