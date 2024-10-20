@@ -8,7 +8,7 @@
 - Hey 👋 I'm [HorebZ](https://github.com/HorebZ)sad
 - Hello i am Dorin.
 Abdul haseeb
-- Hello I'm Swam. <a href="https://swam13.vercel.app">Lets Connect and Explore together</a>
+- Hello I'm Swam. <a href="https://swam13.vercel.app">Lets Casdonnect and Explore together</a>
 - Hi, I'm Faizan Hussain. <a href="https://github.com/faiizanhussain/">Let's connect</a>
 - This is the beta testing.
 - Hello I'm Suzzie{wanjicode}.
