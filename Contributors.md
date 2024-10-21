@@ -251,6 +251,7 @@ Hi am [Jambong Ralpher](https://github.com/Jambong-Ralpher).Love to connect with
 - Hello! I'm Jisol! 
 - Hello! Sumukh beaming in!
 - Hi i am Luna Hacks
+- Hi, I'm [TRUNG NGO](https://github.com/xtcivic)
 - Hey I am Abhinav and this is my introduction to the world of open-source!
 - This is Pankaj Kumar Pandit, starting my contribution journey.
 - This is Kratharth and here is my first open source contribution.
