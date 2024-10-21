@@ -90,6 +90,18 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
+## What You'll Learn
+
+In this project, you'll:
+- Fork a repository on GitHub.
+- Clone your forked repository to your local machine.
+- Create a new branch for your contribution.
+- Make changes to the repository (e.g., adding yourself to the Contributors list).
+- Commit your changes and push them to your forked repository.
+- Create a pull request to merge your changes back to the original repository.
+
+## How to Contribute
+
 #### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
 ## Fork this repository

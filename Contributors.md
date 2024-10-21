@@ -9076,3 +9076,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, My name is [Efe Yasir Solmaz](https://github.com/avfa09) from Turkey.I'm just starting my journey, are you ready?
 - Hi, I'm [HelloLife](https://github.com/HelloLife09) from the UK.
 - Hi, I'm [Douglas Campos](https://github.com/Douglascrc) from the Brazil, nice to meet you.
+Hi, I'm [Pragati Basnet] https://github.com/PragatiBasnet29 from Nepal. And this is my first contribution 
