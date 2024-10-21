@@ -5802,6 +5802,7 @@ Parthiv Saikia
 - [Avadhoot Tavhare](https://github.com/AvadhootT)
 - [Paul Gobbé](https://github.com/PolGbe) ##Thanks 😎
 - [sus-domesticus](https://github.com/sus-domesticus)
+-[Tinayeshe Mugwagwa](https://github.com/tinayeshem)
 - [sumanthtp](https://github.com/SUMANTHTPs)
 - Ho Ho Ho [Aditya Kapadia]
 - [Daniel Ndirangu](https://github.com/daniel-ndirangu)
