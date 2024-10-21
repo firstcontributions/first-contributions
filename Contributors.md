@@ -24,6 +24,7 @@ Hello World! I'm Oroitz Lago Ramos, I'm glad to start this new Open Source adven
 - Hello i am Jzz.
 - Hi I am Alex Maxwell.
 - Hi I am Umer.
+- Hi I am Aashin , my first ever contribution 
 - Hi, This is Prachurja Saha (https://github.com/Prachurja-Saha) 
 - Hi I am Akshat Tripathi
 - Hi, I'm [Ruan Carlos](https://github.com/Ruan-CRC)
