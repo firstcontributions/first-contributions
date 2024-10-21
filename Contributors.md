@@ -40,6 +40,7 @@ Hello there , I am avisek . this is my another contribution in open source.
 - Hi iam Chiru !!
 - Hi, Vansh here. Not my first open-source contribution but getting back into it
 - Hi I'm Lukas :D
+- Hello, I am Suraj.
 - Hello, I'm Troy! (https://github.com/guideoftheblue)
 - Hi I'm Sauravi Sar (https://github.com/SarthVader2004)
 - Hi iam james ngandu ! (https://github.com/jmngandu)
