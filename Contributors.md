@@ -18,6 +18,9 @@ Hello World! I'm Oroitz Lago Ramos, I'm glad to start this new Open Source adven
 - Hi, I'm Faizan Hussain. <a href="https://github.com/faiizanhussain/">Let's connect</a>
 - This is the beta testing.
 - Hello I'm Suzzie{wanjicode}
+- Hey Folks! I'm [Md. Afzal Hassan Ehsani](www.github.com/iemafzalhassan) <a
+  href="https://www.iemafzalhassan.tech">Let's Connect. Learn and Grow
+  together.</a>
 - Hi IM HUY!!!
 - Hi I'm Fredylan (https://github.com/Code1Crusader)
 - Hey im mohammed sulthan from 2024 ,this is my first contribution and a message to my future self .[myGitHub](https://github.com/sulthan1866)
