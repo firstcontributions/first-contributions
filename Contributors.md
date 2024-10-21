@@ -295,6 +295,7 @@ Hej! I'm Gustav from Stockholm, Sweden.
 - Hi [Ocy-6]
 - Hey! My name is [Jay Calderon](https://github.com/cald0145) and I'm a student web developer from Canada 🇨🇦, I'm currently studying at Algonquin College. 👨🏽‍💻 **Check out my site and lets connect! [My Website](https://jaycalderon.ca), also here is my linkedin: [LinkedIn](https://www.linkedin.com/in/jaycaldev)!** 
 - Hello World, This is my first open source contribution !! I am [Shibjyoti Roy Chowdhury](https://github.com/shib-weber/)
+- **Hi everyone. I´m [Angela Kurtalieva] (https://github.com/akurtalieva). This is my first contribution to open-source project**
 - Gregor was here!
 - Hello guys, Matheus here aka otetis!
 - Hello to Open Source ! [Ambuj](https://github.com/ambujbaranwal)
