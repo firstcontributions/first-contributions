@@ -19,6 +19,7 @@ Hello World! I'm Oroitz Lago Ramos, I'm glad to start this new Open Source adven
 - This is the beta testing.
 - Hello I'm Suzzie{wanjicode}
 - Hi IM HUY!!!
+- Hi I'm Fredylan (https://github.com/Code1Crusader)
 - Hey im mohammed sulthan from 2024 ,this is my first contribution and a message to my future self .[myGitHub](https://github.com/sulthan1866)
 - Hello i am Jzz.
 - Hi I am Alex Maxwell.
