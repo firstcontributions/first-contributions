@@ -1201,7 +1201,6 @@ Hello
 - [Brother-Rabbit](https://github.com/brotherrabbit91) **Open Source Contribution**
 - [Saadgi Bawa](https://github.com/saadgibawa) **Open Source Contribution**
 - [Faraz Naqshbandi](https://github.com/faraznaqshbandi04) **Do it one more time!!!**
->>>>>>> origin/main
 - [Utkarsh Kushwaha](https://github.com/theutkarshdev) **First open source contribution.**
 - [Almoiz khan](https://github.com/moiz2405) **Made First Open Source Contribution**
 - [Hamilcer](https://github.com/Hamilcer) **Let's do it**
@@ -8916,6 +8915,7 @@ Didac Vilarnau
 - [Anish Poudel](https://github.com/anishpoudel007) **Hello from Nepal**
 - [Sribastav](https://github.com/prajguru54/) **My first contribution**
 - [Kenil Sudani](https://github.com/Super-Kenil)  **Location: Her Heart**
+- [Mate Kopaliani](https://github.com/Mate-Kopaliani) **Hello from 127.0.0.1**
 - [Aarushi Sharma](https://github.com/aarushi-sharma-09) **Web d for life**
 - [Caleb Chandrasekar](https://github.com/calebjubal) **BB9Kairo is my name**
 - [Zeke](https://github.com/sackeyetrue) **Fueled by Curioisty, Powered by Passion**
@@ -8949,9 +8949,7 @@ Didac Vilarnau
 - [Jorge Arrieta] (https://github.com/JorgeArrieta87/first-contributions) __Hello World__
 - [Peace Akoja] (https://github.com/BluTargaryan) **Hello from the UK!!!!!!**
 - [Patricio Pilco] (https://github.com/patriciopilco) **Hello from Ecuador**
-- [Yetso] (https://github.com/Yetso) **Hello from Belgium !**
-  
-  ​                                                          
+- [Yetso] (https://github.com/Yetso) **Hello from Belgium !**                                                 
 - [victor de lima](https://github.com/victor-engineer)
 - [juhdakd](https://github.com/juhdakd)**Hello World**
 - [sph](https://github.com/sphcode) **Hello World my first PR**
