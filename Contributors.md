@@ -6,6 +6,7 @@
 - hello i am Evan (https://github.com/bz-e)
 - Hello!!! This is KARAN KUMAR NONIA (https://github.com/kkn2k19)
 - Hello OpenSouce World by Abhishek N N (https://github.com/abhi8f)
+- Hi I'm Oscar
 - hello my name is riya
 - Salam, Abdul HAseeb here
 - Hey! My name is Kush Patel! Here is a link to my github: (https://github.com/kush1314)
