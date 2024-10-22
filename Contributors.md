@@ -102,6 +102,7 @@ Hello! I am mn121mn121. First time trying.. ^_^
 - Hi, [Nitesh Jadhav](https://github.com/NitZZ057) here. Please feel free to connect.
 - Aomine here.
 Hi, I'm aashik here
+Hello, I'm [Manuel Graziani](https://github.com/ManuelGraziani) and this is my first contribution.
 Hello ,I'm Abraham (https://github.com/Abraham-Dagnew)
 Hi im Sebastian Heredia(kid ash)
 I am Adnaan (https://github.com/Valley-15)
