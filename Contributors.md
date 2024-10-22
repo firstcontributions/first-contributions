@@ -1,7 +1,6 @@
 ﻿# Contributors
 - Hello, I am Celine Mang! (https://github.com/celinemang )
-- Hello, I am kevin Martinez
-Hello, I am John Doe
+- Hello, I am John Doe
 - HI there!, I am Sanidhya! ((https://github.com/Sanidhyafeaturist)
 - Hello 🖐️ My name is Stu (https://github.com/smc-lean) and I'm trying to make it as a developer (eventually).
 - hello i am Evan (https://github.com/bz-e)
@@ -11,6 +10,7 @@ Hello, I am John Doe
 -  HI there!, I am Ain Azeem! ((https://github.com/iAinAzeem))
 - hello my name is riya
 - Salam, Abdul HAseeb here
+- Hello, I am kevin Martinez 
 - Salam, I'm Syed Umar Shah
 - Hey! My name is Kush Patel! Here is a link to my github: (https://github.com/kush1314)
 - Hello.. I am Arindam Baidya. Happy to listing my name in the Contributors list.😊
