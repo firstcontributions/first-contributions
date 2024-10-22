@@ -3,6 +3,7 @@
 - Srushti Sachdev
 - Aamish Ahmad Beg
 - Jack Hunter
+- Nikolas (ICH)
 - [Ridampreet](https://github.com/ridampreet)
 - [Rachelle Buske](https://github.com/rachelle-dbuske)
 - [Adeboye Famurewa](https://github.com/fadarboye) 😀 I was here.
