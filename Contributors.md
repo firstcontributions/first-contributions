@@ -9142,3 +9142,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 -Hello, from USA, Blessings to all 
 - G'day all😸 I'm Tony from Australia, residing now in HCM, Vietnam. Honoured to lose contribution-ginity with y'all 💻 [[Github Link]](https://github.com/tonyjustdevs) [[Linkedin Link]](https://au.linkedin.com/in/tony-phung-b866b657) [[Blog Link]](https://tonyjustdevs.github.io/blog/)
 - Hello, I am Kshitij from India. Let's Go... [Profile](https://github.com/kshi7ijcx)
+- hi, I'm Lucas🥴 nice to see everyone together!
