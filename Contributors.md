@@ -9118,3 +9118,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, I'm [Tomohiro](https://github.com/871tomohiro) from Japan, this is my first contribution.
 - Hi, I'm Pelletia (https://github.com/abpelletia) from Togo
 - Hi, this is Nezir (https://github.com/nazero3) from Syria. Nice to see you all :D
+- Hello everyone, this is [Simon Gomes](https://github.com/simongomes) from Bangladesh, just came here to play with teh contributions :D
