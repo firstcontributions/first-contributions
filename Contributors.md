@@ -219,6 +219,7 @@ Oi eu sou o Lucas Rocha
 - Hell
 -Hello world this is MIhir Katakdhond
 - Hi! This is AV13, marking my first step into open-source-projects.
+- Hello everyone, I'm Juan De la Rosa
 - It's Caroline!
 - Hello it is Shamus.
 - Namaskara from Karnataka. I'm Hemachandra MS. Dhanyavada.
