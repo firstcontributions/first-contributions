@@ -8530,6 +8530,7 @@ Hector
 - [kikki](https://github.com/kikki1992) **first contrubutions**
 - [Emilio_Moreno] (https://github/com/WoodstockXP) **Hi!!!**
 - [matt](https://github.com/matt-the-thew) **Buckle Up!** Here to squash bugs and build cool stuff
+- [Anyelo](https://github.com/AnyeloM15) 
 - [Vinita](https://github.com/VINITASUTHAR) 
 - [Naufaldi](https://github.com/naufalD) **yippee**
 - [Ronnie](https://github.com/MonsieurRadiant) **start now**
