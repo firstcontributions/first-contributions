@@ -4,6 +4,7 @@
 - Hello 🖐️ My name is Stu (https://github.com/smc-lean) and I'm trying to make it as a developer (eventually).
 - Hello!!! This is KARAN KUMAR NONIA (https://github.com/kkn2k19)
 - Hello OpenSouce World by Abhishek N N (https://github.com/abhi8f)
+- Hi I'm Oscar
 - hello my name is riya
 - Salam, Abdul HAseeb here
 - Ram Ram ji!!! I am Abhinav Pareek 😄 (https://github.com/abhinavpareek655)
