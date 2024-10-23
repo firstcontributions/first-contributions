@@ -45,8 +45,11 @@ Jesus-Bernal
 - Hi I'm Fredylan (https://github.com/Code1Crusader)
 - Hey im mohammed sulthan from 2024 ,this is my first contribution and a message to my future self .[myGitHub](https://github.com/sulthan1866)
 - Hello i am Jzz.
+- Hi I am Anshuman Singh 
 - Hi I am Alex Maxwell.
 - Hi I am Umer.
+- HI I am Andrew!
+- Hi I am Alonso
 - Hi I am Aashin , my first ever contribution 
 - Hi, This is Prachurja Saha (https://github.com/Prachurja-Saha) 
 - Hi I am Akshat Tripathi
@@ -220,6 +223,7 @@ Oi eu sou o Lucas Rocha
 - Never Forget, Confusion is part of Programming - Vishal Wagh
 - Hello, I'm [Nishil](https://github.com/nishoof), a CS major at the University of San Francisco!
 - Hello, my name is Mike and this is my first open source contribution.
+- Hi! I'm [Ricardo Nunes](https://github.com/ricardo-jnunes) from Brazil.
 - Hi this is [Haya]
 - I'm [Furkan Kapukaya](https://github.com/furkankapukayaa). **Hi from TÜRKİYE**
 - Hello, I'm [Cyber DK](https://github.com/dk1285) and it's my first open source contribution.
@@ -726,6 +730,7 @@ Jojo
 - [Chiyou Xiong] (https://github.com/Orpheus-1) **First Step Into A Lifelong Journey, Feels Great to Start Here** 
 - [Lishin V S](https://github.com/Ellvius/) **Venturing into the world of Open Source**
 - [Levi Ly](https://github.com/levihly) **bepbepbep**
+- [optimisuke (Naosuke Ito)](https://github.com/optimisuke)
 - [Ko Ko Naing](https://github.com/ko-ko-naing) **dev27/9/24**
 - [Abhinav Surya](https://github.com/Abhinavsuryakolla) **My First Contribution**
 - [Alonso Garcia](https://github.com/abg287) **Awesome Sauce**
@@ -8953,6 +8958,7 @@ Didac Vilarnau
 -[Pranav Deshpande](https://github.com/pranav-112) Trying out open source contributions and i have not no idea why this name in readme file thing is done. Thank you.
 - [Franco Blanco](https://github.com/FrancoBlanco93) **Saludos desde Argentina wachines**
 - [Montserrat Lopez](https://github.com/cutmountain) **So excited with my first contribution!**
+- [Alexis Aravena](https://github.com/IceClockPlus) **Hello World! This is my first contribution**
 - [Pedro Castro](https://github.com/peucastro/) **Hello from Porto-PT!**
 - [Oluwasanmi Triumph](https://github.com/triumph-OvO/) **This is my first contribution. I hope to have many more in the future!**
 - [Aaditi](https://github.com/AADITI-NIRFARAKE) **This is my first contribution. I hope to have many more in the future!**
@@ -9151,6 +9157,7 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, I'm [LauraA-03](https://github.com/LauraA-03) from Italy, happy to learn about coding. 
 - Hi, I'm [Ganesh Derkar](https://github.com/18grd) from India, happy coding.... 
 - Hello I'm BitterBar.
+- Hello! I'm G [Profile] (https://github.com/bartech-g).
 - Hi, I'm [Tomohiro](https://github.com/871tomohiro) from Japan, this is my first contribution.
 - Hi, I'm [Manuel Luvuvamo](https://github.com/manuelluvuvamo) from Angola...
 - Hi, I'm Pelletia (https://github.com/abpelletia) from Togo
@@ -9164,3 +9171,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hello, I am Kshitij from India. Let's Go... [Profile](https://github.com/kshi7ijcx)
 - hi, I'm Lucas🥴 nice to see everyone together!
 - Hi, I am Konstantin! 😃  [Profile](https://github.com/gpiento)
+- Hi, I am Aditya! and i'm interrested in low level computer science  [Profile](https://github.com/aditya-sharma-0)
