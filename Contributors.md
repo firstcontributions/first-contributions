@@ -4997,6 +4997,7 @@ Jasmine
 - [shine]
 - [Jordan](https://github.com/JordanRobo)
 - [Oluwatosin](https://github.com/oluwatos94)
+- Hello everyone! 😊 I'm [Angela] (https://github.com/akurtalieva) ⭐ This is my first contribution to an open source project ⭐
 - [rohanbrohan]
 - [Lauranthalassa](https://github.com/Talassha)
 - [Kothari.S] (https://github.com/effaf/)
