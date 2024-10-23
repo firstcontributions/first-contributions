@@ -219,6 +219,7 @@ Oi eu sou o Lucas Rocha
 - Never Forget, Confusion is part of Programming - Vishal Wagh
 - Hello, I'm [Nishil](https://github.com/nishoof), a CS major at the University of San Francisco!
 - Hello, my name is Mike and this is my first open source contribution.
+- Hi! I'm [Ricardo Nunes](https://github.com/ricardo-jnunes) from Brazil.
 - Hi this is [Haya]
 - I'm [Furkan Kapukaya](https://github.com/furkankapukayaa). **Hi from TÜRKİYE**
 - Hello, I'm [Cyber DK](https://github.com/dk1285) and it's my first open source contribution.
