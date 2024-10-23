@@ -210,8 +210,8 @@ Oi eu sou o Lucas Rocha
 - Hi I am Guilherme!!! (https://github.com/eugmarques). **FROM BRAZIL, MADE IN BRAZIL!**
 - Never Forget, Confusion is part of Programming - Vishal Wagh
 - Hello, I'm [Nishil](https://github.com/nishoof), a CS major at the University of San Francisco!
-- Hi this is [Haya]
 - Hello, my name is Mike and this is my first open source contribution.
+- Hi this is [Haya]
 - I'm [Furkan Kapukaya](https://github.com/furkankapukayaa). **Hi from TÜRKİYE**
 - Hello, I'm [Cyber DK](https://github.com/dk1285) and it's my first open source contribution.
 - Loading..., Hey! it's me Arun: [GitHub](https://github.com/herearunsharma)& [Linkedin](https://www.linkedin.com/in/herearunsharma/) I am very excited to carry on my journey on open source contribution. You wanna come along and see my journey, have a look to my social handles mentioned🎊⭐.
@@ -9153,3 +9153,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - G'day all😸 I'm Tony from Australia, residing now in HCM, Vietnam. Honoured to lose contribution-ginity with y'all 💻 [[Github Link]](https://github.com/tonyjustdevs) [[Linkedin Link]](https://au.linkedin.com/in/tony-phung-b866b657) [[Blog Link]](https://tonyjustdevs.github.io/blog/)
 - Hello, I am Kshitij from India. Let's Go... [Profile](https://github.com/kshi7ijcx)
 - hi, I'm Lucas🥴 nice to see everyone together!
+- Hi, I am Konstantin! 😃  [Profile](https://github.com/gpiento)
