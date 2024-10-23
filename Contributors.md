@@ -1,6 +1,7 @@
 ﻿# Contributors
 - Hello, I am Celine Mang! (https://github.com/celinemang )
 - Hello, I am John Doe
+- Hey there, I am Andre! (https://github.com/amerrittjr)
 - Hello, I am Ricardo Romo
 -Hello, I am Kevinnash! [My profile](https://github.com/Nash-creator)
 - HI there!, I am Sanidhya! ((https://github.com/Sanidhyafeaturist)
