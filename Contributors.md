@@ -8176,7 +8176,7 @@ utthamr
 - [Eduardo Villalobos](https://github.com/eduardomv2)
 - [Prajwal Acharya](https://github.com/PrajwalAcharya123/)
 - [Edzer Dionido](https://github.com/edsaur)
-- [Andrew Sykes](https://github.com/AndrewSykes1)
+- [Andrew Sykes](https://home/wintervoid/Documents/GitHub/first-contributions/github.com/AndrewSykes1)
 - [Abeer Mukhemir](https://github.com/abeermmukhemir)
 - [Zeni](https://github.com/akutabig)
 - [Roland Jansen](https://github.com/roland-jansen)
@@ -9168,3 +9168,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - hi, I'm Lucas🥴 nice to see everyone together!
 - Hi, I am Konstantin! 😃  [Profile](https://github.com/gpiento)
 - Hi, I am Aditya! and i'm interrested in low level computer science  [Profile](https://github.com/aditya-sharma-0)
+- hi i'm wintervoid (she/her). I can't wait to start contributing on github! [Profile](https://github.com/wintervoid)
