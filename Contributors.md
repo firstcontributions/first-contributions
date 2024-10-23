@@ -1,6 +1,7 @@
 ﻿# Contributors
 - Hello, I am Celine Mang! (https://github.com/celinemang )
 - Hello, I am Camilo Velez
+- Hello, I am Harold Mendoza (https://github.com/Hroldddp)
 - Hello, I am John Doe
 - Hello, I am Jason Liang (https://github.com/Jason020310)
 - Hey there, I am Andre! (https://github.com/amerrittjr)
