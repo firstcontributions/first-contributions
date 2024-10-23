@@ -16,6 +16,7 @@
 - Hi I'm Oscar
 -  HI there!, I am Ain Azeem! ((https://github.com/iAinAzeem))
 - hello my name is riya
+- Hi Im Julia! my GitHub is https://github.com/j1bb1e and my linked in is https://www.linkedin.com/in/julia-brand-430628293/
 - Hello, my name is Bar Dadon :)
 - Hello, Im Shanto, this my first contribution (https://github.com/Tanxim/)
 - Salam, Abdul HAseeb here
