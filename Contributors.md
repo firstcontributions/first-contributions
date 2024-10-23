@@ -65,6 +65,7 @@ Hello there , I am avisek . this is my another contribution in open source.
 - Hi I'm Logan Tolbert (https://github.com/logan-tolbert)
 - Hi, Vansh here. Not my first open-source contribution but getting back into it
 - Hi I'm Lukas :D
+- Hi I am B, this is my first open source contribution
 - Hello, I am Suraj.
 - Hello, I'm Troy! (https://github.com/guideoftheblue)
 - Hi I'm Sauravi Sar (https://github.com/SarthVader2004)
