@@ -6,6 +6,7 @@
 - Hello, I am Jason Liang (https://github.com/Jason020310)
 - Hey there, I am Andre! (https://github.com/amerrittjr)
 - Hello, I am Ricardo Romo
+- Hello, I am Aditya Jha
 -Hello, I am Kevinnash! [My profile](https://github.com/Nash-creator)
 - HI there!, I am Sanidhya! ((https://github.com/Sanidhyafeaturist)
 - Hello 🖐️ My name is Stu (https://github.com/smc-lean) and I'm trying to make it as a developer (eventually).
