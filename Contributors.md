@@ -47,6 +47,7 @@ Jesus-Bernal
 - Hello i am Jzz.
 - Hi I am Alex Maxwell.
 - Hi I am Umer.
+- Hi I am Alonso
 - Hi I am Aashin , my first ever contribution 
 - Hi, This is Prachurja Saha (https://github.com/Prachurja-Saha) 
 - Hi I am Akshat Tripathi
