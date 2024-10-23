@@ -1,25 +1,47 @@
 ﻿# Contributors
+- Hello, I am Adharsh Rajavel (https://github.com/adharshr15)
 - Hello, I am Celine Mang! (https://github.com/celinemang )
+- Hello, I am Camilo Velez
+- Hello, I am Harold Mendoza (https://github.com/Hroldddp)
 - Hello, I am John Doe
+- Hello, I am Jason Liang (https://github.com/Jason020310)
+- Hey there, I am Andre! (https://github.com/amerrittjr)
+- Hello, I am Ricardo Romo
+- Hello, I am Aditya Jha
+-Hello, I am Kevinnash! [My profile](https://github.com/Nash-creator)
 - HI there!, I am Sanidhya! ((https://github.com/Sanidhyafeaturist)
 - Hello 🖐️ My name is Stu (https://github.com/smc-lean) and I'm trying to make it as a developer (eventually).
+- hello i am Evan (https://github.com/bz-e)
 - Hello!!! This is KARAN KUMAR NONIA (https://github.com/kkn2k19)
 - Hello OpenSouce World by Abhishek N N (https://github.com/abhi8f)
+- Hi I'm Oscar
+-  HI there!, I am Ain Azeem! ((https://github.com/iAinAzeem))
 - hello my name is riya
+- Hi Im Julia! my GitHub is https://github.com/j1bb1e and my linked in is https://www.linkedin.com/in/julia-brand-430628293/
+- Hello, my name is Bar Dadon :)
+- Hello, Im Shanto, this my first contribution (https://github.com/Tanxim/)
 - Salam, Abdul HAseeb here
+- Hello, I am kevin Martinez 
+- Salam, I'm Syed Umar Shah
+- Hello, Rahul Goala here! <a href="https://github.com/rgoala/">Let's connect!</a>
+- Hey! My name is Kush Patel! Here is a link to my github: (https://github.com/kush1314)
+- Hello.. I am Arindam Baidya. Happy to listing my name in the Contributors list.😊
 - Ram Ram ji!!! I am Abhinav Pareek 😄 (https://github.com/abhinavpareek655)
 - Hello welcome to my world m sushmita. Do you know me??????
 - Hello My name is Preston Mayieka (https://github.com/preston176)
 Hello World! I'm Oroitz Lago Ramos, I'm glad to start this new Open Source adventure!
+Jesus-Bernal
 - Hello My name is Abdulquddus Ibrahim (https://github.com/xclusive09)
 - Hey 👋 I'm [HorebZ](https://github.com/HorebZ)
 - Hello i am Dorin.
+- Greetings Earthlings! They call me LeighaD.
 - Hey, there I'm [Trideep](https://github.com/trideep126). First Contribution ever, many more to come :)
 - Hello I'm Swam. <a href="https://swam13.vercel.app">Lets Connect and Explore together</a>
 - Hi, I'm Faizan Hussain. <a href="https://github.com/faiizanhussain/">Let's connect</a>
 - This is the beta testing.
 - Hello I'm Suzzie{wanjicode}
 - Hi IM HUY!!!
+- HI, My name is Ron.
 - Hi I'm Fredylan (https://github.com/Code1Crusader)
 - Hey im mohammed sulthan from 2024 ,this is my first contribution and a message to my future self .[myGitHub](https://github.com/sulthan1866)
 - Hello i am Jzz.
@@ -42,9 +64,11 @@ Hello there , I am avisek . this is my another contribution in open source.
 - Hi everyone! I am Onur (https://github.com/onurerdinc) this is my first contribution to the Open Source. 
 - Hi, I'm Hubert!
 - Hi iam Chiru !!
+- Hi, I'm [Dhruv Jain](https://github.com/Dhruv-Jain36)
 - Hi I'm Logan Tolbert (https://github.com/logan-tolbert)
 - Hi, Vansh here. Not my first open-source contribution but getting back into it
 - Hi I'm Lukas :D
+- Hi I am B, this is my first open source contribution
 - Hello, I am Suraj.
 - Hello, I'm Troy! (https://github.com/guideoftheblue)
 - Hi I'm Sauravi Sar (https://github.com/SarthVader2004)
@@ -53,6 +77,7 @@ Hello there , I am avisek . this is my another contribution in open source.
 - Hi I'm Rajkumar BM! (https://github.com/RajkumarBM-1963/)
 - Hi i am Algo
 - Hello I am Tony
+Hello I am Omar Torrijos Perez from UPSRJ
 - I've had this tab open in my browser for way to long (: -- @brencoat
 - heyy you! This is [Jey](https://github.com/jey-exp).
 - Halloechen im phil :P
@@ -77,8 +102,12 @@ Hello! I am mn121mn121. First time trying.. ^_^
 - Hi I am Alex!!!
 - Servus, I am Nico (https://github.com/Nico51528/)
 - Hello I'm Stan ;)
+- I am moon-deng-pen
+- Hello, Jonathan Ruiz contribution! (https://github.com/Jonathan1793)
 - Hi! [Francisco Proboste](https://www.linkedin.com/in/francisco-proboste/) from Chile 🇨🇱 🏞️
+- Hola! My name is Davidenkoo and I am excited to contribute to this repo! My lucky nr is 88
 - ¡Hola, soy Juanlu, y estoy emocionado de hacer mi primera contribución!
+- வணக்கம்! இது உங்கள் நாகநாதன் [Naganathan] (https://github.com/NaganathanM/)
 - Hi folks! I'm glad to be part of this huge contributing community. [[[ Cheers from EGYPT ]]]
 [Renan Ferreira](https://github.com/renanf23) Jesus é o único caminho.
 - Hello, [Vict75](https://github.com/vict75) here from the Netherlands
@@ -91,6 +120,7 @@ Hello! I am mn121mn121. First time trying.. ^_^
 - Hi, [Nitesh Jadhav](https://github.com/NitZZ057) here. Please feel free to connect.
 - Aomine here.
 Hi, I'm aashik here
+Hello, I'm [Manuel Graziani](https://github.com/ManuelGraziani) and this is my first contribution.
 Hello ,I'm Abraham (https://github.com/Abraham-Dagnew)
 Hi im Sebastian Heredia(kid ash)
 I am Adnaan (https://github.com/Valley-15)
@@ -128,6 +158,7 @@ Hi everyone I'm Kithmini Mayodya
 - Hi tech nerds, I'm Adeesha. You can find me on https://www.linkedin.com/in/ahttps://www.linkedin.com/in/arunodagunawardana/
 - Hey New Contributors, Myself [Govardhan](https://github.com/GovardhanGova7277). I want to be the best open source contributor in the world.
 - Hello, I'm Charan
+- Hi, I'm [Yubel426](https://github.com/Yubel426)
 - hola, soy sanyiago
 Hi, i am dev
 - Hii, I'm Anshul Malik
@@ -188,8 +219,8 @@ Oi eu sou o Lucas Rocha
 - Hi I am Guilherme!!! (https://github.com/eugmarques). **FROM BRAZIL, MADE IN BRAZIL!**
 - Never Forget, Confusion is part of Programming - Vishal Wagh
 - Hello, I'm [Nishil](https://github.com/nishoof), a CS major at the University of San Francisco!
-- Hi this is [Haya]
 - Hello, my name is Mike and this is my first open source contribution.
+- Hi this is [Haya]
 - I'm [Furkan Kapukaya](https://github.com/furkankapukayaa). **Hi from TÜRKİYE**
 - Hello, I'm [Cyber DK](https://github.com/dk1285) and it's my first open source contribution.
 - Loading..., Hey! it's me Arun: [GitHub](https://github.com/herearunsharma)& [Linkedin](https://www.linkedin.com/in/herearunsharma/) I am very excited to carry on my journey on open source contribution. You wanna come along and see my journey, have a look to my social handles mentioned🎊⭐.
@@ -207,10 +238,12 @@ Oi eu sou o Lucas Rocha
 - Hello, I'm [Mathangi](https://github.com/math121). I'm getting into open source contributions and this is my first step into it!
 - Hello World! My name is Vini (https://github.com/nogsposito)
 - Hello world this is Avike
+- Hello World, I'm Juan de la Rosa
 - Hell
 -Hello world this is MIhir Katakdhond
 - Hi! This is AV13, marking my first step into open-source-projects.
 - It's Caroline!
+- Hello it is Shamus.
 - Namaskara from Karnataka. I'm Hemachandra MS. Dhanyavada.
 - Hello! This is [Niharika](https://github.com/niharikah005)
 - Hey It's Namu
@@ -287,6 +320,8 @@ Hi, it's me Saad (linkedin: https://www.linkedin.com/in/saad-ashraf-380715222/) 
 - Hi [vardaan]
 -Lavish Agarwal❤️
 -ghost8220 😀
+-Hello, this Kassem's first open source contribution, and hopefully not last!
+Hiiii everyone.... my name is Precious and this is my first open source contribution. I am so excited and proud to be doing this.
 -SummerInDecember was here
 -Hello I am Omar. I am making this contribution as practice. 
 -Hi everyone, Im contibutig to opensorce for the first time.
@@ -1297,6 +1332,7 @@ Hello
 - [Lucky Samuel](https://github.com/alchemistlowkey)
 - [Jaikrat Singh Tariyal](https://github.com/jaikratsinghtariyal)
 -[Hari Krishna Gunnala] (https://github.com/itsmehk8333)
+- Hello there. Here is [Vincent Nahn](https://vincentnahn.com) 👋
 - [Juan Manuel Avila Perez](https://github.com/JuanAvilaOficial)
 - [Parinam](https://github.com/parinam07) **Yosh**
 - [Juan Alvarado](https://github.com/JuanAlvarado305)
@@ -2826,6 +2862,7 @@ taha
 - [Rahul](https://github.com/rahul-MyGit)
 - [Sungjaeyeong]
   Elsa Lee
+  [dariuszknappwr]
   Samko
   kthun91
   Chani Zarbiv
@@ -4071,6 +4108,7 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
  [Adam Honvedo](https://github.com/Homvi)
 -Tim Shurlock
 - [Blake Hill](https://github.com/Blake-Hill)<3
+- WL Hong: Hi from Hong Kong~ 
 - [Seo-Eun Kim] (https://github.com/SeoeunK)
 - [Luka D](https://github.com/Luka-D) Hoping to start contributing to open source projects
 - [hovhannisyangevorg](https://github.com/hovhannisyangevorg)
@@ -7708,6 +7746,7 @@ Hey there its Adarsh Rout aka ideal.x_
 - [Zeddoun Lokmane](https://github.com/lokmanzeddoun)
 - [Bima Pangestu](https://github.com/punkestu)
 - [Roberto Flores](https://github.com/rfloresj)
+- [MarleneSanchez](https://github.com/Marlene-Suarez/first-marlene.git)
 - [fan](https://github.com/wuyifan6688)
 - [phonie](https://github.com/phon1e)
 - [nemochi](https://github.com/nemochi)
@@ -8514,7 +8553,9 @@ Hector
 - [WhiteLiu](https://github.com/LcenArthas) 😀
 - [m-kicherov](https://github.com/m-kicherov) **Hello World**
 - [kikki](https://github.com/kikki1992) **first contrubutions**
+- [Emilio_Moreno] (https://github/com/WoodstockXP) **Hi!!!**
 - [matt](https://github.com/matt-the-thew) **Buckle Up!** Here to squash bugs and build cool stuff
+- [Anyelo](https://github.com/AnyeloM15) 
 - [Vinita](https://github.com/VINITASUTHAR) 
 - [Naufaldi](https://github.com/naufalD) **yippee**
 - [Ronnie](https://github.com/MonsieurRadiant) **start now**
@@ -9029,6 +9070,7 @@ Didac Vilarnau
 - Hello, I'm [Fuyuko](https://github.com/fuyuko)
 - Hello, I'm [Sohail](https://github.com/arksohail)
 - Hi, I am [Radowids](https://github.com/Radowids)
+- Hi, I am [Pouya Ebrahimi](https://github.com/EbrahimiPouya)
 - Hi! I'm [Abby](https://github.com/KyleGal) and this is my first open source contribution.
 - Hello I'm [Tyler](https://github.com/TLeFevre2003) check out some of my projects!
 - Hi! I'm [Leslie](https://github.com/MrD-Lt) After using GitHub casually for a few years, I'm starting to try to be a little more careful today:)
@@ -9051,6 +9093,7 @@ Didac Vilarnau
 - Hello I'm[BodeAyman](https://github.com/Bodeayman) I'm just learning new things and like web development so much
 - hi, i'm .[guruh46](https://github.com/guruh46) i'm just learn.
 - hi, i'm [wgrav](https://github.com/WGrav01), this isn't my first contributation to open source but i'm doing this to kick of getting serious about open source.
+- Hello, I'm Nikhil, excited to start contributing to the open source.
 - Hi, I'm [demitry](https://github.com/demitry), let's contribute.
 - Hello, I'm Matheus and it is my first contribution
 - Hi, I'm [allenlim] and I am from Malaysia.
@@ -9058,6 +9101,7 @@ Didac Vilarnau
 - Yoo I'm [Sathwik] and I am here to play with alien species named humans.
 - Hey, soy [Marcos Sánchez](https://github.com/basurakid), un saludo!
 - Hi, I'm Pravin.
+- Hi, I'm Bax
 - Hi I am Mikheil from Georgia (https://github.com/MikheilKvizhinadze2001)
 - Hey, this is Karan from Canada!
 - Hello, I am Tasos from Ptolemaida, Greece
@@ -9108,3 +9152,15 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, I'm [Ganesh Derkar](https://github.com/18grd) from India, happy coding.... 
 - Hello I'm BitterBar.
 - Hi, I'm [Tomohiro](https://github.com/871tomohiro) from Japan, this is my first contribution.
+- Hi, I'm [Manuel Luvuvamo](https://github.com/manuelluvuvamo) from Angola...
+- Hi, I'm Pelletia (https://github.com/abpelletia) from Togo
+- Hi, this is Nezir (https://github.com/nazero3) from Syria. Nice to see you all :D
+- Hello, I'm Nissi vardhan [Nissivardhan] (https://github.com/Nissivardhan)
+- Hello everyone, this is [Simon Gomes](https://github.com/simongomes) from Bangladesh, just came here to play with teh contributions :D
+- Hello, I am Ariel 😃 [My Profile](https://github.com/H-Ariel)
+-Hello I am Virat [my frofile] (https://github.com/joeatyourmomshouse)
+-Hello, from USA, Blessings to all 
+- G'day all😸 I'm Tony from Australia, residing now in HCM, Vietnam. Honoured to lose contribution-ginity with y'all 💻 [[Github Link]](https://github.com/tonyjustdevs) [[Linkedin Link]](https://au.linkedin.com/in/tony-phung-b866b657) [[Blog Link]](https://tonyjustdevs.github.io/blog/)
+- Hello, I am Kshitij from India. Let's Go... [Profile](https://github.com/kshi7ijcx)
+- hi, I'm Lucas🥴 nice to see everyone together!
+- Hi, I am Konstantin! 😃  [Profile](https://github.com/gpiento)
