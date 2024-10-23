@@ -723,6 +723,7 @@ Jojo
 - [Chiyou Xiong] (https://github.com/Orpheus-1) **First Step Into A Lifelong Journey, Feels Great to Start Here** 
 - [Lishin V S](https://github.com/Ellvius/) **Venturing into the world of Open Source**
 - [Levi Ly](https://github.com/levihly) **bepbepbep**
+- [optimisuke (Naosuke Ito)](https://github.com/optimisuke)
 - [Ko Ko Naing](https://github.com/ko-ko-naing) **dev27/9/24**
 - [Abhinav Surya](https://github.com/Abhinavsuryakolla) **My First Contribution**
 - [Alonso Garcia](https://github.com/abg287) **Awesome Sauce**
