@@ -2,6 +2,7 @@
 - Hello, I am Celine Mang! (https://github.com/celinemang )
 - Hello, I am John Doe
 - Hello, I am Ricardo Romo
+-Hello, I am Kevinnash! [My profile](https://github.com/Nash-creator)
 - HI there!, I am Sanidhya! ((https://github.com/Sanidhyafeaturist)
 - Hello 🖐️ My name is Stu (https://github.com/smc-lean) and I'm trying to make it as a developer (eventually).
 - hello i am Evan (https://github.com/bz-e)
