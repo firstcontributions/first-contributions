@@ -4546,6 +4546,7 @@ guanj65
 - [Napkin](https://github.com/pudd-le)
 - [Junmin.ma](https://github.com/majunmin)
 - [Shahan2] (https://github.com/shahan360)
+- Hello! I am [Felipe Araujo](https://github.com/lipeaaraujo)
 - [djsmacker01](https://github.com/djsmacker01)
 - [GerardoBZentenoM](https://github.com/GerardoBZentenoM)
 - [shinyb.gb](https://github.com/gloria-bradford)
