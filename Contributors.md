@@ -672,6 +672,7 @@ Hej! I'm Gustav from Stockholm, Sweden.
 Jojo 
 - hello
 - Mode Edna
+- Hello Daniel Borsos
 - ['Layomi Lawore](https://github.com/Layomi1) **My journey into the world of open source**
 - [Jenny](https://github.com/JenniferLA) **Ayeeee first contribution:) Thank you for the help!**
 - [bhakti](https://github.com/BhaktiMore18) **Great way to learn how to contribute for the first time!!**
