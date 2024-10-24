@@ -250,6 +250,7 @@ Oi eu sou o Lucas Rocha
 - Hey It's Namu
 - Hello guys. With this commit I, [phos-web](https://github.com/phos-web), hereby embark on my journey into the world of opensource contributions.
 - Hola, Fernando estuvo aquí:)
+- Hello Im Jen Bati from Nepal. 
 - yo! im [raaaandom](https://raaaandom.github.io) 😊
 - Hi im niv,excited to be here.
 - Hello, zulfyy was here.
