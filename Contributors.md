@@ -1104,6 +1104,7 @@ Ahmad
 - [Kalyani Malokar] [https://github.com/Kalyanimalokar] **Excited For This!!! Lesss Go**
 - [Harshit Varshney]
 - [Pouria L]
+- [Rotem Haver]
 - [Jhon Alexander Marín Estrada] 
 - [Cecil Choi](https://github.com/cerealceec) **meow!**
 - [Noah Woods](https://github.com/noahcwoods/) **What is going on right now?**
