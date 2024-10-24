@@ -115,6 +115,7 @@ Hello! I am mn121mn121. First time trying.. ^_^
 - வணக்கம்! இது உங்கள் நாகநாதன் [Naganathan] (https://github.com/NaganathanM/)
 - Hi folks! I'm glad to be part of this huge contributing community. [[[ Cheers from EGYPT ]]]
 [Renan Ferreira](https://github.com/renanf23) Jesus é o único caminho.
+- Yo, I'm [Bird Person](https://github.com/ApplePieCodes) aka [ApplePieOnRye](https://discordapp.com/users/936383883493122098). I make random stuff and am willing to help others with projects.
 - Hello, [Vict75](https://github.com/vict75) here from the Netherlands
 - Hello, [Vict75](https://github.com/vict75) new-attempt from cli
 - new endtry below vict75
