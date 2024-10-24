@@ -204,8 +204,12 @@ Hi, i am dev
 - Hey! I'm Nilanshu Ranjan (https://github.com/NilanshuRanjan)
 - Oi! Eu sou o [focarica](https://github.com/focarica), diretamente do Brasil 🇧🇷.
 - Hey! I'm [Aditya](https://github.com/AdityaSinha2305) and it's my first open source contribution.
+<<<<<<< HEAD
+- Hello everyone! 😊 I'm [Angela] (https://github.com/akurtalieva) ⭐ This is my first contribution to an open source project ⭐
+=======
 - Hello, this is a very useful contribution
 - Hello, this is [bbyoda](https://github.com/tridungng).
+>>>>>>> e8bcf4dcd73ab700677993fec00ab0005db560cc
 - Hey! I'm [Mashrafie] (https://github.com/m3tal10) and it's my first contribution.
 - Hi, I'm [João](https://github.com/joaodll).
 - Hola! Mi nombre es Windel [WindelCruz](https://github.com/WindelCruzR). Excited for my first contribution.
@@ -488,6 +492,7 @@ Hej! I'm Gustav from Stockholm, Sweden.
 - Hi [Ocy-6]
 - Hey! My name is [Jay Calderon](https://github.com/cald0145) and I'm a student web developer from Canada 🇨🇦, I'm currently studying at Algonquin College. 👨🏽‍💻 **Check out my site and lets connect! [My Website](https://jaycalderon.ca), also here is my linkedin: [LinkedIn](https://www.linkedin.com/in/jaycaldev)!** 
 - Hello World, This is my first open source contribution !! I am [Shibjyoti Roy Chowdhury](https://github.com/shib-weber/)
+- **Hi everyone. I´m [Angela Kurtalieva] (https://github.com/akurtalieva). This is my first contribution to open-source project**
 - Gregor was here!
 - Hello guys, Matheus here aka otetis!
 - Hello to Open Source ! [Ambuj](https://github.com/ambujbaranwal)
@@ -4996,6 +5001,7 @@ Jasmine
 - [shine]
 - [Jordan](https://github.com/JordanRobo)
 - [Oluwatosin](https://github.com/oluwatos94)
+- Hello everyone! 😊 I'm [Angela] (https://github.com/akurtalieva) ⭐ This is my first contribution to an open source project ⭐
 - [rohanbrohan]
 - [Lauranthalassa](https://github.com/Talassha)
 - [Kothari.S] (https://github.com/effaf/)
