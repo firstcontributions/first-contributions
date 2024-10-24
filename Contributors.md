@@ -91,6 +91,7 @@ Hello there , I am avisek . this is my another contribution in open source.
 - Hello, I'm Troy! (https://github.com/guideoftheblue)
 - Hi I'm Sauravi Sar (https://github.com/SarthVader2004)
 - Hi iam james ngandu ! (https://github.com/jmngandu)
+- Hallo, It's Aziz :)
 - Hi i am Watiri
 - Hi I'm Rajkumar BM! (https://github.com/RajkumarBM-1963/)
 - Hi i am Algo
