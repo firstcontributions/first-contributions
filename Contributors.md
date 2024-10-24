@@ -1649,6 +1649,7 @@ Rudraksh Upadhyay- learing to contribute in open source projects
 - EMR
 -[Ganang abimanyu](https://github.com/ganangAbimanyu) **persta rakyat indonesia cooming really soon homie!!**
 -[Sitotaw Ashagre](https://github.com/yotors) **May be the first appearance in the os contribution realm**
+-[Melkamzer Anteneh](https://github.com/melkamzeranteneh) **May be the first appearance in the os contribution realm**
 -[Kalle]
 - [Kausar Ahmed ✨](https://github.com/kausaraahmed)
 -[Agustin Salaverry](https://github.com/asalaverry) **Hi!**
