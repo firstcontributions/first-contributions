@@ -9178,3 +9178,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - [Patrycjusz Kowalski](https://github.com/patrycjuszkowalski)
 - hi i'm wintervoid (she/her). I can't wait to start contributing on github! [Profile](https://github.com/wintervoid)
 - Hi. I'm Mareli (she/her). Can't wait to help!
+[Cameron Godwin](https://github.com/GodwinCameron) 👹
