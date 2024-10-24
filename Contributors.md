@@ -9182,4 +9182,5 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi. I'm Mareli (she/her). Can't wait to help!
 [Cameron Godwin](https://github.com/GodwinCameron) 👹
 [Anké Du Raan] (https://github.com/AnkeatOpenWindow)
+- Hi, I am Balint.
 - Hi, I'm [Sandor](https://github.com/AlexAegis)
