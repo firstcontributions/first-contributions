@@ -275,6 +275,7 @@ Oi eu sou o Lucas Rocha
 -Hello world this is MIhir Katakdhond
 - Hi! This is AV13, marking my first step into open-source-projects.
 - It's Caroline!
+- Hello from Fritz!
 - Hello it is Shamus.
 - Namaskara from Karnataka. I'm Hemachandra MS. Dhanyavada.
 - Hello! This is [Niharika](https://github.com/niharikah005)
