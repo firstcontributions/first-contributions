@@ -2,6 +2,7 @@
 - MERA PHELA CONTRIBUTION 
 did it different
 - Hello I am Adam
+- Hello! I am Camilli Fidelis <3
 - Moro! I am Tommi
 - Hello, I am Adharsh Rajavel (https://github.com/adharshr15)
 - Ray Wienand
@@ -67,6 +68,7 @@ Jesus-Bernal
 - Hello I'm Suzzie{wanjicode}
 - Hi IM HUY!!!
 - HI, My name is Ron.
+- Hi , I'm SREYAS.
 - Hi I'm Fredylan (https://github.com/Code1Crusader)
 - Hey im mohammed sulthan from 2024 ,this is my first contribution and a message to my future self .[myGitHub](https://github.com/sulthan1866)
 - Hello i am Jzz.
@@ -95,6 +97,7 @@ Hello there , I am avisek . this is my another contribution in open source.
 - Hi, I'm [Aryan Sirohi](https://github.com/Aryansirohi)
 - Hi everyone! I am Onur (https://github.com/onurerdinc) this is my first contribution to the Open Source. 
 - Hi, I'm Hubert!
+- Hi, I am [Swetha Ganapathi Raman](https://github.com/swethag04)
 - Hi iam Chiru !!
 - Hi, I'm [Dhruv Jain](https://github.com/Dhruv-Jain36)
 - Hi I'm Logan Tolbert (https://github.com/logan-tolbert)
@@ -604,6 +607,7 @@ Hej! I'm Gustav from Stockholm, Sweden.
 - [Avanish Mallya] **My First Contribution**
 - [Yakub Abdulrahman Alada] **My First Contribution**
 - Hey I´m Nico
+- Howdy, this is briann
 - [Thelen] **First contribution
 - [JavaScribeXixi2024] **My First Contribution**
 - [sahith][s-venom] **My First Contribution**
@@ -1665,6 +1669,7 @@ Rudraksh Upadhyay- learing to contribute in open source projects
 -[Andres Fernandez](https://github.com/andresdanfernandez) **My first contribution to open source! **
 -[Nishant Choudhary](https://github.com/nishant998) **Hi this is my first contribution on github**
 -[Zain Fareed](https://github.com/zfareed) **First contribution. It's great to see all of you here!**
+-[Hana Abdou](https://github.com/hanazaxk) **This is my first contribution. This s--t is really hard guys!**
 -[Ahmed Obaidullah](https://github.com/ahmedobaid23) **First Contribution!**
 -[Fahim Foysal](https://github.com/fahim-is-zero)  **Heyyyy People**
 - Ammar
@@ -9229,3 +9234,6 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, I'm [Nup](https://github.com/nupniichan) this is my first contribute, hope that i can help community!
 - Hi, I'm [LJS](https://github.com/ljscodex) and i'm here just to give my contribution 😃.
 Hi, I am Dipak from India, feeling great, my first opensource contribution https://github.com/PDipak27
+- Hello, I'm Jérôme from Grenoble in France
+- Hi guys 👋 I'm [Dhamith Kumara](https://github.com/bdhamithkumara) from Sri Lanka 🇱🇰, this is my first contribution 🎉
+- Hi, I'm [Vibhek Soni](https://github.com/vibheksoni/) this is my first contribution, I am looking to make contributions to open source repos and help the community. My discord is 1codec contact me lets work on some projects together :).
