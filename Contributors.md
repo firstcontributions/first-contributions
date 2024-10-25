@@ -9,6 +9,7 @@
 - Hello, I am Camilo Velez
 - Hello, I am Harold Mendoza (https://github.com/Hroldddp)
 - Hello, I am John Doe
+- Hey there, I am Obed Nuertey [Profile](https://github.com/obedNuertey1)
 - Hello, I am Subham Phad
 - Hello, I am ved (https://github.com/antiquark007)
 - Hello, I am Yahia El boukili (https://github.com/yahyaeb)
