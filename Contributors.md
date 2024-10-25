@@ -1514,6 +1514,7 @@ Elisheva R
 - [Manish Phartiyal](https://github.com/RayX81194) **first baby steps!**
 - [Sunny Kumar](https://github.com/sunnyrana08) **My first OpenSource Contributions!!**
 - [Chinmay Bhalerao]
+- [Kouen-XIII] (https://github.com/KoUeN-XIII) **it's KOUEN!
 - [Yaseen Halabi](https://github.com/yaseenhalabi) **I'm him**
 - [Yusif Elkamshushi](https://github.com/elkamshushi) **ezpz + He is not him**
 - [mbsev] **Lets gooo**
