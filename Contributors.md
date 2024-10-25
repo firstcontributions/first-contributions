@@ -24,6 +24,7 @@ did it different
 - Hello ,I am Binisha Pradhananga................
 - Hello, I am Aditya Jha
 - hello, I'm samita kc
+-hello,I'm Nitesh Tachamo.
 -Hello, I am Kevinnash! [My profile](https://github.com/Nash-creator)
 - HI there!, I am Sanidhya! ((https://github.com/Sanidhyafeaturist)
 - Hello 🖐️ My name is Stu (https://github.com/smc-lean) and I'm trying to make it as a developer (eventually).
