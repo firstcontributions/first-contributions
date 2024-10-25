@@ -88,6 +88,7 @@ Jesus-Bernal
 - Hi I am [Vikas](https://github.com/vicky2399)
 - Hello everyone! I am Manish (https://github.com/TwilightDawn7/) and this is my first contribution to the Open Source. Really excited for this journey! God bless you All!
 Hello there , I am avisek . this is my another contribution in open source.
+- farid here(faridG7)
 - Hi, I'm Brian Casio (https://github.com/briancasio)
 - Hi, I'm Kate Gandara (https://github.com/KateGandara)
 - [Abhinav_Chaudhary] (https://github.com/abhi0842) This is my first time contributing to open source.
@@ -191,6 +192,7 @@ Hi everyone I'm Kithmini Mayodya
 - Hi, I'm [busa2022](https://github.com/busa2022)
 -Testing out CLI, aprv
 - HIIII , I am Neeraj and this is my first contribution thank you.
+- Hello Sameer here Yo 
 - Hi, I am Harsha Siddalingachar from India. Happy to contribute to this repo.
 - Hi tech nerds, I'm Adeesha. You can find me on https://www.linkedin.com/in/ahttps://www.linkedin.com/in/arunodagunawardana/
 - Hey New Contributors, Myself [Govardhan](https://github.com/GovardhanGova7277). I want to be the best open source contributor in the world.
