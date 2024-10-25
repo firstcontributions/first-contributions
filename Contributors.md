@@ -9228,4 +9228,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, I'm [Sandor](https://github.com/AlexAegis)
 - Hi, I'm [Nup](https://github.com/nupniichan) this is my first contribute, hope that i can help community!
 - Hi, I'm [LJS](https://github.com/ljscodex) and i'm here just to give my contribution 😃.
-Hi, I am Dipak from India, feeling great, my first opensource contribution https://github.com/PDipak27
+Hi, I am Dipak , feeling great, my first opensource contribution https://github.com/PDipak27
