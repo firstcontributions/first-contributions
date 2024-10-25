@@ -76,6 +76,7 @@ Jesus-Bernal
 - HI I am Andrew!
 - Hi I am Alonso
 -hi ,i am learner
+- Hello, I'm [Renato Oliveira](https://github.com/rdoois)
 - Hello, I am Deyan 🇧🇬
 - Hi I am Aashin , my first ever contribution 
 - Hi, This is Prachurja Saha (https://github.com/Prachurja-Saha) 
