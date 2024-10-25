@@ -9169,6 +9169,7 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, I'm [Mohammad Sabouri](https://github.com/Sabouri1994) and here is my first open source contribution. I am so happy to be pary of this community.
 - Hi, I'm Subhasish Saha
 - Hi, I'm Blaise
+- Hello, I'm Jordan. Let's code!
 - Hey, this is (https://github.com/cabmatthew). Nice to see you here!
 - [Victor Amaral de Sousa](https://github.com/AmaVic) **Blockchain Consultant, Lecturer and Researcher**
 - Hey, lets hope i make some changes
@@ -9208,3 +9209,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 [Anké Du Raan] (https://github.com/AnkeatOpenWindow)
 - Hi, I am Balint.
 - Hi, I'm [Sandor](https://github.com/AlexAegis)
+
