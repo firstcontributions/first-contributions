@@ -10,6 +10,7 @@ did it different
 - Hi, this is lanl2tz (https://github.com/lanl2tz)
 - Hi guys, I'm [Abdul Rehman](https://github.com/rehmansheikh222), this is my first open source contribution.
 - Hello, I am Abdul Wahab
+- Hi, It's me Anjali from Nepal.
 - Hello, I am Celine Mang! (https://github.com/celinemang )
 - Hello, I am Camilo Velez
 - Hello, I am Harold Mendoza (https://github.com/Hroldddp)
