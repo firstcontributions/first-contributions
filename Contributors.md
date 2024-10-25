@@ -1663,6 +1663,7 @@ Rudraksh Upadhyay- learing to contribute in open source projects
 -[Andres Fernandez](https://github.com/andresdanfernandez) **My first contribution to open source! **
 -[Nishant Choudhary](https://github.com/nishant998) **Hi this is my first contribution on github**
 -[Zain Fareed](https://github.com/zfareed) **First contribution. It's great to see all of you here!**
+-[Hana Abdou](https://github.com/hanazaxk) **This is my first contribution. This s--t is really hard guys!**
 -[Ahmed Obaidullah](https://github.com/ahmedobaid23) **First Contribution!**
 -[Fahim Foysal](https://github.com/fahim-is-zero)  **Heyyyy People**
 - Ammar
