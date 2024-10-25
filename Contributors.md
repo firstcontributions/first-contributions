@@ -34,6 +34,7 @@ Hello! I am mn121mn121. First time trying.. ^_^
 - Hi! Greetings from Joel
 - Hi I am 주영준!!! (https://github.com/jooladen)
 - Hi! I am Snehit !!!
+- Hey y'all! I am Michael Puckett (https://github.com/michaelp91-dev)
 - Hello I'm Stan ;)
 - Hi! [Francisco Proboste](https://www.linkedin.com/in/francisco-proboste/) from Chile 🇨🇱 🏞️
 - ¡Hola, soy Juanlu, y estoy emocionado de hacer mi primera contribución!
