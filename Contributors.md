@@ -22,7 +22,6 @@ did it different
 - Hello, I am ved (https://github.com/antiquark007)
 - Hello, I am Yahia El boukili (https://github.com/yahyaeb)
 - Hello, I am Jason Liang (https://github.com/Jason020310)
-- Hey there, I am Kouen.
 - Hey there, I am Andre! (https://github.com/amerrittjr)
 - Hello, I am Ricardo Romo
 - Hello ,I am Binisha Pradhananga................
@@ -1514,6 +1513,7 @@ Elisheva R
 - [Manish Phartiyal](https://github.com/RayX81194) **first baby steps!**
 - [Sunny Kumar](https://github.com/sunnyrana08) **My first OpenSource Contributions!!**
 - [Chinmay Bhalerao]
+- [Kouen-XIII] (https://github.com/KoUeN-XIII) **it's KOUEN!
 - [Yaseen Halabi](https://github.com/yaseenhalabi) **I'm him**
 - [Yusif Elkamshushi](https://github.com/elkamshushi) **ezpz + He is not him**
 - [mbsev] **Lets gooo**
