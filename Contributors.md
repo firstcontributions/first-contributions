@@ -1,6 +1,7 @@
 # Contributors
 - Hello!!! This is KARAN KUMAR NONIA (https://github.com/kkn2k19)
-- hello my name is rishitha
+- hello my name is riya
+- hello my name is rishi
 - Hello welcome to my world m sushmita. Do you know me??????
 - Hello My name is Preston Mayieka (https://github.com/preston176)
 - Hey 👋 I'm [HorebZ](https://github.com/HorebZ)
