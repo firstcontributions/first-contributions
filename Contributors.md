@@ -224,6 +224,7 @@ Hi, i am dev
 - It's meee!!!! [Dheeraj](https://github.com/Dheeraj-147)
 - Hello there!I'm Crab, and this right here, is history
 -Hi everyone Duncan here
+- Hello, I'm [Allen](https://github.com/aphillips830) and this is my first contribution!
 - Hi I am [Raay](https://github.com/raay95) and I am trying to learn this git thing and I hope I will be able to keep up with this and help open-source!!
 - yo
 -Hi, Im [Aditi Manthri](https://github.com/aditi-manthri)
