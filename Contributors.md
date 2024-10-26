@@ -2701,7 +2701,7 @@ vrushabhpatil48
 - [Benjamin Kaplan](https://github.com/benKapl)
 - [Sudip Shrestha](https://github.com/sudipstha08)
 - [Bunmi Oye](hhttps://github.com/cyanhead)
-- [May Thu Htet](https://github.com/may-thu-htet)
+- [May Thu Htet](https://github.com/may-thu-htet
 - [hajin24](https://github.com/hajin0324)
 - [Jonas Fahrney] (https://github.com/b0n3l3ss/)
 - [SK Deeraj] (https://github.com/DeerajKarthik)
@@ -4757,6 +4757,7 @@ Jasmine
 - [Ghanashyam R](https://github.com/ghanashyam-r)
 - [Boitumelo Tshehla](https://github.com/B-Tshehla)
 - [Mythresh](https://github.com/Joyboy57)
+- Hi, my name is Luismer c:
 - [pgcampani](https://github.com/pgcampani)
 - [Shubham Salunke](https://github.com/TechnoFynch)
 - [Ahmad Malik](https://github.com/admalik100)
