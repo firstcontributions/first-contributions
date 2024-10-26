@@ -4829,6 +4829,7 @@ Jasmine
 - [Ray Mcmillan Gumbo] (https://github.com/Raymacmillan)
 - [Tunahan Değirmencioğlu](https://github.com/dabbitz)
 - [IvanBurgos](https://github.com/IvanBurgos)
+- [TimCharlier](https://github.com/timcharlier6)
 - [Harinee Purushothaman](https://github.com/harinee05)
 - [Mehardeep](https://github.com/mehardeep88)
 - [xJaiki](https://github.com/xjaiki)
