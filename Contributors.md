@@ -9232,3 +9232,7 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, I'm [Sandor](https://github.com/AlexAegis)
 - Hi, I'm [Nup](https://github.com/nupniichan) this is my first contribute, hope that i can help community!
 - Hi, I'm [LJS](https://github.com/ljscodex) and i'm here just to give my contribution 😃.
+<<<<<<< HEAD
+=======
+pdp, first contribution
+>>>>>>> c5c9d1e80cfe424b82889c3a175504361d393ee9
