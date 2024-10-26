@@ -34,6 +34,7 @@ did it different
 -hello, I'm Hardik Gayner from India
 -Hello, I am Kevinnash! [My profile](https://github.com/Nash-creator)
 - HI there!, I am Sanidhya! ((https://github.com/Sanidhyafeaturist)
+-Yaay! I am Kyoshi Lima (https://github.com/KyoshiLima)
 - Hello 🖐️ My name is Stu (https://github.com/smc-lean) and I'm trying to make it as a developer (eventually).
 - hello i am Evan (https://github.com/bz-e)
 - Hello!!! This is KARAN KUMAR NONIA (https://github.com/kkn2k19)
