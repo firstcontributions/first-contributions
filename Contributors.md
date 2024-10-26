@@ -96,6 +96,7 @@ Jesus-Bernal
 - Hi I am [Vikas](https://github.com/vicky2399)
 - Hello everyone! I am Manish (https://github.com/TwilightDawn7/) and this is my first contribution to the Open Source. Really excited for this journey! God bless you All!
 Hello there , I am avisek . this is my another contribution in open source.
+- farid here(faridG7)
 - Hi, I'm Brian Casio (https://github.com/briancasio)
 - Hi, I'm Kate Gandara (https://github.com/KateGandara)
 - [Abhinav_Chaudhary] (https://github.com/abhi0842) This is my first time contributing to open source.
@@ -9248,7 +9249,6 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, I am D0000M.
 - Hi, I'm [Nup](https://github.com/nupniichan) this is my first contribute, hope that i can help community!
 - Hi, I'm [LJS](https://github.com/ljscodex) and i'm here just to give my contribution 😃.
-Hi, I am Dipak from India, feeling great, my first opensource contribution https://github.com/PDipak27
 - Hello, I'm Jérôme from Grenoble in France
 - Hi guys 👋 I'm [Dhamith Kumara](https://github.com/bdhamithkumara) from Sri Lanka 🇱🇰, this is my first contribution 🎉
 - Hi, I'm [Vibhek Soni](https://github.com/vibheksoni/) this is my first contribution, I am looking to make contributions to open source repos and help the community. My discord is 1codec contact me lets work on some projects together :).
