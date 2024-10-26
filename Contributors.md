@@ -9255,3 +9255,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, I'm Wasiqur Zaman.
 - Hi, I'm [Genard Rey](https://github.com/oslo19/) this is my first contribution, First stepping-stone to become a Full Stack Developer.
 - HI i am PDP
+- Hi I'm [Mohamad Jamous](https://github.com/mohamadjamous), Mobile Developer, this is my first contribution.
