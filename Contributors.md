@@ -319,6 +319,7 @@ Oi eu sou o Lucas Rocha
 - Hello Guys, my name is Fâkea Vangchhia, I truly apreciate for this tutorial. THANK YOU SO MUCH.
 - Hi, I am Alavya Pandey[https://github.com/alavyap].
 - Hello i love panpy so much , thankyou
+-Hi... Anusha here
 - Hi, I'm [ParkNaJin](https://github.com/cosmoss919) from Korea. It's my my first open source contribution.
 - Hi, I'm [Vedant](https://github.com/vedant-dwivedi/) and it's my first open source contribution.
 - Hi, Im [Young](https://youkoutaku.github.io/) from China. I'm a learning master’s student at Japan and it's my first open source contribution.
