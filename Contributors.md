@@ -23,6 +23,7 @@ did it different
 - Hello, I am Harold Mendoza (https://github.com/Hroldddp)
 - Hello, I am John Doe
 - hi, gadz was here 
+- Hey everybody I am Chaminade Dondah Adjolou (https://github.com/ChaminadeGithub)
 - Hello, Ronan Dance here! 
 - Hey there, I am Obed Nuertey [Profile](https://github.com/obedNuertey1)
 - Hello, I am Subham Phad
