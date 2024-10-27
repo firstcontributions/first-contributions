@@ -6,6 +6,7 @@ did it different
 - Hello! I am Camilli Fidelis <
 - **Asier Nuñez | 💻 Software Developer | [🔗 LinkedIn](https://www.linkedin.com/in/asier-nuñez-garcia/) | [🙀 Github](https://github.com/AsierCode)**
 - Moro! I am Tommi
+- Oya! This is [Pritha](https://github.com/prithak01). Me'vaar ti gar?
 - Hello, I am Adharsh Rajavel (https://github.com/adharshr15)
 - Ray Wienand
 -**Atharva Jaiswal | 💻 Python & 🤖 Data Science Enthusiast | [🔗 LinkedIn](https://www.linkedin.com/in/atharva-jaiswal/)**
