@@ -6,7 +6,6 @@
 
 # Eerste Bydraes
 
-Dit is moeilik. Dit is altyd moeilik om die eerste keer iets te doen. Veral wanneer jy saamwerk, maak foute nie 'n gemaklike ding nie. Ons wou die manier waarop nuwe open source bydraers vir die eerste keer leer en bydra, vereenvoudig.
 
 Lees artikels en kyk tutoriale kan help, maar wat is beter as om die goed in die praktyk te doen? Hierdie projek het ten doel om leiding te gee en die manier waarop beginners hul eerste bydrae maak, te vereenvoudig. As jy jou eerste bydrae wil maak, volg die onderstaande stappe.
 
