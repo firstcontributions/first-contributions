@@ -9274,3 +9274,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - [You Feng](https://github.com/yf101112) Willing to contribute to AI projects!
 - Hi, I am Aman Borkar [https://github.com/amanisreal]
 - Hi, I am Hrithik Varshney
+- Hi, I am [Alex](https://github.com/alexlee39), trying to develop my coding skills through open-sourcing and projects
