@@ -9257,3 +9257,10 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, I'm [Genard Rey](https://github.com/oslo19/) this is my first contribution, First stepping-stone to become a Full Stack Developer.
 - HI i am PDP
 - Hi, my name is J g'day all
+- Hello. Alexander here (https://github.com/ac-webdesign)
+- hello, Badri here (https://github.com/AngulaBadrinath) * feelin Good *
+- [You Feng](https://github.com/yf101112) Willing to contribute to AI projects!
+- Hi, I am Aman Borkar [https://github.com/amanisreal]
+- Hi, I am Hrithik Varshney
+- Hi, I am [Alex](https://github.com/alexlee39), trying to develop my coding skills through open-sourcing and projects
+- Hi, I'm Gakuto, hope you guys enjoy coding!
