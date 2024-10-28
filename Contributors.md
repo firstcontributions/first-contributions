@@ -669,6 +669,7 @@ Hej! I'm Gustav from Stockholm, Sweden.
 - [JohnnyWaysller](https://github.com/JohnnyWaysller)
 - [Julia Obshansky]
 - Hello, Open Source, I'm [OlaOluwalekan](https://github.com/OlaOluwalekan), here on **28/09/2024**, adding my first contribution to open source.
+- Hello, open source I'm Imaan Shahid (https://github.com/imaansh). First open source contribution on 28-10-24 :)
 - [Leti] (https://github.com/leticarvalho) ** thank you, I'm excited to start contributing to OS! ☺️ **
 - [Miquel] ** Testing **
 - [Gourav Rawat] ** firstone **
