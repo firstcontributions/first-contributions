@@ -9275,3 +9275,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, I am Aman Borkar [https://github.com/amanisreal]
 - Hi, I am Hrithik Varshney
 - Hi, I am [Alex](https://github.com/alexlee39), trying to develop my coding skills through open-sourcing and projects
+- Hi, I'm Gakuto, hope you guys enjoy coding!
