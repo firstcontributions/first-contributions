@@ -10,7 +10,7 @@ did it different
 - Hello, I am Adharsh Rajavel (https://github.com/adharshr15)
 - Ray Wienand
 -**Atharva Jaiswal | 💻 Python & 🤖 Data Science Enthusiast | [🔗 LinkedIn](https://www.linkedin.com/in/atharva-jaiswal/)**
--🚀✨**Hello I am Aung Pyae Son Oo**✨🥳👋
+- 🚀✨**Hello I am Aung Pyae Son Oo**✨🥳👋
 - Hein is here
 - Hi, Htain Lin is here.
 - Hello, I am David
