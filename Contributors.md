@@ -7,6 +7,7 @@ did it different
 - **Asier Nuñez | 💻 Software Developer | [🔗 LinkedIn](https://www.linkedin.com/in/asier-nuñez-garcia/) | [🙀 Github](https://github.com/AsierCode)**
 - Moro! I am Tommi
 - Oya! This is [Pritha](https://github.com/prithak01). Me'vaar ti gar?
+- **Lahcen ELORF| 💻 Full Stack Software Engineer | Was Here.**  [🌐 LinkedIn](https://www.linkedin.com/in/lahcenelorf/) | [👨‍💻 Github](https://github.com/ELORF-Lahcen)
 - Hello, I am Adharsh Rajavel (https://github.com/adharshr15)
 - Ray Wienand
 -**Atharva Jaiswal | 💻 Python & 🤖 Data Science Enthusiast | [🔗 LinkedIn](https://www.linkedin.com/in/atharva-jaiswal/)**
