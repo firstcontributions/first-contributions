@@ -3987,6 +3987,7 @@ Pereira
 -[Aidan Palmer](https://github.com/aidan-palmer)
 -[Vishal Mehmi](https://github.com/vishalmehmi)
 -[Gaëtan Tremois](https://github.com/gtcore902)
+-[Austin Funk](https://github.com/TrillOnGit)
 -[Brady Burns](https://github.com/burnsie000)
 -[Lance Preston](https://github.com/MrBubb1es)
 -[Ariyo](https://github.com/AriyosenaS)
