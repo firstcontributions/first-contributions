@@ -404,7 +404,8 @@ Hi, it's me Saad (linkedin: https://www.linkedin.com/in/saad-ashraf-380715222/) 
 -Hello, this Kassem's first open source contribution, and hopefully not last!
 Hiiii everyone.... my name is Precious and this is my first open source contribution. I am so excited and proud to be doing this.
 -SummerInDecember was here
--Hello I am Omar. I am making this contribution as practice. 
+-Hello I am Omar. I am making this contribution as practice.
+-Hi I'm Nour , this is my first contribution , I've done some mistakes , tried to fix it , learnt from it , I guess I fixed it...so excited to hop on this journey.
 -Hi everyone, Im contibutig to opensorce for the first time.
 -Hi their, i am Harpreet from Bharat 🙏
 -[Vijayan K S](https://github.com/ksvijayan06) **If you are reading this, Remember, I'll always Love You🫵. This contribution made for the Octoberfest 2024 event. If you want to join with for the Open Source Contribution follow me on github😘**
