@@ -66,6 +66,7 @@ did it different
 - Hi I'm Oscar
 -  HI there!, I am Ain Azeem! ((https://github.com/iAinAzeem))
 - Hlo there! Roman from Nepal!
+- Hey, here is Noura.
 - Hey, I am Risinu. (https://github.com/RisinuWijesinghe)
 - hello my name is riya
 - Hi Im Julia! my GitHub is https://github.com/j1bb1e and my linked in is https://www.linkedin.com/in/julia-brand-430628293/
