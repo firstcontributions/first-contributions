@@ -37,6 +37,7 @@ did it different
 - Hello, I am Harold Mendoza (https://github.com/Hroldddp)
 - Hello, I am John Doe
 - hi, gadz was here 
+- hello everyone I am Sai Ganesh
 - Hey everybody I am Chaminade Dondah Adjolou (https://github.com/ChaminadeGithub)
 - Hello, Ronan Dance here! 
 - Hey there, I am Obed Nuertey [Profile](https://github.com/obedNuertey1)
@@ -65,6 +66,7 @@ did it different
 - Hi I'm Oscar
 -  HI there!, I am Ain Azeem! ((https://github.com/iAinAzeem))
 - Hlo there! Roman from Nepal!
+- Hey, here is Noura.
 - Hey, I am Risinu. (https://github.com/RisinuWijesinghe)
 - hello my name is riya
 - Hi Im Julia! my GitHub is https://github.com/j1bb1e and my linked in is https://www.linkedin.com/in/julia-brand-430628293/
@@ -3389,6 +3391,7 @@ Tamar
 - [Matt Palmer](https://github.com/this-is-matt)
 - [mr-xcode](https://github.com/mr-xcode)
 - [jshutone](https://github.com/jshutone)
+- [Josep Naranjo](https://github.com/joseptnl)
 - [TKO(https://github.com/2-lazyyyy)
 - Aydhiny
 - Kaat
