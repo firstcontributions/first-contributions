@@ -873,6 +873,7 @@ wowww
 - Vaibhavi
 - [Manahil Iqbal](https://github.com/manahiliqbal) **1st contribution**
 - [Ved Sharma](https://github.com/vedsharma8877) **Open Source Noob**
+- [Nicolás](https://github.com/nickos13) **Hello World from Chile!**
 - [Aid Mustafić](https://github.com/astaffz) **Hello World from Bosnia!**
 - [Mayur K Setty](https://github.com/mayur-driod/)**Lessss Goooooo! My first contribution! Ready to rock n roll**
 - [whoIsJihad](https://github.com/whoIsJihad/first-contributions.git)**ready**
