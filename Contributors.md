@@ -3390,6 +3390,7 @@ Tamar
 - [Matt Palmer](https://github.com/this-is-matt)
 - [mr-xcode](https://github.com/mr-xcode)
 - [jshutone](https://github.com/jshutone)
+- [Josep Naranjo](https://github.com/joseptnl)
 - [TKO(https://github.com/2-lazyyyy)
 - Aydhiny
 - Kaat
