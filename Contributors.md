@@ -7778,6 +7778,7 @@ Hey there its Adarsh Rout aka ideal.x_
 - [Vicky Z](https://github.com/VickyZC61)
 - [MOHAMMED FAIZAAN SHARIEF](https://github.com/mohammedfaizaansharief1)
 - [bug_iso](https://github.com/tremalose)
+- Hello I'm EchoJunction
 - [mpalkov](https://github.com/mpalkov)
 - [Volkan Durmaz](https://github.com/VolkanDurmaz/)
 - [npowse](https://github.com/npowse)
@@ -9322,3 +9323,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, This is Kailash Sundaramurthy from Chennai, Tamilnadu, India, making my 1st contribution.
 - Hello, My name is Akash (sky-39).
 - Hello, I'm [uke](https://github.com/ukeSJTU).
+- Hi, i'm James Gippetti
