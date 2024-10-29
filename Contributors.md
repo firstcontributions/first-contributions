@@ -49,6 +49,7 @@ did it different
 - hello, I'm samita kc
 -hello,I'm Nitesh Tachamo.
 - Hi, I'm Venu
+- Hello, I'm Andrea Graziano Gitto
 -hello, I'm Hardik Gayner from India
 -Hello, I am Kevinnash! [My profile](https://github.com/Nash-creator)
 - HI there!, I am Sanidhya! ((https://github.com/Sanidhyafeaturist)
