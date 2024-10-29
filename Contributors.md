@@ -441,6 +441,7 @@ Hiiii everyone.... my name is Precious and this is my first open source contribu
 - Hii, It's [Ayush](https://github.com/ayushk-1801) and **it's my first contribution to open source!!**
 - Hi from no-ppp
 Thisarani Gunathilaka
+Hello, my name is **Autumn**! I'm a linguist from Minnesota. I'm currently studying tehnical writing. Check out my profile here [https://github.com/autumnlem]
 - Hi I'm Pratyusha
 - Namaste, I'm Lochan
   Hi I'm Maxi
