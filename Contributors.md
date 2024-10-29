@@ -4,6 +4,7 @@
 - MERA PHELA CONTRIBUTION 
 did it different
 - Hi, it's Michele here
+- Hi, it's Vishesh here
 - Hi, I am Aoao!(https://github.com/aoao1024)
 - Hello I am Adam
 - Hello! I am Camilli Fidelis <
