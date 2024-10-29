@@ -1052,6 +1052,7 @@ Rakesh Radhakrishnan dev was here.
 - [Jamie Heathorn](https://github.com/heathornJ) **Amazing how many folk got started here. Hi, from England!**
 - [Shriharsh Deshmukh](https://github.com/Shriharsh-Deshmukh) **First Contribution to opensource project, All Thanks to this repo who guide overall process**
 - [Nicolás Alfaro](https://github.com/Alfa06N)
+- Hi, I am [Mohamed Tarek](https://github.com/WhiteWhale52). 
 - [Corl](https://github.com/corl64/) **Hey y'all! Carl here! My first Open Source Contribrution!!! `;)`**
 - [iekderaka](https://github.com/iekderaka) **Hello!;)`**
 - [TehilaTheStudent😊](https://github.com/TehilaTheStudent)
