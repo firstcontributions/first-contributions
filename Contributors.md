@@ -71,6 +71,7 @@ Oi eu sou o Lucas Rocha
 - Hey, I'm Zaid and it's my first open source contribution.
 - hi, I'm jojo and I'm so lost 
 - Hey, This is [Dibyadyuti (a.k.a. unknownguy49)](https://www.linkedin.com/in/dibyadyuti-dutta/), a tech enthusiast. You can connect with me.
+- Hello
 - Hey, I'm [Shaz](https://github.com/MdShaz9771) and it's my first open source contribution.
 - [Sahin was here](https://github.com/sahinyes)
 - Hello World from [Aditya More](https://Dev-Aditya-More)
