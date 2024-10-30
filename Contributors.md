@@ -4,8 +4,10 @@
 - MERA PHELA CONTRIBUTION 
 did it different
 - Hi, it's Michele here
+- Hi, it's Vishesh here
 - Hi, I am Aoao!(https://github.com/aoao1024)
 - Hello I am Adam
+- Hello I am Naman!!(https://github.com/namansinghrana)
 - Hello! I am Camilli Fidelis <
 - **Asier Nuñez | 💻 Software Developer | [🔗 LinkedIn](https://www.linkedin.com/in/asier-nuñez-garcia/) | [🙀 Github](https://github.com/AsierCode)**
 - Moro! I am Tommi
@@ -18,11 +20,13 @@ did it different
 -**Atharva Jaiswal | 💻 Python & 🤖 Data Science Enthusiast | [🔗 LinkedIn](https://www.linkedin.com/in/atharva-jaiswal/)**
 - 🚀✨**Hello I am Aung Pyae Son Oo**✨🥳👋
 - Murtaja Is Here 😊
+- This is Zar.
 - Hello, __Michael P.__ is *here*.
 - Hein is here
 - Hello Everyone, I am Bhanu :). 
 - Hi, Htain Lin is here.
 - Hello, I am David
+- Hi, it is Carlos here! [GitHub](https://github.com/cgaritac) [LinkedIn](https://www.linkedin.com/in/carlos-garita-campos-44881a111/) [YouTube](https://www.youtube.com/@cgcode1701)
 - 🚀✨**Hello I am Aung Pyae Son Oo**✨🥳👋
 - Hi, this is lanl2tz (https://github.com/lanl2tz)
 - Hi guys, I'm [Abdul Rehman](https://github.com/rehmansheikh222), this is my first open source contribution.
@@ -33,7 +37,9 @@ did it different
 - Hi, It's me Anjali from Nepal.
 - Hello, I am Celine Mang! (https://github.com/celinemang )
 - Hello, I am Camilo Velez
+- Hi, I'm Phung (https://github.com/gnuhpdiem)
 - olivgr was here
+- Bola 
 - Hello, I am Harold Mendoza (https://github.com/Hroldddp)
 - Hello, I am John Doe
 - hi, gadz was here 
@@ -42,6 +48,7 @@ did it different
 - Hello, Ronan Dance here! 
 - Hey there, I am Obed Nuertey [Profile](https://github.com/obedNuertey1)
 - Hello, I am Subham Phad
+- Hello, this is Aamayzingg!
 - Hello, I am ved (https://github.com/antiquark007)
 - Hello, I am Yahia El boukili (https://github.com/yahyaeb)
 - Hello, I am Jason Liang (https://github.com/Jason020310)
@@ -111,7 +118,10 @@ Jesus-Bernal
 - Hi I am Anshuman Singh 
 - Hi I am Alex Maxwell.
 - Hi I am Umer.
+- Hi I am Gavin.
+- Random contributions
 - HI I am Andrew!
+- Hi I am Camilla.
 - Hi I am Alonso
 -hi ,i am learner
 - Hello, I'm [Renato Oliveira](https://github.com/rdoois)
@@ -140,6 +150,7 @@ Hello there , I am avisek . this is my another contribution in open source.
 - Hi, Vansh here. Not my first open-source contribution but getting back into it
 - Hi I'm Lukas :D
 - Hi I am B, this is my first open source contribution
+- Hello 👋🏻, I'm [Eshwar Kyatham](https://github.com/eshwarkyatham16). This is my first open source contribution.
 - Hello, I am Suraj.
 - Hello, I'm Troy! (https://github.com/guideoftheblue)
 - Hi I'm Sauravi Sar (https://github.com/SarthVader2004)
@@ -247,6 +258,7 @@ Hi, i am dev
 - Hello my name is Daniel
 - Hi, I'm Masahiro and it's my first contribution to opensource!
 - Hi, I'm Debabrata and this is my first open source contribution. 
+- Hey, I'm Jose, Have Fun learning (https://github.com/Enguner).
 - Hi, I'm [Victor](https://github.com/pvictordev) and I know that I just forked repo, cloned it, made a commit and open a PR to push this to main, but it does not change the fact that it is my first push to open source.
 - Hello Everyone, I am Kavindi and this is my first contribution to open source. And I will be making more contributions to open source.
 - Hi yo, I'm Vam
@@ -381,6 +393,7 @@ Hi am [Jambong Ralpher](https://github.com/Jambong-Ralpher).Love to connect with
 - Hey! I'm Sunil, starting this shit now
 - Hello! I'm Jisol! 
 - Hello! Sumukh beaming in!
+- Hey, this is Moon!
 - Hi i am Luna Hacks
 - Hi, I'm [TRUNG NGO](https://github.com/xtcivic)
 - Hey I am Abhinav and this is my introduction to the world of open-source!
@@ -428,6 +441,7 @@ Hiiii everyone.... my name is Precious and this is my first open source contribu
 - Hello, I'm [Samuel](https://github.com/sammy6378), happy to contribute.
 - Hello, I'm [Sarthak](https://github.com/sarthak-12), this is my first open source contribution.
 - Hi! I'm Kyle (https://github.com/KyleGal) and this is my first open source contribution.
+- Hey! I'm Gyaltsen(https://github.com/gyaltsen002). My first ever contribution.
 - Hey! I'm Anandu and this is my first open-source contribution.
 - Hi! I'm [Sreeram](https://github.com/srrm99).
 - Hey There, I'm RussL [Russell Dsouza](https://github.com/Russell-Dsouzaa), and it's my first git contribution.
@@ -1360,6 +1374,7 @@ Hello
 - [Hamilcer](https://github.com/Hamilcer) **Let's do it**
 - [Davidd0605](https://github.com/Davidd0605) **I wanna punch th guy who made js**
 - [artsupawat](https://github.com/artsupawat) **Hello, this is my first contribution 🎉**
+- [rickhehe](https://github.com/rickhehe) **Hello, world 🎉**
 - [Helter Jay] (https://github.com/HelterJay) **My first Contribution!**
 - [Aditya Pandey](https://github.com/adityapandey78)
 - [Mateus Gunsch](https://github.com/mateusgunsch) **First contribution, go pet some cats 😸**
@@ -1951,6 +1966,7 @@ Yulia Lantzberg
 - [Adarsh](https://github.com/adarshsingh7) **root@adarsh i use fedora BTW**
 mh
 - [Anurag](https://github.com/anurag-sharma17) **My journey begins from here**
+- [Anurag Verma](https://github.com/anurag-verma-india) Happy Diwali 🪔🧨✨🎆❤️🎇🪔🏵️🧨🎆🪔🪔✨
 - [Patrick S](https://github.com/patch-sys) **My first contribution**
 - [Raulfbr](https://github.com/raulfbr) **Raul Rodrigues first contribuition**
 - [Moreen Hettihewa](https://github.com/moreenhettihewa) **First Contribution**
@@ -7777,6 +7793,7 @@ Hey there its Adarsh Rout aka ideal.x_
 - [Vicky Z](https://github.com/VickyZC61)
 - [MOHAMMED FAIZAAN SHARIEF](https://github.com/mohammedfaizaansharief1)
 - [bug_iso](https://github.com/tremalose)
+- Hello I'm EchoJunction
 - [mpalkov](https://github.com/mpalkov)
 - [Volkan Durmaz](https://github.com/VolkanDurmaz/)
 - [npowse](https://github.com/npowse)
@@ -9321,4 +9338,6 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, This is Kailash Sundaramurthy from Chennai, Tamilnadu, India, making my 1st contribution.
 - Hello, My name is Akash (sky-39).
 - Hello, I'm [uke](https://github.com/ukeSJTU).
-- Hello, I'm Ben from SN this is my GITHUB (https://github.com/benbasse)
+- Hello, I'm Ben from SN this is my GITHUB (https://github.com/benbasse)- Hello from cruncha-cruncha
+- Hi, i'm James Gippetti
+- Hi, I'm Sunil (brijsunil2)
