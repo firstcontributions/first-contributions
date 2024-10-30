@@ -1,6 +1,7 @@
 # Contributors
 - Twisha Patel -- Twix is here. I hope I give back. TADA! -- [Find me here](https://github.com/twix402)            
 - Mukul was here
+- Karol here ;) https://github.com/Kar977
 - Hello, Arpit Sharma was here.
 - MERA PHELA CONTRIBUTION 
 did it different
