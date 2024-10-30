@@ -84,6 +84,7 @@ did it different
 - Hello, Im Shanto, this my first contribution (https://github.com/Tanxim/)
 - Salam, Abdul HAseeb here
 - Hello, my name is Matthew and my GH is (https://github.com/mattwheeler-dev)
+- Giuliobmb first contribution!
 - Hello, I am kevin Martinez 
 - Hi, I am Keszőcze László
 - Greetings, I am Milan Ramautarsing and would love to collaborate with you so reach out (https://github.com/Dragon01000)
