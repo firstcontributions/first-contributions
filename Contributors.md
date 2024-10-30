@@ -86,6 +86,7 @@ did it different
 - Hello, my name is Matthew and my GH is (https://github.com/mattwheeler-dev)
 - Giuliobmb first contribution!
 - Hello, I am kevin Martinez 
+- Namaste, this is Shri. Thanks for beign a part of my first contribution! 
 - Hi, I am Keszőcze László
 - Greetings, I am Milan Ramautarsing and would love to collaborate with you so reach out (https://github.com/Dragon01000)
 - Hello, I am Sanju from Nepal
