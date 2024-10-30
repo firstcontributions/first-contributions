@@ -66,6 +66,7 @@ did it different
 - Hi, I'm Venu
 - Hi, Fabio Lima was here!
 -hello, I'm Hardik Gayner from India
+- Hello, I'm Ricardo Lemos (https://github.com/RicardoLemos5)
 -Hello, I am Kevinnash! [My profile](https://github.com/Nash-creator)
 - HI there!, I am Sanidhya! ((https://github.com/Sanidhyafeaturist)
 -Yaay! I am Kyoshi Lima (https://github.com/KyoshiLima)
