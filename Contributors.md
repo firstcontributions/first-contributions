@@ -1,4 +1,5 @@
 # Contributors
+- Twisha Patel -- Twix is here. I hope I give back. TADA! -- [Find me here](https://github.com/twix402)            
 - Mukul was here
 - Hello, Arpit Sharma was here.
 - MERA PHELA CONTRIBUTION 
