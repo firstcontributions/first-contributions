@@ -9321,3 +9321,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, This is Kailash Sundaramurthy from Chennai, Tamilnadu, India, making my 1st contribution.
 - Hello, My name is Akash (sky-39).
 - Hello, I'm [uke](https://github.com/ukeSJTU).
+- Hello, I'm Ben from SN(https://raw.githubusercontent.com/GalsenDev221/made.in.senegal/d3eb61ee097698a1b83207c00a27cd6d3418dad4/assets/badge.svg) this is my GITHUB (https://github.com/benbasse)
