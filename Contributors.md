@@ -3091,6 +3091,7 @@ Richard Faulk
 - Alexander Gullen wuz here
 - [Aditya] (https://github.com/Aditya41150) open source here i come
 - [Sky] (https://github.com/cyng268/) I love github
+- [Boyan Wang](https://github.com/Boyan-Wang-cn) I am a Student.I love Github
 - [Guille] (https://github.com/glopezpisani) Heya! Contributing here
 - [Ajay Yadav](https://github.com/ATechAjay), contribute to this repo;)
 - Shane (https://github.com/ShaneTAdams)
