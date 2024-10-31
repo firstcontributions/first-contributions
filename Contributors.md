@@ -139,6 +139,7 @@ Jesus-Bernal
 - Hi, This is Prachurja Saha (https://github.com/Prachurja-Saha) 
 - Hi I am Akshat Tripathi
 - Hi, I'm [Ruan Carlos](https://github.com/Ruan-CRC)
+- Hi,I'm Cesar Constanzo Delizoicov (https://github.com/Neo34)
 - Hi i am fazil !!(https://github.com/MuhammedFazilPc)
 - Hello, I'm Chinwe Ibeziako. This is my first open-source contribution.
 - Hi I am John Leshan!!! (https://github.com/johnleshan)
