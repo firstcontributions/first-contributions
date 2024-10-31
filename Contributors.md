@@ -9373,3 +9373,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Fala Galera, eu sou o Brasileiro que você procura, não sufoque o artista
 - Olá. Sou Rafael e moro no Brasil
 - Hello, this is Brandon
+- Hello, I'm sean from south korea! (https://github.com/llshl)
