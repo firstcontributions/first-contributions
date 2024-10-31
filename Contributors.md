@@ -48,6 +48,7 @@ did it different
 - Hello, I am Harold Mendoza (https://github.com/Hroldddp)
 - Hello, I am John Doe
 - hi, gadz was here 
+- Hi everyone, I am Alan Ponnachan
 - hello everyone I am Sai Ganesh
 - Hey everybody I am Chaminade Dondah Adjolou (https://github.com/ChaminadeGithub)
 - Hello, Ronan Dance here! 
