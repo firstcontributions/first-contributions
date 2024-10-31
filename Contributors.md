@@ -2506,6 +2506,7 @@ yumi-kim-0827
 - [Maggie Rong] (https://github.com/maggier2124) First Contribution!!
 - dm - cli
 - c-southwest
+- Hello. My first time contributing, this is. Kaleb Coggins, I am.
 - [Gauravesh sharma] (https://github.com/gauravesh) they say there is a first time for everything
 - Erich El developer del Peru
 - Liam Pestrella :)
