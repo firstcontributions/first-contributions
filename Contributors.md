@@ -729,6 +729,7 @@ Hej! I'm Gustav from Stockholm, Sweden.
 - [Dharma Krishnan](https://github.com/Dharma-krishnan)**My First One, gets to go**
 - [Shaheer Mansoor](https://github.com/Shaheer5) **On the way to create robust apps**
 - [naga Dheeraj] (https://github.com/nagadheerajb) **Hello, Lets discuss to open contribution**
+- Hello,I am Akshay Krishna
 - [Shoutao Sun](https://github.com/ShoutaoSun) **Happy Mid-Autumn Festival!**
 - [Jemmyjs](https://github.com/JemmyJs) **My first contribution!**
 - [Maritha Miracle](https://github.com/MarithaMiracle) **Excited for my first contribution to open source!**
