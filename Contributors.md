@@ -3492,6 +3492,7 @@ Tamar
 - [Abhiraj Aditya](https://github.com/abhiraj860)
 - [Jason Allen](https://github.com/jtoallen)
 - Rafael Rocha
+- [Sai Dinesh Kopparthi](https://github.com/SaiDineshKopparthi)
 - Ruben Gomez Bahamonde
 - Elaine
 - [Farhan] (https://github.com/Farhan543)
