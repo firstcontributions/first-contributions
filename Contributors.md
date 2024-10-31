@@ -10,6 +10,7 @@ did it different
 - Hi, it's Michele here
 - Hi, it's Vishesh here
 - Hi, I am Aoao!(https://github.com/aoao1024)
+- [Aerobit](https://github.com/Aerobit) **B+**
 - Hello I am Adam
 - Hello I am Naman!!(https://github.com/namansinghrana)
 - Hello! I am Camilli Fidelis <
