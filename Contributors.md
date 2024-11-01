@@ -820,6 +820,7 @@ Jojo
 - Mode Edna
 - Hello Daniel Borsos
 - ['Layomi Lawore](https://github.com/Layomi1) **My journey into the world of open source**
+- [Luiz Fernando] (https://github.com/Luiz2673) **Vim pela OneBitCode**
 - [Jenny](https://github.com/JenniferLA) **Ayeeee first contribution:) Thank you for the help!**
 - [bhakti](https://github.com/BhaktiMore18) **Great way to learn how to contribute for the first time!!**
 - [Kamyar Bashar](https://github.com/JustMrNone)**₮ØØ ₩ɆłⱤĐ ₮Ø ⱠłVɆ, ₮ØØ Ɽ₳ⱤɆ ₮Ø ĐłɆ!**
