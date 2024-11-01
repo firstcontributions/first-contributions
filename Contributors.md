@@ -7,6 +7,7 @@
 - CYBERNETIC ANGEL was here (https://github.com/cyberneticangel)
 - Hi! [Reilly] (https://github.com/reimidd7)
 - Kotsonis Ioannis from Greece!
+- Hello there!, I am [Rajat Yadav](https://github.com/RajatYadav01) and this was my first contribution to open source.
 - Twisha Patel -- Twix is here. I hope I give back. TADA! -- [Find me here](https://github.com/twix402)            
 - Mukul was here
 - Karol here ;) https://github.com/Kar977
