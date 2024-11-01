@@ -18,6 +18,7 @@ did it different
 - Hi, Harish Jigajinni here!
 - Hi, it's Michele here
 - Hi, Tomislav here!
+- Hi, Adrian Lardies here!
 - Hello! This is Nicol👋✨
 - Serbus!
 - Hi y'all, it's Gabe!
