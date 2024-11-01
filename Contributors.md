@@ -3914,6 +3914,7 @@ Pereira
 - Sujith Siddi
 - [Sharmila pusarla](https://github.com/spusarla23)
 -Priyanshu
+- [JahangirJadi](https://github.com/JahangirJadi)
 - B1ade-Z
 - [Dharani](https://github.com/dhar127)
 - [Ayodeji Adesegun](https://github.com/ayodejiades)
