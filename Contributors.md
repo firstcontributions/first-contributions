@@ -15,6 +15,7 @@ did it different
 - HI, I AM VED PAWAR(Github-https://github.com/vedpawar2254; linkedin-https://www.linkedin.com/in/ved-pawar-00169a268/)
 - Hi, it's Michele here
 - Hi, Tomislav here!
+- Hello! This is Nicol👋✨
 - Hi y'all, it's Gabe!
 - Hi, it's Vishesh here
 - Hi, I am Aoao!(https://github.com/aoao1024)
@@ -9394,3 +9395,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - ¡Hola! Bon Jour! Hello! Je suis Cristian Sánchez de Colombie! [Encuentrame acá, Retrouve-moi ici, Find me here](https://github.com/crisywini) 
 - Hello Chirag Chawla here from IIT BHU (https://github.com/surenoobster)
 - Heyy Its Aashin here! (https://github.com/Aashin20)
+- nuponiichan (https://github.com/nuponiichan)
