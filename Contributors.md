@@ -15,6 +15,7 @@
 - MERA PHELA CONTRIBUTION 
 did it different
 - HI, I AM VED PAWAR(Github-https://github.com/vedpawar2254; linkedin-https://www.linkedin.com/in/ved-pawar-00169a268/)
+- Hi, Harish Jigajinni here!
 - Hi, it's Michele here
 - Hi, Tomislav here!
 - Hello! This is Nicol👋✨
@@ -9393,9 +9394,12 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Fala Galera, eu sou o Brasileiro que você procura, não sufoque o artista
 - Olá. Sou Rafael e moro no Brasil
 - Hello, this is Brandon
+- Hey, Anupam Pandey here from India!! (https://github.com/Anupam5713)
 - Hello, I'm sean from south korea! (https://github.com/llshl)
 - ¡Hola! Bon Jour! Hello! Je suis Cristian Sánchez de Colombie! [Encuentrame acá, Retrouve-moi ici, Find me here](https://github.com/crisywini) 
 - Hello Chirag Chawla here from IIT BHU (https://github.com/surenoobster)
 - Heyy Its Aashin here! (https://github.com/Aashin20)
 - nuponiichan (https://github.com/nuponiichan)
+- Hello, I'm Manish Choudhary [Manish Choudhary] (https://github.com/manish-01882)
+
 - Heyy Bassey Data desu. Hajimemashite! [data-baze](https://github.com/data-baze)
