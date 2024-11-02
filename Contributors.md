@@ -1892,6 +1892,7 @@ Yulia Lantzberg
 -Shereyar Ali (Shits Tough But Fun)
 -Prateek ** Hello coders! **
 -Satyadarshi
+- [Yakandoit](https://github.com/yakandoit) hi
 -Sartaj(https://github.com/TAJ-32) **excited tocd first-contributions contribute!!**
 -[add-mydomain]
 -[Ignacio Gonzalez](https://github.com/IgnaGonza)_**Hello Everyone!🎉**_
