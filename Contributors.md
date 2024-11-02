@@ -158,6 +158,7 @@ Jesus-Bernal
 - Hi I am Alex Maxwell.
 - Hi I am Umer.
 - Hi I am Gavin.
+- Hi I am Fedi
 - Random contributions
 - Hi I am babySeal
 - HI I am Andrew!
