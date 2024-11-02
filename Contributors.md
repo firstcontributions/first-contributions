@@ -39,6 +39,7 @@ did it different
 - Hello, I am Adharsh Rajavel (https://github.com/adharshr15)
 - Ray Wienand
 - Hey team! I'm Jessica Yeverino! (Jess) 
+- Hello i am Davi Silva
 - hello i am R. Kyle Beaubouef
 - Wazzup! Leo Dahl contributed here!
 - **Gaurav Kumar Thakur| 💻 Frontend Engineer| Was Here.**  [ LinkedIn](https://www.linkedin.com/in/gaurav22719/) | [👨‍💻 Github](https://github.com/ELORF-Lahcen)
