@@ -8,7 +8,8 @@
 - Hi! [Reilly] (https://github.com/reimidd7)
 - Kotsonis Ioannis from Greece!
 - Hello there!, I am [Rajat Yadav](https://github.com/RajatYadav01) and this was my first contribution to open source.
-- Twisha Patel -- Twix is here. I hope I give back. TADA! -- [Find me here](https://github.com/twix402)            
+- Twisha Patel -- Twix is here. I hope I give back. TADA! -- [Find me here](https://github.com/twix402)          
+- Hi I'm Fosforito47, un gusto en conocerlos  
 - Mukul was here
 - Karol here ;) https://github.com/Kar977
 - Hello, Arpit Sharma was here.
@@ -9410,3 +9411,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - nuponiichan (https://github.com/nuponiichan)
 - Hello, I'm Manish Choudhary [Manish Choudhary] (https://github.com/manish-01882)
 - Hi I'm Bartosz from Poland :)
+
