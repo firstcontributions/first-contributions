@@ -8978,6 +8978,7 @@ vivek saskar
 - [mjbear](https://github.com/mjbear)
 -```**Muru**{https://github.com/Gitmuru}```
 - [Fredys Muriel](https://github.com/FredysMuriel4)
+- [Vladimir Pechnikov] (https://github.com/P3chk1ns0n) **Godspeed!**
 - [Dennis Polukaroff](https://github.com/denderange)
 - My first comment to open sourc - Pradeep
 - [Shuji Ochi](https://github.com/OchiShuji)
