@@ -7,6 +7,7 @@
 - Yoyo, this is the beginning of Shaurya's reign
 - hello, this is arpit from india and i am gonna be great at open source. :)
 - Hi, Rian Ernesto has been here
+- Hello, I am Shifra Fraiman 🌼
 - CYBERNETIC ANGEL was here (https://github.com/cyberneticangel)
 - Hi! [Reilly] (https://github.com/reimidd7)
 - Kotsonis Ioannis from Greece!
