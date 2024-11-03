@@ -25,6 +25,7 @@ did it different
 - Hi, it's Michele here
 - Hi, Tomislav here!
 - Hi, Adrian Lardies here!
+- Hi, I'm Devindi (https://github.com/DevindiPeiris) 
 - Hello! This is Nicol👋✨
 - Serbus!
 - Hi, Sachin here!
