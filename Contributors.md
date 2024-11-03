@@ -1978,6 +1978,7 @@ Yulia Lantzberg
   sarak
 - Darshan
 - Shambhabya Medhi
+- [Yeonwoo](https://github.com/Yeonwoo-png) **first contribution to an open source**
 - Patricio Améstica
 - Rohit Rawat
 - franroyoo
