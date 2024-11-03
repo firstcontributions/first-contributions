@@ -28,6 +28,7 @@ did it different
 - Hi, Tomislav here!
 - Heyoo!!, Anoop Johny here!!
 - Hi, Adrian Lardies here!
+- Hi, I'm Jonah
 - Hi, I'm Devindi (https://github.com/DevindiPeiris) 
 - Hello! This is Nicol👋✨
 - Serbus!
