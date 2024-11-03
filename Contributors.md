@@ -24,6 +24,7 @@ did it different
 - Hiya, LauraPG here https://github.com/laurapg1214
 - Hi, it's Michele here
 - Hi, Tomislav here!
+- Heyoo!!, Anoop Johny here!!
 - Hi, Adrian Lardies here!
 - Hi, I'm Devindi (https://github.com/DevindiPeiris) 
 - Hello! This is Nicol👋✨
