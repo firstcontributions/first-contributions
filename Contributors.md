@@ -745,6 +745,7 @@ Hej! I'm Gustav from Stockholm, Sweden.
 - [Rick] ** Good good study **
 - [Luan] Hello guys, I'm happy to contribute **29/09/2024**
 - [Rohith Kumar K] **My First Contribution**
+- [Ali Z](https://github.com/alizeynalli) _was here_
 - [Shreyas Chaudhary] Happy to start contributing
 - [pratik]
 - [Sarthak Tyagi](https://github.com/itSarthak) **I am really glad you guys made something like this. Helps a lot!**
