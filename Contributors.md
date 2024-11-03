@@ -32,6 +32,7 @@ did it different
 - Hello! This is Nicol👋✨
 - Serbus!
 - Hi, Sachin here!
+- rejisterjack this side!
 - Hi y'all, it's Gabe!
 - Hi, it's Vishesh here
 - Hi, I am Aoao!(https://github.com/aoao1024)
