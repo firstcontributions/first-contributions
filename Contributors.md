@@ -36,6 +36,7 @@ did it different
 - **Asier Nuñez | 💻 Software Developer | [🔗 LinkedIn](https://www.linkedin.com/in/asier-nuñez-garcia/) | [🙀 Github](https://github.com/AsierCode)**
 - Moro! I am Tommi
 - Hi, Natalie Blumen here!
+- Hello, contributing for the first time: Piotr Wierzbicki [wierzpio](https://github.com/wierzpio)
 - Hey, I'm Josh. What's up. [GitHub](https://github.com/joshm-cn)
 - Oya! This is [Pritha](https://github.com/prithak01). Me'vaar ti gar?
 - **Lahcen ELORF| 💻 Full Stack Software Engineer | Was Here.**  [🌐 LinkedIn](https://www.linkedin.com/in/lahcenelorf/) | [👨‍💻 Github](https://github.com/DJ-LIFE)
