@@ -528,6 +528,7 @@ Hello, my name is **Autumn**! I'm a linguist from Minnesota. I'm currently study
 - Hi I'm Adam
 - Heyy I'm Sathwik :)
 - Kirmada
+- Hey there, I'm Cyriac
 - Helooo I'm Artin!!!
 - Hi, I'm [Mezbaul Anam](https://github.com/mezbaulanam) from Bangladesh
 - Hi, it's [Ahmed](https://github.com/ahmedullah12) from Bangladesh. This is my first ever contribution.
