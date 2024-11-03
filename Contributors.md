@@ -9425,3 +9425,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi Vipul from INDIA (https://github.com/VipulGirme)
 - Hi I'm [yusufekorman](https://github.com/yusufekorman) from Turkey
 - Hi I'm Vasanth from India (https://github.com/vasanth375)
+- **Hi I'm An | 💻 Data Scientist, AI Engineer | [📲 LinkedIn](https://www.linkedin.com/in/lunovian/) | [📦 Github](https://github.com/lunovian)**
