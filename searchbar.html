@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>项目搜索</title>
+    <style>
+        body { font-family: Arial, sans-serif; }
+        .filter { margin: 10px 0; }
+    </style>
+</head>
+<body>
+    <h1>搜索开源项目</h1>
+    <input type="text" id="searchBar" placeholder="搜索项目或工具" />
+    
+    <div class="filter">
+        <label for="language">语言:</label>
+        <select id="language">
+            <option value="">全部</option>
+            <option value="Python">Python</option>
+            <option value="JavaScript">JavaScript</option>
+            <!-- 添加更多语言选项 -->
+        </select>
+    </div>
+    
+    <div class="filter">
+        <label for="skillLevel">技能水平:</label>
+        <select id="skillLevel">
+            <option value="">全部</option>
+            <option value="Beginner">初学者</option>
+            <option value="Intermediate">中级</option>
+            <option value="Advanced">高级</option>
+        </select>
+    </div>
+    
+    <div class="filter">
+        <label for="projectType">项目类型:</label>
+        <select id="projectType">
+            <option value="">全部</option>
+            <option value="Backend">后端</option>
+            <option value="Documentation">文档</option>
+            <option value="Testing">测试</option>
+            <!-- 添加更多项目类型选项 -->
+        </select>
+    </div>
+    
+    <button id="searchButton">搜索</button>
+    
+    <h2>搜索结果</h2>
+    <ul id="results"></ul>
+
+    <script>
+        const projects = [
+            { name: '项目1', language: 'Python', skillLevel: 'Beginner', projectType: 'Backend' },
+            { name: '项目2', language: 'JavaScript', skillLevel: 'Intermediate', projectType: 'Documentation' },
+            { name: '项目3', language: 'Python', skillLevel: 'Advanced', projectType: 'Testing' },
+            // 添加更多项目
+        ];
+
+        document.getElementById('searchButton').addEventListener('click', function() {
+            const searchQuery = document.getElementById('searchBar').value.toLowerCase().trim();
+            const selectedLanguage = document.getElementById('language').value;
+            const selectedSkillLevel = document.getElementById('skillLevel').value;
+            const selectedProjectType = document.getElementById('projectType').value;
+
+            const filteredProjects = projects.filter(project => {
+                return (
+                    (project.name.toLowerCase().includes(searchQuery) || searchQuery === '') &&
+                    (project.language === selectedLanguage || selectedLanguage === '') &&
+                    (project.skillLevel === selectedSkillLevel || selectedSkillLevel === '') &&
+                    (project.projectType === selectedProjectType || selectedProjectType === '')
+                );
+            });
+
+            const resultsContainer = document.getElementById('results');
+            resultsContainer.innerHTML = ''; // 清空旧的结果
+
+            if (filteredProjects.length === 0) {
+                resultsContainer.innerHTML = '<li>没有找到匹配的项目。</li>';
+            } else {
+                filteredProjects.forEach(project => {
+                    const li = document.createElement('li');
+                    li.textContent = project.name;
+                    resultsContainer.appendChild(li);
+                });
+            }
+        });
+    </script>
+</body>
+</html>
