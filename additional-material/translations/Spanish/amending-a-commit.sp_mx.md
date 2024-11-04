@@ -1,15 +1,15 @@
 # Arreglando un compromiso (Commit)
 
-¿Qué sucede si confirma un cambio en su repositorio remoto y luego se da cuenta de que tiene un error en el mensaje de confirmación o si olvidó agregar una línea de código en su confirmación más reciente?
+¿Qué sucede si confirmas un cambio en tu repositorio remoto y luego te das cuenta de que tiene un error en el mensaje de confirmación o si olvidaste agregar una línea de código en tu confirmación más reciente?
 ¿Cómo editarías esto? Eso es lo que cubre este tutorial.
 
 ## Cambiar un mensaje de confirmación reciente después de enviarlo a Github
 
 Para hacer esto sin abrir un archivo:
-* Ingrese el comando ```git commit --amend -m "seguido de su nuevo mensaje de confirmación"```
-* Ejecute ```git push origin <branch-name>``` para confirmar los cambios en el repositorio.
+* Ingresa el comando ```git commit --amend -m "seguido de su nuevo mensaje de confirmación"```
+* Ejecuta ```git push origin <branch-name>``` para confirmar los cambios en el repositorio.
 
-Nota: Si simplemente escribe ```git commit --amend```, se abrirá su editor de texto y le pedirá que edite el mensaje de confirmación.
+Nota: Si simplemente escribiste ```git commit --amend```, se abrirá el editor de texto y te pedirá que edites el mensaje de confirmación.
 Agregar el indicador ``-m`` evita esto.
 
 ## Realizar cambios en una sola confirmación
