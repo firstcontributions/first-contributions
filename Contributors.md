@@ -8996,3 +8996,95 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hey, this is (https://github.com/cabmatthew). Nice to see you here!
 - [Victor Amaral de Sousa](https://github.com/AmaVic) **Blockchain Consultant, Lecturer and Researcher**
 - Hello World, I'm Hikaru
+- Hey, lets hope i make some changes
+- Hi Team, I'm [Sri Chatala](https://github.com/srichatala) from Toronto, it's been 10 years sharing code in Github, recently I come across this repo. Thank you
+- Hi Team, I'm [Abhishek] (https://github.com/Abhishek00810) from India, Have a nice day you all!   
+- Hi I am [Yash3339](https://github.com/yash3339) from Hyderabad India.
+- Hi, I am [azero1791](https://github.com/azero1791) from Nanjing, China.Nice to meet you all!
+- Hi, I'm [pixelledbot](https://github.com/pixelledbot) from India.
+- Hi, I'm [irfanahmed](https://github.com/Md-Irfan-Ahmed) from India, very eager to give my first open source contribution
+- Hi, My name is [Efe Yasir Solmaz](https://github.com/avfa09) from Turkey.I'm just starting my journey, are you ready?
+- Hi, I'm [HelloLife](https://github.com/HelloLife09) from the UK.
+- Hi, I'm [Douglas Campos](https://github.com/Douglascrc) from the Brazil, nice to meet you.
+- Hi, I'm [LauraA-03](https://github.com/LauraA-03) from Italy, happy to learn about coding. 
+- Hi, I'm [Ganesh Derkar](https://github.com/18grd) from India, happy coding.... 
+- Hello I'm BitterBar.
+- Hi, I'm Tehreem Sultan from Pakistan.
+- Hello! I'm G [Profile] (https://github.com/bartech-g).
+- Hi, I'm [Tomohiro](https://github.com/871tomohiro) from Japan, this is my first contribution.
+- Hi, I'm [Manuel Luvuvamo](https://github.com/manuelluvuvamo) from Angola...
+- Hi, I'm Pelletia (https://github.com/abpelletia) from Togo
+- Simon Geary
+- Hi, this is Nezir (https://github.com/nazero3) from Syria. Nice to see you all :D
+- Hello, I'm Nissi vardhan [Nissivardhan] (https://github.com/Nissivardhan)
+- Hello everyone, this is [Simon Gomes](https://github.com/simongomes) from Bangladesh, just came here to play with teh contributions :D
+- Hello, I am Ariel 😃 [My Profile](https://github.com/H-Ariel)
+-Hello I am Virat [my frofile] (https://github.com/joeatyourmomshouse)
+-Hello, from USA, Blessings to all 
+- G'day all😸 I'm Tony from Australia, residing now in HCM, Vietnam. Honoured to lose contribution-ginity with y'all 💻 [[Github Link]](https://github.com/tonyjustdevs) [[Linkedin Link]](https://au.linkedin.com/in/tony-phung-b866b657) [[Blog Link]](https://tonyjustdevs.github.io/blog/)
+- Hello, I am Kshitij from India. Let's Go... [Profile](https://github.com/kshi7ijcx)
+- hi, I'm Lucas🥴 nice to see everyone together!
+- Hi, I'm Tibi
+- Hi, I am Konstantin! 😃  [Profile](https://github.com/gpiento)
+- Hi, I am Aditya! and i'm interrested in low level computer science  [Profile](https://github.com/aditya-sharma-0G
+- [Patrycjusz Kowalski](https://github.com/patrycjuszkowalski)
+- hi i'm wintervoid (she/her). I can't wait to start contributing on github! [Profile](https://github.com/wintervoid)
+- Hi. I'm Mareli (she/her). Can't wait to help!
+- Hi! Kilroy was here!
+[Cameron Godwin](https://github.com/GodwinCameron) 👹
+[Anké Du Raan] (https://github.com/AnkeatOpenWindow)
+- Hi, I am Balint.
+- Hi, I'm [Sandor](https://github.com/AlexAegis)
+- Hi, I am D0000M.
+- Hi, I'm [Nup](https://github.com/nupniichan) this is my first contribute, hope that i can help community!
+- Hi, I'm [LJS](https://github.com/ljscodex) and i'm here just to give my contribution 😃.
+- Hello, I'm Jérôme from Grenoble in France
+- Hi guys 👋 I'm [Dhamith Kumara](https://github.com/bdhamithkumara) from Sri Lanka 🇱🇰, this is my first contribution 🎉
+- Hi, I'm [Vibhek Soni](https://github.com/vibheksoni/) this is my first contribution, I am looking to make contributions to open source repos and help the community. My discord is 1codec contact me lets work on some projects together :).
+- Hi, I'm Wasiqur Zaman.
+- Hi, I'm Mário Vinícius.
+- Hi, I'm [Genard Rey](https://github.com/oslo19/) this is my first contribution, First stepping-stone to become a Full Stack Developer.
+- HI i am PDP
+- Hi, my name is J g'day all
+- Hello. Alexander here (https://github.com/ac-webdesign)
+- hello, Badri here (https://github.com/AngulaBadrinath) * feelin Good *
+- [You Feng](https://github.com/yf101112) Willing to contribute to AI projects!
+- Hi, I am Aman Borkar [https://github.com/amanisreal]
+- Hi, I am Hrithik Varshney
+- Hi, I am [Alex](https://github.com/alexlee39), trying to develop my coding skills through open-sourcing and projects
+- Hi, I'm Gakuto, hope you guys enjoy coding!
+- Hi, I am Krish Gupta. This is my first contribution, and from now on, I am eager to contribute more to open-source projects.
+- Hi, I am harshit. It's the start of my open-source journey.
+- BT
+- Hi, This is Kailash Sundaramurthy from Chennai, Tamilnadu, India, making my 1st contribution.
+- Hello, My name is Akash (sky-39).
+- Hello, I'm [uke](https://github.com/ukeSJTU).
+- Hello from cruncha-cruncha
+- Hi, i'm James Gippetti
+- Hi, I'm Sunil (brijsunil2)
+- [Steavo Babu](https://github.com/Steavo171)
+- Hi, I'm [Ashish Chawla]. Find me here (https://github.com/ashishchawlaofficial).
+- Hi my name is Alex
+- Hi my name is HqmmSam
+- Hello Guys! This is my first opensource contribution (I am Huma)
+- Fala Galera, eu sou o Brasileiro que você procura, não sufoque o artista
+- Olá. Sou Rafael e moro no Brasil
+- Hello, this is Brandon
+- Hey, Anupam Pandey here from India!! (https://github.com/Anupam5713)
+- Hi I am syme
+- Hello, I'm sean from south korea! (https://github.com/llshl)
+- ¡Hola! Bon Jour! Hello! Je suis Cristian Sánchez de Colombie! [Encuentrame acá, Retrouve-moi ici, Find me here](https://github.com/crisywini) 
+- Hello Chirag Chawla here from IIT BHU (https://github.com/surenoobster)
+- Heyy Its Aashin here! (https://github.com/Aashin20)
+- nuponiichan (https://github.com/nuponiichan)
+- Hello, I'm Manish Choudhary [Manish Choudhary] (https://github.com/manish-01882)
+- Hi I'm Bartosz from Poland :)
+- Hi Vipul from INDIA (https://github.com/VipulGirme)
+- Hi I'm [yusufekorman](https://github.com/yusufekorman) from Turkey
+- Hi I'm Vasanth from India (https://github.com/vasanth375)
+- **Hi I'm An | 💻 Data Scientist, AI Engineer | [📲 LinkedIn](https://www.linkedin.com/in/lunovian/) | [📦 Github](https://github.com/lunovian)**
+- Hi, I'm Romeo Ahmed | **[Github](https://github.com/romeoahmed)**
+- Hello World!
+- Hey, Manoj here from Nepal!!
+- Hello, SB here!
+- James Paing Oo - Softwre Engineer (https://github.com/JamesPaing)
