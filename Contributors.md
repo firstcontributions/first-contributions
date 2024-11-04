@@ -194,6 +194,7 @@ Jesus-Bernal
 Hello there , I am avisek . this is my another contribution in open source.
 - farid here(faridG7)
 - Hi, I'm HqmmSam
+- Hi, I'm [ngsw877](https://github.com/ngsw877)
 - Hi, I'm Brian Casio (https://github.com/briancasio)
 - Hi, I'm Kate Gandara (https://github.com/KateGandara)
 - [Abhinav_Chaudhary] (https://github.com/abhi0842) This is my first time contributing to open source.
