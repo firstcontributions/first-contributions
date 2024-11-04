@@ -1,5 +1,5 @@
 # Contributors
-- wassup world, its Rakshan 
+- Hello world, its Rakshan
 - Have a great day, contributors! kruza25
 - Heyyy shasha was here ;)
 - Heyo! wolfj contribution
