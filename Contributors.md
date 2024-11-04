@@ -20,6 +20,7 @@
 - Hi, Rian Ernesto has been here
 - Hello, I am Shifra Fraiman 🌼
 - CYBERNETIC ANGEL was here (https://github.com/cyberneticangel)
+- Its me, JoseC
 - Hi! [Reilly] (https://github.com/reimidd7)
 - Kotsonis Ioannis from Greece!
 - Hello there!, I am [Rajat Yadav](https://github.com/RajatYadav01) and this was my first contribution to open source.
