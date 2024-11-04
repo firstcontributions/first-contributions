@@ -8995,7 +8995,6 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, I'm Blaise
 - Hey, this is (https://github.com/cabmatthew). Nice to see you here!
 - [Victor Amaral de Sousa](https://github.com/AmaVic) **Blockchain Consultant, Lecturer and Researcher**
-- Hello World, I'm Hikaru
 - Hey, lets hope i make some changes
 - Hi Team, I'm [Sri Chatala](https://github.com/srichatala) from Toronto, it's been 10 years sharing code in Github, recently I come across this repo. Thank you
 - Hi Team, I'm [Abhishek] (https://github.com/Abhishek00810) from India, Have a nice day you all!   
@@ -9088,3 +9087,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hey, Manoj here from Nepal!!
 - Hello, SB here!
 - James Paing Oo - Softwre Engineer (https://github.com/JamesPaing)
+- Hello World, I'm Hikaru
