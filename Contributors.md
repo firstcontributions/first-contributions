@@ -1,4 +1,5 @@
 # Contributors
+- Have a great day, contributors! kruza25
 - Heyyy shasha was here ;)
 - Heyo! wolfj contribution
 - Greeting's everyone. PPRMAOD KUMAR here(https://github.com/Kumar88-pr)
