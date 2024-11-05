@@ -9,7 +9,6 @@ Hello, I'm [Hendrix Ejegi](https://github.com/hendrixejegi)
 - Have a great day, contributors! kruza25
 - Hey contribting from Dublin 
 - Heyyy shasha was here ;)
-- Hey, it's me Rionit! (https://linktr.ee/Rionit)
 - Heyo! wolfj contribution
 - Greeting's everyone. PPRMAOD KUMAR here(https://github.com/Kumar88-pr)
 - Hello, Daniel was here!)
@@ -47,6 +46,7 @@ did it different
 - Heyoo!!, Anoop Johny here!!
 - Hi, Adrian Lardies here!
 - Hi, I'm Jonah
+- Hey, it's me Rionit! (https://linktr.ee/Rionit)
 - Hi, I'm Devindi (https://github.com/DevindiPeiris) 
 - Hello! This is Nicol👋✨
 - Serbus!
