@@ -45,6 +45,7 @@ did it different
 - Hi, I'm Devindi (https://github.com/DevindiPeiris) 
 - Hello! This is Nicol👋✨
 - Serbus!
+- Hi, I'm Blake, nice to make your aquitance!
 - Hi, Sachin here!
 - rejisterjack this side!
 - Hi y'all, it's Gabe!
