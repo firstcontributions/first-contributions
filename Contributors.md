@@ -9,6 +9,7 @@ Hello, I'm [Hendrix Ejegi](https://github.com/hendrixejegi)
 - Have a great day, contributors! kruza25
 - Hey contribting from Dublin 
 - Heyyy shasha was here ;)
+- Hi! I´m Maximiliano Rodriguez from Argentina --> (https://github.com/RodriguezMaximilianoX)
 - Heyo! wolfj contribution
 - Greeting's everyone. PPRMAOD KUMAR here(https://github.com/Kumar88-pr)
 - Hello, Daniel was here!)
