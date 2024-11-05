@@ -1,5 +1,6 @@
 # Contributors
 - Hello , I'm Mahmood (https://github.com/MahmoodMI1)
+Hello, I'm [Hendrix Ejegi](https://github.com/hendrixejegi)
 - Hello world, its Rakshan
 - Hello World, I'am Mapathé Ndiaye from Senegal
 - Hi! I'm Franco Aurellano (https://github.com/frankkss)
