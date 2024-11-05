@@ -9483,6 +9483,7 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hello, SB here!
 - James Paing Oo - Softwre Engineer (https://github.com/JamesPaing)
 - Helllo guys, never stop learning!!!
+- Hi, I'm [Simar Singh Chugh](https://github.com/SimarSingh18) from India.
 - Hi, I'm Aydin
 - Hi, I'm [Mark Young](https://github.com/markyoung049) from the USA. I'm hoping to become a freelancer or something, so hopefully you'll see me around, and vice versa.
 - Hi, I'm Lucy
