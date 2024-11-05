@@ -47,6 +47,7 @@ did it different
 - Heyoo!!, Anoop Johny here!!
 - Hi, Adrian Lardies here!
 - Hi, I'm Jonah
+- Hey, it's me Rionit! (https://linktr.ee/Rionit)
 - Hi, I'm Devindi (https://github.com/DevindiPeiris) 
 - Hello! This is Nicol👋✨
 - Serbus!
