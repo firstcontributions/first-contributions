@@ -15,6 +15,7 @@ Hello, I'm [Hendrix Ejegi](https://github.com/hendrixejegi)
 - Hi, This is Amatul Saboor
 - Hello!👋 I'm **Alexis**, and this is my first contribution to open source 🎂My [Github](https://github.com/ajobart)
 - Hello! I'm V KALYAN RAM and this my first contribution to open source.Thank you.....
+- Hey Faiz here 👋 (https://github.com/mfaiz6)
 - Yoyo, this is the beginning of Shaurya's reign
 - hello, this is arpit from india and i am gonna be great at open source. :)
 - Hello, Swati was here. :)
