@@ -1,6 +1,5 @@
 # Contributors
 - Kotsonis Ioannis from Greece!
-弄半天才弄明白怎么回事
 - Twisha Patel -- Twix is here. I hope I give back. TADA! -- [Find me here](https://github.com/twix402)            
 - Mukul was here
 - Karol here ;) https://github.com/Kar977
@@ -9367,4 +9366,5 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi my name is Alex
 - Hi my name is HqmmSam
 - Hello Guys! This is my first opensource contribution (I am Huma)
+- Hello everyone i'm BBJEAN and this is my first opensource conttibution(i am from japan)
 - Fala Galera, eu sou o Brasileiro que você procura, não sufoque o artista
