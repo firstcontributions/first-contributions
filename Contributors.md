@@ -1806,7 +1806,7 @@ Rudraksh Upadhyay- learing to contribute in open source projects
 
 - HELLO!! I'm Azim and i'm contributing for the first time! UCSD!
 
-- [Joseph W. Allen](https://github.com/jwallen3801) **Hey everybody**
+- [Joseph W. Allen](htps://github.com/jwallen3801) **Hey everybody**
 - [shechet](https://github.com/shefchet)
 - [Peter Nguyen](https://github.com/petern48) hi
 - [gdziewon] **she puppy on my linux till i ram**
