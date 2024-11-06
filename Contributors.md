@@ -9480,6 +9480,7 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, I am Krish Gupta. This is my first contribution, and from now on, I am eager to contribute more to open-source projects.
 - Hi, I am harshit. It's the start of my open-source journey.
 - BT
+- Hey folks! I'm Aditya, from India! I am learning MERN stack and trying to contribute in opensource projects too! This is my first contribution. I am trying to upload my journey on youtube as well, channel is: https://www.youtube.com/@codingcouch/
 - Hi, This is Kailash Sundaramurthy from Chennai, Tamilnadu, India, making my 1st contribution.
 - Hello, My name is Akash (sky-39).
 - Hello, I'm [uke](https://github.com/ukeSJTU).
