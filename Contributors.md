@@ -9000,6 +9000,7 @@ Hey There
 - [Matthew Speake] (https://github.com/mspeake161)
 - [Lucas Bautista] (https://github.com/Lucas-Bautista) **Let's do this!!!**
 - [Kukuliak Dmytro] (https://github.com/Kukuliak-Dmytro) **First step into the open source**
+- [Derek Davis](https://github.com/cs50u/) **Yeah! Doing Stuff!**
 - [Govanna]
 - [Bharat Das](https://github.com/BharatDas04) **Good Luck To Everyone**
 - [Ishan Singh](https://github.com/IMT2022124) **Requiescat in pace**
