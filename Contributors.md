@@ -185,6 +185,9 @@ Jesus-Bernal
 - Hi, I'm Faizan Hussain. <a href="https://github.com/faiizanhussain/">Let's connect</a>
 - This is the beta testing.
 - Hello I'm Suzzie{wanjicode}
+- Hey Folks! I'm [Md. Afzal Hassan Ehsani](www.github.com/iemafzalhassan) <a
+  href="https://www.iemafzalhassan.tech">Let's Connect. Learn and Grow
+  together.</a>
 - Hi IM HUY!!!
 - HI, My name is Ron.
 - Hi , I'm SREYAS.
