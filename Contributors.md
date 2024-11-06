@@ -7997,6 +7997,7 @@ Hey there its Adarsh Rout aka ideal.x_
 - [Suba](https://github.com/Subbalakshmi09)
 - [Handy4ndy](https://github.com/Handy4ndy)
 - [Daniel](https://github.com/danbcd)
+- [Zoe](https://github.com/zizz-0)
 - [Reinhard](https://github.com/Rezzyethub)
 - [Asim](https://github.com/asimkgec)
 - [Airi](https://github.com/iwttairi)
