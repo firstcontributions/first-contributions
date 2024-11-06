@@ -20,6 +20,7 @@ Hello, I'm [Hendrix Ejegi](https://github.com/hendrixejegi)
 - Hello! I'm V KALYAN RAM and this my first contribution to open source.Thank you.....
 - Hey Faiz here 👋 (https://github.com/mfaiz6)
 - Yoyo, this is the beginning of Shaurya's reign
+- Hi, I am [Mehdi Tareghi](github.com/mehditareghi)
 - hello, this is arpit from india and i am gonna be great at open source. :)
 - Hello, Swati was here. :)
 - Hello there from Sanjana Podduturi!
