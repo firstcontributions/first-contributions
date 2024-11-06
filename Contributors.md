@@ -12,6 +12,7 @@ Hello, I'm [Hendrix Ejegi](https://github.com/hendrixejegi)
 - Hey contribting from Dublin 
 - Heyyy shasha was here ;)
 - Hi! I´m Maximiliano Rodriguez from Argentina --> (https://github.com/RodriguezMaximilianoX)
+- Hello!👋 I'm [Jitendra Oza](https://github.com/jeet1293) from India.
 - Heyo! wolfj contribution
 - Greeting's everyone. PPRMAOD KUMAR here(https://github.com/Kumar88-pr)
 - Hello, Daniel was here!)
