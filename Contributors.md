@@ -4432,6 +4432,7 @@ Kencham Vinay
 -[Dogukan Aysan](https://github.com/dogukan-aysan)
 - [Open Source Day](https://github.com/mwanyumba7)
 -[Juan Cruz Francitorra](https://github.com/Jufaa)
+- [Pedro Pouza](https://github.com/pedropouza)  **Primeira contribuição BR!! Hello World!!**
 -[Akshat Shukla](https://github.com/Akshat-0001)
 -[Venkatesh S Meti](https://github.com/venkateshmeti1432)
 -[Jude Idoko] (https://github.com/judidoko)
