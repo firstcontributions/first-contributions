@@ -22,6 +22,7 @@ Hello, I'm [Hendrix Ejegi](https://github.com/hendrixejegi)
 - hello, this is arpit from india and i am gonna be great at open source. :)
 - Hello, Swati was here. :)
 - Hello there from Sanjana Podduturi!
+- Hi, I am Shaukat Ali, and here is my [GitHub account](https://github.com/shau8122).
 - Hey , Rahim Baig started his Open_source Journey from here
 - Hii, This is Surya.
 - Hi, Rian Ernesto has been here
