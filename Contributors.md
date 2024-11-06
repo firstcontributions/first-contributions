@@ -9520,5 +9520,6 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, menber1!
 - [marlonwq](https://github.com/marlonwq)
 - [Filipe](https://github.com/lsantosfelipe1)
+- Hi, [VioletBenin](mailto:violetbenin@outlook.com) here! :) | Software Engineer | [📲 LinkedIn](https://www.linkedin.com/in/beining-xu-714475284/) | [📦 Github](https://github.com/violetbenin)
 - Hey, [Shane](https://github.com/sc4adi) here 👋
 - 
