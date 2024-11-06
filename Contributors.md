@@ -59,6 +59,7 @@ did it different
 - Hi, Adarsh here! My first one. Hits Different
 - Heyoo!!, Anoop Johny here!!
 - Hi, Adrian Lardies here!
+- Hey! I'm Andre Maia - (https://github.com/andre-maia51)
 - Hi, I'm Jonah
 - Hey, it's me Rionit! (https://linktr.ee/Rionit)
 - Hi, I'm Devindi (https://github.com/DevindiPeiris)
