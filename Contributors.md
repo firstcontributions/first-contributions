@@ -1,5 +1,4 @@
 # Contributors
-- Hey, [Shane](https://github.com/sc4adi) here 👋
 - Hi, I am Dinesh, after many times of trying finally my first contribution (check projects:- https://github.com/DineshPawar7)
 -Hello it's me Rockeky and warmly welcome to all of you.
 - Hi, I am Enkhbold Ganbold (Inky) https://github.com/enkhbold470
@@ -9521,3 +9520,5 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, menber1!
 - [marlonwq](https://github.com/marlonwq)
 - [Filipe](https://github.com/lsantosfelipe1)
+- Hey, [Shane](https://github.com/sc4adi) here 👋
+- 
