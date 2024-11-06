@@ -7,6 +7,7 @@
 Hi, I'm ZMK.
 Hello, I'm [Hendrix Ejegi](https://github.com/hendrixejegi)
 - Hello world, its Rakshan
+- Hello, I'am Arshad
 - Hello World, I'am Mapathé Ndiaye from Senegal
 - Hi! I'm Franco Aurellano (https://github.com/frankkss)
 - Have a great day, contributors! kruza25
