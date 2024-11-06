@@ -9524,4 +9524,5 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - [Filipe](https://github.com/lsantosfelipe1)
 - Hi, this is Brandon 
 - Hi, [VioletBenin](mailto:violetbenin@outlook.com) here! :) | Software Engineer | [📲 LinkedIn](https://www.linkedin.com/in/beining-xu-714475284/) | [📦 Github](https://github.com/violetbenin)
+- Hi, this is Rich
 - Hi, I'm Konglon
