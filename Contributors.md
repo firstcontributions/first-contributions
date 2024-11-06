@@ -9500,6 +9500,7 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hello World!
 - Hey, Manoj here from Nepal!!
 - Hello, SB here!
+- Hello  i am shmuel 
 - James Paing Oo - Softwre Engineer (https://github.com/JamesPaing)
 - Helllo guys, never stop learning!!!
 - Hi, I'm [Simar Singh Chugh](https://github.com/SimarSingh18) from India.
@@ -9509,4 +9510,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, I'm Ahmad Yogi Al Fandi from Indonesia.
 - Hi, menber1!
 - [marlonwq](https://github.com/marlonwq)
-- Hello  i am shmuel 
+
