@@ -120,6 +120,7 @@ did it different
 - Hi, I'm Phung (https://github.com/gnuhpdiem)
 - olivgr was here
 - Bola 
+- [Gutrav Leonard](https://github.com/practicante010)
 - Hello, I am Harold Mendoza (https://github.com/Hroldddp)
 - Hello, I am John Doe
 - hi, gadz was here 
