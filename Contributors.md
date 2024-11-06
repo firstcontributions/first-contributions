@@ -8664,6 +8664,7 @@ Rohan kumar - Creating driverless cars at IIT BOMBAY
 Hector
 - [Dan Yunheum Seol](https://github.com/dan-seol)
 - [Carl Guo](https://github.com/carlguo508)
+- [Steven Straka](https://github.com/StevenStraka)
 - [cyblcode](https://github.com/cyblcode)
 - [Yisusle](https://github.com/Yisusle) **Im new to github, started this journey at 02/08/2024!**
 - [tymehopkins](https://github.com/TymeHopkins)
