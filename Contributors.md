@@ -9451,3 +9451,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hey, Manoj here from Nepal!!
 - Hello, SB here!
 - James Paing Oo - Softwre Engineer (https://github.com/JamesPaing)
+- Hi, [VioletBenin](mailto:violetbenin@outlook.com) here! :) | Software Engineer | [📲 LinkedIn](https://www.linkedin.com/in/beining-xu-714475284/) | [📦 Github](https://github.com/violetbenin)
