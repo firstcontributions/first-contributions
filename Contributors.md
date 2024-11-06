@@ -7816,6 +7816,7 @@ Hey there its Adarsh Rout aka ideal.x_
 - [Carl Kolodziejski](https://github.com/ckz919)
 - [Revanth Gavirineni](https://github.com/RevG10)
 - [Mir Rakibul Islam](https://github.com/Rakib-mbstu)
+- Hey, I'm [Nader Fares](https://github.com/NaderFares16) from Brazil. Very happy with my first Pull Request.
 - [Jonee](https://github.com/Jonee2)
 - [Dexter Vinoya](https://github.com/dxtrvny)
 - [Karan Prajapati](https://github.com/Karan2004xd)
