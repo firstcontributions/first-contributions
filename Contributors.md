@@ -38,8 +38,9 @@ Hello, I'm [Hendrix Ejegi](https://github.com/hendrixejegi)
 - Hi, I am Shaukat Ali, and here is my [GitHub account](https://github.com/shau8122).
 - Hey , Rahim Baig started his Open_source Journey from here
 - Hii, This is Surya.
-- Hello, I'm Omar! (https://github.com/Mirohhh).
+- Hello, I'm Omar! (https://github.com/Mirohhh
 - Hi, Rian Ernesto has been here
+- Hey, Nathan was here!
 - Hello, I am Shifra Fraiman 🌼
 - CYBERNETIC ANGEL was here (https://github.com/cyberneticangel)
 - Hello!  What a great group of contributors.  I'm happy to be among the greats! [GitHub](https://github.com/Tina-Sterite)
