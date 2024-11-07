@@ -8616,6 +8616,7 @@ Rohan kumar - Creating driverless cars at IIT BOMBAY
 - [DSQsqblxhq] (https://github.com/DSQsqblxhq)
 - [AmitabhKumar](https://github.com/nithamitabh)
 - [Benedikt Wolf](https://github.com/Benedikt-Wolf)
+- [Stanislav Humeniuk](https://github.com/SonormaY) **My first contribution!**
 - [hkoh2](https://github.com/hkoh2)
 - [cybarry](https://github.com/cybarry)
 - [owolabi](https://github.com/owolabi0001)
