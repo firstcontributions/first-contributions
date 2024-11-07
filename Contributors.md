@@ -28,6 +28,7 @@ Hello, I'm [Hendrix Ejegi](https://github.com/hendrixejegi)
 - Yoyo, this is the beginning of Shaurya's reign
 - Hi, I am [Mehdi Tareghi](github.com/mehditareghi)
 - hello, this is arpit from india and i am gonna be great at open source. :)
+- Hello folks, Sammed here, and I'm starting to contribute in Open Source. here is my github profile [Github](https://github.com/sammedsc45)
 - Hello, Swati was here. :)
 - Hello there from Sanjana Podduturi!
 - Hi, I am Shaukat Ali, and here is my [GitHub account](https://github.com/shau8122).
