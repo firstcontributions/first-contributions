@@ -30,6 +30,7 @@ Hello, I'm [Hendrix Ejegi](https://github.com/hendrixejegi)
 - hello, this is arpit from india and i am gonna be great at open source. :)
 - Hello folks, Sammed here, and I'm starting to contribute in Open Source. here is my github profile [Github](https://github.com/sammedsc45)
 - Hello, Swati was here. :)
+- Hello! How's everyone doing? I am [Hao](https://github.com/hli988).
 - Hello there from Sanjana Podduturi!
 - Hi, I am Shaukat Ali, and here is my [GitHub account](https://github.com/shau8122).
 - Hey , Rahim Baig started his Open_source Journey from here
