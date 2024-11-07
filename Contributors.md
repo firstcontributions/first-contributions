@@ -9006,6 +9006,7 @@ Hey There
 - [Sakura](https://github.com/wxh-cyber) **This is my first contribution to an open source project.I am keeping learning!**
 - [rikeanimer](https://github.com/rikeanimer) ** new clean account for my nomme de guerre rikeanimer
 - [Alejandro SM](https://github.com/AleMonz) **First contribution**
+- [Steve Straka] ** VSCode
 - [Cevheri](https://github.com/cevheri) **Hi guys, from Turkiye**
 - Vishal Gupta - 31-07-2024 
 - [M-Isaac-lab](https://github.com/M-Isaac-lab) **First Contribution**
