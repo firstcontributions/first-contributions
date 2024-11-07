@@ -9347,6 +9347,7 @@ Didac Vilarnau
 - Hi there, greetings!
 - Hello there, this is Alex and I am learning how to contribute to open source
 - Hi, I am Sagar!
+- Yo
 - Hello, I'm Harmeet from India
 - Hi, I'm [Suraj] From India ** Namaste 🙏 from India** 
 - Hi, I am Bracha!
