@@ -18,6 +18,7 @@ Hello, I'm [Hendrix Ejegi](https://github.com/hendrixejegi)
 - Heyo! wolfj contribution
 - Greeting's everyone. PPRMAOD KUMAR here(https://github.com/Kumar88-pr)
 - Hello, Daniel was here!)
+- Hello , I am vinay from India
 - Hello, I'm [Brendon](https://github.com/zerosumhippo)
 - Hello, I'm Ruhith here (https://github.com/ruhith777)
 - Hey, I am Alen Thomas (https://github.com/AIstar007)
