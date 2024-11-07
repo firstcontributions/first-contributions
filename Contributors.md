@@ -1,5 +1,5 @@
 # Contributors
-- Hi, I am Dinesh, after many times of trying finally my first contribution (check projects:- https://github.com/DineshPawar7)
+- Hi, I am zuo, after many times of trying finally my first contribution (check projects:- https://github.com/DineshPawar7)
 -Hello it's me Rockeky and warmly welcome to all of you.
 - Hi, I am Enkhbold Ganbold (Inky) https://github.com/enkhbold470
 - Hello , I'm Mahmood (https://github.com/MahmoodMI1)
