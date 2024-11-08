@@ -4,6 +4,7 @@
 -Hello it's me Rockeky and warmly welcome to all of you.
 - Hey, I am Vishal, excited to get started (Y) 
 - Hi, I am Enkhbold Ganbold (Inky) https://github.com/enkhbold470
+- Hi, I am Aditya, excited to get started!
 - Hi, I'm matt
 - Hello , I'm Mahmood (https://github.com/MahmoodMI1)
 - Hi future developer, I am Khurshed, from Uzbekistan. You, yes future develepor, you are doing great, keep it up, do not give up.
@@ -43,6 +44,7 @@ Hello, I'm [Hendrix Ejegi](https://github.com/hendrixejegi)
 - Hey , Rahim Baig started his Open_source Journey from here
 - Hii, This is Surya.
 - Hello, I'm Omar! (https://github.com/Mirohhh).
+= Hi, Karen here!
 - Hi, Rian Ernesto has been here
 - Hello, I am Shifra Fraiman 🌼
 - CYBERNETIC ANGEL was here (https://github.com/cyberneticangel)
@@ -131,6 +133,7 @@ did it different
 - Hi, I'm Phung (https://github.com/gnuhpdiem)
 - olivgr was here
 - Bola 
+- Hello I am Tanisha
 - [Gutrav Leonard](https://github.com/practicante010)
 - Hello, I am Harold Mendoza (https://github.com/Hroldddp)
 - Hello, I am John Doe
@@ -1503,7 +1506,6 @@ Hello
 - [Brother-Rabbit](https://github.com/brotherrabbit91) **Open Source Contribution**
 - [Saadgi Bawa](https://github.com/saadgibawa) **Open Source Contribution**
 - [Faraz Naqshbandi](https://github.com/faraznaqshbandi04) **Do it one more time!!!**
->>>>>>> origin/main
 - [Utkarsh Kushwaha](https://github.com/theutkarshdev) **First open source contribution.**
 - [Almoiz khan](https://github.com/moiz2405) **Made First Open Source Contribution**
 - [Hamilcer](https://github.com/Hamilcer) **Let's do it**
@@ -4440,6 +4442,7 @@ Kencham Vinay
 -[Maria Sui](https://github.com/msui51)
 -[Sneha Holehonnur Sridhar](https://github.com/SnehaHS65) My First Open Source Code
 -[Buhari Ahmed](https://github.com/makajeez)
+- Fabien First Commit
 - T Mez
 - [Tri Phan] (https://github.com/MuroKouro)
 [Ani Nalbandyan](https://github.com/AniNalbandyan6)
@@ -5383,6 +5386,7 @@ Jasmine
 - [Länzlinger Jonas](https://github.com/jonaslanzlinger)
 - [Rajat Singh] (https://github.com/sinrajat43)
 - [Ramis Humayun](https://github.com/Ramis102)
+- [Polina Polupan](https://github.com/PolinaPolupan)
 - [Vinay Joshi](https://github.com/Anigrl)
 - [JakeJeongAiden](https://github.com/JakeJeongAiden/)
 - [Fangphire](https://github.com/fangphire)
@@ -9553,3 +9557,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, I'm Konglon
 - I'm [Wheval](https:://github.com/wheval) , just had to do this 😂✌
 - Hi I'm ARC!
+- Hi this is gc
