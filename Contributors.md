@@ -43,6 +43,7 @@ Hello, I'm [Hendrix Ejegi](https://github.com/hendrixejegi)
 - Hey , Rahim Baig started his Open_source Journey from here
 - Hii, This is Surya.
 - Hello, I'm Omar! (https://github.com/Mirohhh).
+= Hi, Karen here!
 - Hi, Rian Ernesto has been here
 - Hello, I am Shifra Fraiman 🌼
 - CYBERNETIC ANGEL was here (https://github.com/cyberneticangel)
