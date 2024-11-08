@@ -1,5 +1,5 @@
 # Contributors
-- [StepTheGlow](https://github.com/StepTheGlow)
+- [StepTheGlow](https://github.com/StepTheGlow) slime-u slime-u you can call me slime-u, green hair green eyes, hiding in your WI-FI
 - Hi, I am Dinesh, after many times of trying finally my first contribution (check projects:- https://github.com/DineshPawar7)
 -Hello it's me Rockeky and warmly welcome to all of you.
 - Hey, I am Vishal, excited to get started (Y) 
@@ -1506,7 +1506,6 @@ Hello
 - [Brother-Rabbit](https://github.com/brotherrabbit91) **Open Source Contribution**
 - [Saadgi Bawa](https://github.com/saadgibawa) **Open Source Contribution**
 - [Faraz Naqshbandi](https://github.com/faraznaqshbandi04) **Do it one more time!!!**
->>>>>>> origin/main
 - [Utkarsh Kushwaha](https://github.com/theutkarshdev) **First open source contribution.**
 - [Almoiz khan](https://github.com/moiz2405) **Made First Open Source Contribution**
 - [Hamilcer](https://github.com/Hamilcer) **Let's do it**
