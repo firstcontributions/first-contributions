@@ -124,6 +124,7 @@ Hello, EricJDarnell is making his first open-sauce contribution!
 - Hello, __Michael P.__ is *here*.
 - Hein is here
 - Hello Everyone, I am Bhanu :). 
+- Hi, Beini was here.
 - Hi, Htain Lin is here.
 - Hello, I am David
 - Hi, it is Carlos here! [GitHub](https://github.com/cgaritac) [LinkedIn](https://www.linkedin.com/in/carlos-garita-campos-44881a111/) [YouTube](https://www.youtube.com/@cgcode1701)
