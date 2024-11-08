@@ -320,6 +320,7 @@ Hello! I am mn121mn121. First time trying.. ^_^
 - Hello, [Vict75](https://github.com/vict75) new-attempt from cli
 - Hi I'm [lxnull](https://lxnull.com), I enjoy collaborating on fun projects
 - new endtry below vict75
+- Hi reader, hope you are doing well!! This is [Diwanshu](https://github.com/Diwanshu06) from 11th November, 2024
 - Hello! This is [Adarsh Tripathi] (https://github.com/iaadarsh23) here. This is my     first open source contribution
 [Himanshu Chauhan](https://github.com/HimanshuChauhan7878)
 -Hello , Iam [Annet Namazzi](https://github.com/Amzzet) here, Glad to contribute to opensource 
@@ -337,7 +338,7 @@ I am Adnaan (https://github.com/Valley-15)
 - Hi guys 👋 this is my first contribution 🎉
 - Salama eh 👋! I am [Lovanirina R](https://github.com/Ryuka25). Just here to put Madagascar (🇲🇬) on the list.
 - Hi, I'm Nick and this is my first contribution.
- - https://github.com/Sandigupta
+- https://github.com/Sandigupta
 - hey everyone! Greetings from Cyprus, I am [bluemindset](https://github.com/bluemindset).
 - hey everyone! I am prashansa and this is my first contribution(https://github.com/prashu0705/)
 - Hi! I'm [Lucas](https://github.com/lucasmartins-92/) from Brazil.
