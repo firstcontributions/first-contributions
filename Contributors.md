@@ -317,6 +317,7 @@ Hello! I am mn121mn121. First time trying.. ^_^
 - Yo, I'm [Bird Person](https://github.com/ApplePieCodes) aka [ApplePieOnRye](https://discordapp.com/users/936383883493122098). I make random stuff and am willing to help others with projects.
 - Hello, [Vict75](https://github.com/vict75) here from the Netherlands
 - Hello, [Vict75](https://github.com/vict75) new-attempt from cli
+- Hi I'm [lxnull](https://lxnull.com), I enjoy collaborating on fun projects
 - new endtry below vict75
 - Hello! This is [Adarsh Tripathi] (https://github.com/iaadarsh23) here. This is my     first open source contribution
 [Himanshu Chauhan](https://github.com/HimanshuChauhan7878)
