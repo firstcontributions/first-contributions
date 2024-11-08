@@ -13,6 +13,7 @@ Hello, I'm [Hendrix Ejegi](https://github.com/hendrixejegi)
 - Hello world, its Rakshan
 - Hello, I'am Arshad Yasir
 - Hallo, [Hanan Ur Rehman](https://hananurrehman.github.io/), software tester from Pakistan and Germany was here.
+- Hi, ketan sharma
 - Hello, I'm Pannu. Let's keep going together. (https://github.com/PannuYN)
 -Hi, Chiranjeev was here!
 - Hello World, I'am Mapathé Ndiaye from Senegal
