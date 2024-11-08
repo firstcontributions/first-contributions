@@ -85,6 +85,7 @@ did it different
 - Hi I am saurabh
 - Hi, I'm Blake, nice to make your aquitance!
 - Hi, Sachin here!
+Hello, EricJDarnell is making his first open-sauce contribution!
 - rejisterjack this side!
 - Hi y'all, it's Gabe!
 - Hi GitHub!
