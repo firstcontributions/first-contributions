@@ -1606,6 +1606,7 @@ Hello
 - [Kemka Mark](http://github.com/markkarl)
 - [Leonardo Ramos](https://github.com/leoferamos)
 - [Caleb Anderson](https://github.com/Canderson0115) **Amogus**
+- [Amulya Saxena] (https://github.com/xlumzee) **First Open source Contribution - November 8th 2024 13:15:20 - Pydata NYC 2024**
 - [Preeti Khamkar](https://github.com/p0203k)
 - [Glenn Fox](https://github.com/glenn-fox)
 - [Yehia Rasheed](https://github.com/yehiarasheed)
