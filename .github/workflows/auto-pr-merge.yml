@@ -39,6 +39,25 @@ jobs:
             echo "only_contributors=false" >> $GITHUB_ENV
           fi
 
+      - name: Check for merge-blocking labels
+        id: label_check
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const { data: labels } = await github.rest.issues.listLabelsOnIssue({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number
+            });
+      
+            const blockingLabels = ['DO NOT MERGE', 'WIP'];
+            const hasBlockingLabel = labels.some(label => blockingLabels.includes(label.name));
+      
+            core.setOutput("can_merge", !hasBlockingLabel);
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
       - name: Check if PR has only one line change
         run: |
           ADDITIONS=${{ github.event.pull_request.additions }}
@@ -58,7 +77,7 @@ jobs:
       # Merge the pull request if it only modifies the Contributors.md file or if it fail to do then drop failure message as post 
       - name: Merge PR
         id: merge_pr
-        if: env.only_contributors == 'true' && env.one_line_change == 'true'
+        if: steps.label_check.outputs.can_merge == 'true' && steps.is_only_contributors_file_changed.outputs.only_contributors == 'true' && env.one_line_change == 'true'
         uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
