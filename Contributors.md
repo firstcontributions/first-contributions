@@ -1,5 +1,5 @@
 # Contributors
-- [StepTheGlow](https://github.com/StepTheGlow)
+- [StepTheGlow](https://github.com/StepTheGlow) slime-u slime-u you can call me slime-u, green hair green eyes, hiding in your WI-FI
 - Hi, I am Dinesh, after many times of trying finally my first contribution (check projects:- https://github.com/DineshPawar7)
 -Hello it's me Rockeky and warmly welcome to all of you.
 - Hey, I am Vishal, excited to get started (Y) 
