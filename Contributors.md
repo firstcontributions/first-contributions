@@ -40,7 +40,7 @@ Hello, I'm [Hendrix Ejegi](https://github.com/hendrixejegi)
 - Hii, This is Surya.
 - Hello, I'm Omar! (https://github.com/Mirohhh
 - Hi, Rian Ernesto has been here
-- Hey, Nathan was here today!
+- Hey, Nathan was here today now!
 - Hello, I am Shifra Fraiman 🌼
 - CYBERNETIC ANGEL was here (https://github.com/cyberneticangel)
 - Hello!  What a great group of contributors.  I'm happy to be among the greats! [GitHub](https://github.com/Tina-Sterite)
