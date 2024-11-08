@@ -48,6 +48,7 @@ Hello, I'm [Hendrix Ejegi](https://github.com/hendrixejegi)
 - Hello there! Greetings from Clara
 - Hello, I'm Omar! (https://github.com/Mirohhh).
 = Hi, Karen here!
+- Hello, I'm Shantanu Gupta. This is my first contribution.
 - Hi, Rian Ernesto has been here
 - Hello, I am Shifra Fraiman 🌼
 - CYBERNETIC ANGEL was here (https://github.com/cyberneticangel)
