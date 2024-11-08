@@ -5386,6 +5386,7 @@ Jasmine
 - [Länzlinger Jonas](https://github.com/jonaslanzlinger)
 - [Rajat Singh] (https://github.com/sinrajat43)
 - [Ramis Humayun](https://github.com/Ramis102)
+- [Polina Polupan](https://github.com/PolinaPolupan)
 - [Vinay Joshi](https://github.com/Anigrl)
 - [JakeJeongAiden](https://github.com/JakeJeongAiden/)
 - [Fangphire](https://github.com/fangphire)
