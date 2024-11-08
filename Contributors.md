@@ -1,4 +1,5 @@
 # Contributors
+- Hi! I'm Leo, getting started as an OS contributor. Find me at https://github.com/LeoBonjo
 - [StepTheGlow](https://github.com/StepTheGlow)
 - Hi, I am Dinesh, after many times of trying finally my first contribution (check projects:- https://github.com/DineshPawar7)
 -Hello it's me Rockeky and warmly welcome to all of you.
