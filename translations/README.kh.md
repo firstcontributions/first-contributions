@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-#### _Read this in [other languages](translations/Translations.md)._
+#### _អានឯកសារនេះជា [ភាសាផ្សេង](translations/Translations.md)._
 
 <kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/al.svg" width="22">](translations/README.al.md)</kbd>
 <kbd>[<img title="Armenian" alt="Armenian" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/am.svg" width="22">](translations/README.arm.md)</kbd>
@@ -83,139 +83,138 @@
 <kbd>[<img title="አማርኛ" alt="አማርኛ" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/et.svg" width="22">](translations/README.et.md)</kbd>
 <kbd>[<img title="ភាសាខ្មែរ" alt="ភាសាខ្មែរ" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/kh.svg" width="22">](translations/README.kh.md)</kbd>
 
-# First Contributions
+# ការរួមចំណែកជាលើកដំបូង
 
-This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+គម្រោងនេះមានគោលបំណងធ្វើឱ្យសាមញ្ញ និងណែនាំពីរបៀបដែលអ្នកចាប់ផ្តើមធ្វើការរួមចំណែកដំបូងរបស់ពួកគេ។ ប្រសិនបើអ្នកកំពុងស្វែងរកការរួមចំណែកដំបូងរបស់អ្នក សូមអនុវត្តតាមជំហានខាងក្រោម។
 
-_If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
+_ប្រសិនបើអ្នកមិនសូវស្រួលជាមួយបន្ទាត់ពាក្យបញ្ជាទេ [នេះគឺជាការបង្រៀនដោយប្រើឧបករណ៍ GUI ។](#tutorials-using-other-tools)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-#### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
+#### ប្រសិនបើអ្នកមិនមាន git នៅលើម៉ាស៊ីនរបស់អ្នក [សូមដំឡើង](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
-## Fork this repository
+## ស៊ាំសាខានេះ (Fork this repository)
 
-Fork this repository by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+សូមស៊ាំសាខានេះដោយចុចលើប៊ូតុង Fork ដែលនៅផ្នែកខាងលើនៃទំព័រនេះ។ 
+វានឹងបង្កើតច្បាប់ចម្លងនៃសាខានេះក្នុងគណនីរបស់អ្នក។
 
-## Clone the repository
+## ចម្លងសាខានេះ (Clone the repository)
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
+ឥឡូវនេះ ចម្លងសាខាដែលអ្នកបានស៊ាំទៅកាន់កុំព្យូទ័ររបស់អ្នក។ ចូលទៅគណនី GitHub របស់អ្នក បើកសាខាដែលបានស៊ាំ ចុចលើប៊ូតុង Code ហើយចុចលើរូបតំណាង​​ _copy to clipboard_។
 
-Open a terminal and run the following git command:
+បើក terminal ហើយដំណើរការពាក្យបញ្ជា git ខាងក្រោម៖
 
 ```bash
 git clone "url you just copied"
 ```
 
-where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+កន្លែងដែល "url ដែលអ្នកទើបតែចម្លង" (ដោយគ្មានសញ្ញាសម្រង់) គឺជា url ទៅកាន់ឃ្លាំងនេះ (ចំនុចប្រសព្វរបស់អ្នកនៃគម្រោងនេះ)។ សូមមើលជំហានមុនដើម្បីទទួលបាន url ។
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-For example:
+ឧទាហរណ៍៖
 
 ```bash
 git clone git@github.com:this-is-you/first-contributions.git
 ```
 
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+កន្លែងដែល `this-is-you` គឺជាឈ្មោះអ្នកប្រើប្រាស់ GitHub របស់អ្នក។ នៅទីនេះអ្នកកំពុងចម្លងមាតិកានៃឃ្លាំងការរួមចំណែកដំបូងនៅលើ GitHub ទៅកាន់កុំព្យូទ័ររបស់អ្នក។
 
-## Create a branch
+## បង្កើតសាខាថ្មី (Create a branch)
 
-Change to the repository directory on your computer (if you are not already there):
+ផ្លាស់ប្តូរទៅថតឃ្លាំងនៅលើកុំព្យូទ័ររបស់អ្នក (ប្រសិនបើអ្នកមិនទាន់នៅទីនោះ)៖
 
 ```bash
 cd first-contributions
 ```
 
-Now create a branch using the `git switch` command:
+ឥឡូវបង្កើតសាខាមួយដោយប្រើពាក្យបញ្ជា 'git switch'៖
 
 ```bash
 git switch -c your-new-branch-name
 ```
 
-For example:
+ឧទាហរណ៍៖
 
 ```bash
 git switch -c add-alonzo-church
 ```
 
-## Make necessary changes and commit those changes
+## កែប្រែលើកែលម្អដែលចាំបាច់ និងធ្វើការប្តិត (commit) ប្រែប្រួលទាំងនោះ
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+ឥឡូវនេះបើកឯកសារ 'Contributors.md' នៅក្នុងកម្មវិធីនិពន្ធអត្ថបទ បន្ថែមឈ្មោះរបស់អ្នកទៅវា។ កុំបន្ថែមវានៅដើម ឬចុងបញ្ចប់នៃឯកសារ។ ដាក់វានៅកន្លែងណាមួយនៅចន្លោះ។ ឥឡូវនេះរក្សាទុកឯកសារ។
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
+ប្រសិនបើអ្នកចូលទៅកាន់ថតគម្រោង ហើយប្រតិបត្តិពាក្យបញ្ជា 'git status' អ្នកនឹងឃើញមានការផ្លាស់ប្តូរ។
 
-Add those changes to the branch you just created using the `git add` command:
+បន្ថែមការផ្លាស់ប្តូរទាំងនោះទៅសាខាដែលអ្នកទើបតែបង្កើតដោយប្រើពាក្យបញ្ជា `git add`៖
 
 ```bash
 git add Contributors.md
 ```
 
-Now commit those changes using the `git commit` command:
+ឥឡូវនេះធ្វើការផ្លាស់ប្តូរទាំងនោះដោយប្រើពាក្យបញ្ជា 'git commit'៖
 
 ```bash
 git commit -m "Add your-name to Contributors list"
 ```
 
-replacing `your-name` with your name.
+ជំនួស 'ឈ្មោះរបស់អ្នក' ជាមួយឈ្មោះរបស់អ្នក។
 
-## Push changes to GitHub
+## ផ្តួលប្រែប្រួលទៅ GitHub (Push changes to GitHub)
 
-Push your changes using the command `git push`:
+រុញការផ្លាស់ប្តូររបស់អ្នកដោយប្រើពាក្យបញ្ជា 'git push':
 
 ```bash
 git push -u origin your-branch-name
 ```
 
-replacing `your-branch-name` with the name of the branch you created earlier.
+ជំនួស `your-branch-name` ជាមួយនឹងឈ្មោះសាខាដែលអ្នកបានបង្កើតមុន។
 
 <details>
-<summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
+<summary> <strong>ប្រសិនបើអ្នកទទួលបានកំហុសណាមួយនៅពេលរុញ សូមចុចទីនេះ៖</strong> </summary>
 
-- ### Authentication Error
-     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
-  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
-  Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
-
+- ### កំហុសនៅក្នុងការ Authentication (Authentication Error)
+     <pre>remote: ការគាំទ្រសម្រាប់ការបញ្ចូលពាក្យសម្ងាត់ត្រូវបានដកហូតនៅថ្ងៃទី 13 ខែសីហា ឆ្នាំ 2021។ សូមប្រើ **Personal Access Token** ជំនួស។
+  remote: សូមមើល https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ សម្រាប់ព័ត៌មានបន្ថែម។
+  fatal: ការ Authenticate បរាជ័យសម្រាប់ 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  សូមចូលទៅកាន់ [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) ដើម្បីបង្កើត និងកំណត់រចនាសម្ព័ន្ធ SSH Key ទៅក្នុងគណនី GitHub របស់អ្នក។
 </details>
 
-## Submit your changes for review
+## ដាក់បញ្ជូនការផ្លាស់ប្តូររបស់អ្នកសម្រាប់ការពិនិត្យ
 
-If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+ប្រសិនបើអ្នកចូលទៅកាន់ឃ្លាំងរបស់អ្នកនៅលើ GitHub អ្នកនឹងឃើញប៊ូតុង 'Compare & pull request' ។ ចុចលើប៊ូតុងនោះ។
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-Now submit the pull request.
+ឥឡូវនេះដាក់សំណើទាញ។
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
+ឆាប់ៗនេះ ខ្ញុំនឹងបញ្ចូលការផ្លាស់ប្តូររបស់អ្នកទាំងអស់ទៅក្នុងសាខាចម្បងនៃគម្រោងនេះ។ អ្នកនឹងទទួលបានអ៊ីមែលជូនដំណឹង នៅពេលដែលការផ្លាស់ប្តូរត្រូវបានបញ្ចូលគ្នា។
 
-## Where to go from here?
+## តើត្រូវទៅណាពីទីនេះ?
 
-Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
+អបអរសាទរ! អ្នកទើបតែបានបញ្ចប់ស្តង់ដារ _fork -> clone -> edit -> pull request_ workflow ដែលអ្នកនឹងជួបប្រទះជាញឹកញាប់ក្នុងនាមជាអ្នករួមចំណែក!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
+អបអរសាទរការរួមចំណែករបស់អ្នក ហើយចែករំលែកវាជាមួយមិត្តភក្តិ និងអ្នកដើរតាមរបស់អ្នកដោយចូលទៅកាន់ [កម្មវិធីគេហទំព័រ](https://firstcontributions.github.io/#social-share).
 
-You could join our slack team if you need any help or have any questions. [Join slack team](https://firstcontributors.slack.com/join/shared_invite/zt-29qhyr9lt-Bi7WLbgGIFqV7aCEG_grvg#/shared-invite/email).
+អ្នកអាចចូលរួមជាមួយក្រុម slack របស់យើង ប្រសិនបើអ្នកត្រូវការជំនួយ ឬមានសំណួរណាមួយ។ [ចូលរួមក្រុម slack](https://firstcontributors.slack.com/join/shared_invite/zt-29qhyr9lt-Bi7WLbgGIFqV7aCEG_grvg#/shared-invite/email).
 
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
+ឥឡូវនេះ ចូរអ្នកចាប់ផ្តើមជាមួយនឹងការរួមចំណែកដល់គម្រោងផ្សេងទៀត។ យើងបានចងក្រងបញ្ជីគម្រោងដែលមានបញ្ហាងាយស្រួលដែលអ្នកអាចចាប់ផ្តើមបាន។ ពិនិត្យមើល [បញ្ជីគម្រោងក្នុងកម្មវិធីបណ្ដាញ](https://firstcontributions.github.io/#project-list).
 
-### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
+### [សម្ភារៈបន្ថែម](additional-material/git_workflow_scenarios/additional-material.md)
 
-## Tutorials Using Other Tools
+## ការបង្រៀនដោយប្រើឧបករណ៍ផ្សេងទៀត
 
 | <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
 
-<p>This project is supported by:</p>
+<p>គម្រោងនេះត្រូវបានគាំទ្រដោយ៖</p>
 <p>
   <a href="https://www.digitalocean.com/">
     <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
