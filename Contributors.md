@@ -9562,6 +9562,7 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hello, SB here!
 - James Paing Oo - Softwre Engineer (https://github.com/JamesPaing)
 - Helllo guys, never stop learning!!!
+- Hi I'm [Dev], happy to learn!!
 - Hi, I'm [Simar Singh Chugh](https://github.com/SimarSingh18) from India.
 - Hi, I'm Aydin
 - Hi I'm Clayton
