@@ -15,6 +15,7 @@ Thang Hei is here!
 - Hello , I'm Mahmood (https://github.com/MahmoodMI1)
 - Hi future developer, I am Khurshed, from Uzbekistan. You, yes future develepor, you are doing great, keep it up, do not give up.
 Hi, I'm ZMK.
+hallo I am semilogo
 Hello, I'm [Hendrix Ejegi](https://github.com/hendrixejegi)
 - Hello world, its Rakshan
 - Hello, I'am Arshad Yasir
