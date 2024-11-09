@@ -4,6 +4,7 @@
 - Yo 👋, I'm [Haripriyan R](https://github.com/konradjr007)
 - [StepTheGlow](https://github.com/StepTheGlow)
 - Hi, I am Dinesh, after many times of trying finally my first contribution (check projects:- https://github.com/DineshPawar7)
+- Hello from Wales! I'm [David Lee](https://github.com/DLee1993)
 -Hello it's me Rockeky and warmly welcome to all of you.
 Thang Hei is here!
 - Hey, I am Vishal, excited to get started (Y) 
