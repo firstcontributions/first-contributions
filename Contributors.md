@@ -1,5 +1,5 @@
 # Contributors
-- Hello. I'm Bruke Wondessen (https://github.com/bwondessen)
+- Hi 👋, I'm Bruke Wondessen! (https://github.com/bwondessen)
 - Hi! I'm Yujun W. Have a great day.
 - Hi! I'm [Rayene]. Have a great day.
 - Hi! I'm Leo, getting started as an OS contributor. Find me at https://github.com/LeoBonjo
