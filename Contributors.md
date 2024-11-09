@@ -1,6 +1,6 @@
 # Contributors
+- Hi 👋,  I'm Bruke Wondessen! (https://github.com/bwondessen)
 - Hello! Its ya boy Aaron here. Lets go.
-- Hello.  I'm Bruke Wondessen (https://github.com/bwondessen)
 - Hey devs, I'm Akhin Abraham and I know you're going to be great soon. (all projects: https://github.com/theakhinabraham) 
 - Hi! I'm Yujun W. Have a great day.
 - Hi! I'm [Rayene]. Have a great day.
