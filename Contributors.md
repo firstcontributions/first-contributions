@@ -9607,3 +9607,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - [Nomop](https://github.com/Nomop) **Time to get started!**
 - Hi, I'm Rohit Thimaya
 [성창규](https://github.com/cgseong)
+- Hi, I'm Nirkrolm72650✌(https://github.com/Nirkrolm72650) from France. I want to become a soc analyst 
