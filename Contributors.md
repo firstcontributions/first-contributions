@@ -12,6 +12,7 @@
 -Hello it's me Rockeky and warmly welcome to all of you.
 Thang Hei is here!
 - Hello, I am Philipp
+- Hello, I am Hameem Hussain Shah
 - Hey, I am Vishal, excited to get started (Y) 
 - Hi, I am Enkhbold Ganbold (Inky) https://github.com/enkhbold470
 - Hi, I am Aditya, excited to get started!
