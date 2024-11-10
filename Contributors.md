@@ -9604,3 +9604,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hello everyone this is Rita 🤓
 - Hi, I'm [softkern](https://github.com/softkern)
 - [Nomop](https://github.com/Nomop) **Time to get started!**
+- Hi, I'm Rohit Thimaya
