@@ -16,6 +16,7 @@ Thang Hei is here!
 - Hello, I am Philipp
 Hi genius developers:) I'm Miri starting with my first contribution with a high ambition and a desire for challenge and progress.(https://github.com/mirimsten)
 - Hello, I am Hameem Hussain Shah
+- Hello, I am Vikesh S. 
 - Hey, I am Vishal, excited to get started (Y) 
 - Hi, I am Enkhbold Ganbold (Inky) https://github.com/enkhbold470
 - Hi, I am Aditya, excited to get started!
