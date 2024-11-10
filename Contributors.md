@@ -9624,3 +9624,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, I'm marche4982!
 Hi, my name is michal
 - Hi! I'm [Kcaparas](https://github.com/kcaparas1630) from Canada. I'm a Junior Full-Stack Developer! Looking forward to working with you. 
+- Hi! I'm [Rithiellen](https://github.com/Rithiellen).
