@@ -8365,6 +8365,7 @@ guanj65
 - [Quinn Glenn] (https://github.com/QuinnG8)
 - [Chanse Syres] (https://github.com/Otnzfq-Fleqf)
 - [Elena Piaggio](https://github.com/elenapiaggio)
+- [Matej G](https://github.com/IsxImattI)
 - [Alvin Abiero](https://github.com/AbieroAlvin)
 - [Samuel White](https://github.com/SamWhite01)
 - [Bandi Raviteja naidu](https://github.com/naidubandi)
