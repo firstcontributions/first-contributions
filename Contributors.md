@@ -3861,6 +3861,7 @@ Sam Barns
 - [Nico Quilpatay](https://github.com/nicoQuilpatay) **El software, las iglesias y las catedrales son muy parecidos: primero los construimos, luego rezamos**
 - [Balaganesh](https://github.com/balaganesh102004)
 - [Maksym Vaskin] (https://github.com/maxxim333/
+-[Omar Stahi](https://github.com/JeanSt98/)**Hi I'm Omar I'm so excited to be working on this project**
 - [Ethan Flow] (https://github.com/MrF1ow)
 - [JustImp] (https://github.com/StringJustImp)
 - [Maty](https://github.com/matyosy)
