@@ -70,7 +70,7 @@ hello open source world,Aarav this side from india .
 - Hii, This is Surya.
 - Hello there! Greetings from Clara
 - Hello, I'm Omar! (https://github.com/Mirohhh).
-= Hi, Karen here!
+- Hi, Karen here!
 - Hello, I'm Shantanu Gupta. This is my first contribution.
 - Hi, Rian Ernesto has been here
 - Hi, My Name is SHEIKH ABDUL WAHID
@@ -1542,7 +1542,6 @@ Hello
 - [Brother-Rabbit](https://github.com/brotherrabbit91) **Open Source Contribution**
 - [Saadgi Bawa](https://github.com/saadgibawa) **Open Source Contribution**
 - [Faraz Naqshbandi](https://github.com/faraznaqshbandi04) **Do it one more time!!!**
->>>>>>> origin/main
 - [Utkarsh Kushwaha](https://github.com/theutkarshdev) **First open source contribution.**
 - [Almoiz khan](https://github.com/moiz2405) **Made First Open Source Contribution**
 - [Hamilcer](https://github.com/Hamilcer) **Let's do it**
@@ -9610,5 +9609,5 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - [Nomop](https://github.com/Nomop) **Time to get started!**
 - Hi, I'm Rohit Thimaya
 [성창규](https://github.com/cgseong)
-- Hi, I'm Nirkrolm72650✌(https://github.com/Nirkrolm72650) from France. I want to become a soc analyst 
+- Hi, I'm Nirkrolm72650✌(https://github.com/Nirkrolm72650) from France. I want to become a soc analyst
 - Hi, I'm Arysis (https://github.com/Arysis) from France too. I am a junior developer [linkedIn](https://www.linkedin.com/in/esteban-di-mascio/)
