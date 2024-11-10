@@ -2763,6 +2763,7 @@ vrushabhpatil48
 - Nivesh kumar(https://github.com/Nivesh12345)
 - [Romão Souza](https://github.com/romaogs) **First Contribution!**
 - [Jorge Mendes](https://github.com/jorgemendes07) **Primeira contribuição!**
+- [Kaio Oliveira S](https://github.com/KaiSeabra) **Primeira Contribuição, salve Isaac**
 - [Isaac Larrubia](https://github.com/isaaclarrubia)
 - [matheusrcrf](https://github.com/matheusrcrf) **First Contribution 😎👍**
 - [Felipe Quierelli](https://github.com/FerelpsFelps)
