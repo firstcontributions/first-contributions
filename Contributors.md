@@ -16,6 +16,7 @@ Thang Hei is here!
 - Hi, I am Enkhbold Ganbold (Inky) https://github.com/enkhbold470
 - Hi, I am Aditya, excited to get started!
 - Hi, I'm matt
+- Hi, I'm Nixx
 - Hello i am Felipe :D
 - Big Comet Fan
 - Hello i am Dariel Pereira
