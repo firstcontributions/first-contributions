@@ -1673,6 +1673,7 @@ Parth Bhovad
 - [Thomas](https://github.com/thomas-stanley) **First Contribution**
 - [Yugal](https://github.com/Yugalgarg2002) **First Contribution**
 - [TusharPachouri](https://github.com/TusharPachouri) **First Contribution**
+- [Mihir Bambhaniya](https://github.com/axewhyzed) **Made my github contribution**
 - [david gordon](https://github.com/dudigoo/) **second step**
 - [crabCatcher0](https://github.com/crabcatcher0/) **Learning**
 - [yuthadda](https://github.com/yuthadda)
