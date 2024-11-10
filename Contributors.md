@@ -9612,3 +9612,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, I'm Nirkrolm72650✌(https://github.com/Nirkrolm72650) from France. I want to become a soc analyst 
 - Hi, I'm Arysis (https://github.com/Arysis) from France too. I am a junior developer [linkedIn](https://www.linkedin.com/in/esteban-di-mascio/)
 - Hi I'm [Francis], Happy to learn!!
+- Hi, Spec here!
