@@ -9599,3 +9599,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi guys, I'm Rodbit.Lead! I wish you all good studies and patience :). (https://github.com/rodbit-lead)
 - Hello everyone this is Rita 🤓
 - Hi, I'm [softkern](https://github.com/softkern)
+- [Nomop](https://github.com/Nomop) **Time to get started!**
