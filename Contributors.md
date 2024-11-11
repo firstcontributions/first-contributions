@@ -31,6 +31,7 @@ Hi genius developers:) I'm Miri starting with my first contribution with a high 
 - Hello i am Felipe :D
 - Big Comet Fan
 - Hello i am Dariel Pereira
+- Hi, I am Keshav Rathi.Excited for my first contribution in open source.Looking forward to make more valuable contributions.
 - Hello Pra
 - Hello , I'm Mahmood (https://github.com/MahmoodMI1)
 - Hi future developer, I am Khurshed, from Uzbekistan. You, yes future develepor, you are doing great, keep it up, do not give up.
@@ -9637,5 +9638,6 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 Hi, my name is michal
 - Hi! I'm [Kcaparas](https://github.com/kcaparas1630) from Canada. I'm a Junior Full-Stack Developer! Looking forward to working with you. 
 - Hi! I'm [Rithiellen](https://github.com/Rithiellen).
+- Hi! I'm Aki Laukkanen (https://github.com/NerdAdventurer)
 - Hi! I'm [Agustin Bereciartua](https://github.com/galenzo17) from Argentina/Chile. I'm in love with software 🤓
 - Hi! I'm [Ajay Kanyal](https://github.com/Ajay199903) from India. I'm starting my Open Source Journey with this commit.
