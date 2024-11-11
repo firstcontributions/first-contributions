@@ -9653,3 +9653,4 @@ Hi, my name is michal
 - Hi, I'm [Brendon](https://github.com/breworld-dev) from Uganda. I'm a junior flutter, front end and aspiring Full-Stack Developer.
 - Hi! I'm gotocoto!
 - Hi 👋, I'm [Hend](https://github.com/hendhamdi)from Tunisia. I'm a Junior Full Stack Developer and UI/UX Designer 💻😊.
+- Wassup, amogus here
