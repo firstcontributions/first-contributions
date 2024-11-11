@@ -14,7 +14,8 @@
 - Hello from Wales! I'm [David Lee](https://github.com/DLee1993)
 -Hello it's me Rockeky and warmly welcome to all of you.
 Thang Hei is here!
-- Hello, I am Philipp
+-Hello i am Atul Kumar 
+Hello, I am Philipp
 Hi genius developers:) I'm Miri starting with my first contribution with a high ambition and a desire for challenge and progress.(https://github.com/mirimsten)
 - Hello, I am Hameem Hussain Shah
 - Hello, I am Vikesh S. 
