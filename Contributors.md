@@ -9263,6 +9263,7 @@ vivek saskar
 - [Mate Kortvelyessy](https://github.com/MKKORTVELYESS) **Hey 👋**
 - [Gabriel Menacho](https://github.com/gabriel-menacho) **Hello from Bolivia**
 - [So Ichihashi](https://github.com/aquarium23)
+- [SohamWaghe](https://github.com/sohamwaghe)**We_only_go_up_from_here**
 - [seosieve](https://github.com/seosieve)
 - just [s0mme](https://github.com/s0mme)one passing by
 - [TomLincoln](https://github.com/TomLincoln066) **I want to get hired""
