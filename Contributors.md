@@ -9646,3 +9646,4 @@ Hi, my name is michal
 - Hi! I'm [Ajay Kanyal](https://github.com/Ajay199903) from India. I'm starting my Open Source Journey with this commit.
 - Hi, I'm [Brendon](https://github.com/breworld-dev) from Uganda. I'm a junior flutter, front end and aspiring Full-Stack Developer.
 - Hi! I'm gotocoto!
+- Hi 👋, I'm [Hend](https://github.com/hendhamdi)from Tunisia. I'm a Junior Full Stack Developer and UI/UX Designer 💻😊.
