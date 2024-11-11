@@ -9402,7 +9402,7 @@ Didac Vilarnau
   Hey,I'm [GGG-xsb],a student from China .And I'm so glad to take a part in a new program and add MYNAME.Wish all then best;
 - Hi, my name is [Saeed](https://github.com/saeedcmk), and I'm a **Frontend Developer** from Iran .
  hi, my name is [wang15653572782],a student from china.
- - hi, this is xy!
+- hi, this is xy!
 - Hi! My name is [ChuEating1005](https://github.com/ChuEating1005), a CS student from Taiwan.
 - Hey (: . My name is [1-xB](https://github.com/1-xB), I'm student from Poland.
 - Hey, I'm [Mithila Prabashwara](https://github.com/mthlpbs), SE student. Nice to be here.
@@ -9633,4 +9633,7 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 Hi, my name is michal
 - Hi! I'm [Kcaparas](https://github.com/kcaparas1630) from Canada. I'm a Junior Full-Stack Developer! Looking forward to working with you. 
 - Hi! I'm [Rithiellen](https://github.com/Rithiellen).
+- Hi! I'm Aki Laukkanen (https://github.com/NerdAdventurer)
+- Hi! I'm [Agustin Bereciartua](https://github.com/galenzo17) from Argentina/Chile. I'm in love with software 🤓
+- Hi! I'm [Ajay Kanyal](https://github.com/Ajay199903) from India. I'm starting my Open Source Journey with this commit.
 - Hi! I'm [Ldxxxxxxxx](https://github.com/Ldxxxxxxxx).
