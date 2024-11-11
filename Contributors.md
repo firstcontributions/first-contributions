@@ -945,6 +945,7 @@ Hej! I'm Gustav from Stockholm, Sweden.
 -[Mey](https://github.com/Meyyaou) **Starting to contribute with this repo!**
 - [Sai](https://github.com/sailanka02) **Excited to contribute! Follow me!**
 - [steko](https://github.com/steko0) **sup fellas* 
+- [Swetzell](https://github.com/Swetzell)
 - [Zaw](https://github.com/zaw-creator) **Gotta Say time to locked in :D** 
 - [Faruk idris](https://github.com/farooq13) **Thanks for providing such repository**
 - [Jeremy] **Hi! This is my (not so) first open source contribution!** 
