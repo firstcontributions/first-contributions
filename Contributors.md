@@ -1,5 +1,6 @@
 # Contributors
 -Hi! This is Vanshika. 
+- Hi, I'm [Arin Dewangan](github.com/arindewangan)
 - Hello! Its ya boy Aaron here. Lets go.
 - hi! g.d. here
 - Hiii my name is emanuele.
