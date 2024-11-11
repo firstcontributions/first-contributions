@@ -9594,6 +9594,7 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi I'm [Dev], happy to learn!!
 - Hi, I'm [Simar Singh Chugh](https://github.com/SimarSingh18) from India.
 - Hi, I'm Aydin
+- Hi, I'm Joe Lipke (https://github.com/jlipke)
 - Hi, I'm BassamEC
 - Hi I'm Clayton
 - Hi, this is [eusebieDev](https://github.com/eusebiedev) from PDX
