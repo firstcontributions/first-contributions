@@ -9,6 +9,7 @@
 - Hey devs, I'm Akhin Abraham and I know you're going to be great soon. (all projects: https://github.com/theakhinabraham) 
 - Hi! I'm Yujun W. Have a great day.
 - Hi! I'm Hameem Shah. Have a nice day.
+- hi my name is Mateus
 - Hi! I'm [Rayene]. Have a great day.
 - Hi! I'm Leo, getting started as an OS contributor. Find me at https://github.com/LeoBonjo
 - Yo 👋, I'm [Haripriyan R](https://github.com/konradjr007)
