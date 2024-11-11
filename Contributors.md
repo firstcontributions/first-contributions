@@ -25,6 +25,7 @@ Hi genius developers:) I'm Miri starting with my first contribution with a high 
 - Hello, I am Hameem Hussain Shah
 - Hello, I am Vikesh S. 
 - Hi, I am Kannan Shilen!
+- Hello! I'm Felix from Argentina.
 - Hey, I am Vishal, excited to get started (Y) 
 - Hi, I am Enkhbold Ganbold (Inky) https://github.com/enkhbold470
 - Hi, I am Aditya, excited to get started!
