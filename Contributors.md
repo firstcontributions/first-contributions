@@ -3,6 +3,7 @@
 -Hi! This is Vanshika.
 
 - Hello! Its ya boy Aaron here. Lets go.
+- hi! g.d. here
 - Hiii my name is emanuele.
   Hi my name is Debi.
 - Hello. I'm Bruke Wondessen (https://github.com/bwondessen)
@@ -941,6 +942,9 @@
 - [Sai](https://github.com/sailanka02) **Excited to contribute! Follow me!**
 - [steko](https://github.com/steko0) \*_sup fellas_
 - [Zaw](https://github.com/zaw-creator) **Gotta Say time to locked in :D**
+- [steko](https://github.com/steko0) **sup fellas* 
+- [Swetzell](https://github.com/Swetzell)
+- [Zaw](https://github.com/zaw-creator) **Gotta Say time to locked in :D** 
 - [Faruk idris](https://github.com/farooq13) **Thanks for providing such repository**
 - [Jeremy] **Hi! This is my (not so) first open source contribution!** -[Nicco mai] -[Naj](Man this is overwhelming but not impossible!)
   Jojo
