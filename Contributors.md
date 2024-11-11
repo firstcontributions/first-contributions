@@ -9504,6 +9504,7 @@ Didac Vilarnau
 - Hi, I am Aamash Ansari [Aamash Ansari](https://github.com/Aamash-18). Please Follow.
 - Hi, I'm Tausif Raza [Tausif Raza] (https://github.com/taussy10). Thanks 
 - This is Ravi [Ravi](https://github.com/coderravi7870)
+- Hi, this is Candice!
 - Hi, I'm [Eduardo Baptista](https://github.com/EduardoBaptista01) and I'm from Portugal.
 - This is [Carlos Tranquilino] (https://github.com/valium69mg). God bless you from Mexico.
 This is [Shallom Omamo] (https://github.com/graciewakir)
