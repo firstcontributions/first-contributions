@@ -9540,6 +9540,7 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, I am Konstantin! 😃  [Profile](https://github.com/gpiento)
 - Hi, I am Aditya! and i'm interrested in low level computer science  [Profile](https://github.com/aditya-sharma-0G
 - [Patrycjusz Kowalski](https://github.com/patrycjuszkowalski)
+- [minkokolinn](https://github.com/minkokolinn) Hi everyone! This is Min Ko Ko Linn.
 - hi i'm wintervoid (she/her). I can't wait to start contributing on github! [Profile](https://github.com/wintervoid)
 - Hi. I'm Mareli (she/her). Can't wait to help!
 - Hi! Kilroy was here!
