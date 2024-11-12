@@ -227,6 +227,7 @@ Hey its Wesley
 - Hi, I'm Venu
 - Hi, I'm Frank! (https://github.com/frank-895)
 - Hi, Fabio Lima was here!
+- Hi 👋, I'm Oussama,  you can call me [SAME](https://github.com/same-ou)
 -hello, I'm Hardik Gayner from India
 - Hello, I'm Ricardo Lemos (https://github.com/RicardoLemos5)
 -Hello, I am Kevinnash! [My profile](https://github.com/Nash-creator)
