@@ -9669,3 +9669,4 @@ Hi, my name is michal
 - Wassup, amogus here
 - Heyy! I'm [Kaustubh](https://github.com/FrogBlaster123)from India. This is my first ever Contribution!!
 hello, I'm Hichem and this is my first step towards greatness thanks for the opportunity
+- Hello! I'm [Kevin Lupera](https://github.com/kevinlupera) from Ecuador 🇪🇨!!!
