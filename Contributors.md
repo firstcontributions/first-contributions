@@ -7878,6 +7878,7 @@ Hey there its Adarsh Rout aka ideal.x_
 - [Haley k](https://github.com/rhallk01)
 - [Fujitani Sora](https://github.com/fs0414)
 - [dugget](https://github.com/dugget)
+- [Leonardo Serra](https://github.com/leonardoserra) **Ayo, leonardo here!**
 - [Luis Ceballos](https://github.com/Luis-Ceballos)
 - [IhorPokr](https://github.com/IhorPokr)
 - [Taufiq Gh](https://github.com/jtaufiq1)
