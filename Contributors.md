@@ -1,13 +1,21 @@
 # Contributors
--Hi! This is Vanshika. 
+- Xinchao ! Toi la Trinh Mai
+- Hi! This is Dana! 11 Nov 2024. 
+- Hi! This  Abdullah Ansir | Ml enginner [Abdullah Ansir](github.com/abdullah8644)
+- Ayayaya, Hola amigüitos ¡como estan! los saludo desde acá, por que allá estan ustedes. [***Starcondor***](https://github.com/starcondor) de <img title="México" alt="México" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/mx.svg" width="22">, desde el 11 de Noviembre de 2024.
+- Hi! This is Vanshika. 
+- Hi! This is Mitsu. Manifesting to be a better version of myself ^^
+- Hi, I'm [Arin Dewangan](github.com/arindewangan)
 - Hello! Its ya boy Aaron here. Lets go.
 - hi! g.d. here
+- Hi! I'm [Shahmeer Khan](https://github.com/shahmeerkhan-swe)
 - Hiii my name is emanuele.
 - Hello.  I'm Bruke Wondessen (https://github.com/bwondessen)
 - Hey devs, I'm Akhin Abraham and I know you're going to be great soon. (all projects: https://github.com/theakhinabraham) 
 - Hi! I'm Yujun W. Have a great day.
 - Hi! I'm Hameem Shah. Have a nice day.
 - Hi! I'm [Rayene]. Have a great day.
+- Hey! I'm Matthew Jinks
 - Hi! I'm Leo, getting started as an OS contributor. Find me at https://github.com/LeoBonjo
 - Yo 👋, I'm [Haripriyan R](https://github.com/konradjr007)
 - [StepTheGlow](https://github.com/StepTheGlow)
@@ -16,19 +24,25 @@
 -Hello it's me Rockeky and warmly welcome to all of you.
 Thang Hei is here!
 -Hello i am Atul Kumar 
+- vanakam sharan286 daw
 Hello, I am Philipp
 Hi genius developers:) I'm Miri starting with my first contribution with a high ambition and a desire for challenge and progress.(https://github.com/mirimsten)
+- Hello, I am WBY
 - Hello, I am Hameem Hussain Shah
+- Hello, I'm Filippo, how's going on?
 - Hello, I am Vikesh S. 
 - Hi, I am Kannan Shilen!
+- Hello! I'm Felix from Argentina.
 - Hey, I am Vishal, excited to get started (Y) 
 - Hi, I am Enkhbold Ganbold (Inky) https://github.com/enkhbold470
 - Hi, I am Aditya, excited to get started!
+- Hi, I am Shreyansh Trigunayat, excited to get started!
 - Hi, I'm matt
 - Hi, I'm Nixx
 - Hello i am Felipe :D
 - Big Comet Fan
 - Hello i am Dariel Pereira
+- Hi, I am Keshav Rathi.Excited for my first contribution in open source.Looking forward to make more valuable contributions.
 - Hello Pra
 - Hello , I'm Mahmood (https://github.com/MahmoodMI1)
 - Hi future developer, I am Khurshed, from Uzbekistan. You, yes future develepor, you are doing great, keep it up, do not give up.
@@ -98,6 +112,7 @@ hello open source world,Aarav this side from india .
 - [Pedram Mirshah](https://github.com/itsspedram) **🚀 Code Astronaut 🚀 | First Open Source Contribution | [My Cosmic Portfolio](https://itsspedram.github.io/CV/)**
 - MERA PHELA CONTRIBUTION 
 did it different
+- Hi I am [Carlos Alvarez]! find me here [Github] ("https://github.com/Carlosalvarez1997") 
 - HI, I AM VED PAWAR(Github-https://github.com/vedpawar2254; linkedin-https://www.linkedin.com/in/ved-pawar-00169a268/)
 - Hi, Harish Jigajinni here!
 - Hiya, LauraPG here https://github.com/laurapg1214
@@ -124,9 +139,11 @@ Hello, EricJDarnell is making his first open-sauce contribution!
 - Hi, it's Vishesh here
 - Hi, I am Aoao!(https://github.com/aoao1024)
 - [Aerobit](https://github.com/Aerobit) **B+**
+- [aungnyeinchan](https://github.com/aungNyeinChan)
 - Hello I am Adam
 - Hello I am Janxyxy😁
 Hey its Wesley
+- Hello, I am Carlos Henrique
 - Hello I am Naman!!(https://github.com/namansinghrana)
 - Hello! I am Camilli Fidelis <
 - **Asier Nuñez | 💻 Software Developer | [🔗 LinkedIn](https://www.linkedin.com/in/asier-nuñez-garcia/) | [🙀 Github](https://github.com/AsierCode)**
@@ -9495,6 +9512,7 @@ Didac Vilarnau
 - Hi, I am Aamash Ansari [Aamash Ansari](https://github.com/Aamash-18). Please Follow.
 - Hi, I'm Tausif Raza [Tausif Raza] (https://github.com/taussy10). Thanks 
 - This is Ravi [Ravi](https://github.com/coderravi7870)
+- Hi, this is Candice!
 - Hi, I'm [Eduardo Baptista](https://github.com/EduardoBaptista01) and I'm from Portugal.
 - This is [Carlos Tranquilino] (https://github.com/valium69mg). God bless you from Mexico.
 This is [Shallom Omamo] (https://github.com/graciewakir)
@@ -9538,6 +9556,7 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, I am Konstantin! 😃  [Profile](https://github.com/gpiento)
 - Hi, I am Aditya! and i'm interrested in low level computer science  [Profile](https://github.com/aditya-sharma-0G
 - [Patrycjusz Kowalski](https://github.com/patrycjuszkowalski)
+- [minkokolinn](https://github.com/minkokolinn) Hi everyone! This is Min Ko Ko Linn.
 - hi i'm wintervoid (she/her). I can't wait to start contributing on github! [Profile](https://github.com/wintervoid)
 - Hi. I'm Mareli (she/her). Can't wait to help!
 - Hi! Kilroy was here!
@@ -9636,3 +9655,10 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 Hi, my name is michal
 - Hi! I'm [Kcaparas](https://github.com/kcaparas1630) from Canada. I'm a Junior Full-Stack Developer! Looking forward to working with you. 
 - Hi! I'm [Rithiellen](https://github.com/Rithiellen).
+- Hi! I'm Aki Laukkanen (https://github.com/NerdAdventurer)
+- Hi! I'm [Agustin Bereciartua](https://github.com/galenzo17) from Argentina/Chile. I'm in love with software 🤓
+- Hi! I'm [Ajay Kanyal](https://github.com/Ajay199903) from India. I'm starting my Open Source Journey with this commit.
+- Hi, I'm [Brendon](https://github.com/breworld-dev) from Uganda. I'm a junior flutter, front end and aspiring Full-Stack Developer.
+- Hi! I'm gotocoto!
+- Hi 👋, I'm [Hend](https://github.com/hendhamdi)from Tunisia. I'm a Junior Full Stack Developer and UI/UX Designer 💻😊.
+- Wassup, amogus here
