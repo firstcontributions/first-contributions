@@ -1,4 +1,5 @@
 # Contributors
+- AJ here  **12-Nov-2024**
 - Xinchao ! Toi la Trinh Mai
 - Hi! This is Dana! 11 Nov 2024. 
 - Hi! This  Abdullah Ansir | Ml enginner [Abdullah Ansir](github.com/abdullah8644)
