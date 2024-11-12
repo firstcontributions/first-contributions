@@ -43,6 +43,7 @@ Hi genius developers:) I'm Miri starting with my first contribution with a high 
 - Hi, I'm matt
 - Hi, I'm Nixx
 - Hi, I'm Gabor
+- Hi, I'm Chimaroke David 
 - Hello i am Felipe :D
 - Big Comet Fan
 - Hello i am Dariel Pereira
