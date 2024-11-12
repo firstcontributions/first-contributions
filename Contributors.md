@@ -8,7 +8,7 @@
 - Hi, I'm [Arin Dewangan](github.com/arindewangan)
 - Hello! Its ya boy Aaron here. Lets go.
 - hi! g.d. here
-- Hi! I'm [Shahmeer Khan](https://github.com/shahmeerkhan-swe)
+- Hi! I'm [EK](https://github.com/ekkm1291)
 - Hiii my name is emanuele.
 - Hello.  I'm Bruke Wondessen (https://github.com/bwondessen)
 - Hey devs, I'm Akhin Abraham and I know you're going to be great soon. (all projects: https://github.com/theakhinabraham) 
