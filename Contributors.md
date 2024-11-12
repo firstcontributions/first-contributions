@@ -134,6 +134,7 @@ Hello, EricJDarnell is making his first open-sauce contribution!
 - Hi, it's Vishesh here
 - Hi, I am Aoao!(https://github.com/aoao1024)
 - [Aerobit](https://github.com/Aerobit) **B+**
+- [aungnyeinchan](https://github.com/aungNyeinChan)
 - Hello I am Adam
 - Hello I am Janxyxy😁
 Hey its Wesley
