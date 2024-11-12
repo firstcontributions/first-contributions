@@ -9674,3 +9674,4 @@ Hi, my name is michal
 - Heyy! I'm [Kaustubh](https://github.com/FrogBlaster123)from India. This is my first ever Contribution!!
 hello, I'm Hichem and this is my first step towards greatness thanks for the opportunity
 - Hello! I'm [Kevin Lupera](https://github.com/kevinlupera) from Ecuador 🇪🇨!!!
+- Hi! I'm [Mec Dot](https://github.com/43kNot) from New York City!!!
