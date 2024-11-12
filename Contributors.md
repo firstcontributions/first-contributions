@@ -16,6 +16,7 @@
 - Hi! I'm Hameem Shah. Have a nice day.
 - Hi! I'm [Rayene]. Have a great day.
 - Hey! I'm Matthew Jinks
+- Hello, I'm osama nazar and this is my first open source contribution
 - Hi! I'm Leo, getting started as an OS contributor. Find me at https://github.com/LeoBonjo
 - Yo 👋, I'm [Haripriyan R](https://github.com/konradjr007)
 - [StepTheGlow](https://github.com/StepTheGlow)
