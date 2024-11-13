@@ -9679,3 +9679,4 @@ Hi, my name is michal
 hello, I'm Hichem and this is my first step towards greatness thanks for the opportunity
 - Hello! I'm [Kevin Lupera](https://github.com/kevinlupera) from Ecuador 🇪🇨!!!
 - Hello ! I'm [Matteo](https://github.com/matteokocken) from France 🇫🇷 !
+- Hi! ! I'm [mec dot](https://github.com/43kNot) from New York City 🍎!
