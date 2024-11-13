@@ -42,7 +42,8 @@ Hi genius developers:) I'm Miri starting with my first contribution with a high 
 - Hello, I am WBY
 - Hello, I am Hameem Hussain Shah
 - Hello, I'm Filippo, how's going on?
-- Hello, I am Vikesh S. 
+- Hello, I am Vikesh S.
+- How do! I'm Paul from England
 - Hi, I am Kannan Shilen!
 - Hi, Darian Here! (https://github.com/midwestcoder2020)
 - Hello! I'm Felix from Argentina.
