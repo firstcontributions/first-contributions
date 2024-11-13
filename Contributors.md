@@ -15,6 +15,7 @@
 - Hi! I'm ZhangDreamer and this is my contribution!
 - Hi! I'm [Shahmeer Khan](https://github.com/shahmeerkhan-swe)
 - Hiii my name is emanuele.
+-Hello hello ,I'm [ Desmond Hamndawana ]here from 13 Nov 2024 👋
 - Hi I am Mohammed Abdul Rahman
 - Hello.  I'm Bruke Wondessen (https://github.com/bwondessen)
 - Hey devs, I'm Akhin Abraham and I know you're going to be great soon. (all projects: https://github.com/theakhinabraham) 
