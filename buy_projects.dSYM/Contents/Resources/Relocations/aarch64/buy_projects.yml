@@ -1,0 +1,47 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/advaitdesai/Programming/learn_c/mini project/buy_projects'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100001EC4, symSize: 0x4F8 }
+  - { offsetInCU: 0x3F, offset: 0x3F, size: 0x8, addend: 0x0, symName: _iPhone, symObjAddr: 0x17F0, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0xBA, offset: 0xBA, size: 0x8, addend: 0x0, symName: _MacBook, symObjAddr: 0x1930, symBinAddr: 0x100008140, symSize: 0x0 }
+  - { offsetInCU: 0xCF, offset: 0xCF, size: 0x8, addend: 0x0, symName: _iPad, symObjAddr: 0x1A70, symBinAddr: 0x100008280, symSize: 0x0 }
+  - { offsetInCU: 0xE4, offset: 0xE4, size: 0x8, addend: 0x0, symName: _AirPods, symObjAddr: 0x1BB0, symBinAddr: 0x1000083C0, symSize: 0x0 }
+  - { offsetInCU: 0xF9, offset: 0xF9, size: 0x8, addend: 0x0, symName: _Watch, symObjAddr: 0x1CF0, symBinAddr: 0x100008500, symSize: 0x0 }
+  - { offsetInCU: 0x11A, offset: 0x11A, size: 0x8, addend: 0x0, symName: _loop, symObjAddr: 0x1DE0, symBinAddr: 0x1000085F0, symSize: 0x0 }
+  - { offsetInCU: 0x12F, offset: 0x12F, size: 0x8, addend: 0x0, symName: _x, symObjAddr: 0x45BC, symBinAddr: 0x100008608, symSize: 0x0 }
+  - { offsetInCU: 0x144, offset: 0x144, size: 0x8, addend: 0x0, symName: _email_verification, symObjAddr: 0x1DE4, symBinAddr: 0x1000085F4, symSize: 0x0 }
+  - { offsetInCU: 0x165, offset: 0x165, size: 0x8, addend: 0x0, symName: _year, symObjAddr: 0x1DE8, symBinAddr: 0x1000085F8, symSize: 0x0 }
+  - { offsetInCU: 0x17A, offset: 0x17A, size: 0x8, addend: 0x0, symName: _month, symObjAddr: 0x1DEC, symBinAddr: 0x1000085FC, symSize: 0x0 }
+  - { offsetInCU: 0x18F, offset: 0x18F, size: 0x8, addend: 0x0, symName: _UPI_verification, symObjAddr: 0x1DF0, symBinAddr: 0x100008600, symSize: 0x0 }
+  - { offsetInCU: 0x1E0, offset: 0x1E0, size: 0x8, addend: 0x0, symName: _cart, symBinAddr: 0x100008658, symSize: 0x0 }
+  - { offsetInCU: 0x201, offset: 0x201, size: 0x8, addend: 0x0, symName: _yesno, symBinAddr: 0x1000089F4, symSize: 0x0 }
+  - { offsetInCU: 0x216, offset: 0x216, size: 0x8, addend: 0x0, symName: _sum, symBinAddr: 0x1000089E8, symSize: 0x0 }
+  - { offsetInCU: 0x22B, offset: 0x22B, size: 0x8, addend: 0x0, symName: _i, symBinAddr: 0x1000089B4, symSize: 0x0 }
+  - { offsetInCU: 0x240, offset: 0x240, size: 0x8, addend: 0x0, symName: _phone, symBinAddr: 0x1000089DC, symSize: 0x0 }
+  - { offsetInCU: 0x261, offset: 0x261, size: 0x8, addend: 0x0, symName: _email, symBinAddr: 0x100008990, symSize: 0x0 }
+  - { offsetInCU: 0x276, offset: 0x276, size: 0x8, addend: 0x0, symName: _p, symBinAddr: 0x1000089C8, symSize: 0x0 }
+  - { offsetInCU: 0x290, offset: 0x290, size: 0x8, addend: 0x0, symName: _cash, symBinAddr: 0x100008978, symSize: 0x0 }
+  - { offsetInCU: 0x2A5, offset: 0x2A5, size: 0x8, addend: 0x0, symName: _pay_method, symBinAddr: 0x1000089D8, symSize: 0x0 }
+  - { offsetInCU: 0x2BA, offset: 0x2BA, size: 0x8, addend: 0x0, symName: _credit, symBinAddr: 0x10000897C, symSize: 0x0 }
+  - { offsetInCU: 0x2CF, offset: 0x2CF, size: 0x8, addend: 0x0, symName: _credit_verify, symBinAddr: 0x10000898C, symSize: 0x0 }
+  - { offsetInCU: 0x2E4, offset: 0x2E4, size: 0x8, addend: 0x0, symName: _ex_month, symBinAddr: 0x1000089AC, symSize: 0x0 }
+  - { offsetInCU: 0x2F9, offset: 0x2F9, size: 0x8, addend: 0x0, symName: _ex_year, symBinAddr: 0x1000089B0, symSize: 0x0 }
+  - { offsetInCU: 0x30E, offset: 0x30E, size: 0x8, addend: 0x0, symName: _cardholder_name, symBinAddr: 0x10000862D, symSize: 0x0 }
+  - { offsetInCU: 0x323, offset: 0x323, size: 0x8, addend: 0x0, symName: _CVV, symBinAddr: 0x10000860C, symSize: 0x0 }
+  - { offsetInCU: 0x338, offset: 0x338, size: 0x8, addend: 0x0, symName: _OTP, symBinAddr: 0x100008610, symSize: 0x0 }
+  - { offsetInCU: 0x34D, offset: 0x34D, size: 0x8, addend: 0x0, symName: _UPI, symBinAddr: 0x100008614, symSize: 0x0 }
+  - { offsetInCU: 0x362, offset: 0x362, size: 0x8, addend: 0x0, symName: _upi_passcode, symBinAddr: 0x1000089EC, symSize: 0x0 }
+  - { offsetInCU: 0x377, offset: 0x377, size: 0x8, addend: 0x0, symName: _name, symBinAddr: 0x1000089B8, symSize: 0x0 }
+  - { offsetInCU: 0x38C, offset: 0x38C, size: 0x8, addend: 0x0, symName: _paid_by, symBinAddr: 0x1000089D0, symSize: 0x0 }
+  - { offsetInCU: 0x395, offset: 0x395, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100001EC4, symSize: 0x4F8 }
+  - { offsetInCU: 0x3CB, offset: 0x3CB, size: 0x8, addend: 0x0, symName: _iphone, symObjAddr: 0x50C, symBinAddr: 0x1000023D0, symSize: 0x1A4 }
+  - { offsetInCU: 0x3EF, offset: 0x3EF, size: 0x8, addend: 0x0, symName: _macbook, symObjAddr: 0x6B0, symBinAddr: 0x100002574, symSize: 0x1A4 }
+  - { offsetInCU: 0x413, offset: 0x413, size: 0x8, addend: 0x0, symName: _ipad, symObjAddr: 0x854, symBinAddr: 0x100002718, symSize: 0x1A4 }
+  - { offsetInCU: 0x437, offset: 0x437, size: 0x8, addend: 0x0, symName: _airpods, symObjAddr: 0x9F8, symBinAddr: 0x1000028BC, symSize: 0x1A4 }
+  - { offsetInCU: 0x45B, offset: 0x45B, size: 0x8, addend: 0x0, symName: _watch, symObjAddr: 0xB9C, symBinAddr: 0x100002A60, symSize: 0x1A4 }
+  - { offsetInCU: 0x47F, offset: 0x47F, size: 0x8, addend: 0x0, symName: _cart_summary, symObjAddr: 0xD40, symBinAddr: 0x100002C04, symSize: 0x18C }
+  - { offsetInCU: 0x494, offset: 0x494, size: 0x8, addend: 0x0, symName: _phone_email, symObjAddr: 0xECC, symBinAddr: 0x100002D90, symSize: 0x118 }
+  - { offsetInCU: 0x4A9, offset: 0x4A9, size: 0x8, addend: 0x0, symName: _payment, symObjAddr: 0xFE4, symBinAddr: 0x100002EA8, symSize: 0x644 }
+  - { offsetInCU: 0x4DB, offset: 0x4DB, size: 0x8, addend: 0x0, symName: _cash_memo, symObjAddr: 0x1628, symBinAddr: 0x1000034EC, symSize: 0x1C8 }
+...
