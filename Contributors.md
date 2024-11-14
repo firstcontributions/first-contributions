@@ -971,6 +971,7 @@ Hej! I'm Gustav from Stockholm, Sweden.
 -[Vaks]
 - [Jatin Vaid](https://github.com/jatinvaid108) **Hi Everyone !! Just making contributiions** 
 - [Harshit Aggarwal] (https://github.com/harshitaggarwal10) **Hello everyone, This is my first contribution to Open source**
+- Hi! I'm [yqnk](https://github.com/yqnk).
 - [Ramprasad Rajasegar](https://github.com/RamprasadRajasegar) **This is my first contribution**
 -[Alex](https://github.com/Alex-S1by)
 -[Aashika](https://github.com/aashika-j18)
