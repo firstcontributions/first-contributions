@@ -2262,6 +2262,7 @@ mh
 - [Björn Sterling](https://github.com/brainycarp67531) **My first contribution**
 -[Deepa Shree](https://github.com/ahmeedHassan1) **Open source contribution**
 - [Diego Velilla](https://github.com/diegovelilla) **First contribution - 4 sept 24**
+- [Craig McLellen](https://github.com/cmclellen) **First contribution - 14 Nov 24**
 - [Anastacio Ruiz](https://github.com/anastar99) **First open source, 7/13/24**
 -[Praneeth Gourla](https://github.com/praneethgourla18) **open source contribution** 
 -[Omer Farooq](https://github.com/omerfarooqBM) **open source contribution** 
