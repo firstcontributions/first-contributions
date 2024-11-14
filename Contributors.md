@@ -28,6 +28,7 @@
 - Hi! I'm Yujun W. Have a great day.
 - Hello, This is [Kenz](https://github.com/tzzkenz). Hoping to start my open source journey.  
 - Hi! I'm Hameem Shah. Have a nice day.
+- Hi, Rajat here, Hoping to help some great open source projects from now on!
 - Hi! I'm [Rayene]. Have a great day.
 - Hey! I'm Matthew Jinks
 - Hello, I'm osama nazar and this is my first open source contribution
