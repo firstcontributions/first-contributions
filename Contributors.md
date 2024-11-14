@@ -6,6 +6,8 @@
 - Hello, I'm [Jashan](https://github.com/Jashandeep2020). (**13 Nov 2024**) 
 - GarnetRaven was here!
 - Hi! This is Victor Tsai! 16:40, 14 Nov 2024
+- Hi! This is Victor Tsai! 16:40, 14 Nov 2024
+- Hi! This is Victor Tsai! 16:40, 14 Nov 2024
 - Hi! This is Victor Tsai! 14 Nov 2024
 - Hi! This is Yuvv! 13 Nov 2024
 - AJ here  **12-Nov-2024**
