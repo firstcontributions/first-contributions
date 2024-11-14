@@ -6967,6 +6967,7 @@ Philip Ambattu
 - [Magframed](https://github.com/SarthakH19)
 - [Kushal](https://github.com/kushal-p1699)
 - [Akshith](https://github.com/Akshith1998)
+- [Prajein] (https://github.com/Prajein) and.. (https://www.linkedin.com/in/prajeinck/)
 - [Michael]
 - [Mary Ejike](https://github.com/genejike)
 - [Gilbert Ozioma](https://github.com/gilbertozioma)
