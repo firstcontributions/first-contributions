@@ -3884,6 +3884,7 @@ git add Contributors.md# Contributors
 - sakcer
 - Brooke Smith
 - Matheus Jorge
+- Adarsh Kamble
 Sam Barns
 - [moddingforreal](https://github.com/moddingforreal)
 - [Shane Ludwig] (https://github.com/FoopyPoopy)
