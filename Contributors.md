@@ -9701,6 +9701,7 @@ hello, I'm Hichem and this is my first step towards greatness thanks for the opp
 - Hi! ! I'm [mec dot](https://github.com/43kNot) from New York City 🍎!
 - Hola! I'm [Erik Arrona] (https://github.com/erikarrona) from Houston, TX, USA! 
 - Hell World! I am [Christian Krahtz](https://github.com/CWKrahtz), from South Africa!
+- G'day mate, I'm Royce from Australia!
 - Hello! I'm [Bharath Kumar Murugan](https://github.com/bharathkumarmurugan) from India. This is a first start for me.
 - Hello! I'm [Sachin Anand](https://github.com/ssachin520280) from India.
 - Hello World from Peru! I'm Diego Trujillo | [🔗 LinkedIn](https://www.linkedin.com/in/diegotrujillop/) | [🐈‍⬛ Github]()
