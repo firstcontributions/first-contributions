@@ -8,6 +8,7 @@
 - GarnetRaven was here!
 - Hello World ! [judemin](https://github.com/judemin) was here ! - 14 Nov 2024 
 - Hi! Sumit here! 14 Nov 2024
+- Hi! this is Harsh, it's my first ever contribution
 - Hi! This is Victor Tsai! 14 Nov 2024
 - Hi! This is Yuvv! 13 Nov 2024
 - AJ here  **12-Nov-2024**
