@@ -316,6 +316,7 @@ Jesus-Bernal
 - Random contributions
 - HI I am Andrew!
 - Hi I am Camilla.
+-Patrick wuz here
 - Hi I am Alonso
 -hi ,i am learner
 -Hi , i am Gabriel Cerdio (https://github.com/yomero243)
