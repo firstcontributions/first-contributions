@@ -721,6 +721,7 @@ Hello, my name is **Autumn**! I'm a linguist from Minnesota. I'm currently study
 - Hey I'm Palozz
 - Hi I'm Justin
 - Hi, I'm Alberte
+- Luiz Augusto
 - Hi I'm Michael
 - Hi guys,I'm Ajay,eager to learn about Git and contribute to Open Source
 - Hi Friends, This is [Rajat Singh](https://github.com/Rajat3254/), Happy learning & Happy coding ! 
