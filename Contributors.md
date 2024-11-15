@@ -298,6 +298,7 @@ Hey its Wesley
 - Hello My name is Preston Mayieka (https://github.com/preston176)
 Hello World! I'm Oroitz Lago Ramos, I'm glad to start this new Open Source adventure!
 Jesus-Bernal
+- Ratnesh
 - Hello My name is Abdulquddus Ibrahim (https://github.com/xclusive09)
 - Hey 👋 I'm [HorebZ](https://github.com/HorebZ)
 - Hi I'm hibernathan1212!
