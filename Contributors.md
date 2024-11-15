@@ -25,6 +25,7 @@
 - HI! Sara here! 15 Nov 2024
 - Hi! This is Dattatreya. Learning how to contribute to Open Source.This is my first exercise **15-Nov-2024**
 - AJ here  **12-Nov-2024**
+- And as Simon entered the room, they all whispered in unison 'Hello World'
 - Hi! Tixa here wohooo *11/5/2024*
 - Hey, I'm Adrian from Mexico and I hope this is the beginning of something amazing! **14-Nov-2024**
 - Xinchao ! Toi la Trinh Mai
