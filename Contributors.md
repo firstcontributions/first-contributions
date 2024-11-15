@@ -6,6 +6,7 @@
 - Renata hier!
 - oi [Wender](https://github.com/was8)
 - Oi Wender, aqui é [Gah_S2](https://github.com/GahCunha) 
+- Olá! (Givanildo) (https://github.com/givasz)
 - Sachin **14-Nov-2024**
 - Ishan Here!(https://github.com/IshanRai9)
 - Hello world! This is antarctica!nice to meet u!
