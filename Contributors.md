@@ -131,6 +131,7 @@ hello open source world,Aarav this side from india .
 - Hi, Rian Ernesto has been here
 - Hi, My Name is SHEIKH ABDUL WAHID
 - Hey, Nathan was here today now!
+- Hi, I'm José Rodrigues
 - Hello, I am Shifra Fraiman 🌼
 - CYBERNETIC ANGEL was here (https://github.com/cyberneticangel)
 - Hello!  What a great group of contributors.  I'm happy to be among the greats! [GitHub](https://github.com/Tina-Sterite)
