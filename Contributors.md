@@ -1,5 +1,6 @@
 # Contributors
 -hello the gran man is in the HOUSE! gran (https://github.com/granman3)
+-Hello!! I am [Zafar](https://github/zafar205)
 -Hello! [Jake](https://github.com/Jacques8787)
 - oi [Wender](https://github.com/was8)
 - Sachin **14-Nov-2024**
