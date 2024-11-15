@@ -68,6 +68,7 @@ Hi genius developers:) I'm Miri starting with my first contribution with a high 
 - Hi, I'm Nixx
 - Hi, I'm Wilson (https://github.com/Wilsonf8)
 - Hi, I'm Gabor
+- Hello, I'm [Violin] (https://github.com/v-in-lin)
 - Hi, I'm Chimaroke David 
 - Hello i am Felipe :D
 - Big Comet Fan
