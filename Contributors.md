@@ -42,6 +42,7 @@
 - Hi, Rajat here, Hoping to help some great open source projects from now on!
 - Hi! I'm [Rayene]. Have a great day.
 - Hey! I'm Matthew Jinks
+- Hello everyone! I am Divyanshu. Nov 15/2024
 - Hello, I'm osama nazar and this is my first open source contribution
 - Hi! I'm Leo, getting started as an OS contributor. Find me at https://github.com/LeoBonjo
 - Yo 👋, I'm [Haripriyan R](https://github.com/konradjr007)
