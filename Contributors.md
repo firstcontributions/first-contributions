@@ -134,8 +134,8 @@ Yulia Lantzberg
 - [Mpara Romaric](https://github.com/sampleris) **2024/07/12 :)**
 - [Patrick Chukwu](https://github.com/Patrick-Chukwu) **Cheers to the first of many contributions in the OS, community.**J
 - [Jason Okahishie](https://github.com/jasonokhaishie) **this is my first contribution**
-- [Jonas Marcos](https://github.com/jonas-marcos) **Minha primeira contribuição**
-- [Miguel Pereira](https://github.com/migueltmpereira) **Esta é a minha primeira contribuição, a primeira de muitas! Coimbra e NEI <3**
+- [Jonas-Marcos](https://github.com/jonas-marcos) **Minha primeira contribuição**
+- [Miguel Pereira](https://github.com/migueltmpereira) **Esta é git add Contributors.mda minha primeira contribuição, a primeira de muitas! Coimbra e NEI <3**
 - Noo Dev **My first baby step of future contributions**
 - [Jyotirmoy Kashyap](https://github.com/jyotirmoy009) **2024/07/13: This is my first contribution 😍)**
 -[Seifolah Ghaderi](https://github.com/seifolah-ghaderi)
