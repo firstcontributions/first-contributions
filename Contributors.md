@@ -2022,7 +2022,8 @@ Yulia Lantzberg
 - [Tomas Rando](https://github.com/TomasRandoM) **Hello World!**
 -[Gu Zhuchang](https://github.com/Gu2thousand) **Hiiiii!,good start!**
 - [Jason Okahishie](https://github.com/jasonokhaishie) **this is my first contribution**
-- [Miguel Pereira](https://github.com/migueltmpereira) **Esta é a minha primeira contribuição, a primeira de muitas! Coimbra e NEI <3**
+- Jonas Marcos Dias Rocha **Minha primeira contribuição**
+- [Miguel Pereira](https://github.com/migueltmpereira) **Esta é git add Contributors.mda minha primeira contribuição, a primeira de muitas! Coimbra e NEI <3**
 - Noo Dev **My first baby step of future contributions**
 - [Gianluis Hernandez](https://github.com/Greeeni) **Hiya!!!**
 - Dyuthi Vivek
