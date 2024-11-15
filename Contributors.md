@@ -1,8 +1,9 @@
 # Contributors
--Hello there my name is Chard (https://github.com/ChardPeterz)
--hello the gran man is in the HOUSE! gran (https://github.com/granman3)
--Hello!! I am [Zafar](https://github/zafar205)
--Hello! [Jake](https://github.com/Jacques8787)
+- [Isaiah Stevens](https://github.com/isaiahstevens10) **First contribution. Let's goooo!!! 💪** 
+- Hello there my name is Chard (https://github.com/ChardPeterz)
+- hello the gran man is in the HOUSE! gran (https://github.com/granman3)
+- Hello!! I am [Zafar](https://github/zafar205)
+- Hello! [Jake](https://github.com/Jacques8787)
 - Renata hier!
 - oi [Wender](https://github.com/was8)
 - Oi Wender, aqui é [Gah_S2](https://github.com/GahCunha) 
