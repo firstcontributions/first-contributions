@@ -99,6 +99,7 @@ hello open source world,Aarav this side from india .
 - Hello World, I'am Mapathé Ndiaye from Senegal
 - Hi! I'm Franco Aurellano (https://github.com/frankkss)
 - Have a great day, contributors! kruza25
+- Hello, Rahul here 🙋🏾‍♂️ (https://github.com/Shady-45)
 - Hey contribting from Dublin 
 - I am Hermione Granger, and you are?
 - Hello everyone, I'm [Alleyway boop](https://github.com/Alleyway-boop)
