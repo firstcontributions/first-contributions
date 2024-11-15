@@ -9570,6 +9570,7 @@ Didac Vilarnau
 - Hi, I'm [romy] (https://github.com/parksaerom)
 - Selam, my name is [Leul Mesfin](https://github.com/leulmesfin). I'm from the USA!
 - Halo, saya [Rizal Hanafi](https://github.com/hana-ri). This contribution came from Bandung, Jawa Barat, Indonesia.
+- Hello from roleplay bsi22 (https://github.com/joaodoardo)
 - Hi, this is [JamesSand](https://github.com/JamesSand). Very happy to say hi to everyone here. I am looking for any chat or collaborations!. Feel free to email me to shazhizhou0@gmail.com
 - [Masa](https://github.com/Masa512411) Hello World!!!!!!
 - Hi everyone, my name is [Eugene Pryazhnikov], this isn't my first contribution :)(this not I do to consolidate knowledge).
