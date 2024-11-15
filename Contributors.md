@@ -7,7 +7,7 @@
 - AJ here  **12-Nov-2024**
 - Xinchao ! Toi la Trinh Mai
 - Hi! This is Dana! 11 Nov 2024. 
-- Hi! A panda was here.
+- Hi! Jeff was here.
 - Hi! This  Abdullah Ansir | Ml enginner [Abdullah Ansir](github.com/abdullah8644)
 - Ayayaya, Hola amigüitos ¡como estan! los saludo desde acá, por que allá estan ustedes. [***Starcondor***](https://github.com/starcondor) de <img title="México" alt="México" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/mx.svg" width="22">, desde el 11 de Noviembre de 2024.
 - Hi! This is Vanshika. 
