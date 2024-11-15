@@ -2738,6 +2738,7 @@ Esta es mi primera contribucion por parte de la URC
 - [Treasure Okafor](https://github.com/Teekafey) - My first contribution 
 yumi-kim-0827
  - [Kiran Kulkarni]
+ - Hi I'm Devno - adding to middle of file as instructed. This is my first contribution !!!
  - [Rachel "acha" Okorie]
  - [Mansoor Zafar](https://github.com/MansoorAZafar) This is my first contribution! This is my start!
  - [Jamie Jacobs]  MY SECOND CONTRIBUTION
@@ -9752,3 +9753,4 @@ hello, I'm Hichem and this is my first step towards greatness thanks for the opp
 - Hi! ! I'm [Remco Kersten](https://github.com/kerstenremco) from The Netherlands!
 - Hello! MayQuadros here.
 - Hi! ! I'm [Mahmoudreza Abbasi](https://github.com/spiritface57) from Canada!
+'
