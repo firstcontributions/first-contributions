@@ -1,4 +1,5 @@
 # Contributors
+-Hello there my name is Chard (https://github.com/ChardPeterz)
 -hello the gran man is in the HOUSE! gran (https://github.com/granman3)
 -Hello!! I am [Zafar](https://github/zafar205)
 -Hello! [Jake](https://github.com/Jacques8787)
