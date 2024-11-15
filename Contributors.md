@@ -6966,6 +6966,7 @@ Philip Ambattu
 - [Robert.M]
 - [Bernie Graves](https://github.com/bernie-graves)
 - [Tanner Summers](https://github.com/t-summ)
+- [Kurt San Jose](https://github.com/ssanjose)
 - [Arief Rahman](https://github.com/rahmanarief21)
 - [Jobayer Rahman](https://github.com/Jobayer98)
 - [Naufal Faqih K R](https://github.com/NaufR)
