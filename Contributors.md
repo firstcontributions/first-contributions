@@ -34,8 +34,6 @@
 - Hi! This is Dattatreya. Learning how to contribute to Open Source.This is my first exercise **15-Nov-2024**
 - AJ here  **12-Nov-2024**
 - Hi! Tixa here wohooo *11/5/2024*
-- Hey, I'm Adrian from Mexico and I hope this is the beginning of something amazing! **14-Nov-2024**
-- Xinchao ! Toi la Trinh Mai
 - Hi! This is Dana! 11 Nov 2024. 
 - Heyy! This is Kevin doing my first contribution wow.
 - Hi! This  Abdullah Ansir | Ml enginner [Abdullah Ansir](github.com/abdullah8644)
@@ -839,12 +837,8 @@ Hej! I'm Gustav from Stockholm, Sweden.
 - Hello Contributors!, It' me [Abdul Basit Khan ](https://github.com/abdulbasitkhandeveloper) here. Let's connect on [LinkedIn](https://www.linkedin.com/in/abdulbasitkhan925/). 
 - Hello, [Hope Walton](https://github.com/HopeWalton) here! Excited to contribute to the open source. Feel free to connect on [Linkedin](https://www.linkedin.com/in/hope-walton1994/)!
 - [Paulo Marchi](https://github.com/paulomarchi) **My first contribution**
-- [Pieter Stoop](...) **Hi there!**
-- Hello I'm Aditya
-- [░░▒▒▓▓██【jess】██▓▓▒▒░░](https://github.com/kielmarj)
-- Hello I'm Matt, this is my first contribution.
-- Hello I'm Mika, this is my first contribution.
 - Hello I'm Maria, this is my first contribution.
+- Gennaro
 - [h4n0sh1](https://github.com/h4n0sh1)**Hello world!**
 - **Hi! Im [Andy](https://github.com/ANDYzytnb)** *Come to play my games!* [Click!](https://github.com/ANDYzytnb/GuessTheNumber)
 - Hello everyone! I’m [Gayan Pathirage](https://github.com/Gayan-98git). **I’m happy to take my first steps into the open-source community.** 
