@@ -198,7 +198,7 @@ Hello, EricJDarnell is making his first open-sauce contribution!
 - Hi y'all, it's Gabe!
 - Hi GitHub!
 - Hi, it's Vishesh here
-- Hi, I'm Samar
+- Hi, I'm Samara
 - Hi, I am Aoao!(https://github.com/aoao1024)
 - [Aerobit](https://github.com/Aerobit) **B+**
 - [aungnyeinchan](https://github.com/aungNyeinChan)
