@@ -9774,3 +9774,4 @@ hello, I'm Hichem and this is my first step towards greatness thanks for the opp
 - Hi! ! I'm [Mahmoudreza Abbasi](https://github.com/spiritface57) from Canada!
 - Hi, I'm Wilson from CYOBot
 - Hi there, I'm Serene (https://github.com/serenebabu2022) from India
+- Sup, t'is I **[ALAZAR BISRAT](https://github.com/alzi00)**, nice to meet y'all, anyone else's first time? how about you reading this right now? my successor, I wish you luck on your journey, looking forward to your future, my future and anyone else reading this, you got this.
