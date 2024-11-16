@@ -77,6 +77,7 @@ Hello, I am Philipp
 Hi genius developers:) I'm Miri starting with my first contribution with a high ambition and a desire for challenge and progress.(https://github.com/mirimsten)
 - Hello, I am WBY
 - Hello, I am Hameem Hussain Shah
+- Gennaro
 - Hello, I'm Filippo, how's going on?
 - Hello, I am Vikesh S.
 - How do! I'm Paul from England
