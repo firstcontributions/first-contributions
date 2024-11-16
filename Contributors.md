@@ -20,6 +20,7 @@
 - Hi! Sumit here! 14 Nov 2024
 - Hi! this is Harsh, it's my first ever contribution
 - Hi! This is Victor Tsai! 14 Nov 2024
+- Hi! I'm Muhammed Jasir M & this is my first contribution!
 - Hi! This is Yuvv! 13 Nov 2024
 - Hi! Abraham here! 15 Nov 2024
 - Hi! This is [Vishwas]! It's my first contribution for AIML component detection https://github.com/Vishwasshe/GITPROXY-DETECTION **15th Nov 2024**
