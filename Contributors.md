@@ -6,7 +6,6 @@
 - Renata hier!
 - oi [Wender](https://github.com/was8)
 - Oi Wender, aqui é [Gah_S2](https://github.com/GahCunha) 
-- Olá [LuizFelipeLP](https://github.com/LuizFelipeLP)
 - Sachin **14-Nov-2024**
 - Ishan Here!(https://github.com/IshanRai9)
 - Hello world! This is antarctica!nice to meet u!
@@ -51,6 +50,7 @@
 - Hi! I'm Hameem Shah. Have a nice day.
 - Hello! Jadiel here starting from UF, Jesus is King! 11-14-24
 - Hi, Rajat here, Hoping to help some great open source projects from now on!
+- Hi, Jordan here. Hoping to contribute to more OpenSource projects
 - Hi! I'm [Rayene]. Have a great day.
 - Hey! I'm Matthew Jinks
 - Hello everyone! I am Divyanshu. Nov 15/2024
@@ -1001,6 +1001,7 @@ Hej! I'm Gustav from Stockholm, Sweden.
 - [Ramprasad Rajasegar](https://github.com/RamprasadRajasegar) **This is my first contribution**
 -[Alex](https://github.com/Alex-S1by)
 -[Aashika](https://github.com/aashika-j18)
+- [Carlos](https://github.com/carlosmperezm) 
 - [Nikhil] (https://github.com/nikcodefr) **First contribution :)**
 - [Wagner Rocha](https://github.com/WagnerRochaJ) **Hi Fellas**
 - [Mayur Tekale](https://github.com/mayurr7) *Hi everyone! follow me I will follow you back👨‍💻*
@@ -9571,6 +9572,7 @@ Didac Vilarnau
 - Hi, I'm [romy] (https://github.com/parksaerom)
 - Selam, my name is [Leul Mesfin](https://github.com/leulmesfin). I'm from the USA!
 - Halo, saya [Rizal Hanafi](https://github.com/hana-ri). This contribution came from Bandung, Jawa Barat, Indonesia.
+- Hello from roleplay bsi22 (https://github.com/joaodoardo)
 - Hi, this is [JamesSand](https://github.com/JamesSand). Very happy to say hi to everyone here. I am looking for any chat or collaborations!. Feel free to email me to shazhizhou0@gmail.com
 - [Masa](https://github.com/Masa512411) Hello World!!!!!!
 - Hi everyone, my name is [Eugene Pryazhnikov], this isn't my first contribution :)(this not I do to consolidate knowledge).
@@ -9757,3 +9759,4 @@ hello, I'm Hichem and this is my first step towards greatness thanks for the opp
 - Hi! ! I'm [Remco Kersten](https://github.com/kerstenremco) from The Netherlands!
 - Hello! MayQuadros here.
 - Hi! ! I'm [Mahmoudreza Abbasi](https://github.com/spiritface57) from Canada!
+- Hi, I'm Wilson from CYOBot
