@@ -22,6 +22,7 @@
 - Hi! Sumit here! 14 Nov 2024
 - Hi! this is Harsh, it's my first ever contribution
 - Hi! This is Victor Tsai! 14 Nov 2024
+- Hello, This is Ashu (https://github.com/Ashu-NT) and this is my first contribution
 - Hi! I'm Muhammed Jasir M & this is my first contribution!
 - Hi! This is Yuvv! 13 Nov 2024
 - Hi! Abraham here! 15 Nov 2024
