@@ -51,6 +51,7 @@
 - Hi! I'm Hameem Shah. Have a nice day.
 - Hello! Jadiel here starting from UF, Jesus is King! 11-14-24
 - Hi, Rajat here, Hoping to help some great open source projects from now on!
+- Hi, Jordan here. Hoping to contribute to more OpenSource projects
 - Hi! I'm [Rayene]. Have a great day.
 - Hey! I'm Matthew Jinks
 - Hello everyone! I am Divyanshu. Nov 15/2024
