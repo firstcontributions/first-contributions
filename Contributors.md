@@ -10,6 +10,7 @@
 - [Abstaina Ephraim](https://github.com/Abstaina44)
 - [Marko Cuk](https://github.com/MarkoCuk54)
 - [Arth Patel](https://github.com/Arthpatel01)
+- [Emilha de Souza](https://github.com/emilha-mg)
 - [Nick Gordon](https://github.com/ngordon68)
 - [rita faretra](https://github.com/peterston-e)
 - [Gaurav Katkade](https://github.com/gaurav-katkade)
