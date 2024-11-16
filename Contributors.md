@@ -24,6 +24,7 @@
 - Hi! I'm Muhammed Jasir M & this is my first contribution!
 - Hi! This is Yuvv! 13 Nov 2024
 - Hi! Abraham here! 15 Nov 2024
+  Hi! this is Vivek, it's my first ever contribution
 - Hi! This is [Vishwas]! It's my first contribution for AIML component detection https://github.com/Vishwasshe/GITPROXY-DETECTION **15th Nov 2024**
 - HI! Sara here! 15 Nov 2024
 - Hi! This is Dattatreya. Learning how to contribute to Open Source.This is my first exercise **15-Nov-2024**
