@@ -33,6 +33,7 @@
 - Hello, This is Ashu (https://github.com/Ashu-NT) and this is my first contribution
 - Hi! I'm Muhammed Jasir M & this is my first contribution!
 - Hi! This is Yuvv! 13 Nov 2024
+- Hello, I'm [Emrah](https://github.com/ozdemiremrah81). (**17 Nov 2024**) 
 - Hi! Abraham here! 15 Nov 2024
   Hi! this is Vivek, it's my first ever contribution
 - Hi! This is [Vishwas]! It's my first contribution for AIML component detection https://github.com/Vishwasshe/GITPROXY-DETECTION **15th Nov 2024**
