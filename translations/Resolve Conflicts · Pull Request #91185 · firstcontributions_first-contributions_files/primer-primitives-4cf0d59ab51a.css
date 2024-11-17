@@ -1,0 +1,202 @@
+/* CSS Layer definitions */
+@layer primer-css-base, primer-react, recipes;
+
+:root {
+  --base-size-2: 0.125rem;
+  --base-size-4: 0.25rem;
+  --base-size-6: 0.375rem;
+  --base-size-8: 0.5rem;
+  --base-size-12: 0.75rem;
+  --base-size-16: 1rem;
+  --base-size-20: 1.25rem;
+  --base-size-24: 1.5rem;
+  --base-size-28: 1.75rem;
+  --base-size-32: 2rem;
+  --base-size-36: 2.25rem;
+  --base-size-40: 2.5rem;
+  --base-size-44: 2.75rem;
+  --base-size-48: 3rem;
+  --base-size-64: 4rem;
+  --base-size-80: 5rem;
+  --base-size-96: 6rem;
+  --base-size-112: 7rem;
+  --base-size-128: 8rem;
+}
+
+:root {
+  --base-text-weight-light: 300;
+  --base-text-weight-normal: 400;
+  --base-text-weight-medium: 500;
+  --base-text-weight-semibold: 600;
+}
+
+:root {
+  --boxShadow-thin: inset 0 0 0 max(1px, 0.0625rem);
+  --boxShadow-thick: inset 0 0 0 max(2px, 0.125rem);
+  --boxShadow-thicker: inset 0 0 0 max(4px, 0.25rem);
+  --borderWidth-thin: max(1px, 0.0625rem);
+  --borderWidth-thick: max(2px, 0.125rem);
+  --borderWidth-thicker: max(4px, 0.25rem);
+  --borderRadius-small: 0.1875rem;
+  --borderRadius-medium: 0.375rem;
+  --borderRadius-large: 0.75rem;
+  --borderRadius-full: 624.9375rem;
+  --borderRadius-default: 0.375rem;
+  --outline-focus-offset: -0.125rem;
+  --outline-focus-width: 0.125rem;
+}
+
+:root {
+  --breakpoint-xsmall: 20rem;
+  --breakpoint-small: 34rem;
+  --breakpoint-medium: 48rem;
+  --breakpoint-large: 63.25rem;
+  --breakpoint-xlarge: 80rem;
+  --breakpoint-xxlarge: 87.5rem;
+}
+
+@media (pointer: coarse) {
+  :root {
+    --control-minTarget-auto: 2.75rem;
+    --controlStack-small-gap-auto: 1rem;
+    --controlStack-medium-gap-auto: 0.75rem;
+  }
+}
+
+@media (pointer: fine) {
+  :root {
+    --control-minTarget-auto: 1rem;
+    --controlStack-small-gap-auto: 0.5rem;
+    --controlStack-medium-gap-auto: 0.5rem;
+  }
+}
+
+:root {
+  --control-minTarget-fine: 1rem;
+  --control-minTarget-coarse: 2.75rem;
+  --control-xsmall-size: 1.5rem;
+  --control-xsmall-lineBoxHeight: 1.25rem;
+  --control-xsmall-paddingBlock: 0.125rem;
+  --control-xsmall-paddingInline-condensed: 0.25rem;
+  --control-xsmall-paddingInline-normal: 0.5rem;
+  --control-xsmall-paddingInline-spacious: 0.75rem;
+  --control-xsmall-gap: 0.25rem;
+  --control-small-size: 1.75rem;
+  --control-small-lineBoxHeight: 1.25rem;
+  --control-small-paddingBlock: 0.25rem;
+  --control-small-paddingInline-condensed: 0.5rem;
+  --control-small-paddingInline-normal: 0.75rem;
+  --control-small-gap: 0.25rem;
+  --control-medium-size: 2rem;
+  --control-medium-lineBoxHeight: 1.25rem;
+  --control-medium-paddingBlock: 0.375rem;
+  --control-medium-paddingInline-condensed: 0.5rem;
+  --control-medium-paddingInline-normal: 0.75rem;
+  --control-medium-paddingInline-spacious: 1rem;
+  --control-medium-gap: 0.5rem;
+  --control-large-size: 2.5rem;
+  --control-large-lineBoxHeight: 1.25rem;
+  --control-large-paddingBlock: 0.625rem;
+  --control-large-paddingInline-normal: 0.75rem;
+  --control-large-paddingInline-spacious: 1rem;
+  --control-large-gap: 0.5rem;
+  --control-xlarge-size: 3rem;
+  --control-xlarge-lineBoxHeight: 1.25rem;
+  --control-xlarge-paddingBlock: 0.875rem;
+  --control-xlarge-paddingInline-normal: 0.75rem;
+  --control-xlarge-paddingInline-spacious: 1rem;
+  --control-xlarge-gap: 0.5rem;
+  --controlStack-small-gap-condensed: 0.5rem;
+  --controlStack-small-gap-spacious: 1rem;
+  --controlStack-medium-gap-condensed: 0.5rem;
+  --controlStack-medium-gap-spacious: 0.75rem;
+  --controlStack-large-gap-auto: 0.5rem;
+  --controlStack-large-gap-condensed: 0.5rem;
+  --controlStack-large-gap-spacious: 0.75rem;
+  --spinner-strokeWidth-default: 0.125rem;
+  --spinner-size-small: 1rem;
+  --spinner-size-medium: 2rem;
+  --spinner-size-large: 4rem;
+  --stack-padding-condensed: 0.5rem;
+  --stack-padding-normal: 1rem;
+  --stack-padding-spacious: 1.5rem;
+  --stack-gap-condensed: 0.5rem;
+  --stack-gap-normal: 1rem;
+  --stack-gap-spacious: 1.5rem;
+  --overlay-width-xsmall: 12rem;
+  --overlay-width-small: 20rem;
+  --overlay-width-medium: 30rem;
+  --overlay-width-large: 40rem;
+  --overlay-width-xlarge: 60rem;
+  --overlay-height-small: 16rem;
+  --overlay-height-medium: 20rem;
+  --overlay-height-large: 27rem;
+  --overlay-height-xlarge: 37.5rem;
+  --overlay-padding-normal: 1rem;
+  --overlay-padding-condensed: 0.5rem;
+  --overlay-paddingBlock-condensed: 0.25rem;
+  --overlay-paddingBlock-normal: 0.75rem;
+  --overlay-borderRadius: 0.375rem;
+  --overlay-offset: 0.25rem;
+}
+
+@custom-media --viewportRange-narrow (max-width: calc(48rem - 0.02px));
+@custom-media --viewportRange-narrowLandscape (max-width: calc(63.25rem - 0.02px) and (max-height: calc(34rem - 0.02px)) and (orientation: landscape));
+@custom-media --viewportRange-regular (min-width: 48rem);
+@custom-media --viewportRange-wide (min-width: 87.5rem);
+@custom-media --viewportRange-portrait (orientation: portrait);
+@custom-media --viewportRange-landscape (orientation: landscape);
+
+:root {
+  --text-codeInline-size: 0.9285em;
+  --text-codeBlock-lineHeight: 1.5385;
+  --text-codeBlock-size: 0.8125rem;
+  --text-caption-lineHeight: 1.3333;
+  --text-caption-size: 0.75rem;
+  --text-body-lineHeight-small: 1.6666;
+  --text-body-lineHeight-medium: 1.4285;
+  --text-body-lineHeight-large: 1.5;
+  --text-body-size-small: 0.75rem;
+  --text-body-size-medium: 0.875rem;
+  --text-body-size-large: 1rem;
+  --text-subtitle-lineHeight: 1.6;
+  --text-subtitle-size: 1.25rem;
+  --text-title-lineHeight-small: 1.5;
+  --text-title-lineHeight-medium: 1.6;
+  --text-title-lineHeight-large: 1.5;
+  --text-title-size-small: 1rem;
+  --text-title-size-medium: 1.25rem;
+  --text-title-size-large: 2rem;
+  --text-display-lineHeight: 1.4;
+  --text-display-size: 2.5rem;
+  --text-display-lineBoxHeight: 1.4;
+  --fontStack-monospace: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;
+  --fontStack-sansSerifDisplay: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  --fontStack-sansSerif: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  --fontStack-system: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  --text-codeInline-weight: var(--base-text-weight-normal);
+  --text-codeBlock-weight: var(--base-text-weight-normal);
+  --text-caption-weight: var(--base-text-weight-normal);
+  --text-body-weight: var(--base-text-weight-normal);
+  --text-subtitle-weight: var(--base-text-weight-normal);
+  --text-title-weight-small: var(--base-text-weight-semibold);
+  --text-title-weight-medium: var(--base-text-weight-semibold);
+  --text-title-weight-large: var(--base-text-weight-semibold);
+  --text-display-weight: var(--base-text-weight-medium);
+  --text-codeInline-shorthand: var(--text-codeInline-weight) var(--text-codeInline-size) var(--fontStack-monospace);
+  --text-codeBlock-shorthand: var(--text-codeBlock-weight) var(--text-codeBlock-size) / var(--text-codeBlock-lineHeight) var(--fontStack-monospace);
+  --text-caption-shorthand: var(--text-caption-weight) var(--text-caption-size) / var(--text-caption-lineHeight) var(--fontStack-sansSerif);
+  --text-body-shorthand-small: var(--text-body-weight) var(--text-body-size-small) / var(--text-body-lineHeight-small) var(--fontStack-sansSerif);
+  --text-body-shorthand-medium: var(--text-body-weight) var(--text-body-size-medium) / var(--text-body-lineHeight-medium) var(--fontStack-sansSerif);
+  --text-body-shorthand-large: var(--text-body-weight) var(--text-body-size-large) / var(--text-body-lineHeight-large) var(--fontStack-sansSerif);
+  --text-subtitle-shorthand: var(--text-subtitle-weight) var(--text-subtitle-size) / var(--text-subtitle-lineHeight) var(--fontStack-sansSerifDisplay);
+  --text-title-shorthand-small: var(--text-title-weight-small) var(--text-title-size-small) / var(--text-title-lineHeight-small) var(--fontStack-sansSerif);
+  --text-title-shorthand-medium: var(--text-title-weight-medium) var(--text-title-size-medium) / var(--text-title-lineHeight-medium) var(--fontStack-sansSerifDisplay);
+  --text-title-shorthand-large: var(--text-title-weight-large) var(--text-title-size-large) / var(--text-title-lineHeight-large) var(--fontStack-sansSerifDisplay);
+  --text-display-shorthand: var(--text-display-weight) var(--text-display-size) / var(--text-display-lineHeight) var(--fontStack-sansSerifDisplay);
+}
+
+
+/*# sourceMappingURL=index.scss.map */
+
+/*# sourceMappingURL=primer-primitives-eda3a799388f.css.map*/
