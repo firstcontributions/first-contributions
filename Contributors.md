@@ -13,6 +13,7 @@ Hello, I'm [Hendrix Ejegi](https://github.com/hendrixejegi)
 - Have a great day, contributors! kruza25
 - Hey contribting from Dublin 
 - Heyyy shasha was here ;)
+- Hello, this is Vidisha! 
 - Hi! I´m Maximiliano Rodriguez from Argentina --> (https://github.com/RodriguezMaximilianoX)
 - Hello!👋 I'm [Jitendra Oza](https://github.com/jeet1293) from India.
 - Heyo! wolfj contribution
