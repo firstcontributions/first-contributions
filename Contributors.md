@@ -3725,6 +3725,7 @@ Tamar
 - dianzu-intellij
 - [AyoubRached] (https://github.com/ayoubrached)
 - [PedroJOHE](https://github.com/PedroJOHE)
+- [Qi Sun](https://github.com/QISUN000)
 [Aryan Yadav](https://github.com/aryanyaclav)
 - [Sai Pratham KH](https://github.com/Sai-Pratham05)
 - [Abhinav](https://github.com/Abhinav1326)
