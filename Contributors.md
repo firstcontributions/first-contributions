@@ -1,4 +1,5 @@
 # Contributors
+- Sup, I am Lorand Kiss, PHP and Javascript developer (https://github.com/LorandKissDev)
 - Howdy y'all! I am JJ this is very exciting!
 - Hello Everyone. I am Souvik Chowdhury (Siypher) [https://github.com/Siypher]. This is my first contribution.
 - 🚀 Hey there! I'm [Sabudh Thapa](https://github.com/tsabudh), a passionate Junior Software Engineer, excited to dive into open-source and make an impact! 🔥
