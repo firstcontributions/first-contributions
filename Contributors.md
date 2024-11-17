@@ -25,7 +25,7 @@ Hello, I'm [Hendrix Ejegi](https://github.com/hendrixejegi)
 - Hi, I am Shaukat Ali, and here is my [GitHub account](https://github.com/shau8122).
 - Hey , Rahim Baig started his Open_source Journey from here
 - Hii, This is Surya.
-- Hello there, its Arin 😜.
+- Hello there, its Arin 😒👌.
 - Hi, Rian Ernesto has been here
 - Hello, I am Shifra Fraiman 🌼
 - CYBERNETIC ANGEL was here (https://github.com/cyberneticangel)
