@@ -133,6 +133,7 @@ hello open source world,Aarav this side from india .
 - Hello , I am vinay from India
 - Hi, This is Hteasylearning- A Educational Platform
 - Hello, I'm [Brendon](https://github.com/zerosumhippo)
+- Hello, I'm [Nazia](https://github.com/NaziaJahanMeem)
 - Hello, I'm Ruhith here (https://github.com/ruhith777)
 - Hey, I am Alen Thomas (https://github.com/AIstar007)
 - Hi, This is Amatul Saboor
