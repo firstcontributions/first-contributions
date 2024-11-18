@@ -27,6 +27,7 @@
 - Hi! [Gurtej](https://github.com/gurtejrehal) was here!
 - Hello, I'm [Jashan](https://github.com/Jashandeep2020). (**13 Nov 2024**) 
 - Hello, I am [poojan](https://github.com/poojansakhreliya8050)
+- i'm Patrick Edosoma (https://github.com/patrick090)
 - GarnetRaven was here!
 - Hello World ! [judemin](https://github.com/judemin) was here ! - 14 Nov 2024 
 - Hi! Sumit here! 14 Nov 2024
