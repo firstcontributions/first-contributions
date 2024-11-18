@@ -1452,6 +1452,7 @@ Prajwal was here.
 - [Urvashi](https://github.com/Urvashi9776)**YAY**
 - - [bray2sick](https://github.com/bray2sick)**Hello World!**
 - [Lucas Larson](https://github.com/lucaslarson25) **hello**
+- [Tristan Liu](https://github.com) **My first contribution** 
 - [Sivasankar]
 - [Luis Guerra] (https://github.com/Luis-Guerra28) **The first of many lines**
 - [Vivek raj] (https://github.com/256bitguy) **Boom This is gonna my first  open source contribution!!!!**
