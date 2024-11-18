@@ -7,6 +7,7 @@
 - 🚀 Hey there! I'm [Sabudh Thapa](https://github.com/tsabudh), a passionate Junior Software Engineer, excited to dive into open-source and make an impact! 🔥
 - Hello 👋. I am [Jeff](https://github.com/aspects19). This is my first contribution.
 - Hey! This is [Kiara Maldonado](https://github.com/kiaramaldonado). Feels good to contribute!
+- Hey, this is [Joshua](https://github.com/joshua805080). this is my first contribution and 1st open source project.
 - Hello there i am Kumar Raunak
 -Hello there my name is Chard (https://github.com/ChardPeterz)
 -hello the gran man is in the HOUSE! gran (https://github.com/granman3)
