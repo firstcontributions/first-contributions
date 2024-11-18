@@ -14,6 +14,7 @@
 -Hello! [Jake](https://github.com/Jacques8787)
 -Hello! [PAVAN](https://github.com/pavankalyandadholu)
 - Renata hier!
+- Hey, it's me, Salsim Salsifi !
 - oi [Wender](https://github.com/was8)
 - Oi Wender, aqui é [Gah_S2](https://github.com/GahCunha) 
 - Olá! (Givanildo) (https://github.com/givasz)
