@@ -49,6 +49,7 @@
 - Hi! Tixa here wohooo *11/5/2024*
 - Hey, I'm Adrian from Mexico and I hope this is the beginning of something amazing! **14-Nov-2024**
 - Xinchao ! Toi la Trinh Mai
+- You know who I'm [krikera]
 - Hi! This is Dana! 11 Nov 2024. 
 - Heyy! This is Kevin doing my first contribution wow.
 - Hi! This  Abdullah Ansir | Ml enginner [Abdullah Ansir](github.com/abdullah8644)
