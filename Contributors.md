@@ -7239,6 +7239,7 @@ sh5ed
 - [Aman Pathan](https://github.com/AmanPathan)
 - [Saurabh hingade](https://github.com/sauravhingade)
 - [shinpy](https://github.com/shinyshinpy)
+- [Evander Jose Sutama](https://github.com/Evander-Jose)
 - [Andres Hernandez](https://github.com/andresFHM)
 - [Arbenis Acosta](https://github.com/ArbenisAcosta)
 - [Suren Maharjan](https://github.com/maharjansuren37)
