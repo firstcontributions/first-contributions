@@ -85,6 +85,8 @@ Salut! I am Mariam
 - Wassup
 - Hi! I'm [Rayene]. Have a great day.
 - Hey! I'm Matthew Jinks
+Hii there, I'm Javed Akhtar [Javed-Ak](https://javedakhtar.vercel.app)
+[GitHub](https://github.com/javed-ak)
 - Hello everyone! I am Divyanshu. Nov 15/2024
 - Hello, I'm osama nazar and this is my first open source contribution
 - Hi! I'm Leo, getting started as an OS contributor. Find me at https://github.com/LeoBonjo
