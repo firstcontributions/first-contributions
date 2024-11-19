@@ -4875,6 +4875,7 @@ guanj65
 - [Adrian Trandafir](https://github.com/XenoMee)
 - [Likith_S](https://github.com/LIKITHS2002)
 - [Able Abenaitwe](https://github.com/abenable)
+- [chris]
 - [demomail231]
 - [Aliiyu Sadiiq](https://github.com/sadiiqaliiyu)
 - [Farath Shba](https://github.com/farathshba)
