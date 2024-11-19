@@ -34,6 +34,7 @@ Salut! I am Mariam
 - Hi [Aftab](https://github.com/AftabShaikh)
 - Hi! [Gurtej](https://github.com/gurtejrehal) was here!
 - Hello, I'm [Jashan](https://github.com/Jashandeep2020). (**13 Nov 2024**) 
+- Hi, I'm [Shanmathan](https://github.com/Shanmathan) from India
 - Hello, I am [poojan](https://github.com/poojansakhreliya8050)
 - i'm Patrick Edosoma (https://github.com/patrick090)
 - GarnetRaven was here!
