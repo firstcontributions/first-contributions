@@ -151,6 +151,7 @@ hello open source world,Aarav this side from india .
 - Heyo! wolfj contribution
 - Greeting's everyone. PPRMAOD KUMAR here(https://github.com/Kumar88-pr)
 - Hello, Daniel was here!)
+- Hello, this is Addy Jaime from the Dominican Republic, [Addy Jaime] (https://github.com/AddyJaime)
 - Hello , I am vinay from India
 - Hi, This is Hteasylearning- A Educational Platform
 - Hello, I'm [Brendon](https://github.com/zerosumhippo)
