@@ -9802,6 +9802,7 @@ hello, I'm Hichem and this is my first step towards greatness thanks for the opp
 - Hello! I'm [Kevin Lupera](https://github.com/kevinlupera) from Ecuador 🇪🇨!!!
 - Hello ! I'm [Matteo](https://github.com/matteokocken) from France 🇫🇷 !
 - Hi! ! I'm [mec dot](https://github.com/43kNot) from New York City 🍎!
+- Hi! I'm  [Caio Magno](https://github.com/CaioRMagno), from Brazil! 
 - Hola! I'm [Erik Arrona] (https://github.com/erikarrona) from Houston, TX, USA! 
 - Hell World! I am [Christian Krahtz](https://github.com/CWKrahtz), from South Africa!
 - G'day mate, I'm Royce from Australia!
