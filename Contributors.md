@@ -123,6 +123,7 @@ Hi genius developers:) I'm Miri starting with my first contribution with a high 
 - Hello, I'm [Violin] (https://github.com/v-in-lin)
 - Hi, I'm Chimaroke David 
 - Hello i am Felipe :D
+- Hi, I'm Dale! (https://github.com/dale8nson)
 - Big Comet Fan
 - Hello i am Dariel Pereira
 - Hi, I am Keshav Rathi.Excited for my first contribution in open source.Looking forward to make more valuable contributions.
