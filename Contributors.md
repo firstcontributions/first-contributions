@@ -8177,6 +8177,7 @@ Hey there its Adarsh Rout aka ideal.x_
 - [Ayden]
 - [JVP] 💖LOVE💖
 - [Sadie Swen](https://github.com/tswen90) Slayyyyy 
+- [Morita Kohei](https://github.com/moriT958) From Japan 🇯🇵
 - [Radmehr Vafadar](https://github.com/RadmehrVafadar)
 - [Kaitlyn](https://github.com/kbrandt8)
 - [Wesley David](https://github.com/euchoba)
