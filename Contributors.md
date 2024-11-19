@@ -17,8 +17,8 @@ Hello, this is nithih kumar reddy
 -Hello!! I am [Zafar](https://github/zafar205)
 - 5h410M! _4r3C8b0 15 1N H3re
             -Hello!! I am [aieghbal](https://github.com/aieghbal)
--Hello! [Jake](https://github.com/Jacques8787)
--Hello! [PAVAN](https://github.com/pavankalyandadholu)
+        -Hello! [Jake](https://github.com/Jacques8787)
+        -Hello! [PAVAN](https://github.com/pavankalyandadholu)
 - Salam! [Hikmat](https://github.com/RamazanovTs/) **19-Nov-2024**
 - Renata hier!
 - Hey, it's me, Salsim Salsifi !
@@ -446,7 +446,7 @@ Hello I am Omar Torrijos Perez from UPSRJ
 - Heya glad to be here!
 - Hi! My name is Luis From Chile 🇨🇱!! (https://github.com/luch1u)
 - नमस्ते This is [Devesh] (https://github.com/devesh192)
-Hello! I am mn121mn121. First time trying.. ^_^
+  Hello! I am mn121mn121. First time trying.. ^_^
   -Hi! Am [LewisMoruri](https://github.com/Lewismoruri)..well am glad this is the first contribution I've made.
 - Hey I am Caiden.
 - Hello i am Ashed.
@@ -4535,7 +4535,7 @@ Hannah Sung
 - [Nimrod Kabiru](https://github.com/nimuragz)
 - [MuhammadNurHakimi] (https://github.com/nurhakimi97) i'm going to be the best developer in the world
  [111703012](https://github.com/caijinghong1468)
- [pentagonpie](https://github.com/pentagonpie)
+  [pentagonpie](https://github.com/pentagonpie)
 - [Praneeth Gourla] (https://github.com/praneethgourla18)
 - [Olha Zakharchevna](https://github.com/zakharchevna)
 - [Maxime de Montbron](https://github.com/mijnog/) Just learning how to code
@@ -4575,7 +4575,7 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
 - [william nyaranga](https://github.com/William-nyarash)
 - [Narek](https://github.com/Naki1995/first-contributions)
  [Adam Honvedo](https://github.com/Homvi)
--Tim Shurlock
+ -Tim Shurlock
 - [Blake Hill](https://github.com/Blake-Hill)<3
 - WL Hong: Hi from Hong Kong~ 
 - [Seo-Eun Kim] (https://github.com/SeoeunK)
@@ -8574,7 +8574,7 @@ guanj65
 - [Fabrício Queiroz](https://github.com/FabricioDeQueiroz)
 - [Aiden ALlred](https://github.com/AidenALlredOfficial)
  -[kami1152](https://github.com/kami1152)
- -[Yash Patel](https://github.com/Orca-Gemini23)
+  -[Yash Patel](https://github.com/Orca-Gemini23)
 - [imanolie](https://github.com/imanolie)
 - [Raphel6969](https://github.com/Raphel6969)
 - [perla-zg](https://github.com/perla-zg)
@@ -9826,3 +9826,4 @@ hello, I'm Hichem and this is my first step towards greatness thanks for the opp
 - [Mahmud Adegboyega] (https://github.com/MahmudChiv)
 - Hi, I'm Kelvin from Indonesia !
 - Hi, i am Edwin (https://github.com/emash90). By order of the .....
+- Hi, I'm Henriettaaaa(https://github.com/Henriettaaaa)
