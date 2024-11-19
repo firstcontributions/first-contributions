@@ -8211,6 +8211,7 @@ Hey there its Adarsh Rout aka ideal.x_
 - [Philani Mhlongo](https://github.com/PhilaniMhlongo/)
 - [Mridul Jaiswal](https://github.com/mriduljaiswal)
 - [Shahar Yair](https://github.com/shaharyair)
+- [Angelina](https://github.com/ahjsuy)
 - [Caleb McNevin](https://github.com/CalebMcNevin/)
 - [Xiaolin Liu](https://github.com/xliu40)
 - [YoshikiYUINE](https://github.com/YoshikiYUINE)
