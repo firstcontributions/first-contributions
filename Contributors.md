@@ -3,6 +3,7 @@
 - Hii Iam Nithin : [My GitHub] (https://github.com/devnithin)
 - Hi👋, I am [Shivam](https://github.com/ShivamMissar) and i'm ready  
 - qaffe was here :3 (https://github.com/qaffe)
+- Hey, Max here !
 - Hi, I am veenoise
 - Hi, I am [Melvyn](https://melvynx.com) and I made this changes for my courses [BeginWeb](https://codelynx.dev/beginweb)
 - Sup, I am Lorand Kiss, PHP and Javascript developer (https://github.com/LorandKissDev)
