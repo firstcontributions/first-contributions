@@ -1,11 +1,14 @@
 # Contributors
+- Hi Im Maduwantha : [My GitHub](https://github.com/Isanka-maduwantha)
 - qaffe was here :3 (https://github.com/qaffe)
 - Hi, I am veenoise
 - Hi, I am [Melvyn](https://melvynx.com) and I made this changes for my courses [BeginWeb](https://codelynx.dev/beginweb)
 - Sup, I am Lorand Kiss, PHP and Javascript developer (https://github.com/LorandKissDev)
 -Hello there my name is Agam (https://github.com/AgamJain05)
+-Hello there I am @¥!_!$|-|
 - Hey y'all! I am [Alexander Kurian](https://github.com/AlexKurian77). Excited for more contributions.
 - Howdy y'all! I am JJ this is very exciting!
+- Hello! My name is Divya Ganeshwala!
 Hello, this is nithih kumar reddy
 - Hello Everyone. I am Souvik Chowdhury (Siypher) [https://github.com/Siypher]. This is my first contribution.
 - 🚀 Hey there! I'm [Sabudh Thapa](https://github.com/tsabudh), a passionate Junior Software Engineer, excited to dive into open-source and make an impact! 🔥
@@ -18,6 +21,8 @@ Hello, this is nithih kumar reddy
 - 5h410M! _4r3C8b0 15 1N H3re
             -Hello!! I am [aieghbal](https://github.com/aieghbal)
 -Hello! [Jake](https://github.com/Jacques8787)
+- Hello 👋. I am [Ian](https://github.com/iankamar). Excited for more contributions.🚀
+-Hello! I am Ronit Tetarbe and this is my first contribution. 
 -Hello! [PAVAN](https://github.com/pavankalyandadholu)
 - Salam! [Hikmat](https://github.com/RamazanovTs/) **19-Nov-2024**
 - Renata hier!
@@ -32,6 +37,7 @@ Salut! I am Mariam
 - Ragavendra Madhavaraoh (https://github.com/ragavendrams) **18-Nov-2024**
 - Ishan Here!(https://github.com/IshanRai9)
 - Hello, this is Venkata Sai. (https://github.com/Ic-venkat)
+- Hi, this is Anna Rahn (https://github.com/anra8571) **November 20, 2024**
 - Hello world! This is antarctica!nice to meet u!
 - [Kok F](https://github.com/professionalvictim) **This is either the start of a journey or the beginning of the end. Or both, idk I'm just here for the ride.** 
 - Hi [Aftab](https://github.com/AftabShaikh)
@@ -123,6 +129,7 @@ Hi genius developers:) I'm Miri starting with my first contribution with a high 
 - Hello, I'm [Violin] (https://github.com/v-in-lin)
 - Hi, I'm Chimaroke David 
 - Hello i am Felipe :D
+- Hi, I'm Dale! (https://github.com/dale8nson)
 - Big Comet Fan
 - Hello i am Dariel Pereira
 - Hi, I am Keshav Rathi.Excited for my first contribution in open source.Looking forward to make more valuable contributions.
@@ -221,6 +228,7 @@ did it different
 - Hi, I'm Tharushi 
 - Hello! This is Nicol👋✨
 - Serbus!
+- Hi, this is Zyxavy (https://github.com/Zyxavy)
 - Hi I am saurabh
 - Hi, I'm Blake, nice to make your aquitance!
 - Hi, Sachin here!
@@ -283,6 +291,7 @@ Hey its Wesley
 - Hi, I'm Phung (https://github.com/gnuhpdiem)
 - olivgr was here
 - Bola 
+- Hello, my name is Cody Blomberg. I am a contributor. 
 - Hello I am Tanisha
 - [Gutrav Leonard](https://github.com/practicante010)
 - Hello, I am Harold Mendoza (https://github.com/Hroldddp)
@@ -1107,6 +1116,7 @@ Jojo
 - [Juan Christian](https://github.com/Juan-Christian-2711) **Hi from the Isle of Man!**
 - [Shylesh V R](https://github.com/ShyleshVR/) **Hey, there 😊**
 - [Selvamani S](https://github.com/selva-mani-007) **It's me Selvamani from MIT**
+- [harukats](https://github.com/harukats) **Hi! 😁**
 - [Robert McClung](https://github.com/Bobaliciousss) **Hi from Arizona!**
 - [Felipe Figueiredo](https://github.com/felipefigueiredo1) **Hi from Brazil**
 - [Tian Yi](https://github.com/ztygod) **my first time**
@@ -4875,6 +4885,7 @@ guanj65
 - [Adrian Trandafir](https://github.com/XenoMee)
 - [Likith_S](https://github.com/LIKITHS2002)
 - [Able Abenaitwe](https://github.com/abenable)
+- [chris]
 - [demomail231]
 - [Aliiyu Sadiiq](https://github.com/sadiiqaliiyu)
 - [Farath Shba](https://github.com/farathshba)
@@ -8210,6 +8221,7 @@ Hey there its Adarsh Rout aka ideal.x_
 - [Philani Mhlongo](https://github.com/PhilaniMhlongo/)
 - [Mridul Jaiswal](https://github.com/mriduljaiswal)
 - [Shahar Yair](https://github.com/shaharyair)
+- [Angelina](https://github.com/ahjsuy)
 - [Caleb McNevin](https://github.com/CalebMcNevin/)
 - [Xiaolin Liu](https://github.com/xliu40)
 - [YoshikiYUINE](https://github.com/YoshikiYUINE)
@@ -9835,3 +9847,12 @@ hello, I'm Hichem and this is my first step towards greatness thanks for the opp
 - Hi, i am Edwin (https://github.com/emash90). By order of the .....
 - Hii everyone, its me Sanya (https://github.com/snehee1) and this is my first contribution
 - [Nilay Sarma](https://github.com/nilaysarma)
+- [GregLiatsos](https://github.com/GregLiatsos)
+- Hello, I'm [Cade Wormington](https://github.com/wormington) from the USA. **Whatever you're doing, you're doing great! :)**
+hello,I'm burce_hong
+- Hi, I'm Freora (https://github.com/Freora) from Korean!
+- Hi,I'm Prasad (https://github.com/prasad-bigdp) from India. loved the repository.
+Hi,I'm Johns,(https://github.com/Sunhc11)from China,glad to meet yooooooou!
+- # hi github fam , Iam vinay and it's nice to meet y'all (https://github.com/vinay-333)
+- [Marco Freihöfer](https://github.com/Tuskpack)
+- Hi, I'm Rudolf (https://github.com/rudd6617) from Taiwan. I'm a beginner in GitHub.
