@@ -37,6 +37,7 @@ Salut! I am Mariam
 - Ragavendra Madhavaraoh (https://github.com/ragavendrams) **18-Nov-2024**
 - Ishan Here!(https://github.com/IshanRai9)
 - Hello, this is Venkata Sai. (https://github.com/Ic-venkat)
+- Hi, this is Anna Rahn (https://github.com/anra8571) **November 20, 2024**
 - Hello world! This is antarctica!nice to meet u!
 - [Kok F](https://github.com/professionalvictim) **This is either the start of a journey or the beginning of the end. Or both, idk I'm just here for the ride.** 
 - Hi [Aftab](https://github.com/AftabShaikh)
@@ -9853,3 +9854,4 @@ hello,I'm burce_hong
 - Hi,I'm Prasad (https://github.com/prasad-bigdp) from India. loved the repository.
 Hi,I'm Johns,(https://github.com/Sunhc11)from China,glad to meet yooooooou!
 - # hi github fam , Iam vinay and it's nice to meet y'all (https://github.com/vinay-333)
+- [Marco Freihöfer](https://github.com/Tuskpack)
