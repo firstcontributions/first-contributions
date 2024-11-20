@@ -28,6 +28,7 @@ Hello, this is nithih kumar reddy
 Hello!! I am Sharad https://github.com/shdmpa
 -Hello! I am Ronit Tetarbe and this is my first contribution. 
 -Hello! [PAVAN](https://github.com/pavankalyandadholu)
+- Hello! [jjoaom](https://github.com/jjoaom)
 - Salam! [Hikmat](https://github.com/RamazanovTs/) **19-Nov-2024**
 - Renata hier!
 - Saseni , naitwa [andi](https://github.com/andi-mache)
