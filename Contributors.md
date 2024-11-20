@@ -286,6 +286,7 @@ Hey its Wesley
 - Hi, I'm Phung (https://github.com/gnuhpdiem)
 - olivgr was here
 - Bola 
+- Hello, my name is Cody Blomberg. I am a contributor. 
 - Hello I am Tanisha
 - [Gutrav Leonard](https://github.com/practicante010)
 - Hello, I am Harold Mendoza (https://github.com/Hroldddp)
