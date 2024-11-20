@@ -25,6 +25,7 @@ Hello, this is nithih kumar reddy
             -Hello!! I am [aieghbal](https://github.com/aieghbal)
 -Hello! [Jake](https://github.com/Jacques8787)
 - Hello 👋. I am [Ian](https://github.com/iankamar). Excited for more contributions.🚀
+Hello!! I am Sharad https://github.com/shdmpa
 -Hello! I am Ronit Tetarbe and this is my first contribution. 
 -Hello! [PAVAN](https://github.com/pavankalyandadholu)
 - Salam! [Hikmat](https://github.com/RamazanovTs/) **19-Nov-2024**
