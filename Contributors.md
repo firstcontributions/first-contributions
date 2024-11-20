@@ -9863,4 +9863,5 @@ Hi,I'm Johns,(https://github.com/Sunhc11)from China,glad to meet yooooooou!
 - # hi github fam , Iam vinay and it's nice to meet y'all (https://github.com/vinay-333)
 - [Marco Freihöfer](https://github.com/Tuskpack)
 - Hi, I'm Rudolf (https://github.com/rudd6617) from Taiwan. I'm a beginner in GitHub.
+- Hi, I am Bill (https://github.com/BillECU) from Taiwan as well. I am a software engineer based in USA.
 - 👋 Hello, I'm [InfiniteVoid](https://github.com/Infinite0Void)!
