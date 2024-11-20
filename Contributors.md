@@ -27,6 +27,7 @@ Hello, this is nithih kumar reddy
 -Hello! [PAVAN](https://github.com/pavankalyandadholu)
 - Salam! [Hikmat](https://github.com/RamazanovTs/) **19-Nov-2024**
 - Renata hier!
+- Saseni , naitwa [andi](https://github.com/andi-mache)
 - Hi i am the ersan kuneri , Muhammet Ali YILDIZ mtech00 (https://github.com/mtech00)
 - Hey, it's me, Salsim Salsifi !
 - oi [Wender](https://github.com/was8)
