@@ -224,6 +224,7 @@ did it different
 - Hi, I'm Tharushi 
 - Hello! This is Nicol👋✨
 - Serbus!
+- Hi, this is Zyxavy (https://github.com/Zyxavy)
 - Hi I am saurabh
 - Hi, I'm Blake, nice to make your aquitance!
 - Hi, Sachin here!
