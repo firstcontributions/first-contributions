@@ -9845,3 +9845,4 @@ hello, I'm Hichem and this is my first step towards greatness thanks for the opp
 - [GregLiatsos](https://github.com/GregLiatsos)
 - Hello, I'm [Cade Wormington](https://github.com/wormington) from the USA. **Whatever you're doing, you're doing great! :)**
 hello,I'm burce_hong
+- Hi, I'm Freora (https://github.com/Freora) from Korean!
