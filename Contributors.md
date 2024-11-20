@@ -9842,6 +9842,9 @@ hello, I'm Hichem and this is my first step towards greatness thanks for the opp
 - Hi, I'm Kelvin from Indonesia !
 - Hi, i am Edwin (https://github.com/emash90). By order of the .....
 - Hii everyone, its me Sanya (https://github.com/snehee1) and this is my first contribution
+- Hi! I'm [Mehrab](https://github.com/m3hrab) from Bangladesh! 🇧🇩  
+  Thrilled to take my first step into open-source! 🛠️  
+  > "Every big journey starts with a small commit!" 🌱🚀 
 - [Nilay Sarma](https://github.com/nilaysarma)
 - [GregLiatsos](https://github.com/GregLiatsos)
 - Hello, I'm [Cade Wormington](https://github.com/wormington) from the USA. **Whatever you're doing, you're doing great! :)**
