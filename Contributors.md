@@ -4012,6 +4012,7 @@ Sam Barns
 - [StrawberryCrepe Cookie](https://github.com/StrawberyCrepeCookie)
 - [Georgios Alexandros Christodoulou](https://github.com/AlexBabkf)
 - [Alec Swift] (https://github.com/alecswift)
+- [Oscar Alberigo] (https://github.com/Oskito00)
 - [Carson Schildt](https://github.com/caronschildt)
 - [Jun Iwamoto](https://github.com/junffy)
 - [William Libero](https://github.com/William-Libero) 📲[LinkedIn](https://www.linkedin.com/in/williamlibero)
