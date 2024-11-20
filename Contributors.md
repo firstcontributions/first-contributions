@@ -1679,6 +1679,7 @@ Hello
 - [@Betsaleel237]
 - [Krsna Agrawal]
 - [Stackoverflow-addict]
+- [Erik Anil] (https://github.com/ErikAnil)
   [Pratik Sonawane](https://github.com/iampratik9)  **Hello,this is my first contribution trying out open source ,trying out something new.** 
 - [Rishabh Dang](https://github.com/Rish-1903) **This is my first open source contribution**
 - [Alex Duong] (https://github.com/AlexDuong93) **AI does not stop me from learning how to code**
