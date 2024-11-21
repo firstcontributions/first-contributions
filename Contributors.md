@@ -9886,4 +9886,6 @@ Hi,I'm Johns,(https://github.com/Sunhc11)from China,glad to meet yooooooou!
 - Hi, I am [TiSing](https://github.com/tiunnts) from Taiwan.
 - Hola, I am [Raul](https://github.com/rraulz) from Cantabria, Spain :D
 - Hello This is [Saurabh Sarage](https://github.com/saurabhsarage)
+- Hi, I am Rik, 10x developer. (https://github.com/R1K1001)
 - Supp this is AK! 
+
