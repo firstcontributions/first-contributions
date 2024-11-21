@@ -17,6 +17,7 @@
 - Hello! My name is Divya Ganeshwala!
 Hello, this is nithih kumar reddy
 - Hello Everyone. I am Souvik Chowdhury (Siypher) [https://github.com/Siypher]. This is my first contribution.
+-Hello Everyone. Myname is Hrutuja. This is my first contributions.
 - Hello Everyone. This is Farouk Fekih and you can call me watermelon.
 - 🚀 Hey there! I'm [Sabudh Thapa](https://github.com/tsabudh), a passionate Junior Software Engineer, excited to dive into open-source and make an impact! 🔥
 - Hello everyonr. This is Sri Tanya G.
