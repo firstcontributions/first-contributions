@@ -2943,6 +2943,7 @@ vrushabhpatil48
 - [Jorge Mendes](https://github.com/jorgemendes07) **Primeira contribuição!**
 - [Kaio Oliveira S](https://github.com/KaiSeabra) **Primeira Contribuição, salve Isaac**
 - [Isaac Larrubia](https://github.com/isaaclarrubia)
+- [Leonardo Ferreira](https://github.com/leoferreira9)
 - [matheusrcrf](https://github.com/matheusrcrf) **First Contribution 😎👍**
 - [Felipe Quierelli](https://github.com/FerelpsFelps)
 - [Victor Pansardis](https://github.com/victorpansardis)
