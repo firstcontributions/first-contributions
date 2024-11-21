@@ -23,6 +23,7 @@ Hello, this is nithih kumar reddy
 - Hello 👋. I am [Jeff](https://github.com/aspects19). This is my first contribution.
 - Hey! This is [Kiara Maldonado](https://github.com/kiaramaldonado). Feels good to contribute!
 - Hello there i am Kumar Raunak
+- Hi 👋 My name is Girgis Sami
 - hi there! I'm Charlie, nice to meet everyone! Go Dodgers :)
 -Hello there my name is Chard (https://github.com/ChardPeterz)
 -hello the gran man is in the HOUSE! gran (https://github.com/granman3)
