@@ -9524,6 +9524,7 @@ Didac Vilarnau
 - [Caleb Chandrasekar](https://github.com/calebjubal) **BB9Kairo is my name**
 - [Zeke](https://github.com/sackeyetrue) **Fueled by Curioisty, Powered by Passion**
 - [YuklidD](https://github.com/YuklidD) **Hello, Dakshana from Sri Lanka**
+- **Hello, from Kenya, Nairobi** [Michael Mwai](https://github.com/MichaelMwai)here. Let's connect on [LinkedIn](https://www.linkedin.com/in/michael-mwai-6b351216a/).
 - **Hello, from Kenya** [Njoro90260](https://github.com/Njoro90260)here. Let's connect on [LinkedIn](https://www.linkedin.com/in/peter-njoroge-71b689251/).
 - Samuel G
 - [**Arivuselvan Chinnasamy**] (https://github.com/arivuselvanchinnasamy). Let's connect on [LinkedIn](https://www.linkedin.com/in/arivuselvanchinnasamy/).
