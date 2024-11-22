@@ -824,7 +824,7 @@ Thisarani Gunathilaka
 Hello, my name is **Autumn**! I'm a linguist from Minnesota. I'm currently studying tehnical writing. Check out my profile here [https://github.com/autumnlem]
 - Hi I'm Pratyusha
 - Namaste, I'm Lochan
-  Hi I'm Maxi
+  Hi I'm kriti
 - Hi I'm Adam
 - Heyy I'm Sathwik :)
 - Kirmada
