@@ -9441,7 +9441,7 @@ vivek saskar
 - [roushannn] (https://github.com/roushannn) ***Hi everyone! Excited to start contributing!***
 - [Layton Chandler](https://github.com/chandlerkl96)
 - [Tharusha Dilhara](https://github.com/TDila) **Hello, this is my first open source contribution**
-
+- Hi! My name is [Dunanes](https://github.com/dunanes), and i'm a CS student from Brazil. Hello!
 - [Prahlad](https://github.com/PrahladKing) **This is my entry into open source and my first contribution**
 - [Gaurav Latpate](https://github.com/latpategaurav/first-contributions) **First open source contribution!**
 - [R S T](https://github.com/RichardTabaka/first-contributions) **Here goes nothing 🎃**
