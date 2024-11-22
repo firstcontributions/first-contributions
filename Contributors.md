@@ -8705,7 +8705,6 @@ guanj65
 - [LXTKay]
 - [bergsj] (https://github.com/bergsj)
 - [Siddarth Sangavi](https://github.com/Siddarthsangavi)
-- Hi! I'm [Juan Daniel](https://github.com/JuanDaniel00), from Colombia. Have a nice day if you read this.
 - [Daniele Messina](https://github.com/MessinaDev)
 - [rysya] (https://github.com/rysya2000)
 - [Pramodh Ugargol] (https://github.com/PRAMOMDHUGARGOL)
