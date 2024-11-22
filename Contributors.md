@@ -3013,12 +3013,14 @@ vrushabhpatil48
 - [leesxs](https://github.com/leesxs) **First contribution! Live long and prosper 🖖**
 - [Deep Sresthi](https://github.com/Deepsresthi)
 - Phoebe Muthoni
+- Kenneth Blake [Github](https://github.com/kennyblake88)
 - [Omkareshwar Nath Dwivedy](https://github.com/Dwivedy2)
 - [Rajath Hongal](https://github.com/rajathongal)
 - [Avantikka](https://github.com/avanti146)
 - [Aditya Hongal](https://github.com/adityahongal)
 - [Roopesh](https://github.com/Roopasdev)
-- [NSchiffmacher](https://github.com/NSchiffmacher) 🚀🚀
+- [NSchiffmacher](https://github.com/NSchiffmacher) 🚀🚀i
+- [KennyBlake88](https://github.com/KennyBlake88) **Hey guys! My first contribution! To the next peron who puts something below me, how are you? :)**
 - Kazu Sakamoto
 - Hi it's [Elias](https://github.com/eliasnorta). Good luck to everyone getting into open source! 6.10.2024
 - [Shay] (https://github.com/Devid3000/first-contributions) **Hello World! My first contribution :)**
