@@ -1279,6 +1279,7 @@ wowww
 - [Aryan Jand](https://github.com/aryanjand) **I'd love to learn more from amazing repositories like this one!**
 - [Salman Mehdi](https://github.com/salmanrh02) **First contribution :)**
 - [Asier Ortiz](https://github.com/asier-ortiz) **My first open source contribution, thanks to First Contributions for making it so easy! 🚀**
+- Hi!
 - [Nava Sasson](https://github.com/NavaSasson/first-contributions) **First contribution**
 - [Milan Ram](https://github.com/milanram) **First contribution**
 - [Anuj Parwal](https://github.com/Raltoos) **Ready to learn**
