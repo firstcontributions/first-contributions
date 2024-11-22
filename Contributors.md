@@ -424,6 +424,7 @@ Jesus-Bernal
 - Hi I'm hibernathan1212!
 - Hello, I am RenBin.
 - Hello i am Dorin.
+- Hi, I'm Faizan Hussain. <a href="https://www.linkedin.com/in/faiizanhussain/">Let's connect</a>
 - Hello! My name is Devyn Johnson. Let's collaborate! <a href="https://github.com/DevynJohnson"target="_blank">Github</a> | <a href="https://www.linkedin.com/in/devyn-johnson-a5259213b"target="_blank">LinkedIn</a>
 - Yo Guys DJB was here
 - Greetings Earthlings! They call me LeighaD.
