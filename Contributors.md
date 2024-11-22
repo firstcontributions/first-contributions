@@ -1187,7 +1187,8 @@ Jojo
 - [Felipe Figueiredo](https://github.com/felipefigueiredo1) **Hi from Brazil**
 - [Tian Yi](https://github.com/ztygod) **my first time**
 - [Ryan Todd](https://github.com/r2neatha) **Hello :)**
-- [Sivert] **Hi!**
+- [Sivert] **Hi!
+- Hello
 - [Kevin Christie](https://github.com/Maximus7395) **Hello everyone, my first contribution to open source** 
 - [Abhinav Pandey](https://github.com/Abhinav2656) **Hey, there this is my first contribution to open source!**
 - [N1femi](https://github.com/N1femi) **Literally confused rn but it will diminish as time passes ;)**
@@ -9563,6 +9564,7 @@ vivek saskar
 - [Ruben Betancourt](https://github.com/rubittor) **Hola chamo, a comer arepas!**
 - [Vito93](https://github.com/1effortlessness) hello from vito!
 Didac Vilarnau
+- [Rahul](https://github.com/RahulKumarThukral) Hello, I'm new here.
 -[Pranav Deshpande](https://github.com/pranav-112) Trying out open source contributions and i have not no idea why this name in readme file thing is done. Thank you.
 - [Franco Blanco](https://github.com/FrancoBlanco93) **Saludos desde Argentina wachines**
 - [Montserrat Lopez](https://github.com/cutmountain) **So excited with my first contribution!**
