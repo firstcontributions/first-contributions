@@ -22,6 +22,7 @@ Hey everyone! Greetings from Risav. I am [Risav Kumar Jha](https://github.com/ri
 -Hello I'm Gail Parazo ⋆°✩👻
 - Hey, Max here !
 - Hi, I am veenoise
+- Hello I am Shane 
 - Hello, I am somanath Mikali
 - I am from INDIA
 - Hi, I am [Melvyn](https://melvynx.com) and I made this changes for my courses [BeginWeb](https://codelynx.dev/beginweb)
