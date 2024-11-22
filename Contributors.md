@@ -1,4 +1,5 @@
 
+
 # Contributors
 
 - Hi ny name is [Mario Abarca] (https://github.com/PrograMario12) from México
@@ -1728,6 +1729,7 @@ source
 - [Jake Shi](http://jakeshi.github.io/) **have i contributed before? maybe. anyway, hi**
 - Hi I am [Azzami](https://github.com/sternrest) this is my first contribution :D
 - [Ashish Dabral](https://github.com/DexAsHisH)
+- [Brenda Szuszczewicz](https://github.com/brendaSzu) **first commit**
 - [Vibhum](https://github.com/vibhum15) **Hey I'am new hear , connect me hear and all the best for your open source journey**
 - [P Chatman] (https://github.com/pchatman) **Hello✌️** 
 - [Sasha Persaud](https://github.com/soshwosh) **New grad making her first open source commit! Better late than never :p**
