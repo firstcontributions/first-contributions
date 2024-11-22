@@ -5689,6 +5689,7 @@ Jasmine
 - [gpalacios26] (https://github.com/gpalacios26/curso-git-fork)
 - [Fahad Shoaib] (https://github.com/Fahad-S94)
 - [Mounish Nanu](https://github.com/mounish123)
+- [Juan Sarmiento](https://github.com/JuanEnriqueSF)
 - [Ravi Teja]
 - [Damian Di Lodovico] (https://github.com/ddilodovico) ** Happy Coding! **
 - [Vasu]
