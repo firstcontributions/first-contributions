@@ -1,3 +1,4 @@
+
 # Contributors
 Hey everyone! Greetings from Risav. I am [Risav Kumar Jha](https://github.com/risavjhagithubrit) from India.
 - Hi hi hi
@@ -611,6 +612,7 @@ Hi, i am dev
 - Hello I'm Adarsh
 - Hi I am [Raay](https://github.com/raay95) and I am trying to learn this git thing and I hope I will be able to keep up with this and help open-source!!
 - yo
+- Hi! I'm Sarah from the US. 
 -Hi, Im [Aditi Manthri](https://github.com/aditi-manthri)
 - Hi, Im [Blondestan](https://github.com/Blondestan)
 - Hi, Im [MangPi](https://github.com/Mangpi4code)
