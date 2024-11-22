@@ -9656,6 +9656,7 @@ Didac Vilarnau
 - Hey there first contribution from [Francisco Molina](https://github.com/GhostlyCoder20)
 - **Hey there this is my second contribution from India** [Nikson](https://github.com/Nikson2003)
 - [Katarzyna Srebro](https://github.com/ksrebro-dev) **Hello Open Source!*
+- [Bruno Almeida da Silva](https://www.google.com.br) **Hello Rio de Janeiro**
 - [Servet Isikli](https://github.com/servetisikli)
 - Hey world, my name is Hayden White out of LA, thank you for this experience! (https://github.com/HK-White)
 -[Rishita Badole](https://github.com/rishita-badole)
