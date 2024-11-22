@@ -3,7 +3,6 @@
 - Srushti Sachdev
 - Aamish Ahmad Beg
 - Jack Hunter
-- Nikolas (ICH)
 - [Ridampreet](https://github.com/ridampreet)
 - [Rachelle Buske](https://github.com/rachelle-dbuske)
 - [Adeboye Famurewa](https://github.com/fadarboye) 😀 I was here.
@@ -58,6 +57,7 @@
 - [mr-xcode](https://github.com/mr-xcode)
 - [TKO(https://github.com/2-lazyyyy)
 - Kaat
+- Nikolas (ICH)
 - [Abhinav](https://github.com/Abhinav1326)
 - [Jordan K](https://marinersjk00)
 - [Asaad Shaikh](https://github.com/scramerr)
