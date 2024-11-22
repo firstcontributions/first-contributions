@@ -632,6 +632,7 @@ Hi, i am dev
 - Hey! I'm Nilanshu Ranjan (https://github.com/NilanshuRanjan)
 - Oi! Eu sou o [focarica](https://github.com/focarica), diretamente do Brasil 🇧🇷.
 - Hey! I'm [Aditya](https://github.com/AdityaSinha2305) and it's my first open source contribution.
+- Hey, I am [zkbys](https://github.com/zkbys) ✨ this is my first open-source contribution. 💪
 - Hello there, I'm Jack and this is my first open source contribution!
 - Hello, this is a very useful contribution
 - Hello, this is [bbyoda](https://github.com/tridungng).
