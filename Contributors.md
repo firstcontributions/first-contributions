@@ -1581,6 +1581,7 @@ Prajwal was here.
 - [Abhinandan Singh](https://github.com/abhinandan29) **☻**
 - [Zexam0](https://github.com/Zexam0) **;> You do your fisrt contributions to open source ;> You are happy to contribute** 
 - [Agamjot Bedi](https://github.com/agxmbedi) **Hi agam this side**
+- [Usman](https://github.com/UsmanIftikhar921) **Newbie dev here**
 - [Gabriel Lipaysa](https://github.com/Er000s) **I am now ready for world domination**
 - [Nalindu Melaka](https://github.com/NalinduMelaka)***This is my contribution***
 - [April Gloreanne Mactal](https://github.com/reanneee) **very demure**
