@@ -9669,6 +9669,7 @@ Didac Vilarnau
 - [ymzhang-cs](https://github.com/ymzhang-cs) Hello! I'm a student from BJTU. Nice to meet you!
 - Hey, I'm [Chia-Lin](https://github.com/ChiaLinz), an AI Engineer with experience in AI and data science. Excited for my first open source contribution!
   Hey,I'm [GGG-xsb],a student from China .And I'm so glad to take a part in a new program and add MYNAME.Wish all then best;
+- [Łukasz Jargieło](https://github.com/KingJargielo)**I am starting my programming route! Hello for everyone!**  
 - Hi, my name is [Saeed](https://github.com/saeedcmk), and I'm a **Frontend Developer** from Iran .
  hi, my name is [wang15653572782],a student from china.
  - [aaa9471] my first contribution! (https://github.com/aaa9471)
