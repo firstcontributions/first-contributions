@@ -2184,6 +2184,7 @@ Yulia Lantzberg
 -[Aryan Shrivastava](https://github.com/aryan-labs) **My first contribution**
 -[Kaitlin Carleton](https://github.com/KaiPlusLin) **7/28/2024 My First Open source contribution.** 
 -[Dylan Loomis](https://github.com/dloomis0) **July 24, 2024. Wooooo!**
+-Hey Guys... Bal here🙃
 - Ashwin Varma (Excited to contribute to open source!)
 -[Kiet Ly](https://github.com/kietly2k) **Hi Open source world!**
 -[Sumit Sagar](https://github.com/mostpalon3)**Just continue coding and fall in love with it.(btw I am a Web Developer)**
