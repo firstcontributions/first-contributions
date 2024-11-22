@@ -9868,6 +9868,7 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - [Patrycjusz Kowalski](https://github.com/patrycjuszkowalski)
 - [minkokolinn](https://github.com/minkokolinn) Hi everyone! This is Min Ko Ko Linn.
 - hi i'm wintervoid (she/her). I can't wait to start contributing on github! [Profile](https://github.com/wintervoid)
+- Hi. I'm Mariné du Plessis, cant wait to help.
 - Hi. I'm Mareli (she/her). Can't wait to help!
 - Hi! Kilroy was here!
 [Cameron Godwin](https://github.com/GodwinCameron) 👹
