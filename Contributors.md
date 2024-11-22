@@ -9378,6 +9378,7 @@ vivek saskar
 - [Samet](https://github.com/sametmarasli) **hello world!**
 - [Tarun Sharma](https://github.com/tarunsharmawee)**My first contribution**
 - [Haaris](https://github.com/haaris7) **I did a thing**
+- [Arpit Kuriyal](https://github.com/arpitkuriyal) **HELLO THIS IS MY FIRST STEP TO THE OPEN SOURCE JOURNEY AND IN NEXT 3 MONTH I WILL WORK HARD AND CRACK THE GSOC2025**
 - [Prateek Rath](https://github.com/PrateekRath) **I did a thing**
 - [Henry Nicollas Issicaba Neves](https://github.com/henrynicollasissicaba) **My first open source contribution**
 - [Kandarp Dave] (https://github.com/Kandarp08)
@@ -9576,6 +9577,7 @@ Didac Vilarnau
 - [Aaditi](https://github.com/AADITI-NIRFARAKE) **This is my first contribution. I hope to have many more in the future!**
 - [Jun Y]
 - [Lasantha Mudalige](https://github.com/lasanthamudalige/)
+- [Arpit Kuriyal](https://github.com/arpitkuriyal) **HELLO THIS IS MY FIRST STEP TO THE OPEN SOURCE JOURNEY**- 
 - [Noorulhuda Usman](https://github.com/Noorulhuda-Usman) **Hello from Pakistan. My first open source contribution!**
 - [batikinha](https://github.com/batikinha) **Just doing my first open source contribution** 
 - [Raff Prams](https://github.com/Pramsh) **Don't let your intrusive thought win.** 
