@@ -3701,6 +3701,7 @@ Abhinav Jain
 - [Svetlin Ivanov](https://github.com/zensii)
 - [Davide Menghini] (https://github.com/davidemenghini)
 - [Mashhoor Ahdal](https://github.com/mashhoorahdal)
+- [matilopezz] (https://github.com/matilopezz)
 - [KPN](https://github.com/ComputerPhoneNaing)
 - [Vernell C.](https://github.com/VCGithubCode) 🎸⭐️
 - [TZH](https://github.com/ThawZin1804)
@@ -6324,6 +6325,7 @@ Parthiv Saikia
 -[B Naga Vignesh](https://github.com/BNVignesh)
 - Davide Coppola
 -[RushilShandilya](https://github.com/RushilShandilya)
+- [matilopezz] (https://github.com/matilopezz)
 -[Akshath-dev](https://github.com/Akshath-dev)
 - [Siddharth](https://github.com/Siddharth194)
 - [Jesus-Rojas](https://github.com/Jesus-Rojas)
