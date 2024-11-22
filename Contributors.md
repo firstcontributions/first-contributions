@@ -307,6 +307,10 @@ Hey its Wesley
 - Hello, contributing for the first time: Piotr Wierzbicki [wierzpio](https://github.com/wierzpio)
 - Hey, I'm Josh. What's up. [GitHub](https://github.com/joshm-cn)
 - Oya! This is [Pritha](https://github.com/prithak01). Me'vaar ti gar?
+- **Lahcen ELORF| 💻 Full Stack Software Engineer | Was Here.**  [🌐 LinkedIn](https://www.linkedin.com/in/lahcenelorf/) | [👨‍💻 Github](https://github.com/ELORF-Lahcen )
+- Hello, I am Adharsh Rajavel (https://github.com/adharshr15)
+- Ray Wienand
+- **Gaurav Kumar Thakur| 💻 Frontend Engineer| Was Here.**  [ LinkedIn](https://www.linkedin.com/in/gaurav22719/) | [👨‍💻 Github](https://github.com/DJ-LIFE)
 - **Lahcen ELORF| 💻 Full Stack Software Engineer | Was Here.**  [🌐 LinkedIn](https://www.linkedin.com/in/lahcenelorf/) | [👨‍💻 Github](https://github.com/DJ-LIFE)
 - Hello, I am Adharsh Rajavel (https://github.com/adharshr15)
 - Ray Wienand
