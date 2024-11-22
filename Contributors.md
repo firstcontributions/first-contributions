@@ -9891,6 +9891,7 @@ hello, I'm Hichem and this is my first step towards greatness thanks for the opp
 - Hi everyone. That's my first contribution for not mine repo! Hope I'll cope with more complex 'others' stuff in nearest future :) . [🔗 https://github.com/kilogrampaliwa]
 - New to this, but excited to learn! [🔗MarzSP](https://github.com/MarzSP)]
 - Hello ! [Serif OZ](https://github.com/SerifOZ)
+- Hello, I'm Erik!
 - Hi everyone! I am Nishtha(https://github.com/Nishtha-Parashar).
 - Hello, I'm Hussain(https://github.com/Akhlaqi-Hussain)
 - Hello Aekarin beginner .
