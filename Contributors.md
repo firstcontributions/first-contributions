@@ -723,6 +723,9 @@ Yo Guys I'm Yibran, [Yibran-A-Calidonio](https://github.com/Yibran-A-Calidonio).
 - Hello World! Dedeepya here, excited to contribute to open source! [dd1235](https://github.com/dd1245) Do connect with me!
 Hi am [Jambong Ralpher](https://github.com/Jambong-Ralpher).Love to connect with y'all
 - Hey there! I'm [Anuj Kumar](https://github.com/anuj846k). Let's connect, collaborate, and grow together in the vast ocean of ***Open Source*** 🌊.
+- **Hey, I'm [Nand Patel](https://github.com/Nand1904), and this is my first leap into the world of open-source contributions!** 🚀 As a software developer with a passion for solving complex problems, I'm *excited* to start giving back to the community that has taught me so much.
+> **My focus** is on clean, efficient code and tackling challenges with a fresh perspective—whether it's fixing bugs, enhancing features, or contributing new ideas. I'm eager to collaborate, learn, and make a positive impact. *Let's build something awesome together!* 💻✨
+Check out my personal portfolio: **[my-brown-portfolio.com](https://my-brown-portfolio.com)**
 - Hey, I'm [Sara](https://github.com/sara-mat100) and it's my first open source contribution.
 - Hey, I'm [Kalash](https://github.com/kalashb) and it's my first open source contribution.
 - Hey, I'm [Ajay Achugatla](https://github.com/AjayAchugatla) and it's my first open source contribution.
