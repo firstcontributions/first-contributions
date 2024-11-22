@@ -9830,6 +9830,7 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi this is gc
 - Hi guys, I'm Rodbit.Lead! I wish you all good studies and patience :). (https://github.com/rodbit-lead)
 - Hello everyone this is Rita 🤓
+- Hey lads, Francis here. God loves you!
 - Hi, I'm [softkern](https://github.com/softkern)
 - [Nomop](https://github.com/Nomop) **Time to get started!**
 - Hi, I'm Rohit Thimaya
