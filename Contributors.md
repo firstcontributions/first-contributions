@@ -1,5 +1,4 @@
 # Contributors
-Hey everyone! Greetings from Risav. I am [Risav Kumar Jha](https://github.com/risavjhagithubrit) from India.
 - hey everyone! Greetings from Cyprus, I am [bluemindset](https://github.com/bluemindset).
 - Hi! I'm [Lucas](https://github.com/lucasmartins-92/) from Brazil.
 - woow! first contribution made. I am [Kwesi](https://github.com/Kwesi-dev).
@@ -4973,6 +4972,7 @@ Gyanendra Thakur
 - [Patrick Yeung](https://github.com/eampat)
 - [Leonardo Lopes] (https://github.com/leonardo-lopes-br)
 - [Steve Armstrong] (https://github.com/W0474997SteveArmstrong)
+- Hey everyone! Greetings from Risav. I am [Risav Kumar Jha](https://github.com/risavjhagithubrit) from India.
 - Marcos
 -[Nunda Elroy] (https://github.com/NundaElroy)
 - [Andres Riaño] (https://github.com/afrianodev)
