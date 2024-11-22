@@ -1915,6 +1915,7 @@ Theresia Calista
 - [samarth1011-1](https://github.com/samarth1011-1) **LMAO HELLO**
 - [Matias Sonoda](https://github.com/matiasSonoda) **Hello ! mi primer contribucion me siento tan perdido esto me ayudo bastante**
 - [Abhijeet_Mate](https://github.com/Abhijeet314/)**Learning**
+
 - Hemant Gupta here!!
 - Dean Eby
 - Jesus Enrique Tomas Rodriguez Mac Lean was here.
@@ -5497,6 +5498,7 @@ Jasmine
 - [Jonathan Orme](http://github.com/ShadowAndFlame)
 - [Sampei](https://github.com/minihei)
 - [CharanMarasi](https://github.com/Charan-Marasi) 
+- [lakshmirajvagu](https://github.com/lakshmirajvagu) 
 - [Rathish Kumar](https://github.com/RATHISHKUMAR07)
 - [Varun Jaiswal]
 - [Bryan Cetani] (https://github.com/cetanibp)
@@ -9020,6 +9022,7 @@ Hector
 - [yumi-kim-0827](https://github.com/yumi-kim-0827)
 - [Rithik Roshan](https://github.com/Rithik1010)
 - [Kotni Vamsi Sai](https://github.com/thevamsithecoder)
+-[Lakshmirajvagu](https://github.com/lakshmirajvagu)
 - [ElijahSource](https://github.com/ElijahSource)
 - [SudarshanJadhav](https://github.com/sjadhav07)
 - [Andres Quiroga] (https://github.com/AndresQ-Dev)
