@@ -680,6 +680,7 @@ Yo Guys I'm Yibran, [Yibran-A-Calidonio](https://github.com/Yibran-A-Calidonio).
 - Hi, it's [Yaman](https://github.com/yyamandevrim) from Turkey
 - Hi, it's [Haseeb](https://github.com/HaseebIjaz) from Pakistan
 - Hey, I'm Zaid and it's my first open source contribution.
+- Hello, I am Ahamefuleizundu; this my first contribution.
 - Hello, I am Mushtaq and this is my first contribution (https://github.com/IOutis)
 - hi, I'm jojo and I'm so lost 
 - Hey, Its Jenil [Jenil1217](https://github.com/Jenil1217), making my first open source contribution.
@@ -9658,6 +9659,7 @@ Didac Vilarnau
 - [Itsuren](https://github.com/ITSUREN) from Nepal, nice to be here.
 - [ChrissiWi] (https://github.com/ChrissiWi)
 - [ffreed101] my first contribution! (https://github.com/ffreed101)
+- [codymathews1995] Hello world, my name is Cody! (https://github.com/codymathews1995)
 - [shaowei] **Hello World!** 
 - [francastev] **HELLO!**
 - Hey, I'm [Matias Lopez](https://github.com/matilopezz) and this is my **first time contributing to another GitHub repository!** from Argentina!
