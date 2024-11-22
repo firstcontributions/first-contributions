@@ -9888,6 +9888,8 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - HI i am PDP
 - Hi I'm [Mohamad Jamous](https://github.com/mohamadjamous), Mobile Developer, this is my first contribution.
 - Hi, my name is J g'day all
+[Alexander Ch](https://github.com/ac-webdesign)
+- hello, Badri here (https://github.com/AngulaBadrinath) * feelin Good *
 - Hello. Alexander here (https://github.com/ac-webdesign)
 - hello, Badri here (https://github.com/AngulaBadrinath) * feelin Good *
 - [You Feng](https://github.com/yf101112) Willing to contribute to AI projects!
