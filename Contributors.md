@@ -2005,7 +2005,7 @@ Rudraksh Upadhyay- learing to contribute in open source projects
 -[Prabhat Ghimire] **grinding my way**
 - [Michael Callahan] **hello**
 - [Kanhav Vohra] **First Contribution**
-- [Peter Jia] **First Contribution**
+- [Peter Jia] **First Contribution!! Hello World!!**
 - [iotaAryan21] **It's my First Open Source Contribution**
 -[Aksal Abiahta T](https://github.com/aksalatdev)**Hello From Indonesia**
 -[Ayman Badouzi](https://github.com/itzAymvn)
