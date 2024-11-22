@@ -2575,6 +2575,7 @@ Akash Abraham
 - [Ephraim Beltran](https://github.com/ephraim-beltran)
 - [heywhf](https://github.com/heywhf)
 - [aoi-hiraeth](https://github.com/aoi-hiraeth)
+- [Shalom Riona Fernandes](https://github.com/shalomrionafernandes)
 - [Praveen Pandi](https://github.com/PravinPandi)
 - [Abiha Sami](https://github.com/CodingBiyu)
 
@@ -3111,4 +3112,3 @@ pig
 - [Oshea Osarumwense](https://github.com/wense02)
 - [Arian Dervishaj](https://github.com/ArianDervishaj)
 - [Aashan Javed](https://github.com/Aashan47)
-- [Shalom Riona Fernandes](https://github.com/shalomrionafernandes)
