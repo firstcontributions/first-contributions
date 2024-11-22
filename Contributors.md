@@ -1881,6 +1881,7 @@ Hello
 Parth Bhovad
 - [Samantha Adams](https://github.com/honeydewdrop) **Did personal project, now first contribution. Yippee!**
 - [Asrith Atluri](https://github.com/SouthernPolaris/) **This is an open source contribution. Planning to make many more from now on**
+- Vladimir Cezar
 - [Rishika Chatterjee](https://github.com/RishikaC06) **First open source contribution.**
 - [Hanzel Godinez](https://github.com/hgodinez89) **First open source contribution!**
 - [Roostersalad24] (https://github.com/Roostersalad24) **First open sourch contribution!!**
