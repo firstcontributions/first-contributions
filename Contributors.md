@@ -1321,6 +1321,7 @@ wowww
 - [Marcus Quibol]
 - [Farhan Abbas]
 - [Jeffrey Hoelzel]
+- Hi, I’m [Qiara Lee](https://github.com/Qiara-Lee)! Excited to start my open-source journey on GitHub and grow with this amazing community.
 - [Fran Diaz]
 - [Remus](https://github.com/TheDude-Dude) **I'll look back on this**
 - Chad W
