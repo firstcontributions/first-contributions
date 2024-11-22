@@ -9676,6 +9676,7 @@ Didac Vilarnau
 - Hi, I'm professor [Rafael Santos](https://github.com/rafaelssantos).  I'm a professor of Computer Science. This is a demonstration for my students.
 - Hi, I'm professor [Rafael Santos](https://github.com/rafaelssantos).  I'm a professor of Computer Science. This is a demonstration for my students.
 - Hello, I am [Auntie Yafe](https://github.com/auntieyafen). Danke!
+- Hello, I am [Nalaka Dinesh](https://github.com/NalakaDineshSamarasingha). Good to Go.
 - Hi there, greetings!
 - Hello there, this is Alex and I am learning how to contribute to open source
 - Hi, I am Sagar!
