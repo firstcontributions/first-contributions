@@ -1,6 +1,8 @@
 
 # Contributors
-Hey everyone! Greetings from Risav. I am [Risav Kumar Jha](https://github.com/risavjhagithubrit) from India.
+
+- Hi ny name is [Mario Abarca] (https://github.com/PrograMario12) from México
+- Hey everyone! Greetings from Risav. I am [Risav Kumar Jha](https://github.com/risavjhagithubrit) from India.
 - helo my name is lapulapu from filipino land.
 - Hello! I am Hence! (https://github.com/hencethepyramids)
 - Hi hi hi
