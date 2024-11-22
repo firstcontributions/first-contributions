@@ -37,6 +37,7 @@ Hello, this is nithih kumar reddy
 - Hello everyonr. This is Sri Tanya G.
 - Hello 👋. I am [Jeff](https://github.com/aspects19). This is my first contribution.
 - Hey! This is [Kiara Maldonado](https://github.com/kiaramaldonado). Feels good to contribute!
+- Hey, this is [Joshua](https://github.com/joshua805080). this is my first contribution and 1st open source project.
 - Hello there i am Kumar Raunak
 - Hi 👋 My name is Girgis Sami
 - hi there! I'm Charlie, nice to meet everyone! Go Dodgers :)
