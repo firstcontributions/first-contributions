@@ -9886,6 +9886,7 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, I'm Mário Vinícius.
 - Hi, I'm [Genard Rey](https://github.com/oslo19/) this is my first contribution, First stepping-stone to become a Full Stack Developer.
 - HI i am PDP
+- Hi I'm [Mohamad Jamous](https://github.com/mohamadjamous), Mobile Developer, this is my first contribution.
 - Hi, my name is J g'day all
 - Hello. Alexander here (https://github.com/ac-webdesign)
 - hello, Badri here (https://github.com/AngulaBadrinath) * feelin Good *
