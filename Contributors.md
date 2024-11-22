@@ -490,6 +490,7 @@ Hello there , I am avisek . this is my another contribution in open source.
 - Hi, I'm Hubert!
 - Hi, I am [Swetha Ganapathi Raman](https://github.com/swethag04)
 - Hi iam Chiru !!
+- Hi, I am Nelly!!
 - Hi, I'm [Dhruv Jain](https://github.com/Dhruv-Jain36)
 - Hi I'm Logan Tolbert (https://github.com/logan-tolbert)
 - Hi, Vansh here. Not my first open-source contribution but getting back into it
