@@ -9955,6 +9955,7 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 Thursday, 7 November 2024 (IST)
 - Hi, this is Brandon 
 - Hi, [VioletBenin](mailto:violetbenin@outlook.com) here! :) | Software Engineer | [📲 LinkedIn](https://www.linkedin.com/in/beining-xu-714475284/) | [📦 Github](https://github.com/violetbenin)
+- Hi, this is Rich
 - Hi, I'm Konglon
 - Hey, I'm [Shatayu Khante](mailto:shatayukhante@gmail.com)! I would love to connect with you , here is my [linkedIn](https://www.linkedin.com/in/shatayu-khante-74a081252/) and [📦 Github](https://github.com/Shatayu001)
 - I'm [Wheval](https:://github.com/wheval) , just had to do this 😂✌
