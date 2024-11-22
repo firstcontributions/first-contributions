@@ -9539,6 +9539,7 @@ vivek saskar
 - [Abhineet Sahay](https://github.com/Abhineetsahay) **First Contribution**
 - [Dimas Wahyu Utomo](https://github.com/dimaswahyu-official) **First Contribution**
 - [Habeebah Muse](https://github.com/Habeebah157) **Habeebah's First Contribution**
+- [Deepak Kumar Ray](https://github.com/deepakray4all) **Deepak's First Contribution**
 - [Raman Luhach](https://github.com/Raman-Luhach) ** Happy Coding **
 - [Alex Sthali](https://github.com/AlexSt14) ** My First Contribution **
 - [Cheader the coder](https://github.com/cheaderthecoder) **My First Contribution At 22-08-2024 10:39:10-AM ETC**
