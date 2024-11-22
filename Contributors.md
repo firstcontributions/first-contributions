@@ -9936,6 +9936,8 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hello World!
 - Hey, Manoj here from Nepal!!
 - Hello, SB here!
+- Why hello there, I am kaizen. I will bloom flowers all around me.
+- Hello, my name is Grace. 
 - James Paing Oo - Softwre Engineer (https://github.com/JamesPaing)
 - Helllo guys, never stop learning!!!
 - Hi I'm [Dev], happy to learn!!
