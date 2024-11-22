@@ -582,6 +582,7 @@ Hello guys![Bharath], Excited in this jourmey!
 Hi, i am dev
 - Hello, I'm Sergio
 - atlas <3
+- 
 - Hii, I'm Anshul Malik
 - Hello my name is Daniel
 - Hi, I'm Masahiro and it's my first contribution to opensource!
@@ -951,6 +952,7 @@ Hej! I'm Gustav from Stockholm, Sweden.
 - Hi, I'm Ash, this is my 1st contribution
 - **Hi myself [Kaushal Bhatt], this is m,y first contribution** 
 - Hello everyone, myself Anupsinh Chauhan.
+- [Eduardo Sanchez](https://github.com/SirEduardo)
 - [yousseftarhri](https://github.com/yousseftarhri), hello world
 - [Samuel Wachira](https://github.com/Leader254), **_My First Contribution_** 
 - Hello I'm [Ugochukwu Chizaram](https://github.com/ugochukwu-850) just putting down my flag.
