@@ -9651,6 +9651,7 @@ Didac Vilarnau
 - [Srijan Baniyal](https://github.com/Srijan-Baniyal) **Second year of hacktoberfest. First PR to the Second year. Cheers.**
 - [Irfan Ansari](https://github.com/IRFANSARI) **First**
 - [Guilhermne Fernandes do bem](https://github.com/GuilhermeFer29) **Hello Brasil**
+- [Taina Augusto Taliari] (https://github.com/TainaTaliari)*Hello from Brasil - IFPR **
 - [Mayara Menezes](https://github.com/MayaraMenezes) **Olá, Brasil**
 - [Joey da Souza](https://github.com/joeydasouza) **Bom dia familia vascaina!!**
 - [Ângelo de Oliveira Camargo](https://github.com/anglobox)
