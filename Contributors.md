@@ -2502,6 +2502,8 @@ mh
 -[Shifa Shaikh](https://github.com/Shifa10) **open source -contribution**
 - [Suvan Shenoy](https://github.com/suvanshenoy) **open source contribution**
 - [Abhinav mohandas](https://github.com/itsabhinavm) ***First open source contribution***
+- [Farouk Sedick](https://github.com/sedfarouk) --
+***Hello everyone, this is Farouk, a problem solver looking to connect with people that push me to my limits. I'm open to collaborating on software engineering and machine learning projects 🔥💻***
 - [Hilton Cabral](https://github.com/hjccabral) ***My first contrib!***
 - [Maitreyi Sinha](https://github.com/maitreyyi/)***My first contrib!***
 - [Abdul Khaliq](https://github.com/realabdulkhaliq) *Started **GitHub Certification Track** to become a feature **AI Engineer**. Already **Python** and **Azure AI** Certified*
