@@ -16,6 +16,7 @@
 - Hey I'm Jaw Gum Hkawng (https://github.com/jawgumhkawng)
 - qaffe was here :3 (https://github.com/qaffe)
 - Hey, It's Bibek and ready to slay open-source(https://github.com/bibek-mahat)
+-Hello I'm Gail Parazo ⋆°✩👻
 - Hey, Max here !
 - Hi, I am veenoise
 - Hi, I am [Melvyn](https://melvynx.com) and I made this changes for my courses [BeginWeb](https://codelynx.dev/beginweb)
