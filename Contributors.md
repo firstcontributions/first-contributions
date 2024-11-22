@@ -9423,7 +9423,7 @@ vivek saskar
 - [roushannn] (https://github.com/roushannn) ***Hi everyone! Excited to start contributing!***
 - [Layton Chandler](https://github.com/chandlerkl96)
 - [Tharusha Dilhara](https://github.com/TDila) **Hello, this is my first open source contribution**
-
+- [Eleazar Hernandez](https://github.com/ehernandez42) **Hello! Happy to be a part of the community!**
 - [Prahlad](https://github.com/PrahladKing) **This is my entry into open source and my first contribution**
 - [Gaurav Latpate](https://github.com/latpategaurav/first-contributions) **First open source contribution!**
 - [R S T](https://github.com/RichardTabaka/first-contributions) **Here goes nothing 🎃**
