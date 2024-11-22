@@ -1,4 +1,3 @@
-
 # Contributors
 Hey everyone! Greetings from Risav. I am [Risav Kumar Jha](https://github.com/risavjhagithubrit) from India.
 - Hello! I am Hence! (https://github.com/hencethepyramids)
@@ -11,6 +10,8 @@ Hey everyone! Greetings from Risav. I am [Risav Kumar Jha](https://github.com/ri
 - Yo, I'm Benjamin and I'm here to crash the party, [here's my github](https://github.com/BAKAJ77).
 - Howdy, my name is Boo!
 - Nour-eddine was Here!!
+- Hello, I'm [Hassan R](https://github.com/hassanraha) and it's my first open source contribution.
+- Testing out CLI, aprv
 - Hello, I am Corey. [My GitHub](https://github.com/KCM45)
 - Hi I'm Jahnavi and I'm thrilled to embark on my open source journey!
 - Hello, I am @alexiwisteria and I am a code wizard in training! So happy to be here! here is my github (https://github.com/alexiwisteria)
