@@ -3628,7 +3628,6 @@ v0idborne
 - TiPa7 (https://github.com/TiPa7) 
 - Aamish Ahmad Beg
 - Jack Hunter
-- Diego Campos **I'm Batman**
 - Arjun K
 - Shivam G (https://github.com/gargshi)
 - Yash  nicee
