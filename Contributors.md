@@ -9658,6 +9658,8 @@ Didac Vilarnau
 - [Katarzyna Srebro](https://github.com/ksrebro-dev) **Hello Open Source!*
 - [Servet Isikli](https://github.com/servetisikli)
 - Hey world, my name is Hayden White out of LA, thank you for this experience! (https://github.com/HK-White)
+-[Rishita Badole](https://github.com/rishita-badole)
+-Hey there, This is my second contribution towards doing many more in future **Hello Open Source Contributions!*
 - Hi :) this is my first contributions by [misim3](https://github.com/misim3).
 - Hello People!
 - Hi I'm [Tatheer](https://githb.com/T-Fathima) and this is my first contribution.
