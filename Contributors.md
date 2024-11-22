@@ -1218,6 +1218,7 @@ Jojo
 - [Drew McGee](https://github.com/drewmcgee) **begins with a single step.**
 - [ManuHN](https://github.com/manu-hn) `Code for change: This is the beginning of something big.`
 - [Aditya Medhane](https://github.com/flash1729) ** This is the start of my legendary Open-Source Journey...**
+- [Sayuri] (https://github.com/Sayo18) **Hola Mundo**
 - [Chani Shain](https://github.com/ChaniShain)**Code is fun**
 - [Vin Rayudu](https://github.com/vinDelphini) **Here we go**
 - [Juan Christian](https://github.com/Juan-Christian-2711) **Hi from the Isle of Man!**
