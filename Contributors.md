@@ -8885,6 +8885,7 @@ utthamr
 - [kinshuk-code-1729] (httsps:github.com/kinshuk-code-1729) : I was also here.... !!!!
 - [Katsu0424](https://github.com/Katsu0424/)
 - [Tom Koevoets](https://github.com/tomkoevoets)
+- [Amanda Stone] (https://github.com/ladyfenharel) **Thanks for making a genuinely lovely practical contribution to the community!**
 - [Dimitar Nikolov]
 - [Le Van Huong](https://github.com/lvhuong221)
 - [Trevor Streng](https://github.com/TrevorStreng) First contribution!
