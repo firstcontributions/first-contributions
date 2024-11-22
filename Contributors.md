@@ -235,7 +235,8 @@ hello open source world,Aarav this side from india .
 - Hi! [Reilly] (https://github.com/reimidd7)
 - Kotsonis Ioannis from Greece!
 - Hello there!, I am [Rajat Yadav](https://github.com/RajatYadav01) and this was my first contribution to open source.
-- Twisha Patel -- Twix is here. I hope I give back. TADA! -- [Find me here](https://github.com/twix402)            
+- Twisha Patel -- Twix is here. I hope I give back. TADA! -- [Find me here](https://github.com/twix402)          
+- Hi I'm Fosforito47, un gusto en conocerlos  
 - Mukul was here
 -hi, it's vignesh from pondicherry
 - Karol here ;) https://github.com/Kar977
