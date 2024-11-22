@@ -9663,6 +9663,7 @@ Didac Vilarnau
 - [Srijan Baniyal](https://github.com/Srijan-Baniyal) **Second year of hacktoberfest. First PR to the Second year. Cheers.**
 - [Irfan Ansari](https://github.com/IRFANSARI) **First**
 - [Guilhermne Fernandes do bem](https://github.com/GuilhermeFer29) **Hello Brasil**
+- [jairo bevilaqua madalosso](https://github.com/jairomadalosso) ** BEM VINDO AO BRASIL** 
 - [Alfa Charlie](https://github.com/alfacharlie53) **Hello Brasil**
 - [Samantha Gomes da Silva](https://github.com/Samantha-SilvaG) **Oi, tudo belezinha?**
 - [Bianca](https://github.com/biiah18) **Hello from Brazil!**
