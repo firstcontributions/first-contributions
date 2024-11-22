@@ -9686,6 +9686,7 @@ Didac Vilarnau
 - [Itsuren](https://github.com/ITSUREN) from Nepal, nice to be here.
 - [ChrissiWi] (https://github.com/ChrissiWi)
 - [ffreed101] my first contribution! (https://github.com/ffreed101)
+- https://github.com/mrmagicpotato007 Hello, this is magicpotato
 - [codymathews1995] Hello world, my name is Cody! (https://github.com/codymathews1995)
 - [shaowei] **Hello World!** 
 - [francastev] **HELLO!**
