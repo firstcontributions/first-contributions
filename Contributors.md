@@ -19,6 +19,8 @@
 -Hello I'm Gail Parazo ⋆°✩👻
 - Hey, Max here !
 - Hi, I am veenoise
+- Hello, I am somanath Mikali
+- I am from INDIA
 - Hi, I am [Melvyn](https://melvynx.com) and I made this changes for my courses [BeginWeb](https://codelynx.dev/beginweb)
 - Sup, I am Lorand Kiss, PHP and Javascript developer (https://github.com/LorandKissDev)
 -Hello there my name is Agam (https://github.com/AgamJain05)
