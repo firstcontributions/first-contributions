@@ -9834,6 +9834,7 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, I'm Tehreem Sultan from Pakistan.
 - Hello! I'm G [Profile] (https://github.com/bartech-g).
 - Hi, I'm [Tomohiro](https://github.com/871tomohiro) from Japan, this is my first contribution.
+- Hi, I'm [Safura](https://github.com/SAPHURAH)from Ghana, this is my first contribution.
 - Hi, I'm [Manuel Luvuvamo](https://github.com/manuelluvuvamo) from Angola...
 - Hi, I'm Pelletia (https://github.com/abpelletia) from Togo
 - Simon Geary
