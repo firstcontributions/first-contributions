@@ -221,7 +221,7 @@ hello open source world,Aarav this side from india .
 - Hii, This is Surya.
 - Hello there! Greetings from Clara
 - Hello, I'm Omar! (https://github.com/Mirohhh).
-= Hi, Karen here!
+- Hi, Karen here!
 - Hello, I'm Shantanu Gupta. This is my first contribution.
 - Hi, Rian Ernesto has been here
 - Hi, My Name is SHEIKH ABDUL WAHID
