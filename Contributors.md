@@ -21,6 +21,7 @@
 - Hey y'all! I am [Alexander Kurian](https://github.com/AlexKurian77). Excited for more contributions.
 - Howdy y'all! I am JJ this is very exciting!
 - Hello! My name is Divya Ganeshwala!
+- Hello Jose here!
 Hello, this is nithih kumar reddy
 - Hello Everyone. I am Souvik Chowdhury (Siypher) [https://github.com/Siypher]. This is my first contribution.
 - Hello Everyone, [Srikanth9793](https://github.com/Srikanth9793). This is my First contribution.
