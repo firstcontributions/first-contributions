@@ -926,6 +926,7 @@ Hej! I'm Gustav from Stockholm, Sweden.
 - Hello World!, [Tristan](https://github.com/13tristan) from PHILIPPINES. This is my first contribution and i was so excited!. Hope to work with you again in future guys!! :))
 - Hello everyone this is my first contribution check my github profile [GitHub](https://github.com/Priyank-Aggarwal1024)
 - [Dumitrescu Richárd Ádám] (https://github.com/Trescu) **newbie**
+- [Shantanu Shinde] ** First Contributions to Open Source. Very Cool and Amazing
 - [Saikrishna1504] (https://github.com/Saikrishna1504) **Let' start here**
 -  **Hello, World! I'm [ChandraShekhar](https://github.com/StarDust130) on my way to becoming a billionaire ASAP! 😄**
 - Hey! I'm [Arjun](https://github.com/ArjunNarzary) and this is my first open source contribution.
