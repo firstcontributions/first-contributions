@@ -9469,7 +9469,7 @@ vivek saskar
 - [CodenTheSynth](https://github.com/CodenTheSynth) **Beep, My First Contribution!**
 - [Gurukiran] (https://github.com/gks017) **My first contribition to an open source project!** 
 - [Rashad Lake] (https://github.com/RashadLake1) **My first contribution to GitHub to an open source project.**
-
+- [balumurugan107](https://github.com/balumurugan107) **HOORAAH!!, First Contribution!!** 
 - [Ivan Statkevich](https://github.com/mist941) **First open source contribution!**
 - [daisuke8000](https://github.com/daisuke8000) **First open source contribution!**
 - [Jennet Turkkan] (https://github.com/jennethydyrova) **First open source contribution!** 
