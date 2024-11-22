@@ -573,6 +573,7 @@ Hi everyone I'm Kithmini Mayodya
 - Making my first contribution to a project [pkimSec](https://github.com/pkimsec).
 - [Vishal Sharma](https://github.com/vishal4dev) **It's a good day to get into Open Source Contributions**
 - Hi, I'm [KushalSuvan](https://github.com/KushalSuvan) 
+- Hi, I'm [Ttendo](https://github.com/TTENDO)
 - Hi, I'm [busa2022](https://github.com/busa2022)
 -Testing out CLI, aprv
 Hello myshine29 here 
