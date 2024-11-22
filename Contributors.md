@@ -1072,6 +1072,7 @@ Hej! I'm Gustav from Stockholm, Sweden.
 - [Ammar Aziz](https://github.com/ammaraziz493) **Start a new Journey**
 - [Elissa Yang](https://github.com/eyang-zeta) **9.30.24 hope this goes places**
 - [AminNeji](https://github.com/AminNeji) **adding my name**
+- [Manthan Bagade](https://github.com/cryptic-mortal) **My first contribution into the open source community**
 - [AjayChakka] First Contribution
 - [hamtsu](https://github.com/hamtsu) **Adding my first contribution**
 - [Aysha Haneena] **tadaa my first ever contributions**
