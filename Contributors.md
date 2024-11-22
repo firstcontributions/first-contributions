@@ -1236,6 +1236,7 @@ Jojo
 - [Kunal Suraniya](https://github.com/suraniyakunal) ** It's Fun
 - [Gilberto Valdez Arreola] (https://github.com/GilVA1) ** step zero **
 Sabrina J Valcin
+- [laurel-yyy] (https://github.com/laurel-yyy), **hello world**
 - [Josef Wolf](https://github.com/JosefJW)
 - [Thilina Jayamal](https://github.com/ThilinaJayamal)
 - [Jazlaan Jamsheer](https://github.com/itzzJaz) *I DONT USE ARCH BTW*
@@ -9363,6 +9364,7 @@ Hey There
 - [Ramon J. Serrano](https://github.com/RamonSerrano1848) **My second, first and hopefully not last contribution**
 - [Justgabz](https://github.com/Justgabz/GP-CODING.git) **im new to github, started this journey at 02/08/2024!**
 vivek saskar
+- [laurel-yyy] (https://github.com/laurel-yyy), **hello world**
 - [code0emperor]https://github.com/code0emperor **Good luck to everyone starting on your open source journey!!09-08-2024**
 - [miaomuxianren]https://github.com/liangfengyouxing3 Hello!
 - [5yn7hW4v3](https://github.com/5yn7hW4v3) **INSPIRING WEB DEVELOPER**
