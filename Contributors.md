@@ -6843,6 +6843,7 @@ Parthiv Saikia
 - [SoulRvr29](https://github.com/SoulRvr29)
 - [Conner Crosby](https://github.com/cavcrosby)
 - [DetorlarMubarak](https://github.com/Pious-coder)
+- [Christian Feliciano](https://github.com/cfeliciano7792)
 - [cvuneeez](https://github.com/cvuneeez)
 - [Tom Winfield](https://github.com/TomWinfield)
 - [Yatee Singh](https://github.com/yatee-singh)
