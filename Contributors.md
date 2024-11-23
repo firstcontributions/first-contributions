@@ -5,17 +5,22 @@
 - This is the beta testing.
 - Rahul.. Naam toh Suna Hogaa...(https:www.github.com/rahulgawadee) from India (Bharat) Also follow me on Github
 - Hi my name is "Chaitanya Arora" (https://github.com/ChaitanyaArora) from India.
+- Hi everyone this is Tushar Sharma (https://github.com/tushar-2110) from India  
 - Hi my name is "Kumar Prince" (https:www.github.com/kumarprince8071) from India.
+- Hello my name is [Gazi Nahian](https://github.com/Gazi2050) , I love open source 💌🌐 
 - Hi ny name is [Mario Abarca] (https://github.com/PrograMario12) from México
 - Greetings! I'm Zeshan Ayub (https://github.com/ydrgzm)
 - Hey everyone! Greetings from Risav. I am [Risav Kumar Jha](https://github.com/risavjhagithubrit) from India.
 - helo my name is lapulapu from filipino land.
 - Hello everyione, I'm Christian from Italy!
+
 - Hi I'm Shina. I'm very passionate about software development.
 - Hello! I am [Varun](https://github.com/MrVarun1)! I am from Telangana, India
 - Hello! I am Hence! (https://github.com/hencethepyramids)
 - Hi hi hi
+- Hi Sid here
 - info lokernya bang gw dari cianjur
+- Hey I am hazem [Hazem](https://github.com/HazemJammal/)
 - H4CK3R was here
 - Hi I'm Akash : [My GitHub](https://github.com/akabhowmick)
 - Hi Im Maduwantha : [My GitHub](https://github.com/Isanka-maduwantha)
@@ -33,6 +38,7 @@ Hello I am Harshit.
 - Hello, I am @alexiwisteria and I am a code wizard in training! So happy to be here! here is my github (https://github.com/alexiwisteria)
 - Hii Iam Nithin : [My GitHub] (https://github.com/devnithin)
 - Hi👋, I am [Shivam](https://github.com/ShivamMissar) and i'm ready  
+- Hi, I am Bharath (https://github.com/Batz005) and this is my first contribution. Happy and excited to enter the open source dimension!
 - Hey I'm Genevieve B (https://github.com/genevievebrooks)
 - Hey I'm Jaw Gum Hkawng (https://github.com/jawgumhkawng)
 - qaffe was here :3 (https://github.com/qaffe)
@@ -10248,3 +10254,4 @@ Hi,I'm Johns,(https://github.com/Sunhc11)from China,glad to meet yooooooou!
 - [fmt](https://github.com/Fumiya-Tahara)
 - Hi, i'm [matvix90](https://github.com/matvix90)
 - Hi, I'm Aniket Sahu, I am a full stack developer [https://www.github.com/aniketsahu115]
+- [bibek-deka](https://github.com/ibleedcode86)
