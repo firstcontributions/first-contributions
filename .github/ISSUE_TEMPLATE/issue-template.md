@@ -1,6 +1,6 @@
 ---
 name: Suggest changes
-aboucd first-contributionst: If you want to report a bug or suggest improvements, please open an issue.
+about: If you want to report a bug or suggest improvements, please open an issue.
 title: ''
 labels: discussion, question
 assignees: Roshanjossey
