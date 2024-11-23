@@ -6580,6 +6580,7 @@ Parthiv Saikia
 - [FBirdCS](https://github.com/flappybirdcs)
 - [Anslem](https://github.com/Anslem1)
 - [Kelvin okumu](https://github.com/kelvinokumu)
+- [Eli Lewis](https://github.com/elilewis327)
 - [Betsalel Geoffrey GOLO] (https://github.com/betsalel44)
   [Achraf Elhadjaoui] (https://github.com/achrafelhadjaoui)
 - [Toph](https://github.com/IndexChris)
@@ -8920,7 +8921,6 @@ utthamr
 - Thanh Huynh
 - Sushil Sharma
 - [Yousif-J](https://github.com/yousifj129)
-git stat
 - [Hannah Bradfield](https://github.com/BradfieldH)
 - [meda0719] (https://github.com/meda0719/)
 - [kumar1397](https://github.com/kumar1397)
