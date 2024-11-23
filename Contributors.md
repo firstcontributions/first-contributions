@@ -3401,7 +3401,6 @@ vrushabhpatil48
 - Larry Jones
 - **pstoo (aka Holly)** *[Watch me fly!✨](https://github.com/pstoo)*
 - [Elton Salanic] (https://github.com/eltonSalanic)
-[Sudeep M Shetty](https://github.com/SUDEEP-M-SHETTY)
 - ***[Aharon Seidman](https://github.com/hamachshev)***👋
 - **Tehila Etinger**✨[![GitHub](https://img.icons8.com/?size=30&id=sbhfmWq4KRr1)](https://github.com/TehilaEtinger) [![LinkedIn](https://img.icons8.com/?size=25&id=xuvGCOXi8Wyg)](https://www.linkedin.com/in/tehila-etinger-586b38222/)👋
 - [Ekene Ndubueze](https://github.com/Ozi-Tech)
@@ -10254,4 +10253,5 @@ Hi,I'm Johns,(https://github.com/Sunhc11)from China,glad to meet yooooooou!
   [Alex Ten](https://github.com/alexten1010)
 - [fmt](https://github.com/Fumiya-Tahara)
 - Hi, i'm [matvix90](https://github.com/matvix90)
+- Hi, I'm Aniket Sahu, I am a full stack developer [https://www.github.com/aniketsahu115]
 - [bibek-deka](https://github.com/ibleedcode86)
