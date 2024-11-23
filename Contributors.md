@@ -2033,6 +2033,7 @@ Theresia Calista
 - Vismaya Nair "First ever open source contribution and many more to go...💫"
 - [arundas](https://github.com/arundas285/) **Backend developer,mastered in golang.Feel free to connect with me**
 - [Gurveen Sahni](https://github.com/gurveenkaur6) **This is my first OpenSource contribution, Yayyy !!**
+- [Aung Nanda Oo] (https://github.com/NikkiAung) 🇲🇲 **Excited to contribute many more after this one**
 - [Shivam Sharma](https://github.com/10sharmashivam) **Making my First OSS, looking forward to growing with you guys**
 - [Shajandevz](https://github.com/shahjahan-arif) **Making my First OSS, looking forward to growing with you guys**
 - [Aryan Surin](https://github.com/aryan-surin) **Let's gooo my 1st contribution🥳**
@@ -2040,6 +2041,7 @@ Theresia Calista
 - [Jay Malli](https://github.com/jaymalli) **First open source contribution**
 - [sai](https://github.com/khum23) **Thrilled to make my first contribution to open source!**
 - [Aung Nanda Oo] (https://github.com/NikkiAung) 🇲🇲 **Excited to contribute many more after this one** 
+9e119125c74479d1e545d93679a2e2760f96b2c2
 Zhiyuan Zhao
 [prabhat Ghimire] "This is my first contribution. And I made a mistake"
 -[Satyam Sharma](https://github.com/Satyams-23) **I am ready to contribute** 
@@ -2090,6 +2092,7 @@ Dark Lord was here
 - [Ashwin Rajhans](https://github.com/AlgoBrother) **My first contribution, very excited :D**
 - [Kyi Lei Aye](https://github.com/kyileiaye2021) **First Time Contributing to open source! Excited to learn more!**
 - [Pyae Sone Han](https://github.com/PyaeSoneHan246810) **first open sourc contribution :D**
+- [Valentina Mota](https://github.com/valentina-mota) **My first contribution to an open source project**
 - [Niall Geoghegan](https://github.com/nealgoogs)**Let's try this**
 - [Kayla Moorcroft](https://github.com/kaylamoorcroft)**Trying something new. Hoping to contribute more to the community**
 - [Patrick maged](https://github.com/Patrick-maged) **let's give it a shot!!**
