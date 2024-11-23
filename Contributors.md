@@ -2948,6 +2948,7 @@ Esta es mi primera contribucion por parte de la URC
 - [shimzini](https://github.com/shimzini)
 - [Treasure Okafor](https://github.com/Teekafey) - My first contribution 
 yumi-kim-0827
+- [Axel Yeray](https://github.com/AxelYeray)
  - [Kiran Kulkarni]
  - [Rachel "acha" Okorie]
  - [Mansoor Zafar](https://github.com/MansoorAZafar) This is my first contribution! This is my start!
