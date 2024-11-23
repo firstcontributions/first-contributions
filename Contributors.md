@@ -2861,7 +2861,6 @@ My first contribution
 - [Manogna] (https://github.com/manojna18) 
 - [Matthew Keaton](https://github.com/mkeaton08)**Hello World**
 * Eter Nada(https://github.com/tarenjk24)
-<<<<<<< HEAD
 - [Gregoric](https://github.com/Gregoric) *Print("Hello World")* 
 - [Saurabh Rao](https://github.com/saurabh91798) Please follow me and and contact me to contribute to your projects, Thank you 🫶**
 -[Yashika Prajapati](https://github.com/Yashika9013) ** Dive into the contribution World 😎**
@@ -2869,10 +2868,8 @@ My first contribution
 - [CElizOwens](https://github.com/CElizOwens) **Thank you for this tutorial! Cheers!**
 - [Sanchit](https://github.com/Sanchit33) **सादर प्रणाम*
 - [Pankaj](https://github.com/pankaj1011x) ** This is my first contribution **
-=======
 - [Gunjan Garg](https://github.com/Gunjan349) **My First Contribution**
 - [Sanchit](https://github.com/Sanchit33) **सादर प्रणाम**
->>>>>>> cf32d11fc52c7482a743d239bfd6bd546ab4d274
 - [ImTemane](https://github.com/ImTemane) **Hi, this is my first contribution 😉**
 - [dhinesh](https://github.com/dhinesh20022806) **Hello, Contributors!**
 - [Kenneth](https://github.com/neke97) **Hi World, my first contribution
@@ -3033,6 +3030,7 @@ my name here
 - MG 
 - Rebecca "I love programming"
 -[David Samuel Suarez Montoya] (Escanor) **Hello world**
+  [Daniel Jimenez](https://github.com/stonedjjh)
 - [Oliver De Leon](https://github.com/Oliverdeleonxd) **Hello world xdddd**, my first contribution lol :o, **Keep learning 👻🐱‍👤**
 -[shubham senger] (https://github.com/Shubham-senger) "MY FIRST CONTRIBUTION IN OPEN SOURCE"  
 - [Hariz] (https://github.com/CharKwehTiawKerang) **The Hunter >:(**
