@@ -1887,6 +1887,7 @@ Hello
 - [Ullas G](https://github.com/Ullas-0-1/first-contributions)
 - [Aliya Tariq](https://github.com/Aliya-Tariq) **finally making the first open source contribution. The beginning of something NEW!.**
 - [Thanh Nguyen Duc](https://github.com/ducthanhnguyen95) **First open source contribution!**
+-[Akshit Vig](https://github.com/Akshit-Vig01) **Trying out OpenSource Contributions, excited**
 - [Bianca Iordache](https://bento.me/biordache)
 - [Pouya Shahrdami](https://github.com/pouyashahrdami)
 - [Prudhvi Kovagana](https://github.com/prudhviko) **First open source contribution!**
