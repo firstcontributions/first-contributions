@@ -9290,6 +9290,7 @@ Hector
 - [Lezaan Alberts]
 - [Emirhan Polat](https://github.com/EmirhanPolat) **Time to get started!!!!**
 - [Bryan Montejano] (https://github.com/Bryan-Montejano) **Puro Club América, padrinos, siuuuuuuu**
+- [Raza Saleemi](https://github.com/KingPegasus) **Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-raza-khalid-saleemi/)**
 - [Leslie Jiang]
 - [Dhruv] (https://github.com/dh-r-uv) **doof here**
 - [Mat S](https://github.com/m4t5/) **First Fork Time**
