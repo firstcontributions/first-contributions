@@ -15,6 +15,11 @@
 - helo my name is lapulapu from filipino land.
 - Hello everyione, I'm Christian from Italy!
 
+- [Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
+- [tasosbeast](https://github.com/tasosbeast)
+- [Akanksha Maurya](https://github.com/Akanksham12)
+- [Barun Rajak](https://github.com/Barungit)
+- [Bhasamrita Sarmah](https://github.com/bhasamritasarmah)
 - Hi I'm Shina. I'm very passionate about software development.
 - Hello! I am [Varun](https://github.com/MrVarun1)! I am from Telangana, India
 - Hello! I am Hence! (https://github.com/hencethepyramids)
