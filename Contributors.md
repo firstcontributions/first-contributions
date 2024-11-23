@@ -4159,6 +4159,7 @@ guanj65
 - [nii](https://github.com/nii-git)
 - [Papfinn] (https://github.com/papfinn)
 - [David Watkins] (https://dwatkins2)
+- [AmidelEst] (https://github.com/AmidelEst)
 - [Adarsh Gupta](https://github.com/Adarshagupta)
 - [Calum Moir-Mattox](https://github.com/calummm)
 - [Aleesha Alston](https://github.com/Aleesha-Alston)
