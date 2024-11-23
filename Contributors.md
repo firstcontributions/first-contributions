@@ -9073,6 +9073,7 @@ Rohan kumar - Creating driverless cars at IIT BOMBAY
 - Hey, it's [Sammy-Barasa](https://github.com/Sammy-Barasa) here, it's my first contribution. Let's connect on [linkedIn](https://www.linkedin.com/in/sammy-barasa). Visit my blog here for issues and resolutions [here](https://github.com/Sammy-Barasa/Ubuntu_Problem_Solving_Library_by_Barasa).
 - [Heidi Fryzell](https://github.com/heidi37)
 - [Sivaprasad.G] (https://github.com/sprasad-g)
+- [samkc-0](https://github.com/samkc-0)
 - [wlowrd] (https://github.com/wlowrd)
 - [Méadbh McCollum] (https://github.com/MattMacCollum)    
 - [Ahla Iptek](https://github.com/ahlaiptek)
