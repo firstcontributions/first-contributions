@@ -1657,6 +1657,7 @@ Rehan
 - [Sophie Lai](https://github.com/sophie1620) **This is my first open source contribution**
 -[Memoona Shah](https://github.com/maymunashah)**this is one of my first open source contributino and one of many to go  , lets goooo**
 Ahmad
+- [Joshua](https://github.com/im-yjoshua) **A passionate learner who loves to code**
 - Batsheva Kadosh
 - [Kyorzo](https://github.com/Kyorzo)**kyorzo was here 👹**
 -[Jyothishree Rajkumar](https://github.com/Jyothishree2k5) **This is my first contribution and i am already feeling overwhelmed!!idk why lol, long way to go man**
