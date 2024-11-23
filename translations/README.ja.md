@@ -49,14 +49,14 @@ git clone https://github.com/＜あなたのユーザー名＞/first-contributio
 ```
 cd first-contributions
 ```
-`git checkout` コマンドを使用してブランチを作成します：
+`git switch` コマンドを使用してブランチを作成します：
 ```
-git checkout -b <add-your-name>
+git switch -c <add-your-name>
 ```
 
 例:
 ```
-git checkout -b add-alonzo-church
+git switch -c add-alonzo-church
 ```
 (ブランチの名前には必ずしも*add*が含まれていなければならないわけではありませんが、このブランチの目的があなたの名前をリストに加えることであることを考慮すれば含むのが適切です。)
 
@@ -91,11 +91,11 @@ GitHub上であなたのリポジトリに行くと、`Compare & pull request`�
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-プルリクエストを作ってください：
+プルリクエストを作ってください。
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-すぐに私が加えられた変更をmasterブランチにマージします。マージが終了した際にはその旨のメールが送られます。
+すぐに私が加えられた変更をmainブランチにマージします。マージが終了した際にはその旨のメールが送られます。
 
 ## 次に何をするべきか
 

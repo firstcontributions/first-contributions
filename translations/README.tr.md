@@ -26,15 +26,15 @@ Bu işlem sizin hesabınız altında projenin bir kopyasını oluşturacaktır.
 
 Daha sonra komut istemini açıp aşağıdaki git komutunu çalıştırın:
 
-```
+```bash
 git clone "kopyaladığınız-url"
 ```
-"kopyaladığınız-url" (tırnak işaretleri olmadan) yerine bu deponun GitHub sayfasından aldığınız linki koplayın.
+"kopyaladığınız-url" (tırnak işaretleri olmadan) yerine bu deponun GitHub sayfasından aldığınız linki kopyalayın.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Örneğin:
-```
+```bash
 git clone https://github.com/kullanıcı-adi/first-contributions.git
 ```
 `kullanıcı-adi` sizin GitHub kullanıcı adınız. Burada GitHub üzerinde bulunan first-contributions reposunun içeriğini bilgisayarınıza kopyalıyorsunuz.
@@ -43,16 +43,16 @@ git clone https://github.com/kullanıcı-adi/first-contributions.git
 
 Eğer henüz klasör içinde değilseniz komut isteminde ana klasörünün konumuna gidin:
 
-```
+```bash
 cd first-contributions
 ```
 `git checkout` komutunu kullanarak yeni bir dal(branch) oluşturun:
-```
+```bash
 git checkout -b <sizin-yeni-dal-isminiz>
 ```
 
 Örneğin:
-```
+```bash
 git checkout -b ekle-aydin-cagri-dumlu
 ```
 (Dal ismi içinde *ekle* kelimesinin geçme zorunluluğu yok, fakat bu dal isminizi katkı sunanlar listesine ekleme amacıyla oluşturulduğundan, ekle yazmak mantıklı olacaktır.)
@@ -63,13 +63,13 @@ git checkout -b ekle-aydin-cagri-dumlu
 
 `Contributors.md` dosyasının sonuna bu satırı ekleyin:
 
-```
+```markdown
 - [İsminiz](https://github.com/kullanici-adiniz)
 ```
 
 Örneğin:
 
-```
+```markdown
 - [Ahmet Yılmaz](https://github.com/ahmet-yilmaz)
 ```
 
@@ -81,12 +81,12 @@ Komut istemi üzerinde proje klasörüne gidip `git status` komutunu yazdığın
 
 `git add` komutu ile bu değişiklikleri oluşturduğunuz dal içine ekleyin.
 
-```
+```bash
 git add Contributors.md
 ```
 
 Şimdi `git commit` komutunu kullanarak değişikliklerinizi onaylayın (commit):
-```
+```bash
 git commit -m "<isminiz> katkıda bulunanlar listesine eklendi"
 ```
 `<isminiz>` yerine kendi isminizi yazın.
@@ -96,7 +96,7 @@ git commit -m "<isminiz> katkıda bulunanlar listesine eklendi"
 ## Değişiklikleri GitHub üzerine "itme" (Push)
 
 `git push` komutu ile değişikliklerinizi ittirin:
-```
+```bash
 git push origin <ekle-sizin-dal-isminiz>
 ```
 `<ekle-sizin-dal-isminiz>` yerine daha önce oluşturduğunuz dalın ismini girin.

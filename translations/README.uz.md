@@ -24,11 +24,11 @@ Bu akkountingizda ushbu repositoryning nusxasini yaratadi.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="bu repositoryni klon qilib oling" />
 
-Endi fork qilingan repositoryni kompyuteringizga klon qiling. Github akkountingizga kirib, fork qilingan repositoryni oching, code tugmasi ustiga bosing va keyin _copy to clipboard_ belgisi (icon) ustiga bosing.
+Endi fork qilingan repositoryni kompyuteringizga klon qiling. GitHub akkountingizga kirib, fork qilingan repositoryni oching, code tugmasi ustiga bosing va keyin _copy to clipboard_ belgisi (icon) ustiga bosing.
 
 Terminalni oching va quyidagi git buyruqlarini yurg'izing:
 
-```
+```bash
 git clone "siz horizgina ko'chirib olgan url"
 ```
 
@@ -38,7 +38,7 @@ bu yerda "siz horizgina ko'chirib olgan url" (qo'shtirnoqlarsiz) ushbu repositor
 
 Misol uchun:
 
-```
+```bash
 git clone https://github.com/bu-siz/first-contributions.git
 ```
 
@@ -49,19 +49,19 @@ ko'chiryapsiz.
 
 Kompyuteringizda repository papkasiga kiring (agar u yerda bo'lmasangiz)
 
-```
+```bash
 cd first-contributions
 ```
 
 Endi `git switch` buyrug'i orqali branch yarating:
 
-```
+```bash
 git switch -c yangi-branch-nomingiz
 ```
 
 Misol uchun:
 
-```
+```bash
 git switch -c add-aliml92
 ```
 
@@ -75,13 +75,13 @@ Agar proyekt papkasiga o'tsangiz va `git status` buyrug'ini yurg'izsangiz, o'zga
 
 `git add` buyrug'i yordamida hosil qilgan branchingizga o'zgarishlarni qo'shing:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Endi `git commit` buyrug'i yordamida bu o'zgarishlarni commit qiling: 
 
-```
+```bash
 git commit -m "Contributors royxatiga ismingiz-ni kiritish"
 ```
 `ismingiz-` ni o'rniga o'zingizni ismingizni yozing.
@@ -90,7 +90,7 @@ git commit -m "Contributors royxatiga ismingiz-ni kiritish"
 
 `git push` buyrug'i bilan o'zgartishlaringizni push qiling:
 
-```
+```bash
 git push origin -u yangi-branch-nomingiz
 ```
 

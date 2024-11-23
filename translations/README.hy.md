@@ -7,7 +7,7 @@
 
 Այս նախագիծը նպատակ ունի պարզեցնել և առաջնորդել սկսնակներին իրենց առաջին ներդրման ճանապարհին: Եթե ցանկանում եք կատարել ձեր առաջին ներդրումը, հետևեք ստորև նշված քայլերին:
 
-_Եթե հրամանի տողը (command line) ձեզ հարմար չէ, [ահա ուղեցույցներ գրաֆիկական ինտերֆեյսի (GUI) կիրառմամբ.](#Ուղեցույցներ-այլ-գործիքների-կիրառմամբ)_
+_Եթե հրամանի պատուհանը (command line) ձեզ հարմար չէ, [ահա ուղեցույցներ գրաֆիկական ինտերֆեյսի (GUI) կիրառմամբ.](#Ուղեցույցներ-այլ-գործիքների-կիրառմամբ)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
@@ -15,14 +15,14 @@ _Եթե հրամանի տողը (command line) ձեզ հարմար չէ, [ահա
 
 ## Ճյուղավորեք (fork) այս պահոցը (repository)
 
-Ստեղծեք ձեր սեփական պատառաքաղը՝ սեղմելով այս էջի վերևում գտնվող `fork` կոճակը: 
-Դա կստեղծի այս պահոցի պատճենը ձեր հաշվում:
+Ստեղծեք ձեր սեփական պատճենը՝ սեղմելով այս էջի վերևում գտնվող `fork` կոճակը:
+Դա կստեղծի այս պահոցի պատճենը ձեր պրոֆիլում:
 
 ## Կլոնավորեք պահոցը
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Հիմա կլոնավորեք պահոցը ձեր համակարգչում: Հղումը պատճենելու համար սեղմեք `clone` կոճակը, այնուհետև `copy to clipboard` պատկերակը:
+Հիմա կլոնավորեք պահոցը ձեր համակարգչում: Հղումը պատճենելու համար սեղմեք `clone` կոճակը, այնուհետև `copy to clipboard` կոճակը:
 
 Բացեք տերմինալը և գործարկեք հետևյալ git հրամանը.
 
@@ -30,7 +30,7 @@ _Եթե հրամանի տողը (command line) ձեզ հարմար չէ, [ահա
 git clone "url you just copied"
 ```
 
-Որտեղ "url you just copied"-ը (առանց չակերտների) ձեր պահոցի հղումն է (այս նախագծի ձեր ճյուղավորումը). Հետևեք նախորդ քայլերին, որպեսզի ստանաք հղումը.
+Որտեղ "url you just copied"-ը (առանց չակերտների) ձեր պահոցի հղումն է (այս նախագծի ձեր ճյուղավորումը). Հետևեք քայլերին, որպեսզի ստանաք հղումը.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -40,11 +40,11 @@ git clone "url you just copied"
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-Որտեղ `this-is-you`-ն github-ի ձեր մուտքանունն է. Այսպիսով դուք պատճենում եք first-contributions պահոցը GitHub-ից ձեր համակարգչի վրա:
+Որտեղ `this-is-you`-ն github-ի ձեր մուտքանունն է. Այսպիսով դուք պատճենում եք first-contributions պահոցը՝ GitHub-ից, ձեր համակարգչի վրա:
 
 ## Ստեղծեք ճյուղ
 
-Անցեք ձեր համակարգչում գտնվող պահոցը, եթե արդեն այնտեղ չեք։
+Մուտք գործեք ձեր համակարգչում գտնվող պահոցը, եթե արդեն այնտեղ չեք։
 
 ```
 cd first-contributions
@@ -62,7 +62,7 @@ git checkout -b <add-your-name>
 git checkout -b add-alonzo-church
 ```
 
-## Կատարեք անհրաժեշտ փոփոխությունները և գործադրեք (commit)
+## Կատարեք անհրաժեշտ փոփոխությունները և կատարեք ձեր ներդրումը (commit)
 
 Հիմա բացեք `Contributors.md` ֆայլը ձեր տեքստային խմբագրիչում, գրեք ձեր անունը և պահպանեք ֆայլը։ Մի ավելացրեք այն ֆայլի սկզբում կամ վերջում: Տեղադրեք այն որևէ տեղ մեջտեղում: Այժմ պահպանեք ֆայլը:
 
@@ -95,13 +95,13 @@ git push origin <add-your-name>
 Փոփոխոք `<add-your-name>`-ը ավելի վաղ ստեղծած ճյուղի անունով:
 
 <details>
-<summary> <strong>Եթե push անելիս սխալներ եք ստանում, սեղմեք այստեղ՝</strong> </summary>
+<summary> <strong>Եթե push անելիս առաջանում են սխալներ, սեղմեք այստեղ՝</strong> </summary>
 
-* ### Authentication Error
+- ### Authentication Error
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>  
-   Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
+  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
 
 </details>
 

@@ -39,7 +39,7 @@ O próximo passo será clonar seu repositório em sua máquina para que você po
  
 Agora abra o IntelliJ IDEA.
  
-O IntelliJ IDEA permite que você fassa um check out (em termos do Git clone) de um repositório existente e crie um novo projeto com base nos dados que você baixou.
+O IntelliJ IDEA permite que você faça um check out (em termos do Git clone) de um repositório existente e crie um novo projeto com base nos dados que você baixou.
  
 No menu principal, escolha VCS | Get from Version Control ou, se nenhum projeto estiver aberto no momento, clique em Get from Version Control na tela inicial.
  
@@ -116,7 +116,7 @@ Agora vamos começar a contribuir para outros projetos, compilamos uma lista de 
 
 
 
-### [Material Adicional](../../additional-material/translations/Portuguese/additional-material.pt_br.md).
+### [Material Adicional](../../additional-material/translations/Portugues/additional-material.pt_br.md).
 
 ## Tutoriais usando outras ferramentas
 [Voltar a página principal](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.pt_br.md)

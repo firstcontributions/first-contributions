@@ -28,7 +28,7 @@ oya e de ibi ipamọ yi si account yin, e lo si githubu accounti yin, e te 'clon
 
 e sii ebute in ero ise yin, e te pipaṣẹ to be a labe oro yi si:
 
-```
+```bash
 git clone "ọna asopọ ' te daakọ"
 ```
 
@@ -38,7 +38,7 @@ ibi, "ọna asopọ ' te daakọ" (lai awọn ' quote iṣmiṣ) lo je ono asopo
 
 oye ko ri bi:
 
-```
+```bash
 git clone https://github.com/oruko yin/first-contributions.git
 ```
 
@@ -48,19 +48,19 @@ ibi `oruko yin` ni oruko githubu accounti yin. ni bi yi en didako awon akoonu ' 
 
 seda eka si ero, amo ko to sebe te pipaṣẹ yi si ibe
 
-```
+```bash
 cd first-contributions
 ```
 
 oya seda eka si  pelu ' `git checkout` pipase:
 
-```
+```bash
 git checkout -b <oruko to fe so eka to fe seda>
 ```
 
 fun apere:
 
-```
+```bash
 git checkout -b add-luke-oliff
 ```
 
@@ -76,13 +76,13 @@ to ba te pipase  `git status` si ebute re, wa re awon ayipada ti ose
 
 fi won mo eka ti ode pelu pipase yii `git add`:
 
-```
+```bash
 git add Contributors.md
 ```
 
 oya dawon papop pelu pipase yi `git commit`:
 
-```
+```bash
 git commit -m "Add <oruko githubu account yin> to Contributors list"
 ```
 
@@ -92,7 +92,7 @@ yi `<oruko githubu account yin>` pada si oruko re.
 
 te pipase yi `git push`:
 
-```
+```bash
 git push origin <oruko eda ti e se>
 ```
 

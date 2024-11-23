@@ -3,7 +3,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-
 # Il primo contributo
 
 È dura. È sempre difficile fare qualcosa per la prima volta. Specialmente quando si sta collaborando, sbagliare ci mette a disagio. Ma l'open source si basa sulla collaborazione e sul lavorare insieme. Pertanto volevamo semplificare il modo in cui i nuovi collaboratori imparano e contribuiscono per la prima volta a progetti open-source.
@@ -14,9 +13,9 @@ Leggere articoli e guardare tutorial può essere utile, ma cosa c'è di meglio c
 
 Se non hai git sul tuo computer, [installalo]( https://help.github.com/articles/set-up-git/).
 
-## Forka questa repository
+## Fai il fork di questa repository
 
-Forka questa _repo_ (abbreviazione di _repository_, ossia una cartella) cliccando sul bottone **_fork_** in cima alla pagina.
+Fai il *fork* di questa *repo* (abbreviazione di *repository*, ossia un archivio) cliccando sul bottone ***fork*** in cima alla pagina.
 Questo creerà una copia di questa repository nel tuo account.
 
 ## Scarica la repository
@@ -27,57 +26,69 @@ Ora scarica (*clone*) questa repo nel tuo computer. Clicca sul pulsante per scar
 
 Apri il terminale e lancia il seguente comando:
 
-```
+```bash
 git clone "url appena copiato"
 ```
+
 dove "url appena copiato" (senza le virgolette) è l'url di questa repository. Leggi i passaggi precedenti per ottenere l'url.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Per esempio:
-```
+
+```bash
 git clone https://github.com/questo-sei-tu/first-contributions.git
 ```
+
 dove `questo-sei-tu` è il tuo username GitHub. Qui stai copiando il contenuto della repository da GitHub al tuo computer.
 
 ## Crea un ramo (*Branch*)
 
 Entra nella directory della repository (se non lo hai già fatto):
 
-```
+```bash
 cd first-contributions
 ```
+
 Ora crea un ramo (*branch*) usando il comando `git checkout -b`:
-```
+
+```bash
 git checkout -b <aggiungi-il-tuo-nome>
 ```
 
 Ad esempio:
-```
+
+```bash
 git checkout -b aggiungi-alonzo-church
 ```
+
 (Non è necessario inserire la parola *aggiungi* nel nome del branch, ma in questo caso è ragionevole includerlo poiché lo scopo di questo branch è aggiungere il tuo nome alla lista. 
 Lo scopo di nominare un branch è descrivere le modifiche che andremo ad effettuare, il nome deve essere quindi descrittivo e non generale per facilitare il team con cui si collabora.)
 
 ## Fai le modifiche necessarie e crea un commit
 
 Ora apri il file `Contributors.md` in un editor, inserisci il tuo nome. Non aggiungerlo all'inizio o alla fine del file ma in un qualsiasi punto nel mezzo. Ora salva il file. Se vai nella directory del progetto ed esegui il comando `git status`, vedrai quali sono i cambiamenti. Aggiungi le modifiche al branch appena creato usando il comando `git add`:
-```
+
+```bash
 git add Contributors.md
 ```
 
 Crea ora una commit che includa le modifiche da te fatte, usando `git commit`:
-```
+
+```bash
 git commit -m "Add <il-tuo-nome> to Contributors list"
 ```
+
 cambiando `<il-tuo-nome>` con il tuo nome.
 
 ## Invia (*Push*) le modifiche a GitHub
 
 Invia (*push*) le tue modifiche con il comando `git push`:
-```
+
+```bash
 git push origin <aggiungi-il-tuo-nome>
 ```
+
 sostituendo `<aggiungi-il-tuo-nome>` con il nome del branch creato prima.
 
 ## Invia i tuoi cambiamenti per una revisione
