@@ -1,5 +1,3 @@
-
-
 # Contributors
 - [Koushik Mupparapu](https://github.com/SaFFireGHOST) **Koushik's first open source contribution
 - [Harshith reddy](https://github.com/Harshith2835) **Harshith's First open source contribution!**
@@ -2856,6 +2854,7 @@ My first contribution
 -[Clement Sello Tsetsa](https://github.com/clementsellotsetsa) **Hello everyone, my name is Clement and i am from South Africa. I am studying towards a bachelor's degree in information technology at NWU. This is my first contribution and hoping it will not be the last.**
 - [vincent Obaro](https://github.com/vincelogs) **Hello World!, it's nice to be here🫶**
 -[Mohit Joping](https://github.com/mohitjoping) ** Hi everyone, Let's connects on x** * -[clickhere](https://x.com/mohitjoping)*
+[vincent Obaro](https://github.com/vincelogs) **Hello World!, it's nice to be here🫶**
 - [**Nastaran Motiee**](https://github.com/nastaran-motiee) 😉
 - [Stefan](https://github.com/Stefanroets180) **This is my first contribution Lets GO!!** 👾👽
 - [Vishwas](https://github.com/vshws)**This is my First Contribution in github thank you so much to make us learn contributing**
@@ -2958,7 +2957,11 @@ Esta es mi primera contribucion por parte de la URC
 - [Akash Arumugam](https://github.com/akasharumugamm)
 - [Ntokozo-Ndlovu](https://github.com/Ntokozo-Ndlovu)
 - [Shashank](https://github.com/U-Shashank)
+<<<<<<< HEAD
 - [Aparanji Nemmani](https://github.com/aparanji49) **I'm Aparanji and it's my First Contribution!**
+=======
+- Abinaya Murugan (https://github.com/Abinaya-Murugan)
+>>>>>>> 19fdf05dbf9dfb4bf9584e0f31bc48ab55f47eb7
 - [ISRAEL](https://github.com/U-israel)
 - [hanbirang](https://github.com/hanbirang)
 - [Barbara Mangiri] (https://github.com/barbzyqueen) **Hello fellow contributors! This is my first contribution.**
@@ -3471,6 +3474,7 @@ vrushabhpatil48
 - [Dragon Rider](https://github.com/DragonRider01598) 
 - Samir
 - [Omar Bassuni](https://github.com/omarbassuni2)
+- [Abinaya Murugan] (https://github.com/Abinaya-Murugan)
 - Preetham (https://github.com/preethamkonuganti)
 - [Dipaloke Biswas](https://github.com/dipaloke)🇧🇩
 - [Yuki](https://github.com/yukuri611)
