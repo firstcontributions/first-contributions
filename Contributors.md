@@ -64,6 +64,7 @@ Hello, this is nithih kumar reddy
 - Hey! This is [Kiara Maldonado](https://github.com/kiaramaldonado). Feels good to contribute!
 - Hey, this is [Joshua](https://github.com/joshua805080). this is my first contribution and 1st open source project.
 - Hello there i am Kumar Raunak
+- Hi, I'm [Abdulkhodiy Turabekov](https://github.com/Khodiy). This is my first contribution, and I'm happy that I learned something new today.
 - Hi 👋 My name is Girgis Sami
 - hi there! I'm Charlie, nice to meet everyone! Go Dodgers :)
 - I am [yagiro](https://github.com/yagiro). May the source be with you 🪬  
