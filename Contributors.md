@@ -6115,7 +6115,7 @@ Romeu Leite
 - [Jivi ~_~](https://github.com/Jivi-this-side)
 - [Subro](https://www.linkedin.com/in/subrojyoti-paul)
 - [BrianC](https://github.com/BrianSChase
-)
+- [Arthur Almeida] (https://github.com/ragnarthur)
 - [zeden](https://github.com/snowxx456)
 - [Akshat Shah](https://github.com/akshatshah811)
 - [Htut Oakkar](https://github.com/htutoakkar)
