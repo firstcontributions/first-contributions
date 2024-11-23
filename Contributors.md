@@ -3835,6 +3835,7 @@ Abhinav Jain
 - [TZH](https://github.com/ThawZin1804)
 - [Alex Holliday](https://github.com/popnfresh234)
 - [lofisky](https://github.com/lofisky) I was also here :DD
+- [Ved](https://github.com/mVedr) 🚀🚀
 - [Alex Perez](https://github.com/alexperez45) :p
 - [Bandhan Majumder](https://github.com/bandhan-majumder)
 - [Ali Rohanizadeh](https://github.com/alirohanizadeh)
