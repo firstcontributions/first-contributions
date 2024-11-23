@@ -24,7 +24,7 @@ Bu akkountingizda ushbu repositoryning nusxasini yaratadi.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="bu repositoryni klon qilib oling" />
 
-Endi fork qilingan repositoryni kompyuteringizga klon qiling. Github akkountingizga kirib, fork qilingan repositoryni oching, code tugmasi ustiga bosing va keyin _copy to clipboard_ belgisi (icon) ustiga bosing.
+Endi fork qilingan repositoryni kompyuteringizga klon qiling. GitHub akkountingizga kirib, fork qilingan repositoryni oching, code tugmasi ustiga bosing va keyin _copy to clipboard_ belgisi (icon) ustiga bosing.
 
 Terminalni oching va quyidagi git buyruqlarini yurg'izing:
 
