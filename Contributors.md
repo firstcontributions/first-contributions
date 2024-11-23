@@ -2212,6 +2212,7 @@ Rudraksh Upadhyay- learing to contribute in open source projects
 
 -[Arijan Brkic](https://github.com/arijanbrkic)**Hello World! Greetings from Germany. 16.08.2024**
 -[Abdullahi Hamisu](https://github.com/captainprinz)**First Contribution and first emoji ever on desktop🎆🎈🚀**
+-[kshitij yadav](https://github.com/kshitizche/)**Hi**
 -[Durvesh Wagh](https://github.com/durveshwagh11)**First Contribution Here👋**
 -[Kyaw Zin Thet](https://github.com/KyawZin369)**First Contribution in 7/24/2024👋**
 - jaajaaBinks
