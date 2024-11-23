@@ -32,6 +32,7 @@ Hello I am Harshit.
 - Hey, It's Bibek and ready to slay open-source(https://github.com/bibek-mahat)
 -Hello I'm Gail Parazo ⋆°✩👻
 - Hey, Max here !
+- avaVision here ! [My GitHub](https://github.com/avavision)
 - Hi, I am veenoise
 - Hello I am Shane 
 - Hello, I am somanath Mikali
