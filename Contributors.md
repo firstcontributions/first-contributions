@@ -855,6 +855,8 @@ Hiiii everyone.... my name is Precious and this is my first open source contribu
 - [Victor Ezaki]{https://github.com/VictorEzaki} **Hello, World! My first contribution on Open Source projects**
 - Hello everyone, I am [Mohammed Anaf](https://github.com/mohammedanaf) and excited to contribute to open-source projects.
 - Hello fellow **Programmers!** I'm [Henry](https://github.com/hevprog) and this is my **First time making a PR**
+- Hello Guys, This is Vaasu Marothia aka [jeetungaa] (https://github.com/jeetungaa).
+**First time making a contro**
 - Hi, [Pravallika Nunna](https://github.com/pravallika-nunna), excited to get into open source.
 - Hi I'm Michelle Sheu uwu
 -Hi i am wasi khan
@@ -9519,10 +9521,7 @@ vivek saskar
 - [Layton Chandler](https://github.com/chandlerkl96)
 - [Tharusha Dilhara](https://github.com/TDila) **Hello, this is my first open source contribution**
 - [Eleazar Hernandez](https://github.com/ehernandez42) **Hello! Happy to be a part of the community!**
-<<<<<<< HEAD
-=======
 - Hi! My name is [Dunanes](https://github.com/dunanes), and i'm a CS student from Brazil. Hello!
->>>>>>> 66943727a92e4aca3e22691e222ab208e9e7207b
 - [Prahlad](https://github.com/PrahladKing) **This is my entry into open source and my first contribution**
 - [Gaurav Latpate](https://github.com/latpategaurav/first-contributions) **First open source contribution!**
 - [R S T](https://github.com/RichardTabaka/first-contributions) **Here goes nothing 🎃**
