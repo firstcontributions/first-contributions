@@ -5998,6 +5998,7 @@ Gyanendra Thakur
 - Kalhara Batangala (https://github.com/KalharaBatangala)
 - [Ricardo Gomes](https://github.com/ricardogomes)
 - [Max]
+- Peter
 - [Jon Gumero](https://github.com/jongumero)
 - [Thomas Fogarty](https://github.com/Thoss24)
 - [Fathalrhman Adam](https://github.com/Fathalrhman267)
