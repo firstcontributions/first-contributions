@@ -10,6 +10,7 @@
 - Greetings! I'm Zeshan Ayub (https://github.com/ydrgzm)
 - Hey everyone! Greetings from Risav. I am [Risav Kumar Jha](https://github.com/risavjhagithubrit) from India.
 - helo my name is lapulapu from filipino land.
+- Hello everyione, I'm Christian from Italy!
 - Hi I'm Shina. I'm very passionate about software development.
 - Hello! I am [Varun](https://github.com/MrVarun1)! I am from Telangana, India
 - Hello! I am Hence! (https://github.com/hencethepyramids)
