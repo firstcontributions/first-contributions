@@ -3021,6 +3021,8 @@ vrushabhpatil48
 - HOLA HOLA VIVA MEXICO! JELLOU WORLD
 - [@jakeevans00](https://github.com/jakeevans00) 🦆🦆🦆🦆🦆🦆...🦆 
 - [Erin Tiha]
+- [swastik]  **_MyFirstContribution_** 
+- mai pagal hu
 - [Luca Caputo] (https://github.com/lucapu88) **Hello there**
 - [YahyaHassan1914] (https://github.com/YahyaHassan1914) **Stepping into the world of open source, one small change at a time.**
 - [Ahzem](https://github.com/ahzem) **Love to OpenSource**
