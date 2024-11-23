@@ -9507,6 +9507,7 @@ https://github.com/06Gagan
 - [Siddharth Jain](https://github.com/sjain166) **Let's Get Started With Open Source !!!**
 - [Umer Islam](https://github.com/umer-islam) 👋🌍
 - [Daniel Obode](https://github.com/hoodiedan) **Let's Get Started With Open Source !!!**
+- [Jay2459](https://github.com/jay2459) **It is going to be interesting. 2024-07-21 !!!**
 - [Rafał-Tomczyk](https://github.com/Faflox) **Hello World!**
 - [Alec Worthington] (https://github.com/alecworth) **Hey!!**
 - [Bartek2050](https://github.com/bartek2050) **Hello 👋🏻**
