@@ -5806,6 +5806,7 @@ Jasmine
 - masaymd
 - [Anand Shende](https://github.com/anandshende)
 - [Alexies](https://github.com/AlexiesHyro) **Another contribution to open source!**
+- [Arisa Abiko](https://github.com/arisaabiko)
 - [WHA](https://github.com/wynehtetaung)
 - [Captain] (https://github.com/CaptainPatel)
 - [Ishita](https://github.com/elekish)
