@@ -1801,6 +1801,7 @@ Sheila Akoto
 - [AnmolDewan] (https://github.com/anmoldewanrai) **getting back to opensource**
 - [Devanshi-Bavaria](https://github.com/Devubavariaa) **Learning to contribute to open source!!**
 - [@venelouis](https://github.com/venelouis) **Contributing!**
+- [Harikishna Navaratanam] (https://github.com/harikishnanavaratnam) **As they say, A journey of a thousand miles begins with a single step**
 - [Ahmad Ishaque Karimi](https://github.com/Ahmadishaque)**Trying out a new thing just like many other here heehee**
 Hello
 - [Shreyash Waghe] (https://github.com/Shreyashwaghe) **As they say, A journey of a thousand miles begins with a single step**
