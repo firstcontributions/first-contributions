@@ -1966,6 +1966,7 @@ Parth Bhovad
 - [madhura_ingole](https://github.com/madhura-ingole/) **Getting there!**
 - [yuthadda](https://github.com/yuthadda)
 - [FernandoSiavato](https://github.com/FernandoSiavato)
+-[Daksh   Rajesh] (https://github.com/daksh82)
 - [varnit-mittal](https://github.com/varnit-mittal) **Just for my SE Lab Attendance purpose**
 - [Ender Gooseman](https://github.com/EnderDev7379) **yaay, first contribution**
 - [Mohit Naik](https://github.com/mohit086) **Contributed**
