@@ -7094,6 +7094,7 @@ Philip Ambattu
 - [Praveen Pandi](https://github.com/PravinPandi)
 - [Abiha Sami](https://github.com/CodingBiyu)
 - [Nestor Garcia] (https://github.com/nestorjgc) ✔️
+- [Didi Zapryanov] (https://github.com/Jibromircho)
 - [Emeraldthedev](https://github.com/OriloyeEmerald)
 - [BeesyBumbleBee](https://github.com/BeesyBumbleBee)
 - [Carry Lee](https://github.com/Nuaza)
