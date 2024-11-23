@@ -5245,6 +5245,7 @@ guanj65
 - [harish](https://github.com/harish885)
 - [Harish Maganti](https://github.com/harishm22)
 - [Kamangu Maeti](https://github.com/KmgSamuel)
+- [Alex-de-code](https://github.com/Alex-de-code) <!-- -Remember to stretch + touch grass. Have a good life! -->
 - [Jay CP](https://github.com/jaycp30)
 - [Gavy Sohal](https://github.com/gavi04)
 - [Nizaaa](https://github.com/nizanixi) 
