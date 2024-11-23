@@ -2934,6 +2934,7 @@ Esta es mi primera contribucion por parte de la URC
 - Yo this is Ridhwan
 - [Enrico Piffer](https://github.com/enrypiff) - Check out my contributions!
 - [krishealty](https://github.com/krishealty) **i bet you wont find a more detailed readme file than mine.**
+- Connect with Gloria on Linkedin (https://www.linkedin.com/in/gloria-okeke-e-j/)
 - [Reyas-addy](https://github.com/rewyekha) **Nothing to Anything🫵🏼**
 - [Jiseob Byeon](https://github.com/simple-is-great) **This is my first contribution:) Let's be bold** 
 - [Claire-Youmans](https://github.com/clairebeware) **First contribution to open source**
