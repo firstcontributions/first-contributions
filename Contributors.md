@@ -5658,6 +5658,7 @@ Jasmine
 - [Anirudh-Narra](https://github.com/Anirudh-Narra)
 - [m10610](https://github.com/m10610)
 - [Daniel Wong](https://github.com/Dwjf)
+- [Bernhard Buss](https://github.com/bernhard-buss)
 - [Ngonzi Bridget](https://github.com/bree256)
 - [Okuta Omeiza](https://github.com/omeiza-devops)
 - [AnshJain]
