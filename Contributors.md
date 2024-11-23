@@ -2843,7 +2843,7 @@ Esta es mi primera contribucion por parte de la URC
 - [Ivan] (https://github.com/ivzhao121)
 - [Shreyan](https://github.com/shreyannandanwar) **Contribution, It was EPIC
 - [raoole2](https://github.com/raoole20) Follow me!
-- [Jonai Bolaños](https://github.com/Jonayj0) **Contribuyendo, Sigueme en Linkedin (https://www.linkedin.com/in/jonay-bolanos-molina/)
+- [Jonai Bolaños](https://github.com/Jonayj0) **Contribuyendo, Sigueme en Linkedin** (https://www.linkedin.com/in/jonay-bolanos-molina/)
 - [Biswajit](https://github.com/ImBiswajitslg) First contribution
 - [Roshan Kumar](https://github.com/roshanroxx)**My first open-source contribution!!**
 - [Julio Paz](https://github.com/juliopzsosa) Follow me!
