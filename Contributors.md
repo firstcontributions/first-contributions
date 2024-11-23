@@ -2631,6 +2631,7 @@ mh
 - [Cetin Erdem](https://github.com/TheL0nelyG0d) **Then, Dance!**
 - [riles](https://github.com/ultrasage-danz) **MY FIRST CONTRIBUTION, CHECK MY PROFILE**
 - [Lautaro Beutel](https://github.com/LautaroBeutel) *** My first step on this jurney ***
+- [Meir Neustadt](https://github.com/meir-neustadt) *** My first step on this jurney ***
 - [James McKey](https://github.com/jmmckey)
 - [VictorHugo3000](https://github.com/VictorHugo3000) **THIS IS MY FIRST CONTRIBUTION I am from Mexico**
 - [Siddharth Pranay](https://github.com/SId-pranay123) ***My first contrib!***
