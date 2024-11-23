@@ -2494,6 +2494,7 @@ Grant Hounsell
 - [Hasson](https://github.com/ahmeedHassan1) **Hello**
 - [guruprashanth2004](https://github.com/guruprashanth2004)** guru was here**   
 - [Julius278](https://github.com/julius278) **Just here for the contribution on my profile :D**
+- [MaPankow] (https://github.com/MaPankow) **Gonna fix pandas**
 - [ChrisSpencer](https://github.com/crspencer11) **Gonna fix pandas**
 - [Richj-dev] (https://github.com/richj-dev) **first contribution**
 - [Ekaums](https://github.com/Ekaums) **hehehhehehehehehehhehehe**
