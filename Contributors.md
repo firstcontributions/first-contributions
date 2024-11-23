@@ -1420,6 +1420,7 @@ wowww
 - Shubham Agrawal [https://https://github.com/Shubham4427] **Here we go**
 -Alexander Bokedal (https://github.com/alexander-bokedal) **Exicted to get started**
 - [Kaizzen](https://github.com/Kaizzen42) And so, it begins!
+- [Jared Anastacio Ferrer](hhttps://github.com/JaredSkates) **Learning to Contribute!**
 - [Malkaf] (https://github.com/Malka-f) Always challenge yourself!
 - [THE ALMIGHTY](Ashutosh Tiwari) #1 in the world
 - [Mike Nguyen](https://github.com/nguy1068) **Hello from Saigon,Vietnam**
