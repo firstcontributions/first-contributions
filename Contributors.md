@@ -2861,6 +2861,7 @@ My first contribution
 - [Manogna] (https://github.com/manojna18) 
 - [Matthew Keaton](https://github.com/mkeaton08)**Hello World**
 * Eter Nada(https://github.com/tarenjk24)
+<<<<<<< HEAD
 - [Gregoric](https://github.com/Gregoric) *Print("Hello World")* 
 - [Saurabh Rao](https://github.com/saurabh91798) Please follow me and and contact me to contribute to your projects, Thank you 🫶**
 -[Yashika Prajapati](https://github.com/Yashika9013) ** Dive into the contribution World 😎**
@@ -2868,6 +2869,10 @@ My first contribution
 - [CElizOwens](https://github.com/CElizOwens) **Thank you for this tutorial! Cheers!**
 - [Sanchit](https://github.com/Sanchit33) **सादर प्रणाम*
 - [Pankaj](https://github.com/pankaj1011x) ** This is my first contribution **
+=======
+- [Gunjan Garg](https://github.com/Gunjan349) **My First Contribution**
+- [Sanchit](https://github.com/Sanchit33) **सादर प्रणाम**
+>>>>>>> cf32d11fc52c7482a743d239bfd6bd546ab4d274
 - [ImTemane](https://github.com/ImTemane) **Hi, this is my first contribution 😉**
 - [dhinesh](https://github.com/dhinesh20022806) **Hello, Contributors!**
 - [Kenneth](https://github.com/neke97) **Hi World, my first contribution
@@ -2957,11 +2962,8 @@ Esta es mi primera contribucion por parte de la URC
 - [Akash Arumugam](https://github.com/akasharumugamm)
 - [Ntokozo-Ndlovu](https://github.com/Ntokozo-Ndlovu)
 - [Shashank](https://github.com/U-Shashank)
-<<<<<<< HEAD
 - [Aparanji Nemmani](https://github.com/aparanji49) **I'm Aparanji and it's my First Contribution!**
-=======
 - Abinaya Murugan (https://github.com/Abinaya-Murugan)
->>>>>>> 19fdf05dbf9dfb4bf9584e0f31bc48ab55f47eb7
 - [ISRAEL](https://github.com/U-israel)
 - [hanbirang](https://github.com/hanbirang)
 - [Barbara Mangiri] (https://github.com/barbzyqueen) **Hello fellow contributors! This is my first contribution.**
