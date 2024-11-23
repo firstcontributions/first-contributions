@@ -178,6 +178,7 @@ Hi genius developers:) I'm Miri starting with my first contribution with a high 
 - Hi, I am Shreyansh Trigunayat, excited to get started!
 - Hi, I'm matt
 - Hi, I'm Nixx
+- Hello, I'm osmanthuspeace (https://github.com/osmanthuspeace), nice to meet you
 - Hi, I'm Wilson (https://github.com/Wilsonf8)
 - Hi, I'm Gabor
 - Hello, I'm [Violin] (https://github.com/v-in-lin)
