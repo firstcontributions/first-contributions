@@ -1037,6 +1037,11 @@ Hej! I'm Gustav from Stockholm, Sweden.
 - [Samuel Wachira](https://github.com/Leader254), **_My First Contribution_** 
 - Hello I'm [Ugochukwu Chizaram](https://github.com/ugochukwu-850) just putting down my flag.
 - [Mohamed Salah Arfa](https://github.com/MedSalahArfa1) **My first contribution**
+
+**first contribution to open source!!**
+- Hey I'm Mohit
+- Hello! I'm Chuck from India and this is my first contribution. 
+
 - Hello! I am Srihari aka sambar-boi **My first Open source contri**
 - Hello, [Ajit Sharma](https://github.com/Ajitcool008) here! Excited to contribute to the open source. Feel free to connect on [Linkedin](https://www.linkedin.com/in/ajit-sharma-a0883a72/)! and checkout my [Portfolio website](https://ajit-portfolio.web.app/)
 - Hello I`m [Liu YuTian](https://github.com/eightyseven) and this is my **first contribution on GitHub!**
