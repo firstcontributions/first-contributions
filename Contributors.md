@@ -4776,6 +4776,10 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
 -[Amaan Mirza](https://github.com/MiirzaBaig)
 -SirfrancisDrake
 -[Sanja Rogovic](https://github.com/SanjaRogovic)
+
+
+-[Gaurav Chaudhary](https://github.com/rider315)(https://www.linkedin.com/in/gaurav-chaudhary-03900120b/)
+
 -[Harsh] i made some changes
 -[Sarwat Jabeen](https://github.com/sarwatj)
 -[Nico Rugani](https://github.com/NicoRugani) learning How to contribute
