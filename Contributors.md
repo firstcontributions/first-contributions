@@ -4113,15 +4113,6 @@ wobuxinnihuiwuliaodeduwanwodemingzi
 - [Sabyatha Kumar](https://github.com/sathishs322)
 - [Rithvik](https://github.com/ChilivereRithvik)
 - [Edward Kabue] (https://github.com/EdwardKabue)
-- [Daniel dos Santos] (https://github.com/daniel-de-sousa)
-- [MANAS JHA] (https://github.com/02Manas-jha)
-- [Maidi Lin] (https://github.com/bubblemanss)
-
-git add Contributors.md# Contributors
-- [Derian Rambo](https://github.com/DerianRambo)
-111111111111111111111111111111111
-- [iv660](https://github.com/iv660)
-- [Yeshu Puri](https://github.com/Yzzpuri13) thanks 
 - Kevin Liu
 - [Harshit Agarwal](https://github.com/Harshit-Agarwal-2022)
 - goodCircle
@@ -8836,6 +8827,7 @@ guanj65
 - [Mohanraj Arumugam](https://github.com/a-mohanraj)
 - [Derek Diao](https://github.com/puzzled-stone)
 - [Meowveloper](https://github.com/Meowveloper)
+- [Jupsimar](https://github.com/jupsimar)
 - [ironcg](https://github.com/ironcg)
 - [greatbrain](https://github.com/greatbrain)
 - [Arek Niedzielski](https://github.com/arknie08576)
