@@ -36,6 +36,7 @@ Hello I am Harshit.
 - Hello, I am @alexiwisteria and I am a code wizard in training! So happy to be here! here is my github (https://github.com/alexiwisteria)
 - Hii Iam Nithin : [My GitHub] (https://github.com/devnithin)
 - Hi👋, I am [Shivam](https://github.com/ShivamMissar) and i'm ready  
+- Hi, I am Bharath (https://github.com/Batz005) and this is my first contribution. Happy and excited to enter the open source dimension!
 - Hey I'm Genevieve B (https://github.com/genevievebrooks)
 - Hey I'm Jaw Gum Hkawng (https://github.com/jawgumhkawng)
 - qaffe was here :3 (https://github.com/qaffe)
