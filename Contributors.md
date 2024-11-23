@@ -5,6 +5,7 @@
 - This is the beta testing.
 - Rahul.. Naam toh Suna Hogaa...(https:www.github.com/rahulgawadee) from India (Bharat) Also follow me on Github
 - Hi my name is "Chaitanya Arora" (https://github.com/ChaitanyaArora) from India.
+- Hi everyone this is Tushar Sharma (https://github.com/tushar-2110) from India  
 - Hi my name is "Kumar Prince" (https:www.github.com/kumarprince8071) from India.
 - Hello my name is [Gazi Nahian](https://github.com/Gazi2050) , I love open source 💌🌐 
 - Hi ny name is [Mario Abarca] (https://github.com/PrograMario12) from México
@@ -12,6 +13,7 @@
 - Hey everyone! Greetings from Risav. I am [Risav Kumar Jha](https://github.com/risavjhagithubrit) from India.
 - helo my name is lapulapu from filipino land.
 - Hello everyione, I'm Christian from Italy!
+
 - Hi I'm Shina. I'm very passionate about software development.
 - Hello! I am [Varun](https://github.com/MrVarun1)! I am from Telangana, India
 - Hello! I am Hence! (https://github.com/hencethepyramids)
