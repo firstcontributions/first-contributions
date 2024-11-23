@@ -4062,6 +4062,8 @@ wobuxinnihuiwuliaodeduwanwodemingzi
 - [Edward Kabue] (https://github.com/EdwardKabue)
 - [Daniel dos Santos] (https://github.com/daniel-de-sousa)
 - [MANAS JHA] (https://github.com/02Manas-jha)
+- [Maidi Lin] (https://github.com/bubblemanss)
+
 git add Contributors.md# Contributors
 - [Derian Rambo](https://github.com/DerianRambo)
 111111111111111111111111111111111
