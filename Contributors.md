@@ -3844,7 +3844,6 @@ Abhinav Jain
 - [Mashhoor Ahdal](https://github.com/mashhoorahdal)
 - [matilopezz] (https://github.com/matilopezz)
 - [KPN](https://github.com/ComputerPhoneNaing)
-- [Vernell C.](https://github.com/VCGithubCode) 🎸⭐️
 - [TZH](https://github.com/ThawZin1804)
 - [Alex Holliday](https://github.com/popnfresh234)
 - [lofisky](https://github.com/lofisky) I was also here :DD
