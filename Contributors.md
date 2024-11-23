@@ -1317,9 +1317,10 @@ Jojo
 - [optimisuke (Naosuke Ito)](https://github.com/optimisuke)
 - [Ko Ko Naing](https://github.com/ko-ko-naing) **dev27/9/24**
 - [Abhinav Surya](https://github.com/Abhinavsuryakolla) **My First Contribution**
+- [Ambuj Baranwal](https://github.com/ambuj-baranwal) **My First Contribution**
 - [Alonso Garcia](https://github.com/abg287) **Awesome Sauce**
-- [Kunal Suraniya](https://github.com/suraniyakunal) ** It's Fun
-- [Gilberto Valdez Arreola] (https://github.com/GilVA1) ** step zero **
+- [Kunal Suraniya](https://github.com/suraniyakunal) ** It's Fun **
+- [Gilberto Valdez Arreola](https://github.com/GilVA1) ** step zero **
 Sabrina J Valcin
 - [laurel-yyy] (https://github.com/laurel-yyy), **hello world**
 - [Josef Wolf](https://github.com/JosefJW)
