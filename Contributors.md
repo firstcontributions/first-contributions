@@ -400,9 +400,12 @@ Hey its Wesley
 - HI there!, I am Sanidhya! ((https://github.com/Sanidhyafeaturist)
 -Yaay! I am Kyoshi Lima (https://github.com/KyoshiLima)
 - Hello 🖐️ My name is Stu (https://github.com/smc-lean) and I'm trying to make it as a developer (eventually).
+
+-Hey. Tisa here from Nepal.
+
 - hello i am Evan (https://github.com/bz-e)
 - Hello!!! This is KARAN KUMAR NONIA (https://github.com/kkn2k19)
-- Hello OpenSouce World by Abhishek N N (https://github.com/abhi8f)
+- Hello OpenSouce World by Abhishek N N (https://github.com/abhi8fæ
 - Hi there! My name is Ruoyu Li! (https://github.com/RuoyuLi97)
 - Hi I'm Oscar
 -  HI there!, I am Ain Azeem! ((https://github.com/iAinAzeem))
