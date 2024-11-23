@@ -3171,6 +3171,7 @@ vrushabhpatil48
 - [Priyanshi]
   [Bazeel Bin Waris](https://github.com/Bazeel-Waris) # Thanks for Helping Newbies 😊
   [Pratham Jaiswal](https://github.com/pantha
+- [sandhya kondmare](https://github.com/sandhyakp) **this is my first  open source**
 - [Christophe Adami](https://github.com/adach2)
 - [Zhanel Nzamdin] **stost**
 - [Jonnie Shizuka](https://github.com/Jonnie-Dev)
@@ -3422,6 +3423,7 @@ vrushabhpatil48
 - MS
 - [Anwar Rahim](https://anwarrahim.com) **Hello World! I am Data Scientist**
 - [switchbladechocolate](https://github.com/switchbladechocolate)
+- [sandhyakp] (https://github.com/sandhyakp) **this is my first os**
 - [Willian Luigi Carneri](https://github.com/willcarneri)
 - [Chedvi Ganz](https://github.com/chedvig)
 - [Daniel Chun](https://github.com/DNML31)
