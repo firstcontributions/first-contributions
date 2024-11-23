@@ -6,6 +6,7 @@
 - Rahul.. Naam toh Suna Hogaa...(https:www.github.com/rahulgawadee) from India (Bharat) Also follow me on Github
 - Hi my name is "Chaitanya Arora" (https://github.com/ChaitanyaArora) from India.
 - Hi my name is "Kumar Prince" (https:www.github.com/kumarprince8071) from India.
+- Hello my name is [Gazi Nahian](https://github.com/Gazi2050) , I love open source 💌🌐 
 - Hi ny name is [Mario Abarca] (https://github.com/PrograMario12) from México
 - Greetings! I'm Zeshan Ayub (https://github.com/ydrgzm)
 - Hey everyone! Greetings from Risav. I am [Risav Kumar Jha](https://github.com/risavjhagithubrit) from India.
