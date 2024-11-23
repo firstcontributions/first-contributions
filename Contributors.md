@@ -3,8 +3,11 @@
 # Contributors
 - Hi my name is "Kumar Prince" (https:www.github.com/kumarprince8071) from India.
 - Hi ny name is [Mario Abarca] (https://github.com/PrograMario12) from México
+- Greetings! I'm Zeshan Ayub (https://github.com/ydrgzm)
 - Hey everyone! Greetings from Risav. I am [Risav Kumar Jha](https://github.com/risavjhagithubrit) from India.
 - helo my name is lapulapu from filipino land.
+- Hi I'm Shina. I'm very passionate about software development.
+- Hello! I am [Varun](https://github.com/MrVarun1)! I am from Telangana, India
 - Hello! I am Hence! (https://github.com/hencethepyramids)
 - Hi hi hi
 - info lokernya bang gw dari cianjur
@@ -31,6 +34,7 @@ Hello I am Harshit.
 - Hey, It's Bibek and ready to slay open-source(https://github.com/bibek-mahat)
 -Hello I'm Gail Parazo ⋆°✩👻
 - Hey, Max here !
+- avaVision here ! [My GitHub](https://github.com/avavision)
 - Hi, I am veenoise
 - Hello I am Shane 
 - Hello, I am somanath Mikali
@@ -176,6 +180,7 @@ Hi genius developers:) I'm Miri starting with my first contribution with a high 
 - Hi, I am Shreyansh Trigunayat, excited to get started!
 - Hi, I'm matt
 - Hi, I'm Nixx
+- Hello, I'm osmanthuspeace (https://github.com/osmanthuspeace), nice to meet you
 - Hi, I'm Wilson (https://github.com/Wilsonf8)
 - Hi, I'm Gabor
 - Hello, I'm [Violin] (https://github.com/v-in-lin)
