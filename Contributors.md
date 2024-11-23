@@ -2814,6 +2814,7 @@ Vedant Raut here and this is my first Contribution
 - [Callum Haley](https://github.com/binbang12) **Hello world! Let's make you better together!**
 - [Wasiu Yusuf](https://github.com/yusuphwasiu) *Hello Everyone*, I've decided to take my first baby step towards contributing to open source. Although i feel ashamed i should have done this years ago, however, i believe it is never too late to start something worthwhile.*
 - [José Furlán](https://github.com/j-furlan) *My first contribution*, maybe a little to late to start learning about this but here I am.
+- [Ten 9](https://github.com/lm83680)  😎😎**Ha Ha. So Easy**
 - [Houssam Kanso](https://github.com/houssamkanso)**Hello World**
 - [Diego Cubillo](https://github.com/diegocubillo)**Hello World**
 - [João Augusto](https://github.com/joaugustoo)
@@ -4864,7 +4865,7 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
 - [william nyaranga](https://github.com/William-nyarash)
 - [Narek](https://github.com/Naki1995/first-contributions)
  [Adam Honvedo](https://github.com/Homvi)
- -Tim Shurlock
+  - Tim Shurlock
 - [Blake Hill](https://github.com/Blake-Hill)<3
 - WL Hong: Hi from Hong Kong~ 
 - [Seo-Eun Kim] (https://github.com/SeoeunK)
