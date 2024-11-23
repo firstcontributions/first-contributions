@@ -5975,11 +5975,11 @@ Jasmine
 -[j.f .keneddy]
 - [LSR]
 - [Peter Hilbert](https://github.com/pehilbert)
-[Sayantan Roy Chowdhury]
--[.kim](https//github.com/kim8584)
+- [Sayantan Roy Chowdhury]
+- [.kim](https//github.com/kim8584)
 - [Yeressil Taupiyk](https://github.com/BalmundSM)
-- [Balmund()
--[Arshadakl] ()
+- [Balmund]()
+- [Arshadakl] ()
 - [Somssi Pathania](https://github.com/SOMSSI2110)
 - [Gabriel Fernandes](https://github.com/gabrielfernandeswebdev)
 - [Lakshya Mishra](https://github.com/mishrlaksh)
