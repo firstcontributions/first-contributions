@@ -4,7 +4,6 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 #### _Read this in [other languages](translations/Translations.md)._
-## This is my first contribution
 
 <kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/al.svg" width="22">](translations/README.al.md)</kbd>
 <kbd>[<img title="Uzbek" alt="Uzbek language" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/uz.svg" width="22">](translations/README.uz.md)</kbd>
@@ -117,7 +116,6 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 ## Create a branch
 
 Change to the repository directory on your computer (if you are not already there):
-3
 ```
 cd first-contributions
 ```
