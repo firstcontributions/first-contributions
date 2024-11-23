@@ -4644,6 +4644,7 @@ weissbrotjaeger
 - [Jair Landeros](https://github.com/JairLanderos)
 - [Venkatesh Jamge](https://github.com/venkateshjamge)
 - CJ
+[Chloey]https://github.com/KittDu contributions make us better
 - [Manon Jacquin](https://github.com/manonja)
 - [Ravi Bhatia](https://github.com/suryanz)
 - [Hemanth Chellatton](https://github.com/hemu161)
