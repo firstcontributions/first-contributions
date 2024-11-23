@@ -1107,6 +1107,7 @@ Hej! I'm Gustav from Stockholm, Sweden.
 - Hey I´m Nico
 - Howdy, this is briann
 - [Thelen] **First contribution
+- [Dhaqane] **First Ever contribution
 - [JavaScribeXixi2024] **My First Contribution**
 - [sahith][s-venom] **My First Contribution**
 - [BeringeloF] **Eu estive aqui**
