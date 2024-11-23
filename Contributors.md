@@ -5,6 +5,7 @@
 - Hi ny name is [Mario Abarca] (https://github.com/PrograMario12) from México
 - Hey everyone! Greetings from Risav. I am [Risav Kumar Jha](https://github.com/risavjhagithubrit) from India.
 - helo my name is lapulapu from filipino land.
+- Hi I'm Shina. I'm very passionate about software development.
 - Hello! I am Hence! (https://github.com/hencethepyramids)
 - Hi hi hi
 - info lokernya bang gw dari cianjur
