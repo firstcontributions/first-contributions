@@ -1,10 +1,9 @@
 
 
 # Contributors
-
-- Rahul.. Naam toh Suna Hogaa...(https:www.github.com/rahulgawadee) from India (Bharat)
-  Also follow me on Github
-
+- Hi I am Anurag Das!! (https://github.com/Anurag3000/)
+- This is the beta testing.
+- Rahul.. Naam toh Suna Hogaa...(https:www.github.com/rahulgawadee) from India (Bharat) Also follow me on Github
 - Hi my name is "Chaitanya Arora" (https://github.com/ChaitanyaArora) from India.
 - Hi my name is "Kumar Prince" (https:www.github.com/kumarprince8071) from India.
 - Hi ny name is [Mario Abarca] (https://github.com/PrograMario12) from México
