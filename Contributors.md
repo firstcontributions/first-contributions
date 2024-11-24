@@ -1,6 +1,7 @@
 
 
 # Contributors
+- Hello i'm [Ronice Yemeli](https:www.github.com/roniceyemeli) from Cameroon
 - Hi my name is "Kumar Prince" (https:www.github.com/kumarprince8071) from India.
 - Hi ny name is [Mario Abarca] (https://github.com/PrograMario12) from México
 - Hey everyone! Greetings from Risav. I am [Risav Kumar Jha](https://github.com/risavjhagithubrit) from India.
