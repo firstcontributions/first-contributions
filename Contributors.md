@@ -2689,6 +2689,7 @@ mh
   [Arian Soltani](https://github.com/Arian1-dev)
 - [Gemini Lo](https://github.com/geminixmemory) **Hi I'm Gemini fm HK, welcome any connection**
 - [Oscar McGlone](https://github.com/oscarmcgl) **hey, I'm Oscar**
+- [Derrick Ampire](https://github.com/am-derrick) **Going to change the World through Tech! 🥸🔥**
 - [Aditya](https://github.com/adityax4) **Hello World**
 - [Shashank](https://github.com/shshaank) **hey, this is my second pr**
 - Nifane Borges
@@ -9427,6 +9428,7 @@ Hector
 - [kikki](https://github.com/kikki1992) **first contrubutions**
 - [Emilio_Moreno] (https://github/com/WoodstockXP) **Hi!!!**
 - [matt](https://github.com/matt-the-thew) **Buckle Up!** Here to squash bugs and build cool stuff
+- [Vinita](https://github.com/VINITASUTHAR) 
 - [Anyelo](https://github.com/AnyeloM15) 
 - [Vinita](https://github.com/VINITASUTHAR) 
 - [Naufaldi](https://github.com/naufalD) **yippee**
