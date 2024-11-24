@@ -16,8 +16,8 @@ Rohit Raj
 - Hey everyone! Greetings from Risav. I am [Risav Kumar Jha](https://github.com/risavjhagithubrit) from India.
 - helo my name is lapulapu from filipino land.
 - Hello everyione, I'm Christian from Italy!
-
 - Frank was here.
+- Hello Folks, this is Prasenjit D from Kolkata, India!
 - [Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
 - [tasosbeast](https://github.com/tasosbeast)
 - [Akanksha Maurya](https://github.com/Akanksham12)
@@ -892,6 +892,7 @@ GitHub Profile Link: https://github.com/RajukrRaja**
 - Hey, I am Razal Kabeer [RazalBinKabeer](https://github.com/RazalBinKabeer). I am really glad to contribute to this repository 🌟🌟🌟.
 - Hi! I'm kliftun!
 - Hi! I'm Moiads. I am trying to be a contributer!
+- Hi! I'm AJohn. I hope to join open source!
 - [Victor Ezaki]{https://github.com/VictorEzaki} **Hello, World! My first contribution on Open Source projects**
 - Hello everyone, I am [Mohammed Anaf](https://github.com/mohammedanaf) and excited to contribute to open-source projects.
 - Hello fellow **Programmers!** I'm [Henry](https://github.com/hevprog) and this is my **First time making a PR**
@@ -10306,3 +10307,5 @@ Hi,I'm Johns,(https://github.com/Sunhc11)from China,glad to meet yooooooou!
 - Hi, I'm Aniket Sahu, I am a full stack developer [https://www.github.com/aniketsahu115]
 - [bibek-deka](https://github.com/ibleedcode86)
 -- Hi, I'm Sufiyan Jamadar, I am a full stack developer [https://github.com/SufiyanJamadar]
+-[IZHAN KHAN](https://github.com/izhan05803)
+- Hi everyone, I`m Vitaly Nechaev a python developer. [Vitaly Nechaev](https://github.com/WhitcherX)
