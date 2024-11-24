@@ -4074,6 +4074,7 @@ Tamar
 - [Mathew Alex](https://github.com/mathewalexKerala)
 - [Vaishnavi K](https://github.com/vaishke)
 - [MatiasFernandez] (https://github.com/MFernandez0992)
+- [fzifr] (https://github.com/zifr)
 - [Santiago Enciso] (https://github.com/Dogeon0)
 - [Leeuwin Ririnui](https://github.com/loubxby)
 - [Berryywise](https://github.com/berryywise)
