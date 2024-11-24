@@ -15,7 +15,7 @@ Rohit Raj
 - Hey everyone! Greetings from Risav. I am [Risav Kumar Jha](https://github.com/risavjhagithubrit) from India.
 - helo my name is lapulapu from filipino land.
 - Hello everyione, I'm Christian from Italy!
-- Hello Folks, this is Prasenjit from Kolkata, India!
+- Hello Folks, this is Prasenjit D from Kolkata, India!
 - [Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
 - [tasosbeast](https://github.com/tasosbeast)
 - [Akanksha Maurya](https://github.com/Akanksham12)
