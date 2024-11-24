@@ -20,8 +20,9 @@ Rohit Raj
 - Frank was here.
 - Hello Folks, this is Prasenjit D from Kolkata, India!
 - [Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
-- [tasosbeast](https://github.com/tasosbeast)
 - [Akanksha Maurya](https://github.com/Akanksham12)
+- [tasosbeast](https://github.com/tasosbeast)
+- [MHM](https://github.com/MinHtetMaung)
 - [Barun Rajak](https://github.com/Barungit)
 - [Bhasamrita Sarmah](https://github.com/bhasamritasarmah)
 - Hi I'm Shina. I'm very passionate about software development.
