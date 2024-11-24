@@ -4161,6 +4161,7 @@ wobuxinnihuiwuliaodeduwanwodemingzi
 - [Om Singh](https://github.com/fieryprofessor)
 - [Vikas Kumar](https://github.com/vikaskumar168)
 - [Eric Wang](https://github.com/ewang7421)
+- [Monique Adams]
 - [Alan Chan] (https://github.com/Chanalan1)
 - [Noy] 
 - [Nathan](https://github.com/Meillaya)
@@ -8869,6 +8870,7 @@ guanj65
 - [Quinn Glenn] (https://github.com/QuinnG8)
 - [Chanse Syres] (https://github.com/Otnzfq-Fleqf)
 - [Elena Piaggio](https://github.com/elenapiaggio)
+- [monique-adams](https://github.com/moni110)
 - [Matej G](https://github.com/IsxImattI)
 - [Alvin Abiero](https://github.com/AbieroAlvin)
 - [Samuel White](https://github.com/SamWhite01)
