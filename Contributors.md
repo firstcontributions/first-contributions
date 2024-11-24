@@ -10333,3 +10333,4 @@ Hi,I'm Johns,(https://github.com/Sunhc11)from China,glad to meet yooooooou!
 -- Hi, I'm Sufiyan Jamadar, I am a full stack developer [https://github.com/SufiyanJamadar]
 -[IZHAN KHAN](https://github.com/izhan05803)
 - Hi everyone, I`m Vitaly Nechaev a python developer. [Vitaly Nechaev](https://github.com/WhitcherX)
+- Hi i am DP Nas just trying the first "opensource" contribution, "but worked already on lot of Commercial Projects, haha.:D".
