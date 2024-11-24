@@ -2646,6 +2646,7 @@ mh
 - [James McKey](https://github.com/jmmckey)
 - [VictorHugo3000](https://github.com/VictorHugo3000) **THIS IS MY FIRST CONTRIBUTION I am from Mexico**
 - [Siddharth Pranay](https://github.com/SId-pranay123) ***My first contrib!***
+- [Reagan Pius](https://github.com/reagan-pius) **Hello, Jambo! This is my first ever Open Source Contribution!**
 - [Ann Mukami](https://github.com/Kiunga1) ***Hello World My Name is Ann Mukami. This is my first Open Source contribution. I'm adding my name in the sands of time. ***
 - [Porin](https://github.com/p0r1n) **Hi!**
 - [Sagar Singh](https://github.com/Singh-Sagar)**Long journey ahead**
