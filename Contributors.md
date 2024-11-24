@@ -39,6 +39,7 @@ Rohit Raj
 - Geecko here, iama filypino so hello world.
 - Hi Im MBM : [My GitHub](https://github.com/Bue-2003)
 - Yo, I'm Benjamin and I'm here to crash the party, [here's my github](https://github.com/BAKAJ77).
+- Yo, My name is James and this is my first contribution! [My github](https://github.com/jamesl0350)
 - Howdy, my name is Boo!
 - Nour-eddine was Here!!
 - Hello, I'm [Hassan R](https://github.com/hassanraha) and it's my first open source contribution.
