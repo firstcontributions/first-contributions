@@ -2,7 +2,6 @@
 .idea/
 .vs
 .env
-
 # User-specific files
 *.rsuser
 *.suo
