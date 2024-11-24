@@ -4220,6 +4220,7 @@ wobuxinnihuiwuliaodeduwanwodemingzi
 - [Debbie Nguyen] (https://github.com/debbie-nguyen)
 - [Kurtis Walton] (https://github.com/kurtisjw)
 - [Justin Stoner](https://github.com/justinstoner2)
+- [John Hazrati](https://github.com/John-6670) ->  **`a computer engineering student with passion for ML`**
 - [Paula Monzonis](https://github.com/pmonzonis)
 - [MadawaSamarathunga](https://github.com/MadawaSamarathunga)
 - [Aaron De Leon](https://github.com/AaODL93)
