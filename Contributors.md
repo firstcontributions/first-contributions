@@ -8285,6 +8285,7 @@ Hey there its Adarsh Rout aka ideal.x_
 - [Yacine Mahdi](https://github.com/Yacine-Mahdi)
 - [adityaxx21]: (https://github.com/adityaxx21)
 - [Kshitij Dhande] (https://github.com/kshitijd-2004/)
+- [Adrien Chopard]
 - [David Christian](https://github.com/ChrisChloe)
 - [POQUELANDON](https://github.com/POQUELANDON)
 - [**NolanN**](https://github.com/nolann-dev) **Hello world**
