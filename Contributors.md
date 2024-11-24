@@ -1,5 +1,6 @@
 # Contributors
-- Rohit Raj
+-HI FROM Kansas.  Code with me! 
+Rohit Raj
 - [Koushik Mupparapu](https://github.com/SaFFireGHOST) **Koushik's first open source contribution
 - [Harshith reddy](https://github.com/Harshith2835) **Harshith's First open source contribution!**
 - Hi I am Anurag Das!! (https://github.com/Anurag3000/)
