@@ -6343,6 +6343,7 @@ Parthiv Saikia
 - [Akshai Srinivasan](https://github.com/aksrin)
 - [Srishti Agarwal] (https://github.com/srishtiagarwall)
 - [Rahul Rajput](https://github.com/r2hu1)
+- [Rajan Sharma](https://github.com/Immortal-codes)
 - [imalightbulb](https://github.com/imalightbulb)
 - [Hunter Beach](https://github.com/HunterB433)
 - [S-H](https://github.com/sholappa)
