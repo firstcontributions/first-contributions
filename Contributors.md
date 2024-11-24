@@ -572,6 +572,7 @@ Hello! I am mn121mn121. First time trying.. ^_^
 - Hi I am 주영준!!! (https://github.com/jooladen)
 - Hi! I am Snehit !!!
 - Hi I am Alex!!!
+- Hi, I'm @GleitonFranco
 - Servus, I am Nico (https://github.com/Nico51528/)
 - Hello I'm Stan ;)
 - I am moon-deng-pen
