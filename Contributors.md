@@ -9701,6 +9701,7 @@ vivek saskar
 - [balumurugan107](https://github.com/balumurugan107) **HOORAAH!!, First Contribution!!** 
 - [Ivan Statkevich](https://github.com/mist941) **First open source contribution!**
 - [daisuke8000](https://github.com/daisuke8000) **First open source contribution!**
+- [VelimirMueller](https://github.com/VelimirMueller) **Hello everyone! After all these years, I finally made an open source contribution, yay!**
 - [Jennet Turkkan] (https://github.com/jennethydyrova) **First open source contribution!** 
 - [MidnightJump](https://github.com/MidnightJump) **First open souece contribution!**
 - [ASChirag](https://github.com/ASChirag) **Making a Contribution**
