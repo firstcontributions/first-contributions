@@ -4564,9 +4564,5 @@ utthamr
 - [Floris Christiaansen](https://github.com/flori-s)
 - [Peculia](https://github.com/peculiap1)
 - [Shubham Sahu](https://github.com/shubhcode92)
-<<<<<<< HEAD
 - [Jay Anton Roblico](https://github.com/saerdyey)
-=======
 - [Ashok Manoaharan](https://github.com/ashokm273)
->>>>>>> b31f484a29eec5fd3123593db04a592030ff9976
-git stat
