@@ -8827,6 +8827,7 @@ guanj65
 - [Mario Oklevski](https://github.com/MarioOklevski)
 - [finnb123](https://github.com/finnb123)
 - [Tianhong Gao](https://github.com/Gaotianhong)
+- [Jean Paul Petit](https://github.com/Extremepaul)
 - [adwayithks] (https://github.com/adwayithks)
 - [zhougangjie](https://github.com/zhougangjie)
 - [C M]
