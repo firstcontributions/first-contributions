@@ -7,7 +7,7 @@ Rohit Raj
 - Hi I am a Ali Hassan!! (https://github.com/HassanThePassionate)
 - [Koushik Mupparapu](https://github.com/SaFFireGHOST) **Koushik's first open source contribution
 - [Harshith reddy](https://github.com/Harshith2835) **Harshith's First open source contribution!**
-- Hi I am Anurag Das!! (https://github.com/Anurag3000/)
+- Hello!! I'm Abdullah!!!
 - This is the beta testing.
 - Rahul.. Naam toh Suna Hogaa...(https:www.github.com/rahulgawadee) from India (Bharat) Also follow me on Github
 - Hi my name is "Chaitanya Arora" (https://github.com/ChaitanyaArora) from India.
