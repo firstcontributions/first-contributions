@@ -366,6 +366,7 @@ Hey its Wesley
 - Hello, __Michael P.__ is *here*.
 - Hein is here
 - Hello Everyone, I am Bhanu :). 
+- Hello, This is Arun Sen. I am one of the top competitive programmers in India starting his open source journey.
 - Hi, Beini was here.
 - Hi, Htain Lin is here.
 - Hello, I am David
