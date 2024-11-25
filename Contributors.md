@@ -3229,6 +3229,7 @@ vrushabhpatil48
 - [Jose Piscoya Tirado](https://github.com/AtucZ) **Greatness is born from small beginnings.**
 - [Deepesh Patil](https://github.com/deepesh611) **Hey Guy!, Nice to meet you all, not my first contribution tho**
 - COffee is programmers best friend
+- [Sangjun Bae](https://github.com/no3232) **First Contribution from Korea!**
 - [Swastik Desai](https://github.com/swasdas) **It's funny to add my first contribution without fixing any bugs!!  😂😂**
 - [Juan Diego Orrego](https://github.com/Juand4rck12) **Hola, no se como termine aqui pero me gusta ;)**
 - My first contribution
