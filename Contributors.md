@@ -6015,6 +6015,7 @@ Jasmine
 - [Samuel Rudqvist](https://github.com/srudqvist)
 - [Lawrence Radburn](https://github.com/LawrenceRadburn)
 - [Mohammed Abdulaziz]
+- [Reuel Terezakis](https://github.com/SeventhDream)
 - [Harshit Thakur]
 -[Jakob Martin] (https://github.com/jakobistjakob)
 [Tharanishwaran] (https://github.com/Tharanishwaran)
