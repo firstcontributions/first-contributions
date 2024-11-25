@@ -77,6 +77,7 @@ Hello I am Harshit.
 - Sup! I'm [Prem Sai Kota](https://github.com/prem22k), in love with gym and code.
 - Hi! This is Aryan Dev Shourie. You can find my GitHub here: (Aryan2727-debug) [https://github.com/Aryan2727-debug]
 Hello, this is nithih kumar reddy
+- [Bruce Li](https://github.com/Bruceli-iscool)
 - Hello Everyone. I am Souvik Chowdhury (Siypher) [https://github.com/Siypher]. This is my first contribution.
 - Hello Everyone, [Srikanth9793](https://github.com/Srikanth9793). This is my First contribution.
 -Hello Everyone. Myname is Hrutuja. This is my first contributions.
