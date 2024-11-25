@@ -7102,6 +7102,7 @@ Parthiv Saikia
 - [Quan Do](https://github.com/dodangquan123)
 - [Paerarason](https://github.com/paerarason)
 - [Shubham](https://github.com/shubhamparmar1)
+- [Fabio Biasi Mello Rubim](https://github.com/fabiorubim) [LinkedIn](https://www.linkedin.com/in/fabiorubim/)
 - [Junkai Ji](http://github.com/swampholyten)
 - [want2012](https://github.com/want2012)
 - [Adilet Baimyrza](https://github.com/AdiletBaimyrza)
