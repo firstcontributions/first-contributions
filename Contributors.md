@@ -16,6 +16,7 @@ Rohit Raj
 - Hi everyone this is Tushar Sharma (https://github.com/tushar-2110) from India  
 - Hi my name is "Kumar Prince" (https:www.github.com/kumarprince8071) from India.
 - Hello my name is [Gazi Nahian](https://github.com/Gazi2050) , I love open source 💌🌐 
+- Hello my name is [Vanessa Christy](https://github.com/vanessaachristy), kickstarting my open source contributions here! 🚀 
 - Hi ny name is [Mario Abarca] (https://github.com/PrograMario12) from México
 - Hello World! This is [ZENith](https://github.com/ZENith-95), console.log("Here's to many more contributions!")
 - Greetings! I'm Zeshan Ayub (https://github.com/ydrgzm)
