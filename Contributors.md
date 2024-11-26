@@ -27,6 +27,7 @@ Rohit Raj
 - Hello everyione, I'm Christian from Italy!
 - Frank was here.
 - Hello Folks, this is Prasenjit D from Kolkata, India!
+- Hello Friends, this is abhay DSA from NY, USA!
 - [Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
 - [Akanksha Maurya](https://github.com/Akanksham12)
 - [tasosbeast](https://github.com/tasosbeast)
