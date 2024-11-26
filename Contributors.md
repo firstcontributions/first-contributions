@@ -57,6 +57,7 @@ Rohit Raj
 - Tjabbatjena, mittbena
 - Nour-eddine was Here!!
 - Hello, I'm [Hassan R](https://github.com/hassanraha) and it's my first open source contribution.
+- hey, just testing this out [Ali](alihamzanoor99@gmail.com)
 - Testing out CLI, aprv
 Hello I am Harshit.
 -hi i otot. i filipino. has contributon here first time
