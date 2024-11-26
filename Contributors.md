@@ -32,6 +32,7 @@ Rohit Raj
 - [tasosbeast](https://github.com/tasosbeast)
 - [MHM](https://github.com/MinHtetMaung)
 - [Barun Rajak](https://github.com/Barungit)
+- [Shanuka](https://github.com/4rthurrr)
 - [PNNH](https://github.com/PhooNyiNyar)
 - [Bhasamrita Sarmah](https://github.com/bhasamritasarmah)
 - Hi I'm Shina. I'm very passionate about software development.
