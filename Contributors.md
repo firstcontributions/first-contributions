@@ -13,6 +13,7 @@ Rohit Raj
 - Hi I am Anurag Das!! (https://github.com/Anurag3000/)
 - This is the beta testing.
 - Hi everyone I am [saif] making my first open source contribution **beta testing xd.
+- Hey I am Tejas making my first open source contribution
 - Hello, I'm [Robin](https://github.com/robinallenaz)! Excited to contribute!
 - Rahul.. Naam toh Suna Hogaa...(https:www.github.com/rahulgawadee) from India (Bharat) Also follow me on Github
 - Hi my name is "Chaitanya Arora" (https://github.com/ChaitanyaArora) from India.
