@@ -7,6 +7,7 @@
 - [Ndifon Titiana](https://github.com/N-TITIAN)
 - [Thu Rain Ko] 
 -[Shreya]
+-[Vikas Chandwara]
 - [PassionOverPain](https://github.com/PassionOverPain) **😎Anime + Games + Code #_Follow_ Me On this Journey**
 - [James McKey](https://github.com/jmmckey)
 - [Porin](https://github.com/p0r1n) **Hi!**
