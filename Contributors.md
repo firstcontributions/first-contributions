@@ -4,6 +4,7 @@
 -Frank was here
 -HI FROM Kansas.  Code with me! 
 Rohit Raj
+- [Vijay Takbhate](https://github.com/vijaytakbhate2002)
 - Hi I am a Ali Hassan!! (https://github.com/HassanThePassionate)
 - [Koushik Mupparapu](https://github.com/SaFFireGHOST) **Koushik's first open source contribution
 - [Harshith reddy](https://github.com/Harshith2835) **Harshith's First open source contribution!**
@@ -13,9 +14,11 @@ Rohit Raj
 - Hello, I'm [Robin](https://github.com/robinallenaz)! Excited to contribute!
 - Rahul.. Naam toh Suna Hogaa...(https:www.github.com/rahulgawadee) from India (Bharat) Also follow me on Github
 - Hi my name is "Chaitanya Arora" (https://github.com/ChaitanyaArora) from India.
+- Hi everyone my name is "Hendel" 😁
 - Hi everyone this is Tushar Sharma (https://github.com/tushar-2110) from India  
 - Hi my name is "Kumar Prince" (https:www.github.com/kumarprince8071) from India.
 - Hello my name is [Gazi Nahian](https://github.com/Gazi2050) , I love open source 💌🌐 
+- Hello my name is [Vanessa Christy](https://github.com/vanessaachristy), kickstarting my open source contributions here! 🚀 
 - Hi ny name is [Mario Abarca] (https://github.com/PrograMario12) from México
 - Hello World! This is [ZENith](https://github.com/ZENith-95), console.log("Here's to many more contributions!")
 - Greetings! I'm Zeshan Ayub (https://github.com/ydrgzm)
@@ -29,6 +32,8 @@ Rohit Raj
 - [tasosbeast](https://github.com/tasosbeast)
 - [MHM](https://github.com/MinHtetMaung)
 - [Barun Rajak](https://github.com/Barungit)
+- [Shanuka](https://github.com/4rthurrr)
+- [PNNH](https://github.com/PhooNyiNyar)
 - [Bhasamrita Sarmah](https://github.com/bhasamritasarmah)
 - Hi I'm Shina. I'm very passionate about software development.
 - Hello! I am [Varun](https://github.com/MrVarun1)! I am from Telangana, India
@@ -500,6 +505,7 @@ Jesus-Bernal
   Hit me up to build projects !! 
 - Hello i am Jzz.
 - Maryb was here
+- Hi, i am Aziz [Github](https://github.com/MedAzizGharbi)
 - Hi I am Keisuke Miura. 
 - Hi, I am Umar Al Mukhtar here🤗! [GitHub](https://github.com/UmarAlMukhtar) [LinkedIn](https://www.linkedin.com/in/umaralmukhtaribrahimkutty/)
 - Hi I am Anshuman Singh 
@@ -10351,3 +10357,7 @@ Hi,I'm Johns,(https://github.com/Sunhc11)from China,glad to meet yooooooou!
 - Hi everyone, I`m Vitaly Nechaev a python developer. [Vitaly Nechaev](https://github.com/WhitcherX)
 - Hi i am DP Nas just trying the first "opensource" contribution, "but worked already on lot of Commercial Projects, haha.:D".
 -Hi. I'm ankho lets play. [https://github.com/Anarchyve]
+- Hi, I'm [GDYG](https://github.com/GDYG), a front-end development engineer.
+- Hello, I am [Yusuke Koseki](https://github.com/kose-yusuke) from Japan🇯🇵
+- Hello, I'm Evdokia
+- Hello, I am [Mounir LAGHA](https://github.com/Mounirus) from DZ
