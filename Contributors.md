@@ -222,6 +222,7 @@ Hi genius developers:) I'm Miri starting with my first contribution with a high 
 - Hi, I am Enkhbold Ganbold (Inky) https://github.com/enkhbold470
 - Hi, I am Aditya, excited to get started!
 - Hi, I am Shreyansh Trigunayat, excited to get started!
+- Hi, I am Shivam Sinha, happy and excited to contribute!
 - Hi, I'm matt
 - Hi, I'm Nixx
 - Hello, I'm osmanthuspeace (https://github.com/osmanthuspeace), nice to meet you
