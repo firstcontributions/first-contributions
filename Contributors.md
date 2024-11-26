@@ -10129,6 +10129,7 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, I'm [Mohammad Sabouri](https://github.com/Sabouri1994) and here is my first open source contribution. I am so happy to be pary of this community.
 - Hi, I'm Subhasish Saha
 - Hi, I'm Blaise
+- Hello!! This is Phil from NJ, USA!
 - Hello, I'm Patrick aka 'notavailable4u' (https://github.com/notavailable4u)
 - Hey, this is (https://github.com/cabmatthew). Nice to see you here!
 - [Victor Amaral de Sousa](https://github.com/AmaVic) **Blockchain Consultant, Lecturer and Researcher**
