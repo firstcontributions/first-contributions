@@ -4,8 +4,9 @@
 - [Marjan Ahmed](https://github.com/marjan-ahmed)
 - Hello i'm [Ronice Yemeli](https:www.github.com/roniceyemeli) from Cameroon
 - Hello i'm [ZMN](https:www.github.com/Zin-Mg-Nyunt) from Myanmar
--Frank was here
--HI FROM Kansas.  Code with me! 
+- Hello everyone, solarluiso here wishing you a wonderful day!
+- Frank was here
+- HI FROM Kansas.  Code with me! 
 Rohit Raj
 - [Vijay Takbhate](https://github.com/vijaytakbhate2002)
 - Hi I am a Ali Hassan!! (https://github.com/HassanThePassionate)
