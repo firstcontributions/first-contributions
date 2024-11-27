@@ -31,6 +31,7 @@ Rohit Raj
 - Hello my name is [Vanessa Christy](https://github.com/vanessaachristy), kickstarting my open source contributions here! 🚀 
 - Hi ny name is [Mario Abarca] (https://github.com/PrograMario12) from México
 - Hello World! This is [ZENith](https://github.com/ZENith-95), console.log("Here's to many more contributions!")
+- Hello, Ravi Raizada starting my open source contribution.
 - Greetings! I'm Zeshan Ayub (https://github.com/ydrgzm)
 - Hi I am Yuhan and I want to contribute to open source projects. (https://github.com/YuhanWang2002)
 - [BlackTlacuache](https://github.com/BlackTlacuache)
