@@ -7295,6 +7295,7 @@ Philip Ambattu
 - [tenere](https://github.com/000tenere000)
 - [Abiodun Sojobi](https://github.com/baysquire) [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/aes37175bb)
 - [Mohamed-Anasse] (https://github.com/OuraghiMohamed-Anasse)
+- [Abdulmalik-Raji] (https://github.com/AbdulmalikRaji)
 - [Abijith-Lawrence] (https://github.com/abijithlj)
 - [Temitope Bankole](https://github.com/rareprince/)
 - [Kevin Grammer](https://github.com/kevingrammer)
