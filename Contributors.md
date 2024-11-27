@@ -10350,7 +10350,8 @@ Hi,I'm Johns,(https://github.com/Sunhc11)from China,glad to meet yooooooou!
 - Hi, I am [TiSing](https://github.com/tiunnts) from Taiwan.
 - Hola, I am [Raul](https://github.com/rraulz) from Cantabria, Spain :D
 - Hello This is [Saurabh Sarage](https://github.com/saurabhsarage)
-- Supp this is AK! 
+- Supp this is AK!
+- Hello, i am Satyam, contributing here as part of analyst learning open source contribution. 
 - Hi, I'm [Yan](https://github.com/taylor-xy0827) from China!
 - Hi! I'm [Avijit] (https://github.com/avij-it)
 - Hi, there! I'am Ahmad Hassan from Pakistan. (GitHub)[https://github.com/ahmad-hassan-1] And this is my first open source contribution.
