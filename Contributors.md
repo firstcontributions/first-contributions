@@ -14,7 +14,7 @@ Rohit Raj
 - This is the beta testing.
 - Hi everyone I am [saif] making my first open source contribution **beta testing xd.
 - Hey I am Tejas making my first open source contribution
-- Hey, I'm [Nand](https://github.com/nandcoder) , Happy Coding :)
+- Hey, I'm [Nand](https://github.com/nandcoder) , Happy Coding 
 - Hello, I'm [Robin](https://github.com/robinallenaz)! Excited to contribute!
 - Hey, this is my first contribution!
 - Hi, this is Bela
@@ -35,6 +35,7 @@ Rohit Raj
 - Frank was here.
 - It's me, Vince
 - Hi,Akshat this side.
+- Hi, this is Meri from Georgia
 -hello world I am [Itumeleng](https://github.com/ItumelengSeema-Dvt)
 - Hello EveryOne, I'm Midhun. A senior developer (https://github.com/midhun-pj)
 - Hello Folks, this is Prasenjit D from Kolkata, India!
