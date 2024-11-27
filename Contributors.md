@@ -32,6 +32,7 @@ Rohit Raj
 - Hello everyione, I'm Christian from Italy!
 - Frank was here.
 - It's me, Vince
+- Hi,Akshat this side.
 -hello world I am [Itumeleng](https://github.com/ItumelengSeema-Dvt)
 - Hello EveryOne, I'm Midhun. A senior developer (https://github.com/midhun-pj)
 - Hello Folks, this is Prasenjit D from Kolkata, India!
@@ -10375,3 +10376,4 @@ Hi,I'm Johns,(https://github.com/Sunhc11)from China,glad to meet yooooooou!
 - Hello, I'm Evdokia
 - Hello, I am [Mounir LAGHA](https://github.com/Mounirus) from DZ
  Hello, I am [PragatiBasnet]((https://github.com/PragatiBasnet29)) from Nepal. lets connect!!
+ - Hi, I'm Pia [https://github.com/euphoricrue]
