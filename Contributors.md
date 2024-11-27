@@ -463,7 +463,8 @@ Hey its Wesley
 - Hi Im Julia! my GitHub is https://github.com/j1bb1e and my linked in is https://www.linkedin.com/in/julia-brand-430628293/
 - Hello, my name is Bar Dadon :)
 - Hello, Im Shanto, this my first contribution (https://github.com/Tanxim/)
-- hi, Im kaleb, this is my first contribution :)
+- hi, Im kaleb, this is my first c
+ontribution :)
 - Salam, Abdul HAseeb here
 - Hello, my name is Matthew and my GH is (https://github.com/mattwheeler-dev)
 - Hi, I'm also Matt
@@ -10375,3 +10376,4 @@ Hi,I'm Johns,(https://github.com/Sunhc11)from China,glad to meet yooooooou!
 - Hello, I'm Evdokia
 - Hello, I am [Mounir LAGHA](https://github.com/Mounirus) from DZ
  Hello, I am [PragatiBasnet]((https://github.com/PragatiBasnet29)) from Nepal. lets connect!!
+- Hello I am [Arunav Chandra]((https://github.com/Arunav07)) from India, let's connect!!
