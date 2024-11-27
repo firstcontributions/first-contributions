@@ -10115,6 +10115,7 @@ Didac Vilarnau
 - G'day, I'm Steven Ring from Australia
 - Hi this is Yu from China.
 - Hi, this is [Leonardo Trindade] from Brazil(https://github.com/leotavo)
+- Hi Everyone, I am [Animesh](https://github.com/skanimesh10) from India. 🇮🇳
 - Hi, this is [Kanishk Mittal] from UK(https://github.com/Kanishkmittal55)
 - Hi, this is [sofi bonch] (https://github.com/sofibonch)
 - Hi, I am [Vikram Madhavan] from India. I am lovin' life you could call me mclovin.(https://github.com/vikram2760)
