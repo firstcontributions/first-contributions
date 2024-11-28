@@ -24,6 +24,7 @@ Rohit Raj
 - hey ,I 'm Sofien  ,this is my first open source contribution
 - Hey, this is my first contribution!
 - Hi, this is Bela
+-Helllo, i am Chaya Goldman, and i am excited to contribute open source here.
 - Rahul.. Naam toh Suna Hogaa...(https:www.github.com/rahulgawadee) from India (Bharat) Also follow me on Github
 - Hi my name is "Chaitanya Arora" (https://github.com/ChaitanyaArora) from India.
 - Hi everyone my name is "Hendel" 😁
