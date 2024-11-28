@@ -181,6 +181,7 @@ Salut! I am Mariam
   Hi! this is Vivek, it's my first ever contribution
 - Hi! This is [Vishwas]! It's my first contribution for AIML component detection https://github.com/Vishwasshe/GITPROXY-DETECTION **15th Nov 2024**
 - HI! Sara here! 15 Nov 2024
+- Hello this is yu(https://github.com/yu666yu666yu666)
 - Hi! This is Dattatreya. Learning how to contribute to Open Source.This is my first exercise **15-Nov-2024**
 - AJ here  **12-Nov-2024**
 - Hi! Tixa here wohooo *11/5/2024*
