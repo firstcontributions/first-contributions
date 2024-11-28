@@ -6657,6 +6657,7 @@ Parthiv Saikia
 - [VIGNESH BABU](https://github.com/VICKY-0017)
 - [Newton Mwasomanya](https://github.com/nmwasomanya)
 - [kuephi] (https://github.com/kuephi)
+- [Raja Kiruthika](https://github.com/rajakiru)(https://www.linkedin.com/in/kiruthika-raja-2884b7234/)
 - [Pravar Agarwal] (https://github.com/PravarAgarwal) (https://www.linkedin.com/in/pravar-agarwal/)
 -[Arpit Agrawal](https://github.com/Monkey-Arpit-Agrawal)
 -[Arpit Goswami](https://github.com/arpitgoswami)
