@@ -490,7 +490,8 @@ Hey its Wesley
 - Hello, my name is Bar Dadon :)
 - Dylan Tucker (https://github.com/DylanSTucker) **28-Nov-2024**
 - Hello, Im Shanto, this my first contribution (https://github.com/Tanxim/)
-- hi, Im kaleb, this is my first contribution :)
+- hi, Im kaleb, this is my first c
+ontribution :)
 - Salam, Abdul HAseeb here
 - Hello, my name is Matthew and my GH is (https://github.com/mattwheeler-dev)
 - Hi, I'm also Matt
