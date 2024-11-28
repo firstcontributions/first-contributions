@@ -1,7 +1,7 @@
 # Contributors
 - Hi, my name is  Emin Mammdov from Azerbaijan
 - Hi, I am Rafail Alexandrou
-- Hi,I am Pritee Gupta
+- Hi, I am Pritee Gupta
 - [waonpad](https://github.com/waonpad) ^_^
 - [Marjan Ahmed](https://github.com/marjan-ahmed)
 - Oooii, chama-me de [Geovana Veras](https://github.com/Dev-Nana) **Dev-Nana, from Brazil!**
