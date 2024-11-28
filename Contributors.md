@@ -54,6 +54,7 @@ Rohit Raj
 - [MHM](https://github.com/MinHtetMaung)
 - [Barun Rajak](https://github.com/Barungit)
 - [Shanuka](https://github.com/4rthurrr)
+- [Ivan](https://github.com/cabrera-ziri)
 - [PNNH](https://github.com/PhooNyiNyar)
 - [Bhasamrita Sarmah](https://github.com/bhasamritasarmah)
 - Hi I'm Shina. I'm very passionate about software development.
