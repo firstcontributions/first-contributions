@@ -90,6 +90,7 @@ Hi, it's me Saad (linkedin: https://www.linkedin.com/in/saad-ashraf-380715222/) 
 -FuelTheburn
 - Hi👋! [Dario Marin](https://github.com/DarioAMarinRoth) here!
 -Lavish Agarwal❤️
+-Hello, I'm Samuel Martiniano (https://github.com/semtmpbr0)
 -ghost8220 😀
 -SummerInDecember was here
 -Hello I am Omar. I am making this contribution as practice. 
