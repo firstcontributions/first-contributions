@@ -3320,6 +3320,7 @@ vrushabhpatil48
   [Pratham Jaiswal](https://github.com/pantha
 - [sandhya kondmare](https://github.com/sandhyakp) **this is my first  open source**
 - [Sahil Jain](https://github.com/2sahil3/) 
+- [Luigi Gonnella] goat
 - [Christophe Adami](https://github.com/adach2)
 - [Zhanel Nzamdin] **stost**
 - [Jonnie Shizuka](https://github.com/Jonnie-Dev)
@@ -3347,7 +3348,6 @@ vrushabhpatil48
 - [Ammar Hassan](https://github.com/vroslmend)
 - [Pruthvik](https://github.com/Pruthvik-P)
 - [Aakash Karat] | <a href="https://www.linkedin.com/in/ktaakash/">linkedin</a> | <a href="https://www.github.com/kt-aakash">github</a> 
-- [Shubh Sarpal] | <a href="https://www.linkedin.com/in/shubhsarpal/">linkedin</a> | # Shubh Sarpal
 - [Sabina Dragotsy]
 - [Dago Bert]
 - [abesegR]
