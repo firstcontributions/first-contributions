@@ -1,12 +1,15 @@
 # Contributors
+- Hi, my name is  Emin Mammdov from Azerbaijan
 - Hi, I am Rafail Alexandrou
 - [waonpad](https://github.com/waonpad) ^_^
-- [Marjan Ahmed](https://github.com/marjan-ahmed)
+-Hi, I am nika 
+[Marjan Ahmed](https://github.com/marjan-ahmed)
 - Oooii, chama-me de [Geovana Veras](https://github.com/Dev-Nana) **Dev-Nana, from Brazil!**
 - Hello i'm [Ronice Yemeli](https:www.github.com/roniceyemeli) from Cameroon
 - Hello i'm [ZMN](https:www.github.com/Zin-Mg-Nyunt) from Myanmar
 -Frank was here
--HI FROM Kansas.  Code with me! 
+-HI FROM Kansas.  Code with me!
+- Hello I'm Yash  Stay with me! 
 Rohit Raj
 - [Vijay Takbhate](https://github.com/vijaytakbhate2002)
 - Hi I am a Ali Hassan!! (https://github.com/HassanThePassionate)
@@ -22,6 +25,7 @@ Rohit Raj
 - hey ,I 'm Sofien  ,this is my first open source contribution
 - Hey, this is my first contribution!
 - Hi, this is Bela
+-Helllo, i am Chaya Goldman, and i am excited to contribute open source here.
 - Rahul.. Naam toh Suna Hogaa...(https:www.github.com/rahulgawadee) from India (Bharat) Also follow me on Github
 - Hi my name is "Chaitanya Arora" (https://github.com/ChaitanyaArora) from India.
 - Hi everyone my name is "Hendel" 😁
@@ -63,6 +67,7 @@ Rohit Raj
 - Hi hi hi
 - Hi I'm Tony from Chicago! (https://github.com/EZ-Munny) **First open source contribution!**
 - Hi Sid here
+- Hewo everyone [Katto](https://github.com/KattoDev) here :3 
 - info lokernya bang gw dari cianjur
 - Hey I am hazem [Hazem](https://github.com/HazemJammal/)
 - H4CK3R was here
@@ -107,6 +112,8 @@ Hello I am Harshit.
 - Howdy y'all! I am JJ this is very exciting!
 - Hello! My name is Divya Ganeshwala!
 - Hello Jose here!
+- Hello, I was totally confused while contributing my first time, I chose Zulip as a start but it got so overwhelming so i got help from ChatGPT from where to start my journey it gave me this to be into as nubie - (https://github.com/SinghArmaanJ)
+- Hi there! [DayNiz](https://github.com/DayNiz) here! Used FOSS software for a long time, and decided to start contributing a little bit. Cheers from France!
 - Sup! I'm [Prem Sai Kota](https://github.com/prem22k), in love with gym and code.
 - Hi! This is Aryan Dev Shourie. You can find my GitHub here: (Aryan2727-debug) [https://github.com/Aryan2727-debug]
 Hello, this is nithih kumar reddy
@@ -137,6 +144,7 @@ Hello, this is nithih kumar reddy
 Hello!! I am Sharad https://github.com/shdmpa
 -Hello! I am Ronit Tetarbe and this is my first contribution. 
 -Hello! [PAVAN](https://github.com/pavankalyandadholu)
+- Hello , Rachit here ! Part of git now :) Hopefully it works this time :/
 - Hello! [jjoaom](https://github.com/jjoaom)
 - Salam! [Hikmat](https://github.com/RamazanovTs/) **19-Nov-2024**
 - Renata hier!
@@ -165,6 +173,7 @@ Salut! I am Mariam
 - GarnetRaven was here!
 - chrif was here
 - Hello this is Ali G
+- Hey! I am Harsha and this is my first contribution
 - Hello World ! [judemin](https://github.com/judemin) was here ! - 14 Nov 2024 
 - Hi! Sumit here! 14 Nov 2024
 - Hello World! Pacovich was here (2024-11-18) 
@@ -179,6 +188,7 @@ Salut! I am Mariam
   Hi! this is Vivek, it's my first ever contribution
 - Hi! This is [Vishwas]! It's my first contribution for AIML component detection https://github.com/Vishwasshe/GITPROXY-DETECTION **15th Nov 2024**
 - HI! Sara here! 15 Nov 2024
+- Hello this is yu(https://github.com/yu666yu666yu666)
 - Hi! This is Dattatreya. Learning how to contribute to Open Source.This is my first exercise **15-Nov-2024**
 - AJ here  **12-Nov-2024**
 - Hi! Tixa here wohooo *11/5/2024*
@@ -479,8 +489,10 @@ Hey its Wesley
 - hello my name is riya
 - Hi Im Julia! my GitHub is https://github.com/j1bb1e and my linked in is https://www.linkedin.com/in/julia-brand-430628293/
 - Hello, my name is Bar Dadon :)
+- Dylan Tucker (https://github.com/DylanSTucker) **28-Nov-2024**
 - Hello, Im Shanto, this my first contribution (https://github.com/Tanxim/)
-- hi, Im kaleb, this is my first contribution :)
+- hi, Im kaleb, this is my first c
+ontribution :)
 - Salam, Abdul HAseeb here
 - Hello, my name is Matthew and my GH is (https://github.com/mattwheeler-dev)
 - Hi, I'm also Matt
@@ -9133,6 +9145,7 @@ utthamr
 - [Floris Christiaansen](https://github.com/flori-s)
 - [Peculia](https://github.com/peculiap1)
 - [Shubham Sahu](https://github.com/shubhcode92)
+- [Jay Anton Roblico](https://github.com/saerdyey)
 - [Ashok Manoaharan](https://github.com/ashokm273)
 - [Trudeau Okech](https://github.com/TrudeauOkech)
 - [jakobmichael](https://github.com/jakobmichael)
@@ -9833,7 +9846,9 @@ vivek saskar
 - [Matheus Henrique Parreira] (https://github.com/Matheus-Parreira)
 - [Mo Sa] (https://github.com/MoSa89)
 - [Abbas Endari] (https://github.com/a-endari)
+- Ricardo Reiter
 - [Mei Huang] (https://github.com/meifhuang)
+- [Kai] (https://github.com/e0406370)
 - [Luis David Jiménez Venegas](https://github.com/LuisDavidJv) **Hello, I'm very excited to learn and contribute with te community!**
 - [Nicolen Evanz Aricayos](https://github.com/razstvien01) **Let's git started.**
 - [Mohamed-588](https://github.com/Mohamed-588)
@@ -10395,6 +10410,7 @@ Hi,I'm Johns,(https://github.com/Sunhc11)from China,glad to meet yooooooou!
 - Hi i am DP Nas just trying the first "opensource" contribution, "but worked already on lot of Commercial Projects, haha.:D".
 -Hi. I'm ankho lets play. [https://github.com/Anarchyve]
 - Hi, I'm [GDYG](https://github.com/GDYG), a front-end development engineer.
+- Hello, I am [Muhamamd Reza Ananta](https://github.com/mRezaAnanta/) from Indonesia!
 - Hello, I am [Yusuke Koseki](https://github.com/kose-yusuke) from Japan🇯🇵
 - Hello, I'm Evdokia
 - Hello, I am [Mounir LAGHA](https://github.com/Mounirus) from DZ
@@ -10403,7 +10419,8 @@ Hi,I'm Johns,(https://github.com/Sunhc11)from China,glad to meet yooooooou!
  - Hi, I'm Ashish [https://github.com/Ashishyejjala] I'm a Masters student in USA. Let's connect!
  - Hi, I'm Hanqi. :))
  - Hi, I'm EthanYu (https://github.com/craftwisehq) from China.
- **India**
- - Hi, I'm Roki [GitHub: RoyRoki]
- - "Crafting code, shaping the future—one line at a time!"
+ - Hi, I'm Roki [GitHub: RoyRoki] "Crafting code, shaping the future—one line at a time!"
  - Hi, I'm [Abi](https://github.com/abinashlingank). Le'me fix bugs that was cooked by someone.
+ - Hi, I-m [Atharva](https://github.com/iurjscsi1101500). from asia
+- Hi, I'm Samil from Turkiye.
+- Hi, I'm Sherma Thangam S from India
