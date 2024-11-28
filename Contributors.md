@@ -170,6 +170,7 @@ Salut! I am Mariam
 - GarnetRaven was here!
 - chrif was here
 - Hello this is Ali G
+- Hey! I am Harsha and this is my first contribution
 - Hello World ! [judemin](https://github.com/judemin) was here ! - 14 Nov 2024 
 - Hi! Sumit here! 14 Nov 2024
 - Hello World! Pacovich was here (2024-11-18) 
