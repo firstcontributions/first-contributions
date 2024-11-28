@@ -10403,3 +10403,6 @@ Hi,I'm Johns,(https://github.com/Sunhc11)from China,glad to meet yooooooou!
  - Hi, I'm Ashish [https://github.com/Ashishyejjala] I'm a Masters student in USA. Let's connect!
  - Hi, I'm Hanqi. :))
  - Hi, I'm EthanYu (https://github.com/craftwisehq) from China.
+ **India**
+ - Hi, I'm Roki [GitHub: RoyRoki]
+ - "Crafting code, shaping the future—one line at a time!"
