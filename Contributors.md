@@ -2,6 +2,7 @@
 - Hi, I am Rafail Alexandrou
 - [waonpad](https://github.com/waonpad) ^_^
 - [Marjan Ahmed](https://github.com/marjan-ahmed)
+- Oooii, chama-me de [Geovana Veras](https://github.com/Dev-Nana) **Dev-Nana, from Brazil!**
 - Hello i'm [Ronice Yemeli](https:www.github.com/roniceyemeli) from Cameroon
 - Hello i'm [ZMN](https:www.github.com/Zin-Mg-Nyunt) from Myanmar
 -Frank was here
