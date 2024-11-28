@@ -9349,6 +9349,7 @@ Hector
 - [Harsh Navdiya](https://github.com/hpnavadiya)
 - [Jonathan Keller](https://github.com/mrjokeller)
 - [Johan Sebastian Florez Ospina](https://github.com/sebasflorezo)
+- [Divyank Bhalla](https://github.com/divyankbhalla)
 - [Kennet Shin](https://github.com/WoofWoof0)
 - [Bobby M](https://github.com/bbm2910)
 - [Rafael Jose](https://github.com/nutuxedo)
