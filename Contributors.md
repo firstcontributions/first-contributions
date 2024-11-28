@@ -8,7 +8,8 @@
 - Hello i'm [Ronice Yemeli](https:www.github.com/roniceyemeli) from Cameroon
 - Hello i'm [ZMN](https:www.github.com/Zin-Mg-Nyunt) from Myanmar
 -Frank was here
--HI FROM Kansas.  Code with me! 
+-HI FROM Kansas.  Code with me!
+- Hello I'm Yash  Stay with me! 
 Rohit Raj
 - [Vijay Takbhate](https://github.com/vijaytakbhate2002)
 - Hi I am a Ali Hassan!! (https://github.com/HassanThePassionate)
