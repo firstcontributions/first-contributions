@@ -17,14 +17,14 @@ Jika git belum dipasang di mesin anda, sila memasangnya [di sini](https://help.g
 
 ## Fork repositori ini
 
-Fork repositori ini dengan menekan butang 'Fork' yang terletak di bahagian atas halaman ini.
-Tindakan tersebut akan menghasilkan salinan repositori ke dalam akaun GitHub anda.
+Fork repositori ini dengan menekankan butang 'Fork' yang terletak di bahagian atas halaman ini.
+Tindakan tersebut akan menghasilkan salinan repositori ini ke dalam akaun GitHub anda.
 
 ## Klon repositori ini
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Sekarang, klon repositori yang anda telah fork ke mesin anda. Selepas itu, layari akaun GitHub anda, buka repositori yang baru dicabang, klik butang Clone, dan kemudian klik ikon *Copy url to clipboard*.
+Klon repositori yang anda telah fork ke mesin anda. Selepas itu, layari akaun GitHub anda, buka repositori yang baru dicabang, klik butang Clone, dan kemudian klik ikon *Copy url to clipboard*.
 
 Buka terminal dan jalankan arahan git berikut:
 
@@ -83,7 +83,7 @@ menggantikan `<your-name>` dengan nama anda.
 
 Tolak perubahan anda menggunakan arahan `git push`:
 ```
-git push-u origin <add-your-name>
+git push -u origin <add-your-name>
 ```
 menggantikan `<add-your-name>` dengan nama branch yang kamu cipta sebelumnya.
 
