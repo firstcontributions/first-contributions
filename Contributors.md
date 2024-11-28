@@ -1,4 +1,5 @@
 # Contributors
+- Hi, I am Nick P from USA
 - Hi, my name is  Emin Mammdov from Azerbaijan
 - Hi, I am Rafail Alexandrou
 - [waonpad](https://github.com/waonpad) ^_^
