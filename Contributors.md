@@ -483,6 +483,7 @@ Hey its Wesley
 - hello my name is riya
 - Hi Im Julia! my GitHub is https://github.com/j1bb1e and my linked in is https://www.linkedin.com/in/julia-brand-430628293/
 - Hello, my name is Bar Dadon :)
+- Dylan Tucker (https://github.com/DylanSTucker) **28-Nov-2024**
 - Hello, Im Shanto, this my first contribution (https://github.com/Tanxim/)
 - hi, Im kaleb, this is my first contribution :)
 - Salam, Abdul HAseeb here
