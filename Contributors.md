@@ -109,6 +109,7 @@ Hello I am Harshit.
 - Howdy y'all! I am JJ this is very exciting!
 - Hello! My name is Divya Ganeshwala!
 - Hello Jose here!
+- Hello, I was totally confused while contributing my first time, I chose Zulip as a start but it got so overwhelming so i got help from ChatGPT from where to start my journey it gave me this to be into as nubie - (https://github.com/SinghArmaanJ)
 - Hi there! [DayNiz](https://github.com/DayNiz) here! Used FOSS software for a long time, and decided to start contributing a little bit. Cheers from France!
 - Sup! I'm [Prem Sai Kota](https://github.com/prem22k), in love with gym and code.
 - Hi! This is Aryan Dev Shourie. You can find my GitHub here: (Aryan2727-debug) [https://github.com/Aryan2727-debug]
