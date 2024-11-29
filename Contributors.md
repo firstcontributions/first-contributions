@@ -6,6 +6,7 @@
 - Hi, I am Nick P from USA
 - Hi, my name is  Emin Mammdov from Azerbaijan
 - Hi, I am Rafail Alexandrou
+- Hello world! I'm Valerii Smoliakov from Georgia and it's my first commit to opensource 🍸🍾🍺🥂🍻💵💵💵💵💵💵💵💵💵
 - [waonpad](https://github.com/waonpad) ^_^
 -Hi, I am nika 
 [Marjan Ahmed](https://github.com/marjan-ahmed)
