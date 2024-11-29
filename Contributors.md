@@ -37,6 +37,7 @@ I am Adnaan (https://github.com/Valley-15)
 - Hi everyone Im Pavel Mansilla [pav-dev98](https://github.com/pav-dev98) this is my first contribution, greetings from Peru.
 Hi everyone I'm Kithmini Mayodya
 - Hello world! I'm Raşit Yılmaz [rasityilmazdev](https://github.com/rasityilmazdev) and this is my first open source contribution.
+- Hi, I'm Rinaldo!
 - woow! first contribution made. I am [Kwesi](https://github.com/Kwesi-dev).
 - Hi , I am [Manish Walia](https://github.com/manishwalia15). This is my first contribution.
 - Hi, I am Shreya https://github.com/shreya-koder, just made my first contribution
