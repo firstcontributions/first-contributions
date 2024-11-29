@@ -497,6 +497,7 @@ Hey its Wesley
 - Hi Im Julia! my GitHub is https://github.com/j1bb1e and my linked in is https://www.linkedin.com/in/julia-brand-430628293/
 - Hello, my name is Bar Dadon :)
 - Dylan Tucker (https://github.com/DylanSTucker) **28-Nov-2024**
+- Hi Im Nahom! my GitHub is(https://github.com/nahom-zenebe)
 - Hello, Im Shanto, this my first contribution (https://github.com/Tanxim/)
 - hi, Im kaleb, this is my first c
 ontribution :)
