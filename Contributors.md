@@ -1,6 +1,7 @@
 # Contributors
 - Hey there, I'm Harsh Patel. Let the world know, this is my first commit, marking the start of an incredible journey into open source! 🌟 Check out my [GitHub](https://github.com/cm-harshpatel)! **You are capable of amazing things; keep shining and making the world brighter!**  
 - Hi, I am NNS from Myanmar (https://github.com/NyeinNyein88/)
+- Hi , I'm Shashank[シャシャンク] from Osaka , Japan .[Github](https://github.com/shashankdangi)　 
 - Hi, I am Topgrace from SouthKorea
 - Hi, I am Nick P from USA
 - Hi, my name is  Emin Mammdov from Azerbaijan
