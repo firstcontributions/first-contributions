@@ -10435,3 +10435,4 @@ Hi,I'm Johns,(https://github.com/Sunhc11)from China,glad to meet yooooooou!
 - Hi, I'm Samil from Turkiye.
 - Hi, I'm Sherma Thangam S from India
 - [coalsticks](https://github.com/coalsticks): **Translated CLI document**
+- Hi, I'm Angad Dogra !
