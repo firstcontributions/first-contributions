@@ -8245,7 +8245,6 @@ Hey there its Adarsh Rout aka ideal.x_
 - [SushiOnToast](https://github.com/SushiOnToast) First contribution!!!
 - [JustVelio] (https://github.com/justvelio)
 - [John Sandoval 🚀](https://github.com/jsandoval1)
-- [Sathurshanan Kandhasamy] (https://github.com/sathurshanan-kandhasamy)
 - [louis Gituhi] (https://github.com/louisgituhi)
 - [Cat](https://github.com/Zeddex)
 - [Lava558](https://github.com/lava558)
