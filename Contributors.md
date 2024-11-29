@@ -10440,4 +10440,5 @@ Hi,I'm Johns,(https://github.com/Sunhc11)from China,glad to meet yooooooou!
 - [coalsticks](https://github.com/coalsticks): **Translated CLI document**
 - Hi, I'm Angad Dogra !
 - Hi, I'm Viet Nguyen Hoang [vitegod](https://github.com/vitegod)
+- Hello, I'm Fumihiro Okumoto.
 - Hello!I'm Miaowumiaomiaowu~ :D Have a good day guys!:D
