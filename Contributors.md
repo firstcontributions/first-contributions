@@ -4,6 +4,7 @@
 - Hi , I'm Shashank[シャシャンク] from Osaka , Japan .[Github](https://github.com/shashankdangi)　 
 - Hi, I am Topgrace from SouthKorea
 - Hi, I am Nick P from USA
+- Hi, I am daro240 from California, USA
 - Hi, my name is  Emin Mammdov from Azerbaijan
 - Hi, I am Rafail Alexandrou
 - Hello world! I'm Valerii Smoliakov from Georgia and it's my first commit to opensource 🍸🍾🍺🥂🍻💵💵💵💵💵💵💵💵💵
