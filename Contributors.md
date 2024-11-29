@@ -182,6 +182,7 @@ Salut! I am Mariam
 - Hi! Sumit here! 14 Nov 2024
 - Hello World! Pacovich was here (2024-11-18) 
 - Hii!! Kiran Choudhari Here! 15 Nov 2024 (https://github.com/choudharikiranv15)
+- Hi!! Sayantan here. This is my first contribution (29th Nov 2024).
 - Hi! this is Harsh, it's my first ever contribution
 - Hi! This is Victor Tsai! 14 Nov 2024
 - Hello, This is Ashu (https://github.com/Ashu-NT) and this is my first contribution
