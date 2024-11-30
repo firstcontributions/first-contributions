@@ -330,6 +330,7 @@ hello open source world,Aarav this side from india .
 - Hey Faiz here 👋 (https://github.com/mfaiz6)
 - Yoyo, this is the beginning of Shaurya's reign
 - Hi, I am [Mehdi Tareghi](github.com/mehditareghi)
+- Kovidh
 - hello, this is arpit from india and i am gonna be great at open source. :)
 - Hello folks, Sammed here, and I'm starting to contribute in Open Source. here is my github profile [Github](https://github.com/sammedsc45)
 - Hello, Swati was here. :)
