@@ -7,7 +7,7 @@
 - Hi, I am Topgrace from SouthKorea
 - Hi, I am Nick P from USA
 - Hi, I am daro240 from California, USA
-- Hola, I'm Anthony and this is my first contribution. [Personal Portfolio](https://AnthonyRomanVelez.github.io)[LinkedId](https://www.linkedin.com/in/anthony-roman-5b574125a/)
+- Hola, I'm Anthony and this is my first contribution.
 - Hi, my name is Emin Mammdov from Azerbaijan
 - Hi, I am vtechFrancis from Cali USA [Github](https://github.com/vtechfrancis) I just want to win the lottery
 - Hi, my name is  Emin Mammdov from Azerbaijan
