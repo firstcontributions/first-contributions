@@ -11,7 +11,9 @@
 - Hi, I am vtechFrancis from Cali USA [Github](https://github.com/vtechfrancis) I just want to win the lottery
 - Hi, my name is  Emin Mammdov from Azerbaijan
 - Hi, I am Rafail Alexandrou
-- Hello world! I'm Valerii Smoliakov from Georgia and it's my first commit to opensource 🍸🍾🍺🥂🍻💵💵💵💵💵💵💵💵💵
+- Hello world! I'm Valerii Smoliakov from Georgia and it's my first commit to opensource 
+🍸🍾🍺🥂🍻💵💵💵💵💵💵💵💵💵
+- [Mythsoul](https://github.com/mythsoul) (*/ω＼*)
 - [waonpad](https://github.com/waonpad) ^_^
 -Hi, I am nika 
 [Marjan Ahmed](https://github.com/marjan-ahmed)
