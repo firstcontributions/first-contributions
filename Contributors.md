@@ -9392,6 +9392,7 @@ Hector
 - [ElijahSource](https://github.com/ElijahSource)
 - [SudarshanJadhav](https://github.com/sjadhav07)
 - [Andres Quiroga] (https://github.com/AndresQ-Dev)
+- [Derek] (https://github.com/JustGotBlasted) from Alaska :)
 - [Cheng-Yi Tang](https://github.com/chengyitang)
 - [Wairimu Maringa](https://github.com/WairimuMaringa)
 - [Humzah alkindi]((https://github.com/hamzakindi)) 
