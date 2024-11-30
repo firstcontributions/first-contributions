@@ -6,6 +6,7 @@
 - Hi, I am Topgrace from SouthKorea
 - Hi, I am Nick P from USA
 - Hi, I am daro240 from California, USA
+- Hi, I am vtechFrancis from Cali USA [Github](https://github.com/vtechfrancis) I just want to win the lottery
 - Hi, my name is  Emin Mammdov from Azerbaijan
 - Hi, I am Rafail Alexandrou
 - Hello world! I'm Valerii Smoliakov from Georgia and it's my first commit to opensource 🍸🍾🍺🥂🍻💵💵💵💵💵💵💵💵💵
