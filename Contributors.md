@@ -3793,8 +3793,7 @@ Richard Faulk
 - [Tomasz Siedlecki](https://github.com/tomekSiedlecki) Wow, first contribution
 - [Shisojuice](https://github.com/Shisojuice)
 - [Badshah Ajminabanu](https://github.com/BadshahA1)
-
-Luca B.
+- Luca B.
 - [Shobhit Aggarwal](https://github.com/Shobhit0109)
 - [Athan J](https://github.com/Athan-Johnson) 🥳
 - [EvilloneWolf](https://github.com/EvilloneWolf) 😎
@@ -3806,7 +3805,6 @@ Luca B.
 - :shipit: [huuquyet](https://github.com/huuquyet) Hello World :earth_asia:
 - [Giro Morton](https://github.com/gm0rt4l) Here we go again!
 - [Agoon](https://github.com/PhoneMyatKt) 
-
 - gouree gurjar 123
 - [Rodrigo](https://github.com/bcrodrigo)
 - [Akash Jain] (https://github.com/aka8code) Here I am.
@@ -3814,8 +3812,7 @@ Luca B.
 - [AtharvaSail11] (https://github.com/AtharvaSail11)
 - [Chetankumarck] (https://github.com/ckchetan)
 - Iam here to solves
-
-v0idborne
+- v0idborne
 - [Pratik Gurjar] (https://github.com/pratikgurjar)
 - [Raushan Kumar] (https://github.com/raushanstar)
 - [Hendrik Baier] (https://github.com/JumpingCodes)
@@ -3823,6 +3820,7 @@ v0idborne
 - [Dhanush Surendra] (https://github.com/dhanushsurendra) First contribution to open source!
 - [Saquib Ansari](https://github.com/md-saquib)
 - [Stephen Blevins](https://github.com/sblevins-dev)
+- [@starsl8](https://github.com/starsl8) 29 November 2024
 - [Salma Hussien](https://github.com/Sallmahussien)
 - [Yogesh Rathod](https://github.com/Yogesh9000)
 - super bora
