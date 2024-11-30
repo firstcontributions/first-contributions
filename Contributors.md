@@ -20,6 +20,7 @@
 -HI FROM Kansas.  Code with me!
 - Hello I'm Yash  Stay with me! 
 Rohit Raj
+- [Khushi Tiwari](https://github.com/Khushitiwari)
 - [Vijay Takbhate](https://github.com/vijaytakbhate2002)
 - Hi I am a Ali Hassan!! (https://github.com/HassanThePassionate)
 - HII!! I am EraserNOOB!~~ (http://github.com/erasernoob)
