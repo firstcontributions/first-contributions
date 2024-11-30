@@ -9,6 +9,8 @@
 - Hi, I am daro240 from California, USA
 - Hola, I'm Anthony and this is my first contribution. [Personal Portfolio](https://AnthonyRomanVelez.github.io)[LinkedId](https://www.linkedin.com/in/anthony-roman-5b574125a/)
 - Hi, my name is Emin Mammdov from Azerbaijan
+- Hi, I am vtechFrancis from Cali USA [Github](https://github.com/vtechfrancis) I just want to win the lottery
+- Hi, my name is  Emin Mammdov from Azerbaijan
 - Hi, I am Rafail Alexandrou
 - Hello world! I'm Valerii Smoliakov from Georgia and it's my first commit to opensource 🍸🍾🍺🥂🍻💵💵💵💵💵💵💵💵💵
 - [waonpad](https://github.com/waonpad) ^\_^
