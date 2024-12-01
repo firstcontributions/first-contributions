@@ -1915,6 +1915,10 @@ Sheila Akoto
 - [Harikishna Navaratanam] (https://github.com/harikishnanavaratnam) **As they say, A journey of a thousand miles begins with a single step**
 - [Ahmad Ishaque Karimi](https://github.com/Ahmadishaque)**Trying out a new thing just like many other here heehee**
 Hello
+
+------Hey, I'm charishma reddy from India,  This is my first step into the open-source world 🚀. Check out my [GitHub](https://github.com/charishma-reddy-ui)
+
+
 - [Shreyash Waghe] (https://github.com/Shreyashwaghe) **As they say, A journey of a thousand miles begins with a single step**
 - [Chadnan Kumar M](https://github.com/chandankumarm55) **First Open Source Contribution**
 - [Wee Ki Joon](https://github.com/weekijoon) **First of many**
