@@ -1,5 +1,6 @@
 # Contributors
 - Hey, I'm Asad Ali Khan from London, UK! This is my first step into the open-source world 🚀. Check out my [GitHub](https://github.com/As4d)!
+- Hi, I'm [Christopher S. Aondona](https://github.com/christophersesugh)
 - Hey there, I'm Harsh Patel. Let the world know, this is my first commit, marking the start of an incredible journey into open source! 🌟 Check out my [GitHub](https://github.com/cm-harshpatel)! **You are capable of amazing things; keep shining and making the world brighter!**  
 - This is Mohammad! This is my first ever commit! follow my [Github](https://github.com/MohammadLab)
 - This is Waseem! Hello to the future :-b
@@ -18,15 +19,15 @@
 🍸🍾🍺🥂🍻💵💵💵💵💵💵💵💵💵
 - [Mythsoul](https://github.com/mythsoul) (*/ω＼*)
 - [waonpad](https://github.com/waonpad) ^_^
--Hi, I am nika 
-[Marjan Ahmed](https://github.com/marjan-ahmed)
+- Hi, I am nika 
+- [Marjan Ahmed](https://github.com/marjan-ahmed)
 - Oooii, chama-me de [Geovana Veras](https://github.com/Dev-Nana) **Dev-Nana, from Brazil!**
 - Hello i'm [Ronice Yemeli](https:www.github.com/roniceyemeli) from Cameroon
 - Hello i'm [ZMN](https:www.github.com/Zin-Mg-Nyunt) from Myanmar
--Frank was here
--HI FROM Kansas.  Code with me!
+- Frank was here
+- HI FROM Kansas.  Code with me!
 - Hello I'm Yash  Stay with me! 
-Rohit Raj
+- Rohit Raj
 - [Khushi Tiwari](https://github.com/Khushitiwari)
 - [Vijay Takbhate](https://github.com/vijaytakbhate2002)
 - Hi I am a Ali Hassan!! (https://github.com/HassanThePassionate)
@@ -49,7 +50,7 @@ Rohit Raj
 - Hi, it is Nora here
 - Hey, this is GhanaSree! Starting my journey.
 - Hi, this is Bela
--Helllo, i am Chaya Goldman, and i am excited to contribute open source here.
+- Helllo, i am Chaya Goldman, and i am excited to contribute open source here.
 - Rahul.. Naam toh Suna Hogaa...(https:www.github.com/rahulgawadee) from India (Bharat) Also follow me on Github
 - Hi my name is "Chaitanya Arora" (https://github.com/ChaitanyaArora) from India.
 - Hi everyone my name is "Hendel" 😁
@@ -677,7 +678,7 @@ Hello! I am mn121mn121. First time trying.. ^_^
 - ¡Hola, soy Juanlu, y estoy emocionado de hacer mi primera contribución!
 - வணக்கம்! இது உங்கள் நாகநாதன் [Naganathan] (https://github.com/NaganathanM/)
 - Hi folks! I'm glad to be part of this huge contributing community. [[[ Cheers from EGYPT ]]]
-[Renan Ferreira](https://github.com/renanf23) Jesus é o único caminho.
+- [Renan Ferreira](https://github.com/renanf23) Jesus é o único caminho.
 - Yo, I'm [Bird Person](https://github.com/ApplePieCodes) aka [ApplePieOnRye](https://discordapp.com/users/936383883493122098). I make random stuff and am willing to help others with projects.
 - Hello, [Vict75](https://github.com/vict75) here from the Netherlands
 - Hello, [Vict75](https://github.com/vict75) new-attempt from cli
