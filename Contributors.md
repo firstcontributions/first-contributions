@@ -1334,7 +1334,8 @@ Hej! I'm Gustav from Stockholm, Sweden.
 -[Aashika](https://github.com/aashika-j18)
 - [Carlos](https://github.com/carlosmperezm) 
 - [Nikhil] (https://github.com/nikcodefr) **First contribution :)**
-- [Amit Bora] (https://github.com/amitb0ra) **Hello World!** 
+- [Amit Bora] (https://github.com/amitb0ra) **Hello World!**
+- [Sezal Lagwal] (https://github.com/sezallagwal) **Hello World!**
 - [Wagner Rocha](https://github.com/WagnerRochaJ) **Hi Fellas**
 - [Mayur Tekale](https://github.com/mayurr7) *Hi everyone! follow me I will follow you back👨‍💻*
 - [Divya Kumar](https://github.com/divyakhatiyan) ** Learning to contribute by starting with first contribution**
