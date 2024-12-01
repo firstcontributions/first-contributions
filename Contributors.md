@@ -5993,6 +5993,7 @@ Jasmine
 - [Mwofoh-Adriel](https://github.com/Mwofoh-Adriel)
 - [Eddgar Rojas](https://github.com/Eddgar0)
 - [Shagun Sharma](https://github.com/shagunsharma6677)
+- [Hector-Ventura](https://github.com/0Label0)
 - [Hypothalamus](https://github.com/Hypothalamuss)
 - [Ernest Muli](https://github.com/kunmuli)
 - [m4tej](https://github.com/m4tej241)
