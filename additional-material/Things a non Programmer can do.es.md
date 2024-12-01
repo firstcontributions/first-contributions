@@ -3,7 +3,7 @@
 
 Todo en código abierto involucra a otras personas.
 Estás buscando unirte a un equipo y eso significa comprender la comunidad y cómo funciona.
-Entrar en un proyecto y decir "Hola, esto es lo que creo que debería hacer este proyecto" generalmente no se considera algo bueno.
+Entrar en un proyecto y decir "Hola, esto es lo que creo que debería hacer este proyecto." generalmente no se considera algo bueno.
 Algunos proyectos pueden acoger con agrado ese tipo de enfoque, pero si el proyecto lleva funcionando un tiempo, las posibilidades de que se adopte esa actitud son pequeñas.
 **Escuchar es la mejor manera de saber qué necesita el proyecto.**
 

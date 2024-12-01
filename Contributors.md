@@ -479,6 +479,7 @@ Hey its Wesley
 - Hello, I am Subham Phad
 - Hello, this is Aamayzingg!
 - hi, these is my first contribution!!!
+- Hello everyone! My names is Angelica and I'm so happy to contribute! (https://github.com/AngelicaMorale) :3
 - Hello, I am ved (https://github.com/antiquark007)
 - Hello, I am Yahia El boukili (https://github.com/yahyaeb)
 - Hello, I am Jason Liang (https://github.com/Jason020310)
