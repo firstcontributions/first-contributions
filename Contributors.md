@@ -3805,6 +3805,7 @@ Richard Faulk
 - [sulemandavid](https://github.com/sulemandavid) Woooooooooooooooooooooooooooooooooo
 - [Kyo Terada](https://github.com/Teradad41)
 - [danyooo](https://github.com/danyooo)
+- [Enis K](https://github.com/eniskastrati)
 - [Joumaico 🇵🇭](https://github.com/joumaico)
 - [Jamie Quinlan](https://github.com/StringsIV)
 - [Uchechukwu Emmanuel](https://github.com/onlyoneuche)
