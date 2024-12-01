@@ -1379,6 +1379,7 @@ Jojo
 - [Selvamani S](https://github.com/selva-mani-007) **It's me Selvamani from MIT**
 - [harukats](https://github.com/harukats) **Hi! 😁**
 - [Robert McClung](https://github.com/Bobaliciousss) **Hi from Arizona!**
+- [Abdelhadi Omar](https://github.com/Abd-Elhadi) **Lemme know if you want an extra hand on your project**
 - [Felipe Figueiredo](https://github.com/felipefigueiredo1) **Hi from Brazil**
 - [Tian Yi](https://github.com/ztygod) **my first time**
 - [Ryan Todd](https://github.com/r2neatha) **Hello :)**
