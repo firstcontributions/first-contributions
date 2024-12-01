@@ -5188,6 +5188,7 @@ guanj65
 -[BlazarKnight](https://github.com/BlazarKnight)
 -[elfarsif](https://github.com/elfarsif)
 -[Cld0033}(https://github.com/Cld0033)]
+-[Nazrin Zuwair](https://github.com/nazrinzuwair)
 -[SarthakSource](https://github.com/Sarthaksource): My first contribution :)
 -[ApostolosKourpadakis](https://github.com/ApostolosKourpadakis)
 -[majobasgall](https://github.com/majobasgall)
