@@ -75,6 +75,7 @@
 - Greetings! I'm Zeshan Ayub (https://github.com/ydrgzm)
 - Hi I am Yuhan and I want to contribute to open source projects. (https://github.com/YuhanWang2002)
 - [BlackTlacuache](https://github.com/BlackTlacuache)
+- Hello everyone, my name is Omer Ackerman. Nice to meet you all
 - Hey everyone! Greetings from Risav. I am [Risav Kumar Jha](https://github.com/risavjhagithubrit) from India.
 - helo my name is lapulapu from filipino land.
 - HI I am Viraj!
