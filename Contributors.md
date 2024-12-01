@@ -238,6 +238,7 @@ Salut! I am Mariam
 - Ayayaya, Hola amigüitos ¡como estan! los saludo desde acá, por que allá estan ustedes. [***Starcondor***](https://github.com/starcondor) de <img title="México" alt="México" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/mx.svg" width="22">, desde el 11 de Noviembre de 2024.
 - Hi! This is Vanshika. 
 - Hi! I am Archisman .
+- Hello,I am Lucas Gomes Santana from Brazil[My GitHub Repositories >>>>> ](https://github.com/lucas-gomes-santana/My-Personal-Projects)
 - Hi! This is Mitsu. Manifesting to be a better version of myself ^^
 - Hi, I'm [Arin Dewangan](github.com/arindewangan)
 - Hello! Its ya boy Aaron here. Lets go.
