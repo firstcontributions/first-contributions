@@ -8,14 +8,14 @@
 
 Siempre resulta difícil la primera vez que haces algo. Principalmente cuando colaboras con otros, ya que cometer errores no es agradable. Es por ello que, queremos hacer más sencilla la forma en la que los nuevos contribuyentes de _open source_ aprenden y contribuyen por primera vez.
 
-Leer artículos y ver tutoriales puede ayudar, pero ¿Qué mejor que hacer las cosas en un ambiente de prácticas? Este proyecto se enfoca en guiar y en simplificar la forma en la que los principiantes hacen su primera contribución. Si buscas hacer tu primera contribución, sigue los pasos que se muestran a continuación.
+Leer artículos y ver tutoriales puede ayudar, pero ¿qué mejor que hacer las cosas en un ambiente de prácticas? Este proyecto se enfoca en guiar y en simplificar la forma en la que los principiantes hacen su primera contribución. Si buscas hacer tu primera contribución, sigue los pasos que se muestran a continuación.  
 
 #### *Si no estás cómodo con la línea de comandos, [aquí hay unos tutoriales usando herramientas gráficas.](#Tutoriales-con-otras-herramientas)*
 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork de este repositorio" />
 
-Si no tienes git en tu equipo, aquí las instrucciones para instalarlo en el [enlace]( https://help.github.com/articles/set-up-git/ )
+Si no tienes Git en tu equipo, aquí las instrucciones para instalarlo en el [enlace]( https://help.github.com/articles/set-up-git/ )
 
 ## Dale Fork al repositorio
 
