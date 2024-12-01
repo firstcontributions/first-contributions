@@ -10519,10 +10519,11 @@ Hi,I'm Johns,(https://github.com/Sunhc11)from China,glad to meet yooooooou!
 - Hi, I'm [murali](https://github.com/muraliv030)
 - What's up guys! I'm [Sahil](https://github.com/sahil7886) from Indiana
 - Hi, I'm [Jacky Cheung](https://github.com/jackykh) from Hong Kong. I am a Frontend Developer. Welcome to my [Home Page](https://github.com/jackykh)
+- Hi guys! I'm [George Gkolfis](https://github.com/GeorgeGkolfis) from Greece!
 - Hi, I am Vaibhav. Currently pursuing my bachelor's from BITS Goa. (https://github.com/criticalfernet)
-- Hey, I'm [psistack] (https://github.com/psistack), excited to learn more about github and opensource contributions!
-- Hey guys! I'm [Kevon] (https://github.com/Kevon-Williams) and I'm very excited to be here!
--Heyo, I'm [Pinball] (https://github.com/Pinballwiz60) and I'm excited to learn more about Github :)
-- Hello, I'm [Priyanshu] (https://github.com/priyanshuahir000) from India.
-- Hello, I'm Shashank Lambat (https://github.com/ShashankLambat1) from India. This is my first contribution...
+- Hey, I'm [psistack](https://github.com/psistack), excited to learn more about github and opensource contributions!
+- Hey guys! I'm [Kevon](https://github.com/Kevon-Williams) and I'm very excited to be here!
+- Heyo, I'm [Pinball](https://github.com/Pinballwiz60) and I'm excited to learn more about Github :)
+- Hello, I'm [Priyanshu](https://github.com/priyanshuahir000) from India.
+- Hello, I'm [Shashank Lambat](https://github.com/ShashankLambat1) from India. This is my first contribution...
 - Hi, I'm [Muhammad Qasim](https://github.com/mqasimkh) from Pakistan.
