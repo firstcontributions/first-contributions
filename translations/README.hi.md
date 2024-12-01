@@ -42,7 +42,7 @@ git clone https://github.com/यह-आप-हैं/first-contributions.git
 
 `यह-आप-हैं` आपके GitHub अकाउंट का नाम है। यहाँ आप अपने कंप्यूटर में GitHub से first-contributions रिपॉज़िटरी को कॉपी कर रहे हैं अथवा उसकी एक लोकल/स्थानीय कॉपी बना रहे हैं ।
 
-## एक शाखा (ब्राँच) बनाएँ 
+## एक शाखा (ब्राँच) बनाएँ
 
 अपने कंप्यूटर पर बनाई गई रिपॉज़िटरी की कॉपी के फोल्डर/डायरेक्टरी में जाएँ (यदि अभी तक नहीं की है तो निम्न आदेश चलाएँ)
 
@@ -51,7 +51,7 @@ cd first-contributions
 ```
 
 अब एक नई शाखा बनाएँ `git switch` कमांड का उपयोग करके ।
-नई शाखा बनाने के लिए -c ऑप्शन का उपयोग होता है ।  
+नई शाखा बनाने के लिए -c ऑप्शन का उपयोग होता है ।
 
 ```
 git switch -c <अपनी-शाखा-का-नाम-जोड़ें>
@@ -67,7 +67,7 @@ git switch -c add-alonzo-church
 
 ## आवश्यक परिवर्तन करें और उन परिवर्तनों को कमिट करें-
 
-अब `Contributors.md` फ़ाइल को एक टेक्स्ट एडिटर में खोलकर इसमें अपना नाम जोड़ दें। फ़ाइल की शुरुआत या अंत में इसे न जोड़ें। इसे बीच में कहीं भी रखें । 
+अब `Contributors.md` फ़ाइल को एक टेक्स्ट एडिटर में खोलकर इसमें अपना नाम जोड़ दें। फ़ाइल की शुरुआत या अंत में इसे न जोड़ें। इसे बीच में कहीं भी रखें ।
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
@@ -110,9 +110,9 @@ git push origin <अपनी-शाखा-का-नाम-जोड़ें>
 
 ## यहाँ से कहाँ जाएं?
 
-बधाई! आपने _fork -> clone -> edit -> PR_ वर्कफ्लो की पूर्ति कर ली है, जिसका आप अक्सर एक योगदानकर्ता के रूप में सामना करेंगे! 
+बधाई! आपने _fork -> clone -> edit -> PR_ वर्कफ्लो की पूर्ति कर ली है, जिसका आप अक्सर एक योगदानकर्ता के रूप में सामना करेंगे!
 
-अपने पहले योगदान की खुशी में जश्न मनाएं तथा इसे [वेब एप्प](https://firstcontributions.github.io/#social-share) के जरिये अपने मित्रों के साथ शेयर करें। 
+अपने पहले योगदान की खुशी में जश्न मनाएं तथा इसे [वेब एप्प](https://firstcontributions.github.io/#social-share) के जरिये अपने मित्रों के साथ शेयर करें।
 
 आप हमारी स्लैक टीम को ज्वाइन कर सकते हैं यदि आपको कुछ मदद चाहिए या आपके कोई प्रश्न हों । [स्लैक पे ज्वाइन करें](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w)
 
@@ -120,6 +120,6 @@ git push origin <अपनी-शाखा-का-नाम-जोड़ें>
 
 ## शिक्षण अन्य साधनो का उपयोग करने के लिए
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|<a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a>|<a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a>|
 |---|---|---|---|---|
 |[GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md)|[Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md)|[GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md)|[Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md)|[Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md)|
