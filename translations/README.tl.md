@@ -6,27 +6,30 @@
 
 # Mga unang kontribusyon
 
-Mahirap. Laging mahirap sa unang beses ng anumang gawain. Lalo na sa isang kolaborasyon, kung saan hindi komportableng paglaanan ng tuon ang mga pagkakamali. Gusto naming simplehan at linawin ang modernong pamamaraan kung papaanong matuto at tumulong ang mga bagong *open-source contributors*.
+Mahirap. Palaging mahirap sa unang pagkakataon ng anumang gawain. Lalo na sa isang kolaborasyon, kung saan hindi komportableng paglaanan ng tuon ang mga pagkakamali. Gusto naming simplehan at linawin ang modernong pamamaraan kung papaanong matuto at tumulong ang mga bagong *open-source contributors*.
 
 Maaaring makatulong ang pagbabasa ng mga artikulo at panonood ng mga *tutorials*, pero ano pa bang mas epektibong pamamaraan kaysa sa aktual na aplikasyon ng isang pagsasanay? Ang pangunahing pakay ng proyektong ito ay gabayan ang mga baguhan na gawin ang kanilang unang *contribution*. Kung ikaw ay isa sa mga taong iyon, sundin lang ang mga sumusunod na tagubilin.
 
-#### *Kung hindi ka komportable na gumamit ng *command line*, [ito ay mga tutorials gamit ang mga *GUI* tools.](#Mga-tutorials-gamit-ang-ibang-tools)*
+Kung hindi comfortable sa paggamit ng *command line*, [may mga tutorials din gamit ang mga *GUI* tools.](#Mga-tutorials-gamit-ang-ibang-tools)*
+
 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Kung hindi naka-*install* ang *git* sa iyong kompyuter, [i-install mo](https://help.github.com/articles/set-up-git/).
+Kung wala pang *git* sa iyong computer, [i-install ito](https://help.github.com/articles/set-up-git/).
+
 
 ## I-fork ang repository
 
-I-fork ang *repository* sa pamamagitan ng pag-click ng *fork* *button* na matatagpuan sa bandang itaas na kanan ng *webpage* na ito.
+I-fork ang *repository* sa pamamagitan ng pag-click sa *fork* *button* na matatagpuan sa bandang itaas na kanan ng *webpage* na ito.
 Magkakaroon na ng kopya ng *repository* na ito sa iyong account.
 
 ## I-clone ang repository
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Ngayon, i-clone ang na-fork na repository sa iyong kompyuter. Pumunta lang sa iyong GitHub account, buksan ang nai-fork na repository, i-click ang clone button pagkatapos i-click ang *copy to clipboard* icon.
+Ngayon, i-clone ang repository na iyong na-fork sa iyong computer.
+Pumunta lang sa iyong GitHub account, buksan ang nai-fork na repository, i-click ang clone button pagkatapos i-click ang *copy to clipboard* icon.
 
 Buksan ang terminal at i-enter ang sumusunod na git command:
 
@@ -103,7 +106,8 @@ I-submit ang pull request.
 
 Pagkalipas ng ilang oras ay isasama ko ang mga pagbabago na nagawa mo papunta sa master branch ng proyekto na ito. May makukuha kang notification email kapag ang mga pagbabago ay na-isama sa proyekto.
 
-## Saan na mula rito?
+## Ano ang susunod na hakbang?
+
 
 Congrats!  Nakumpleto mo ang standard _fork -> clone -> edit -> PR_ na workflow na lagi mong magagamit bilang isang kontribyutor!
 
@@ -118,7 +122,6 @@ Ngayon, magsimula ka na mag-contribute sa ibang proyekto. Nagtipon kami ng lista
 
 ## Mga tutorials gamit ang ibang tools
 
-| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
-
