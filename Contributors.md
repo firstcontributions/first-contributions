@@ -12,6 +12,7 @@
 - Hi , I'm Shashank[シャシャンク] from Osaka , Japan .[Github](https://github.com/shashankdangi)　 
 - Hi, I am Topgrace from SouthKorea
 - Hi, I am Nick P from USA
+- Hi, I'm Idris and this is my first contribution.
 - Hola, I'm Anthony!
 - Hola, I'm tom9995
 - Hi there ! I'm agtshiba from France, nice to meet you !
