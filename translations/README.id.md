@@ -5,7 +5,7 @@
 
 # Kontribusi Pertama
 
-Proyek ini memiliki tujuan yaitu untuk menyederhanakan dan membimbing pemula untuk membuat kontribusi pertamanya di Github. Jika Anda ingin membuat kontribusi pertamamu, ikuti langkah-langkah berikut.
+Proyek ini bertujuan untuk menyederhanakan dan membimbing perjalanan seorang pemula berkontribusi di Github untuk pertama kali. Pertahatikan langkah - langkah berikut untuk memulai:
 
 #### _Jika Anda tidak terbiasa dengan baris perintah(command line), [di sini ada tutorial untuk menggunakan GUI(antarmuka bergrafis).](#Tutorial-Menggunakan-Alat-Lain)_
 
