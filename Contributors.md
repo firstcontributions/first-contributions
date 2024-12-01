@@ -14,6 +14,7 @@
 - Hi, I am Nick P from USA
 - Hola, I'm Anthony!
 - Hola, I'm tom9995
+- Hi there ! I'm agtshiba from France, nice to meet you !
 - Hi, I am Gaurav Singh Bhati [Github](https://github.com/Gauravbhati2099) from Rajasthan,India.
 - Hi, I am daro240 from California, USA
 - Hi, I am vtechFrancis from Cali USA [Github](https://github.com/vtechfrancis) I just want to win the lottery
