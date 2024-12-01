@@ -346,6 +346,7 @@ hello open source world,Aarav this side from india .
 - Hello, I'm [Nazia](https://github.com/NaziaJahanMeem)
 - Hello, I'm Ruhith here (https://github.com/ruhith777)
 - Hey, I am Alen Thomas (https://github.com/AIstar007)
+- Hi, I am [Yuta Shimizu](https://github.com/yutashimizu0612). This is my first contribution to open source!
 - Hi, This is Amatul Saboor
 - Hello there, This is [Mohammed Rashith KP](https://github.com/mohammedrashithkp)
 - Hi, this is Mo
