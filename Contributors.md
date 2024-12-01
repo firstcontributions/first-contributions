@@ -41,6 +41,8 @@ Rohit Raj
 - Hello, I'm [Robin](https://github.com/robinallenaz)! Excited to contribute!
 - hey ,I 'm Sofien  ,this is my first open source contribution
 - Hey, this is my first contribution!
+- Hi, Sophie here, first contribution
+- Hi, it is Nora here
 - Hey, this is GhanaSree! Starting my journey.
 - Hi, this is Bela
 -Helllo, i am Chaya Goldman, and i am excited to contribute open source here.
