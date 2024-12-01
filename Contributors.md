@@ -44,6 +44,7 @@ Rohit Raj
 - hey ,I 'm Sofien  ,this is my first open source contribution
 - Hey, this is my first contribution!
 - Hi, Sophie here, first contribution
+- Hey, this is [Víctor](https://github.com/vicperezch)!
 - Hi, it is Nora here
 - Hey, this is GhanaSree! Starting my journey.
 - Hi, this is Bela
