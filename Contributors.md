@@ -1,4 +1,5 @@
 # Contributors
+- Hi you all, hope you are having a great day, and even if not, don't lose hope and get a pizza and put Nirvana on speakers. Cheers!
 - **Mahesh**  
   - 🌏 Hi, I'm Mahesh from India! Excited to take my first step into the open-source world and contribute to meaningful projects.  
   - 💡 "Collaboration is the heart of innovation, and I believe every small contribution creates a big impact."  
