@@ -79,7 +79,7 @@ git commit -m "Add <your-name> to Contributors list"
 ```
 menggantikan `<your-name>` dengan nama anda.
 
-## Push changes to GitHub
+## Push perubahan ke dalam GitHub
 
 Tolak perubahan anda menggunakan arahan `git push`:
 ```
@@ -99,7 +99,7 @@ Hantar 'pull request' tersebut.
 
 Tidak lama lagi, saya akan menggabungkan semua perubahan anda ke dalam branch 'main' projek ini. Anda akan menerima e-mel pemberitahuan sebaik sahaja perubahan telah digabungkan.
 
-## Ke mana pergi dari sini?
+## Pergi ke mana selepas ini?
 
 Tahniah! Anda baru saja selesai melaksanakan aliran kerja standard _fork -> clone -> edit -> pull request_ yang sering anda akan temui sebagai seorang penyumbang!
 
