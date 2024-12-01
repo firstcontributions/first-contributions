@@ -119,6 +119,7 @@ Hello I am Harshit.
 - Hello, I am Corey. [My GitHub](https://github.com/KCM45)
 - Hi I'm Jahnavi and I'm thrilled to embark on my open source journey!
 - Hey Guys GNSR here.
+- Hello, My name is Tristan Ehron [My GitHub](https://github.com/Etan31)
 - Hello, I am @alexiwisteria and I am a code wizard in training! So happy to be here! here is my github (https://github.com/alexiwisteria)
 - Hii Iam Nithin : [My GitHub] (https://github.com/devnithin)
 - Hi👋, I am [Shivam](https://github.com/ShivamMissar) and i'm ready  
