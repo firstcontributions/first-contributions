@@ -1471,6 +1471,7 @@ Sabrina J Valcin
 - [Jazlaan Jamsheer](https://github.com/itzzJaz) *I DONT USE ARCH BTW*
 - [XZanderU](https://github.com/XZanderU) **First contribution**
 - [Somya Malik](https://github.com/somyasinghmalik) **Learning to contribute**
+-[Kunal Gupta](https://github.com/Kunalgupta2)
 - adosari 
 I am glad to use Github
 - [Grace] (https://github.com/GraceC-339) **FIRST CONTRIBUTIONS! Let's do it girls!**
