@@ -10542,6 +10542,7 @@ Hi,I'm Johns,(https://github.com/Sunhc11)from China,glad to meet yooooooou!
 -Heyo, I'm [Pinball] (https://github.com/Pinballwiz60) and I'm excited to learn more about Github :)
 - Hello, I'm [Priyanshu] (https://github.com/priyanshuahir000) from India.
 - Hello, I'm Shashank Lambat (https://github.com/ShashankLambat1) from India. This is my first contribution...
+- Hey everyone, I'm [Volodymyr Rudyk](https://github.com/volodymyr-rudyk) from Ukraine.
 - Hi, I'm [Muhammad Qasim](https://github.com/mqasimkh) from Pakistan.
 - Hello, I'm [Jorge Silva](https://github.com/jorge-huxley) from Portugal.
 - Hey, I'm [Wick Dynex](https://github.com/wickdynex) from China.
