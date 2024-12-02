@@ -532,7 +532,7 @@ Hey its Wesley
 - HI there!, I am Sanidhya! ((https://github.com/Sanidhyafeaturist)
 -Yaay! I am Kyoshi Lima (https://github.com/KyoshiLima)
 - Hello 🖐️ My name is Stu (https://github.com/smc-lean) and I'm trying to make it as a developer (eventually).
-
+- Hey! It's [Luca](github.com/lucatonello) from Argentina!
 -Hey. Tisa here from Nepal.
 
 - hello i am Evan (https://github.com/bz-e)
