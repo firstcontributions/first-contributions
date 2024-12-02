@@ -409,6 +409,7 @@ did it different
 - Hi, Adarsh here! My first one. Hits Different
 - Heyoo!!, Anoop Johny here!!
 - Hi! I'm tomo324!
+- Hey 👋🏾, I'm Ris a curious [programmer](https://github.com/PoohL0ve)!
 - Hi, Adrian Lardies here!
 - Hey! I'm Andre Maia - (https://github.com/andre-maia51)
 - Hi,this is TRZ from China,Nice to meet you!
