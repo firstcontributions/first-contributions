@@ -19,6 +19,7 @@
 - Hi, I'm Idris and this is my first contribution.
 - Hola, I'm Anthony!
 - Hola, I'm tom9995
+- Hi! Im Jacob :)
 - Hi there ! I'm agtshiba from France, nice to meet you !
 - Hi, I am Gaurav Singh Bhati [Github](https://github.com/Gauravbhati2099) from Rajasthan,India.
 - Hi, I am daro240 from California, USA
