@@ -2460,6 +2460,7 @@ Yulia Lantzberg
 - Noo Dev **My first baby step of future contributions**
 - [Gianluis Hernandez](https://github.com/Greeeni) **Hiya!!!**
 - Dyuthi Vivek
+- Hi I am Timon
 - Mahathi Pothukuchi **first contribution**
 - [Milan Dewaele](https://github.com/milanwdewaele) **A small step for mankind...**
 - [Jyotirmoy Kashyap](https://github.com/jyotirmoy009) **2024/07/13: This is my first contribution 😍)**
