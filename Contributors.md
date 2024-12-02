@@ -6663,6 +6663,7 @@ Parthiv Saikia
 - [André Wlodkovski](https://github.com/andrewlod)
 - [Yash Singh](https://github.com/YaSH-sInngH)
 - [Kim La](https://github.com/ktla99)
+- **Hi, this is [Jijie Zhou](https://github.com/jijiezhou). Nice to meet you guys here and happy coding!**
 - [Diego Rocha](https://github.com/Dark3088)
 - [Nayan Choudhary](https://github.com/nayanchoudhary31)
 - [Katherine Tomkins](https://github.com/KatherineTomkins)
