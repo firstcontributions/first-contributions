@@ -10541,6 +10541,8 @@ Hi,I'm Johns,(https://github.com/Sunhc11)from China,glad to meet yooooooou!
 - Hello, I'm [dellzer](https://github.com/dellzer), and this is my first OS contribution! :-)
 - Hi, I'm [jcorrius](https://github.com/jcorrius) from Mallorca.
 - Hi, I'm [murali](https://github.com/muraliv030)
+- Hi, I'm [Sozhan Natarajan](https://github.com/Sozhan308). ***Starting with my open-source adventure, fueled by the powerful essence of my native language***
+    **உழுவார் உலகத்தார் என்பர் மடுவார்மற்றை யவைத் துயிர் காப்புச் செயின்**
 - What's up guys! I'm [Sahil](https://github.com/sahil7886) from Indiana
 - Hi, I'm [Jacky Cheung](https://github.com/jackykh) from Hong Kong. I am a Frontend Developer. Welcome to my [Home Page](https://github.com/jackykh)
 - Hi, I am Vaibhav. Currently pursuing my bachelor's from BITS Goa. (https://github.com/criticalfernet)
