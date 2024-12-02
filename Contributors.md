@@ -7,6 +7,7 @@
   - 🔗 [GitHub Profile](https://github.com/DeveloperWide)
 - Hey, I'm Asad Ali Khan from London, UK! This is my first step into the open-source world 🚀. Check out my [GitHub](https://github.com/As4d)!
 - Hi, I'm Abel Diaz-Gonzalez!! 
+-  Pravish Nagar Kije Sb kaaja hriday raakhi kausalpur Raaja
 - Hi, I'm [Christopher S. Aondona](https://github.com/christophersesugh)
 - Hi, I am [Anurag](https://github.com/the-wilful-youth)
 - Hey there, I'm Harsh Patel. Let the world know, this is my first commit, marking the start of an incredible journey into open source! 🌟 Check out my [GitHub](https://github.com/cm-harshpatel)! **You are capable of amazing things; keep shining and making the world brighter!**  
