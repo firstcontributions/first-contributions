@@ -1,4 +1,5 @@
 # Contributors
+- Hi, I'm **Alizaib** from Hyderabad, Sindh, Pakistan. Excited to be part of the open-source community and contribute to this project! Check out my [GitHub](https://github.com/alizaibwebdev).
 - Hello there! My pen name is Rock (https://github.com/teguhrh811). It's nice to meet you :smile: .
 - Hi you all, hope you are having a great day, and even if not, don't lose hope and get a pizza and put Nirvana on speakers. Cheers!
 - **Mahesh**  
