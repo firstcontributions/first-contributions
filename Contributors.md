@@ -54,7 +54,7 @@ Rohit Raj
 - Hello everyione, I'm Christian from Italy!
 - Frank was here.
 - It's me, Vince
-- I'm Yana (https://github.com/YanaKnudsen)
+- I'm Yana(https://github.com/YanaKnudsen)
 - Hi,Akshat this side.
 - Hi, this is Meri from Georgia
 -hello world I am [Itumeleng](https://github.com/ItumelengSeema-Dvt)
