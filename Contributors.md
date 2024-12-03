@@ -537,7 +537,7 @@ Hey its Wesley
 - HI there!, I am Sanidhya! ((https://github.com/Sanidhyafeaturist)
 -Yaay! I am Kyoshi Lima (https://github.com/KyoshiLima)
 - Hello 🖐️ My name is Stu (https://github.com/smc-lean) and I'm trying to make it as a developer (eventually).
-
+- Hey! It's [Luca](github.com/lucatonello) from Argentina!
 -Hey. Tisa here from Nepal.
 
 - hello i am Evan (https://github.com/bz-e)
@@ -1092,6 +1092,7 @@ hello world! I'm [sanika bhalerao](https://github.com/SanikaBhalerao1345) and th
 - Hello! I'm Gaurav from Nepal and this is my first contribution. **feels good**
 - Hello my name it"s Pedro, and this is my **first time contributing to another GitHub repository!**(https://github.com/Pedroka2000)
 - Hello from Virginia USA. My name is Nick.
+- Riki, Israel
 - Hi there, I'm [Yeabsira](https://github.com/itsyaba) :)
 Hej! I'm Gustav from Stockholm, Sweden.
  Hello Contributors I'm Vishwa Hansnur ([vishwa13-ceo](https://github.com/vishwa13-ceo)) - A budding backend developer from India, interested in open-source contributions and web development.
@@ -5780,6 +5781,7 @@ Jasmine
 - [Mustafa Zariwala](https://github.com/mustafazariwala)
 - [Surani Naranpanawa](https://github.com/Surani02)
 - [Arpit Mishra](https://github.com/arpit-mishra-1408)
+- [YanaKnudsen](https://github.com/YanaKnudsen) 
 - [mugund10](https://github.com/mugund10) - **it's just the beginning**
 - [Arthion Daena](https://github.com/arthiondaena)
 - [De incarnated Wizard](https://github.com/AsikumaGod)
@@ -5929,6 +5931,7 @@ Jasmine
 - [Bertoli-Nicola] (https://github.com/NittuzDev) 
 - [sanyog-pardeshi]
 - [Obakepi]
+- [Kodnus] (https://github.com/Kodnus)
 - [Anirudh-Narra](https://github.com/Anirudh-Narra)
 - [m10610](https://github.com/m10610)
 - [Daniel Wong](https://github.com/Dwjf)
@@ -10560,7 +10563,8 @@ Hi,I'm Johns,(https://github.com/Sunhc11)from China,glad to meet yooooooou!
 - Hi, I'm [Muhammad Qasim](https://github.com/mqasimkh) from Pakistan.
 - Hello, I'm [Jorge Silva](https://github.com/jorge-huxley) from Portugal.
 - Hey, I'm [Wick Dynex](https://github.com/wickdynex) from China.
-Hey, I am Mahfuzul Hasan (https://github.com/Mahfuz-13) from Bangladesh.
+- Hey, I am Mahfuzul Hasan (https://github.com/Mahfuz-13) from Bangladesh.
+- Hi, I'm [Amsi4991] (https://github.com/amsi4991) from Italy
 - Hi, I'm [Amsi4991] (https://github.com/amsi4991) from Italy
 - [Johnrovan](https://github.com/j0hnr0) **Hello I'm John from Cebu, Philippines. This is my first open source contribution, OMG I'm so happy let's gooo!!**
 - - Hey, I'm [Hewenqiu](https://github.com/hewq) from China.
@@ -10570,3 +10574,5 @@ Hey, I am Mahfuzul Hasan (https://github.com/Mahfuz-13) from Bangladesh.
 - Hello world. this is kazembe kalumbi
 - me name milla [Leatherback-Turtle](https://github.com/Leatherback-Turtle)
 - Nameste! I am Saloni Singh. [https://github.com/singh-saloni-875]
+- Hi, I am [Aditya Kulraj] (https://github.com/adityakulraj)
+ 
