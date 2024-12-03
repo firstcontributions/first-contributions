@@ -517,6 +517,7 @@ Hey its Wesley
 - Hey there, I am Obed Nuertey [Profile](https://github.com/obedNuertey1)
 - Hello, I am Subham Phad
 - Hello, this is Aamayzingg!
+- Hello everyone! I am Prithivi (https://github.com/prithivirajs2812) and this is my first contribution to the Open Source. Really excited for this journey
 - hi, these is my first contribution!!!
 - Hello everyone! My names is Angelica and I'm so happy to contribute! (https://github.com/AngelicaMorale) :3
 - Hello, I am ved (https://github.com/antiquark007)
