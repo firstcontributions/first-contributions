@@ -52,6 +52,7 @@
 - [Tornike Tsulukidze](https://github.com/TheMechanicalBeing)
 - [Alwin Sajan](https://github.com/Alwin-Sajan)
 - [Alonso Jimenez](https://github.com/alonsojmnz)
+- [Gopal Iyer](https://github.com/geekiyer)
 - [Antonio Fábio](https://github.com/zodiecko)
 - [Anand Shende](https://github.com/anandshende)
 - [Arisa Abiko](https://github.com/arisaabiko)
