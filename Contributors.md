@@ -455,6 +455,7 @@
 - [Nb](https://github.com/Neeraj6Maths)
 - [Arthur Griffith](https://github.com/agriffith18)
 - [charlesdzadu](https://github.com/charlesdzadu)
+- [Benabadji Abdelkader Tarik](https://github.com/tarikko/)
 - [Catherine Mokgothu](https://github.com/catherinemokgothu)
 - [Caren Mwaka](https://github.com/Caren-Mwaka)
 - [Milind Dhamu](https://github.com/milinddhamu)
