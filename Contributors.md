@@ -43,7 +43,8 @@
 - Hello i'm [ZMN](https:www.github.com/Zin-Mg-Nyunt) from Myanmar
 - Frank was here
 - HI FROM Kansas.  Code with me!
-- Hello I'm Yash  Stay with me! 
+- Hello I'm Yash  Stay with me!
+- Hello from Brazil, I'm [João Bione](https://github.com/bioneoficial), 
 - Rohit Raj
 - [Khushi Tiwari](https://github.com/Khushitiwari)
 - [Vijay Takbhate](https://github.com/vijaytakbhate2002)
