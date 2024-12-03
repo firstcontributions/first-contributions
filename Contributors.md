@@ -197,6 +197,7 @@
 - Rapheal Suber - https://github.com/manyworldss 
 - [Fay] (https://github.com/notfay)
 - [Vinuthna](https://github.com/vinuthna29)
+- [Hamza Haider](https://github.com/Hamza-H10) 
 - [Atif Abedeen](https://github.com/atifabedeen)
 - [Muqeet Mughal](https://github.com/muqeetmughal)
 - [Donovan Guard] (https://github.com/dlguard)
