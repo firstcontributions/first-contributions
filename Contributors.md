@@ -320,6 +320,7 @@
 - [ruvvan](https://github.com/ruvvan)
 - [Jayavardhan gorlamandala](No link sorry)
 - [Ashish Kumar](https://github.com/akdevv)
+- [Julius Oyovwikigho](https://github.com/ojst60)
 - [Abdallah Radfi](https://github.com/AbdallahRdf) 🔥
 - [Mohammed Siddiq Sawani](https://github.com/siddiksawani)
 - [Mohammed Sidiq](https://github.com/MohdSiddiq12)
