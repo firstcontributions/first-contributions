@@ -1024,6 +1024,7 @@
 - [Pulkit Pathak](https://gothub.com/pulkitpathak99)
 - [DingDing](https://github.com/15078010000)
 - [lillarspillars](https://github.com/lillarspillars)
+- [Satyam Mishra](https://github.com/satyyam11)
 - [Vince](https://github.com/Perunu)
 - [Pocolee](https://github.com/pocolee)
 - [gunay-h](https://github.com/gunay-h)
