@@ -67,6 +67,7 @@
 - Hi, it is Nora here
 - Hey, this is GhanaSree! Starting my journey.
 - Hi, this is Bela
+- Hello, I am Callum and this is my first contribution ever!
 - Helllo, i am Chaya Goldman, and i am excited to contribute open source here.
 - Rahul.. Naam toh Suna Hogaa...(https:www.github.com/rahulgawadee) from India (Bharat) Also follow me on Github
 - Hi my name is "Chaitanya Arora" (https://github.com/ChaitanyaArora) from India.
