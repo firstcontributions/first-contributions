@@ -1208,8 +1208,8 @@
 - [alekhine](https://github.com/Src0p)
 - [Mtendekuyokwa19](https://github.com/Mtendekuyokwa19)
 - [Watpo54](https://github.com/Watpo54)
-- - **Hola! It's me, your enthusiastic contributor! Let's work together to make the world a bit more colorful and less complex.** 😅 **Wired together, fired together!**
-**Check out my GitHub for more! ([https://github.com/DiwakarAllu])** 🚀 
+- - **Hola! It's me, your enthusiastic contributor! Let's work together to make the world a bit more colorful and less complex.** 😅 **Wired together, fired together!** 💘
+**Check out my GitHub for more! [Diwakar Allu](https://github.com/DiwakarAllu)** 🚀 
 - [PyaeSone](https://github.com/pyae198022)
 
 - [Atsushi Koyake](https://github.com/devAtsushiKoyake)
