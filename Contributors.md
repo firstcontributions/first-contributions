@@ -15,6 +15,7 @@
 - [Zach Garza](https://github.com/ZachG1235)
 - [Mwofoh-Adriel](https://github.com/Mwofoh-Adriel)
 - [Eddgar Rojas](https://github.com/Eddgar0)
+- [Leandro Choque](https://github.com/Leannnmv)
 - [Shagun Sharma](https://github.com/shagunsharma6677)
 - [Hector-Ventura](https://github.com/0Label0)
 - [Hypothalamus](https://github.com/Hypothalamuss)
