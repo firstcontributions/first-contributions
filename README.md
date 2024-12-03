@@ -222,3 +222,15 @@ Now let's get you started with contributing to other projects. We've compiled a 
     <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
   </a>
 </p>
+
+
+
+# First Open Source Contributions
+
+![Build Status](https://github.com/DiwakarAllu/first-open-source-contributions/workflows/CI/badge.svg)
+![License](https://img.shields.io/github/license/DiwakarAllu/first-open-source-contributions)
+![Stars](https://img.shields.io/github/stars/DiwakarAllu/first-open-source-contributions)
+![Forks](https://img.shields.io/github/forks/DiwakarAllu/first-open-source-contributions)
+
+This repository is designed to help first-time contributors get started with open-source contributions.
+
