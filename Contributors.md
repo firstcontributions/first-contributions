@@ -33,6 +33,7 @@
 - [Mounish Nanu](https://github.com/mounish123)
 - [Juan Sarmiento](https://github.com/JuanEnriqueSF)
 - [Fady Zaky](https://github.com/0ddAuto00)
+- [bereamk](https://github.com/bereamk)
 - [Whitehackerneth](https://github.com/Whitehackerneth/first-contributions)
 - [Simons Arhin](https://github.com/simonskayi)
 - [Abdelwakil](https://github.com/fondbcn)
