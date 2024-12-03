@@ -10582,7 +10582,6 @@ Hi,I'm Johns,(https://github.com/Sunhc11)from China,glad to meet yooooooou!
 - Hello world. this is kazembe kalumbi
 - me name milla [Leatherback-Turtle](https://github.com/Leatherback-Turtle)
 - Nameste! I am Saloni Singh. [https://github.com/singh-saloni-875]
-- Hi, I am [Aditya Kulraj] (https://github.com/adityakulraj)
-
 - **Hola! It's me, your enthusiastic contributor! Let's work together to make the world a bit more colorful and less complex.** 😅 **Wired together, fired together!**
 **Check out my GitHub for more!** 🚀 [https://github.com/DiwakarAllu]
+- Hi, I am [Aditya Kulraj] (https://github.com/adityakulraj)
