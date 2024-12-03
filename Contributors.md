@@ -10562,7 +10562,8 @@ Hi,I'm Johns,(https://github.com/Sunhc11)from China,glad to meet yooooooou!
 - Hi, I'm [Muhammad Qasim](https://github.com/mqasimkh) from Pakistan.
 - Hello, I'm [Jorge Silva](https://github.com/jorge-huxley) from Portugal.
 - Hey, I'm [Wick Dynex](https://github.com/wickdynex) from China.
-Hey, I am Mahfuzul Hasan (https://github.com/Mahfuz-13) from Bangladesh.
+- Hey, I am Mahfuzul Hasan (https://github.com/Mahfuz-13) from Bangladesh.
+- Hi, I'm [Amsi4991] (https://github.com/amsi4991) from Italy
 - Hi, I'm [Amsi4991] (https://github.com/amsi4991) from Italy
 - [Johnrovan](https://github.com/j0hnr0) **Hello I'm John from Cebu, Philippines. This is my first open source contribution, OMG I'm so happy let's gooo!!**
 - - Hey, I'm [Hewenqiu](https://github.com/hewq) from China.
