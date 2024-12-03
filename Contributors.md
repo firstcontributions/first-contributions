@@ -69,6 +69,7 @@
 - Hey, this is [Víctor](https://github.com/vicperezch)!
 - Hi, it is Nora here
 - Hey, this is GhanaSree! Starting my journey.
+- Hi, I am Matthew!
 - Hi, this is Bela
 - Hello, I am Callum and this is my first contribution ever!
 - Helllo, i am Chaya Goldman, and i am excited to contribute open source here.
