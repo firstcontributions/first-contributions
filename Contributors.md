@@ -1217,3 +1217,4 @@
 - [PyaeSone](https://github.com/pyae198022)
 - [Atsushi Koyake](https://github.com/devAtsushiKoyake)
 - [Marinos33](https://github.com/Marinos33)
+- [40tude](https://github.com/40tude)
