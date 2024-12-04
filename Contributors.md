@@ -711,6 +711,7 @@
 - [Lalit Chugh](https://github.com/Lalitkumar21/)
 - [Tobi Stephen](https://github.com/Tobistephenn)
 - [ITS MAC](https://github.com/itsmacr8)
+- [Kevin Pomer] (https://github.com/kpomer)
 - [WG](https://github.com/electro-phys)
 - [Corey Kirschner](https://github.com/ckirschner)
 - [RoraRaven](https://github.com/RoraRaven)
