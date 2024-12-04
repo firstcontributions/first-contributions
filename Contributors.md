@@ -509,6 +509,7 @@
 - [toryf](https://github.com/tfernandez2017)
 - [Lavinia](https://github.com/Lavinia225)
 - [Vikas](https://ithub.com/Vikas013)
+- [Guillermo Nicolas Petcho](https://github.com/guillermopetcho)
 - [VaibhavSuryavanshi93](https://github.com/VaibhavSuryavanshi93)
 - [FlandersFrybad](https://github.com/flandersfrybad) 🍉
 - [Daris Mathew](https://github.com/darismathew92)
