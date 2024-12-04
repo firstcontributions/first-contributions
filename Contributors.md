@@ -8,6 +8,7 @@
 - [Abhinav](https://github.com/saiabhinav75)
 - [turtle-papa](https://github.com/turtle-papa)
 - [GCabane](https://github.com/GCabane)
+- [Rhea] (https://github.com/RheaAtre)
 - [Soaring Eagle](https://github.com/SoaringEagle910)
 - [TsvetislavRangelov](https://github.com/TsvetislavRangelov)
 - [Tsafac Nkombong Regine Cyrille](https://github.com/Regine12)
