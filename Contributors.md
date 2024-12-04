@@ -22,6 +22,7 @@
 - [Shagun Sharma](https://github.com/shagunsharma6677)
 - [Hector-Ventura](https://github.com/0Label0)
 - [Hypothalamus](https://github.com/Hypothalamuss)
+- [STA](https://github.com/sithuaung246810)
 - [Ernest Muli](https://github.com/kunmuli)
 - [m4tej](https://github.com/m4tej241)
 - [Auwalu Hamza](https://github.com/afhamu)
