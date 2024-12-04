@@ -62,6 +62,7 @@
 - [Gabriel Ripper](https://github.com/gabripper)
 - [Thales Winther](https://github.com/thaleswinther)
 - [Tornike Tsulukidze](https://github.com/TheMechanicalBeing)
+- [Rounak Chakraborty](https://github.com/Rounak0001)
 - [Alwin Sajan](https://github.com/Alwin-Sajan)
 - [Alonso Jimenez](https://github.com/alonsojmnz)
 - [Gopal Iyer](https://github.com/geekiyer)
