@@ -1008,6 +1008,7 @@
 - [Vinia Parker](https://github.com/Lavparker)
 - [Chandrakanth Kokkiripati](https://github.com/Chandrakanthkokkiripati)
 - [James](https://github.com/jwunet)
+- [Ali Sina](https://github.com/alisina97)
 - [Samuel Rubens](https://github.com/rubenszinho)
 - [Promise Nwankwo](https://github.com/giftedpromise)
 - [wissensalt](https://github.com/wissensalt)
