@@ -598,6 +598,7 @@
 - [gjeodnd12165](https://github.com/gjeodnd12165)
 - [Bernardo GE](https://github.com/geBernardo)
 - [Abdulmajid Mahadi](https://github.com/sheriifMahadi)
+- [Mario Arroyo](https://github.com/marioteli96)
 - [Dann Gil Rabaya](https://github.com/thisismedg)
 - [rivian](https://github.com/rivian96)
 - [Anup Kumar Mridha](https://github.com/anupkumarmridha)
