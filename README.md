@@ -57,7 +57,7 @@
 <kbd>[<img title="Slovenčina" alt="Slovenčina" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/sk.svg" width="22">](translations/README.slk.md)</kbd>
 <kbd>[<img title="Slovenščina" alt="Slovenščina" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/si.svg" width="22">](translations/README.sl.md)</kbd>
 <kbd>[<img title="ภาษาไทย" alt="ภาษาไทย" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/th.svg" width="22">](translations/README.th.md)</kbd>
-<kbd>[<img title="Türkçe" alt="Türkçe" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tr.svg" width="22">](translations/README.tr.md)</kbd>
+<kbd>[<img title="Türkçe" alt="Türkçe" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tr.svg" width="22">](translations/README.tr.md)<a>https://github.com/AliyanA1</a></kbd>
 <kbd>[<img title="Aliyan" alt="Türkçe" src="https://avatars.githubusercontent.com/u/124417710?v=4" width="22">](translations/README.tr.md)</kbd>
 <kbd>[<img title="中文(Traditional)" alt="中文(Traditional)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tw.svg" width="22">](translations/README.zh-tw.md)</kbd>
 <kbd>[<img title="Українська" alt="Українська" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ua.svg" width="22">](translations/README.ua.md)</kbd>
