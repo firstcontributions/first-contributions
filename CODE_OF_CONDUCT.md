@@ -11,7 +11,7 @@ nationality, personal appearance, race, caste, color, religion, or sexual
 identity and orientation.
 
 We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+diverse, inclusive, and healthy community ASCE.
 
 ## Our Standards
 
