@@ -921,6 +921,7 @@
 - [Sumedha Koranga](https://github.com/sumedhakoranga)
 - [Moataz Amr](https://github.com/moataz77716)
 - [PeKaStLa](https://github.com/PeKaStLa/)
+- **[Diwakar Allu](https://github.com/DiwakarAllu/)** 💘
 - [Sultan Mahmud](https://github.com/kaziiriad)
 - [Matt90hz](https://github.com/Matt90hz)
 - [Rahul kanyal](https://github.com/Rahulkanyalgith)
