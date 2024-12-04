@@ -1,6 +1,7 @@
 # Contributors
 
 - [Atharva](https://github.com/Atharva98)
+- [Maurizio Morgano](https://github.com/mmorgano)
 - [Ayush](https://github.com/Aayush612)
 - [Vishaal](https://github.com/vs22202)
 - [Sergio DG](https://github.com/dgsergio)
