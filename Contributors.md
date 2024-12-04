@@ -165,6 +165,7 @@
 - [Aditya Mitra](https://github.com/mitras-git)
 - [Anthony Ladon](https://github.com/AnthonyLadon)
 - [EbertonKM](https://github.com/EbertonKM)
+- [Shayne Geilman](https://github.com/ShayneJG)
 - [Aiman](https://github.com/PX201)
 - [Debapriya sengupta](https://github.com/DebapriyaSengupta28)
 - [Hoin Shin](https://github.com/signalman)
@@ -205,7 +206,7 @@
 - Rapheal Suber - https://github.com/manyworldss
 - [Fay] (https://github.com/notfay)
 - [Vinuthna](https://github.com/vinuthna29)
-- [Hamza Haider](https://github.com/Hamza-H10) 
+- [Hamza Haider](https://github.com/Hamza-H10)
 - [Atif Abedeen](https://github.com/atifabedeen)
 - [Muqeet Mughal](https://github.com/muqeetmughal)
 - [Donovan Guard] (https://github.com/dlguard)
