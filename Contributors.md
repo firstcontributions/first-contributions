@@ -14,6 +14,7 @@
 - [Michael Gabriel](https://github.com/maranatha443)
 - [ITSMijaiL](https://github.com/ITSMijaiL)
 - [hide361](https://github.com/hide361)
+- [NikitaJaiswal77](https://github.com/NikitaJaiswal77)
 - [Zach Garza](https://github.com/ZachG1235)
 - [Mwofoh-Adriel](https://github.com/Mwofoh-Adriel)
 - [Eddgar Rojas](https://github.com/Eddgar0)
