@@ -176,6 +176,7 @@
 - [Shayne Geilman](https://github.com/ShayneJG)
 - [Aiman](https://github.com/PX201)
 - [Debapriya sengupta](https://github.com/DebapriyaSengupta28)
+- [Samaksh Sethiya](https://github.com/Samaksh22)
 - [Hoin Shin](https://github.com/signalman)
 - [Rahul Choudhary](https://github.com/RahulCh010)
 - [I-Bex](https://github.com/i-Bex)
