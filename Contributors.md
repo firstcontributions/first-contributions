@@ -111,6 +111,7 @@ Rohit Raj
 - Howdy, my name is Boo!
 - Tjabbatjena, mittbena
 - Nour-eddine was Here!!
+- [Shoaib Shuja](https://github.com/ShoaibShuja) May the lord guide all of us to achieve success and greater good in our lives
 - Hello! My self yash sabne from india 🌟 [here's my github](https://github.com/yashsabne), this is my fist contribution
 - Hello, I'm [Hassan R](https://github.com/hassanraha) and it's my first open source contribution.
 - hey, just testing this out [Ali](alihamzanoor99@gmail.com)
