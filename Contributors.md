@@ -1026,6 +1026,7 @@
 - [Promise Nwankwo](https://github.com/giftedpromise)
 - [wissensalt](https://github.com/wissensalt)
 - [sprvgt](https://github.com/sprvgt)
+- [Mark Porcaro](https://github.com/markporcarojr)
 - [FaultyNeko](https://github.com/FaultyNeko)
 - [DevSaLLein](https://github.com/DevSaLLein)
 - [Anirban-Chakraborty](https://github.com/codewithanirban)
