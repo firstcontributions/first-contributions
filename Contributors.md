@@ -46,6 +46,7 @@
 - [psp0](https://github.com/psp0)
 - [brunoblaise](https://github.com/brunoblaise)
 - [OBLI B VIKRAM](https://github.com/Vikramobli)
+- [Nisha Verma](https://github.com/xnisha-verma)
 - [Jason Ang](https://github.com/jasonavatarang)
 - [Sashin Trout](https://github.com/sashin123)
 - [Jordy19](https://github.com/Jordy19)
