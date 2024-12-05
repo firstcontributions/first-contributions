@@ -53,6 +53,7 @@
 - [Simons Arhin](https://github.com/simonskayi)
 - [Abdelwakil](https://github.com/fondbcn)
 - [psp0](https://github.com/psp0)
+- [Shoaib Shuja](https://github.com/ShoaibShuja)
 - [brunoblaise](https://github.com/brunoblaise)
 - [OBLI B VIKRAM](https://github.com/Vikramobli)
 - [Nisha Verma](https://github.com/xnisha-verma)
