@@ -9,6 +9,7 @@
 - [turtle-papa](https://github.com/turtle-papa)
 - [Pranav](https://github.com/Pranav0102)
 - [GCabane](https://github.com/GCabane)
+- [gatura](https://github.com/gatura-source)
 - [Rhea](https://github.com/RheaAtre)
 - [Jeanette Gonzalez](https://github.com/JeanetteGz)
 - [Soaring Eagle](https://github.com/SoaringEagle910)
