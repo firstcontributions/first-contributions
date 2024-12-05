@@ -1,12 +1,11 @@
-[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-2vqegkew0-ZuzGM1LO33C6Ts4nZyat1Q)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-#### _Read this in [other languages](translations/Translations.md)._
+#### _अन्य [भाषाहरूमा](translations/Translations.md) पढ्नुहोस्।_
 
 <kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/al.svg" width="22">](translations/README.al.md)</kbd>
-<kbd>[<img title="Armenian" alt="Armenian" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/am.svg" width="22">](translations/README.arm.md)</kbd>
 <kbd>[<img title="Uzbek" alt="Uzbek language" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/uz.svg" width="22">](translations/README.uz.md)</kbd>
 <kbd>[<img title="Azərbaycan dili" alt="Azərbaycan dili" src="https://cdn.statically.io/flags/az.svg" width="22">](translations/README.aze.md)</kbd>
 <kbd>[<img title="বাংলা" alt="বাংলা" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/bd.svg" width="22">](translations/README.bn.md)</kbd>
@@ -18,10 +17,8 @@
 <kbd>[<img title="Deutsch" alt="Deutsch" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](translations/README.de.md)</kbd>
 <kbd>[<img title="Dansk" alt="Dansk" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/dk.svg" width="22">](translations/README.da.md)</kbd>
 <kbd>[<img title="العربية" alt="العربية" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/eg.svg" width="22">](translations/README.eg.md)</kbd>
-<kbd>[<img title="Dezéiriya" alt="Dezéiriya" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/dz.svg" width="22">](translations/README.dz.md)</kbd>
 <kbd>[<img title="Española" alt="Española" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](translations/README.es.md)</kbd>
 <kbd>[<img title="Française" alt="Française" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](translations/README.fr.md)</kbd>
-<kbd>[<img title="Gaeilge" alt="Gaeilge" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ie.svg" width="22">](translations/README.ga.md)</kbd>
 <kbd>[<img title="Galego" alt="Galego" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Galicia.svg/1200px-Flag_of_Galicia.svg.png" width="22">](translations/README.gl.md)</kbd>
 <kbd>[<img title="Ελληνικά" alt="Ελληνικά" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/gr.svg" width="22">](translations/README.gr.md)</kbd>
 <kbd>[<img title="ქართული" alt="ქართული" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ge.svg" width="22">](translations/README.ge.md)</kbd>
@@ -36,7 +33,7 @@
 <kbd>[<img title="日本語" alt="日本語" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/jp.svg" width="22">](translations/README.ja.md)</kbd>
 <kbd>[<img title="සිංහල" alt="සිංහල" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/lk.svg" width="22">](translations/README.si.md)</kbd>
 <kbd>[<img title="Kiswahili (Kenya)" alt="Kiswahili (Kenya)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ke.svg" width="22">](translations/README.kws.md)</kbd>
-<kbd>[<img title="한국어" alt="한국어" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/kr.svg" width="22">](translations/README.ko.md)</kbd>
+<kbd>[<img title="한국어" alt="한국어" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/kr.svg" width="22"> <img title="한국어" alt="한국어" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/kp.svg" width="22">](translations/README.ko.md)</kbd>
 <kbd>[<img title="Lietuvių kalba" alt="Lietuvių kalba" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/lt.svg" width="22">](translations/README.lt.md)</kbd>
 <kbd>[<img title="Limba Română" alt="Limba Română" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/md.svg" width="22"> <img title="Limba Română" alt="Limba Română" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ro.svg" width="22">](translations/README.ro.md)</kbd>
 <kbd>[<img title="မြန်မာ" alt="မြန်မာ" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/mm.svg" width="22">](translations/README.mm_unicode.md)</kbd>
@@ -46,7 +43,7 @@
 <kbd>[<img title="Dutch" alt="Dutch" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/nl.svg" width="22">](translations/README.nl.md)</kbd>
 <kbd>[<img title="Norsk" alt="Norsk" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/no.svg" width="22">](translations/README.no.md)</kbd>
 <kbd>[<img title="नेपाली" alt="नेपाली" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/np.svg" width="15">](translations/README.np.md)</kbd>
-<kbd>[<img title="Wikang Filipino" alt="Wikang Filipino" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ph.svg" width="22">](translations/README.fil.md)</kbd>
+<kbd>[<img title="Wikang Filipino" alt="Wikang Filipino" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ph.svg" width="22">](translations/README.tl.md)</kbd>
 <kbd>[<img title="English (Pirate)" alt="English (Pirate)" src="https://firstcontributions.github.io/assets/Readme/pirate.png" width="22">](translations/README.en-pirate.md)</kbd>
 <kbd>[<img title="اُاردو" alt="اردو" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/pk.svg" width="22">](translations/README.ur.md)</kbd>
 <kbd>[<img title="Polski" alt="Polski" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/pl.svg" width="22">](translations/README.pl.md)</kbd>
@@ -61,12 +58,11 @@
 <kbd>[<img title="中文(Traditional)" alt="中文(Traditional)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tw.svg" width="22">](translations/README.zh-tw.md)</kbd>
 <kbd>[<img title="Українська" alt="Українська" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ua.svg" width="22">](translations/README.ua.md)</kbd>
 <kbd>[<img title="Tiếng Việt" alt="Tiếng Việt" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/vn.svg" width="22">](translations/README.vn.md)</kbd>
-<kbd>[<img title="Tanzania" alt="Swahili language" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tz.svg" width="22">](translations/README.sw.md)</kbd>
 <kbd>[<img title="Zulu (South Africa)" alt="Zulu (South Africa)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/za.svg" width="22">](translations/README.zul.md)</kbd>
 <kbd>[<img title="Afrikaans (South Africa)" alt="Afrikaans (South Africa)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/za.svg" width="22">](translations/README.afk.md)</kbd>
 <kbd>[<img title="Igbo (Nigeria)" alt="Igbo (Nigeria)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ng.svg" width="22">](translations/README.igb.md)</kbd>
-<kbd>[<img title="Hausa (Nigeria)" alt="Hausa (Nigeria)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flag_of_the_Hausa_people.svg/1280px-Flag_of_the_Hausa_people.svg.png" width="22">](translations/README.hau.md)</kbd>
-<kbd>[<img title="Yoruba (Nigeria)" alt="Yoruba (Nigeria)" src="https://www.fotw.info/images/n/ng%7Deoyor.gif" width="22">](translations/README.yor.md)</kbd>
+<kbd>[<img title="Yoruba (Nigeria)" alt="Yoruba (Nigeria)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ng.svg" width="22">](translations/README.yor.md)</kbd>
+<kbd>[<img title="Hausa (Nigeria)" alt="Hausa (Nigeria)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ng.svg" width="22">](translations/README.hau.md)</kbd>
 <kbd>[<img title="Latvia" alt="Latvia" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/lv.svg" width="22">](translations/README.lv.md)</kbd>
 <kbd>[<img title="Suomeksi" alt="Suomeksi" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/fi.svg" width="22">](translations/README.fi.md)</kbd>
 <kbd>[<img title="Беларуская мова" alt="Беларуская мова" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/by.svg" width="22">](translations/README.by.md)</kbd>
@@ -78,149 +74,148 @@
 <kbd>[<img title="پښتو" alt="پښتو" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/af.svg" width="22">](translations/README.ps.md)</kbd>
 <kbd>[<img title="Af-soomaali" alt="Somalia" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/so.svg" width="22">](translations/README.so.md)</kbd>
 <kbd>[<img title="Español de Ecuador" alt="Ecuador" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ec.svg" width="22">](translations/README.ec.md)</kbd>
-<kbd>[<img title="Luganda (Uganda)" alt="Luganda (Uganda)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ug.svg" width="22">](translations/README.lug.md)</kbd>
-<kbd>[<img title="Turkmen" alt="Turkmen language" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tm.svg" width="22">](translations/README.tm.md)</kbd>
-<kbd>[<img title="Ewe (TOGO)" alt="Ewe (TOGO)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tg.svg" width="22">](translations/README.ewe.md)</kbd>
-<kbd>[<img title="አማርኛ" alt="አማርኛ" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/et.svg" width="22">](translations/README.et.md)</kbd>
-<kbd>[<img title="Morocco" alt="Moroccan Darija" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ma.svg" width="22">](translations/README.ma.md)</kbd>
 
-# First Contributions
+# पहिलो योगदान(contribution)।
+यस प्रोजेक्टले शुरुवातकर्ताहरूले आफ्नो पहिलो योगदान गर्ने तरिकालाई सरल बनाउने र मार्गदर्शन गर्ने लक्ष्य राखेको छ। यदि तपाईं आफ्नो पहिलो योगदान गर्न खोज्दै हुनुहुन्छ भने, तलका चरणहरूको पालना गर्नुहोस्। हामी पहिलो योगदान (contribution) को लागि यसै repository को प्रयोग गर्नेछौ ।
 
-This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+_यदि तपाईं कमाण्ड लाइन (command line) सँग सहज हुनुहुन्न भने, [यहाँ GUI tool हरु प्रयोग गर्ने Tutorial हरु छन्।](#अन्य-उपकरणहरू-प्रयोग-गर्ने-tutorial-हरु)_
 
-_If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository ." />
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+#### यदि तपाईंसँग तपाइँको कम्प्यूटरमा  git  छैन भने,[ यहाँबाट install गर्नुहोस्।]( https://help.github.com/articles/set-up-git/)
 
-#### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
+## Repository Fork गर्नुहोस्।
 
-## Fork this repository
+यस page को Top मा रहेको `Fork` बटनमा क्लिक गरेर यो repository लाई Fork गर्नुहोस। यसले तपाईंको GitHub account मा  यस रिपोको प्रतिलिपि(copy) बनाउदछ ।
 
-Fork this repository by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+## Repository Clone गर्नुहोस्।
 
-## Clone the repository
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository " />
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+अब `  Fork  ` गरेको repository लाई आफ्नो कम्प्युटरमा `  Clone  ` गर्नको लागी तपाइको GitHub account मा जानुहोस् र Fork गरिएको Repository  खोल्नुहोस्। अब ` Code ` बटनमा क्लिक गर्नुहोस् र त्यसपछि *copy to clipboard* आइकनमा क्लिक गर्नुहोस्।
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
+टर्मिनल खोल्नुहोस् र निम्न git कमाण्ड चलाउनुहोस्:
 
-Open a terminal and run the following git command:
-
-```bash
-git clone "url you just copied"
+```
+git clone "तपाइले copy गरेको URL"
 ```
 
-where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+जहाँ `"तपाइले copy गरेको URL"`  छ, त्यो तपाईले fork गरेको repository को url हो । ( Url प्राप्त गर्न clone गर्ने चित्रहरुमा हेर्नुहोस्। )
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL लाई क्लिपबोर्डमा प्रतिलिपि बनाउनुहोस्" />
 
-For example:
+उदाहरणका लागि:
 
-```bash
-git clone git@github.com:this-is-you/first-contributions.git
+```
+git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+जहाँ `this-is-you` छ, त्यहाँ तपाईंको GitHub username लेख्नुहोस् । यहाँ तपाइँले GitHub बाट तपाईंको कम्प्युटरमा `first-contributions` repository को  file हरु प्रतिलिपि (copy) गर्दै हुनुहुन्छ।
 
-## Create a branch
+## Repository Branch बनाउनुहोस्।
 
-Change to the repository directory on your computer (if you are not already there):
+तपाईंको कम्प्यूटरमा Clone गरेको repository को directory लाई खोल्नुहोस् (यदि तपाईं पहिले नै हुनुहुन्न भने):
 
-```bash
+```
 cd first-contributions
 ```
 
-Now create a branch using the `git switch` command:
+अब `git switch` कमाण्ड प्रयोग गरेर एउटा branch बनाउनुहोस् :
 
-```bash
-git switch -c your-new-branch-name
+```
+git switch -c  ब्रन्चको-नाम
 ```
 
-For example:
+उदाहरणको लागि:
 
-```bash
-git switch -c add-alonzo-church
+```
+git switch -c add-ram-regmi
 ```
 
-## Make necessary changes and commit those changes
+(ब्रान्चको नाममा *add* शब्दको आवश्यकता छैन, तर यसमा add समावेश गर्न उचित छ किनभने यस branch को  उद्देश्य तपाईंको नामलाई contributors को सूचीमा थप्ने हो।)
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+## Repository मा आवश्यक परिवर्तनहरू गर्नुहोस् र तिनी परिवर्तनहरूलाई  commit गर्नुहोस्।
+
+अब टेक्स्ट एडिटर (text editor) मा  `Contributors.md` फाइल खोल्नुहोस्, यसमा तपाईंको नाम add गर्नुहोस् । तपाईंको नामलाई फाइलका  नामहरुको बीचमा राख्नुहोस् , *सुरुवात वा अन्त्यमा तपाईंको नाम नथप्नुहोस्*। ।
+अब फाईल save गर्नुहोस्।
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
+अब यदि तपाई  project directory  जानुभयो र `git status` कमाण्डलाई रन (run) गर्नुभयो भने,तपाइँले त्यहाँ परिवर्तन भएका फाइलहरुको सुची देख्नुहुनेछ।
 
-Add those changes to the branch you just created using the `git add` command:
+तपाइले भर्खरै बनाउनु भएको branch मा  `git add` कमाण्ड प्रयोग गरी तिनी परिवर्तनहरू थप्नुहोस्:
 
-```bash
+```
 git add Contributors.md
 ```
 
-Now commit those changes using the `git commit` command:
+अब `git commit` कमाण्ड प्रयोग गरेर तिनी परिवर्तनहरू कमिट (commit) गर्नुहोस्:
 
-```bash
-git commit -m "Add your-name to Contributors list"
+```
+git commit -m "Add <your-name> to Contributors list"
 ```
 
-replacing `your-name` with your name.
+`<your-name>` को साटोमा तपाईंको आफ्नो नाम लेख्नुहोला।
 
-## Push changes to GitHub
+## GitHub मा परिवर्तनहरुलाई push गर्नुहोस।
 
-Push your changes using the command `git push`:
+`git push` कमाण्डको प्रयोग गरेर आफ्नो परिवर्तनहरु  पुश (push) गर्नुहोस्:
 
-```bash
-git push -u origin your-branch-name
+```
+git push -u origin <your-branch-name>
 ```
 
-replacing `your-branch-name` with the name of the branch you created earlier.
+`<your-branch-name>` को सट्टामा तपाईले पहिले बनाएको branch को  नामको लेख्नुहोस्।
+
+उदाहरणको लागि:
+
+```
+git push -u origin add-ram-regmi
+```
 
 <details>
-<summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
+<summary> <strong>यदि push गर्दा केहि समस्या परेमा यहाँ क्लिक गर्नुहोस् :</strong> </summary>
 
 - ### Authentication Error
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
   fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
-  Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
-
+ [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)   मा गएर आफ्नो account को लागी SSH key generate र configure गर्नुहोस ।
 </details>
 
-## Submit your changes for review
+## Review को लागि तपाईंको परिवर्तनहरू पेश गर्नुहोस्।
 
-If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+यदि तपाईं आफ्नो गिटहब रिपोजिटोरी ( GitHub Repository) मा जानुहुन्छ भने, तपाइँले `Compare & pull request` बटन देख्नुहुनेछ। त्यस बटनमा क्लिक गर्नुहोस्।
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="एउटा पुल अनुरोध सिर्जना गर्नुहोस्" />
 
-Now submit the pull request.
+अब pull request पेश गर्नुहोस्।
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
+केहि समयमै म यस प्रोजेक्टको Master branch मा तपाईका सबै परिवर्तनहरू Merge गर्नेछु। परिवर्तनहरू merge भएपछि हजुरले एक notification इमेल(email) प्राप्त गर्नुहुनेछ।
 
-## Where to go from here?
+## यहाँबाट कहाँ जाने?
 
-Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
+बधाई छ! तपाईले *Fork* -> *Clone*  -> *Edit*  -> *Pull Request*  कार्यप्रवाह(workflow) पूरा गर्नुभयो, जुन तपाई प्राय: एक योगदानकर्ता(contributor)को रूपमा गर्नुहुनेछ!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
+तपाईंले योगदान(contribution) दिनु भएकोमा खुशी मनाउनुहोस् र [web app](https://firstcontributions.github.io/#social-share) मा गएर आफ्नो friends and follower हरूमा पनि शेयर गर्नुहोस् ।
 
-You could join our slack team if you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-2vqegkew0-ZuzGM1LO33C6Ts4nZyat1Q).
+तपाइँलाई कुनै पनि मद्दत चाहिन्छ वा कुनै प्रश्न छ भने तपाइँ हाम्रो slack team मा सामेल हुन सक्नुहुनेछ। [join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
+अब तपाईले अन्य प्रोजेक्टहरूमा योगदान दिन सुरु गर्नुहोस्। हामीले तपाईंले गर्न सक्नुहुने सजिलो समस्याहरू(issues)को साथमा प्रोजेक्टहरूको सूची संकलन गरेका छौ हेर्नुहोस् ।. [list of projects in the web app](https://firstcontributions.github.io/#project-list)।
 
-### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
+### [थप सामग्री](../additional-material/git_workflow_scenarios/additional-material.md)
 
-## Tutorials Using Other Tools
+## अन्य उपकरणहरू प्रयोग गर्ने tutorial हरु
 
-| <a href="gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
+| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| --- | --- | --- | --- | --- | --- |
+| [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
 
-<p>This project is supported by:</p>
+<p>यो project लाई समर्थन गर्ने:</p>
 <p>
   <a href="https://www.digitalocean.com/">
     <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
   </a>
 </p>
-
-

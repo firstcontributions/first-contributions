@@ -1,0 +1,217 @@
+name: Auto-merge PRs
+on:
+  pull_request_target:
+    types: [opened, synchronize]
+    paths:
+      - 'Contributors.md' # <- only run if only contributors file changed
+    
+jobs:
+  auto-merge:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+      issues: write
+      
+    steps:
+      # Check out the repository code
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          fetch-depth: 2
+
+      - name: Check if PR only modifies Contributors.md
+        id: is_only_contributors_file_changed
+        run: |
+          # Get a list of files changed in the pull request
+          PR_FILES=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            "https://api.github.com/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files" | \
+            jq -r '.[].filename')
+          FILES_CHANGED=$(echo $PR_FILES | tr '\n' ' ')
+
+          echo "files_changed=$FILES_CHANGED" >> $GITHUB_ENV
+          
+          if [[ "${FILES_CHANGED// /}" == "Contributors.md" ]]; then
+
+            echo "only_contributors=true" >> $GITHUB_ENV
+          else
+            echo "only_contributors=false" >> $GITHUB_ENV
+          fi
+
+      - name: Check if PR has only one line change
+        run: |
+          ADDITIONS=${{ github.event.pull_request.additions }}
+          DELETIONS=${{ github.event.pull_request.deletions }}
+
+          echo "additions=$ADDITIONS" >> $GITHUB_ENV
+          echo "deletions=$DELETIONS" >> $GITHUB_ENV
+
+          if [[ $ADDITIONS == 1 && $DELETIONS == 0 ]]; then
+            echo "one_line_change=true" >> $GITHUB_ENV
+          elif [[ $ADDITIONS == 2 && $DELETIONS == 1 ]]; then
+            echo "one_line_change=true" >> $GITHUB_ENV
+          else
+            echo "one_line_change=false" >> $GITHUB_ENV
+          fi
+
+      # Merge the pull request if it only modifies the Contributors.md file or if it fail to do then drop failure message as post 
+      - name: Merge PR
+        id: merge_pr
+        if: env.only_contributors == 'true' && env.one_line_change == 'true'
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            try {
+            // Attempt to merge the pull request using the squash method
+             const response = await github.rest.pulls.merge({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: context.issue.number,
+               merge_method: "squash"
+             })
+
+            // Check if the merge was successful by checking the status code of the response
+             if (response.status === 200) {
+
+                const celebrationGifs = [
+                  'https://c.tenor.com/ZCq4SwgCfxAAAAAC/snoopy-peanuts.gif',
+                  'https://c.tenor.com/Z0ojZS2kpO0AAAAC/milk-and-mocha-happy.gif',
+                  'https://c.tenor.com/LffD4a8ET9AAAAAC/heart-celebrate.gif',
+                  'https://c.tenor.com/HJ0iSKwIG28AAAAC/yes-baby.gif',
+                  'https://c.tenor.com/4blWuIh5MIYAAAAC/baby-yoda.gif',
+                  'https://c.tenor.com/B_zYdea4l-4AAAAC/yay-minions.gif',
+                  'https://media1.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif',
+                  'https://media2.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif',
+                  'https://media0.giphy.com/media/z8gtBVdZVrH20/giphy.gif',
+                  'https://media2.giphy.com/media/26gN16cJ6gy4LzZSw/giphy.gif',
+                  'https://media1.giphy.com/media/LZElUsjl1Bu6c/giphy.gif',
+                  'https://media1.giphy.com/media/gHnwTttExPf4nwOWm7/giphy.gif',
+                ]
+
+                const getRandomGif = () => celebrationGifs[Math.floor(Math.random() * celebrationGifs.length)]
+
+                // social media links
+                const web_url = 'https://firstcontributions.github.io';
+                const slack_invite_url = 'https://join.slack.com/t/firstcontributors/shared_invite/zt-2vqegkew0-ZuzGM1LO33C6Ts4nZyat1Q'
+                const twitter_tweet_share = 'https://twitter.com/intent/tweet?text=Yay%21%20I%20just%20made%20my%20first%20open%20source%20contribution%20with%20@1stcontribution.%20You%20can%20too%20at%20https%3A//goo.gl/66Axwe%0A&hashtags=OpenSource,CodeNewbie'
+                const fb_share_link = 'https://www.facebook.com/sharer/sharer.php?u=https://roshanjossey.github.io/first-contributions&quote=Yay%21%20I%20just%20made%20my%20first%20open%20source%20contribution%20with%20First%20Contributions.%20You%20can%20too,%20by%20following%20a%20simple%20tutorial%20at%20https%3A//goo.gl/66Axwe&hashtag=%23OpenSource'
+                const reddit_link = 'https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Ffirstcontributions%2Ffirst-contributions&title=Learn%20how%20to%20contribute%20to%20open%20source%20projects%20in%205%20minutes'
+                const linkedin_share_link = 'https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/firstcontributions/first-contributions';
+                const dev_share_link = "https://dev.to/new?prefill=---%0Atitle%3A%20First%20Contributions%3A%20learn%20how%20to%20contribute%20to%20open%20source%20projects%0Apublished%3A%20true%0Atags%3A%20opensource%2C%20beginners%2C%20tutorial%0A---%0A%0AI%20followed%20the%20hands-on%20tutorial%20in%20the%20Readme%20of%20first%20contributions%20and%20made%20my%20first%20pull%20request%20to%20the%20same%20repo.%0A%0A%0A%7B%25%20embed%20https%3A%2F%2Fgithub.com%2Ffirstcontributions%2Ffirst-contributions%20%25%7D";
+                const hackernews_share_link = 'https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Ffirstcontributions%2Ffirst-contributions&t=Show%20HN%3A%20Hands%20on%20tutorial%20for%20open%20source%20contribution'
+
+                // social logo
+                const repo_logo = "https://avatars0.githubusercontent.com/u/65761570?s=88&u=640f39b808c75c6b86460aa907dd030bcca2f3c7&v=4"
+                const slack_logo = "https://edent.github.io/SuperTinyIcons/images/svg/slack.svg"
+                const twitter_logo = "https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg"
+                const fb_logo = "https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg"
+                const reddit_logo = "https://edent.github.io/SuperTinyIcons/images/svg/reddit.svg"
+                const linkedin_logo = "https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg";
+                const dev_logo = "https://edent.github.io/SuperTinyIcons/images/svg/dev_to.svg";
+                const hackernews_logo = "https://edent.github.io/SuperTinyIcons/images/svg/hackernews.svg";
+
+
+
+                const getMergeMessage = (username) => {
+                  const greeting = `Hello @${username}, congratulations! You've successfully submitted a pull request. 🎉`;
+                  const starRepoMessage = `If you liked the tutorial, please star this repo by clicking the star button on the top right of this page. <img alt="star screenshot" title="star button" src="https://firstcontributions.github.io/assets/star.png">`;
+                  
+                  const nextSteps = `# Next steps \n - Continue contributing: If you're looking for projects to contribute to, checkout our [<img src="${repo_logo}" width="22" title="web app" /> webapp](${web_url}). \n - Join our Slack group: We have a community to help/support contributors. [<img src="${slack_logo}" width="22" title="Slack" /> Join slack group](${slack_invite_url}). \n - Share on social media: You can share this content to help more people. [ <img alt="twitter" title="twitter" src="${twitter_logo}" width="22"> tweet](${twitter_tweet_share}). [<img alt="twitter" title="twitter" src="${fb_logo}" width="22"> share](${fb_share_link}). [ <img alt="reddit" title="reddit" src="${reddit_logo}" width="22"> share](${reddit_link}). [<img alt="linkedin" title="linkedin" src="${linkedin_logo}" width="22"> post](${linkedin_share_link}). [<img alt="devio" title="devio" src="${dev_logo}" width="22"> publish](${dev_share_link}). [<img src="${hackernews_logo}" width="22" title="HackerNews" /> Post on HackerNews](${hackernews_share_link}).`;
+                  const feedbackMessage = `We'd love to hear your thoughts about this project. Let us know how we can improve by commenting or opening an issue here.`;
+                  
+                  const gif = `![celebration gif](${getRandomGif()})`;
+
+                  return `${greeting}\n\n${starRepoMessage}\n\n${nextSteps}\n\n${feedbackMessage}\n\n${gif}`;
+                }
+
+                // Generate the merge message using the getMergeMessage function
+                const message = getMergeMessage(context.payload.pull_request.user.login);
+
+                // post a comment
+                await github.rest.issues.createComment({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: context.issue.number,
+                  body: message
+                })
+
+             } else {
+              
+              // Post a comment on the pull request using the createComment method
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: "Something went wrong while attempting to merge this pull request. Please check the GitHub Actions log for more information."
+               })
+            }
+             } catch (error) {
+
+              let errMsg = "";
+              console.error("Error merging pull request:", error.message);
+
+              // Handle specific error cases based on status code
+              if (error.status === 405 && error.response.data.message === "Pull Request is not mergeable") {
+
+                errMsg = `Hello @${context.payload.pull_request.user.login}, thank you for your pull request. We appreciate your contribution to the project. However, before we can merge it, there is a merge conflict with the target branch.  \n\n No worries! You can follow [this guide](https://github.com/firstcontributions/first-contributions/blob/main/additional-material/git_workflow_scenarios/resolving-merge-conflicts.md) on resolving merge conflicts. 
+                Once you've fixed the conflicts and pushed your changes, the repository will check the changes you made and proceed with the merge if everything looks good.  \n\n If you have any questions or need further assistance, don't hesitate to reach out. We're here to help!`
+
+              } else if (error.status === 409) {
+                console.error("The pull request has conflicts with the target branch. Resolve the conflicts before merging.");
+                errMsg = "The pull request has conflicts with the target branch. Resolve the conflicts before merging.";
+
+              } else {
+                console.error("Something went wrong while merging the pull request.");
+                errMsg = "Something went wrong while merging the pull request.";
+              }
+
+              // Post a comment on the pull request using the createComment method
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: errMsg
+               })
+
+              // Set GitHub Action as failed
+              core.setFailed(error.message);
+            }
+
+      # Post a comment on the pull request if it was not merged automatically
+      - name: Post comment on PR if not merged automatically
+        # Check if the pull request only modifies the CONTRIBUTORS.md file
+        if: env.only_contributors != 'true'
+        uses: actions/github-script@v6
+        with:
+          script: |
+            // get the existing comments.
+            const {data: comments} = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.payload.number,
+            })
+
+            // find any comment already made by the bot.                                                                                                    
+            const botComment = comments.find(comment => comment.user.login === 'github-actions[bot]')                                                                       
+
+            const body = `Thank you for your pull request. This pull request contains changes in files which requires review. The following files were changed:\n\n  ${process.env.files_changed.trim() ? `\n\n${process.env.files_changed.trim().split(' ').map(file => `- ${file}`).join('\n')}` : ''}`
+
+            if (botComment) {
+              await github.rest.issues.updateComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: botComment.id,
+                body: body
+              })
+            } else {
+                await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: body
+              });
+            }
+            
+          github-token: ${{ secrets.GITHUB_TOKEN }}
