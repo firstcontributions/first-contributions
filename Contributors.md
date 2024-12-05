@@ -92,6 +92,7 @@
 - [SWanHK](https://github.com/swanhk)
 - [Rudhram Saraswat](https://github.com/RUDHRAM01)
 - [Juho Lee](https://github.com/jxuho)
+- [Giovanna Cortez](https://github.com/annavoigg)
 - [janGithub122](https://github.com/janGithub122)
 - [Julius Jones](https://github.com/jlwj22)
 - [Dave Friedman](https://github.com/heracliteanflux)
