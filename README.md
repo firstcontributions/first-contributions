@@ -200,17 +200,21 @@ Soon I'll be merging all your changes into the main branch of this project. You 
 
 ## Troubleshooting
 
-# Cloning issues
+### Cloning issues
 
 If you encounter any issues while cloning the repository, you can try the following:
 
 - Increase Git Buffer Size:
 
-`git config --global http.postBuffer 524288000`
+```bash
+git config --global http.postBuffer 524288000
+```
 
 - Perform a Shallow Clone:
 
-`git clone --depth 1  https://github.com/your-name/first-contributions.git`
+```bash
+git clone --depth 1  https://github.com/your-name/first-contributions.git
+```
 
 ## Where to go from here?
 
