@@ -198,6 +198,20 @@ Now submit the pull request.
 
 Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
+## Troubleshooting
+
+# Cloning issues
+
+If you encounter any issues while cloning the repository, you can try the following:
+
+- Increase Git Buffer Size:
+
+`git config --global http.postBuffer 524288000`
+
+- Perform a Shallow Clone:
+
+`git clone --depth 1  https://github.com/your-name/first-contributions.git`
+
 ## Where to go from here?
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
