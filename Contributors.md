@@ -122,6 +122,7 @@
 - [Sylvain L](https://github.com/sylvain-lec)
 - [Shubham Dhama](https://github.com/shubhamdhama108)
 - [Danyal Ejaz](https://github.com/danyalejaz)
+- [Sneha Jain](https://github.com/sj11105)
 - [Varun Patel](https://github.com/varunpatel07)
 - [Jayadeep Velagapudi](https://github.com/jkvelagapudi)
 - [Muhammad Abdullah Khan](https://github.com/sapientabdullah)
