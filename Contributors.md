@@ -1,5 +1,6 @@
 # Contributors
 -Testing out CLI, aprv
+- Hello World!, Jide Falaki in the building. This is my first contribution to an Open Source project. Check Out my Repo [Github](https://github.com/jidefal)
 - **Brace yourselves!** Mohamed Nour is here to code, conquer, and contribute! 💻✨ [Check me out on GitHub](https://github.com/MohamedNourDerbeli) before I accidentally break the internet... again. 😅 First open-source PR, but definitely not the last!
 -Hey, I'm Jitesh Pathak. Check me out on [Github](https://github.com/jiteshpathak)
 -Hi, I am Thang. This is my first contibution to an open source project.
