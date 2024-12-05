@@ -37,6 +37,7 @@
 - [Ernest Muli](https://github.com/kunmuli)
 - [m4tej](https://github.com/m4tej241)
 - [Auwalu Hamza](https://github.com/afhamu)
+- [Vasupriya Patnaik](https://github.com/VasupriyaPatnaik)
 - [Varun Sharma](https://github.com/varunsh20/)
 - [emrlk](https://github.com/emrlk)
 - [Sushanth hebri](https://github.com/Sushanth-Hebri/)
