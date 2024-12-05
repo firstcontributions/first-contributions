@@ -91,6 +91,7 @@
 - [Alish-0x](https://github.com/Alish-0x)
 - [SWanHK](https://github.com/swanhk)
 - [Sagar Patel](https://github.com/sagarpatel279)
+- [Yogesh Joga యోగేష్ జోగ](https://github.com/yogeshjoga)
 - [Rudhram Saraswat](https://github.com/RUDHRAM01)
 - [Juho Lee](https://github.com/jxuho)
 - [Giovanna Cortez](https://github.com/annavoigg)
