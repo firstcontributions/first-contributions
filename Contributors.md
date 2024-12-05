@@ -67,6 +67,7 @@
 - [Gopal Iyer](https://github.com/geekiyer)
 - [Antonio Fábio](https://github.com/zodiecko)
 - [Alanto Manu](https://github.com/alantomanu)
+- [Alex Thompson](https://github.com/Alex-Inems)
 - [Anand Shende](https://github.com/anandshende)
 - [Arisa Abiko](https://github.com/arisaabiko)
 - [WHA](https://github.com/wynehtetaung)
