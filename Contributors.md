@@ -997,6 +997,7 @@
 - [Negan Nguyen](https://github.com/nenene1812)
 - [Chen Jiang](https://github.com/LuluLalaJ)
 - [Adwaith M K](https://github.com/a-dwaith)
+- [Fabio k](https://github.com/Fabio-k)
 - [Quan Do](https://github.com/dodangquan123)
 - [Paerarason](https://github.com/paerarason)
 - [Shubham](https://github.com/shubhamparmar1)
