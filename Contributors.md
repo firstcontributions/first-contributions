@@ -105,7 +105,7 @@
 - [Mehfila Parkkulthil](https://github.com/Mehfila123)
 - [Julius Jones](https://github.com/jlwj22)
 - [Dave Friedman](https://github.com/heracliteanflux)
-- [Max C](https://github.com/mintmaxed)
+- [Pankaj Monga] (https://github.com/p-monga)
 - [Vicente Guzmán](https://vicenteguzman.com/)
 - [Vinit Jahagirdar](https://github.com/Vinit1909)
 - [Tyler Daw](https://github.com/TylerD1105)
