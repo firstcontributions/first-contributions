@@ -3,6 +3,7 @@
 - almalki abdulkareem
 - [Atharva](https://github.com/Atharva98)
 - [Maurizio Morgano](https://github.com/mmorgano)
+- [Krishna](https://github.com/kcrnitc)
 - [Ayush](https://github.com/Aayush612)
 - [Vishaal](https://github.com/vs22202)
 - [Ayush Dhoble](https://github.com/Ayush-D2004/First) 
