@@ -1,5 +1,6 @@
 # Contributors
 
+- almalki abdulkareem
 - [Atharva](https://github.com/Atharva98)
 - [Maurizio Morgano](https://github.com/mmorgano)
 - [Ayush](https://github.com/Aayush612)
