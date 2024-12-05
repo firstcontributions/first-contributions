@@ -10,6 +10,7 @@
 - [Abhinav](https://github.com/saiabhinav75)
 - [turtle-papa](https://github.com/turtle-papa)
 - [Pranav](https://github.com/Pranav0102)
+- [Apoorva garg](https://github.com/ApoorvaGarg629)
 - [GCabane](https://github.com/GCabane)
 - [gatura](https://github.com/gatura-source)
 - [Rhea](https://github.com/RheaAtre)
