@@ -1258,6 +1258,7 @@
 - [MichaelSoto95](https://github.com/MichaelSoto95)
 - [Jorge M Soto Pena](https:://github.com/jorgemsotopena)
 - [Michael](https://github.com/MichaelGrmns)
+- [Samuel Pratt](https://github.com/srpratt)
 - [jeevan-aj](https://github.com/jeevan-aj)
 - [shilinwang](https://github.com/crzwzy)
 - [Taufi](https://github.com/Taufi)
