@@ -1227,6 +1227,7 @@
 - [Luke Guyre](https://github.com/Sassycatt)
 - [Michael Bacca](https://github.com/Zerolxgic)
 - [Matteo Bongiovanni](https://github.com/matteobongio)
+- [Timothy Charteris] (https://github.com/timm167)
 - [Taha S. ASAN](https://github.com/tahaasann)
 - [Safa Osman](https://github.com/swafak)
 - [Hamil Dimapanat](https://github.com/hvmil)
