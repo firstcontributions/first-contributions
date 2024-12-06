@@ -998,6 +998,7 @@
 - [OmegaDL2](https://github.com/OmegaDL2)
 - [Popperda](https://github.com/popperda/)
 - [yangchunhua](https://github.com/1250855168/)
+- [Milad G](https://github.com/MiladGGG)
 - [Kundan Kumar](https://github.com/kundank02)
 - [Ishraq Ahmad](https://github.com/KarlMagus)
 - [SilencioPz](https://github.com/SilencioPz)
