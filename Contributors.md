@@ -3,6 +3,7 @@
 - [Deepankar Sahoo](https://github.com/CodeByDeepankar)
 - [Jide Falaki](https://github.com/jidefal)
 - [Sergio DG](https://github.com/dgsergio)
+- [Lemar Tokham](https://github.com/LemarTokham)
 - [AutumnFrost](https://github.com/AutumnFrost)
 - [Abhinav](https://github.com/saiabhinav75)
 - [turtle-papa](https://github.com/turtle-papa)
