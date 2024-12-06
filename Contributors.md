@@ -15,6 +15,7 @@
 - [Jeanette Gonzalez](https://github.com/JeanetteGz)
 - [Soaring Eagle](https://github.com/SoaringEagle910)
 - [Omkar Guha](https://github.com/omkarguha)
+- [Josmer Rodriguez](https://github.com/Josmerr)
 - [TsvetislavRangelov](https://github.com/TsvetislavRangelov)
 - [Tsafac Nkombong Regine Cyrille](https://github.com/Regine12)
 - [Michael Gabriel](https://github.com/maranatha443)
