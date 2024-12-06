@@ -1286,4 +1286,4 @@
 - [GrizzyUno](https://github.com/GrizzlyUno)
 - [omar gamal mohamed](https://github.com/omariscoding1245)
 - [Clementallo](https://github.com/ClementEraud)
-- [Paran Kabiththanan] (https://github.com/KabiththananParan)
+- [Paran Kabiththanan]  (https://github.com/KabiththananParan)
