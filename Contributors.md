@@ -915,6 +915,7 @@
 - [Abhinav Ujjawal](https://github.com/Abhinav-Ujjawal)
 - [justkusch](https://github.com/justkusch)
 - [joejoeelephant](https://github.com/joejoeelephant)
+- [amoghshakya](https://github.com/amoghshakya)
 - [Vitor Orsin](https://github.com/YaboiAst)
 - [Caio Ueda Sampaio](https://github.com/KY-U)
 - [James Russell](https://github.com/James-blend/)
