@@ -19,7 +19,7 @@ Si hay un sitio planetario, como planet.gnome.org o planet.mysql.com, comience a
 3. **Únase a un canal IRC** : muchos proyectos de código abierto tienen canales de chat de retransmisión (IRC) de Internet dedicados donde desarrolladores y usuarios se reúnen para discutir problemas y desarrollo.
 Consulte el sitio web del proyecto para obtener detalles sobre cómo se llama el canal y en qué red IRC se encuentra.
 
-**Trabajar con tickets**  
+**Trabajar con tickets**
 El código es el corazón de cualquier proyecto de código abierto, pero no crea que escribir código es la única forma de contribuir.
 El mantenimiento del código y de los sistemas que lo rodean a menudo se descuidan en la prisa por crear nuevas funciones y corregir errores.
 Considere estas áreas como una manera fácil de involucrarse en un proyecto.
@@ -113,7 +113,7 @@ y creando un registro para cualquier otra persona que tenga su problema en el fu
 Si tiene habilidades en diseño web y puede ayudar a mejorar el sitio web y, por lo tanto, la imagen pública del proyecto, es tiempo bien invertido.
 Quizás el proyecto podría necesitar una revisión gráfica o un logotipo para identificarlo.
 Estas pueden ser habilidades que faltan en la comunidad. Sé que me encantaría poder obtener ayuda con el diseño gráfico de los sitios web de mis proyectos.
-  
+
 15. **Escribir documentación técnica**
 Si puede escribir sobre cómo funciona una aplicación o software, puede escribir documentación técnica al respecto. Especialmente proyectos de código abierto que buscan actualizar, renovar, ampliar o crear documentos técnicos para que los lea el público en general. Cuanto más escribas en inglés sencillo, mejor. La mejor parte es que no es necesario ser programador para escribir documentos técnicos.
 
