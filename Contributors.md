@@ -61,6 +61,7 @@
 - [Mounish Nanu](https://github.com/mounish123)
 - [Juan Sarmiento](https://github.com/JuanEnriqueSF)
 - [Fady Zaky](https://github.com/0ddAuto00)
+- [Arnav](https://github.com/arnav-mi)
 - [bereamk](https://github.com/bereamk)
 - [rishabh1024](https://github.com/rishabh1024/)
 - [Whitehackerneth](https://github.com/Whitehackerneth/first-contributions)
