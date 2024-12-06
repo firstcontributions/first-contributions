@@ -33,6 +33,7 @@
 - [Eddgar Rojas](https://github.com/Eddgar0)
 - [Leandro Choque](https://github.com/Leannnmv)
 - [Shagun Sharma](https://github.com/shagunsharma6677)
+- [Magdalin princy](https://github.com/Magdalinprincy/)
 - [Hector-Ventura](https://github.com/0Label0)
 - [hide361](https://github.com/hide361)
 - [Sneha Singh](https://github.com/snehasingh-25)
