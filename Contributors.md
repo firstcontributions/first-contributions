@@ -1,4 +1,5 @@
 # Contributors
+- [Kyrylo Sorokovskyi](https://github.com/sumdeusvitae)
 - [Deepankar Sahoo](https://github.com/CodeByDeepankar)
 - [Jide Falaki](https://github.com/jidefal)
 - [Sergio DG](https://github.com/dgsergio)
