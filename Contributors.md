@@ -9,6 +9,7 @@
 - [gatura](https://github.com/gatura-source)
 - [Rhea](https://github.com/RheaAtre)
 - [Jeanette Gonzalez](https://github.com/JeanetteGz)
+- [Daniel Molina](https://github.com/molinafm30)
 - [HannanToprakPia](https://github.com/HannanToprakPia)
 - [Soaring Eagle](https://github.com/SoaringEagle910)
 - [Omkar Guha](https://github.com/omkarguha)
