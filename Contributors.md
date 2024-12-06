@@ -1,6 +1,7 @@
 # Contributors
 - [Jide Falaki](https://github.com/jidefal)
 - [Sergio DG](https://github.com/dgsergio)
+- [AutumnFrost](https://github.com/AutumnFrost)
 - [Abhinav](https://github.com/saiabhinav75)
 - [turtle-papa](https://github.com/turtle-papa)
 - [Pranav](https://github.com/Pranav0102)
