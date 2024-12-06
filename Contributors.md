@@ -25,6 +25,7 @@
 - [hide361](https://github.com/hide361)
 - [pateldevashish001](https://github.com/PatelDevashish001)
 - [NikitaJaiswal77](https://github.com/NikitaJaiswal77)
+- [SaginalaAzeez](https://github.com/asheedh)
 - [bivekk51] (https://github.com/bivekk51)
 - [AjaySinghKunwar](https://github.com/AjaySinghKunwar007)
 - [Zach Garza](https://github.com/ZachG1235)
