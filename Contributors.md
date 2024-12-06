@@ -20,6 +20,7 @@
 - [HannanToprakPia](https://github.com/HannanToprakPia)
 - [Soaring Eagle](https://github.com/SoaringEagle910)
 - [Omkar Guha](https://github.com/omkarguha)
+- [Josmer Rodriguez](https://github.com/Josmerr)
 - [Max Rauber](https://github.com/maxrbr)
 - [TsvetislavRangelov](https://github.com/TsvetislavRangelov)
 - [Tim Petri](https://github.com/timmytabasco)
