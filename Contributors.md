@@ -216,6 +216,7 @@
 - [Gabrielly Castilho](https://github.com/gabscastilho)
 - [Muhammad Ans Khan 🧑🏻‍💻](https://github.com/Muhammad-AnasKhan)
 - [Jon Compton](https://github.com/joncompton)
+- [Yash Goyal](https://github.com/yash-goyal-0910)
 - [Shubham kumar](https://github.com/Shubham9384235)
 - [Akash Dhamane](https://github.com/explore)
 - [Helen C](https://github.com/hmczap)
