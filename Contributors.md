@@ -10,6 +10,7 @@
 - [turtle-papa](https://github.com/turtle-papa)6
 - [Pranav](https://github.com/Pranav0102)
 - [Apoorva garg](https://github.com/ApoorvaGarg629)
+- [Desi Petkova Lee](https://github.com/DesiPetkovaLee)
 - [GCabane](https://github.com/GCabane)
 - [gatura](https://github.com/gatura-source)
 - Mradul
@@ -1281,6 +1282,13 @@
 - [Valentyn Chernetskyi](https://github.com/Valik3201)
 - [solola David](https://github.com/LetcodeitwithDave)
 - [Grace Kim](https://github.com/gracekim1217)
+- [Clementallo](https://github.com/ClementEraud)
+- [Sadia Ishtaq](https://github.com/SadiaIshtaq)
+- [Rohan Noronha](https://github.com/ro23op)
+- [Babouche](https://github.com/babouche03)
+- [Nathan Goebel dit Reddacted](https://github.com/Nathan-Goebel-Reddacted)
+- [Marta Laveda](https://github.com/MartaLB95)
+- [Colin BFH](https://github.com/Colin5734)
 - [Venkates Challa](https://github.com/vensablue192)
 - [Ridwan Oladapo](https://github.com/theridwanoladapo)
 - [Rohail Zubair](https://github.com/Rohail-Zubair)
