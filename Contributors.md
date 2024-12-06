@@ -529,6 +529,7 @@
 - [David Preradovic](https://github.com/DavideTheClown)
 - [Ankur](https://github.com/Ar7109)
 - [toryf](https://github.com/tfernandez2017)
+- [Jun Lei](https://github.com/junevision)
 - [Lavinia](https://github.com/Lavinia225)
 - [Vikas](https://ithub.com/Vikas013)
 - [Guillermo Nicolas Petcho](https://github.com/guillermopetcho)
