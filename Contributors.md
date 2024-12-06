@@ -38,6 +38,7 @@
 - [Hector-Ventura](https://github.com/0Label0)
 - [hide361](https://github.com/hide361)
 - [Sneha Singh](https://github.com/snehasingh-25)
+- [Varun Tadpatri](https://github.com/varun2799dev)
 - [Hypothalamus](https://github.com/Hypothalamuss)
 - [STA](https://github.com/sithuaung246810)
 - [Ernest Muli](https://github.com/kunmuli)
