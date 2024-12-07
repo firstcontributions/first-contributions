@@ -496,7 +496,6 @@
 - [LucasLuidy](https://github.com/LucasLuidy)
 - [Aashish Gupta](https://github.com/AsysGupta)
 - [Sachini Sahasra](https://github.com/Sahasra0108)
-- [Nihal mohammed](https://github.com/Nihal-Mohammed-V)
 - [Sinuhe Velazquez](https://github.com/Sinuhe135)
 - [Kalash](https://github.com/Kalash-C1)
 - [Kavya Yamsani](https://github.com/ykavya5)
@@ -1332,3 +1331,4 @@
 - [Nathan Goebel dit Reddacted](https://github.com/Nathan-Goebel-Reddacted) -[Marta Laveda](https://github.com/MartaLB95)
 - [Colin BFH](https://github.com/Colin5734) -[AnishKarthic](https://github.com/ANISHKARTHIC)
 - [Rohit Nain](https://github.com/rohit141914)
+- [Nihal Mohammed](https://github.com/Nihal-Mohammed-V)
