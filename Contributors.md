@@ -591,6 +591,7 @@
 - [André Wlodkovski](https://github.com/andrewlod)
 - [Yash Singh](https://github.com/YaSH-sInngH)
 - [Kim La](https://github.com/ktla99)
+- [Naz0904](https://github.com/Naz0904)
 - [George Fam](https://github.com/George-Fam)
 - [Jm Delas Alas](https://github.com/letandconst)
 - [Eke Francis Okechukwu](https://github.com/Ekefrancisokechukwu)
