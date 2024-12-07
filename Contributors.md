@@ -789,6 +789,7 @@
 - [Marcelina Maye Abaga Maye](https://github.com/Marmaye)
 - [MratWong](https://github.com/MratWong)
 - [MarianoJ](https://github.com/marianoj1984)
+- [Roman Zvir](https://github.com/roman-zvir)
 - [Malone Napier-Jameson](https://github.com/MaloneMKD)
 - [Walt Bringenberg](https://github.com/wwaltb)
 - [Laul](https://github.com/laulycool)
