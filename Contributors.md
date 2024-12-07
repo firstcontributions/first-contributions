@@ -1308,6 +1308,7 @@
 - [Watpo54](https://github.com/Watpo54)
 - [PyaeSone](https://github.com/pyae198022)
 - [Atsushi Koyake](https://github.com/devAtsushiKoyake)
+- [Narayan Khanal](https://github.com/Nkhanal2002)
 - [Marinos33](https://github.com/Marinos33)
 - [40tude](https://github.com/40tude)
 - [Hadi Purnomo](https://github.com/cephadi)
