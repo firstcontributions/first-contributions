@@ -20,6 +20,7 @@
 - johnie
 - [Rhea](https://github.com/RheaAtre)
 - shyGuy
+- hi, iam anoof
 - [Twinkle](https://github.com/Twinkle748)
 - [Jeanette Gonzalez](https://github.com/JeanetteGz)
 - [Daniel Molina](https://github.com/molinafm30)
