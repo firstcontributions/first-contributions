@@ -496,6 +496,7 @@
 - [LucasLuidy](https://github.com/LucasLuidy)
 - [Aashish Gupta](https://github.com/AsysGupta)
 - [Sachini Sahasra](https://github.com/Sahasra0108)
+- [Nihal mohammed](https://github.com/Nihal-Mohammed-V)
 - [Sinuhe Velazquez](https://github.com/Sinuhe135)
 - [Kalash](https://github.com/Kalash-C1)
 - [Kavya Yamsani](https://github.com/ykavya5)
