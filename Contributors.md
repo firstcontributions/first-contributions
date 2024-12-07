@@ -59,6 +59,7 @@
 - [Guilherme Andrade](https://github.com/ZeroRBK)
   [kabya deb](https://github.com/kabyadeb)
   [Khushi Ray](https://github.com/khushiray07)
+  [Gnanendra Naidu N](https://github.com/gnanendranaidun)
 - [Vasupriya Patnaik](https://github.com/VasupriyaPatnaik)
 - [Varun Sharma](https://github.com/varunsh20/)
 - [emrlk](https://github.com/emrlk)
