@@ -17,6 +17,7 @@
 - Mradul
 - johnie
 - [Rhea](https://github.com/RheaAtre)
+- shyGuy
 - [Twinkle](https://github.com/Twinkle748)
 - [Jeanette Gonzalez](https://github.com/JeanetteGz)
 - [Daniel Molina](https://github.com/molinafm30)
