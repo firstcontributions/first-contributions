@@ -774,6 +774,7 @@
 - [Mohamed Amine Basdouri](https://github.com/MohamedAmin324)
 - [JamZ](https://github.com/JamZYM)
 - [Conner](https://github.com/23cmbrown)
+- [Aditya Ghosh](https://github.com/Nanashi-bot)
 - [chandan](https://github.com/chandanyuva)
 - [Bhawesh Agrawal](https://github.com/bhawesh-source)
 - [Aditya Ghosh](https://github.com/Nanashi-bot)
