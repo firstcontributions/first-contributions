@@ -1330,4 +1330,4 @@
 - [Clementallo](https://github.com/ClementEraud) -[Sadia Ishtaq](https://github.com/SadiaIshtaq) -[Rohan Noronha](https://github.com/ro23op) -[Babouche](https://github.com/babouche03)
 - [Nathan Goebel dit Reddacted](https://github.com/Nathan-Goebel-Reddacted) -[Marta Laveda](https://github.com/MartaLB95)
 - [Colin BFH](https://github.com/Colin5734) -[AnishKarthic](https://github.com/ANISHKARTHIC)
-- [Rohit Nain](https://github.com/rohit141914)
+- [Rohit Nain](https://github.com/rohit141914) -[liuuu2004](https://github.com/liuuu2004)
