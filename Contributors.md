@@ -2,6 +2,7 @@
 
 - Raghav (https://github.com/Raghav9871)
 - [Kyrylo Sorokovskyi](https://github.com/sumdeusvitae)
+- [Suresh Deora] (https://github.com/SureshDeora)
 - [Deepankar Sahoo](https://github.com/CodeByDeepankar)
 - [Jide Falaki](https://github.com/jidefal)
 - [Sergio DG](https://github.com/dgsergio)
@@ -17,6 +18,7 @@
 - Mradul
 - johnie
 - [Rhea](https://github.com/RheaAtre)
+- shyGuy
 - [Twinkle](https://github.com/Twinkle748)
 - [Jeanette Gonzalez](https://github.com/JeanetteGz)
 - [Daniel Molina](https://github.com/molinafm30)
@@ -493,6 +495,7 @@
 - [Itsuki54](https://github.com/Itsuki54)
 - [Maitri Dalvi](https://github.com/maitri-dalvi)
 - [Ivan Trepakov](https://github.com/liontiger23)
+- [Rasika Lande](https://github.com//rasika2303)
 - [LucasLuidy](https://github.com/LucasLuidy)
 - [Aashish Gupta](https://github.com/AsysGupta)
 - [Sachini Sahasra](https://github.com/Sahasra0108)
@@ -508,6 +511,7 @@
 - [hg1414](https://github.com/hg1414)
 - [rbrickmn](https://github.com/rbrickmn)
 - [yend724](https://github.com/yend724)
+- [Dwiki Kurnia](https://github.com/dwikikurnia)
 - [mpousmali](https://github.com/mpousmali)
 - [GreenWeegeeCantCode](https://github.com/GreenWeegeeCantCode)
 - [mpousmali](https://github.com/mpousmali)
@@ -1208,6 +1212,7 @@
 - [Abdulmalik-Raji](https://github.com/AbdulmalikRaji)
 - [Abijith-Lawrence](https://github.com/abijithlj)
 - [Temitope Bankole](https://github.com/rareprince/)
+- [Dhruvi Patel](https://github.com/dhruvipatel14)
 - [Kevin Grammer](https://github.com/kevingrammer)
 - [Emma Barnett](https:/gitHub.com/ka-hels/)
 - [batuhankzn](https://github.com/batuhankzn)
