@@ -76,6 +76,7 @@
 - [Swetha Kannan](https://github.com/swethakannan12)
 - [gpalacios26](https://github.com/gpalacios26/curso-git-fork)
 - [Fahad Shoaib](https://github.com/Fahad-S94)
+- [Rohan Raj P](https://github.com/rohandeadshot)
 - [Mounish Nanu](https://github.com/mounish123)
 - [Juan Sarmiento](https://github.com/JuanEnriqueSF)
 - [Fady Zaky](https://github.com/0ddAuto00)
