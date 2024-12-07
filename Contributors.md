@@ -774,6 +774,7 @@
 - [Conner](https://github.com/23cmbrown)
 - [chandan](https://github.com/chandanyuva)
 - [Bhawesh Agrawal](https://github.com/bhawesh-source)
+- [Aditya Ghosh](https://github.com/Nanashi-bot)
 - [FraI3mega](https://github.com/FraI3mega)
 - [Shraddha Nand Shah](https://github.com/shraddha1512)
 - [Sourabh Kr. Rajput](https://github.com/Sourabh-Kr-Rajput)
