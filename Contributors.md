@@ -1307,7 +1307,7 @@
 - [Mtendekuyokwa19](https://github.com/Mtendekuyokwa19)
 - [Watpo54](https://github.com/Watpo54)
 - [PyaeSone](https://github.com/pyae198022)
-- [Atsushi Koyake](https://github.com/devAtsushiKoyake)
+- [Atsushi Koyake](https://github.com/devAtsushiKoyake) -[Narayan Khanal](https://github.com/Nkhanal2002)
 - [Marinos33](https://github.com/Marinos33)
 - [40tude](https://github.com/40tude)
 - [Hadi Purnomo](https://github.com/cephadi)
@@ -1325,5 +1325,4 @@
 - [omar gamal mohamed](https://github.com/omariscoding1245)
 - [Clementallo](https://github.com/ClementEraud) -[Sadia Ishtaq](https://github.com/SadiaIshtaq) -[Rohan Noronha](https://github.com/ro23op) -[Babouche](https://github.com/babouche03)
 - [Nathan Goebel dit Reddacted](https://github.com/Nathan-Goebel-Reddacted) -[Marta Laveda](https://github.com/MartaLB95)
-- [Colin BFH](https://github.com/Colin5734) -[AnishKarthic](https://github.com/ANISHKARTHIC) -
-- [Narayan Khanal](https://github.com/Nkhanal2002)
+- [Colin BFH](https://github.com/Colin5734) -[AnishKarthic](https://github.com/ANISHKARTHIC)
