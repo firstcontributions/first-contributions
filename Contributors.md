@@ -1209,6 +1209,7 @@
 - [Abdulmalik-Raji](https://github.com/AbdulmalikRaji)
 - [Abijith-Lawrence](https://github.com/abijithlj)
 - [Temitope Bankole](https://github.com/rareprince/)
+- [Dhruvi Patel](https://github.com/dhruvipatel14)
 - [Kevin Grammer](https://github.com/kevingrammer)
 - [Emma Barnett](https:/gitHub.com/ka-hels/)
 - [batuhankzn](https://github.com/batuhankzn)
