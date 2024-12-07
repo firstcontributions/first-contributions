@@ -16,7 +16,7 @@ Reading articles & watching tutorials can help, but what comes better than actua
 
 ## Sourcetree
 
-Please note, this tutorial is for MacOS. It is similar with Sourcetree on Windows but some things may look different.
+Please note, this tutorial is for MacOS. It is similar to Sourcetree on Windows but some things may look different.
 <!--
 	****************************************
 	*** This is commented out until      ***

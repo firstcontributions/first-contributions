@@ -6,7 +6,7 @@
 
 # First Contributions
 
-Det är alltid svårt första gången man gör något och speciellt när du samarbetar med andra kan det vara extra känsligt att göra misstag. Vi vill förenkla för dig att lära sig hur man bidrar till ett öppet källkods-projekt.
+Det är alltid svårt första gången man gör något och speciellt när du samarbetar med andra kan det vara extra känsligt att göra misstag. Vi vill göra det lättare för dig att lära dig hur man bidrar till ett öppet källkods-projekt.
 
 Att läsa artiklar och titta på handledningar kan så klart hjälpa men det är alltid bättre att göra det på riktigt. Detta projeket har som syfte att tillhandahålla en guide och göra det enkelt för nybörjare att göra sina första bidrag. Om du är ute efter att göra ditt första bidrag kan du följa stegen nedan.
 
@@ -109,7 +109,7 @@ Gratulerar! Du har just genomfört standardprocessen för _fork -> clone -> edit
 
 Fira genom att dela med dina vänner och följare genom att gå till [web app](https://firstcontributions.github.io/#social-share).
 
-Behöver du hjälp eller vill ställa frågor kan du gå med i vår slack-grupp. [Gå med i slack-gruppen](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+Behöver du hjälp eller vill du ställa frågor så kan du gå med i vår slack-grupp. [Gå med i slack-gruppen](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 Nu kan du gå vidare genom att bidra i andra projekt. Vi har sammanställt en lista med enkla uppgifter som du kan starta med. Kolla in [projektlistan i webbapplikationen](https://firstcontributions.github.io/#project-list).
 
@@ -118,6 +118,6 @@ Nu kan du gå vidare genom att bidra i andra projekt. Vi har sammanställt en li
 
 ## Handledningar för andra verktyg
 
-| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
