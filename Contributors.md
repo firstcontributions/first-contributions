@@ -495,6 +495,7 @@
 - [Itsuki54](https://github.com/Itsuki54)
 - [Maitri Dalvi](https://github.com/maitri-dalvi)
 - [Ivan Trepakov](https://github.com/liontiger23)
+- [Rasika Lande](https://github.com//rasika2303)
 - [LucasLuidy](https://github.com/LucasLuidy)
 - [Aashish Gupta](https://github.com/AsysGupta)
 - [Sachini Sahasra](https://github.com/Sahasra0108)
