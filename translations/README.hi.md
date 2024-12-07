@@ -22,7 +22,7 @@ _यदि आप कमांड लाइन के साथ सहज नह
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-अब आप यह रिपॉज़िटरी अपने कंप्यूटर में क्लोन (अर्थात् डाउनलोड) करें । अपने GitHub अकाउंट पर जाएँ, फोर्कड रिपोजिटरी खोलें, Code/कोड बटन पर क्लिक करें और फिर copy to clipboard आइकॉन पर क्लिक करें ।
+अब इस रिपॉज़िटरी को अपने कंप्यूटर पर क्लोन (यानी डाउनलोड) करें। अपने GitHub अकाउंट पर जाएँ, फोर्क की गई रिपॉज़िटरी खोलें, 'Code/कोड' बटन पर क्लिक करें, और फिर 'Copy to Clipboard' आइकॉन पर क्लिक करें।
 
 अपने कंप्यूटर पर एक टर्मिनल/कमांड प्रांप्ट खोलें और निम्न git आदेश (कमांड) चलाएँ:
 
@@ -100,7 +100,7 @@ git push origin <अपनी-शाखा-का-नाम-जोड़ें>
 
 ## अपने बदलावों को रिव्यु के लिए सबमिट करें ।
 
-यदि आप अपने Github प्रोफाइल पर अपनी रिपॉज़िटरी में जायेंगे तो आपको Compare & pull request का ऑप्शन दिखेगा। उसे दबाएं ।
+यदि आप अपने GitHub प्रोफ़ाइल पर अपनी रिपॉज़िटरी खोलते हैं, तो आपको 'Compare & pull request' का विकल्प दिखाई देगा। उस पर क्लिक करें।
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 अब अपनी pull request सबमिट करें ।
