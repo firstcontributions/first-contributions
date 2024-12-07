@@ -714,6 +714,7 @@
 - [Betsalel Geoffrey GOLO](https://github.com/betsalel44)
 - [Toph](https://github.com/IndexChris)
 - [Jawahar](https://github.com/juzztjawa)
+- [sudo-henryeth](https://github.com/sudo-henryeth)
 - [Arun Erram](https://github.com/arunerram)
 - [CaioSilva](https://github.com/CaioSilvaCsv)
 - [Jeremy Rule](https://github.com/macaw2000)
