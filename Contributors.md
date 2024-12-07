@@ -347,7 +347,6 @@ Pizzacat
 - [Yatin Goyal](https://github.com/ygoyal48)
 - [John Allen Berty](https://github.com/JohnAllenBerty)
 - [Azhar Lihan](https://github.com/azharlihan)
-
 - [Tiago Antunes] (https://github.com/TiagoAntunes10)
 - [Sarthak Raj](https://github.com/sarthak-devel)
 - [Shambhavi Swami](https://github.com/Shambhavi2302)
@@ -614,7 +613,6 @@ Sino Felicity Zwane
 - [Vita Golubovska](https://github.com/Golubko)
 - [Jason Betsargon](https://github.com/JasonBet)
 - [Chirag Gupta](https://github.com/chirag-9121)
-
 - [Ritesh Sadh](https://github.com/sadhritesh)
 - [Clara Wong](https://github.com/clarawong20)
 - [John Jomar Dimaunahan](https://github.com/DJohnJomar)
@@ -918,7 +916,6 @@ Sino Felicity Zwane
 - [Jade Ifurung](https://github.com/jadeifurung)
 - [Sudarshan Zunja] (https://github.com/sudarshan710)
 - [Gsn Mithra] (https://github.com/GsnMithra)
-- testing wih online changed 
 - [AngelitoSolis]
 - [steve3535](https://github.com/steve3535)
 - [ShivaPatel](https://github.com/Patelshiva000)
@@ -2766,7 +2763,6 @@ Akash Abraham
 - [Sandesh Dhamangaonkar](https://github.com/sandeshpd)
 - [Cesar Silva](https://github.com/cesarsdcf)
 -[Jesus Sanchez](https://github.com/Jesus1Sanchez)
-
 - [Kai Kim](https://github.com/KaiKimiOS)
 
 - [leanhvu21042001](https://github.com/leanhvu21042001)
