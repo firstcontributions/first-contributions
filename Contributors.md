@@ -1,4 +1,5 @@
 # Contributors
+
 - [Jide Falaki](https://github.com/jidefal)
 - [Sergio DG](https://github.com/dgsergio)
 - [Abhinav](https://github.com/saiabhinav75)
@@ -472,6 +473,7 @@
 - [Itsuki54](https://github.com/Itsuki54)
 - [Maitri Dalvi](https://github.com/maitri-dalvi)
 - [Ivan Trepakov](https://github.com/liontiger23)
+- [Rasika Lande](https://github.com//rasika2303)
 - [LucasLuidy](https://github.com/LucasLuidy)
 - [Aashish Gupta](https://github.com/AsysGupta)
 - [Sachini Sahasra](https://github.com/Sahasra0108)
@@ -1292,7 +1294,4 @@
 - [galessi5150](https://github.com/galessi5150)
 - [GrizzyUno](https://github.com/GrizzlyUno)
 - [omar gamal mohamed](https://github.com/omariscoding1245)
-- [Clementallo](https://github.com/ClementEraud)
--[Sadia Ishtaq](https://github.com/SadiaIshtaq)
--[Rohan Noronha](https://github.com/ro23op)
--[Babouche](https://github.com/babouche03)
+- [Clementallo](https://github.com/ClementEraud) -[Sadia Ishtaq](https://github.com/SadiaIshtaq) -[Rohan Noronha](https://github.com/ro23op) -[Babouche](https://github.com/babouche03)
