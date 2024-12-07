@@ -1350,4 +1350,4 @@
 - [Rohit Nain](https://github.com/rohit141914)
 - [Nihal Mohammed](https://github.com/Nihal-Mohammed-V)
 - [Micah Hack](https://github.com/MicahHack)
-- [Edward G](https://github.com/flame0618)
+- [Edgit G](https://github.com/flame0618)
