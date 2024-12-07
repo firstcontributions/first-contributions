@@ -15,6 +15,7 @@
 - [GCabane](https://github.com/GCabane)
 - [gatura](https://github.com/gatura-source)
 - Mradul
+- johnie
 - [Rhea](https://github.com/RheaAtre)
 - [Twinkle](https://github.com/Twinkle748)
 - [Jeanette Gonzalez](https://github.com/JeanetteGz)
