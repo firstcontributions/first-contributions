@@ -39,6 +39,7 @@
 - [SaginalaAzeez](https://github.com/asheedh)
 - [bivekk51] (https://github.com/bivekk51)
 - [AjaySinghKunwar](https://github.com/AjaySinghKunwar007)
+- [Vilashkumar Daate](https://github.com/vilash99)
 - [Zach Garza](https://github.com/ZachG1235)
 - [Mwofoh-Adriel](https://github.com/Mwofoh-Adriel)
 - [Eric-DaRosa](https://github.com/EricDar12)
