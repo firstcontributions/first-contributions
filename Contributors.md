@@ -1268,6 +1268,7 @@
 - [JayeLee17](https://github.com/JayeLee17)
 - [Niranjan Khedkar](https://github.com/Niranjan2048)
 - [Maurizio Morgano](https://github.com/mmorgano)
+- [Pasquotcho] (https://github.com/Pasquotcho)
 - [K S Sai Teja](https://github.com/kssaiteja)
 - [Venkatraj](https://github.com/ivenkatraj)
 - [Tristan Hyams](https://github.com/tristanhyams)
