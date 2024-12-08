@@ -83,6 +83,7 @@
 <kbd>[<img title="Turkmen" alt="Turkmen language" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tm.svg" width="22">](translations/README.tm.md)</kbd>
 <kbd>[<img title="Ewe (TOGO)" alt="Ewe (TOGO)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tg.svg" width="22">](translations/README.ewe.md)</kbd>
 <kbd>[<img title="አማርኛ" alt="አማርኛ" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/et.svg" width="22">](translations/README.et.md)</kbd>
+<kbd>[<img title="Malagasy" alt="Malagasy" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/mg.svg" width="22">](translations/README.mg.md)</kbd>
 <kbd>[<img title="ភាសាខ្មែរ" alt="ភាសាខ្មែរ" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/kh.svg" width="22">](translations/README.kh.md)</kbd>
 <kbd>[<img title="Morocco" alt="Moroccan Darija" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ma.svg" width="22">](translations/README.ma.md)</kbd>
 
