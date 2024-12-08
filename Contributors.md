@@ -43,6 +43,7 @@
 - [Tim Petri](https://github.com/timmytabasco)
 - [@thenocturnaldevgypsy-io | TheNocturnalDevGypsy (Abegail Torrendon)](https://github.com/thenocturnaldevgypsy-io)
 - [Tsafac Nkombong Regine Cyrille](https://github.com/Regine12)
+- [Mohamed Alam](https://github.com/the-ALAM)
 - Dante
 - Pooja
 - [Michael Gabriel](https://github.com/maranatha443)
