@@ -65,6 +65,7 @@
 - [m4tej](https://github.com/m4tej241)
 - [Auwalu Hamza](https://github.com/afhamu)
 - [Guilherme Andrade](https://github.com/ZeroRBK)
+- [Akshay Shahi](https://github.com/Akshayshahi900)
   [kabya deb](https://github.com/kabyadeb)
   [Khushi Ray](https://github.com/khushiray07)
   [Gnanendra Naidu N](https://github.com/gnanendranaidun)
