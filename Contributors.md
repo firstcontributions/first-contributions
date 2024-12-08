@@ -108,6 +108,7 @@
 - [Matheus Ranzani](https://github.com/matheusranzani)
 - [Matthieu Bonnot](https://github.com/MrMattam)
 - [KWYK](https://github.com/stevenchen99)
+- [Piero Santisteban](https://github.com/JPSantistebanQ)
 - [Gabriel Ripper](https://github.com/gabripper)
 - [Thales Winther](https://github.com/thaleswinther)
 - [Tornike Tsulukidze](https://github.com/TheMechanicalBeing)
